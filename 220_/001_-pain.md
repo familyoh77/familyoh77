@@ -4,39 +4,23 @@
 
 ## 일반 사항
 
-*   평가 : 통증에 대하여 다음 항목들을 최소 1년에 한 번 평가, 통증 상태나 기저 질환이 변화할 때는 보다 자주 평가;&#x20;
+*   평가 : 통증에 대하여 다음 항목들을 최소 1년에 한 번 평가, 통증 상태나 기저 질환이 변화할 때는 더 자주 평가;&#x20;
 
-    •병력, 신체검사, bio-psycho-social 평가, 통증 형태(neuropathic,  nociceptive, or mixed), 중증도, 기능에 대한 영향
+    • 병력, 신체검사[^1], bio-psycho-social 평가, 통증 형태(neuropathic,  nociceptive, or mixed), 중증도, 기능에 대한 영향
 *   통증 강도 평가 : 환자로 하여금 통증 정도를 표현하도록 함
 
-    •예) 시각적 아날로그 통증 스케일(visual analogue scale
+    • 예) 시각적 아날로그 통증 스케일(visual analogue scale for pain, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
+* 검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
 
-    for pain, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에,
-
-    극심한 통증이 있으면 100 ㎜에 표시
-*   검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및
-
-    심각한 문제 감별을 위하여 영상 검사 등을 고려
-
-![](../.gitbook/assets/81d8fe93-7594-414c-bd2f-2003494d3fe7.JPG)
+<div align="center"><img src="../.gitbook/assets/81d8fe93-7594-414c-bd2f-2003494d3fe7.JPG" alt=""></div>
 
 ### 만성 통증
 
 * ＞6주 지속되는 통증
-*   만성 통증의 type : neuropathic, muscle, inflammatory,
-
-    mechanical/compressive pain
-*   Neuropathic pain (신경병증성 통증) : 신경계의 손상이나 기능
-
-    장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하
-
-    또는 과민, 피부 온도 저하. 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통, fibromyalgia
+* 만성 통증의 type : neuropathic, muscle, inflammatory, mechanical/compressive pain
+* Neuropathic pain (신경병증성 통증) : 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하. 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통, fibromyalgia
 * Inflammatory pain : 통증 부위의 발열, 발적, 부종; 관절염, 감염, 손상, 수술 후 통증
-*   Mechanical/Compressive pain : 활동 중 악화, 휴식 시 호전; 특히 목/허리의 근육/인대의 strain or sprain, disks or facet의
-
-    변성, 압축 골절 관련
-
-***
+* Mechanical/Compressive pain : 활동 중 악화, 휴식 시 호전; 특히 목/허리의 근육/인대의 strain or sprain, disks or facet의 변성, 압축 골절 관련
 
 ## Management
 
@@ -380,3 +364,5 @@
 Oxford league table & Cox isoform selective (log scale)
 
 <figure><img src="../.gitbook/assets/통증3.JPG" alt=""><figcaption></figcaption></figure>
+
+[^1]: 
