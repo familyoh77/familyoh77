@@ -15,7 +15,7 @@
 
 ### <mark style="color:$primary;">만성 통증</mark>
 
-* ＞6주 지속되는 통증
+* ＞3개월 지속되는 통증 (ICD-11, 2019 기준; 구기준 6주에서 개정됨)
 * 만성 통증의 type : neuropathic, muscle, inflammatory, mechanical/compressive pain
 * Neuropathic pain (신경병증성 통증) : 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하. 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통, fibromyalgia
 * Inflammatory pain : 통증 부위의 발열, 발적, 부종; 관절염, 감염, 손상, 수술 후 통증
@@ -47,7 +47,7 @@
 * 1st-line : gabapentinoid, TCA, SNRI
   * trigeminal neuralgia에서는 carbamazepine, oxcarbazepine이 1차 선택제
 * 2nd-line : opioid analgesics(예: tramadol, codeine)
-* 3rd-line : cannabinoid(대마)
+* 3rd-line : cannabinoid(대마) (✽국내에서는 처방이 사실상 불가능; 일부 국가에서만 적용 가능)
 * 4th-line : 국소 lidocaine(대상포진후신경통에서는 2nd-line), methadone, lamotrigine, lacosamide, tapentadol, botulinum toxin
 
 ## <mark style="color:green;">비-약물 치료</mark>
@@ -75,7 +75,7 @@
 #### 용량
 
 * 325\~650 ㎎ q4\~6h, 1 g qid; 서방형 1,300 ㎎ q8h \[타이레놀]
-* 최대 용량 : 단기 사용(≤3일) 시 4 g/d
+* 최대 용량 : 단기 사용(≤3일) 시 4 g/d (✽최근 FDA 및 주요 가이드라인에서는 3 g/d 이하 권고 추세)
   * 고령, 영양 결핍, 간 독성 위험(규칙적 음주), 간/신 장애 시 2 g/d
 
 ### <mark style="color:$primary;">NSAID</mark>
@@ -91,7 +91,7 @@
 * 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함
   * 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
 * 단기 작용 약제를 선택하여 최소 유효 용량으로 시작, 시작 후 조기에 약물 반응을 평가
-* 투여 기간 : 아편성 물질- ＜3\~7일, tramadol- ＜2주
+* 투여 기간 : 아편성 물질- 급성 통증 시 3일 이하 권고, 7일 초과 금지(CDC 2022); tramadol- ＜2주
 
 #### Tramadol
 
@@ -177,7 +177,7 @@
 * 대상 : 대상포진후신경통, 당뇨병신경병증, central neuropathic pain, 섬유근육통
 * 저용량으로 시작하여 점차 증량 (보험기준 ☞ p.1193)
 * 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 보다 빠른 효과를 보임
-* 부작용 : 어지럼/졸음(용량의존; 저용량 시작 및 서서히 증량 시 완화), 도취감
+* 부작용 : 어지럼/졸음(용량의존; 저용량 시작 및 서서히 증량 시 완화), 도취감, 의존성/남용 가능성(특히 pregabalin; 영국에서는 2019년 규제 약물로 지정)
 * gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid \[뉴론틴]
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d \[리리카]
 
@@ -187,7 +187,7 @@
   * 부작용 : WBC↓, PLT↓, 조절 장애(예: 시야 혼탁), 부종, 기면, 구토, 두통, 혼돈
 * lamotrigine : 50 ㎎/d, 증량 50 ㎎/2wk, 최대 400 ㎎/d \[라믹탈]
   * gabapentinoid보다 효과적이지 않음. 2차 약제로 고려
-* topiramate : 요통에 효과 기대; 50~~400 ㎎ #1~~2 \[토파맥스]
+* topiramate : 요통에 효과 기대; 50\~400 ㎎ #1\~2 \[토파맥스]
 
 ### <mark style="color:$primary;">N-methyl-D-aspartate receptor antagonist (NMDA)</mark>
 
@@ -267,7 +267,7 @@
 * 심혈관 질환, 간염(특히 sulindac, diclofenac), 신 독성/신부전, 천식 악화, 체액 저류(부종, 혈압↑)
   * 신 독성 위험 인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
   * 고령자에서 10년 NSAID 사용 추적 조사에서 유의미한 신기능 저하가 관찰되지 않았다는 보고가 있음&#x20;
-  * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험을 30% 증가시킨다는 보고가 있음
+  * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험을 30% 증가시킨다는 보고가 있음 (✽약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음)
 
 #### 부작용 대처
 
