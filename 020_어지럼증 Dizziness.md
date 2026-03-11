@@ -1,367 +1,340 @@
 # 어지럼증 Dizziness
 
-![image](images/db1ae80f-f894-425c-a1e8-a852a02559b3.JPG)
+![image](.gitbook/assets/db1ae80f-f894-425c-a1e8-a852a02559b3.JPG)
 
 ## 일반 사항
-- 움직임이 없음에도 움직인다고 느끼거나 실제보다 더 많이 움직이는 느낌, 불균형, 불안정성
 
-- 경고 증상이 있거나 중추성 원인이 의심되는 경우 이송 등 신속한 조치를 요함
-
-- 어지럼의 여러 형태가 혼재되어 있고 표현의 불확실성 때문에 증상으로 원인을 감별하기 어려움;
+* 움직임이 없음에도 움직인다고 느끼거나 실제보다 더 많이 움직이는 느낌, 불균형, 불안정성
+* 경고 증상이 있거나 중추성 원인이 의심되는 경우 이송 등 신속한 조치를 요함
+* 어지럼의 여러 형태가 혼재되어 있고 표현의 불확실성 때문에 증상으로 원인을 감별하기 어려움;
 
 증상의 유형보다 증상의 발생 시점, trigger 등에 주목하는 것이 필요
 
 #### (true) Vertigo
-- 증상 : 회전감(“방이 돈다”), 움직이는 느낌(false sense)![image](images/27bf8ad7-6315-4c50-b394-d9b34ac336d1.JPG)
 
-- 원인
+* 증상 : 회전감(“방이 돈다”), 움직이는 느낌(false sense)![image](.gitbook/assets/27bf8ad7-6315-4c50-b394-d9b34ac336d1.JPG)
+*   원인
 
-  • 말초성 : 대부분 차지; BPPV, 전정신경염, 미로염, Ménière Dz
+    • 말초성 : 대부분 차지; BPPV, 전정신경염, 미로염, Ménière Dz
 
-  • 중추성 : 소뇌종양, CVD, 편두통
+    • 중추성 : 소뇌종양, CVD, 편두통
 
 #### Disequilibrium
-- 증상 : 불안정성, 불균형, 흔들리는 느낌
 
-- 원인 : 파킨슨병, 말초신경병증, 진정제, 전정 신경 질환,
+* 증상 : 불안정성, 불균형, 흔들리는 느낌
+*   원인 : 파킨슨병, 말초신경병증, 진정제, 전정 신경 질환,
 
     소뇌 장애, 시각 장애, 경추 강직, (보행 장애 관련) 근골격 질환
 
 #### Pre-syncope
-- 증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역,
+
+*   증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역,
 
     흐릿한 시각 (☞ p.103)
 
-  • 보통 서 있거나 똑바로 앉아 있을 때 발생 (✽누워 있을 때
+    • 보통 서 있거나 똑바로 앉아 있을 때 발생 (✽누워 있을 때
 
     발생하면 cardiac arrhythmia를 의심)
 
-  • 지속 시간 : 수 초~ 수분
-
-- 원인 : 기립성 저혈압 및 유발 약물, 부정맥, 심근경색, 관상동맥병
+    • 지속 시간 : 수 초\~ 수분
+* 원인 : 기립성 저혈압 및 유발 약물, 부정맥, 심근경색, 관상동맥병
 
 #### Lightheadedness
-- 증상 : 막연한 어지럼, 머리에 혈액이 부족한 느낌
 
-- 원인 : 과호흡증후군, 공황장애, 불안증, 알코올 남용
+* 증상 : 막연한 어지럼, 머리에 혈액이 부족한 느낌
+* 원인 : 과호흡증후군, 공황장애, 불안증, 알코올 남용
 
 #### Non-specific dizziness
-- 원인 : 정신적 문제(스트레스, 우울), 과호흡, 두부 외상, 약물(항콜린제, 항우울제), 대사 장애(저혈당),
+
+*   원인 : 정신적 문제(스트레스, 우울), 과호흡, 두부 외상, 약물(항콜린제, 항우울제), 대사 장애(저혈당),
 
     특정 어지럼증의 가벼운 형태
 
 ## 원인
-- Central : 10% 차지, 고령에서는 20% 차지; 편두통, 소뇌 종양, 뇌졸중, vestibular ischemia
 
-- Peripheral : BPPV, 전정신경염, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공,
+* Central : 10% 차지, 고령에서는 20% 차지; 편두통, 소뇌 종양, 뇌졸중, vestibular ischemia
+*   Peripheral : BPPV, 전정신경염, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공,
 
     superior canal dehiscence syndrome, 멀미, 중이염
+*   기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
 
-- 기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
+    • 고령 : 불안/우울 특성, 균형 감각 손상, 심근경색/뇌졸중 과거력, 청력 장애, 기립성 저혈압, 다제약물
 
-  • 고령 : 불안/우울 특성, 균형 감각 손상, 심근경색/뇌졸중 과거력, 청력 장애, 기립성 저혈압, 다제약물
+> ```
+> (✽≥5가지 약물 복용 환자의 ⅔에서 어지럼증 발생)
+> ```
 
->     (✽≥5가지 약물 복용 환자의 ⅔에서 어지럼증 발생)
 ※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural
 
-    perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%,
+```
+perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%,
 
-    vestibular neuritis 5.4%였으며 19~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음.
+vestibular neuritis 5.4%였으며 19~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음.
 
-    J Neurol 2020 Aug;267(8):2252-2259.
+J Neurol 2020 Aug;267(8):2252-2259.
+```
 
 ## 말초성 질환
 
 ### 양성발작성체위성어지럼증 (Benign paroxysmal positional vertigo, BPPV)
-- 다른 이름 : 이석증, 돌발성체위성현훈증
 
-- vertigo의 가장 흔한 원인
-
-- 말초성 vertigo
-
-- 50~70대, 여성(2배)
-
-- 기전 : calcite particle(otoconia)이 떨어져 나와 세반고리관 내에 부유. 머리를 움직이면 otoconia가 움직이게 되고,
+* 다른 이름 : 이석증, 돌발성체위성현훈증
+* vertigo의 가장 흔한 원인
+* 말초성 vertigo
+* 50\~70대, 여성(2배)
+*   기전 : calcite particle(otoconia)이 떨어져 나와 세반고리관 내에 부유. 머리를 움직이면 otoconia가 움직이게 되고,
 
     다시 놓여 질 때까지 motion sense를 일으킴
-
-- 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
-
-- 위험 인자 : 두부 외상, 내이 허혈, 전정신경염, 귀 수술, 우울, 움직이지 않는 생활
-
-- 발생 부위 : post. canal 60~90%, lat.(horizontal) canal 10~30%; ant.(sup.) canal rare; [우리나라] lat canal 이환이 많음(30%)
+* 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
+* 위험 인자 : 두부 외상, 내이 허혈, 전정신경염, 귀 수술, 우울, 움직이지 않는 생활
+* 발생 부위 : post. canal 60~~90%, lat.(horizontal) canal 10~~30%; ant.(sup.) canal rare; \[우리나라] lat canal 이환이 많음(30%)
 
 #### 임상 양상
-- 특정 자세나 머리 움직임에 따라 심한 회전감 발생
 
-- 경과 : 돌발적 발생 → 자세를 바꾸고 안정하면 보통 수 분 이내 호전, 1주 일 이상 반복 발생
-
-- 동반 증상 : 구역 • 청력이나 신경학적 이상은 없음
-
-- 안진 : 말초성
-
-- 검사 : Dix-Hallpike test(post canal), Supine roll test(lat canal)
+* 특정 자세나 머리 움직임에 따라 심한 회전감 발생
+* 경과 : 돌발적 발생 → 자세를 바꾸고 안정하면 보통 수 분 이내 호전, 1주 일 이상 반복 발생
+* 동반 증상 : 구역 • 청력이나 신경학적 이상은 없음
+* 안진 : 말초성
+* 검사 : Dix-Hallpike test(post canal), Supine roll test(lat canal)
 
 ### 전정신경염 (Vestibular neuritis)
-- vertigo의 두 번째 흔한 원인
 
-- 30~50세 호발
-
-- 원인 : 전정신경의 바이러스 감염; 기전- 불명
+* vertigo의 두 번째 흔한 원인
+* 30\~50세 호발
+* 원인 : 전정신경의 바이러스 감염; 기전- 불명
 
 #### 임상 양상
-- 경과 : 수 시간에 걸쳐 아급성으로 진행 → 1~2일째 가장 심함 → 수일~1주 동안 점차 완화
 
-  • 불안정성은 수개월 동안 지속될 수 있음; 발병 후 15%에서 BPPV가 발생할 수 있음
+*   경과 : 수 시간에 걸쳐 아급성으로 진행 → 1~~2일째 가장 심함 → 수일~~1주 동안 점차 완화
 
-- 동반 증상 : 구역/구토(처음 수일 동안 심함)
+    • 불안정성은 수개월 동안 지속될 수 있음; 발병 후 15%에서 BPPV가 발생할 수 있음
+*   동반 증상 : 구역/구토(처음 수일 동안 심함)
 
-  • 청력 이상은 보통 없음
-
-- 안진 : 급성기에 말초성 안진. horizontally rotating spontaneous nystagmus
-
-- 신경학적 이상 : 걷기 힘듦. 이환된 쪽으로 방향이 틀어지거나 넘어짐
-
-- 검사 : Head impulse test 이상
+    • 청력 이상은 보통 없음
+* 안진 : 급성기에 말초성 안진. horizontally rotating spontaneous nystagmus
+* 신경학적 이상 : 걷기 힘듦. 이환된 쪽으로 방향이 틀어지거나 넘어짐
+* 검사 : Head impulse test 이상
 
 ### 메니에르병 (Ménière Dz)
-- 기전 : 내이 endolymphatic fluid의 증가
 
-- 원인 : 불명, 알레르기, 감염, 자가면역 손상
+* 기전 : 내이 endolymphatic fluid의 증가
+* 원인 : 불명, 알레르기, 감염, 자가면역 손상
 
 #### 임상 양상
-- 3주징 : 어지럼, (환측) 이명, 난청(감각 신경성); 종종 침상 안정이 필요할 만큼 중증
 
-- 경과 : 수 분~수 시간 지속, 반복 발생
+* 3주징 : 어지럼, (환측) 이명, 난청(감각 신경성); 종종 침상 안정이 필요할 만큼 중증
+* 경과 : 수 분\~수 시간 지속, 반복 발생
+*   동반 증상 : 귀의 충만감과 통증, 구역, 구토, 두통 악화
 
-- 동반 증상 : 귀의 충만감과 통증, 구역, 구토, 두통 악화
-
-  • 신경학적 이상은 없음
-
-- 안진 : 말초성. unidirectional, horizontal-torsional
+    • 신경학적 이상은 없음
+* 안진 : 말초성. unidirectional, horizontal-torsional
 
 ### 미로염 (내이염, Labyrinthitis)
-- 원인 : 감염(바이러스, 세균), 염증, 혈행 장애(경색), 자가면역 질환, 이독성 약물(예: aspirin, aminoglycoside, loop diuretics,
+
+*   원인 : 감염(바이러스, 세균), 염증, 혈행 장애(경색), 자가면역 질환, 이독성 약물(예: aspirin, aminoglycoside, loop diuretics,
 
     cisplatin)
-
-- 위험 인자 : 상기도 감염, 중이염, 두부 외상, 알레르기 병력, 뇌막염, 뇌혈관 질환, 기저 자가면역질환, herpes zoster 감염,
+*   위험 인자 : 상기도 감염, 중이염, 두부 외상, 알레르기 병력, 뇌막염, 뇌혈관 질환, 기저 자가면역질환, herpes zoster 감염,
 
     음주, 알코올 남용, 흡연
 
 #### 임상 양상
-- 심한 정도의 움직이는 느낌, 방이 도는 느낌
 
-- 경과 : 돌발적 → 보통 수 시간~수일 지속
-
-- 동반 증상 : 구역, 구토; 원인에 따른 증상 발생(예: 뇌막염 시 두통, 중이염 시 귀의 통증)
-
-- 청력 이상 : 편측 돌발성 난청　•신경학적 이상은 없음(뇌막염 제외)
-
-- 안진 : spontaneous, fine horizontal nystagmus. horizon-torsion 병합도 가능
+* 심한 정도의 움직이는 느낌, 방이 도는 느낌
+* 경과 : 돌발적 → 보통 수 시간\~수일 지속
+* 동반 증상 : 구역, 구토; 원인에 따른 증상 발생(예: 뇌막염 시 두통, 중이염 시 귀의 통증)
+* 청력 이상 : 편측 돌발성 난청　•신경학적 이상은 없음(뇌막염 제외)
+* 안진 : spontaneous, fine horizontal nystagmus. horizon-torsion 병합도 가능
 
 ### 외림프누공 (Perilymphatic fistula)
-- 기전 : 두개 내 또는 압력 변화로 인하여 외림프액이 내이로부터 중이로 갑자기 이동하면서 발생
 
-- 원인 : 머리/목 외상(가장 흔함), 스쿠버 다이빙, 곡예 비행, 역도, 출산, 심한 코 풀기 또는 재채기, 만성 귀 질환
-
-- 증상 : 갑자기 발생하는 난청, 현훈, 이명
+* 기전 : 두개 내 또는 압력 변화로 인하여 외림프액이 내이로부터 중이로 갑자기 이동하면서 발생
+* 원인 : 머리/목 외상(가장 흔함), 스쿠버 다이빙, 곡예 비행, 역도, 출산, 심한 코 풀기 또는 재채기, 만성 귀 질환
+* 증상 : 갑자기 발생하는 난청, 현훈, 이명
 
 ### 기타
-- Cholesteatoma : keratin debris가 들어 있는 낭종성 병변; 대부분 중이와 mastoid 이환
 
-- Herpes zoster oticus (Ramsay Hunt syndrome) : 귀의 vesicular eruption
-
-- Otosclerosis	 : 중이의 비정상적으로 성장한 뼈; 난청, 이명, 어지럼 유발
-
-- 말초신경병증 : disequilibrium; 하지(특히 발) 감각 저하 
+* Cholesteatoma : keratin debris가 들어 있는 낭종성 병변; 대부분 중이와 mastoid 이환
+* Herpes zoster oticus (Ramsay Hunt syndrome) : 귀의 vesicular eruption
+* Otosclerosis : 중이의 비정상적으로 성장한 뼈; 난청, 이명, 어지럼 유발
+* 말초신경병증 : disequilibrium; 하지(특히 발) 감각 저하
 
 ## 중추성 질환
 
 ### 편두통성 어지럼증 (Migrainous vertigo)
-- 편두통과 관련하여 발생하는 일회적 어지럼증; 두통 없이도 발생할 수 있음
 
-- 편두통과 마찬가지로 카페인, 알코올 등에 의해 유발
-
-- 증상 : 두부 압박감, 시각/청각 과민　•청력 소실 또는 이명은 없음
-
-- 5분~72시간 동안 지속되는 전정기관 증상이 5회 이상 및 편두통 병력이 있는 경우 고려 
-
-- 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민 •청력 소실 또는 이명은 없음
-
-- 치료 : 편두통 치료 (☞ p.76) 
+* 편두통과 관련하여 발생하는 일회적 어지럼증; 두통 없이도 발생할 수 있음
+* 편두통과 마찬가지로 카페인, 알코올 등에 의해 유발
+* 증상 : 두부 압박감, 시각/청각 과민　•청력 소실 또는 이명은 없음
+* 5분\~72시간 동안 지속되는 전정기관 증상이 5회 이상 및 편두통 병력이 있는 경우 고려
+* 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민 •청력 소실 또는 이명은 없음
+* 치료 : 편두통 치료 (☞ p.76)
 
 ### 기타
-- Cerebellopontine angle tumor : vestibular schwannoma(예: acoustic neuroma) 등에 의함
 
-- Cerebrovascular disease : TIA, 뇌졸중
-
-- Multiple sclerosis : white matter의 demyelinization
-
-- 파킨슨병 : disequilibrium; resting tremor, rigidity, bradykinesia 
+* Cerebellopontine angle tumor : vestibular schwannoma(예: acoustic neuroma) 등에 의함
+* Cerebrovascular disease : TIA, 뇌졸중
+* Multiple sclerosis : white matter의 demyelinization
+* 파킨슨병 : disequilibrium; resting tremor, rigidity, bradykinesia
 
 ## 기타 질환
 
 ### 멀미 (Motion sickness)
-- 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ p.112)
 
-- 원인 : 불명
-
-- 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적
+* 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ p.112)
+* 원인 : 불명
+*   기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적
 
     반응으로 추정
+* 회전, 상하, 낮은 주파수 움직임에서 흔히 발생; 직선, 수평, 높은 주파수 움직임에서는 적게 발생
+* 동반 증상 : epigastric fullness, 트림, 구역, 구토, 발한, 창백, 침 분비 증가, 하품, 과호흡
+* 신경학적 이상, 청력 이상 : 없음
 
-- 회전, 상하, 낮은 주파수 움직임에서 흔히 발생; 직선, 수평, 높은 주파수 움직임에서는 적게 발생
+### 기타
 
-- 동반 증상 : epigastric fullness, 트림, 구역, 구토, 발한, 창백, 침 분비 증가, 하품, 과호흡
-
-- 신경학적 이상, 청력 이상 : 없음
-
-### 기타 
-- Cervical vertigo : 경추의 외상(특히 과신전)이나 퇴행성 변화 관련; 목의 움직임에 의해 유발
-
-- 약물 유발성 : : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제,
+* Cervical vertigo : 경추의 외상(특히 과신전)이나 퇴행성 변화 관련; 목의 움직임에 의해 유발
+*   약물 유발성 : : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제,
 
     근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
-
-- Psychological : 기분, 불안, 신체화 증상
-
-- 기립성 저혈압 : presyncope; 맥박 증가 (☞ p.500)
-
-- 과호흡 : lightheadness; 불안, 맥박 증가; 치료- 호흡 조절, β-차단제, 항불안제 
+* Psychological : 기분, 불안, 신체화 증상
+* 기립성 저혈압 : presyncope; 맥박 증가 (☞ p.500)
+* 과호흡 : lightheadness; 불안, 맥박 증가; 치료- 호흡 조절, β-차단제, 항불안제
 
 ## 진단
-- 혈압 : 누운 자세 및 기립 자세를 포함하여 측정
 
-- 신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진; electronystagmography, vestibular-evoked myogenic
+* 혈압 : 누운 자세 및 기립 자세를 포함하여 측정
+*   신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진; electronystagmography, vestibular-evoked myogenic
 
     potentials
-
-- 수기 검사 : Dix-Hallpike test, Supine roll test, Test of skew
-
-- 영상 검사 : 보통 도움이 되지 않음; 진단이 불확실하거나 신경학적 이상 시 CT/MRI 고려
-
-- 실험실 검사 : 일률적인 실험실 검사는 필요 없음; 당뇨 환자에서 혈당 등 검사 고려
-
-- 심장 질환 의심 시 ECG, Holter monitoring, carotid Doppler test 등 고려
+* 수기 검사 : Dix-Hallpike test, Supine roll test, Test of skew
+* 영상 검사 : 보통 도움이 되지 않음; 진단이 불확실하거나 신경학적 이상 시 CT/MRI 고려
+* 실험실 검사 : 일률적인 실험실 검사는 필요 없음; 당뇨 환자에서 혈당 등 검사 고려
+* 심장 질환 의심 시 ECG, Holter monitoring, carotid Doppler test 등 고려
 
 #### [Dix-Hallpike test](http://n.neurology.org/content/suppl/2008/06/09/70.22.2067.DC2)
-- [방법](https://www.youtube.com/watch?v=8RYB2QlO1N4) : 침대에 무릎을 뻗은 상태로 길게 앉힘 → 머리를 45°옆으로 돌린 상태에서 턱을 약간 쳐들게 잡고, 머리가 수평보다
+
+*   [방법](https://www.youtube.com/watch?v=8RYB2QlO1N4) : 침대에 무릎을 뻗은 상태로 길게 앉힘 → 머리를 45°옆으로 돌린 상태에서 턱을 약간 쳐들게 잡고, 머리가 수평보다
 
     30°더 내려가게 빠르게 눕히고(머리를 침대 밖으로 늘어뜨림) 30초간 안진 관찰 → 다시 앉게 하고 30초간 안진 관찰
 
     → 반대 방향으로 머리를 돌려 다시 시행
-
-- 진단 : 대부분 안진과 증상이 생기는 쪽의 post canal BPPV에 기인. 드물게 ant canal BPPV도 가능
+* 진단 : 대부분 안진과 증상이 생기는 쪽의 post canal BPPV에 기인. 드물게 ant canal BPPV도 가능
 
 #### Supine roll test
-- 적용 : Dix-Hallpike test에 음성인 BPPV 의심 환자에서 시행
 
-- 방법 : 환자를 반듯이 눕히고 고개를 약간 굴곡시킨 상태에서 한쪽으로 빠르게 90도 돌린 후 30초간 어지럼 및 안진을 관찰.
+* 적용 : Dix-Hallpike test에 음성인 BPPV 의심 환자에서 시행
+*   방법 : 환자를 반듯이 눕히고 고개를 약간 굴곡시킨 상태에서 한쪽으로 빠르게 90도 돌린 후 30초간 어지럼 및 안진을 관찰.
 
     30초간 정면을 향하게 한 후 반대쪽도 시행
+* 진단 : 안진과 증상이 생기는 쪽의 lat canal BPPV
 
-- 진단 : 안진과 증상이 생기는 쪽의 lat canal BPPV
+#### Head impulse test![image](.gitbook/assets/b2dcca20-f1b6-42ee-87ec-cf9fdcf50511.JPG)
 
-#### Head impulse test![image](images/b2dcca20-f1b6-42ee-87ec-cf9fdcf50511.JPG)
-- [방법](https://www.nuemblog.com/blog/hints) : 검사자와 마주 앉아 검사자의 코를  주시하게
+*   [방법](https://www.nuemblog.com/blog/hints) : 검사자와 마주 앉아 검사자의 코를 주시하게
 
     하고 검사자가 환자의 얼굴을 잡고 (환자는 예측
 
     하지 못한 상태에서) 한쪽으로 빠르게 15°돌림 →
 
     천천히 정면을 향하게 하고 반대쪽으로 다시 시행
-
-- 음성 (정상) : 시선이 표적에 고정됨;
+*   음성 (정상) : 시선이 표적에 고정됨;
 
     소뇌 병변에서는 정상 반응을 보임
+*   양성 (비정상) : 시선이 머리 회전을 따라 돌아간 후
 
-- 양성 (비정상) : 시선이 머리 회전을 따라 돌아간 후
-
-     정면으로 돌아 옴; 회전시킨 쪽의 vestibulo-ocular
+    정면으로 돌아 옴; 회전시킨 쪽의 vestibulo-ocular
 
     reflex 결손 (peripheral vestibular lesion)
 
 #### 기타
-- Test of skew : 양쪽 눈을 번갈아 cover & uncover
+
+*   Test of skew : 양쪽 눈을 번갈아 cover & uncover
 
     하며 안구의 수직 움직임을 관찰
 
-  •양성 (수직 움직임 발생) : 소뇌 이상 의심
-
-- 누공 검사 : 통기 이경으로 고막에 음압/양압을
+    •양성 (수직 움직임 발생) : 소뇌 이상 의심
+*   누공 검사 : 통기 이경으로 고막에 음압/양압을
 
     가해 안진과 현훈 유발
 
-  •양성 (증상 발생) : 외림프누공 의심
-
-- Vestibular function testing : 진단이 불확실하거나
+    •양성 (증상 발생) : 외림프누공 의심
+*   Vestibular function testing : 진단이 불확실하거나
 
     치료에 반응하지 않을 때 시행
 
 **※** HiNTS Exam
 
-- 중추/말초 vertigo 감별에 유용. 안진이 있는 vertigo가 지속되는 환자에서 적용
-
-- 다음 3가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew
-
-- 다음의 경우 말초성으로 판정 : head impulse test(+), 안진- 수평 또는 방향성 없음, test of skew(-); 특이도 및 민감도 ＞95%
+* 중추/말초 vertigo 감별에 유용. 안진이 있는 vertigo가 지속되는 환자에서 적용
+* 다음 3가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew
+* 다음의 경우 말초성으로 판정 : head impulse test(+), 안진- 수평 또는 방향성 없음, test of skew(-); 특이도 및 민감도 ＞95%
 
 ### 감별
-- Sudden-onset dizziness with 국소 신경학적 이상(예: 수직 or 회전 안진, 새로 발생한 불안정, 새로 발생한 난청)
+
+*   Sudden-onset dizziness with 국소 신경학적 이상(예: 수직 or 회전 안진, 새로 발생한 불안정, 새로 발생한 난청)
 
     → 당뇨가 있으면 저혈당 확인; 당뇨가 없거나 저혈당 치료 후에도 증상 지속, BPPV 또는 기립성 저혈압에 해당되지 않으면
 
     즉시 의뢰(stroke 감별을 요함)
-
-- Sudden-onset vestibular 증상(예: 어지럼, 구역/구토, 보행 불안정) → HiNTS 검사 시행- head impulse test(-), 방향성이 있는
+*   Sudden-onset vestibular 증상(예: 어지럼, 구역/구토, 보행 불안정) → HiNTS 검사 시행- head impulse test(-), 방향성이 있는
 
     안진, test of skew(+) 시 즉시 의뢰(중추성 의심); HiNTS 검사를 수행하지 못하는 상황에서 BPPV 또는 기립성 저혈압에
 
     해당되지 않으면 즉시 의뢰
-
-- 재발성 어지럼 with 기능적 신경학적 이상 → 이미 functional neurological disorder로 진단받은 경우 반복되는 어지럼증은
+*   재발성 어지럼 with 기능적 신경학적 이상 → 이미 functional neurological disorder로 진단받은 경우 반복되는 어지럼증은
 
     장애 증상일 수 있음. 새로운 증상이 발생하면 재평가 필요
 
 #### 유발 인자에 따른 감별
-    ![image](images/8ba49e38-aa16-49db-8e01-d106b95748b2.png)    
+
+```
+![image](images/8ba49e38-aa16-49db-8e01-d106b95748b2.png)    
+```
 
 #### 동반 증상에 따른 감별
-    ![image](images/1148a3ec-f166-4e40-bfb9-6b147c6d5fb0.png)
+
+```
+![image](images/1148a3ec-f166-4e40-bfb9-6b147c6d5fb0.png)
+```
 
 증상 기간 및 청각 저하 여부에 따른 감별
 
-    ![image](images/325753e2-ce6b-40d0-80f0-4d6043571ff8.png)
+```
+![image](images/325753e2-ce6b-40d0-80f0-4d6043571ff8.png)
+```
 
 #### 중추성 vs 말초성 감별
-    ![image](images/cf5f5a37-cfd0-4490-9523-96d505975dd7.png)
+
+```
+![image](images/cf5f5a37-cfd0-4490-9523-96d505975dd7.png)
+```
 
 #### Vertigo 원인별 특징
-    ![image](images/cd3f64eb-35ca-412e-bad9-697efd782381.png)
 
-    ![image](images/c7c71b44-4ccb-4aed-90c4-78fab9dc9d24.png)
+```
+![image](images/cd3f64eb-35ca-412e-bad9-697efd782381.png)
 
----
+![image](images/c7c71b44-4ccb-4aed-90c4-78fab9dc9d24.png)
+```
+
+***
 
 ## Management
 
 ## 비-약물 치료
-- 금연
 
-- 전정 재활 운동 : 어지럼 증상이 심하게 유발되지 않는 수준으로 시행
+* 금연
+*   전정 재활 운동 : 어지럼 증상이 심하게 유발되지 않는 수준으로 시행
 
-   [• 예:](https://acare.abbott.com/en/exercise-with-vertigo/) ① 고개를 양 옆으로 움직임, ② 정면을 보고 위 아래로 움직임, ③ 옆으로 45도 돌리고 위 아래로 움직임 & 반대편에서 반복;
+    [• 예:](https://acare.abbott.com/en/exercise-with-vertigo/) ① 고개를 양 옆으로 움직임, ② 정면을 보고 위 아래로 움직임, ③ 옆으로 45도 돌리고 위 아래로 움직임 & 반대편에서 반복;
 
     처음에는 눈을 뜨고 시선 고정 없이, 이후 정면 사물을 주시하면서(또는 팔을 뻗고 손가락을 응시하면서), 최종적으로 눈을 감고
 
     운동; 1회 20번, 1일 2회 이상 시행. 천천히 시작, 점차 빠르게 시행
+*   Balance exercise
 
-- Balance exercise 
+    [• 예: ](https://www.uofmhealth.org/health-library/ug1239)앞에는 의자 등 뒤에는 벽을 두고(필요하면 이를 지지) ① 팔을 붙이고 발을 모으고 30초간 서 있음, (Romberg exercise),
 
-  [• 예: ](https://www.uofmhealth.org/health-library/ug1239)앞에는 의자 등 뒤에는 벽을 두고(필요하면 이를 지지) ① 팔을 붙이고 발을 모으고 30초간 서 있음, (Romberg exercise),
-
-    ② 어깨 넓이로 발을 벌리고 서서 앞-뒤로, 좌-우로 기울임, 20번 반복, ③ 제자리 걷기(가급적  무릎을 높게 올림),
+    ② 어깨 넓이로 발을 벌리고 서서 앞-뒤로, 좌-우로 기울임, 20번 반복, ③ 제자리 걷기(가급적 무릎을 높게 올림),
 
     ④ 발을 약간 벌리고 서서 180o turn. 처음에는 오른쪽, 다음에는 왼쪽, 어지러움이 발생하는 쪽에 5회 turn; 눈을 뜨고 시행,
 
@@ -369,65 +342,67 @@
 
 ## 치료 약물
 
->     ✽일부 약제는 어지럼증 상병으로는 보험 적용 안 됨
+> ```
+> ✽일부 약제는 어지럼증 상병으로는 보험 적용 안 됨
+> ```
 
 ### 전정 안정제
-- 진정 작용으로 인하여 낙상 등의 위험이 있음. 항콜린제 부작용 위험이 있음; 증상 회복 기간을 단축시켜 주지는 못함
+
+* 진정 작용으로 인하여 낙상 등의 위험이 있음. 항콜린제 부작용 위험이 있음; 증상 회복 기간을 단축시켜 주지는 못함
 
 #### Benzodiazepine
-- diazepam : 2~5 ㎎ bid~tid [디아제팜]
 
-- clonazepam : 0.25~0.5 ㎎ bid [리보트릴]
-
-- lorazepam : 0.5~2 ㎎ qid [아티반]
+* diazepam : 2~~5 ㎎ bid~~tid \[디아제팜]
+* clonazepam : 0.25\~0.5 ㎎ bid \[리보트릴]
+* lorazepam : 0.5\~2 ㎎ qid \[아티반]
 
 #### Antihistamine
-- meclizine : 12.5~25 ㎎ bid~tid [염산메클리진](비보험)
 
-- dimenhydrinate : 25~50 ㎎ bid~qid [보나링 에이]; BPH, 녹내장 주의
+* meclizine : 12.5~~25 ㎎ bid~~tid [염산메클리진](%EB%B9%84%EB%B3%B4%ED%97%98/)
+* dimenhydrinate : 25~~50 ㎎ bid~~qid \[보나링 에이]; BPH, 녹내장 주의
 
 #### 항콜린제
-- scopolamine 경피제 : 멀미에 적용; 출발 4시간 이전에 귀 뒤에 부착 (72시간 동안 효과); ≥8세 허가 [키미테 패취](비보험)
+
+*   scopolamine 경피제 : 멀미에 적용; 출발 4시간 이전에 귀 뒤에 부착 (72시간 동안 효과); ≥8세 허가 [키미테 패취](%EB%B9%84%EB%B3%B4%ED%97%98/)
 
     (☞ p.113)
 
 ### 항구토제
-- granisetron : 1 ㎎ tid [카이트릴]
 
-- metoclopramide : 단기 사용; 5~10 ㎎ tid [맥페란]
+* granisetron : 1 ㎎ tid \[카이트릴]
+* metoclopramide : 단기 사용; 5\~10 ㎎ tid \[맥페란]
 
 ### 이뇨제
-- hydrochlorothiazide : 메니에르병에 적용; 12.5~25 ㎎ qd~bid [다이크로짇]
+
+* hydrochlorothiazide : 메니에르병에 적용; 12.5~~25 ㎎ qd~~bid \[다이크로짇]
 
 ### 허혈 예방, 혈액 순환 개선
-- 필요시 혈압 조절, 지질 개선, 항혈전제
 
-- trimetazidine : 20 ㎎ tid [바스티난]
-
-- gin㎏o biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid [기넥신] (보험기준 ☞ 1179)
-
-- kallidinogenase : 유효성에 대한 근거 부족; 25~50 IU tid [카레스]
+* 필요시 혈압 조절, 지질 개선, 항혈전제
+* trimetazidine : 20 ㎎ tid \[바스티난]
+* gin㎏o biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid \[기넥신] (보험기준 ☞ 1179)
+* kallidinogenase : 유효성에 대한 근거 부족; 25\~50 IU tid \[카레스]
 
 ### 기타
-- 편두통 치료제 : 편두통 관련 어지럼증에 적용 (☞ p.78)
 
-- SSRI : psychosomatic vertigo, 지속되는 postural-perceptual vertigo에 적용 (☞ p.1146)
+* 편두통 치료제 : 편두통 관련 어지럼증에 적용 (☞ p.78)
+* SSRI : psychosomatic vertigo, 지속되는 postural-perceptual vertigo에 적용 (☞ p.1146)
+*   steroid : 전정신경염에 적용 (효과에 대하여 논란)
 
-- steroid : 전정신경염에 적용 (효과에 대하여 논란)
-
-  •methylprednisolone : 100 ㎎ qd → 10 ㎎/d 씩 감량, 총 3주 투여 [메치론]
+    •methylprednisolone : 100 ㎎ qd → 10 ㎎/d 씩 감량, 총 3주 투여 \[메치론]
 
 ## 질환별 치료
 
 ### BPPV
-- 대부분 4(2~6)주 내 자연 회복; 30~50%에서 재발(특히 첫째 해), 이석정복술로 재발 감소;
+
+* 대부분 4(2~~6)주 내 자연 회복; 30~~50%에서 재발(특히 첫째 해), 이석정복술로 재발 감소;
 
 #### 이석정복술 (Canalith repositioning maneuver)
+
 **Epley maneuver**
 
-- post canal BPPV의 가장 효과적인 치료법; 치료 성공률 80%
-
-- [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
+* post canal BPPV의 가장 효과적인 치료법; 치료 성공률 80%
+*   [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
 
     ① 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다
 
@@ -440,16 +415,14 @@
     향하도록 함
 
     ④ 이 상태를 유지하며 천천히 일아나 앉게 하고 30초간 유지
-
-- 시술 중 구역 발생 가능성에 대하여 설명; 반복 시술할 수 있으며 시술 후 활동 제한은 필요 없음
+* 시술 중 구역 발생 가능성에 대하여 설명; 반복 시술할 수 있으며 시술 후 활동 제한은 필요 없음
 
 **Semont-plus maneuver**
 
-- post canal BPPV에 적용
+*   post canal BPPV에 적용
 
     Epley maneuver보다 효과가 더 좋다는 보고가 있음(증상 소멸까지 평균 SM-plus 2일 vs. EM 3일 소요)
-
-- [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329) : [어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림
+*   [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329) : \[어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림
 
     → 오른팔을 옆으로 뻗고 오른쪽(환측)으로, 머리가 침대 아래로 내려가도록(head 60 degree overextended) 150도 이상
 
@@ -458,24 +431,22 @@
     → 얼굴 각도를 유지한 채 왼쪽(건측)으로 240도 움직임. 60초 유지
 
     → 일어나 앉아 정면을 보고 60초 유지
-
-- 오전, 오후, 밤에 각각 3회 반복 
+* 오전, 오후, 밤에 각각 3회 반복
 
 **Lempert roll maneuver(Barbecue roll maneuver)**
 
-- lat canal BPPV 치료법; 치료 성공률 ＜75%
+* lat canal BPPV 치료법; 치료 성공률 ＜75%
+*   방법 : 환측 귀가 바닥을 향하도록 90°옆으로 누움 → 건측으로 90도 돌아 누움(얼굴이 천정을 향한 자세) → 건측으로 90도씩
 
-- 방법 : 환측 귀가 바닥을 향하도록 90°옆으로 누움 → 건측으로 90도 돌아 누움(얼굴이 천정을 향한 자세) → 건측으로 90도씩
-
-    더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함 → 천천히 일어나 앉음; 각 자세마다 30~60초 또는 어지럼증이
+    더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함 → 천천히 일어나 앉음; 각 자세마다 30\~60초 또는 어지럼증이
 
     사라질 때까지 유지함 (✽각 자세의 유지 시간과 눕는 각도에 대해서는 이견이 있음)
 
 **재활 운동**
 
-- 전정 재활 운동
+*   전정 재활 운동
 
-  • 예: [Brandt-Daroff exercise](https://www.youtube.com/watch?v=voZXtTUdQ00&t=31s) 
+    • 예: [Brandt-Daroff exercise](https://www.youtube.com/watch?v=voZXtTUdQ00\&t=31s)
 
     ① 침대 가장자리에 똑바로 앉음
 
@@ -485,55 +456,54 @@
 
     ④ 일어나 앉아 고개를 정면을 향하게 함
 
-    ⑤ 고개를 왼쪽으로 45(또는 가능한 한) 돌림 
+    ⑤ 고개를 왼쪽으로 45(또는 가능한 한) 돌림
 
     ⑥ 오른쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지
 
     ⑦ 일어나 앉아 고개를 정면을 향하게 함
 
 #### 약물 치료
-- 안정제 : central compensation을 방해하고 낙상 위험을 증가시킬 수 있으므로 권하지 않음; 투여하는 경우 단기간으로
+
+*   안정제 : central compensation을 방해하고 낙상 위험을 증가시킬 수 있으므로 권하지 않음; 투여하는 경우 단기간으로
 
     제한하며 주의를 요함
-
-- 항구토제
-
-- Vit D & Ca : (특히 Vit D 결핍 환자에서) BPPV 재발 감소에 유효하다는 보고가 있음
+* 항구토제
+* Vit D & Ca : (특히 Vit D 결핍 환자에서) BPPV 재발 감소에 유효하다는 보고가 있음
 
 ### 전정신경염
-- 전정 재활 훈련
+
+* 전정 재활 훈련
 
 #### 약물 치료
-- 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용
 
-- steroid : 효과에 대하여 논란이 있으며 투여 시 증상 발현 3일 이내 시작
+* 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용
+* steroid : 효과에 대하여 논란이 있으며 투여 시 증상 발현 3일 이내 시작
 
 ### 미로염
 
 #### 약물 치료
-- 전정 안정제(단기 사용), 항구토제
 
-- 항생제 : 세균 감염 의심 시 적용
+* 전정 안정제(단기 사용), 항구토제
+* 항생제 : 세균 감염 의심 시 적용
+*   항바이러스제 : herpes에 의한 경우 적용
 
-- 항바이러스제 : herpes에 의한 경우 적용
-
-  •acyclovir 800 ㎎ 5회/d ×7d [메노바] (☞ p.962)
+    •acyclovir 800 ㎎ 5회/d ×7d \[메노바] (☞ p.962)
 
 ### 메니에르병
-- 음식 제한 : 소금(＜2.5 g/d), MSG, 카페인, 초콜릿, 니코틴, 음주
 
-- 알레르기 환자에서 알레르기 치료
-
-- 수술 : endolymphatic sac surgery
+* 음식 제한 : 소금(＜2.5 g/d), MSG, 카페인, 초콜릿, 니코틴, 음주
+* 알레르기 환자에서 알레르기 치료
+* 수술 : endolymphatic sac surgery
 
 #### 약물 치료
-- 전정 안정제, 항구토제, 이뇨제
+
+* 전정 안정제, 항구토제, 이뇨제
 
 ### 외림프누공
-- 침상 안정. 수술(이식)
 
-> **질병코드**
-R42 어지럼증 및 어지럼
+* 침상 안정. 수술(이식)
+
+> **질병코드** R42 어지럼증 및 어지럼
 
 H81.0 메니에르병
 
@@ -545,4 +515,4 @@ H81.9 전정기능의 상세불명 장애
 
 H83.0 미로염
 
-![image](images/25813d0d-015f-434c-8701-0bac7038726e.JPG)
+![image](.gitbook/assets/25813d0d-015f-434c-8701-0bac7038726e.JPG)
