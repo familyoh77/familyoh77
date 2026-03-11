@@ -296,7 +296,7 @@
 * indomethacin \[바이겔 크림]
 * diclofenac \[볼타렌 에멀겔]
 
-### NSAID 비교
+### <mark style="color:$primary;">NSAID 비교</mark>
 
 <figure><img src="../.gitbook/assets/통증2.JPG" alt=""><figcaption></figcaption></figure>
 
