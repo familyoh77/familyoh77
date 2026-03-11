@@ -237,7 +237,7 @@
 * 제한적 효과
 * 대상 : 다른 약물 치료로 효과가 없는 근골격 통증에 대하여 고려
 
-![](../.gitbook/assets/33ae4416-1cbd-4d93-b974-fe6139edc479.JPG)
+<div align="left"><img src="../.gitbook/assets/33ae4416-1cbd-4d93-b974-fe6139edc479.JPG" alt=""></div>
 
 ### <mark style="color:green;">NSAID</mark>
 
