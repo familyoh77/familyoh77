@@ -300,6 +300,6 @@
 
 <figure><img src="../.gitbook/assets/통증2.JPG" alt=""><figcaption></figcaption></figure>
 
-Oxford league table & Cox isoform selective (log scale)
+**Oxford league table** & **Cox isoform selective** (log scale)
 
 <figure><img src="../.gitbook/assets/통증3.JPG" alt=""><figcaption></figcaption></figure>
