@@ -15,7 +15,7 @@
 
 ### <mark style="color:$primary;">만성 통증</mark>
 
-* ＞3개월 지속되는 통증 (ICD-11, 2019 기준; 구기준 6주에서 개정됨)
+* ＞3개월 지속 또는재발하는 통증 (ICD-11, 2019)
 * 만성 통증의 type : neuropathic, muscle, inflammatory, mechanical/compressive pain
 * Neuropathic pain (신경병증성 통증) : 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하. 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통, fibromyalgia
 * Inflammatory pain : 통증 부위의 발열, 발적, 부종; 관절염, 감염, 손상, 수술 후 통증
@@ -71,12 +71,9 @@
   * ＜2 g/d 용량에서는 심각한 GI 부작용 위험은 거의 없음
   * 혈소판 기능에는 영향 없음
 * 약물 상호 작용 : warfarin(INR 연장), isoniazid, CYP450 대사 약물
-
-#### 용량
-
-* 325\~650 ㎎ q4\~6h, 1 g qid; 서방형 1,300 ㎎ q8h \[타이레놀]
-* 최대 용량 : 단기 사용(≤3일) 시 4 g/d&#x20;
-  * 최근 FDA 및 주요 가이드라인에서는 3 g/d 이하 권고 추세
+* 용량
+  * 325\~650 ㎎ q4\~6h, 1 g qid; 서방형 1,300 ㎎ q8h \[타이레놀]
+  * 최대 용량 : 단기 사용(≤3일) 시 4 g/d; 최근 FDA 및 주요 가이드라인에서는 3 g/d 이하 권고 추세
   * 고령, 영양 결핍, 간 독성 위험(규칙적 음주), 간/신 장애 시 2 g/d
 
 ### <mark style="color:$primary;">NSAID</mark>
@@ -126,7 +123,7 @@
 #### Buprenorphine 패취제
 
 * 저용량(5\~10 ㎍/wk)으로 시작 → 효과 및 부작용을 관찰하며 증량; 1주 1매 \[노스판 패취]
-  * 보험기준 : NSAID의 최대 용량에도 반응하지 않아 마약성 진통제를 필요로 하는 심한 통증에 1주 20㎍/h까지 인정. 1회 처방 당 최대 30일까지 인정
+* 보험기준 : NSAID의 최대 용량에도 반응하지 않아 마약성 진통제를 필요로 하는 심한 통증에 1주 20㎍/h까지 인정. 1회 처방 당 최대 30일까지 인정
 
 #### Fentanyl 패취제
 
@@ -165,7 +162,7 @@
   * 장점 : 기존 opioid에 비하여 위장관 부작용(구역, 변비)이 적음
   * 부작용 : 어지럼, 구역, 두통, 졸음
   * 주의 : MAOI 병용 금기; SSRI/SNRI 병용 시 serotonin syndrome 위험
-  * 용법 : 50\~100 ㎎ q4\~6h; 서방형 50\~250 ㎎ bid \[뉴신타 서방]
+  * 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩증량\[뉴신타 서방]
 
 ### <mark style="color:$primary;">Benzodiazepine</mark>
 
@@ -258,7 +255,7 @@
 * long-acting 약제 (반감기 ＞6시간) : naproxen, celecoxib, nabumetone, piroxicam
 * COX-2 선택 억제제 : 소화성 궤양 위험이 보다 적음, 혈소판 응고 저해 작용이 적음; 고용량에서 심혈관 위험 증가; celecoxib, meloxicam
 * prodrug : 흡수 후 hepatic biotransformation되어 활성화; GI 문제가 약간 적고 renal prostaglandin 억제가 덜함; sulindac, nabumetone
-* 저용량 naltrexone&#x20;
+* 저용량 naltrexone
   * 작용 : 저용량에서 opioid 수용체를 일시적으로 차단 → 내인성 opioid 분비 반동성 증가, 미세아교세포(microglia) 활성 억제를 통한 항염 효과
   * 대상 : 섬유근육통, 만성 통증 (✽아직 근거 수준이 낮으며 허가 외 사용임)
   * 용법 : 1.5\~4.5 ㎎ qd (취침 시); 통상 용량인 50 ㎎/d의 1/10 수준
@@ -322,7 +319,7 @@
 
 (대한통증학회, 2024)
 
-### <mark style="color:$primary;">비암성 만성 통증에서 Opioid 처방 10대 원칙</mark>&#x20;
+### <mark style="color:$primary;">비암성 만성 통증에서 Opioid 처방 10대 원칙</mark>
 
 **기본 원칙**
 
@@ -332,7 +329,7 @@
 **처방 시작**
 
 * 심한 급성 통증(＜1개월) : 속효성 제제를 최소 유효 용량으로 처방; 최소 2주마다 평가
-* 아급성(1\~3개월) 및 만성(＞3개월) 통증 : 비아편유사제를 우선 고려.  불가피한 경우에만 사용
+* 아급성(1\~3개월) 및 만성(＞3개월) 통증 : 비아편유사제를 우선 고려. 불가피한 경우에만 사용
   * 초기 용량 : 5\~10 MME(1회) 또는 20\~30 MME/일로 시작
   * 하루 50 MME 이상의 추가 증량은 가급적 피함
   * 치료 시작 또는 용량 증량 후 4주 이내에 이익과 위험을 재평가
