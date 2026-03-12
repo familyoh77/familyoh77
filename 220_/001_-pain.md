@@ -1,7 +1,5 @@
 # 통증 Pain
 
-![image](../.gitbook/assets/f419931b-c746-4441-8913-9e5034857211.JPG)
-
 ## <mark style="color:green;">일반 사항</mark>
 
 * 평가 : 통증에 대하여 다음 항목들을 최소 1년에 한 번 평가
