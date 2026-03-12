@@ -3,7 +3,9 @@
 * Red flags, Acute coronary syndrome 등 응급 의뢰 필요 여부를 판단
 * 심장 기원 가능성이 낮으면 다른 원인 감별
 
-
+{% hint style="info" %}
+**흉통의 정의 (2021 AHA/ACC)** : 흉통은 흉부의 통증·압박·조임·무거움·타는 느낌에 국한되지 않으며, **어깨, 팔, 목, 등, 상복부, 턱**의 불편감도 포함한다. 비전형적 증상도 ACS를 배제할 수 없다.
+{% endhint %}
 
 ![](../.gitbook/assets/870e826d-1446-4185-8647-c87425269d0b.JPG)
 
@@ -25,11 +27,38 @@
 ## <mark style="color:green;">검사</mark>
 
 * 진찰, vital sign(pulse oximetry 포함), 병력 청취
-* 12-lead ECG : 심장 허혈이 의심되는 모든 환자에 대하여 시행
-* 필요시 treadmill, 흉부 X선, 심초음파, CT, nuclear heart scanning, heart catheterization
-*   실험실 검사(심장 기원 배제를 위하여 고려) : CBC, 심장 효소(예: troponin, creatine kinase), CRP, fibrinogen,
+* **12-lead ECG** : 심장 허혈이 의심되는 모든 환자에서 시행; 증상 발생 또는 내원 후 **10분 이내** 시행 및 판독 권고 (2021 AHA/ACC, Class I)
+* 영상검사 : 흉부 X선, 심초음파, **CCTA(관상동맥 CT 혈관조영술)**, nuclear heart scanning, heart catheterization, treadmill
 
-    homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
+### 실험실 검사 (심장 기원 평가)
+
+* CBC, **고감도 심장 트로포닌 (hs-cTn)**, CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
+
+{% hint style="warning" %}
+**고감도 트로포닌 (hs-cTn) — 현재 표준 바이오마커 (2021 AHA/ACC, Class I)**
+
+* hs-cTn은 급성 MI 진단의 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 더 이상 권고되지 않음
+* **ESC 0/1h 알고리즘** : 0시간 채혈 후 1시간 뒤 재측정 → 절대 변화량(delta)으로 rule-out / rule-in 신속 판정
+  * Rule-out : 0시간값이 assay별 매우 낮은 기준치(예: hs-cTnT <5 ng/L) 미만 → 단일 측정으로 NSTEMI 배제 가능
+  * Rule-in : 0시간값 중등도 이상 상승 또는 1시간 내 명확한 상승
+  * Observe zone : 위 두 기준 미충족 → 3시간 뒤 추가 측정
+* hs-cTn 기준치는 assay 종류에 따라 다르므로 사용 기관의 assay 매뉴얼 확인 필수
+* ⚠️ 암 환자, 기존 CAD 환자에서는 알고리즘 성능이 저하될 수 있어 임상적 판단 병행 필요
+{% endhint %}
+
+### 영상검사 선택 전략 (2021 AHA/ACC 권고)
+
+| 임상 상황 | 권고 검사 | 권고 등급 |
+|---|---|---|
+| 중등도 위험 급성 흉통, CAD 기왕력 없음 | **CCTA** (1차) 또는 stress imaging | Class I (LOE A) |
+| 중등도-고위험 안정형 흉통, CAD 기왕력 없음 | **CCTA** 또는 stress imaging | Class I (LOE A) |
+| 저위험 안정형 흉통, CAD 기왕력 없음 | CAC score 또는 운동부하검사 | Class IIa (LOE B) |
+| 고위험 / ACS 의심 | 침습적 관상동맥 조영술 | Class I |
+| CCTA에서 협착 확인 또는 판정 불가 | FFR-CT (혈류예비분획-CT) | Class IIa (LOE B) |
+
+{% hint style="info" %}
+**CCTA 검사 결과의 유효기간** : 정상 CCTA(협착·플라크 없음) = **2년** / 정상 stress test = **1년** — 이 기간 내 동일 증상이면 재검사 불필요 (2021 AHA/ACC)
+{% endhint %}
 
 ## <mark style="color:green;">심장 기원 흉통</mark>
 
@@ -41,6 +70,12 @@
 
     보다 심함
 * 가능성 낮음 : 압박에 의해 재현됨, 예리한 느낌, 위치가 명확, 흉막 통증 느낌, 통증 부위 감염
+
+{% hint style="warning" %}
+**여성에서의 비전형적 ACS 증상 (2023 ESC)**
+
+여성은 전형적인 흉부 압박감 외에 다음 증상이 더 흔하게 나타난다 — 어지럼증·실신, 오심/구토, 턱·등 통증, 호흡곤란, 두 견갑골 사이 통증, 두근거림, 피로. 이러한 비전형 증상만 있어도 ACS를 배제하지 않도록 주의한다.
+{% endhint %}
 
 #### 허혈성 심질환의 전형적인 흉통
 
@@ -57,7 +92,7 @@
 
 ▶CAD predictive : 0\~1점=0.6% (저위험), 2\~3점=12.1%(중등위험), 4\~5점=62.7%(고위험)
 
-☞ [계산기](https://www.mdcalc.com/mar-burg-heart-score-mhshttps://www.mdcalc.com/mar-burg-heart-score-mhshttps://www.mdcalc.com/mar-burg-heart-score-mhshttps://www.mdcalc.com/mar-burg-heart-score-mhshttps://www.mdcalc.com/mar-burg-heart-score-mhshttps://www.mdcalc.com/mar-burg-heart-score-mhs)
+☞ [계산기](https://www.mdcalc.com/mar-burg-heart-score-mhs)
 
 #### INTERCHEST Rule (coronary artery disease predictive value)
 
@@ -72,8 +107,16 @@
 ### <mark style="color:$primary;">Acute Coronary Syndrome (ACS)</mark>
 
 * 급성 심근 허혈로 인한 일련의 임상증후군
-* 분류 : unstable angina, ST elevation MI, non–ST segment elevation MI
+* 분류 : unstable angina, ST elevation MI (STEMI), non–ST segment elevation MI (NSTEMI)
 * ACS 의심 ECG 소견 : ST elevation, new-onset LBBB, Q wave 존재, new T-wave inversions
+
+{% hint style="info" %}
+**2025 ACC/AHA/ACEP ACS 통합 가이드라인**
+
+2025년 기존의 STEMI·NSTE-ACS 별도 가이드라인이 단일 통합 가이드라인으로 대체되었다 (2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes). ACS 초기 평가의 핵심 원칙: **A**bnormal ECG(즉각 ECG 시행) → **C**linical context(임상 맥락 및 검사 결과 종합) → **S**table(혈역학적 안정 여부 확인).
+
+NSTE-ACS의 very high-risk features (즉시 침습적 처치 고려): 혈역학적 불안정/심인성 쇼크, 의료적 처치에도 지속되는 흉통, 급성 심부전, 생명을 위협하는 부정맥, 기계적 합병증, 반복적인 동적 ECG 변화.
+{% endhint %}
 
 ## <mark style="color:green;">폐 기원 흉통</mark>
 
@@ -84,6 +127,25 @@
 ![Ref. Derivation of a simple clinical model to categorize patients probability of pulmonary embolism: increasing the models utility with the SimpliRED D-dimer. Thromb Haemost. 2000 Mar;83(3):416-20.](../.gitbook/assets/0bbe8000-9ff7-4d80-aa6a-9a28fecb40fc.JPG)
 
 ▶판정 : 폐색전증 가능성 : ＞6점=가능성 높음, 2\~6점=중등도, ＜2점=낮음
+
+#### PERC Rule (PE Rule-out Criteria) — 저위험군 추가 배제
+
+Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 **모두** 충족하면 D-dimer 검사 없이 PE 배제 가능:
+
+| 항목 | 기준 |
+|---|---|
+| 나이 | <50세 |
+| 심박수 | <100회/분 |
+| SpO₂ | ≥95% |
+| 하지 부종 | 편측 하지 부종 없음 |
+| 객혈 | 없음 |
+| 최근 수술/외상 | 없음 (4주 이내) |
+| DVT/PE 기왕력 | 없음 |
+| 에스트로겐 투여 | 없음 |
+
+▶ 8가지 모두 해당 시 PE 가능성 약 1% 미만 → 추가 검사 불필요
+
+☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 
 ## <mark style="color:green;">비-심폐 기원 흉통</mark>
 
@@ -112,7 +174,7 @@
 *   Costosternal syndrome (Costochondritis) : 보통 upper costochondral/costosternal junction 부위의 늑연골 압통,
 
     여러 부위 압통; 부종 없음
-*   Tietze’s syndrome : sternoclavicular, costosternal, costochondral joint의 비화농성 국소 통증성 부종; 대부분 2번째 및
+*   Tietze's syndrome : sternoclavicular, costosternal, costochondral joint의 비화농성 국소 통증성 부종; 대부분 2번째 및
 
     3번째 늑골 관절에서 발생
 * Sternalis syndrome : 흉골 몸체 부위의 국소 압통, 종종 양측으로 방사됨
@@ -143,3 +205,13 @@
 #### <mark style="color:purple;">**질병코드**</mark>&#x20;
 
 R07.4 상세불명의 흉통
+
+---
+
+{% hint style="info" %}
+**주요 참고 가이드라인**
+* 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. *Circulation* 2021
+* 2023 ESC Guidelines for the Management of Acute Coronary Syndromes. *Eur Heart J* 2023;44:3720–3826
+* 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. *Circulation* 2025
+* 2023 AHA/ACC Guideline for the Management of Patients With Chronic Coronary Disease. *Circulation* 2023
+{% endhint %}
