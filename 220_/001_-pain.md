@@ -9,7 +9,7 @@
   * 예) 시각적 아날로그 통증 스케일(visual analogue scale for pain, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
 * 검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 **RED FLAGS!**
 
 * 주요 외상 또는 고령/골다공증 환자에서 경미한 외상 후 발생한 심한 통증
@@ -195,15 +195,7 @@
 
 **통증 관리를 위해 일반적으로 처방되는 아편유사제에 대한 모르핀 밀리그램 등가 용량**
 
-| 아편유사제             |                        | 변환계수\*  |
-| ----------------- | ---------------------- | ------- |
-| **정맥 주사**         | 모르핀 (Morphine)         | 1.0     |
-|                   | 하이드로몰폰 (Hydromorphone) | 6.6     |
-|                   | 펜타닐 (Fentanyl)         | 100†    |
-| **정맥 주사를 경구로 전환** | 모르핀 (Morphine)         | 3.0     |
-|                   | 하이드로몰폰 (Hydromorphone) | 2.5–5.0 |
-|                   | 옥시몰폰 (Oxymorphone)     | 10      |
-|                   | 트라마돌 (Tramadol)        | 3.0     |
+<table><thead><tr><th width="212.84210205078125">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">변환계수*</th></tr></thead><tbody><tr><td><strong>정맥 주사</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td></td><td>펜타닐 (Fentanyl)</td><td>100†</td></tr><tr><td><strong>정맥 주사를 경구로 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td></td><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td></td><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
 
 * \*MME 용량 = 아편유사제의 용량(mg) × 변환계수. 예) 단일 정맥 투여 : 모르핀 10 mg = 하이드로몰폰 1.5 mg (1. 5 mg × 6.6 = 10 MME) = 펜타닐 0.1 mg (0 1 mg × 100 = 10 MME). 모르핀 10 mg 정맥 주사를 경구로 전환하면 경구 모르핀 30 mg&#x20;
 * † 단일 정맥 투여의 경우, 모르핀 10 mg은 펜타닐 0.1 mg (100 mcg)과 유사하지만 만성적으로 펜타닐을 투여하는 경우 모르핀 10 mg은 펜타닐 0 25 mg (250 mcg)과 유사
@@ -327,8 +319,7 @@
 
 <div align="left"><figure><img src="../.gitbook/assets/통증4.JPG" alt=""><figcaption></figcaption></figure></div>
 
-\*상부 위장관합병증(소화성 궤양천공, 폐쇄, 출혈)의 상대위험도\
-Ref. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf 2012:35(12)
+
 
 ## <mark style="color:green;">NSAID</mark>
 
@@ -395,38 +386,21 @@ Ref. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf 2012:3
 
 ### <mark style="color:$primary;">NSAID 비교</mark>
 
-<table><thead><tr><th width="195.42105102539062">성분명 [상품명]</th><th width="213.5789794921875">용량 (골관절염)</th><th width="99.631591796875">위장관 합병증*</th><th>비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin [로날]</td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 mg qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid [폰탈]</td><td>250 mg qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate [모니플루]</td><td>700 mg bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 mg tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac [에어탈]</td><td>100 mg bid</td><td>1.43</td><td></td></tr><tr><td>diclofenac [디페인]</td><td>50 mg tid</td><td>3.34</td><td>CYP2C9 대사</td></tr><tr><td>etodolac [로딘]</td><td>서방형 400~1,000 mg qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac [케토라신]</td><td>10 mg qid</td><td>11.5</td><td></td></tr><tr><td>sulindac [크리돌]</td><td>100~200 mg bid</td><td>2.89</td><td>신 장애 시 선호; 간 독성 부작용</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen [애니펜]</td><td>300 mg bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 mg tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 mg bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen [부루펜]</td><td>400 mg qid~800 mg tid</td><td>1.84</td><td></td></tr><tr><td>ketoprofen</td><td>50 mg qid~100 mg bid</td><td>3.92</td><td></td></tr><tr><td>loxoprofen [록소닌]</td><td>60 mg bid~tid</td><td></td><td></td></tr><tr><td>nabumetone [프로닥]</td><td>500 tid~1,000 mg bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen [낙센]</td><td>250~500 mg bid</td><td>4.10</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 mg qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen [솔레톤]</td><td>80 mg tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam [제포]</td><td>12 mg #3</td><td></td><td></td></tr><tr><td>meloxicam [모빅]</td><td>7.5~15 mg qd</td><td>3.47</td><td>상대적 COX-2 선택성, Plt 영향적음</td></tr><tr><td>piroxicam [브렉신]</td><td>10~20 mg qd</td><td>7.43</td><td>20 mg 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 mg qd</td><td>4.10</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib [쎄레브렉스]</td><td>100 mg bid, 200 mg qd</td><td>1.45</td><td>Plt 영향 없음 (보험기준 ☞ p.1196)</td></tr><tr><td>etoricoxib [알콕시아]</td><td>30~60 mg qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide [메수리드]</td><td>50~100 mg bid (최대 15d)</td><td>3.83</td><td></td></tr><tr><td>talniflumate [소말겐]</td><td>370 mg tid</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="195.42105102539062">성분명 [상품명]</th><th width="214.63162231445312">용량 (골관절염)</th><th width="85.94732666015625">위장관 합병증*</th><th width="255.15786743164062">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin [로날]</td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 mg qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid [폰탈]</td><td>250 mg qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate [모니플루]</td><td>700 mg bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 mg tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac [에어탈]</td><td>100 mg bid</td><td>1.43</td><td></td></tr><tr><td>diclofenac [디페인]</td><td>50 mg tid</td><td>3.34</td><td>CYP2C9 대사</td></tr><tr><td>etodolac [로딘]</td><td>서방형 400~1,000 mg qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac [케토라신]</td><td>10 mg qid</td><td>11.5</td><td></td></tr><tr><td>sulindac [크리돌]</td><td>100~200 mg bid</td><td>2.89</td><td>신 장애 시 선호; 간 독성 부작용</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen [애니펜]</td><td>300 mg bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 mg tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 mg bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen [부루펜]</td><td>400 mg qid~800 mg tid</td><td>1.84</td><td></td></tr><tr><td>ketoprofen</td><td>50 mg qid~100 mg bid</td><td>3.92</td><td></td></tr><tr><td>loxoprofen [록소닌]</td><td>60 mg bid~tid</td><td></td><td></td></tr><tr><td>nabumetone [프로닥]</td><td>500 tid~1,000 mg bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen [낙센]</td><td>250~500 mg bid</td><td>4.10</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 mg qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen [솔레톤]</td><td>80 mg tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam [제포]</td><td>12 mg #3</td><td></td><td></td></tr><tr><td>meloxicam [모빅]</td><td>7.5~15 mg qd</td><td>3.47</td><td>상대적 COX-2 선택성, Plt 영향적음</td></tr><tr><td>piroxicam [브렉신]</td><td>10~20 mg qd</td><td>7.43</td><td>20 mg 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 mg qd</td><td>4.10</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib [쎄레브렉스]</td><td>100 mg bid, 200 mg qd</td><td>1.45</td><td>Plt 영향 없음 (보험기준 ☞ p.1196)</td></tr><tr><td>etoricoxib [알콕시아]</td><td>30~60 mg qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide [메수리드]</td><td>50~100 mg bid (최대 15d)</td><td>3.83</td><td></td></tr><tr><td>talniflumate [소말겐]</td><td>370 mg tid</td><td></td><td></td></tr></tbody></table>
 
 \*상부 위장관합병증(소화성 궤양천공, 폐쇄, 출혈)의 상대위험도\
 Ref. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf 2012:35(12)
 
-**Oxford league table**&#x20;
+#### **Oxford league table**&#x20;
 
-| 성분명 (mg)          | NNT¹⁾ | 성분명 (mg)          | NNT |
-| ----------------- | ----- | ----------------- | --- |
-| Dipyrone 1000     | 1.6   | Lumiracoxib 400   | 2.7 |
-| Etoricoxib 120    | 1.6   | Naproxen 500/550  | 2.7 |
-| Valdecoxib 40     | 1.6   | Naproxen 400/440  | 2.7 |
-| Ibuprofen 600/800 | 1.7   | Piroxicam 20      | 2.7 |
-| Valdecoxib 20     | 1.7   | Bromfenac 10      | 2.9 |
-| Diclofenac 100    | 1.8   | Morphine 10 (IM)  | 2.9 |
-| Ketorolac 20      | 1.8   | Tramadol 150      | 2.9 |
-| Ketorolac 60 (IM) | 1.8   | Ketorolac 30 (IM) | 3.4 |
-| Piroxicam 40      | 1.9   | Naproxen 200/220  | 3.4 |
-| Celecoxib 400     | 2.1   | AAP 500           | 3.5 |
-| Bromfenac 25      | 2.2   | Celecoxib 200     | 3.5 |
-| Rofecoxib 50      | 2.3   | AAP 1500          | 3.7 |
-| Aspirin 1200      | 2.4   | Ibuprofen 100     | 3.7 |
-| Bromfenac 50      | 2.4   | AAP 1000          | 3.7 |
-| Dipyrone 500      | 2.4   | Aspirin 600/650   | 4.4 |
-| Ibuprofen 400     | 2.5   | AAP 600/650       | 4.6 |
-| AAP 650+Trama 75  | 2.6   | Ibuprofen 50      | 4.7 |
-| Bromfenac 100     | 2.6   | Tramadol 100      | 4.8 |
-| Diclofenac 25     | 2.6   | Tramadol 75       | 5.3 |
-| Ketorolac 10      | 2.6   | Ketorolac 10 (IM) | 5.7 |
-| Diclofenac 50     | 2.7   | Bromfenac 5       | 7.1 |
-| Ibuprofen 200     | 2.7   | Tramadol 50       | 8.3 |
+<table><thead><tr><th width="199.6842041015625">성분명 (mg)</th><th width="108.0526123046875">NNT¹⁾</th><th width="200">성분명 (mg)</th><th width="107.631591796875">NNT</th></tr></thead><tbody><tr><td>Dipyrone 1000</td><td>1.6</td><td>Lumiracoxib 400</td><td>2.7</td></tr><tr><td>Etoricoxib 120</td><td>1.6</td><td>Naproxen 500/550</td><td>2.7</td></tr><tr><td>Valdecoxib 40</td><td>1.6</td><td>Naproxen 400/440</td><td>2.7</td></tr><tr><td>Ibuprofen 600/800</td><td>1.7</td><td>Piroxicam 20</td><td>2.7</td></tr><tr><td>Valdecoxib 20</td><td>1.7</td><td>Bromfenac 10</td><td>2.9</td></tr><tr><td>Diclofenac 100</td><td>1.8</td><td>Morphine 10 (IM)</td><td>2.9</td></tr><tr><td>Ketorolac 20</td><td>1.8</td><td>Tramadol 150</td><td>2.9</td></tr><tr><td>Ketorolac 60 (IM)</td><td>1.8</td><td>Ketorolac 30 (IM)</td><td>3.4</td></tr><tr><td>Piroxicam 40</td><td>1.9</td><td>Naproxen 200/220</td><td>3.4</td></tr><tr><td>Celecoxib 400</td><td>2.1</td><td>AAP 500</td><td>3.5</td></tr><tr><td>Bromfenac 25</td><td>2.2</td><td>Celecoxib 200</td><td>3.5</td></tr><tr><td>Rofecoxib 50</td><td>2.3</td><td>AAP 1500</td><td>3.7</td></tr><tr><td>Aspirin 1200</td><td>2.4</td><td>Ibuprofen 100</td><td>3.7</td></tr><tr><td>Bromfenac 50</td><td>2.4</td><td>AAP 1000</td><td>3.7</td></tr><tr><td>Dipyrone 500</td><td>2.4</td><td>Aspirin 600/650</td><td>4.4</td></tr><tr><td>Ibuprofen 400</td><td>2.5</td><td>AAP 600/650</td><td>4.6</td></tr><tr><td>AAP 650+Trama 75</td><td>2.6</td><td>Ibuprofen 50</td><td>4.7</td></tr><tr><td>Bromfenac 100</td><td>2.6</td><td>Tramadol 100</td><td>4.8</td></tr><tr><td>Diclofenac 25</td><td>2.6</td><td>Tramadol 75</td><td>5.3</td></tr><tr><td>Ketorolac 10</td><td>2.6</td><td>Ketorolac 10 (IM)</td><td>5.7</td></tr><tr><td>Diclofenac 50</td><td>2.7</td><td>Bromfenac 5</td><td>7.1</td></tr><tr><td>Ibuprofen 200</td><td>2.7</td><td>Tramadol 50</td><td>8.3</td></tr></tbody></table>
 
 NNT: Number Needed to Treat (낮을수록 효과적)
 
-**Cox isoform selective** (log scale)
+#### **Cox isoform selective**&#x20;
+
+(log scale)
+
+<div align="left"><figure><img src="../.gitbook/assets/통증3-2.JPG" alt=""><figcaption></figcaption></figure></div>
+
+Ref. Goodman & Gilman's. The pharmacological basis of therapeutics. 12th Ed. Fig 34.1
