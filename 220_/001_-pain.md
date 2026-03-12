@@ -162,7 +162,7 @@
   * 장점 : 기존 opioid에 비하여 위장관 부작용(구역, 변비)이 적음
   * 부작용 : 어지럼, 구역, 두통, 졸음
   * 주의 : MAOI 병용 금기; SSRI/SNRI 병용 시 serotonin syndrome 위험
-  * 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩증량\[뉴신타 서방]
+  * 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩 증량 \[뉴신타 서방]
 
 ### <mark style="color:$primary;">Benzodiazepine</mark>
 
