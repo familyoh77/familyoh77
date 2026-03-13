@@ -3,7 +3,6 @@
 * [오창석 - 처방가이드](README.md)
 * [Part 1. 흔한 증상들](220_/README.md)
   * [통증 Pain](220_/001_-pain.md)
-  * [1\_통증](220_/1_.md)
   * [흉통 Chest Pain](220_/002_-chest-pain.md)
   * [복통 Abdominal Pain](220_/003_-abdominal-pain.md)
   * [구취증 Halitosis, Bad Breath](220_/004_-halitosis-bad-breath.md)
