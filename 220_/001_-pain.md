@@ -9,20 +9,18 @@
   * 예) 시각적 아날로그 통증 스케일(visual analogue scale for pain, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
 * 검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
 
-{% hint style="warning" %}
-**RED FLAGS!**
+#### 🚩 RED FLAGS
 
 * 주요 외상 또는 고령/골다공증 환자에서 경미한 외상 후 발생한 심한 통증
 * 면역 저하 또는 면역억제제 투여
 * 최근 세균 감염 또는 정맥 주사제 투여
 * 악성 종양 병력
-* 50세 또는 <20세에서 시작된 통증
+* \>50세 또는 <20세에서 시작된 통증
 * 치료에 반응하지 않음 또는 점차 악화
 * 동반 증상 : 발열, 오한, 체중 감소
 * 야간에 악화 또는 누워 있을 때 악화
 * 근력 약화 또는 이상 감각
 * 방광 또는 장 기능 이상, 신경학적 이상
-{% endhint %}
 
 ### <mark style="color:$primary;">만성 통증</mark>
 
@@ -315,11 +313,27 @@
 * 제한적 효과
 * 대상 : 다른 약물 치료로 효과가 없는 근골격 통증에 대하여 고려
 
+## <mark style="color:orange;">처방례</mark>
 
-
-<div align="left"><figure><img src="../.gitbook/assets/통증4.JPG" alt=""><figcaption></figcaption></figure></div>
-
-
+> **처방례 1. 급성 통증**
+>
+> ```
+> 부루펜 200 ㎎/T 6T #3
+> ```
+>
+> **처방례 2. 우울증 동반**
+>
+> ```
+> 센시발 10 ㎎/T 2T #2
+> 타이레놀 이알 650 ㎎/T (필요시)
+> ```
+>
+> **처방례 3. 만성 통증**
+>
+> ```
+> 쎄레브렉스 200 ㎎/C 1C qd 또는
+> 울트라셋 이알 세미 2T #2 (단기 사용)
+> ```
 
 ## <mark style="color:green;">NSAID</mark>
 
@@ -386,7 +400,7 @@
 
 ### <mark style="color:$primary;">NSAID 비교</mark>
 
-<table><thead><tr><th width="195.42105102539062">성분명 [상품명]</th><th width="214.63162231445312">용량 (골관절염)</th><th width="73.31573486328125">위장관 합병증*</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin [로날]</td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 mg qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid [폰탈]</td><td>250 mg qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate [모니플루]</td><td>700 mg bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 mg tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac [에어탈]</td><td>100 mg bid</td><td>1.43</td><td></td></tr><tr><td>diclofenac [디페인]</td><td>50 mg tid</td><td>3.34</td><td>CYP2C9 대사</td></tr><tr><td>etodolac [로딘]</td><td>서방형 400~1,000 mg qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac [케토라신]</td><td>10 mg qid</td><td>11.5</td><td></td></tr><tr><td>sulindac [크리돌]</td><td>100~200 mg bid</td><td>2.89</td><td>신 장애 시 선호; 간 독성 부작용</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen [애니펜]</td><td>300 mg bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 mg tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 mg bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen [부루펜]</td><td>400 mg qid~800 mg tid</td><td>1.84</td><td></td></tr><tr><td>ketoprofen</td><td>50 mg qid~100 mg bid</td><td>3.92</td><td></td></tr><tr><td>loxoprofen [록소닌]</td><td>60 mg bid~tid</td><td></td><td></td></tr><tr><td>nabumetone [프로닥]</td><td>500 tid~1,000 mg bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen [낙센]</td><td>250~500 mg bid</td><td>4.10</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 mg qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen [솔레톤]</td><td>80 mg tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam [제포]</td><td>12 mg #3</td><td></td><td></td></tr><tr><td>meloxicam [모빅]</td><td>7.5~15 mg qd</td><td>3.47</td><td>상대적 COX-2 선택성, Plt 영향적음</td></tr><tr><td>piroxicam [브렉신]</td><td>10~20 mg qd</td><td>7.43</td><td>20 mg 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 mg qd</td><td>4.10</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib [쎄레브렉스]</td><td>100 mg bid, 200 mg qd</td><td>1.45</td><td>Plt 영향 없음 (보험기준 ☞ p.1196)</td></tr><tr><td>etoricoxib [알콕시아]</td><td>30~60 mg qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide [메수리드]</td><td>50~100 mg bid (최대 15d)</td><td>3.83</td><td></td></tr><tr><td>talniflumate [소말겐]</td><td>370 mg tid</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="195.42105102539062">성분명 [상품명]</th><th width="214.63162231445312">용량 (골관절염)</th><th width="66.99993896484375">위장관 합병증*</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin [로날]</td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 mg qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid [폰탈]</td><td>250 mg qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate [모니플루]</td><td>700 mg bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 mg tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac [에어탈]</td><td>100 mg bid</td><td>1.43</td><td></td></tr><tr><td>diclofenac [디페인]</td><td>50 mg tid</td><td>3.34</td><td>CYP2C9 대사</td></tr><tr><td>etodolac [로딘]</td><td>서방형 400~1,000 mg qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac [케토라신]</td><td>10 mg qid</td><td>11.5</td><td></td></tr><tr><td>sulindac [크리돌]</td><td>100~200 mg bid</td><td>2.89</td><td>신 장애 시 선호; 간 독성 부작용</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen [애니펜]</td><td>300 mg bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 mg tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 mg bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen [부루펜]</td><td>400 mg qid~800 mg tid</td><td>1.84</td><td></td></tr><tr><td>ketoprofen</td><td>50 mg qid~100 mg bid</td><td>3.92</td><td></td></tr><tr><td>loxoprofen [록소닌]</td><td>60 mg bid~tid</td><td></td><td></td></tr><tr><td>nabumetone [프로닥]</td><td>500 tid~1,000 mg bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen [낙센]</td><td>250~500 mg bid</td><td>4.10</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 mg qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen [솔레톤]</td><td>80 mg tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam [제포]</td><td>12 mg #3</td><td></td><td></td></tr><tr><td>meloxicam [모빅]</td><td>7.5~15 mg qd</td><td>3.47</td><td>상대적 COX-2 선택성, Plt 영향적음</td></tr><tr><td>piroxicam [브렉신]</td><td>10~20 mg qd</td><td>7.43</td><td>20 mg 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 mg qd</td><td>4.10</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib [쎄레브렉스]</td><td>100 mg bid, 200 mg qd</td><td>1.45</td><td>Plt 영향 없음 (보험기준 ☞ p.1196)</td></tr><tr><td>etoricoxib [알콕시아]</td><td>30~60 mg qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide [메수리드]</td><td>50~100 mg bid (최대 15d)</td><td>3.83</td><td></td></tr><tr><td>talniflumate [소말겐]</td><td>370 mg tid</td><td></td><td></td></tr></tbody></table>
 
 \*상부 위장관합병증(소화성 궤양천공, 폐쇄, 출혈)의 상대위험도\
 Ref. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf 2012:35(12)
