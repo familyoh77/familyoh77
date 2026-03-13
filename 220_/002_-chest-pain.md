@@ -1,11 +1,10 @@
 # 흉통 Chest Pain
 
+## <mark style="color:green;">일반 사항</mark>&#x20;
+
+* 흉통의 정의 : 가슴의 통증 뿐 아니라 가슴, 어깨, 팔, 목, 상복부, 턱의 압박감, 조임, 무거움, 작열감을 포함(2021 AHA/ACC)
 * Red flags, Acute coronary syndrome 등 응급 의뢰 필요 여부를 판단
 * 심장 기원 가능성이 낮으면 다른 원인 감별
-
-{% hint style="info" %}
-**흉통의 정의 (2021 AHA/ACC)** : 흉통은 흉부의 통증·압박·조임·무거움·타는 느낌에 국한되지 않으며, **어깨, 팔, 목, 등, 상복부, 턱**의 불편감도 포함한다. 비전형적 증상도 ACS를 배제할 수 없다.
-{% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -21,62 +20,48 @@
 
 ## <mark style="color:green;">원인</mark>
 
-{% hint style="info" %}
-**용어 변경 (2021 AHA/ACC)** : 기존의 "전형적(typical)/비전형적(atypical)" 구분은 폐기되었다. "비전형적"이라는 표현은 심장 외 원인을 의미하기도 하고 심장 증상이지만 허혈 패턴이 아닌 경우(예: 심막염)를 가리키기도 하여 혼란을 야기하기 때문이다. 대신 **Cardiac / Possible Cardiac / Noncardiac** 세 범주로 분류할 것을 권고한다.
-{% endhint %}
-
 ### <mark style="color:$primary;">Cardiac (심장성)</mark>
 
-심장 허혈 또는 심장 구조에서 직접 기인하는 흉통 — 전체의 약 15%
+* 심장 허혈 또는 심장 구조에서 직접 기인하는 흉통
+* 흉통 전체의 약 15% 차지
 
 **허혈성**
 
-* ACS (불안정 협심증, NSTEMI, STEMI)
+* ACS(불안정 협심증, NSTEMI, STEMI)
 * 안정 협심증
-* 관상동맥연축 (Prinzmetal 협심증)
-* INOCA (Ischemia with Non-Obstructive Coronary Arteries) : 미세혈관 기능장애, 관상동맥 내피기능 이상
+* 관상동맥연축(Prinzmetal 협심증)
+* INOCA(Ischemia with Non-Obstructive Coronary Arteries) : 미세혈관 기능장애, 관상동맥 내피기능 이상
 * 대동맥판 협착증, 비후성 심근병증에 의한 허혈
 
 **비허혈성 심장성**
 
-* 급성 대동맥 증후군 (대동맥박리, 대동맥류, 벽내혈종)
+* 급성 대동맥 증후군(대동맥박리, 대동맥류, 벽내혈종)
 * 심막염 / 심근염 / 심근심막염
-* 심부전 (급성 폐부종)
-* 판막질환 (승모판 탈출증, 대동맥판 역류 등)
+* 심부전(급성 폐부종)
+* 판막질환(승모판 탈출증, 대동맥판 역류 등)
 * Takotsubo 심근병증
 
 ### <mark style="color:$primary;">Possible Cardiac (심장성 가능)</mark>
 
-심장 기원 가능성을 완전히 배제할 수 없는 상태 — 추가 평가 필요
-
-* 흉통 특성·위험인자가 허혈성이지만 검사에서 확인되지 않은 경우
-* 폐색전증 (심장에 직접적 영향을 미치는 비허혈성 원인)
+* 심장 기원 가능성을 완전히 배제할 수 없는 상태. 추가 평가 필요
+* 흉통 특성이나 위험 인자가 허혈성이지만 검사에서 확인되지 않은 경우
+* 폐색전증(심장에 직접적 영향을 미치는 비허혈성 원인)
 * 비특이적 ECG 변화 동반 흉통
 * 심장 외 원인이 확인되기 전까지의 미분류 흉통
 
-{% hint style="warning" %}
-**Possible Cardiac 흉통에서 주의할 생명위협 원인 (Big 3 + 1)**
-
-* 대동맥박리 : 갑작스러운 찢어지는 흉통·등통증, 양측 혈압·맥박 차이 → CTA (흉부·복부·골반)
-* 폐색전증 : 빈맥, 호흡곤란, P2 항진 → PE protocol CTA
-* 심근심막염 : 자세에 따른 흉통(앞으로 기울면 호전), 마찰음 → CMR (진단 불확실 시)
-* 식도 파열 : 구토 후 심한 흉통, 종격동 기종 → 즉시 의뢰
-{% endhint %}
-
 ### <mark style="color:$primary;">Noncardiac (비심장성)</mark>
 
-심장 질환이 의심되지 않을 때 사용 — 전체의 약 85%
-
-* **근골격** (\~50%) : 늑연골염, Tietze 증후군, 늑골 골절, 신경근병증, 섬유근통
-* **위장관** (\~20%) : 역류성 식도염, 식도연축, 식도천공, 위염, 소화성 궤양, 담석증
-* **호흡기** : 기흉, 흉막염, 폐렴, 폐암
-* **기타** : 공황장애, 불안장애, 대상포진
+* 심장 질환이 의심되지 않는흉통
+* 근골격 (\~50%) : 늑연골염, Tietze 증후군, 늑골 골절, 신경근병증, 섬유근통
+* 위장관 (\~20%) : 역류성 식도염, 식도연축, 식도천공, 위염, 소화성 궤양, 담석증
+* 호흡기 : 기흉, 흉막염, 폐렴, 폐암
+* 기타 : 공황장애, 불안장애, 대상포진
 
 ## <mark style="color:green;">검사</mark>
 
 * 진찰, vital sign(pulse oximetry 포함), 병력 청취
-* **12-lead ECG** : 심장 허혈이 의심되는 모든 환자에서 시행; 증상 발생 또는 내원 후 **10분 이내** 시행 및 판독 권고 (2021 AHA/ACC, Class I)
-* 영상검사 : 흉부 X선, 심초음파, **CCTA(관상동맥 CT 혈관조영술)**, nuclear heart scanning, heart catheterization, treadmill
+* 12-lead ECG : 심장 허혈이 의심되는 모든 환자에서 시행; 증상 발생 또는 내원 후 10분 이내 시행 및 판독 권고 (2021 AHA/ACC, Class I)
+* 영상 검사 : 흉부 X선, 심초음파, CCTA(관상동맥 CT 혈관조영술), nuclear heart scanning, heart catheterization, treadmill
 
 ### 실험실 검사 (심장 기원 평가)
 
@@ -275,6 +260,9 @@ Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 **모두**
 
     예) 피로, 수면 장애, 인지 장애, 우울, 불안
 * Rib fracture : 압통, 국소 늑막염성 통증; 보통 외상 병력이 있음 (✽외상 병력 없이도 발생할 수 있음)
+*
+
+    <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p><strong>흉통에서 주의할 생명위협 원인 (Big 3 + 1)</strong></p><ul><li>대동맥박리 : 갑작스러운 찢어지는 흉통·등통증, 양측 혈압·맥박 차이 → CTA (흉부·복부·골반)</li><li>폐색전증 : 빈맥, 호흡곤란, P2 항진 → PE protocol CTA</li><li>심근심막염 : 자세에 따른 흉통(앞으로 기울면 호전), 마찰음 → CMR (진단 불확실 시)</li><li>식도 파열 : 구토 후 심한 흉통, 종격동 기종 → 즉시 의뢰</li></ul></div>
 
 ### <mark style="color:$primary;">질환별 흉통 비교표</mark>
 
