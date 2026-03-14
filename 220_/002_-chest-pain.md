@@ -51,7 +51,7 @@
 
 ### <mark style="color:$primary;">Noncardiac (비심장성)</mark>
 
-* 심장 질환이 의심되지 않는흉통
+* 심장 질환이 의심되지 않는 흉통
 * 근골격 (\~50%) : 늑연골염, Tietze 증후군, 늑골 골절, 신경근병증, 섬유근통
 * 위장관 (\~20%) : 역류성 식도염, 식도연축, 식도천공, 위염, 소화성 궤양, 담석증
 * 호흡기 : 기흉, 흉막염, 폐렴, 폐암
@@ -137,11 +137,31 @@ _<mark style="color:$info;">Ref. Evaluation of Chest Pain in Primary Care Patien
 
 <table><thead><tr><th width="359.52630615234375">소견</th><th width="90.171875">배점</th></tr></thead><tbody><tr><td>흉벽 압박으로 통증 재현</td><td>-1</td></tr><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>+1</td></tr><tr><td>의료진이 처음에 심각한 상태를 의심</td><td>+1</td></tr><tr><td>흉부 압박 느낌의 불편감</td><td>+1</td></tr><tr><td>운동 (effort)과 관련된 흉통</td><td>+1</td></tr><tr><td>CAD, 뇌혈관 질환 또는 말초혈관 질환 병력</td><td>+1</td></tr></tbody></table>
 
-▶CAD predictive : ≤1점=2%, ≥2점=43%
-
-▶위험도: -10점=저위험, 12점=중등위험, ≥3점=고위험 ☞ [계산기](https://www.mdcalc.com/calc/10225/interchest-clinical-prediction-rule-chest-pain-primary-care)
+▶CAD predictive : ≤1점=저위험(~2%), 2점=중등위험, ≥3점=고위험(~43%) ☞ [계산기](https://www.mdcalc.com/calc/10225/interchest-clinical-prediction-rule-chest-pain-primary-care)
 
 _<mark style="color:$info;">Ref. Acute Chest Pain in Adults: Outpatient Evaluation. AFP 2020:15;102(12). Table 3.</mark>_
+
+#### HEART Score (ACS 위험도 — 응급실/1차 진료)
+
+* History, ECG, Age, Risk factors, Troponin 5개 항목, 각 0–2점, 총 0–10점
+* ACS 단기 예후(6주 내 MACE) 예측 도구; AHA 권고 scoring tool
+
+<table><thead><tr><th width="110">항목</th><th width="80">점수</th><th>기준</th></tr></thead><tbody><tr><td rowspan="3"><strong>H</strong>istory</td><td>2</td><td>전형적 허혈성 흉통: ①흉골 뒤 압박감, ②운동/스트레스 유발, ③nitrate에 호전 — 3가지 모두</td></tr><tr><td>1</td><td>위 3가지 중 1–2가지만 해당 (비전형적)</td></tr><tr><td>0</td><td>심장 기원 가능성이 낮은 병력</td></tr><tr><td rowspan="3"><strong>E</strong>CG</td><td>2</td><td>유의한 ST 하강, 완전 LBBB, 또는 좌심실 비후 소견</td></tr><tr><td>1</td><td>비특이적 재분극 장애</td></tr><tr><td>0</td><td>정상</td></tr><tr><td rowspan="3"><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td>1</td><td>45–64세</td></tr><tr><td>0</td><td>&lt;45세</td></tr><tr><td rowspan="3"><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI>30, CAD 가족력) 또는 기왕증 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환)</td></tr><tr><td>1</td><td>1–2개의 위험인자</td></tr><tr><td>0</td><td>위험인자 없음</td></tr><tr><td rowspan="3"><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td>1</td><td>ULN의 1–3배 상승</td></tr><tr><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
+
+▶판정 : 0–3점 = 저위험(6주 MACE \~2%, 퇴원 고려), 4–6점 = 중등위험(입원·추가 검사), 7–10점 = 고위험(적극적 처치)
+
+{% hint style="info" %}
+**HEART Score 임상 적용 시 주의사항**
+
+* HEART Score는 응급실에서 가장 많이 검증된 ACS 위험도 도구이며 AHA가 권고한다.
+* **Troponin 항목은 사용 기관의 assay별 ULN 기준을 따른다**; hs-cTn 도입 기관에서는 hs-cTn 값 기준으로 적용.
+* History 항목은 임상의 판단이 크게 반영되므로 경험에 따라 점수 편차가 있을 수 있다.
+* 저위험(0–3점)이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단한다.
+{% endhint %}
+
+☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
+
+_<mark style="color:$info;">Ref. Six AJ et al. Chest pain in the emergency room: value of the HEART score. Neth Heart J. 2008;16(6):191-6. / Backus BE et al. A prospective validation of the HEART score. Int J Cardiol. 2013;168(3):2153-8.</mark>_
 
 ### <mark style="color:$primary;">Acute Coronary Syndrome (ACS)</mark>
 
@@ -235,19 +255,29 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ### <mark style="color:$primary;">흉통 환자의 평가</mark>
 
-<figure><img src="../.gitbook/assets/fig 7.png" alt=""><figcaption><p><strong>Patient-Centric Algorithms for Acute Chest Pain</strong><br>ECG=electrocardiogram, STEMI=ST-segment–elevation myocardial infarction.<br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/fig 7.png" alt=""><figcaption><p><strong>Patient-Centric Algorithms for Acute Chest Pain</strong>
+<br>ECG=electrocardiogram, STEMI=ST-segment–elevation myocardial infarction.<br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</em></p></figcaption></figure>
 
 ***
 
-<figure><img src="../.gitbook/assets/fig 8.png" alt=""><figcaption><p><strong>General Approach to Risk Stratification of Patients With Suspected ACS</strong><br>ACS=acute coronary syndrome, CDP=clinical decision pathway, ECG=electrocardiogram <br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 8</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/fig 8.png" alt=""><figcaption><p><strong>General Approach to Risk Stratification of Patients With Suspected ACS</strong>
+<br>ACS=acute coronary syndrome, CDP=clinical decision pathway, ECG=electrocardiogram <br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 8</em></p></figcaption></figure>
 
 ***
 
-<figure><img src="../.gitbook/assets/Fig 12.png" alt=""><figcaption><p><strong>Clinical Decision Pathway for Patients With Stable Chest Pain and No Known CAD</strong><br><em>Test choice should be guided by local availability and expertise.</em><br><em>*Test choice guided by patient’s exercise capacity, resting ECG abnormalities; CCTA preferable in those &#x3C;65 years of age and not on optimal preventive therapies; stress testing favored in those ≥65 years of age (with a higher likelihood of ischemia).</em> <br><em>†High-risk CAD means left main stenosis ≥50%; anatomically significant 3-vessel disease (≥70% stenosis).</em><br>CAD=coronary artery disease, CCTA=coronary CT angiography, CMR=cardiovascular MRI, FFR-CT=fractional flow reserve with CT, GDMT=guideline-directed medical therapy, INOCA=ischemia and no obstructive CAD, PET=positron emission tomography, SPECT=single-photon emission CT<br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 12</em> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Fig 12.png" alt=""><figcaption><p><strong>Clinical Decision Pathway for Patients With Stable Chest Pain and No Known CAD</strong>
+<br><em>Test choice should be guided by local availability and expertise.</em>
+<br><em>*Test choice guided by patient’s exercise capacity, resting ECG abnormalities; CCTA preferable in those &#x3C;65 years of age and not on optimal preventive therapies; stress testing favored in those ≥65 years of age (with a higher likelihood of ischemia).</em> <br><em>†High-risk CAD means left main stenosis ≥50%; anatomically significant 3-vessel disease (≥70% stenosis).</em><br>CAD=coronary artery disease, CCTA=coronary CT angiography, CMR=cardiovascular MRI, FFR-CT=fractional flow reserve with CT, GDMT=guideline-directed medical therapy, INOCA=ischemia and no obstructive CAD, PET=positron emission tomography, SPECT=single-photon emission CT<br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 12</em> </p></figcaption></figure>
 
 ***
 
-<figure><img src="../.gitbook/assets/Fig 13.png" alt=""><figcaption><p><strong>Clinical Decision Pathway for Patients With Stable Chest Pain (or Equivalent) Symptoms With Prior MI, Prior Revascularization, or Known CAD on Invasive Coronary Angiography or CCTA, Including Those With Nonobstructive CAD</strong><br>Test choice should be guided by local availability and expertise.<br>*Known CAD means prior MI, revascularization, known obstructive CAD, nonobstructive CAD.<br>†High-risk CAD means left main stenosis ≥50%; or obstructive CAD with FFR-CT ≤0.80.<br>‡Test choice guided by the patient’s exercise capacity, resting electrocardiographic abnormalities.<br>§Patients with prior CABG or stents >3.0 mm. Follow-up Testing and Intensification of GDMT Guided by Initial Test Results and Persistence / Worsening / Frequency of Symptoms and Shared Decision Making.<br><em>CABG=coronary artery bypass graft, ICA=invasive coronary angiography, iFR=instant wave-free ratio, MPI=myocardial perfusion imaging, SIHD=stable ischemic heart disease</em><br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 13</em> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Fig 13.png" alt=""><figcaption><p><strong>Clinical Decision Pathway for Patients With Stable Chest Pain (or Equivalent) Symptoms With Prior MI, Prior Revascularization, or Known CAD on Invasive Coronary Angiography or CCTA, Including Those With Nonobstructive CAD</strong>
+<br>Test choice should be guided by local availability and expertise.
+<br>*Known CAD means prior MI, revascularization, known obstructive CAD, nonobstructive CAD.
+<br>†High-risk CAD means left main stenosis ≥50%; or obstructive CAD with FFR-CT ≤0.80.
+<br>‡Test choice guided by the patient’s exercise capacity, resting electrocardiographic abnormalities.
+<br>§Patients with prior CABG or stents >3.0 mm. Follow-up Testing and Intensification of GDMT Guided by Initial Test Results and Persistence / Worsening / Frequency of Symptoms and Shared Decision Making.
+<br><em>CABG=coronary artery bypass graft, ICA=invasive coronary angiography, iFR=instant wave-free ratio, MPI=myocardial perfusion imaging, SIHD=stable ischemic heart disease</em><br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 13</em> </p></figcaption></figure>
 
 ### <mark style="color:$primary;">증상/병력에 따른 감별</mark>&#x20;
 
