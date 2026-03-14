@@ -11,9 +11,27 @@
 * 8\~12시간 내 호전되지 않거나 악화
 * 고령(＞60세)
 * 복통 양상의 변화
-* 황달 증상&#x20;
-* 복부 종괴 ㄸ도는 복부 장기 비대
+* 황달 증상
+* 복부 종괴 또는 복부 장기 비대
 * 가족력 : 난소 또는 창자의 악성 종양, 가족성 대장폴립증
+
+## <mark style="color:green;">검사</mark>
+
+* 진찰, vital sign, 병력 청취
+* 가임기 여성 : 소변 또는 혈청 β-hCG (자궁외임신 배제)
+
+#### 실험실 검사
+
+* 기본 : CBC, 전해질, BUN/Cr, 간기능(AST/ALT/ALP/bilirubin), lipase/amylase, UA
+* 추가 고려 : CRP/ESR(염증 평가), coagulation(출혈 의심), lactate(장간막 허혈 의심)
+* 가임기 여성 : β-hCG (반드시 포함)
+
+#### 영상 검사
+
+* 복부 X선 : 장 폐쇄, 천공(free air) 선별
+* 복부 초음파 : 담낭·담도·신장·부속기 평가; 1차 선택 검사
+* 복부-골반 CT : 급성 복통의 원인 불명 또는 중증 의심 시; 충수염, 게실염, 장간막 허혈 등 평가
+* 부인과 초음파 : 자궁외임신, 난소 병변 의심 시
 
 ## <mark style="color:green;">통증 기원에 따른 특징</mark>
 
@@ -48,14 +66,17 @@
 
 #### Abdominal wall pain (복벽통)
 
-* 근육 경직에 의한 통증
+* 복벽 근육, 근막, 피부 신경의 병변에 의한 통증; 복강 내 장기와 무관
+* 특징 : 국소 압통, 자세 변화·움직임에 의해 악화, 복강 내 병변과 달리 복부 강직·반동 압통 없음
+* Carnett's sign : 환자가 상체를 들어올리거나 복근을 긴장시킬 때 압통이 유지되거나 악화되면 복벽 기원 가능성 높음 (복강 내 병변이면 통증 감소)
+* 원인 : 늑간 신경포착, 복직근 혈종, 대상포진, 수술 후 신경종
 
 ## <mark style="color:green;">위치에 따른 복부 통증의 감별</mark>
 
 #### 우상복부 복통
 
 * Biliary colic : RUQ 또는 epigastrium의 심한, 우둔한 통증(＞30분 지속), 구역, 구토, 발한
-* Acute cholecystitis : RUQ 또는 epigastrium의 심한 통증(＞4시간 지속), 발열, 복부 강직, Murphy’s sign
+* Acute cholecystitis : RUQ 또는 epigastrium의 심한 통증(＞4시간 지속), 발열, 복부 강직, Murphy's sign
 * Acute cholangitis : RUQ 통증, 발열, 황달
 * Acute hepatitis : RUQ 통증; 피로, 구역, 구토, 식욕 부진, 황달, 검은색 소변, pale or clay-colored stool; 음주 병력
 * Liver abscess : RUQ 통증, 발열; 특히 당뇨병, 간/담도/췌장에 기저 질환이 있는 경우 의심
@@ -83,6 +104,14 @@
 * Pyelonephritis : 편측 옆구리 통증, 늑골척추각 압통, 빈뇨, 급뇨, 배뇨통, 혈뇨, 발열, 오한, 오심
 * Cystitis : 치골상부 통증; 배뇨통, 빈뇨, 급뇨, 혈뇨
 * Acute urinary retention : 치골상부 통증
+
+#### 여성 특이 하복부 복통
+
+* Ectopic pregnancy (자궁외임신) : 편측 하복부 통증, 질 출혈, 무월경; β-hCG 양성; 파열 시 급성 복막염 → 응급
+* PID (골반염) : 양측 하복부 통증, 발열, 질 분비물; cervical motion tenderness
+* 난소낭종 파열 : 갑작스런 편측 하복부 통증; 성적 활동 또는 운동 후 발생 가능
+* 난소 염전 (Ovarian torsion) : 갑작스런 심한 편측 하복부 통증, 구역, 구토; 초음파로 확인 → 응급
+* 원발성 월경통 : 월경 시작 전후 하복부 경련성 통증; 요통, 오심 동반 가능
 
 #### 미만성 복통
 
@@ -128,7 +157,7 @@
 ## <mark style="color:green;">증상에 따른 감별</mark>
 
 * 고령(특히 당뇨병, 신부전 환자)에서는 통증, 복부 강직, 발열 등의 증상이 적게 발현되므로 주의
-* 가임기 여성에서는 항상 임신 가능성을 고려
+* 가임기 여성에서는 항상 임신 가능성을 고려 → β-hCG 확인
 
 ### <mark style="color:$primary;">급성 복통</mark>
 
