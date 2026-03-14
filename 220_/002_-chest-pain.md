@@ -282,15 +282,27 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ### <mark style="color:$primary;">흉통 환자의 평가</mark>
 
-<figure><img src="../.gitbook/assets/fig 7.png" alt=""><figcaption><p>Patient-Centric Algorithms for Acute Chest Pain.<br>ECG=electrocardiogram, STEMI=ST-segment–elevation myocardial infarction.<br>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 88</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/fig 7.png" alt=""><figcaption><p><strong>Patient-Centric Algorithms for Acute Chest Pain</strong><br>ECG=electrocardiogram, STEMI=ST-segment–elevation myocardial infarction.<br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</em></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/fig 8.png" alt=""><figcaption><p>General Approach to Risk Stratification of Patients With Suspected ACS<br>ACS=acute coronary syndrome, CDP=clinical decision pathway, ECG=electrocardiogram <br>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 8</p></figcaption></figure>
+***
 
-### <mark style="color:$primary;">증상/병력에 따른 감별 - 급성 흉통</mark>
+<figure><img src="../.gitbook/assets/fig 8.png" alt=""><figcaption><p><strong>General Approach to Risk Stratification of Patients With Suspected ACS</strong><br>ACS=acute coronary syndrome, CDP=clinical decision pathway, ECG=electrocardiogram <br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 8</em></p></figcaption></figure>
+
+***
+
+<figure><img src="../.gitbook/assets/Fig 12.png" alt=""><figcaption><p><strong>Clinical Decision Pathway for Patients With Stable Chest Pain and No Known CAD</strong><br><em>Test choice should be guided by local availability and expertise.</em><br><em>*Test choice guided by patient’s exercise capacity, resting ECG abnormalities; CCTA preferable in those &#x3C;65 years of age and not on optimal preventive therapies; stress testing favored in those ≥65 years of age (with a higher likelihood of ischemia).</em> <br><em>†High-risk CAD means left main stenosis ≥50%; anatomically significant 3-vessel disease (≥70% stenosis).</em><br>CAD=coronary artery disease, CCTA=coronary CT angiography, CMR=cardiovascular MRI, FFR-CT=fractional flow reserve with CT, GDMT=guideline-directed medical therapy, INOCA=ischemia and no obstructive CAD, PET=positron emission tomography, SPECT=single-photon emission CT<br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 12</em> </p></figcaption></figure>
+
+***
+
+<figure><img src="../.gitbook/assets/Fig 13.png" alt=""><figcaption><p><strong>Clinical Decision Pathway for Patients With Stable Chest Pain (or Equivalent) Symptoms With Prior MI, Prior Revascularization, or Known CAD on Invasive Coronary Angiography or CCTA, Including Those With Nonobstructive CAD</strong><br>Test choice should be guided by local availability and expertise.<br>*Known CAD means prior MI, revascularization, known obstructive CAD, nonobstructive CAD.<br>†High-risk CAD means left main stenosis ≥50%; or obstructive CAD with FFR-CT ≤0.80.<br>‡Test choice guided by the patient’s exercise capacity, resting electrocardiographic abnormalities.<br>§Patients with prior CABG or stents >3.0 mm. Follow-up Testing and Intensification of GDMT Guided by Initial Test Results and Persistence / Worsening / Frequency of Symptoms and Shared Decision Making.<br><em>CABG=coronary artery bypass graft, ICA=invasive coronary angiography, iFR=instant wave-free ratio, MPI=myocardial perfusion imaging, SIHD=stable ischemic heart disease</em><br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 13</em> </p></figcaption></figure>
+
+### <mark style="color:$primary;">증상/병력에 따른 감별</mark>&#x20;
+
+#### 급성 흉통
 
 <div align="left"><figure><img src="../.gitbook/assets/흉통10.JPG" alt=""><figcaption></figcaption></figure></div>
 
-### <mark style="color:$primary;">증상/병력에 따른 감별 - 만성 흉통</mark>
+#### 만성 흉통
 
 <div align="left"><figure><img src="../.gitbook/assets/흉통11.JPG" alt=""><figcaption></figcaption></figure></div>
 
