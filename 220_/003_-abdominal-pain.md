@@ -64,12 +64,14 @@
 
 * 이환된 neurosegment의 지배를 받는 부위에 통증이 나타남
 
+☞ 아래
+
 #### Abdominal wall pain (복벽통)
 
 * 복벽 근육, 근막, 피부 신경의 병변에 의한 통증; 복강 내 장기와 무관
+* 원인 질환: 근육 긴장(muscle strain), 늑간신경포착, 복직근 혈종, 대상포진, 수술 후 신경종
 * 특징 : 국소 압통, 자세 변화·움직임에 의해 악화, 복강 내 병변과 달리 복부 강직·반동 압통 없음
-* Carnett's sign : 환자가 상체를 들어올리거나 복근을 긴장시킬 때 압통이 유지되거나 악화되면 복벽 기원 가능성 높음 (복강 내 병변이면 통증 감소)
-* 원인 : 늑간 신경포착, 복직근 혈종, 대상포진, 수술 후 신경종
+* Carnett's sign : 환자가 상체를 들어올리거나 복근을 긴장시킬 때 압통이 유지되거나 악화되면 복벽 기원 가능성 높음 (＊복강 내 병변 시 통증 감소)
 
 ## <mark style="color:green;">위치에 따른 복부 통증의 감별</mark>
 
@@ -107,10 +109,10 @@
 
 #### 여성 특이 하복부 복통
 
-* Ectopic pregnancy (자궁외임신) : 편측 하복부 통증, 질 출혈, 무월경; β-hCG 양성; 파열 시 급성 복막염 → 응급
-* PID (골반염) : 양측 하복부 통증, 발열, 질 분비물; cervical motion tenderness
+* Ectopic pregnancy : 편측 하복부 통증, 질 출혈, 무월경; β-hCG 양성; 파열 시 급성 복막염 → 응급
+* 골반염 : 양측 하복부 통증, 발열, 질 분비물; cervical motion tenderness
 * 난소낭종 파열 : 갑작스런 편측 하복부 통증; 성적 활동 또는 운동 후 발생 가능
-* 난소 염전 (Ovarian torsion) : 갑작스런 심한 편측 하복부 통증, 구역, 구토; 초음파로 확인 → 응급
+* 난소 염전 : 갑작스런 심한 편측 하복부 통증, 구역, 구토; 초음파로 확인 → 응급
 * 원발성 월경통 : 월경 시작 전후 하복부 경련성 통증; 요통, 오심 동반 가능
 
 #### 미만성 복통
@@ -127,8 +129,6 @@
 * IBD : 혈성 설사, 급뇨, 뒤무직, 발열, 장외 증상(관절염, 포도막염); 장기간(수년 이상) 지속
 * Acute mesenteric ischemia : 급성의 심하고 지속적인 복통
 * Chronic mesenteric ischemia : 식후 통증, 구역, 구토, 설사, 체중 감소
-
-
 
 ![](../.gitbook/assets/ab35cc1e-ed22-4244-819f-d0b81f49f1d4.JPG)
 
@@ -167,9 +167,7 @@
 
 <figure><img src="../.gitbook/assets/복통8.JPG" alt=""><figcaption></figcaption></figure>
 
-
-
-### <mark style="color:purple;">**질병코드**</mark>&#x20;
+### <mark style="color:purple;">**질병코드**</mark>
 
 R10.4 기타 및 상세불명의 복통
 
