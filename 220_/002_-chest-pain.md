@@ -282,7 +282,9 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ### <mark style="color:$primary;">흉통 환자의 평가</mark>
 
-<div align="left"><img src="../.gitbook/assets/68616a76-dcb6-4e8c-ba5e-9e6d5146de2d.JPG" alt=""></div>
+<figure><img src="../.gitbook/assets/fig 7.png" alt=""><figcaption><p>Patient-Centric Algorithms for Acute Chest Pain.<br>ECG=electrocardiogram, STEMI=ST-segment–elevation myocardial infarction.<br>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 88</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/fig 8.png" alt=""><figcaption><p>General Approach to Risk Stratification of Patients With Suspected ACS<br>ACS=acute coronary syndrome, CDP=clinical decision pathway, ECG=electrocardiogram <br>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 8</p></figcaption></figure>
 
 ### <mark style="color:$primary;">증상/병력에 따른 감별 - 급성 흉통</mark>
 
