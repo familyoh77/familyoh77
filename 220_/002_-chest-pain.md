@@ -65,60 +65,33 @@
 
 #### 실험실 검사 (심장 기원 평가)
 
-* CBC, 고감도 심장 트로포닌 (hs-cTn), CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
+* 검사  항목 : CBC, 고감도 심장 트로포닌 (hs-cTn), CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
+* hs-cTn&#x20;
+  * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
+  * 해석 : 측정값이 매우 낮은 기준치 미만이면 NSTEMI 배제 가능; 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 delta(절대 변화량)으로 판단(이를 ESC 신속 배제·확진 프로토콜(0/1h 또는 0/3h)이라 함)
+  * 암 환자나 기존 CAD 환자는 심장 손상과 무관한 이유로 트로포닌이 만성적으로 상승해 있을 수 있으므로 임상 소견과 병행  급성 MI 판단 필요.
 
-{% hint style="warning" %}
-**고감도 트로포닌 (hs-cTn) — 현재 표준 바이오마커 (2021 AHA/ACC, Class I)**
+#### 영상 검사 선택 전략 (2021 AHA/ACC 권고)
 
-* hs-cTn은 급성 MI 진단의 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 더 이상 권고되지 않음
-* **ESC 0/1h 알고리즘** : 0시간 채혈 후 1시간 뒤 재측정 → 절대 변화량(delta)으로 rule-out / rule-in 신속 판정
-  * Rule-out : 0시간값이 assay별 매우 낮은 기준치(예: hs-cTnT <5 ng/L) 미만 → 단일 측정으로 NSTEMI 배제 가능
-  * Rule-in : 0시간값 중등도 이상 상승 또는 1시간 내 명확한 상승
-  * Observe zone : 위 두 기준 미충족 → 3시간 뒤 추가 측정
-* hs-cTn 기준치는 assay 종류에 따라 다르므로 사용 기관의 assay 매뉴얼 확인 필수
-* ⚠️ 암 환자, 기존 CAD 환자에서는 알고리즘 성능이 저하될 수 있어 임상적 판단 병행 필요
-{% endhint %}
+<table><thead><tr><th width="319">임상 상황</th><th width="242.26318359375">권고 검사</th><th width="94.329833984375">권고 등급</th></tr></thead><tbody><tr><td>중등도 위험 급성 흉통, CAD 기왕력(-)</td><td>CCTA(1차) or stress imaging*</td><td>Class I</td></tr><tr><td>중등도-고위험 안정형 흉통, CAD 기왕력 (-)</td><td>CCTA or stress imaging</td><td>Class I</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력 (-)</td><td>CAC score or 운동부하검사</td><td>Class IIa </td></tr><tr><td>고위험 / ACS 의심</td><td>침습적 관상동맥 조영술</td><td>Class I</td></tr><tr><td>CCTA에서 협착 확인 또는 판정 불가</td><td>FFR-CT (혈류예비분획-CT)</td><td>Class IIa</td></tr></tbody></table>
 
-#### 영상검사 선택 전략 (2021 AHA/ACC 권고)
-
-| 임상 상황                      | 권고 검사                           | 권고 등급             |
-| -------------------------- | ------------------------------- | ----------------- |
-| 중등도 위험 급성 흉통, CAD 기왕력 없음   | **CCTA** (1차) 또는 stress imaging | Class I (LOE A)   |
-| 중등도-고위험 안정형 흉통, CAD 기왕력 없음 | **CCTA** 또는 stress imaging      | Class I (LOE A)   |
-| 저위험 안정형 흉통, CAD 기왕력 없음     | CAC score 또는 운동부하검사             | Class IIa (LOE B) |
-| 고위험 / ACS 의심               | 침습적 관상동맥 조영술                    | Class I           |
-| CCTA에서 협착 확인 또는 판정 불가      | FFR-CT (혈류예비분획-CT)              | Class IIa (LOE B) |
-
-{% hint style="info" %}
-**CCTA 검사 결과의 유효기간** : 정상 CCTA(협착·플라크 없음) = **2년** / 정상 stress test = **1년** — 이 기간 내 동일 증상이면 재검사 불필요 (2021 AHA/ACC)
-{% endhint %}
+_\*65세 미만에서 CCTA 선호_
 
 ## <mark style="color:green;">심장 기원 흉통</mark>
 
-|                           | 시작 / 기간                                                                                           | 증상                                                 | 부위                                                       | 동반 특징                                                              |
-| ------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Myocardial ischemia**   | <p>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2–10분<br>• Unstable angina: 휴식 시 발생<br>• MI: ≥30분 지속</p> | pressure, tightness, squeezing, heaviness, burning | retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부 | 통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale |
-| **Pericarditis**          | variable: 수 시간–수일                                                                                 | pleuritic, sharp                                   | retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder)       | 앉거나 앞으로 기울이면 호전; pericardial friction rub                          |
-| **Acute aortic syndrome** | 통증이 갑자기 시작되어 줄어들지 않음                                                                              | 찢어지는, 칼로 찌르는 느낌                                    | ant chest; 종종 방사통 (back, 양 견갑골 사이)                       | HTN, 기저연조직 질환; 대동맥부전 의심 잡음; 말초 맥박 소실                               |
+<table><thead><tr><th width="122.73687744140625"></th><th width="147.84210205078125">시작 / 기간</th><th width="125.84210205078125">증상</th><th>부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Myocardial ischemia</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2–10분<br>• Unstable angina: 휴식 시 발생<br>• MI: ≥30분 지속</td><td>pressure, tightness, squeezing, heaviness, burning</td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부</td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale</td></tr><tr><td><strong>Pericarditis</strong></td><td>variable: 수 시간–수일</td><td>pleuritic, sharp</td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder)</td><td>앉거나 앞으로 기울이면 호전; pericardial friction rub</td></tr><tr><td><strong>Acute aortic syndrome</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음</td><td>찢어지는, 칼로 찌르는 느낌</td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td><td>HTN, 기저연조직 질환; 대동맥부전 의심 잡음; 말초 맥박 소실</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
 
 #### 급성 심근경색 가능성
 
 * 가능성 높음 : 활동과 관련, 어깨 및 팔 방사통, 발한, 구역/구토, 압박감, 과거에 경험했던 심근경색 증상과 유사하거나 더 심함
-* 가능성 낮음 : 압박에 의해 재현됨, 예리한 느낌, 위치가 명확, 흉막 통증 느낌, 통증 부위 감염
-
-{% hint style="warning" %}
-**여성에서의 비전형적 ACS 증상 (2023 ESC)**
-
-여성은 전형적인 흉부 압박감 외에 다음 증상이 더 흔하게 나타난다 — 어지럼증·실신, 오심/구토, 턱·등 통증, 호흡곤란, 두 견갑골 사이 통증, 두근거림, 피로. 이러한 비전형 증상만 있어도 ACS를 배제하지 않도록 주의한다.
-{% endhint %}
+* 가능성 낮음 : 압박에 의해 재현됨, 예리한 느낌, 위치가 명확, 흉막 통증 느낌, 통증 부위 감염(연조직염, 대상포진 등)
+* 여성에서의 비전형적 ACS 증상 : 여성은 전형적인 흉부 압박감 외에 다음 증상이 더 흔하게 나타남; 어지럼증, 실신, 오심, 구토, 턱·등 통증, 호흡곤란, 견갑골 사이 통증, 두근거림, 피로; 이러한 비전형 증상만 있어도 ACS를 배제하지 않도록 주의(2023 ESC)
 
 #### 허혈성 심질환의 전형적인 흉통
 
-*   징후 : ① 특징적인 증상 및 증상 발생 기간 동안 흉골 뒤 통증, ② 운동 또는 정신적 스트레스에 의해 유발,
-
-    ③ nitroglycerin에 의해 30초\~수 분 내 호전(통증은 20분 이상 지속될 수 있음)
+* 징후 : ① 특징적인 증상 및 증상 발생 기간 동안 흉골 뒤 통증, ② 운동 또는 정신적 스트레스에 의해 유발, ③ nitroglycerin에 의해 30초\~수 분 내 호전(통증은 20분 이상 지속될 수 있음)
 *   판정 : 3가지 모두 해당 시 전형적 허혈성 심질환 흉통, 2가지 해당 시 비전형적 흉통, ≤1가지 해당 시 심장 외 요인에 의한
 
     흉통
@@ -154,18 +127,9 @@ _<mark style="color:$info;">Ref. Acute Chest Pain in Adults: Outpatient Evaluati
 
 
 
-<table><thead><tr><th width="101.57894897460938">항목</th><th width="48.4210205078125">점수</th><th width="507.0666809082031">기준</th></tr></thead><tbody><tr><td><strong>H</strong>istory</td><td>2</td><td>①흉골 뒤 압박감, ②운동/스트레스 유발, ③nitrate에 호전의전형적 허혈성 흉통 3가지 모두</td></tr><tr><td></td><td>1</td><td>위 3가지 중 1~2가지만 해당 (비전형적)</td></tr><tr><td></td><td>0</td><td>심장 기원 가능성이 낮은 병력</td></tr><tr><td><strong>E</strong>CG</td><td>2</td><td>유의한 ST 하강, 완전 LBBB, 또는 좌심실 비후 소견</td></tr><tr><td></td><td>1</td><td>비특이적 재분극 장애</td></tr><tr><td></td><td>0</td><td>정상</td></tr><tr><td><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td></td><td>1</td><td>45~64세</td></tr><tr><td></td><td>0</td><td>&#x3C;45세</td></tr><tr><td><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험 인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI>30, CAD 가족력) 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환) 병력</td></tr><tr><td>1</td><td></td><td>1~2개의 위험 인자</td></tr><tr><td>0</td><td></td><td>위험 인자 없음</td></tr><tr><td><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td></td><td>1</td><td>ULN의 1~3배 상승</td></tr><tr><td></td><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
+<table><thead><tr><th width="101.57894897460938">항목</th><th width="48.4210205078125">점수</th><th width="507.0666809082031">기준</th></tr></thead><tbody><tr><td><strong>H</strong>istory</td><td>2</td><td>허혈성 심질환의 전형적 흉통 3가지 모두 해당</td></tr><tr><td></td><td>1</td><td>위 3가지 중 1~2가지만 해당 (비전형적)</td></tr><tr><td></td><td>0</td><td>심장 기원 가능성이 낮은 병력</td></tr><tr><td><strong>E</strong>CG</td><td>2</td><td>유의한 ST 하강, 완전 LBBB, 또는 좌심실 비후 소견</td></tr><tr><td></td><td>1</td><td>비특이적 재분극 장애</td></tr><tr><td></td><td>0</td><td>정상</td></tr><tr><td><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td></td><td>1</td><td>45~64세</td></tr><tr><td></td><td>0</td><td>&#x3C;45세</td></tr><tr><td><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험 인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI>30, CAD 가족력) 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환) 병력</td></tr><tr><td></td><td>1</td><td>1~2개의 위험 인자</td></tr><tr><td></td><td>0</td><td>위험 인자 없음</td></tr><tr><td><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td></td><td>1</td><td>ULN의 1~3배 상승</td></tr><tr><td></td><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
 
-▶판정 : 0\~3점 = 저위험(6주 MACE \~2%, 퇴원 고려), 4\~6점 = 중등위험(입원·추가 검사), 7\~10점 = 고위험(적극적 처치)
-
-{% hint style="info" %}
-**HEART Score 임상 적용 시 주의사항**
-
-* HEART Score는 응급실에서 가장 많이 검증된 ACS 위험도 도구이며 AHA가 권고한다.
-* **Troponin 항목은 사용 기관의 assay별 ULN 기준을 따른다**; hs-cTn 도입 기관에서는 hs-cTn 값 기준으로 적용.
-* History 항목은 임상의 판단이 크게 반영되므로 경험에 따라 점수 편차가 있을 수 있다.
-* 저위험(0–3점)이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단한다.
-{% endhint %}
+▶판정 : 0\~3점 = 저위험(6주 MACE \~2%, 퇴원 고려), 4\~6점 = 중등위험(입원·추가 검사), 7\~10점 = 고위험(적극적 처치); 저위험이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단
 
 ☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
 
@@ -175,19 +139,12 @@ _<mark style="color:$info;">Ref. Six AJ et al. Chest pain in the emergency room:
 
 * 급성 심근 허혈로 인한 일련의 임상증후군
 * 분류 : unstable angina, ST elevation MI (STEMI), non–ST segment elevation MI (NSTEMI)
+* ACS 초기 평가의 핵심 원칙: **A**bnormal ECG(즉각 ECG 시행) → **C**linical context(임상 맥락 및 검사 결과 종합) → **S**table(혈역학적 안정 여부 확인).
 * ACS 의심 ECG 소견 : ST elevation, new-onset LBBB, Q wave 존재, new T-wave inversions
-
-{% hint style="info" %}
-**2025 ACC/AHA/ACEP ACS 통합 가이드라인**
-
-2025년 기존의 STEMI·NSTE-ACS 별도 가이드라인이 단일 통합 가이드라인으로 대체되었다 (2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes). ACS 초기 평가의 핵심 원칙: **A**bnormal ECG(즉각 ECG 시행) → **C**linical context(임상 맥락 및 검사 결과 종합) → **S**table(혈역학적 안정 여부 확인).
-
-NSTE-ACS의 very high-risk features (즉시 침습적 처치 고려): 혈역학적 불안정/심인성 쇼크, 의료적 처치에도 지속되는 흉통, 급성 심부전, 생명을 위협하는 부정맥, 기계적 합병증, 반복적인 동적 ECG 변화.
-{% endhint %}
 
 ## <mark style="color:green;">폐 기원 흉통</mark>
 
-<table><thead><tr><th width="139.42108154296875"></th><th>시작 / 기간</th><th>증상</th><th>부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic; 대규모 색전증 시 heaviness</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
+<table><thead><tr><th width="139.42108154296875"></th><th width="114.26318359375">시작 / 기간</th><th width="133.94732666015625">증상</th><th width="120.26312255859375">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic; 대규모 색전증 시 heaviness</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
 
@@ -201,7 +158,7 @@ _<mark style="color:$info;">Ref. Derivation of a simple clinical model to catego
 
 #### PERC Rule (PE Rule-out Criteria) — 저위험군 추가 배제
 
-Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 **모두** 충족하면 D-dimer 검사 없이 PE 배제 가능:
+Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충족하면 D-dimer 검사 없이 PE 배제 가능:
 
 <table><thead><tr><th width="209">항목</th><th width="208.06658935546875">기준</th></tr></thead><tbody><tr><td>나이</td><td>&#x3C;50세</td></tr><tr><td>심박수</td><td>&#x3C;100회/분</td></tr><tr><td>SpO₂</td><td>≥95%</td></tr><tr><td>하지 부종</td><td>편측 하지 부종 없음</td></tr><tr><td>객혈</td><td>없음</td></tr><tr><td>최근 수술/외상</td><td>없음 (4주 이내)</td></tr><tr><td>DVT/PE 기왕력</td><td>없음</td></tr><tr><td>에스트로겐 투여</td><td>없음</td></tr></tbody></table>
 
@@ -251,13 +208,6 @@ Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 **모두**
 
     예) 피로, 수면 장애, 인지 장애, 우울, 불안
 * Rib fracture : 압통, 국소 늑막염성 통증; 보통 외상 병력이 있음 (✽외상 병력 없이도 발생할 수 있음)
-*
-
-```
-<div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p><strong>흉통에서 주의할 생명위협 원인 (Big 3 + 1)</strong></p><ul><li>대동맥박리 : 갑작스러운 찢어지는 흉통·등통증, 양측 혈압·맥박 차이 → CTA (흉부·복부·골반)</li><li>폐색전증 : 빈맥, 호흡곤란, P2 항진 → PE protocol CTA</li><li>심근심막염 : 자세에 따른 흉통(앞으로 기울면 호전), 마찰음 → CMR (진단 불확실 시)</li><li>식도 파열 : 구토 후 심한 흉통, 종격동 기종 → 즉시 의뢰</li></ul></div>
-```
-
-### <mark style="color:$primary;">질환별 흉통 비교표</mark>
 
 <table><thead><tr><th width="152.0526123046875"></th><th>시작 / 기간</th><th>증상</th><th width="122.73687744140625">부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Esophageal reflux</strong></td><td>10–60분</td><td>burning</td><td>substernal, 상복부</td><td>식후 누웠을 때 악화; 제산제로 호전</td></tr><tr><td><strong>Esophageal spasm</strong></td><td>2–30분</td><td>pressure, tightness, burning</td><td>retrosternal</td><td>angina 유사</td></tr><tr><td><strong>Peptic ulcer</strong></td><td>장시간; 식후 60–90분</td><td>burning</td><td>상복부, substernal</td><td>음식/제산제로 호전</td></tr><tr><td><strong>Gallbladder disease</strong></td><td>장시간</td><td>aching or colicky</td><td>상복부, RUQ, 때때로 back</td><td>식후 발생 가능</td></tr><tr><td><strong>Costochondritis</strong></td><td>variable</td><td>aching</td><td>sternal</td><td>때때로 관절 위 부종/압통/열감; 이환부 압박으로 증상 재현</td></tr><tr><td><strong>Cervical disk disease</strong></td><td>variable; 갑자기</td><td>aching; numbness 포함</td><td>팔, 어깨</td><td>목 움직임으로 악화</td></tr><tr><td><strong>Trauma or strain</strong></td><td>보통 일정함</td><td>aching</td><td>이환부</td><td>움직임/촉지로 증상 재현</td></tr><tr><td><strong>Herpes zoster</strong></td><td>보통 장기간</td><td>sharp or burning</td><td>피부 분절 분포</td><td>통증부 수포성 발적</td></tr><tr><td><strong>Emotional &#x26; psychiatric conditions</strong></td><td>variable; 순식간 또는 장시간</td><td>variable; 종종 공포가 있는 호흡곤란/조임</td><td>variable; substernal</td><td>증상을 유발하는 상황 요인이 있음; 공황/우울 병력</td></tr></tbody></table>
 
