@@ -5,6 +5,7 @@
   * [통증 Pain](220_/001_-pain.md)
   * [흉통 Chest Pain](220_/002_-chest-pain.md)
   * [복통 Abdominal Pain](220_/003_-abdominal-pain.md)
+  * [03\_복통\_Abdominal\_Pain](220_/03_-_abdominal_pain.md)
   * [구취증 Halitosis, Bad Breath](220_/004_-halitosis-bad-breath.md)
   * [후각, 미각 이상 Smell, Taste Disorders](220_/005_-smell-taste-disorders.md)
   * [기침 Cough](220_/006_-cough.md)

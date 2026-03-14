@@ -1,12 +1,19 @@
 # 복통 Abdominal Pain
 
-![image](../.gitbook/assets/bd6ef93f-a442-48e3-8f8c-6b820e11129e.JPG)
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-```
-![image](images/9c9cf455-89a2-4883-9e21-1e84d3281597.JPG)
-```
+* 원인 불명의 빈혈, 위장관 출혈 의심 병력이나 증상 - vital sign 불안정 (혈액 또는 검은색 토물 또는 대변)
+* 발열 동반
+* 같은 문제로 반복적인 진료
+* 복막염 소견 : 복부 강직, 반동 압통
+* 설명되지 않는 체중 감소
+* 8\~12시간 내 호전되지 않거나 악화
+* 고령(＞60세)
+* 복통 양상의 변화
+* 가족력 : 난소 또는 창자의 악성 종양,
+* 황달 증상 가족성 대장폴립증
 
-## 통증 기원에 따른 특징
+## <mark style="color:green;">통증 기원에 따른 특징</mark>
 
 #### Visceral pain (내장통)
 
@@ -41,7 +48,7 @@
 
 * 근육 경직에 의한 통증
 
-## 위치에 따른 복부 통증의 감별
+## <mark style="color:green;">위치에 따른 복부 통증의 감별</mark>
 
 #### 우상복부 복통
 
@@ -88,43 +95,51 @@
 * Diverticulosis : 변비, 종종 무증상
 * IBD : 혈성 설사, 급뇨, 뒤무직, 발열, 장외 증상(관절염, 포도막염); 장기간(수년 이상) 지속
 * Acute mesenteric ischemia : 급성의 심하고 지속적인 복통
-*   Chronic mesenteric ischemia : 식후 통증, 구역, 구토, 설사, 체중 감소
+* Chronic mesenteric ischemia : 식후 통증, 구역, 구토, 설사, 체중 감소
 
-    ![image](../.gitbook/assets/ab35cc1e-ed22-4244-819f-d0b81f49f1d4.JPG)
 
-    ![image](../.gitbook/assets/1f4ed4ab-ca0e-4389-ba6a-870ff242558f.JPG)
 
-    ![image](../.gitbook/assets/b0ffb449-458e-4944-afa1-6d6c9b5edde9.JPG)
+![](../.gitbook/assets/ab35cc1e-ed22-4244-819f-d0b81f49f1d4.JPG)
 
-    ![image](../.gitbook/assets/81c0f938-9de0-4baf-bad7-c0f8e8704d3c.JPG)
+***
 
-## 연관통
+![](../.gitbook/assets/1f4ed4ab-ca0e-4389-ba6a-870ff242558f.JPG)
+
+***
+
+![](../.gitbook/assets/b0ffb449-458e-4944-afa1-6d6c9b5edde9.JPG)
+
+***
+
+![](../.gitbook/assets/81c0f938-9de0-4baf-bad7-c0f8e8704d3c.JPG)
+
+## <mark style="color:green;">연관통</mark>
 
 * 보통 소화관 문제는 복부 중앙부 증상으로 나타남
 * 콩팥, 요관, 난소, 상행/하행 결장 문제는 이환된 쪽의 편측 증상으로 나타남
 * 소장 문제는 배꼽 주위 증상으로 나타남 (T8\~L1)
 * 게실염 등에서는 국소, 복막염에서는 미만성으로 복부 강직이 발생
-*   깊은 장기의 질환(예: 콩팥 산통, 췌장염)에서는 흔히 복부 강직이 발생하지 않음
+* 깊은 장기의 질환(예: 콩팥 산통, 췌장염)에서는 흔히 복부 강직이 발생하지 않음
 
-    ![image](../.gitbook/assets/c4e4421b-c17b-4ca7-be1d-fe1557d4be16.JPG)
+![](../.gitbook/assets/c4e4421b-c17b-4ca7-be1d-fe1557d4be16.JPG)
 
-## 증상에 따른 감별
+## <mark style="color:green;">증상에 따른 감별</mark>
 
 * 고령(특히 당뇨병, 신부전 환자)에서는 통증, 복부 강직, 발열 등의 증상이 적게 발현되므로 주의
 * 가임기 여성에서는 항상 임신 가능성을 고려
 
-### 급성 복통
+### <mark style="color:$primary;">급성 복통</mark>
 
-```
-![image](images/9f6bfc3b-47fb-4496-ba6e-f4051f5e6b3b.JPG)
-```
+<figure><img src="../.gitbook/assets/복통7.JPG" alt=""><figcaption></figcaption></figure>
 
-### 만성 복통
+### <mark style="color:$primary;">만성 복통</mark>
 
-```
-![image](images/1aaa5be2-62ab-469d-af7c-4222b6d748e6.JPG)
-```
+<figure><img src="../.gitbook/assets/복통8.JPG" alt=""><figcaption></figcaption></figure>
 
-> **질병코드** R10.4 기타 및 상세불명의 복통
+
+
+### <mark style="color:purple;">**질병코드**</mark>&#x20;
+
+R10.4 기타 및 상세불명의 복통
 
 R10.0 급성 복증
