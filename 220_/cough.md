@@ -126,6 +126,22 @@
 
 ***
 
+<figure><img src="../.gitbook/assets/기침2.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
+<figure><img src="../.gitbook/assets/기침3.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
+<figure><img src="../.gitbook/assets/기침4.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
+<figure><img src="../.gitbook/assets/기침5.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
@@ -140,8 +156,8 @@
 
 * 알레르기비염, 후비루 : 항히스타민제, 비내 steroid (☞ p.243)
 * 백일해 : azithromycin(1차), clarithromycin 또는 TMP-SMX(대안); 노출 후 예방에도 동일 항생제 사용 (☞ 백일해 챕터 참조)
-* 감염후기침 : 상기도기침증후군 치료; ipratropium 흡입제 또는 단기 흡입 steroid도 효과적일 수 있음; 단기 경구 steroid(예: prednisolone)도 고려 가능 ✦신규
-* GERD : 증상이 있는 GERD에만 PPI 투여; 기침 외 다른 증상이 없는 GERD에서 PPI는 효과가 없으며 권장되지 않음. 투여 시 최소 8주 이상 유지 ✦신규 (☞ p.406)
+* 감염후기침 : 상기도기침증후군 치료; ipratropium 흡입제 또는 단기 흡입 steroid도 효과적일 수 있음; 단기 경구 steroid(예: prednisolone)도 고려 가능
+* GERD : 증상이 있는 GERD에만 PPI 투여; 기침 외 다른 증상이 없는 GERD에서 PPI는 효과가 없으며 권장되지 않음. 투여 시 최소 8주 이상 유지 (☞ p.406)
 * 원인 미상의 refractory cough : 기침 과민증후군을 의심하며 말초 및 중추성 cough reflex 과민에 대한 neuromodulator 치료 고려; 반응이 있으면 4주내 호전
   * gabapentin 300 ㎎/d, 점차 증량, 최대 1800 ㎎/d \[뉴론틴], pregabalin 300 ㎎/d \[리리카] (보험주의; 만성 기침에 대한 급여 인정 기준 없음)
   * amitriptyline 10–25 ㎎/d, 취침 전 \[에트라빌] (보험주의)&#x20;
@@ -166,7 +182,13 @@
 
 ***
 
+<figure><img src="../.gitbook/assets/기침6.JPG" alt=""><figcaption></figcaption></figure>
+
 ***
+
+<figure><img src="../.gitbook/assets/기침9.PNG" alt=""><figcaption><p>“Propeller” model for management of chronic cough in primary (central circle) and cough specialty (propeller “blades”) care. ACO (asthma COPD overlap), AR (allergic rhinitis), CA (classic asthma), CB (chronic bronchitis), COPD (chronic obstructive pulmonary disease), CRS (chronic rhinosinusitis), CVA (cough variant asthma), GERD (gastroesophageal reﬂux disease), LHR (laryngeal hyperresponsiveness), NAEB (non-asthmatic eosinophilic bronchitis), NP (nasal polyp), OSA (obstructive sleep apnea), PCPs (primary care physicians), RCC (refractory chronic cough), UCC (unexplained chronic cough).<br>WAO - ARIA consensus on chronic cough: Executive summary 2025. Fig 2</p></figcaption></figure>
+
+
 
 ***
 
