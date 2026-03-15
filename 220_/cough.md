@@ -35,11 +35,16 @@
 
 * 흔한 원인 : 천식, cough-variant asthma, GERD, 상기도기침증후군
 * 덜 흔한 원인 : 약물(예: ACEI), 만성기관지염, COPD, 기관지확장증, 결핵, 기관지 자극(예: 흡연, 연기, 향수, 표백제), 감염후기침(감기후기침증후군), 심인성/습관성 기침
-* 난치성/불명확 만성 기침 : **기침 과민증후군(Cough Hypersensitivity Syndrome, CHS)** — 표준 치료에 반응하지 않거나 원인을 찾을 수 없는 경우; 미주신경의 신경병증성 과민이 기전으로 주목받고 있음 ✦신규
 
 ✽역류에 의한 기침은 역류를 포함한 위장관의 자각 증상이 없어도 발생할 수 있음
 
 ✽감염후기침(post-infectious cough) : 상기도 감염 후 발생하여 3주 이상 지속되는 고질적 기침으로 2\~3개월 이상 지속되기도 함
+
+#### 기침과민증후군 (Cough Hypersensitivity Syndrome, CHS)&#x20;
+
+* 정의 : 기저 질환에 관계없이 만성 기침이 주요 증상으로 나타나는 임상적 실체(clinical entity)
+* 표준 치료에 반응하지 않거나 원인을 찾을 수 없는 난치성/불명확 만성 기침
+* 미주신경의 신경병증성 과민이 기전으로 주목받고 있음
 
 ## <mark style="color:green;">지속되는 기침의 원인 질환들</mark>
 
@@ -126,6 +131,22 @@
 
 ***
 
+<figure><img src="../.gitbook/assets/기침3.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
+<figure><img src="../.gitbook/assets/기침4.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
+<figure><img src="../.gitbook/assets/기침5.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
+<figure><img src="../.gitbook/assets/기침2.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
@@ -168,7 +189,7 @@
 
 ***
 
-***
+<figure><img src="../.gitbook/assets/기침6.JPG" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -201,7 +222,7 @@ R05 기침
 ## 참고문헌
 
 1. Parker SM, Smith JA, Birring SS, et al. British Thoracic Society clinical statement on chronic cough in adults. _Thorax_. 2023;78(Suppl 6):s3–s19.
-2. Rouadi PW, et al. WAO-ARIA consensus on chronic cough: Executive summary. _World Allergy Organization Journal_. 2025;18:101034.
+2.
 3. Satia I, et al. The clinical approach to chronic cough. _J Allergy Clin Immunol Pract_. 2024 Nov. doi:10.1016/j.jaip.2024.10.046
 4. Turner RD, et al. Chronic cough: New guidelines, new approaches and new treatments. _Respirology_. 2024;29. doi:10.1111/resp.14686
 5. McGarvey LP, Birring SS, Morice AH, et al. Efficacy and safety of gefapixant (COUGH-1 and COUGH-2): phase 3 trials. _Lancet_. 2022;399(10328):909–923.

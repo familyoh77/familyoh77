@@ -14,6 +14,7 @@
 * ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes (2025)
 * AHA/ACC Guideline for the Management of Patients With Chronic Coronary Disease (2023)
 * Coping with common GI symptoms in the community. WGO (2013)
+* ARIA consensus on chronic cough: Executive summary. WAO (2025)
 * Guidelines on the diagnosis and treatment of chronic cough in adults and children. ERS (2019)
 * 만성기침 진료지침. 대한천식알레르기학회 (2018)
 * 기침진료지침. 대한결핵및호흡기학회 (2014)
