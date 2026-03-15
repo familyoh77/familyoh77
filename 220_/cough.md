@@ -137,11 +137,11 @@
 
 ***
 
-<figure><img src="../.gitbook/assets/기침2.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/기침9.PNG" alt=""><figcaption><p>“Propeller” model for management of chronic cough in primary (central circle) and cough specialty (propeller “blades”) care. ACO (asthma COPD overlap), AR (allergic rhinitis), CA (classic asthma), CB (chronic bronchitis), COPD (chronic obstructive pulmonary disease), CRS (chronic rhinosinusitis), CVA (cough variant asthma), GERD (gastroesophageal reﬂux disease), LHR (laryngeal hyperresponsiveness), NAEB (non-asthmatic eosinophilic bronchitis), NP (nasal polyp), OSA (obstructive sleep apnea), PCPs (primary care physicians), RCC (refractory chronic cough), UCC (unexplained chronic cough).<br>2025 WAO - ARIA consensus on chronic cough: Executive summary. Fig. 2.</p></figcaption></figure>
 
 ***
 
-<figure><img src="../.gitbook/assets/기침9.PNG" alt=""><figcaption><p>“Propeller” model for management of chronic cough in primary (central circle) and cough specialty (propeller “blades”) care. ACO (asthma COPD overlap), AR (allergic rhinitis), CA (classic asthma), CB (chronic bronchitis), COPD (chronic obstructive pulmonary disease), CRS (chronic rhinosinusitis), CVA (cough variant asthma), GERD (gastroesophageal reﬂux disease), LHR (laryngeal hyperresponsiveness), NAEB (non-asthmatic eosinophilic bronchitis), NP (nasal polyp), OSA (obstructive sleep apnea), PCPs (primary care physicians), RCC (refractory chronic cough), UCC (unexplained chronic cough).<br>2025 WAO - ARIA consensus on chronic cough: Executive summary. Fig. 2.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/기침2.JPG" alt=""><figcaption></figcaption></figure>
 
 ***
 
