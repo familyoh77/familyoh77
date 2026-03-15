@@ -31,7 +31,7 @@
 * 기도 폐쇄 : 이물/땅콩/기타 음식물 흡인 병력
 * 폐색전증 : 갑자기 시작되는 흉막염성 흉통, 객혈 동반
 * 기흉 : 흉통 동반
-* heart attack : 흉통, 흉부 압박감 동반
+* 급성 관상동맥증후군(ACS) : 흉통, 흉부 압박감 동반
 * 심부전 : 공기 부족 느낌
 * 불안, 공황장애
 
@@ -47,7 +47,7 @@
 ### <mark style="color:$primary;">검사</mark>
 
 * 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel, spirometry, pulse oximetry
-* 선택적 시행 : echocardiography, cardiac stress tests, PFT, CT
+* 선택적 시행 : echocardiography, cardiac stress tests, PFT, CT, **BNP 또는 NT-proBNP** (심부전 감별에 유용)
 
 ### <mark style="color:$primary;">증상/병력에 따른 감별</mark>
 
@@ -62,14 +62,14 @@
 
 #### 급성
 
-* 급성, 간헐적 → 심장 발작, bronchospasm, 폐색전증
-*   급성, 심한 호흡 곤란, 흉통 또는 가슴 조임 → 심장 발작, 기흉, 폐색전증, 무기폐
+* 급성, 간헐적 → 급성 관상동맥증후군(ACS), bronchospasm, 폐색전증
+*   급성, 심한 호흡 곤란, 흉통 또는 가슴 조임 → 급성 관상동맥증후군(ACS), 기흉, 폐색전증, 무기폐
 
     •Spontaneous pneumothorax : 기저 폐질환이 있는 마른 체형의 젊은 남자 호발
 
     •Pulmonary embolism : 4주 내 최근 지속적인 immobilization 또는 수술 병력, estrogen 치료, DVT 위험 인자
 
-    (thromboembolism, 암, 비만, 하지 외상)
+    (thromboembolism, 암, 비만, 하지 외상); **Wells score 또는 YEARS algorithm으로 사전 확률 평가**
 * 급성, 지속적 → 폐렴, 급성 기관지염, 만성 질환의 급성 악화
 
 #### 호흡기 상태
@@ -102,12 +102,12 @@
 ## <mark style="color:green;">응급 관리</mark>
 
 * 앉은 자세 유지
-* 심인성 : 종이봉투에 대고 숨쉬기, Valsalva maneuver
-* 산소 공급(마스크) : COPD 환자 4 L/분, 그 외 5\~10 L/분
+* 과호흡(공황/불안) : Valsalva maneuver, 복식호흡 유도; ~~종이봉투 재호흡법은 저산소혈증 위험으로 권장하지 않음~~
+* 산소 공급(마스크) : COPD 환자 목표 SpO₂ **88\~92%** (1\~2 L/분부터 적정), 그 외 목표 SpO₂ **≥94%** (5\~10 L/분)
 * nitrate : nitroglycerin 0.6 ㎎ 설하 투여 \[니트로글리세린 설하정]\(0.6 ㎎/T) (☞ p.508)
 *   이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
 
-    •furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요시 반복 \[라식스]\(40 ㎎/T, 20 ㎎/A)
+    •furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요시 반복 \[라식스]\(40 ㎎/T, 20 ㎎/A); **이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정**
 * 빈맥(supraventricular tachycardia) : Valsalva maneuver, 경동맥동 마사지(고령 또는 허혈성 심질환에서는 피함)
 * 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI \[벤토린] (☞ p.349)
 * steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d \[소론도]\(5 ㎎/T) (☞ p.349)
