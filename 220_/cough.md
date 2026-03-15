@@ -217,14 +217,3 @@ R05 기침
 > ```
 
 ***
-
-## 참고문헌
-
-1. Parker SM, Smith JA, Birring SS, et al. British Thoracic Society clinical statement on chronic cough in adults. _Thorax_. 2023;78(Suppl 6):s3–s19.
-2. Rouadi PW, et al. WAO-ARIA consensus on chronic cough: Executive summary. _World Allergy Organization Journal_. 2025;18:101034.
-3. Satia I, et al. The clinical approach to chronic cough. _J Allergy Clin Immunol Pract_. 2024 Nov. doi:10.1016/j.jaip.2024.10.046
-4. Turner RD, et al. Chronic cough: New guidelines, new approaches and new treatments. _Respirology_. 2024;29. doi:10.1111/resp.14686
-5. McGarvey LP, Birring SS, Morice AH, et al. Efficacy and safety of gefapixant (COUGH-1 and COUGH-2): phase 3 trials. _Lancet_. 2022;399(10328):909–923.
-6. Won HK, Song WJ. Cough reflex hypersensitivity as a key treatable trait. _J Allergy Clin Immunol Pract_. 2025;13:469–478.
-7. Marchant JM, Chang AB, Kennedy E, et al. CICADA: updated position statement on chronic cough in Australia. _Med J Aust_. 2024;220(1):35–45.
-8. Ambrosino P, et al. Performance of FeNO in predicting response to ICS in chronic cough: a meta-analysis. _Ann Med_. 2021;53:1659–1672.
