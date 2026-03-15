@@ -52,23 +52,23 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+## <mark style="color:green;">치료 방침</mark>
 
 * 원인이 발견되지 않는 경우 경험적 치료 시행
 * 1차적으로 비약물 물리적 치료 시행 → 실패 시 약물 치료
 
-## <mark style="color:green;">비-약물 치료</mark>
+### <mark style="color:green;">비-약물 치료</mark>
 
 * 복부 팽만 회피 : 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함 (☞ p.1170)
 *   고탄산혈증, 미주신경/횡격막 자극 유도 : 숨 참기, 과호흡, 재채기, 종이봉투에 대고 숨쉬기, Valsalva maneuver,
 
     상체를 앞으로 숙여 knee-chest 자세 유지, 놀라게 하기
-* 미주신경 반대 자극 : supraorbit 압박, carotid sinus 마사지(실신 주의), 직장 수지 마사지
+* 미주신경 반대 자극 : supraorbit 압박, carotid sinus 마사지(고령 또는 허혈성 심질환에서는 피함), 직장 수지 마사지
 *   인두 자극 : 얼음물 마시기, 입자가 굵은 설탕 삼키기(1 teaspoon), 신 음식(예: 식초) 맛보기, 레몬 씹기, 혀 당기기,
 
     찬 숟가락으로 목젖 밀어 올리기
 
-## <mark style="color:green;">약물 치료</mark>
+### <mark style="color:green;">약물 치료</mark>
 
 * 근이완제, 항경련제, 항정신병제의 경우 졸음, 어지럼, 저혈압 등 부작용 주의
 * 치료 약물에 대한 충분한 연구는 부족함
@@ -76,7 +76,7 @@
 
 #### 항정신병제
 
-* chlorpromazine : 25~~50 ㎎ tid~~qid \[클로르프로마진]
+* chlorpromazine : 25~~50 ㎎ tid~~qid \[클로르프로마진] ← 난치성 딸꾹질 유일한 FDA 승인 약물
 * haloperidol : 초회 2~~5 ㎎ 후 1~~2 ㎎ tid \[페리돌]
 
 #### 근이완제
@@ -88,7 +88,7 @@
 #### 항경련제
 
 * carbamazepine : 200 ㎎ tid\~qid \[테그레톨]
-* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid \[뉴론틴]
+* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid \[뉴론틴] ← 장기 사용 시 의존성 주의
 * phenytoin : 200\~300 ㎎ hs \[히단토인]
 
 #### Benzodiazepine
@@ -131,5 +131,5 @@ R06.6 딸꾹질
 >
 > ```
 > 바크론 5 ㎎/T 3T #3
-> 테크레톨 200 ㎎/T 3C #3 (보험주의)
+> 테그레톨 200 ㎎/T 3C #3 (보험주의)
 > ```
