@@ -48,8 +48,6 @@
 * ECG, 상부 소화기 내시경 검사
 * CBC, 전해질, Cr, LFT
 
-***
-
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>

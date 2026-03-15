@@ -1,27 +1,22 @@
 # 발열 Fever
 
-![image](../.gitbook/assets/c73d2f17-93b2-4c23-b398-518982d0939a.JPG)
+## <mark style="color:green;">일반 사항</mark>
 
-## 일반 사항
-
-* 중심 체온- 36.5~~37.5℃; 평균 구강 체온(18~~40세)- 36.8±0.4℃
+* 중심 체온- 36.5\~37.5℃; 평균 구강 체온(18\~40세)- 36.8±0.4℃
 * 겨드랑이 ＜ 구강 ＜ 직장 체온 : 각각 0.5℃ 차이
-*   고막 체온 : 변동성이 심함(특히 귀지가 차 있을 때, ＜3개월 영아에서 부정확); 직장보다 0.8℃ 낮음(기기에 따라
-
-    직장 기준으로 조정된(adjusted mode) 체온이 표시됨)
+* 고막 체온 : 변동성이 심함(특히 귀지가 차 있을 때, ＜3개월 영아에서 부정확); 직장보다 0.8℃ 낮음(기기에 따라 직장 기준으로 조정된(adjusted mode) 체온이 표시됨)
 * 신생아(≤4주)에서는 겨드랑이 전자 체온계 사용 권고
 * ≤5세에서는 구강/직장 체온계 사용은 피함
-* 체온 일중 변동 : 0.5(\~1)℃; 오전 6시가 가장 낮고(~~37.2℃) 오후 4~~6시가 가장 높음(\~37.7℃); 식후에 높음
+* 체온 일중 변동 : 0.5(\~1)℃; 오전 6시가 가장 낮고(\~37.2℃), 오후 4\~6시가 가장 높음(\~37.7℃); 식후에 높음
 * 체온 상승의 정도가 반드시 병의 중증도와 관련된 것은 아님
 * 열 반응은 성인보다 소아에서 큼
 * 다음의 경우 감염이 되어도 열이 나지 않을 수 있음 : 신생아, 노인, 만성 간/신부전, steroid 투여
 * 월경을 하는 여성은 배란 전 2주 동안 오전 체온이 낮아지고 배란과 함께 0.6℃ 상승하여 월경 시작 때까지 유지됨
 
-### 발열 용어
+### <mark style="color:$primary;">발열 용어</mark>
 
-*   발열 : 일상적 변화 이상의 체온 상승; 통상 고막 체온계로(adjusted mode) ＞38℃
-
-    •hyperpyrexia : ＞41.5℃; 주로 CNS 이상에 의하며, 감염에 의한 경우는 드묾
+* 발열 : 일상적 변화 이상의 체온 상승; 통상 고막 체온계로(adjusted mode) ＞38℃
+  * hyperpyrexia : ＞41.5℃; 주로 CNS 이상에 의하며, 감염에 의한 경우는 드묾
 * sustained fever : 변동 폭이 ≤0.5℃로 지속되는 발열
 * remittent fever : 변동 폭이 ＞0.5℃인 발열
 * septic 또는 hectic fever : 변동 폭이 심한 발열
@@ -31,68 +26,60 @@
 * biphasic fever : 한 질환에서 두 번의 발열 기간; 황열, 뎅기열, enterovirus, leptospirosis
 * periodic fever : 규칙적인 주기가 있는 발열; PFAPA syndrome (☞ p.264)
 
-### 발열의 영향
+### <mark style="color:$primary;">발열의 영향</mark>
 
-*   위해 : 열이 O2 소모량/CO2 발생량/심박출량을 증가시킴; 현저하게 높은 체온은 빈혈, 심/폐질환, 대사 질환(예: 당뇨병)
-
-    등 만성 질환의 상태를 악화시킬 수 있음
+* 위해 : 열이 O<sub>2</sub> 소모량/CO<sub>2</sub> 발생량/심박출량을 증가시킴; 현저하게 높은 체온은 빈혈, 심/폐질환, 대사 질환(예: 당뇨병) 등 만성 질환의 상태를 악화시킬 수 있음
 * 이익 : 열이 병균의 증식을 낮추며 신체 면역 반응을 증가시킨다는 실험실 연구가 있음; 임상적 입증은 부족함
 
-### 발열 치료에 대한 논란
+### <mark style="color:$primary;">발열 치료에 대한 논란</mark>
 
 * 1회성의 돌발적인 발열은 유의미한 감염 질환과 관련 없음
 * 고열이 특발성 간질 환자에서 발작 빈도를 증가시킬 수 있으나 뇌 손상을 초래한다는 근거는 없음
-*   해열제가 세균이나 바이러스 감염에서 회복 촉진, 면역 체계 보조, 또는 치유 지연에 유의미하게 작용하지는 않으나,
+* 해열제가 세균이나 바이러스 감염에서 회복 촉진, 면역 체계 보조, 또는 치유 지연에 유의미하게 작용하지는 않으나, 진단이나 항생제 효과 평가 등의 적절한 치료를 방해할 수 있음
 
-    진단이나 항생제 효과 평가 등의 적절한 치료를 방해할 수 있음
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-    ![image](../.gitbook/assets/be619b9d-811f-48e6-a38a-06deeb4d508c.JPG)
+* 심한 빈맥, 저혈압
+* 열과 발진이 함께 진행
+* 심한 빈호흡, 호흡 곤란
+* 심한 두통, 경부 경직
+* 심한 구토/설사, 기타 심한 동반 증상
+* 의식 변화
+* ＞41℃의 고열
+* 최근 벌레(진드기)에 물린 병력 또는 야외 활동
+* 예상과 다르게 지속
+* 최근 면역 억제/화학요법 시행
+* 최근 말라리아/지카 유행 지역 방문; 남아시아, 중동, 아프리카, 남아메리카
 
-## 원인
+## <mark style="color:green;">원인</mark>
 
-*   감염
-
-    •바이러스 감염 : 급성 발열의 가장 흔한 원인; 보통 일주일에 걸쳐 서서히 하강하여 자연 회복
-
-    •세균 감염 : 적절한 항생제 사용 시 급속히 하강 (3일 내 반응)
+* 감염
+  * 바이러스 감염 : 급성 발열의 가장 흔한 원인; 보통 일주일에 걸쳐 서서히 하강하여 자연 회복
+  * 세균 감염 : 적절한 항생제 사용 시 급속히 하강 (3일 내 반응)
 * 염증, 종양
 * 자가면역/자가 염증 반응
 * 더운 환경(더운 날씨, 지나친 난방, 두꺼운 의복), 탈수열
 
-## 진단
+## <mark style="color:green;">진단</mark>
 
 * 진찰 소견으로 감별하며, 의심되는 질환에 대한 진단 검사를 고려
 * 발열의 원인이 감별되지 않는 경우에는 의뢰를 고려
 
 ### 증상/병력에 따른 감별
 
-```
-![image](images/501f1421-d1de-46ac-a903-f13242cb1d8a.JPG)
+<figure><img src="../.gitbook/assets/발열2.JPG" alt=""><figcaption></figcaption></figure>
 
-![image](images/efb45e44-253b-4a02-832e-266403cb7f26.JPG)
-```
+<figure><img src="../.gitbook/assets/발열3.JPG" alt=""><figcaption></figcaption></figure>
 
-## 불명열 (Fever of Unknown Origin)
+## <mark style="color:green;">불명열 (Fever of Unknown Origin)</mark>
 
-```
-![image](images/2570bbcd-0e30-476d-abcd-091ddc27c6de.JPG)
-```
+<table><thead><tr><th width="99.89471435546875"></th><th width="250.368408203125">고전적 불명열 (Classic)</th><th width="249.962158203125">병원성 불명열 (Nosocomial; Healthcare-associated)</th></tr></thead><tbody><tr><td><strong>정의</strong></td><td>체온 ≥38.3℃, 기간 ≥3주, ≥3회 외래 방문 또는 입원 3일 후에도 원인 불명</td><td>체온 ≥38.3℃, 기간 >3일, 입원 당시 발열 상태 또는 당시 잠복기 아님</td></tr><tr><td><strong>환자 위치</strong></td><td>지역 사회, 병원</td><td>급성 질환을 다루는 병원</td></tr><tr><td><strong>흔한 원인</strong></td><td>감염, 염증, 악성 종양, 습관성 고열</td><td>원내 감염, 수술 후 합병증, drug fever</td></tr><tr><td><strong>병력</strong></td><td>여행, 접촉, 동물/벌레 노출, 약물, 예방접종, 가족력, 심장 판막 이상</td><td>수술, 시술, 장치 삽입, 해부학적 이상, 약물</td></tr></tbody></table>
 
 #### 원인
 
 * 특별하지 않은 상태의 비특이적 증상인 경우가 가장 흔함
-*   감염(30%) : 복부/골반 농양, 간염, 카테터 감염, 치아 농양, 심막염, Mycobacterium 감염, 골수염, 신질환, 부비동염,
-
-    상처 감염
+* 감염(30%) : 복부/골반 농양, 간염, 카테터 감염, 치아 농양, 심막염, Mycobacterium 감염, 골수염, 신질환, 부비동염, 상처 감염
 * 종양(18%), 교원혈관병(12%; RA, SLE), 기타(14%; drug fever 포함), 미상(7\~30%)
-
-> ```
-> ✽Drug fever 유발 약제 예: allopurinol, captopril, carbamazepine, cephalosporins, cimetidine, clofibrate, erythromycin, heparin,
-> ```
-
-> ```
-> hydralazine, hydrochlorothiazide, isoniazid, methyldopa, nifedipine, penicillin, phenytoin, procainamide, quinidine, sulfonamide
-> ```
 
 #### 검사
 
@@ -100,11 +87,9 @@
 * 소변 : U/A, 배양 검사
 * 영상 검사 : CT
 
-***
+## <mark style="background-color:$warning;">Management</mark>
 
-## Management
-
-### 치료 방침
+### <mark style="color:$primary;">치료 방침</mark>
 
 * 원인에 따른 치료 시행
 *   시험적 치료 : 불가피한 경우 임상적 증거에 기초하여 시험적 치료 시행
@@ -114,7 +99,7 @@
     있으므로 삼가야 함
 * 해열제 : 발작 병력이 있는 소아 또는 열 때문에 힘들어 하는 환자에 대하여 투여 고려
 
-## 비-약물 해열 치료
+## <mark style="color:green;">비-약물 해열 치료</mark>
 
 * 수분 섭취를 늘림
 *   미지근한 물(30℃) 목욕
@@ -128,7 +113,7 @@
     적용 고려
 * 옷을 벗기거나 더 많이 감싸는 것 모두 권하지 않음
 
-## 약물 해열 치료
+## <mark style="color:green;">약물 해열 치료</mark>
 
 * NSAID(예: ibuprofen), acetaminophen
 *   정상 체온 상태에서는 NSAID나 aspirin의 PGE2에 대한 작용이 없기 때문에 열이 없는 상태에서 관절염 등의 치료를 위한
@@ -160,4 +145,8 @@
 * 용법 : 325\~650 ㎎ q6hr \[로날]
 * 소아 사용 금지
 
-> **질병코드** R50 기타 및 원인 미상의 열
+***
+
+### <mark style="color:purple;">**질병코드**</mark>&#x20;
+
+R50 기타 및 원인 미상의 열
