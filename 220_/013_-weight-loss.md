@@ -1,6 +1,6 @@
 # 체중 감소 Weight Loss
 
-> ![image](../.gitbook/assets/364e4d15-a97e-4a80-a0a7-7f9098499d9b.JPG)
+> <img src="../.gitbook/assets/364e4d15-a97e-4a80-a0a7-7f9098499d9b.JPG" alt="image" data-size="original">
 
 > ***
 
@@ -85,3 +85,17 @@
 > **질병코드** R63.4 이상체중감소
 
 ![image](../.gitbook/assets/c92e16a0-4340-44e8-82b2-5157b09b026b.JPG)
+
+## <mark style="color:orange;">처방례</mark>
+
+> **처방례 1.**&#x20;
+>
+> ```
+> 메게이스 10 ㎖(400 ㎎) 1P qd
+> ```
+>
+> **처방례 2.**&#x20;
+>
+> ```
+> 트레스탄 1C bid 식전
+> ```
