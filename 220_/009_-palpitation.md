@@ -6,15 +6,7 @@
 
 ### <mark style="color:$primary;">위험도 단계</mark>
 
-| 저위험 | 의뢰 | 응급 의뢰 |
-|---|---|---|
-| • 빠르거나/쿵거리는 맥박 | • tachyarrhythmia 반복 의심 병력 | • exercise 중 발생 |
-| • Short fluttering | • 증상들과 관련된 두근거림 *AND/OR* | • syncope or near syncope 동반 (☞ p.103) |
-| • 느린 박동 *AND* | • 비정상 ECG *AND/OR* | • 고위험 구조적 심장 질환 있음 |
-| • 정상 ECG *AND* | • 심장의 구조적 질환 있음 | • 유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력 |
-| • 가족력 없음 *AND* | | • High degree AV block |
-| • 심장의 구조적 질환 없음 | | |
-
+<table><thead><tr><th width="190.42108154296875">저위험</th><th width="190.10528564453125">의뢰</th><th width="230.22528076171875">응급 의뢰</th></tr></thead><tbody><tr><td><p>•빠르거나/쿵거리는 맥박</p><p>•Short fluttering<br>•느린 박동 AND<br>•정상 ECG AND<br>•가족력 없음 AND<br>•심장의 구조적 질환 없음</p></td><td><p>•tachyarrhythmia 반복 의심 병력</p><p>•증상들과 관련된 두근거림 AND/OR<br>•비정상 ECG AND/OR<br>•심장의 구조적 질환 있음 </p></td><td>•exercise 중 발생 •syncope or near syncope 동반 (☞ p.103)<br>•고위험 구조적 심장 질환 있음<br>•유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력<br>•High degree AV block </td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Management of palpitations in primary care guideline. NICE. 2018.</mark>_
 
@@ -29,7 +21,7 @@ _<mark style="color:$info;">Ref. Management of palpitations in primary care guid
 * 하지 부종
 * 국소 신경학적 증상
 
-## <mark style="color:green;">원인</mark>&#x20;
+## <mark style="color:green;">원인</mark>
 
 ### <mark style="color:$primary;">심장 원인</mark>
 
@@ -37,7 +29,7 @@ _<mark style="color:$info;">Ref. Management of palpitations in primary care guid
   1. “flip-flopping” (or “stop and start”) : 심방이나 심실의 조기 수축
   2. rapid “fluttering in the chest”
      * regular “fluttering” : supraventricular 또는 ventricular arrhythmias(sinus tachycardia 포함)
-     * irregular “fluttering” : variable block(atrial fibrillation, atrial flutter, tachycardia)&#x20;
+     * irregular “fluttering” : variable block(atrial fibrillation, atrial flutter, tachycardia)
   3.  pounding in the neck”(neck pulsations) : right atrium
 
       contract(jugular venous pulsations)
@@ -85,7 +77,7 @@ _<mark style="color:$info;">Ref. Management of palpitations in primary care guid
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>&#x20;
+### <mark style="color:purple;">**질병코드**</mark>
 
 R00.2 두근거림
 
@@ -93,14 +85,14 @@ R00.2 두근거림
 
 ## <mark style="color:orange;">처방례</mark>
 
-> **처방례 1.**&#x20;
+> **처방례 1.**
 >
 > ```
 > 인데놀 10 ㎎/T 2T 필요시
 > 자낙스 0.25 ㎎/T 1T 필요시
 > ```
 >
-> **처방례 2.**&#x20;
+> **처방례 2.**
 >
 > ```
 > 헤르벤 서방정 90 ㎎/T 2T #2  
