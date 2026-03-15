@@ -232,3 +232,4 @@
   * [영양/식이 지침 Nutrition/Diet Guideline](231_/217_-nutritiondiet-guideline.md)
   * [도핑 방지 가이드](231_/218_.md)
   * [요양급여 인정 기준](231_/219_.md)
+* [006\_ cough](006_-cough.md)
