@@ -46,8 +46,8 @@
 
 ### <mark style="color:$primary;">검사</mark>
 
-* 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel, spirometry, pulse oximetry
-* 선택적 시행 : echocardiography, cardiac stress tests, PFT, CT, BNP 또는 NT-proBNP(심부전 감별에 유용)
+* 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel, spirometry, pulse oximetry; 심부전 의심 시 BNP 또는 NT-proBNP
+* 선택적 시행 : echocardiography, cardiac stress tests, PFT, CT
 
 ### <mark style="color:$primary;">증상/병력에 따른 감별</mark>
 
@@ -63,7 +63,7 @@
 * 급성, 간헐적 → 급성 관상동맥증후군(ACS), bronchospasm, 폐색전증
 * 급성, 심한 호흡 곤란, 흉통 또는 가슴 조임 → 급성 관상동맥증후군(ACS), 기흉, 폐색전증, 무기폐
   * Spontaneous pneumothorax : 기저 폐질환이 있는 마른 체형의 젊은 남자에서 호발
-  * Pulmonary embolism : 4주 내 최근 지속적인 immobilization 또는 수술 병력, estrogen 치료, DVT 위험 인자(thromboembolism, 암, 비만, 하지 외상); Wells score 또는 YEARS algorithm으로 사전 확률 평가
+  * 폐색전증 : 갑자기 시작되는 흉막염성 흉통, 객혈 동반; 4주 내 최근 지속적인 immobilization 또는 수술 병력, estrogen 치료, DVT 위험 인자(thromboembolism, 암, 비만, 하지 외상); YEARS algorithm(☞ [계산기](https://www.mdcalc.com/calc/4067/years-algorithm-for-pulmonary-embolism-pe)) 또는 Wells score으로 폐색전증 확률 평가 및 CT 폐동맥 조영술 여부 결정
 * 급성, 지속적 → 폐렴, 급성 기관지염, 만성 질환의 급성 악화
 
 #### 호흡기 상태
@@ -100,9 +100,9 @@
 ## <mark style="color:green;">응급 관리</mark>
 
 * 앉은 자세 유지
-* 과호흡(공황/불안) : Valsalva maneuver, 복식호흡 유도;&#x20;
-  * 종이 봉투 재호흡법은 저산소혈증 위험, 블안감  증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
-* 산소 공급(마스크) : COPD 환자 목표 SpO₂ 88\~92% (1\~2 L/min부터 적정), 그 외 목표 SpO₂ ≥94%(5\~10 L/min)
+* 과호흡(공황/불안) : 복식호흡 유도, 조절 호흡(4-7-8 호흡 또는 pursed-lip breathing)
+  * 종이 봉투 재호흡법은 저산소혈증 위험, 불안감  증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
+* 산소 공급(마스크) : SpO₂ 목표- ≥94%(5\~10 L/min), COPD 환자 88\~92%(1\~2 L/min부터 적정), 임신부 ≥95%
 * nitrate : nitroglycerin 0.6 ㎎ 설하 투여 \[니트로글리세린 설하정]\(0.6 ㎎/T) (☞ p.508)
 * 이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
   * furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요 시 반복 \[라식스]\(40 ㎎/T, 20 ㎎/A); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
