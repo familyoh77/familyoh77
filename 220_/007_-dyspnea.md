@@ -1,14 +1,27 @@
 # 호흡 곤란 Dyspnea
 
-![image](../.gitbook/assets/83a830f0-25d1-475d-afb9-d202d0759f4f.JPG)
-
-## 일반 사항![image](../.gitbook/assets/01c4cb20-64c3-42b9-bae8-1c3f6ca65ae9.JPG)
+## <mark style="color:green;">일반 사항</mark>
 
 * 호흡 곤란 : 주관적으로 느끼는 다양한 정도의 숨가쁨
 * 급성 : 수 시간\~수일
 * 만성 : ＞4\~8주
 
-## 원인
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+* 흉통
+* 휴식 중에도 발생
+* 발열(＞38.5℃)
+* 활동 저하
+* 초조, 혼돈, 의식 저하
+* ≥65세에서 급성 발생
+* 설명할 수 없는 체중 감소
+* 빈호흡(＞30회/분)
+* 수포음
+* 호흡 시 부근육 사용
+* 빈맥(＞130회/분)
+* 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
+
+## <mark style="color:green;">원인</mark>
 
 #### 급성
 
@@ -29,18 +42,16 @@
 * 빈혈, 신부전, 갑상선 질환, 복수
 * 비만, 쇠약, 임신
 
-## 진단
+## <mark style="color:green;">진단</mark>
 
-### 검사
+### <mark style="color:$primary;">검사</mark>
 
 * 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel, spirometry, pulse oximetry
 * 선택적 시행 : echocardiography, cardiac stress tests, PFT, CT
 
-### 증상/병력에 따른 감별
+### <mark style="color:$primary;">증상/병력에 따른 감별</mark>
 
-```
-![image](images/7363818e-f75f-4545-8423-d8367419a8a7.JPG)
-```
+<figure><img src="../.gitbook/assets/호흡2.JPG" alt=""><figcaption></figcaption></figure>
 
 #### 자세/발생 시간
 
@@ -86,11 +97,9 @@
 * 연기/먼지/담배 연기 등에 장기간 노출, 서서히 악화 → 만성 기관지염, COPD, 폐기종
 * 석면/나무 먼지/산업용 가스/광산 등에 장기간 노출 → 직업성 폐질환
 
-***
+## <mark style="background-color:$warning;">Management</mark>
 
-## Management
-
-## 응급 관리
+## <mark style="color:green;">응급 관리</mark>
 
 * 앉은 자세 유지
 * 심인성 : 종이봉투에 대고 숨쉬기, Valsalva maneuver
@@ -103,6 +112,10 @@
 * 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI \[벤토린] (☞ p.349)
 * steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d \[소론도]\(5 ㎎/T) (☞ p.349)
 
-> **질병코드** R06.0 호흡곤란
+***
+
+### <mark style="color:purple;">**질병코드**</mark>&#x20;
+
+R06.0 호흡곤란
 
 J80 성인호흡곤란증후군

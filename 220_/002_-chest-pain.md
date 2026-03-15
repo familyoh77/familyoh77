@@ -239,6 +239,8 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 <div align="left"><figure><img src="../.gitbook/assets/흉통11.JPG" alt=""><figcaption></figcaption></figure></div>
 
+***
+
 ### <mark style="color:purple;">**질병코드**</mark>
 
 R07.4 상세불명의 흉통

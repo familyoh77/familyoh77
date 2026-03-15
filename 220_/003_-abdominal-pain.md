@@ -167,6 +167,8 @@
 
 <figure><img src="../.gitbook/assets/복통8.JPG" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### <mark style="color:purple;">**질병코드**</mark>
 
 R10.4 기타 및 상세불명의 복통
