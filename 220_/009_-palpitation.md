@@ -6,9 +6,17 @@
 
 ### <mark style="color:$primary;">위험도 단계</mark>
 
-<table><thead><tr><th width="190.42108154296875">저위험</th><th width="189.9473876953125">의뢰</th><th>응급 의뢰</th></tr></thead><tbody><tr><td><p>• 빠르거나/쿵거리는 맥박</p><p>• Short fluttering<br>• 느린 박동 AND<br>• 정상 ECG AND<br>• 가족력 없음 AND<br>• 심장의 구조적 질환 없음</p></td><td><p>• tachyarrhythmia 반복 의심 병력</p><p>•증상들과 관련된 두근거림 AND/OR<br>•비정상 ECG AND/OR<br>•심장의 구조적 질환 있음</p></td><td><p>• exercise 중 발생</p><p>•syncope or near syncope 동반 (☞ p.103)<br>•고위험 구조적 심장 질환 있음<br>•유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력<br>•High degree AV block</p></td></tr></tbody></table>
+| 저위험 | 의뢰 | 응급 의뢰 |
+|---|---|---|
+| • 빠르거나/쿵거리는 맥박 | • tachyarrhythmia 반복 의심 병력 | • exercise 중 발생 |
+| • Short fluttering | • 증상들과 관련된 두근거림 *AND/OR* | • syncope or near syncope 동반 (☞ p.103) |
+| • 느린 박동 *AND* | • 비정상 ECG *AND/OR* | • 고위험 구조적 심장 질환 있음 |
+| • 정상 ECG *AND* | • 심장의 구조적 질환 있음 | • 유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력 |
+| • 가족력 없음 *AND* | | • High degree AV block |
+| • 심장의 구조적 질환 없음 | | |
 
-_<mark style="color:$info;">Ref. Management of palpitations in primary care guideline. NICE. 2018.</mark>_
+
+_<mark style="color:$info;">Ref. Management of palpitations in primary care guideline. NICE. 2018.</mark>_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -21,7 +29,7 @@
 * 하지 부종
 * 국소 신경학적 증상
 
-### <mark style="color:green;">원인</mark>&#x20;
+## <mark style="color:green;">원인</mark>&#x20;
 
 ### <mark style="color:$primary;">심장 원인</mark>
 
@@ -60,6 +68,7 @@
 ### <mark style="color:green;">치료 방침</mark>
 
 * 원인 질환에 대한 치료. 그 외에는 대부분 치료 필요 없음
+* SVT 동반 두근거림 : Valsalva maneuver (☞ 호흡 곤란 참고); 고령 또는 허혈성 심질환에서는 경동맥동 마사지 피함
 * 불안, 스트레스 해소 : 명상, 바이오피드백
 * 강화 : 매일 유산소 운동, 활발한 신체 활동
 * 적당한 체중 유지
