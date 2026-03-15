@@ -1,6 +1,6 @@
 # 객혈 Hemoptysis
 
-* ## <mark style="color:green;">일반 사항</mark>
+* ### <mark style="color:green;">일반 사항</mark>
 * 점액농성 또는 화농성 가래에 소량의 혈액이 줄무늬 또는 점상으로 묻어 나옴
 * 기관지 점막의 자극 또는 손상
 * 병력 : 폐질환력; 구역/구토는 없음
@@ -39,14 +39,7 @@
 
 ### <mark style="color:$primary;">객혈 vs 토혈 감별</mark>
 
-| | 객혈 | 토혈 |
-|---|---|---|
-| 선행 증상 | 기침 | 구역/구토 |
-| 색깔 | 선홍색 또는 분홍색 | 암적색 또는 커피색 |
-| 성상 | 거품 있음, 액체 or clot | 음식 잔류물 혼재 가능 |
-| pH | 알칼리성 | 산성 |
-| 기저 질환 | 폐/심장 질환 | 위장/식도 질환 |
-| 이후 증상 | 혈성 가래 지속 가능 | 흑색 변 동반 가능 |
+<table><thead><tr><th width="159.89471435546875"></th><th width="219.84210205078125">객혈</th><th width="220.48846435546875">토혈</th></tr></thead><tbody><tr><td>선행 증상</td><td>기침</td><td>구역/구토</td></tr><tr><td>색깔</td><td>선홍색 또는 분홍색</td><td>암적색 또는 커피색</td></tr><tr><td>성상</td><td>거품 있음, 액체 or clot</td><td>음식 잔류물 혼재 가능</td></tr><tr><td>pH</td><td>알칼리성</td><td>산성</td></tr><tr><td>기저 질환</td><td>폐/심장 질환</td><td>위장/식도 질환</td></tr><tr><td>이후 증상</td><td>혈성 가래 지속 가능</td><td>흑색 변 동반 가능</td></tr></tbody></table>
 
 ### <mark style="color:$primary;">검사</mark>
 
@@ -75,6 +68,6 @@
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>&#x20;
+### <mark style="color:purple;">**질병코드**</mark>
 
 R04.2 객혈
