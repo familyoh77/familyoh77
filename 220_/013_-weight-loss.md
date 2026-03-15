@@ -84,8 +84,6 @@
 
 > **질병코드** R63.4 이상체중감소
 
-![image](../.gitbook/assets/c92e16a0-4340-44e8-82b2-5157b09b026b.JPG)
-
 ## <mark style="color:orange;">처방례</mark>
 
 > **처방례 1.**&#x20;
