@@ -189,8 +189,6 @@
 
 <figure><img src="../.gitbook/assets/기침9.PNG" alt=""><figcaption><p>“Propeller” model for management of chronic cough in primary (central circle) and cough specialty (propeller “blades”) care. ACO (asthma COPD overlap), AR (allergic rhinitis), CA (classic asthma), CB (chronic bronchitis), COPD (chronic obstructive pulmonary disease), CRS (chronic rhinosinusitis), CVA (cough variant asthma), GERD (gastroesophageal reﬂux disease), LHR (laryngeal hyperresponsiveness), NAEB (non-asthmatic eosinophilic bronchitis), NP (nasal polyp), OSA (obstructive sleep apnea), PCPs (primary care physicians), RCC (refractory chronic cough), UCC (unexplained chronic cough).<br>WAO - ARIA consensus on chronic cough: Executive summary 2025. Fig 2</p></figcaption></figure>
 
-
-
 ***
 
 ### <mark style="color:purple;">**질병코드**</mark>
@@ -206,15 +204,14 @@ R05 기침
 > ```
 > 코데닝 6T #3
 > 소론도 5 ㎎/T 6T #3 (단기 사용)
-> 프리비투스 현탁액 8 ㎖/p 3P #3 (필요시)  트로키/사탕/껌 
+> 프리비투스 현탁액 8 ㎖/p 3P #3 (필요시)  
+> 트로키/사탕/껌 
 > ```
 >
 > **처방례 2. 심인성 기침**
 >
 > ```
 > 코푸 시럽 20 ㎖/P 4P #4  
-> 자낙스 0.25 ㎎/T 3T #3 (단기 사용; 불안 조절 목적; 향정신성 의약품, 처방 시 주의)  
+> 자낙스 0.25 ㎎/T 3T #3 (불안 조절 목적; 단기 사용)  
 > 트로키/사탕/껌 
 > ```
-
-
