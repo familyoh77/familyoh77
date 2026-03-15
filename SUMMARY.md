@@ -7,7 +7,6 @@
   * [복통 Abdominal Pain](220_/003_-abdominal-pain.md)
   * [구취증 Halitosis, Bad Breath](220_/004_-halitosis-bad-breath.md)
   * [후각, 미각 이상 Smell, Taste Disorders](220_/005_-smell-taste-disorders.md)
-  * [기침 Cough](220_/cough.md)
   * [호흡 곤란 Dyspnea](220_/007_-dyspnea.md)
   * [객혈 Hemoptysis](220_/008_-hemoptysis.md)
   * [두근거림 Palpitation](220_/009_-palpitation.md)
@@ -232,3 +231,4 @@
   * [영양/식이 지침 Nutrition/Diet Guideline](231_/217_-nutritiondiet-guideline.md)
   * [도핑 방지 가이드](231_/218_.md)
   * [요양급여 인정 기준](231_/219_.md)
+* [006\_ cough](006_-cough.md)
