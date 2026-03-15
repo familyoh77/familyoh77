@@ -52,12 +52,12 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:green;">치료 방침</mark>
+### <mark style="color:$primary;">치료 방침</mark>
 
 * 원인이 발견되지 않는 경우 경험적 치료 시행
 * 1차적으로 비약물 물리적 치료 시행 → 실패 시 약물 치료
 
-### <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 복부 팽만 회피 : 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함 (☞ p.1170)
 *   고탄산혈증, 미주신경/횡격막 자극 유도 : 숨 참기, 과호흡, 재채기, 종이봉투에 대고 숨쉬기, Valsalva maneuver,
@@ -68,7 +68,7 @@
 
     찬 숟가락으로 목젖 밀어 올리기
 
-### <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 * 근이완제, 항경련제, 항정신병제의 경우 졸음, 어지럼, 저혈압 등 부작용 주의
 * 치료 약물에 대한 충분한 연구는 부족함
@@ -76,8 +76,8 @@
 
 #### 항정신병제
 
-* chlorpromazine : 25~~50 ㎎ tid~~qid \[클로르프로마진] ← 난치성 딸꾹질 유일한 FDA 승인 약물
-* haloperidol : 초회 2~~5 ㎎ 후 1~~2 ㎎ tid \[페리돌]
+* chlorpromazine : 난치성 딸꾹질 유일한 FDA 승인 약물; 25\~50 ㎎ tid\~qid \[클로르프로마진]&#x20;
+* haloperidol : 초회 2\~5 ㎎ 후 1\~2 ㎎ tid \[페리돌]
 
 #### 근이완제
 
@@ -93,7 +93,7 @@
 
 #### Benzodiazepine
 
-* diazepam : 2~~5 ㎎ bid~~tid \[디아제팜]
+* diazepam : 2\~5 ㎎ bid\~tid \[디아제팜]
 * lorazepam : 0.5\~2 ㎎ qid \[아티반]
 
 #### 위장 운동 촉진제
@@ -108,9 +108,9 @@
 
 #### 기타
 
-* nefopam : 비마약성 진통제; 10 ㎎ IV [아큐판](../%EB%B9%84%EB%B3%B4%ED%97%98/)
+* nefopam : 비마약성 진통제; 10 ㎎ IV \[아큐판]
 * viscous lidocaine : 구강 마취제; 2% 5 ㎖ tid
-* dexamethasone : 화학요법에 기인한 딸꾹질에 고려&#x20;
+* dexamethasone : 화학요법에 기인한 딸꾹질에 고려
 
 ### <mark style="color:purple;">질병코드</mark>
 
@@ -120,14 +120,14 @@ R06.6 딸꾹질
 
 ## <mark style="color:orange;">처방례</mark>
 
-> **처방례 1.**&#x20;
+> **처방례 1.**
 >
 > ```
 > 클로르프로마진 50 ㎎/T ½T tid → 호전 없으면 1T tid  
 > 맥페란 5 ㎎/T 2T tid
 > ```
 >
-> **처방례 2.**&#x20;
+> **처방례 2.**
 >
 > ```
 > 바크론 5 ㎎/T 3T #3
