@@ -115,7 +115,7 @@
 
 ![](../.gitbook/assets/4e7a633c-75f4-4a58-a190-43980bf851e1.JPG)
 
-## Management
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
@@ -176,9 +176,21 @@ R05 기침
 
 ***
 
-![](../.gitbook/assets/77f819a5-4ae3-46cd-a6c7-5c1f8f3ccc96.JPG)
+## <mark style="color:orange;">처방례</mark>
 
-
-
-
+> **처방례 1. 상기도 기침증후군**
+>
+> ```
+> 코데닝 6T #3
+> 소론도 5 ㎎/T 6T #3 (단기 사용)
+> 프리비투스 현탁액 8 ㎖/p 3P #3 (필요시)  트로키/사탕/껌 
+> ```
+>
+> **처방례 2. 심인성 기침**
+>
+> ```
+> 코푸 시럽 20 ㎖/P 4P #4  
+> 자낙스 0.25 ㎎/T 3T #3  
+> 트로키/사탕/껌 
+> ```
 

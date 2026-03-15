@@ -48,7 +48,7 @@
 * CT(비부비동 구조 검사), MRI(연조직 검사)
 * 후각 검사 또는 미각 검사 : 의뢰
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 

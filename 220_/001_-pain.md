@@ -30,7 +30,7 @@
 * Inflammatory pain : 통증 부위의 발열, 발적, 부종; 관절염, 감염, 손상, 수술 후 통증
 * Mechanical/Compressive pain : 활동 중 악화, 휴식 시 호전; 특히 목/허리의 근육/인대의 strain or sprain, disks or facet의 변성, 압축 골절 관련
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
