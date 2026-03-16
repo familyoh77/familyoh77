@@ -28,7 +28,7 @@
 #### 공통
 
 * 영양 : 영양실조, Vit 결핍, 간질환, 악성 빈혈
-  * **아연(Zinc) 결핍** : 미각 이상의 중요한 교정 가능 원인; 만성 질환(간경화, 신부전, 염증성 장질환), 흡수 불량, 채식 위주 식단, 이뇨제·ACE 억제제 장기 복용 시 주의; 혈청 아연 측정 후 결핍 확인 시 보충 권고
+  * 아연(Zinc) 결핍 : 미각 이상의 중요한 교정 가능 원인; 만성 질환(간경화, 신부전, 염증성 장질환), 흡수 불량, 채식 위주 식단, 이뇨제·ACE 억제제 장기 복용 시 주의; 혈청 아연 측정 후 결핍 확인 시 보충 권고
 * 내분비 : 갑상선 질환, 당뇨병, 신질환
 * 독소 노출, 편두통, Sjögren syndrome
 * 신경계 질환 : 다발경화증, 알츠하이머병, 파킨슨병, 뇌신경 손상(뇌혈관 질환, 두부 외상)
@@ -37,44 +37,19 @@
 
 1. 항생제 및 항균제
 
-| **세부 분류** | **약물 명칭**                    | **특징 및 비고**           |
-| --------- | ---------------------------- | --------------------- |
-| 마크롤라이드계   | Clarithromycin, Azithromycin | 쓴맛 또는 금속성 맛 유발이 흔함    |
-| 퀴놀론계      | Ciprofloxacin, Ofloxacin     | 미각 변화 보고              |
-| 테트라사이클린계  | Doxycycline, Tetracycline    | 설태 침착 및 미각 이상 가능성     |
-| 기타 항균제    | Metronidazole                | 금속성 맛의 대표적 원인 약물      |
-| 아미노글리코사이드 | Amikacin                     |                       |
-| 페니실린/기타   | Ampicillin, β-lactam 억제제     |                       |
-| 항진균제      | Terbinafine                  | 드물게 장기적인 미각 상실 유발 가능  |
-| 구강 세정제    | Chlorhexidine                | 장기 사용 시 치아 착색 및 미각 저하 |
+<table data-header-hidden><thead><tr><th width="179.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>마크롤라이드계</td><td>Clarithromycin, Azithromycin</td><td>쓴맛 또는 금속성 맛 유발이 흔함</td></tr><tr><td>퀴놀론계</td><td>Ciprofloxacin, Ofloxacin</td><td>미각 변화 보고</td></tr><tr><td>테트라사이클린계</td><td>Doxycycline, Tetracycline</td><td>설태 침착 및 미각 이상 가능성</td></tr><tr><td>기타 항균제</td><td>Metronidazole</td><td>금속성 맛의 대표적 원인 약물</td></tr><tr><td>아미노글리코사이드</td><td>Amikacin</td><td></td></tr><tr><td>페니실린/기타</td><td>Ampicillin, β-lactam 억제제</td><td></td></tr><tr><td>항진균제</td><td>Terbinafine</td><td>드물게 장기적인 미각 상실 유발 가능</td></tr><tr><td>구강 세정제</td><td>Chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
 
 2\. 항고혈압제 및 심혈관계 약물 : 가장 흔하게 미각 이상을 일으키는 범주로, 특히 아연(Zinc) 대사에 영향을 주는 경우가 많음
 
-| **세부 분류**    | **약물 명칭**                                                     | **특징 및 비고**                       |
-| ------------ | ------------------------------------------------------------- | --------------------------------- |
-| ACE 억제제      | Captopril                                                     | \*\*미각 소실(Ageusia)\*\*의 대표적 원인 약물 |
-| 칼슘채널차단제(CCB) | Diltiazem, Nifedipine                                         | 구강 건조 및 잇몸 증식 동반 가능               |
-| 이뇨제          | Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide | 아연 배설 촉진으로 인한 미각 저하               |
-| 베타차단제        | Propranolol                                                   |                                   |
+<table data-header-hidden><thead><tr><th width="179.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>ACE 억제제</td><td>Captopril</td><td>미각상실증(Ageusia)의 대표적 원인 약물</td></tr><tr><td>칼슘채널차단제(CCB)</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진으로 인한 미각 저하</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td></td></tr></tbody></table>
 
 3\. 신경정신과 약물 (항우울제/항경련제/기타)
 
-| **세부 분류**     | **약물 명칭**                                         | **특징 및 비고**           |
-| ------------- | ------------------------------------------------- | --------------------- |
-| 삼환계 항우울제(TCA) | Amitriptyline, Nortriptyline, Doxepin, Imipramine | 강력한 항콜린 작용으로 구강 건조 유발 |
-| 항경련제          | Carbamazepine, Phenytoin                          |                       |
-| 조울증 치료제       | Lithium                                           | 금속성 맛 유발 가능           |
+<table data-header-hidden><thead><tr><th width="179.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>삼환계 항우울제(TCA)</td><td>Amitriptyline, Nortriptyline, Doxepin, Imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td>항경련제</td><td>Carbamazepine, Phenytoin</td><td></td></tr><tr><td>조울증 치료제</td><td>Lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
 
 4. 기타 약물 (내분비/항암제/파킨슨)
 
-| **세부 분류**  | **약물 명칭**                     | **특징 및 비고**            |
-| ---------- | ----------------------------- | ---------------------- |
-| 이상지질혈증 치료제 | Statin (Atorvastatin 등)       |                        |
-| 항갑상선제      | Methimazole, Propylthiouracil | 미각 및 후각 기능 저하 보고       |
-| 파킨슨병 치료제   | Levodopa, Carbidopa           | 파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움 |
-| 항암제        | 각종 세포독성 항암제                   | 미뢰 세포 손상으로 인한 심한 미각 왜곡 |
-| 당뇨병 치료제    | Metformin                     | 금속성 맛 유발; 비교적 흔함       |
-| 류마티스 치료제   | Penicillamine                 | 아연 길항 작용으로 미각 소실 잘 알려짐 |
+<table data-header-hidden><thead><tr><th width="179.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>이상지질혈증 치료제</td><td>Statin (Atorvastatin 등)</td><td></td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>파킨슨병 치료제</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>각종 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡</td></tr><tr><td>당뇨병 치료제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>류마티스 치료제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
 
 ## <mark style="color:green;">진단</mark>
 
