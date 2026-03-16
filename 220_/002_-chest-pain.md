@@ -59,11 +59,11 @@
 #### 실험실 검사 (심장 기원 평가)
 
 * 검사  항목 : CBC, 고감도 심장 트로포닌 (hs-cTn), CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
-* hs-cTn&#x20;
+* hs-cTn
   * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
-  * 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증 등에서도 상승하므로 'Baseline 대비 동적 변화(Rise and/or Fall)가 급성 MI 진단의 핵심임
-  * 측정값이 매우 낮은 기준치 미만이면 NSTEMI 배제 가능; 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 delta(절대 변화량)으로 판단(이를 ESC 신속 배제·확진 프로토콜(0/1h 또는 0/3h)이라 함)
-  * 암 환자나 기존 CAD 환자는 심장 손상과 무관한 이유로 트로포닌이 만성적으로 상승해 있을 수 있으므로 임상 소견과 병행하여 급성 MI를 판단
+  * 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증 등에서도 상승하므로 Baseline 대비 동적 변화(Rise and/or Fall, Δ)가 급성 MI 진단의 핵심임
+  * 초기값이 검출 한계(LoD) 미만 또는 assay별 rule-out cut-off 이하이면 NSTEMI 배제 가능(rule-out); 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 절대 변화량(Δ, absolute change)으로 판단 — 이를 ESC 신속 배제·확진 프로토콜(0/1h 또는 0/3h)이라 함
+  * 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
 
 #### 영상 검사 선택 전략 (2021 AHA/ACC 권고)
 
@@ -152,7 +152,24 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 _<mark style="color:$info;">Ref. Derivation of a simple clinical model to categorize patients probability of pulmonary embolism: increasing the models utility with the SimpliRED D-dimer. Thromb Haemost. 2000 Mar;83(3):416-20.</mark>_
 
-#### PERC Rule (PE Rule-out Criteria) — 저위험군 추가 배제
+#### YEARS Criteria (PE 배제 전략)
+
+* Modified Wells Score의 보완 도구; D-dimer 임계값을 임상 소견에 따라 달리 적용하여 불필요한 CTPA를 줄임
+* 3가지 항목 평가:
+
+| 항목 | 해당 여부 |
+|---|---|
+| ① DVT 임상 징후 (하지 부종·통증 등) | 있음 / 없음 |
+| ② 객혈 | 있음 / 없음 |
+| ③ PE가 가장 유력한 진단 (의료진 판단) | 있음 / 없음 |
+
+▶ 판정 기준:
+
+* **YEARS 항목 0개** + D-dimer **＜1,000 ng/mL** → PE 배제 가능
+* **YEARS 항목 1개 이상** + D-dimer **＜500 ng/mL** → PE 배제 가능
+* 위 기준 미충족 시 → CTPA 시행
+
+_<mark style="color:$info;">Ref. van der Hulle T, et al. Simplified diagnostic management of suspected pulmonary embolism (the YEARS study). Lancet. 2017;390(10091):289-297.</mark>_
 
 Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충족하면 D-dimer 검사 없이 PE 배제 가능:
 
