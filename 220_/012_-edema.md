@@ -67,6 +67,8 @@
 
 _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23</mark>_
 
+> ✽ **Brawny edema**: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음.
+
 ### <mark style="color:$primary;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
 
 * 기전 : capillary leak, re-feeding(급속한 다이어트 후 식사 증량), 이뇨제 유발 부종
@@ -91,12 +93,13 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 압통 → DVT; 림프부종에서는 보통 압통이 없음 (때로 심한 통증)
 * pitting edema(＞5초) → DVT, 정맥 부전, 림프부종; fibrotic form에서는 보통 나타나지 않음
 * non-pitting edema → lymphedema(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
+* **Stemmer sign 양성** (2nd toe 근위부 피부가 두꺼워 집히지 않음) → lymphedema에 특이적; 음성이라도 배제 불가
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
 * 작고 깊고 심한 통증성 궤양 → 동맥 부전, 혈관염, 감염
 * 통증이 없는 궤양 → diabetic vascular ulcer
 * 다른 쪽보다 종아리가 ≥3 ㎝ 굵음 → 심부 정맥 폐쇄 의심 \
   <mark style="color:$info;">✽tibial tuberosity의 10 ㎝ 하방에서 측정; 일반적으로 왼쪽 종아리가 약간 더 굵음</mark>
-* 피부 과각화, 경결 → 만성 림프 부종
+* 피부 과각화(hyperkeratosis), 경결(dermal fibrosis) → 만성 림프 부종
 * 갈색 피부, hemosiderin 침착 → 정맥 부전
 
 #### 동반 증상
@@ -107,6 +110,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 ### <mark style="color:$primary;">검사</mark>
 
 * 초음파, D-Dimer : 명백한 원인이 없는 급성 하지 부종에 대하여 DVT 감별을 위하여 고려
+  * D-Dimer는 Wells score 저위험군(≤1점)에서만 음성 예측도가 높음; 중등도 이상 위험군에서는 초음파 우선
 * ankle-brachial pressure index : 만성 정맥 부전 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함
 * s-Cr, 소변 시험지봉 검사 : 신질환(특히 신증후군) 감별을 위하여 고려
 
@@ -131,6 +135,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 1차 선택 : loop diuretics(예: furosemide, bumetanide, torsemide)
 * cirrhosis 시 spironolactone + loop diuretics
 * furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ \[라식스]
+  * 반응 불충분 시 24\~48시간 간격으로 용량 증량 가능 (최대 PO 600 ㎎/d, IV 200 ㎎/dose)
   * 신부전 또는 신증후군 시 고용량 필요
   * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
 
@@ -152,6 +157,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 누워서 쉼, 더운 환경을 피함
 * leg elevation : 하지 부종에 대하여 심장 높이 이상으로 30분씩 하루 3\~4회
 * 하지 압박 : 하지 부종에 대하여 깨어 있을 때 (무릎 위까지) 압박 스타킹 착용
+  * **금기 : ABI ＜0.5** (중증 동맥 부전); ABI 0.5\~0.8에서는 저압력(20 ㎜Hg 이하) 적용 시 주의 하에 사용 가능
   * 단순 부종 조절 목적 시 20~~30 ㎜Hg, 궤양 등 중증 시 30~~40 ㎜Hg의 압력 적용
   * 저위험군의 장시간 비행기 여행 시 부종 및 무증상 혈전증 예방을 위하여 12\~18 ㎜Hg의 발목 압박 양말 적용
   * 림프 부종에 대하여 주 2회 bandaging system 고려
@@ -166,7 +172,19 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>&#x20;
+## <mark style="color:green;">참고문헌</mark>
+
+1. Rakel RE, Rakel DP. Textbook of Family Medicine. 9th ed. Elsevier; 2016. Table 27-23.
+2. Hahn RG, et al. Evaluation of postoperative fluid therapy. Anaesthesia. 2012.
+3. Wells PS, et al. Evaluation of D-dimer in the diagnosis of suspected deep-vein thrombosis. N Engl J Med. 2003;349:1227-1235.
+4. Földi E, Földi M. Lymphoedema: Methods, Lymphoedema Therapy. Georg Thieme Verlag; 2006. (Stemmer sign)
+5. Scottish Intercollegiate Guidelines Network (SIGN). Management of chronic venous leg ulcers. SIGN 120. 2010. (압박 스타킹 ABI 기준)
+6. Ely JW, et al. Approach to leg edema of unclear etiology. J Am Board Fam Med. 2006;19(2):148-160.
+7. Trayes KP, et al. Edema: Diagnosis and management. Am Fam Physician. 2013;88(2):102-110.
+
+***
+
+
 
 R60.0 국소부종
 
