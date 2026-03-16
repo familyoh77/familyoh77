@@ -9,7 +9,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<table><thead><tr><th width="311.84210205078125">새로이 발생한 심한 증상</th><th>걷거나 계단 오를 때 악화</th></tr></thead><tbody><tr><td>과거에 비해 적은 활동에서 발생</td><td>휴식 시 증상 발생</td></tr><tr><td>야간통증; 통증으로 인하여 잠에서 깨어남</td><td>잿빛 피부색, 발한, 차가운 피부</td></tr><tr><td>호흡 곤란, 빠른 호흡</td><td>비대칭적 호흡음 또는 박동</td></tr><tr><td>연하 통증</td><td>반복되는 구토</td></tr><tr><td>위장 출혈</td><td>새로 발견된 심잡음</td></tr><tr><td>빠른 맥 또는 느린 맥, 저혈압</td><td>Pulsus paradoxus ＞10 mmHg</td></tr><tr><td>설명할 수 없는 체중 감소</td><td>Shock, 정신 상태 변화</td></tr></tbody></table>
+<table><thead><tr><th width="311.84210205078125">새로이 발생한 심한 증상</th><th>걷거나 계단 오를 때 악화</th></tr></thead><tbody><tr><td>과거에 비해 적은 활동에서 발생</td><td>휴식 시 증상 발생</td></tr><tr><td>야간통증; 통증으로 인하여 잠에서 깨어남</td><td>잿빛 피부색, 발한, 차가운 피부</td></tr><tr><td>호흡 곤란, 빠른 호흡</td><td>비대칭적 호흡음 또는 박동</td></tr><tr><td>연하 통증</td><td>반복되는 구토</td></tr><tr><td>위장 출혈</td><td>새로 발견된 심잡음</td></tr><tr><td>빠른 맥 또는 느린 맥, 저혈압</td><td>Pulsus paradoxus ＞10 mmHg</td></tr><tr><td>설명할 수 없는 체중 감소</td><td>Shock, 정신 상태 변화</td></tr><tr><td>흉통과 동반된 신경학적 결손</td><td>양측 상지 혈압 차이(>20mmHg)</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인</mark>
 
@@ -61,8 +61,9 @@
 * 검사  항목 : CBC, 고감도 심장 트로포닌 (hs-cTn), CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
 * hs-cTn&#x20;
   * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
-  * 해석 : 측정값이 매우 낮은 기준치 미만이면 NSTEMI 배제 가능; 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 delta(절대 변화량)으로 판단(이를 ESC 신속 배제·확진 프로토콜(0/1h 또는 0/3h)이라 함)
-  * 암 환자나 기존 CAD 환자는 심장 손상과 무관한 이유로 트로포닌이 만성적으로 상승해 있을 수 있으므로 임상 소견과 병행  급성 MI 판단 필요.
+  * 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증 등에서도 상승하므로 'Baseline 대비 동적 변화(Rise and/or Fall)가 급성 MI 진단의 핵심임
+  * 측정값이 매우 낮은 기준치 미만이면 NSTEMI 배제 가능; 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 delta(절대 변화량)으로 판단(이를 ESC 신속 배제·확진 프로토콜(0/1h 또는 0/3h)이라 함)
+  * 암 환자나 기존 CAD 환자는 심장 손상과 무관한 이유로 트로포닌이 만성적으로 상승해 있을 수 있으므로 임상 소견과 병행하여 급성 MI를 판단
 
 #### 영상 검사 선택 전략 (2021 AHA/ACC 권고)
 
@@ -72,7 +73,9 @@ _\*65세 미만에서 CCTA 선호_
 
 ## <mark style="color:green;">심장 기원 흉통</mark>
 
-<table><thead><tr><th width="122.73687744140625"></th><th width="147.84210205078125">시작 / 기간</th><th width="125.84210205078125">증상</th><th>부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Myocardial ischemia</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2–10분<br>• Unstable angina: 휴식 시 발생<br>• MI: ≥30분 지속</td><td>pressure, tightness, squeezing, heaviness, burning</td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부</td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale</td></tr><tr><td><strong>Pericarditis</strong></td><td>variable: 수 시간–수일</td><td>pleuritic, sharp</td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder)</td><td>앉거나 앞으로 기울이면 호전; pericardial friction rub</td></tr><tr><td><strong>Acute aortic syndrome</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음</td><td>찢어지는, 칼로 찌르는 느낌</td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)</td><td>HTN, 기저연조직 질환; 대동맥부전 의심 잡음; 말초 맥박 소실</td></tr></tbody></table>
+<table><thead><tr><th width="122.73687744140625"></th><th width="147.84210205078125">시작 / 기간</th><th width="125.84210205078125">증상</th><th>부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Myocardial ischemia</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2–10분<br>• Unstable angina: 휴식 시 발생<br>• MI: ≥30분 지속</td><td>pressure, tightness, squeezing, heaviness, burning</td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부</td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale</td></tr><tr><td><strong>Pericarditis</strong></td><td>variable: 수 시간–수일</td><td>pleuritic, sharp</td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder)</td><td>앉거나 앞으로 기울이면 호전; pericardial friction rub</td></tr><tr><td><strong>Acute aortic syndrome</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음</td><td>찢어지는, 칼로 찌르는 느낌</td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)<sup>*</sup></td><td>HTN, 기저연조직 질환; 대동맥부전 의심 잡음; 말초 맥박 소실</td></tr></tbody></table>
+
+\*등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
 
