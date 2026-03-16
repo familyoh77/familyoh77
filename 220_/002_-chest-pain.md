@@ -58,7 +58,7 @@
 
 #### 실험실 검사 (심장 기원 평가)
 
-* 검사  항목 : CBC, 고감도 심장 트로포닌 (hs-cTn), CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
+* 검사 항목 : CBC, 고감도 심장 트로포닌 (hs-cTn), CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
 * hs-cTn
   * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
   * 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증 등에서도 상승하므로 Baseline 대비 동적 변화(Rise and/or Fall, Δ)가 급성 MI 진단의 핵심임
@@ -67,7 +67,7 @@
 
 #### 영상 검사 선택 전략 (2021 AHA/ACC 권고)
 
-<table><thead><tr><th width="319">임상 상황</th><th width="242.26318359375">권고 검사</th><th width="94.329833984375">권고 등급</th></tr></thead><tbody><tr><td>중등도 위험 급성 흉통, CAD 기왕력(-)</td><td>CCTA(1차) or stress imaging*</td><td>Class I</td></tr><tr><td>중등도-고위험 안정형 흉통, CAD 기왕력 (-)</td><td>CCTA or stress imaging</td><td>Class I</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력 (-)</td><td>CAC score or 운동부하검사</td><td>Class IIa </td></tr><tr><td>고위험 / ACS 의심</td><td>침습적 관상동맥 조영술</td><td>Class I</td></tr><tr><td>CCTA에서 협착 확인 또는 판정 불가</td><td>FFR-CT (혈류예비분획-CT)</td><td>Class IIa</td></tr></tbody></table>
+<table><thead><tr><th width="319">임상 상황</th><th width="242.26318359375">권고 검사</th><th width="94.329833984375">권고 등급</th></tr></thead><tbody><tr><td>중등도 위험 급성 흉통, CAD 기왕력(-)</td><td>CCTA(1차) or stress imaging*</td><td>Class I</td></tr><tr><td>중등도-고위험 안정형 흉통, CAD 기왕력 (-)</td><td>CCTA or stress imaging</td><td>Class I</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력 (-)</td><td>CAC score or 운동부하검사</td><td>Class IIa</td></tr><tr><td>고위험 / ACS 의심</td><td>침습적 관상동맥 조영술</td><td>Class I</td></tr><tr><td>CCTA에서 협착 확인 또는 판정 불가</td><td>FFR-CT (혈류예비분획-CT)</td><td>Class IIa</td></tr></tbody></table>
 
 _\*65세 미만에서 CCTA 선호_
 
@@ -121,8 +121,6 @@ _<mark style="color:$info;">Ref. Acute Chest Pain in Adults: Outpatient Evaluati
 * History, ECG, Age, Risk factors, Troponin 5개 항목, 각 0–2점, 총 0–10점
 * ACS 단기 예후(6주 내 MACE) 예측 도구; AHA 권고 scoring tool
 
-
-
 <table><thead><tr><th width="101.57894897460938">항목</th><th width="48.4210205078125">점수</th><th width="507.0666809082031">기준</th></tr></thead><tbody><tr><td><strong>H</strong>istory</td><td>2</td><td>허혈성 심질환의 전형적 흉통 3가지 모두 해당</td></tr><tr><td></td><td>1</td><td>위 3가지 중 1~2가지만 해당 (비전형적)</td></tr><tr><td></td><td>0</td><td>심장 기원 가능성이 낮은 병력</td></tr><tr><td><strong>E</strong>CG</td><td>2</td><td>유의한 ST 하강, 완전 LBBB, 또는 좌심실 비후 소견</td></tr><tr><td></td><td>1</td><td>비특이적 재분극 장애</td></tr><tr><td></td><td>0</td><td>정상</td></tr><tr><td><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td></td><td>1</td><td>45~64세</td></tr><tr><td></td><td>0</td><td>&#x3C;45세</td></tr><tr><td><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험 인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI>30, CAD 가족력) 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환) 병력</td></tr><tr><td></td><td>1</td><td>1~2개의 위험 인자</td></tr><tr><td></td><td>0</td><td>위험 인자 없음</td></tr><tr><td><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td></td><td>1</td><td>ULN의 1~3배 상승</td></tr><tr><td></td><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
 
 ▶판정 : 0\~3점 = 저위험(6주 MACE \~2%, 퇴원 고려), 4\~6점 = 중등위험(입원·추가 검사), 7\~10점 = 고위험(적극적 처치); 저위험이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단
@@ -152,24 +150,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 _<mark style="color:$info;">Ref. Derivation of a simple clinical model to categorize patients probability of pulmonary embolism: increasing the models utility with the SimpliRED D-dimer. Thromb Haemost. 2000 Mar;83(3):416-20.</mark>_
 
-#### YEARS Criteria (PE 배제 전략)
-
-* Modified Wells Score의 보완 도구; D-dimer 임계값을 임상 소견에 따라 달리 적용하여 불필요한 CTPA를 줄임
-* 3가지 항목 평가:
-
-| 항목 | 해당 여부 |
-|---|---|
-| ① DVT 임상 징후 (하지 부종·통증 등) | 있음 / 없음 |
-| ② 객혈 | 있음 / 없음 |
-| ③ PE가 가장 유력한 진단 (의료진 판단) | 있음 / 없음 |
-
-▶ 판정 기준:
-
-* **YEARS 항목 0개** + D-dimer **＜1,000 ng/mL** → PE 배제 가능
-* **YEARS 항목 1개 이상** + D-dimer **＜500 ng/mL** → PE 배제 가능
-* 위 기준 미충족 시 → CTPA 시행
-
-_<mark style="color:$info;">Ref. van der Hulle T, et al. Simplified diagnostic management of suspected pulmonary embolism (the YEARS study). Lancet. 2017;390(10091):289-297.</mark>_
+#### PERC Rule for Pulmonary Embolism (PE 배제)
 
 Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충족하면 D-dimer 검사 없이 PE 배제 가능:
 
