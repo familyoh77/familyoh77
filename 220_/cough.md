@@ -89,7 +89,7 @@
   * 인후부 이물감, 따끔거림, 간지러움(laryngeal hypersensitivity)
   * 중년 여성에서 호발; 상기도 감염 후 시작되는 경우 많음
 * 진단 : 다른 원인을 배제한 후 임상적으로 진단; neuromodulator 치료에 반응하면 진단 지지
-* 치료 : neuromodulator(gabapentin, pregabalin, amitriptyline 등) — 아래 "원인 미상의 refractory cough" 항목 참조
+* 치료 : neuromodulator(gabapentin, pregabalin, amitriptyline 등) — 아래 "원인 미상의 refractory cough" 항목 참조; 기침 억제 재활 치료(cough suppression therapy)를 병행하거나 단독으로 시행 가능 — 위 항목 참조
 
 ## <mark style="color:green;">진단</mark>
 
@@ -170,6 +170,7 @@
 * 백일해 : azithromycin(1차), clarithromycin 또는 TMP-SMX(대안); 노출 후 예방에도 동일 항생제 사용 (☞ 백일해 챕터 참조)
 * 감염후기침 : 상기도기침증후군 치료; ipratropium 흡입제 또는 단기 흡입 steroid도 효과적일 수 있음; 단기 경구 steroid(예: prednisolone)도 고려 가능 (근거 제한적; 조건부 권고)
 * GERD : 증상이 있는 GERD에만 PPI 투여; 기침 외 다른 증상이 없는 GERD에서 PPI는 효과가 없으며 권장되지 않음. 투여 시 최소 8주 이상 유지 (☞ p.406)
+  * ✽ 식후 기침 악화(postprandial cough)가 뚜렷한 경우 역류성 기침 가능성이 높으며, PPI 반응 예측에 참고할 수 있음 (임상 관찰 근거)
 * 원인 미상의 refractory cough : 기침 과민증후군을 의심하며 말초 및 중추성 cough reflex 과민에 대한 neuromodulator 치료 고려; 반응이 있으면 4주내 호전
   * gabapentin 300 ㎎/d, 점차 증량, 최대 1800 ㎎/d \[뉴론틴], pregabalin 300 ㎎/d \[리리카] (보험주의; 만성 기침에 대한 급여 인정 기준 없음)
   * amitriptyline 10 ㎎/d으로 시작, 최대 25 ㎎/d, 취침 전 \[에트라빌] (보험주의)
