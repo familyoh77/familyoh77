@@ -33,19 +33,53 @@
 * 신경계 질환 : 다발경화증, 알츠하이머병, 파킨슨병, 뇌신경 손상(뇌혈관 질환, 두부 외상)
 * 감염 : URI, 구강 질환, 칸디다증, coxsackievirus, COVID-19
 * 약물
-  * 항생제 : amikacin, ampicillin, azithromycin, ciprofloxacin, clarithromycin, doxycycline, metronidazole, ofloxacin, tetracycline, terbinafine, β-lactam 억제제, chlorhexidine
-  * 항경련제 : carbamazepine, phenytoin
-  * 항우울제 : amitriptyline, doxepin, imipramine, nortriptyline
-  * 항고혈압제/심장약 : acetazolamide, amiloride, captopril, diltiazem, hydrochlorothiazide, nifedipine, propranolol, spironolactone
-  * 기타 : statin, methimazole, propylthiouracil, lithium, levodopa, carbidopa, 항암제
+
+1. 항생제 및 항균제
+
+| **세부 분류** | **약물 명칭**                    | **특징 및 비고**           |
+| --------- | ---------------------------- | --------------------- |
+| 마크롤라이드계   | Clarithromycin, Azithromycin | 쓴맛 또는 금속성 맛 유발이 흔함    |
+| 퀴놀론계      | Ciprofloxacin, Ofloxacin     | 미각 변화 보고              |
+| 테트라사이클린계  | Doxycycline, Tetracycline    | 설태 침착 및 미각 이상 가능성     |
+| 기타 항균제    | Metronidazole                | 금속성 맛의 대표적 원인 약물      |
+| 아미노글리코사이드 | Amikacin                     |                       |
+| 페니실린/기타   | Ampicillin, β-lactam 억제제     |                       |
+| 항진균제      | Terbinafine                  | 드물게 장기적인 미각 상실 유발 가능  |
+| 구강 세정제    | Chlorhexidine                | 장기 사용 시 치아 착색 및 미각 저하 |
+
+2\. 항고혈압제 및 심혈관계 약물 : 가장 흔하게 미각 이상을 일으키는 범주로, 특히 아연(Zinc) 대사에 영향을 주는 경우가 많음
+
+| **세부 분류**    | **약물 명칭**                                                     | **특징 및 비고**                       |
+| ------------ | ------------------------------------------------------------- | --------------------------------- |
+| ACE 억제제      | Captopril                                                     | \*\*미각 소실(Ageusia)\*\*의 대표적 원인 약물 |
+| 칼슘채널차단제(CCB) | Diltiazem, Nifedipine                                         | 구강 건조 및 잇몸 증식 동반 가능               |
+| 이뇨제          | Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide | 아연 배설 촉진으로 인한 미각 저하               |
+| 베타차단제        | Propranolol                                                   |                                   |
+
+3\. 신경정신과 약물 (항우울제/항경련제/기타)
+
+| **세부 분류**     | **약물 명칭**                                         | **특징 및 비고**           |
+| ------------- | ------------------------------------------------- | --------------------- |
+| 삼환계 항우울제(TCA) | Amitriptyline, Nortriptyline, Doxepin, Imipramine | 강력한 항콜린 작용으로 구강 건조 유발 |
+| 항경련제          | Carbamazepine, Phenytoin                          |                       |
+| 조울증 치료제       | Lithium                                           | 금속성 맛 유발 가능           |
+
+4. 기타 약물 (내분비/항암제/파킨슨)
+
+| **세부 분류**  | **약물 명칭**                     | **특징 및 비고**            |
+| ---------- | ----------------------------- | ---------------------- |
+| 이상지질혈증 치료제 | Statin (Atorvastatin 등)       |                        |
+| 항갑상선제      | Methimazole, Propylthiouracil | 미각 및 후각 기능 저하 보고       |
+| 파킨슨병 치료제   | Levodopa, Carbidopa           |                        |
+| 항암제        | 각종 세포독성 항암제                   | 미뢰 세포 손상으로 인한 심한 미각 왜곡 |
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:$primary;">검사</mark>
 
-* 보통 필요 없음
+* 보통 필요 없음; 감별을 위하여 검사 고려
 * CBC, LFT, 혈당, Cr, Vit B12, TSH, IgE
-* CT(비부비동 구조 검사), MRI(연조직 검사)
+* 비경/내시경(비중격만곡증, 비폴립), CT(비부비동 구조 검사), MRI(연조직 검사)
 * 후각 검사 또는 미각 검사 : 의뢰
 
 ## <mark style="background-color:$warning;">Management</mark>
@@ -54,12 +88,13 @@
 
 * 기저 질환 치료, 비염 치료
 * 적절하고 고른 영양 섭취; 특히 Vit A/B 복합제, Zn 등 미네랄 보충 (단, 결핍 교정 목적이며 치료 효과는 명확히 입증되지 않음)
-* 구강 관리, 규칙적 치과 진료
+* 구강 관리(☞ 입마름), 규칙적 치과 진료
 * 금연
 * 독성 물질 노출 회피
 * 후각 훈련(Olfactory training)
   * 대상 : 바이러스 감염 후, 외상 후, 특발성 후각 장애, 파킨슨병 관련 후각 장애
-  * 방법 : 장미(rose), 유칼립투스, 레몬, 정향(clove) 등 4가지 향을 각각 20초씩 하루 2회, 최소 12\~24주 이상 꾸준히 시행
+  * 최소 12\~24주 이상 꾸준히 시행해야 효과
+  * 방법 : 장미, 유칼립투스, 레몬, 정향(clove) 등 4가지 향을 각각 20초씩 하루 2회&#x20;
   * 기전 : 후각 뉴런의 신경 재구성(neural reorganization) 촉진
   * 바이러스 감염 후 후각 장애 전반에서 효과 확립(COVID-19 포함); 적용 기간이 길수록(최소 12주, 이상적으로는 24주 이상) 효과가 큼
 
