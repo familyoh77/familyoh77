@@ -89,7 +89,7 @@
   * 인후부 이물감, 따끔거림, 간지러움(laryngeal hypersensitivity)
   * 중년 여성에서 호발; 상기도 감염 후 시작되는 경우 많음
 * 진단 : 다른 원인을 배제한 후 임상적으로 진단; neuromodulator 치료에 반응하면 진단 지지
-* 치료 : neuromodulator(gabapentin, pregabalin, amitriptyline 등) — 아래 "원인 미상의 refractory cough" 항목 참조; 기침 억제 재활 치료(cough suppression therapy)를 병행하거나 단독으로 시행 가능 — 위 항목 참조
+* 치료 : neuromodulator(gabapentin, pregabalin, amitriptyline 등) - "원인 미상의 refractory cough" 항목 참조; 기침 억제 재활 치료(cough suppression therapy)를 병행하거나 단독으로 시행 가능
 
 ## <mark style="color:green;">진단</mark>
 
@@ -106,7 +106,7 @@
   * 고령에서는 지속 기간에 관계없이 임상적으로 판단
 * 가래 검사 : 만성 productive cough
 * HRCT : 다른 검사에 이상이 없으면서 2\~3주의 경험적 치료에 반응 없음
-* FeNO(호기산화질소) : 호산구성 기도 염증 확인&#x20;
+* FeNO(호기산화질소) : 호산구성 기도 염증 확인
   * < 25 ppb: 호산구성 염증 가능성 낮음
   * 25\~50 ppb: 임상적 상황(천식 증상 등)과 함께 판단
   * \> 50 ppb: 호산구성 염증(천식, NAEB) 가능성 매우 높음, ICS 반응성 양호 예측
@@ -159,7 +159,7 @@
 
 * 난치성 기침(RCC) 또는 기침과민증후군 환자에게 약물과 병행하거나 단독으로 시행
 * 기전: 기침을 유발하는 자극(따끔거림 등)이 느껴질 때 의도적으로 기침을 참는 행동 요법을 통해 기침 반사 회로를 재훈련
-* 방법:
+* 방법
   1. 호흡 조절: 기침 신호가 올 때 입을 오므리고 천천히 숨을 내쉬기(Pursed-lip breathing)
   2. 삼키기 법: 마른 기침 대신 침을 삼키거나 물을 소량 자주 마셔 인후부 자극 완화
   3. 이완 요법: 상체와 목 근육의 긴장을 풀어주는 스트레칭 병행
