@@ -59,7 +59,7 @@
 ### <mark style="color:$primary;">Bilateral predominance</mark>
 
 * 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
-* 약물 : 혈관 확장제(예: CCB, α-차단제), 호르몬제(예: steroid, estrogen, progesterone, testosterone), NSAID, thiazolidinedione(Na 재흡수 증가)
+* 약물 : 혈관 확장제(예: CCB, α-차단제), 호르몬제(예: steroid, estrogen, progesterone, testosterone), NSAID, thiazolidinedione(Na 재흡수 증가), gabapentinoid
 
 ### <mark style="color:$primary;">만성 하지 부종의 감별</mark>
 
