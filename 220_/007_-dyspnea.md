@@ -56,6 +56,10 @@
 * D-dimer : 폐색전증 저위험군에서 배제 목적으로 시행; 해석 및 임상 적용은 ☞ 흉통 참조
 * 선택적 시행 : 심장 초음파(좌심실 기능·판막 이상 평가), 폐 초음파(B-line 확인 → 폐부종/심부전 감별), cardiac stress tests, PFT(폐쇄성/제한성 패턴 감별; 만성 호흡 곤란에서 우선 고려), CT
 
+### <mark style="color:$primary;">심장성 vs 폐성 호흡 곤란 감별 진단</mark>
+
+<table data-header-hidden><thead><tr><th width="114.5789794921875"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>구분</strong></td><td><strong>심장성 호흡 곤란 (Cardiac)</strong></td><td><strong>폐성 호흡 곤란 (Pulmonary)</strong></td></tr><tr><td>주요 원인</td><td>심부전, 관상동맥 질환, 판막 질환</td><td>천식, COPD, 폐렴, 기흉, 폐색전증</td></tr><tr><td>발생 양상</td><td>누우면 악화(기좌호흡), 야간 돌발성 호흡 곤란</td><td>활동 시 악화되거나 특정 유발 인자(먼지, 연기) 노출 시 발생</td></tr><tr><td>동반 증상</td><td>발/발목 부종, 흉부 압박감, 핑크색 거품 섞인 가래</td><td>기침, 가래(농성), 쌕쌕거림(Wheezing), 흉막성 흉통</td></tr><tr><td>청진 소견</td><td>양측 폐 하부의 수포음(Crackles), S3/S4 심음</td><td>천명음(Wheezing), 호흡음 감소, 긴 호기 시간</td></tr><tr><td>흉부 X선</td><td>심비대, 폐부종, Kerley B-line, 흉수</td><td>폐 과팽창, 침윤(Infiltration), 기흉 소견</td></tr><tr><td>심전도(ECG)</td><td>허혈성 변화, 부정맥, 좌심실 비대 소견</td><td>대체로 정상이나 우심실 부하 소견(PE 등) 가능</td></tr><tr><td>혈액 검사</td><td>BNP / NT-proBNP 상승</td><td>WBC/CRP 상승(감염 시), D-dimer 상승(PE 시)</td></tr><tr><td>자세 변화</td><td>앉으면 호전(Orthopnea)</td><td>자세보다는 휴식이나 기관지 확장제에 반응</td></tr></tbody></table>
+
 ### <mark style="color:$primary;">증상/병력에 따른 감별</mark>
 
 #### 자세/발생 시간
@@ -98,12 +102,15 @@
 * 연기/먼지/담배 연기 등에 장기간 노출, 서서히 악화 → 만성 기관지염, COPD, 폐기종
 * 석면/나무 먼지/산업용 가스/광산 등에 장기간 노출 → 직업성 폐질환
 
+<<<<<<< HEAD
 ### <mark style="color:$primary;">심장성 vs 폐성 호흡 곤란 감별 진단</mark>
 
 <table data-header-hidden><thead><tr><th width="114.5789794921875"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>구분</strong></td><td><strong>심장성 호흡 곤란 (Cardiac)</strong></td><td><strong>폐성 호흡 곤란 (Pulmonary)</strong></td></tr><tr><td>주요 원인</td><td>심부전, 관상동맥 질환, 판막 질환</td><td>천식, COPD, 폐렴, 기흉, 폐색전증</td></tr><tr><td>발생 양상</td><td>누우면 악화(기좌호흡), 야간 돌발성 호흡 곤란</td><td>활동 시 악화되거나 특정 유발 인자(먼지, 연기) 노출 시 발생</td></tr><tr><td>동반 증상</td><td>발/발목 부종, 흉부 압박감, 핑크색 거품 섞인 가래</td><td>기침, 가래(농성), 쌕쌕거림(Wheezing), 흉막성 흉통</td></tr><tr><td>청진 소견</td><td>양측 폐 하부의 수포음(Crackles), S3/S4 심음</td><td>천명음(Wheezing), 호흡음 감소, 긴 호기 시간</td></tr><tr><td>흉부 X선</td><td>심비대, 폐부종, Kerley B-line, 흉수</td><td>폐 과팽창, 침윤(Infiltration), 기흉 소견</td></tr><tr><td>심전도(ECG)</td><td>허혈성 변화, 부정맥, 좌심실 비대 소견</td><td>대체로 정상이나 우심실 부하 소견(PE 등) 가능</td></tr><tr><td>혈액 검사</td><td>BNP / NT-proBNP 상승</td><td>WBC/CRP 상승(감염 시), D-dimer 상승(PE 시)</td></tr><tr><td>자세 변화</td><td>앉으면 호전(Orthopnea); 비만·GERD 관련 천식에서도 유사 양상 가능</td><td>자세보다는 휴식이나 기관지 확장제에 반응</td></tr></tbody></table>
 
 > ⚠️ **임상 주의** : 고령 환자는 심부전과 COPD가 동반된 경우가 많아 단일 원인으로 단정하기 어렵다. BNP/NT-proBNP, 폐 초음파 B-line, 기관지 확장제 반응을 복합적으로 평가하여 접근한다.
 
+=======
+>>>>>>> d3eeb0deed420ad95d67335b3b98e853a9ab828f
 ***
 
 <figure><img src="../.gitbook/assets/호흡2.JPG" alt=""><figcaption></figcaption></figure>
