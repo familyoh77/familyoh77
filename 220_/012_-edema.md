@@ -1,27 +1,27 @@
 # 부종 Edema
 
-![image](../.gitbook/assets/7aa6ba60-85fe-4115-b6ac-4b04b2493eb6.JPG)
+### <mark style="color:$primary;">기전</mark>
 
-### 기전![image](../.gitbook/assets/95870ce0-febc-4356-b12e-1a229e6880c1.JPG)
-
-*   capillary hemodynamics의 변화에 의한 혈관으로부터
-
-    interstitium으로의 체액 이동
-
-    •모세 혈관의 수압↑, 삼투압↓(예: 저알부민혈증), 투과성↑
+* capillary hemodynamics의 변화에 의한 혈관으로부터 interstitium으로의 체액 이동
+  * 모세 혈관의 수압↑, 삼투압↓(예: 저알부민혈증), 투과성↑
 * 신장에 의한 Na 및 수분 정체 증가 (신부전)
 
-## 전신 부종
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+* 갑자기 발생
+* 유의미한 수준의 통증 동반
+* 호흡 곤란
+* 심장 질환 병력 또는 심장 이상 소견
+* 객혈, 호흡 곤란, pleural friction rub
+* 황달, 복수, 간 비대, 비장 비대, 토혈
+* 압통이 있는 편측 하지 부종
+* 일상생활 수행이 어려운 부종
+
+## <mark style="color:green;">전신 부종</mark>
 
 #### Cardiac (심부전)
 
-> ```
-> (☞ p.515)
-> ```
-
-*   동반 소견 : 운동 유발 호흡 곤란(종종 orthopnea),
-
-    돌발성 야간 호흡 곤란, 말초 청색증, 사지 냉증
+* 동반 소견 : 운동 유발 호흡 곤란(종종 orthopnea), 돌발성 야간 호흡 곤란, 말초 청색증, 사지 냉증
 * uric acid↑, Na↓, 간 효소↑
 
 #### Hepatic (간경화)
@@ -29,19 +29,11 @@
 * 흔히 음주와 관련
 * 동반 소견 : 간질환 소견(예: 복수, 황달, 손바닥 홍반, Dupuytren’s contracture, spider angiomata, 여성형유방증), 혈압↓
 * 복수가 발생한 경우 이외에는 호흡 곤란은 드묾
-*   hepatic proteins(transferrin, fibrinogen, albumin)↓, 간 효소↑, cholesterol↓, K↓, 호흡성 알칼리증, macrocytosis(엽산 결핍
-
-    관련)
+* hepatic proteins(transferrin, fibrinogen, albumin)↓, 간 효소↑, cholesterol↓, K↓, 호흡성 알칼리증, macrocytosis(엽산 결핍 관련)
 
 #### Renal (신부전, 신증후군)
 
-> ```
-> (☞ p.617)
-> ```
-
-*   동반 소견 : 식욕 저하, 미각 변화(예: 쇠맛, 비릿함), 수면 변화, 집중력 장애, 하지불안증, myoclonus, 호흡 곤란(심부전
-
-    경우보다 덜함), 혈압↑, 고혈압성 망막증, 질소성 악취
+* 동반 소견 : 식욕 저하, 미각 변화(예: 쇠맛, 비릿함), 수면 변화, 집중력 장애, 하지불안증, myoclonus, 호흡 곤란(심부전 경우보다 덜함), 혈압↑, 고혈압성 망막증, 질소성 악취
 * Cr↑, BUN↑, u-Alb↑/s-Alb↓, K↑, P↑, Ca↓, 대상성 산증, 빈혈(보통 normocytic)
 * 신증후군 : 단백뇨(＞3.5 g/d), s-Alb↓, 고콜레스테롤혈증, 현미경혈뇨
 
@@ -53,33 +45,29 @@
 * 임신, 월경 전 : 체액 증가
 * 갑상선저하증 : generalized myxedema
 
-## 국소 부종
+## <mark style="color:green;">국소 부종</mark>
 
 * 원인 : 봉와직염, 정맥 부전, trauma, DVT, iliac vein obstruction, lipedema, lymphedema
 * 만성 하지 부종(편측 or 양측)은 종종 정맥 부전과 관련
 * 정맥/림프관 부전은 흔히 DVT의 합병증으로 발생
 * DVT 관련 인자 : 암 병력, 움직이지 않음, 1개월 내 주요 수술로 3일 이상 bed rest, 정맥류
 
-### Unilateral predominance
+### <mark style="color:$primary;">Unilateral predominance</mark>
 
 * 원인 : 정맥 부전, DVT, lymphedema, 종양, complex regional pain syndrome
 
-### Bilateral predominance
+### <mark style="color:$primary;">Bilateral predominance</mark>
 
-*   원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증,
+* 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
+* 약물 : 혈관 확장제(예: CCB, α-차단제), 호르몬제(예: steroid, estrogen, progesterone, testosterone), NSAID, thiazolidinedione(Na 재흡수 증가)
 
-    고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
-*   약물 : 혈관 확장제(예: CCB, α-차단제), 호르몬제(예: steroid, estrogen, progesterone, testosterone), NSAID,
+### <mark style="color:$primary;">만성 하지 부종의 감별</mark>
 
-    thiazolidinedione(Na 재흡수 증가)
+<table><thead><tr><th width="120.57894897460938"></th><th>Cardiac / Orthostatic</th><th>Venous</th><th>Lymphatic</th><th>Lipedema</th></tr></thead><tbody><tr><td><strong>부종 양상</strong></td><td>Pitting</td><td>Brawny</td><td>Spongy</td><td>Non-pitting</td></tr><tr><td><strong>하지 거상으로 호전</strong></td><td>완전</td><td>완전</td><td>경미</td><td>최소</td></tr><tr><td><strong>부종 분포</strong></td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td></tr><tr><td><strong>피부 변화</strong></td><td>빛남, 경미한 착색</td><td>위축, 착색, 피하 섬유화</td><td>비후, 태선화</td><td>없음</td></tr><tr><td><strong>통증</strong></td><td>경미</td><td>심함: 통증, 조임, 파열</td><td>없거나 심한 통증</td><td>둔한 통증, 피부 과민</td></tr><tr><td><strong>양측</strong></td><td>항상</td><td>때때로: 보통 비대칭</td><td>때때로: 보통 비대칭</td><td>항상</td></tr></tbody></table>
 
-### 만성 하지 부종의 감별
+_<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23</mark>_
 
-```
-![image](images/9baead34-85ed-41b2-8bed-5d7c98aca64a.JPG)
-```
-
-### 특발성 부종증후군 (Idiopathic edema syndrome)
+### <mark style="color:$primary;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
 
 * 기전 : capillary leak, re-feeding(급속한 다이어트 후 식사 증량), 이뇨제 유발 부종
 * 체액 정체에 의한 얼굴, 손, 사지 부종; 아침에 심함
@@ -88,9 +76,9 @@
 * 관련 인자 : 당뇨병, 비만, 우울 등 정서적 문제
 * 진단 : 다른 원인 배제
 
-## 진단
+## <mark style="color:green;">진단</mark>
 
-### 감별
+### <mark style="color:$primary;">감별</mark>
 
 #### 발생 부위
 
@@ -102,14 +90,12 @@
 
 * 압통 → DVT; 림프부종에서는 보통 압통이 없음 (때로 심한 통증)
 * pitting edema(＞5초) → DVT, 정맥 부전, 림프부종; fibrotic form에서는 보통 나타나지 않음
-* non-pitting edema → lymphedema(✽약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
+* non-pitting edema → lymphedema(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
 * 작고 깊고 심한 통증성 궤양 → 동맥 부전, 혈관염, 감염
 * 통증이 없는 궤양 → diabetic vascular ulcer
-* 다른 쪽보다 종아리가 ≥3 ㎝ 굵음 → 심부 정맥 폐쇄 의심
-
-> ✽tibial tuberosity의 10 ㎝ 하방에서 측정; 일반적으로 왼쪽 종아리가 약간 더 굵음
-
+* 다른 쪽보다 종아리가 ≥3 ㎝ 굵음 → 심부 정맥 폐쇄 의심 \
+  <mark style="color:$info;">✽tibial tuberosity의 10 ㎝ 하방에서 측정; 일반적으로 왼쪽 종아리가 약간 더 굵음</mark>
 * 피부 과각화, 경결 → 만성 림프 부종
 * 갈색 피부, hemosiderin 침착 → 정맥 부전
 
@@ -118,21 +104,21 @@
 * 호흡 곤란 → 좌심부전, 폐부종
 * 복수 → 간경화
 
-### 검사
+### <mark style="color:$primary;">검사</mark>
 
 * 초음파, D-Dimer : 명백한 원인이 없는 급성 하지 부종에 대하여 DVT 감별을 위하여 고려
-*   ankle-brachial pressure index : 만성 정맥 부전 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어
-
-    있으므로 해석에 주의를 요함
-*   s-Cr, 소변 시험지봉 검사 : 신질환(특히 신증후군) 감별을 위하여 고려
-
-    ![image](../.gitbook/assets/77f1e6a7-ba14-42d6-8b3f-a113fff1a945.JPG)
+* ankle-brachial pressure index : 만성 정맥 부전 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함
+* s-Cr, 소변 시험지봉 검사 : 신질환(특히 신증후군) 감별을 위하여 고려
 
 ***
 
-## Management
+![](../.gitbook/assets/77f1e6a7-ba14-42d6-8b3f-a113fff1a945.JPG)
 
-### 치료 방침
+***
+
+## <mark style="background-color:$warning;">Management</mark>
+
+### <mark style="color:$primary;">치료 방침</mark>
 
 * 원인 질환 치료; DVT에 대하여 항응고제, 필요시 이뇨제 투여
 * 피부 관리 주의 (피부 손상 및 venous ulcer 예방)
@@ -140,22 +126,18 @@
 #### 이뇨제 투여 지침
 
 * 서둘러 투여할 필요는 없음; 폐부종 외에는 일반적으로 응급을 요하지 않음
-*   주의 : 복수 환자 또는 정맥/림프관 폐쇄 환자에서는 체액 고갈을 유발할 수 있음
-
-    •만성 정맥 부전에서도 volume overload 상태가 아니면 이뇨제 사용을 권하지 않음
+* 주의 : 복수 환자 또는 정맥/림프관 폐쇄 환자에서는 체액 고갈을 유발할 수 있음
+  * 만성 정맥 부전에서도 volume overload 상태가 아니면 이뇨제 사용을 권하지 않음
 * 1차 선택 : loop diuretics(예: furosemide, bumetanide, torsemide)
 * cirrhosis 시 spironolactone + loop diuretics
-*   furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20~~40 ㎎, IV 10~~40 ㎎ \[라식스]
+* furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ \[라식스]
+  * 신부전 또는 신증후군 시 고용량 필요
+  * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
 
-    •신부전 또는 신증후군 시 고용량 필요
+### <mark style="color:$primary;">특발성 부종증후군, 하지 부종</mark>
 
-    •심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
-
-### 특발성 부종증후군, 하지 부종
-
-*   이미 이뇨제를 사용하고 있는 경우에는 2\~4주 동안 복용 중단 및 저염식 시행
-
-    •이뇨제 중단 후 일시적으로 체중 증가가 나타날 수 있음
+* 이미 이뇨제를 사용하고 있는 경우에는 2\~4주 동안 복용 중단 및 저염식 시행
+  * 이뇨제 중단 후 일시적으로 체중 증가가 나타날 수 있음
 
 #### 이뇨제
 
@@ -169,17 +151,12 @@
 
 * 누워서 쉼, 더운 환경을 피함
 * leg elevation : 하지 부종에 대하여 심장 높이 이상으로 30분씩 하루 3\~4회
-*   하지 압박 : 하지 부종에 대하여 깨어 있을 때 (무릎 위까지) 압박 스타킹 착용
-
-    •단순 부종 조절 목적 시 20~~30 ㎜Hg, 궤양 등 중증 시 30~~40 ㎜Hg의 압력 적용
-
-    •저위험군의 장시간 비행기 여행 시 부종 및 무증상 혈전증 예방을 위하여 12\~18 ㎜Hg의 발목 압박 양말 적용
-
-    •림프 부종에 대하여 주 2회 bandaging system 고려
-
-    •활동 감소 상태의 환자에 대하여 간헐적 pneumatic compression 고려
-
-    •개선 후 유지를 위하여 inelastic grosgrain 스타킹 사용 고려
+* 하지 압박 : 하지 부종에 대하여 깨어 있을 때 (무릎 위까지) 압박 스타킹 착용
+  * 단순 부종 조절 목적 시 20~~30 ㎜Hg, 궤양 등 중증 시 30~~40 ㎜Hg의 압력 적용
+  * 저위험군의 장시간 비행기 여행 시 부종 및 무증상 혈전증 예방을 위하여 12\~18 ㎜Hg의 발목 압박 양말 적용
+  * 림프 부종에 대하여 주 2회 bandaging system 고려
+  * 활동 감소 상태의 환자에 대하여 간헐적 pneumatic compression 고려
+  * 개선 후 유지를 위하여 inelastic grosgrain 스타킹 사용 고려
 * 저염식, 과도한 수분 섭취를 피함
 * 이뇨제에 반응하지 않는 경우 탄수화물 섭취 제한 (90 g/d)
 * 적정 체중 유지, 섭식 장애 교정
@@ -187,7 +164,11 @@
 * 걷기 : 종아리 근육이 수축되며 정맥 회귀가 증가됨
 * vitis vinifera leaf dry extract : 360 ㎎ 아침 식전 \[안탁스]
 
-> **질병코드** R60.0 국소부종
+***
+
+### <mark style="color:purple;">**질병코드**</mark>&#x20;
+
+R60.0 국소부종
 
 R60.1 전신부종
 
@@ -197,7 +178,7 @@ E87.7 체액과부하
 
 I89.0 림프 부종
 
-![image](../.gitbook/assets/37104922-7157-43a1-89a1-42b321868bc1.JPG)
+***
 
 ## <mark style="color:orange;">처방례</mark>
 
