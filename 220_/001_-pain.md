@@ -105,7 +105,7 @@
 * 대상 : non-opioid analgesics에 반응하지 않는 환자에서 opioid의 위험(예: 중독, 과용, 사망)에 비하여 이득이 더 큰 경우에 적용 (보험기준 ☞ p.1175)
 * 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 항콜린 부작용(입마름, 구역, 변비, 소변 저류)
   * 고령에서는 낙상 위험 증가 외에는 NSAID에 비하여 안전
-  * **오피오이드 유발 변비(Opioid-Induced Constipation, OIC)**: 내성이 생기지 않으므로 오피오이드 시작과 동시에 자극성 하제(Stimulant laxatives, 예: sennoside \[아락실], bisacodyl \[둘코락스])를 선제적으로 처방하는 것을 고려 (CDC 2022)
+  * 오피오이드 유발 변비(Opioid-Induced Constipation, OIC): 내성이 생기지 않으므로 오피오이드 시작과 동시에 자극성 하제(Stimulant laxatives, 예: sennoside \[아락실], bisacodyl \[둘코락스])를 선제적으로 처방하는 것을 고려 (CDC 2022)
 * 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용, 수면무호흡증
 * 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함
   * 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
@@ -158,7 +158,7 @@
 
 * 병력 청취, 이학적 검사, 다양한 평가 도구로 환자 상태를 파악한 이후 꼭 필요한 경우에만 고려
 * 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정; 목표 미달 시 중단 고려
-* 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야함. 마약류 통합관리시스템 NIMS([https://www.nims.or.kr](https://www.nims.or.kr))
+* 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야함. 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/))
 
 **처방 시작**
 
@@ -196,7 +196,7 @@
 
 <table><thead><tr><th width="188.631591796875">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">변환계수*</th></tr></thead><tbody><tr><td><strong>정맥 주사</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td></td><td>펜타닐 (Fentanyl)</td><td>100†</td></tr><tr><td><strong>정맥 주사를 경구로 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td></td><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td></td><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
 
-* \*MME 용량 = 아편유사제의 용량(mg) × 변환계수. 예) 단일 정맥 투여 : 모르핀 10 mg = 하이드로몰폰 1.5 mg (1. 5 mg × 6.6 = 10 MME) = 펜타닐 0.1 mg (0 1 mg × 100 = 10 MME). 모르핀 10 mg 정맥 주사를 경구로 전환하면 경구 모르핀 30 mg&#x20;
+* \*MME 용량 = 아편유사제의 용량(mg) × 변환계수. 예) 단일 정맥 투여 : 모르핀 10 mg = 하이드로몰폰 1.5 mg (1. 5 mg × 6.6 = 10 MME) = 펜타닐 0.1 mg (0 1 mg × 100 = 10 MME). 모르핀 10 mg 정맥 주사를 경구로 전환하면 경구 모르핀 30 mg
 * † 단일 정맥 투여의 경우, 모르핀 10 mg은 펜타닐 0.1 mg (100 mcg)과 유사하지만 만성적으로 펜타닐을 투여하는 경우 모르핀 10 mg은 펜타닐 0 25 mg (250 mcg)과 유사
 * MME 전환은 추정치로 아편유사제 회전이나 전환을 고려 시 MME에서 계산된 용량을 그대로 사용하면 안 되고 불완전한 교차 내성과 아편유사제 약동학의 개별 가변성 때문에 과다 복용을 피하기 위해 계산된 MME 용량보다 상당히 낮은 용량으로 투여
 * 변환계수의 아편유사제 사용장애 관리와 관련된 용량 결정에 적용은 불가.
@@ -257,7 +257,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 저용량으로 시작하여 점차 증량 (보험기준 ☞ p.1193)
 * 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 보다 빠른 효과를 보임
 * 부작용 : 어지럼/졸음(용량의존; 저용량 시작 및 서서히 증량 시 완화), 말초부종, 체중 증가, 도취감, 의존성/남용 가능성(특히 pregabalin; 영국에서는 2019년 규제 약물로 지정)
-  * 말초 부종·체중 증가는 **고령자에서 더 빈번**하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
+  * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
 * gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid \[뉴론틴]
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d \[리리카]
 
@@ -391,9 +391,9 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:$primary;">외용제</mark>
 
-* **무릎 골관절염(Knee OA)에 대하여 최근 가이드라인(AAOS 2021, ACR 2022)에서는 전신 부작용을 줄이기 위해 경구 NSAID보다 국소 NSAID(외용제)를 우선 권고**
+* 무릎 골관절염(Knee OA)에 대하여 전신 부작용을 줄이기 위해 경구 NSAID보다 국소 NSAID(외용제)를 우선 권고(AAOS 2021, ACR 2022)
   * 특히 고령, 위장관/심혈관/신장 위험 인자가 있는 환자에서 우선 고려
-  * 혈중 농도가 경구제의 1~5% 수준으로 전신 부작용이 현저히 적음
+  * 혈중 농도가 경구제의 1\~5% 수준으로 전신 부작용이 현저히 적음
 * 허리 이외 부위의 근골격계 손상에 의한 급성 통증에 대하여 경구제와 동등한 효과
 * 만성 통증에 대한 효과는 급성 통증에 비하여 적음
 * 대상 : 작은 관절(예: 손), 무릎 OA (보험기준 ☞ p.1175)
@@ -410,15 +410,15 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 <table><thead><tr><th width="201.73678588867188">성분명 [상품명]</th><th width="208.31582641601562">용량 (골관절염)</th><th width="73.31573486328125">위장관 합병증*</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin [로날]</td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 mg qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid [폰탈]</td><td>250 mg qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate [모니플루]</td><td>700 mg bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 mg tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac [에어탈]</td><td>100 mg bid</td><td>1.43</td><td></td></tr><tr><td>diclofenac [디페인]</td><td>50 mg tid</td><td>3.34</td><td>CYP2C9 대사</td></tr><tr><td>etodolac [로딘]</td><td>서방형 400~1,000 mg qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac [케토라신]</td><td>10 mg qid</td><td>11.5</td><td></td></tr><tr><td>sulindac [크리돌]</td><td>100~200 mg bid</td><td>2.89</td><td>신 장애 시 선호; 간 독성 부작용</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen [애니펜]</td><td>300 mg bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 mg tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 mg bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen [부루펜]</td><td>400 mg qid~800 mg tid</td><td>1.84</td><td></td></tr><tr><td>ketoprofen</td><td>50 mg qid~100 mg bid</td><td>3.92</td><td></td></tr><tr><td>loxoprofen [록소닌]</td><td>60 mg bid~tid</td><td></td><td></td></tr><tr><td>nabumetone [프로닥]</td><td>500 tid~1,000 mg bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen [낙센]</td><td>250~500 mg bid</td><td>4.10</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 mg qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen [솔레톤]</td><td>80 mg tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam [제포]</td><td>12 mg #3</td><td></td><td></td></tr><tr><td>meloxicam [모빅]</td><td>7.5~15 mg qd</td><td>3.47</td><td>상대적 COX-2 선택성, Plt 영향적음</td></tr><tr><td>piroxicam [브렉신]</td><td>10~20 mg qd</td><td>7.43</td><td>20 mg 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 mg qd</td><td>4.10</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib [쎄레브렉스]</td><td>100 mg bid, 200 mg qd</td><td>1.45</td><td>Plt 영향 없음 (보험기준 ☞ p.1196)</td></tr><tr><td>etoricoxib [알콕시아]</td><td>30~60 mg qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide [메수리드]</td><td>50~100 mg bid (최대 15d)</td><td>3.83</td><td></td></tr><tr><td>talniflumate [소말겐]</td><td>370 mg tid</td><td></td><td></td></tr></tbody></table>
 
 \*상부 위장관합병증(소화성 궤양천공, 폐쇄, 출혈)의 상대위험도\
-&#xNAN;_<mark style="color:$info;">Ref. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf 2012:35(12)</mark>_
+\&#xNAN;_<mark style="color:$info;">Ref. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf 2012:35(12)</mark>_
 
-#### **Oxford league table**&#x20;
+#### **Oxford league table**
 
 <table><thead><tr><th width="199.6842041015625">성분명 (mg)</th><th width="108.0526123046875">NNT¹⁾</th><th width="200">성분명 (mg)</th><th width="107.631591796875">NNT</th></tr></thead><tbody><tr><td>Dipyrone 1000</td><td>1.6</td><td>Lumiracoxib 400</td><td>2.7</td></tr><tr><td>Etoricoxib 120</td><td>1.6</td><td>Naproxen 500/550</td><td>2.7</td></tr><tr><td>Valdecoxib 40</td><td>1.6</td><td>Naproxen 400/440</td><td>2.7</td></tr><tr><td>Ibuprofen 600/800</td><td>1.7</td><td>Piroxicam 20</td><td>2.7</td></tr><tr><td>Valdecoxib 20</td><td>1.7</td><td>Bromfenac 10</td><td>2.9</td></tr><tr><td>Diclofenac 100</td><td>1.8</td><td>Morphine 10 (IM)</td><td>2.9</td></tr><tr><td>Ketorolac 20</td><td>1.8</td><td>Tramadol 150</td><td>2.9</td></tr><tr><td>Ketorolac 60 (IM)</td><td>1.8</td><td>Ketorolac 30 (IM)</td><td>3.4</td></tr><tr><td>Piroxicam 40</td><td>1.9</td><td>Naproxen 200/220</td><td>3.4</td></tr><tr><td>Celecoxib 400</td><td>2.1</td><td>AAP 500</td><td>3.5</td></tr><tr><td>Bromfenac 25</td><td>2.2</td><td>Celecoxib 200</td><td>3.5</td></tr><tr><td>Rofecoxib 50</td><td>2.3</td><td>AAP 1500</td><td>3.7</td></tr><tr><td>Aspirin 1200</td><td>2.4</td><td>Ibuprofen 100</td><td>3.7</td></tr><tr><td>Bromfenac 50</td><td>2.4</td><td>AAP 1000</td><td>3.7</td></tr><tr><td>Dipyrone 500</td><td>2.4</td><td>Aspirin 600/650</td><td>4.4</td></tr><tr><td>Ibuprofen 400</td><td>2.5</td><td>AAP 600/650</td><td>4.6</td></tr><tr><td>AAP 650+Trama 75</td><td>2.6</td><td>Ibuprofen 50</td><td>4.7</td></tr><tr><td>Bromfenac 100</td><td>2.6</td><td>Tramadol 100</td><td>4.8</td></tr><tr><td>Diclofenac 25</td><td>2.6</td><td>Tramadol 75</td><td>5.3</td></tr><tr><td>Ketorolac 10</td><td>2.6</td><td>Ketorolac 10 (IM)</td><td>5.7</td></tr><tr><td>Diclofenac 50</td><td>2.7</td><td>Bromfenac 5</td><td>7.1</td></tr><tr><td>Ibuprofen 200</td><td>2.7</td><td>Tramadol 50</td><td>8.3</td></tr></tbody></table>
 
 NNT: Number Needed to Treat (낮을수록 효과적)
 
-#### **Cox isoform selective**&#x20;
+#### **Cox isoform selective**
 
 (log scale)
 
