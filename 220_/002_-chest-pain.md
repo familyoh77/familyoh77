@@ -9,7 +9,44 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<table><thead><tr><th width="311.84210205078125">새로이 발생한 심한 증상</th><th>걷거나 계단 오를 때 악화</th></tr></thead><tbody><tr><td>과거에 비해 적은 활동에서 발생</td><td>휴식 시 증상 발생</td></tr><tr><td>야간통증; 통증으로 인하여 잠에서 깨어남</td><td>잿빛 피부색, 발한, 차가운 피부</td></tr><tr><td>호흡 곤란, 빠른 호흡</td><td>비대칭적 호흡음 또는 박동</td></tr><tr><td>연하 통증</td><td>반복되는 구토</td></tr><tr><td>위장 출혈</td><td>새로 발견된 심잡음</td></tr><tr><td>빠른 맥 또는 느린 맥, 저혈압</td><td>Pulsus paradoxus ＞10 mmHg</td></tr><tr><td>설명할 수 없는 체중 감소</td><td>Shock, 정신 상태 변화</td></tr><tr><td>흉통과 동반된 신경학적 결손</td><td>양측 상지 혈압 차이(>20mmHg)</td></tr></tbody></table>
+**즉각적 생명 위협 징후**
+
+| Red Flag           | 임상적 의미                  |
+| ------------------ | ----------------------- |
+| Shock, 정신 상태 변화    | 순환 붕괴의 최종 지표 — 즉각 응급 이송 |
+| 호흡 곤란, 빠른 호흡       | ACS·PE·기흉 공통 — 즉각 평가    |
+| 잿빛 피부색, 발한, 차가운 피부 | 심박출량 저하 — 심인성 쇼크 시사     |
+| 빠른 맥 또는 느린 맥, 저혈압  | 부정맥·쇼크 동반 — 심전도 즉시 시행   |
+
+**ACS / 불안정 협심증 시사**
+
+| Red Flag               | 임상적 의미               |
+| ---------------------- | -------------------- |
+| 새로이 발생한 심한 증상          | ACS 고위험              |
+| 휴식 시 증상 발생             | 불안정 협심증/NSTEMI 강력 시사 |
+| 야간통증; 통증으로 인하여 잠에서 깨어남 | 불안정 협심증 특이 패턴        |
+| 걷거나 계단 오를 때 악화         | 노력성 협심증 — 운동부하 고려    |
+| 과거에 비해 적은 활동에서 발생      | 진행성 협심증 — 임계값 저하     |
+| 새로 발견된 심잡음             | 판막 기능이상·유두근 허혈 시사    |
+
+**대동맥 박리 특이 징후**
+
+| Red Flag                  | 임상적 의미                      |
+| ------------------------- | --------------------------- |
+| 양측 상지 혈압 차이 (>20 mmHg)    | 대동맥 박리 특이 소견 — 즉시 CTA       |
+| 흉통과 동반된 신경학적 결손           | 박리의 경동맥·척추동맥 침범 시사          |
+| 비대칭적 맥박 (사지 간 박동 차이)      | 박리에 의한 분지혈관 폐색 시사           |
+| Pulsus paradoxus >10 mmHg | 심낭 압전(cardiac tamponade) 시사 |
+| 비대칭적 호흡음                  | 기흉·흉막삼출 동반 시사               |
+
+**기타 중증 원인 시사**
+
+| Red Flag            | 임상적 의미                       |
+| ------------------- | ---------------------------- |
+| 연하 통증 (odynophagia) | 식도 파열(Boerhaave) 시사 — 생명 위협적 |
+| 반복되는 구토             | 식도 파열 유발 요인, ACS 동반 가능       |
+| 위장 출혈               | 소화관 출혈·대동맥장누공 가능성            |
+| 설명할 수 없는 체중 감소      | 악성 종양·만성 중증 질환 시사            |
 
 ## <mark style="color:green;">원인</mark>
 
@@ -184,23 +221,13 @@ Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충
 
 #### 질환별 특징
 
-*   Costosternal syndrome (Costochondritis) : 보통 upper costochondral/costosternal junction 부위의 늑연골 압통,
-
-    여러 부위 압통; 부종 없음
-*   Tietze's syndrome : sternoclavicular, costosternal, costochondral joint의 비화농성 국소 통증성 부종; 대부분 2번째 및
-
-    3번째 늑골 관절에서 발생
+* Costosternal syndrome (Costochondritis) : 보통 upper costochondral/costosternal junction 부위의 늑연골 압통, 여러 부위 압통; 부종 없음
+* Tietze's syndrome : sternoclavicular, costosternal, costochondral joint의 비화농성 국소 통증성 부종; 대부분 2번째 및 3번째 늑골 관절에서 발생
 * Sternalis syndrome : 흉골 몸체 부위의 국소 압통, 종종 양측으로 방사됨
-*   Spontaneous sternoclavicular subluxation : 반복되는 힘든 작업과 관련하여 발생. 대부분 dominant side에 발생;
-
-    대부분 중년 여성에서 발생
+* Spontaneous sternoclavicular subluxation : 반복되는 힘든 작업과 관련하여 발생. 대부분 dominant side에 발생; 대부분 중년 여성에서 발생
 * Lower rib pain syndrome : costal margin에 압통점이 있는 하부 흉부 또는 상복부 통증
-*   Posterior chest wall syndrome : 흉추 추간판탈출증에 의해 야기; 이환부 압통, 편측 dermatome을 따라 통증,
-
-    기침/심호흡에 의해 악화
-*   Fibromyalgia : 강하지 않은 자극에 대하여 통증을 느낌; 다른 부위 통증 및 통증 외 증상 동반.
-
-    예) 피로, 수면 장애, 인지 장애, 우울, 불안
+* Posterior chest wall syndrome : 흉추 추간판탈출증에 의해 야기; 이환부 압통, 편측 dermatome을 따라 통증, 기침/심호흡에 의해 악화
+* Fibromyalgia : 강하지 않은 자극에 대하여 통증을 느낌; 다른 부위 통증 및 통증 외 증상 동반. 예) 피로, 수면 장애, 인지 장애, 우울, 불안
 * Rib fracture : 압통, 국소 늑막염성 통증; 보통 외상 병력이 있음 (✽외상 병력 없이도 발생할 수 있음)
 
 <table><thead><tr><th width="152.0526123046875"></th><th>시작 / 기간</th><th>증상</th><th width="122.73687744140625">부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Esophageal reflux</strong></td><td>10–60분</td><td>burning</td><td>substernal, 상복부</td><td>식후 누웠을 때 악화; 제산제로 호전</td></tr><tr><td><strong>Esophageal spasm</strong></td><td>2–30분</td><td>pressure, tightness, burning</td><td>retrosternal</td><td>angina 유사</td></tr><tr><td><strong>Peptic ulcer</strong></td><td>장시간; 식후 60–90분</td><td>burning</td><td>상복부, substernal</td><td>음식/제산제로 호전</td></tr><tr><td><strong>Gallbladder disease</strong></td><td>장시간</td><td>aching or colicky</td><td>상복부, RUQ, 때때로 back</td><td>식후 발생 가능</td></tr><tr><td><strong>Costochondritis</strong></td><td>variable</td><td>aching</td><td>sternal</td><td>때때로 관절 위 부종/압통/열감; 이환부 압박으로 증상 재현</td></tr><tr><td><strong>Cervical disk disease</strong></td><td>variable; 갑자기</td><td>aching; numbness 포함</td><td>팔, 어깨</td><td>목 움직임으로 악화</td></tr><tr><td><strong>Trauma or strain</strong></td><td>보통 일정함</td><td>aching</td><td>이환부</td><td>움직임/촉지로 증상 재현</td></tr><tr><td><strong>Herpes zoster</strong></td><td>보통 장기간</td><td>sharp or burning</td><td>피부 분절 분포</td><td>통증부 수포성 발적</td></tr><tr><td><strong>Emotional &#x26; psychiatric conditions</strong></td><td>variable; 순식간 또는 장시간</td><td>variable; 종종 공포가 있는 호흡곤란/조임</td><td>variable; substernal</td><td>증상을 유발하는 상황 요인이 있음; 공황/우울 병력</td></tr></tbody></table>
