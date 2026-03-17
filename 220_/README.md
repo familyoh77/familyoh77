@@ -3,7 +3,7 @@
 참고 가이드라인
 
 * Management of chronic pain. NICE (2019)
-* Nonpharmacologic and pharmacologic management of acute pain from non–low back, musculoskeletal injuries in adults ACP. AAFP (2020)
+* Nonpharmacologic and pharmacologic management of acute pain from non–low back, musculoskeletal injuries in adults ACP/ AAFP (2020)
 * Pharmacological management of chronic neuropathic pain. CPS (2014)
 * Practice guidelines for chronic pain management. ASA (2010)
 * Chronic pain medical treatment guidelines. AAPM (2009)

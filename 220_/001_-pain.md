@@ -24,7 +24,7 @@
 
 ### <mark style="color:$primary;">만성 통증</mark>
 
-* ＞3개월 지속 또는재발하는 통증 (ICD-11, 2019)
+* ＞3개월 지속 또는 재발하는 통증 (ICD-11, 2019)
 * 만성 통증의 type : neuropathic, muscle, inflammatory, mechanical/compressive pain
 * Neuropathic pain (신경병증성 통증) : 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하. 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통, fibromyalgia
 * Inflammatory pain : 통증 부위의 발열, 발적, 부종; 관절염, 감염, 손상, 수술 후 통증
@@ -59,7 +59,7 @@
 * 외상/염증 등 actual tissue damage에 의해 발생
 * **WHO analgesic ladder**
   1. 경증 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
-  2. 경증\~중등증 : opioid(codeine, tramadol) ± non-opioid ± 보조 치료
+  2. 경증\~중등증 : weak opioid(codeine, tramadol) ± non-opioid ± 보조 치료
   3. 중등증\~중증 : opioid(morphine, fentanyl) ± non-opioid ± 보조 치료
 
 #### Neuropathic pain (신경병증성 통증)
@@ -119,7 +119,7 @@
 * 다음 약제 병용 시 부작용 증가 : MAOI, SSRI, TCA, trimebutine(✽opioid 수용체에 작용)
 * 경련 발생 위험이 있으므로 고령이나 간/신기능 저하자에서는 감량
 * 용법 : 50 ㎎ → 필요시 증량 100 ㎎ bid\~qid \[트리돌]
-* acetaminophen 또는 NSAID 병용 으로 효과 상승
+* acetaminophen 또는 NSAID 병용으로 효과 상승
   * \[울트라셋] (acetaminophen 복합제), \[Seglentis] (celecoxib 복합제)
 
 #### Codeine
@@ -129,12 +129,12 @@
 
 #### Hydrocodone
 
-* 용법 : 2.5\~5 ㎎ 1\~2T q4\~6h, 7.5 ㎎ 1T q46h
+* 용법 : 2.5\~5 ㎎ 1\~2T q4\~6h, 7.5 ㎎ 1T q4\~6h
 * 복합제 : hydrocodone + AAP \[하이코돈]
 
 #### Oxycodone
 
-* 용법 : 초회 10 ㎎ bid/, 10\~80 ㎎/d \[옥시콘틴 서방]
+* 용법 : 초회 10 ㎎ bid, 10\~80 ㎎/d \[옥시콘틴 서방]
 
 #### Hydromorphone
 
@@ -158,7 +158,7 @@
 
 * 병력 청취, 이학적 검사, 다양한 평가 도구로 환자 상태를 파악한 이후 꼭 필요한 경우에만 고려
 * 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정; 목표 미달 시 중단 고려
-* 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야함. 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/))
+* 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야 함. 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/))
 
 **처방 시작**
 
@@ -196,8 +196,8 @@
 
 <table><thead><tr><th width="188.631591796875">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">변환계수*</th></tr></thead><tbody><tr><td><strong>정맥 주사</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td></td><td>펜타닐 (Fentanyl)</td><td>100†</td></tr><tr><td><strong>정맥 주사를 경구로 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td></td><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td></td><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
 
-* \*MME 용량 = 아편유사제의 용량(mg) × 변환계수. 예) 단일 정맥 투여 : 모르핀 10 mg = 하이드로몰폰 1.5 mg (1. 5 mg × 6.6 = 10 MME) = 펜타닐 0.1 mg (0 1 mg × 100 = 10 MME). 모르핀 10 mg 정맥 주사를 경구로 전환하면 경구 모르핀 30 mg
-* † 단일 정맥 투여의 경우, 모르핀 10 mg은 펜타닐 0.1 mg (100 mcg)과 유사하지만 만성적으로 펜타닐을 투여하는 경우 모르핀 10 mg은 펜타닐 0 25 mg (250 mcg)과 유사
+* \*MME 용량 = 아편유사제의 용량(mg) × 변환계수. 예) 단일 정맥 투여 : 모르핀 10 mg = 하이드로몰폰 1.5 mg (1. 5 mg × 6.6 = 10 MME) = 펜타닐 0.1 mg (0.1 mg × 100 = 10 MME). 모르핀 10 mg 정맥 주사를 경구로 전환하면 경구 모르핀 30 mg
+* † 단일 정맥 투여의 경우, 모르핀 10 mg은 펜타닐 0.1 mg (100 mcg)과 유사하지만 만성적으로 펜타닐을 투여하는 경우 모르핀 10 mg은 펜타닐 0.25 mg (250 mcg)과 유사
 * MME 전환은 추정치로 아편유사제 회전이나 전환을 고려 시 MME에서 계산된 용량을 그대로 사용하면 안 되고 불완전한 교차 내성과 아편유사제 약동학의 개별 가변성 때문에 과다 복용을 피하기 위해 계산된 MME 용량보다 상당히 낮은 용량으로 투여
 * 변환계수의 아편유사제 사용장애 관리와 관련된 용량 결정에 적용은 불가.
 
@@ -359,7 +359,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 #### 주의/금기
 
-* 궤양 위험 인자가 있는 환자 : 고령(＞65세), 소화성 궤양 또는 위장관 출혈 병력, IBD, 출혈 경향(혈소판 기능 장애, 항응고 치료 포함), NASIDs 복합 또는 고용량 투여, steroid 투여
+* 궤양 위험 인자가 있는 환자 : 고령(＞65세), 소화성 궤양 또는 위장관 출혈 병력, IBD, 출혈 경향(혈소판 기능 장애, 항응고 치료 포함), NSAIDs 복합 또는 고용량 투여, steroid 투여
 * 심혈관 질환(MI, 뇌졸중, 정맥혈전증, 조절되지 않는 고혈압), 간/신 장애
 * aspirin 과민 천식 (✽간혹 aspirin 알레르기 환자에서 NSAID에 알레르기 반응이 발생함)
 * 약물 상호 작용 : 항고혈압제(ACEI/이뇨제 효과↓), warfarin(INR↑), lithium, methotrexate, 저용량 aspirin(심혈관 보호 효과↓)
@@ -367,7 +367,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 #### 부작용
 
 * 위장관 : 소화불량, 구역, 복부 팽만, 소화성 궤양(발생 빈도: 2%/년, 복수의 위험 인자가 있는 경우 10\~20%/년), 위장관 출혈(전조 증상 없이 갑자기 발생함)
-  * 위장 출혈 위험 인자 : 장기 사용, ＞70세, 고용량, 위험이 보다 높은 NSAID, NSAID 병용, 항응고제(aspirin)/steroid/SSRI 병용, 중증 질환, H. pylori 감염, 소화성 궤양 과거력, 알코올 남용
+  * 위장 출혈 위험 인자 : 장기 사용, ＞70세, 고용량, 위험이 보다 높은 NSAID, NSAID 병용, 항응고제/항혈소판제(aspirin)/steroid/SSRI 병용, 중증 질환, H. pylori 감염, 소화성 궤양 과거력, 알코올 남용
 * 피부 : 발진, 두드러기; 드물게 toxic epidermal necrolysis, Stevens-Johnson syndrome
 * 혈소판 응고 저해(투약 종료 후 2일까지 영향)
 * 심혈관 질환, 간염(특히 sulindac, diclofenac), 신 독성/신부전, 천식 악화, 체액 저류(부종, 혈압↑)
@@ -418,7 +418,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 NNT = Number Needed to Treat; 통증이 ≥50% 감소한 환자 1명을 얻기 위하여 투여 해야 하는 환자수 (낮을수록 효과적)
 
-#### **Cox isoform selective**
+#### **Cox isoform selectivity**
 
 (log scale)
 
