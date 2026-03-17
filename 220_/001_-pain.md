@@ -9,7 +9,7 @@
   * 예) 시각적 아날로그 통증 스케일(visual analogue scale for pain, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
 * 검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
 
-### 🚩 <mark style="color:$danger;">Red Flag!</mark>
+### 🚩 <mark style="color:$danger;">Red Flags!</mark>
 
 * 주요 외상 또는 고령/골다공증 환자에서 경미한 외상 후 발생한 심한 통증
 * 면역 저하 또는 면역억제제 투여
