@@ -34,8 +34,7 @@
 * 약물 : benzodiazepine, barbiturate, **steroid(특히 dexamethasone — 항암 화학요법 시 흔한 원인)**, α-methyldopa, propofol
 
 {% hint style="warning" %}
-**Dexamethasone 역설**
-항암 화학요법 유발 오심 예방 목적으로 투여한 dexamethasone 자체가 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 **methylprednisolone으로 교체**하면 호전되는 경우가 많음 (치료 섹션의 dexamethasone 항목도 참고)
+**Dexamethasone 역설** 항암 화학요법 유발 오심 예방 목적으로 투여한 dexamethasone 자체가 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 **methylprednisolone으로 교체**하면 호전되는 경우가 많음 (치료 섹션의 dexamethasone 항목도 참고)
 {% endhint %}
 
 ## <mark style="color:green;">진단</mark>
@@ -76,6 +75,8 @@
 {% endtab %}
 {% endtabs %}
 
+
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
@@ -85,26 +86,39 @@
 
 ## <mark style="color:green;">비약물 치료</mark>
 
+* 복부 팽만 회피 : 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함 (☞ p.1170)
+*   고탄산혈증, 미주신경/횡격막 자극 유도 : 숨 참기, 과호흡, 재채기, 종이봉투에 대고 숨쉬기, Valsalva maneuver,
+
+    상체를 앞으로 숙여 knee-chest 자세 유지, 놀라게 하기
+* 미주신경 반대 자극 : supraorbit 압박, carotid sinus 마사지(고령 또는 허혈성 심질환에서는 피함), 직장 수지 마사지
+*   인두 자극 : 얼음물 마시기, 입자가 굵은 설탕 삼키기(1 teaspoon), 신 음식(예: 식초) 맛보기, 레몬 씹기, 혀 당기기,
+
+    찬 숟가락으로 목젖 밀어 올리기
+
 **복부 팽만 회피**
+
 * 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함 (☞ p.1170)
 
 **고탄산혈증 유도 — 횡격막 피로 유발**
-1. 숨 참기 (10~20초)
+
+1. 숨 참기 (10\~20초)
 2. 종이봉투에 대고 재호흡
-3. Valsalva maneuver : 코와 입을 막고 강하게 호기 시도, 10~15초 유지
+3. Valsalva maneuver : 코와 입을 막고 강하게 호기 시도, 10\~15초 유지
 4. 과호흡 후 재채기 유발
 
-<!-- IMAGE: knee-chest 자세 삽화 -->
 **미주신경/횡격막 자극**
+
 * 상체를 앞으로 숙여 knee-chest 자세 유지
-* 양 무릎을 가슴 쪽으로 당겨 앉은 자세로 10~20초 유지
+* 양 무릎을 가슴 쪽으로 당겨 앉은 자세로 10\~20초 유지
 
 **미주신경 반대 자극**
+
 * Supraorbital 압박
 * Carotid sinus 마사지 ⚠️ 고령 또는 허혈성 심질환에서는 피함
 * 직장 수지 마사지 (입원 환경)
 
 **인두 자극**
+
 * 얼음물 천천히 마시기
 * 입자가 굵은 설탕 삼키기 (1 teaspoon)
 * 식초 등 신 음식 맛보기, 레몬 씹기
@@ -112,6 +126,7 @@
 * 찬 숟가락으로 목젖 밀어 올리기
 
 **비인두 카테터 자극** _(입원·응급 환경에서 고려)_
+
 * 가는 NG tube를 비인두까지 삽입하여 물리적으로 미주신경 반사를 유도하는 방법
 * 난치성 딸꾹질에서 비약물 치료 중 가장 강력한 방법 중 하나
 
@@ -119,35 +134,35 @@
 
 * 치료 약물에 대한 충분한 연구는 부족함
 * 근이완제, 항경련제, 항정신병제의 경우 졸음, 어지럼, 저혈압 등 부작용 주의
-* 치료 기간 : 7~10일 (보험주의)
+* 치료 기간 : 7\~10일 (보험주의)
 
 #### 근이완제 _(실질적 1차 선택 — 부작용 프로파일 양호)_
 
 * 금기 : CNS 이상
-* baclofen : 5~10 ㎎ tid \[바크론] ← 난치성 딸꾹질에서 근거 가장 많음
-* cyclobenzaprine : 15~30 ㎎ qd 서방형 \[본렉스 이알]
+* baclofen : 5\~10 ㎎ tid \[바크론] ← 난치성 딸꾹질에서 근거 가장 많음
+* cyclobenzaprine : 15\~30 ㎎ qd 서방형 \[본렉스 이알]
 
 #### 항경련제 _(1차 대안 — 특히 신경인성 원인)_
 
-* gabapentin : 300 ㎎ hs → 300~400 ㎎ tid \[뉴론틴] ← 장기 사용 시 의존성 주의
-* carbamazepine : 200 ㎎ tid~qid \[테그레톨]
-* phenytoin : 200~300 ㎎ hs \[히단토인]
+* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid \[뉴론틴] ← 장기 사용 시 의존성 주의
+* carbamazepine : 200 ㎎ tid\~qid \[테그레톨]
+* phenytoin : 200\~300 ㎎ hs \[히단토인]
 
 #### 항정신병제 _(2차 선택 — FDA 승인 약물이나 부작용으로 후순위)_
 
-* chlorpromazine : 난치성 딸꾹질 유일한 FDA 승인 약물; 25~50 ㎎ tid~qid \[클로르프로마진]
+* chlorpromazine : 난치성 딸꾹질 유일한 FDA 승인 약물; 25~~50 ㎎ tid~~qid \[클로르프로마진]
   * ⚠️ 저혈압, 과도한 진정, 추체외로 증상 — 노인·저혈압 환자 주의
-* haloperidol : 초회 2~5 ㎎ 후 1~2 ㎎ tid \[페리돌]
+* haloperidol : 초회 2~~5 ㎎ 후 1~~2 ㎎ tid \[페리돌]
 
 #### 위장 운동 촉진제
 
-* metoclopramide : 5~10 ㎎ tid~qid \[맥페란]
-* domperidone : 10~20 ㎎ tid \[모티리움 엠]
+* metoclopramide : 5~~10 ㎎ tid~~qid \[맥페란]
+* domperidone : 10\~20 ㎎ tid \[모티리움 엠]
 
 #### PPI, 제산제
 
 * 위장관에서 hiccup center로의 자극 감소 효과 기대
-* omeprazole : 20~40 ㎎/d \[오엠피]
+* omeprazole : 20\~40 ㎎/d \[오엠피]
 
 #### 기타
 
@@ -157,11 +172,12 @@
 
 {% hint style="warning" %}
 **Benzodiazepine 계열 주의**
+
 * 딸꾹질을 오히려 **역설적으로 유발**할 수 있음(paradoxical reaction)
 * 근이완 효과로 인해 노인 환자에서 **흡인(aspiration) 위험** 증가
 * 딸꾹질 치료 목적의 단독 1차 사용은 권장하지 않음; 불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
 
-diazepam 2~5 ㎎ bid~tid \[디아제팜] / lorazepam 0.5~2 ㎎ qid \[아티반]
+diazepam 2~~5 ㎎ bid~~tid \[디아제팜] / lorazepam 0.5\~2 ㎎ qid \[아티반]
 {% endhint %}
 
 ### <mark style="color:$primary;">난치성 딸꾹질 — 전문과 의뢰</mark>
