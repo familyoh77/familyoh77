@@ -6,14 +6,37 @@
 
 ### <mark style="color:$primary;">위험도 단계</mark>
 
-<table><thead><tr><th width="190.42108154296875">저위험</th><th width="190.10528564453125">의뢰</th><th width="230.22528076171875">응급 의뢰</th></tr></thead><tbody><tr><td><p>•빠르거나/쿵거리는 맥박</p><p>•Short fluttering<br>•느린 박동 AND<br>•정상 ECG AND<br>•가족력 없음 AND<br>•심장의 구조적 질환 없음</p></td><td><p>•tachyarrhythmia 반복 의심 병력</p><p>•증상들과 관련된 두근거림 AND/OR<br>•비정상 ECG AND/OR<br>•심장의 구조적 질환 있음 </p></td><td>•exercise 중 발생 •syncope or near syncope 동반 (☞ p.103)<br>•고위험 구조적 심장 질환 있음<br>•유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력<br>•High degree AV block </td></tr></tbody></table>
+{% hint style="success" %}
+**저위험** — 외래 관찰
+
+* 빠르거나 / 쿵거리는 맥박
+* Short fluttering
+* 느린 박동 **AND** 정상 ECG **AND** 가족력 없음 **AND** 심장의 구조적 질환 없음
+{% endhint %}
+
+{% hint style="warning" %}
+**의뢰** — 심장내과 외래
+
+* Tachyarrhythmia 반복 의심 병력
+* 증상들과 관련된 두근거림 **AND/OR** 비정상 ECG **AND/OR** 심장의 구조적 질환 있음
+{% endhint %}
+
+{% hint style="danger" %}
+**응급 의뢰** — 즉시 이송
+
+* Exercise 중 발생
+* Syncope or near-syncope 동반 (☞ 실신 참고)
+* 고위험 구조적 심장 질환 있음
+* 유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력
+* High degree AV block
+{% endhint %}
 
 _<mark style="color:$info;">Ref. Management of palpitations in primary care guideline. NICE. 2018.</mark>_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 * 흉통 동반, 수면 장애 유발
-* syncope or near-syncope
+* Syncope or near-syncope
 * 호흡 곤란, 기좌 호흡
 * 빈호흡(＞30회/분)
 * 빈맥(＞130회/분)
@@ -26,25 +49,25 @@ _<mark style="color:$info;">Ref. Management of palpitations in primary care guid
 ### <mark style="color:$primary;">심장 원인</mark>
 
 * 심방세동(15%), 심실상성빈맥(10%), 구조적 심장 질환
-  1. “flip-flopping” (or “stop and start”) : 심방이나 심실의 조기 수축
-  2. rapid “fluttering in the chest”
-     * regular “fluttering” : supraventricular 또는 ventricular arrhythmias(sinus tachycardia 포함)
-     * irregular “fluttering” : variable block(atrial fibrillation, atrial flutter, tachycardia)
-  3.  pounding in the neck”(neck pulsations) : right atrium
-
-      contract(jugular venous pulsations)
-* chest pain 동반 → 허혈성 심질환
+  1. "flip-flopping" (or "stop and start") : 심방이나 심실의 조기 수축
+  2. rapid "fluttering in the chest"
+     * regular "fluttering" : supraventricular 또는 ventricular arrhythmias(sinus tachycardia 포함)
+     * irregular "fluttering" : variable block(atrial fibrillation, atrial flutter, tachycardia)
+  3. "pounding in the neck"(neck pulsations) : right atrium contract(jugular venous pulsations)
+* Chest pain 동반 → 허혈성 심질환
 * 몸을 앞으로 기울이면 호전 → 심막 질환
-* light-headedness, presyncope or syncope → 저혈압, 중증 부정맥
+* Light-headedness, presyncope or syncope → 저혈압, 중증 부정맥
 * 힘든 작업 시 발생 → rate-dependent bypass tract, hypertrophic cardiomyopathy
 
 ### <mark style="color:$primary;">비심장 원인</mark>
 
 * 정신적 요인(가장 흔함; 30%) : 공포, 불안, 우울, 신체화 증상, 스트레스; 보통 ＞15분 지속
   * 과호흡, hand tingling, 과민 반응 → 불안, 공황 장애
+  * 기질적 심장 질환이 배제된 경우에도 심장 감각 과민(cardiac sensory hypervigilance) 상태로 설명할 수 있음; "심장에 이상이 없다"는 단순 부정보다 "심장이 예민해진 상태"임을 설명하고 신체 증상 장애(Somatic Symptom Disorder) 관점에서 접근하면 환자 수용도가 높아짐
 * 대사/전해질 이상 : thyrotoxicosis/갑상선항진증, 저혈압, 저혈당, 탈수(설사), 폐경기증후군
   * 체중 감소, tremulousness, 심부 건반사 항진, 미세한 손 떨림 → 갑상선항진증
   * 홍조, 일시적 고혈압, 두통, 불안, 발한 → pheochromocytoma, paraganglioma
+* 수면무호흡증(OSA) : 야간 두근거림, 심방세동의 독립적 위험인자; 코골이·주간 과다졸음·비만 동반 시 의심
 * 심박출량 증가 상태 : 빈혈, 발열, 임신, 월경, 운동, 기립성 저혈압
 * 약물 : 교감 신경 항진제(예: 다이어트 약물, 충혈 제거제, 천식 흡입제), 항부정맥제, 혈관 확장제, 항콜린제, β-차단제 금단, 카페인(예: 커피, 코코아, 초콜릿, 에너지 드링크), 니코틴, 코카인, 암페타민, 알코올
 * 허브 및 영양 보충제, 특정 음식
@@ -60,13 +83,35 @@ _<mark style="color:$info;">Ref. Management of palpitations in primary care guid
 ### <mark style="color:green;">치료 방침</mark>
 
 * 원인 질환에 대한 치료. 그 외에는 대부분 치료 필요 없음
-* SVT 동반 두근거림 : Valsalva maneuver (☞ 호흡 곤란 참고); 고령 또는 허혈성 심질환에서는 경동맥동 마사지 피함
+* SVT 동반 두근거림 : **Modified Valsalva Maneuver** 우선 시도 (아래 참고)
 * 불안, 스트레스 해소 : 명상, 바이오피드백
 * 강화 : 매일 유산소 운동, 활발한 신체 활동
 * 적당한 체중 유지
 * 카페인 함유 음료, 술 등 원인 음식을 피함
 * 금연
 * 감기약, 허브 등 흥분을 일으키는 약물을 피함
+
+{% hint style="info" %}
+**Modified Valsalva Maneuver** (REVERT trial, Lancet 2015)
+
+표준 Valsalva에 비해 동율동 전환 성공률이 약 43% vs 17%로 유의하게 높음
+
+**방법**
+1. 환자를 45도 반좌위로 앉힘
+2. 10 mL 주사기 피스톤을 입으로 불어 움직일 정도의 힘으로 **15초간** Valsalva 시행
+3. 즉시 **평평하게 눕히고 다리를 45도 거상**, 15초 유지
+4. 다시 앉은 자세로 돌아옴
+
+⚠️ 고령 또는 허혈성 심질환에서는 경동맥동 마사지 피함
+{% endhint %}
+
+### <mark style="color:$primary;">진단 보조 : 장기 심전도 모니터링</mark>
+
+* 표준 12-lead ECG는 간헐적 두근거림 포착에 한계가 있음
+* 증상 재현이 어렵거나 반복되는 경우 다음을 고려:
+  * **패치형 장기 심전도** (예: 메모패치, KardiaMobile) : 수일~수주 연속 기록 가능
+  * **스마트워치 ECG** (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능
+  * **24시간 Holter 검사** : 증상 빈도가 매일인 경우
 
 ### <mark style="color:$primary;">대증 치료</mark>
 
@@ -98,3 +143,11 @@ R00.2 두근거림
 > 헤르벤 서방정 90 ㎎/T 2T #2  
 > 아티반 0.5 ㎎/T 2T #2
 > ```
+
+{% hint style="warning" %}
+**인데놀(Propranolol) 처방 시 주의**
+
+* 비선택적 β-차단제로 기관지경련 위험 — **천식·COPD 환자에게는 원칙적으로 금기**; 불가피한 경우 cardioselective β-차단제(예: metoprolol) 대체 고려
+* 투여 전 및 추적 시 맥박 확인 — **안정 시 맥박 ＜55회/분이면 용량 감량 또는 보류**
+* 임산부·수유부, 중증 말초혈관질환, Raynaud 현상에도 주의
+{% endhint %}
