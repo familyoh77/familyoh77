@@ -19,6 +19,11 @@
 
 * Tachyarrhythmia 반복 의심 병력
 * 증상들과 관련된 두근거림 **AND/OR** 비정상 ECG **AND/OR** 심장의 구조적 질환 있음
+
+🚩 **다음 동반 증상은 심장내과 의뢰 강화 근거**
+* 흉통 동반 또는 수면 장애 유발
+* 하지 부종 (심부전 시사)
+* 국소 신경학적 증상 (색전증 시사)
 {% endhint %}
 
 {% hint style="danger" %}
@@ -29,20 +34,14 @@
 * 고위험 구조적 심장 질환 있음
 * 유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력
 * High degree AV block
+
+🚩 **다음 활력징후·증상은 즉각 응급 처치 필요**
+* 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
+* 빈호흡(＞30회/분) 또는 호흡 곤란, 기좌 호흡
+* 빈맥(＞130회/분)
 {% endhint %}
 
 _<mark style="color:$info;">Ref. Management of palpitations in primary care guideline. NICE. 2018.</mark>_
-
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-* 흉통 동반, 수면 장애 유발
-* Syncope or near-syncope
-* 호흡 곤란, 기좌 호흡
-* 빈호흡(＞30회/분)
-* 빈맥(＞130회/분)
-* 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
-* 하지 부종
-* 국소 신경학적 증상
 
 ## <mark style="color:green;">원인</mark>
 
