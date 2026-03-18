@@ -1,10 +1,10 @@
-# 체중 감소 Weight Loss
+# 체중 감소 Weight loss
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 일반적 체중 변화 : 40\~50대까지 증가, 이후 10년에 1\~2 ㎏씩 점차 감소
 * 의도하지 않게 6(\~12)개월 내 평소 체중의 ≥5% 감소 시 유의미
-  * 고령(≥65세)에서는 ≥5%/6개월 또는 ≥10%/12개월을 유의미한 기준으로 별도 적용하기도 함 (ESPEN 2019)
+  * 고령(≥65세)에서는 ≥5%/6개월 또는 ≥10%/12개월을 유의미한 기준으로 별도 적용하기도 함
 * 고령에서의 의도하지 않은 체중 감소는 일상 생활 기능 저하, 중증 질환 증가, 고관절 골절 증가, 전체 사망률 증가와 관련됨
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -15,24 +15,17 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* 암 : 연구에 따라 차이가 있으나 약 16\~30%
-* 위장 장애 : 15%; 잘 맞지 않는 틀니, 충치, 삼킴 장애, 흡수 장애, 췌장 부전
-* 심부전
-* 심리적 문제 : 15%; 치매, 우울증, 편집증
-* 내분비 장애(갑상선 장애, 당뇨병)
-* 섭식 문제 : 식이 제한, 가난
-* 사회적 문제 : 알코올 사용 장애, 사회적 고립
-* 약물 부작용
+* 암(연구에 따라 차이가 있으나 약 16\~30%), 위장 장애(15%; 잘 맞지 않는 틀니, 충치, 삼킴 장애, 흡수 장애, 췌장 부전), 심부전, 심리적 문제(15%; 치매, 우울증, 편집증), 내분비 장애(갑상선 장애, 당뇨병), 섭식 문제(식이 제한, 가난), 사회적 문제(알코올 사용 장애, 사회적 고립), 약물 부작용
 * 원인 미상 : 검사에도 불구하고 \~¼에서는 원인을 찾을 수 없음
 
 #### 체중 감소와 관련된 부작용이 있는 약물들
 
-* 미각/후각 변화 : ACEI, CCB, 항생제, 항콜린제, 항히스타민제, spironolactone, propranolol, levodopa, selegiline, allopurinol
-* 식욕 저하 : SSRIs, metformin, GLP-1 수용체 작용제(예: semaglutide, liraglutide), opiates, 항경련제, 항정신병약, neuroleptics, benzodiazepine, 항생제, digoxin, levodopa, theophylline
-* 체중 감소 : SGLT-2 억제제(당뇨 고령 환자에서 의도하지 않은 체중 감소를 악화시킬 수 있음)
-* 입마름 : 항콜린제, 항히스타민제, loop diuretics, clonidine
-* 소화불량 : NSAID, bisphosphonate, iron, potassium, doxycycline, gold
-* 구역/구토 : metformin, SSRIs, 항생제, bisphosphonate, statins, TCA, dopamine agonist, digoxin
+* 미각/후각 변화 : allopurinol, 항생제, 항콜린제, 항히스타민제, ACEI, levodopa, CCB, propranolol, selegiline, spironolactone
+* 식욕 저하 : 항생제, 항경련제, 항정신병약, benzodiazepine, digoxin, levodopa, metformin, neuroleptics, opiates, SSRIs, theophylline, GLP-1 수용체 작용제(예: semaglutide, liraglutide)
+* 체중 감소 : SGLT-2 억제제 (당뇨 고령 환자에서 의도하지 않은 체중 감소를 악화시킬 수 있음)
+* 입마름 : 항콜린제, 항히스타민제, clonidine, loop diuretics
+* 소화불량 : bisphosphonate, doxycycline, gold, iron, NSAID, potassium
+* 구역/구토 : 항생제, bisphosphonate, digoxin, dopamine agonist, metformin, statins, SSRIs, TCA
 
 ## <mark style="color:green;">진단</mark>
 
@@ -49,7 +42,7 @@
 #### 2단계 검사
 
 * 1단계 검사에서 정상인 경우 고려
-* CT(흉부·복부·골반) : 원인 불명의 체중 감소에서 악성 종양 및 복강 내 병변 감별을 위하여 시행 권고 (NICE 2023, ESPEN 2019)
+* CT(흉부·복부·골반) : 원인 불명의 체중 감소에서 악성 종양 및 복강 내 병변 감별에 유용하며 임상에서 활용도가 증가하고 있음; 근거 수준은 아직 제한적
 * 흡수 장애 검사, 위/대장 내시경
 * 암 선별 검사 : Pap-smear, mammography, PSA
 
@@ -67,11 +60,8 @@
 ## <mark style="color:green;">약물 치료</mark>
 
 * 식욕 자극제 : steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine); 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
-  * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려
-    * 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종
-    * 용량 : 60\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) \[메게이스]
-  * mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려
-    * 용량 : 15\~30 ㎎/d \[레메론]; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능
+  * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) \[메게이스]
+  * mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능; 15\~30 ㎎/d \[레메론]
 * anticatabolic agent : 오메가-3(암 관련 악액질에서 일부 근거; 일반적 체중 감소에서는 제한적), pentoxifylline, hydrazine sulfate(임상적 유효성 미입증), thalidomide(국내 처방 적응증 제한)
 * 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함 \[트레스탄]\(비보험)
 
