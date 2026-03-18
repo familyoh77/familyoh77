@@ -2,29 +2,30 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 일반적 체중 변화 : 40\~~~50대까지 증가, 이후 10년에 1\~~~2 ㎏씩 점차 감소
+* 일반적 체중 변화 : 40\~50대까지 증가, 이후 10년에 1\~2 ㎏씩 점차 감소
 * 의도하지 않게 6(\~12)개월 내 평소 체중의 ≥5% 감소 시 유의미
-* 고령에서의 의도하지 않은 체중 감소는 일생 생활 기능 저하, 중증 질환 증가, 고관절 골절 증가, 전체 사망률 증가와 관련됨
+  * 고령(≥65세)에서는 ≥5%/6개월 또는 ≥10%/12개월을 유의미한 기준으로 별도 적용하기도 함 (ESPEN 2019)
+* 고령에서의 의도하지 않은 체중 감소는 일상 생활 기능 저하, 중증 질환 증가, 고관절 골절 증가, 전체 사망률 증가와 관련됨
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-* 심한 단백질
-* 에너지 영양실조
+* 심한 단백질·에너지 영양실조
 * Vitamin deficiency syndrome
 * 조절되지 않는 정신 문제와 관련된 진행하는 체중 감소가 있는 cachexia
 
 ## <mark style="color:green;">원인</mark>
 
-* 암(30%), 위장 장애(15%; 잘 맞지 않는 틀니, 충치, 삼킴 장애, 흡수 장애, 췌장 부전), 심부전, 심리적 문제(15%; 치매, 우울증, 편집증), 내분비 장애(갑상선 장애, 당뇨병), 섭식 문제(식이 제한, 가난), 사회적 문제(알코올 사용 장애, 사회적 고립), 약물 부작용
+* 암(연구에 따라 차이가 있으나 약 16\~30%), 위장 장애(15%; 잘 맞지 않는 틀니, 충치, 삼킴 장애, 흡수 장애, 췌장 부전), 심부전, 심리적 문제(15%; 치매, 우울증, 편집증), 내분비 장애(갑상선 장애, 당뇨병), 섭식 문제(식이 제한, 가난), 사회적 문제(알코올 사용 장애, 사회적 고립), 약물 부작용
 * 원인 미상 : 검사에도 불구하고 \~¼에서는 원인을 찾을 수 없음
 
 #### 체중 감소와 관련된 부작용이 있는 약물들
 
 * 미각/후각 변화 : allopurinol, 항생제, 항콜린제, 항히스타민제, ACEI, levodopa, CCB, propranolol, selegiline, spironolactone
-* 식욕 저하 : 항생제, 항경련제, 항정신병약, benzodiazepine, digoxin, levodopa, metformin, neuroleptics, opiates, SSRIs, theophylline
+* 식욕 저하 : 항생제, 항경련제, 항정신병약, benzodiazepine, digoxin, levodopa, metformin, neuroleptics, opiates, SSRIs, theophylline, GLP-1 수용체 작용제(예: semaglutide, liraglutide)
+* 체중 감소 : SGLT-2 억제제 (당뇨 고령 환자에서 의도하지 않은 체중 감소를 악화시킬 수 있음)
 * 입마름 : 항콜린제, 항히스타민제, clonidine, loop diuretics
 * 소화불량 : bisphosphonate, doxycycline, gold, iron, NSAID, potassium
-* 구역/구토 : 항생제, bisphosphonate, digoxin, dopamine agonist, metformin, statins, SRIs, TCA
+* 구역/구토 : 항생제, bisphosphonate, digoxin, dopamine agonist, metformin, statins, SSRIs, TCA
 
 ## <mark style="color:green;">진단</mark>
 
@@ -34,13 +35,14 @@
 
 * 체중 변화 경과, 약물 복용력
 * 신체검사(특히 치아 문제), 정서/인지 문제 평가(예: 우울증, 치매)
-* 실험실 검사 : CBC, LFT, RFT, TSH, 혈당, CRP, ESR, urinalysis, 대변 잠혈
+* 실험실 검사 : CBC, LFT, RFT, TSH, 혈당, CRP, ESR, urinalysis, 대변 잠혈, HIV
 * 영상 검사 : 흉부 X선, UGI, 복부 초음파
-* 1단계 검사에서 특이점이 없는 경우 3\~6개월 관찰 고려
+* 1단계 검사에서 특이점이 없는 경우 3\~6개월 관찰 고려; 증상 변화 시 즉시 재평가
 
 #### 2단계 검사
 
 * 1단계 검사에서 정상인 경우 고려
+* CT(흉부·복부·골반) : 원인 불명의 체중 감소에서 악성 종양 및 복강 내 병변 감별을 위하여 시행 권고 (NICE 2023, ESPEN 2019)
 * 흡수 장애 검사, 위/대장 내시경
 * 암 선별 검사 : Pap-smear, mammography, PSA
 
@@ -51,17 +53,17 @@
 * 기저 질환 치료, 식사를 저해할 수 있는 약물 사용 중단
 * 식사 환경 개선 : 여유로운 식사, 즐거운 식사, 함께하는 식사
 * 식단 수정 : 금기증이 없다면 향신료(예: 소금) 사용, 씹기 쉬운 음식, 환자 선호 음식
-* 칼로리 보충 : 체중 감소 정도에 따라 200\~~~1,000 ㎉/d 또는 30\~~~40 ㎉/㎏/d의 영양식을 정상 식사를 방해하지 않도록 식후 또는 식사 2시간 이전에 제공 \[뉴케어, 에너지바]
+* 칼로리 보충 : 체중 감소 정도에 따라 200\~1,000 ㎉/d 또는 30\~40 ㎉/㎏/d의 영양식을 정상 식사를 방해하지 않도록 식후 또는 식사 2시간 이전에 제공 \[뉴케어, 에너지바]
 * exercise training : 저항 운동, 유산소 운동
 * 약물 치료 고려
 
 ## <mark style="color:green;">약물 치료</mark>
 
 * 식욕 자극제 : steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine); 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
-  * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증, 부신부전; 160\~400 ㎎/d \[메게이스]
-  * mirtazapine : 우울증이 있는 체중 감소 환자에서 고려 (✽12%에서 체중이 증가가 되었다는 보고가 있음 ); 15\~30 ㎎/d \[레메론]
-* anticatabolic agent : 오메가-3, pentoxifylline, hydrazine sulfate, thalidomide
-* 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함 \[트레스탄]\(비보험)
+  * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) \[메게이스]
+  * mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능; 15\~30 ㎎/d \[레메론]
+* anticatabolic agent : 오메가-3(암 관련 악액질에서 일부 근거; 일반적 체중 감소에서는 제한적), pentoxifylline, hydrazine sulfate(임상적 유효성 미입증), thalidomide(국내 처방 적응증 제한)
+* 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함 \[트레스탄](비보험)
 
 ### <mark style="color:purple;">질병코드</mark>
 
@@ -69,13 +71,13 @@ R63.4 이상체중감소
 
 ## <mark style="color:orange;">처방례</mark>
 
-> **처방례 1.**&#x20;
+> **처방례 1.**
 >
 > ```
 > 메게이스 10 ㎖(400 ㎎) 1P qd
 > ```
 >
-> **처방례 2.**&#x20;
+> **처방례 2.**
 >
 > ```
 > 트레스탄 1C bid 식전
