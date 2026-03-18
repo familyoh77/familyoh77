@@ -107,25 +107,25 @@ _\*65세 미만에서 CCTA 선호_
 
 **Myocardial ischemia**
 
-| 시작 / 기간 | 증상 | 부위 | 동반 특징 |
-| --- | --- | --- | --- |
-| • Stable angina: 운동, 추위, 스트레스에 의해 유발; 2–10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속 | pressure, tightness, squeezing, heaviness, burning | retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부<br><br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번 | 통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br><br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관 기능장애 포함 (2021 AHA/ACC; 2025 ACS Guideline) |
+| 시작 / 기간                                                                                                              | 증상                                                 | 부위                                                                                                           | 동반 특징                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2–10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속</p> | pressure, tightness, squeezing, heaviness, burning | <p>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부<br><br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번</p> | <p>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br><br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관 기능장애 포함 (2021 AHA/ACC; 2025 ACS Guideline)</p> |
 
 **Pericarditis**
 
-| 시작 / 기간 | 증상 | 부위 | 동반 특징 |
-| --- | --- | --- | --- |
-| variable: 수 시간–수일; 급성·재발성·만성으로 분류 | pleuritic, sharp; 눕거나 심호흡·기침 시 악화 | retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge) | 앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br><br>※ 진단: 흉통·friction rub·광범위 ST 상승/PR 하강·새 삼출 중 ≥2개 (2025 ESC/ACC)<br>※ Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>※ 고위험: 발열 >38°C, 대량 삼출, 심낭압전, NSAIDs 무반응 |
+| 시작 / 기간                           | 증상                                | 부위                                                                  | 동반 특징                                                                                                                                                                                                                               |
+| --------------------------------- | --------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| variable: 수 시간–수일; 급성·재발성·만성으로 분류 | pleuritic, sharp; 눕거나 심호흡·기침 시 악화 | retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge) | <p>앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br><br>※ 진단: 흉통·friction rub·광범위 ST 상승/PR 하강·새 삼출 중 ≥2개 (2025 ESC/ACC)<br>※ Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>※ 고위험: 발열 >38°C, 대량 삼출, 심낭압전, NSAIDs 무반응</p> |
 
 **Acute aortic syndrome**
 
-| 시작 / 기간 | 증상 | 부위 | 동반 특징 |
-| --- | --- | --- | --- |
-| 통증이 갑자기 시작되어 줄어들지 않음; 최대강도 즉시 도달 | 찢어지는, 칼로 찌르는 느낌 | ant chest; 종종 방사통 (back, 양 견갑골 사이)\* | HTN, 기저 결합조직 질환; 대동맥부전 의심 잡음; 말초 맥박 소실·비대칭<br><br>※ AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU) (2022 ACC/AHA; 2024 ESC)<br>※ ADD-RS 활용 권장; 확진은 ECG-gated CT angiography (neck–pelvis) |
+| 시작 / 기간                          | 증상              | 부위                                   | 동반 특징                                                                                                                                                                                             |
+| -------------------------------- | --------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 통증이 갑자기 시작되어 줄어들지 않음; 최대강도 즉시 도달 | 찢어지는, 칼로 찌르는 느낌 | ant chest; 종종 방사통 (back, 양 견갑골 사이)\* | <p>HTN, 기저 결합조직 질환; 대동맥부전 의심 잡음; 말초 맥박 소실·비대칭<br><br>※ AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU) (2022 ACC/AHA; 2024 ESC)<br>※ ADD-RS 활용 권장; 확진은 ECG-gated CT angiography (neck–pelvis)</p> |
 
 \*등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨
 
-_<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1 기반; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis & Pericarditis Guidelines, 2025 ACC/AHA ACS Guideline 내용 반영하여 보완</mark>_
+_<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis & Pericarditis Guidelines, 2025 ACC/AHA ACS Guideline</mark>_
 
 #### 급성 심근경색 가능성
 
@@ -150,19 +150,13 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 <table><thead><tr><th width="359.52630615234375">소견</th><th width="82.803466796875">배점</th></tr></thead><tbody><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>1</td></tr><tr><td>CAD, 뇌혈관 질환 또는 말초혈관 질환 병력</td><td>1</td></tr><tr><td>압박에 의해 통증 재현 안 됨</td><td>1</td></tr><tr><td>운동 시 통증 악화</td><td>1</td></tr><tr><td>환자 스스로 심장에 의한 통증으로 생각함</td><td>1</td></tr></tbody></table>
 
-▶CAD predictive : 0\~1점=0.6% (저위험), 2\~3점=12.1%(중등위험), 4\~5점=62.7%(고위험)
-
-☞ [계산기](https://www.mdcalc.com/calc/4022/marburg-heart-score-mhs)
-
-_<mark style="color:$info;">Ref. Evaluation of Chest Pain in Primary Care Patients. AFP 2011:1;83(5). Table 2.</mark>_
+▶CAD predictive : 0\~1점=0.6% (저위험), 2\~3점=12.1%(중등위험), 4\~5점=62.7%(고위험) ☞ [계산기](https://www.mdcalc.com/calc/4022/marburg-heart-score-mhs)
 
 #### INTERCHEST Rule (coronary artery disease predictive value)
 
 <table><thead><tr><th width="359.52630615234375">소견</th><th width="90.171875">배점</th></tr></thead><tbody><tr><td>흉벽 압박으로 통증 재현</td><td>-1</td></tr><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>+1</td></tr><tr><td>의료진이 처음에 심각한 상태를 의심</td><td>+1</td></tr><tr><td>흉부 압박 느낌의 불편감</td><td>+1</td></tr><tr><td>운동 (effort)과 관련된 흉통</td><td>+1</td></tr><tr><td>CAD, 뇌혈관 질환 또는 말초혈관 질환 병력</td><td>+1</td></tr></tbody></table>
 
 ▶CAD predictive : ≤1점=저위험(\~2%), 2점=중등위험, ≥3점=고위험(\~43%) ☞ [계산기](https://www.mdcalc.com/calc/10225/interchest-clinical-prediction-rule-chest-pain-primary-care)
-
-_<mark style="color:$info;">Ref. Acute Chest Pain in Adults: Outpatient Evaluation. AFP 2020:15;102(12). Table 3.</mark>_
 
 #### HEART Score (ACS 위험도)
 
@@ -171,11 +165,7 @@ _<mark style="color:$info;">Ref. Acute Chest Pain in Adults: Outpatient Evaluati
 
 <table><thead><tr><th width="101.57894897460938">항목</th><th width="48.4210205078125">점수</th><th width="507.0666809082031">기준</th></tr></thead><tbody><tr><td><strong>H</strong>istory</td><td>2</td><td>허혈성 심질환의 전형적 흉통 3가지 모두 해당</td></tr><tr><td></td><td>1</td><td>위 3가지 중 1~2가지만 해당 (비전형적)</td></tr><tr><td></td><td>0</td><td>심장 기원 가능성이 낮은 병력</td></tr><tr><td><strong>E</strong>CG</td><td>2</td><td>유의한 ST 하강, 완전 LBBB, 또는 좌심실 비후 소견</td></tr><tr><td></td><td>1</td><td>비특이적 재분극 장애</td></tr><tr><td></td><td>0</td><td>정상</td></tr><tr><td><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td></td><td>1</td><td>45~64세</td></tr><tr><td></td><td>0</td><td>&#x3C;45세</td></tr><tr><td><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험 인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI>30, CAD 가족력) 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환) 병력</td></tr><tr><td></td><td>1</td><td>1~2개의 위험 인자</td></tr><tr><td></td><td>0</td><td>위험 인자 없음</td></tr><tr><td><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td></td><td>1</td><td>ULN의 1~3배 상승</td></tr><tr><td></td><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
 
-▶판정 : 0\~3점 = 저위험(6주 MACE \~2%, 퇴원 고려), 4\~6점 = 중등위험(입원·추가 검사), 7\~10점 = 고위험(적극적 처치); 저위험이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단
-
-☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
-
-_<mark style="color:$info;">Ref. Six AJ et al. Chest pain in the emergency room: value of the HEART score. Neth Heart J. 2008;16(6):191-6. / Backus BE et al. A prospective validation of the HEART score. Int J Cardiol. 2013;168(3):2153-8.</mark>_
+▶판정 : 0\~3점 = 저위험(6주 MACE \~2%, 퇴원 고려), 4\~6점 = 중등위험(입원·추가 검사), 7\~10점 = 고위험(적극적 처치); 저위험이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단 ☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
 
 ### <mark style="color:$primary;">Acute Coronary Syndrome (ACS)</mark>
 
@@ -190,13 +180,11 @@ _<mark style="color:$info;">Ref. Six AJ et al. Chest pain in the emergency room:
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
 
-#### Modified Wells Score (폐색전증 가능성 평가)
+#### Wells Score (폐색전증 가능성 평가)
 
 <table><thead><tr><th width="359.5263671875">소견</th><th width="90.17181396484375">배점</th></tr></thead><tbody><tr><td>DVT 증상: 통증, red or discolored, warmth</td><td>3</td></tr><tr><td>증상에 대한 다른 적당한 진단이 없음</td><td>3</td></tr><tr><td>빈맥 ＞100/분</td><td>1.5</td></tr><tr><td>≥3일 비활동 또는 최근 4주 내 수술</td><td>1.5</td></tr><tr><td>DVT 또는 폐색전증 진단 과거력</td><td>1.5</td></tr><tr><td>객혈 (+)</td><td>1</td></tr><tr><td>6개월 내 치료 또는 완화 상태의 악성 종양 (+)</td><td>1</td></tr></tbody></table>
 
-▶판정 : 폐색전증 가능성 : ＞6점=가능성 높음, 2\~6점=중등도, ＜2점=낮음
-
-_<mark style="color:$info;">Ref. Derivation of a simple clinical model to categorize patients probability of pulmonary embolism: increasing the models utility with the SimpliRED D-dimer. Thromb Haemost. 2000 Mar;83(3):416-20.</mark>_
+▶판정 : 폐색전증 가능성 : ＞6점=가능성 높음, 2\~6점=중등도, ＜2점=낮음 ☞ [계산기](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
 
 #### PERC Rule for Pulmonary Embolism (PE 배제)
 
@@ -204,9 +192,7 @@ Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충
 
 <table><thead><tr><th width="209">항목</th><th width="208.06658935546875">기준</th></tr></thead><tbody><tr><td>나이</td><td>&#x3C;50세</td></tr><tr><td>심박수</td><td>&#x3C;100회/분</td></tr><tr><td>SpO₂</td><td>≥95%</td></tr><tr><td>하지 부종</td><td>편측 하지 부종 없음</td></tr><tr><td>객혈</td><td>없음</td></tr><tr><td>최근 수술/외상</td><td>없음 (4주 이내)</td></tr><tr><td>DVT/PE 기왕력</td><td>없음</td></tr><tr><td>에스트로겐 투여</td><td>없음</td></tr></tbody></table>
 
-▶ 8가지 모두 해당 시 PE 가능성 약 1% 미만 → 추가 검사 불필요
-
-☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
+▶ 8가지 모두 해당 시 PE 가능성 약 1% 미만 → 추가 검사 불필요 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 
 ## <mark style="color:green;">비-심폐 기원 흉통</mark>
 
