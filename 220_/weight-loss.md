@@ -65,9 +65,13 @@
 * anticatabolic agent : 오메가-3(암 관련 악액질에서 일부 근거; 일반적 체중 감소에서는 제한적), pentoxifylline, hydrazine sulfate(임상적 유효성 미입증), thalidomide(국내 처방 적응증 제한)
 * 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함 \[트레스탄]\(비보험)
 
+***
+
 ### <mark style="color:purple;">질병코드</mark>
 
 R63.4 이상체중감소
+
+***
 
 ## <mark style="color:orange;">처방례</mark>
 
