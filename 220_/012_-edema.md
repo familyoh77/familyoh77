@@ -59,7 +59,7 @@
 ### <mark style="color:$primary;">Bilateral predominance</mark>
 
 * 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
-* 약물 : 혈관 확장제(예: CCB, α-차단제), 호르몬제(예: steroid, estrogen, progesterone, testosterone), NSAID, thiazolidinedione(Na 재흡수 증가), gabapentinoid
+* 약물 : 혈관 확장제(예: CCB, α-차단제), 호르몬제(예: steroid, estrogen, progesterone, testosterone), NSAID, thiazolidinedione(Na 재흡수 증가), pregabalin/gabapentin, SGLT-2 억제제, 항암제
 
 ### <mark style="color:$primary;">만성 하지 부종의 감별</mark>
 
@@ -154,7 +154,8 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 #### 기타
 
-* 누워서 쉼, 더운 환경을 피함
+* 누워서 쉼
+* 더운 환경을 피함
 * leg elevation : 하지 부종에 대하여 심장 높이 이상으로 30분씩 하루 3\~4회
 * 하지 압박: 깨어 있을 때 압박 스타킹 착용
   * 1차 선택: 무릎 아래(Below-knee, AD) 스타킹; 허벅지까지(AG)는 병변이 허벅지 이상으로 명확히 존재하는 경우에 한해 선택적 적용; AG 타입은 순응도가 낮고, 무릎 뒤에서 접힐 경우 지혈대 효과(Tourniquet effect) 위험
@@ -193,7 +194,7 @@ I89.0 림프 부종
 > **처방례 1. 상세불명의 하지 부종**
 >
 > ```
-> 라식스 40 ㎎/T ½T qd 아침 (단기 사용)
+> 라식스 40 ㎎/T 0.5 T qd 아침 (단기 사용)
 > ```
 >
 > **처방례 2. 특발성 부종증후군**
