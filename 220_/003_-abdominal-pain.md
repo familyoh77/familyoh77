@@ -133,6 +133,8 @@
 * Acute mesenteric ischemia : 급성의 심하고 지속적인 복통
 * Chronic mesenteric ischemia : 식후 통증, 구역, 구토, 설사, 체중 감소
 
+***
+
 ![](../.gitbook/assets/ab35cc1e-ed22-4244-819f-d0b81f49f1d4.JPG)
 
 ***
