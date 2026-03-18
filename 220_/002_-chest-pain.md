@@ -105,7 +105,23 @@ _\*65세 미만에서 CCTA 선호_
 
 ## <mark style="color:green;">심장 기원 흉통</mark>
 
-<table><thead><tr><th width="122.73687744140625"></th><th width="147.84210205078125">시작 / 기간</th><th width="125.84210205078125">증상</th><th>부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Myocardial ischemia</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2–10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속</td><td>pressure, tightness, squeezing, heaviness, burning</td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부<br><br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번</td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br><br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관 기능장애 포함 (2021 AHA/ACC; 2025 ACS Guideline)</td></tr><tr><td><strong>Pericarditis</strong></td><td>variable: 수 시간–수일; 급성·재발성·만성으로 분류</td><td>pleuritic, sharp; 눕거나 심호흡·기침 시 악화</td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge)</td><td>앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br><br>※ 진단: 흉통·friction rub·광범위 ST 상승/PR 하강·새 삼출 중 ≥2개 (2025 ESC/ACC)<br>※ Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>※ 고위험: 발열 &gt;38°C, 대량 삼출, 심낭압전, NSAIDs 무반응</td></tr><tr><td><strong>Acute aortic syndrome</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대강도 즉시 도달</td><td>찢어지는, 칼로 찌르는 느낌</td><td>ant chest; 종종 방사통 (back, 양 견갑골 사이)<sup>*</sup></td><td>HTN, 기저 결합조직 질환; 대동맥부전 의심 잡음; 말초 맥박 소실·비대칭<br><br>※ AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU) (2022 ACC/AHA; 2024 ESC)<br>※ ADD-RS 활용 권장; 확진은 ECG-gated CT angiography (neck–pelvis)</td></tr></tbody></table>
+**Myocardial ischemia**
+
+| 시작 / 기간 | 증상 | 부위 | 동반 특징 |
+| --- | --- | --- | --- |
+| • Stable angina: 운동, 추위, 스트레스에 의해 유발; 2–10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속 | pressure, tightness, squeezing, heaviness, burning | retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부<br><br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번 | 통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br><br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관 기능장애 포함 (2021 AHA/ACC; 2025 ACS Guideline) |
+
+**Pericarditis**
+
+| 시작 / 기간 | 증상 | 부위 | 동반 특징 |
+| --- | --- | --- | --- |
+| variable: 수 시간–수일; 급성·재발성·만성으로 분류 | pleuritic, sharp; 눕거나 심호흡·기침 시 악화 | retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge) | 앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br><br>※ 진단: 흉통·friction rub·광범위 ST 상승/PR 하강·새 삼출 중 ≥2개 (2025 ESC/ACC)<br>※ Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>※ 고위험: 발열 >38°C, 대량 삼출, 심낭압전, NSAIDs 무반응 |
+
+**Acute aortic syndrome**
+
+| 시작 / 기간 | 증상 | 부위 | 동반 특징 |
+| --- | --- | --- | --- |
+| 통증이 갑자기 시작되어 줄어들지 않음; 최대강도 즉시 도달 | 찢어지는, 칼로 찌르는 느낌 | ant chest; 종종 방사통 (back, 양 견갑골 사이)\* | HTN, 기저 결합조직 질환; 대동맥부전 의심 잡음; 말초 맥박 소실·비대칭<br><br>※ AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU) (2022 ACC/AHA; 2024 ESC)<br>※ ADD-RS 활용 권장; 확진은 ECG-gated CT angiography (neck–pelvis) |
 
 \*등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨
 
