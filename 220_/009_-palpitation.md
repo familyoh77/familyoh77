@@ -6,28 +6,7 @@
 
 ### <mark style="color:$primary;">위험도 단계</mark>
 
-{% hint style="success" %}
-**저위험** — 외래 관찰
-
-* 빠르거나 / 쿵거리는 맥박
-* Short fluttering
-* 느린 박동 **AND** 정상 ECG **AND** 가족력 없음 **AND** 심장의 구조적 질환 없음
-{% endhint %}
-
-{% hint style="warning" %}
-**의뢰** — 심장내과 외래
-
-* Tachyarrhythmia 반복 의심 병력
-* 증상들과 관련된 두근거림 **AND/OR** 비정상 ECG **AND/OR** 심장의 구조적 질환 있음
-
-🚩 **다음 동반 증상은 심장내과 의뢰 강화 근거**
-* 흉통 동반 또는 수면 장애 유발
-* 하지 부종 (심부전 시사)
-* 국소 신경학적 증상 (색전증 시사)
-{% endhint %}
-
-{% hint style="danger" %}
-**응급 의뢰** — 즉시 이송
+#### <mark style="color:$danger;">응급 의뢰</mark> — 즉시 이송
 
 * Exercise 중 발생
 * Syncope or near-syncope 동반 (☞ 실신 참고)
@@ -36,12 +15,27 @@
 * High degree AV block
 
 🚩 **다음 활력징후·증상은 즉각 응급 처치 필요**
+
 * 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
 * 빈호흡(＞30회/분) 또는 호흡 곤란, 기좌 호흡
 * 빈맥(＞130회/분)
-{% endhint %}
 
-_<mark style="color:$info;">Ref. Management of palpitations in primary care guideline. NICE. 2018.</mark>_
+#### <mark style="color:$warning;">**의뢰**</mark>&#x20;
+
+* Tachyarrhythmia 반복 의심 병력
+* 증상들과 관련된 두근거림 AND/OR 비정상 ECG AND/OR 심장의 구조적 질환 있음
+
+🚩 **다음 동반 증상은 심장내과 의뢰 강화 근거**
+
+* 흉통 동반 또는 수면 장애 유발
+* 하지 부종 (심부전 시사)
+* 국소 신경학적 증상 (색전증 시사)
+
+#### <mark style="color:$info;">**저위험**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">— 외래 관찰</mark>
+
+* 빠르거나 / 쿵거리는 맥박
+* Short fluttering
+* 느린 박동 AND 정상 ECG AND 가족력 없음 AND 심장의 구조적 질환 없음
 
 ## <mark style="color:green;">원인</mark>
 
