@@ -1,6 +1,6 @@
 # 피로 Fatigue
 
-## <mark style="color:green;">피로의 상태</mark>
+### <mark style="color:$primary;">피로의 상태</mark>
 
 * 육체적 또는 정신적 활력 저하, 힘듦, 기진맥진 상태
 * 육체적 또는 정신적 활동을 시작하기 어려움, 무기력, 활동을 유지하기 어려움; 쉽게 힘들어짐, 처짐
