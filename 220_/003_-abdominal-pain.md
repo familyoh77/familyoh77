@@ -129,7 +129,7 @@
 * Lactose intolerance : 경련성 복통, 복부 팽만, 복부 가스, 설사
 * IBS : 만성 복통, 배변 습관 변화
 * Diverticulosis : 변비, 종종 무증상
-* IBD : 혈성 설사, 급뇨, 뒤무직, 발열, 장외 증상(관절염, 포도막염); 장기간(수년 이상) 지속
+* IBD : 혈성 설사, 배변 긴박감, 뒤무직, 발열, 장외 증상(관절염, 포도막염); 장기간(수년 이상) 지속
 * Acute mesenteric ischemia : 급성의 심하고 지속적인 복통
 * Chronic mesenteric ischemia : 식후 통증, 구역, 구토, 설사, 체중 감소
 
