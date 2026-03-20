@@ -49,14 +49,14 @@
 * 기전 : 내장 기관(소장, 대장, 담낭, 요관, 신장 등)의 폐쇄 또는 염증(소화성 궤양, 담낭염, 간염, 충수염, IBD, 신우신염, PID 등)
 * 통증 부위 : embryologic origin 관련 부위에 통증이 나타남
   * foregut 기원 : 식도, 위장, 십이지장 근위부, 간, 담낭, 췌장, 비장, 하부 호흡기관 → 상복부 통증
-  * midgut 기원 : 십이지장 제2부 원위부\~횡행결장 prox ⅔ & hepatic flexure → 배꼽 주위 통증
-  * hindgut 기원 : 횡행결장 distal ⅓ 이하 & splenic flexure → 치골 상부 통증
+  * midgut 기원 : 십이지장 제2부 원위부 \~ 횡행결장 proximal ⅔ (hepatic flexure 포함, splenic flexure 제외) → 배꼽 주위 통증
+  * hindgut 기원 : 횡행결장 distal ⅓ 이하(splenic flexure 포함) \~ 직장상부 → 치골 상부 통증
 * 임상 양상
   * 복부 팽만
   * 내장 근육 경련 시 지속적이고 심한 통증
   * 허혈 시 극심한 광범위 통증
   * 염증이 복벽까지 확장되면 국소 압통 발생
-  * 허혈성 장질환(acute mesenteric ischemia) 시 심한 통증에 비해 복부 진찰 소견이 경미함
+  * 허혈성 장질환(acute mesenteric ischemia)에서는 심한 통증에 비해 복부 진찰 소견이 경미함
 
 #### Parietal pain (체성통)
 
