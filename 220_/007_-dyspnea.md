@@ -119,10 +119,9 @@
 
 <figure><img src="../.gitbook/assets/호흡2.JPG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="background-color:$warning;">응급 관리</mark>
 
-## <mark style="color:green;">응급 관리</mark>
-
+* 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보; 필요시 즉시 119 호출 및 전원
 * 앉은 자세 유지
 * 과호흡(공황/불안) : 복식호흡 유도, 조절 호흡(4-7-8 호흡 또는 pursed-lip breathing)
   * 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음

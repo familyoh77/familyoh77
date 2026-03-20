@@ -16,6 +16,7 @@
 
 <mark style="color:$danger;">🚩</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">**즉각 응급 처치가 필요한 징후·증상**</mark>
 
+* 흉통
 * 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
 * 빈호흡(＞30회/분) 또는 호흡 곤란, 기좌 호흡
 * 빈맥(＞130회/분)
@@ -25,7 +26,7 @@
 * Tachyarrhythmia 반복 의심 병력
 * 증상들과 관련된 두근거림 AND/OR 비정상 ECG AND/OR 심장의 구조적 질환 있음
 
-<mark style="color:$warning;">🚩</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">**심장내과 의뢰가 필요한 징후·증상**</mark>
+<mark style="color:$warning;">🚩</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">**의뢰가 필요한 징후·증상**</mark>
 
 * 흉통 동반 또는 수면 장애 유발
 * 하지 부종 (심부전 시사)

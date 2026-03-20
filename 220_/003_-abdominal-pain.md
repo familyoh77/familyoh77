@@ -2,12 +2,13 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 / 입원 필요**</mark>
+<mark style="color:$danger;">**즉각 응급 조치**</mark>&#x20;
 
 * Vital sign 불안정
 * 복막염 소견 : 복부 강직, 반동 압통
 * 원인 불명의 빈혈, 위장관 출혈 의심 병력 또는 증상 (혈액 또는 검은색 토물 또는 대변)
 * 박동성 복부 종괴 (복부 대동맥류 파열 위험)
+* 가임기 여성의 급성 복통 (자궁외임신 파열 가능성 — β-hCG 즉시 확인)
 
 <mark style="color:$warning;">**조기 평가 필요 (당일 \~ 수일 내)**</mark>
 

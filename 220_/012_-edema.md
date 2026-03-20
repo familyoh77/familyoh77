@@ -11,9 +11,7 @@
 <mark style="color:$danger;">**즉각 응급 조치 필요 (심폐 응급; 필요시 119 호출)**</mark>
 
 * 갑자기 발생한 호흡 곤란
-* 객혈
-* 흉막 마찰음(pleural friction rub)
-* 저혈압·빈맥 동반
+* 객혈, 흉통, 저혈압, 또는  빈맥 동반
 
 <mark style="color:$warning;">**수 시간 내 긴급 평가 필요 (급성 혈관 및 간 기능 부전; 응급실 방문)**</mark>
 
