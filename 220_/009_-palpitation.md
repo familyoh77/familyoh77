@@ -9,7 +9,7 @@
 #### <mark style="color:$danger;">응급 의뢰</mark> — 즉시 이송
 
 * Exercise 중 발생
-* Syncope or near-syncope 동반 (☞ 실신 참고)
+* Syncope or near-syncope 동반 (☞ 실신)
 * 고위험 구조적 심장 질환 있음
 * 유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력
 * High degree AV block

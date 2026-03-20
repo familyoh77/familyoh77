@@ -41,7 +41,7 @@
 
 <mark style="color:$danger;">**기타 중증 원인 시사**</mark>
 
-<table><thead><tr><th width="276.631591796875">Red Flag</th><th>임상적 의미</th></tr></thead><tbody><tr><td>연하 통증 (odynophagia)</td><td>식도 파열(Boerhaave) 시사 — 생명 위협적</td></tr><tr><td>반복되는 구토</td><td>식도 파열 유발 요인, ACS 동반 가능</td></tr><tr><td>위장 출혈</td><td>소화관 출혈·대동맥장누공 가능성</td></tr><tr><td>설명할 수 없는 체중 감소</td><td>악성 종양·만성 중증 질환 시사</td></tr></tbody></table>
+<table><thead><tr><th width="250.3157958984375">Red Flag</th><th>임상적 의미</th></tr></thead><tbody><tr><td>연하 통증 (odynophagia)</td><td>식도 파열(Boerhaave) 시사 — 생명 위협적</td></tr><tr><td>반복되는 구토</td><td>식도 파열 유발 요인, ACS 동반 가능</td></tr><tr><td>위장 출혈</td><td>소화관 출혈·대동맥장누공 가능성</td></tr><tr><td>설명할 수 없는 체중 감소</td><td>악성 종양·만성 중증 질환 시사</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인</mark>
 
