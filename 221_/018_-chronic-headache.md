@@ -1,7 +1,7 @@
 # 만성 두통 Chronic Headache
 
 {% hint style="info" %}
-만성 두통은 **≥15일/월, ≥3개월** 지속되는 두통으로 정의한다. 크게 1차성(원발성)과 2차성으로 나뉘며, 1차 진료에서는 위험 신호(Red flag)를 통해 2차성 두통을 조기에 감별하는 것이 핵심이다.
+만성 두통은 ≥15일/월, ≥3개월 지속되는 두통으로 정의한다. 크게 1차성(원발성)과 2차성으로 나뉘며, 1차 진료에서는 위험 신호(Red flag)를 통해 2차성 두통을 조기에 감별하는 것이 핵심이다.
 {% endhint %}
 
 ## <mark style="color:green;">1차성 두통</mark>
@@ -83,7 +83,7 @@ E. 자율 신경 증상이나 안절부절못함은 없음
 F. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1,2)</sup>
 
 _1) 효과적인 치료를 위하여 삼차자율신경두통들(군발두통)과의 감별이 필요_\
-&#xNAN;_&#x32;) 수면 중 발생하여 잠에서 깨어나게 하는 두통의 다른 가능한 원인들(예: 수면무호흡증, 야간 고혈압, 저혈당, 약물과용, 두개 내 질환) 감별_
+\&#xNAN;_2) 수면 중 발생하여 잠에서 깨어나게 하는 두통의 다른 가능한 원인들(예: 수면무호흡증, 야간 고혈압, 저혈당, 약물과용, 두개 내 질환) 감별_
 
 ## <mark style="color:green;">2차성 두통</mark>
 
@@ -125,7 +125,7 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 ☞ [두통 챕터 Red Flags 참조](015_-headache.md)
 
 {% hint style="danger" %}
-#### 위험 신호 (SNOOP4+)
+**위험 신호 (SNOOP4+)**
 
 아래 위험 신호가 있는 경우 뇌영상(MRI/CT) 등 추가 검사로 2차성 두통을 반드시 배제한다.
 
@@ -219,7 +219,7 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 **국내 보험 급여 기준** : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정. 급여 외 사용 시 비급여(고가). ☞ 편두통 챕터 참조 (p.76)
 {% endhint %}
 
-<table><thead><tr><th>구분</th><th>성분명</th><th>상품명</th><th>용법</th><th>제조/판매사</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제</td><td>Galcanezumab</td><td><strong>엠갈리티</strong></td><td>120 ㎎/월 SC (초회 240 ㎎)</td><td>한국릴리</td></tr><tr><td>Fremanezumab</td><td><strong>아조비</strong></td><td>225 ㎎/월 or 675 ㎎/분기 SC</td><td>한독/테바</td></tr><tr><td>Erenumab</td><td><strong>에레뉴맙</strong></td><td>70\~140 ㎎/월 SC</td><td>제일약품(노바티스)</td></tr><tr><td>경구용 (Gepant)</td><td>Rimegepant</td><td><strong>너텍</strong></td><td>75 ㎎ 급성기; 예방 목적 격일 복용</td><td>광동제약(화이자)</td></tr></tbody></table>
+<table><thead><tr><th>구분</th><th>성분명</th><th>상품명</th><th>용법</th><th data-hidden>제조/판매사</th></tr></thead><tbody><tr><td>항체 주사제</td><td>Galcanezumab</td><td>엠갈리티</td><td>120 ㎎/월 SC (초회 240 ㎎)</td><td>한국릴리</td></tr><tr><td>Fremanezumab</td><td>아조비</td><td>225 ㎎/월 or 675 ㎎/분기 SC</td><td>한독/테바</td><td></td></tr><tr><td>Erenumab</td><td>에레뉴맙</td><td>70\~140 ㎎/월 SC</td><td>제일약품(노바티스)</td><td></td></tr><tr><td>경구용 (Gepant)</td><td>Rimegepant</td><td>너텍</td><td>75 ㎎ 급성기; 예방 목적 격일 복용</td><td>광동제약(화이자)</td></tr></tbody></table>
 
 _※ Gepant(너텍)는 MOH 유발 위험이 없어 기존 진통제·triptan 과용 환자에서 특히 유리_
 
