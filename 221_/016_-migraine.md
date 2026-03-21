@@ -13,41 +13,27 @@
 ### <mark style="color:$primary;">분류 \[IHS classification ICHD-3]</mark>
 
 1. Migraine without aura
-2. Migraine with aura
-
-   2.1 Migraine with typical aura
-
-   ① Typical aura with headache
-
-   ② Typical aura without headache
-
-   2.2 Migraine with brainstem aura
-
-   2.3 Hemiplegic migraine
-
-   ① Familial hemiplegic migraine
-
-   ② Sporadic hemiplegic migraine
-
-   2.4 Retinal migraine
-
+2. Migraine with aura&#x20;
+   * 2.1 Migraine with typical aura&#x20;
+     * 2.1.1 Migraine with typical aura with headache&#x20;
+     * 2.1.2 Migraine with typical aura without headache&#x20;
+   * 2.2 Migraine with brainstem aura&#x20;
+   * 2.3 Hemiplegic migraine&#x20;
+     * 2.3.1 Familial hemiplegic migraine&#x20;
+     * 2.3.2 Sporadic hemiplegic migraine&#x20;
+   * 2.4 Retinal migraine
 3. Chronic migraine
 4. Complications of migraine
 5. Probable migraine
-6. Episodic syndromes that may be associated with migraine
+6. Episodic syndromes that may be associated with migraine&#x20;
+   * 6.1 Recurrent gastrointestinal disturbance&#x20;
+     * 6.1.1 Cyclical vomiting syndrome&#x20;
+     * 6.1.2 Abdominal migraine&#x20;
+   * 6.2 Benign paroxysmal vertigo&#x20;
+   * 6.3 Benign paroxysmal torticollis
 
-   6.1 Recurrent gastrointestinal disturbance
-
-   ① Cyclical vomiting syndrome
-
-   ② Abdominal migraine
-
-   6.2 Benign paroxysmal vertigo
-
-   6.3 Benign paroxysmal torticollis
-
-* **월경편두통(Menstrual migraine)** : 월경 -2일\~+3일에 발생, 최소 3주기 중 2주기 발생; 월경 중 다른 날에는 발생 안 함
-* **Status migrainosus** : ＞72시간 지속되는 심한 편두통
+* 월경편두통(Menstrual migraine) : 월경 -2일\~+3일에 발생, 최소 3주기 중 2주기 발생; 월경 중 다른 날에는 발생 안 함
+* Status migrainosus : ＞72시간 지속되는 심한 편두통
 
 ### <mark style="color:$primary;">만성 편두통</mark>
 
@@ -56,8 +42,9 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* **trigeminovascular hypothesis** : 뇌간에서의 삼차신경 뉴런 과민 → 신경 전달 물질(substance P, CGRP) 분비 → 혈관 확장, 신경인성 염증
-* ✽1차적인 혈관 문제는 원인으로 고려되지 않음
+* trigeminovascular hypothesis : 뇌간에서의 삼차신경 뉴런 과민 → 신경 전달 물질(substance P, CGRP) 분비 → 혈관 확장, 신경인성 염증
+
+✽1차적인 혈관 문제는 원인으로 고려되지 않음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -65,6 +52,7 @@
 
 {% hint style="warning" %}
 편두통 기존 환자라도 다음의 경우 2차 두통 감별이 필요:
+
 * 평소와 확연히 다른 두통 양상 또는 급격한 악화
 * 전조(aura)가 60분 이상 지속 → 뇌졸중·TIA 감별, 신경과 의뢰 고려
 * 운동 조짐(편마비 등)이 새로 발생하거나 이전보다 심해진 경우
@@ -101,10 +89,12 @@
 **MIDAS (Migraine Disability Assessment Test, 편두통 장애 평가 검사)**
 
 ⑴ 지난 3개월 동안 두통 때문에 학교 또는 직장에서
+
 * 결근/결석 한 날이 며칠이나 됩니까?
 * 출근/출석은 하였으나 작업 또는 학업 능률이 절반 이하로 감소한 날이 며칠이나 됩니까?
 
 ⑵ 지난 3개월 동안 두통 때문에 집안에서
+
 * 어떤 가사일도 할 수 없었던 날이 며칠이나 됩니까?
 * 가사일을 하기는 하였으나 작업 능률이 평소의 절반 이하로 감소한 날이 며칠이나 됩니까?
 
@@ -218,15 +208,15 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * 부작용 : 흉부 압박감, 홍조, 더운 느낌, 쇠약, 어지럼, 감각 이상(예: 팔/다리 저림)
 * 주의/금기 : 뇌혈관/심혈관/말초혈관 질환, 조절되지 않는 고혈압, SSRI 병용(세로토닌 증후군 주의), ergotamine과 병용 금지
 
-| 성분명 [상품명] | 용법 [최대] | 반감기 (h) |
-|---|---|---|
-| sumatriptan [이미그란] | 50 ㎎ q2h [300 ㎎/d] | 2 |
-| rizatriptan | 5\~10 ㎎ q2h [30 ㎎/d] | 2\~3 |
-| zolmitriptan [조믹] | 2.5\~5 ㎎ q2h [10 ㎎/d] | 3 |
-| almotriptan [알모그란] | 6.25\~12.5 ㎎ q2h [25 ㎎/d] | 3\~4 |
-| eletriptan | 20\~40 ㎎ q2h [80 ㎎/d] | 4 |
-| naratriptan [나라믹] | 2.5 ㎎ q4h [5 ㎎/d] | 6 |
-| frovatriptan [미가드] | 2.5 ㎎ q2h [7.5 ㎎/d] | 25 |
+| 성분명 \[상품명]          | 용법 \[최대]                   | 반감기 (h) |
+| ------------------- | -------------------------- | ------- |
+| sumatriptan \[이미그란] | 50 ㎎ q2h \[300 ㎎/d]        | 2       |
+| rizatriptan         | 5\~10 ㎎ q2h \[30 ㎎/d]      | 2\~3    |
+| zolmitriptan \[조믹]  | 2.5\~5 ㎎ q2h \[10 ㎎/d]     | 3       |
+| almotriptan \[알모그란] | 6.25\~12.5 ㎎ q2h \[25 ㎎/d] | 3\~4    |
+| eletriptan          | 20\~40 ㎎ q2h \[80 ㎎/d]     | 4       |
+| naratriptan \[나라믹]  | 2.5 ㎎ q4h \[5 ㎎/d]         | 6       |
+| frovatriptan \[미가드] | 2.5 ㎎ q2h \[7.5 ㎎/d]       | 25      |
 
 _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
@@ -396,7 +386,7 @@ G43.9 상세불명의 편두통
 > 맥페란 10 ㎎/T 1T (구역 동반 시)
 > ```
 
-> **처방례 2. 급성 편두통 (중등증~중증, triptan)**
+> **처방례 2. 급성 편두통 (중등증\~중증, triptan)**
 >
 > ```
 > 이미그란 50 ㎎/T 1T (두통 발생 초기 즉시 복용; 2시간 후 재발 시 1T 추가, 최대 300 ㎎/d)
@@ -420,5 +410,3 @@ G43.9 상세불명의 편두통
 > ```
 > 에트라빌 10 ㎎/T 1T hs (보험주의; 우울증 동반 시 급여)
 > ```
-
-<figure><img src="../.gitbook/assets/e532da82-c171-48c1-a603-1080796a3657.JPG" alt=""><figcaption></figcaption></figure>
