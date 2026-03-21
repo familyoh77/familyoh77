@@ -13,23 +13,23 @@
 ### <mark style="color:$primary;">분류 \[IHS classification ICHD-3]</mark>
 
 1. Migraine without aura
-2. Migraine with aura&#x20;
-   * 2.1 Migraine with typical aura&#x20;
-     * 2.1.1 Migraine with typical aura with headache&#x20;
-     * 2.1.2 Migraine with typical aura without headache&#x20;
-   * 2.2 Migraine with brainstem aura&#x20;
-   * 2.3 Hemiplegic migraine&#x20;
-     * 2.3.1 Familial hemiplegic migraine&#x20;
-     * 2.3.2 Sporadic hemiplegic migraine&#x20;
+2. Migraine with aura
+   * 2.1 Migraine with typical aura
+     * 2.1.1 Migraine with typical aura with headache
+     * 2.1.2 Migraine with typical aura without headache
+   * 2.2 Migraine with brainstem aura
+   * 2.3 Hemiplegic migraine
+     * 2.3.1 Familial hemiplegic migraine
+     * 2.3.2 Sporadic hemiplegic migraine
    * 2.4 Retinal migraine
 3. Chronic migraine
 4. Complications of migraine
 5. Probable migraine
-6. Episodic syndromes that may be associated with migraine&#x20;
-   * 6.1 Recurrent gastrointestinal disturbance&#x20;
-     * 6.1.1 Cyclical vomiting syndrome&#x20;
-     * 6.1.2 Abdominal migraine&#x20;
-   * 6.2 Benign paroxysmal vertigo&#x20;
+6. Episodic syndromes that may be associated with migraine
+   * 6.1 Recurrent gastrointestinal disturbance
+     * 6.1.1 Cyclical vomiting syndrome
+     * 6.1.2 Abdominal migraine
+   * 6.2 Benign paroxysmal vertigo
    * 6.3 Benign paroxysmal torticollis
 
 * 월경편두통(Menstrual migraine) : 월경 -2일\~+3일에 발생, 최소 3주기 중 2주기 발생; 월경 중 다른 날에는 발생 안 함
@@ -58,15 +58,22 @@
 * 운동 조짐(편마비 등)이 새로 발생하거나 이전보다 심해진 경우
 {% endhint %}
 
-### <mark style="color:$primary;">위험 인자 / 유발 인자</mark>
+### <mark style="color:$primary;">위험 인자</mark>&#x20;
 
-* 공복, 식사 거름, 음식(아래 목록 참조)
-* 가족력 : 환자의 ＞80%에서 편두통의 가족력이 있음
-* 여성, 월경
-* 스트레스, 우울, 수면 장애(수면 부족 및 과다 모두)
-* 운동, 높은 고도, 날씨 변화, 탈수
+* 가족력 : 환자의 >80%에서 편두통의 가족력이 있음
+* 여성 (20\~50대에서 호발)
+
+### <mark style="color:$primary;">유발 인자</mark>&#x20;
+
+* 스트레스, 정서적 변화
+* 수면 변화 (부족 및 과다 모두)
+* 월경/호르몬 변화
+* 공복, 식사 거름 (>4시간 공복)
+* 날씨/기압 변화, 높은 고도
+* 알코올 (특히 적포도주), 음식 (아래 목록 참조)
+* 탈수
 * 빛 자극 : 밝은 빛, 형광 빛, 깜박이는 빛
-* 공기 오염, 소음, 강한 냄새(향수)
+* 소음, 강한 냄새 (향수), 공기 오염
 * 약물 : estrogen, 피임제, 혈관 확장제(nitrate), 니코틴
 
 #### 유발 음식
@@ -100,7 +107,7 @@
 
 ⑶ 지난 3개월 동안 두통 때문에 친족/친구 기타 모임이나 여가 활동에 참가할 수 없었던 날이 며칠이나 됩니까?
 
-▸판정(각 문항 답변 일수의 합계) : 0\~5일(MIDAS Ⅰ)=장애가 없거나 미약; 6\~10일(MIDAS Ⅱ)=경도 장애; 11\~20일(MIDAS Ⅲ)=중등도 장애; **21일 이상(MIDAS Ⅳ)=심도 장애**
+▸판정(각 문항 답변 일수의 합계) : 0\~5일(MIDAS Ⅰ)=장애가 없거나 미약; 6\~10일(MIDAS Ⅱ)=경도 장애; 11\~20일(MIDAS Ⅲ)=중등도 장애; ≥21일(MIDAS Ⅳ)=심도 장애
 
 ### <mark style="color:$primary;">Migraine without aura (무조짐 편두통)</mark>
 
@@ -205,18 +212,10 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * 대상 : 중증 편두통 또는 다른 약제로 호전되지 않는 경증 편두통
 * 보통 복용 2시간 내 통증 호전
 * 종류별 유의한 효과 차이는 없으나 개인적인 차이는 있을 수 있음; 저렴한 triptan부터 선택
-* 부작용 : 흉부 압박감(triptan sensation — 심혈관 질환이 없어도 발생 가능하나, 심혈관 고위험군에서는 실제 혈관 수축 위험이 있으므로 구분 필요), 홍조, 더운 느낌, 쇠약, 어지럼, 감각 이상(예: 팔/다리 저림)
+* 부작용 : 흉부 압박감(triptan sensation - 심혈관 질환이 없어도 발생 가능하나, 심혈관 고위험군에서는 실제 혈관 수축 위험이 있으므로 구분 필요), 홍조, 더운 느낌, 쇠약, 어지럼, 감각 이상(예: 팔/다리 저림)
 * 주의/금기 : 뇌혈관/심혈관/말초혈관 질환, 조절되지 않는 고혈압, SSRI 병용(세로토닌 증후군 주의), ergotamine과 병용 금지
 
-| 성분명 \[상품명]          | 용법 \[최대]                   | 반감기 (h) |
-| ------------------- | -------------------------- | ------- |
-| sumatriptan \[이미그란] | 50 ㎎ q2h \[300 ㎎/d]¹⁾      | 2       |
-| rizatriptan         | 5\~10 ㎎ q2h \[30 ㎎/d]      | 2\~3    |
-| zolmitriptan \[조믹]  | 2.5\~5 ㎎ q2h \[10 ㎎/d]     | 3       |
-| almotriptan \[알모그란] | 6.25\~12.5 ㎎ q2h \[25 ㎎/d] | 3\~4    |
-| eletriptan          | 20\~40 ㎎ q2h \[80 ㎎/d]     | 4       |
-| naratriptan \[나라믹]  | 2.5 ㎎ q4h \[5 ㎎/d]         | 6       |
-| frovatriptan \[미가드] | 2.5 ㎎ q2h \[7.5 ㎎/d]       | 25      |
+<table><thead><tr><th width="189.6842041015625">성분명 [상품명]</th><th width="229.78948974609375">용법 [최대]</th><th>반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan [이미그란]</td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan</td><td>5~10 ㎎ q2h [30 ㎎/d]</td><td>2~3</td></tr><tr><td>zolmitriptan [조믹]</td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan [알모그란]</td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan [나라믹]</td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan [미가드]</td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
 
 _¹⁾ 국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 200 ㎎/d_
 
@@ -226,8 +225,8 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 * 기전 : CGRP 수용체 차단 → 삼차신경 통증 전달 억제; triptan과 달리 혈관 수축 작용 없음
 * 심혈관 질환 등 triptan 금기 환자에서 대안으로 고려
-* **급성기 치료 및 예방 치료 겸용** 가능 (rimegepant)
-* **약물과용두통(MOH) 위험이 없거나 오히려 예방 효과** : 기존 진통제·triptan과 달리 자주 복용해도 MOH를 유발하지 않음; MOH 위험군에서 특히 유리
+* 급성기 치료 및 예방 치료 겸용 가능 (rimegepant)
+* 약물과용두통(MOH) 위험이 없거나 오히려 예방 효과 : 기존 진통제·triptan과 달리 자주 복용해도 MOH를 유발하지 않음. MOH 위험군에서 특히 유리
 * 부작용 : 입마름, 어지럼, 구역
 * rimegepant 75 ㎎ 붕해정 \[엔유비티] : 급성기 1정, 예방 목적 격일 복용; 2024년 국내 허가
 * ubrogepant 50\~100 ㎎ : 급성기 치료; 국내 미허가
@@ -265,7 +264,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 ## <mark style="color:green;">만성 편두통의 예방적 약물 치료</mark>
 
-### <mark style="color:$primary;">예방 치료 대상</mark>
+#### 예방 치료 대상
 
 * 생활습관 개선과 적절한 급성기 치료에도 불구하고 편두통으로 인한 유의미한 일상생활 장애
 * 두통 빈도가 적더라도 급성기 치료에 반응하지 않거나 두통으로 인한 장애가 있는 경우
@@ -275,7 +274,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 급성기 치료의 의학적 금기가 있는 경우
 * 환자가 예방 치료를 선호하는 경우
 
-### <mark style="color:$primary;">예방 치료 용법</mark>
+#### 예방 치료 용법
 
 * 저용량 투여 → 2\~4주마다 효과와 부작용 평가 → 효과가 나타날 때까지 증량
 * 두통일기 작성 권고 (효과 및 부작용 모니터링)
@@ -295,26 +294,28 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 #### 항경련제
 
-* topiramate : 12.5\~150 ㎎/d \[토파맥스]; \[부] 감각 이상(저림), 복통, 구역, 피로, 맛 변화, 설사, 체중 감소, 기억/집중력 장애, 신결석; \[주/금] 녹내장, 신결석, 임신; **가임기 여성 주의 : 경구 피임약 효과 감소 가능(특히 ≥200 ㎎/d; 저용량에서도 주의 권고), 피임 방법 재검토 필요**
-* valproate : 500\~1,500 ㎎/d \[오르필]; divalproex 250\~1,500 ㎎/d \[데파코트]; \[부] 구역, 체중 증가, 떨림, 탈모, 졸림; \[주/금] 간질환, 췌장염, **임신(기형 유발 위험 높음, FDA 등급 D; 가임기 여성에게는 가급적 처방 회피)**, 저혈소판증
+* topiramate : 12.5\~150 ㎎/d \[토파맥스]; \[부] 감각 이상(저림), 복통, 구역, 피로, 맛 변화, 설사, 체중 감소, 기억/집중력 장애, 신결석; \[주/금] 녹내장, 신결석, 임신
+  * 가임기 여성 주의 : 경구 피임약 효과 감소 가능(특히 ≥200 ㎎/d; 저용량에서도 주의), 피임 방법 재검토 필요
+* valproate : 500\~1,500 ㎎/d \[오르필]; divalproex 250\~1,500 ㎎/d \[데파코트]; \[부] 구역, 체중 증가, 떨림, 탈모, 졸림; \[주/금] 간질환, 췌장염, 임신(FDA 등급 D; 가임기 여성에게는 처방 회피), 저혈소판증
 
 #### 항우울제
 
 * amitriptyline : 10\~50 ㎎/d hs \[에트라빌]; \[부] 졸음, 입마름, 변비, 소변 저류, 심장 전도 장애, 체중 증가; \[주/금] 고령, BPH, 녹내장, 발작, 심장 질환 (보험주의; 우울증 동반 시 급여)
-  * 대안 : nortriptyline 10\~75 ㎎/d hs \[시나논] — amitriptyline의 활성 대사체; 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함 (보험주의)
+  * 대안 : nortriptyline 10\~75 ㎎/d hs \[시나논] - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함 (보험주의)
 * venlafaxine XR : 37.5\~150 ㎎/d \[이팩사 XR]; \[부] 구역, 혈압 상승; \[주/금] 고혈압
 
 ### <mark style="color:$primary;">2차 선택제 및 기타 예방 치료</mark>
 
-### <mark style="color:$primary;">표적 치료제 (Anti-CGRP monoclonal antibody)</mark>
+#### 표적 치료제 (Anti-CGRP monoclonal antibody)
 
 * 기전 : CGRP 또는 CGRP 수용체에 결합하여 편두통 발생을 예방
-* **AHS 2024 입장문에서 1차 치료 옵션으로 격상** : 부작용이 적고 순응도가 높아, 기존 예방약 실패를 기다리지 않고 초기부터 사용 가능 \[AHS 2024]
+* 부작용이 적고 순응도가 높아, 기존 예방약 실패를 기다리지 않고 초기부터 사용 가능 (AHS 2024 입장문에서 1차 치료제로 격상)
 
 {% hint style="warning" %}
 **임상 권고 vs 국내 보험 급여 기준 차이**
+
 * 임상적 권고 : 만성 편두통 또는 삽화 편두통에서 1차 치료 옵션으로 고려 가능
-* 국내 급여 기준 : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) **3종 이상 실패** 후 사용 인정; 급여 외 사용 시 비급여(고가)
+* 국내 급여 기준 : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정; 급여 외 사용 시 비급여(고가)
 {% endhint %}
 
 * 매달 또는 분기마다 피하 주사(eptinezumab은 IV)
