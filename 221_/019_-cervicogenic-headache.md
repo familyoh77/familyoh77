@@ -96,9 +96,8 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>3\~5)</sup>
 
 * 물리 치료 : 다소의 효과
 * 약물 치료 : 효과적이지 않음
-*   anesthetic block : 정확한 부위에 주사 시 가장 효과적인 치료 방법
-
-    •주로 atlanto-axial joint, C2-3/C3-4 zygapophyseal joint 시술
+* anesthetic block : 정확한 부위에 주사 시 가장 효과적인 치료 방법
+  * 주로 atlanto-axial joint, C2-3/C3-4 zygapophyseal joint 시술
 
 ***
 
