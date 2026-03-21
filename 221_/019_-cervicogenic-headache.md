@@ -1,22 +1,23 @@
 # 경부인성두통 Cervicogenic headache
 
-{% hint style="info" %}
-경부의 골격계 또는 연조직 병변에서 기원하는 두통으로, 두통 환자의 약 \*\*15\~20%\*\*를 차지하는 흔한 2차성 두통이다. 편두통·긴장형두통과 임상 양상이 겹쳐 감별이 어려우며, 원인 병변의 정확한 진단과 치료가 두통 해소의 핵심이다.
-{% endhint %}
-
 ## <mark style="color:green;">일반 사항</mark>
 
-* 경부의 골격계 또는 연조직에서 기원하는 두통
+* 경부의 골격계 또는 연조직 병변에서 기원하는 두통으로, 두통 환자의 약 15\~20%를 차지하는 흔한 2차성 두통
 * 기전 : 삼차신경 감각신경로와 경추 감각신경섬유가 기능적으로 상호 작용함으로써 안면/두부의 trigeminal sensory receptive field와 neck 사이에 통증 신호의 양방향 전달이 발생됨
 * 경부인성두통의 흔한 원천 : C2\~3 zygapophyseal joint(70%), atlanto-axial joint(C1\~2), atlanto-occipital joint(C0\~1)
+* 편두통·긴장형두통과 임상 양상이 겹쳐 감별이 어려우며, 원인 병변의 정확한 진단과 치료가 두통 해소의 핵심
 
 ### <mark style="color:$primary;">위험 인자</mark>
 
-* 편타손상(whiplash injury) — 가장 흔한 외상성 원인
+* 편타손상(whiplash injury; 가장 흔한 외상성 원인)
 * 장시간 화면 작업(VDT 증후군), 구부정한 자세, 불량한 수면 자세
 * 상부 경추 퇴행성 변화(척추증, 골연골증)
 * 직업적 반복 동작 (장시간 한쪽 방향 작업 등)
 * 여성 (남성 대비 약 4배 호발)
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+☞ [두통 챕터 Red Flags 참조](015_-headache.md)
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -29,25 +30,21 @@
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-☞ [두통 챕터 Red Flags 참조](015_-headache.md)
-
-{% hint style="danger" %}
-아래 경고 징후가 있는 경우 단순 경부인성두통을 넘어선 심각한 병변을 반드시 배제한다.
-
-* **경추 동맥 박리(Cervical artery dissection)** : 급성 목 통증과 함께 갑자기 발생하는 두통, 호너 증후군(동공 수축·안검하수), 뇌신경 마비 → 즉시 영상 검사(MRI/MRA) 및 응급 의뢰
-* **신경계 결손** : 진행성 근력 저하, 상·하지 감각 이상, 반사 항진/소실, 보행 장애 → 척수증(Cervical myelopathy) 또는 신경근병증 의심; 신경외과 협진
-* **전신 증상** : 발열, 체중 감소, 야간 통증, 악성 종양 과거력 → 경추 감염·전이성 병변 배제
-* **외상 후 급성 발생** : 고에너지 손상 후 심한 경부통·두통 → 경추 골절·불안정성 배제 (C-spine X-ray 또는 CT)
-* **50세 이후 새로운 두통** + 경부 증상 → 거대세포 동맥염 감별 (ESR, CRP)
-{% endhint %}
-
 ### <mark style="color:$primary;">진단의 어려움</mark>
 
 * 임상적으로 긴장형두통이나 편두통과 구별하는 것이 쉽지 않음. 이들 두통에서도 후두부 및 경추 압통이 발생할 수 있음
 * 경부인성두통 환자에서 흔히 긴장형두통이나 편두통이 동반됨
-* 진단적 목적의 마취 차단(anesthetic block)에 반응하지 않은 경우에 정확한 부위를 차단시키지 못하였을 가능성이 있음
+* 진단적 목적의 마취 차단(anesthetic block)에 반응하지 않은 경우 정확한 부위를 차단시키지 못하였을 가능성이 있음
+
+### <mark style="color:$primary;">감별</mark>
+
+아래 경고 징후가 있는 경우 단순 경부인성두통을 넘어선 심각한 병변을 반드시 배제한다.
+
+* 경추 동맥 박리(Cervical artery dissection) : 급성 목 통증과 함께 갑자기 발생하는 두통, 호너 증후군(동공 수축·안검하수), 뇌신경 마비 → 즉시 영상 검사(MRI/MRA) 및 응급 의뢰
+* 신경계 결손 : 진행성 근력 저하, 상·하지 감각 이상, 반사 항진/소실, 보행 장애 → 척수증(Cervical myelopathy) 또는 신경근병증 의심; 신경외과 협진
+* 전신 증상 : 발열, 체중 감소, 야간 통증, 악성 종양 과거력 → 경추 감염·전이성 병변 배제
+* 외상 후 급성 발생 : 고에너지 손상 후 심한 경부통·두통 → 경추 골절·불안정성 배제 (C-spine X-ray 또는 CT)
+* 50세 이후 새로운 두통 + 경부 증상 → 거대세포 동맥염 감별 (ESR, CRP)
 
 ### <mark style="color:$primary;">진단 기준 \[ICHD-3]</mark>
 
@@ -132,17 +129,19 @@ _5) 경부인성두통은 ①편측으로 국한된 통증, ②목 근육에 손
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
-{% hint style="info" %}
-경부인성두통의 치료는 원인 병변 치료가 핵심이다. 약물 치료 단독으로는 효과가 제한적이며, 물리치료·신경차단술을 중심으로 한 다학제적 접근이 권장된다.
-{% endhint %}
+* 경부인성두통의 치료는 원인 병변 치료가 핵심임
+* 약물 치료 단독으로는 효과가 제한적이며, 물리치료·신경차단술을 중심으로 한 다학제적 접근을권고
+  * 편두통 등 1차성 두통에 비해 약물 반응이 상대적으로 낮음
+  * 약물은 통증 조절과 물리치료 병행을 돕는 보조 수단
+  * 시술 또는 물리치료의 필요성을 환자에게 충분히 설명하는 것이 중요
 
-### <mark style="color:$primary;">비약물 치료 (1차 치료)</mark>
+## <mark style="color:green;">비약물 치료 (1차 치료)</mark>
 
 #### 물리치료
 
-* **도수치료(Manipulation) / 관절 가동화(Mobilization)** : 상부 경추 관절 가동술이 가장 근거 수준이 높음 (Level A); 단, 추골동맥 손상 위험을 고려하여 시행 전 평가 필요
-* **심부 경부 굴곡근 운동(Deep cervical flexor exercise)** : 두통 빈도·강도 감소에 효과적; 장기적 재발 예방에 기여
-* **견갑골 안정화 운동(Scapular stabilization exercise)** : 경추 부하 분산 → 장기적 재발 예방 효과; 물리치료사와 연계하여 처방
+* 도수치료(Manipulation) / 관절 가동화(Mobilization) : 상부 경추 관절 가동술이 가장 근거 수준이 높음 (Level A); 단, 추골동맥 손상 위험을 고려하여 시행 전 평가 필요
+* 심부 경부 굴곡근 운동(Deep cervical flexor exercise) : 두통 빈도·강도 감소에 효과적; 장기적 재발 예방에 기여
+* 견갑골 안정화 운동(Scapular stabilization exercise) : 경추 부하 분산 → 장기적 재발 예방 효과; 물리치료사와 연계하여 처방
 * 자세 교정 치료, 경추 안정화 운동
 * 온열·냉찜질, 경피신경전기자극(TENS) : 보조적
 
@@ -152,11 +151,7 @@ _5) 경부인성두통은 ①편측으로 국한된 통증, ②목 근육에 손
 * 장시간 한 자세 유지 금지 (30\~40분마다 스트레칭)
 * 옆으로 눕거나 엎드려 자는 수면 자세 교정
 
-### <mark style="color:$primary;">약물 치료 (보조적)</mark>
-
-{% hint style="info" %}
-경부인성두통은 편두통 등 1차성 두통에 비해 약물 반응이 상대적으로 낮다. 약물은 통증 조절과 물리치료 병행을 돕는 보조 수단이며, 시술 또는 물리치료의 필요성을 환자에게 충분히 설명하는 것이 중요하다.
-{% endhint %}
+## <mark style="color:green;">약물 치료 (보조적)</mark>
 
 * **NSAID** : 급성 통증 완화 (1차 선택)
   * naproxen 500 ㎎ bid, ibuprofen 400\~600 ㎎ tid
@@ -168,7 +163,7 @@ _5) 경부인성두통은 ①편측으로 국한된 통증, ②목 근육에 손
 * **Gabapentinoid** : 신경인성 통증 요소 동반 시
   * gabapentin 300\~900 ㎎/d, pregabalin 75\~150 ㎎/d
 
-### <mark style="color:$primary;">시술 치료</mark>
+## <mark style="color:green;">시술 치료</mark>
 
 #### 후두신경차단술 (Greater occipital nerve block, GON block)
 
