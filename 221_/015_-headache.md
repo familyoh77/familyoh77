@@ -1,10 +1,8 @@
 # 두통 Headache
 
-![image](../.gitbook/assets/e5396d45-2ae4-4275-81e7-68af59d4100d.JPG)
+## <mark style="color:green;">일반 사항</mark>
 
-## 일반 사항
-
-### 분류 \[IHS classification ICHD-3]
+### <mark style="color:$primary;">분류 \[IHS classification ICHD-3]</mark>
 
 1. Migraine
 2. Tension type headache(=Ⓗ)
@@ -83,19 +81,11 @@
 
 11.2 Ⓗ attributed to disorder of the neck; cervicogenic Ⓗ, retropharyngeal tendonitis, craniocervical dystonia
 
-11.3 Ⓗ attributed to disorder of the eyes: acute angle-closure glaucoma, refractive error,
-
-```
-ocular inflammatory disorder, trochlear Ⓗ
-```
+11.3 Ⓗ attributed to disorder of the eyes: acute angle-closure glaucoma, refractive error, ocular inflammatory disorder, trochlear Ⓗ
 
 11.4 Ⓗ attributed to disorder of the ears
 
-11.5 Ⓗ attributed to disorder of the nose or paranasal sinuses: acute rhinosinusitis, chronic or
-
-```
-recurring rhinosinusitis
-```
+11.5 Ⓗ attributed to disorder of the nose or paranasal sinuses: acute rhinosinusitis, chronic or recurring rhinosinusitis
 
 11.6 Ⓗ attributed to disorder of the teeth
 
@@ -103,11 +93,7 @@ recurring rhinosinusitis
 
 11.8 Head or facial pain attributed to inflammation of the stylohyoid ligament
 
-11.9 Ⓗ or facial pain attributed to other disorder of cranium, neck, eyes, ears, nose, sinuses, teeth, mouth or
-
-```
-other facial or cervical structure
-```
+11.9 Ⓗ or facial pain attributed to other disorder of cranium, neck, eyes, ears, nose, sinuses, teeth, mouth or other facial or cervical structure
 
 12\. Ⓗ attributed to psychiatric disorder: somatization disorder, psychotic disorder
 
