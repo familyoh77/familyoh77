@@ -104,7 +104,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 압통 → DVT; 림프부종에서는 보통 압통이 없음 (때로 심한 통증)
 * pitting edema(＞5초) → DVT, 정맥 부전, 림프부종; fibrotic form에서는 보통 나타나지 않음
 * non-pitting edema → lymphedema(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
-* Stemmer sign 양성 (2nd toe 근위부 피부가 두꺼워 집히지 않음) → lymphedema에 특이적; 음성이라도 배제 불가
+* Stemmer sign : 2nd toe(또는 2nd finger) 근위부 등쪽 피부를 엄지·검지로 집어 올림; 집히지 않으면 양성 → lymphedema에 특이적; 음성이라도 배제 불가
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
 * 작고 깊고 심한 통증성 궤양 → 동맥 부전, 혈관염, 감염
 * 통증이 없는 궤양 → diabetic vascular ulcer
