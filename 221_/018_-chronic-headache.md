@@ -125,18 +125,20 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 ☞ [두통 챕터 Red Flags 참조](015_-headache.md)
 
 {% hint style="danger" %}
-#### 위험 신호 (SNOOP4)
+#### 위험 신호 (SNOOP4+)
 
 아래 위험 신호가 있는 경우 뇌영상(MRI/CT) 등 추가 검사로 2차성 두통을 반드시 배제한다.
 
-* **S**ystemic symptoms : 발열, 체중 감소, 악성 종양 과거력
+* **S**ystemic symptoms : 발열, 체중 감소, HIV/면역 저하 상태
 * **N**eurologic signs : 의식 변화, 국소 신경 징후, 유두부종
+* **N**eoplasm history : 과거 암 병력 → 뇌전이 의심
 * **O**nset sudden : 벼락두통 (thunderclap headache)
 * **O**lder age : 50세 이후 새로운 두통 발생
 * **P**attern change : 두통 양상의 최근 변화 또는 점진적 악화
 * **P**ostural : 체위 변화에 따른 두통 (기립 또는 와위 시 악화)
 * **P**recipitated by Valsalva : 기침, 힘주기, 운동으로 유발
 * **P**apilledema : 시야 흐림, 박동성 이명, 비만 여성 → 특발성 두개내 고혈압 시사
+* **P**regnancy : 임신 또는 산후 발생 → 자간전증, 뇌정맥혈전증 감별
 {% endhint %}
 
 ### <mark style="color:$primary;">감별 진단</mark>
@@ -178,11 +180,12 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 
 #### 지속반두통 (Hemicrania continua)
 
-* 1차 치료 : indomethacin (진단적 치료 겸용)
+* **1차 치료 : indomethacin** — 진단 기준(Criterion D)에 포함될 만큼 반응이 절대적이므로, indomethacin에 대한 완전한 반응 자체가 진단을 확정하는 의미를 가짐 (진단적 치료)
 * indomethacin 불내성(위장관 부작용 등) 시 대안 :
   * celecoxib 200 ㎎ bid
   * topiramate 50\~100 ㎎/d
   * melatonin 9\~15 ㎎ 취침 전 (근거 제한적)
+* 후두신경차단술(Occipital nerve block) : indomethacin 반응은 있으나 장기 복용이 어려운 경우 보조적 선택지로 고려 가능 (근거 제한적)
 
 #### 수면두통 (Hypnic headache)
 
@@ -200,69 +203,83 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 * 예방 치료 병행 : topiramate (25 ㎎/d에서 시작 → 100 ㎎/d 목표), valproate, amitriptyline
 * 만성 편두통 동반 시 OnabotulinumtoxinA (보톡스) 보험 적용 가능 (☞ p.76)
 
+{% hint style="info" %}
+**환자 교육 — 반동 두통(Rebound headache)**
+
+약물 중단 후 보통 **2\~10일간** 기존보다 심한 반동 두통이 발생할 수 있음. 이 시기를 견뎌야 MOH에서 벗어날 수 있음을 사전에 충분히 설명하는 것이 치료 순응도에 결정적. 반동 두통 기간 중에는 naproxen 또는 단기 steroid를 브릿지 요법으로 활용 가능.
+{% endhint %}
+
+#### CGRP 표적 치료제 (만성 편두통·MOH 예방)
+
+* 만성 편두통 예방 및 MOH 환자의 예방 치료에 Level A 근거를 가짐
+* MOH 환자에서도 약물 중단 없이 예방 효과가 입증됨 (galcanezumab FOCUS 연구 등)
+* 기존 경구 예방약(topiramate, amitriptyline 등)에 부작용·효과 부족 시 대안으로 고려
+
+{% hint style="warning" %}
+**국내 보험 급여 기준** : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정. 급여 외 사용 시 비급여(고가). ☞ 편두통 챕터 참조 (p.76)
+{% endhint %}
+
+<table><thead><tr><th>구분</th><th>성분명</th><th>상품명</th><th>용법</th><th>제조/판매사</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제</td><td>Galcanezumab</td><td><strong>엠갈리티</strong></td><td>120 ㎎/월 SC (초회 240 ㎎)</td><td>한국릴리</td></tr><tr><td>Fremanezumab</td><td><strong>아조비</strong></td><td>225 ㎎/월 or 675 ㎎/분기 SC</td><td>한독/테바</td></tr><tr><td>Erenumab</td><td><strong>에레뉴맙</strong></td><td>70\~140 ㎎/월 SC</td><td>제일약품(노바티스)</td></tr><tr><td>경구용 (Gepant)</td><td>Rimegepant</td><td><strong>너텍</strong></td><td>75 ㎎ 급성기; 예방 목적 격일 복용</td><td>광동제약(화이자)</td></tr></tbody></table>
+
+_※ Gepant(너텍)는 MOH 유발 위험이 없어 기존 진통제·triptan 과용 환자에서 특히 유리_
+
 ***
 
 ### <mark style="color:purple;">질병코드</mark>
 
-| 질환                          | 코드     |
-| --------------------------- | ------ |
-| 만성 편두통                      | G43.3  |
-| 만성 긴장형두통                    | G44.2  |
-| 신생매일지속두통 (NDPH)             | G44.3  |
-| 지속반두통 (Hemicrania continua) | G44.51 |
-| 수면두통 (Hypnic headache)      | G44.81 |
-| 약물과용두통 (MOH)                | G44.40 |
-| 특발성 두개내 고혈압                 | G93.2  |
+G43.3 만성 편두통
+
+G44.2 만성 긴장형두통
+
+G44.3 신생매일지속두통 (NDPH)
+
+G44.51 지속반두통 (Hemicrania continua)
+
+G44.81 수면두통 (Hypnic headache)
+
+G44.40 약물과용두통 (MOH)
+
+G93.2 특발성 두개내 고혈압
 
 ***
 
-### <mark style="color:orange;">처방례</mark>
+## <mark style="color:orange;">처방례</mark>
 
-#### ① 신생매일지속두통 — 편두통형
+> **처방례 1. 신생매일지속두통 — 편두통형**
+>
+> ```
+> 에트라빌 10 ㎎/T 1T hs
+>   → 2~4주마다 10 ㎎씩 증량, 목표 25~75 ㎎/d
+> 오르필서방정 250 ㎎/T 1T bid (필요 시 병용; 반응에 따라 500 ㎎ bid까지 증량)
+> ```
 
-```
-amitriptyline 10 ㎎ (에트라빌정) 1T 취침 전
-  → 2~4주마다 10 ㎎씩 증량, 목표 25~75 ㎎/d
-  
-필요 시 병용 : valproate 서방정 250 ㎎ (오르필서방정) 1T bid
-  → 반응에 따라 500 ㎎ bid까지 증량
-```
+> **처방례 2. 지속반두통 (Hemicrania continua) — 진단 및 1차 치료**
+>
+> ```
+> 인도메타신 25 ㎎/T 1T tid (식후)
+>   → 반응 확인 후 최소 유효 용량으로 감량 (25 ㎎/d까지 가능)
+> 오메프라졸 20 ㎎/T 1T qd (위장 보호; 식전)
+> ※ 불내성 시: 쎄레브렉스 200 ㎎/T 1T bid
+> ```
 
-#### ② 지속반두통 (Hemicrania continua) — 진단 및 1차 치료
+> **처방례 3. 수면두통 (Hypnic headache)**
+>
+> ```
+> [1차] 취침 전 caffeine 60~80 ㎎ (커피 1잔 상당)
+> [대안] 리튬카보네이트 150 ㎎/T 1T hs
+>   → 혈중 농도 0.3~0.8 mEq/L 목표; 신기능·갑상선 기능 모니터링
+> 또는 인도메타신 25 ㎎/T 1T hs
+> ```
 
-```
-indomethacin 25 ㎎ (인도메타신정) 1T tid (식후)
-  → 반응 확인 (통상 1~2주 내 현저한 호전)
-  → 유지: 최소 유효 용량으로 감량 (25 ㎎/d까지 가능)
-  
-위장 보호제 병행: omeprazole 20 ㎎ (오메프라졸) 1T qd (식전)
-
-※ 불내성 시: celecoxib 200 ㎎ (쎄레브렉스) 1T bid
-```
-
-#### ③ 수면두통 (Hypnic headache)
-
-```
-[1차] 취침 전 caffeine 60~80 ㎎ (커피 1잔 상당)
-
-[대안] lithium carbonate 150 ㎎ (리튬카보네이트정) 1T 취침 전
-  → 혈중 농도 0.3~0.8 mEq/L 목표; 신기능, 갑상선 기능 모니터링
-
-또는 indomethacin 25 ㎎ (인도메타신정) 1T 취침 전
-```
-
-#### ④ 약물과용두통 (MOH) — 약물 중단 + 예방 치료
-
-```
-[금단 증상 완화 — 단기 브릿지, opioid/triptan 과용 환자]
-naproxen 500 ㎎ (낙센에프정) 1T bid × 2~4주
-  (단, NSAID 과용이 원인인 경우 사용 불가)
-
-또는 prednisolone 60 ㎎ (소론도) qd ×2d → 40 ㎎ ×2d → 20 ㎎ ×2d
-
-[예방 치료 — 동시 시작 권장]
-topiramate 25 ㎎ (토파맥스정) 1T qd (저녁)
-  → 4주마다 25 ㎎씩 증량, 목표 100 ㎎/d
-  
-또는 amitriptyline 10~25 ㎎ 취침 전 (긴장형두통 동반 시 선호)
-```
+> **처방례 4. 약물과용두통 (MOH) — 약물 중단 + 예방 치료**
+>
+> ```
+> [금단 증상 완화 브릿지 요법 — opioid/triptan 과용 환자; NSAID 과용이 원인인 경우 사용 불가]
+> 낙센에프 500 ㎎/T 1T bid × 2~4주
+> 또는 소론도 60 ㎎/T qd ×2d → 40 ㎎/T ×2d → 20 ㎎/T ×2d
+> 또는 미가드(frovatriptan) 2.5 ㎎/T 1T bid × 6~7일 (장기 작용형 triptan; triptan 과용이 아닌 경우)
+>
+> [예방 치료 — 동시 시작 권장]
+> 토파맥스 25 ㎎/T 1T hs × 4주 → 이후 증량 (목표 100 ㎎/d)
+> 또는 에트라빌 10~25 ㎎/T 1T hs (긴장형두통 동반 시 선호)
+> ```
