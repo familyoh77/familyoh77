@@ -2,6 +2,9 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
+* 병력 청취 및 신체검사 수행 → 경고 징후 배제 후 원인 추정 및 관리
+* 재발성 두통의 가장 흔한 형태는 편두통과 긴장형두통이며 종종 약물과용두통도 해당됨
+
 ### <mark style="color:$primary;">분류 \[IHS classification ICHD-3]</mark>
 
 1. Migraine
@@ -127,12 +130,7 @@
 
 14.2 Ⓗ unspecified
 
-## 일반 사항
-
-* 병력 청취 및 신체검사 수행 → 경고 징후 배제 후 원인 추정 및 관리
-* 재발성 두통의 가장 흔한 형태는 편두통과 긴장형두통이며 종종 약물과용두통도 해당됨
-
-### 두통 유발 인자
+### <mark style="color:$primary;">두통 유발 인자</mark>
 
 * 식이 : 술, 초콜릿, 치즈, MSG, 아스파탐, 카페인, 견과류, nitrite
 * 호르몬 : 월경, 배란, HRT(progesterone)
@@ -142,7 +140,7 @@
 
     출퇴근 시간 변화, 수면 패턴 변화, 식사 패턴 변화, 끼니 거름, 불규칙 생활
 
-### <mark style="color:$danger;">RED FLAGS!</mark>
+### 🚩 <mark style="color:$danger;">Red Flags!</mark>
 
 * 처음으로 느껴보는 심한 수준의 두통
 * 갑자기 시작되어 5분 이내에 최고조에 이름
