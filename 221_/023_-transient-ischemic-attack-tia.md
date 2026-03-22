@@ -36,15 +36,7 @@
 
 **ABCD² score**
 
-| 항목 | 조건 | 배점 |
-|---|---|:---:|
-| Age | ≥60세 | 1 |
-| BP | SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg | 1 |
-| Clinical features | 편측 국소 약화 증상 | 2 |
-| | 약화 증상 없는 발음 장애 | 1 |
-| Duration | ≥60분 | 2 |
-| | 10\~59분 | 1 |
-| Diabetes | 있음 | 1 |
+<table><thead><tr><th>항목</th><th width="307">조건</th><th align="center">배점</th></tr></thead><tbody><tr><td>Age</td><td>≥60세</td><td align="center">1</td></tr><tr><td>BP</td><td>SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg</td><td align="center">1</td></tr><tr><td>Clinical features</td><td>편측 국소 약화 증상</td><td align="center">2</td></tr><tr><td></td><td>약화 증상 없는 발음 장애</td><td align="center">1</td></tr><tr><td>Duration</td><td>≥60분</td><td align="center">2</td></tr><tr><td></td><td>10~59분</td><td align="center">1</td></tr><tr><td>Diabetes</td><td>있음</td><td align="center">1</td></tr></tbody></table>
 
 ▶ 의의 : TIA 후 48시간 내의 뇌졸중 발생 위험도 추정; DAPT 적용 기준(≥4점)으로도 활용
 
@@ -64,7 +56,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * SAH : 갑자기 발생, 광선 공포증을 동반한 심한 두통
 * 현훈 : 어지럼(±난청), 발한
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
@@ -113,13 +105,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * cardioembolic TIA(심방세동 등)에 적용 (보험기준 ☞ p.1187)
 * NOAC이 warfarin보다 우선 권고
 
-| 약물 | 용량 | 상품명 |
-|---|---|---|
-| apixaban | 2.5\~5 ㎎ bid | 엘리퀴스 |
-| rivaroxaban | 15\~20 ㎎ qd (저녁 식사와 함께) | 자렐토 |
-| edoxaban | 30\~60 ㎎ qd | 릭시아나 |
-| dabigatran | 110\~150 ㎎ bid | 프라닥사 |
-| warfarin | INR 목표 2.0\~3.0에 따라 용량 조절 | 와파린 |
+<table><thead><tr><th width="150.15789794921875">약물</th><th width="291.31573486328125">용량</th><th>상품명</th></tr></thead><tbody><tr><td>apixaban</td><td>2.5~5 ㎎ bid</td><td>엘리퀴스</td></tr><tr><td>rivaroxaban</td><td>15~20 ㎎ qd (저녁 식사와 함께)</td><td>자렐토</td></tr><tr><td>edoxaban</td><td>30~60 ㎎ qd</td><td>릭시아나</td></tr><tr><td>dabigatran</td><td>110~150 ㎎ bid</td><td>프라닥사</td></tr><tr><td>warfarin</td><td>INR 목표 2.0~3.0에 따라 용량 조절</td><td>와파린</td></tr></tbody></table>
 
 ### <mark style="color:$primary;">Statin</mark>
 
