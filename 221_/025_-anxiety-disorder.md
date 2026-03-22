@@ -47,13 +47,11 @@
 ## <mark style="color:green;">임상 양상</mark>
 
 * 걱정, 두려움, 예기 불안, 집중력 저하, 불안 유발 상황에 대한 경계, 대인 접촉 기피
-* 안절부절, 두근거림, 떨림, 근육 긴장/통증, 땀 흘림, 손 냉증/축축함, 숨 막힘, 과호흡, 어지럼, 피로, 목 안의 덩어리 느낌, 입마름, 피부 감각 저하/저림
-* 복통, 소화불량, 식욕 저하, 구역, 구토, 설사
+* 안절부절, 두근거림, 떨림, 근육 긴장/통증, 땀 흘림, 손 냉증/축축함, 숨 막힘, 과호흡, 어지럼, 피로, 목 안의 덩어리 느낌, 입마름, 피부 감각 저하/저림, 두통, 홍조, 흉통/가슴 답답함
+* 복통, 소화불량, 식욕 저하, 구역, 구토, 설사, 빈뇨
 * 수면 장애, 악몽, 성욕 감퇴
 
 ※ 공황장애에 비하여 호흡 곤란, 두근거림, 빈맥 증상은 적음
-
-※ Anorexia, "Butterflies" in stomach(불안/긴장으로 인하여 속이 떨림), Chest pain or tightness, Diaphoresis, Diarrhea, Dizziness, Dry mouth, Dyspnea, Faintness, Flushing, Headache, Hyperventilation, Light-headedness, Muscle tension, Nausea, Pallor, Palpitations, Paresthesia, Sexual dysfunction, Shortness of breath, Stomach pain, Tachycardia, Tremulousness, Urinary frequency, Vomiting
 
 ## <mark style="color:green;">진단</mark>
 
@@ -67,10 +65,8 @@
 
 ▶ 판정 : 0\~4점 = minimal / 5\~9점 = mild / 10\~14점 = moderate / 15\~21점 = severe
 
-{% hint style="info" %}
 \[삶의 질 평가] (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
 ☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다.
-{% endhint %}
 
 #### GAD-2 screening
 
@@ -136,7 +132,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>_
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
@@ -153,7 +149,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 인지행동 요법(CBT), mindfulness-based therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
 * 카페인 섭취 제한, 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
 * 신체 활동, 이완 요법 : 규칙적 운동, 요가, 태극권, 기공, 명상; 일부 연구에서 유효
-* 스마트폰 기반 CBT 앱 : 경증~중등도에서 보조적 활용 가능 (근거 축적 중, 2023 APA update)
+* 스마트폰 기반 CBT 앱 : 경증\~중등도에서 보조적 활용 가능 (근거 축적 중, 2023 APA update)
 * 허브(근거 부족) : St. John's wort(hyperici), Sympathyl, 시계풀(passionflower), 쥐오줌풀(valerian)
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -161,16 +157,16 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 저용량으로 시작
 * 1차 선택 : SSRI/SNRI
 * 항경련제, 마약성 진통제와의 병용 시 과도한 진정, 호흡 억제가 발생될 수 있으므로 주의
-* 항우울제 효과 발현까지 2\~~~4주 소요; 완화는 4\~~~6개월 후에 나타남
+* 항우울제 효과 발현까지 2\~\~\~4주 소요; 완화는 4\~\~\~6개월 후에 나타남
 * 추적 관찰 : 첫 3개월 동안 2\~4주마다, 이후 3개월마다 약효와 부작용 평가
   * 새로운 약제 투여 시 2\~4주 내 F/U
-* 치료 유지 기간 : 재발 감소를 위하여 **첫 삽화 후 최소 12개월** 이상 유지; **재발력이 있는 경우 2년 이상** 유지 권고 \[NICE 2023]
+* 치료 유지 기간 : 재발 감소를 위하여 첫 삽화 후 최소 12개월 이상 유지; 재발력이 있는 경우 2년 이상 유지 권고 \[NICE 2023]
 * 약제 중단 시 tapering 하며(갑자기 중단하지 않음) 증상 재발, 약물 금단 증상 등 모니터링
 
 #### SSRI/SNRI
 
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ p.1146)
-* 저용량으로 시작 → 4\~~~6주 후 평가하여 효과가 부족하면 1\~~~2주 간격으로 증량
+* 저용량으로 시작 → 4\~\~\~6주 후 평가하여 효과가 부족하면 1\~\~\~2주 간격으로 증량
 * 부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 4주 동안 매주 자살 생각에 대하여 모니터링)
 * 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 모니터링 — 투약 초기 전해질 확인 권고
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
@@ -311,7 +307,7 @@ F41.9 상세불명의 불안장애
 > ※ 중단 시 discontinuation syndrome 발생 빈도 높음 — 반드시 서서히 감량
 > ```
 
-> **처방례 5.** GAD — Step 3, SSRI + 비전형 항정신병제 병용 (Step 1~2 불충분)
+> **처방례 5.** GAD — Step 3, SSRI + 비전형 항정신병제 병용 (Step 1\~2 불충분)
 >
 > ```
 > 졸로푸트 50 mg/T  1T  qd  조식 후
