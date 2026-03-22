@@ -38,14 +38,14 @@
 
 * 유발 인자 없이 발생 또는 비전형적 양상
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>&#x20;
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:red;">다음 소견이 있으면 단순 반사성 실신보다 심혈관·신경계 원인을 우선 배제</mark>
 
 * 운동 중 또는 누운 자세에서 실신 발생
 * 흉통, 심계항진, 호흡 곤란 동반
 * 구조적 심질환 또는 가족성 급사 병력
-* 전조 증상 없이(無前驅) 갑자기 의식 소실
+* 전조 증상 없이 갑자기 의식 소실
 * ECG 이상 : QTc 연장(＞500 ms) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block
 * 신경학적 이상(국소 마비, 구음 장애, 복시 등) → 뇌졸중·TIA 의심
 
@@ -73,8 +73,8 @@
 
 ### 치료 방침
 
-* 안심시킴 및 교육 (Class I 권고 — 2017 ACC/AHA/HRS 가이드라인)
-* 유발인자 회피
+* 안심시킴 및 교육&#x20;
+* 유발 인자 회피
 * 물리적 요법
 * 약물 치료 : 보통 필요 없으며 효과 입증이 불충분함; 재발성 실신에서 고려
   * 반사성 실신에 대한 약물 치료는 전반적으로 근거 수준이 낮으며, 비약물 치료가 우선임. 재발성·중증 실신에서 개별 상황에 따라 선택적으로 고려
@@ -87,14 +87,15 @@
 * 수분 및 소금 섭취를 늘림 (수분 ≥2 L/d, 소금 6\~9 g/d 목표)
 * 증상 발생 시 음료 500 ㎖ 섭취 및 다리를 올리고 누워 있음
 * 중등 강도의 운동 : isometric exercise
-* tilt training : 미주신경성 실신을 자주 하는 젊은 환자들에게 적용; 벽에서 15 ㎝ 정도 떨어져 벽에 등을 대고 서서 30분 정도 움직이지 않고 서 있는 연습을 매일 1\~2번 반복; 임상적 유효성 근거는 제한적
+* tilt training : 미주신경성 실신을 자주 하는 젊은 환자들에게 적용; 임상적 유효성 근거는 제한적
+  * 벽에서 15 ㎝ 정도 떨어져 벽에 등을 대고 서서 30분 정도 움직이지 않고 서 있는 연습을 매일 1\~2번 반복
 * 압박 스타킹 착용
 * 기저 질환(예: 당뇨) 치료
 * 혈압 강하 약물 검토 및 감량/중단 고려
 
 #### Counter-pressure maneuver
 
-* vasovagal syncope에서 유용&#x20;
+* vasovagal syncope에서 유용
 * 전구 증상이 느껴질 때 누울 수 없는 상황인 경우에 다음을 시행
   * 다리를 교차시키고 다리, 복부, 엉덩이에 힘을 주는 동작을 수 분간 반복하거나 제자리에 쪼그리고 앉음
   * 양 손을 맞잡고 서로 당겨 팔 근육을 긴장시키거나 (작은 공 등을 이용하여) 주먹을 꼭 쥠
@@ -102,40 +103,22 @@
 
 ## <mark style="color:green;">약물 치료</mark>
 
-<<<<<<< HEAD
-{% hint style="warning" %}
-반사성 실신에 대한 약물 치료는 전반적으로 근거 수준이 낮으며, 비약물 치료가 우선이다. 재발성·중증 실신에서 개별 상황에 따라 선택적으로 고려한다.
-{% endhint %}
-
-* **α-agonist** : midodrine \[미드론] (☞ p.502); 기립성 유발 VVS에서 선호; 2021 무작위·이중맹검·위약대조 RCT(POST 4) 및 2022년 7개 RCT 메타분석에서 재발 감소 확인 (중등도\~고질 근거; NNT ≈ 5); VVS 약물 중 현재 가장 강한 근거
-* **mineralocorticoid** : fludrocortisone \[플로리네프] (☞ p.502); 수분/나트륨 저류 기전; 효과 입증 불충분
-* **β-blocker** : <mark style="color:$warning;">ESC 2018 가이드라인 : VVS에 β-blocker는 적응증 없음 (Class III, LOE A)</mark>; ACC/AHA 2017 : 40세 이상에서 제한적 고려 가능 (Class IIb); 소아·청소년에서는 유익성 없음 (Class III)
+* α-agonist : 기립성 유발 VVS에서 선호;  VVS 약물 중 현재 가장 강한 근거(2021 무작위·이중맹검·위약대조 RCT 및 2022년 7개 RCT 메타분석에서 재발 감소 확인
+  * midodrine \[미드론] (☞ p.502)&#x20;
+* mineralocorticoid : 수분/나트륨 저류 기전; 효과 입증 불충분
+  * fludrocortisone \[플로리네프] (☞ p.502)
+* β-blocker : ESC 2018 가이드라인- VVS에 β-blocker는 적응증 없음(Class III, LOE A); ACC/AHA 2017- 40세 이상에서 제한적 고려 가능(Class IIb), 소아·청소년에서는 유익성 없음(Class III)
   * metoprolol \[베타록], atenolol \[테놀민] (☞ p.487)
-* **SSRI** : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2022년 네트워크 메타분석(Heart Rhythm)에서 fluoxetine이 재발 감소 확인(RR 0.36); paroxetine은 동 분석에서 재발 증가 시사(RR 3.00)로 권고하지 않음
+* SSRI : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2022년 네트워크 메타분석에서 fluoxetine이 재발 감소 확인; paroxetine은 동 분석에서 재발 증가 시사로 권고하지 않음
   * fluoxetine \[푸록틴, 프로작] (☞ p.1146)
 
-{% hint style="info" %}
-※ α-agonist(midodrine), fludrocortisone 모두 효과에 대한 입증은 불충분함. β-blocker는 ESC 가이드라인에서 VVS에 대한 사용을 권고하지 않음. SSRI 중 paroxetine은 재발 증가 가능성이 시사되어 사용하지 않음.
-{% endhint %}
-
-=======
-* α-agonist : 기립성 유발 VVS에서 선호. 효과 입증 불충분
-  * midodrine \[미드론] (☞ p.502)
-* mineralocorticoid : 수분/나트륨 저류 기전. 효과 입증 불충분
-  * fludrocortisone \[플로리네프] (☞ p.502)
-* β-blocker : ESC 2018 가이드라인- VVS에 β-blocker는 적응증 없음 (Class III, LOE A); ACC/AHA 2017- 40세 이상에서 제한적 고려 가능 (Class IIb), 소아·청소년에서는 유익성 없음 (Class III);&#x20;
-  * metoprolol \[베타록], atenolol \[테놀민] (☞ p.487)
-* SSRI : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 소규모연구에서재발 감소 효과 시사&#x20;
-  * paroxetine \[세로자트] (☞ p.1146)
-
->>>>>>> 38191258ccaab01ea2d02c506232a8ab19b3b125
 ## <mark style="color:green;">침습적 치료</mark>
 
 ### 심박동기 (Pacemaker)
 
 * 적응증 (2021 ESC 심박동기 가이드라인 - Class I, LOE A) : 40세 이상, 재발성·중증(외상 동반, 전구 증상 짧음), 약물 치료에 반응 없는 cardioinhbitory형 VVS에서 ILR 또는 carotid sinus 마사지/tilt test로 무수축(asystole) 확인 시 dual-chamber pacemaker 적응
   * 무수축 기준 : ILR에서 ≥3초 (증상 동반) 또는 ≥6초 (무증상)
-  * <mark style="color:$info;">※ 이전(2013 ESC) Class IIb에서 Class I으로 상향 (BioSync CLS 등 RCT 결과 반영)</mark>
+  * ※ 이전(2013 ESC) Class IIb에서 Class I으로 상향 (BioSync CLS 등 RCT 결과 반영)
 * 목동맥굴증후군(carotid sinus syndrome)의 cardioinhibitory/mixed형 : pacemaker 적응 (Class I)
 * Vasodepressor 우세형 또는 40세 미만 환자에서는 pacemaker 효과 제한적
 
