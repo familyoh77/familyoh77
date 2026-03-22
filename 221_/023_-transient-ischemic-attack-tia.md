@@ -79,7 +79,7 @@ _<mark style="color:$info;">Neurology 2010;74(17)</mark>_
 
 * atherothrombotic TIA에 적용 (☞ p.1154, 보험기준 p.1187)
 * 서방형 dipyridamole/aspirin : 200/25 ㎎ bid; 단독 요법보다 효과/부작용 많음 \[디피아녹스]
-* aspirin : 50~~325 ㎎/d, 급성기 160~~325 ㎎/d \[아스피린 장용정]
+* aspirin : 50\~~~325 ㎎/d, 급성기 160\~~~325 ㎎/d \[아스피린 장용정]
 * clopidogrel : 75 ㎎/d; aspirin 알레르기가 있는 환자에서 선택 \[플라빅스]
 * clopidogrel/aspirin : 단독 요법보다 유효. 장기 사용 시 출혈 위험 증가 \[클라빅신 듀오]
 * ticlopidine : 다른 약제를 사용할 수 없는 환자에서 고려 \[티클로돈]
