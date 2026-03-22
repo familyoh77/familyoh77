@@ -36,13 +36,24 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-* 청력 손실, 진성 현훈, 중추성 안진
-* 외상 후 발생
-* 행동 장애, 심한 자세 불안(부축 없이 걸을 수 없음), 실신, 허탈
-* 신경학적 이상 : 시각 이상, 구음 장애, 팔/다리 약화, 감각 저하, tingling
-* 흉통, 이전에 경험하지 못한 심한 두통, 과거 뇌졸중 병력
-* 48시간 후에도 호전되지 않음
-* 원인 미상의 발열(＞38℃)
+<mark style="color:$danger;">**즉각 응급 (119 호출 또는 응급실 진료; 수 분\~수십 분 내)**</mark>
+
+* 신경학적 이상 : 시각 이상, 구음 장애, 팔/다리 약화, 감각 저하, tingling → 뇌간·소뇌 뇌졸중 의심
+* 중추성 안진 (수직 안진, 방향 변환성 안진) → 소뇌·뇌간 병변의 특이적 징후
+* 흉통 동반 / 실신·허탈 → 심근경색·대동맥박리·부정맥 의심
+* 이전에 경험하지 못한 심한 두통 → 지주막하출혈(thunderclap headache) 의심
+
+<mark style="color:$warning;">**긴급 평가 (당일 응급실 — 수 시간 내)**</mark>
+
+* 외상 후 발생 → 두개내출혈 가능성
+* 심한 자세 불안(부축 없이 걸을 수 없음), 행동 장애 → 소뇌 경색·출혈 의심
+* 과거 뇌졸중 병력 + 어지럼 재발 → TIA/뇌졸중 재발 의심
+
+<mark style="color:$info;">**조기 평가 (24\~48시간 내 외래 또는 응급실)**</mark>
+
+* 청력 손실 동반 어지럼 → 미로염·AICA 경색 감별 필요 (신경 증상 동반 시 즉각 응급으로 격상)
+* 원인 미상의 발열(＞38℃) → 뇌막염·뇌염 가능성 (경부 강직·의식 변화 동반 시 즉각 응급으로 격상)
+* 48시간 후에도 호전되지 않음 → 중추성 원인 배제 필요
 
 ## <mark style="color:green;">원인</mark>
 
@@ -69,7 +80,7 @@
 
 * 특정 자세나 머리 움직임에 따라 심한 회전감 발생
 * 경과 : 돌발적 발생 → 자세를 바꾸고 안정하면 보통 수 분 이내 호전, 1주 일 이상 반복 발생
-* 동반 증상 : 구역&#x20;
+* 동반 증상 : 구역
   * 청력이나 신경학적 이상은 없음
 * 안진 : 말초성
 * 검사 : Dix-Hallpike test(post canal), Supine roll test(lat canal)
@@ -180,9 +191,9 @@
 **Dix-Hallpike test**
 
 * 방법 ([figure\_e-2.jpg, video\_1.wmv](https://www.neurology.org/doi/10.1212/01.wnl.0000313378.77444.ac))
-  * 침대에 무릎을 뻗은 상태로 길게 앉힘&#x20;
-  * → 머리를 45°옆으로 돌린 상태에서 턱을 약간 쳐들게 잡고, 머리가 수평보다 30°더 내려가게 빠르게 눕히고(머리를 침대 밖으로 늘어뜨림) 30초간 안진 관찰&#x20;
-  * → 다시 앉게 하고 30초간 안진 관찰&#x20;
+  * 침대에 무릎을 뻗은 상태로 길게 앉힘
+  * → 머리를 45°옆으로 돌린 상태에서 턱을 약간 쳐들게 잡고, 머리가 수평보다 30°더 내려가게 빠르게 눕히고(머리를 침대 밖으로 늘어뜨림) 30초간 안진 관찰
+  * → 다시 앉게 하고 30초간 안진 관찰
   * → 반대 방향으로 머리를 돌려 다시 시행
 * 진단 : 대부분 안진과 증상이 생기는 쪽의 post canal BPPV에 기인. 드물게 ant canal BPPV도 가능
 
@@ -197,7 +208,7 @@
 #### Head impulse test
 
 * 방법 ([Figure](https://www.nuemblog.com/blog/hints))
-  * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측 하지 못한 상태에서) 한쪽으로 빠르게 15°돌림&#x20;
+  * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측 하지 못한 상태에서) 한쪽으로 빠르게 15°돌림
   * → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행
 * 음성 (정상) : 시선이 표적에 고정됨; 소뇌 병변에서는 정상 반응을 보임
 * 양성 (비정상) : 시선이 머리 회전을 따라 돌아간 후 정면으로 돌아 옴; 회전시킨 쪽의 vestibulo-ocular reflex 결손 (peripheral vestibular lesion)
@@ -229,7 +240,7 @@
 * HiNTS 검사 시행 : head impulse test(-), 방향성이 있는 안진, test of skew(+) 시 즉시 의뢰(중추성 의심)
 * HiNTS 검사를 수행하지 못하는 상황에서 BPPV 또는 기립성 저혈압에 해당되지 않으면 즉시 의뢰
 
-**재발성 어지럼 with 기능적 신경학적 이상**&#x20;
+**재발성 어지럼 with 기능적 신경학적 이상**
 
 * 이미 functional neurological disorder로 진단받은 경우 반복되는 어지럼증은 장애 증상일 수 있음
 * 새로운 증상이 발생하면 재평가 필요
@@ -260,7 +271,7 @@ _<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). T
 | 안진: 수직/purely torsional    | 없음              | 있음                 |
 | 안진: 물체 주시 효과               | 주시로 진정됨         | 주시로 진정되지 않음        |
 | 안진:좌우 응시에 따른 fast phase 방향 | 변화 없음(건측 방향 안진) | 방향 변함              |
-| 안진:  지속 기간                 | 수일 후 사라짐        | 수 주\~수개월 지속        |
+| 안진: 지속 기간                  | 수일 후 사라짐        | 수 주\~수개월 지속        |
 | 자세 불균형 정도                  | 중등증 이하, 보행 가능   | 심함, 보행하기 힘듦        |
 | 구역, 구토                     | 심함              | 다양함                |
 | 이명, 청력 소실                  | 흔함              | 드묾/다양(이환 부위에 따라)   |
@@ -299,7 +310,7 @@ _Ref. Evaluation of the patient with vertigo. UpToDate. 2015._
 | **Brainstem infarction** | 갑자기 시작; 수일\~수 주      | 위와 동일                    | 중추성        | 다른 뇌간 증상                  | 보통 없음(전하부 소뇌동맥 증후군은 예외)           | 영상(MRI) 검사               |
 | **소뇌 경색 or 출혈**          | 갑자기 시작; 수일\~수 주      | 고령, 혈관 위험인자(고혈압)         | 중추성        | 보행 장애, 두통, 사지 마비, 연하 장애   | 없음                                | 응급 영상(MRI) 검사            |
 
-_<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDate. 2018.</mark>_&#x20;
+_<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDate. 2018.</mark>_
 
 _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</mark>_
 
@@ -315,20 +326,20 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 * 금연
 
-**전정 재활 운동**&#x20;
+**전정 재활 운동**
 
 * 어지럼 증상이 심하게 유발되지 않는 수준으로 시행
-* [예](https://youtu.be/KkKAoHZdUnI)&#x20;
-  1. 고개를 양 옆으로 움직임,&#x20;
-  2. 정면을 보고 위 아래로 움직임,&#x20;
+* [예](https://youtu.be/KkKAoHZdUnI)
+  1. 고개를 양 옆으로 움직임,
+  2. 정면을 보고 위 아래로 움직임,
   3. 옆으로 45도 돌리고 위 아래로 움직임 & 반대편에서 반복
   * 처음에는 눈을 뜨고 시선 고정 없이, 이후 정면 사물을 주시하면서(또는 팔을 뻗고 손가락을 응시하면서), 최종적으로 눈을 감고 운동
-  * 1회 20번, 1일 2회 이상 시행. 천천히 시작, 점차 빠르게 시행 &#x20;
+  * 1회 20번, 1일 2회 이상 시행. 천천히 시작, 점차 빠르게 시행
 
 **Balance exercise**
 
-* [예](https://www.uofmhealth.org/health-library/ug1239) &#x20;
-  1. 앞에는 의자 등, 뒤에는 벽을 두고(필요하면 이를 지지) 팔을 붙이고 발을 모으고 30초간 서 있음 (Romberg exercise)&#x20;
+* [예](https://www.uofmhealth.org/health-library/ug1239)
+  1. 앞에는 의자 등, 뒤에는 벽을 두고(필요하면 이를 지지) 팔을 붙이고 발을 모으고 30초간 서 있음 (Romberg exercise)
   2. 어깨 넓이로 발을 벌리고 서서 앞-뒤로, 좌-우로 기울임, 20번 반복
   3. 제자리 걷기(가급적 무릎을 높게 올림)
   4. 발을 약간 벌리고 서서 180도 turn
@@ -377,8 +388,8 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 ### <mark style="color:$primary;">Betahistine</mark>
 
+* 전정 핵의 흥분성 조절, 내이 혈류 개선 작
 * 말초성 어지럼증(메니에르병, 전정신경염) 증상 완화 및 예방에 적용
-* 기전 : 전정 핵의 흥분성 조절, 내이 혈류 개선
 * 용량 : 16 ㎎ tid (48 ㎎/d); 최소 3개월 이상 투여 \[베타세르크]
 * ✽BPPV에는 효과 없음; 중추성 어지럼증에 대한 근거 불충분
 
@@ -403,7 +414,7 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 * [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
   1. 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다 30°더 내려가게 눕히고(lay back, 머리를 침대 밖으로 늘어뜨림) 1분간 유지
   2. 이 상태에서 고개를 건측으로 90°돌려 1분간 유지
-  3. 머리와 몸을 건측으로 90°더 돌려 얼굴이 45°각도로 바닥을 향하게 하고 1분간 유지;  이 과정에서 두정부는 계속 아래를 향하도록 함
+  3. 머리와 몸을 건측으로 90°더 돌려 얼굴이 45°각도로 바닥을 향하게 하고 1분간 유지; 이 과정에서 두정부는 계속 아래를 향하도록 함
   4. 이 상태를 유지하며 천천히 일아나 앉게 하고 30초간 유지
 * 시술 중 구역 발생 가능성에 대하여 설명; 반복 시술할 수 있으며 시술 후 활동 제한은 필요 없음
 
@@ -412,7 +423,7 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 *   post canal BPPV에 적용
 
     Epley maneuver보다 효과가 더 좋다는 보고가 있음(증상 소멸까지 평균 SM-plus 2일 vs. EM 3일 소요)
-* [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329) :&#x20;
+* [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329) :
   * \[어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림
   * → 오른팔을 옆으로 뻗고 오른쪽(환측)으로, 머리가 침대 아래로 내려가도록(head 60 degree overextended) 150도 이상 옆으로 쓰러짐, 이 자세를 60초 유지
   * → 얼굴 각도를 유지한 채 왼쪽(건측)으로 240도 움직임. 60초 유지
@@ -422,10 +433,10 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 **Lempert roll maneuver(Barbecue roll maneuver)**
 
 * lat canal BPPV 치료법; 치료 성공률 ＜75%
-* 방법&#x20;
-  * 환측 귀가 바닥을 향하도록 90°옆으로 누움&#x20;
-  * → 건측으로 90도 돌아 누움(얼굴이 천정을 향한 자세)&#x20;
-  * → 건측으로 90도씩 더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함&#x20;
+* 방법
+  * 환측 귀가 바닥을 향하도록 90°옆으로 누움
+  * → 건측으로 90도 돌아 누움(얼굴이 천정을 향한 자세)
+  * → 건측으로 90도씩 더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함
   * → 천천히 일어나 앉음; 각 자세마다 30\~60초 또는 어지럼증이 사라질 때까지 유지함 (✽각 자세의 유지 시간과 눕는 각도에 대해서는 이견이 있음)
 
 **재활 운동**
@@ -442,9 +453,9 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 #### 약물 치료
 
-* 안정제 : **원칙적으로 권장하지 않음** (AAO-HNS 가이드라인); central compensation을 방해하고 낙상 위험을 증가시킴. 불가피한 경우 단기간으로 제한하며 주의를 요함
+* 안정제 : 원칙적으로 권장하지 않음 (AAO-HNS 가이드라인); central compensation을 방해하고 낙상 위험을 증가시킴. 불가피한 경우 단기간으로 제한하며 주의를 요함
 * 항구토제 : 구역/구토가 심한 경우 단기 사용
-* Vit D & Ca : Vit D 결핍 환자에서 BPPV 재발 감소에 유효. **Vit D 400 IU + 탄산칼슘 500 ㎎ 1일 2회** 권장; 정상 혈중 농도에서는 추가 효과 불분명
+* Vit D & Ca : Vit D 결핍 환자에서 BPPV 재발 감소에 유효. Vit D 400 IU + 탄산칼슘 500 ㎎ 1일 2회 권장; 정상 혈중 농도에서는 추가 효과 불분명
 
 ### <mark style="color:$primary;">전정신경염</mark>
 
@@ -452,8 +463,8 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 #### 약물 치료
 
-* 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 **3일 이내**로 사용 제한
-* steroid : 증상 발현 **3일 이내** 투여 시 전정 기능 단기 회복에 도움 가능; 장기 예후(어지럼 장애 지수) 개선 근거는 불충분
+* 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용 제한
+* steroid : 증상 발현 3일 이**내** 투여 시 전정 기능 단기 회복에 도움 가능; 장기 예후(어지럼 장애 지수) 개선 근거는 불충분
   * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 \[메치론]
 * betahistine : 증상 완화 목적; 16 ㎎ tid (48 ㎎/d) \[베타세르크] — EAONO 권고
 
@@ -478,17 +489,17 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 * 이뇨제 : hydrochlorothiazide
 * **betahistine** : 발작 예방 목적; 16 ㎎ tid (48 ㎎/d) 이상, 최소 3개월 이상 투여 \[베타세르크] — EAONO·NICE 가이드라인 권고
 
-### <mark style="color:$primary;">지속성체위지각어지럼증 (Persistent Postural-Perceptual Dizziness, PPPD)</mark>
+### <mark style="color:$primary;">지속성체위지각어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 
-* WHO ICD-11 공식 등재 질환(AB32.0); 국내 dizziness clinic에서 두 번째로 흔한 원인(20.8%)
+* 국내 dizziness clinic에서 두 번째로 흔한 원인(20.8%)
 * 진단 기준 : 비회전성 어지럼(흔들림, 불안정감)이 ≥3개월 지속; 직립 자세, 움직임, 시각 자극에 의해 악화; 기질적 원인 배제
 * 선행 사건 : 급성 전정 질환(전정신경염, BPPV), 편두통, 공황장애 등
 
 #### 치료
 
-* **전정 재활 훈련** : 습관화 운동 중심; 조기 시작이 중요
-* **인지행동치료(CBT)** : 발생 8주 이내 시작 시 효과 현저히 높음
-* **SSRI/SNRI** : sertraline 25\~100 ㎎/d 또는 escitalopram 5\~20 ㎎/d; 최소 1년 유지 권장 (☞ p.1146)
+* 전정 재활 훈련 : 습관화 운동 중심; 조기 시작이 중요
+* 인지행동치료(CBT) : 발생 8주 이내 시작 시 효과 현저히 높음
+* SSRI/SNRI : sertraline 25\~100 ㎎/d 또는 escitalopram 5\~20 ㎎/d; 최소 1년 유지 권장 (☞ p.1146)
 
 ### <mark style="color:$primary;">외림프누공</mark>
 
@@ -582,4 +593,3 @@ H83.0 미로염
 > * 처음 1\~2주간 오히려 어지럼이 일시적으로 악화될 수 있으나 이후 호전됩니다.
 > * 최소 1년 이상 복용이 권장되며, 의사와 상의 없이 갑자기 중단하지 마십시오.
 > * 인지행동치료(CBT) 또는 전정 재활 운동을 병행하면 효과가 높아집니다.
-
