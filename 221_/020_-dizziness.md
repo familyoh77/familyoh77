@@ -85,7 +85,7 @@
 * 안진 : 말초성
 * 검사 : Dix-Hallpike test(post canal), Supine roll test(lat canal)
 
-### <mark style="color:$primary;">전정신경염 (Vestibular neuritis / Acute Unilateral Vestibulopathy, AUV)</mark>
+### <mark style="color:$primary;">급성단측전정병증 (Acute Unilateral Vestibulopathy, AUV / 전정신경염)</mark>
 
 * vertigo의 두 번째 흔한 원인
 * 30\~50세 호발
@@ -146,11 +146,11 @@
 
 ### <mark style="color:$primary;">편두통성 어지럼증 (Vestibular migraine)</mark>
 
-* 편두통과 관련하여 발생하는 일회적 어지럼증; 두통 없이도 발생할 수 있음
-* 편두통과 마찬가지로 카페인, 알코올 등에 의해 유발
+* 편두통과 관련하여 발생하는 어지럼증; **약 30%는 어지럼 발생 시 두통을 동반하지 않음** → 두통이 없어도 편두통 병력이 있으면 반드시 고려
 * 5분\~72시간 동안 지속되는 전정기관 증상이 5회 이상 및 편두통 병력이 있는 경우 고려
 * 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민
   * 청력 소실 또는 이명은 없음
+* 유발 요인 : 카페인, 알코올, 수면 부족, 호르몬 변화, 특정 음식(티라민 함유 식품); **시각적 자극(복잡한 패턴, 대형 스크린, 스크롤)** — 환자 교육 시 강조
 * 치료 : 편두통 치료 (☞ p.76)
 
 ### <mark style="color:$primary;">기타</mark>
@@ -221,11 +221,17 @@
   * 양성 (증상 발생) : 외림프누공 의심
 * Vestibular function testing : 진단이 불확실하거나 치료에 반응하지 않을 때 시행
 
-※ **HiNTS Exam**
+※ **HiNTS Plus Exam**
 
 * 중추/말초 vertigo 감별에 유용. 안진이 있는 vertigo가 지속되는 환자에서 적용
-* 다음 3가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew
-* 다음의 경우 말초성으로 판정 : head impulse test(+), 안진- 수평 또는 방향성 없음, test of skew(-); 특이도 및 민감도 ＞95%
+* 다음 **4가지** 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, **New hearing loss**
+* 다음의 경우 말초성으로 판정 : head impulse test(+), 안진- 수평 또는 방향성 없음, test of skew(-), 청력 소실 없음; 특이도 및 민감도 ＞95%
+
+{% hint style="warning" %}
+**HINTS Plus 핵심 추가 항목 — 급성 청력 저하(New Hearing Loss)**
+전하소뇌동맥(AICA) 경색은 말초성 안진 패턴을 보이면서 청력 소실을 동반할 수 있음.
+급성 어지럼증 환자에서 **새로운 청력 저하가 확인되면 HINTS 결과와 무관하게 중추성(AICA 경색)으로 간주**하고 즉시 응급 MRI 시행
+{% endhint %}
 
 ### <mark style="color:$primary;">감별</mark>
 
@@ -374,6 +380,7 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 * granisetron : 1 ㎎ tid \[카이트릴]
 * metoclopramide : 단기 사용; 5\~10 ㎎ tid \[맥페란]
+  * ✽**고령 환자 주의** : 추체외로 증상(extrapyramidal symptoms; 파킨슨 유사 증상, 지연성 이상운동증) 위험 — 가능한 단기간(5일 이내) 사용, 대안으로 ondansetron 고려
 
 ### <mark style="color:$primary;">이뇨제</mark>
 
@@ -388,9 +395,10 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 ### <mark style="color:$primary;">Betahistine</mark>
 
-* 전정 핵의 흥분성 조절, 내이 혈류 개선 작
 * 말초성 어지럼증(메니에르병, 전정신경염) 증상 완화 및 예방에 적용
+* 기전 : 전정 핵의 흥분성 조절 (H1 효현제 + H3 길항제), 내이 혈류 개선
 * 용량 : 16 ㎎ tid (48 ㎎/d); 최소 3개월 이상 투여 \[베타세르크]
+  * ✽**고용량 요법** : 효과 불충분 시 최대 48 ㎎ tid (144 ㎎/d)까지 증량 보고 있음 (유럽 가이드라인); 국내 보험 급여 범위 초과 시 비급여 처방 필요
 * ✽BPPV에는 효과 없음; 중추성 어지럼증에 대한 근거 불충분
 
 ### <mark style="color:$primary;">기타</mark>
@@ -457,7 +465,7 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 * 항구토제 : 구역/구토가 심한 경우 단기 사용
 * Vit D & Ca : Vit D 결핍 환자에서 BPPV 재발 감소에 유효. Vit D 400 IU + 탄산칼슘 500 ㎎ 1일 2회 권장; 정상 혈중 농도에서는 추가 효과 불분명
 
-### <mark style="color:$primary;">전정신경염</mark>
+### <mark style="color:$primary;">급성단측전정병증 (AUV / 전정신경염)</mark>
 
 * 전정 재활 훈련 : 가능한 조기 시작; 최소 3개월 시행 권장
 
