@@ -48,21 +48,14 @@
 
 #### Generalized anxiety disorder 7-item [(GAD-7)](http://www.phqscreeners.com)
 
-**Generalized Anxiety Disorder 7-item (GAD-7)**
-
 지난 2주일 동안 당신은 다음의 문제들로 인하여 지장을 받았던 날들이 얼마나 됩니까?
 
-<table><thead><tr><th width="367.57891845703125">항목</th><th width="79.57891845703125" align="center">없음 (0~1일)</th><th width="79.5789794921875" align="center">수일 (2~6일)</th><th width="79.578857421875" align="center">절반 이상 (7~11일)</th><th width="85.894775390625" align="center">거의 매일 (12~14일)</th></tr></thead><tbody><tr><td>① 초조하거나 불안하거나 조마조마하게 느낀다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>② 걱정하는 것을 멈추거나 조절할 수 없다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>③ 여러 가지 것들에 대해 걱정을 너무 많이 한다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>④ 편안하게 있기 어렵다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⑤ 너무 안절부절못해서 가만히 있기 힘들다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⑥ 쉽게 짜증이 나거나 쉽게 화를 내게 된다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⑦ 마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
+<table><thead><tr><th width="369.68414306640625">항목</th><th width="79.57891845703125" align="center">없음 (0~1일)</th><th width="79.5789794921875" align="center">수일 (2~6일)</th><th width="79.578857421875" align="center">절반 이상 (7~11일)</th><th width="85.894775390625" align="center">거의 매일 (12~14일)</th></tr></thead><tbody><tr><td><ol><li>초조하거나 불안하거나 조마조마하게 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>걱정하는 것을 멈추거나 조절할 수 없다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">33</td></tr><tr><td><ol start="3"><li>여러 가지 것들에 대해 걱정을 너무 많이 한다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="4"><li>편안하게 있기 어렵다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="5"><li>너무 안절부절못해서 가만히 있기 힘들다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="6"><li>쉽게 짜증이 나거나 쉽게 화를 내게 된다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="7"><li>마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
 
 ▶ 판정 : 0\~4점 = minimal / 5\~9점 = mild / 10\~14점 = moderate / 15\~21점 = severe
 
-\{% hint style="info" %\} **\[삶의 질 평가]** (참고 문항)\
-위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
+\[삶의 질 평가] (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
 ☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다. \{% endhint %\}
-
-```
-![image](images/d6fe17f9-594f-4dd7-b347-b1c2b3631ed4.JPG)
-```
 
 #### GAD-2 screening
 
@@ -124,53 +117,53 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * 증상 : 사고 상황과 관련된 것들을 피하려는 행동, 사고와 관련된 기억 장애, 지속적인 부정 정서, 대인 관계 장애, 과잉 경계, 과각성, 수면 장애, 집중력 장애, 잘 놀람, 분노 감정 폭발, 자기 파괴적 행동
 * 진단 : 임상적으로 유의미한 고통 또는 기능 장애가 1개월 이상 지속
 
-![image](../.gitbook/assets/897a1d5d-48b6-4ce8-a9ef-89837e43764c.png)
+<table><thead><tr><th width="100.52630615234375"></th><th>Generalized Anxiety Disorder</th><th>Panic Disorder</th><th>Specific Phobia</th></tr></thead><tbody><tr><td><strong>유병률</strong><br><strong>/역학</strong></td><td>2~4%; 사춘기 이후 여성 우세. 원인에서 약간의 유전적 요인</td><td>0.2~10%; 가족력이 있는 경우 더 흔하고(8배) 조기 발병</td><td>소아 5%, 청소년 16%; 여:남 = 2:1, 가족력 영향(+)</td></tr><tr><td><strong>시작 연령</strong></td><td>평균 10세</td><td>평균 20~24세. 14세 전 &#x3C;0.4%</td><td>다양</td></tr><tr><td><strong>감별 질환</strong></td><td>기타 불안장애, 강박장애, PTSD, 우울증, 양극성, 정신병성 장애, 약물 관련(카페인, 진정제 금단)</td><td>통상적인 질병 상태에 기인하는 불안장애; 약물 관련 불안장애(카페인, 기타 자극제)</td><td>광장공포증, 공황장애, 강박장애, PTSD</td></tr><tr><td><strong>동반 질환</strong></td><td>단극성 우울증, 기타 불안장애</td><td>분리 불안 장애(흔함), 광장공포증, 약물 사용, 주요 우울증, OCD, 기타 불안장애; 천식</td><td>우울증, 기타 불안장애</td></tr></tbody></table>
 
-***
+_<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>_
 
-## Management
+## <mark style="background-color:$warning;">Management</mark>
 
-### 치료 방침
+### <mark style="color:$primary;">치료 방침</mark>
 
 * 자살 위험, 약물 남용, 다른 정신 질환 여부를 확인하고 관리
 * 불안증으로 진단되면 조기에 치료 시작
 * 낮은 강도의 심리적 중재 : 개별적 또는 그룹 중재
-*   현저한 기능 장애가 있거나 낮은 강도의 심리적 중재로 호전되지 않는 경우 고강도 정신 치료(예:인지행동 요법) &/or
-
-    약물 치료
+* 현저한 기능 장애가 있거나 낮은 강도의 심리적 중재로 호전되지 않는 경우 고강도 정신 치료(예:인지행동 요법) &/or 약물 치료
 * 매 방문 때마다 불안 수준 정량화 모니터링(예: GAD-7)
 
 ※ GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함
 
-## 비-약물 치료
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 인지행동 요법, mindfulness-based therapy
 * 카페인 섭취 제한, 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
 * 신체 활동, 이완 요법 : 규칙적 운동, 요가, 태극권, 기공, 명상; 일부 연구에서 유효
 * 허브(근거 부족) : St. John’s wort(hyperici), Sympathyl, 시계풀(passionflower), 쥐오줌풀(valerian)
 
-## 약물 치료
+## <mark style="color:green;">약물 치료</mark>
 
 * 저용량으로 시작
 * 1차 선택 : SSRI/SNRI
 * 항경련제, 마약성 진통제와의 병용 시 과도한 진정, 호흡 억제가 발생될 수 있으므로 주의
-* 항우울제 효과 발현까지 2~~4주 소요; 완화는 4~~6개월 후에 나타남
-*   추적 관찰 : 첫 3개월 동안 2\~4주마다, 이후 3개월마다 약효와 부작용 평가
-
-    •새로운 약제 투여 시 2\~4주 내 F/U
+* 항우울제 효과 발현까지 2\~~~4주 소요; 완화는 4\~~~6개월 후에 나타남
+* 추적 관찰 : 첫 3개월 동안 2\~4주마다, 이후 3개월마다 약효와 부작용 평가
+  * 새로운 약제 투여 시 2\~4주 내 F/U
 * 약효가 있는 경우 재발을 줄이기 위하여 최소 6개월\~12개월 이상의 치료 유지를 권고
 * 약제 중단 시 tapering 하며(갑자기 중단하지 않음) 증상 재발, 약물 금단 증상 등 모니터링
 
 #### SSRI/SNRI
 
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ p.1146)
-* 저용량으로 시작 → 4~~6주 후 평가하여 효과가 부족하면 1~~2주 간격으로 증량
+* 저용량으로 시작 → 4\~~~6주 후 평가하여 효과가 부족하면 1\~~~2주 간격으로 증량
 *   부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 한 달 동안
 
     매주 자살 생각에 대하여 모니터링)
-*   약물 중단 시 반동 증상 : 어지럼, 이상 감각, 구역/구토, 두통, 발한, 불안, 수면 장애
+* 약물 중단 시 반동 증상 : 어지럼, 이상 감각, 구역/구토, 두통, 발한, 불안, 수면 장애
+*
 
-    ![image](../.gitbook/assets/d9da4d0d-6f5c-46c3-8a47-84f2d712846d.png)
+<table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram [시탈로프람]</td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* [렉사프로]</td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline [졸로푸트]</td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* [세로자트, 팍실CR]</td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine [푸로작]</td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine [듀미록스]</td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine [심발타]</td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine [이팩사 XR]</td><td align="center">75</td><td align="center">75~225</td></tr></tbody></table>
+
+\* GAD에 대하여 FDA 승인
 
 #### GABA-analogue
 
@@ -192,17 +185,14 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * 동반된 우울증에 대해서는 효과 없음
 * 저용량으로 시작 (☞ p.1149)
 * 고령에서는 내성 및 낙상 등의 사고 위험으로 감량 투여 (특히 long-acting 제제 주의)
-*   불안, 불쾌감, 진전 등의 반동 현상을 피하기 위하여 중단 시 중간 반감기 약제(예: clonazepam)가 선호되며 중단 시
+* 불안, 불쾌감, 진전 등의 반동 현상을 피하기 위하여 중단 시 중간 반감기 약제(예: clonazepam)가 선호되며 중단 시 tapering
 
-    tapering
-
-    ![image](../.gitbook/assets/83334195-ed74-4cd6-bab0-14e4bdf48c96.png)
+<table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (mg/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam [자낙스]</td><td align="center">0.5~6</td><td align="center">11~15</td></tr><tr><td>lorazepam [아티반]</td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>clonazepam [리보트릴]</td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide [리버티]</td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>clorazepate</td><td align="center">15~60</td><td align="center">36~200</td></tr><tr><td>diazepam [디아제팜]</td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
 
 #### 항정신병 약물
 
-*   불응성 불안장애, benzodiazepine 등으로 조절 되지 않는 경우 고려
-
-    •일차의료에서에서는 사용하지 않을 것을 권고 \[NICE]
+* 불응성 불안장애, benzodiazepine 등으로 조절 되지 않는 경우 고려
+  * 일차의료에서에서는 사용하지 않을 것을 권고 \[NICE]
 * olanzapine : 2.5\~7.5 ㎎/d qd(hs)\~bid \[자이프렉사]
 * quetiapine : 12.55\~100 ㎎/d qd(hs)\~bid \[쎄로켈]
 * risperidone : 0.5\~1 ㎎/d qd(hs)\~bid \[리스페달]
@@ -213,11 +203,9 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * propranolol : 10\~120 ㎎/d \[인데놀]
 * metoprolol : 100\~200 ㎎/d \[베타록] (☞ p.487)
 
-## 치료 Step
+## <mark style="color:green;">치료 Step</mark>
 
-```
-[대한불안의학회]
-```
+\[대한불안의학회]
 
 #### Step 1
 
@@ -232,24 +220,21 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 #### Step 3
 
 * 병용 또는 부가 약물 추가
-*   비전형 항정신병제
-
-    •quetiapine : 시작 25 ㎎/d → 매주 or 격주로 25\~50 ㎎ 증량, 최대 300 ㎎/d \[쎄로켈]
-*   항히스타민제
-
-    •hydroxyzine : 50\~100 ㎎ qid \[아디팜]
+* 비전형 항정신병제
+  * quetiapine : 시작 25 ㎎/d → 매주 or 격주로 25\~50 ㎎ 증량, 최대 300 ㎎/d \[쎄로켈]
+* 항히스타민제
+  * hydroxyzine : 50\~100 ㎎ qid \[아디팜]
 
 #### Step 4
 
 * Step 3에서 사용되지 않은 약물로 병용 요법
 * SSRI, SNRI, NaSSA(Noradrenergic and specific serotonergic antidepressant) 또는 TCA 계열이 포함된 또 다른 병용 요법
-*   TCA
 
-    •amitriptyline : 25~~50 ㎎/d, 100~~300 ㎎/d; 편두통 적응 \[에트라빌]
+TCA
 
-    •imipramine : 25~~50 ㎎/d, 100~~300 ㎎/d \[이미프라민]
-
-    •nortriptyline : 25 ㎎/d, 50\~150 ㎎/d; 근골격 통증 적응 \[센시발]
+* amitriptyline : 25~~50 ㎎/d, 100~~300 ㎎/d; 편두통 적응 \[에트라빌]
+* imipramine : 25~~50 ㎎/d, 100~~300 ㎎/d \[이미프라민]
+* nortriptyline : 25 ㎎/d, 50\~150 ㎎/d; 근골격 통증 적응 \[센시발]
 
 #### Step 5
 
@@ -261,10 +246,54 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 * 진단에 대한 재평가 및 공존 질환에 대한 평가
 
-> **질병코드** F41.1 범불안장애
+***
+
+### <mark style="color:purple;">질병코드</mark>
 
 F41.2 혼합형 불안 및 우울장애
 
 F41.9 상세불명의 불안장애
 
-![image](../.gitbook/assets/0045ea64-56ed-4a5b-ab3e-7eb1e112da66.JPG)
+***
+
+## <mark style="color:orange;">처방례</mark>
+
+Step 1.
+
+렉사프로 10 ㎎/T 1T qd 또는
+
+이팩사 엑스알 서방 37.5 ㎎/C 1C qd
+
+
+
+Step 2.
+
+팍실 CR 12.5 ㎎/T 1T qd&#x20;
+
+리보트릴 0.5 ㎎/T 1T #2 (단기)
+
+
+
+Step 3.
+
+졸로푸트 50 ㎎/T 1T qd 아침&#x20;
+
+쎄로켈 서방 50 ㎎/T 1T qd 저녁
+
+
+
+Step 4.
+
+Step 1 약제 plus
+
+센시발 25 ㎎/T 1T qd 취침 시 추가
+
+\
+\
+Step 5
+
+Step 4 약제 plus
+
+리리카 150 ㎎/C 2C #2 추가
+
+<br>
