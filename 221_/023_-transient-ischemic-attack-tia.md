@@ -30,7 +30,7 @@
 ## <mark style="color:green;">진단</mark>
 
 * 신경학적 검사
-* ECG
+* ECG; 초기 ECG 정상이더라도 원인 불명 TIA에서는 Holter 또는 장기 심전도 모니터링 고려 (잠재적 심방세동 스크리닝)
 * 실험실 검사 : CBC, 전해질, Cr, 혈당, 지질
 * 영상 검사 : CT, MRI, MRA, 경동맥검사; 증상 발생 48시간 내 시행
 
@@ -41,6 +41,8 @@
 ▶ 의의 : TIA 후 48시간 내의 뇌졸중 발생 위험도 추정; DAPT 적용 기준(≥4점)으로도 활용
 
 ▶ 판정 : 0\~1점 = 0%, 2\~3점 = 1.3%, 4\~5점 = 4.1%, 6\~7점 = 8.1%
+
+▶ 주의 : 점수가 낮더라도 MRI DWI상 급성 병변 확인 시 고위험군으로 간주
 
 _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² score in triaging TIA patients. Neurology 2010;74(17)</mark>_
 
@@ -62,7 +64,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 * 급성기 뇌졸중 발생 가능성에 대하여 주의 관찰, 필요시 입원 관찰
 * 재발 방지를 위하여 항혈소판/항응고 치료, 생활 습관 교정
-* 기저 질환 및 위험 인자 관리 : 당뇨병, 고혈압, 고지혈증, 비만, 심장 질환, 수면무호흡증
+* 기저 질환 및 위험 인자 관리 : 당뇨병, 고혈압(목표 < 130/80 ㎜Hg), 고지혈증, 비만, 심장 질환, 수면무호흡증
 * 1년 동안 매 3개월마다, 이후 매년 F/U
 
 ## <mark style="color:green;">비-약물 치료</mark>
@@ -77,7 +79,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 ### <mark style="color:$primary;">Antiplatelet therapy</mark>
 
 * atherothrombotic TIA에 적용 (☞ p.1154, 보험기준 p.1187)
-* 뇌출혈 배제 후 즉시(24시간 이내, 이상적으로 12시간 이내) 시작
+* 뇌출혈 배제 후 즉시(가급적 24시간 이내, 이상적으로 12시간 이내) 시작; 최대 72시간 이내까지 효과 있음 (INSPIRES 2023)
 
 #### 단기 이중 항혈소판 요법 (DAPT)
 
@@ -95,12 +97,12 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 * Lacunar stroke에서는 금기
 * 21일 초과 DAPT는 출혈 위험 증가로 권고하지 않음
-* clopidogrel 저항성 의심 시 → ticagrelor + aspirin 으로 대체 고려
-* 시작 가능 시간 창 : 증상 발생 후 72시간 이내
+* clopidogrel 저항성 의심 시 → ticagrelor + aspirin 으로 대체 고려 (아시아인에서 CYP2C19 기능 손실 대립유전자 빈도가 높아 저항성 발생 가능성 더 큼)
 
 **Ticagrelor + Aspirin**&#x20;
 
 * Clopidogrel 저항성 환자에서 고려 \[브릴린타 + 아스피린]
+* 중등도 이상의 경동맥 협착이 있거나 CYP2C19 유전자 변이로 clopidogrel 저항성이 우려되는 경우 선택 가능 (THALES 연구 근거; 단, 두개내 출혈 위험 증가에 주의)
 
 #### 장기 단독 항혈소판 요법&#x20;
 
@@ -123,7 +125,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 ### <mark style="color:$primary;">Statin</mark>
 
 * TIA 진단 즉시 고강도 statin 시작 권고&#x20;
-* 목표 : LDL-C ≥50% 감소 또는 LDL-C ＜70 ㎎/dL
+* 목표 : LDL-C ＜55 ㎎/dL 및 기저치 대비 50% 이상 감소 (2022 한국지질동맥경화학회·ESC 가이드라인)
 * 고강도 : atorvastatin 40\~80 ㎎/d \[리피토], rosuvastatin 20\~40 ㎎/d \[크레스토]
 * 고강도 불내성 시 : 중강도 statin으로 대체 (LDL-C 30\~49% 감소 목표)
 
@@ -155,7 +157,7 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 >
 > ```
 > 아스피린 장용정 100 mg/T  1T  qd  (장기 유지; 아침 식후)
-> 리피토 40 mg/T  1T  qd  (저녁; 고강도 statin; LDL-C 목표 ＜70 mg/dL)
+> 리피토 40 mg/T  1T  qd  (저녁; 고강도 statin; LDL-C 목표 ＜55 mg/dL)
 > ```
 
 > **처방례 3.** 심인성 TIA (심방세동 등) — 항응고 요법
