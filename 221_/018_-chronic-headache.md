@@ -10,6 +10,21 @@
 
 ☞ [두통 챕터 Red Flags 참조](015_-headache.md)
 
+#### <mark style="color:red;">위험 신호 (SNOOP4+)</mark>
+
+아래 징후가 있는 경우 뇌영상(MRI/CT) 등 추가 검사로 2차성 두통을 반드시 배제해야 함
+
+* **S**ystemic symptoms : 발열, 체중 감소, HIV/면역 저하 상태
+* **N**eurologic signs : 의식 변화, 국소 신경 징후, 유두부종
+* **N**eoplasm history : 과거 암 병력 → 뇌전이 의심
+* **O**nset sudden : 벼락두통 (thunderclap headache)
+* **O**lder age : 50세 이후 새로운 두통 발생
+* **P**attern change : 두통 양상의 최근 변화 또는 점진적 악화
+* **P**ostural : 체위 변화에 따른 두통 (기립 또는 와위 시 악화)
+* **P**recipitated by Valsalva : 기침, 힘주기, 운동으로 유발
+* **P**apilledema : 시야 흐림, 박동성 이명, 비만 여성 → 특발성 두개내 고혈압 시사
+* **P**regnancy : 임신 또는 산후 발생 → 자간전증, 뇌정맥혈전증 감별
+
 ## <mark style="color:green;">1차성 두통</mark>
 
 ### <mark style="color:$primary;">지속 시간이 ＞4시간인 두통</mark>
@@ -128,23 +143,6 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 
 ###
 
-{% hint style="danger" %}
-**위험 신호 (SNOOP4+)**
-
-아래 징후가 있는 경우 뇌영상(MRI/CT) 등 추가 검사로 2차성 두통을 반드시 배제해야 함
-
-* **S**ystemic symptoms : 발열, 체중 감소, HIV/면역 저하 상태
-* **N**eurologic signs : 의식 변화, 국소 신경 징후, 유두부종
-* **N**eoplasm history : 과거 암 병력 → 뇌전이 의심
-* **O**nset sudden : 벼락두통 (thunderclap headache)
-* **O**lder age : 50세 이후 새로운 두통 발생
-* **P**attern change : 두통 양상의 최근 변화 또는 점진적 악화
-* **P**ostural : 체위 변화에 따른 두통 (기립 또는 와위 시 악화)
-* **P**recipitated by Valsalva : 기침, 힘주기, 운동으로 유발
-* **P**apilledema : 시야 흐림, 박동성 이명, 비만 여성 → 특발성 두개내 고혈압 시사
-* **P**regnancy : 임신 또는 산후 발생 → 자간전증, 뇌정맥혈전증 감별
-{% endhint %}
-
 ### <mark style="color:$primary;">감별 진단</mark>
 
 * 최근 시작, 최근 변화, 증상 진행 → 2차성 두통
@@ -169,11 +167,10 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 * 유발 요인 제거, 만성 편두통(☞ p.76) 또는 만성 긴장형두통(☞ p.84) 치료
 * 불안·우울 등 정신건강 문제 동반 시 병행 치료
 
-{% hint style="warning" %}
-**스테로이드 사용 주의** : 만성 두통에서 low cortisol에 근거한 장기 steroid 대체 요법은 근거 수준이 낮으며(expert opinion), EHF·AAN 가이드라인에서 일반적 권고사항이 아님. 아래 단기 요법은 MOH 약물 중단 시 금단 증상 완화 목적으로 제한적으로 활용할 수 있음.
+※ **스테로이드 사용 주의**
 
-* prednisolone : 60 ㎎/d ×2d → 40 ㎎/d ×2d → 20 ㎎ qd(아침) ×2d \[소론도]
-{% endhint %}
+* 만성 두통에서 low cortisol에 근거한 장기 steroid 대체 요법은 근거 수준이 낮으며(expert opinion), EHF·AAN 가이드라인에서 일반적 권고 사항이 아님. 아래 단기 요법은 MOH 약물 중단 시 금단 증상 완화 목적으로 제한적으로 활용할 수 있음
+  * prednisolone : 60 ㎎/d ×2d → 40 ㎎/d ×2d → 20 ㎎ qd(아침) ×2d \[소론도]
 
 #### 신생매일지속두통 (NDPH)
 
@@ -207,11 +204,10 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 * 예방 치료 병행 : topiramate (25 ㎎/d에서 시작 → 100 ㎎/d 목표), valproate, amitriptyline
 * 만성 편두통 동반 시 OnabotulinumtoxinA (보톡스) 보험 적용 가능 (☞ p.76)
 
-{% hint style="info" %}
-**환자 교육 — 반동 두통(Rebound headache)**
+※ **반동 두통(Rebound headache)**
 
-약물 중단 후 보통 **2\~10일간** 기존보다 심한 반동 두통이 발생할 수 있음. 이 시기를 견뎌야 MOH에서 벗어날 수 있음을 사전에 충분히 설명하는 것이 치료 순응도에 결정적. 반동 두통 기간 중에는 naproxen 또는 단기 steroid를 브릿지 요법으로 활용 가능.
-{% endhint %}
+* 약물 중단 후 보통 2\~10일간 기존보다 심한 반동 두통이 발생할 수 있음. 이 시기를 견뎌야 MOH에서 벗어날 수 있음을 사전에 충분히 설명하는 것이 치료 순응도에 결정적.&#x20;
+* 반동 두통 기간 중에는 naproxen 또는 단기 steroid를 브릿지 요법으로 활용 가능
 
 #### CGRP 표적 치료제 (만성 편두통·MOH 예방)
 
@@ -219,13 +215,11 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 * MOH 환자에서도 약물 중단 없이 예방 효과가 입증됨 (galcanezumab FOCUS 연구 등)
 * 기존 경구 예방약(topiramate, amitriptyline 등)에 부작용·효과 부족 시 대안으로 고려
 
-{% hint style="warning" %}
-**국내 보험 급여 기준** : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정. 급여 외 사용 시 비급여(고가). ☞ 편두통 챕터 참조 (p.76)
-{% endhint %}
-
 <table><thead><tr><th>구분</th><th>성분명</th><th>상품명</th><th>용법</th><th data-hidden>제조/판매사</th></tr></thead><tbody><tr><td>항체 주사제</td><td>Galcanezumab</td><td>엠갈리티</td><td>120 ㎎/월 SC (초회 240 ㎎)</td><td>한국릴리</td></tr><tr><td>Fremanezumab</td><td>아조비</td><td>225 ㎎/월 or 675 ㎎/분기 SC</td><td>한독/테바</td><td></td></tr><tr><td>Erenumab</td><td>에레뉴맙</td><td>70\~140 ㎎/월 SC</td><td>제일약품(노바티스)</td><td></td></tr><tr><td>경구용 (Gepant)</td><td>Rimegepant</td><td>너텍</td><td>75 ㎎ 급성기; 예방 목적 격일 복용</td><td>광동제약(화이자)</td></tr></tbody></table>
 
 _※ Gepant(너텍)는 MOH 유발 위험이 없어 기존 진통제·triptan 과용 환자에서 특히 유리_
+
+※ 보험 급여 기준 : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정. 급여 외 사용 시 비급여(고가)
 
 ***
 
