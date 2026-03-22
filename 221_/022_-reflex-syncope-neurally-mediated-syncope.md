@@ -55,7 +55,7 @@
 * 심장 : ECG (초기 평가에서 반드시 시행), Holter monitoring(심장 원인 의심 시), exercise stress test(운동 원인 의심 시)
 * 신경학적 진찰
 * Dix-Hallpike : BPPV 배제 (☞ p.96)
-* head-up tilt-table test : vasovagal syncope 진단; 민감도 30\~56%, 특이도 90% 이상; 양성 소견이 치료 방침에 직접 영향을 줄 때 시행 권고; 환자가 실신과 전조 증상의 연관성을 직접 확인하게 하는 교육·안심(reassurance) 목적으로도 유용
+* Head-up tilt-table test : vasovagal syncope 진단; 민감도 30\~56%, 특이도 90% 이상; 양성 소견이 치료 방침에 직접 영향을 줄 때 시행 권고; 환자가 실신과 전조 증상의 연관성을 직접 확인하게 하는 교육·안심(reassurance) 목적으로도 유용
 * 실험실 검사 : 혈당(즉시), CBC, RFT, 전해질, 대변 잠혈, cardiac enzyme(심근 경색 의심 시)
 * Implantable loop recorder (ILR) : 원인 불명 반복 실신에서 장기 심전도 모니터링 목적으로 고려
 * 영상 검사 : CT, MRI/MRA, 경동맥 초음파; 신경학적 원인이 의심되는 경우 고려
@@ -74,7 +74,7 @@
 
 ### 치료 방침
 
-* 안심시킴 및 교육&#x20;
+* 안심시킴 및 교육
 * 유발 인자 회피
 * 물리적 요법
 * 약물 치료 : 보통 필요 없으며 효과 입증이 불충분함; 재발성 실신에서 고려
@@ -105,8 +105,8 @@
 
 ## <mark style="color:green;">약물 치료</mark>
 
-* α-agonist : 기립성 유발 VVS에서 선호;  VVS 약물 중 현재 가장 강한 근거(2021 무작위·이중맹검·위약대조 RCT 및 2022년 7개 RCT 메타분석에서 재발 감소 확인
-  * midodrine \[미드론] (☞ p.502)&#x20;
+* α-agonist : 기립성 유발 VVS에서 선호; VVS 약물 중 현재 가장 강한 근거(2021 무작위·이중맹검·위약대조 RCT 및 2022년 7개 RCT 메타분석에서 재발 감소 확인
+  * midodrine \[미드론] (☞ p.502)
 * mineralocorticoid : 수분/나트륨 저류 기전; 효과 입증 불충분
   * fludrocortisone \[플로리네프] (☞ p.502)
 * β-blocker : ESC 2018 가이드라인- VVS에 β-blocker는 적응증 없음(Class III, LOE A); ACC/AHA 2017- 40세 이상에서 제한적 고려 가능(Class IIb), 소아·청소년에서는 유익성 없음(Class III)
