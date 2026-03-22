@@ -1,31 +1,23 @@
 # 불안장애 Anxiety Disorder
 
-![image](../.gitbook/assets/b38f5b34-5e2e-4e04-9b90-85c784e39f27.JPG)
+## <mark style="color:green;">일반 사항</mark>
 
-## 일반 사항
-
-*   실제 발생한 위험에 비하여 과도하고 지속되며 조절하기 어려운, 불편하고 일상생활에 지장을 주는 걱정; 일상적인 상황에
-
-    대하여 과도한 불안감
+* 실제 발생한 위험에 비하여 과도하고 지속되며 조절하기 어려운, 불편하고 일상생활에 지장을 주는 걱정; 일상적인 상황에 대하여 과도한 불안감
 * 불안감을 유발하는 실체나 상황을 피하기 위해 부적절한 행동을 취하기도 함
 * 흔히 주요우울증, 기분 저하, 사회공포증을 동반
 * 대부분 의학적 상태와 정신적 상태가 결합되어 있음
 * 유병률 : 범불안장애 평생 유병률 여성 7%, 남성 4%; 50%가 18세 이전에 발생, 중간 연령 30세
-*   만성적인 신체적 건강 문제가 있거나, 신체적 건강 문제는 없지만 이에 대한 확신을 갖고자 하거나, 여러 다른 문제들에
+* 만성적인 신체적 건강 문제가 있거나, 신체적 건강 문제는 없지만 이에 대한 확신을 갖고자 하거나, 여러 다른 문제들에 대하여 반복적으로 걱정을 하고 있는 경우 불안증 감별을 요함
 
-    대하여 반복적으로 걱정을 하고 있는 경우 불안증 감별을 요함
+## <mark style="color:green;">원인</mark>
 
-## 원인
+* 기전(추정)
+  * neurotransmitter 이상 : serotonin system의 활성 저하, norepinephrine system의 활성 증가, GABA system의 붕괴
+  * 뇌기능 이상 : amygdala 및 prefrontal cortex의 활성 증가
 
-*   기전(추정)
+### <mark style="color:$primary;">위험 인자</mark>
 
-    •neurotransmitter 이상 : serotonin system의 활성 저하, norepinephrine system의 활성 증가, GABA system의 붕괴
-
-    •뇌기능 이상 : amygdala 및 prefrontal cortex의 활성 증가
-
-### 위험 인자
-
-* 소아 시기의 학대, 역경, 부모의 이혼 또는 상실![image](../.gitbook/assets/95f0648c-d31d-41a3-9ca9-5e6c0b3b5d07.JPG)
+* 소아 시기의 학대, 역경, 부모의 이혼 또는 상실
 * 능력 상실, 최근의 스트레스 증가(나쁜 일)
 * 직업 관련 스트레스, 낮은 사회 경제적 상태
 * 비만, 흡연(특히 청소년기), 알코올 남용, 약물 남용
@@ -33,32 +25,40 @@
 * 급만성 질환 또는 통증
 * 정신적 문제가 있는 가족력
 
-## 임상 양상
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+* 자살 위험
+* 유의미한 동반 질환 (예: 약물 중독, 인격장애)
+* 치료에 반응하지 않음
+
+## <mark style="color:green;">임상 양상</mark>
 
 * 걱정, 두려움, 예기 불안, 집중력 저하, 불안 유발 상황에 대한 경계, 대인 접촉 기피
-*   안절부절, 두근거림, 떨림, 근육 긴장/통증, 땀 흘림, 손 냉증/축축함, 숨 막힘, 과호흡, 어지럼, 피로, 목 안의 덩어리 느낌,
-
-    입마름, 피부 감각 저하/저림
+* 안절부절, 두근거림, 떨림, 근육 긴장/통증, 땀 흘림, 손 냉증/축축함, 숨 막힘, 과호흡, 어지럼, 피로, 목 안의 덩어리 느낌, 입마름, 피부 감각 저하/저림
 * 복통, 소화불량, 식욕 저하, 구역, 구토, 설사
 * 수면 장애, 악몽, 성욕 감퇴
 
 ※ 공황장애에 비하여 호흡 곤란, 두근거림, 빈맥 증상은 적음
 
-※ Anorexia, “Butterflies” in stomach(불안/긴장으로 인하여 속이 떨림), Chest pain or tightness, Diaphoresis, Diarrhea,
+※ Anorexia, “Butterflies” in stomach(불안/긴장으로 인하여 속이 떨림), Chest pain or tightness, Diaphoresis, Diarrhea, Dizziness, Dry mouth, Dyspnea, Faintness, Flushing, Headache, Hyperventilation, Light-headedness, Muscle tension, Nausea, Pallor, Palpitations, Paresthesia, Sexual dysfunction, Shortness of breath, Stomach pain, Tachycardia, Tremulousness, Urinary frequency, Vomiting
 
-```
-Dizziness, Dry mouth, Dyspnea, Faintness, Flushing, Headache, Hyperventilation, Light-headedness, Muscle tension,
+## <mark style="color:green;">진단</mark>
 
-Nausea, Pallor, Palpitations, Paresthesia, Sexual dysfunction, Shortness of breath, Stomach pain, Tachycardia,
-
-Tremulousness, Urinary frequency, Vomiting
-```
-
-## 진단
-
-### 선별 검사
+### <mark style="color:$primary;">선별 검사</mark>
 
 #### Generalized anxiety disorder 7-item [(GAD-7)](http://www.phqscreeners.com)
+
+**Generalized Anxiety Disorder 7-item (GAD-7)**
+
+지난 2주일 동안 당신은 다음의 문제들로 인하여 지장을 받았던 날들이 얼마나 됩니까?
+
+<table><thead><tr><th width="367.57891845703125">항목</th><th width="79.57891845703125" align="center">없음 (0~1일)</th><th width="79.5789794921875" align="center">수일 (2~6일)</th><th width="79.578857421875" align="center">절반 이상 (7~11일)</th><th width="79.5789794921875" align="center">거의 매일 (12~14일)</th></tr></thead><tbody><tr><td>① 초조하거나 불안하거나 조마조마하게 느낀다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>② 걱정하는 것을 멈추거나 조절할 수 없다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>③ 여러 가지 것들에 대해 걱정을 너무 많이 한다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>④ 편안하게 있기 어렵다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⑤ 너무 안절부절못해서 가만히 있기 힘들다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⑥ 쉽게 짜증이 나거나 쉽게 화를 내게 된다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⑦ 마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
+
+▶ 판정 : 0\~4점 = minimal / 5\~9점 = mild / 10\~14점 = moderate / 15\~21점 = severe
+
+\{% hint style="info" %\} **\[삶의 질 평가]** (참고 문항)\
+위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
+☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다. \{% endhint %\}
 
 ```
 ![image](images/d6fe17f9-594f-4dd7-b347-b1c2b3631ed4.JPG)
@@ -69,39 +69,26 @@ Tremulousness, Urinary frequency, Vomiting
 * GAD-7 문항 ① & ②으로 시행
 * 합계 점수 ≥3점인 경우 GAD를 의심(민감도 86%, 특이도 83%) 하고 추가 평가 시행
 
-### 검사
+### <mark style="color:$primary;">검사</mark>
 
 * 기질적 원인 배제를 위하여 시행
 * CBC, TSH, 혈당, 전해질, urine toxicology
 * ECG
 
-### 범불안장애 진단 기준 (Generalized anxiety disorder. GAD) \[DSM-5]
+### <mark style="color:$primary;">범불안장애 진단 기준 (Generalized anxiety disorder. GAD) \[DSM-5]</mark>
 
-A. 최소 6개월 동안 많은 사건이나 활동(예: 직장이나 학교생활 수행)에 대하여 과도한 걱정과 불안감(예기 불안)이 발생한
-
-```
-날이 그렇지 않은 날보다 많음
-```
+A. 최소 6개월 동안 많은 사건이나 활동(예: 직장이나 학교생활 수행)에 대하여 과도한 걱정과 불안감(예기 불안)이 발생한 날이 그렇지 않은 날보다 많음
 
 B. 환자 스스로 걱정을 조절하는 것이 어렵다는 것을 알고 있음
 
-C. 불안감과 걱정은 다음 6가지 중 ≥3가지와 관련 있음; 복수의 증상이 과거 6개월 동안 발생한 날이 그렇지 않은 날보다
+C. 불안감과 걱정은 다음 6가지 중 ≥3가지와 관련 있음; 복수의 증상이 과거 6개월 동안 발생한 날이 그렇지 않은 날보다 많음
 
-```
-많음
-```
-
-① 차분하지 못함, 또는 안절부절
-
-② 쉽게 피로
-
-③ 집중하기 어려움 또는 멍함
-
-④ 과민
-
-⑤ 근육 긴장
-
-⑥ 수면 장애(예: 잠에 들거나 유지하기 어려움, 제대로 쉬지 못함, 불만족스러운 수면)
+1. 차분하지 못함, 또는 안절부절
+2. 쉽게 피로
+3. 집중하기 어려움 또는 멍함
+4. 과민
+5. 근육 긴장
+6. 수면 장애(예: 잠에 들거나 유지하기 어려움, 제대로 쉬지 못함, 불만족스러운 수면)
 
 D. 불안, 걱정, 또는 신체적 증상은 사회, 직업, 또는 기능의 다른 중요한 영역에서 임상적으로 중요한 고통과 장애를 일으킴
 
@@ -109,19 +96,15 @@ E. 물질(예: 약물) 또는 일반적인 의학적 상태(예: 갑상선항진
 
 F. 다른 정신 질환으로 더 잘 설명되지 않음
 
-### 감별
+### <mark style="color:$primary;">감별</mark>
 
 * 스트레스, 갑상선항진증, 심장 질환, 심한 신체 질환, 알코올/항불안제 금단 증상
-*   약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine, caffeine), 교감 신경 흥분제(예: β2-작용제),
-
-    항고혈압제, NSAID
+* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine, caffeine), 교감 신경 흥분제(예: β2-작용제), 항고혈압제, NSAID
 * 다른 정신 질환 : 우울증, 공황장애, 강박장애, 외상 후 스트레스, 신체화장애, 조현병, 망상장애
 
 #### 우울증
 
-*   우울증은 과거의 사건과 상황에 대하여 자기비판적인 경향을 보이는 반면, GAD 환자들은 미래의 사건에 대하여 걱정하는
-
-    경향이 있음 (☞ p.124)
+* 우울증은 과거의 사건과 상황에 대하여 자기비판적인 경향을 보이는 반면, GAD 환자들은 미래의 사건에 대하여 걱정하는 경향이 있음 (☞ p.124)
 * 이른 아침 각성, 일중 기분 변화, 자살 충동 등의 우울증 증상이 GAD에서는 흔하지 않음
 
 #### 건강염려증
@@ -136,12 +119,9 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 #### Post-traumatic stress disorder (PTSD)
 
-*   원인 : 신체적 또는 정신적 외상(직접 피해나 목격) 후 발생
-
-    •예: 죽음의 현장 또는 위협, 극심한 부상, 성폭행
-*   증상 : 사고 상황과 관련된 것들을 피하려는 행동, 사고와 관련된 기억 장애, 지속적인 부정 정서, 대인 관계 장애,
-
-    과잉 경계, 과각성, 수면 장애, 집중력 장애, 잘 놀람, 분노 감정 폭발, 자기 파괴적 행동
+* 원인 : 신체적 또는 정신적 외상(직접 피해나 목격) 후 발생
+  * 예: 죽음의 현장 또는 위협, 극심한 부상, 성폭행
+* 증상 : 사고 상황과 관련된 것들을 피하려는 행동, 사고와 관련된 기억 장애, 지속적인 부정 정서, 대인 관계 장애, 과잉 경계, 과각성, 수면 장애, 집중력 장애, 잘 놀람, 분노 감정 폭발, 자기 파괴적 행동
 * 진단 : 임상적으로 유의미한 고통 또는 기능 장애가 1개월 이상 지속
 
 ![image](../.gitbook/assets/897a1d5d-48b6-4ce8-a9ef-89837e43764c.png)
