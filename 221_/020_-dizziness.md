@@ -50,7 +50,7 @@
 * Peripheral : BPPV, 전정신경염, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
 * 기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
 * 고령 : 불안/우울 특성, 균형 감각 손상, 심근경색/뇌졸중 과거력, 청력 장애, 기립성 저혈압, 다제약물(✽≥5가지 약물 복용 환자의 ⅔에서 어지럼증 발생)
-* ※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%,
+* <mark style="color:$info;">※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%, vestibular neuritis 5.4%였으며 19\~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음. (J Neurol 2020 Aug;267(8):2252-2259.)</mark>
 
 ## <mark style="color:green;">말초성 질환</mark>
 
@@ -69,7 +69,8 @@
 
 * 특정 자세나 머리 움직임에 따라 심한 회전감 발생
 * 경과 : 돌발적 발생 → 자세를 바꾸고 안정하면 보통 수 분 이내 호전, 1주 일 이상 반복 발생
-* 동반 증상 : 구역 • 청력이나 신경학적 이상은 없음
+* 동반 증상 : 구역&#x20;
+  * 청력이나 신경학적 이상은 없음
 * 안진 : 말초성
 * 검사 : Dix-Hallpike test(post canal), Supine roll test(lat canal)
 
@@ -138,7 +139,8 @@
 * 증상 : 두부 압박감, 시각/청각 과민　
   * 청력 소실 또는 이명은 없음
 * 5분\~72시간 동안 지속되는 전정기관 증상이 5회 이상 및 편두통 병력이 있는 경우 고려
-* 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민 •청력 소실 또는 이명은 없음
+* 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민&#x20;
+  * 청력 소실 또는 이명은 없음
 * 치료 : 편두통 치료 (☞ p.76)
 
 ### <mark style="color:$primary;">기타</mark>
@@ -178,18 +180,26 @@
 
 **Dix-Hallpike test**
 
-* 방법 : 침대에 무릎을 뻗은 상태로 길게 앉힘 → 머리를 45°옆으로 돌린 상태에서 턱을 약간 쳐들게 잡고, 머리가 수평보다 30°더 내려가게 빠르게 눕히고(머리를 침대 밖으로 늘어뜨림) 30초간 안진 관찰 → 다시 앉게 하고 30초간 안진 관찰 → 반대 방향으로 머리를 돌려 다시 시행 ([figure\_e-2.jpg, video\_1.wmv](https://www.neurology.org/doi/10.1212/01.wnl.0000313378.77444.ac))
+* 방법 ([figure\_e-2.jpg, video\_1.wmv](https://www.neurology.org/doi/10.1212/01.wnl.0000313378.77444.ac))
+  * 침대에 무릎을 뻗은 상태로 길게 앉힘&#x20;
+  * → 머리를 45°옆으로 돌린 상태에서 턱을 약간 쳐들게 잡고, 머리가 수평보다 30°더 내려가게 빠르게 눕히고(머리를 침대 밖으로 늘어뜨림) 30초간 안진 관찰&#x20;
+  * → 다시 앉게 하고 30초간 안진 관찰&#x20;
+  * → 반대 방향으로 머리를 돌려 다시 시행
 * 진단 : 대부분 안진과 증상이 생기는 쪽의 post canal BPPV에 기인. 드물게 ant canal BPPV도 가능
 
 #### Supine roll test
 
 * 적용 : Dix-Hallpike test에 음성인 BPPV 의심 환자에서 시행
-* 방법 : 환자를 반듯이 눕히고 고개를 약간 굴곡시킨 상태에서 한쪽으로 빠르게 90도 돌린 후 30초간 어지럼 및 안진을 관찰. 30초간 정면을 향하게 한 후 반대쪽도 시행 ([video\_2.wmv](https://www.neurology.org/doi/10.1212/01.wnl.0000313378.77444.ac))
+* 방법 ([video\_2.wmv](https://www.neurology.org/doi/10.1212/01.wnl.0000313378.77444.ac))
+  * 환자를 반듯이 눕히고 고개를 약간 굴곡시킨 상태에서 한쪽으로 빠르게 90도 돌린 후 30초간 어지럼 및 안진을 관찰
+  * → 30초간 정면을 향하게 한 후 반대쪽도 시행
 * 진단 : 안진과 증상이 생기는 쪽의 lat canal BPPV
 
 #### Head impulse test
 
-* 방법 : 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측 하지 못한 상태에서) 한쪽으로 빠르게 15°돌림 → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행 ([Figure](https://www.nuemblog.com/blog/hints))
+* 방법 ([Figure](https://www.nuemblog.com/blog/hints))
+  * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측 하지 못한 상태에서) 한쪽으로 빠르게 15°돌림&#x20;
+  * → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행
 * 음성 (정상) : 시선이 표적에 고정됨; 소뇌 병변에서는 정상 반응을 보임
 * 양성 (비정상) : 시선이 머리 회전을 따라 돌아간 후 정면으로 돌아 옴; 회전시킨 쪽의 vestibulo-ocular reflex 결손 (peripheral vestibular lesion)
 
@@ -284,103 +294,88 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 ***
 
+<figure><img src="../.gitbook/assets/어지럼9.JPG" alt=""><figcaption></figcaption></figure>
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
-## 비-약물 치료
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 금연
-*   전정 재활 운동 : 어지럼 증상이 심하게 유발되지 않는 수준으로 시행
+* 전정 재활 운동 : 어지럼 증상이 심하게 유발되지 않는 수준으로 시행
+  * [예](https://youtu.be/KkKAoHZdUnI)&#x20;
+    * ① 고개를 양 옆으로 움직임, ② 정면을 보고 위 아래로 움직임, ③ 옆으로 45도 돌리고 위 아래로 움직임 & 반대편에서 반복
+    * 처음에는 눈을 뜨고 시선 고정 없이, 이후 정면 사물을 주시하면서(또는 팔을 뻗고 손가락을 응시하면서), 최종적으로 눈을 감고 운동; 1회 20번, 1일 2회 이상 시행. 천천히 시작, 점차 빠르게 시행 &#x20;
+* Balance exercise
+  * [예](https://www.uofmhealth.org/health-library/ug1239) :&#x20;
+    * 앞에는 의자 등 뒤에는 벽을 두고(필요하면 이를 지지) ① 팔을 붙이고 발을 모으고 30초간 서 있음, (Romberg exercise), ② 어깨 넓이로 발을 벌리고 서서 앞-뒤로, 좌-우로 기울임, 20번 반복, ③ 제자리 걷기(가급적 무릎을 높게 올림), ④ 발을 약간 벌리고 서서 180도 turn
+    * 처음에는 오른쪽, 다음에는 왼쪽, 어지러움이 발생하는 쪽에 5회 turn; 눈을 뜨고 시행, 가능하면 눈을 감고 반복; 하루 2회 시행
 
-    [• 예:](https://acare.abbott.com/en/exercise-with-vertigo/) ① 고개를 양 옆으로 움직임, ② 정면을 보고 위 아래로 움직임, ③ 옆으로 45도 돌리고 위 아래로 움직임 & 반대편에서 반복;
+## <mark style="color:green;">치료 약물</mark>
 
-    처음에는 눈을 뜨고 시선 고정 없이, 이후 정면 사물을 주시하면서(또는 팔을 뻗고 손가락을 응시하면서), 최종적으로 눈을 감고
+✽일부 약제는 어지럼증 상병으로는 보험 적용 안 됨
 
-    운동; 1회 20번, 1일 2회 이상 시행. 천천히 시작, 점차 빠르게 시행
-*   Balance exercise
-
-    [• 예: ](https://www.uofmhealth.org/health-library/ug1239)앞에는 의자 등 뒤에는 벽을 두고(필요하면 이를 지지) ① 팔을 붙이고 발을 모으고 30초간 서 있음, (Romberg exercise),
-
-    ② 어깨 넓이로 발을 벌리고 서서 앞-뒤로, 좌-우로 기울임, 20번 반복, ③ 제자리 걷기(가급적 무릎을 높게 올림),
-
-    ④ 발을 약간 벌리고 서서 180o turn. 처음에는 오른쪽, 다음에는 왼쪽, 어지러움이 발생하는 쪽에 5회 turn; 눈을 뜨고 시행,
-
-    가능하면 눈을 감고 반복; 하루 2회 시행
-
-## 치료 약물
-
-> ```
-> ✽일부 약제는 어지럼증 상병으로는 보험 적용 안 됨
-> ```
-
-### 전정 안정제
+### <mark style="color:$primary;">전정 안정제</mark>
 
 * 진정 작용으로 인하여 낙상 등의 위험이 있음. 항콜린제 부작용 위험이 있음; 증상 회복 기간을 단축시켜 주지는 못함
 
 #### Benzodiazepine
 
-* diazepam : 2~~5 ㎎ bid~~tid \[디아제팜]
+* diazepam : 2\~~~5 ㎎ bid\~~~tid \[디아제팜]
 * clonazepam : 0.25\~0.5 ㎎ bid \[리보트릴]
 * lorazepam : 0.5\~2 ㎎ qid \[아티반]
 
 #### Antihistamine
 
-* meclizine : 12.5~~25 ㎎ bid~~tid [염산메클리진](../%EB%B9%84%EB%B3%B4%ED%97%98/)
-* dimenhydrinate : 25~~50 ㎎ bid~~qid \[보나링 에이]; BPH, 녹내장 주의
+* meclizine : 12.5\~~~25 ㎎ bid\~~~tid \[염산메클리진]
+* dimenhydrinate : 25\~~~50 ㎎ bid\~~~qid \[보나링 에이]; BPH, 녹내장 주의
 
 #### 항콜린제
 
-*   scopolamine 경피제 : 멀미에 적용; 출발 4시간 이전에 귀 뒤에 부착 (72시간 동안 효과); ≥8세 허가 [키미테 패취](../%EB%B9%84%EB%B3%B4%ED%97%98/)
+*   scopolamine 경피제 : 멀미에 적용; 출발 4시간 이전에 귀 뒤에 부착 (72시간 동안 효과); ≥8세 허가 \[키미테 패취]
 
-    (☞ p.113)
+    (☞ [항콜린제](../224_/073_.md#gi-antispasmodic-agent))
 
-### 항구토제
+### <mark style="color:$primary;">항구토제</mark>
 
 * granisetron : 1 ㎎ tid \[카이트릴]
 * metoclopramide : 단기 사용; 5\~10 ㎎ tid \[맥페란]
 
-### 이뇨제
+### <mark style="color:$primary;">이뇨제</mark>
 
-* hydrochlorothiazide : 메니에르병에 적용; 12.5~~25 ㎎ qd~~bid \[다이크로짇]
+* hydrochlorothiazide : 메니에르병에 적용; 12.5\~~~25 ㎎ qd\~~~bid \[다이크로짇]
 
-### 허혈 예방, 혈액 순환 개선
+### <mark style="color:$primary;">허혈 예방, 혈액 순환 개선</mark>
 
 * 필요시 혈압 조절, 지질 개선, 항혈전제
 * trimetazidine : 20 ㎎ tid \[바스티난]
 * gin㎏o biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid \[기넥신] (보험기준 ☞ 1179)
 * kallidinogenase : 유효성에 대한 근거 부족; 25\~50 IU tid \[카레스]
 
-### 기타
+### <mark style="color:$primary;">기타</mark>
 
 * 편두통 치료제 : 편두통 관련 어지럼증에 적용 (☞ p.78)
 * SSRI : psychosomatic vertigo, 지속되는 postural-perceptual vertigo에 적용 (☞ p.1146)
-*   steroid : 전정신경염에 적용 (효과에 대하여 논란)
+* steroid : 전정신경염에 적용 (효과에 대하여 논란)
+  * methylprednisolone : 100 ㎎ qd → 10 ㎎/d 씩 감량, 총 3주 투여 \[메치론]
 
-    •methylprednisolone : 100 ㎎ qd → 10 ㎎/d 씩 감량, 총 3주 투여 \[메치론]
+## <mark style="color:green;">질환별 치료</mark>
 
-## 질환별 치료
+### <mark style="color:$primary;">BPPV</mark>
 
-### BPPV
-
-* 대부분 4(2~~6)주 내 자연 회복; 30~~50%에서 재발(특히 첫째 해), 이석정복술로 재발 감소;
+* 대부분 4(2\~~~6)주 내 자연 회복; 30\~~~50%에서 재발(특히 첫째 해), 이석정복술로 재발 감소;
 
 #### 이석정복술 (Canalith repositioning maneuver)
 
 **Epley maneuver**
 
 * post canal BPPV의 가장 효과적인 치료법; 치료 성공률 80%
-*   [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
-
-    ① 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다
-
-    30°더 내려가게 눕히고(lay back, 머리를 침대 밖으로 늘어뜨림) 1분간 유지
-
-    ② 이 상태에서 고개를 건측으로 90°돌려 1분간 유지
-
-    ③ 머리와 몸을 건측으로 90°더 돌려 얼굴이 45°각도로 바닥을 향하게 하고 1분간 유지; 이 과정에서 두정부는 계속 아래를
-
-    향하도록 함
-
-    ④ 이 상태를 유지하며 천천히 일아나 앉게 하고 30초간 유지
+* [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
+  1. 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다 30°더 내려가게 눕히고(lay back, 머리를 침대 밖으로 늘어뜨림) 1분간 유지
+  2. 이 상태에서 고개를 건측으로 90°돌려 1분간 유지
+  3. 머리와 몸을 건측으로 90°더 돌려 얼굴이 45°각도로 바닥을 향하게 하고 1분간 유지;  이 과정에서 두정부는 계속 아래를 향하도록 함
+  4. 이 상태를 유지하며 천천히 일아나 앉게 하고 30초간 유지
 * 시술 중 구역 발생 가능성에 대하여 설명; 반복 시술할 수 있으며 시술 후 활동 제한은 필요 없음
 
 **Semont-plus maneuver**
@@ -388,55 +383,41 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 *   post canal BPPV에 적용
 
     Epley maneuver보다 효과가 더 좋다는 보고가 있음(증상 소멸까지 평균 SM-plus 2일 vs. EM 3일 소요)
-*   [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329) : \[어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림
-
-    → 오른팔을 옆으로 뻗고 오른쪽(환측)으로, 머리가 침대 아래로 내려가도록(head 60 degree overextended) 150도 이상
-
-    옆으로 쓰러짐, 이 자세를 60초 유지
-
-    → 얼굴 각도를 유지한 채 왼쪽(건측)으로 240도 움직임. 60초 유지
-
-    → 일어나 앉아 정면을 보고 60초 유지
+* [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329) :&#x20;
+  * \[어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림
+  * → 오른팔을 옆으로 뻗고 오른쪽(환측)으로, 머리가 침대 아래로 내려가도록(head 60 degree overextended) 150도 이상 옆으로 쓰러짐, 이 자세를 60초 유지
+  * → 얼굴 각도를 유지한 채 왼쪽(건측)으로 240도 움직임. 60초 유지
+  * → 일어나 앉아 정면을 보고 60초 유지
 * 오전, 오후, 밤에 각각 3회 반복
 
 **Lempert roll maneuver(Barbecue roll maneuver)**
 
 * lat canal BPPV 치료법; 치료 성공률 ＜75%
-*   방법 : 환측 귀가 바닥을 향하도록 90°옆으로 누움 → 건측으로 90도 돌아 누움(얼굴이 천정을 향한 자세) → 건측으로 90도씩
-
-    더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함 → 천천히 일어나 앉음; 각 자세마다 30\~60초 또는 어지럼증이
-
-    사라질 때까지 유지함 (✽각 자세의 유지 시간과 눕는 각도에 대해서는 이견이 있음)
+* 방법&#x20;
+  * 환측 귀가 바닥을 향하도록 90°옆으로 누움&#x20;
+  * → 건측으로 90도 돌아 누움(얼굴이 천정을 향한 자세)&#x20;
+  * → 건측으로 90도씩 더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함&#x20;
+  * → 천천히 일어나 앉음; 각 자세마다 30\~60초 또는 어지럼증이 사라질 때까지 유지함 (✽각 자세의 유지 시간과 눕는 각도에 대해서는 이견이 있음)
 
 **재활 운동**
 
-*   전정 재활 운동
-
-    • 예: [Brandt-Daroff exercise](https://www.youtube.com/watch?v=voZXtTUdQ00\&t=31s)
-
-    ① 침대 가장자리에 똑바로 앉음
-
-    ② 고개를 오른쪽으로 45도(또는 가능한 한) 돌림
-
-    ③ 왼쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지
-
-    ④ 일어나 앉아 고개를 정면을 향하게 함
-
-    ⑤ 고개를 왼쪽으로 45(또는 가능한 한) 돌림
-
-    ⑥ 오른쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지
-
-    ⑦ 일어나 앉아 고개를 정면을 향하게 함
+* 전정 재활 운동
+  * 예: [Brandt-Daroff exercise](https://www.youtube.com/watch?v=voZXtTUdQ00\&t=31s)
+    1. 침대 가장자리에 똑바로 앉음
+    2. 고개를 오른쪽으로 45도(또는 가능한 한) 돌림
+    3. 왼쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지
+    4. 일어나 앉아 고개를 정면을 향하게 함
+    5. 고개를 왼쪽으로 45(또는 가능한 한) 돌림
+    6. 오른쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지
+    7. 일어나 앉아 고개를 정면을 향하게 함
 
 #### 약물 치료
 
-*   안정제 : central compensation을 방해하고 낙상 위험을 증가시킬 수 있으므로 권하지 않음; 투여하는 경우 단기간으로
-
-    제한하며 주의를 요함
+* 안정제 : central compensation을 방해하고 낙상 위험을 증가시킬 수 있으므로 권하지 않음; 투여하는 경우 단기간으로 제한하며 주의를 요함
 * 항구토제
 * Vit D & Ca : (특히 Vit D 결핍 환자에서) BPPV 재발 감소에 유효하다는 보고가 있음
 
-### 전정신경염
+### <mark style="color:$primary;">전정신경염</mark>
 
 * 전정 재활 훈련
 
@@ -445,17 +426,16 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 * 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용
 * steroid : 효과에 대하여 논란이 있으며 투여 시 증상 발현 3일 이내 시작
 
-### 미로염
+### <mark style="color:$primary;">미로염</mark>
 
 #### 약물 치료
 
 * 전정 안정제(단기 사용), 항구토제
 * 항생제 : 세균 감염 의심 시 적용
-*   항바이러스제 : herpes에 의한 경우 적용
+* 항바이러스제 : herpes에 의한 경우 적용
+  * acyclovir 800 ㎎ 5회/d ×7d \[메노바] (☞ p.962)
 
-    •acyclovir 800 ㎎ 5회/d ×7d \[메노바] (☞ p.962)
-
-### 메니에르병
+### <mark style="color:$primary;">메니에르병</mark>
 
 * 음식 제한 : 소금(＜2.5 g/d), MSG, 카페인, 초콜릿, 니코틴, 음주
 * 알레르기 환자에서 알레르기 치료
@@ -465,11 +445,15 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 * 전정 안정제, 항구토제, 이뇨제
 
-### 외림프누공
+### <mark style="color:$primary;">외림프누공</mark>
 
 * 침상 안정. 수술(이식)
 
-> **질병코드** R42 어지럼증 및 어지럼
+***
+
+### <mark style="color:purple;">질병코드</mark>
+
+R42 어지럼증 및 어지럼
 
 H81.0 메니에르병
 
@@ -480,5 +464,11 @@ H81.2 전정신경세포염
 H81.9 전정기능의 상세불명 장애
 
 H83.0 미로염
+
+***
+
+## <mark style="color:orange;">처방례</mark>
+
+
 
 ![image](../.gitbook/assets/25813d0d-015f-434c-8701-0bac7038726e.JPG)
