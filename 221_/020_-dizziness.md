@@ -42,7 +42,7 @@
 * 신경학적 이상 : 시각 이상, 구음 장애, 팔/다리 약화, 감각 저하, tingling
 * 흉통, 이전에 경험하지 못한 심한 두통, 과거 뇌졸중 병력
 * 48시간 후에도 호전되지 않음
-* 원인 미상의 발열(＞38℃
+* 원인 미상의 발열(＞38℃)
 
 ## <mark style="color:green;">원인</mark>
 
@@ -74,11 +74,12 @@
 * 안진 : 말초성
 * 검사 : Dix-Hallpike test(post canal), Supine roll test(lat canal)
 
-### <mark style="color:$primary;">전정신경염 (Vestibular neuritis)</mark>
+### <mark style="color:$primary;">전정신경염 (Vestibular neuritis / Acute Unilateral Vestibulopathy, AUV)</mark>
 
 * vertigo의 두 번째 흔한 원인
 * 30\~50세 호발
 * 원인 : 전정신경의 바이러스 감염; 기전- 불명
+  * ✽국제 전정장애 분류(ICVD)에서 최신 선호 용어는 Acute Unilateral Vestibulopathy(AUV)
 
 #### 임상 양상
 
@@ -132,14 +133,12 @@
 
 ## <mark style="color:green;">중추성 질환</mark>
 
-### <mark style="color:$primary;">편두통성 어지럼증 (Migrainous vertigo)</mark>
+### <mark style="color:$primary;">편두통성 어지럼증 (Vestibular migraine)</mark>
 
 * 편두통과 관련하여 발생하는 일회적 어지럼증; 두통 없이도 발생할 수 있음
 * 편두통과 마찬가지로 카페인, 알코올 등에 의해 유발
-* 증상 : 두부 압박감, 시각/청각 과민　
-  * 청력 소실 또는 이명은 없음
 * 5분\~72시간 동안 지속되는 전정기관 증상이 5회 이상 및 편두통 병력이 있는 경우 고려
-* 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민&#x20;
+* 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민
   * 청력 소실 또는 이명은 없음
 * 치료 : 편두통 치료 (☞ p.76)
 
@@ -345,14 +344,14 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 #### Benzodiazepine
 
-* diazepam : 2\~~~5 ㎎ bid\~~~tid \[디아제팜]
+* diazepam : 2\~5 ㎎ bid\~tid \[디아제팜]
 * clonazepam : 0.25\~0.5 ㎎ bid \[리보트릴]
 * lorazepam : 0.5\~2 ㎎ qid \[아티반]
 
 #### Antihistamine
 
-* meclizine : 12.5\~~~25 ㎎ bid\~~~tid \[염산메클리진]
-* dimenhydrinate : 25\~~~50 ㎎ bid\~~~qid \[보나링 에이]; BPH, 녹내장 주의
+* meclizine : 12.5\~25 ㎎ bid\~tid \[염산메클리진]
+* dimenhydrinate : 25\~50 ㎎ bid\~qid \[보나링 에이]; BPH, 녹내장 주의
 
 #### 항콜린제
 
@@ -367,27 +366,34 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 ### <mark style="color:$primary;">이뇨제</mark>
 
-* hydrochlorothiazide : 메니에르병에 적용; 12.5\~~~25 ㎎ qd\~~~bid \[다이크로짇]
+* hydrochlorothiazide : 메니에르병에 적용; 12.5\~25 ㎎ qd\~bid \[다이크로짇]
 
 ### <mark style="color:$primary;">허혈 예방, 혈액 순환 개선</mark>
 
 * 필요시 혈압 조절, 지질 개선, 항혈전제
 * trimetazidine : 20 ㎎ tid \[바스티난]
-* gin㎏o biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid \[기넥신] (보험기준 ☞ 1179)
+* ginkgo biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid \[기넥신] (보험기준 ☞ 1179)
 * kallidinogenase : 유효성에 대한 근거 부족; 25\~50 IU tid \[카레스]
+
+### <mark style="color:$primary;">Betahistine</mark>
+
+* 말초성 어지럼증(메니에르병, 전정신경염) 증상 완화 및 예방에 적용
+* 기전 : 전정 핵의 흥분성 조절, 내이 혈류 개선
+* 용량 : 16 ㎎ tid (48 ㎎/d); 최소 3개월 이상 투여 \[베타세르크]
+* ✽BPPV에는 효과 없음; 중추성 어지럼증에 대한 근거 불충분
 
 ### <mark style="color:$primary;">기타</mark>
 
 * 편두통 치료제 : 편두통 관련 어지럼증에 적용 (☞ p.78)
 * SSRI : psychosomatic vertigo, 지속되는 postural-perceptual vertigo에 적용 (☞ p.1146)
-* steroid : 전정신경염에 적용 (효과에 대하여 논란)
-  * methylprednisolone : 100 ㎎ qd → 10 ㎎/d 씩 감량, 총 3주 투여 \[메치론]
+* steroid : 전정신경염에 적용; 증상 발현 3일 이내 투여 시 단기 전정 기능 회복에 도움 가능 (장기 예후 근거 불충분)
+  * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 \[메치론]
 
 ## <mark style="color:green;">질환별 치료</mark>
 
 ### <mark style="color:$primary;">BPPV</mark>
 
-* 대부분 4(2\~~~6)주 내 자연 회복; 30\~~~50%에서 재발(특히 첫째 해), 이석정복술로 재발 감소;
+* 대부분 4(2\~6)주 내 자연 회복; 30\~50%에서 재발(특히 첫째 해), 이석정복술로 재발 감소;
 
 #### 이석정복술 (Canalith repositioning maneuver)
 
@@ -436,18 +442,20 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 #### 약물 치료
 
-* 안정제 : central compensation을 방해하고 낙상 위험을 증가시킬 수 있으므로 권하지 않음; 투여하는 경우 단기간으로 제한하며 주의를 요함
-* 항구토제
-* Vit D & Ca : (특히 Vit D 결핍 환자에서) BPPV 재발 감소에 유효하다는 보고가 있음
+* 안정제 : **원칙적으로 권장하지 않음** (AAO-HNS 가이드라인); central compensation을 방해하고 낙상 위험을 증가시킴. 불가피한 경우 단기간으로 제한하며 주의를 요함
+* 항구토제 : 구역/구토가 심한 경우 단기 사용
+* Vit D & Ca : Vit D 결핍 환자에서 BPPV 재발 감소에 유효. **Vit D 400 IU + 탄산칼슘 500 ㎎ 1일 2회** 권장; 정상 혈중 농도에서는 추가 효과 불분명
 
 ### <mark style="color:$primary;">전정신경염</mark>
 
-* 전정 재활 훈련
+* 전정 재활 훈련 : 가능한 조기 시작; 최소 3개월 시행 권장
 
 #### 약물 치료
 
-* 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용
-* steroid : 효과에 대하여 논란이 있으며 투여 시 증상 발현 3일 이내 시작
+* 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 **3일 이내**로 사용 제한
+* steroid : 증상 발현 **3일 이내** 투여 시 전정 기능 단기 회복에 도움 가능; 장기 예후(어지럼 장애 지수) 개선 근거는 불충분
+  * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 \[메치론]
+* betahistine : 증상 완화 목적; 16 ㎎ tid (48 ㎎/d) \[베타세르크] — EAONO 권고
 
 ### <mark style="color:$primary;">미로염</mark>
 
@@ -460,13 +468,27 @@ _<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</ma
 
 ### <mark style="color:$primary;">메니에르병</mark>
 
-* 음식 제한 : 소금(＜2.5 g/d), MSG, 카페인, 초콜릿, 니코틴, 음주
+* 음식 제한 : 소금(＜2 g/d), MSG, 카페인, 초콜릿, 니코틴, 음주; 충분한 수분 섭취(35 ㎖/㎏/d)
 * 알레르기 환자에서 알레르기 치료
 * 수술 : endolymphatic sac surgery
 
 #### 약물 치료
 
-* 전정 안정제, 항구토제, 이뇨제
+* 전정 안정제, 항구토제 : 급성 발작기 단기 사용
+* 이뇨제 : hydrochlorothiazide
+* **betahistine** : 발작 예방 목적; 16 ㎎ tid (48 ㎎/d) 이상, 최소 3개월 이상 투여 \[베타세르크] — EAONO·NICE 가이드라인 권고
+
+### <mark style="color:$primary;">지속성체위지각어지럼증 (Persistent Postural-Perceptual Dizziness, PPPD)</mark>
+
+* WHO ICD-11 공식 등재 질환(AB32.0); 국내 dizziness clinic에서 두 번째로 흔한 원인(20.8%)
+* 진단 기준 : 비회전성 어지럼(흔들림, 불안정감)이 ≥3개월 지속; 직립 자세, 움직임, 시각 자극에 의해 악화; 기질적 원인 배제
+* 선행 사건 : 급성 전정 질환(전정신경염, BPPV), 편두통, 공황장애 등
+
+#### 치료
+
+* **전정 재활 훈련** : 습관화 운동 중심; 조기 시작이 중요
+* **인지행동치료(CBT)** : 발생 8주 이내 시작 시 효과 현저히 높음
+* **SSRI/SNRI** : sertraline 25\~100 ㎎/d 또는 escitalopram 5\~20 ㎎/d; 최소 1년 유지 권장 (☞ p.1146)
 
 ### <mark style="color:$primary;">외림프누공</mark>
 
@@ -492,6 +514,72 @@ H83.0 미로염
 
 ## <mark style="color:orange;">처방례</mark>
 
+> **처방례 1.** 급성 어지럼증 — 일반 (말초성, 원인 불명)
+>
+> ```
+> 보나링 에이 50 mg/T  1T  bid~tid  (BPH, 녹내장 주의)
+> 맥페란 5 mg/T  1T  tid  (구역/구토 동반 시; 단기 사용)
+> ```
 
+> **처방례 2.** BPPV — 재발 예방 (Vit D 결핍 환자)
+>
+> ```
+> 비타민 D3 400 IU  1캡슐  bid
+> 탄산칼슘 500 mg  1정  bid  (식후 복용)
+> ```
 
-![image](../.gitbook/assets/25813d0d-015f-434c-8701-0bac7038726e.JPG)
+> **처방례 3.** 전정신경염 — 급성기 (증상 발현 3일 이내)
+>
+> ```
+> 메치론 주 500 mg/5 mL  1V(100 mg)  IV qd  (3주 tapering; 발현 3일 이내 시작)
+> 보나링 에이 50 mg/T  1T  bid  (3일 이내로 제한)
+> 베타세르크 8 mg/T  2T  tid  (증상 완화 목적)
+> ```
+
+> **처방례 4.** 메니에르병 — 예방 (발작 간기)
+>
+> ```
+> 베타세르크 8 mg/T  2T  tid  (48 mg/d; 최소 3개월 이상 유지)
+> 다이크로짇 25 mg/T  1T  qd  (이뇨; 아침 복용)
+> ```
+
+> **처방례 5.** PPPD (지속성체위지각어지럼증)
+>
+> ```
+> 렉사프로 10 mg/T  0.5T  qd  조식 후  (2주 후 1T으로 증량; 최소 1년 유지)
+> ```
+
+***
+
+### <mark style="color:purple;">핵심 복약 지도</mark>
+
+> **전정 안정제** (보나링 에이, 디아제팜 등)
+>
+> * **단기 사용 원칙** : 어지럼증이 심한 급성기(2\~3일)에만 사용하십시오. 장기 복용은 뇌의 균형 회복을 방해합니다.
+> * **졸음·낙상 주의** : 복용 중 운전·기계 조작을 삼가고, 갑자기 일어날 때 천천히 움직이십시오.
+> * **BPH·녹내장** : 전립선 비대증 또는 녹내장이 있으면 반드시 의사에게 알리십시오.
+
+> **이석정복술(Epley maneuver) 후 안내**
+>
+> * 시술 직후 일시적인 어지럼이 생길 수 있으나 곧 가라앉습니다.
+> * 시술 후 특별한 자세 제한은 필요하지 않습니다 (일상 활동 가능).
+> * 재발 예방을 위해 Vit D 혈중 농도가 낮은 경우 보충제를 처방받으십시오.
+
+> **전정 재활 운동 (전정신경염·PPPD)**
+>
+> * 어지럼이 완전히 없어질 때까지 기다리지 말고, 증상이 유발되지 않는 수준으로 조기에 운동을 시작하십시오.
+> * 매일 2회 이상, 최소 3개월간 꾸준히 시행하는 것이 중요합니다.
+> * 처음에는 눈을 뜨고 천천히 시작하여 점차 빠르게, 최종적으로 눈을 감고 시행합니다.
+
+> **베타세르크 (메니에르병·전정신경염)**
+>
+> * 효과가 나타나기까지 수주\~수개월이 걸릴 수 있으니 임의로 중단하지 마십시오.
+> * 식사와 함께 또는 식후에 복용하면 위장 불편을 줄일 수 있습니다.
+> * 메니에르병은 저염식(소금 2 g/d 이하)과 충분한 수분 섭취(1.5\~2 L/d)를 병행하십시오.
+
+> **렉사프로 (PPPD)**
+>
+> * 처음 1\~2주간 오히려 어지럼이 일시적으로 악화될 수 있으나 이후 호전됩니다.
+> * 최소 1년 이상 복용이 권장되며, 의사와 상의 없이 갑자기 중단하지 마십시오.
+> * 인지행동치료(CBT) 또는 전정 재활 운동을 병행하면 효과가 높아집니다.
+
