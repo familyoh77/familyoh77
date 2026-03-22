@@ -57,7 +57,7 @@
 
 ### <mark style="color:$primary;">선별 검사</mark>
 
-<mark style="color:$info;">※ USPSTF(2023) : 증상 유무와 관계없이 **65세 미만의 모든 성인**에게 불안장애 선별 검사 시행 권고 (B등급). 일차의료에서 예방적 선별의 근거로 활용 가능</mark>
+※ USPSTF(2023) : 증상 유무와 관계없이 65세 미만의 모든 성인에게 불안장애 선별 검사 시행 권고 (B등급). 일차의료에서 예방적 선별의 근거로 활용 가능
 
 #### Generalized anxiety disorder 7-item [(GAD-7)](http://www.phqscreeners.com)
 
@@ -135,7 +135,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>_
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
@@ -170,10 +170,10 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 #### SSRI/SNRI
 
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ p.1146)
-* 저용량으로 시작 → 4\~\~\~6주 후 평가하여 효과가 부족하면 1\~\~\~2주 간격으로 증량
+* 저용량으로 시작 → 4\~6주 후 평가하여 효과가 부족하면 1\~2주 간격으로 증량
 * 부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 4주 동안 매주 자살 생각에 대하여 모니터링)
-* SNRI 추가 주의 : 산동(mydriasis) 효과로 인한 안압 상승 — 폐쇄각 녹내장(narrow-angle glaucoma) 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
-* 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 모니터링 — 투약 초기 전해질 확인 권고
+* SNRI 추가 주의 : 산동(mydriasis) 효과로 인한 안압 상승. 폐쇄각 녹내장(narrow-angle glaucoma) 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
+* 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 모니터링. 투약 초기 전해질 확인 권고
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
 * 약물 중단 시 반동 증상 : 어지럼, 이상 감각, 구역/구토, 두통, 발한, 불안, 수면 장애
 * Tapering 원칙 : 용량이 낮아질수록 더 천천히 감량(hyperbolic tapering); 최소 용량 도달 후 격일 복용으로 2\~4주 유지한 뒤 중단 — 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 천천히 감량
@@ -181,7 +181,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 <table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram [시탈로프람]</td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* [렉사프로]</td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline [졸로푸트]</td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* [세로자트, 팍실CR]</td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine [푸로작]</td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine [듀미록스]</td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* [심발타]</td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* [이팩사 XR]</td><td align="center">75</td><td align="center">75~225</td></tr><tr><td>vortioxetine† [브린텔릭스]</td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
 
 \* GAD에 대하여 FDA 승인 (escitalopram, paroxetine, duloxetine, venlafaxine XR)\
-† GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능 — 근거 축적 중
+† GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능(근거 축적 중)
 
 #### GABA-analogue
 
