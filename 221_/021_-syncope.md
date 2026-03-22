@@ -19,24 +19,26 @@
 * 실신 발생 직전에 경험하는 증상(near-syncope). 회복될 수도 있고 syncope로 진행될 수도 있음
 * 어지럼(dizziness, lightheadedness), 시각 이상(터널 시야, 시력 상실), 다양한 수준의 의식 변화(완전한 의식 소실은 아님); 구역, 오한, 복통, 창백, 자세 긴장 저하 (☞ p.93)
 
-### <mark style="color:$danger;">🚩 Red Flags! — 즉각 심장 전문의 의뢰 또는 응급 이송</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>&#x20;
 
-<mark style="color:$danger;">**다음 소견이 하나라도 있으면 심혈관성 실신 또는 생명 위협 원인을 배제해야 함**</mark>
+<mark style="color:$danger;">**즉각 이송/응급 평가 — 심혈관성 실신 또는 생명 위협 원인 직접 시사**</mark>
 
 * 운동 중 또는 누운 자세에서 발생한 실신
+* 비정상 ECG : QT 연장, pre-excitation(WPW), bundle branch block, 지속성 서맥(＜40회/분), ST 이상, Q파
 * 전구 증상 없이 갑작스럽게 발생한 실신
+* 기저 구조적 심질환(심부전, 심근증, 판막 질환), 관상동맥병 병력, 또는 가족성 돌연사 병력(＜50세)
+
+<mark style="color:$warning;">**당일 의뢰 또는 응급 평가 권고**</mark>
+
 * 흉통, 호흡 곤란, 심계항진 동반
 * 실신 직후 두근거림
-* 비정상 ECG : QT 연장, pre-excitation(WPW), bundle branch block, 지속성 서맥(＜40회/분), ST 이상, Q파
-* 기저 구조적 심질환(심부전, 심근증, 판막 질환) 또는 관상동맥병 병력
-* 가족성 돌연사 병력(＜50세)
-* 반복적이고 설명할 수 없는 실신
-
-<mark style="color:$warning;">**즉각 응급 조치 고려 (당일 응급 평가)**</mark>
-
 * 수축기 혈압 ＜90 ㎜Hg (회복 후에도 저혈압 지속)
 * 중증 빈혈 또는 전해질 이상 동반
 * 심한 외상 동반 (낙상으로 인한 골절, 두부 손상 등)
+
+<mark style="color:$info;">**외래 추적 / 추가 검사 계획 — 단독 시 즉각 위험 낮으나 반복 시 재평가 필요**</mark>
+
+* 반복적이고 설명할 수 없는 실신 (위 소견 병존 시 즉각 격상)
 
 ## <mark style="color:green;">종류</mark>
 
@@ -76,11 +78,11 @@
 
 ### <mark style="color:$primary;">초기 평가 원칙</mark>
 
-<mark style="color:$info;">※ 2017 ACC/AHA/HRS 및 2018 ESC 가이드라인 공통 권고 : 병력 청취, 신체 검진(기립성 활력징후 포함), 12유도 ECG가 초기 평가의 핵심. 일률적인 광범위 실험실 검사 및 영상 검사는 권고하지 않음.</mark>
+* 병력 청취 : 발생 상황, 전구 증상, 회복 과정, 목격자 진술, 복용 약물, 심장 질환 병력, 가족력
+* 신체 검진 : 양측 혈압(앙와위·기립 후 즉시·3분 후), 맥박, 심장 청진
+* ECG : 모든 실신 환자에서 반드시 시행 (Class I)
 
-* **병력 청취** : 발생 상황, 전구 증상, 회복 과정, 목격자 진술, 복용 약물, 심장 질환 병력, 가족력
-* **신체 검진** : 양측 혈압(앙와위·기립 후 즉시·3분 후), 맥박, 심장 청진
-* **ECG** : 모든 실신 환자에서 반드시 시행 (Class I)
+<mark style="color:$info;">※ 2017 ACC/AHA/HRS 및 2018 ESC 가이드라인 공통 권고 : 병력 청취, 신체 검진(기립성 활력징후 포함), 12유도 ECG가 초기 평가의 핵심; 일률적인 광범위 실험실 검사 및 영상 검사는 권고하지 않음</mark>
 
 ### <mark style="color:$primary;">추가 검사</mark>
 
@@ -121,13 +123,12 @@
 {% hint style="info" %}
 **Canadian Syncope Risk Score (CSRS)**
 
-응급실 내원 실신 환자의 30일 내 중대 부작용 발생 위험 예측 도구. 9개 항목(병력, 활력징후, ECG, troponin, 응급실 진단)으로 구성. 점수 범위 −3 ~ +11점.
+응급실 내원 실신 환자의 30일 내 중대 부작용 발생 위험 예측 도구. 9개 항목(병력, 활력징후, ECG, troponin, 응급실 진단)으로 구성. 점수 범위 −3 \~ +11점.
 
 * 매우 낮은 위험 (−3, −2점) / 낮은 위험 (−1, 0점) : 30일 내 SAE 약 1.2%, 외래 추적 고려
 * 중간 위험 (1, 2, 3점) / 높은 위험 (4, 5점) / 매우 높은 위험 (≥6점) : 단계적 입원 및 추가 검사
 
-2022년 국제 다기관 전향적 검증 연구 완료; 8개국에서 SAE 0.6%로 확인됨.
-[🔗 mdcalc.com/canadian-syncope-risk-score](https://www.mdcalc.com/canadian-syncope-risk-score)
+2022년 국제 다기관 전향적 검증 연구 완료; 8개국에서 SAE 0.6%로 확인됨. [🔗 mdcalc.com/canadian-syncope-risk-score](https://www.mdcalc.com/canadian-syncope-risk-score)
 {% endhint %}
 
 ### <mark style="color:$primary;">감별</mark>
