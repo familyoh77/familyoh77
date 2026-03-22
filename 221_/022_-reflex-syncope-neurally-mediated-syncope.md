@@ -1,7 +1,5 @@
 # 반사성 실신 Reflex Syncope, Neurally mediated Syncope
 
-![image](../.gitbook/assets/7eb92685-7c8a-45bc-8336-267c6dd2aef4.JPG)
-
 ## <mark style="color:green;">일반 사항</mark>
 
 * 실신 : 뇌 혈류량 감소로 인하여 갑작스럽게 발생하고, 신경학적 후유 장애 없이 수 초\~수 분 후 자발적으로 회복되는 일시적인 의식 소실 (☞ p.103)
@@ -40,9 +38,9 @@
 
 * 유발 인자 없이 발생 또는 비전형적 양상
 
-### <mark style="color:$danger;">🚩 Red Flags! — 즉각 심장/신경과 평가 또는 이송</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>&#x20;
 
-<mark style="color:$danger;">**다음 소견이 있으면 단순 반사성 실신보다 심혈관·신경계 원인을 우선 배제**</mark>
+<mark style="color:red;">다음 소견이 있으면 단순 반사성 실신보다 심혈관·신경계 원인을 우선 배제</mark>
 
 * 운동 중 또는 누운 자세에서 실신 발생
 * 흉통, 심계항진, 호흡 곤란 동반
@@ -71,8 +69,6 @@
 * 기립 직후 발생, 기립 후 혈압 감소 확인 → 기립성 저혈압 (☞ p.500)
 * 전조 없는 돌발 실신, 운동 중 발생, 심장 병력 → 심장성 실신 배제 필요
 
-***
-
 ## <mark style="color:green;">Management</mark>
 
 ### 치료 방침
@@ -81,6 +77,7 @@
 * 유발인자 회피
 * 물리적 요법
 * 약물 치료 : 보통 필요 없으며 효과 입증이 불충분함; 재발성 실신에서 고려
+  * 반사성 실신에 대한 약물 치료는 전반적으로 근거 수준이 낮으며, 비약물 치료가 우선임. 재발성·중증 실신에서 개별 상황에 따라 선택적으로 고려
 * 심장 질환 병력이 없는 ＜60세는 외래 진료, 심장 문제가 의심되는 고령자는 입원 진료 고려
 * 반복·중증 실신 : 아래 침습적 치료 고려
 * 부상 예방 : 채혈 또는 주사 시 누워서 진행, 전조 증상 발생 시 앉거나 누움
@@ -97,35 +94,28 @@
 
 #### Counter-pressure maneuver
 
-* vasovagal syncope에서 유용 (2023 체계적 문헌고찰에서 효과 확인)
+* vasovagal syncope에서 유용&#x20;
 * 전구 증상이 느껴질 때 누울 수 없는 상황인 경우에 다음을 시행
-
   * 다리를 교차시키고 다리, 복부, 엉덩이에 힘을 주는 동작을 수 분간 반복하거나 제자리에 쪼그리고 앉음
   * 양 손을 맞잡고 서로 당겨 팔 근육을 긴장시키거나 (작은 공 등을 이용하여) 주먹을 꼭 쥠
   * neck flexion(턱을 가슴에 붙임)
 
 ## <mark style="color:green;">약물 치료</mark>
 
-{% hint style="warning" %}
-반사성 실신에 대한 약물 치료는 전반적으로 근거 수준이 낮으며, 비약물 치료가 우선이다. 재발성·중증 실신에서 개별 상황에 따라 선택적으로 고려한다.
-{% endhint %}
-
-* **α-agonist** : midodrine \[미드론] (☞ p.502); 기립성 유발 VVS에서 선호; 2021 RCT에서 예방 효과 확인 (낮은 근거 수준)
-* **mineralocorticoid** : fludrocortisone \[플로리네프] (☞ p.502); 수분/나트륨 저류 기전; 효과 입증 불충분
-* **β-blocker** : <mark style="color:$warning;">ESC 2018 가이드라인 : VVS에 β-blocker는 적응증 없음 (Class III, LOE A)</mark>; ACC/AHA 2017 : 40세 이상에서 제한적 고려 가능 (Class IIb); 소아·청소년에서는 유익성 없음 (Class III)
+* α-agonist : 기립성 유발 VVS에서 선호. 효과 입증 불충분
+  * midodrine \[미드론] (☞ p.502)
+* mineralocorticoid : 수분/나트륨 저류 기전. 효과 입증 불충분
+  * fludrocortisone \[플로리네프] (☞ p.502)
+* β-blocker : ESC 2018 가이드라인- VVS에 β-blocker는 적응증 없음 (Class III, LOE A); ACC/AHA 2017- 40세 이상에서 제한적 고려 가능 (Class IIb), 소아·청소년에서는 유익성 없음 (Class III);&#x20;
   * metoprolol \[베타록], atenolol \[테놀민] (☞ p.487)
-* **SSRI** : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2023\~2024 체계적 문헌고찰에서 재발 감소 효과 시사 (소규모, 추가 연구 필요)
+* SSRI : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 소규모연구에서재발 감소 효과 시사&#x20;
   * paroxetine \[세로자트] (☞ p.1146)
-
-{% hint style="info" %}
-※ α-agonist(midodrine), fludrocortisone 모두 효과에 대한 입증은 불충분함. β-blocker는 ESC 가이드라인에서 VVS에 대한 사용을 권고하지 않음.
-{% endhint %}
 
 ## <mark style="color:green;">침습적 치료</mark>
 
 ### 심박동기 (Pacemaker)
 
-* **적응증 (2021 ESC 심박동기 가이드라인 — Class I, LOE A)** : 40세 이상, 재발성·중증(외상 동반, 전구 증상 짧음), 약물 치료에 반응 없는 cardioinhbitory형 VVS에서 ILR 또는 carotid sinus 마사지/tilt test로 무수축(asystole) 확인 시 dual-chamber pacemaker 적응
+* 적응증 (2021 ESC 심박동기 가이드라인 - Class I, LOE A) : 40세 이상, 재발성·중증(외상 동반, 전구 증상 짧음), 약물 치료에 반응 없는 cardioinhbitory형 VVS에서 ILR 또는 carotid sinus 마사지/tilt test로 무수축(asystole) 확인 시 dual-chamber pacemaker 적응
   * 무수축 기준 : ILR에서 ≥3초 (증상 동반) 또는 ≥6초 (무증상)
   * <mark style="color:$info;">※ 이전(2013 ESC) Class IIb에서 Class I으로 상향 (BioSync CLS 등 RCT 결과 반영)</mark>
 * 목동맥굴증후군(carotid sinus syndrome)의 cardioinhibitory/mixed형 : pacemaker 적응 (Class I)
