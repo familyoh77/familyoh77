@@ -9,7 +9,11 @@
 •Guideline: Headache. NICE (2015)
 
 •Position Statement on Integrating New Migraine Treatments into Clinical Practice. _Headache_. American Headache Society (2024)\
-•Pharmacological management of migraine. NICE (2018)\
+•Pharmacological management of migraine. NICE (2018)
+
+•AAO-HNS Clinical Practice Guideline: BPPV (Update) (2017)
+
+•EAONO / Japanese Society for Equilibrium Research - Ménière's disease (2018)\
 •Guidelines for the diagnosis and management of syncope. ESC (2018)\
 •Guideline for the evaluation and management of patients with syncope. ACC/AHA/HRS (2017)\
 •실신 평가 및 치료 지침. 대한부정맥학회 (2018)\
