@@ -271,54 +271,50 @@ _<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). T
 
 #### 중추성 vs 말초성 감별
 
-| 특징                         | 말초성             | 중추성                |
-| -------------------------- | --------------- | ------------------ |
-| 발병/진행                      | 갑자기 발생          | 점진적 진행             |
-| 안진: 수직/purely torsional    | 없음              | 있음                 |
-| 안진: 물체 주시 효과               | 주시로 진정됨         | 주시로 진정되지 않음        |
-| 안진:좌우 응시에 따른 fast phase 방향 | 변화 없음(건측 방향 안진) | 방향 변함              |
-| 안진: 지속 기간                  | 수일 후 사라짐        | 수 주\~수개월 지속        |
-| 자세 불균형 정도                  | 중등증 이하, 보행 가능   | 심함, 보행하기 힘듦        |
-| 구역, 구토                     | 심함              | 다양함                |
-| 이명, 청력 소실                  | 흔함              | 드묾/다양(이환 부위에 따라)   |
-| 신경학적 이상                    | 드묾              | 흔함(복시, 구어 장애, 딸꾹질) |
-| 유발 검사 후 잠복기                | 길다(\~20초)       | 짧다(\~5초)           |
+| 특징 | 말초성 | 중추성 |
+| --- | --- | --- |
+| 발병/진행 | 갑자기 발생 | 갑자기 또는 점진적 (뇌졸중은 갑자기 발생 가능) |
+| 안진: 수직/purely torsional | 없음 | 있음 |
+| 안진: 물체 주시 효과 | 주시로 진정됨 | 주시로 진정되지 않음 |
+| 안진: 좌우 응시에 따른 fast phase 방향 | 변화 없음(건측 방향 안진) | 방향 변함 |
+| 안진: 지속 기간 | 수일 후 사라짐 | 수 주\~수개월 지속 |
+| 자세 불균형 정도 | 중등증 이하, 보행 가능 | 심함, 보행하기 힘듦 |
+| 구역, 구토 | 심함 | 다양함 |
+| 이명, 청력 소실 | 흔함 | 드묾/다양(이환 부위에 따라) |
+| 신경학적 이상 | 드묾 | 흔함(복시, 구어 장애, 딸꾹질) |
+| 유발 검사 후 잠복기 | **5\~20초** | **없음 또는 즉각 발생** |
 
-_<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). Table 6.</mark>_
+_<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). Table 6. (잠복기 항목 수정)</mark>_
 
-**Dix-Hallpike maneuver 소견**
+_<mark style="color:$info;">✽ 침상 감별에는 HINTS Plus(Head impulse test, Nystagmus, Test of Skew + New hearing loss) 활용 — 본문 HiNTS Plus Exam 참조</mark>_
 
-| 특징           | 말초성             | 중추성    |
-| ------------ | --------------- | ------ |
-| 증상 출현 잠복기    | 2\~40초          | 없음     |
-| vertigo 강도   | 심함              | 약함     |
-| 안진 기간        | <1분             | 보통 >1분 |
-| fatigability | 있음(자세 유지 시 호전)  | 없음     |
-| habituation  | 있음(반복 검사 시 반응↓) | 없음     |
+#### 체위성 안진: 말초성 vs 중추성 (Dix-Hallpike 소견 포함)
 
-_<mark style="color:$info;">Ref. Treatment of vertigo AFP 2005;71(6). Table 2.</mark>_
+| 특징 | 말초성 | 중추성 |
+| --- | --- | --- |
+| 체위성 안진 발생 전 잠복기 | **5\~20초** | **없음 또는 즉각 발생** |
+| vertigo 강도 | 심함 | 약함, 간혹 없음 |
+| 안진 방향 | 편측 방향(torsional-upbeating); 주시에 따라 변할 수 있음 | 머리 방향에 따라 변화; 수직 안진 가능 |
+| 안진 지속 시간 | ＜1분 | ＞1분 |
+| fatigability | 있음(자세 유지 시 호전) | 없음(감소하지 않고 유지) |
+| habituation | 있음(반복 검사 시 반응↓) | 없음 |
 
-#### 체위성 안진: 말초성 vs 중추성
-
-<table><thead><tr><th width="225.84210205078125">특징</th><th>말초성 질환</th><th>중추성 질환</th></tr></thead><tbody><tr><td>체위성 안진 발생 전 지체 시간</td><td>2~20초</td><td>없음</td></tr><tr><td>안진 방향</td><td>편측 방향, 주시에 따라 변할 수 있음</td><td>머리 방향에 따라 변화</td></tr><tr><td>안진 지속 시간</td><td>&#x3C;1분</td><td>>1분</td></tr><tr><td>안진 피로</td><td>반복 시험하면 안진이 줄어 듦</td><td>감소하지 않고 유지됨</td></tr><tr><td>어지럼 강도</td><td>심함</td><td>심하지 않음, 간혹 없음</td></tr></tbody></table>
-
-_Ref. Evaluation of the patient with vertigo. UpToDate. 2015._
+_<mark style="color:$info;">Ref. Treatment of vertigo AFP 2005;71(6). Table 2. / Evaluation of the patient with vertigo. UpToDate. (두 표 통합, 잠복기 수치 통일)</mark>_
 
 #### Vertigo 원인별 특징
 
-|                          | 시간 경과                | 임상 상태                    | 안진         | 신경 증상                     | 청각 증상                             | 기타                       |
-| ------------------------ | -------------------- | ------------------------ | ---------- | ------------------------- | --------------------------------- | ------------------------ |
-| **BPPV**                 | 반복; 짧음               | 특정 머리 움직임 or 자세로 증상 유발   | 말초성        | 없음                        | 없음                                | Dix-Hallpike maneuver 양성 |
-| **전정신경염**                | 일회성; 갑자기 시작; 수일      | 바이러스 감염(예: 감기)이 동반되거나 선행 | 말초성        | 병변측으로 넘어짐; 뇌간 증상 없음       | 극고주파수대 난청(>8 kHz) 또는 없음           | Head impulse test 비정상    |
-| **Meniere disease**      | 재발; 수 분\~수 시간        | 자발적 개시                   | 말초성        | 없음                        | 귀 먹먹함/통증 선행; 편측성 이명, 저주파 감각신경성 난청 |                          |
-| **Vestibular migraine**  | 재발; 수 분\~수 시간        | 편두통 병력                   | 중추성 or 말초성 | 편두통 증상                    | 보통 없음                             | 삽화 사이에서는 정상 검사 소견        |
-| **Vertebrobasilar TIA**  | 일회성 or 재발; 수 분\~수 시간 | 고령, 혈관 위험인자, 경추 외상       | 중추성        | 일시적 신경 장애(발음, 균형, 시각, 마비) | 보통 없음                             | 영상(MRI) 검사               |
-| **Brainstem infarction** | 갑자기 시작; 수일\~수 주      | 위와 동일                    | 중추성        | 다른 뇌간 증상                  | 보통 없음(전하부 소뇌동맥 증후군은 예외)           | 영상(MRI) 검사               |
-| **소뇌 경색 or 출혈**          | 갑자기 시작; 수일\~수 주      | 고령, 혈관 위험인자(고혈압)         | 중추성        | 보행 장애, 두통, 사지 마비, 연하 장애   | 없음                                | 응급 영상(MRI) 검사            |
+|  | 시간 경과 | 임상 상태 | 안진 | 신경 증상 | 청각 증상 | 기타 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **BPPV** | 반복; 짧음(＜1분) | 특정 머리 움직임 or 자세로 증상 유발 | 말초성 | 없음 | 없음 | Dix-Hallpike maneuver 양성 |
+| **AUV / 전정신경염** | 일회성; 갑자기 시작; 수일 | 바이러스 감염(예: 감기)이 동반되거나 선행 | 말초성 | 병변측으로 넘어짐; 뇌간 증상 없음 | 극고주파수대 난청(＞8 kHz) 또는 없음 | Head impulse test 비정상 |
+| **Meniere disease** | 재발; 수 분\~수 시간 | 자발적 개시 | 말초성 | 없음 | 귀 먹먹함/통증 선행; 편측성 이명, 저주파 감각신경성 난청 | |
+| **Vestibular migraine** | 재발; 수 분\~72시간 | 편두통 병력; **두통 없는 경우 약 30%** | 중추성 or 말초성 | 편두통 증상(두통, 빛/소리 과민) | 보통 없음 | 삽화 사이 정상; 시각 자극으로 유발 가능 |
+| **PPPD** | 지속(≥3개월); 비발작성 | 전정 질환·불안 선행; 직립·움직임·시각 자극으로 악화 | 보통 없음 | 없음 | 없음 | SSRI·CBT·전정재활 치료 |
+| **Vertebrobasilar TIA** | 일회성 or 재발; 수 분\~수 시간 | 고령, 혈관 위험인자, 경추 외상 | 중추성 | 일시적 신경 장애(발음, 균형, 시각, 마비) | 보통 없음 | 영상(MRI) 검사 |
+| **Brainstem infarction** | 갑자기 시작; 수일\~수 주 | 고령, 혈관 위험인자 | 중추성 | 다른 뇌간 증상 | 보통 없음(AICA 경색은 청력 소실 동반) | 영상(MRI) 검사 |
+| **소뇌 경색 or 출혈** | 갑자기 시작; 수일\~수 주 | 고령, 혈관 위험인자(고혈압) | 중추성 | 보행 장애, 두통, 사지 마비, 연하 장애 | 없음 | 응급 영상(MRI) 검사 |
 
-_<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDate. 2018.</mark>_
-
-_<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</mark>_
+_<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDate. 2018. / Rakel Family medicine 9th ed. 2016. eTable 18-4. (AUV 용어, VM·PPPD 업데이트)</mark>_
 
 ***
 
