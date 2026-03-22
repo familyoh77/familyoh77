@@ -48,7 +48,7 @@
 * 흉통, 심계항진, 호흡 곤란 동반
 * 구조적 심질환 또는 가족성 급사 병력
 * 전조 증상 없이(無前驅) 갑자기 의식 소실
-* ECG 이상 : QT 연장, pre-excitation, bundle branch block, 서맥(＜40회/분)
+* ECG 이상 : QTc 연장(＞500 ms) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block
 * 신경학적 이상(국소 마비, 구음 장애, 복시 등) → 뇌졸중·TIA 의심
 
 ## <mark style="color:green;">진단</mark>
@@ -110,15 +110,15 @@
 반사성 실신에 대한 약물 치료는 전반적으로 근거 수준이 낮으며, 비약물 치료가 우선이다. 재발성·중증 실신에서 개별 상황에 따라 선택적으로 고려한다.
 {% endhint %}
 
-* **α-agonist** : midodrine \[미드론] (☞ p.502); 기립성 유발 VVS에서 선호; 2021 RCT에서 예방 효과 확인 (낮은 근거 수준)
+* **α-agonist** : midodrine \[미드론] (☞ p.502); 기립성 유발 VVS에서 선호; 2021 무작위·이중맹검·위약대조 RCT(POST 4) 및 2022년 7개 RCT 메타분석에서 재발 감소 확인 (중등도\~고질 근거; NNT ≈ 5); VVS 약물 중 현재 가장 강한 근거
 * **mineralocorticoid** : fludrocortisone \[플로리네프] (☞ p.502); 수분/나트륨 저류 기전; 효과 입증 불충분
 * **β-blocker** : <mark style="color:$warning;">ESC 2018 가이드라인 : VVS에 β-blocker는 적응증 없음 (Class III, LOE A)</mark>; ACC/AHA 2017 : 40세 이상에서 제한적 고려 가능 (Class IIb); 소아·청소년에서는 유익성 없음 (Class III)
   * metoprolol \[베타록], atenolol \[테놀민] (☞ p.487)
-* **SSRI** : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2023\~2024 체계적 문헌고찰에서 재발 감소 효과 시사 (소규모, 추가 연구 필요)
-  * paroxetine \[세로자트] (☞ p.1146)
+* **SSRI** : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2022년 네트워크 메타분석(Heart Rhythm)에서 fluoxetine이 재발 감소 확인(RR 0.36); paroxetine은 동 분석에서 재발 증가 시사(RR 3.00)로 권고하지 않음
+  * fluoxetine \[푸록틴, 프로작] (☞ p.1146)
 
 {% hint style="info" %}
-※ α-agonist(midodrine), fludrocortisone 모두 효과에 대한 입증은 불충분함. β-blocker는 ESC 가이드라인에서 VVS에 대한 사용을 권고하지 않음.
+※ α-agonist(midodrine), fludrocortisone 모두 효과에 대한 입증은 불충분함. β-blocker는 ESC 가이드라인에서 VVS에 대한 사용을 권고하지 않음. SSRI 중 paroxetine은 재발 증가 가능성이 시사되어 사용하지 않음.
 {% endhint %}
 
 ## <mark style="color:green;">침습적 치료</mark>
@@ -166,7 +166,7 @@ R55.8 기타 실신 및 허탈
 > **처방례 2.** 혈관미주신경성 실신 — SSRI 병용 (재발성, 정신과적 동반 또는 반복 실신)
 >
 > ```
-> 세로자트 10 mg/T  1T  조식 후  (4주 후 재평가; 최소 6개월 유지 고려)
+> 푸록틴 20 mg/T  0.5T  조식 후  (2주 후 1T으로 증량 고려; 최소 6개월 유지 고려)
 > 미드론 2.5 mg/T  1T  tid  (기립성 유발 실신 동반 시)
 > ```
 
