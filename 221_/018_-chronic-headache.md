@@ -1,8 +1,14 @@
 # 만성 두통 Chronic Headache
 
-{% hint style="info" %}
-만성 두통은 ≥15일/월, ≥3개월 지속되는 두통으로 정의한다. 크게 1차성(원발성)과 2차성으로 나뉘며, 1차 진료에서는 위험 신호(Red flag)를 통해 2차성 두통을 조기에 감별하는 것이 핵심이다.
-{% endhint %}
+## <mark style="color:green;">일반 사항</mark>
+
+* 정의 : ≥15일/월, ≥3개월 지속되는 두통
+* 분류 : 1차성(원발성)과 2차성으로 나뉘며
+* 1차 진료에서는 위험 신호(Red flag)를 통해 2차성 두통을 조기에 감별하는 것이 중
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+☞ [두통 챕터 Red Flags 참조](015_-headache.md)
 
 ## <mark style="color:green;">1차성 두통</mark>
 
@@ -120,9 +126,7 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 
 ## <mark style="color:green;">임상 양상 및 진단</mark>
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-☞ [두통 챕터 Red Flags 참조](015_-headache.md)
+###
 
 {% hint style="danger" %}
 **위험 신호 (SNOOP4+)**

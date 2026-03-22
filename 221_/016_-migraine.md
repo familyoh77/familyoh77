@@ -10,6 +10,16 @@
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
 * 조짐(aura) : 편두통 환자의 20%에서 발생; 보통 5\~60분 지속 후 두통 발생; 운동 관련 조짐은 최대 72시간까지 지속 가능
 
+※  **기존편두통 환자라도 다음의 경우 2차 두통 감별이 필요**
+
+* 평소와 확연히 다른 두통 양상 또는 급격한 악화
+* 전조(aura)가 60분 이상 지속 → 뇌졸중·TIA 감별, 신경과 의뢰 고려
+* 운동 조짐(편마비 등)이 새로 발생하거나 이전보다 심해진 경우
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+☞ [두통 챕터 Red Flags 참조](015_-headache.md)
+
 ### <mark style="color:$primary;">분류 \[IHS classification ICHD-3]</mark>
 
 1. Migraine without aura
@@ -45,18 +55,6 @@
 * trigeminovascular hypothesis : 뇌간에서의 삼차신경 뉴런 과민 → 신경 전달 물질(substance P, CGRP) 분비 → 혈관 확장, 신경인성 염증
 
 ✽1차적인 혈관 문제는 원인으로 고려되지 않음
-
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-☞ [두통 챕터 Red Flags 참조](015_-headache.md)
-
-{% hint style="warning" %}
-편두통 기존 환자라도 다음의 경우 2차 두통 감별이 필요:
-
-* 평소와 확연히 다른 두통 양상 또는 급격한 악화
-* 전조(aura)가 60분 이상 지속 → 뇌졸중·TIA 감별, 신경과 의뢰 고려
-* 운동 조짐(편마비 등)이 새로 발생하거나 이전보다 심해진 경우
-{% endhint %}
 
 ### <mark style="color:$primary;">위험 인자</mark>&#x20;
 
@@ -215,7 +213,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * 부작용 : 흉부 압박감(triptan sensation - 심혈관 질환이 없어도 발생 가능하나, 심혈관 고위험군에서는 실제 혈관 수축 위험이 있으므로 구분 필요), 홍조, 더운 느낌, 쇠약, 어지럼, 감각 이상(예: 팔/다리 저림)
 * 주의/금기 : 뇌혈관/심혈관/말초혈관 질환, 조절되지 않는 고혈압, SSRI 병용(세로토닌 증후군 주의), ergotamine과 병용 금지
 
-<table><thead><tr><th width="189.6842041015625">성분명 [상품명]</th><th width="229.78948974609375">용법 [최대]</th><th>반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan [이미그란]</td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan</td><td>5~10 ㎎ q2h [30 ㎎/d]</td><td>2~3</td></tr><tr><td>zolmitriptan [조믹]</td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan [알모그란]</td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan [나라믹]</td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan [미가드]</td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
+<table><thead><tr><th width="202.3157958984375">성분명 [상품명]</th><th width="241.36846923828125">용법 [최대]</th><th width="108.52630615234375">반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan [이미그란]</td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan</td><td>5~10 ㎎ q2h [30 ㎎/d]</td><td>2~3</td></tr><tr><td>zolmitriptan [조믹]</td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan [알모그란]</td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan [나라믹]</td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan [미가드]</td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
 
 _¹⁾ 국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 200 ㎎/d_
 
@@ -260,7 +258,11 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 일률적인 사용은 하지 않음; 주로 응급실에서 주사로 투여
 * dexamethasone : 두통 재발 위험도를 유의미하게 줄인다는 보고가 있음 \[덱타손 주]
 
+***
+
 <figure><img src="../.gitbook/assets/4a893339-2626-473f-84b2-445786760a89.JPG" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## <mark style="color:green;">만성 편두통의 예방적 약물 치료</mark>
 
@@ -309,22 +311,19 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 #### 표적 치료제 (Anti-CGRP monoclonal antibody)
 
 * 기전 : CGRP 또는 CGRP 수용체에 결합하여 편두통 발생을 예방
-* 부작용이 적고 순응도가 높아, 기존 예방약 실패를 기다리지 않고 초기부터 사용 가능 (AHS 2024 입장문에서 1차 치료제로 격상)
-
-{% hint style="warning" %}
-**임상 권고 vs 국내 보험 급여 기준 차이**
-
-* 임상적 권고 : 만성 편두통 또는 삽화 편두통에서 1차 치료 옵션으로 고려 가능
-* 국내 급여 기준 : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정; 급여 외 사용 시 비급여(고가)
-{% endhint %}
-
-* 매달 또는 분기마다 피하 주사(eptinezumab은 IV)
-* 부작용 : 주사 부위 통증/발적, 상기도 감염, 변비
-* 주의/금기 : 약물 과민, 심혈관 질환, 조절되지 않는 고혈압, 임신
+* 만성 편두통 또는 삽화 편두통에서 1차 치료 옵션으로 고려
+  * 기존 경구 예방약제에 비해 부작용이 적고 순응도가 매우 높음
+  * 기존 예방약 실패 없이도 초기 선택 가능 (AHS 2024: 1st-line option으로 인정)
+* 매달 또는 분기마다 피하 주사 (eptinezumab은 IV)
+* 부작용 : 주사 부위 통증/발적, 상기도 감염; 변비(erenumab에서 더 빈번)
+* 금기 : 약물 과민, 임신
+* 주의 : 심혈관 질환, 조절되지 않는 고혈압(특히 Erenumab 사용 시 혈압 모니터링 필요)
 * fremanezumab \[아조비] : 225 ㎎/월 or 675 ㎎/분기
 * galcanezumab \[앰겔러티] : 120 ㎎/월 (초회 240 ㎎)
-* erenumab : 70\~140 ㎎/월
-* eptinezumab : 100\~300 ㎎/분기 (IV)
+* erenumab \[아이모빅] : 70\~140 ㎎/월 (수용체 결합형; 국내 급여 미등재)
+* eptinezumab : 100\~300 ㎎/분기 IV (국내 미허가)
+
+※ 국내 급여 기준 : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정; 급여 외 사용 시 비급여(고가)
 
 #### Botulinum toxin (onabotulinumtoxinA)
 

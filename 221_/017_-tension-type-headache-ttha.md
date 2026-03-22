@@ -7,7 +7,8 @@
   * 감정적 스트레스, 어깨/목 근 긴장과 관련
   * 동반 증상 : 두부/경부/어깨 근육 경직/압통, 피로, 과민, 집중력 저하
   * 성인 유병률 약 26%; 장애 부담(years lived with disability)은 15\~49세에서 최고. 연령 증가에 따라 episodic type은 감소, chronic type은 증가
-* 원발성 두통의 가장 흔한 형태
+* 원발성 두통의 가장 흔한 형태임.
+* 두통 일기(headache diary) : 진단 분류와 치료 반응 평가에 가장 유용한 도구. 초진 시 작성을 권고하고, 1개월 후 재평가에 활용
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -15,28 +16,19 @@
 
 ### <mark style="color:$primary;">분류 \[IHS classification ICHD-3]</mark>
 
-1.  Infrequent episodic TTHA
-
-    ① associated with pericranial tenderness
-
-    ② not associated with pericranial tenderness
-2.  Frequent episodic TTHA
-
-    ① associated with pericranial tenderness
-
-    ② not associated with pericranial tenderness
-3.  Chronic TTHA
-
-    ① associated with pericranial tenderness
-
-    ② not associated with pericranial tenderness
-4.  Probable TTHA
-
-    ① probable infrequent episodic tension type headache
-
-    ② probable frequent episodic tension type headache
-
-    ③ probable chronic tension type headache
+1. Infrequent episodic TTHA
+   1. associated with pericranial tenderness
+   2. not associated with pericranial tenderness
+2. Frequent episodic TTHA
+   1. associated with pericranial tenderness
+   2. not associated with pericranial tenderness
+3. Chronic TTHA
+   1. associated with pericranial tenderness
+   2. not associated with pericranial tenderness
+4. Probable TTHA
+   1. probable infrequent episodic tension type headache
+   2. probable frequent episodic tension type headache
+   3. probable chronic tension type headache
 
 ## <mark style="color:green;">원인</mark>
 
@@ -73,10 +65,6 @@
 * 약물 (항고혈압제, nitrate, SSRI 등) : 빈도 낮으나 간과하기 쉬움
 
 ## <mark style="color:green;">임상 양상 및 진단</mark>
-
-{% hint style="info" %}
-**두통 일기(headache diary)** 는 진단 분류와 치료 반응 평가에 가장 유용한 도구임. 초진 시 작성을 권고하고, 1개월 후 재평가에 활용
-{% endhint %}
 
 ### <mark style="color:$primary;">Episodic tension-type headache (삽화긴장형두통)</mark>
 
@@ -129,13 +117,10 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 
 ### <mark style="color:$primary;">두개주위 근육 촉진 (Pericranial Palpation)</mark>
 
-ICHD-3는 긴장형두통을 두개주위 근육 압통 유무에 따라 하위 분류함. 촉진은 진단의 객관성을 높이고 치료 전후 비교에 활용
-
-**검사 부위** : 전두근(Frontal), 측두근(Temporal), 교근(Masseter), 익돌근(Pterygoid), 흉쇄유돌근(SCM), 두판상근(Splenius), 승모근(Trapezius)
-
-**검사 방법** : 2nd, 3rd finger로 작은 원을 그리듯 회전하며 강하게 압박 (수기 촉진법 표준)
-
-**점수화** : 각 부위를 0\~3점으로 점수화(Local tenderness score)하여 기록 → 치료 전후 객관적 비교 가능
+* ICHD-3는 긴장형두통을 두개주위 근육 압통 유무에 따라 하위 분류함. 촉진은 진단의 객관성을 높이고 치료 전후 비교에 활용
+* 검사 부위 : 전두근(Frontal), 측두근(Temporal), 교근(Masseter), 익돌근(Pterygoid), 흉쇄유돌근(SCM), 두판상근(Splenius), 승모근(Trapezius)
+* 검사 방법 : 2nd, 3rd finger로 작은 원을 그리듯 회전하며 강하게 압박 (수기 촉진법 표준)
+* 점수화 : 각 부위를 0\~3점으로 점수화(Local tenderness score)하여 기록 → 치료 전후 객관적 비교 가능
 
 ### <mark style="color:$primary;">긴장형두통 vs 경추성두통 (CGH) 감별</mark>
 
@@ -158,9 +143,7 @@ ICHD-3는 긴장형두통을 두개주위 근육 압통 유무에 따라 하위 
 * 삽화형 : 급성기 진통제 투여 + 유발 인자 교정
 * 만성형 : 예방 약물(항우울제) + 비약물 치료 병행; 급성기 진통제 병용 가능
 
-{% hint style="warning" %}
-**약물과용두통 주의** : 진통제의 잦은 사용은 반발성 두통 또는 약물과용두통을 야기할 수 있음(특히 카페인 함유 복합제). 약물에 의한 두통 발생을 예방하기 위해 진통제 사용을 ≤2일/주로 제한할 것을 권고 (단순 NSAIDs/acetaminophen은 월 15일, 복합진통제는 월 10일 초과 시 약물과용두통 기준에 해당)
-{% endhint %}
+※ **약물과용두통 주의** : 진통제의 잦은 사용은 반발성 두통 또는 약물과용두통을 야기할 수 있음(특히 카페인 함유 복합제). 약물에 의한 두통 발생을 예방하기 위해 진통제 사용을 ≤2일/주로 제한할 것을 권고 (단순 NSAIDs/acetaminophen은 월 15일, 복합진통제는 월 10일 초과 시 약물과용두통 기준에 해당)
 
 ## <mark style="color:green;">비약물 치료</mark>
 
@@ -176,12 +159,10 @@ ICHD-3는 긴장형두통을 두개주위 근육 압통 유무에 따라 하위 
 
 ## <mark style="color:green;">약물 치료</mark>
 
-{% hint style="warning" %}
-**편두통 치료제는 순수 TTHA에 효과 없음**
+※ **편두통 치료제는 순수 TTHA에 효과 없음**
 
-* **CGRP 표적 치료제** (항CGRP 단클론항체, gepant 계열) : 편두통에는 승인되어 있으나 순수 긴장형두통에는 효과 미입증; 무분별한 처방 주의
-* **Triptan** : 트립탄에 반응하는 두통은 긴장형두통이 아니라 편두통 요소가 혼재되어 있을 가능성이 매우 높음 → 편두통 재평가 필요
-{% endhint %}
+* CGRP 표적 치료제(항CGRP 단클론항체, gepant 계열) : 편두통에는 승인되어 있으나 순수 긴장형두통에는 효과 미입증; 무분별한 처방 주의
+* Triptan : 트립탄에 반응하는 두통은 긴장형두통이 아니라 편두통 요소가 혼재되어 있을 가능성이 매우 높음 → 편두통 재평가 필요
 
 ### <mark style="color:$primary;">1차 선택 - 급성기 진통제</mark>
 
@@ -212,9 +193,7 @@ ICHD-3는 긴장형두통을 두개주위 근육 압통 유무에 따라 하위 
 
 ### <mark style="color:$primary;">예방 치료 - 만성긴장형두통</mark>
 
-{% hint style="info" %}
-예방 치료는 월 발생 ≥8일 또는 일상생활 장애가 큰 경우에 고려. 최소 2\~3개월 투여 후 효과 평가
-{% endhint %}
+※ 예방 치료는 월 발생 ≥8일 또는 일상생활 장애가 큰 경우에 고려. 최소 2\~3개월 투여 후 효과 평가
 
 #### 1차 - 항우울제 (근거 수준 가장 높음)
 
