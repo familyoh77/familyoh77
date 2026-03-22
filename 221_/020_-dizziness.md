@@ -1,42 +1,28 @@
 # 어지럼증 Dizziness
 
-![image](../.gitbook/assets/db1ae80f-f894-425c-a1e8-a852a02559b3.JPG)
-
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
 * 움직임이 없음에도 움직인다고 느끼거나 실제보다 더 많이 움직이는 느낌, 불균형, 불안정성
 * 경고 증상이 있거나 중추성 원인이 의심되는 경우 이송 등 신속한 조치를 요함
-* 어지럼의 여러 형태가 혼재되어 있고 표현의 불확실성 때문에 증상으로 원인을 감별하기 어려움;
-
-증상의 유형보다 증상의 발생 시점, trigger 등에 주목하는 것이 필요
+* 어지럼의 여러 형태가 혼재되어 있고 표현의 불확실성 때문에 증상으로 원인을 감별하기 어려움; 증상의 유형보다 증상의 발생 시점, trigger 등에 주목하는 것이 필요
 
 #### (true) Vertigo
 
-* 증상 : 회전감(“방이 돈다”), 움직이는 느낌(false sense)![image](../.gitbook/assets/27bf8ad7-6315-4c50-b394-d9b34ac336d1.JPG)
-*   원인
-
-    • 말초성 : 대부분 차지; BPPV, 전정신경염, 미로염, Ménière Dz
-
-    • 중추성 : 소뇌종양, CVD, 편두통
+* 증상 : 회전감(“방이 돈다”), 움직이는 느낌(false sense)
+* 원인
+  * 말초성 : 대부분 차지; BPPV, 전정신경염, 미로염, Ménière Dz
+  * 중추성 : 소뇌종양, CVD, 편두통
 
 #### Disequilibrium
 
 * 증상 : 불안정성, 불균형, 흔들리는 느낌
-*   원인 : 파킨슨병, 말초신경병증, 진정제, 전정 신경 질환,
-
-    소뇌 장애, 시각 장애, 경추 강직, (보행 장애 관련) 근골격 질환
+* 원인 : 파킨슨병, 말초신경병증, 진정제, 전정 신경 질환, 소뇌 장애, 시각 장애, 경추 강직, (보행 장애 관련) 근골격 질환
 
 #### Pre-syncope
 
-*   증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역,
-
-    흐릿한 시각 (☞ p.103)
-
-    • 보통 서 있거나 똑바로 앉아 있을 때 발생 (✽누워 있을 때
-
-    발생하면 cardiac arrhythmia를 의심)
-
-    • 지속 시간 : 수 초\~ 수분
+* 증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역, 흐릿한 시각 (☞ p.103)
+  * 보통 서 있거나 똑바로 앉아 있을 때 발생 (✽누워 있을 때 발생하면 cardiac arrhythmia를 의심)
+  * 지속 시간 : 수 초\~ 수분
 * 원인 : 기립성 저혈압 및 유발 약물, 부정맥, 심근경색, 관상동맥병
 
 #### Lightheadedness
@@ -46,48 +32,38 @@
 
 #### Non-specific dizziness
 
-*   원인 : 정신적 문제(스트레스, 우울), 과호흡, 두부 외상, 약물(항콜린제, 항우울제), 대사 장애(저혈당),
+* 원인 : 정신적 문제(스트레스, 우울), 과호흡, 두부 외상, 약물(항콜린제, 항우울제), 대사 장애(저혈당), 특정 어지럼증의 가벼운 형태
 
-    특정 어지럼증의 가벼운 형태
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-## 원인
+* 청력 손실, 진성 현훈, 중추성 안진
+* 외상 후 발생
+* 행동 장애, 심한 자세 불안(부축 없이 걸을 수 없음), 실신, 허탈
+* 신경학적 이상 : 시각 이상, 구음 장애, 팔/다리 약화, 감각 저하, tingling
+* 흉통, 이전에 경험하지 못한 심한 두통, 과거 뇌졸중 병력
+* 48시간 후에도 호전되지 않음
+* 원인 미상의 발열(＞38℃
+
+## <mark style="color:green;">원인</mark>
 
 * Central : 10% 차지, 고령에서는 20% 차지; 편두통, 소뇌 종양, 뇌졸중, vestibular ischemia
-*   Peripheral : BPPV, 전정신경염, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공,
+* Peripheral : BPPV, 전정신경염, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
+* 기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
+* 고령 : 불안/우울 특성, 균형 감각 손상, 심근경색/뇌졸중 과거력, 청력 장애, 기립성 저혈압, 다제약물(✽≥5가지 약물 복용 환자의 ⅔에서 어지럼증 발생)
+* ※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%,
 
-    superior canal dehiscence syndrome, 멀미, 중이염
-*   기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
+## <mark style="color:green;">말초성 질환</mark>
 
-    • 고령 : 불안/우울 특성, 균형 감각 손상, 심근경색/뇌졸중 과거력, 청력 장애, 기립성 저혈압, 다제약물
-
-> ```
-> (✽≥5가지 약물 복용 환자의 ⅔에서 어지럼증 발생)
-> ```
-
-※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural
-
-```
-perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%,
-
-vestibular neuritis 5.4%였으며 19~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음.
-
-J Neurol 2020 Aug;267(8):2252-2259.
-```
-
-## 말초성 질환
-
-### 양성발작성체위성어지럼증 (Benign paroxysmal positional vertigo, BPPV)
+### <mark style="color:$primary;">양성발작성체위성어지럼증 (Benign paroxysmal positional vertigo, BPPV)</mark>
 
 * 다른 이름 : 이석증, 돌발성체위성현훈증
 * vertigo의 가장 흔한 원인
 * 말초성 vertigo
 * 50\~70대, 여성(2배)
-*   기전 : calcite particle(otoconia)이 떨어져 나와 세반고리관 내에 부유. 머리를 움직이면 otoconia가 움직이게 되고,
-
-    다시 놓여 질 때까지 motion sense를 일으킴
+* 기전 : calcite particle(otoconia)이 떨어져 나와 세반고리관 내에 부유. 머리를 움직이면 otoconia가 움직이게 되고, 다시 놓여 질 때까지 motion sense를 일으킴
 * 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
 * 위험 인자 : 두부 외상, 내이 허혈, 전정신경염, 귀 수술, 우울, 움직이지 않는 생활
-* 발생 부위 : post. canal 60~~90%, lat.(horizontal) canal 10~~30%; ant.(sup.) canal rare; \[우리나라] lat canal 이환이 많음(30%)
+* 발생 부위 : post. canal 60\~90%, lat.(horizontal) canal 10\~30%; ant.(sup.) canal rare; \[우리나라] lat canal 이환이 많음(30%)
 
 #### 임상 양상
 
@@ -97,7 +73,7 @@ J Neurol 2020 Aug;267(8):2252-2259.
 * 안진 : 말초성
 * 검사 : Dix-Hallpike test(post canal), Supine roll test(lat canal)
 
-### 전정신경염 (Vestibular neuritis)
+### <mark style="color:$primary;">전정신경염 (Vestibular neuritis)</mark>
 
 * vertigo의 두 번째 흔한 원인
 * 30\~50세 호발
@@ -105,17 +81,15 @@ J Neurol 2020 Aug;267(8):2252-2259.
 
 #### 임상 양상
 
-*   경과 : 수 시간에 걸쳐 아급성으로 진행 → 1~~2일째 가장 심함 → 수일~~1주 동안 점차 완화
-
-    • 불안정성은 수개월 동안 지속될 수 있음; 발병 후 15%에서 BPPV가 발생할 수 있음
-*   동반 증상 : 구역/구토(처음 수일 동안 심함)
-
-    • 청력 이상은 보통 없음
+* 경과 : 수 시간에 걸쳐 아급성으로 진행 → 1\~2일째 가장 심함 → 수일\~1주 동안 점차 완화
+  * 불안정성은 수개월 동안 지속될 수 있음; 발병 후 15%에서 BPPV가 발생할 수 있음
+* 동반 증상 : 구역/구토(처음 수일 동안 심함)
+  * 청력 이상은 보통 없음
 * 안진 : 급성기에 말초성 안진. horizontally rotating spontaneous nystagmus
 * 신경학적 이상 : 걷기 힘듦. 이환된 쪽으로 방향이 틀어지거나 넘어짐
 * 검사 : Head impulse test 이상
 
-### 메니에르병 (Ménière Dz)
+### <mark style="color:$primary;">메니에르병 (Ménière Dz)</mark>
 
 * 기전 : 내이 endolymphatic fluid의 증가
 * 원인 : 불명, 알레르기, 감염, 자가면역 손상
@@ -124,92 +98,85 @@ J Neurol 2020 Aug;267(8):2252-2259.
 
 * 3주징 : 어지럼, (환측) 이명, 난청(감각 신경성); 종종 침상 안정이 필요할 만큼 중증
 * 경과 : 수 분\~수 시간 지속, 반복 발생
-*   동반 증상 : 귀의 충만감과 통증, 구역, 구토, 두통 악화
-
-    • 신경학적 이상은 없음
+* 동반 증상 : 귀의 충만감과 통증, 구역, 구토, 두통 악화
+  * 신경학적 이상은 없음
 * 안진 : 말초성. unidirectional, horizontal-torsional
 
-### 미로염 (내이염, Labyrinthitis)
+### <mark style="color:$primary;">미로염 (내이염, Labyrinthitis)</mark>
 
-*   원인 : 감염(바이러스, 세균), 염증, 혈행 장애(경색), 자가면역 질환, 이독성 약물(예: aspirin, aminoglycoside, loop diuretics,
-
-    cisplatin)
-*   위험 인자 : 상기도 감염, 중이염, 두부 외상, 알레르기 병력, 뇌막염, 뇌혈관 질환, 기저 자가면역질환, herpes zoster 감염,
-
-    음주, 알코올 남용, 흡연
+* 원인 : 감염(바이러스, 세균), 염증, 혈행 장애(경색), 자가면역 질환, 이독성 약물(예: aspirin, aminoglycoside, loop diuretics, cisplatin)
+* 위험 인자 : 상기도 감염, 중이염, 두부 외상, 알레르기 병력, 뇌막염, 뇌혈관 질환, 기저 자가면역질환, herpes zoster 감염, 음주, 알코올 남용, 흡연
 
 #### 임상 양상
 
 * 심한 정도의 움직이는 느낌, 방이 도는 느낌
 * 경과 : 돌발적 → 보통 수 시간\~수일 지속
 * 동반 증상 : 구역, 구토; 원인에 따른 증상 발생(예: 뇌막염 시 두통, 중이염 시 귀의 통증)
-* 청력 이상 : 편측 돌발성 난청　•신경학적 이상은 없음(뇌막염 제외)
+* 청력 이상 : 편측 돌발성 난청　
+  * 신경학적 이상은 없음(뇌막염 제외)
 * 안진 : spontaneous, fine horizontal nystagmus. horizon-torsion 병합도 가능
 
-### 외림프누공 (Perilymphatic fistula)
+### <mark style="color:$primary;">외림프누공 (Perilymphatic fistula)</mark>
 
 * 기전 : 두개 내 또는 압력 변화로 인하여 외림프액이 내이로부터 중이로 갑자기 이동하면서 발생
 * 원인 : 머리/목 외상(가장 흔함), 스쿠버 다이빙, 곡예 비행, 역도, 출산, 심한 코 풀기 또는 재채기, 만성 귀 질환
 * 증상 : 갑자기 발생하는 난청, 현훈, 이명
 
-### 기타
+### <mark style="color:$primary;">기타</mark>
 
 * Cholesteatoma : keratin debris가 들어 있는 낭종성 병변; 대부분 중이와 mastoid 이환
 * Herpes zoster oticus (Ramsay Hunt syndrome) : 귀의 vesicular eruption
 * Otosclerosis : 중이의 비정상적으로 성장한 뼈; 난청, 이명, 어지럼 유발
 * 말초신경병증 : disequilibrium; 하지(특히 발) 감각 저하
 
-## 중추성 질환
+## <mark style="color:green;">중추성 질환</mark>
 
-### 편두통성 어지럼증 (Migrainous vertigo)
+### <mark style="color:$primary;">편두통성 어지럼증 (Migrainous vertigo)</mark>
 
 * 편두통과 관련하여 발생하는 일회적 어지럼증; 두통 없이도 발생할 수 있음
 * 편두통과 마찬가지로 카페인, 알코올 등에 의해 유발
-* 증상 : 두부 압박감, 시각/청각 과민　•청력 소실 또는 이명은 없음
+* 증상 : 두부 압박감, 시각/청각 과민　
+  * 청력 소실 또는 이명은 없음
 * 5분\~72시간 동안 지속되는 전정기관 증상이 5회 이상 및 편두통 병력이 있는 경우 고려
 * 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민 •청력 소실 또는 이명은 없음
 * 치료 : 편두통 치료 (☞ p.76)
 
-### 기타
+### <mark style="color:$primary;">기타</mark>
 
 * Cerebellopontine angle tumor : vestibular schwannoma(예: acoustic neuroma) 등에 의함
 * Cerebrovascular disease : TIA, 뇌졸중
 * Multiple sclerosis : white matter의 demyelinization
 * 파킨슨병 : disequilibrium; resting tremor, rigidity, bradykinesia
 
-## 기타 질환
+## <mark style="color:green;">기타 질환</mark>
 
-### 멀미 (Motion sickness)
+### <mark style="color:$primary;">멀미 (Motion sickness)</mark>
 
 * 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ p.112)
 * 원인 : 불명
-*   기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적
-
-    반응으로 추정
+* 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적 반응으로 추정
 * 회전, 상하, 낮은 주파수 움직임에서 흔히 발생; 직선, 수평, 높은 주파수 움직임에서는 적게 발생
 * 동반 증상 : epigastric fullness, 트림, 구역, 구토, 발한, 창백, 침 분비 증가, 하품, 과호흡
 * 신경학적 이상, 청력 이상 : 없음
 
-### 기타
+### <mark style="color:$primary;">기타</mark>
 
 * Cervical vertigo : 경추의 외상(특히 과신전)이나 퇴행성 변화 관련; 목의 움직임에 의해 유발
-*   약물 유발성 : : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제,
-
-    근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
+* 약물 유발성 : : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
 * Psychological : 기분, 불안, 신체화 증상
 * 기립성 저혈압 : presyncope; 맥박 증가 (☞ p.500)
 * 과호흡 : lightheadness; 불안, 맥박 증가; 치료- 호흡 조절, β-차단제, 항불안제
 
-## 진단
+## <mark style="color:green;">진단</mark>
 
 * 혈압 : 누운 자세 및 기립 자세를 포함하여 측정
-*   신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진; electronystagmography, vestibular-evoked myogenic
-
-    potentials
+* 신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진; electronystagmography, vestibular-evoked myogenic potentials
 * 수기 검사 : Dix-Hallpike test, Supine roll test, Test of skew
 * 영상 검사 : 보통 도움이 되지 않음; 진단이 불확실하거나 신경학적 이상 시 CT/MRI 고려
 * 실험실 검사 : 일률적인 실험실 검사는 필요 없음; 당뇨 환자에서 혈당 등 검사 고려
 * 심장 질환 의심 시 ECG, Holter monitoring, carotid Doppler test 등 고려
+
+Dix-Hallpike test
 
 #### [Dix-Hallpike test](http://n.neurology.org/content/suppl/2008/06/09/70.22.2067.DC2)
 
