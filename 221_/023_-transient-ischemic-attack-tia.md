@@ -5,7 +5,7 @@
 * 급성 경색증 없이 뇌/망막/척수의 국소 허혈에 의해 수 분\~24시간 지속되는 일시적 신경 기능 이상
 * 뇌졸중의 전조 증상일 수 있음
   * 뇌졸중 환자의 7\~40%에서 TIA의 과거력이 있음
-  * TIA 환자의 4\~~~10%에서 48시간 내, 10\~~~20%에서 3개월 내 CVA 발생
+  * TIA 환자의 4\~10%에서 48시간 내, 10\~20%에서 3개월 내 CVA 발생
 * 증상 발생 후 가능한 한 빨리(12시간 내) 진료
 * 발생 24시간 내 평가를 권고
 
@@ -13,7 +13,7 @@
 
 * 경동맥 또는 척추 동맥의 죽상경화증
 * lacunar infarct, 심근경색, 색전증, 동맥염
-* 응고 항진 : protein S/C 결핍, antithrombin Ⅲ 존재, 경구 피임제, 임신, 출산
+* 응고 항진 : protein S/C 결핍, antithrombin Ⅲ 결핍, 경구 피임제, 임신, 출산
 
 ### <mark style="color:$primary;">위험 인자</mark>
 
@@ -34,16 +34,23 @@
 * 실험실 검사 : CBC, 전해질, Cr, 혈당, 지질
 * 영상 검사 : CT, MRI, MRA, 경동맥검사; 증상 발생 48시간 내 시행
 
-ABCD2 score
+**ABCD² score**
 
-<table><thead><tr><th width="176.4736328125">항목</th><th width="320.4210205078125">조건</th><th width="83.333984375" align="center">배점</th></tr></thead><tbody><tr><td>Age</td><td>≥60세</td><td align="center">1</td></tr><tr><td>BP</td><td>SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg</td><td align="center">1</td></tr><tr><td>Clinical features</td><td>편측 국소 약화 증상</td><td align="center">2</td></tr><tr><td></td><td>약화 증상 없는 발음 장애</td><td align="center">1</td></tr><tr><td>Duration</td><td>≥60분</td><td align="center">2</td></tr><tr><td></td><td>10~59분</td><td align="center">1</td></tr><tr><td>Diabetes</td><td>있음</td><td align="center">1</td></tr></tbody></table>
+| 항목 | 조건 | 배점 |
+|---|---|:---:|
+| Age | ≥60세 | 1 |
+| BP | SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg | 1 |
+| Clinical features | 편측 국소 약화 증상 | 2 |
+| | 약화 증상 없는 발음 장애 | 1 |
+| Duration | ≥60분 | 2 |
+| | 10\~59분 | 1 |
+| Diabetes | 있음 | 1 |
 
-▶ 의의 : TIA 후 48시간 내의 뇌졸중 발생 위험도 추정
+▶ 의의 : TIA 후 48시간 내의 뇌졸중 발생 위험도 추정; DAPT 적용 기준(≥4점)으로도 활용
 
 ▶ 판정 : 0\~1점 = 0%, 2\~3점 = 1.3%, 4\~5점 = 4.1%, 6\~7점 = 8.1%
 
-_<mark style="color:$info;">Ref. Multicenter external validation of the ABCD score in triaging TIA patients.</mark>_\
-_<mark style="color:$info;">Neurology 2010;74(17)</mark>_
+_<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² score in triaging TIA patients. Neurology 2010;74(17)</mark>_
 
 ### <mark style="color:$primary;">감별</mark>
 
@@ -57,7 +64,7 @@ _<mark style="color:$info;">Neurology 2010;74(17)</mark>_
 * SAH : 갑자기 발생, 광선 공포증을 동반한 심한 두통
 * 현훈 : 어지럼(±난청), 발한
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:green;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
@@ -75,28 +82,52 @@ _<mark style="color:$info;">Neurology 2010;74(17)</mark>_
 
 ## <mark style="color:green;">약물 치료</mark>
 
-#### Antiplatelet therapy
+### <mark style="color:$primary;">Antiplatelet therapy</mark>
 
 * atherothrombotic TIA에 적용 (☞ p.1154, 보험기준 p.1187)
-* 서방형 dipyridamole/aspirin : 200/25 ㎎ bid; 단독 요법보다 효과/부작용 많음 \[디피아녹스]
-* aspirin : 50\~~~325 ㎎/d, 급성기 160\~~~325 ㎎/d \[아스피린 장용정]
-* clopidogrel : 75 ㎎/d; aspirin 알레르기가 있는 환자에서 선택 \[플라빅스]
-* clopidogrel/aspirin : 단독 요법보다 유효. 장기 사용 시 출혈 위험 증가 \[클라빅신 듀오]
-* ticlopidine : 다른 약제를 사용할 수 없는 환자에서 고려 \[티클로돈]
+* 뇌출혈 배제 후 즉시(24시간 이내, 이상적으로 12시간 이내) 시작
 
-#### Anticoagulation therapy
+#### 단기 이중 항혈소판 요법 (DAPT) — 고위험 TIA에 우선 적용
 
-* cardioembolic TIA에 적용 (보험기준 ☞ p.1187)
-* apixaban : 2.5\~5 ㎎ bid \[엘리퀴스]
-* rivaroxaban : 10\~20 ㎎ qd \[자렐토]
-* edoxaban : 30\~60 ㎎ qd \[릭시아나]
-* dabigatran : 150 ㎎ bid \[프라닥사]
-* warfarin : INR에 따라 용량 조절 \[와파린]
+{% hint style="info" %}
+**고위험 TIA (ABCD² ≥4점) 또는 경미한 비심인성 뇌졸중** : clopidogrel + aspirin DAPT를 **21일간** 시행 후 단독 요법으로 전환 (Class I, LOE A — AHA/ASA 2021, CHANCE/POINT/INSPIRES 근거)
 
-#### Statin
+* 21일 초과 장기 DAPT는 출혈 위험 증가로 권고하지 않음 (lacunar stroke에서는 금기)
+* clopidogrel 저항성(CYP2C19 기능 손실 대립유전자) 의심 시 ticagrelor + aspirin 고려
+* DAPT 시작 가능 시간 창 : 증상 발생 후 72시간 이내까지 효과 있음 (INSPIRES 2023)
+{% endhint %}
 
-* 기존에 복용 중이던 환자에서는 투여 유지
-* 급성 stroke에서 신규로 즉시 투여 개시를 하지는 않음
+* **clopidogrel + aspirin** \[클라빅신 듀오, 또는 플라빅스 + 아스피린 별도 처방]
+  * clopidogrel 부하 300 ㎎ → 75 ㎎/d + aspirin 100 ㎎/d × 21일 → 이후 단독 요법
+* **ticagrelor + aspirin** : clopidogrel 저항성 환자에서 고려 \[브릴린타 + 아스피린]
+
+#### 장기 단독 항혈소판 요법 — DAPT 21일 완료 후 또는 저위험 TIA
+
+* **aspirin** : 100 ㎎/d (장기 유지) \[아스피린 장용정]
+* **clopidogrel** : 75 ㎎/d; aspirin 불내성/알레르기 시 \[플라빅스]
+* **서방형 dipyridamole/aspirin** : 200/25 ㎎ bid; aspirin 또는 clopidogrel의 대안 \[디피아녹스]
+* **ticlopidine** : 다른 약제를 사용할 수 없는 환자에서 고려 \[티클로돈]
+
+### <mark style="color:$primary;">Anticoagulation therapy</mark>
+
+* cardioembolic TIA(심방세동 등)에 적용 (보험기준 ☞ p.1187)
+* NOAC이 warfarin보다 우선 권고
+
+| 약물 | 용량 | 상품명 |
+|---|---|---|
+| apixaban | 2.5\~5 ㎎ bid | 엘리퀴스 |
+| rivaroxaban | 15\~20 ㎎ qd (저녁 식사와 함께) | 자렐토 |
+| edoxaban | 30\~60 ㎎ qd | 릭시아나 |
+| dabigatran | 110\~150 ㎎ bid | 프라닥사 |
+| warfarin | INR 목표 2.0\~3.0에 따라 용량 조절 | 와파린 |
+
+### <mark style="color:$primary;">Statin</mark>
+
+* TIA 진단 즉시 **고강도 statin** 시작 권고 (Class I — AHA/ACC 2018 cholesterol guideline; TIA는 임상적 ASCVD에 해당)
+* 목표 : LDL-C ≥50% 감소 또는 LDL-C ＜70 ㎎/dL
+* 고강도 : atorvastatin 40\~80 ㎎/d \[리피토], rosuvastatin 20\~40 ㎎/d \[크레스토]
+* 고강도 불내성 시 : 중강도 statin으로 대체 (LDL-C 30\~49% 감소 목표)
+* <mark style="color:$info;">※ 이전 기재 "급성 stroke에서 신규 즉시 투여 개시를 하지는 않음"은 오류 — 삭제</mark>
 
 ***
 
@@ -112,3 +143,52 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 
 ## <mark style="color:orange;">처방례</mark>
 
+> **처방례 1.** 고위험 TIA (ABCD² ≥4점) — 급성기 DAPT (비심인성, 뇌출혈 배제 후)
+>
+> ```
+> 플라빅스 75 mg/T  4T(300 mg)  stat  첫날 부하용량
+> 플라빅스 75 mg/T  1T  qd  (2일째부터 21일까지)
+> 아스피린 장용정 100 mg/T  1T  qd  (1일째부터 21일까지, 식후)
+> ※ 21일 후 단독 요법(아스피린 또는 클로피도그렐)으로 전환, 장기 유지
+> ※ 뇌출혈 배제 후 12시간 이내 시작 권고
+> ```
+
+> **처방례 2.** 저위험 TIA (ABCD² ＜4점) 또는 DAPT 21일 완료 후 — 장기 단독 요법
+>
+> ```
+> 아스피린 장용정 100 mg/T  1T  qd  (장기 유지; 아침 식후)
+> 리피토 40 mg/T  1T  qd  (저녁; 고강도 statin; LDL-C 목표 ＜70 mg/dL)
+> ```
+
+> **처방례 3.** 심인성 TIA (심방세동 등) — 항응고 요법
+>
+> ```
+> 엘리퀴스 5 mg/T  1T  bid  (신기능·체중·연령 기준으로 2.5 mg bid로 감량 고려)
+> 리피토 40 mg/T  1T  qd  (저녁; 고강도 statin)
+> ※ 항혈소판제와 병용하지 않음 (출혈 위험); 신기능 정기 모니터링
+> ```
+
+***
+
+### <mark style="color:purple;">핵심 복약 지도</mark>
+
+> **항혈소판제 복용 시 주의사항**
+>
+> * 아스피린, 클로피도그렐은 혈액이 굳는 것을 억제하여 뇌졸중 재발을 예방합니다. 의사의 지시 없이 임의로 중단하지 마십시오.
+> * **출혈 주의** : 코피가 자주 나거나, 잇몸에서 피가 나거나, 대변이 검거나 혈변이 보이면 즉시 내원하십시오.
+> * 수술·발치·시술 전에 반드시 복용 사실을 담당 의사에게 알리십시오.
+> * 클로피도그렐+아스피린 병용은 21일만 유지하고, 이후에는 한 가지만 복용합니다.
+
+> **스타틴 복약 안내**
+>
+> * 뇌혈관 보호 목적으로 처방된 약입니다. 증상이 없더라도 매일 꾸준히 복용하십시오.
+> * 근육통이나 근육 약화가 생기면 즉시 의사에게 알리십시오 (드물지만 근육 손상 가능).
+> * 저녁에 복용하는 것이 효과적입니다.
+
+> **재발 징후 — 즉시 응급실로**
+>
+> * 갑자기 한쪽 팔·다리에 힘이 빠지거나 마비되는 경우
+> * 갑자기 말이 어눌해지거나 상대방 말을 이해하지 못하는 경우
+> * 갑자기 한쪽 눈이 안 보이거나 시야가 흐려지는 경우
+> * 갑자기 심한 두통이 발생하는 경우
+> * 증상이 일시적으로 회복되어도 반드시 병원을 방문하십시오.
