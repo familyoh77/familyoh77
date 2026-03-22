@@ -79,41 +79,53 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * atherothrombotic TIA에 적용 (☞ p.1154, 보험기준 p.1187)
 * 뇌출혈 배제 후 즉시(24시간 이내, 이상적으로 12시간 이내) 시작
 
-#### 단기 이중 항혈소판 요법 (DAPT) — 고위험 TIA에 우선 적용
+#### 단기 이중 항혈소판 요법 (DAPT)
 
-{% hint style="info" %}
-**고위험 TIA (ABCD² ≥4점) 또는 경미한 비심인성 뇌졸중** : clopidogrel + aspirin DAPT를 **21일간** 시행 후 단독 요법으로 전환 (Class I, LOE A — AHA/ASA 2021, CHANCE/POINT/INSPIRES 근거)
+* 고위험 TIA에 우선 적용
 
-* 21일 초과 장기 DAPT는 출혈 위험 증가로 권고하지 않음 (lacunar stroke에서는 금기)
-* clopidogrel 저항성(CYP2C19 기능 손실 대립유전자) 의심 시 ticagrelor + aspirin 고려
-* DAPT 시작 가능 시간 창 : 증상 발생 후 72시간 이내까지 효과 있음 (INSPIRES 2023)
-{% endhint %}
+**Clopidogrel + Aspirin**&#x20;
 
-* **clopidogrel + aspirin** \[클라빅신 듀오, 또는 플라빅스 + 아스피린 별도 처방]
-  * clopidogrel 부하 300 ㎎ → 75 ㎎/d + aspirin 100 ㎎/d × 21일 → 이후 단독 요법
-* **ticagrelor + aspirin** : clopidogrel 저항성 환자에서 고려 \[브릴린타 + 아스피린]
+1. clopidogrel 부하 300 mg&#x20;
+2. → clopidogrel 75 mg/일 + Aspirin 100 mg/일 × 21일 \[클라빅신 듀오, 또는 플라빅스 + 아스피린]
+3. → 이후 단독 요법으로 전환
 
-#### 장기 단독 항혈소판 요법 — DAPT 21일 완료 후 또는 저위험 TIA
+※ 고위험 TIA (ABCD² ≥ 4점) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여(clopidogrel 선호-재발 예방에 aspirin 보다 우월)
 
-* **aspirin** : 100 ㎎/d (장기 유지) \[아스피린 장용정]
-* **clopidogrel** : 75 ㎎/d; aspirin 불내성/알레르기 시 \[플라빅스]
-* **서방형 dipyridamole/aspirin** : 200/25 ㎎ bid; aspirin 또는 clopidogrel의 대안 \[디피아녹스]
-* **ticlopidine** : 다른 약제를 사용할 수 없는 환자에서 고려 \[티클로돈]
+※ 주의
+
+* Lacunar stroke에서는 금기
+* 21일 초과 DAPT는 출혈 위험 증가로 권고하지 않음
+* clopidogrel 저항성 의심 시 → ticagrelor + aspirin 으로 대체 고려
+* 시작 가능 시간 창 : 증상 발생 후 72시간 이내
+
+**Ticagrelor + Aspirin**&#x20;
+
+* Clopidogrel 저항성 환자에서 고려 \[브릴린타 + 아스피린]
+
+#### 장기 단독 항혈소판 요법&#x20;
+
+* &#x20;DAPT 21일 완료 후 또는 저위험 TIA
+* aspirin : 100 ㎎/d (장기 유지) \[아스피린 장용정]
+* clopidogrel : 75 ㎎/d; aspirin 불내성/알레르기 시 \[플라빅스]
+* 서방형 dipyridamole/aspirin : 200/25 ㎎ bid; aspirin 또는 clopidogrel의 대안 \[디피아녹스]
+* ticlopidine : 다른 약제를 사용할 수 없는 환자에서 고려 \[티클로돈]
 
 ### <mark style="color:$primary;">Anticoagulation therapy</mark>
 
 * cardioembolic TIA(심방세동 등)에 적용 (보험기준 ☞ p.1187)
 * NOAC이 warfarin보다 우선 권고
-
-<table><thead><tr><th width="150.15789794921875">약물</th><th width="291.31573486328125">용량</th><th>상품명</th></tr></thead><tbody><tr><td>apixaban</td><td>2.5~5 ㎎ bid</td><td>엘리퀴스</td></tr><tr><td>rivaroxaban</td><td>15~20 ㎎ qd (저녁 식사와 함께)</td><td>자렐토</td></tr><tr><td>edoxaban</td><td>30~60 ㎎ qd</td><td>릭시아나</td></tr><tr><td>dabigatran</td><td>110~150 ㎎ bid</td><td>프라닥사</td></tr><tr><td>warfarin</td><td>INR 목표 2.0~3.0에 따라 용량 조절</td><td>와파린</td></tr></tbody></table>
+* apixaban : 2.5\~5 ㎎ bid \[엘리퀴스]
+* rivaroxaban : 15\~20 ㎎ qd (저녁 식사와 함께) \[자렐토]&#x20;
+* edoxaban : 30\~60 ㎎ qd \[릭시아나]&#x20;
+* dabigatran : 110\~150 ㎎ bid \[프라닥사]&#x20;
+* warfarin : INR 목표 2.0\~3.0에 따라 용량 조절 \[와파린]&#x20;
 
 ### <mark style="color:$primary;">Statin</mark>
 
-* TIA 진단 즉시 **고강도 statin** 시작 권고 (Class I — AHA/ACC 2018 cholesterol guideline; TIA는 임상적 ASCVD에 해당)
+* TIA 진단 즉시 고강도 statin 시작 권고&#x20;
 * 목표 : LDL-C ≥50% 감소 또는 LDL-C ＜70 ㎎/dL
 * 고강도 : atorvastatin 40\~80 ㎎/d \[리피토], rosuvastatin 20\~40 ㎎/d \[크레스토]
 * 고강도 불내성 시 : 중강도 statin으로 대체 (LDL-C 30\~49% 감소 목표)
-* <mark style="color:$info;">※ 이전 기재 "급성 stroke에서 신규 즉시 투여 개시를 하지는 않음"은 오류 — 삭제</mark>
 
 ***
 
