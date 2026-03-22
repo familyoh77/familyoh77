@@ -215,39 +215,21 @@
 
 #### 유발 인자에 따른 감별
 
-| 유발 인자                 | 의심 질환                                           |
-| --------------------- | ----------------------------------------------- |
-| 머리 위치 변화              | 급성 미로염, BPPV, 소뇌교각종양, MS, 외림프누공                 |
-| 자발적 삽화(지속되는 유발 인자 없음) | 급성 전정신경염, CVD(stroke or TIA), 메니에르병, 편두통, 다발경화증 |
-| 최근 바이러스성 상기도 감염       | 급성 전정신경염                                        |
-| 스트레스                  | Psychiatric or psychological, 편두통               |
-| 면역 저하 (예: 고령, 스트레스)   | HZO                                             |
-| 귀 압력, 두부 외상, 긴장, 소음   | 외림프누공                                           |
+<table><thead><tr><th width="283.47369384765625">유발 인자</th><th>의심 질환</th></tr></thead><tbody><tr><td>머리 위치 변화</td><td>급성 미로염, BPPV, 소뇌교각종양, MS, 외림프누공</td></tr><tr><td>자발적 삽화(지속되는 유발 인자 없음)</td><td>급성 전정신경염, CVD(stroke or TIA), 메니에르병, 편두통, 다발경화증</td></tr><tr><td>최근 바이러스성 상기도 감염</td><td>급성 전정신경염</td></tr><tr><td>스트레스</td><td>Psychiatric or psychological, 편두통</td></tr><tr><td>면역 저하 (예: 고령, 스트레스)</td><td>HZO</td></tr><tr><td>귀 압력, 두부 외상, 긴장, 소음</td><td>외림프누공</td></tr></tbody></table>
+
+_<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). Table 3.</mark>_
 
 #### 증상 기간 및 청각 저하 여부에 따른 감별
 
-| 시간   | 청각 증상 있음              | 청각 증상 없음       |
-| ---- | --------------------- | -------------- |
-| 수 초  | 외림프누공                 | BPPV, 척추뇌저동맥부전 |
-| 수 시간 | 내림프수종(Ménière Dz, 매독) | 편두통            |
-| 수일   | 미로염, 자가면역 내이 질환       | 전정신경염, 편두통     |
-| 수개월  | 청신경종, 이독성             | 다발경화증, 소뇌 퇴화   |
+<table><thead><tr><th width="96.36837768554688">시간</th><th>청각 증상 있음</th><th>청각 증상 없음</th></tr></thead><tbody><tr><td>수 초</td><td>외림프누공</td><td>BPPV, 척추뇌저동맥부전</td></tr><tr><td>수 시간</td><td>내림프수종(Ménière Dz, 매독)</td><td>편두통</td></tr><tr><td>수일</td><td>미로염, 자가면역 내이 질환</td><td>전정신경염, 편두통</td></tr><tr><td>수개월</td><td>청신경종, 이독성</td><td>다발경화증, 소뇌 퇴화</td></tr></tbody></table>
+
+_<mark style="color:$info;">Ref. Lange 2020 Current medical diagnosis & treatment 59th Ed. Table 8-3.</mark>_
 
 #### 동반 증상에 따른 감별
 
-| 동반 증상         | 의심 질환                                        |
-| ------------- | -------------------------------------------- |
-| 귀 충만감         | 청신경종, 메니에르병                                  |
-| 귀, 유양돌기 통증    | 청신경종, 급성 중이 질환(중이염, HZO)                     |
-| 안면 약화         | 청신경종, HZO(herpes zoster oticus)              |
-| 국소 신경 이상      | 소뇌교각종양, CVD, 다발경화증                           |
-| 두통            | 청신경종, 편두통                                    |
-| 청력 손실         | 메니에르병, 미로염, 외림프누공, 청신경종, 진주종, 귀경화증, CVD, HZO |
-| 불균형           | 급성 전정신경염(보통 중등증), 소뇌교각종양(보통 심함)              |
-| 안진            | Vertigo(중추 또는 말초)                            |
-| 큰소리공포, 눈부심    | 편두통                                          |
-| 이명            | 급성 미로염, 청신경종, 메니에르병                          |
-| 보행 불안정, 구음 장애 | cerebellar disorder                          |
+<table><thead><tr><th width="181.368408203125">동반 증상</th><th>의심 질환</th></tr></thead><tbody><tr><td>귀 충만감</td><td>청신경종, 메니에르병</td></tr><tr><td>귀, 유양돌기 통증</td><td>청신경종, 급성 중이 질환(중이염, HZO)</td></tr><tr><td>안면 약화</td><td>청신경종, HZO(herpes zoster oticus)</td></tr><tr><td>국소 신경 이상</td><td>소뇌교각종양, CVD, 다발경화증</td></tr><tr><td>두통</td><td>청신경종, 편두통</td></tr><tr><td>청력 손실</td><td>메니에르병, 미로염, 외림프누공, 청신경종, 진주종, 귀경화증, CVD, HZO</td></tr><tr><td>불균형</td><td>급성 전정신경염(보통 중등증), 소뇌교각종양(보통 심함)</td></tr><tr><td>안진</td><td>Vertigo(중추 또는 말초)</td></tr><tr><td>큰소리공포, 눈부심</td><td>편두통</td></tr><tr><td>이명</td><td>급성 미로염, 청신경종, 메니에르병</td></tr><tr><td>보행 불안정, 구음 장애</td><td>cerebellar disorder</td></tr></tbody></table>
+
+_<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). Table 4.</mark>_
 
 #### 중추성 vs 말초성 감별
 
@@ -262,27 +244,27 @@
 | 구역, 구토                     | 심함              | 다양함                |
 | 이명, 청력 소실                  | 흔함              | 드묾/다양(이환 부위에 따라)   |
 | 신경학적 이상                    | 드묾              | 흔함(복시, 구어 장애, 딸꾹질) |
+| 유발 검사 후 잠복기                | 길다(\~20초)       | 짧다(\~5초)           |
+
+_<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). Table 6.</mark>_
+
+**Dix-Hallpike maneuver 소견**
+
+| 특징           | 말초성             | 중추성    |
+| ------------ | --------------- | ------ |
+| 증상 출현 잠복기    | 2\~40초          | 없음     |
+| vertigo 강도   | 심함              | 약함     |
+| 안진 기간        | <1분             | 보통 >1분 |
+| fatigability | 있음(자세 유지 시 호전)  | 없음     |
+| habituation  | 있음(반복 검사 시 반응↓) | 없음     |
+
+_<mark style="color:$info;">Ref. Treatment of vertigo AFP 2005;71(6). Table 2.</mark>_
 
 #### 체위성 안진: 말초성 vs 중추성
 
-| 특징                | 말초성 질환                | 중추성 질환        |
-| ----------------- | --------------------- | ------------- |
-| 체위성 안진 발생 전 지체 시간 | 2\~20초                | 없음            |
-| 안진 방향             | 편측 방향, 주시에 따라 변할 수 있음 | 머리 방향에 따라 변화  |
-| 안진 지속 시간          | <1분                   | >1분           |
-| 안진 피로             | 반복 시험하면 안진이 줄어 듦      | 감소하지 않고 유지됨   |
-| 어지럼 강도            | 심함                    | 심하지 않음, 간혹 없음 |
+<table><thead><tr><th width="225.84210205078125">특징</th><th>말초성 질환</th><th>중추성 질환</th></tr></thead><tbody><tr><td>체위성 안진 발생 전 지체 시간</td><td>2~20초</td><td>없음</td></tr><tr><td>안진 방향</td><td>편측 방향, 주시에 따라 변할 수 있음</td><td>머리 방향에 따라 변화</td></tr><tr><td>안진 지속 시간</td><td>&#x3C;1분</td><td>>1분</td></tr><tr><td>안진 피로</td><td>반복 시험하면 안진이 줄어 듦</td><td>감소하지 않고 유지됨</td></tr><tr><td>어지럼 강도</td><td>심함</td><td>심하지 않음, 간혹 없음</td></tr></tbody></table>
 
-> Ref. Evaluation of the patient with vertigo. UpToDate. 2015.
-
-#### 말초성 어지럼의 질환별 감별
-
-| 특징       | BPPV  | 전정신경염                | Ménière Dz | 외림프누공 | 미로염 |
-| -------- | ----- | -------------------- | ---------- | ----- | --- |
-| 청력 소실    | 없음    | 극고주파수대(>8 kHz) 또는 없음 | 초기 저주파수대   | 다양    | 있음  |
-| 이명       | 없음    | 대부분 없음               | 있음         | 다양    | 있음  |
-| 머리 위치 관련 | 있음    | 없음(자발성)              | 없음(자발성)    | 다양    | 있음  |
-| 어지럼 기간   | 1\~2분 | 24\~48시간             | 20분\~24시간  | 다양    | 수일  |
+_Ref. Evaluation of the patient with vertigo. UpToDate. 2015._
 
 #### Vertigo 원인별 특징
 
@@ -296,8 +278,9 @@
 | **Brainstem infarction** | 갑자기 시작; 수일\~수 주      | 위와 동일                    | 중추성        | 다른 뇌간 증상                  | 보통 없음(전하부 소뇌동맥 증후군은 예외)           | 영상(MRI) 검사               |
 | **소뇌 경색 or 출혈**          | 갑자기 시작; 수일\~수 주      | 고령, 혈관 위험인자(고혈압)         | 중추성        | 보행 장애, 두통, 사지 마비, 연하 장애   | 없음                                | 응급 영상(MRI) 검사            |
 
-> Ref. Evaluation of the patient with vertigo. UpToDate. 2018.\
-> Rakel Family medicine 9th ed. 2016. eTable 18-4.
+_<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDate. 2018.</mark>_&#x20;
+
+_<mark style="color:$info;">Rakel Family medicine 9th ed. 2016. eTable 18-4.</mark>_
 
 ***
 
