@@ -27,9 +27,22 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-* 자살 위험
-* 유의미한 동반 질환 (예: 약물 중독, 인격장애)
-* 치료에 반응하지 않음
+<mark style="color:$danger;">**즉각 이송/응급 평가 — 생명 위협 또는 즉각적 위해 가능성**</mark>
+
+* 자살 사고 또는 자해 계획이 구체적으로 있는 경우
+* 타인에 대한 위해 의도
+* 급성 정신증(환청, 망상, 심한 와해 행동) 동반
+
+<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
+
+* 자살 사고가 있으나 구체적 계획은 없는 경우 (PHQ-9 9번 항목 양성)
+* 유의미한 동반 질환 (예: 약물·알코올 남용, 인격장애)
+* 심한 기능 저하 (직장·학업·일상생활 수행 불가)
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 — 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
+
+* 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
+* 반복되는 공황 발작 또는 증상 악화
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -40,7 +53,7 @@
 
 ※ 공황장애에 비하여 호흡 곤란, 두근거림, 빈맥 증상은 적음
 
-※ Anorexia, “Butterflies” in stomach(불안/긴장으로 인하여 속이 떨림), Chest pain or tightness, Diaphoresis, Diarrhea, Dizziness, Dry mouth, Dyspnea, Faintness, Flushing, Headache, Hyperventilation, Light-headedness, Muscle tension, Nausea, Pallor, Palpitations, Paresthesia, Sexual dysfunction, Shortness of breath, Stomach pain, Tachycardia, Tremulousness, Urinary frequency, Vomiting
+※ Anorexia, "Butterflies" in stomach(불안/긴장으로 인하여 속이 떨림), Chest pain or tightness, Diaphoresis, Diarrhea, Dizziness, Dry mouth, Dyspnea, Faintness, Flushing, Headache, Hyperventilation, Light-headedness, Muscle tension, Nausea, Pallor, Palpitations, Paresthesia, Sexual dysfunction, Shortness of breath, Stomach pain, Tachycardia, Tremulousness, Urinary frequency, Vomiting
 
 ## <mark style="color:green;">진단</mark>
 
@@ -50,12 +63,14 @@
 
 지난 2주일 동안 당신은 다음의 문제들로 인하여 지장을 받았던 날들이 얼마나 됩니까?
 
-<table><thead><tr><th width="369.68414306640625">항목</th><th width="79.57891845703125" align="center">없음 (0~1일)</th><th width="79.5789794921875" align="center">수일 (2~6일)</th><th width="79.578857421875" align="center">절반 이상 (7~11일)</th><th width="85.894775390625" align="center">거의 매일 (12~14일)</th></tr></thead><tbody><tr><td><ol><li>초조하거나 불안하거나 조마조마하게 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>걱정하는 것을 멈추거나 조절할 수 없다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">33</td></tr><tr><td><ol start="3"><li>여러 가지 것들에 대해 걱정을 너무 많이 한다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="4"><li>편안하게 있기 어렵다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="5"><li>너무 안절부절못해서 가만히 있기 힘들다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="6"><li>쉽게 짜증이 나거나 쉽게 화를 내게 된다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="7"><li>마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
+<table><thead><tr><th width="369.68414306640625">항목</th><th width="79.57891845703125" align="center">없음 (0~1일)</th><th width="79.5789794921875" align="center">수일 (2~6일)</th><th width="79.578857421875" align="center">절반 이상 (7~11일)</th><th width="85.894775390625" align="center">거의 매일 (12~14일)</th></tr></thead><tbody><tr><td><ol><li>초조하거나 불안하거나 조마조마하게 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>걱정하는 것을 멈추거나 조절할 수 없다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="3"><li>여러 가지 것들에 대해 걱정을 너무 많이 한다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="4"><li>편안하게 있기 어렵다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="5"><li>너무 안절부절못해서 가만히 있기 힘들다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="6"><li>쉽게 짜증이 나거나 쉽게 화를 내게 된다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="7"><li>마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
 
 ▶ 판정 : 0\~4점 = minimal / 5\~9점 = mild / 10\~14점 = moderate / 15\~21점 = severe
 
+{% hint style="info" %}
 \[삶의 질 평가] (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
-☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다. \{% endhint %\}
+☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다.
+{% endhint %}
 
 #### GAD-2 screening
 
@@ -92,7 +107,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 ### <mark style="color:$primary;">감별</mark>
 
 * 스트레스, 갑상선항진증, 심장 질환, 심한 신체 질환, 알코올/항불안제 금단 증상
-* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine, caffeine), 교감 신경 흥분제(예: β2-작용제), 항고혈압제, NSAID
+* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine), 교감 신경 흥분제(예: β2-작용제), 항고혈압제, NSAID
 * 다른 정신 질환 : 우울증, 공황장애, 강박장애, 외상 후 스트레스, 신체화장애, 조현병, 망상장애
 
 #### 우울증
@@ -121,24 +136,25 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>_
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="color:green;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
 * 자살 위험, 약물 남용, 다른 정신 질환 여부를 확인하고 관리
 * 불안증으로 진단되면 조기에 치료 시작
 * 낮은 강도의 심리적 중재 : 개별적 또는 그룹 중재
-* 현저한 기능 장애가 있거나 낮은 강도의 심리적 중재로 호전되지 않는 경우 고강도 정신 치료(예:인지행동 요법) &/or 약물 치료
+* 현저한 기능 장애가 있거나 낮은 강도의 심리적 중재로 호전되지 않는 경우 고강도 정신 치료(예: 인지행동 요법) &/or 약물 치료
 * 매 방문 때마다 불안 수준 정량화 모니터링(예: GAD-7)
 
-※ GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함
+<mark style="color:$info;">※ GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함</mark>
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
-* 인지행동 요법, mindfulness-based therapy
+* 인지행동 요법(CBT), mindfulness-based therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
 * 카페인 섭취 제한, 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
 * 신체 활동, 이완 요법 : 규칙적 운동, 요가, 태극권, 기공, 명상; 일부 연구에서 유효
-* 허브(근거 부족) : St. John’s wort(hyperici), Sympathyl, 시계풀(passionflower), 쥐오줌풀(valerian)
+* 스마트폰 기반 CBT 앱 : 경증~중등도에서 보조적 활용 가능 (근거 축적 중, 2023 APA update)
+* 허브(근거 부족) : St. John's wort(hyperici), Sympathyl, 시계풀(passionflower), 쥐오줌풀(valerian)
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -148,22 +164,21 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 항우울제 효과 발현까지 2\~~~4주 소요; 완화는 4\~~~6개월 후에 나타남
 * 추적 관찰 : 첫 3개월 동안 2\~4주마다, 이후 3개월마다 약효와 부작용 평가
   * 새로운 약제 투여 시 2\~4주 내 F/U
-* 약효가 있는 경우 재발을 줄이기 위하여 최소 6개월\~12개월 이상의 치료 유지를 권고
+* 치료 유지 기간 : 재발 감소를 위하여 **첫 삽화 후 최소 12개월** 이상 유지; **재발력이 있는 경우 2년 이상** 유지 권고 \[NICE 2023]
 * 약제 중단 시 tapering 하며(갑자기 중단하지 않음) 증상 재발, 약물 금단 증상 등 모니터링
 
 #### SSRI/SNRI
 
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ p.1146)
 * 저용량으로 시작 → 4\~~~6주 후 평가하여 효과가 부족하면 1\~~~2주 간격으로 증량
-*   부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 한 달 동안
-
-    매주 자살 생각에 대하여 모니터링)
+* 부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 4주 동안 매주 자살 생각에 대하여 모니터링)
+* 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 모니터링 — 투약 초기 전해질 확인 권고
+* 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
 * 약물 중단 시 반동 증상 : 어지럼, 이상 감각, 구역/구토, 두통, 발한, 불안, 수면 장애
-*
 
-<table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram [시탈로프람]</td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* [렉사프로]</td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline [졸로푸트]</td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* [세로자트, 팍실CR]</td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine [푸로작]</td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine [듀미록스]</td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine [심발타]</td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine [이팩사 XR]</td><td align="center">75</td><td align="center">75~225</td></tr></tbody></table>
+<table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram [시탈로프람]</td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* [렉사프로]</td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline [졸로푸트]</td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* [세로자트, 팍실CR]</td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine [푸로작]</td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine [듀미록스]</td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* [심발타]</td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* [이팩사 XR]</td><td align="center">75</td><td align="center">75~225</td></tr></tbody></table>
 
-\* GAD에 대하여 FDA 승인
+\* GAD에 대하여 FDA 승인 (escitalopram, paroxetine, duloxetine, venlafaxine XR)
 
 #### GABA-analogue
 
@@ -192,9 +207,9 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 #### 항정신병 약물
 
 * 불응성 불안장애, benzodiazepine 등으로 조절 되지 않는 경우 고려
-  * 일차의료에서에서는 사용하지 않을 것을 권고 \[NICE]
+  * 일차의료에서는 사용하지 않을 것을 권고 \[NICE]
 * olanzapine : 2.5\~7.5 ㎎/d qd(hs)\~bid \[자이프렉사]
-* quetiapine : 12.55\~100 ㎎/d qd(hs)\~bid \[쎄로켈]
+* quetiapine : 12.5\~100 ㎎/d qd(hs)\~bid \[쎄로켈]
 * risperidone : 0.5\~1 ㎎/d qd(hs)\~bid \[리스페달]
 
 #### β-차단제
@@ -232,15 +247,15 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 TCA
 
-* amitriptyline : 25~~50 ㎎/d, 100~~300 ㎎/d; 편두통 적응 \[에트라빌]
-* imipramine : 25~~50 ㎎/d, 100~~300 ㎎/d \[이미프라민]
+* amitriptyline : 25\~50 ㎎/d, 100\~300 ㎎/d; 편두통 적응 \[에트라빌]
+* imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d \[이미프라민]
 * nortriptyline : 25 ㎎/d, 50\~150 ㎎/d; 근골격 통증 적응 \[센시발]
 
 #### Step 5
 
 * Step 4에서 사용되지 않은 계열의 3번째 약물 추가
 * bupropion : 100\~450 ㎎ \[웰부트린]
-* pregabalin : 150\~600 ㎎ \[리리카]
+* pregabalin : 150\~600 ㎎ \[리리카] (☞ GABA-analogue 항목)
 
 #### Step 6
 
@@ -258,42 +273,68 @@ F41.9 상세불명의 불안장애
 
 ## <mark style="color:orange;">처방례</mark>
 
-Step 1.
+> **처방례 1.** GAD — Step 1, SSRI 단독 (1차 선택)
+>
+> ```
+> 렉사프로 10 mg/T  0.5T  qd  조식 후  (첫 1~2주)
+> → 2주 후 1T qd로 증량; 4~6주 후 효과 평가
+> ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 — 저용량 시작 이유 설명
+> ※ 30세 미만: 투약 첫 4주간 매주 자살 사고 모니터링
+> ※ 고령자: 투약 2~4주 후 전해질(Na) 확인 (SIADH 위험)
+> ```
 
-렉사프로 10 ㎎/T 1T qd 또는
+> **처방례 2.** GAD — Step 1, SNRI 단독 (불안 + 통증 동반, 또는 SSRI 불내성)
+>
+> ```
+> 이팩사 엑스알 서방 37.5 mg/C  1C  qd  조식 후  (첫 4주)
+> → 4주 후 75 mg으로 증량; 필요 시 최대 225 mg까지
+> ※ 투약 초기 혈압 상승 가능 — 혈압 모니터링
+> ※ 갑작스러운 중단 금지 (discontinuation syndrome 위험)
+> ```
 
-이팩사 엑스알 서방 37.5 ㎎/C 1C qd
+> **처방례 3.** GAD — Step 1 + 단기 BZD 병용 (급성 불안·수면 장애 동반)
+>
+> ```
+> 렉사프로 10 mg/T  1T  qd  조식 후
+> 리보트릴 0.5 mg/T  0.5T  qhs  (최대 2~4주 단기; 이후 tapering 중단)
+> ※ BZD는 SSRI 효과 발현 전 브릿지 목적으로만 단기 사용
+> ※ 고령자·운전자: 낙상, 졸음 위험 설명
+> ※ 중단 시 반드시 tapering (갑작스러운 중단 금지)
+> ```
 
+> **처방례 4.** GAD — Step 2 (1차 약제 변경, 수면 장애 뚜렷한 경우)
+>
+> ```
+> 팍실 CR 12.5 mg/T  1T  qd  조식 후  (4주 후 25 mg으로 증량 고려)
+> ※ 항콜린 부작용(변비, 구갈, 요저류) 주의
+> ※ 임산부 투여 금기 (PPHN 위험)
+> ※ 중단 시 discontinuation syndrome 발생 빈도 높음 — 반드시 서서히 감량
+> ```
 
+> **처방례 5.** GAD — Step 3, SSRI + 비전형 항정신병제 병용 (Step 1~2 불충분)
+>
+> ```
+> 졸로푸트 50 mg/T  1T  qd  조식 후
+> 쎄로켈 서방 50 mg/T  1T  qd  취침 시
+> ※ 쎄로켈은 25 mg에서 시작 → 매주 25~50 mg씩 증량 (최대 300 mg/d)
+> ※ 대사 증후군 모니터링 : 체중, 혈당, 지질 (3~6개월마다)
+> ※ 일차의료에서 항정신병제 추가 시 정신건강의학과 협진 권고 [NICE]
+> ```
 
-Step 2.
+***
 
-팍실 CR 12.5 ㎎/T 1T qd&#x20;
+### <mark style="color:purple;">핵심 복약 지도</mark>
 
-리보트릴 0.5 ㎎/T 1T #2 (단기)
+> **불안장애 약물 복용 안내**
+>
+> * 약 효과는 2\~4주 후 서서히 나타납니다. 처음 1\~2주는 오히려 불안이 약간 더 느껴질 수 있으나 곧 호전되므로 임의로 중단하지 마십시오.
+> * 반드시 담당 의사와 상의한 후 서서히 줄여야 합니다. 갑자기 끊으면 어지럼, 저림, 구역 등 금단 증상이 생길 수 있습니다.
+> * 커피·에너지음료 등 카페인 음료와 술은 불안을 악화시킵니다.
+> * 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
 
-
-
-Step 3.
-
-졸로푸트 50 ㎎/T 1T qd 아침&#x20;
-
-쎄로켈 서방 50 ㎎/T 1T qd 저녁
-
-
-
-Step 4.
-
-Step 1 약제 plus
-
-센시발 25 ㎎/T 1T qd 취침 시 추가
-
-\
-\
-Step 5
-
-Step 4 약제 plus
-
-리리카 150 ㎎/C 2C #2 추가
-
-<br>
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 불안 증상이 악화되거나 일상생활이 어려울 정도로 심해지는 경우
+> * 자해나 자살에 대한 생각이 드는 경우 — 즉시 내원 또는 정신건강 위기상담 전화(1577-0199) 이용
+> * 약 복용 후 심한 위장 장애, 두근거림, 혈압 이상 등이 나타나는 경우
+> * 2\~4주 약 복용 후에도 증상 호전이 없는 경우
