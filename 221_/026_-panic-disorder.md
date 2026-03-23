@@ -65,13 +65,13 @@
 
 ### <mark style="color:$primary;">중증도 평가</mark>
 
-**Panic Disorder Severity Scale (PDSS)**&#x20;
+**Panic Disorder Severity Scale (PDSS)**
 
 * 7개 항목 : 공황발작 빈도, 공황발작 시 고통 정도, 예기 불안, 광장공포적 회피, 공황 관련 감각에 대한 회피, 직업적 기능 장애, 사회적 기능 장애
 * 각 0\~4점(없음-약간-보통-심함-극심; 총 0\~28점)
 * 치료 반응 모니터링에 활용; 0\~7점 = 경증 / 8\~15점 = 중등도 / 16\~28점 = 중증
 
-※ 동반 질환 파악을 위해 GAD-7(불안; ☞ p.112), PHQ-9(우울; ☞ p.124) 병행 사용 권고
+※ 동반 질환 파악을 위해 GAD-7(☞ [불안장애](025_-anxiety-disorder.md#generalized-anxiety-disorder-7-item-gad-7)), PHQ-9(우울; ☞ p.124) 병행 사용 권고
 
 ### <mark style="color:$primary;">감별</mark>
 
