@@ -4,24 +4,41 @@
 
 * 공황발작 : 예기치 못한, 스스로 통제할 수 없는, 강력한 공포감 및 관련된 육체/정서/인지 증상들(예: 과호흡, 호흡 곤란, 두근거림, 어지럼, 감각 이상)이 갑작스럽고 짧게 발생; 수 분(10분) 내 절정에 도달하고 1시간 내 사라짐
 * 공황장애 : 반복적인 공황발작 및 발작 후 발작 재발에 대한 지속적인 걱정(예: 광장 공포, 불안/우울) &/or 공황 발작을 피하기 위해 과도한 노력(예: 지나친 의료 이용)을 하는 상태
-* 유병률 : 3\~5%; 여성이 남성의 2배, 보통 25세 이하에서 시작
+* 유병률 : 12개월 유병률 2\~3%, 평생 유병률 4\~5%; 여성이 남성의 2배, 평균 발병 연령 20\~24세
 * 동반 증상 : 우울, 자살 위험, 강박 장애, 위장 증상(복통, 가슴쓰림, 설사, 변비, 구역/구토; 30%)
 
 ## <mark style="color:green;">원인</mark>
 
 * 불명
-* 추정 기전 : 뇌 기능 이상, 정서적 자극을 다루는 기능의 이상
+* 추정 기전 : 뇌 기능 이상(편도체 과활성, prefrontal cortex 조절 기능 저하), 정서적 자극을 다루는 기능의 이상
 
 ### <mark style="color:$primary;">위험 인자</mark>
 
 * 스트레스, 대인 관계 갈등 또는 상실, 학대/성폭력 피해 과거력, 불안 또는 과보호 부모
 * 양극장애, 주요우울증, 강박장애, 단순공포증
 * 손상(예: 사고, 수술), 질병
-*   약물 : 알코올, 카페인, opioid, benzodiazepine, bupropion, dextromethorphan, levodopa, amphetamines, steroid,
-
-    albuterol, sympathomimetics, fluoroquinolone, interferon
+* 약물 : 알코올, 카페인, opioid, benzodiazepine, bupropion, dextromethorphan, levodopa, amphetamines, steroid, albuterol, sympathomimetics, fluoroquinolone, interferon
 * 공황장애 치료를 위한 항우울제 투여 초기
 * 공황장애 치료를 위한 단기 작용 약물(예: clorazepate, midazolam, triazolam, propranolol)의 투여 공백기
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 이송/응급 평가 — 생명 위협 또는 즉각적 위해 가능성**</mark>
+
+* 자살 사고 또는 자해 계획이 구체적으로 있는 경우
+* 타인에 대한 위해 의도
+* 급성 정신증(환청, 망상, 심한 와해 행동) 동반
+
+<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
+
+* 자살 사고가 있으나 구체적 계획은 없는 경우 (PHQ-9 9번 항목 양성)
+* 유의미한 동반 질환 (예: 약물·알코올 남용, 인격장애)
+* 심한 기능 저하 (직장·학업·일상생활 수행 불가)
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 — 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
+
+* 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
+* 반복되는 공황 발작 또는 증상 악화
 
 ## <mark style="color:green;">임상 양상 및 진단</mark>
 
@@ -45,6 +62,11 @@
   1. 공황발작의 재발에 대한 만성적인 걱정
   2. 공황 발작을 피하기 위한 현저한 노력
 
+### <mark style="color:$primary;">중증도 평가</mark>
+
+* Panic Disorder Severity Scale (PDSS) : 공황 발작 빈도, 예기 불안, 광장 공포, 기능 장애 등 7개 항목, 각 0\~4점 (총 0\~28점); 치료 반응 모니터링에 활용
+  * 0\~7점 = 경증 / 8\~15점 = 중등도 / 16\~28점 = 중증
+
 ### <mark style="color:$primary;">감별</mark>
 
 * 갑상선 항진/저하, 천식, COPD, 폐색전증, 과호흡 동반 역류성 식도염, 월경전불쾌장애, 폐경, 임신, 저혈당, 저산소증, 내이 이상, 심근경색, tachyarrhythmia, 일과성허혈성발작, 자가면역 질환, carcinoid syndrome, pheochromocytoma, hyperaldosteronism, 쿠싱증후군
@@ -67,7 +89,7 @@
 #### 초기 : 항우울제 + BZD계 항불안제 + 인지행동치료
 
 * 광장공포증이 없는 경우의 약물 치료는 항우울제 단독 선택도 가능
-* BZD계 항불안제 병합 투여 기간 : 4주
+* BZD계 항불안제 병합 투여 기간 : 4주 (항우울제 효과 발현 전 브릿지 목적)
 
 #### 유지 : 항우울제 + 인지행동치료
 
@@ -75,45 +97,49 @@
 
 #### 약물 치료 반응이 불충분한 경우
 
-*   다른 항우울제로 교체 또는 다른 계열 항우울제/비정형 항정신병제(aripiprazole, quetiapine)/강화 약물(예: propranolol,
-
-    buspirone) 추가 (☞ p.115)
+* 다른 항우울제로 교체 또는 다른 계열 항우울제/비정형 항정신병제(aripiprazole, quetiapine)/강화 약물(예: propranolol, buspirone) 추가 (☞ p.115)
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
 * 공황 및 관련한 과호흡으로 인하여 증상이 발생하고 악화되고 있으며 이를 수정하면 증상이 완화될 수 있음을 교육
-* 인지행동 요법, mindfulness-based therapy, exposure therapy
-* aerobic exercise : 공황발작이 시작될 때 10분 동안 활발하게 유산소 운동
+* 인지행동 요법(CBT), mindfulness-based therapy, exposure therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
+* 규칙적 유산소 운동 : 공황 발작 빈도 및 예기 불안 감소 효과 (주 3회 이상 권고); 발작 중 운동은 권고하지 않음
+* 카페인 섭취 제한, 금주
 
 ## <mark style="color:green;">약물 치료</mark>
 
 * 1차 선택 : SSRI, SNRI (☞ p.1146)
+* 저용량으로 시작(우울증 치료 시작 용량의 절반) → 점차 증량 (초기 불안 악화·jitteriness syndrome 예방)
+* 새로운 약물 투여 시작 후 2주 내 및 4, 6, 12주에 F/U; 12주 후 유지 또는 교체 결정
+* 충분한 효과 발현에 2\~6주 필요
+* 치료 기간 : \[대한불안의학회] 기본 12개월, 재발 시 24개월 이상 치료 권고
+* 투여 중단 시 tapering (갑자기 중단하지 않음); 용량이 낮아질수록 더 천천히 감량(hyperbolic tapering)
+  * 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 서서히 감량
+  * 약물 중단 증상 : 어지럼, 이상 감각, 위장 장애(예: 구역/구토), 두통, 발한, 불안, 수면 장애
 
 #### 항우울제
 
 * 선호 약제 : escitalopram(우선), paroxetine, sertraline, venlafaxine
 * TCA는 부작용 때문에 2차 약제로 고려
-* 우울증 치료 시작 용량의 절반 정도로 시작 → 점차 증량
-* 새로운 약물 투여 시작 후 2주 내 및 4, 6, 12주에 F/U; 12주 후 유지 또는 교체 결정
-* 충분한 효과 발현에 2\~6주 필요
-* 치료 기간 : 치료에 반응이 있는 경우 적정 용량에 도달한 후 6개월 이상 치료 유지, 이후 감량 고려
-  * \[대한불안의학회] 기본 12개월, 재발 시 24개월 이상 치료 권고
-* 투여 중단 시 12주간 tapering(갑자기 중단하지 않음)
-  * 약물 중단 증상 : 어지럼, 이상 감각, 위장 장애(예: 구역/구토), 두통, 발한, 불안, 수면 장애
+* 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 — 투약 초기 전해질 확인 권고
+* 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
+* 30세 미만 : 투약 첫 4주간 매주 자살 사고 모니터링
 
-#### Benzodiazepine (BZD)
-
-* 동반 질환이 없는 환자에서 빠른 효과가 필요한 경우 1차 약제로 선택
-  * \[NICE] 장기적으로 좋은 결과를 얻지 못하며 약물 남용 및 의존 문제로 권고하지 않음
-* 알코올이나 benzodiazepine 남용 병력이 있는 사람에서 금기
-
-<table><thead><tr><th width="251.52630615234375">Benzodiazepine</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>lorazepam [아티반]</td><td>0.75*</td><td>2~8*</td></tr><tr><td>clonazepam [리보트릴]</td><td>0.5*</td><td>0.5~2*</td></tr><tr><td>diazepam [디아제팜]</td><td>2~4</td><td>4~40</td></tr></tbody></table>
-
-\*분할 투여　
+<table><thead><tr><th width="251.5263671875">SSRI/SNRI</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine [세로자트]</td><td>10~20</td><td>20~60</td></tr><tr><td>sertraline [졸로푸트]</td><td>25</td><td>50~200</td></tr><tr><td>venlafaxine XR [이팩사 XR]</td><td>37.5</td><td>75~225</td></tr><tr><td>fluoxetine [푸로작]</td><td>10~20</td><td>20~80</td></tr><tr><td>citalopram [시탈로프람]</td><td>10~20</td><td>20~40</td></tr><tr><td>paroxetine CR [팍실 CR]</td><td>12.5~25</td><td>25~75</td></tr></tbody></table>
 
 <table><thead><tr><th width="251.5263671875">TCA</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>clomipramine [그로민]</td><td>25</td><td>50~150</td></tr><tr><td>imipramine [이미프라민]</td><td>25</td><td>50~150</td></tr><tr><td>nortriptyline [센시발]</td><td>10~25</td><td>75~150</td></tr></tbody></table>
 
-<table><thead><tr><th width="251.5263671875">SSRI/SNRI</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine [세로자트]</td><td>10~20</td><td>20~60</td></tr><tr><td>sertraline [졸로푸트]</td><td>25</td><td>50~200</td></tr><tr><td>venlafaxine XR [이팩사 XR]</td><td>37.5</td><td>75~225</td></tr><tr><td>fluoxetine [푸로작]</td><td>10~20</td><td>20~80</td></tr><tr><td>citalopram [시탈로프람]</td><td>10~20</td><td>20~40</td></tr><tr><td>paroxetine CR [팍실 CR]</td><td>12.5~25</td><td>25~75</td></tr></tbody></table>
+#### Benzodiazepine (BZD)
+
+* 항우울제 효과 발현 전 단기 브릿지 목적으로 사용; 단독 장기 사용은 권고하지 않음
+  * \[NICE] 장기적으로 좋은 결과를 얻지 못하며 약물 남용 및 의존 문제로 권고하지 않음
+* 알코올이나 benzodiazepine 남용 병력이 있는 사람에서 금기
+* 고령자 : 내성 및 낙상 등의 사고 위험으로 감량 투여
+* 중단 시 반드시 tapering (반동 불안 및 금단 증상 예방)
+
+<table><thead><tr><th width="251.52630615234375">Benzodiazepine</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>lorazepam [아티반]</td><td>0.75*</td><td>2~8*</td></tr><tr><td>clonazepam [리보트릴]</td><td>0.5*</td><td>0.5~2*</td></tr><tr><td>diazepam [디아제팜]</td><td>2~4</td><td>4~40</td></tr></tbody></table>
+
+\*분할 투여
 
 _<mark style="color:$info;">Ref. Conn's Current therapy 2017. Panic Disorder Table 2.</mark>_
 
@@ -121,15 +147,56 @@ _<mark style="color:$info;">Ref. Conn's Current therapy 2017. Panic Disorder Tab
 
 ### <mark style="color:purple;">질병코드</mark>
 
-F40 공포성 불안장애
+F41.0 공황장애
 
 ***
 
 ## <mark style="color:orange;">처방례</mark>
 
-처방례 1. 급성기\
-렉사프로 5 ㎎/T 1T qd 디아제팜 2 ㎎/T 2T #2
+> **처방례 1.** 급성기 — 항우울제 + 단기 BZD 병용
+>
+> ```
+> 렉사프로 5 mg/T  1T  qd  조식 후  (첫 1~2주, 저용량 시작)
+> 디아제팜 2 mg/T  1T  bid  (최대 4주 단기; 이후 tapering 중단)
+> ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 — 저용량 시작 이유 설명
+> ※ BZD는 SSRI 효과 발현 전 브릿지 목적으로만 단기 사용
+> ※ 30세 미만: 투약 첫 4주간 매주 자살 사고 모니터링
+> ※ 고령자: 투약 2~4주 후 전해질(Na) 확인 (SIADH 위험)
+> ```
 
-\
-처방례 2. 유지기\
-렉사프로 10 ㎎/T 1T qd
+> **처방례 2.** 유지기 — 항우울제 단독
+>
+> ```
+> 렉사프로 10 mg/T  1T  qd  조식 후
+> ※ 12개월 이상 유지; 재발력 있는 경우 24개월 이상
+> ※ 중단 시 반드시 서서히 감량 (갑작스러운 중단 금지)
+> ```
+
+> **처방례 3.** SNRI 선택 (SSRI 불내성 또는 우울 동반)
+>
+> ```
+> 이팩사 엑스알 서방 37.5 mg/C  1C  qd  조식 후  (첫 4주)
+> → 4주 후 75 mg으로 증량; 필요 시 최대 225 mg까지
+> ※ 투약 초기 혈압 상승 가능 — 혈압 모니터링
+> ※ discontinuation syndrome 위험 높음 — 갑작스러운 중단 금지, 반드시 서서히 감량
+> ```
+
+***
+
+### <mark style="color:purple;">핵심 복약 지도</mark>
+
+> **공황장애 약물 복용 안내**
+>
+> * 약 효과는 2\~6주 후 서서히 나타납니다. 처음 1\~2주는 오히려 불안이 약간 더 느껴질 수 있으나 곧 호전되므로 임의로 중단하지 마십시오.
+> * 반드시 담당 의사와 상의한 후 서서히 줄여야 합니다. 갑자기 끊으면 어지럼, 저림, 구역 등 금단 증상이 생길 수 있습니다.
+> * 안정제(수면제)는 단기간만 사용합니다. 장기 복용 시 의존성이 생길 수 있어 의사의 지시대로 복용해 주십시오.
+> * 커피·에너지음료 등 카페인 음료와 술은 공황 발작을 유발하거나 악화시킵니다.
+> * 규칙적인 유산소 운동(주 3회 이상)이 증상 완화에 도움이 됩니다.
+> * 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
+
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 공황 발작이 악화되거나 빈도가 늘어나는 경우
+> * 자해나 자살에 대한 생각이 드는 경우 — 즉시 내원 또는 정신건강 위기상담 전화(1577-0199) 이용
+> * 약 복용 후 심한 위장 장애, 두근거림, 혈압 이상 등이 나타나는 경우
+> * 2\~4주 약 복용 후에도 증상 호전이 없는 경우
