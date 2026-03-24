@@ -1,89 +1,54 @@
 # 불면증 Insomnia, Sleep Disorder
 
-![image](../.gitbook/assets/38030a60-14e0-4fd2-9623-defed5eaf16d.JPG)
+## <mark style="color:green;">일반 사항</mark>
 
-## 일반 사항
+### <mark style="color:$primary;">Sleep disorder 분류 \[ICSD-3]</mark>
 
-### Sleep disorder 분류 \[ICSD-3]
-
-1.  Insomnia : 적절한 수면 환경에도 불구하고 잠에 들기 어렵거나 잠을 유지하기 어렵거나 너무 일찍 깨어나며 이로 인하여
-
-    주간 기능에 지장이 발생함
-
-•수면 지연(sleep latency) : 젊은 성인에서 20분, 나이든 성인에서 30분 내 수면에 들지 못함
-
-•조기 기상(early morning awakening) : 원하는 시간보다 30분 이전에 기상
-
-2.  Sleep-related breathing disorders : 수면 중 비정상적인 호흡; central or obstructive sleep apnea syndrome,
-
-    sleep-related hypoventilation disorder, sleep-related hypoxemia disorder
+1. Insomnia : 적절한 수면 환경에도 불구하고 잠에 들기 어렵거나 잠을 유지하기 어렵거나 너무 일찍 깨어나며 이로 인하여 주간 기능에 지장이 발생함
+   1. 수면 지연(sleep latency) : 젊은 성인에서 20분, 나이든 성인에서 30분 내 수면에 들지 못함
+   2. 조기 기상(early morning awakening) : 원하는 시간보다 30분 이전에 기상
+2. Sleep-related breathing disorders : 수면 중 비정상적인 호흡; central or obstructive sleep apnea syndrome, sleep-related hypoventilation disorder, sleep-related hypoxemia disorder
 3. Central disorder of hypersomnolence : 다른 수면 이상에 의하지 않은 주간 졸림
 4. Circadian rhythm sleep-wake disorders (= Shift work disorder, SWD)
-
-•shift work schedule과 관련된 증상이 최소 1개월 이상 지속되는 수면 장애
-
-•자신의 수면 패턴에서 요구되는 sleep-wake 일정과 환경(생활) 사이의 불일치(예: 여행, 야간 작업)에 기인하여 주간의
-
-```
-과도한 졸림이나 불면증이 발생한 지속적 또는 재발성 수면 장애. 이로 인하여 일상생활에서의 유의미한 장애 발생
-```
-
-5\. Parasomnia : 잠이 드는 동안, 잠자는 중, 또는 잠에서 깨어나는 동안 원하지 않는 신체적 사건(행동) 또는 경험(지각,
-
-```
-감정, 꿈); 몽유병, 잠꼬대, 수면 중 신음, 악몽, 야경, 야뇨, 이갈이, 수면 행동
-```
-
-6\. Sleep-related movement disorders : 수면을 방해하는 단순한, 입체적인 움직임(예: restless legs syndrome) (☞ p.174)
-
+   1. shift work schedule과 관련된 증상이 최소 1개월 이상 지속되는 수면 장애
+   2. 자신의 수면 패턴에서 요구되는 sleep-wake 일정과 환경(생활) 사이의 불일치(예: 여행, 야간 작업)에 기인하여 주간의 과도한 졸림이나 불면증이 발생한 지속적 또는 재발성 수면 장애. 이로 인하여 일상생활에서 유의미한 장애 발생
+5. Parasomnia : 잠이 드는 동안, 잠자는 중, 또는 잠에서 깨어나는 동안 원하지 않는 신체적 사건(행동) 또는 경험(지각, 감정, 꿈); 몽유병, 잠꼬대, 수면 중 신음, 악몽, 야경, 야뇨, 이갈이, 수면 행동
+6. Sleep-related movement disorders : 수면을 방해하는 단순한, 입체적인 움직임(예: restless legs syndrome) (☞ [하지불안증후군](036_-restless-legs-syndrome.md))
 7. Other sleep disorders
 
-### 기간에 따른 분류
+### <mark style="color:$primary;">기간에 따른 분류</mark>
 
 #### Short-term insomnia disorder
 
 * ＜3개월 동안 주간 기능 장애 등의 유의미한 문제를 일으키는 수면 장애
 * 다른 명칭 : adjustment insomnia, acute insomnia, stress-related insomnia, transient insomnia
-*   일시적인 스트레스와 관련될 수 있으나 급성 통증, 슬픔, 또는 다른 스트레스 요인들이 수면 장애의 유일한 원인일 때는
-
-    불면증이라는 진단을 적용하지 않을 수 있음
+* 일시적인 스트레스와 관련될 수 있으나 급성 통증, 슬픔, 또는 다른 스트레스 요인들이 수면 장애의 유일한 원인일 때는 불면증이라는 진단을 적용하지 않을 수 있음
 * 스트레스가 해소되거나 스트레스에 적응하면 증상이 해소될 수 있음
 
 #### Chronic insomnia disorder
 
 * ≥3개월 동안 ≥3회/주 유의미한 문제를 일으키는 수면 장애
-*   여러 해에 걸쳐 수 주 동안 반복적으로 불면증이 발생하는 환자는 각각의 episode가 3개월 동안 지속되지 않더라도
-
-    만성 불면증으로 진단할 수 있음
+* 여러 해에 걸쳐 수 주 동안 반복적으로 불면증이 발생하는 환자는 각각의 episode가 3개월 동안 지속되지 않더라도 만성 불면증으로 진단할 수 있음
 
 #### Other insomnia disorder
 
 * short-term 또는 chronic insomnia에 해당되지 않는 수면 장애
 
-## 원인 및 위험 인자
+## <mark style="color:green;">원인 및 위험 인자</mark>
 
 * 특발성(원인 불명)
 * 불규칙 수면 : 교대 근무, 여행, 출장; 낮잠, 일찍 취침
 * 나쁜 환경 : 밝은 조명, 소음
 * 사회적 관계 장애, 낮은 사회 경제적 상태
 * 사회심리적 스트레스 : 경제, 학업, 직장(예: 이직, 실직), 가정(예: 갈등, 별거)
-*   고령(중년의 10%, ＞65세의 ⅓이 만성 불면증 유병), 여성(남성의 5배)
-
-    •연령 증가에 따라 수면이 얕아지고 수면에 영향을 주는 질환이 많아지며 약물 복용이 늘어남
+* 고령(중년의 10%, ＞65세의 ⅓이 만성 불면증 유병), 여성(남성의 5배)
+  * 연령 증가에 따라 수면이 얕아지고 수면에 영향을 주는 질환이 많아지며 약물 복용이 늘어남
 * 정신 질환 : 불안증, 우울증, 인격장애, 외상 후 스트레스장애
-*   급만성 질환 : 하지 불안증, 수면무호흡증, 만성 통증, 골관절증, 심부전, 신부전, COPD, GERD, 갑상선항진증, 배뇨 장애,
-
-    과민대장증후군, 만성피로증후군, 뇌졸중, 파킨슨병, 치매, 악성 종양
+* 급만성 질환 : 하지 불안증, 수면무호흡증, 만성 통증, 골관절증, 심부전, 신부전, COPD, GERD, 갑상선항진증, 배뇨 장애, 과민대장증후군, 만성피로증후군, 뇌졸중, 파킨슨병, 치매, 악성 종양
 * 약물 남용 : 다제약물, 알코올 남용, 카페인 과용, 약물 금단
-*   약물 : 항우울제(예: SSRI, SNRI, bupropion), β-차단제/항진제, CCB, 이뇨제, 항간질제(예: lamotrigine, phenytoin),
+* 약물 : 항우울제(예: SSRI, SNRI, bupropion), β-차단제/항진제, CCB, 이뇨제, 항간질제(예: lamotrigine, phenytoin), 항콜린제, 항암제, 교감 신경 흥분제(예: salbutamol, salmeterol, theophylline, pseudoephedrine), CNS 자극제(예: methylphenidate, dextroamphetamine, nicotine), NSAID, steroid, 경구 피임제, 갑상선 호르몬, atorvastatin, levodopa, quinidine
 
-    항콜린제, 항암제, 교감 신경 흥분제(예: salbutamol, salmeterol, theophylline, pseudoephedrine),
-
-    CNS 자극제(예: methylphenidate, dextroamphetamine, nicotine), NSAID, steroid, 경구 피임제, 갑상선 호르몬,
-
-    atorvastatin, levodopa, quinidine
-
-## 임상 양상
+## <mark style="color:green;">임상 양상</mark>
 
 * 주간 졸음, 집중력 장애, 기억력 장애
 * 피로, 활력 감소, 적극성 감소
@@ -92,23 +57,27 @@
 * 불면에 대한 두려움
 * 소화 장애, 심혈관 질환(예: 고혈압, 심근경색), 당뇨병 위험 증가
 
-## 진단
+## <mark style="color:green;">진단</mark>
 
 * 다른 원인을 배제하여 진단
 * 병력(예: 통증성 질환), 약물/음주 경력
-*   수면 이력 : 수면/기상 시간, 근무/활동 시간, 불면 패턴(입면 지연, 유지 장애), 주간 졸음 여부
-
-    •수면 일지 작성 : 취침/기상/밤중 각성 시간, 야간 배뇨 시간/배뇨량, 수면 환경, 낮잠, 음주, 스트레스, 기분
+* 수면 이력 : 수면/기상 시간, 근무/활동 시간, 불면 패턴(입면 지연, 유지 장애), 주간 졸음 여부
+  * 수면 일지 작성 : 취침/기상/밤중 각성 시간, 야간 배뇨 시간/배뇨량, 수면 환경, 낮잠, 음주, 스트레스, 기분
 * 실험실 검사 : CBC, 빈혈 검사, TSH, 간/신장 기능, CRP, Vit B12, urine toxicology
 * ECG, EEG, CT/MRI, circadian markers(melatonin, 체온)
 * 수면다원검사 : 치료 실패, 주간 졸음 위험 직업군(예: 직업 운전자)에서 고려
 
-#### 주간 졸림증 자가 진단 [대한수면연구학회](../\[https:/www.sleepnet.or.kr]\(https:/www.sleepnet.or.kr\))
+#### 주간 졸림증 자가 진단&#x20;
+
+([대한수면연구학회](https://www.sleepnet.or.kr/))
 
 * 아래의 상황들에서 당신은 어느 정도나 졸음을 느끼십니까?
-*   배점 : 전혀 졸지 않는다( 0점), 가끔 졸음에 빠진다(1점), 종종 졸음에 빠진다(2점), 자주 졸음에 빠진다(3점)
+* 배점 : 전혀 졸지 않는다( 0점), 가끔 졸음에 빠진다(1점), 종종 졸음에 빠진다(2점), 자주 졸음에 빠진다(3점)
 
-    ![image](../.gitbook/assets/19f3d460-4ab2-4106-b972-eb94c766e005.png)
+<table><thead><tr><th width="347.8946533203125">활동</th><th width="79.57891845703125" align="center">졸리운</th><th width="74.5263671875" align="center">정도</th><th width="74.26318359375" align="center"></th><th width="73.7501220703125" align="center"></th></tr></thead><tbody><tr><td>앉아서 책을 읽을때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>텔레비젼을 볼 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>극장이나 회의석상과 같은 공공 장소에서 가만히 앉아있을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>오후 휴식 시간에 편안히 누워 있을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>앉아서 누군가에게 말을 하고 있을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>점심 식사 후 조용히 앉아 있을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>차를 운전하고 가다가 교통 체증으로 몇 분간 멈추었을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
+
+![image](../.gitbook/assets/19f3d460-4ab2-4106-b972-eb94c766e005.png)
+
 * 판정 : ＜10점 정상, ≥10점 경증, 14\~18점 중등증, ≥19점 중증 주간 졸림증
 
 #### 불면증 자가 진단 [대한수면연구학회](../\[https:/www.sleepnet.or.kr]\(https:/www.sleepnet.or.kr\))
