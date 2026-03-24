@@ -1,26 +1,24 @@
 # 산후우울증 Postpartum Depression
 
-![image](../.gitbook/assets/d6a042fc-a30f-45b5-98b7-49780e6201bd.JPG)
-
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
 * 분만(또는 입양) 후 12개월 내 시작되거나 재발한 주요우울증; 주로 12주 내 발생
 * 빈도 : \~20%
 
-### 산후 우울 기분 (Postpartum blue)
+### <mark style="color:$primary;">산후 우울 기분 (Postpartum blue)</mark>
 
 * 출산 후 일시적으로 발생하는 경증 우울; 출산 후 2\~3일내 발생하여 2주 내 회복
 * 빈도 : 산모의 30\~70%에서 발생
 * 증상 : 불쾌감, 불면, 감정 기복/정서 불안, 집중력 저하
 
-## 원인
+## <mark style="color:green;">원인</mark>
 
 * 불확실
 *   추정 요인 : 호르몬(예: estrogen, progesterone) 변동, cytokine, HPA axis 호르몬, 지방산, arginine vasopressin,
 
     oxytocin, neuro-biologic deficit, 염증, 스트레스
 
-### 위험 인자
+### <mark style="color:$primary;">위험 인자</mark>
 
 * 원치 않는 임신
 * 어린 연령 산모
@@ -39,7 +37,7 @@
 * 성폭행 피해력
 * 우울증 가족력
 
-## 임상 양상
+## <mark style="color:green;">임상 양상</mark>
 
 * 우울 기분 또는 과민
 * 일상생활에서 즐거움이 없음
@@ -56,20 +54,23 @@
 * 엄마로서의 능력에 대하여 의심
 * 자신이 아기를 해칠 수 있다는 생각 또는 걱정
 
-## 진단
+## <mark style="color:green;">진단</mark>
 
-* postpartum unipolar major depression의 진단 기준은 비-산모 진단 기준과 동일함 (☞ p.125)
+* postpartum unipolar major depression의 진단 기준은 비-산모 진단 기준과 동일함 (☞ [우울증](027_-depression.md#dsm-5))
 
 ### 선별 검사
 
-* 모든 산모에 대하여 1,3분기 및 산욕기에 선별 검사(예: 에든버러 산후우울증 척도, PHQ-9) 권고
+* 모든 산모에 대하여 1,3분기 및 산욕기에 선별 검사(예: 에든버러 산후우울증 척도, [PHQ-9](027_-depression.md#phq-9)) 권고
 
 #### 에든버러 산후우울증 척도 (Edinburgh postnatal depression scale)
 
 * 출산 후 6\~8주째에 적용 (첫 1년 동안 적용 가능)
-*   지난 일주일간 자신의 기분에 해당된다고 생각하는 항목에 표시
+* 지난 일주일간 자신의 기분에 해당된다고 생각하는 항목에 표시
+*
 
-    ![image](../.gitbook/assets/ffc1671c-e35a-4d5f-b24f-0ed9c1c94112.JPG)
+<table data-header-hidden><thead><tr><th width="368.94732666015625"></th><th width="67.10528564453125" align="center"></th><th width="67.47369384765625" align="center"></th><th width="68.00006103515625" align="center"></th><th width="68.4869384765625" align="center"></th></tr></thead><tbody><tr><td>문항</td><td align="center">대부분<br>(0~1)</td><td align="center">때때로<br>(2~6)</td><td align="center">드물게<br>(7~11)</td><td align="center">전혀<br>(12~14)</td></tr><tr><td>① 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>② 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>③ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>④ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑤ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑥ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑦ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑧ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑨ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
+
+![image](../.gitbook/assets/ffc1671c-e35a-4d5f-b24f-0ed9c1c94112.JPG)
 
 ### 검사
 
