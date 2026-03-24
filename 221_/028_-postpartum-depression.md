@@ -66,24 +66,23 @@
 
 * 출산 후 6\~8주째에 적용 (첫 1년 동안 적용 가능)
 * 지난 일주일간 자신의 기분에 해당된다고 생각하는 항목에 표시
+* 판정 : 0\~9점=정상, ≥10점=우울증 의심
 
-<table data-header-hidden><thead><tr><th width="368.94732666015625"></th><th width="69.21051025390625" align="center"></th><th width="68.52630615234375" align="center"></th><th width="69.05267333984375" align="center"></th><th width="68.4869384765625" align="center"></th></tr></thead><tbody><tr><td>문항</td><td align="center">대부분</td><td align="center">때때로</td><td align="center">드물게</td><td align="center">전혀</td></tr><tr><td><ol><li>재미있는 것을 보며 웃을 수 있다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>즐거운 기대감에 어떤 일을 기다렸다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="3"><li>무언가 잘못되었을 때 필요 이상으로 자책했다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td><ol start="4"><li>특별한 이유 없이 불안해지거나 걱정했다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td><ol start="5"><li>특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>6. 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>7. 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>8. 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>9. 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>10. 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="368.94732666015625"></th><th width="70.26312255859375" align="center"></th><th width="69.57891845703125" align="center"></th><th width="70.10528564453125" align="center"></th><th width="68.4869384765625" align="center"></th></tr></thead><tbody><tr><td>문항</td><td align="center">대부분</td><td align="center">때때로</td><td align="center">드물게</td><td align="center">전혀</td></tr><tr><td><ol><li>재미있는 것을 보며 웃을 수 있다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>즐거운 기대감에 어떤 일을 기다렸다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="3"><li>무언가 잘못되었을 때 필요 이상으로 자책했다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td><ol start="4"><li>특별한 이유 없이 불안해지거나 걱정했다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td><ol start="5"><li>특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>6. 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>7. 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>8. 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>9. 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>10. 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
 
-![image](../.gitbook/assets/ffc1671c-e35a-4d5f-b24f-0ed9c1c94112.JPG)
-
-### 검사
+### <mark style="color:$primary;">검사</mark>
 
 * TSH, Vit B12, folate, Vit D
 
 ***
 
-## Management
+## <mark style="background-color:$warning;">Management</mark>
 
-### 모유 수유를 하지 않는 산모
+### <mark style="color:$primary;">모유 수유를 하지 않는 산모</mark>
 
 * 일반 우울증 치료와 동일 (☞ p.129)
 
-### 모유 수유 산모
+### <mark style="color:$primary;">모유 수유 산모</mark>
 
 * 모유 수유 유지 (✽항우울제를 복용하면 모유로 항우울제가 분비되지만 수유 가능)
 * 신생아와의 적절한 접촉 유지 (예: 신생아 마사지)
@@ -92,25 +91,36 @@
 * 적당한 영양 및 수분 섭취
 * 복합 Vit/미네랄, 오메가-3 공급
 
-### 약제
+### <mark style="color:$primary;">약제</mark>
 
 * 경증\~중등증 : 항우울제 단독, 항우울제+비정형 항정신병제
-*   중증 : 항우울제+비정형 항정신병제
-
-    •정신병적 양상이 동반된 중증 : 항우울제+비정형 항정신병제
+* 중증 : 항우울제+비정형 항정신병제
+  * 정신병적 양상이 동반된 중증 : 항우울제+비정형 항정신병제
 
 #### 항우울제
 
-*   선택 : SSRI, TCA (☞ p.1146)
-
-    •paroxetine, sertraline이 보다 적게 모유로 분비됨
+* 선택 : SSRI, TCA (☞ p.1146)
+  * paroxetine, sertraline이 보다 적게 모유로 분비됨
 * 저용량으로 시작 → 점차 증량; 산모 및 영아의 부작용 모니터링
 * paroxetine : 10~~60 ㎎/d \[세로자트]; CR 12.5 ㎎/d, 25~~62.5 ㎎/d \[팍실 CR]
 * sertraline : 50\~200 ㎎/d \[졸로푸트]
 * nortriptyline : 25\~150 ㎎/d; 근골격 통증 적응 \[센시발]; 자살 충동이 있는 경우에는 피함
 
-> **질병코드** F53 달리 분류되지 않은 산후기의 정신 및 행동 장애
+***
+
+### <mark style="color:purple;">질병코드</mark>
+
+F53 달리 분류되지 않은 산후기의 정신 및 행동 장애
 
 O90 달리 분류되지 않은 산후기의 합병증
 
-![image](../.gitbook/assets/e04ebe39-9afa-4734-9277-6a836411c7f6.JPG)
+***
+
+## <mark style="color:orange;">처방례</mark>
+
+처방례 1.\
+졸로푸트 50 ㎎/T 1T qd 아침
+
+\
+처방례 2. 수면장애 동반 시\
+센시발 25 ㎎/T 1T qd 취침 시
