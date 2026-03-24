@@ -19,8 +19,8 @@
 <mark style="color:$danger;">**즉각 이송/응급 평가 — 생명 위협 또는 즉각적 위해 가능성**</mark>
 
 * 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우
-* **영아 또는 다른 자녀에 대한 해코지 사고(Infanticidal/filicidal ideation)** — 즉각 이송 및 아동 안전 확보
-* **산후 정신증(Postpartum psychosis) 의심** : 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 — 정신건강의학과 긴급 입원 필요
+* 영아 또는 다른 자녀에 대한 해코지 사고(Infanticidal/filicidal ideation) - 즉각 이송 및 아동 안전 확보
+* 산후 정신증(Postpartum psychosis) 의심 : 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 - 정신건강의학과 긴급 입원 필요
 
 <mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
 
@@ -80,15 +80,26 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
+**핵심 증상** (DSM-5 진단 필수 - 반드시 1개 이상 포함)
+
 * 우울 기분 또는 과민
-* 일상생활에서 즐거움이 없음
-* 집중력 저하
-* 수면 패턴 변화(불면 또는 과수면)
-* 스스로 가치가 없다고 생각 또는 죄책감
+* 일상생활에서 즐거움이 없음 (Anhedonia)
+
+**흔한 증상** (빈도 높음)
+
+* 피로 또는 활력 상실
+* 수면 패턴 변화 (불면 또는 과수면)
 * 우는 일이 많아짐
 * 체중 또는 식욕 변화
-* 피로 또는 활력 상실
+* 집중력 저하
+
+**중등도 이상에서 두드러지는 증상**
+
+* 스스로 가치가 없다고 생각 또는 죄책감
 * 사회적 상호 작용 또는 책임 있는 일을 피함
+
+**🚩 즉시 평가 필요**
+
 * 자살, 죽음, 또는 일상으로부터의 탈출에 대한 빈번한 생각
 
 **산후우울증 특이 증상**
@@ -113,22 +124,11 @@
 * 출산 후 6\~8주째 적용 권장; 첫 1년 동안 반복 적용 가능
 * 지난 일주일간 자신의 기분에 해당된다고 생각하는 항목에 표시
 
-<table><thead><tr><th width="370">문항</th><th align="center">대부분</th><th align="center">때때로</th><th align="center">드물게</th><th align="center">전혀</th></tr></thead><tbody>
-<tr><td>① 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr>
-<tr><td>② 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr>
-<tr><td>③ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
-<tr><td>④ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
-<tr><td>⑤ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
-<tr><td>⑥ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
-<tr><td>⑦ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
-<tr><td>⑧ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
-<tr><td>⑨ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
-<tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
-</tbody></table>
+<table><thead><tr><th width="370">문항</th><th align="center">대부분</th><th align="center">때때로</th><th align="center">드물게</th><th align="center">전혀</th></tr></thead><tbody><tr><td>① 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>② 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>③ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>④ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑤ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑥ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑦ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑧ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑨ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
 
 ▶배점 : ①②번은 대부분=0 → 전혀=3; ③\~⑩번은 역채점(대부분=3 → 전혀=0)
 
-▶판정 : ≥10점 우울증 의심; **⑩번(자해 사고) 1점 이상 시 점수와 무관하게 즉시 평가 권고**
+▶판정 : ≥10점 우울증 의심; ⑩번(자해 사고) 1점 이상 시 점수와 무관하게 즉시 평가 권고
 
 ### <mark style="color:$primary;">검사</mark>
 
@@ -157,8 +157,8 @@
 
 ### <mark style="color:$primary;">심리치료</mark>
 
-* **인지행동치료(CBT)** : 경증\~중등증에서 항우울제와 동등한 효과; 가능하면 병행 권고
-* **대인관계치료(IPT)** : 역할 전환(모성 적응), 대인 갈등 해소에 특히 효과적; 산후우울증 1차 심리치료로 권고
+* 인지행동치료(CBT) : 경증\~중등증에서 항우울제와 동등한 효과; 가능하면 병행 권고
+* 대인관계치료(IPT) : 역할 전환(모성 적응), 대인 갈등 해소에 특히 효과적; 산후우울증 1차 심리치료로 권고
 * 지지 치료, mindfulness 기반 치료 : 보조적으로 활용
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -171,23 +171,18 @@
 
 #### 항우울제
 
-* **1차 선택 : sertraline, escitalopram** — 모유 이행량 적고 안전 근거 비교적 충분; 영아 혈중 농도 매우 낮음
+* 1차 선택 : sertraline, escitalopram - 모유 이행량 적고 안전 근거 비교적 충분; 영아 혈중 농도 매우 낮음
 * 저용량으로 시작 → 점차 증량; 산모 및 영아의 부작용 모니터링
 * paroxetine : 모유 이행량 적으나 신생아 지속성 폐고혈압(PPHN) 및 금단 증상 위험 고려; 임신 중 사용 주의
 * nortriptyline : 자살 충동이 있는 경우에는 피함
-* **신생아 모니터링** : 모유 수유 중 항우울제 복용 시 영아의 졸림, 수유 장애, 체중 증가 불량 여부 관찰
+* 신생아 모니터링 : 모유 수유 중 항우울제 복용 시 영아의 졸림, 수유 장애, 체중 증가 불량 여부 관찰
 
-<table><thead><tr><th width="251">항우울제</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody>
-<tr><td>sertraline [졸로푸트]</td><td>25~50</td><td>50~200</td></tr>
-<tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr>
-<tr><td>paroxetine [세로자트]</td><td>10</td><td>20~60</td></tr>
-<tr><td>nortriptyline [센시발]</td><td>25</td><td>25~150</td></tr>
-</tbody></table>
+<table><thead><tr><th width="251">항우울제</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>sertraline [졸로푸트]</td><td>25~50</td><td>50~200</td></tr><tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine [세로자트]</td><td>10</td><td>20~60</td></tr><tr><td>nortriptyline [센시발]</td><td>25</td><td>25~150</td></tr></tbody></table>
 
-#### Zuranolone (주르주베)
+#### Zuranolone
 
 * GABA-A 수용체 양성 조절제(neuroactive steroid); 산후우울증 전용 경구 치료제
-* 2023년 FDA 승인; **국내 미허가** (2025년 현재)
+* 2023년 FDA 승인; 국내 미허가 (2025년 현재)
 * 특징 : 효과 발현 매우 빠름(투여 후 3일); 14일 단기 과정(50 mg qd 취침 시)
 * 모유 이행 데이터 제한적 — 수유 중 사용 시 수유 중단 또는 수유와 투약 간격 조정 권고
 * \[부작용] 졸림, 어지럼, 진정, 두통
@@ -238,7 +233,7 @@ O90 달리 분류되지 않은 산후기의 합병증
 
 > **산후우울증 약물 복용 안내**
 >
-> * 항우울제는 복용 후 **2~4주 후부터** 서서히 효과가 나타납니다. 처음에는 효과가 느껴지지 않더라도 임의로 중단하지 마십시오.
+> * 항우울제는 복용 후 **2\~4주 후부터** 서서히 효과가 나타납니다. 처음에는 효과가 느껴지지 않더라도 임의로 중단하지 마십시오.
 > * 모유 수유 중에도 항우울제를 복용할 수 있습니다. 약이 모유로 매우 소량 이행되나, 치료를 중단하는 것보다 복용을 유지하는 것이 산모와 아기 모두에게 더 안전합니다.
 > * 증상이 좋아졌더라도 **담당 의사와 상의 없이 임의로 중단하지 마십시오.** 갑자기 끊으면 어지럼, 저림, 구역 등 금단 증상이 생길 수 있습니다.
 > * 아기에 대한 걱정이나 부정적인 생각이 드는 것은 산후우울증의 증상일 수 있습니다. 혼자 감추지 말고 담당 의사에게 솔직히 말씀해 주십시오.
@@ -247,7 +242,7 @@ O90 달리 분류되지 않은 산후기의 합병증
 >
 > * 자해나 자살에 대한 생각이 드는 경우 — 즉시 내원 또는 정신건강 위기상담 전화 **(1577-0199)**
 > * 아기를 해치고 싶다는 생각이 드는 경우 — 즉시 내원
-> * 2~4주 복용 후에도 증상이 전혀 나아지지 않는 경우
+> * 2\~4주 복용 후에도 증상이 전혀 나아지지 않는 경우
 > * 영아가 평소보다 많이 졸리거나 수유를 잘 못 하는 경우
 
 ***
@@ -262,14 +257,14 @@ O90 달리 분류되지 않은 산후기의 합병증
 
 #### 산후 우울 기분과 산후우울증은 어떻게 다른가요?
 
-* **산후 우울 기분(Baby blues)** : 출산 후 2~3일 내에 생기는 일시적인 감정 기복으로, 2주 이내에 자연스럽게 사라짐. 산모의 절반 이상에서 경험하는 정상적인 반응
+* **산후 우울 기분(Baby blues)** : 출산 후 2\~3일 내에 생기는 일시적인 감정 기복으로, 2주 이내에 자연스럽게 사라짐. 산모의 절반 이상에서 경험하는 정상적인 반응
 * **산후우울증** : 2주 이상 지속되는 우울감, 무기력, 불안, 아기에 대한 관심 저하 등이 나타나는 상태. 치료가 필요함
 
 #### 어떻게 치료하나요?
 
-* **약물 치료** : 항우울제를 주로 사용; 모유 수유 중에도 안전하게 사용할 수 있는 약이 있으며, 효과는 2~4주에 걸쳐 서서히 나타남
+* **약물 치료** : 항우울제를 주로 사용; 모유 수유 중에도 안전하게 사용할 수 있는 약이 있으며, 효과는 2\~4주에 걸쳐 서서히 나타남
 * **심리 치료** : 인지행동치료(CBT), 대인관계치료(IPT) 등이 약물 치료와 병행 시 효과적
-* **치료 기간** : 증상이 호전되어도 재발 방지를 위해 보통 6~12개월 이상 유지 권장
+* **치료 기간** : 증상이 호전되어도 재발 방지를 위해 보통 6\~12개월 이상 유지 권장
 
 #### 생활 속 실천 사항
 
