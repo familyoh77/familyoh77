@@ -4,38 +4,79 @@
 
 * 분만(또는 입양) 후 12개월 내 시작되거나 재발한 주요우울증; 주로 12주 내 발생
 * 빈도 : \~20%
+* 진단 기준은 일반 주요우울장애와 동일하나, 산후 특이적 증상(영아에 대한 관심 상실, 육아 능력에 대한 의심, 영아 해코지 사고)에 유의
+* DSM-5 공식 명칭 : 주요우울장애의 '주산기 발병(peripartum onset)' 명시자; 임신 중 또는 출산 후 4주 이내를 공식 기준으로 하나, 임상적으로는 출산 후 12개월까지를 산후우울증으로 통용함 (☞ [우울증](027_-depression.md))
 
-### <mark style="color:$primary;">산후 우울 기분 (Postpartum blue)</mark>
+### <mark style="color:$primary;">산후 우울 기분 (Postpartum blues)</mark>
 
-* 출산 후 일시적으로 발생하는 경증 우울; 출산 후 2\~3일내 발생하여 2주 내 회복
-* 빈도 : 산모의 30\~70%에서 발생
+* 출산 후 일시적으로 발생하는 경증 우울; 출산 후 2\~3일 내 발생하여 2주 내 자연 소실
+* 빈도 : 산모의 30\~70%
 * 증상 : 불쾌감, 불면, 감정 기복/정서 불안, 집중력 저하
+* 치료 불필요; 2주 이상 지속 시 산후우울증으로 전환 가능성 — 추적 평가 권고
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 이송/응급 평가 — 생명 위협 또는 즉각적 위해 가능성**</mark>
+
+* 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우
+* **영아 또는 다른 자녀에 대한 해코지 사고(Infanticidal/filicidal ideation)** — 즉각 이송 및 아동 안전 확보
+* **산후 정신증(Postpartum psychosis) 의심** : 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 — 정신건강의학과 긴급 입원 필요
+
+<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
+
+* 자살 사고가 있으나 구체적 계획은 없는 경우 (EPDS 10번 항목 1점 이상)
+* 영아 돌봄 전면 불가 상태 (극도의 무기력, 신생아 방치 위험)
+* 중증 삽화로 일상생활 전면 불가
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 — 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
+
+* 치료에 반응하지 않는 경우 (적절한 용량·기간 치료 후에도 미호전)
+* 산후 우울 기분(Postpartum blues)이 2주 이상 지속되는 경우
 
 ## <mark style="color:green;">원인</mark>
 
 * 불확실
-*   추정 요인 : 호르몬(예: estrogen, progesterone) 변동, cytokine, HPA axis 호르몬, 지방산, arginine vasopressin,
-
-    oxytocin, neuro-biologic deficit, 염증, 스트레스
+* 추정 요인 : 출산 후 estrogen·progesterone 급격한 감소, cortisol·HPA axis 변화, cytokine·염증 반응, oxytocin·arginine vasopressin 변동, 수면 박탈, 심리사회적 스트레스
 
 ### <mark style="color:$primary;">위험 인자</mark>
 
-* 원치 않는 임신
+**과거력 및 유전**
+
+* 산후우울증 병력 (가장 강력한 단일 위험 인자)
+* 주요우울증 병력, 월경전증후군(PMDD) 병력
+* 우울증 가족력
+
+**인구학적 특성**
+
 * 어린 연령 산모
+* 낮은 사회 경제적 상태, 낮은 교육 수준
+
+**임신·분만 관련**
+
+* 원치 않는 임신
 * 조산/저체중 출산, 다자녀
 * 분만 후 통증
 * 임신 중 불안증
-* 육아 스트레스
-* 지원 감소
-* 수면 장애, 피로
+
+**심리·성격적 요인**
+
 * 낮은 자존감
-* 알코올 남용
-* 생활 스트레스, 최근 이사
+* 임신 중 우울/불안 증상
+
+**사회·환경적 요인**
+
+* 육아 스트레스, 지원 감소
 * 관계 단절, 부부 갈등
-* 낮은 사회 경제적 상태
-* 산후우울증 병력, 주요우울증 병력, 월경전증후군
+* 생활 스트레스, 최근 이사
 * 성폭행 피해력
-* 우울증 가족력
+
+**신체·의학적 요인**
+
+* 수면 장애, 피로
+
+**행동·물질 관련**
+
+* 알코올 남용
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -48,27 +89,46 @@
 * 체중 또는 식욕 변화
 * 피로 또는 활력 상실
 * 사회적 상호 작용 또는 책임 있는 일을 피함
-* 망상 또는 환각
 * 자살, 죽음, 또는 일상으로부터의 탈출에 대한 빈번한 생각
+
+**산후우울증 특이 증상**
+
 * 신생아 또는 다른 자녀에 대한 관심 상실
-* 엄마로서의 능력에 대하여 의심
+* 엄마로서의 능력에 대한 의심
 * 자신이 아기를 해칠 수 있다는 생각 또는 걱정
+* 망상 또는 환각 (산후 정신증 감별 필요)
 
 ## <mark style="color:green;">진단</mark>
 
 * postpartum unipolar major depression의 진단 기준은 비-산모 진단 기준과 동일함 (☞ [우울증](027_-depression.md#dsm-5))
 
-### 선별 검사
+### <mark style="color:$primary;">선별 검사</mark>
 
-* 모든 산모에 대하여 1,3분기 및 산욕기에 선별 검사(예: 에든버러 산후우울증 척도, [PHQ-9](027_-depression.md#phq-9)) 권고
+* \[USPSTF 2023] 모든 임산부 및 산후 여성에 대해 임신 중·산후 전 기간에 걸쳐 선별 검사 권고
+* 시기 : 임신 1·3분기 및 산후 4\~6주, 6개월 — 최소 2회 이상
+* 도구 : Edinburgh Postnatal Depression Scale(EPDS), PHQ-9
 
-#### 에든버러 산후우울증 척도 (Edinburgh postnatal depression scale)
+#### 에든버러 산후우울증 척도 (Edinburgh Postnatal Depression Scale, EPDS)
 
-* 출산 후 6\~8주째에 적용 (첫 1년 동안 적용 가능)
+* 출산 후 6\~8주째 적용 권장; 첫 1년 동안 반복 적용 가능
 * 지난 일주일간 자신의 기분에 해당된다고 생각하는 항목에 표시
-* 판정 : 0\~9점=정상, ≥10점=우울증 의심
 
-<table data-header-hidden><thead><tr><th width="368.94732666015625"></th><th width="70.26312255859375" align="center"></th><th width="69.57891845703125" align="center"></th><th width="70.10528564453125" align="center"></th><th width="68.4869384765625" align="center"></th></tr></thead><tbody><tr><td>문항</td><td align="center">대부분</td><td align="center">때때로</td><td align="center">드물게</td><td align="center">전혀</td></tr><tr><td><ol><li>재미있는 것을 보며 웃을 수 있다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>즐거운 기대감에 어떤 일을 기다렸다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="3"><li>무언가 잘못되었을 때 필요 이상으로 자책했다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td><ol start="4"><li>특별한 이유 없이 불안해지거나 걱정했다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td><ol start="5"><li>특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</li></ol></td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>6. 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>7. 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>8. 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>9. 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>10. 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
+<table><thead><tr><th width="370">문항</th><th align="center">대부분</th><th align="center">때때로</th><th align="center">드물게</th><th align="center">전혀</th></tr></thead><tbody>
+<tr><td>① 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr>
+<tr><td>② 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr>
+<tr><td>③ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
+<tr><td>④ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
+<tr><td>⑤ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
+<tr><td>⑥ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
+<tr><td>⑦ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
+<tr><td>⑧ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
+<tr><td>⑨ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
+<tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr>
+</tbody></table>
+
+▶배점 : ①②번은 대부분=0 → 전혀=3; ③\~⑩번은 역채점(대부분=3 → 전혀=0)
+
+▶판정 : ≥10점 우울증 의심; **⑩번(자해 사고) 1점 이상 시 점수와 무관하게 즉시 평가 권고**
 
 ### <mark style="color:$primary;">검사</mark>
 
@@ -78,18 +138,30 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">모유 수유를 하지 않는 산모</mark>
+### <mark style="color:$primary;">치료 방침</mark>
 
-* 일반 우울증 치료와 동일 (☞ p.129)
+* 경증 : 지지 치료·심리치료 우선; 증상 지속 시 약물 추가
+* 중등증\~중증 : 약물 치료 + 심리치료 병행 권고
+* 모유 수유 여부에 따라 약제 선택 조정
 
-### <mark style="color:$primary;">모유 수유 산모</mark>
+## <mark style="color:green;">비약물 치료</mark>
 
-* 모유 수유 유지 (✽항우울제를 복용하면 모유로 항우울제가 분비되지만 수유 가능)
+### <mark style="color:$primary;">모유 수유 산모 일반 관리</mark>
+
+* 모유 수유 유지 (✽항우울제 복용 시 모유로 소량 분비되나 수유 가능; 수유 중단보다 치료 유지가 우선)
 * 신생아와의 적절한 접촉 유지 (예: 신생아 마사지)
 * 밝은 환경 유지, 활동
-* 신생아 수면 관리 (필요시 주변의 도움 요청)
+* 신생아 수면 관리 (필요 시 주변의 도움 요청)
 * 적당한 영양 및 수분 섭취
 * 복합 Vit/미네랄, 오메가-3 공급
+
+### <mark style="color:$primary;">심리치료</mark>
+
+* **인지행동치료(CBT)** : 경증\~중등증에서 항우울제와 동등한 효과; 가능하면 병행 권고
+* **대인관계치료(IPT)** : 역할 전환(모성 적응), 대인 갈등 해소에 특히 효과적; 산후우울증 1차 심리치료로 권고
+* 지지 치료, mindfulness 기반 치료 : 보조적으로 활용
+
+## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:$primary;">약제</mark>
 
@@ -99,12 +171,26 @@
 
 #### 항우울제
 
-* 선택 : SSRI, TCA (☞ p.1146)
-  * paroxetine, sertraline이 보다 적게 모유로 분비됨
+* **1차 선택 : sertraline, escitalopram** — 모유 이행량 적고 안전 근거 비교적 충분; 영아 혈중 농도 매우 낮음
 * 저용량으로 시작 → 점차 증량; 산모 및 영아의 부작용 모니터링
-* paroxetine : 10~~60 ㎎/d \[세로자트]; CR 12.5 ㎎/d, 25~~62.5 ㎎/d \[팍실 CR]
-* sertraline : 50\~200 ㎎/d \[졸로푸트]
-* nortriptyline : 25\~150 ㎎/d; 근골격 통증 적응 \[센시발]; 자살 충동이 있는 경우에는 피함
+* paroxetine : 모유 이행량 적으나 신생아 지속성 폐고혈압(PPHN) 및 금단 증상 위험 고려; 임신 중 사용 주의
+* nortriptyline : 자살 충동이 있는 경우에는 피함
+* **신생아 모니터링** : 모유 수유 중 항우울제 복용 시 영아의 졸림, 수유 장애, 체중 증가 불량 여부 관찰
+
+<table><thead><tr><th width="251">항우울제</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody>
+<tr><td>sertraline [졸로푸트]</td><td>25~50</td><td>50~200</td></tr>
+<tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr>
+<tr><td>paroxetine [세로자트]</td><td>10</td><td>20~60</td></tr>
+<tr><td>nortriptyline [센시발]</td><td>25</td><td>25~150</td></tr>
+</tbody></table>
+
+#### Zuranolone (주르주베)
+
+* GABA-A 수용체 양성 조절제(neuroactive steroid); 산후우울증 전용 경구 치료제
+* 2023년 FDA 승인; **국내 미허가** (2025년 현재)
+* 특징 : 효과 발현 매우 빠름(투여 후 3일); 14일 단기 과정(50 mg qd 취침 시)
+* 모유 이행 데이터 제한적 — 수유 중 사용 시 수유 중단 또는 수유와 투약 간격 조정 권고
+* \[부작용] 졸림, 어지럼, 진정, 두통
 
 ***
 
@@ -118,9 +204,82 @@ O90 달리 분류되지 않은 산후기의 합병증
 
 ## <mark style="color:orange;">처방례</mark>
 
-처방례 1.\
-졸로푸트 50 ㎎/T 1T qd 아침
+> **처방례 1.** 기본 — SSRI 단독 (모유 수유 산모)
+>
+> ```
+> 졸로푸트 50 mg/T  1T  qd  아침
+> ※ 저용량(25 mg)으로 시작하여 1~2주 후 50 mg으로 증량 가능
+> ※ 모유 이행량 적음 — 수유 중 사용 가능; 영아 졸림·수유 장애 모니터링
+> ※ 효과 판정은 4~6주 후; 치료 반응 시 최소 6~12개월 유지
+> ※ 중단 시 4주에 걸쳐 서서히 감량
+> ```
 
-\
-처방례 2. 수면장애 동반 시\
-센시발 25 ㎎/T 1T qd 취침 시
+> **처방례 2.** 수면 장애 동반
+>
+> ```
+> 센시발 25 mg/T  1T  qd  취침 시
+> ※ 자살 충동이 있는 경우 사용 피함
+> ※ 항콜린성 부작용(입마름, 변비, 요 정체) 사전 설명
+> ※ 모유로 소량 분비 — 영아 모니터링 필요
+> ```
+
+> **처방례 3.** SSRI 불내성 또는 불안 동반
+>
+> ```
+> 렉사프로 10 mg/T  1T  qd  조식 후
+> ※ 5 mg으로 시작하여 1~2주 후 10 mg으로 증량
+> ※ 고령자·신장 기능 저하 시 10 mg 이하로 유지
+> ※ 모유 이행량 적음 — 수유 중 사용 가능
+> ```
+
+***
+
+### <mark style="color:purple;">핵심 복약 지도</mark>
+
+> **산후우울증 약물 복용 안내**
+>
+> * 항우울제는 복용 후 **2~4주 후부터** 서서히 효과가 나타납니다. 처음에는 효과가 느껴지지 않더라도 임의로 중단하지 마십시오.
+> * 모유 수유 중에도 항우울제를 복용할 수 있습니다. 약이 모유로 매우 소량 이행되나, 치료를 중단하는 것보다 복용을 유지하는 것이 산모와 아기 모두에게 더 안전합니다.
+> * 증상이 좋아졌더라도 **담당 의사와 상의 없이 임의로 중단하지 마십시오.** 갑자기 끊으면 어지럼, 저림, 구역 등 금단 증상이 생길 수 있습니다.
+> * 아기에 대한 걱정이나 부정적인 생각이 드는 것은 산후우울증의 증상일 수 있습니다. 혼자 감추지 말고 담당 의사에게 솔직히 말씀해 주십시오.
+
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 자해나 자살에 대한 생각이 드는 경우 — 즉시 내원 또는 정신건강 위기상담 전화 **(1577-0199)**
+> * 아기를 해치고 싶다는 생각이 드는 경우 — 즉시 내원
+> * 2~4주 복용 후에도 증상이 전혀 나아지지 않는 경우
+> * 영아가 평소보다 많이 졸리거나 수유를 잘 못 하는 경우
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**산후우울증은 엄마의 잘못이 아닙니다**
+
+산후우울증은 출산 후 호르몬 변화와 신체적·심리적 스트레스가 복합적으로 작용하여 생기는 질환입니다. 적절한 치료를 통해 충분히 회복될 수 있습니다.
+{% endhint %}
+
+#### 산후 우울 기분과 산후우울증은 어떻게 다른가요?
+
+* **산후 우울 기분(Baby blues)** : 출산 후 2~3일 내에 생기는 일시적인 감정 기복으로, 2주 이내에 자연스럽게 사라짐. 산모의 절반 이상에서 경험하는 정상적인 반응
+* **산후우울증** : 2주 이상 지속되는 우울감, 무기력, 불안, 아기에 대한 관심 저하 등이 나타나는 상태. 치료가 필요함
+
+#### 어떻게 치료하나요?
+
+* **약물 치료** : 항우울제를 주로 사용; 모유 수유 중에도 안전하게 사용할 수 있는 약이 있으며, 효과는 2~4주에 걸쳐 서서히 나타남
+* **심리 치료** : 인지행동치료(CBT), 대인관계치료(IPT) 등이 약물 치료와 병행 시 효과적
+* **치료 기간** : 증상이 호전되어도 재발 방지를 위해 보통 6~12개월 이상 유지 권장
+
+#### 생활 속 실천 사항
+
+* **도움 요청하기** : 혼자 모든 것을 감당하려 하지 말고 배우자, 가족, 지인에게 도움을 요청하세요
+* **수면 확보** : 아기가 잘 때 함께 쉬고, 밤중 수유는 가능하면 교대로 하세요
+* **규칙적인 가벼운 운동** : 산책 등 가벼운 활동이 기분 개선에 도움이 됩니다
+* **사회적 연결** : 산후우울증 자조 모임이나 육아 커뮤니티를 통해 비슷한 경험을 나누세요
+
+#### 이럴 때는 즉시 도움을 요청하세요
+
+* 스스로를 해치거나 죽고 싶다는 생각이 드는 경우 — 즉시 내원 또는 **정신건강 위기상담 전화 1577-0199**
+* 아기를 해치고 싶다는 생각이 드는 경우 — 즉시 내원
+* 환청이 들리거나 현실과 다른 생각(망상)이 드는 경우 (산후 정신증 가능성)
