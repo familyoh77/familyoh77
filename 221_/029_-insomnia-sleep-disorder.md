@@ -71,38 +71,39 @@
 
 ([대한수면연구학회](https://www.sleepnet.or.kr/))
 
-* 아래의 상황들에서 당신은 어느 정도나 졸음을 느끼십니까?
+* 아래의 7가지상황들에서 당신은 어느 정도나 졸음을 느끼십니까?
 * 배점 : 전혀 졸지 않는다( 0점), 가끔 졸음에 빠진다(1점), 종종 졸음에 빠진다(2점), 자주 졸음에 빠진다(3점)
 
-<table><thead><tr><th width="347.8946533203125">활동</th><th width="79.57891845703125" align="center">졸리운</th><th width="74.5263671875" align="center">정도</th><th width="74.26318359375" align="center"></th><th width="73.7501220703125" align="center"></th></tr></thead><tbody><tr><td>앉아서 책을 읽을때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>텔레비젼을 볼 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>극장이나 회의석상과 같은 공공 장소에서 가만히 앉아있을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>오후 휴식 시간에 편안히 누워 있을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>앉아서 누군가에게 말을 하고 있을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>점심 식사 후 조용히 앉아 있을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>차를 운전하고 가다가 교통 체증으로 몇 분간 멈추었을 때</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
-
-![image](../.gitbook/assets/19f3d460-4ab2-4106-b972-eb94c766e005.png)
+- [ ] 앉아서 책을 읽을 때
+- [ ] 텔레비젼을 볼 때
+- [ ] 극장이나 회의석상과 같은 공공 장소에서 가만히 앉아있을 때
+- [ ] 오후 휴식 시간에 편안히 누워 있을 때
+- [ ] 앉아서 누군가에게 말을 하고 있을 때
+- [ ] 점심 식사 후 조용히 앉아 있을 때
+- [ ] 차를 운전하고 가다가 교통 체증으로 몇 분간 멈추었을 때
 
 * 판정 : ＜10점 정상, ≥10점 경증, 14\~18점 중등증, ≥19점 중증 주간 졸림증
 
-#### 불면증 자가 진단 [대한수면연구학회](../\[https:/www.sleepnet.or.kr]\(https:/www.sleepnet.or.kr\))
+#### 불면증 자가 진단
 
-1.  당신의 불면증에 관한 문제들의 현재(최근2주간) 심한 정도를 표시해 주세요.
+1. 당신의 불면증에 관한 문제들의 현재(최근2주간) 심한 정도를 표시해 주세요.
+2.
 
-    ![image](../.gitbook/assets/2055d6d2-5f65-44d0-9404-cf283a2208c2.png)
-2.  현재 수면 양상에 관하여 얼마나 만족하고 있습니까?
+    <table><thead><tr><th width="254">활동</th><th width="70.105224609375" align="center">없음</th><th width="70.105224609375" align="center">약간</th><th width="70.10528564453125" align="center">중간</th><th width="69.631591796875" align="center">심함</th><th width="88.66033935546875" align="center">매우 심함</th></tr></thead><tbody><tr><td>잠들기 어렵다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td></tr><tr><td>잠을 유지하기 어렵다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td></tr><tr><td>쉽게 깬다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td></tr></tbody></table>
+3.  현재 수면 양상에 관하여 얼마나 만족하고 있습니까?
 
     매우 만족(0점), 약간 만족(2점), 그저 그렇다(3점), 약간 불만족(점), 매우 불만족(4점)
-3.  당신의 수면 장애가 어느 정도나 당신의 낮 활동을 방해 한다고 생각합니까?
-
-    ```
-     (예. 낮에 피곤함, 직장이나 가사에 일하는 능력, 집중력, 기억력, 기분, 등).
-    ```
+4.  당신의 수면 장애가 어느 정도나 당신의 낮 활동을 방해 한다고 생각합니까?  (예. 낮에 피곤함, 직장이나 가사에 일하는 능력, 집중력, 기억력, 기분, 등).
 
     전혀(0점), 약간(2점), 다소(3점), 상당히(점), 매우 많이(4점)
-4.  불면증으로 인한 장애가 당신의 삶의 질의 손상정도를 다른 사람들에게 어떻게 보인다고 생각합니까?
+5.  불면증으로 인한 장애가 당신의 삶의 질의 손상정도를 다른 사람들에게 어떻게 보인다고 생각합니까?
 
     전혀(0점), 약간(2점), 다소(3점), 상당히(점), 매우 많이(4점)
-5.  당신은 현재 불면증에 관하여 얼마나 걱정하고 있습니까?
+6.  당신은 현재 불면증에 관하여 얼마나 걱정하고 있습니까?
 
     전혀 그렇지 않다(0점), 약간 만족(2점), 그저 그렇다(3점), 약간 불만족(점), 매우 불만족(4점)
 
-* 판정: 0~~7점 유의할 만한 불면증 없음, 8~~14 점 경증, 15~~21 점 중등증, 22~~28점 중증 불면증
+* 판정: 0\~~~7점 유의할 만한 불면증 없음, 8\~~~14 점 경증, 15\~~~21 점 중등증, 22\~~~28점 중증 불면증
 
 ### 감별
 
