@@ -14,25 +14,6 @@
 * 증상 : 불쾌감, 불면, 감정 기복/정서 불안, 집중력 저하
 * 치료 불필요; 2주 이상 지속 시 산후우울증으로 전환 가능성 — 추적 평가 권고
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 이송/응급 평가 — 생명 위협 또는 즉각적 위해 가능성**</mark>
-
-* 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우
-* 영아 또는 다른 자녀에 대한 해코지 사고(Infanticidal/filicidal ideation) - 즉각 이송 및 아동 안전 확보
-* 산후 정신증(Postpartum psychosis) 의심 : 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 - 정신건강의학과 긴급 입원 필요
-
-<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
-
-* 자살 사고가 있으나 구체적 계획은 없는 경우 (EPDS 10번 항목 1점 이상)
-* 영아 돌봄 전면 불가 상태 (극도의 무기력, 신생아 방치 위험)
-* 중증 삽화로 일상생활 전면 불가
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 — 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
-
-* 치료에 반응하지 않는 경우 (적절한 용량·기간 치료 후에도 미호전)
-* 산후 우울 기분(Postpartum blues)이 2주 이상 지속되는 경우
-
 ## <mark style="color:green;">원인</mark>
 
 * 불확실
@@ -106,6 +87,25 @@
 * 자신이 아기를 해칠 수 있다는 생각 또는 걱정
 * 망상 또는 환각 (산후 정신증 감별 필요)
 
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 이송/응급 평가 — 생명 위협 또는 즉각적 위해 가능성**</mark>
+
+* 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우
+* 영아 또는 다른 자녀에 대한 해코지 사고(Infanticidal/filicidal ideation) - 즉각 이송 및 아동 안전 확보
+* 산후 정신증(Postpartum psychosis) 의심 : 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 - 정신건강의학과 긴급 입원 필요
+
+<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
+
+* 자살 사고가 있으나 구체적 계획은 없는 경우 (EPDS 10번 항목 1점 이상)
+* 영아 돌봄 전면 불가 상태 (극도의 무기력, 신생아 방치 위험)
+* 중증 삽화로 일상생활 전면 불가
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 — 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
+
+* 치료에 반응하지 않는 경우 (적절한 용량·기간 치료 후에도 미호전)
+* 산후 우울 기분(Postpartum blues)이 2주 이상 지속되는 경우
+
 ## <mark style="color:green;">진단</mark>
 
 * postpartum unipolar major depression의 진단 기준은 비-산모 진단 기준과 동일함 (☞ [우울증](027_-depression.md#dsm-5))
@@ -121,7 +121,7 @@
 * 출산 후 6\~8주째 적용 권장; 첫 1년 동안 반복 적용 가능
 * 지난 일주일간 자신의 기분에 해당된다고 생각하는 항목에 표시
 
-<table><thead><tr><th width="370">문항</th><th align="center">대부분</th><th align="center">때때로</th><th align="center">드물게</th><th align="center">전혀</th></tr></thead><tbody><tr><td>① 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>② 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>③ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>④ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑤ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑥ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑦ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑧ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑨ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
+<table><thead><tr><th width="370">문항</th><th width="79.5789794921875" align="center">대부분</th><th width="79.57891845703125" align="center">때때로</th><th width="79.5789794921875" align="center">드물게</th><th width="75.05255126953125" align="center">전혀</th></tr></thead><tbody><tr><td>① 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>② 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>③ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>④ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑤ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑥ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑦ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑧ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑨ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
 
 ▶배점 : ①②번은 대부분=0 → 전혀=3; ③\~⑩번은 역채점(대부분=3 → 전혀=0)
 
