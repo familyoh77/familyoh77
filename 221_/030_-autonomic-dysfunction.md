@@ -21,9 +21,9 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-* 기립성 저혈압 치료 (☞ ㄱ)
+* 기립성 저혈압 치료 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
 * 소화 장애, 요실금 등 증상 치료
-* 기저 질환 치료 : 알코올 남용(☞ p.995), 당뇨병(☞ p.540), 파킨슨병 (☞ p.169)
+* 기저 질환 치료 : 알코올 남용(☞ [알코올 사용 장애](../230_/189_-alcohol-use-disorder-aud.md)), 당뇨병(☞ [당뇨병](../226_/100_-diabetes-mellitus.md)), 파킨슨병 (☞ [파킨슨병](035_-parkinsons-disease.md))
 
 ***
 
