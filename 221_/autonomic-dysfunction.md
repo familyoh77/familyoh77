@@ -1,4 +1,4 @@
-# 030\_ 자율 신경 기능 장애 Autonomic Dysfunction
+# 자율 신경 기능 장애 Autonomic Dysfunction
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -60,7 +60,7 @@
 
 #### **심혈관계**
 
-* 기립성 저혈압 : 가장 흔하고 임상적으로 중요; 어지럼, 실신, 낙상
+* 기립성 저혈압 : 가장 흔하고 임상적으로 중요; 어지럼, 실신, 낙상 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
 * 운동 불내성(exercise intolerance) : 운동 시 적절한 심박수 증가 불가
 * 앙와위 고혈압 : 기립성 저혈압과 역설적으로 동반될 수 있음
 
