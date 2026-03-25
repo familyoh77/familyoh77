@@ -1,7 +1,5 @@
 # 떨림 Tremor
 
-![image](../.gitbook/assets/f4488e8a-60d4-489c-9b10-0480b050e7b9.JPG)
-
 ## <mark style="color:green;">일반 사항</mark>
 
 * 신체 일부분의 리드미컬한 불수의적 진동 움직임
@@ -99,7 +97,7 @@ _<mark style="color:$info;">3) 간뇨병증, 저칼슘, 저혈당, 저나트륨,
 
 ***
 
-![image](../.gitbook/assets/f9b1343c-6f3c-422e-bde8-0af3cf158d88.JPG)
+![](../.gitbook/assets/f9b1343c-6f3c-422e-bde8-0af3cf158d88.JPG)
 
 ***
 
