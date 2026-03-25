@@ -34,6 +34,41 @@
 
 * short-term 또는 chronic insomnia에 해당되지 않는 수면 장애
 
+## <mark style="color:green;">원인 및 위험 인자</mark>
+
+* 특발성(원인 불명)
+* 불규칙 수면 : 교대 근무, 여행, 출장; 낮잠, 일찍 취침
+* 나쁜 환경 : 밝은 조명, 소음
+* 사회적 관계 장애, 낮은 사회 경제적 상태
+* 사회심리적 스트레스 : 경제, 학업, 직장(예: 이직, 실직), 가정(예: 갈등, 별거)
+* 고령(중년의 10%, ＞65세의 ⅓이 만성 불면증 유병), 여성(남성의 5배)
+  * 연령 증가에 따라 수면이 얕아지고 수면에 영향을 주는 질환이 많아지며 약물 복용이 늘어남
+* 정신 질환 : 불안증, 우울증, 인격장애, 외상 후 스트레스장애
+* 급만성 질환 : 하지 불안증, 수면무호흡증, 만성 통증, 골관절증, 심부전, 신부전, COPD, GERD, 갑상선항진증, 배뇨 장애, 과민대장증후군, 만성피로증후군, 뇌졸중, 파킨슨병, 치매, 악성 종양
+* 약물 남용 : 다제약물, 알코올 남용, 카페인 과용, 약물 금단
+* 약물 : 항우울제(예: SSRI, SNRI, bupropion), β-차단제/항진제, CCB, 이뇨제, 항간질제(예: lamotrigine, phenytoin), 항콜린제, 항암제, 교감 신경 흥분제(예: salbutamol, salmeterol, theophylline, pseudoephedrine), CNS 자극제(예: methylphenidate, dextroamphetamine, nicotine), NSAID, steroid, 경구 피임제, 갑상선 호르몬, atorvastatin, levodopa, quinidine
+
+## <mark style="color:green;">임상 양상</mark>
+
+**주간 기능 장애** (가장 흔하고 직접적인 증상)
+
+* 주간 졸음, 피로, 활력 감소
+* 집중력·기억력 장애, 작업 수행 능력 저하
+* 사고 위험 증가
+
+**심리·정서적 증상**
+
+* 감정 이상, 과민, 긴장
+* 불면에 대한 두려움 (수면 불안, 불면을 악화시키는 악순환)
+
+**신체 증상**
+
+* 두통, 소화 장애
+
+**장기적 건강 위험** (만성 불면 시)
+
+* 심혈관 질환(고혈압, 심근경색), 당뇨병 위험 증가
+
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 이송/응급 평가 — 생명 위협 또는 즉각적 위해 가능성**</mark>
@@ -52,29 +87,6 @@
 
 * 치료에 반응하지 않는 경우 (CBT-I 및 2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * 동반 정신 질환(우울증, 불안증) 또는 신체 질환 조절 불량
-
-## <mark style="color:green;">원인 및 위험 인자</mark>
-
-* 특발성(원인 불명)
-* 불규칙 수면 : 교대 근무, 여행, 출장; 낮잠, 일찍 취침
-* 나쁜 환경 : 밝은 조명, 소음
-* 사회적 관계 장애, 낮은 사회 경제적 상태
-* 사회심리적 스트레스 : 경제, 학업, 직장(예: 이직, 실직), 가정(예: 갈등, 별거)
-* 고령(중년의 10%, ＞65세의 ⅓이 만성 불면증 유병), 여성(남성의 5배)
-  * 연령 증가에 따라 수면이 얕아지고 수면에 영향을 주는 질환이 많아지며 약물 복용이 늘어남
-* 정신 질환 : 불안증, 우울증, 인격장애, 외상 후 스트레스장애
-* 급만성 질환 : 하지 불안증, 수면무호흡증, 만성 통증, 골관절증, 심부전, 신부전, COPD, GERD, 갑상선항진증, 배뇨 장애, 과민대장증후군, 만성피로증후군, 뇌졸중, 파킨슨병, 치매, 악성 종양
-* 약물 남용 : 다제약물, 알코올 남용, 카페인 과용, 약물 금단
-* 약물 : 항우울제(예: SSRI, SNRI, bupropion), β-차단제/항진제, CCB, 이뇨제, 항간질제(예: lamotrigine, phenytoin), 항콜린제, 항암제, 교감 신경 흥분제(예: salbutamol, salmeterol, theophylline, pseudoephedrine), CNS 자극제(예: methylphenidate, dextroamphetamine, nicotine), NSAID, steroid, 경구 피임제, 갑상선 호르몬, atorvastatin, levodopa, quinidine
-
-## <mark style="color:green;">임상 양상</mark>
-
-* 주간 졸음, 집중력 장애, 기억력 장애
-* 피로, 활력 감소, 적극성 감소
-* 감정 이상, 과민, 긴장, 두통
-* 직장이나 학교 등에서의 작업 수행 능력 저하, 사고 위험 증가
-* 불면에 대한 두려움
-* 소화 장애, 심혈관 질환(예: 고혈압, 심근경색), 당뇨병 위험 증가
 
 ## <mark style="color:green;">진단</mark>
 
@@ -104,6 +116,8 @@
 * 판정 : ＜10점 정상, ≥10점 경증, 14\~18점 중등증, ≥19점 중증 주간 졸림증
 
 #### 불면증 심각도 지수 (Insomnia Severity Index, ISI)
+
+([대한수면연구학회](https://www.sleepnet.or.kr/))
 
 * 판정 : 0\~7점 유의할 만한 불면증 없음, 8\~14점 경증, 15\~21점 중등증, 22\~28점 중증 불면증
 
@@ -304,11 +318,11 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 #### 입면 장애(Sleep onset insomnia)에 대한 권고 약제
 
-<table data-full-width="false"><thead><tr><th width="128">성분명  [상품명]</th><th width="83.78948974609375" align="center">용량  (mg)</th><th width="83.78955078125" align="center">반감기  (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질   향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone <br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>불쾌한 맛, 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam <br>[할시온]</td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon <br>[잘레딘]</td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾ <br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>불쾌한 맛, 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br>[할시온]</td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br>[잘레딘]</td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### 유지 장애(Sleep maintenance insomnia)에 대한 권고 약제
 
-<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량  (mg)</th><th width="83.78948974609375" align="center">반감기  (hr)</th><th width="98.5263671875" align="center">총 수면  시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin <br>[사일레노]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone <br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>불쾌한 맛, 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem <br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br>[사일레노]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>불쾌한 맛, 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### 기타
 
@@ -404,7 +418,7 @@ G47 수면장애
 > **수면제 복용 안내**
 >
 > * 수면제는 **잠자리에 든 직후** 복용하고 즉시 취침하십시오. 복용 후 활동하면 기억 상실이나 이상 행동이 생길 수 있습니다.
-> * 수면제는 **단기간(4~5주 이내)** 사용을 원칙으로 합니다. 매일 복용하기보다 잠이 잘 오지 않는 날에만 필요한 만큼 복용하십시오.
+> * 수면제는 **단기간(4\~5주 이내)** 사용을 원칙으로 합니다. 매일 복용하기보다 잠이 잘 오지 않는 날에만 필요한 만큼 복용하십시오.
 > * 갑자기 중단하면 반동 불면(오히려 더 잠을 못 자는 현상)이 생길 수 있으므로, 중단할 때는 **담당 의사와 상의하여 서서히 줄여야** 합니다.
 > * 복용 후 **술을 마시면 절대 안 됩니다.** 심한 호흡 억제나 기억 상실이 생길 수 있습니다.
 > * 복용 다음날 졸림이 심하거나 운전·기계 조작을 해야 하는 경우 담당 의사와 상담하십시오.
@@ -446,4 +460,3 @@ G47 수면장애
 * 자다가 모르게 일어나 돌아다니거나 기억하지 못하는 행동을 하는 경우
 * 코골이와 함께 수면 중 숨이 멈추는 것이 목격되는 경우 (수면무호흡증 가능성)
 * 불면증과 함께 우울감·자살에 대한 생각이 드는 경우 — **정신건강 위기상담전화 1577-0199**
-
