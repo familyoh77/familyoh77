@@ -69,7 +69,7 @@
 * 영상 검사 : MRI (또는 CT)
 * 인지 기능 검사 : 한국판 몬트리올 인지평가 (K-MoCA)
 
-**한국판 몬트리올 인지평가** ([K-MoCA](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf))
+#### **한국판 몬트리올 인지평가** ([K-MoCA](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf))
 
 * 주의력, 집중력, 실행력, 기억력, 어휘력, 시각 공간력, 추상력, 계산과 지남력 평가; 10분 소요
 * 글을 읽거나 쓰는 능력이 없거나 서투른 경우에는 적용하지 않음
