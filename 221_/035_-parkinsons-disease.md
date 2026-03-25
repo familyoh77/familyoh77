@@ -1,65 +1,38 @@
 # 파킨슨병 Parkinson’s Disease
 
-![image](../.gitbook/assets/a35c76de-7cc8-417b-813d-924ad37fa3a7.JPG)
-
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
 * ‘resting tremor, rigidity, bradykinesia, postural instability’를 특징으로 하는 진행성 neuro-degenerative disorder
 * 보통 45\~65세에 발병; 60세 이상 인구의 1%; 알츠하이머병 다음으로 흔한 신경 변성 질환
 * 발병 10년 후 환자의 77%에서 사망, 자세 불안정, 치매 등 나쁜 경과를 보임
 * 낙상, 폐렴, 질식 등의 사고에 의한 사망 위험이 증가하므로 운동, 움직임 등 기능 보존이 중요
 
-## 원인
+## <mark style="color:green;">원인</mark>
 
 * 불명
-*   기전 : basal ganglia(특히 substantia nigra)에서의 dopamin 생성 neurons의 소실, 도파민 뉴런에서 Lewy body 발달
+* 기전 : basal ganglia(특히 substantia nigra)에서의 dopamin 생성 neurons의 소실, 도파민 뉴런에서 Lewy body 발달 → 도파민 생성 감소/고갈 → 도파민과 acetylcholine 사이의 불균형
 
-    → 도파민 생성 감소/고갈 → 도파민과 acetylcholine 사이의 불균형
-
-### 위험 인자
+### <mark style="color:$primary;">위험 인자</mark>
 
 * 가족력, 고령
 * 반복적 head trauma, 독소(예: 살충제) 노출, 방사선 노출
-*   약물 : 위장 운동 촉진제(metoclopramide, levosulpiride), 항정신병제(chlorpromazine, haloperidol, perphenazine,
+* 약물 : 위장 운동 촉진제(metoclopramide, levosulpiride), 항정신병제(chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, lithium, valproic acid), 항우울제(fluoxetine), 심혈관제(amiodarone, diltiazem, reserpine, methyldopa)
+  * 니코틴과 카페인이 파킨슨병의 위험을 줄이거나 발생을 지연시킨다는 보고가 있음
 
-    fluphenazine, olanzapine, risperidone, lithium, valproic acid), 항우울제(fluoxetine), 심혈관제(amiodarone, diltiazem,
-
-    reserpine, methyldopa)
-
-> ✽니코틴과 카페인이 파킨슨병의 위험을 줄이거나 발생을 지연시킨다는 보고가 있음
-
-## 임상 양상
+## <mark style="color:green;">임상 양상</mark>
 
 * 보통 편측 팔(±다리)에서 시작하여 수개월\~ 수년 후 양측에서 발생
 
 #### 운동 증상
 
-1.  resting tremor : 4\~6㎐, 원위부에서 흔함(주로 손(pill-rolling tremor), 드물게 다리/입술/턱/혀 떨림); 움직임/수면 시 호전;
-
-    postural tremor 동반 가능; 환자의 ＞70%에서 발생
-2.  rigidity : 수동적 움직임에 대한 저항 증가; cogwheel(catching & releasing) 또는 lead pipe(지속적인 경직), bidirectional;
-
-    웅크린 자세; 통증을 동반할 수 있음; 환자의 ＞90%에서 발생
+1. resting tremor : 4\~6㎐, 원위부에서 흔함(주로 손(pill-rolling tremor), 드물게 다리/입술/턱/혀 떨림); 움직임/수면 시 호전; postural tremor 동반 가능; 환자의 ＞70%에서 발생
+2. rigidity : 수동적 움직임에 대한 저항 증가; cogwheel(catching & releasing) 또는 lead pipe(지속적인 경직), bidirectional; 웅크린 자세; 통증을 동반할 수 있음; 환자의 ＞90%에서 발생
 3. bradykinesia 또는 akinesia : 움직임 속도 감소, 미세 작업 장애; 환자의 80\~100%에서 발생
-
-•[보행 장애](https://www.youtube.com/watch?v=pFLC9C-xH8E) : 느려진 움직임, 좁게 발을 끌며 걸음(종종 걸음), 가속 보행(앞으로 넘어질 듯, 점차 보행 속도가 빨라짐),
-
-```
-보행 동결(걸음 시작 또는 돌아설 때 보행을 완전히 멈춤); 근 약화는 보통 없음 ()
-```
-
-•운동 증상 : 타이핑/글씨 쓰기 곤란, 얼굴 표정 감소(가면 얼굴), 눈 깜박임 감소, 언어 장애(운동 감소형 구음 장애,
-
-```
-발성 부전), 연하 곤란, 과다 침 분비, 침대에서 돌아눕기 힘듦, 의자에서 일어서기 힘듦, 작은 글씨증
-```
-
-•달려오는 자동차를 급히 피해야 하는 것 같은 비상 상황에서는 자발 운동 능력이 잠시 회복될 수 있음
-
+   1. [보행 장애](https://www.youtube.com/watch?v=pFLC9C-xH8E) : 느려진 움직임, 좁게 발을 끌며 걸음(종종 걸음), 가속 보행(앞으로 넘어질 듯, 점차 보행 속도가 빨라짐), 보행 동결(걸음 시작 또는 돌아설 때 보행을 완전히 멈춤); 근 약화는 보통 없음
+   2. 운동 증상 : 타이핑/글씨 쓰기 곤란, 얼굴 표정 감소(가면 얼굴), 눈 깜박임 감소, 언어 장애(운동 감소형 구음 장애, 발성 부전), 연하 곤란, 과다 침 분비, 침대에서 돌아눕기 힘듦, 의자에서 일어서기 힘듦, 작은 글씨증
+   3. 달려오는 자동차를 급히 피해야 하는 것 같은 비상 상황에서는 자발 운동 능력이 잠시 회복될 수 있음
 4. postural instability : 질환 후기에 발생
-5.  시각 : contrast 민감도 저하, hypometric saccade, vestibulo-ocular reflex 장애, upward gaze 및 convergence 장애,
-
-    lid apraxia
+5. 시각 : contrast 민감도 저하, hypometric saccade, vestibulo-ocular reflex 장애, upward gaze 및 convergence 장애, lid apraxia
 
 #### 비-운동 증상
 
@@ -70,41 +43,42 @@
 * 수면 장애 : 불면, 수면 단절, 악몽, 주간 졸음, REM 수면 행동 장애(수면 중 발음이나 행동)
 * 기타 : 피로감, 지루성 피부 질환
 
-## 진단
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+* 레보도파에 대한 반응 부족
+* 현저한 extraocular movement (특히 수직 안진)
+* ＜50세
+* 호흡성 협착음(respiratory stridor)
+* 빠른 진행, 조기 자세 불안정
+* 근육 과긴장증(dystonia)
+* 자율 신경계 기능 상실
+* 하지에서의 증상이 우세
+* 소뇌 이상 징후, 추체로 징후 : 운동 실조, 구음 장애, 마비, spasiticity
+
+## <mark style="color:green;">진단</mark>
 
 * 임상적으로 진단
 
-### UK Parkinson’s disease society brain bank diagnostic criteria
+### <mark style="color:$primary;">UK Parkinson’s disease society brain bank diagnostic criteria</mark>
 
 #### 파킨슨병 진단
 
-*   bradykinesia 및 다음 중 ≥1개 존재
-
-    ① muscular rigidity
-
-    ② 4\~6 ㎐ resting tremor
-
-    ③ postural instability
+* bradykinesia 및 다음 중 ≥1개 존재
+  1. &#x20;muscular rigidity
+  2. 4\~6 ㎐ resting tremor
+  3. postural instability
 
 #### 파킨슨병 가능성
 
-*   다음 중 ≥3개 존재
-
-    ① 편측 발생으로 시작
-
-    ② 안정 시 떨림이 있음
-
-    ③ 점진적으로 진행되는 장애
-
-    ④ 시작된 쪽에서 비대칭적으로 지속
-
-    ⑤ levodopa에 잘 반응(70\~100%)
-
-    ⑥ 심한 levodopa-induced chorea
-
-    ⑦ levodopa 반응이 ≥5년 유지됨
-
-    ⑧ ≥10년 경과
+* 다음 중 ≥3개 존재
+  1. 편측 발생으로 시작
+  2. 안정 시 떨림이 있음
+  3. 점진적으로 진행되는 장애
+  4. 시작된 쪽에서 비대칭적으로 지속
+  5. levodopa에 잘 반응(70\~100%)
+  6. 심한 levodopa-induced chorea
+  7. levodopa 반응이 ≥5년 유지됨
+  8. ≥10년 경과
 
 #### 배제 기준
 
@@ -124,27 +98,34 @@
 * 대용량 levodopa 치료에 반응하지 않음
 * MPTP(신경독) 노출
 
-### 검사
+### <mark style="color:$primary;">검사</mark>
 
 * 확진 검사 방법은 없음; 다른 질환 배제를 위해 고려
 * SPECT, fMRI, DaTscan
 
-### 감별
+### <mark style="color:$primary;">감별</mark>
 
-```
-![image](images/7161c6ac-35de-4bc8-911e-a0dffd379be1.JPG)
-```
+| 분류                             | 특징                                                              | 예상 경과      | Levodopa에 대한 반응                 |
+| ------------------------------ | --------------------------------------------------------------- | ---------- | ------------------------------- |
+| Essential tremor (☞ p.165)     | 대칭적 떨림, 움직임에 의해 악화, 사지 원위부/머리 이환, 발음 이환; 서동증 없음                 |            | 없음                              |
+| Drug induced                   | 현저하지 않은 보행 장애, 상지 증상 혼합, 대칭적; 대부분 항구토제/항정신성 약물 관련               | 약물 중단 후 호전 | 무관 (약물 중단에 반응)                  |
+| Vascular                       | 갑자기 발생, 국소 신경학적 이상, 단계적 악화, 대칭적 운동 완만, 질질 끄는 보행                 | 혈관 상태에 따름  | 미약                              |
+| Progressive supranuclear palsy | 조기 자세 불안/낙상, 몸통 경직, 수직 주시 제한(특히 하방), 놀란 표정                      | 빠른 진행      | 초기 20\~30%에서 반응                 |
+| Multiple system atrophy        | 자율 신경 기능 상실, cerebellar ataxia, corticospinal dysfunction, 파킨슨병 | 빠른 진행      | 초기 40%에서 반응                     |
+| Dementia with Lewy bodies      | 인지 기능 저하, 환각, 변동성 정신 장애, 현저한 경직, 운동성 파킨슨병                       | 알츠하이머와 비슷  | 다양 (cholinesterase 억제제 치료 후 평가) |
+
+_Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
+
+
 
 * 우울증 : 무표정, 고저가 없는 발성, 활동 감소; 가족력, 떨림의 특징, 다른 운동 증상으로 감별
-*   Wilson Dz : 이른 연령에서 시작, 다른 비정상적 움직임, Kayser-Fleischer rings, 만성 간염, 조직 내 구리 농도 증가
-
-    ![image](../.gitbook/assets/b8b7118c-a115-443e-9d67-30fb7578ecda.JPG)
+* Wilson Dz : 이른 연령에서 시작, 다른 비정상적 움직임, Kayser-Fleischer rings, 만성 간염, 조직 내 구리 농도 증가
 
 ***
 
-## Management
+## <mark style="background-color:$warning;">Management</mark>
 
-## 비-약물 치료
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 규칙적 운동, 재활 운동
 * 낙상 예방 : 미끄러짐 방지 장치, 발에 걸릴 위험이 있는 물건을 치움, 조명을 어둡지 않게 함
@@ -222,5 +203,24 @@
     ![image](../.gitbook/assets/a1d95c50-2414-4807-995e-e6e0919214ad.JPG)
 
 > **질병코드** G20 파킨슨병
+
+***
+
+### <mark style="color:purple;">질병코드</mark>
+
+G20 파킨슨병
+
+***
+
+## <mark style="color:orange;">처방례</mark>
+
+
+
+처방례 1. ＜60세\
+미라펙스 0.125 ㎎/T 1T tid → 5\~7일마다 증량\
+처방례 2.\
+시네메트 CR 200/50 ㎎/T 1T qd\
+처방례 3.\
+스타레보 필름코팅정 100/25/200 ㎎/T 1T qd
 
 ![image](../.gitbook/assets/e31c28c7-c4d7-4534-8a0a-1da706504d7f.JPG)
