@@ -417,7 +417,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * 효과 : AD 환자의 ⅓에서 약간의 증상 감소. 경증에서 보다 효과; 약제간의 유의한 효과 차이는 없음; 병의 경과를 변화시키지는 못함 (✽약간의 MMSE 향상과 사망 위험 감소가 있다는 보고가 있음)
 * 부작용 : 설사, 구역, 식욕 부진, 악몽, 근육 경련, 부정맥(서맥), 실신; 빈도는 용량 관련
   * 대처 방법 : 악몽 발생 시 아침에 투여, 구역 발생 시 야간에 투여
-* 주의 : 행동 증상을 악화시킬 수 있으므로 **전측두엽 치매에는 투여하지 않음**
+* 주의 : 행동 증상을 악화시킬 수 있으므로 전측두엽 치매에는 투여하지 않음
 * 상호 작용 : β-차단제/digoxin(심장 전도 장애), 항콜린제(ChEIs 약효 저하)
 
 <table><thead><tr><th width="146.73681640625">성분명 [상품명]</th><th width="339.26318359375">용량 [시작 → 유지]</th><th>비고</th></tr></thead><tbody><tr><td>donepezil<br>[아리셉트 정]<br>[도네라온 패취]</td><td>• 경증 5 mg qd → 4주 후 10 mg qd<br>• 중증 23 mg qd → 3개월 후 10 mg qd<br>• 패취 87.5 mg, 4~6주간 주 2회(3일&#x26;4일) 취침 전 등에 부착 → 175 mg 주 2회로 증량 가능</td><td></td></tr><tr><td>galantamine<br>[갈란타민]</td><td>• 4 mg bid → (4주마다 4 mg bid 증량) 8~12 mg bid<br>• 서방형 8 mg qd → (4주마다 8 mg qd 증량) 24 mg qd</td><td>간/신 장애 시 주의</td></tr><tr><td>rivastigmine<br>[엑셀론]</td><td>• 1.5 mg bid → (2주마다 1.5 mg bid 증량) 3~6 mg bid<br>• 패취 4.6 mg/d → 4주 후 9.5~13.3 mg patch/d</td><td>간/신 장애 시 주의; 패취는 부착 위치를 바꿔서 사용</td></tr></tbody></table>
@@ -433,25 +433,23 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 
 #### 항아밀로이드 단클론항체 (Anti-amyloid monoclonal antibodies)
 
-{% hint style="info" %}
-✽ **2024년 기준 업데이트** : aducanumab(Aduhelm)은 2024년 1월 Biogen이 판매 및 개발을 중단함(시판 철수). lecanemab과 donanemab이 표준 치료 선택지로 자리잡음
-{% endhint %}
-
-* **lecanemab \[레켐비, Leqembi]** : Aβ soluble protofibril에 결합하는 human IgG1 단클론항체
+* **lecanemab** : Aβ soluble protofibril에 결합하는 human IgG1 단클론항체
   * FDA 정식 승인(2023.7) : 아밀로이드 병리 확인된 MCI 또는 경증 AD
   * 효과 : 18개월간 인지 기능 저하를 위약 대비 약 27% 지연
-  * 투여 : 10 mg/kg IV, 2주마다 (18개월 후 유지 요법으로 4주마다 전환 가능)
+  * 투여 : 10 mg/kg IV, 2주마다 (18개월 후 유지 요법으로 4주마다 전환 가능) \[레켐비]
   * 부작용 : ARIA(뇌 부종·미세출혈) — 약 21% 발생; ApoE4 보유자에서 위험 증가
   * 국내 출시됨 (☞ p.161 MCI 챕터 참조)
-* **donanemab \[키썬라, Kisunla]** : Aβ plaque를 표적으로 하는 human IgG1 단클론항체
+* **donanemab** : Aβ plaque를 표적으로 하는 human IgG1 단클론항체
   * FDA 정식 승인(2024.7) : 아밀로이드 병리 확인된 MCI 또는 경증 AD
   * 효과 : 18개월간 인지 기능 저하를 위약 대비 약 35% 지연
-  * 투여 : 700 mg IV 4주마다 × 3회 → 1,400 mg 4주마다; 아밀로이드 소실 확인 시 투여 중단 가능 (장기 투여 불필요한 첫 번째 AD 치료제)
+  * 투여 : 700 mg IV 4주마다 × 3회 → 1,400 mg 4주마다; 아밀로이드 소실 확인 시 투여 중단 가능 (장기 투여 불필요한 첫 번째 AD 치료제) \[키썬라]
   * 부작용 : ARIA — 약 24% 발생; ApoE4 동형접합자에서 위험 크게 증가; 정기 MRI 모니터링 필수
-
-{% hint style="warning" %}
-**항아밀로이드 치료 공통 주의사항** : 투여 전 아밀로이드 PET 또는 혈액/CSF 바이오마커(p-tau217 등)로 AD 병리 확인 필수 / ApoE4 유전자 검사 시행 / 정기 MRI 모니터링(ARIA 감시) / 항응고제 사용 중 출혈 위험 증가 / 일차 의료에서 직접 처방 대상 아님 — 신경과·인지신경의학 전문의 평가 후 시행
-{% endhint %}
+* **항아밀로이드 치료 공통 주의사항**&#x20;
+  * 투여 전 아밀로이드 PET 또는 혈액/CSF 바이오마커(p-tau217 등)로 AD 병리 확인 필수&#x20;
+  * ApoE4 유전자 검사 시행&#x20;
+  * 정기 MRI 모니터링(ARIA 감시)&#x20;
+  * 항응고제 사용 중 출혈 위험 증가&#x20;
+  * 일차 의료에서 직접 처방 대상 아님 - 신경과·인지신경의학 전문의 평가 후 시행
 
 ### <mark style="color:$primary;">항정신병제</mark>
 
@@ -459,7 +457,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * 효과 : 논란 (✽다른 대안이 없어 사용하게 됨)
 * 부작용 : 인지 기능 저하, 보행 장애(낙상), 추체외로 증상, 심장 전도 장애, 진정, 흡인성 폐렴, 사망률 증가; 고용량, 고령자에서 보다 많이 발생
 * 신중한 환자 선택 및 유효한 최소 용량 투여 (보험주의)
-* **루이체 치매에서는 항정신병제 사용에 각별한 주의** (☞ 상단 루이체 치매 항목 참조)
+* 루이체 치매에서는 항정신병제 사용에 주의
 
 #### Atypical antipsychotics
 
@@ -484,8 +482,8 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 
 * 대상 : 항정신병제에 반응하지 않는 전신 경련, 초조, 공격 성향에 대하여 2차 약제로 선택
 * 부작용 : 진정
-* carbamazepine : 시작 50~~100 ㎎/d, 유지 300~~600 ㎎/d \[테그레톨]
-* divalproex : carbamazepine보다 부작용 적음; 시작 125~~250 ㎎, 유지 375~~1,375 ㎎/d \[데파코트]
+* carbamazepine : 시작 50\~100 ㎎/d, 유지 300\~600 ㎎/d \[테그레톨]
+* divalproex : carbamazepine보다 부작용 적음; 시작 125\~250 ㎎, 유지 375\~1,375 ㎎/d \[데파코트]
 * lamotrigine : 50 ㎎/d, 증량 50 ㎎/2wk, 최대 400 ㎎/d \[라믹탈]
 
 ### <mark style="color:$primary;">항우울제 (SSRI)</mark>
@@ -502,11 +500,11 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 
 ### <mark style="color:$primary;">항불안제</mark>
 
-* 대상 : 현저한 불안증, 다른 약제에 반응하지 않는 급성기 불안증 (☞ p.115)
+* 대상 : 현저한 불안증, 다른 약제에 반응하지 않는 급성기 불안증
 * 용법 : 단기 작용 benzodiazepine 저용량, 단기 사용
 * 장기 작용제는 낙상 등의 위험성 있음; 장기 투여 시 행동 이상 악화 위험이 있음
-* lorazepam : 0.5~~1 ㎎ 필요시 4~~6시간마다 \[아티반]
-* oxazepam : 흡수가 늦어 필요시 사용 방법으로는 덜 유용. 5.0~~7.5 ㎎ qd~~qid
+* lorazepam : 0.5\~1 ㎎ 필요시 4\~6시간마다 \[아티반]
+* oxazepam : 흡수가 늦어 필요시 사용 방법으로는 덜 유용. 5.0\~7.5 ㎎ qd\~qid
 * triazolam : 착란, 기억력 장애, 정신병적 행동 유발 우려 \[할시온]
 
 ### <mark style="color:$primary;">수면 유도</mark>
@@ -624,5 +622,3 @@ G30 알츠하이머병
 * 환각(없는 것이 보이거나 들림)이 나타날 때
 * 걸음걸이가 갑자기 불안정해지거나 자주 넘어질 때
 * 약 복용 후 심한 구역, 어지럼, 맥박이 느려지는 경우
-
-![image](../.gitbook/assets/c966b2c1-e542-4fce-a80f-bdc9abc1fa0d.JPG)
