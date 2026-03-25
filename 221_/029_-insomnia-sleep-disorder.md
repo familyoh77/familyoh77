@@ -12,7 +12,7 @@
 4. Circadian rhythm sleep-wake disorders (= Shift work disorder, SWD)
    1. shift work schedule과 관련된 증상이 최소 1개월 이상 지속되는 수면 장애
    2. 자신의 수면 패턴에서 요구되는 sleep-wake 일정과 환경(생활) 사이의 불일치(예: 여행, 야간 작업)에 기인하여 주간의 과도한 졸림이나 불면증이 발생한 지속적 또는 재발성 수면 장애. 이로 인하여 일상생활에서 유의미한 장애 발생
-5. Parasomnia : 잠이 드는 동안, 잠자는 중, 또는 잠에서 깨어나는 동안 원하지 않는 신체적 사건(행동) 또는 경험(지각, 감정, 꿈); 몽유병, 잠꼬대, 수면 중 신음, 악몽, 야경, 야뇨, 이갈이, 수면 행동
+5. 사건수면 (Parasomnia) : 잠이 드는 동안, 잠자는 중, 또는 잠에서 깨어나는 동안 원하지 않는 신체적 사건(행동) 또는 경험(지각, 감정, 꿈); 몽유병, 잠꼬대, 수면 중 신음, 악몽, 야경, 야뇨, 이갈이, 수면 행동
 6. Sleep-related movement disorders : 수면을 방해하는 단순한, 입체적인 움직임(예: restless legs syndrome) (☞ [하지불안증후군](036_-restless-legs-syndrome.md))
 7. Other sleep disorders
 
@@ -28,6 +28,7 @@
 #### Chronic insomnia disorder
 
 * ≥3개월 동안 ≥3회/주 유의미한 문제를 일으키는 수면 장애
+* **적절한 수면 기회가 주어졌음에도 불구하고** 발생하는 것이 진단의 전제 조건 — 소음·빛 등 환경 요인에 의한 단순 수면 부족과 구별됨
 * 여러 해에 걸쳐 수 주 동안 반복적으로 불면증이 발생하는 환자는 각각의 episode가 3개월 동안 지속되지 않더라도 만성 불면증으로 진단할 수 있음
 
 #### Other insomnia disorder
@@ -42,7 +43,10 @@
 * 사회적 관계 장애, 낮은 사회 경제적 상태
 * 사회심리적 스트레스 : 경제, 학업, 직장(예: 이직, 실직), 가정(예: 갈등, 별거)
 * 고령(중년의 10%, ＞65세의 ⅓이 만성 불면증 유병), 여성(남성의 5배)
-  * 연령 증가에 따라 수면이 얕아지고 수면에 영향을 주는 질환이 많아지며 약물 복용이 늘어남
+  * 연령 증가에 따른 수면 구조 변화 : 서파수면(slow-wave NREM) 및 렘수면 비율 감소 → 수면이 얕아지고 야간 각성 빈도↑, 아침 회복감↓
+  * 중년기부터 10년마다 평균 27분씩 수면 시간 감소
+  * 내부 일주기 시계 기능 저하 → 취침·기상 시간이 앞당겨지는 경향(앞당겨진 수면위상형)
+  * 수면에 영향을 주는 동반 질환 증가, 다제약물 복용 증가
 * 정신 질환 : 불안증, 우울증, 인격장애, 외상 후 스트레스장애
 * 급만성 질환 : 하지 불안증, 수면무호흡증, 만성 통증, 골관절증, 심부전, 신부전, COPD, GERD, 갑상선항진증, 배뇨 장애, 과민대장증후군, 만성피로증후군, 뇌졸중, 파킨슨병, 치매, 악성 종양
 * 약물 남용 : 다제약물, 알코올 남용, 카페인 과용, 약물 금단
@@ -141,23 +145,25 @@
 
 * 수면각성 패턴 때문에 잠이 오지 않는 상황
 * 뒤처진 수면위상형 : 늦게 잠이 들고 기상 시간이 늦어지는 수면-각성 주기 지연(예: 우울증)
-* 앞당겨진 수면위상형 : 일찍 잠을 자고 새벽에 일찍 깨는 수면-각성 주기 앞당김(예: 노인)
+* 앞당겨진 수면위상형 : 일찍 잠을 자고 새벽에 일찍 깨는 수면-각성 주기 앞당김; 고령자에서 특히 흔함 — 저녁 7\~9시에 졸리고 새벽 3\~5시에 기상하는 패턴; 늦게 취침해도 일찍 깨는 경향 유지
 * 진단 : 수면 각성 주기 평가(예: 수면 일지, 활동기록계)
-* 치료 : 광치료, melatonin; 수면제에 잘 반응하지 않음
+* 치료 : 저녁 광치료(취침 시간 지연 효과), melatonin; 수면제에 잘 반응하지 않음
 
 #### 폐쇄성 수면무호흡증
 
 * 잠은 쉽게 들지만 수면 중 호흡이 멈추거나 얕아짐; 수면 중 근육 긴장도가 감소하고 흡기 시 상기도 음압이 발생하여 기도 폐쇄, 산소 포화도 저하, 쉽게 각성(자주 깸), 낮졸림증 발생
-* 위험 인자 : 남성, 고령
+* 위험 인자 : 남성, 고령, 비만, 음주, 흡연
 * 진단 : 수면다원검사; 무호흡 저호흡 지수\*로 중증도 평가
   * \*Apnea-Hypopnea Index, AHI : 시간 당 무호흡이나 저호흡이 최소 10초 이상 되는 횟수
-* 치료 : 수술, 구강 내 장치, 지속적 상기도 양압술(continuous positive airway pressure, CPAP)
+* **고령자 특이사항** : 치매 동반 요양원 입소 노인에서 특히 흔함; 심부전·심근경색·뇌졸중의 독립적 위험 인자
+* 치료 : 수술, 구강 내 장치, 지속적 상기도 양압술(CPAP)
 * benzodiazepine 사용 시 무호흡이 심해질 수 있음
 
 #### 하지불안증후군 및 주기성 사지운동장애
 
 * 하지불안증후군 : 다리에 불편하고 불쾌한 느낌으로 인해 다리를 움직이고 싶은 충동이 생겨 잠을 잘 이루지 못함; 밤, 누워있거나 쉴 때 발생
-* 주기성 사지운동장애 : 수면을 취하는 동안 다리를 툭 터는 행동 반복
+* 주기성 사지운동장애 : 수면을 취하는 동안 다리를 툭 터는 행동 반복 (시간당 15회 이상)
+* **고령자 특이사항** : 두 질환 모두 연령 증가에 따라 유병률이 약 2배 증가; 고령자에서 다른 약물 또는 동반 질환으로 치료가 복잡해질 수 있음
 * 원인 : 유전, 철분 대사 이상, 도파민 기능 이상; 도파민 농도를 저하시킬 수 있는 항정신병제/항우울제, 철분 결핍을 일으킬 수 있는 빈혈/출혈/임신/출산/만성 신부전
 * 치료 : 원인 질환 치료, clonazepam, dopamine 작용제
 
@@ -187,12 +193,22 @@
   * 약물 치료는 남용, 내성, 중독 가능성이 있으므로 주의
 * 야간 저산소증이 있는 만성 폐질환 또는 수면무호흡증 환자는 의뢰
 
+**고령자 치료 원칙**
+
+* 수면 교육 및 수면 위생 개선을 첫 번째 단계로 시행
+* CBT-I : 고령자에서도 1차 치료로 효과적; 약물 치료보다 부작용 없이 지속 효과
+* 약물 선택 시 낙상·인지 저하·다제약물 상호 작용을 최우선으로 고려
+  * BZD·Z-drug : 낙상·골절·섬망 위험↑ → Beers Criteria 부적절 약물; 불가피 시 최저 용량·최단 기간
+  * 상대적으로 안전한 약제 : ramelteon(의존·낙상 위험 낮음), DORA(suvorexant·lemborexant), doxepin 저용량
+* 권장 수면 시간 : **≥7시간** (AASM·Sleep Research Society 권고)
+
 ## <mark style="color:green;">비-약물 치료</mark>
 
 _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments for Chronic Insomnia Disorder in Adults. J Clin Sleep Med. 2021;17(2):255–262.</mark>_
 
 * **인지행동치료(CBT-I)** : 만성 불면증의 모든 경우에 대한 **1차 치료** \[AASM 강력 권고]; 약물 치료보다 장기 효과 우수하며 부작용 없음; 수면 제한법, 자극 조절, 이완 요법, 인지 치료, 수면 위생의 복합 구성
-  * **디지털 CBT-I (dCBT-I)** : 앱·웹 기반 CBT-I; 접근성 낮은 환경에서 대안으로 활용 가능; 국내외 허가 절차 진행 중 (근거 축적 중)
+  * **디지털 CBT-I (dCBT-I)** : 앱·웹 기반 CBT-I; 접근성 낮은 환경에서 대안으로 활용 가능
+    * 국내 현황 : 슬립큐(SleepQ) 등 식약처 허가 디지털 치료제(DTx) 처방 가능; 의사가 처방 코드 발행 → 환자 앱 설치 후 6\~9주 CBT-I 과정 수행; 혁신의료기술로 지정, 비급여 또는 선별급여 형태 운영; 약물 의존도가 높거나 CBT-I 접근성이 낮은 환자에게 대안으로 제시 가능
 * 명상, mindfulness, 광 치료 : 보조적 활용
 
 #### 수면 위생 (sleep hygiene)
@@ -268,11 +284,11 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 #### Orexin 수용체 길항제 (Dual Orexin Receptor Antagonist, DORA)
 
 * 각성을 유지하는 orexin/hypocretin 신호를 차단하여 수면 유도; BZD·Z-drug과 달리 수면 구조(서파수면·렘수면) 보존
-* 의존·남용 위험 낮음; 고령자에서도 상대적으로 안전
+* 의존·남용 위험 낮음; 고령자 및 수면무호흡증 동반 환자에서 BZD/Z-drug보다 상대적으로 안전
 * 입면 및 수면 유지 장애 모두에 효과
 * suvorexant \[벨솜라] : 10\~20 ㎎ qd 취침 직전; \[부작용] 다음날 졸림, 두통, 이상한 꿈
-* lemborexant \[데이비고] : 5\~10 ㎎ qd 취침 직전; 국내 허가; \[부작용] 졸림, 두통 (suvorexant보다 다음날 졸림 적다는 보고)
-* 주의 : 중증 간질환, CYP3A 억제제 병용 시 용량 조절; 수면무호흡증에서 BZD보다 안전하나 주의 필요
+* lemborexant \[데이비고] : 5\~10 ㎎ qd 취침 직전; 국내 허가·급여 적용(입면 또는 수면 유지 장애 성인); 타 수면제와 병용 시 급여 인정 안 됨; 기존 약물에서 전환 시 이전 약물 서서히 감량 후 교체 권고; suvorexant보다 다음날 졸림 적다는 보고
+* **병용 금기** : 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 시 혈중 농도 급격히 상승 — 병용 피하거나 감량; moderate CYP3A 억제제(예: fluconazole, diltiazem)도 주의
 
 #### Benzodiazepine
 
@@ -296,6 +312,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 최소 3주 이상 지속 복용 (✽3\~4주간 꾸준히 복용하면 66%에서 불면 증상 호전, 44%에서 기존 복용 수면제 용량 감량을 보였다는 보고가 있음)
 * 일반적인 수면제에 비하여 인지 저하, 낙상, 내성/의존/금단 등의 부작용이 적음
 * 지속 방출형으로 ≥55세에서 수면 유지 장애에 고려; 속효성 제제는 권고 안 함
+  * ✽서카딘(Circadin) : 지속 방출형(prolonged-release) 2 ㎎; 식약처 허가 의약품 — 건강기능식품으로 유통되는 일반 멜라토닌(속효성, 비표준화 용량)과 구별됨; 일반 멜라토닌은 불면증 치료 근거 불충분
 * 복용 시간 : 아침 기상 시간 9시간 전에 복용, 2시간 후 취침
 * Ramelteon : melatonin 수용체 작용제; 수면 개시 장애, 고령 환자에서 고려
 
@@ -318,11 +335,11 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 #### 입면 장애(Sleep onset insomnia)에 대한 권고 약제
 
-<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>불쾌한 맛, 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br>[할시온]</td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br>[잘레딘]</td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br>[할시온]</td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br>[잘레딘]</td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### 유지 장애(Sleep maintenance insomnia)에 대한 권고 약제
 
-<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br>[사일레노]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>불쾌한 맛, 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br>[사일레노]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### 기타
 
@@ -442,12 +459,21 @@ G47 수면장애
 
 #### 좋은 수면을 위한 생활 수칙
 
-* **매일 같은 시간에 기상하세요** : 잠드는 시간보다 기상 시간을 일정하게 유지하는 것이 수면 리듬을 잡는 데 더 중요합니다
+* **매일 같은 시간에 기상하세요** : 잠드는 시간보다 기상 시간을 일정하게 유지하는 것이 수면 리듬을 잡는 데 더 중요합니다. 주말·여행 중에도 지키세요
 * **침대는 잠자는 용도로만 사용하세요** : 침대에서 TV 시청, 스마트폰, 업무는 금물. 뇌가 침대를 각성 공간으로 인식하게 됩니다
 * **잠이 올 때만 침대에 누우세요** : 잠이 오지 않으면 15분 후 일어나 은은한 조명 아래 독서나 음악을 듣고, 졸리면 다시 들어가세요
-* **낮잠은 30분 이내로 제한하세요** : 오후 3시 이후 낮잠은 밤 수면을 방해합니다
+* **낮잠은 30분 이내로 제한하세요** : 오후 3시 이후 낮잠은 밤 수면을 방해합니다. 낮잠이 필요하면 오전 또는 이른 오후에 짧게 주무세요
 * **카페인은 오후 2시 이후 피하세요** : 커피, 녹차, 에너지음료 모두 해당됩니다
 * **저녁 음주는 피하세요** : 술은 일시적으로 잠을 빠르게 들게 하지만 수면 후반부에 자주 깨게 만듭니다
+* **취침 전 전자 기기를 멀리하세요** : TV, 스마트폰, 컴퓨터의 블루라이트는 수면을 방해합니다
+* **취침 3시간 이내 격렬한 운동은 피하세요** : 낮 동안의 규칙적인 운동은 수면에 도움이 됩니다
+
+#### 어르신을 위한 수면 안내
+
+* **권장 수면 시간은 7시간 이상입니다** : 나이가 들면 잠이 줄어드는 것이 자연스럽지만, 7시간 이하면 낮에 피로하고 건강에 영향을 줄 수 있습니다
+* **일찍 졸리고 새벽에 일찍 깨는 것은 노화에 따른 일주기 리듬 변화입니다** : 저녁에 밝은 빛(광치료)을 쬐면 취침 시간을 조금 늦추는 데 도움이 됩니다
+* **코골이와 수면 중 숨막힘이 있다면 반드시 진료를 받으세요** : 수면무호흡증은 고령자에서 흔하며 심장·뇌 건강에 영향을 줍니다
+* **수면제 복용 시 낙상에 주의하세요** : 특히 밤중에 화장실 갈 때 어지럼이 생길 수 있으므로 침대 옆 조명을 켜두고 천천히 일어나세요
 
 #### 수면제에 대해 알아두세요
 
