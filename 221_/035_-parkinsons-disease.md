@@ -148,7 +148,56 @@ _Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
 
 * 도파민 전구체인 levodopa 투여 또는 항콜린제로 acetylcholine 작용 차단
 * 증상을 개선시키지만 병의 진행을 막지는 못함
-*   투여 중단 시 tapering
+* 투여 중단 시 tapering
+*
+* Levodopa
+* 가장 효과적  \
+  \[부]구역, 두통, 저혈압, 어지럼, 착란, 부정맥, dyskinesia(장기 사용 시)  \
+  \[금] 정신 질환, 녹내장
+* levodopa/carbidopa : 시작 100/25 0.5~~1T tid; 최대 levodopa 1,500 #2~~4 \[시네메트]
+* L-dopa/benserazide : 100/25, 100/50 \[마도파]
+*
+* Dopamine agonist
+* levodopa보다 dyskinesia 적음  \
+  \[부]구역, 기립성 저혈압, 졸림, 생생한 꿈,  \
+  충동 장애, 착란, 하지 부종, 어지럼  <br>
+* pramipexole \[미라펙스] 시작 0.125 tid; 최대 4.5/d; 서방형 시작 0.375 qd, 최대 4.5/d
+* ropinirole \[리큅] 시작 0.25 tid; 최대 8 tid 서방형 시작 2 qd; 최대 24/d
+* rotigotine \[뉴프로 패취] 2/d; 최대 16
+* bromocriptine \[팔로델] 시작 1.25 bid; 최대 90/d
+* apomorphine 주사제. 시작 2; 최대 6
+*
+*  \
+  MAO-B(Monoamine Oxidase type B) Inhibitor  <br>
+* 내약성 좋음  \
+  selegiline \[마오비]  \
+  시작 5 qd; 최대 10 #2(아침/점심)  \
+  rasagiline \[아질렉트]  \
+  시작 0.5 qd; 최대 1/d  \
+  safinamide  \
+  시작 50 qd; 최대 100/d  \
+  \[부]구역, 두통, 수면 장애, 환각;  \
+  SSRI, TCA, meperidine 병용 회피.  \
+  COMT(Catechol-O-Methyltransferase) Inhibitor  \
+  entacapone \[콤탄]  \
+  tolcapone  \
+  시작 200, levodopa 복용 때마다;  \
+  최대 8T(1600)/d  \
+  시작 100 tid; 최대 800/d  \
+  NMDA(N-Methyl-d-Aspartate) Inhibitor  \
+  amantadine \[피케이멜즈]  \
+  시작 100 qd; 100 bid;  \
+  최대 400/d  \
+  Anticholinergics  \
+  trihexyphenidyl \[트리헥신] 1 tid; 증량 2 tid; 최대 15/d  \
+  benztropine \[벤즈트로핀] 0.5 취침 시; 최대 1 bid  \
+  도파민 반응을 연장시킴. levodopa에 반응하는  \
+  경우 부가 사용. \[부]구역, 설사 기립성 저혈압,  \
+  착란, 운동이상증, 간독성, 오렌지색 소변  \
+  떨림, rigidity, 운동 완만.  \
+  \[부]어지럼, 착란, 망상피반, 환각  \
+  \[부] 입마름, 기억력/시각 장애, 소변 잔류
+*
 
     ![image](../.gitbook/assets/a4435991-c980-418b-9b48-629576700111.JPG)
 * 복합제 : levodopa + carbidopa + entacapone \[스타레보]
