@@ -38,7 +38,7 @@
   * [치매 Dementia](221_/033_-dementia.md)
   * [떨림 Tremor](221_/034_-tremor.md)
   * [파킨슨병 Parkinson’s Disease](221_/035_-parkinsons-disease.md)
-  * [하지불안증후군 Restless Legs Syndrome](221_/036_-restless-legs-syndrome.md)
+  * [하지불안증후군 Restless Legs Syndrome](221_/restless-legs-syndrome.md)
 * [Part 3. 눈귀코목 질환](222_/README.md)
   * [결막염 Conjunctivitis](222_/038_-conjunctivitis.md)
   * [눈 충혈 Red Eye](222_/037_-red-eye.md)

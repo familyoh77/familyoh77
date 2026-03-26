@@ -13,7 +13,7 @@
    1. shift work schedule과 관련된 증상이 최소 1개월 이상 지속되는 수면 장애
    2. 자신의 수면 패턴에서 요구되는 sleep-wake 일정과 환경(생활) 사이의 불일치(예: 여행, 야간 작업)에 기인하여 주간의 과도한 졸림이나 불면증이 발생한 지속적 또는 재발성 수면 장애. 이로 인하여 일상생활에서 유의미한 장애 발생
 5. 사건수면 (Parasomnia) : 잠이 드는 동안, 잠자는 중, 또는 잠에서 깨어나는 동안 원하지 않는 신체적 사건(행동) 또는 경험(지각, 감정, 꿈); 몽유병, 잠꼬대, 수면 중 신음, 악몽, 야경, 야뇨, 이갈이, 수면 행동
-6. Sleep-related movement disorders : 수면을 방해하는 단순한, 입체적인 움직임(예: restless legs syndrome) (☞ [하지불안증후군](036_-restless-legs-syndrome.md))
+6. Sleep-related movement disorders : 수면을 방해하는 단순한, 입체적인 움직임(예: restless legs syndrome) (☞ [하지불안증후군](/broken/pages/My8Yfx0jIroJYuJZO6LX))
 7. Other sleep disorders
 
 ### <mark style="color:$primary;">기간에 따른 분류</mark>
