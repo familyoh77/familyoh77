@@ -4,7 +4,9 @@
 
 * 심장의 강하고 빠르고 불규칙한, 불쾌한 기분의 박동
 
-<mark style="color:$danger;">응급 의뢰</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 응급 조치 필요 (필요시 119 호출)**</mark>
 
 * 흉통
 * 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
@@ -16,7 +18,7 @@
 * Exercise 중 발생
 * 유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력
 
-<mark style="color:$warning;">**의뢰**</mark>
+<mark style="color:$warning;">**조기 의뢰 권고 (당일 ~ 수일 내)**</mark>
 
 * 증상들과 관련된 두근거림 AND/OR 비정상 ECG AND/OR 심장의 구조적 질환 있음
 * Tachyarrhythmia 반복 의심 병력
@@ -24,7 +26,7 @@
 * 하지 부종 (심부전 시사)
 * 국소 신경학적 증상 (색전증 시사)
 
-<mark style="color:$info;">**저위험**</mark> <mark style="color:$info;">**— 외래 관찰**</mark>
+<mark style="color:$info;">**외래 추적 / 저위험 — 관찰**</mark>
 
 * 빠르거나 / 쿵거리는 맥박
 * Short fluttering
@@ -113,7 +115,7 @@
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>
+### <mark style="color:purple;">질병코드</mark>
 
 R00.2 두근거림
 
@@ -142,3 +144,25 @@ R00.2 두근거림
 * 투여 전 및 추적 시 맥박 확인 — 안정 시 맥박 ＜55회/분이면 용량 감량 또는 보류
 * 임산부·수유부, 중증 말초혈관질환, Raynaud 현상에도 주의
 {% endhint %}
+
+***
+
+### <mark style="color:purple;">핵심 복약 지도</mark>
+
+> **propranolol (인데놀) · metoprolol (베타록) — β-차단제**
+>
+> * 약을 갑자기 끊으면 심박수가 급격히 빨라지거나 혈압이 오를 수 있습니다. 중단이 필요하면 반드시 의사와 상의하여 서서히 줄이십시오.
+> * 맥박이 분당 55회 미만으로 느려지거나 심한 어지럼, 호흡 곤란이 생기면 즉시 병원을 방문하십시오.
+> * 천식 또는 만성 폐쇄성 폐질환(COPD)이 있으신 분은 반드시 의사에게 알려 주십시오.
+
+> **diltiazem (헤르벤) · verapamil (이솝틴) — 칼슘채널차단제**
+>
+> * 어지럼, 저혈압 증상(갑자기 일어날 때 핑 도는 느낌)이 생길 수 있으므로 천천히 움직이십시오.
+> * 발목 부종이 새로 생기거나 심해지면 알려 주십시오.
+> * 자몽 주스는 약 농도를 높여 부작용을 악화시킬 수 있으므로 피하십시오.
+
+> **alprazolam (자낙스) · lorazepam (아티반) — 항불안제**
+>
+> * 졸음, 집중력 저하가 생길 수 있으므로 운전이나 기계 조작을 삼가 주십시오.
+> * 의사 처방 없이 용량을 늘리거나 임의로 중단하지 마십시오. 장기 복용 시 의존성이 생길 수 있습니다.
+> * 두근거림의 원인(불안, 스트레스)이 해결되면 의사와 상의하여 서서히 줄일 수 있습니다.

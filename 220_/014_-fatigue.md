@@ -98,6 +98,9 @@
 
 1. 규칙적 운동 : 1주일에 3\~4회, 매회 30분 이상. 단, 만성피로증후군이 의심되는 경우 무조건적인 운동보다는 에너지 범위를 조절하는 Pacing 전략을 우선 고려 (☞ 만성피로증후군 p.1031)
    1. Pacing : 환자가 가진 제한된 에너지 내에서 일상 활동을 계획하고 조절하여, '운동 후 불쾌감(PEM: 과도한 피로 및 증상 악화)'을 유발하지 않으면서 안정적인 기능을 유지하는 정도로 행동 수정
+   2. **⚠️ ME/CFS 의심 환자에서 점진적 운동 치료(GET) 금기** : NICE 2021은 ME/CFS에서 GET(Graded Exercise Therapy)이 증상을 악화시킬 수 있다는 근거를 바탕으로 권고에서 제외함; PEM(운동 후 불쾌감) 유발 위험이 있는 모든 고정 강도 운동 프로그램은 적용 금지
+
+_<mark style="color:$info;">Ref. NICE. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management. NG206. 2021.</mark>_
 2. 금연
 3. 음주 제한
 4. 카페인(커피) : 각성 효과는 있으나 휴식이나 수면을 대체할 수 없음; 불면증이나 불안을 악화시킬 수 있으므로 오후 2시 이후에는 피함

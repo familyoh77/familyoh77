@@ -140,7 +140,7 @@
 
 <figure><img src="../.gitbook/assets/호흡2.JPG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="background-color:$warning;">응급 관리</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 * 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보; 필요시 즉시 119 호출 및 전원
 * 앉은 자세 유지
@@ -157,7 +157,7 @@
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>
+### <mark style="color:purple;">질병코드</mark>
 
 R06.0 호흡곤란
 

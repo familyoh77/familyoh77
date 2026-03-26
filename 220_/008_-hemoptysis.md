@@ -90,6 +90,16 @@
   * Tranexamic acid 흡입 : 500 mg in 5 mL NS, nebulizer (일부 연구에서 지혈 효과 보고)
 * 소량 객혈, 안정적 환자 : 원인 파악 후 외래 추적
 
+### <mark style="color:$primary;">위험도 분류 및 처치 방향 \[BTS 2020]</mark>
+
+| 위험도 | 기준 | 처치 |
+|---|---|---|
+| **고위험** | 대량 객혈, 기도 위협, 활동성 출혈 지속 | 즉시 응급실 의뢰, 기도 확보 |
+| **중위험** | 암·결핵 의심, 반복 객혈, 흉부 X선 이상, 항응고제 복용 | 수일 내 전문과 의뢰(CT, 기관지경) |
+| **저위험** | 젊은 비흡연자, 단발성 소량, URI 상황, X선 정상 | 외래 경과 관찰, 4주 내 재평가 |
+
+_<mark style="color:$info;">Ref. Radchenko C et al. British Thoracic Society Guideline for the investigation and management of haemoptysis. Thorax. 2020;75(Suppl 2):2–17.</mark>_
+
 ### <mark style="color:$primary;">전원 기준</mark>
 
 다음 중 하나라도 해당하면 기관지 내시경 및 기관지동맥색전술(BAE)이 가능한 상급 종합병원으로 전원:
@@ -101,6 +111,6 @@
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>
+### <mark style="color:purple;">질병코드</mark>
 
 R04.2 객혈

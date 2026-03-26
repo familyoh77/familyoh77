@@ -243,6 +243,6 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>
+### <mark style="color:purple;">질병코드</mark>
 
 R07.4 상세불명의 흉통

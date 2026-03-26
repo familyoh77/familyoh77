@@ -150,6 +150,17 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
   * 신부전 또는 신증후군 시 고용량 필요
   * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
 
+### <mark style="color:$primary;">심부전에 의한 부종 — 기저 치료 원칙</mark>
+
+* 부종 자체(이뇨제)보다 **심부전의 신경호르몬 억제 치료**가 장기 예후를 결정함 (ESC HF Guideline 2021)
+* **HFrEF (LVEF ＜40%)** 에서 다음 약제를 단계적으로 추가하여 최대 내약 용량 유지
+  * ACE 억제제 또는 ARB → 베타차단제 → MRA(spironolactone/eplerenone) → 증상 지속 시 SGLT2 억제제(dapagliflozin, empagliflozin) 추가 (Class I, LOE A)
+  * SGLT2 억제제 : 이뇨 효과 및 심혈관 사망·심부전 입원 감소; 당뇨 유무와 무관하게 권고
+* **HFpEF (LVEF ≥50%)** : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 고려 (Class IIb)
+* 1차 진료에서 심부전 확인 시 **심장내과 협진 또는 의뢰** 권고 (약물 선택 및 용량 조절)
+
+_<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599–726.</mark>_
+
 ### <mark style="color:$primary;">특발성 부종증후군, 하지 부종</mark>
 
 * 이미 이뇨제를 사용하고 있는 경우에는 이뇨제 중단(diuretic withdrawal)을 먼저 시행한 후 약물 치료를 고려함; 2\~4주 동안 복용 중단 및 저염식 병행

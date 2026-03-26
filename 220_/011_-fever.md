@@ -45,6 +45,7 @@
 * 쇼크(저혈압·빈맥)
 * 심한 호흡 곤란(빈호흡)
 * ＞41℃의 고열
+* **패혈증 의심 — qSOFA 2점 이상** : 빈호흡(≥22회/분) + 의식 변화 + 수축기혈압 ≤100 mmHg 중 2개 이상 (Surviving Sepsis Campaign 2021)
 
 <mark style="color:$warning;">**수 시간 내 긴급 평가 필요 (응급실 방문)**</mark>
 
@@ -145,6 +146,6 @@
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>
+### <mark style="color:purple;">질병코드</mark>
 
 R50 기타 및 원인 미상의 열
