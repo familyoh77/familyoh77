@@ -7,7 +7,7 @@
 * 만성적이고 점차 악화되며 다리에서 시작하지만 팔이나 다른 신체 부위에서도 발생할 수 있음
 * 원발성 : 보통 ＜45세에 발생, 서서히 진행, 지속; 증상 완화가 치료 목표
 * 속발성 : 보다 빠르게 진행; 원인 제거 시 호전
-* 유병률 : 성인 2~3%(주 2회 이상, 중등도 이상 증상 기준)
+* 유병률 : 성인 2\~3%(주 2회 이상, 중등도 이상 증상 기준)
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -17,13 +17,13 @@
 * 편측성 증상 — 척수·말초신경 병변 배제 필요
 * 신경학적 이상 동반 : 근력 약화, 감각 소실, 보행 장애
 
-<mark style="color:$warning;">**조기 의뢰 권고**</mark>
+<mark style="color:$warning;">**조기 의뢰**</mark>&#x20;
 
 * 표준 치료(gabapentin 계열 + 철분 보충)에 반응하지 않는 경우
 * 도파민 작용제 복용 중 증상이 이전보다 이른 시각에 발생하거나 상지·몸통으로 확산되는 경우(augmentation 의심)
 * 임신 중 중증 RLS — 치료 선택지 제한으로 전문과 상담 필요
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가**</mark>&#x20;
 
 * 철분 보충 시작 3개월 후 ferritin, transferrin saturation 재검
 * 도파민 작용제 복용 환자 : 매 방문마다 augmentation 여부 확인
@@ -44,26 +44,25 @@
 
 * 불쾌한 이상 감각 : 움직이고 싶은 충동, 벌레가 기어 다니는 느낌, 불안정감, 가려움, 통증; 피부보다 깊은 부위에서의 느낌
 * 활동으로 호전, 비활동으로 재발
-* 발생 빈도 : 다양(매일 ~ ＜1회/월)
-* 움직임 충동 지속 시간 : 10~90초(평균 25초)
-* 발생 시기 : 저녁~밤(주로 잠들기 전); 낮에도 발생할 수 있음
-* 중증도 : 다양(무시할 만함 ~ 생활에 지장을 줌)
+* 발생 빈도 : 다양(매일 \~ ＜1회/월)
+* 움직임 충동 지속 시간 : 10\~90초(평균 25초)
+* 발생 시기 : 저녁\~밤(주로 잠들기 전); 낮에도 발생할 수 있음
+* 중증도 : 다양(무시할 만함 \~ 생활에 지장을 줌)
 * 동반 증상 : 수면 장애(수면 개시 어려움), 피로, 불안, 주간 졸음
-* 동반 소견 : Periodic Limb Movement during Sleep (PLMS) — 수면 중 주기적 사지 움직임, 15~30초 간격
+* 동반 소견 : Periodic Limb Movement during Sleep (PLMS) — 수면 중 주기적 사지 움직임, 15\~30초 간격
 
 ## <mark style="color:green;">진단</mark>
 
-* 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : **ferritin**, **transferrin saturation** (= Fe/TIBC × 100), Fe, TIBC
+* 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : ferritin, transferrin saturation (= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
 * 도파민 약물 치료에 대한 반응 평가
 * 필요시 수면다원검사(polysomnography) — PLMD 동반 여부 확인
 
-{% hint style="warning" %}
-**철분 검사 목표치** (2024 AASM 기준)\
-• ferritin **≤75 ng/mL** 또는 transferrin saturation **<20%** → 경구 또는 IV 철분 보충\
-• ferritin **75~100 ng/mL** → IV 철분만 고려 (경구 철분은 이 범위에서 흡수 불량)\
-• ferritin **>100 ng/mL** 및 transferrin saturation ≥20% → 철분 보충 불필요
-{% endhint %}
+※ **철분 검사 목표치** (2024 AASM 기준)
+
+* ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 경구 또는 IV 철분 보충
+* ferritin 75\~100 ng/mL → IV 철분만 고려 (경구 철분은 이 범위에서 흡수 불량)
+* ferritin >100 ng/mL 및 transferrin saturation ≥20% → 철분 보충 불필요
 
 ### <mark style="color:$primary;">진단 기준 \[IRLSSG 2014]</mark>
 
@@ -115,14 +114,13 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * **Step 4** : 비약물 치료 병행
 * **Step 5** : 약물 치료 — 중등도 이상, 삶의 질에 영향을 주는 경우 고려
 
-{% hint style="danger" %}
-**도파민 작용제 Augmentation 주의**\
-도파민 작용제(pramipexole, ropinirole, rotigotine) 장기 사용 시 augmentation 발생 가능\
-• 증상 : 증상 발생 시각이 점점 이전으로 앞당겨짐 / 상지·몸통으로 증상 확산 / 전반적 증상 강도 증가\
-• 발생률 : 연간 7~10% → 3년 누적 20~30%, 5년 35~50%\
-• 대처 : 용량 증량은 augmentation을 가속화함 — 증량 금지, 서서히 감량·중단하고 gabapentin 계열로 전환\
-• 2024 AASM 가이드라인은 도파민 작용제에 대해 장기 사용 **조건부 권고 반대** 명시
-{% endhint %}
+※ **도파민 작용제 Augmentation 주의**
+
+* 도파민 작용제(pramipexole, ropinirole, rotigotine) 장기 사용 시 augmentation 발생 가능
+* 증상 : 증상 발생 시각이 점점 이전으로 앞당겨짐 / 상지·몸통으로 증상 확산 / 전반적 증상 강도 증가
+* 발생률 : 연간 7\~10% → 3년 누적 20\~30%, 5년 35\~50%
+* 대처 : 용량 증량은 augmentation을 가속화함 — 증량 금지, 서서히 감량·중단하고 gabapentin 계열로 전환
+* 2024 AASM 가이드라인은 도파민 작용제에 대해 장기 사용 조건부 권고 반대 명시
 
 ## <mark style="color:green;">비약물 치료 및 예방</mark>
 
@@ -132,72 +130,63 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * 다리 마사지, 온찜질, 다리 보온(긴 양말)
 * 저녁 때 알코올, 카페인, 니코틴 회피
 * 활발한 두뇌 활동(게임, 퍼즐)
-* **양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation)** : 비침습적 신경 자극 치료; 2024 AASM 조건부 권고 \[근거 수준 낮음]
+* 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 비침습적 신경 자극 치료; 2024 AASM 조건부 권고 \[근거 수준 낮음]
 
 ## <mark style="color:green;">약물 치료</mark>
 
-{% hint style="info" %}
-**2024 AASM 가이드라인 핵심 변화**\
-기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험으로 인해 장기 사용 **조건부 권고 반대**로 변경.\
-**현재 1차 치료 : gabapentin 계열 (강력 권고)**
-{% endhint %}
+※ **2024 AASM 가이드라인 핵심 변화 :** 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험으로 인해 장기 사용 조건부 권고 반대로 변경. 현재 1차 치료 : gabapentin 계열 (강력 권고)
 
 #### Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열) ★ **1차 선택**
 
 * **근거** : 2024 AASM 강력 권고(Strong recommendation); 13개 RCT + 7개 관찰연구 기반
-* 용법 : 증상 발생 1~2시간 전 저녁 복용
+* 용법 : 증상 발생 1\~2시간 전 저녁 복용
 * 신기능 저하 시 용량 조절 필요
-* **gabapentin** : 100~300 ㎎ qd (저녁) → 증상에 따라 최대 1,800~2,400 ㎎/d \[뉴론틴]
-* **pregabalin** : 50~75 ㎎ qd (저녁) → 최대 300~450 ㎎/d \[리리카]
-* gabapentin enacarbil : 600 ㎎/d (저녁) — 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
+* **gabapentin** : 100\~300 ㎎ qd (저녁) → 증상에 따라 최대 1,800\~2,400 ㎎/d \[뉴론틴]
+* **pregabalin** : 50\~75 ㎎ qd (저녁) → 최대 300\~450 ㎎/d \[리리카]
+* gabapentin enacarbil : 600 ㎎/d (저녁); FDA 유일 RLS 승인 gabapentinoid. 국내 미발매
 
 #### 철분 보충 ★ **1차 선택 (철분 지표 기준에 해당 시)**
 
-* **IV ferric carboxymaltose** : ferritin <100 ng/mL 또는 transferrin saturation <20% → **강력 권고**
-* **경구 ferrous sulfate** : ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 조건부 권고
+* IV ferric carboxymaltose : ferritin <100 ng/mL 또는 transferrin saturation <20% → 강력 권고
+* 경구 ferrous sulfate : ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 조건부 권고
   * 철분 흡수 향상 위해 공복(식전 1시간) 복용, Vit C 병용 고려
   * ferritin >75 ng/mL이면 경구 흡수 불량 — IV 철분 고려
 * IV low molecular weight iron dextran, IV ferumoxytol : 조건부 권고
 
-#### 도파민 작용제 ※ **장기 사용 조건부 권고 반대 (2024 AASM)**
+#### 도파민 작용제&#x20;
 
-* **단기 사용** 또는 gabapentin 계열 불내성/금기 시 제한적 선택 가능
-* **Augmentation 발생 시 즉시 감량·중단** (용량 증량 금지)
-* pramipexole : 0.125 ㎎ qd → 4~7일마다 0.125 ㎎/d 증량. **최대 0.5 ㎎ qd** \[미라펙스]
-* ropinirole : 0.25 ㎎ qd → 1주마다 0.5 ㎎/d 증량. **최대 4 ㎎ qd** \[리큅]
-* rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. **최대 3 ㎎ qd** \[뉴프로 패취] _(augmentation 기준 최대 용량 3 ㎎)_
+* 장기 사용 조건부 권고 반대 (2024 AASM)
+* 단기 사용 또는 gabapentin 계열 불내성/금기 시 제한적 선택 가능
+* augmentation 발생 시 즉시 감량·중단 (용량 증량 금지)
+* pramipexole : 0.125 ㎎ qd → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd \[미라펙스]
+* ropinirole : 0.25 ㎎ qd → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd \[리큅]
+* rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd \[뉴프로 패취] _(augmentation 기준 최대 용량 3 ㎎)_
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
-* **금기** : 정신 질환, 도파민 대항제 투여 중
+* 금기 : 정신 질환, 도파민 대항제 투여 중
 
 #### 항파킨슨제
 
 * 간헐적 증상에 대하여 필요 시 단기 선택 (augmentation 위험으로 장기 사용 권고 반대)
-* carbidopa/levodopa : 10/100~25/250 ㎎ \[시네메트]
+* carbidopa/levodopa : 10/100\~25/250 ㎎ \[시네메트]
 
 #### Opioid (조건부 권고)
 
-* 적응 : ① 중등~중증 RLS로 gabapentin 계열 불충분한 경우; ② **도파민 작용제 augmentation 발생 시 tapering 보조** 목적
+* 적응 : 중등\~중증 RLS로 gabapentin 계열 불충분한 경우; 도파민 작용제 augmentation 발생 시 tapering 보조 목적
 * 취침 시 저용량 투여; 중추성 수면무호흡증 주의 (고용량 시)
-* oxycodone CR : 5~20 ㎎/d \[아이알코돈]
-* tramadol : 50~100 ㎎/d \[트라마돌]
-* hydrocodone : 5~20 ㎎/d \[하이코돈]
+* oxycodone CR : 5\~20 ㎎/d \[아이알코돈]
+* tramadol : 50\~100 ㎎/d \[트라마돌]
+* hydrocodone : 5\~20 ㎎/d \[하이코돈]
 
 #### 기타 (조건부 권고)
 
-* **dipyridamole** : 100~200 ㎎/d; 아데노신 기전 — 조건부 권고 \[페르산틴]
-* clonidine : 0.05~0.1 ㎎/d \[켑베이]
-* baclofen : 20~80 ㎎/d \[바크론]
+* dipyridamole : 100\~200 ㎎/d; 아데노신 기전 - 조건부 권고 \[페르산틴]
+* clonidine : 0.05\~0.1 ㎎/d \[켑베이]
+* baclofen : 20\~80 ㎎/d \[바크론]
 * Vit/미네랄 보충 : Mg, Vit B12, folate (근거 제한적; 결핍 시 보충)
 
 #### ⛔ 권고하지 않는 약제 (2024 AASM)
 
-| 약제 | 권고 수준 | 이유 |
-|------|-----------|------|
-| cabergoline \[카버젝트] | **강력 권고 반대** | 심장판막 손상 위험 |
-| clonazepam \[리보트릴] | 조건부 권고 반대 | 임상적 유의한 호전 미입증 |
-| carbamazepine \[테그레톨] | 조건부 권고 반대 | 임상적 유의한 호전 미입증 |
-| valproic acid \[데파킨] | 조건부 권고 반대 | 임상적 유의한 호전 미입증 |
-| pergolide | — | 심장판막 손상으로 국내외 퇴출 |
+<table><thead><tr><th width="221.84210205078125">약제</th><th width="164.05267333984375">권고 수준</th><th>이유</th></tr></thead><tbody><tr><td>cabergoline [카버젝트]</td><td>강력 권고 반대</td><td>심장판막 손상 위험</td></tr><tr><td>clonazepam [리보트릴]</td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>carbamazepine [테그레톨]</td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>valproic acid [데파킨]</td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>pergolide</td><td>—</td><td>심장판막 손상으로 국내외 퇴출</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.</mark>_
 
@@ -267,7 +256,7 @@ G25.81 하지불안증후군
 > * 다리뿐만 아니라 팔이나 몸통으로 증상이 퍼지는 경우
 > * 약 용량을 늘렸는데도 증상이 더 심해지는 경우 (augmentation 의심)
 > * 어지럼, 낙상, 심한 졸음, 충동 조절 문제가 생기는 경우
-> * 4~6주 치료 후에도 증상 호전이 없는 경우
+> * 4\~6주 치료 후에도 증상 호전이 없는 경우
 
 ***
 
@@ -282,8 +271,8 @@ G25.81 하지불안증후군
 #### 하지불안증후군이란 무엇인가요?
 
 * **하지불안증후군** : 쉬거나 누워 있을 때 다리를 움직이고 싶은 강한 충동과 함께 다리에 불편한 이상 감각(벌레가 기어다니는 느낌, 저림, 통증 등)이 발생하는 신경계 질환입니다
-* 저녁~밤에 심해지고, 다리를 움직이거나 걸으면 일시적으로 나아집니다
-* 성인의 약 2~3%에서 나타나며, 수면 장애와 낮 동안의 피로를 유발합니다
+* 저녁\~밤에 심해지고, 다리를 움직이거나 걸으면 일시적으로 나아집니다
+* 성인의 약 2\~3%에서 나타나며, 수면 장애와 낮 동안의 피로를 유발합니다
 * 철분 부족, 신장 질환, 임신, 일부 약물 등이 원인이 될 수 있습니다
 
 #### 어떻게 치료하나요?
@@ -294,7 +283,7 @@ G25.81 하지불안증후군
 
 #### 도파민 약물(미라펙스, 리큅 등)을 복용 중이라면 꼭 알아 두세요
 
-* 이 약물들은 단기적으로 효과가 있지만, 오래 복용하면 **증상이 오히려 악화되는 현상(augmentation)**이 나타날 수 있습니다
+* 이 약물들은 단기적으로 효과가 있지만, 오래 복용하면 \*\*증상이 오히려 악화되는 현상(augmentation)\*\*이 나타날 수 있습니다
 * 증상이 낮에도 나타나거나, 팔이나 몸통으로 퍼지거나, 약을 늘렸는데도 더 심해진다면 즉시 의사에게 알려 주십시오
 * 이 약을 갑자기 끊으면 반동 증상이 심해질 수 있으므로, 반드시 의사 지도하에 서서히 줄여야 합니다
 
