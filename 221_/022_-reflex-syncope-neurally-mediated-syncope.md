@@ -70,7 +70,7 @@
 * 기립 직후 발생, 기립 후 혈압 감소 확인 → 기립성 저혈압 (☞ p.500)
 * 전조 없는 돌발 실신, 운동 중 발생, 심장 병력 → 심장성 실신 배제 필요
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### 치료 방침
 
