@@ -17,13 +17,13 @@
 * 편측성 증상 — 척수·말초신경 병변 배제 필요
 * 신경학적 이상 동반 : 근력 약화, 감각 소실, 보행 장애
 
-<mark style="color:$warning;">**조기 의뢰 권고**</mark>
+<mark style="color:$warning;">**조기 의뢰**</mark>
 
 * 표준 치료(gabapentin 계열 + 철분 보충)에 반응하지 않는 경우
 * 도파민 작용제 복용 중 증상이 이전보다 이른 시각에 발생하거나 상지·몸통으로 확산되는 경우(augmentation 의심)
 * 임신 중 중증 RLS — 치료 선택지 제한으로 전문과 상담 필요
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
 * 철분 보충 시작 3개월 후 ferritin, transferrin saturation 재검
 * 도파민 작용제 복용 환자 : 매 방문마다 augmentation 여부 확인
@@ -53,17 +53,16 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : **ferritin**, **transferrin saturation** (= Fe/TIBC × 100), Fe, TIBC
+* 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : ferritin, transferrin saturation (= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
 * 도파민 약물 치료에 대한 반응 평가
 * 필요시 수면다원검사(polysomnography) — PLMD 동반 여부 확인
 
-{% hint style="warning" %}
-**철분 검사 목표치** (2024 AASM 기준)\
-• ferritin **≤75 ng/mL** 또는 transferrin saturation **<20%** → 경구 또는 IV 철분 보충\
-• ferritin **75\~100 ng/mL** → IV 철분만 고려 (경구 철분은 이 범위에서 흡수 불량)\
-• ferritin **>100 ng/mL** 및 transferrin saturation ≥20% → 철분 보충 불필요
-{% endhint %}
+※ **철분 검사 목표치** (2024 AASM 기준)
+
+* ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 경구 또는 IV 철분 보충
+* ferritin 75\~100 ng/mL → IV 철분만 고려 (경구 철분은 이 범위에서 흡수 불량)
+* ferritin >100 ng/mL 및 transferrin saturation ≥20% → 철분 보충 불필요
 
 ### <mark style="color:$primary;">진단 기준 \[IRLSSG 2014]</mark>
 
@@ -108,9 +107,9 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 **도파민 작용제 Augmentation 주의**\
 도파민 작용제(pramipexole, ropinirole, rotigotine) 장기 사용 시 augmentation 발생 가능\
 • 증상 : 증상 발생 시각이 점점 이전으로 앞당겨짐 / 상지·몸통으로 증상 확산 / 전반적 증상 강도 증가\
-• 발생률 : 연간 7~~10% → 3년 누적 20~~30%, 5년 35\~50%\
-• **용량 증량은 불에 기름을 붓는 격** — 증상이 심해졌다고 증량하면 augmentation이 가속화됨. 증량 절대 금지\
-• 2024 AASM 가이드라인은 도파민 작용제에 대해 장기 사용 **조건부 권고 반대** 명시
+• 발생률 : 연간 7\~10% → 3년 누적 20\~30%, 5년 35\~50%\
+• 용량 증량은 불에 기름을 붓는 격 — 증상이 심해졌다고 증량하면 augmentation이 가속화됨. 증량 절대 금지\
+• 2024 AASM 가이드라인은 도파민 작용제에 대해 장기 사용 조건부 권고 반대 명시
 
 **Augmentation 발생 시 교체 전략 (Tapering + Overlapping)**\
 1\. gabapentin 계열을 **먼저 시작**하고 최소 2주 이상 중복 투여 기간(overlapping) 확보\
@@ -127,7 +126,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * 다리 마사지, 온찜질, 다리 보온(긴 양말)
 * 저녁 때 알코올, 카페인, 니코틴 회피
 * 활발한 두뇌 활동(게임, 퍼즐)
-* **양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation)** : 비침습적 신경 자극 치료; 2024 AASM 조건부 권고 \[근거 수준 낮음]
+* 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 비침습적 신경 자극 치료; 2024 AASM 조건부 권고 \[근거 수준 낮음]
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -137,35 +136,38 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 **현재 1차 치료 : gabapentin 계열 (강력 권고)**
 {% endhint %}
 
-#### Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열) ★ **1차 선택**
+#### Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열)&#x20;
 
-* **근거** : 2024 AASM 강력 권고(Strong recommendation); 13개 RCT + 7개 관찰연구 기반
+* 1차 선택
+* 근거 : 2024 AASM 강력 권고(Strong recommendation); 13개 RCT + 7개 관찰연구 기반
 * 용법 : 증상 발생 1\~2시간 전 저녁 복용
 * 신기능 저하 시 용량 조절 필요
-* **gabapentin** : 100~~300 ㎎ qd (저녁) → 증상에 따라 최대 1,800~~2,400 ㎎/d \[뉴론틴]
-* **pregabalin** : 50~~75 ㎎ qd (저녁) → 최대 300~~450 ㎎/d \[리리카]
+* gabapentin : 100\~300 ㎎ qd (저녁) → 증상에 따라 최대 1,800\~2,400 ㎎/d \[뉴론틴]
+* pregabalin : 50\~75 ㎎ qd (저녁) → 최대 300\~450 ㎎/d \[리리카]
 * gabapentin enacarbil : 600 ㎎/d (저녁) — 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
 
-#### 철분 보충 ★ **1차 선택 (철분 지표 기준에 해당 시)**
+#### 철분 보충&#x20;
 
-* **IV ferric carboxymaltose (페린젝트)** : ferritin <100 ng/mL 또는 transferrin saturation <20% → **강력 권고**
-  * 위장관 흡수에 의존하지 않아 헵시딘(hepcidin) 억제의 영향을 받지 않음 — 효과 빠르고 예측 가능
+* 1차 선택 (철분 지표 기준에 해당 시)
+* IV ferric carboxymaltose (페린젝트) : ferritin <100 ng/mL 또는 transferrin saturation <20% → 강력 권고
+  * 위장관 흡수에 의존하지 않아 헵시딘(hepcidin) 억제의 영향을 받지 않음 - 효과 빠르고 예측 가능
   * 경구 철분 대비 뇌 철분 보충 속도가 빠름; 단회 또는 소수 회 투여로 충분
-* **경구 ferrous sulfate** : ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 조건부 권고
+* 경구 ferrous sulfate : ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 조건부 권고
   * 공복(식전 1시간) 복용, Vit C 병용으로 흡수 향상
   * ferritin >75 ng/mL이면 경구 흡수 불량(헵시딘 상승으로 십이지장 철분 흡수 억제) — IV 철분 고려
-  * **격일 복용(every other day) 권고** : 매일 복용보다 헵시딘 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
+  * 격일 복용(every other day) 권고 : 매일 복용보다 헵시딘 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
 * IV low molecular weight iron dextran, IV ferumoxytol : 조건부 권고
 
-#### 도파민 작용제 ※ **장기 사용 조건부 권고 반대 (2024 AASM)**
+#### 도파민 작용제&#x20;
 
-* **단기 사용** 또는 gabapentin 계열 불내성/금기 시 제한적 선택 가능
-* **Augmentation 발생 시 즉시 감량·중단** (용량 증량 금지)
-* pramipexole : 0.125 ㎎ qd → 4\~7일마다 0.125 ㎎/d 증량. **최대 0.5 ㎎ qd** \[미라펙스]
-* ropinirole : 0.25 ㎎ qd → 1주마다 0.5 ㎎/d 증량. **최대 4 ㎎ qd** \[리큅]
-* rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. **최대 3 ㎎ qd** \[뉴프로 패취] _(augmentation 기준 최대 용량 3 ㎎)_
+* 장기 사용 조건부 권고 반대 (2024 AASM)
+* 단기 사용 또는 gabapentin 계열 불내성/금기 시 제한적 선택 가능
+* Augmentation 발생 시 즉시 감량·중단 (용량 증량 금지)
+* pramipexole : 0.125 ㎎ qd → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd \[미라펙스]
+* ropinirole : 0.25 ㎎ qd → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd \[리큅]
+* rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd \[뉴프로 패취] _(augmentation 기준 최대 용량 3 ㎎)_
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
-* **금기** : 정신 질환, 도파민 대항제 투여 중
+* 금기 : 정신 질환, 도파민 대항제 투여 중
 
 #### 항파킨슨제
 
@@ -174,7 +176,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 #### Opioid (조건부 권고)
 
-* 적응 : ① 중등\~중증 RLS로 gabapentin 계열 불충분한 경우; ② **도파민 작용제 augmentation 발생 시 tapering 보조** 목적
+* 적응 : 중등\~중증 RLS로 gabapentin 계열 불충분한 경우; 도파민 작용제 augmentation 발생 시 tapering 보조 목적
 * 취침 시 저용량 투여; 중추성 수면무호흡증 주의 (고용량 시)
 * oxycodone CR : 5\~20 ㎎/d \[아이알코돈]
 * tramadol : 50\~100 ㎎/d \[트라마돌]
@@ -182,20 +184,20 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 #### 기타 (조건부 권고)
 
-* **dipyridamole** : 100\~200 ㎎/d; 아데노신 기전 — 조건부 권고 \[페르산틴]
+* dipyridamole : 100\~200 ㎎/d; 아데노신 기전 — 조건부 권고 \[페르산틴]
 * clonidine : 0.05\~0.1 ㎎/d \[켑베이]
 * baclofen : 20\~80 ㎎/d \[바크론]
 * Vit/미네랄 보충 : Mg, Vit B12, folate (근거 제한적; 결핍 시 보충)
 
 #### ⛔ 권고하지 않는 약제 (2024 AASM)
 
-| 약제                    | 권고 수준        | 이유               |
-| --------------------- | ------------ | ---------------- |
-| cabergoline \[카버젝트]   | **강력 권고 반대** | 심장판막 손상 위험       |
-| clonazepam \[리보트릴]    | 조건부 권고 반대    | 임상적 유의한 호전 미입증   |
-| carbamazepine \[테그레톨] | 조건부 권고 반대    | 임상적 유의한 호전 미입증   |
-| valproic acid \[데파킨]  | 조건부 권고 반대    | 임상적 유의한 호전 미입증   |
-| pergolide             | —            | 심장판막 손상으로 국내외 퇴출 |
+| 약제                    | 권고 수준     | 이유               |
+| --------------------- | --------- | ---------------- |
+| cabergoline \[카버젝트]   | 강력 권고 반대  | 심장판막 손상 위험       |
+| clonazepam \[리보트릴]    | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
+| carbamazepine \[테그레톨] | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
+| valproic acid \[데파킨]  | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
+| pergolide             | —         | 심장판막 손상으로 국내외 퇴출 |
 
 _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.</mark>_
 
