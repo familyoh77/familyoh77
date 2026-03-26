@@ -21,7 +21,8 @@
 •Stroke and transient ischaemic attack in over 16s: Diagnosis and initial management. NICE (2019)\
 •Motion Sickness. Travelers' Health. CDC (2019)\
 •Generalised anxiety disorder and panic disorder in adults: Management. NICE (2019)\
-•한국형 범불안장애 약물 치료 지침서. 대한불안의학회 (2009)\
+•한국형 범불안장애 약물 치료 지침서. 대한불안의학회 (2009)
+•한국형 범불안장애 치료 지침. 대한불안의학회 (2024)\
 •한국형 공황장애 치료지침서. 대한불안의학회 (2018)\
 •Practice guideline for the treatment of patients with panic disorder. APA (2009)\
 •New guidance for treating depression. APA (2019)\
@@ -42,3 +43,5 @@
 •Parkinson’s disease in adults. NICE (2017)\
 •Practice guideline summary: Treatment of restless legs syndrome in adults. AAN (2016)\
 •European guidelines on management of restless legs syndrome. ENS & ESRS (2012)
+•Consensus Statement on the Definition of Orthostatic Hypotension. AHA / American Autonomic Society (2011)
+•Postural Tachycardia Syndrome (POTS): Diagnosis and Treatment. Dysautonomia International (2019)
