@@ -34,6 +34,7 @@
   * [불면증 Insomnia, Sleep Disorder](221_/029_-insomnia-sleep-disorder.md)
   * [자율 신경 기능 장애 Autonomic Dysfunction](221_/autonomic-dysfunction.md)
   * [신체증상장애 Somatic Symptom Disorder](221_/031_-somatic-symptom-disorder.md)
+  * [번아웃 / 스트레스 관련 장애 Burnout / Stress-related Disorder](037_-burnout-stress-related-disorder.md)
   * [경도인지장애 Mild Cognitive Impairment, MCI](221_/032_-mild-cognitive-impairment-mci.md)
   * [치매 Dementia](221_/033_-dementia.md)
   * [떨림 Tremor](221_/034_-tremor.md)
