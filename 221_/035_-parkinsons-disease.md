@@ -1,4 +1,4 @@
-# 파킨슨병 Parkinson's Disease
+# 파킨슨병 Parkinson’s Disease
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -10,16 +10,15 @@
 ## <mark style="color:green;">원인</mark>
 
 * 불명
-* 기전 : basal ganglia(특히 substantia nigra)에서의 dopamin 생성 neurons의 소실, 도파민 뉴런에서 Lewy body 발달 → 도파민 생성 감소/고갈 → 도파민과 acetylcholine 사이의 불균형
+* 기전(추정) : substantia nigra의 도파민 뉴런 소실 및 Lewy body(주성분: α-synuclein) 형성이 병리학적으로 확인됨; 이로 인한 도파민 감소와 도파민-acetylcholine 불균형이 운동 증상의 주요 기전으로 설명되나, Lewy body의 정확한 역할 및 뉴런 소실의 근본 원인은 미해명
 
-### <mark style="color:$primary;">전구 증상 (Prodromal symptoms)</mark>
+### <mark style="color:$primary;">전구 증상</mark>
 
-* 운동 증상이 나타나기 **수년\~10년 전**부터 다음 증상들이 선행할 수 있음; 조기 진단의 단서가 됨
-* **REM 수면 행동 장애 (RBD)** : 수면 중 소리를 지르거나 팔다리를 움직이는 행동; 파킨슨병으로 전환되는 가장 강력한 예측 인자
-* **후각 소실** : 이유 없는 냄새 감각 저하
-* **변비** : 만성적인 배변 장애
-* **우울/불안** : 원인 불명의 기분 변화
-* 위 증상들이 복합적으로 존재하는 경우 파킨슨병 전구기를 의심하고 추적 관찰 권장
+* 운동 증상이 나타나기 수년\~10년 전부터 다음 증상들이 선행할 수 있음; 조기 진단의 단서가 되며, 이 증상들이 복합적으로 존재하는 경우 파킨슨병 전구기를 의심하고 추적 관찰 권장
+* REM 수면 행동 장애 (RBD) : 수면 중 소리를 지르거나 팔다리를 움직이는 행동; 파킨슨병으로 전환되는 가장 강력한 예측 인자
+* 후각 소실 : 이유 없는 냄새 감각 저하
+* 변비 : 만성적인 배변 장애
+* 우울/불안 : 원인 불명의 기분 변화
 
 ### <mark style="color:$danger;">위험 인자</mark>
 
@@ -34,14 +33,26 @@
 
 #### 운동 증상
 
-1. resting tremor : 4\~6㎐, 원위부에서 흔함(주로 손(pill-rolling tremor), 드물게 다리/입술/턱/혀 떨림); 움직임/수면 시 호전; postural tremor 동반 가능; 환자의 ＞70%에서 발생
-2. rigidity : 수동적 움직임에 대한 저항 증가; cogwheel(catching & releasing) 또는 lead pipe(지속적인 경직), bidirectional; 웅크린 자세; 통증을 동반할 수 있음; 환자의 ＞90%에서 발생
-3. bradykinesia 또는 akinesia : 움직임 속도 감소, 미세 작업 장애; 환자의 80\~100%에서 발생; **반복적인 움직임 시 진폭 또는 속도가 점진적으로 감소(decrement)하는 양상**이 진단적으로 중요 (예: 손가락 두드리기, 주먹 쥐었다 펴기 반복 시 관찰)
-   1. [보행 장애](https://www.youtube.com/watch?v=pFLC9C-xH8E) : 느려진 움직임, 좁게 발을 끌며 걸음(종종 걸음), 가속 보행(앞으로 넘어질 듯, 점차 보행 속도가 빨라짐), 보행 동결(걸음 시작 또는 돌아설 때 보행을 완전히 멈춤); 근 약화는 보통 없음
-   2. 운동 증상 : 타이핑/글씨 쓰기 곤란, 얼굴 표정 감소(가면 얼굴), 눈 깜박임 감소, 언어 장애(운동 감소형 구음 장애, 발성 부전), 연하 곤란, 과다 침 분비, 침대에서 돌아눕기 힘듦, 의자에서 일어서기 힘듦, 작은 글씨증
-   3. 달려오는 자동차를 급히 피해야 하는 것 같은 비상 상황에서는 자발 운동 능력이 잠시 회복될 수 있음
-4. postural instability : 질환 후기에 발생
-5. 시각 : contrast 민감도 저하, hypometric saccade, vestibulo-ocular reflex 장애, upward gaze 및 convergence 장애, lid apraxia
+* resting tremor
+  * 환자의 ＞70%에서 발생
+  * 4\~6㎐, 원위부에서 흔함(주로 손(pill-rolling tremor), 드물게 다리/입술/턱/혀 떨림)
+  * 움직이거나 수면 시 호전
+  * postural tremor 동반 가능
+* rigidity&#x20;
+  * 환자의 ＞90%에서 발생
+  * 수동적 움직임에 대한 저항 증가
+  * cogwheel(catching & releasing) 또는 lead pipe(지속적인 경직), bidirectional
+  * 웅크린 자세
+  * 통증을 동반할 수 있음
+* bradykinesia 또는 akinesia&#x20;
+  * 환자의 80\~100%에서 발생
+  * 움직임 속도 감소, 미세 작업 장애
+  * 반복적인 움직임 시 진폭 또는 속도가 점진적으로 감소(decrement)하는 양상이 진단적으로 중요 (예: 손가락 두드리기, 주먹 쥐었다 펴기 반복 시 관찰)
+  * [보행 장애](https://www.youtube.com/watch?v=pFLC9C-xH8E) : 느려진 움직임, 좁게 발을 끌며 걸음(종종 걸음), 가속 보행(앞으로 넘어질 듯, 점차 보행 속도가 빨라짐), 보행 동결(걸음 시작 또는 돌아설 때 보행을 완전히 멈춤); 근 약화는 보통 없음
+  * 운동 증상 : 타이핑/글씨 쓰기 곤란, 얼굴 표정 감소(가면 얼굴), 눈 깜박임 감소, 언어 장애(운동 감소형 구음 장애, 발성 부전), 연하 곤란, 과다 침 분비, 침대에서 돌아눕기 힘듦, 의자에서 일어서기 힘듦, 작은 글씨증
+  * 달려오는 자동차를 급히 피해야 하는 것 같은 비상 상황에서는 자발 운동 능력이 잠시 회복될 수 있음
+* postural instability : 질환 후기에 발생
+* 시각 : contrast 민감도 저하, hypometric saccade, vestibulo-ocular reflex 장애, upward gaze 및 convergence 장애, lid apraxia
 
 #### 비-운동 증상
 
@@ -60,7 +71,7 @@
 * 호흡성 협착음(respiratory stridor) → Multiple system atrophy 의심
 * Babinski's sign 양성, 소뇌 이상 징후 (운동 실조, 구음 장애, spasticity)
 
-<mark style="color:$warning;">**조기 의뢰 권고**</mark>
+<mark style="color:$warning;">**조기 의뢰**</mark>
 
 * 발병 연령 ＜50세 — Wilson병 등 이차성 원인 배제 필요
 * 빠른 진행, 조기 자세 불안정 및 낙상 (발병 1년 이내)
@@ -68,7 +79,7 @@
 * 조기 중증 자율 신경 기능 상실 (기립성 저혈압, 실금)
 * 근육 과긴장증(dystonia), 하지에서의 증상이 우세
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
 * 치료 반응 불충분 시 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * levodopa 장기 사용 후 wearing-off, dyskinesia 발생 시
@@ -77,15 +88,15 @@
 
 * 임상적으로 진단
 
-### <mark style="color:$primary;">MDS 임상 진단 기준 (2015)</mark>
+### <mark style="color:$primary;">MDS 임상 진단 기준</mark>&#x20;
 
-#### 필수 기준
+**필수 기준**
 
-* **bradykinesia** + 다음 중 ≥1개
-  1. muscular rigidity
-  2. 4\~6 ㎐ resting tremor
+* bradykinesia + 다음 중 ≥1개
+  * muscular rigidity
+  * 4\~6 ㎐ resting tremor
 
-#### 지지 기준 (Supportive criteria) — 진단 가능성 높임
+**지지 기준 (Supportive criteria)** - 진단 가능성을 높임
 
 * levodopa에 명확한 반응(70\~100%)
 * levodopa-induced dyskinesia 발생
@@ -93,7 +104,7 @@
 * 안정 시 떨림 존재
 * 후각 상실 또는 심장 교감 신경 탈신경 (MIBG 스캔)
 
-#### 절대 배제 기준 (Absolute exclusion criteria)
+**절대 배제 기준 (Absolute exclusion criteria)**
 
 * 명확한 소뇌 이상 징후
 * 하방 주시 장애(downward vertical supranuclear gaze palsy)
@@ -104,7 +115,7 @@
 * 피질 감각 소실, 명확한 사지 실행증, 진행성 실어증
 * 정상 기능 도파민 수송체 영상 (DAT-SPECT)
 
-#### Red flags (이하 항목 존재 시 대안 진단 고려)
+**Red flags (이하 항목 존재 시 대안 진단 고려)**
 
 * 발병 5년 이내 빠른 진행으로 휠체어 의존
 * 발병 3년 이내 구음 장애·연하 장애·자율 신경 장애가 운동 증상보다 심함
@@ -118,21 +129,21 @@ _Ref. Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's diseas
 #### 파킨슨병 진단
 
 * bradykinesia 및 다음 중 ≥1개 존재
-  1. muscular rigidity
-  2. 4\~6 ㎐ resting tremor
-  3. postural instability
+  * muscular rigidity
+  * 4\~6 ㎐ resting tremor
+  * postural instability
 
 #### 파킨슨병 가능성
 
 * 다음 중 ≥3개 존재
-  1. 편측 발생으로 시작
-  2. 안정 시 떨림이 있음
-  3. 점진적으로 진행되는 장애
-  4. 시작된 쪽에서 비대칭적으로 지속
-  5. levodopa에 잘 반응(70\~100%)
-  6. 심한 levodopa-induced chorea
-  7. levodopa 반응이 ≥5년 유지됨
-  8. ≥10년 경과
+  * 편측 발생으로 시작
+  * 안정 시 떨림이 있음
+  * 점진적으로 진행되는 장애
+  * 시작된 쪽에서 비대칭적으로 지속
+  * levodopa에 잘 반응(70\~100%)
+  * 심한 levodopa-induced chorea
+  * levodopa 반응이 ≥5년 유지됨
+  * ≥10년 경과
 
 #### 배제 기준
 
@@ -161,9 +172,11 @@ _Ref. Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's diseas
 
 ### <mark style="color:$primary;">감별</mark>
 
-<table><thead><tr><th width="174.42108154296875">분류</th><th width="252.26312255859375">특징</th><th width="115.368408203125">예상 경과</th><th width="127.54541015625">Levodopa에 대한 반응</th></tr></thead><tbody><tr><td>Essential tremor <br>(☞ <a href="034_-tremor.md">떨림</a>)</td><td>대칭적 떨림, 움직임에 의해 악화, 사지 원위부/머리 이환, 발음 이환; 서동증 없음</td><td></td><td>없음</td></tr><tr><td>Drug induced</td><td>현저하지 않은 보행 장애, 상지 증상 혼합, 대칭적; 대부분 항구토제/항정신성 약물 관련</td><td>약물 중단 후 호전</td><td>무관 (약물 중단에 반응)</td></tr><tr><td>Vascular</td><td>갑자기 발생, 국소 신경학적 이상, 단계적 악화, 대칭적 운동 완만, 질질 끄는 보행</td><td>혈관 상태에 따름</td><td>미약</td></tr><tr><td>Progressive supranuclear palsy</td><td>조기 자세 불안/낙상, 몸통 경직, 수직 주시 제한(특히 하방), 놀란 표정</td><td>빠른 진행</td><td>초기 20~30%에서 반응</td></tr><tr><td>Multiple system atrophy</td><td>자율 신경 기능 상실, cerebellar ataxia, corticospinal dysfunction, 파킨슨병</td><td>빠른 진행</td><td>초기 40%에서 반응</td></tr><tr><td>Dementia with Lewy bodies</td><td>인지 기능 저하, 환각, 변동성 정신 장애, 현저한 경직, 운동성 파킨슨병</td><td>알츠하이머와 비슷</td><td>다양 (cholinesterase 억제제 치료 후 평가)</td></tr></tbody></table>
+<table><thead><tr><th width="174">분류</th><th width="252">특징</th><th width="115">예상 경과</th><th width="127">Levodopa에 대한 반응</th></tr></thead><tbody><tr><td>Essential tremor<br>(☞ 떨림)</td><td>대칭적 떨림, 움직임에 의해 악화, 사지 원위부/머리 이환, 발음 이환; 서동증 없음</td><td></td><td>없음</td></tr><tr><td>Drug induced</td><td>현저하지 않은 보행 장애, 상지 증상 혼합, 대칭적; 대부분 항구토제/항정신성 약물 관련</td><td>약물 중단 후 호전</td><td>무관 (약물 중단에 반응)</td></tr><tr><td>Vascular</td><td>갑자기 발생, 국소 신경학적 이상, 단계적 악화, 대칭적 운동 완만, 질질 끄는 보행; 하지 우세</td><td>혈관 상태에 따름</td><td>미약</td></tr><tr><td>Progressive supranuclear palsy (PSP)</td><td>조기 자세 불안/낙상(발병 1년 이내), 몸통 경직, 수직 주시 제한(특히 하방 주시 장애), 놀란 표정(surprised look); Richardson syndrome이 전형적 아형이나 PSP-P(파킨슨 유사형) 등 다양한 아형 존재 [MDS 2017]</td><td>빠른 진행</td><td>초기 20~30%에서 일시적 반응; 대부분 무반응</td></tr><tr><td>Multiple system atrophy (MSA)</td><td>자율 신경 기능 상실(기립성 저혈압, 실금) 필수; MSA-P(파킨슨 우세형) 또는 MSA-C(소뇌 우세형)으로 분류 [개정 기준 2022]; 흡기 시 stridor가 특징적</td><td>빠른 진행</td><td>초기 40%에서 일시적 반응</td></tr><tr><td>Dementia with Lewy bodies (DLB)</td><td>인지 기능 저하가 운동 증상보다 선행 또는 동반(1년 이내); 변동성 인지 장애, 반복적 시각 환각, REM 수면 행동 장애(RBD), DAT-SPECT 이상이 핵심 진단 기준 [개정 기준 2017]; 현저한 경직</td><td>알츠하이머와 비슷</td><td>다양; cholinesterase 억제제가 인지·정신 증상에 효과적</td></tr></tbody></table>
 
-_Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
+_Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy. Mov Disord 2017;32(6). Wenning GK, et al. The Movement Disorder Society criteria for MSA. Mov Disord 2022;37(6). McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies. Neurology 2017;89(1)._
+
+
 
 * 우울증 : 무표정, 고저가 없는 발성, 활동 감소; 가족력, 떨림의 특징, 다른 운동 증상으로 감별
 * Wilson Dz : 이른 연령에서 시작, 다른 비정상적 움직임, Kayser-Fleischer rings, 만성 간염, 조직 내 구리 농도 증가
@@ -176,8 +189,8 @@ _Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
 
 * 규칙적 운동, 재활 운동
   * 유산소 운동, 태극권, 댄스 등이 보행 및 균형 개선에 도움
-  * **강제 운동(Forced Exercise)** : 자전거 등 외부 자극에 의한 고속 반복 운동; 파킨슨 운동 기능 개선에 유효 (증거 수준 중등도)
-  * **고강도 인터벌 트레이닝(HIIT)** : 신경 보호 효과(neuroprotection) 가능성이 있다는 최근 연구들이 보고됨; 심폐 기능 허용 범위 내에서 적극 권장
+  * 강제 운동(Forced Exercise) : 자전거 등 외부 자극에 의한 고속 반복 운동; 파킨슨 운동 기능 개선에 유효 (증거 수준 중등도)
+  * 고강도 인터벌 트레이닝(HIIT) : 신경 보호 효과(neuroprotection) 가능성이 있다는 최근 연구들이 보고됨; 심폐 기능 허용 범위 내에서 적극 권장
 * 낙상 예방 : 미끄러짐 방지 장치, 발에 걸릴 위험이 있는 물건을 치움, 조명을 어둡지 않게 함
 * 언어/발성 치료 (LSVT LOUD 등)
 * 식사, 영양 관리, 적당한 칼로리 공급
@@ -186,7 +199,7 @@ _Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
   * 소화 장애가 있는 경우 삼키기 쉬운 음식 또는 소화가 잘 되는 음식 선택
   * 소량으로 자주 식사
   * 과식/큰 음식/고지방 식품 섭취를 피함
-  * **단백질 섭취 시간 조절** : 단백질(고기, 생선, 두부, 콩류)은 levodopa 흡수를 경쟁적으로 방해할 수 있음; 가급적 단백질 섭취를 **저녁 식사로 몰아서** 하고, 아침·점심은 탄수화물 위주로 구성하는 전략이 도움됨
+  * 단백질 섭취 시간 조절 : 단백질(고기, 생선, 두부, 콩류)은 levodopa 흡수를 경쟁적으로 방해할 수 있음; 가급적 단백질 섭취를 저녁 식사로 몰아서 하고, 아침·점심은 탄수화물 위주로 구성하는 전략이 도움됨
 
 ### <mark style="color:$primary;">수술적 치료 (약물 불응성)</mark>
 
@@ -206,7 +219,7 @@ _Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
 
 * 도파민 전구체인 levodopa 투여 또는 항콜린제로 acetylcholine 작용 차단
 * 증상을 개선시키지만 병의 진행을 막지는 못함
-* **치료 시작 시기** : 증상이 일상 기능에 영향을 미치면 연령에 무관하게 조기 치료를 적극 고려 (2023 MDS 권고)
+* 치료 시작 시기 : 증상이 일상 기능에 영향을 미치면 연령에 무관하게 조기 치료를 적극 고려 (2023 MDS 권고)
   * 과거에는 장기 사용 시 dyskinesia 우려(levodopa phobia)로 투여를 최대한 늦추었으나, 현재는 이 우려가 과장된 것으로 평가됨
   * 삶의 질 향상을 위해 증상 발생 초기부터 적극적으로 사용하는 것이 원칙; levodopa 자체가 신경독성을 가진다는 근거는 없음
 * 투여 중단 시 tapering
@@ -230,7 +243,7 @@ _Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
 * 도파민 수용체에 직접 작용
 * levodopa 치료 시 발생할 수 있는 response fluctuation와 dyskinesia를 낮춤
 * 단독 또는 levodopa와 병용
-* **DAWS (Dopamine Agonist Withdrawal Syndrome)** : 투여 중단 시 불안, 공황 발작, 발한, 통증, 약물 갈망 등의 금단 증상이 levodopa보다 심하게 나타날 수 있음; 반드시 서서히 감량
+* DAWS (Dopamine Agonist Withdrawal Syndrome) : 투여 중단 시 불안, 공황 발작, 발한, 통증, 약물 갈망 등의 금단 증상이 levodopa보다 심하게 나타날 수 있음; 반드시 서서히 감량
 * 부작용 : 구역, 기립성 저혈압, 졸림, 생생한 꿈, 충동 장애(도박, 과식, 과성욕 등), 착란, 하지 부종, 어지럼
 * pramipexole : 시작 0.125 ㎎ tid, 서방형 0.375 ㎎ qd; 최대 4.5 ㎎/d \[미라펙스]
 * ropinirole : 시작 0.25 ㎎ tid, 서방형 2 ㎎ qd; 최대 8 ㎎ tid(24 ㎎/d) \[리큅]
@@ -250,8 +263,9 @@ _Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
 
 * 도파민 반응을 연장시킴. levodopa에 반응하는 경우 부가 사용 (wearing-off 개선 목적)
 * 부작용 : 구역, 설사, 기립성 저혈압, 착란, 운동이상증, 간독성(tolcapone), 오렌지색 소변
-
-<table><thead><tr><th width="130">성분명 [상품명]</th><th width="175">용법</th><th>특징</th></tr></thead><tbody><tr><td>entacapone [콤탄]</td><td>200 ㎎, levodopa 복용 때마다; 최대 8T(1,600 ㎎)/d</td><td>levodopa와 동시 복용 필수; 복용 횟수 많음</td></tr><tr><td>tolcapone</td><td>시작 100 ㎎ tid; 최대 800 ㎎/d</td><td>간독성 위험 — 간기능 모니터링 필수</td></tr><tr><td>opicapone [온젠티스]</td><td>25\~50 ㎎ qd (취침 전; levodopa 복용 최소 1시간 전후)</td><td>1일 1회 복용으로 편의성 우수; entacapone 대비 On-time 연장 효과 강력; 최신 처방 선호</td></tr></tbody></table>
+* entacapone : levodopa와 동시 복용 필수; 복용 횟수 많음; 200 ㎎, levodopa 복용 때마다; 최대 8T(1,600 ㎎)/d \[콤탄]
+* tolcapone : 시작 100 ㎎ tid; 최대 800 ㎎/d; 간독성 위험, 간기능 모니터링 필수
+* opicapone : 1일 1회 복용으로 편의성 우수. entacapone 대비 On-time 연장 효과 강력; 25\\\~50 ㎎ qd (취침 전; levodopa 복용 최소 1시간 전후) \[온젠티스]
 
 #### NMDA(N-Methyl-d-Aspartate) Inhibitor
 
@@ -262,7 +276,7 @@ _Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
 
 * tremor 및 rigidity 완화에 도움; 젊은 연령에서 심한 진전 조절을 위해 고려
 * 저용량으로 시작하여 점차 증량; 효과적이지 않으면 tapering
-* 부작용 : 입마름, 기억력/시각 장애, 소변 잔류; **고령자에서 인지 기능 저하 위험 — 주의**
+* 부작용 : 입마름, 기억력/시각 장애, 소변 잔류; 고령자에서 인지 기능 저하 위험 주의
 * trihexyphenidyl : 1 ㎎ tid; 증량 2 ㎎ tid; 최대 15 ㎎/d \[트리헥신]
 * benztropine : 0.5 ㎎ 취침 시; 최대 1 ㎎ bid \[벤즈트로핀]
 
@@ -272,20 +286,20 @@ _Ref. Approach to diagnosis of Parkinson disease. Can Fam Physician 2006;52._
 
 ### <mark style="color:$primary;">운동 증상 약제 비교</mark>
 
-<table><thead><tr><th width="130">약제군</th><th width="190">주요 성분명 [상품명]</th><th width="155">기전</th><th width="175">주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>Levodopa/Carbidopa [시네메트]<br>L-dopa/Benserazide [마도파]</td><td>도파민 전구체 보충</td><td>구역, dyskinesia(장기), 기립성 저혈압</td><td>Gold standard; 모든 연령에서 가장 효과적</td></tr><tr><td>Dopamine agonist</td><td>Pramipexole [미라펙스]<br>Ropinirole [리큅]<br>Rotigotine [뉴프로 패취]</td><td>도파민 수용체 직접 자극</td><td>충동 조절 장애, 졸림, DAWS(금단)</td><td>젊은 환자(＜60세) 초기 선호; dyskinesia 위험 낮음</td></tr><tr><td>MAO-B 억제제</td><td>Rasagiline [아질렉트]<br>Safinamide<br>Selegiline [마오비]</td><td>도파민 분해 억제</td><td>불면(저녁 복용 시), 두통, 구역</td><td>초기 단독 또는 levodopa 보조; 내약성 양호; SSRI/TCA 병용 금지</td></tr><tr><td>COMT 억제제</td><td>Entacapone [콤탄]<br>Opicapone [온젠티스]</td><td>Levodopa 말초 분해 억제 → 반감기 연장</td><td>오렌지색 소변, 설사, 운동이상증</td><td>Wearing-off 개선; Opicapone은 1일 1회로 편의성·효과 우수</td></tr><tr><td>NMDA 억제제</td><td>Amantadine [피케이멜즈]</td><td>글루타메이트 차단</td><td>망상피반, 어지럼, 착란, 환각</td><td>Dyskinesia 감소에도 유효</td></tr><tr><td>항콜린제</td><td>Trihexyphenidyl [트리헥신]<br>Benztropine [벤즈트로핀]</td><td>Acetylcholine 작용 차단</td><td>입마름, 소변 잔류, 인지 저하</td><td>Tremor 우세형 젊은 환자에서 고려; 고령자 주의</td></tr></tbody></table>
+<table><thead><tr><th width="117.36846923828125">약제군</th><th width="167.894775390625">주요 성분명 [상품명]</th><th width="119.21051025390625">기전</th><th width="131.84210205078125">주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>Levodopa/Carbidopa [시네메트]<br>L-dopa/Benserazide [마도파]</td><td>도파민 전구체 보충</td><td>구역, dyskinesia(장기), 기립성 저혈압</td><td>Gold standard; 모든 연령에서 가장 효과적</td></tr><tr><td>Dopamine agonist</td><td>Pramipexole [미라펙스]<br>Ropinirole [리큅]<br>Rotigotine [뉴프로 패취]</td><td>도파민 수용체 직접 자극</td><td>충동 조절 장애, 졸림, DAWS(금단)</td><td>젊은 환자(＜60세) 초기 선호; dyskinesia 위험 낮음</td></tr><tr><td>MAO-B 억제제</td><td>Rasagiline [아질렉트]<br>Safinamide<br>Selegiline [마오비]</td><td>도파민 분해 억제</td><td>불면(저녁 복용 시), 두통, 구역</td><td>초기 단독 또는 levodopa 보조; 내약성 양호; SSRI/TCA 병용 금지</td></tr><tr><td>COMT 억제제</td><td>Entacapone [콤탄]<br>Opicapone [온젠티스]</td><td>Levodopa 말초 분해 억제 → 반감기 연장</td><td>오렌지색 소변, 설사, 운동이상증</td><td>Wearing-off 개선; Opicapone은 1일 1회로 편의성·효과 우수</td></tr><tr><td>NMDA 억제제</td><td>Amantadine [피케이멜즈]</td><td>글루타메이트 차단</td><td>망상피반, 어지럼, 착란, 환각</td><td>Dyskinesia 감소에도 유효</td></tr><tr><td>항콜린제</td><td>Trihexyphenidyl [트리헥신]<br>Benztropine [벤즈트로핀]</td><td>Acetylcholine 작용 차단</td><td>입마름, 소변 잔류, 인지 저하</td><td>Tremor 우세형 젊은 환자에서 고려; 고령자 주의</td></tr></tbody></table>
 
 ### <mark style="color:$primary;">운동 증상 이외 증상의 치료</mark>
 
-* **기립성 저혈압** : 수분 섭취 증가, 압박 스타킹, 머리쪽 침대 높이기; midodrine 2.5\~10 ㎎ tid, droxidopa 100\~600 ㎎ tid
-* **주간 졸음** : 야간 수면 환경 개선, 적절한 커피 음용; modafinil, methylphenidate (☞ p.138)
-* **REM 수면 행동 장애** : clonazepam 0.25\~0.5 ㎎ 취침 전 \[리보트릴]; melatonin 3\~12 ㎎ 취침 전
-* **우울** : 보통 SSRI 선택 (TCA보다 부작용이 적음) (☞ [우울증](027_-depression.md))
-* **통증** : 파킨슨 관련 통증에 duloxetine 고려; levodopa 최적화로 off-period 통증 감소
-* **침 흘림** : 침샘에 botulinum toxin 주사; 경구 glycopyrrolate; 설하 atropine, ipratropium
-* **콧물** : 비내 ipratropium
-* **변비** : 충분한 수분/식이 섬유 섭취, 활동; polyethylene glycol, lubiprostone, probiotics (☞ [변비](../224_/082_-constipation.md))
-* **치매** : [알츠하이머병](033_-dementia.md#undefined-17) 치료제 적용; rivastigmine, donepezil, galantamine, memantine
-* **psychosis**(망상, 환각) : 항도파민제가 원인으로 의심되는 경우 감량 또는 교체 고려; quetiapine, clozapine, **pimavanserin** (파킨슨 정신증 최초 적응 허가 약물; 2016 FDA 승인)
+* 기립성 저혈압 : 수분 섭취 증가, 압박 스타킹, 머리쪽 침대 높이기; midodrine 2.5\~10 ㎎ tid, droxidopa 100\~600 ㎎ tid
+* 주간 졸음 : 야간 수면 환경 개선, 적절한 커피 음용; modafinil, methylphenidate (☞ p.138)
+* REM 수면 행동 장애 : clonazepam 0.25\~0.5 ㎎ 취침 전 \[리보트릴]; melatonin 3\~12 ㎎ 취침 전
+* 우울 : 보통 SSRI 선택 (TCA보다 부작용이 적음) (☞ [우울증](027_-depression.md))
+* 통증 : 파킨슨 관련 통증에 duloxetine 고려; levodopa 최적화로 off-period 통증 감소
+* 침 흘림 : 침샘에 botulinum toxin 주사; 경구 glycopyrrolate; 설하 atropine, ipratropium
+* 콧물 : 비내 ipratropium
+* 변비 : 충분한 수분/식이 섬유 섭취, 활동; polyethylene glycol, lubiprostone, probiotics (☞ [변비](../224_/082_-constipation.md))
+* 치매 : [알츠하이머병](033_-dementia.md#undefined-17) 치료제 적용; rivastigmine, donepezil, galantamine, memantine
+* psychosis(망상, 환각) : 항도파민제가 원인으로 의심되는 경우 감량 또는 교체 고려; quetiapine, clozapine, pimavanserin (파킨슨 정신증 최초 적응 허가 약물; 2016 FDA 승인)
 
 ***
 
