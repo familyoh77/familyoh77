@@ -14,20 +14,20 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요 (신경학적 응급; 필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 (신경학적 응급; 필요시 119 호출)**</mark>
 
 * 방광 또는 장 기능 이상 (실금 또는 저류; 마미 증후군 시사)
 * 안장 부위(Saddle anesthesia) 감각 이상, 항문 괄약근 긴장도 저하
 * 하지의 급격한 근력 약화 또는 상하지 이상 감각
 
-<mark style="color:$warning;">**수 시간 내 긴급 평가 필요 (응급실 방문)**</mark>
+<mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
 * 주요 외상 후 심한 통증 (척추 골절 의심)
 * 고령·골다공증 환자에서 경미한 외상(기침, 가벼운 물건 들기) 후 심한 통증
 * 발열, 오한 동반 (척추 감염/골수염 의심)
 * 면역 저하 또는 면역억제제 투여 중
 
-<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 필요 (외래 진료)**</mark>
+<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
 * 치료에 반응하지 않거나 점차 악화
 * 야간 또는 누운 자세에서 악화
