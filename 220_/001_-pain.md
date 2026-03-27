@@ -5,12 +5,12 @@
 * 평가 : 통증에 대하여 다음 항목들을 최소 1년에 한 번 평가
   * 병력, 신체검사, bio-psycho-social 평가, 통증 형태(neuropathic, nociceptive, or mixed), 중증도, 기능에 대한 영향
   * 통증 상태나 기저 질환이 변화할 때는 더 자주 평가
+* 검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
 * 통증 강도 평가 : 환자로 하여금 통증 정도를 표현하도록 함
-  * 예) 시각적 아날로그 통증 스케일(visual analogue scale for pain, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
+  * 시각적 아날로그 통증 스케일(visual analogue scale, VAS) : 100 mm 눈금자에 통증이 없으면 0 mm 지점에, 극심한 통증이 있으면 100 mm에 표시
+  * 수치 평가 척도(numeric rating scale, NRS) : 0\~10 숫자 중 현재 통증 강도를 선택; 0=통증 없음 \~ 10=상상할 수 없는 극심한 통증; 구두로 즉시 측정 가능하여 임상에서 가장 널리 사용됨
 
 <figure><img src="../.gitbook/assets/VAS_pain_scale.png" alt=""><figcaption></figcaption></figure>
-
-* 검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -127,14 +127,14 @@
 
 ### <mark style="color:orange;">NSAID</mark>
 
-☞ [하단](001_-pain.md#nsaid-1)
+☞ [아래](001_-pain.md#nsaid-1)
 
 ### <mark style="color:orange;">Opioids</mark>
 
-* 대상 : non-opioid analgesics에 반응하지 않는 환자에서 opioid의 위험(예: 중독, 과용, 사망)에 비하여 이득이 더 큰 경우에 적용 (보험기준 ☞ p.1175)
+* 대상 : non-opioid analgesics에 반응하지 않는 환자에서 opioid의 위험(예: 중독, 과용, 사망)에 비하여 이득이 더 큰 경우에 적용
 * 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 항콜린 부작용(입마름, 구역, 변비, 소변 저류)
   * 고령에서는 낙상 위험 증가 외에는 NSAID에 비하여 안전
-  * 오피오이드 유발 변비(Opioid-induced constipation, OIC): 내성이 생기지 않으므로 오피오이드 시작과 동시에 자극성 하제(Stimulant laxatives, 예: sennoside \[아락실], bisacodyl \[둘코락스])를 선제적으로 처방하는 것을 고려
+  * 오피오이드 유발 변비(opioid-induced constipation, OIC) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 자극성 하제(stimulant laxatives, 예: sennoside \[아락실], bisacodyl \[둘코락스])를 선제적으로 처방하는 것을 고려
 * 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용, 수면무호흡증
 * 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함
   * 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
@@ -149,7 +149,8 @@
 * 경련 발생 위험이 있으므로 고령이나 간/신기능 저하자에서는 감량
 * 용법 : 50 ㎎ → 필요시 증량 100 ㎎ bid\~qid \[트리돌]
 * acetaminophen 또는 NSAID 병용으로 효과 상승
-  * \[울트라셋] (acetaminophen 복합제), \[Seglentis] (celecoxib 복합제; 국내 미발매)
+  * \[울트라셋] (acetaminophen 복합제)
+  * \[Seglentis] (celecoxib 복합제; 국내 미발매)
 
 #### <mark style="color:$primary;">Codeine</mark>
 
@@ -186,7 +187,8 @@
 **기본 원칙**
 
 * 병력 청취, 이학적 검사, 다양한 평가 도구로 환자 상태를 파악한 이후 꼭 필요한 경우에만 고려
-* 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정; 목표 미달 시 중단 고려
+* 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정
+  * 목표 미달 시 중단 고려 (효과가 입증되지 않은 아편유사제의 관성적 지속 처방 방지)
 * 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야 함. 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/))
 
 **처방 시작**
@@ -211,7 +213,7 @@
   * 3일 이상\~1주 미만 : 2일간 일일 용량을 50%로 감량
   * 1주 이상\~1개월 미만 : 2일마다 약 20%씩 감량
 
-**Opioid 회전 (Opioid Rotation)**
+**Opioid 회전** (Opioid Rotation)
 
 * 다음의 경우 고려 : 부작용 지속, 충분한 증량에도 효과 불충분, 신기능 저하로 졸음/신경 독성 발생
 * 현재 opioid 총량의 MME를 계산 후 대체 약물의 50\~75% MME에서 시작; 부작용 및 진통 효과를 관찰하며 적정
@@ -234,8 +236,8 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">항우울제</mark>
 
-* 항우울제에는 항우울 작용과 별개의 진통 효과가 있으며 TCA 계열이 보다 우수함 (☞ p.1146)
-* 특히 우울증 환자에서 고려 (✽만성 통증 환자에서 흔히 우울증이 동반됨)
+* 항우울제에는 항우울 작용과 별개의 진통 효과가 있으며 TCA 계열이 보다 우수함 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md))
+* 특히 우울증 환자에서 고려 (만성 통증 환자에서 흔히 우울증이 동반됨)
 * 우울증 치료 때보다 효과가 빠르게 나타나며(약 1주) 저용량에서도 효과가 있음
 * 투여 중 부작용 등 위해보다 효과와 필요성이 더 우월한지 여부를 정기적으로 평가
 
@@ -257,7 +259,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 * TCA에 비하여 효과 적음
 * 대상 : 다른 약물 요법으로 실패한 말초신경병증성 통증, 섬유근육통
-* duloxetine : 섬유근육통, 골관절염; 30\~60 ㎎/d qd \[심발타] (보험기준 ☞ p.1177)
+* duloxetine : 섬유근육통, 골관절염; 30\~60 ㎎/d qd \[심발타]&#x20;
 * fluoxetine : 섬유근육통; 20\~80 ㎎/d qd \[푸로작]
 * Tapentadol
   * 작용 : opioid(μ 수용체 작용) + SNRI(norepinephrine 재흡수 억제) 이중 기전
@@ -269,7 +271,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">Benzodiazepine</mark>
 
-* 일부 연구에서 통증 감소에 유효 (☞ p.1149)
+* 일부 연구에서 통증 감소에 유효 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
 * 중독 문제로 ＜2주의 단기 사용으로 제한하며, 만성 통증에 대하여 권고하지 않음
 * 부작용 : 졸음, 의존성
 * clonazepam : 0.25 ㎎ qd\~tid, 필요시 3일 간격 증량, 최대 3\~6 ㎎/d \[리보트릴]
@@ -283,7 +285,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 #### <mark style="color:$primary;">Gabapentinoid (α2δ Ligands)</mark>
 
 * 대상 : 대상포진후신경통, 당뇨병신경병증, central neuropathic pain, 섬유근육통
-* 저용량으로 시작하여 점차 증량 (보험기준 ☞ p.1193)
+* 저용량으로 시작하여 점차 증량
 * 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 보다 빠른 효과를 보임
 * 부작용 : 어지럼/졸음(용량의존; 저용량 시작 및 서서히 증량 시 완화), 말초부종, 체중 증가, 도취감, 의존성/남용 가능성(특히 pregabalin; 영국에서는 2019년 규제 약물로 지정)
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
@@ -306,9 +308,8 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">근이완제</mark>
 
-* 효과에 대한 입증은 전반적으로 부족함 (✽골관절염에 의한 통증에는 효과가 적음)
-* 대상 : 근육 경련이 통증의 원인인 경우
-  * 졸음 등 부작용 문제로 고령자에게는 권고 안 함
+* 효과에 대한 입증은 전반적으로 부족함; 골관절염에 의한 통증에는 효과가 적음
+* 대상 : 근육 경련이 통증의 원인인 경우; 졸음 등 부작용 문제로 고령자에게는 권고 안 함
 * 부작용 : 졸음, 어지럼, 구역
 * 단기 작용제 선택
 * baclofen : 5\~10 ㎎ tid \[바크론]
@@ -321,7 +322,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 ### <mark style="color:orange;">Steroid</mark>
 
 * 작용 : 항염, 진통
-* 부작용 : 혈압 상승, 체액 저류, 골다공증 (☞ p.349)
+* 부작용 : 혈압 상승, 체액 저류, 골다공증
 * dexamethasone : 다른 steroid에 비하여 mineralocorticoid 작용이 적음; 0.5\~8 ㎎/d \[덱사메타손]
 
 ### <mark style="color:orange;">기타 국소 진통제</mark>
@@ -348,30 +349,6 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ***
 
-## <mark style="color:purple;">처방례</mark>
-
-> **처방례 1. 급성 통증**
->
-> ```
-> 부루펜 200 ㎎/T 6T #3
-> ```
->
-> **처방례 2. 우울증 동반**
->
-> ```
-> 센시발 10 ㎎/T 2T #2
-> 타이레놀 이알 650 ㎎/T (필요시)
-> ```
->
-> **처방례 3. 만성 통증**
->
-> ```
-> 쎄레브렉스 200 ㎎/C 1C qd 또는
-> 울트라셋 이알 세미 2T #2 (단기 사용)
-> ```
-
-***
-
 ## <mark style="color:green;">NSAID</mark>
 
 ### <mark style="color:orange;">경구제</mark>
@@ -394,7 +371,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 * 궤양 위험 인자가 있는 환자 : 고령(＞65세), 소화성 궤양 또는 위장관 출혈 병력, IBD, 출혈 경향(혈소판 기능 장애, 항응고 치료 포함), NSAIDs 복합 또는 고용량 투여, steroid 투여
 * 심혈관 질환(MI, 뇌졸중, 정맥혈전증, 조절되지 않는 고혈압), 간/신 장애
-* aspirin 과민 천식 (✽간혹 aspirin 알레르기 환자에서 NSAID에 알레르기 반응이 발생함)
+* aspirin 과민 천식; 간혹 aspirin 알레르기 환자에서 NSAID에 알레르기 반응이 발생함
 * 약물 상호 작용 : 항고혈압제(ACEI/이뇨제 효과↓), warfarin(INR↑), lithium, methotrexate, 저용량 aspirin(심혈관 보호 효과↓)
 
 #### <mark style="color:$primary;">부작용</mark>
@@ -406,7 +383,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 심혈관 질환, 간염(특히 sulindac, diclofenac), 신 독성/신부전, 천식 악화, 체액 저류(부종, 혈압↑)
   * 신 독성 위험 인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
   * 고령자에서 10년 NSAID 사용 추적 조사에서 유의미한 신기능 저하가 관찰되지 않았다는 보고가 있음
-  * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험을 30% 증가시킨다는 보고가 있음 (✽약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음)
+  * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험을 30% 증가시킨다는 보고가 있음 ; 약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음
 
 #### <mark style="color:$primary;">부작용 대처</mark>
 
@@ -417,19 +394,20 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 수술 전 중단 : 속효성 NSAID- 1\~2일 전, 지속성 NSAID- 3일 전, aspirin- 1주 전 중단
 * 소화성 궤양에 대한 대처
   * H. pylori 감염 치료
-  * COX-2 억제제 선택 (✽aspirin과 병용 시 COX-2 억제제의 위장 보호 효과는 소멸됨)
-  * misoprostol : 위궤양 예방 효과; 소화불량 발생 가능; 200 ㎍ qid \[싸이토텍] (☞ p.376)
-  * PPI : 다음 약제를 1일 1회 복용; omeprazole 20\~40 ㎎ \[오엠피], esomeprazole 40 ㎎ \[넥시움], lansoprazole 30 ㎎ \[란스톤], dexlansoprazole 30\~60 ㎎ \[덱실란트 디알], pantoprazole 40 ㎎ \[판토록], rabeprazole 20 ㎎ \[파리에트] (☞ p.378)
-  * H2-blocker : 고용량(상용량의 2배 용량)으로 NSAID에 의한 소화성 궤양 예방 효과 (☞ p.377)
+  * COX-2 억제제 선택 (aspirin과 병용 시 COX-2 억제제의 위장 보호 효과는 소멸됨)
+  * misoprostol : 위궤양 예방 효과; 소화불량 발생 가능; 200 ㎍ qid \[싸이토텍] (☞ [위점막보호제](../224_/073_.md#prostaglandin-e-analogue))
+  * PPI : 다음 약제를 1일 1회 복용; omeprazole 20\~40 ㎎ \[오엠피], esomeprazole 40 ㎎ \[넥시움], lansoprazole 30 ㎎ \[란스톤], dexlansoprazole 30\~60 ㎎ \[덱실란트 디알], pantoprazole 40 ㎎ \[판토록], rabeprazole 20 ㎎ \[파리에트] (☞ [PPI](../224_/073_.md#proton-pump-inhibitor-ppi))
+  * H2-blocker : 고용량(상용량의 2배 용량)으로 NSAID에 의한 소화성 궤양 예방 효과 (☞ [H1RA](../224_/073_.md#h2-h2-receptor-antagonist))
 
 ### <mark style="color:orange;">외용제</mark>
 
+* 혈중 농도가 경구제의 1\~5% 수준으로 전신 부작용이 현저히 적음
+*
 * 무릎 골관절염(Knee OA)에 대하여 전신 부작용을 줄이기 위해 경구 NSAID보다 국소 NSAID(외용제)를 우선 권고(AAOS 2021, ACR/AF 2019)
-  * 특히 고령, 위장관/심혈관/신장 위험 인자가 있는 환자에서 우선 고려
-  * 혈중 농도가 경구제의 1\~5% 수준으로 전신 부작용이 현저히 적음
 * 허리 이외 부위의 근골격계 손상에 의한 급성 통증에 대하여 경구제와 동등한 효과
 * 만성 통증에 대한 효과는 급성 통증에 비하여 적음
-* 대상 : 작은 관절(예: 손), 무릎 OA (보험기준 ☞ p.1175)
+* 대상 : 작은 관절(예: 손), 무릎 OA (보험 주의)
+  * 특히 고령, 위장관/심혈관/신장 위험 인자가 있는 환자에서 우선 고려
   * 고관절 OA에는 효과 없음
 * 주의/금기 : 기관지 천식, 임부, 수유부, 소아
 * 투여 횟수 : 통상 플라스타/파스류 1\~2회/d, 크림/겔 1\~4회/d
@@ -466,7 +444,31 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+## <mark style="color:purple;">처방례</mark>
+
+> **처방례 1. 급성 통증**
+>
+> ```
+> 부루펜 200 ㎎/T 6T #3
+> ```
+>
+> **처방례 2. 우울증 동반**
+>
+> ```
+> 센시발 10 ㎎/T 2T #2
+> 타이레놀 이알 650 ㎎/T (필요시)
+> ```
+>
+> **처방례 3. 만성 통증**
+>
+> ```
+> 쎄레브렉스 200 ㎎/C 1C qd 또는
+> 울트라셋 이알 세미 2T #2 (단기 사용)
+> ```
+
+***
+
+## <mark style="color:blue;">핵심 복약 지도</mark>
 
 > **진통제 공통 주의사항**
 >
@@ -476,14 +478,14 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 > **NSAIDs (이부프로펜, 나프록센, 셀레콕시브 등)**
 >
-> * 반드시 음식과 함께 복용하십시오. 빈속에 복용하면 위 자극, 속쓰림이 심해질 수 있습니다.
+> * 위 불편감이 있는 경우 음식과 함께 복용하십시오. 단, 음식과 함께 복용해도 심각한 위장관 부작용을 완전히 예방하지는 못합니다.&#x20;
 > * 부종(발·발목 붓기), 혈압 상승, 소변량 감소가 생기면 즉시 알려 주십시오.
 > * 심장 질환, 신장 질환, 위궤양 병력이 있으신 분은 반드시 의사에게 알려 주십시오.
 > * 장기 복용 시 정기적인 혈액 검사가 필요합니다.
 
 > **아세트아미노펜 (타이레놀)**
 >
-> * 하루 최대 용량(성인 4,000 mg; 간질환·음주자 2,000 mg 이하)을 절대 초과하지 마십시오.
+> * 하루 최대 용량(성인은 3 g, 간질환·음주자는 2 g 이하)을 초과하지 마십시오.
 > * 감기약·두통약·수면제 등에도 아세트아미노펜이 포함된 경우가 많으니, 중복 복용에 주의하십시오.
 
 > **오피오이드 (트라마돌, 코데인 등)**
@@ -495,13 +497,11 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:$success;">환자 안내서</mark>
 
-{% hint style="info" %}
-**통증은 참는 것이 능사가 아닙니다 — 올바른 관리가 회복을 앞당깁니다**
+:smile: **통증은 참는 것이 능사가 아닙니다 — 올바른 관리가 회복을 앞당깁니다**
 
 통증을 적절히 조절하면 수면·활동·재활에 도움이 되며, 만성화를 예방할 수 있습니다.
-{% endhint %}
 
 #### <mark style="color:$primary;">통증이란 무엇인가요?</mark>
 
