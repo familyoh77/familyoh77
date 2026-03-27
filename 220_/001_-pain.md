@@ -17,7 +17,7 @@
 <mark style="color:$danger;">**즉각 응급 조치 (신경학적 응급; 필요시 119 호출)**</mark>
 
 * 방광 또는 장 기능 이상 (실금 또는 저류; 마미 증후군 시사)
-* 안장 부위(Saddle anesthesia) 감각 이상, 항문 괄약근 긴장도 저하
+* 안장 부위 감각 이상(Saddle anesthesia), 항문 괄약근 긴장도 저하
 * 하지의 급격한 근력 약화 또는 상하지 이상 감각
 
 <mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
@@ -40,30 +40,33 @@
 ### <mark style="color:$primary;">만성 통증</mark>
 
 * ＞3개월 지속 또는 재발하는 통증 (ICD-11, 2019)
-* 만성 통증의 type : neuropathic, muscle, inflammatory, mechanical/compressive pain
-* 신경병증성 통증 : 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하. 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통, fibromyalgia
-* Inflammatory pain : 통증 부위의 발열, 발적, 부종; 관절염, 감염, 손상, 수술 후 통증
-* Mechanical/Compressive pain : 활동 중 악화, 휴식 시 호전; 특히 목/허리의 근육/인대의 strain or sprain, disks or facet의 변성, 압축 골절 관련
+
+**만성 통증 유형**
+
+* 신경병증성(neuropathic) 통증 : 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하. 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
+* 근육(muscle) 통증 (근육통) : 근육 조직의 긴장, 손상 또는 염증으로 인해 발생하는 둔하고 쑤시는 통증; 압통, 활동 시 악화, 휴식 시 호전이 특징. 예) 긴장성 근육통, myofascial pain syndrome, 경추·요추 주변 근육통
+* 염증성(inflammatory) 통증 : 통증 부위의 발열, 발적, 부종; 관절염, 감염, 손상, 수술 후 통증
+* 기계적/압박성(mechanical/compressive) 통증 : 활동 중 악화, 휴식 시 호전; 특히 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압축 골절 관련
+
+***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:$primary;">치료 방침</mark>
 
-#### **일반 치료 원칙**
+#### <mark style="color:orange;">**일반 치료 원칙**</mark>
 
 * 환자 맞춤 치료 : 모든 환자에게 일률적으로 적용할 수 있는 통증 완화 치료법은 없으며 환자마다 치료에 대한 반응이 다름
-* 동반된 문제를 함께 치료하는 것이 효과적임, 특히 정신적 요소를 평가하고 치료함 (☞ p.145)
-* 통증 치료에서는 위약 효과가 적지 않음(치료 효과 평가 시 고려, 위약 효과를 치료에 이용할 수도 있음)
+* 동반된 문제를 함께 치료하는 것이 효과적임, 특히 정신적 요소를 평가하고 치료함 (☞ [신체증상장애](../221_/031_-somatic-symptom-disorder.md))
+* 통증 치료에서는 위약 효과가 적지 않음 - 치료 효과 평가 시 고려, 위약 효과를 치료에 이용할 수도 있음
 * 단순한 증량 또는 같은 계열의 약제를 추가하는 것보다 다른 계열의 약을 추가하는 것이 효과적이며 부작용이 적음
 * 압박 또는 약물(예: 항암제, 항생제)에 의해 증상이 악화되는 경우는 이러한 치료를 중지
 
 #### **만성 통증 치료 원칙**
 
-* 통증의 완전 제거보다 일상 기능(보행, 수면, 사회 활동, 직업 복귀) 회복을 치료 목표로 설정
-* 비약물 치료 우선 : 운동, CBT(인지행동치료), 교육, 물리치료 등을 선택
-* 오피오이드
-  * 비암성 통증에서는 신중히 선택. 다른 치료 먼저 시도. 시작 전 충분한 평가, 최소 유효 용량, 최단 기간 적용
-  * 암성통증에서는 오피오이드의 적극적 사용 권장
+* 통증의 완전 제거보다 일상 기능 회복(보행, 수면, 사회 활동, 직업 복귀)을 치료 목표로 설정&#x20;
+* 비약물 치료 우선 : 운동, CBT(인지행동치료), 교육, 물리치료&#x20;
+* 오피오이드 : 비암성 통증에서는 신중히 선택. 다른 치료 먼저 시도. 시작 전 충분한 평가, 최소 유효 용량, 최단 기간 적용; 암성통증에서는 오피오이드의 적극적 사용 권장
 * 생물심리사회적 모델 : 신체, 심리(우울, 불안, 파국화), 사회적 요인(직업, 가족 환경, 보상 문제)을 통합 고려
 * 다학제 접근 : 복잡한 만성 통증이나 치료에 반응이 불충분한 경우 협진(마취과·신경과·정신건강의학과·재활의학과 협진) 고려
 
@@ -72,10 +75,12 @@
 #### 침해수용성 통증 (Nociceptive pain)
 
 * 외상/염증 등 actual tissue damage에 의해 발생
-* **WHO analgesic ladder**
-  1. 경증 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
-  2. 경증\~중등증 : weak opioid(codeine, tramadol) ± non-opioid ± 보조 치료
-  3. 중등증\~중증 : opioid(morphine, fentanyl) ± non-opioid ± 보조 치료
+
+**WHO analgesic ladder**
+
+1. 경증 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
+2. 경증\~중등증 : weak opioid(codeine, tramadol) ± non-opioid ± 보조 치료
+3. 중등증\~중증 : opioid(morphine, fentanyl) ± non-opioid ± 보조 치료
 
 #### 신경병증성 통증 (Neuropathic pain)
 
