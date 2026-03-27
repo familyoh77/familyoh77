@@ -1,6 +1,6 @@
-# 하지불안증후군 Restless Legs Syndrome
+# <mark style="color:green;">하지불안증후군 Restless Legs Syndrome</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * sensorimotor disorder로서 비활동 중(예: 휴식 또는 움직이지 않을 때)에 갑자기 발생하는, 불수의적(제어할 수 없는) 하지 움직임 충동; 활동 또는 움직이면 호전
 * 다른 이름 : Willis-Ekbom Disease (WED)
@@ -28,7 +28,7 @@
 * 철분 보충 시작 3개월 후 ferritin, transferrin saturation 재검
 * 도파민 작용제 복용 환자 : 매 방문마다 augmentation 여부 확인
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 원발성 (early-onset) : 뇌의 도파민 작용 저하 및 뇌 철분 결핍 추정
 * 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 약물(예: 알코올, 카페인, 항우울제(특히 SSRI/SNRI), 항정신병제, 1세대 항히스타민제, 도파민 차단제(metoclopramide), cholinesterase 억제제(donepezil))
@@ -40,7 +40,7 @@
 * 수면 부족 : 불면증, 폐쇄수면무호흡증(OSA)
 * 고령 : 70세까지 증가
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 * 불쾌한 이상 감각 : 움직이고 싶은 충동, 벌레가 기어 다니는 느낌, 불안정감, 가려움, 통증; 피부보다 깊은 부위에서의 느낌
 * 활동으로 호전, 비활동으로 재발
@@ -51,7 +51,7 @@
 * 동반 증상 : 수면 장애(수면 개시 어려움), 피로, 불안, 주간 졸음
 * 동반 소견 : Periodic Limb Movement during Sleep (PLMS) — 수면 중 주기적 사지 움직임, 15\~30초 간격
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : ferritin, transferrin saturation (= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
@@ -118,7 +118,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 4\. 필요 시 저용량 opioid를 tapering 기간 동안 보조 사용
 {% endhint %}
 
-## <mark style="color:green;">비약물 치료 및 예방</mark>
+## <mark style="color:orange;">비약물 치료 및 예방</mark>
 
 * 주간의 활발한 활동, 규칙적 운동(지나친 운동은 피함), 저녁 때 가벼운 걷기
 * 적절한 수면 및 규칙적 수면 스케줄 유지
@@ -128,7 +128,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * 활발한 두뇌 활동(게임, 퍼즐)
 * 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 비침습적 신경 자극 치료; 2024 AASM 조건부 권고 \[근거 수준 낮음]
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 {% hint style="info" %}
 **2024 AASM 가이드라인 핵심 변화**\
@@ -203,13 +203,13 @@ _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs 
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G25.81 하지불안증후군
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 1차 선택 — gabapentin
 >
@@ -256,7 +256,7 @@ G25.81 하지불안증후군
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **하지불안증후군 약물 복용 안내**
 >

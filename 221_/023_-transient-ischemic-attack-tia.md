@@ -1,6 +1,6 @@
-# 일과성 뇌허혈발작 Transient Ischemic Attack, TIA
+# <mark style="color:green;">일과성 뇌허혈발작 Transient Ischemic Attack, TIA</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 급성 경색증 없이 뇌/망막/척수의 국소 허혈에 의해 수 분\~24시간 지속되는 일시적 신경 기능 이상
 * 뇌졸중의 전조 증상일 수 있음
@@ -9,7 +9,7 @@
 * 증상 발생 후 가능한 한 빨리(12시간 내) 진료
 * 발생 24시간 내 평가를 권고
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 경동맥 또는 척추 동맥의 죽상경화증
 * lacunar infarct, 심근경색, 색전증, 동맥염
@@ -21,13 +21,13 @@
 * 고혈압, 당뇨병, 고지혈증, 비만, 수면무호흡증, thrombophilia
 * 흡연
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 * 얼굴 또는 사지의 기력 또는 감각 저하(편측성), 발음 장애, 시각 장애
 * 경동맥 장애(hemispheric) : 편측 시력 소실, hemianesthesia, 실어증
 * 척추뇌바닥동맥 장애 : 양측 시력 소실, 복시, 어지럼, 운동 실조, 안면 마비, 연하 곤란, 말더듬, 두통, 구역, 구토
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 신경학적 검사
 * ECG; 초기 ECG 정상이더라도 원인 불명 TIA에서는 Holter 또는 장기 심전도 모니터링 고려 (잠재적 심방세동 스크리닝)
@@ -67,14 +67,14 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * 기저 질환 및 위험 인자 관리 : 당뇨병, 고혈압(목표 < 130/80 ㎜Hg), 고지혈증, 비만, 심장 질환, 수면무호흡증
 * 1년 동안 매 3개월마다, 이후 매년 F/U
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:orange;">비-약물 치료</mark>
 
 * 금연
 * 적정 체중 유지
 * 규칙적 유산소 운동 : 달리기, 자전거, 수영 등을 중등도 이상의 강도로 거의 매일(≥3회/주), ≥30분/일(≥150분/주) 시행 (☞ p.1160)
 * DASH diet : 과일, 야채, 통곡물, 저지방 유제품 권장; 술, 소금, 당분, meats 제한 (☞ p.1164)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 ### <mark style="color:$primary;">Antiplatelet therapy</mark>
 
@@ -135,13 +135,13 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G45 일과성 뇌허혈발작 및 관련 증후군
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 고위험 TIA (ABCD² ≥4점) — 급성기 DAPT (비심인성, 뇌출혈 배제 후)
 >
@@ -170,7 +170,7 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **항혈소판제 복용 시 주의사항**
 >

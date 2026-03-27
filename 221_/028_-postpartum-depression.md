@@ -1,6 +1,6 @@
-# 산후우울증 Postpartum Depression
+# <mark style="color:green;">산후우울증 Postpartum Depression</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 분만(또는 입양) 후 12개월 내 시작되거나 재발한 주요우울증; 주로 12주 내 발생
 * 빈도 : \~20%
@@ -35,7 +35,7 @@
 * 치료에 반응하지 않는 경우 (적절한 용량·기간 치료 후에도 미호전)
 * 산후 우울 기분(Postpartum blues)이 2주 이상 지속되는 경우
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 불확실
 * 추정 요인 : 출산 후 estrogen·progesterone 급격한 감소, cortisol·HPA axis 변화, cytokine·염증 반응, oxytocin·arginine vasopressin 변동, 수면 박탈, 심리사회적 스트레스
@@ -80,7 +80,7 @@
 
 * 알코올 남용
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 **핵심 증상** (DSM-5 진단 필수 — 반드시 1개 이상 포함)
 
@@ -108,7 +108,7 @@
 * 자신이 아기를 해칠 수 있다는 생각 또는 걱정
 * 망상 또는 환각 (산후 정신증 감별 필요)
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * postpartum unipolar major depression의 진단 기준은 비-산모 진단 기준과 동일함 (☞ [우울증](027_-depression.md#dsm-5))
 
@@ -143,7 +143,7 @@
 * 중등증\~중증 : 약물 치료 + 심리치료 병행 권고
 * 모유 수유 여부에 따라 약제 선택 조정
 
-## <mark style="color:green;">비약물 치료</mark>
+## <mark style="color:orange;">비약물 치료</mark>
 
 ### <mark style="color:$primary;">모유 수유 산모 일반 관리</mark>
 
@@ -161,7 +161,7 @@
 * 지지 치료, mindfulness 기반 치료 : 보조적으로 활용
 * 경두개 직류자극술(tDCS) : 약물 치료의 보조 또는 대안으로 고려 가능; 재택용 기기(예: 마인드스팀) 활용 사례 증가; 산후우울증 특화 근거는 축적 중 - 단독 사용보다 항우울제 병용 시 효과 보고 (근거 수준 낮음)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 ### <mark style="color:$primary;">약제</mark>
 
@@ -189,7 +189,7 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 F53 달리 분류되지 않은 산후기의 정신 및 행동 장애
 
@@ -197,7 +197,7 @@ O90 달리 분류되지 않은 산후기의 합병증
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 기본 — SSRI 단독 (모유 수유 산모)
 >
@@ -238,7 +238,7 @@ O90 달리 분류되지 않은 산후기의 합병증
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **산후우울증 약물 복용 안내**
 >

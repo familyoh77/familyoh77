@@ -1,6 +1,6 @@
-# 자율 신경 기능 장애 Autonomic Dysfunction
+# <mark style="color:green;">자율 신경 기능 장애 Autonomic Dysfunction</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 교감·부교감 신경계의 기능 이상으로 심혈관, 소화기, 비뇨기, 발한, 성기능 등 다양한 장기에 걸친 증상이 발생하는 증후군
 * 원발성(특발성) : 기저 질환 없이 자율신경계 자체의 퇴행성 변화
@@ -14,7 +14,7 @@
 * 순수 자율신경 부전증 (Pure Autonomic Failure, PAF) : 기립성 저혈압이 주증상; 서서히 진행; 파킨슨병·MSA로 이행 가능
 * 다계통 위축증 (Multiple System Atrophy, MSA) : 자율신경 부전 + 소뇌/파킨슨 증상 동반; 빠른 진행
 
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:orange;">원인 및 위험 인자</mark>
 
 #### **신경퇴행성 질환**
 
@@ -56,7 +56,7 @@
 * 당뇨병 환자에서 설명되지 않는 저혈압, 소화 장애, 배뇨 장애 - 당뇨병성 자율신경병증 평가
 * 치료에 반응하지 않는 경우 신경과 의뢰
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 #### **심혈관계**
 
@@ -84,7 +84,7 @@
 
 * 수면 장애, 시야 흐림·동공 반사 저하, 피로, 인지 저하(POTS에서 두드러짐)
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">검사</mark>
 
@@ -169,7 +169,7 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G90 자율신경계통의 장애
 
@@ -177,7 +177,7 @@ F45.3 신체형자율신경기능장애
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** POTS — 기본 (심박수 조절)
 >
@@ -205,7 +205,7 @@ F45.3 신체형자율신경기능장애
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **기립성 저혈압·POTS 약물 복용 안내**
 >

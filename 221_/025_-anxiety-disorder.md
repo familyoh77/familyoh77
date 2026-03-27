@@ -1,6 +1,6 @@
-# 불안장애 Anxiety Disorder
+# <mark style="color:green;">불안장애 Anxiety Disorder</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 실제 발생한 위험에 비하여 과도하고 지속되며 조절하기 어려운, 불편하고 일상생활에 지장을 주는 걱정; 일상적인 상황에 대하여 과도한 불안감
 * 불안감을 유발하는 실체나 상황을 피하기 위해 부적절한 행동을 취하기도 함
@@ -9,7 +9,7 @@
 * 유병률 : 범불안장애 평생 유병률 여성 7%, 남성 4%; 50%가 18세 이전에 발생, 중간 연령 30세
 * 만성적인 신체적 건강 문제가 있거나, 신체적 건강 문제는 없지만 이에 대한 확신을 갖고자 하거나, 여러 다른 문제들에 대하여 반복적으로 걱정을 하고 있는 경우 불안증 감별을 요함
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 기전(추정)
   * neurotransmitter 이상 : serotonin system의 활성 저하, norepinephrine system의 활성 증가, GABA system의 붕괴
@@ -44,7 +44,7 @@
 * 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * 반복되는 공황 발작 또는 증상 악화
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 * 걱정, 두려움, 예기 불안, 집중력 저하, 불안 유발 상황에 대한 경계, 대인 접촉 기피
 * 안절부절, 두근거림, 떨림, 근육 긴장/통증, 땀 흘림, 손 냉증/축축함, 숨 막힘, 과호흡, 어지럼, 피로, 목 안의 덩어리 느낌, 입마름, 피부 감각 저하/저림, 두통, 홍조, 흉통/가슴 답답함
@@ -53,7 +53,7 @@
 
 ※ 공황장애에 비하여 호흡 곤란, 두근거림, 빈맥 증상은 적음
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">선별 검사</mark>
 
@@ -171,7 +171,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 ※ GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:orange;">비-약물 치료</mark>
 
 * 인지행동 요법(CBT), mindfulness-based therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
 * 카페인 섭취 제한, 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
@@ -179,7 +179,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 디지털 치료제(DTx) : 앱 기반 인지행동치료(CBT)를 경증\~중등도 불안장애의 보조 수단으로 활용 가능; 국내외 허가 절차 진행 중 (근거 축적 중, 2023 APA update)
 * 허브(근거 부족) : St. John's wort(hyperici), Sympathyl, 시계풀(passionflower), 쥐오줌풀(valerian)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * 저용량으로 시작
 * 1차 선택 : SSRI/SNRI
@@ -244,7 +244,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * propranolol : 10\~120 ㎎/d \[인데놀]
 * metoprolol : 100\~200 ㎎/d \[베타록] (☞ p.487)
 
-## <mark style="color:green;">치료 Step</mark>
+## <mark style="color:orange;">치료 Step</mark>
 
 \[대한불안의학회]
 
@@ -289,7 +289,7 @@ TCA
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 F41.2 혼합형 불안 및 우울장애
 
@@ -297,7 +297,7 @@ F41.9 상세불명의 불안장애
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** GAD — Step 1, SSRI 단독 (1차 선택)
 >
@@ -349,7 +349,7 @@ F41.9 상세불명의 불안장애
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **불안장애 약물 복용 안내**
 >

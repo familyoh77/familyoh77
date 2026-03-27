@@ -1,6 +1,6 @@
-# 두통 Headache
+# <mark style="color:green;">두통 Headache</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 두통은 1차 진료에서 가장 흔한 주소 중 하나로, 병력 청취 및 신체검사를 통해 경고 징후를 먼저 배제한 후 원인을 추정하고 관리
 * 재발성 두통의 가장 흔한 형태는 편두통과 긴장형두통이며, 종종 약물과용두통도 해당됨
@@ -159,7 +159,7 @@
 * ＜20세에서 처음 발생하는 반복성 두통
 * 최근 3개월 이내 두부 외상 병력
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 활력징후(혈압 포함), 신경학적 검사, 시력 검사(funduscopy 포함)
 
@@ -243,7 +243,7 @@ _<mark style="color:$info;">Ref. Dodick. Diagnosing secondary and primary headac
 
 ***
 
-### <mark style="color:purple;">**질병코드**</mark>
+### <mark style="color:red;">**질병코드**</mark>
 
 R51 두통
 
@@ -253,7 +253,7 @@ G44.0 군발두통증후군
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **두통 진통제 (NSAIDs / 아세트아미노펜)**
 >

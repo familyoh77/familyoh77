@@ -1,6 +1,6 @@
-# 피로 Fatigue
+# <mark style="color:green;">피로 Fatigue</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 피로 : 육체적·정신적 활력 저하, 힘듦, 기진맥진 상태로, 활동을 시작하거나 유지하기 어렵고 쉽게 처지는 증상
 * 1차 진료에서 매우 흔한 증상이지만 원인이 명확하지 않은 경우가 많으며, 심리적·생활 습관적 요인부터 내과적 기질 질환까지 원인 범위가 넓음
@@ -31,7 +31,7 @@
 * 기상 시 피로 : 아침에 눈을 떴을 때 이미 심한 피로감을 느낌
 * 사회적/직업적 기능 장애 : 피로로 인해 일상적인 업무나 생활 수행이 불가능한 상태
 
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:orange;">원인 및 위험 인자</mark>
 
 * 흔히 원인이 명확하지 않음
 
@@ -58,7 +58,7 @@
 * 정신 : 우울, 불안, 신체화장애
 * 약물 : 항우울제, 항불안제, 항정신병제, 근이완제, 항경련제, 1세대 항히스타민제, β-차단제
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 일상생활, 수면, 스트레스, 감정 변화, 복용 약물 평가
 
@@ -94,7 +94,7 @@
 * 심리적 평가 : 'DEAD, TIRED' 항목 중 우울/불안 비중이 높다면 PHQ-9 등 선별 검사 및 심리 상담을 초기부터 적극 고려
 * 원인이 확실치 않은 경우 대증 치료 : 수면 환경 개선, 통증 관리, 영양 관리, 인지행동 요법
 
-## <mark style="color:green;">생활 요법</mark>
+## <mark style="color:orange;">생활 요법</mark>
 
 1. 규칙적 운동 : 1주일에 3\~4회, 매회 30분 이상. 단, 만성피로증후군이 의심되는 경우 무조건적인 운동보다는 에너지 범위를 조절하는 Pacing 전략을 우선 고려 (☞ 만성피로증후군 p.1031)
    1. Pacing : 환자가 가진 제한된 에너지 내에서 일상 활동을 계획하고 조절하여, '운동 후 불쾌감(PEM: 과도한 피로 및 증상 악화)'을 유발하지 않으면서 안정적인 기능을 유지하는 정도로 행동 수정
@@ -111,7 +111,7 @@ _<mark style="color:$info;">Ref. NICE. Myalgic encephalomyelitis (or encephalopa
 9. 스트레스 대처 : 매일 쉽게 할 수 있는 이완 운동, 긍정적인 경험에 대한 연상, 이완 호흡, 어려운 일이 생길 때는 친구나 가족들과 대화하고 도움을 요청
 10. 습관성 약물 사용을 피함
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * Vit D : Vit D 결핍 환자의 피로 개선에 도움
 * methylphenidate : 일관성 있는 결과를 보여주지 못함
@@ -120,7 +120,7 @@ _<mark style="color:$info;">Ref. NICE. Myalgic encephalomyelitis (or encephalopa
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R53 병감 및 피로
 

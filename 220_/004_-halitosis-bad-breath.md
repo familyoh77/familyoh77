@@ -1,6 +1,6 @@
-# 구취증 Halitosis, Bad Breath
+# <mark style="color:green;">구취증 Halitosis, Bad Breath</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 사회적으로 받아들여지는 정도를 넘어선, 일상생활에 지장을 줄 수 있는 구강 악취
 * 유병률 : \~30%
@@ -34,7 +34,7 @@
 * 치과 치료 및 구강 위생 관리 후에도 2~4주 이상 지속되는 구취
 * 구취 + 체중 감소, 지속 기침, 연하 곤란 동반 (소화기·호흡기 악성 종양 배제)
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 #### Physiologic
 
@@ -62,7 +62,7 @@
 * 고령, 임신
 * 흡연, 입마름 유발 약물(예: 항콜린제)
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 병력 : 특히 입 냄새가 나는 상황을 확인
 * 주변 의견 : 주변에서 제대로 알려주지 않을 수 있음을 유의
@@ -121,7 +121,7 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R19.6 구취증
 

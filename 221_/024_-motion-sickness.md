@@ -1,11 +1,11 @@
-# 멀미 Motion Sickness
+# <mark style="color:green;">멀미 Motion Sickness</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군
 * 빈도 : 비행기 \~25%, 배 \~29%, 자동차 \~41%
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 불명
 * 추정 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적 반응
@@ -33,13 +33,13 @@
 * 감정 변화 — 두려움·불안
 * 수면 부족
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 * 어지럼, 두통, 졸림, 불안, 공황, 피로, apathy, malaise, 혼란
 * epigastric fullness, 트림, 구역, 구토, 식욕 저하
 * 식은땀, 창백, 침 분비 증가, 하품, 과호흡, 냄새에 대한 반응 증가
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 멀미는 병력과 임상 양상으로 진단
 
@@ -78,7 +78,7 @@
 * 중등도\~중증 또는 장기 여행 : 스코폴라민 패치 ± 항히스타민제 병용
 * 멀미 유발 약물 복용 중인 경우 가능하면 중단 또는 대체 고려
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:orange;">비-약물 치료 및 예방</mark>
 
 * 증상이 발생했던 경험이 있는 상황을 피함
 * 움직임이나 움직임 인식을 줄이기 위한 좌석 선택 : 비행기- 날개 부분; 자동차- 앞좌석, 앞을 향한 좌석; 배- 선체 중앙부(mid-deck), 수평선이 보이는 자리
@@ -91,7 +91,7 @@
 * 얼굴에 바람을 쏘임, 사탕/껌 이용, 음악 듣기
 * 적응 : 멀미를 유발하는 상황에 대한 노출을 점차 늘려 나감
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * 증상 발생 전 투여 (✽증상 발생 후 투여 시 효과 적음); 경구제는 보통 여행 30\~60분 전에 투여
 * 약물 부작용 등을 고려하여 출발일 이전에 시험 투여를 권고
@@ -142,7 +142,7 @@
   * Phase 3 연구에서 위약 대비 구토 발생률을 50\~70% 감소
   * 용량 : 85 ㎎ 또는 170 ㎎ 경구 (출발 전 복용)
 
-## <mark style="color:green;">대체 요법</mark>
+## <mark style="color:orange;">대체 요법</mark>
 
 * 생강 : 4시간 전 1\~2 g 또는 생강 음료 섭취; 응고 장애, 십이지장궤양, 장폐쇄 환자에서는 금지 (✽고질적 증거는 부족하며 위약 대비 우월성이 일관되게 증명되지 않음)
 * 지압 : 손목(P6) 지압이 일부에서 효과
@@ -153,13 +153,13 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 T75.3 멀미
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 경증 멀미 — 단기 여행, 항히스타민제
 >
@@ -195,7 +195,7 @@ T75.3 멀미
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **멀미약은 미리 복용해야 효과가 있습니다**
 >

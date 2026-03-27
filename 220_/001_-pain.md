@@ -1,6 +1,6 @@
-# 통증 Pain
+# <mark style="color:green;">통증 Pain</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 평가 : 통증에 대하여 다음 항목들을 최소 1년에 한 번 평가
   * 병력, 신체검사, bio-psycho-social 평가, 통증 형태(neuropathic, nociceptive, or mixed), 중증도, 기능에 대한 영향
@@ -90,7 +90,7 @@
 * 3rd-line : cannabinoid(대마) (✽국내에서는 처방 불가; 일부 국가에서만 적용 가능)
 * 4th-line : 국소 lidocaine(대상포진후신경통에서는 2nd-line), methadone, lamotrigine, lacosamide, tapentadol, botulinum toxin
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:orange;">비-약물 치료</mark>
 
 * 균형 잡힌 건강한 식사
 * 적정 체중 관리
@@ -108,7 +108,7 @@
   Pt. "이러다 평생 못 걸으면 어쩌죠?" - 권고"오늘은 컨디션이 좋지 않네요. 하지만 우리는 조금씩 움직임을 늘려갈 계획입니다."\
   Pt. "약 없이는 한순간도 못 버텨요." - 권고"약은 통증 조절의 도구 중 하나입니다. 호흡과 이완 요법도 함께 사용해 봅시다."
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 ### <mark style="color:$primary;">Acetaminophen</mark>
 
@@ -348,7 +348,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 급성 통증**
 >
@@ -372,7 +372,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ***
 
-## <mark style="color:green;">NSAID</mark>
+## <mark style="color:orange;">NSAID</mark>
 
 ### <mark style="color:$primary;">경구제</mark>
 
@@ -466,7 +466,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **진통제 공통 주의사항**
 >

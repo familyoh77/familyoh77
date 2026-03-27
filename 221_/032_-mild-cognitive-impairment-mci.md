@@ -1,6 +1,6 @@
-# 경도인지장애 Mild Cognitive Impairment, MCI
+# <mark style="color:green;">경도인지장애 Mild Cognitive Impairment, MCI</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 고령에서 일반적으로 나타나는 것보다 다소 심한 정도로 어떤 일을 수행하는데 지장을 주는, 기억력이나 사고 등 일부 인지 영역의 경미한 장애
 * 일상생활 능력과 전반적인 인지 기능은 유지됨
@@ -25,7 +25,7 @@
 * 약물 : 항콜린제(metoprolol, atenolol, loratadine, bupropion 등 항콜린 작용이 있는 약물 포함)
 * apolipoprotein E ε4 genotype
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 * 기억력 장애
   * 이름이 떠오르지 않는 것은 고령자에서 정상적으로 흔한 증상이며, 환자가 주관적인 기억력 저하를 호소하는 경우에는 정서 상태 문제 등을 고려
@@ -49,7 +49,7 @@
 * 6\~12개월 이내 기능 저하가 뚜렷이 진행하여 치매 기준 접근 시 → 신경과 의뢰 고려
 * 일상생활 수행에 유의미한 지장이 생긴 경우 (치매로의 이행 평가 필요)
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">임상적 진단 Criteria</mark>
 
@@ -99,7 +99,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * 치매로의 진행을 예방하는 효과가 입증된 약제는 없음 \[AAN 2018, 다수 가이드라인 공통]
 
@@ -129,7 +129,7 @@
 
 * growth hormone-releasing hormone, 비내 인슐린 : 유효할 가능성이 있음; 추가 연구 필요
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:orange;">비-약물 치료</mark>
 
 * 운동 : 6개월 이상의 규칙적 유산소 운동은 인지 기능 지표를 개선할 가능성이 높음 \[AAN 2018, Level B]
   * 매일 30분 걷기, 주 3\~5회 유산소 운동 프로그램 참여 권고
@@ -140,7 +140,7 @@
   * 코그테라(Cogthera; 이모코그) : 국내 최초 경도인지장애 적응증 식약처 허가 취득(2025), 보건복지부 신의료기술 인정; 55\~85세 MCI 환자 대상 12주 모바일 맞춤 인지훈련 제공, 처방전 기반 사용
   * 급여 수가 등 세부 사항은 변동 중 — 최신 정보 별도 확인 필요
 
-## <mark style="color:green;">기타 관리 및 예방</mark>
+## <mark style="color:orange;">기타 관리 및 예방</mark>
 
 * 위험 인자 관리 : 금연, 음주 제한(≤1 SD/d); 비만, 고혈압, 당뇨병, 이상지질혈증 관리
 * 동반 문제 관리 : 우울증, 청력/시력/후각/미각 저하, 영양 결핍
@@ -158,13 +158,13 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 F06.7 경도 인지 장애
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 경도 인지 장애 — 일반적 관리 (약물 치료 없이 위험인자 관리 중심)
 >
@@ -199,7 +199,7 @@ F06.7 경도 인지 장애
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **경도인지장애 환자 안내**
 >

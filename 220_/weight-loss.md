@@ -1,6 +1,6 @@
-# 체중 감소 Weight loss
+# <mark style="color:green;">체중 감소 Weight loss</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 일반적 체중 변화 : 40\~50대까지 증가, 이후 10년에 1\~2 ㎏씩 점차 감소
 * 의도하지 않게 6(\~12)개월 내 평소 체중의 ≥5% 감소 시 유의미
@@ -24,7 +24,7 @@
 * 단백질·에너지 영양실조
 * 비의도적 체중 감소 (6개월 내 체중의 5% 이상)
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 암(연구에 따라 차이가 있으나 약 16\~30%) : 혈변, 연하곤란, 지속되는 기침, 혈뇨 등 동반
 * 위장 장애 (약 15%) : 잘 맞지 않는 틀니, 충치, 삼킴 장애, 흡수 장애, 췌장 부전
@@ -47,7 +47,7 @@
 * 소화불량 : bisphosphonate, doxycycline, gold, iron, NSAID, potassium
 * 구역/구토 : 항생제, bisphosphonate, digoxin, dopamine agonist, metformin, statins, SSRIs, TCA
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 체중 변화 경과, 약물 복용력, 신체검사
 
@@ -102,7 +102,7 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 * exercise training : 저항 운동, 유산소 운동
 * 약물 치료 고려
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * 식욕 자극제 : steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine); 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
   * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) \[메게이스]
@@ -112,13 +112,13 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R63.4 이상체중감소
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.**
 >
@@ -140,7 +140,7 @@ R63.4 이상체중감소
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **식욕 촉진제 — megestrol (메게이스)**
 >

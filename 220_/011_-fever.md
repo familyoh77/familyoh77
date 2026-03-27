@@ -1,6 +1,6 @@
-# 발열 Fever
+# <mark style="color:green;">발열 Fever</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 중심 체온- 36.5\~37.5℃; 평균 구강 체온(18\~40세)- 36.8±0.4℃
 * 겨드랑이 ＜ 구강 ＜ 직장 체온 : 각각 0.5℃ 차이
@@ -61,7 +61,7 @@
 * 진드기 물린 병력 또는 야외활동 후 발열
 * 예상과 다르게 지속되는 열
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 감염
   * 바이러스 감염 : 급성 발열의 가장 흔한 원인; 보통 일주일에 걸쳐 서서히 하강하여 자연 회복
@@ -70,18 +70,18 @@
 * 자가면역/자가 염증 반응
 * 더운 환경(더운 날씨, 지나친 난방, 두꺼운 의복), 탈수열
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 진찰 소견으로 감별하며, 의심되는 질환에 대한 진단 검사를 고려
 * 발열의 원인이 감별되지 않는 경우에는 의뢰를 고려
 
-### 증상/병력에 따른 감별
+### <mark style="color:$primary;">증상/병력에 따른 감별</mark>
 
 <figure><img src="../.gitbook/assets/발열2.JPG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/발열3.JPG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:green;">불명열 (Fever of Unknown Origin)</mark>
+## <mark style="color:orange;">불명열 (Fever of Unknown Origin)</mark>
 
 <table><thead><tr><th width="94.631591796875"></th><th>고전적 불명열 (Classic)</th><th>병원성 불명열 (Nosocomial; Healthcare-associated)</th></tr></thead><tbody><tr><td><strong>정의</strong></td><td>체온 ≥38.3℃, 기간 ≥3주, ≥3회 외래 방문 또는 입원 3일 후에도 원인 불명</td><td>체온 ≥38.3℃, 기간 >3일, 입원 당시 발열 상태 또는 당시 잠복기 아님</td></tr><tr><td><strong>환자 위치</strong></td><td>지역 사회, 병원</td><td>급성 질환을 다루는 병원</td></tr><tr><td><strong>흔한 원인</strong></td><td>감염, 염증, 악성 종양, 인위적/습관성 고열(factitious fever)</td><td>원내 감염, 수술 후 합병증, drug fever</td></tr><tr><td><strong>병력</strong></td><td>여행, 접촉, 동물/벌레 노출, 약물, 예방접종, 가족력, 심장 판막 이상</td><td>수술, 시술, 장치 삽입, 해부학적 이상, 약물</td></tr></tbody></table>
 
@@ -110,7 +110,7 @@
 * 해열제 : 발작 병력이 있는 소아 또는 열 때문에 힘들어 하는 환자에 대하여 투여 고려
 * 소위 shotgun approach(불필요한 경험적 다제 투여)는 증상/징후를 모호하게 하여 진단을 어렵게 하고 의도하지 않은 문제를 일으킬 수 있으므로 삼가야 함
 
-## <mark style="color:green;">비-약물 해열 치료</mark>
+## <mark style="color:orange;">비-약물 해열 치료</mark>
 
 * 수분 섭취를 늘림
 * 젖은 스펀지로 닦아 주거나 알코올을 사용하는 것은 권하지 않음
@@ -118,7 +118,7 @@
 * Cold water immersion : 찬물에 몸을 담그면 말초혈관 수축(peripheral vasoconstriction)이 발생할 수 있다는 주장이 있으나 신체를 냉각시키는 전도 및 대류 작용에 비하여 의미 있는 수준은 아니라는 반론도 있음; 고열을 낮추기 위하여 주의하여 적용 고려
 * 옷을 벗기거나 더 많이 감싸는 것 모두 권하지 않음
 
-## <mark style="color:green;">약물 해열 치료</mark>
+## <mark style="color:orange;">약물 해열 치료</mark>
 
 * NSAID(예: ibuprofen), acetaminophen
 * 정상 체온 상태에서는 NSAID나 aspirin의 PGE2에 대한 작용이 없기 때문에 열이 없는 상태에서 관절염 등의 치료를 위한 이들 약제 투여로 정상 체온이 더 낮아지지는 않음
@@ -146,13 +146,13 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R50 기타 및 원인 미상의 열
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **아세트아미노펜 (타이레놀)**
 >

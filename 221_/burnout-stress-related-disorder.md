@@ -1,6 +1,6 @@
-# 번아웃 / 스트레스 관련 장애 Burnout Stress related Disorder
+# <mark style="color:green;">번아웃 / 스트레스 관련 장애 Burnout Stress related Disorder</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 번아웃(Burnout) : 만성적인 직업적 스트레스가 성공적으로 해소되지 못하여 발생하는 증후군; ICD-11에서 직업적 현상(occupational phenomenon)으로 분류 — 독립적 질병이 아님
 * 적응장애(Adjustment Disorder) : 식별 가능한 스트레스 요인에 대한 반응으로 발생하는 감정적·행동적 증상; DSM-5 및 ICD-10 F43.2에 독립 진단으로 분류
@@ -32,7 +32,7 @@
 * 4\~6주 치료 후에도 증상 호전 없는 경우
 * 반복적 직업 관련 병가, 기능 회복이 더딘 경우
 
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:orange;">원인 및 위험 인자</mark>
 
 #### **직업·환경적 요인** (번아웃의 주요 원인)
 
@@ -52,7 +52,7 @@
 * 직업적 : 직장 상실·위협, 업무 과부하, 갈등
 * 개인적 : 이별·이혼, 질병·사별, 재정적 위기, 이주
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 #### **정서·인지 증상**
 
@@ -76,7 +76,7 @@
 * 사회적 위축, 대인 관계 어려움
 * 알코올·카페인 섭취 증가
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">선별 검사</mark>
 
@@ -142,7 +142,7 @@ _<mark style="color:$info;">✽ 번아웃과 우울증은 공존하거나 이행
 * 적응장애 : 스트레스 요인 해소 + 심리 지지가 1차 치료; 약물은 증상이 심할 때 단기 보조
 * 회복 목표 : 증상 소실이 아닌 기능 회복 및 재발 예방으로 설정
 
-## <mark style="color:green;">비약물 치료</mark>
+## <mark style="color:orange;">비약물 치료</mark>
 
 #### **심리 치료**
 
@@ -168,7 +168,7 @@ _<mark style="color:$info;">✽ 번아웃과 우울증은 공존하거나 이행
 * 병가 또는 직무 전환 권고가 필요한 경우 적극 지지
 * 필요 시 직업 재활 서비스 연계
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * 번아웃 자체에 승인된 약물 없음 - 동반 증상(불면·불안·우울)에 한해 보조적 사용
 * 주요우울증으로 이행된 경우 항우울제 적응 (☞ [우울증](/broken/pages/c0ad5ff0ace4081a4ef423506541dc4d00680955))
@@ -189,7 +189,7 @@ _<mark style="color:$info;">✽ 번아웃과 우울증은 공존하거나 이행
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 Z73.0 번아웃\
 F43.2 적응장애\
@@ -198,7 +198,7 @@ F48.0 신경쇠약(직업 관련 신경증)
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 적응장애 — 불안·불면 동반, 단기 약물 지지
 >
@@ -259,7 +259,7 @@ F48.0 신경쇠약(직업 관련 신경증)
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **스트레스 관련 장애 약물 복용 안내**
 >

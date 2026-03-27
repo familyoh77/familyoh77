@@ -1,6 +1,6 @@
-# 경부인성두통 Cervicogenic headache
+# <mark style="color:green;">경부인성두통 Cervicogenic headache</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 경부의 골격계 또는 연조직 병변에서 기원하는 두통으로, 두통 환자의 약 15\~20%를 차지하는 흔한 2차성 두통
 * 기전 : 삼차신경 감각신경로와 경추 감각신경섬유가 기능적으로 상호 작용함으로써 안면/두부의 trigeminal sensory receptive field와 neck 사이에 통증 신호의 양방향 전달이 발생됨
@@ -19,7 +19,7 @@
 
 ☞ [두통 챕터 Red Flags 참조](015_-headache.md)
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 * 편측 두통 (반대쪽으로 측방 이동 없음)
 * 후두부 → 전두부 방사통
@@ -28,7 +28,7 @@
 * 두통이 있는 쪽의 목/어깨/팔의 통증
 * 구역, 빛/소리 공포증이 동반될 수 있으나 편두통보다 경도
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">진단의 어려움</mark>
 
@@ -132,7 +132,7 @@ _5) 경부인성두통은 ①편측으로 국한된 통증, ②목 근육에 손
   * 약물은 통증 조절과 물리치료 병행을 돕는 보조 수단
   * 시술 또는 물리치료의 필요성을 환자에게 충분히 설명하는 것이 중요
 
-## <mark style="color:green;">비약물 치료 (1차 치료)</mark>
+## <mark style="color:orange;">비약물 치료 (1차 치료)</mark>
 
 #### 물리치료
 
@@ -148,7 +148,7 @@ _5) 경부인성두통은 ①편측으로 국한된 통증, ②목 근육에 손
 * 장시간 한 자세 유지 금지 (30\~40분마다 스트레칭)
 * 옆으로 눕거나 엎드려 자는 수면 자세 교정
 
-## <mark style="color:green;">약물 치료 (보조적)</mark>
+## <mark style="color:orange;">약물 치료 (보조적)</mark>
 
 * NSAID : 급성 통증 완화 (1차 선택)
   * naproxen 500 ㎎ bid, ibuprofen 400\~600 ㎎ tid
@@ -160,7 +160,7 @@ _5) 경부인성두통은 ①편측으로 국한된 통증, ②목 근육에 손
 * Gabapentinoid : 신경인성 통증 요소 동반 시
   * gabapentin 300\~900 ㎎/d, pregabalin 75\~150 ㎎/d
 
-## <mark style="color:green;">시술 치료</mark>
+## <mark style="color:orange;">시술 치료</mark>
 
 #### 후두신경차단술 (Greater occipital nerve block, GON block)
 
@@ -188,7 +188,7 @@ _5) 경부인성두통은 ①편측으로 국한된 통증, ②목 근육에 손
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G44.80 경부인성두통 (기타 명시된 두통증후군)
 
@@ -204,7 +204,7 @@ _※ 실무 팁 : 경추 디스크 탈출(M50) 또는 협착증(M48.0)이 두통
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 경부인성두통 — 급성 통증 조절**
 >
@@ -244,7 +244,7 @@ _※ 실무 팁 : 경추 디스크 탈출(M50) 또는 협착증(M48.0)이 두통
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **소염진통제 (낙센·부루펜 등) + 근이완제 (에페리손·티자니딘 등)**
 >

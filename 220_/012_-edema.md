@@ -1,6 +1,6 @@
-# 부종 Edema
+# <mark style="color:green;">부종 Edema</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 부종 : capillary hemodynamics 변화(모세혈관 수압↑, 삼투압↓, 투과성↑) 또는 신장의 Na·수분 정체 증가에 의해 간질(interstitium)에 체액이 과잉 축적된 상태
 * 전신 부종은 심부전·간경화·신부전·신증후군의 3대 원인을 먼저 감별하고, 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 고려
@@ -28,7 +28,7 @@
 * 일상생활이 어려운 수준의 부종
 * 신기능 이상 의심(소변량 감소, 거품뇨)
 
-## <mark style="color:green;">전신 부종</mark>
+## <mark style="color:orange;">전신 부종</mark>
 
 #### Cardiac (심부전)
 
@@ -56,7 +56,7 @@
 * 임신, 월경 전 : 체액 증가
 * 갑상선저하증 : generalized myxedema
 
-## <mark style="color:green;">국소 부종</mark>
+## <mark style="color:orange;">국소 부종</mark>
 
 * 원인 : 봉와직염, 정맥 부전, trauma, DVT, iliac vein obstruction, lipedema, lymphedema
 * 만성 하지 부종(편측 or 양측)은 종종 정맥 부전과 관련
@@ -89,7 +89,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 관련 인자 : 당뇨병, 비만, 우울 등 정서적 문제
 * 진단 : 다른 원인 배제
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">감별</mark>
 
@@ -197,7 +197,7 @@ _<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the 
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R60.0 국소부종
 
@@ -211,7 +211,7 @@ I89.0 림프 부종
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 상세불명의 하지 부종**
 >
@@ -234,7 +234,7 @@ I89.0 림프 부종
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **이뇨제 공통** (라식스, 알닥톤, 다이크로짇)
 >

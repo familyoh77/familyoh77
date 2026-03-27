@@ -1,4 +1,4 @@
-# Part 1. 흔한 증상들
+# <mark style="color:green;">Part 1. 흔한 증상들</mark>
 
 참고 가이드라인
 

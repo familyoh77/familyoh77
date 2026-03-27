@@ -1,6 +1,6 @@
-# 딸꾹질 Hiccups, Singultus
+# <mark style="color:green;">딸꾹질 Hiccups, Singultus</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 횡격막 등 흡기 근육의 갑작스런 반복적인 불수의적 수축과 glottis의 급속한 폐쇄에 따른 흡기의 멈춤으로 인하여 발성 기관의 상부에서 특유의 소리가 발생하는 상태
 
@@ -27,7 +27,7 @@
 * 지속성(persistent 또는 protracted) 딸꾹질 : 48시간 이상 지속
 * 난치성(intractable) 딸꾹질 : 1개월 이상 지속
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 불명. 흔히 명백한 유발 요인 없이 발생
 * 과식, 탄산음료 등 위장 팽창을 일으키는 음식
@@ -55,7 +55,7 @@
 **Dexamethasone 역설** 항암 화학요법 유발 오심 예방 목적으로 투여한 dexamethasone 자체가 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
 {% endhint %}
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 신체 질환 유무 진찰
 * 급성 딸꾹질은 보통 검사 필요 없음; 48시간 이상 지속되는 경우 검사 고려
@@ -100,7 +100,7 @@
 * 원인이 발견되지 않는 경우 경험적 치료 시행
 * 1차적으로 비약물 물리적 치료 시행 → 실패 시 약물 치료
 
-## <mark style="color:green;">비약물 치료</mark>
+## <mark style="color:orange;">비약물 치료</mark>
 
 * 복부 팽만 회피 : 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함 (☞ p.1170)
 *   고탄산혈증, 미주신경/횡격막 자극 유도 : 숨 참기, 과호흡, 재채기, 종이봉투에 대고 숨쉬기, Valsalva maneuver,
@@ -146,7 +146,7 @@
 * 가는 NG tube를 비인두까지 삽입하여 물리적으로 미주신경 반사를 유도하는 방법
 * 난치성 딸꾹질에서 비약물 치료 중 가장 강력한 방법 중 하나
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * 치료 약물에 대한 충분한 연구는 부족함
 * 근이완제, 항경련제, 항정신병제의 경우 졸음, 어지럼, 저혈압 등 부작용 주의

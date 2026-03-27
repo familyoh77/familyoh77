@@ -1,6 +1,6 @@
-# 만성 두통 Chronic Headache
+# <mark style="color:green;">만성 두통 Chronic Headache</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 정의 : ≥15일/월, ≥3개월 지속되는 두통
 * 분류 : 1차성(원발성)과 2차성으로 나뉘며
@@ -25,7 +25,7 @@
 * **P**apilledema : 시야 흐림, 박동성 이명, 비만 여성 → 특발성 두개내 고혈압 시사
 * **P**regnancy : 임신 또는 산후 발생 → 자간전증, 뇌정맥혈전증 감별
 
-## <mark style="color:green;">1차성 두통</mark>
+## <mark style="color:orange;">1차성 두통</mark>
 
 ### <mark style="color:$primary;">지속 시간이 ＞4시간인 두통</mark>
 
@@ -106,7 +106,7 @@ F. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1,2)</sup>
 _1) 효과적인 치료를 위하여 삼차자율신경두통들(군발두통)과의 감별이 필요_\
 \&#xNAN;_2) 수면 중 발생하여 잠에서 깨어나게 하는 두통의 다른 가능한 원인들(예: 수면무호흡증, 야간 고혈압, 저혈당, 약물과용, 두개 내 질환) 감별_
 
-## <mark style="color:green;">2차성 두통</mark>
+## <mark style="color:orange;">2차성 두통</mark>
 
 ### <mark style="color:$primary;">종류</mark>
 
@@ -139,7 +139,7 @@ _2) 여러 개의 진통제를 병용하고 있으나 각각의 약물은 과용
 
 _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하고 있으나 각각의 이름과 용량이 명확하지 않은 경우에는 정확한 정보가 확인될 때까지 '증명되지 않은 복수약물군에 의한 약물과용두통'으로 진단_
 
-## <mark style="color:green;">임상 양상 및 진단</mark>
+## <mark style="color:orange;">임상 양상 및 진단</mark>
 
 ###
 
@@ -223,7 +223,7 @@ _※ Gepant(너텍)는 MOH 유발 위험이 없어 기존 진통제·triptan 과
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G43.3 만성 편두통
 
@@ -243,7 +243,7 @@ G93.2 특발성 두개내 고혈압
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 신생매일지속두통 — 편두통형**
 >
@@ -286,7 +286,7 @@ G93.2 특발성 두개내 고혈압
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **약물과용두통(MOH) — 진통제 중단 안내**
 >

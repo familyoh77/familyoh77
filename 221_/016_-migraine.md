@@ -1,6 +1,6 @@
-# 편두통 Migraine
+# <mark style="color:green;">편두통 Migraine</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 4\~72시간 동안 지속되고 일상적 활동에 의해 악화되며 일상생활에 지장을 주는 편측성, 박동성의 심한 두통
 * 동반 증상 : 구역, 구토, 빛/큰소리 공포, 어지럼, 근육 압통, 수분 저류(부종), 감정 변화
@@ -50,7 +50,7 @@
 * ＞3개월 동안 ≥15일/월 발생하는 편두통
 * 흔히 정신적 문제, 수면 문제, 피로, 다른 통증, 소화 장애, 뇌혈관/심혈관 질환 등을 동반
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * trigeminovascular hypothesis : 뇌간에서의 삼차신경 뉴런 과민 → 신경 전달 물질(substance P, CGRP) 분비 → 혈관 확장, 신경인성 염증
 
@@ -84,7 +84,7 @@
 * 음료 : 술(와인, 증류주), 카페인(＞200 ㎎/d 과다 섭취 또는 갑작스런 중단)
 * 첨가제 : MSG, 간장, 고기 연육제, 인공 감미료(아스파탐, sucralose)
 
-## <mark style="color:green;">임상 양상 및 진단</mark>
+## <mark style="color:orange;">임상 양상 및 진단</mark>
 
 * 편두통을 확진하는 검사 방법은 없음; 필요시 다른 질환 감별을 위한 검사 시행
 * 신경학적 검사 시행 : 보행, 대/소근육 운동 기능, mental status, 단기 기억력, papilledema
@@ -179,14 +179,14 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * 필요시 약물 치료 : 급성 편두통 증상 완화, 만성 편두통 예방
   * 약물 과사용 예방을 위해 단일 성분 진통제는 ＜15일/월, 복합 진통제·triptan은 ＜10일/월 사용
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:orange;">비-약물 치료 및 예방</mark>
 
 * 조용하고 어두운 방에서 휴식, 두통 부위 냉찜질 또는 온찜질
 * 유발 인자 회피 : 음식, 과로, 공복(＞4시간의 공복), 탈수
 * 생활 습관 개선 : 수면 환경 개선, 규칙적 생활(수면, 식사, 운동, 스트레칭 등)
 * 행동 치료 : 이완 훈련, 인지행동 요법, 바이오피드백
 
-## <mark style="color:green;">급성 편두통</mark>
+## <mark style="color:orange;">급성 편두통</mark>
 
 * 1차 선택 : 경증 — 진통제(NSAID), 중증 — triptan
 * 중증 시 triptan과 진통제를 병용할 수 있으며 필요시 항구토제를 추가
@@ -264,7 +264,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 ***
 
-## <mark style="color:green;">만성 편두통의 예방적 약물 치료</mark>
+## <mark style="color:orange;">만성 편두통의 예방적 약물 치료</mark>
 
 #### 예방 치료 대상
 
@@ -360,7 +360,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * naratriptan 1 ㎎ bid \[나라믹] : 대안
 * NSAID(예: naproxen 500 ㎎ bid)도 단기 예방에 사용 가능
 
-## <mark style="color:green;">Status Migrainosus</mark>
+## <mark style="color:orange;">Status Migrainosus</mark>
 
 * ＞72시간 지속되는 심한 편두통; 탈수·전해질 불균형 동반 가능
 * 응급실 의뢰 고려
@@ -372,7 +372,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G43 편두통
 
@@ -390,7 +390,7 @@ G43.9 상세불명의 편두통
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 급성 편두통 (경증)**
 >
@@ -426,7 +426,7 @@ G43.9 상세불명의 편두통
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **트립탄 계열 (이미그란, 조믹, 나라믹 등)**
 >

@@ -1,6 +1,6 @@
-# 복통 Abdominal Pain
+# <mark style="color:green;">복통 Abdominal Pain</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 복통은 1차 진료에서 가장 흔한 주소 중 하나로, 양성 기능성 질환부터 즉각적인 처치가 필요한 응급 질환까지 원인이 매우 다양함
 * 통증의 위치·성질·시작·지속 시간·방사·악화·완화 인자와 동반 증상(발열, 구역·구토, 설사, 혈변, 황달 등)을 체계적으로 파악하는 것이 감별 진단의 핵심
@@ -32,7 +32,7 @@
 * 같은 문제로 반복적인 진료 ※ 진단 누락 또는 만성 질환 가능성 경고
 * 가족력 : 난소 또는 창자의 악성 종양, 가족성 대장폴립증
 
-## <mark style="color:green;">검사</mark>
+## <mark style="color:orange;">검사</mark>
 
 * 진찰, vital sign, 병력 청취
 * 가임기 여성 : 소변 또는 혈청 β-hCG (자궁외임신 배제)
@@ -50,7 +50,7 @@
 * 복부-골반 CT : 급성 복통의 원인 불명 또는 중증 의심 시; 충수염, 게실염, 장간막 허혈 등 평가
 * 부인과 초음파 : 자궁외임신, 난소 병변 의심 시
 
-## <mark style="color:green;">통증 기원에 따른 특징</mark>
+## <mark style="color:orange;">통증 기원에 따른 특징</mark>
 
 #### Visceral pain (내장통)
 
@@ -84,7 +84,7 @@
 * 특징 : 국소 압통, 자세 변화·움직임에 의해 악화, 복강 내 병변과 달리 복부 강직·반동 압통 없음
 * Carnett's sign : 환자가 상체를 들어올리거나 복근을 긴장시킬 때 압통이 유지되거나 악화되면 복벽 기원 가능성 높음 (＊복강 내 병변 시 통증 감소)
 
-## <mark style="color:green;">위치에 따른 복부 통증의 감별</mark>
+## <mark style="color:orange;">위치에 따른 복부 통증의 감별</mark>
 
 #### 우상복부 복통
 
@@ -155,7 +155,7 @@
 
 ***
 
-## <mark style="color:green;">연관통</mark>
+## <mark style="color:orange;">연관통</mark>
 
 * 보통 소화관 문제는 복부 중앙부 증상으로 나타남
 * 콩팥, 요관, 난소, 상행/하행 결장 문제는 이환된 쪽의 편측 증상으로 나타남
@@ -165,7 +165,7 @@
 
 ![](../.gitbook/assets/c4e4421b-c17b-4ca7-be1d-fe1557d4be16.JPG)
 
-## <mark style="color:green;">증상에 따른 감별</mark>
+## <mark style="color:orange;">증상에 따른 감별</mark>
 
 * 고령(특히 당뇨병, 신부전 환자)에서는 통증, 복부 강직, 발열 등의 증상이 적게 발현되므로 증상이 전형적이지 않더라도 중증 질환 가능성을 항상 염두에 두어야 함
 * 가임기 여성에서는 항상 임신 가능성을 고려 → β-hCG 확인
@@ -180,7 +180,7 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R10.4 기타 및 상세불명의 복통
 

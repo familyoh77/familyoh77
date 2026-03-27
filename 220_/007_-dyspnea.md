@@ -1,6 +1,6 @@
-# 호흡 곤란 Dyspnea
+# <mark style="color:green;">호흡 곤란 Dyspnea</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 호흡 곤란 : 주관적으로 느끼는 다양한 정도의 숨가쁨
 * 급성 : 수 시간\~수일
@@ -30,7 +30,7 @@
 
 * 설명할 수 없는 체중 감소
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 #### 호흡기계 질환 (Respiratory)
 
@@ -78,7 +78,7 @@
 * Amiodarone : 폐독성(Amiodarone-induced pulmonary toxicity, AIPT); 복용 환자에서 잠행성 발병, 마른기침, 발열, 체중 감소 동반 시 의심
 * 기타 : Methotrexate(간질성 폐렴), ACE 억제제(만성 기침)
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">검사</mark>
 
@@ -157,7 +157,7 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R06.0 호흡곤란
 
@@ -165,7 +165,7 @@ J80 성인호흡곤란증후군
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **니트로글리세린 설하정 (니트로글리세린) — 협심증·급성 심부전**
 >

@@ -1,6 +1,6 @@
-# 공황장애 Panic Disorder
+# <mark style="color:green;">공황장애 Panic Disorder</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 공황발작 : 예기치 못한, 스스로 통제할 수 없는, 강력한 공포감 및 관련된 육체/정서/인지 증상들(예: 과호흡, 호흡 곤란, 두근거림, 어지럼, 감각 이상)이 갑작스럽고 짧게 발생; 수 분(10분) 내 절정에 도달하고 1시간 내 사라짐
 * 공황장애 : 반복적인 공황발작 및 발작 후 발작 재발에 대한 지속적인 걱정(예: 광장 공포, 불안/우울) &/or 공황 발작을 피하기 위해 과도한 노력(예: 지나친 의료 이용)을 하는 상태
@@ -8,7 +8,7 @@
 * 동반 증상 : 우울, 자살 위험, 강박 장애, 위장 증상(복통, 가슴쓰림, 설사, 변비, 구역/구토; 30%)
 * 광장공포증(Agoraphobia) : DSM-5부터 공황장애와 별개의 독립 진단으로 분리됨; 두 질환이 공존하는 경우가 흔하며 각각 독립적으로 진단·치료함
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 불명
 * 추정 기전 : 뇌 기능 이상(편도체 과활성, prefrontal cortex 조절 기능 저하), 정서적 자극을 다루는 기능의 이상
@@ -41,7 +41,7 @@
 
 * 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 
-## <mark style="color:green;">임상 양상 및 진단</mark>
+## <mark style="color:orange;">임상 양상 및 진단</mark>
 
 ### <mark style="color:$primary;">진단 기준 \[DSM-5]</mark>
 
@@ -112,7 +112,7 @@
 
 * 다른 항우울제로 교체 또는 다른 계열 항우울제/비정형 항정신병제(aripiprazole, quetiapine)/강화 약물(예: propranolol, buspirone) 추가 (☞ p.115)
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:orange;">비-약물 치료</mark>
 
 * 공황 및 관련한 과호흡으로 인하여 증상이 발생하고 악화되고 있으며 이를 수정하면 증상이 완화될 수 있음을 교육
 * 인지행동 요법(CBT), mindfulness-based therapy, exposure therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
@@ -121,7 +121,7 @@
 * 카페인 섭취 제한, 금주
 * 디지털 치료제(DTx) : CBT 기반 앱을 경증\~중등도 공황장애의 보조 수단으로 활용 가능; 국내외 허가 절차 진행 중 (근거 축적 중, 2023 APA update)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * 1차 선택 : SSRI, SNRI (☞ p.1146)
 * 저용량으로 시작(우울증 치료 시작 용량의 절반) → 점차 증량 (초기 불안 악화·jitteriness syndrome 예방)
@@ -162,13 +162,13 @@ _<mark style="color:$info;">Ref. Conn's Current therapy 2017. Panic Disorder Tab
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 F41.0 공황장애
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 급성기 — 항우울제 + 단기 BZD 병용
 >
@@ -201,7 +201,7 @@ F41.0 공황장애
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **공황장애 약물 복용 안내**
 >

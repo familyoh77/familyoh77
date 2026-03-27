@@ -1,4 +1,4 @@
-# Part 2. 신경정신 질환
+# <mark style="color:green;">Part 2. 신경정신 질환</mark>
 
 참고 가이드라인\
 •Diagnostic and statistical manual of mental disorders, DSM-5. APA (2014)\

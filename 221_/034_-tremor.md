@@ -1,6 +1,6 @@
-# 떨림 Tremor
+# <mark style="color:green;">떨림 Tremor</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 신체 일부분의 리드미컬한 불수의적 진동 움직임
 * 진폭은 작고 진동수는 많음
@@ -41,7 +41,7 @@
 * 수의 운동 시 호전
 * 관련 질환 : 파킨슨병, midbrain (rubral) tremor, Wilson병, severe essential tremor
 
-## <mark style="color:green;">임상 양상 및 진단</mark>
+## <mark style="color:orange;">임상 양상 및 진단</mark>
 
 ### <mark style="color:$primary;">감별</mark>
 
@@ -120,7 +120,7 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:green;">본태성 떨림</mark>
+## <mark style="color:orange;">본태성 떨림</mark>
 
 #### 비-약물 치료
 
@@ -151,7 +151,7 @@ _<mark style="color:$info;">Ref. AAN Evidence-based guideline update: Treatment 
 * Deep brain stimulation (DBS) : 시상(VIM nucleus) 자극; 중증 약물 불응성 본태성 떨림에 적응
 * Focused ultrasound thalamotomy : 2016 FDA 승인; 편측 시상 파괴술; 비침습적 시술로 DBS 대안
 
-## <mark style="color:green;">생리적 떨림</mark>
+## <mark style="color:orange;">생리적 떨림</mark>
 
 * 비-약물 치료를 원칙으로 함
 * 카페인 섭취, 흡연을 피함
@@ -159,7 +159,7 @@ _<mark style="color:$info;">Ref. AAN Evidence-based guideline update: Treatment 
   * propranolol : 10\~40 mg 상황 발생 1\~2시간 전 단회 투여 \[인데놀]
   * 투여 전 천식, 저혈압, 서맥 여부 확인
 
-## <mark style="color:green;">반얼굴연축</mark>
+## <mark style="color:orange;">반얼굴연축</mark>
 
 * 1차 치료 : Botulinum toxin injection (표준치료; AAN 권고)
   * 효과 지속 : 3\~4개월; 반복 투여 필요
@@ -169,7 +169,7 @@ _<mark style="color:$info;">Ref. AAN Evidence-based guideline update: Treatment 
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G25.0 본태성 떨림
 
@@ -177,7 +177,7 @@ R25.1 상세불명의 떨림
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 본태성 떨림 - propranolol (1차)
 >
@@ -216,7 +216,7 @@ R25.1 상세불명의 떨림
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **떨림 약물 복용 안내**
 >

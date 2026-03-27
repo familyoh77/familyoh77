@@ -1,6 +1,6 @@
-# 흉통 Chest Pain
+# <mark style="color:green;">흉통 Chest Pain</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 흉통의 정의 : 가슴의 통증 뿐 아니라 가슴, 어깨, 팔, 목, 상복부, 턱의 압박감, 조임, 무거움, 작열감을 포함(2021 AHA/ACC)
   * 특히 고령자, 당뇨병 환자, 여성에서는 통증 대신 호흡곤란, 실신, 메스꺼움, 심한 피로감 등 '협심증 동등 증상(Anginal equivalents)'으로 나타날 수 있음
@@ -33,7 +33,7 @@
 * 위장 출혈 동반 (소화관 출혈·대동맥장누공 가능성)
 * 설명할 수 없는 체중 감소 (악성 종양·만성 중증 질환 시사)
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 ### <mark style="color:$primary;">Cardiac (심장성)</mark>
 
@@ -72,7 +72,7 @@
 * 호흡기 : 기흉, 흉막염, 폐렴, 폐암
 * 기타 : 공황장애, 불안장애, 대상포진
 
-## <mark style="color:green;">검사</mark>
+## <mark style="color:orange;">검사</mark>
 
 * 진찰, vital sign(pulse oximetry 포함), 병력 청취
 * 12-lead ECG : 심장 허혈이 의심되는 모든 환자에서 시행; 증상 발생 또는 내원 후 10분 이내 시행 및 판독 권고 (2021 AHA/ACC, Class I)
@@ -93,7 +93,7 @@
 
 _\*65세 미만에서 CCTA 선호_
 
-## <mark style="color:green;">심장 기원 흉통</mark>
+## <mark style="color:orange;">심장 기원 흉통</mark>
 
 **Myocardial ischemia**
 
@@ -158,7 +158,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 * ACS 초기 평가의 핵심 원칙: **A**bnormal ECG(즉각 ECG 시행) → **C**linical context(임상 맥락 및 검사 결과 종합) → **S**table(혈역학적 안정 여부 확인).
 * ACS 의심 ECG 소견 : ST elevation, new-onset LBBB, Q wave 존재, new T-wave inversions
 
-## <mark style="color:green;">폐 기원 흉통</mark>
+## <mark style="color:orange;">폐 기원 흉통</mark>
 
 <table><thead><tr><th width="139.42108154296875"></th><th width="106.89471435546875">시작 / 기간</th><th width="138.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
 
@@ -178,7 +178,7 @@ Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충
 
 ▶ 8가지 모두 해당 시 PE 가능성 약 1% 미만 → 추가 검사 불필요 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 
-## <mark style="color:green;">비-심폐 기원 흉통</mark>
+## <mark style="color:orange;">비-심폐 기원 흉통</mark>
 
 ### <mark style="color:$primary;">식도 기원 흉통의 특징</mark>
 
@@ -246,7 +246,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **니트로글리세린 설하정 (니트로글리세린) — 협심증 흉통**
 >
@@ -263,7 +263,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 > * 위궤양, 출혈 병력이 있는 분은 반드시 의사에게 미리 알려 주십시오.
 > * 이 복용법은 응급 상황 시 1회에 한하며, 평소 아스피린 복용 방법과 다를 수 있습니다. 의사 지시에 따르십시오.
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R07.4 상세불명의 흉통
 

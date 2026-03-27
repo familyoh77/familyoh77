@@ -1,6 +1,6 @@
-# 실신 Syncope
+# <mark style="color:green;">실신 Syncope</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 #### Syncope
 
@@ -40,7 +40,7 @@
 
 * 반복적이고 설명할 수 없는 실신 (위 소견 병존 시 즉각 격상)
 
-## <mark style="color:green;">종류</mark>
+## <mark style="color:orange;">종류</mark>
 
 ### <mark style="color:$primary;">반사성 실신, 신경 매개성 실신 (Reflex syncope, Neurally mediated syncope)</mark>
 
@@ -74,7 +74,7 @@
   * 비정상 ECG, 심장 또는 관상동맥 이상 병력, 심장 질환 가족력
   * 반복 실신이 부정맥에 의할 가능성은 낮음 → 반복 시 반사성 실신 우선 고려
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">초기 평가 원칙</mark>
 
@@ -144,13 +144,13 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R55 실신 및 허탈
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 기립성 저혈압 실신 - 급성기 수액 보충
 >
@@ -177,7 +177,7 @@ R55 실신 및 허탈
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **실신 후 일반 주의사항**
 >

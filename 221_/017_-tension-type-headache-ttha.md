@@ -1,6 +1,6 @@
-# 긴장형두통 Tension Type Headache, TTHA
+# <mark style="color:green;">긴장형두통 Tension Type Headache, TTHA</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 다음의 특징을 갖는 두부 양측의, 압박 또는 조이는 느낌의 두통
   * 중등도 이하의 강도
@@ -30,7 +30,7 @@
    2. probable frequent episodic tension type headache
    3. probable chronic tension type headache
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 불명
 
@@ -64,7 +64,7 @@
 * 냄새, 소음, 빛 : 편두통에서 더 두드러짐; TTHA에서는 근거 약함
 * 약물 (항고혈압제, nitrate, SSRI 등) : 빈도 낮으나 간과하기 쉬움
 
-## <mark style="color:green;">임상 양상 및 진단</mark>
+## <mark style="color:orange;">임상 양상 및 진단</mark>
 
 ### <mark style="color:$primary;">Episodic tension-type headache (삽화긴장형두통)</mark>
 
@@ -145,7 +145,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 
 ※ **약물과용두통 주의** : 진통제의 잦은 사용은 반발성 두통 또는 약물과용두통을 야기할 수 있음(특히 카페인 함유 복합제). 약물에 의한 두통 발생을 예방하기 위해 진통제 사용을 ≤2일/주로 제한할 것을 권고 (단순 NSAIDs/acetaminophen은 월 15일, 복합진통제는 월 10일 초과 시 약물과용두통 기준에 해당)
 
-## <mark style="color:green;">비약물 치료</mark>
+## <mark style="color:orange;">비약물 치료</mark>
 
 * 규칙적 식사, 균형 잡힌 식사; 아침 식사를 거르지 않음
 * 충분한 휴식/취침, 규칙적 취침/기상; 소음이 적은 어두운 방에서 휴식
@@ -157,7 +157,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 * 이완 요법 : 요가, 명상, 인지행동치료(CBT), 바이오피드백
 * 향기 요법 : 페퍼민트 oil을 전두부에 도포(일부에서 유효)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 ※ **편두통 치료제는 순수 TTHA에 효과 없음**
 
@@ -222,7 +222,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G44.2 긴장형두통
 
@@ -230,7 +230,7 @@ G44.2 긴장형두통
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 **처방례 1.** 급성기 - 일반
 
@@ -273,7 +273,7 @@ G44.2 긴장형두통
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **급성기 진통제 (부루펜·타이레놀·낙센 등)**
 >

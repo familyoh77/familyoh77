@@ -1,6 +1,6 @@
-# 어지럼증 Dizziness
+# <mark style="color:green;">어지럼증 Dizziness</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 움직임이 없음에도 움직인다고 느끼거나 실제보다 더 많이 움직이는 느낌, 불균형, 불안정성
 * 경고 증상이 있거나 중추성 원인이 의심되는 경우 이송 등 신속한 조치를 요함
@@ -55,7 +55,7 @@
 * 원인 미상의 발열(＞38℃) → 뇌막염·뇌염 가능성 (경부 강직·의식 변화 동반 시 즉각 응급으로 격상)
 * 48시간 후에도 호전되지 않음 → 중추성 원인 배제 필요
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * Central : 10% 차지, 고령에서는 20% 차지; 편두통, 소뇌 종양, 뇌졸중, vestibular ischemia
 * Peripheral : BPPV, 전정신경염, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
@@ -63,7 +63,7 @@
 * 고령 : 불안/우울 특성, 균형 감각 손상, 심근경색/뇌졸중 과거력, 청력 장애, 기립성 저혈압, 다제약물(✽≥5가지 약물 복용 환자의 ⅔에서 어지럼증 발생)
 * <mark style="color:$info;">※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%, vestibular neuritis 5.4%였으며 19\~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음. (J Neurol 2020 Aug;267(8):2252-2259.)</mark>
 
-## <mark style="color:green;">말초성 질환</mark>
+## <mark style="color:orange;">말초성 질환</mark>
 
 ### <mark style="color:$primary;">양성발작성체위성어지럼증 (Benign paroxysmal positional vertigo, BPPV)</mark>
 
@@ -144,7 +144,7 @@
 * Otosclerosis : 중이의 비정상적으로 성장한 뼈; 난청, 이명, 어지럼 유발
 * 말초신경병증 : disequilibrium; 하지(특히 발) 감각 저하
 
-## <mark style="color:green;">중추성 질환</mark>
+## <mark style="color:orange;">중추성 질환</mark>
 
 ### <mark style="color:$primary;">편두통성 어지럼증 (Vestibular migraine)</mark>
 
@@ -162,7 +162,7 @@
 * Multiple sclerosis : white matter의 demyelinization
 * 파킨슨병 : disequilibrium; resting tremor, rigidity, bradykinesia
 
-## <mark style="color:green;">기타 질환</mark>
+## <mark style="color:orange;">기타 질환</mark>
 
 ### <mark style="color:$primary;">멀미 (Motion sickness)</mark>
 
@@ -181,7 +181,7 @@
 * 기립성 저혈압 : presyncope; 맥박 증가 (☞ p.500)
 * 과호흡 : lightheadness; 불안, 맥박 증가; 치료- 호흡 조절, β-차단제, 항불안제
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 혈압 : 누운 자세 및 기립 자세를 포함하여 측정
 * 신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진; electronystagmography, vestibular-evoked myogenic potentials
@@ -321,7 +321,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:orange;">비-약물 치료</mark>
 
 * 금연
 
@@ -344,7 +344,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
   4. 발을 약간 벌리고 서서 180도 turn
   * 처음에는 오른쪽, 다음에는 왼쪽, 어지러움이 발생하는 쪽에 5회 turn; 눈을 뜨고 시행, 가능하면 눈을 감고 반복; 하루 2회 시행
 
-## <mark style="color:green;">치료 약물</mark>
+## <mark style="color:orange;">치료 약물</mark>
 
 ✽일부 약제는 어지럼증 상병으로는 보험 적용 안 됨
 
@@ -401,7 +401,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 * steroid : 전정신경염에 적용; 증상 발현 3일 이내 투여 시 단기 전정 기능 회복에 도움 가능 (장기 예후 근거 불충분)
   * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 \[메치론]
 
-## <mark style="color:green;">질환별 치료</mark>
+## <mark style="color:orange;">질환별 치료</mark>
 
 ### <mark style="color:$primary;">BPPV</mark>
 
@@ -508,7 +508,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R42 어지럼증 및 어지럼
 
@@ -524,7 +524,7 @@ H83.0 미로염
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 급성 어지럼증 — 일반 (말초성, 원인 불명)
 >
@@ -563,7 +563,7 @@ H83.0 미로염
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **전정 안정제** (보나링 에이, 디아제팜 등)
 >

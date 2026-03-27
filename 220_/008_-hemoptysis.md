@@ -1,6 +1,6 @@
-# 객혈 Hemoptysis
+# <mark style="color:green;">객혈 Hemoptysis</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 점액농성 또는 화농성 가래에 소량의 혈액이 줄무늬 또는 점상으로 묻어 나옴
 * 기관지 점막의 자극 또는 손상
@@ -30,7 +30,7 @@
 **기도 폐쇄(Asphyxia) 위험 — 즉각 대응** 소량의 객혈이라도 기도를 막으면 질식사 가능. 호흡 곤란·호흡음 감소·산소포화도 저하가 있으면 즉시 기도 확보 및 응급 의뢰
 {% endhint %}
 
-## <mark style="color:green;">원인 및 감별</mark>
+## <mark style="color:orange;">원인 및 감별</mark>
 
 * 심한 기침 : 보통 blood-streaked sputum
 * 상기도 (비인두) 출혈 : 코피, 구강 또는 인후부 출혈
@@ -51,7 +51,7 @@
 * 위장관 출혈 : 구역/구토, 위장/식도 질환력, NSAID 장기 복용, 흑색 변, 알코올 남용
 * 종양 : 흡연력, 체중 감소
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">객혈 vs 토혈 vs 비출혈 감별</mark>
 
@@ -75,7 +75,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:green;">응급 관리</mark>
+## <mark style="color:orange;">응급 관리</mark>
 
 * 앉은 자세 유지; 출혈 부위가 알려진 경우 출혈 측을 아래로 하는 체위(건측 폐 보호)
 * 산소 공급 : 목표 SpO₂ ≥94%
@@ -111,7 +111,7 @@ _<mark style="color:$info;">Ref. Radchenko C et al. British Thoracic Society Gui
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R04.2 객혈
 

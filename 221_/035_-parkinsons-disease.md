@@ -1,13 +1,13 @@
-# 파킨슨병 Parkinson’s Disease
+# <mark style="color:green;">파킨슨병 Parkinson’s Disease</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 'resting tremor, rigidity, bradykinesia, postural instability'를 특징으로 하는 진행성 neuro-degenerative disorder
 * 보통 45\~65세에 발병; 60세 이상 인구의 1%; 알츠하이머병 다음으로 흔한 신경 변성 질환
 * 발병 10년 후 상당수에서 사망, 자세 불안정, 치매 등 나쁜 경과를 보임
 * 낙상, 폐렴, 질식 등의 사고에 의한 사망 위험이 증가하므로 운동, 움직임 등 기능 보존이 중요
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 * 불명
 * 기전(추정) : substantia nigra의 도파민 뉴런 소실 및 Lewy body(주성분: α-synuclein) 형성이 병리학적으로 확인됨; 이로 인한 도파민 감소와 도파민-acetylcholine 불균형이 운동 증상의 주요 기전으로 설명되나, Lewy body의 정확한 역할 및 뉴런 소실의 근본 원인은 미해명
@@ -27,7 +27,7 @@
 * 약물 : 위장 운동 촉진제(metoclopramide, levosulpiride), 항정신병제(chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, lithium, valproic acid), 항우울제(fluoxetine), 심혈관제(amiodarone, diltiazem, reserpine, methyldopa)
   * 니코틴과 카페인이 파킨슨병의 위험을 줄이거나 발생을 지연시킨다는 보고가 있음
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 * 보통 편측 팔(±다리)에서 시작하여 수개월\~수년 후 양측에서 발생
 
@@ -84,7 +84,7 @@
 * 치료 반응 불충분 시 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * levodopa 장기 사용 후 wearing-off, dyskinesia 발생 시
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 임상적으로 진단
 
@@ -185,7 +185,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:orange;">비-약물 치료</mark>
 
 * 규칙적 운동, 재활 운동
   * 유산소 운동, 태극권, 댄스 등이 보행 및 균형 개선에 도움
@@ -213,7 +213,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
   * 2021 FDA 승인 (양측 STN 대상 확대)
   * DBS 대안으로 고려 (단, 효과는 편측에 국한)
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 ### <mark style="color:$primary;">운동 증상 치료</mark>
 
@@ -307,13 +307,13 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 G20 파킨슨병
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** ＜60세 — dopamine 작용제 단독 (초기 치료)
 >
@@ -353,7 +353,7 @@ G20 파킨슨병
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **파킨슨병 약물 복용 안내**
 >

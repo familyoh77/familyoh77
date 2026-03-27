@@ -1,6 +1,6 @@
-# 후각, 미각 이상 Smell, Taste Disorders
+# <mark style="color:green;">후각, 미각 이상 Smell, Taste Disorders</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 후각 및 미각은 소화액 분비를 촉진하므로 이 기능의 장애는 소화 장애, 식욕 감퇴, 체중 감소, 영양실조, 삶의 질 저하 및 사망률 증가와 연관됨
 * 점차적인 후각 및 미각 저하는 고령에서 흔한 현상임
@@ -30,7 +30,7 @@
 * 비부비동 치료 후에도 4주 이상 지속되는 후각 장애
 * 후각·미각 소실 + 설명되지 않는 체중 감소
 
-## <mark style="color:green;">원인 및 관련 인자</mark>
+## <mark style="color:orange;">원인 및 관련 인자</mark>
 
 #### 후각
 
@@ -67,7 +67,7 @@
 
 <table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td></td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>각종 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">검사</mark>
 
@@ -108,7 +108,7 @@ _<mark style="color:$info;">Ref. Fokkens WJ et al. EPOS 2020: European Position 
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R43 후각 및 미각 장애
 

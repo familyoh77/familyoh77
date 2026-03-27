@@ -1,6 +1,6 @@
-# 반사성 실신 Reflex Syncope, Neurally mediated Syncope
+# <mark style="color:green;">반사성 실신 Reflex Syncope, Neurally mediated Syncope</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 실신 : 뇌 혈류량 감소로 인하여 갑작스럽게 발생하고, 신경학적 후유 장애 없이 수 초\~수 분 후 자발적으로 회복되는 일시적인 의식 소실 (☞ p.103)
 * 반사성 실신 : 혈관 확장 &/or 서맥(드물게 빈맥)을 포함하는 reflex response에 의한 일시적 의식 소실
@@ -8,13 +8,13 @@
 * seizure, coma, shock 등을 배제해야 함
 * 기전 : emotional event(cerebral cortex, Ⅸ/Ⅹ 뇌신경), carotid sinus 자극/기침(Ⅸ/Ⅹ), 심근허혈, 호흡 자극(Ⅴ/Ⅶ/Ⅷ), GI 자극(Ⅹ, 척수) → nucleus tractus solitarius → 혈관 확장(교감 신경 차단), 서맥(부교감 신경 활동 증가) → 저혈압, 뇌 관류 저하
 
-### 위험 인자
+### <mark style="color:$primary;">위험 인자</mark>
 
 * 가족력, 고령, 임신
 * 휴식 시 낮은 혈압, 당뇨
 * 운동 부족
 
-## <mark style="color:green;">종류</mark>
+## <mark style="color:orange;">종류</mark>
 
 ### <mark style="color:$primary;">혈관 미주 신경성 실신 (Vasovagal syncope, Neurocardiogenic syncope)</mark>
 
@@ -49,7 +49,7 @@
 * ECG 이상 : QTc 연장(＞500 ms) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block
 * 신경학적 이상(국소 마비, 구음 장애, 복시 등) → 뇌졸중·TIA 의심
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 혈압, 맥박 : 누운 자세 및 기립, 양쪽 측정
 * 심장 : ECG (초기 평가에서 반드시 시행), Holter monitoring(심장 원인 의심 시), exercise stress test(운동 원인 의심 시)
@@ -72,7 +72,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### 치료 방침
+### <mark style="color:$primary;">치료 방침</mark>
 
 * 안심시킴 및 교육
 * 유발 인자 회피
@@ -83,7 +83,7 @@
 * 반복·중증 실신 : 아래 침습적 치료 고려
 * 부상 예방 : 채혈 또는 주사 시 누워서 진행, 전조 증상 발생 시 앉거나 누움
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:orange;">비-약물 치료 및 예방</mark>
 
 * 수분 및 소금 섭취를 늘림 (수분 ≥2 L/d, 소금 6\~9 g/d 목표)
 * 증상 발생 시 음료 500 ㎖ 섭취 및 다리를 올리고 누워 있음
@@ -103,7 +103,7 @@
 * Arm Tensing : 양손을 갈고리처럼 걸고 서로 당기기; 상지 대근육 등척성 수축 → 교감신경 활성화, 말초 혈관 저항 상승 및 심박수 유지 보조
 * Neck flexion : 턱을 가슴에 붙임; 경부 근육 수축으로 혈압 유지 보조; 다른 maneuver 대비 혈압 상승 효과는 작으나 좁은 공간에서 시행 가능한 대안
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 * α-agonist : 기립성 유발 VVS에서 선호; VVS 약물 중 현재 가장 강한 근거(2021 무작위·이중맹검·위약대조 RCT 및 2022년 7개 RCT 메타분석에서 재발 감소 확인
   * midodrine \[미드론] (☞ p.502)
@@ -114,9 +114,9 @@
 * SSRI : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2022년 네트워크 메타분석에서 fluoxetine이 재발 감소 확인; paroxetine은 동 분석에서 재발 증가 시사로 권고하지 않음
   * fluoxetine \[푸록틴, 프로작] (☞ p.1146)
 
-## <mark style="color:green;">침습적 치료</mark>
+## <mark style="color:orange;">침습적 치료</mark>
 
-### 심박동기 (Pacemaker)
+### <mark style="color:$primary;">심박동기 (Pacemaker)</mark>
 
 * 적응증 (2021 ESC 심박동기 가이드라인 - Class I, LOE A) : 40세 이상, 재발성·중증(외상 동반, 전구 증상 짧음), 약물 치료에 반응 없는 cardioinhbitory형 VVS에서 ILR 또는 carotid sinus 마사지/tilt test로 무수축(asystole) 확인 시 dual-chamber pacemaker 적응
   * 무수축 기준 : ILR에서 ≥3초 (증상 동반) 또는 ≥6초 (무증상)
@@ -124,13 +124,13 @@
 * 목동맥굴증후군(carotid sinus syndrome)의 cardioinhibitory/mixed형 : pacemaker 적응 (Class I)
 * Vasodepressor 우세형 또는 40세 미만 환자에서는 pacemaker 효과 제한적
 
-### Cardioneuroablation (CNA)
+### <mark style="color:$primary;">Cardioneuroablation (CNA)</mark>
 
 * 미주신경의 심장 자율신경절 고주파 절제술; 2024 EHRA/HRS 공동 과학선언 발표
 * 초기 소규모 RCT에서 비약물 치료 대비 재발 억제 우수(2023년); 일반 적용을 위한 대규모 근거 아직 불충분
 * 적응 고려 : 고도 cardioinhibitory VVS, pacemaker 거부 환자 등 선별된 경우
 
-## <mark style="color:green;">대체 요법</mark>
+## <mark style="color:orange;">대체 요법</mark>
 
 * 심장, 불안 문제 등의 완화를 기대하지만 효과가 입증된 요법은 없음
 * 오메가-3, 복합 Vit, CoQ10, acetyl-L-carnitine, α-lipoic acid, L-arginine
@@ -139,7 +139,7 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R55.0 혈관미주신경성 실신
 
@@ -147,7 +147,7 @@ R55.8 기타 실신 및 허탈
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 혈관미주신경성 실신 — 일반 (초기, 비약물 치료 병행)
 >
@@ -173,7 +173,7 @@ R55.8 기타 실신 및 허탈
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **미드론 (Midodrine)**
 >

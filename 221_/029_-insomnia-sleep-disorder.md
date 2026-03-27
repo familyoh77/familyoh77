@@ -1,6 +1,6 @@
-# 불면증 Insomnia, Sleep Disorder
+# <mark style="color:green;">불면증 Insomnia, Sleep Disorder</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 ### <mark style="color:$primary;">Sleep disorder 분류 \[ICSD-3]</mark>
 
@@ -35,7 +35,7 @@
 
 * short-term 또는 chronic insomnia에 해당되지 않는 수면 장애
 
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:orange;">원인 및 위험 인자</mark>
 
 * 특발성(원인 불명)
 * 불규칙 수면 : 교대 근무, 여행, 출장; 낮잠, 일찍 취침
@@ -52,7 +52,7 @@
 * 약물 남용 : 다제약물, 알코올 남용, 카페인 과용, 약물 금단
 * 약물 : 항우울제(예: SSRI, SNRI, bupropion), β-차단제/항진제, CCB, 이뇨제, 항간질제(예: lamotrigine, phenytoin), 항콜린제, 항암제, 교감 신경 흥분제(예: salbutamol, salmeterol, theophylline, pseudoephedrine), CNS 자극제(예: methylphenidate, dextroamphetamine, nicotine), NSAID, steroid, 경구 피임제, 갑상선 호르몬, atorvastatin, levodopa, quinidine
 
-## <mark style="color:green;">임상 양상</mark>
+## <mark style="color:orange;">임상 양상</mark>
 
 **주간 기능 장애** (가장 흔하고 직접적인 증상)
 
@@ -92,7 +92,7 @@
 * 치료에 반응하지 않는 경우 (CBT-I 및 2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * 동반 정신 질환(우울증, 불안증) 또는 신체 질환 조절 불량
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 * 다른 원인을 배제하여 진단
 * 병력(예: 통증성 질환), 약물/음주 경력
@@ -203,7 +203,7 @@
 * 권장 수면 시간 : ≥7시간 (AASM·Sleep Research Society 권고)
 * 야간 배뇨(nocturia)가 동반된 경우 원인 질환(전립선비대증, 과민성방광, 심부전, 당뇨 등) 평가 및 치료 병행; 저녁 수분 섭취 제한, 취침 전 배뇨 습관화
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:orange;">비-약물 치료</mark>
 
 _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments for Chronic Insomnia Disorder in Adults. J Clin Sleep Med. 2021;17(2):255–262.</mark>_
 
@@ -265,7 +265,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 일정 시간 규칙적으로 밝은 빛(햇빛 아님)을 눈에 비춤; 2,000\~10,000 lux, 30분\~2시간, 수일
 * 부작용 : 경미; 안구건조증, 안구 충혈감, 두통, 불안, 초조감
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:orange;">약물 치료</mark>
 
 ### <mark style="color:$primary;">사용 원칙</mark>
 
@@ -347,7 +347,7 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 * benzodiazepine : 만성 사용 시 deep sleep time 감소, 수면 구조 왜곡 등 수면 질을 떨어뜨리고 의존 위험이 있어 제한
 * 항히스타민제, 항정신병제, melatonin, L-tryptophan, phytotherapy(예: valerian), 향기 요법, 동종 요법, foot reflexology, 명상, 침, 뜸, 요가 : 증거 불충분, 권하지 않음
 
-## <mark style="color:green;">Circadian rhythm sleep-wake disorders (Shift work disorder, SWD)</mark>
+## <mark style="color:orange;">Circadian rhythm sleep-wake disorders (Shift work disorder, SWD)</mark>
 
 * 일반적 생활 요법 시행. 특히 취침 전 카페인이나 알코올 섭취 회피, 취침 전 소음/밝기 최소화
 * bright light therapy
@@ -373,7 +373,7 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 F51 비기질성 수면장애
 
@@ -381,7 +381,7 @@ G47 수면장애
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.** 입면 장애
 >
@@ -431,7 +431,7 @@ G47 수면장애
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **수면제 복용 안내**
 >

@@ -1,6 +1,6 @@
-# 두근거림 Palpitation
+# <mark style="color:green;">두근거림 Palpitation</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 심장의 강하고 빠르고 불규칙한, 불쾌한 기분의 박동
 
@@ -32,7 +32,7 @@
 * Short fluttering
 * 느린 박동 AND 정상 ECG AND 가족력 없음 AND 심장의 구조적 질환 없음
 
-## <mark style="color:green;">원인</mark>
+## <mark style="color:orange;">원인</mark>
 
 ### <mark style="color:$primary;">심장 원인</mark>
 
@@ -68,7 +68,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:green;">치료 방침</mark>
+### <mark style="color:$primary;">치료 방침</mark>
 
 * 원인 질환에 대한 치료. 그 외에는 대부분 치료 필요 없음
 * SVT 동반 두근거림 : **Modified Valsalva Maneuver** 우선 시도 (아래 참고)
@@ -115,13 +115,13 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R00.2 두근거림
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1.**
 >
@@ -147,7 +147,7 @@ R00.2 두근거림
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **propranolol (인데놀) · metoprolol (베타록) — β-차단제**
 >

@@ -1,6 +1,6 @@
-# 기침 Cough
+# <mark style="color:green;">기침 Cough</mark>
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:orange;">일반 사항</mark>
 
 * 기침은 1차 진료에서 가장 흔한 주소 중 하나로, 기도 내 이물·분비물 제거를 위한 방어 반사이지만 지속 시 삶의 질을 크게 저하시킴
 * 지속 기간에 따라 급성(＜3주), 아급성(3\~8주), 만성(＞8주)으로 분류하며, 이에 따라 원인과 접근법이 달라짐
@@ -32,7 +32,7 @@
 * 설명할 수 없는 체중 감소
 * 경험적 치료에 반응하지 않음 ※ 진단 재검토 필요
 
-## <mark style="color:green;">기간에 따른 분류 및 원인</mark>
+## <mark style="color:orange;">기간에 따른 분류 및 원인</mark>
 
 #### 급성 기침 (＜3주)
 
@@ -58,7 +58,7 @@
 
 ✽감염후기침(post-infectious cough) : 상기도 감염 후 발생하여 3주 이상 지속되는 고질적 기침으로 2\~3개월 이상 지속되기도 함
 
-## <mark style="color:green;">지속되는 기침의 원인 질환들</mark>
+## <mark style="color:orange;">지속되는 기침의 원인 질환들</mark>
 
 ### <mark style="color:$primary;">상기도기침증후군 (Upper airway cough syndrome)</mark>
 
@@ -109,7 +109,7 @@
 * 진단 : 다른 원인을 배제한 후 임상적으로 진단; neuromodulator 치료에 반응하면 진단 지지
 * 치료 : neuromodulator(gabapentin, pregabalin, amitriptyline 등) - "원인 미상의 refractory cough" 항목 참조; 기침 억제 재활 치료(cough suppression therapy)를 병행하거나 단독으로 시행 가능
 
-## <mark style="color:green;">진단</mark>
+## <mark style="color:orange;">진단</mark>
 
 ### <mark style="color:$primary;">만성 기침</mark>
 
@@ -182,7 +182,7 @@
   2. 삼키기 법(연하 동작 활용) : 마른 기침을세게하는 대신, 침을 삼키거나 물을 소량 자주 마셔 인후부의 간지러운 감각을 완화시킴
   3. 이완 요법 : 목과 어깨, 상체 근육의 긴장을 풀어주는 스트레칭을 병행
 
-## <mark style="color:green;">질환별 치료</mark>
+## <mark style="color:orange;">질환별 치료</mark>
 
 * 알레르기비염, 후비루 : 항히스타민제, 비내 steroid (☞ p.243)
 * 백일해 : azithromycin(1차), clarithromycin 또는 TMP-SMX(대안); 노출 후 예방에도 동일 항생제 사용 (☞ 백일해 챕터 참조)
@@ -223,13 +223,13 @@
 
 ***
 
-### <mark style="color:purple;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
 R05 기침
 
 ***
 
-## <mark style="color:orange;">처방례</mark>
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 상기도 기침증후군**
 >
@@ -250,7 +250,7 @@ R05 기침
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **진해제 — codeine 함유 제제 (코데닝 등)**
 >
