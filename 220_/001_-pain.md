@@ -104,7 +104,7 @@
 * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 상태를 교정함; 만성 통증은 신체 손상 신호가 아니라 '예민해진 신경계의 오작동'임을 설명
 * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
 * Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진적으로 늘려 자기 효능감을 회복시킴
-* \[예시]&#x20;
+* \[예시]
   * Pt. "허리가 끊어질 것 같아요" - Dr. "허리 근육이 많이 긴장해서 예민한 상태군요."
   * Pt. "이러다 평생 못 걸으면 어쩌죠?" - Dr. "오늘은 컨디션이 좋지 않네요. 하지만 우리는 조금씩 움직임을 늘려갈 계획입니다."
   * Pt. "약 없이는 한순간도 못 버텨요." - Dr. "약은 통증 조절의 도구 중 하나입니다. 호흡과 이완 요법도 함께 사용해 봅시다."
@@ -121,7 +121,7 @@
   * 치료 용량 범위 내에서는 심각한 GI 부작용 위험은 거의 없음
 * 약물 상호 작용 : warfarin(INR 연장), isoniazid, CYP450 대사 약물
 * 용량
-  * 325\~650 ㎎ q4\~6h, 1 g qid; 서방형 1,300 ㎎ q8h <mark style="color:blue;">[타이레놀]</mark>
+  * 325\~650 ㎎ q4\~6h, 1 g qid; 서방형 1,300 ㎎ q8h <mark style="color:blue;">\[타이레놀]</mark>
   * 최대 용량 : 단기 사용(≤3일) 시 4 g/d; 최근 FDA 및 주요 가이드라인에서는 3 g/d 이하 권고 추세
   * 고령, 영양 결핍, 간 독성 위험(규칙적 음주), 간/신 장애 시 2 g/d
 
@@ -134,7 +134,7 @@
 * 대상 : non-opioid analgesics에 반응하지 않는 환자에서 opioid의 위험(예: 중독, 과용, 사망)에 비하여 이득이 더 큰 경우에 적용
 * 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 항콜린 부작용(입마름, 구역, 변비, 소변 저류)
   * 고령에서는 낙상 위험 증가 외에는 NSAID에 비하여 안전
-  * 오피오이드 유발 변비(opioid-induced constipation, OIC) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 자극성 하제(stimulant laxatives, 예: sennoside <mark style="color:blue;">[아락실]</mark>, bisacodyl <mark style="color:blue;">[둘코락스]</mark>)를 선제적으로 처방하는 것을 고려
+  * 오피오이드 유발 변비(opioid-induced constipation, OIC) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 자극성 하제(stimulant laxatives, 예: sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>)를 선제적으로 처방하는 것을 고려
 * 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용, 수면무호흡증
 * 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함
   * 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
@@ -147,38 +147,38 @@
 * 대사 : CYP 2D6(major), 3A4(minor)
 * 다음 약제 병용 시 부작용 증가 : MAOI, SSRI, TCA, trimebutine(✽opioid 수용체에 작용)
 * 경련 발생 위험이 있으므로 고령이나 간/신기능 저하자에서는 감량
-* 용법 : 50 ㎎ → 필요시 증량 100 ㎎ bid\~qid <mark style="color:blue;">[트리돌]</mark>
+* 용법 : 50 ㎎ → 필요시 증량 100 ㎎ bid\~qid <mark style="color:blue;">\[트리돌]</mark>
 * acetaminophen 또는 NSAID 병용으로 효과 상승
-  * <mark style="color:blue;">[울트라셋]</mark> (acetaminophen 복합제)
-  * <mark style="color:blue;">[Seglentis]</mark> (celecoxib 복합제; 국내 미발매)
+  * <mark style="color:blue;">\[울트라셋]</mark> (acetaminophen 복합제)
+  * <mark style="color:blue;">\[Seglentis]</mark> (celecoxib 복합제; 국내 미발매)
 
 #### <mark style="color:$primary;">Codeine</mark>
 
-* 용법 : 20\~100 ㎎ tid <mark style="color:blue;">[인산코데인]</mark>
-* 복합제 : 코데인 10 ㎎ + ibuprofen 200 ㎎ + AAP 250 ㎎ <mark style="color:blue;">[마이폴]</mark>
+* 용법 : 20\~100 ㎎ tid <mark style="color:blue;">\[인산코데인]</mark>
+* 복합제 : 코데인 10 ㎎ + ibuprofen 200 ㎎ + AAP 250 ㎎ <mark style="color:blue;">\[마이폴]</mark>
 
 #### <mark style="color:$primary;">Hydrocodone</mark>
 
 * 용법 : 2.5\~5 ㎎ 1\~2T q4\~6h, 7.5 ㎎ 1T q4\~6h
-* 복합제 : hydrocodone + AAP <mark style="color:blue;">[하이코돈]</mark>
+* 복합제 : hydrocodone + AAP <mark style="color:blue;">\[하이코돈]</mark>
 
 #### <mark style="color:$primary;">Oxycodone</mark>
 
-* 용법 : 초회 10 ㎎ bid, 10\~80 ㎎/d <mark style="color:blue;">[옥시콘틴 서방]</mark>
+* 용법 : 초회 10 ㎎ bid, 10\~80 ㎎/d <mark style="color:blue;">\[옥시콘틴 서방]</mark>
 
 #### <mark style="color:$primary;">Hydromorphone</mark>
 
-* 비서방형 : 2\~4 ㎎ q4\~6h <mark style="color:blue;">[저니스타]</mark>
-* 서방형 : 저용량(4 ㎎)으로 시작. 1일 1회 <mark style="color:blue;">[저니스타 서방]</mark>
+* 비서방형 : 2\~4 ㎎ q4\~6h <mark style="color:blue;">\[저니스타]</mark>
+* 서방형 : 저용량(4 ㎎)으로 시작. 1일 1회 <mark style="color:blue;">\[저니스타 서방]</mark>
 
 #### <mark style="color:$primary;">Buprenorphine 패취제</mark>
 
-* 저용량(5\~10 ㎍/wk)으로 시작 → 효과 및 부작용을 관찰하며 증량; 1주 1매 <mark style="color:blue;">[노스판 패취]</mark>
+* 저용량(5\~10 ㎍/wk)으로 시작 → 효과 및 부작용을 관찰하며 증량; 1주 1매 <mark style="color:blue;">\[노스판 패취]</mark>
 * 보험기준 : NSAID의 최대 용량에도 반응하지 않아 마약성 진통제를 필요로 하는 심한 통증에 1주 20㎍/h까지 인정. 1회 처방 당 최대 30일까지 인정
 
 #### <mark style="color:$primary;">Fentanyl 패취제</mark>
 
-* 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용 <mark style="color:blue;">[듀로제식디트랜스 패취]</mark>
+* 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용 <mark style="color:blue;">\[듀로제식디트랜스 패취]</mark>
 
 ### <mark style="color:orange;">비암성 만성 통증에서 Opioid 처방 10대 원칙</mark>
 
@@ -209,9 +209,9 @@
 * 감량 속도는 환자의 임상 상황에 따라 개별화
   * 1년 이상 복용 : 월 10%씩 감량
   * 수주\~수개월 복용 : 주 10%씩 감량 → 원래 용량의 30%에 도달 후 남은 용량의 주 10%씩 감량
-* 급성 통증으로 사용한 경우
-  * 3일 이상\~1주 미만 : 2일간 일일 용량을 50%로 감량
+* 급성 통증으로 단기 사용한 경우 (별도 기준)
   * 1주 이상\~1개월 미만 : 2일마다 약 20%씩 감량
+  * 3일 이상\~1주 미만 : 2일간 일일 용량을 50%로 감량 후 중단
 
 **Opioid 회전** (Opioid Rotation)
 
@@ -251,32 +251,32 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 투여 전 ECG 검사, 혈압/맥박 모니터링
 * 주의/금기 : 고령, 심질환(특히 전도 장애), 심한 위장 기능 장애
 * 용량 : 저용량으로 시작(고령에서는 ½ 용량으로 시작); 1주 간격으로 증량
-* amitriptyline : 항콜린 작용이 가장 큼; 10\~25 ㎎ hs, 최대 125 ㎎/d <mark style="color:blue;">[에트라빌]</mark>
-* nortriptyline : 10\~25 ㎎ tid, 최대 150 ㎎/d <mark style="color:blue;">[센시발]</mark>
+* amitriptyline : 항콜린 작용이 가장 큼; 10\~25 ㎎ hs, 최대 125 ㎎/d <mark style="color:blue;">\[에트라빌]</mark>
+* nortriptyline : 10\~25 ㎎ tid, 최대 150 ㎎/d <mark style="color:blue;">\[센시발]</mark>
 * desipramine : 항콜린 작용이 가장 적음; 25 ㎎/d, 최대 300 ㎎/d
 
 #### <mark style="color:$primary;">SNRI, SSRI</mark>
 
 * TCA에 비하여 효과 적음
 * 대상 : 다른 약물 요법으로 실패한 말초신경병증성 통증, 섬유근육통
-* duloxetine : 섬유근육통, 골관절염; 30\~60 ㎎/d qd <mark style="color:blue;">[심발타]</mark>&#x20;
-* fluoxetine : 섬유근육통; 20\~80 ㎎/d qd <mark style="color:blue;">[푸로작]</mark>
+* duloxetine : 섬유근육통, 골관절염; 30\~60 ㎎/d qd <mark style="color:blue;">\[심발타]</mark>
+* fluoxetine : 섬유근육통; 20\~80 ㎎/d qd <mark style="color:blue;">\[푸로작]</mark>
 * Tapentadol
   * 작용 : opioid(μ 수용체 작용) + SNRI(norepinephrine 재흡수 억제) 이중 기전
   * 대상 : 중등증\~중증의 급성 및 만성 통증, 당뇨병신경병증
   * 장점 : 기존 opioid에 비하여 위장관 부작용(구역, 변비)이 적음
   * 부작용 : 어지럼, 구역, 두통, 졸음
   * 주의 : MAOI 병용 금기; SSRI/SNRI 병용 시 serotonin syndrome 위험
-  * 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩 증량 <mark style="color:blue;">[뉴신타 서방]</mark>
+  * 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩 증량 <mark style="color:blue;">\[뉴신타 서방]</mark>
 
 ### <mark style="color:orange;">Benzodiazepine</mark>
 
 * 일부 연구에서 통증 감소에 유효 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
 * 중독 문제로 ＜2주의 단기 사용으로 제한하며, 만성 통증에 대하여 권고하지 않음
 * 부작용 : 졸음, 의존성
-* clonazepam : 0.25 ㎎ qd\~tid, 필요시 3일 간격 증량, 최대 3\~6 ㎎/d <mark style="color:blue;">[리보트릴]</mark>
-* lorazepam : 1\~4 ㎎/d #2\~4. 최대 20 ㎎/d <mark style="color:blue;">[아티반]</mark>
-* diazepam : 2\~10 ㎎ bid\~qid <mark style="color:blue;">[디아제팜]</mark>
+* clonazepam : 0.25 ㎎ qd\~tid, 필요시 3일 간격 증량, 최대 3\~6 ㎎/d <mark style="color:blue;">\[리보트릴]</mark>
+* lorazepam : 1\~4 ㎎/d #2\~4. 최대 20 ㎎/d <mark style="color:blue;">\[아티반]</mark>
+* diazepam : 2\~10 ㎎ bid\~qid <mark style="color:blue;">\[디아제팜]</mark>
 
 ### <mark style="color:orange;">Anticonvulsants</mark>
 
@@ -289,22 +289,22 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 보다 빠른 효과를 보임
 * 부작용 : 어지럼/졸음(용량의존; 저용량 시작 및 서서히 증량 시 완화), 말초부종, 체중 증가, 도취감, 의존성/남용 가능성(특히 pregabalin; 영국에서는 2019년 규제 약물로 지정)
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
-* gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">[뉴론틴]</mark>
-* pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">[리리카]</mark>
+* gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>
+* pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 
 #### <mark style="color:$primary;">Others</mark>
 
-* carbamazepine : 100 ㎎ bid → 증량, 최대 800 ㎎/d <mark style="color:blue;">[테그레톨]</mark>
+* carbamazepine : 100 ㎎ bid → 증량, 최대 800 ㎎/d <mark style="color:blue;">\[테그레톨]</mark>
   * 부작용 : WBC↓, PLT↓, 조절 장애(예: 시야 혼탁), 부종, 기면, 구토, 두통, 혼돈
-* lamotrigine : 50 ㎎/d, 증량 50 ㎎/2wk, 최대 400 ㎎/d <mark style="color:blue;">[라믹탈]</mark>
+* lamotrigine : 50 ㎎/d, 증량 50 ㎎/2wk, 최대 400 ㎎/d <mark style="color:blue;">\[라믹탈]</mark>
   * gabapentinoid보다 효과적이지 않음. 2차 약제로 고려
-* topiramate : 요통에 효과 기대; 50\~400 ㎎ #1\~2 <mark style="color:blue;">[토파맥스]</mark>
+* topiramate : 요통에 효과 기대; 50\~400 ㎎ #1\~2 <mark style="color:blue;">\[토파맥스]</mark>
 
 ### <mark style="color:orange;">N-methyl-D-aspartate receptor antagonist (NMDA)</mark>
 
 * 대상 : 신경병증성 통증. 예) 당뇨병신경병증, 대상포진후신경통, phantom limb pain, 말초신경병증성 통증, 복합부위통증증후군
 * 심한 부작용 없음
-* memantine : 5 ㎎ qd, 2일마다 5 ㎎ 증량, 유지 10 ㎎ bid <mark style="color:blue;">[에빅사]</mark> (보험주의)
+* memantine : 5 ㎎ qd, 2일마다 5 ㎎ 증량, 유지 10 ㎎ bid <mark style="color:blue;">\[에빅사]</mark> (보험주의)
 
 ### <mark style="color:orange;">근이완제</mark>
 
@@ -312,18 +312,18 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 대상 : 근육 경련이 통증의 원인인 경우; 졸음 등 부작용 문제로 고령자에게는 권고 안 함
 * 부작용 : 졸음, 어지럼, 구역
 * 단기 작용제 선택
-* baclofen : 5\~10 ㎎ tid <mark style="color:blue;">[바크론]</mark>
+* baclofen : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark>
 * carisoprodol : 350 ㎎ tid
-* tizanidine : 1\~2 ㎎ tid <mark style="color:blue;">[실다루드]</mark>
-* cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">[본렉스 이알]</mark>
-* chlorphenesin : 250 ㎎ tid <mark style="color:blue;">[릴렉시아]</mark>
-* methocarbamol : 1.5\~2.25 g #3 <mark style="color:blue;">[메토카몰]</mark>
+* tizanidine : 1\~2 ㎎ tid <mark style="color:blue;">\[실다루드]</mark>
+* cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark>
+* chlorphenesin : 250 ㎎ tid <mark style="color:blue;">\[릴렉시아]</mark>
+* methocarbamol : 1.5\~2.25 g #3 <mark style="color:blue;">\[메토카몰]</mark>
 
 ### <mark style="color:orange;">Steroid</mark>
 
 * 작용 : 항염, 진통
 * 부작용 : 혈압 상승, 체액 저류, 골다공증
-* dexamethasone : 다른 steroid에 비하여 mineralocorticoid 작용이 적음; 0.5\~8 ㎎/d <mark style="color:blue;">[덱사메타손]</mark>
+* dexamethasone : 다른 steroid에 비하여 mineralocorticoid 작용이 적음; 0.5\~8 ㎎/d <mark style="color:blue;">\[덱사메타손]</mark>
 
 ### <mark style="color:orange;">기타 국소 진통제</mark>
 
@@ -331,7 +331,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 * 대상 : 1차 약제가 효과적이지 않은 대상포진후신경통
   * 대상포진후신경통에 대하여 lidocaine이 capsaicin보다 효과와 내약성이 우수하다는 보고가 있음
-* 용법 : 1일 1회 1\~3매, 최대 12시간 부착. 12시간 drug-free interval 필요 <mark style="color:blue;">[리도탑 카타플라스마]</mark>
+* 용법 : 1일 1회 1\~3매, 최대 12시간 부착. 12시간 drug-free interval 필요 <mark style="color:blue;">\[리도탑 카타플라스마]</mark>
 
 #### <mark style="color:$primary;">Capsaicin cream</mark>
 
@@ -339,7 +339,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 대상 : 1차 약제가 효과적이지 않은 neuropathic pain
 * 효과 발현까지 2주 이상 소요
 * 부작용 : 작열감, 발적; 초기에 심함
-* 용법 : 0.075% cream qid <mark style="color:blue;">[다이악센]</mark>
+* 용법 : 0.075% cream qid <mark style="color:blue;">\[다이악센]</mark>
 
 #### <mark style="color:$primary;">Rubefacient</mark>
 
@@ -395,8 +395,8 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 소화성 궤양에 대한 대처
   * H. pylori 감염 치료
   * COX-2 억제제 선택 (aspirin과 병용 시 COX-2 억제제의 위장 보호 효과는 소멸됨)
-  * misoprostol : 위궤양 예방 효과; 소화불량 발생 가능; 200 ㎍ qid <mark style="color:blue;">[싸이토텍]</mark> (☞ [위점막보호제](../224_/073_.md#prostaglandin-e-analogue))
-  * PPI : 다음 약제를 1일 1회 복용; omeprazole 20\~40 ㎎ <mark style="color:blue;">[오엠피]</mark>, esomeprazole 40 ㎎ <mark style="color:blue;">[넥시움]</mark>, lansoprazole 30 ㎎ <mark style="color:blue;">[란스톤]</mark>, dexlansoprazole 30\~60 ㎎ <mark style="color:blue;">[덱실란트 디알]</mark>, pantoprazole 40 ㎎ <mark style="color:blue;">[판토록]</mark>, rabeprazole 20 ㎎ <mark style="color:blue;">[파리에트]</mark> (☞ [PPI](../224_/073_.md#proton-pump-inhibitor-ppi))
+  * misoprostol : 위궤양 예방 효과; 소화불량 발생 가능; 200 ㎍ qid <mark style="color:blue;">\[싸이토텍]</mark> (☞ [위점막보호제](../224_/073_.md#prostaglandin-e-analogue))
+  * PPI : 다음 약제를 1일 1회 복용; omeprazole 20\~40 ㎎ <mark style="color:blue;">\[오엠피]</mark>, esomeprazole 40 ㎎ <mark style="color:blue;">\[넥시움]</mark>, lansoprazole 30 ㎎ <mark style="color:blue;">\[란스톤]</mark>, dexlansoprazole 30\~60 ㎎ <mark style="color:blue;">\[덱실란트 디알]</mark>, pantoprazole 40 ㎎ <mark style="color:blue;">\[판토록]</mark>, rabeprazole 20 ㎎ <mark style="color:blue;">\[파리에트]</mark> (☞ [PPI](../224_/073_.md#proton-pump-inhibitor-ppi))
   * H2-blocker : 고용량(상용량의 2배 용량)으로 NSAID에 의한 소화성 궤양 예방 효과 (☞ [H1RA](../224_/073_.md#h2-h2-receptor-antagonist))
 
 ### <mark style="color:orange;">외용제</mark>
@@ -411,10 +411,10 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 고관절 OA에는 효과 없음
 * 주의/금기 : 기관지 천식, 임부, 수유부, 소아
 * 투여 횟수 : 통상 플라스타/파스류 1\~2회/d, 크림/겔 1\~4회/d
-* ketoprofen <mark style="color:blue;">[케토톱 플라스타/겔]</mark> (12시간, 24시간 적용 제품군)
-* piroxicam <mark style="color:blue;">[트라스트 패취/겔]</mark> (48시간 적용 제품군)
-* indomethacin <mark style="color:blue;">[바이겔 크림]</mark>
-* diclofenac <mark style="color:blue;">[볼타렌 에멀겔]</mark>
+* ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark> (12시간, 24시간 적용 제품군)
+* piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark> (48시간 적용 제품군)
+* indomethacin <mark style="color:blue;">\[바이겔 크림]</mark>
+* diclofenac <mark style="color:blue;">\[볼타렌 에멀겔]</mark>
 
 ### <mark style="color:orange;">NSAID 비교</mark>
 
@@ -478,7 +478,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 > **NSAIDs (이부프로펜, 나프록센, 셀레콕시브 등)**
 >
-> * 위 불편감이 있는 경우 음식과 함께 복용하십시오. 단, 음식과 함께 복용해도 심각한 위장관 부작용을 완전히 예방하지는 못합니다.&#x20;
+> * 위 불편감이 있는 경우 음식과 함께 복용하십시오. 단, 음식과 함께 복용해도 심각한 위장관 부작용을 완전히 예방하지는 못합니다.
 > * 부종(발·발목 붓기), 혈압 상승, 소변량 감소가 생기면 즉시 알려 주십시오.
 > * 심장 질환, 신장 질환, 위궤양 병력이 있으신 분은 반드시 의사에게 알려 주십시오.
 > * 장기 복용 시 정기적인 혈액 검사가 필요합니다.
