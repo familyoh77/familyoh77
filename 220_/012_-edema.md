@@ -1,6 +1,6 @@
-# <mark style="color:green;">부종 Edema</mark>
+# 부종 Edema
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 부종 : capillary hemodynamics 변화(모세혈관 수압↑, 삼투압↓, 투과성↑) 또는 신장의 Na·수분 정체 증가에 의해 간질(interstitium)에 체액이 과잉 축적된 상태
 * 전신 부종은 심부전·간경화·신부전·신증후군의 3대 원인을 먼저 감별하고, 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 고려
@@ -28,27 +28,27 @@
 * 일상생활이 어려운 수준의 부종
 * 신기능 이상 의심(소변량 감소, 거품뇨)
 
-## <mark style="color:orange;">전신 부종</mark>
+## <mark style="color:green;">전신 부종</mark>
 
-#### Cardiac (심부전)
+#### <mark style="color:$primary;">Cardiac (심부전)</mark>
 
 * 동반 소견 : 운동 유발 호흡 곤란(종종 orthopnea), 돌발성 야간 호흡 곤란, 말초 청색증, 사지 냉증
 * uric acid↑, Na↓, 간 효소↑
 
-#### Hepatic (간경화)
+#### <mark style="color:$primary;">Hepatic (간경화)</mark>
 
 * 흔히 음주와 관련
 * 동반 소견 : 간질환 소견(예: 복수, 황달, 손바닥 홍반, Dupuytren's contracture, spider angiomata, 여성형유방증), 혈압↓
 * 복수가 발생한 경우 이외에는 호흡 곤란은 드묾
 * hepatic proteins(transferrin, fibrinogen, albumin)↓, 간 효소↑, cholesterol↓, K↓, 호흡성 알칼리증, macrocytosis(엽산 결핍 관련)
 
-#### Renal (신부전, 신증후군)
+#### <mark style="color:$primary;">Renal (신부전, 신증후군)</mark>
 
 * 동반 소견 : 식욕 저하, 미각 변화(예: 쇠맛, 비릿함), 수면 변화, 집중력 장애, 하지불안증, myoclonus, 호흡 곤란(심부전 경우보다 덜함), 혈압↑, 고혈압성 망막증, 질소성 악취
 * Cr↑, BUN↑, u-Alb↑/s-Alb↓, K↑, P↑, Ca↓, 대상성 산증, 빈혈(보통 normocytic)
 * 신증후군 : 단백뇨(＞3.5 g/d), s-Alb↓, 고콜레스테롤혈증, 현미경혈뇨
 
-#### 기타
+#### <mark style="color:$primary;">기타</mark>
 
 * 알레르기, 두드러기, 혈관부종 : 모세혈관 투과성 증가
 * 폐쇄수면무호흡증 : pulmonary hypertension
@@ -56,23 +56,23 @@
 * 임신, 월경 전 : 체액 증가
 * 갑상선저하증 : generalized myxedema
 
-## <mark style="color:orange;">국소 부종</mark>
+## <mark style="color:green;">국소 부종</mark>
 
 * 원인 : 봉와직염, 정맥 부전, trauma, DVT, iliac vein obstruction, lipedema, lymphedema
 * 만성 하지 부종(편측 or 양측)은 종종 정맥 부전과 관련
 * 정맥/림프관 부전은 흔히 DVT의 합병증으로 발생
 * DVT 관련 인자 : 암 병력, 움직이지 않음, 1개월 내 주요 수술로 3일 이상 bed rest, 정맥류
 
-### <mark style="color:$primary;">Unilateral predominance</mark>
+### <mark style="color:orange;">Unilateral predominance</mark>
 
 * 원인 : 정맥 부전, DVT, lymphedema, 종양, complex regional pain syndrome
 
-### <mark style="color:$primary;">Bilateral predominance</mark>
+### <mark style="color:orange;">Bilateral predominance</mark>
 
 * 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
 * 약물 : CCB, pregabalin/gabapentin, NSAID, 호르몬제(예: steroid, estrogen, progesterone, testosterone), thiazolidinedione(Na 재흡수 증가), α-차단제, 항암제
 
-### <mark style="color:$primary;">만성 하지 부종의 감별</mark>
+### <mark style="color:orange;">만성 하지 부종의 감별</mark>
 
 <table><thead><tr><th width="120.57894897460938"></th><th>Cardiac / Orthostatic</th><th>Venous</th><th>Lymphatic</th><th>Lipedema</th></tr></thead><tbody><tr><td><strong>부종 양상</strong></td><td>Pitting</td><td>Brawny</td><td>Spongy</td><td>Non-pitting</td></tr><tr><td><strong>하지 거상으로 호전</strong></td><td>완전</td><td>완전</td><td>경미</td><td>최소</td></tr><tr><td><strong>부종 분포</strong></td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td></tr><tr><td><strong>피부 변화</strong></td><td>빛남, 경미한 착색</td><td>위축, 착색, 피하 섬유화</td><td>비후, 태선화</td><td>없음</td></tr><tr><td><strong>통증</strong></td><td>경미</td><td>심함: 통증, 조임, 파열</td><td>없거나 심한 통증</td><td>둔한 통증, 피부 과민</td></tr><tr><td><strong>양측</strong></td><td>항상</td><td>때때로: 보통 비대칭</td><td>때때로: 보통 비대칭</td><td>항상</td></tr></tbody></table>
 
@@ -80,7 +80,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 > ✽ **Brawny edema**: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음.
 
-### <mark style="color:$primary;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
+### <mark style="color:orange;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
 
 * 기전 : capillary leak, re-feeding(급속한 다이어트 후 식사 증량), 이뇨제 유발 부종
 * 체액 정체에 의한 얼굴, 손, 사지 부종; 아침에 심함
@@ -89,17 +89,17 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 관련 인자 : 당뇨병, 비만, 우울 등 정서적 문제
 * 진단 : 다른 원인 배제
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$primary;">감별</mark>
+### <mark style="color:orange;">감별</mark>
 
-#### 발생 부위
+#### <mark style="color:$primary;">발생 부위</mark>
 
 * 말초 부종만 존재 → 국소 정맥/림프 질환
 * 전신성(특히 눈꺼풀, 안면), 자고 일어난 아침에 심함 → 저단백(알부민＜2.5 g/㎗)
 * dependent position, 오래 서 있은 후(저녁) 하지 부종 → 심부전
 
-#### 국소 상태
+#### <mark style="color:$primary;">국소 상태</mark>
 
 * 압통 → DVT; 림프부종에서는 보통 압통이 없음 (때로 심한 통증)
 * pitting edema(＞5초) → DVT, 정맥 부전, 림프부종; fibrotic form에서는 보통 나타나지 않음
@@ -113,12 +113,12 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 피부 과각화(hyperkeratosis), 경결(dermal fibrosis) → 만성 림프 부종
 * 갈색 피부, hemosiderin 침착 → 정맥 부전
 
-#### 동반 증상
+#### <mark style="color:$primary;">동반 증상</mark>
 
 * 호흡 곤란 → 좌심부전, 폐부종
 * 복수 → 간경화
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * 초음파, D-Dimer : 명백한 원인이 없는 급성 하지 부종에 대하여 DVT 감별을 위하여 고려
   * D-Dimer는 [Wells score](https://www.mdcalc.com/calc/362/wells-criteria-dvt) 저위험군(≤1점)에서만 음성 예측도가 높음; 중등도 이상 위험군(≥2점)에서는 D-Dimer 음성이라도 압박 초음파(CUS)를 반드시 시행
@@ -133,12 +133,12 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 질환 치료; DVT에 대하여 항응고제, 필요시 이뇨제 투여
 * 피부 관리 주의 (피부 손상 및 venous ulcer 예방)
 
-#### 이뇨제 투여 지침
+#### <mark style="color:$primary;">이뇨제 투여 지침</mark>
 
 * 서둘러 투여할 필요는 없음; 폐부종 외에는 일반적으로 응급을 요하지 않음
 * 주의 : 복수 환자 또는 정맥/림프관 폐쇄 환자에서는 체액 고갈을 유발할 수 있음
@@ -150,7 +150,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
   * 신부전 또는 신증후군 시 고용량 필요
   * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
 
-### <mark style="color:$primary;">심부전에 의한 부종 — 기저 치료 원칙</mark>
+### <mark style="color:orange;">심부전에 의한 부종 — 기저 치료 원칙</mark>
 
 * 부종 자체(이뇨제)보다 **심부전의 신경호르몬 억제 치료**가 장기 예후를 결정함 (ESC HF Guideline 2021)
 * **HFrEF (LVEF ＜40%)** 에서 다음 약제를 단계적으로 추가하여 최대 내약 용량 유지
@@ -161,12 +161,12 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 _<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599–726.</mark>_
 
-### <mark style="color:$primary;">특발성 부종증후군, 하지 부종</mark>
+### <mark style="color:orange;">특발성 부종증후군, 하지 부종</mark>
 
 * 이미 이뇨제를 사용하고 있는 경우에는 이뇨제 중단(diuretic withdrawal)을 먼저 시행한 후 약물 치료를 고려함; 2\~4주 동안 복용 중단 및 저염식 병행
   * 이뇨제 중단 후 일시적으로 체중 증가가 나타날 수 있으나 수주 내 호전됨을 미리 설명
 
-#### 이뇨제
+#### <mark style="color:$primary;">이뇨제</mark>
 
 * 이뇨제가 필요한 경우 최소 유효 용량으로, 단기 사용을 원칙으로 투여 (☞ p.485)
 * 체액 저류가 저녁에 심해지므로 이른 저녁에 투여
@@ -174,7 +174,7 @@ _<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the 
 
     ± hydrochlorothiazide 25 ㎎/d \[다이크로짇]
 
-#### 기타
+#### <mark style="color:$primary;">기타</mark>
 
 * 누워서 쉼 (단, 심부전에 의한 부종 환자는 누운 자세로 인한 정맥 환류량 증가가 호흡 곤란을 악화시킬 수 있으므로 주의)
 * 더운 환경을 피함
@@ -263,13 +263,13 @@ I89.0 림프 부종
 발이나 다리가 붓는 것은 심장·신장·간 질환의 초기 신호일 수 있습니다.
 {% endhint %}
 
-#### 부종이란 무엇인가요?
+#### <mark style="color:$primary;">부종이란 무엇인가요?</mark>
 
 * 체내 수분이 혈관 밖 조직에 고여 피부가 부어오르는 상태입니다
 * 원인은 심부전, 신장 질환, 간 질환, 정맥 기능 부전, 약물 부작용, 영양 부족 등 다양합니다
 * 오랫동안 앉아 있거나 서 있을 때 생기는 가벼운 발목 부종은 대부분 양성이지만, 급격히 악화되거나 호흡 곤란이 동반되면 즉시 평가가 필요합니다
 
-#### 부종 관리 시 이렇게 하세요
+#### <mark style="color:$primary;">부종 관리 시 이렇게 하세요</mark>
 
 * **염분 제한** : 하루 소금 섭취를 5 g(나트륨 2,000 mg) 이하로 줄이십시오. 국물, 가공식품, 외식은 염분이 높습니다
 * **수분 섭취** : 의사의 지시에 따르십시오. 심장·신장 질환이 있는 경우 과도한 수분 섭취가 오히려 부종을 악화시킬 수 있습니다
@@ -277,7 +277,7 @@ I89.0 림프 부종
 * **압박 스타킹** : 의사 처방에 따라 착용하고, 아침 일어나자마자 신고 취침 전에 벗으십시오
 * **매일 체중 측정** : 아침 식전·소변 후 같은 조건에서 측정하여 부종 변화를 확인하십시오. 하루 1 kg 이상 증가하면 병원에 연락하십시오
 
-#### 이럴 때는 즉시 병원을 방문하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 부종이 갑자기 심해지거나 얼굴·복부까지 퍼지는 경우
 * 호흡 곤란, 누우면 숨이 차는 증상이 동반되는 경우

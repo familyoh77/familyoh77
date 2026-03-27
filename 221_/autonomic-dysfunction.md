@@ -1,39 +1,39 @@
-# <mark style="color:green;">자율 신경 기능 장애 Autonomic Dysfunction</mark>
+# 자율 신경 기능 장애 Autonomic Dysfunction
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 교감·부교감 신경계의 기능 이상으로 심혈관, 소화기, 비뇨기, 발한, 성기능 등 다양한 장기에 걸친 증상이 발생하는 증후군
 * 원발성(특발성) : 기저 질환 없이 자율신경계 자체의 퇴행성 변화
 * 이차성 : 기저 질환(당뇨병, 파킨슨병, 알코올 등)에 의한 자율신경 손상 - 임상에서 대부분을 차지함
 * 증상이 다양하고 비특이적이어서 신체증상장애와 감별이 필요함 (☞ [신체증상장애](/broken/pages/aa65e012987231fbb7183abc69ba53fd2a8f42c9))
 
-### <mark style="color:$primary;">대표적 증후군</mark>
+### <mark style="color:orange;">대표적 증후군</mark>
 
 * 당뇨병성 자율신경병증 : 이차성 자율신경 기능 장애의 가장 흔한 원인; 장기간 고혈당에 의한 자율신경 손상
 * 체위성 빈맥 증후군 (Postural Orthostatic Tachycardia Syndrome, POTS) : 기립 시 심박수 ≥30회/분 증가(10분 이내); 주로 젊은 여성; 어지럼, 심계항진, 피로, 인지 저하; 자가면역, Long COVID 후 발생 가능 - Long COVID 환자의 상당수에서 POTS 증상이 보고되며 자율신경절 수용체에 대한 자가항체 관련 기전이 유력하게 제시됨
 * 순수 자율신경 부전증 (Pure Autonomic Failure, PAF) : 기립성 저혈압이 주증상; 서서히 진행; 파킨슨병·MSA로 이행 가능
 * 다계통 위축증 (Multiple System Atrophy, MSA) : 자율신경 부전 + 소뇌/파킨슨 증상 동반; 빠른 진행
 
-## <mark style="color:orange;">원인 및 위험 인자</mark>
+## <mark style="color:green;">원인 및 위험 인자</mark>
 
-#### **신경퇴행성 질환**
+#### <mark style="color:$primary;">**신경퇴행성 질환**</mark>
 
 * 파킨슨병, 루이소체 치매, 다계통 위축증(MSA)
 
-#### **대사성·전신 질환**
+#### <mark style="color:$primary;">**대사성·전신 질환**</mark>
 
 * 당뇨병(가장 흔한 이차성 원인), 아밀로이드증, 만성 신부전, 갑상선 기능 이상
 
-#### **자가면역·감염**
+#### <mark style="color:$primary;">**자가면역·감염**</mark>
 
 * Sjögren 증후군, 자가면역 자율신경절병증, 길랭-바레 증후군
 * 바이러스 감염 후 : Long COVID(COVID-19 감염 후 12주 이상 지속되는 증상) — POTS 유발의 주요 원인으로 부상; 자율신경절 항체, 소섬유신경병증, 자율신경 조절 이상 등 복합 기전 제시됨
 
-#### **독성·약물**
+#### <mark style="color:$primary;">**독성·약물**</mark>
 
 * 알코올 남용(만성), 항암제(예: vinca alkaloids, platinum계), 항콜린제, α/β 차단제
 
-#### **기타**
+#### <mark style="color:$primary;">**기타**</mark>
 
 * 척수 손상, 부종양 증후군, 특발성
 
@@ -56,58 +56,58 @@
 * 당뇨병 환자에서 설명되지 않는 저혈압, 소화 장애, 배뇨 장애 - 당뇨병성 자율신경병증 평가
 * 치료에 반응하지 않는 경우 신경과 의뢰
 
-## <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
-#### **심혈관계**
+#### <mark style="color:$primary;">**심혈관계**</mark>
 
 * 기립성 저혈압 : 가장 흔하고 임상적으로 중요; 어지럼, 실신, 낙상 (☞ [기립성 저혈압](/broken/pages/eeb73d5aba738810ad368e9404714a6e46abc343))
 * 운동 불내성(exercise intolerance) : 운동 시 적절한 심박수 증가 불가
 * 앙와위 고혈압 : 기립성 저혈압과 역설적으로 동반될 수 있음
 
-#### **발한·분비**
+#### <mark style="color:$primary;">**발한·분비**</mark>
 
 * 발한 장애(과다 또는 저하), 침 분비 감소, 눈물 분비 감소
 
-#### **소화기계**
+#### <mark style="color:$primary;">**소화기계**</mark>
 
 * 소화 운동 감소, 위마비(gastroparesis), 식욕 부진, 팽만감, 변비, 설사, 삼킴곤란
 
-#### **비뇨기계**
+#### <mark style="color:$primary;">**비뇨기계**</mark>
 
 * 배뇨 지연, 요실금, 불완전 배뇨, 빈뇨, 야간 배뇨
 
-#### **성기능**
+#### <mark style="color:$primary;">**성기능**</mark>
 
 * 발기 부전, 사정 장애, 질 건조, 오르가즘 장애
 
-#### **기타**
+#### <mark style="color:$primary;">**기타**</mark>
 
 * 수면 장애, 시야 흐림·동공 반사 저하, 피로, 인지 저하(POTS에서 두드러짐)
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
-#### 혈압 측정
+#### <mark style="color:$primary;">혈압 측정</mark>
 
 * 기립성 저혈압 측정 : 앙와위 후 1·3·5분 혈압/맥박 측정; 수축기혈압 ≥20 mmHg 또는 이완기혈압 ≥10 mmHg 감소 시 양성
   * ✽고혈압 동반 환자 : 수축기혈압 ≥30 mmHg 감소를 기준으로 적용하기도 함
   * ✽지연성 기립성 저혈압(Delayed OH) : 기립 후 3분 이내는 정상이나 3\~30분 사이에 혈압이 기준치 이상 감소하는 경우; 초기 자율신경 부전의 징후일 수 있으므로 증상이 있는 경우 10분 이상 측정 권고
 * 10분 기립검사 (POTS 선별) : 기립 후 10분 내 심박수 ≥30회/분 증가 시 양성
 
-#### 전문 검사 (의뢰)
+#### <mark style="color:$primary;">전문 검사 (의뢰)</mark>
 
 * Heart rate variability (HRV) test : 심호흡 시 심박수 변동 평가
 * Valsalva response test : 자율신경 반사 평가
 * Sudomotor function test (QSART) : 발한 기능 평가
 * Tilt table test : POTS·기립성 저혈압 확진
 
-#### 기저 질환 감별 검사
+#### <mark style="color:$primary;">기저 질환 감별 검사</mark>
 
 * 혈당/HbA1c, TSH, 전해질, CBC, B12
 * 필요 시 : 항ganglionic AChR 항체(자가면역 자율신경절병증), 부종양 항체
 
-### <mark style="color:$primary;">감별 진단</mark>
+### <mark style="color:orange;">감별 진단</mark>
 
 * 신체증상장애 : 객관적 자율신경 검사 정상; 증상에 대한 과도한 집착; 심리적 요인
 * 불안장애/공황장애 : 발작성; 심계항진·발한이 두드러짐; 지속적 자율신경 이상 없음
@@ -118,13 +118,13 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 질환 치료가 우선 - 기저 질환 조절로 증상 호전 가능
 * 증상별 대증 치료 병행
 * 비약물 치료를 기본으로 하고 필요 시 약물 추가
 
-### <mark style="color:$primary;">비약물 치료</mark>
+### <mark style="color:orange;">비약물 치료</mark>
 
 **기립성 저혈압 / POTS**
 
@@ -144,7 +144,7 @@
 
 * 정해진 시간 배뇨 훈련, 이중 배뇨법(배뇨 후 잠시 후 재시도)
 
-### <mark style="color:$primary;">약물 치료</mark>
+### <mark style="color:orange;">약물 치료</mark>
 
 **기립성 저혈압**
 
@@ -231,13 +231,13 @@ F45.3 신체형자율신경기능장애
 자율신경 기능 장애로 인한 증상은 수분·염분 섭취와 천천히 일어나는 습관만으로도 상당히 호전될 수 있습니다.
 {% endhint %}
 
-#### 자율신경 기능 장애란 무엇인가요?
+#### <mark style="color:$primary;">자율신경 기능 장애란 무엇인가요?</mark>
 
 * 심장 박동, 혈압, 소화, 배뇨, 발한 등을 자동으로 조절하는 자율신경계가 제대로 작동하지 않아 다양한 증상이 나타나는 상태
 * 가장 흔한 증상은 \*\*일어설 때 어지럼증(기립성 저혈압)\*\*과 **누워 있다가 일어서면 심장이 빨리 뛰는 것(POTS)**
 * 대부분 생활 습관 교정과 적절한 치료로 호전됨
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 **일어날 때**
 
@@ -262,7 +262,7 @@ F45.3 신체형자율신경기능장애
 
 * 수영, 누워서 하는 저항 운동처럼 **수평 자세 운동**부터 시작하고, 적응되면 서서히 직립 운동으로 늘려 가세요
 
-#### 이것만은 꼭 기억하세요
+#### <mark style="color:$primary;">이것만은 꼭 기억하세요</mark>
 
 * 증상이 있다고 해서 심각한 심장병이나 뇌 질환이 있다는 뜻이 아닙니다
 * 생활 습관을 꾸준히 실천하는 것이 약만큼, 때로는 약보다 더 중요합니다

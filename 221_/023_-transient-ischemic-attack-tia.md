@@ -1,6 +1,6 @@
-# <mark style="color:green;">일과성 뇌허혈발작 Transient Ischemic Attack, TIA</mark>
+# 일과성 뇌허혈발작 Transient Ischemic Attack, TIA
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 급성 경색증 없이 뇌/망막/척수의 국소 허혈에 의해 수 분\~24시간 지속되는 일시적 신경 기능 이상
 * 뇌졸중의 전조 증상일 수 있음
@@ -9,25 +9,25 @@
 * 증상 발생 후 가능한 한 빨리(12시간 내) 진료
 * 발생 24시간 내 평가를 권고
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 경동맥 또는 척추 동맥의 죽상경화증
 * lacunar infarct, 심근경색, 색전증, 동맥염
 * 응고 항진 : protein S/C 결핍, antithrombin Ⅲ 결핍, 경구 피임제, 임신, 출산
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 심장 질환 : MI, 심방세동, 판막 질환
 * 고혈압, 당뇨병, 고지혈증, 비만, 수면무호흡증, thrombophilia
 * 흡연
 
-## <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
 * 얼굴 또는 사지의 기력 또는 감각 저하(편측성), 발음 장애, 시각 장애
 * 경동맥 장애(hemispheric) : 편측 시력 소실, hemianesthesia, 실어증
 * 척추뇌바닥동맥 장애 : 양측 시력 소실, 복시, 어지럼, 운동 실조, 안면 마비, 연하 곤란, 말더듬, 두통, 구역, 구토
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * 신경학적 검사
 * ECG; 초기 ECG 정상이더라도 원인 불명 TIA에서는 Holter 또는 장기 심전도 모니터링 고려 (잠재적 심방세동 스크리닝)
@@ -46,7 +46,7 @@
 
 _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² score in triaging TIA patients. Neurology 2010;74(17)</mark>_
 
-### <mark style="color:$primary;">감별</mark>
+### <mark style="color:orange;">감별</mark>
 
 * Brain tumor : 구역/구토를 동반한 심한 편측 두통
 * CNS 감염(뇌염, 수막염) : 발열, 두통, 혼란, 경부 강직, 구역/구토, 광선 공포, 정신 상태 변화
@@ -60,28 +60,28 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 급성기 뇌졸중 발생 가능성에 대하여 주의 관찰, 필요시 입원 관찰
 * 재발 방지를 위하여 항혈소판/항응고 치료, 생활 습관 교정
 * 기저 질환 및 위험 인자 관리 : 당뇨병, 고혈압(목표 < 130/80 ㎜Hg), 고지혈증, 비만, 심장 질환, 수면무호흡증
 * 1년 동안 매 3개월마다, 이후 매년 F/U
 
-## <mark style="color:orange;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 금연
 * 적정 체중 유지
 * 규칙적 유산소 운동 : 달리기, 자전거, 수영 등을 중등도 이상의 강도로 거의 매일(≥3회/주), ≥30분/일(≥150분/주) 시행 (☞ p.1160)
 * DASH diet : 과일, 야채, 통곡물, 저지방 유제품 권장; 술, 소금, 당분, meats 제한 (☞ p.1164)
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:$primary;">Antiplatelet therapy</mark>
+### <mark style="color:orange;">Antiplatelet therapy</mark>
 
 * atherothrombotic TIA에 적용 (☞ p.1154, 보험기준 p.1187)
 * 뇌출혈 배제 후 즉시(가급적 24시간 이내, 이상적으로 12시간 이내) 시작; 최대 72시간 이내까지 효과 있음 (INSPIRES 2023)
 
-#### 단기 이중 항혈소판 요법 (DAPT)
+#### <mark style="color:$primary;">단기 이중 항혈소판 요법 (DAPT)</mark>
 
 * 고위험 TIA에 우선 적용
 
@@ -104,7 +104,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * Clopidogrel 저항성 환자에서 고려 \[브릴린타 + 아스피린]
 * 중등도 이상의 경동맥 협착이 있거나 CYP2C19 유전자 변이로 clopidogrel 저항성이 우려되는 경우 선택 가능 (THALES 연구 근거; 단, 두개내 출혈 위험 증가에 주의)
 
-#### 장기 단독 항혈소판 요법&#x20;
+#### <mark style="color:$primary;">장기 단독 항혈소판 요법&#x20;</mark>
 
 * &#x20;DAPT 21일 완료 후 또는 저위험 TIA
 * aspirin : 100 ㎎/d (장기 유지) \[아스피린 장용정]
@@ -112,7 +112,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * 서방형 dipyridamole/aspirin : 200/25 ㎎ bid; aspirin 또는 clopidogrel의 대안 \[디피아녹스]
 * ticlopidine : 다른 약제를 사용할 수 없는 환자에서 고려 \[티클로돈]
 
-### <mark style="color:$primary;">Anticoagulation therapy</mark>
+### <mark style="color:orange;">Anticoagulation therapy</mark>
 
 * cardioembolic TIA(심방세동 등)에 적용 (보험기준 ☞ p.1187)
 * NOAC이 warfarin보다 우선 권고
@@ -122,7 +122,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * dabigatran : 110\~150 ㎎ bid \[프라닥사]&#x20;
 * warfarin : INR 목표 2.0\~3.0에 따라 용량 조절 \[와파린]&#x20;
 
-### <mark style="color:$primary;">Statin</mark>
+### <mark style="color:orange;">Statin</mark>
 
 * TIA 진단 즉시 고강도 statin 시작 권고&#x20;
 * 목표 : LDL-C ＜55 ㎎/dL 및 기저치 대비 50% 이상 감소 (2022 한국지질동맥경화학회·ESC 가이드라인)
@@ -203,26 +203,26 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 TIA 증상은 일시적으로 사라지지만, 이후 수일~수 주 내 뇌졸중으로 진행할 수 있습니다. 증상이 회복되어도 반드시 즉시 병원을 방문하십시오.
 {% endhint %}
 
-#### 일과성 뇌허혈발작(TIA)이란 무엇인가요?
+#### <mark style="color:$primary;">일과성 뇌허혈발작(TIA)이란 무엇인가요?</mark>
 
 * 뇌로 가는 혈액이 일시적으로 막혀 팔다리 마비·언어 장애·시야 장애 등이 수 분~수 시간 나타났다가 사라지는 현상입니다.
 * 증상이 저절로 회복되어도 뇌졸중(중풍)의 강력한 전조 증상이므로 **즉시 병원을 방문**하여 원인을 파악하고 예방 치료를 시작해야 합니다.
 
-#### 이런 증상이 생기면 즉시 응급실로 가세요 (FAST)
+#### <mark style="color:$primary;">이런 증상이 생기면 즉시 응급실로 가세요 (FAST)</mark>
 
 * **F**ace : 얼굴 한쪽이 처지거나 감각이 없는 경우
 * **A**rm : 한쪽 팔·다리에 힘이 빠지거나 감각이 없는 경우
 * **S**peech : 말이 어눌해지거나 상대방의 말을 이해하지 못하는 경우
 * **T**ime : 즉시 119에 연락하십시오 — 증상이 일시적으로 회복되어도 반드시 방문하십시오
 
-#### 약 복용 시 꼭 지켜주세요
+#### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
 * **항혈소판제(아스피린·클로피도그렐)** : 혈액이 굳는 것을 억제하여 뇌졸중 재발을 예방합니다. 임의로 중단하지 마십시오.
 * **출혈 주의** : 코피·잇몸 출혈·검은 대변·혈변이 나타나면 즉시 내원하십시오.
 * **수술·시술 전** : 항혈소판제 복용 사실을 반드시 담당 의사에게 알리십시오.
 * **스타틴(콜레스테롤약)** : 증상이 없어도 매일 꾸준히 복용하십시오. 근육통이나 근력 저하가 생기면 즉시 알리십시오.
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **혈압·혈당·콜레스테롤 관리** : 목표 혈압 130/80 mmHg 미만, LDL-콜레스테롤 55 mg/dL 미만을 유지하십시오.
 * **금연** : 흡연은 뇌졸중 위험을 크게 높입니다.

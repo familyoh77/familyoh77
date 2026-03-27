@@ -1,6 +1,6 @@
-# <mark style="color:green;">기침 Cough</mark>
+# 기침 Cough
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 기침은 1차 진료에서 가장 흔한 주소 중 하나로, 기도 내 이물·분비물 제거를 위한 방어 반사이지만 지속 시 삶의 질을 크게 저하시킴
 * 지속 기간에 따라 급성(＜3주), 아급성(3\~8주), 만성(＞8주)으로 분류하며, 이에 따라 원인과 접근법이 달라짐
@@ -32,24 +32,24 @@
 * 설명할 수 없는 체중 감소
 * 경험적 치료에 반응하지 않음 ※ 진단 재검토 필요
 
-## <mark style="color:orange;">기간에 따른 분류 및 원인</mark>
+## <mark style="color:green;">기간에 따른 분류 및 원인</mark>
 
-#### 급성 기침 (＜3주)
+#### <mark style="color:$primary;">급성 기침 (＜3주)</mark>
 
 * 급성 호흡기 감염 : 감기(대부분), 급성 기관지염, 부비동염, 폐렴, 백일해, 세기관지염
 * 만성 질환(예: 천식, COPD, CHF)의 급성 악화, 폐색전증
 * 흡인 : 이물질, 독성 물질 흡입
 
-#### 급성\~만성 기침
+#### <mark style="color:$primary;">급성\~만성 기침</mark>
 
 * 알레르기비염, GERD, 감염후기침
 
-#### 아급성 기침 (3\~8주)
+#### <mark style="color:$primary;">아급성 기침 (3\~8주)</mark>
 
 * 감염후기침, 백일해, 기저 폐질환의 악화
 * 비감염성 : 만성 기침과 같은 원인들
 
-#### 만성 기침 (＞8주)
+#### <mark style="color:$primary;">만성 기침 (＞8주)</mark>
 
 * 흔한 원인 : 천식, cough-variant asthma, GERD, 상기도기침증후군
 * 덜 흔한 원인 : 약물(예: ACEI, DPP-4i), 만성기관지염, COPD, 기관지확장증, 결핵, 기관지 자극(예: 흡연, 연기, 향수, 표백제), 감염후기침(감기후기침증후군), 심인성/습관성 기침, 기침과민증후군
@@ -58,21 +58,21 @@
 
 ✽감염후기침(post-infectious cough) : 상기도 감염 후 발생하여 3주 이상 지속되는 고질적 기침으로 2\~3개월 이상 지속되기도 함
 
-## <mark style="color:orange;">지속되는 기침의 원인 질환들</mark>
+## <mark style="color:green;">지속되는 기침의 원인 질환들</mark>
 
-### <mark style="color:$primary;">상기도기침증후군 (Upper airway cough syndrome)</mark>
+### <mark style="color:orange;">상기도기침증후군 (Upper airway cough syndrome)</mark>
 
 * 기전 : 후비루(예: 비염, 부비동염, 알레르기) 또는 환경 자극(예: 가스, 먼지) → hypopharynx 또는 larynx의 기침 수용체 자극
 * 임상 양상 : 후비루(느끼지 못할 수 있음), 목 청소(throat clearing), turbinate 부종, cobblestone throat
 * 진단 : 후비루에 대한 경험적 치료에 반응하지 않으면 검사를 고려하며, 지속되는 경우에는 천식 및 다른 원인에 대하여 평가
 
-### <mark style="color:$primary;">습관성 기침 (Habit cough)</mark>
+### <mark style="color:orange;">습관성 기침 (Habit cough)</mark>
 
 * 다른 명칭 : 심인성 기침(psychogenic cough), 틱 기침(cough tic)
 * 대부분 소아 청소년기에 발생
 * 성인에서는 여성에서 보다 흔함, 정신과적 문제 동반(예: 신체화장애, 우울증)
 
-#### 특징
+#### <mark style="color:$primary;">특징</mark>
 
 * 상기도 감염(예: 감기) 또는 스트레스가 있을 때 시작되어 수 주\~수개월간 지속
 * 특이한 기침 소리 : 귀에 거슬리는, 기괴한(예: 기러기 울음소리), 개 짖는 듯한 소리
@@ -83,21 +83,21 @@
 * 일반적인 치료에 반응하지 않음, 불필요한 진료 또는 치료를 많이 받음
 * 증상에 비하여 환자의 고통이 합당하지 않음(환자 본인은 크게 불편하지 않은 태도를 보임)
 
-#### 진단
+#### <mark style="color:$primary;">진단</mark>
 
 * 기저 질환 없이 지속되는 무의식적 기침으로, 뚜렷한 원인을 찾을 수 없거나 일반적인 치료에 반응하지 않는 경우에 다른 잠재적 원인을 배제한 후 진단
 * 진찰, 영상 검사, 혈액 검사, 폐 기능 검사, 기관지 내시경 검사 등에서 정상
 
-### <mark style="color:$primary;">ACE inhibitor-induced cough</mark>
+### <mark style="color:orange;">ACE inhibitor-induced cough</mark>
 
-#### 특징
+#### <mark style="color:$primary;">특징</mark>
 
 * 대부분 ACEI 투여 개시 1주일 내 시작 (수개월 후 시작되는 경우도 있음)
 * 인후부 가려움, 따끔거림, 또는 긁는 느낌
 * ACEI 투약 중단 후 1\~4일 정도에 호전되기 시작하여 1\~4주 내 회복 (3개월 이상 지속될 수 있음); 재투약 시 재발
 * 여성에서 더 흔함
 
-### <mark style="color:$primary;">기침과민증후군 (Cough hypersensitivity syndrome, CHS)</mark>
+### <mark style="color:orange;">기침과민증후군 (Cough hypersensitivity syndrome, CHS)</mark>
 
 * 정의 : 기저 질환에 관계없이 만성 기침이 주요 문제인 clinical entity
 * 표준 치료(천식·GERD·상기도기침증후군 치료)에 반응하지 않거나 원인을 찾을 수 없음
@@ -109,16 +109,16 @@
 * 진단 : 다른 원인을 배제한 후 임상적으로 진단; neuromodulator 치료에 반응하면 진단 지지
 * 치료 : neuromodulator(gabapentin, pregabalin, amitriptyline 등) - "원인 미상의 refractory cough" 항목 참조; 기침 억제 재활 치료(cough suppression therapy)를 병행하거나 단독으로 시행 가능
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$primary;">만성 기침</mark>
+### <mark style="color:orange;">만성 기침</mark>
 
 1. 약물, 흡연, 환경, COPD, 천식 등 유발 요인 및 기저 질환 확인
 2. 경고 징후 배제
 3. 흔한 원인(예: 상기도 기침 증후군, 역류성 질환, 천식) 감별
 4. 경험적 치료 후 반응 관찰
 
-### <mark style="color:$primary;">검사 및 대상</mark>
+### <mark style="color:orange;">검사 및 대상</mark>
 
 * 흉부 X선 : ＞2주 지속, 예상과 다른 경과, 객혈/호흡 곤란, 이물 흡인 의심, 4\~5일 이상 지속되는 발열, 호전 후 재발한 발열
   * 고령에서는 지속 기간에 관계없이 임상적으로 판단
@@ -129,7 +129,7 @@
   * 25\~50 ppb: 임상적 상황(천식 증상 등)과 함께 판단
   * \> 50 ppb: 호산구성 염증(천식, NAEB) 가능성 매우 높음, ICS 반응성 양호 예측
 
-### <mark style="color:$primary;">증상/병력에 따른 감별</mark>
+### <mark style="color:orange;">증상/병력에 따른 감별</mark>
 
 * 콧물 동반 → 감기
 * wheezing, rhonchi → 급성 기관지염
@@ -165,7 +165,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 금연 : 만성 기침이 있는 흡연자의 90%에서 금연 후 기침이 호전됨 (보통 1개월 내 회복)
 * 직업적 노출 회피 또는 차단
@@ -173,7 +173,7 @@
 * 대증 치료 : 진해제, 항히스타민제, 코 울혈 제거제, 흡입 steroid (☞ p.284, p.346)
 * ACEI를 복용 중인 경우 교체
 
-#### 기침 억제 재활 치료 (Cough Suppression Therapy)
+#### <mark style="color:$primary;">기침 억제 재활 치료 (Cough Suppression Therapy)</mark>
 
 * 난치성 기침(RCC) 또는 기침과민증후군 환자에게 약물과 병행하거나 단독으로 시행
 * 기전 : 기침을 유발하는 자극(따끔거림 등)이 느껴질 때 기침을 참는 행동을 통해 기침 반사 회로를 재훈련
@@ -182,7 +182,7 @@
   2. 삼키기 법(연하 동작 활용) : 마른 기침을세게하는 대신, 침을 삼키거나 물을 소량 자주 마셔 인후부의 간지러운 감각을 완화시킴
   3. 이완 요법 : 목과 어깨, 상체 근육의 긴장을 풀어주는 스트레칭을 병행
 
-## <mark style="color:orange;">질환별 치료</mark>
+## <mark style="color:green;">질환별 치료</mark>
 
 * 알레르기비염, 후비루 : 항히스타민제, 비내 steroid (☞ p.243)
 * 백일해 : azithromycin(1차), clarithromycin 또는 TMP-SMX(대안); 노출 후 예방에도 동일 항생제 사용 (☞ 백일해 챕터 참조)
@@ -195,7 +195,7 @@
   * amitriptyline 10 ㎎/d으로 시작, 최대 25 ㎎/d, 취침 전 \[에트라빌] (보험주의)
   * P2X3 수용체 길항제 : gefapixant\[Lyfnua]가 난치성/불명확 만성 기침에 대해 일본·유럽에서 승인됨. 주요 부작용은 미각 장애(dysgeusia). 국내 미승인
 
-### <mark style="color:$primary;">상기도기침증후군</mark>
+### <mark style="color:orange;">상기도기침증후군</mark>
 
 * 기침 및 코 증상 : 경구 항히스타민제, 비내 분무 steroid
 * 기침 증상 : 흡입 steroid 또는 항콜린제(ipratropium), 진해제
@@ -205,7 +205,7 @@
 * 국소 steroid 사용이 어려운 경우 진단 겸 치료(증상 완화) 목적으로 경구 steroid를 단기간(＜1주) 사용할 수 있음
 * 수일\~2개월 내 호전되지 않으면 다른 진단 또는 검사 고려
 
-### <mark style="color:$primary;">습관성/심인성 기침</mark>
+### <mark style="color:orange;">습관성/심인성 기침</mark>
 
 * 병리적 문제가 없음을 확인시키고 안심시킴, 일상생활 재개 권고
 * 증상이 발생하려고 하는 느낌을 깨닫게 하고 자가 조치를 하게 함
@@ -286,13 +286,13 @@ R05 기침
 3주 이상 지속되는 기침은 반드시 원인 평가가 필요합니다.
 {% endhint %}
 
-#### 기침이란 무엇인가요?
+#### <mark style="color:$primary;">기침이란 무엇인가요?</mark>
 
 * 기도에 들어온 이물질이나 분비물을 제거하려는 신체 반응입니다
 * 3주 미만은 급성(주로 감염), 3~8주는 아급성, 8주 이상은 만성 기침으로 분류합니다
 * 만성 기침의 가장 흔한 원인은 상기도 기침 증후군(콧물이 목 뒤로 넘어감), 기침형 천식, 위식도 역류입니다
 
-#### 기침 완화를 위해 이렇게 하세요
+#### <mark style="color:$primary;">기침 완화를 위해 이렇게 하세요</mark>
 
 * **수분 충분히 섭취** : 물을 자주 마시면 기도 점막을 촉촉하게 유지하고 가래 배출을 도웁니다
 * **가습기 사용** : 건조한 실내 공기는 기침을 악화시킵니다. 실내 습도를 50~60%로 유지하십시오
@@ -300,13 +300,13 @@ R05 기침
 * **역류 관리** : 야식·과식·기름진 음식을 피하고, 식후 바로 눕지 마십시오
 * **환경 관리** : 먼지, 반려동물 털, 향수, 연기 등 기도 자극 요인을 피하십시오
 
-#### 흡입제·약물 복용 시 주의사항
+#### <mark style="color:$primary;">흡입제·약물 복용 시 주의사항</mark>
 
 * 흡입 스테로이드 사용 후에는 반드시 입을 물로 헹궈 뱉어 내십시오 (구강 칸디다 예방)
 * 기침이 바로 멎지 않아도 처방대로 꾸준히 복용하십시오. 효과는 수일~수주에 걸쳐 나타납니다
 * ACE 억제제(고혈압 약)를 복용 중인 경우, 약물 자체가 기침을 유발할 수 있습니다. 의사에게 알려 주십시오
 
-#### 이럴 때는 즉시 병원을 방문하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 피가 섞인 가래(객혈)가 나오는 경우
 * 8주 이상 기침이 지속되거나 치료에도 호전이 없는 경우

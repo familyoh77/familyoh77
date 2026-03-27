@@ -1,6 +1,6 @@
-# <mark style="color:green;">복통 Abdominal Pain</mark>
+# 복통 Abdominal Pain
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 복통은 1차 진료에서 가장 흔한 주소 중 하나로, 양성 기능성 질환부터 즉각적인 처치가 필요한 응급 질환까지 원인이 매우 다양함
 * 통증의 위치·성질·시작·지속 시간·방사·악화·완화 인자와 동반 증상(발열, 구역·구토, 설사, 혈변, 황달 등)을 체계적으로 파악하는 것이 감별 진단의 핵심
@@ -32,27 +32,27 @@
 * 같은 문제로 반복적인 진료 ※ 진단 누락 또는 만성 질환 가능성 경고
 * 가족력 : 난소 또는 창자의 악성 종양, 가족성 대장폴립증
 
-## <mark style="color:orange;">검사</mark>
+## <mark style="color:green;">검사</mark>
 
 * 진찰, vital sign, 병력 청취
 * 가임기 여성 : 소변 또는 혈청 β-hCG (자궁외임신 배제)
 
-#### 실험실 검사
+#### <mark style="color:$primary;">실험실 검사</mark>
 
 * 기본 : CBC, 전해질, BUN/Cr, 간기능(AST/ALT/ALP/bilirubin), lipase/amylase, UA
 * 추가 고려 : CRP/ESR(염증 평가), coagulation(출혈 의심), lactate(장간막 허혈 의심)
 * 가임기 여성 : β-hCG (반드시 포함)
 
-#### 영상 검사
+#### <mark style="color:$primary;">영상 검사</mark>
 
 * 복부 X선 : 장 폐쇄, 천공(free air) 선별
 * 복부 초음파 : 담낭·담도·신장·부속기 평가; 1차 선택 검사
 * 복부-골반 CT : 급성 복통의 원인 불명 또는 중증 의심 시; 충수염, 게실염, 장간막 허혈 등 평가
 * 부인과 초음파 : 자궁외임신, 난소 병변 의심 시
 
-## <mark style="color:orange;">통증 기원에 따른 특징</mark>
+## <mark style="color:green;">통증 기원에 따른 특징</mark>
 
-#### Visceral pain (내장통)
+#### <mark style="color:$primary;">Visceral pain (내장통)</mark>
 
 * 기전 : 내장 기관(소장, 대장, 담낭, 요관, 신장 등)의 폐쇄 또는 염증(소화성 궤양, 담낭염, 간염, 충수염, IBD, 신우신염, PID 등)
 * 통증 부위 : embryologic origin 관련 부위에 통증이 나타남
@@ -66,27 +66,27 @@
   * 염증이 복벽까지 확장되면 국소 압통 발생
   * 허혈성 장질환(acute mesenteric ischemia)에서는 심한 통증에 비해 복부 진찰 소견이 경미함
 
-#### Parietal pain (체성통)
+#### <mark style="color:$primary;">Parietal pain (체성통)</mark>
 
 * 기전 : 위액, 담즙, 췌장 효소, 대변, 고름, 혈액 등에 의한 복벽의 염증에 의해 발생; 복막 긴장의 변화에 의해 악화
 * 임상 양상 : 날카로운, 국소 통증; rebound tenderness
 
-#### Referred pain (연관통)
+#### <mark style="color:$primary;">Referred pain (연관통)</mark>
 
 * 이환된 neurosegment의 지배를 받는 부위에 통증이 나타남
 
 ☞ 아래
 
-#### Abdominal wall pain (복벽통)
+#### <mark style="color:$primary;">Abdominal wall pain (복벽통)</mark>
 
 * 복벽 근육, 근막, 피부 신경의 병변에 의한 통증; 복강 내 장기와 무관
 * 원인 질환: 근육 긴장(muscle strain), 늑간신경포착, 복직근 혈종, 대상포진, 수술 후 신경종
 * 특징 : 국소 압통, 자세 변화·움직임에 의해 악화, 복강 내 병변과 달리 복부 강직·반동 압통 없음
 * Carnett's sign : 환자가 상체를 들어올리거나 복근을 긴장시킬 때 압통이 유지되거나 악화되면 복벽 기원 가능성 높음 (＊복강 내 병변 시 통증 감소)
 
-## <mark style="color:orange;">위치에 따른 복부 통증의 감별</mark>
+## <mark style="color:green;">위치에 따른 복부 통증의 감별</mark>
 
-#### 우상복부 복통
+#### <mark style="color:$primary;">우상복부 복통</mark>
 
 * Biliary colic : RUQ 또는 epigastrium의 심한, 우둔한 통증(＞30분 지속), 구역, 구토, 발한
 * Acute cholecystitis : RUQ 또는 epigastrium의 심한 통증(＞4시간 지속), 발열, 복부 강직, Murphy's sign
@@ -94,7 +94,7 @@
 * Acute hepatitis : RUQ 통증; 피로, 구역, 구토, 식욕 부진, 황달, 검은색 소변, pale or clay-colored stool; 음주 병력
 * Liver abscess : RUQ 통증, 발열; 특히 당뇨병, 간/담도/췌장에 기저 질환이 있는 경우 의심
 
-#### 상복부 복통
+#### <mark style="color:$primary;">상복부 복통</mark>
 
 * Acute MI : MI 증상(예: 흉통, 호흡 곤란) 동반; 관상동맥병 위험이 있는 환자에서 의심
 * Pancreatitis : 점차 심해진 후 지속, 앞으로 기대면 호전, 등으로의 방사통; 음주 병력
@@ -104,11 +104,11 @@
 * Functional dyspepsia : 식후 팽만감, 조기 포만감
 * Gastroparesis : 구역, 구토, 조기 포만감, 식후 팽만감
 
-#### 좌상복부 복통
+#### <mark style="color:$primary;">좌상복부 복통</mark>
 
 * Splenomegaly : 왼쪽 어깨 방사통, 조기 포만감
 
-#### 하복부 복통
+#### <mark style="color:$primary;">하복부 복통</mark>
 
 * Appendicitis : 상복부에서 시작 → RLQ로 이동, 간혹 복부 전체 통증; 식욕 부진, 구역, 구토
 * Diverticulitis : 구역, 구토; 임상 증상은 기저 염증의 중증도에 의존; 수일간 지속
@@ -118,7 +118,7 @@
 * Cystitis : 치골상부 통증; 배뇨통, 빈뇨, 급뇨, 혈뇨
 * Acute urinary retention : 치골상부 통증
 
-#### 여성 특이 하복부 복통
+#### <mark style="color:$primary;">여성 특이 하복부 복통</mark>
 
 * Ectopic pregnancy : 편측 하복부 통증, 질 출혈, 무월경; β-hCG 양성; 파열 시 급성 복막염 → 응급
 * 골반염 : 양측 하복부 통증, 발열, 질 분비물; cervical motion tenderness
@@ -126,7 +126,7 @@
 * 난소 염전 : 갑작스런 심한 편측 하복부 통증, 구역, 구토; 초음파로 확인 → 응급
 * 원발성 월경통 : 월경 시작 전후 하복부 경련성 통증; 요통, 오심 동반 가능
 
-#### 미만성 복통
+#### <mark style="color:$primary;">미만성 복통</mark>
 
 * 복막염 : 움직이거나 흔들리면 악화, 반동 압통, 복부 강직
 * 장 폐쇄 : 경련성 복통, 구역, 구토, 변비, 복부 팽만, 높은 음조의 증가된 장음 또는 무음
@@ -155,7 +155,7 @@
 
 ***
 
-## <mark style="color:orange;">연관통</mark>
+## <mark style="color:green;">연관통</mark>
 
 * 보통 소화관 문제는 복부 중앙부 증상으로 나타남
 * 콩팥, 요관, 난소, 상행/하행 결장 문제는 이환된 쪽의 편측 증상으로 나타남
@@ -165,16 +165,16 @@
 
 ![](../.gitbook/assets/c4e4421b-c17b-4ca7-be1d-fe1557d4be16.JPG)
 
-## <mark style="color:orange;">증상에 따른 감별</mark>
+## <mark style="color:green;">증상에 따른 감별</mark>
 
 * 고령(특히 당뇨병, 신부전 환자)에서는 통증, 복부 강직, 발열 등의 증상이 적게 발현되므로 증상이 전형적이지 않더라도 중증 질환 가능성을 항상 염두에 두어야 함
 * 가임기 여성에서는 항상 임신 가능성을 고려 → β-hCG 확인
 
-### <mark style="color:$primary;">급성 복통</mark>
+### <mark style="color:orange;">급성 복통</mark>
 
 <figure><img src="../.gitbook/assets/복통7.JPG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:$primary;">만성 복통</mark>
+### <mark style="color:orange;">만성 복통</mark>
 
 <figure><img src="../.gitbook/assets/복통8.JPG" alt=""><figcaption></figcaption></figure>
 
@@ -196,12 +196,12 @@ R10.0 급성 복증
 대부분의 복통은 일시적이고 자연히 회복되지만, 일부는 즉각적인 치료가 필요한 심각한 질환의 신호일 수 있습니다.
 {% endhint %}
 
-#### 복통이란 무엇인가요?
+#### <mark style="color:$primary;">복통이란 무엇인가요?</mark>
 
 * 배 전체 또는 특정 부위에 발생하는 통증·경련·불편감을 말합니다
 * 원인은 소화기(위염, 장염, 맹장염, 담석, 변비), 비뇨기(요로결석, 방광염), 부인과(난소 낭종, 자궁외임신), 근육·혈관 질환 등 매우 다양합니다
 
-#### 이럴 때는 즉시 119를 부르거나 응급실로 가세요
+#### <mark style="color:$primary;">이럴 때는 즉시 119를 부르거나 응급실로 가세요</mark>
 
 * 갑자기 찢어지는 듯한 극심한 복통이 발생한 경우
 * 복통과 함께 복부 전체가 딱딱하게 굳거나 반발통(손을 뗄 때 더 아픔)이 있는 경우
@@ -209,7 +209,7 @@ R10.0 급성 복증
 * 혈압 저하, 식은땀, 의식 저하가 동반되는 경우
 * 가임기 여성에서 갑작스러운 심한 하복통 (자궁외임신 가능성)
 
-#### 복통 시 주의사항
+#### <mark style="color:$primary;">복통 시 주의사항</mark>
 
 * **임의로 강한 진통제를 사용하지 마십시오** : 원인 평가 전 강한 진통제 복용은 증상을 가려 진단을 어렵게 할 수 있습니다
 * **복통 위치와 시작 시간, 동반 증상을 메모**해 두면 진료 시 도움이 됩니다

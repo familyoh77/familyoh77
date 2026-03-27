@@ -1,6 +1,6 @@
-# <mark style="color:green;">두근거림 Palpitation</mark>
+# 두근거림 Palpitation
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 심장의 강하고 빠르고 불규칙한, 불쾌한 기분의 박동
 
@@ -32,9 +32,9 @@
 * Short fluttering
 * 느린 박동 AND 정상 ECG AND 가족력 없음 AND 심장의 구조적 질환 없음
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
-### <mark style="color:$primary;">심장 원인</mark>
+### <mark style="color:orange;">심장 원인</mark>
 
 * 심방세동(15%), 심실상성빈맥(10%), 구조적 심장 질환
   1. "flip-flopping" (or "stop and start") : 심방이나 심실의 조기 수축
@@ -47,7 +47,7 @@
 * Light-headedness, presyncope or syncope → 저혈압, 중증 부정맥
 * 힘든 작업 시 발생 → rate-dependent bypass tract, hypertrophic cardiomyopathy
 
-### <mark style="color:$primary;">비심장 원인</mark>
+### <mark style="color:orange;">비심장 원인</mark>
 
 * 정신적 요인(가장 흔함; 30%) : 공포, 불안, 우울, 신체화 증상, 스트레스; 보통 ＞15분 지속
   * 과호흡, hand tingling, 과민 반응 → 불안, 공황 장애
@@ -68,7 +68,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 질환에 대한 치료. 그 외에는 대부분 치료 필요 없음
 * SVT 동반 두근거림 : **Modified Valsalva Maneuver** 우선 시도 (아래 참고)
@@ -98,7 +98,7 @@
 ⚠️ 고령, 허혈성 심질환, 최근 뇌졸중/TIA 병력환자에서는 경동맥동 마사지 피함
 {% endhint %}
 
-### <mark style="color:$primary;">진단 보조 : 장기 심전도 모니터링</mark>
+### <mark style="color:orange;">진단 보조 : 장기 심전도 모니터링</mark>
 
 * 표준 12-lead ECG는 간헐적 두근거림 포착에 한계가 있음
 * 증상 재현이 어렵거나 반복되는 경우 다음을 고려:
@@ -106,7 +106,7 @@
   * **스마트워치 ECG** (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능
   * **24시간 Holter 검사** : 증상 빈도가 매일인 경우
 
-### <mark style="color:$primary;">대증 치료</mark>
+### <mark style="color:orange;">대증 치료</mark>
 
 * 심장 문제 등 원인 질환 배제 후 시행 (☞ p.19)
 * 항불안제 : alprazolam \[자낙스], lorazepam \[아티반] (☞ p.1149)
@@ -177,26 +177,26 @@ R00.2 두근거림
 심장이 빠르게 뛰거나 쿵쿵거리는 느낌이 들면 당황하지 말고 차분히 상태를 살피십시오.
 {% endhint %}
 
-#### 두근거림이란 무엇인가요?
+#### <mark style="color:$primary;">두근거림이란 무엇인가요?</mark>
 
 * 평소보다 심장이 빠르게 뛰거나, 세게 뛰거나, 불규칙하게 뛰는 느낌을 말합니다
 * 원인은 불안·스트레스·과로, 카페인·음주, 갑상선 기능 이상, 부정맥 등 다양합니다
 * 대부분은 일시적이고 무해하지만, 실신·흉통·호흡 곤란을 동반하면 즉시 평가가 필요합니다
 
-#### 두근거림 발생 시 이렇게 하세요
+#### <mark style="color:$primary;">두근거림 발생 시 이렇게 하세요</mark>
 
 * **안정** : 활동을 멈추고 앉거나 누운 자세로 깊게 천천히 호흡하십시오
 * **기록** : 발생 시각, 지속 시간, 동반 증상(어지럼·흉통·실신)을 메모하십시오. 스마트워치나 스마트폰 심박 기록 기능을 활용하면 도움이 됩니다
 * **미주신경 자극법** : 의사가 허락한 경우, 차가운 물로 세수하거나 숨을 참고 힘주는 방법(Valsalva)이 일부 부정맥에 효과적일 수 있습니다
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **카페인·음주 줄이기** : 커피, 에너지 음료, 술은 두근거림을 유발하거나 악화시킬 수 있습니다
 * **규칙적인 수면과 스트레스 관리** : 수면 부족과 만성 스트레스는 두근거림의 흔한 원인입니다
 * **금연** : 니코틴은 심박수를 높이고 부정맥 위험을 증가시킵니다
 * **처방약 지속 복용** : 부정맥 치료약은 임의로 중단하면 위험할 수 있습니다. 반드시 의사와 상의하십시오
 
-#### 이럴 때는 즉시 119를 부르거나 응급실로 가세요
+#### <mark style="color:$primary;">이럴 때는 즉시 119를 부르거나 응급실로 가세요</mark>
 
 * 두근거림과 함께 실신하거나 기절할 것 같은 느낌이 드는 경우
 * 심한 흉통, 호흡 곤란, 식은땀이 동반되는 경우

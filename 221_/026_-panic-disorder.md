@@ -1,6 +1,6 @@
-# <mark style="color:green;">공황장애 Panic Disorder</mark>
+# 공황장애 Panic Disorder
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 공황발작 : 예기치 못한, 스스로 통제할 수 없는, 강력한 공포감 및 관련된 육체/정서/인지 증상들(예: 과호흡, 호흡 곤란, 두근거림, 어지럼, 감각 이상)이 갑작스럽고 짧게 발생; 수 분(10분) 내 절정에 도달하고 1시간 내 사라짐
 * 공황장애 : 반복적인 공황발작 및 발작 후 발작 재발에 대한 지속적인 걱정(예: 광장 공포, 불안/우울) &/or 공황 발작을 피하기 위해 과도한 노력(예: 지나친 의료 이용)을 하는 상태
@@ -8,12 +8,12 @@
 * 동반 증상 : 우울, 자살 위험, 강박 장애, 위장 증상(복통, 가슴쓰림, 설사, 변비, 구역/구토; 30%)
 * 광장공포증(Agoraphobia) : DSM-5부터 공황장애와 별개의 독립 진단으로 분리됨; 두 질환이 공존하는 경우가 흔하며 각각 독립적으로 진단·치료함
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 불명
 * 추정 기전 : 뇌 기능 이상(편도체 과활성, prefrontal cortex 조절 기능 저하), 정서적 자극을 다루는 기능의 이상
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 스트레스, 대인 관계 갈등 또는 상실, 학대/성폭력 피해 과거력, 불안 또는 과보호 부모
 * 양극장애, 주요우울증, 강박장애, 단순공포증
@@ -41,9 +41,9 @@
 
 * 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 
-## <mark style="color:orange;">임상 양상 및 진단</mark>
+## <mark style="color:green;">임상 양상 및 진단</mark>
 
-### <mark style="color:$primary;">진단 기준 \[DSM-5]</mark>
+### <mark style="color:orange;">진단 기준 \[DSM-5]</mark>
 
 * 반복되는 공황발작 및 다음 중 ≥4개 증상 발생
   1. 빠른 심박동(rapid heartbeat)
@@ -63,7 +63,7 @@
   1. 공황발작의 재발에 대한 만성적인 걱정
   2. 공황 발작을 피하기 위한 현저한 노력
 
-### <mark style="color:$primary;">중증도 평가</mark>
+### <mark style="color:orange;">중증도 평가</mark>
 
 **Panic Disorder Severity Scale (PDSS)**
 
@@ -73,7 +73,7 @@
 
 ※ 동반 질환 파악을 위해 GAD-7(☞ [불안장애](025_-anxiety-disorder.md#generalized-anxiety-disorder-7-item-gad-7)), PHQ-9(☞ [우울증](027_-depression.md#phq-9)) 병행 사용 권고
 
-### <mark style="color:$primary;">감별</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 심근경색 / 협심증 : 흉통이 운동·활동과 관련; 고령·심혈관 위험인자; ECG 이상, 트로포닌 상승
 * Tachyarrhythmia : 두근거림이 주증상; Holter에서 부정맥 확인; 심박수 급격히 증가·감소
@@ -85,7 +85,7 @@
 * 과호흡 증후군 : 공황과 공존 가능; 이산화탄소 저하로 인한 손발 저림·입 주위 감각 이상이 두드러짐
 * 다른 정신 질환 : 특정 상황에서만 발생(사회공포증, 특정공포증); 외상 관련(PTSD); 강박 사고 동반(강박장애)
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * 보통 필요 없음; 기저 질환 또는 다른 질환과의 감별을 위한 경우 고려
 * ECG, pulse oximetry, Holter monitoring : 다른 질환 및 심한 공황장애 감별
@@ -95,24 +95,24 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 \[대한불안의학회]
 
-#### 초기 : 항우울제 + BZD계 항불안제 + 인지행동치료
+#### <mark style="color:$primary;">초기 : 항우울제 + BZD계 항불안제 + 인지행동치료</mark>
 
 * 광장공포증이 없는 경우의 약물 치료는 항우울제 단독 선택도 가능
 * BZD계 항불안제 병합 투여 기간 : 4주 (항우울제 효과 발현 전 브릿지 목적)
 
-#### 유지 : 항우울제 + 인지행동치료
+#### <mark style="color:$primary;">유지 : 항우울제 + 인지행동치료</mark>
 
 * 광장공포증이 있는 경우의 약물 치료는 항우울제 + BZD계 항불안제 병용 치료도 가능
 
-#### 약물 치료 반응이 불충분한 경우
+#### <mark style="color:$primary;">약물 치료 반응이 불충분한 경우</mark>
 
 * 다른 항우울제로 교체 또는 다른 계열 항우울제/비정형 항정신병제(aripiprazole, quetiapine)/강화 약물(예: propranolol, buspirone) 추가 (☞ p.115)
 
-## <mark style="color:orange;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 공황 및 관련한 과호흡으로 인하여 증상이 발생하고 악화되고 있으며 이를 수정하면 증상이 완화될 수 있음을 교육
 * 인지행동 요법(CBT), mindfulness-based therapy, exposure therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
@@ -121,7 +121,7 @@
 * 카페인 섭취 제한, 금주
 * 디지털 치료제(DTx) : CBT 기반 앱을 경증\~중등도 공황장애의 보조 수단으로 활용 가능; 국내외 허가 절차 진행 중 (근거 축적 중, 2023 APA update)
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 * 1차 선택 : SSRI, SNRI (☞ p.1146)
 * 저용량으로 시작(우울증 치료 시작 용량의 절반) → 점차 증량 (초기 불안 악화·jitteriness syndrome 예방)
@@ -132,7 +132,7 @@
   * 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 서서히 감량
   * 약물 중단 증상 : 어지럼, 이상 감각, 위장 장애(예: 구역/구토), 두통, 발한, 불안, 수면 장애
 
-#### 항우울제
+#### <mark style="color:$primary;">항우울제</mark>
 
 * 선호 약제 : escitalopram(우선), paroxetine, sertraline, venlafaxine
 * TCA는 부작용 때문에 2차 약제로 고려
@@ -146,7 +146,7 @@
 
 <table><thead><tr><th width="251.5263671875">TCA</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>clomipramine [그로민]</td><td>25</td><td>50~150</td></tr><tr><td>imipramine [이미프라민]</td><td>25</td><td>50~150</td></tr><tr><td>nortriptyline [센시발]</td><td>10~25</td><td>75~150</td></tr></tbody></table>
 
-#### Benzodiazepine (BZD)
+#### <mark style="color:$primary;">Benzodiazepine (BZD)</mark>
 
 * 항우울제 효과 발현 전 단기 브릿지 목적으로 사용; 단독 장기 사용은 권고하지 않음
   * \[NICE] 장기적으로 좋은 결과를 얻지 못하며 약물 남용 및 의존 문제로 권고하지 않음
@@ -229,32 +229,32 @@ F41.0 공황장애
 공황장애는 적절한 치료를 통해 충분히 조절되고 일상으로 회복될 수 있는 질환입니다.
 {% endhint %}
 
-#### 공황발작과 공황장애란 무엇인가요?
+#### <mark style="color:$primary;">공황발작과 공황장애란 무엇인가요?</mark>
 
 * **공황발작** : 예기치 못하게 갑자기 심한 공포감과 함께 심장 두근거림, 호흡 곤란, 식은땀 등의 신체 증상이 나타나는 현상; 보통 10분 이내에 절정에 도달하며 1시간 이내에 자연스럽게 사라짐
 * **공황장애** : 발작이 반복되고, 다시 일어날까 봐 계속 걱정하거나(예기불안), 발작을 피하려고 일상생활에 제약을 받는 상태
 * **광장공포증** : 발작이 반복되면 외출이나 혼자 있는 것이 두려워지는 광장공포증으로 이어질 수 있으며, 이 경우 별도 치료가 필요함
 
-#### 어떻게 치료하나요?
+#### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **약물 치료** : 항우울제와 항불안제를 주로 사용; 약 효과는 보통 2\~6주에 걸쳐 서서히 나타남
 * **치료 기간** : 증상이 호전되어도 재발 방지를 위해 보통 12개월 이상 꾸준히 복용 권장
 * **비약물 치료** : 인지행동요법(CBT), 마음챙김 명상 등이 약물 치료만큼 효과적일 수 있으며, 병행 시 치료 효과가 더욱 높음
 
-#### 약 복용 시 꼭 지켜주세요
+#### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
 * **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼증, 구역감, 불안 등 금단 증상이 생길 수 있으므로 반드시 의사와 상의하여 서서히 줄여야 함
 * **초기 적응기** : 복용 첫 1\~2주 동안은 일시적으로 불안이 더 느껴질 수 있으나, 약이 적응되는 과정이므로 안심해도 됨
 * **항불안제 주의** : 안정제(수면제 계열)는 의존성 예방을 위해 필요한 기간만 단기적으로 사용
 * 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **카페인 및 술 제한** : 커피, 에너지 음료, 술은 공황 발작을 유발하거나 악화시키는 주요 원인
 * **규칙적인 운동** : 주 3회 이상의 유산소 운동은 불안감을 낮추는 데 도움이 됨
 * **호흡 조절** : 숨이 가빠질 때 천천히 복식 호흡(코로 4초 들이쉬고, 입으로 6초 내쉬기)을 시도
 
-#### 이럴 때는 즉시 도움을 요청하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 도움을 요청하세요</mark>
 
 * 공황 발작의 빈도가 갑자기 늘어나거나 일상생활이 불가능할 때
 * 우울감이 심해지거나 스스로를 해치고 싶은 생각이 들 때 — 즉시 내원 또는 **자살예방 상담전화 109**

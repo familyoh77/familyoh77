@@ -1,6 +1,6 @@
-# <mark style="color:green;">후각, 미각 이상 Smell, Taste Disorders</mark>
+# 후각, 미각 이상 Smell, Taste Disorders
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 후각 및 미각은 소화액 분비를 촉진하므로 이 기능의 장애는 소화 장애, 식욕 감퇴, 체중 감소, 영양실조, 삶의 질 저하 및 사망률 증가와 연관됨
 * 점차적인 후각 및 미각 저하는 고령에서 흔한 현상임
@@ -30,18 +30,18 @@
 * 비부비동 치료 후에도 4주 이상 지속되는 후각 장애
 * 후각·미각 소실 + 설명되지 않는 체중 감소
 
-## <mark style="color:orange;">원인 및 관련 인자</mark>
+## <mark style="color:green;">원인 및 관련 인자</mark>
 
-#### 후각
+#### <mark style="color:$primary;">후각</mark>
 
 * 비부비동 질환 : 알레르기 비염, 만성 비부비동염, 상기도염
 * 흡연, 혈액 투석, 두경부 방사선 치료, 종양, SLE, 벨마비, 정신 질환
 
-#### 미각
+#### <mark style="color:$primary;">미각</mark>
 
 * 구강 장치(예: 틀니), 치은염, 입마름
 
-#### 공통
+#### <mark style="color:$primary;">공통</mark>
 
 * 영양 : 영양실조, Vit 결핍, 간질환, 악성 빈혈
   * 아연(Zinc) 결핍 : 미각 이상의 중요한 교정 가능 원인; 만성 질환(간경화, 신부전, 염증성 장질환), 흡수 불량, 채식 위주 식단, 이뇨제·ACE 억제제 장기 복용 시 주의; 혈청 아연 측정 후 결핍 확인 시 보충 권고
@@ -67,9 +67,9 @@
 
 <table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td></td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>각종 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * 보통 필요 없음; 감별을 위하여 검사 고려
 * CBC, LFT, 혈당, Cr, Vit B12, TSH, IgE
@@ -78,7 +78,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 기저 질환 치료, 비염 치료
 * 적절하고 고른 영양 섭취; 특히 Vit A/B 복합제, Zn 등 미네랄 보충 (단, 결핍 교정 목적이며 치료 효과는 명확히 입증되지 않음)
@@ -97,7 +97,7 @@ _<mark style="color:$info;">Ref. Fokkens WJ et al. EPOS 2020: European Position 
   * 기전 : 후각 뉴런의 신경 재구성(neural reorganization) 촉진
   * 바이러스 감염 후 후각 장애 전반에서 효과 확립(COVID-19 포함); 적용 기간이 길수록(최소 12주, 이상적으로는 24주 이상) 효과가 큼
 
-### <mark style="color:$primary;">환자 유의 사항</mark>
+### <mark style="color:orange;">환자 유의 사항</mark>
 
 * 저하된 미각에 대한 보상 작용으로 향신료, 감미료 등을 지나치게 사용하지 않도록 주의
 * 미각이 저하된 경우 음식의 질감, 색, 향을 조절하면 음식에 대한 감흥이 향상될 수 있음
@@ -122,20 +122,20 @@ R43 후각 및 미각 장애
 특히 바이러스 감염 후 후각 손실은 대부분 수개월 내 자연 회복되며, 후각 훈련이 회복을 앞당깁니다.
 {% endhint %}
 
-#### 후각 훈련 방법 (하루 2회, 최소 12주 이상)
+#### <mark style="color:$primary;">후각 훈련 방법 (하루 2회, 최소 12주 이상)</mark>
 
 * 장미, 유칼립투스, 레몬, 정향(clove) 등 4가지 향을 각각 20초씩 맡으십시오
 * 냄새를 맡을 때 단순히 향만 맡는 것이 아니라, 해당 사물(예: 장미꽃)을 머릿속으로 떠올리면서 집중하십시오. 이렇게 하면 훈련 효과가 더욱 향상됩니다
 * 꾸준히 할수록 효과가 크며, 이상적으로는 24주 이상 시행하는 것이 권장됩니다
 
-#### 일상생활 주의사항
+#### <mark style="color:$primary;">일상생활 주의사항</mark>
 
 * 미각이 저하된 경우 감각에 의존하지 말고 계량 스푼이나 레시피의 정해진 양으로 간을 맞추십시오. 과도한 소금·설탕·조미료 사용은 고혈압·당뇨 등 다른 건강 문제로 이어질 수 있습니다
 * 후각이 저하된 경우 상한 음식을 감지하는 능력이 떨어지므로 식품의 유통 기한을 자주 확인하십시오
 * 가스 누출이나 화재를 인지하지 못할 수 있으므로 가스·연기 감지기를 설치하고, 사용 후 가스 밸브 잠금을 습관화하십시오
 * 후각·미각 소실로 인한 우울감, 고독감이 생기면 주치의와 상담하십시오
 
-#### 이럴 때는 진료가 필요합니다
+#### <mark style="color:$primary;">이럴 때는 진료가 필요합니다</mark>
 
 * 후각·미각 손실이 갑자기 발생하거나 3개월 이상 지속되는 경우
 * 특정 약물 복용 후 미각 이상이 생긴 경우 — 임의로 약을 중단하지 말고 의사와 상의하십시오

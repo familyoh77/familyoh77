@@ -1,6 +1,6 @@
-# <mark style="color:green;">불안장애 Anxiety Disorder</mark>
+# 불안장애 Anxiety Disorder
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 실제 발생한 위험에 비하여 과도하고 지속되며 조절하기 어려운, 불편하고 일상생활에 지장을 주는 걱정; 일상적인 상황에 대하여 과도한 불안감
 * 불안감을 유발하는 실체나 상황을 피하기 위해 부적절한 행동을 취하기도 함
@@ -9,13 +9,13 @@
 * 유병률 : 범불안장애 평생 유병률 여성 7%, 남성 4%; 50%가 18세 이전에 발생, 중간 연령 30세
 * 만성적인 신체적 건강 문제가 있거나, 신체적 건강 문제는 없지만 이에 대한 확신을 갖고자 하거나, 여러 다른 문제들에 대하여 반복적으로 걱정을 하고 있는 경우 불안증 감별을 요함
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 기전(추정)
   * neurotransmitter 이상 : serotonin system의 활성 저하, norepinephrine system의 활성 증가, GABA system의 붕괴
   * 뇌기능 이상 : amygdala 및 prefrontal cortex의 활성 증가
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 소아 시기의 학대, 역경, 부모의 이혼 또는 상실
 * 능력 상실, 최근의 스트레스 증가(나쁜 일)
@@ -44,7 +44,7 @@
 * 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * 반복되는 공황 발작 또는 증상 악화
 
-## <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
 * 걱정, 두려움, 예기 불안, 집중력 저하, 불안 유발 상황에 대한 경계, 대인 접촉 기피
 * 안절부절, 두근거림, 떨림, 근육 긴장/통증, 땀 흘림, 손 냉증/축축함, 숨 막힘, 과호흡, 어지럼, 피로, 목 안의 덩어리 느낌, 입마름, 피부 감각 저하/저림, 두통, 홍조, 흉통/가슴 답답함
@@ -53,13 +53,13 @@
 
 ※ 공황장애에 비하여 호흡 곤란, 두근거림, 빈맥 증상은 적음
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$primary;">선별 검사</mark>
+### <mark style="color:orange;">선별 검사</mark>
 
 ※ USPSTF(2023) : 증상 유무와 관계없이 65세 미만의 모든 성인에게 불안장애 선별 검사 시행 권고 (B등급). 일차의료에서 예방적 선별의 근거로 활용 가능
 
-#### Generalized anxiety disorder 7-item [(GAD-7)](http://www.phqscreeners.com)
+#### <mark style="color:$primary;">Generalized anxiety disorder 7-item [(GAD-7)](http://www.phqscreeners.com)</mark>
 
 지난 2주일 동안 당신은 다음의 문제들로 인하여 지장을 받았던 날들이 얼마나 됩니까?
 
@@ -70,13 +70,13 @@
 \[삶의 질 평가] (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
 ☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다.
 
-#### GAD-2 screening
+#### <mark style="color:$primary;">GAD-2 screening</mark>
 
 * GAD-7 문항 ① & ②으로 시행
 * 합계 점수 ≥3점인 경우 GAD를 의심(민감도 86%, 특이도 83%) 하고 추가 평가 시행
 * 0\~2점이더라도 임상적 의심이 강한 경우에는 GAD-7 전체 시행 권고
 
-#### Penn State Worry Questionnaire ([PSWQ](https://public.anxiety.or.kr/html/?pmode=evaluationtool))
+#### <mark style="color:$primary;">Penn State Worry Questionnaire ([PSWQ](https://public.anxiety.or.kr/html/?pmode=evaluationtool))</mark>
 
 * 선별 도구로서 특정 점수가 정신건강 질환을 확진하지는 않으며, cutoff 점수는 연구 대상 집단에 따라 달라질 수 있음; 1차 진료에서 GAD 선별 목적으로는 ≥62점을, 사회불안장애와의 감별에는 ≥65점을 기준으로 사용하는 경우가 많음
 * 의미 있는 변화로 판정하려면 6점 이상의 변화가 필요하며, 그보다 작은 변화는 치료 효과보다 정상 변동을 반영할 가능성이 높음
@@ -99,13 +99,13 @@
 15. 나는 내내 걱정하고 지낸다.
 16. 나는 어떤 일을 다 끝마칠 때까지는 그 일에 대해 계속 걱정한다.
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * 기질적 원인 배제를 위하여 시행
 * CBC, TSH, 혈당, 전해질, urine toxicology
 * ECG
 
-### <mark style="color:$primary;">범불안장애 진단 기준 (Generalized anxiety disorder. GAD) \[DSM-5]</mark>
+### <mark style="color:orange;">범불안장애 진단 기준 (Generalized anxiety disorder. GAD) \[DSM-5]</mark>
 
 A. 최소 6개월 동안 많은 사건이나 활동(예: 직장이나 학교생활 수행)에 대하여 과도한 걱정과 불안감(예기 불안)이 발생한 날이 그렇지 않은 날보다 많음
 
@@ -126,28 +126,28 @@ E. 물질(예: 약물) 또는 일반적인 의학적 상태(예: 갑상선항진
 
 F. 다른 정신 질환으로 더 잘 설명되지 않음
 
-### <mark style="color:$primary;">감별</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 스트레스, 갑상선항진증, 심장 질환, 심한 신체 질환, 알코올/항불안제 금단 증상
 * 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine), 교감 신경 흥분제(예: β2-작용제), 항고혈압제, NSAID
 * 다른 정신 질환 : 우울증, 공황장애, 강박장애, 외상 후 스트레스, 신체화장애, 조현병, 망상장애
 
-#### 우울증
+#### <mark style="color:$primary;">우울증</mark>
 
 * 우울증은 과거의 사건과 상황에 대하여 자기비판적인 경향을 보이는 반면, GAD 환자들은 미래의 사건에 대하여 걱정하는 경향이 있음 (☞ p.124)
 * 이른 아침 각성, 일중 기분 변화, 자살 충동 등의 우울증 증상이 GAD에서는 흔하지 않음
 
-#### 건강염려증
+#### <mark style="color:$primary;">건강염려증</mark>
 
 * 건강염려증은 보통 질병에 대한 걱정인 반면, GAD는 질병 이외의 다른 것들에 대해서도 걱정함
 
-#### Social anxiety disorder
+#### <mark style="color:$primary;">Social anxiety disorder</mark>
 
 * 미팅, 발표, 낯선 사람들과의 대화 등 다른 사람에 의해 평가될 수 있는 상황에 대하여 과도한 두려움을 느끼는 상태
 * 사람들이 부정적인 태도(예: 거절, 어색함, 비웃음, 불쾌함)를 갖는 것에 대하여 과도하게 걱정
 * 사회적 상황을 회피하거나 커다란 불안감 속에서 지냄
 
-#### Post-traumatic stress disorder (PTSD)
+#### <mark style="color:$primary;">Post-traumatic stress disorder (PTSD)</mark>
 
 * 원인 : 신체적 또는 정신적 외상(직접 피해나 목격) 후 발생
   * 예: 죽음의 현장 또는 위협, 극심한 부상, 성폭행
@@ -160,7 +160,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 자살 위험, 약물 남용, 다른 정신 질환 여부를 확인하고 관리
 * 자살 사고가 있는 경우 : 안전 계획(Safety Planning) 작성 권고 - 위기 상황에서 연락할 곳, 대처 방법, 주변 지지자를 환자 스스로 기록하게 함 \[Zero Suicide 프레임워크, 2022]
@@ -171,7 +171,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 ※ GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함
 
-## <mark style="color:orange;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 인지행동 요법(CBT), mindfulness-based therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
 * 카페인 섭취 제한, 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
@@ -179,7 +179,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 디지털 치료제(DTx) : 앱 기반 인지행동치료(CBT)를 경증\~중등도 불안장애의 보조 수단으로 활용 가능; 국내외 허가 절차 진행 중 (근거 축적 중, 2023 APA update)
 * 허브(근거 부족) : St. John's wort(hyperici), Sympathyl, 시계풀(passionflower), 쥐오줌풀(valerian)
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 * 저용량으로 시작
 * 1차 선택 : SSRI/SNRI
@@ -190,7 +190,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 치료 유지 기간 : 재발 감소를 위하여 첫 삽화 후 최소 12개월 이상 유지; 재발력이 있는 경우 2년 이상 유지 권고 \[NICE 2023]
 * 약제 중단 시 tapering 하며(갑자기 중단하지 않음) 증상 재발, 약물 금단 증상 등 모니터링
 
-#### SSRI/SNRI
+#### <mark style="color:$primary;">SSRI/SNRI</mark>
 
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ p.1146)
 * 저용량으로 시작 → 4\~6주 후 평가하여 효과가 부족하면 1\~2주 간격으로 증량
@@ -206,12 +206,12 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 \* GAD에 대하여 FDA 승인 (escitalopram, paroxetine, duloxetine, venlafaxine XR)\
 † GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능(근거 축적 중)
 
-#### GABA-analogue
+#### <mark style="color:$primary;">GABA-analogue</mark>
 
 * SSRI/SNRI를 사용할 수 없을 때 고려
 * pregabalin : 150\~600 ㎎ \[리리카]
 
-#### Azapirone
+#### <mark style="color:$primary;">Azapirone</mark>
 
 * 5-HT1A autoreceptor 방해에 의한 serotonergic system 작용
 * benzodiazepine보다 의존 위험은 적지만 효과가 적고 효과 발현까지 오래 걸림
@@ -219,7 +219,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 부작용 : 불면, 흥분, 구역
 * buspirone : 10\~60 ㎎/d \[부스파]
 
-#### Benzodiazepine
+#### <mark style="color:$primary;">Benzodiazepine</mark>
 
 * SSRI/SNRI의 효과가 나타날 때까지 위기 동안 단기 투여
 * 장기적 경과를 개선시키지는 못함
@@ -230,7 +230,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 <table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (mg/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam [자낙스]</td><td align="center">0.5~6</td><td align="center">11~15</td></tr><tr><td>lorazepam [아티반]</td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>clonazepam [리보트릴]</td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide [리버티]</td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>clorazepate</td><td align="center">15~60</td><td align="center">36~200</td></tr><tr><td>diazepam [디아제팜]</td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
 
-#### 항정신병 약물
+#### <mark style="color:$primary;">항정신병 약물</mark>
 
 * 불응성 불안장애, benzodiazepine 등으로 조절되지 않는 경우 고려
   * 일차의료에서는 사용하지 않을 것을 권고 \[NICE]
@@ -238,27 +238,27 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * quetiapine : 12.5\~100 ㎎/d qd(hs)\~bid \[쎄로켈]
 * risperidone : 0.5\~1 ㎎/d qd(hs)\~bid \[리스페달]
 
-#### β-차단제
+#### <mark style="color:$primary;">β-차단제</mark>
 
 * 발한, 심박수 증가 등 불안에 따른 증상 억제 효과; 불안 자체에는 효과 없음
 * propranolol : 10\~120 ㎎/d \[인데놀]
 * metoprolol : 100\~200 ㎎/d \[베타록] (☞ p.487)
 
-## <mark style="color:orange;">치료 Step</mark>
+## <mark style="color:green;">치료 Step</mark>
 
 \[대한불안의학회]
 
-#### Step 1
+#### <mark style="color:$primary;">Step 1</mark>
 
 * 1차 약물 : SSRI, SNRI 또는 buspirone 단독
 * 임상의의 판단에 따라 benzodiazepine 병용 가능(초기/단기)
 
-#### Step 2
+#### <mark style="color:$primary;">Step 2</mark>
 
 * Step 1에서 사용하지 않은 SSRI, SNRI 또는 buspirone 단독 사용
 * 임상의의 판단에 따라 benzodiazepine 병용 가능(초기/단기)
 
-#### Step 3
+#### <mark style="color:$primary;">Step 3</mark>
 
 * 병용 또는 부가 약물 추가
 * 비전형 항정신병제
@@ -266,7 +266,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 항히스타민제
   * hydroxyzine : 50\~100 ㎎ qid \[아디팜]
 
-#### Step 4
+#### <mark style="color:$primary;">Step 4</mark>
 
 * Step 3에서 사용되지 않은 약물로 병용 요법
 * SSRI, SNRI, NaSSA(Noradrenergic and specific serotonergic antidepressant) 또는 TCA 계열이 포함된 또 다른 병용 요법
@@ -277,13 +277,13 @@ TCA
 * imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d \[이미프라민]
 * nortriptyline : 25 ㎎/d, 50\~150 ㎎/d; 근골격 통증 적응 \[센시발]
 
-#### Step 5
+#### <mark style="color:$primary;">Step 5</mark>
 
 * Step 4에서 사용되지 않은 계열의 3번째 약물 추가
 * bupropion : 100\~450 ㎎ \[웰부트린]
 * pregabalin : 150\~600 ㎎ \[리리카] (☞ GABA-analogue 항목)
 
-#### Step 6
+#### <mark style="color:$primary;">Step 6</mark>
 
 * 진단에 대한 재평가 및 공존 질환에 대한 평가
 
@@ -375,33 +375,33 @@ F41.9 상세불명의 불안장애
 불안장애는 적절한 치료를 통해 충분히 조절되고 일상으로 회복될 수 있는 질환입니다.
 {% endhint %}
 
-#### 불안장애란 무엇인가요?
+#### <mark style="color:$primary;">불안장애란 무엇인가요?</mark>
 
 * 실제 위험에 비해 과도하고 지속적인 걱정·두려움이 조절되지 않아 일상생활에 지장을 주는 상태입니다.
 * 신체 증상(두근거림·근육 긴장·발한·두통·소화불량)을 함께 경험하는 경우가 많습니다.
 * 범불안장애(GAD) 외에도 공황장애·사회불안장애·PTSD 등 다양한 형태가 있습니다.
 
-#### 어떻게 치료하나요?
+#### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **약물 치료** : 항우울제(SSRI/SNRI)가 가장 효과적인 1차 치료제입니다. 약 효과는 2~4주에 걸쳐 서서히 나타납니다.
 * **비약물 치료** : 인지행동요법(CBT)·마음챙김 명상이 약물 치료만큼 효과적이며, 병행 시 효과가 더욱 높습니다.
 * **치료 기간** : 증상이 좋아진 후에도 재발 방지를 위해 보통 12개월 이상 꾸준히 복용을 권장합니다.
 
-#### 약 복용 시 꼭 지켜주세요
+#### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
 * **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼·저림·구역 등 금단 증상이 생길 수 있습니다. 반드시 의사와 상의하여 서서히 줄이십시오.
 * **초기 적응기** : 복용 첫 1~2주 동안은 일시적으로 불안이 더 느껴질 수 있으나, 적응 과정이므로 안심하셔도 됩니다.
 * **안정제(BZD) 주의** : 안정제는 의존성 예방을 위해 의사의 지시대로 단기간만 사용합니다.
 * 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **카페인·술 제한** : 커피·에너지음료·술은 불안을 악화시키는 주요 원인입니다.
 * **규칙적인 운동** : 주 3회 이상의 유산소 운동은 불안감을 낮추는 데 도움이 됩니다.
 * **이완 연습** : 숨이 가빠지거나 긴장될 때 천천히 복식 호흡(코로 4초 들이쉬고, 입으로 6초 내쉬기)을 시도해 보십시오.
 * **규칙적인 생활** : 수면 시간과 식사 시간을 일정하게 유지하십시오.
 
-#### 이럴 때는 즉시 도움을 요청하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 도움을 요청하세요</mark>
 
 * 불안 증상이 갑자기 심해지거나 일상생활이 불가능한 경우
 * 우울감이 심해지거나 스스로를 해치고 싶은 생각이 드는 경우 — 즉시 내원 또는 **자살예방 상담전화 109**

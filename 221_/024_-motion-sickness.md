@@ -1,18 +1,18 @@
-# <mark style="color:green;">멀미 Motion Sickness</mark>
+# 멀미 Motion Sickness
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군
 * 빈도 : 비행기 \~25%, 배 \~29%, 자동차 \~41%
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 불명
 * 추정 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적 반응
   * 구역/구토는 dopamine과 acetylcholine 증가에 따른 CNS에서의 chemoreceptor trigger zone 및 vomiting center 흥분에 의함
   * substance P 유리 → 중추신경계 NK-1 수용체 활성화도 구역/구토에 관여
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 **멀미 발생의 직접적·필수적 전제 조건**
 
@@ -33,17 +33,17 @@
 * 감정 변화 — 두려움·불안
 * 수면 부족
 
-## <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
 * 어지럼, 두통, 졸림, 불안, 공황, 피로, apathy, malaise, 혼란
 * epigastric fullness, 트림, 구역, 구토, 식욕 저하
 * 식은땀, 창백, 침 분비 증가, 하품, 과호흡, 냄새에 대한 반응 증가
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * 멀미는 병력과 임상 양상으로 진단
 
-#### 병력 및 임상 양상
+#### <mark style="color:$primary;">병력 및 임상 양상</mark>
 
 * 발생 상황 : 어떤 교통수단, 어떤 자세, 어떤 움직임과 시간적 연관성; 움직임(실제 또는 인지된) 노출 중 또는 직후 발생
 * 구역, 어지럼, 불쾌감 중 1가지 이상
@@ -52,12 +52,12 @@
 * 움직임 중단 후 호전 여부 (호전되면 멀미 가능성 높음)
 * 다른 원인으로 설명되지 않음
 
-#### **검사**
+#### <mark style="color:$primary;">**검사**</mark>
 
 * 일반적으로 불필요; 진단이 불확실하거나 감별을 위하여 고려
 * 감별이 필요한 경우 : 신경학적 진찰, 안진 유무 확인, 필요 시 MRI
 
-#### 감별
+#### <mark style="color:$primary;">감별</mark>
 
 * 움직임과 무관하게 발생하는 구역·구토·어지럼 → 중추성 어지럼(소뇌·뇌간 병변), 미로염, 메니에르병 감별 필요
 * 두통 동반, 특히 후두부·경부 통증 → 후두와 병변(소뇌출혈, Arnold-Chiari 기형 등) 의심
@@ -70,7 +70,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 예방이 핵심 : 약물·비약물 치료 모두 증상 발생 전에 시행할 때 효과가 가장 크며, 구역·구토가 시작된 후에는 효과가 현저히 감소함
 * 증상의 중증도, 여행 기간, 환자 연령·기저 질환에 따라 치료법 선택
@@ -78,7 +78,7 @@
 * 중등도\~중증 또는 장기 여행 : 스코폴라민 패치 ± 항히스타민제 병용
 * 멀미 유발 약물 복용 중인 경우 가능하면 중단 또는 대체 고려
 
-## <mark style="color:orange;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 증상이 발생했던 경험이 있는 상황을 피함
 * 움직임이나 움직임 인식을 줄이기 위한 좌석 선택 : 비행기- 날개 부분; 자동차- 앞좌석, 앞을 향한 좌석; 배- 선체 중앙부(mid-deck), 수평선이 보이는 자리
@@ -91,7 +91,7 @@
 * 얼굴에 바람을 쏘임, 사탕/껌 이용, 음악 듣기
 * 적응 : 멀미를 유발하는 상황에 대한 노출을 점차 늘려 나감
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 * 증상 발생 전 투여 (✽증상 발생 후 투여 시 효과 적음); 경구제는 보통 여행 30\~60분 전에 투여
 * 약물 부작용 등을 고려하여 출발일 이전에 시험 투여를 권고
@@ -99,7 +99,7 @@
 * 기타 : benzodiazepine, 항도파민제, 교감 신경 흥분제(예: caffeine, pseudoephedrine)
 * ✽ Ondansetron(세로토닌 길항제)은 구역에 다소 효과가 있으나 멀미 예방에는 효과가 입증되지 않아 권장하지 않음
 
-#### Anticholinergics
+#### <mark style="color:$primary;">Anticholinergics</mark>
 
 * 주의/금기 : 녹내장, 요폐, 고령(60세 이상 주의)
 * 부작용 : 졸음, 입마름, 시야 흐림, 소변 저류
@@ -110,7 +110,7 @@
   * 만 8세 미만 금기; 국내 소아용 제품 미시판으로 사실상 성인 전용으로 사용
   * 1매 부착으로 3일간 유효; 3일 이상 적용해야 할 경우 첫 번째 것을 제거하고 다른 패취를 반대편 귀 뒤에 부착
 
-#### 항히스타민제
+#### <mark style="color:$primary;">항히스타민제</mark>
 
 * 항콜린 및 진정 작용이 있는 1세대 항히스타민제 선택
   * 비진정성 2세대 항히스타민제는 멀미에 효과 없음 (BBB 통과 및 중추 항콜린 작용이 없기 때문)
@@ -121,13 +121,13 @@
 * cyclizine : 일부 연구에서 dimenhydrinate과 효과는 비슷하며 덜 졸림
 * promethazine : 12.5\~25 ㎎ bid; 중증 멀미에서 효과적이나 진정 작용이 강함
 
-#### Antidopaminergics
+#### <mark style="color:$primary;">Antidopaminergics</mark>
 
 * scopolamine보다 효과 적음
 * metoclopramide : 10 ㎎ q6h \[맥페란]
 * prochlorperazine : 5 ㎎ tid\~qid
 
-#### Benzodiazepine
+#### <mark style="color:$primary;">Benzodiazepine</mark>
 
 * vestibular nuclei 억제 작용
 * 진정 및 중독 가능성 때문에 2차 선택
@@ -135,14 +135,14 @@
 * lorazepam : 1\~2 ㎎ q8h \[아티반]
 * diazepam : 2\~10 ㎎ q6\~12h \[디아제팜]
 
-#### NK-1 수용체 길항제
+#### <mark style="color:$primary;">NK-1 수용체 길항제</mark>
 
 * tradipitant : substance P 매개 NK-1 수용체를 선택적으로 차단하는 새로운 기전
   * 멀미로 인한 구토 예방 목적, 성인 대상 (2025년 12월 FDA 승인; 국내 시판 제품 없음)
   * Phase 3 연구에서 위약 대비 구토 발생률을 50\~70% 감소
   * 용량 : 85 ㎎ 또는 170 ㎎ 경구 (출발 전 복용)
 
-## <mark style="color:orange;">대체 요법</mark>
+## <mark style="color:green;">대체 요법</mark>
 
 * 생강 : 4시간 전 1\~2 g 또는 생강 음료 섭취; 응고 장애, 십이지장궤양, 장폐쇄 환자에서는 금지 (✽고질적 증거는 부족하며 위약 대비 우월성이 일관되게 증명되지 않음)
 * 지압 : 손목(P6) 지압이 일부에서 효과
@@ -233,13 +233,13 @@ T75.3 멀미
 멀미약은 증상이 생기기 전에 복용해야 효과가 있습니다. 자신에게 맞는 약을 여행 전날 미리 시험해 보세요.
 {% endhint %}
 
-#### 멀미가 생기는 이유는 무엇인가요?
+#### <mark style="color:$primary;">멀미가 생기는 이유는 무엇인가요?</mark>
 
 * 눈·귀·몸이 각각 다른 움직임 신호를 뇌에 보낼 때 생기는 일종의 생리적 반응입니다.
 * 자동차·배·비행기 외에도 가상현실(VR) 기기 사용 중에도 발생할 수 있습니다.
 * 어린이(3~12세)·여성·편두통 환자에서 더 잘 나타납니다.
 
-#### 멀미를 줄이는 생활 요령
+#### <mark style="color:$primary;">멀미를 줄이는 생활 요령</mark>
 
 * **좌석 선택** : 자동차는 앞좌석·앞 방향 좌석, 배는 선체 중앙부·수평선이 보이는 자리, 비행기는 날개 부분을 선택하십시오.
 * **시선 고정** : 멀리 수평선이나 고정된 사물을 바라보고, 이동 중에는 책·스마트폰을 보지 마십시오.
@@ -247,7 +247,7 @@ T75.3 멀미
 * **환기** : 신선한 공기를 쐬거나 얼굴에 바람을 맞으면 도움이 됩니다.
 * **자세** : 머리를 뒤로 기대어 움직임을 최소화하십시오.
 
-#### 멀미약 복용 안내
+#### <mark style="color:$primary;">멀미약 복용 안내</mark>
 
 * **반드시 출발 전에** 복용하십시오 — 경구약은 30~60분 전, 패치는 최소 4~8시간 전.
 * 증상이 생긴 후에는 약의 효과가 크게 줄어듭니다.
@@ -256,7 +256,7 @@ T75.3 멀미
 * **만 8세 미만 소아**에게 스코폴라민 패치는 사용할 수 없습니다.
 * 녹내장·전립선 비대·폐 질환이 있거나 임신 중이라면 복용 전 반드시 의사와 상담하십시오.
 
-#### 처음으로 이런 증상이 생긴다면 병원을 방문하세요
+#### <mark style="color:$primary;">처음으로 이런 증상이 생긴다면 병원을 방문하세요</mark>
 
 * 어지럼과 함께 팔다리 힘 빠짐·발음 장애·복시가 동반된 경우
 * 수직 방향의 안진(눈이 위아래로 떨리는 느낌)이 느껴지는 경우

@@ -1,6 +1,6 @@
-# <mark style="color:green;">하지불안증후군 Restless Legs Syndrome</mark>
+# 하지불안증후군 Restless Legs Syndrome
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * sensorimotor disorder로서 비활동 중(예: 휴식 또는 움직이지 않을 때)에 갑자기 발생하는, 불수의적(제어할 수 없는) 하지 움직임 충동; 활동 또는 움직이면 호전
 * 다른 이름 : Willis-Ekbom Disease (WED)
@@ -28,19 +28,19 @@
 * 철분 보충 시작 3개월 후 ferritin, transferrin saturation 재검
 * 도파민 작용제 복용 환자 : 매 방문마다 augmentation 여부 확인
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 원발성 (early-onset) : 뇌의 도파민 작용 저하 및 뇌 철분 결핍 추정
 * 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 약물(예: 알코올, 카페인, 항우울제(특히 SSRI/SNRI), 항정신병제, 1세대 항히스타민제, 도파민 차단제(metoclopramide), cholinesterase 억제제(donepezil))
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 속발성 RLS 인자 : 철분 결핍, 신부전, 말초신경병증, 임신, 약물
 * 가족력 : 50%에서 가족력이 있음 (상염색체 우성 경향)
 * 수면 부족 : 불면증, 폐쇄수면무호흡증(OSA)
 * 고령 : 70세까지 증가
 
-## <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
 * 불쾌한 이상 감각 : 움직이고 싶은 충동, 벌레가 기어 다니는 느낌, 불안정감, 가려움, 통증; 피부보다 깊은 부위에서의 느낌
 * 활동으로 호전, 비활동으로 재발
@@ -51,7 +51,7 @@
 * 동반 증상 : 수면 장애(수면 개시 어려움), 피로, 불안, 주간 졸음
 * 동반 소견 : Periodic Limb Movement during Sleep (PLMS) — 수면 중 주기적 사지 움직임, 15\~30초 간격
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : ferritin, transferrin saturation (= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
@@ -64,9 +64,9 @@
 * ferritin 75\~100 ng/mL → IV 철분만 고려 (경구 철분은 이 범위에서 흡수 불량)
 * ferritin >100 ng/mL 및 transferrin saturation ≥20% → 철분 보충 불필요
 
-### <mark style="color:$primary;">진단 기준 \[IRLSSG 2014]</mark>
+### <mark style="color:orange;">진단 기준 \[IRLSSG 2014]</mark>
 
-#### Essential diagnostic criteria
+#### <mark style="color:$primary;">Essential diagnostic criteria</mark>
 
 * 다음 사항에 모두 해당
   1. 하지의 불편하고 불쾌한 느낌을 동반하는 하지의 움직임 충동 (간혹 팔 등 다른 부위 이환)
@@ -75,17 +75,17 @@
   4. 하지의 움직임 충동 및 동반되는 불쾌감은 저녁이나 야간에 발생 또는 악화
   5. 상기 사항들은 다른 의학적 문제(예: myalgia, venous stasis, leg edema, arthritis, leg cramps, positional discomfort, habitual foot tapping)의 1차적 증상으로 설명되지 않음
 
-#### Specifiers for clinical course
+#### <mark style="color:$primary;">Specifiers for clinical course</mark>
 
 A. Chronic-persistent RLS : 치료하지 않았을 때 지난 1년간 ≥2회/주 발생
 
 B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평생 총 ≥5회 발생
 
-#### Specifier for clinical significance
+#### <mark style="color:$primary;">Specifier for clinical significance</mark>
 
 * RLS의 증상이 수면, 활력, 일상 활동, 행동, 인지, 또는 감정에 영향을 끼쳐 사회적, 직업적, 교육적, 또는 기타 중요한 영역에서 중대한 고통이나 장애를 초래하는 상태
 
-### <mark style="color:$primary;">감별</mark>
+### <mark style="color:orange;">감별</mark>
 
 <table><thead><tr><th width="168">질환</th><th width="220">RLS와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>야간 다리 경련<br>(Nocturnal leg cramp)</td><td>근육의 물리적 수축(뭉침)이 눈에 보이거나 촉진됨; 극심한 국소 통증</td><td>스트레칭으로 즉시 완화; 움직임 <em>충동</em> 없음; 짧은 지속 시간; 일주기 패턴 없음</td></tr><tr><td>말초신경병증<br>(Peripheral neuropathy)</td><td>저림·통증이 지속적; 표면적(피부) 느낌; 주로 양말·장갑 분포</td><td>움직여도 호전 안 됨; 야간 악화 뚜렷하지 않음; 일주기 패턴 없음; 도파민 치료에 반응 안 함</td></tr><tr><td>정좌불능증<br>(Akathisia)</td><td>전신적 안절부절못함("body rocking"); 다리에 국한되지 않음</td><td>항정신병제·항구토제 복용력 확인; 국소 이상 감각 없음; 일주기 패턴 없음; 활동으로 호전 안 됨</td></tr><tr><td>PLMD<br>(Periodic limb movement disorder)</td><td>수면 중 주기적 사지 움직임(15~30초 간격); 주간 졸음·피로</td><td>깨어 있는 동안 움직임 충동·이상 감각 없음; RLS와 동시 진단 불가(상호 배타적)</td></tr><tr><td>하지정맥류<br>(Varicose veins)</td><td>하지 불편감·통증; 마사지·휴식으로 호전</td><td>일주기 패턴 없음; 육안으로 정맥 확장 확인 가능; 움직임 충동 없음</td></tr><tr><td>혈관성 파행<br>(Vascular claudication)</td><td>보행으로 악화, 휴식으로 호전</td><td>움직임 충동 없음; 일주기 패턴 없음; 수면 장애 없음; ABI 검사 이상</td></tr><tr><td>섬유근육통<br>(Fibromyalgia)</td><td>전신 증상; 종종 수면 장애</td><td>일주기 변동 없음; 움직임으로 호전 안 됨 (☞ <a href="/broken/pages/437c8b9c7708d0357213b551ff2716ff2c910812">섬유근육통</a>)</td></tr><tr><td>Positional discomfort</td><td>같은 자세 장시간 유지 시 발생</td><td>자세 변경으로 즉시 호전; 일주기 패턴 없음; 움직임 충동 없음</td></tr><tr><td>성장통 (Growing pain)</td><td>소아; 양측 대퇴·정강이 깊은 근육 통증</td><td>활동량 많은 날 저녁 발생; 마사지로 호전; 일주기 패턴 불명확</td></tr></tbody></table>
 
@@ -93,7 +93,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 치료 목표 : 증상 완화, 주간 기능 회복, 수면 개선, 삶의 질 향상
 * **Step 1** : 이차성 원인 교정 — 속발성인 경우 원인 치료 우선
@@ -118,7 +118,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 4\. 필요 시 저용량 opioid를 tapering 기간 동안 보조 사용
 {% endhint %}
 
-## <mark style="color:orange;">비약물 치료 및 예방</mark>
+## <mark style="color:green;">비약물 치료 및 예방</mark>
 
 * 주간의 활발한 활동, 규칙적 운동(지나친 운동은 피함), 저녁 때 가벼운 걷기
 * 적절한 수면 및 규칙적 수면 스케줄 유지
@@ -128,7 +128,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * 활발한 두뇌 활동(게임, 퍼즐)
 * 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 비침습적 신경 자극 치료; 2024 AASM 조건부 권고 \[근거 수준 낮음]
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 {% hint style="info" %}
 **2024 AASM 가이드라인 핵심 변화**\
@@ -136,7 +136,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 **현재 1차 치료 : gabapentin 계열 (강력 권고)**
 {% endhint %}
 
-#### Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열)&#x20;
+#### <mark style="color:$primary;">Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열)&#x20;</mark>
 
 * 1차 선택
 * 근거 : 2024 AASM 강력 권고(Strong recommendation); 13개 RCT + 7개 관찰연구 기반
@@ -146,7 +146,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * pregabalin : 50\~75 ㎎ qd (저녁) → 최대 300\~450 ㎎/d \[리리카]
 * gabapentin enacarbil : 600 ㎎/d (저녁) — 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
 
-#### 철분 보충&#x20;
+#### <mark style="color:$primary;">철분 보충&#x20;</mark>
 
 * 1차 선택 (철분 지표 기준에 해당 시)
 * IV ferric carboxymaltose (페린젝트) : ferritin <100 ng/mL 또는 transferrin saturation <20% → 강력 권고
@@ -158,7 +158,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
   * 격일 복용(every other day) 권고 : 매일 복용보다 헵시딘 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
 * IV low molecular weight iron dextran, IV ferumoxytol : 조건부 권고
 
-#### 도파민 작용제&#x20;
+#### <mark style="color:$primary;">도파민 작용제&#x20;</mark>
 
 * 장기 사용 조건부 권고 반대 (2024 AASM)
 * 단기 사용 또는 gabapentin 계열 불내성/금기 시 제한적 선택 가능
@@ -169,12 +169,12 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
 * 금기 : 정신 질환, 도파민 대항제 투여 중
 
-#### 항파킨슨제
+#### <mark style="color:$primary;">항파킨슨제</mark>
 
 * 간헐적 증상에 대하여 필요 시 단기 선택 (augmentation 위험으로 장기 사용 권고 반대)
 * carbidopa/levodopa : 10/100\~25/250 ㎎ \[시네메트]
 
-#### Opioid (조건부 권고)
+#### <mark style="color:$primary;">Opioid (조건부 권고)</mark>
 
 * 적응 : 중등\~중증 RLS로 gabapentin 계열 불충분한 경우; 도파민 작용제 augmentation 발생 시 tapering 보조 목적
 * 취침 시 저용량 투여; 중추성 수면무호흡증 주의 (고용량 시)
@@ -182,14 +182,14 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * tramadol : 50\~100 ㎎/d \[트라마돌]
 * hydrocodone : 5\~20 ㎎/d \[하이코돈]
 
-#### 기타 (조건부 권고)
+#### <mark style="color:$primary;">기타 (조건부 권고)</mark>
 
 * dipyridamole : 100\~200 ㎎/d; 아데노신 기전 — 조건부 권고 \[페르산틴]
 * clonidine : 0.05\~0.1 ㎎/d \[켑베이]
 * baclofen : 20\~80 ㎎/d \[바크론]
 * Vit/미네랄 보충 : Mg, Vit B12, folate (근거 제한적; 결핍 시 보충)
 
-#### ⛔ 권고하지 않는 약제 (2024 AASM)
+#### <mark style="color:$primary;">⛔ 권고하지 않는 약제 (2024 AASM)</mark>
 
 | 약제                    | 권고 수준     | 이유               |
 | --------------------- | --------- | ---------------- |
@@ -285,26 +285,26 @@ G25.81 하지불안증후군
 하지불안증후군은 적절한 치료와 생활 관리로 충분히 조절될 수 있는 질환입니다.
 {% endhint %}
 
-#### 하지불안증후군이란 무엇인가요?
+#### <mark style="color:$primary;">하지불안증후군이란 무엇인가요?</mark>
 
 * **하지불안증후군** : 쉬거나 누워 있을 때 다리를 움직이고 싶은 강한 충동과 함께 다리에 불편한 이상 감각(벌레가 기어다니는 느낌, 저림, 통증 등)이 발생하는 신경계 질환입니다
 * 저녁\~밤에 심해지고, 다리를 움직이거나 걸으면 일시적으로 나아집니다
 * 성인의 약 2\~3%에서 나타나며, 수면 장애와 낮 동안의 피로를 유발합니다
 * 철분 부족, 신장 질환, 임신, 일부 약물 등이 원인이 될 수 있습니다
 
-#### 어떻게 치료하나요?
+#### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **철분 검사 및 보충** : 뇌 철분 결핍이 중요한 원인 중 하나입니다. 혈액 검사로 철분 수치를 확인하고, 기준에 따라 철분제를 복용하거나 주사 치료를 받습니다
 * **약물 치료** : gabapentin(뉴론틴), pregabalin(리리카) 등이 현재 우선 권고되는 약물입니다. 효과는 수 주에 걸쳐 서서히 나타납니다
 * **생활 관리** : 규칙적인 운동, 수면 습관 개선, 카페인·알코올 제한이 증상 완화에 도움이 됩니다
 
-#### 도파민 약물(미라펙스, 리큅 등)을 복용 중이라면 꼭 알아 두세요
+#### <mark style="color:$primary;">도파민 약물(미라펙스, 리큅 등)을 복용 중이라면 꼭 알아 두세요</mark>
 
 * 이 약물들은 단기적으로 효과가 있지만, 오래 복용하면 \*\*증상이 오히려 악화되는 현상(augmentation)\*\*이 나타날 수 있습니다
 * 증상이 낮에도 나타나거나, 팔이나 몸통으로 퍼지거나, 약을 늘렸는데도 더 심해진다면 즉시 의사에게 알려 주십시오
 * 이 약을 갑자기 끊으면 반동 증상이 심해질 수 있으므로, 반드시 의사 지도하에 서서히 줄여야 합니다
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **카페인·알코올 제한** : 특히 저녁 시간에는 피하는 것이 좋습니다
 * **규칙적인 가벼운 운동** : 지나친 운동은 오히려 악화시킬 수 있습니다
@@ -314,7 +314,7 @@ G25.81 하지불안증후군
 * **⚠️ 감기약·수면보조제 주의** : 시중 감기약과 수면보조제에 흔히 들어 있는 1세대 항히스타민제(diphenhydramine, 클로르페니라민 등)는 RLS 증상을 급격히 악화시킬 수 있습니다. 약국에서 수면제나 감기약을 구입할 때 반드시 RLS가 있음을 알리고 성분을 확인하십시오
 * **우울증 약 복용 중이라면** : 일부 항우울제(SSRI 계열)는 RLS를 악화시킬 수 있습니다. 기존 항우울제 복용 중 RLS 증상이 생기거나 심해졌다면 담당 의사와 상의하십시오 (bupropion 계열로 교체를 검토할 수 있습니다)
 
-#### 이럴 때는 즉시 병원을 방문하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 증상이 낮 시간으로 앞당겨지거나 팔·몸통으로 퍼지는 경우
 * 약 용량을 늘렸는데도 증상이 더 심해지는 경우

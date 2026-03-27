@@ -1,18 +1,18 @@
-# <mark style="color:green;">파킨슨병 Parkinson’s Disease</mark>
+# 파킨슨병 Parkinson’s Disease
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 'resting tremor, rigidity, bradykinesia, postural instability'를 특징으로 하는 진행성 neuro-degenerative disorder
 * 보통 45\~65세에 발병; 60세 이상 인구의 1%; 알츠하이머병 다음으로 흔한 신경 변성 질환
 * 발병 10년 후 상당수에서 사망, 자세 불안정, 치매 등 나쁜 경과를 보임
 * 낙상, 폐렴, 질식 등의 사고에 의한 사망 위험이 증가하므로 운동, 움직임 등 기능 보존이 중요
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 불명
 * 기전(추정) : substantia nigra의 도파민 뉴런 소실 및 Lewy body(주성분: α-synuclein) 형성이 병리학적으로 확인됨; 이로 인한 도파민 감소와 도파민-acetylcholine 불균형이 운동 증상의 주요 기전으로 설명되나, Lewy body의 정확한 역할 및 뉴런 소실의 근본 원인은 미해명
 
-### <mark style="color:$primary;">전구 증상</mark>
+### <mark style="color:orange;">전구 증상</mark>
 
 * 운동 증상이 나타나기 수년\~10년 전부터 다음 증상들이 선행할 수 있음; 조기 진단의 단서가 되며, 이 증상들이 복합적으로 존재하는 경우 파킨슨병 전구기를 의심하고 추적 관찰 권장
 * REM 수면 행동 장애 (RBD) : 수면 중 소리를 지르거나 팔다리를 움직이는 행동; 파킨슨병으로 전환되는 가장 강력한 예측 인자
@@ -20,18 +20,18 @@
 * 변비 : 만성적인 배변 장애
 * 우울/불안 : 원인 불명의 기분 변화
 
-### <mark style="color:$danger;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 가족력, 고령
 * 반복적 head trauma, 독소(예: 살충제) 노출, 방사선 노출
 * 약물 : 위장 운동 촉진제(metoclopramide, levosulpiride), 항정신병제(chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, lithium, valproic acid), 항우울제(fluoxetine), 심혈관제(amiodarone, diltiazem, reserpine, methyldopa)
   * 니코틴과 카페인이 파킨슨병의 위험을 줄이거나 발생을 지연시킨다는 보고가 있음
 
-## <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
 * 보통 편측 팔(±다리)에서 시작하여 수개월\~수년 후 양측에서 발생
 
-#### 운동 증상
+#### <mark style="color:$primary;">운동 증상</mark>
 
 * resting tremor
   * 환자의 ＞70%에서 발생
@@ -54,7 +54,7 @@
 * postural instability : 질환 후기에 발생
 * 시각 : contrast 민감도 저하, hypometric saccade, vestibulo-ocular reflex 장애, upward gaze 및 convergence 장애, lid apraxia
 
-#### 비-운동 증상
+#### <mark style="color:$primary;">비-운동 증상</mark>
 
 * 자율 신경 장애 : 기립성 저혈압, 급뇨/빈뇨, 변비, 발기 부전
 * 감각 장애 : 후각 상실, 통각/감각 이상(자발적 작열감, 저림, 찌르는 느낌)
@@ -84,11 +84,11 @@
 * 치료 반응 불충분 시 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * levodopa 장기 사용 후 wearing-off, dyskinesia 발생 시
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * 임상적으로 진단
 
-### <mark style="color:$primary;">MDS 임상 진단 기준</mark>&#x20;
+### <mark style="color:orange;">MDS 임상 진단 기준</mark>&#x20;
 
 **필수 기준**
 
@@ -124,16 +124,16 @@
 
 _Ref. Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's disease. Mov Disord 2015;30(12)._
 
-### <mark style="color:$primary;">UK Parkinson's disease society brain bank diagnostic criteria</mark>
+### <mark style="color:orange;">UK Parkinson's disease society brain bank diagnostic criteria</mark>
 
-#### 파킨슨병 진단
+#### <mark style="color:$primary;">파킨슨병 진단</mark>
 
 * bradykinesia 및 다음 중 ≥1개 존재
   * muscular rigidity
   * 4\~6 ㎐ resting tremor
   * postural instability
 
-#### 파킨슨병 가능성
+#### <mark style="color:$primary;">파킨슨병 가능성</mark>
 
 * 다음 중 ≥3개 존재
   * 편측 발생으로 시작
@@ -145,7 +145,7 @@ _Ref. Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's diseas
   * levodopa 반응이 ≥5년 유지됨
   * ≥10년 경과
 
-#### 배제 기준
+#### <mark style="color:$primary;">배제 기준</mark>
 
 * 순차적으로 악화되는 파킨슨 양상을 보이는 반복적 뇌경색 병력
 * 반복적 두부 외상력, 명확한 뇌염력
@@ -163,14 +163,14 @@ _Ref. Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's diseas
 * 대용량 levodopa 치료에 반응하지 않음
 * MPTP(신경독) 노출
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * 확진 검사 방법은 없음; 다른 질환 배제를 위해 고려
 * DAT-SPECT (DaTscan) : 도파민 수송체 영상; 파킨슨병 vs 본태성 떨림 감별에 유용
 * MIBG 심장 스캔 : 심장 교감 신경 탈신경 확인; 파킨슨병에서 감소
 * Brain MRI : 혈관성 파킨슨증, PSP, MSA 등 구조적 이상 배제
 
-### <mark style="color:$primary;">감별</mark>
+### <mark style="color:orange;">감별</mark>
 
 <table><thead><tr><th width="174">분류</th><th width="252">특징</th><th width="115">예상 경과</th><th width="127">Levodopa에 대한 반응</th></tr></thead><tbody><tr><td>Essential tremor<br>(☞ 떨림)</td><td>대칭적 떨림, 움직임에 의해 악화, 사지 원위부/머리 이환, 발음 이환; 서동증 없음</td><td></td><td>없음</td></tr><tr><td>Drug induced</td><td>현저하지 않은 보행 장애, 상지 증상 혼합, 대칭적; 대부분 항구토제/항정신성 약물 관련</td><td>약물 중단 후 호전</td><td>무관 (약물 중단에 반응)</td></tr><tr><td>Vascular</td><td>갑자기 발생, 국소 신경학적 이상, 단계적 악화, 대칭적 운동 완만, 질질 끄는 보행; 하지 우세</td><td>혈관 상태에 따름</td><td>미약</td></tr><tr><td>Progressive supranuclear palsy (PSP)</td><td>조기 자세 불안/낙상(발병 1년 이내), 몸통 경직, 수직 주시 제한(특히 하방 주시 장애), 놀란 표정(surprised look); Richardson syndrome이 전형적 아형이나 PSP-P(파킨슨 유사형) 등 다양한 아형 존재 [MDS 2017]</td><td>빠른 진행</td><td>초기 20~30%에서 일시적 반응; 대부분 무반응</td></tr><tr><td>Multiple system atrophy (MSA)</td><td>자율 신경 기능 상실(기립성 저혈압, 실금) 필수; MSA-P(파킨슨 우세형) 또는 MSA-C(소뇌 우세형)으로 분류 [개정 기준 2022]; 흡기 시 stridor가 특징적</td><td>빠른 진행</td><td>초기 40%에서 일시적 반응</td></tr><tr><td>Dementia with Lewy bodies (DLB)</td><td>인지 기능 저하가 운동 증상보다 선행 또는 동반(1년 이내); 변동성 인지 장애, 반복적 시각 환각, REM 수면 행동 장애(RBD), DAT-SPECT 이상이 핵심 진단 기준 [개정 기준 2017]; 현저한 경직</td><td>알츠하이머와 비슷</td><td>다양; cholinesterase 억제제가 인지·정신 증상에 효과적</td></tr></tbody></table>
 
@@ -185,7 +185,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:orange;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 규칙적 운동, 재활 운동
   * 유산소 운동, 태극권, 댄스 등이 보행 및 균형 개선에 도움
@@ -201,7 +201,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
   * 과식/큰 음식/고지방 식품 섭취를 피함
   * 단백질 섭취 시간 조절 : 단백질(고기, 생선, 두부, 콩류)은 levodopa 흡수를 경쟁적으로 방해할 수 있음; 가급적 단백질 섭취를 저녁 식사로 몰아서 하고, 아침·점심은 탄수화물 위주로 구성하는 전략이 도움됨
 
-### <mark style="color:$primary;">수술적 치료 (약물 불응성)</mark>
+### <mark style="color:orange;">수술적 치료 (약물 불응성)</mark>
 
 * **Deep brain stimulation (DBS)**
   * 적응 : 약물 불응성 운동 증상, levodopa 유발 dyskinesia, wearing-off 현상이 심한 경우
@@ -213,9 +213,9 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
   * 2021 FDA 승인 (양측 STN 대상 확대)
   * DBS 대안으로 고려 (단, 효과는 편측에 국한)
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:$primary;">운동 증상 치료</mark>
+### <mark style="color:orange;">운동 증상 치료</mark>
 
 * 도파민 전구체인 levodopa 투여 또는 항콜린제로 acetylcholine 작용 차단
 * 증상을 개선시키지만 병의 진행을 막지는 못함
@@ -228,7 +228,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
   * 60\~70세 환자 : levodopa/carbidopa, dopamine 작용제, MAO-B 억제제
   * ＞70세 환자 : levodopa/carbidopa
 
-#### Levodopa
+#### <mark style="color:$primary;">Levodopa</mark>
 
 * 가장 효과적인 운동 증상 치료제
 * carbidopa와 benserazide는 levodopa의 말초 전환을 억제하며 이들 약제를 병용함으로써 levodopa의 투여량과 부작용 발생을 줄일 수 있음
@@ -238,7 +238,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * levodopa/carbidopa : 시작 100/25 ㎎ 0.5\~1T tid; 최대 levodopa로 1,500 ㎎ #2\~4 \[시네메트]
 * L-dopa/benserazide : 100/25 ㎎, 100/50 ㎎ \[마도파]
 
-#### Dopamine agonists
+#### <mark style="color:$primary;">Dopamine agonists</mark>
 
 * 도파민 수용체에 직접 작용
 * levodopa 치료 시 발생할 수 있는 response fluctuation와 dyskinesia를 낮춤
@@ -251,7 +251,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * bromocriptine : 시작 1.25 ㎎ bid; 최대 90 ㎎/d \[팔로델]
 * apomorphine : 주사제; 시작 2 ㎎; 최대 6 ㎎
 
-#### MAO-B(Monoamine Oxidase type B) Inhibitor
+#### <mark style="color:$primary;">MAO-B(Monoamine Oxidase type B) Inhibitor</mark>
 
 * 내약성 좋음
 * 부작용 : 구역, 두통, 수면 장애, 환각; SSRI, TCA, meperidine 병용 회피
@@ -259,7 +259,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * rasagiline : 시작 0.5 ㎎ qd; 최대 1 ㎎/d \[아질렉트]
 * safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d — levodopa 보조제; 운동 및 비운동 증상 개선
 
-#### COMT(Catechol-O-Methyltransferase) Inhibitor
+#### <mark style="color:$primary;">COMT(Catechol-O-Methyltransferase) Inhibitor</mark>
 
 * 도파민 반응을 연장시킴. levodopa에 반응하는 경우 부가 사용 (wearing-off 개선 목적)
 * 부작용 : 구역, 설사, 기립성 저혈압, 착란, 운동이상증, 간독성(tolcapone), 오렌지색 소변
@@ -267,12 +267,12 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * tolcapone : 시작 100 ㎎ tid; 최대 800 ㎎/d; 간독성 위험, 간기능 모니터링 필수
 * opicapone : 1일 1회 복용으로 편의성 우수. entacapone 대비 On-time 연장 효과 강력; 25\\\~50 ㎎ qd (취침 전; levodopa 복용 최소 1시간 전후) \[온젠티스]
 
-#### NMDA(N-Methyl-d-Aspartate) Inhibitor
+#### <mark style="color:$primary;">NMDA(N-Methyl-d-Aspartate) Inhibitor</mark>
 
 * 부작용 : 어지럼, 착란, 망상피반, 환각
 * amantadine : 시작 100 ㎎ qd → 100 ㎎ bid, 최대 400 ㎎/d \[피케이멜즈]
 
-#### Anticholinergics
+#### <mark style="color:$primary;">Anticholinergics</mark>
 
 * tremor 및 rigidity 완화에 도움; 젊은 연령에서 심한 진전 조절을 위해 고려
 * 저용량으로 시작하여 점차 증량; 효과적이지 않으면 tapering
@@ -280,15 +280,15 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * trihexyphenidyl : 1 ㎎ tid; 증량 2 ㎎ tid; 최대 15 ㎎/d \[트리헥신]
 * benztropine : 0.5 ㎎ 취침 시; 최대 1 ㎎ bid \[벤즈트로핀]
 
-#### 복합제
+#### <mark style="color:$primary;">복합제</mark>
 
 * levodopa + carbidopa + entacapone \[스타레보]
 
-### <mark style="color:$primary;">운동 증상 약제 비교</mark>
+### <mark style="color:orange;">운동 증상 약제 비교</mark>
 
 <table><thead><tr><th width="117.36846923828125">약제군</th><th width="167.894775390625">주요 성분명 [상품명]</th><th width="119.21051025390625">기전</th><th width="131.84210205078125">주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>Levodopa/Carbidopa [시네메트]<br>L-dopa/Benserazide [마도파]</td><td>도파민 전구체 보충</td><td>구역, dyskinesia(장기), 기립성 저혈압</td><td>Gold standard; 모든 연령에서 가장 효과적</td></tr><tr><td>Dopamine agonist</td><td>Pramipexole [미라펙스]<br>Ropinirole [리큅]<br>Rotigotine [뉴프로 패취]</td><td>도파민 수용체 직접 자극</td><td>충동 조절 장애, 졸림, DAWS(금단)</td><td>젊은 환자(＜60세) 초기 선호; dyskinesia 위험 낮음</td></tr><tr><td>MAO-B 억제제</td><td>Rasagiline [아질렉트]<br>Safinamide<br>Selegiline [마오비]</td><td>도파민 분해 억제</td><td>불면(저녁 복용 시), 두통, 구역</td><td>초기 단독 또는 levodopa 보조; 내약성 양호; SSRI/TCA 병용 금지</td></tr><tr><td>COMT 억제제</td><td>Entacapone [콤탄]<br>Opicapone [온젠티스]</td><td>Levodopa 말초 분해 억제 → 반감기 연장</td><td>오렌지색 소변, 설사, 운동이상증</td><td>Wearing-off 개선; Opicapone은 1일 1회로 편의성·효과 우수</td></tr><tr><td>NMDA 억제제</td><td>Amantadine [피케이멜즈]</td><td>글루타메이트 차단</td><td>망상피반, 어지럼, 착란, 환각</td><td>Dyskinesia 감소에도 유효</td></tr><tr><td>항콜린제</td><td>Trihexyphenidyl [트리헥신]<br>Benztropine [벤즈트로핀]</td><td>Acetylcholine 작용 차단</td><td>입마름, 소변 잔류, 인지 저하</td><td>Tremor 우세형 젊은 환자에서 고려; 고령자 주의</td></tr></tbody></table>
 
-### <mark style="color:$primary;">운동 증상 이외 증상의 치료</mark>
+### <mark style="color:orange;">운동 증상 이외 증상의 치료</mark>
 
 * 기립성 저혈압 : 수분 섭취 증가, 압박 스타킹, 머리쪽 침대 높이기; midodrine 2.5\~10 ㎎ tid, droxidopa 100\~600 ㎎ tid
 * 주간 졸음 : 야간 수면 환경 개선, 적절한 커피 음용; modafinil, methylphenidate (☞ p.138)
@@ -381,33 +381,33 @@ G20 파킨슨병
 파킨슨병은 완치보다는 꾸준한 치료와 생활 관리로 일상 기능을 최대한 유지하는 것이 목표입니다.
 {% endhint %}
 
-#### 파킨슨병이란 무엇인가요?
+#### <mark style="color:$primary;">파킨슨병이란 무엇인가요?</mark>
 
 * **파킨슨병**은 뇌에서 운동을 조절하는 도파민이라는 물질이 줄어들어 발생하는 신경계 질환입니다
 * 주요 증상으로는 손 떨림, 몸이 뻣뻣해짐(경직), 동작이 느려짐(서동), 자세 불안정(넘어질 것 같은 느낌) 등이 있습니다
 * 운동 증상 외에도 변비, 후각 감소, 우울, 수면 장애 등 다양한 증상이 동반될 수 있습니다
 * 진행성 질환이지만 적절한 치료로 오랫동안 일상생활을 유지할 수 있습니다
 
-#### 어떻게 치료하나요?
+#### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **약물 치료** : 도파민을 보충하거나 그 효과를 높이는 여러 약물을 사용합니다. 약효는 꾸준히 복용할 때 가장 잘 유지됩니다
 * **운동 치료** : 유산소 운동, 태극권, 댄스 등이 균형, 보행, 근력 유지에 도움이 됩니다. 규칙적인 운동이 병의 진행을 늦추는 데 도움이 될 수 있습니다
 * **수술 치료(DBS)** : 약물 조절이 어려운 경우 뇌심부자극술(DBS)을 신경과에서 고려할 수 있습니다
 
-#### 약 복용 시 꼭 지켜주세요
+#### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
 * **임의 중단 금지** : 파킨슨 약을 갑자기 끊으면 고열, 근육 경직 등 심각한 부작용이 생길 수 있습니다. 반드시 의사와 상의하십시오
 * **복용 시간 준수** : levodopa는 매일 같은 시간에 규칙적으로 복용해야 약 효과가 일정하게 유지됩니다
 * **식사와의 관계** : levodopa는 가능하면 식사 30분 전에 복용하는 것이 흡수에 유리합니다. 고기·두부 등 단백질이 많은 음식과 함께 복용하면 약 흡수가 줄어들 수 있습니다
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **낙상 예방** : 미끄러운 바닥, 어두운 조명, 발에 걸릴 물건을 없애십시오. 화장실에 손잡이를 설치하면 도움이 됩니다
 * **규칙적인 운동** : 걷기, 수영, 자전거 타기 등 꾸준한 운동이 근력과 균형 유지에 중요합니다
 * **충분한 수분·섬유질 섭취** : 변비 예방을 위해 하루 1.5\~2리터 물을 마시고, 채소·과일을 충분히 드십시오
 * **수면 관리** : 수면 중 소리를 지르거나 발길질을 한다고 가족이 말하면 의사에게 알려 주십시오
 
-#### 이럴 때는 즉시 병원을 방문하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 약을 먹었는데도 몸이 전혀 움직이지 않거나 갑자기 상태가 나빠진 경우
 * 없는 것이 보이거나(환각), 이상한 행동이 갑자기 생긴 경우

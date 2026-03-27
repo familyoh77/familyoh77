@@ -1,6 +1,6 @@
-# <mark style="color:green;">긴장형두통 Tension Type Headache, TTHA</mark>
+# 긴장형두통 Tension Type Headache, TTHA
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 다음의 특징을 갖는 두부 양측의, 압박 또는 조이는 느낌의 두통
   * 중등도 이하의 강도
@@ -14,7 +14,7 @@
 
 ☞ [두통 챕터 Red Flags 참조](015_-headache.md)
 
-### <mark style="color:$primary;">분류 \[IHS classification ICHD-3]</mark>
+### <mark style="color:orange;">분류 \[IHS classification ICHD-3]</mark>
 
 1. Infrequent episodic TTHA
    1. associated with pericranial tenderness
@@ -30,18 +30,18 @@
    2. probable frequent episodic tension type headache
    3. probable chronic tension type headache
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 불명
 
-### <mark style="color:$primary;">추정 기전</mark>
+### <mark style="color:orange;">추정 기전</mark>
 
 * peripheral nociceptors 활성 → myofascial pain → episodic TTHA
 *   지속적인 nociceptors 자극 → central pain pathway 민감화
 
     → chronic TTHA
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 **주요 위험 인자** (근거 강함, 임상적 영향 큼)
 
@@ -64,9 +64,9 @@
 * 냄새, 소음, 빛 : 편두통에서 더 두드러짐; TTHA에서는 근거 약함
 * 약물 (항고혈압제, nitrate, SSRI 등) : 빈도 낮으나 간과하기 쉬움
 
-## <mark style="color:orange;">임상 양상 및 진단</mark>
+## <mark style="color:green;">임상 양상 및 진단</mark>
 
-### <mark style="color:$primary;">Episodic tension-type headache (삽화긴장형두통)</mark>
+### <mark style="color:orange;">Episodic tension-type headache (삽화긴장형두통)</mark>
 
 A. 아래의 진단 기준 B\~D를 충족하는 두통이 다음 기간 동안 최소한 10번 발생
 
@@ -91,7 +91,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음\*
 
 _\*개연편두통과 저빈도삽화긴장형두통의 진단 기준 모두를 만족하는 두통은 저빈도삽화긴장형두통으로 진단_
 
-### <mark style="color:$primary;">Chronic tension type headache (만성긴장형두통)</mark>
+### <mark style="color:orange;">Chronic tension type headache (만성긴장형두통)</mark>
 
 A. 아래의 진단 기준 B\~D를 충족하는 두통이 ＞3개월 동안 월평균 ≥15일, 연간 ≥180일 발생
 
@@ -115,14 +115,14 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 2. 진단 기준 A\~E를 만족하는 두통이 처음 발생 시점 24시간 이내부터 매일 지속된 것이 명백하다면 신생매일지속두통으로 분류하며, 두통 발생시점을 기억하지 못하거나 불확실하다면 만성긴장형두통으로 분류
 3. 약물과용두통과 만성긴장형두통의 진단 기준을 모두 충족하는 경우 둘 다 진단함. 약물 과용을 중단한 후에도 만성 두통이 지속되면 약물과용두통 진단은 철회될 수 있음
 
-### <mark style="color:$primary;">두개주위 근육 촉진 (Pericranial Palpation)</mark>
+### <mark style="color:orange;">두개주위 근육 촉진 (Pericranial Palpation)</mark>
 
 * ICHD-3는 긴장형두통을 두개주위 근육 압통 유무에 따라 하위 분류함. 촉진은 진단의 객관성을 높이고 치료 전후 비교에 활용
 * 검사 부위 : 전두근(Frontal), 측두근(Temporal), 교근(Masseter), 익돌근(Pterygoid), 흉쇄유돌근(SCM), 두판상근(Splenius), 승모근(Trapezius)
 * 검사 방법 : 2nd, 3rd finger로 작은 원을 그리듯 회전하며 강하게 압박 (수기 촉진법 표준)
 * 점수화 : 각 부위를 0\~3점으로 점수화(Local tenderness score)하여 기록 → 치료 전후 객관적 비교 가능
 
-### <mark style="color:$primary;">긴장형두통 vs 경추성두통 (CGH) 감별</mark>
+### <mark style="color:orange;">긴장형두통 vs 경추성두통 (CGH) 감별</mark>
 
 | 구분       | 긴장형두통 (TTHA)            | 경추성두통 (CGH)                    |
 | -------- | ----------------------- | ------------------------------ |
@@ -138,14 +138,14 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 원칙</mark>
+### <mark style="color:orange;">치료 원칙</mark>
 
 * 삽화형 : 급성기 진통제 투여 + 유발 인자 교정
 * 만성형 : 예방 약물(항우울제) + 비약물 치료 병행; 급성기 진통제 병용 가능
 
 ※ **약물과용두통 주의** : 진통제의 잦은 사용은 반발성 두통 또는 약물과용두통을 야기할 수 있음(특히 카페인 함유 복합제). 약물에 의한 두통 발생을 예방하기 위해 진통제 사용을 ≤2일/주로 제한할 것을 권고 (단순 NSAIDs/acetaminophen은 월 15일, 복합진통제는 월 10일 초과 시 약물과용두통 기준에 해당)
 
-## <mark style="color:orange;">비약물 치료</mark>
+## <mark style="color:green;">비약물 치료</mark>
 
 * 규칙적 식사, 균형 잡힌 식사; 아침 식사를 거르지 않음
 * 충분한 휴식/취침, 규칙적 취침/기상; 소음이 적은 어두운 방에서 휴식
@@ -157,14 +157,14 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 * 이완 요법 : 요가, 명상, 인지행동치료(CBT), 바이오피드백
 * 향기 요법 : 페퍼민트 oil을 전두부에 도포(일부에서 유효)
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 ※ **편두통 치료제는 순수 TTHA에 효과 없음**
 
 * CGRP 표적 치료제(항CGRP 단클론항체, gepant 계열) : 편두통에는 승인되어 있으나 순수 긴장형두통에는 효과 미입증; 무분별한 처방 주의
 * Triptan : 트립탄에 반응하는 두통은 긴장형두통이 아니라 편두통 요소가 혼재되어 있을 가능성이 매우 높음 → 편두통 재평가 필요
 
-### <mark style="color:$primary;">1차 선택 - 급성기 진통제</mark>
+### <mark style="color:orange;">1차 선택 - 급성기 진통제</mark>
 
 * ibuprofen : 400\~800 ㎎ q8h 필요시 \[부루펜]
   * ✽ibuprofen이 acetaminophen보다 효과적이라는 보고가 있음
@@ -172,30 +172,30 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 * acetaminophen : 1,000 ㎎ → 이후 650\~1,000 ㎎을 필요시 6시간마다; 최대 4 g/d, 간/신 장애 시 2 g/d \[타이레놀]
 * aspirin : 500\~1,000 ㎎ 필요시 6시간마다 \[로날]
 
-### <mark style="color:$primary;">2차 선택 - 급성기</mark>
+### <mark style="color:orange;">2차 선택 - 급성기</mark>
 
-#### Caffeine 복합제
+#### <mark style="color:$primary;">Caffeine 복합제</mark>
 
 * caffeine 130/acetaminophen 500/aspirin 500 ㎎ q6h 필요시
   * ✽카페인 함유 복합제는 약물과용두통 위험이 높으므로 사용 빈도에 주의
 
-#### Opioid 유사제
+#### <mark style="color:$primary;">Opioid 유사제</mark>
 
 * tramadol : 100 ㎎ \[트리돌] (☞ p.12)
 * 복합제 : tramadol/acetaminophen \[울트라셋]
 
-#### 진통 보조제
+#### <mark style="color:$primary;">진통 보조제</mark>
 
 * 수면 작용이 있는 항히스타민제나 dopamine 차단 항구토제가 진통제의 효과를 강화시킬 수 있음
   * diphenhydramine : 25\~50 ㎎ q4\~6hr, 최대 300 ㎎/d [디펙타민](../%EB%B9%84%EB%B3%B4%ED%97%98/)
   * hydroxyzine : 25\~50 ㎎ hs or 50\~100 ㎎/d #3\~4 \[아디팜]
   * metoclopramide : 5\~10 ㎎ tid\~qid \[맥페란]
 
-### <mark style="color:$primary;">예방 치료 - 만성긴장형두통</mark>
+### <mark style="color:orange;">예방 치료 - 만성긴장형두통</mark>
 
 ※ 예방 치료는 월 발생 ≥8일 또는 일상생활 장애가 큰 경우에 고려. 최소 2\~3개월 투여 후 효과 평가
 
-#### 1차 - 항우울제 (근거 수준 가장 높음)
+#### <mark style="color:$primary;">1차 - 항우울제 (근거 수준 가장 높음)</mark>
 
 * amitriptyline : 10 ㎎/d 취침 시 시작 → 25\~75 ㎎/d까지 점진 증량 \[에트라빌] ← 만성 TTHA 예방 1차 선택 (2024 VA/DoD 가이드라인)
   * 부작용 : 구갈, 졸림, 변비, 체중증가 (항콜린 작용); 취침 전 복용으로 완화
@@ -205,7 +205,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
   * 우울·불안 동반 환자에서 선호; 혈압 모니터링 필요
   * ✽SSRI는 TCA에 비해 TTHA 예방 근거 부족; 동반 우울/불안 치료 목적으로는 활용 가능
 
-#### 기타
+#### <mark style="color:$primary;">기타</mark>
 
 * 국소 주사 : lidocaine, triamcinolone (보험주의)
   * ✽Dry needling(근막 유발점 주사): 측두근(Temporalis)·승모근(Trapezius) 타겟이 통증 강도 및 빈도 감소에 가장 효과적 (2024년 RCT). 도수치료(경추 운동, manual therapy) 병행 시 시너지 효과
@@ -214,7 +214,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
   * cyclobenzaprine : 5~~10 ㎎ tid, 서방형 15~~30 ㎎ qd \[본렉스]
 * riboflavin : 200 ㎎/d; 일부 연구에서 효과 (근거 수준 낮음)
 
-### <mark style="color:$primary;">동반 질환 고려</mark>
+### <mark style="color:orange;">동반 질환 고려</mark>
 
 * 턱관절 장애(TMD) / 이갈이 : 측두근·교근 압통이 심한 경우 구강 내 장치(Splint) 또는 치과 협진 고려; 단순 두통 치료만으로는 호전 제한적
 * 수면 무호흡증 : 아침에 심한 만성 두통은 수면 무호흡과의 연관성 반드시 확인 → 수면 다원검사(PSG) 의뢰 고려
@@ -304,19 +304,19 @@ G44.2 긴장형두통
 긴장형두통은 스트레스·근육 긴장·수면 부족이 주된 원인이며, 생활 습관 개선과 적절한 진통제 사용으로 대부분 잘 조절됩니다.
 {% endhint %}
 
-#### 긴장형두통이란 무엇인가요?
+#### <mark style="color:$primary;">긴장형두통이란 무엇인가요?</mark>
 
 * 머리 전체를 띠로 조이는 듯한 압박감이 느껴지는 두통으로, 두통 중 가장 흔한 형태입니다.
 * 보통 양쪽 머리에서 느껴지며, 오후에 심해지는 경우가 많습니다.
 * 구역·구토는 없으며, 운동으로 악화되지 않는 것이 특징입니다.
 
-#### 어떻게 치료하나요?
+#### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **급성기** : 이부프로펜(부루펜), 나프록센(낙센), 아세트아미노펜(타이레놀) 등 진통제를 복용합니다.
 * **만성형 예방** : 항우울제(에트라빌 등)를 취침 전 소량 복용하면 두통 발생 횟수를 줄이는 데 효과적입니다.
 * **비약물 치료**도 매우 중요합니다(아래 참조).
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **목·어깨 스트레칭** : 매일 아침·저녁 15분 이상 어깨와 목 스트레칭을 하십시오. 장시간 같은 자세로 앉아 있다면 30~40분마다 스트레칭을 해주세요.
 * **규칙적 생활** : 수면 시간과 식사 시간을 일정하게 유지하고, 아침을 거르지 마십시오.
@@ -324,7 +324,7 @@ G44.2 긴장형두통
 * **운동** : 규칙적인 유산소 운동(주 4~6회)이 만성 긴장형두통 예방에 효과적입니다.
 * **스트레스 관리** : 이완 요법, 명상, 산책 등이 두통 예방에 도움이 됩니다.
 
-#### 진통제 복용 시 꼭 지켜주세요
+#### <mark style="color:$primary;">진통제 복용 시 꼭 지켜주세요</mark>
 
 * 진통제는 **한 달 15일(복합제는 10일) 이내**로 사용하십시오.
 * 자주 먹어야 할 정도라면 예방 치료가 필요한 상태일 수 있으니 의사와 상의하십시오.

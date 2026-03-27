@@ -1,6 +1,6 @@
-# <mark style="color:green;">객혈 Hemoptysis</mark>
+# 객혈 Hemoptysis
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 점액농성 또는 화농성 가래에 소량의 혈액이 줄무늬 또는 점상으로 묻어 나옴
 * 기관지 점막의 자극 또는 손상
@@ -30,7 +30,7 @@
 **기도 폐쇄(Asphyxia) 위험 — 즉각 대응** 소량의 객혈이라도 기도를 막으면 질식사 가능. 호흡 곤란·호흡음 감소·산소포화도 저하가 있으면 즉시 기도 확보 및 응급 의뢰
 {% endhint %}
 
-## <mark style="color:orange;">원인 및 감별</mark>
+## <mark style="color:green;">원인 및 감별</mark>
 
 * 심한 기침 : 보통 blood-streaked sputum
 * 상기도 (비인두) 출혈 : 코피, 구강 또는 인후부 출혈
@@ -51,13 +51,13 @@
 * 위장관 출혈 : 구역/구토, 위장/식도 질환력, NSAID 장기 복용, 흑색 변, 알코올 남용
 * 종양 : 흡연력, 체중 감소
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$primary;">객혈 vs 토혈 vs 비출혈 감별</mark>
+### <mark style="color:orange;">객혈 vs 토혈 vs 비출혈 감별</mark>
 
 <table><thead><tr><th width="112.94735717773438"></th><th>객혈</th><th>토혈</th><th>비출혈(Pseudohemoptysis)</th></tr></thead><tbody><tr><td>선행 증상</td><td>기침</td><td>구역/구토</td><td>비충혈, 후비루</td></tr><tr><td>색깔</td><td>선홍색 또는 분홍색</td><td>암적색 또는 커피색</td><td>선홍색 (코피와 동일)</td></tr><tr><td>성상</td><td>거품 있음, 액체 or clot</td><td>음식 잔류물 혼재 가능</td><td>거품 없음, 인두 타고 넘어옴</td></tr><tr><td>pH</td><td>알칼리성</td><td>산성</td><td>—</td></tr><tr><td>기저 질환</td><td>폐/심장 질환</td><td>위장/식도 질환</td><td>비염, 비중격 질환</td></tr><tr><td>이후 증상</td><td>혈성 가래 지속 가능</td><td>흑색 변 동반 가능</td><td>비강 검진 시 출혈원 확인</td></tr></tbody></table>
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * 흉부 X선, CBC : 초기 진단 검사
 * 흉부 CT : 다음 중 하나라도 해당하면 시행
@@ -75,7 +75,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:orange;">응급 관리</mark>
+## <mark style="color:green;">응급 관리</mark>
 
 * 앉은 자세 유지; 출혈 부위가 알려진 경우 출혈 측을 아래로 하는 체위(건측 폐 보호)
 * 산소 공급 : 목표 SpO₂ ≥94%
@@ -90,7 +90,7 @@
   * Tranexamic acid 흡입 : 500 mg in 5 mL NS, nebulizer (일부 연구에서 지혈 효과 보고)
 * 소량 객혈, 안정적 환자 : 원인 파악 후 외래 추적
 
-### <mark style="color:$primary;">위험도 분류 및 처치 방향 \[BTS 2020]</mark>
+### <mark style="color:orange;">위험도 분류 및 처치 방향 \[BTS 2020]</mark>
 
 | 위험도 | 기준 | 처치 |
 |---|---|---|
@@ -100,7 +100,7 @@
 
 _<mark style="color:$info;">Ref. Radchenko C et al. British Thoracic Society Guideline for the investigation and management of haemoptysis. Thorax. 2020;75(Suppl 2):2–17.</mark>_
 
-### <mark style="color:$primary;">전원 기준</mark>
+### <mark style="color:orange;">전원 기준</mark>
 
 다음 중 하나라도 해당하면 기관지 내시경 및 기관지동맥색전술(BAE)이 가능한 상급 종합병원으로 전원:
 
@@ -125,20 +125,20 @@ R04.2 객혈
 대부분의 소량 객혈은 심각하지 않지만, 원인 파악이 우선입니다. 당황하지 말고 차분히 대처하십시오.
 {% endhint %}
 
-#### 객혈이란 무엇인가요?
+#### <mark style="color:$primary;">객혈이란 무엇인가요?</mark>
 
 * 기침할 때 피가 섞여 나오거나 피 자체를 뱉는 것을 객혈이라 합니다
 * 원인은 기관지염·폐렴 같은 흔한 감염부터 결핵, 기관지 확장증, 드물게 폐암까지 다양합니다
 * 소화관 출혈(위·식도)이나 코·구강 출혈과 혼동될 수 있으므로, 출혈 부위를 의사에게 정확히 설명하는 것이 중요합니다
 
-#### 객혈 시 이렇게 하세요
+#### <mark style="color:$primary;">객혈 시 이렇게 하세요</mark>
 
 * **안정** : 눕기보다 앉은 자세가 기도 유지에 유리합니다
 * **기록** : 객혈량(티스푼·밥숟갈 단위 어림), 색(선홍색·갈색), 동반 증상(발열·기침·흉통)을 기억해 두십시오
 * **혈액 희석 금지** : 물이나 음료를 과도하게 마시지 마십시오
 * **임의 약물 복용 금지** : 지혈제, 진해제를 의사 처방 없이 임의로 복용하지 마십시오
 
-#### 이럴 때는 즉시 119를 부르거나 응급실로 가세요
+#### <mark style="color:$primary;">이럴 때는 즉시 119를 부르거나 응급실로 가세요</mark>
 
 * 한 번에 밥숟갈 이상의 많은 양의 피가 나오는 경우
 * 피가 계속 멈추지 않거나 숨쉬기 힘든 경우

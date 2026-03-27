@@ -1,6 +1,6 @@
-# <mark style="color:green;">발열 Fever</mark>
+# 발열 Fever
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 중심 체온- 36.5\~37.5℃; 평균 구강 체온(18\~40세)- 36.8±0.4℃
 * 겨드랑이 ＜ 구강 ＜ 직장 체온 : 각각 0.5℃ 차이
@@ -13,7 +13,7 @@
 * 다음의 경우 감염이 되어도 열이 나지 않을 수 있음 : 신생아, 노인, 만성 간/신부전, steroid 투여
 * 월경을 하는 여성은 배란 전 2주 동안 오전 체온이 낮아지고 배란과 함께 0.6℃ 상승하여 월경 시작 때까지 유지됨
 
-### <mark style="color:$primary;">발열 용어</mark>
+### <mark style="color:orange;">발열 용어</mark>
 
 * 발열 : 일상적 변화 이상의 체온 상승; 통상 고막 체온계로(adjusted mode) ＞38℃
   * hyperpyrexia : ＞41.5℃; 주로 CNS 이상에 의하며, 감염에 의한 경우는 드묾
@@ -26,12 +26,12 @@
 * biphasic fever : 한 질환에서 두 번의 발열 기간; 황열, 뎅기열, enterovirus, leptospirosis
 * periodic fever : 규칙적인 주기가 있는 발열; PFAPA syndrome (☞ p.264)
 
-### <mark style="color:$primary;">발열의 영향</mark>
+### <mark style="color:orange;">발열의 영향</mark>
 
 * 위해 : 열이 O<sub>2</sub> 소모량/CO<sub>2</sub> 발생량/심박출량을 증가시킴; 현저하게 높은 체온은 빈혈, 심/폐질환, 대사 질환(예: 당뇨병) 등 만성 질환의 상태를 악화시킬 수 있음
 * 이익 : 열이 병균의 증식을 낮추며 신체 면역 반응을 증가시킨다는 실험실 연구가 있음; 임상적 입증은 부족함
 
-### <mark style="color:$primary;">발열 치료에 대한 논란</mark>
+### <mark style="color:orange;">발열 치료에 대한 논란</mark>
 
 * 1회성의 돌발적인 발열은 유의미한 감염 질환과 관련 없음
 * 고열이 특발성 간질 환자에서 발작 빈도를 증가시킬 수 있으나 뇌 손상을 초래한다는 근거는 없음
@@ -61,7 +61,7 @@
 * 진드기 물린 병력 또는 야외활동 후 발열
 * 예상과 다르게 지속되는 열
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 감염
   * 바이러스 감염 : 급성 발열의 가장 흔한 원인; 보통 일주일에 걸쳐 서서히 하강하여 자연 회복
@@ -70,18 +70,18 @@
 * 자가면역/자가 염증 반응
 * 더운 환경(더운 날씨, 지나친 난방, 두꺼운 의복), 탈수열
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * 진찰 소견으로 감별하며, 의심되는 질환에 대한 진단 검사를 고려
 * 발열의 원인이 감별되지 않는 경우에는 의뢰를 고려
 
-### <mark style="color:$primary;">증상/병력에 따른 감별</mark>
+### <mark style="color:orange;">증상/병력에 따른 감별</mark>
 
 <figure><img src="../.gitbook/assets/발열2.JPG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/발열3.JPG" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:orange;">불명열 (Fever of Unknown Origin)</mark>
+## <mark style="color:green;">불명열 (Fever of Unknown Origin)</mark>
 
 <table><thead><tr><th width="94.631591796875"></th><th>고전적 불명열 (Classic)</th><th>병원성 불명열 (Nosocomial; Healthcare-associated)</th></tr></thead><tbody><tr><td><strong>정의</strong></td><td>체온 ≥38.3℃, 기간 ≥3주, ≥3회 외래 방문 또는 입원 3일 후에도 원인 불명</td><td>체온 ≥38.3℃, 기간 >3일, 입원 당시 발열 상태 또는 당시 잠복기 아님</td></tr><tr><td><strong>환자 위치</strong></td><td>지역 사회, 병원</td><td>급성 질환을 다루는 병원</td></tr><tr><td><strong>흔한 원인</strong></td><td>감염, 염증, 악성 종양, 인위적/습관성 고열(factitious fever)</td><td>원내 감염, 수술 후 합병증, drug fever</td></tr><tr><td><strong>병력</strong></td><td>여행, 접촉, 동물/벌레 노출, 약물, 예방접종, 가족력, 심장 판막 이상</td><td>수술, 시술, 장치 삽입, 해부학적 이상, 약물</td></tr></tbody></table>
 
@@ -89,13 +89,13 @@
 **참고 — 고전적 불명열의 진단 기준 변화** 전통적 정의(Petersdorf & Beeson, 1961)는 '≥3주, ≥3회 외래 또는 입원 3일 후 원인 불명'이나, 진단 기술의 발달(CT, PET-CT, 차세대 염기서열 분석 등)로 인해 최근에는 **1주간의 집중 입원 검사 후에도 원인 불명**인 경우를 대안적 기준으로 제시하는 경향이 있음. 임상에서는 전통적 3주 기준에 구애받지 않고 조기에 정밀 검사(영상, 배양, 자가면역 패널 등)를 적극 고려하는 것이 현실적임.
 {% endhint %}
 
-#### 원인
+#### <mark style="color:$primary;">원인</mark>
 
 * 특별하지 않은 상태의 비특이적 증상인 경우가 가장 흔함
 * 감염(30%) : 복부/골반 농양, 간염, 카테터 감염, 치아 농양, 심막염, Mycobacterium 감염, 골수염, 신질환, 부비동염, 상처 감염
 * 종양(18%), 교원혈관병(12%; RA, SLE), 기타(14%; drug fever 포함), 미상(7\~30%)
 
-#### 검사
+#### <mark style="color:$primary;">검사</mark>
 
 * 혈액 검사 : ESR, CRP, RF, CPK, ANA, protein electrophoresis, lactate dehydrogenase, Tb test, HIV, 배양 검사
 * 소변 : U/A, 배양 검사
@@ -103,14 +103,14 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 원인에 따른 치료 시행
 * 시험적 치료 : 불가피한 경우 임상적 증거에 기초하여 시험적 치료 시행
 * 해열제 : 발작 병력이 있는 소아 또는 열 때문에 힘들어 하는 환자에 대하여 투여 고려
 * 소위 shotgun approach(불필요한 경험적 다제 투여)는 증상/징후를 모호하게 하여 진단을 어렵게 하고 의도하지 않은 문제를 일으킬 수 있으므로 삼가야 함
 
-## <mark style="color:orange;">비-약물 해열 치료</mark>
+## <mark style="color:green;">비-약물 해열 치료</mark>
 
 * 수분 섭취를 늘림
 * 젖은 스펀지로 닦아 주거나 알코올을 사용하는 것은 권하지 않음
@@ -118,7 +118,7 @@
 * Cold water immersion : 찬물에 몸을 담그면 말초혈관 수축(peripheral vasoconstriction)이 발생할 수 있다는 주장이 있으나 신체를 냉각시키는 전도 및 대류 작용에 비하여 의미 있는 수준은 아니라는 반론도 있음; 고열을 낮추기 위하여 주의하여 적용 고려
 * 옷을 벗기거나 더 많이 감싸는 것 모두 권하지 않음
 
-## <mark style="color:orange;">약물 해열 치료</mark>
+## <mark style="color:green;">약물 해열 치료</mark>
 
 * NSAID(예: ibuprofen), acetaminophen
 * 정상 체온 상태에서는 NSAID나 aspirin의 PGE2에 대한 작용이 없기 때문에 열이 없는 상태에서 관절염 등의 치료를 위한 이들 약제 투여로 정상 체온이 더 낮아지지는 않음
@@ -127,19 +127,19 @@
   * 두 가지 약제의 동시 투여에 의한 추가 효과는 입증되지 않음
 * NSAID들의 병용 투여는 추가 효과가 없으며 부작용이 증가하므로 피함
 
-#### Acetaminophen
+#### <mark style="color:$primary;">Acetaminophen</mark>
 
 * 성인 : 650\~1,000 ㎎ q6hr; 최대 3 g/d(간/신 장애 시 2 g/d) \[타이레놀]
 * 소아 : 10\~15 ㎎/㎏ q4\~6hr, 최대 5회/d; ≥3개월 연령 허가
   * \[세토펜 현탁액]\(32 ㎎/㎖. 0.4 ㎖/㎏ qid 또는 1.5\~2 ㎖/㎏/d #4)
 
-#### Ibuprofen
+#### <mark style="color:$primary;">Ibuprofen</mark>
 
 * 성인 : 400 ㎎ q6hr \[부루펜]
 * 소아 : 5\~10 ㎎/㎏ q6\~8hr, 최대 40 ㎎/㎏/d; ≥6개월 연령 허가
   * \[부루펜 시럽]\(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
 
-#### Aspirin
+#### <mark style="color:$primary;">Aspirin</mark>
 
 * 용법 : 325\~650 ㎎ q6hr \[로날]
 * 소아 사용 금지(라이 증후군 위험)
@@ -183,20 +183,20 @@ R50 기타 및 원인 미상의 열
 열은 몸이 감염과 싸우고 있다는 신호입니다. 적절히 관리하면 대부분 안전하게 회복됩니다.
 {% endhint %}
 
-#### 발열이란 무엇인가요?
+#### <mark style="color:$primary;">발열이란 무엇인가요?</mark>
 
 * 체온이 **38℃ 이상**이면 발열로 정의합니다
 * 대부분의 발열은 바이러스·세균 감염에 의한 면역 반응으로, 몸이 스스로 병원균과 싸우는 과정입니다
 * 열 자체가 위험한 경우는 드물며, 원인 질환의 치료가 우선입니다
 
-#### 가정에서 이렇게 하세요
+#### <mark style="color:$primary;">가정에서 이렇게 하세요</mark>
 
 * **충분한 수분 보충** : 열이 나면 수분이 빠르게 손실됩니다. 물, 이온 음료, 죽 등을 자주 드십시오
 * **얇은 옷과 편안한 환경** : 두꺼운 이불로 땀을 내려 하면 오히려 열이 오를 수 있습니다. 시원하고 편안하게 유지하십시오
 * **미온수 찜질** : 해열제 복용 후에도 열이 높다면 미온수(30\~35℃)로 팔·다리를 닦아 주면 도움이 됩니다. 차가운 물이나 알코올 찜질은 피하십시오
 * **체온 측정** : 해열제 복용 후 30\~60분 뒤 체온을 다시 측정하여 효과를 확인하십시오
 
-#### 이럴 때는 즉시 병원을 방문하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 생후 3개월 미만 영아에서 발열이 생긴 경우 — **즉시 응급실**
 * 체온이 40℃ 이상이고 해열제에 반응하지 않는 경우

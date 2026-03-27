@@ -1,6 +1,6 @@
-# <mark style="color:green;">흉통 Chest Pain</mark>
+# 흉통 Chest Pain
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 흉통의 정의 : 가슴의 통증 뿐 아니라 가슴, 어깨, 팔, 목, 상복부, 턱의 압박감, 조임, 무거움, 작열감을 포함(2021 AHA/ACC)
   * 특히 고령자, 당뇨병 환자, 여성에서는 통증 대신 호흡곤란, 실신, 메스꺼움, 심한 피로감 등 '협심증 동등 증상(Anginal equivalents)'으로 나타날 수 있음
@@ -33,14 +33,14 @@
 * 위장 출혈 동반 (소화관 출혈·대동맥장누공 가능성)
 * 설명할 수 없는 체중 감소 (악성 종양·만성 중증 질환 시사)
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
-### <mark style="color:$primary;">Cardiac (심장성)</mark>
+### <mark style="color:orange;">Cardiac (심장성)</mark>
 
 * 심장 허혈 또는 심장 구조에서 직접 기인하는 흉통
 * 흉통 전체의 약 15% 차지
 
-#### 허혈성
+#### <mark style="color:$primary;">허혈성</mark>
 
 * ACS(불안정 협심증, NSTEMI, STEMI)
 * 안정 협심증
@@ -48,7 +48,7 @@
 * INOCA(Ischemia with Non-Obstructive Coronary Arteries) : 미세혈관 기능장애, 관상동맥 내피기능 이상
 * 대동맥판 협착증, 비후성 심근병증에 의한 허혈
 
-#### 비허혈성 심장성
+#### <mark style="color:$primary;">비허혈성 심장성</mark>
 
 * 급성 대동맥 증후군(대동맥박리, 대동맥류, 벽내혈종)
 * 심막염 / 심근염 / 심근심막염
@@ -56,7 +56,7 @@
 * 판막질환(승모판 탈출증, 대동맥판 역류 등)
 * Takotsubo 심근병증
 
-### <mark style="color:$primary;">Possible Cardiac (심장성 가능)</mark>
+### <mark style="color:orange;">Possible Cardiac (심장성 가능)</mark>
 
 * 심장 기원 가능성을 완전히 배제할 수 없는 상태. 추가 평가 필요
 * 흉통 특성이나 위험 인자가 허혈성이지만 검사에서 확인되지 않은 경우
@@ -64,7 +64,7 @@
 * 비특이적 ECG 변화 동반 흉통
 * 심장 외 원인이 확인되기 전까지의 미분류 흉통
 
-### <mark style="color:$primary;">Noncardiac (비심장성)</mark>
+### <mark style="color:orange;">Noncardiac (비심장성)</mark>
 
 * 심장 질환이 의심되지 않는 흉통
 * 근골격 (\~50%) : 늑연골염, Tietze 증후군, 늑골 골절, 신경근병증, 섬유근통
@@ -72,13 +72,13 @@
 * 호흡기 : 기흉, 흉막염, 폐렴, 폐암
 * 기타 : 공황장애, 불안장애, 대상포진
 
-## <mark style="color:orange;">검사</mark>
+## <mark style="color:green;">검사</mark>
 
 * 진찰, vital sign(pulse oximetry 포함), 병력 청취
 * 12-lead ECG : 심장 허혈이 의심되는 모든 환자에서 시행; 증상 발생 또는 내원 후 10분 이내 시행 및 판독 권고 (2021 AHA/ACC, Class I)
 * 영상 검사 : 흉부 X선, 심초음파, CCTA(관상동맥 CT 혈관조영술), nuclear heart scanning, heart catheterization, treadmill
 
-#### 실험실 검사 (심장 기원 평가)
+#### <mark style="color:$primary;">실험실 검사 (심장 기원 평가)</mark>
 
 * 검사 항목 : CBC, 고감도 심장 트로포닌 (hs-cTn), CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
 * hs-cTn
@@ -87,13 +87,13 @@
   * 초기값이 검출 한계(LoD) 미만 또는 assay별 rule-out cut-off 이하이면 NSTEMI 배제 가능(rule-out); 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 절대 변화량(Δ, absolute change)으로 판단 — 이를 ESC 신속 배제·확진 프로토콜(0/1h 또는 0/3h)이라 함
   * 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
 
-#### 영상 검사 선택 전략 (2021 AHA/ACC 권고)
+#### <mark style="color:$primary;">영상 검사 선택 전략 (2021 AHA/ACC 권고)</mark>
 
 <table><thead><tr><th width="319">임상 상황</th><th width="242.26318359375">권고 검사</th><th width="94.329833984375">권고 등급</th></tr></thead><tbody><tr><td>중등도 위험 급성 흉통, CAD 기왕력(-)</td><td>CCTA(1차) or stress imaging*</td><td>Class I</td></tr><tr><td>중등도-고위험 안정형 흉통, CAD 기왕력 (-)</td><td>CCTA or stress imaging</td><td>Class I</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력 (-)</td><td>CAC score or 운동부하검사</td><td>Class IIa</td></tr><tr><td>고위험 / ACS 의심</td><td>침습적 관상동맥 조영술</td><td>Class I</td></tr><tr><td>CCTA에서 협착 확인 또는 판정 불가</td><td>FFR-CT (혈류예비분획-CT)</td><td>Class IIa</td></tr></tbody></table>
 
 _\*65세 미만에서 CCTA 선호_
 
-## <mark style="color:orange;">심장 기원 흉통</mark>
+## <mark style="color:green;">심장 기원 흉통</mark>
 
 **Myocardial ischemia**
 
@@ -111,38 +111,38 @@ _\*65세 미만에서 CCTA 선호_
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis & Pericarditis Guidelines, 2025 ACC/AHA ACS Guideline</mark>_
 
-#### 급성 심근경색 가능성
+#### <mark style="color:$primary;">급성 심근경색 가능성</mark>
 
 * 가능성 높음 : 활동과 관련, 어깨 및 팔 방사통, 발한, 구역/구토, 압박감, 과거에 경험했던 심근경색 증상과 유사하거나 더 심함
 * 가능성 낮음 : 압박에 의해 재현됨, 예리한 느낌, 위치가 명확, 흉막 통증 느낌, 통증 부위 감염(연조직염, 대상포진 등)
 * 여성에서의 비전형적 ACS 증상 : 여성은 전형적인 흉부 압박감 외에 다음 증상이 더 흔하게 나타남; 어지럼증, 실신, 오심, 구토, 턱·등 통증, 호흡곤란, 견갑골 사이 통증, 두근거림, 피로; 이러한 비전형 증상만 있어도 ACS를 배제하지 않도록 주의(2023 ESC)
 
-#### 허혈성 심질환의 전형적인 흉통
+#### <mark style="color:$primary;">허혈성 심질환의 전형적인 흉통</mark>
 
 * 징후 : ① 특징적인 증상 및 증상 발생 기간 동안 흉골 뒤 통증, ② 운동 또는 정신적 스트레스에 의해 유발, ③ nitroglycerin에 의해 30초\~수 분 내 호전(통증은 20분 이상 지속될 수 있음)
 *   판정 : 3가지 모두 해당 시 전형적 허혈성 심질환 흉통, 2가지 해당 시 비전형적 흉통, ≤1가지 해당 시 심장 외 요인에 의한
 
     흉통
 
-### <mark style="color:$primary;">위험도 평가 툴</mark>
+### <mark style="color:orange;">위험도 평가 툴</mark>
 
 *   외래/일차의료 → MHS, INTERCHEST 같은 도구가 적합
 
     응급실/일차진료 → HEART Score + hs-troponin 기반 CDP
 
-#### Marburg Heart Score (coronary artery disease predictive value)
+#### <mark style="color:$primary;">Marburg Heart Score (coronary artery disease predictive value)</mark>
 
 <table><thead><tr><th width="359.52630615234375">소견</th><th width="82.803466796875">배점</th></tr></thead><tbody><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>1</td></tr><tr><td>CAD, 뇌혈관 질환 또는 말초혈관 질환 병력</td><td>1</td></tr><tr><td>압박에 의해 통증 재현 안 됨</td><td>1</td></tr><tr><td>운동 시 통증 악화</td><td>1</td></tr><tr><td>환자 스스로 심장에 의한 통증으로 생각함</td><td>1</td></tr></tbody></table>
 
 ▶CAD predictive : 0\~1점=0.6% (저위험), 2\~3점=12.1%(중등위험), 4\~5점=62.7%(고위험) ☞ [계산기](https://www.mdcalc.com/calc/4022/marburg-heart-score-mhs)
 
-#### INTERCHEST Rule (coronary artery disease predictive value)
+#### <mark style="color:$primary;">INTERCHEST Rule (coronary artery disease predictive value)</mark>
 
 <table><thead><tr><th width="359.52630615234375">소견</th><th width="90.171875">배점</th></tr></thead><tbody><tr><td>흉벽 압박으로 통증 재현</td><td>-1</td></tr><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>+1</td></tr><tr><td>의료진이 처음에 심각한 상태를 의심</td><td>+1</td></tr><tr><td>흉부 압박 느낌의 불편감</td><td>+1</td></tr><tr><td>운동 (effort)과 관련된 흉통</td><td>+1</td></tr><tr><td>CAD, 뇌혈관 질환 또는 말초혈관 질환 병력</td><td>+1</td></tr></tbody></table>
 
 ▶CAD predictive : ≤1점=저위험(\~2%), 2점=중등위험, ≥3점=고위험(\~43%) ☞ [계산기](https://www.mdcalc.com/calc/10225/interchest-clinical-prediction-rule-chest-pain-primary-care)
 
-#### HEART Score (ACS 위험도)
+#### <mark style="color:$primary;">HEART Score (ACS 위험도)</mark>
 
 * History, ECG, Age, Risk factors, Troponin 5개 항목, 각 0–2점, 총 0–10점
 * ACS 단기 예후(6주 내 MACE) 예측 도구; AHA 권고 scoring tool
@@ -151,26 +151,26 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ▶판정 : 0\~3점 = 저위험(6주 MACE \~2%, 퇴원 고려), 4\~6점 = 중등위험(입원·추가 검사), 7\~10점 = 고위험(적극적 처치); 저위험이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단 ☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
 
-### <mark style="color:$primary;">Acute Coronary Syndrome (ACS)</mark>
+### <mark style="color:orange;">Acute Coronary Syndrome (ACS)</mark>
 
 * 급성 심근 허혈로 인한 일련의 임상증후군
 * 분류 : unstable angina, ST elevation MI (STEMI), non–ST segment elevation MI (NSTEMI)
 * ACS 초기 평가의 핵심 원칙: **A**bnormal ECG(즉각 ECG 시행) → **C**linical context(임상 맥락 및 검사 결과 종합) → **S**table(혈역학적 안정 여부 확인).
 * ACS 의심 ECG 소견 : ST elevation, new-onset LBBB, Q wave 존재, new T-wave inversions
 
-## <mark style="color:orange;">폐 기원 흉통</mark>
+## <mark style="color:green;">폐 기원 흉통</mark>
 
 <table><thead><tr><th width="139.42108154296875"></th><th width="106.89471435546875">시작 / 기간</th><th width="138.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
 
-#### Wells Score (폐색전증 가능성 평가)
+#### <mark style="color:$primary;">Wells Score (폐색전증 가능성 평가)</mark>
 
 <table><thead><tr><th width="359.5263671875">소견</th><th width="90.17181396484375">배점</th></tr></thead><tbody><tr><td>DVT 증상: 통증, red or discolored, warmth</td><td>3</td></tr><tr><td>증상에 대한 다른 적당한 진단이 없음</td><td>3</td></tr><tr><td>빈맥 ＞100/분</td><td>1.5</td></tr><tr><td>≥3일 비활동 또는 최근 4주 내 수술</td><td>1.5</td></tr><tr><td>DVT 또는 폐색전증 진단 과거력</td><td>1.5</td></tr><tr><td>객혈 (+)</td><td>1</td></tr><tr><td>6개월 내 치료 또는 완화 상태의 악성 종양 (+)</td><td>1</td></tr></tbody></table>
 
 ▶판정 : 폐색전증 가능성 : ＞6점=가능성 높음, 2\~6점=중등도, ＜2점=낮음 ☞ [계산기](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
 
-#### PERC Rule for Pulmonary Embolism (PE 배제)
+#### <mark style="color:$primary;">PERC Rule for Pulmonary Embolism (PE 배제)</mark>
 
 Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충족하면 D-dimer 검사 없이 PE 배제 가능:
 
@@ -178,9 +178,9 @@ Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충
 
 ▶ 8가지 모두 해당 시 PE 가능성 약 1% 미만 → 추가 검사 불필요 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 
-## <mark style="color:orange;">비-심폐 기원 흉통</mark>
+## <mark style="color:green;">비-심폐 기원 흉통</mark>
 
-### <mark style="color:$primary;">식도 기원 흉통의 특징</mark>
+### <mark style="color:orange;">식도 기원 흉통의 특징</mark>
 
 * 음식물 삼킴에 의해 통증 유발
 * 자세 변화에 의해 통증 유발
@@ -192,15 +192,15 @@ Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충
 * 가슴쓰림, 구강으로의 위산 역류와 관련된 통증
 * 제산제에 의해 증상 완화
 
-### <mark style="color:$primary;">근골격 기원 흉통의 특징</mark>
+### <mark style="color:orange;">근골격 기원 흉통의 특징</mark>
 
-#### 근골격 원인에 의한 증상 특징
+#### <mark style="color:$primary;">근골격 원인에 의한 증상 특징</mark>
 
 * squeezing 또는 oppressive 통증이 아님
 * 국소 압통; 압박으로 증상이 재현됨
 * 자세 또는 움직임에 의해 영향 받음
 
-#### 질환별 특징
+#### <mark style="color:$primary;">질환별 특징</mark>
 
 * Costosternal syndrome (Costochondritis) : 보통 upper costochondral/costosternal junction 부위의 늑연골 압통, 여러 부위 압통; 부종 없음
 * Tietze's syndrome : sternoclavicular, costosternal, costochondral joint의 비화농성 국소 통증성 부종; 대부분 2번째 및 3번째 늑골 관절에서 발생
@@ -215,7 +215,7 @@ Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
 
-### <mark style="color:$primary;">흉통 환자의 평가</mark>
+### <mark style="color:orange;">흉통 환자의 평가</mark>
 
 <figure><img src="../.gitbook/assets/fig 7.png" alt=""><figcaption><p><strong>Patient-Centric Algorithms for Acute Chest Pain</strong><br>ECG=electrocardiogram, STEMI=ST-segment–elevation myocardial infarction.<br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</em></p></figcaption></figure>
 
@@ -231,13 +231,13 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 <figure><img src="../.gitbook/assets/Fig 13.png" alt=""><figcaption><p><strong>Clinical Decision Pathway for Patients With Stable Chest Pain (or Equivalent) Symptoms With Prior MI, Prior Revascularization, or Known CAD on Invasive Coronary Angiography or CCTA, Including Those With Nonobstructive CAD</strong><br>Test choice should be guided by local availability and expertise.<br>*Known CAD means prior MI, revascularization, known obstructive CAD, nonobstructive CAD.<br>†High-risk CAD means left main stenosis ≥50%; or obstructive CAD with FFR-CT ≤0.80.<br>‡Test choice guided by the patient’s exercise capacity, resting electrocardiographic abnormalities.<br>§Patients with prior CABG or stents >3.0 mm. Follow-up Testing and Intensification of GDMT Guided by Initial Test Results and Persistence / Worsening / Frequency of Symptoms and Shared Decision Making.<br><em>CABG=coronary artery bypass graft, ICA=invasive coronary angiography, iFR=instant wave-free ratio, MPI=myocardial perfusion imaging, SIHD=stable ischemic heart disease</em><br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 13</em></p></figcaption></figure>
 
-### <mark style="color:$primary;">증상/병력에 따른 감별</mark>
+### <mark style="color:orange;">증상/병력에 따른 감별</mark>
 
-#### 급성 흉통
+#### <mark style="color:$primary;">급성 흉통</mark>
 
 <div align="left"><figure><img src="../.gitbook/assets/흉통10.JPG" alt=""><figcaption></figcaption></figure></div>
 
-#### 만성 흉통
+#### <mark style="color:$primary;">만성 흉통</mark>
 
 <div align="left"><figure><img src="../.gitbook/assets/흉통11.JPG" alt=""><figcaption></figcaption></figure></div>
 
@@ -277,13 +277,13 @@ R07.4 상세불명의 흉통
 흉통의 원인은 매우 다양하며, 일부는 생명을 위협할 수 있어 신속한 평가가 중요합니다.
 {% endhint %}
 
-#### 흉통이란 무엇인가요?
+#### <mark style="color:$primary;">흉통이란 무엇인가요?</mark>
 
 * 가슴 부위에 느끼는 통증, 압박감, 조임, 타는 듯한 느낌을 포함합니다
 * 원인은 심장(협심증, 심근경색), 폐(폐색전증, 기흉), 소화기(역류성 식도염, 위경련), 근골격계, 불안 등 다양합니다
 * 심장 원인 흉통은 생명과 직결될 수 있으므로 즉각적인 평가가 필요합니다
 
-#### 이럴 때는 즉시 119를 부르거나 응급실로 가세요
+#### <mark style="color:$primary;">이럴 때는 즉시 119를 부르거나 응급실로 가세요</mark>
 
 * 가슴을 쥐어짜거나 압박하는 듯한 통증이 왼쪽 팔·턱·등으로 퍼지는 경우
 * 흉통과 함께 식은땀, 구역, 극심한 피로감이 동반되는 경우
@@ -291,13 +291,13 @@ R07.4 상세불명의 흉통
 * 안정 시에도 흉통이 지속되거나 점점 심해지는 경우
 * 이전에 협심증을 진단받은 분이 니트로글리세린 3정 투여 후에도 흉통이 지속되는 경우
 
-#### 흉통 시 이렇게 하세요
+#### <mark style="color:$primary;">흉통 시 이렇게 하세요</mark>
 
 * **즉시 안정** : 활동을 멈추고 편안한 자세로 쉬십시오
 * **니트로글리세린** : 협심증을 진단받은 분은 설하정 1정을 혀 아래에 놓고 녹이십시오. 5분 후에도 지속되면 추가 복용 가능하며, 3정 후에도 지속 시 즉시 119를 부르십시오
 * **아스피린** : 심근경색이 의심되면 씹어서 복용하면 도움이 됩니다 (아스피린 알레르기 또는 금기가 없는 경우). 단, 의사 지시 없이 임의 복용은 피하십시오
 
-#### 비심장성 흉통(역류성 식도염 등)의 관리
+#### <mark style="color:$primary;">비심장성 흉통(역류성 식도염 등)의 관리</mark>
 
 * 과식·야식·기름진 음식·카페인·음주를 줄이십시오
 * 식후 바로 눕지 말고 최소 2\~3시간 후에 누우십시오

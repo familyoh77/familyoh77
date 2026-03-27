@@ -1,6 +1,6 @@
-# <mark style="color:green;">딸꾹질 Hiccups, Singultus</mark>
+# 딸꾹질 Hiccups, Singultus
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 횡격막 등 흡기 근육의 갑작스런 반복적인 불수의적 수축과 glottis의 급속한 폐쇄에 따른 흡기의 멈춤으로 인하여 발성 기관의 상부에서 특유의 소리가 발생하는 상태
 
@@ -21,13 +21,13 @@
 
 * 1개월 이상 지속되는 난치성 딸꾹질 (악성 종양, CNS 병변 등 체계적 검사 필요)
 
-### <mark style="color:$primary;">분류</mark>
+### <mark style="color:orange;">분류</mark>
 
 * 급성 딸꾹질 : 48시간 내 자연 회복; 대부분 이에 해당
 * 지속성(persistent 또는 protracted) 딸꾹질 : 48시간 이상 지속
 * 난치성(intractable) 딸꾹질 : 1개월 이상 지속
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 불명. 흔히 명백한 유발 요인 없이 발생
 * 과식, 탄산음료 등 위장 팽창을 일으키는 음식
@@ -35,7 +35,7 @@
 * 수면 중에도 지속되는 딸꾹질은 기질 질환 시사
 * 신경학적 증상(두통, 구역, 복시 등)이 동반되는 경우 뇌간 병변 의심
 
-### <mark style="color:$primary;">관련 인자</mark>
+### <mark style="color:orange;">관련 인자</mark>
 
 * 음주, 흡연
 * 빠른 식사, 과식, 매운 음식, 뜨거운 음료, 탄산음료
@@ -55,12 +55,12 @@
 **Dexamethasone 역설** 항암 화학요법 유발 오심 예방 목적으로 투여한 dexamethasone 자체가 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
 {% endhint %}
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * 신체 질환 유무 진찰
 * 급성 딸꾹질은 보통 검사 필요 없음; 48시간 이상 지속되는 경우 검사 고려
 
-### <mark style="color:$primary;">동반 증상별 추천 검사</mark>
+### <mark style="color:orange;">동반 증상별 추천 검사</mark>
 
 {% tabs %}
 {% tab title="흉부 증상 동반" %}
@@ -95,12 +95,12 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 원인이 발견되지 않는 경우 경험적 치료 시행
 * 1차적으로 비약물 물리적 치료 시행 → 실패 시 약물 치료
 
-## <mark style="color:orange;">비약물 치료</mark>
+## <mark style="color:green;">비약물 치료</mark>
 
 * 복부 팽만 회피 : 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함 (☞ p.1170)
 *   고탄산혈증, 미주신경/횡격막 자극 유도 : 숨 참기, 과호흡, 재채기, 종이봉투에 대고 숨쉬기, Valsalva maneuver,
@@ -146,34 +146,34 @@
 * 가는 NG tube를 비인두까지 삽입하여 물리적으로 미주신경 반사를 유도하는 방법
 * 난치성 딸꾹질에서 비약물 치료 중 가장 강력한 방법 중 하나
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 * 치료 약물에 대한 충분한 연구는 부족함
 * 근이완제, 항경련제, 항정신병제의 경우 졸음, 어지럼, 저혈압 등 부작용 주의
 * 치료 기간 : 7\~10일 (보험주의)
 
-#### 근이완제
+#### <mark style="color:$primary;">근이완제</mark>
 
 * 실질적 1차 선택; 부작용 프로파일 양호
 * 금기 : CNS 이상
 * baclofen : 5\~10 ㎎ tid \[바크론] ← 난치성 딸꾹질에서 근거가 가장 많음
 * cyclobenzaprine : 15\~30 ㎎ qd 서방형 \[본렉스 이알]
 
-#### 항경련제
+#### <mark style="color:$primary;">항경련제</mark>
 
 * 1차 대안, 특히 신경인성 원인
 * gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid \[뉴론틴] ← 장기 사용 시 의존성 주의
 * carbamazepine : 200 ㎎ tid\~qid \[테그레톨]
 * phenytoin : 200\~300 ㎎ hs \[히단토인]
 
-#### 항정신병제
+#### <mark style="color:$primary;">항정신병제</mark>
 
 * 2차 선택; FDA 승인 약물이지만 부작용으로 인하여후순위
 * chlorpromazine : 난치성 딸꾹질 유일한 FDA 승인 약물; 25\~50 ㎎ tid\~qid \[클로르프로마진]
   * 부작용 : 혈압, 과도한 진정, 추체외로 증상; 노인·저혈압 환자 주의
 * haloperidol : 초회 2\~5 ㎎ 후 1\~2 ㎎ tid \[페리돌]
 
-#### Benzodiazepine
+#### <mark style="color:$primary;">Benzodiazepine</mark>
 
 * 딸꾹질을 오히려 역설적으로 유발할 수 있음(paradoxical reaction)
 * 근이완 효과로 인해 노인 환자에서 흡인(aspiration) 위험 증가
@@ -182,17 +182,17 @@
 * diazepam 2\~5 ㎎ bid\~tid \[디아제팜]
 * lorazepam 0.5\~2 ㎎ qid \[아티반]
 
-#### 위장 운동 촉진제
+#### <mark style="color:$primary;">위장 운동 촉진제</mark>
 
 * metoclopramide : 5\~10 ㎎ tid\~qid \[맥페란]
 * domperidone : 10\~20 ㎎ tid \[모티리움 엠]
 
-#### PPI, 제산제
+#### <mark style="color:$primary;">PPI, 제산제</mark>
 
 * 위장관에서 hiccup center로의 자극 감소 효과 기대
 * omeprazole : 20\~40 ㎎/d \[오엠피]
 
-#### 기타
+#### <mark style="color:$primary;">기타</mark>
 
 * nefopam : 비마약성 진통제; 10 ㎎ IV \[아큐판]
 * viscous lidocaine : 구강 마취제; 2% 5 ㎖ tid
@@ -208,7 +208,7 @@
 * lorazepam 0.5\~2 ㎎ qid \[아티반]
 {% endhint %}
 
-### <mark style="color:$primary;">난치성 딸꾹질 — 전문과 의뢰</mark>
+### <mark style="color:orange;">난치성 딸꾹질 — 전문과 의뢰</mark>
 
 약물 치료로도 조절되지 않는 경우 다음을 고려하여 의뢰
 
@@ -273,13 +273,13 @@ R06.6 딸꾹질
 당황하지 말고 간단한 방법부터 시도해 보십시오.
 {% endhint %}
 
-#### 딸꾹질이란 무엇인가요?
+#### <mark style="color:$primary;">딸꾹질이란 무엇인가요?</mark>
 
 * 횡격막(가슴과 배 사이 근육)이 갑자기 수축하면서 성대가 닫혀 "딸꾹" 소리가 나는 현상입니다
 * 급하게 먹거나 마시기, 탄산음료, 과식, 급격한 온도 변화 등이 흔한 원인입니다
 * 대부분 48시간 이내 자연히 멈추며, 이를 넘어서 지속되면 기저 질환을 의심합니다
 
-#### 딸꾹질 멈추는 방법
+#### <mark style="color:$primary;">딸꾹질 멈추는 방법</mark>
 
 * **숨 참기** : 깊게 들이쉰 후 10\~20초간 숨을 참으십시오
 * **종이봉투 호흡** : 작은 종이봉투에 대고 천천히 들이쉬고 내쉬기를 반복하십시오 (비닐봉투는 사용하지 마십시오)
@@ -287,7 +287,7 @@ R06.6 딸꾹질
 * **설탕 한 숟갈** : 설탕을 혀 위에 얹고 천천히 녹이는 방법이 효과적인 경우가 있습니다
 * **무릎을 가슴 쪽으로 당기기** : 앉은 자세에서 무릎을 끌어안으면 횡격막 압박에 도움이 됩니다
 
-#### 이럴 때는 병원을 방문하세요
+#### <mark style="color:$primary;">이럴 때는 병원을 방문하세요</mark>
 
 * 딸꾹질이 48시간 이상 지속되는 경우
 * 수면을 방해할 정도로 심하거나 반복되는 경우

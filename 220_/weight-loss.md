@@ -1,6 +1,6 @@
-# <mark style="color:green;">체중 감소 Weight loss</mark>
+# 체중 감소 Weight loss
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 일반적 체중 변화 : 40\~50대까지 증가, 이후 10년에 1\~2 ㎏씩 점차 감소
 * 의도하지 않게 6(\~12)개월 내 평소 체중의 ≥5% 감소 시 유의미
@@ -24,7 +24,7 @@
 * 단백질·에너지 영양실조
 * 비의도적 체중 감소 (6개월 내 체중의 5% 이상)
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 암(연구에 따라 차이가 있으나 약 16\~30%) : 혈변, 연하곤란, 지속되는 기침, 혈뇨 등 동반
 * 위장 장애 (약 15%) : 잘 맞지 않는 틀니, 충치, 삼킴 장애, 흡수 장애, 췌장 부전
@@ -38,7 +38,7 @@
 * 비타민 결핍 증후군: 신경 증상, 피부 병변, 구내염 등 동반
 * 원인 미상: 검사에도 불구하고 약 ¼에서는 원인을 찾을 수 없음
 
-#### 체중 감소와 관련된 부작용이 있는 약물들
+#### <mark style="color:$primary;">체중 감소와 관련된 부작용이 있는 약물들</mark>
 
 * 미각/후각 변화 : allopurinol, 항생제, 항콜린제, 항히스타민제, ACEI, levodopa, CCB, propranolol, selegiline, spironolactone
 * 식욕 저하 : 항생제, 항경련제, 항정신병약, benzodiazepine, digoxin, levodopa, metformin, neuroleptics, opiates, SSRIs, theophylline, GLP-1 수용체 작용제(예: semaglutide, liraglutide)
@@ -47,11 +47,11 @@
 * 소화불량 : bisphosphonate, doxycycline, gold, iron, NSAID, potassium
 * 구역/구토 : 항생제, bisphosphonate, digoxin, dopamine agonist, metformin, statins, SSRIs, TCA
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * 체중 변화 경과, 약물 복용력, 신체검사
 
-#### 1단계 검사
+#### <mark style="color:$primary;">1단계 검사</mark>
 
 * 체중 변화 경과, 약물 복용력
 * 신체검사(특히 치아 문제), 정서/인지 문제 평가(예: 우울증, 치매)
@@ -59,7 +59,7 @@
 * 영상 검사 : 흉부 X선, 위내시경/UGI, 복부 초음파
 * 1단계 검사에서 특이점이 없는 경우 3\~6개월 관찰 고려; 증상 변화 시 즉시 재평가
 
-#### 2단계 검사
+#### <mark style="color:$primary;">2단계 검사</mark>
 
 * 1단계 검사에서 정상인 경우 고려
 * CT(흉부·복부·골반) : 원인 불명의 체중 감소에서 악성 종양 및 복강 내 병변 감별에 유용하며 임상에서 활용도가 증가하고 있음; 근거 수준은 아직 제한적
@@ -68,7 +68,7 @@
 
 ※ 국가 암검진 수검 여부 확인 및 미수검 항목 시행 권고 : 의도하지 않은 체중 감소가 있는 경우 검진 주기와 무관하게 해당 암종 검사를 적극 시행; 증상 기반의 추가 검사(예: 대장내시경, 흉부 CT)는 선별검진과 별도로 임상적 판단에 따라 결정
 
-#### 암 의심 조기 의뢰 기준 \[NICE 2023]
+#### <mark style="color:$primary;">암 의심 조기 의뢰 기준 \[NICE 2023]</mark>
 
 * 의도하지 않은 체중 감소가 다음 증상과 동반되는 경우 **2주 내 전문과 의뢰** 고려
 
@@ -85,7 +85,7 @@
 
 _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referral. NG12. 2023 update.</mark>_
 
-#### 고령 환자 문진 : 9 Ds
+#### <mark style="color:$primary;">고령 환자 문진 : 9 Ds</mark>
 
 고령(≥65세)의 의도하지 않은 체중 감소에서 원인을 빠뜨리지 않기 위한 체크 도구
 
@@ -93,7 +93,7 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 기저 질환 치료, 식사를 저해할 수 있는 약물 사용 중단
 * 식사 환경 개선 : 여유로운 식사, 즐거운 식사, 함께하는 식사
@@ -102,7 +102,7 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 * exercise training : 저항 운동, 유산소 운동
 * 약물 치료 고려
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 * 식욕 자극제 : steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine); 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
   * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) \[메게이스]
@@ -176,13 +176,13 @@ R63.4 이상체중감소
 6개월 내 5% 이상의 체중 감소는 원인 평가가 필요합니다.
 {% endhint %}
 
-#### 의도하지 않은 체중 감소란 무엇인가요?
+#### <mark style="color:$primary;">의도하지 않은 체중 감소란 무엇인가요?</mark>
 
 * 식사를 줄이거나 운동을 늘리지 않았는데도 체중이 줄어드는 현상입니다
 * 6개월 이내에 평소 체중의 5% 이상(예: 60 kg인 분이 3 kg 이상) 감소하면 임상적으로 의미 있는 체중 감소로 간주합니다
 * 원인은 갑상선 기능 항진증, 당뇨병, 소화기 질환, 우울증, 악성 종양 등 다양합니다
 
-#### 체중 유지를 위해 이렇게 하세요
+#### <mark style="color:$primary;">체중 유지를 위해 이렇게 하세요</mark>
 
 * **규칙적인 식사** : 하루 3끼를 거르지 마십시오. 소화 기능이 떨어진 경우 소량씩 자주 드십시오
 * **고단백 식사** : 살코기, 생선, 달걀, 두부, 콩류를 충분히 드십시오. 근육량 유지에 도움이 됩니다
@@ -190,7 +190,7 @@ R63.4 이상체중감소
 * **체중 측정** : 매주 같은 시간·같은 조건에서 체중을 측정하여 변화를 추적하십시오
 * **식욕 저하 원인 관리** : 우울, 불안, 통증, 구강 문제가 식욕을 떨어뜨리는 경우가 많습니다. 해당 증상이 있으면 의사에게 알려 주십시오
 
-#### 이럴 때는 즉시 병원을 방문하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 6개월 내 체중이 5% 이상 감소하고 원인을 모르는 경우
 * 혈변, 검은 변, 연하 곤란(삼키기 힘듦), 지속되는 기침이 새로 생긴 경우

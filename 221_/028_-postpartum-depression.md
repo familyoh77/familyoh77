@@ -1,6 +1,6 @@
-# <mark style="color:green;">산후우울증 Postpartum Depression</mark>
+# 산후우울증 Postpartum Depression
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 분만(또는 입양) 후 12개월 내 시작되거나 재발한 주요우울증; 주로 12주 내 발생
 * 빈도 : \~20%
@@ -8,7 +8,7 @@
 * DSM-5 공식 명칭 : 주요우울장애의 '주산기 발병(peripartum onset)' 명시자; 임신 중 또는 출산 후 4주 이내를 공식 기준으로 하나, 임상적으로는 출산 후 12개월까지를 산후우울증으로 통용함 (☞ [우울증](027_-depression.md))
 * 배우자의 산후우울증 : 출산 후 아기 아빠의 약 10%(일부 연구 25%)에서 발생; 산모의 산후우울증과 상호 악화 요인으로 작용; 선별 및 지지 권고
 
-### <mark style="color:$primary;">산후 우울 기분 (Postpartum blues)</mark>
+### <mark style="color:orange;">산후 우울 기분 (Postpartum blues)</mark>
 
 * 출산 후 일시적으로 발생하는 경증 우울; 출산 후 2\~3일 내 발생하여 2주 내 자연 소실
 * 빈도 : 산모의 30\~70%
@@ -35,12 +35,12 @@
 * 치료에 반응하지 않는 경우 (적절한 용량·기간 치료 후에도 미호전)
 * 산후 우울 기분(Postpartum blues)이 2주 이상 지속되는 경우
 
-## <mark style="color:orange;">원인</mark>
+## <mark style="color:green;">원인</mark>
 
 * 불확실
 * 추정 요인 : 출산 후 estrogen·progesterone 급격한 감소, cortisol·HPA axis 변화, cytokine·염증 반응, oxytocin·arginine vasopressin 변동, 수면 박탈, 심리사회적 스트레스
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 **과거력 및 유전**
 
@@ -80,7 +80,7 @@
 
 * 알코올 남용
 
-## <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
 **핵심 증상** (DSM-5 진단 필수 — 반드시 1개 이상 포함)
 
@@ -108,17 +108,17 @@
 * 자신이 아기를 해칠 수 있다는 생각 또는 걱정
 * 망상 또는 환각 (산후 정신증 감별 필요)
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * postpartum unipolar major depression의 진단 기준은 비-산모 진단 기준과 동일함 (☞ [우울증](027_-depression.md#dsm-5))
 
-### <mark style="color:$primary;">선별 검사</mark>
+### <mark style="color:orange;">선별 검사</mark>
 
 * \[USPSTF 2023] 모든 임산부 및 산후 여성에 대해 임신 중·산후 전 기간에 걸쳐 선별 검사 권고
 * 시기 : 임신 1·3분기 및 산후 4\~6주, 6개월 — 최소 2회 이상
 * 도구 : Edinburgh Postnatal Depression Scale(EPDS), PHQ-9
 
-#### 에든버러 산후우울증 척도 (Edinburgh Postnatal Depression Scale, EPDS)
+#### <mark style="color:$primary;">에든버러 산후우울증 척도 (Edinburgh Postnatal Depression Scale, EPDS)</mark>
 
 * 출산 후 6\~8주째 적용 권장; 첫 1년 동안 반복 적용 가능
 * 지난 일주일간 자신의 기분에 해당된다고 생각하는 항목에 표시
@@ -129,7 +129,7 @@
 
 ▶판정 : ≥10점 우울증 의심; ⑩번(자해 사고) 1점 이상 시 점수와 무관하게 즉시 평가 권고
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * TSH, Vit B12, folate, Vit D
 
@@ -137,15 +137,15 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 경증 : 지지 치료·심리치료 우선; 증상 지속 시 약물 추가
 * 중등증\~중증 : 약물 치료 + 심리치료 병행 권고
 * 모유 수유 여부에 따라 약제 선택 조정
 
-## <mark style="color:orange;">비약물 치료</mark>
+## <mark style="color:green;">비약물 치료</mark>
 
-### <mark style="color:$primary;">모유 수유 산모 일반 관리</mark>
+### <mark style="color:orange;">모유 수유 산모 일반 관리</mark>
 
 * 모유 수유 유지 (✽항우울제 복용 시 모유로 소량 분비되나 수유 가능; 수유 중단보다 치료 유지가 우선)
 * 신생아와의 적절한 접촉 유지 (예: 신생아 마사지)
@@ -154,22 +154,22 @@
 * 적당한 영양 및 수분 섭취
 * 복합 Vit/미네랄, 오메가-3 공급
 
-### <mark style="color:$primary;">심리치료</mark>
+### <mark style="color:orange;">심리치료</mark>
 
 * 인지행동치료(CBT) : 경증\~중등증에서 항우울제와 동등한 효과; 가능하면 병행 권고
 * 대인관계치료(IPT) : 역할 전환(모성 적응), 대인 갈등 해소에 특히 효과적; 산후우울증 1차 심리치료로 권고
 * 지지 치료, mindfulness 기반 치료 : 보조적으로 활용
 * 경두개 직류자극술(tDCS) : 약물 치료의 보조 또는 대안으로 고려 가능; 재택용 기기(예: 마인드스팀) 활용 사례 증가; 산후우울증 특화 근거는 축적 중 - 단독 사용보다 항우울제 병용 시 효과 보고 (근거 수준 낮음)
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:$primary;">약제</mark>
+### <mark style="color:orange;">약제</mark>
 
 * 경증\~중등증 : 항우울제 단독, 항우울제+비정형 항정신병제
 * 중증 : 항우울제+비정형 항정신병제
   * 정신병적 양상이 동반된 중증 : 항우울제+비정형 항정신병제
 
-#### 항우울제
+#### <mark style="color:$primary;">항우울제</mark>
 
 * 1차 선택 : sertraline, escitalopram - 모유 이행량 적고 안전 근거 비교적 충분; 영아 혈중 농도 매우 낮음
 * 저용량으로 시작 → 점차 증량; 산모 및 영아의 부작용 모니터링
@@ -179,7 +179,7 @@
 
 <table><thead><tr><th width="251">항우울제</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>sertraline [졸로푸트]</td><td>25~50</td><td>50~200</td></tr><tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine [세로자트]</td><td>10</td><td>20~60</td></tr><tr><td>nortriptyline [센시발]</td><td>25</td><td>25~150</td></tr></tbody></table>
 
-#### Zuranolone
+#### <mark style="color:$primary;">Zuranolone</mark>
 
 * GABA-A 수용체 양성 조절제(neuroactive steroid); 산후우울증 전용 경구 치료제
 * 2023년 FDA 승인; 2025년 현재 국내 미허가
@@ -264,18 +264,18 @@ O90 달리 분류되지 않은 산후기의 합병증
 산후우울증은 출산 후 호르몬 변화와 신체적·심리적 스트레스가 복합적으로 작용하여 생기는 질환입니다. 적절한 치료를 통해 충분히 회복될 수 있습니다.
 {% endhint %}
 
-#### 산후 우울 기분과 산후우울증은 어떻게 다른가요?
+#### <mark style="color:$primary;">산후 우울 기분과 산후우울증은 어떻게 다른가요?</mark>
 
 * **산후 우울 기분(Baby blues)** : 출산 후 2\~3일 내에 생기는 일시적인 감정 기복으로, 2주 이내에 자연스럽게 사라짐. 산모의 절반 이상에서 경험하는 정상적인 반응
 * **산후우울증** : 2주 이상 지속되는 우울감, 무기력, 불안, 아기에 대한 관심 저하 등이 나타나는 상태. 치료가 필요함
 
-#### 어떻게 치료하나요?
+#### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **약물 치료** : 항우울제를 주로 사용; 모유 수유 중에도 안전하게 사용할 수 있는 약이 있으며, 효과는 2\~4주에 걸쳐 서서히 나타남
 * **심리 치료** : 인지행동치료(CBT), 대인관계치료(IPT) 등이 약물 치료와 병행 시 효과적
 * **치료 기간** : 증상이 호전되어도 재발 방지를 위해 보통 6\~12개월 이상 유지 권장
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **도움 요청하기** : 혼자 모든 것을 감당하려 하지 말고 배우자, 가족, 지인에게 도움을 요청하세요
 * **수면 확보** : 아기가 잘 때 함께 쉬고, 밤중 수유는 가능하면 교대로 하세요
@@ -283,7 +283,7 @@ O90 달리 분류되지 않은 산후기의 합병증
 * **사회적 연결** : 산후우울증 자조 모임이나 육아 커뮤니티를 통해 비슷한 경험을 나누세요
 * **배우자도 살펴보세요** : 아기 아빠도 출산 후 약 10%에서 우울증을 경험할 수 있습니다. 배우자가 무기력하거나 평소와 다른 기분 변화를 보인다면 함께 상담을 권해 주세요
 
-#### 이럴 때는 즉시 도움을 요청하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 도움을 요청하세요</mark>
 
 * 스스로를 해치거나 죽고 싶다는 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
 * 아기를 해치고 싶다는 생각이 드는 경우 - 즉시 내원

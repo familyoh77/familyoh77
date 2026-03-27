@@ -1,6 +1,6 @@
-# <mark style="color:green;">경도인지장애 Mild Cognitive Impairment, MCI</mark>
+# 경도인지장애 Mild Cognitive Impairment, MCI
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 고령에서 일반적으로 나타나는 것보다 다소 심한 정도로 어떤 일을 수행하는데 지장을 주는, 기억력이나 사고 등 일부 인지 영역의 경미한 장애
 * 일상생활 능력과 전반적인 인지 기능은 유지됨
@@ -15,7 +15,7 @@
   * 일부는 정상으로 회복되거나 안정적으로 유지됨
 * 선별 검사 : 인지 장애 증상이 없는 고령자에 대한 선별 검사는 위해(과잉 진단, 낙인 효과, 스트레스, 우울, 불필요하거나 효과가 없는 치료 및 약물 부작용)에 비하여 이득이 입증되지 않아 권고하지 않음 \[USPSTF 권고안]
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 고령
 * 낮은 교육 수준
@@ -25,7 +25,7 @@
 * 약물 : 항콜린제(metoprolol, atenolol, loratadine, bupropion 등 항콜린 작용이 있는 약물 포함)
 * apolipoprotein E ε4 genotype
 
-## <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
 * 기억력 장애
   * 이름이 떠오르지 않는 것은 고령자에서 정상적으로 흔한 증상이며, 환자가 주관적인 기억력 저하를 호소하는 경우에는 정서 상태 문제 등을 고려
@@ -49,9 +49,9 @@
 * 6\~12개월 이내 기능 저하가 뚜렷이 진행하여 치매 기준 접근 시 → 신경과 의뢰 고려
 * 일상생활 수행에 유의미한 지장이 생긴 경우 (치매로의 이행 평가 필요)
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$primary;">임상적 진단 Criteria</mark>
+### <mark style="color:orange;">임상적 진단 Criteria</mark>
 
 \[National Institute on Aging–Alzheimer's Association, NIA-AA]
 
@@ -62,14 +62,14 @@
 
 ※ 1\~2년 후 재평가하여 변화를 관찰
 
-### <mark style="color:$primary;">검사</mark>
+### <mark style="color:orange;">검사</mark>
 
 * 실험실 검사 : CBC, 전해질 검사, TSH, Vit B12, 지질 검사
 * 신경학적 검사
 * 영상 검사 : MRI (또는 CT)
 * 인지 기능 검사 : 한국판 몬트리올 인지평가 (K-MoCA)
 
-#### **한국판 몬트리올 인지평가** ([K-MoCA](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf))
+#### <mark style="color:$primary;">**한국판 몬트리올 인지평가** ([K-MoCA](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf))</mark>
 
 * 주의력, 집중력, 실행력, 기억력, 어휘력, 시각 공간력, 추상력, 계산과 지남력 평가; 10분 소요
 * 글을 읽거나 쓰는 능력이 없거나 서투른 경우에는 적용하지 않음
@@ -80,7 +80,7 @@
 
 <figure><img src="../.gitbook/assets/경도인지장애.png" alt=""><figcaption><p><strong>K-MoCA 검사지</strong> (강연욱 등. 혈관성 인지장애 선별검사로서 Korean-Montreal Cognitive Assessment(K-MoCA)의 신뢰도, 타당도 및 규준 연구. Korean Journal of Clinical Psychology 2009;28(2):549-562.)</p></figcaption></figure>
 
-#### 혈액 바이오마커 (Blood-based Biomarkers)
+#### <mark style="color:$primary;">혈액 바이오마커 (Blood-based Biomarkers)</mark>
 
 **p-tau217 혈액 검사**&#x20;
 
@@ -90,7 +90,7 @@
 * 적응: AD 병리 확인이 필요한 경우(예: 항아밀로이드 치료 전 선별), 전문의 협진 시 활용
 * 양성(elevated) 시 → 아밀로이드 PET 또는 CSF 검사로 확진 후 전문의 의뢰 권고
 
-### <mark style="color:$primary;">감별</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 우울증, 파킨슨병, 치매, 갑상선저하증, Vit B12 결핍, 약물
 * 섬망 : 급성 발생, 의식 변화, 주의력 장애의 변동이 특징 — MCI와 혼동하지 않도록 주의
@@ -99,11 +99,11 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-## <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 * 치매로의 진행을 예방하는 효과가 입증된 약제는 없음 \[AAN 2018, 다수 가이드라인 공통]
 
-#### Acetylcholine 전구체
+#### <mark style="color:$primary;">Acetylcholine 전구체</mark>
 
 * MCI에 대한 치매 예방 효과 입증 불충분; 일부 연구에서 약간의 증상 완화
 *   choline alfoscerate : 800\~1200 ㎎/d \[글리아티린]&#x20;
@@ -112,24 +112,24 @@
 
     * 임상재평가(식약처) 진행 중. 효능 입증 실패 시 품목 취소 가능성 있음
 
-#### Acetylcholinesterase inhibitor
+#### <mark style="color:$primary;">Acetylcholinesterase inhibitor</mark>
 
 * 효과는 입증되지 않은 반면 부작용이 발생할 수 있으므로 일반적으로 권고 안 함 \[AAN 2018; 복수 가이드라인에서 금기 또는 deprescribing 권고]
 * 심한 기억력 장애가 있는 경우 donepezil 투여를 고려
 * donepezil : 5 ㎎ qd → 4\~6주 후 10 ㎎ qd \[아리셉트] (☞ p.161)
 
-#### 항아밀로이드 단클론항체
+#### <mark style="color:$primary;">항아밀로이드 단클론항체</mark>
 
 * AD 병리 확인 MCI에 대한 질병 조절 치료
 * 아밀로이드 PET 또는 혈액/뇌척수액 바이오마커로 AD 아밀로이드 병리가 확인된 MCI 또는 경증 AD 치매 환자에서 인지 기능 저하를 18개월간 약 27\~35% 지연시키는 효과로 FDA 승인을 받음; lecanemab \[레켐비]\(국내 출시), donanemab \[키썬라]
 * 뇌 부종·미세출혈(ARIA) 부작용, 정기 MRI 모니터링, ApoE 유전자 검사 등 전문 관리 필요
 * 일차 의료에서는 직접 처방 대상이 아니며, 신경과·인지신경의학 전문의 평가 후 시행
 
-#### 기타
+#### <mark style="color:$primary;">기타</mark>
 
 * growth hormone-releasing hormone, 비내 인슐린 : 유효할 가능성이 있음; 추가 연구 필요
 
-## <mark style="color:orange;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 운동 : 6개월 이상의 규칙적 유산소 운동은 인지 기능 지표를 개선할 가능성이 높음 \[AAN 2018, Level B]
   * 매일 30분 걷기, 주 3\~5회 유산소 운동 프로그램 참여 권고
@@ -140,7 +140,7 @@
   * 코그테라(Cogthera; 이모코그) : 국내 최초 경도인지장애 적응증 식약처 허가 취득(2025), 보건복지부 신의료기술 인정; 55\~85세 MCI 환자 대상 12주 모바일 맞춤 인지훈련 제공, 처방전 기반 사용
   * 급여 수가 등 세부 사항은 변동 중 — 최신 정보 별도 확인 필요
 
-## <mark style="color:orange;">기타 관리 및 예방</mark>
+## <mark style="color:green;">기타 관리 및 예방</mark>
 
 * 위험 인자 관리 : 금연, 음주 제한(≤1 SD/d); 비만, 고혈압, 당뇨병, 이상지질혈증 관리
 * 동반 문제 관리 : 우울증, 청력/시력/후각/미각 저하, 영양 결핍
@@ -228,27 +228,27 @@ F06.7 경도 인지 장애
 경도인지장애는 치매는 아닙니다. 꾸준한 관리로 진행을 늦출 수 있습니다.
 {% endhint %}
 
-#### 경도인지장애란 무엇인가요?
+#### <mark style="color:$primary;">경도인지장애란 무엇인가요?</mark>
 
 * 기억력이나 판단력이 또래보다 조금 더 나빠진 상태이지만, 일상생활은 대부분 혼자 할 수 있는 상태입니다.
 * 매년 10\~15% 정도가 치매로 진행하지만, 일부는 정상으로 회복되기도 합니다.
 * 치매로 진행하지 않도록 위험인자를 관리하는 것이 핵심입니다.
 
-#### 가장 중요한 생활 관리
+#### <mark style="color:$primary;">가장 중요한 생활 관리</mark>
 
 * **규칙적인 운동** : 매일 30분 이상 걷기, 주 3\~5회 유산소 운동은 인지 기능 개선에 효과가 있는 것으로 알려져 있습니다.
 * **인지 자극 활동** : 독서, 퍼즐, 새로운 언어·악기 배우기, 컴퓨터 작업 등을 꾸준히 하십시오.
 * **사회적 교류** : 가족·친구와 자주 만나고 모임에 참여하는 것이 도움이 됩니다.
 * **균형 잡힌 식사** : 지중해식 식단(채소, 생선, 올리브오일, 통곡물)이 권장됩니다.
 
-#### 반드시 관리해야 할 건강 문제
+#### <mark style="color:$primary;">반드시 관리해야 할 건강 문제</mark>
 
 * **혈압** : 수축기 혈압을 120 mmHg 수준으로 적극 관리하는 것이 MCI 예방에 도움이 됩니다.
 * **혈당 및 콜레스테롤** : 당뇨병·고지혈증 치료를 꾸준히 받으십시오.
 * **우울증** : 우울감이 지속되면 반드시 의사에게 알리십시오. 우울증 치료가 인지 기능에도 도움이 됩니다.
 * **청력·시력** : 이상이 있으면 보청기·안경을 사용하십시오. 감각 저하도 인지 기능에 영향을 줍니다.
 
-#### 이럴 때는 즉시 내원하세요
+#### <mark style="color:$primary;">이럴 때는 즉시 내원하세요</mark>
 
 * 기억력이 수 주 이내로 갑자기 나빠질 때
 * 일상생활을 혼자 하기 어려워졌을 때

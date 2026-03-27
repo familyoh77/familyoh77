@@ -1,8 +1,8 @@
-# <mark style="color:green;">실신 Syncope</mark>
+# 실신 Syncope
 
-## <mark style="color:orange;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
-#### Syncope
+#### <mark style="color:$primary;">Syncope</mark>
 
 * 뇌 혈류량 감소로 인하여 갑작스럽게 발생하고, 신경학적 후유 장애 없이 자발적으로 회복되는 일시적인(수 초\~수 분) 의식 소실
 * 자신 및 상황에 대한 인식 없음, postural tone을 유지할 수 없음(넘어짐), 자극에 반응하지 않음
@@ -14,7 +14,7 @@
 * syncope (TLOC, transient loss of consciousness) : 일과성 뇌 저관류(cerebral hypoperfusion)에 의함
 * non-syncope TLOC : 발작(epilepsy), 저혈당, 대사 이상, 약물/알코올 남용, 뇌진탕, 심인성(psychogenic pseudosyncope)
 
-#### Presyncope
+#### <mark style="color:$primary;">Presyncope</mark>
 
 * 실신 발생 직전에 경험하는 증상(near-syncope). 회복될 수도 있고 syncope로 진행될 수도 있음
 * 어지럼(dizziness, lightheadedness), 시각 이상(터널 시야, 시력 상실), 다양한 수준의 의식 변화(완전한 의식 소실은 아님); 구역, 오한, 복통, 창백, 자세 긴장 저하 (☞ p.93)
@@ -40,9 +40,9 @@
 
 * 반복적이고 설명할 수 없는 실신 (위 소견 병존 시 즉각 격상)
 
-## <mark style="color:orange;">종류</mark>
+## <mark style="color:green;">종류</mark>
 
-### <mark style="color:$primary;">반사성 실신, 신경 매개성 실신 (Reflex syncope, Neurally mediated syncope)</mark>
+### <mark style="color:orange;">반사성 실신, 신경 매개성 실신 (Reflex syncope, Neurally mediated syncope)</mark>
 
 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md))
 
@@ -55,7 +55,7 @@
   * syncope 발생 전에 자율 신경 항진 증상(예: 창백, 식은땀, 구역, 구토)이 있음
   * 실신 후 피로감; tonic-clonic movement 동반 가능 (단시간, ＜15초; 간질과 감별)
 
-### <mark style="color:$primary;">기립성 저혈압 실신 (Orthostatic hypotension syncope)</mark>
+### <mark style="color:orange;">기립성 저혈압 실신 (Orthostatic hypotension syncope)</mark>
 
 * 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg 또는 이완기 혈압 ≥10 ㎜Hg 감소
 * 원인 : 1차성 자율 신경 장애(pure autonomic failure), 2차성 자율 신경 장애(예: 당뇨, spinal cord injury, 파킨슨병), 약물(예: 술, 혈관 확장제, 이뇨제, adrenergic blocker, 진정제), hypovolemia(예: 탈수, 출혈) (☞ p.500)
@@ -64,7 +64,7 @@
   * 최근 약물 복용 시작 또는 증량 병력
   * 고령, 기저 질환자(예: 당뇨병, 자율신경병증)에서 호발
 
-### <mark style="color:$primary;">심혈관성 실신 (Cardiovascular syncope)</mark>
+### <mark style="color:orange;">심혈관성 실신 (Cardiovascular syncope)</mark>
 
 * 원인 : 부정맥/전도 장애(가장 흔한 심장 원인), 심혈관 구조 이상(예: MI, 심근증, 대동맥협착증, 비후성심근증), 폐질환(예: 폐색전증, 폐동맥고혈압)
 * 특징
@@ -74,9 +74,9 @@
   * 비정상 ECG, 심장 또는 관상동맥 이상 병력, 심장 질환 가족력
   * 반복 실신이 부정맥에 의할 가능성은 낮음 → 반복 시 반사성 실신 우선 고려
 
-## <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
-### <mark style="color:$primary;">초기 평가 원칙</mark>
+### <mark style="color:orange;">초기 평가 원칙</mark>
 
 * 병력 청취 : 발생 상황, 전구 증상, 회복 과정, 목격자 진술, 복용 약물, 심장 질환 병력, 가족력
 * 신체 검진 : 양측 혈압(앙와위·기립 후 즉시·3분 후), 맥박, 심장 청진
@@ -85,7 +85,7 @@
 
 <mark style="color:$info;">※ 2017 ACC/AHA/HRS 및 2018 ESC 가이드라인 공통 권고 : 병력 청취, 신체 검진(기립성 활력징후 포함), 12유도 ECG가 초기 평가의 핵심; 일률적인 광범위 실험실 검사 및 영상 검사는 권고하지 않음</mark>
 
-### <mark style="color:$primary;">추가 검사</mark>
+### <mark style="color:orange;">추가 검사</mark>
 
 * 부정맥 의심 : 즉각적 심전도 모니터링, Holter monitoring
 * 구조적 심질환 의심 : 심초음파
@@ -99,7 +99,7 @@
 * EEG : 발작 의심 시 고려
 * 뇌 CT/MRI : 신경학적 이상 소견이 있는 경우에 한하여 고려; 신경학적 증상 없는 단순 실신에서는 routine 촬영 불필요
 
-### <mark style="color:$primary;">저위험 - 외래 추적 또는 퇴원 가능</mark>
+### <mark style="color:orange;">저위험 - 외래 추적 또는 퇴원 가능</mark>
 
 다음 모든 사항에 해당되면 위험도가 낮은 것으로 판단
 
@@ -115,7 +115,7 @@
   * 매우 낮은 위험 (−3, −2점) / 낮은 위험 (−1, 0점) : 30일 내 SAE 약 1.2%, 외래 추적 고려
   * 중간 위험 (1, 2, 3점) / 높은 위험 (4, 5점) / 매우 높은 위험 (≥6점) : 단계적 입원 및 추가 검사
 
-### <mark style="color:$primary;">감별</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 뇌 혈류 감소 없는 의식 소실 → epilepsy, 대사 이상(예: 저혈당, 저산소증, 과호흡/저이산화탄소혈증, 중독), vertebrobasilar TIA (☞ p.109)
 * 의식 소실 없는 쓰러짐 → cataplexy, 낙상, psychogenic pseudosyncope, TIA
@@ -129,7 +129,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 치료, 기저 질환 치료
 * 유발 약물 검토 및 감량/중단 (혈압 강하제, 이뇨제, 혈관 확장제 등)
@@ -207,24 +207,24 @@ R55 실신 및 허탈
 대부분의 실신은 생명을 위협하지 않지만, 심장 질환이 원인인 경우에는 반드시 전문 진료가 필요합니다.
 {% endhint %}
 
-#### 실신이란 무엇인가요?
+#### <mark style="color:$primary;">실신이란 무엇인가요?</mark>
 
 * 뇌로 가는 혈류가 일시적으로 감소하여 수 초~수 분간 의식을 잃었다가 저절로 회복되는 현상입니다.
 * 가장 흔한 원인은 **혈관미주신경성 실신**으로, 극심한 긴장·통증·채혈·오랜 기립 등이 계기가 됩니다. 대부분 양성 경과를 보입니다.
 * 심장 부정맥이나 구조적 심장 질환이 원인인 경우에는 즉각 전문 평가가 필요합니다.
 
-#### 즉시 응급실로 가야 하는 경우
+#### <mark style="color:$primary;">즉시 응급실로 가야 하는 경우</mark>
 
 * 실신과 함께 흉통·심한 두근거림·호흡 곤란이 동반된 경우
 * 전조 증상 없이 갑자기 쓰러진 경우
 * 운동 중 또는 누운 자세에서 실신이 발생한 경우
 * 심장 질환 병력이 있거나 가족 중 젊은 나이에 급사한 분이 있는 경우
 
-#### 실신 전조 증상이 느껴질 때
+#### <mark style="color:$primary;">실신 전조 증상이 느껴질 때</mark>
 
 전조 증상(어지럼·식은땀·창백·시야 흐림)이 오면 즉시 **앉거나 눕고 다리를 올리십시오.** 누울 수 없다면 다리를 교차하여 힘을 주거나, 양 손을 맞잡고 서로 당기십시오. 물 500 mL를 빠르게 마시면 혈압 유지에 도움이 됩니다.
 
-#### 생활 속 실천 사항
+#### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **수분·염분 섭취** : 하루 물 2 L 이상, 소금을 지나치게 제한하지 마십시오(심부전·고혈압 없는 경우).
 * **천천히 일어나기** : 잠자리나 의자에서 일어날 때 빠르게 기립하지 마십시오.
