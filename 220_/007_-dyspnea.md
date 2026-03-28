@@ -17,10 +17,12 @@
 * 초조, 혼돈, 의식 저하
 * 빈맥(＞130회/분)
 * 흉통
+* 흡기 시 Stridor(거친 고음성 호흡음) — 상기도 폐쇄(이물 흡인, 아나필락시스 등) 시사; 즉각 기도 확보 필요
+* 휴식 중 발생 + 활력징후 이상(빈호흡, 빈맥, 저혈압, SpO₂ 저하 등) 동반
 
 <mark style="color:$warning;">**조기 평가 (당일 \~ 수일 내)**</mark>
 
-* 휴식 중에도 발생
+* 휴식 중에도 발생 (활력징후 안정 시)
 * 수포음(crackles), 호흡음 감소
 * 발열(＞38.5℃)
 * ≥65세에서 급성 발생
@@ -52,6 +54,7 @@
 
 * 급성 관상동맥증후군(ACS): 흉통, 흉부 압박감, 식은땀 동반
 * 급성 심부전: 공기 부족 느낌, 기좌 호흡(누우면 심해짐)
+* 빈맥성 부정맥(예: 심방세동 with RVR): 심박수 급증 → 심실 충만 시간 단축 → 급성 폐부종 유발 가능; ECG로 즉시 확인
 * 폐색전증: 갑자기 시작되는 흉막염성 흉통, 객혈 동반
 
 **만성**
@@ -84,11 +87,12 @@
 
 * 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel, spirometry, pulse oximetry; 심부전 의심 시 BNP 또는 NT-proBNP
 * D-dimer : 폐색전증 저위험군에서 배제 목적으로 시행; 해석 및 임상 적용은 ☞ 흉통 참조
+  * ⚠️ **위양성 주의** : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음; 50세 이상에서는 **연령 보정 D-dimer** (age × 10 μg/L)를 기준치로 적용하여 불필요한 CTPA를 줄일 수 있음 ([MDCalc Age-adjusted D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer))
 * 선택적 시행 : 심장 초음파(좌심실 기능·판막 이상 평가), 폐 초음파(B-line 확인 → 폐부종/심부전 감별), cardiac stress tests, PFT(폐쇄성/제한성 패턴 감별; 만성 호흡 곤란에서 우선 고려), CT
 
 ### <mark style="color:orange;">심장성 vs 폐성 호흡 곤란 감별 진단</mark>
 
-<table data-header-hidden><thead><tr><th width="114.5789794921875"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>구분</strong></td><td><strong>심장성 호흡 곤란 (Cardiac)</strong></td><td><strong>폐성 호흡 곤란 (Pulmonary)</strong></td></tr><tr><td>주요 원인</td><td>심부전, 관상동맥 질환, 판막 질환</td><td>천식, COPD, 폐렴, 기흉, 폐색전증</td></tr><tr><td>발생 양상</td><td>누우면 악화(기좌호흡), 야간 돌발성 호흡 곤란</td><td>활동 시 악화되거나 특정 유발 인자(먼지, 연기) 노출 시 발생</td></tr><tr><td>동반 증상</td><td>발/발목 부종, 흉부 압박감, 핑크색 거품 섞인 가래</td><td>기침, 가래(농성), 쌕쌕거림(Wheezing), 흉막성 흉통</td></tr><tr><td>청진 소견</td><td>양측 폐 하부의 수포음(Crackles), S3/S4 심음</td><td>천명음(Wheezing), 호흡음 감소, 긴 호기 시간</td></tr><tr><td>흉부 X선</td><td>심비대, 폐부종, Kerley B-line, 흉수</td><td>폐 과팽창, 침윤(Infiltration), 기흉 소견</td></tr><tr><td>심전도(ECG)</td><td>허혈성 변화, 부정맥, 좌심실 비대 소견</td><td>대체로 정상이나 우심실 부하 소견(PE 등) 가능</td></tr><tr><td>혈액 검사</td><td>BNP / NT-proBNP 상승</td><td>WBC/CRP 상승(감염 시), D-dimer 상승(PE 시)</td></tr><tr><td>자세 변화</td><td>앉으면 호전(Orthopnea); 비만·GERD 관련 천식에서도 유사 양상 가능</td><td>자세보다는 휴식이나 기관지 확장제에 반응</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="114.5789794921875"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>구분</strong></td><td><strong>심장성 호흡 곤란 (Cardiac)</strong></td><td><strong>폐성 호흡 곤란 (Pulmonary)</strong></td></tr><tr><td>주요 원인</td><td>심부전, 관상동맥 질환, 판막 질환</td><td>천식, COPD, 폐렴, 기흉, 폐색전증</td></tr><tr><td>발생 양상</td><td>누우면 악화(기좌호흡), 야간 돌발성 호흡 곤란</td><td>활동 시 악화되거나 특정 유발 인자(먼지, 연기) 노출 시 발생</td></tr><tr><td>동반 증상</td><td>발/발목 부종, 경정맥 확장(JVD), 흉부 압박감, 핑크색 거품 섞인 가래</td><td>기침, 가래(농성), 쌕쌕거림(Wheezing), 흉막성 흉통</td></tr><tr><td>청진 소견</td><td>양측 폐 하부의 수포음(Crackles), S3/S4 심음</td><td>천명음(Wheezing), 호흡음 감소, 긴 호기 시간</td></tr><tr><td>흉부 X선</td><td>심비대, 폐부종, Kerley B-line, 흉수</td><td>폐 과팽창, 침윤(Infiltration), 기흉 소견</td></tr><tr><td>심전도(ECG)</td><td>허혈성 변화, 부정맥, 좌심실 비대 소견</td><td>대체로 정상이나 우심실 부하 소견(PE 등) 가능</td></tr><tr><td>혈액 검사</td><td>BNP / NT-proBNP 상승</td><td>WBC/CRP 상승(감염 시), D-dimer 상승(PE 시)</td></tr><tr><td>자세 변화</td><td>앉으면 호전(Orthopnea); 비만·GERD 관련 천식에서도 유사 양상 가능</td><td>자세보다는 휴식이나 기관지 확장제에 반응</td></tr></tbody></table>
 
 \*고령 환자는 심부전과 COPD가 동반된 경우가 많아 단일 원인으로 단정하기 어렵다. BNP/NT-proBNP, 폐 초음파 B-line, 기관지 확장제 반응을 복합적으로 평가하여 접근한다.
 
@@ -119,7 +123,7 @@
 
 #### <mark style="color:$primary;">발열</mark>
 
-* 고열, 오한, 흉통, 화농성 덩어리가 들어있는 가래 → 폐농양
+* 고열, 오한, 흉통, 농양성 객담(purulent sputum; 악취를 동반한 다량의 가래) → 폐농양
 * 발열, 통증이 있는 기침, 혈성 가래 → 폐 감염, 폐암, 폐색전증
 * 발열, 마른기침, 흉통, 체중 감소 → 히스토플라스마증, 진균 감염
 
@@ -149,7 +153,9 @@
 * 산소 공급(마스크) : SpO₂ 목표- ≥94%(5\~10 L/min), COPD 환자 88\~92%(1\~2 L/min부터 적정), 임신부 ≥95%
 * Nitrate : nitroglycerin 0.6 ㎎ 설하 투여 \[니트로글리세린 설하정]\(0.6 ㎎/T) (☞ [nitrate](../225_/097_-angina-pectoris.md#nitrate))
   * 금기 : SBP ＜90 ㎜Hg; PDE5 억제제(sildenafil 48시간, tadalafil 72시간 이내) 복용
+  * ✽ 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의; 우심실은 전부하(preload) 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
 * 이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
+  * ⚠️ **투여 전 혈압 확인 필수** : SBP ＜90 ㎜Hg 시 투여 금기 (혈압 감소로 관류 저하 위험)
   * furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요 시 반복 \[라식스]\(40 ㎎/T, 20 ㎎/A); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
 * 빈맥(supraventricular tachycardia) : Valsalva maneuver, 경동맥동 마사지(고령 또는 허혈성 심질환에서는 피함)
 * 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI \[벤토린] (☞ [벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
