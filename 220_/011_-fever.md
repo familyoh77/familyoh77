@@ -17,7 +17,7 @@
 
 * 발열 : 일상적 변화 이상의 체온 상승; 통상 고막 체온계로(adjusted mode) ＞38℃
   * hyperpyrexia : ＞41.5℃; 주로 CNS 이상에 의하며, 감염에 의한 경우는 드묾
-  * ⚠️ 고체온증(hyperthermia; 열사병 등)은 시상하부 설정점(set-point)의 상승 없이 체온이 오르는 것으로, 해열제가 효과 없으며 냉각 요법이 우선임
+  * 고체온증(hyperthermia; 열사병 등) : 시상하부 설정점(set-point)의 상승 없이 체온이 오르는 것으로, 해열제가 효과 없으며 냉각 요법이 우선임 (☞ [열 질환](../230_/205_-heat-illness.md))
 * sustained fever : 변동 폭이 ≤0.5℃로 지속되는 발열
 * remittent fever : 변동 폭이 ＞0.5℃인 발열
 * septic 또는 hectic fever : 변동 폭이 심한 발열
@@ -46,7 +46,7 @@
 * 쇼크(저혈압·빈맥)
 * 심한 호흡 곤란(빈호흡)
 * ＞41℃의 고열
-* 패혈증 의심 - qSOFA ≥2점 : 빈호흡(≥22회/분) + 의식 변화 + 수축기혈압 ≤100 ㎜Hg 중 2개 이상 (Surviving Sepsis Campaign 2021)
+* 패혈증 의심 - qSOFA ≥2점 : ① 빈호흡(≥22회/분), ② 의식 변화, ③ 수축기혈압 ≤100 ㎜Hg 중 2개 이상 해당시 패혈증 가능성이 높음 (Surviving Sepsis Campaign 2021)
 
 <mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
@@ -70,7 +70,17 @@
 * 염증, 종양
 * 자가면역/자가 염증 반응
 * 더운 환경(더운 날씨, 지나친 난방, 두꺼운 의복), 탈수열
-* 약물 유발열(Drug fever) : 발열 외 특이 증상 없이 약물 시작 후 발생하며, 약물 중단 시 수일 내 소실됨; 흔한 원인 약제 — 베타락탐계 항생제(penicillin, cephalosporin), 설파제(sulfamethoxazole), 항전간제(phenytoin, carbamazepine), allopurinol, isoniazid(INH), hydralazine
+* 약물
+
+#### <mark style="color:$primary;">약물 유발열(Drug fever)</mark>&#x20;
+
+* 발열 외 특이 증상 없이 약물 시작 후 발생하며, 약물 중단 시 48\~72시간(최대 5일) 내 소실
+* 발열에도 불구하고 환자 컨디션이 비교적 양호한 경우가 많음(발열 정도에 비해 심박수가 충분히 빠르지 않은 '상대적 서맥'이 관찰되기도 함)
+* 백혈구 수치는 정상이나 호산구 증가증(Eosinophilia)이 약 20% 내외에서 동반될 수 있음
+* 발현 시점 : 기전에 따라 다름
+  * 과민 반응 : 투여 1\~3주 후; 동일 약물 재노출 시에는 수 시간\~수일 내로 단축됨; penicillin, cephalosporin, phenytoin
+  * 약리학적 작용 : 투여 직후\~수일; amphotericin B, 항암제
+  * 누적 독성 : 수주\~수개월 후; hydralazine, procainamide (drug-induced lupus)
 
 ## <mark style="color:green;">진단</mark>
 
@@ -80,7 +90,6 @@
 ### <mark style="color:orange;">초기 평가 검사</mark>
 
 * 단순 급성 발열(48시간 이내, 명백한 바이러스 감염 임상상)에서는 검사가 불필요한 경우가 많음
-* 다음에 해당하는 경우 아래 검사를 고려
 
 **기본 혈액 검사**
 
@@ -125,6 +134,8 @@
 * 혈액 검사 : ESR, CRP, RF, CPK, ANA, protein electrophoresis, lactate dehydrogenase, Tb test, HIV, 배양 검사
 * 소변 : U/A, 배양 검사
 * 영상 검사 : CT
+
+***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
