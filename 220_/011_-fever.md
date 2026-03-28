@@ -13,7 +13,7 @@
 * 다음의 경우 감염이 되어도 열이 나지 않을 수 있음 : 신생아, 노인, 만성 간/신부전, steroid 투여
 * 월경을 하는 여성은 배란 전 2주 동안 오전 체온이 낮아지고 배란과 함께 0.6℃ 상승하여 월경 시작 때까지 유지됨
 
-### <mark style="color:orange;">발열 용어</mark>
+#### <mark style="color:$primary;">발열 용어</mark>
 
 * 발열 : 일상적 변화 이상의 체온 상승; 통상 고막 체온계로(adjusted mode) ＞38℃
   * hyperpyrexia : ＞41.5℃; 주로 CNS 이상에 의하며, 감염에 의한 경우는 드묾
@@ -26,12 +26,12 @@
 * biphasic fever : 한 질환에서 두 번의 발열 기간; 황열, 뎅기열, enterovirus, leptospirosis
 * periodic fever : 규칙적인 주기가 있는 발열; PFAPA syndrome (☞ p.264)
 
-### <mark style="color:orange;">발열의 영향</mark>
+#### <mark style="color:$primary;">발열의 영향</mark>
 
 * 위해 : 열이 O<sub>2</sub> 소모량/CO<sub>2</sub> 발생량/심박출량을 증가시킴; 현저하게 높은 체온은 빈혈, 심/폐질환, 대사 질환(예: 당뇨병) 등 만성 질환의 상태를 악화시킬 수 있음
 * 이익 : 열이 병균의 증식을 낮추며 신체 면역 반응을 증가시킨다는 실험실 연구가 있음; 임상적 입증은 부족함
 
-### <mark style="color:orange;">발열 치료에 대한 논란</mark>
+#### <mark style="color:$primary;">발열 치료에 대한 논란</mark>
 
 * 1회성의 돌발적인 발열은 유의미한 감염 질환과 관련 없음
 * 고열이 특발성 간질 환자에서 발작 빈도를 증가시킬 수 있으나 뇌 손상을 초래한다는 근거는 없음
@@ -39,26 +39,26 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요 (필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 (필요시 119 호출)**</mark>
 
 * 의식 변화
 * 쇼크(저혈압·빈맥)
 * 심한 호흡 곤란(빈호흡)
 * ＞41℃의 고열
-* **패혈증 의심 — qSOFA 2점 이상** : 빈호흡(≥22회/분) + 의식 변화 + 수축기혈압 ≤100 mmHg 중 2개 이상 (Surviving Sepsis Campaign 2021)
+* 패혈증 의심 - qSOFA ≥2점 : 빈호흡(≥22회/분) + 의식 변화 + 수축기혈압 ≤100 ㎜Hg 중 2개 이상 (Surviving Sepsis Campaign 2021)
 
-<mark style="color:$warning;">**수 시간 내 긴급 평가 필요 (응급실 방문)**</mark>
+<mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
 * 목 뻣뻣함(경부 경직)
 * 심한 두통
 * 열과 발진 동반
 * 심한 구토 또는 설사
 
-<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 필요 (외래 진료)**</mark>
+<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
 * 기저질환자(면역억제·항암치료 중)
 * 해외 여행자(말라리아·지카 유행 지역)
-* 진드기 물린 병력 또는 야외활동 후 발열
+* 진드기 물린 병력 또는 야외 활동 후 발열
 * 예상과 다르게 지속되는 열
 
 ## <mark style="color:green;">원인</mark>
@@ -85,9 +85,7 @@
 
 <table><thead><tr><th width="94.631591796875"></th><th>고전적 불명열 (Classic)</th><th>병원성 불명열 (Nosocomial; Healthcare-associated)</th></tr></thead><tbody><tr><td><strong>정의</strong></td><td>체온 ≥38.3℃, 기간 ≥3주, ≥3회 외래 방문 또는 입원 3일 후에도 원인 불명</td><td>체온 ≥38.3℃, 기간 >3일, 입원 당시 발열 상태 또는 당시 잠복기 아님</td></tr><tr><td><strong>환자 위치</strong></td><td>지역 사회, 병원</td><td>급성 질환을 다루는 병원</td></tr><tr><td><strong>흔한 원인</strong></td><td>감염, 염증, 악성 종양, 인위적/습관성 고열(factitious fever)</td><td>원내 감염, 수술 후 합병증, drug fever</td></tr><tr><td><strong>병력</strong></td><td>여행, 접촉, 동물/벌레 노출, 약물, 예방접종, 가족력, 심장 판막 이상</td><td>수술, 시술, 장치 삽입, 해부학적 이상, 약물</td></tr></tbody></table>
 
-{% hint style="info" %}
-**참고 — 고전적 불명열의 진단 기준 변화** 전통적 정의(Petersdorf & Beeson, 1961)는 '≥3주, ≥3회 외래 또는 입원 3일 후 원인 불명'이나, 진단 기술의 발달(CT, PET-CT, 차세대 염기서열 분석 등)로 인해 최근에는 **1주간의 집중 입원 검사 후에도 원인 불명**인 경우를 대안적 기준으로 제시하는 경향이 있음. 임상에서는 전통적 3주 기준에 구애받지 않고 조기에 정밀 검사(영상, 배양, 자가면역 패널 등)를 적극 고려하는 것이 현실적임.
-{% endhint %}
+※ **고전적 불명열의 진단 기준 변화** : 전통적 정의(Petersdorf & Beeson, 1961)는 '≥3주, ≥3회 외래 또는 입원 3일 후 원인 불명'이나, 진단 기술의 발달(CT, PET-CT, 차세대 염기서열 분석 등)로 인해 최근에는 1주간의 집중 입원 검사 후에도 원인 불명인 경우를 대안적 기준으로 제시하는 경향이 있음. 임상에서는 전통적 3주 기준에 구애받지 않고 조기에 정밀 검사(영상, 배양, 자가면역 패널 등)를 적극 고려하는 것이 현실적임.
 
 #### <mark style="color:$primary;">원인</mark>
 
@@ -131,13 +129,13 @@
 
 * 성인 : 650\~1,000 ㎎ q6hr; 최대 3 g/d(간/신 장애 시 2 g/d) <mark style="color:blue;">\[타이레놀]</mark>
 * 소아 : 10\~15 ㎎/㎏ q4\~6hr, 최대 5회/d; ≥3개월 연령 허가
-  * <mark style="color:blue;">\[세토펜 현탁액]</mark>\(32 ㎎/㎖. 0.4 ㎖/㎏ qid 또는 1.5\~2 ㎖/㎏/d #4)
+  * <mark style="color:blue;">\[세토펜 현탁액]</mark>(32 ㎎/㎖. 0.4 ㎖/㎏ qid 또는 1.5\~2 ㎖/㎏/d #4)
 
 #### <mark style="color:$primary;">Ibuprofen</mark>
 
 * 성인 : 400 ㎎ q6hr <mark style="color:blue;">\[부루펜]</mark>
 * 소아 : 5\~10 ㎎/㎏ q6\~8hr, 최대 40 ㎎/㎏/d; ≥6개월 연령 허가
-  * <mark style="color:blue;">\[부루펜 시럽]</mark>\(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
+  * <mark style="color:blue;">\[부루펜 시럽]</mark>(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
 
 #### <mark style="color:$primary;">Aspirin</mark>
 
