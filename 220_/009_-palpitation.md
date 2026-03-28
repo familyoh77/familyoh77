@@ -6,7 +6,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요 (필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 (필요시 119 호출)**</mark>
 
 * 흉통
 * 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
@@ -18,7 +18,7 @@
 * Exercise 중 발생
 * 유전적 심장 질환 or Sudden arrhythmic death syndrome 가족력
 
-<mark style="color:$warning;">**조기 의뢰 권고 (당일 ~ 수일 내)**</mark>
+<mark style="color:$warning;">**조기 의뢰 (당일 \~ 수일 내)**</mark>
 
 * 증상들과 관련된 두근거림 AND/OR 비정상 ECG AND/OR 심장의 구조적 질환 있음
 * Tachyarrhythmia 반복 의심 병력
@@ -71,7 +71,7 @@
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 질환에 대한 치료. 그 외에는 대부분 치료 필요 없음
-* SVT 동반 두근거림 : **Modified Valsalva Maneuver** 우선 시도 (아래 참고)
+* SVT 동반 두근거림 : Modified Valsalva Maneuver 우선 시도
 * 불안, 스트레스 해소 : 명상, 바이오피드백
 * 강화 : 매일 유산소 운동, 활발한 신체 활동
 * 적당한 체중 유지
@@ -79,39 +79,32 @@
 * 금연
 * 감기약, 허브 등 흥분을 일으키는 약물을 피함
 
-{% hint style="info" %}
 **Modified Valsalva Maneuver** (REVERT trial, Lancet 2015)
 
-표준 Valsalva에 비해 동율동 전환 성공률이 약 43% vs 17%로 유의하게 높음
-
-**적응증** : 혈역학적으로 안정적인 상심실성 빈맥 환자
-
-**금기** : 대동맥 박리, 최근의 심근경색, 녹내장, 망막 병증 등 복압 상승이 위험한 경우
-
-**방법**
-
-1. 환자를 45도 반좌위로 앉힘
-2. 10 mL 주사기 피스톤을 입으로 불어 움직일 정도의 힘(40 mmHg의 압력)으로 **15초간** Valsalva 시행
-3. 불기를 멈추마자 즉시 **수평으로 눕히고 다리를 45도 거상**, 이자세를 15초 유지
-4. 다시 45도앉은 자세로 돌아와 리듬을 확인
-
-⚠️ 고령, 허혈성 심질환, 최근 뇌졸중/TIA 병력환자에서는 경동맥동 마사지 피함
-{% endhint %}
+* 표준 Valsalva에 비해 동율동 전환 성공률이 약 43% vs 17%로 유의하게 높음
+* 적응증 : 혈역학적으로 안정적인 상심실성 빈맥 환자
+* 금기 : 대동맥 박리, 최근의 심근경색, 녹내장, 망막 병증 등 복압 상승이 위험한 경우
+* 방법
+  1. 환자를 45도 반좌위로 앉힘
+  2. 10 mL 주사기 피스톤을 입으로 불어 움직일 정도의 힘(40 mmHg의 압력)으로 15초간 Valsalva 시행
+  3. 불기를 멈추마자 즉시 수평으로 눕히고 다리를 45도 거상, 이자세를 15초 유지
+  4. 다시 45도앉은 자세로 돌아와 리듬을 확인
+* 고령, 허혈성 심질환, 최근 뇌졸중/TIA 병력환자에서는 경동맥동 마사지 피함
 
 ### <mark style="color:orange;">진단 보조 : 장기 심전도 모니터링</mark>
 
 * 표준 12-lead ECG는 간헐적 두근거림 포착에 한계가 있음
 * 증상 재현이 어렵거나 반복되는 경우 다음을 고려:
-  * **패치형 장기 심전도** (예: 메모패치, KardiaMobile) : 수일\~수주 연속 기록 가능
-  * **스마트워치 ECG** (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능
-  * **24시간 Holter 검사** : 증상 빈도가 매일인 경우
+  * 패치형 장기 심전도 (예: 메모패치, KardiaMobile) : 수일\~수주 연속 기록 가능
+  * 스마트워치 ECG (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능
+  * 24시간 Holter 검사 : 증상 빈도가 매일인 경우
 
 ### <mark style="color:orange;">대증 치료</mark>
 
-* 심장 문제 등 원인 질환 배제 후 시행 (☞ p.19)
-* 항불안제 : alprazolam \[자낙스], lorazepam \[아티반] (☞ p.1149)
-* β-차단제 : propranolol 10\~120 ㎎/d \[인데놀], metoprolol 100\~200 ㎎/d \[베타록] (☞ p.487)
-* non-DHP계 CCB : diltiazem 120\~180 ㎎/d \[헤르벤], verapamil 120\~360 ㎎/d \[이솦틴]
+* 심장 문제 등 원인 질환 배제 후 시행 (☞ [흉통](002_-chest-pain.md))
+* 항불안제 : alprazolam \[자낙스], lorazepam \[아티반] (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
+* β-차단제 : propranolol 10\~120 ㎎/d \[인데놀], metoprolol 100\~200 ㎎/d \[베타록] (☞ [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
+* non-DHP계 CCB : diltiazem 120\~180 ㎎/d \[헤르벤], verapamil 120\~360 ㎎/d \[이솦틴] (☞ [CCB](../225_/095_-hypertension.md#calcium-ca-channel-blocker-ccb))
 
 ***
 
