@@ -10,18 +10,18 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요 (심폐 응급; 필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 (심폐 응급; 필요시 119 호출)**</mark>
 
 * 갑자기 발생한 호흡 곤란
-* 객혈, 흉통, 저혈압, 또는  빈맥 동반
+* 객혈, 흉통, 저혈압, 또는 빈맥 동반
 
-<mark style="color:$warning;">**수 시간 내 긴급 평가 필요 (급성 혈관 및 간 기능 부전; 응급실 방문)**</mark>
+<mark style="color:$warning;">**수 시간 내 긴급 평가 (급성 혈관 및 간 기능 부전; 응급실 방문)**</mark>
 
 * 압통이 있는 편측 하지 부종 (DVT 의심)
 * 황달, 복수, 토혈 동반 (간부전 의심)
 * 심장 질환 병력 + 급격히 악화되는 부종
 
-<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 필요 (외래 진료)**</mark>
+<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
 * 심장 이상 소견(심잡음, 부정맥 등)
 * 유의미한 통증 동반 부종
@@ -63,22 +63,13 @@
 * 정맥/림프관 부전은 흔히 DVT의 합병증으로 발생
 * DVT 관련 인자 : 암 병력, 움직이지 않음, 1개월 내 주요 수술로 3일 이상 bed rest, 정맥류
 
-### <mark style="color:orange;">Unilateral predominance</mark>
-
-* 원인 : 정맥 부전, DVT, lymphedema, 종양, complex regional pain syndrome
-
-### <mark style="color:orange;">Bilateral predominance</mark>
-
-* 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
-* 약물 : CCB, pregabalin/gabapentin, NSAID, 호르몬제(예: steroid, estrogen, progesterone, testosterone), thiazolidinedione(Na 재흡수 증가), α-차단제, 항암제
-
 ### <mark style="color:orange;">만성 하지 부종의 감별</mark>
 
-<table><thead><tr><th width="120.57894897460938"></th><th>Cardiac / Orthostatic</th><th>Venous</th><th>Lymphatic</th><th>Lipedema</th></tr></thead><tbody><tr><td><strong>부종 양상</strong></td><td>Pitting</td><td>Brawny</td><td>Spongy</td><td>Non-pitting</td></tr><tr><td><strong>하지 거상으로 호전</strong></td><td>완전</td><td>완전</td><td>경미</td><td>최소</td></tr><tr><td><strong>부종 분포</strong></td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td></tr><tr><td><strong>피부 변화</strong></td><td>빛남, 경미한 착색</td><td>위축, 착색, 피하 섬유화</td><td>비후, 태선화</td><td>없음</td></tr><tr><td><strong>통증</strong></td><td>경미</td><td>심함: 통증, 조임, 파열</td><td>없거나 심한 통증</td><td>둔한 통증, 피부 과민</td></tr><tr><td><strong>양측</strong></td><td>항상</td><td>때때로: 보통 비대칭</td><td>때때로: 보통 비대칭</td><td>항상</td></tr></tbody></table>
+<table><thead><tr><th width="120.57894897460938"></th><th>Cardiac / Orthostatic</th><th>Venous</th><th>Lymphatic</th><th>Lipedema</th></tr></thead><tbody><tr><td><strong>부종 양상</strong></td><td>Pitting</td><td>Brawny*</td><td>Spongy</td><td>Non-pitting</td></tr><tr><td><strong>하지 거상으로 호전</strong></td><td>완전</td><td>완전</td><td>경미</td><td>최소</td></tr><tr><td><strong>부종 분포</strong></td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td></tr><tr><td><strong>피부 변화</strong></td><td>빛남, 경미한 착색</td><td>위축, 착색, 피하 섬유화</td><td>비후, 태선화</td><td>없음</td></tr><tr><td><strong>통증</strong></td><td>경미</td><td>심함: 통증, 조임, 파열</td><td>없거나 심한 통증</td><td>둔한 통증, 피부 과민</td></tr><tr><td><strong>양측</strong></td><td>항상</td><td>때때로: 보통 비대칭</td><td>때때로: 보통 비대칭</td><td>항상</td></tr></tbody></table>
+
+_<mark style="color:$info;">\* Brawny edema: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음.</mark>_
 
 _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23</mark>_
-
-> ✽ **Brawny edema**: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음.
 
 ### <mark style="color:orange;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
 
@@ -99,17 +90,26 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 전신성(특히 눈꺼풀, 안면), 자고 일어난 아침에 심함 → 저단백(알부민＜2.5 g/㎗)
 * dependent position, 오래 서 있은 후(저녁) 하지 부종 → 심부전
 
+**Unilateral predominance**
+
+* 원인 : 정맥 부전, DVT, lymphedema, 종양, complex regional pain syndrome
+
+**Bilateral predominance**
+
+* 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
+* 약물 : CCB, pregabalin/gabapentin, NSAID, 호르몬제(예: steroid, estrogen, progesterone, testosterone), thiazolidinedione(Na 재흡수 증가), α-차단제, 항암제
+
 #### <mark style="color:$primary;">국소 상태</mark>
 
 * 압통 → DVT; 림프부종에서는 보통 압통이 없음 (때로 심한 통증)
 * pitting edema(＞5초) → DVT, 정맥 부전, 림프부종; fibrotic form에서는 보통 나타나지 않음
 * non-pitting edema → lymphedema(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
-* Stemmer sign :  lymphedema에 특이적인 징후로 2nd toe(또는 2nd finger) 근위부 등쪽 피부를 엄지·검지로 집어 올려집히지 않으면 양성; 음성이라도 배제 불가
+* Stemmer sign : lymphedema에 특이적인 징후로 2nd toe(또는 2nd finger) 근위부 등쪽 피부를 엄지·검지로 집어 올려집히지 않으면 양성; 음성이라도 배제 불가
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
 * 작고 깊고 심한 통증성 궤양 → 동맥 부전, 혈관염, 감염
 * 통증이 없는 궤양 → diabetic vascular ulcer
-* 다른 쪽보다 종아리가 ≥3 ㎝ 굵음 → 심부 정맥 폐쇄 의심\
-  <mark style="color:$info;">✽tibial tuberosity의 10 ㎝ 하방에서 측정; 일반적으로 왼쪽 종아리가 약간 더 굵음</mark>
+* 다른 쪽보다 종아리가 ≥3 ㎝ 굵음 → 심부 정맥 폐쇄 의심
+  * tibial tuberosity의 10 ㎝ 하방에서 측정; 일반적으로 왼쪽 종아리가 약간 더 굵음
 * 피부 과각화(hyperkeratosis), 경결(dermal fibrosis) → 만성 림프 부종
 * 갈색 피부, hemosiderin 침착 → 정맥 부전
 
@@ -152,12 +152,12 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ### <mark style="color:orange;">심부전에 의한 부종 — 기저 치료 원칙</mark>
 
-* 부종 자체(이뇨제)보다 **심부전의 신경호르몬 억제 치료**가 장기 예후를 결정함 (ESC HF Guideline 2021)
-* **HFrEF (LVEF ＜40%)** 에서 다음 약제를 단계적으로 추가하여 최대 내약 용량 유지
+* 부종 자체(이뇨제)보다 심부전의 신경호르몬 억제 치료가 장기 예후를 결정함 (ESC HF Guideline 2021)
+* HFrEF (LVEF ＜40%) 에서 다음 약제를 단계적으로 추가하여 최대 내약 용량 유지
   * ACE 억제제 또는 ARB → 베타차단제 → MRA(spironolactone/eplerenone) → 증상 지속 시 SGLT2 억제제(dapagliflozin, empagliflozin) 추가 (Class I, LOE A)
   * SGLT2 억제제 : 이뇨 효과 및 심혈관 사망·심부전 입원 감소; 당뇨 유무와 무관하게 권고
-* **HFpEF (LVEF ≥50%)** : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 고려 (Class IIb)
-* 1차 진료에서 심부전 확인 시 **심장내과 협진 또는 의뢰** 권고 (약물 선택 및 용량 조절)
+* HFpEF (LVEF ≥50%) : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 고려 (Class IIb)
+* 1차 진료에서 심부전 확인 시 심장내과 협진 또는 의뢰 권고 (약물 선택 및 용량 조절)
 
 _<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599–726.</mark>_
 
