@@ -64,6 +64,55 @@
 
 ![](../.gitbook/assets/31a772b8-201a-40cb-9ca0-1a8117ee2025.JPG)
 
+
+
+***
+
+### <mark style="color:orange;">심방세동(AF) 세부 관리 알고리즘</mark>
+
+#### <mark style="color:$primary;">진단 및 초기 평가 (Step 1: Diagnose & Characterize)</mark>
+
+* 진단 확진: 표준 12-유도 ECG 또는 30초 이상의 단일 유도 ECG(스마트워치 등)에서 P파 소실 및 불규칙한 RR 간격 확인
+* 증상 평가: EHRA score 등을 활용하여 환자의 일상생활 제한 정도 파악
+* 기저 원인 파악: 고혈압, 심부전, 갑상선 기능 항진증, 수면무호흡증(OSA), 과도한 음주 여부 확인
+
+#### <mark style="color:$primary;">뇌졸중 예방 (Step 2: Stroke Prevention - CC)</mark>
+
+* CHA₂DS₂-VASc Score 점수에 따라 항응고 요법(NOAC 등) 필요성을 결정
+
+<table data-header-hidden><thead><tr><th width="238.78948974609375"></th><th width="55.315673828125"></th><th width="322.970458984375"></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>점수</strong></td><td><strong>내용</strong></td></tr><tr><td><strong>C</strong> (Congestive Heart Failure)</td><td>1</td><td>심부전 또는 좌심실 기능 저하</td></tr><tr><td><strong>H</strong> (Hypertension)</td><td>1</td><td>고혈압</td></tr><tr><td><strong>A₂</strong> (Age ≥75)</td><td>2</td><td>75세 이상 (65~74세는 1점)</td></tr><tr><td><strong>D</strong> (Diabetes Mellitus)</td><td>1</td><td>당뇨병</td></tr><tr><td><strong>S₂</strong> (Stroke/TIA)</td><td>2</td><td>뇌졸중, 일과성 허혈 발작, 혈전색전증 과거력</td></tr><tr><td><strong>V</strong> (Vascular disease)</td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 판막 질환</td></tr><tr><td><strong>Sc</strong> (Sex category)</td><td>1</td><td>여성 (다른 위험 인자가 없을 때는 0점으로 간주)</td></tr></tbody></table>
+
+* 남성 ≥2점, 여성 ≥3점: 항응고 요법(NOAC) 강력 권고
+* 남성 1점, 여성 2점: 환자의 상태에 따라 항응고 요법 고려
+* 0점(남성), 1점(여성): 항응고 요법 불필요
+
+#### <mark style="color:$primary;">증상 조절 (Step 3: Symptom Control)</mark>
+
+* 환자의 상태에 따라 심박수 조절 vs 리듬 조절 중 선택
+
+**심박수 조절 (Rate control)**
+
+* 대부분의 경우  우선 선택
+* 목표: 휴식 시 맥박수 ＜110회/분
+* 1차 약제
+  * β-차단제: 인데놀, 베타록 등
+  * non-DHP CCB: 헤르벤, 이솦틴 (단, 심부전 환자에게는 금기)
+  * Digoxin: 심부전 동반 시 추가 고려
+
+**리듬 조절 (Rhythm control)**
+
+* 심박수 조절 후에도 증상이 지속되거나 완치를 목표로 할 때 고려합니다.
+* 대상: 유증상 환자, 젊은 연령, 빈맥 유발성 심근병증 우려 시
+* 방법: 항부정맥제 투여, 전기적 심율동 전환, 전도자 절제술(Ablation)
+* 주의: 발생 48시간 경과 시 혈전 확인(경식도 초음파) 또는 3주 이상의 선행 항응고 요법 필수
+
+> <mark style="color:red;">**상급 병원 의뢰 기준**</mark>
+>
+> * 처음 진단된 심방세동의 기저 원인 평가(심초음파 등)가 필요한 경우
+> * 약물 치료에도 심박수 조절(Rate control)이 되지 않는 경우
+> * 젊은 환자에서 근치적 목적의 절제술(Ablation)을 고려하는 경우
+> * 항응고 요법 시작 전 출혈 위험 평가 및 약제 선택이 복잡한 경우
+
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
