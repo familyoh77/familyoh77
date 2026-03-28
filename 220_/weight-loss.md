@@ -9,17 +9,17 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요 (필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 (필요시 119 호출)**</mark>
 
 * 심한 영양실조로 인한 의식 변화 또는 활력징후 불안정(저혈압, 빈맥)
 
-<mark style="color:$warning;">**수 시간 내 긴급 평가 필요 (응급실 방문)**</mark>
+<mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
 * 심한 탈수
 * 단기간 내 급격한 쇠약, 급격한 체중 감소
 * 조절되지 않는 정신질환(거식증 등)으로 인한 진행성 체중 감소
 
-<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 필요 (외래 진료)**</mark>
+<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
 * 단백질·에너지 영양실조
 * 비의도적 체중 감소 (6개월 내 체중의 5% 이상)
@@ -68,20 +68,13 @@
 
 ※ 국가 암검진 수검 여부 확인 및 미수검 항목 시행 권고 : 의도하지 않은 체중 감소가 있는 경우 검진 주기와 무관하게 해당 암종 검사를 적극 시행; 증상 기반의 추가 검사(예: 대장내시경, 흉부 CT)는 선별검진과 별도로 임상적 판단에 따라 결정
 
-#### <mark style="color:$primary;">암 의심 조기 의뢰 기준 \[NICE 2023]</mark>
+#### <mark style="color:$primary;">암 의심 조기 의뢰 기준</mark>&#x20;
 
-* 의도하지 않은 체중 감소가 다음 증상과 동반되는 경우 **2주 내 전문과 의뢰** 고려
+(NICE 2023)
 
-| 동반 증상 | 의심 암종 |
-|---|---|
-| 연하 곤란 | 식도암, 위암 |
-| 상복부 종괴, 조기 포만감, 오심 지속 | 위암 |
-| 직장 출혈, 배변 습관 변화(6주 이상) | 대장암 |
-| 객혈, 3주 이상 지속 기침, 쉰 목소리 | 폐암 |
-| 혈뇨(통증 없음) | 신장암, 방광암 |
-| 폐경 후 질 출혈 | 자궁내막암 |
-| 유방 종괴, 피부 함몰 | 유방암 |
-| 쇄골 위·겨드랑이 비통증성 림프절 비대 | 림프종, 전이암 |
+* 의도하지 않은 체중 감소가 다음 증상과 동반되는 경우 2주 내 전문과 의뢰 고려
+
+<table><thead><tr><th width="347.94732666015625">동반 증상</th><th>의심 암종</th></tr></thead><tbody><tr><td>연하 곤란</td><td>식도암, 위암</td></tr><tr><td>상복부 종괴, 조기 포만감, 오심 지속</td><td>위암</td></tr><tr><td>직장 출혈, 배변 습관 변화(6주 이상)</td><td>대장암</td></tr><tr><td>객혈, 3주 이상 지속 기침, 쉰 목소리</td><td>폐암</td></tr><tr><td>혈뇨(통증 없음)</td><td>신장암, 방광암</td></tr><tr><td>폐경 후 질 출혈</td><td>자궁내막암</td></tr><tr><td>유방 종괴, 피부 함몰</td><td>유방암</td></tr><tr><td>쇄골 위·겨드랑이 비통증성 림프절 비대</td><td>림프종, 전이암</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referral. NG12. 2023 update.</mark>_
 
@@ -90,6 +83,8 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 고령(≥65세)의 의도하지 않은 체중 감소에서 원인을 빠뜨리지 않기 위한 체크 도구
 
 <table><thead><tr><th width="120.3157958984375">D</th><th width="130.94732666015625">항목</th><th>확인 내용</th></tr></thead><tbody><tr><td>Dentition</td><td>치아/구강 문제</td><td>틀니 불량, 충치, 구강 통증 → 섭취량 감소</td></tr><tr><td>Dysphagia</td><td>삼킴 장애</td><td>사레, 음식물 걸림, 연하 통증</td></tr><tr><td>Dysgeusia</td><td>미각/후각 변화</td><td>약물(ACEI, 항생제 등) 포함 원인 확인</td></tr><tr><td>Diarrhea</td><td>설사/흡수 장애</td><td>만성 설사, 지방변, 췌장 부전</td></tr><tr><td>Depression</td><td>우울증</td><td>식욕 저하, 무기력, 고립감</td></tr><tr><td>Disease</td><td>기저 질환</td><td>암, 심부전, 당뇨, 갑상선, 만성 감염 등</td></tr><tr><td>Dementia</td><td>인지 장애</td><td>식사 잊음, 식사 거부, 조리 불가</td></tr><tr><td>Dysfunction</td><td>기능 저하</td><td>ADL 저하 → 장보기·조리·식사 동작 불가</td></tr><tr><td>Drugs</td><td>약물</td><td>식욕 저하·미각 변화·소화 장애 유발 약물 (위 목록 참조)</td></tr></tbody></table>
+
+***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -108,7 +103,7 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
   * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) <mark style="color:blue;">\[메게이스]</mark>
   * mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능; 15\~30 ㎎/d <mark style="color:blue;">\[레메론]</mark>
 * anticatabolic agent : 오메가-3(암 관련 악액질에서 일부 근거; 일반적 체중 감소에서는 제한적), pentoxifylline, hydrazine sulfate(임상적 유효성 미입증), thalidomide(국내 처방 적응증 제한)
-* 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함 <mark style="color:blue;">\[트레스탄]</mark>\(비보험)
+* 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함 <mark style="color:blue;">\[트레스탄]</mark>(비보험)
 
 ***
 
@@ -155,10 +150,10 @@ R63.4 이상체중감소
 
 > **항우울제 — mirtazapine (레메론)**
 >
-> * 초기에 강한 졸음이 올 수 있으므로 취침 전 복용이 권장됩니다. 대개 1~2주 후 적응됩니다.
+> * 초기에 강한 졸음이 올 수 있으므로 취침 전 복용이 권장됩니다. 대개 1\~2주 후 적응됩니다.
 > * 식욕 증가와 체중 증가 효과가 있으며, 이것이 처방 목적 중 하나입니다.
 > * 갑자기 중단하면 어지럼·오심·불안이 생길 수 있습니다. 반드시 서서히 줄이십시오.
-> * 효과는 2~4주 후부터 나타납니다. 효과가 없다고 임의로 중단하지 마십시오.
+> * 효과는 2\~4주 후부터 나타납니다. 효과가 없다고 임의로 중단하지 마십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
