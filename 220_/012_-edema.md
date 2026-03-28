@@ -134,7 +134,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ***
 
-<figure><img src="../.gitbook/assets/부종3-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/부종3.JPG" alt=""><figcaption></figcaption></figure>
 
 ***
 
