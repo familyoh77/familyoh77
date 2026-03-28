@@ -151,15 +151,15 @@
 * 과호흡(공황/불안) : 복식호흡 유도, 조절 호흡(4-7-8 호흡 또는 pursed-lip breathing)
   * 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
 * 산소 공급(마스크) : SpO₂ 목표- ≥94%(5\~10 L/min), COPD 환자 88\~92%(1\~2 L/min부터 적정), 임신부 ≥95%
-* Nitrate : nitroglycerin 0.6 ㎎ 설하 투여 \[니트로글리세린 설하정]\(0.6 ㎎/T) (☞ [nitrate](../225_/097_-angina-pectoris.md#nitrate))
+* Nitrate : nitroglycerin 0.6 ㎎ 설하 투여 <mark style="color:blue;">\[니트로글리세린 설하정]</mark>(0.6 ㎎/T) (☞ [nitrate](../225_/097_-angina-pectoris.md#nitrate))
   * 금기 : SBP ＜90 ㎜Hg; PDE5 억제제(sildenafil 48시간, tadalafil 72시간 이내) 복용
   * ✽ 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의; 우심실은 전부하(preload) 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
 * 이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
   * 투여 전 혈압 확인 필수 : SBP ＜90 ㎜Hg 시 투여 금기 (혈압 감소로 관류 저하 위험)
-  * furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요 시 반복 \[라식스]\(40 ㎎/T, 20 ㎎/A); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
+  * furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요 시 반복 <mark style="color:blue;">\[라식스]</mark>(40 ㎎/T, 20 ㎎/A); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
 * 빈맥(supraventricular tachycardia) : Valsalva maneuver, 경동맥동 마사지(고령 또는 허혈성 심질환에서는 피함)
-* 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI \[벤토린] (☞ [벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
-* Steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d \[소론도]\(5 ㎎/T) (☞ [소론도](../223_/071_-asthma.md#undefined-50))
+* 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI <mark style="color:blue;">\[벤토린]</mark> (☞ [벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
+* Steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d <mark style="color:blue;">\[소론도]</mark>(5 ㎎/T) (☞ [소론도](../223_/071_-asthma.md#undefined-50))
 
 ***
 

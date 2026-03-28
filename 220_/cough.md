@@ -192,9 +192,9 @@
 
     ✽ 식후 기침 악화(postprandial cough)가 뚜렷한 경우 역류성 기침 가능성이 높으며, PPI 반응 예측에 참고할 수 있음 (임상 관찰 근거)
 * 원인 미상의 refractory cough : 기침 과민증후군을 의심하며 말초 및 중추성 cough reflex 과민에 대한 neuromodulator 치료 고려; 반응이 있으면 4주내 호전
-  * gabapentin 300 ㎎/d, 점차 증량, 최대 1800 ㎎/d \[뉴론틴], pregabalin 300 ㎎/d \[리리카] (보험주의; 만성 기침에 대한 급여 인정 기준 없음 - 처방 전 환자에게 비급여 사용임을 사전 설명)
-  * amitriptyline 10 ㎎/d으로 시작, 최대 25 ㎎/d, 취침 전 \[에트라빌] (보험주의; 동일하게 사전 설명 필요)
-  * P2X3 수용체 길항제 : gefapixant\[Lyfnua]가 난치성/불명확 만성 기침에 대해 일본·유럽에서 승인됨. 주요 부작용은 미각 장애(dysgeusia). 국내 미승인
+  * gabapentin 300 ㎎/d, 점차 증량, 최대 1800 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>, pregabalin 300 ㎎/d <mark style="color:blue;">\[리리카]</mark> (보험주의; 만성 기침에 대한 급여 인정 기준 없음 - 처방 전 환자에게 비급여 사용임을 사전 설명)
+  * amitriptyline 10 ㎎/d으로 시작, 최대 25 ㎎/d, 취침 전 <mark style="color:blue;">\[에트라빌]</mark> (보험주의; 동일하게 사전 설명 필요)
+  * P2X3 수용체 길항제 : gefapixant <mark style="color:blue;">\[Lyfnua]</mark>가 난치성/불명확 만성 기침에 대해 일본·유럽에서 승인됨. 주요 부작용은 미각 장애(dysgeusia). 국내 미승인
 
 ### <mark style="color:orange;">상기도기침증후군</mark>
 
