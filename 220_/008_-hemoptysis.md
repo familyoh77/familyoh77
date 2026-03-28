@@ -10,25 +10,23 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요**</mark>
+<mark style="color:$danger;">**즉각 응급 조치**</mark>
 
 * 대량 객혈 : ＞200 ㎖/48h or ＞50 ㎖/episode (문헌에 따라 100\~600 mL/24h 기준 사용; 수치보다 기도 폐쇄 여부가 더 중요)
 * 빈호흡(＞30회/분), 산소 포화도 ＜88% in room air, 휴식 시 호흡 곤란, 호흡음 감소
 
-<mark style="color:$warning;">**조기 평가 필요 (당일 \~ 수일 내)**</mark>
+<mark style="color:$warning;">**조기 평가 (당일 \~ 수일 내)**</mark>
 
 * Hb ＜8 g/㎗ or 기저치에서 ＞2 g/㎗ 하락
 * 출혈 위험이 높은 원인 (예: 폐동맥 질환 관련)
 * 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡 곤란 (심부전에 의한 객혈 시사)
 
-<mark style="color:$info;">**계획적 정밀 검사 필요**</mark>
+<mark style="color:$info;">**계획적 정밀 검사**</mark>
 
 * 체중 감소, 피로, malaise
-* 과도한 흡연력 ※ 역학적 위험인자
+* 과도한 흡연력
 
-{% hint style="danger" %}
-**기도 폐쇄(Asphyxia) 위험 — 즉각 대응** 소량의 객혈이라도 기도를 막으면 질식사 가능. 호흡 곤란·호흡음 감소·산소포화도 저하가 있으면 즉시 기도 확보 및 응급 의뢰
-{% endhint %}
+※ 기도 폐쇄(asphyxia) 위험 시 즉각 대응; 소량의 객혈이라도 기도를 막으면 질식사 가능. 호흡 곤란·호흡음 감소·산소포화도 저하가 있으면 즉시 기도 확보 및 응급 의뢰
 
 ## <mark style="color:green;">원인 및 감별</mark>
 
@@ -84,19 +82,17 @@
 * 원인 치료
   * 감염(폐렴, 결핵, 폐농양) : 적절한 항생제 투여
   * 항응고제 관련 : 항응고제 중단 또는 용량 조정 고려
-  * 심부전 : 이뇨제, nitrate (☞ 호흡 곤란 참고)
+  * 심부전 : 이뇨제, nitrate (☞ [호흡 곤란](007_-dyspnea.md#management))
 * 소량\~중등도 객혈 지혈 보조
   * Tranexamic acid 경구 : 500\~1,000 mg tid, 단기 사용 고려 (근거 수준 moderate)
   * Tranexamic acid 흡입 : 500 mg in 5 mL NS, nebulizer (일부 연구에서 지혈 효과 보고)
 * 소량 객혈, 안정적 환자 : 원인 파악 후 외래 추적
 
-### <mark style="color:orange;">위험도 분류 및 처치 방향 \[BTS 2020]</mark>
+### <mark style="color:orange;">위험도 분류 및 처치 방향</mark>&#x20;
 
-| 위험도 | 기준 | 처치 |
-|---|---|---|
-| **고위험** | 대량 객혈, 기도 위협, 활동성 출혈 지속 | 즉시 응급실 의뢰, 기도 확보 |
-| **중위험** | 암·결핵 의심, 반복 객혈, 흉부 X선 이상, 항응고제 복용 | 수일 내 전문과 의뢰(CT, 기관지경) |
-| **저위험** | 젊은 비흡연자, 단발성 소량, URI 상황, X선 정상 | 외래 경과 관찰, 4주 내 재평가 |
+\[BTS 2020]
+
+<table><thead><tr><th width="85.10528564453125">위험도</th><th width="286.15789794921875">기준</th><th>처치</th></tr></thead><tbody><tr><td><strong>고위험</strong></td><td>대량 객혈, 기도 위협, 활동성 출혈 지속</td><td>즉시 응급실 의뢰, 기도 확보</td></tr><tr><td><strong>중위험</strong></td><td>암·결핵 의심, 반복 객혈, 흉부 X선 이상, 항응고제 복용</td><td>수일 내 전문과 의뢰(CT, 기관지경)</td></tr><tr><td><strong>저위험</strong></td><td>젊은 비흡연자, 단발성 소량, URI 상황, X선 정상</td><td>외래 경과 관찰, 4주 내 재평가</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Radchenko C et al. British Thoracic Society Guideline for the investigation and management of haemoptysis. Thorax. 2020;75(Suppl 2):2–17.</mark>_
 
