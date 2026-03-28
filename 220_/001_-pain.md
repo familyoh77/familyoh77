@@ -187,7 +187,7 @@
 
 * 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용 <mark style="color:blue;">\[듀로제식디트랜스 패취]</mark>
 
-#### 비암성 만성 통증에서 Opioid 처방 10대 원칙
+#### <비암성 만성 통증에서 Opioid 처방 10대 원칙>
 
 (대한통증학회, 2024)
 
@@ -432,10 +432,6 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 ‡ 신규 메타분석(Tawfik 2026) 미포함 약제 — 구형 메타분석(Castellsague 2012) 상대위험도(RR) 값\
 \&#xNAN;_<mark style="color:$info;">Ref. Tawfik AG et al. Nonsteroidal Anti-Inflammatory Drugs and Risk of Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. Clin Pharmacol Ther. 2026;119(1):46–62. / 미포함 약제(‡): Castellsague J et al. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf. 2012;35(12):1127–46.</mark>_
 
-#### <mark style="color:$primary;">질환별 NSAID 선택</mark>
-
-<table data-header-hidden><thead><tr><th width="145.6842041015625"></th><th width="215.57891845703125"></th><th></th></tr></thead><tbody><tr><td><strong>위험 요인</strong></td><td><strong>권장 사항 및 약제</strong></td><td><strong>주의 및 금기</strong></td></tr><tr><td>심혈관 위험</td><td>국소 외용제 우선,<br>불가피 시 naproxen</td><td>COX-2 억제제 고용량 주의</td></tr><tr><td>신장애 위험</td><td>국소 외용제 우선</td><td>fenoprofen 금기, 이뇨제 병용 주의</td></tr><tr><td>위장관 위험</td><td>celecoxib, PPI 병용</td><td>ketorolac 피함, 고령자 주의</td></tr><tr><td>간 장애 위험</td><td>acetaminophen (≤2g/d)</td><td>sulindac, diclofenac 간독성 주의</td></tr></tbody></table>
-
 #### <mark style="color:$primary;">**Oxford league table**</mark>
 
 <table><thead><tr><th width="199.6842041015625">성분명 (mg)</th><th width="108.0526123046875">NNT¹⁾</th><th width="200">성분명 (mg)</th><th width="107.631591796875">NNT</th></tr></thead><tbody><tr><td>Dipyrone 1000</td><td>1.6</td><td>Lumiracoxib 400</td><td>2.7</td></tr><tr><td>Etoricoxib 120</td><td>1.6</td><td>Naproxen 500/550</td><td>2.7</td></tr><tr><td>Valdecoxib 40</td><td>1.6</td><td>Naproxen 400/440</td><td>2.7</td></tr><tr><td>Ibuprofen 600/800</td><td>1.7</td><td>Piroxicam 20</td><td>2.7</td></tr><tr><td>Valdecoxib 20</td><td>1.7</td><td>Bromfenac 10</td><td>2.9</td></tr><tr><td>Diclofenac 100</td><td>1.8</td><td>Morphine 10 (IM)</td><td>2.9</td></tr><tr><td>Ketorolac 20</td><td>1.8</td><td>Tramadol 150</td><td>2.9</td></tr><tr><td>Ketorolac 60 (IM)</td><td>1.8</td><td>Ketorolac 30 (IM)</td><td>3.4</td></tr><tr><td>Piroxicam 40</td><td>1.9</td><td>Naproxen 200/220</td><td>3.4</td></tr><tr><td>Celecoxib 400</td><td>2.1</td><td>AAP 500</td><td>3.5</td></tr><tr><td>Bromfenac 25</td><td>2.2</td><td>Celecoxib 200</td><td>3.5</td></tr><tr><td>Rofecoxib 50</td><td>2.3</td><td>AAP 1500</td><td>3.7</td></tr><tr><td>Aspirin 1200</td><td>2.4</td><td>Ibuprofen 100</td><td>3.7</td></tr><tr><td>Bromfenac 50</td><td>2.4</td><td>AAP 1000</td><td>3.7</td></tr><tr><td>Dipyrone 500</td><td>2.4</td><td>Aspirin 600/650</td><td>4.4</td></tr><tr><td>Ibuprofen 400</td><td>2.5</td><td>AAP 600/650</td><td>4.6</td></tr><tr><td>AAP 650+Trama 75</td><td>2.6</td><td>Ibuprofen 50</td><td>4.7</td></tr><tr><td>Bromfenac 100</td><td>2.6</td><td>Tramadol 100</td><td>4.8</td></tr><tr><td>Diclofenac 25</td><td>2.6</td><td>Tramadol 75</td><td>5.3</td></tr><tr><td>Ketorolac 10</td><td>2.6</td><td>Ketorolac 10 (IM)</td><td>5.7</td></tr><tr><td>Diclofenac 50</td><td>2.7</td><td>Bromfenac 5</td><td>7.1</td></tr><tr><td>Ibuprofen 200</td><td>2.7</td><td>Tramadol 50</td><td>8.3</td></tr></tbody></table>
@@ -452,23 +448,15 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ***
 
+### <mark style="color:orange;">질환별 NSAID 선택</mark>
+
+<table data-header-hidden><thead><tr><th width="145.6842041015625"></th><th width="215.57891845703125"></th><th></th></tr></thead><tbody><tr><td><strong>위험 요인</strong></td><td><strong>권장 사항 및 약제</strong></td><td><strong>주의 및 금기</strong></td></tr><tr><td>심혈관 위험</td><td>국소 외용제 우선,<br>불가피 시 naproxen</td><td>COX-2 억제제 고용량 주의</td></tr><tr><td>신장애 위험</td><td>국소 외용제 우선</td><td>fenoprofen 금기, 이뇨제 병용 주의</td></tr><tr><td>위장관 위험</td><td>celecoxib, PPI 병용</td><td>ketorolac 피함, 고령자 주의</td></tr><tr><td>간 장애 위험</td><td>acetaminophen (≤2g/d)</td><td>sulindac, diclofenac 간독성 주의</td></tr></tbody></table>
+
 ### <mark style="color:orange;">주요 통증 약물 병용 금기 및 주의 리스트 (DUR)</mark>
 
 <table><thead><tr><th width="123.73681640625">약물군</th><th width="153.78948974609375">병용 주의/금기 약물</th><th>주요 위험</th><th>임상적 대처 방안</th></tr></thead><tbody><tr><td>Opioids*</td><td>Benzodiazepines</td><td>호흡 저하, 사망 위험</td><td>가급적 병용 금기. 최소 용량 처방.</td></tr><tr><td>Tramadol</td><td>SSRIs, SNRIs, TCAs</td><td>세로토닌 증후군, 발작</td><td>항우울제 병용 시 세로토닌 증상 관찰.</td></tr><tr><td>NSAIDs</td><td>Anticoagulants</td><td>위장관 출혈 위험</td><td>PPI 병용 및 응고 수치 추적.</td></tr><tr><td>NSAIDs</td><td>Corticosteroids</td><td>위궤양/천공 위험</td><td>COX-2 선택적 억제제 전환 권장.</td></tr><tr><td>NSAIDs</td><td>ACEI/ARB, Diuretics</td><td>급성 신손상</td><td>신기능(eGFR) 및 혈압 모니터링 필수.</td></tr><tr><td>Pregabalin</td><td>Opioids</td><td>과도한 진정, 호흡 억제</td><td>각각의 시작 용량을 평소보다 감량.</td></tr></tbody></table>
 
 **\***&#x4F;pioid + Benzodiazepine 조합은 중추신경계 억제를 심화시켜 치명적인 호흡 정지를 유발할 수 있음. 환자가 기존에 수면제나 불안 해소제를 복용 중인지 반드시 확인
-
-***
-
-### <mark style="color:purple;">약제별 보험 급여 인정 상병 코드 매칭표</mark>
-
-<table><thead><tr><th width="151.631591796875">약물 분류</th><th width="212.3157958984375">권장 상병 코드 (KCD-8)</th><th>급여 핵심 기준 및 주의사항</th></tr></thead><tbody><tr><td><strong>COX-2 저해제</strong><br>Celecoxib</td><td>M15~M19 (골관절염)<br>M05~M06 (류마티스)</td><td>60세 이상 자동 인정. 60세 미만은 위궤양 기왕력 등 사유 필요</td></tr><tr><td><strong>가바펜티노이드</strong><br>Pregabalin</td><td>E10~E14 (당뇨병성 신경병증)<br>B02.2 (대상포진 후 신경통)</td><td>단순 요통 처방 시 삭감 위험. G63 (신경병성 통증) 코드 병행 권장</td></tr><tr><td><strong>SNRI 항우울제</strong><br>Duloxetine</td><td>M79.7 (섬유근통)<br>M17 (무릎 골관절염)</td><td>무릎 골관절염은 NSAIDs에 반응하지 않는 경우에만 인정</td></tr><tr><td><strong>마약성 진통제</strong><br>Oxycodone 등</td><td>M54.5 (만성 하부요통)<br>M15~M19 (심한 골관절염)</td><td>NSAIDs 최대 용량 투여 후 효과 없을 시 인정 (차트 기재 필수)</td></tr><tr><td><strong>프로스타글란딘</strong><br>Limaprost</td><td>M48.0 (척추관 협착증)</td><td>척추관 협착증 또는 Burger병 코드 필수</td></tr><tr><td><strong>Lidocaine patch</strong></td><td>B02.2 (대상포진 후 신경통)</td><td>PHN 외 상병은 전액 본인부담</td></tr></tbody></table>
-
-※ **삭감 예방을 위한 차트 기재 가이드**
-
-* NSAID&#x73;**:** "60세 미만이나 상부 위장관 질환 병력 있어 COX-2 선택 처방함"
-* Neuropathic agents: "VAS 7점 이상의 전격통 및 저림 증상으로 기능 저하 심해 투여 시작"
-* Opioids: "기존 비마약성 진통제(NSAIDs 등) 최대 용량으로 조절되지 않는 만성 통증으로 단계적 증량"
 
 ***
 
@@ -493,6 +481,16 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 > 쎄레브렉스 200 ㎎/C 1C qd 또는
 > 울트라셋 이알 세미 2T #2 (단기 사용)
 > ```
+
+### <mark style="color:purple;">약제별 보험 급여 인정 상병 코드 매칭표</mark>
+
+<table><thead><tr><th width="151.631591796875">약물 분류</th><th width="212.3157958984375">권장 상병 코드 (KCD-8)</th><th>급여 핵심 기준 및 주의사항</th></tr></thead><tbody><tr><td><strong>COX-2 저해제</strong><br>Celecoxib</td><td>M15~M19 (골관절염)<br>M05~M06 (류마티스)</td><td>60세 이상 자동 인정. 60세 미만은 위궤양 기왕력 등 사유 필요</td></tr><tr><td><strong>가바펜티노이드</strong><br>Pregabalin</td><td>E10~E14 (당뇨병성 신경병증)<br>B02.2 (대상포진 후 신경통)</td><td>단순 요통 처방 시 삭감 위험. G63 (신경병성 통증) 코드 병행 권장</td></tr><tr><td><strong>SNRI 항우울제</strong><br>Duloxetine</td><td>M79.7 (섬유근통)<br>M17 (무릎 골관절염)</td><td>무릎 골관절염은 NSAIDs에 반응하지 않는 경우에만 인정</td></tr><tr><td><strong>마약성 진통제</strong><br>Oxycodone 등</td><td>M54.5 (만성 하부요통)<br>M15~M19 (심한 골관절염)</td><td>NSAIDs 최대 용량 투여 후 효과 없을 시 인정 (차트 기재 필수)</td></tr><tr><td><strong>프로스타글란딘</strong><br>Limaprost</td><td>M48.0 (척추관 협착증)</td><td>척추관 협착증 또는 Burger병 코드 필수</td></tr><tr><td><strong>Lidocaine patch</strong></td><td>B02.2 (대상포진 후 신경통)</td><td>PHN 외 상병은 전액 본인부담</td></tr></tbody></table>
+
+※ **삭감 예방을 위한 차트 기재 가이드**
+
+* NSAID&#x73;**:** "60세 미만이나 상부 위장관 질환 병력 있어 COX-2 선택 처방함"
+* Neuropathic agents: "VAS 7점 이상의 전격통 및 저림 증상으로 기능 저하 심해 투여 시작"
+* Opioids: "기존 비마약성 진통제(NSAIDs 등) 최대 용량으로 조절되지 않는 만성 통증으로 단계적 증량"
 
 ***
 
