@@ -34,7 +34,7 @@
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-#### <mark style="color:$primary;">**직업·환경적 요인** (번아웃의 주요 원인)</mark>
+#### <mark style="color:$primary;">**직업·환경적 요인**</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">(번아웃의 주요 원인)</mark>
 
 * 과도한 업무량, 시간 압박, 자율성 부족
 * 불충분한 보상(금전적·정서적), 조직 내 불공정

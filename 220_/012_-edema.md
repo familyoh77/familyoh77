@@ -82,11 +82,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ### <mark style="color:orange;">원인별 부종의 특징 비교</mark>
 
-| 구분 | 심부전 | 신증후군 | 간경화 | 특발성 부종 |
-|---|---|---|---|---|
-| 주요 부위 | 하지(심장보다 낮은 위치); ascending edema | 안면(눈가) 및 전신; periorbital edema | 복수 + 하지 | 안면, 손, 하지 |
-| 심화 시간 | 저녁(활동 후) | 아침(기상 직후) | 비교적 일정 | 저녁(체중 일중 변동 심함) |
-| 동반 증상 | 호흡 곤란, 경정맥 확장, orthopnea | 거품뇨, 단백뇨, 저알부민혈증 | 황달, 복수, 여성형 유방 | 정서적 스트레스, 월경 전 악화 |
+<table><thead><tr><th width="94.31576538085938">구분</th><th width="143.5789794921875">심부전</th><th width="137.368408203125">신증후군</th><th width="103.78948974609375">간경화</th><th>특발성 부종</th></tr></thead><tbody><tr><td>주요 부위</td><td>하지(심장보다 낮은 위치); ascending edema</td><td>안면(눈가) 및 전신; periorbital edema</td><td>복수 + 하지</td><td>안면, 손, 하지</td></tr><tr><td>심화 시간</td><td>저녁(활동 후)</td><td>아침(기상 직후)</td><td>비교적 일정</td><td>저녁(체중 일중 변동 심함)</td></tr><tr><td>동반 증상</td><td>호흡 곤란, 경정맥 확장, orthopnea</td><td>거품뇨, 단백뇨, 저알부민혈증</td><td>황달, 복수, 여성형 유방</td><td>정서적 스트레스, 월경 전 악화</td></tr></tbody></table>
 
 ## <mark style="color:green;">진단</mark>
 
@@ -112,12 +108,8 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 압통 → DVT; 림프부종에서는 보통 압통이 없음 (때로 심한 통증)
 * pitting edema : pretibial area(정강이뼈 앞), 발등, medial malleolus(안쪽 복사뼈) 부위를 엄지손가락으로 5초 이상 압박 후 함몰 여부 확인; DVT, 정맥 부전, 림프부종에서 양성; fibrotic form에서는 보통 나타나지 않음
 
-| 등급 | 함몰 깊이 | 회복 시간 | 임상 소견 |
-|---|---|---|---|
-| 1+ | 2 mm 이하 | 즉시 | 경미한 부종 |
-| 2+ | 2~4 mm | 15초 이내 | 중등도; 하지 윤곽 유지 |
-| 3+ | 4~6 mm | 1분 이내 | 심한 부종; 하지 윤곽 변형 |
-| 4+ | 6~8 mm 이상 | 2분 이상 | 매우 심한 부종; 현저한 하지 변형 |
+<table><thead><tr><th width="100.3157958984375">등급</th><th width="137.26312255859375">함몰 깊이</th><th width="127.89471435546875">회복 시간</th><th>임상 소견</th></tr></thead><tbody><tr><td>1+</td><td>2 ㎜ 이하</td><td>즉시</td><td>경미한 부종</td></tr><tr><td>2+</td><td>2~4 ㎜</td><td>15초 이내</td><td>중등도; 하지 윤곽 유지</td></tr><tr><td>3+</td><td>4~6 ㎜</td><td>1분 이내</td><td>심한 부종; 하지 윤곽 변형</td></tr><tr><td>4+</td><td>6~8 ㎜ 이상</td><td>2분 이상</td><td>매우 심한 부종; 현저한 하지 변형</td></tr></tbody></table>
+
 * non-pitting edema → lymphedema(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
 * Stemmer sign : lymphedema에 특이적인 징후로 2nd toe(또는 2nd finger) 근위부 등쪽 피부를 엄지·검지로 집어 올려집히지 않으면 양성; 음성이라도 배제 불가
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
@@ -142,7 +134,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ***
 
-![](../.gitbook/assets/77f1e6a7-ba14-42d6-8b3f-a113fff1a945.JPG)
+<figure><img src="../.gitbook/assets/부종3-1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -160,16 +152,15 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
   * 만성 정맥 부전에서도 volume overload 상태가 아니면 이뇨제 사용을 권하지 않음
 * 1차 선택 : loop diuretics(예: furosemide, bumetanide, torsemide)
 * cirrhosis 시 spironolactone + loop diuretics
-* furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ <mark style="color:blue;">\[라식스]</mark>
-  * 반응 불충분 시 24\~48시간 간격으로 용량 증량 가능 (최대 PO 600 ㎎/d, IV 200 ㎎/dose)
-  * 신부전 또는 신증후군 시 고용량 필요
-  * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
+*   furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ <mark style="color:blue;">\[라식스]</mark>
 
-{% hint style="info" %}
-**이뇨제 저항성 시 Sequential Nephron Blockade 전략**
+    * 반응 불충분 시 24\~48시간 간격으로 용량 증량 가능 (최대 PO 600 ㎎/d, IV 200 ㎎/dose)
+    * 신부전 또는 신증후군 시 고용량 필요
+    * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
 
-심한 부종 또는 신기능 저하로 loop 이뇨제 단독으로 반응이 불충분한 경우, metolazone(메토라존) 또는 hydrochlorothiazide를 loop 이뇨제 투여 30분\~1시간 전에 선행 투여하여 원위 세뇨관과 헨레고리를 동시에 차단하는 sequential nephron blockade를 고려한다. 단, 전해질(K, Mg) 불균형 및 과도한 이뇨에 의한 저혈압·신기능 악화에 주의하며 면밀히 모니터링한다.
-{% endhint %}
+
+
+※ **이뇨제 저항성** 시 Sequential Nephron Blockade 전략 : 심한 부종 또는 신기능 저하로 loop 이뇨제 단독으로 반응이 불충분한 경우, metolazone(메토라존) 또는 hydrochlorothiazide를 loop 이뇨제 투여 30분\~1시간 전에 선행 투여하여 원위 세뇨관과 헨레고리를 동시에 차단하는 sequential nephron blockade를 고려한다. 단, 전해질(K, Mg) 불균형 및 과도한 이뇨에 의한 저혈압·신기능 악화에 주의하며 면밀히 모니터링한다.
 
 ### <mark style="color:orange;">심부전에 의한 부종 — 기저 치료 원칙</mark>
 
@@ -177,11 +168,9 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * HFrEF (LVEF ＜40%) 에서 다음 약제를 단계적으로 추가하여 최대 내약 용량 유지
   * ACE 억제제 또는 ARB → 베타차단제 → MRA(spironolactone/eplerenone) → 증상 지속 시 SGLT2 억제제(dapagliflozin, empagliflozin) 추가 (Class I, LOE A)
   * SGLT2 억제제 : 이뇨 효과 및 심혈관 사망·심부전 입원 감소; 당뇨 유무와 무관하게 권고
-    * ⚠️ SGLT2 억제제의 삼투성 이뇨 효과로 인해 기존 loop 이뇨제와 병용 시 과도한 용적 감소·저혈압·전해질 이상이 발생할 수 있으므로 병용 시 loop 이뇨제 용량 감량을 고려하고 신기능 및 전해질을 모니터링
+    * SGLT2 억제제의 삼투성 이뇨 효과로 인해 기존 loop 이뇨제와 병용 시 과도한 용적 감소·저혈압·전해질 이상이 발생할 수 있으므로 병용 시 loop 이뇨제 용량 감량을 고려하고 신기능 및 전해질을 모니터링
 * HFpEF (LVEF ≥50%) : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 고려 (Class IIb)
 * 1차 진료에서 심부전 확인 시 심장내과 협진 또는 의뢰 권고 (약물 선택 및 용량 조절)
-
-_<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599–726.</mark>_
 
 ### <mark style="color:orange;">특발성 부종증후군, 하지 부종</mark>
 
@@ -222,7 +211,7 @@ _<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the 
 * 아래 성분들은 정맥 기능 부전(CVI)에 의한 경한 부종에 제한된 근거이며, 심부전·신부전·간경화·저알부민혈증에 의한 부종에는 효과 없음
 * 부종의 원인 감별 없이 건강보조제를 복용하면 근본 치료가 지연될 수 있음
 
-<table><thead><tr><th width="143.4737548828125">성분</th><th width="126.2630615234375">적용 부종 유형</th><th width="115.2105712890625">근거 수준</th><th>주요 주의사항</th></tr></thead><tbody><tr><td>HCSE (aescin)</td><td>정맥성</td><td>낮음~중등도</td><td>표준화 추출물 사용; 장기 데이터 부족</td></tr><tr><td>Ruscus</td><td>정맥성</td><td>중등도</td><td>당뇨 환자 metformin 상호작용 주의</td></tr><tr><td>MPFF (diosmin/     hesperidin)</td><td>정맥성</td><td>중등도~높음</td><td>처방약 수준 근거; 건기식 제품은 표준화 확인 필요</td></tr><tr><td>포도씨 OPC</td><td>좌위 관련 부종</td><td>낮음</td><td>항응고제 상호작용 가능</td></tr><tr><td>민들레</td><td>수분 저류성(이론적)</td><td>매우 낮음</td><td>이뇨제·담낭질환·항생제 상호작용</td></tr></tbody></table>
+<table><thead><tr><th width="143.4737548828125">성분</th><th width="126.2630615234375">적용 부종 유형</th><th width="115.2105712890625">근거 수준</th><th>주요 주의사항</th></tr></thead><tbody><tr><td>HCSE (aescin)</td><td>정맥성</td><td>낮음~중등도</td><td>표준화 추출물 사용; 장기 데이터 부족</td></tr><tr><td>Ruscus</td><td>정맥성</td><td>중등도</td><td>당뇨 환자 metformin 상호작용 주의</td></tr><tr><td>MPFF (diosmin/ hesperidin)</td><td>정맥성</td><td>중등도~높음</td><td>처방약 수준 근거; 건기식 제품은 표준화 확인 필요</td></tr><tr><td>포도씨 OPC</td><td>좌위 관련 부종</td><td>낮음</td><td>항응고제 상호작용 가능</td></tr><tr><td>민들레</td><td>수분 저류성(이론적)</td><td>매우 낮음</td><td>이뇨제·담낭질환·항생제 상호작용</td></tr></tbody></table>
 
 ***
 

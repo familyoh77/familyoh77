@@ -69,7 +69,7 @@
 * 영상 검사 : MRI (또는 CT)
 * 인지 기능 검사 : 한국판 몬트리올 인지평가 (K-MoCA)
 
-#### <mark style="color:$primary;">**한국판 몬트리올 인지평가** ([K-MoCA](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf))</mark>
+#### <mark style="color:$primary;">**한국판 몬트리올 인지평가**</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">(</mark>[<mark style="color:$primary;">K-MoCA</mark>](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf)<mark style="color:$primary;">)</mark>
 
 * 주의력, 집중력, 실행력, 기억력, 어휘력, 시각 공간력, 추상력, 계산과 지남력 평가; 10분 소요
 * 글을 읽거나 쓰는 능력이 없거나 서투른 경우에는 적용하지 않음
@@ -82,7 +82,7 @@
 
 #### <mark style="color:$primary;">혈액 바이오마커 (Blood-based Biomarkers)</mark>
 
-**p-tau217 혈액 검사**&#x20;
+**p-tau217 혈액 검사**
 
 * 혈장 phosphorylated tau 217(p-tau217)은 뇌 아밀로이드 병리를 반영하는 마커로, 아밀로이드 PET 검사에 근접하는 정확도(민감도 82%, 특이도 86%; AUC 0.93\~0.96)를 보임 \[다수 독립 코호트 검증, 2024]
 * CSF 검사나 아밀로이드 PET에 비해 비침습적이고 저비용; 일차 의료기관 선별 후 상급병원 의뢰 여부 결정에 유용
@@ -106,7 +106,7 @@
 #### <mark style="color:$primary;">Acetylcholine 전구체</mark>
 
 * MCI에 대한 치매 예방 효과 입증 불충분; 일부 연구에서 약간의 증상 완화
-*   choline alfoscerate : 800\~1200 ㎎/d <mark style="color:blue;">\[글리아티린]</mark>&#x20;
+*   choline alfoscerate : 800\~1200 ㎎/d <mark style="color:blue;">\[글리아티린]</mark>
 
     ※ 콜린알포세레이트(choline alfoscerate) 급여 주의 : 치매 진단 환자(F00\~F02, G30 등)에서는 기존 급여(본인부담 30%) 유지; 경도인지장애(F06.7) 등 치매 외에서는 선별급여 전환, 본인부담 80%(처방 전 환자 안내 필수)
 
@@ -121,7 +121,7 @@
 #### <mark style="color:$primary;">항아밀로이드 단클론항체</mark>
 
 * AD 병리 확인 MCI에 대한 질병 조절 치료
-* 아밀로이드 PET 또는 혈액/뇌척수액 바이오마커로 AD 아밀로이드 병리가 확인된 MCI 또는 경증 AD 치매 환자에서 인지 기능 저하를 18개월간 약 27\~35% 지연시키는 효과로 FDA 승인을 받음; lecanemab <mark style="color:blue;">\[레켐비]</mark>\(국내 출시), donanemab <mark style="color:blue;">\[키썬라]</mark>
+* 아밀로이드 PET 또는 혈액/뇌척수액 바이오마커로 AD 아밀로이드 병리가 확인된 MCI 또는 경증 AD 치매 환자에서 인지 기능 저하를 18개월간 약 27\~35% 지연시키는 효과로 FDA 승인을 받음; lecanemab <mark style="color:blue;">\[레켐비]</mark>(국내 출시), donanemab <mark style="color:blue;">\[키썬라]</mark>
 * 뇌 부종·미세출혈(ARIA) 부작용, 정기 MRI 모니터링, ApoE 유전자 검사 등 전문 관리 필요
 * 일차 의료에서는 직접 처방 대상이 아니며, 신경과·인지신경의학 전문의 평가 후 시행
 
