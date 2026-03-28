@@ -195,6 +195,13 @@ _<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the 
 * 걷기 : 종아리 근육이 수축되며 정맥 회귀가 증가됨
 * vitis vinifera leaf dry extract : 360 ㎎ 아침 식전 <mark style="color:blue;">\[안탁스]</mark>
 
+### <mark style="color:orange;">부종 관련 건강보조제</mark>
+
+* 아래 성분들은 정맥 기능 부전(CVI)에 의한 경한 부종에 제한된 근거이며, 심부전·신부전·간경화·저알부민혈증에 의한 부종에는 효과 없음
+* 부종의 원인 감별 없이 건강보조제를 복용하면 근본 치료가 지연될 수 있음
+
+<table><thead><tr><th width="143.4737548828125">성분</th><th width="126.2630615234375">적용 부종 유형</th><th width="115.2105712890625">근거 수준</th><th>주요 주의사항</th></tr></thead><tbody><tr><td>HCSE (aescin)</td><td>정맥성</td><td>낮음~중등도</td><td>표준화 추출물 사용; 장기 데이터 부족</td></tr><tr><td>Ruscus</td><td>정맥성</td><td>중등도</td><td>당뇨 환자 metformin 상호작용 주의</td></tr><tr><td>MPFF (diosmin/     hesperidin)</td><td>정맥성</td><td>중등도~높음</td><td>처방약 수준 근거; 건기식 제품은 표준화 확인 필요</td></tr><tr><td>포도씨 OPC</td><td>좌위 관련 부종</td><td>낮음</td><td>항응고제 상호작용 가능</td></tr><tr><td>민들레</td><td>수분 저류성(이론적)</td><td>매우 낮음</td><td>이뇨제·담낭질환·항생제 상호작용</td></tr></tbody></table>
+
 ***
 
 ### <mark style="color:red;">질병코드</mark>
