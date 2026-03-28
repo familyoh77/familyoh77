@@ -26,7 +26,8 @@
 * 체중 감소, 피로, malaise
 * 과도한 흡연력
 
-※ 기도 폐쇄(asphyxia) 위험 시 즉각 대응; 소량의 객혈이라도 기도를 막으면 질식사 가능. 호흡 곤란·호흡음 감소·산소포화도 저하가 있으면 즉시 기도 확보 및 응급 의뢰
+※ 기도 폐쇄(asphyxia) 위험 시 즉각 대응; 소량의 객혈이라도 기도를 막으면 질식사 가능. \
+&#x20;   호흡 곤란·호흡음 감소·산소포화도 저하가 있으면 즉시 기도 확보 및 응급 의뢰
 
 ## <mark style="color:green;">원인 및 감별</mark>
 
@@ -53,10 +54,7 @@
 
 ### <mark style="color:orange;">객혈 vs 토혈 vs 비출혈 감별</mark>
 
-{% hint style="info" %}
-**진찰 첫 단계 : 구강·비강 시진 우선 시행**\
-고령 환자나 인후두 질환자에서는 구강 내 출혈이 기침과 섞여 나오는 경우(pseudohemoptysis)가 흔하다. 감별 전 구강(잇몸, 혀, 인두) 및 비강을 육안으로 먼저 확인하여 출혈원을 배제할 것.
-{% endhint %}
+※ 진찰 첫 단계 : 구강·비강 시진 우선 시행; 고령 환자나 인후두 질환자에서는 구강 내 출혈이 기침과 섞여 나오는 경우(pseudohemoptysis)가 흔함. 감별 전 구강(잇몸, 혀, 인두) 및 비강을 육안으로 먼저 확인하여 출혈원을 배제해야 함
 
 <table><thead><tr><th width="112.94735717773438"></th><th>객혈</th><th>토혈</th><th>비출혈(Pseudohemoptysis)</th></tr></thead><tbody><tr><td>선행 증상</td><td>기침</td><td>구역/구토</td><td>비충혈, 후비루</td></tr><tr><td>색깔</td><td>선홍색 또는 분홍색</td><td>암적색 또는 커피색</td><td>선홍색 (코피와 동일)</td></tr><tr><td>성상</td><td>거품 있음, 액체 or clot</td><td>음식 잔류물 혼재 가능</td><td>거품 없음, 인두 타고 넘어옴</td></tr><tr><td>pH</td><td>알칼리성</td><td>산성</td><td>—</td></tr><tr><td>기저 질환</td><td>폐/심장 질환</td><td>위장/식도 질환</td><td>비염, 비중격 질환</td></tr><tr><td>이후 증상</td><td>혈성 가래 지속 가능</td><td>흑색 변 동반 가능</td><td>비강 검진 시 출혈원 확인</td></tr></tbody></table>
 
@@ -64,7 +62,7 @@
 
 * 흉부 X선, CBC : 초기 진단 검사
 * 흉부 CT : 다음 중 하나라도 해당하면 시행
-  * 대량 객혈 또는 BAE 고려 시 → **조영증강 흉부 CT(Contrast-enhanced CT)** 또는 **CT 혈관조영술(CTA)** 우선; 출혈 위치와 책임 혈관 파악에 필수
+  * 대량 객혈 또는 BAE 고려 시 → 조영증강 흉부 CT(Contrast-enhanced CT) 또는 CT 혈관조영술(CTA) 우선; 출혈 위치와 책임 혈관 파악에 필수
   * 흉부 X선상 이상
   * 암 위험군(흡연자, 고령) : X선이 정상이어도 조기 시행
   * 객혈 반복 : X선이 정상이어도 조기 시행
@@ -75,6 +73,8 @@
 ***
 
 <div align="left"><img src="../.gitbook/assets/197dbe51-39c6-46a0-8f42-2fa1e20f6f11.JPG" alt=""></div>
+
+***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -90,12 +90,12 @@
   * 심부전 : 이뇨제, nitrate (☞ [호흡 곤란](007_-dyspnea.md#management))
 * 소량\~중등도 객혈 지혈 보조
   * Tranexamic acid 경구 : 500\~1,000 mg tid, 단기 사용 고려 (근거 수준 moderate)
-    * ⚠️ **DVT·PE 병력 환자에서는 혈전 형성 위험 증가 — 신중 투여**
+    * DVT·PE 병력 환자에서는 혈전 형성 위험 증가 - 신중 투여
   * Tranexamic acid 흡입 : 500 mg in 5 mL NS, nebulizer (일부 연구에서 지혈 효과 보고)
-* 진해제 : 기침에 의한 재출혈 방지 목적으로 제한적 사용을 고려할 수 있으나, **과도한 기침 억제는 기도 내 혈액 저류 → 질식(asphyxia) 위험**을 초래할 수 있으므로 주의; 대량 객혈 환자에서는 원칙적으로 기침 억제보다 기도 확보가 우선
+* 진해제 : 기침에 의한 재출혈 방지 목적으로 제한적 사용을 고려할 수 있으나, 과도한 기침 억제는 기도 내 혈액 저류 → 질식(asphyxia) 위험을 초래할 수 있으므로 주의; 대량 객혈 환자에서는 원칙적으로 기침 억제보다 기도 확보가 우선
 * 소량 객혈, 안정적 환자 : 원인 파악 후 외래 추적
 
-### <mark style="color:orange;">위험도 분류 및 처치 방향</mark>&#x20;
+### <mark style="color:orange;">위험도 분류 및 처치 방향</mark>
 
 \[BTS 2020]
 
