@@ -152,9 +152,9 @@
 ### <mark style="color:orange;">대증 치료</mark>
 
 * 심장 문제 등 원인 질환 배제 후 시행 (☞ [흉통](002_-chest-pain.md))
-* 항불안제 : alprazolam \[<mark style="color:blue;">자낙스</mark>], lorazepam \[<mark style="color:blue;">아티반</mark>] (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
-* β-차단제 : propranolol 10\~120 ㎎/d \[<mark style="color:blue;">인데놀</mark>], metoprolol 100\~200 ㎎/d \[<mark style="color:blue;">베타록</mark>] (☞ [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
-* non-DHP계 CCB : diltiazem 120\~180 ㎎/d \[<mark style="color:blue;">헤르벤</mark>], verapamil 120\~360 ㎎/d \[<mark style="color:blue;">이솦틴</mark>] (☞ [CCB](../225_/095_-hypertension.md#calcium-ca-channel-blocker-ccb))
+* 항불안제 : alprazolam <mark style="color:blue;">\[자낙스]</mark>, lorazepam <mark style="color:blue;">\[아티반]</mark> (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
+* β-차단제 : propranolol 10\~120 ㎎/d <mark style="color:blue;">\[인데놀]</mark>, metoprolol 100\~200 ㎎/d <mark style="color:blue;">\[베타록]</mark> (☞ [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
+* non-DHP계 CCB : diltiazem 120\~180 ㎎/d <mark style="color:blue;">\[헤르벤]</mark>, verapamil 120\~360 ㎎/d <mark style="color:blue;">\[이솦틴]</mark> (☞ [CCB](../225_/095_-hypertension.md#calcium-ca-channel-blocker-ccb))
 
 ***
 
