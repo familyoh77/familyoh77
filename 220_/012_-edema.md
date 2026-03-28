@@ -74,11 +74,19 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 ### <mark style="color:orange;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
 
 * 기전 : capillary leak, re-feeding(급속한 다이어트 후 식사 증량), 이뇨제 유발 부종
-* 체액 정체에 의한 얼굴, 손, 사지 부종; 아침에 심함
+* 얼굴, 손, 사지 부종; 활동 후 저녁에 악화되고 와위 후 아침에 호전되는 것이 전형적 (아침 안면 부종이 심한 경우는 신성 부종을 먼저 감별)
 * 주로 20\~40대 여성에서 월경 전 기간에 발생
 * 심장, 간, 신장 질환 없음
 * 관련 인자 : 당뇨병, 비만, 우울 등 정서적 문제
 * 진단 : 다른 원인 배제
+
+### <mark style="color:orange;">원인별 부종의 특징 비교</mark>
+
+| 구분 | 심부전 | 신증후군 | 간경화 | 특발성 부종 |
+|---|---|---|---|---|
+| 주요 부위 | 하지(심장보다 낮은 위치); ascending edema | 안면(눈가) 및 전신; periorbital edema | 복수 + 하지 | 안면, 손, 하지 |
+| 심화 시간 | 저녁(활동 후) | 아침(기상 직후) | 비교적 일정 | 저녁(체중 일중 변동 심함) |
+| 동반 증상 | 호흡 곤란, 경정맥 확장, orthopnea | 거품뇨, 단백뇨, 저알부민혈증 | 황달, 복수, 여성형 유방 | 정서적 스트레스, 월경 전 악화 |
 
 ## <mark style="color:green;">진단</mark>
 
@@ -97,12 +105,19 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 **Bilateral predominance**
 
 * 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
-* 약물 : CCB, pregabalin/gabapentin, NSAID, 호르몬제(예: steroid, estrogen, progesterone, testosterone), thiazolidinedione(Na 재흡수 증가), α-차단제, 항암제
+* 약물 : CCB, pregabalin/gabapentin, NSAID, 호르몬제(예: steroid, estrogen, progesterone, testosterone), thiazolidinedione(Na 재흡수 증가), α-차단제, 항암제, minoxidil(혈관 확장), 인슐린(초기 투여 시 Na 정체 유발)
 
 #### <mark style="color:$primary;">국소 상태</mark>
 
 * 압통 → DVT; 림프부종에서는 보통 압통이 없음 (때로 심한 통증)
-* pitting edema(＞5초) → DVT, 정맥 부전, 림프부종; fibrotic form에서는 보통 나타나지 않음
+* pitting edema : pretibial area(정강이뼈 앞), 발등, medial malleolus(안쪽 복사뼈) 부위를 엄지손가락으로 5초 이상 압박 후 함몰 여부 확인; DVT, 정맥 부전, 림프부종에서 양성; fibrotic form에서는 보통 나타나지 않음
+
+| 등급 | 함몰 깊이 | 회복 시간 | 임상 소견 |
+|---|---|---|---|
+| 1+ | 2 mm 이하 | 즉시 | 경미한 부종 |
+| 2+ | 2~4 mm | 15초 이내 | 중등도; 하지 윤곽 유지 |
+| 3+ | 4~6 mm | 1분 이내 | 심한 부종; 하지 윤곽 변형 |
+| 4+ | 6~8 mm 이상 | 2분 이상 | 매우 심한 부종; 현저한 하지 변형 |
 * non-pitting edema → lymphedema(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
 * Stemmer sign : lymphedema에 특이적인 징후로 2nd toe(또는 2nd finger) 근위부 등쪽 피부를 엄지·검지로 집어 올려집히지 않으면 양성; 음성이라도 배제 불가
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
@@ -122,7 +137,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 * 초음파, D-Dimer : 명백한 원인이 없는 급성 하지 부종에 대하여 DVT 감별을 위하여 고려
   * D-Dimer는 [Wells score](https://www.mdcalc.com/calc/362/wells-criteria-dvt) 저위험군(≤1점)에서만 음성 예측도가 높음; 중등도 이상 위험군(≥2점)에서는 D-Dimer 음성이라도 압박 초음파(CUS)를 반드시 시행
-* Ankle-brachial pressure index : 만성 정맥 부전 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함
+* Ankle-brachial pressure index : 만성 정맥 부전 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함; 혈관 석회화로 ABI가 위양성으로 높게 측정될 수 있어 이 경우 toe-brachial index(TBI ＜0.7 이상 시 이상) 또는 발등동맥·후경골동맥 맥박 촉진으로 보완
 * s-Cr, 소변 시험지봉 검사 : 신질환(특히 신증후군) 감별을 위하여 고려
 
 ***
@@ -150,12 +165,19 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
   * 신부전 또는 신증후군 시 고용량 필요
   * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
 
+{% hint style="info" %}
+**이뇨제 저항성 시 Sequential Nephron Blockade 전략**
+
+심한 부종 또는 신기능 저하로 loop 이뇨제 단독으로 반응이 불충분한 경우, metolazone(메토라존) 또는 hydrochlorothiazide를 loop 이뇨제 투여 30분\~1시간 전에 선행 투여하여 원위 세뇨관과 헨레고리를 동시에 차단하는 sequential nephron blockade를 고려한다. 단, 전해질(K, Mg) 불균형 및 과도한 이뇨에 의한 저혈압·신기능 악화에 주의하며 면밀히 모니터링한다.
+{% endhint %}
+
 ### <mark style="color:orange;">심부전에 의한 부종 — 기저 치료 원칙</mark>
 
 * 부종 자체(이뇨제)보다 심부전의 신경호르몬 억제 치료가 장기 예후를 결정함 (ESC HF Guideline 2021)
 * HFrEF (LVEF ＜40%) 에서 다음 약제를 단계적으로 추가하여 최대 내약 용량 유지
   * ACE 억제제 또는 ARB → 베타차단제 → MRA(spironolactone/eplerenone) → 증상 지속 시 SGLT2 억제제(dapagliflozin, empagliflozin) 추가 (Class I, LOE A)
   * SGLT2 억제제 : 이뇨 효과 및 심혈관 사망·심부전 입원 감소; 당뇨 유무와 무관하게 권고
+    * ⚠️ SGLT2 억제제의 삼투성 이뇨 효과로 인해 기존 loop 이뇨제와 병용 시 과도한 용적 감소·저혈압·전해질 이상이 발생할 수 있으므로 병용 시 loop 이뇨제 용량 감량을 고려하고 신기능 및 전해질을 모니터링
 * HFpEF (LVEF ≥50%) : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 고려 (Class IIb)
 * 1차 진료에서 심부전 확인 시 심장내과 협진 또는 의뢰 권고 (약물 선택 및 용량 조절)
 
