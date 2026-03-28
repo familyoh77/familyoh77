@@ -50,19 +50,15 @@
 ## <mark style="color:green;">진단</mark>
 
 * 체중 변화 경과, 약물 복용력, 신체검사
-
-{% hint style="info" %}
-**식욕 상태로 원인을 좁힌다**
-
-* **식욕 유지에도 체중 감소** → 당뇨병, 갑상선기능항진증, 흡수 장애, 과도한 신체 활동 우선 고려
-* **식욕 감소 동반** → 암, 우울증, 만성 감염, 약물 부작용, 장기부전(심부전·신부전) 우선 고려
-{% endhint %}
+* 식욕 상태에 따른 감별
+  * 식욕 유지에도 체중 감소 : 당뇨병, 갑상선기능항진증, 흡수 장애, 과도한 신체 활동 우선 고려
+  * 식욕 감소 동반 : 암, 우울증, 만성 감염, 약물 부작용, 장기부전(심부전·신부전) 우선 고려
 
 #### <mark style="color:$primary;">1단계 검사</mark>
 
 * 체중 변화 경과, 약물 복용력
 * 신체검사(특히 치아 문제), 정서/인지 문제 평가(예: 우울증, 치매)
-* 실험실 검사 : CBC, LFT, RFT, TSH, 혈당, **HbA1c**(신규 당뇨 또는 혈당 조절 실패 감별), **Albumin**(영양 상태 및 염증 반응 지표; negative acute-phase reactant), CRP, ESR, urinalysis, 대변 잠혈, HIV
+* 실험실 검사 : CBC, LFT, RFT, TSH, 혈당, HbA1c(신규 당뇨 또는 혈당 조절 실패 감별), albumin(영양 상태 및 염증 반응 지표; negative acute-phase reactant), CRP, ESR, urinalysis, 대변 잠혈, HIV
 * 영상 검사 : 흉부 X선, 위내시경/UGI, 복부 초음파
 * 1단계 검사에서 특이점이 없는 경우 3\~6개월 관찰 고려; 이 기간 중 매주 체중을 측정하도록 환자에게 교육. 증상 변화 시 즉시 재평가
 
@@ -70,14 +66,14 @@
 
 * 1단계 검사에서 정상인 경우 고려
 * CT(흉부·복부·골반) : 원인 불명의 체중 감소에서 악성 종양 및 복강 내 병변 감별에 유용하며 임상에서 활용도가 증가하고 있음; 근거 수준은 아직 제한적
-* **LDH, 혈청 칼슘** : 림프종, 다발성 골수종, 암의 골전이 등을 시사하는 단서; 암 의심 또는 1단계 검사에서 원인 불명일 때 추가
-* **Prealbumin(transthyretin)** : 반감기 2\~3일로 단기 영양 변화에 민감; 입원 환자 또는 영양 집중 모니터링이 필요한 경우 고려
+* LDH, 혈청 칼슘 : 림프종, 다발성 골수종, 암의 골전이 등을 시사하는 단서; 암 의심 또는 1단계 검사에서 원인 불명일 때 추가
+* Prealbumin(transthyretin) : 반감기 2\~3일로 단기 영양 변화에 민감; 입원 환자 또는 영양 집중 모니터링이 필요한 경우 고려
 * 흡수 장애 검사, 위/대장 내시경
 * 암 선별 검사 : Pap-smear, mammography, PSA
 
 ※ 국가 암검진 수검 여부 확인 및 미수검 항목 시행 권고 : 의도하지 않은 체중 감소가 있는 경우 검진 주기와 무관하게 해당 암종 검사를 적극 시행; 증상 기반의 추가 검사(예: 대장내시경, 흉부 CT)는 선별검진과 별도로 임상적 판단에 따라 결정
 
-#### <mark style="color:$primary;">암 의심 조기 의뢰 기준</mark>&#x20;
+#### <mark style="color:$primary;">암 의심 조기 의뢰 기준</mark>
 
 (NICE 2023)
 
@@ -93,10 +89,7 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 <table><thead><tr><th width="120.3157958984375">D</th><th width="130.94732666015625">항목</th><th>확인 내용</th></tr></thead><tbody><tr><td>Dentition</td><td>치아/구강 문제</td><td>틀니 불량, 충치, 구강 통증 → 섭취량 감소</td></tr><tr><td>Dysphagia</td><td>삼킴 장애</td><td>사레, 음식물 걸림, 연하 통증</td></tr><tr><td>Dysgeusia</td><td>미각/후각 변화</td><td>약물(ACEI, 항생제 등) 포함 원인 확인</td></tr><tr><td>Diarrhea</td><td>설사/흡수 장애</td><td>만성 설사, 지방변, 췌장 부전</td></tr><tr><td>Depression</td><td>우울증</td><td>식욕 저하, 무기력, 고립감</td></tr><tr><td>Disease</td><td>기저 질환</td><td>암, 심부전, 당뇨, 갑상선, 만성 감염 등</td></tr><tr><td>Dementia</td><td>인지 장애</td><td>식사 잊음, 식사 거부, 조리 불가</td></tr><tr><td>Dysfunction</td><td>기능 저하</td><td>ADL 저하 → 장보기·조리·식사 동작 불가</td></tr><tr><td>Drugs</td><td>약물</td><td>식욕 저하·미각 변화·소화 장애 유발 약물 (위 목록 참조)</td></tr></tbody></table>
 
-{% hint style="warning" %}
-**사회적 고립(Social Isolation)도 독립적 위험 요인**
-혼자 식사하는 환경('혼밥') 자체가 고령자 섭취량 감소의 독립적인 원인이 됩니다. 9 Ds 항목 외에 식사 동반자 유무, 가족·지역사회 연결 여부를 별도로 확인하십시오.
-{% endhint %}
+※ **사회적 고립(Social Isolation)도 독립적 위험 요인** : 혼자 식사하는 환경('혼밥') 자체가 고령자 섭취량 감소의 독립적인 원인이 됨. 9 Ds 항목 외에 식사 동반자 유무, 가족·지역사회 연결 여부 확인 필요
 
 ***
 
@@ -113,11 +106,30 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 ## <mark style="color:green;">약물 치료</mark>
 
-* 식욕 자극제 : steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine); 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
-  * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용 — 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; **장기 복용(통상 3개월 이상) 시 쿠싱 증후군 및 약물 유발 부신부전 발생 가능; 당뇨 환자에서는 혈당을 급격히 상승시킬 수 있으므로 혈당 모니터링 강화 필요**; 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) <mark style="color:blue;">\[메게이스]</mark>
-  * mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능; 15\~30 ㎎/d <mark style="color:blue;">\[레메론]</mark>
-* anticatabolic agent : 오메가-3(암 관련 악액질에서 일부 근거; 일반적 체중 감소에서는 제한적), pentoxifylline, hydrazine sulfate(임상적 유효성 미입증), thalidomide(국내 처방 적응증 제한)
-* 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함; **cyproheptadine은 항히스타민 효과로 졸음이 심할 수 있으며, 고령 환자에서는 항콜린 부작용(입마름, 변비, 소변 저류, 인지 저하)에 주의** <mark style="color:blue;">\[트레스탄]</mark>(비보험)
+**식욕 자극제**&#x20;
+
+* steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine)
+* 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
+* megestrol acetate&#x20;
+  * 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려
+  * 부작용 : 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 장기 복용(통상 3개월 이상) 시 쿠싱 증후군 및 약물 유발 부신부전 발생 가능
+  * 당뇨 환자에서는 혈당을 급격히 상승시킬 수 있으므로 혈당 모니터링 강화 필요
+  * 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) <mark style="color:blue;">\[메게이스]</mark>
+* mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능
+  * 15\~30 ㎎/d <mark style="color:blue;">\[레메론]</mark>
+
+**Anticatabolic agent**
+
+* 오메가-3 : 암 관련 악액질에서 일부 근거, 일반적 체중 감소에서는 제한적)
+* pentoxifylline,&#x20;
+* hydrazine sulfate(임상적 유효성 미입증)
+* thalidomide(국내 처방 적응증 제한)
+
+**영양제**&#x20;
+
+* carnitine, cyproheptadine 등
+* 위약 효과를 포함하여 일부 환자에서 유효; 증거 부족
+* cyproheptadine은 항히스타민 효과로 졸음이 심할 수 있으며, 고령 환자에서는 항콜린 부작용(입마름, 변비, 소변 저류, 인지 저하) 주의 <mark style="color:blue;">\[트레스탄]</mark>(비보험)
 
 ***
 
