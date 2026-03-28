@@ -156,7 +156,7 @@ _<mark style="color:$info;">Ref. AAN Evidence-based guideline update: Treatment 
 * 비-약물 치료를 원칙으로 함
 * 카페인 섭취, 흡연을 피함
 * 일상생활에 지장을 주는 특별한 경우(예: 발표, 공연 전) β-차단제 단회 투여 고려
-  * propranolol : 10\~40 mg 상황 발생 1\~2시간 전 단회 투여 \[인데놀]
+  * propranolol : 10\~40 mg 상황 발생 1\~2시간 전 단회 투여 <mark style="color:blue;">\[인데놀]</mark>
   * 투여 전 천식, 저혈압, 서맥 여부 확인
 
 ## <mark style="color:green;">반얼굴연축</mark>
@@ -164,7 +164,7 @@ _<mark style="color:$info;">Ref. AAN Evidence-based guideline update: Treatment 
 * 1차 치료 : Botulinum toxin injection (표준치료; AAN 권고)
   * 효과 지속 : 3\~4개월; 반복 투여 필요
 * 약물 치료 (보조적) : 항경련제, 항콜린제
-  * clonazepam : 0.5 mg bid \[리보트릴]
+  * clonazepam : 0.5 mg bid <mark style="color:blue;">\[리보트릴]</mark>
 * 근본 원인 치료 : 혈관 압박이 원인인 경우 미세혈관 감압술(MVD) 고려 (신경외과 의뢰)
 
 ***

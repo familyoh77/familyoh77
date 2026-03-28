@@ -106,7 +106,7 @@
 #### <mark style="color:$primary;">Acetylcholine 전구체</mark>
 
 * MCI에 대한 치매 예방 효과 입증 불충분; 일부 연구에서 약간의 증상 완화
-*   choline alfoscerate : 800\~1200 ㎎/d \[글리아티린]&#x20;
+*   choline alfoscerate : 800\~1200 ㎎/d <mark style="color:blue;">\[글리아티린]</mark>&#x20;
 
     ※ 콜린알포세레이트(choline alfoscerate) 급여 주의 : 치매 진단 환자(F00\~F02, G30 등)에서는 기존 급여(본인부담 30%) 유지; 경도인지장애(F06.7) 등 치매 외에서는 선별급여 전환, 본인부담 80%(처방 전 환자 안내 필수)
 
@@ -116,12 +116,12 @@
 
 * 효과는 입증되지 않은 반면 부작용이 발생할 수 있으므로 일반적으로 권고 안 함 \[AAN 2018; 복수 가이드라인에서 금기 또는 deprescribing 권고]
 * 심한 기억력 장애가 있는 경우 donepezil 투여를 고려
-* donepezil : 5 ㎎ qd → 4\~6주 후 10 ㎎ qd \[아리셉트] (☞ p.161)
+* donepezil : 5 ㎎ qd → 4\~6주 후 10 ㎎ qd <mark style="color:blue;">\[아리셉트]</mark> (☞ p.161)
 
 #### <mark style="color:$primary;">항아밀로이드 단클론항체</mark>
 
 * AD 병리 확인 MCI에 대한 질병 조절 치료
-* 아밀로이드 PET 또는 혈액/뇌척수액 바이오마커로 AD 아밀로이드 병리가 확인된 MCI 또는 경증 AD 치매 환자에서 인지 기능 저하를 18개월간 약 27\~35% 지연시키는 효과로 FDA 승인을 받음; lecanemab \[레켐비]\(국내 출시), donanemab \[키썬라]
+* 아밀로이드 PET 또는 혈액/뇌척수액 바이오마커로 AD 아밀로이드 병리가 확인된 MCI 또는 경증 AD 치매 환자에서 인지 기능 저하를 18개월간 약 27\~35% 지연시키는 효과로 FDA 승인을 받음; lecanemab <mark style="color:blue;">\[레켐비]</mark>\(국내 출시), donanemab <mark style="color:blue;">\[키썬라]</mark>
 * 뇌 부종·미세출혈(ARIA) 부작용, 정기 MRI 모니터링, ApoE 유전자 검사 등 전문 관리 필요
 * 일차 의료에서는 직접 처방 대상이 아니며, 신경과·인지신경의학 전문의 평가 후 시행
 

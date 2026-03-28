@@ -67,7 +67,7 @@
 
 ▶ 판정 : 0\~4점 = minimal / 5\~9점 = mild / 10\~14점 = moderate / 15\~21점 = severe
 
-\[삶의 질 평가] (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
+<mark style="color:blue;">\[삶의 질 평가]</mark> (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
 ☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다.
 
 #### <mark style="color:$primary;">GAD-2 screening</mark>
@@ -209,7 +209,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 #### <mark style="color:$primary;">GABA-analogue</mark>
 
 * SSRI/SNRI를 사용할 수 없을 때 고려
-* pregabalin : 150\~600 ㎎ \[리리카]
+* pregabalin : 150\~600 ㎎ <mark style="color:blue;">\[리리카]</mark>
 
 #### <mark style="color:$primary;">Azapirone</mark>
 
@@ -217,7 +217,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * benzodiazepine보다 의존 위험은 적지만 효과가 적고 효과 발현까지 오래 걸림
 * 동반된 우울증에 대해서는 효과 없음
 * 부작용 : 불면, 흥분, 구역
-* buspirone : 10\~60 ㎎/d \[부스파]
+* buspirone : 10\~60 ㎎/d <mark style="color:blue;">\[부스파]</mark>
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
 
@@ -234,15 +234,15 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 * 불응성 불안장애, benzodiazepine 등으로 조절되지 않는 경우 고려
   * 일차의료에서는 사용하지 않을 것을 권고 \[NICE]
-* olanzapine : 2.5\~7.5 ㎎/d qd(hs)\~bid \[자이프렉사]
-* quetiapine : 12.5\~100 ㎎/d qd(hs)\~bid \[쎄로켈]
-* risperidone : 0.5\~1 ㎎/d qd(hs)\~bid \[리스페달]
+* olanzapine : 2.5\~7.5 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[자이프렉사]</mark>
+* quetiapine : 12.5\~100 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[쎄로켈]</mark>
+* risperidone : 0.5\~1 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[리스페달]</mark>
 
 #### <mark style="color:$primary;">β-차단제</mark>
 
 * 발한, 심박수 증가 등 불안에 따른 증상 억제 효과; 불안 자체에는 효과 없음
-* propranolol : 10\~120 ㎎/d \[인데놀]
-* metoprolol : 100\~200 ㎎/d \[베타록] (☞ p.487)
+* propranolol : 10\~120 ㎎/d <mark style="color:blue;">\[인데놀]</mark>
+* metoprolol : 100\~200 ㎎/d <mark style="color:blue;">\[베타록]</mark> (☞ p.487)
 
 ## <mark style="color:green;">치료 Step</mark>
 
@@ -262,9 +262,9 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 * 병용 또는 부가 약물 추가
 * 비전형 항정신병제
-  * quetiapine : 시작 25 ㎎/d → 매주 or 격주로 25\~50 ㎎ 증량, 최대 300 ㎎/d \[쎄로켈]
+  * quetiapine : 시작 25 ㎎/d → 매주 or 격주로 25\~50 ㎎ 증량, 최대 300 ㎎/d <mark style="color:blue;">\[쎄로켈]</mark>
 * 항히스타민제
-  * hydroxyzine : 50\~100 ㎎ qid \[아디팜]
+  * hydroxyzine : 50\~100 ㎎ qid <mark style="color:blue;">\[아디팜]</mark>
 
 #### <mark style="color:$primary;">Step 4</mark>
 
@@ -273,15 +273,15 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 TCA
 
-* amitriptyline : 25\~50 ㎎/d, 100\~300 ㎎/d; 편두통 적응 \[에트라빌]
-* imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d \[이미프라민]
-* nortriptyline : 25 ㎎/d, 50\~150 ㎎/d; 근골격 통증 적응 \[센시발]
+* amitriptyline : 25\~50 ㎎/d, 100\~300 ㎎/d; 편두통 적응 <mark style="color:blue;">\[에트라빌]</mark>
+* imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d <mark style="color:blue;">\[이미프라민]</mark>
+* nortriptyline : 25 ㎎/d, 50\~150 ㎎/d; 근골격 통증 적응 <mark style="color:blue;">\[센시발]</mark>
 
 #### <mark style="color:$primary;">Step 5</mark>
 
 * Step 4에서 사용되지 않은 계열의 3번째 약물 추가
-* bupropion : 100\~450 ㎎ \[웰부트린]
-* pregabalin : 150\~600 ㎎ \[리리카] (☞ GABA-analogue 항목)
+* bupropion : 100\~450 ㎎ <mark style="color:blue;">\[웰부트린]</mark>
+* pregabalin : 150\~600 ㎎ <mark style="color:blue;">\[리리카]</mark> (☞ GABA-analogue 항목)
 
 #### <mark style="color:$primary;">Step 6</mark>
 

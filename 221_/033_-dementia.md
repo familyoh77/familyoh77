@@ -437,14 +437,14 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * 기전 : 신경 보호 작용
 * 효과 : 진행된 치매에서 통계적으로 유효; 장기 사용 및 유의미한 기능 개선은 입증되지 않음. 중등도 이하의 AD 환자에서의 일상생활 개선은 입증되지 않음. 전측두엽 치매에는 효과 없음
 * 부작용 : 어지럼, 두통, 시야 흐림, 부종, 체중 증가, 과민, 혼돈 (✽심각한 부작용은 매우 드묾)
-* memantine : 시작 5 ㎎\[서방형 7 ㎎] qd, 1주마다 5 ㎎\[7 ㎎] 증량, 유지 5 ㎎ qd\~10 ㎎\[14 ㎎] bid \[에빅사]; 신장애, 발작 병력 시 금기
+* memantine : 시작 5 ㎎<mark style="color:blue;">\[서방형 7 ㎎]</mark> qd, 1주마다 5 ㎎\[7 ㎎] 증량, 유지 5 ㎎ qd\~10 ㎎\[14 ㎎] bid <mark style="color:blue;">\[에빅사]</mark>; 신장애, 발작 병력 시 금기
 
 #### <mark style="color:$primary;">항아밀로이드 단클론항체 (Anti-amyloid monoclonal antibodies)</mark>
 
 * **lecanemab** : Aβ soluble protofibril에 결합하는 human IgG1 단클론항체
   * FDA 정식 승인(2023.7) : 아밀로이드 병리 확인된 MCI 또는 경증 AD
   * 효과 : 18개월간 인지 기능 저하를 위약 대비 약 27% 지연
-  * 투여 : 10 mg/kg IV, 2주마다 (18개월 후 유지 요법으로 4주마다 전환 가능) \[레켐비]
+  * 투여 : 10 mg/kg IV, 2주마다 (18개월 후 유지 요법으로 4주마다 전환 가능) <mark style="color:blue;">\[레켐비]</mark>
   * 부작용 : ARIA 약 21% 발생
     * ARIA-E (amyloid-related imaging abnormalities - edema/effusion) : 뇌 부종 또는 삼출; MRI FLAIR에서 고신호
     * ARIA-H (hemorrhage/hemosiderosis) : 미세출혈 또는 철침착; MRI T2\*·SWI에서 저신호
@@ -453,7 +453,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * **donanemab** : Aβ plaque를 표적으로 하는 human IgG1 단클론항체
   * FDA 정식 승인(2024.7) : 아밀로이드 병리 확인된 MCI 또는 경증 AD
   * 효과 : 18개월간 인지 기능 저하를 위약 대비 약 35% 지연
-  * 투여 : 700 mg IV 4주마다 × 3회 → 1,400 mg 4주마다; 아밀로이드 소실 확인 시 투여 중단 가능 (장기 투여 불필요한 첫 번째 AD 치료제) \[키썬라]
+  * 투여 : 700 mg IV 4주마다 × 3회 → 1,400 mg 4주마다; 아밀로이드 소실 확인 시 투여 중단 가능 (장기 투여 불필요한 첫 번째 AD 치료제) <mark style="color:blue;">\[키썬라]</mark>
   * 부작용 : ARIA 약 24% 발생
     * ARIA-E : 약 20\~24% - 대부분 경증이나 무증상; 심한 경우 두통, 혼돈, 시각 증상
     * ARIA-H : 미세출혈 및 철침착; 대부분 경증
@@ -479,26 +479,26 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * 단점 : 뇌졸중 위험 증가; 체중 증가, 당뇨병 환자에서 고혈당과 관련
 * 주의 : 혈관 위험이 있는 환자에서 주의 사용
 * 용법 : 저용량으로 시작, 1주 간격 조정. 수면 효과를 감안하여 취침 시 투여
-* quetiapine : 25\~200 ㎎/d hs \[쎄로켈]
-* aripiprazole : 5\~10 ㎎/d \[아빌리파이]
-* clozapine : 25\~50 ㎎/d hs \[클로자릴]
-* olanzapine : 2.5\~10 ㎎/d hs \[자이프렉사]
-* risperidone : 0.25\~2 ㎎/d hs \[리스페달]
-* ziprasidone : 20\~40 ㎎/d \[젤독스]
+* quetiapine : 25\~200 ㎎/d hs <mark style="color:blue;">\[쎄로켈]</mark>
+* aripiprazole : 5\~10 ㎎/d <mark style="color:blue;">\[아빌리파이]</mark>
+* clozapine : 25\~50 ㎎/d hs <mark style="color:blue;">\[클로자릴]</mark>
+* olanzapine : 2.5\~10 ㎎/d hs <mark style="color:blue;">\[자이프렉사]</mark>
+* risperidone : 0.25\~2 ㎎/d hs <mark style="color:blue;">\[리스페달]</mark>
+* ziprasidone : 20\~40 ㎎/d <mark style="color:blue;">\[젤독스]</mark>
 
 #### <mark style="color:$primary;">Typical antipsychotics</mark>
 
 * 효과 : 의미 있는 효과가 입증되지 않음
 * 용법 : 저용량, 단기 사용으로 제한
-* haloperidol : 0.5\~2 ㎎/d \[페리돌]
+* haloperidol : 0.5\~2 ㎎/d <mark style="color:blue;">\[페리돌]</mark>
 
 ### <mark style="color:orange;">항경련제</mark>
 
 * 대상 : 항정신병제에 반응하지 않는 전신 경련, 초조, 공격 성향에 대하여 2차 약제로 선택
 * 부작용 : 진정
-* carbamazepine : 시작 50\~100 ㎎/d, 유지 300\~600 ㎎/d \[테그레톨]
-* divalproex : carbamazepine보다 부작용 적음; 시작 125\~250 ㎎, 유지 375\~1,375 ㎎/d \[데파코트]
-* lamotrigine : 50 ㎎/d, 증량 50 ㎎/2wk, 최대 400 ㎎/d \[라믹탈]
+* carbamazepine : 시작 50\~100 ㎎/d, 유지 300\~600 ㎎/d <mark style="color:blue;">\[테그레톨]</mark>
+* divalproex : carbamazepine보다 부작용 적음; 시작 125\~250 ㎎, 유지 375\~1,375 ㎎/d <mark style="color:blue;">\[데파코트]</mark>
+* lamotrigine : 50 ㎎/d, 증량 50 ㎎/2wk, 최대 400 ㎎/d <mark style="color:blue;">\[라믹탈]</mark>
 
 ### <mark style="color:orange;">항우울제 (SSRI)</mark>
 
@@ -507,9 +507,9 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * 부작용 : 구역/구토, 흥분, 파킨슨 작용, 성 기능 저하
 * 1차 선택 : 저용량 SSRI
 * citalopram : 10\~40 ㎎/d
-* escitalopram : 5\~20 ㎎/d \[렉사프로]
-* venlafaxine : 37.5\~225 ㎎/d \[이팩사]
-* sertraline : 25\~200 ㎎/d \[졸로푸트]
+* escitalopram : 5\~20 ㎎/d <mark style="color:blue;">\[렉사프로]</mark>
+* venlafaxine : 37.5\~225 ㎎/d <mark style="color:blue;">\[이팩사]</mark>
+* sertraline : 25\~200 ㎎/d <mark style="color:blue;">\[졸로푸트]</mark>
 * paroxetine과 TCA는 항콜린 부작용 문제로 피함
 
 ### <mark style="color:orange;">항불안제</mark>
@@ -517,16 +517,16 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * 대상 : 현저한 불안증, 다른 약제에 반응하지 않는 급성기 불안증
 * 용법 : 단기 작용 benzodiazepine 저용량, 단기 사용
 * 장기 작용제는 낙상 등의 위험성 있음; 장기 투여 시 행동 이상 악화 위험이 있음
-* lorazepam : 0.5\~1 ㎎ 필요시 4\~6시간마다 \[아티반]
+* lorazepam : 0.5\~1 ㎎ 필요시 4\~6시간마다 <mark style="color:blue;">\[아티반]</mark>
 * oxazepam : 흡수가 늦어 필요시 사용 방법으로는 덜 유용. 5.0\~7.5 ㎎ qd\~qid
-* triazolam : 착란, 기억력 장애, 정신병적 행동 유발 우려 \[할시온]
+* triazolam : 착란, 기억력 장애, 정신병적 행동 유발 우려 <mark style="color:blue;">\[할시온]</mark>
 
 ### <mark style="color:orange;">수면 유도</mark>
 
 * 용법 : 적정 복용 시간 선정(주로 취침 시 투여) 및 용량 조절이 필요 (☞ p.138)
-* zolpidem : 5\~10 ㎎ \[스틸녹스]
-* trazodone : 다른 수면제에 비하여 효과와 부작용이 적음; 25\~100 ㎎ \[트리티코]
-* mirtazapine : 저용량으로 유의미한 수면 향상을 보임; 7.5\~15 ㎎ \[레메론]
+* zolpidem : 5\~10 ㎎ <mark style="color:blue;">\[스틸녹스]</mark>
+* trazodone : 다른 수면제에 비하여 효과와 부작용이 적음; 25\~100 ㎎ <mark style="color:blue;">\[트리티코]</mark>
+* mirtazapine : 저용량으로 유의미한 수면 향상을 보임; 7.5\~15 ㎎ <mark style="color:blue;">\[레메론]</mark>
 * benzodiazepine은 주간 진정, 내성, 반동성 불면, 인지저하, 낙상, 섬망 등의 위험이 있고 diphenhydramine은 인지 기능에 대한 나쁜 영향, 남성 배뇨 장애를 유발할 수 있으므로 회피
 
 ***

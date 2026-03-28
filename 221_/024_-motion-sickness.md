@@ -105,7 +105,7 @@
 * 부작용 : 졸음, 입마름, 시야 흐림, 소변 저류
 * 제거 후 금단 증상 : 72시간 이상 부착 후 갑자기 제거 시 어지럼·구역·평형 장애 발생 가능 (전정계 항콜린 억제의 급격한 해제에 의함); 서서히 제거하거나 의사와 상담 권고
 * FDA 안전 경고(2025) : scopolamine 경피제 사용 시 체온 상승(hyperthermia) 위험 - 주로 17세 미만 소아 및 60세 이상 고령자에서 보고됨(합병증, 입원, 사망 사례 포함). 사용 중 전기담요·핫팩 등 외부 발열 기구 사용 금지; 체온 상승 또는 발한 감소 시 즉시 제거
-* scopolamine 경피제 : 1.5 ㎎ patch \[키미테 패취]\(성인용 1.5 ㎎/매) (비보험)
+* scopolamine 경피제 : 1.5 ㎎ patch <mark style="color:blue;">\[키미테 패취]</mark>\(성인용 1.5 ㎎/매) (비보험)
   * 출발 최소 4시간 전(이상적으로는 6\~8시간 전) 귀 뒤의 털 없는 건조한 피부 표면에 부착(72시간 동안 효과)
   * 만 8세 미만 금기; 국내 소아용 제품 미시판으로 사실상 성인 전용으로 사용
   * 1매 부착으로 3일간 유효; 3일 이상 적용해야 할 경우 첫 번째 것을 제거하고 다른 패취를 반대편 귀 뒤에 부착
@@ -115,16 +115,16 @@
 * 항콜린 및 진정 작용이 있는 1세대 항히스타민제 선택
   * 비진정성 2세대 항히스타민제는 멀미에 효과 없음 (BBB 통과 및 중추 항콜린 작용이 없기 때문)
 * 주의/부작용 : 항콜린제와 동일
-* dimenhydrinate : 50\~100 ㎎ q6h, 6\~12세 25\~50 ㎎/2\~5세 12.5\~25 ㎎ q6\~8h \[보나링 에이]
-* diphenhydramine : 25\~50 ㎎ q6\~8h, 6\~12세 5 ㎎/㎏ q6\~8h; 수면 작용이 있음 \[디펙타민]
-* meclizine : 25\~50 ㎎ q24h, 여행 60분 전 복용; 1일 1회 투여로 편리하고 dimenhydrinate보다 졸림이 적음 \[염산메클리진]
+* dimenhydrinate : 50\~100 ㎎ q6h, 6\~12세 25\~50 ㎎/2\~5세 12.5\~25 ㎎ q6\~8h <mark style="color:blue;">\[보나링 에이]</mark>
+* diphenhydramine : 25\~50 ㎎ q6\~8h, 6\~12세 5 ㎎/㎏ q6\~8h; 수면 작용이 있음 <mark style="color:blue;">\[디펙타민]</mark>
+* meclizine : 25\~50 ㎎ q24h, 여행 60분 전 복용; 1일 1회 투여로 편리하고 dimenhydrinate보다 졸림이 적음 <mark style="color:blue;">\[염산메클리진]</mark>
 * cyclizine : 일부 연구에서 dimenhydrinate과 효과는 비슷하며 덜 졸림
 * promethazine : 12.5\~25 ㎎ bid; 중증 멀미에서 효과적이나 진정 작용이 강함
 
 #### <mark style="color:$primary;">Antidopaminergics</mark>
 
 * scopolamine보다 효과 적음
-* metoclopramide : 10 ㎎ q6h \[맥페란]
+* metoclopramide : 10 ㎎ q6h <mark style="color:blue;">\[맥페란]</mark>
 * prochlorperazine : 5 ㎎ tid\~qid
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
@@ -132,8 +132,8 @@
 * vestibular nuclei 억제 작용
 * 진정 및 중독 가능성 때문에 2차 선택
 * 주의 : 고령, 알코올 남용, 간질환, 폐 기능 저하
-* lorazepam : 1\~2 ㎎ q8h \[아티반]
-* diazepam : 2\~10 ㎎ q6\~12h \[디아제팜]
+* lorazepam : 1\~2 ㎎ q8h <mark style="color:blue;">\[아티반]</mark>
+* diazepam : 2\~10 ㎎ q6\~12h <mark style="color:blue;">\[디아제팜]</mark>
 
 #### <mark style="color:$primary;">NK-1 수용체 길항제</mark>
 

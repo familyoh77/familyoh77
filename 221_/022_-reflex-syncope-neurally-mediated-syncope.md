@@ -106,13 +106,13 @@
 ## <mark style="color:green;">약물 치료</mark>
 
 * α-agonist : 기립성 유발 VVS에서 선호; VVS 약물 중 현재 가장 강한 근거(2021 무작위·이중맹검·위약대조 RCT 및 2022년 7개 RCT 메타분석에서 재발 감소 확인
-  * midodrine \[미드론] (☞ p.502)
+  * midodrine <mark style="color:blue;">\[미드론]</mark> (☞ p.502)
 * mineralocorticoid : 수분/나트륨 저류 기전; 효과 입증 불충분
-  * fludrocortisone \[플로리네프] (☞ p.502)
+  * fludrocortisone <mark style="color:blue;">\[플로리네프]</mark> (☞ p.502)
 * β-blocker : ESC 2018 가이드라인- VVS에 β-blocker는 적응증 없음(Class III, LOE A); ACC/AHA 2017- 40세 이상에서 제한적 고려 가능(Class IIb), 소아·청소년에서는 유익성 없음(Class III)
-  * metoprolol \[베타록], atenolol \[테놀민] (☞ p.487)
+  * metoprolol <mark style="color:blue;">\[베타록]</mark>, atenolol <mark style="color:blue;">\[테놀민]</mark> (☞ p.487)
 * SSRI : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2022년 네트워크 메타분석에서 fluoxetine이 재발 감소 확인; paroxetine은 동 분석에서 재발 증가 시사로 권고하지 않음
-  * fluoxetine \[푸록틴, 프로작] (☞ p.1146)
+  * fluoxetine <mark style="color:blue;">\[푸록틴, 프로작]</mark> (☞ p.1146)
 
 ## <mark style="color:green;">침습적 치료</mark>
 

@@ -176,16 +176,16 @@ _<mark style="color:$info;">✽ 번아웃과 우울증은 공존하거나 이행
 
 #### <mark style="color:$primary;">불안·자율신경 증상 동반 시</mark>
 
-* escitalopram : 적응장애의 불안·우울 동반 시 고려; 5\~10 ㎎/d 시작, 10\~20 ㎎/d 유지 \[렉사프로]
-* sertraline : 25\~50 ㎎/d 시작, 50\~150 ㎎/d 유지 \[졸로푸트]
-* buspirone : 불안 증상 중심, 의존 위험 낮음; 10\~30 ㎎/d \[부스파]
-* propranolol : 심계항진·발한 등 자율신경 증상 완화; 불안 자체에는 효과 제한적; 10\~40 ㎎/d \[인데놀]
+* escitalopram : 적응장애의 불안·우울 동반 시 고려; 5\~10 ㎎/d 시작, 10\~20 ㎎/d 유지 <mark style="color:blue;">\[렉사프로]</mark>
+* sertraline : 25\~50 ㎎/d 시작, 50\~150 ㎎/d 유지 <mark style="color:blue;">\[졸로푸트]</mark>
+* buspirone : 불안 증상 중심, 의존 위험 낮음; 10\~30 ㎎/d <mark style="color:blue;">\[부스파]</mark>
+* propranolol : 심계항진·발한 등 자율신경 증상 완화; 불안 자체에는 효과 제한적; 10\~40 ㎎/d <mark style="color:blue;">\[인데놀]</mark>
 
 #### <mark style="color:$primary;">단기 불안·불면 완화</mark>
 
 * 최대 2\~4주
-* lorazepam : 0.5\~2 ㎎/d \[아티반]
-* clonazepam : 0.25\~1 ㎎/d \[리보트릴]
+* lorazepam : 0.5\~2 ㎎/d <mark style="color:blue;">\[아티반]</mark>
+* clonazepam : 0.25\~1 ㎎/d <mark style="color:blue;">\[리보트릴]</mark>
 
 ***
 

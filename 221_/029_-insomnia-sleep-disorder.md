@@ -287,8 +287,8 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 각성을 유지하는 orexin/hypocretin 신호를 차단하여 수면 유도; BZD·Z-drug과 달리 수면 구조(서파수면·렘수면) 보존
 * 의존·남용 위험 낮음; 고령자 및 수면무호흡증 동반 환자에서 BZD/Z-drug보다 상대적으로 안전
 * 입면 및 수면 유지 장애 모두에 효과
-* suvorexant \[벨솜라] : 10\~20 ㎎ qd 취침 직전; \[부작용] 다음날 졸림, 두통, 이상한 꿈
-* lemborexant \[데이비고] : 5\~10 ㎎ qd 취침 직전; 국내 허가·급여 적용(입면 또는 수면 유지 장애 성인); 타 수면제와 병용 시 급여 인정 안 됨; 기존 약물에서 전환 시 이전 약물 서서히 감량 후 교체 권고; suvorexant보다 다음날 졸림 적다는 보고
+* suvorexant <mark style="color:blue;">\[벨솜라]</mark> : 10\~20 ㎎ qd 취침 직전; \[부작용] 다음날 졸림, 두통, 이상한 꿈
+* lemborexant <mark style="color:blue;">\[데이비고]</mark> : 5\~10 ㎎ qd 취침 직전; 국내 허가·급여 적용(입면 또는 수면 유지 장애 성인); 타 수면제와 병용 시 급여 인정 안 됨; 기존 약물에서 전환 시 이전 약물 서서히 감량 후 교체 권고; suvorexant보다 다음날 졸림 적다는 보고
 * 병용 금기 : 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 시 혈중 농도 급격히 상승 - 병용 피하거나 감량; moderate CYP3A 억제제(예: fluconazole, diltiazem)도 주의
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
@@ -296,12 +296,12 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 수면 잠복기 감소, 총 수면 시간 연장, 수면 개시 후 각성(WASO) 감소, 수면 질 향상
 * 단기(4주 이하) 사용; 장기 사용 시 수면 질 저하(deep sleep time 감소, 수면 구조 왜곡), 의존/금단 위험(금단 증상은 반감기가 짧은 약제에서 더 흔함)
 * 부작용 : 다음날 낮졸림, 운동 실조, 어지럼증, 인지 저하, 섬망, 전향성 기억 상실(triazolam); 부작용과 약물 용량에 상관관계가 있음
-* FDA 승인 약제 : estazolam, flurazepam \[달마돔], temazepam, triazolam \[할시온], quazepam
+* FDA 승인 약제 : estazolam, flurazepam <mark style="color:blue;">\[달마돔]</mark>, temazepam, triazolam <mark style="color:blue;">\[할시온]</mark>, quazepam
 
 #### <mark style="color:$primary;">Z-class drugs</mark>
 
 * non-benzodiazepine hypnotics(benzodiazepine receptor agonist의 일종); 수면 잠복기 감소, 총 수면 시간 증가, 수면 유지, 수면 질 개선
-* FDA 승인 약제 : zolpidem \[스틸녹스], zaleplon \[잘레딥], zopiclone
+* FDA 승인 약제 : zolpidem <mark style="color:blue;">\[스틸녹스]</mark>, zaleplon <mark style="color:blue;">\[잘레딥]</mark>, zopiclone
 * 부작용 : 두통, 어지럼증, 졸림; 사건 수면, 기억상실, 환각, 자살 위험성 증가, 내성/의존/금단
 * 4\~5주 이하의 단기 사용 및 정기적 사용의 부작용을 감안하여 필요시(잠자리에 들었으나 잠이 잘 오지 않을 때) 복용 권고
 
@@ -319,11 +319,11 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 
 #### <mark style="color:$primary;">항우울제</mark>
 
-* Doxepin \[사일레노] : 입면 후 각성 시간, 총 수면 시간, 수면 효율 개선; 수면 유지 장애에 고려
+* Doxepin <mark style="color:blue;">\[사일레노]</mark> : 입면 후 각성 시간, 총 수면 시간, 수면 효율 개선; 수면 유지 장애에 고려
   * 부작용 : 설사, 낮졸림증, 두통; 낙상 위험이 상대적으로 적음
-* Trazodone \[트리티코] : WASO, 총 수면 시간, 수면 효율, 서파 수면 증가; 수면 유지 장애에 고려; 25\~50 ㎎
+* Trazodone <mark style="color:blue;">\[트리티코]</mark> : WASO, 총 수면 시간, 수면 효율, 서파 수면 증가; 수면 유지 장애에 고려; 25\~50 ㎎
   * 부작용 : 두통, 기립저혈압; 남용 문제는 상대적으로 적음
-* Mirtazapine \[레메론] : 수면 유도, 서파 수면 증가; 우울증 동반 불면증에 고려; 7.5\~30 ㎎
+* Mirtazapine <mark style="color:blue;">\[레메론]</mark> : 수면 유도, 서파 수면 증가; 우울증 동반 불면증에 고려; 7.5\~30 ㎎
   * 부작용 : 과도한 진정, 식욕/체중 증가, 입마름
 
 #### <mark style="color:$primary;">기타</mark>
@@ -358,13 +358,13 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 * 수면제는 수면 질을 향상시키지 못하며, 주간 졸음을 유발할 수 있고, SWD를 악화시킬 수 있음
 * non-benzodiazepine hypnotics(예: zolpidem) : 필요시 단기 사용
-* melatonin 3 ㎎ \[서카딘]
+* melatonin 3 ㎎ <mark style="color:blue;">\[서카딘]</mark>
   * ✽서카딘 허가 사항 : 비급여. 수면의 질이 저하된 55세 이상의 불면증 환자의 단기 치료
 
 #### <mark style="color:$primary;">각성 약물</mark>
 
-* modafinil : 100\~200 ㎎, shift 시작 60분 전 \[프로비질]
-* armodafinil : 150\~250 ㎎; 12\~16시간 작용 \[누비질]
+* modafinil : 100\~200 ㎎, shift 시작 60분 전 <mark style="color:blue;">\[프로비질]</mark>
+* armodafinil : 150\~250 ㎎; 12\~16시간 작용 <mark style="color:blue;">\[누비질]</mark>
 * 카페인 : 200 ㎎ 정도를 주간 작업 전 섭취
 
 ***

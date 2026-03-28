@@ -107,26 +107,26 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 #### <mark style="color:$primary;">장기 단독 항혈소판 요법&#x20;</mark>
 
 * &#x20;DAPT 21일 완료 후 또는 저위험 TIA
-* aspirin : 100 ㎎/d (장기 유지) \[아스피린 장용정]
-* clopidogrel : 75 ㎎/d; aspirin 불내성/알레르기 시 \[플라빅스]
-* 서방형 dipyridamole/aspirin : 200/25 ㎎ bid; aspirin 또는 clopidogrel의 대안 \[디피아녹스]
-* ticlopidine : 다른 약제를 사용할 수 없는 환자에서 고려 \[티클로돈]
+* aspirin : 100 ㎎/d (장기 유지) <mark style="color:blue;">\[아스피린 장용정]</mark>
+* clopidogrel : 75 ㎎/d; aspirin 불내성/알레르기 시 <mark style="color:blue;">\[플라빅스]</mark>
+* 서방형 dipyridamole/aspirin : 200/25 ㎎ bid; aspirin 또는 clopidogrel의 대안 <mark style="color:blue;">\[디피아녹스]</mark>
+* ticlopidine : 다른 약제를 사용할 수 없는 환자에서 고려 <mark style="color:blue;">\[티클로돈]</mark>
 
 ### <mark style="color:orange;">Anticoagulation therapy</mark>
 
 * cardioembolic TIA(심방세동 등)에 적용 (보험기준 ☞ p.1187)
 * NOAC이 warfarin보다 우선 권고
-* apixaban : 2.5\~5 ㎎ bid \[엘리퀴스]
-* rivaroxaban : 15\~20 ㎎ qd (저녁 식사와 함께) \[자렐토]&#x20;
-* edoxaban : 30\~60 ㎎ qd \[릭시아나]&#x20;
-* dabigatran : 110\~150 ㎎ bid \[프라닥사]&#x20;
-* warfarin : INR 목표 2.0\~3.0에 따라 용량 조절 \[와파린]&#x20;
+* apixaban : 2.5\~5 ㎎ bid <mark style="color:blue;">\[엘리퀴스]</mark>
+* rivaroxaban : 15\~20 ㎎ qd (저녁 식사와 함께) <mark style="color:blue;">\[자렐토]</mark>&#x20;
+* edoxaban : 30\~60 ㎎ qd <mark style="color:blue;">\[릭시아나]</mark>&#x20;
+* dabigatran : 110\~150 ㎎ bid <mark style="color:blue;">\[프라닥사]</mark>&#x20;
+* warfarin : INR 목표 2.0\~3.0에 따라 용량 조절 <mark style="color:blue;">\[와파린]</mark>&#x20;
 
 ### <mark style="color:orange;">Statin</mark>
 
 * TIA 진단 즉시 고강도 statin 시작 권고&#x20;
 * 목표 : LDL-C ＜55 ㎎/dL 및 기저치 대비 50% 이상 감소 (2022 한국지질동맥경화학회·ESC 가이드라인)
-* 고강도 : atorvastatin 40\~80 ㎎/d \[리피토], rosuvastatin 20\~40 ㎎/d \[크레스토]
+* 고강도 : atorvastatin 40\~80 ㎎/d <mark style="color:blue;">\[리피토]</mark>, rosuvastatin 20\~40 ㎎/d <mark style="color:blue;">\[크레스토]</mark>
 * 고강도 불내성 시 : 중강도 statin으로 대체 (LDL-C 30\~49% 감소 목표)
 
 ***

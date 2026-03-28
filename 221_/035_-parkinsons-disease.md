@@ -235,8 +235,8 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * 갑작스런 투여 중단은 neuroleptic malignant syndrome을 일으킬 수 있음
 * 부작용 : 구역, 두통, 저혈압, 어지럼, 착란, 부정맥, dyskinesia(장기 사용 시)
 * 금기 : 정신 질환, 녹내장
-* levodopa/carbidopa : 시작 100/25 ㎎ 0.5\~1T tid; 최대 levodopa로 1,500 ㎎ #2\~4 \[시네메트]
-* L-dopa/benserazide : 100/25 ㎎, 100/50 ㎎ \[마도파]
+* levodopa/carbidopa : 시작 100/25 ㎎ 0.5\~1T tid; 최대 levodopa로 1,500 ㎎ #2\~4 <mark style="color:blue;">\[시네메트]</mark>
+* L-dopa/benserazide : 100/25 ㎎, 100/50 ㎎ <mark style="color:blue;">\[마도파]</mark>
 
 #### <mark style="color:$primary;">Dopamine agonists</mark>
 
@@ -245,44 +245,44 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * 단독 또는 levodopa와 병용
 * DAWS (Dopamine Agonist Withdrawal Syndrome) : 투여 중단 시 불안, 공황 발작, 발한, 통증, 약물 갈망 등의 금단 증상이 levodopa보다 심하게 나타날 수 있음; 반드시 서서히 감량
 * 부작용 : 구역, 기립성 저혈압, 졸림, 생생한 꿈, 충동 장애(도박, 과식, 과성욕 등), 착란, 하지 부종, 어지럼
-* pramipexole : 시작 0.125 ㎎ tid, 서방형 0.375 ㎎ qd; 최대 4.5 ㎎/d \[미라펙스]
-* ropinirole : 시작 0.25 ㎎ tid, 서방형 2 ㎎ qd; 최대 8 ㎎ tid(24 ㎎/d) \[리큅]
-* rotigotine : 2 ㎎/d; 최대 16 ㎎/d \[뉴프로 패취]
-* bromocriptine : 시작 1.25 ㎎ bid; 최대 90 ㎎/d \[팔로델]
+* pramipexole : 시작 0.125 ㎎ tid, 서방형 0.375 ㎎ qd; 최대 4.5 ㎎/d <mark style="color:blue;">\[미라펙스]</mark>
+* ropinirole : 시작 0.25 ㎎ tid, 서방형 2 ㎎ qd; 최대 8 ㎎ tid(24 ㎎/d) <mark style="color:blue;">\[리큅]</mark>
+* rotigotine : 2 ㎎/d; 최대 16 ㎎/d <mark style="color:blue;">\[뉴프로 패취]</mark>
+* bromocriptine : 시작 1.25 ㎎ bid; 최대 90 ㎎/d <mark style="color:blue;">\[팔로델]</mark>
 * apomorphine : 주사제; 시작 2 ㎎; 최대 6 ㎎
 
 #### <mark style="color:$primary;">MAO-B(Monoamine Oxidase type B) Inhibitor</mark>
 
 * 내약성 좋음
 * 부작용 : 구역, 두통, 수면 장애, 환각; SSRI, TCA, meperidine 병용 회피
-* selegiline : 5 ㎎ 아침; 최대 10 ㎎ #2(아침/점심) — 저녁 복용 시 불면 유발 가능 \[마오비]
-* rasagiline : 시작 0.5 ㎎ qd; 최대 1 ㎎/d \[아질렉트]
+* selegiline : 5 ㎎ 아침; 최대 10 ㎎ #2(아침/점심) — 저녁 복용 시 불면 유발 가능 <mark style="color:blue;">\[마오비]</mark>
+* rasagiline : 시작 0.5 ㎎ qd; 최대 1 ㎎/d <mark style="color:blue;">\[아질렉트]</mark>
 * safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d — levodopa 보조제; 운동 및 비운동 증상 개선
 
 #### <mark style="color:$primary;">COMT(Catechol-O-Methyltransferase) Inhibitor</mark>
 
 * 도파민 반응을 연장시킴. levodopa에 반응하는 경우 부가 사용 (wearing-off 개선 목적)
 * 부작용 : 구역, 설사, 기립성 저혈압, 착란, 운동이상증, 간독성(tolcapone), 오렌지색 소변
-* entacapone : levodopa와 동시 복용 필수; 복용 횟수 많음; 200 ㎎, levodopa 복용 때마다; 최대 8T(1,600 ㎎)/d \[콤탄]
+* entacapone : levodopa와 동시 복용 필수; 복용 횟수 많음; 200 ㎎, levodopa 복용 때마다; 최대 8T(1,600 ㎎)/d <mark style="color:blue;">\[콤탄]</mark>
 * tolcapone : 시작 100 ㎎ tid; 최대 800 ㎎/d; 간독성 위험, 간기능 모니터링 필수
-* opicapone : 1일 1회 복용으로 편의성 우수. entacapone 대비 On-time 연장 효과 강력; 25\\\~50 ㎎ qd (취침 전; levodopa 복용 최소 1시간 전후) \[온젠티스]
+* opicapone : 1일 1회 복용으로 편의성 우수. entacapone 대비 On-time 연장 효과 강력; 25\\\~50 ㎎ qd (취침 전; levodopa 복용 최소 1시간 전후) <mark style="color:blue;">\[온젠티스]</mark>
 
 #### <mark style="color:$primary;">NMDA(N-Methyl-d-Aspartate) Inhibitor</mark>
 
 * 부작용 : 어지럼, 착란, 망상피반, 환각
-* amantadine : 시작 100 ㎎ qd → 100 ㎎ bid, 최대 400 ㎎/d \[피케이멜즈]
+* amantadine : 시작 100 ㎎ qd → 100 ㎎ bid, 최대 400 ㎎/d <mark style="color:blue;">\[피케이멜즈]</mark>
 
 #### <mark style="color:$primary;">Anticholinergics</mark>
 
 * tremor 및 rigidity 완화에 도움; 젊은 연령에서 심한 진전 조절을 위해 고려
 * 저용량으로 시작하여 점차 증량; 효과적이지 않으면 tapering
 * 부작용 : 입마름, 기억력/시각 장애, 소변 잔류; 고령자에서 인지 기능 저하 위험 주의
-* trihexyphenidyl : 1 ㎎ tid; 증량 2 ㎎ tid; 최대 15 ㎎/d \[트리헥신]
-* benztropine : 0.5 ㎎ 취침 시; 최대 1 ㎎ bid \[벤즈트로핀]
+* trihexyphenidyl : 1 ㎎ tid; 증량 2 ㎎ tid; 최대 15 ㎎/d <mark style="color:blue;">\[트리헥신]</mark>
+* benztropine : 0.5 ㎎ 취침 시; 최대 1 ㎎ bid <mark style="color:blue;">\[벤즈트로핀]</mark>
 
 #### <mark style="color:$primary;">복합제</mark>
 
-* levodopa + carbidopa + entacapone \[스타레보]
+* levodopa + carbidopa + entacapone <mark style="color:blue;">\[스타레보]</mark>
 
 ### <mark style="color:orange;">운동 증상 약제 비교</mark>
 
@@ -292,7 +292,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 * 기립성 저혈압 : 수분 섭취 증가, 압박 스타킹, 머리쪽 침대 높이기; midodrine 2.5\~10 ㎎ tid, droxidopa 100\~600 ㎎ tid
 * 주간 졸음 : 야간 수면 환경 개선, 적절한 커피 음용; modafinil, methylphenidate (☞ p.138)
-* REM 수면 행동 장애 : clonazepam 0.25\~0.5 ㎎ 취침 전 \[리보트릴]; melatonin 3\~12 ㎎ 취침 전
+* REM 수면 행동 장애 : clonazepam 0.25\~0.5 ㎎ 취침 전 <mark style="color:blue;">\[리보트릴]</mark>; melatonin 3\~12 ㎎ 취침 전
 * 우울 : 보통 SSRI 선택 (TCA보다 부작용이 적음) (☞ [우울증](027_-depression.md))
 * 통증 : 파킨슨 관련 통증에 duloxetine 고려; levodopa 최적화로 off-period 통증 감소
 * 침 흘림 : 침샘에 botulinum toxin 주사; 경구 glycopyrrolate; 설하 atropine, ipratropium

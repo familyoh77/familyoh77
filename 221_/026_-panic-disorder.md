@@ -140,7 +140,7 @@
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
 * 30세 미만 : 투약 첫 4주간 매주 자살 사고 모니터링
 * 세로토닌 증후군 주의 : SSRI 증량기 또는 병용 요법 시 고열·근육 경직·정신 상태 변화 발생 시 즉시 중단 후 응급 평가
-* vortioxetine \[브린텔릭스] : 공황장애 공식 적응증 아님; 우울증 동반 또는 SSRI 성기능·위장 부작용이 심한 경우 고려 가능 (소규모 연구 수준, 근거 축적 중)
+* vortioxetine <mark style="color:blue;">\[브린텔릭스]</mark> : 공황장애 공식 적응증 아님; 우울증 동반 또는 SSRI 성기능·위장 부작용이 심한 경우 고려 가능 (소규모 연구 수준, 근거 축적 중)
 
 <table><thead><tr><th width="251.5263671875">SSRI/SNRI</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine [세로자트]</td><td>10~20</td><td>20~60</td></tr><tr><td>sertraline [졸로푸트]</td><td>25</td><td>50~200</td></tr><tr><td>venlafaxine XR [이팩사 XR]</td><td>37.5</td><td>75~225</td></tr><tr><td>fluoxetine [푸로작]</td><td>10~20</td><td>20~80</td></tr><tr><td>citalopram [시탈로프람]</td><td>10~20</td><td>20~40</td></tr><tr><td>paroxetine CR [팍실 CR]</td><td>12.5~25</td><td>25~75</td></tr></tbody></table>
 

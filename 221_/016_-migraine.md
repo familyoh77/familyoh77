@@ -198,11 +198,11 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 
 ### <mark style="color:orange;">진통제</mark>
 
-* ibuprofen : 400\~800 ㎎ \[부루펜]
-* naproxen : 500\~550 ㎎ \[낙센]
-* aspirin : 500\~1,000 ㎎ \[로날]
+* ibuprofen : 400\~800 ㎎ <mark style="color:blue;">\[부루펜]</mark>
+* naproxen : 500\~550 ㎎ <mark style="color:blue;">\[낙센]</mark>
+* aspirin : 500\~1,000 ㎎ <mark style="color:blue;">\[로날]</mark>
 * dexketoprofen : 25 ㎎
-* acetaminophen : 650\~1,300 ㎎ \[타이레놀] (✽NSAID보다 효과가 적다는 보고가 있음)
+* acetaminophen : 650\~1,300 ㎎ <mark style="color:blue;">\[타이레놀]</mark> (✽NSAID보다 효과가 적다는 보고가 있음)
 
 ### <mark style="color:orange;">Triptan</mark>
 
@@ -226,14 +226,14 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 급성기 치료 및 예방 치료 겸용 가능 (rimegepant)
 * 약물과용두통(MOH) 위험이 없거나 오히려 예방 효과 : 기존 진통제·triptan과 달리 자주 복용해도 MOH를 유발하지 않음. MOH 위험군에서 특히 유리
 * 부작용 : 입마름, 어지럼, 구역
-* rimegepant 75 ㎎ 붕해정 \[엔유비티] : 급성기 1정, 예방 목적 격일 복용; 2024년 국내 허가
+* rimegepant 75 ㎎ 붕해정 <mark style="color:blue;">\[엔유비티]</mark> : 급성기 1정, 예방 목적 격일 복용; 2024년 국내 허가
 * ubrogepant 50\~100 ㎎ : 급성기 치료; 국내 미허가
 
 ### <mark style="color:orange;">Ditans</mark>
 
 * 5-HT1F agonist; 선택적 작용으로 triptan의 심혈관계(혈관 수축) 부작용 없음
 * 기전 : neuropeptide 방출 억제 및 삼차신경 통증 전달 경로 억제
-* lasmiditan 50\~200 ㎎ \[레이보우] (비보험)
+* lasmiditan 50\~200 ㎎ <mark style="color:blue;">\[레이보우]</mark> (비보험)
 * 부작용 : 졸음, 어지럼; 복용 후 8시간 이내 운전 금지
 
 ### <mark style="color:orange;">Ergotamine</mark>
@@ -242,7 +242,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 반동성 두통 위험 — 발작 당 4\~5일 이상 사용하지 않음
 * 부작용 : 구역, 혈관 수축
 * 주의/금기 : 고혈압, 심혈관 질환, 간/신 장애, 발열, 24시간 내 triptan 복용, CYP3A4 억제제 병용
-* caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 30분마다 1정씩 4회 \[크래밍]
+* caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 30분마다 1정씩 4회 <mark style="color:blue;">\[크래밍]</mark>
 
 ### <mark style="color:orange;">항구토제</mark>
 
@@ -250,13 +250,13 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * ✽acetaminophen + metoclopramide 병용이 triptan 수준의 효과가 있다는 보고가 있음
 * 구역/구토가 없더라도 급성기 치료 시 항구토제 추가를 고려
 * 부작용 : QT interval 연장(metoclopramide)
-* metoclopramide : 10 ㎎ tid \[맥페란]
-* domperidone : 10 ㎎ tid \[모티리움 엠]
+* metoclopramide : 10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
+* domperidone : 10 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark>
 
 ### <mark style="color:orange;">Steroid</mark>
 
 * 일률적인 사용은 하지 않음; 주로 응급실에서 주사로 투여
-* dexamethasone : 두통 재발 위험도를 유의미하게 줄인다는 보고가 있음 \[덱타손 주]
+* dexamethasone : 두통 재발 위험도를 유의미하게 줄인다는 보고가 있음 <mark style="color:blue;">\[덱타손 주]</mark>
 
 ***
 
@@ -289,22 +289,22 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 #### <mark style="color:$primary;">β-차단제</mark>
 
-* propranolol : 40\~160 ㎎/d #2 \[인데놀]
-* metoprolol : 50\~200 ㎎/d \[베타록]
+* propranolol : 40\~160 ㎎/d #2 <mark style="color:blue;">\[인데놀]</mark>
+* metoprolol : 50\~200 ㎎/d <mark style="color:blue;">\[베타록]</mark>
 * 부작용 : 우울, 발기부전, 피로, 무기력, 악몽, 서맥, 저혈압
 * 주의/금기 : 천식, COPD, 심장 전도 장애, 흡연, 고령
 
 #### <mark style="color:$primary;">항경련제</mark>
 
-* topiramate : 12.5\~150 ㎎/d \[토파맥스]; \[부] 감각 이상(저림), 복통, 구역, 피로, 맛 변화, 설사, 체중 감소, 기억/집중력 장애, 신결석; \[주/금] 녹내장, 신결석, 임신
+* topiramate : 12.5\~150 ㎎/d <mark style="color:blue;">\[토파맥스]</mark>; <mark style="color:blue;">\[부]</mark> 감각 이상(저림), 복통, 구역, 피로, 맛 변화, 설사, 체중 감소, 기억/집중력 장애, 신결석; \[주/금] 녹내장, 신결석, 임신
   * 가임기 여성 주의 : 경구 피임약 효과 감소 가능(특히 ≥200 ㎎/d; 저용량에서도 주의), 피임 방법 재검토 필요
-* valproate : 500\~1,500 ㎎/d \[오르필]; divalproex 250\~1,500 ㎎/d \[데파코트]; \[부] 구역, 체중 증가, 떨림, 탈모, 졸림; \[주/금] 간질환, 췌장염, 임신(FDA 등급 D; 가임기 여성에게는 처방 회피), 저혈소판증
+* valproate : 500\~1,500 ㎎/d <mark style="color:blue;">\[오르필]</mark>; divalproex 250\~1,500 ㎎/d <mark style="color:blue;">\[데파코트]</mark>; <mark style="color:blue;">\[부]</mark> 구역, 체중 증가, 떨림, 탈모, 졸림; \[주/금] 간질환, 췌장염, 임신(FDA 등급 D; 가임기 여성에게는 처방 회피), 저혈소판증
 
 #### <mark style="color:$primary;">항우울제</mark>
 
-* amitriptyline : 10\~50 ㎎/d hs \[에트라빌]; \[부] 졸음, 입마름, 변비, 소변 저류, 심장 전도 장애, 체중 증가; \[주/금] 고령, BPH, 녹내장, 발작, 심장 질환 (보험주의; 우울증 동반 시 급여)
-  * 대안 : nortriptyline 10\~75 ㎎/d hs \[시나논] - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함 (보험주의)
-* venlafaxine XR : 37.5\~150 ㎎/d \[이팩사 XR]; \[부] 구역, 혈압 상승; \[주/금] 고혈압
+* amitriptyline : 10\~50 ㎎/d hs <mark style="color:blue;">\[에트라빌]</mark>; <mark style="color:blue;">\[부]</mark> 졸음, 입마름, 변비, 소변 저류, 심장 전도 장애, 체중 증가; \[주/금] 고령, BPH, 녹내장, 발작, 심장 질환 (보험주의; 우울증 동반 시 급여)
+  * 대안 : nortriptyline 10\~75 ㎎/d hs <mark style="color:blue;">\[시나논]</mark> - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함 (보험주의)
+* venlafaxine XR : 37.5\~150 ㎎/d <mark style="color:blue;">\[이팩사 XR]</mark>; <mark style="color:blue;">\[부]</mark> 구역, 혈압 상승; \[주/금] 고혈압
 
 ### <mark style="color:orange;">2차 선택제 및 기타 예방 치료</mark>
 
@@ -318,9 +318,9 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 부작용 : 주사 부위 통증/발적, 상기도 감염; 변비(erenumab에서 더 빈번)
 * 금기 : 약물 과민, 임신
 * 주의 : 심혈관 질환, 조절되지 않는 고혈압(특히 Erenumab 사용 시 혈압 모니터링 필요)
-* fremanezumab \[아조비] : 225 ㎎/월 or 675 ㎎/분기
-* galcanezumab \[앰겔러티] : 120 ㎎/월 (초회 240 ㎎)
-* erenumab \[아이모빅] : 70\~140 ㎎/월 (수용체 결합형; 국내 급여 미등재)
+* fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 or 675 ㎎/분기
+* galcanezumab <mark style="color:blue;">\[앰겔러티]</mark> : 120 ㎎/월 (초회 240 ㎎)
+* erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 (수용체 결합형; 국내 급여 미등재)
 * eptinezumab : 100\~300 ㎎/분기 IV (국내 미허가)
 
 ※ 국내 급여 기준 : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정; 급여 외 사용 시 비급여(고가)
@@ -329,35 +329,35 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 * 만성 편두통에서 위약 대비 편두통 발생 약 2일/월 감소 효과
 * 155 U (5 U씩 31군데 근육 주사)
-* \[부] 안검하수(blepharoptosis), 팔 근육 약화, 경부 통증, 주사 부위 통증
+* <mark style="color:blue;">\[부]</mark> 안검하수(blepharoptosis), 팔 근육 약화, 경부 통증, 주사 부위 통증
 * \[주/금] 약물 과민, 신경 근육 질환(예: 중증 근무력증), 임신, 수유, 근이완제 병용
 
 #### <mark style="color:$primary;">항고혈압제</mark>
 
-* flunarizine : 5\~10 ㎎/d \[씨베리움]; \[부] 체중 증가, 졸림, 입마름, 어지럼, 저혈압, 우울; \[주/금] 심한 우울, 파킨슨병, 추체외로 증상
-* candesartan : 4\~16 ㎎/d \[아타칸]; \[부] 저혈압, CHF 악화; \[주/금] 혈관 부종, 임신, 수유
-* lisinopril : 10\~20 ㎎/d \[제스트릴]; \[부] 어지럼, 두통, 기침, 피로, 저혈압; \[주/금] 혈관 부종, sulfonamide 과민
+* flunarizine : 5\~10 ㎎/d <mark style="color:blue;">\[씨베리움]</mark>; <mark style="color:blue;">\[부]</mark> 체중 증가, 졸림, 입마름, 어지럼, 저혈압, 우울; \[주/금] 심한 우울, 파킨슨병, 추체외로 증상
+* candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[아타칸]</mark>; <mark style="color:blue;">\[부]</mark> 저혈압, CHF 악화; \[주/금] 혈관 부종, 임신, 수유
+* lisinopril : 10\~20 ㎎/d <mark style="color:blue;">\[제스트릴]</mark>; <mark style="color:blue;">\[부]</mark> 어지럼, 두통, 기침, 피로, 저혈압; \[주/금] 혈관 부종, sulfonamide 과민
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>
 
 * 대한두통학회 지침(2021)에서는 근거 부족으로 사용하지 않을 것을 제안
 * 부작용 : 어지럼, 졸음, 균형 장애
-* gabapentin : 300\~900 ㎎/d \[뉴론틴]
-* pregabalin : 50\~300 ㎎/d \[리리카]
+* gabapentin : 300\~900 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>
+* pregabalin : 50\~300 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 
 #### <mark style="color:$primary;">기타</mark>
 
-* tizanidine(근이완) : 4\~24 ㎎/d \[실다루드]
-* memantine(신경 보호) : 5\~20 ㎎/d \[에빅사]
+* tizanidine(근이완) : 4\~24 ㎎/d <mark style="color:blue;">\[실다루드]</mark>
+* memantine(신경 보호) : 5\~20 ㎎/d <mark style="color:blue;">\[에빅사]</mark>
 * cyproheptadine(항히스타민) : 4\~8 ㎎ tid
-* zonisamide(항전간) : 50\~100 ㎎/d \[엑세그란]
+* zonisamide(항전간) : 50\~100 ㎎/d <mark style="color:blue;">\[엑세그란]</mark>
 * 대체 요법(근거 제한적) : Mg 600 ㎎/d, riboflavin 400 ㎎/d, feverfew(MIG-99) 6.25 ㎎ tid, coenzyme Q10 100 ㎎ tid
 
 ### <mark style="color:orange;">월경편두통 예방</mark>
 
 * 월경 주기가 규칙적인 경우 월경 시작 2일 전부터 월경 후 3일까지 단기 예방 요법 고려
-* frovatriptan 2.5 ㎎ bid \[미가드] : 반감기가 길어 월경편두통 단기 예방에 적합
-* naratriptan 1 ㎎ bid \[나라믹] : 대안
+* frovatriptan 2.5 ㎎ bid <mark style="color:blue;">\[미가드]</mark> : 반감기가 길어 월경편두통 단기 예방에 적합
+* naratriptan 1 ㎎ bid <mark style="color:blue;">\[나라믹]</mark> : 대안
 * NSAID(예: naproxen 500 ㎎ bid)도 단기 예방에 사용 가능
 
 ## <mark style="color:green;">Status Migrainosus</mark>

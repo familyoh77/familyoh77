@@ -166,11 +166,11 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 
 ### <mark style="color:orange;">1차 선택 - 급성기 진통제</mark>
 
-* ibuprofen : 400\~800 ㎎ q8h 필요시 \[부루펜]
+* ibuprofen : 400\~800 ㎎ q8h 필요시 <mark style="color:blue;">\[부루펜]</mark>
   * ✽ibuprofen이 acetaminophen보다 효과적이라는 보고가 있음
-* naproxen : 275\~500 ㎎ q8\~12h 필요시 \[낙센, 아나프록스]
-* acetaminophen : 1,000 ㎎ → 이후 650\~1,000 ㎎을 필요시 6시간마다; 최대 4 g/d, 간/신 장애 시 2 g/d \[타이레놀]
-* aspirin : 500\~1,000 ㎎ 필요시 6시간마다 \[로날]
+* naproxen : 275\~500 ㎎ q8\~12h 필요시 <mark style="color:blue;">\[낙센, 아나프록스]</mark>
+* acetaminophen : 1,000 ㎎ → 이후 650\~1,000 ㎎을 필요시 6시간마다; 최대 4 g/d, 간/신 장애 시 2 g/d <mark style="color:blue;">\[타이레놀]</mark>
+* aspirin : 500\~1,000 ㎎ 필요시 6시간마다 <mark style="color:blue;">\[로날]</mark>
 
 ### <mark style="color:orange;">2차 선택 - 급성기</mark>
 
@@ -181,15 +181,15 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 
 #### <mark style="color:$primary;">Opioid 유사제</mark>
 
-* tramadol : 100 ㎎ \[트리돌] (☞ p.12)
-* 복합제 : tramadol/acetaminophen \[울트라셋]
+* tramadol : 100 ㎎ <mark style="color:blue;">\[트리돌]</mark> (☞ p.12)
+* 복합제 : tramadol/acetaminophen <mark style="color:blue;">\[울트라셋]</mark>
 
 #### <mark style="color:$primary;">진통 보조제</mark>
 
 * 수면 작용이 있는 항히스타민제나 dopamine 차단 항구토제가 진통제의 효과를 강화시킬 수 있음
   * diphenhydramine : 25\~50 ㎎ q4\~6hr, 최대 300 ㎎/d [디펙타민](../%EB%B9%84%EB%B3%B4%ED%97%98/)
-  * hydroxyzine : 25\~50 ㎎ hs or 50\~100 ㎎/d #3\~4 \[아디팜]
-  * metoclopramide : 5\~10 ㎎ tid\~qid \[맥페란]
+  * hydroxyzine : 25\~50 ㎎ hs or 50\~100 ㎎/d #3\~4 <mark style="color:blue;">\[아디팜]</mark>
+  * metoclopramide : 5\~10 ㎎ tid\~qid <mark style="color:blue;">\[맥페란]</mark>
 
 ### <mark style="color:orange;">예방 치료 - 만성긴장형두통</mark>
 
@@ -197,11 +197,11 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
 
 #### <mark style="color:$primary;">1차 - 항우울제 (근거 수준 가장 높음)</mark>
 
-* amitriptyline : 10 ㎎/d 취침 시 시작 → 25\~75 ㎎/d까지 점진 증량 \[에트라빌] ← 만성 TTHA 예방 1차 선택 (2024 VA/DoD 가이드라인)
+* amitriptyline : 10 ㎎/d 취침 시 시작 → 25\~75 ㎎/d까지 점진 증량 <mark style="color:blue;">\[에트라빌]</mark> ← 만성 TTHA 예방 1차 선택 (2024 VA/DoD 가이드라인)
   * 부작용 : 구갈, 졸림, 변비, 체중증가 (항콜린 작용); 취침 전 복용으로 완화
-* mirtazapine : 15\~30 ㎎/d 취침 시 \[레메론]
+* mirtazapine : 15\~30 ㎎/d 취침 시 <mark style="color:blue;">\[레메론]</mark>
   * amitriptyline 부작용으로 전환 시 대안; 수면 개선 효과 동반
-* venlafaxine XR : 37.5 ㎎/d 시작 → 75\~225 ㎎/d \[이팩사 XR]
+* venlafaxine XR : 37.5 ㎎/d 시작 → 75\~225 ㎎/d <mark style="color:blue;">\[이팩사 XR]</mark>
   * 우울·불안 동반 환자에서 선호; 혈압 모니터링 필요
   * ✽SSRI는 TCA에 비해 TTHA 예방 근거 부족; 동반 우울/불안 치료 목적으로는 활용 가능
 
@@ -211,7 +211,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음1\~3)
   * ✽Dry needling(근막 유발점 주사): 측두근(Temporalis)·승모근(Trapezius) 타겟이 통증 강도 및 빈도 감소에 가장 효과적 (2024년 RCT). 도수치료(경추 운동, manual therapy) 병행 시 시너지 효과
   * ✽보툴리눔 독소: 만성형에서 시도 보고 있으나 근거 미흡, 비보험
 * 근이완제
-  * cyclobenzaprine : 5~~10 ㎎ tid, 서방형 15~~30 ㎎ qd \[본렉스]
+  * cyclobenzaprine : 5~~10 ㎎ tid, 서방형 15~~30 ㎎ qd <mark style="color:blue;">\[본렉스]</mark>
 * riboflavin : 200 ㎎/d; 일부 연구에서 효과 (근거 수준 낮음)
 
 ### <mark style="color:orange;">동반 질환 고려</mark>

@@ -354,43 +354,43 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
 
-* diazepam : 2\~5 ㎎ bid\~tid \[디아제팜]
-* clonazepam : 0.25\~0.5 ㎎ bid \[리보트릴]
-* lorazepam : 0.5\~2 ㎎ qid \[아티반]
+* diazepam : 2\~5 ㎎ bid\~tid <mark style="color:blue;">\[디아제팜]</mark>
+* clonazepam : 0.25\~0.5 ㎎ bid <mark style="color:blue;">\[리보트릴]</mark>
+* lorazepam : 0.5\~2 ㎎ qid <mark style="color:blue;">\[아티반]</mark>
 
 #### <mark style="color:$primary;">Antihistamine</mark>
 
-* meclizine : 12.5\~25 ㎎ bid\~tid \[염산메클리진]
-* dimenhydrinate : 25\~50 ㎎ bid\~qid \[보나링 에이]; BPH, 녹내장 주의
+* meclizine : 12.5\~25 ㎎ bid\~tid <mark style="color:blue;">\[염산메클리진]</mark>
+* dimenhydrinate : 25\~50 ㎎ bid\~qid <mark style="color:blue;">\[보나링 에이]</mark>; BPH, 녹내장 주의
 
 #### <mark style="color:$primary;">항콜린제</mark>
 
-*   scopolamine 경피제 : 멀미에 적용; 출발 4시간 이전에 귀 뒤에 부착 (72시간 동안 효과); ≥8세 허가 \[키미테 패취]
+*   scopolamine 경피제 : 멀미에 적용; 출발 4시간 이전에 귀 뒤에 부착 (72시간 동안 효과); ≥8세 허가 <mark style="color:blue;">\[키미테 패취]</mark>
 
     (☞ [항콜린제](../224_/073_.md#gi-antispasmodic-agent))
 
 ### <mark style="color:orange;">항구토제</mark>
 
-* granisetron : 1 ㎎ tid \[카이트릴]
-* metoclopramide : 단기 사용; 5\~10 ㎎ tid \[맥페란]
+* granisetron : 1 ㎎ tid <mark style="color:blue;">\[카이트릴]</mark>
+* metoclopramide : 단기 사용; 5\~10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
   * 고령 환자 주의 : 추체외로 증상(extrapyramidal symptoms; 파킨슨 유사 증상, 지연성 이상운동증) 위험; 가능한 단기간(5일 이내) 사용, 대안으로 ondansetron 고려
 
 ### <mark style="color:orange;">이뇨제</mark>
 
-* hydrochlorothiazide : 메니에르병에 적용; 12.5\~25 ㎎ qd\~bid \[다이크로짇]
+* hydrochlorothiazide : 메니에르병에 적용; 12.5\~25 ㎎ qd\~bid <mark style="color:blue;">\[다이크로짇]</mark>
 
 ### <mark style="color:orange;">허혈 예방, 혈액 순환 개선</mark>
 
 * 필요시 혈압 조절, 지질 개선, 항혈전제
-* trimetazidine : 20 ㎎ tid \[바스티난]
-* ginkgo biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid \[기넥신] (보험기준 ☞ 1179)
-* kallidinogenase : 유효성에 대한 근거 부족; 25\~50 IU tid \[카레스]
+* trimetazidine : 20 ㎎ tid <mark style="color:blue;">\[바스티난]</mark>
+* ginkgo biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid <mark style="color:blue;">\[기넥신]</mark> (보험기준 ☞ 1179)
+* kallidinogenase : 유효성에 대한 근거 부족; 25\~50 IU tid <mark style="color:blue;">\[카레스]</mark>
 
 ### <mark style="color:orange;">Betahistine</mark>
 
 * 말초성 어지럼증(메니에르병, 전정신경염) 증상 완화 및 예방에 적용
 * 기전 : 전정 핵의 흥분성 조절 (H1 효현제 + H3 길항제), 내이 혈류 개선
-* 용량 : 16 ㎎ tid (48 ㎎/d); 최소 3개월 이상 투여 \[베타세르크]
+* 용량 : 16 ㎎ tid (48 ㎎/d); 최소 3개월 이상 투여 <mark style="color:blue;">\[베타세르크]</mark>
   * 고용량 요법 : 효과 불충분 시 최대 48 ㎎ tid (144 ㎎/d)까지 증량 보고 있음 (유럽 가이드라인); 국내 보험 급여 범위 초과 시 비급여 처방 필요
 * ✽BPPV에는 효과 없음; 중추성 어지럼증에 대한 근거 불충분
 
@@ -399,7 +399,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 * 편두통 치료제 : 편두통 관련 어지럼증에 적용 (☞ p.78)
 * SSRI : psychosomatic vertigo, 지속되는 postural-perceptual vertigo에 적용 (☞ p.1146)
 * steroid : 전정신경염에 적용; 증상 발현 3일 이내 투여 시 단기 전정 기능 회복에 도움 가능 (장기 예후 근거 불충분)
-  * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 \[메치론]
+  * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 <mark style="color:blue;">\[메치론]</mark>
 
 ## <mark style="color:green;">질환별 치료</mark>
 
@@ -466,8 +466,8 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용 제한
 * steroid : 증상 발현 3일 이**내** 투여 시 전정 기능 단기 회복에 도움 가능; 장기 예후(어지럼 장애 지수) 개선 근거는 불충분
-  * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 \[메치론]
-* betahistine : 증상 완화 목적; 16 ㎎ tid (48 ㎎/d) \[베타세르크] — EAONO 권고
+  * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 <mark style="color:blue;">\[메치론]</mark>
+* betahistine : 증상 완화 목적; 16 ㎎ tid (48 ㎎/d) <mark style="color:blue;">\[베타세르크]</mark> — EAONO 권고
 
 ### <mark style="color:orange;">미로염</mark>
 
@@ -476,7 +476,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 * 전정 안정제(단기 사용), 항구토제
 * 항생제 : 세균 감염 의심 시 적용
 * 항바이러스제 : herpes에 의한 경우 적용
-  * acyclovir 800 ㎎ 5회/d ×7d \[메노바] (☞ p.962)
+  * acyclovir 800 ㎎ 5회/d ×7d <mark style="color:blue;">\[메노바]</mark> (☞ p.962)
 
 ### <mark style="color:orange;">메니에르병</mark>
 
@@ -488,7 +488,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 전정 안정제, 항구토제 : 급성 발작기 단기 사용
 * 이뇨제 : hydrochlorothiazide
-* **betahistine** : 발작 예방 목적; 16 ㎎ tid (48 ㎎/d) 이상, 최소 3개월 이상 투여 \[베타세르크] — EAONO·NICE 가이드라인 권고
+* **betahistine** : 발작 예방 목적; 16 ㎎ tid (48 ㎎/d) 이상, 최소 3개월 이상 투여 <mark style="color:blue;">\[베타세르크]</mark> — EAONO·NICE 가이드라인 권고
 
 ### <mark style="color:orange;">지속성체위지각어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 

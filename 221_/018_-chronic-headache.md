@@ -170,7 +170,7 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 ※ **스테로이드 사용 주의**
 
 * 만성 두통에서 low cortisol에 근거한 장기 steroid 대체 요법은 근거 수준이 낮으며(expert opinion), EHF·AAN 가이드라인에서 일반적 권고 사항이 아님. 아래 단기 요법은 MOH 약물 중단 시 금단 증상 완화 목적으로 제한적으로 활용할 수 있음
-  * prednisolone : 60 ㎎/d ×2d → 40 ㎎/d ×2d → 20 ㎎ qd(아침) ×2d \[소론도]
+  * prednisolone : 60 ㎎/d ×2d → 40 ㎎/d ×2d → 20 ㎎ qd(아침) ×2d <mark style="color:blue;">\[소론도]</mark>
 
 #### <mark style="color:$primary;">신생매일지속두통 (NDPH)</mark>
 
