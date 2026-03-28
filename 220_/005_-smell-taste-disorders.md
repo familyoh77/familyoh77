@@ -15,17 +15,17 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요**</mark>
+<mark style="color:$danger;">**즉각 응급 조치**</mark>
 
 * 갑작스러운 편측 후각 완전 소실 + 두통, 시야 이상, 국소 신경학적 증상 (뇌종양·뇌졸중 시사)
 * 미각 이상 + 안면 편측 마비·감각 저하 (뇌신경 병변 시사)
 
-<mark style="color:$warning;">**조기 평가 필요 (당일 ~ 수일 내)**</mark>
+<mark style="color:$warning;">**조기 평가  (당일 \~ 수일 내)**</mark>
 
 * 두부 외상 후 발생한 후각 소실
 * 후각 소실 + 파킨슨 징후(서동, 경직) 또는 인지 저하 동반 (퇴행성 신경질환 조기 증상 가능)
 
-<mark style="color:$info;">**계획적 정밀 검사 필요**</mark>
+<mark style="color:$info;">**계획적 정밀 검사**</mark>&#x20;
 
 * 비부비동 치료 후에도 4주 이상 지속되는 후각 장애
 * 후각·미각 소실 + 설명되지 않는 체중 감소
@@ -76,6 +76,8 @@
 * 비경/내시경(비중격만곡증, 비폴립), CT(비부비동 구조 검사), MRI(연조직 검사)
 * 후각 검사 또는 미각 검사 : 의뢰
 
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -85,10 +87,7 @@
 * 구강 관리(☞ 입마름), 규칙적 치과 진료
 * 금연
 * 독성 물질 노출 회피
-* 비부비동 질환 치료 : 만성 비부비동염·비용종이 원인인 경우 **비강 내 스테로이드(INCS)** 를 우선 시행하며, 수술적 치료(FESS)는 내과적 치료 실패 후 고려 [EPOS 2020 권고]
-
-_<mark style="color:$info;">Ref. Fokkens WJ et al. EPOS 2020: European Position Paper on Rhinosinusitis and Nasal Polyps. Rhinology. 2020;58(Suppl S29):1–464.</mark>_
-
+* 비부비동 질환 치료 : 만성 비부비동염·비용종이 원인인 경우 비강 내 스테로이드(INC&#x53;**)** 를 우선 시행하며, 수술적 치료(FESS)는 내과적 치료 실패 후 고려 \[EPOS 2020 권고]
 * 후각 훈련(Olfactory training)
   * 대상 : 바이러스 감염 후, 외상 후, 특발성 후각 장애, 파킨슨병 관련 후각 장애
   * 최소 12\~24주 이상 꾸준히 시행해야 효과

@@ -98,6 +98,8 @@
 * 요독증(신부전) : 생선·암모니아 냄새
 * 간부전 : 달콤하고 곰팡이 냄새 (fetor hepaticus)
 
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 * 금연
