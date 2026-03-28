@@ -37,19 +37,52 @@
 
 ### <mark style="color:orange;">관련 인자</mark>
 
+**생활·행동 요인**
+
 * 음주, 흡연
 * 빠른 식사, 과식, 매운 음식, 뜨거운 음료, 탄산음료
 * 주변 또는 복부의 급격한 온도 변화
-* 정신적 원인 : 흥분, 스트레스, 충격, 두려움, 성격장애, 신체화장애, 꾀병
-* 대사 이상 : Na↓, K↓, Ca↓, 탄산↓, 혈당↑, 요독증, 통풍, 당뇨
-* CNS 이상 : 파킨슨병, 혈관 질환, 선천 기형, 악성 종양, 감염(뇌막염), 외상
-* 횡격막 자극 : 종양, 심막염, 비장 비대, 간 비대, 복막염, 탈장, subphrenic abscess
-* 미주신경 자극 : 귀/고막 자극(이물), 인후염, 목의 종괴, 갑상선종, 녹내장, 수막염
-* 흉부 문제 : 폐렴, 대동맥류, 결핵, MI, 폐암
-* 소화기 문제 : 복부 팽만, 식도염, GERD, 이완불능증, 위궤양, IBD, 담석, 간염, 췌장염, 담낭염, 충수염, 위장관 폐쇄, 종양, 수술 후 상태
-* 비뇨생식기 문제 : 전립선 질환
-* 마취 관련 : 목의 과신전, 위/횡격막 조작, laparotomy, thoracotomy, craniotomy
-* 약물 : benzodiazepine, barbiturate, steroid(특히 dexamethasone-항암 화학요법 시 흔한 원인), α-methyldopa, propofol
+
+**정신·심리적 요인**
+
+* 흥분, 스트레스, 충격, 두려움, 성격장애, 신체화장애, 꾀병
+
+**대사 이상**
+
+* Na↓, K↓, Ca↓, 탄산↓, 혈당↑, 요독증, 통풍, 당뇨
+
+**중추신경계(CNS) 이상**
+
+* 파킨슨병, 혈관 질환, 선천 기형, 악성 종양, 감염(뇌막염), 외상
+
+**횡격막 자극**
+
+* 종양, 심막염, 비장 비대, 간 비대, 복막염, 탈장, subphrenic abscess
+
+**미주신경 자극**
+
+* 귀/고막 자극(이물), 인후염, 목의 종괴, 갑상선종, 녹내장, 수막염
+
+**흉부 문제**
+
+* 폐렴, 대동맥류, 결핵, MI, 폐암
+
+**소화기 문제**
+
+* 복부 팽만, 식도염, GERD, 이완불능증, 위궤양, IBD, 담석, 간염, 췌장염, 담낭염, 충수염, 위장관 폐쇄, 종양, 수술 후 상태
+
+**비뇨생식기 문제**
+
+* 전립선 질환
+
+**마취 관련**
+
+* 목의 과신전, 위/횡격막 조작, laparotomy, thoracotomy, craniotomy
+
+**약물**
+
+* benzodiazepine, barbiturate, steroid(특히 dexamethasone — 항암 화학요법 시 흔한 원인), α-methyldopa, propofol
+* azithromycin, dopamine agonist 등에서도 딸꾹질 유발이 드물게 보고됨
 
 ※ Dexamethasone 역설 : 항암 화학요법 유발 오심을 예방하는 목적으로 투여한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
 
@@ -114,7 +147,8 @@
 
 **미주신경 반대 자극**
 
-* Supraorbital 압박
+* Supraorbital nerve 압박 (삼차신경-미주신경 반사 유도)
+* 안구 압박 oculocardiac reflex (삼차신경 자극 → 미주신경 활성; 단, 망막박리·녹내장 환자에서는 금기)
 * Carotid sinus 마사지 ️(주의 : 고령 또는 허혈성 심질환에서는 피함)
 * 직장 수지 마사지 (입원 환경에서)
 
@@ -128,7 +162,7 @@
 
 **비인두 카테터 자극** (입원·응급 환경에서 고려)
 
-* 가는 NG tube를 비인두까지 삽입하여 물리적으로 미주신경 반사를 유도하는 방법
+* 가는 NG tube(또는 8–10 Fr 흡인 카테터)를 비공을 통해 비인두까지 약 8\~10 cm 삽입한 뒤 부드럽게 전후로 움직여 미주신경 반사를 유도함
 * 난치성 딸꾹질에서 비약물 치료 중 가장 강력한 방법 중 하나
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -142,6 +176,7 @@
 * 실질적 1차 선택; 부작용 프로파일 양호
 * 금기 : CNS 이상
 * baclofen : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark> ← 난치성 딸꾹질에서 근거가 가장 많음
+  * ⚠️ 신장으로 배설되므로 신기능 저하(eGFR <30) 시 용량 감량 또는 회피; 일반 용량 투여 시 의식 저하·혼수 등 중증 부작용 발생 가능
 * cyclobenzaprine : 15\~30 ㎎ qd 서방형 <mark style="color:blue;">\[본렉스 이알]</mark>
 
 #### <mark style="color:$primary;">항경련제</mark>
@@ -182,14 +217,6 @@
 * nefopam : 비마약성 진통제; 10 ㎎ IV <mark style="color:blue;">\[아큐판]</mark>
 * viscous lidocaine : 구강 마취제; 2% 5 ㎖ tid
 * dexamethasone : 화학요법에 기인한 딸꾹질에 고려; 단, dexamethasone 자체가 원인인 경우 methylprednisolone으로 교체
-
-※ **Benzodiazepine 계열 주의**
-
-* 딸꾹질을 오히려 역설적으로 유발할 수 있음(paradoxical reaction)
-* 근이완 효과로 인해 노인 환자에서 흡인(aspiration) 위험 증가
-* 딸꾹질 치료 목적의 단독 1차 사용은 권장하지 않음; 불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
-* diazepam 2\~5 ㎎ bid\~tid <mark style="color:blue;">\[디아제팜]</mark>
-* lorazepam 0.5\~2 ㎎ qid <mark style="color:blue;">\[아티반]</mark>
 
 ### <mark style="color:orange;">난치성 딸꾹질 -  의뢰</mark>
 
