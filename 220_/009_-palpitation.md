@@ -91,8 +91,8 @@
 * 대부분의 경우 우선 선택
 * 목표: 휴식 시 맥박수 ＜110회/분
 * 1차 약제
-  * β-차단제: 인데놀, 베타록 등
-  * non-DHP CCB: 헤르벤, 이솦틴 (단, 심부전 환자에게는 금기)
+  * β-차단제: <mark style="color:blue;">인데놀</mark>, <mark style="color:blue;">베타록</mark> 등
+  * non-DHP CCB: <mark style="color:blue;">헤르벤</mark>, <mark style="color:blue;">이솦틴</mark> (단, 심부전 환자에게는 금기)
   * Digoxin: 심부전 동반 시 추가 고려
 
 **리듬 조절 (Rhythm control)**
@@ -152,9 +152,9 @@
 ### <mark style="color:orange;">대증 치료</mark>
 
 * 심장 문제 등 원인 질환 배제 후 시행 (☞ [흉통](002_-chest-pain.md))
-* 항불안제 : alprazolam \[자낙스], lorazepam \[아티반] (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
-* β-차단제 : propranolol 10\~120 ㎎/d \[인데놀], metoprolol 100\~200 ㎎/d \[베타록] (☞ [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
-* non-DHP계 CCB : diltiazem 120\~180 ㎎/d \[헤르벤], verapamil 120\~360 ㎎/d \[이솦틴] (☞ [CCB](../225_/095_-hypertension.md#calcium-ca-channel-blocker-ccb))
+* 항불안제 : alprazolam \[<mark style="color:blue;">자낙스</mark>], lorazepam \[<mark style="color:blue;">아티반</mark>] (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
+* β-차단제 : propranolol 10\~120 ㎎/d \[<mark style="color:blue;">인데놀</mark>], metoprolol 100\~200 ㎎/d \[<mark style="color:blue;">베타록</mark>] (☞ [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
+* non-DHP계 CCB : diltiazem 120\~180 ㎎/d \[<mark style="color:blue;">헤르벤</mark>], verapamil 120\~360 ㎎/d \[<mark style="color:blue;">이솦틴</mark>] (☞ [CCB](../225_/095_-hypertension.md#calcium-ca-channel-blocker-ccb))
 
 ***
 
