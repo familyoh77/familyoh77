@@ -120,7 +120,7 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 **Anticatabolic agent**
 
-* 오메가-3 : 암 관련 악액질에서 일부 근거, 일반적 체중 감소에서는 제한적)
+* 오메가-3 (EPA) : 암 관련 악액질에서 일부 근거; EPA 기준 1.5\~2 g/d, 최소 4\~8주 투여가 주요 연구에서 사용된 기준이나, 고용량(4 g/d 이상)에서 효과가 오히려 감소한다는 보고도 있어 2 g/d 전후가 현실적인 목표 용량; 체중 증가보다는 삶의 질 개선 및 체중 감소 속도 완화에 의의를 둠; 일반적 체중 감소에서는 제한적
 * pentoxifylline,&#x20;
 * hydrazine sulfate(임상적 유효성 미입증)
 * thalidomide(국내 처방 적응증 제한)
