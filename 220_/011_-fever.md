@@ -129,19 +129,19 @@
 
 #### <mark style="color:$primary;">Acetaminophen</mark>
 
-* 성인 : 650\~1,000 ㎎ q6hr; 최대 3 g/d(간/신 장애 시 2 g/d) \[타이레놀]
+* 성인 : 650\~1,000 ㎎ q6hr; 최대 3 g/d(간/신 장애 시 2 g/d) \[<mark style="color:blue;">타이레놀</mark>]
 * 소아 : 10\~15 ㎎/㎏ q4\~6hr, 최대 5회/d; ≥3개월 연령 허가
-  * \[세토펜 현탁액]\(32 ㎎/㎖. 0.4 ㎖/㎏ qid 또는 1.5\~2 ㎖/㎏/d #4)
+  * \[<mark style="color:blue;">세토펜 현탁액</mark>]\(32 ㎎/㎖. 0.4 ㎖/㎏ qid 또는 1.5\~2 ㎖/㎏/d #4)
 
 #### <mark style="color:$primary;">Ibuprofen</mark>
 
-* 성인 : 400 ㎎ q6hr \[부루펜]
+* 성인 : 400 ㎎ q6hr \[<mark style="color:blue;">부루펜</mark>]
 * 소아 : 5\~10 ㎎/㎏ q6\~8hr, 최대 40 ㎎/㎏/d; ≥6개월 연령 허가
-  * \[부루펜 시럽]\(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
+  * \[<mark style="color:blue;">부루펜 시럽</mark>]\(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
 
 #### <mark style="color:$primary;">Aspirin</mark>
 
-* 용법 : 325\~650 ㎎ q6hr \[로날]
+* 용법 : 325\~650 ㎎ q6hr \[<mark style="color:blue;">로날</mark>]
 * 소아 사용 금지(라이 증후군 위험)
 
 ***
