@@ -170,7 +170,7 @@
 * 금연 : 만성 기침이 있는 흡연자의 90%에서 금연 후 기침이 호전됨 (보통 1개월 내 회복)
 * 직업적 노출 회피 또는 차단
 * 원인 치료, 기저 질환 치료
-* 대증 치료 : 진해제, 항히스타민제, 코 울혈 제거제, 흡입 steroid (☞ p.284, p.346)
+* 대증 치료 : 진해제, 항히스타민제, 코 울혈 제거제, 흡입 steroid (☞ [스테로이드](../222_/051_-allergic-rhinitis.md#steroid), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20))
 * ACEI를 복용 중인 경우 교체
 
 #### <mark style="color:$primary;">기침 억제 재활 치료 (Cough Suppression Therapy)</mark>
@@ -184,10 +184,10 @@
 
 ## <mark style="color:green;">질환별 치료</mark>
 
-* 알레르기비염, 후비루 : 항히스타민제, 비내 steroid (☞ p.243)
-* 백일해 : azithromycin(1차), clarithromycin 또는 TMP-SMX(대안); 노출 후 예방에도 동일 항생제 사용 (☞ 백일해 챕터 참조)
+* 알레르기비염, 후비루 : 항히스타민제, 비내 steroid (☞ [알레르기비염](../222_/051_-allergic-rhinitis.md#management))
+* 백일해 : azithromycin(1차), clarithromycin 또는 TMP-SMX(대안); 노출 후 예방에도 동일 항생제 사용
 * 감염후기침 : 상기도기침증후군 치료; ipratropium 흡입제 또는 단기 흡입 steroid도 효과적일 수 있음; 단기 경구 steroid(예: prednisolone)도 고려 가능 (근거 제한적; 조건부 권고)
-*   GERD : 증상이 있는 GERD에만 PPI 투여; 기침 외 다른 증상이 없는 GERD에서 PPI는 효과가 없으며 권장되지 않음. 투여 시 최소 8주 이상 유지 (☞ p.406)
+*   GERD : 증상이 있는 GERD에만 PPI 투여; 기침 외 다른 증상이 없는 GERD에서 PPI는 효과가 없으며 권장되지 않음. 투여 시 최소 8주 이상 유지 (☞ [위식도역류질환](../224_/081_-gerd.md))
 
     ✽ 식후 기침 악화(postprandial cough)가 뚜렷한 경우 역류성 기침 가능성이 높으며, PPI 반응 예측에 참고할 수 있음 (임상 관찰 근거)
 * 원인 미상의 refractory cough : 기침 과민증후군을 의심하며 말초 및 중추성 cough reflex 과민에 대한 neuromodulator 치료 고려; 반응이 있으면 4주내 호전
@@ -200,7 +200,7 @@
 * 기침 및 코 증상 : 경구 항히스타민제, 비내 분무 steroid
 * 기침 증상 : 흡입 steroid 또는 항콜린제(ipratropium), 진해제
 * 코 증상 : 1세대 항히스타민제(진정 효과로 기침 반사 억제에 유리); 1\~2 주 후 호전되면 치료 유지
-  * → 호전되지 않으면 부비강 X선 검사를 시행하며 부비강 점막 비후 시 부비동염 치료 (☞ ㅂ)
+  * → 호전되지 않으면 부비강 X선 검사를 시행하며 부비강 점막 비후 시 부비동염 치료 (☞ [부비도염](../222_/053_-rhinosinusitis-sinusitis.md))
   * → 호전되지 않으면 의뢰
 * 국소 steroid 사용이 어려운 경우 진단 겸 치료(증상 완화) 목적으로 경구 steroid를 단기간(＜1주) 사용할 수 있음
 * 수일\~2개월 내 호전되지 않으면 다른 진단 또는 검사 고려
