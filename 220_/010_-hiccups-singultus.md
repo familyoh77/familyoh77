@@ -81,7 +81,7 @@
 
 **약물**
 
-* benzodiazepine, barbiturate, steroid(특히 dexamethasone — 항암 화학요법 시 흔한 원인), α-methyldopa, propofol
+* benzodiazepine, barbiturate, steroid(특히 dexamethasone - 항암 화학요법 시 흔한 원인), α-methyldopa, propofol
 * azithromycin, dopamine agonist 등에서도 딸꾹질 유발이 드물게 보고됨
 
 ※ Dexamethasone 역설 : 항암 화학요법 유발 오심을 예방하는 목적으로 투여한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
@@ -162,7 +162,7 @@
 
 **비인두 카테터 자극** (입원·응급 환경에서 고려)
 
-* 가는 NG tube(또는 8–10 Fr 흡인 카테터)를 비공을 통해 비인두까지 약 8\~10 cm 삽입한 뒤 부드럽게 전후로 움직여 미주신경 반사를 유도함
+* 가는 NG tube(또는 8\~10 Fr 흡인 카테터)를 비공을 통해 비인두까지 약 8\~10 cm 삽입한 뒤 부드럽게 전후로 움직여 미주신경 반사를 유도함
 * 난치성 딸꾹질에서 비약물 치료 중 가장 강력한 방법 중 하나
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -176,7 +176,7 @@
 * 실질적 1차 선택; 부작용 프로파일 양호
 * 금기 : CNS 이상
 * baclofen : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark> ← 난치성 딸꾹질에서 근거가 가장 많음
-  * ⚠️ 신장으로 배설되므로 신기능 저하(eGFR <30) 시 용량 감량 또는 회피; 일반 용량 투여 시 의식 저하·혼수 등 중증 부작용 발생 가능
+  * 신장으로 배설되므로 신기능 저하(eGFR <30) 시 용량 감량 또는 회피; 일반 용량 투여 시 의식 저하·혼수 등 중증 부작용 발생 가능
 * cyclobenzaprine : 15\~30 ㎎ qd 서방형 <mark style="color:blue;">\[본렉스 이알]</mark>
 
 #### <mark style="color:$primary;">항경련제</mark>
@@ -188,17 +188,16 @@
 
 #### <mark style="color:$primary;">항정신병제</mark>
 
-* 2차 선택; FDA 승인 약물이지만 부작용으로 인하여후순위
-* chlorpromazine : 난치성 딸꾹질 유일한 FDA 승인 약물; 25\~50 ㎎ tid\~qid <mark style="color:blue;">\[클로르프로마진]</mark>
+* 2차 선택; FDA 승인 약물이지만 부작용으로 인하여 후순위
+* chlorpromazine : 난치성 딸꾹질에 유일한 FDA 승인 약물; 25\~50 ㎎ tid\~qid <mark style="color:blue;">\[클로르프로마진]</mark>
   * 부작용 : 혈압, 과도한 진정, 추체외로 증상; 노인·저혈압 환자 주의
 * haloperidol : 초회 2\~5 ㎎ 후 1\~2 ㎎ tid <mark style="color:blue;">\[페리돌]</mark>
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
 
-* 딸꾹질을 오히려 역설적으로 유발할 수 있음(paradoxical reaction)
+* 딸꾹질을 오히려 유발할 수 있음(paradoxical reaction)
 * 근이완 효과로 인해 노인 환자에서 흡인(aspiration) 위험 증가
-* 딸꾹질 치료 목적의 단독 1차 사용은 권장하지 않음;\
-  불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
+* 딸꾹질 치료 목적의 단독 1차 사용은 권장하지 않음; 불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
 * diazepam 2\~5 ㎎ bid\~tid <mark style="color:blue;">\[디아제팜]</mark>
 * lorazepam 0.5\~2 ㎎ qid <mark style="color:blue;">\[아티반]</mark>
 
@@ -218,9 +217,9 @@
 * viscous lidocaine : 구강 마취제; 2% 5 ㎖ tid
 * dexamethasone : 화학요법에 기인한 딸꾹질에 고려; 단, dexamethasone 자체가 원인인 경우 methylprednisolone으로 교체
 
-### <mark style="color:orange;">난치성 딸꾹질 -  의뢰</mark>
+### <mark style="color:orange;">난치성 딸꾹질 - 의뢰</mark>
 
-약물 치료로도 조절되지 않는 경우 다음을 고려하여 의뢰
+약물 치료로도 조절되지 않는 경우 다음 치료를 고려하여 의뢰
 
 * 횡격막 신경 차단술(Phrenic nerve block) : 초음파 유도 하 시행
 * 미주신경 자극술(Vagus nerve stimulation, VNS) : 난치성 신경인성 원인에 고려
