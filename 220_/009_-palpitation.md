@@ -52,12 +52,16 @@
 * 정신적 요인(가장 흔함; 30%) : 공포, 불안, 우울, 신체화 증상, 스트레스; 보통 ＞15분 지속
   * 과호흡, hand tingling, 과민 반응 → 불안, 공황 장애
   * 기질적 심장 질환이 배제된 경우에도 심장 감각 과민(cardiac sensory hypervigilance) 상태로 설명할 수 있음; "심장에 이상이 없다"는 단순 부정보다 "심장이 예민해진 상태"임을 설명하고 신체 증상 장애(Somatic Symptom Disorder) 관점에서 접근하면 환자 수용도가 높아짐
-* 대사/전해질 이상 : thyrotoxicosis/갑상선항진증, 저혈압, 저혈당, 탈수(설사), 폐경기증후군
-  * 체중 감소, tremulousness, 심부 건반사 항진, 미세한 손 떨림 → 갑상선항진증
-  * 홍조, 일시적 고혈압, 두통, 불안, 발한 → pheochromocytoma, paraganglioma
+* 대사/전해질 이상
+  * **빈혈** : 두근거림의 흔한 대사적 원인; CBC로 확인 필수 (Hb ＜10 g/dL 시 특히 의심)
+  * **전해질 이상** : 저칼륨혈증(hypokalemia), 저마그네슘혈증(hypomagnesemia)은 부정맥의 흔한 유발 원인 — 이뇨제 복용 환자에서 특히 확인 필요
+  * thyrotoxicosis/갑상선항진증, 저혈압, 저혈당, 탈수(설사), 폐경기증후군
+    * 체중 감소, tremulousness, 심부 건반사 항진, 미세한 손 떨림 → 갑상선항진증
+    * 홍조, 일시적 고혈압, 두통, 불안, 발한 → pheochromocytoma, paraganglioma
 * 수면무호흡증(OSA) : 야간 두근거림, 심방세동의 독립적 위험인자; 코골이·주간 과다졸음·비만 동반 시 의심
-* 심박출량 증가 상태 : 빈혈, 발열, 임신, 월경, 운동, 기립성 저혈압
+* 심박출량 증가 상태 : 발열, 임신, 월경, 운동, 기립성 저혈압
 * 약물 : 교감 신경 항진제(예: 다이어트 약물, 충혈 제거제, 천식 흡입제), 항부정맥제, 혈관 확장제, 항콜린제, β-차단제 금단, 카페인(예: 커피, 코코아, 초콜릿, 에너지 드링크), 니코틴, 코카인, 암페타민, 알코올
+  * **GLP-1 수용체 작용제(삭센다, 오젬픽 등)** : 경도의 심박수 증가(평균 2\~4 bpm) 유발 가능 — 체중 감량 목적 사용 증가로 확인 필요
 * 허브 및 영양 보충제, 특정 음식
 
 ### <mark style="color:orange;">심방세동(AF) 세부 관리 알고리즘</mark>
@@ -72,7 +76,7 @@
 
 * CHA₂DS₂-VASc Score 점수에 따라 항응고 요법(NOAC 등) 필요성을 결정
 
-<table data-header-hidden><thead><tr><th width="238.78948974609375"></th><th width="55.315673828125"></th><th width="322.970458984375"></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>점수</strong></td><td><strong>내용</strong></td></tr><tr><td><strong>C</strong> (Congestive Heart Failure)</td><td>1</td><td>심부전 또는 좌심실 기능 저하</td></tr><tr><td><strong>H</strong> (Hypertension)</td><td>1</td><td>고혈압</td></tr><tr><td><strong>A₂</strong> (Age ≥75)</td><td>2</td><td>75세 이상 (65~74세는 1점)</td></tr><tr><td><strong>D</strong> (Diabetes Mellitus)</td><td>1</td><td>당뇨병</td></tr><tr><td><strong>S₂</strong> (Stroke/TIA)</td><td>2</td><td>뇌졸중, 일과성 허혈 발작, 혈전색전증 과거력</td></tr><tr><td><strong>V</strong> (Vascular disease)</td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 판막 질환</td></tr><tr><td><strong>Sc</strong> (Sex category)</td><td>1</td><td>여성 (다른 위험 인자가 없을 때는 0점으로 간주)</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="238.78948974609375"></th><th width="55.315673828125"></th><th width="322.970458984375"></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>점수</strong></td><td><strong>내용</strong></td></tr><tr><td><strong>C</strong> (Congestive Heart Failure)</td><td>1</td><td>심부전 또는 좌심실 기능 저하</td></tr><tr><td><strong>H</strong> (Hypertension)</td><td>1</td><td>고혈압</td></tr><tr><td><strong>A₂</strong> (Age ≥75)</td><td>2</td><td>75세 이상 (65~74세는 1점)</td></tr><tr><td><strong>D</strong> (Diabetes Mellitus)</td><td>1</td><td>당뇨병</td></tr><tr><td><strong>S₂</strong> (Stroke/TIA)</td><td>2</td><td>뇌졸중, 일과성 허혈 발작, 혈전색전증 과거력</td></tr><tr><td><strong>V</strong> (Vascular disease)</td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 플라크</td></tr><tr><td><strong>Sc</strong> (Sex category)</td><td>1</td><td>여성 (다른 위험 인자가 없을 때는 0점으로 간주)</td></tr></tbody></table>
 
 * 남성 ≥2점, 여성 ≥3점: 항응고 요법(NOAC) 강력 권고
 * 남성 1점, 여성 2점: 환자의 상태에 따라 항응고 요법 고려
@@ -96,7 +100,7 @@
 * 심박수 조절 후에도 증상이 지속되거나 완치를 목표로 할 때 고려합니다.
 * 대상: 유증상 환자, 젊은 연령, 빈맥 유발성 심근병증 우려 시
 * 방법: 항부정맥제 투여, 전기적 심율동 전환, 전도자 절제술(Ablation)
-* 주의: 발생 48시간 경과 시 혈전 확인(경식도 초음파) 또는 3주 이상의 선행 항응고 요법 필수
+* 주의: 발생 후 48시간 이내 여부가 불확실하거나 48시간 초과 시 혈전 확인(경식도 초음파) 또는 3주 이상의 선행 항응고 요법 필수
 
 > <mark style="color:red;">**상급 병원 의뢰 기준**</mark>
 >
@@ -145,6 +149,7 @@
   * 패치형 장기 심전도 (예: 메모패치, KardiaMobile) : 수일\~수주 연속 기록 가능
   * 스마트워치 ECG (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능
   * 24시간 Holter 검사 : 증상 빈도가 매일인 경우
+* **증상 기록지(Symptom Diary) 작성 지도** : 스마트워치 기록 시 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 — 진단 효율을 크게 높임
 
 ### <mark style="color:orange;">대증 치료</mark>
 
@@ -182,6 +187,7 @@ R00.2 두근거림
 
 * 비선택적 β-차단제로 기관지경련 위험 — 천식·COPD 환자에게는 원칙적으로 금기; 불가피한 경우 cardioselective β-차단제(예: metoprolol) 대체 고려
 * 투여 전 및 추적 시 맥박 확인 — 안정 시 맥박 ＜55회/분이면 용량 감량 또는 보류
+* **당뇨 환자 주의** : β-차단제(특히 비선택적 인데놀)는 저혈당 시 나타나는 두근거림·떨림 등의 경고 증상을 은폐할 수 있음 — 당뇨 환자에서 설명 필수
 * 임산부·수유부, 중증 말초혈관질환, Raynaud 현상에도 주의
 {% endhint %}
 
@@ -194,6 +200,7 @@ R00.2 두근거림
 > * 약을 갑자기 끊으면 심박수가 급격히 빨라지거나 혈압이 오를 수 있습니다. 중단이 필요하면 반드시 의사와 상의하여 서서히 줄이십시오.
 > * 맥박이 분당 55회 미만으로 느려지거나 심한 어지럼, 호흡 곤란이 생기면 즉시 병원을 방문하십시오.
 > * 천식 또는 만성 폐쇄성 폐질환(COPD)이 있으신 분은 반드시 의사에게 알려 주십시오.
+> * **당뇨 환자** : 이 약은 저혈당 시 나타나는 두근거림·떨림 같은 경고 증상을 느끼지 못하게 할 수 있습니다. 혈당 측정을 더 자주 하시고, 식은땀·의식 변화 등 다른 저혈당 증상에 주의하십시오.
 
 > **diltiazem (헤르벤) · verapamil (이솝틴) — 칼슘채널차단제**
 >
@@ -226,7 +233,7 @@ R00.2 두근거림
 #### <mark style="color:$primary;">두근거림 발생 시 이렇게 하세요</mark>
 
 * **안정** : 활동을 멈추고 앉거나 누운 자세로 깊게 천천히 호흡하십시오
-* **기록** : 발생 시각, 지속 시간, 동반 증상(어지럼·흉통·실신)을 메모하십시오. 스마트워치나 스마트폰 심박 기록 기능을 활용하면 도움이 됩니다
+* **기록** : 발생 시각, 지속 시간, 동반 증상(어지럼·흉통·실신)과 함께 **당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)도 함께** 메모하십시오. 스마트워치나 스마트폰 심박 기록 기능을 활용하면 도움이 됩니다
 * **미주신경 자극법** : 의사가 허락한 경우, 차가운 물로 세수하거나 숨을 참고 힘주는 방법(Valsalva)이 일부 부정맥에 효과적일 수 있습니다
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
