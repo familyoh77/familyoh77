@@ -20,12 +20,12 @@
 * 갑작스러운 편측 후각 완전 소실 + 두통, 시야 이상, 국소 신경학적 증상 (뇌종양·뇌졸중 시사)
 * 미각 이상 + 안면 편측 마비·감각 저하 (뇌신경 병변 시사)
 
-<mark style="color:$warning;">**조기 평가  (당일 \~ 수일 내)**</mark>
+<mark style="color:$warning;">**조기 평가 (당일 \~ 수일 내)**</mark>
 
 * 두부 외상 후 발생한 후각 소실
 * 후각 소실 + 파킨슨 징후(서동, 경직) 또는 인지 저하 동반 (퇴행성 신경질환 조기 증상 가능)
 
-<mark style="color:$info;">**계획적 정밀 검사**</mark>&#x20;
+<mark style="color:$info;">**계획적 정밀 검사**</mark>
 
 * 비부비동 치료 후에도 4주 이상 지속되는 후각 장애
 * 후각·미각 소실 + 설명되지 않는 체중 감소
@@ -50,25 +50,25 @@
 * 신경계 질환 : 다발경화증, 알츠하이머병, 파킨슨병, 뇌신경 손상(뇌혈관 질환, 두부 외상)
 * 감염 : URI, 구강 질환, 칸디다증, coxsackievirus, COVID-19
 * 후각 왜곡 관련 증상 (COVID-19 이후 빈도 증가)
-  * **이취증(Parosmia)** : 실제 냄새가 다른 냄새(주로 불쾌한 냄새)로 왜곡되어 인식되는 증상; 바이러스 감염 후 회복 과정에서 흔히 발생
-  * **환각취(Phantosmia)** : 아무런 냄새 자극이 없는 상황에서 냄새를 느끼는 증상
+  * 이취증(Parosmia) : 실제 냄새가 다른 냄새(주로 불쾌한 냄새)로 왜곡되어 인식되는 증상; 바이러스 감염 후 회복 과정에서 흔히 발생
+  * 환각취(Phantosmia) : 아무런 냄새 자극이 없는 상황에서 냄새를 느끼는 증상
 * 약물
 
-1. 항생제 및 항균제
+1. **항생제 및 항균제**
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>마크롤라이드계</td><td>Clarithromycin, Azithromycin</td><td>쓴맛 또는 금속성 맛 유발이 흔함</td></tr><tr><td>퀴놀론계</td><td>Ciprofloxacin, Ofloxacin</td><td>미각 변화 보고</td></tr><tr><td>테트라사이클린계</td><td>Doxycycline, Tetracycline</td><td>설태 침착 및 미각 이상 가능성</td></tr><tr><td>기타 항균제</td><td>Metronidazole</td><td>금속성 맛의 대표적 원인 약물</td></tr><tr><td>아미노글리코사이드</td><td>Amikacin</td><td></td></tr><tr><td>페니실린/기타</td><td>Ampicillin, β-lactam 억제제</td><td></td></tr><tr><td>항진균제</td><td>Terbinafine</td><td>드물게 장기적인 미각 상실 유발 가능</td></tr><tr><td>구강 세정제</td><td>Chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>마크롤라이드계</td><td>Clarithromycin, Azithromycin</td><td>쓴맛 또는 금속성 맛 유발이 흔함</td></tr><tr><td>퀴놀론계</td><td>Ciprofloxacin, Ofloxacin</td><td>미각 변화 보고</td></tr><tr><td>테트라사이클린계</td><td>Doxycycline, Tetracycline</td><td>설태 침착 및 미각 이상 가능성</td></tr><tr><td>기타 항균제</td><td>Metronidazole</td><td>금속성 맛의 대표적 원인 약물</td></tr><tr><td>아미노글리코사이드</td><td>Amikacin</td><td></td></tr><tr><td>페니실린/기타</td><td>Ampicillin, β-lactam 억제제</td><td></td></tr><tr><td>항진균제</td><td>Terbinafine</td><td>드물게 장기적인 미각 상실 유발 가능</td></tr><tr><td>구강 세정제</td><td>Chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
 
-2\. 항고혈압제 및 심혈관계 약물 : 가장 흔하게 미각 이상을 일으키는 범주로, 특히 아연(Zinc) 대사에 영향을 주는 경우가 많음
+2\. **항고혈압제 및 심혈관계 약물** : 가장 흔하게 미각 이상을 일으키는 범주로, 특히 아연(Zinc) 대사에 영향을 주는 경우가 많음
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>ACE 억제제</td><td>Captopril</td><td>미각상실증(Ageusia)의 대표적 원인 약물</td></tr><tr><td>칼슘채널차단제</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진으로 인한 미각 저하</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>ACE 억제제</td><td>Captopril</td><td>미각상실증(Ageusia)의 대표적 원인 약물</td></tr><tr><td>칼슘채널차단제</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진으로 인한 미각 저하</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td></td></tr></tbody></table>
 
-3\. 신경정신과 약물 (항우울제/항경련제/기타)
+3\. **신경정신과 약물** (항우울제/항경련제/기타)
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>삼환계 항우울제</td><td>Amitriptyline, Nortriptyline, Doxepin, Imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td>항경련제</td><td>Carbamazepine, Phenytoin</td><td></td></tr><tr><td>조울증 치료제</td><td>Lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>삼환계 항우울제</td><td>Amitriptyline, Nortriptyline, Doxepin, Imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td>항경련제</td><td>Carbamazepine, Phenytoin</td><td></td></tr><tr><td>조울증 치료제</td><td>Lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
 
-4. 기타 약물 (내분비/항암제/파킨슨)
+4. **기타 약물** (내분비/항암제/파킨슨)
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>세부 분류</strong></td><td><strong>약물 명칭</strong></td><td><strong>특징 및 비고</strong></td></tr><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td></td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>각종 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td></td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>각종 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
 
 ## <mark style="color:green;">진단</mark>
 
@@ -88,12 +88,13 @@
 
 * 기저 질환 치료, 비염 치료
 * 적절하고 고른 영양 섭취; 특히 Vit A/B 복합제, Zn 등 미네랄 보충 (단, 결핍 교정 목적이며 치료 효과는 명확히 입증되지 않음)
-  * ⚠️ **아연 과잉 보충 주의** : 고용량 아연(>40 mg/일)을 장기 복용하면 구리(Copper) 결핍을 초래하여 빈혈, 신경병증 등을 유발할 수 있음; 결핍이 확인된 경우 적정 용량으로 단기 보충하고, 장기 복용 시에는 구리 상태를 모니터링할 것
-* 구강 관리(☞ 입마름), 규칙적 치과 진료
+  * 아연 과잉 보충 주의 : 고용량 아연(>40 mg/일)을 장기 복용하면 구리(Copper) 결핍을 초래하여 빈혈, 신경병증 등을 유발할 수 있음; 결핍이 확인된 경우 적정 용량으로 단기 보충하고, 장기 복용 시에는 구리 상태를 모니터링할 것
+* 구강 관리(☞ [입안마름](../222_/056_-dry-mouth-xerostomia.md)), 규칙적 치과 진료
 * 금연
 * 독성 물질 노출 회피
-* 비부비동 질환 치료 : 만성 비부비동염·비용종이 원인인 경우 비강 내 스테로이드(INCS)를 우선 시행하며, 수술적 치료(FESS)는 내과적 치료 실패 후 고려 \[EPOS 2020 권고]
-  * 💡 **후각 장애 목적 INCS 투여 시** : 일반 비염 치료와 달리 약물이 상비갑개(Olfactory cleft) 부위에 도달해야 효과적임; '고개를 앞으로 숙인 자세(Head-down-and-forward, Mygind position)'로 투여하거나 점적액(nasal drops) 제형을 고려
+*   비부비동 질환 치료 : 만성 비부비동염·비용종이 원인인 경우 비강 내 스테로이드(INCS)를 우선 시행하며, 수술적 치료(FESS)는 내과적 치료 실패 후 고려 \[EPOS 2020 권고]
+
+    ※ 후각 장애 목적 INCS 투여 시 : 일반 비염 치료와 달리 약물이 상비갑개(Olfactory cleft) 부위에 도달해야 효과적임; '고개를 앞으로 숙인 자세(Head-down-and-forward, Mygind position)'로 투여하거나 점적액(nasal drops) 제형을 고려
 * 후각 훈련(Olfactory training)
   * 대상 : 바이러스 감염 후, 외상 후, 특발성 후각 장애, 파킨슨병 관련 후각 장애
   * 최소 12\~24주 이상 꾸준히 시행해야 효과
@@ -110,7 +111,7 @@
 * 후각/미각 저하 시 상한 음식을 감지하는 능력이 저하되므로 음식의 유효 기간을 자주 확인
 * 후각이 저하된 경우 사고 방지를 위하여 집안에 연기/가스 감지기를 설치, 가스레인지 사용 후 밸브 잠금 확인을 습관화
 * 항암 치료(화학요법) 중인 환자 : 금속성 맛이 심한 경우 금속 식기 대신 플라스틱·도자기 수저를 사용하면 불쾌감을 줄일 수 있음; 구체적인 구강 관리는 담당 주치의와 상의할 것
-* 후각/미각 소실은 우울, 고독감, 대인관계의 어려움과 연관될 수 있으므로 이에 대한 관리가 필요(☞ 우울증)
+* 후각/미각 소실은 우울, 고독감, 대인관계의 어려움과 연관될 수 있으므로 이에 대한 관리가 필요(☞ [우울증](../221_/027_-depression.md))
 
 ***
 
