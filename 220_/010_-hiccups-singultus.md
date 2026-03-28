@@ -141,22 +141,22 @@
 
 * 실질적 1차 선택; 부작용 프로파일 양호
 * 금기 : CNS 이상
-* baclofen : 5\~10 ㎎ tid \[<mark style="color:blue;">바크론</mark>] ← 난치성 딸꾹질에서 근거가 가장 많음
-* cyclobenzaprine : 15\~30 ㎎ qd 서방형 \[<mark style="color:blue;">본렉스 이알</mark>]
+* baclofen : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark> ← 난치성 딸꾹질에서 근거가 가장 많음
+* cyclobenzaprine : 15\~30 ㎎ qd 서방형 <mark style="color:blue;">\[본렉스 이알]</mark>
 
 #### <mark style="color:$primary;">항경련제</mark>
 
 * 1차 대안, 특히 신경인성 원인
-* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid \[<mark style="color:blue;">뉴론틴</mark>]; 장기 사용 시 의존성 주의
-* carbamazepine : 200 ㎎ tid\~qid \[<mark style="color:blue;">테그레톨</mark>]
-* phenytoin : 200\~300 ㎎ hs \[<mark style="color:blue;">히단토인</mark>]
+* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>; 장기 사용 시 의존성 주의
+* carbamazepine : 200 ㎎ tid\~qid <mark style="color:blue;">\[테그레톨]</mark>
+* phenytoin : 200\~300 ㎎ hs <mark style="color:blue;">\[히단토인]</mark>
 
 #### <mark style="color:$primary;">항정신병제</mark>
 
 * 2차 선택; FDA 승인 약물이지만 부작용으로 인하여후순위
-* chlorpromazine : 난치성 딸꾹질 유일한 FDA 승인 약물; 25\~50 ㎎ tid\~qid \[<mark style="color:blue;">클로르프로마진</mark>]
+* chlorpromazine : 난치성 딸꾹질 유일한 FDA 승인 약물; 25\~50 ㎎ tid\~qid <mark style="color:blue;">\[클로르프로마진]</mark>
   * 부작용 : 혈압, 과도한 진정, 추체외로 증상; 노인·저혈압 환자 주의
-* haloperidol : 초회 2\~5 ㎎ 후 1\~2 ㎎ tid \[<mark style="color:blue;">페리돌</mark>]
+* haloperidol : 초회 2\~5 ㎎ 후 1\~2 ㎎ tid <mark style="color:blue;">\[페리돌]</mark>
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
 
@@ -164,22 +164,22 @@
 * 근이완 효과로 인해 노인 환자에서 흡인(aspiration) 위험 증가
 * 딸꾹질 치료 목적의 단독 1차 사용은 권장하지 않음;\
   불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
-* diazepam 2\~5 ㎎ bid\~tid \[<mark style="color:blue;">디아제팜</mark>]
-* lorazepam 0.5\~2 ㎎ qid \[<mark style="color:blue;">아티반</mark>]
+* diazepam 2\~5 ㎎ bid\~tid <mark style="color:blue;">\[디아제팜]</mark>
+* lorazepam 0.5\~2 ㎎ qid <mark style="color:blue;">\[아티반]</mark>
 
 #### <mark style="color:$primary;">위장 운동 촉진제</mark>
 
-* metoclopramide : 5\~10 ㎎ tid\~qid \[<mark style="color:blue;">맥페란</mark>]
-* domperidone : 10\~20 ㎎ tid \[<mark style="color:blue;">모티리움 엠</mark>]
+* metoclopramide : 5\~10 ㎎ tid\~qid <mark style="color:blue;">\[맥페란]</mark>
+* domperidone : 10\~20 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark>
 
 #### <mark style="color:$primary;">PPI, 제산제</mark>
 
 * 위장관에서 hiccup center로의 자극 감소 효과 기대
-* omeprazole : 20\~40 ㎎/d \[<mark style="color:blue;">오엠피</mark>]
+* omeprazole : 20\~40 ㎎/d <mark style="color:blue;">\[오엠피]</mark>
 
 #### <mark style="color:$primary;">기타</mark>
 
-* nefopam : 비마약성 진통제; 10 ㎎ IV \[<mark style="color:blue;">아큐판</mark>]
+* nefopam : 비마약성 진통제; 10 ㎎ IV <mark style="color:blue;">\[아큐판]</mark>
 * viscous lidocaine : 구강 마취제; 2% 5 ㎖ tid
 * dexamethasone : 화학요법에 기인한 딸꾹질에 고려; 단, dexamethasone 자체가 원인인 경우 methylprednisolone으로 교체
 
@@ -188,8 +188,8 @@
 * 딸꾹질을 오히려 역설적으로 유발할 수 있음(paradoxical reaction)
 * 근이완 효과로 인해 노인 환자에서 흡인(aspiration) 위험 증가
 * 딸꾹질 치료 목적의 단독 1차 사용은 권장하지 않음; 불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
-* diazepam 2\~5 ㎎ bid\~tid \[<mark style="color:blue;">디아제팜</mark>]
-* lorazepam 0.5\~2 ㎎ qid \[<mark style="color:blue;">아티반</mark>]
+* diazepam 2\~5 ㎎ bid\~tid <mark style="color:blue;">\[디아제팜]</mark>
+* lorazepam 0.5\~2 ㎎ qid <mark style="color:blue;">\[아티반]</mark>
 
 ### <mark style="color:orange;">난치성 딸꾹질 -  의뢰</mark>
 

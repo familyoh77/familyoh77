@@ -98,17 +98,17 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 * 기저 질환 치료, 식사를 저해할 수 있는 약물 사용 중단
 * 식사 환경 개선 : 여유로운 식사, 즐거운 식사, 함께하는 식사
 * 식단 수정 : 금기증이 없다면 향신료(예: 소금) 사용, 씹기 쉬운 음식, 환자 선호 음식
-* 칼로리 보충 : 체중 감소 정도에 따라 200\~1,000 ㎉/d 또는 30\~40 ㎉/㎏/d의 영양식을 정상 식사를 방해하지 않도록 식후 또는 식사 2시간 이전에 제공 \[<mark style="color:blue;">뉴케어, 에너지바</mark>]
+* 칼로리 보충 : 체중 감소 정도에 따라 200\~1,000 ㎉/d 또는 30\~40 ㎉/㎏/d의 영양식을 정상 식사를 방해하지 않도록 식후 또는 식사 2시간 이전에 제공 <mark style="color:blue;">\[뉴케어, 에너지바]</mark>
 * exercise training : 저항 운동, 유산소 운동
 * 약물 치료 고려
 
 ## <mark style="color:green;">약물 치료</mark>
 
 * 식욕 자극제 : steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine); 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
-  * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) \[<mark style="color:blue;">메게이스</mark>]
-  * mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능; 15\~30 ㎎/d \[<mark style="color:blue;">레메론</mark>]
+  * megestrol acetate : 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려; 부작용- 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) <mark style="color:blue;">\[메게이스]</mark>
+  * mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능; 15\~30 ㎎/d <mark style="color:blue;">\[레메론]</mark>
 * anticatabolic agent : 오메가-3(암 관련 악액질에서 일부 근거; 일반적 체중 감소에서는 제한적), pentoxifylline, hydrazine sulfate(임상적 유효성 미입증), thalidomide(국내 처방 적응증 제한)
-* 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함 \[<mark style="color:blue;">트레스탄</mark>]\(비보험)
+* 영양제 : carnitine, cyproheptadine 등; 위약 효과를 포함하여 일부 환자에서 유효; 증거는 부족함 <mark style="color:blue;">\[트레스탄]</mark>\(비보험)
 
 ***
 

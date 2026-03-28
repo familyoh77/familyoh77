@@ -145,7 +145,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
   * 만성 정맥 부전에서도 volume overload 상태가 아니면 이뇨제 사용을 권하지 않음
 * 1차 선택 : loop diuretics(예: furosemide, bumetanide, torsemide)
 * cirrhosis 시 spironolactone + loop diuretics
-* furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ \[<mark style="color:blue;">라식스</mark>]
+* furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ <mark style="color:blue;">\[라식스]</mark>
   * 반응 불충분 시 24\~48시간 간격으로 용량 증량 가능 (최대 PO 600 ㎎/d, IV 200 ㎎/dose)
   * 신부전 또는 신증후군 시 고용량 필요
   * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
@@ -170,9 +170,9 @@ _<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the 
 
 * 이뇨제가 필요한 경우 최소 유효 용량으로, 단기 사용을 원칙으로 투여 (☞ p.485)
 * 체액 저류가 저녁에 심해지므로 이른 저녁에 투여
-*   spironolactone 50\~100 ㎎/d, 최대 100 ㎎ qid \[<mark style="color:blue;">알닥톤</mark>]
+*   spironolactone 50\~100 ㎎/d, 최대 100 ㎎ qid <mark style="color:blue;">\[알닥톤]</mark>
 
-    ± hydrochlorothiazide 25 ㎎/d \[<mark style="color:blue;">다이크로짇</mark>]
+    ± hydrochlorothiazide 25 ㎎/d <mark style="color:blue;">\[다이크로짇]</mark>
 
 #### <mark style="color:$primary;">기타</mark>
 
@@ -193,7 +193,7 @@ _<mark style="color:$info;">Ref. McDonagh TA et al. 2021 ESC Guidelines for the 
 * 적정 체중 유지, 섭식 장애 교정
 * 우울 등 정서적 문제 교정
 * 걷기 : 종아리 근육이 수축되며 정맥 회귀가 증가됨
-* vitis vinifera leaf dry extract : 360 ㎎ 아침 식전 \[<mark style="color:blue;">안탁스</mark>]
+* vitis vinifera leaf dry extract : 360 ㎎ 아침 식전 <mark style="color:blue;">\[안탁스]</mark>
 
 ***
 
