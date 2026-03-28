@@ -8,7 +8,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요**</mark>
+<mark style="color:$danger;">**즉각 응급 조치**</mark>
 
 * 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
 * 청색증
@@ -18,7 +18,7 @@
 * 빈맥(＞130회/분)
 * 흉통
 
-<mark style="color:$warning;">**조기 평가 필요 (당일 \~ 수일 내)**</mark>
+<mark style="color:$warning;">**조기 평가 (당일 \~ 수일 내)**</mark>
 
 * 휴식 중에도 발생
 * 수포음(crackles), 호흡음 감소
@@ -26,7 +26,7 @@
 * ≥65세에서 급성 발생
 * 활동 저하
 
-<mark style="color:$info;">**계획적 정밀 검사 필요**</mark>
+<mark style="color:$info;">**계획적 정밀 검사**</mark>
 
 * 설명할 수 없는 체중 감소
 
@@ -34,27 +34,27 @@
 
 #### <mark style="color:$primary;">호흡기계 질환 (Respiratory)</mark>
 
-급성
+**급성**
 
 * 호흡기 감염(예: 폐렴): 발열, 기침, 화농성 가래 동반
 * 천식 또는 COPD의 급성 악화: 쌕쌕거림(wheezing), 기침 동반
 * 기흉: 갑작스러운 흉통과 함께 발생
 * 기도 폐쇄: 이물/음식물 흡인 병력, 급격한 질식감
 
-만성
+**만성**
 
 * 기도/폐질환: 천식, COPD, 결핵, 진폐증
 * 흉막 질환: 반복성·만성 흉수(결핵성, 악성 등)
 
 #### <mark style="color:$primary;">심혈관계 질환 (Cardiovascular)</mark>
 
-급성
+**급성**
 
 * 급성 관상동맥증후군(ACS): 흉통, 흉부 압박감, 식은땀 동반
 * 급성 심부전: 공기 부족 느낌, 기좌 호흡(누우면 심해짐)
 * 폐색전증: 갑자기 시작되는 흉막염성 흉통, 객혈 동반
 
-만성
+**만성**
 
 * 심기능 저하: 만성 심부전, 허혈성 심근병증
 * 기타: 판막 질환, 만성 부정맥
@@ -62,12 +62,12 @@
 
 #### <mark style="color:$primary;">전신·기타 질환 (Systemic/Non-cardiopulmonary)</mark>
 
-급성
+**급성**
 
 * 아나필락시스(Anaphylaxis): 가려움, 부종, 발진, 혈압 저하 동반
 * 심리적 요인: 불안 장애, 공황 장애(과호흡 동반 가능)
 
-만성
+**만성**
 
 * 대사/내과적: 빈혈(창백함 동반), 신부전(빈혈·폐부종 동반), 갑상선 질환
 * 신체적/생리적: 비만, 쇠약, 임신, 복수(가로막 압박)
@@ -134,11 +134,11 @@
 * 연기/먼지/담배 연기 등에 장기간 노출, 서서히 악화 → 만성 기관지염, COPD, 폐기종
 * 석면/나무 먼지/산업용 가스/광산 등에 장기간 노출 → 직업성 폐질환
 
-
-
 ***
 
 <figure><img src="../.gitbook/assets/호흡2.JPG" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -147,13 +147,13 @@
 * 과호흡(공황/불안) : 복식호흡 유도, 조절 호흡(4-7-8 호흡 또는 pursed-lip breathing)
   * 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
 * 산소 공급(마스크) : SpO₂ 목표- ≥94%(5\~10 L/min), COPD 환자 88\~92%(1\~2 L/min부터 적정), 임신부 ≥95%
-* nitrate : nitroglycerin 0.6 ㎎ 설하 투여 \[니트로글리세린 설하정]\(0.6 ㎎/T) (☞ p.508)
-  * **금기** : SBP ＜90 ㎜Hg; PDE5 억제제(sildenafil 48시간, tadalafil 72시간 이내) 복용
+* Nitrate : nitroglycerin 0.6 ㎎ 설하 투여 \[니트로글리세린 설하정]\(0.6 ㎎/T) (☞ [nitrate](../225_/097_-angina-pectoris.md#nitrate))
+  * 금기 : SBP ＜90 ㎜Hg; PDE5 억제제(sildenafil 48시간, tadalafil 72시간 이내) 복용
 * 이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
   * furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요 시 반복 \[라식스]\(40 ㎎/T, 20 ㎎/A); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
 * 빈맥(supraventricular tachycardia) : Valsalva maneuver, 경동맥동 마사지(고령 또는 허혈성 심질환에서는 피함)
-* 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI \[벤토린] (☞ p.349)
-* steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d \[소론도]\(5 ㎎/T) (☞ p.349)
+* 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI \[벤토린] (☞ [벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
+* Steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d \[소론도]\(5 ㎎/T) (☞ [소론도](../223_/071_-asthma.md#undefined-50))
 
 ***
 
