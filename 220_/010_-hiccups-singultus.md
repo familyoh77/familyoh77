@@ -6,18 +6,18 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요**</mark>
+<mark style="color:$danger;">**즉각 응급 조치**</mark>
 
 * 딸꾹질 + 두통·구역·복시·의식 변화 동반 (뇌간 병변 시사)
 * 딸꾹질 + 흉통·호흡 곤란·발한 (심근경색·대동맥 박리 시사)
 
-<mark style="color:$warning;">**조기 평가 필요 (당일 \~ 수일 내)**</mark>
+<mark style="color:$warning;">**조기 평가 (당일 \~ 수일 내)**</mark>
 
 * 48시간 이상 지속되는 딸꾹질 (지속성; 기저 질환 배제 필요)
 * 딸꾹질 + 발열, 복통, 황달 동반
 * 수면 중에도 지속되는 딸꾹질 (기질 질환 시사)
 
-<mark style="color:$info;">**계획적 정밀 검사 필요**</mark>
+<mark style="color:$info;">**계획적 정밀 검사**</mark>
 
 * 1개월 이상 지속되는 난치성 딸꾹질 (악성 종양, CNS 병변 등 체계적 검사 필요)
 
@@ -51,9 +51,7 @@
 * 마취 관련 : 목의 과신전, 위/횡격막 조작, laparotomy, thoracotomy, craniotomy
 * 약물 : benzodiazepine, barbiturate, steroid(특히 dexamethasone-항암 화학요법 시 흔한 원인), α-methyldopa, propofol
 
-{% hint style="warning" %}
-**Dexamethasone 역설** 항암 화학요법 유발 오심 예방 목적으로 투여한 dexamethasone 자체가 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
-{% endhint %}
+※ Dexamethasone 역설 : 항암 화학요법 유발 오심을 예방하는 목적으로 투여한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
 
 ## <mark style="color:green;">진단</mark>
 
@@ -62,36 +60,32 @@
 
 ### <mark style="color:orange;">동반 증상별 추천 검사</mark>
 
-{% tabs %}
-{% tab title="흉부 증상 동반" %}
-* 흉통, 호흡 곤란, 발열 동반 시
-  * 흉부 X선
-  * ECG
-  * CBC, CRP
-  * 필요 시 흉부 CT
-{% endtab %}
+**흉부 증상(흉통, 호흡 곤란, 발열) 동반 시**
 
-{% tab title="신경학적 증상 동반" %}
-* 두통, 구역, 국소 신경 증상, 의식 변화 동반 시
-  * Brain MRI (뇌간·소뇌 병변 확인)
-  * 필요 시 요추 천자(뇌막염 의심)
-{% endtab %}
+* 흉부 X선
+* ECG
+* CBC, CRP
+* 필요 시 흉부 CT
 
-{% tab title="복부 증상 동반" %}
-* 복통, 구역/구토, 황달, 체중 감소 동반 시
-  * 복부 초음파 또는 복부 CT
-  * 상부 소화기 내시경
-  * LFT, Lipase, Cr
-{% endtab %}
+**신경학적증상(두통, 구역, 국소 신경 증상, 의식 변화) 동반 시**
 
-{% tab title="대사/전신 이상 의심" %}
-* 전신 쇠약, 부종, 고혈압, 당뇨 동반 시
-  * 전해질(Na, K, Ca, HCO₃), 혈당
-  * BUN/Cr (요독증)
-  * CBC
-  * 심초음파 (구조적 심장 질환 의심 시)
-{% endtab %}
-{% endtabs %}
+* Brain MRI (뇌간·소뇌 병변 확인)
+* 필요 시 요추 천자(뇌막염 의심)
+
+**복부 증상(복통, 구역/구토, 황달, 체중 감소) 동반 시**
+
+* 복부 초음파 또는 복부 CT
+* 상부 소화기 내시경
+* LFT, Lipase, Cr
+
+**대사/전신 이상 증상(전신 쇠약, 부종, 고혈압, 당뇨병) 동반 시**
+
+* 전해질(Na, K, Ca, HCO₃), 혈당
+* BUN/Cr (요독증)
+* CBC
+* 심초음파 (구조적 심장 질환 의심 시)
+
+***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -102,25 +96,16 @@
 
 ## <mark style="color:green;">비약물 치료</mark>
 
-* 복부 팽만 회피 : 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함 (☞ p.1170)
-*   고탄산혈증, 미주신경/횡격막 자극 유도 : 숨 참기, 과호흡, 재채기, 종이봉투에 대고 숨쉬기, Valsalva maneuver,
-
-    상체를 앞으로 숙여 knee-chest 자세 유지, 놀라게 하기
-* 미주신경 반대 자극 : supraorbit 압박, carotid sinus 마사지(고령 또는 허혈성 심질환에서는 피함), 직장 수지 마사지
-*   인두 자극 : 얼음물 마시기, 입자가 굵은 설탕 삼키기(1 teaspoon), 신 음식(예: 식초) 맛보기, 레몬 씹기, 혀 당기기,
-
-    찬 숟가락으로 목젖 밀어 올리기
-
 **복부 팽만 회피**
 
-* 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함 (☞ p.1170)
+* 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함
 
 **고탄산혈증 유도** - 횡격막 피로 유발
 
-1. 숨 참기 (10\~20초)
-2. 종이봉투에 대고 재호흡
-3. Valsalva maneuver : 코와 입을 막고 강하게 호기 시도, 10\~15초 유지
-4. 과호흡 후 재채기 유발
+* 숨 참기 (10\~20초)
+* 종이봉투에 대고 호흡
+* Valsalva maneuver : 코와 입을 막고 강하게 호기 시도, 10\~15초 유지
+* 과호흡 후 재채기 유발
 
 **미주신경/횡격막 자극**
 
@@ -162,7 +147,7 @@
 #### <mark style="color:$primary;">항경련제</mark>
 
 * 1차 대안, 특히 신경인성 원인
-* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid \[뉴론틴] ← 장기 사용 시 의존성 주의
+* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid \[뉴론틴]; 장기 사용 시 의존성 주의
 * carbamazepine : 200 ㎎ tid\~qid \[테그레톨]
 * phenytoin : 200\~300 ㎎ hs \[히단토인]
 
@@ -198,17 +183,15 @@
 * viscous lidocaine : 구강 마취제; 2% 5 ㎖ tid
 * dexamethasone : 화학요법에 기인한 딸꾹질에 고려; 단, dexamethasone 자체가 원인인 경우 methylprednisolone으로 교체
 
-{% hint style="warning" %}
-**Benzodiazepine 계열 주의**
+※ **Benzodiazepine 계열 주의**
 
 * 딸꾹질을 오히려 역설적으로 유발할 수 있음(paradoxical reaction)
 * 근이완 효과로 인해 노인 환자에서 흡인(aspiration) 위험 증가
 * 딸꾹질 치료 목적의 단독 1차 사용은 권장하지 않음; 불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
 * diazepam 2\~5 ㎎ bid\~tid \[디아제팜]
 * lorazepam 0.5\~2 ㎎ qid \[아티반]
-{% endhint %}
 
-### <mark style="color:orange;">난치성 딸꾹질 — 전문과 의뢰</mark>
+### <mark style="color:orange;">난치성 딸꾹질 -  의뢰</mark>
 
 약물 치료로도 조절되지 않는 경우 다음을 고려하여 의뢰
 
