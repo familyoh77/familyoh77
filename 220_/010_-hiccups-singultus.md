@@ -4,6 +4,12 @@
 
 * 횡격막 등 흡기 근육의 갑작스런 반복적인 불수의적 수축과 glottis의 급속한 폐쇄에 따른 흡기의 멈춤으로 인하여 발성 기관의 상부에서 특유의 소리가 발생하는 상태
 
+### <mark style="color:orange;">분류</mark>
+
+* 급성 딸꾹질 : 48시간 내 자연 회복; 대부분 이에 해당
+* 지속성(persistent 또는 protracted) 딸꾹질 : 48시간 이상 지속
+* 난치성(intractable) 딸꾹질 : 1개월 이상 지속
+
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 응급 조치**</mark>
@@ -20,12 +26,6 @@
 <mark style="color:$info;">**계획적 정밀 검사**</mark>
 
 * 1개월 이상 지속되는 난치성 딸꾹질 (악성 종양, CNS 병변 등 체계적 검사 필요)
-
-### <mark style="color:orange;">분류</mark>
-
-* 급성 딸꾹질 : 48시간 내 자연 회복; 대부분 이에 해당
-* 지속성(persistent 또는 protracted) 딸꾹질 : 48시간 이상 지속
-* 난치성(intractable) 딸꾹질 : 1개월 이상 지속
 
 ## <mark style="color:green;">원인</mark>
 
