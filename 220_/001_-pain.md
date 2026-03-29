@@ -32,7 +32,7 @@
 
 * 주요 외상 후 심한 통증 (척추 골절 의심)
 * 고령·골다공증 환자에서 경미한 외상(기침, 가벼운 물건 들기) 후 심한 통증
-* 발열, 오한 동반 (척추 감염/골수염 의심) — 면역 저하자 또는 면역억제제 복용 중인 경우 특히 주의
+* 발열, 오한 동반 (척추 감염/골수염 의심) - 면역 저하자 또는 면역억제제 복용 중인 경우 특히 주의
 
 <mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
@@ -51,23 +51,23 @@
 
 #### <mark style="color:$primary;">**유형**</mark>
 
-**신경병증성(neuropathic) 통증**&#x20;
+**신경병증성(neuropathic) 통증**
 
 * 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하
 * 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
 
-**근육(muscle) 통증**&#x20;
+**근육(muscle) 통증**
 
 * 근육 조직의 긴장, 손상 또는 염증으로 인해 발생하는 둔하고 쑤시는 통증
 * 압통, 활동 시 악화, 휴식 시 호전
 * 예) 긴장성 근육통, myofascial pain syndrome, 경추·요추 주변 근육통
 
-**염증성(inflammatory) 통증**&#x20;
+**염증성(inflammatory) 통증**
 
 * 통증 부위의 발열, 발적, 부종
 * 예) 관절염, 감염, 손상, 수술 후 통증
 
-**기계적/압박성(mechanical/compressive) 통증**&#x20;
+**기계적/압박성(mechanical/compressive) 통증**
 
 * 활동 중 악화, 휴식 시 호전
 * 예) 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압축 골절
@@ -104,17 +104,17 @@
 
 #### <mark style="color:$primary;">STEP 1. 통증 유형 분류 (Pain Typing)</mark>
 
-**침해수용성 통증 (Nociceptive)**&#x20;
+**침해수용성 통증 (Nociceptive)**
 
 * Actual tissue damage에 의해 발생; 근육통, 관절염, 외상, 염증성 통증
 * 특징 : 쑤심, 욱신거림, 국소적 (부위가 비교적 명확함)
 
-**신경병성 통증 (Neuropathic)**&#x20;
+**신경병성 통증 (Neuropathic)**
 
 * 예 : 대상포진 후 신경통, 당뇨병성 신경병증
 * 특징 : 저림, 화끈거림, 전격통(전기 오는 듯함), 감각 이상
 
-**복합성 통증 (Mixed) :**&#x20;
+**복합성 통증 (Mixed) :**
 
 * 척추관 협착증, 만성 요통(radiculopathy 동반), 암성 통증
 
@@ -188,8 +188,8 @@
 * 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 항콜린 부작용(입마름, 구역, 변비, 소변 저류)
   * 고령에서는 낙상 위험 증가 외에는 NSAID에 비하여 안전
   * 오피오이드 유발 변비(opioid-induced constipation) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 하제를 선제적으로 처방하는 것을 고려
-    * 삼투성 하제 우선 : PEG 제제 <mark style="color:blue;">\[미랄락스]</mark> 또는 lactulose <mark style="color:blue;">\[듀파락]</mark> — 복통 부작용이 적어 만성 통증 환자에 적합
-    * 반응 부족 시 자극성 하제 추가 : sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>
+    * [삼투성 하제](../224_/073_.md#hyperosmotics) 우선 : PEG 제제 <mark style="color:blue;">\[미랄락스]</mark> 또는 lactulose <mark style="color:blue;">\[듀파락]</mark> — 복통 부작용이 적어 만성 통증 환자에 적합
+    * 반응 부족 시 [자극성 하제](../224_/073_.md#stimulant) 추가 : sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>
 * 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용, 수면무호흡증
 * 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함; 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
 * 단기 작용 약제를 선택하여 최소 유효 용량으로 시작, 시작 후 조기에 약물 반응을 평가
@@ -197,7 +197,7 @@
 
 ※ 약물 회전(opioid rotation) 시 다음의 이유로 MME의 50\~75%를 적용함
 
-1. 불완전 교차 내성  : 기존 약물에 내성이 생겼더라도 새 약물에 대한 내성은 완전히 이전되지 않으므로 새 약물은 계산된 MME보다 적은 용량으로도 동등한 효과를 냄
+1. 불완전 교차 내성 : 기존 약물에 내성이 생겼더라도 새 약물에 대한 내성은 완전히 이전되지 않으므로 새 약물은 계산된 MME보다 적은 용량으로도 동등한 효과를 냄
 2. 등가용량 환산표의 불확실성 : MME 환산비는 개인차가 크고 근사치이므로 안전 마진을 두고 시작하는 것이 원칙임
 
 ※ \[보험인정기준] [마약성진통제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001) (일반원칙)
@@ -240,7 +240,7 @@
 
 #### <mark style="color:$primary;">Buprenorphine 패취제</mark>
 
-* &#x20;μ·κ·δ 수용체 부분 작용제; 신경병성 통증에 일부 근거, 신기능 저하 환자에서 유리
+* μ·κ·δ 수용체 부분 작용제; 신경병성 통증에 일부 근거, 신기능 저하 환자에서 유리
 * 저용량(5\~10 ㎍/wk)으로 시작 → 효과 및 부작용을 관찰하며 증량; 1주 1매 <mark style="color:blue;">\[노스판 패취]</mark>
 * 보험기준 : NSAID의 최대 용량에도 반응하지 않아 마약성 진통제를 필요로 하는 심한 통증에 1주 20㎍/h까지 인정. 1회 처방 당 최대 30일까지 인정
 
@@ -257,7 +257,7 @@
 * 병력 청취, 이학적 검사, 다양한 평가 도구로 환자 상태를 파악한 이후 꼭 필요한 경우에만 고려
 * 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정
 * 목표 미달 시 중단 고려 - 효과가 입증되지 않은 아편유사제의 관성적 지속 처방 방지
-* 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야 함. 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/)) — **2024년 6월부터 펜타닐 포함 마약류 처방 시 NIMS 투약 이력 확인 의무화; 미확인 시 행정처분 대상**
+* 펜타닐 포함 마약류 처방 시 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/)) 투약 이력을 반드시확인해야 함(의무)
 
 **처방 시작**
 
@@ -295,7 +295,7 @@
 
 <table data-full-width="true"><thead><tr><th width="188.631591796875">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">변환계수*</th></tr></thead><tbody><tr><td><strong>정맥 주사</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td></td><td>펜타닐 (Fentanyl)</td><td>100†</td></tr><tr><td><strong>정맥 주사를 경구로 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td></td><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td></td><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
 
-* \*MME 용량 = 아편유사제의 용량(㎎) × 변환계수. 예) 단일 정맥 투여 : 모르핀 10 ㎎ = 하이드로몰폰 1.5 ㎎ (1. 5 ㎎ × 6.6 = 10 MME) = 펜타닐 0.1 ㎎ (0.1 ㎎ × 100 = 10 MME). 모르핀 10 ㎎ 정맥 주사를 경구로 전환하면 경구 모르핀 30 ㎎
+* \*MME 용량 = 아편유사제의 용량(㎎) × 변환계수. 예) 단일 정맥 투여 : 모르핀 10 ㎎ = 하이드로몰폰 1.5 ㎎ (1. 5 ㎎ × 6.6 = 10 MME) = 펜타닐 0.1 ㎎ (0.1 ㎎ × 100 = 10 MME). 모르핀 10 ㎎ 정맥 주사를 경구로 전환하면 경구 모르핀 30 ㎎ (☞ [계산기](https://www.mdcalc.com/calc/10170/morphine-milligram-equivalents-mme-calculator))
 * † 단일 정맥 투여의 경우, 모르핀 10 ㎎은 펜타닐 0.1 ㎎ (100 mcg)과 유사하지만 만성적으로 펜타닐을 투여하는 경우 모르핀 10 ㎎은 펜타닐 0.25 ㎎ (250 mcg)과 유사
 * MME 전환은 추정치로 아편유사제 회전이나 전환을 고려 시 MME에서 계산된 용량을 그대로 사용하면 안 되고 불완전한 교차 내성과 아편유사제 약동학의 개별 가변성 때문에 과다 복용을 피하기 위해 계산된 MME 용량보다 상당히 낮은 용량으로 투여
 * 변환계수의 아편유사제 사용장애 관리와 관련된 용량 결정에 적용은 불가.
@@ -361,18 +361,9 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 
-{% hint style="warning" %}
-**신기능별 용량 조절 (가바펜티노이드는 100% 신장 배설)**
+**신기능별 용량 조절** (가바펜티노이드는 100% 신장 배설하므로 주의)
 
-| eGFR (mL/min) | Gabapentin 최대 용량 | Pregabalin 최대 용량 |
-|---|---|---|
-| ≥60 | 1,200 ㎎ tid (표준) | 600 ㎎/d (표준) |
-| 30\~59 | 600 ㎎ bid | 300 ㎎/d |
-| 15\~29 | 700 ㎎ qd | 150 ㎎/d |
-| \<15 (투석 미시행) | 300 ㎎ qd | 75 ㎎/d |
-| 투석 환자 | 투석 후 125\~350 ㎎ 보충 | 투석 후 25\~50 ㎎ 보충 |
-
-{% endhint %}
+<table><thead><tr><th width="148">eGFR (mL/min)</th><th width="202">Gabapentin 최대 용량</th><th>Pregabalin 최대 용량</th></tr></thead><tbody><tr><td>≥60</td><td>1,200 ㎎ tid (표준)</td><td>600 ㎎/d (표준)</td></tr><tr><td>30~59</td><td>600 ㎎ bid</td><td>300 ㎎/d</td></tr><tr><td>15~29</td><td>700 ㎎ qd</td><td>150 ㎎/d</td></tr><tr><td>&#x3C;15 (투석 미시행)</td><td>300 ㎎ qd</td><td>75 ㎎/d</td></tr><tr><td>투석 환자</td><td>투석 후 125~350 ㎎ 보충</td><td>투석 후 25~50 ㎎ 보충</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Others</mark>
 
@@ -399,8 +390,8 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * tizanidine : 1\~2 ㎎ tid <mark style="color:blue;">\[실다루드]</mark>
 * chlorphenesin : 250 ㎎ tid <mark style="color:blue;">\[릴렉시아]</mark>
 * methocarbamol : 1.5\~2.25 g #3 <mark style="color:blue;">\[메토카몰]</mark>
-* carisoprodol :  350 ㎎ tid (향정신성 의약품; 의존성 주의)
-* cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark> **(장기 작용; 단기 사용 원칙의 예외적 적용)**
+* carisoprodol : 350 ㎎ tid (향정신성 의약품; 의존성 주의)
+* cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark> (장기 작용; 단기 사용 원칙의 예외적 적용)
 
 ### <mark style="color:orange;">Steroid</mark>
 
@@ -502,11 +493,11 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">NSAID 비교</mark>
 
-<table><thead><tr><th width="201.73678588867188">성분명 [상품명]</th><th width="205.15786743164062">용량 (골관절염)</th><th width="73.31573486328125">GI 출혈 위험†</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin [로날]</td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 ㎎ qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid [폰탈]</td><td>250 ㎎ qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate [모니플루]</td><td>700 ㎎ bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac [에어탈]</td><td>100 ㎎ bid</td><td>1.43‡</td><td></td></tr><tr><td>diclofenac [디페인]</td><td>50 ㎎ tid</td><td>3.27</td><td>CYP2C9 대사</td></tr><tr><td>etodolac [로딘]</td><td>서방형 400~1,000 ㎎ qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac [케토라신]</td><td>10 ㎎ qid</td><td>20.67</td><td>GI 위험 가장 높음</td></tr><tr><td>sulindac [크리돌]</td><td>100~200 ㎎ bid</td><td>2.89‡</td><td>신 장애 시 선호; 간 독성 부작용</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen [애니펜]</td><td>300 ㎎ bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 ㎎ tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 ㎎ bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen [부루펜]</td><td>400 ㎎ qid~800 ㎎ tid</td><td>2.28</td><td>비선택적 NSAID 중 GI 위험 가장 낮음</td></tr><tr><td>ketoprofen</td><td>50 ㎎ qid~100 ㎎ bid</td><td>7.43</td><td></td></tr><tr><td>loxoprofen [록소닌]</td><td>60 ㎎ bid~tid</td><td></td><td></td></tr><tr><td>nabumetone [프로닥]</td><td>500 tid~1,000 ㎎ bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen [낙센]</td><td>250~500 ㎎ bid</td><td>4.05</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 ㎎ qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen [솔레톤]</td><td>80 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam [제포]</td><td>12 ㎎ #3</td><td></td><td></td></tr><tr><td>meloxicam [모빅]</td><td>7.5~15 ㎎ qd</td><td>6.85</td><td>상대적 COX-2 선택성, Plt 영향적음; GI 위험은 구형 연구보다 높게 재평가됨</td></tr><tr><td>piroxicam [브렉신]</td><td>10~20 ㎎ qd</td><td>9.24</td><td>20 ㎎ 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 ㎎ qd</td><td>4.10‡</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib <br>[쎄레브렉스]</td><td>100 ㎎ bid, 200 ㎎ qd</td><td>1.16</td><td>GI 위험 가장 낮음; Plt 영향 없음 (보험기준 ☞ p.1196)</td></tr><tr><td>etoricoxib [알콕시아]</td><td>30~60 ㎎ qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide [메수리드]</td><td>50~100 ㎎ bid (최대 15d)</td><td>3.83‡</td><td></td></tr><tr><td>talniflumate [소말겐]</td><td>370 ㎎ tid</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="201.73678588867188">성분명 [상품명]</th><th width="205.15786743164062">용량 (골관절염)</th><th width="73.31573486328125">GI 출혈 위험†</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin [로날]</td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 ㎎ qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid [폰탈]</td><td>250 ㎎ qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate [모니플루]</td><td>700 ㎎ bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac [에어탈]</td><td>100 ㎎ bid</td><td>1.43‡</td><td></td></tr><tr><td>diclofenac [디페인]</td><td>50 ㎎ tid</td><td>3.27</td><td>CYP2C9 대사</td></tr><tr><td>etodolac [로딘]</td><td>서방형 400~1,000 ㎎ qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac [케토라신]</td><td>10 ㎎ qid</td><td>20.67</td><td>GI 위험 가장 높음</td></tr><tr><td>sulindac [크리돌]</td><td>100~200 ㎎ bid</td><td>2.89‡</td><td>신 장애 시 선호; 간 독성 부작용</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen [애니펜]</td><td>300 ㎎ bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 ㎎ tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 ㎎ bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen [부루펜]</td><td>400 ㎎ qid~800 ㎎ tid</td><td>2.28</td><td>비선택적 NSAID 중 GI 위험 가장 낮음</td></tr><tr><td>ketoprofen</td><td>50 ㎎ qid~100 ㎎ bid</td><td>7.43</td><td></td></tr><tr><td>loxoprofen [록소닌]</td><td>60 ㎎ bid~tid</td><td></td><td></td></tr><tr><td>nabumetone [프로닥]</td><td>500 tid~1,000 ㎎ bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen [낙센]</td><td>250~500 ㎎ bid</td><td>4.05</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 ㎎ qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen [솔레톤]</td><td>80 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam [제포]</td><td>12 ㎎ #3</td><td></td><td></td></tr><tr><td>meloxicam [모빅]</td><td>7.5~15 ㎎ qd</td><td>6.85</td><td>상대적 COX-2 선택성, Plt 영향적음; GI 위험은 구형 연구보다 높게 재평가됨</td></tr><tr><td>piroxicam [브렉신]</td><td>10~20 ㎎ qd</td><td>9.24</td><td>20 ㎎ 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 ㎎ qd</td><td>4.10‡</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib<br>[쎄레브렉스]</td><td>100 ㎎ bid, 200 ㎎ qd</td><td>1.16</td><td>GI 위험 가장 낮음; Plt 영향 없음 (보험기준 ☞ p.1196)</td></tr><tr><td>etoricoxib [알콕시아]</td><td>30~60 ㎎ qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide [메수리드]</td><td>50~100 ㎎ bid (최대 15d)</td><td>3.83‡</td><td></td></tr><tr><td>talniflumate [소말겐]</td><td>370 ㎎ tid</td><td></td><td></td></tr></tbody></table>
 
 † GI 출혈에 대한 pooled OR (비사용 대비); 낮을수록 위험 적음\
 ‡ 신규 메타분석(Tawfik 2026) 미포함 약제 -구형 메타분석(Castellsague 2012) 상대위험도(RR) 값\
-&#xNAN;_<mark style="color:$info;">Ref. Tawfik AG et al. Nonsteroidal Anti-Inflammatory Drugs and Risk of Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. Clin Pharmacol Ther. 2026;119(1):46–62. / 미포함 약제(‡): Castellsague J et al. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf. 2012;35(12):1127–46.</mark>_
+\&#xNAN;_<mark style="color:$info;">Ref. Tawfik AG et al. Nonsteroidal Anti-Inflammatory Drugs and Risk of Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. Clin Pharmacol Ther. 2026;119(1):46–62. / 미포함 약제(‡): Castellsague J et al. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf. 2012;35(12):1127–46.</mark>_
 
 #### <mark style="color:$primary;">**Oxford league table**</mark>
 
@@ -616,7 +607,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 #### <mark style="color:$primary;">통증 조절 시 이렇게 하세요</mark>
 
 * **규칙적 복용** : 통증이 심해질 때만 복용하는 것보다, 의사 지시에 따라 규칙적으로 복용하면 더 적은 용량으로 더 잘 조절됩니다
-* **통증 일지** : 언제, 어디서, 얼마나 아픈지 기록해 두면 진료에 도움이 됩니다 (0\~10점 척도;  통증 없음=0점 \~ 상상할 수 없는 극심한 통증=10점)
+* **통증 일지** : 언제, 어디서, 얼마나 아픈지 기록해 두면 진료에 도움이 됩니다 (0\~10점 척도; 통증 없음=0점 \~ 상상할 수 없는 극심한 통증=10점)
 * **비약물 방법 병행** : 온찜질·냉찜질, 가벼운 스트레칭, 명상 등을 병행하면 약의 효과를 높일 수 있습니다
 * **음주 삼가** : 진통제 복용 중 음주는 간 손상 및 위장관 출혈 위험을 크게 높이므로 피해야 합니다
 
