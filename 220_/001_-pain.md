@@ -32,7 +32,7 @@
 
 * 주요 외상 후 심한 통증 (척추 골절 의심)
 * 고령·골다공증 환자에서 경미한 외상(기침, 가벼운 물건 들기) 후 심한 통증
-* 발열, 오한 동반 (척추 감염/골수염 의심)
+* 발열, 오한 동반 (척추 감염/골수염 의심) — 면역 저하자 또는 면역억제제 복용 중인 경우 특히 주의
 
 <mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
@@ -111,7 +111,7 @@
 
 **신경병성 통증 (Neuropathic)**&#x20;
 
-* 대상포진 후 신경통, 당뇨병성 신경병증
+* 예 : 대상포진 후 신경통, 당뇨병성 신경병증
 * 특징 : 저림, 화끈거림, 전격통(전기 오는 듯함), 감각 이상
 
 **복합성 통증 (Mixed) :**&#x20;
@@ -129,7 +129,7 @@
 **신경병성 통증**
 
 * 1차 (1st line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선); 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
-* 반응 불충분 시 : 1차 약제 간 병용 (예: pregabalin + duloxetine), weak opioid (tramadol, codeine, 저용량buprenorphine 패치)추가
+* 반응 불충분 시 : 1차 약제 간 병용 (예: pregabalin + duloxetine), weak opioid (tramadol, codeine, 저용량 buprenorphine 패취) 추가
 * 중증/난치성 통증 : opioid (oxycodone, hydromorphone), 국소 lidocaine patch (대상포진 후 신경통, PHN에서 2nd-line), botulinum toxin (PHN·삼차신경통 등 일부 적응증에서 고려)
 
 #### <mark style="color:$primary;">STEP 3. 재평가 및 조정 (Re-evaluation)</mark>
@@ -149,6 +149,7 @@
 * 금연
 * 온/냉찜질, 물리 치료, chiropractic, 침, 근육 강화 및 이완 운동
 * 인지행동 요법, 요가, 심호흡, mindfulness
+* 비타민 D 결핍은 근골격계 통증 및 섬유근통과 연관될 수 있으므로, 만성 통증 환자에서 혈중 25(OH)D 측정 및 결핍 시 보충을 고려
 
 ※ **통증의 파국화 방지**
 
@@ -186,7 +187,9 @@
 * 대상 : non-opioid analgesics에 반응하지 않는 환자에서 opioid의 위험(예: 중독, 과용, 사망)에 비하여 이득이 더 큰 경우에 적용
 * 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 항콜린 부작용(입마름, 구역, 변비, 소변 저류)
   * 고령에서는 낙상 위험 증가 외에는 NSAID에 비하여 안전
-  * 오피오이드 유발 변비(opioid-induced constipation) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 [자극성 하제](../224_/073_.md#stimulant)(예: sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>)를 선제적으로 처방하는 것을 고려
+  * 오피오이드 유발 변비(opioid-induced constipation) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 하제를 선제적으로 처방하는 것을 고려
+    * 삼투성 하제 우선 : PEG 제제 <mark style="color:blue;">\[미랄락스]</mark> 또는 lactulose <mark style="color:blue;">\[듀파락]</mark> — 복통 부작용이 적어 만성 통증 환자에 적합
+    * 반응 부족 시 자극성 하제 추가 : sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>
 * 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용, 수면무호흡증
 * 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함; 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
 * 단기 작용 약제를 선택하여 최소 유효 용량으로 시작, 시작 후 조기에 약물 반응을 평가
@@ -254,7 +257,7 @@
 * 병력 청취, 이학적 검사, 다양한 평가 도구로 환자 상태를 파악한 이후 꼭 필요한 경우에만 고려
 * 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정
 * 목표 미달 시 중단 고려 - 효과가 입증되지 않은 아편유사제의 관성적 지속 처방 방지
-* 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야 함. 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/))
+* 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야 함. 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/)) — **2024년 6월부터 펜타닐 포함 마약류 처방 시 NIMS 투약 이력 확인 의무화; 미확인 시 행정처분 대상**
 
 **처방 시작**
 
@@ -341,7 +344,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 중독 문제로 ＜2주의 단기 사용으로 제한하며, 만성 통증에 대하여 권고하지 않음
 * 부작용 : 졸음, 의존성
 * clonazepam : 0.25 ㎎ qd\~tid, 필요시 3일 간격 증량, 최대 3\~6 ㎎/d <mark style="color:blue;">\[리보트릴]</mark>
-* lorazepam : 1\~4 ㎎/d #2\~4. 최대 20 ㎎/d <mark style="color:blue;">\[아티반]</mark>
+* lorazepam : 1\~4 ㎎/d #2\~4. 최대 10 ㎎/d <mark style="color:blue;">\[아티반]</mark>
 * diazepam : 2\~10 ㎎ bid\~qid <mark style="color:blue;">\[디아제팜]</mark>
 
 ### <mark style="color:orange;">Anticonvulsants</mark>
@@ -357,6 +360,19 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
 * gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
+
+{% hint style="warning" %}
+**신기능별 용량 조절 (가바펜티노이드는 100% 신장 배설)**
+
+| eGFR (mL/min) | Gabapentin 최대 용량 | Pregabalin 최대 용량 |
+|---|---|---|
+| ≥60 | 1,200 ㎎ tid (표준) | 600 ㎎/d (표준) |
+| 30\~59 | 600 ㎎ bid | 300 ㎎/d |
+| 15\~29 | 700 ㎎ qd | 150 ㎎/d |
+| \<15 (투석 미시행) | 300 ㎎ qd | 75 ㎎/d |
+| 투석 환자 | 투석 후 125\~350 ㎎ 보충 | 투석 후 25\~50 ㎎ 보충 |
+
+{% endhint %}
 
 #### <mark style="color:$primary;">Others</mark>
 
@@ -384,13 +400,19 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * chlorphenesin : 250 ㎎ tid <mark style="color:blue;">\[릴렉시아]</mark>
 * methocarbamol : 1.5\~2.25 g #3 <mark style="color:blue;">\[메토카몰]</mark>
 * carisoprodol :  350 ㎎ tid (향정신성 의약품; 의존성 주의)
-* cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark>
+* cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark> **(장기 작용; 단기 사용 원칙의 예외적 적용)**
 
 ### <mark style="color:orange;">Steroid</mark>
 
 * 작용 : 항염, 진통
 * 부작용 : 혈압 상승, 체액 저류, 골다공증
 * dexamethasone : 다른 steroid에 비하여 mineralocorticoid 작용이 적음; 0.5\~8 ㎎/d <mark style="color:blue;">\[덱사메타손]</mark>
+
+### <mark style="color:orange;">저용량 Naltrexone (LDN)</mark>
+
+* 만성 통증에 대한 저용량 naltrexone(1.5\~4.5 ㎎/d) : 소규모 연구에서 섬유근통, 중추 감작 관련 만성 통증에 긍정적 결과가 보고되고 있으나 대규모 RCT는 부족
+* 국내 허가 적응증 : 알코올 의존성 치료 및 외인성 아편류 효과 차단 (통증은 off-label 사용)
+* 국내 제품 : 환인날트렉손정 25/50 ㎎, 파마날트렉손정 50 ㎎ (저용량 분할 사용 시 off-label)
 
 ### <mark style="color:orange;">기타 국소 진통제</mark>
 
@@ -428,7 +450,6 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * long-acting 약제 (반감기 ＞6시간) : naproxen, celecoxib, nabumetone, piroxicam
 * COX-2 선택 억제제 : 소화성 궤양 위험이 보다 적음, 혈소판 응고 저해 작용이 적음; 고용량에서 심혈관 위험 증가; celecoxib, meloxicam
 * prodrug : 흡수 후 hepatic biotransformation되어 활성화; GI 문제가 약간 적고 renal prostaglandin 억제가 덜함; sulindac, nabumetone
-* 만성 통증에 대한 저용량 naltrexone : 소규모 연구에서 긍정적 결과가 보고되고 있으나 대규모 연구는 부족
 
 #### <mark style="color:$primary;">주의/금기</mark>
 
@@ -452,7 +473,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 #### <mark style="color:$primary;">부작용 대처</mark>
 
 * 최소 유효 용량을 최단 기간 투여
-* 저용량 aspirin을 병용해야 하는 경우 aspirin 복용 2시간 이후에 NSAID 투여
+* 저용량 아스피린을 병용해야 하는 경우 아스피린 복용 후 최소 2시간(ibuprofen은 8시간 이상) 경과 후 NSAID 투여; celecoxib는 아스피린의 COX-1 결합을 방해하지 않아 시간 간격 제한 없음
 * 장기 복용 환자에서 CBC, RFT, LFT 최소 매년, 위험 인자가 있는 환자에서는 더 자주 평가
 * 다음의 경우 NSAID 투여 중단 : LFT 정상 상한치 ＞3배, s-albumin↓, PT 연장
 * 수술 전 중단 : 속효성 NSAID- 1\~2일 전, 지속성 NSAID- 3일 전, aspirin- 1주 전 중단
@@ -528,7 +549,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 > **처방례 2. 우울증 동반**
 >
 > ```
-> 센시발 10 ㎎/T 2T #2
+> 에트라빌 10 ㎎/T 1T hs (저용량 시작; 통증 + 우울 동반)
 > 타이레놀 이알 650 ㎎/T (필요시)
 > ```
 >
@@ -541,7 +562,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ### <mark style="color:purple;">약제별 보험 급여 인정 상병 코드 매칭표</mark>
 
-<table><thead><tr><th width="151.631591796875">약물 분류</th><th width="212.3157958984375">권장 상병 코드 (KCD-8)</th><th>급여 핵심 기준 및 주의사항</th></tr></thead><tbody><tr><td><strong>COX-2 저해제</strong><br>Celecoxib</td><td>M15~M19 (골관절염)<br>M05~M06 (류마티스)</td><td>60세 이상 자동 인정. 60세 미만은 위궤양 기왕력 등 사유 필요. ※ HIRA 현행 고시 확인 필요</td></tr><tr><td><strong>가바펜티노이드</strong><br>Pregabalin</td><td>E10~E14 (당뇨병성 신경병증)<br>B02.2 (대상포진 후 신경통)<br>G57.x / M54.3~M54.4 (원인별 신경병증)</td><td>단순 요통 처방 시 삭감 위험. G63은 신경병성 통증 범용 코드로 부적합 — 원인에 따라 G57.x(하지 단발신경병증), M54.3(좌골신경통) 등 병기 권장</td></tr><tr><td><strong>SNRI 항우울제</strong><br>Duloxetine</td><td>M79.7 (섬유근통)<br>M17 (무릎 골관절염)</td><td>무릎 골관절염은 NSAIDs에 반응하지 않는 경우에만 인정. ※ 정확한 고시 문구 HIRA 확인 필요</td></tr><tr><td><strong>마약성 진통제</strong><br>Oxycodone 등</td><td>M54.5 (만성 하부요통)<br>M15~M19 (심한 골관절염)</td><td>NSAIDs 최대 용량 투여 후 효과 없을 시 인정 (차트 기재 필수). ※ HIRA 원문 확인 권고</td></tr><tr><td><strong>프로스타글란딘</strong><br>Limaprost</td><td>M48.0 (척추관 협착증)<br>I73.1 (Buerger병)</td><td>척추관 협착증(M48.0) 또는 Buerger병(I73.1) 코드 필수</td></tr><tr><td><strong>Lidocaine patch</strong></td><td>B02.2 (대상포진 후 신경통)</td><td>PHN 외 상병은 전액 본인부담</td></tr></tbody></table>
+<table><thead><tr><th width="151.631591796875">약물 분류</th><th width="212.3157958984375">권장 상병 코드 (KCD-8)</th><th>급여 핵심 기준 및 주의사항</th></tr></thead><tbody><tr><td><strong>COX-2 저해제</strong><br>Celecoxib</td><td>M15~M19 (골관절염)<br>M05~M06 (류마티스)</td><td>60세 이상 자동 인정. 60세 미만은 위궤양 기왕력 등 사유 필요. ※ HIRA 현행 고시 확인 필요</td></tr><tr><td><strong>가바펜티노이드</strong><br>Pregabalin</td><td>E10~E14 (당뇨병성 신경병증)<br>B02.2 (대상포진 후 신경통)<br>M54.1 (신경뿌리병증)<br>G54.4 (요추 신경뿌리 장애)<br>G57.x / M54.3~M54.4 (원인별 신경병증)</td><td>단순 M54.5 (요통) 단독 코드는 삭감 위험 높음 — 방사통·전격통 등 신경병성 증상이 있을 경우 M54.1 또는 G54.4 병기 권장. 차트에 "방사통, NRS ○점, 저림 증상" 등 신경병성 근거 기재 필수. G63은 신경병성 통증 범용 코드로 부적합</td></tr><tr><td><strong>SNRI 항우울제</strong><br>Duloxetine</td><td>M79.7 (섬유근통)<br>M17 (무릎 골관절염)</td><td>무릎 골관절염은 NSAIDs에 반응하지 않는 경우에만 인정. ※ 정확한 고시 문구 HIRA 확인 필요</td></tr><tr><td><strong>마약성 진통제</strong><br>Oxycodone 등</td><td>M54.5 (만성 하부요통)<br>M15~M19 (심한 골관절염)</td><td>NSAIDs 최대 용량 투여 후 효과 없을 시 인정 (차트 기재 필수). ※ HIRA 원문 확인 권고</td></tr><tr><td><strong>프로스타글란딘</strong><br>Limaprost</td><td>M48.0 (척추관 협착증)<br>I73.1 (Buerger병)</td><td>척추관 협착증(M48.0) 또는 Buerger병(I73.1) 코드 필수</td></tr><tr><td><strong>Lidocaine patch</strong></td><td>B02.2 (대상포진 후 신경통)</td><td>PHN 외 상병은 전액 본인부담</td></tr></tbody></table>
 
 ※ **삭감 예방을 위한 차트 기재 가이드**
 
@@ -597,7 +618,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 * **규칙적 복용** : 통증이 심해질 때만 복용하는 것보다, 의사 지시에 따라 규칙적으로 복용하면 더 적은 용량으로 더 잘 조절됩니다
 * **통증 일지** : 언제, 어디서, 얼마나 아픈지 기록해 두면 진료에 도움이 됩니다 (0\~10점 척도;  통증 없음=0점 \~ 상상할 수 없는 극심한 통증=10점)
 * **비약물 방법 병행** : 온찜질·냉찜질, 가벼운 스트레칭, 명상 등을 병행하면 약의 효과를 높일 수 있습니다
-* **음주 삼가** : 진통제 복용 중 음주는 간 손상 및 위장관 출혈 위험을 크게 높이므로피해야합니다
+* **음주 삼가** : 진통제 복용 중 음주는 간 손상 및 위장관 출혈 위험을 크게 높이므로 피해야 합니다
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
