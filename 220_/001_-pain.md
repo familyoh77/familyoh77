@@ -314,6 +314,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 대상 : 대상포진후신경통, 당뇨병신경병증, 긴장성 두통, 편두통, RA, 악성 종양, 뇌졸중후통증
   * 급성 신경병증성 통증과 만성 요통에 대해서는 효과 입증이 불충분하다는 보고가 있음
 * opioid 병용 시 효과 및 부작용이 증가함
+* 통증에 대한 사용은 off-label
 * 부작용 : 졸음, 입마름, 기립성 저혈압, 변비, 소변 저류, 심장 전도 장애
   * 대처 : 저용량으로 시작, 취침 시 복용
   * 투여 전 ECG 검사, 혈압/맥박 모니터링
@@ -338,9 +339,9 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 주의 : MAOI 병용 금기; SSRI/SNRI 병용 시 serotonin syndrome 위험
   * 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩 증량 <mark style="color:blue;">\[뉴신타 서방]</mark>
 
-### <mark style="color:orange;">Benzodiazepine</mark>
+### <mark style="color:orange;">Benzodiazepines</mark>
 
-* 일부 연구에서 통증 감소에 유효 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
+* 일부 연구에서 통증 감소에 유효; 통증에 대한 사용은 off-label (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
 * 중독 문제로 ＜2주의 단기 사용으로 제한하며, 만성 통증에 대하여 권고하지 않음
 * 부작용 : 졸음, 의존성
 * clonazepam : 0.25 ㎎ qd\~tid, 필요시 3일 간격 증량, 최대 3\~6 ㎎/d <mark style="color:blue;">\[리보트릴]</mark>
