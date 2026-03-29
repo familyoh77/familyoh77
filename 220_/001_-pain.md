@@ -118,7 +118,7 @@
 
 * 척추관 협착증, 만성 요통(radiculopathy 동반), 암성 통증
 
-#### <mark style="color:$primary;">STEP 2. 강도 및 유형</mark><mark style="color:$primary;">별 약물 선택</mark>
+#### <mark style="color:$primary;">STEP 2. 강도 및 유형별 약물 선택</mark>
 
 **침해수용성 통증** <mark style="color:$info;">(WHO analgesic ladder 참조)</mark>
 
@@ -327,7 +327,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 신기능 주의 : 중등도 이상 신기능 저하(eGFR < 30 ㎖/min/1.73㎡) 환자에게는 duloxetine을 포함한 SNRI 계열 권장하지 않음 (약물 축적 및 부작용 위험 증가)
 * duloxetine : 섬유근육통, 골관절염; 30\~60 ㎎/d qd <mark style="color:blue;">\[심발타]</mark>
 * fluoxetine : 섬유근육통; 20\~80 ㎎/d qd <mark style="color:blue;">\[푸로작]</mark>
-* Tapentadol
+* tapentadol
   * 작용 : opioid(μ 수용체 작용) + SNRI(norepinephrine 재흡수 억제) 이중 기전
   * 대상 : 중등증\~중증의 급성 및 만성 통증, 당뇨병신경병증
   * 장점 : 기존 opioid에 비하여 위장관 부작용(구역, 변비)이 적음
@@ -352,8 +352,8 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 * 대상 : 대상포진후신경통, 당뇨병신경병증, central neuropathic pain, 섬유근육통
 * 저용량으로 시작하여 점차 증량
-* 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 보다 빠른 효과를 보임
-* 부작용 : 어지럼/졸음(용량 의존; 저용량 시작 및 서서히 증량 시 완화), 말초부종, 체중 증가, 도취감, 의존성/남용 가능성(특히 pregabalin; 영국에서는 2019년 규제 약물로 지정)
+* 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 더 빠른 효과를 보임
+* 부작용 : 어지럼/졸음(용량 의존; 저용량 시작 및 서서히 증량 시 완화), 말초 부종, 체중 증가, 도취감, 의존성/남용 가능성 (특히 pregabalin; 영국은 규제 약물로 지정)
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
 * gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
@@ -378,13 +378,13 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 급성기(2\~3주 이내)에만 적용, 만성 통증 환자에서의 장기 처방은 권고하지 않음
 * 대상 : 근육 경련이 통증의 원인인 경우; 졸음 등 부작용 문제로 고령자에게는 권고 안 함
 * 부작용 : 졸음, 어지럼, 구역
-* 단기 작용제 선택
+* 습관성·의존성·진정 부작용을 최소화하기 위해 단기 작용제 우선 선택
 * baclofen : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark>
-* carisoprodol : 350 ㎎ tid
 * tizanidine : 1\~2 ㎎ tid <mark style="color:blue;">\[실다루드]</mark>
-* cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark>
 * chlorphenesin : 250 ㎎ tid <mark style="color:blue;">\[릴렉시아]</mark>
 * methocarbamol : 1.5\~2.25 g #3 <mark style="color:blue;">\[메토카몰]</mark>
+* carisoprodol :  350 ㎎ tid (향정신성 의약품; 의존성 주의)
+* cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark>
 
 ### <mark style="color:orange;">Steroid</mark>
 
@@ -413,6 +413,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 작용 : 모세혈관 확장, 혈액 순환 증가
 * 제한적 효과
 * 대상 : 다른 약물 치료로 효과가 없는 근골격 통증에 대하여 고려
+* 처방 가능한 국내 제품은 없음
 
 ***
 
@@ -427,12 +428,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * long-acting 약제 (반감기 ＞6시간) : naproxen, celecoxib, nabumetone, piroxicam
 * COX-2 선택 억제제 : 소화성 궤양 위험이 보다 적음, 혈소판 응고 저해 작용이 적음; 고용량에서 심혈관 위험 증가; celecoxib, meloxicam
 * prodrug : 흡수 후 hepatic biotransformation되어 활성화; GI 문제가 약간 적고 renal prostaglandin 억제가 덜함; sulindac, nabumetone
-* 만성 통증에 대한 저용량 naltrexone
-  * 작용 : 저용량에서 opioid 수용체를 일시적으로 차단 → 내인성 opioid 분비 반동성 증가, 미세아교세포(microglia) 활성 억제를 통한 항염 효과
-  * 대상 : 섬유근육통, 만성 통증 (✽아직 근거 수준이 낮으며 허가 외 사용임)
-  * 용법 : 1.5\~4.5 ㎎ qd (취침 시); 통상 용량인 50 ㎎/d의 1/10 수준
-  * 부작용 : 수면 장애, 생생한 꿈; 대체로 경미함
-  * 비고 : 소규모 연구에서 긍정적 결과가 보고되고 있으나 대규모 연구는 부족
+* 만성 통증에 대한 저용량 naltrexone : 소규모 연구에서 긍정적 결과가 보고되고 있으나 대규모 연구는 부족
 
 #### <mark style="color:$primary;">주의/금기</mark>
 
@@ -449,7 +445,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 혈소판 응고 저해(투약 종료 후 2일까지 영향)
 * 심혈관 질환, 간염(특히 sulindac, diclofenac), 신 독성/신부전, 천식 악화, 체액 저류(부종, 혈압↑)
   * 신 독성 위험 인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
-  * 장기 복용 환자에서 eGFR < 30 ㎖/min/1.73㎡ 시 NSAIDs 금기 (신기능 저하 가속 및 급성 신손상 위험)
+  * 장기 복용 환자에서 eGFR < 30 ㎖/min/1.73㎡ 시 NSAIDs 금기(신기능 저하 가속 및 급성 신손상 위험)
   * 고령자에서 10년 NSAID 사용 추적 조사에서 유의미한 신기능 저하가 관찰되지 않았다는 보고가 있음
   * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험을 30% 증가시킨다는 보고가 있음 ; 약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음
 
@@ -457,7 +453,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 * 최소 유효 용량을 최단 기간 투여
 * 저용량 aspirin을 병용해야 하는 경우 aspirin 복용 2시간 이후에 NSAID 투여
-* 장기 복용 환자에서 CBC, RFT, LFT 최소 매년, 위험 인자가 있는 환자에서는 보다 자주 평가
+* 장기 복용 환자에서 CBC, RFT, LFT 최소 매년, 위험 인자가 있는 환자에서는 더 자주 평가
 * 다음의 경우 NSAID 투여 중단 : LFT 정상 상한치 ＞3배, s-albumin↓, PT 연장
 * 수술 전 중단 : 속효성 NSAID- 1\~2일 전, 지속성 NSAID- 3일 전, aspirin- 1주 전 중단
 * 소화성 궤양에 대한 대처
@@ -470,11 +466,10 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 ### <mark style="color:orange;">외용제</mark>
 
 * 혈중 농도가 경구제의 1\~5% 수준으로 전신 부작용이 현저히 적음
-*
-* 무릎 골관절염(Knee OA)에 대하여 전신 부작용을 줄이기 위해 경구 NSAID보다 국소 NSAID(외용제)를 우선 권고(AAOS 2021, ACR/AF 2019)
 * 허리 이외 부위의 근골격계 손상에 의한 급성 통증에 대하여 경구제와 동등한 효과
 * 만성 통증에 대한 효과는 급성 통증에 비하여 적음
-* 대상 : 작은 관절(예: 손), 무릎 OA (보험 주의)
+* 무릎 골관절염(knee OA)에 대하여 전신 부작용을 줄이기 위해 경구 NSAID보다 국소 NSAID(외용제)를 우선 권고(AAOS 2021, ACR/AF 2019)
+* 대상 : 작은 관절(예: 손), 무릎 OA(보험 주의)
   * 특히 고령, 위장관/심혈관/신장 위험 인자가 있는 환자에서 우선 고려
   * 고관절 OA에는 효과 없음
 * 주의/금기 : 기관지 천식, 임부, 수유부, 소아
@@ -514,7 +509,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ### <mark style="color:orange;">주요 통증 약물 병용 금기 및 주의 리스트 (DUR)</mark>
 
-<table><thead><tr><th width="104.7894287109375">약물군</th><th width="162.2105712890625">병용 주의/금기 약물</th><th width="182.842041015625">주요 위험</th><th>임상적 대처 방안</th></tr></thead><tbody><tr><td>Opioids*</td><td>Benzodiazepines</td><td>호흡 저하, 사망 위험</td><td>가급적 병용 금기. 최소 용량 처방</td></tr><tr><td>Tramadol</td><td>SSRIs, SNRIs, TCAs</td><td>세로토닌 증후군, 발작 위험 (TCAs는 경련 역치 저하 추가)</td><td>항우울제 병용 시 세로토닌 증상 및 경련 징후 관찰</td></tr><tr><td>Tramadol</td><td>MAOIs</td><td>세로토닌 증후군, 고혈압 위기</td><td>병용 금기. MAOI 중단 후 최소 14일 경과 후 사용</td></tr><tr><td>NSAIDs</td><td>Anticoagulants (warfarin, DOAC†)</td><td>위장관 출혈 위험</td><td>PPI 병용 및 응고 수치 추적</td></tr><tr><td>NSAIDs</td><td>Corticosteroids</td><td>위궤양/천공 위험</td><td>COX-2 선택적 억제제 전환 권장</td></tr><tr><td>NSAIDs</td><td>ACEI/ARB + Diuretics (Triple Whammy‡)</td><td>급성 신손상</td><td>신기능(eGFR) 및 혈압 모니터링 필수. 3제 병용은 가급적 회피</td></tr><tr><td>NSAIDs</td><td>저용량 Aspirin</td><td>심혈관 보호 효과 감소 (ibuprofen에서 특히 문제)</td><td>aspirin 복용 2시간 이후에 NSAID 투여; naproxen 또는 COX-2 억제제 전환 고려</td></tr><tr><td>Pregabalin</td><td>Opioids</td><td>과도한 진정, 호흡 억제</td><td>각각의 시작 용량을 평소보다 감량</td></tr></tbody></table>
+<table><thead><tr><th width="104.7894287109375">약물군</th><th width="162.2105712890625">병용 주의/금기 약물</th><th width="153.842041015625">주요 위험</th><th>임상적 대처 방안</th></tr></thead><tbody><tr><td>Opioids*</td><td>Benzodiazepines</td><td>호흡 저하, 사망 위험</td><td>가급적 병용 금기. 최소 용량 처방</td></tr><tr><td>Tramadol</td><td>SSRIs, SNRIs, TCAs</td><td>세로토닌 증후군, 발작 위험 (TCAs는 경련 역치 저하 추가)</td><td>항우울제 병용 시 세로토닌 증상 및 경련 징후 관찰</td></tr><tr><td>Tramadol</td><td>MAOIs</td><td>세로토닌 증후군, 고혈압 위기</td><td>병용 금기. MAOI 중단 후 최소 14일 경과 후 사용</td></tr><tr><td>NSAIDs</td><td>Anticoagulants (warfarin, DOAC†)</td><td>위장관 출혈 위험</td><td>PPI 병용 및 응고 수치 추적</td></tr><tr><td>NSAIDs</td><td>Corticosteroids</td><td>위궤양/천공 위험</td><td>COX-2 선택적 억제제 전환 권장</td></tr><tr><td>NSAIDs</td><td>ACEI/ARB + Diuretics (Triple Whammy‡)</td><td>급성 신손상</td><td>신기능(eGFR) 및 혈압 모니터링 필수. 3제 병용은 가급적 회피</td></tr><tr><td>NSAIDs</td><td>저용량 Aspirin</td><td>심혈관 보호 효과 감소 (ibuprofen에서 특히 문제)</td><td>aspirin 복용 2시간 이후에 NSAID 투여; naproxen 또는 COX-2 억제제 전환 고려</td></tr><tr><td>Pregabalin</td><td>Opioids</td><td>과도한 진정, 호흡 억제</td><td>각각의 시작 용량을 평소보다 감량</td></tr></tbody></table>
 
 **\***&#x4F;pioid + Benzodiazepine 조합은 중추신경계 억제를 심화시켜 치명적인 호흡 정지를 유발할 수 있음. 환자가 기존에 수면제나 불안 해소제를 복용 중인지 반드시 확인\
 † DOAC(rivaroxaban, apixaban, dabigatran 등 직접 경구항응고제) 포함\
@@ -560,20 +555,20 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 > **진통제 공통 주의사항**
 >
-> * 통증이 심할 때만 복용하지 말고, 의사 지시에 따라 규칙적으로 복용하면 더 적은 용량으로 더 잘 조절됩니다.
+> * 통증이 심할 때만 복용하지 말고, 의사의 지시에 따라 규칙적으로 복용하면 더 적은 용량으로 더 잘 조절됩니다.
 > * 음주 중에는 진통제(특히 아세트아미노펜, NSAIDs) 복용을 피하십시오. 간 손상 및 위장관 출혈 위험이 높아집니다.
-> * 여러 종류의 진통제를 동시에 복용하지 마십시오. 효과가 배가되지 않고 부작용만 증가합니다.
+> * 여러 종류의 진통제를 동시에 복용하지 마십시오. 효과가 향상되지 않고 부작용만 증가합니다.
 
 > **NSAIDs (이부프로펜, 나프록센, 셀레콕시브 등)**
 >
 > * 위 불편감이 있는 경우 음식과 함께 복용하십시오. 단, 음식과 함께 복용해도 심각한 위장관 부작용을 완전히 예방하지는 못합니다.
 > * 부종(발·발목 붓기), 혈압 상승, 소변량 감소가 생기면 즉시 알려 주십시오.
-> * 심장 질환, 신장 질환, 위궤양 병력이 있으신 분은 반드시 의사에게 알려 주십시오.
+> * 심장 질환, 신장 질환, 위궤양 병력이 있으신 분은 진료 시 반드시 의사에게 알려 주십시오.
 > * 장기 복용 시 정기적인 혈액 검사가 필요합니다.
 
 > **아세트아미노펜 (타이레놀)**
 >
-> * 하루 최대 용량(성인은 3 g, 간질환·음주자는 2 g 이하)을 초과하지 마십시오.
+> * 하루 최대 용량(성인은 3\~4 g, 간질환·음주자는 2 g 이하)을 초과하지 마십시오.
 > * 감기약·두통약·수면제 등에도 아세트아미노펜이 포함된 경우가 많으니, 중복 복용에 주의하십시오.
 
 > **오피오이드 (트라마돌, 코데인 등)**
@@ -595,18 +590,18 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 * 통증은 몸이 손상이나 위험을 알리는 신호입니다
 * 급성 통증은 원인이 치료되면 사라지지만, 3개월 이상 지속되면 만성 통증으로 분류됩니다
-* 만성 통증은 단순히 오래된 통증이 아니라, 신경계 변화를 동반하는 별도의 질환으로 이해해야 합니다
+* 만성 통증은 단순히 오래된 통증이 아니라, 신경계 변화를 동반하는 또 다른 질환으로 이해해야 합니다
 
 #### <mark style="color:$primary;">통증 조절 시 이렇게 하세요</mark>
 
 * **규칙적 복용** : 통증이 심해질 때만 복용하는 것보다, 의사 지시에 따라 규칙적으로 복용하면 더 적은 용량으로 더 잘 조절됩니다
-* **통증 일지** : 언제, 어디서, 얼마나 아픈지 기록해 두면 진료에 도움이 됩니다 (0\~10점 척도)
+* **통증 일지** : 언제, 어디서, 얼마나 아픈지 기록해 두면 진료에 도움이 됩니다 (0\~10점 척도;  통증 없음=0점 \~ 상상할 수 없는 극심한 통증=10점)
 * **비약물 방법 병행** : 온찜질·냉찜질, 가벼운 스트레칭, 명상 등을 병행하면 약의 효과를 높일 수 있습니다
-* **음주 삼가** : 진통제 복용 중 음주는 간 손상 및 위장관 출혈 위험을 크게 높입니다
+* **음주 삼가** : 진통제 복용 중 음주는 간 손상 및 위장관 출혈 위험을 크게 높이므로피해야합니다
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
-* **적절한 수면** : 수면 부족은 통증 역치를 낮춰 통증을 더 심하게 느끼게 합니다
+* **적절한 수면** : 수면이 부족하면 통증 역치가 낮아져 통증을 더 심하게 느끼게 됩니다
 * **규칙적인 가벼운 운동** : 주치의와 상의하여 본인 상태에 맞는 운동을 꾸준히 하십시오. 과도한 안정은 오히려 만성화를 촉진할 수 있습니다
 * **스트레스 관리** : 불안·우울이 통증을 악화시키는 경우가 많습니다. 필요하면 심리 상담을 병행하십시오
 
