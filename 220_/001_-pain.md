@@ -2,13 +2,21 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 평가 : 통증에 대하여 다음 항목들을 최소 1년에 한 번 평가
+**평가**
+
+* 통증에 대하여 다음 항목들을 최소 1년에 한 번 평가
   * 병력, 신체검사, bio-psycho-social 평가, 통증 형태(neuropathic, nociceptive, or mixed), 중증도, 기능에 대한 영향
-  * 통증 상태나 기저 질환이 변화할 때는 더 자주 평가
-* 검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
-* 통증 강도 평가 : 환자로 하여금 통증 정도를 표현하도록 함
-  * 시각적 아날로그 통증 스케일(visual analogue scale, VAS) : 100 mm 눈금자에 통증이 없으면 0 mm 지점에, 극심한 통증이 있으면 100 mm에 표시
-  * 수치 평가 척도(numeric rating scale, NRS) : 0\~10 숫자 중 현재 통증 강도를 선택; 0=통증 없음 \~ 10=상상할 수 없는 극심한 통증; 구두로 즉시 측정 가능하여 임상에서 가장 널리 사용됨
+* 통증 상태나 기저 질환이 변화할 때는 더 자주 평가
+
+**검사**
+
+* 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
+
+**통증 강도 평가 기술 방법**
+
+* 환자로 하여금 통증 정도를 표현하도록 함
+* 수치 평가 척도(numeric rating scale, NRS) : 0\~10 숫자 중 현재 통증 강도를 선택; 0=통증 없음 \~ 10=상상할 수 없는 극심한 통증; 구두로 즉시 측정 가능하여 임상에서 가장 널리 사용됨
+* 시각적 아날로그 통증 스케일(visual analogue scale, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
 
 <figure><img src="../.gitbook/assets/VAS_pain_scale.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,14 +26,13 @@
 
 * 방광 또는 장 기능 이상 (실금 또는 저류; 마미 증후군 시사)
 * 안장 부위 감각 이상(Saddle anesthesia), 항문 괄약근 긴장도 저하
-* 하지의 급격한 근력 약화 또는 상하지 이상 감각
+* 하지의 급격한 근력 약화 또는 상하지 이상 감각 (척수 압박/척수병증 시사)
 
 <mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
 * 주요 외상 후 심한 통증 (척추 골절 의심)
 * 고령·골다공증 환자에서 경미한 외상(기침, 가벼운 물건 들기) 후 심한 통증
 * 발열, 오한 동반 (척추 감염/골수염 의심)
-* 면역 저하 또는 면역억제제 투여 중
 
 <mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
@@ -35,18 +42,35 @@
 * ＞50세 또는 ＜20세에서 처음 시작된 통증
 * 설명되지 않는 체중 감소, 야간 발한
 * 최근 세균 감염 병력 또는 정맥 주사제 사용 병력
-* 진행성 근력 약화 또는 이상 감각 (신경 압박 의심)
+* 수일에 걸쳐 서서히 진행하는 근력 약화 또는 이상 감각 (신경 압박 의심)
+* 면역 저하 또는 면역억제제 투여 중
 
 ### <mark style="color:orange;">만성 통증</mark>
 
-* ＞3개월 지속 또는 재발하는 통증 (ICD-11, 2019)
+* ＞3개월 지속 또는 재발하는 통증 (ICD-11)
 
-**만성 통증 유형**
+#### <mark style="color:$primary;">**유형**</mark>
 
-* 신경병증성(neuropathic) 통증 : 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하. 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
-* 근육(muscle) 통증 (근육통) : 근육 조직의 긴장, 손상 또는 염증으로 인해 발생하는 둔하고 쑤시는 통증; 압통, 활동 시 악화, 휴식 시 호전이 특징. 예) 긴장성 근육통, myofascial pain syndrome, 경추·요추 주변 근육통
-* 염증성(inflammatory) 통증 : 통증 부위의 발열, 발적, 부종; 관절염, 감염, 손상, 수술 후 통증
-* 기계적/압박성(mechanical/compressive) 통증 : 활동 중 악화, 휴식 시 호전; 특히 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압축 골절 관련
+**신경병증성(neuropathic) 통증**&#x20;
+
+* 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하
+* 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
+
+**근육(muscle) 통증**&#x20;
+
+* 근육 조직의 긴장, 손상 또는 염증으로 인해 발생하는 둔하고 쑤시는 통증
+* 압통, 활동 시 악화, 휴식 시 호전
+* 예) 긴장성 근육통, myofascial pain syndrome, 경추·요추 주변 근육통
+
+**염증성(inflammatory) 통증**&#x20;
+
+* 통증 부위의 발열, 발적, 부종
+* 예) 관절염, 감염, 손상, 수술 후 통증
+
+**기계적/압박성(mechanical/compressive) 통증**&#x20;
+
+* 활동 중 악화, 휴식 시 호전
+* 예) 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압축 골절
 
 ***
 
@@ -58,80 +82,64 @@
 
 * 환자 맞춤 치료 : 모든 환자에게 일률적으로 적용할 수 있는 통증 완화 치료법은 없으며 환자마다 치료에 대한 반응이 다름
 * 동반된 문제를 함께 치료하는 것이 효과적임, 특히 정신적 요소를 평가하고 치료함 (☞ [신체증상장애](../221_/031_-somatic-symptom-disorder.md))
-* 통증 치료에서는 위약 효과가 적지 않음 - 치료 효과 평가 시 고려, 위약 효과를 치료에 이용할 수도 있음
-* 단순한 증량 또는 같은 계열의 약제를 추가하는 것보다 다른 계열의 약을 추가하는 것이 효과적이며 부작용이 적음
+* 통증 치료에서는 위약 효과가 적지 않으므로 치료 효과 평가 시 고려, 이를 치료에 활용할 수도 있음
+* 치료 약제의 효과 부족 시 단순한 증량 또는 같은 계열의 약제를 추가하는 것보다 다른 계열의 약을 추가하는 것이 일반적으로 효과적이며 부작용이 적음
 * 압박 또는 약물(예: 항암제, 항생제)에 의해 증상이 악화되는 경우는 이러한 치료를 중지
 
 #### <mark style="color:$primary;">**만성 통증 치료 원칙**</mark>
 
 * 통증의 완전 제거보다 일상 기능 회복(보행, 수면, 사회 활동, 직업 복귀)을 치료 목표로 설정
 * 비약물 치료 우선 : 운동, CBT(인지행동치료), 교육, 물리치료
-* 오피오이드 : 비암성 통증에서는 신중히 선택. 다른 치료 먼저 시도. 시작 전 충분한 평가, 최소 유효 용량, 최단 기간 적용; 암성통증에서는 오피오이드의 적극적 사용 권장
+* 오피오이드 : 비암성 통증에서는 신중히 선택. 다른 치료 먼저 시도. 시작 전 충분한 평가, 최소 유효 용량, 최단 기간 적용; 암성 통증에서는 오피오이드의 적극적 사용 권장
 * 생물심리사회적 모델 : 신체, 심리(우울, 불안, 파국화), 사회적 요인(직업, 가족 환경, 보상 문제)을 통합 고려
 * 다학제 접근 : 복잡한 만성 통증이나 치료에 반응이 불충분한 경우 협진(마취과·신경과·정신건강의학과·재활의학과 협진) 고려
 
-### <mark style="color:orange;">통증 양상별 약물 선택 알고리즘</mark>
+### <mark style="color:orange;">통증 양상별 약물 선택</mark>
 
 * 통증의 성격(침해수용성 vs 신경병성)을 구분하고, 통증의 강도(NRS)에 따라 단계적으로 접근
 * "Start Low, Go Slow"
-  * 노인, 당뇨병 환자 등에서는 반드시 신기능(eGFR)을 확인하고, 일반 용량의 50% 수준에서 시작
+  * 노인, 당뇨병 환자 등에서는 신기능(eGFR)을 확인하고, 일반 용량의 50% 수준에서 시작
   * 기능적 목표 설정 : 환자에게 "통증 때문에 못 하던 어떤 활동을 다시 하고 싶은지"를 물어 구체적 목표를 설정
-  * 병용 금기 약제 주의: benzodiazepine 복용 여부를 확인하여 마약성 진통제 처방 시 호흡 억제 위험을 차단
+  * 병용 금기 약제 주의 : 예) benzodiazepine 복용 여부를 확인하여 마약성 진통제 처방 시 호흡 억제 위험을 차단
 
 #### <mark style="color:$primary;">STEP 1. 통증 유형 분류 (Pain Typing)</mark>
 
-A. 침해수용성 통증 (Nociceptive) : 근육통, 관절염, 외상, 염증성 통증
+**침해수용성 통증 (Nociceptive)**&#x20;
 
-* 특징 : 쑤심, 욱신거림, 국소적 부위
+* Actual tissue damage에 의해 발생; 근육통, 관절염, 외상, 염증성 통증
+* 특징 : 쑤심, 욱신거림, 국소적 (부위가 비교적 명확함)
 
-B. 신경병성 통증 (Neuropathic) : 대상포진 후 신경통, 당뇨병성 신경병증, 척추관 협착증
+**신경병성 통증 (Neuropathic)**&#x20;
 
+* 대상포진 후 신경통, 당뇨병성 신경병증
 * 특징 : 저림, 화끈거림, 전격통(전기 오는 듯함), 감각 이상
 
-C. 복합성 통증 (Mixed) : 암성 통증, 만성 요통(radiculopathy 동반)
+**복합성 통증 (Mixed) :**&#x20;
 
-#### <mark style="color:$primary;">STEP 2. 강도 및 유형별 약물 선택</mark>
+* 척추관 협착증, 만성 요통(radiculopathy 동반), 암성 통증
 
-\[경로 A] 침해수용성 통증 (Nociceptive Pain)
+#### <mark style="color:$primary;">STEP 2. 강도 및 유형</mark><mark style="color:$primary;">별 약물 선택</mark>
 
-* Mild (NRS 1\~3) : Acetaminophen 또는 NSAIDs 단독
-* Moderate (NRS 4\~6) : NSAIDs + 약한 아편유사제 (tramadol, codeine 복합제 등)
-* Severe (NRS 7\~10) : 강한 아편유사제 (oxycodone, hydromorphone, tapentadol 등) ± NSAIDs (암성 통증에서는 적극 병용; 비암성 만성 통증에서는 NSAIDs를 보조적·단기로만 고려)
+**침해수용성 통증** <mark style="color:$info;">(WHO analgesic ladder 참조)</mark>
 
-\[경로 B] 신경병성 통증 (Neuropathic Pain)
+* 경증 (NRS 1\~3) : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
+* 경증\~중등증 (NRS 4\~6) : weak opioid(tramadol) ± non-opioid ± 보조 치료
+* 중등증\~중증 (NRS 7\~10) : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid (암성 통증에서는 적극 병용) ± 보조 치료
 
-* 1차 (First-line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (TCA: amitriptyline / SNRI: duloxetine)
-* 반응 불충분 시 : 1차 약제 간 병용 (예: pregabalin + duloxetine) 또는 국소 도포제 (lidocaine patch, PHN인 경우) 추가
-* 중증/난치성 통증 시 : tramadol 또는 강한 아편유사제 신중히 추가
+**신경병성 통증**
+
+* 1차 (1st line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선); 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
+* 반응 불충분 시 : 1차 약제 간 병용 (예: pregabalin + duloxetine), weak opioid (tramadol, codeine, 저용량buprenorphine 패치)추가
+* 중증/난치성 통증 : opioid (oxycodone, hydromorphone), 국소 lidocaine patch (대상포진 후 신경통, PHN에서 2nd-line), botulinum toxin (PHN·삼차신경통 등 일부 적응증에서 고려)
 
 #### <mark style="color:$primary;">STEP 3. 재평가 및 조정 (Re-evaluation)</mark>
 
 * 치료 시작 후 급성 2주, 만성 4주 이내에 목표 달성 여부를 평가
-* 목표 달성 (통증 30% 이상 감소 & 기능 개선) : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
-* 목표 미달 (효과 부족 또는 부작용) :
-  * 통증 유형 재검토 - 신경병성 요소가 간과되지 않았는가?
-  * 약물 회전(rotation) : 동일 계열 내 다른 성분으로 교체 (MME의 50\~75% 적용)
-  * 중재적 시술 고려 : 신경 차단술, IMS 등 비약물적 치료 병행
-
-### <mark style="color:orange;">통증의 유형에 따른 치료 선택</mark>
-
-#### <mark style="color:$primary;">침해수용성 통증 (Nociceptive pain)</mark>
-
-* 외상/염증 등 actual tissue damage에 의해 발생
-
-**WHO analgesic ladder**
-
-1. 경증 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
-2. 경증\~중등증 : weak opioid(codeine, tramadol) ± non-opioid ± 보조 치료
-3. 중등증\~중증 : opioid(morphine, fentanyl) ± non-opioid ± 보조 치료
-
-#### <mark style="color:$primary;">신경병증성 통증 (Neuropathic pain)</mark>
-
-* 1st-line : gabapentinoid, TCA, SNRI
-  * trigeminal neuralgia에서는 carbamazepine, oxcarbazepine이 1차 선택제
-* 2nd-line : opioid analgesics(예: tramadol, codeine)
-* 3rd-line : cannabinoid(대마) (✽국내에서는 처방 불가; 일부 국가에서만 적용 가능)
-* 4th-line : 국소 lidocaine(대상포진후신경통에서는 2nd-line), methadone, lamotrigine, lacosamide, tapentadol, botulinum toxin
+* 목표 달성 (통증 30% 이상 감소 & 기능 개선) 시 : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
+* 목표 미달 (효과 부족 또는 부작용) 시
+  1. 통증 유형 재검토 : 신경병성 요소가 간과되지 않았는가?
+  2. 약물 회전 : 동일 계열 내 다른 성분으로 교체 (MME의 50\~75% 적용)
+  3. 중재적 시술 고려 : 신경 차단술, IMS(근육 내 자극 치료) 등 비약물적 치료 병행
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
@@ -142,7 +150,7 @@ C. 복합성 통증 (Mixed) : 암성 통증, 만성 요통(radiculopathy 동반)
 * 온/냉찜질, 물리 치료, chiropractic, 침, 근육 강화 및 이완 운동
 * 인지행동 요법, 요가, 심호흡, mindfulness
 
-**통증의 파국화 방지**
+※ **통증의 파국화 방지**
 
 * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 상태를 교정함; 만성 통증은 신체 손상 신호가 아니라 '예민해진 신경계의 오작동'임을 설명
 * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
@@ -178,14 +186,18 @@ C. 복합성 통증 (Mixed) : 암성 통증, 만성 요통(radiculopathy 동반)
 * 대상 : non-opioid analgesics에 반응하지 않는 환자에서 opioid의 위험(예: 중독, 과용, 사망)에 비하여 이득이 더 큰 경우에 적용
 * 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 항콜린 부작용(입마름, 구역, 변비, 소변 저류)
   * 고령에서는 낙상 위험 증가 외에는 NSAID에 비하여 안전
-  * 오피오이드 유발 변비(opioid-induced constipation, OIC) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 자극성 하제(stimulant laxatives, 예: sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>)를 선제적으로 처방하는 것을 고려
+  * 오피오이드 유발 변비(opioid-induced constipation) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 [자극성 하제](../224_/073_.md#stimulant)(예: sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>)를 선제적으로 처방하는 것을 고려
 * 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용, 수면무호흡증
-* 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함
-  * 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
+* 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함; 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
 * 단기 작용 약제를 선택하여 최소 유효 용량으로 시작, 시작 후 조기에 약물 반응을 평가
 * 투여 기간 : 아편성 물질- 급성 통증 시 3일 이하 권고, 7일 초과 금지(CDC 2022); tramadol- ＜2주
 
-※ <mark style="color:$info;">**\[**</mark>[<mark style="color:$info;">**보험인정기준**</mark>](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001)<mark style="color:$info;">**]**</mark> 마약성진통제 (일반원칙)
+※ 약물 회전(opioid rotation) 시 다음의 이유로 MME의 50\~75%를 적용함
+
+1. 불완전 교차 내성  : 기존 약물에 내성이 생겼더라도 새 약물에 대한 내성은 완전히 이전되지 않으므로 새 약물은 계산된 MME보다 적은 용량으로도 동등한 효과를 냄
+2. 등가용량 환산표의 불확실성 : MME 환산비는 개인차가 크고 근사치이므로 안전 마진을 두고 시작하는 것이 원칙임
+
+※ \[보험인정기준] [마약성진통제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001) (일반원칙)
 
 * 처방 일수 제한: 비암성 통증은 1회 처방당 최대 30일까지 급여 인정
 * 성분별 상한 용량 : 비암성 통증 시 아래 용량 초과분은 본인부담 100/100
@@ -193,10 +205,11 @@ C. 복합성 통증 (Mixed) : 암성 통증, 만성 요통(radiculopathy 동반)
 
 #### <mark style="color:$primary;">Tramadol</mark>
 
+* 노르에피네프린·세로토닌 재흡수 억제 기전으로 신경병성 통증에 유리
 * 작용 : 약한 opioid, SNRI action
 * 대사 : CYP 2D6(major), 3A4(minor)
-* 다음 약제 병용 시 부작용 증가 : MAOI, SSRI, TCA, trimebutine(✽opioid 수용체에 작용)
-* 경련 발생 위험이 있으므로 고령이나 간/신기능 저하자에서는 감량
+* 다음 약제 병용 시 부작용 증가 : MAOI, SSRI, TCA, trimebutine (trimebutine이opioid 수용체에 작용)함
+* 발작 역치 저하·세로토닌 증후군 주의; 경련 발생 위험이 있으므로 고령이나 간/신기능 저하자에서는 감량
 * 용법 : 50 ㎎ → 필요시 증량 100 ㎎ bid\~qid <mark style="color:blue;">\[트리돌]</mark>
 * acetaminophen 또는 NSAID 병용으로 효과 상승
   * <mark style="color:blue;">\[울트라셋]</mark> (acetaminophen 복합제)
@@ -204,6 +217,7 @@ C. 복합성 통증 (Mixed) : 암성 통증, 만성 요통(radiculopathy 동반)
 
 #### <mark style="color:$primary;">Codeine</mark>
 
+* 국내 사용 제한적 (CYP2D6 다형성으로 효과 예측 어려움)
 * 용법 : 20\~100 ㎎ tid <mark style="color:blue;">\[인산코데인]</mark>
 * 복합제 : 코데인 10 ㎎ + ibuprofen 200 ㎎ + AAP 250 ㎎ <mark style="color:blue;">\[마이폴]</mark>
 
@@ -223,6 +237,7 @@ C. 복합성 통증 (Mixed) : 암성 통증, 만성 요통(radiculopathy 동반)
 
 #### <mark style="color:$primary;">Buprenorphine 패취제</mark>
 
+* &#x20;μ·κ·δ 수용체 부분 작용제; 신경병성 통증에 일부 근거, 신기능 저하 환자에서 유리
 * 저용량(5\~10 ㎍/wk)으로 시작 → 효과 및 부작용을 관찰하며 증량; 1주 1매 <mark style="color:blue;">\[노스판 패취]</mark>
 * 보험기준 : NSAID의 최대 용량에도 반응하지 않아 마약성 진통제를 필요로 하는 심한 통증에 1주 20㎍/h까지 인정. 1회 처방 당 최대 30일까지 인정
 
@@ -238,7 +253,7 @@ C. 복합성 통증 (Mixed) : 암성 통증, 만성 요통(radiculopathy 동반)
 
 * 병력 청취, 이학적 검사, 다양한 평가 도구로 환자 상태를 파악한 이후 꼭 필요한 경우에만 고려
 * 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정
-  * 목표 미달 시 중단 고려 (효과가 입증되지 않은 아편유사제의 관성적 지속 처방 방지)
+* 목표 미달 시 중단 고려 - 효과가 입증되지 않은 아편유사제의 관성적 지속 처방 방지
 * 펜타닐 성분이 포함된 경구용 제재나 패치 제재를 처방하는 경우 아편유사제 투약 이력을 확인해야 함. 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/))
 
 **처방 시작**
@@ -263,17 +278,17 @@ C. 복합성 통증 (Mixed) : 암성 통증, 만성 요통(radiculopathy 동반)
   * 1주 이상\~1개월 미만 : 2일마다 약 20%씩 감량
   * 3일 이상\~1주 미만 : 2일간 일일 용량을 50%로 감량 후 중단
 
-**Opioid 회전** (Opioid Rotation)
+**Opioid 회전** (Opioid rotation)
 
 * 다음의 경우 고려 : 부작용 지속, 충분한 증량에도 효과 불충분, 신기능 저하로 졸음/신경 독성 발생
-* 현재 opioid 총량의 MME를 계산 후 대체 약물의 50\~75% MME에서 시작; 부작용 및 진통 효과를 관찰하며 적정
+* 현재 opioid 총량의 MME를 계산 후 대체 약물의 50\~75% MME에서 시작; 부작용 및 진통 효과를 관찰하며 용량 조정
 
 **모니터링**
 
 * 처음 처방 시 및 장기 처방 중 환자 처방 이력을 주기적으로 검토
 * 적절한 용량 투여 여부 및 과다 복용 위험 약물과의 병용 여부를 지속 확인
 
-**통증 관리를 위해 일반적으로 처방되는 아편유사제에 대한 모르핀 밀리그램 등가 용량**
+**통증 관리를 위해 일반적으로 처방되는 아편유사제에 대한 모르핀 mg 등가 용량**
 
 <table data-full-width="true"><thead><tr><th width="188.631591796875">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">변환계수*</th></tr></thead><tbody><tr><td><strong>정맥 주사</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td></td><td>펜타닐 (Fentanyl)</td><td>100†</td></tr><tr><td><strong>정맥 주사를 경구로 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td></td><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td></td><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
 
