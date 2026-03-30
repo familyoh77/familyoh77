@@ -24,7 +24,7 @@
 
 * 객혈
 * ＞3일 지속되는 발열
-* 결핵 또는 면역 저하 위험군 - 역학적 위험인자
+* 결핵 또는 면역 저하 위험군 - 역학적 위험 인자
 
 <mark style="color:$info;">**계획적 정밀 검사 필요**</mark>
 
@@ -51,12 +51,12 @@
 
 #### <mark style="color:$primary;">만성 기침 (＞8주)</mark>
 
-* 흔한 원인 : 천식, cough-variant asthma, GERD, 상기도기침증후군
-* 덜 흔한 원인 : 약물(예: ACEI, DPP-4i), 만성기관지염, COPD, 기관지확장증, 결핵, 기관지 자극(예: 흡연, 연기, 향수, 표백제), 감염후기침(감기후기침증후군), 비천식성 호산구성 기관지염(NAEB), 습관성/심인성 기침, 기침과민증후군
+* 흔한 원인 : 상기도기침증후군, [천식](../223_/071_-asthma.md)/cough-variant asthma, [GERD](../224_/081_-gerd.md)
+* 덜 흔한 원인 : 약물(예: ACEI, DPP-4i), [만성기관지염](../223_/067_-chronic-bronchitis.md), [COPD](../223_/072_-copd.md), 기관지확장증, [결핵](../223_/070_-tuberculosis.md), 기관지 자극(예: 흡연, 연기, 향수, 표백제), 감염후기침(감기후기침증후군), 비천식성 호산구성 기관지염(NAEB), 습관성/심인성 기침, 기침과민증후군
 
-✽역류에 의한 기침은 역류를 포함한 위장관의 자각 증상이 없어도 발생할 수 있음
+※ 역류에 의한 기침은 역류를 포함한 위장관의 자각 증상이 없어도 발생할 수 있음
 
-✽감염후기침(post-infectious cough) : 상기도 감염 후 발생하여 3주 이상 지속되는 고질적 기침으로 2\~3개월 이상 지속되기도 함
+※ 감염후기침 (post-infectious cough) : 상기도 감염 후 발생하여 3주 이상 지속되는 고질적 기침으로 2\~3개월 이상 지속되기도 함
 
 ## <mark style="color:green;">지속되는 기침의 원인 질환들</mark>
 
@@ -68,9 +68,9 @@
 
 ### <mark style="color:orange;">습관성 기침 (Habit cough)</mark>
 
-* 다른 명칭 : 심인성 기침(psychogenic cough), 틱 기침(cough tic), 신체증상성 기침 장애(somatic cough disorder) — 최근에는 부정적 낙인을 피하기 위해 후자 용어를 선호하는 추세
+* 다른 명칭 : 심인성 기침(psychogenic cough), 틱 기침(cough tic), 신체증상성 기침 장애(somatic cough disorder; 최근에는 부정적 낙인을 피하기 위해 이 용어를 선호하는 추세)
 * 대부분 소아 청소년기에 발생
-* 성인에서는 여성에서 보다 흔함, 정신과적 문제 동반(예: 신체화장애, 우울증)
+* 성인에서는 여성에서 보다 흔함, 정신과적 문제 동반(예: [신체증상장애](../221_/031_-somatic-symptom-disorder.md), [우울증](../221_/027_-depression.md))
 
 #### <mark style="color:$primary;">특징</mark>
 
@@ -92,7 +92,7 @@
 
 #### <mark style="color:$primary;">기전 및 특징</mark>
 
-* **기전** : ACEI는 브라디키닌(bradykinin) 분해를 억제하여 기도 내 축적을 초래하고, 이것이 기침 수용체를 자극함
+* 기전 : ACEI는 브라디키닌(bradykinin) 분해를 억제하여 기도 내 축적을 초래하고, 이것이 기침 수용체를 자극함
 * 대부분 ACEI 투여 개시 1주일 내 시작 (수개월 후 시작되는 경우도 있음)
 * 인후부 가려움, 따끔거림, 또는 긁는 느낌
 * ACEI 투약 중단 후 1\~4일 정도에 호전되기 시작하여 1\~4주 내 회복 (3개월 이상 지속될 수 있음); 재투약 시 재발
@@ -191,7 +191,11 @@
 *   GERD : 증상이 있는 GERD에만 PPI 투여; 기침 외 다른 증상이 없는 GERD에서 PPI는 효과가 없으며 권장되지 않음. 투여 시 최소 8주 이상 유지 (☞ [위식도역류질환](../224_/081_-gerd.md))
 
     ✽ 식후 기침 악화(postprandial cough)가 뚜렷한 경우 역류성 기침 가능성이 높으며, PPI 반응 예측에 참고할 수 있음 (임상 관찰 근거)
-* 원인 미상의 refractory cough : 기침 과민증후군을 의심하며 말초 및 중추성 cough reflex 과민에 대한 neuromodulator 치료 고려; 반응이 있으면 4주내 호전
+* **원인 미상의 refractory cough** :&#x20;
+
+### 원인 미상의 refractory cough&#x20;
+
+* 기침 과민증후군을 의심하며 말초 및 중추성 cough reflex 과민에 대한 neuromodulator 치료 고려; 반응이 있으면 4주내 호전
   * gabapentin 300 ㎎/d, 점차 증량, 최대 1800 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>, pregabalin 300 ㎎/d <mark style="color:blue;">\[리리카]</mark> (보험주의; 만성 기침에 대한 급여 인정 기준 없음 - 처방 전 환자에게 비급여 사용임을 사전 설명)
   * amitriptyline 10 ㎎/d으로 시작, 최대 25 ㎎/d, 취침 전 <mark style="color:blue;">\[에트라빌]</mark> (보험주의; 동일하게 사전 설명 필요)
   * P2X3 수용체 길항제 : gefapixant <mark style="color:blue;">\[Lyfnua]</mark>가 난치성/불명확 만성 기침에 대해 일본·유럽에서 승인됨. 주요 부작용은 미각 장애(dysgeusia). 국내 미승인
