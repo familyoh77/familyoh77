@@ -170,12 +170,6 @@ R04.2 객혈
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
-
-R04.2 객혈
-
-***
-
 ### <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
