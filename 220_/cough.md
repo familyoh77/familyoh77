@@ -228,17 +228,17 @@
 
 * 기침에 대한 확립된 용법 기준은 없으며, 신경병증성 통증 용량 범위를 참고하여 저용량에서 시작 후 반응에 따라 증량 (보험주의- 환자에게 비급여 사용임을 처방 전에 설명)
 * **Gabapentin** <mark style="color:blue;">\[뉴론틴]</mark>&#x20;
-  * 300 mg qd hs → 1주 후 300 mg bid → 2주 후 300 mg tid, 최대 600 mg tid
+  * 300 ㎎ qd hs → 1주 후 300 ㎎ bid → 2주 후 300 ㎎ tid, 최대 600 ㎎ tid
   * 반응과 내약성에 따라 조정. 4주 시점에 치료 반응 평가
   * 신기능 저하 시 감량 (☞ [Gabapentinoid](001_-pain.md#gabapentinoid-a2d-ligands))
 * **Pregabalin** <mark style="color:blue;">\[리리카]</mark>&#x20;
-  * 75 mg qd hs → 1주 후 75 mg bid. 최대 150 mg bid
+  * 75 ㎎ qd hs → 1주 후 75 ㎎ bid. 최대 150 ㎎ bid
   * 신기능 저하 시 감량 (☞ [Gabapentinoid](001_-pain.md#gabapentinoid-a2d-ligands))
 
 **Amitriptyline**&#x20;
 
-* 시작 10 mg qd hs → 2주 간격으로 10 mg씩 증량. 최대 25 mg qd hs <mark style="color:blue;">\[에트라빌]</mark> (보험주의; 사전 설명 필요)
-* 노인 환자 : 10 mg qd hs 유지 권장 (항콜린 부작용 위험)
+* 시작 10 ㎎ qd hs → 2주 간격으로 10 ㎎씩 증량. 최대 25 mg qd hs <mark style="color:blue;">\[에트라빌]</mark> (보험주의; 사전 설명 필요)
+* 노인 환자 : 10 ㎎ qd hs 유지 권장 (항콜린 부작용 위험)
 
 **P2X3 수용체 길항제**&#x20;
 
