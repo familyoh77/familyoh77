@@ -128,32 +128,44 @@ R04.2 객혈
 > Amoxicillin/Clavulanate 625 mg 1T tid × 7일   (감염 원인 치료)
 > Tranexamic acid 500 mg 1T tid × 3~5일          (지혈 보조)
 >   ※ DVT·PE 병력 시 신중 투여
+>   ※ 기관지확장증 기저 질환 의심 또는 반복 감염력이 있는 경우
+>      Pseudomonas 커버리지를 고려한 항생제 선택
+>      예) Levofloxacin 500 mg 1T qd × 7~14일
 > ```
 >
-> **처방례 2. 소량 객혈 - 감염 없이 기침 유발, 기침 억제 병용**
+> **처방례 2. 소량 객혈 - 기침 억제 병용**
 >
 > ```
 > Tranexamic acid 500 mg 1T tid × 3~5일
-> Codeine phosphate 20 mg 1T bid~tid             (기침 억제; 과도한 억제 주의)
+> Codeine phosphate 20 mg 1T bid~tid
+>   ※ 기침이 심해 출혈을 악화시킬 때만 단기 제한적 사용
+>      (과도한 기침 억제 시 기도 내 혈액 배출 저해 → 질식 위험)
 >   ※ 또는 Dextromethorphan 15 mg 1T tid
 >   (☞ 진해제 참고)
 > ```
 >
-> **처방례 3. 항응고제 복용 중 소량 객혈 (와파린)**
+> **처방례 3. 항응고제 복용 중 소량 객혈**
 >
 > ```
-> 즉시 와파린 중단 후 INR 확인
-> → INR 과도 상승(>3.0) : Vitamin K 2.5~5 mg 경구 투여 고려
+> [와파린]
+> 즉시 중단 후 INR 확인
+> → INR ≤5.0, 소량 객혈 : 중단 후 모니터링 (Vitamin K 투여 불필요)
+> → INR >5.0 또는 출혈 조절 안 됨 : Vitamin K 2.5~5 mg 경구 투여 고려
 > → 출혈 지속 또는 대량화 시 즉시 응급 의뢰
->   ※ NOAC 복용 중인 경우도 중단 후 전문과 의뢰
+>
+> [NOAC]
+> 마지막 복용 시간 확인 (반감기가 짧아 중단만으로 빠르게 효과 감소)
+> eGFR 확인 (신기능 저하 시 약물 축적 위험 증가)
+> 즉시 중단 후 전문과 의뢰
 > ```
 >
 > **처방례 4. Tranexamic acid 흡입 (nebulizer)**
 >
 > ```
-> Tranexamic acid 500 mg in Normal saline 5 mL
-> → nebulizer 흡입, 필요 시 반복 (근거 수준 low)
+> Tranexamic acid 500 mg (주사제 앰플 원액 또는 NS와 1:1 혼합) nebulizer 흡입
+> 필요 시 반복 (근거 수준 low)
 >   ※ 경구 투여가 어렵거나 국소 지혈 효과를 기대할 때 고려
+>   ※ 천식·COPD 환자 : 흡입 시 기관지 경련(bronchospasm) 가능 — 주의
 > ```
 
 ***
