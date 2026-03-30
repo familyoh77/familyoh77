@@ -44,7 +44,7 @@
 #### <mark style="color:$primary;">공통</mark>
 
 * 영양 : 영양실조, Vit 결핍, 간질환, 악성 빈혈
-  * 아연(Zinc) 결핍 : 미각 이상의 중요한 교정 가능 원인; 만성 질환(간경화, 신부전, 염증성 장질환), 흡수 불량, 채식 위주 식단, 이뇨제·ACE 억제제 장기 복용 시 주의; 혈청 아연 측정 후 결핍 확인 시 보충 권고 (원소 아연 기준 25~40 mg/일; 고용량 장기 복용 시 구리 결핍 주의 → 하단 참조)
+  * 아연(Zinc) 결핍 : 미각 이상의 중요한 교정 가능 원인; 만성 질환(간경화, 신부전, 염증성 장질환), 흡수 불량, 채식 위주 식단, 이뇨제·ACE 억제제 장기 복용 시 주의; 혈청 아연 측정 후 결핍 확인 시 보충 권고 (원소 아연 기준 25\~40 mg/일; 고용량 장기 복용 시 구리 결핍 주의 → 하단 참조)
 * 내분비 : 갑상선 질환, 당뇨병, 신질환
 * 독소 노출, 편두통, Sjögren syndrome
 * 신경계 질환 : 다발경화증, 알츠하이머병, 파킨슨병, 뇌신경 손상(뇌혈관 질환, 두부 외상)
@@ -53,10 +53,6 @@
   * 이취증(Parosmia) : 실제 냄새가 다른 냄새(주로 불쾌한 냄새)로 왜곡되어 인식되는 증상; 바이러스 감염 후 회복 과정에서 흔히 발생
   * 환각취(Phantosmia) : 아무런 냄새 자극이 없는 상황에서 냄새를 느끼는 증상
 * 약물
-
-{% hint style="info" %}
-**금속성 맛(Metallic taste) 대표 약물** : Metronidazole, Clarithromycin (항생제) / Metformin (항당뇨) / Lithium (조울증) — 해당 약물 복용 중 금속 맛 호소 시 우선 확인
-{% endhint %}
 
 1. **항생제 및 항균제**
 
@@ -73,6 +69,8 @@
 4. **기타 약물** (내분비/항암제/파킨슨)
 
 <table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td></td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>각종 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
+
+※ 대표적인금속성 맛(Metallic taste) :  metronidazole, clarithromycin, metformin, lithium - 해당 약물 복용 중 금속 맛 호소 시 우선 확인
 
 ## <mark style="color:green;">진단</mark>
 
@@ -154,5 +152,5 @@ R43 후각 및 미각 장애
 #### <mark style="color:$primary;">이럴 때는 진료가 필요합니다</mark>
 
 * 후각·미각 손실이 갑자기 발생하거나 3개월 이상 지속되는 경우
-* 특정 약물 복용 후 미각 이상이 생긴 경우 — 임의로 약을 중단하지 말고 의사와 상의하십시오
+* 특정 약물 복용 후 미각 이상이 생긴 경우 - 임의로 약을 중단하지 말고 의사와 상의하십시오
 * 냄새가 왜곡되어 불쾌한 냄새로 느껴지거나(이취증, Parosmia), 실제로 없는 냄새가 느껴지는 경우(환각취, Phantosmia)
