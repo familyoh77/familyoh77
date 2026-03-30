@@ -114,41 +114,47 @@ _<mark style="color:$info;">Ref. Radchenko C et al. British Thoracic Society Gui
 
 ***
 
-### <mark style="color:orange;">처방례</mark>
+### <mark style="color:red;">질병코드</mark>
 
-**① 소량 객혈 - 감염성 원인 동반, 예: 폐렴·기관지염**
+R04.2 객혈
 
-```
-Amoxicillin/Clavulanate 625 mg 1T tid × 7일   (감염 원인 치료)
-Tranexamic acid 500 mg 1T tid × 3~5일          (지혈 보조)
-  ※ DVT·PE 병력 시 신중 투여
-```
+***
 
-**② 소량 객혈 - 감염 없이 기침 유발, 기침 억제 병용**
+## <mark style="color:purple;">처방례</mark>
 
-```
-Tranexamic acid 500 mg 1T tid × 3~5일
-Codeine phosphate 20 mg 1T bid~tid             (기침 억제; 과도한 억제 주의)
-  ※ 또는 Dextromethorphan 15 mg 1T tid
-  (☞ 진해제 참고)
-```
-
-**③ 항응고제 복용 중 소량 객혈 (와파린)**
-
-```
-즉시 와파린 중단 후 INR 확인
-→ INR 과도 상승(>3.0) : Vitamin K 2.5~5 mg 경구 투여 고려
-→ 출혈 지속 또는 대량화 시 즉시 응급 의뢰
-  ※ NOAC 복용 중인 경우도 중단 후 전문과 의뢰
-```
-
-**④ Tranexamic acid 흡입 (nebulizer)**
-
-```
-Tranexamic acid 500 mg in Normal saline 5 mL
-→ nebulizer 흡입, 필요 시 반복 (근거 수준 low)
-  ※ 경구 투여가 어렵거나 국소 지혈 효과를 기대할 때 고려
-```
+> **처방례 1. 소량 객혈 - 감염성 원인 동반 (예: 폐렴·기관지염)**
+>
+> ```
+> Amoxicillin/Clavulanate 625 mg 1T tid × 7일   (감염 원인 치료)
+> Tranexamic acid 500 mg 1T tid × 3~5일          (지혈 보조)
+>   ※ DVT·PE 병력 시 신중 투여
+> ```
+>
+> **처방례 2. 소량 객혈 - 감염 없이 기침 유발, 기침 억제 병용**
+>
+> ```
+> Tranexamic acid 500 mg 1T tid × 3~5일
+> Codeine phosphate 20 mg 1T bid~tid             (기침 억제; 과도한 억제 주의)
+>   ※ 또는 Dextromethorphan 15 mg 1T tid
+>   (☞ 진해제 참고)
+> ```
+>
+> **처방례 3. 항응고제 복용 중 소량 객혈 (와파린)**
+>
+> ```
+> 즉시 와파린 중단 후 INR 확인
+> → INR 과도 상승(>3.0) : Vitamin K 2.5~5 mg 경구 투여 고려
+> → 출혈 지속 또는 대량화 시 즉시 응급 의뢰
+>   ※ NOAC 복용 중인 경우도 중단 후 전문과 의뢰
+> ```
+>
+> **처방례 4. Tranexamic acid 흡입 (nebulizer)**
+>
+> ```
+> Tranexamic acid 500 mg in Normal saline 5 mL
+> → nebulizer 흡입, 필요 시 반복 (근거 수준 low)
+>   ※ 경구 투여가 어렵거나 국소 지혈 효과를 기대할 때 고려
+> ```
 
 ***
 
