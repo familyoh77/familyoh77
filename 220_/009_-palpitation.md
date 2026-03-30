@@ -26,7 +26,7 @@
 * 하지 부종 (심부전 시사)
 * 국소 신경학적 증상 (색전증 시사)
 
-<mark style="color:$info;">**외래 추적 / 저위험 — 관찰**</mark>
+<mark style="color:$info;">**외래 추적 / 저위험 - 관찰**</mark>
 
 * 빠르거나 / 쿵거리는 맥박
 * Short fluttering
@@ -66,13 +66,13 @@
 
 ### <mark style="color:orange;">심방세동(AF) 세부 관리 알고리즘</mark>
 
-#### <mark style="color:$primary;">진단 및 초기 평가 (Step 1: Diagnose & Characterize)</mark>
+#### <mark style="color:$primary;">Step 1. 진단 및 초기 평가</mark>
 
 * 진단 확진: 표준 12-유도 ECG 또는 30초 이상의 단일 유도 ECG(스마트워치 등)에서 P파 소실 및 불규칙한 RR 간격 확인
 * 증상 평가: EHRA score 등을 활용하여 환자의 일상생활 제한 정도 파악
 * 기저 원인 파악: 고혈압, 심부전, 갑상선 기능 항진증, 수면무호흡증(OSA), 과도한 음주 여부 확인
 
-#### <mark style="color:$primary;">뇌졸중 예방 (Step 2: Stroke Prevention - CC)</mark>
+#### <mark style="color:$primary;">Step 2. 뇌졸중 예방</mark>&#x20;
 
 * CHA₂DS₂-VASc Score 점수에 따라 항응고 요법(NOAC 등) 필요성을 결정
 
@@ -82,7 +82,7 @@
 * 남성 1점, 여성 2점: 환자의 상태에 따라 항응고 요법 고려
 * 0점(남성), 1점(여성): 항응고 요법 불필요
 
-#### <mark style="color:$primary;">증상 조절 (Step 3: Symptom Control)</mark>
+#### <mark style="color:$primary;">Step 3. 증상 조절</mark>
 
 * 환자의 상태에 따라 심박수 조절 vs 리듬 조절 중 선택
 
