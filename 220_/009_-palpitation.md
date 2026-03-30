@@ -11,7 +11,7 @@
 * 흉통
 * 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)
 * 빈호흡(＞30회/분) 또는 호흡 곤란, 기좌 호흡
-* 빈맥(＞130회/분)
+* 빈맥(＞150회/분)
 * Syncope or near-syncope 동반 (☞ 실신)
 * High degree AV block, 지속성 심실빈맥, WPW 증후군을 동반한 AF
 * 고위험 구조적 심장 질환 있음
