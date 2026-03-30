@@ -60,7 +60,7 @@
 
 2\. **항고혈압제 및 심혈관계 약물** : 가장 흔하게 미각 이상을 일으키는 범주로, 특히 아연(Zinc) 대사에 영향을 주는 경우가 많음
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>ACE 억제제</td><td>Captopril</td><td>미각상실증(Ageusia)의 대표적 원인 약물</td></tr><tr><td>칼슘채널차단제</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진으로 인한 미각 저하</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th width="224"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>ACE 억제제</td><td>Captopril</td><td>미각상실증(Ageusia)의 대표적 원인 약물</td></tr><tr><td>칼슘채널차단제</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진으로 인한 미각 저하</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td></td></tr></tbody></table>
 
 3\. **신경정신과 약물** (항우울제/항경련제/기타)
 
@@ -89,7 +89,7 @@
 * 기저 질환 치료, 비염 치료
 * 적절하고 고른 영양 섭취; 특히 Vit A/B 복합제, Zn 등 미네랄 보충 (단, 결핍 교정 목적이며 치료 효과는 명확히 입증되지 않음)
   * 아연 과잉 보충 주의 : 고용량 아연(>40 mg/일)을 장기 복용하면 구리(Copper) 결핍을 초래하여 빈혈, 신경병증 등을 유발할 수 있음; 결핍이 확인된 경우 적정 용량으로 단기 보충하고, 장기 복용 시에는 구리 상태를 모니터링할 것
-* 구강 관리(☞ [입안마름](../222_/056_-dry-mouth-xerostomia.md)), 규칙적 치과 진료
+* 구강 관리(☞ [입안마름](../222_/056_-dry-mouth-xerostomia.md)증), 규칙적 치과 진료
 * 금연
 * 독성 물질 노출 회피
 *   비부비동 질환 치료 : 만성 비부비동염·비용종이 원인인 경우 비강 내 스테로이드(INCS)를 우선 시행하며, 수술적 치료(FESS)는 내과적 치료 실패 후 고려 \[EPOS 2020 권고]
