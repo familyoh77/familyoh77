@@ -362,7 +362,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 
-**신기능별 용량 조절** (가바펜티노이드는 100% 신장 배설하므로 주의)
+**신기능별 용량 조절** (gabapentinoid는 100% 신장 배설하므로 주의)
 
 <table><thead><tr><th width="148">eGFR (mL/min)</th><th width="202">Gabapentin 최대 용량</th><th>Pregabalin 최대 용량</th></tr></thead><tbody><tr><td>≥60</td><td>1,200 ㎎ tid (표준)</td><td>600 ㎎/d (표준)</td></tr><tr><td>30~59</td><td>600 ㎎ bid</td><td>300 ㎎/d</td></tr><tr><td>15~29</td><td>700 ㎎ qd</td><td>150 ㎎/d</td></tr><tr><td>&#x3C;15 (투석 미시행)</td><td>300 ㎎ qd</td><td>75 ㎎/d</td></tr><tr><td>투석 환자</td><td>투석 후 125~350 ㎎ 보충</td><td>투석 후 25~50 ㎎ 보충</td></tr></tbody></table>
 
