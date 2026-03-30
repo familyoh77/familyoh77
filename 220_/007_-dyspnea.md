@@ -79,7 +79,7 @@
 
 * SGLT2 억제제 : 정상 혈당 범위의 당뇨병성 케톤산증(euglycemic DKA) 유발 → 대사성 산증에 의한 Kussmaul 호흡; 복통, 오심 동반 시 의심
 * Amiodarone : 폐독성(Amiodarone-induced pulmonary toxicity, AIPT); 복용 환자에서 잠행성 발병, 마른기침, 발열, 체중 감소 동반 시 의심
-* 기타 : Methotrexate(간질성 폐렴)
+* Methotrexate : 간질성 폐렴
 
 ## <mark style="color:green;">진단</mark>
 
@@ -87,7 +87,7 @@
 
 * 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel, spirometry, pulse oximetry; 심부전 의심 시 BNP 또는 NT-proBNP
   * BNP 해석 주의 : 비만 환자에서는 지방조직의 BNP 분해 증가로 수치가 실제보다 낮게 측정될 수 있으므로(BNP deficiency) 심부전을 과소평가하지 않도록 주의; 반대로 고령·신부전·패혈증 환자에서는 기저치가 높아 위양성 가능성이 있음
-* D-dimer : 폐색전증 저위험군에서 배제 목적으로 시행; 해석 및 임상 적용은 ☞ 흉통 참조
+* D-dimer : 폐색전증 저위험군에서 배제 목적으로 시행(☞ [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe))
   * 위양성 주의 : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음; 50세 이상에서는 연령 보정 D-dimer (age × 10 ㎍/L)를 기준치로 적용하여 불필요한 CTPA를 줄일 수 있음 ([MDCalc Age-adjusted D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer))
 * 선택적 시행 : 심장 초음파(좌심실 기능·판막 이상 평가), 폐 초음파(B-line 확인 → 폐부종/심부전 감별), cardiac stress tests, PFT(만성 호흡 곤란에서 우선 고려 — 폐쇄성 패턴: 천식·COPD; 제한성 패턴: 간질성 폐질환·비만·흉막 질환), CT
 
@@ -108,11 +108,11 @@
 
 #### <mark style="color:$primary;">급성</mark>
 
-* 급성, 간헐적 → 급성 관상동맥증후군(ACS), bronchospasm, 폐색전증
-* 급성, 심한 호흡 곤란, 흉통 또는 가슴 조임 → 급성 관상동맥증후군(ACS), 기흉, 폐색전증, 무기폐
+* 간헐적 → 급성 관상동맥증후군(ACS), bronchospasm, 폐색전증
+* 심한 호흡 곤란, 흉통 또는 가슴 조임 → 급성 관상동맥증후군(ACS), 기흉, 폐색전증, 무기폐
   * Spontaneous pneumothorax : 일차성(기저 폐질환 없는 마른 체형의 젊은 남성에서 호발), 이차성(COPD·결핵 등 기저 폐질환 환자에서 발생; 예비 폐기능이 낮아 더 위험)
   * 폐색전증 : 갑자기 시작되는 흉막염성 흉통, 객혈 동반; 4주 내 최근 지속적인 immobilization 또는 수술 병력, estrogen 치료, DVT 위험 인자(thromboembolism, 암, 비만, 하지 외상); Wells score(사전 확률 분류 → D-dimer 또는 CTPA 결정) 또는 YEARS algorithm(hs-D-dimer와 결합하여 CTPA 필요 여부 직접 결정; CTPA 시행률 감소 효과)으로 폐색전증 확률 평가 (☞ [계산기](https://www.mdcalc.com/calc/4067/years-algorithm-for-pulmonary-embolism-pe))
-* 급성, 지속적 → 폐렴, 급성 기관지염, 만성 질환의 급성 악화
+* 지속적 → 폐렴, 급성 기관지염, 만성 질환의 급성 악화
 
 #### <mark style="color:$primary;">호흡기 상태</mark>
 
@@ -149,10 +149,12 @@
 
 * 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보; 필요시 즉시 119 호출 및 전원
 * 앉은 자세 유지
-* 과호흡(공황/불안) : 복식호흡 유도, 조절 호흡(pursed-lip breathing — 코로 2초 들이쉬고, 입술을 오므린 채 4초 천천히 내쉼; 기도 내압을 높여 소기도 허탈을 방지하고 호흡수를 줄이는 효과)
+* 과호흡(공황/불안) : 복식호흡 유도, 조절 호흡(pursed-lip breathing)
+  * pursed-lip breathing : 코로 2초 들이쉬고, 입술을 오므린 채 4초 천천히 내쉼; 기도 내압을 높여 소기도 허탈을 방지하고 호흡수를 줄이는 효과
   * 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
-* 산소 공급(마스크) : SpO₂ 목표- ≥94%(5\~10 L/min), COPD 환자 88\~92%(1\~2 L/min부터 적정 — 고농도 산소 투여 시 저산소성 호흡 드라이브 억제 및 V/Q 불균형 악화로 CO₂ 저류·이산화탄소 혼수 위험; 목표 범위를 초과하지 않도록 주의), 임신부 ≥95%
-* Nitrate : nitroglycerin 0.6 ㎎ 설하 투여 <mark style="color:blue;">\[니트로글리세린 설하정]</mark>(0.6 ㎎/T) (☞ [nitrate](../225_/097_-angina-pectoris.md#nitrate))
+* 산소 공급(마스크) : SpO₂ 목표- ≥94%(5\~10 L/min), COPD 환자 88\~92%(1\~2 L/min부터 적정, 임신부 ≥95%&#x20;
+  * 고농도 산소 투여 시 저산소성 호흡 드라이브 억제 및 V/Q 불균형 악화로 CO₂ 저류·이산화탄소 혼수 위험; 목표 범위를 초과하지 않도록 주의)
+* Nitrate : nitroglycerin 0.6 ㎎ 설하 투여 <mark style="color:blue;">\[니트로글리세린 설하정 0.6 ㎎]</mark> (☞ [nitrate](../225_/097_-angina-pectoris.md#nitrate))
   * 금기 : SBP ＜90 ㎜Hg; PDE5 억제제(sildenafil 48시간, tadalafil 72시간 이내) 복용
   * ✽ 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의; 우심실은 전부하(preload) 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
 * 이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
