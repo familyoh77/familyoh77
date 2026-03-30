@@ -18,6 +18,7 @@
 * 찢어지는 흉통 + 양측 상지 혈압 차이(＞20 ㎜Hg; ≥15 ㎜Hg부터 주의 깊게 관찰) 또는 비대칭적 맥박 (대동맥 박리 시사)
 * 흉통 + 신경학적 결손 (대동맥 박리의 경동맥·척추동맥 침범 시사)
 * 연하 통증(odynophagia) 또는 반복되는 구토 (식도 파열 시사)
+* 편측 호흡음 소실 + 저혈압·빈맥 + 기관 변위 (긴장성 기흉 시사 — 즉각 바늘 감압 필요)
 
 <mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
@@ -36,7 +37,7 @@
 
 ## <mark style="color:green;">원인</mark>
 
-#### <mark style="color:$primary;">Cardiac (심장성)</mark>
+### <mark style="color:orange;">Cardiac (심장성)</mark>
 
 * 심장 허혈 또는 심장 구조에서 직접 기인하는 흉통
 * 흉통 전체의 약 15% 차지
@@ -57,7 +58,7 @@
 * 판막질환(승모판 탈출증, 대동맥판 역류 등)
 * Takotsubo 심근병증
 
-#### <mark style="color:$primary;">Possible Cardiac (심장성 가능)</mark>
+### <mark style="color:orange;">Possible Cardiac (심장성 가능)</mark>
 
 * 심장 기원 가능성을 완전히 배제할 수 없는 상태. 추가 평가 필요
 * 흉통 특성이나 위험 인자가 허혈성이지만 검사에서 확인되지 않은 경우
@@ -65,7 +66,7 @@
 * 비특이적 ECG 변화 동반 흉통
 * 심장 외 원인이 확인되기 전까지의 미분류 흉통
 
-#### <mark style="color:$primary;">Noncardiac (비심장성)</mark>
+### <mark style="color:orange;">Noncardiac (비심장성)</mark>
 
 * 심장 질환이 의심되지 않는 흉통
 * 근골격 (\~50%) : 늑연골염, Tietze 증후군, 늑골 골절, 신경근병증, 섬유근통
@@ -89,7 +90,7 @@
 **hs-cTn**
 
 * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
-* 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증 등에서도 상승하므로 baseline 대비 동적 변화(Rise and/or Fall, Δ)가 급성 MI 진단의 핵심임
+* 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증, 심방세동, 격렬한 운동 후 등에서도 상승할 수 있으므로 baseline 대비 동적 변화(Rise and/or Fall, Δ)가 급성 MI 진단의 핵심임; 단독 수치만으로 과잉 진단하지 않도록 주의
 * 초기값이 검출 한계(LoD) 미만 또는 assay별 rule-out cut-off 이하이면 NSTEMI 배제 가능(rule-out); 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 절대 변화량(Δ, absolute change)으로 판단 - 이를 ESC 신속 배제·확진 프로토콜(0/1h 또는 0/3h)이라 함
 * Assay별 cut-off 수치가 상이하므로 검사 기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 해당 제조사의 rule-out/rule-in 기준값을 반드시 확인하여 적용할 것
 * 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
@@ -104,7 +105,7 @@ _\*65세 미만에서 CCTA 선호 ._ 2021 AHA/ACC 권고
 
 #### <mark style="color:$primary;">Myocardial ischemia</mark>
 
-<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복<br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번</td></tr><tr><td><strong>동반 특징</strong></td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함 (2021 AHA/ACC)</td></tr></tbody></table>
+<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복<br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번</td></tr><tr><td><strong>동반 특징</strong></td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함 (2021 AHA/ACC Chest Pain Guideline)<br>※ 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Pericarditis</mark>
 
@@ -116,20 +117,20 @@ _\*65세 미만에서 CCTA 선호 ._ 2021 AHA/ACC 권고
 
 \*등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨
 
-_<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis & Pericarditis Guidelines, 2025 ACC/AHA ACS Guideline</mark>_
+_<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis & Pericarditis Guidelines</mark>_
 
 ### <mark style="color:orange;">Acute Coronary Syndrome (ACS)</mark>
 
 * 급성 심근 허혈로 인한 일련의 임상증후군
 * 분류 : unstable angina, ST elevation MI (STEMI), non–ST segment elevation MI (NSTEMI)
-* ACS 초기 평가의 핵심 원칙: **A**bnormal ECG(즉각 ECG 시행) → **C**linical context(임상 맥락 및 검사 결과 종합) → **S**table(혈역학적 안정 여부 확인).
+* ACS 초기 평가의 핵심 원칙: **A**bnormal ECG(즉각 ECG 시행) → **C**linical context(임상 맥락 및 검사 결과 종합) → **S**table(혈역학적 안정 여부 확인)
 * ACS 의심 ECG 소견 : ST elevation, new-onset LBBB, Q wave 존재, new T-wave inversions
 
 #### <mark style="color:$primary;">급성 심근경색 가능성</mark>
 
 * 가능성 높음 : 활동과 관련, 어깨 및 팔 방사통, 발한, 구역/구토, 압박감, 과거에 경험했던 심근경색 증상과 유사하거나 더 심함
 * 가능성 낮음 : 압박에 의해 재현됨, 예리한 느낌, 위치가 명확, 흉막 통증 느낌, 통증 부위 감염(연조직염, 대상포진 등)
-* 여성에서의 ACS 증상 : 여성은 전형적인 흉부 압박감 외에 다음 증상이 더 흔하게 나타남; 어지럼증, 실신, 오심, 구토, 턱·등 통증, 호흡곤란, 견갑골 사이 통증, 두근거림, 피로; 이러한 비전형 증상만 있어도 ACS를 배제하지 않도록 주의(2023 ESC)
+* 여성에서의 ACS 증상 : 여성은 전형적인 흉부 압박감 외에 다음 증상이 더 흔하게 나타남; 어지럼증, 실신, 오심, 구토, 턱·등 통증, 호흡곤란, 견갑골 사이 통증, 두근거림, 피로; 이러한 증상만 있어도 ACS를 배제하지 않도록 주의 (2023 ESC)
 
 #### <mark style="color:$primary;">허혈성 심질환의 전형적인 흉통</mark>
 
@@ -263,7 +264,7 @@ R07.4 상세불명의 흉통
 > * 흉통 발생 시 앉거나 누운 상태에서 혀 아래에 1정을 녹이십시오. 삼키지 마십시오.
 > * 5분 후에도 증상이 지속되면 즉시 119에 신고하십시오. 신고 후 대기하면서 2정째를 복용할 수 있으며, 최대 3정까지 가능합니다.
 > * 기립성 저혈압(갑자기 일어날 때 어지럼)이 생길 수 있으므로 복용 중에는 앉거나 누운 자세를 유지하십시오.
-> * 발기부전 치료제(실데나필, 타달라필 등)를 복용 중인 경우 절대 함께 사용하지 마십시오. 심각한 저혈압이 발생할 수 있습니다.
+> * 발기부전 치료제를 복용 중인 경우 절대 함께 사용하지 마십시오 — 실데나필(비아그라 등)은 복용 후 24시간 이내, 타달라필(시알리스 등)은 복용 후 48시간 이내 니트로글리세린 사용 금기. 심각한 저혈압이 발생할 수 있습니다.
 > * 직사광선과 열을 피해 보관하고, 개봉 후 6개월 이내에 사용하십시오.
 
 > **아스피린 — 심근경색 의심 시 응급 처치**
@@ -380,7 +381,7 @@ R07.4 상세불명의 흉통
 >
 > * 앉은 자세에서 1정을 혀 아래에 넣고 녹입니다. 삼키지 마십시오.
 > * **5분 후에도 호전이 없으면 즉시 119에 신고하십시오.** 신고 후 대기하면서 2정째를 복용할 수 있으며, 최대 3정까지 가능합니다.
-> * ⚠️ 발기부전 치료제(실데나필·타달라필 등)를 복용 중이라면 절대 사용 금지 — 치명적 저혈압 유발 가능
+> * ⚠️ 발기부전 치료제를 복용 중이라면 절대 사용 금지 — 실데나필(비아그라 등) 복용 후 24시간 이내, 타달라필(시알리스 등) 복용 후 48시간 이내는 치명적 저혈압 유발 가능
 
 > **아스피린 (심근경색 의심 시)**
 >
