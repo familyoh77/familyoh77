@@ -64,7 +64,31 @@
   * GLP-1 수용체 작용제(삭센다, 오젬픽 등) : 경도의 심박수 증가(평균 2\~4 bpm) 유발 가능 — 체중 감량 목적 사용 증가로 확인 필요
 * 허브 및 영양 보충제, 특정 음식
 
-### <mark style="color:orange;">심방세동(AF) 세부 관리 알고리즘</mark>
+### <mark style="color:orange;">심방세동(AF)</mark>
+
+* 두근거림의 심장 원인 중 가장 흔한 부정맥(15%); P파 소실 및 불규칙한 RR 간격이 특징
+* 기저 원인 : 고혈압, 심부전, 갑상선 기능 항진증, 수면무호흡증(OSA), 과도한 음주 등
+
+***
+
+## <mark style="color:green;">진단</mark>
+
+### <mark style="color:orange;">초기 평가</mark>
+
+* 병력 청취 : 발생 양상(규칙/불규칙), 지속 시간, 유발·완화 요인(운동·식사·음주·스트레스), 동반 증상(흉통·실신·호흡 곤란)
+* 신체 검진 : 맥박(rate·rhythm), 혈압, 갑상선 촉진, 심잡음
+* 기본 검사 : 12-lead ECG, CBC, 전해질(K, Mg), TSH, 혈당
+
+### <mark style="color:orange;">장기 심전도 모니터링</mark>
+
+* 표준 12-lead ECG는 간헐적 두근거림 포착에 한계가 있음
+* 증상 재현이 어렵거나 반복되는 경우 다음을 고려:
+  * 패치형 장기 심전도 (예: 메모패치, KardiaMobile) : 수일\~수주 연속 기록 가능
+  * 스마트워치 ECG (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능
+  * 24시간 Holter 검사 : 증상 빈도가 매일인 경우
+* 증상 기록지(Symptom Diary) 작성 : 스마트워치 기록 시 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 — 진단 효율을 크게 높임
+
+### <mark style="color:orange;">심방세동(AF) 세부 진단 및 관리 알고리즘</mark>
 
 #### <mark style="color:$primary;">Step 1. 진단 및 초기 평가</mark>
 
@@ -76,7 +100,7 @@
 
 * CHA₂DS₂-VASc Score 점수에 따라 항응고 요법(NOAC 등) 필요성을 결정
 
-<table data-header-hidden><thead><tr><th width="238.78948974609375"></th><th width="55.315673828125"></th><th width="322.970458984375"></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>점수</strong></td><td><strong>내용</strong></td></tr><tr><td><strong>C</strong> (Congestive Heart Failure)</td><td>1</td><td>심부전 또는 좌심실 기능 저하</td></tr><tr><td><strong>H</strong> (Hypertension)</td><td>1</td><td>고혈압</td></tr><tr><td><strong>A₂</strong> (Age ≥75)</td><td>2</td><td>75세 이상 (65~74세는 1점)</td></tr><tr><td><strong>D</strong> (Diabetes Mellitus)</td><td>1</td><td>당뇨병</td></tr><tr><td><strong>S₂</strong> (Stroke/TIA)</td><td>2</td><td>뇌졸중, 일과성 허혈 발작, 혈전색전증 과거력</td></tr><tr><td><strong>V</strong> (Vascular disease)</td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 플라크</td></tr><tr><td><strong>Sc</strong> (Sex category)</td><td>1</td><td>여성 (다른 위험 인자가 없을 때는 0점으로 간주)</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="238.78948974609375"></th><th width="55.315673828125"></th><th width="322.970458984375"></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>점수</strong></td><td><strong>내용</strong></td></tr><tr><td><strong>C</strong> (Congestive Heart Failure)</td><td>1</td><td>심부전 또는 좌심실 기능 저하</td></tr><tr><td><strong>H</strong> (Hypertension)</td><td>1</td><td>고혈압</td></tr><tr><td><strong>A₂</strong> (Age ≥75)</td><td>2</td><td>75세 이상</td></tr><tr><td><strong>A</strong> (Age 65–74)</td><td>1</td><td>65–74세</td></tr><tr><td><strong>D</strong> (Diabetes Mellitus)</td><td>1</td><td>당뇨병</td></tr><tr><td><strong>S₂</strong> (Stroke/TIA)</td><td>2</td><td>뇌졸중, 일과성 허혈 발작, 혈전색전증 과거력</td></tr><tr><td><strong>V</strong> (Vascular disease)</td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 플라크</td></tr><tr><td><strong>Sc</strong> (Sex category)</td><td>1</td><td>여성 (다른 위험 인자가 없을 때는 0점으로 간주)</td></tr></tbody></table>
 
 * 남성 ≥2점, 여성 ≥3점: 항응고 요법(NOAC) 강력 권고
 * 남성 1점, 여성 2점: 환자의 상태에 따라 항응고 요법 고려
@@ -136,18 +160,9 @@
 * 방법
   1. 환자를 45도 반좌위로 앉힘
   2. 10 mL 주사기 피스톤을 입으로 불어 움직일 정도의 힘(40 mmHg의 압력)으로 15초간 Valsalva 시행
-  3. 불기를 멈추마자 즉시 수평으로 눕히고 다리를 45도 거상, 이자세를 15초 유지
-  4. 다시 45도앉은 자세로 돌아와 리듬을 확인
+  3. 불기를 멈추자마자 즉시 수평으로 눕히고 다리를 45도 거상, 이 자세를 15초 유지
+  4. 다시 45도 앉은 자세로 돌아와 리듬을 확인
 * 고령, 허혈성 심질환, 최근 뇌졸중/TIA 병력환자에서는 경동맥동 마사지 피함
-
-### <mark style="color:orange;">진단 보조 : 장기 심전도 모니터링</mark>
-
-* 표준 12-lead ECG는 간헐적 두근거림 포착에 한계가 있음
-* 증상 재현이 어렵거나 반복되는 경우 다음을 고려:
-  * 패치형 장기 심전도 (예: 메모패치, KardiaMobile) : 수일\~수주 연속 기록 가능
-  * 스마트워치 ECG (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능
-  * 24시간 Holter 검사 : 증상 빈도가 매일인 경우
-* 증상 기록지(Symptom Diary) 작성 : 스마트워치 기록 시 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 - 진단 효율을 크게 높임
 
 ### <mark style="color:orange;">대증 치료</mark>
 
@@ -166,14 +181,14 @@ R00.2 두근거림
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.**
+> **처방례 1. 기능성 두근거림 — 불안·스트레스 유발 (필요 시 단기 대증)**
 >
 > ```
 > 인데놀 10 ㎎/T 2T 필요시
 > 자낙스 0.25 ㎎/T 1T 필요시
 > ```
 >
-> **처방례 2.**
+> **처방례 2. 두근거림 — 심박수 조절 + 항불안 병용**
 >
 > ```
 > 헤르벤 서방정 90 ㎎/T 2T #2  
