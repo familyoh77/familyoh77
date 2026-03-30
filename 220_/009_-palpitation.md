@@ -90,7 +90,9 @@
   * 이식형 루프 기록기 (Insertable Loop Recorder, ILR) : 증상이 수개월에 한 번 정도로 매우 드물면서 실신을 동반하는 등 고위험군에서 고려; 상급병원 의뢰
 * 증상 기록지(Symptom Diary) 작성 : 스마트워치 기록 시 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 — 진단 효율을 크게 높임
 
-### <mark style="color:orange;">심방세동(AF) 관리 — ABC 경로 (2020 ESC 가이드라인)</mark>
+### <mark style="color:orange;">심방세동(AF) 관리 — ABC 경로</mark>&#x20;
+
+(2020 ESC)
 
 #### <mark style="color:$primary;">진단 확진</mark>
 
@@ -98,7 +100,7 @@
 * 증상 평가: EHRA score 등을 활용하여 환자의 일상생활 제한 정도 파악
 * 기저 원인 파악: 고혈압, 심부전, 갑상선 기능 항진증, 수면무호흡증(OSA), 과도한 음주 여부 확인
 
-#### <mark style="color:$primary;">A — Anticoagulation (뇌졸중 예방)</mark>
+#### <mark style="color:$primary;">A - Anticoagulation (뇌졸중 예방)</mark>
 
 * CHA₂DS₂-VASc Score 점수에 따라 항응고 요법(NOAC 등) 필요성을 결정
 
@@ -108,7 +110,7 @@
 * 남성 1점, 여성 2점: 환자의 상태에 따라 항응고 요법 고려
 * 0점(남성), 1점(여성): 항응고 요법 불필요
 
-#### <mark style="color:$primary;">B — Better symptom management (증상 조절)</mark>
+#### <mark style="color:$primary;">B - Better symptom management (증상 조절)</mark>
 
 * 환자의 상태에 따라 심박수 조절 vs 리듬 조절 중 선택
 
@@ -128,7 +130,7 @@
 * 방법: 항부정맥제 투여, 전기적 심율동 전환, 전도자 절제술(Ablation)
 * 주의: 발생 후 48시간 이내 여부가 불확실하거나 48시간 초과 시 혈전 확인(경식도 초음파) 또는 3주 이상의 선행 항응고 요법 필수
 
-#### <mark style="color:$primary;">C — Cardiovascular risk and Comorbidity management (기저 질환 관리)</mark>
+#### <mark style="color:$primary;">C - Cardiovascular risk & Comorbidity management (기저 질환 관리)</mark>
 
 * 고혈압, 당뇨, 심부전 등 심혈관 위험 인자 적극 조절
 * 수면무호흡증(OSA) : CPAP 치료가 AF 재발 감소에 효과적
@@ -175,16 +177,12 @@
 
 ### <mark style="color:orange;">대증 치료</mark>
 
-{% hint style="danger" %}
-**WPW 증후군 동반 심방세동 — AV node 차단제 절대 금기**
-
-WPW 증후군이 의심되거나 동반된 심방세동 환자에게 β-차단제·non-DHP CCB·Digoxin 등 AV node 차단제를 투여하면, 자극이 부전도로(accessory pathway)로 집중되어 심실세동(VF)으로 이행될 위험이 있음 — **즉시 응급 의뢰**
-{% endhint %}
-
 * 심장 문제 등 원인 질환 배제 후 시행 (☞ [흉통](002_-chest-pain.md))
 * 항불안제 : alprazolam <mark style="color:blue;">\[자낙스]</mark>, lorazepam <mark style="color:blue;">\[아티반]</mark> (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
 * β-차단제 : propranolol 10\~120 ㎎/d <mark style="color:blue;">\[인데놀]</mark>, metoprolol 100\~200 ㎎/d <mark style="color:blue;">\[베타록]</mark> (☞ [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
 * non-DHP계 CCB : diltiazem 120\~180 ㎎/d <mark style="color:blue;">\[헤르벤]</mark>, verapamil 120\~360 ㎎/d <mark style="color:blue;">\[이솦틴]</mark> (☞ [CCB](../225_/095_-hypertension.md#calcium-ca-channel-blocker-ccb))
+
+※ WPW 증후군 동반 심방세동 - AV node 차단제 절대 금기; WPW 증후군이 의심되거나 동반된 심방세동 환자에게 β-차단제·non-DHP CCB·Digoxin 등 AV node 차단제를 투여하면, 자극이 부전도로(accessory pathway)로 집중되어 심실세동(VF)으로 이행될 위험이 있음 - 즉시 응급 의뢰
 
 ***
 
@@ -213,9 +211,9 @@ R00.2 두근거림
 {% hint style="warning" %}
 **인데놀(Propranolol) 처방 시 주의**
 
-* 비선택적 β-차단제로 기관지경련 위험 — 천식·COPD 환자에게는 원칙적으로 금기; 불가피하게 사용해야 하는 경우 β₁-선택성 약물(예: metoprolol, bisoprolol)을 저용량부터 사용하고 호흡기 증상을 면밀히 모니터링
+* 비선택적 β-차단제로 기관지경련 위험 — 천식·COPD 환자에게는 원칙적으로 금기; 불가피하게 사용해야 하는 경우 [β₁-선택성 약물](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb)(예: metoprolol, bisoprolol)을 저용량부터 사용하고 호흡기 증상을 면밀히 모니터링
 * 투여 전 및 추적 시 맥박 확인 - 안정 시 맥박 ＜55회/분이면 용량 감량 또는 보류
-* **당뇨 환자 주의** : β-차단제(특히 비선택적 인데놀)는 저혈당 시 나타나는 두근거림·떨림 등의 경고 증상을 은폐할 수 있음 - 당뇨 환자에서 설명 필수
+* 당뇨 환자 주의 : β-차단제(특히 비선택적 인데놀)는 저혈당 시 나타나는 두근거림·떨림 등의 경고 증상을 은폐할 수 있음 - 당뇨 환자에서 설명 필수
 * 임산부·수유부, 중증 말초혈관질환, Raynaud 현상에도 주의
 {% endhint %}
 
