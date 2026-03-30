@@ -18,7 +18,7 @@
 * 찢어지는 흉통 + 양측 상지 혈압 차이(＞20 ㎜Hg; ≥15 ㎜Hg부터 주의 깊게 관찰) 또는 비대칭적 맥박 (대동맥 박리 시사)
 * 흉통 + 신경학적 결손 (대동맥 박리의 경동맥·척추동맥 침범 시사)
 * 연하 통증(odynophagia) 또는 반복되는 구토 (식도 파열 시사)
-* 편측 호흡음 소실 + 저혈압·빈맥 + 기관 변위 (긴장성 기흉 시사 — 즉각 바늘 감압 필요)
+* 편측 호흡음 소실 + 저혈압·빈맥 + 기관 변위 (긴장성 기흉 시사 - 즉각 바늘 감압 필요)
 
 <mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
@@ -95,9 +95,9 @@
 * Assay별 cut-off 수치가 상이하므로 검사 기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 해당 제조사의 rule-out/rule-in 기준값을 반드시 확인하여 적용할 것
 * 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
 
-#### <mark style="color:$primary;">영상 검사 선택 전략</mark>&#x20;
+#### <mark style="color:$primary;">영상 검사 선택 전략</mark>
 
-<table><thead><tr><th width="323.21051025390625">임상 상황</th><th width="242.26318359375">권고 검사</th><th width="70.11932373046875">권고 등급</th></tr></thead><tbody><tr><td>중등도 위험 급성 흉통, CAD 기왕력(-)</td><td>CCTA(1차) or stress imaging*</td><td> I</td></tr><tr><td>중등도~고위험 안정형 흉통, CAD 기왕력 (-)</td><td>CCTA or stress imaging</td><td>I</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력 (-)</td><td>CAC score or 운동부하검사</td><td>IIa</td></tr><tr><td>고위험 / ACS 의심</td><td>침습적 관상동맥 조영술</td><td>I</td></tr><tr><td>CCTA에서 협착 확인 또는 판정 불가</td><td>FFR-CT (혈류예비분획-CT)</td><td>IIa</td></tr></tbody></table>
+<table><thead><tr><th width="323.21051025390625">임상 상황</th><th width="242.26318359375">권고 검사</th><th width="70.11932373046875">권고 등급</th></tr></thead><tbody><tr><td>중등도 위험 급성 흉통, CAD 기왕력(-)</td><td>CCTA(1차) or stress imaging*</td><td>I</td></tr><tr><td>중등도~고위험 안정형 흉통, CAD 기왕력 (-)</td><td>CCTA or stress imaging</td><td>I</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력 (-)</td><td>CAC score or 운동부하검사</td><td>IIa</td></tr><tr><td>고위험 / ACS 의심</td><td>침습적 관상동맥 조영술</td><td>I</td></tr><tr><td>CCTA에서 협착 확인 또는 판정 불가</td><td>FFR-CT (혈류예비분획-CT)</td><td>IIa</td></tr></tbody></table>
 
 _\*65세 미만에서 CCTA 선호 ._ 2021 AHA/ACC 권고
 
@@ -134,7 +134,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 #### <mark style="color:$primary;">허혈성 심질환의 전형적인 흉통</mark>
 
-* 징후&#x20;
+* 징후
   1. 특징적인 증상 및 증상 발생 기간 동안 흉골 뒤 통증
   2. 운동 또는 정신적 스트레스에 의해 유발
   3. nitroglycerin에 의해 30초\~수 분 내 호전(통증은 20분 이상 지속될 수 있음)
@@ -316,7 +316,7 @@ R07.4 상세불명의 흉통
 ### <mark style="color:red;">흉통 자가 체크리스트 (Self-Checklist)</mark>
 
 {% hint style="warning" %}
-이 체크리스트는 응급 상황 여부를 확인하고 의료진에게 증상을 정확히 전달하기 위한 도구입니다.&#x20;
+이 체크리스트는 응급 상황 여부를 확인하고 의료진에게 증상을 정확히 전달하기 위한 도구입니다.
 
 **처음 경험하는 흉통이라면 아래 항목과 무관하게 반드시 진료를 받으십시오.**
 {% endhint %}
