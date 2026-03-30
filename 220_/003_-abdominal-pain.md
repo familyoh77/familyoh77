@@ -61,7 +61,7 @@
 
 * 기전 : 내장 기관(소장, 대장, 담낭, 요관, 신장 등)의 폐쇄 또는 염증(소화성 궤양, 담낭염, 간염, 충수염, IBD, 신우신염, PID 등)
 
-**기원별 통증 부위**&#x20;
+**기원별 통증 부위**
 
 * embryologic origin 관련 부위에 통증이 나타남
 * foregut 기원 : 식도, 위장, 십이지장 근위부, 간, 담낭, 췌장, 비장, 하부 호흡기관 → 상복부 통증
@@ -108,7 +108,7 @@
 * Acute cholangitis : RUQ 통증, 발열, 황달
 * Acute hepatitis : RUQ 통증; 피로, 구역, 구토, 식욕 부진, 황달, 검은색 소변, pale or clay-colored stool; 음주 병력
 * Liver abscess : RUQ 통증, 발열; 특히 당뇨병, 간/담도/췌장에 기저 질환이 있는 경우 의심
-* Fitz-Hugh-Curtis 증후군 : 젊은 여성에서 RUQ 통증; PID의 합병증으로 발생하는 간 주위염(perihepatitis) — 하복부 증상 없이 RUQ 통증만 있을 수 있어 담낭염과의 감별이 필요; PID 병력 또는 STI 위험인자 확인
+* Fitz-Hugh-Curtis 증후군 : 젊은 여성에서 RUQ 통증; PID의 합병증으로 발생하는 간 주위염(perihepatitis) - 하복부 증상 없이 RUQ 통증만 있을 수 있어 담낭염과의 감별이 필요; PID 병력 또는 STI 위험인자 확인
 
 #### <mark style="color:$primary;">상복부 복통</mark>
 
