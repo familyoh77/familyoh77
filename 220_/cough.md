@@ -175,7 +175,7 @@
 * 금연 : 만성 기침이 있는 흡연자의 90%에서 금연 후 기침이 호전됨 (보통 1개월 내 회복)
 * 직업적 노출 회피 또는 차단; 미세먼지·황사 등 대기오염 심한 날에는 외출 자제 및 보건용 마스크(KF80 이상) 착용 권고
 * 원인 치료, 기저 질환 치료
-* 대증 치료 : 진해제, 항히스타민제, 코 울혈 제거제, 흡입 steroid (☞ [스테로이드](../222_/051_-allergic-rhinitis.md#steroid), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20))
+* 대증 치료 : [진해제](../223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../223_/060_-common-cold.md#decongestant), [흡입 steroid](../222_/051_-allergic-rhinitis.md#steroid)
 * ACEI를 복용 중인 경우 ARB(안지오텐신 수용체 차단제)로 교체&#x20;
   * ARB는 브라디키닌 경로에 영향을 주지 않으므로 기침 부작용이 현저히 낮음
 
