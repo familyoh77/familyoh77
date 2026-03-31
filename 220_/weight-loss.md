@@ -51,8 +51,8 @@
 
 * 체중 변화 경과, 약물 복용력, 신체검사
 * 식욕 상태에 따른 감별
-  * **Hypermetabolic state** (식욕 양호, '먹어도 빠지는' 경우) : 당뇨병, 갑상선기능항진증, 흡수 장애 우선 고려 → 대변 검사(기생충, 지방변), 복부 초음파(췌장) 추가
-  * **Hypometabolic/Anorexic state** (식욕 부진) : 암, 우울증, 만성 염증, 약물 부작용, 장기부전(심부전·신부전) 우선 고려
+  * Hypermetabolic state (식욕 양호, '먹어도 빠지는' 경우) : 당뇨병, 갑상선기능항진증, 흡수 장애 우선 고려 → 대변 검사(기생충, 지방변), 복부 초음파(췌장) 추가
+  * Hypometabolic/Anorexic state (식욕 부진) : 암, 우울증, 만성 염증, 약물 부작용, 장기부전(심부전·신부전) 우선 고려
 
 #### <mark style="color:$primary;">1단계 검사</mark>
 
@@ -93,10 +93,11 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 ※ **사회적 고립(Social Isolation)도 독립적 위험 요인** : 혼자 식사하는 환경('혼밥') 자체가 고령자 섭취량 감소의 독립적인 원인이 됨. 9 Ds 항목 외에 식사 동반자 유무, 가족·지역사회 연결 여부 확인 필요
 
-※ **고령 환자 영양·기능 평가 보조 도구**
-* **종아리 둘레(Calf Circumference)** : 31 ㎝ 미만이면 근감소증(sarcopenia) 의심; 측정이 간편하여 외래에서 선별 도구로 활용 가능
-* **악력(Grip Strength)** : 남성 \<28 ㎏, 여성 \<18 ㎏ 미만 시 근감소증 의심 (AWGS 2019 기준)
-* **간이영양평가 단축형(MNA-SF)** : 고령 환자 영양 상태 선별 도구 (총 14점); 12점 이상 정상, 8\~11점 영양불량 위험, 7점 이하 영양불량 → 자세한 평가 항목은 부록 참조
+※ 고령 환자 영양·기능 평가 보조 도구
+
+* 종아리 둘레(Calf Circumference) : 31 ㎝ 미만이면 근감소증(sarcopenia) 의심; 측정이 간편하여 외래에서 선별 도구로 활용 가능
+* 악력(Grip Strength) : 남성 <28 ㎏, 여성 <18 ㎏ 미만 시 근감소증 의심 (AWGS 2019 기준)
+* 간이영양평가 단축형(MNA-SF) : 고령 환자 영양 상태 선별 도구 (총 14점); 12점 이상 정상, 8\~11점 영양불량 위험, 7점 이하 영양불량 → 자세한 평가 항목은 부록 참조
 
 ***
 
@@ -113,15 +114,16 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 ## <mark style="color:green;">약물 치료</mark>
 
-**식욕 자극제**&#x20;
+**식욕 자극제**
 
 * steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine)
 * 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
-* megestrol acetate&#x20;
+* megestrol acetate
   * 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려
   * 부작용 : 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 장기 복용(통상 3개월 이상) 시 쿠싱 증후군 및 약물 유발 부신부전 발생 가능
   * 당뇨 환자에서는 혈당을 급격히 상승시킬 수 있으므로 혈당 모니터링 강화 필요
-  * **체지방 증가 효과는 뚜렷하나 근육량(lean body mass) 증가 효과는 제한적**; 근감소 위험이 있는 고령 환자에서는 저항 운동 및 단백질 보충을 병행 권고
+  * 체지방 증가 효과는 뚜렷하나 근육량(lean body mass) 증가 효과는 제한적
+  * 근감소 위험이 있는 고령 환자에서는 저항 운동 및 단백질 보충을 병행 권고
   * 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) <mark style="color:blue;">\[메게이스]</mark>
 * mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능
   * 15\~30 ㎎/d <mark style="color:blue;">\[레메론]</mark>
@@ -129,11 +131,11 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 **Anticatabolic agent**
 
 * 오메가-3 (EPA) : 암 관련 악액질에서 일부 근거; EPA 기준 1.5\~2 g/d, 최소 4\~8주 투여가 주요 연구에서 사용된 기준이나, 고용량(4 g/d 이상)에서 효과가 오히려 감소한다는 보고도 있어 2 g/d 전후가 현실적인 목표 용량; 체중 증가보다는 삶의 질 개선 및 체중 감소 속도 완화에 의의를 둠; 일반적 체중 감소에서는 제한적
-* pentoxifylline,&#x20;
+* pentoxifylline,
 * hydrazine sulfate(임상적 유효성 미입증)
 * thalidomide(국내 처방 적응증 제한)
 
-**영양제**&#x20;
+**영양제**
 
 * carnitine, cyproheptadine 등
 * 위약 효과를 포함하여 일부 환자에서 유효; 증거 부족
@@ -233,11 +235,13 @@ R63.4 이상체중감소
 
 ***
 
-## <mark style="color:green;">부록 : 간이영양평가 단축형 (MNA-SF)</mark>
+### <mark style="color:green;">부록 : 간이영양평가 단축형 (MNA-SF)</mark>
 
 고령 환자(≥65세)의 영양 상태를 신속하게 선별하기 위한 도구입니다. 지난 3개월간의 변화를 기준으로 점수를 합산합니다.
 
-<table><thead><tr><th width="60">항목</th><th width="220">질문</th><th>점수 기준</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>식사량 감소<br><em>지난 3개월간 식욕부진, 소화기 문제, 씹기/삼키기 곤란 등으로 식사량이 줄었습니까?</em></td><td>0 : 심한 식사량 감소<br>1 : 중등도의 식사량 감소<br>2 : 식사량 감소 없음</td></tr><tr><td><strong>B</strong></td><td>체중 감소<br><em>지난 3개월간 의도하지 않은 체중 감소가 있었습니까?</em></td><td>0 : 3 ㎏ 초과 감소<br>1 : 감소 여부 모름<br>2 : 1\~3 ㎏ 감소<br>3 : 체중 감소 없음</td></tr><tr><td><strong>C</strong></td><td>이동성 (Mobility)</td><td>0 : 침대나 의자에 누워/앉아 지냄<br>1 : 일어설 수 있으나 외출은 못 함<br>2 : 자유롭게 외출 가능</td></tr><tr><td><strong>D</strong></td><td>정신적 스트레스<br><em>지난 3개월간 급성 질환이나 심리적 스트레스를 겪었습니까?</em></td><td>0 : 예<br>2 : 아니오</td></tr><tr><td><strong>E</strong></td><td>신경정신적 문제</td><td>0 : 심한 치매 또는 우울증<br>1 : 경증의 치매<br>2 : 심리적 문제 없음</td></tr><tr><td><strong>F1</strong></td><td>체질량지수 (BMI, ㎏/㎡)<br><em>BMI 측정이 가능한 경우</em></td><td>0 : BMI 19 미만<br>1 : 19 이상 \~ 21 미만<br>2 : 21 이상 \~ 23 미만<br>3 : 23 이상</td></tr><tr><td><strong>F2</strong></td><td>종아리 둘레 (CC)<br><em>BMI 측정이 불가능한 경우 F1 대신 사용</em></td><td>0 : 31 ㎝ 미만<br>3 : 31 ㎝ 이상</td></tr></tbody></table>
+<table><thead><tr><th width="60">항목</th><th width="316">질문</th><th>점수 기준</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>식사량 감소<br><em>지난 3개월간 식욕부진, 소화기 문제, 씹기/삼키기 곤란 등으로 식사량이 줄었습니까?</em></td><td>0 : 심한 식사량 감소<br>1 : 중등도의 식사량 감소<br>2 : 식사량 감소 없음</td></tr><tr><td><strong>B</strong></td><td>체중 감소<br><em>지난 3개월간 의도하지 않은 체중 감소가 있었습니까?</em></td><td>0 : 3 ㎏ 초과 감소<br>1 : 감소 여부 모름<br>2 : 1\~3 ㎏ 감소<br>3 : 체중 감소 없음</td></tr><tr><td><strong>C</strong></td><td>이동성 (Mobility)</td><td>0 : 침대나 의자에 누워/앉아 지냄<br>1 : 일어설 수 있으나 외출은 못 함<br>2 : 자유롭게 외출 가능</td></tr><tr><td><strong>D</strong></td><td>정신적 스트레스<br><em>지난 3개월간 급성 질환이나 심리적 스트레스를 겪었습니까?</em></td><td>0 : 예<br>2 : 아니오</td></tr><tr><td><strong>E</strong></td><td>신경정신적 문제</td><td>0 : 심한 치매 또는 우울증<br>1 : 경증의 치매<br>2 : 심리적 문제 없음</td></tr><tr><td><strong>F1</strong></td><td>체질량지수 (BMI, ㎏/㎡)<br><em>BMI 측정이 가능한 경우</em></td><td>0 : BMI 19 미만<br>1 : 19 이상 \~ 21 미만<br>2 : 21 이상 \~ 23 미만<br>3 : 23 이상</td></tr><tr><td><strong>F2*</strong></td><td>종아리 둘레 (CC)</td><td>0 : 31 ㎝ 미만<br>3 : 31 ㎝ 이상</td></tr></tbody></table>
+
+_\*BMI 측정이 불가능한 경우 F1 대신 사용_
 
 {% hint style="warning" %}
 **판정 기준 (총점 14점)**
@@ -246,3 +250,4 @@ R63.4 이상체중감소
 * **8\~11점** : 영양 불량 위험 (At risk of malnutrition) → 영양 상담 및 식이 개선 권고
 * **0\~7점** : 영양 불량 (Malnourished) → 영양사 의뢰 및 적극적 영양 보충 개입
 {% endhint %}
+
