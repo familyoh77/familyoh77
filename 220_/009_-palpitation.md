@@ -36,7 +36,8 @@
 
 ### <mark style="color:orange;">심장 원인</mark>
 
-* 심방세동(15%), 심실상성빈맥(10%), 구조적 심장 질환
+* **심방세동(AF, 15%)** : 불규칙한 두근거림의 가장 흔한 심장 원인; P파 소실·불규칙한 RR 간격이 특징; 기저 원인으로 고혈압·심부전·갑상선 기능 항진증·OSA·과도한 음주 확인 (☞ 심방세동)
+* 심실상성빈맥(SVT, 10%), 구조적 심장 질환
   1. "flip-flopping" (or "stop and start") : 심방이나 심실의 조기 수축
   2. rapid "fluttering in the chest"
      * regular "fluttering" : supraventricular 또는 ventricular arrhythmias(sinus tachycardia 포함)
@@ -64,13 +65,6 @@
   * GLP-1 수용체 작용제(삭센다, 오젬픽 등) : 경도의 심박수 증가(평균 2\~4 bpm) 유발 가능 - 체중 감량 목적 사용 증가로 확인 필요
 * 허브 및 영양 보충제, 특정 음식
 
-### <mark style="color:orange;">심방세동(AF)</mark>
-
-* 두근거림의 심장 원인 중 가장 흔한 부정맥(15%); P파 소실 및 불규칙한 RR 간격이 특징
-* 기저 원인 : 고혈압, 심부전, 갑상선 기능 항진증, 수면무호흡증(OSA), 과도한 음주 등
-
-***
-
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">초기 평가</mark>
@@ -90,59 +84,10 @@
   * 이식형 루프 기록기 (Insertable Loop Recorder, ILR) : 증상이 수개월에 한 번 정도로 매우 드물면서 실신을 동반하는 등 고위험군에서 고려; 상급병원 의뢰
 * 증상 기록지(Symptom Diary) 작성 : 스마트워치 기록 시 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 — 진단 효율을 크게 높임
 
-### <mark style="color:orange;">심방세동(AF) 관리 - ABC 경로</mark>&#x20;
+### <mark style="color:orange;">심방세동(AF) 의심 시</mark>
 
-(2020 ESC)
-
-#### <mark style="color:$primary;">진단 확진</mark>
-
-* 표준 12-유도 ECG 또는 30초 이상의 단일 유도 ECG(스마트워치 등)에서 P파 소실 및 불규칙한 RR 간격 확인
-* 증상 평가: EHRA score 등을 활용하여 환자의 일상생활 제한 정도 파악
-* 기저 원인 파악: 고혈압, 심부전, 갑상선 기능 항진증, 수면무호흡증(OSA), 과도한 음주 여부 확인
-
-#### <mark style="color:$primary;">A - Anticoagulation (뇌졸중 예방)</mark>
-
-* CHA₂DS₂-VASc Score 점수에 따라 항응고 요법(NOAC 등) 필요성을 결정
-
-<table data-header-hidden><thead><tr><th width="238.78948974609375"></th><th width="55.315673828125"></th><th width="322.970458984375"></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>점수</strong></td><td><strong>내용</strong></td></tr><tr><td><strong>C</strong> (Congestive Heart Failure)</td><td>1</td><td>심부전 또는 좌심실 기능 저하</td></tr><tr><td><strong>H</strong> (Hypertension)</td><td>1</td><td>고혈압</td></tr><tr><td><strong>A₂</strong> (Age ≥75)</td><td>2</td><td>75세 이상</td></tr><tr><td><strong>A</strong> (Age 65–74)</td><td>1</td><td>65–74세</td></tr><tr><td><strong>D</strong> (Diabetes Mellitus)</td><td>1</td><td>당뇨병</td></tr><tr><td><strong>S₂</strong> (Stroke/TIA)</td><td>2</td><td>뇌졸중, 일과성 허혈 발작, 혈전색전증 과거력</td></tr><tr><td><strong>V</strong> (Vascular disease)</td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 플라크</td></tr><tr><td><strong>Sc</strong> (Sex category)</td><td>1</td><td>여성 (다른 위험 인자가 없을 때는 0점으로 간주)</td></tr></tbody></table>
-
-* 남성 ≥2점, 여성 ≥3점: 항응고 요법(NOAC) 강력 권고
-* 남성 1점, 여성 2점: 환자의 상태에 따라 항응고 요법 고려
-* 0점(남성), 1점(여성): 항응고 요법 불필요
-
-#### <mark style="color:$primary;">B - Better symptom management (증상 조절)</mark>
-
-* 환자의 상태에 따라 심박수 조절 vs 리듬 조절 중 선택
-
-**심박수 조절 (Rate control)**
-
-* 대부분의 경우 우선 선택
-* 목표: 휴식 시 맥박수 ＜110회/분
-* 1차 약제
-  * β-차단제: <mark style="color:blue;">인데놀</mark>, <mark style="color:blue;">베타록</mark> 등
-  * non-DHP CCB: <mark style="color:blue;">헤르벤</mark>, <mark style="color:blue;">이솦틴</mark> (단, 심부전 환자에게는 금기)
-  * Digoxin: 심부전 동반 시 추가 고려
-
-**리듬 조절 (Rhythm control)**
-
-* 심박수 조절 후에도 증상이 지속되거나 완치를 목표로 할 때 고려
-* 대상: 유증상 환자, 젊은 연령, 빈맥 유발성 심근병증 우려 시
-* 방법: 항부정맥제 투여, 전기적 심율동 전환, 전도자 절제술(Ablation)
-* 주의: 발생 후 48시간 이내 여부가 불확실하거나 48시간 초과 시 혈전 확인(경식도 초음파) 또는 3주 이상의 선행 항응고 요법 필수
-
-#### <mark style="color:$primary;">C - Cardiovascular risk & Comorbidity management (기저 질환 관리)</mark>
-
-* 고혈압, 당뇨, 심부전 등 심혈관 위험 인자 적극 조절
-* 수면무호흡증(OSA) : CPAP 치료가 AF 재발 감소에 효과적
-* 비만 : 체중 감량이 AF 부담 및 증상 개선에 유의한 효과
-* 과도한 음주·흡연 중단
-
-#### <mark style="color:red;">**의뢰 기준**</mark>
-
-* 처음 진단된 심방세동의 기저 원인 평가(심초음파 등)가 필요한 경우
-* 약물 치료에도 심박수 조절(Rate control)이 되지 않는 경우
-* 젊은 환자에서 근치적 목적의 절제술(Ablation)을 고려하는 경우
-* 항응고 요법 시작 전 출혈 위험 평가 및 약제 선택이 복잡한 경우
+* ECG에서 P파 소실 및 불규칙한 RR 간격 확인 시 심방세동으로 진단
+* 뇌졸중 위험도 평가(CHA₂DS₂-VASc), 항응고 요법, 심박수 조절, 의뢰 기준 등 세부 관리는 (☞ 심방세동) 참조
 
 ***
 
