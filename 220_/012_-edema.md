@@ -28,7 +28,9 @@
 * 일상생활이 어려운 수준의 부종
 * 신기능 이상 의심(소변량 감소, 거품뇨)
 
-## <mark style="color:green;">전신 부종</mark>
+## <mark style="color:green;">원인</mark>&#x20;
+
+### <mark style="color:orange;">전신 부종</mark>
 
 #### <mark style="color:$primary;">Cardiac (심부전)</mark>
 
@@ -56,7 +58,7 @@
 * 임신, 월경 전 : 체액 증가
 * 갑상선저하증 : generalized myxedema
 
-## <mark style="color:green;">국소 부종</mark>
+### <mark style="color:orange;">국소 부종</mark>
 
 * 원인 : 봉와직염, 정맥 부전, trauma, DVT, iliac vein obstruction, lipedema, lymphedema
 * 만성 하지 부종(편측 or 양측)은 종종 정맥 부전과 관련
@@ -80,10 +82,6 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 관련 인자 : 당뇨병, 비만, 우울 등 정서적 문제
 * 진단 : 다른 원인 배제
 
-### <mark style="color:orange;">원인별 부종의 특징 비교</mark>
-
-<table><thead><tr><th width="94.31576538085938">구분</th><th width="143.5789794921875">심부전</th><th width="137.368408203125">신증후군</th><th width="103.78948974609375">간경화</th><th>특발성 부종</th></tr></thead><tbody><tr><td>주요 부위</td><td>하지(심장보다 낮은 위치); ascending edema</td><td>안면(눈가) 및 전신; periorbital edema</td><td>복수 + 하지</td><td>안면, 손, 하지</td></tr><tr><td>심화 시간</td><td>저녁(활동 후)</td><td>아침(기상 직후)</td><td>비교적 일정</td><td>저녁(체중 일중 변동 심함)</td></tr><tr><td>동반 증상</td><td>호흡 곤란, 경정맥 확장, orthopnea</td><td>거품뇨, 단백뇨, 저알부민혈증</td><td>황달, 복수, 여성형 유방</td><td>정서적 스트레스, 월경 전 악화</td></tr></tbody></table>
-
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">감별</mark>
@@ -102,6 +100,10 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 * 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
 * 약물 : CCB, pregabalin/gabapentin, NSAID, 호르몬제(예: steroid, estrogen, progesterone, testosterone), thiazolidinedione(Na 재흡수 증가), α-차단제, 항암제, minoxidil(혈관 확장), 인슐린(초기 투여 시 Na 정체 유발)
+
+#### <mark style="color:$primary;">원인별 부종의 특징 비교</mark>
+
+<table><thead><tr><th width="94.31576538085938">구분</th><th width="143.5789794921875">심부전</th><th width="137.368408203125">신증후군</th><th width="103.78948974609375">간경화</th><th>특발성 부종</th></tr></thead><tbody><tr><td>주요 부위</td><td>하지(심장보다 낮은 위치); ascending edema</td><td>안면(눈가) 및 전신; periorbital edema</td><td>복수 + 하지</td><td>안면, 손, 하지</td></tr><tr><td>심화 시간</td><td>저녁(활동 후)</td><td>아침(기상 직후)</td><td>비교적 일정</td><td>저녁(체중 일중 변동 심함)</td></tr><tr><td>동반 증상</td><td>호흡 곤란, 경정맥 확장, orthopnea</td><td>거품뇨, 단백뇨, 저알부민혈증</td><td>황달, 복수, 여성형 유방</td><td>정서적 스트레스, 월경 전 악화</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">국소 상태</mark>
 
@@ -162,7 +164,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ※ **이뇨제 저항성** 시 Sequential Nephron Blockade 전략 : 심한 부종 또는 신기능 저하로 loop 이뇨제 단독으로 반응이 불충분한 경우, metolazone(메토라존) 또는 hydrochlorothiazide를 loop 이뇨제 투여 30분\~1시간 전에 선행 투여하여 원위 세뇨관과 헨레고리를 동시에 차단하는 sequential nephron blockade를 고려한다. 단, 전해질(K, Mg) 불균형 및 과도한 이뇨에 의한 저혈압·신기능 악화에 주의하며 면밀히 모니터링한다.
 
-### <mark style="color:orange;">심부전에 의한 부종 — 기저 치료 원칙</mark>
+### <mark style="color:orange;">심부전에 의한 부종</mark>
 
 * 부종 자체(이뇨제)보다 심부전의 신경호르몬 억제 치료가 장기 예후를 결정함 (ESC HF Guideline 2021)
 * HFrEF (LVEF ＜40%) 에서 다음 약제를 단계적으로 추가하여 최대 내약 용량 유지
