@@ -227,3 +227,5 @@
 > **질병코드** D50 철결핍빈혈
 
 ![image](../.gitbook/assets/9c272c68-43d5-4f1c-ae84-92d9e20ad98a.JPG)
+
+### 처방례
