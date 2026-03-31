@@ -71,8 +71,6 @@
 
 _<mark style="color:$info;">\* Brawny edema: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음.</mark>_
 
-_<mark style="color:$info;">※Lipedema vs Lymphedema 감별 포인트: Lipedema(지방부종)는 발등(foot dorsum)을 침범하지 않아 Stemmer sign이 음성이며, 발목 위에서 지방이 멈추는 'Cuff sign'(발목 둘레가 두꺼운 지방층으로 뚜렷하게 구분됨)이 특징적임.</mark>_
-
 _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23</mark>_
 
 ### <mark style="color:orange;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
