@@ -63,13 +63,15 @@
 * 원인 : 봉와직염, 정맥 부전, trauma, DVT, iliac vein obstruction, lipedema, lymphedema
 * 만성 하지 부종(편측 or 양측)은 종종 정맥 부전과 관련
 * 정맥/림프관 부전은 흔히 DVT의 합병증으로 발생
-* DVT 관련 인자 : 암 병력, 움직이지 않음, 1개월 내 주요 수술로 3일 이상 bed rest, 정맥류
+* DVT 관련 인자 : 활동성 암(치료 중이거나 6개월 내 치료를 받은 경우), 움직이지 않음, 1개월 내 주요 수술로 3일 이상 bed rest, 정맥류
 
 ### <mark style="color:orange;">만성 하지 부종의 감별</mark>
 
 <table><thead><tr><th width="120.57894897460938"></th><th>Cardiac / Orthostatic</th><th>Venous</th><th>Lymphatic</th><th>Lipedema</th></tr></thead><tbody><tr><td><strong>부종 양상</strong></td><td>Pitting</td><td>Brawny*</td><td>Spongy</td><td>Non-pitting</td></tr><tr><td><strong>하지 거상으로 호전</strong></td><td>완전</td><td>완전</td><td>경미</td><td>최소</td></tr><tr><td><strong>부종 분포</strong></td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td><td>광범위, 원위부가 보다 심함</td><td>하지, 발목 (발은 무증상)</td></tr><tr><td><strong>피부 변화</strong></td><td>빛남, 경미한 착색</td><td>위축, 착색, 피하 섬유화</td><td>비후, 태선화</td><td>없음</td></tr><tr><td><strong>통증</strong></td><td>경미</td><td>심함: 통증, 조임, 파열</td><td>없거나 심한 통증</td><td>둔한 통증, 피부 과민</td></tr><tr><td><strong>양측</strong></td><td>항상</td><td>때때로: 보통 비대칭</td><td>때때로: 보통 비대칭</td><td>항상</td></tr></tbody></table>
 
 _<mark style="color:$info;">\* Brawny edema: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음.</mark>_
+
+_<mark style="color:$info;">💡 Lipedema vs Lymphedema 감별 포인트: Lipedema(지방부종)는 발등(foot dorsum)을 침범하지 않아 Stemmer sign이 음성이며, 발목 위에서 지방이 멈추는 'Cuff sign'(발목 둘레가 두꺼운 지방층으로 뚜렷하게 구분됨)이 특징적임.</mark>_
 
 _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23</mark>_
 
@@ -89,7 +91,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 #### <mark style="color:$primary;">발생 부위</mark>
 
 * 말초 부종만 존재 → 국소 정맥/림프 질환
-* 전신성(특히 눈꺼풀, 안면), 자고 일어난 아침에 심함 → 저단백(알부민＜2.5 g/㎗)
+* 전신성(특히 눈꺼풀, 안면), 자고 일어난 아침에 심함 → 저단백(알부민＜3.0 g/㎗ 이하)
 * dependent position, 오래 서 있은 후(저녁) 하지 부종 → 심부전
 
 **Unilateral predominance**
@@ -131,7 +133,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 * 초음파, D-Dimer : 명백한 원인이 없는 급성 하지 부종에 대하여 DVT 감별을 위하여 고려
   * D-Dimer는 [Wells score](https://www.mdcalc.com/calc/362/wells-criteria-dvt) 저위험군(≤1점)에서만 음성 예측도가 높음; 중등도 이상 위험군(≥2점)에서는 D-Dimer 음성이라도 압박 초음파(CUS)를 반드시 시행
-* Ankle-brachial pressure index : 만성 정맥 부전 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함; 혈관 석회화로 ABI가 위양성으로 높게 측정될 수 있어 이 경우 toe-brachial index(TBI ＜0.7 이상 시 이상) 또는 발등동맥·후경골동맥 맥박 촉진으로 보완
+* Ankle-brachial pressure index : 만성 정맥 부전 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함; 혈관 석회화로 ABI가 위양성으로 높게 측정될 수 있어 이 경우 toe-brachial index(TBI ＜0.7 시 이상) 또는 발등동맥·후경골동맥 맥박 촉진으로 보완
 * s-Cr, 소변 시험지봉 검사 : 신질환(특히 신증후군) 감별을 위하여 고려
 
 ***
@@ -167,11 +169,11 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 ### <mark style="color:orange;">심부전에 의한 부종</mark>
 
 * 부종 자체(이뇨제)보다 심부전의 신경호르몬 억제 치료가 장기 예후를 결정함 (ESC HF Guideline 2021)
-* HFrEF (LVEF ＜40%) 에서 다음 약제를 단계적으로 추가하여 최대 내약 용량 유지
-  * ACE 억제제 또는 ARB → 베타차단제 → MRA(spironolactone/eplerenone) → 증상 지속 시 SGLT2 억제제(dapagliflozin, empagliflozin) 추가 (Class I, LOE A)
+* HFrEF (LVEF ＜40%) 에서 아래 4대 약제를 가능하면 조기에 병용 시작하고 최대 내약 용량을 유지함 (ESC 2021, ACC/AHA 2022)
+  * ACE 억제제(또는 ARB, ARNI), 베타차단제, MRA(spironolactone/eplerenone), SGLT2 억제제(dapagliflozin, empagliflozin) (Class I, LOE A)
   * SGLT2 억제제 : 이뇨 효과 및 심혈관 사망·심부전 입원 감소; 당뇨 유무와 무관하게 권고
     * SGLT2 억제제의 삼투성 이뇨 효과로 인해 기존 loop 이뇨제와 병용 시 과도한 용적 감소·저혈압·전해질 이상이 발생할 수 있으므로 병용 시 loop 이뇨제 용량 감량을 고려하고 신기능 및 전해질을 모니터링
-* HFpEF (LVEF ≥50%) : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 고려 (Class IIb)
+* HFpEF (LVEF ≥50%) : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 고려 (Class IIa; ACC/AHA 2023, ESC 2023 focused update)
 * 1차 진료에서 심부전 확인 시 심장내과 협진 또는 의뢰 권고 (약물 선택 및 용량 조절)
 
 ### <mark style="color:orange;">특발성 부종증후군, 하지 부종</mark>
@@ -195,10 +197,10 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 하지 압박: 깨어 있을 때 압박 스타킹 착용; 취침 시에는 착용하지 않음
   * 1차 선택: 무릎 아래(Below-knee, AD) 스타킹; 허벅지까지(AG)는 병변이 허벅지 이상으로 명확히 존재하는 경우에 한해 선택적 적용; AG 타입은 순응도가 낮고, 무릎 뒤에서 접힐 경우 지혈대 효과(Tourniquet effect) 위험
   * 금기 : ABI ＜0.5 (중증 동맥 부전); 울혈성 심부전 NYHA Class III/IV (정맥 환류 급증으로 심장 부하 증가 위험); 취침 시 착용 금지; ABI 0.5\~0.8에서는 저압력(20 ㎜Hg 이하) 적용 시 주의 하에 사용 가능
+  * 주의 : 중증 말초신경병증(peripheral neuropathy) 환자는 압박에 의한 피부 손상을 감지하지 못할 수 있으므로 신중히 적용하고 정기적으로 피부 상태를 확인
 * 단순 부종 조절 목적 시 20\~30 ㎜Hg, 궤양 등 중증 시 30\~40 ㎜Hg의 압력 적용
   * 저위험군의 장시간 비행기 여행 시 부종 및 무증상 혈전증 예방을 위하여 12\~18 ㎜Hg의 발목 압박 양말 적용
   * 림프 부종에 대하여 초기 집중 치료기(Reductive phase)에는 주 2회 이상의 다층압박붕대(Multi-layer bandaging) 적용, 이후 유지기(Maintenance phase)에는 압박 스타킹으로 전환
-  * 주 2회 bandaging system 고려
   * 활동 감소 상태의 환자에 대하여 간헐적 pneumatic compression 고려
   * 개선 후 유지를 위하여 inelastic grosgrain 스타킹 사용 고려
 * 저염식, 과도한 수분 섭취를 피함
@@ -206,14 +208,14 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 적정 체중 유지, 섭식 장애 교정
 * 우울 등 정서적 문제 교정
 * 걷기 : 종아리 근육이 수축되며 정맥 회귀가 증가됨
-* vitis vinifera leaf dry extract : 360 ㎎ 아침 식전 <mark style="color:blue;">\[안탁스]</mark>
+* vitis vinifera leaf dry extract(포도엽 건조엑스) : 360 ㎎(2캡슐) 아침 식전 <mark style="color:blue;">\[안탁스]</mark>
 
-### <mark style="color:orange;">부종 관련 건강보조제</mark>
+### <mark style="color:orange;">부종 관련 건강보조제 및 정맥순환개선제</mark>
 
 * 아래 성분들은 정맥 기능 부전(CVI)에 의한 경한 부종에 제한된 근거이며, 심부전·신부전·간경화·저알부민혈증에 의한 부종에는 효과 없음
 * 부종의 원인 감별 없이 건강보조제를 복용하면 근본 치료가 지연될 수 있음
 
-<table><thead><tr><th width="143.4737548828125">성분</th><th width="126.2630615234375">적용 부종 유형</th><th width="115.2105712890625">근거 수준</th><th>주요 주의사항</th></tr></thead><tbody><tr><td>HCSE (aescin)</td><td>정맥성</td><td>낮음~중등도</td><td>표준화 추출물 사용; 장기 데이터 부족</td></tr><tr><td>Ruscus</td><td>정맥성</td><td>중등도</td><td>당뇨 환자 metformin 상호작용 주의</td></tr><tr><td>MPFF (diosmin/ hesperidin)</td><td>정맥성</td><td>중등도~높음</td><td>처방약 수준 근거; 건기식 제품은 표준화 확인 필요</td></tr><tr><td>포도씨 OPC</td><td>좌위 관련 부종</td><td>낮음</td><td>항응고제 상호작용 가능</td></tr><tr><td>민들레</td><td>수분 저류성(이론적)</td><td>매우 낮음</td><td>이뇨제·담낭질환·항생제 상호작용</td></tr></tbody></table>
+<table><thead><tr><th width="170">성분</th><th width="130">적용 부종 유형</th><th width="115">근거 수준</th><th>국내 시판 현황 및 주요 주의사항</th></tr></thead><tbody><tr><td>MPFF (미세정제플라보노이드 분획물; diosmin/hesperidin 등 5종 혼합)</td><td>정맥성</td><td>높음 (가이드라인 Class I, LOE B)</td><td>국내 일반의약품: 치퀵정(종근당), 베니톨정(광동제약) 등; 단순 diosmin보다 근거 높음</td></tr><tr><td>Diosmin 단일성분</td><td>정맥성</td><td>중등도 (가이드라인 2C)</td><td>국내 일반의약품: 치센캡슐·디오라인정(동아제약), 팜젠디오스민정 등 다수; MPFF보다 근거 낮음</td></tr><tr><td>HCSE (aescin; 마로니에 종자 추출물)</td><td>정맥성</td><td>낮음~중등도</td><td>국내 허가 의약품 없음 (해외직구 보조제); 표준화 추출물 사용; 장기 데이터 부족</td></tr><tr><td>포도씨 OPC (proanthocyanidin)</td><td>좌위 관련 부종</td><td>낮음</td><td>국내 건강기능식품으로 유통(식약처 고시형 미등재); 항응고제 상호작용 가능</td></tr><tr><td>민들레</td><td>수분 저류성(이론적)</td><td>매우 낮음</td><td>이뇨제·담낭질환·항생제 상호작용; 부종 목적 허가 제품 없음</td></tr></tbody></table>
 
 ***
 
@@ -242,14 +244,14 @@ I89.0 림프 부종
 > **처방례 2. 특발성 부종증후군**
 >
 > ```
-> 알닥톤 필름코팅정 25 ㎎/T 2T #2 
-> 다이크로짇 25 ㎎/T 1T #2
+> 알닥톤 필름코팅정 25 ㎎/T 2T #2 아침·점심
+> 다이크로짇 25 ㎎/T 1T #2 아침·점심
 > ```
 >
 > **처방례 3. 만성 정맥부전**
 >
 > ```
-> 안탁스 160 ㎎/C 2C qd 아침 식전
+> 안탁스캡슐 180 ㎎/C 2C qd 아침 식전
 > ```
 
 ***
