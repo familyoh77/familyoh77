@@ -28,7 +28,7 @@
 * 일상생활이 어려운 수준의 부종
 * 신기능 이상 의심(소변량 감소, 거품뇨)
 
-## <mark style="color:green;">원인</mark>&#x20;
+## <mark style="color:green;">원인</mark>
 
 ### <mark style="color:orange;">전신 부종</mark>
 
@@ -71,7 +71,7 @@
 
 _<mark style="color:$info;">\* Brawny edema: 초기 venous edema는 pitting이나, 만성화되면 hemosiderin 침착·피하 섬유화로 인해 non-pitting의 brawny 양상으로 이행될 수 있음.</mark>_
 
-_<mark style="color:$info;">💡 Lipedema vs Lymphedema 감별 포인트: Lipedema(지방부종)는 발등(foot dorsum)을 침범하지 않아 Stemmer sign이 음성이며, 발목 위에서 지방이 멈추는 'Cuff sign'(발목 둘레가 두꺼운 지방층으로 뚜렷하게 구분됨)이 특징적임.</mark>_
+_<mark style="color:$info;">※Lipedema vs Lymphedema 감별 포인트: Lipedema(지방부종)는 발등(foot dorsum)을 침범하지 않아 Stemmer sign이 음성이며, 발목 위에서 지방이 멈추는 'Cuff sign'(발목 둘레가 두꺼운 지방층으로 뚜렷하게 구분됨)이 특징적임.</mark>_
 
 _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23</mark>_
 
@@ -156,13 +156,10 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
   * 만성 정맥 부전에서도 volume overload 상태가 아니면 이뇨제 사용을 권하지 않음
 * 1차 선택 : loop diuretics(예: furosemide, bumetanide, torsemide)
 * cirrhosis 시 spironolactone + loop diuretics
-*   furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ <mark style="color:blue;">\[라식스]</mark>
-
-    * 반응 불충분 시 24\~48시간 간격으로 용량 증량 가능 (최대 PO 600 ㎎/d, IV 200 ㎎/dose)
-    * 신부전 또는 신증후군 시 고용량 필요
-    * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
-
-
+* furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ <mark style="color:blue;">\[라식스]</mark>
+  * 반응 불충분 시 24\~48시간 간격으로 용량 증량 가능 (최대 PO 600 ㎎/d, IV 200 ㎎/dose)
+  * 신부전 또는 신증후군 시 고용량 필요
+  * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
 
 ※ **이뇨제 저항성** 시 Sequential Nephron Blockade 전략 : 심한 부종 또는 신기능 저하로 loop 이뇨제 단독으로 반응이 불충분한 경우, metolazone(메토라존) 또는 hydrochlorothiazide를 loop 이뇨제 투여 30분\~1시간 전에 선행 투여하여 원위 세뇨관과 헨레고리를 동시에 차단하는 sequential nephron blockade를 고려한다. 단, 전해질(K, Mg) 불균형 및 과도한 이뇨에 의한 저혈압·신기능 악화에 주의하며 면밀히 모니터링한다.
 
