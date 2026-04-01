@@ -10,7 +10,7 @@
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
 * 조짐(aura) : 편두통 환자의 20%에서 발생; 보통 5\~60분 지속 후 두통 발생; 운동 관련 조짐은 최대 72시간까지 지속 가능
 
-※  **기존편두통 환자라도 다음의 경우 2차 두통 감별이 필요**
+※ **기존편두통 환자라도 다음의 경우 2차 두통 감별이 필요**
 
 * 평소와 확연히 다른 두통 양상 또는 급격한 악화
 * 전조(aura)가 60분 이상 지속 → 뇌졸중·TIA 감별, 신경과 의뢰 고려
@@ -56,12 +56,12 @@
 
 ✽1차적인 혈관 문제는 원인으로 고려되지 않음
 
-### <mark style="color:orange;">위험 인자</mark>&#x20;
+### <mark style="color:orange;">위험 인자</mark>
 
 * 가족력 : 환자의 >80%에서 편두통의 가족력이 있음
 * 여성 (20\~50대에서 호발)
 
-### <mark style="color:orange;">유발 인자</mark>&#x20;
+### <mark style="color:orange;">유발 인자</mark>
 
 * 스트레스, 정서적 변화
 * 수면 변화 (부족 및 과다 모두)
@@ -196,7 +196,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * 효과, 용량, 부작용 면에서 환자 개개인에 맞는 약물을 찾는 과정이 필요
 * barbiturate는 과사용과 의존 위험, opioid는 반동성 두통과 약물과용두통 위험이 있으므로 피함
 
-### <mark style="color:orange;">진통제</mark>
+#### <mark style="color:$primary;">진통제</mark>
 
 * ibuprofen : 400\~800 ㎎ <mark style="color:blue;">\[부루펜]</mark>
 * naproxen : 500\~550 ㎎ <mark style="color:blue;">\[낙센]</mark>
@@ -204,7 +204,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * dexketoprofen : 25 ㎎
 * acetaminophen : 650\~1,300 ㎎ <mark style="color:blue;">\[타이레놀]</mark> (✽NSAID보다 효과가 적다는 보고가 있음)
 
-### <mark style="color:orange;">Triptan</mark>
+#### <mark style="color:$primary;">Triptan</mark>
 
 * 기전 : 5-HT1B/1D receptor 작용 → vasoactive neuropeptide(CGRP 등) 분비 억제 및 삼차신경 통증 전달 억제
 * 대상 : 중증 편두통 또는 다른 약제로 호전되지 않는 경증 편두통
@@ -219,7 +219,7 @@ _¹⁾ 국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 200 ㎎/d_
 
 _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
-### <mark style="color:orange;">Gepants (CGRP receptor antagonist)</mark>
+#### <mark style="color:$primary;">Gepants (CGRP receptor antagonist)</mark>
 
 * 기전 : CGRP 수용체 차단 → 삼차신경 통증 전달 억제; triptan과 달리 혈관 수축 작용 없음
 * 심혈관 질환 등 triptan 금기 환자에서 대안으로 고려
@@ -229,14 +229,14 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * rimegepant 75 ㎎ 붕해정 <mark style="color:blue;">\[엔유비티]</mark> : 급성기 1정, 예방 목적 격일 복용; 2024년 국내 허가
 * ubrogepant 50\~100 ㎎ : 급성기 치료; 국내 미허가
 
-### <mark style="color:orange;">Ditans</mark>
+#### <mark style="color:$primary;">Ditans</mark>
 
 * 5-HT1F agonist; 선택적 작용으로 triptan의 심혈관계(혈관 수축) 부작용 없음
 * 기전 : neuropeptide 방출 억제 및 삼차신경 통증 전달 경로 억제
 * lasmiditan 50\~200 ㎎ <mark style="color:blue;">\[레이보우]</mark> (비보험)
 * 부작용 : 졸음, 어지럼; 복용 후 8시간 이내 운전 금지
 
-### <mark style="color:orange;">Ergotamine</mark>
+#### <mark style="color:$primary;">Ergotamine</mark>
 
 * 불확실한 효과 및 부작용으로 2차 선택; triptan 치료 실패 시 고려 (✽시판 단일제 없음)
 * 반동성 두통 위험 — 발작 당 4\~5일 이상 사용하지 않음
@@ -244,7 +244,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 주의/금기 : 고혈압, 심혈관 질환, 간/신 장애, 발열, 24시간 내 triptan 복용, CYP3A4 억제제 병용
 * caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 30분마다 1정씩 4회 <mark style="color:blue;">\[크래밍]</mark>
 
-### <mark style="color:orange;">항구토제</mark>
+#### <mark style="color:$primary;">항구토제</mark>
 
 * dopamine 수용체 차단제는 편두통 증상을 감소시키는 부가 효과를 지님
 * ✽acetaminophen + metoclopramide 병용이 triptan 수준의 효과가 있다는 보고가 있음
@@ -253,7 +253,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * metoclopramide : 10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
 * domperidone : 10 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark>
 
-### <mark style="color:orange;">Steroid</mark>
+#### <mark style="color:$primary;">Steroid</mark>
 
 * 일률적인 사용은 하지 않음; 주로 응급실에서 주사로 투여
 * dexamethasone : 두통 재발 위험도를 유의미하게 줄인다는 보고가 있음 <mark style="color:blue;">\[덱타손 주]</mark>
@@ -437,7 +437,7 @@ G43.9 상세불명의 편두통
 
 > **편두통 예방약 (인데놀·토파맥스·에트라빌 등)**
 >
-> * 예방약은 효과가 나타나기까지 **4~8주**가 걸립니다. 임의로 중단하지 마십시오.
+> * 예방약은 효과가 나타나기까지 **4\~8주**가 걸립니다. 임의로 중단하지 마십시오.
 > * 토파맥스(topiramate)는 물을 충분히 마셔야 신결석 위험을 줄일 수 있습니다.
 > * 가임기 여성은 토파맥스 복용 중 피임약의 효과가 감소할 수 있으니 다른 피임 방법을 함께 사용하십시오.
 > * 인데놀(propranolol) 복용 중에는 갑자기 중단하지 마십시오.
@@ -465,7 +465,7 @@ G43.9 상세불명의 편두통
 
 #### <mark style="color:$primary;">편두통이란 무엇인가요?</mark>
 
-* 보통 한쪽 머리에서 시작되는 박동성(쿵쿵 뛰는 듯한) 심한 두통으로, 4~72시간 지속됩니다.
+* 보통 한쪽 머리에서 시작되는 박동성(쿵쿵 뛰는 듯한) 심한 두통으로, 4\~72시간 지속됩니다.
 * 구역·구토, 빛과 소리에 예민해지는 증상이 함께 나타나는 경우가 많습니다.
 * 일부 환자는 두통 전에 시야에 반짝이는 빛이나 시야 장애(전조, aura)가 나타납니다.
 
@@ -484,7 +484,7 @@ G43.9 상세불명의 편두통
 
 * **유발 요인 파악** : 두통 일기로 술·특정 음식·수면 변화·스트레스 등 나만의 유발 요인을 찾아보세요.
 * **규칙적인 생활** : 수면·식사·기상 시간을 일정하게 유지하고, 공복을 4시간 이상 넘기지 마세요.
-* **수분 섭취** : 탈수는 편두통을 유발할 수 있습니다. 하루 1.5~2 L 물을 마시십시오.
+* **수분 섭취** : 탈수는 편두통을 유발할 수 있습니다. 하루 1.5\~2 L 물을 마시십시오.
 * **운동** : 규칙적인 유산소 운동이 예방에 도움이 됩니다. 발작 중에는 운동을 삼가십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
