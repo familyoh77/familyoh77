@@ -73,7 +73,7 @@
 * 대부분의 경우에서 실험실 검사는 도움이 되지 않음; 한 달간 관찰 후 시행 여부 결정
 * 기본 검사 : CBC, 전해질, 혈당, HbA1c, LFT, RFT, TSH, U/A
   * 가임기 여성에서는 UPT(소변 임신 반응 검사)를 기본 검사에 포함
-* 선택 검사 : ESR, CRP, ferritin, Vit B12, 엽산, Vit D, Anti-TPO Ab, monospot, ANA, 흉부 X선, 분변 잠혈 검사, 수면다원검사; 복부 초음파(임상적으로 필요시)
+* 선택 검사 : ESR, CRP, ferritin, Vit B12, 엽산, Vit D(25(OH)D), Anti-TPO Ab, monospot, ANA, 흉부 X선, 분변 잠혈 검사, 수면다원검사; 복부 초음파(임상적으로 필요시)
   * CBC에서 빈혈 확인 → ferritin(철결핍성), Vit B12·엽산(거대적아구성), ESR·CRP(만성 질환 빈혈) 순으로 감별
   * 철결핍성 빈혈은 ferritin <30 ng/㎖를 기준으로 하되 염증이 동반된 경우 ferritin이 위양성으로 정상화될 수 있어 transferrin saturation을 함께 확인
   * TSH가 정상이더라도 증상이 지속되거나 두통·시야 장애 등 뇌하수체 질환이 의심되는 경우 free T4를 추가하여 이차성 갑상선기능저하증을 감별

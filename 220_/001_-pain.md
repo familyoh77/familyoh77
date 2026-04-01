@@ -330,6 +330,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 대상 : 다른 약물 요법으로 실패한 말초신경병증성 통증, 섬유근육통
 * 신기능 주의 : 중등도 이상 신기능 저하(eGFR < 30 ㎖/min/1.73㎡) 환자에게는 duloxetine을 포함한 SNRI 계열 권장하지 않음 (약물 축적 및 부작용 위험 증가)
 * duloxetine : 섬유근육통, 골관절염; 30\~60 ㎎/d qd <mark style="color:blue;">\[심발타]</mark>
+  * 무릎 골관절염에 대한 둘록세틴 처방은 'NSAIDs에 반응하지 않는 경우'에만 인정. NSAIDs를 일정 기간 먼저 사용한 기록이 차트에 반드시 선행되어야 함
 * fluoxetine : 섬유근육통; 20\~80 ㎎/d qd <mark style="color:blue;">\[푸로작]</mark>
 * tapentadol
   * 작용 : opioid(μ 수용체 작용) + SNRI(norepinephrine 재흡수 억제) 이중 기전
@@ -338,6 +339,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 부작용 : 어지럼, 구역, 두통, 졸음
   * 주의 : MAOI 병용 금기; SSRI/SNRI 병용 시 serotonin syndrome 위험
   * 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩 증량 <mark style="color:blue;">\[뉴신타 서방]</mark>
+* 항우울제 [보험 인정 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&sno=1\&mtgMtrRegSno=0004) : 우울 증상이 지속적으로 2주 이상 계속되는 경우에 상용량으로 60일 범위 내에서 인정함
 
 ### <mark style="color:orange;">Benzodiazepines</mark>
 
@@ -378,12 +380,13 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 * 대상 : 신경병증성 통증. 예) 당뇨병신경병증, 대상포진후신경통, phantom limb pain, 말초신경병증성 통증, 복합부위통증증후군
 * 심한 부작용 없음
-* memantine : 5 ㎎ qd, 2일마다 5 ㎎ 증량, 유지 10 ㎎ bid <mark style="color:blue;">\[에빅사]</mark> (보험주의)
+* memantine : 5 ㎎ qd, 2일마다 5 ㎎ 증량, 유지 10 ㎎ bid <mark style="color:blue;">\[에빅사]</mark> (통증에는 비급여)
 
 ### <mark style="color:orange;">근이완제</mark>
 
 * 효과에 대한 입증은 전반적으로 부족함; 골관절염에 의한 통증에는 효과가 적음
 * 급성기(2\~3주 이내)에만 적용, 만성 통증 환자에서의 장기 처방은 권고하지 않음
+  * 통상적으로 근골격계 질환의 급성기(약 2\~4주 이내) 처방 시에만 급여 인정됨 주의
 * 대상 : 근육 경련이 통증의 원인인 경우; 졸음 등 부작용 문제로 고령자에게는 권고 안 함
 * 부작용 : 졸음, 어지럼, 구역
 * 습관성·의존성·진정 부작용을 최소화하기 위해 단기 작용제 우선 선택
