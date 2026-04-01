@@ -80,7 +80,7 @@
 #### <mark style="color:$primary;">임상 양상</mark>
 
 * 특정 자세나 머리 움직임에 따라 심한 회전감 발생
-* 경과 : 돌발적 발생 → 자세를 바꾸고 안정하면 보통 수 분 이내 호전, 1주 일 이상 반복 발생
+* 경과 : 돌발적 발생 → 자세를 바꾸고 안정하면 보통 수 분 이내 호전, 1주일 이상 반복 발생
 * 동반 증상 : 구역
   * 청력이나 신경학적 이상은 없음
 * 안진 : 말초성
@@ -177,7 +177,8 @@
 ### <mark style="color:orange;">기타</mark>
 
 * Cervical vertigo : 경추의 외상(특히 과신전)이나 퇴행성 변화 관련; 목의 움직임에 의해 유발
-* 약물 유발성 : : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
+  * ⚠️ 고령의 혈관 위험인자 보유자에서 고개를 돌릴 때만 발생하는 짧은 어지럼은 VBI(Vertebrobasilar Insufficiency)에 의한 일시적 허혈일 수 있음 — BPPV와 반드시 감별 필요; 신경학적 증상 동반 시 즉시 응급 의뢰
+* 약물 유발성 : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
 * Psychological : 기분, 불안, 신체화 증상
 * 기립성 저혈압 : presyncope; 맥박 증가 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
 * 과호흡 : lightheadness; 불안, 맥박 증가; 치료- 호흡 조절, β-차단제, 항불안제
@@ -228,7 +229,11 @@
 
 * 중추/말초 vertigo 감별에 유용. 안진이 있는 vertigo가 지속되는 환자에서 적용
 * 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
-* 다음의 경우 말초성으로 판정 : head impulse test(+), 안진- 수평 또는 방향성 없음, test of skew(-), 청력 소실 없음; 특이도 및 민감도 ＞95%
+* 말초성(Peripheral) 시사 소견 (특이도 및 민감도 ＞95%)
+  * Head Impulse Test (+) : 환측으로 머리 회전 시 교정 가동(catch-up saccade) 관찰
+  * Nystagmus : 단방향 수평 안진(Direction-fixed); 주시 방향을 바꿔도 안진의 방향이 변하지 않음
+  * Test of Skew (-) : 수직 안구 편위 없음
+  * New hearing loss (-) : 청력 소실 없음 → 말초성 판정 유지
 * 급성 청력 저하(new hearing loss) 전하소뇌동맥(AICA) 경색은 말초성 안진 패턴을 보이면서 청력 소실을 동반할 수 있음. 급성 어지럼증 환자에서 새로운 청력 저하가 확인되면 HINTS 결과와 무관하게 중추성(AICA 경색)으로 간주하고 즉시 응급 MRI 시행
 
 ### <mark style="color:orange;">감별</mark>
@@ -391,8 +396,8 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 말초성 어지럼증(메니에르병, 전정신경염) 증상 완화 및 예방에 적용
 * 기전 : 전정 핵의 흥분성 조절 (H1 효현제 + H3 길항제), 내이 혈류 개선
-* 용량 : 16 ㎎ tid (48 ㎎/d); 최소 3개월 이상 투여 <mark style="color:blue;">\[베타세르크]</mark>
-  * 고용량 요법 : 효과 불충분 시 최대 48 ㎎ tid (144 ㎎/d)까지 증량 보고 있음 (유럽 가이드라인); 국내 보험 급여 범위 초과 시 비급여 처방 필요
+* 용량 : 16 ㎎ tid (48 ㎎/d); 최소 3개월 이상 투여 <mark style="color:blue;">\[메네스에스]</mark>
+  * 고용량 요법 : 효과 불충분 시 최대 48 ㎎ tid (144 ㎎/d)까지 증량 보고 있음 (유럽 가이드라인); 기존 용량에 반응 없는 메니에르병 환자에서 6개월 이상의 고용량 요법이 발작 빈도를 유의하게 낮춘다는 근거가 있음; 국내 보험 급여 범위 초과 시 비급여 처방 필요
 * ✽BPPV에는 효과 없음; 중추성 어지럼증에 대한 근거 불충분
 
 ### <mark style="color:orange;">기타</mark>
@@ -441,6 +446,15 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
     → 건측으로 90도씩 더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함\
     → 천천히 일어나 앉음; 각 자세마다 30\~60초 또는 어지럼증이 사라질 때까지 유지함 (✽각 자세의 유지 시간과 눕는 각도에 대해서는 이견이 있음)
 
+**Gufoni maneuver**
+
+* lat canal BPPV 치료법; Lempert보다 시행이 간편하여 임상에서 선호도 높음
+* 방법 (canalith repositioning type — geotropic 안진 시)
+  * 환자를 건측으로 빠르게 눕힘 (2분 유지)\
+    → 코가 바닥을 향하도록 고개를 45° 아래로 돌림 (2분 유지)\
+    → 천천히 일어나 앉음
+* ✽ 안진 방향(geotropic vs apogeotropic)에 따라 방법이 달라지므로 Supine roll test로 병변 측 확인 후 시행
+
 **재활 운동**
 
 * 전정 재활 운동 예: [Brandt-Daroff exercise](https://www.youtube.com/watch?v=voZXtTUdQ00\&t=31s)
@@ -456,7 +470,8 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 안정제 : 원칙적으로 권장하지 않음 (AAO-HNS 가이드라인); central compensation을 방해하고 낙상 위험을 증가시킴. 불가피한 경우 단기간으로 제한하며 주의를 요함
 * 항구토제 : 구역/구토가 심한 경우 단기 사용
-* Vit D & Ca : Vit D 결핍 환자에서 BPPV 재발 감소에 유효. Vit D 400 IU + 탄산칼슘 500 ㎎ 1일 2회 권장; 정상 혈중 농도에서는 추가 효과 불분명
+* Vit D & Ca : 혈중 Vitamin D 농도가 낮은 경우(＜20 ng/mL) 보충 시 BPPV 재발률이 유의하게 감소함 (Neurology 2020); 정상 농도에서는 추가 효과 불분명
+  * Cholecalciferol 400 IU + Calcium carbonate 500 ㎎ bid
 
 ### <mark style="color:orange;">급성단측전정병증 (AUV / 전정신경염)</mark>
 
@@ -467,7 +482,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 * 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용 제한
 * steroid : 증상 발현 3일 이**내** 투여 시 전정 기능 단기 회복에 도움 가능; 장기 예후(어지럼 장애 지수) 개선 근거는 불충분
   * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 <mark style="color:blue;">\[메치론]</mark>
-* betahistine : 증상 완화 목적; 16 ㎎ tid (48 ㎎/d) <mark style="color:blue;">\[베타세르크]</mark> — EAONO 권고
+* betahistine : 증상 완화 목적; 16 ㎎ tid (48 ㎎/d) <mark style="color:blue;">\[메네스에스]</mark> — EAONO 권고
 
 ### <mark style="color:orange;">미로염</mark>
 
@@ -488,13 +503,18 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 전정 안정제, 항구토제 : 급성 발작기 단기 사용
 * 이뇨제 : hydrochlorothiazide
-* betahistine : 발작 예방 목적; 16 ㎎ tid (48 ㎎/d) 이상, 최소 3개월 이상 투여 <mark style="color:blue;">\[베타세르크]</mark> - EAONO·NICE 가이드라인 권고
+* betahistine : 발작 예방 목적; 16 ㎎ tid (48 ㎎/d) 이상, 최소 3개월 이상 투여 <mark style="color:blue;">\[메네스에스]</mark> - EAONO·NICE 가이드라인 권고
+* 고실 내 스테로이드 주입술(Intratympanic steroid injection, ITSI) : 경구 스테로이드 부작용이 우려되는 환자(당뇨 등) 또는 경구 약물에 반응하지 않는 난치성 증례에서 이비인후과 협진 고려
 
 ### <mark style="color:orange;">지속성체위지각어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 
 * 국내 dizziness clinic에서 두 번째로 흔한 원인(20.8%)
-* 진단 기준 : 비회전성 어지럼(흔들림, 불안정감)이 ≥3개월 지속; 직립 자세, 움직임, 시각 자극에 의해 악화; 기질적 원인 배제
-* 선행 사건 : 급성 전정 질환(전정신경염, BPPV), 편두통, 공황장애 등
+* 진단 기준 \[ICD-11]
+  * **지속성** : 3개월 이상 대부분의 날(한 달에 15일 이상) 발생하는 어지럼, 부동감(unsteadiness); 환자는 흔히 "붕 떠 있는 것 같다", "구름 위를 걷는 것 같다"고 표현함
+  * **악화 요인** : 직립 자세(standing/walking), 특정 방향과 상관없는 능동적/수동적 움직임, 복잡한 시각 자극(대형 마트, 영화관 등)
+  * **선행 사건** : 급성 전정질환(BPPV, 전정신경염), 실신, 공황발작 등 어지럼을 유발하는 사건이 선행함
+  * **심각한 고통** : 증상으로 인한 일상생활 기능 장애 또는 심리적 위축 동반 (직장, 사회활동 회피 등)
+  * **배제 진단** : 다른 질환으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">치료</mark>
 
@@ -512,6 +532,8 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 R42 어지럼증 및 어지럼
 
+_※ 실무 팁 : R42는 증상 코드로, 장기 처방이나 VNG 등 정밀 검사 청구 시 삭감 위험이 있음. 확정 진단 전까지는 R42를 주상병으로 사용하되, BPPV가 의심되면 H81.1을 부상병으로 병기하여 청구 일관성을 유지하는 것이 바람직함_
+
 H81.0 메니에르병
 
 H81.1 양성 발작성 현기증
@@ -521,6 +543,8 @@ H81.2 전정신경세포염
 H81.9 전정기능의 상세불명 장애
 
 H83.0 미로염
+
+H81.89 기타 명시된 전정기능 장애 (PPPD에 적용)
 
 ***
 
@@ -545,20 +569,24 @@ H83.0 미로염
 > ```
 > 메치론 주 500 mg/5 mL  1V(100 mg)  IV qd  (3주 tapering; 발현 3일 이내 시작)
 > 보나링 에이 50 mg/T  1T  bid  (3일 이내로 제한)
-> 베타세르크 8 mg/T  2T  tid  (증상 완화 목적)
+> 메네스에스 16 ㎎/T  1T  tid  (증상 완화 목적)
 > ```
 
 > **처방례 4.** 메니에르병 — 예방 (발작 간기)
 >
 > ```
-> 베타세르크 8 mg/T  2T  tid  (48 mg/d; 최소 3개월 이상 유지)
+> 메네스에스 16 ㎎/T  1T  tid  (48 ㎎/d; 최소 3개월 이상 유지)
 > 다이크로짇 25 mg/T  1T  qd  (이뇨; 아침 복용)
 > ```
 
 > **처방례 5.** PPPD (지속성체위지각어지럼증)
 >
 > ```
+> [Option A - SSRI]
 > 렉사프로 10 mg/T  0.5T  qd  조식 후  (2주 후 1T으로 증량; 최소 1년 유지)
+>
+> [Option B - SNRI]
+> 이팩사 37.5 mg/C  1C  qd  조식 후  (1~2주 후 75 mg qd로 증량; 최소 1년 유지)
 > ```
 
 ***
@@ -569,6 +597,7 @@ H83.0 미로염
 >
 > * **단기 사용 원칙** : 어지럼증이 심한 급성기(2\~3일)에만 사용하십시오. 장기 복용은 뇌의 균형 회복을 방해합니다.
 > * **졸음·낙상 주의** : 복용 중 운전·기계 조작을 삼가고, 갑자기 일어날 때 천천히 움직이십시오.
+> * **입마름·소변 불편** : 입마름이 생길 수 있습니다. 전립선 비대증이 있는 고령 남성은 소변이 잘 나오지 않는 증상(소변 정체)이 생길 수 있으니 반드시 의사에게 알리십시오.
 > * **BPH·녹내장** : 전립선 비대증 또는 녹내장이 있으면 반드시 의사에게 알리십시오.
 
 > **이석정복술(Epley maneuver) 후 안내**
@@ -583,7 +612,7 @@ H83.0 미로염
 > * 매일 2회 이상, 최소 3개월간 꾸준히 시행하는 것이 중요합니다.
 > * 처음에는 눈을 뜨고 천천히 시작하여 점차 빠르게, 최종적으로 눈을 감고 시행합니다.
 
-> **베타세르크 (메니에르병·전정신경염)**
+> **메네스에스 (메니에르병·전정신경염)**
 >
 > * 효과가 나타나기까지 수주\~수개월이 걸릴 수 있으니 임의로 중단하지 마십시오.
 > * 식사와 함께 또는 식후에 복용하면 위장 불편을 줄일 수 있습니다.
@@ -627,6 +656,7 @@ H83.0 미로염
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
+* **낙상 방지** : 어지럼 발작이 느껴지면 즉시 그 자리에 주저앉거나 고정된 물체(벽·가구)를 잡으십시오. 무리하게 걸으려 하지 마십시오.
 * **메니에르병** : 소금을 하루 2 g 이하로 제한하고, 수분을 하루 1.5\~2 L 충분히 마시십시오. 카페인·알코올·흡연을 피하십시오.
 * **이석증 재발 예방** : 비타민 D가 부족한 경우 보충제를 복용하면 재발을 줄일 수 있습니다.
 * 안정제(전정억제제)는 급성기 단기 사용에 한하며, 장기 복용은 뇌의 균형 회복을 방해합니다.
