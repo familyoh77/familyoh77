@@ -8,7 +8,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-☞ [두통 챕터 Red Flags 참조](015_-headache.md)
+☞ [두통 Red Flags ](015_-headache.md#red-flags)참조
 
 #### <mark style="color:$primary;">위험 신호 (SNOOP4+)</mark>
 
@@ -46,9 +46,9 @@ C. ＞3개월 존재
 D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~4)</sup>
 
 _1) 전형적으로 과거 두통의 병력이 없는 사람에서 발생, 시작부터 매일 중단 없이 지속. 만약 환자가 시작 시점을 기억하여 정확히 묘사할 수 없다면 다른 진단이 내려져야 함. 기존 두통의 빈도가 증가된 것이나 약물과용 후에 기존 두통이 악화된 것은 아니어야 함_\
-_2) 두통이 만성편두통 또는 만성긴장형두통의 진단 기준을 충족할지라도 본 진단 기준에 맞으면 신생매일지속두통으로 진단함. 본 두통과 지속반두통의 진단 기준을 모두 충족한다면 후자로 진단함_\
-_3) 약물과용두통에 정의한 양을 초과하여 진통제를 복용하는 경우에 매일두통의 발생이 약물과용의 시점보다 명확하게 선행하지 않았으면 신생매일지속두통과 약물과용두통 두 가지 진단을 동시에 붙임_\
-_4) 모든 경우에서 2차 두통(예: 머리의 외상성 손상, 뇌척수압 관련 두통)을 적절한 검사로 배제해야 함_
+&#xNAN;_&#x32;) 두통이 만성편두통 또는 만성긴장형두통의 진단 기준을 충족할지라도 본 진단 기준에 맞으면 신생매일지속두통으로 진단함. 본 두통과 지속반두통의 진단 기준을 모두 충족한다면 후자로 진단함_\
+&#xNAN;_&#x33;) 약물과용두통에 정의한 양을 초과하여 진통제를 복용하는 경우에 매일두통의 발생이 약물과용의 시점보다 명확하게 선행하지 않았으면 신생매일지속두통과 약물과용두통 두 가지 진단을 동시에 붙임_\
+&#xNAN;_&#x34;) 모든 경우에서 2차 두통(예: 머리의 외상성 손상, 뇌척수압 관련 두통)을 적절한 검사로 배제해야 함_
 
 #### <mark style="color:$primary;">지속반두통 (Hemicrania continua)</mark>
 
@@ -101,7 +101,7 @@ E. 자율 신경 증상이나 안절부절못함은 없음
 F. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1,2)</sup>
 
 _1) 효과적인 치료를 위하여 삼차자율신경두통들(군발두통)과의 감별이 필요_\
-_2) 수면 중 발생하여 잠에서 깨어나게 하는 두통의 다른 가능한 원인들(예: 수면무호흡증, 야간 고혈압, 저혈당, 약물과용, 두개 내 질환) 감별_
+&#xNAN;_&#x32;) 수면 중 발생하여 잠에서 깨어나게 하는 두통의 다른 가능한 원인들(예: 수면무호흡증, 야간 고혈압, 저혈당, 약물과용, 두개 내 질환) 감별_
 
 ## <mark style="color:green;">2차성 두통</mark>
 
@@ -131,8 +131,8 @@ B. 급성기 &/or 대증 치료로 사용될 수 있는 ≥1가지의 약물을 
 C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 _1) 각 환자들은 과용한 약물들의 종류와 이에 대한 진단 기준에 근거하여 본 두통의 한 가지 이상의 아형으로 분류될 수 있음 (예: 트립탄과용두통, 단순진통제과용두통, 혼합진통제과용두통)_\
-_2) 여러 개의 진통제를 병용하고 있으나 각각의 약물은 과용 범위에 해당되지 않는 경우 '개별적으로는 과용이 되지 않는 복수 약물군의 과용에 의한 두통'으로 진단_\
-_3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하고 있으나 각각의 이름과 용량이 명확하지 않은 경우에는 정확한 정보가 확인될 때까지 '증명되지 않은 복수약물군에 의한 약물과용두통'으로 진단_
+&#xNAN;_&#x32;) 여러 개의 진통제를 병용하고 있으나 각각의 약물은 과용 범위에 해당되지 않는 경우 '개별적으로는 과용이 되지 않는 복수 약물군의 과용에 의한 두통'으로 진단_\
+&#xNAN;_&#x33;) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하고 있으나 각각의 이름과 용량이 명확하지 않은 경우에는 정확한 정보가 확인될 때까지 '증명되지 않은 복수약물군에 의한 약물과용두통'으로 진단_
 
 ## <mark style="color:green;">임상 양상 및 진단</mark>
 
@@ -169,7 +169,7 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 * 편두통형 : amitriptyline, topiramate, valproate
 * 긴장형 : amitriptyline, nortriptyline, mirtazapine
 * 난치 증례 : doxycycline 100 ㎎ bid, mexiletine, naltrexone 등 보고됨 (근거 제한적)
-* ※ 예방약 1~2종 시도 후에도 반응이 없으면 신경과 의뢰 권장 (난치성이 많으며 1차 진료의 한계가 있음)
+* ※ 예방약 1\~2종 시도 후에도 반응이 없으면 신경과 의뢰 권장 (난치성이 많으며 1차 진료의 한계가 있음)
 
 #### <mark style="color:$primary;">지속반두통 (Hemicrania continua)</mark>
 
@@ -208,9 +208,9 @@ _3) 두통의 급성기 또는 대증 치료를 목적으로 약물을 과용하
 * MOH 환자에서도 약물 중단 없이 예방 효과가 입증됨 (galcanezumab FOCUS 연구 등)
 * 기존 경구 예방약(topiramate, amitriptyline 등)에 부작용·효과 부족 시 대안으로 고려
 
-<table><thead><tr><th>구분</th><th>성분명</th><th>상품명</th><th>용법</th></tr></thead><tbody><tr><td>항체 주사제 (SC)</td><td>Galcanezumab</td><td><mark style="color:blue;">[엠갈리티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎)</td></tr><tr><td></td><td>Fremanezumab</td><td><mark style="color:blue;">[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC</td></tr><tr><td></td><td>Erenumab</td><td><mark style="color:blue;">[에이모빅]</mark></td><td>70\~140 ㎎/월 SC</td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab</td><td><mark style="color:blue;">[Vyepti]</mark></td><td>100\~300 ㎎/분기 IV; 국내 허가 여부 확인 필요</td></tr><tr><td>경구용 Gepant</td><td>Rimegepant</td><td><mark style="color:blue;">[너텍]</mark></td><td>75 ㎎ 급성기; 예방 목적 격일 복용</td></tr></tbody></table>
+<table><thead><tr><th width="130">구분</th><th width="147">성분명</th><th width="98">상품명</th><th>용법</th></tr></thead><tbody><tr><td>항체 주사제 <br>(SC)</td><td>Galcanezumab</td><td><mark style="color:blue;">[엠갈리티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎)</td></tr><tr><td></td><td>Fremanezumab</td><td><mark style="color:blue;">[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC</td></tr><tr><td></td><td>Erenumab</td><td><mark style="color:blue;">[에이모빅]</mark></td><td>70\~140 ㎎/월 SC</td></tr><tr><td>항체 주사제 <br>(IV)</td><td>Eptinezumab</td><td><mark style="color:blue;">[Vyepti]</mark></td><td>100\~300 ㎎/분기 IV; 국내 허가 여부 확인 필요</td></tr><tr><td>경구용 Gepant</td><td>Rimegepant</td><td><mark style="color:blue;">[너텍]</mark></td><td>75 ㎎ 급성기; 예방 목적 격일 복용</td></tr></tbody></table>
 
-_※ Gepant <mark style="color:blue;">\[너텍]</mark>는 MOH 유발 위험이 없어 기존 진통제·triptan 과용 환자에서 특히 유리_
+_※ Gepant는 MOH 유발 위험이 없어 기존 진통제·triptan 과용 환자에서 특히 유리_
 
 ※ 보험 급여 기준 : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정. 급여 외 사용 시 비급여(고가)
 
