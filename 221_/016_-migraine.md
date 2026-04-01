@@ -261,7 +261,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 * dopamine 수용체 차단제는 편두통 증상을 감소시키는 부가 효과를 지님
 * ✽acetaminophen + metoclopramide 병용이 triptan 수준의 효과가 있다는 보고가 있음
-* 구역/구토가 없더라도 급성기 치료 시 항구토제 추가를 고려 — metoclopramide 등은 위장관 운동을 촉진하여 함께 복용한 진통제의 흡수를 개선하는 효과도 있음
+* 구역/구토가 없더라도 급성기 치료 시 항구토제 추가를 고려 - metoclopramide 등은 위장관 운동을 촉진하여 함께 복용한 진통제의 흡수를 개선하는 효과도 있음
 * 부작용 : QT interval 연장(metoclopramide)
 * metoclopramide : 10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
 * domperidone : 10 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark>
@@ -283,7 +283,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 * 생활습관 개선과 적절한 급성기 치료에도 불구하고 편두통으로 인한 유의미한 일상생활 장애
 * 두통 빈도가 적더라도 급성기 치료에 반응하지 않거나 두통으로 인한 장애가 있는 경우
-* 급성기 치료가 효과적이더라도 두통 빈도가 잦은 경우 (대한두통학회 2021: **≥4회/월 또는 ≥8일/월 중등도 이상 두통** 시 예방 치료 고려)
+* 급성기 치료가 효과적이더라도 두통 빈도가 잦은 경우 (대한두통학회 2021: ≥4회/월 또는 ≥8일/월 중등도 이상 두통 시 예방 치료 고려)
 * ≥10\~15일/월 급성기 치료(약물과용두통 우려가 있으므로 예방 치료 권고)
 * 뇌간 조짐 편두통, 반신 마비 편두통 등 특수 아형
 * 급성기 치료의 의학적 금기가 있는 경우
@@ -328,28 +328,34 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 만성 편두통 또는 삽화 편두통에서 1차 치료 옵션으로 고려
   * 기존 경구 예방약제에 비해 부작용이 적고 순응도가 매우 높음
   * 기존 예방약 실패 없이도 초기 선택 가능 (AHS 2024: 1st-line option으로 인정)
-  * ⚠️ 단, 국내 급여 기준은 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) **3종 이상 실패 후** 사용 인정; 급여 기준 충족 전 사용 시 비급여(고가)
+  * 단, 국내 급여 기준은 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정; 급여 기준 충족 전 사용 시 비급여(고가)
 * 매달 또는 분기마다 피하 주사 (eptinezumab은 IV)
 * 부작용 : 주사 부위 통증/발적, 상기도 감염; 변비(erenumab에서 더 빈번)
 * 금기 : 약물 과민, 임신
 * 주의 : 심혈관 질환, 조절되지 않는 고혈압(특히 Erenumab 사용 시 혈압 모니터링 필요)
 * fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 or 675 ㎎/분기
 * galcanezumab <mark style="color:blue;">\[앰겔러티]</mark> : 120 ㎎/월 (초회 240 ㎎)
-* erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 (수용체 결합형; 국내 급여 미등재)
+* erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 (수용체 결합형; 비급여)
 * eptinezumab : 100\~300 ㎎/분기 IV (국내 미허가)
 
 #### <mark style="color:$primary;">Botulinum toxin (onabotulinumtoxinA)</mark>
 
 * 만성 편두통에서 위약 대비 편두통 발생 약 2일/월 감소 효과
 * 155 U (5 U씩 31군데 근육 주사)
-* <mark style="color:blue;">\[부]</mark> 안검하수(blepharoptosis), 팔 근육 약화, 경부 통증, 주사 부위 통증
-* \[주/금] 약물 과민, 신경 근육 질환(예: 중증 근무력증), 임신, 수유, 근이완제 병용
+* 부작용 : 안검하수(blepharoptosis), 팔 근육 약화, 경부 통증, 주사 부위 통증
+* 주의/금기 : 약물 과민, 신경 근육 질환(예: 중증 근무력증), 임신, 수유, 근이완제 병용
 
 #### <mark style="color:$primary;">항고혈압제</mark>
 
-* flunarizine : 5\~10 ㎎/d <mark style="color:blue;">\[씨베리움]</mark>; <mark style="color:blue;">\[부]</mark> 체중 증가, 졸림, 입마름, 어지럼, 저혈압, 우울; \[주/금] 심한 우울, 파킨슨병, 추체외로 증상
-* candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[아타칸]</mark>; <mark style="color:blue;">\[부]</mark> 저혈압, CHF 악화; \[주/금] 혈관 부종, 임신, 수유
-* lisinopril : 10\~20 ㎎/d <mark style="color:blue;">\[제스트릴]</mark>; <mark style="color:blue;">\[부]</mark> 어지럼, 두통, 기침, 피로, 저혈압; \[주/금] 혈관 부종, sulfonamide 과민
+* flunarizine : 5\~10 ㎎/d <mark style="color:blue;">\[씨베리움]</mark>
+  * 부작용 : 체중 증가, 졸림, 입마름, 어지럼, 저혈압, 우울
+  * 주의/금기 : 심한 우울, 파킨슨병, 추체외로 증상
+* candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[아타칸]</mark>
+  * 부작용 : 저혈압, CHF 악화
+  * 주의/금기 : 혈관 부종, 임신, 수유
+* lisinopril : 10\~20 ㎎/d <mark style="color:blue;">\[제스트릴]</mark>
+  * 부작용 : 어지럼, 두통, 기침, 피로, 저혈압
+  * 주의/금기 : 혈관 부종, sulfonamide 과민
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>
 
@@ -377,11 +383,12 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 * ＞72시간 지속되는 심한 편두통; 탈수·전해질 불균형 동반 가능
 * 응급실 의뢰 고려
-* **IV 수액 보충(hydration)** : 탈수 교정 및 약물 투여 경로 확보를 위해 우선 시행
-* IV/IM 항구토제(metoclopramide, prochlorperazine) : 1차 처치
-* IV ketorolac 15\~30 ㎎ : 진통 보조
-* IV valproate 500\~1,000 ㎎ : 급성기 조절
-* dexamethasone 10 ㎎ IV : 재발 억제 목적으로 추가
+* IV 수액 보충(hydration) : 탈수 교정 및 약물 투여 경로 확보를 위해 우선 시행; 0.9% 생리식염주사액, 5% 포도당주사액, 하트만액
+* IV/IM 항구토제(metoclopramide <mark style="color:blue;">\[맥페란주]</mark>, prochlorperazine <mark style="color:blue;">\[박메릴주]</mark>) : 1차 처치
+* IV ketorolac 15\~30 ㎎ : 진통 보조 <mark style="color:blue;">\[케토신주]</mark>
+* IV valproate 500\~1,000 ㎎ : 급성기 조절 <mark style="color:blue;">\[데파킨주]</mark>
+  * 저혈압 유발 방지를 위해 20\~50 ㎎/분 속도로 서서히 점적 IV
+* dexamethasone 10 ㎎ IV : 재발 억제 목적으로 추가 <mark style="color:blue;">\[덱사메타손주]</mark>
 * dihydroergotamine IV : 난치성 경우 고려; triptan 복용 24시간 후 사용 가능
 
 ***
