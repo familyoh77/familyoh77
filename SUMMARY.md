@@ -23,6 +23,7 @@
   * [만성 두통 Chronic Headache](221_/018_-chronic-headache.md)
   * [경부인성두통 Cervicogenic headache](221_/019_-cervicogenic-headache.md)
   * [어지럼증 Dizziness](221_/020_-dizziness.md)
+  * [실신 Syncope](221_/syncope.md)
   * [반사성 실신 Reflex Syncope, Neurally mediated Syncope](221_/022_-reflex-syncope-neurally-mediated-syncope.md)
   * [일과성 뇌허혈발작 Transient Ischemic Attack, TIA](221_/023_-transient-ischemic-attack-tia.md)
   * [멀미 Motion Sickness](221_/024_-motion-sickness.md)
@@ -234,4 +235,3 @@
   * [영양/식이 지침 Nutrition/Diet Guideline](231_/217_-nutritiondiet-guideline.md)
   * [도핑 방지 가이드](231_/218_.md)
   * [요양급여 인정 기준](231_/219_.md)
-* [실신 Syncope](syncope.md)

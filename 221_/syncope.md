@@ -25,15 +25,13 @@
 
 * 운동 중 또는 누운 자세에서 발생한 실신
 * 비정상 ECG : QTc 연장(＞460 ms(여) / ＞440 ms(남); ＞500 ms는 고위험) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block, ST 이상, Q파
-  * 특히 **Brugada pattern, QTc ＞500 ms, pre-excitation(WPW)** 은 가족성 돌연사 병력(＜50세)과 병존 시 즉각 입원 적응증
+  * 특히 Brugada pattern, QTc ＞500 ms, pre-excitation(WPW) 은 가족성 돌연사 병력(＜50세)과 병존 시 즉각 입원 적응증
 * 전구 증상 없이 갑작스럽게 발생한 실신
 * 기저 구조적 심질환(심부전, 심근증, 판막 질환), 관상동맥병 병력, 또는 가족성 돌연사 병력(＜50세)
 
-{% hint style="warning" %}
-**QTc 연장 확인 시 즉시 약물 검토**
-
-QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것: 항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등. 2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org/) 참조
-{% endhint %}
+> **QTc 연장 확인 시 즉시 약물 검토**
+>
+> QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것: 항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등. 2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org/) 참조
 
 <mark style="color:$warning;">**당일 의뢰 또는 응급 평가 권고**</mark>
 
@@ -43,7 +41,7 @@ QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시
 * 중증 빈혈 또는 전해질 이상 동반
 * 심한 외상 동반 (낙상으로 인한 골절, 두부 손상 등)
 
-<mark style="color:$info;">**외래 추적 / 추가 검사 계획 — 단독 시 즉각 위험 낮으나 반복 시 재평가 필요**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 검사 계획 - 단독 시 즉각 위험 낮으나 반복 시 재평가 필요**</mark>
 
 * 반복적이고 설명할 수 없는 실신 (위 소견 병존 시 즉각 격상)
 
@@ -51,9 +49,7 @@ QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시
 
 ### <mark style="color:orange;">반사성 실신, 신경 매개성 실신 (Reflex syncope, Neurally mediated syncope)</mark>
 
-(☞ [반사성 실신](/broken/pages/b1910cdddb6c9885c4a95c7477abc1b01dfb2cec))
-
-* 실신의 가장 흔한 원인 (약 21%)
+* 실신의 가장 흔한 원인 (약 21%) (☞ [반사성 실신](/broken/pages/b1910cdddb6c9885c4a95c7477abc1b01dfb2cec))
 * 양성 경과; 젊은 환자에서 특히 흔하나 고령자에서도 발생 (이봉형 연령 분포)
 * 기전 : 과도한 vagal tone 또는 말초 순환의 반사 조절 장애
 * 유발 인자 : vasovagal(예: 스트레스, 공포, 통증, 불쾌한 장면/소리/냄새, 의료 시술), situational(예: 기침, 큰 웃음, 배변, 배뇨, 운동, 더운 곳, 오래 서 있음), 머리 회전 또는 carotid sinus 압박(예: 목이 조이는 옷)
@@ -64,10 +60,10 @@ QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시
 
 ### <mark style="color:orange;">기립성 저혈압 실신 (Orthostatic hypotension syncope)</mark>
 
-* 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg(고혈압 환자, 기저 수축기 ≥160 mmHg인 경우 ≥30 mmHg) 또는 이완기 혈압 ≥10 ㎜Hg 감소
-  * **Delayed OH** : 기립 3\~10분 후 발생 — 고령·자율신경 장애 환자에서 놓치기 쉬움; 필요 시 10분까지 모니터
-  * **Initial OH** : 기립 15초 이내 일시적 ≥40 mmHg 저하 후 자발 회복 — 주로 젊은 환자
-* 원인 : 1차성 자율 신경 장애(pure autonomic failure), 2차성 자율 신경 장애(예: 당뇨, spinal cord injury, 파킨슨병), 약물(예: 술, 혈관 확장제, 이뇨제, adrenergic blocker, 진정제), hypovolemia(예: 탈수, 출혈) (☞ p.500)
+* 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg(고혈압 환자, 기저 수축기 ≥160 ㎜Hg인 경우에는 ≥30 ㎜Hg) 또는 이완기 혈압 ≥10 ㎜Hg 감소
+  * Initial OH : 기립 15초 이내 일시적 ≥40 ㎜Hg 저하 후 자발 회복 - 주로 젊은 환자
+  * Delayed OH : 기립 3\~10분 후 발생 - 고령·자율신경 장애 환자에서 놓치기 쉬움; 필요 시 10분까지 모니터
+* 원인 : 1차성 자율 신경 장애(pure autonomic failure), 2차성 자율 신경 장애(예: 당뇨, spinal cord injury, 파킨슨병), 약물(예: 술, 혈관 확장제, 이뇨제, adrenergic blocker, 진정제), hypovolemia(예: 탈수, 출혈) (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
 * 특징
   * 갑자기 일어선 직후 또는 더운 곳에서 장시간 서 있을 때 발생
   * 최근 약물 복용 시작 또는 증량 병력
