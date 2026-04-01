@@ -18,7 +18,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-☞ [두통 챕터 Red Flags 참조](015_-headache.md#red-flags)
+☞ [두통 Red Flags 참조](015_-headache.md#red-flags)
 
 ### <mark style="color:orange;">분류 \[IHS classification ICHD-3]</mark>
 
