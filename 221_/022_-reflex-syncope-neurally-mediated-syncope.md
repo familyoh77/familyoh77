@@ -26,7 +26,7 @@
 
 #### <mark style="color:$primary;">상황 실신 (Situational syncope)</mark>
 
-* 유발 인자 : 기침, 재채기, 큰 웃음, 소화기 자극(예: 삼킴, 배변, 내장 통증), 배뇨, 운동, 식사, 부는 악기 연주, 역도
+* 유발 인자 : 기침, 재채기, 큰 웃음, 소화기 자극(예: 삼킴, 배변, 내장 통증), 배뇨, 운동, 식사, 부는 악기 연주, 역도; 머리를 뒤로 젖히는 자세(예: 미용실 샴푸대 — hair-dresser syncope), 찬물 세수 등도 포함
 * 과거에 같은 상황에서 실신 병력이 있음
 * 전조 증상 : vasovagal syncope와 동일한 전조 증상이 있음
 
@@ -44,9 +44,9 @@
 
 * 운동 중 또는 누운 자세에서 실신 발생
 * 흉통, 심계항진, 호흡 곤란 동반
-* 구조적 심질환 또는 가족성 급사 병력
+* 구조적 심질환 또는 가족성 급사 병력 (특히 50세 미만의 급사; 유전성 부정맥·구조적 심질환 강력 시사)
 * 전조 증상 없이 갑자기 의식 소실
-* ECG 이상 : QTc 연장(＞500 ms) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block
+* ECG 이상 : QTc 연장(≥500 ms) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block
 * 신경학적 이상(국소 마비, 구음 장애, 복시 등) → 뇌졸중·TIA 의심
 
 ## <mark style="color:green;">진단</mark>
@@ -68,6 +68,7 @@
 * 특정 유발 인자 발생 중 또는 직후 발생 → situational syncope
 * 심폐질환 병력, ECG 부정맥 → cardiovascular syncope
 * 기립 직후 발생, 기립 후 혈압 감소 확인 → [기립성 저혈압](../225_/096_-orthostatic-hypotension.md)
+  * 기립 후 15초 이내 일시적 혈압 저하(Initial OH) : 젊은 층에서 흔하며 전형적 VVS와 혼동될 수 있음; 지속 혈압 저하 없이 빠르게 회복되는 점으로 감별
 * 전조 없는 돌발 실신, 운동 중 발생, 심장 병력 → 심장성 실신 배제 필요
 
 ## <mark style="background-color:$warning;">Management</mark>
@@ -113,6 +114,7 @@
   * metoprolol <mark style="color:blue;">\[베타록]</mark>, atenolol <mark style="color:blue;">\[테놀민]</mark> (☞ p.487)
 * SSRI : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2022년 네트워크 메타분석에서 fluoxetine이 재발 감소 확인; paroxetine은 동 분석에서 재발 증가 시사로 권고하지 않음
   * fluoxetine <mark style="color:blue;">\[푸록틴, 프로작]</mark> (☞ p.1146)
+  * ⚠️ **급여 주의** : fluoxetine의 건강보험 급여 적응증은 우울증·강박장애·공황장애 등으로 한정됨. 실신(R55) 단독 상병으로 처방 시 **비급여** 처리되므로 환자에게 사전 안내 필요; 우울·불안 동반 시 해당 F코드 병기로 급여 적용 가능
 
 ## <mark style="color:green;">침습적 치료</mark>
 
@@ -178,8 +180,8 @@ R55.8 기타 실신 및 허탈
 > **미드론 (Midodrine)**
 >
 > * 기립할 때 혈압 유지를 도와주는 약입니다. 식사 전(30분)에 복용하십시오.
+> * **복용 간격** : 통상 3\~4시간 간격으로 복용합니다. 활동 시간이 긴 경우 낮 시간대에 집중하여 복용하십시오 (예: 오전 8시 — 오후 12시 — 오후 4시). **마지막 복용은 취침 4시간 전까지**만 하십시오 (수면 중 고혈압 방지).
 > * **누운 자세 복용 금지** : 누운 채로 복용하거나 복용 후 바로 눕지 마십시오 (앙와위 고혈압 위험).
-> * 마지막 복용은 취침 4시간 전까지만 하십시오.
 > * **흔한 부작용** : 두피 가려움증이나 소름(피부가 닭살처럼 일어나는 느낌)이 생길 수 있습니다. 이는 심각한 알레르기 반응이 아니라 약물의 혈관 수축 작용에 의한 정상적인 반응이므로 임의로 중단하지 마십시오.
 > * 고혈압, 전립선 비대증, 신부전이 있으면 의사에게 알리십시오.
 
