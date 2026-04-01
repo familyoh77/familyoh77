@@ -8,15 +8,9 @@
 * seizure, coma, shock 등을 배제해야 함
 * 기전 : emotional event(cerebral cortex, Ⅸ/Ⅹ 뇌신경), carotid sinus 자극/기침(Ⅸ/Ⅹ), 심근허혈, 호흡 자극(Ⅴ/Ⅶ/Ⅷ), GI 자극(Ⅹ, 척수) → nucleus tractus solitarius → 혈관 확장(교감 신경 차단), 서맥(부교감 신경 활동 증가) → 저혈압, 뇌 관류 저하
 
-### <mark style="color:orange;">위험 인자</mark>
+### <mark style="color:orange;">종류</mark>
 
-* 가족력, 고령, 임신
-* 휴식 시 낮은 혈압, 당뇨
-* 운동 부족
-
-## <mark style="color:green;">종류</mark>
-
-### <mark style="color:orange;">혈관 미주 신경성 실신 (Vasovagal syncope, Neurocardiogenic syncope)</mark>
+#### <mark style="color:$primary;">혈관 미주 신경성 실신 (Vasovagal syncope, Neurocardiogenic syncope)</mark>
 
 * 실신의 가장 흔한 유형 (전체 실신의 약 21%); 연령 분포는 이봉형(bimodal) — 청소년기 및 60대 이후
 * 유발 인자 : 감정적 고통(예: 놀람, 공포, 통증), 장시간 기립, 운동, 열 노출, 유독 가스, 채혈·주사 등 의료 시술
@@ -24,19 +18,25 @@
 * 전조 증상 : 어지럼, 덥거나 추운 느낌, 구역, 창백, 시야 축소, 심한 땀 흘림
 * 실신 후 피로, 구역/구토, 의식 소실을 기억하지 못할 수 있음, myoclonic/tonic-clonic movement(단시간, ＜15초), disorientation
 
-### <mark style="color:orange;">상황 실신 (Situational syncope)</mark>
+#### <mark style="color:$primary;">상황 실신 (Situational syncope)</mark>
 
 * 유발 인자 : 기침, 재채기, 큰 웃음, 소화기 자극(예: 삼킴, 배변, 내장 통증), 배뇨, 운동, 식사, 부는 악기 연주, 역도
 * 과거에 같은 상황에서 실신 병력이 있음
 * 전조 증상 : vasovagal syncope와 동일한 전조 증상이 있음
 
-### <mark style="color:orange;">목동맥굴증후군 (Carotid sinus syncope)</mark>
+#### <mark style="color:$primary;">목동맥굴증후군 (Carotid sinus syncope)</mark>
 
 * 유발 인자 : 자세 변화, 머리 회전, 목이 조이는 옷 착용
 
-### <mark style="color:orange;">Atypical forms</mark>
+#### <mark style="color:$primary;">Atypical forms</mark>
 
 * 유발 인자 없이 발생 또는 비전형적 양상
+
+### <mark style="color:orange;">위험 인자</mark>
+
+* 가족력, 고령, 임신
+* 휴식 시 낮은 혈압, 당뇨
+* 운동 부족
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -116,7 +116,7 @@
 
 ## <mark style="color:green;">침습적 치료</mark>
 
-### <mark style="color:orange;">심박동기 (Pacemaker)</mark>
+#### <mark style="color:$primary;">심박동기 (Pacemaker)</mark>
 
 * 적응증 (2021 ESC 심박동기 가이드라인 - Class I, LOE A) : 40세 이상, 재발성·중증(외상 동반, 전구 증상 짧음), 약물 치료에 반응 없는 cardioinhbitory형 VVS에서 ILR 또는 carotid sinus 마사지/tilt test로 무수축(asystole) 확인 시 dual-chamber pacemaker 적응
   * 무수축 기준 : ILR에서 ≥3초 (증상 동반) 또는 ≥6초 (무증상)
@@ -124,7 +124,7 @@
 * 목동맥굴증후군(carotid sinus syndrome)의 cardioinhibitory/mixed형 : pacemaker 적응 (Class I)
 * Vasodepressor 우세형 또는 40세 미만 환자에서는 pacemaker 효과 제한적
 
-### <mark style="color:orange;">Cardioneuroablation (CNA)</mark>
+#### <mark style="color:$primary;">Cardioneuroablation (CNA)</mark>
 
 * 미주신경의 심장 자율신경절 고주파 절제술; 2024 EHRA/HRS 공동 과학선언 발표
 * 초기 소규모 RCT에서 비약물 치료 대비 재발 억제 우수(2023년); 일반 적용을 위한 대규모 근거 아직 불충분
@@ -218,7 +218,7 @@ R55.8 기타 실신 및 허탈
 
 * 극심한 긴장·통증·채혈·장시간 기립 등 특정 상황에서 갑자기 혈압과 맥박이 떨어지며 순간적으로 의식을 잃는 현상입니다.
 * 의식을 잃기 전 어지럼·식은땀·창백·구역·시야 축소 같은 **전조 증상**이 나타나는 것이 특징입니다.
-* 의식은 수 초~수 분 내 저절로 회복되며, 대부분 건강에 지속적인 해를 끼치지 않습니다.
+* 의식은 수 초\~수 분 내 저절로 회복되며, 대부분 건강에 지속적인 해를 끼치지 않습니다.
 
 #### <mark style="color:$primary;">전조 증상이 느껴지면 즉시 이렇게 하세요</mark>
 
@@ -232,7 +232,7 @@ R55.8 기타 실신 및 허탈
 * **수분·염분 섭취** : 하루 물 2 L 이상, 소금을 지나치게 제한하지 마십시오(고혈압·심부전 없는 경우).
 * **유발 상황 파악·회피** : 더운 환경·장시간 기립·음주·빈속 등 자신의 유발 요인을 파악하십시오.
 * **규칙적인 운동** : 중등도 유산소 운동과 다리 근력 강화 운동이 재발 예방에 도움이 됩니다.
-* **압박 스타킹** : 20~30 mmHg 무릎 길이 압박 스타킹이 혈액이 다리에 고이는 것을 줄여줍니다.
+* **압박 스타킹** : 20\~30 mmHg 무릎 길이 압박 스타킹이 혈액이 다리에 고이는 것을 줄여줍니다.
 * **식후 실신** : 식사를 소량씩 자주 드시고, 식사 후 바로 일어서지 마십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
