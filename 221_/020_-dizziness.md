@@ -89,11 +89,9 @@
 ### <mark style="color:orange;">급성단측전정병증 (Acute Unilateral Vestibulopathy, AUV / 전정신경염)</mark>
 
 * vertigo의 두 번째 흔한 원인
-
-✽국제 전정장애 분류(ICVD)에서 최신 선호 용어는 Acute Unilateral Vestibulopathy(AUV)
-
 * 30\~50세 호발
-* 원인 : 전정신경의 바이러스 감염; 기전- 불명
+* 원인 : 전정신경의 바이러스 감염; 기전은 불명
+* 국제 전정장애 분류(ICVD)에서 최신 선호 용어는 Acute Unilateral Vestibulopathy(AUV)
 
 #### <mark style="color:$primary;">임상 양상</mark>
 
@@ -152,7 +150,7 @@
 * 편두통과 관련하여 발생하는 어지럼증; 약 30%는 어지럼 발생 시 두통을 동반하지 않음 → 두통이 없어도 편두통 병력이 있으면 반드시 고려
 * 5분\~72시간 동안 지속되는 전정기관 증상이 5회 이상 및 편두통 병력이 있는 경우 고려
 * 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민
-  * 청력 소실 또는 이명은 없음&#x20;
+  * 청력 소실 또는 이명은 없음
 * 유발 요인 : 카페인, 알코올, 수면 부족, 호르몬 변화, 특정 음식(티라민 함유 식품), 시각적 자극(복잡한 패턴, 대형 스크린, 스크롤)
 * 치료 : 편두통 치료 (☞ [편두통](016_-migraine.md#management))
 
@@ -177,7 +175,7 @@
 ### <mark style="color:orange;">기타</mark>
 
 * Cervical vertigo : 경추의 외상(특히 과신전)이나 퇴행성 변화 관련; 목의 움직임에 의해 유발
-  * ⚠️ 고령의 혈관 위험인자 보유자에서 고개를 돌릴 때만 발생하는 짧은 어지럼은 VBI(Vertebrobasilar Insufficiency)에 의한 일시적 허혈일 수 있음 — BPPV와 반드시 감별 필요; 신경학적 증상 동반 시 즉시 응급 의뢰
+  * 고령의 혈관 위험 인자 보유자에서 고개를 돌릴 때만 발생하는 짧은 어지럼은 VBI(Vertebrobasilar Insufficiency)에 의한 일시적 허혈일 수 있음 - BPPV와 반드시 감별 필요; 신경학적 증상 동반 시 즉시 응급 의뢰
 * 약물 유발성 : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
 * Psychological : 기분, 불안, 신체화 증상
 * 기립성 저혈압 : presyncope; 맥박 증가 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
@@ -256,7 +254,7 @@
 
 #### <mark style="color:$primary;">유발 인자에 따른 감별</mark>
 
-<table><thead><tr><th width="283.47369384765625">유발 인자</th><th>의심 질환</th></tr></thead><tbody><tr><td>머리 위치 변화</td><td>급성 미로염, BPPV, 소뇌교각종양, MS, 외림프누공</td></tr><tr><td>자발적 삽화(지속되는 유발 인자 없음)</td><td>급성 전정신경염, CVD(stroke or TIA), 메니에르병, 편두통, 다발경화증</td></tr><tr><td>최근 바이러스성 상기도 감염</td><td>급성 전정신경염</td></tr><tr><td>스트레스</td><td>Psychiatric or psychological, 편두통</td></tr><tr><td>면역 저하 (예: 고령, 스트레스)</td><td>HZO</td></tr><tr><td>귀 압력, 두부 외상, 긴장, 소음</td><td>외림프누공</td></tr></tbody></table>
+<table><thead><tr><th width="239.47369384765625">유발 인자</th><th>의심 질환</th></tr></thead><tbody><tr><td>머리 위치 변화</td><td>급성 미로염, BPPV, 소뇌교각종양, MS, 외림프누공</td></tr><tr><td>자발적 삽화(지속되는 유발 인자 없음)</td><td>급성 전정신경염, CVD(stroke or TIA), 메니에르병, 편두통, 다발경화증</td></tr><tr><td>최근 바이러스성 상기도 감염</td><td>급성 전정신경염</td></tr><tr><td>스트레스</td><td>Psychiatric or psychological, 편두통</td></tr><tr><td>면역 저하 (예: 고령, 스트레스)</td><td>HZO</td></tr><tr><td>귀 압력, 두부 외상, 긴장, 소음</td><td>외림프누공</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). Table 3.</mark>_
 
@@ -398,7 +396,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 * 기전 : 전정 핵의 흥분성 조절 (H1 효현제 + H3 길항제), 내이 혈류 개선
 * 용량 : 16 ㎎ tid (48 ㎎/d); 최소 3개월 이상 투여 <mark style="color:blue;">\[메네스에스]</mark>
   * 고용량 요법 : 효과 불충분 시 최대 48 ㎎ tid (144 ㎎/d)까지 증량 보고 있음 (유럽 가이드라인); 기존 용량에 반응 없는 메니에르병 환자에서 6개월 이상의 고용량 요법이 발작 빈도를 유의하게 낮춘다는 근거가 있음; 국내 보험 급여 범위 초과 시 비급여 처방 필요
-* ✽BPPV에는 효과 없음; 중추성 어지럼증에 대한 근거 불충분
+* BPPV에는 효과 없음; 중추성 어지럼증에 대한 근거 불충분
 
 ### <mark style="color:orange;">기타</mark>
 
@@ -430,7 +428,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 *   post canal BPPV에 적용
 
     Epley maneuver보다 효과가 더 좋다는 보고가 있음(증상 소멸까지 평균 SM-plus 2일 vs. EM 3일 소요)
-* [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329)&#x20;
+* [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329)
   * \[어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림\
     → 오른팔을 옆으로 뻗고 오른쪽(환측)으로, 머리가 침대 아래로 내려가도록(head 60 degree overextended) 150도 이상 옆으로 쓰러짐, 이 자세를 60초 유지\
     → 얼굴 각도를 유지한 채 왼쪽(건측)으로 240도 움직임. 60초 유지\
@@ -520,7 +518,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 전정 재활 훈련 : 습관화 운동 중심; 조기 시작이 중요
 * 인지행동치료(CBT) : 발생 8주 이내 시작 시 효과 현저히 높음
-* SSRI/SNRI : sertraline 25\~100 ㎎/d 또는 escitalopram 5\~20 ㎎/d; 최소 1년 유지 권장&#x20;
+* SSRI/SNRI : sertraline 25\~100 ㎎/d 또는 escitalopram 5\~20 ㎎/d; 최소 1년 유지 권장
 
 ### <mark style="color:orange;">외림프누공</mark>
 
