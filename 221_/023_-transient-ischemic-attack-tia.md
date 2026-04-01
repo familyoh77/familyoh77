@@ -2,7 +2,8 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 급성 경색증 없이 뇌/망막/척수의 국소 허혈에 의해 수 분\~24시간 지속되는 일시적 신경 기능 이상
+* 급성 경색증 없이 뇌/망막/척수의 국소 허혈로 인한 일시적 신경 기능 이상 (증상 지속 통상 수 분\~1시간 이내; 고전적 정의상 24시간 이내 소실)
+* **현대적 정의 (Tissue-based definition)** : 증상이 24시간 이내에 소실되더라도 MRI DWI에서 급성 허혈 병변이 확인되면 TIA가 아닌 **뇌경색(stroke)**으로 간주함
 * 뇌졸중의 전조 증상일 수 있음
   * 뇌졸중 환자의 7\~40%에서 TIA의 과거력이 있음
   * TIA 환자의 4\~10%에서 48시간 내, 10\~20%에서 3개월 내 CVA 발생
@@ -27,6 +28,41 @@
 * 경동맥 장애(hemispheric) : 편측 시력 소실, hemianesthesia, 실어증
 * 척추뇌바닥동맥 장애 : 양측 시력 소실, 복시, 어지럼, 운동 실조, 안면 마비, 연하 곤란, 말더듬, 두통, 구역, 구토
 
+{% hint style="danger" %}
+**즉각 응급 이송 (119) — Stroke 또는 생명 위협 가능성**
+
+* 증상이 60분 이상 지속되거나 진료 중에도 회복되지 않는 경우 → TIA가 아닌 급성 뇌졸중 가능성
+* 갑자기 발생한 의식 저하 또는 혼수
+* 벼락 두통(thunderclap headache) : 생애 최악의 두통이 수 초\~1분 내 최고조에 달하는 경우 → SAH 감별
+* 양측 신경학적 결손 또는 갑작스러운 보행 장애·심한 균형 장애를 동반한 복합 신경 증상 → 뇌간/소뇌 병변 의심
+* 혈압 ≥ 180/110 mmHg + 신경 증상 지속 → 고혈압 뇌병증 또는 출혈성 뇌졸중 가능성
+{% endhint %}
+
+{% hint style="warning" %}
+**당일 응급실 평가 권고**
+
+* 처음 발생한 TIA 의심 증상 — 증상 소실 여부와 무관하게 모두 해당
+* ABCD² ≥ 4점 또는 MRI DWI 양성
+* 심방세동 동반 또는 심인성 색전 의심
+* 48시간 내 2회 이상 반복 TIA 증상 (crescendo TIA) → 임박한 뇌졸중 고위험
+* 경동맥 잡음(bruit) 청취 또는 알려진 고도 경동맥 협착 → 조기 영상 평가 및 혈관외과/신경외과 의뢰
+* 항응고제 복용 중 TIA 발생
+* 증상 발생 후 12시간 이내 내원한 모든 환자
+
+**※ MRI DWI 양성 확인 시: ABCD² 점수와 무관하게 뇌졸중에 준하여 즉각 관리**
+{% endhint %}
+
+{% hint style="info" %}
+**주의 깊은 관찰 및 조기 F/U**
+
+* ABCD² ＜ 4점이나 단독 어지럼·감각 이상만 있는 경우
+* 고혈압·당뇨·심방세동 등 복합 위험 인자 보유
+* 고령(≥75세) + 단독 거주
+* 이전 TIA 또는 뇌졸중 과거력
+
+※ 이 그룹에서 생활 습관 교정(금연, DASH diet, 유산소 운동) 및 위험 인자 관리 교육이 가장 시급하게 이루어져야 함
+{% endhint %}
+
 ## <mark style="color:green;">진단</mark>
 
 * 신경학적 검사
@@ -42,7 +78,7 @@
 
 ▶ 판정 : 0\~1점 = 0%, 2\~3점 = 1.3%, 4\~5점 = 4.1%, 6\~7점 = 8.1%
 
-▶ 주의 : 점수가 낮더라도 MRI DWI상 급성 병변 확인 시 고위험군으로 간주
+▶ 주의 : 점수가 낮더라도 MRI DWI상 급성 병변 확인 시 고위험군으로 간주; ABCD² ≥ 4점 **또는 DWI 양성** 모두 고위험으로 DAPT 적용 대상
 
 _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² score in triaging TIA patients. Neurology 2010;74(17)</mark>_
 
@@ -65,6 +101,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * 급성기 뇌졸중 발생 가능성에 대하여 주의 관찰, 필요시 입원 관찰
 * 재발 방지를 위하여 항혈소판/항응고 치료, 생활 습관 교정
 * 기저 질환 및 위험 인자 관리 : 당뇨병, 고혈압(목표 < 130/80 ㎜Hg), 고지혈증, 비만, 심장 질환, 수면무호흡증
+* 증상성 경동맥 협착(50\~99%) 확인 시 : 가급적 2주 이내 CEA(경동맥 내막절제술) 또는 CAS(경동맥 스텐트삽입술) 시행을 위해 혈관외과/신경외과 의뢰 (지연될수록 재발 위험 증가)
 * 1년 동안 매 3개월마다, 이후 매년 F/U
 
 ## <mark style="color:green;">비-약물 치료</mark>
@@ -79,22 +116,22 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 ### <mark style="color:orange;">Antiplatelet therapy</mark>
 
 * atherothrombotic TIA에 적용 (☞ [항혈전제](../231_/214_-anti-thrombotics-anti-coagulants.md#antiplatelet), [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250201\&sno=4\&mtgMtrRegSno=0001))
-* 뇌출혈 배제 후 즉시(가급적 24시간 이내, 이상적으로 12시간 이내) 시작; 최대 72시간 이내까지 효과 있음 (INSPIRES 2023)
+* 뇌출혈 배제 후 즉시 시작; 빠를수록(이상적으로 12시간 이내) 효과 극대화, 최대 72시간 이내까지 유효 (INSPIRES 2023)
 
-#### <mark style="color:$primary;">단기 이중 항혈소판 요법 (DAPT, Dual Antiplatelet Therapy</mark><mark style="color:$primary;">)</mark>
+#### <mark style="color:$primary;">단기 이중 항혈소판 요법 (DAPT, Dual Antiplatelet Therapy)</mark>
 
-* 고위험 TIA에 우선 적용
+* 고위험 TIA (ABCD² ≥ 4점 또는 DWI 양성)에 우선 적용
 
 **Clopidogrel + Aspirin**
 
 * clopidogrel 부하 300 mg\
   → clopidogrel 75 mg/일 + Aspirin 100 mg/일 × 21일 \[클라빅신 듀오, 또는 플라빅스 + 아스피린]\
   → 이후 단독 요법으로 전환
-* 고위험 TIA (ABCD² ≥ 4점) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여(clopidogrel 선호-재발 예방에 aspirin 보다 우월)
+* 고위험 TIA (ABCD² ≥ 4점 또는 DWI 양성) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여(clopidogrel 선호 — 재발 예방에 aspirin보다 우월)
 * 주의
-  * Lacunar stroke에서는 금기
+  * 열공성 뇌경색(lacunar stroke)으로 확인된 경우, 장기적 DAPT는 권고되지 않음 (출혈 위험 증가, SPS3 연구); 21일 단기 DAPT는 초급성기에 적용 가능
   * 21일 초과 DAPT는 출혈 위험 증가로 권고하지 않음
-  * clopidogrel 저항성 의심 시 → ticagrelor + aspirin 으로 대체 고려 (아시아인에서 CYP2C19 기능 손실 대립유전자 빈도가 높아 저항성 발생 가능성 더 큼)
+  * clopidogrel 저항성 의심 시 → ticagrelor + aspirin으로 대체 고려 (아시아인에서 CYP2C19 기능 손실 대립유전자 빈도가 높아 저항성 발생 가능성 더 큼)
 
 **Ticagrelor + Aspirin**
 
@@ -113,6 +150,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 * cardioembolic TIA(심방세동 등)에 적용
 * NOAC(Non-vit K antagonist oral anticoagulant)이 warfarin보다 우선 권고
+* 심방세동 동반 TIA : 뇌출혈 배제 후 가급적 1일 이내 NOAC 시작 권고 (2021 AHA/ASA, ESC 2024 심방세동 가이드라인)
 * apixaban : 2.5\~5 ㎎ bid <mark style="color:blue;">\[엘리퀴스]</mark>
 * rivaroxaban : 15\~20 ㎎ qd (저녁 식사와 함께) <mark style="color:blue;">\[자렐토]</mark>
 * edoxaban : 30\~60 ㎎ qd <mark style="color:blue;">\[릭시아나]</mark>
@@ -121,7 +159,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 ### <mark style="color:orange;">Statin</mark>
 
-* TIA 진단 즉시 고강도 statin 시작 권고
+* TIA 진단 즉시(당일) 고강도 statin 시작 권고; 지연 없이 처방하는 것이 뇌졸중 예방 효과를 극대화함
 * 목표 : LDL-C ＜55 ㎎/dL 및 기저치 대비 50% 이상 감소 (2022 한국지질동맥경화학회·ESC 가이드라인)
 * 고강도 : atorvastatin 40\~80 ㎎/d <mark style="color:blue;">\[리피토]</mark>, rosuvastatin 20\~40 ㎎/d <mark style="color:blue;">\[크레스토]</mark>
 * 고강도 불내성 시 : 중강도 statin으로 대체 (LDL-C 30\~49% 감소 목표)
@@ -140,17 +178,18 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** 고위험 TIA (ABCD² ≥4점) — 급성기 DAPT (비심인성, 뇌출혈 배제 후)
+> **처방례 1.** 고위험 TIA (ABCD² ≥4점 또는 DWI 양성) — 급성기 DAPT (비심인성, 뇌출혈 배제 후)
 >
 > ```
 > 플라빅스 75 mg/T  4T(300 mg)  stat  첫날 부하용량
 > 플라빅스 75 mg/T  1T  qd  (2일째부터 21일까지)
 > 아스피린 장용정 100 mg/T  1T  qd  (1일째부터 21일까지, 식후)
+> 리피토 40 mg/T  1T  qd  (저녁; 고강도 statin; LDL-C 목표 ＜55 mg/dL)
 > ※ 21일 후 단독 요법(아스피린 또는 클로피도그렐)으로 전환, 장기 유지
-> ※ 뇌출혈 배제 후 12시간 이내 시작 권고
+> ※ 뇌출혈 배제 후 가급적 12시간 이내 시작 권고
 > ```
 
-> **처방례 2.** 저위험 TIA (ABCD² ＜4점) 또는 DAPT 21일 완료 후 — 장기 단독 요법
+> **처방례 2.** 저위험 TIA (ABCD² ＜4점, DWI 음성) 또는 DAPT 21일 완료 후 — 장기 단독 요법
 >
 > ```
 > 아스피린 장용정 100 mg/T  1T  qd  (장기 유지; 아침 식후)
@@ -162,12 +201,23 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 > ```
 > 엘리퀴스 5 mg/T  1T  bid  (신기능·체중·연령 기준으로 2.5 mg bid로 감량 고려)
 > 리피토 40 mg/T  1T  qd  (저녁; 고강도 statin)
+> ※ 뇌출혈 배제 후 가급적 1일 이내 시작 권고
 > ※ 항혈소판제와 병용하지 않음 (출혈 위험); 신기능 정기 모니터링
+> ```
+
+> **처방례 4.** Clopidogrel 저항성 의심 또는 중등도 이상 경동맥 협착 — Ticagrelor 기반 DAPT
+>
+> ```
+> 브릴린타 90 mg/T  1T  bid  (21일간; 식사와 무관)
+> 아스피린 장용정 100 mg/T  1T  qd  (21일간; 식후)
+> 리피토 40 mg/T  1T  qd  (저녁; 고강도 statin)
+> ※ CYP2C19 기능손실 대립유전자 확인 또는 clopidogrel 저항성 의심 시 적용
+> ※ 두개내 출혈 병력 시 금기; 21일 후 단독 요법으로 전환
 > ```
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+### <mark style="color:purple;">핵심 복약 지도</mark>
 
 > **항혈소판제 복용 시 주의사항**
 >
