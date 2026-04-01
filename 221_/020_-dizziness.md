@@ -20,7 +20,7 @@
 
 #### <mark style="color:$primary;">Pre-syncope</mark>
 
-* 증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역, 흐릿한 시각 (☞ p.103)
+* 증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역, 흐릿한 시각 (☞ [실신](021_-syncope.md))
   * 보통 서 있거나 똑바로 앉아 있을 때 발생 (✽누워 있을 때 발생하면 cardiac arrhythmia를 의심)
   * 지속 시간 : 수 초\~ 수분
 * 원인 : 기립성 저혈압 및 유발 약물, 부정맥, 심근경색, 관상동맥병
@@ -152,9 +152,9 @@
 * 편두통과 관련하여 발생하는 어지럼증; 약 30%는 어지럼 발생 시 두통을 동반하지 않음 → 두통이 없어도 편두통 병력이 있으면 반드시 고려
 * 5분\~72시간 동안 지속되는 전정기관 증상이 5회 이상 및 편두통 병력이 있는 경우 고려
 * 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민
-  * 청력 소실 또는 이명은 없음
+  * 청력 소실 또는 이명은 없음&#x20;
 * 유발 요인 : 카페인, 알코올, 수면 부족, 호르몬 변화, 특정 음식(티라민 함유 식품), 시각적 자극(복잡한 패턴, 대형 스크린, 스크롤)
-* 치료 : 편두통 치료 (☞ p.76)
+* 치료 : 편두통 치료 (☞ [편두통](016_-migraine.md#management))
 
 ### <mark style="color:orange;">기타</mark>
 
@@ -384,7 +384,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 필요시 혈압 조절, 지질 개선, 항혈전제
 * trimetazidine : 20 ㎎ tid <mark style="color:blue;">\[바스티난]</mark>
-* ginkgo biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid <mark style="color:blue;">\[기넥신]</mark> (보험기준 ☞ 1179)
+* ginkgo biloba extract : 유효성에 대한 근거 부족; 40 ㎎ tid 또는 80 ㎎ bid <mark style="color:blue;">\[기넥신]</mark> ([보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250301\&sno=1\&mtgMtrRegSno=0008))
 * kallidinogenase : 유효성에 대한 근거 부족; 25\~50 IU tid <mark style="color:blue;">\[카레스]</mark>
 
 ### <mark style="color:orange;">Betahistine</mark>
@@ -397,8 +397,8 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 ### <mark style="color:orange;">기타</mark>
 
-* 편두통 치료제 : 편두통 관련 어지럼증에 적용 (☞ p.78)
-* SSRI : psychosomatic vertigo, 지속되는 postural-perceptual vertigo에 적용 (☞ p.1146)
+* 편두통 치료제 : 편두통 관련 어지럼증에 적용
+* SSRI : psychosomatic vertigo, 지속되는 postural-perceptual vertigo에 적용 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#selective-serotonin-reuptake-inhibitor-ssri))
 * steroid : 전정신경염에 적용; 증상 발현 3일 이내 투여 시 단기 전정 기능 회복에 도움 가능 (장기 예후 근거 불충분)
   * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 <mark style="color:blue;">\[메치론]</mark>
 
@@ -414,10 +414,10 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * post canal BPPV의 가장 효과적인 치료법; 치료 성공률 80%
 * [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
-  1. 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다 30°더 내려가게 눕히고(lay back, 머리를 침대 밖으로 늘어뜨림) 1분간 유지
-  2. 이 상태에서 고개를 건측으로 90°돌려 1분간 유지
-  3. 머리와 몸을 건측으로 90°더 돌려 얼굴이 45°각도로 바닥을 향하게 하고 1분간 유지; 이 과정에서 두정부는 계속 아래를 향하도록 함
-  4. 이 상태를 유지하며 천천히 일아나 앉게 하고 30초간 유지
+  * 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다 30°더 내려가게 눕히고(lay back, 머리를 침대 밖으로 늘어뜨림) 1분간 유지\
+    → 이 상태에서 고개를 건측으로 90°돌려 1분간 유지\
+    → 머리와 몸을 건측으로 90°더 돌려 얼굴이 45°각도로 바닥을 향하게 하고 1분간 유지; 이 과정에서 두정부는 계속 아래를 향하도록 함\
+    → 이 상태를 유지하며 천천히 일아나 앉게 하고 30초간 유지
 * 시술 중 구역 발생 가능성에 대하여 설명; 반복 시술할 수 있으며 시술 후 활동 제한은 필요 없음
 
 **Semont-plus maneuver**
@@ -425,33 +425,32 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 *   post canal BPPV에 적용
 
     Epley maneuver보다 효과가 더 좋다는 보고가 있음(증상 소멸까지 평균 SM-plus 2일 vs. EM 3일 소요)
-* [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329) :
-  * \[어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림
-  * → 오른팔을 옆으로 뻗고 오른쪽(환측)으로, 머리가 침대 아래로 내려가도록(head 60 degree overextended) 150도 이상 옆으로 쓰러짐, 이 자세를 60초 유지
-  * → 얼굴 각도를 유지한 채 왼쪽(건측)으로 240도 움직임. 60초 유지
-  * → 일어나 앉아 정면을 보고 60초 유지
+* [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329)&#x20;
+  * \[어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림\
+    → 오른팔을 옆으로 뻗고 오른쪽(환측)으로, 머리가 침대 아래로 내려가도록(head 60 degree overextended) 150도 이상 옆으로 쓰러짐, 이 자세를 60초 유지\
+    → 얼굴 각도를 유지한 채 왼쪽(건측)으로 240도 움직임. 60초 유지\
+    → 일어나 앉아 정면을 보고 60초 유지
 * 오전, 오후, 밤에 각각 3회 반복
 
 **Lempert roll maneuver(Barbecue roll maneuver)**
 
 * lat canal BPPV 치료법; 치료 성공률 ＜75%
 * 방법
-  * 환측 귀가 바닥을 향하도록 90°옆으로 누움
-  * → 건측으로 90도 돌아 누움(얼굴이 천정을 향한 자세)
-  * → 건측으로 90도씩 더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함
-  * → 천천히 일어나 앉음; 각 자세마다 30\~60초 또는 어지럼증이 사라질 때까지 유지함 (✽각 자세의 유지 시간과 눕는 각도에 대해서는 이견이 있음)
+  * 환측 귀가 바닥을 향하도록 90°옆으로 누움\
+    → 건측으로 90도 돌아 누움(얼굴이 천정을 향한 자세)\
+    → 건측으로 90도씩 더 돌아 누워 환측 귀가 바닥을 향한 처음 자세가 되도록 함\
+    → 천천히 일어나 앉음; 각 자세마다 30\~60초 또는 어지럼증이 사라질 때까지 유지함 (✽각 자세의 유지 시간과 눕는 각도에 대해서는 이견이 있음)
 
 **재활 운동**
 
-* 전정 재활 운동
-  * 예: [Brandt-Daroff exercise](https://www.youtube.com/watch?v=voZXtTUdQ00\&t=31s)
-    1. 침대 가장자리에 똑바로 앉음
-    2. 고개를 오른쪽으로 45도(또는 가능한 한) 돌림
-    3. 왼쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지
-    4. 일어나 앉아 고개를 정면을 향하게 함
-    5. 고개를 왼쪽으로 45(또는 가능한 한) 돌림
-    6. 오른쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지
-    7. 일어나 앉아 고개를 정면을 향하게 함
+* 전정 재활 운동 예: [Brandt-Daroff exercise](https://www.youtube.com/watch?v=voZXtTUdQ00\&t=31s)
+  * 침대 가장자리에 똑바로 앉음\
+    → 고개를 오른쪽으로 45도(또는 가능한 한) 돌림\
+    → 왼쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지\
+    → 일어나 앉아 고개를 정면을 향하게 함\
+    → 고개를 왼쪽으로 45(또는 가능한 한) 돌림\
+    → 오른쪽으로 빠르게 눕고 30초간(또는 어지럼이 진정될 때까지) 자세 유지\
+    → 일어나 앉아 고개를 정면을 향하게 함
 
 #### <mark style="color:$primary;">약물 치료</mark>
 
@@ -477,7 +476,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 * 전정 안정제(단기 사용), 항구토제
 * 항생제 : 세균 감염 의심 시 적용
 * 항바이러스제 : herpes에 의한 경우 적용
-  * acyclovir 800 ㎎ 5회/d ×7d <mark style="color:blue;">\[메노바]</mark> (☞ p.962)
+  * acyclovir 800 ㎎ 5회/d ×7d <mark style="color:blue;">\[메노바]</mark> (☞ [단순포진](../229_/181_-herpes-simplex.md#undefined-14))
 
 ### <mark style="color:orange;">메니에르병</mark>
 
@@ -489,7 +488,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 전정 안정제, 항구토제 : 급성 발작기 단기 사용
 * 이뇨제 : hydrochlorothiazide
-* **betahistine** : 발작 예방 목적; 16 ㎎ tid (48 ㎎/d) 이상, 최소 3개월 이상 투여 <mark style="color:blue;">\[베타세르크]</mark> — EAONO·NICE 가이드라인 권고
+* betahistine : 발작 예방 목적; 16 ㎎ tid (48 ㎎/d) 이상, 최소 3개월 이상 투여 <mark style="color:blue;">\[베타세르크]</mark> - EAONO·NICE 가이드라인 권고
 
 ### <mark style="color:orange;">지속성체위지각어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 
@@ -501,7 +500,7 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 * 전정 재활 훈련 : 습관화 운동 중심; 조기 시작이 중요
 * 인지행동치료(CBT) : 발생 8주 이내 시작 시 효과 현저히 높음
-* SSRI/SNRI : sertraline 25\~100 ㎎/d 또는 escitalopram 5\~20 ㎎/d; 최소 1년 유지 권장 (☞ p.1146)
+* SSRI/SNRI : sertraline 25\~100 ㎎/d 또는 escitalopram 5\~20 ㎎/d; 최소 1년 유지 권장&#x20;
 
 ### <mark style="color:orange;">외림프누공</mark>
 
