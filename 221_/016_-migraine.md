@@ -190,7 +190,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 
 * 1차 선택 : 경증 — 진통제(NSAID), 중증 — triptan
 * 중증 시 triptan과 진통제를 병용할 수 있으며 필요시 항구토제를 추가
-* 두통 발생 초기에 투여하는 것이 보다 효과적
+* 두통 발생 초기에 투여하는 것이 보다 효과적; ✽**전조(aura) 단계가 아닌 두통이 시작되는 시점**에 복용해야 최적의 효과를 얻을 수 있음 (전조 단계 조기 복용 시 효과 감소 보고)
 * 저용량을 자주 투여하는 것보다 충분한 용량을 한 번에 투여하는 것이 효과적
 * 구역/구토가 심한 경우 비경구 투여를 고려
 * 효과, 용량, 부작용 면에서 환자 개개인에 맞는 약물을 찾는 과정이 필요
@@ -226,20 +226,21 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 급성기 치료 및 예방 치료 겸용 가능 (rimegepant)
 * 약물과용두통(MOH) 위험이 없거나 오히려 예방 효과 : 기존 진통제·triptan과 달리 자주 복용해도 MOH를 유발하지 않음. MOH 위험군에서 특히 유리
 * 부작용 : 입마름, 어지럼, 구역
-* rimegepant 75 ㎎ 붕해정 <mark style="color:blue;">\[엔유비티]</mark> : 급성기 1정, 예방 목적 격일 복용; 2024년 국내 허가
+* rimegepant 75 ㎎ 붕해정 <mark style="color:blue;">\[엔유비티]</mark> : 급성기 1정, 예방 목적 격일 복용; 2024년 국내 허가 (비급여)
+* atogepant 60 ㎎ <mark style="color:blue;">\[아큅타정]</mark> : 예방 치료 전용; 1정/d (비급여)
 * ubrogepant 50\~100 ㎎ : 급성기 치료; 국내 미허가
 
 #### <mark style="color:$primary;">Ditans</mark>
 
 * 5-HT1F agonist; 선택적 작용으로 triptan의 심혈관계(혈관 수축) 부작용 없음
 * 기전 : neuropeptide 방출 억제 및 삼차신경 통증 전달 경로 억제
-* lasmiditan 50\~200 ㎎ <mark style="color:blue;">\[레이보우]</mark> (비보험)
-* 부작용 : 졸음, 어지럼; 복용 후 8시간 이내 운전 금지
+* lasmiditan 50\~200 ㎎ <mark style="color:blue;">\[레이보우]</mark> (비급여)
+* 부작용 : 졸음, 어지럼; **복용 후 8시간 이내 운전 금지** (졸음 유무와 상관없이 일률 적용)
 
 #### <mark style="color:$primary;">Ergotamine</mark>
 
 * 불확실한 효과 및 부작용으로 2차 선택; triptan 치료 실패 시 고려 (✽시판 단일제 없음)
-* 반동성 두통 위험 — 발작 당 4\~5일 이상 사용하지 않음
+* 반동성 두통 위험 — **≤2일/주** 사용 원칙; 이를 초과하면 약물과용두통(MOH) 위험 증가
 * 부작용 : 구역, 혈관 수축
 * 주의/금기 : 고혈압, 심혈관 질환, 간/신 장애, 발열, 24시간 내 triptan 복용, CYP3A4 억제제 병용
 * caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 30분마다 1정씩 4회 <mark style="color:blue;">\[크래밍]</mark>
@@ -248,7 +249,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 * dopamine 수용체 차단제는 편두통 증상을 감소시키는 부가 효과를 지님
 * ✽acetaminophen + metoclopramide 병용이 triptan 수준의 효과가 있다는 보고가 있음
-* 구역/구토가 없더라도 급성기 치료 시 항구토제 추가를 고려
+* 구역/구토가 없더라도 급성기 치료 시 항구토제 추가를 고려 — metoclopramide 등은 위장관 운동을 촉진하여 함께 복용한 진통제의 흡수를 개선하는 효과도 있음
 * 부작용 : QT interval 연장(metoclopramide)
 * metoclopramide : 10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
 * domperidone : 10 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark>
@@ -270,7 +271,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 * 생활습관 개선과 적절한 급성기 치료에도 불구하고 편두통으로 인한 유의미한 일상생활 장애
 * 두통 빈도가 적더라도 급성기 치료에 반응하지 않거나 두통으로 인한 장애가 있는 경우
-* 급성기 치료가 효과적이더라도 두통 빈도가 잦은 경우
+* 급성기 치료가 효과적이더라도 두통 빈도가 잦은 경우 (대한두통학회 2021: **≥4회/월 또는 ≥8일/월 중등도 이상 두통** 시 예방 치료 고려)
 * ≥10\~15일/월 급성기 치료(약물과용두통 우려가 있으므로 예방 치료 권고)
 * 뇌간 조짐 편두통, 반신 마비 편두통 등 특수 아형
 * 급성기 치료의 의학적 금기가 있는 경우
@@ -297,8 +298,9 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 #### <mark style="color:$primary;">항경련제</mark>
 
 * topiramate : 12.5\~150 ㎎/d <mark style="color:blue;">\[토파맥스]</mark>; <mark style="color:blue;">\[부]</mark> 감각 이상(저림), 복통, 구역, 피로, 맛 변화, 설사, 체중 감소, 기억/집중력 장애, 신결석; \[주/금] 녹내장, 신결석, 임신
-  * 가임기 여성 주의 : 경구 피임약 효과 감소 가능(특히 ≥200 ㎎/d; 저용량에서도 주의), 피임 방법 재검토 필요
+  * 가임기 여성 주의 : 기형 발생 위험(FDA 구등급 D; 신경관 결손 포함); 경구 피임약 효과 감소 가능(특히 ≥200 ㎎/d; 저용량에서도 주의), 피임 방법 재검토 필요
 * valproate : 500\~1,500 ㎎/d <mark style="color:blue;">\[오르필]</mark>; divalproex 250\~1,500 ㎎/d <mark style="color:blue;">\[데파코트]</mark>; <mark style="color:blue;">\[부]</mark> 구역, 체중 증가, 떨림, 탈모, 졸림; \[주/금] 간질환, 췌장염, 임신(FDA 등급 D; 가임기 여성에게는 처방 회피), 저혈소판증
+  * ✽다낭성 난소 증후군(PCOS) 병력이 있는 여성에서도 주의 : valproate가 안드로겐 과잉 및 배란 장애를 악화시킬 수 있음
 
 #### <mark style="color:$primary;">항우울제</mark>
 
@@ -314,6 +316,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 만성 편두통 또는 삽화 편두통에서 1차 치료 옵션으로 고려
   * 기존 경구 예방약제에 비해 부작용이 적고 순응도가 매우 높음
   * 기존 예방약 실패 없이도 초기 선택 가능 (AHS 2024: 1st-line option으로 인정)
+  * ⚠️ 단, 국내 급여 기준은 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) **3종 이상 실패 후** 사용 인정; 급여 기준 충족 전 사용 시 비급여(고가)
 * 매달 또는 분기마다 피하 주사 (eptinezumab은 IV)
 * 부작용 : 주사 부위 통증/발적, 상기도 감염; 변비(erenumab에서 더 빈번)
 * 금기 : 약물 과민, 임신
@@ -322,8 +325,6 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * galcanezumab <mark style="color:blue;">\[앰겔러티]</mark> : 120 ㎎/월 (초회 240 ㎎)
 * erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 (수용체 결합형; 국내 급여 미등재)
 * eptinezumab : 100\~300 ㎎/분기 IV (국내 미허가)
-
-※ 국내 급여 기준 : 기존 예방약(propranolol, topiramate, valproate, amitriptyline 등) 3종 이상 실패 후 사용 인정; 급여 외 사용 시 비급여(고가)
 
 #### <mark style="color:$primary;">Botulinum toxin (onabotulinumtoxinA)</mark>
 
@@ -364,6 +365,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 * ＞72시간 지속되는 심한 편두통; 탈수·전해질 불균형 동반 가능
 * 응급실 의뢰 고려
+* **IV 수액 보충(hydration)** : 탈수 교정 및 약물 투여 경로 확보를 위해 우선 시행
 * IV/IM 항구토제(metoclopramide, prochlorperazine) : 1차 처치
 * IV ketorolac 15\~30 ㎎ : 진통 보조
 * IV valproate 500\~1,000 ㎎ : 급성기 조절
@@ -379,6 +381,8 @@ G43 편두통
 G43.0 전조(조짐) 없는 편두통
 
 G43.1 전조(조짐) 있는 편두통
+
+G43.2 편두통 지속 상태 (Status migrainosus)
 
 G43.3 복잡 편두통
 
@@ -411,6 +415,8 @@ G43.9 상세불명의 편두통
 > ```
 > 인데놀 10 ㎎/T 4T #2 (아침, 저녁)
 > ```
+>
+> _✽시작 용량(40 ㎎/d); 효과 및 내약성에 따라 2\~4주마다 평가하며 최대 160 ㎎/d까지 점진적 증량_
 
 > **처방례 4. 만성 편두통 예방 (항경련제)**
 >
@@ -431,6 +437,7 @@ G43.9 상세불명의 편두통
 > **트립탄 계열 (이미그란, 조믹, 나라믹 등)**
 >
 > * **두통 발생 초기에 즉시 복용**하십시오. 통증이 심해진 후에는 효과가 떨어집니다.
+> * ⚠️ 빛이 번쩍이거나 시야 변화 등의 **전조(aura) 증상이 나타나는 단계에서는 복용하지 마시고**, 실제 두통이 시작될 때 복용하십시오.
 > * 복용 후 2시간이 지나도 두통이 재발하면 1정을 추가로 복용할 수 있습니다.
 > * 협심증, 심근경색, 뇌졸중 병력이 있거나 조절되지 않는 고혈압이 있는 경우 반드시 의사에게 알리십시오.
 > * SSRI 계열 항우울제(예: 렉사프로, 졸로푸트)를 함께 복용하는 경우 의사에게 알리십시오.
