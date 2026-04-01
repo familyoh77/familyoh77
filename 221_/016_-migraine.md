@@ -90,6 +90,7 @@
 * 신경학적 검사 시행 : 보행, 대/소근육 운동 기능, mental status, 단기 기억력, papilledema
 * 영상 검사 : 일률적인 영상 검사는 권고하지 않음; 경고 징후에 해당되는 경우 고려
 * 설문지 작성 : 통증의 수준과 장애 정도 및 치료 경과 파악; MIDAS
+* 편두통 vs 긴장형두통 감별 ☞ [긴장형두통](017_-tension-type-headache-ttha.md#vs)
 
 **MIDAS (Migraine Disability Assessment Test, 편두통 장애 평가 검사)**
 
