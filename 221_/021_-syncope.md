@@ -24,9 +24,18 @@
 <mark style="color:$danger;">**즉각 이송/응급 평가 — 심혈관성 실신 또는 생명 위협 원인 직접 시사**</mark>
 
 * 운동 중 또는 누운 자세에서 발생한 실신
-* 비정상 ECG : QTc 연장(＞500 ms) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block, ST 이상, Q파
+* 비정상 ECG : QTc 연장(＞460 ms(여) / ＞440 ms(남); ＞500 ms는 고위험) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block, ST 이상, Q파
+  * 특히 **Brugada pattern, QTc ＞500 ms, pre-excitation(WPW)** 은 가족성 돌연사 병력(＜50세)과 병존 시 즉각 입원 적응증
 * 전구 증상 없이 갑작스럽게 발생한 실신
 * 기저 구조적 심질환(심부전, 심근증, 판막 질환), 관상동맥병 병력, 또는 가족성 돌연사 병력(＜50세)
+
+{% hint style="warning" %}
+**QTc 연장 확인 시 즉시 약물 검토**
+
+QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것:
+항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등.
+2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org) 참조
+{% endhint %}
 
 <mark style="color:$warning;">**당일 의뢰 또는 응급 평가 권고**</mark>
 
@@ -57,7 +66,9 @@
 
 ### <mark style="color:orange;">기립성 저혈압 실신 (Orthostatic hypotension syncope)</mark>
 
-* 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg 또는 이완기 혈압 ≥10 ㎜Hg 감소
+* 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg(고혈압 환자, 기저 수축기 ≥160 mmHg인 경우 ≥30 mmHg) 또는 이완기 혈압 ≥10 ㎜Hg 감소
+  * **Delayed OH** : 기립 3\~10분 후 발생 — 고령·자율신경 장애 환자에서 놓치기 쉬움; 필요 시 10분까지 모니터
+  * **Initial OH** : 기립 15초 이내 일시적 ≥40 mmHg 저하 후 자발 회복 — 주로 젊은 환자
 * 원인 : 1차성 자율 신경 장애(pure autonomic failure), 2차성 자율 신경 장애(예: 당뇨, spinal cord injury, 파킨슨병), 약물(예: 술, 혈관 확장제, 이뇨제, adrenergic blocker, 진정제), hypovolemia(예: 탈수, 출혈) (☞ p.500)
 * 특징
   * 갑자기 일어선 직후 또는 더운 곳에서 장시간 서 있을 때 발생
@@ -92,12 +103,14 @@
 * 운동 유발 실신 : exercise stress test
 * 반사성/기립성 실신 의심 : head-up tilt-table test (민감도 30\~56%, 특이도 90% 이상)
 * 원인 불명 반복 실신 : Implantable loop recorder (ILR) — 장기 모니터링에 가장 유용
+  * 국내 건강보험 급여 기준 : 원인 불명 반복 실신(2회 이상)으로 비침습적 검사에서 원인 미확인 시 적용 가능; 급여 인정 여부 사전 확인 권고
 * 40세 이상 : carotid sinus massage 고려
 * 실험실 검사 : 임상적으로 필요한 경우에 한하여 시행 (CBC, 전해질, BNP, 혈당, D-dimer 등)
   * 일률적·광범위한 실험실 검사는 권고하지 않음 (Class III: No Benefit)
   * hs-Troponin : 심장 질환 또는 ACS가 의심되는 경우에 한하여 시행; 무증상 저위험군에서 일률적 시행은 불필요
 * EEG : 발작 의심 시 고려
 * 뇌 CT/MRI : 신경학적 이상 소견이 있는 경우에 한하여 고려; 신경학적 증상 없는 단순 실신에서는 routine 촬영 불필요
+* 경동맥 초음파(Carotid Doppler) : 신경학적 국소 증상·징후가 없는 단순 실신에서는 루틴 시행 불필요 (Class III: No Benefit); 국소 신경 증상 동반 시에 한하여 고려
 
 ### <mark style="color:orange;">저위험 - 외래 추적 또는 퇴원 가능</mark>
 
@@ -119,7 +132,11 @@
 
 * 뇌 혈류 감소 없는 의식 소실 → epilepsy, 대사 이상(예: 저혈당, 저산소증, 과호흡/저이산화탄소혈증, 중독), vertebrobasilar TIA (☞ p.109)
 * 의식 소실 없는 쓰러짐 → cataplexy, 낙상, psychogenic pseudosyncope, TIA
-* 발작과의 감별 : 실신 시 눈을 감고 있는 경우가 많으나 발작 시에는 눈을 뜨고 있음; 실신에서의 tonic-clonic movement는 ＜15초로 짧고 실신 후 지남력 즉시 회복; 발작은 postictal confusion 동반
+* **발작과의 감별**
+  * 실신 시 눈을 감고 있는 경우가 많으나 발작 시에는 눈을 뜨고 있음
+  * 실신에서의 tonic-clonic movement(myoclonic jerk)는 **의식 소실 이후**에 발생하며, 지속 시간이 짧고(＜15초) 불규칙·비대칭적인 경우가 많음
+  * 간질성 강직-간대 발작은 의식 소실과 **동시 또는 직전**에 대칭적 강직으로 시작하며 postictal confusion(수분\~수십 분)이 동반됨
+  * Psychogenic pseudosyncope : 눈을 감은 채 의식이 있음; 발작 중 EEG 정상; video-EEG 감별에 유용
 
 ***
 
@@ -132,8 +149,10 @@
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 치료, 기저 질환 치료
-* 유발 약물 검토 및 감량/중단 (혈압 강하제, 이뇨제, 혈관 확장제 등)
+* 유발 약물 검토 및 감량/중단
+  * 혈압 강하제, 이뇨제, 혈관 확장제 등
   * SGLT2 억제제(이뇨 작용으로 혈관 내 용적 감소) 및 GLP-1 수용체 작용제(급격한 체중 감량 동반 시) 복용 중인 경우 기립성 저혈압 유발 가능성 확인
+  * **알파 차단제(tamsulosin, silodosin, alfuzosin 등)** : 전립선 비대증 치료 목적으로 복용 중인 고령 남성에서 기립성 저혈압의 매우 흔한 원인; 실신 환자에서 복용 여부 반드시 확인, 필요 시 감량/중단 또는 약제 전환 고려
 * 저위험 반사성 실신 : 교육 및 안심 (Class I), 비약물 치료 우선 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md))
 * 기립성 저혈압 실신 : 유발 약물 조정, 수분·염분 섭취 증가, 압박 스타킹 (☞ p.500)
 * 심혈관성 실신 : 전문의 의뢰; 부정맥 치료, ICD, pacemaker 등
@@ -156,14 +175,16 @@ R55 실신 및 허탈
 >
 > ```
 > 생리식염수(0.9% NaCl) 500 mL  IV  over 30분  (탈수 동반 시)
-> ※ 이후 경구 수분 섭취 권고; 유발 약물(이뇨제, SGLT2i, GLP-1 RA 등) 검토 및 감량/중단 고려
+> ※ 이후 경구 수분 섭취 권고; 유발 약물(이뇨제, SGLT2i, GLP-1 RA, 알파 차단제 등) 검토 및 감량/중단 고려
 > ```
 
 > **처방례 2.** 반사성 실신 (vasovagal) - 외래 처방
 >
 > ```
 > 미드론 2.5 mg/T  1T  tid  (식전; 마지막 복용은 취침 4시간 전까지; 앙와위 고혈압 주의)
+> ※ 비약물 치료(충분한 수분·염분 섭취, counter-pressure maneuver) 실패 후 2차 선택
 > ※ 수분 2 L/d 이상, 소금 6~9 g/d, counter-pressure maneuver 교육
+> ※ 취침 4시간 전 이후 복용 금지; 낮 시간 복용 후에도 바로 눕지 말 것 (복용 후 최소 2~3시간은 좌위 또는 입위 유지)
 > ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ p.xxx)
 > ```
 
@@ -171,7 +192,8 @@ R55 실신 및 허탈
 >
 > ```
 > 미드론 2.5 mg/T  1T  tid  (식전; 마지막 복용은 취침 4시간 전까지; 고혈압·요저류 주의)
-> 플로리네프 0.1 mg/T  0.5~1T  조식 후  (전해질 모니터 필요)
+> 플로리네프 0.1 mg/T  0.5~1T(0.05~0.1 mg)  조식 후  (전해질 모니터 필요)
+> ※ 취침 4시간 전 이후 복용 금지; 낮 시간 복용 후에도 바로 눕지 말 것 (복용 후 최소 2~3시간은 좌위 또는 입위 유지)
 > ※ 압박 스타킹(20~30 mmHg), 두부 거상 취침(10~20°), 소량 빈번한 식사
 > ```
 
@@ -184,6 +206,13 @@ R55 실신 및 허탈
 > * 의식을 완전히 회복하고 안정될 때까지 움직이지 마십시오.
 > * 전조 증상(어지럼, 식은땀, 창백)이 느껴지면 즉시 앉거나 눕고 다리를 올리십시오.
 > * 회복 후 빠르게 일어나지 말고, 천천히 앉았다가 일어나는 습관을 들이십시오.
+> * 물 500 mL를 빠르게 마시면 혈압 유지에 도움이 됩니다 (전조 증상 발생 시 또는 예방 목적).
+
+> **미드론(Midodrine) 복용 시 주의사항**
+>
+> * 취침 4시간 전 이후에는 복용하지 마십시오.
+> * 낮에 복용한 후에도 바로 눕지 마십시오 (복용 후 최소 2\~3시간은 앉거나 서 있는 자세 유지).
+> * 두통, 두피 따끔거림(piloerection), 소변 보기 어려움이 생기면 의사에게 알리십시오.
 
 > **운전 및 위험 활동**
 >
@@ -222,7 +251,13 @@ R55 실신 및 허탈
 
 #### <mark style="color:$primary;">실신 전조 증상이 느껴질 때</mark>
 
-전조 증상(어지럼·식은땀·창백·시야 흐림)이 오면 즉시 **앉거나 눕고 다리를 올리십시오.** 누울 수 없다면 다리를 교차하여 힘을 주거나, 양 손을 맞잡고 서로 당기십시오. 물 500 mL를 빠르게 마시면 혈압 유지에 도움이 됩니다.
+전조 증상(어지럼·식은땀·창백·시야 흐림)이 오면 즉시 **앉거나 눕고 다리를 올리십시오.** 누울 수 없다면 다음 동작을 시도하십시오:
+
+* 다리를 교차하여 힘주기
+* 양 손을 맞잡고 서로 당기기
+* **엉덩이·허벅지 근육에 강하게 힘주기** (5\~10초 유지, 반복)
+
+물 500 mL를 빠르게 마시면 혈압 유지에 추가로 도움이 됩니다.
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
