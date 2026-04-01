@@ -36,20 +36,20 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 필요**</mark>
+<mark style="color:$danger;">**즉각 응급 조치**</mark>
 
 * 신경학적 이상 : 시각 이상, 구음 장애, 팔/다리 약화, 감각 저하, tingling → 뇌간·소뇌 뇌졸중 의심
 * 중추성 안진 (수직 안진, 방향 변환성 안진) → 소뇌·뇌간 병변의 특이적 징후
 * 흉통 동반 / 실신·허탈 → 심근경색·대동맥박리·부정맥 의심
 * 이전에 경험하지 못한 심한 두통 → 지주막하출혈(thunderclap headache) 의심
 
-<mark style="color:$warning;">**긴급 평가 필요 (당일 응급실 - 수 시간 내)**</mark>
+<mark style="color:$warning;">**긴급 평가 (당일 응급실 - 수 시간 내)**</mark>
 
 * 외상 후 발생 → 두개내출혈 가능성
 * 심한 자세 불안(부축 없이 걸을 수 없음), 행동 장애 → 소뇌 경색·출혈 의심
 * 과거 뇌졸중 병력 + 어지럼 재발 → TIA/뇌졸중 재발 의심
 
-<mark style="color:$info;">**조기 평가  필요 (24\~48시간 내 외래 또는 응급실)**</mark>
+<mark style="color:$info;">**조기 평가 (24\~48시간 내 외래 또는 응급실)**</mark>
 
 * 청력 손실 동반 어지럼 → 미로염·AICA 경색 감별 필요 (신경 증상 동반 시 즉각 응급으로 격상)
 * 원인 미상의 발열(＞38℃) → 뇌막염·뇌염 가능성 (경부 강직·의식 변화 동반 시 즉각 응급으로 격상)
@@ -61,7 +61,8 @@
 * Peripheral : BPPV, 전정신경염, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
 * 기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
 * 고령 : 불안/우울 특성, 균형 감각 손상, 심근경색/뇌졸중 과거력, 청력 장애, 기립성 저혈압, 다제약물(✽≥5가지 약물 복용 환자의 ⅔에서 어지럼증 발생)
-* <mark style="color:$info;">※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%, vestibular neuritis 5.4%였으며 19\~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음. (J Neurol 2020 Aug;267(8):2252-2259.)</mark>
+
+<mark style="color:$info;">※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%, vestibular neuritis 5.4%였으며 19\~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음. (J Neurol 2020 Aug;267(8):2252-2259.)</mark>
 
 ## <mark style="color:green;">말초성 질환</mark>
 
@@ -166,7 +167,7 @@
 
 ### <mark style="color:orange;">멀미 (Motion sickness)</mark>
 
-* 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ p.112)
+* 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ [멀미](020_-dizziness.md#motion-sickness))
 * 원인 : 불명
 * 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적 반응으로 추정
 * 회전, 상하, 낮은 주파수 움직임에서 흔히 발생; 직선, 수평, 높은 주파수 움직임에서는 적게 발생
@@ -178,7 +179,7 @@
 * Cervical vertigo : 경추의 외상(특히 과신전)이나 퇴행성 변화 관련; 목의 움직임에 의해 유발
 * 약물 유발성 : : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
 * Psychological : 기분, 불안, 신체화 증상
-* 기립성 저혈압 : presyncope; 맥박 증가 (☞ p.500)
+* 기립성 저혈압 : presyncope; 맥박 증가 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
 * 과호흡 : lightheadness; 불안, 맥박 증가; 치료- 호흡 조절, β-차단제, 항불안제
 
 ## <mark style="color:green;">진단</mark>
@@ -193,25 +194,25 @@
 **Dix-Hallpike test**
 
 * 방법 ([figure\_e-2.jpg, video\_1.wmv](https://www.neurology.org/doi/10.1212/01.wnl.0000313378.77444.ac))
-  * 침대에 무릎을 뻗은 상태로 길게 앉힘
-  * → 머리를 45°옆으로 돌린 상태에서 턱을 약간 쳐들게 잡고, 머리가 수평보다 30°더 내려가게 빠르게 눕히고(머리를 침대 밖으로 늘어뜨림) 30초간 안진 관찰
-  * → 다시 앉게 하고 30초간 안진 관찰
-  * → 반대 방향으로 머리를 돌려 다시 시행
+  * 침대에 무릎을 뻗은 상태로 길게 앉힘\
+    → 머리를 45°옆으로 돌린 상태에서 턱을 약간 쳐들게 잡고, 머리가 수평보다 30°더 내려가게 빠르게 눕히고(머리를 침대 밖으로 늘어뜨림) 30초간 안진 관찰\
+    → 다시 앉게 하고 30초간 안진 관찰\
+    → 반대 방향으로 머리를 돌려 다시 시행
 * 진단 : 대부분 안진과 증상이 생기는 쪽의 post canal BPPV에 기인. 드물게 ant canal BPPV도 가능
 
 #### <mark style="color:$primary;">Supine roll test</mark>
 
 * 적용 : Dix-Hallpike test에 음성인 BPPV 의심 환자에서 시행
 * 방법 ([video\_2.wmv](https://www.neurology.org/doi/10.1212/01.wnl.0000313378.77444.ac))
-  * 환자를 반듯이 눕히고 고개를 약간 굴곡시킨 상태에서 한쪽으로 빠르게 90도 돌린 후 30초간 어지럼 및 안진을 관찰
-  * → 30초간 정면을 향하게 한 후 반대쪽도 시행
+  * 환자를 반듯이 눕히고 고개를 약간 굴곡시킨 상태에서 한쪽으로 빠르게 90도 돌린 후 30초간 어지럼 및 안진을 관찰\
+    → 30초간 정면을 향하게 한 후 반대쪽도 시행
 * 진단 : 안진과 증상이 생기는 쪽의 lat canal BPPV
 
 #### <mark style="color:$primary;">Head impulse test</mark>
 
 * 방법 ([Figure](https://www.nuemblog.com/blog/hints))
-  * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측 하지 못한 상태에서) 한쪽으로 빠르게 15°돌림
-  * → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행
+  * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측 하지 못한 상태에서) 한쪽으로 빠르게 15°돌림\
+    → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행
 * 음성 (정상) : 시선이 표적에 고정됨; 소뇌 병변에서는 정상 반응을 보임
 * 양성 (비정상) : 시선이 머리 회전을 따라 돌아간 후 정면으로 돌아 옴; 회전시킨 쪽의 vestibulo-ocular reflex 결손 (peripheral vestibular lesion)
 
@@ -223,7 +224,7 @@
   * 양성 (증상 발생) : 외림프누공 의심
 * Vestibular function testing : 진단이 불확실하거나 치료에 반응하지 않을 때 시행
 
-※ **HiNTS Plus Exam**
+※ [**HiNTS Plus Exam**](https://www.nuemblog.com/blog/hints)
 
 * 중추/말초 vertigo 감별에 유용. 안진이 있는 vertigo가 지속되는 환자에서 적용
 * 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
@@ -296,7 +297,7 @@ _<mark style="color:$info;">✽ 침상 감별에는 HINTS Plus(Head impulse test
 | fatigability    | 있음(자세 유지 시 호전)                             | 없음(감소하지 않고 유지)         |
 | habituation     | 있음(반복 검사 시 반응↓)                            | 없음                     |
 
-_<mark style="color:$info;">Ref. Treatment of vertigo AFP 2005;71(6). Table 2. Evaluation of the patient with vertigo. UpToDate.</mark>_&#x20;
+_<mark style="color:$info;">Ref. Treatment of vertigo AFP 2005;71(6). Table 2. Evaluation of the patient with vertigo. UpToDate.</mark>_
 
 #### <mark style="color:$primary;">Vertigo 원인별 특징</mark>
 
@@ -607,7 +608,7 @@ H83.0 미로염
 
 #### <mark style="color:$primary;">어지럼증이란 무엇인가요?</mark>
 
-* **이석증(BPPV)** : 귀 속 작은 돌(이석)이 제자리를 벗어나 특정 머리 움직임 때마다 수 초~수 분간 심한 회전감이 생기는 가장 흔한 어지럼증. 이석정복술(에플리 방법)로 대부분 빠르게 호전됩니다.
+* **이석증(BPPV)** : 귀 속 작은 돌(이석)이 제자리를 벗어나 특정 머리 움직임 때마다 수 초\~수 분간 심한 회전감이 생기는 가장 흔한 어지럼증. 이석정복술(에플리 방법)로 대부분 빠르게 호전됩니다.
 * **전정신경염** : 전정신경의 바이러스 감염으로 수일간 심한 어지럼과 구역이 지속됩니다. 조기 재활 운동이 회복을 앞당깁니다.
 * **메니에르병** : 어지럼·이명·난청이 반복 발생합니다. 저염식과 수분 섭취 조절이 중요합니다.
 * **PPPD** : 급성 전정 질환 이후 수개월간 흔들림·불안정감이 지속되는 상태. 재활 운동과 인지행동치료가 핵심 치료입니다.
@@ -627,7 +628,7 @@ H83.0 미로염
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
-* **메니에르병** : 소금을 하루 2 g 이하로 제한하고, 수분을 하루 1.5~2 L 충분히 마시십시오. 카페인·알코올·흡연을 피하십시오.
+* **메니에르병** : 소금을 하루 2 g 이하로 제한하고, 수분을 하루 1.5\~2 L 충분히 마시십시오. 카페인·알코올·흡연을 피하십시오.
 * **이석증 재발 예방** : 비타민 D가 부족한 경우 보충제를 복용하면 재발을 줄일 수 있습니다.
 * 안정제(전정억제제)는 급성기 단기 사용에 한하며, 장기 복용은 뇌의 균형 회복을 방해합니다.
 * 갑자기 일어날 때는 천천히 움직이십시오.
