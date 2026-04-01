@@ -93,7 +93,7 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 ※ **사회적 고립(Social Isolation)도 독립적 위험 요인** : 혼자 식사하는 환경('혼밥') 자체가 고령자 섭취량 감소의 독립적인 원인이 됨. 9 Ds 항목 외에 식사 동반자 유무, 가족·지역사회 연결 여부 확인 필요
 
-※ 고령 환자 영양·기능 평가 보조 도구
+※ **고령 환자 영양·기능 평가 보조 도구**
 
 * 종아리 둘레(Calf Circumference) : 31 ㎝ 미만이면 근감소증(sarcopenia) 의심; 측정이 간편하여 외래에서 선별 도구로 활용 가능
 * 악력(Grip Strength) : 남성 <28 ㎏, 여성 <18 ㎏ 미만 시 근감소증 의심 (AWGS 2019 기준)
@@ -239,7 +239,7 @@ R63.4 이상체중감소
 
 고령 환자(≥65세)의 영양 상태를 신속하게 선별하기 위한 도구입니다. 지난 3개월간의 변화를 기준으로 점수를 합산합니다.
 
-<table><thead><tr><th width="60">항목</th><th width="316">질문</th><th>점수 기준</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>식사량 감소<br><em>지난 3개월간 식욕부진, 소화기 문제, 씹기/삼키기 곤란 등으로 식사량이 줄었습니까?</em></td><td>0 : 심한 식사량 감소<br>1 : 중등도의 식사량 감소<br>2 : 식사량 감소 없음</td></tr><tr><td><strong>B</strong></td><td>체중 감소<br><em>지난 3개월간 의도하지 않은 체중 감소가 있었습니까?</em></td><td>0 : 3 ㎏ 초과 감소<br>1 : 감소 여부 모름<br>2 : 1\~3 ㎏ 감소<br>3 : 체중 감소 없음</td></tr><tr><td><strong>C</strong></td><td>이동성 (Mobility)</td><td>0 : 침대나 의자에 누워/앉아 지냄<br>1 : 일어설 수 있으나 외출은 못 함<br>2 : 자유롭게 외출 가능</td></tr><tr><td><strong>D</strong></td><td>정신적 스트레스<br><em>지난 3개월간 급성 질환이나 심리적 스트레스를 겪었습니까?</em></td><td>0 : 예<br>2 : 아니오</td></tr><tr><td><strong>E</strong></td><td>신경정신적 문제</td><td>0 : 심한 치매 또는 우울증<br>1 : 경증의 치매<br>2 : 심리적 문제 없음</td></tr><tr><td><strong>F1</strong></td><td>체질량지수 (BMI, ㎏/㎡)<br><em>BMI 측정이 가능한 경우</em></td><td>0 : BMI 19 미만<br>1 : 19 이상 \~ 21 미만<br>2 : 21 이상 \~ 23 미만<br>3 : 23 이상</td></tr><tr><td><strong>F2*</strong></td><td>종아리 둘레 (CC)</td><td>0 : 31 ㎝ 미만<br>3 : 31 ㎝ 이상</td></tr></tbody></table>
+<table><thead><tr><th width="60">항목</th><th width="276">질문</th><th>점수 기준</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>식사량 감소<br><em>지난 3개월간 식욕부진, 소화기 문제, 씹기/삼키기 곤란 등으로 식사량이 줄었습니까?</em></td><td>0 : 심한 식사량 감소<br>1 : 중등도의 식사량 감소<br>2 : 식사량 감소 없음</td></tr><tr><td><strong>B</strong></td><td>체중 감소<br><em>지난 3개월간 의도하지 않은 체중 감소가 있었습니까?</em></td><td>0 : 3 ㎏ 초과 감소<br>1 : 감소 여부 모름<br>2 : 1\~3 ㎏ 감소<br>3 : 체중 감소 없음</td></tr><tr><td><strong>C</strong></td><td>이동성 (Mobility)</td><td>0 : 침대나 의자에 누워/앉아 지냄<br>1 : 일어설 수 있으나 외출은 못 함<br>2 : 자유롭게 외출 가능</td></tr><tr><td><strong>D</strong></td><td>정신적 스트레스<br><em>지난 3개월간 급성 질환이나 심리적 스트레스를 겪었습니까?</em></td><td>0 : 예<br>2 : 아니오</td></tr><tr><td><strong>E</strong></td><td>신경정신적 문제</td><td>0 : 심한 치매 또는 우울증<br>1 : 경증의 치매<br>2 : 심리적 문제 없음</td></tr><tr><td><strong>F1</strong></td><td>체질량지수 (BMI, ㎏/㎡)<br><em>BMI 측정이 가능한 경우</em></td><td>0 : BMI 19 미만<br>1 : 19 이상 \~ 21 미만<br>2 : 21 이상 \~ 23 미만<br>3 : 23 이상</td></tr><tr><td><strong>F2*</strong></td><td>종아리 둘레 (CC)</td><td>0 : 31 ㎝ 미만<br>3 : 31 ㎝ 이상</td></tr></tbody></table>
 
 _\*BMI 측정이 불가능한 경우 F1 대신 사용_
 
