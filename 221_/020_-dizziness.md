@@ -20,7 +20,7 @@
 
 #### <mark style="color:$primary;">Pre-syncope</mark>
 
-* 증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역, 흐릿한 시각 (☞ [실신](021_-syncope.md))
+* 증상 : 실신감, 거의 기절할 것 같은 느낌, 창백, 발한, 구역, 흐릿한 시각 (☞ [실신](/broken/pages/lwehYdDz4jOkTWMpnI8t))
   * 보통 서 있거나 똑바로 앉아 있을 때 발생 (✽누워 있을 때 발생하면 cardiac arrhythmia를 의심)
   * 지속 시간 : 수 초\~ 수분
 * 원인 : 기립성 저혈압 및 유발 약물, 부정맥, 심근경색, 관상동맥병
