@@ -2,15 +2,21 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 실신 : 뇌 혈류량 감소로 인하여 갑작스럽게 발생하고, 신경학적 후유 장애 없이 수 초\~수 분 후 자발적으로 회복되는 일시적인 의식 소실 (☞ p.103)
+* 실신 : 뇌 혈류량 감소로 인하여 갑작스럽게 발생하고, 신경학적 후유 장애 없이 수 초\~수 분 후 자발적으로 회복되는 일시적인 의식 소실 (☞ [실신](syncope.md))
 * 반사성 실신 : 혈관 확장 &/or 서맥(드물게 빈맥)을 포함하는 reflex response에 의한 일시적 의식 소실
 * 재발률 : 30\~69%
 * seizure, coma, shock 등을 배제해야 함
 * 기전 : emotional event(cerebral cortex, Ⅸ/Ⅹ 뇌신경), carotid sinus 자극/기침(Ⅸ/Ⅹ), 심근허혈, 호흡 자극(Ⅴ/Ⅶ/Ⅷ), GI 자극(Ⅹ, 척수) → nucleus tractus solitarius → 혈관 확장(교감 신경 차단), 서맥(부교감 신경 활동 증가) → 저혈압, 뇌 관류 저하
 
-### <mark style="color:orange;">종류</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
-#### <mark style="color:$primary;">혈관 미주 신경성 실신 (Vasovagal syncope, Neurocardiogenic syncope)</mark>
+* 가족력, 고령, 임신
+* 휴식 시 낮은 혈압, 당뇨
+* 운동 부족
+
+## <mark style="color:green;">종류</mark>
+
+#### <mark style="color:$primary;">혈관 미주 신경성 실신 (Vasovagal syncope(VVS), Neurocardiogenic syncope)</mark>
 
 * 실신의 가장 흔한 유형 (전체 실신의 약 21%); 연령 분포는 이봉형(bimodal) — 청소년기 및 60대 이후
 * 유발 인자 : 감정적 고통(예: 놀람, 공포, 통증), 장시간 기립, 운동, 열 노출, 유독 가스, 채혈·주사 등 의료 시술
@@ -32,15 +38,9 @@
 
 * 유발 인자 없이 발생 또는 비전형적 양상
 
-### <mark style="color:orange;">위험 인자</mark>
-
-* 가족력, 고령, 임신
-* 휴식 시 낮은 혈압, 당뇨
-* 운동 부족
-
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:red;">다음 소견이 있으면 단순 반사성 실신보다 심혈관·신경계 원인을 우선 배제</mark>
+<mark style="color:$danger;">다음 소견이 있으면 단순 반사성 실신보다 심혈관·신경계 원인을 우선 배제</mark>
 
 * 운동 중 또는 누운 자세에서 실신 발생
 * 흉통, 심계항진, 호흡 곤란 동반
@@ -67,7 +67,7 @@
 * 스트레스를 유발하는 선행 자극과 함께 전조 증상 있음 → vasovagal syncope
 * 특정 유발 인자 발생 중 또는 직후 발생 → situational syncope
 * 심폐질환 병력, ECG 부정맥 → cardiovascular syncope
-* 기립 직후 발생, 기립 후 혈압 감소 확인 → 기립성 저혈압 (☞ p.500)
+* 기립 직후 발생, 기립 후 혈압 감소 확인 → [기립성 저혈압](../225_/096_-orthostatic-hypotension.md)
 * 전조 없는 돌발 실신, 운동 중 발생, 심장 병력 → 심장성 실신 배제 필요
 
 ## <mark style="background-color:$warning;">Management</mark>
@@ -118,7 +118,7 @@
 
 #### <mark style="color:$primary;">심박동기 (Pacemaker)</mark>
 
-* 적응증 (2021 ESC 심박동기 가이드라인 - Class I, LOE A) : 40세 이상, 재발성·중증(외상 동반, 전구 증상 짧음), 약물 치료에 반응 없는 cardioinhbitory형 VVS에서 ILR 또는 carotid sinus 마사지/tilt test로 무수축(asystole) 확인 시 dual-chamber pacemaker 적응
+* 적응증 (2021 ESC 심박동기 가이드라인 - Class I, LOE A) : 40세 이상, 재발성·중증(외상 동반, 전구 증상 짧음), 약물 치료에 반응 없는 Cardioinhibitory형 VVS에서 ILR 또는 carotid sinus 마사지/tilt test로 무수축(asystole) 확인 시 dual-chamber pacemaker 적응
   * 무수축 기준 : ILR에서 ≥3초 (증상 동반) 또는 ≥6초 (무증상)
   * ※ 이전(2013 ESC) Class IIb에서 Class I으로 상향 (BioSync CLS 등 RCT 결과 반영)
 * 목동맥굴증후군(carotid sinus syndrome)의 cardioinhibitory/mixed형 : pacemaker 적응 (Class I)
