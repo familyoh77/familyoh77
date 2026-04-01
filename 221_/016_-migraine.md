@@ -10,7 +10,7 @@
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
 * 조짐(aura) : 편두통 환자의 20%에서 발생; 보통 5\~60분 지속 후 두통 발생; 운동 관련 조짐은 최대 72시간까지 지속 가능
 
-※ **기존편두통 환자라도 다음의 경우 2차 두통 감별이 필요**
+※ **기존 편두통 환자라도 다음의 경우 2차 두통 감별이 필요**
 
 * 평소와 확연히 다른 두통 양상 또는 급격한 악화
 * 전조(aura)가 60분 이상 지속 → 뇌졸중·TIA 감별, 신경과 의뢰 고려
@@ -18,7 +18,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-☞ [두통 챕터 Red Flags 참조](015_-headache.md)
+☞ [두통 챕터 Red Flags 참조](015_-headache.md#red-flags)
 
 ### <mark style="color:orange;">분류 \[IHS classification ICHD-3]</mark>
 
