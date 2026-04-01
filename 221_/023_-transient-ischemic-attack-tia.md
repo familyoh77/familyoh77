@@ -36,7 +36,7 @@
 
 **ABCD² score**
 
-<table><thead><tr><th>항목</th><th width="307">조건</th><th align="center">배점</th></tr></thead><tbody><tr><td>Age</td><td>≥60세</td><td align="center">1</td></tr><tr><td>BP</td><td>SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg</td><td align="center">1</td></tr><tr><td>Clinical features</td><td>편측 국소 약화 증상</td><td align="center">2</td></tr><tr><td></td><td>약화 증상 없는 발음 장애</td><td align="center">1</td></tr><tr><td>Duration</td><td>≥60분</td><td align="center">2</td></tr><tr><td></td><td>10~59분</td><td align="center">1</td></tr><tr><td>Diabetes</td><td>있음</td><td align="center">1</td></tr></tbody></table>
+<table><thead><tr><th width="167">항목</th><th width="307">조건</th><th width="76" align="center">배점</th></tr></thead><tbody><tr><td>Age</td><td>≥60세</td><td align="center">1</td></tr><tr><td>BP</td><td>SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg</td><td align="center">1</td></tr><tr><td>Clinical features</td><td>편측 국소 약화 증상</td><td align="center">2</td></tr><tr><td></td><td>약화 증상 없는 발음 장애</td><td align="center">1</td></tr><tr><td>Duration</td><td>≥60분</td><td align="center">2</td></tr><tr><td></td><td>10~59분</td><td align="center">1</td></tr><tr><td>Diabetes</td><td>있음</td><td align="center">1</td></tr></tbody></table>
 
 ▶ 의의 : TIA 후 48시간 내의 뇌졸중 발생 위험도 추정; DAPT 적용 기준(≥4점)으로도 활용
 
@@ -78,35 +78,32 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 ### <mark style="color:orange;">Antiplatelet therapy</mark>
 
-* atherothrombotic TIA에 적용 (☞ p.1154, 보험기준 p.1187)
+* atherothrombotic TIA에 적용 (☞ [항혈전제](../231_/214_-anti-thrombotics-anti-coagulants.md#antiplatelet), [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250201\&sno=4\&mtgMtrRegSno=0001))
 * 뇌출혈 배제 후 즉시(가급적 24시간 이내, 이상적으로 12시간 이내) 시작; 최대 72시간 이내까지 효과 있음 (INSPIRES 2023)
 
-#### <mark style="color:$primary;">단기 이중 항혈소판 요법 (DAPT)</mark>
+#### <mark style="color:$primary;">단기 이중 항혈소판 요법 (DAPT, Dual Antiplatelet Therapy</mark><mark style="color:$primary;">)</mark>
 
 * 고위험 TIA에 우선 적용
 
-**Clopidogrel + Aspirin**&#x20;
+**Clopidogrel + Aspirin**
 
-1. clopidogrel 부하 300 mg&#x20;
-2. → clopidogrel 75 mg/일 + Aspirin 100 mg/일 × 21일 \[클라빅신 듀오, 또는 플라빅스 + 아스피린]
-3. → 이후 단독 요법으로 전환
+* clopidogrel 부하 300 mg\
+  → clopidogrel 75 mg/일 + Aspirin 100 mg/일 × 21일 \[클라빅신 듀오, 또는 플라빅스 + 아스피린]\
+  → 이후 단독 요법으로 전환
+* 고위험 TIA (ABCD² ≥ 4점) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여(clopidogrel 선호-재발 예방에 aspirin 보다 우월)
+* 주의
+  * Lacunar stroke에서는 금기
+  * 21일 초과 DAPT는 출혈 위험 증가로 권고하지 않음
+  * clopidogrel 저항성 의심 시 → ticagrelor + aspirin 으로 대체 고려 (아시아인에서 CYP2C19 기능 손실 대립유전자 빈도가 높아 저항성 발생 가능성 더 큼)
 
-※ 고위험 TIA (ABCD² ≥ 4점) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여(clopidogrel 선호-재발 예방에 aspirin 보다 우월)
-
-※ 주의
-
-* Lacunar stroke에서는 금기
-* 21일 초과 DAPT는 출혈 위험 증가로 권고하지 않음
-* clopidogrel 저항성 의심 시 → ticagrelor + aspirin 으로 대체 고려 (아시아인에서 CYP2C19 기능 손실 대립유전자 빈도가 높아 저항성 발생 가능성 더 큼)
-
-**Ticagrelor + Aspirin**&#x20;
+**Ticagrelor + Aspirin**
 
 * Clopidogrel 저항성 환자에서 고려 \[브릴린타 + 아스피린]
 * 중등도 이상의 경동맥 협착이 있거나 CYP2C19 유전자 변이로 clopidogrel 저항성이 우려되는 경우 선택 가능 (THALES 연구 근거; 단, 두개내 출혈 위험 증가에 주의)
 
-#### <mark style="color:$primary;">장기 단독 항혈소판 요법&#x20;</mark>
+#### <mark style="color:$primary;">장기 단독 항혈소판 요법</mark>
 
-* &#x20;DAPT 21일 완료 후 또는 저위험 TIA
+* DAPT 21일 완료 후 또는 저위험 TIA
 * aspirin : 100 ㎎/d (장기 유지) <mark style="color:blue;">\[아스피린 장용정]</mark>
 * clopidogrel : 75 ㎎/d; aspirin 불내성/알레르기 시 <mark style="color:blue;">\[플라빅스]</mark>
 * 서방형 dipyridamole/aspirin : 200/25 ㎎ bid; aspirin 또는 clopidogrel의 대안 <mark style="color:blue;">\[디피아녹스]</mark>
@@ -114,17 +111,17 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 ### <mark style="color:orange;">Anticoagulation therapy</mark>
 
-* cardioembolic TIA(심방세동 등)에 적용 (보험기준 ☞ p.1187)
-* NOAC이 warfarin보다 우선 권고
+* cardioembolic TIA(심방세동 등)에 적용
+* NOAC(Non-vit K antagonist oral anticoagulant)이 warfarin보다 우선 권고
 * apixaban : 2.5\~5 ㎎ bid <mark style="color:blue;">\[엘리퀴스]</mark>
-* rivaroxaban : 15\~20 ㎎ qd (저녁 식사와 함께) <mark style="color:blue;">\[자렐토]</mark>&#x20;
-* edoxaban : 30\~60 ㎎ qd <mark style="color:blue;">\[릭시아나]</mark>&#x20;
-* dabigatran : 110\~150 ㎎ bid <mark style="color:blue;">\[프라닥사]</mark>&#x20;
-* warfarin : INR 목표 2.0\~3.0에 따라 용량 조절 <mark style="color:blue;">\[와파린]</mark>&#x20;
+* rivaroxaban : 15\~20 ㎎ qd (저녁 식사와 함께) <mark style="color:blue;">\[자렐토]</mark>
+* edoxaban : 30\~60 ㎎ qd <mark style="color:blue;">\[릭시아나]</mark>
+* dabigatran : 110\~150 ㎎ bid <mark style="color:blue;">\[프라닥사]</mark>
+* warfarin : INR 목표 2.0\~3.0에 따라 용량 조절 <mark style="color:blue;">\[와파린]</mark>
 
 ### <mark style="color:orange;">Statin</mark>
 
-* TIA 진단 즉시 고강도 statin 시작 권고&#x20;
+* TIA 진단 즉시 고강도 statin 시작 권고
 * 목표 : LDL-C ＜55 ㎎/dL 및 기저치 대비 50% 이상 감소 (2022 한국지질동맥경화학회·ESC 가이드라인)
 * 고강도 : atorvastatin 40\~80 ㎎/d <mark style="color:blue;">\[리피토]</mark>, rosuvastatin 20\~40 ㎎/d <mark style="color:blue;">\[크레스토]</mark>
 * 고강도 불내성 시 : 중강도 statin으로 대체 (LDL-C 30\~49% 감소 목표)
@@ -200,12 +197,12 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 {% hint style="info" %}
 **일과성 뇌허혈발작(TIA), 뇌졸중의 경고 신호입니다**
 
-TIA 증상은 일시적으로 사라지지만, 이후 수일~수 주 내 뇌졸중으로 진행할 수 있습니다. 증상이 회복되어도 반드시 즉시 병원을 방문하십시오.
+TIA 증상은 일시적으로 사라지지만, 이후 수일\~수 주 내 뇌졸중으로 진행할 수 있습니다. 증상이 회복되어도 반드시 즉시 병원을 방문하십시오.
 {% endhint %}
 
 #### <mark style="color:$primary;">일과성 뇌허혈발작(TIA)이란 무엇인가요?</mark>
 
-* 뇌로 가는 혈액이 일시적으로 막혀 팔다리 마비·언어 장애·시야 장애 등이 수 분~수 시간 나타났다가 사라지는 현상입니다.
+* 뇌로 가는 혈액이 일시적으로 막혀 팔다리 마비·언어 장애·시야 장애 등이 수 분\~수 시간 나타났다가 사라지는 현상입니다.
 * 증상이 저절로 회복되어도 뇌졸중(중풍)의 강력한 전조 증상이므로 **즉시 병원을 방문**하여 원인을 파악하고 예방 치료를 시작해야 합니다.
 
 #### <mark style="color:$primary;">이런 증상이 생기면 즉시 응급실로 가세요 (FAST)</mark>
