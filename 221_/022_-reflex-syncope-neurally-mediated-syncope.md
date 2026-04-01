@@ -114,7 +114,7 @@
   * metoprolol <mark style="color:blue;">\[베타록]</mark>, atenolol <mark style="color:blue;">\[테놀민]</mark> (☞ p.487)
 * SSRI : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2022년 네트워크 메타분석에서 fluoxetine이 재발 감소 확인; paroxetine은 동 분석에서 재발 증가 시사로 권고하지 않음
   * fluoxetine <mark style="color:blue;">\[푸록틴, 프로작]</mark> (☞ p.1146)
-  * ⚠️ **급여 주의** : fluoxetine의 건강보험 급여 적응증은 우울증·강박장애·공황장애 등으로 한정됨. 실신(R55) 단독 상병으로 처방 시 **비급여** 처리되므로 환자에게 사전 안내 필요; 우울·불안 동반 시 해당 F코드 병기로 급여 적용 가능
+  * 보험급여 주의 : fluoxetine의 건강보험 급여 적응증은 우울증·강박장애·공황장애 등으로 한정됨. 실신(R55) 단독 상병으로 처방 시 비급여 처리되므로 환자에게 사전 안내 필요; 우울·불안 동반 시 해당 F코드 병기로 급여 적용 가능
 
 ## <mark style="color:green;">침습적 치료</mark>
 
@@ -122,7 +122,7 @@
 
 * 적응증 (2021 ESC 심박동기 가이드라인 - Class I, LOE A) : 40세 이상, 재발성·중증(외상 동반, 전구 증상 짧음), 약물 치료에 반응 없는 Cardioinhibitory형 VVS에서 ILR 또는 carotid sinus 마사지/tilt test로 무수축(asystole) 확인 시 dual-chamber pacemaker 적응
   * 무수축 기준 : ILR에서 ≥3초 (증상 동반) 또는 ≥6초 (무증상)
-  * ※ 이전(2013 ESC) Class IIb에서 Class I으로 상향 (BioSync CLS 등 RCT 결과 반영)
+  * 이전(2013 ESC) Class IIb에서 Class I으로 상향 (BioSync CLS 등 RCT 결과 반영)
 * 목동맥굴증후군(carotid sinus syndrome)의 cardioinhibitory/mixed형 : pacemaker 적응 (Class I)
 * Vasodepressor 우세형 또는 40세 미만 환자에서는 pacemaker 효과 제한적
 
