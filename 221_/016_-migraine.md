@@ -45,7 +45,7 @@
 * 월경편두통(Menstrual migraine) : 월경 -2일\~+3일에 발생, 최소 3주기 중 2주기 발생; 월경 중 다른 날에는 발생 안 함
 * Status migrainosus : ＞72시간 지속되는 심한 편두통
 
-#### <mark style="color:$primary;">만성 편두통</mark>
+### <mark style="color:orange;">만성 편두통</mark>
 
 * ＞3개월 동안 ≥15일/월 발생하는 편두통
 * 흔히 정신적 문제, 수면 문제, 피로, 다른 통증, 소화 장애, 뇌혈관/심혈관 질환 등을 동반
@@ -206,7 +206,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * ibuprofen : 400\~800 ㎎ <mark style="color:blue;">\[부루펜]</mark>
 * naproxen : 500\~550 ㎎ <mark style="color:blue;">\[낙센]</mark>
 * aspirin : 500\~1,000 ㎎ <mark style="color:blue;">\[로날]</mark>
-* dexketoprofen : 25 ㎎ (현재 국내 시판 경구제는 없고, 주사제는 있음 <mark style="color:blue;">\[케랄주]</mark>)
+* dexketoprofen : 25 ㎎
 * acetaminophen : 650\~1,300 ㎎ <mark style="color:blue;">\[타이레놀]</mark> (✽NSAID보다 효과가 적다는 보고가 있음)
 
 #### <mark style="color:$primary;">Triptan</mark>
@@ -232,7 +232,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 약물과용두통([MOH](018_-chronic-headache.md#moh)) 위험이 없거나 오히려 예방 효과 : 기존 진통제·triptan과 달리 자주 복용해도 MOH를 유발하지 않음. MOH 위험군에서 특히 유리
 * 부작용 : 입마름, 어지럼, 구역
 * rimegepant 75 ㎎ 붕해정 <mark style="color:blue;">\[엔유비티]</mark> : 급성기 1정, 예방 목적 격일 복용; 2024년 국내 허가 (비급여)
-* atogepant 60 ㎎ <mark style="color:blue;">\[아큅타정]</mark> : 예방 치료 전용; 1정/d (비급여)
+* atogepant 60 ㎎ <mark style="color:blue;">\[아큅타정]</mark> : 예방 전용(급성기 치료 불가); 삽화·만성 편두통 모두 적응; 1정/d (비급여)
 * ubrogepant 50\~100 ㎎ : 급성기 치료 (국내 미허가)
 
 #### <mark style="color:$primary;">Ditans</mark>
@@ -241,7 +241,13 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 기전 : neuropeptide 방출 억제 및 삼차신경 통증 전달 경로 억제
 * lasmiditan 50\~200 ㎎ <mark style="color:blue;">\[레이보우]</mark> (비급여)
 * 부작용 : 졸음, 어지럼
-  * 복용 후 8시간 이내 운전 금지 (졸음 유무와 상관없이 일률 적용)
+* ⚠️ 복용 후 8시간 이내 운전 금지 (졸음 유무와 상관없이 일률 적용)
+
+**※ CYP3A4 상호작용 주의**
+
+* Gepants (rimegepant, atogepant) : 강력한 CYP3A4 억제제(예: clarithromycin, itraconazole)와 병용 시 약물 농도가 급격히 상승할 수 있으므로 병용을 피하거나 용량 조절이 필요
+* Triptans : eletriptan 등 일부 triptan은 CYP3A4에 의해 대사되므로, 강력한 억제제와 병용 시 이상반응 모니터링이 필요
+* Ergotamine 계열 : CYP3A4 억제제와 병용 시 혈관 수축 부작용(맥각 중독) 위험이 크게 높아지므로 병용 금기에 준하여 관리해야 함
 
 #### <mark style="color:$primary;">Ergotamine</mark>
 
@@ -250,12 +256,6 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 부작용 : 구역, 혈관 수축
 * 주의/금기 : 고혈압, 심혈관 질환, 간/신 장애, 발열, 24시간 내 triptan 복용, [CYP3A4 억제제](../231_/undefined.md#cyp3a4) 병용
 * caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 30분마다 1정씩 4회 <mark style="color:blue;">\[크래밍]</mark>
-
-**※ Gepants & Triptans 복용 시 주의**
-
-* Gepants (Rimegepant, Atogepant) : 강력한 CYP3A4 억제제(예: Clarithromycin, Itraconazole)와 병용 시 약물 농도가 급격히 상승할 수 있으므로 병용을 피하거나 용량 조절이 필요
-* Triptans : Eletriptan 등 일부 트립탄 제제는 CYP3A4에 의해 대사되므로, 강력한 억제제와 병용 시 이상반응 모니터링이 필요
-* Ergotamine 계열 : CYP3A4 억제제와 병용 시 혈관 수축 부작용(맥각 중독) 위험이 크게 높아지므로 병용 금기에 준하여 관리해야 함
 
 #### <mark style="color:$primary;">항구토제</mark>
 
@@ -333,9 +333,9 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 부작용 : 주사 부위 통증/발적, 상기도 감염; 변비(erenumab에서 더 빈번)
 * 금기 : 약물 과민, 임신
 * 주의 : 심혈관 질환, 조절되지 않는 고혈압(특히 Erenumab 사용 시 혈압 모니터링 필요)
-* fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 or 675 ㎎/분기
-* galcanezumab <mark style="color:blue;">\[앰겔러티]</mark> : 120 ㎎/월 (초회 240 ㎎)
-* erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 (수용체 결합형; 비급여)
+* fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 or 675 ㎎/분기 (조건부 급여)
+* galcanezumab <mark style="color:blue;">\[앰겔러티]</mark> : 120 ㎎/월 (초회 240 ㎎) (조건부 급여)
+* erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 (수용체 결합형; 급여 미등재)
 * eptinezumab : 100\~300 ㎎/분기 IV (국내 미허가)
 
 #### <mark style="color:$primary;">Botulinum toxin (onabotulinumtoxinA)</mark>
