@@ -91,6 +91,10 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 <mark style="color:blue;">\[삶의 질 평가]</mark> (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
 ☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다.
 
+{% hint style="warning" %}
+**기능 장애 항목의 임상적 중요성** : 이 문항은 DSM-5 진단기준 D(기능 손상)에 직접 대응한다. **'매우 힘들다' 이상**의 응답은 GAD-7 총점이 낮더라도(mild 범위) 적극적 개입의 근거가 되며, 치료 반응 평가 시에도 증상 점수와 함께 반드시 확인한다.
+{% endhint %}
+
 #### <mark style="color:$primary;">GAD-2 screening</mark>
 
 * GAD-7 1번과 2번 문항 만으로 시행
@@ -128,7 +132,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">감별</mark>
 
 * 스트레스, 갑상선항진증, 심장 질환, 심한 신체 질환, 알코올/항불안제 금단 증상
-* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine), 교감 신경 흥분제(예: β2-작용제), 항고혈압제, NSAID
+* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine), 교감 신경 흥분제(예: β2-작용제), 일부 항고혈압제(예: hydralazine, calcium channel blocker — 반사적 교감 활성), NSAID
 * 다른 정신 질환 : 우울증, 공황장애, 강박장애, 외상 후 스트레스, 신체화장애, 조현병, 망상장애
 
 #### <mark style="color:$primary;">우울증</mark>
@@ -196,27 +200,50 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ p.1146)
 * 저용량으로 시작 → 4\~6주 후 평가하여 효과가 부족하면 1\~2주 간격으로 증량
 * 부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 4주 동안 매주 자살 생각에 대하여 모니터링)
+* **세로토닌 증후군 주의** : SSRI/SNRI 처방 전 병용 약물 확인 필수 — tramadol(오피오이드계 진통제), triptans(편두통 치료제), linezolid(항생제), fentanyl, dextromethorphan(일반 감기약) 등 세로토닌 활성 약물과 병용 시 세로토닌 증후군(고열·근육 경직·진전·의식 변화) 위험; 다른 과 처방 여부 반드시 확인
+* **QT 간격 연장** : escitalopram·citalopram은 SSRI 중 QT 연장 위험이 상대적으로 높음 (FDA 경고, 2012); 고용량(escitalopram >20 ㎎), QT 연장 위험 약물(항부정맥제·항생제·항정신병제 등) 병용 시 주의; 기저 심질환·저칼륨혈증 환자에서 투여 전 ECG 고려
 * SNRI 추가 주의 : 산동(mydriasis) 효과로 인한 안압 상승. 폐쇄각 녹내장(narrow-angle glaucoma) 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
 * 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 모니터링. 투약 초기 전해질 확인 권고
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
 * 약물 중단 시 반동 증상 : 어지럼, 이상 감각, 구역/구토, 두통, 발한, 불안, 수면 장애
 * Tapering 원칙 : 용량이 낮아질수록 더 천천히 감량(hyperbolic tapering); 최소 용량 도달 후 격일 복용으로 2\~4주 유지한 뒤 중단 — 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 천천히 감량
 
-<table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram [시탈로프람]</td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* [렉사프로]</td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline [졸로푸트]</td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* [세로자트, 팍실CR]</td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine [푸로작]</td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine [듀미록스]</td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* [심발타]</td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* [이팩사 XR]</td><td align="center">75</td><td align="center">75~225</td></tr><tr><td>vortioxetine† [브린텔릭스]</td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
+{% hint style="info" %}
+**Hyperbolic Tapering 개념** : 뇌의 세로토닌 수용체 점유율은 약물 용량에 비례하지 않고 쌍곡선(hyperbolic) 관계로 변화한다. 즉 고용량 구간에서는 용량을 크게 줄여도 수용체 점유율 변화가 작지만, 저용량 구간에서는 조금만 줄여도 수용체 점유율이 급격히 변한다. 따라서 감량 후반부일수록 더 작은 폭으로, 더 천천히 줄여야 금단 증상을 최소화할 수 있다.
+
+**실용적 감량 예시 (escitalopram 10 mg 중단 시)**
+
+| 단계 | 용량 | 기간 |
+|---|---|---|
+| 1 | 10 mg → 7.5 mg | 2\~4주 |
+| 2 | 7.5 mg → 5 mg | 2\~4주 |
+| 3 | 5 mg → 2.5 mg | 4\~8주 |
+| 4 | 2.5 mg → 격일 복용 | 4\~8주 |
+| 5 | 중단 | — |
+
+✽ 개인차가 크며, 금단 증상 발생 시 이전 용량으로 되돌아가 더 천천히 감량
+{% endhint %}
+
+<table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* <mark style="color:blue;">[렉사프로]</mark></td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* <mark style="color:blue;">[세로자트, 팍실CR]</mark></td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine <mark style="color:blue;">[듀미록스]</mark></td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* <mark style="color:blue;">[심발타]</mark></td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* <mark style="color:blue;">[이팩사 XR]</mark></td><td align="center">37.5</td><td align="center">75~225</td></tr><tr><td>vortioxetine† <mark style="color:blue;">[브린텔릭스]</mark></td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
 
 \* GAD에 대하여 FDA 승인 (escitalopram, paroxetine, duloxetine, venlafaxine XR)\
 † GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능(근거 축적 중)
 
 #### <mark style="color:$primary;">GABA-analogue</mark>
 
-* SSRI/SNRI를 사용할 수 없을 때 고려
+* SSRI/SNRI를 사용할 수 없을 때 또는 보조 요법으로 고려
 * pregabalin : 150\~600 ㎎ <mark style="color:blue;">\[리리카]</mark>
+  * GAD에 대해 EMA(유럽) 허가; WFSBP 등 일부 국제 가이드라인에서 1차 선택 약제로 권고
+  * 효과 발현이 SSRI보다 빠름(1\~2주); 수면 개선 효과도 있음
+  * SSRI/SNRI의 성기능 부작용(성욕 저하, 불감증)을 피해야 하는 환자에게 유용한 대안
+  * 주의 : 남용·의존 가능성(특히 약물 남용 과거력), 어지럼·진정 부작용; 신기능 저하 시 감량
+  * ✽ 대한불안의학회 가이드라인에서는 Step 5에 위치 (국내 임상 관행 반영)
 
 #### <mark style="color:$primary;">Azapirone</mark>
 
 * 5-HT1A autoreceptor 방해에 의한 serotonergic system 작용
 * benzodiazepine보다 의존 위험은 적지만 효과가 적고 효과 발현까지 오래 걸림
-* 동반된 우울증에 대해서는 효과 없음
+* 주요우울증에는 효과 불충분 (경도 우울 동반 시 일부 효과 보고는 있으나 신뢰도 제한적)
 * 부작용 : 불면, 흥분, 구역
 * buspirone : 10\~60 ㎎/d <mark style="color:blue;">\[부스파]</mark>
 
@@ -228,8 +255,9 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 저용량으로 시작 (☞ p.1149)
 * 고령에서는 내성 및 낙상 등의 사고 위험으로 감량 투여 (특히 long-acting 제제 주의)
 * 불안, 불쾌감, 진전 등의 반동 현상을 피하기 위하여 중단 시 중간 반감기 약제(예: clonazepam)가 선호되며 중단 시 tapering
+* **역설적 탈억제(Paradoxical disinhibition)** : 드물게 고령자, 기질적 뇌질환(치매·뇌손상) 환자, 소아에서 BZD 복용 후 오히려 불안·흥분·공격성이 심해지는 반응이 나타날 수 있음; 이 경우 즉시 중단
 
-<table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (mg/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam [자낙스]</td><td align="center">0.5~6</td><td align="center">11~15</td></tr><tr><td>lorazepam [아티반]</td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>clonazepam [리보트릴]</td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide [리버티]</td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>clorazepate</td><td align="center">15~60</td><td align="center">36~200</td></tr><tr><td>diazepam [디아제팜]</td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
+<table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (mg/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam <mark style="color:blue;">[자낙스]</mark></td><td align="center">0.5~6</td><td align="center">11~15</td></tr><tr><td>lorazepam <mark style="color:blue;">[아티반]</mark></td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide <mark style="color:blue;">[리버티]</mark></td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>clorazepate</td><td align="center">15~60</td><td align="center">36~200</td></tr><tr><td>diazepam <mark style="color:blue;">[디아제팜]</mark></td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">항정신병 약물</mark>
 
@@ -238,6 +266,13 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * olanzapine : 2.5\~7.5 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[자이프렉사]</mark>
 * quetiapine : 12.5\~100 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[쎄로켈]</mark>
 * risperidone : 0.5\~1 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[리스페달]</mark>
+
+#### <mark style="color:$primary;">항히스타민계 항불안제</mark>
+
+* hydroxyzine : H1 길항 + 항콜린 작용; 의존성 없음; 효과 발현 빠름(30\~60분) — 급성 불안 완화에 유용
+* 진정 작용으로 수면 장애 동반 시 유리
+* 주의 : 졸음, 입마름; 고령자 낙상 주의; QT 연장 가능성
+* hydroxyzine : 50\~100 ㎎ qid <mark style="color:blue;">\[아디팜]</mark>
 
 #### <mark style="color:$primary;">β-차단제</mark>
 
@@ -274,9 +309,9 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 TCA
 
-* amitriptyline : 25\~50 ㎎/d, 100\~300 ㎎/d; 편두통 적응 <mark style="color:blue;">\[에트라빌]</mark>
-* imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d <mark style="color:blue;">\[이미프라민]</mark>
-* nortriptyline : 25 ㎎/d, 50\~150 ㎎/d; 근골격 통증 적응 <mark style="color:blue;">\[센시발]</mark>
+* amitriptyline : 시작 25 ㎎/d → 유지 100\~300 ㎎/d; 편두통 적응 <mark style="color:blue;">\[에트라빌]</mark>
+* imipramine : 시작 25 ㎎/d → 유지 100\~300 ㎎/d <mark style="color:blue;">\[이미프라민]</mark>
+* nortriptyline : 시작 25 ㎎/d → 유지 50\~150 ㎎/d; 근골격 통증 적응 <mark style="color:blue;">\[센시발]</mark>
 
 #### <mark style="color:$primary;">Step 5</mark>
 
@@ -291,6 +326,8 @@ TCA
 ***
 
 ### <mark style="color:red;">질병코드</mark>
+
+F41.1 범불안장애 (Generalized Anxiety Disorder, GAD)
 
 F41.2 혼합형 불안 및 우울장애
 
@@ -308,6 +345,7 @@ F41.9 상세불명의 불안장애
 > ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 — 저용량 시작 이유 설명
 > ※ 30세 미만: 투약 첫 4주간 매주 자살 사고 모니터링
 > ※ 고령자: 투약 2~4주 후 전해질(Na) 확인 (SIADH 위험)
+> ※ QT 연장 주의: 고용량(>20 mg) 또는 QT 연장 유발 약물 병용 시 ECG 고려
 > ```
 
 > **처방례 2.** GAD — Step 1, SNRI 단독 (불안 + 통증 동반, 또는 SSRI 불내성)
@@ -334,8 +372,18 @@ F41.9 상세불명의 불안장애
 > ```
 > 팍실 CR 12.5 mg/T  1T  qd  조식 후  (4주 후 25 mg으로 증량 고려)
 > ※ 항콜린 부작용(변비, 구갈, 요저류) 주의
-> ※ 임산부 투여 금기 (PPHN 위험)
+> ※ 임신 중 가능하면 회피 권고 (임신 1기 태아 심장기형, 말기 PPHN·신생아 금단 증상 위험; 불가피한 경우 정신건강의학과 협진)
 > ※ 중단 시 discontinuation syndrome 발생 빈도 높음 — 반드시 서서히 감량
+> ```
+
+> **처방례 5-B.** GAD — Step 1, Buspirone 단독 (BZD 의존 위험 환자, SSRI 불내성)
+>
+> ```
+> 부스파 5 mg/T  1T  tid  식후  (첫 1~2주)
+> → 1~2주 간격으로 5 mg씩 증량, 목표 용량 20~30 mg/d (최대 60 mg/d)
+> ※ 효과 발현까지 2~4주 소요 — 즉각 효과를 기대하지 않도록 설명
+> ※ 의존성 없음; BZD 남용·의존 과거력 환자에 특히 유용
+> ※ MAO 억제제와 병용 금지
 > ```
 
 > **처방례 5.** GAD — Step 3, SSRI + 비전형 항정신병제 병용 (Step 1\~2 불충분)
@@ -355,7 +403,7 @@ F41.9 상세불명의 불안장애
 > **불안장애 약물 복용 안내**
 >
 > * 약 효과는 2\~4주 후 서서히 나타납니다. 처음 1\~2주는 오히려 불안이 약간 더 느껴질 수 있으나 곧 호전되므로 임의로 중단하지 마십시오.
-> * 반드시 담당 의사와 상의한 후 서서히 줄여야 합니다. 갑자기 끊으면 어지럼, 저림, 구역 등 금단 증상이 생길 수 있습니다.
+> * 반드시 담당 의사와 상의한 후 서서히 줄여야 합니다. 갑자기 끊으면 어지럼, 저림, 구역 등 **중단 증상(discontinuation syndrome)**이 생길 수 있습니다.
 > * 커피·에너지음료 등 카페인 음료와 술은 불안을 악화시킵니다.
 > * 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
 
@@ -390,7 +438,7 @@ F41.9 상세불명의 불안장애
 
 #### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
-* **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼·저림·구역 등 금단 증상이 생길 수 있습니다. 반드시 의사와 상의하여 서서히 줄이십시오.
+* **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼·저림·구역 등 **중단 증상(적응 과정에서 일시적으로 나타나는 반응)**이 생길 수 있습니다. 반드시 의사와 상의하여 서서히 줄이십시오.
 * **초기 적응기** : 복용 첫 1\~2주 동안은 일시적으로 불안이 더 느껴질 수 있으나, 적응 과정이므로 안심하셔도 됩니다.
 * **안정제(BZD) 주의** : 안정제는 의존성 예방을 위해 의사의 지시대로 단기간만 사용합니다.
 * 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
