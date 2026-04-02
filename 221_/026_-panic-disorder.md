@@ -68,11 +68,11 @@
 
 **Panic Disorder Severity Scale (PDSS)**
 
-* 7개 항목 자가평가도구 : 공황발작 빈도, 공황발작 시 고통 정도, 예기 불안, 광장공포적 회피, 공황 관련 감각에 대한 회피, 직업적 기능 장애, 사회적 기능 장애(☞ [대한불안의학회](https://public.anxiety.or.kr/html/?pmode=evaluationtool))
+* 7개 항목 자가평가도구 : ⓵ 공황발작 빈도, ⓶ 공황발작 시 고통 정도, ⓷ 예기 불안, ⓸ 광장공포적 회피, ⓹ 공황 관련 감각에 대한 회피, ⓺ 직업적 기능 장애, ⓻ 사회적 기능 장애(☞ [대한불안의학회](https://public.anxiety.or.kr/html/?pmode=evaluationtool))
 * 배점 : 각 0\~4점(없음-약간-보통-심함-극심; 총 0\~28점)
 * 치료 반응 모니터링에 활용; 0\~7점 = 경증 / 8\~15점 = 중등도(유의한 공황장애) / 16\~28점 = 중증
 
- ※ 동반 질환 파악을 위해 [GAD-7](025_-anxiety-disorder.md#generalized-anxiety-disorder-7-item-gad-7), [PHQ-9](027_-depression.md#phq-9) 병행 사용 권고
+※ 동반 질환 파악을 위해 [GAD-7](025_-anxiety-disorder.md#generalized-anxiety-disorder-7-item-gad-7), [PHQ-9](027_-depression.md#phq-9) 병행 사용 권고
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -101,23 +101,23 @@
 
 \[대한불안의학회]
 
-#### <mark style="color:$primary;">초기 : 항우울제 + BZD계 항불안제 + 인지행동치료</mark>
+**초기 : 항우울제 + BZD계 항불안제 + 인지행동치료**
 
 * 광장공포증이 없는 경우의 약물 치료는 항우울제 단독 선택도 가능
 * BZD계 항불안제 병합 투여 기간 : 4주 (항우울제 효과 발현 전 브릿지 목적)
 
-#### <mark style="color:$primary;">유지 : 항우울제 + 인지행동치료</mark>
+**유지 : 항우울제 + 인지행동치료**
 
 * 광장공포증이 있는 경우의 약물 치료는 항우울제 + BZD계 항불안제 병용 치료도 가능
 
-#### <mark style="color:$primary;">약물 치료 반응이 불충분한 경우</mark>
+**약물 치료 반응이 불충분한 경우**
 
 * 다른 항우울제로 교체 또는 다른 계열 항우울제/비정형 항정신병제(aripiprazole, quetiapine)/강화 약물(예: propranolol, buspirone) 추가
-  * **Propranolol** : 공황장애 자체를 치료하지는 않으나, 급성기 발작 시 빈맥·떨림을 즉각적으로 억제하여 환자에게 증상에 대한 통제감을 제공하는 보조적 역할; 기관지 천식·서맥·심블록이 있는 경우 금기
+* Propranolol : 공황장애 자체를 치료하지는 않으나, 급성기 발작 시 빈맥·떨림을 즉각적으로 억제하여 환자에게 증상에 대한 통제감을 제공하는 보조적 역할; 기관지 천식·서맥·심블록이 있는 경우 금기
 
-### <mark style="color:orange;">PDSS 점수별 단계적 치료 알고리즘</mark>
+#### <mark style="color:$primary;">PDSS 점수별 단계적 치료 알고리즘</mark>
 
-<table><thead><tr><th>PDSS 총점</th><th>중증도 분류</th><th>치료 목표</th><th>권고 치료 전략</th></tr></thead><tbody><tr><td>0 ~ 7점</td><td>경증 (Mild)</td><td>증상 조절 및 교육</td><td>• 비약물 치료 우선: 질병 교육, 복식 호흡, 카페인/술 제한<br>• 선택적 약물: 환자가 일상 불편감을 호소할 경우 SSRI 저용량 고려</td></tr><tr><td>8 ~ 15점</td><td>중등도 (Moderate)</td><td>발작 빈도 감소 및 예기 불안 완화</td><td>• 1차 선택: SSRI 또는 SNRI 단독 투여<br>• 초기 병용: 급성기 증상 조절을 위해 BZD 2~4주 단기 병용<br>• 병행: 인지행동치료(CBT) 또는 디지털 치료제(DTx) 권고</td></tr><tr><td>16 ~ 28점</td><td>중증 (Severe)</td><td>집중 치료 및 기능 회복</td><td>• 강력한 약물 요법: SSRI/SNRI + BZD 병용 (필요 시 용량 증량)<br>• 다각적 접근: 고강도 CBT(노출 요법 포함) 병행 필수<br>• 평가: 자살 사고 및 동반 질환(우울증 등) 정밀 평가</td></tr><tr><td>치료 반응 불충분 시</td><td>불응성 (Refractory)</td><td>약물 교체 및 강화</td><td>• Step 2: 다른 계열의 SSRI/SNRI로 교체<br>• Step 3: 비정형 항정신병제(aripiprazole, quetiapine 등) 또는 보조 약제(propranolol, buspirone) 추가<br>• 의뢰: 정신건강의학과 전문의 협진 권고</td></tr></tbody></table>
+<table><thead><tr><th width="108">PDSS 총점</th><th width="122">중증도 분류</th><th width="133">치료 목표</th><th>권고 치료 전략</th></tr></thead><tbody><tr><td>0 ~ 7점</td><td>경증 <br> (Mild)</td><td>증상 조절 및 교육</td><td>• 비약물 치료 우선: 질병 교육, 복식 호흡, 카페인/술 제한<br>• 선택적 약물: 환자가 일상 불편감을 호소할 경우 SSRI 저용량 고려</td></tr><tr><td>8 ~ 15점</td><td>중등도<br> (Moderate)</td><td>발작 빈도 감소 및 예기 불안 완화</td><td>• 1차 선택: SSRI 또는 SNRI 단독 투여<br>• 초기 병용: 급성기 증상 조절을 위해 BZD 2~4주 단기 병용<br>• 병행: 인지행동치료(CBT) 또는 디지털 치료제(DTx) 권고</td></tr><tr><td>16 ~ 28점</td><td>중증<br> (Severe)</td><td>집중 치료 및 기능 회복</td><td>• 강력한 약물 요법: SSRI/SNRI + BZD 병용 (필요 시 용량 증량)<br>• 다각적 접근: 고강도 CBT(노출 요법 포함) 병행 필수<br>• 평가: 자살 사고 및 동반 질환(우울증 등) 정밀 평가</td></tr><tr><td>치료 반응<br> 불충분 시</td><td>불응성<br> (Refractory)</td><td>약물 교체 및 강화</td><td>• Step 2: 다른 계열의 SSRI/SNRI로 교체<br>• Step 3: 비정형 항정신병제(aripiprazole, quetiapine 등) 또는 보조 약제(propranolol, buspirone) 추가<br>• 의뢰: 정신건강의학과 전문의 협진 권고</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
@@ -147,8 +147,7 @@
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
 * 30세 미만 : 투약 첫 4주간 매주 자살 사고 모니터링
 * 세로토닌 증후군 주의 : SSRI 증량기 또는 병용 요법 시 고열·근육 경직·정신 상태 변화 발생 시 즉시 중단 후 응급 평가
-* **성기능 장애 및 체중 증가** : SSRI/SNRI 장기 복용 시 성기능 장애(약 30\~60%)와 체중 증가가 흔한 중단 원인; 투약 전 미리 안내하고, 부작용이 현저한 경우 vortioxetine 등 대체 약제 고려
-* vortioxetine <mark style="color:blue;">\[브린텔릭스]</mark> : 공황장애 공식 적응증 아님; 우울증 동반 또는 SSRI 성기능·위장 부작용이 심한 경우 고려 가능 (소규모 연구 수준, 근거 축적 중)
+* 성기능 장애 및 체중 증가 : SSRI/SNRI 장기 복용 시 성기능 장애(약 30\~60%)와 체중 증가가 흔한 중단 원인임. 투약 전 미리 안내하고, 부작용이 현저한 경우 다른 SSRI/SNRI로 교체하거나 감량을 시도하며, 호전되지 않으면 정신건강의학과 협진
 
 <table><thead><tr><th width="251.5263671875">SSRI/SNRI</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>escitalopram <mark style="color:blue;">[렉사프로]</mark></td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine <mark style="color:blue;">[세로자트]</mark></td><td>10~20</td><td>20~60</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td>25</td><td>50~200</td></tr><tr><td>venlafaxine XR <mark style="color:blue;">[이팩사 XR]</mark></td><td>37.5</td><td>75~225</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td>10~20</td><td>20~80</td></tr><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td>10~20</td><td>20~40</td></tr><tr><td>paroxetine CR <mark style="color:blue;">[팍실 CR]</mark></td><td>12.5~25</td><td>25~75</td></tr></tbody></table>
 
@@ -262,7 +261,7 @@ F41.0 공황장애
 더 큰 공포 → 증상 악화 (악순환 반복)
 ```
 
-이 악순환을 끊는 것이 치료의 핵심입니다. 발작이 오더라도 **"이것은 경보장치의 오작동이며, 1시간 안에 반드시 사라진다"**는 것을 인식하면 공포 반응을 줄일 수 있습니다.
+이 악순환을 끊는 것이 치료의 핵심입니다. 발작이 오더라도 \*\*"이것은 경보장치의 오작동이며, 1시간 안에 반드시 사라진다"\*\*는 것을 인식하면 공포 반응을 줄일 수 있습니다.
 
 {% hint style="warning" %}
 **카페인 주의** : 카페인은 심박수 증가, 손 떨림, 불안감 등 공황발작의 신체 증상을 그대로 모방합니다. 카페인이 공황의 방아쇠(Trigger)가 될 수 있으므로, 커피·에너지음료·녹차를 가급적 삼가주십시오.
