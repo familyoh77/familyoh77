@@ -2,13 +2,13 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 급성 경색증 없이 뇌/망막/척수의 국소 허혈로 인한 일시적 신경 기능 이상 (증상 지속 통상 수 분\~1시간 이내; 고전적 정의상 24시간 이내 소실)
-* 현대적 정의 (Tissue-based definition) : 증상이 24시간 이내에 소실되더라도 MRI DWI에서 급성 허혈 병변이 확인되면 TIA가 아닌 뇌경색(stroke)으로 간주함
-* 뇌졸중의 전조 증상일 수 있음
+* 급성 경색증 없이 뇌/망막/척수의 국소 허혈로 인한 일시적 신경 기능 이상&#x20;
+* 증상 지속 통상 수 분\~1시간 이내; 고전적 정의상 24시간 이내 소실
+* 현대적 정의 (tissue-based definition) : 증상이 24시간 이내에 소실되더라도 MRI DWI(확산강조영상)에서 급성 허혈 병변이 확인되면 TIA가 아닌 뇌경색(stroke)으로 간주함
+* 의의: 뇌졸중의 전조 증상일 수 있음
   * 뇌졸중 환자의 7\~40%에서 TIA의 과거력이 있음
   * TIA 환자의 4\~10%에서 48시간 내, 10\~20%에서 3개월 내 CVA 발생
-* 증상 발생 후 가능한 한 빨리(12시간 내) 진료
-* 발생 24시간 내 평가를 권고
+* 조치 : 증상 발생 후 가능한 한 빨리(12시간 내) 진료; 발생 24시간 내 평가 권고
 
 ## <mark style="color:green;">원인</mark>
 
@@ -34,13 +34,13 @@
 
 * 증상이 60분 이상 지속되거나 진료 중에도 회복되지 않는 경우 - TIA가 아닌 급성 뇌졸중 가능성
 * 갑자기 발생한 의식 저하 또는 혼수
-* 벼락 두통(thunderclap headache) : 생애 최악의 두통이 수 초\~1분 내 최고조에 달하는 경우 - SAH 감별
+* 벼락 두통(thunderclap headache) : 생애 최악의 두통이 수 초\~1분 내 최고조에 달하는 경우 - SAH 의심
 * 양측 신경학적 결손 또는 갑작스러운 보행 장애·심한 균형 장애를 동반한 복합 신경 증상 - 뇌간/소뇌 병변 의심
-* 혈압 ≥ 180/110 mmHg + 신경 증상 지속 - 고혈압 뇌병증 또는 출혈성 뇌졸중 가능성
+* 혈압 ≥ 180/110 mmHg + 신경 증상 지속 - 고혈압 뇌병증 또는 출혈성 뇌졸중 의심
 
 <mark style="color:$warning;">**당일 응급실 평가**</mark>
 
-* 처음 발생한 TIA 의심 증상 - 증상 소실 여부와 무관하게 모두 해당
+* 처음 발생한 TIA 의심 증상 (증상 소실 여부와 무관하게 모두 해당)
 * ABCD² ≥ 4점 또는 MRI DWI 양성
 * 심방세동 동반 또는 심인성 색전 의심
 * 48시간 내 2회 이상 반복 TIA 증상 (crescendo TIA) - 임박한 뇌졸중 고위험
@@ -62,13 +62,13 @@
 ## <mark style="color:green;">진단</mark>
 
 * 신경학적 검사
-* ECG; 초기 ECG 정상이더라도 원인 불명 TIA에서는 Holter 또는 장기 심전도 모니터링 고려 (잠재적 심방세동 스크리닝)
+* ECG; 초기 ECG가 정상이더라도 원인 불명 TIA에서는 Holter 또는 장기 심전도 모니터링 고려 (잠재적 심방세동 스크리닝)
 * 실험실 검사 : CBC, 전해질, Cr, 혈당, 지질
 * 영상 검사 : CT, MRI, MRA, 경동맥검사; 증상 발생 48시간 내 시행
 
 **ABCD² score**
 
-<table><thead><tr><th width="167">항목</th><th width="307">조건</th><th width="76" align="center">배점</th></tr></thead><tbody><tr><td>Age</td><td>≥60세</td><td align="center">1</td></tr><tr><td>BP</td><td>SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg</td><td align="center">1</td></tr><tr><td>Clinical features</td><td>편측 국소 약화 증상</td><td align="center">2</td></tr><tr><td></td><td>약화 증상 없는 발음 장애</td><td align="center">1</td></tr><tr><td>Duration</td><td>≥60분</td><td align="center">2</td></tr><tr><td></td><td>10~59분</td><td align="center">1</td></tr><tr><td>Diabetes</td><td>있음</td><td align="center">1</td></tr></tbody></table>
+<table><thead><tr><th width="109">항목</th><th width="307">조건</th><th width="76" align="center">배점</th></tr></thead><tbody><tr><td>연령</td><td>≥60세</td><td align="center">1</td></tr><tr><td>혈압</td><td>SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg</td><td align="center">1</td></tr><tr><td>임상 특징</td><td>편측 국소 약화 증상</td><td align="center">2</td></tr><tr><td></td><td>약화 증상 없는 발음 장애</td><td align="center">1</td></tr><tr><td>지속 시간</td><td>≥60분</td><td align="center">2</td></tr><tr><td></td><td>10~59분</td><td align="center">1</td></tr><tr><td>당뇨병</td><td>있음</td><td align="center">1</td></tr></tbody></table>
 
 ▶ 의의 : TIA 후 48시간 내의 뇌졸중 발생 위험도 추정; DAPT 적용 기준(≥4점)으로도 활용
 
@@ -90,22 +90,24 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * SAH : 갑자기 발생, 광선 공포증을 동반한 심한 두통
 * 현훈 : 어지럼(±난청), 발한
 
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 급성기 뇌졸중 발생 가능성에 대하여 주의 관찰, 필요시 입원 관찰
-* 재발 방지를 위하여 항혈소판/항응고 치료, 생활 습관 교정
+* 증상성 경동맥 협착(50\~99%) 확인 시 가급적 2주 이내 CEA(경동맥 내막절제술) 또는 CAS(경동맥 스텐트삽입술) 시행을 위해 혈관외과/신경외과 의뢰 (지연될수록 재발 위험 증가)
 * 기저 질환 및 위험 인자 관리 : 당뇨병, 고혈압(목표 < 130/80 ㎜Hg), 고지혈증, 비만, 심장 질환, 수면무호흡증
-* 증상성 경동맥 협착(50\~99%) 확인 시 : 가급적 2주 이내 CEA(경동맥 내막절제술) 또는 CAS(경동맥 스텐트삽입술) 시행을 위해 혈관외과/신경외과 의뢰 (지연될수록 재발 위험 증가)
-* 1년 동안 매 3개월마다, 이후 매년 F/U
+* 재발 방지를 위하여 항혈소판/항응고 치료, 생활 습관 교정
+* 추구 관찰 : 1년 동안 매 3개월마다, 이후 매년
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
 * 금연
 * 적정 체중 유지
-* 규칙적 유산소 운동 : 달리기, 자전거, 수영 등을 중등도 이상의 강도로 거의 매일(≥3회/주), ≥30분/일(≥150분/주) 시행 (☞ p.1160)
-* DASH diet : 과일, 야채, 통곡물, 저지방 유제품 권장; 술, 소금, 당분, meats 제한 (☞ p.1164)
+* 규칙적 유산소 운동 : 달리기, 자전거, 수영 등을 중등도 이상의 강도로 거의 매일(≥3회/주), ≥30분/일(≥150분/주) 시행 (☞ [운동 지침](../231_/216_-physical-activity-guideline.md))
+* DASH diet : 과일, 야채, 통곡물, 저지방 유제품 권장; 술, 소금, 당분, meats 제한 (☞ [식이 지침](../231_/217_-nutritiondiet-guideline.md))
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -123,7 +125,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * clopidogrel 부하 300 mg\
   → clopidogrel 75 mg/일 + Aspirin 100 mg/일 × 21일 \[클라빅신 듀오, 또는 플라빅스 + 아스피린]\
   → 이후 단독 요법으로 전환
-* 고위험 TIA (ABCD² ≥ 4점 또는 DWI 양성) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여(clopidogrel 선호 — 재발 예방에 aspirin보다 우월)
+* 고위험 TIA (ABCD² ≥ 4점 또는 DWI 양성) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여(clopidogrel 선호 - 재발 예방에 aspirin보다 우월)
 * 주의
   * 열공성 뇌경색(lacunar stroke)으로 확인된 경우, 장기적 DAPT는 권고되지 않음 (출혈 위험 증가, SPS3 연구); 21일 단기 DAPT는 초급성기에 적용 가능
   * 21일 초과 DAPT는 출혈 위험 증가로 권고하지 않음
@@ -132,7 +134,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 **Ticagrelor + Aspirin**
 
 * Clopidogrel 저항성 환자에서 고려 \[브릴린타 + 아스피린]
-* 중등도 이상의 경동맥 협착이 있거나 CYP2C19 유전자 변이로 clopidogrel 저항성이 우려되는 경우 선택 가능 (THALES 연구 근거; 단, 두개내 출혈 위험 증가에 주의)
+* 중등도 이상의 경동맥 협착이 있거나 CYP2C19 유전자 변이로 clopidogrel 저항성이 우려되는 경우 선택 가능 (THALES 연구 근거; 단, 두개 내 출혈 위험 증가에 주의)
 
 #### <mark style="color:$primary;">장기 단독 항혈소판 요법</mark>
 
@@ -145,7 +147,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 ### <mark style="color:orange;">Anticoagulation therapy</mark>
 
 * cardioembolic TIA(심방세동 등)에 적용
-* NOAC(Non-vit K antagonist oral anticoagulant)이 warfarin보다 우선 권고
+* NOAC(non-vit K antagonist oral anticoagulant)을 warfarin보다 우선 권고
 * 심방세동 동반 TIA : 뇌출혈 배제 후 가급적 1일 이내 NOAC 시작 권고 (2021 AHA/ASA, ESC 2024 심방세동 가이드라인)
 * apixaban : 2.5\~5 ㎎ bid <mark style="color:blue;">\[엘리퀴스]</mark>
 * rivaroxaban : 15\~20 ㎎ qd (저녁 식사와 함께) <mark style="color:blue;">\[자렐토]</mark>
