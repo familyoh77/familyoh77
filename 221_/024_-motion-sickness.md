@@ -31,19 +31,17 @@
 * 감정 변화 - 두려움·불안
 * 수면 부족
 
-※ 주요 멀미 유발 약물 :
+※ **주요 멀미 유발 약물**
 
-| 약물 분류 | 주요 약물 예시 | 기전/비고 |
-|---|---|---|
-| 아편유사제(Opioids) | morphine, codeine, tramadol | CTZ 직접 자극, 위 배출 지연 |
-| 항생제 | erythromycin, metronidazole, tetracycline | 구역 유발, 위장관 자극 |
-| NSAIDs | ibuprofen, naproxen, aspirin | 위장관 자극, 위 배출 지연 |
-| 항우울제 | SSRI, TCA, MAOI | 어지럼·구역 유발 |
-| 항경련제 | valproate, carbamazepine | 어지럼·구역 유발 |
-| 호르몬제 | 경구피임약, HRT | 호르몬 변동으로 감수성 증가 |
-| 항암제 | cisplatin, cyclophosphamide | 강력한 CTZ 자극 |
-| 디곡신 | digoxin | 치료 범위에서도 구역 유발 가능 |
-| 도파민 작용제 | levodopa, bromocriptine | CTZ 도파민 수용체 자극 |
+* 아편유사제 : morphine, codeine, tramadol; CTZ 직접 자극, 위 배출 지연
+* 항생제 : erythromycin, metronidazole, tetracycline; 구역 유발, 위장관 자극
+* NSAIDs : ibuprofen, naproxen, aspirin; 위장관 자극, 위 배출 지연
+* 항우울제 : SSRI·TCA·MAOI; 어지럼·구역 유발
+* 항경련제 : valproate, carbamazepine; 어지럼·구역 유발
+* 호르몬제 : 경구피임약·HRT; 호르몬 변동으로 감수성 증가
+* 항암제 : cisplatin, cyclophosphamide; 강력한 CTZ 자극
+* 디곡신 : 치료 범위에서도 구역 유발 가능
+* 도파민 작용제 : levodopa, bromocriptine; CTZ 도파민 수용체 자극
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -76,9 +74,9 @@
 * 두통 동반, 특히 후두부·경부 통증 → 후두와 병변(소뇌출혈, Arnold-Chiari 기형 등)
 * 안진(nystagmus), 특히 수직 안진 → 중추성 병변
 * 처음으로 발생한 심한 어지럼·구토 (평소와 다른 양상) → 중추성 원인
-* 이명·청력 소실 동반 → 메니에르병, 청신경종&#x20;
+* 이명·청력 소실 동반 → 메니에르병, 청신경종
 * 멀미약에 전혀 반응하지 않음 → 다른 원인
-* PPPD(지속성 체위지각 어지럼증) : 시각 자극에 의한 만성 어지럼증; 움직임과 무관한 지속적 증상·불안 동반이 멀미와의감별점
+* PPPD(지속성 체위지각 어지럼증) : 시각 자극에 의한 만성 어지럼증; 움직임과 무관한 지속적 증상·불안 동반이 멀미와의 감별점
 
 ***
 
@@ -122,7 +120,7 @@
   * 출발 최소 4시간 전(이상적으로는 6\~8시간 전) 귀 뒤의 털 없는 건조한 피부 표면에 부착(72시간 동안 효과)
   * 만 8세 미만 금기; 국내 소아용 제품 미시판으로 사실상 성인 전용으로 사용
   * 1매 부착으로 3일간 유효; 3일 이상 적용해야 할 경우 첫 번째 것을 제거하고 다른 패취를 반대편 귀 뒤에 부착
-  * 주의 : Scopolamine 경피제 사용 시 체온 상승(hyperthermia) 위험(FDA 안전 경고)&#x20;
+  * 주의 : Scopolamine 경피제 사용 시 체온 상승(hyperthermia) 위험(FDA 안전 경고)
     * 주로 17세 미만 소아 및 60세 이상 고령자에서 보고됨(합병증, 입원, 사망 사례 포함)
     * 사용 중 전기담요, 핫팩 등 외부 발열 기구 사용 금지
     * 체온 상승 또는 발한 감소 시 즉시 제거
@@ -134,9 +132,9 @@
 * 주의/부작용 : 항콜린제와 동일
 * dimenhydrinate : 50\~100 ㎎ q6h, 6\~12세 25\~50 ㎎/2\~5세 12.5\~25 ㎎ q6\~8h <mark style="color:blue;">\[보나링 에이]</mark>
 * diphenhydramine : 25\~50 ㎎ q6\~8h; 6\~12세 12.5\~25 ㎎ q6\~8h, 2\~5세 6.25 ㎎ q6\~8h; 수면 작용이 있음 <mark style="color:blue;">\[디펙타민]</mark>
-* meclizine : 25\~50 ㎎ q24h, 여행 60분 전 복용; 1일 1회 투여로 편리하고 dimenhydrinate보다 졸림이 적음 <mark style="color:blue;">\[염산메클리진]</mark> (**✽12세 미만 권장하지 않음**)
+* meclizine : 25\~50 ㎎ q24h, 여행 60분 전 복용; 1일 1회 투여로 편리하고 dimenhydrinate보다 졸림이 적음 <mark style="color:blue;">\[염산메클리진]</mark> (✽12세 미만 권장하지 않음)
 * cyclizine : 일부 연구에서 dimenhydrinate과 효과는 비슷하며 덜 졸림
-* promethazine : 12.5\~25 ㎎ bid; 중증 멀미에서 효과적이나 진정 작용이 강함 (**✽2세 미만 금기 — 호흡 억제 위험으로 FDA 블랙박스 경고; 2세 이상도 주의**)
+* promethazine : 12.5\~25 ㎎ bid; 중증 멀미에서 효과적이나 진정 작용이 강함 (✽2세 미만 금기 - 호흡 억제 위험으로 FDA 블랙박스 경고; 2세 이상도 주의)
 
 #### <mark style="color:$primary;">Antidopaminergics</mark>
 
@@ -152,13 +150,13 @@
 * lorazepam : 1\~2 ㎎ q8h <mark style="color:blue;">\[아티반]</mark>
 * diazepam : 2\~10 ㎎ q6\~12h <mark style="color:blue;">\[디아제팜]</mark>
 
-#### <mark style="color:$primary;">NK-1 수용체 길항제: Tradipitant</mark>&#x20;
+#### <mark style="color:$primary;">NK-1 수용체 길항제: Tradipitant</mark>
 
 * substance P 매개 NK-1 수용체를 선택적으로 차단하는 새로운 기전
 * 멀미로 인한 구토 예방 목적, 성인(18\~75세) 대상 (2025년 12월 30일 FDA 승인; 브랜드명 NEREUS™; 국내 시판 제품 없음)
 * 40년 만의 최초 신규 기전 멀미 치료제
 * 2개의 Phase 3 연구(Motion Syros, Motion Serifos)에서 위약 대비 구토 발생률 약 55\~60% 감소
-* 용량 : 85 ㎎ 또는 170 ㎎ 경구 **공복에** 출발 약 60분 전 복용
+* 용량 : 85 ㎎ 또는 170 ㎎ 경구 공복에 출발 약 60분 전 복용
 * CYP3A4 강력 억제제 병용 시 노출 증가 가능 — 주의
 * 소아(<18세) 대상 안전성·유효성 미확립 (소아 임상시험 진행 중)
 
@@ -169,7 +167,7 @@
 
 <figure><img src="../.gitbook/assets/멀미1.JPG" alt=""><figcaption></figcaption></figure>
 
-✽P6 : 손목 palmar side, transverse crease로부터 근위 **2촌(약 3횡지)**, palmaris longus와 the flexor carpi radialis 사이
+✽P6 : 손목 palmar side, transverse crease로부터 근위 4\~6 ㎝, palmaris longus와 the flexor carpi radialis 사이
 
 ***
 
