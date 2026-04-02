@@ -31,7 +31,7 @@
 * 급성 정신증(환청, 망상, 심한 와해 행동) 동반
 * 심근경색과 감별이 불분명한 흉통 (ECG 확인 전까지 응급 이송 우선)
 
-<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
+<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가**</mark>
 
 * 자살 사고가 있으나 구체적 계획은 없는 경우 (PHQ-9 9번 항목 양성)
 * 유의미한 동반 질환 (예: 약물·알코올 남용, 인격장애)
@@ -67,11 +67,11 @@
 
 **Panic Disorder Severity Scale (PDSS)**
 
-* 7개 항목 자가평가도구ㅁ : 공황발작 빈도, 공황발작 시 고통 정도, 예기 불안, 광장공포적 회피, 공황 관련 감각에 대한 회피, 직업적 기능 장애, 사회적 기능 장애(☞ [대한불안의학회](https://public.anxiety.or.kr/html/?pmode=evaluationtool))
+* 7개 항목 자가평가도구 : 공황발작 빈도, 공황발작 시 고통 정도, 예기 불안, 광장공포적 회피, 공황 관련 감각에 대한 회피, 직업적 기능 장애, 사회적 기능 장애(☞ [대한불안의학회](https://public.anxiety.or.kr/html/?pmode=evaluationtool))
 * 배점 : 각 0\~4점(없음-약간-보통-심함-극심; 총 0\~28점)
 * 치료 반응 모니터링에 활용; 0\~7점 = 경증 / 8\~15점 = 중등도(유의한 공황장애) / 16\~28점 = 중증
 
-※ 동반 질환 파악을 위해 GAD-7(☞ [불안장애](025_-anxiety-disorder.md#generalized-anxiety-disorder-7-item-gad-7)), PHQ-9(☞ [우울증](027_-depression.md#phq-9)) 병행 사용 권고
+ ※ 동반 질환 파악을 위해 [GAD-7](025_-anxiety-disorder.md#generalized-anxiety-disorder-7-item-gad-7), [PHQ-9](027_-depression.md#phq-9) 병행 사용 권고
 
 ### <mark style="color:orange;">감별</mark>
 
