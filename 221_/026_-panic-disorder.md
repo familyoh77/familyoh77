@@ -5,7 +5,7 @@
 * 공황발작 : 예기치 못한, 스스로 통제할 수 없는, 강력한 공포감 및 관련된 육체/정서/인지 증상들(예: 과호흡, 호흡 곤란, 두근거림, 어지럼, 감각 이상)이 갑작스럽고 짧게 발생; 수 분(10분) 내 절정에 도달하고 1시간 내 사라짐
 * 공황장애 : 반복적인 공황발작 및 발작 후 발작 재발에 대한 지속적인 걱정(예: 광장 공포, 불안/우울) &/or 공황 발작을 피하기 위해 과도한 노력(예: 지나친 의료 이용)을 하는 상태
 * 유병률 : 12개월 유병률 2\~3%, 평생 유병률 4\~5%; 여성이 남성의 2배, 평균 발병 연령 20\~24세
-* 동반 증상 : 우울, 자살 위험, 강박 장애, 위장 증상(복통, 가슴쓰림, 설사, 변비, 구역/구토; 30%)
+* 동반 증상 : 우울, 자살 위험(일반인 대비 자살 시도 위험 약 2배), 강박 장애, 위장 증상(복통, 가슴쓰림, 설사, 변비, 구역/구토; 30%)
 * 광장공포증(Agoraphobia) : DSM-5부터 공황장애와 별개의 독립 진단으로 분리됨; 두 질환이 공존하는 경우가 흔하며 각각 독립적으로 진단·치료함
 
 ## <mark style="color:green;">원인</mark>
@@ -19,8 +19,6 @@
 * 양극장애, 주요우울증, 강박장애, 단순공포증
 * 손상(예: 사고, 수술), 질병
 * 약물 : 알코올, 카페인, opioid, benzodiazepine, bupropion, dextromethorphan, levodopa, amphetamines, steroid, albuterol, sympathomimetics, fluoroquinolone, interferon
-* 공황장애 치료를 위한 항우울제 투여 초기
-* 공황장애 치료를 위한 단기 작용 약물(예: clorazepate, midazolam, triazolam, propranolol)의 투여 공백기
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -45,23 +43,26 @@
 
 ### <mark style="color:orange;">진단 기준 \[DSM-5]</mark>
 
-* 반복되는 공황발작 및 다음 중 ≥4개 증상 발생
-  1. 빠른 심박동(rapid heartbeat)
-  2. 땀 흘림(sweating)
-  3. 전율 또는 흔들림(shaking)
-  4. 호흡 곤란(shortness of breath)
-  5. 숨을 내쉴 수 없음(choking sensation)
-  6. 흉통 또는 흉부 불편감(chest pain or discomfort)
-  7. 구역 또는 복부 통증(nausea or gastrointestinal distress)
-  8. 어지럼증, 균형감 상실, 쓰러질 것 같은 느낌(vertigo, sensation of loss of balance, feeling faint & light-headed)
-  9. 덥거나 추운 느낌(sensations of heat or cold)
-  10. 이상 감각(paresthesias)
-  11. 현실감 상실(derealization)
-  12. 감정 조절 능력 상실에 대한 두려움(fear of losing emotional control)
-  13. 죽음의 공포(fear of dying)
-* 적어도 하나 이상의 공황발작이 발생한 후에 한 달 이상 다음 중 하나 이상이 이어짐
-  1. 공황발작의 재발에 대한 만성적인 걱정
-  2. 공황 발작을 피하기 위한 현저한 노력
+**A. 반복되는 공황발작 — 다음 중 ≥4개 증상이 갑작스럽게 발생하여 수 분 내 절정에 도달**
+
+1. 빠른 심박동(rapid heartbeat)
+2. 땀 흘림(sweating)
+3. 전율 또는 흔들림(shaking)
+4. 호흡 곤란(shortness of breath or smothering)
+5. 질식감(choking sensation)
+6. 흉통 또는 흉부 불편감(chest pain or discomfort)
+7. 구역 또는 복부 통증(nausea or gastrointestinal distress)
+8. 어지럼증, 균형감 상실, 쓰러질 것 같은 느낌(vertigo, sensation of loss of balance, feeling faint & light-headed)
+9. 덥거나 추운 느낌(sensations of heat or cold)
+10. 이상 감각(paresthesias)
+11. 현실감 상실(derealization)
+12. 감정 조절 능력 상실에 대한 두려움(fear of losing emotional control)
+13. 죽음의 공포(fear of dying)
+
+**B. 적어도 하나 이상의 공황발작 후 1개월 이상 다음 중 하나 이상이 지속됨**
+
+1. 공황발작의 재발에 대한 만성적인 걱정
+2. 공황 발작을 피하기 위한 현저한 노력
 
 ### <mark style="color:orange;">중증도 평가</mark>
 
@@ -71,13 +72,14 @@
 * 배점 : 각 0\~4점(없음-약간-보통-심함-극심; 총 0\~28점)
 * 치료 반응 모니터링에 활용; 0\~7점 = 경증 / 8\~15점 = 중등도(유의한 공황장애) / 16\~28점 = 중증
 
- ※ 동반 질환 파악을 위해 [GAD-7](025_-anxiety-disorder.md#generalized-anxiety-disorder-7-item-gad-7), [PHQ-9](027_-depression.md#phq-9) 병행 사용 권고
+ ※ 동반 질환 파악을 위해 [GAD-7](025_-anxiety-disorder.md#generalized-anxiety-disorder-7-item-gad-7), [PHQ-9](027_-depression.md#phq-9) 병행 사용 권고
 
 ### <mark style="color:orange;">감별</mark>
 
 * 심근경색 / 협심증 : 흉통이 운동·활동과 관련; 고령·심혈관 위험인자; ECG 이상, 트로포닌 상승
 * Tachyarrhythmia : 두근거림이 주증상; Holter에서 부정맥 확인; 심박수 급격히 증가·감소
 * 폐색전증 : 호흡 곤란 + 흉막성 흉통; 하지 부종·통증; D-dimer 상승, CT 혈관조영술
+* 천식 / COPD : 호흡 곤란·과호흡이 주증상; 공황장애와 공존 빈도 높음; 기관지 확장제 반응, 폐기능 검사(FEV1/FVC), 천명음으로 감별; 두 질환 공존 시 증상 상호 악화 가능
 * 갑상선 항진증 : 지속적 증상(발작성 아님); 체중 감소, 열 불내성, 안구 돌출; TSH 저하
 * 저혈당 : 식사 거름 또는 당뇨 치료 중 발생; 혈당 측정으로 즉시 확인
 * Pheochromocytoma : 두통·발한·고혈압 3증상 동반; 혈압 발작성 상승; 소변 카테콜아민 상승
@@ -110,7 +112,12 @@
 
 #### <mark style="color:$primary;">약물 치료 반응이 불충분한 경우</mark>
 
-* 다른 항우울제로 교체 또는 다른 계열 항우울제/비정형 항정신병제(aripiprazole, quetiapine)/강화 약물(예: propranolol, buspirone) 추가 (☞ p.115)
+* 다른 항우울제로 교체 또는 다른 계열 항우울제/비정형 항정신병제(aripiprazole, quetiapine)/강화 약물(예: propranolol, buspirone) 추가
+  * **Propranolol** : 공황장애 자체를 치료하지는 않으나, 급성기 발작 시 빈맥·떨림을 즉각적으로 억제하여 환자에게 증상에 대한 통제감을 제공하는 보조적 역할; 기관지 천식·서맥·심블록이 있는 경우 금기
+
+### <mark style="color:orange;">PDSS 점수별 단계적 치료 알고리즘</mark>
+
+<table><thead><tr><th>PDSS 총점</th><th>중증도 분류</th><th>치료 목표</th><th>권고 치료 전략</th></tr></thead><tbody><tr><td>0 ~ 7점</td><td>경증 (Mild)</td><td>증상 조절 및 교육</td><td>• 비약물 치료 우선: 질병 교육, 복식 호흡, 카페인/술 제한<br>• 선택적 약물: 환자가 일상 불편감을 호소할 경우 SSRI 저용량 고려</td></tr><tr><td>8 ~ 15점</td><td>중등도 (Moderate)</td><td>발작 빈도 감소 및 예기 불안 완화</td><td>• 1차 선택: SSRI 또는 SNRI 단독 투여<br>• 초기 병용: 급성기 증상 조절을 위해 BZD 2~4주 단기 병용<br>• 병행: 인지행동치료(CBT) 또는 디지털 치료제(DTx) 권고</td></tr><tr><td>16 ~ 28점</td><td>중증 (Severe)</td><td>집중 치료 및 기능 회복</td><td>• 강력한 약물 요법: SSRI/SNRI + BZD 병용 (필요 시 용량 증량)<br>• 다각적 접근: 고강도 CBT(노출 요법 포함) 병행 필수<br>• 평가: 자살 사고 및 동반 질환(우울증 등) 정밀 평가</td></tr><tr><td>치료 반응 불충분 시</td><td>불응성 (Refractory)</td><td>약물 교체 및 강화</td><td>• Step 2: 다른 계열의 SSRI/SNRI로 교체<br>• Step 3: 비정형 항정신병제(aripiprazole, quetiapine 등) 또는 보조 약제(propranolol, buspirone) 추가<br>• 의뢰: 정신건강의학과 전문의 협진 권고</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
@@ -140,11 +147,12 @@
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
 * 30세 미만 : 투약 첫 4주간 매주 자살 사고 모니터링
 * 세로토닌 증후군 주의 : SSRI 증량기 또는 병용 요법 시 고열·근육 경직·정신 상태 변화 발생 시 즉시 중단 후 응급 평가
+* **성기능 장애 및 체중 증가** : SSRI/SNRI 장기 복용 시 성기능 장애(약 30\~60%)와 체중 증가가 흔한 중단 원인; 투약 전 미리 안내하고, 부작용이 현저한 경우 vortioxetine 등 대체 약제 고려
 * vortioxetine <mark style="color:blue;">\[브린텔릭스]</mark> : 공황장애 공식 적응증 아님; 우울증 동반 또는 SSRI 성기능·위장 부작용이 심한 경우 고려 가능 (소규모 연구 수준, 근거 축적 중)
 
-<table><thead><tr><th width="251.5263671875">SSRI/SNRI</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine [세로자트]</td><td>10~20</td><td>20~60</td></tr><tr><td>sertraline [졸로푸트]</td><td>25</td><td>50~200</td></tr><tr><td>venlafaxine XR [이팩사 XR]</td><td>37.5</td><td>75~225</td></tr><tr><td>fluoxetine [푸로작]</td><td>10~20</td><td>20~80</td></tr><tr><td>citalopram [시탈로프람]</td><td>10~20</td><td>20~40</td></tr><tr><td>paroxetine CR [팍실 CR]</td><td>12.5~25</td><td>25~75</td></tr></tbody></table>
+<table><thead><tr><th width="251.5263671875">SSRI/SNRI</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>escitalopram <mark style="color:blue;">[렉사프로]</mark></td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine <mark style="color:blue;">[세로자트]</mark></td><td>10~20</td><td>20~60</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td>25</td><td>50~200</td></tr><tr><td>venlafaxine XR <mark style="color:blue;">[이팩사 XR]</mark></td><td>37.5</td><td>75~225</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td>10~20</td><td>20~80</td></tr><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td>10~20</td><td>20~40</td></tr><tr><td>paroxetine CR <mark style="color:blue;">[팍실 CR]</mark></td><td>12.5~25</td><td>25~75</td></tr></tbody></table>
 
-<table><thead><tr><th width="251.5263671875">TCA</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>clomipramine [그로민]</td><td>25</td><td>50~150</td></tr><tr><td>imipramine [이미프라민]</td><td>25</td><td>50~150</td></tr><tr><td>nortriptyline [센시발]</td><td>10~25</td><td>75~150</td></tr></tbody></table>
+<table><thead><tr><th width="251.5263671875">TCA</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>clomipramine <mark style="color:blue;">[그로민]</mark></td><td>25</td><td>50~150</td></tr><tr><td>imipramine <mark style="color:blue;">[이미프라민]</mark></td><td>25</td><td>50~150</td></tr><tr><td>nortriptyline <mark style="color:blue;">[센시발]</mark></td><td>10~25</td><td>75~150</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Benzodiazepine (BZD)</mark>
 
@@ -154,7 +162,7 @@
 * 고령자 : 내성 및 낙상 등의 사고 위험으로 감량 투여
 * 중단 시 반드시 tapering (반동 불안 및 금단 증상 예방)
 
-<table><thead><tr><th width="251.52630615234375">Benzodiazepine</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>lorazepam [아티반]</td><td>0.75*</td><td>2~8*</td></tr><tr><td>clonazepam [리보트릴]</td><td>0.5*</td><td>0.5~2*</td></tr><tr><td>diazepam [디아제팜]</td><td>2~4</td><td>4~40</td></tr></tbody></table>
+<table><thead><tr><th width="251.52630615234375">Benzodiazepine</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>lorazepam <mark style="color:blue;">[아티반]</mark></td><td>0.75*</td><td>2~8*</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td>0.5*</td><td>0.5~2*</td></tr><tr><td>diazepam <mark style="color:blue;">[디아제팜]</mark></td><td>2~4</td><td>4~40</td></tr></tbody></table>
 
 \*분할 투여
 
@@ -178,6 +186,7 @@ F41.0 공황장애
 > ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 — 저용량 시작 이유 설명
 > ※ BZD는 SSRI 효과 발현 전 브릿지 목적으로만 단기 사용
 > ※ BZD 중단 시 1~2주 간격으로 기존 용량의 25%씩 감량 (예: 4mg/d → 3mg → 2mg → 1mg → 중단)
+>   - 감량 중 불안 재발 시 이전 단계 용량으로 복귀 후 더 천천히 감량
 > ※ 30세 미만: 투약 첫 4주간 매주 자살 사고 모니터링
 > ※ 고령자: 투약 2~4주 후 전해질(Na) 확인 (SIADH 위험)
 > ```
@@ -234,6 +243,30 @@ F41.0 공황장애
 * **공황발작** : 예기치 못하게 갑자기 심한 공포감과 함께 심장 두근거림, 호흡 곤란, 식은땀 등의 신체 증상이 나타나는 현상; 보통 10분 이내에 절정에 도달하며 1시간 이내에 자연스럽게 사라짐
 * **공황장애** : 발작이 반복되고, 다시 일어날까 봐 계속 걱정하거나(예기불안), 발작을 피하려고 일상생활에 제약을 받는 상태
 * **광장공포증** : 발작이 반복되면 외출이나 혼자 있는 것이 두려워지는 광장공포증으로 이어질 수 있으며, 이 경우 별도 치료가 필요함
+
+#### <mark style="color:$primary;">공황은 왜 생기나요? — 오작동하는 경보장치</mark>
+
+공황발작은 뇌의 '위험 감지 경보장치'(편도체)가 실제 위험이 없는 상황에서 갑자기 오작동하는 것입니다.
+
+**공황의 악순환:**
+
+```
+신체 감각 인식(두근거림, 어지럼)
+        ↓
+'죽을 것 같다' '쓰러질 것 같다' — 위협으로 해석
+        ↓
+공포 반응 → 교감신경 활성화
+        ↓
+증상 더 심해짐(호흡 빨라짐, 심박수 증가)
+        ↓
+더 큰 공포 → 증상 악화 (악순환 반복)
+```
+
+이 악순환을 끊는 것이 치료의 핵심입니다. 발작이 오더라도 **"이것은 경보장치의 오작동이며, 1시간 안에 반드시 사라진다"**는 것을 인식하면 공포 반응을 줄일 수 있습니다.
+
+{% hint style="warning" %}
+**카페인 주의** : 카페인은 심박수 증가, 손 떨림, 불안감 등 공황발작의 신체 증상을 그대로 모방합니다. 카페인이 공황의 방아쇠(Trigger)가 될 수 있으므로, 커피·에너지음료·녹차를 가급적 삼가주십시오.
+{% endhint %}
 
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
