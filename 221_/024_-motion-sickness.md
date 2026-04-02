@@ -31,7 +31,19 @@
 * 감정 변화 - 두려움·불안
 * 수면 부족
 
-※ 주요 멀미 유발 약물 :&#x20;
+※ 주요 멀미 유발 약물 :
+
+| 약물 분류 | 주요 약물 예시 | 기전/비고 |
+|---|---|---|
+| 아편유사제(Opioids) | morphine, codeine, tramadol | CTZ 직접 자극, 위 배출 지연 |
+| 항생제 | erythromycin, metronidazole, tetracycline | 구역 유발, 위장관 자극 |
+| NSAIDs | ibuprofen, naproxen, aspirin | 위장관 자극, 위 배출 지연 |
+| 항우울제 | SSRI, TCA, MAOI | 어지럼·구역 유발 |
+| 항경련제 | valproate, carbamazepine | 어지럼·구역 유발 |
+| 호르몬제 | 경구피임약, HRT | 호르몬 변동으로 감수성 증가 |
+| 항암제 | cisplatin, cyclophosphamide | 강력한 CTZ 자극 |
+| 디곡신 | digoxin | 치료 범위에서도 구역 유발 가능 |
+| 도파민 작용제 | levodopa, bromocriptine | CTZ 도파민 수용체 자극 |
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -121,10 +133,10 @@
   * 비진정성 2세대 항히스타민제는 BBB 통과 및 중추 항콜린 작용이 없어 멀미에 효과 없음
 * 주의/부작용 : 항콜린제와 동일
 * dimenhydrinate : 50\~100 ㎎ q6h, 6\~12세 25\~50 ㎎/2\~5세 12.5\~25 ㎎ q6\~8h <mark style="color:blue;">\[보나링 에이]</mark>
-* diphenhydramine : 25\~50 ㎎ q6\~8h, 6\~12세 5 ㎎/㎏ q6\~8h; 수면 작용이 있음 <mark style="color:blue;">\[디펙타민]</mark>
-* meclizine : 25\~50 ㎎ q24h, 여행 60분 전 복용; 1일 1회 투여로 편리하고 dimenhydrinate보다 졸림이 적음 <mark style="color:blue;">\[염산메클리진]</mark>
+* diphenhydramine : 25\~50 ㎎ q6\~8h; 6\~12세 12.5\~25 ㎎ q6\~8h, 2\~5세 6.25 ㎎ q6\~8h; 수면 작용이 있음 <mark style="color:blue;">\[디펙타민]</mark>
+* meclizine : 25\~50 ㎎ q24h, 여행 60분 전 복용; 1일 1회 투여로 편리하고 dimenhydrinate보다 졸림이 적음 <mark style="color:blue;">\[염산메클리진]</mark> (**✽12세 미만 권장하지 않음**)
 * cyclizine : 일부 연구에서 dimenhydrinate과 효과는 비슷하며 덜 졸림
-* promethazine : 12.5\~25 ㎎ bid; 중증 멀미에서 효과적이나 진정 작용이 강함
+* promethazine : 12.5\~25 ㎎ bid; 중증 멀미에서 효과적이나 진정 작용이 강함 (**✽2세 미만 금기 — 호흡 억제 위험으로 FDA 블랙박스 경고; 2세 이상도 주의**)
 
 #### <mark style="color:$primary;">Antidopaminergics</mark>
 
@@ -143,9 +155,12 @@
 #### <mark style="color:$primary;">NK-1 수용체 길항제: Tradipitant</mark>&#x20;
 
 * substance P 매개 NK-1 수용체를 선택적으로 차단하는 새로운 기전
-* 멀미로 인한 구토 예방 목적, 성인 대상 (2025년 12월 FDA 승인; 국내 시판 제품 없음)
-* Phase 3 연구에서 위약 대비 구토 발생률을 50\~70% 감소
-* 용량 : 85 ㎎ 또는 170 ㎎ 경구 (출발 전 복용)
+* 멀미로 인한 구토 예방 목적, 성인(18\~75세) 대상 (2025년 12월 30일 FDA 승인; 브랜드명 NEREUS™; 국내 시판 제품 없음)
+* 40년 만의 최초 신규 기전 멀미 치료제
+* 2개의 Phase 3 연구(Motion Syros, Motion Serifos)에서 위약 대비 구토 발생률 약 55\~60% 감소
+* 용량 : 85 ㎎ 또는 170 ㎎ 경구 **공복에** 출발 약 60분 전 복용
+* CYP3A4 강력 억제제 병용 시 노출 증가 가능 — 주의
+* 소아(<18세) 대상 안전성·유효성 미확립 (소아 임상시험 진행 중)
 
 ## <mark style="color:green;">대체 요법</mark>
 
@@ -154,7 +169,7 @@
 
 <figure><img src="../.gitbook/assets/멀미1.JPG" alt=""><figcaption></figcaption></figure>
 
-✽P6 : 손목 palmar side, transverse crease로부터 근위 **2인치(약 3횡지)**, palmaris longus와 the flexor carpi radialis 사이
+✽P6 : 손목 palmar side, transverse crease로부터 근위 **2촌(약 3횡지)**, palmaris longus와 the flexor carpi radialis 사이
 
 ***
 
@@ -185,7 +200,7 @@ T75.3 멀미
 > ```
 > 키미테 패취 1.5 ㎎/P  출발 최소 4~8시간 전 귀 뒤 털 없는 건조한 피부에 부착 (72시간 유효)
 > ※ 성인 전용; 3일 이상 필요 시 첫 번째 패취 제거 후 반대편 귀 뒤에 새 패취 부착
-> ※ 2025년 FDA 경고 : 체온 상승(hyperthermia) 위험 — 고령자·고온 환경 주의; 발열·발한 감소 시 즉시 제거
+> ※ FDA 안전 경고 : 체온 상승(hyperthermia) 위험 — 고령자·고온 환경 주의; 발열·발한 감소 시 즉시 제거
 > ※ 부착 후 손을 깨끗이 씻어 눈에 접촉 방지(산동, 시야 흐림 유발 가능)
 > ```
 
@@ -254,7 +269,7 @@ T75.3 멀미
 
 #### <mark style="color:$primary;">멀미약 복용 안내</mark>
 
-* **반드시 출발 전에** 복용하십시오 — 경구약은 30~~60분 전, 패치는 최소 4~~8시간 전.
+* **반드시 출발 전에** 복용하십시오 — 경구약은 30\~60분 전, 패치는 최소 4\~8시간 전.
 * 증상이 생긴 후에는 약의 효과가 크게 줄어듭니다.
 * **졸음 주의** : 멀미약 복용 후에는 운전·기계 조작·음주를 하지 마십시오.
 * **스코폴라민 패치** 부착 후에는 손을 깨끗이 씻으십시오. 손에 묻은 약이 눈에 닿으면 시야가 흐려집니다.
