@@ -130,7 +130,7 @@
 
 ## <mark style="color:green;">약물 치료</mark>
 
-* 1차 선택 : SSRI, SNRI (☞ p.1146)
+* 1차 선택 : SSRI, SNRI (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#selective-serotonin-reuptake-inhibitor-ssri))
 * 저용량으로 시작(우울증 치료 시작 용량의 절반) → 점차 증량 (초기 불안 악화·jitteriness syndrome 예방)
 * 새로운 약물 투여 시작 후 2주 내 및 4, 6, 12주에 F/U; 12주 후 유지 또는 교체 결정
 * 충분한 효과 발현에 2\~6주 필요
