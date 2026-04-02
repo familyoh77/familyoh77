@@ -215,7 +215,7 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 
 ***
 
-### <mark style="color:purple;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **항혈소판제 복용 시 주의사항**
 >
