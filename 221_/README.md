@@ -27,10 +27,11 @@
 •한국형 공황장애 치료지침서. 대한불안의학회 (2018)\
 •Practice guideline for the treatment of patients with panic disorder. APA (2009)\
 •New guidance for treating depression. APA (2019)\
-•Depression in adults: Recognition and management. NICE (2018)\
-•한국형 우울장애 약물치료 지침. 대한우울·조울병학회, 대한정신약물학회 (2021)\
+•Depression in adults: Treatment and management. NICE (2022)\
+•한국형 우울장애 약물치료 지침. 대한우울·조울병학회, 대한정신약물학회 (2025)\
 •일차의료용 근거기반 '우울증'. 대한의학회 (2021)\
 •Practice guideline for the treatment of patients with major depressive disorder. APA (2010)\
+•Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 update on clinical guidelines for management of major depressive disorder in adults. CANMAT (2024)\
 •European guideline for the diagnosis and treatment of insomnia. ESRS (2017)\
 •Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults. AASM (2017)\
 •Management of chronic insomnia disorder in adults. ACP (2016)\
