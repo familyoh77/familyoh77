@@ -54,7 +54,7 @@
 * 혈압, 맥박 : 누운 자세 및 기립, 양쪽 측정
 * 심장 : ECG (초기 평가에서 반드시 시행), Holter monitoring(심장 원인 의심 시), exercise stress test(운동 원인 의심 시)
 * 신경학적 진찰
-* Dix-Hallpike : BPPV 배제 (☞ p.96)
+* Dix-Hallpike : BPPV 배제 (☞ 어지럼증)
 * Head-up tilt-table test : vasovagal syncope 진단; 민감도 30\~56%, 특이도 90% 이상; 양성 소견이 치료 방침에 직접 영향을 줄 때 시행 권고; 환자가 실신과 전조 증상의 연관성을 직접 확인하게 하는 교육·안심(reassurance) 목적으로도 유용
 * 실험실 검사 : 혈당(즉시), CBC, RFT, 전해질, 대변 잠혈, cardiac enzyme(심근 경색 의심 시)
 * Implantable loop recorder (ILR) : 원인 불명 반복 실신에서 장기 심전도 모니터링 목적으로 고려

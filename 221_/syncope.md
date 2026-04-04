@@ -17,7 +17,7 @@
 #### <mark style="color:$primary;">Presyncope</mark>
 
 * 실신 발생 직전에 경험하는 증상(near-syncope). 회복될 수도 있고 syncope로 진행될 수도 있음
-* 어지럼(dizziness, lightheadedness), 시각 이상(터널 시야, 시력 상실), 다양한 수준의 의식 변화(완전한 의식 소실은 아님); 구역, 오한, 복통, 창백, 자세 긴장 저하 (☞ p.93)
+* 어지럼(dizziness, lightheadedness), 시각 이상(터널 시야, 시력 상실), 다양한 수준의 의식 변화(완전한 의식 소실은 아님); 구역, 오한, 복통, 창백, 자세 긴장 저하 (☞ [어지럼증](020_-dizziness.md))
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -124,7 +124,7 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-* 뇌 혈류 감소 없는 의식 소실 → epilepsy, 대사 이상(예: 저혈당, 저산소증, 과호흡/저이산화탄소혈증, 중독), vertebrobasilar TIA (☞ p.109)
+* 뇌 혈류 감소 없는 의식 소실 → epilepsy, 대사 이상(예: 저혈당, 저산소증, 과호흡/저이산화탄소혈증, 중독), vertebrobasilar [TIA](023_-transient-ischemic-attack-tia.md)&#x20;
 * 의식 소실 없는 쓰러짐 → cataplexy, 낙상, psychogenic pseudosyncope, TIA
 
 **발작과의 감별**
@@ -148,7 +148,7 @@
   * SGLT2 억제제(이뇨 작용으로 혈관 내 용적 감소) 및 GLP-1 수용체 작용제(급격한 체중 감량 동반 시) 복용 중인 경우 기립성 저혈압 유발 가능성 확인
   * 알파 차단제(tamsulosin, silodosin, alfuzosin 등) : 전립선 비대증 치료 목적으로 복용 중인 고령 남성에서 기립성 저혈압의 매우 흔한 원인; 실신 환자에서 복용 여부 반드시 확인, 필요 시 감량/중단 또는 약제 전환 고려
 * 저위험 반사성 실신 : 교육 및 안심 (Class I), 비약물 치료 우선 (☞ [반사성 실신](/broken/pages/b1910cdddb6c9885c4a95c7477abc1b01dfb2cec))
-* 기립성 저혈압 실신 : 유발 약물 조정, 수분·염분 섭취 증가, 압박 스타킹 (☞ p.500)
+* 기립성 저혈압 실신 : 유발 약물 조정, 수분·염분 섭취 증가, 압박 스타킹 (☞ [기립성저혈압](../225_/096_-orthostatic-hypotension.md#management))
 * 심혈관성 실신 : 전문의 의뢰; 부정맥 치료, ICD, pacemaker 등
   * 부정맥 확인 시 : 항부정맥제, ablation, pacemaker, ICD 등
   * 구조적 심질환 : 원인 질환 치료
@@ -179,7 +179,7 @@ R55 실신 및 허탈
 > ※ 비약물 치료(충분한 수분·염분 섭취, counter-pressure maneuver) 실패 후 2차 선택
 > ※ 수분 2 L/d 이상, 소금 6~9 g/d, counter-pressure maneuver 교육
 > ※ 취침 4시간 전 이후 복용 금지; 낮 시간 복용 후에도 바로 눕지 말 것 (복용 후 최소 2~3시간은 좌위 또는 입위 유지)
-> ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ p.xxx)
+> ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ 반사성실신)
 > ```
 
 > **처방례 3.** 기립성 저혈압 - 만성 (신경인성, 약물 조정 후에도 지속 시)

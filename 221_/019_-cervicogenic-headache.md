@@ -7,13 +7,13 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* 경추 및 상부 경부 구조물(관절, 디스크, 근육, 인대)의 병변이 C1~C3 신경근을 통해 두부로 연관통(referred pain)을 일으킴
-* 삼차신경 척수핵(Trigeminal nucleus caudalis)으로 C1~C3 신경근이 수렴(convergence)됨으로써 안면/두부의 trigeminal sensory receptive field와 neck 사이에 통증 신호의 양방향 전달이 발생
+* 경추 및 상부 경부 구조물(관절, 디스크, 근육, 인대)의 병변이 C1\~C3 신경근을 통해 두부로 연관통(referred pain)을 일으킴
+* 삼차신경 척수핵(Trigeminal nucleus caudalis)으로 C1\~C3 신경근이 수렴(convergence)됨으로써 안면/두부의 trigeminal sensory receptive field와 neck 사이에 통증 신호의 양방향 전달이 발생
 
 **주요 원인 구조물**
 
-* C2~3 후관절(Zygapophyseal joint) : 가장 흔한 원인 (약 70%)
-* 환축관절(Atlanto-axial joint, C1~2), 환후두관절(Atlanto-occipital joint, C0~1)
+* C2\~3 후관절(Zygapophyseal joint) : 가장 흔한 원인 (약 70%)
+* 환축관절(Atlanto-axial joint, C1\~2), 환후두관절(Atlanto-occipital joint, C0\~1)
 * 경추 추간판(Cervical disc), 경부 근육 및 근막
 
 ### <mark style="color:orange;">위험 인자</mark>
