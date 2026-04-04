@@ -107,13 +107,13 @@
 ## <mark style="color:green;">약물 치료</mark>
 
 * α-agonist : 기립성 유발 VVS에서 선호; VVS 약물 중 현재 가장 강한 근거(2021 무작위·이중맹검·위약대조 RCT 및 2022년 7개 RCT 메타분석에서 재발 감소 확인
-  * midodrine <mark style="color:blue;">\[미드론]</mark> (☞ p.502)
+  * midodrine <mark style="color:blue;">\[</mark>[<mark style="color:blue;">미드론</mark>](../225_/096_-orthostatic-hypotension.md#midodrine)<mark style="color:blue;">]</mark>&#x20;
 * mineralocorticoid : 수분/나트륨 저류 기전; 효과 입증 불충분
-  * fludrocortisone <mark style="color:blue;">\[플로리네프]</mark> (☞ p.502)
+  * fludrocortisone <mark style="color:blue;">\[</mark>[<mark style="color:blue;">플로리네프</mark>](../225_/096_-orthostatic-hypotension.md#fludrocortisone)<mark style="color:blue;">]</mark>&#x20;
 * β-blocker : ESC 2018 가이드라인- VVS에 β-blocker는 적응증 없음(Class III, LOE A); ACC/AHA 2017- 40세 이상에서 제한적 고려 가능(Class IIb), 소아·청소년에서는 유익성 없음(Class III)
-  * metoprolol <mark style="color:blue;">\[베타록]</mark>, atenolol <mark style="color:blue;">\[테놀민]</mark> (☞ p.487)
+  * metoprolol <mark style="color:blue;">\[베타록]</mark>, atenolol <mark style="color:blue;">\[테놀민]</mark> (☞ [고혈압](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
 * SSRI : 정신적 질환이 동반된 환자 또는 재발성 VVS에서 고려; 2022년 네트워크 메타분석에서 fluoxetine이 재발 감소 확인; paroxetine은 동 분석에서 재발 증가 시사로 권고하지 않음
-  * fluoxetine <mark style="color:blue;">\[푸록틴, 프로작]</mark> (☞ p.1146)
+  * fluoxetine <mark style="color:blue;">\[푸록틴, 프로작]</mark> (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md))
   * 보험급여 주의 : fluoxetine의 건강보험 급여 적응증은 우울증·강박장애·공황장애 등으로 한정됨. 실신(R55) 단독 상병으로 처방 시 비급여 처리되므로 환자에게 사전 안내 필요; 우울·불안 동반 시 해당 F코드 병기로 급여 적용 가능
 
 ## <mark style="color:green;">침습적 치료</mark>

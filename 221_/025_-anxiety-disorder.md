@@ -1,8 +1,7 @@
 # 불안장애 Anxiety Disorder
 
 {% hint style="info" %}
-**관련 챕터** : 불안장애(025) · [공황장애](026_-panic-disorder.md)(026) · [우울증](027_-depression.md)(027) · [산후우울증](028_-postpartum-depression.md)(028)
-동반 이환이 매우 흔하며, SSRI/SNRI가 공통 1차 치료제임. 감별 및 연계 평가 시 해당 챕터 참조
+**관련 챕터** : 불안장애 · [공황장애](026_-panic-disorder.md) · [우울증](027_-depression.md) · [산후우울증](028_-postpartum-depression.md) 동반 이환이 매우 흔하며, SSRI/SNRI가 공통 1차 치료제임. 감별 및 연계 평가 시 해당 챕터 참조
 {% endhint %}
 
 ## <mark style="color:green;">일반 사항</mark>
@@ -211,7 +210,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 약물 중단 시 반동 증상 : 어지럼, 이상 감각, 구역/구토, 두통, 발한, 불안, 수면 장애
 * Tapering 원칙 : 용량이 낮아질수록 더 천천히 감량(hyperbolic tapering); 최소 용량 도달 후 격일 복용으로 2\~4주 유지한 뒤 중단 — 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 천천히 감량
 
-※ **Hyperbolic Tapering 개념** : 뇌의 세로토닌 수용체 점유율은 약물 용량에 비례하지 않고 쌍곡선(hyperbolic) 관계로 변화한다. 즉 고용량 구간에서는 용량을 크게 줄여도 수용체 점유율 변화가 작지만, 저용량 구간에서는 조금만 줄여도 수용체 점유율이 급격히 변한다. 따라서 감량 후반부일수록 더 작은 폭으로, 더 천천히 줄여야 금단 증상을 최소화할 수 있다. \
+※ **Hyperbolic Tapering 개념** : 뇌의 세로토닌 수용체 점유율은 약물 용량에 비례하지 않고 쌍곡선(hyperbolic) 관계로 변화한다. 즉 고용량 구간에서는 용량을 크게 줄여도 수용체 점유율 변화가 작지만, 저용량 구간에서는 조금만 줄여도 수용체 점유율이 급격히 변한다. 따라서 감량 후반부일수록 더 작은 폭으로, 더 천천히 줄여야 금단 증상을 최소화할 수 있다.\
 \* escitalopram 10 ㎎ 예시 : 10 ㎎ → 7.5 ㎎ 2\~4주 → 5 ㎎ 2\~4주 → 2.5 ㎎ 4\~8주 → 격일 복용 4\~8주 → 중단; 개인차가 크며, 금단 증상 발생 시 이전 용량으로 되돌아가 더 천천히 감량
 
 <table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* <mark style="color:blue;">[렉사프로]</mark></td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* <mark style="color:blue;">[세로자트, 팍실CR]</mark></td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine <mark style="color:blue;">[듀미록스]</mark></td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* <mark style="color:blue;">[심발타]</mark></td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* <mark style="color:blue;">[이팩사 XR]</mark></td><td align="center">37.5</td><td align="center">75~225</td></tr><tr><td>vortioxetine† <mark style="color:blue;">[브린텔릭스]</mark></td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
@@ -267,7 +266,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 * 발한, 심박수 증가 등 불안에 따른 증상 억제 효과; 불안 자체에는 효과 없음
 * propranolol : 10\~120 ㎎/d <mark style="color:blue;">\[인데놀]</mark>
-* metoprolol : 100\~200 ㎎/d <mark style="color:blue;">\[베타록]</mark> (☞ p.487)
+* metoprolol : 100\~200 ㎎/d <mark style="color:blue;">\[베타록]</mark> (☞ [고혈압](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
 
 ## <mark style="color:green;">치료 Step</mark>
 

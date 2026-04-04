@@ -1,8 +1,7 @@
 # 공황장애 Panic Disorder
 
 {% hint style="info" %}
-**관련 챕터** : [불안장애](025_-anxiety-disorder.md)(025) · 공황장애(026) · [우울증](027_-depression.md)(027) · [산후우울증](028_-postpartum-depression.md)(028)
-동반 이환이 매우 흔하며, SSRI/SNRI가 공통 1차 치료제임. GAD·공황장애·특정공포증 비교표 ☞ [불안장애](025_-anxiety-disorder.md#비교)
+**관련 챕터** : [불안장애](025_-anxiety-disorder.md) · 공황장애 · [우울증](027_-depression.md) · [산후우울증](028_-postpartum-depression.md) 동반 이환이 매우 흔하며, SSRI/SNRI가 공통 1차 치료제임. GAD·공황장애·특정공포증 비교표(☞ [불안장애](025_-anxiety-disorder.md#비교))
 {% endhint %}
 
 ## <mark style="color:green;">일반 사항</mark>
@@ -122,7 +121,7 @@
 
 #### <mark style="color:$primary;">PDSS 점수별 단계적 치료 알고리즘</mark>
 
-<table><thead><tr><th width="108">PDSS 총점</th><th width="122">중증도 분류</th><th width="133">치료 목표</th><th>권고 치료 전략</th></tr></thead><tbody><tr><td>0 ~ 7점</td><td>경증 <br> (Mild)</td><td>증상 조절 및 교육</td><td>• 비약물 치료 우선: 질병 교육, 복식 호흡, 카페인/술 제한<br>• 선택적 약물: 환자가 일상 불편감을 호소할 경우 SSRI 저용량 고려</td></tr><tr><td>8 ~ 15점</td><td>중등도<br> (Moderate)</td><td>발작 빈도 감소 및 예기 불안 완화</td><td>• 1차 선택: SSRI 또는 SNRI 단독 투여<br>• 초기 병용: 급성기 증상 조절을 위해 BZD 2~4주 단기 병용<br>• 병행: 인지행동치료(CBT) 또는 디지털 치료제(DTx) 권고</td></tr><tr><td>16 ~ 28점</td><td>중증<br> (Severe)</td><td>집중 치료 및 기능 회복</td><td>• 강력한 약물 요법: SSRI/SNRI + BZD 병용 (필요 시 용량 증량)<br>• 다각적 접근: 고강도 CBT(노출 요법 포함) 병행 필수<br>• 평가: 자살 사고 및 동반 질환(우울증 등) 정밀 평가</td></tr><tr><td>치료 반응<br> 불충분 시</td><td>불응성<br> (Refractory)</td><td>약물 교체 및 강화</td><td>• Step 2: 다른 계열의 SSRI/SNRI로 교체<br>• Step 3: 비정형 항정신병제(aripiprazole, quetiapine 등) 또는 보조 약제(propranolol, buspirone) 추가<br>• 의뢰: 정신건강의학과 전문의 협진 권고</td></tr></tbody></table>
+<table><thead><tr><th width="108">PDSS 총점</th><th width="122">중증도 분류</th><th width="133">치료 목표</th><th>권고 치료 전략</th></tr></thead><tbody><tr><td>0 ~ 7점</td><td>경증<br>(Mild)</td><td>증상 조절 및 교육</td><td>• 비약물 치료 우선: 질병 교육, 복식 호흡, 카페인/술 제한<br>• 선택적 약물: 환자가 일상 불편감을 호소할 경우 SSRI 저용량 고려</td></tr><tr><td>8 ~ 15점</td><td>중등도<br>(Moderate)</td><td>발작 빈도 감소 및 예기 불안 완화</td><td>• 1차 선택: SSRI 또는 SNRI 단독 투여<br>• 초기 병용: 급성기 증상 조절을 위해 BZD 2~4주 단기 병용<br>• 병행: 인지행동치료(CBT) 또는 디지털 치료제(DTx) 권고</td></tr><tr><td>16 ~ 28점</td><td>중증<br>(Severe)</td><td>집중 치료 및 기능 회복</td><td>• 강력한 약물 요법: SSRI/SNRI + BZD 병용 (필요 시 용량 증량)<br>• 다각적 접근: 고강도 CBT(노출 요법 포함) 병행 필수<br>• 평가: 자살 사고 및 동반 질환(우울증 등) 정밀 평가</td></tr><tr><td>치료 반응<br>불충분 시</td><td>불응성<br>(Refractory)</td><td>약물 교체 및 강화</td><td>• Step 2: 다른 계열의 SSRI/SNRI로 교체<br>• Step 3: 비정형 항정신병제(aripiprazole, quetiapine 등) 또는 보조 약제(propranolol, buspirone) 추가<br>• 의뢰: 정신건강의학과 전문의 협진 권고</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
