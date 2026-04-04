@@ -13,24 +13,24 @@
 * 출산 후 일시적으로 발생하는 경증 우울; 출산 후 2\~3일 내 발생하여 2주 내 자연 소실
 * 빈도 : 산모의 30\~70%
 * 증상 : 불쾌감, 불면, 감정 기복/정서 불안, 집중력 저하
-* 치료 불필요; 2주 이상 지속 시 산후우울증으로 전환 가능성 — 추적 평가 권고
+* 치료 불필요; 2주 이상 지속 시 산후우울증으로 전환 가능성 - 추적 평가 권고
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가 — 생명 위협 또는 즉각적 위해 가능성**</mark>
+<mark style="color:$danger;">**즉각 이송/응급 평가 - 생명 위협 또는 즉각적 위해 가능성**</mark>
 
 * 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우
-* 영아 또는 다른 자녀에 대한 해코지 사고(Infanticidal/filicidal ideation) — 즉각 이송 및 아동 안전 확보
-* 산후 정신증(Postpartum psychosis) 의심 : 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 — 정신건강의학과 긴급 입원 필요
+* 영아 또는 다른 자녀에 대한 해코지 사고(Infanticidal/filicidal ideation) - 즉각 이송 및 아동 안전 확보
+* 산후 정신증(Postpartum psychosis) 의심 : 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 - 정신건강의학과 긴급 입원 필요
 
 <mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
 
 * 자살 사고가 있으나 구체적 계획은 없는 경우 (EPDS 10번 항목 1점 이상)
-* 혼재성 양상(Mixed features) 의심 : 우울 증상과 함께 초조, 과민성, 수면 감소, 사고 빠름이 동반되는 경우 — 조증 전환 위험↑, 항우울제 단독 투여 시 삽화 악화 가능; 양극성 장애 감별 필요
+* 혼재성 양상(Mixed features) 의심 : 우울 증상과 함께 초조, 과민성, 수면 감소, 사고 빠름이 동반되는 경우 - 조증 전환 위험↑, 항우울제 단독 투여 시 삽화 악화 가능; 양극성 장애 감별 필요
 * 영아 돌봄 전면 불가 상태 (극도의 무기력, 신생아 방치 위험)
 * 중증 삽화로 일상생활 전면 불가
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 — 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
 
 * 치료에 반응하지 않는 경우 (적절한 용량·기간 치료 후에도 미호전)
 * 산후 우울 기분(Postpartum blues)이 2주 이상 지속되는 경우
@@ -82,7 +82,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-**핵심 증상** (DSM-5 진단 필수 — 반드시 1개 이상 포함)
+**핵심 증상** (DSM-5 진단 필수 - 반드시 1개 이상 포함)
 
 * 우울 기분 또는 과민
 * 일상생활에서 즐거움이 없음 (Anhedonia)
@@ -115,7 +115,7 @@
 ### <mark style="color:orange;">선별 검사</mark>
 
 * \[USPSTF 2023] 모든 임산부 및 산후 여성에 대해 임신 중·산후 전 기간에 걸쳐 선별 검사 권고
-* 시기 : 임신 1·3분기 및 산후 4\~6주, 6개월 — 최소 2회 이상
+* 시기 : 임신 1·3분기 및 산후 4\~6주, 6개월 - 최소 2회 이상
 * 도구 : Edinburgh Postnatal Depression Scale(EPDS), PHQ-9
 
 #### <mark style="color:$primary;">에든버러 산후우울증 척도 (Edinburgh Postnatal Depression Scale, EPDS)</mark>
@@ -123,9 +123,9 @@
 * 출산 후 6\~8주째 적용 권장; 첫 1년 동안 반복 적용 가능
 * 지난 일주일간 자신의 기분에 해당된다고 생각하는 항목에 표시
 
-<table><thead><tr><th width="370">문항</th><th width="79.5789794921875" align="center">대부분</th><th width="79.57891845703125" align="center">때때로</th><th width="79.5789794921875" align="center">드물게</th><th width="75.05255126953125" align="center">전혀</th></tr></thead><tbody><tr><td>① 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>② 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>③ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>④ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑤ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑥ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑦ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑧ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑨ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
+<table><thead><tr><th width="370">문항</th><th width="79.5789794921875" align="center">대부분</th><th width="79.57891845703125" align="center">때때로</th><th width="79.5789794921875" align="center">드물게</th><th width="75.05255126953125" align="center">전혀</th></tr></thead><tbody><tr><td>⓵ 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⓶ 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⓷ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓸ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓹ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓺ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓻ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓼ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓽ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
 
-▶배점 : ①②번은 대부분=0 → 전혀=3; ③\~⑩번은 역채점(대부분=3 → 전혀=0)
+▶배점 : ⓵⓶번은 대부분=0 → 전혀=3; ⓷\~⑩번은 역채점(대부분=3 → 전혀=0)
 
 ▶판정 : ≥10점 우울증 의심; ⑩번(자해 사고) 1점 이상 시 점수와 무관하게 즉시 평가 권고
 
@@ -177,7 +177,7 @@
 * nortriptyline : 자살 충동이 있는 경우에는 피함
 * 신생아 모니터링 : 모유 수유 중 항우울제 복용 시 영아의 졸림, 수유 장애, 체중 증가 불량 여부 관찰
 
-<table><thead><tr><th width="251">항우울제</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>sertraline [졸로푸트]</td><td>25~50</td><td>50~200</td></tr><tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine [세로자트]</td><td>10</td><td>20~60</td></tr><tr><td>nortriptyline [센시발]</td><td>25</td><td>25~150</td></tr></tbody></table>
+<table><thead><tr><th width="204">항우울제</th><th width="126">시작 (mg/d)</th><th width="122">범위 (mg/d)</th></tr></thead><tbody><tr><td>sertraline [졸로푸트]</td><td>25~50</td><td>50~200</td></tr><tr><td>escitalopram [렉사프로]</td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine [세로자트]</td><td>10</td><td>20~60</td></tr><tr><td>nortriptyline [센시발]</td><td>25</td><td>25~150</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Zuranolone</mark>
 
