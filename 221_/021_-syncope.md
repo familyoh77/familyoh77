@@ -49,20 +49,29 @@ QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시
 
 * 반복적이고 설명할 수 없는 실신 (위 소견 병존 시 즉각 격상)
 
+{% hint style="info" %}
+**실신 챕터 감별 허브** — 임상 특성으로 실신 유형을 빠르게 구분하세요
+
+| 임상 특성 | 우선 고려 유형 | 참조 챕터/섹션 |
+|---|---|---|
+| 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀) | 혈관미주신경성 실신 | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
+| 기침·배뇨·배변·식사 후 발생 | 상황 실신 | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
+| 기립 3분 내 혈압 ≥20 mmHg 저하 | 기립성 저혈압 실신 | 본 챕터 |
+| 운동 중 발생, 전구 증상 없음, 비정상 ECG | 심혈관성 실신 → 즉각 평가 | Red Flags 참조 |
+| 국소 신경학적 결손, 운동 후 의식 소실 | 신경학적 원인 → 즉각 평가 | Red Flags 참조 |
+{% endhint %}
+
 ## <mark style="color:green;">종류</mark>
 
 ### <mark style="color:orange;">반사성 실신, 신경 매개성 실신 (Reflex syncope, Neurally mediated syncope)</mark>
 
 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md))
 
-* 실신의 가장 흔한 원인 (약 21%)
-* 양성 경과; 젊은 환자에서 특히 흔하나 고령자에서도 발생 (이봉형 연령 분포)
+* 실신의 가장 흔한 원인 (약 21%); 양성 경과
 * 기전 : 과도한 vagal tone 또는 말초 순환의 반사 조절 장애
-* 유발 인자 : vasovagal(예: 스트레스, 공포, 통증, 불쾌한 장면/소리/냄새, 의료 시술), situational(예: 기침, 큰 웃음, 배변, 배뇨, 운동, 더운 곳, 오래 서 있음), 머리 회전 또는 carotid sinus 압박(예: 목이 조이는 옷)
-* 특징
-  * 비슷한 상황에서 반복되지만 악화되지 않는 실신 병력
-  * syncope 발생 전에 자율 신경 항진 증상(예: 창백, 식은땀, 구역, 구토)이 있음
-  * 실신 후 피로감; tonic-clonic movement 동반 가능 (단시간, ＜15초; 간질과 감별)
+* 유발 인자 : vasovagal(스트레스, 공포, 통증, 의료 시술), situational(기침, 배변, 배뇨, 오래 서 있음), carotid sinus 압박
+* 전구 증상(창백, 식은땀, 구역) 동반 특징적; 실신 후 피로감
+* 세부 유형 및 치료 ☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md)
 
 ### <mark style="color:orange;">기립성 저혈압 실신 (Orthostatic hypotension syncope)</mark>
 
@@ -185,7 +194,7 @@ R55 실신 및 허탈
 > ※ 비약물 치료(충분한 수분·염분 섭취, counter-pressure maneuver) 실패 후 2차 선택
 > ※ 수분 2 L/d 이상, 소금 6~9 g/d, counter-pressure maneuver 교육
 > ※ 취침 4시간 전 이후 복용 금지; 낮 시간 복용 후에도 바로 눕지 말 것 (복용 후 최소 2~3시간은 좌위 또는 입위 유지)
-> ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ p.xxx)
+> ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md#처방례))
 > ```
 
 > **처방례 3.** 기립성 저혈압 - 만성 (신경인성, 약물 조정 후에도 지속 시)

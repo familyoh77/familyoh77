@@ -1,5 +1,10 @@
 # 불안장애 Anxiety Disorder
 
+{% hint style="info" %}
+**관련 챕터** : 불안장애(025) · [공황장애](026_-panic-disorder.md)(026) · [우울증](027_-depression.md)(027) · [산후우울증](028_-postpartum-depression.md)(028)
+동반 이환이 매우 흔하며, SSRI/SNRI가 공통 1차 치료제임. 감별 및 연계 평가 시 해당 챕터 참조
+{% endhint %}
+
 ## <mark style="color:green;">일반 사항</mark>
 
 * 실제 발생한 위험에 비하여 과도하고 지속되며 조절하기 어려운, 불편하고 일상생활에 지장을 주는 걱정; 일상적인 상황에 대하여 과도한 불안감

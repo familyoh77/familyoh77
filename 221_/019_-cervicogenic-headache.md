@@ -3,9 +3,18 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 경부의 골격계 또는 연조직 병변에서 기원하는 두통으로, 두통 환자의 약 15\~20%를 차지하는 흔한 2차성 두통
-* 기전 : 삼차신경 척수핵(Trigeminal nucleus caudalis)으로 C1\~C3 신경근이 수렴(convergence)됨으로써 안면/두부의 trigeminal sensory receptive field와 neck 사이에 통증 신호의 양방향 전달이 발생됨; 이로 인해 환자가 눈 뒤쪽 통증(retro-orbital pain)을 호소하는 경우가 흔함
-* 경부인성두통의 흔한 원천 : C2\~3 zygapophyseal joint(70%), atlanto-axial joint(C1\~2), atlanto-occipital joint(C0\~1)
 * 편두통·긴장형두통과 임상 양상이 겹쳐 감별이 어려우며, 원인 병변의 정확한 진단과 치료가 두통 해소의 핵심
+
+## <mark style="color:green;">원인</mark>
+
+* 경추 및 상부 경부 구조물(관절, 디스크, 근육, 인대)의 병변이 C1~C3 신경근을 통해 두부로 연관통(referred pain)을 일으킴
+* 삼차신경 척수핵(Trigeminal nucleus caudalis)으로 C1~C3 신경근이 수렴(convergence)됨으로써 안면/두부의 trigeminal sensory receptive field와 neck 사이에 통증 신호의 양방향 전달이 발생
+
+**주요 원인 구조물**
+
+* C2~3 후관절(Zygapophyseal joint) : 가장 흔한 원인 (약 70%)
+* 환축관절(Atlanto-axial joint, C1~2), 환후두관절(Atlanto-occipital joint, C0~1)
+* 경추 추간판(Cervical disc), 경부 근육 및 근막
 
 ### <mark style="color:orange;">위험 인자</mark>
 

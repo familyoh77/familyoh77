@@ -150,7 +150,7 @@
 * 임신 중 또는 산후 새로 발생한 두통 → CVST, 자간전증 배제
 * 전조(aura)가 60분 이상 지속되는 경우 → 지속전조편두통과 뇌졸중·TIA 감별 필요
 
-<mark style="color:$info;">**계획적 평가 (수일 내 외래)**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 (수일 내 외래)**</mark>
 
 * 두통 양상의 상당한 변화 또는 점진적 악화
 * 의도하지 않은 체중 감소 동반
@@ -201,6 +201,20 @@
 _<mark style="color:$info;">Ref. 대한두통학회. 편두통 예방치료 약제 진료지침. 2021. 부록</mark>_
 
 ### <mark style="color:orange;">감별</mark>
+
+{% hint style="info" %}
+**두통 챕터 감별 허브** — 증상 특성으로 해당 챕터를 바로 찾아보세요
+
+| 두통 특성 | 우선 고려 진단 | 참조 챕터 |
+|---|---|---|
+| 양측·압박감, 경증~중등도, 구역 없음 | 긴장형두통 | [017](017_-tension-type-headache-ttha.md) |
+| 편측·박동성, 구역/빛소리공포, 4~72h | 편두통 | [016](016_-migraine.md) |
+| ≥15일/월 3개월 이상 지속 | 만성두통 (편두통·긴장형·MOH) | [018](018_-chronic-headache.md) |
+| 편측·극심, 눈 주변, 눈물/콧물, 15~180분 | 군발두통 | [015](015_-headache.md#undefined-6) |
+| 단측, 경부 움직임으로 유발, ROM 감소 | 경추성두통 | [019](019_-cervicogenic-headache.md) |
+| 갑자기 시작, 1분 내 최고조 (벼락두통) | SAH → 즉각 응급 | Red Flags 참조 |
+| 발열·경부 강직 동반 | 수막염·뇌염 → 즉각 응급 | Red Flags 참조 |
+{% endhint %}
 
 <table><thead><tr><th width="104">두통 특성</th><th width="155">긴장형두통</th><th>편두통</th><th>군발두통</th></tr></thead><tbody><tr><td><strong>통증 부위</strong>¹⁾</td><td>양측</td><td>편측 또는 양측</td><td>편측(눈 주변, 눈 위, 머리/얼굴의 옆을 따라)</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감/조임(비박동성)</td><td>박동성</td><td>다양함(날카로움, 도려내는 듯함, 따끔거림, 욱신거림, 조임)</td></tr><tr><td><strong>통증 세기</strong></td><td>경증~중등증</td><td>중등증 이상</td><td>중증 이상</td></tr><tr><td><strong>생활에 미치는 영향</strong></td><td>일상 신체 활동에 의해 악화되지 않음</td><td>일상 신체 활동에 의하여 악화되거나 활동을 회피하게 됨</td><td>초조 또는 동요</td></tr><tr><td><strong>기타 증상</strong></td><td>없음</td><td>빛 &#x26;/or 소리에 대한 과민, 구역 &#x26;/or 구토, 조짐(aura)²⁾: 두통과 함께 또는 두통 없이 나타나는 증상들로서• 완전히 가역적이며• ≥5분에 걸쳐 나타나며• 5~60분 동안 지속됨<strong>전형적인 조짐 증상</strong>• 시각: 번쩍거림 &#x26;/or 부분적 시력 저하• 감각: 무감각 &#x26;/or 저릿저릿함• &#x26;/or 언어 장애</td><td>두통이 발생한 쪽에서• 결막충혈 &#x26;/or 눈물• 코막힘 &#x26;/or 콧물• 눈꺼풀부종• 이마와 얼굴의 땀• 동공수축 &#x26;/or 눈꺼풀 처짐</td></tr><tr><td><strong>두통 지속 시간</strong></td><td>30분~지속</td><td>4~72시간</td><td>15~180분</td></tr></tbody></table>
 

@@ -1,5 +1,10 @@
 # 공황장애 Panic Disorder
 
+{% hint style="info" %}
+**관련 챕터** : [불안장애](025_-anxiety-disorder.md)(025) · 공황장애(026) · [우울증](027_-depression.md)(027) · [산후우울증](028_-postpartum-depression.md)(028)
+동반 이환이 매우 흔하며, SSRI/SNRI가 공통 1차 치료제임. GAD·공황장애·특정공포증 비교표 ☞ [불안장애](025_-anxiety-disorder.md#비교)
+{% endhint %}
+
 ## <mark style="color:green;">일반 사항</mark>
 
 * 공황발작 : 예기치 못한, 스스로 통제할 수 없는, 강력한 공포감 및 관련된 육체/정서/인지 증상들(예: 과호흡, 호흡 곤란, 두근거림, 어지럼, 감각 이상)이 갑작스럽고 짧게 발생; 수 분(10분) 내 절정에 도달하고 1시간 내 사라짐
