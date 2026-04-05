@@ -46,9 +46,11 @@
 ### <mark style="color:orange;">감별</mark>
 
 * 편측 떨림, 다리 떨림, 강직, 서동, resting tremor → 파킨슨병
+* **재현성 떨림(re-emergent tremor)** : 팔을 뻗은 직후에는 떨림이 없다가 수 초의 잠복기 후 떨림 발생 → 파킨슨병 시사 (본태성 떨림은 자세 취하면 즉시 떨림 발생)
 * 보행 장애 → 파킨슨병, cerebellar tremor
 * 불규칙, 경련성 떨림 → dystonic tremor
 * 두부 떨림, 두부 위치 이상(head tilting or turning) → dystonic tremor
+* 기립 시에만 다리가 후들거리며 '불안정감', '넘어질 것 같음'으로 호소 → 기립 떨림(orthostatic tremor) 고려
 * 갑작스럽거나 빠른 시작 → functional (psychogenic) tremor, toxic tremor
 * 최근 약물 치료 후 떨림 시작 또는 악화 → drug-induced, toxic tremor
 
@@ -77,6 +79,7 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 
 * **확진 (Definite)** : 양측 상지의 postural &/or kinetic tremor가 3년 이상 지속 + 다른 신경학적 징후 없음
 * **유사 (Probable)** : 위 기준을 충족하나 이환 기간이 3년 미만; 또는 머리·목소리 떨림이 단독으로 존재하나 이완 시 소실
+* **Essential tremor plus** : ET 진단 기준은 충족하나 경미한 추가 신경학적 징후(예: 기억력 저하, 후각 감소, 경미한 보행 장애 등) 동반; ET와 구분되는 별도 카테고리
 * 다음이 있으면 essential tremor에서 제외 : resting tremor 단독, 다른 원인 가능 약물 복용, 편측 발생, 파킨슨 징후(서동·경직)
 
 #### <mark style="color:$primary;">떨림 양상</mark>
@@ -91,8 +94,9 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 #### <mark style="color:$primary;">검사</mark>
 
 * 특이 진단 방법 없음; 다른 원인 배제
+* **나선 그리기 검사 (Archimedes spiral test)** : 종이에 나선을 그리게 하여 떨림 정도 평가; 본태성 떨림은 선이 불규칙하게 떨리며 나타남 / 파킨슨병은 선의 떨림보다 나선이 점점 작아지는 경향(micrographia)
 * CBC, TSH, BUN, Cr, LFT, 전해질
-* 40세 이전 발생 시 Wilson병 배제를 위한 혈청 ceruloplasmin, 24시간 소변 구리 검사 고려
+* 50세 이전 발생 시 (일부 가이드라인은 55세 기준) Wilson병 배제를 위한 혈청 ceruloplasmin, 24시간 소변 구리 검사 고려; 특히 **가족력 없는 갑작스러운 떨림** 또는 **성격 변화 등 정신과적 증상 동반** 시 연령과 무관하게 Wilson병 검사 시행
 
 ### <mark style="color:orange;">생리적 떨림 (Physiologic tremor)</mark>
 
@@ -130,16 +134,19 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 #### <mark style="color:$primary;">약제</mark>
 
 * **1차 선택** : propranolol 또는 primidone (각각 Level A 근거; 상호 대등)
+  * propranolol 절대 금기 : 2~3도 방실 차단(AV block), 중증 천식/기관지 경련, 중증 서맥(HR <50), 중증 저혈압
 * **2차 선택** : gabapentin, topiramate (Level B 근거)
 * **3차 선택** : alprazolam (다른 약제 불응 시 추가; 의존성 주의)
 * 떨림이 유발되는 상황(예: 공연, 발표)에 앞서 propranolol을 1회성으로 투여하는 것이 일부 환자에서 유효
 * 환자의 30\~50%는 propranolol과 primidone에 반응하지 않음
+* primidone : 초기 부작용(어지럼·오심·진정)이 강하므로 반드시 최소 용량(62.5 mg, 1/4정)으로 취침 전 시작; 민감한 환자는 첫 1주간 격일 복용도 고려
+* **치료 기대치 설정** : 약물 치료로 떨림이 완전히 소실되는 것이 아니라 약 50~70%의 증상 감소가 현실적 목표임을 처방 전 환자에게 미리 고지
 
-<table><thead><tr><th width="199.0526123046875">성분명¹⁾ [상품명]</th><th width="156.4210205078125">시작 용량 (일)</th><th width="156.26324462890625">유지 용량 (일)</th><th width="104.2803955078125">근거 수준</th></tr></thead><tbody><tr><td>propranolol [인데놀]</td><td>10~20 mg</td><td>60~320 mg</td><td>Level A</td></tr><tr><td>primidone [프리미돈]</td><td>62.5 mg hs</td><td>62.5~480 mg</td><td>Level A</td></tr><tr><td>gabapentin [뉴론틴]</td><td>300 mg hs</td><td>1,200~3,600 mg</td><td>Level B</td></tr><tr><td>topiramate [토파맥스]</td><td>25 mg</td><td>200~400 mg</td><td>Level B</td></tr><tr><td>alprazolam²⁾ [자낙스]</td><td>0.125 mg</td><td>0.125~3 mg</td><td>Level C</td></tr></tbody></table>
+<table><thead><tr><th width="199.0526123046875">성분명¹⁾ [상품명]</th><th width="156.4210205078125">시작 용량 (일)</th><th width="156.26324462890625">유지 용량 (일)</th><th width="104.2803955078125">근거 수준</th></tr></thead><tbody><tr><td>propranolol [인데놀]</td><td>10~20 mg</td><td>60~320 mg</td><td>Level A</td></tr><tr><td>primidone [프리미돈]</td><td>62.5 mg hs</td><td>62.5~480 mg</td><td>Level A</td></tr><tr><td>gabapentin [뉴론틴]</td><td>300 mg hs</td><td>1,200~1,800 mg (최대 3,600 mg)</td><td>Level B</td></tr><tr><td>topiramate [토파맥스]</td><td>25 mg</td><td>200~400 mg</td><td>Level B</td></tr><tr><td>alprazolam²⁾ [자낙스]</td><td>0.125 mg</td><td>0.125~3 mg</td><td>Level C</td></tr></tbody></table>
 
 _<mark style="color:$info;">1) 위에서부터 순서대로 선호. 2) 다른 약제로 호전되지 않을 때 추가 투여 고려; 장기 투여 시 의존성 주의</mark>_
 
-_<mark style="color:$info;">Ref. AAN Evidence-based guideline update: Treatment of essential tremor. Neurology 2011;77. Bhattmisra et al. Ther Adv Neurol Disord. 2009;2(4).</mark>_
+_<mark style="color:$info;">Ref. AAN Evidence-based guideline update: Treatment of essential tremor. Neurology 2011;77 (현재까지 가장 광범위하게 인용되는 근거). Bhattmisra et al. Ther Adv Neurol Disord. 2009;2(4).</mark>_
 
 #### <mark style="color:$primary;">Botulinum toxin A</mark>
 
@@ -149,7 +156,7 @@ _<mark style="color:$info;">Ref. AAN Evidence-based guideline update: Treatment 
 #### <mark style="color:$primary;">침습적 치료 (약물 불응성)</mark>
 
 * Deep brain stimulation (DBS) : 시상(VIM nucleus) 자극; 중증 약물 불응성 본태성 떨림에 적응
-* Focused ultrasound thalamotomy : 2016 FDA 승인; 편측 시상 파괴술; 비침습적 시술로 DBS 대안
+* Focused ultrasound thalamotomy : 2016 FDA 승인; 편측 시상 파괴술; 비침습적 시술로 DBS 대안. 국내 2022년 신의료기술 등재 후 중증 약물 불응성 편측 본태성 떨림에 제한적 급여 적용 (최신 HIRA 기준 확인 필요)
 
 ## <mark style="color:green;">생리적 떨림</mark>
 
@@ -185,7 +192,7 @@ R25.1 상세불명의 떨림
 > 인데놀 10 mg/T  1T  bid
 > ※ 반응 불충분 시 1~2주 간격으로 증량 (목표 유지량 60~320 mg/d)
 > ※ 투여 전 천식, 서맥(HR <60), 저혈압 확인; 당뇨 환자는 저혈당 증상 마스킹 주의
-> ※ 갑작스러운 중단 금지 (반동성 고혈압 위험); 1~2주에 걸쳐 서서히 감량
+> ※ 갑작스러운 중단 금지 (반동성 빈맥·불안정 협심증 위험); 1~2주에 걸쳐 서서히 감량
 > ```
 
 > **처방례 2.** 본태성 떨림 - primidone (1차; propranolol 금기 시)
@@ -193,6 +200,7 @@ R25.1 상세불명의 떨림
 > ```
 > 프리미돈 62.5 mg/T  1T  취침 시  (첫 2주; 진정 부작용 최소화 목적)
 > → 이후 반응에 따라 125~250 mg/d로 증량
+> ※ 시판 제형은 250 mg정이므로 62.5 mg = 1/4정 분할 복용
 > ※ 투여 초기 어지럼·진정·오심 발생 가능 - 야간 복용으로 경감
 > ※ 목표 유지 용량 62.5~480 mg/d (분할 투여)
 > ```
@@ -201,9 +209,19 @@ R25.1 상세불명의 떨림
 >
 > ```
 > 뉴론틴 300 mg/C  1C  취침 시  (첫 주)
-> → 이후 300 mg tid까지 증량 가능 (목표 1,200~3,600 mg/d)
+> → 이후 300 mg tid까지 증량 가능 (통상 목표 1,200~1,800 mg/d; 최대 3,600 mg/d)
 > ※ 신기능 저하 시 용량 조절 필요 (Cr 확인)
 > ※ 어지럼, 졸음 부작용; 고령자에서 주의
+> ```
+
+> **처방례 3-B.** 본태성 떨림 - topiramate (2차; gabapentin 불응 또는 금기 시)
+>
+> ```
+> 토파맥스 25 mg/T  1T  취침 시  (첫 2주)
+> → 이후 2주 간격으로 25 mg씩 증량; 통상 목표 100~200 mg/d (분2회), 최대 400 mg/d
+> ※ 인지장애(말 찾기 어려움), 손발 저림(paresthesia), 식욕 감소·체중 감소 부작용 주의
+> ※ 신결석 위험 - 충분한 수분 섭취 권고
+> ※ 신기능 저하 시 용량 조절 필요
 > ```
 
 > **처방례 4.** 생리적 떨림 - 상황 발생 전 단회 투여
@@ -221,10 +239,11 @@ R25.1 상세불명의 떨림
 > **떨림 약물 복용 안내**
 >
 > * propranolol(인데놀)은 심박수를 낮추는 약입니다. 어지럼, 피로감이 생길 수 있으며, 천식이 있으신 분은 반드시 의사에게 알려 주십시오.
-> * 약을 갑자기 끊으면 혈압이 오를 수 있습니다. 중단이 필요한 경우 반드시 의사와 상의하여 서서히 줄이십시오.
+> * 약을 갑자기 끊으면 맥박이 빨라지거나 가슴 통증이 생길 수 있습니다. 중단이 필요한 경우 반드시 의사와 상의하여 서서히 줄이십시오.
 > * primidone(프리미돈)은 복용 초기에 어지럼, 졸음이 생길 수 있어 취침 전 복용합니다. 대개 1\~2주 후 적응됩니다.
 > * 카페인(커피, 에너지 음료)과 흡연은 떨림을 악화시킵니다. 가능한 줄여 주십시오.
 > * 소량의 알코올로 떨림이 일시적으로 좋아질 수 있지만, 규칙적인 음주는 병을 악화시키므로 피하십시오.
+> * **치료 효과에 대하여** : 약물 치료로 떨림이 완전히 사라지기보다는 증상의 약 50~70% 감소가 현실적인 목표입니다. 일상생활에 지장이 없을 정도의 조절을 목표로 합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -253,12 +272,12 @@ R25.1 상세불명의 떨림
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **약물 치료** : propranolol(인데놀), primidone(프리미돈) 등이 주로 사용되며, 약 효과는 수 주에 걸쳐 서서히 나타남
-* **치료 목표** : 완치보다는 일상생활에 지장이 없을 정도로 증상을 조절하는 것이 목표
+* **치료 목표** : 완치보다는 증상의 약 50~70% 감소가 현실적인 목표이며, 일상생활에 지장이 없을 정도로 조절하는 것을 목표로 함
 * **중증 약물 불응성** : 약물로 호전되지 않는 심한 경우 신경과에서 시술(집속초음파, 뇌심부자극술) 고려 가능
 
 #### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
-* **임의 중단 금지** : propranolol은 갑자기 끊으면 혈압이 오를 수 있으므로 반드시 의사와 상의하여 서서히 줄여야 함
+* **임의 중단 금지** : propranolol은 갑자기 끊으면 맥박이 빨라지거나 가슴 통증이 생길 수 있으므로 반드시 의사와 상의하여 서서히 줄여야 함
 * **초기 적응기** : primidone은 복용 초기 어지럼·졸음이 생길 수 있으나 1\~2주 후 대개 적응됨
 * **천식·저혈압** : propranolol 복용 중 호흡 곤란이 생기면 즉시 담당 의사에게 알려 주십시오
 
