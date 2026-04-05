@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-#### <mark style="color:$primary;">Syncope</mark>
+#### <mark style="color:$primary;">Syncope 테스트</mark>
 
 * 뇌 혈류량 감소로 인하여 갑작스럽게 발생하고, 신경학적 후유 장애 없이 자발적으로 회복되는 일시적인(수 초\~수 분) 의식 소실
 * 자신 및 상황에 대한 인식 없음, postural tone을 유지할 수 없음(넘어짐), 자극에 반응하지 않음
