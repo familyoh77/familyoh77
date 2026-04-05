@@ -59,7 +59,7 @@
 
  ※ **1차 선별 검사** : CBC, ESR/CRP, TSH, 전해질(Na/K/Ca), 공복혈당 → 이상 소견 시 또는 임상적으로 의심될 때 2차 검사 추가 고려 : ANA(SLE), Ca/PTH(부갑상선기능항진증), 비타민 B12, 소변검사
 
-<table><thead><tr><th width="189">감별 질환</th><th>주요 단서</th></tr></thead><tbody><tr><td>갑상선 기능 이상</td><td>피로, 체중 변화, 한열 불내성, 두근거림</td></tr><tr><td>SLE</td><td>관절통, 발진, 광과민성, 다장기 증상</td></tr><tr><td>초기 다발성 경화증(MS)</td><td>일과성 신경학적 결손, 재발-완화 패턴</td></tr><tr><td>부갑상선기능항진증</td><td>피로, 우울, 근무력, 고칼슘혈증</td></tr><tr><td>당뇨병</td><td>피로, 다음, 다뇨, 말초 저림</td></tr><tr><td>체위성 빈맥 증후군 (POTS)</td><td>기립 시 어지럼·심계항진·피로·인지 저하(brain fog); 누운 상태에서 기립 후 10분 이내 맥박 ≥30 bpm 상승으로 선별(능동기립검사</td></tr></tbody></table>
+<table><thead><tr><th width="189">감별 질환</th><th>주요 단서</th></tr></thead><tbody><tr><td>갑상선 기능 이상</td><td>피로, 체중 변화, 한열 불내성, 두근거림</td></tr><tr><td>SLE</td><td>관절통, 발진, 광과민성, 다장기 증상</td></tr><tr><td>초기 다발성 경화증(MS)</td><td>일과성 신경학적 결손, 재발-완화 패턴</td></tr><tr><td>부갑상선기능항진증</td><td>피로, 우울, 근무력, 고칼슘혈증</td></tr><tr><td>당뇨병</td><td>피로, 다음, 다뇨, 말초 저림</td></tr><tr><td>체위성 빈맥 증후군 (POTS)</td><td>기립 시 어지럼·심계항진·피로·인지 저하(brain fog); 누운 상태에서 기립 후 10분 이내 맥박 ≥30 bpm 상승으로 선별(능동기립검사); 심리적 증상과 혼동될 수 있어 주의 (☞ [자율신경 기능 장애](autonomic-dysfunction.md))</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">PHQ-15</mark>
 

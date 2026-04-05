@@ -27,7 +27,8 @@
 * 반복적 head trauma, 독소(예: 살충제) 노출, 방사선 노출
 * 약물 : 위장 운동 촉진제(metoclopramide, levosulpiride), 항정신병제(chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, lithium, valproic acid), 항우울제(fluoxetine), 심혈관제(amiodarone, diltiazem, reserpine, methyldopa)
   * 니코틴과 카페인이 파킨슨병의 위험을 줄이거나 발생을 지연시킨다는 보고가 있음
-  * 파킨슨병 환자의 구역·구토 치료 시 주의 : metoclopramide, levosulpiride는 BBB를 통과하여 파킨슨 증상을 급격히 악화시킴 → domperidone(모티리움 등) 이 BBB를 통과하지 않아 안전한 대안; 파킨슨 환자에서 항구토제 처방 시 반드시 우선 선택
+  * 파킨슨병 환자의 구역·구토 치료 시 주의 : metoclopramide, levosulpiride는 BBB를 통과하여 파킨슨 증상을 급격히 악화시킴 → domperidone(모티리움 등)은 BBB 투과율이 낮아 상대적으로 안전한 대안; 단, 장기·고용량 사용 시에는 주의가 필요하므로 단기 최소 용량으로 사용; 파킨슨 환자에서 항구토제 처방 시 반드시 우선 선택
+  * ✽ 약물 유발 파킨슨증(drug-induced parkinsonism) : 위 약물들에 의한 증상은 약물 중단 후 수 주\~6개월 이상에 걸쳐 서서히 회복됨 — 즉각 회복을 기대하지 않도록 환자에게 설명 필요; 회복이 불완전하거나 6개월 이상 지속되는 경우 기저 파킨슨병 가능성을 고려하여 신경과 의뢰
 
 ## <mark style="color:green;">임상 양상</mark>
 
