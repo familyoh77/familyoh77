@@ -201,11 +201,13 @@ _<mark style="color:$info;">✽ 번아웃과 우울증은 공존하거나 이행
 * lorazepam : 0.5\~2 ㎎/d <mark style="color:blue;">\[아티반]</mark>
 * clonazepam : 0.25\~1 ㎎/d <mark style="color:blue;">\[리보트릴]</mark>
 
-#### <mark style="color:$primary;">천연물·영양 요법 — 근거 수준별 정리</mark>
+#### <mark style="color:$primary;">천연물·영양 요법 - 근거 수준별 정리</mark>
 
 * 번아웃에 대한 확립된 치료법이 없는 탓에 검증되지 않은 건강 제품들이 널리 유통되고 있음. 아래는 근거 수준에 따른 분류이며, 환자 상담 시 근거 기반 정보를 제공하는 데 활용한다.
 
-<table><thead><tr><th>근거 수준</th><th width="203">제품</th><th>비고</th></tr></thead><tbody><tr><td><strong>번아웃 치료 효과 근거 없음</strong> (결핍 교정 목적으로만 의미 있음)</td><td>마그네슘, 비타민 B군(B1·B6·B12)</td><td>결핍이 없는 경우 추가 복용은 번아웃 증상 개선 효과 미입증; 결핍 여부는 혈액 검사로 확인 후 보충</td></tr><tr><td><strong>근거 제한적</strong> (소규모 RCT; 번아웃 특이적 근거 부족)</td><td>홍경천(Rhodiola rosea), 아슈와간다(Ashwagandha)</td><td>ㅁ홍경천: SSRI 병용 시 세로토닌 증후군 가능성 - 병용 주의 ㅁ아슈와간다: 갑상선·자가면역 질환 환자 주의</td></tr><tr><td><strong>근거 없음 / 주의 필요</strong></td><td>부신 피로(Adrenal Fatigue) 관련 제품, 고용량 비타민 C IV, 에너지 드링크·카페인 보충제</td><td>'부신 피로'는 의학적으로 인정된 진단 아님; 에너지 드링크는 수면 장애·불안 악화로 번아웃에 역효과</td></tr></tbody></table>
+
+
+<table><thead><tr><th>근거 수준</th><th width="203">제품</th><th>비고</th></tr></thead><tbody><tr><td><strong>결핍 교정 시에만 의미 있음</strong>(번아웃 치료 효과 근거 없음 )</td><td>마그네슘, 비타민 B군(B1·B6·B12)</td><td>결핍이 없는 경우 추가 복용은 번아웃 증상 개선 효과 미입증; 결핍 여부는 혈액 검사로 확인 후 보충</td></tr><tr><td><strong>근거 제한적</strong> (소규모 RCT; 번아웃 특이적 근거 부족)</td><td>홍경천(Rhodiola rosea), 아슈와간다(Ashwagandha)</td><td>ㅁ홍경천: SSRI 병용 시 세로토닌 증후군 가능성 - 병용 주의 ㅁ아슈와간다: 갑상선·자가면역 질환 환자 주의</td></tr><tr><td><strong>근거 없음 / 주의 필요</strong></td><td>부신 피로(Adrenal Fatigue) 관련 제품, 고용량 비타민 C IV, 에너지 드링크·카페인 보충제</td><td>'부신 피로'는 의학적으로 인정된 진단 아님; 에너지 드링크는 수면 장애·불안 악화로 번아웃에 역효과</td></tr></tbody></table>
 
 ***
 
