@@ -25,5 +25,6 @@
 #### 처방 시 참고사항
 
 * Gepants(rimegepant, atogepant) 및 Ergotamine 계열 처방 시 위 목록에 해당하는 약물을 복용 중인지 반드시 확인이 필요합니다.
+* **DORA 계열 수면제** (suvorexant \[벨솜라], lemborexant \[데이비고]) 처방 시 위 목록 확인 필수; 강력한 억제제 병용 시 혈중 농도 급격히 상승 — 병용 금기 또는 용량 감량 적용 (☞ [불면증](../220_/029_-insomnia-sleep-disorder.md#orexin-수용체-길항제-dual-orexin-receptor-antagonist-dora))
 * 강력한 억제제와 병용 시에는 약물 대사가 현저히 저하되어 이상반응 위험이 급격히 높아지므로, 병용 금기 또는 용량 조절을 엄격히 적용해야 합니다.
 * 상호작용을 피해야 하는 항균제 처방이 필요할 경우, CYP3A4 영향이 적은 azithromycin \[지스로맥스] 등을 대안으로 고려할 수 있습니다.

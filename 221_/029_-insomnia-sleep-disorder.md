@@ -102,12 +102,16 @@
 * ECG, EEG, CT/MRI, circadian markers(melatonin, 체온)
 * 수면다원검사 : 치료 실패, 주간 졸음 위험 직업군(예: 직업 운전자)에서 고려
 
+{% hint style="info" %}
+**불면증과 정신 질환의 양방향 관계** : 불면증은 우울증·불안 장애의 '증상'인 동시에, 그 자체로 우울증과 불안 장애를 악화시키는 '독립적 위험 인자'이다(양방향성, Bidirectional relationship). 따라서 기저 정신 질환이 있는 환자에서 불면증을 별도로 평가·치료하는 것이 중요하며, 불면증 치료가 선행될 때 동반 정신 질환의 예후도 개선될 수 있다.
+{% endhint %}
+
 #### <mark style="color:$primary;">주간 졸림증 자가 진단 - Epworth Sleepiness Scale (ESS)</mark>
 
 ([대한수면연구학회](https://www.sleepnet.or.kr/))
 
-* 아래 7가지 상황들에서 당신은 어느 정도나 졸음을 느끼십니까?
-* 배점 : 전혀 졸지 않는다( 0점), 가끔 졸음에 빠진다(1점), 종종 졸음에 빠진다(2점), 자주 졸음에 빠진다(3점)
+* 아래 8가지 상황들에서 당신은 어느 정도나 졸음을 느끼십니까?
+* 배점 : 전혀 졸지 않는다(0점), 가끔 졸음에 빠진다(1점), 종종 졸음에 빠진다(2점), 자주 졸음에 빠진다(3점)
 
 - [ ] 앉아서 책을 읽을 때
 - [ ] 텔레비젼을 볼 때
@@ -115,6 +119,7 @@
 - [ ] 오후 휴식 시간에 편안히 누워 있을 때
 - [ ] 앉아서 누군가에게 말을 하고 있을 때
 - [ ] 점심 식사 후 조용히 앉아 있을 때
+- [ ] 차 안에 승객으로 앉아 있을 때
 - [ ] 차를 운전하고 가다가 교통 체증으로 몇 분간 멈추었을 때
 
 ▶판정 : ＜10점 정상, ≥10점 경증, 14\~18점 중등증, ≥19점 중증 주간 졸림증
@@ -209,7 +214,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 
 * 인지행동치료(CBT-I) : 만성 불면증의 모든 경우에 대한 1차 치료 \[AASM 강력 권고]; 약물 치료보다 장기 효과 우수하며 부작용 없음; 수면 제한법, 자극 조절, 이완 요법, 인지 치료, 수면 위생의 복합 구성
   * 디지털 CBT-I (dCBT-I) : 앱·웹 기반 CBT-I; 접근성 낮은 환경에서 대안으로 활용 가능
-    * 국내 현황 : 슬립큐(SleepQ) 등 식약처 허가 디지털 치료제(DTx) 처방 가능; 의사가 처방 코드 발행 → 환자 앱 설치 후 6\~9주 CBT-I 과정 수행; 혁신의료기술로 지정, 비급여 또는 선별급여 형태 운영; 약물 의존도가 높거나 CBT-I 접근성이 낮은 환자에게 대안으로 제시 가능
+    * 국내 현황 : 식약처 허가 디지털 치료제(DTx)로 에임메드 **솜즈(Somzz)**, 웰트 **웰트-I(WELT-I)** 등 처방 가능; 의사가 처방 코드 발행 → 환자 앱 설치 후 6\~9주 CBT-I 과정 수행; 혁신의료기술로 지정, 비급여 또는 선별급여 형태 운영; 처방 시 혁신의료기술 동의서 작성 및 앱 설치 안내 절차 필요; 약물 의존도가 높거나 CBT-I 접근성이 낮은 환자에게 대안으로 제시 가능
 * 명상, mindfulness, 광 치료 : 보조적 활용
 
 #### <mark style="color:$primary;">수면 위생 (sleep hygiene)</mark>
@@ -273,8 +278,9 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 일시적 불면증에 대하여 단기 사용(최대 4\~5주)
 * 매일 수면제를 복용하는 환자는 간헐적 사용을 유도
   * ✽수면제 복용 시(＜18정/년인 경우에도) 사망 위험률이 ＞3배 증가한다는 보고가 있음
-* 복용 시간 : (수면-각성 주기를 고려하여) 잠이 오는 시간의 30분 전 또는 아침 기상 7시간 전
+* 복용 시간 : 취침 30분 전 복용; 복용 후 최소 7\~8시간 수면 시간 확보 (✽melatonin 계열 제외)
 * 약물 투여 중단 시 반동 현상과 내성이 발생하지 않도록 tapering
+  * Tapering 예시 : 2주 간격으로 기존 용량의 25%씩 감량 (예: zolpidem 10 mg → 7.5 mg → 5 mg → 2.5 mg → 중단); 금단 증상 발생 시 감량 속도를 늦추고 환자와 상의하여 조정
 * 부작용 : 주간 졸음, 어지럼, 인지 장애, 내성, 반동 불면
   * 대처 방법 : 주간 졸음 발생 시 감량, 반감기가 짧은 약제 선택
 * 투여 주의/제한 : 고령, 알코올 남용, 자살 시도 병력, 수면무호흡증, 간/신/폐질환자, 운전자, 밤에 깨어나서 해야 할 일이 있는 사람
@@ -287,22 +293,27 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 각성을 유지하는 orexin/hypocretin 신호를 차단하여 수면 유도; BZD·Z-drug과 달리 수면 구조(서파수면·렘수면) 보존
 * 의존·남용 위험 낮음; 고령자 및 수면무호흡증 동반 환자에서 BZD/Z-drug보다 상대적으로 안전
 * 입면 및 수면 유지 장애 모두에 효과
-* suvorexant <mark style="color:blue;">\[벨솜라]</mark> : 10\~20 ㎎ qd 취침 직전; \[부작용] 다음날 졸림, 두통, 이상한 꿈
-* lemborexant <mark style="color:blue;">\[데이비고]</mark> : 5\~10 ㎎ qd 취침 직전; 국내 허가·급여 적용(입면 또는 수면 유지 장애 성인); 타 수면제와 병용 시 급여 인정 안 됨; 기존 약물에서 전환 시 이전 약물 서서히 감량 후 교체 권고; suvorexant보다 다음날 졸림 적다는 보고
-* 병용 금기 : 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 시 혈중 농도 급격히 상승 - 병용 피하거나 감량; moderate CYP3A 억제제(예: fluconazole, diltiazem)도 주의
+* suvorexant <mark style="color:blue;">\[벨솜라]</mark> : 10\~20 ㎎ qd 취침 직전; 국내 허가·**비급여**; \[부작용] 다음날 졸림, 두통, 이상한 꿈; 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 피할 것
+* lemborexant <mark style="color:blue;">\[데이비고]</mark> : 5\~10 ㎎ qd 취침 직전; 국내 허가·급여 적용(입면 또는 수면 유지 장애 성인); 타 수면제와 병용 시 급여 인정 안 됨; 기존 약물에서 전환 시 이전 약물 서서히 감량 후 교체 권고; suvorexant보다 다음날 졸림 적다는 보고; ✽향정신성의약품(마약류)으로 지정 예정 — 처방 시 마약류 관리 규정 적용 여부 확인 필요
+* daridorexant <mark style="color:blue;">\[Quviviq]</mark> : 25\~50 ㎎ qd 취침 30분 이내; 반감기 약 8시간으로 DORA 3종 중 가장 짧아 다음날 잔류 졸림 가장 적음; 주간 기능 개선 효과가 임상적으로 유의하게 확인됨; FDA 허가(2022); **국내 미도입** (2026년 현재)
+* 병용 금기 : 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 시 혈중 농도 급격히 상승 - 병용 피하거나 감량; moderate CYP3A 억제제(예: fluconazole, diltiazem)도 주의 (☞ [CYP3A4 억제제](../231_/220_-caution_drugs.md#cyp3a4-억제제))
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
 
 * 수면 잠복기 감소, 총 수면 시간 연장, 수면 개시 후 각성(WASO) 감소, 수면 질 향상
 * 단기(4주 이하) 사용; 장기 사용 시 수면 질 저하(deep sleep time 감소, 수면 구조 왜곡), 의존/금단 위험(금단 증상은 반감기가 짧은 약제에서 더 흔함)
 * 부작용 : 다음날 낮졸림, 운동 실조, 어지럼증, 인지 저하, 섬망, 전향성 기억 상실(triazolam); 부작용과 약물 용량에 상관관계가 있음
-* FDA 승인 약제 : estazolam, flurazepam <mark style="color:blue;">\[달마돔]</mark>, temazepam, triazolam <mark style="color:blue;">\[할시온]</mark>, quazepam
+* FDA 승인 약제 : estazolam, flurazepam <mark style="color:blue;">\[달마돔]</mark> *(국내 유통 중단)*, temazepam *(국내 미허가·유통 없음)*, triazolam <mark style="color:blue;">\[할시온]</mark>, quazepam
 
 #### <mark style="color:$primary;">Z-class drugs</mark>
 
 * non-benzodiazepine hypnotics(benzodiazepine receptor agonist의 일종); 수면 잠복기 감소, 총 수면 시간 증가, 수면 유지, 수면 질 개선
 * FDA 승인 약제 : zolpidem <mark style="color:blue;">\[스틸녹스]</mark>, zaleplon <mark style="color:blue;">\[잘레딥]</mark>, zopiclone
 * 부작용 : 두통, 어지럼증, 졸림; 사건 수면, 기억상실, 환각, 자살 위험성 증가, 내성/의존/금단
+
+{% hint style="danger" %}
+**FDA 블랙박스 경고 (2023 업데이트)** : zolpidem 등 Z-drug은 수면 보행, 수면 운전, 수면 중 식사 등 복잡 수면 행동(complex sleep behaviors)과 관련되며, 이로 인한 심각한 손상 및 사망 사례가 보고됨. 이전에 이러한 사건 수면이 발생한 환자에게는 투여 금기.
+{% endhint %}
 * 4\~5주 이하의 단기 사용 및 정기적 사용의 부작용을 감안하여 필요시(잠자리에 들었으나 잠이 잘 오지 않을 때) 복용 권고
 
 #### <mark style="color:$primary;">Melatonin</mark>
@@ -321,7 +332,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 
 * Doxepin <mark style="color:blue;">\[사일레노]</mark> : 입면 후 각성 시간, 총 수면 시간, 수면 효율 개선; 수면 유지 장애에 고려
   * 부작용 : 설사, 낮졸림증, 두통; 낙상 위험이 상대적으로 적음
-* Trazodone <mark style="color:blue;">\[트리티코]</mark> : WASO, 총 수면 시간, 수면 효율, 서파 수면 증가; 수면 유지 장애에 고려; 25\~50 ㎎
+* Trazodone <mark style="color:blue;">\[트리티코]</mark> : 수면 개시 후 각성 시간(WASO), 총 수면 시간, 수면 효율, 서파 수면 증가; 수면 유지 장애에 고려; 25\~50 ㎎
   * 부작용 : 두통, 기립저혈압; 남용 문제는 상대적으로 적음
 * Mirtazapine <mark style="color:blue;">\[레메론]</mark> : 수면 유도, 서파 수면 증가; 우울증 동반 불면증에 고려; 7.5\~30 ㎎
   * 부작용 : 과도한 진정, 식욕/체중 증가, 입마름
@@ -336,11 +347,11 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 #### <mark style="color:$primary;">입면 장애(Sleep onset insomnia)에 대한 권고 약제</mark>
 
-<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br>[할시온]</td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br>[잘레딘]</td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br>[할시온]</td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br>[잘레딥]</td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">유지 장애(Sleep maintenance insomnia)에 대한 권고 약제</mark>
 
-<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br>[사일레노]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam</td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br>[사일레노]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">기타</mark>
 
@@ -412,6 +423,14 @@ G47 수면장애
 > ※ CYP3A 억제제(예: 이트라코나졸, 클래리스로마이신) 병용 시 용량 조절
 > ```
 
+{% hint style="info" %}
+**데이비고(lemborexant) 급여 인정 조건 (참고)**\
+① 만성 불면증(≥3개월) 진단이 확인된 성인 환자\
+② BZD·Z-drug 사용이 부적절하거나(고령자, 수면무호흡증, 낙상 위험 등) 기존 약물에 불충분한 반응을 보인 경우\
+③ 타 수면제와 병용 시 급여 인정 안 됨\
+✽정확한 급여 기준은 HIRA 고시를 반드시 확인할 것 (기준 변경 가능)
+{% endhint %}
+
 > **처방례 4.** 시차 적응 (Circadian rhythm 장애)
 >
 > ```
@@ -440,6 +459,11 @@ G47 수면장애
 > * 갑자기 중단하면 반동 불면(오히려 더 잠을 못 자는 현상)이 생길 수 있으므로, 중단할 때는 **담당 의사와 상의하여 서서히 줄여야** 합니다.
 > * 복용 후 **술을 마시면 절대 안 됩니다.** 심한 호흡 억제나 기억 상실이 생길 수 있습니다.
 > * 복용 다음날 졸림이 심하거나 운전·기계 조작을 해야 하는 경우 담당 의사와 상담하십시오.
+
+{% hint style="danger" %}
+**⚠️ 졸피뎀 등 Z-drug 계열 위험 행동 경고 (FDA Boxed Warning)**\
+수면 보행(몽유병), 수면 중 운전, 수면 중 식사 등 **본인이 기억하지 못하는 복잡 수면 행동**이 발생한 경우 즉시 복용을 중단하고 내원하십시오. 이러한 행동은 심각한 사고 및 사망으로 이어질 수 있으며, 이전에 한 번이라도 이런 증상이 있었던 경우 이 약의 복용은 금기입니다.
+{% endhint %}
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
