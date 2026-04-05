@@ -4,7 +4,7 @@
 
 * 일상생활 수행에 심각한 장애를 초래하는, 지적 기능의 점진적 쇠퇴
 * 보통 60세 이후에 시작, 고령에서 5년마다 2배씩 증가, 85세의 30\~50% 이환
-  * 미국에서의 유병률은 감소 (✽높아진 교육 수준 및 심혈관 위험 관리와 관련된 것으로 추정)
+* 유병률 : 미국은 감소(높아진 교육 수준 및 심혈관 위험 관리와 관련된 것으로 추정); 우리나라도국5세 이상 치매 유병률이 9.50%(2016) → 9.25%(2023)로 소폭 감소하였으나(보건복지부 치매역학조사), 고령화로 인한 환자 절대 수는 계속 증가 추세 - 2026년 100만 명 돌파 예상
 * 항아밀로이드 단클론항체(lecanemab, donanemab)가 조기 AD에 대해 질병 진행을 지연시킬 수 있음이 알려지면서 FDA 정식 승인을 받음; 이로써 치매는 "치료 불가"에서 "조기 발견 시 질병 진행 지연 가능"으로 패러다임 전환 중
 * 일반적인 증상 완화제는 질병 경과를 변화시키지 못함
 
@@ -21,7 +21,7 @@
 * non-AD 양상 : 조기 발생, 심한 증상, 언어 문제, 조기에 발생한 환각
 * 뇌졸중 병력/신경학적 이상/비뇨기계 등에 이상이 없는 배뇨 문제
 
-<mark style="color:$danger;">**의뢰 권고**</mark>
+<mark style="color:$danger;">**의뢰**</mark>
 
 * 수 주\~수 개월 이내 급속히 진행하는 인지 기능 저하 (프리온 질환, 신생물, 대사 장애 등)
 * 뚜렷한 파킨슨 증상(안정 시 떨림, 경축, 보행 장애) 동반
@@ -33,22 +33,41 @@
 ## <mark style="color:green;">원인 및 기전</mark>
 
 * 대부분 명확치 않음
-* 알츠하이머병 (Alzheimer Disease, AD): 고령자 치매의 60\~80% 차지
-  * amyloid β 단백 축적, 신경원섬유 엉킴(tau 단백), 시냅스 이상 → 신경 퇴행/사멸
-  * choline acetyltransferase↓ → acetylcholine synthesis↓ → cholinergic function↓
-* 혈관성 치매 (Vascular dementia)
-  * 대뇌 죽상경화증/색전증 → 혈류 감소 → 신경 손상
-  * 오래 지속된 고혈압, 당뇨병, 뇌졸중 병력 환자에서 흔함. AD와 병발 가능
-* 루이체 치매 (Dementia with Lewy bodies) : 뇌세포에서 비정상 단백인 Lewy body(α-synuclein) 형성
-* 전측두엽 치매 (Frontotemporal dementia) : tau 또는 TDP-43 단백 이상 집적에 의한 전측두엽 뇌세포 사멸
+
+**알츠하이머병 (Alzheimer Disease, AD)**
+
+* 고령자 치매의 60\~80% 차지
+* amyloid β 단백 축적, 신경원섬유 엉킴(tau 단백), 시냅스 이상 → 신경 퇴행/사멸
+* choline acetyltransferase↓ → acetylcholine synthesis↓ → cholinergic function↓
+
+**혈관성 치매 (Vascular dementia)**
+
+* 대뇌 죽상경화증/색전증 → 혈류 감소 → 신경 손상
+* 오래 지속된 고혈압, 당뇨병, 뇌졸중 병력 환자에서 흔함. AD와 병발 가능
+
+**루이체 치매 (Dementia with Lewy bodies)**
+
+* 뇌세포에서 비정상 단백인 Lewy body(α-synuclein) 형성
+
+**전측두엽 치매 (Frontotemporal dementia)**&#x20;
+
+* tau 또는 TDP-43 단백 이상 집적에 의한 전측두엽 뇌세포 사멸
 
 ### <mark style="color:orange;">위험 인자</mark>
 
 #### <mark style="color:$primary;">주요 14가지 위험 인자</mark>
 
-<table><thead><tr><th width="140.84210205078125">단계</th><th>위험인자</th></tr></thead><tbody><tr><td><strong>초기 (Early life)</strong></td><td>낮은 교육 수준</td></tr><tr><td><strong>중기 (Midlife)</strong></td><td>난청, 고혈압, 비만, 흡연, 과도한 음주, 두부 외상, 고LDL 콜레스테롤</td></tr><tr><td><strong>후기 (Late life)</strong></td><td>우울증, 신체 활동 저하, 당뇨병, 사회적 고립, 대기 오염, 미교정 시력 저하</td></tr></tbody></table>
+**초기 (Early life)**
 
-_(2024 Lancet Commission)_
+* 낮은 교육 수준
+
+**중기 (Midlife)**
+
+* 청력 저하, 고혈압, 비만, 흡연, 과도한 음주, 두부 외상, 고LDL 콜레스테롤
+
+**후기 (Late life)**
+
+* 우울증, 신체 활동 저하, 당뇨병, 사회적 고립, 대기 오염, 미교정 시력 저하
 
 #### <mark style="color:$primary;">그 외 위험 인자</mark>
 
@@ -107,7 +126,7 @@ _<mark style="color:$info;">✽ 2024년 Lancet Commission 보고서에서 기존
 
 A. Major neurocognitive disorder에 부합
 
-a. 다음의 인지 영역 중 ≥1개에서 이전보다 심각한 장애
+* a. 다음의 인지 영역 중 ≥1개에서 이전보다 심각한 장애
 
 > 1. complex attention : 다중 작업, 집중력 유지, 암산 능력 저하
 > 2. executive function : 계획 수립, 의사 결정, 오류 수정, 정신적 유연성 등 감퇴
@@ -116,11 +135,9 @@ a. 다음의 인지 영역 중 ≥1개에서 이전보다 심각한 장애
 > 5. perceptual-motor : 익숙한 장소에서 길을 잃음, 익숙한 활동, 공간 작업 능력 저하
 > 6. social cognition : 허용되는 사회적 범위를 벗어나는 행동, 사회적 표준에 대한 무감각, 안전에 대한 고려 없이 작업
 
-b. 인지 장애는 일상 활동의 수행에 지장을 줌. 예) 청구서 관리, 약물 관리 등의 complex instrumental activities of daily living에 조력자가 필요함
-
-c. 인지 결손은 delirium의 맥락에서 발생하는 것은 아님
-
-d. 인지 결손은 우울증, 조현병 등의 다른 정신 질환으로 더 잘 설명되지 않음
+* b. 인지 장애는 일상 활동의 수행에 지장을 줌. 예) 청구서 관리, 약물 관리 등의 complex instrumental activities of daily living에 조력자가 필요함
+* c. 인지 결손은 delirium의 맥락에서 발생하는 것은 아님
+* d. 인지 결손은 우울증, 조현병 등의 다른 정신 질환으로 더 잘 설명되지 않음
 
 B. 최소한 2가지의 인지 영역에서의 장애가 잠행성 시작 및 점진적 진행
 
@@ -428,7 +445,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * 주의 : 행동 증상을 악화시킬 수 있으므로 전측두엽 치매에는 투여하지 않음
 * 상호 작용 : β-차단제/비이중수용체 칼슘통로차단제(verapamil, diltiazem)/digoxin(심장 전도 장애 → 서맥, 방실 차단 위험 증가; 병용 시 심전도 모니터링 권고), 항콜린제(ChEIs 약효 저하)
 
-<table><thead><tr><th width="146.73681640625">성분명 [상품명]</th><th width="339.26318359375">용량 [시작 → 유지]</th><th>비고</th></tr></thead><tbody><tr><td>donepezil<br>[아리셉트 정]<br>[도네라온 패취]</td><td>• 경증 5 mg qd → 4주 후 10 mg qd<br>• 중증 23 mg qd → 3개월 후 10 mg qd<br>• 패취 87.5 mg, 4~6주간 주 2회(3일&#x26;4일) 취침 전 등에 부착 → 175 mg 주 2회로 증량 가능</td><td></td></tr><tr><td>galantamine<br>[갈란타민]</td><td>• 4 mg bid → (4주마다 4 mg bid 증량) 8~12 mg bid<br>• 서방형 8 mg qd → (4주마다 8 mg qd 증량) 24 mg qd</td><td>간/신 장애 시 주의</td></tr><tr><td>rivastigmine<br>[엑셀론]</td><td>• 1.5 mg bid → (2주마다 1.5 mg bid 증량) 3~6 mg bid<br>• 패취 4.6 mg/d → 4주 후 9.5~13.3 mg patch/d</td><td>간/신 장애 시 주의; 패취는 부착 위치를 바꿔서 사용</td></tr></tbody></table>
+<table><thead><tr><th width="146.73681640625">성분명 [상품명]</th><th width="339.26318359375">용량 [시작 → 유지]</th><th>비고</th></tr></thead><tbody><tr><td>donepezil<br><mark style="color:blue;">[아리셉트 정]</mark><br><mark style="color:blue;">[도네라온 패취]</mark></td><td>• 경증 5 mg qd → 4주 후 10 mg qd<br>• 중증 23 mg qd → 3개월 후 10 mg qd<br>• 패취 87.5 mg, 4~6주간 주 2회(3일&#x26;4일) 취침 전 등에 부착 → 175 mg 주 2회로 증량 가능</td><td></td></tr><tr><td>galantamine<br><mark style="color:blue;">[갈란타민]</mark></td><td>• 4 mg bid → (4주마다 4 mg bid 증량) 8~12 mg bid<br>• 서방형 8 mg qd → (4주마다 8 mg qd 증량) 24 mg qd</td><td>간/신 장애 시 주의</td></tr><tr><td>rivastigmine<br><mark style="color:blue;">[엑셀론]</mark></td><td>• 1.5 mg bid → (2주마다 1.5 mg bid 증량) 3~6 mg bid<br>• 패취 4.6 mg/d → 4주 후 9.5~13.3 mg patch/d</td><td>간/신 장애 시 주의; 패취는 부착 위치를 바꿔서 사용</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">N-methyl-D-aspartate receptor antagonist</mark>
 
@@ -437,7 +454,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 * 기전 : 신경 보호 작용
 * 효과 : 진행된 치매에서 통계적으로 유효; 장기 사용 및 유의미한 기능 개선은 입증되지 않음. 중등도 이하의 AD 환자에서의 일상생활 개선은 입증되지 않음. 전측두엽 치매에는 효과 없음
 * 부작용 : 어지럼, 두통, 시야 흐림, 부종, 체중 증가, 과민, 혼돈 (✽심각한 부작용은 매우 드묾)
-* memantine : 시작 5 ㎎<mark style="color:blue;">\[서방형 7 ㎎]</mark> qd, 1주마다 5 ㎎\[7 ㎎] 증량, 유지 5 ㎎ qd\~10 ㎎\[14 ㎎] bid <mark style="color:blue;">\[에빅사]</mark>; 신장애, 발작 병력 시 금기
+* memantine : 시작 5 ㎎ \[서방형 7 ㎎] qd, 1주마다 5 ㎎ \[7 ㎎] 증량, 유지 5 ㎎ qd\~10 ㎎ \[14 ㎎] bid <mark style="color:blue;">\[에빅사]</mark>; 신장애, 발작 병력 시 금기
 
 #### <mark style="color:$primary;">항아밀로이드 단클론항체 (Anti-amyloid monoclonal antibodies)</mark>
 
@@ -467,7 +484,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 ### <mark style="color:orange;">항정신병제</mark>
 
 * 대상 : psychosis, agitation, aggressive 행동에 대하여 고려
-* 효과 : 논란 (✽다른 대안이 없어 사용하게 됨)
+* 효과 : 논란 (다른 대안이 없어 사용하게 됨)
 * 부작용 : 인지 기능 저하, 보행 장애(낙상), 추체외로 증상, 심장 전도 장애, 진정, 흡인성 폐렴, 사망률 증가; 고용량, 고령자에서 보다 많이 발생
 * 신중한 환자 선택 및 유효한 최소 용량 투여 (보험주의)
 * 루이체 치매에서는 항정신병제 사용에 주의
