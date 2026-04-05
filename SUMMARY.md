@@ -229,7 +229,6 @@
   * [항히스타민제 Antihistamines](231_/212_-antihistamines.md)
   * [항우울제, 항불안제 Antidepressants & Anxiolytics](231_/213_-antidepressants-and-anxiolytics.md)
   * [항혈전제, 항응고제 Anti-thrombotics, Anti-coagulants](231_/214_-anti-thrombotics-anti-coagulants.md)
-  * [유의 약물](231_/undefined.md)
   * [고령 환자 진료](231_/215_.md)
   * [운동 지침 Physical Activity Guideline](231_/216_-physical-activity-guideline.md)
   * [영양/식이 지침 Nutrition/Diet Guideline](231_/217_-nutritiondiet-guideline.md)

@@ -253,7 +253,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 불확실한 효과 및 부작용으로 2차 선택; triptan 치료 실패 시 고려 (✽시판 단일제 없음)
 * 반동성 두통 위험 - ≤2일/주 사용 원칙, 이를 초과하면 약물과용두통 위험 증가
 * 부작용 : 구역, 혈관 수축
-* 주의/금기 : 고혈압, 심혈관 질환, 간/신 장애, 발열, 24시간 내 triptan 복용, [CYP3A4 억제제](../231_/undefined.md#cyp3a4) 병용
+* 주의/금기 : 고혈압, 심혈관 질환, 간/신 장애, 발열, 24시간 내 triptan 복용, [CYP3A4 억제제](/broken/pages/Xo2EAW1P08w37hc9YjrG#cyp3a4) 병용
 * caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 30분마다 1정씩 4회 <mark style="color:blue;">\[크래밍]</mark>
 
 #### <mark style="color:$primary;">항구토제</mark>
