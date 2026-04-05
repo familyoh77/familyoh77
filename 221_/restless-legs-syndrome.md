@@ -103,21 +103,6 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * **Step 4** : 비약물 치료 병행
 * **Step 5** : 약물 치료 — 중등도 이상, 삶의 질에 영향을 주는 경우 고려
 
-{% hint style="danger" %}
-**도파민 작용제 Augmentation 주의**\
-도파민 작용제(pramipexole, ropinirole, rotigotine) 장기 사용 시 augmentation 발생 가능\
-• 증상 : 증상 발생 시각이 점점 이전으로 앞당겨짐 / 상지·몸통으로 증상 확산 / 전반적 증상 강도 증가\
-• 발생률 : 연간 7\~10% → 3년 누적 20\~30%, 5년 35\~50%\
-• 용량 증량은 불에 기름을 붓는 격 — 증상이 심해졌다고 증량하면 augmentation이 가속화됨. 증량 절대 금지\
-• 2024 AASM 가이드라인은 도파민 작용제에 대해 장기 사용 조건부 권고 반대 명시
-
-**Augmentation 발생 시 교체 전략 (Tapering + Overlapping)**\
-1\. gabapentin 계열을 **먼저 시작**하고 최소 2주 이상 중복 투여 기간(overlapping) 확보\
-2\. 이후 도파민 작용제를 **수 주에 걸쳐 서서히 감량** (급격한 중단 시 심한 반동 증상 발생)\
-3\. 감량 중 일시적 증상 악화는 정상 반응 — 중단 과정임을 환자에게 미리 설명\
-4\. 필요 시 저용량 opioid를 tapering 기간 동안 보조 사용
-{% endhint %}
-
 ## <mark style="color:green;">비약물 치료 및 예방</mark>
 
 * 주간의 활발한 활동, 규칙적 운동(지나친 운동은 피함), 저녁 때 가벼운 걷기
@@ -169,6 +154,19 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
 * 금기 : 정신 질환, 도파민 대항제 투여 중
 
+**도파민 작용제 Augmentation**&#x20;
+
+* 도파민 작용제를 장기 사용하면 augmentation이 발생할 수 있음
+* 증상 : 증상 발생 시각이 점점 이전으로 앞당겨짐 / 상지·몸통으로 증상 확산 / 전반적 증상 강도 증가
+* 발생률 : 연간 7\~10% → 3년 누적 20\~30%, 5년 35\~50%
+* 증상이 심해졌다고 증량하면 augmentation이 가속화됨. 증량 절대 금지
+* 2024 AASM 가이드라인은 도파민 작용제에 대해 장기 사용 조건부 권고 반대 명시
+* Augmentation 발생 시 교체 전략 (Tapering + Overlapping)
+  1. gabapentin 계열을 먼저 시작하고 최소 2주 이상 중복 투여 기간(overlapping) 확보
+  2. 이후 도파민 작용제를 수 주에 걸쳐 서서히 감량 (급격한 중단 시 심한 반동 증상 발생)
+  3. 감량 중 일시적 증상 악화는 정상 반응 — 중단 과정임을 환자에게 미리 설명
+  4. 필요 시 저용량 opioid를 tapering 기간 동안 보조 사용
+
 #### <mark style="color:$primary;">항파킨슨제</mark>
 
 * 간헐적 증상에 대하여 필요 시 단기 선택 (augmentation 위험으로 장기 사용 권고 반대)
@@ -191,13 +189,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 #### <mark style="color:$primary;">권고하지 않는 약제</mark> (2024 AASM)
 
-| 약제                                                     | 권고 수준     | 이유               |
-| ------------------------------------------------------ | --------- | ---------------- |
-| cabergoline <mark style="color:blue;">\[카버젝트]</mark>   | 강력 권고 반대  | 심장판막 손상 위험       |
-| clonazepam <mark style="color:blue;">\[리보트릴]</mark>    | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
-| carbamazepine <mark style="color:blue;">\[테그레톨]</mark> | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
-| valproic acid <mark style="color:blue;">\[데파킨]</mark>  | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
-| pergolide                                              | —         | 심장판막 손상으로 국내외 퇴출 |
+<table><thead><tr><th width="222">약제</th><th width="165">권고 수준</th><th>이유</th></tr></thead><tbody><tr><td>cabergoline <mark style="color:blue;">[카버젝트]</mark></td><td>강력 권고 반대</td><td>심장판막 손상 위험</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>carbamazepine <mark style="color:blue;">[테그레톨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>valproic acid <mark style="color:blue;">[데파킨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>pergolide</td><td>—</td><td>심장판막 손상으로 국내외 퇴출</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.</mark>_
 
