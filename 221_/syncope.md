@@ -107,7 +107,7 @@
 * 구조적 심질환 의심 : 심초음파
 * 운동 유발 실신 : exercise stress test
 * 반사성/기립성 실신 의심 : head-up tilt-table test (민감도 30\~56%, 특이도 90% 이상)
-* 원인 불명 반복 실신 : Implantable loop recorder (ILR) — 장기 모니터링에 가장 유용
+* 원인 불명 반복 실신 : Implantable loop recorder (ILR) - 장기 모니터링에 가장 유용
   * 국내 건강보험 급여 기준 : 원인 불명 반복 실신(2회 이상)으로 비침습적 검사에서 원인 미확인 시 적용 가능; 급여 인정 여부 사전 확인 권고
 * 40세 이상 : carotid sinus massage 고려
 * 실험실 검사 : 임상적으로 필요한 경우에 한하여 시행 (CBC, 전해질, BNP, 혈당, D-dimer 등)
