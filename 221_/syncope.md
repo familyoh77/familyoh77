@@ -29,13 +29,9 @@
 * 전구 증상 없이 갑작스럽게 발생한 실신
 * 기저 구조적 심질환(심부전, 심근증, 판막 질환), 관상동맥병 병력, 또는 가족성 돌연사 병력(＜50세)
 
-{% hint style="warning" %}
-**QTc 연장 확인 시 즉시 약물 검토**
-
-QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것:
-항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등.
-2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org) 참조
-{% endhint %}
+> **QTc 연장 확인 시 즉시 약물 검토**
+>
+> QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것: 항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등. 2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org) 참조
 
 <mark style="color:$warning;">**당일 의뢰 또는 응급 평가 권고**</mark>
 
@@ -49,17 +45,15 @@ QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시
 
 * 반복적이고 설명할 수 없는 실신 (위 소견 병존 시 즉각 격상)
 
-{% hint style="info" %}
-**실신 챕터 감별 허브** — 임상 특성으로 실신 유형을 빠르게 구분하세요
+> **실신 챕터 감별 허브** - 임상 특성으로 실신 유형을 빠르게 구분하세요
 
-| 임상 특성 | 우선 고려 유형 | 참조 챕터/섹션 |
-|---|---|---|
-| 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀) | 혈관미주신경성 실신 | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
-| 기침·배뇨·배변·식사 후 발생 | 상황 실신 | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
-| 기립 3분 내 혈압 ≥20 mmHg 저하 | 기립성 저혈압 실신 | 본 챕터 |
-| 운동 중 발생, 전구 증상 없음, 비정상 ECG | 심혈관성 실신 → 즉각 평가 | Red Flags 참조 |
-| 국소 신경학적 결손, 운동 후 의식 소실 | 신경학적 원인 → 즉각 평가 | Red Flags 참조 |
-{% endhint %}
+| 임상 특성                          | 우선 고려 유형        | 참조 챕터/섹션                                                |
+| ------------------------------ | --------------- | ------------------------------------------------------- |
+| 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀) | 혈관미주신경성 실신      | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
+| 기침·배뇨·배변·식사 후 발생               | 상황 실신           | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
+| 기립 3분 내 혈압 ≥20 mmHg 저하         | 기립성 저혈압 실신      | 본 챕터                                                    |
+| 운동 중 발생, 전구 증상 없음, 비정상 ECG     | 심혈관성 실신 → 즉각 평가 | Red Flags 참조                                            |
+| 국소 신경학적 결손, 운동 후 의식 소실         | 신경학적 원인 → 즉각 평가 | Red Flags 참조                                            |
 
 ## <mark style="color:green;">종류</mark>
 
@@ -113,7 +107,7 @@ QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시
 * 구조적 심질환 의심 : 심초음파
 * 운동 유발 실신 : exercise stress test
 * 반사성/기립성 실신 의심 : head-up tilt-table test (민감도 30\~56%, 특이도 90% 이상)
-* 원인 불명 반복 실신 : Implantable loop recorder (ILR) — 장기 모니터링에 가장 유용
+* 원인 불명 반복 실신 : Implantable loop recorder (ILR) - 장기 모니터링에 가장 유용
   * 국내 건강보험 급여 기준 : 원인 불명 반복 실신(2회 이상)으로 비침습적 검사에서 원인 미확인 시 적용 가능; 급여 인정 여부 사전 확인 권고
 * 40세 이상 : carotid sinus massage 고려
 * 실험실 검사 : 임상적으로 필요한 경우에 한하여 시행 (CBC, 전해질, BNP, 혈당, D-dimer 등)
@@ -141,13 +135,13 @@ QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시
 
 ### <mark style="color:orange;">감별</mark>
 
-* 뇌 혈류 감소 없는 의식 소실 → epilepsy, 대사 이상(예: 저혈당, 저산소증, 과호흡/저이산화탄소혈증, 중독), vertebrobasilar [TIA](023_-transient-ischemic-attack-tia.md)&#x20;
+* 뇌 혈류 감소 없는 의식 소실 → epilepsy, 대사 이상(예: 저혈당, 저산소증, 과호흡/저이산화탄소혈증, 중독), vertebrobasilar [TIA](023_-transient-ischemic-attack-tia.md)
 * 의식 소실 없는 쓰러짐 → cataplexy, 낙상, psychogenic pseudosyncope, TIA
-* 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀)  → [혈관미주신경성 실신](022_-reflex-syncope-neurally-mediated-syncope.md#vasovagal-syncope-vvs-neurocardiogenic-syncope)
-* 기침·배뇨·배변·식사 후 발생  → [상황 실신](022_-reflex-syncope-neurally-mediated-syncope.md#situational-syncope)
-* 기립 3분 내 혈압 ≥20 mmHg 저하  → 기립성 저혈압 실신
-* 운동 중 발생, 전구 증상 없음, 비정상 ECG  → 심혈관성 실신
-* 국소 신경학적 결손, 운동 후 의식 소실  → 신경학적 원인
+* 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀) → [혈관미주신경성 실신](022_-reflex-syncope-neurally-mediated-syncope.md#vasovagal-syncope-vvs-neurocardiogenic-syncope)
+* 기침·배뇨·배변·식사 후 발생 → [상황 실신](022_-reflex-syncope-neurally-mediated-syncope.md#situational-syncope)
+* 기립 3분 내 혈압 ≥20 mmHg 저하 → 기립성 저혈압 실신
+* 운동 중 발생, 전구 증상 없음, 비정상 ECG → 심혈관성 실신
+* 국소 신경학적 결손, 운동 후 의식 소실 → 신경학적 원인
 
 **발작과의 감별**
 
@@ -168,7 +162,7 @@ QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시
   * SGLT2 억제제(이뇨 작용으로 혈관 내 용적 감소) 및 GLP-1 수용체 작용제(급격한 체중 감량 동반 시) 복용 중인 경우 기립성 저혈압 유발 가능성 확인
   * 알파 차단제(tamsulosin, silodosin, alfuzosin 등) : 전립선 비대증 치료 목적으로 복용 중인 고령 남성에서 기립성 저혈압의 매우 흔한 원인; 실신 환자에서 복용 여부 반드시 확인, 필요 시 감량/중단 또는 약제 전환 고려
 * 저위험 반사성 실신 : 교육 및 안심 (Class I), 비약물 치료 우선 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md))
-* 기립성 저혈압 실신 : 유발 약물 조정, 수분·염분 섭취 증가, 압박 스타킹 (☞ [기립성저혈압](../225_/096_-orthostatic-hypotension.md#management))
+* 기립성 저혈압 실신 : 유발 약물 조정, 수분·염분 섭취 증가, 압박 스타킹 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md#management))
 * 심혈관성 실신 : 전문의 의뢰; 부정맥 치료, ICD, pacemaker 등
   * 부정맥 확인 시 : 항부정맥제, ablation, pacemaker, ICD 등
   * 구조적 심질환 : 원인 질환 치료
