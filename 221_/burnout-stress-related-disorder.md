@@ -207,7 +207,9 @@ _<mark style="color:$info;">✽ 번아웃과 우울증은 공존하거나 이행
 
 
 
-<table><thead><tr><th>근거 수준</th><th width="203">제품</th><th>비고</th></tr></thead><tbody><tr><td><strong>결핍 교정 시에만 의미 있음</strong>(번아웃 치료 효과 근거 없음 )</td><td>마그네슘, 비타민 B군(B1·B6·B12)</td><td>결핍이 없는 경우 추가 복용은 번아웃 증상 개선 효과 미입증; 결핍 여부는 혈액 검사로 확인 후 보충</td></tr><tr><td><strong>근거 제한적</strong> (소규모 RCT; 번아웃 특이적 근거 부족)</td><td>홍경천(Rhodiola rosea), 아슈와간다(Ashwagandha)</td><td>ㅁ홍경천: SSRI 병용 시 세로토닌 증후군 가능성 - 병용 주의 ㅁ아슈와간다: 갑상선·자가면역 질환 환자 주의</td></tr><tr><td><strong>근거 없음 / 주의 필요</strong></td><td>부신 피로(Adrenal Fatigue) 관련 제품, 고용량 비타민 C IV, 에너지 드링크·카페인 보충제</td><td>'부신 피로'는 의학적으로 인정된 진단 아님; 에너지 드링크는 수면 장애·불안 악화로 번아웃에 역효과</td></tr></tbody></table>
+<table><thead><tr><th>근거 수준</th><th width="203">제품</th><th>비고</th></tr></thead><tbody><tr><td><strong>결핍 교정 시에만 의미 있음</strong>(번아웃 치료 효과 근거 없음)</td><td>마그네슘, 비타민 B군(B1·B6·B12), 비타민 D</td><td>결핍이 없는 경우 추가 복용은 번아웃 증상 개선 효과 미입증; 결핍 여부는 혈액 검사로 확인 후 보충 ㅁ비타민 D: 20 ng/mL 미만 — 보충 권장 / 20~30 ng/mL — 보충 고려</td></tr><tr><td><strong>근거 제한적</strong> (소규모 RCT; 번아웃 특이적 근거 부족)</td><td>홍경천(Rhodiola rosea), 아슈와간다(Ashwagandha)</td><td>ㅁ홍경천: SSRI 병용 시 세로토닌 증후군 가능성 - 병용 주의 ㅁ아슈와간다: 갑상선·자가면역 질환 환자 주의</td></tr><tr><td><strong>근거 없음 / 주의 필요</strong></td><td>부신 피로(Adrenal Fatigue) 관련 제품†, 고용량 비타민 C IV, 에너지 드링크·카페인 보충제</td><td>'부신 피로'는 의학적으로 인정된 진단 아님; 에너지 드링크는 수면 장애·불안 악화로 번아웃에 역효과</td></tr></tbody></table>
+
+† 말기 소진 단계의 저코티솔 상태를 개선한다며 '부신 추출물' 등을 섭취하는 경우가 있으나, 외부 호르몬에 의한 HPA축 피드백 저하를 일으켜 오히려 자가 조절 능력을 떨어뜨릴 위험이 있음 — 복용 중인 환자 발견 시 중단 권고
 
 ***
 
