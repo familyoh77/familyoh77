@@ -159,7 +159,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * 증상 : 사고 상황과 관련된 것들을 피하려는 행동, 사고와 관련된 기억 장애, 지속적인 부정 정서, 대인 관계 장애, 과잉 경계, 과각성, 수면 장애, 집중력 장애, 잘 놀람, 분노 감정 폭발, 자기 파괴적 행동
 * 진단 : 임상적으로 유의미한 고통 또는 기능 장애가 1개월 이상 지속
 
-#### <mark style="color:$primary;">범발성불안장애, 공황장애, 특정공포증 비교</mark>
+#### <mark style="color:$primary;">범불안장애, 공황장애, 특정공포증 비교</mark>
 
 <table><thead><tr><th width="100.52630615234375"></th><th>Generalized Anxiety Disorder</th><th>Panic Disorder</th><th>Specific Phobia</th></tr></thead><tbody><tr><td><strong>유병률</strong><br><strong>/역학</strong></td><td>2~4%; 사춘기 이후 여성 우세. 원인에서 약간의 유전적 요인</td><td>0.2~10%; 가족력이 있는 경우 더 흔하고(8배) 조기 발병</td><td>소아 5%, 청소년 16%; 여:남 = 2:1, 가족력 영향(+)</td></tr><tr><td><strong>시작 연령</strong></td><td>평균 10세</td><td>평균 20~24세. 14세 전 &#x3C;0.4%</td><td>다양</td></tr><tr><td><strong>감별 질환</strong></td><td>기타 불안장애, 강박장애, PTSD, 우울증, 양극성, 정신병성 장애, 약물 관련(카페인, 진정제 금단)</td><td>통상적인 질병 상태에 기인하는 불안장애; 약물 관련 불안장애(카페인, 기타 자극제)</td><td>광장공포증, 공황장애, 강박장애, PTSD</td></tr><tr><td><strong>동반 질환</strong></td><td>단극성 우울증, 기타 불안장애</td><td>분리 불안 장애(흔함), 광장공포증, 약물 사용, 주요 우울증, OCD, 기타 불안장애; 천식</td><td>우울증, 기타 불안장애</td></tr></tbody></table>
 

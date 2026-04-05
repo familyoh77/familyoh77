@@ -21,7 +21,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가 — 심혈관성 실신 또는 생명 위협 원인 직접 시사**</mark>
+<mark style="color:$danger;">**즉각 이송/응급 평가 - 심혈관성 실신 또는 생명 위협 원인 직접 시사**</mark>
 
 * 운동 중 또는 누운 자세에서 발생한 실신
 * 비정상 ECG : QTc 연장(＞460 ms(여) / ＞440 ms(남); ＞500 ms는 고위험) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block, ST 이상, Q파
@@ -126,6 +126,11 @@
 
 * 뇌 혈류 감소 없는 의식 소실 → epilepsy, 대사 이상(예: 저혈당, 저산소증, 과호흡/저이산화탄소혈증, 중독), vertebrobasilar [TIA](023_-transient-ischemic-attack-tia.md)&#x20;
 * 의식 소실 없는 쓰러짐 → cataplexy, 낙상, psychogenic pseudosyncope, TIA
+* 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀)  → [혈관미주신경성 실신](022_-reflex-syncope-neurally-mediated-syncope.md#vasovagal-syncope-vvs-neurocardiogenic-syncope)
+* 기침·배뇨·배변·식사 후 발생  → [상황 실신](022_-reflex-syncope-neurally-mediated-syncope.md#situational-syncope)
+* 기립 3분 내 혈압 ≥20 mmHg 저하  → 기립성 저혈압 실신
+* 운동 중 발생, 전구 증상 없음, 비정상 ECG  → 심혈관성 실신
+* 국소 신경학적 결손, 운동 후 의식 소실  → 신경학적 원인
 
 **발작과의 감별**
 
@@ -133,8 +138,6 @@
 * 실신에서의 tonic-clonic movement(myoclonic jerk)는 의식 소실 이후에 발생하며, 지속 시간이 짧고(＜15초) 불규칙·비대칭적인 경우가 많음
 * 간질성 강직-간대 발작은 의식 소실과 동시 또는 직전에 대칭적 강직으로 시작하며 postictal confusion(수분\~수십 분)이 동반됨
 * Psychogenic pseudosyncope : 눈을 감은 채 의식이 있음; 발작 중 EEG 정상; video-EEG 감별에 유용
-
-***
 
 ***
 

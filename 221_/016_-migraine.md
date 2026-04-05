@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 4\~72시간 동안 지속되고 일상적 활동에 의해 악화되며 일상생활에 지장을 주는 편측성, 박동성의 심한 두통
-* 동반 증상 : 구역, 구토, 빛/큰소리 공포, 어지럼, 근육 압통, 수분 저류(부종), 감정 변화
+* 동반 증상 : 구역, 구토, 빛/큰소리 공포, 어지럼증, 근육 압통, 수분 저류(부종), 감정 변화
 * 30\~40%에서 양측성, 40%에서 비박동성 두통 양상을 보임
 * 유병률 : 8\~17%(우리나라), 20\~50대 여성에서 가장 흔함
 * 1년에 1회\~1주에 수회 빈도로 재발
@@ -214,7 +214,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 * 대상 : 중증 편두통 또는 다른 약제로 호전되지 않는 경증 편두통
 * 보통 복용 2시간 내 통증 호전
 * 종류별 유의한 효과 차이는 없으나 개인적인 차이는 있을 수 있음; 저렴한 triptan부터 선택
-* 부작용 : 흉부 압박감(triptan sensation - 심혈관 질환이 없어도 발생 가능하나, 심혈관 고위험군에서는 실제 혈관 수축 위험이 있으므로 구분 필요), 홍조, 더운 느낌, 쇠약, 어지럼, 감각 이상(예: 팔/다리 저림)
+* 부작용 : 흉부 압박감(triptan sensation - 심혈관 질환이 없어도 발생 가능하나, 심혈관 고위험군에서는 실제 혈관 수축 위험이 있으므로 구분 필요), 홍조, 더운 느낌, 쇠약, 어지럼증, 감각 이상(예: 팔/다리 저림)
 * 주의/금기 : 뇌혈관/심혈관/말초혈관 질환, 조절되지 않는 고혈압, SSRI 병용(세로토닌 증후군 주의), ergotamine과 병용 금지
 
 <table><thead><tr><th width="202.3157958984375">성분명 [상품명]</th><th width="241.36846923828125">용법 [최대]</th><th width="108.52630615234375">반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan [이미그란]</td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan</td><td>5~10 ㎎ q2h [30 ㎎/d]</td><td>2~3</td></tr><tr><td>zolmitriptan [조믹]</td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan [알모그란]</td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan [나라믹]</td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan [미가드]</td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
@@ -235,7 +235,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 심혈관 질환 등 triptan 금기 환자에서 대안으로 고려
 * 급성기 치료 및 예방 치료 겸용 가능 (rimegepant)
 * 약물과용두통([MOH](018_-chronic-headache.md#moh)) 위험이 없거나 오히려 예방 효과 : 기존 진통제·triptan과 달리 자주 복용해도 MOH를 유발하지 않음. MOH 위험군에서 특히 유리
-* 부작용 : 입마름, 어지럼, 구역
+* 부작용 : 입마름, 어지럼증, 구역
 * rimegepant 75 ㎎ 붕해정 : 급성기 1정, 예방 목적 격일 복용 <mark style="color:blue;">\[엔유비티]</mark>(비급여)
 * atogepant 60 ㎎ : 예방 전용(급성기 치료 불가); 삽화·만성 편두통 모두 적응; 1정/d  <mark style="color:blue;">\[아큅타정]</mark>(비급여)
 * ubrogepant 50\~100 ㎎ : 급성기 치료 (국내 미허가)
@@ -245,7 +245,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 5-HT1F agonist; 선택적 작용으로 triptan의 심혈관계(혈관 수축) 부작용 없음
 * 기전 : neuropeptide 방출 억제 및 삼차신경 통증 전달 경로 억제
 * lasmiditan 50\~200 ㎎ <mark style="color:blue;">\[레이보우]</mark>(비급여)
-* 부작용 : 졸음, 어지럼
+* 부작용 : 졸음, 어지럼증
 * 복용 후 8시간 이내 운전 금지 (졸음 유무와 상관없이 일률 적용)
 
 #### <mark style="color:$primary;">Ergotamine</mark>
@@ -347,19 +347,19 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 #### <mark style="color:$primary;">항고혈압제</mark>
 
 * flunarizine : 5\~10 ㎎/d <mark style="color:blue;">\[씨베리움]</mark>
-  * 부작용 : 체중 증가, 졸림, 입마름, 어지럼, 저혈압, 우울
+  * 부작용 : 체중 증가, 졸림, 입마름, 어지럼증, 저혈압, 우울
   * 주의/금기 : 심한 우울, 파킨슨병, 추체외로 증상
 * candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[아타칸]</mark>
   * 부작용 : 저혈압, CHF 악화
   * 주의/금기 : 혈관 부종, 임신, 수유
 * lisinopril : 10\~20 ㎎/d <mark style="color:blue;">\[제스트릴]</mark>
-  * 부작용 : 어지럼, 두통, 기침, 피로, 저혈압
+  * 부작용 : 어지럼증, 두통, 기침, 피로, 저혈압
   * 주의/금기 : 혈관 부종, sulfonamide 과민
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>
 
 * 대한두통학회 지침(2021)에서는 근거 부족으로 사용하지 않을 것을 제안
-* 부작용 : 어지럼, 졸음, 균형 장애
+* 부작용 : 어지럼증, 졸음, 균형 장애
 * gabapentin : 300\~900 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 50\~300 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 
