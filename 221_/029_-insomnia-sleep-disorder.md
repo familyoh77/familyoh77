@@ -80,14 +80,14 @@
 * 자살 사고가 구체적이거나 자살 시도 직후인 경우 (✽불면증은 자살 위험의 독립적 위험 인자)
 * 급성 섬망 또는 의식 변화 동반 (원인 질환 즉각 평가 필요)
 
-<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
+<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가**</mark>
 
 * 자살 사고가 있으나 구체적 계획은 없는 경우
 * 폐쇄성 수면무호흡증 강력 의심 : 코골이 + 수면 중 무호흡 목격 + 주간 졸림 동반 - 수면다원검사 의뢰
 * 기면병 의심 : 갑작스러운 탈력 발작, 수면 마비, 입면 시 환각 동반
 * 렘수면 행동장애 의심 : 수면 중 격렬한 행동(소리 지름, 팔다리 움직임) - 파킨슨병 등 신경과적 질환 감별 필요
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> - 단독 시 즉각 위험 낮으나 경과 관찰 필요
 
 * 치료에 반응하지 않는 경우 (CBT-I 및 2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * 동반 정신 질환(우울증, 불안증) 또는 신체 질환 조절 불량
@@ -102,9 +102,7 @@
 * ECG, EEG, CT/MRI, circadian markers(melatonin, 체온)
 * 수면다원검사 : 치료 실패, 주간 졸음 위험 직업군(예: 직업 운전자)에서 고려
 
-{% hint style="info" %}
-**불면증과 정신 질환의 양방향 관계** : 불면증은 우울증·불안 장애의 '증상'인 동시에, 그 자체로 우울증과 불안 장애를 악화시키는 '독립적 위험 인자'이다(양방향성, Bidirectional relationship). 따라서 기저 정신 질환이 있는 환자에서 불면증을 별도로 평가·치료하는 것이 중요하며, 불면증 치료가 선행될 때 동반 정신 질환의 예후도 개선될 수 있다.
-{% endhint %}
+※ **불면증과 정신 질환의 양방향 관계** : 불면증은 우울증·불안 장애의 '증상'인 동시에, 그 자체로 우울증과 불안 장애를 악화시키는 '독립적 위험 인자'임(양방향성, Bidirectional relationship). 따라서 기저 정신 질환이 있는 환자에서 불면증을 별도로 평가·치료하는 것이 중요하며, 불면증 치료가 선행될 때 동반 정신 질환의 예후도 개선될 수 있음
 
 #### <mark style="color:$primary;">주간 졸림증 자가 진단 - Epworth Sleepiness Scale (ESS)</mark>
 
@@ -159,7 +157,7 @@
 * 잠은 쉽게 들지만 수면 중 호흡이 멈추거나 얕아짐; 수면 중 근육 긴장도가 감소하고 흡기 시 상기도 음압이 발생하여 기도 폐쇄, 산소 포화도 저하, 쉽게 각성(자주 깸), 낮졸림증 발생
 * 위험 인자 : 남성, 고령, 비만, 음주, 흡연
 * 진단 : 수면다원검사; 무호흡 저호흡 지수\*로 중증도 평가
-  * \*Apnea-Hypopnea Index, AHI : 시간 당 무호흡이나 저호흡이 최소 10초 이상 되는 횟수
+  * Apnea-Hypopnea Index, AHI : 시간 당 무호흡이나 저호흡이 최소 10초 이상 되는 횟수
 * 고령자 특이사항 : 치매 동반 요양원 입소 노인에서 특히 흔함; 심부전·심근경색·뇌졸중의 독립적 위험 인자
 * 치료 : 수술, 구강 내 장치, 지속적 상기도 양압술(CPAP)
 * benzodiazepine 사용 시 무호흡이 심해질 수 있음
@@ -214,7 +212,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 
 * 인지행동치료(CBT-I) : 만성 불면증의 모든 경우에 대한 1차 치료 \[AASM 강력 권고]; 약물 치료보다 장기 효과 우수하며 부작용 없음; 수면 제한법, 자극 조절, 이완 요법, 인지 치료, 수면 위생의 복합 구성
   * 디지털 CBT-I (dCBT-I) : 앱·웹 기반 CBT-I; 접근성 낮은 환경에서 대안으로 활용 가능
-    * 국내 현황 : 식약처 허가 디지털 치료제(DTx)로 에임메드 **솜즈(Somzz)**, 웰트 **웰트-I(WELT-I)** 등 처방 가능; 의사가 처방 코드 발행 → 환자 앱 설치 후 6\~9주 CBT-I 과정 수행; 혁신의료기술로 지정, 비급여 또는 선별급여 형태 운영; 처방 시 혁신의료기술 동의서 작성 및 앱 설치 안내 절차 필요; 약물 의존도가 높거나 CBT-I 접근성이 낮은 환자에게 대안으로 제시 가능
+    * 국내 현황 : 식약처 허가 디지털 치료제(DTx)로 에임메드 솜즈(Somzz), 웰트 웰트-I(WELT-I) 등 처방 가능; 의사가 처방 코드 발행 → 환자 앱 설치 후 6\~9주 CBT-I 과정 수행; 혁신의료기술로 지정, 비급여 또는 선별급여 형태 운영; 처방 시 혁신의료기술 동의서 작성 및 앱 설치 안내 절차 필요; 약물 의존도가 높거나 CBT-I 접근성이 낮은 환자에게 대안으로 제시 가능
 * 명상, mindfulness, 광 치료 : 보조적 활용
 
 #### <mark style="color:$primary;">수면 위생 (sleep hygiene)</mark>
@@ -293,9 +291,14 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 각성을 유지하는 orexin/hypocretin 신호를 차단하여 수면 유도; BZD·Z-drug과 달리 수면 구조(서파수면·렘수면) 보존
 * 의존·남용 위험 낮음; 고령자 및 수면무호흡증 동반 환자에서 BZD/Z-drug보다 상대적으로 안전
 * 입면 및 수면 유지 장애 모두에 효과
-* suvorexant <mark style="color:blue;">\[벨솜라]</mark> : 10\~20 ㎎ qd 취침 직전; 국내 허가·**비급여**; \[부작용] 다음날 졸림, 두통, 이상한 꿈; 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 피할 것
-* lemborexant <mark style="color:blue;">\[데이비고]</mark> : 5\~10 ㎎ qd 취침 직전; 국내 허가·급여 적용(입면 또는 수면 유지 장애 성인); 타 수면제와 병용 시 급여 인정 안 됨; 기존 약물에서 전환 시 이전 약물 서서히 감량 후 교체 권고; suvorexant보다 다음날 졸림 적다는 보고; ✽향정신성의약품(마약류)으로 지정 예정 — 처방 시 마약류 관리 규정 적용 여부 확인 필요
-* daridorexant <mark style="color:blue;">\[Quviviq]</mark> : 25\~50 ㎎ qd 취침 30분 이내; 반감기 약 8시간으로 DORA 3종 중 가장 짧아 다음날 잔류 졸림 가장 적음; 주간 기능 개선 효과가 임상적으로 유의하게 확인됨; FDA 허가(2022); **국내 미도입** (2026년 현재)
+* suvorexant <mark style="color:blue;">\[벨솜라]</mark> : 10\~20 ㎎ qd 취침 직전; 국내 허가·비급여
+  * 부작용 : 다음날 졸림, 두통, 이상한 꿈; 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 피할 것
+* lemborexant <mark style="color:blue;">\[데이비고]</mark> : 5\~10 ㎎ qd 취침 직전; 국내 허가·비급여
+  * 기존 약물에서 전환 시 이전 약물 서서히 감량 후 교체 권고
+  * suvorexant보다 다음날 졸림 적다는 보고
+  * 향정신성의약품(마약류) 지정 - 처방 시 마약류 관리 규정 적용 여부 확인 필요
+* daridorexant <mark style="color:blue;">\[Quviviq]</mark> : 25\~50 ㎎ qd 취침 30분 이내; 국내 미도입 (2026년 현재)
+  * 반감기가 약 8시간으로 적절하여, DORA 계열 중 다음날 잔류 졸림이 가장 적고 주간 기능 개선 효과가 임상적으로 입증됨
 * 병용 금기 : 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 시 혈중 농도 급격히 상승 - 병용 피하거나 감량; moderate CYP3A 억제제(예: fluconazole, diltiazem)도 주의 (☞ [CYP3A4 억제제](../231_/220_-caution_drugs.md#cyp3a4-억제제))
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
@@ -303,28 +306,25 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 수면 잠복기 감소, 총 수면 시간 연장, 수면 개시 후 각성(WASO) 감소, 수면 질 향상
 * 단기(4주 이하) 사용; 장기 사용 시 수면 질 저하(deep sleep time 감소, 수면 구조 왜곡), 의존/금단 위험(금단 증상은 반감기가 짧은 약제에서 더 흔함)
 * 부작용 : 다음날 낮졸림, 운동 실조, 어지럼증, 인지 저하, 섬망, 전향성 기억 상실(triazolam); 부작용과 약물 용량에 상관관계가 있음
-* FDA 승인 약제 : estazolam, flurazepam <mark style="color:blue;">\[달마돔]</mark> *(국내 유통 중단)*, temazepam *(국내 미허가·유통 없음)*, triazolam <mark style="color:blue;">\[할시온]</mark>, quazepam
+* FDA 승인 약제 : estazolam, flurazepam <mark style="color:blue;">\[달마돔]</mark> (국내 유통 중단), temazepam (국내 미허가·유통 없음), triazolam <mark style="color:blue;">\[할시온]</mark>, quazepam
 
 #### <mark style="color:$primary;">Z-class drugs</mark>
 
 * non-benzodiazepine hypnotics(benzodiazepine receptor agonist의 일종); 수면 잠복기 감소, 총 수면 시간 증가, 수면 유지, 수면 질 개선
 * FDA 승인 약제 : zolpidem <mark style="color:blue;">\[스틸녹스]</mark>, zaleplon <mark style="color:blue;">\[잘레딥]</mark>, zopiclone
 * 부작용 : 두통, 어지럼증, 졸림; 사건 수면, 기억상실, 환각, 자살 위험성 증가, 내성/의존/금단
-
-{% hint style="danger" %}
-**FDA 블랙박스 경고 (2023 업데이트)** : zolpidem 등 Z-drug은 수면 보행, 수면 운전, 수면 중 식사 등 복잡 수면 행동(complex sleep behaviors)과 관련되며, 이로 인한 심각한 손상 및 사망 사례가 보고됨. 이전에 이러한 사건 수면이 발생한 환자에게는 투여 금기.
-{% endhint %}
 * 4\~5주 이하의 단기 사용 및 정기적 사용의 부작용을 감안하여 필요시(잠자리에 들었으나 잠이 잘 오지 않을 때) 복용 권고
+* FDA 블랙박스 경고 : zolpidem 등 Z-drug은 수면 보행, 수면 운전, 수면 중 식사 등 복잡 수면 행동(complex sleep behaviors)과 관련되며, 이로 인한 심각한 손상 및 사망 사례가 보고됨. 이전에 이러한 사건 수면이 발생한 환자에게는 투여 금기
 
 #### <mark style="color:$primary;">Melatonin</mark>
 
 * 저녁 시간에 송과체에서 분비되는 호르몬
 * 수면의 질 및 기간, circadian rhythm 회복에 유효하다는 보고가 있으나 논란; 연령에 따라 melatonin 합성과 농도가 감소하므로 고령에서 효과가 있을 가능성이 있음
 * 치료 반응률이 다른 수면제에 비하여 낮고, 효과가 즉각적이지 않음
-* 최소 3주 이상 지속 복용 (✽3\~4주간 꾸준히 복용하면 66%에서 불면 증상 호전, 44%에서 기존 복용 수면제 용량 감량을 보였다는 보고가 있음)
+* 최소 3주 이상 지속 복용; 3\~4주간 꾸준히 복용하면 66%에서 불면 증상 호전, 44%에서 기존 복용 수면제 용량 감량을 보였다는 보고가 있음
 * 일반적인 수면제에 비하여 인지 저하, 낙상, 내성/의존/금단 등의 부작용이 적음
 * 지속 방출형으로 ≥55세에서 수면 유지 장애에 고려; 속효성 제제는 권고 안 함
-  * ✽서카딘(Circadin) : 지속 방출형(prolonged-release) 2 ㎎; 식약처 허가 의약품 — 건강기능식품으로 유통되는 일반 멜라토닌(속효성, 비표준화 용량)과 구별됨; 일반 멜라토닌은 불면증 치료 근거 불충분
+  * <mark style="color:$primary;">\[서카딘]</mark> : 지속 방출형(prolonged-release) 2 ㎎; 식약처 허가 의약품 (건강기능식품으로 유통되는 일반 멜라토닌(속효성, 비표준화 용량)과 구별됨). 일반 멜라토닌은 불면증 치료 근거 불충분
 * 복용 시간 : 아침 기상 시간 9시간 전에 복용, 2시간 후 취침
 * Ramelteon : melatonin 수용체 작용제; 수면 개시 장애, 고령 환자에서 고려
 
@@ -424,10 +424,10 @@ G47 수면장애
 > ```
 
 {% hint style="info" %}
-**데이비고(lemborexant) 급여 인정 조건 (참고)**\
-① 만성 불면증(≥3개월) 진단이 확인된 성인 환자\
-② BZD·Z-drug 사용이 부적절하거나(고령자, 수면무호흡증, 낙상 위험 등) 기존 약물에 불충분한 반응을 보인 경우\
-③ 타 수면제와 병용 시 급여 인정 안 됨\
+**데이비고(lemborexant) 급여 인정 조건**\
+⓵ 만성 불면증(≥3개월) 진단이 확인된 성인 환자\
+⓶ BZD·Z-drug 사용이 부적절하거나(고령자, 수면무호흡증, 낙상 위험 등) 기존 약물에 불충분한 반응을 보인 경우\
+⓷ 타 수면제와 병용 시 급여 인정 안 됨\
 ✽정확한 급여 기준은 HIRA 고시를 반드시 확인할 것 (기준 변경 가능)
 {% endhint %}
 
