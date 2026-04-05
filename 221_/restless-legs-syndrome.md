@@ -87,7 +87,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="168">질환</th><th width="220">RLS와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>야간 다리 경련<br>(Nocturnal leg cramp)</td><td>근육의 물리적 수축(뭉침)이 눈에 보이거나 촉진됨; 극심한 국소 통증</td><td>스트레칭으로 즉시 완화; 움직임 <em>충동</em> 없음; 짧은 지속 시간; 일주기 패턴 없음</td></tr><tr><td>말초신경병증<br>(Peripheral neuropathy)</td><td>저림·통증이 지속적; 표면적(피부) 느낌; 주로 양말·장갑 분포</td><td>움직여도 호전 안 됨; 야간 악화 뚜렷하지 않음; 일주기 패턴 없음; 도파민 치료에 반응 안 함</td></tr><tr><td>정좌불능증<br>(Akathisia)</td><td>전신적 안절부절못함("body rocking"); 다리에 국한되지 않음</td><td>항정신병제·항구토제 복용력 확인; 국소 이상 감각 없음; 일주기 패턴 없음; 활동으로 호전 안 됨</td></tr><tr><td>PLMD<br>(Periodic limb movement disorder)</td><td>수면 중 주기적 사지 움직임(15~30초 간격); 주간 졸음·피로</td><td>깨어 있는 동안 움직임 충동·이상 감각 없음; RLS와 동시 진단 불가(상호 배타적)</td></tr><tr><td>하지정맥류<br>(Varicose veins)</td><td>하지 불편감·통증; 마사지·휴식으로 호전</td><td>일주기 패턴 없음; 육안으로 정맥 확장 확인 가능; 움직임 충동 없음</td></tr><tr><td>혈관성 파행<br>(Vascular claudication)</td><td>보행으로 악화, 휴식으로 호전</td><td>움직임 충동 없음; 일주기 패턴 없음; 수면 장애 없음; ABI 검사 이상</td></tr><tr><td>섬유근육통<br>(Fibromyalgia)</td><td>전신 증상; 종종 수면 장애</td><td>일주기 변동 없음; 움직임으로 호전 안 됨 (☞ <a href="/broken/pages/437c8b9c7708d0357213b551ff2716ff2c910812">섬유근육통</a>)</td></tr><tr><td>Positional discomfort</td><td>같은 자세 장시간 유지 시 발생</td><td>자세 변경으로 즉시 호전; 일주기 패턴 없음; 움직임 충동 없음</td></tr><tr><td>성장통 (Growing pain)</td><td>소아; 양측 대퇴·정강이 깊은 근육 통증</td><td>활동량 많은 날 저녁 발생; 마사지로 호전; 일주기 패턴 불명확</td></tr></tbody></table>
+<table><thead><tr><th width="168">질환</th><th width="220">RLS와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>야간 다리 경련<br>(Nocturnal leg cramp)</td><td>근육의 물리적 수축(뭉침)이 눈에 보이거나 촉진됨; 극심한 국소 통증</td><td>스트레칭으로 즉시 완화; 움직임 <em>충동</em> 없음; 짧은 지속 시간; 일주기 패턴 없음</td></tr><tr><td>말초신경병증<br>(Peripheral neuropathy)</td><td>저림·통증이 지속적; 표면적(피부) 느낌; 주로 양말·장갑 분포</td><td>움직여도 호전 안 됨; 야간 악화 뚜렷하지 않음; 일주기 패턴 없음; 도파민 치료에 반응 안 함</td></tr><tr><td>정좌불능증<br>(Akathisia)</td><td>전신적 안절부절못함("body rocking"); 다리에 국한되지 않음</td><td>항정신병제·항구토제 복용력 확인; 국소 이상 감각 없음; 일주기 패턴 없음; 활동으로 호전 안 됨</td></tr><tr><td>PLMD<br>(Periodic limb movement disorder)</td><td>수면 중 주기적 사지 움직임(15~30초 간격); 주간 졸음·피로</td><td>깨어 있는 동안 움직임 충동·이상 감각 없음; RLS와 동시 진단 불가(상호 배타적)</td></tr><tr><td>하지정맥류<br>(Varicose veins)</td><td>하지 불편감·통증; 마사지·휴식으로 호전</td><td>일주기 패턴 없음; 육안으로 정맥 확장 확인 가능; 움직임 충동 없음</td></tr><tr><td>혈관성 파행<br>(Vascular claudication)</td><td>보행으로 악화, 휴식으로 호전</td><td>움직임 충동 없음; 일주기 패턴 없음; 수면 장애 없음; ABI 검사 이상</td></tr><tr><td>섬유근육통<br>(Fibromyalgia)</td><td>전신 증상; 종종 수면 장애</td><td>일주기 변동 없음; 움직임으로 호전 안 됨 (☞ <a href="../228_/153_-fibromyalgia.md">섬유근육통</a>)</td></tr><tr><td>Positional discomfort</td><td>같은 자세 장시간 유지 시 발생</td><td>자세 변경으로 즉시 호전; 일주기 패턴 없음; 움직임 충동 없음</td></tr><tr><td>성장통 (Growing pain)</td><td>소아; 양측 대퇴·정강이 깊은 근육 통증</td><td>활동량 많은 날 저녁 발생; 마사지로 호전; 일주기 패턴 불명확</td></tr></tbody></table>
 
 ***
 
@@ -98,7 +98,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * 치료 목표 : 증상 완화, 주간 기능 회복, 수면 개선, 삶의 질 향상
 * **Step 1** : 이차성 원인 교정 — 속발성인 경우 원인 치료 우선
 * **Step 2** : 악화 약물 중단 또는 대체 — SSRI/SNRI, 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)\
-  &#xNAN;_※ 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 도파민 기전으로 RLS를 악화시키지 않으며 일부에서 호전 효과 보고 — SSRI/SNRI 대신 우선 고려_
+  \&#xNAN;_※ 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 도파민 기전으로 RLS를 악화시키지 않으며 일부에서 호전 효과 보고 — SSRI/SNRI 대신 우선 고려_
 * **Step 3** : 철분 보충 — ferritin/transferrin saturation 기준에 따라 (위 진단 항목 참조)
 * **Step 4** : 비약물 치료 병행
 * **Step 5** : 약물 치료 — 중등도 이상, 삶의 질에 영향을 주는 경우 고려
@@ -136,7 +136,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 **현재 1차 치료 : gabapentin 계열 (강력 권고)**
 {% endhint %}
 
-#### <mark style="color:$primary;">Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열)&#x20;</mark>
+#### <mark style="color:$primary;">Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열)</mark>
 
 * 1차 선택
 * 근거 : 2024 AASM 강력 권고(Strong recommendation); 13개 RCT + 7개 관찰연구 기반
@@ -146,7 +146,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * pregabalin : 50\~75 ㎎ qd (저녁) → 최대 300\~450 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 * gabapentin enacarbil : 600 ㎎/d (저녁) — 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
 
-#### <mark style="color:$primary;">철분 보충&#x20;</mark>
+#### <mark style="color:$primary;">철분 보충</mark>
 
 * 1차 선택 (철분 지표 기준에 해당 시)
 * IV ferric carboxymaltose (페린젝트) : ferritin <100 ng/mL 또는 transferrin saturation <20% → 강력 권고
@@ -158,7 +158,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
   * 격일 복용(every other day) 권고 : 매일 복용보다 헵시딘 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
 * IV low molecular weight iron dextran, IV ferumoxytol : 조건부 권고
 
-#### <mark style="color:$primary;">도파민 작용제&#x20;</mark>
+#### <mark style="color:$primary;">도파민 작용제</mark>
 
 * 장기 사용 조건부 권고 반대 (2024 AASM)
 * 단기 사용 또는 gabapentin 계열 불내성/금기 시 제한적 선택 가능
@@ -191,13 +191,13 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 #### <mark style="color:$primary;">⛔ 권고하지 않는 약제 (2024 AASM)</mark>
 
-| 약제                    | 권고 수준     | 이유               |
-| --------------------- | --------- | ---------------- |
+| 약제                                                     | 권고 수준     | 이유               |
+| ------------------------------------------------------ | --------- | ---------------- |
 | cabergoline <mark style="color:blue;">\[카버젝트]</mark>   | 강력 권고 반대  | 심장판막 손상 위험       |
 | clonazepam <mark style="color:blue;">\[리보트릴]</mark>    | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
 | carbamazepine <mark style="color:blue;">\[테그레톨]</mark> | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
 | valproic acid <mark style="color:blue;">\[데파킨]</mark>  | 조건부 권고 반대 | 임상적 유의한 호전 미입증   |
-| pergolide             | —         | 심장판막 손상으로 국내외 퇴출 |
+| pergolide                                              | —         | 심장판막 손상으로 국내외 퇴출 |
 
 _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.</mark>_
 

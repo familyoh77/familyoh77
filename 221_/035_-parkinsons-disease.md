@@ -38,13 +38,13 @@
   * 4\~6㎐, 원위부에서 흔함(주로 손(pill-rolling tremor), 드물게 다리/입술/턱/혀 떨림)
   * 움직이거나 수면 시 호전
   * postural tremor 동반 가능
-* rigidity&#x20;
+* rigidity
   * 환자의 ＞90%에서 발생
   * 수동적 움직임에 대한 저항 증가
   * cogwheel(catching & releasing) 또는 lead pipe(지속적인 경직), bidirectional
   * 웅크린 자세
   * 통증을 동반할 수 있음
-* bradykinesia 또는 akinesia&#x20;
+* bradykinesia 또는 akinesia
   * 환자의 80\~100%에서 발생
   * 움직임 속도 감소, 미세 작업 장애
   * 반복적인 움직임 시 진폭 또는 속도가 점진적으로 감소(decrement)하는 양상이 진단적으로 중요 (예: 손가락 두드리기, 주먹 쥐었다 펴기 반복 시 관찰)
@@ -88,7 +88,7 @@
 
 * 임상적으로 진단
 
-### <mark style="color:orange;">MDS 임상 진단 기준</mark>&#x20;
+### <mark style="color:orange;">MDS 임상 진단 기준</mark>
 
 **필수 기준**
 
@@ -172,11 +172,9 @@ _Ref. Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's diseas
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="174">분류</th><th width="252">특징</th><th width="115">예상 경과</th><th width="127">Levodopa에 대한 반응</th></tr></thead><tbody><tr><td>Essential tremor<br>(☞ 떨림)</td><td>대칭적 떨림, 움직임에 의해 악화, 사지 원위부/머리 이환, 발음 이환; 서동증 없음</td><td></td><td>없음</td></tr><tr><td>Drug induced</td><td>현저하지 않은 보행 장애, 상지 증상 혼합, 대칭적; 대부분 항구토제/항정신성 약물 관련</td><td>약물 중단 후 호전</td><td>무관 (약물 중단에 반응)</td></tr><tr><td>Vascular</td><td>갑자기 발생, 국소 신경학적 이상, 단계적 악화, 대칭적 운동 완만, 질질 끄는 보행; 하지 우세</td><td>혈관 상태에 따름</td><td>미약</td></tr><tr><td>Progressive supranuclear palsy (PSP)</td><td>조기 자세 불안/낙상(발병 1년 이내), 몸통 경직, 수직 주시 제한(특히 하방 주시 장애), 놀란 표정(surprised look); Richardson syndrome이 전형적 아형이나 PSP-P(파킨슨 유사형) 등 다양한 아형 존재 [MDS 2017]</td><td>빠른 진행</td><td>초기 20~30%에서 일시적 반응; 대부분 무반응</td></tr><tr><td>Multiple system atrophy (MSA)</td><td>자율 신경 기능 상실(기립성 저혈압, 실금) 필수; MSA-P(파킨슨 우세형) 또는 MSA-C(소뇌 우세형)으로 분류 [개정 기준 2022]; 흡기 시 stridor가 특징적</td><td>빠른 진행</td><td>초기 40%에서 일시적 반응</td></tr><tr><td>Dementia with Lewy bodies (DLB)</td><td>인지 기능 저하가 운동 증상보다 선행 또는 동반(1년 이내); 변동성 인지 장애, 반복적 시각 환각, REM 수면 행동 장애(RBD), DAT-SPECT 이상이 핵심 진단 기준 [개정 기준 2017]; 현저한 경직</td><td>알츠하이머와 비슷</td><td>다양; cholinesterase 억제제가 인지·정신 증상에 효과적</td></tr></tbody></table>
+<table><thead><tr><th width="174">분류</th><th width="252">특징</th><th width="115">예상 경과</th><th width="127">Levodopa에 대한 반응</th></tr></thead><tbody><tr><td>Essential tremor<br>(☞ <a href="034_-tremor.md">떨림</a>)</td><td>대칭적 떨림, 움직임에 의해 악화, 사지 원위부/머리 이환, 발음 이환; 서동증 없음</td><td></td><td>없음</td></tr><tr><td>Drug induced</td><td>현저하지 않은 보행 장애, 상지 증상 혼합, 대칭적; 대부분 항구토제/항정신성 약물 관련</td><td>약물 중단 후 호전</td><td>무관 (약물 중단에 반응)</td></tr><tr><td>Vascular</td><td>갑자기 발생, 국소 신경학적 이상, 단계적 악화, 대칭적 운동 완만, 질질 끄는 보행; 하지 우세</td><td>혈관 상태에 따름</td><td>미약</td></tr><tr><td>Progressive supranuclear palsy (PSP)</td><td>조기 자세 불안/낙상(발병 1년 이내), 몸통 경직, 수직 주시 제한(특히 하방 주시 장애), 놀란 표정(surprised look); Richardson syndrome이 전형적 아형이나 PSP-P(파킨슨 유사형) 등 다양한 아형 존재 [MDS 2017]</td><td>빠른 진행</td><td>초기 20~30%에서 일시적 반응; 대부분 무반응</td></tr><tr><td>Multiple system atrophy (MSA)</td><td>자율 신경 기능 상실(기립성 저혈압, 실금) 필수; MSA-P(파킨슨 우세형) 또는 MSA-C(소뇌 우세형)으로 분류 [개정 기준 2022]; 흡기 시 stridor가 특징적</td><td>빠른 진행</td><td>초기 40%에서 일시적 반응</td></tr><tr><td>Dementia with Lewy bodies (DLB)</td><td>인지 기능 저하가 운동 증상보다 선행 또는 동반(1년 이내); 변동성 인지 장애, 반복적 시각 환각, REM 수면 행동 장애(RBD), DAT-SPECT 이상이 핵심 진단 기준 [개정 기준 2017]; 현저한 경직</td><td>알츠하이머와 비슷</td><td>다양; cholinesterase 억제제가 인지·정신 증상에 효과적</td></tr></tbody></table>
 
 _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy. Mov Disord 2017;32(6). Wenning GK, et al. The Movement Disorder Society criteria for MSA. Mov Disord 2022;37(6). McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies. Neurology 2017;89(1)._
-
-
 
 * 우울증 : 무표정, 고저가 없는 발성, 활동 감소; 가족력, 떨림의 특징, 다른 운동 증상으로 감별
 * Wilson Dz : 이른 연령에서 시작, 다른 비정상적 움직임, Kayser-Fleischer rings, 만성 간염, 조직 내 구리 농도 증가
@@ -195,7 +193,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * 언어/발성 치료 (LSVT LOUD 등)
 * 식사, 영양 관리, 적당한 칼로리 공급
   * 골격과 관련된 영양소(Vit D, Ca)를 포함하여 적절한 영양소 공급
-  * 변비 예방을 위한 수분 및 식이 섬유 섭취 (☞ p.414, p.1164)
+  * 변비 예방을 위한 수분 및 식이 섬유 섭취 (☞ [변비](../224_/082_-constipation.md#management), [식이지침](../231_/217_-nutritiondiet-guideline.md))
   * 소화 장애가 있는 경우 삼키기 쉬운 음식 또는 소화가 잘 되는 음식 선택
   * 소량으로 자주 식사
   * 과식/큰 음식/고지방 식품 섭취를 피함
@@ -291,7 +289,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 ### <mark style="color:orange;">운동 증상 이외 증상의 치료</mark>
 
 * 기립성 저혈압 : 수분 섭취 증가, 압박 스타킹, 머리쪽 침대 높이기; midodrine 2.5\~10 ㎎ tid, droxidopa 100\~600 ㎎ tid
-* 주간 졸음 : 야간 수면 환경 개선, 적절한 커피 음용; modafinil, methylphenidate (☞ p.138)
+* 주간 졸음 : 야간 수면 환경 개선, 적절한 커피 음용; modafinil, methylphenidate (☞ [불면증](029_-insomnia-sleep-disorder.md#management))
 * REM 수면 행동 장애 : clonazepam 0.25\~0.5 ㎎ 취침 전 <mark style="color:blue;">\[리보트릴]</mark>; melatonin 3\~12 ㎎ 취침 전
 * 우울 : 보통 SSRI 선택 (TCA보다 부작용이 적음) (☞ [우울증](027_-depression.md))
 * 통증 : 파킨슨 관련 통증에 duloxetine 고려; levodopa 최적화로 off-period 통증 감소

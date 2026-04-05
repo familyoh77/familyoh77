@@ -116,7 +116,7 @@
 
 * 효과는 입증되지 않은 반면 부작용이 발생할 수 있으므로 일반적으로 권고 안 함 \[AAN 2018; 복수 가이드라인에서 금기 또는 deprescribing 권고]
 * 심한 기억력 장애가 있는 경우 donepezil 투여를 고려
-* donepezil : 5 ㎎ qd → 4\~6주 후 10 ㎎ qd <mark style="color:blue;">\[아리셉트]</mark> (☞ p.161)
+* donepezil : 5 ㎎ qd → 4\~6주 후 10 ㎎ qd <mark style="color:blue;">\[아리셉트]</mark> (☞ [치매](033_-dementia.md#management))
 
 #### <mark style="color:$primary;">항아밀로이드 단클론항체</mark>
 
@@ -150,7 +150,7 @@
 * 건강한 생활 습관
   * 사회적 관계 형성
   * 공격성을 보이는 치매 환자에서 마사지와 음악 요법이 효과가 있다는 보고가 있음
-* 식이 : 건전하고 균형 있는 식단, 지중해식 식단 권고 (☞ p.1164)
+* 식이 : 건전하고 균형 있는 식단, 지중해식 식단 권고 (☞ [영양 지침](../231_/217_-nutritiondiet-guideline.md))
 * 항산화제(Vit C/E, 베타 카로틴, selenium), Vit B6/B12, folate, Vit D : 효과 입증 불충분
   * Vit E(α-tocopherol; 2,000 IU/d)가 경증 AD에 대하여 유효할 가능성이 있다는 보고가 있음
 * 오메가-3, NSAID, estrogen, testosterone, 은행(ginkgo biloba extract 120 ㎎/d), selegiline(MAO-B 억제제), gabapentin, coenzyme Q10 : 효과 입증이 안 됨
