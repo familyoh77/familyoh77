@@ -2,14 +2,6 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-#### <mark style="color:$primary;">인지 기능 저하의 연속선</mark>
-
-| 단계 | 정의 | 검사 소견 |
-|------|------|-----------|
-| **주관적 인지 저하 (SCD)** | 객관적 검사는 정상이나 환자 스스로 인지 저하를 느끼는 단계; 향후 MCI로 이행 위험 높음 → 6\~12개월 간격 정기 추적 권장 | 표준화 검사 정상 범위 |
-| **경도인지장애 (MCI)** | NIA-AA 기준; DSM-5에서는 **경도 신경인지장애(Mild Neurocognitive Disorder)** 로 명명 | 객관적 인지 저하 확인; 일상생활 독립성 유지 |
-| **치매** | 일상생활 기능 손상을 동반한 인지 저하 | 복수 인지 영역 장애 |
-
 * 고령에서 일반적으로 나타나는 것보다 다소 심한 정도로 어떤 일을 수행하는데 지장을 주는, 기억력이나 사고 등 일부 인지 영역의 경미한 장애
 * 일상생활 능력과 전반적인 인지 기능은 유지됨
 * subtype : amnestic type vs nonamnestic type - 빈도 = 2:1
@@ -23,25 +15,28 @@
   * 일부는 정상으로 회복되거나 안정적으로 유지됨
 * 선별 검사 : 인지 장애 증상이 없는 고령자에 대한 선별 검사는 위해(과잉 진단, 낙인 효과, 스트레스, 우울, 불필요하거나 효과가 없는 치료 및 약물 부작용)에 비하여 이득이 입증되지 않아 권고하지 않음 \[USPSTF 권고안]
 
+#### <mark style="color:$primary;">인지 기능 저하의 단계</mark>
+
+<table><thead><tr><th width="150">단계</th><th width="273">정의</th><th>검사 소견</th></tr></thead><tbody><tr><td><strong>주관적 인지 저하</strong> <br><strong>(SCD)</strong></td><td>객관적 검사는 정상이나 환자 스스로 인지 저하를 느끼는 단계; 향후 MCI로 이행 위험 높음 → 6~12개월 간격 정기 추적 권장</td><td>표준화 검사 정상 범위</td></tr><tr><td><strong>경도인지장애</strong> <br><strong>(MCI)</strong></td><td>NIA-AA 기준; DSM-5에서는 경도 신경인지장애(Mild Neurocognitive Disorder) 로 명명</td><td>객관적 인지 저하 확인; 일상생활 독립성 유지</td></tr><tr><td><strong>치매</strong></td><td>일상생활 기능 손상을 동반한 인지 저하</td><td>복수 인지 영역 장애</td></tr></tbody></table>
+
 ### <mark style="color:orange;">위험 인자</mark>
 
-#### <mark style="color:$primary;">교정 불가능한 위험 인자</mark>
+**교정 불가능한 위험 인자**
 
 * 고령
 * apolipoprotein E ε4 genotype
 * 가족력
 
-#### <mark style="color:$primary;">교정 가능한 위험 인자</mark> _(적극 관리 대상)_
+**교정 가능한 위험 인자 - 적극 관리 대상**
 
 * 혈관 위험 인자 : 비만, 당뇨병, 고혈압, 고지혈증, 뇌졸중/심질환
 * 생활 습관 : 흡연, 신체 활동 부족, 사회적 고립
-* **청력 저하** : Lancet Commission(2024) 기준 예방 가능한 치매 위험 인자 중 단일 기여도 최고(PAF ~8%); 보청기 미사용 포함 — 보청기 착용이 인지 기능 저하 속도를 늦출 수 있음
+* 청력 저하 : 예방 가능한 치매 위험 인자 중 단일 기여도 최고(PAF \~8%); 보청기 착용이 인지 기능 저하 속도를 늦출 수 있음
 * 시력 저하
 * 수면무호흡증
 * 낮은 교육 수준
 * 신경정신 증상 : 초조, 무욕, 우울, 불안
-* 약물 : 항콜린제(diphenhydramine, chlorpheniramine, amitriptyline, oxybutynin, benztropine 등 항콜린 작용이 있는 약물)
-* apolipoprotein E ε4 genotype
+* 약물 : 항콜린 작용이 있는 약물(diphenhydramine, chlorpheniramine, amitriptyline, oxybutynin, benztropine)
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -78,7 +73,7 @@
 3. 복잡한 업무(예: 보통의 돈 계산, 식사 준비, 장보기)를 수행하는데 약간의 문제가 있지만 일상생활 수행에 있어서의 독립적인 능력 유지; 업무를 수행하는데 있어 이전보다 더 많은 시간이 걸리고 효율성이 떨어지며 더 많은 오류를 범할 수 있음
 4. 치매는 아님. 사회적 또는 직업상 유의미한 장애의 증거가 없음
 
-※ 1\~2년 후 재평가하여 변화를 관찰
+ ※ 1\~2년 후 재평가하여 변화를 관찰
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -87,17 +82,21 @@
 * 영상 검사 : MRI (또는 CT)
 * 인지 기능 검사 : 한국판 몬트리올 인지평가 (K-MoCA)
 
-#### <mark style="color:$primary;">**한국판 몬트리올 인지평가**</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">(</mark>[<mark style="color:$primary;">K-MoCA</mark>](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf)<mark style="color:$primary;">)</mark>
+#### <mark style="color:$primary;">**한국판 몬트리올 인지평가**</mark> <mark style="color:$primary;">(</mark>[<mark style="color:$primary;">K-MoCA</mark>](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf)<mark style="color:$primary;">)</mark>
 
 * 주의력, 집중력, 실행력, 기억력, 어휘력, 시각 공간력, 추상력, 계산과 지남력 평가; 10분 소요
 * 글을 읽거나 쓰는 능력이 없거나 서투른 경우에는 적용하지 않음
 * 판정 : 30점 만점, ≥26점 시 정상 (원저자 Nasreddine 등의 기준)
   * 한국 규준 연구에서는 교육 수준 및 연령에 따라 cutpoint 차이가 있으며, 23점 기준 적용 시 MCI 과대평가(정상 10%, MCI 52%, 치매 38%)가 발생함. 최적 민감도·특이도는 cutpoint 16.5에서 달성된다는 보고가 있어 단독 기준 적용에 주의를 요함 \[강연욱 등, 2009]
   * 교육 수준이 낮은 경우(12년 미만) 1점 보정을 권장하는 원저자 지침 참고
-  * **1차 진료 실용 기준** : 23/24점을 참고 cutpoint로 사용; 교육 연수 12년 미만 시 1점 가산하여 판정. 단독 수치보다 변화 추이(추적 검사와의 비교)가 더 중요
-  * ✽ MoCA-2(개정판) : 원저자가 일부 항목을 개정한 버전; 최신 한국어 규준 연구 적용 시 참고. 국내에서는 디지털 인지 검사(예: C-SBT 등)를 병용하는 추세도 있으나 아직 표준화 진행 중
+* 1차 진료 실용 기준&#x20;
+  * 23점이하(Fail/Screen-positive)/24점 이상(pass)을 참고 cutpoint로 사용
+  * 교육 연수 12년 미만 시 획득한 점수에 1점을 가산하여 판정
+  * 단독 수치보다 변화 추이(추적 검사와의 비교)가 더 중요
 
 <figure><img src="../.gitbook/assets/경도인지장애.png" alt=""><figcaption><p><strong>K-MoCA 검사지</strong> (강연욱 등. 혈관성 인지장애 선별검사로서 Korean-Montreal Cognitive Assessment(K-MoCA)의 신뢰도, 타당도 및 규준 연구. Korean Journal of Clinical Psychology 2009;28(2):549-562.)</p></figcaption></figure>
+
+※ MoCA-2(개정판) : 원저자가 일부 항목을 개정한 버전; 국내에서는 디지털 인지 검사(예: C-SBT 등)를 병용하는 추세도 있으나 아직 표준화 진행 중
 
 #### <mark style="color:$primary;">혈액 바이오마커 (Blood-based Biomarkers)</mark>
 
@@ -108,14 +107,15 @@
 * 2025년 FDA, 최초 혈액 기반 알츠하이머 진단 보조 검사 허가; 국내 도입 여부는 확인 필요
 * 적응: AD 병리 확인이 필요한 경우(예: 항아밀로이드 치료 전 선별), 전문의 협진 시 활용
 * 양성(elevated) 시 → 아밀로이드 PET 또는 CSF 검사로 확진 후 전문의 의뢰 권고
-* **회색 지대(Intermediate/Grey zone)** : 결과가 양성·음성 경계에 해당하는 경우 해석이 불확실하며, 아밀로이드 PET 또는 CSF 검사로 확인이 필요함 — 일차 의료기관에서 단독 결과로 확진하지 않도록 주의
+* 회색 지대(Intermediate/Grey zone) : 결과가 양성·음성 경계에 해당하는 경우 해석이 불확실하며, 아밀로이드 PET 또는 CSF 검사로 확인이 필요함 - 일차 의료기관에서 단독 결과로 확진하지 않도록 주의
 
 ### <mark style="color:orange;">감별</mark>
 
 * 우울증, 파킨슨병, 치매, 갑상선저하증, Vit B12 결핍, 약물
-* **가성 치매(Pseudodementia)** : 노인성 우울증으로 인한 인지 기능 저하; MCI와 혼동되기 쉬움
-  * 임상 특징 : 검사 중 "모르겠어요"라는 답변이 많고, 정답을 알면서도 노력하지 않는 경향; 인지 저하보다 우울·무기력 호소가 선행; 우울증 치료 후 인지 기능이 상당 부분 회복되는 것이 감별 포인트
-* 섬망 : 급성 발생, 의식 변화, 주의력 장애의 변동이 특징 — MCI와 혼동하지 않도록 주의
+* 가성 치매(Pseudodementia) : 우울증으로 인한 인지 기능 저하; MCI와 혼동되기 쉬움
+  * 검사 중 "모르겠어요"라는 답변이 많고, 정답을 알면서도 노력하지 않는 경향이 있음
+  * 인지 저하보다 우울·무기력 호소가 선행; 우울증 치료 후 인지 기능이 상당 부분 회복됨
+* 섬망 : 급성 발생, 의식 변화, 주의력 장애의 변동이 특징 - MCI와 혼동하지 않도록 주의
 
 ***
 
@@ -159,17 +159,17 @@
   * 예) 퍼즐, 책읽기, 컴퓨터 작업, 수작업, 새로운 언어·악기 학습
   * 전문가 감독 하의 구조화된 훈련이 자가 훈련보다 효과가 큰 경향
 * 디지털 치료기기(DTx) : 처방 기반 소프트웨어 의료기기로 인지 훈련을 표준화·체계화하여 제공
-  * 코그테라(Cogthera; 이모코그) : 국내 최초 경도인지장애 적응증 식약처 허가 취득(2025), 보건복지부 신의료기술 인정; 55\~85세 MCI 환자 대상 12주 모바일 맞춤 인지훈련 제공, 처방전 기반 사용
-  * 급여 수가 등 세부 사항은 변동 중 - 최신 정보 별도 확인 필요
+  * 코그테라(Cogthera) : 국내 최초 경도인지장애 적응증 식약처 허가 취득(2025), 보건복지부 신의료기술 인정; 55\~85세 MCI 환자 대상 12주 모바일 맞춤 인지훈련 제공, 처방전 기반 사용 (제조사: 이모코그)
+  * 급여 수가 등 세부 사항은 변동 중
 
 ## <mark style="color:green;">기타 관리 및 예방</mark>
 
 * 위험 인자 관리 : 금연, 음주 제한(≤1 SD/d; 1일 1표준잔=순알코올 14g 이하); 비만, 고혈압, 당뇨병, 이상지질혈증 관리
-* 동반 문제 관리 : 우울증, 영양 결핍; **청력 저하** — 보청기 착용이 인지 기능 저하 속도를 늦출 수 있음(Lancet Commission); 시력/후각/미각 저하도 함께 평가
+* 동반 문제 관리 : 우울증, 영양 결핍; 청력 저하 - 보청기 착용이 인지 기능 저하 속도를 늦출 수 있음(Lancet Commission); 시력/후각/미각 저하도 함께 평가
 * 수면 관리 : 수면 중 뇌의 아밀로이드 제거(glymphatic system)가 이루어지므로 수면의 질 관리가 중요; 수면무호흡증 치료(CPAP), 수면위생 교육 권고 (☞ [불면증](029_-insomnia-sleep-disorder.md))
 * 낙상, 화재, 가출 등 사고 예방을 위한 조치
 * 혈관 위험 질환 치료 : 고혈압, 당뇨병, 뇌혈관 질환, 고지혈증, 수면무호흡증
-  * 수축기 혈압 120 mmHg 미만으로 적극 관리 시 MCI 발생률 감소 \[SPRINT-MIND 2019]
+  * 수축기 혈압 120 ㎜Hg 미만으로 적극 관리 시 MCI 발생률 감소 \[SPRINT-MIND 2019]
 * 건강한 생활 습관
   * 사회적 관계 형성
 * 식이 : 건전하고 균형 있는 식단, 지중해식 식단 권고 (☞ [영양 지침](../231_/217_-nutritiondiet-guideline.md))
