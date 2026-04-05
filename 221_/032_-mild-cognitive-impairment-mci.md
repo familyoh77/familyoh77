@@ -17,7 +17,7 @@
 
 #### <mark style="color:$primary;">인지 기능 저하의 단계</mark>
 
-<table><thead><tr><th width="150">단계</th><th width="273">정의</th><th>검사 소견</th></tr></thead><tbody><tr><td><strong>주관적 인지 저하</strong> <br><strong>(SCD)</strong></td><td>객관적 검사는 정상이나 환자 스스로 인지 저하를 느끼는 단계; 향후 MCI로 이행 위험 높음 → 6~12개월 간격 정기 추적 권장</td><td>표준화 검사 정상 범위</td></tr><tr><td><strong>경도인지장애</strong> <br><strong>(MCI)</strong></td><td>NIA-AA 기준; DSM-5에서는 경도 신경인지장애(Mild Neurocognitive Disorder) 로 명명</td><td>객관적 인지 저하 확인; 일상생활 독립성 유지</td></tr><tr><td><strong>치매</strong></td><td>일상생활 기능 손상을 동반한 인지 저하</td><td>복수 인지 영역 장애</td></tr></tbody></table>
+<table><thead><tr><th width="150">단계</th><th width="273">정의</th><th>검사 소견</th></tr></thead><tbody><tr><td><strong>주관적 인지 저하</strong><br><strong>(SCD)</strong></td><td>객관적 검사는 정상이나 환자 스스로 인지 저하를 느끼는 단계; 향후 MCI로 이행 위험 높음 → 6~12개월 간격 정기 추적 권장</td><td>표준화 검사 정상 범위</td></tr><tr><td><strong>경도인지장애</strong><br><strong>(MCI)</strong></td><td>NIA-AA 기준; DSM-5에서는 경도 신경인지장애(Mild Neurocognitive Disorder) 로 명명</td><td>객관적 인지 저하 확인; 일상생활 독립성 유지</td></tr><tr><td><strong>치매</strong></td><td>일상생활 기능 손상을 동반한 인지 저하</td><td>복수 인지 영역 장애</td></tr></tbody></table>
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -89,7 +89,7 @@
 * 판정 : 30점 만점, ≥26점 시 정상 (원저자 Nasreddine 등의 기준)
   * 한국 규준 연구에서는 교육 수준 및 연령에 따라 cutpoint 차이가 있으며, 23점 기준 적용 시 MCI 과대평가(정상 10%, MCI 52%, 치매 38%)가 발생함. 최적 민감도·특이도는 cutpoint 16.5에서 달성된다는 보고가 있어 단독 기준 적용에 주의를 요함 \[강연욱 등, 2009]
   * 교육 수준이 낮은 경우(12년 미만) 1점 보정을 권장하는 원저자 지침 참고
-* 1차 진료 실용 기준&#x20;
+* 1차 진료 실용 기준
   * 23점이하(Fail/Screen-positive)/24점 이상(pass)을 참고 cutpoint로 사용
   * 교육 연수 12년 미만 시 획득한 점수에 1점을 가산하여 판정
   * 단독 수치보다 변화 추이(추적 검사와의 비교)가 더 중요
@@ -216,7 +216,7 @@ F06.7 경도 인지 장애
 > 아리셉트 5 mg/T  1T  qd  취침 전  (4~6주)
 > → 4~6주 후 10 mg/T  1T  qd 로 증량 고려
 > ※ MCI에서 효과 입증 불충분; 부작용(구역, 설사, 불면, 서맥) 모니터링
-> ※ 처방 전 "효과 근거가 제한적"임을 환자와 충분히 상의한 후 공유 의사결정(SDM)으로 투여 여부 결정
+> ※ 처방 전 "효과 근거가 제한적"임을 환자와 충분히 상의한 후 공유 의사결정으로 투여 여부 결정
 > ※ 일상생활 기능 저하 없이 증상 완화 없는 경우 중단 고려
 > ※ 심한 기억력 장애 또는 치매로의 이행이 의심되는 경우 신경과 의뢰 병행
 > ```
