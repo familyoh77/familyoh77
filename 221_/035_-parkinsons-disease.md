@@ -88,7 +88,7 @@
 
 * 임상적으로 진단
 
-### <mark style="color:orange;">MDS 임상 진단 기준</mark>
+### <mark style="color:orange;">임상 진단 기준</mark> \[MDS]
 
 **필수 기준**
 
@@ -199,7 +199,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
   * 과식/큰 음식/고지방 식품 섭취를 피함
   * 단백질 섭취 시간 조절 : 단백질(고기, 생선, 두부, 콩류)은 levodopa 흡수를 경쟁적으로 방해할 수 있음; 가급적 단백질 섭취를 저녁 식사로 몰아서 하고, 아침·점심은 탄수화물 위주로 구성하는 전략이 도움됨
 
-### <mark style="color:orange;">수술적 치료 (약물 불응성)</mark>
+#### <mark style="color:$primary;">수술적 치료 (약물 불응성)</mark>
 
 * **Deep brain stimulation (DBS)**
   * 적응 : 약물 불응성 운동 증상, levodopa 유발 dyskinesia, wearing-off 현상이 심한 경우
