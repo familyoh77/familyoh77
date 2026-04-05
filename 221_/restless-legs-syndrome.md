@@ -22,7 +22,7 @@
 * 표준 치료(gabapentin 계열 + 철분 보충)에 반응하지 않는 경우
 * 도파민 작용제 복용 중 증상이 이전보다 이른 시각에 발생하거나 상지·몸통으로 확산되는 경우(augmentation 의심)
 * 임신 중 중증 RLS - 치료 선택지 제한으로 전문과 상담 필요\
-  _(비약물 치료·철분 보충 우선; gabapentin·도파민 작용제는 기형 위험 데이터 불충분으로 가급적 회피; 대부분 분만 후 자연 소실)_
+  &#xNAN;_(비약물 치료·철분 보충 우선; gabapentin·도파민 작용제는 기형 위험 데이터 불충분으로 가급적 회피; 대부분 분만 후 자연 소실)_
 
 <mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
@@ -33,7 +33,7 @@
 
 * 원발성 (early-onset) : 뇌의 도파민 작용 저하 및 뇌 철분 결핍 추정
 * 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 약물(예: 알코올, 카페인, 항우울제(특히 SSRI/SNRI, mirtazapine), 항정신병제, 1세대 항히스타민제, 도파민 차단제(metoclopramide, domperidone※), cholinesterase 억제제(donepezil))\
-  _※ domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
+  &#xNAN;_※ domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -66,7 +66,7 @@
 * ferritin 75\~100 ng/mL → IV 철분만 고려 (경구 철분은 이 범위에서 흡수 불량)
 * ferritin >100 ng/mL 및 transferrin saturation ≥20% → 철분 보충 불필요
 * ferritin >100 ng/mL이더라도 transferrin saturation <20% → 철분 보충 고려\
-  _(염증·감염·간질환 시 ferritin은 급성기 반응물질로 허위 상승 가능 — TSAT로 실제 철분 가용성 판단)_
+  &#xNAN;_(염증·감염·간질환 시 ferritin은 급성기 반응물질로 허위 상승 가능 — TSAT로 실제 철분 가용성 판단)_
 
 ### <mark style="color:orange;">진단 기준 \[IRLSSG 2014]</mark>
 
@@ -91,7 +91,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="168">질환</th><th width="220">RLS와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>야간 다리 경련<br>(Nocturnal leg cramp)</td><td>근육의 물리적 수축(뭉침)이 눈에 보이거나 촉진됨; 극심한 국소 통증</td><td>스트레칭으로 즉시 완화; 움직임 <em>충동</em> 없음; 짧은 지속 시간; 일주기 패턴 없음</td></tr><tr><td>말초신경병증<br>(Peripheral neuropathy)</td><td>저림·통증이 지속적; 표면적(피부) 느낌; 주로 양말·장갑 분포</td><td>움직여도 호전 안 됨; 야간 악화 뚜렷하지 않음; 일주기 패턴 없음; 도파민 치료에 반응 안 함</td></tr><tr><td>정좌불능증<br>(Akathisia)</td><td>전신적 안절부절못함("body rocking"); 다리에 국한되지 않음</td><td>항정신병제·항구토제 복용력 확인; 국소 이상 감각 없음; 일주기 패턴 없음; 활동으로 호전 안 됨</td></tr><tr><td>PLMD<br>(Periodic limb movement disorder)</td><td>수면 중 주기적 사지 움직임(15~30초 간격); 주간 졸음·피로</td><td>깨어 있는 동안 움직임 충동·이상 감각 없음; RLS 환자의 80%에서 PLMS 동반 가능 — PLMD는 RLS 없이 PLMS만 있을 때 진단</td></tr><tr><td>하지정맥류<br>(Varicose veins)</td><td>하지 불편감·통증; 마사지·휴식으로 호전</td><td>일주기 패턴 없음; 육안으로 정맥 확장 확인 가능; 움직임 충동 없음</td></tr><tr><td>혈관성 파행<br>(Vascular claudication)</td><td>보행으로 악화, 휴식으로 호전</td><td>움직임 충동 없음; 일주기 패턴 없음; 수면 장애 없음; ABI 검사 이상</td></tr><tr><td>섬유근육통<br>(Fibromyalgia)</td><td>전신 증상; 종종 수면 장애</td><td>일주기 변동 없음; 움직임으로 호전 안 됨 (☞ <a href="../228_/153_-fibromyalgia.md">섬유근육통</a>)</td></tr><tr><td>Positional discomfort</td><td>같은 자세 장시간 유지 시 발생</td><td>자세 변경으로 즉시 호전; 일주기 패턴 없음; 움직임 충동 없음</td></tr><tr><td>성장통 (Growing pain)</td><td>소아; 양측 대퇴·정강이 깊은 근육 통증</td><td>활동량 많은 날 저녁 발생; 마사지로 호전; 일주기 패턴 불명확 / <strong>소아 RLS 감별 주의</strong> : "다리가 이상해서 움직이고 싶다", 저녁에 심해지고 마사지를 좋아한다면 RLS 가능성 고려; 소아는 증상을 정확히 표현하기 어려워 보호자 관찰(다리를 계속 움직임, 잠들기 전 안절부절)이 중요</td></tr></tbody></table>
+<table><thead><tr><th width="168">질환</th><th width="220">RLS와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>야간 다리 경련<br>(Nocturnal leg cramp)</td><td>근육의 물리적 수축(뭉침)이 눈에 보이거나 촉진됨; 극심한 국소 통증</td><td>스트레칭으로 즉시 완화; 움직임 <em>충동</em> 없음; 짧은 지속 시간; 일주기 패턴 없음</td></tr><tr><td>말초신경병증<br>(Peripheral neuropathy)</td><td>저림·통증이 지속적; 표면적(피부) 느낌; 주로 양말·장갑 분포</td><td>움직여도 호전 안 됨; 야간 악화 뚜렷하지 않음; 일주기 패턴 없음; 도파민 치료에 반응 안 함</td></tr><tr><td>정좌불능증<br>(Akathisia)</td><td>전신적 안절부절못함("body rocking"); 다리에 국한되지 않음</td><td>항정신병제·항구토제 복용력 확인; 국소 이상 감각 없음; 일주기 패턴 없음; 활동으로 호전 안 됨</td></tr><tr><td>PLMD<br>(Periodic limb movement disorder)</td><td>수면 중 주기적 사지 움직임(15~30초 간격); 주간 졸음·피로</td><td>깨어 있는 동안 움직임 충동·이상 감각 없음; RLS 환자의 80%에서 PLMS 동반 가능 — PLMD는 RLS 없이 PLMS만 있을 때 진단</td></tr><tr><td>하지정맥류<br>(Varicose veins)</td><td>하지 불편감·통증; 마사지·휴식으로 호전</td><td>일주기 패턴 없음; 육안으로 정맥 확장 확인 가능; 움직임 충동 없음</td></tr><tr><td>혈관성 파행<br>(Vascular claudication)</td><td>보행으로 악화, 휴식으로 호전</td><td>움직임 충동 없음; 일주기 패턴 없음; 수면 장애 없음; ABI 검사 이상</td></tr><tr><td>섬유근육통<br>(Fibromyalgia)</td><td>전신 증상; 종종 수면 장애</td><td>일주기 변동 없음; 움직임으로 호전 안 됨 (☞ <a href="../228_/153_-fibromyalgia.md">섬유근육통</a>)</td></tr><tr><td>Positional discomfort</td><td>같은 자세 장시간 유지 시 발생</td><td>자세 변경으로 즉시 호전; 일주기 패턴 없음; 움직임 충동 없음</td></tr></tbody></table>
 
 ***
 
@@ -100,12 +100,12 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 치료 목표 : 증상 완화, 주간 기능 회복, 수면 개선, 삶의 질 향상
-* **Step 1** : 이차성 원인 교정 — 속발성인 경우 원인 치료 우선
-* **Step 2** : 악화 약물 중단 또는 대체 — SSRI/SNRI, **mirtazapine**, 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)\
-  \&#xNAN;_※ 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 도파민 기전으로 RLS를 악화시키지 않으며 일부에서 호전 효과 보고 — SSRI/SNRI/mirtazapine 대신 우선 고려_
-* **Step 3** : 철분 보충 — ferritin/transferrin saturation 기준에 따라 (위 진단 항목 참조)
+* **Step 1** : 이차성 원인 교정 - 속발성인 경우 원인 치료 우선
+* **Step 2** : 악화 약물 중단 또는 대체 - SSRI/SNRI, mirtazapine, 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)\
+  ※ 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 도파민 기전으로 RLS를 악화시키지 않으며 일부에서 호전 효과 보고 - SSRI/SNRI/mirtazapine 대신 우선 고려
+* **Step 3** : 철분 보충 - ferritin/transferrin saturation 기준에 따라 (위 진단 항목 참조)
 * **Step 4** : 비약물 치료 병행
-* **Step 5** : 약물 치료 — 중등도 이상, 삶의 질에 영향을 주는 경우 고려
+* **Step 5** : 약물 치료 - 중등도 이상, 삶의 질에 영향을 주는 경우 고려
 
 ## <mark style="color:green;">비약물 치료 및 예방</mark>
 
@@ -119,29 +119,21 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 ## <mark style="color:green;">약물 치료</mark>
 
-{% hint style="info" %}
-**2024 AASM 가이드라인 핵심 변화**\
-기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험으로 인해 장기 사용 **조건부 권고 반대**로 변경.\
-**현재 1차 치료 : gabapentin 계열 (강력 권고)**
-{% endhint %}
+* 1차  선택제 : gabapentin 계열; 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험으로 인해 장기 사용 조건부 권고 반대로 변경 (2024 AASM)
 
 #### <mark style="color:$primary;">Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열)</mark>
 
 * 1차 선택
 * 근거 : 2024 AASM 강력 권고(Strong recommendation); 13개 RCT + 7개 관찰연구 기반
 * 용법 : 증상 발생 1\~2시간 전 저녁 복용
-* **신기능 저하 시 용량 조절** (CrCl 기준)
 
-| CrCl (mL/min) | Gabapentin 최대 용량 | Pregabalin 최대 용량 |
-|---|---|---|
-| ≥60 | 1,800\~2,400 ㎎/d | 300\~450 ㎎/d |
-| 30\~59 | 700 ㎎/d | 150 ㎎/d |
-| 15\~29 | 300 ㎎/d | 75 ㎎/d |
-| <15 | 150 ㎎/d | 25\~50 ㎎/d |
+**신기능 저하 시 용량 조절** (CrCl 기준)
+
+<table><thead><tr><th width="142">CrCl (mL/min)</th><th width="190">Gabapentin 최대 용량</th><th width="172">Pregabalin 최대 용량</th></tr></thead><tbody><tr><td>≥60</td><td>1,800~2,400 ㎎/d</td><td>300~450 ㎎/d</td></tr><tr><td>30~59</td><td>700 ㎎/d</td><td>150 ㎎/d</td></tr><tr><td>15~29</td><td>300 ㎎/d</td><td>75 ㎎/d</td></tr><tr><td>&#x3C;15</td><td>150 ㎎/d</td><td>25~50 ㎎/d</td></tr></tbody></table>
 
 * gabapentin : 100\~300 ㎎ qd (저녁) → 증상에 따라 최대 1,800\~2,400 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 50\~75 ㎎ qd (저녁) → 최대 300\~450 ㎎/d <mark style="color:blue;">\[리리카]</mark>
-* gabapentin enacarbil : 600 ㎎/d (저녁) — 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
+* gabapentin enacarbil : 600 ㎎/d (저녁) - 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
 
 #### <mark style="color:$primary;">철분 보충</mark>
 
@@ -164,13 +156,13 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * ropinirole : 0.25 ㎎ qd → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd <mark style="color:blue;">\[리큅]</mark>
 * rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd <mark style="color:blue;">\[뉴프로 패취]</mark> _(augmentation 기준 최대 용량 3 ㎎)_
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
-* **충동조절장애(ICD) 주의** : 병적 도박, 과식, 과성욕, 충동구매 등이 발생할 수 있음 — 특히 pramipexole에서 보고 많음; 매 방문마다 확인 필요
+* 충동조절장애(ICD) 주의 : 병적 도박, 과식, 과성욕, 충동구매 등이 발생할 수 있음 — 특히 pramipexole에서 보고 많음; 매 방문마다 확인 필요
 * 금기 : 정신 질환, 도파민 대항제 투여 중
 
-**도파민 작용제 Augmentation**&#x20;
+**도파민 작용제 Augmentation**
 
 * 도파민 작용제를 장기 사용하면 augmentation이 발생할 수 있음
-* **진단 기준 (Max Allen criteria, 2014)** — 다음 중 하나 이상:
+* 진단 기준 (Max Allen criteria, 2014) - 다음 중 하나 이상
   * 복용 전보다 4시간 이상 일찍 증상 발생
   * 용량 증가 시 단기 호전 후 재악화, 또는 감량 시 일시적 호전
   * 증상 발생 시간대가 하루 전체로 확장
@@ -207,12 +199,12 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 #### <mark style="color:$primary;">권고하지 않는 약제</mark> (2024 AASM)
 
-<table><thead><tr><th width="222">약제</th><th width="165">권고 수준</th><th>이유</th></tr></thead><tbody><tr><td>cabergoline <mark style="color:blue;">[카버락틴 0.5 ㎎/T]</mark></td><td>강력 권고 반대</td><td>심장판막 손상 위험</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>carbamazepine <mark style="color:blue;">[테그레톨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>valproic acid <mark style="color:blue;">[데파킨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>pergolide</td><td>—</td><td>심장판막 손상으로 국내외 퇴출</td></tr></tbody></table>
+<table><thead><tr><th width="222">약제</th><th width="165">권고 수준</th><th>이유</th></tr></thead><tbody><tr><td>cabergoline <mark style="color:blue;">[카버락틴]</mark></td><td>강력 권고 반대</td><td>심장판막 손상 위험</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>carbamazepine <mark style="color:blue;">[테그레톨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>valproic acid <mark style="color:blue;">[데파킨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>pergolide</td><td>—</td><td>심장판막 손상으로 국내외 퇴출</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">임신 중 RLS</mark>
 
-* 임신 중 RLS 유병률 약 20~26%; 주로 3분기에 악화, 대부분 분만 후 수주 내 자연 소실
-* **1차 선택 : IV 철분 보충** (ferritin/TSAT 기준 충족 시) — 약물 중 가장 안전하고 효과적
+* 임신 중 RLS 유병률 약 20\~26%; 주로 3분기에 악화, 대부분 분만 후 수주 내 자연 소실
+* 1차 선택 : IV 철분 보충 (ferritin/TSAT 기준 충족 시) — 약물 중 가장 안전하고 효과적
   * IV ferric carboxymaltose(페린젝트) : 태아 영향 없이 신속한 철분 보충 가능
 * 비약물 치료 병행 : 가벼운 운동, 수면 관리, 카페인·알코올 회피
 * gabapentin : 태아 안전성 데이터 불충분 (동물 실험 기형 보고) — 가급적 회피; 불가피 시 최소 용량·최단 기간
