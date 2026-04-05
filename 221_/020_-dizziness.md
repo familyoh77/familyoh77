@@ -190,7 +190,7 @@
 * 실험실 검사 : 일률적인 실험실 검사는 필요 없음; 당뇨 환자에서 혈당 등 검사 고려
 * 심장 질환 의심 시 ECG, Holter monitoring, carotid Doppler test 등 고려
 
-**Dix-Hallpike test**
+#### <mark style="color:$primary;">Dix-Hallpike test</mark>
 
 * 방법 ([figure\_e-2.jpg, video\_1.wmv](https://www.neurology.org/doi/10.1212/01.wnl.0000313378.77444.ac))
   * 침대에 무릎을 뻗은 상태로 길게 앉힘\
