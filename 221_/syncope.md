@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-#### <mark style="color:$primary;">Syncope 테스트</mark>
+#### <mark style="color:$primary;">Syncope</mark>
 
 * 뇌 혈류량 감소로 인하여 갑작스럽게 발생하고, 신경학적 후유 장애 없이 자발적으로 회복되는 일시적인(수 초\~수 분) 의식 소실
 * 자신 및 상황에 대한 인식 없음, postural tone을 유지할 수 없음(넘어짐), 자극에 반응하지 않음
@@ -29,9 +29,13 @@
 * 전구 증상 없이 갑작스럽게 발생한 실신
 * 기저 구조적 심질환(심부전, 심근증, 판막 질환), 관상동맥병 병력, 또는 가족성 돌연사 병력(＜50세)
 
-> **QTc 연장 확인 시 즉시 약물 검토**
->
-> QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것: 항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등. 2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org/) 참조
+{% hint style="warning" %}
+**QTc 연장 확인 시 즉시 약물 검토**
+
+QTc ＞460 ms 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것:
+항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등.
+2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org) 참조
+{% endhint %}
 
 <mark style="color:$warning;">**당일 의뢰 또는 응급 평가 권고**</mark>
 
@@ -45,12 +49,25 @@
 
 * 반복적이고 설명할 수 없는 실신 (위 소견 병존 시 즉각 격상)
 
+{% hint style="info" %}
+**실신 챕터 감별 허브** — 임상 특성으로 실신 유형을 빠르게 구분하세요
+
+| 임상 특성 | 우선 고려 유형 | 참조 챕터/섹션 |
+|---|---|---|
+| 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀) | 혈관미주신경성 실신 | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
+| 기침·배뇨·배변·식사 후 발생 | 상황 실신 | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
+| 기립 3분 내 혈압 ≥20 mmHg 저하 | 기립성 저혈압 실신 | 본 챕터 |
+| 운동 중 발생, 전구 증상 없음, 비정상 ECG | 심혈관성 실신 → 즉각 평가 | Red Flags 참조 |
+| 국소 신경학적 결손, 운동 후 의식 소실 | 신경학적 원인 → 즉각 평가 | Red Flags 참조 |
+{% endhint %}
+
 ## <mark style="color:green;">종류</mark>
 
 ### <mark style="color:orange;">반사성 실신, 신경 매개성 실신 (Reflex syncope, Neurally mediated syncope)</mark>
 
-* 실신의 가장 흔한 원인 (약 21%) (☞ [반사성 실신](/broken/pages/b1910cdddb6c9885c4a95c7477abc1b01dfb2cec))
-* 양성 경과; 젊은 환자에서 특히 흔하나 고령자에서도 발생 (이봉형 연령 분포)
+(☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md))
+
+* 실신의 가장 흔한 원인 (약 21%); 양성 경과; 젊은 환자에서 특히 흔하나 고령자에서도 발생 (이봉형 연령 분포)
 * 기전 : 과도한 vagal tone 또는 말초 순환의 반사 조절 장애
 * 유발 인자 : vasovagal(예: 스트레스, 공포, 통증, 불쾌한 장면/소리/냄새, 의료 시술), situational(예: 기침, 큰 웃음, 배변, 배뇨, 운동, 더운 곳, 오래 서 있음), 머리 회전 또는 carotid sinus 압박(예: 목이 조이는 옷)
 * 특징
@@ -150,7 +167,7 @@
   * 혈압 강하제, 이뇨제, 혈관 확장제 등
   * SGLT2 억제제(이뇨 작용으로 혈관 내 용적 감소) 및 GLP-1 수용체 작용제(급격한 체중 감량 동반 시) 복용 중인 경우 기립성 저혈압 유발 가능성 확인
   * 알파 차단제(tamsulosin, silodosin, alfuzosin 등) : 전립선 비대증 치료 목적으로 복용 중인 고령 남성에서 기립성 저혈압의 매우 흔한 원인; 실신 환자에서 복용 여부 반드시 확인, 필요 시 감량/중단 또는 약제 전환 고려
-* 저위험 반사성 실신 : 교육 및 안심 (Class I), 비약물 치료 우선 (☞ [반사성 실신](/broken/pages/b1910cdddb6c9885c4a95c7477abc1b01dfb2cec))
+* 저위험 반사성 실신 : 교육 및 안심 (Class I), 비약물 치료 우선 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md))
 * 기립성 저혈압 실신 : 유발 약물 조정, 수분·염분 섭취 증가, 압박 스타킹 (☞ [기립성저혈압](../225_/096_-orthostatic-hypotension.md#management))
 * 심혈관성 실신 : 전문의 의뢰; 부정맥 치료, ICD, pacemaker 등
   * 부정맥 확인 시 : 항부정맥제, ablation, pacemaker, ICD 등
@@ -182,7 +199,7 @@ R55 실신 및 허탈
 > ※ 비약물 치료(충분한 수분·염분 섭취, counter-pressure maneuver) 실패 후 2차 선택
 > ※ 수분 2 L/d 이상, 소금 6~9 g/d, counter-pressure maneuver 교육
 > ※ 취침 4시간 전 이후 복용 금지; 낮 시간 복용 후에도 바로 눕지 말 것 (복용 후 최소 2~3시간은 좌위 또는 입위 유지)
-> ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ 반사성실신)
+> ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md#처방례))
 > ```
 
 > **처방례 3.** 기립성 저혈압 - 만성 (신경인성, 약물 조정 후에도 지속 시)
