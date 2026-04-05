@@ -27,7 +27,7 @@
 * 반복적 head trauma, 독소(예: 살충제) 노출, 방사선 노출
 * 약물 : 위장 운동 촉진제(metoclopramide, levosulpiride), 항정신병제(chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, lithium, valproic acid), 항우울제(fluoxetine), 심혈관제(amiodarone, diltiazem, reserpine, methyldopa)
   * 니코틴과 카페인이 파킨슨병의 위험을 줄이거나 발생을 지연시킨다는 보고가 있음
-  * ⚠️ **파킨슨병 환자의 구역·구토 치료 시 주의** : metoclopramide, levosulpiride는 BBB를 통과하여 파킨슨 증상을 급격히 악화시킴 → **domperidone(모티리움 등)** 이 BBB를 통과하지 않아 안전한 대안; 파킨슨 환자에서 항구토제 처방 시 반드시 우선 선택
+  * 파킨슨병 환자의 구역·구토 치료 시 주의 : metoclopramide, levosulpiride는 BBB를 통과하여 파킨슨 증상을 급격히 악화시킴 → domperidone(모티리움 등) 이 BBB를 통과하지 않아 안전한 대안; 파킨슨 환자에서 항구토제 처방 시 반드시 우선 선택
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -75,7 +75,7 @@
 
 <mark style="color:$warning;">**조기 의뢰**</mark>
 
-* 발병 연령 ＜50세 — Wilson병 등 이차성 원인 배제 필요
+* 발병 연령 ＜50세 - Wilson병 등 이차성 원인 배제 필요
 * 빠른 진행, 조기 자세 불안정 및 낙상 (발병 1년 이내)
 * levodopa에 대한 반응 부족 또는 무반응
 * 조기 중증 자율 신경 기능 상실 (기립성 저혈압, 실금)
@@ -219,9 +219,9 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 * 도파민 전구체인 levodopa 투여 또는 항콜린제로 acetylcholine 작용 차단
 * 증상을 개선시키지만 병의 진행을 막지는 못함
-* **장기 치료 중 발생하는 주요 합병증**
-  * **Wearing-off** : 다음 복용 전 약 효과가 떨어지면서 운동 증상이 다시 악화되는 현상; levodopa 장기 사용 후 점차 발생
-  * **Dyskinesia** : 주로 levodopa 혈중 농도가 최고조일 때 발생하는 불수의적 이상 운동(몸이 흔들리거나 뒤틀리는 움직임); COMT 억제제·MAO-B 억제제 병용 또는 amantadine으로 조절 시도
+* 장기 치료 중 발생하는 주요 합병증
+  * Wearing-off : 다음 복용 전 약 효과가 떨어지면서 운동 증상이 다시 악화되는 현상; levodopa 장기 사용 후 점차 발생
+  * Dyskinesia : 주로 levodopa 혈중 농도가 최고조일 때 발생하는 불수의적 이상 운동(몸이 흔들리거나 뒤틀리는 움직임); COMT 억제제·MAO-B 억제제 병용 또는 amantadine으로 조절 시도
 * 치료 시작 시기 : 증상이 일상 기능에 영향을 미치면 연령에 무관하게 조기 치료를 적극 고려 (2023 MDS 권고)
   * 과거에는 장기 사용 시 dyskinesia 우려(levodopa phobia)로 투여를 최대한 늦추었으나, 현재는 이 우려가 과장된 것으로 평가됨
   * 삶의 질 향상을 위해 증상 발생 초기부터 적극적으로 사용하는 것이 원칙; levodopa 자체가 신경독성을 가진다는 근거는 없음
@@ -260,7 +260,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * 부작용 : 구역, 두통, 수면 장애, 환각; SSRI, TCA, meperidine 병용 회피
 * selegiline : 5 ㎎ 아침; 최대 10 ㎎ #2(아침/점심) — 저녁 복용 시 불면 유발 가능 <mark style="color:blue;">\[마오비]</mark>
 * rasagiline : 시작 0.5 ㎎ qd; 최대 1 ㎎/d <mark style="color:blue;">\[아질렉트]</mark>
-* safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d — levodopa 보조제; MAO-B 억제 외에 **글루타메이트 방출 조절(Na⁺ 채널 차단) 기전**을 추가로 가져 운동 기복(fluctuation) 및 파킨슨 관련 통증 개선에 유효 <mark style="color:blue;">\[엑사디고]</mark>
+* safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d - levodopa 보조제; MAO-B 억제 외에 글루타메이트 방출 조절(Na⁺ 채널 차단) 기전을 추가로 가져 운동 기복(fluctuation) 및 파킨슨 관련 통증 개선에 유효 <mark style="color:blue;">\[엑사디고]</mark>
 
 #### <mark style="color:$primary;">COMT(Catechol-O-Methyltransferase) Inhibitor</mark>
 
@@ -293,7 +293,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 ### <mark style="color:orange;">운동 증상 이외 증상의 치료</mark>
 
-* 기립성 저혈압 : 수분 섭취 증가, **복부까지 오는 압박 스타킹** (허벅지 이상까지 압박이 효과적), 머리쪽 침대 높이기; **식후 저혈압 예방** - 탄수화물 과다 섭취 및 과식 회피, 소량씩 자주 식사; midodrine 2.5\~10 ㎎ tid, droxidopa 100\~600 ㎎ tid
+* 기립성 저혈압 : 수분 섭취 증가, 복부까지 오는 압박 스타킹 (허벅지 이상까지 압박이 효과적), 머리쪽 침대 높이기; 식후 저혈압 예방 - 탄수화물 과다 섭취 및 과식 회피, 소량씩 자주 식사; midodrine 2.5\~10 ㎎ tid, droxidopa 100\~600 ㎎ tid
 * 주간 졸음 : 야간 수면 환경 개선, 적절한 커피 음용; modafinil, methylphenidate (☞ [불면증](029_-insomnia-sleep-disorder.md#management))
 * REM 수면 행동 장애 : clonazepam 0.25\~0.5 ㎎ 취침 전 <mark style="color:blue;">\[리보트릴]</mark>; melatonin 3\~12 ㎎ 취침 전
 * 우울 : 보통 SSRI 선택 (TCA보다 부작용이 적음) (☞ [우울증](027_-depression.md))
@@ -302,7 +302,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * 콧물 : 비내 ipratropium
 * 변비 : 충분한 수분/식이 섬유 섭취, 활동; polyethylene glycol, lubiprostone, probiotics (☞ [변비](../224_/082_-constipation.md))
 * 치매 : [알츠하이머병](033_-dementia.md#undefined-17) 치료제 적용; rivastigmine, donepezil, galantamine, memantine
-* psychosis(망상, 환각) : 항도파민제가 원인으로 의심되는 경우 감량 또는 교체 고려; **quetiapine 저용량(12.5~50 ㎎ qhs)이 실질적 1차 선택** (운동 증상 악화 적음); clozapine (혈액 모니터링 필요); pimavanserin (파킨슨 정신증 최초 적응 허가 약물; 2016 FDA 승인; **국내 미허가** — 희귀의약품 지정으로 접근성 매우 제한적)
+* psychosis(망상, 환각) : 항도파민제가 원인으로 의심되는 경우 감량 또는 교체 고려; quetiapine 저용량(12.5\~50 ㎎ qhs)이 실질적 1차 선택 (운동 증상 악화 적음); clozapine (혈액 모니터링 필요); pimavanserin (파킨슨 정신증 최초 적응 허가 약물; 2016 FDA 승인; 국내 미허가 - 희귀의약품 지정으로 접근성 매우 제한적)
 
 ***
 
