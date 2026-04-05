@@ -15,7 +15,7 @@
 * 빠른 악화 경과(수일\~수 주)
 * 신경학적 이상 동반 : 정신 상태 변화(의식 저하, 혼돈), 운동성 약화, 실조성 보행, 발음 장애
 
-<mark style="color:$warning;">**조기 의뢰**</mark>&#x20;
+<mark style="color:$warning;">**조기 의뢰**</mark>
 
 * 50세 이전에 발생한 새로운 떨림 - Wilson병, 대사질환 등 이차성 원인 배제 필요
 * 소아·청소년의 떨림 - 이차성 원인(Wilson병, 유전대사질환, 약물)의 가능성이 높아 반드시 전문과 평가 필요
@@ -46,7 +46,7 @@
 ### <mark style="color:orange;">감별</mark>
 
 * 편측 떨림, 다리 떨림, 강직, 서동, resting tremor → 파킨슨병
-* **재현성 떨림(re-emergent tremor)** : 팔을 뻗은 직후에는 떨림이 없다가 수 초의 잠복기 후 떨림 발생 → 파킨슨병 시사 (본태성 떨림은 자세 취하면 즉시 떨림 발생)
+* 재현성 떨림(re-emergent tremor) : 팔을 뻗은 직후에는 떨림이 없다가 수 초의 잠복기 후 떨림 발생 → 파킨슨병 시사 (본태성 떨림은 자세 취하면 즉시 떨림 발생)
 * 보행 장애 → 파킨슨병, cerebellar tremor
 * 불규칙, 경련성 떨림 → dystonic tremor
 * 두부 떨림, 두부 위치 이상(head tilting or turning) → dystonic tremor
@@ -94,9 +94,9 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 #### <mark style="color:$primary;">검사</mark>
 
 * 특이 진단 방법 없음; 다른 원인 배제
-* **나선 그리기 검사 (Archimedes spiral test)** : 종이에 나선을 그리게 하여 떨림 정도 평가; 본태성 떨림은 선이 불규칙하게 떨리며 나타남 / 파킨슨병은 선의 떨림보다 나선이 점점 작아지는 경향(micrographia)
+* 나선 그리기 검사 (Archimedes spiral test) : 종이에 나선을 그리게 하여 떨림 정도 평가; 본태성 떨림은 선이 불규칙하게 떨리며 나타남 / 파킨슨병은 선의 떨림보다 나선이 점점 작아지는 경향(micrographia)을 보임
 * CBC, TSH, BUN, Cr, LFT, 전해질
-* 50세 이전 발생 시 (일부 가이드라인은 55세 기준) Wilson병 배제를 위한 혈청 ceruloplasmin, 24시간 소변 구리 검사 고려; 특히 **가족력 없는 갑작스러운 떨림** 또는 **성격 변화 등 정신과적 증상 동반** 시 연령과 무관하게 Wilson병 검사 시행
+* Wilson병 감별 : 50세 이전 발생 시 (일부 가이드라인은 55세 기준) Wilson병 배제를 위한 혈청 ceruloplasmin, 24시간 소변 구리 검사 고려; 특히 가족력 없는 갑작스러운 떨림 또는 성격 변화 등 정신과적 증상 동반 시 연령과 무관하게 Wilson병 검사 시행
 
 ### <mark style="color:orange;">생리적 떨림 (Physiologic tremor)</mark>
 
@@ -134,15 +134,15 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 #### <mark style="color:$primary;">약제</mark>
 
 * **1차 선택** : propranolol 또는 primidone (각각 Level A 근거; 상호 대등)
-  * propranolol 절대 금기 : 2~3도 방실 차단(AV block), 중증 천식/기관지 경련, 중증 서맥(HR <50), 중증 저혈압
+  * propranolol 절대 금기 : 2\~3도 방실 차단(AV block), 중증 천식/기관지 경련, 중증 서맥(HR <50), 중증 저혈압
 * **2차 선택** : gabapentin, topiramate (Level B 근거)
 * **3차 선택** : alprazolam (다른 약제 불응 시 추가; 의존성 주의)
 * 떨림이 유발되는 상황(예: 공연, 발표)에 앞서 propranolol을 1회성으로 투여하는 것이 일부 환자에서 유효
 * 환자의 30\~50%는 propranolol과 primidone에 반응하지 않음
 * primidone : 초기 부작용(어지럼·오심·진정)이 강하므로 반드시 최소 용량(62.5 mg, 1/4정)으로 취침 전 시작; 민감한 환자는 첫 1주간 격일 복용도 고려
-* **치료 기대치 설정** : 약물 치료로 떨림이 완전히 소실되는 것이 아니라 약 50~70%의 증상 감소가 현실적 목표임을 처방 전 환자에게 미리 고지
+* 치료 기대치 설정 : 약물 치료로 떨림이 완전히 소실되는 것이 아니라 약 50\~70%의 증상 감소가 현실적 목표임을 처방 전 환자에게 미리 고지
 
-<table><thead><tr><th width="199.0526123046875">성분명¹⁾ [상품명]</th><th width="156.4210205078125">시작 용량 (일)</th><th width="156.26324462890625">유지 용량 (일)</th><th width="104.2803955078125">근거 수준</th></tr></thead><tbody><tr><td>propranolol [인데놀]</td><td>10~20 mg</td><td>60~320 mg</td><td>Level A</td></tr><tr><td>primidone [프리미돈]</td><td>62.5 mg hs</td><td>62.5~480 mg</td><td>Level A</td></tr><tr><td>gabapentin [뉴론틴]</td><td>300 mg hs</td><td>1,200~1,800 mg (최대 3,600 mg)</td><td>Level B</td></tr><tr><td>topiramate [토파맥스]</td><td>25 mg</td><td>200~400 mg</td><td>Level B</td></tr><tr><td>alprazolam²⁾ [자낙스]</td><td>0.125 mg</td><td>0.125~3 mg</td><td>Level C</td></tr></tbody></table>
+<table><thead><tr><th width="190.0526123046875">성분명¹⁾ [상품명]</th><th width="126.4210205078125">시작 용량 (일)</th><th width="156.26324462890625">유지 용량 (일)</th><th width="104.2803955078125">근거 수준</th></tr></thead><tbody><tr><td>propranolol <mark style="color:blue;">[인데놀]</mark></td><td>10~20 mg</td><td>60~320 mg</td><td>Level A</td></tr><tr><td>primidone <mark style="color:blue;">[프리미돈]</mark></td><td>62.5 mg hs</td><td>62.5~480 mg</td><td>Level A</td></tr><tr><td>gabapentin <mark style="color:blue;">[뉴론틴]</mark></td><td>300 mg hs</td><td>1,200~1,800 mg (최대 3,600 mg)</td><td>Level B</td></tr><tr><td>topiramate <mark style="color:blue;">[토파맥스]</mark></td><td>25 mg</td><td>200~400 mg</td><td>Level B</td></tr><tr><td>alprazolam²⁾ <mark style="color:blue;">[자낙스]</mark></td><td>0.125 mg</td><td>0.125~3 mg</td><td>Level C</td></tr></tbody></table>
 
 _<mark style="color:$info;">1) 위에서부터 순서대로 선호. 2) 다른 약제로 호전되지 않을 때 추가 투여 고려; 장기 투여 시 의존성 주의</mark>_
 
@@ -243,7 +243,7 @@ R25.1 상세불명의 떨림
 > * primidone(프리미돈)은 복용 초기에 어지럼, 졸음이 생길 수 있어 취침 전 복용합니다. 대개 1\~2주 후 적응됩니다.
 > * 카페인(커피, 에너지 음료)과 흡연은 떨림을 악화시킵니다. 가능한 줄여 주십시오.
 > * 소량의 알코올로 떨림이 일시적으로 좋아질 수 있지만, 규칙적인 음주는 병을 악화시키므로 피하십시오.
-> * **치료 효과에 대하여** : 약물 치료로 떨림이 완전히 사라지기보다는 증상의 약 50~70% 감소가 현실적인 목표입니다. 일상생활에 지장이 없을 정도의 조절을 목표로 합니다.
+> * **치료 효과에 대하여** : 약물 치료로 떨림이 완전히 사라지기보다는 증상의 약 50\~70% 감소가 현실적인 목표입니다. 일상생활에 지장이 없을 정도의 조절을 목표로 합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -272,7 +272,7 @@ R25.1 상세불명의 떨림
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
 * **약물 치료** : propranolol(인데놀), primidone(프리미돈) 등이 주로 사용되며, 약 효과는 수 주에 걸쳐 서서히 나타남
-* **치료 목표** : 완치보다는 증상의 약 50~70% 감소가 현실적인 목표이며, 일상생활에 지장이 없을 정도로 조절하는 것을 목표로 함
+* **치료 목표** : 완치보다는 증상의 약 50\~70% 감소가 현실적인 목표이며, 일상생활에 지장이 없을 정도로 조절하는 것을 목표로 함
 * **중증 약물 불응성** : 약물로 호전되지 않는 심한 경우 신경과에서 시술(집속초음파, 뇌심부자극술) 고려 가능
 
 #### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
