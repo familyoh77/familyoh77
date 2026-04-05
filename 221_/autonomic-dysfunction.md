@@ -39,7 +39,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 평가/이송 — 생명 위협 가능성**</mark>
+<mark style="color:$danger;">**즉각 평가/이송 - 생명 위협 가능성**</mark>
 
 * 기립 시 실신 또는 의식 소실
 * 심한 서맥·빈맥 동반 (심혈관계 자율신경 부전)
