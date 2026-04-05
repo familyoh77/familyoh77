@@ -22,7 +22,7 @@
 * 표준 치료(gabapentin 계열 + 철분 보충)에 반응하지 않는 경우
 * 도파민 작용제 복용 중 증상이 이전보다 이른 시각에 발생하거나 상지·몸통으로 확산되는 경우(augmentation 의심)
 * 임신 중 중증 RLS - 치료 선택지 제한으로 전문과 상담 필요\
-  &#xNAN;_(비약물 치료·철분 보충 우선; gabapentin·도파민 작용제는 기형 위험 데이터 불충분으로 가급적 회피; 대부분 분만 후 자연 소실)_
+  \&#xNAN;_(비약물 치료·철분 보충 우선; gabapentin·도파민 작용제는 기형 위험 데이터 불충분으로 가급적 회피; 대부분 분만 후 자연 소실)_
 
 <mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
@@ -33,7 +33,7 @@
 
 * 원발성 (early-onset) : 뇌의 도파민 작용 저하 및 뇌 철분 결핍 추정
 * 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 약물(예: 알코올, 카페인, 항우울제(특히 SSRI/SNRI, mirtazapine), 항정신병제, 1세대 항히스타민제, 도파민 차단제(metoclopramide, domperidone※), cholinesterase 억제제(donepezil))\
-  &#xNAN;_※ domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
+  \&#xNAN;_※ domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -62,15 +62,15 @@
 
 ※ **철분 보충 의사결정 기준** (2024 AASM; 아침 공복, 철분 보충제 24시간 중단 후 채혈)
 
-| ferritin | Transferrin saturation (TSAT) | 권고 조치 |
-|----------|-------------------------------|-----------|
-| ≤75 ng/mL | 무관 | 경구 또는 IV 철분 보충 |
-| 75~100 ng/mL | 무관 | IV 철분만 고려 (경구는 이 범위에서 흡수 불량) |
-| >100 ng/mL | <20% | IV 철분 보충 고려 |
-| >100 ng/mL | ≥20% | 철분 보충 불필요 |
+| ferritin      | Transferrin saturation (TSAT) | 권고 조치                        |
+| ------------- | ----------------------------- | ---------------------------- |
+| ≤75 ng/mL     | 무관                            | 경구 또는 IV 철분 보충               |
+| 75\~100 ng/mL | 무관                            | IV 철분만 고려 (경구는 이 범위에서 흡수 불량) |
+| >100 ng/mL    | <20%                          | IV 철분 보충 고려                  |
+| >100 ng/mL    | ≥20%                          | 철분 보충 불필요                    |
 
 _✽ 염증·감염·간질환 시 ferritin은 급성기 반응물질로 허위 상승 가능 — TSAT로 실제 철분 가용성을 함께 판단_\
-_✽ ferritin >75 ng/mL에서는 헵시딘(hepcidin) 상승으로 경구 철분 흡수가 억제됨 — IV 철분 고려_
+&#xNAN;_✽ ferritin >75 ng/mL에서는 헵시딘(hepcidin) 상승으로 경구 철분 흡수가 억제됨 — IV 철분 고려_
 
 ### <mark style="color:orange;">진단 기준 \[IRLSSG 2014]</mark>
 
@@ -106,7 +106,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * 치료 목표 : 증상 완화, 주간 기능 회복, 수면 개선, 삶의 질 향상
 * **Step 1** : 이차성 원인 교정 - 속발성인 경우 원인 치료 우선
 * **Step 2** : 악화 약물 중단 또는 대체 - SSRI/SNRI, mirtazapine, 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)\
-  ※ 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 일부 소규모 관찰 연구에서 RLS를 악화시키지 않으며 호전 효과가 보고된 바 있으나 근거가 제한적임 — SSRI/SNRI/mirtazapine을 교체해야 하는 상황에서 선택지로 고려 가능하나 공유 의사결정(SDM) 후 적용
+  ※ 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 일부 소규모 관찰 연구에서 RLS를 악화시키지 않으며 호전 효과가 보고된 바 있으나 근거가 제한적임 - SSRI/SNRI/mirtazapine을 교체해야 하는 상황에서 선택지로 고려 가능하나 공유 의사결정(SDM, Shared Decision Making) 후 적용
 * **Step 3** : 철분 보충 - ferritin/transferrin saturation 기준에 따라 (위 진단 항목 참조)
 * **Step 4** : 비약물 치료 병행
 * **Step 5** : 약물 치료 - 중등도 이상, 삶의 질에 영향을 주는 경우 고려
@@ -123,7 +123,7 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 ## <mark style="color:green;">약물 치료</mark>
 
-* 1차  선택제 : gabapentin 계열; 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험으로 인해 장기 사용 조건부 권고 반대로 변경 (2024 AASM)
+* 1차 선택제 : gabapentin 계열; 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험으로 인해 장기 사용 조건부 권고 반대로 변경 (2024 AASM)
 
 #### <mark style="color:$primary;">Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열)</mark>
 
@@ -141,13 +141,13 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 #### <mark style="color:$primary;">철분 보충</mark>
 
-* 1차 선택 (철분 지표 기준에 해당 시) — 기준은 위 진단 절 철분 보충 의사결정 표 참조
+* 1차 선택 (철분 지표 기준에 해당 시) - 기준은 위 진단 절 철분 보충 의사결정 표 참조
 * IV ferric carboxymaltose (페린젝트) : ferritin <100 ng/mL 또는 transferrin saturation <20% → 강력 권고
-  * 위장관 흡수에 의존하지 않아 헵시딘(hepcidin) 억제의 영향을 받지 않음 — 효과 빠르고 예측 가능
+  * 위장관 흡수에 의존하지 않아 헵시딘(hepcidin) 억제의 영향을 받지 않음 - 효과 빠르고 예측 가능
   * 경구 철분 대비 뇌 철분 보충 속도가 빠름; 단회 또는 소수 회 투여로 충분
 * 경구 ferrous sulfate : ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 조건부 권고
   * 공복(식전 1시간) 복용, Vit C 병용으로 흡수 향상
-  * ferritin >75 ng/mL이면 경구 흡수 불량(헵시딘 상승으로 십이지장 철분 흡수 억제) — IV 철분 고려
+  * ferritin >75 ng/mL이면 경구 흡수 불량(헵시딘 상승으로 십이지장 철분 흡수 억제) - IV 철분 고려
   * 격일 복용(every other day) 권고 : 매일 복용보다 헵시딘 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
 * IV low molecular weight iron dextran, IV ferumoxytol : 조건부 권고
 
@@ -158,9 +158,9 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 * Augmentation 발생 시 즉시 감량·중단 (용량 증량 금지)
 * pramipexole : 0.125 ㎎ qd → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd <mark style="color:blue;">\[미라펙스]</mark>
 * ropinirole : 0.25 ㎎ qd → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd <mark style="color:blue;">\[리큅]</mark>
-* rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd <mark style="color:blue;">\[뉴프로 패취]</mark> _(augmentation 기준 최대 용량 3 ㎎)_
+* rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd <mark style="color:blue;">\[뉴프로 패취]</mark> (augmentation 기준 최대 용량 3 ㎎)
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
-* 충동조절장애(ICD) 주의 : 병적 도박, 과식, 과성욕, 충동구매 등이 발생할 수 있음 — 특히 pramipexole에서 보고 많음; 매 방문마다 확인 필요
+* 충동조절장애(ICD) 주의 : 병적 도박, 과식, 과성욕, 충동구매 등이 발생할 수 있음 - 특히 pramipexole에서 보고 많음; 매 방문마다 확인 필요
 * 금기 : 정신 질환, 도파민 대항제 투여 중
 
 **도파민 작용제 Augmentation**
