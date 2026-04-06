@@ -20,9 +20,9 @@
 <mark style="color:$warning;">**조기 의뢰**</mark>
 
 * 표준 치료(gabapentin 계열 + 철분 보충)에 반응하지 않는 경우
-* 도파민 작용제 복용 중 증상이 이전보다 이른 시각에 발생하거나 상지·몸통으로 확산되는 경우(augmentation 의심)
-* 임신 중 중증 RLS - 치료 선택지 제한으로 전문과 상담 필요\
-  \&#xNAN;_(비약물 치료·철분 보충 우선; gabapentin·도파민 작용제는 기형 위험 데이터 불충분으로 가급적 회피; 대부분 분만 후 자연 소실)_
+* 도파민 작용제 복용 중 증상이 이전보다 이른 시각에 발생하거나 상지·몸통으로 확산되는 경우 → Augmentation 의심
+* 임신 중 중증 RLS - 치료 선택지 제한으로 전문과 상담 필요\*\
+  &#xNAN;_\* 비약물 치료·철분 보충 우선; gabapentin·도파민 작용제는 기형 위험 데이터 불충분으로 가급적 회피; 대부분 분만 후 자연 소실_
 
 <mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
@@ -32,8 +32,8 @@
 ## <mark style="color:green;">원인</mark>
 
 * 원발성 (early-onset) : 뇌의 도파민 작용 저하 및 뇌 철분 결핍 추정
-* 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 약물(예: 알코올, 카페인, 항우울제(특히 SSRI/SNRI, mirtazapine), 항정신병제, 1세대 항히스타민제, 도파민 차단제(metoclopramide, domperidone※), cholinesterase 억제제(donepezil))\
-  \&#xNAN;_※ domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
+* 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 약물(예: 알코올, 카페인, 항우울제(특히 SSRI/SNRI, mirtazapine), 항정신병제, 1세대 항히스타민제, 도파민 차단제(metoclopramide, domperidone\*), cholinesterase 억제제(donepezil))\
+  \* _domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -49,16 +49,16 @@
 * 발생 빈도 : 다양(매일 \~ ＜1회/월)
 * 움직임 충동 지속 시간 : 10\~90초(평균 25초)
 * 발생 시기 : 저녁\~밤(주로 잠들기 전); 낮에도 발생할 수 있음
-* 중증도 : 다양(무시할 만함 \~ 생활에 지장을 줌)
+* 중증도 : 다양(무시할 만함\~생활에 지장을 줌)
 * 동반 증상 : 수면 장애(수면 개시 어려움), 피로, 불안, 주간 졸음
-* 동반 소견 : Periodic Limb Movement during Sleep (PLMS) — 수면 중 주기적 사지 움직임, 15\~30초 간격
+* 동반 소견 : Periodic Limb Movement during Sleep (PLMS) - 수면 중 주기적 사지 움직임, 15\~30초 간격
 
 ## <mark style="color:green;">진단</mark>
 
 * 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : ferritin, transferrin saturation (= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
 * 도파민 약물 치료에 대한 반응 평가
-* 필요시 수면다원검사(polysomnography) — PLMD 동반 여부 확인
+* 필요시 수면다원검사(polysomnography) - PLMD 동반 여부 확인
 
 ※ **철분 보충 의사결정 기준** (2024 AASM; 아침 공복, 철분 보충제 24시간 중단 후 채혈)
 
