@@ -135,7 +135,7 @@
 <table><thead><tr><th width="147">ferritin</th><th width="126">Transferrin  saturation</th><th>권고 조치</th></tr></thead><tbody><tr><td>≤75 ng/㎖</td><td>무관</td><td>경구 또는 IV 철분 보충</td></tr><tr><td>75~100 ng/㎖</td><td>무관</td><td>IV 철분만 고려 (경구는 이 범위에서 흡수 불량)</td></tr><tr><td>>100 ng/㎖</td><td>&#x3C;20%</td><td>IV 철분 보충 고려</td></tr><tr><td>>100 ng/㎖</td><td>≥20%</td><td>철분 보충 불필요</td></tr></tbody></table>
 
 * 아침 공복, 철분 보충제 24시간 중단 후 채혈
-* 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - TSAT로 실제 철분 가용성을 함께 판단
+* 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - 이 경우 TSAT < 20%가 철분 부족을 시사하는 더 강력한 지표가 됨
 * ferritin >75 ng/㎖에서는 체내hepcidin 호르몬의 상승으로 경구 철분 흡수가 억제됨 → IV 철분제 고려
 * IV ferric carboxymaltose <mark style="color:blue;">\[페린젝트주]</mark> : ferritin <100 ng/㎖ 또는 TSAT <20% 시 투여 (강력 권고)
   * 위장관 흡수에 의존하지 않아 hepcidin 억제의 영향을 받지 않음. 효과 빠르고 예측 가능
