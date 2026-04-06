@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * sensorimotor disorder로서 비활동 중(예: 휴식 또는 움직이지 않을 때)에 갑자기 발생하는, 불수의적(제어할 수 없는) 하지 움직임 충동; 활동 또는 움직이면 호전
-* 다른 이름 : Willis-Ekbom Disease (WED)
+* 다른 이름 : Willis-Ekbom Disease
 * 만성적이고 점차 악화되며 다리에서 시작하지만 팔이나 다른 신체 부위에서도 발생할 수 있음
 * 원발성 : 보통 ＜45세에 발생, 서서히 진행, 지속; 증상 완화가 치료 목표
 * 속발성 : 보다 빠르게 진행; 원인 제거 시 호전
@@ -26,7 +26,7 @@
 
 <mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
-* 철분 보충 시작 3개월 후 ferritin, transferrin saturation 재검
+* 철분 보충 시작 3개월 후 ferritin, transferrin saturation rate(TSAT) 재검
 * 도파민 작용제 복용 환자 : 매 방문마다 augmentation 여부 확인
 
 ## <mark style="color:green;">원인</mark>
@@ -55,7 +55,7 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : ferritin, transferrin saturation (= Fe/TIBC × 100), Fe, TIBC
+* 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
 * 도파민 약물 치료에 대한 반응 평가
 * 필요시 수면다원검사(polysomnography) - PLMD 동반 여부 확인
@@ -95,7 +95,7 @@
 * **Step 1** : 이차성 원인 교정 - 속발성인 경우 원인 치료 우선
 * **Step 2** : 악화 약물 중단 또는 대체 - SSRI/SNRI, mirtazapine, 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)\
   ※ 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 일부 소규모 관찰 연구에서 RLS를 악화시키지 않으며 호전 효과가 보고된 바 있으나 근거가 제한적임 - SSRI/SNRI/mirtazapine을 교체해야 하는 상황에서 선택지로 고려 가능하나 공유 의사결정(SDM, Shared Decision Making) 후 적용
-* **Step 3** : 철분 보충 - ferritin/transferrin saturation 기준에 따라 (위 진단 항목 참조)
+* **Step 3** : 철분 보충 - ferritin/TSAT 기준에 따라 (위 진단 항목 참조)
 * **Step 4** : 비약물 치료 병행
 * **Step 5** : 약물 치료 - 중등도 이상, 삶의 질에 영향을 주는 경우 고려
 
@@ -103,11 +103,11 @@
 
 * 주간의 활발한 활동, 규칙적 운동(지나친 운동은 피함), 저녁 때 가벼운 걷기
 * 적절한 수면 및 규칙적 수면 스케줄 유지
-* 수면무호흡증(OSA) 동반 시 CPAP 치료 — OSA 치료만으로 RLS 호전되는 경우 있음
+* 수면무호흡증(OSA) 동반 시 CPAP 치료 - OSA 치료만으로 RLS 호전되는 경우 있음
 * 다리 마사지, 온찜질, 다리 보온(긴 양말)
 * 저녁 때 알코올, 카페인, 니코틴 회피
 * 활발한 두뇌 활동(게임, 퍼즐)
-* 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 비침습적 신경 자극 치료; 2024 AASM 조건부 권고 \[근거 수준 낮음]
+* 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 비침습적 신경 자극 치료 (2024 AASM 조건부 권고; 근거 수준 낮음)
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -135,15 +135,15 @@
 <table><thead><tr><th width="147">ferritin</th><th width="126">Transferrin  saturation</th><th>권고 조치</th></tr></thead><tbody><tr><td>≤75 ng/㎖</td><td>무관</td><td>경구 또는 IV 철분 보충</td></tr><tr><td>75~100 ng/㎖</td><td>무관</td><td>IV 철분만 고려 (경구는 이 범위에서 흡수 불량)</td></tr><tr><td>>100 ng/㎖</td><td>&#x3C;20%</td><td>IV 철분 보충 고려</td></tr><tr><td>>100 ng/㎖</td><td>≥20%</td><td>철분 보충 불필요</td></tr></tbody></table>
 
 * 아침 공복, 철분 보충제 24시간 중단 후 채혈
-* 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - Transferrin saturation로 실제 철분 가용성을 함께 판단
-* ferritin >75 ng/㎖에서는 hepcidin 상승으로 경구 철분 흡수가 억제됨 - IV 철분 고려
-* IV ferric carboxymaltose <mark style="color:blue;">\[페린젝트주]</mark> : ferritin <100 ng/mL 또는 transferrin saturation <20% → 강력 권고
-  * 위장관 흡수에 의존하지 않아 hepcidin 억제의 영향을 받지 않음 - 효과 빠르고 예측 가능
-  * 경구 철분 대비 뇌 철분 보충 속도가 빠름; 단회 또는 소수 회 투여로 충분
-* 경구 ferrous sulfate : ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 조건부 권고 (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
+* 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - TSAT로 실제 철분 가용성을 함께 판단
+* ferritin >75 ng/㎖에서는 체내hepcidin 호르몬의 상승으로 경구 철분 흡수가 억제됨 → IV 철분제 고려
+* IV ferric carboxymaltose <mark style="color:blue;">\[페린젝트주]</mark> : ferritin <100 ng/㎖ 또는 TSAT <20% 시 투여 (강력 권고)
+  * 위장관 흡수에 의존하지 않아 hepcidin 억제의 영향을 받지 않음. 효과 빠르고 예측 가능
+  * 경구 철분 대비 뇌 철분 보충 속도가 빠름. 적은 횟수 투여로 충분
+* 경구 ferrous sulfate : ferritin ≤75 ng/㎖ 또는 TSAT <20% 시 투여 (조건부 권고) (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
   * 공복(식전 1시간) 복용, Vit C 병용으로 흡수 향상
-  * ferritin >75 ng/mL이면 경구 흡수 불량(헵시딘 상승으로 십이지장 철분 흡수 억제) - IV 철분 고려
-  * 격일 복용(every other day) 권고 : 매일 복용보다 헵시딘 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
+  * ferritin >75 ng/㎖이면 경구 흡수 불량(hepcidin 상승으로 십이지장 철분 흡수 억제) → IV 철분제 고려
+  * 격일 복용(every other day) 권고 : 매일 복용보다 hepcidin 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
 * IV low molecular weight iron dextran, IV ferumoxytol : 조건부 권고
 
 #### <mark style="color:$primary;">도파민 작용제</mark>
@@ -155,7 +155,7 @@
 * ropinirole : 0.25 ㎎ qd → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd <mark style="color:blue;">\[리큅]</mark>
 * rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd <mark style="color:blue;">\[뉴프로 패취]</mark> (augmentation 기준 최대 용량 3 ㎎)
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
-* 충동조절장애(ICD) 주의 : 병적 도박, 과식, 과성욕, 충동구매 등이 발생할 수 있음 - 특히 pramipexole에서 보고 많음; 매 방문마다 확인 필요
+* 충동조절장애 주의 : 병적 도박, 과식, 과성욕, 충동구매 등이 발생할 수 있음 - 특히 pramipexole에서 보고 많음; 매 방문마다 확인 필요
 * 금기 : 정신 질환, 도파민 대항제 투여 중
 
 **도파민 작용제 Augmentation**
@@ -191,23 +191,24 @@
 
 #### <mark style="color:$primary;">기타 (조건부 권고)</mark>
 
-* dipyridamole : 100\~200 ㎎/d; 아데노신 기전 — 조건부 권고 <mark style="color:blue;">\[페르산틴]</mark>
+* dipyridamole : 100\~200 ㎎/d; 아데노신 기전 <mark style="color:blue;">\[페르산틴]</mark>
 * clonidine : 0.05\~0.1 ㎎/d <mark style="color:blue;">\[켑베이]</mark>
 * baclofen : 20\~80 ㎎/d <mark style="color:blue;">\[바크론]</mark>
 * Vit/미네랄 보충 : Mg, Vit B12, folate (근거 제한적; 결핍 시 보충)
 
 #### <mark style="color:$primary;">권고하지 않는 약제</mark> (2024 AASM)
 
-<table><thead><tr><th width="222">약제</th><th width="165">권고 수준</th><th>이유</th></tr></thead><tbody><tr><td>cabergoline <mark style="color:blue;">[카버락틴]</mark></td><td>강력 권고 반대</td><td>심장판막 손상 위험</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>carbamazepine <mark style="color:blue;">[테그레톨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>valproic acid <mark style="color:blue;">[데파킨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>pergolide</td><td>—</td><td>심장판막 손상으로 국내외 퇴출</td></tr></tbody></table>
+<table><thead><tr><th width="222">약제</th><th width="165">권고 수준</th><th>이유</th></tr></thead><tbody><tr><td>cabergoline <mark style="color:blue;">[카버락틴]</mark></td><td>강력 권고 반대</td><td>심장판막 손상 위험</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>carbamazepine <mark style="color:blue;">[테그레톨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>valproic acid <mark style="color:blue;">[데파킨]</mark></td><td>조건부 권고 반대</td><td>임상적 유의한 호전 미입증</td></tr><tr><td>pergolide</td><td>-</td><td>심장판막 손상으로 국내외 퇴출</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">임신 중 RLS</mark>
 
-* 임신 중 RLS 유병률 약 20\~26%; 주로 3분기에 악화, 대부분 분만 후 수주 내 자연 소실
-* 1차 선택 : IV 철분 보충 (ferritin/TSAT 기준 충족 시) — 약물 중 가장 안전하고 효과적
-  * IV ferric carboxymaltose(페린젝트) : 태아 영향 없이 신속한 철분 보충 가능
+* 임신 중 RLS 유병률 : 약 20\~26%
+* 주로 3분기에 악화, 대부분 분만 후 수주 내 자연 소실
+* 1차 선택 : IV 철분 보충 (ferritin/TSAT 기준 충족 시) - 약물 중 가장 안전하고 효과적
+  * IV ferric carboxymaltose : 태아 영향 없이 신속한 철분 보충 가능
 * 비약물 치료 병행 : 가벼운 운동, 수면 관리, 카페인·알코올 회피
-* gabapentin : 태아 안전성 데이터 불충분 (동물 실험 기형 보고) — 가급적 회피; 불가피 시 최소 용량·최단 기간
-* 도파민 작용제 : 기형 위험 데이터 부족 — 가급적 회피
+* gabapentin : 태아 안전성 데이터 불충분 (동물 실험 기형 보고) - 가급적 회피; 불가피 시 최소 용량·최단 기간
+* 도파민 작용제 : 기형 위험 데이터 부족 - 가급적 회피
 * 증상 심한 경우 산부인과 또는 신경과 협진 권장
 
 _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.</mark>_
@@ -240,13 +241,13 @@ G25.81 하지불안증후군
 > ※ 체중 증가, 어지럼, 부종 주의
 > ```
 
-> **처방례 3.** 경구 철분 보충 — ferritin ≤75 ng/mL 또는 transferrin saturation <20%
+> **처방례 3.** 경구 철분 보충 — ferritin ≤75 ng/mL 또는 transferrin saturation rate <20%
 >
 > ```
 > 훼로바-유 서방정 1T  격일(이틀에 한 번) 공복(식전 1시간)
 > ※ 격일 복용 : 매일 복용 시보다 헵시딘(hepcidin) 상승이 억제되어 흡수율 향상, 위장 부작용 감소
 > ※ Vit C 병용 시 흡수 향상
-> ※ 3개월 후 ferritin, transferrin saturation 재검
+> ※ 3개월 후 ferritin, transferrin saturation rate 재검
 > ※ ferritin 75~100 ng/mL 구간 또는 경구 불내성 시 → IV ferric carboxymaltose(페린젝트) 의뢰
 > ```
 
