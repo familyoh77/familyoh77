@@ -417,7 +417,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 47-1.
 
 ***
 
-<figure><img src="../.gitbook/assets/치매5.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/치매5.JPG" alt=""><figcaption><p>원문의 AD8은 국내에서 KDSQ(한국판 치매선별질문지)로 대체 가능.<br>Mini-Cog → K-MMSE → K-MoCA 순서의 단계적 접근은 본 챕터 '상황별 인지 기능 검사 가이드'를 참조</p></figcaption></figure>
 
 ***
 
