@@ -1,7 +1,5 @@
 # 결막염 Conjunctivitis
 
-![image](../.gitbook/assets/907064ec-dd72-4d61-bf60-e6db88e00986.JPG)
-
 ## 일반 사항![image](../.gitbook/assets/48c33c07-ae98-46f2-b9fa-71cbf0bd9b96.JPG)
 
 * 안구의 흰자위와 눈꺼풀 내측 표면을 덮고 있는 점막인 결막의 염증
