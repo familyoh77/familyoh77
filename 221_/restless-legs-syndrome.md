@@ -60,34 +60,22 @@
 * 도파민 약물 치료에 대한 반응 평가
 * 필요시 수면다원검사(polysomnography) - PLMD 동반 여부 확인
 
-※ **철분 보충 의사결정 기준** (2024 AASM; 아침 공복, 철분 보충제 24시간 중단 후 채혈)
-
-| ferritin      | Transferrin saturation (TSAT) | 권고 조치                        |
-| ------------- | ----------------------------- | ---------------------------- |
-| ≤75 ng/mL     | 무관                            | 경구 또는 IV 철분 보충               |
-| 75\~100 ng/mL | 무관                            | IV 철분만 고려 (경구는 이 범위에서 흡수 불량) |
-| >100 ng/mL    | <20%                          | IV 철분 보충 고려                  |
-| >100 ng/mL    | ≥20%                          | 철분 보충 불필요                    |
-
-_✽ 염증·감염·간질환 시 ferritin은 급성기 반응물질로 허위 상승 가능 — TSAT로 실제 철분 가용성을 함께 판단_\
-&#xNAN;_✽ ferritin >75 ng/mL에서는 헵시딘(hepcidin) 상승으로 경구 철분 흡수가 억제됨 — IV 철분 고려_
-
-### <mark style="color:orange;">진단 기준 \[IRLSSG 2014]</mark>
+### <mark style="color:orange;">진단 기준</mark> \[IRLSSG 2014]
 
 #### <mark style="color:$primary;">Essential diagnostic criteria</mark>
 
 * 다음 사항에 모두 해당
-  1. 하지의 불편하고 불쾌한 느낌을 동반하는 하지의 움직임 충동 (간혹 팔 등 다른 부위 이환)
-  2. 하지의 움직임 충동 및 동반되는 불쾌감은 휴식 중 시작 또는 악화
-  3. 하지의 움직임 충동 및 동반되는 불쾌감은 움직임(예: 보행, 스트레칭)에 의해 완전히 또는 부분적으로 완화
-  4. 하지의 움직임 충동 및 동반되는 불쾌감은 저녁이나 야간에 발생 또는 악화
-  5. 상기 사항들은 다른 의학적 문제(예: myalgia, venous stasis, leg edema, arthritis, leg cramps, positional discomfort, habitual foot tapping)의 1차적 증상으로 설명되지 않음
+
+1. 하지의 불편하고 불쾌한 느낌을 동반하는 하지의 움직임 충동 (간혹 팔 등 다른 부위 이환)
+2. 하지의 움직임 충동 및 동반되는 불쾌감은 휴식 중 시작 또는 악화
+3. 하지의 움직임 충동 및 동반되는 불쾌감은 움직임(예: 보행, 스트레칭)에 의해 완전히 또는 부분적으로 완화
+4. 하지의 움직임 충동 및 동반되는 불쾌감은 저녁이나 야간에 발생 또는 악화
+5. 상기 사항들은 다른 의학적 문제(예: myalgia, venous stasis, leg edema, arthritis, leg cramps, positional discomfort, habitual foot tapping)의 1차적 증상으로 설명되지 않음
 
 #### <mark style="color:$primary;">Specifiers for clinical course</mark>
 
-A. Chronic-persistent RLS : 치료하지 않았을 때 지난 1년간 ≥2회/주 발생
-
-B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평생 총 ≥5회 발생
+* Chronic-persistent RLS : 치료하지 않았을 때 지난 1년간 ≥2회/주 발생
+* &#x20;Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평생 총 ≥5회 발생
 
 #### <mark style="color:$primary;">Specifier for clinical significance</mark>
 
@@ -125,10 +113,9 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 * 1차 선택제 : gabapentin 계열; 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험으로 인해 장기 사용 조건부 권고 반대로 변경 (2024 AASM)
 
-#### <mark style="color:$primary;">Alpha-2-delta 칼슘채널 길항제 (gabapentin 계열)</mark>
+#### <mark style="color:$primary;">Alpha-2-delta 칼슘 채널 길항제 (gabapentin 계열)</mark>
 
-* 1차 선택
-* 근거 : 2024 AASM 강력 권고(Strong recommendation); 13개 RCT + 7개 관찰연구 기반
+* 1차 선택 (2024 AASM 강력 권고)
 * 용법 : 증상 발생 1\~2시간 전 저녁 복용
 
 **신기능 저하 시 용량 조절** (CrCl 기준)
@@ -141,11 +128,19 @@ B. Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평
 
 #### <mark style="color:$primary;">철분 보충</mark>
 
-* 1차 선택 (철분 지표 기준에 해당 시) - 기준은 위 진단 절 철분 보충 의사결정 표 참조
-* IV ferric carboxymaltose (페린젝트) : ferritin <100 ng/mL 또는 transferrin saturation <20% → 강력 권고
-  * 위장관 흡수에 의존하지 않아 헵시딘(hepcidin) 억제의 영향을 받지 않음 - 효과 빠르고 예측 가능
+* 1차 선택 (철분 지표 기준에 해당 시) - 기준은 위 진단 절 철분 보충 의사결정 기준 참조
+
+**철분 보충 의사결정 기준** (2024 AASM)
+
+<table><thead><tr><th width="147">ferritin</th><th width="126">Transferrin  saturation</th><th>권고 조치</th></tr></thead><tbody><tr><td>≤75 ng/㎖</td><td>무관</td><td>경구 또는 IV 철분 보충</td></tr><tr><td>75~100 ng/㎖</td><td>무관</td><td>IV 철분만 고려 (경구는 이 범위에서 흡수 불량)</td></tr><tr><td>>100 ng/㎖</td><td>&#x3C;20%</td><td>IV 철분 보충 고려</td></tr><tr><td>>100 ng/㎖</td><td>≥20%</td><td>철분 보충 불필요</td></tr></tbody></table>
+
+* 아침 공복, 철분 보충제 24시간 중단 후 채혈
+* 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - Transferrin saturation로 실제 철분 가용성을 함께 판단
+* ferritin >75 ng/㎖에서는 hepcidin 상승으로 경구 철분 흡수가 억제됨 - IV 철분 고려
+* IV ferric carboxymaltose <mark style="color:blue;">\[페린젝트주]</mark> : ferritin <100 ng/mL 또는 transferrin saturation <20% → 강력 권고
+  * 위장관 흡수에 의존하지 않아 hepcidin 억제의 영향을 받지 않음 - 효과 빠르고 예측 가능
   * 경구 철분 대비 뇌 철분 보충 속도가 빠름; 단회 또는 소수 회 투여로 충분
-* 경구 ferrous sulfate : ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 조건부 권고
+* 경구 ferrous sulfate : ferritin ≤75 ng/mL 또는 transferrin saturation <20% → 조건부 권고 (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
   * 공복(식전 1시간) 복용, Vit C 병용으로 흡수 향상
   * ferritin >75 ng/mL이면 경구 흡수 불량(헵시딘 상승으로 십이지장 철분 흡수 억제) - IV 철분 고려
   * 격일 복용(every other day) 권고 : 매일 복용보다 헵시딘 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
