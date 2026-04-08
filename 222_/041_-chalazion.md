@@ -8,63 +8,61 @@
 * 호발 연령 : 30\~50세
 * 경과 : 작은 병변은 자연 흡수; 지속 시 감염·통증 발생 가능; 다래끼보다 오래 지속되며 재발·만성 경과를 보일 수 있음
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
-
-* 안구 돌출, 안구 운동 장애, 심한 안와 부종 → 안와 봉와직염(orbital cellulitis) 의심 — 즉시 입원 치료
-* 급속히 진행하는 부종 + 고열 + 전신 증상 동반 → 안와주위 봉와직염 의심
-
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
-
-* 시력 저하 또는 각막 압박을 동반한 큰 병변
-* 봉와직염(preseptal cellulitis)으로 진행한 경우 — 전신 항생제 투여 필요
-* 치료 2\~3주 후에도 소실되지 않는 병변 — 절개·소파술 고려
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 — 즉각 위험 낮으나 호전 없으면 의뢰**</mark>
-
-* 1개월 이상 지속되거나 재발하는 경우 → 안과 의뢰
-* **동일 부위 반복 재발** → 피지선 암종(sebaceous gland carcinoma) 감별을 위한 생검 필수
-* **치료에 반응하지 않는 편측 만성 안검결막염** 동반 시 → 생검 적응증; 악성 위장 의심
-  * 재발성 chalazion의 가장 흔한 악성 위장은 피지선 암종; 5년 생존율 78%(국소·지역) \~50%(전이)로 조기 진단이 핵심
-
-{% hint style="danger" %}
-**🔬 피지선 암종 의심 임상 단서 — 아래 중 하나라도 해당 시 즉시 생검·안과 의뢰**
-
-* 이전 병력 없이 **고령에 처음 발생**한 눈꺼풀 종괴
-* **첫 번째 재발**만으로도 의심 수준 상승 ("첫 재발도 피지선 암종을 배제해야 한다")
-* 종괴 질감이 rubbery가 아닌 **딱딱하고(rock-hard) 불분명한 경계**
-* **속눈썹 소실(madarosis)** 또는 눈꺼풀 가장자리 불규칙
-* 치료에 반응하지 않는 **편측 안검결막염·blepharoconjunctivitis**
-* **국소 림프절 비대** 동반
-{% endhint %}
-
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
 * chalazion 과거력
 * 불결한 눈꺼풀 위생; 최근 결막염 병력; 만성 안검염(blepharitis); hordeolum 병력
 * 지루피부염, acne rosacea
-* 면역저하, 결핵, 바이러스 감염, trachoma, leishmaniasis, 악성 종양
+* 면역 저하, 결핵, 바이러스 감염, trachoma, leishmaniasis, 악성 종양
 * 고지혈증, 비타민 A 결핍, 스트레스
 * 눈꺼풀 외상; 장기간의 마스크 착용
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* **통증·압통이 없는** 국소 결절 (주요 특징; 다래끼와의 핵심 감별점)
+* 통증·압통이 없는 국소 결절 (주요 특징; 다래끼와의 핵심 감별점)
 * 다래끼보다 크고 단단한 rubberlike nodule; 눈꺼풀 중앙부(tarsus)에 위치
 * 인접 결막 및 피부의 부종·발적
 * 치료하지 않으면 감염되어 통증이 발생할 수 있음
 
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+
+* 안구 돌출, 안구 운동 장애, 심한 안와 부종 → 안와 봉와직염(orbital cellulitis) 의심, 즉시 입원 치료
+* 급속히 진행하는 부종 + 고열 + 전신 증상 동반 → 안와주위 봉와직염 의심
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 시력 저하 또는 각막 압박을 동반한 큰 병변
+* 봉와직염(preseptal cellulitis)으로 진행한 경우 - 전신 항생제 투여 필요
+* 치료 2\~3주 후에도 소실되지 않는 병변 - 절개·소파술 고려
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+
+* 1개월 이상 지속되거나 재발하는 경우 → 안과 의뢰
+* 동일 부위 반복 재발 → 피지선 암종(sebaceous gland carcinoma) 감별을 위한 생검 필수
+* 치료에 반응하지 않는 편측 만성 안검결막염 동반 시 → 생검 적응증; 악성 위장 의심
+  * 재발성 chalazion의 가장 흔한 악성 위장은 피지선 암종; 5년 생존율 78%(국소·지역) \~50%(전이)로 조기 진단이 핵심
+
+※ **피지선 암종 의심 임상 단서** - 아래 중 하나라도 해당 시 즉시 생검·안과 의뢰
+
+* 이전 병력 없이 고령에 처음 발생한 눈꺼풀 종괴
+* 재발 (첫 재발도 피지선 암종을 배제해야 함)
+* 종괴 질감이 rubbery가 아닌 딱딱하고(rock-hard) 불분명한 경계
+* 속눈썹 소실(madarosis) 또는 눈꺼풀 가장자리 불규칙
+* 치료에 반응하지 않는 편측 안검결막염·blepharoconjunctivitis
+* 국소 림프절 비대 동반
+
 ## <mark style="color:green;">진단</mark>
 
 * 임상 진단; 실험실·영상 검사는 불필요
-* **생검 적응증** : 지속(>1개월) 또는 재발, 치료 저항성 편측 안검결막염, 고령 초발, 속눈썹 소실·경계 불분명 등 비전형적 소견 — 악성 종양(피지선 암종, 기저세포암, 편평세포암 등) 감별
+* 생검 적응증 (피지선 암종, 기저세포암, 편평세포암 등 악성 종양 감별) : 지속(>1개월) 또는 재발, 치료 저항성 편측 안검결막염, 고령 초발, 속눈썹 소실·경계 불분명 등 비전형적 소견&#x20;
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-<table><thead><tr><th width="170"></th><th width="230">콩다래끼 (Chalazion)</th><th width="230">다래끼 (Hordeolum)</th></tr></thead><tbody><tr><td><strong>원인</strong></td><td>비감염성 — meibomian gland 폐쇄 후 육아종성 염증</td><td>세균 감염 (S. aureus)</td></tr><tr><td><strong>발생 위치</strong></td><td>눈꺼풀 중앙부 판(tarsus) 내</td><td>eyelid margin (가장자리)</td></tr><tr><td><strong>통증·압통</strong></td><td>없거나 경미함 (주요 감별점)</td><td>있음</td></tr><tr><td><strong>발적</strong></td><td>초기 후 사라짐</td><td>뚜렷함</td></tr><tr><td><strong>경과</strong></td><td>만성; 수주~수개월 지속</td><td>급성; 수일~1주 내 자연 파열</td></tr><tr><td><strong>농포</strong></td><td>없음</td><td>형성됨</td></tr><tr><td><strong>치료</strong></td><td>온찜질, 스테로이드 병변 내 주사, 절개·소파술</td><td>온찜질, 항생제</td></tr></tbody></table>
+<table><thead><tr><th width="108"></th><th width="340">콩다래끼 (Chalazion)</th><th width="224">다래끼 (Hordeolum)</th></tr></thead><tbody><tr><td><strong>원인</strong></td><td>비감염성 - meibomian gland 폐쇄 후 육아종성 염증</td><td>세균 감염 (S. aureus)</td></tr><tr><td><strong>발생 위치</strong></td><td>눈꺼풀 중앙부 판(tarsus) 내</td><td>eyelid margin (가장자리)</td></tr><tr><td><strong>통증·압통</strong></td><td>없거나 경미함 (주요 감별점)</td><td>있음</td></tr><tr><td><strong>발적</strong></td><td>초기 후 사라짐</td><td>뚜렷함</td></tr><tr><td><strong>경과</strong></td><td>만성; 수주~수개월 지속</td><td>급성; 수일~1주 내 자연 파열</td></tr><tr><td><strong>농포</strong></td><td>없음</td><td>형성됨</td></tr><tr><td><strong>치료</strong></td><td>온찜질, 스테로이드 병변 내 주사, 절개·소파술</td><td>온찜질, 항생제</td></tr></tbody></table>
 
- ※ 초기 수일간은 임상적으로 구별이 어려울 수 있음. 병변이 통증 없이 만성 경과를 보이면 chalazion을 우선 고려. hordeolum은 감염 치유 후 chalazion으로 전환될 수 있음 (☞ [다래끼](040_-hordeolum.md))
+※ 초기 수일간은 임상적으로 구별이 어려울 수 있음. 병변이 통증 없이 만성 경과를 보이면 chalazion을 우선 고려. hordeolum은 감염 치유 후 chalazion으로 전환될 수 있음 (☞ [다래끼](040_-hordeolum.md))
 
 ***
 
@@ -78,30 +76,30 @@
 
 #### <mark style="color:$primary;">병변 크기 × 경과에 따른 의사결정</mark>
 
-<table><thead><tr><th width="150">병변 크기</th><th width="220">초기 (≤4주)</th><th width="220">지속 (>4주) 또는 재발</th></tr></thead><tbody><tr><td><strong>소형 (&lt;3 mm)</strong></td><td>온찜질 + 눈꺼풀 세척 + 국소 스테로이드 → 4주 후 재평가</td><td>병변 내 triamcinolone 주사 (10 mg/mL 희석 권장)</td></tr><tr><td><strong>중형 (3~7 mm)</strong></td><td>온찜질 + 국소 스테로이드 → 2~4주 후 스테로이드 주사 고려</td><td>병변 내 triamcinolone 주사 (40 mg/mL) 또는 I&amp;C; 악성 감별 필요</td></tr><tr><td><strong>대형 (&gt;7 mm)</strong></td><td>온찜질 + 안과 조기 의뢰</td><td>I&amp;C 우선 (조직 병리 검사 필수); 스테로이드 주사 단독 효과 제한적</td></tr><tr><td><strong>누점 인근·다발성</strong></td><td>온찜질 + 국소 스테로이드</td><td>스테로이드 주사 선호 (절개 시 누점 손상 위험)</td></tr><tr><td><strong>재발성 + MGD</strong></td><td colspan="2">급성기 치료 후 → doxycycline 저용량 유지 + 눈꺼풀 세척 습관화 + IPL 치료 안과 의뢰 고려</td></tr></tbody></table>
+<table><thead><tr><th width="124">병변 크기</th><th width="238">초기 (≤4주)</th><th width="259">지속 (>4주) 또는 재발</th></tr></thead><tbody><tr><td>소형 (&#x3C;3 ㎜)</td><td>온찜질 + 눈꺼풀 세척 + 국소 스테로이드 → 4주 후 재평가</td><td>병변 내 triamcinolone 주사 (10 mg/mL 희석 권장)</td></tr><tr><td>중형 (3~7 ㎜)</td><td>온찜질 + 국소 스테로이드 → 2~4주 후 스테로이드 주사 고려</td><td>병변 내 triamcinolone 주사 (40 mg/mL) 또는 I&#x26;C; 악성 감별 필요</td></tr><tr><td>대형 (>7 ㎜)</td><td>온찜질 + 안과 조기 의뢰</td><td>I&#x26;C 우선 (조직 병리 검사 필수); 스테로이드 주사 단독 효과 제한적</td></tr><tr><td>누점 인근<br>·다발성</td><td>온찜질 + 국소 스테로이드</td><td>스테로이드 주사 선호 (절개 시 누점 손상 위험)</td></tr><tr><td>재발성 <br>+ MGD</td><td>급성기 치료 후 → doxycycline 저용량 유지 + 눈꺼풀 세척 습관화 + IPL 치료 안과 의뢰 고려</td><td></td></tr></tbody></table>
 
- ※ 진단이 불명확하거나 악성 의심 소견 동반 시 → 크기·기간에 관계없이 즉시 안과 의뢰 및 생검
+※ 진단이 불명확하거나 악성 의심 소견 동반 시 → 크기·기간에 관계없이 즉시 의뢰 및 생검
 
-### <mark style="color:orange;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
-* **온찜질** : ductal blockage 용해 및 sebum 배출 촉진; 40\~43℃ 따뜻한 물수건, 15분씩 1일 4회
-* **눈꺼풀 세척** : 매일 눈꺼풀 가장자리 세척; 세정제 선택 기준은 아래 참고
-* **눈꺼풀 마사지** : 찜질 후 가볍게 마사지 (squeezing 하지 않음)
+* 온찜질 : ductal blockage 용해 및 sebum 배출 촉진; 40\~43℃ 따뜻한 물수건, 15분씩 1일 4회
+* 눈꺼풀 세척 : 매일 눈꺼풀 가장자리 세척; 세정제 선택 기준은 아래 참고
+* 눈꺼풀 마사지 : 찜질 후 가볍게 마사지 (squeezing 하지 않음)
 
-#### <mark style="color:$primary;">눈꺼풀 세정제 선택</mark>
+**눈꺼풀 세정제 선택**
 
-<table><thead><tr><th width="200">종류</th><th width="200">주요 적응</th><th>비고</th></tr></thead><tbody><tr><td>유아용 샴푸 희석액</td><td>일반 눈꺼풀 위생</td><td>가장 접근성이 높음; 단, 계면활성제 자극 주의</td></tr><tr><td>차아염소산(HOCl) 스프레이</td><td>세균성 안검염, 일반 눈꺼풀 위생</td><td>항균·항염 효과; 무자극, 무방부제 제품 선택 권장</td></tr><tr><td>티트리 오일(Tea tree oil) 계열</td><td>Demodex 감염 의심 만성 안검염 동반 시</td><td>terpinen-4-ol 성분이 Demodex 구제 효과; 원액은 자극 강하므로 희석 제품 사용</td></tr></tbody></table>
+<table><thead><tr><th width="156">종류</th><th width="193">주요 적응</th><th>비고</th></tr></thead><tbody><tr><td>유아용 샴푸 희석액</td><td>일반 눈꺼풀 위생</td><td>가장 접근성이 높음; 단, 계면활성제 자극 주의</td></tr><tr><td>차아염소산(HOCl) <br>스프레이</td><td>세균성 안검염, 일반 눈꺼풀 위생</td><td>항균·항염 효과; 무자극, 무방부제 제품 선택 권장</td></tr><tr><td>Tea tree oil 계열</td><td>Demodex 감염 의심 만성 안검염 동반 시</td><td>terpinen-4-ol 성분이 Demodex 구제 효과; 원액은 자극 강하므로 희석 제품 사용</td></tr></tbody></table>
 
- ※ 아마씨유(flaxseed oil) 또는 **오메가-3(EPA/DHA)** 섭취가 meibomian gland의 기름 성상을 개선하여 재발 감소에 도움이 된다는 보고가 있음 (근거 수준 중등도)
+※ 아마씨유(flaxseed oil) 또는 오메가-3(EPA/DHA) 섭취가 meibomian gland의 기름 성상을 개선하여 재발 감소에 도움이 된다는 보고가 있음 (근거 수준 중등도; 오메가-3 1\~3 g/일, 최소 3개월 이상 복용)
 
- ※ 국소 azithromycin 1% 점안액 사용으로 재발이 감소했다는 보고가 있음
+※ 국소 azithromycin 1% 점안액 사용으로 재발이 감소했다는 보고가 있음
 
-#### <mark style="color:$primary;">마스크 착용 관련 주의</mark>
+**마스크 착용 관련 주의**
 
 * 마스크 상단이 헐겁게 착용되면 날숨이 눈 쪽으로 올라가 눈꺼풀 온도·습도를 높이고 meibomian gland 환경을 교란할 수 있음
 * 마스크 상단을 코 등에 밀착시켜 날숨이 눈으로 향하지 않도록 조절 (노즈클립 활용)
 
-### <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 #### <mark style="color:$primary;">국소 스테로이드 (1차)</mark>
 
@@ -114,21 +112,19 @@
 
 * 적용 : 보존적 치료(온찜질 + 국소 스테로이드) 2\~4주 후 호전 없는 경우; 감염 소견 없을 때
 * 방법 : triamcinolone acetonide 병변 내 직접 주입; 27G 바늘 사용; 안과 처치
+  * 병변당 주입량 : 0.05\~0.2 ㎖ - 과다 주입 시 결막하 백색 침착물 장기 잔존 및 안압 상승 위험 증가
   * 통증 경감을 위해 2% lidocaine (with epinephrine) 1:1 혼합 가능
   * 대형 병변은 2\~7일 내 반복 주사 필요할 수 있음
-* **농도 선택 기준**
+* 농도 선택 기준
 
-| 농도 | 적용 상황 | 근거 |
-|---|---|---|
-| **40 mg/mL** (원액) | 중형\~대형(≥5 mm), 섬유화된 만성 병변 | 표준 용량; 병변 내 약물 농도 확보 |
-| **10 mg/mL** (4배 희석) | 소형(<5 mm), 누점 인근, 피부색 어두운 환자 | 탈색소·지방 위축 위험 감소; 누점 손상 최소화 |
+<table><thead><tr><th width="144">농도</th><th width="282">적용 상황</th><th>근거</th></tr></thead><tbody><tr><td>40 ㎎/㎖ (원액)</td><td>중형~대형(≥5 ㎜), 섬유화된 만성 병변</td><td>표준 용량; 병변 내 약물 농도 확보</td></tr><tr><td>10 ㎎/㎖ <br>(4배 희석)</td><td>소형(&#x3C;5 ㎜), 누점 인근, 피부색 어두운 환자</td><td>탈색소·지방 위축 위험 감소; 누점 손상 최소화</td></tr></tbody></table>
 
-* 효과 : 중형 병변 해소율 약 84\~92%; I&C와 전체 해소율 유사; 해소 시간은 I&C보다 약간 김
-* **부작용** (환자에게 사전 고지 필요)
-  * 피부 탈색소(depigmentation) — 특히 피부색이 어두운 환자에서 주의; 10 mg/mL 희석 사용 고려
+* 효과 : 중형 병변 해소율 약 84\~92%; I\&C와 전체 해소율 유사; 해소 시간은 I\&C보다 약간 김
+* 부작용 (환자에게 사전 고지 필요)
+  * 피부 탈색소(depigmentation) : 특히 피부색이 어두운 환자에서 주의; 10 ㎎/㎖ 희석 사용 고려
   * 피하 지방 위축(subcutaneous fat atrophy)
   * 안압 상승
-  * **중심성 장액성 맥락막망막병증(CSCR)** : 드물지만 스테로이드 주사 후 발생 보고 있음; 주사 후 시력 변화·중심 암점 발생 시 즉시 안과 내원 필요
+  * 중심성 장액성 맥락막망막병증(CSCR) : 드물지만 스테로이드 주사 후 발생 보고 있음; 주사 후 시력 변화·중심 암점 발생 시 즉시 안과 내원 필요
   * 드물게 : 망막·맥락막 혈관 폐쇄, 안구 관통, 시력 손실
 
 #### <mark style="color:$primary;">항생제</mark>
@@ -136,27 +132,36 @@
 * 적용 : 육아종성 염증이므로 보통 항생제 치료는 불필요; 감염 동반, 재발성, 또는 안검염 유발 시 고려
 * doxycycline : 100 ㎎ bid ×10d <mark style="color:blue;">\[독시사이클린]</mark>
 * minocycline : 50 ㎎ qd ×10d <mark style="color:blue;">\[미노씬]</mark>
-* **tetracycline계 불내성·금기 시 대체** : metronidazole 200\~400 ㎎ tid ×10d <mark style="color:blue;">\[플라질]</mark>
-* 재발 예방 목적 저용량 유지 : doxycycline 20\~50 ㎎ qd (수주\~수개월) — 항염·meibum 성상 개선
+* tetracycline계 불내성·금기 시 대체 : metronidazole 200\~400 ㎎ tid ×10d <mark style="color:blue;">\[플라질]</mark>
+* 재발 예방 목적 저용량 유지 : doxycycline 20\~50 ㎎ qd (수주\~수개월) - 항염·meibum 성상 개선
 
-### <mark style="color:orange;">수술 치료</mark>
+## <mark style="color:green;">수술 치료</mark>
 
 #### <mark style="color:$primary;">스테로이드 주사 vs 절개·소파술 비교</mark>
 
-<table><thead><tr><th width="160">구분</th><th width="220">병변 내 스테로이드 주사</th><th width="220">절개·소파술 (I&C)</th></tr></thead><tbody><tr><td><strong>장점</strong></td><td>비침습적; 다발성 병변에 유리; 전신마취·국소마취 알레르기 환자에 적합</td><td>즉각적인 부피 감소; 조직 병리 검사 가능; 해소 시간 짧음; 재발률 낮음</td></tr><tr><td><strong>단점</strong></td><td>피부 탈색소·지방 위축 위험; 대형 병변에서 효과 제한적; 악성 감별 불가</td><td>통증·출혈·흉터 가능성; 누점 인근 시 손상 위험</td></tr><tr><td><strong>선호 상황</strong></td><td>소~중형 병변; 흉터 우려; 누점 인근; 다발성; 진단이 명확할 때</td><td>대형 병변(>7 mm); 악성 의심; 보존 치료 실패; 빠른 해소 필요 시</td></tr></tbody></table>
+<table><thead><tr><th width="91">구분</th><th width="264">병변 내 스테로이드 주사</th><th width="276">절개·소파술 (I&#x26;C)</th></tr></thead><tbody><tr><td>장점</td><td>비침습적; 다발성 병변에 유리; 전신마취·국소마취 알레르기 환자에 적합</td><td>즉각적인 부피 감소; 조직 병리 검사 가능; 해소 시간 짧음; 재발률 낮음</td></tr><tr><td>단점</td><td>피부 탈색소·지방 위축 위험; 대형 병변에서 효과 제한적; 악성 감별 불가</td><td>통증·출혈·흉터 가능성; 누점 인근 시 손상 위험</td></tr><tr><td>선호 상황</td><td>소~중형 병변; 흉터 우려; 누점 인근; 다발성; 진단이 명확할 때</td><td>대형 병변(>7 ㎜); 악성 의심; 보존 치료 실패; 빠른 해소 필요 시</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">절개·소파술 (Incision & Curettage)</mark>
 
 * 적용 : 큰 병변(각막 압박·안구 운동 방해), 2\~3주 치료에도 소실되지 않는 병변
-* 국소마취 하, 눈꺼풀 결막 면(tarsal conjunctiva)을 통해 **세로(Vertical)** 절개 — meibomian gland 주행 방향 평행; 주변 기름샘 손상 최소화
-* **조직 병리 검사** : 절제 검체 반드시 병리 의뢰 — 피지선 암종 등 악성 병변 배제
+* 절개 방향 : 접근 면에 따라 다름
+
+<table><thead><tr><th width="100">접근 면</th><th width="110">절개 방향</th><th width="179">적용 상황</th><th width="274">근거</th></tr></thead><tbody><tr><td>결막 면</td><td>Vertical</td><td>대부분의 chalazion <br>- 표준 접근</td><td>meibomian gland 주행 방향 평행; 주변 기름샘 손상 최소화</td></tr><tr><td>피부 면</td><td>Horizontal</td><td>병변이 피부 쪽에 매우 근접한 경우</td><td>피부 주름선(relaxed skin tension line) 방향; 흉터 최소화</td></tr></tbody></table>
+
+* 조직 병리 검사 : 절제 검체 반드시 병리 의뢰 - 피지선 암종 등 악성 병변 배제
+
+**시술 후 합병증** - **화농성 육아종**(Pyogenic Granuloma)
+
+* I\&C 후 또는 드물게 자연 파열 후, 절개 부위에 붉고 말랑말랑한 육아 조직이 돌출되어 성장할 수 있음
+* 처치 : 국소 스테로이드 점안액 증량 또는 추가 절제; 안과 의뢰
+* 감별 포인트 : 통증 없이 빠르게 커지는 붉은 조직 → 자연 회복 기대하지 말고 조기 의뢰
 
 #### <mark style="color:$primary;">IPL (Intense Pulsed Light) 치료</mark>
 
-* 적용 : 재발성 chalazion + **MGD(마이봄샘 기능 장애) 동반** 시 근본 원인 치료 목적
+* 적용 : 재발성 chalazion + MGD(마이봄샘 기능 장애) 동반 시 근본 원인 치료 목적
 * 기전 : 눈꺼풀 주변 광열 작용 → meibomian gland 내 굳은 기름 용해 → 분비 기능 회복; 항염 효과 병행
 * 효과 : 재발 감소 및 기름샘 기능 개선에 도움이 된다는 보고가 증가하는 추세
-* **안과 의뢰** : 1차 진료에서 직접 시행 불가; 재발성·MGD 동반 환자에서 안과 의뢰 시 IPL 고려를 제안할 수 있음
+* 안과 의뢰 : 1차 진료에서 직접 시행 불가; 재발성·MGD 동반 환자에서 안과 의뢰 시 IPL 고려를 제안할 수 있음
 
 ***
 
@@ -180,10 +185,10 @@ H00.1 콩다래끼
 >
 > ```
 > 벡솔 점안액 5 ㎖/병  1방울 qid
-> 미노씬 50 ㎎/C  1C  qd  ×10d
+> 미노씬 50 ㎎/C  1C  bid  ×10d
 > ```
 >
-> _✽감염 징후(발적·압통·분비물) 동반 시 항생제 추가. minocycline은 항균 외 항염 효과 병용. 치료 후에도 종괴 잔존 시 안과 의뢰_
+> _✽감염 징후(발적·압통·분비물) 동반 시 항생제 추가. minocycline 50 ㎎ bid는 급성기 항균 목적의 표준 용량; 항염 목적의 저용량 유지(50 ㎎ qd)와 구분하여 적용. 치료 후에도 종괴 잔존 시  의뢰_
 >
 > _✽tetracycline계 금기(임부·12세 미만·불내성) 시 대체 : 플라질 200 ㎎ tid ×10d_
 
@@ -295,14 +300,10 @@ H00.1 콩다래끼
 
 #### <mark style="color:$primary;">❓ 콩다래끼에 대한 오해와 진실 (FAQ)</mark>
 
-**Q. 콩다래끼는 다른 사람에게 옮나요?**
-A. 아닙니다. 콩다래끼는 세균 감염이 아닌 기름샘 폐쇄로 생기므로 전염되지 않습니다.
+**Q. 콩다래끼는 다른 사람에게 옮나요?** A. 아닙니다. 콩다래끼는 세균 감염이 아닌 기름샘 폐쇄로 생기므로 전염되지 않습니다.
 
-**Q. 그냥 두면 저절로 없어지나요?**
-A. 작은 병변은 수주 내 자연 흡수되기도 합니다. 그러나 1개월 이상 지속되거나 커진다면 치료가 필요합니다.
+**Q. 그냥 두면 저절로 없어지나요?** A. 작은 병변은 수주 내 자연 흡수되기도 합니다. 그러나 1개월 이상 지속되거나 커진다면 치료가 필요합니다.
 
-**Q. 콩다래끼를 손으로 짜면 안 되나요?**
-A. 삼가십시오. 강하게 누르거나 짜면 염증이 퍼져 감염·봉와직염으로 악화될 수 있습니다.
+**Q. 콩다래끼를 손으로 짜면 안 되나요?** A. 삼가십시오. 강하게 누르거나 짜면 염증이 퍼져 감염·봉와직염으로 악화될 수 있습니다.
 
-**Q. 같은 자리에 계속 재발하는데 왜 그런가요?**
-A. 동일 부위의 반복 재발은 마이봄샘 기능 장애, 지루피부염, rosacea 등 기저 원인이 있는 경우가 많습니다. 드물게는 피지선 암종이 콩다래끼처럼 보이는 경우도 있으므로, 반복 재발 시 반드시 안과에서 생검을 받으십시오.
+**Q. 같은 자리에 계속 재발하는데 왜 그런가요?** A. 동일 부위의 반복 재발은 마이봄샘 기능 장애, 지루피부염, rosacea 등 기저 원인이 있는 경우가 많습니다. 드물게는 피지선 암종이 콩다래끼처럼 보이는 경우도 있으므로, 반복 재발 시 반드시 안과에서 생검을 받으십시오.
