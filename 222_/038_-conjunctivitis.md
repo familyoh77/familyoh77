@@ -1,6 +1,6 @@
 # 결막염 Conjunctivitis
 
-## 일반 사항![image](../.gitbook/assets/48c33c07-ae98-46f2-b9fa-71cbf0bd9b96.JPG)
+## 일반 사항
 
 * 안구의 흰자위와 눈꺼풀 내측 표면을 덮고 있는 점막인 결막의 염증
 *   분류
@@ -13,6 +13,14 @@
 *   감염성 결막염의 전염 경로 : 환자의 분비물에 오염된 손이나
 
     물체의 눈 접촉
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+* 급속히 진행된 심한 화농성 결막 분비물
+* 심한 증상, 시력 저하, 각막 혼탁
+* ciliary flush : 가장 현저한 충혈이 limbus ring에 발생
+* 대증 치료로 5\~7일 내 호전 안 됨
+* 콘택트렌즈 관련 결막염이 렌즈 사용 중단 및 치료 24시간 이후에도 지속
 
 ## 알레르기 결막염 (Allergic Conjunctivitis)
 
