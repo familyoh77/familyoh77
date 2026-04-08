@@ -1,10 +1,8 @@
 # 눈마름증 (안구건조증) Dry Eye
 
-![image](../.gitbook/assets/aa453d96-e9b0-4e62-98b6-21ab96809704.JPG)
-
 ## 일반 사항
 
-* 눈물 생성 및 tear film 유지의 이상![image](../.gitbook/assets/f27bffd0-522e-4156-a337-eb3010f7299f.JPG)
+* 눈물 생성 및 tear film 유지의
 * 다른 이름 : keratitis(keratoconjunctivitis) sicca, dry eye syndrome
 * 보통 양측 발생
 * 유병률 : 50세 이상에서 5\~30%
@@ -21,19 +19,13 @@
 #### 눈물 생성 부족/감소
 
 * 안구건조증 원인의 대부분을 차지
-*   androgen 감소(고령), 눈물샘 결함, Sjögren’s syndrome, RA, 당뇨병, 안검염 후유 장애, 눈 수술(예: blepharoplasty,
-
-    백내장 수술, 시력 교정술)
-*   약물 : 항히스타민제, 항콜린제, 항우울제, estrogen(경구 피임제), isotretinoin, 세로토닌 수용체 대항제, 이뇨제, β-차단제,
-
-    amiodarone, nicotinic acid
+* androgen 감소(고령), 눈물샘 결함, Sjögren’s syndrome, RA, 당뇨병, 안검염 후유 장애, 눈 수술(예: blepharoplasty, 백내장 수술, 시력 교정술)
+* 약물 : 항히스타민제, 항콜린제, 항우울제, estrogen(경구 피임제), isotretinoin, 세로토닌 수용체 대항제, 이뇨제, β-차단제, amiodarone, nicotinic acid
 
 #### Tear film 불안정, 빠른 눈물 증발
 
 * mucin 또는 lipid 농도 이상과 관련
-*   meibomian oil 결핍, 안구열 이상, 안검 내반/외반, Bell’s palsy, 알레르기, 콘택트렌즈 착용, 영양 결핍(예: Vit A 결핍),
-
-    약물, 안약의 잦은 장기 사용(특히 보존제 함유 안약)
+* meibomian oil 결핍, 안구열 이상, 안검 내반/외반, Bell’s palsy, 알레르기, 콘택트렌즈 착용, 영양 결핍(예: Vit A 결핍), 약물, 안약의 잦은 장기 사용(특히 보존제 함유 안약)
 * 건조한 환경(예: 도서관, 온풍기 사용, 높은 고도), 자극(예: 담배 연기)
 * 눈 깜빡임 감소 : IT 기기 사용, 독서, 운전, 파킨슨병
 
@@ -41,9 +33,12 @@
 
 * 충혈, 건조, 자극감, 작열감, 가려움, 이물감(모래 느낌), 안구통, 눈부심, 시야 흐림
 * 소량의 점액성 분비물 : 눈물 감소에 따른 점액질 분비 증가에 기인
-*   과도한 눈물(paradoxical tearing) : 안구 표면의 자극 또는 손상에 따른 눈물샘 반사 자극에 의하여 수성 눈물 분비 증가;
+* 과도한 눈물(paradoxical tearing) : 안구 표면의 자극 또는 손상에 따른 눈물샘 반사 자극에 의하여 수성 눈물 분비 증가; 안구 건조 상태가 지속되면 점차 감소
 
-    안구 건조 상태가 지속되면 점차 감소
+### Red Flags!
+
+* 시각 장애
+* 안구통
 
 ## 진단
 
@@ -82,31 +77,29 @@
 
 ### 인공 눈물, 윤활제
 
-* 1차 선택제
+* 1차 선택제 (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0013))
 * 경증 눈마름증에 대하여 필요시 사용
 * 정확한 점안 시 한쪽 눈에 한 방울로 충분
-* 1일 6\~7회 이상 사용 또는 렌즈 착용 중에는 무방부제 제품 사용
-
-> ✽병 제품에는 대부분 방부제가 포함되어 있음
-
+* 1일 6\~7회 이상 사용 또는 렌즈 착용 중에는 무방부제 제품 사용\
+  ✽병 제품에는 대부분 방부제가 포함되어 있음
 * 증발이 주요 원인인 경우 연고제 선택(특히 취침 시 적용)
 
-#### 증발 방지
+**증발 방지**
 
 * polyvinylpyrrolidone \[옵타젠트]
 * hyaluronate \[라큐아 점안액], \[히알루미니]
 * anhydrous liquid lanolin \[듀라티얼즈 안연고]
 
-#### 점성 유지
+**점성 유지**
 
 * carboxymethylcellulose \[리프레쉬 티어즈], \[인프레쉬 플러스]
-* hydroxypropyl methylcellulose [아티어](../%EB%B9%84%EB%B3%B4%ED%97%98/)
+* hydroxypropyl methylcellulose \[아티어]
 
-#### 표면 장력 완화
+**표면 장력 완화**
 
-* polyethylene glycol [시스탄](../%EB%B9%84%EB%B3%B4%ED%97%98/)
+* polyethylene glycol \[시스탄]
 
-#### Mucin secretagogue
+**Mucin Secretagogue**
 
 * reebamipide : 1회 1적, 1일 4회 점안 \[레바아이], \[레바케이]
 * diquafosol : 1회 1적, 1일 6회 점안 \[디쿠아이]
@@ -127,9 +120,7 @@
 *   한계 : 효과 발현까지 수 주 소요, 장기 사용에 대한 효과 및 안정성 불명. 이 제제의 사용이 필요한 경우 의뢰 고려;
 
     입원 환자에서만 사용 권고 \[NHS]
-* cyclosporine \[레스타시스]
-
-> (보험기준 : 건성안으로 인하여 병적인 변화 발생(예: 표층각막염 등), tear break up time ≤6초, Shirmer test가 정상보다 ≥30% 감소)
+* cyclosporine \[[레스타시스](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)] (보험기준 : 건성안으로 인하여 병적인 변화 발생(예: 표층각막염 등), tear break up time ≤6초, Shirmer test가 정상보다 ≥30% 감소)
 
 #### 국소 Integrin antagonist
 
@@ -146,14 +137,13 @@
 ### 영양 요법
 
 * tear film break-up time 향상 등 증상 호전에 유효하다고 알려짐
-* 오메가-3(2 g tid \[오마코]), (γ-)linoleic acid \[에보프림], 항산화제, Vit A
-
-✽하루 1g의 오메가-3를 장기간(평균 5년) 복용한 결과 안구건조증에 유의미한 호전이 없었다는 보고가 있음
+* 오메가-3(2 g tid \[오마코]), (γ-)linoleic acid \[에보프림], 항산화제, Vit A\
+  ✽하루 1g의 오메가-3를 장기간(평균 5년) 복용한 결과 안구건조증에 유의미한 호전이 없었다는 보고가 있음
 
 ### 항생제
 
 * 대상 : 2차 감염, meibomian gland dysfunction, rosacea, blepharitis
-* 국소 항생제 (☞ p.192)
+* 국소 항생제 (☞ [결막염](038_-conjunctivitis.md#undefined-25))
 * 전신 항생제 : doxycycline 20~~50 ㎎ bid, 3~~4개월 \[독시사이클린]
 
 ## 수술
@@ -162,10 +152,30 @@
 
     다른 방법으로 조절되지 않는 심한 경우 고려
 
-> **질병코드** H04.1 눈물샘의 기타 장애
+
+
+### **질병코드**&#x20;
+
+H04.1 눈물샘의 기타 장애
 
 H04.11 건성안증후군
 
 H04.9 눈물계통의 상세불명 장애
 
-![image](../.gitbook/assets/20a3793d-5e06-4851-afd2-cdafb6ca9794.JPG)
+
+
+### 처방례
+
+처방례 1. 경증\
+라큐아 점안액 5 ㎖/병 필요시
+
+\
+처방례 2. 중증\
+히알루 미니 점안액 필요시\
+테라마이신 안연고 3㎎/tube 취침 전
+
+\
+처방례 3. 자극 증상 동반\
+로테프로 5 ㎖/병 qid ×1주\
+히아레인 미니 점안액 필요시\
+리프레쉬 티어즈 점안액 15 ㎖/병 필요시 (보험주의)
