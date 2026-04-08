@@ -1,7 +1,5 @@
 # 안검염 Blepharitis
 
-![image](../.gitbook/assets/3317bb09-4f6a-435a-af19-d98136c27459.JPG)
-
 ## 일반 사항
 
 * 감염 또는 비감염 원인의 눈꺼풀 가장자리의 만성 염증; eyelid infection or inflammation
@@ -11,25 +9,24 @@
 
 ## 원인
 
-### 기전![image](../.gitbook/assets/c5fbcbcb-cd39-4636-9475-9459aa9d4aa3.png)
+#### 기전
 
 * 정확한 기전은 불명; 복합적 요인
 * dry eye, meibomian gland 이상
 * 감염 : 눈 표면의 만성 low grade 감염
-
-•＜40세에서는 포도알균, 50대에는 비-포도알균 우세
-
-•세균 : impetigo(S. aureus), erysipelas(S. pyogenes), angular blepharitis(Moraxella)
-
-•바이러스 : 단순포진, 대상포진, 물사마귀, 인유두종
-
-•기생충 : 사면발니, Demodex folliculorum
-
-*   다른 피부 질환 : 아토피, 접촉피부염, 지루피부염, 건선, acne rosacea, ichthyosis, exfoliative dermatitis,
-
-    actinic keratosis, hemangioma; 기저세포암, 편평세포암, 피지성 암종, 흑색종
+  * ＜40세에서는 포도알균, 50대에는 비-포도알균 우세
+  * 세균 : impetigo(S. aureus), erysipelas(S. pyogenes), angular blepharitis(Moraxella)
+  * 바이러스 : 단순포진, 대상포진, 물사마귀, 인유두종
+  * 기생충 : 사면발니, Demodex folliculorum
+* 다른 피부 질환 : 아토피, 접촉피부염, 지루피부염, 건선, acne rosacea, ichthyosis, exfoliative dermatitis, actinic keratosis, hemangioma; 기저세포암, 편평세포암, 피지성 암종, 흑색종
 * 기타 피부 염증
 * 콘택트렌즈, 눈 화장, 외상/독성, 약물(isotretinoin, 항히스타민제, 항콜린제), 흡연
+
+### Red flags!
+
+* 안구의 심한 충혈, 통증, 광과민
+* 시각 장애
+* 치료에 반응하지 않음
 
 ## 종류
 
@@ -66,7 +63,10 @@
 * 눈꺼풀 발적, 부기, 가려움, 속눈썹 base 잔여물(fibrin exudate)
 * 시간이 지남에 따라 눈썹 탈락(madarosis), 첩모 난생(trichiasis), meibomian gland 범람 또는 농축
 
-![image](../.gitbook/assets/0b408c7e-1f06-44d8-ae0f-a7579d2a46e6.png)
+<table><thead><tr><th width="136">특징</th><th width="183">Anterior Eyelid – Staphylococcal</th><th width="155">Anterior Eyelid – Seborrheic</th><th>Posterior Eyelid – MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>딱딱한 비늘/잔여물 (딱지, 단단한 비늘/잔여물)</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증~중등증 충혈</td><td>경증 충혈</td><td>경증~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>흔함</td><td>흔함</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
+
+  _MGD = meibomian gland dysfunction_\
+  _Ref. AAO. Blepharitis PPP guideline. 2018. Table 2._
 
 ## 진단
 
@@ -108,28 +108,22 @@
 
 #### 국소제
 
-```
-(☞ p.192)
-```
-
-* 1차 선택 : erythromycin, bacitracin, azithromycin; 취침 시 도포(초기에는 중증도에 따라 자주(\~4회/일) 도포 후 줄일 수 있음)
+* 1차 선택 : erythromycin, bacitracin, azithromycin; 취침 시 도포(초기에는 중증도에 따라 자주(\~4회/일) 도포 후 줄일 수 있음) (☞ [p.192](038_-conjunctivitis.md#undefined-24))
 * 대체제 : fluoroquinolones; gatifloxacin 0.3% \[가티플로], levofloxacin 0.5% \[크라비트], moxifloxacin 0.5% \[모록사신]
 * 복합제 : polymyxin-B/neomycin + dexamethasone \[포러스]
-* 투여 기간 : 보통 1~~2주; 필요시 염증 소견 소실까지 4~~8주 적용
+* 투여 기간 : 보통 1\~2주; 필요시 염증 소견 소실까지 4\~8주 적용
 
 #### 경구제
 
 * 대상 : 국소제에 반응하지 않는 경우, 특히 meibomian gland 이환
 * 1차 선택 : doxycycline \[독시사이클린], minocycline 100 ㎎/d \[미노씬]; 호전 후 50% 감량하여 2\~6주간 투여
-*   대체제 : azithromycin 500 ㎎ qd ×3d \[지스로맥스] (✽1주 간격으로 3일씩 3차례 투여하는 것이 보다 효과적이라는 보고가
-
-    있음)
+* 대체제 : azithromycin 500 ㎎ qd ×3d \[지스로맥스] (✽1주 간격으로 3일씩 3차례 투여하는 것이 보다 효과적이라는 보고가 있음)
 
 ### 국소 항염증제
 
 * 대상 : 다른 치료로 호전되지 않는 중증, 재발성
-* steroid : loteprednol \[로테프로], fluorometholone \[오큐메토론], rimexolone \[벡솔]; 2\~3주 이내로 사용 기간 제한 (☞ p.189)
-* calcineurin inhibitor : cyclosporine \[레스타시스] (보험기준 ☞ p.204)
+* steroid : loteprednol \[로테프로], fluorometholone \[오큐메토론], rimexolone \[벡솔]; 2\~3주 이내로 사용 기간 제한 (☞ [결막염](038_-conjunctivitis.md#undefined-14))
+* calcineurin inhibitor : cyclosporine \[레스타시스] (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0001))
 * 항생제 복합제 : sulfacetamide sodium + prednisolone acetate
 
 ### 인공 눈물
@@ -146,6 +140,20 @@
 
 * 오메가-3 : 2 g tid \[오마코] (효과 입증은 불충분)
 
-> **질병코드** H01.0 안검염
 
-![image](../.gitbook/assets/c6078a71-c8c1-4c3f-bb12-81ea1315454f.JPG)
+
+### **질병코드**&#x20;
+
+H01.0 안검염
+
+
+
+### 처방례
+
+\
+처방례 1.\
+포러스 안연고 5 g/tube qid
+
+\
+처방례 2. 중증\
+모록사신 점안액 5 ㎖/병 qid 로테프로 점안액 5 ㎖/병 qid 미노씬 50 ㎎/C 2C #2

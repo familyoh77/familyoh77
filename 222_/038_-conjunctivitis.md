@@ -210,6 +210,12 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 
 <figure><img src="../.gitbook/assets/결막3.JPG" alt=""><figcaption></figcaption></figure>
 
+#### <mark style="color:$primary;">안약제 종류</mark>
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+_<mark style="color:$info;">NAAG=Nacetyl-aspartyl-glutamic acid, VKC=vernal keratoconjunctivitis, AKC=atopic keratoconjunctivitis Ref. EAACI. Management of ocular allergy. Allergy 2019;74.</mark>_
+
 ## <mark style="color:green;">알레르기 결막염 치료</mark>
 
 * 문지르지 않는 것이 중요
