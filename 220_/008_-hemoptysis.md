@@ -10,7 +10,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 대량 객혈 : ＞200 ㎖/48h or ＞50 ㎖/episode(BTS 2020); 출혈량수치보다 기도 폐쇄 여부가 더 중요
 * 빈호흡(＞30회/분), 산소 포화도 ＜88% in room air, 휴식 시 호흡 곤란, 호흡음 감소

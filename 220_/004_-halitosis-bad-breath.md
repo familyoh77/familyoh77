@@ -19,7 +19,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 토혈, 혈변·흑색변 동반 (위장관 출혈 시사)
 * 의식 변화, 황달, 급격한 전신 쇠약 (간부전·요독증 시사)

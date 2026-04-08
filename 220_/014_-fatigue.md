@@ -10,7 +10,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 (필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 국소 신경 이상 : 특정 부위의 감각 저하, 마비, 보행 장애 등
 * 항문 출혈 : 위장관 출혈을 시사하는 징후

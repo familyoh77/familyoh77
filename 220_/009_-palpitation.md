@@ -6,7 +6,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 (필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 흉통
 * 저혈압(SBP ＜90 ㎜Hg or DBP ＜60 ㎜Hg)

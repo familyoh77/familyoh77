@@ -12,7 +12,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 두통·구역·복시·의식 변화 동반 (뇌간 병변 시사)
 * 흉통·호흡 곤란·발한 동반(심근경색·대동맥 박리 시사)

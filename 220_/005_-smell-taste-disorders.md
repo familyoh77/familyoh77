@@ -15,7 +15,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 갑작스러운 편측 후각 완전 소실 + 두통, 시야 이상, 국소 신경학적 증상 (뇌종양·뇌졸중 시사)
 * 미각 이상 + 안면 편측 마비·감각 저하 (뇌신경 병변 시사)

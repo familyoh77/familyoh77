@@ -11,7 +11,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 아나필락시스 (갑작스러운 기침 및 호흡곤란)
 * 호흡 곤란, 빈호흡(＞30회/분)

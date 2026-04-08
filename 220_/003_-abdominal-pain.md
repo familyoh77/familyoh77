@@ -10,7 +10,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * Vital sign 불안정
 * 복막염 소견 : 복부 강직, 반동 압통
