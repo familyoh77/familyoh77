@@ -63,7 +63,7 @@
 * Sjögren syndrome 등 전신 질환 동반 의심(구강건조·관절통 병발)
 * 치료에도 증상이 임상 소견과 현저히 불일치 → 신경병증성 건성안(neuropathic dry eye) 의심
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 인공 눈물 등 1차 치료로 4\~6주 내 호전 없음
 * 난치성 증상으로 국소 면역억제제 사용 고려 시
@@ -131,51 +131,11 @@
 
 * 충혈, 이물감, 불편감이 나타날 수 있는 질환들의 감별
 
-<table><thead><tr><th width="125">질환</th><th width="250">건성안과의 차이점</th><th width="307">핵심 감별 포인트</th></tr></thead><tbody><tr><td>상공막염 <br>(Episcleritis)</td><td>국소적 선홍색 충혈(부채꼴 모양), 해당 부위 압통 양성; 분비물 없음</td><td>인공 눈물 무효; 국소 스테로이드 또는 경구 NSAID에 반응; 재발 잦음 → 안과 의뢰</td></tr><tr><td>결막이완증 <br>(Conjunctivo chalasis)</td><td>하결막의 과잉 주름이 각막 하부를 덮음; 눈을 뜰 때 하안검 안쪽 결막이 접혀 보임</td><td>Slit-lamp 검사로 결막 주름 확인; 인공 눈물 일부 효과 있으나 근본 치료는 결막 절제술 → 안과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="125">질환</th><th width="250">건성안과의 차이점</th><th width="307">핵심 감별 포인트</th></tr></thead><tbody><tr><td>상공막염<br>(Episcleritis)</td><td>국소적 선홍색 충혈(부채꼴 모양), 해당 부위 압통 양성; 분비물 없음</td><td>인공 눈물 무효; 국소 스테로이드 또는 경구 NSAID에 반응; 재발 잦음 → 안과 의뢰</td></tr><tr><td>결막이완증<br>(Conjunctivo chalasis)</td><td>하결막의 과잉 주름이 각막 하부를 덮음; 눈을 뜰 때 하안검 안쪽 결막이 접혀 보임</td><td>Slit-lamp 검사로 결막 주름 확인; 인공 눈물 일부 효과 있으나 근본 치료는 결막 절제술 → 안과 의뢰</td></tr></tbody></table>
 
 ### <mark style="color:orange;">진단 및 치료 플로우차트 (TFOS DEWS III, 2025)</mark>
 
-{% hint style="info" %}
-아래 Mermaid 코드를 GitBook 에디터에서 **/** → **Diagram** 블록으로 삽입하십시오.
-{% endhint %}
-
 _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reporting (2025); Management & Therapy (2025). ocularsurf.com</mark>_
-
-```
-graph TD
-    Start([안구 불편감 호소 환자]) --> Screen{증상 선별 검사<br/>OSDI-6 ≥ 4 또는<br/>DEQ-5 ≥ 6}
-
-    Screen -- No --> OSD[안구건조증 아님<br/>타 안질환 감별]
-    Screen -- Yes --> Homeo{눈물막 항상성 이상<br/>1가지 이상 양성}
-
-    Homeo --> NIBUT[비침습적 눈물막 파괴시간<br/>NIBUT < 10초]
-    Homeo --> OSM[삼투압 ≥ 308 mOsm/L<br/>또는 양안 차 > 8]
-    Homeo --> Stain[안구 표면 염색 양성<br/>각결막 형광 염색 이상]
-    NIBUT --> DED{건성안 질환 DED 진단}
-    OSM --> DED
-    Stain --> DED
-    Homeo -- No --> PreDED[증상은 있으나 징후 없음<br/>신경감각 이상/전단계 DED 고려<br/>안과 의뢰]
-
-    DED --> Subtype{아형 분류 검사<br/>Schirmer / 마이봄샘 평가}
-    Subtype --> ADDE[수성 눈물 결핍형 ADDE<br/>TMH < 0.2mm 또는<br/>Schirmer ≤ 5mm]
-    Subtype --> EDE[증발 과다형 EDE/MGD<br/>마이봄샘 구조/기능 이상<br/>지질층 두께 감소]
-    Subtype --> Mixed[혼합형 Mixed<br/>가장 흔한 임상 형태]
-
-    ADDE --> Tx1[무방부제 인공눈물<br/>누점 폐쇄술 / 보호 안경]
-    EDE --> Tx2[온찜질·눈꺼풀 세정<br/>지질 포함 인공눈물<br/>IPL / LipiFlow]
-    Mixed --> Tx3[복합 치료 전략]
-    Tx1 --> Inflam{염증 조절 필요성?}
-    Tx2 --> Inflam
-    Tx3 --> Inflam
-
-    Inflam -- Yes --> Meds[국소 면역억제제 / 리바미피드<br/>단기 스테로이드 점안]
-    Inflam -- No --> Follow[환경 개선 및<br/>정기 관찰]
-
-    style DED fill:#f96,stroke:#333,stroke-width:2px
-    style ADDE fill:#e1f5fe,stroke:#01579b
-    style EDE fill:#fff3e0,stroke:#e65100
-    style Mixed fill:#f3e5f5,stroke:#4a148c
-```
 
 ***
 
