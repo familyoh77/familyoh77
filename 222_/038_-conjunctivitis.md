@@ -107,11 +107,11 @@
 
 ## <mark style="color:green;">세균 결막염 (Bacterial Conjunctivitis)</mark>
 
-* 원인균 : S. aureus (가장 흔함), S. pneumoniae, H. influenzae, M. catarrhalis
+* 원인균 : _S. aureus_ (가장 흔함), _S. pneumoniae_, _H. influenzae_, _M. catarrhalis_
   * 렌즈 착용과 관련하여 발생한 경우에는 세균 감염의 가능성이 많음
 * 경과 : 한쪽에서 시작 → 1\~2일 내 반대쪽 전이 → 보통 1\~2주 내 자연 회복
 * 전염 기간 : 증상 발생 후 7일간
-* 균 동정 검사 대상 : 신생아, 면역저하자, N. gonorrhoeae 또는 C. trachomatis 의심
+* 균 동정 검사 대상 : 신생아, 면역저하자, _N. gonorrhoeae_ 또는 _C. trachomatis_ 의심
 
 ### <mark style="color:orange;">임상 양상</mark>
 
@@ -139,9 +139,9 @@
 * 증상 : 편측 또는 양측 충혈, 경미한 가려움, 점액성 분비물, 결막 비후
 * 치료 : 최근에 사용한 렌즈 및 케이스 폐기 또는 철저 소독
   * 알레르기 또는 감염 의심 양상 시 이에 대하여 치료
-  * 항생제 투여 시 흔한 원인균인 P. aeruginosa에 대하여 quinolone 제제 선택
+  * 항생제 투여 시 흔한 원인균인 _P. aeruginosa_에 대하여 quinolone 제제 선택
 
- ※ 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 단순 결막염으로 간과하기 쉬우나 Pseudomonas에 의한 세균 각막 궤양으로 신속히 진행할 수 있으므로 각막 혼탁·침윤 여부를 반드시 확인하고, 의심 시 즉시 의뢰
+ ※ 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 단순 결막염으로 간과하기 쉬우나 _Pseudomonas_에 의한 세균 각막 궤양으로 신속히 진행할 수 있으므로 각막 혼탁·침윤 여부를 반드시 확인하고, 의심 시 즉시 의뢰
 
 #### <mark style="color:$primary;">기계적 결막염</mark>
 
@@ -223,10 +223,10 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 #### <mark style="color:$primary;">경구 항히스타민제</mark>
 
 * 국소 항히스타민제보다 늦게 반응, 효과 적음, 안구 건조를 유발할 수 있음 (☞ p.1144)
-* cetirizine : 10 ㎎ qd \[지르텍]
-* fexofenadine : 120 ㎎ qd \[알레그라]
-* loratadine : 10 ㎎ qd \[클라리틴]
-* mequitazine : 5 ㎎ bid \[프리마란]
+* cetirizine : 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
+* fexofenadine : 120 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>
+* loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
+* mequitazine : 5 ㎎ bid <mark style="color:blue;">\[프리마란]</mark>
 
 #### <mark style="color:$primary;">국소 비만 세포 안정제</mark>
 
@@ -251,7 +251,7 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 * 사용 2일 내 호전되지 않는 경우 재평가
 * 부작용 : 장기 사용 시 안압 상승, 바이러스 감염, 백내장
 * 주의 : herpes simplex, fungal, keratitis 등에서 사용하는 경우 각막 손상이 발생할 수 있음
-* loteprednol \[로테프로], rimexolone \[벡솔], fluorometholone \[오큐메토론]이 상대적으로 부작용이 적음
+* loteprednol <mark style="color:blue;">\[로테프로]</mark>, rimexolone <mark style="color:blue;">\[벡솔]</mark>, fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>이 상대적으로 부작용이 적음
 
 #### <mark style="color:$primary;">국소 비내 Steroid</mark>
 
@@ -262,7 +262,7 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 
 * 적용 : vernal or atopic keratoconjunctivitis의 steroid 의존 환자에서 steroid 대체 고려
 * 이 약제의 사용을 고려할 정도의 심한 환자는 의뢰를 고려
-* 종류 : 국소 cyclosporine \[레스타시스]\(☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)), 국소 tacrolimus(CsA에 난치성인 경우)&#x20;
+* 종류 : 국소 cyclosporine <mark style="color:blue;">\[레스타시스]</mark>\(☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)), 국소 tacrolimus(CsA에 난치성인 경우)&#x20;
 
 #### <mark style="color:$primary;">알레르겐 면역 치료</mark>
 
@@ -292,7 +292,7 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 
 * adenovirus 등 일반적으로는 효과 없음
 * herpes 감염에 적용 (헤르페스 의심 시 의뢰)
-* 국소 : ganciclovir \[버간], trifluridine \[오큐플리딘]
+* 국소 : ganciclovir <mark style="color:blue;">\[버간]</mark>, trifluridine <mark style="color:blue;">\[오큐플리딘]</mark>
 * 경구 : acyclovir, valacyclovir (☞ [단순포진](../229_/181_-herpes-simplex.md#undefined-14))
 
 ## <mark style="color:green;">세균 결막염 치료</mark>
@@ -309,61 +309,101 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 * 치료 시작 2일째에도 반응하지 않으면 의뢰 고려
 * quinolone제는 1차로 선택하지 않으며 수술 후, 콘택트렌즈 관련 결막염, 다른 항생제에 내성이 있는 경우에 고려
 
-<table><thead><tr><th width="385">성분명 [상품명]</th><th width="141">적응증 균주</th><th width="104">용법</th></tr></thead><tbody><tr><td>tobramycin [토라빈]</td><td>SA, SP, H, E, P</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/TMP</td><td>SA, SP, H, E</td><td>q3h</td></tr><tr><td>erythromycin/colistin</td><td>SA, SP, H, N</td><td>qhs~qid</td></tr><tr><td>bacitracin</td><td>SA, SP, N</td><td>qhs~qid</td></tr><tr><td>oxytetracycline/polymyxin-B [테라마이신]</td><td>SA, E, N</td><td>q2h~qid</td></tr><tr><td>chloramphenicol [클로람페니콜]</td><td>SA, H</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/neomycin</td><td>SA, P</td><td>qid</td></tr><tr><td>Na sulfacetamide</td><td>SP, H</td><td>q2h~qid</td></tr><tr><td>sulfisoxazole diolamine</td><td>SP, H</td><td>qid</td></tr><tr><td>ciprofloxacin [씨펙스], ofloxacin [타리비드], levofloxacin [크라비트], moxifloxacin [모록사신]</td><td>SA, SP, H, P</td><td>q2h~qid</td></tr></tbody></table>
+<table><thead><tr><th width="385">성분명 [상품명]</th><th width="141">적응증 균주</th><th width="104">용법</th></tr></thead><tbody><tr><td>tobramycin <mark style="color:blue;">\[토라빈]</mark></td><td>SA, SP, H, E, P</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/TMP</td><td>SA, SP, H, E</td><td>q3h</td></tr><tr><td>erythromycin/colistin</td><td>SA, SP, H, N</td><td>qhs~qid</td></tr><tr><td>bacitracin</td><td>SA, SP, N</td><td>qhs~qid</td></tr><tr><td>oxytetracycline/polymyxin-B <mark style="color:blue;">\[테라마이신]</mark></td><td>SA, E, N</td><td>q2h~qid</td></tr><tr><td>chloramphenicol <mark style="color:blue;">\[클로람페니콜]</mark></td><td>SA, H</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/neomycin</td><td>SA, P</td><td>qid</td></tr><tr><td>Na sulfacetamide</td><td>SP, H</td><td>q2h~qid</td></tr><tr><td>sulfisoxazole diolamine</td><td>SP, H</td><td>qid</td></tr><tr><td>ciprofloxacin <mark style="color:blue;">\[씨펙스]</mark>, ofloxacin <mark style="color:blue;">\[타리비드]</mark>, levofloxacin <mark style="color:blue;">\[크라비트]</mark>, moxifloxacin <mark style="color:blue;">\[모록사신]</mark></td><td>SA, SP, H, P</td><td>q2h~qid</td></tr></tbody></table>
 
-_<mark style="color:$info;">SA=S. aureus, SP=S. pneumoniae, H=H. influenzae, P=P. aeruginosa, E=Escherichia coli, N=Neisseria, TMP=trimethoprim.</mark>_\
-&#xNAN;_<mark style="color:$info;">Ref. American optometric association. Care of the patient with conjunctivitis. 2002.</mark>_
+_SA=S. aureus, SP=S. pneumoniae, H=H. influenzae, P=P. aeruginosa, E=Escherichia coli, N=Neisseria, TMP=trimethoprim._\
+_Ref. American optometric association. Care of the patient with conjunctivitis. 2002._
 
 #### <mark style="color:$primary;">국소 항생제 대용</mark>
 
-* povidone-iodine : 항생제 대체 또는 보조 \[티어드롭]
+* povidone-iodine : 항생제 대체 또는 보조 <mark style="color:blue;">\[티어드롭]</mark>
 
 #### <mark style="color:$primary;">국소 항생제/Steroid 복합제</mark>
 
 * steroid : 증상 완화 효과; 부작용 주의
-* tobramycin + dexamethasone \[토브라덱스]
-* polymyxin-B/neomycin + dexamethasone \[포러스]
+* tobramycin + dexamethasone <mark style="color:blue;">\[토브라덱스]</mark>
+* polymyxin-B/neomycin + dexamethasone <mark style="color:blue;">\[포러스]</mark>
 * chloramphenicol + dexamethasone
 
 #### <mark style="color:$primary;">경구 항생제</mark>
 
 **Chlamydial conjunctivitis**
 
-* doxycycline : 100 ㎎ bid ×14d \[독시사이클린]
+* doxycycline : 100 ㎎ bid ×14d <mark style="color:blue;">\[독시사이클린]</mark>
 * erythromycin : 250 ㎎ qid ×14d
 
 **Gonococcal conjunctivitis**
 
-* ceftriaxone : 1 g IM × 1회 \[트리악손]
+* ceftriaxone : 1 g IM × 1회 <mark style="color:blue;">\[트리악손]</mark>
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-A74.0 클라미디아결막염\
-B00.52 헤르페스결막염\
-B30 바이러스결막염\
-H10 결막염\
-H10.1 급성 아토피결막염\
-H11 결막의 기타 장애\
-H13.1 달리 분류된 감염성 및 기생충성 질환에서의 결막염 H16 각막염
+A74.0 클라미디아결막염
+
+B00.52 헤르페스결막염
+
+B30 바이러스결막염
+
+H10 결막염
+
+H10.1 급성 아토피결막염
+
+H11 결막의 기타 장애
+
+H13.1 달리 분류된 감염성 및 기생충성 질환에서의 결막염
+
+H16 각막염
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
-처방례 1. 알레르기성 결막염\
-파타놀 점안액 5 ㎖/병 bid\
-오큐메토론 점안액 5 ㎖/병 qid\
-지르텍 10 ㎎/T 1T qd 저녁
+> **처방례 1. 알레르기 결막염**
+>
+> ```
+> 파타놀 점안액(0.1%) 5 ㎖/병  1방울 bid (증상 지속 시까지)
+> 오큐메토론 점안액 5 ㎖/병  1방울 qid (단기 2주 이내; 증상 조절 후 중단)
+> 지르텍 10 ㎎/T  1T qd 저녁 (가려움 심할 때)
+> ```
+>
+> _✽파타놀(olopatadine 0.1%) : 항히스타민 + 비만세포 안정 복합 작용; 증상 심할 경우 olopatadine과 국소 steroid(오큐메토론) 병용. 스테로이드는 2주 이내 단기 사용 후 반드시 재평가_\
+> _✽파타놀-S(olopatadine 0.2%) 처방 시 용법이 **qd**로 변경됨 (1일 1회로 감량)_
 
-\
-처방례 2. 바이러스성 결막염\
-나조린 점안액 15 ㎖/병 qid (비보험) 브로낙 점안액 5 ㎖/병 bid
+> **처방례 2. 바이러스 결막염**
+>
+> ```
+> 나조린 점안액 15 ㎖/병  1방울 qid (비급여; 증상 완화 목적)
+> 브로낙 점안액 5 ㎖/병  1방울 bid (이물감·불편감 완화)
+> ```
+>
+> _✽바이러스 결막염은 특이 치료제 없음. 냉찜질·인공눈물 병행 권고. 치료 후 3\~5일간 증상이 더 심해질 수 있음을 환자에게 미리 설명_
 
-\
-처방례 3 세균성 결막염\
-토브라 5 ㎖/병 점안액 qid
+> **처방례 3. 세균 결막염**
+>
+> ```
+> 토브라 점안액 5 ㎖/병  1방울 qid ×5~7d (수일 후 호전 시 bid로 감량)
+> ```
+>
+> _✽경증은 자연 치유가 원칙; 증상이 심하거나 콘택트렌즈 사용자, 면역저하자에서 항생제 고려. 2일째에도 반응 없으면 의뢰_\
+> _✽콘택트렌즈 사용자는 P. aeruginosa 각막 궤양 위험이 높으므로 퀴놀론계(예: 크라비트, 모록사신) 우선 고려_
+
+> **처방례 4. 클라미디아 결막염 (경구)**
+>
+> ```
+> 독시사이클린 100 ㎎/T  1T bid ×14d
+> ```
+>
+> _✽성 파트너 동시 치료 필요_
+
+> **처방례 5. 임균 결막염 (응급)**
+>
+> ```
+> 트리악손주 1 g  IM × 1회
+> ```
+>
+> _✽즉각 안과 의뢰. 시간당 생리식염수 안구 세척 병행. 성 파트너 동시 치료 필요_
 
 ***
 
