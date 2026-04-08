@@ -1,6 +1,6 @@
 # 인후두역류 Laryngopharyngeal Reflux, LPR
 
-![image](../.gitbook/assets/34df456f-c031-4a75-87b3-e27b4147a07c.JPG)
+![image](../../.gitbook/assets/34df456f-c031-4a75-87b3-e27b4147a07c.JPG)
 
 ## 일반 사항
 
@@ -35,7 +35,7 @@
 
 ## 임상 양상
 
-* 쉰 목소리 또는 발성 장애 (＞⅔에서 발생)![image](../.gitbook/assets/aa0758e9-521b-4c4f-9101-b3ec991a044a.JPG)
+* 쉰 목소리 또는 발성 장애 (＞⅔에서 발생)![image](../../.gitbook/assets/aa0758e9-521b-4c4f-9101-b3ec991a044a.JPG)
 * 가래가 없는 만성 기침 또는 목 청소 (½에서 발생)
 * 가슴쓰림 (⅓에서 발생)
 * 인두의 덩어리 느낌, 삼킴곤란
@@ -113,4 +113,4 @@
 
 K21.9 식도염을 동반하지 않은 위-식도역류병
 
-![image](../.gitbook/assets/6d573138-e2fc-4863-b11f-75f18f2ac62c.JPG)
+![image](../../.gitbook/assets/6d573138-e2fc-4863-b11f-75f18f2ac62c.JPG)

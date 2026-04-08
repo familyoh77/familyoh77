@@ -97,7 +97,7 @@
 * 호산구성 기도 염증이 있으나 기도과반응성(airway hyperresponsiveness)은 없어 천식과 구별됨
 * 임상 양상 : 만성 마른기침; 호흡곤란·천명 없음
 * 진단 : FeNO 상승(＞25 ppb), 객담 호산구 증가(＞3%); 기관지유발시험 정상
-* 치료 : 흡입 스테로이드([ICS](../223_/071_-asthma.md#inhaled-corticosteroid-ics))에 잘 반응함
+* 치료 : 흡입 스테로이드([ICS](../222_/223_/071_-asthma.md#inhaled-corticosteroid-ics))에 잘 반응함
 
 #### <mark style="color:$primary;">기침과민증후군 (Cough hypersensitivity syndrome, CHS)</mark>
 
@@ -175,7 +175,7 @@
 * 금연 : 만성 기침이 있는 흡연자의 90%에서 금연 후 기침이 호전됨 (보통 1개월 내 회복)
 * 직업적 노출 회피 또는 차단; 미세먼지·황사 등 대기오염 심한 날에는 외출 자제 및 보건용 마스크(KF80 이상) 착용 권고
 * 원인 치료, 기저 질환 치료
-* 대증 치료 : [진해제](../223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../223_/060_-common-cold.md#decongestant), [흡입 steroid](../222_/051_-allergic-rhinitis.md#steroid)
+* 대증 치료 : [진해제](../222_/223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../222_/223_/060_-common-cold.md#decongestant), [흡입 steroid](../222_/051_-allergic-rhinitis.md#steroid)
 * ACEI를 복용 중인 경우 ARB(안지오텐신 수용체 차단제)로 교체&#x20;
   * ARB는 브라디키닌 경로에 영향을 주지 않으므로 기침 부작용이 현저히 낮음
 

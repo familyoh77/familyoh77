@@ -1,6 +1,6 @@
 # 급성 기관지염 Acute Bronchitis
 
-![image](../.gitbook/assets/2f7be462-0122-4b84-aeeb-385d2973c8c8.JPG)
+![image](../../.gitbook/assets/2f7be462-0122-4b84-aeeb-385d2973c8c8.JPG)
 
 ## 일반 사항
 
@@ -101,4 +101,4 @@
 
 J68 화학 물질, 가스, 훈증기 및 물김의 흡입에 의한 호흡기병태
 
-![image](../.gitbook/assets/398e0bbb-dd3d-4ec1-a369-48465c3c6377.JPG)
+![image](../../.gitbook/assets/398e0bbb-dd3d-4ec1-a369-48465c3c6377.JPG)

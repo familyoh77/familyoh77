@@ -211,7 +211,7 @@
 * 노르에피네프린·세로토닌 재흡수 억제 기전으로 신경병성 통증에 유리
 * 작용 : 약한 opioid, SNRI action
 * 대사 : CYP 2D6(major), 3A4(minor)
-* 다음 약제 병용 시 부작용 증가 : MAOI, SSRI, TCA, trimebutine (trimebutine이opioid 수용체에 작용)함
+* 다음 약제 병용 시 부작용 증가 : MAOI, SSRI, TCA, trimebutine (\*trimebutine이opioid 수용체에 작용)
 * 발작 역치 저하·세로토닌 증후군 주의; 경련 발생 위험이 있으므로 고령이나 간/신기능 저하자에서는 감량
 * 용법 : 50 ㎎ → 필요시 증량 100 ㎎ bid\~qid <mark style="color:blue;">\[트리돌]</mark>
 * acetaminophen 또는 NSAID 병용으로 효과 상승
@@ -257,7 +257,7 @@
 * 병력 청취, 이학적 검사, 다양한 평가 도구로 환자 상태를 파악한 이후 꼭 필요한 경우에만 고려
 * 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정
 * 목표 미달 시 중단 고려 - 효과가 입증되지 않은 아편유사제의 관성적 지속 처방 방지
-* 펜타닐 포함 마약류 처방 시 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/)) 투약 이력을 반드시확인해야 함(의무)
+* 펜타닐 포함 마약류 처방 시 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/)) 투약 이력을 반드시 확인해야 함(의무)
 
 **처방 시작**
 
@@ -276,7 +276,7 @@
 
 * 감량 속도는 환자의 임상 상황에 따라 개별화
   * 1년 이상 복용 : 월 10%씩 감량
-  * 수주\~수개월 복용 : 주 10%씩 감량 → 원래 용량의 30%에 도달 후 남은 용량의 주 10%씩 감량
+  * 수주\~수개월 복용 : 주 10%씩 감량 → 원래 용량의 30%에 도달 후 남은 용량은 주 10%씩 감량
 * 급성 통증으로 단기 사용한 경우 (별도 기준)
   * 1주 이상\~1개월 미만 : 2일마다 약 20%씩 감량
   * 3일 이상\~1주 미만 : 2일간 일일 용량을 50%로 감량 후 중단
@@ -501,7 +501,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 † GI 출혈에 대한 pooled OR (비사용 대비); 낮을수록 위험 적음\
 ‡ 신규 메타분석(Tawfik 2026) 미포함 약제 -구형 메타분석(Castellsague 2012) 상대위험도(RR) 값\
-\&#xNAN;_<mark style="color:$info;">Ref. Tawfik AG et al. Nonsteroidal Anti-Inflammatory Drugs and Risk of Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. Clin Pharmacol Ther. 2026;119(1):46–62. / 미포함 약제(‡): Castellsague J et al. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf. 2012;35(12):1127–46.</mark>_
+&#xNAN;_<mark style="color:$info;">Ref. Tawfik AG et al. Nonsteroidal Anti-Inflammatory Drugs and Risk of Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. Clin Pharmacol Ther. 2026;119(1):46–62. / 미포함 약제(‡): Castellsague J et al. Individual NSAIDs and Upper Gastrointestinal Complications. Drug Saf. 2012;35(12):1127–46.</mark>_
 
 #### <mark style="color:$primary;">**Oxford league table**</mark>
 

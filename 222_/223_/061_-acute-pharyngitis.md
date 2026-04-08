@@ -1,6 +1,6 @@
 # 급성 인두염 Acute Pharyngitis
 
-![image](../.gitbook/assets/6a7dc37f-3d83-41f0-b6ce-1a72dea810f2.JPG)
+![image](../../.gitbook/assets/6a7dc37f-3d83-41f0-b6ce-1a72dea810f2.JPG)
 
 ## 일반 사항
 
@@ -22,7 +22,7 @@
 
 ### 위험 인자
 
-* 늦가을\~초봄의 감기/독감 유행 시기![image](../.gitbook/assets/4389180d-08b0-4781-b2b1-358116adcc36.JPG)
+* 늦가을\~초봄의 감기/독감 유행 시기![image](../../.gitbook/assets/4389180d-08b0-4781-b2b1-358116adcc36.JPG)
 * 연령 : 소아, 청소년
 * rheumatic fever 가족력
 * 보육 시설, 학교 등 집단 생활
@@ -35,7 +35,7 @@
 
 *   주요 증상 : 인후통, 삼킴곤란
 
-    ![image](../.gitbook/assets/7d2da0c9-6e93-4f44-91f3-d723092029f4.JPG)
+    ![image](../../.gitbook/assets/7d2da0c9-6e93-4f44-91f3-d723092029f4.JPG)
 * 인두 궤양 : CMV, HIV, 크론병, 혈관염 관련
 * 편도/연구개 점상 출혈 : EBV, CMV 관련
 * adenovirus 감염 시 인두결막열(발열은 7일, 결막염은 14일간 지속될 수 있음)
@@ -130,7 +130,7 @@
 * 예방적 항생제 치료 : 급성 류마티스열 병력 환자에서 적용
 *   S. pyogenes (GABHS) 급성 인두편도염의 권고 항생제 용량 및 치료 기간
 
-    ![image](../.gitbook/assets/f1c00b98-95be-4aec-815f-296834451ca1.JPG)
+    ![image](../../.gitbook/assets/f1c00b98-95be-4aec-815f-296834451ca1.JPG)
 *   \[NICE 지침] phenoxymethylpenicillin ×5~~10d (1차 선택제); Pc 알레르기 시 clarithromycin 250~~500 ㎎ bid ×5d;
 
     임신부에서 erythromycin 250~~500 ㎎ qid or 500~~1000 ㎎ bid ×5d
@@ -144,7 +144,7 @@
 * 경구 steroid : 증상 완화에 도움을 줄 수 있으나 일률적 사용은 권하지 않음. steroid의 부작용을 고려하여 결정
 *   국소 마취제/진통제 : 심한 인후통에 대하여 도포 또는 가글 (비보험)
 
-    •lidocaine [카미스타드-엔 겔](../%E2%89%A512%EC%84%B8/), benzocaine \[허리케인 겔], diclofenac \[아프니벤큐 액]
+    •lidocaine [카미스타드-엔 겔](../../%E2%89%A512%EC%84%B8/), benzocaine \[허리케인 겔], diclofenac \[아프니벤큐 액]
 
 ## 예방
 
@@ -153,4 +153,4 @@
 
 > **질병코드** J02 급성 인두염
 
-![image](../.gitbook/assets/7d8d8b92-02d7-4d56-8f30-1eab508e1e73.JPG)
+![image](../../.gitbook/assets/7d8d8b92-02d7-4d56-8f30-1eab508e1e73.JPG)

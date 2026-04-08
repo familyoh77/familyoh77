@@ -1,6 +1,6 @@
 # 폐렴 Pneumonia
 
-![image](../.gitbook/assets/5ad57548-9640-4b0c-8b5e-f60f25f65bfe.JPG)
+![image](../../.gitbook/assets/5ad57548-9640-4b0c-8b5e-f60f25f65bfe.JPG)
 
 ## 일반 사항
 
@@ -27,7 +27,7 @@
 * 장기 입원, 보호시설 거주자 : 그람음성 균주(예: 녹농균)
 * COPD, 흡연 : H. influenzae , P. aeruginosa , Legionella , S. pneumoniae
 * 음주 : S. pneumoniae , 혐기성균, 그람음성균, 결핵균
-* 젊은 성인, 여름/가을 : M. pneumoniae![image](../.gitbook/assets/076e036b-7295-42c6-8e19-4bd6df6e8e3f.JPG)
+* 젊은 성인, 여름/가을 : M. pneumoniae![image](../../.gitbook/assets/076e036b-7295-42c6-8e19-4bd6df6e8e3f.JPG)
 * 냉방 노출 : Legionella
 * 흡인, 불결한 치아 위생 : 혐기성, mixed flora
 
@@ -75,7 +75,7 @@
 
 *   주 기준 ≥1개 or 부 기준 ≥3개
 
-    ![image](../.gitbook/assets/3045ef32-8a3b-4d1b-bedf-9795d37762a9.JPG)
+    ![image](../../.gitbook/assets/3045ef32-8a3b-4d1b-bedf-9795d37762a9.JPG)
 
 ### 영상 검사
 
@@ -156,7 +156,7 @@
     •최적의 항생제 선택은 원인균에 따른 것이지만 명확한 원인균을 찾는 것이 어려움
 *   투여 기간 : 임상 척도들(vital sign, 섭식 능력, 정신 능력)이 안정될 때까지 ≥5일 투여
 
-    ![image](../.gitbook/assets/e5333735-e84c-417d-a9e3-7c38493ff03f.JPG)
+    ![image](../../.gitbook/assets/e5333735-e84c-417d-a9e3-7c38493ff03f.JPG)
 * 재평가 : 항생제 투여 종료 3일 후 재평가, 악화되면 즉시 재평가
 
 #### Mycoplasma pneumoniae/ Chlamydophila pneumoniae
@@ -226,4 +226,4 @@ J15 달리 분류되지 않은 세균성 폐렴
 
 J18 상세불명 병원체의 폐렴
 
-![image](../.gitbook/assets/d9b8c696-8dde-40e3-9290-2796b77e711b.JPG)
+![image](../../.gitbook/assets/d9b8c696-8dde-40e3-9290-2796b77e711b.JPG)

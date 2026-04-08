@@ -161,8 +161,8 @@
   * 투여 전 혈압 확인 필수 : SBP ＜90 ㎜Hg 시 투여 금기 (혈압 감소로 관류 저하 위험)
   * furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요 시 반복 <mark style="color:blue;">\[라식스]</mark>(40 ㎎/T, 20 ㎎/A); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
 * 빈맥(supraventricular tachycardia) : Valsalva maneuver, 경동맥동 마사지(고령 또는 허혈성 심질환에서는 피함)
-* 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI <mark style="color:blue;">\[벤토린]</mark> (☞ [벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
-* Steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d <mark style="color:blue;">\[소론도]</mark>(5 ㎎/T) (☞ [소론도](../223_/071_-asthma.md#undefined-50))
+* 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI <mark style="color:blue;">\[벤토린]</mark> (☞ [벤토린](../222_/223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
+* Steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d <mark style="color:blue;">\[소론도]</mark>(5 ㎎/T) (☞ [소론도](../222_/223_/071_-asthma.md#undefined-50))
 
 ***
 

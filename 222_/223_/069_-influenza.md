@@ -1,13 +1,13 @@
 # 인플루엔자 Influenza
 
-![image](../.gitbook/assets/a0901081-9e40-4a85-8dd7-e7a106de0fd6.JPG)
+![image](../../.gitbook/assets/a0901081-9e40-4a85-8dd7-e7a106de0fd6.JPG)
 
 ## 일반 사항
 
 * influenza 바이러스 감염에 의한, 갑자기 시작되는 전신 증상 및 호흡기 증상을 일으키는 급성 호흡기 질환
 * 전염 경로 : 기침/재채기/대화/호흡 시의 호흡기 분비물에 의한 공기 매개(droplet, airborne) 및 직간접 접촉 전염
 * 잠복기 : 1\~4일(평균 2일)
-* 증상 기간 : 7\~14일![image](../.gitbook/assets/659cd0be-b412-48d8-864a-055f1ab3b5a9.JPG)
+* 증상 기간 : 7\~14일![image](../../.gitbook/assets/659cd0be-b412-48d8-864a-055f1ab3b5a9.JPG)
 *   전염 기간 : 증상 발생 1~~2일 전~~발생 후 5\~7일(or 발열 소멸 후 24시간);
 
     면역저하자와 소아에서는 연장될 수 있음(＞10일)
@@ -39,7 +39,7 @@
 
     모두에서 발생하며 소유행 유발. 거의 매년 발생
 
-## 임상 양상![image](../.gitbook/assets/0388c7cf-adee-401b-9fbe-cad0de07ec4c.JPG)
+## 임상 양상![image](../../.gitbook/assets/0388c7cf-adee-401b-9fbe-cad0de07ec4c.JPG)
 
 * 고열(38~~41℃, 3~~7일간), 오한, 두통, 근육통
 *   기침(nonproductive), 인후통, 콧물 (전형적 증상은 환자의 50%에서만
@@ -171,7 +171,7 @@
 
     \[페라미플루]; ≥2세 허가 (비보험)
 
-    ![image](../.gitbook/assets/0f3856b8-d3b6-40a2-8e31-6c5ed758723b.JPG)
+    ![image](../../.gitbook/assets/0f3856b8-d3b6-40a2-8e31-6c5ed758723b.JPG)
 
 ## 예방
 
@@ -233,4 +233,4 @@
 
 J11 바이러스가 확인되지 않은 인플루엔자
 
-![image](../.gitbook/assets/c9fc9a7d-963e-4f44-b82d-b283250268f1.JPG)
+![image](../../.gitbook/assets/c9fc9a7d-963e-4f44-b82d-b283250268f1.JPG)

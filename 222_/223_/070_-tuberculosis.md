@@ -1,6 +1,6 @@
 # 결핵 Tuberculosis
 
-![image](../.gitbook/assets/92e3f579-45a9-45b3-91f6-709d1806619b.JPG)
+![image](../../.gitbook/assets/92e3f579-45a9-45b3-91f6-709d1806619b.JPG)
 
 ## 일반 사항
 
@@ -82,7 +82,7 @@
 1. 폐결핵 의심 시 흉부 X선, 가래 항산균 도말 및 배양 검사, Tb-PCR 검사
 2.  검사 결과에 따라 다음 조치 (결핵 확인 시 보건소에 신고)
 
-    ![image](../.gitbook/assets/40a0dd09-80e3-4915-8f8e-91ab71587dfb.png)
+    ![image](../../.gitbook/assets/40a0dd09-80e3-4915-8f8e-91ab71587dfb.png)
 
 영상 검사
 
@@ -328,7 +328,7 @@ Pyrazinamide, PZA
 
 * 초치료 시 피라진아미드를 사용하지 못하는 경우 이소니아지드, 리팜핀, 에탐부톨 9개월 투여
 
-> ✽복합제 사용으로 투약 순응도를 높일 수 있음. 예) [리파터](../HRZ/), [튜비스투](../HR/)
+> ✽복합제 사용으로 투약 순응도를 높일 수 있음. 예) [리파터](../../HRZ/), [튜비스투](../../HR/)
 
 #### 치료 기간 연장
 
@@ -356,7 +356,7 @@ Pyrazinamide, PZA
 
     치료 종결 시점 혹은 종결 후 6개월 이내에 폐기능 검사를 권고
 
-![image](../.gitbook/assets/3f4a6a83-34a5-4962-b87b-60ea6c843e8a.png)
+![image](../../.gitbook/assets/3f4a6a83-34a5-4962-b87b-60ea6c843e8a.png)
 
 ### 초치료 결과의 분류
 
@@ -404,7 +404,7 @@ Pyrazinamide, PZA
 * 결핵 자체에 의한 발열과 약제에 의한 발열의 감별 필요
 *   약제열인 경우 모든 약을 중단하면 24시간 이내에 발열이 소실됨
 
-    ![image](../.gitbook/assets/aabfaeb9-c36a-4277-8bc3-ba367c69b0a8.JPG)
+    ![image](../../.gitbook/assets/aabfaeb9-c36a-4277-8bc3-ba367c69b0a8.JPG)
 
 ## 특별한 경우의 치료
 
@@ -570,7 +570,7 @@ Pyrazinamide, PZA
 ![image](images/4ff11f54-01a5-4526-8087-8db6b19c5bc8.png)
 ```
 
-### ![image](../.gitbook/assets/67e9156d-d9b3-44e1-bdda-19c21fdeecc6.png)
+### ![image](../../.gitbook/assets/67e9156d-d9b3-44e1-bdda-19c21fdeecc6.png)
 
 ### 치료 및 검사
 
@@ -684,4 +684,4 @@ A15\~A19 결핵
 
 R76.80 잠복결핵
 
-![image](../.gitbook/assets/478c64e4-7d55-4b12-807a-6538a248d766.JPG)
+![image](../../.gitbook/assets/478c64e4-7d55-4b12-807a-6538a248d766.JPG)

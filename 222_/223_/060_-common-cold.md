@@ -1,6 +1,6 @@
 # 감기 Common Cold
 
-![image](../.gitbook/assets/4199da5a-e8fc-47b6-b205-0609ef8f771c.JPG)
+![image](../../.gitbook/assets/4199da5a-e8fc-47b6-b205-0609ef8f771c.JPG)
 
 ## 일반 사항
 
@@ -87,7 +87,7 @@
 
     또는 비부비동염을 판단할 수 없음
 
-    ![image](../.gitbook/assets/eeb27e9b-339b-4f68-a3ad-1290a358fa96.JPG)
+    ![image](../../.gitbook/assets/eeb27e9b-339b-4f68-a3ad-1290a358fa96.JPG)
 
 ### 감별
 
@@ -251,7 +251,7 @@
 
     acebrophylline
 
-    ![image](../.gitbook/assets/b220590b-4b70-4beb-97ba-ac250a5dac56.JPG)
+    ![image](../../.gitbook/assets/b220590b-4b70-4beb-97ba-ac250a5dac56.JPG)
 
 ### 콧물 치료제 (Anti-rhinorrhea)
 
@@ -295,7 +295,7 @@
 * 부작용 : CNS 자극, 혈압 상승, 가슴 두근거림, 불안, 수면 장애
 * 주의 : 심혈관계 질환, 고혈압, BPH 환자에서 주의
 * phenylephrine : 10 ㎎ tid\~qid; 복합제 \[코미 시럽]
-* pseudoephedrine : 60 ㎎/T ½~~1T tid~~qid \[슈다페드]; 복합제 [액티피드](../%EB%B9%84%EB%B3%B4%ED%97%98/)
+* pseudoephedrine : 60 ㎎/T ½~~1T tid~~qid \[슈다페드]; 복합제 [액티피드](../../%EB%B9%84%EB%B3%B4%ED%97%98/)
 
 #### 기타
 
@@ -375,13 +375,13 @@
 * 감염자와의 접촉을 피함
 *   금연
 
-    ![image](../.gitbook/assets/18a93002-eba2-4927-a532-576737988adb.JPG)
+    ![image](../../.gitbook/assets/18a93002-eba2-4927-a532-576737988adb.JPG)
 
 > **질병코드** J00 급성 비인두염\[감기]
 
 J06 다발성 및 상세불명 부위의 급성 상기도감염
 
-![image](../.gitbook/assets/4ed6e194-2808-458b-8ecc-f819e8c2b354.JPG)
+![image](../../.gitbook/assets/4ed6e194-2808-458b-8ecc-f819e8c2b354.JPG)
 
 #### \[보험기준] 진해거담제 (2013-09-01)
 

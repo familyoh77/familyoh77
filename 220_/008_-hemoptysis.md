@@ -91,7 +91,7 @@
   * Tranexamic acid 경구 : 500\~1,000 ㎎ tid, 단기 사용 고려 (근거 수준 moderate)
     * DVT·PE 병력 환자에서는 혈전 형성 위험 증가 - 신중 투여
   * Tranexamic acid 흡입 : 500 ㎎ in 5 ㎖ NS, nebulizer (근거 수준 low)
-* 기침 억제 : 기침에 의한 재출혈 방지 목적으로 제한적 사용을 고려할 수 있으나, 과도한 기침 억제는 기도 내 혈액 저류 → 질식(asphyxia) 위험을 초래할 수 있으므로 주의; 대량 객혈 환자에서는 원칙적으로 기침 억제보다 기도 확보가 우선 (예: codeine, dextromethorphan) (☞ [진해제](../223_/060_-common-cold.md#antitussive))
+* 기침 억제 : 기침에 의한 재출혈 방지 목적으로 제한적 사용을 고려할 수 있으나, 과도한 기침 억제는 기도 내 혈액 저류 → 질식(asphyxia) 위험을 초래할 수 있으므로 주의; 대량 객혈 환자에서는 원칙적으로 기침 억제보다 기도 확보가 우선 (예: codeine, dextromethorphan) (☞ [진해제](../222_/223_/060_-common-cold.md#antitussive))
 * 소량 객혈, 안정적 환자 : 원인 파악 후 외래 추적
 
 ### <mark style="color:orange;">위험도 분류 및 처치 방향</mark>
