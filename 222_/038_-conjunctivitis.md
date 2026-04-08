@@ -204,9 +204,11 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 3. 병을 열기 전에 몇 번 흔든다.
 4. 고개를 뒤로 젖힌 후 한 손가락으로 아래 눈꺼풀을 아래로 당긴다.
 5. 약병 끝이 눈에 닿지 않는 높이에서 안구와 눈꺼풀 사이에 떨어뜨린다.
-6. 점안 후 수 초 동안 눈을 살짝 감고 있는다. (✽반복적인 깜박임은 피함)
+6. 점안 후 수 초 동안 눈을 살짝 감고 있는다(반복적인 깜박임은 피함).
 7. (약이 좀 더 머물 수 있도록) 눈의 코 쪽 끝을 손가락으로 수 분 동안 눌러 준다.
 8. 손을 씻는다.
+
+<figure><img src="../.gitbook/assets/결막3.JPG" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:green;">알레르기 결막염 치료</mark>
 
