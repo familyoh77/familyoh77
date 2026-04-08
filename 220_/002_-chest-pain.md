@@ -9,7 +9,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 (필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 쇼크(저혈압·빈맥) 또는 정신 상태 변화 (순환 붕괴 시사)
 * 심한 호흡 곤란, 빠른 호흡 (ACS·PE·기흉 공통)
@@ -81,7 +81,7 @@
 * 진찰, vital sign (pulse oximetry 포함), 병력 청취
 * 12-Lead ECG : 심장 허혈이 의심되는 모든 환자에서 시행
 * 'Door-to-ECG 10분' : 내원 후 10분 이내 시행 및 판독하는 것이 긴요 (2021 AHA/ACC, Class I)
-* 영상 검사 : 흉부 X선, 심초음파, CCTA(관상동맥 CT 혈관조영술), nuclear heart scanning, heart catheterization, treadmill
+* 영상 검사 : 흉부 X선, 심초음파, CCTA(관상동맥 CT 혈관조영술), nuclear heart scanning, heart catheterization, Stress echocardiography
 
 #### <mark style="color:$primary;">실험실 검사 (심장 기원 평가)</mark>
 
@@ -105,7 +105,7 @@ _\*65세 미만에서 CCTA 선호 ._ 2021 AHA/ACC 권고
 
 #### <mark style="color:$primary;">Myocardial ischemia</mark>
 
-<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복<br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번</td></tr><tr><td><strong>동반 특징</strong></td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함 (2021 AHA/ACC Chest Pain Guideline)<br>※ 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요</td></tr></tbody></table>
+<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부<br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번</td></tr><tr><td><strong>동반 특징</strong></td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함 (2021 AHA/ACC Chest Pain Guideline)<br>※ 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Pericarditis</mark>
 
@@ -143,7 +143,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 ### <mark style="color:orange;">위험도 평가 툴</mark>
 
 * 외래/일차의료 : MHS, INTERCHEST 등의 도구가 적합
-* 응급실/일차진료 : HEART Score + hs-troponin 기반 CDP
+* 응급실/일차진료 : HEART Score + hs-troponin 기반 CDP(Clinical Decision Pathway)
 
 #### <mark style="color:$primary;">Marburg Heart Score (CAD 예측)</mark>
 
@@ -162,9 +162,9 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 * History, ECG, Age, Risk factors, Troponin 5개 항목, 각 0–2점, 총 0–10점
 * ACS 단기 예후(6주 내 MACE) 예측 도구; AHA 권고 scoring tool
 
-<table><thead><tr><th width="101.57894897460938">항목</th><th width="48.4210205078125">점수</th><th width="507.0666809082031">기준</th></tr></thead><tbody><tr><td><strong>H</strong>istory</td><td>2</td><td>허혈성 심질환의 전형적 흉통 3가지 모두 해당</td></tr><tr><td></td><td>1</td><td>위 3가지 중 1~2가지만 해당 (비전형적)</td></tr><tr><td></td><td>0</td><td>심장 기원 가능성이 낮은 병력</td></tr><tr><td><strong>E</strong>CG</td><td>2</td><td>유의한 ST 하강, 완전 LBBB, 또는 좌심실 비후 소견</td></tr><tr><td></td><td>1</td><td>비특이적 재분극 장애</td></tr><tr><td></td><td>0</td><td>정상</td></tr><tr><td><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td></td><td>1</td><td>45~64세</td></tr><tr><td></td><td>0</td><td>&#x3C;45세</td></tr><tr><td><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험 인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI>30, CAD 가족력) 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환) 병력</td></tr><tr><td></td><td>1</td><td>1~2개의 위험 인자</td></tr><tr><td></td><td>0</td><td>위험 인자 없음</td></tr><tr><td><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td></td><td>1</td><td>ULN의 1~3배 상승</td></tr><tr><td></td><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
+<table><thead><tr><th width="101.57894897460938">항목</th><th width="48.4210205078125">점수</th><th width="507.0666809082031">기준</th></tr></thead><tbody><tr><td><strong>H</strong>istory</td><td>2</td><td>허혈성 심질환의 전형적 흉통 3가지 모두 해당</td></tr><tr><td></td><td>1</td><td>위 3가지 중 1~2가지만 해당 (비전형적)</td></tr><tr><td></td><td>0</td><td>심장 기원 가능성이 낮은 병력</td></tr><tr><td><strong>E</strong>CG</td><td>2</td><td>LBBB·LVH·digoxin에 의하지 않은 유의한 ST 편위(하강 또는 상승)</td></tr><tr><td></td><td>1</td><td>ST 편위 없는 LBBB, LVH, digoxin 효과, 또는 기존의 재분극 이상</td></tr><tr><td></td><td>0</td><td>정상</td></tr><tr><td><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td></td><td>1</td><td>45~64세</td></tr><tr><td></td><td>0</td><td>&#x3C;45세</td></tr><tr><td><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험 인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI>30, CAD 가족력) 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환) 병력</td></tr><tr><td></td><td>1</td><td>1~2개의 위험 인자</td></tr><tr><td></td><td>0</td><td>위험 인자 없음</td></tr><tr><td><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td></td><td>1</td><td>ULN의 1~3배 상승</td></tr><tr><td></td><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
 
-▶판정 : 0\~3점 = 저위험(6주 MACE \~2%, 퇴원 고려), 4\~6점 = 중등위험(입원·추가 검사), 7\~10점 = 고위험(적극적 처치); 저위험이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단 ☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
+▶판정 : 0\~3점 = 저위험(6주 내 MACE \~2%, 퇴원 고려), 4\~6점 = 중등위험(입원·추가 검사), 7\~10점 = 고위험(적극적 처치); 저위험이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단 ☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
 
 ## <mark style="color:green;">폐 기원 흉통</mark>
 
@@ -259,17 +259,17 @@ R07.4 상세불명의 흉통
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **니트로글리세린 설하정 (니트로글리세린) — 협심증 흉통**
+> **니트로글리세린 설하정 — 협심증 흉통**
 >
 > * 흉통 발생 시 앉거나 누운 상태에서 혀 아래에 1정을 녹이십시오. 삼키지 마십시오.
 > * 5분 후에도 증상이 지속되면 즉시 119에 신고하십시오. 신고 후 대기하면서 2정째를 복용할 수 있으며, 최대 3정까지 가능합니다.
 > * 기립성 저혈압(갑자기 일어날 때 어지럼)이 생길 수 있으므로 복용 중에는 앉거나 누운 자세를 유지하십시오.
-> * 발기부전 치료제를 복용 중인 경우 절대 함께 사용하지 마십시오 — 실데나필(비아그라 등)은 복용 후 24시간 이내, 타달라필(시알리스 등)은 복용 후 48시간 이내 니트로글리세린 사용 금기. 심각한 저혈압이 발생할 수 있습니다.
+> * 발기부전 치료제를 복용 중인 경우 절대 함께 사용하지 마십시오 — 실데나필(비아그라 등)은 복용 후 24시간 이내, 타다라필(시알리스 등)은 복용 후 48시간 이내 니트로글리세린 사용 금기. 심각한 저혈압이 발생할 수 있습니다.
 > * 직사광선과 열을 피해 보관하고, 개봉 후 6개월 이내에 사용하십시오.
 
 > **아스피린 — 심근경색 의심 시 응급 처치**
 >
-> * 심근경색이 의심되면 아스피린 325 ㎎을 씹어서 삼키십시오 (아스피린 알레르기나 금기가 없는 경우에 한합니다).
+> * 심근경색이 의심되면 아스피린 325 ㎎(또는500 ㎎ 1정)을 씹어서 삼키십시오 (아스피린 알레르기나 금기가 없는 경우에 한합니다).
 > * **일반 아스피린(비장용정)을 사용하십시오.** 장용정(enteric-coated)은 흡수가 지연되어 응급 시 효과가 떨어집니다.
 > * 씹어서 삼켜야 흡수가 빠릅니다 (설하 약물인 니트로글리세린과 달리 아스피린은 반드시 삼켜야 효과가 있습니다).
 > * 위궤양, 출혈 병력이 있는 분은 반드시 의사에게 미리 알려 주십시오.
@@ -385,7 +385,7 @@ R07.4 상세불명의 흉통
 
 > **아스피린 (심근경색 의심 시)**
 >
-> * 아스피린 알레르기·출혈 금기가 없다면 325 ㎎을 씹어서 삼키십시오.
+> * 아스피린 알레르기·출혈 금기가 없다면 325 ㎎(또는500 ㎎ 1정)을을 씹어서 삼키십시오.
 > * 씹어서 삼켜야 흡수가 빠릅니다. 니트로글리세린과 달리 아스피린은 삼켜야 효과가 있습니다.
 
 {% hint style="warning" %}

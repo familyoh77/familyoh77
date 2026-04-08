@@ -40,7 +40,7 @@
 #### <mark style="color:$primary;">Hepatic (간경화)</mark>
 
 * 흔히 음주와 관련
-* 동반 소견 : 간질환 소견(예: 복수, 황달, 손바닥 홍반, Dupuytren's contracture, spider angiomata, 여성형유방증), 혈압↓
+* 동반 소견 : 간질환 소견(예: 복수, 황달, 손바닥 홍반, Dupuytren's contracture, spider angioma, 여성형유방증), 혈압↓
 * 복수가 발생한 경우 이외에는 호흡 곤란은 드묾
 * hepatic proteins(transferrin, fibrinogen, albumin)↓, 간 효소↑, cholesterol↓, K↓, 호흡성 알칼리증, macrocytosis(엽산 결핍 관련)
 
@@ -77,7 +77,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 * 기전 : capillary leak, re-feeding(급속한 다이어트 후 식사 증량), 이뇨제 유발 부종
 * 얼굴, 손, 사지 부종; 활동 후 저녁에 악화되고 와위 후 아침에 호전되는 것이 전형적 (아침 안면 부종이 심한 경우는 신성 부종을 먼저 감별)
-* 주로 20\~40대 여성에서 월경 전 기간에 발생
+* 주로 20\~40대 여성에서 발생; 월경 전에 악화될 수 있으나 월경 주기와 무관하게 지속되는 것이 특징
 * 심장, 간, 신장 질환 없음
 * 관련 인자 : 당뇨병, 비만, 우울 등 정서적 문제
 * 진단 : 다른 원인 배제
@@ -108,11 +108,11 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 #### <mark style="color:$primary;">국소 상태</mark>
 
 * 압통 → DVT; 림프부종에서는 보통 압통이 없음 (때로 심한 통증)
-* pitting edema : pretibial area(정강이뼈 앞), 발등, medial malleolus(안쪽 복사뼈) 부위를 엄지손가락으로 5초 이상 압박 후 함몰 여부 확인; DVT, 정맥 부전, 림프부종에서 양성; fibrotic form에서는 보통 나타나지 않음
+* pitting edema : pretibial area(정강이뼈 앞), 발등, medial malleolus(안쪽 복사뼈) 부위를 엄지손가락으로 5초 이상 압박 후 함몰 여부 확인; DVT, 정맥 부전, 림프부종 초기에서 양성
 
 <table><thead><tr><th width="100.3157958984375">등급</th><th width="137.26312255859375">함몰 깊이</th><th width="127.89471435546875">회복 시간</th><th>임상 소견</th></tr></thead><tbody><tr><td>1+</td><td>2 ㎜ 이하</td><td>즉시</td><td>경미한 부종</td></tr><tr><td>2+</td><td>2~4 ㎜</td><td>15초 이내</td><td>중등도; 하지 윤곽 유지</td></tr><tr><td>3+</td><td>4~6 ㎜</td><td>1분 이내</td><td>심한 부종; 하지 윤곽 변형</td></tr><tr><td>4+</td><td>6~8 ㎜ 이상</td><td>2분 이상</td><td>매우 심한 부종; 현저한 하지 변형</td></tr></tbody></table>
 
-* non-pitting edema → lymphedema(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
+* non-pitting edema : 림프부종 후기(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
 * Stemmer sign : lymphedema에 특이적인 징후로 2nd toe(또는 2nd finger) 근위부 등쪽 피부를 엄지·검지로 집어 올려집히지 않으면 양성; 음성이라도 배제 불가
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
 * 작고 깊고 심한 통증성 궤양 → 동맥 부전, 혈관염, 감염

@@ -56,30 +56,30 @@
 
 1. **항생제 및 항균제**
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>마크롤라이드계</td><td>Clarithromycin, Azithromycin</td><td>쓴맛 또는 금속성 맛 유발이 흔함</td></tr><tr><td>퀴놀론계</td><td>Ciprofloxacin, Ofloxacin</td><td>미각 변화 보고</td></tr><tr><td>테트라사이클린계</td><td>Doxycycline, Tetracycline</td><td>설태 침착 및 미각 이상 가능성</td></tr><tr><td>기타 항균제</td><td>Metronidazole</td><td>금속성 맛의 대표적 원인 약물</td></tr><tr><td>아미노글리코사이드</td><td>Amikacin</td><td></td></tr><tr><td>페니실린/기타</td><td>Ampicillin, β-lactam 억제제</td><td></td></tr><tr><td>항진균제</td><td>Terbinafine</td><td>드물게 장기적인 미각 상실 유발 가능; 복용 중단 후에도 수개월간 지속될 수 있으므로 처방 전 환자에게 고지 필요</td></tr><tr><td>구강 세정제</td><td>Chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th width="257"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>마크롤라이드계</td><td>Clarithromycin, Azithromycin</td><td>쓴맛 또는 금속성 맛 유발이 흔함</td></tr><tr><td>퀴놀론계</td><td>Ciprofloxacin, Ofloxacin</td><td>미각 변화 보고</td></tr><tr><td>테트라사이클린계</td><td>Doxycycline, Tetracycline</td><td>설태 침착 및 미각 이상, Black hairy tongue 가능성</td></tr><tr><td>기타 항균제</td><td>Metronidazole</td><td>금속성 맛의 대표적 원인 약물; Black hairy tongue 보고가 있음</td></tr><tr><td>아미노글리코사이드</td><td>Amikacin</td><td>가역적 후각 소실(일과성 무후각증) 보고</td></tr><tr><td>페니실린</td><td>Ampicillin</td><td>일시적 후각 저하 보고</td></tr><tr><td>β-lactam 억제제</td><td>Aamoxicillin-clavulanate 등</td><td>Black hairy tongue 유발 보고</td></tr><tr><td>항진균제</td><td>Terbinafine</td><td>드물게 장기적인 미각 상실 유발 가능; 복용 중단 후에도 수개월간 지속될 수 있으므로 처방 전 환자에게 고지 필요</td></tr><tr><td>구강 세정제</td><td>Chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
 
 2\. **항고혈압제 및 심혈관계 약물** : 가장 흔하게 미각 이상을 일으키는 범주로, 특히 아연(Zinc) 대사에 영향을 주는 경우가 많음
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th width="224"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>ACE 억제제</td><td>Captopril</td><td>미각상실증(Ageusia)의 대표적 원인 약물</td></tr><tr><td>칼슘채널차단제</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진으로 인한 미각 저하</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th width="228"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>ACE 억제제</td><td>Captopril</td><td>미각상실증(Ageusia)의 대표적 원인 약물</td></tr><tr><td>칼슘채널차단제</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진으로 인한 미각 저하</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td>미각 저하 및 구강 건조 보고</td></tr></tbody></table>
 
 3\. **신경정신과 약물** (항우울제/항경련제/기타)
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>삼환계 항우울제</td><td>Amitriptyline, Nortriptyline, Doxepin, Imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td>항경련제</td><td>Carbamazepine, Phenytoin</td><td></td></tr><tr><td>조울증 치료제</td><td>Lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th width="228"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>삼환계 항우울제</td><td>Amitriptyline, Nortriptyline, Doxepin, Imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td>항경련제</td><td>Carbamazepine</td><td>쓴 맛의 환각미각(bitter phantogeusia) 보고; 드물게 미각 소실 가능</td></tr><tr><td></td><td>Phenytoin</td><td>미각 저하(hypogeusia) 또는 미각 소실 보고; 특히 정맥 투여 시</td></tr><tr><td>조울증 치료제</td><td>Lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
 
 4. **기타 약물** (내분비/항암제/파킨슨)
 
-<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td></td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>각종 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="159.84210205078125"></th><th width="260"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td>미각 이상 보고; 일부에서 금속성 환각 미각</td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병제</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>각종 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
 
-※ 대표적인금속성 맛(Metallic taste) :  metronidazole, clarithromycin, metformin, lithium - 해당 약물 복용 중 금속 맛 호소 시 우선 확인
+※ 대표적인 금속성 맛(Metallic taste) :  metronidazole, clarithromycin, metformin, lithium - 해당 약물 복용 중 금속 맛 호소 시 우선 확인
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">검사</mark>
 
 * 보통 필요 없음; 감별을 위하여 검사 고려
-* CBC, LFT, 혈당, Cr, Vit B12, TSH, IgE
+* CBC, LFT, 혈당, Cr, Vit B12, TSH, IgE, 혈청아연
 * 비경/내시경(비중격만곡증, 비폴립), CT(비부비동 구조 검사), MRI(연조직 검사)
-* 후각 검사 : KVSS II (Sniffin' Sticks 기반 국내 표준검사) — 이비인후과 의뢰
+* 후각 검사 : KVSS II (Korean Version of Sniffin' Sticks II) - 이비인후과 의뢰
 * 미각 검사 : 이비인후과 의뢰
 
 ***
@@ -110,11 +110,11 @@
 ### <mark style="color:orange;">환자 유의 사항</mark>
 
 * 저하된 미각에 대한 보상 작용으로 향신료, 감미료 등을 지나치게 사용하지 않도록 주의
-* 미각이 저하된 경우 음식의 질감, 색, 향을 조절하면 음식에 대한 감흥이 향상될 수 있음
+* 미각이 저하된 경우 음식의 질감, 색, 향을 조절하면 음식에 대한 즐거움이 향상될 수 있음
 * 미각이 저하된 사람이 간을 할 때는 감각에 의존하지 말고, 계량 스푼·저울 등을 이용하거나 검증된 레시피의 정해진 양을 사용
 * 후각/미각 저하 시 상한 음식을 감지하는 능력이 저하되므로 음식의 유효 기간을 자주 확인
 * 후각이 저하된 경우 사고 방지를 위하여 집안에 연기/가스 감지기를 설치, 가스레인지 사용 후 밸브 잠금 확인을 습관화; 가능하면 도시가스 대신 인덕션(전기레인지) 사용을 권고
-* 항암 치료(화학요법) 중인 환자 : 미뢰 세포 손상으로 금속성 맛·미각 왜곡이 흔함; 금속 식기 대신 플라스틱·도자기 수저 사용, 고기류는 레몬즙·소스로 마리네이드하거나 차갑게 조리하면 금속 맛 완화에 도움; 신맛·향신료로 후각을 통한 풍미를 보완하고 식감·색감을 다채롭게 하여 식욕 유지; 아연 결핍 동반 가능성이 있으므로 혈청 아연 확인 고려; 증상이 심해 식사가 어려운 경우 영양 상담 병행; 구체적 관리는 담당 주치의와 상의
+* 항암 치료(화학요법) 중인 환자 : 미뢰 세포 손상으로 금속성 맛·미각 왜곡이 흔함; 금속 식기 대신 플라스틱·도자기 수저 사용, 고기류는 레몬즙·소스로 미리 재워 두거나 차갑게 조리하면 금속 맛 완화에 도움; 신맛·향신료로 후각을 통한 풍미를 보완하고 식감·색감을 다채롭게 하여 식욕 유지; 아연 결핍 동반 가능성이 있으므로 혈청 아연 확인 고려; 증상이 심해 식사가 어려운 경우 영양 상담 병행; 구체적 관리는 담당 주치의와 상의
 * 후각/미각 소실은 우울, 고독감, 대인관계의 어려움과 연관될 수 있으므로 이에 대한 관리가 필요(☞ [우울증](../221_/027_-depression.md))
 
 ***

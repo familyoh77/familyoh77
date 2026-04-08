@@ -75,7 +75,7 @@
 
 * 전립선 질환
 
-**마취 관련**
+**수술 및 마취 관련**
 
 * 목의 과신전, 위/횡격막 조작, laparotomy, thoracotomy, craniotomy
 
@@ -134,7 +134,7 @@
 
 * 과식이나 가스 유발 음식(예: 탄산음료, 불용성 식이 섬유) 섭취를 피함
 
-**고탄산혈증 유도** - 횡격막 피로 유발
+**고탄산혈증 유도** : CO₂ 상승 → 뇌간 호흡 중추 자극 → 딸꾹질 반사궁 재설정
 
 * 숨 참기 (10\~20초)
 * 종이봉투에 대고 호흡 - 호흡 곤란이 있거나 숨이 차는 경우에는 금지
@@ -217,7 +217,7 @@
 
 * nefopam : 비마약성 진통제; 10 ㎎ IV <mark style="color:blue;">\[아큐판]</mark>
 * viscous lidocaine : 구강 마취제; 2% 5 ㎖ tid
-* dexamethasone : 화학요법에 기인한 딸꾹질에 고려; 단, dexamethasone 자체가 원인인 경우 methylprednisolone으로 교체
+* dexamethasone : 화학요법에 기인한 딸꾹질 원인 약물로 고려; 단, dexamethasone 자체가 원인인 경우 methylprednisolone으로 교체
 
 ### <mark style="color:orange;">난치성 딸꾹질 - 의뢰</mark>
 

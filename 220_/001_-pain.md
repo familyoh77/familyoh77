@@ -22,7 +22,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 (신경학적 응급; 필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 방광 또는 장 기능 이상 (실금 또는 저류; 마미 증후군 시사)
 * 안장 부위 감각 이상(Saddle anesthesia), 항문 괄약근 긴장도 저하

@@ -93,7 +93,7 @@
 
 ### <mark style="color:orange;">심장성 vs 폐성 호흡 곤란 감별 진단</mark>
 
-<table data-header-hidden><thead><tr><th width="108.5789794921875"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>구분</strong></td><td><strong>심장성 호흡 곤란 (Cardiac)</strong></td><td><strong>폐성 호흡 곤란 (Pulmonary)</strong></td></tr><tr><td>주요 원인</td><td>심부전, 관상동맥 질환, 판막 질환</td><td>천식, COPD, 폐렴, 기흉, 폐색전증</td></tr><tr><td>발생 양상</td><td>누우면 악화(기좌호흡), 야간 돌발성 호흡 곤란</td><td>활동 시 악화되거나 특정 유발 인자(먼지, 연기) 노출 시 발생</td></tr><tr><td>동반 증상</td><td>발/발목 부종, 경정맥 확장(JVD), 흉부 압박감, 핑크색 거품 섞인 가래</td><td>기침, 가래(농성), 쌕쌕거림(Wheezing), 흉막성 흉통</td></tr><tr><td>청진 소견</td><td>양측 폐 하부의 수포음(Crackles), S3/S4 심음</td><td>천명음(Wheezing), 호흡음 감소, 긴 호기 시간</td></tr><tr><td>흉부 X선</td><td>심비대, 폐부종, Kerley B-line, 흉수</td><td>폐 과팽창, 침윤(Infiltration), 기흉 소견</td></tr><tr><td>심전도</td><td>허혈성 변화, 부정맥, 좌심실 비대 소견</td><td>대체로 정상이나 우심실 부하 소견(PE 등) 가능</td></tr><tr><td>혈액 검사</td><td>BNP / NT-proBNP 상승</td><td>WBC/CRP 상승(감염 시), D-dimer 상승(PE 시)</td></tr><tr><td>자세 변화</td><td>앉으면 호전(Orthopnea); 비만·GERD 관련 천식에서도 유사 양상 가능</td><td>자세보다는 휴식이나 기관지 확장제에 반응; 편평호흡(Platypnea: 일어설 때 악화, 누우면 호전) → 간폐 증후군·우좌 단락 시사</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="108.5789794921875"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>구분</strong></td><td><strong>심장성 호흡 곤란 (Cardiac)</strong></td><td><strong>폐성 호흡 곤란 (Pulmonary)</strong></td></tr><tr><td>주요 원인</td><td>심부전, 관상동맥 질환, 판막 질환</td><td>천식, COPD, 폐렴, 기흉</td></tr><tr><td>발생 양상</td><td>누우면 악화(기좌호흡), 야간 돌발성 호흡 곤란</td><td>활동 시 악화되거나 특정 유발 인자(먼지, 연기) 노출 시 발생</td></tr><tr><td>동반 증상</td><td>발/발목 부종, 경정맥 확장(JVD), 흉부 압박감, 핑크색 거품 섞인 가래</td><td>기침, 가래(농성), 쌕쌕거림(Wheezing), 흉막성 흉통</td></tr><tr><td>청진 소견</td><td>양측 폐 하부의 수포음(Crackles), S3/S4 심음</td><td>천명음(Wheezing), 호흡음 감소, 긴 호기 시간</td></tr><tr><td>흉부 X선</td><td>심비대, 폐부종, Kerley B-line, 흉수</td><td>폐 과팽창, 침윤(Infiltration), 기흉 소견</td></tr><tr><td>심전도</td><td>허혈성 변화, 부정맥, 좌심실 비대 소견</td><td>대체로 정상이나 우심실 부하 소견(PE 등) 가능</td></tr><tr><td>혈액 검사</td><td>BNP / NT-proBNP 상승</td><td>WBC/CRP 상승(감염 시), D-dimer 상승(PE 시)</td></tr><tr><td>자세 변화</td><td>앉으면 호전(Orthopnea); 비만·GERD 관련 천식에서도 유사 양상 가능</td><td>자세보다는 휴식이나 기관지 확장제에 반응; 편평호흡(Platypnea: 일어설 때 악화, 누우면 호전) → 간폐 증후군·우좌 단락 시사</td></tr></tbody></table>
 
 \*고령 환자는 심부전과 COPD가 동반된 경우가 많아 단일 원인으로 단정하기 어렵다. BNP/NT-proBNP, 폐 초음파 B-line(≥3개/zone 이상 시 폐부종 시사), 기관지 확장제 반응을 복합적으로 평가하여 접근한다.
 
@@ -161,8 +161,8 @@
   * 투여 전 혈압 확인 필수 : SBP ＜90 ㎜Hg 시 투여 금기 (혈압 감소로 관류 저하 위험)
   * furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요 시 반복 <mark style="color:blue;">\[라식스]</mark>(40 ㎎/T, 20 ㎎/A); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
 * 빈맥(supraventricular tachycardia) : Valsalva maneuver, 경동맥동 마사지(고령 또는 허혈성 심질환에서는 피함)
-* 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI <mark style="color:blue;">\[벤토린]</mark> (☞ [벤토린](../222_/223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
-* Steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d <mark style="color:blue;">\[소론도]</mark>(5 ㎎/T) (☞ [소론도](../222_/223_/071_-asthma.md#undefined-50))
+* 기관지 확장제 : salbutamol 네뷸라이저 또는 MDI <mark style="color:blue;">\[벤토린]</mark> (☞ [벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
+* Steroid : 전신 투여는 단기 사용으로 제한; prednisolone 30\~60 ㎎/d <mark style="color:blue;">\[소론도]</mark>(5 ㎎/T) (☞ [소론도](../223_/071_-asthma.md#undefined-50))
 
 ***
 
@@ -176,7 +176,7 @@ J80 성인호흡곤란증후군
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **니트로글리세린 설하정 (니트로글리세린) — 협심증·급성 심부전**
+> **니트로글리세린 설하정 — 협심증·급성 심부전**
 >
 > * 흉통·호흡 곤란 발생 시 앉거나 누운 상태에서 혀 아래에 1정을 녹이십시오. 삼키지 마십시오.
 > * 5분 후에도 증상이 지속되면 1정을 추가 복용할 수 있으며, 최대 3정까지 가능합니다. 3정 복용 후에도 증상이 지속되면 즉시 119를 부르십시오.

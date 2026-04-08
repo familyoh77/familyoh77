@@ -40,8 +40,8 @@
 * 심실상성빈맥(SVT, 10%), 구조적 심장 질환
   1. "flip-flopping" (or "stop and start") : 심방이나 심실의 조기 수축
   2. rapid "fluttering in the chest"
-     * regular "fluttering" : supraventricular 또는 ventricular arrhythmias(sinus tachycardia 포함)
-     * irregular "fluttering" : variable block(atrial fibrillation, atrial flutter, tachycardia)
+     * regular "fluttering" : supraventricular 또는 ventricular tachycardia (sinus tachycardia 포함)
+     * irregular "fluttering" : variable block(atrial fibrillation, atrial flutter, multifocal atrial tachycardia)
   3. "pounding in the neck"(neck pulsations) : right atrium contract(jugular venous pulsations)
 * Chest pain 동반 → 허혈성 심질환
 * 몸을 앞으로 기울이면 호전 → 심막 질환
@@ -57,7 +57,7 @@
   * 빈혈 : 두근거림의 흔한 대사적 원인; CBC로 확인 필수 (Hb ＜10 g/dL 시 특히 의심)
   * 전해질 이상 : 저칼륨혈증(hypokalemia), 저마그네슘혈증(hypomagnesemia)은 부정맥의 흔한 유발 원인 — 이뇨제 복용 환자에서 특히 확인 필요
   * thyrotoxicosis/갑상선항진증, 저혈압, 저혈당, 탈수(설사), 폐경기증후군
-    * 체중 감소, tremulousness, 심부 건반사 항진, 미세한 손 떨림 → 갑상선항진증
+    * 체중 감소, 미세한 손 떨림(fine tremor), 심부 건반사 항진 → 갑상선항진증
     * 홍조, 일시적 고혈압, 두통, 불안, 발한 → pheochromocytoma, paraganglioma
 * 수면무호흡증(OSA) : 야간 두근거림, 심방세동의 독립적 위험인자; 코골이·주간 과다졸음·비만 동반 시 의심
 * 심박출량 증가 상태 : 발열, 임신, 월경, 운동, 기립성 저혈압
@@ -144,7 +144,7 @@ R00.2 두근거림
 > ```
 > 인데놀 10 ㎎/T 2T 필요시
 > 자낙스 0.25 ㎎/T 1T 필요시
-> ※ 자낙스청구 시 불안·스트레스 관련 상병(F41, F45, K58, G90.3 등) 병기 권고; 
+> ※ 자낙스청구 시 불안·스트레스 관련 상병(F41, F45, K58, G90.8 등) 병기 고려; 
 >    R05·R00 단독 청구 시 삭감 위험
 > ```
 >

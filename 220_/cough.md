@@ -51,7 +51,7 @@
 
 #### <mark style="color:$primary;">만성 기침 (＞8주)</mark>
 
-* 흔한 원인 : 천식/cough-variant asthma(CVS), 상기도기침증후군, GERD
+* 흔한 원인 : 천식/cough-variant asthma(CVA), 상기도기침증후군, GERD
 * 덜 흔한 원인 : 약물(예: ACEI, DPP-4i), 만성기관지염, COPD, 기관지확장증, 결핵, 기관지 자극(예: 흡연, 연기, 향수, 표백제), 감염후기침(감기후기침증후군), 비천식성 호산구성 기관지염(NAEB), 습관성/심인성 기침, 기침과민증후군
 
 ※ 역류에 의한 기침은 역류를 포함한 위장관의 자각 증상이 없어도 발생할 수 있음
@@ -78,26 +78,26 @@
 * 수면 또는 주의를 돌리면 호전
 * 의사 등 관찰자가 사라지면 중단되었다가 환자나 환자의 증상에 관심을 보이면 재개
 * 일반적인 치료에 반응하지 않음, 불필요한 진료 또는 치료를 많이 받음
-* 증상에 비하여 환자의 고통이 합당하지 않음(환자 본인은 크게 불편하지 않은 태도를 보임)
+* 증상에 비하여 환자의 고통이 합당하지 않음(환자 본인은 크게 불편하지 않음)
 * 진단
   * 기저 질환 없이 지속되는 무의식적 기침으로, 뚜렷한 원인을 찾을 수 없거나 일반적인 치료에 반응하지 않는 경우에 다른 잠재적 원인을 배제한 후 진단
   * 진찰, 영상 검사, 혈액 검사, 폐 기능 검사, 기관지 내시경 검사 등에서 정상
 
 #### <mark style="color:$primary;">ACE inhibitor-induced cough</mark>
 
-* 기전 : ACEI는 브라디키닌(bradykinin) 분해를 억제하여 기도 내 축적을 초래하고, 이것이 기침 수용체를 자극함
+* 기전 : ACEI는 bradykinin 분해를 억제하여 기도 내 축적을 초래하고, 이것이 기침 수용체를 자극함
 * 대부분 ACEI 투여 개시 1주일 내 시작 (수개월 후 시작되는 경우도 있음)
 * 인후부 가려움, 따끔거림, 또는 긁는 느낌
 * ACEI 투약 중단 후 1\~4일 정도에 호전되기 시작하여 1\~4주 내 회복 (3개월 이상 지속될 수 있음); 재투약 시 재발
 * 여성에서 더 흔함
-* DPP-4 억제제(글립틴 계열, 예: sitagliptin, vildagliptin)도 브라디키닌 분해 억제를 통해 드물게 기침을 유발할 수 있음; ACEI와 병용 시 위험 증가
+* DPP-4 억제제(sitagliptin, vildagliptin)도 ACEI와 병용 시 혈관부종(angioedema) 위험이 유의하게 증가
 
 #### <mark style="color:$primary;">비천식성 호산구성 기관지염 (Non-asthmatic eosinophilic bronchitis, NAEB)</mark>
 
 * 호산구성 기도 염증이 있으나 기도과반응성(airway hyperresponsiveness)은 없어 천식과 구별됨
 * 임상 양상 : 만성 마른기침; 호흡곤란·천명 없음
 * 진단 : FeNO 상승(＞25 ppb), 객담 호산구 증가(＞3%); 기관지유발시험 정상
-* 치료 : 흡입 스테로이드([ICS](../222_/223_/071_-asthma.md#inhaled-corticosteroid-ics))에 잘 반응함
+* 치료 : 흡입 스테로이드([ICS](../223_/071_-asthma.md#inhaled-corticosteroid-ics))에 잘 반응함
 
 #### <mark style="color:$primary;">기침과민증후군 (Cough hypersensitivity syndrome, CHS)</mark>
 
@@ -175,9 +175,9 @@
 * 금연 : 만성 기침이 있는 흡연자의 90%에서 금연 후 기침이 호전됨 (보통 1개월 내 회복)
 * 직업적 노출 회피 또는 차단; 미세먼지·황사 등 대기오염 심한 날에는 외출 자제 및 보건용 마스크(KF80 이상) 착용 권고
 * 원인 치료, 기저 질환 치료
-* 대증 치료 : [진해제](../222_/223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../222_/223_/060_-common-cold.md#decongestant), [흡입 steroid](../222_/051_-allergic-rhinitis.md#steroid)
+* 대증 치료 : [진해제](../223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../223_/060_-common-cold.md#decongestant), [흡입 steroid](../222_/051_-allergic-rhinitis.md#steroid)
 * ACEI를 복용 중인 경우 ARB(안지오텐신 수용체 차단제)로 교체&#x20;
-  * ARB는 브라디키닌 경로에 영향을 주지 않으므로 기침 부작용이 현저히 낮음
+  * ARB는 bradykinin 경로에 영향을 주지 않으므로 기침 부작용이 현저히 낮음
 
 #### <mark style="color:$primary;">기침 억제 재활 치료 (Cough Suppression Therapy)</mark>
 
@@ -331,7 +331,7 @@ R05 기침
 
 #### <mark style="color:$primary;">기침 완화를 위해 이렇게 하세요</mark>
 
-* **수분 충분히 섭취** : 물을 자주 마시면 기도 점막을 촉촉하게 유지하고 가래 배출을 도웁니다
+* **수분 충분히 섭취** : 물을 자주 마시면 기도 점막을 촉촉하게 유지하고 가래 배출을 도와줍니다
 * **꿀 활용** : 상기도 감염 후 기침이 지속될 때 따뜻한 물이나 차에 꿀을 타서 마시면 증상 완화에 도움이 됩니다 (Cochrane review 근거). 단, 1세 미만 영아에게는 절대 주지 마십시오 (보툴리누스균 위험)
 * **가습기 사용** : 건조한 실내 공기는 기침을 악화시킵니다. 실내 습도를 50\~60%로 유지하십시오
 * **금연** : 흡연은 만성 기침의 가장 강력한 유발·악화 요인입니다

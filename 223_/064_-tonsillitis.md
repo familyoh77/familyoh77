@@ -1,6 +1,6 @@
 # 편도염 Tonsillitis
 
-![image](../../.gitbook/assets/205f7f6a-c383-4e10-946b-6fb8c73f0284.JPG)
+![image](../.gitbook/assets/205f7f6a-c383-4e10-946b-6fb8c73f0284.JPG)
 
 ## 일반 사항
 
@@ -78,7 +78,7 @@
 
 *   Streptococcus pyogenes (GABHS) 급성 인두편도염의 권고 항생제 용량 및 치료 기간
 
-    ![image](../../.gitbook/assets/7951639f-0e1b-4633-b93f-d3987d518a8b.JPG)
+    ![image](../.gitbook/assets/7951639f-0e1b-4633-b93f-d3987d518a8b.JPG)
 * 만성 편도염 : 포도알균 또는 혐기성 균이 β-lactamase를 생성하므로 세파계 또는 clindamycin이 보다 효과적
 * tetracyclines, fluoroquinolones, sulfonamide는 GAS 편도염에 사용하지 않음
 
@@ -96,7 +96,7 @@
 * 편도 절제 후 일시적으로 감염이 줄어드나 적절한 구강 위생 관리에 비하여 우월하지 않음
 * 편도 절제 2년 후 중증 인두편도염 발생 빈도가 수술을 하지 않은 환자와 차이 없음
 
-#### 편도절제술 적응증 [AAO-HNSF](../../2019/)
+#### 편도절제술 적응증 [AAO-HNSF](../2019/)
 
 *   편도염\*이 다음 빈도로 발생
 
@@ -122,4 +122,4 @@
 
 J35.0 만성 편도염
 
-![image](../../.gitbook/assets/78927d3f-4eca-4cae-8711-a8b3e2192458.JPG)
+![image](../.gitbook/assets/78927d3f-4eca-4cae-8711-a8b3e2192458.JPG)

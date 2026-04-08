@@ -1,6 +1,6 @@
 # 만성 폐쇄성 폐질환 COPD
 
-![image](../../.gitbook/assets/b06f0296-cb76-475c-9a0a-9121fe8e0a21.JPG)
+![image](../.gitbook/assets/b06f0296-cb76-475c-9a0a-9121fe8e0a21.JPG)
 
 ## 일반 사항
 
@@ -44,7 +44,7 @@
 * 만성 기관지염
 * 소아기의 중증 호흡기 감염, 폐 성장 지연 요인
 
-## 임상 양상![image](../../.gitbook/assets/e0bc28e9-3cc6-4795-8299-654816ffbf5a.JPG)
+## 임상 양상![image](../.gitbook/assets/e0bc28e9-3cc6-4795-8299-654816ffbf5a.JPG)
 
 ※ dyspnea, activity limitation &/or cough with or without sputum, 급성 악화 가능
 
@@ -112,7 +112,7 @@
 
 * spirometry, 환자 증상, 악화 병력을 종합하여 진단; 치료 방침 결정 및 예후 예측 도구로 활용
 
-![image](../../.gitbook/assets/5e6157bb-6780-4dcf-aaec-ac0ecd9ce683.png)
+![image](../.gitbook/assets/5e6157bb-6780-4dcf-aaec-ac0ecd9ce683.png)
 
 ### 기류 폐쇄 중증도 분류
 
@@ -135,7 +135,7 @@
 
 *   환자의 불편 정도에 대한 포괄적 평가 도구
 
-    ![image](../../.gitbook/assets/b5200418-4d3d-4ce7-8717-aa72d190697b.JPG)
+    ![image](../.gitbook/assets/b5200418-4d3d-4ce7-8717-aa72d190697b.JPG)
 
 ***
 
@@ -152,7 +152,7 @@
 * 폐쇄수면무호흡 동반 시 지속양압(CPAP) 치료
 *   자가 관리 교육 : 위험 인자 관리, 흡입제 사용 교육, 급성 악화 시 대응 요령
 
-    ![image](../../.gitbook/assets/47c105b8-a3ba-4ec7-a31a-4af761bae578.png)
+    ![image](../.gitbook/assets/47c105b8-a3ba-4ec7-a31a-4af761bae578.png)
 
 ## 약물 치료
 
@@ -185,7 +185,7 @@
 * SABA (short-acting β2-agonist) : fenoterol \[베로텍], levalbuterol, salbutamol \[살부타몰], terbutaline \[베타투]
 *   LABA (long-acting β2-agonist) : \[bid] formoterol \[아토크], salmeterol; \[qd] indacaterol, olodaterol, vilanterol
 
-    ![image](../../.gitbook/assets/6b2ab6d9-f422-4e94-add0-1e7a6d96a08f.JPG)
+    ![image](../.gitbook/assets/6b2ab6d9-f422-4e94-add0-1e7a6d96a08f.JPG)
 
 #### Anti-muscarinics
 
@@ -195,7 +195,7 @@
 * SAMA (short-acting anti-muscarinic agent) : ipratropium, oxitropium
 *   LAMA (long-acting anti-muscarinic agent) : aclidinium, glycopyrronium, tiotropium, umeclidinium
 
-    ![image](../../.gitbook/assets/c59caebe-7343-4fee-8822-889acf0df898.JPG)
+    ![image](../.gitbook/assets/c59caebe-7343-4fee-8822-889acf0df898.JPG)
 
 #### LAMA+LABA 흡입 복합제
 
@@ -231,13 +231,13 @@
 * 적용 안 함 : 반복되는 폐렴, eosinophil ＜100 cells/㎕, mycobacterial 병력
 *   규칙적 사용시 폐렴 유발 위험 증가; 장기 단독 사용은 권고하지 않음
 
-    ![image](../../.gitbook/assets/7ddccd04-6c7b-4fb2-82a4-76029cc1fb4d.JPG)
+    ![image](../.gitbook/assets/7ddccd04-6c7b-4fb2-82a4-76029cc1fb4d.JPG)
 
 #### ICS+LABA 흡입 복합제
 
 *   중증에서 ICS/LABA 병용이 개별 사용보다 유효; ICS/LABA/LAMA 병용도 유효 (보험주의)
 
-    ![image](../../.gitbook/assets/4d9673a4-c4cd-4683-bc83-0ac67ec46b68.JPG)
+    ![image](../.gitbook/assets/4d9673a4-c4cd-4683-bc83-0ac67ec46b68.JPG)
 
 #### LABA+LAMA+ICS
 
@@ -389,4 +389,4 @@
 
 J44 기타 만성 폐색성 폐질환
 
-![image](../../.gitbook/assets/a36689de-35a6-45b3-8424-9bf8ecb4ba31.JPG)
+![image](../.gitbook/assets/a36689de-35a6-45b3-8424-9bf8ecb4ba31.JPG)

@@ -1,6 +1,6 @@
 # 편도 주위 농양 Peritonsillar Abscess
 
-![image](../../.gitbook/assets/3fc85248-f468-432f-b529-a3df20aa031f.JPG)
+![image](../.gitbook/assets/3fc85248-f468-432f-b529-a3df20aa031f.JPG)
 
 ## 일반 사항
 
@@ -87,4 +87,4 @@
 
 J39.0 인두뒤 및 인두옆 농양
 
-![image](../../.gitbook/assets/04e3a5ac-8249-49b5-80d9-3aa262f96a21.JPG)
+![image](../.gitbook/assets/04e3a5ac-8249-49b5-80d9-3aa262f96a21.JPG)

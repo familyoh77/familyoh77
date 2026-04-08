@@ -1,8 +1,8 @@
 # 후두염 Laryngitis
 
-![image](../../.gitbook/assets/f09a3310-7603-47bf-842f-c10bca31b5f3.JPG)
+![image](../.gitbook/assets/f09a3310-7603-47bf-842f-c10bca31b5f3.JPG)
 
-## 일반 사항![image](../../.gitbook/assets/2c4cd125-be1c-4356-a52d-97e4e9a3708f.JPG)
+## 일반 사항![image](../.gitbook/assets/2c4cd125-be1c-4356-a52d-97e4e9a3708f.JPG)
 
 * 후두 또는 성대 점막의 염증
 *   급성 후두염 경과 : 원인 및 악화 요인을 피하고 적절히 관리하는
@@ -65,4 +65,4 @@
 
 J37.0 만성 후두염
 
-![image](../../.gitbook/assets/4e290b91-70f1-445d-b1ea-eced13d9c696.JPG)
+![image](../.gitbook/assets/4e290b91-70f1-445d-b1ea-eced13d9c696.JPG)
