@@ -12,12 +12,11 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 의뢰**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>&#x20;
 
 * 급속히 진행된 심한 화농성 결막 분비물 (임균성 결막염 의심)
-* 신생아·영아의 눈 분비물 (임균성·클라미디아 결막염 배제)
 
-<mark style="color:$warning;">**당일 또는 조기 안과 의뢰**</mark>
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 시력 저하, 각막 혼탁, 심한 눈부심
 * ciliary flush(모양충혈) : 가장 현저한 충혈이 limbus ring에 발생 → 각막염·홍채염 의심
@@ -32,45 +31,40 @@
 * 면역저하자의 결막염
 * STI 감염 의심 정황 동반 (임균·클라미디아)
 
-***
-
 ## <mark style="color:green;">알레르기 결막염 (Allergic Conjunctivitis)</mark>
 
 * 기전 : 공기 중의 알레르겐 접촉 → type 1 과민 반응(IgE 매개) → local mast cell degranulation
 
-### <mark style="color:orange;">분류</mark>
+#### <mark style="color:$primary;">분류</mark>
 
-#### <mark style="color:$primary;">급성 알레르기 결막염</mark>
+**급성 알레르기 결막염**
 
 * 극적인 경과를 보임; 알레르겐 노출 후 빠르게(수 시간 내) 발생, 노출 중단 24시간 내 호전
 * 심한 증상
 
-#### <mark style="color:$primary;">계절적(seasonal) 알레르기 결막염</mark>
+**계절적(seasonal) 알레르기 결막염**
 
 * 급성 알레르기 결막염에 비하여 덜 극적인 경과를 보임; 발생부터 호전까지 수일\~수 주 경과
 * 실외 인자와 관련 : 꽃가루, 곰팡이 포자
 
-#### <mark style="color:$primary;">지속성(perennial) 알레르기 결막염</mark>
+**지속성(perennial) 알레르기 결막염**
 
 * 간헐적으로 발생한 경우보다 증상이 덜하며 만성 경과를 보임; 보통 악화-완화 반복
 * 실내 인자와 관련 : 집먼지진드기, 실내 곰팡이, 애완동물 비듬
 
 ### <mark style="color:orange;">임상 양상</mark>
 
-* 보통 처음부터 양측 발생 (✽한쪽에서만 발생했더라도 알레르기 결막염을 배제할 수 없음)
+* 보통 처음부터 양측 발생
+  * 알레르기 결막염과 편측 증상 : 한쪽 눈에만 증상이 있어도 알레르기를 배제할 수 없음. 가려운 눈을 비빈 손이 반대쪽 눈을 아직 건드리지 않았다면 일시적으로 편측 양상으로 보일 수 있음
 * 결막 충혈 및 부종, 눈꺼풀 부종, 눈꺼풀 결막의 소포성 변화(바이러스 결막염보다 적음, 만성 경과에서는 보다 흔함)
 * 심한 가려움, 작열감; 간혹 눈부심, 시각 장애
 * 수양성/점액성 분비물, 눈물 증가
 * 지속성 알레르겐과 계절적 알레르겐이 중복되면 증상이 보다 심하게 발생
-* 흔히 다른 알레르기 증상이 있음(예: 알레르기비염, 아토피)
-* Vernal keratoconjunctivitis : 연장아, 젊은 성인에서 봄에 호발; large cobblestone papillae가 위 눈꺼풀에 발생
-* Atopic keratoconjunctivitis : 성인에서 만성 경과; 위/아래 눈꺼풀의 papillary 변화
+* 흔히 다른 알레르기 증상이 있음 (예: 알레르기 비염, 아토피)
+* Vernal keratoconjunctivitis : 젊은층에서 봄에 호발; large cobblestone papillae가 위 눈꺼풀에 발생
+* Atopic keratoconjunctivitis : 만성 경과; 위/아래 눈꺼풀의 papillary 변화
 
-{% hint style="warning" %}
-가려움이 없거나 안구통이 있으면 다른 질환 의심
-{% endhint %}
-
-***
+※ 가려움이 없거나 안구통이 있으면 다른 질환 의심
 
 ## <mark style="color:green;">바이러스 결막염 (Viral Conjunctivitis)</mark>
 
@@ -78,45 +72,38 @@
 * 경과 : 한쪽에서 시작 → 48시간 내 반대쪽 전이 → 3\~5일간 악화 → 1\~2주간 호전; 총 2\~3주 내 자연 회복
 * 전염 기간 : (증상 발생 후부터) 급성 출혈성 결막염 - 4일간, 아데노바이러스 - 14일간
 
-### <mark style="color:orange;">임상 양상</mark>
+#### <mark style="color:$primary;">임상 양상</mark>
 
 * 수양성 분비물
   * 점액성 분비물이 나타나거나 아침에 화농 양상의 분비물을 호소할 수도 있음
 * 모래 느낌, 눈부심, 눈물 증가
 * 결막 충혈 및 부종, 눈꺼풀 결막의 소포성(follicle) 변화
 * 눈 이외 증상 : 귓바퀴 앞 림프절 압통, 발열, 인두염
+* 치료 후에도 3\~5일간은 증상이 더 심해질 수 있음
 
-{% hint style="info" %}
-**치료 후에도 3\~5일간은 증상이 더 심해질 수 있습니다.** 이는 자연 경과이며 치료 실패가 아닙니다. 환자에게 미리 설명하여 불필요한 재내원과 항생제 요구를 예방합니다.
-{% endhint %}
+#### <mark style="color:$primary;">종류</mark>&#x20;
 
-### <mark style="color:orange;">질환별 특징</mark>
-
-#### <mark style="color:$primary;">급성 출혈 결막염 (Acute hemorrhagic conjunctivitis)</mark>
+**급성 출혈 결막염 (Acute hemorrhagic conjunctivitis)**
 
 * 원인균 : enterovirus 70, coxsackievirus 24
 * 증상 : 출혈성 분비물, 부종, 통증
 
-#### <mark style="color:$primary;">인두결막열 (Pharyngoconjunctival fever)</mark>
+**인두결막열 (Pharyngoconjunctival fever)**
 
 * 원인균 : adenovirus가 눈과 인두에 이환
 * 증상 : 인두염, 양측 결막염(눈꺼풀 결막의 충혈 및 follicular reaction), 고열, 귓바퀴 앞 림프절병증
 
-#### <mark style="color:$primary;">유행성 각결막염 (Epidemic keratoconjunctivitis)</mark>
+**유행성 각결막염 (Epidemic keratoconjunctivitis)**
 
 * 원인균 : adenovirus type 8, 19, 37
 * 증상 : 심한 이물감, 가려움, 작열감, 눈부심, 안구 결막 부종(chemosis), 결막 소포 비대, 결막 위막, 시야 혼탁(각막 이환 시)
 
-#### <mark style="color:$primary;">단순포진 결막염</mark>
+**단순포진 결막염**
 
-* 원인균 : herpes simplex (☞ p.958)
+* 원인균 : herpes simplex (☞ [단순포진](../229_/181_-herpes-simplex.md))
 * 증상 : 작열감, 편측 이환, 피부 수포 동반; 가려움은 적음
 
-{% hint style="danger" %}
-**HSV 결막염 의심 시 스테로이드 점안액 절대 금기** — 각막 수지상 병변(dendritic lesion) 확인 시 즉시 안과 의뢰
-{% endhint %}
-
-***
+ ※ HSV 결막염 의심 시 스테로이드 점안액 절대 금기 - 각막 수지상 병변(dendritic lesion) 확인 시 즉시 안과 의뢰
 
 ## <mark style="color:green;">세균 결막염 (Bacterial Conjunctivitis)</mark>
 
@@ -132,88 +119,66 @@
 * 결막 충혈 및 부종, 눈꺼풀 결막의 papillary change
 * 가려움 및 국소 림프절 비대는 적음
 
-#### <mark style="color:$primary;">Gonococcal conjunctivitis</mark>
+**Gonococcal conjunctivitis**
 
-* 경과 : **Hyperacute** — 수 시간 내에도 각막 천공이 가능한 **안과적 응급**
+* 경과 : Hyperacute - 수 시간 내에도 각막 천공이 가능함(응급)
 * 증상 : 매우 많은 화농성 분비물(profuse purulent discharge), 심한 결막 부종
 * 관련 인자 : 성 접촉
 
-{% hint style="danger" %}
-**응급 안과 의뢰** — 각막 천공 위험. 항생제 치료와 함께 시간당 생리식염수 안구 세척 병행. 성 파트너 동시 치료 필요.
-{% endhint %}
+ ※ 항생제 치료와 함께 시간당 생리식염수 안구 세척 병행. 성 파트너 동시 치료 필요.
 
-#### <mark style="color:$primary;">Chlamydia conjunctivitis</mark>
+**Chlamydia conjunctivitis**
 
 * 증상 : 보통 편측 발생, 귓바퀴 앞 림프절 압통
 * 관련 인자 : 직간접 생식기 접촉
 
-***
-
 ## <mark style="color:green;">기타</mark>
 
-### <mark style="color:orange;">콘택트렌즈 관련 결막염</mark>
-
-(☞ p.181)
+#### <mark style="color:$primary;">콘택트렌즈 관련 결막염</mark>
 
 * 증상 : 편측 또는 양측 충혈, 경미한 가려움, 점액성 분비물, 결막 비후
 * 치료 : 최근에 사용한 렌즈 및 케이스 폐기 또는 철저 소독
   * 알레르기 또는 감염 의심 양상 시 이에 대하여 치료
   * 항생제 투여 시 흔한 원인균인 P. aeruginosa에 대하여 quinolone 제제 선택
 
-{% hint style="warning" %}
-**각막 침윤(corneal infiltrate) 확인 필수** — 콘택트렌즈 사용자는 단순 결막염으로 간과하기 쉬우나 Pseudomonas에 의한 세균 각막 궤양으로 신속히 진행할 수 있습니다. 펜라이트 또는 세극등으로 각막 혼탁·침윤 여부를 반드시 확인하고, 의심 시 즉시 안과 의뢰합니다.
-{% endhint %}
+ ※ 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 단순 결막염으로 간과하기 쉬우나 Pseudomonas에 의한 세균 각막 궤양으로 신속히 진행할 수 있으므로 각막 혼탁·침윤 여부를 반드시 확인하고, 의심 시 즉시 의뢰
 
-### <mark style="color:orange;">기계적 결막염</mark>
+#### <mark style="color:$primary;">기계적 결막염</mark>
 
 * 증상 : 국소 또는 광범위 결막 충혈, 이물감, 눈물
 * 치료 : 이물 제거, 윤활제(점안 연고제), 감염 치료
 
-### <mark style="color:orange;">외상성 결막염</mark>
+#### <mark style="color:$primary;">외상성 결막염</mark>
 
 * 증상 : 결막 충혈, 눈물, 이물감
 * 치료 : 원인에 따른 치료. 세척, 항생제 연고
 
-### <mark style="color:orange;">독성 결막염 (Toxic conjunctivitis)</mark>
+#### <mark style="color:$primary;">독성 결막염 (Toxic conjunctivitis)</mark>
 
 * 원인 : 안약제(인공 눈물, 콘택트렌즈 액 포함)의 1일 다회, 장기 사용에 의한 자극 반응; 흔히 안약에 포함되어 있는 방부제와 관련
 * 증상 : 가려움, 결막 충혈, chemosis, 점액성 분비물, 눈꺼풀 결막의 follicular/papillary 변화
 * 치료 : 원인에 따른 치료. 윤활제
 
-***
-
 ## <mark style="color:green;">진단</mark>
 
 * 진단을 위한 검사는 보통 필요 없음
-* 다른 질환 배제를 위하여 고려 (☞ p.180)
+* 다른 질환 배제를 위하여 고려 (☞ [눈 충혈](037_-red-eye.md))
 
 ### <mark style="color:orange;">감별</mark>
 
-분비물 등의 임상 양상으로 감별을 시도하지만 종종 명확하지 않음
+* 분비물 등의 임상 양상으로 감별을 시도하지만 종종 명확하지 않음
 
-![image](../.gitbook/assets/5fbb8f05-0ab7-4fb9-a9b8-e3b0cbb17fb5.JPG)
+<table><thead><tr><th width="151"></th><th width="187">알레르기</th><th width="147">바이러스</th><th width="152">세균</th></tr></thead><tbody><tr><td><strong>분비물</strong> 수양성</td><td>+</td><td>+</td><td>-</td></tr><tr><td><strong>분비물</strong> 점액성</td><td>+</td><td>-</td><td>-</td></tr><tr><td><strong>분비물</strong> 점액고름성</td><td>-</td><td>-</td><td>+</td></tr><tr><td><strong>분비물</strong> 고름성</td><td>-</td><td>-</td><td>+</td></tr><tr><td><strong>눈부심</strong></td><td>-</td><td>±</td><td>-</td></tr><tr><td><strong>통증 특징</strong></td><td>가려움</td><td>모래 느낌, 작열감</td><td>모래 느낌, 작열감</td></tr><tr><td><strong>기타</strong></td><td>다른 알레르기 질환 동반</td><td>한쪽 눈에서 시작</td><td>한쪽 눈에서 시작</td></tr></tbody></table>
 
-### <mark style="color:orange;">🔎 Quick Decision Tips</mark>
+_<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origins. Surv Ophthalmol 1993;38</mark>_
 
-| 핵심 질문 | YES → |
-|---|---|
-| 통증이 심하거나 시력이 떨어졌는가? | 🚨 **즉시 안과 의뢰** (각막염·홍채염·녹내장 배제) |
-| 눈이 심하게 가려운가? | 💊 **알레르기성** → 냉찜질, 항히스타민 점안액 |
-| 눈곱이 닦아도 10분 내 다시 끼는가? | 💊 **세균성** → 경험적 항생제 점안액 고려 |
-| 감기 기운 + 귀 앞 림프절이 부었는가? | 🏠 **바이러스성** → 대증 치료, 격리·위생 강조 |
-| 콘택트렌즈 착용자인가? | 🔦 **각막 침윤 확인** 필수 → 의심 시 즉시 의뢰 |
+### <mark style="color:orange;">Quick Decision Tips</mark>
 
-{% hint style="info" %}
-**알레르기 결막염과 편측 증상** : 한쪽 눈에만 증상이 있어도 알레르기를 배제할 수 없습니다. 가려운 눈을 비빈 손이 반대쪽 눈을 아직 건드리지 않았다면 일시적으로 편측 양상으로 보일 수 있습니다.
-{% endhint %}
-
-{% hint style="warning" %}
-**스테로이드 점안액은 양날의 검** — 증상 완화 효과가 있으나 HSV 각막염에서 각막 손상 악화, 장기 사용 시 안압 상승·백내장 위험이 있습니다. 처방 전 HSV 감염 여부를 반드시 확인하십시오.
-{% endhint %}
+<table><thead><tr><th width="315">핵심 질문</th><th>YES →</th></tr></thead><tbody><tr><td>통증이 심하거나 시력이 떨어졌는가?</td><td><strong>즉시 안과 의뢰</strong> (각막염·홍채염·녹내장 배제)</td></tr><tr><td>눈이 심하게 가려운가?</td><td><strong>알레르기성</strong> → 냉찜질, 항히스타민 점안액</td></tr><tr><td>눈곱이 닦아도 10분 내 다시 끼는가?</td><td><strong>세균성</strong> → 경험적 항생제 점안액 고려</td></tr><tr><td>감기 기운 + 귀 앞 림프절이 부었는가?</td><td><strong>바이러스성</strong> → 대증 치료, 격리·위생 강조</td></tr><tr><td>콘택트렌즈 착용자인가?</td><td><strong>각막 침윤 확인</strong> 필수 → 의심 시 즉시 의뢰</td></tr></tbody></table>
 
 ***
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -223,40 +188,32 @@
 * 알레르기성인 경우 알레르겐 회피
 * 감염성인 경우 최근에 사용한 렌즈 폐기 또는 철저 소독, 눈 화장품(특히 마스카라) 폐기
 * 항생제 안약 : 제한적 사용; 세균성 결막염에 대하여 고려할 수 있으나 세균성 결막염도 대부분 자연 치유되므로 항생제 안약 사용이 필요한 경우는 많지 않음
+* **스테로이드 점안액은 양날의 검** — 증상 완화 효과가 있으나 HSV 각막염에서 각막 손상 악화, 장기 사용 시 안압 상승·백내장 위험이 있습니다. 처방 전 HSV 감염 여부를 반드시 확인하십시오.
 
-### <mark style="color:orange;">안약 사용법</mark>
+#### <mark style="color:$primary;">안약 사용법</mark>
 
 * 개봉하여 사용한 다회 사용 점안액 사용 기한 : 개봉 후 4주(1달)
 * 다음의 경우 무방부제 약제 선택 : 1일 5회(미국안과학회)\~7회(NHS) 이상 지속 사용, 콘택트렌즈 착용
 * 투여량 : 아래 눈꺼풀 안쪽에 액체의 경우 1\~2방울 점적, 연고의 경우 0.5 인치 투여
 * 다른 성분의 여러 안약제를 투여하는 경우 3\~5분 간격으로 투여
 
-#### <mark style="color:$primary;">점안액 점안 방법</mark>
+**점안액 점안 방법**
 
-① 약병을 확인한다.
-
-② 손을 씻는다.
-
-③ 병을 열기 전에 몇 번 흔든다.
-
-④ 고개를 뒤로 젖힌 후 한 손가락으로 아래 눈꺼풀을 아래로 당긴다.
-
-⑤ 약병 끝이 눈에 닿지 않는 높이에서 안구와 눈꺼풀 사이에 떨어뜨린다.
-
-⑥ 점안 후 수 초 동안 눈을 살짝 감고 있는다. (✽반복적인 깜박임은 피함)
-
-⑦ (약이 좀 더 머물 수 있도록) 눈의 코 쪽 끝을 손가락으로 수 분 동안 눌러 준다.
-
-⑧ 손을 씻는다.
-
-***
+1. 약병을 확인한다.
+2. 손을 씻는다.
+3. 병을 열기 전에 몇 번 흔든다.
+4. 고개를 뒤로 젖힌 후 한 손가락으로 아래 눈꺼풀을 아래로 당긴다.
+5. 약병 끝이 눈에 닿지 않는 높이에서 안구와 눈꺼풀 사이에 떨어뜨린다.
+6. 점안 후 수 초 동안 눈을 살짝 감고 있는다. (✽반복적인 깜박임은 피함)
+7. (약이 좀 더 머물 수 있도록) 눈의 코 쪽 끝을 손가락으로 수 분 동안 눌러 준다.
+8. 손을 씻는다.
 
 ## <mark style="color:green;">알레르기 결막염 치료</mark>
 
 * 문지르지 않는 것이 중요
 * 냉찜질 : 가려움 및 부종 감소 효과
-* 인공 눈물 : 증상 완화, 알레르겐 제거 효과 (☞ p.203)
-* 알레르겐 회피 (☞ p.242, 343)
+* 인공 눈물 : 증상 완화, 알레르겐 제거 효과 (☞ [눈마름증](042_-dry-eye.md#undefined-6))
+* 알레르겐 회피 (☞ [항원회피](051_-allergic-rhinitis.md#undefined-13), [위험인자관리](../223_/071_-asthma.md#undefined-37))
 
 #### <mark style="color:$primary;">국소 항히스타민제</mark>
 
@@ -298,14 +255,14 @@
 
 #### <mark style="color:$primary;">국소 비내 Steroid</mark>
 
-* 적용 : 알레르기비염/결막염과 관련된 안구 증상 치료에 효과 (☞ p.243)
+* 적용 : 알레르기비염/결막염과 관련된 안구 증상 치료에 효과 (☞  [비내용스테로이드](051_-allergic-rhinitis.md#undefined-17))
 * 비염 증상 없이 안구 증상만 있는 경우에는 사용하지 않음
 
 #### <mark style="color:$primary;">국소 면역 조절제</mark>
 
 * 적용 : vernal or atopic keratoconjunctivitis의 steroid 의존 환자에서 steroid 대체 고려
 * 이 약제의 사용을 고려할 정도의 심한 환자는 의뢰를 고려
-* 종류 : 국소 cyclosporine \[레스타시스], 국소 tacrolimus(CsA에 난치성인 경우) (보험기준 ☞ p.204)
+* 종류 : 국소 cyclosporine \[레스타시스]\(☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)), 국소 tacrolimus(CsA에 난치성인 경우)&#x20;
 
 #### <mark style="color:$primary;">알레르겐 면역 치료</mark>
 
@@ -314,7 +271,9 @@
   * IgE-mediated hypersensitivity가 입증될 때만 고려
 * subcutaneous immunotherapy : 알레르기 결막염의 증상 완화에 효과
 
-![image](../.gitbook/assets/4c0e4661-3388-4659-bac1-105b339635d1.JPG)
+***
+
+![](../.gitbook/assets/4c0e4661-3388-4659-bac1-105b339635d1.JPG)
 
 ***
 
@@ -322,23 +281,19 @@
 
 * 특별한 치료법은 없음
 * 눈꺼풀 세척 : (유아용 비누/샴푸 또는 눈꺼풀 세정제로) 1일 4회 세척
-* 냉찜질, 인공 눈물 : 증상 완화에 도움 (☞ p.203)
+* 냉찜질, 인공 눈물 : 증상 완화에 도움 (☞ [인공눈물](042_-dry-eye.md#undefined-9); [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0013))
 * 국소 steroid : 증상 완화에 일부 유효하나 바이러스 배출을 연장시킬 가능성이 있음
 * 국소 항히스타민제/수축제 : 증상 완화 효과
 * 경구 항히스타민제 : 코 증상 및 가려움을 줄일 수 있으나 안구 건조를 유발할 수 있음
 
-{% hint style="info" %}
-**아데노바이러스 가족 내 전파 방지** — 전염력이 매우 강하며 증상 발현 전후로도 전파됩니다. 수건·비누 공유를 금지하고, 수도꼭지·문손잡이·욕실 표면을 소독합니다(70% 알코올 또는 염소계 소독제). 눈을 만진 후에는 즉시 손을 씻습니다.
-{% endhint %}
+ ※ 아데노바이러스는 염력이 매우 강하며 증상 발현 전후로도 전파됨. 수건·비누 공유를 금지하고, 수도꼭지·문손잡이·욕실 표면을 소독(70% 알코올 또는 염소계 소독제). 눈을 만진 후에는 즉시 손을 씻음
 
 #### <mark style="color:$primary;">항바이러스제</mark>
 
 * adenovirus 등 일반적으로는 효과 없음
 * herpes 감염에 적용 (헤르페스 의심 시 의뢰)
 * 국소 : ganciclovir \[버간], trifluridine \[오큐플리딘]
-* 경구 : acyclovir, valacyclovir (☞ p.962)
-
-***
+* 경구 : acyclovir, valacyclovir (☞ [단순포진](../229_/181_-herpes-simplex.md#undefined-14))
 
 ## <mark style="color:green;">세균 결막염 치료</mark>
 
@@ -354,7 +309,10 @@
 * 치료 시작 2일째에도 반응하지 않으면 의뢰 고려
 * quinolone제는 1차로 선택하지 않으며 수술 후, 콘택트렌즈 관련 결막염, 다른 항생제에 내성이 있는 경우에 고려
 
-![image](../.gitbook/assets/c770cff1-6351-40de-a6c7-dc726b0e7348.JPG)
+<table><thead><tr><th width="385">성분명 [상품명]</th><th width="141">적응증 균주</th><th width="104">용법</th></tr></thead><tbody><tr><td>tobramycin [토라빈]</td><td>SA, SP, H, E, P</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/TMP</td><td>SA, SP, H, E</td><td>q3h</td></tr><tr><td>erythromycin/colistin</td><td>SA, SP, H, N</td><td>qhs~qid</td></tr><tr><td>bacitracin</td><td>SA, SP, N</td><td>qhs~qid</td></tr><tr><td>oxytetracycline/polymyxin-B [테라마이신]</td><td>SA, E, N</td><td>q2h~qid</td></tr><tr><td>chloramphenicol [클로람페니콜]</td><td>SA, H</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/neomycin</td><td>SA, P</td><td>qid</td></tr><tr><td>Na sulfacetamide</td><td>SP, H</td><td>q2h~qid</td></tr><tr><td>sulfisoxazole diolamine</td><td>SP, H</td><td>qid</td></tr><tr><td>ciprofloxacin [씨펙스], ofloxacin [타리비드], levofloxacin [크라비트], moxifloxacin [모록사신]</td><td>SA, SP, H, P</td><td>q2h~qid</td></tr></tbody></table>
+
+_<mark style="color:$info;">SA=S. aureus, SP=S. pneumoniae, H=H. influenzae, P=P. aeruginosa, E=Escherichia coli, N=Neisseria, TMP=trimethoprim.</mark>_\
+&#xNAN;_<mark style="color:$info;">Ref. American optometric association. Care of the patient with conjunctivitis. 2002.</mark>_
 
 #### <mark style="color:$primary;">국소 항생제 대용</mark>
 
@@ -381,8 +339,6 @@
 ***
 
 ## <mark style="color:green;">안약제 종류</mark>
-
-![image](../.gitbook/assets/845655ab-d74d-4ee5-bde0-af4c02398c7c.JPG)
 
 ***
 
@@ -457,14 +413,6 @@
 
 ***
 
-> **질병코드**
-> A74.0 클라미디아결막염
-> B00.52 헤르페스결막염
-> B30 바이러스결막염
-> H10 결막염
-> H10.1 급성 아토피결막염
-> H11 결막의 기타 장애
-> H13.1 달리 분류된 감염성 및 기생충성 질환에서의 결막염
-> H16 각막염
+> **질병코드** A74.0 클라미디아결막염 B00.52 헤르페스결막염 B30 바이러스결막염 H10 결막염 H10.1 급성 아토피결막염 H11 결막의 기타 장애 H13.1 달리 분류된 감염성 및 기생충성 질환에서의 결막염 H16 각막염
 
 ![image](../.gitbook/assets/868b5f56-1b0f-474e-b9bc-c4c1e9d9fdef.JPG)

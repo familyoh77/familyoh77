@@ -17,7 +17,7 @@
 * 안구 관통상 또는 심한 둔상
 * Hypopyon 또는 Hyphema 확인 시
 
-<mark style="color:$warning;">**당일 또는 조기 안과 의뢰**</mark>
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 시력 저하, 각막 혼탁, 심한 눈부심, 동공 반사 이상
 * 심한 안구통 (특히 움직일 때 통증 → 공막염 의심)
