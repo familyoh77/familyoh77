@@ -131,7 +131,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 * 초음파, D-Dimer : 명백한 원인이 없는 급성 하지 부종에 대하여 DVT 감별을 위하여 고려
   * D-Dimer는 [Wells score](https://www.mdcalc.com/calc/362/wells-criteria-dvt) 저위험군(≤1점)에서만 음성 예측도가 높음; 중등도 이상 위험군(≥2점)에서는 D-Dimer 음성이라도 압박 초음파(CUS)를 반드시 시행
-* Ankle-brachial pressure index : 만성 정맥 부전 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함; 혈관 석회화로 ABI가 위양성으로 높게 측정될 수 있어 이 경우 toe-brachial index(TBI ＜0.7 시 이상) 또는 발등동맥·후경골동맥 맥박 촉진으로 보완
+* Ankle-brachial pressure index : 만성 정맥 부전과 동맥 질환 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함; 혈관 석회화로 ABI가 위양성으로 높게 측정될 수 있어 이 경우 toe-brachial index(TBI ＜0.7 시 이상) 또는 발등동맥·후경골동맥 맥박 촉진으로 보완
 * s-Cr, 소변 시험지봉 검사 : 신질환(특히 신증후군) 감별을 위하여 고려
 
 ***
@@ -190,7 +190,8 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 더운 환경을 피함
 * leg elevation : 하지 부종에 대하여 심장 높이 이상으로 30분씩 하루 3\~4회
 * 하지 압박: 깨어 있을 때 압박 스타킹 착용; 취침 시에는 착용하지 않음
-  * 1차 선택: 무릎 아래(Below-knee, AD) 스타킹; 허벅지까지(AG)는 병변이 허벅지 이상으로 명확히 존재하는 경우에 한해 선택적 적용; AG 타입은 순응도가 낮고, 무릎 뒤에서 접힐 경우 지혈대 효과(Tourniquet effect) 위험
+  * 1차 선택  : 일반적으로 AD type 스타킹(발목\~무릎 아래)
+    * AG type(발목\~허벅지) : 병변이 허벅지 이상으로 명확히 존재하는 경우에 한해 선택적 적용; 순응도가 낮고, 무릎 뒤에서 접힐 경우 지혈대 효과(Tourniquet effect) 위험
   * 금기 : ABI ＜0.5 (중증 동맥 부전); 울혈성 심부전 NYHA Class III/IV (정맥 환류 급증으로 심장 부하 증가 위험); 취침 시 착용 금지; ABI 0.5\~0.8에서는 저압력(20 ㎜Hg 이하) 적용 시 주의 하에 사용 가능
   * 주의 : 중증 말초신경병증(peripheral neuropathy) 환자는 압박에 의한 피부 손상을 감지하지 못할 수 있으므로 신중히 적용하고 정기적으로 피부 상태를 확인
 * 단순 부종 조절 목적 시 20\~30 ㎜Hg, 궤양 등 중증 시 30\~40 ㎜Hg의 압력 적용
