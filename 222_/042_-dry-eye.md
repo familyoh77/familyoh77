@@ -3,22 +3,14 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 눈물 생성 및 tear film 유지의 장애
-* 다른 이름 : keratoconjunctivitis sicca, **dry eye disease(DED)**\
+* 다른 이름 : keratoconjunctivitis sicca, dry eye disease(DED)\
   ✽TFOS DEWS III(2025) 공식 용어는 "disease"(건성안 질환). "syndrome"은 원인 불명의 증후군 뉘앙스가 있어 특정 치료 가능한 질환임을 흐리므로 사용하지 않음
+* 정의 (TFOS DEWS III, 2025) : 눈물막 및/또는 안구 표면의 항상성 소실을 특징으로 하는 다인성 증상 질환으로, 눈물막 불안정성·고삼투압, 안구 표면 염증 및 손상, 신경감각 이상(neurosensory abnormality)이 병인에 포함됨
+  * 반드시 증상이 동반되어야 함; 증상 없이 징후만 있는 경우는 DED가 아닌 '안구 표면 질환'으로 분류
+* 분류 : ADDE (Aqueous-Deficient Dry Eye, 수성 눈물 결핍형), EDE (Evaporative Dry Eye, 증발과다형) , 혼합형 (ADDE와 EDE의 복합; : 임상에서 가장 많음)
 * 보통 양측 발생
 * 유병률 : 성인의 5\~50%(진단 기준에 따라 범위 광범위); 고령 여성에서 특히 높음
 * 합병증 : 안검염, cornea neovascularization, cornea epithelial erosion
-
-#### <mark style="color:$primary;">정의 (TFOS DEWS III, 2025)</mark>
-
-* "눈물막 및/또는 안구 표면의 항상성 소실을 특징으로 하는 다인성 **증상** 질환으로, 눈물막 불안정성·고삼투압, 안구 표면 염증 및 손상, **신경감각 이상(neurosensory abnormality)**이 병인에 포함됨"
-* 반드시 증상이 동반되어야 함; 증상 없이 징후만 있는 경우는 DED가 아닌 '안구 표면 질환'으로 분류
-
-#### <mark style="color:$primary;">분류</mark>
-
-* **ADDE (Aqueous-Deficient Dry Eye, 수성 눈물 결핍형)** : 눈물샘 기능 부전으로 수성 눈물 생성 감소; Sjögren syndrome, 비-Sjögren 눈물샘 질환
-* **EDE (Evaporative Dry Eye, 증발과다형)** : 눈물막 지질층 결핍으로 인한 과도한 눈물 증발; Meibomian gland dysfunction(MGD)이 가장 흔한 원인
-* **혼합형** : 임상에서 가장 많음; ADDE와 EDE의 복합
 
 #### <mark style="color:$primary;">눈물 층의 구성</mark>
 
@@ -28,32 +20,34 @@
 
 ## <mark style="color:green;">원인</mark>
 
-#### <mark style="color:$primary;">눈물 생성 부족/감소 (→ ADDE)</mark>
+#### <mark style="color:$primary;">눈물 생성 부족/감소 (ADDE)</mark>
 
-* androgen 감소(고령·폐경), 눈물샘 결함, Sjögren's syndrome, RA, 당뇨병, 안검염 후유 장애, 눈 수술(예: blepharoplasty, 백내장 수술, 시력 교정술)
-* 약물 : 항히스타민제, 항콜린제, 항우울제, estrogen(경구 피임제), isotretinoin, 세로토닌 수용체 대항제, 이뇨제, β-차단제, amiodarone, nicotinic acid
+* 눈물샘 기능 부전으로 수성 눈물 생성 감소
+* 유발 요인 : androgen 감소(고령·폐경), 눈물샘 결함, Sjögren's syndrome, RA, 당뇨병, 안검염 후유 장애, 눈 수술(예: blepharoplasty, 백내장 수술, 시력 교정술)
+  * 유발약물 : 항히스타민제, 항콜린제, 항우울제, estrogen(경구 피임제), isotretinoin, 세로토닌 수용체 대항제, 이뇨제, β-차단제, amiodarone, nicotinic acid
 
-#### <mark style="color:$primary;">Tear film 불안정, 빠른 눈물 증발 (→ EDE)</mark>
+#### <mark style="color:$primary;">Tear film 불안정, 빠른 눈물 증발 (EDE)</mark>
 
-* **MGD(Meibomian gland dysfunction)** : 가장 흔한 원인; 지질층 결핍으로 눈물 증발 가속
-* 안구열 이상, 안검 내반/외반, Bell's palsy, 알레르기, 콘택트렌즈 착용, 영양 결핍(예: Vit A 결핍), 안약의 잦은 장기 사용(특히 보존제 함유 안약)
-* 건조한 환경(예: 냉/온풍기 사용, 높은 고도), 자극(예: 담배 연기)
-* 눈 깜빡임 감소 : IT 기기·화면 사용, 독서, 운전, 파킨슨병
+* 눈물막 지질층 결핍으로 인한 과도한 눈물 증발
+* Meibomian gland dysfunction(MGD)이 가장 흔한 원인
+* 유발 요인 : 안구열 이상, 안검 내반/외반, Bell's palsy, 알레르기, 콘택트렌즈 착용, 영양 결핍(예: Vit A 결핍), 안약의 잦은 장기 사용(특히 보존제 함유 안약)
+  * 건조한 환경(예: 냉/온풍기 사용, 높은 고도), 자극(예: 담배 연기)
+  * 눈 깜빡임 감소 : IT 기기·화면 사용, 독서, 운전, 파킨슨병
 
-#### <mark style="color:$primary;">TFOS DEWS III 추가 위험인자 (2025)</mark>
+#### <mark style="color:$primary;">추가 위험인자</mark>
 
-* **수면 장애** : 불량한 수면의 질, 수면 시간 부족
-* **심리적 동반 질환** : 우울·불안·스트레스 → 증상 중증도와 유의미하게 연관
-* **눈 주위 화장** : 마스카라, 아이라이너 등(meibomian gland 개구부 폐쇄 가능)
-* **환경** : 대기 오염, 낮은 습도, 고온
-* **장내 마이크로바이옴 이상** : 근거 축적 중
+* 수면 장애 : 불량한 수면의 질, 수면 시간 부족
+* 심리적 동반 질환 : 우울·불안·스트레스 → 증상 중증도와 유의미하게 연관
+* 눈 주위 화장 : 마스카라, 아이라이너 등(meibomian gland 개구부 폐쇄 가능)
+* 환경 : 대기 오염, 낮은 습도, 고온
+* 장내 마이크로바이옴 이상 (근거 축적 중)
 
 ## <mark style="color:green;">임상 양상</mark>
 
 * 충혈, 건조, 자극감, 작열감, 가려움, 이물감(모래 느낌), 안구통, 눈부심, 시야 흐림
 * 소량의 점액성 분비물 : 눈물 감소에 따른 점액질 분비 증가에 기인
 * 과도한 눈물(paradoxical tearing) : 안구 표면 자극·손상 → 눈물샘 반사 자극 → 수성 눈물 분비 증가; 안구 건조가 지속되면 점차 감소
-* **증상-징후 불일치** : 증상이 임상 소견에 비해 현저히 심하거나(또는 반대로 미미한) 경우 → 신경감각 이상(neuropathic dry eye) 고려
+* 증상-징후 불일치 : 증상이 임상 소견에 비해 현저히 심하거나(또는 반대로 미미한) 경우 → 신경감각 이상(neuropathic dry eye) 고려
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -69,38 +63,75 @@
 * Sjögren syndrome 등 전신 질환 동반 의심(구강건조·관절통 병발)
 * 치료에도 증상이 임상 소견과 현저히 불일치 → 신경병증성 건성안(neuropathic dry eye) 의심
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 즉각 위험 낮으나 호전 없으면 의뢰**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 인공 눈물 등 1차 치료로 4\~6주 내 호전 없음
 * 난치성 증상으로 국소 면역억제제 사용 고려 시
 
 ## <mark style="color:green;">진단</mark>
 
-* 단일 확진 검사는 없으며, **증상 + 임상 검사 소견의 조합**으로 진단
+* 단일 확진 검사는 없으며, '증상 + 임상 진찰소견'으로 진단
 * 증상 확인 : 검증된 설문지 사용 권고\
-  — **OSDI-6** (6문항, cut-off ≥4; TFOS DEWS III 2025 권고)\
-  — DEQ-5 (5문항, cut-off ≥6; 대안)
+  \- OSDI-6 (6문항, cut-off ≥4; TFOS DEWS III 2025 1차권고)\
+  \- DEQ-5 (5문항, cut-off ≥6; OSDI-6 작성이 어려운 경우 대안)
+* Schirmer's test : 5분 후 ＜10 ㎜ wetting → ADDE 시사
 * 눈물막 항상성 이상 확인 (아래 중 1가지 이상 이상 소견)
   * tear film breakup time (TBUT) : ＜10초
   * tear osmolarity : ≥308 mOsm/L (또는 양안 차이 >8 mOsm/L)
   * 각결막 형광 염색(corneal/conjunctival staining) 이상
-* Schirmer's test : 5분 후 ＜10 ㎜ wetting → ADDE 시사
-* MGD 평가 : meibomian gland expressibility, 눈꺼풀 가장자리 관찰; 안과 의뢰 시 **Meibography(마이봄샘 촬영)**로 선상 위축·구조적 손상 평가 가능
+* MGD 평가 : meibomian gland expressibility, 눈꺼풀 가장자리 관찰; Meibography(마이봄샘 촬영)로 선상 위축·구조적 손상 평가 가능
 * Sjögren syndrome 자가 항체 검사(anti-SSA/SSB), 갑상선 기능 검사
-* 알레르기 질환과의 감별을 요함 (☞ p.185)
+* 알레르기 질환과의 감별을 요함 (☞ [결막염](038_-conjunctivitis.md#allergic-conjunctivitis))
 * 필요 시 각막 손상 여부 검사(slit-lamp exam)
 
-### <mark style="color:orange;">Quick Decision Tips — 아형 감별</mark>
+**OSDI-6 설문지 (Ocular Surface Disease Index 6)**
 
-<table><thead><tr><th width="230">핵심 소견</th><th width="180">시사하는 아형</th><th>1차 치료 방향</th></tr></thead><tbody><tr><td>TBUT 단축, Schirmer 정상, 눈꺼풀 기름 분비 불량</td><td>증발과다형 (EDE/MGD)</td><td>온찜질·눈꺼풀 위생 + 지질 보충 인공 눈물; doxycycline 고려</td></tr><tr><td>Schirmer ↓, TBUT 정상 또는 경미한 단축</td><td>수성 결핍형 (ADDE)</td><td>고점도 인공 눈물·무방부제 단회용; Sjögren 감별</td></tr><tr><td>두 검사 모두 이상</td><td>혼합형</td><td>위 두 가지 병행</td></tr><tr><td>증상 심한데 징후 미미(또는 반대)</td><td>신경감각 이상 의심</td><td>안과 의뢰</td></tr></tbody></table>
+* 지난 한 달 중 일상적인 하루 동안 아래 상황을 경험한 빈도를 항상(4점), 대부분(3점), 종종(2점), 가끔(1점점), 없음(0점)으로 답변
+* 채점/판정 : 각 문항 점수 합산(최저 0점, 최고 24점) → 총점 ≥ 4 → 건성안 의심
 
-### <mark style="color:orange;">감별 진단 — 건성안과 증상이 유사한 질환</mark>
+ \[증상·시기능 영역]
 
-{% hint style="warning" %}
-아래 질환은 건성안과 충혈·이물감·불편감 등 증상이 유사하나 치료 방침이 전혀 다르므로 감별이 중요합니다.
-{% endhint %}
+* 1\. 빛에 눈이 민감하셨나요?
+* 2\. 눈을 깜박이는 사이에 시야가 흐려지셨나요?
 
-<table><thead><tr><th width="200">질환</th><th width="250">건성안과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td><strong>상공막염 (Episcleritis)</strong></td><td>국소적 선홍색 충혈(부채꼴 모양), 해당 부위 압통 양성; 분비물 없음</td><td>인공 눈물 무효; 국소 스테로이드 또는 경구 NSAID에 반응; 재발 잦음 → 안과 의뢰</td></tr><tr><td><strong>결막이완증 (Conjunctivochalasis)</strong></td><td>하결막의 과잉 주름이 각막 하부를 덮음; 눈을 뜰 때 하안검 안쪽 결막이 접혀 보임</td><td>Slit-lamp 검사로 결막 주름 확인; 인공 눈물 일부 효과 있으나 근본 치료는 결막 절제술 → 안과 의뢰</td></tr></tbody></table>
+ \[시각 기능 영역]
+
+* 3\. 야간 운전(또는 동승) 시 불편하셨나요?
+* 4\. TV 시청 또는 유사한 작업 시 불편하셨나요?
+
+ \[환경 영역]
+
+* 5\. 바람이 부는 환경에서 불편하셨나요?
+* 6\. 습도가 낮은 환경에서 불편하셨나요?
+
+**DEQ-5 설문지(Dry Eye Questionnaire 5)**
+
+* 지난 한 달 중 일상적인 하루 동안의 경험
+* 채점/판정 : 각 문항 점수 합산(최저 0점, 최고 22점) → 총점 ≥ 6 → 건성안 의심
+
+ \[눈의 불편감(Eye Discomfort)]
+
+* 1\. 눈이 불편하다고 느낀 빈도는? 없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)
+* 2, 잠자리에 들기 2시간 전, 하루가 끝날 무렵 불편감의 강도는? 없음(0), 매우 약함(1)\~매우 심함(5)
+
+ \[눈의 건조감(Eye Dryness)]
+
+* 3\. 눈이 건조하다고 느낀 빈도는? 없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)
+* 4\. 잠자리에 들기 2시간 전, 하루가 끝날 무렵 건조감의 강도는? 없음(0), 매우 약함(1)\~매우 심함(5)
+
+ \[눈물 흘림(Watery Eyes)]
+
+* 5\. 눈이 지나치게 촉촉하거나 눈물이 흘렀던 빈도는? 없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)
+
+#### <mark style="color:$primary;">아형 감별</mark>
+
+<table><thead><tr><th width="249">핵심 소견</th><th width="172">시사하는 아형</th><th>1차 치료 방향</th></tr></thead><tbody><tr><td>Schirmer 정상, TBUT↓, 눈꺼풀 기름 분비 불량</td><td>증발과다형 (EDE/MGD)</td><td>온찜질·눈꺼풀 위생 + 지질 보충 인공 눈물; doxycycline 고려</td></tr><tr><td>Schirmer↓, TBUT 정상 또는 경미한↓</td><td>수성 결핍형 (ADDE)</td><td>고점도 인공 눈물·무방부제 단회용; Sjögren 감별</td></tr><tr><td>Schirmer↓, TBUT↓</td><td>혼합형</td><td>위 두 가지 병행</td></tr><tr><td>증상 심한데 징후 미미(또는 반대)</td><td>신경감각 이상 의심</td><td>의뢰</td></tr></tbody></table>
+
+### <mark style="color:orange;">감별 진단</mark>
+
+* 충혈, 이물감, 불편감이 나타날 수 있는 질환들의 감별
+
+<table><thead><tr><th width="125">질환</th><th width="250">건성안과의 차이점</th><th width="307">핵심 감별 포인트</th></tr></thead><tbody><tr><td>상공막염 <br>(Episcleritis)</td><td>국소적 선홍색 충혈(부채꼴 모양), 해당 부위 압통 양성; 분비물 없음</td><td>인공 눈물 무효; 국소 스테로이드 또는 경구 NSAID에 반응; 재발 잦음 → 안과 의뢰</td></tr><tr><td>결막이완증 <br>(Conjunctivo chalasis)</td><td>하결막의 과잉 주름이 각막 하부를 덮음; 눈을 뜰 때 하안검 안쪽 결막이 접혀 보임</td><td>Slit-lamp 검사로 결막 주름 확인; 인공 눈물 일부 효과 있으나 근본 치료는 결막 절제술 → 안과 의뢰</td></tr></tbody></table>
 
 ### <mark style="color:orange;">진단 및 치료 플로우차트 (TFOS DEWS III, 2025)</mark>
 
@@ -168,11 +199,11 @@ graph TD
 * 눈을 작게 뜸(예: 컴퓨터 모니터 위치를 낮춤, 책을 내려서 봄), 자주 눈을 감고 있음
 * 콘택트렌즈 착용을 피함; 안경으로 시력 조절
 * 충분한 수분 섭취
-* **눈꺼풀 온찜질 및 청결 유지** (특히 MGD 동반 시)\
-  — 온찜질 : 40\~45°C 따뜻한 온도, 1일 1\~2회, 5\~10분; 직후 눈꺼풀 가장자리를 면봉 또는 눈꺼풀 세정제로 닦아냄\
-  — meibomian gland의 굳은 기름 성분을 액화시켜 분비 개선
+* 눈꺼풀 온찜질 및 청결 유지 (특히 MGD 동반 시)
+  * 온찜질 : 40\~45°C 따뜻한 온도, 1일 1\~2회, 5\~10분; 직후 눈꺼풀 가장자리를 면봉 또는 눈꺼풀 세정제로 닦아냄
+  * meibomian gland의 굳은 기름 성분을 액화시켜 분비 개선
 * 유발 약물 회피
-* 눈 수술(예: 라식, 라섹) 회피 — 각막 신경 손상 가능
+* 눈 수술(예: 라식, 라섹) 회피 - 각막 신경 손상 가능
 * 화면 사용 시 20-20-6 규칙 : 20분 사용 후 20초간 6미터 이상 먼 곳을 바라봄
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -186,10 +217,9 @@ graph TD
   ✽병 제품에는 대부분 방부제가 포함되어 있음
 * MGD에 의한 증발과다형에는 지질 함유 인공 눈물 또는 연고제 선택(특히 취침 시 적용)
 
-#### <mark style="color:$primary;">수분 보유 (Humectant) — 히알루론산 계열</mark>
+#### <mark style="color:$primary;">수분 보유 (Humectant)</mark>
 
-* hyaluronate : 점탄성·수분 보유 기전; 방부제 함유 병 제품과 무방부제 단회용 제품으로 구분
-  * <mark style="color:blue;">\[라큐아 점안액]</mark>, <mark style="color:blue;">\[히알루 미니]</mark>, <mark style="color:blue;">\[히아레인 미니]</mark>
+* hyaluronate : 점탄성·수분 보유 기전. 방부제 함유 병 제품과 무방부제 단회용 제품으로 구분; <mark style="color:blue;">\[라큐아 점안액]</mark>, <mark style="color:blue;">\[히알루 미니]</mark>, <mark style="color:blue;">\[히아레인 미니]</mark>
 
 #### <mark style="color:$primary;">점성 유지</mark>
 
@@ -204,8 +234,7 @@ graph TD
 #### <mark style="color:$primary;">지질층 보충 / 증발 방지 (EDE/MGD에 특히 적합)</mark>
 
 * anhydrous liquid lanolin (취침 전 연고) <mark style="color:blue;">\[듀라티얼즈 안연고]</mark>
-* **perfluorohexyloctane (PFHO)** : 반불소화 알케인(semifluorinated alkane); tear film 지질층을 직접 보충하여 눈물 증발을 억제하는 최초 처방 기전; 수분·방부제 불포함, qid; phase 3 RCT(GOBI·MOJAVE)에서 증상·징후 모두 유의미한 개선; FDA 승인(2023); 국내 제품명 미에보(Miebo)로 허가 절차 진행 중\
-  _<mark style="color:$info;">Ref. GOBI/MOJAVE RCT, Ophthalmology 2023; TFOS DEWS III Management & Therapy 2025</mark>_
+* perfluorohexyloctane (PFHO) : 반불소화 알케인(semifluorinated alkane); tear film 지질층을 직접 보충하여 눈물 증발을 억제하는 최초 처방 기전; 수분·방부제 불포함, qid; phase 3 RCT(GOBI·MOJAVE)에서 증상·징후 모두 유의미한 개선; FDA 승인(2023); 국내 제품명 <mark style="color:blue;">미에보</mark>(Miebo)로 허가 절차 진행 중
 
 #### <mark style="color:$primary;">Mucin Secretagogue</mark>
 
@@ -225,7 +254,7 @@ graph TD
 
 * 2차 약제
 * 대상 : 안구 건조에 의한 염증 발생, 다른 치료로 호전 안 됨
-* 한계 : 효과 발현까지 수 주 소요, 장기 사용에 대한 효과 및 안전성 불명; 이 제제의 사용이 필요한 경우 **안과 의뢰 고려**
+* 한계 : 효과 발현까지 수 주 소요, 장기 사용에 대한 효과 및 안전성 불명; 이 제제의 사용이 필요한 경우 의뢰 고려
 * cyclosporine <mark style="color:blue;">\[레스타시스]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)) (보험기준 : 건성안으로 인하여 병적인 변화 발생(예: 표층각막염 등), tear break up time ≤6초, Schirmer test가 정상보다 ≥30% 감소)
 
 #### <mark style="color:$primary;">국소 Integrin antagonist</mark>
@@ -240,14 +269,12 @@ graph TD
 * 국소제 : cyclic adenosine monophosphate, 올리브 액
 * 경구제 : pilocarpine(cholinergic agonist) 5 ㎎ tid <mark style="color:blue;">\[살라겐]</mark>, cevimeline 30 ㎎ tid
 
-#### <mark style="color:$primary;">비강 내 분무제 (Nasal Spray)</mark>
+**비강 내 분무제 (Nasal Spray)**
 
-* **varenicline nasal spray** 0.03 mg/dose : 삼차신경(CN V) 말단의 α3β4 nAChR을 자극하여 반사 기전으로 수성·점액성 눈물 분비를 유도하는 새로운 기전; 안약 점안이 어렵거나 안구 표면 자극이 심한 환자에서 대안으로 고려\
-  — 용법 : 양쪽 코에 각 1회(0.03 mg), 1일 2회(bid)\
-  — ONSET-1/ONSET-2 RCT에서 Schirmer 검사 및 눈물 분비량 유의미한 개선 확인; FDA 승인(2021); 제품명 Tyrvaya\
-  — 주요 부작용 : 재채기(약 82%), 코 자극감, 비인두 불편감\
-  — **국내 미허가** (2025년 현재 국내 처방 불가; 도입 여부 추후 확인 필요)\
-  _<mark style="color:$info;">Ref. ONSET-1/ONSET-2 RCT, Ophthalmology 2022; TFOS DEWS III Management & Therapy 2025</mark>_
+* varenicline nasal spray 0.03 ㎎/dose : 삼차신경(CN V) 말단의 α3β4 nAChR을 자극하여 반사 기전으로 수성·점액성 눈물 분비를 유도하는 새로운 기전; 안약 점안이 어렵거나 안구 표면 자극이 심한 환자에서 대안으로 고려
+  * 용법 : 양쪽 코에 각 1회(0.03 mg), 1일 2회(bid)
+  * ONSET-1/ONSET-2 RCT에서 Schirmer 검사 및 눈물 분비량 유의미한 개선 확인; FDA 승인(2021); 제품명 Tyrvaya (국내 미허가)
+  * 주요 부작용 : 재채기(약 82%), 코 자극감, 비인두 불편감
 
 ### <mark style="color:orange;">영양 요법</mark>
 
@@ -271,10 +298,8 @@ graph TD
 
 #### <mark style="color:$primary;">기기 치료 — MGD 동반 난치성 건성안 (안과 의뢰 후 시행)</mark>
 
-* **IPL (Intense Pulsed Light)** : 항염 + meibomian gland 기능 개선; network meta-analysis에서 LipiFlow 대비 TBUT·SPEED 개선 우위\
-  _<mark style="color:$info;">Ref. ScienceDirect NMA, 2025</mark>_
-* **LipiFlow (thermal pulsation)** : 12분 1회 시술로 meibomian gland 기능 개선; 효과 최대 3년 지속\
-  _<mark style="color:$info;">Ref. Cochrane review, Pucker et al. 2024</mark>_
+* IPL (Intense Pulsed Light) : 항염 + meibomian gland 기능 개선; network meta-analysis에서 LipiFlow 대비 TBUT·SPEED 개선 우위
+* LipiFlow (thermal pulsation) : 12분 1회 시술로 meibomian gland 기능 개선; 효과 최대 3년 지속
 * 두 치료 모두 국내 비급여 시술로 시행 가능; 약물 치료로 조절이 안 되는 MGD 관련 건성안에서 안과 의뢰 시 선택지로 안내 가능
 
 ***
@@ -346,6 +371,7 @@ H04.9 눈물계통의 상세불명 장애
 > 1. 깨끗한 수건을 40\~45°C 따뜻한 물(뜨겁지 않은 정도)에 적십니다.
 > 2. 눈을 감고 눈꺼풀 위에 5\~10분간 얹어 둡니다. 1일 1\~2회 시행합니다.
 > 3. 찜질 직후, 면봉 또는 눈꺼풀 전용 세정제로 눈꺼풀 가장자리를 부드럽게 닦아 냅니다.
+>
 > * 굳은 기름 성분이 액화되어 meibomian gland 분비가 개선됩니다. 최소 1개월 이상 꾸준히 시행해야 효과가 나타납니다.
 
 > **스테로이드 안약 사용 시 주의사항**
