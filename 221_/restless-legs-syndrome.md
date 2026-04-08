@@ -11,7 +11,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 의뢰 또는 응급 평가**</mark>
+<mark style="color:$danger;">**즉각 의뢰 또는 이송**</mark>
 
 * 갑작스런 발생 또는 급격한 악화 - 이차성 원인(신부전, 척수 병변 등) 의심
 * 편측성 증상 - 척수·말초신경 병변 배제 필요

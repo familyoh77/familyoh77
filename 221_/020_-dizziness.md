@@ -36,7 +36,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 신경학적 이상 : 시각 이상, 구음 장애, 팔/다리 약화, 감각 저하, tingling → 뇌간·소뇌 뇌졸중 의심
 * 중추성 안진 (수직 안진, 방향 변환성 안진) → 소뇌·뇌간 병변의 특이적 징후

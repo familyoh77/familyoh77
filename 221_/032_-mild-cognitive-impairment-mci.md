@@ -48,7 +48,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**의뢰**</mark>
+<mark style="color:$danger;">**의뢰 또는 이송**</mark>
 
 * 수 주\~수 개월 이내 급속히 진행하는 인지 기능 저하 (프리온 질환, 신생물, 대사 장애 등)
 * 뚜렷한 파킨슨 증상(안정 시 떨림, 경축, 보행 장애) 동반

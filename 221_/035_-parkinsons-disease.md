@@ -68,7 +68,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 의뢰 또는 응급 평가**</mark>
+<mark style="color:$danger;">**즉각 의뢰 또는 이송**</mark>
 
 * 현저한 extraocular movement 이상 (특히 수직 주시 장애) → Progressive supranuclear palsy 의심
 * 호흡성 협착음(respiratory stridor) → Multiple system atrophy 의심

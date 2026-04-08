@@ -21,7 +21,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가 - 심혈관성 실신 또는 생명 위협 원인 직접 시사**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 심혈관성 실신 또는 생명 위협 원인 직접 시사</mark>
 
 * 운동 중 또는 누운 자세에서 발생한 실신
 * 비정상 ECG : QTc 연장(＞460 ms(여) / ＞440 ms(남); ＞500 ms는 고위험) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block, ST 이상, Q파

@@ -18,7 +18,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가 - 생명 위협 또는 즉각적 위해 가능성**</mark>
+<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
 * 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우
 * 타인에 대한 위해 의도

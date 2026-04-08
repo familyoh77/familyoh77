@@ -30,7 +30,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 이송 - Stroke 또는 생명 위협 가능성**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- Stroke 또는 생명 위협 가능성</mark>
 
 * 증상이 60분 이상 지속되거나 진료 중에도 회복되지 않는 경우 → TIA가 아닌 급성 뇌졸중&#x20;
 * 갑자기 발생한 의식 저하 또는 혼수

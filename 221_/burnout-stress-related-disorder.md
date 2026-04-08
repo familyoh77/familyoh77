@@ -15,7 +15,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가 - 생명 위협 또는 즉각적 위해 가능성**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
 * 자살 사고 또는 자해 계획이 구체적으로 있는 경우
 * 급성 정신증(환청, 망상, 심한 와해 행동) 동반

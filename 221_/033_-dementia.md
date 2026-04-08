@@ -15,7 +15,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 의뢰**</mark>
+<mark style="color:$danger;">**즉각 의뢰 또는 이송**</mark>
 
 * 수 주\~수 개월 이내 급속히 진행하는 인지 기능 저하 (프리온, 신생물, 대사 장애 등)
 * 심한 망상, 환청 등 정신병적 증상 동반

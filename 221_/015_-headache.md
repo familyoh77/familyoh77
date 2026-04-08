@@ -131,7 +131,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 (필요시 119 호출)**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 벼락두통 : 갑자기 시작되어 1분 이내(또는 수초 내)에 최고조에 이르는 생애 최악의 두통 → SAH 배제 필수
 * 발열·경부 강직·의식 변화 동반 → 수막염, 뇌염 의심

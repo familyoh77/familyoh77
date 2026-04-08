@@ -11,7 +11,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가 - 기질적 질환 또는 즉각적 위해 가능성**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 기질적 질환 또는 즉각적 위해 가능성</mark>
 
 * 급격한 신경학적 결손 : 편측 마비, 실어증, 복시, 급성 시력 소실 - 뇌졸중/MS 감별 필요
 * 발열, 체중 감소, 야간 발한 동반 - 악성 종양, 자가면역 질환(SLE 등) 의심
