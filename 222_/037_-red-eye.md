@@ -36,11 +36,41 @@
 * 면역저하자 (스테로이드 장기 사용, HIV 등) - 기회 감염성 각막염 위험
 * 대증 치료에 반응 안 함 (결막염 의심 상태에서 5\~7일 내 호전 안 됨)
 
-## <mark style="color:green;">눈의 질환별 특징</mark>
+## <mark style="color:green;">임상 양상 및 감별 진단</mark>
+
+#### <mark style="color:$primary;">질환별 특징</mark>
 
 <table><thead><tr><th width="112">질환</th><th width="270">증상 및 징후</th><th>원인</th></tr></thead><tbody><tr><td><a href="042_-dry-eye.md"><strong>안구건조증</strong></a></td><td>양측, 이물감을 동반한 가려움, 경증 통증, 간헐적 심한 눈물, 시력 유지</td><td>눈물 조성 이상, 생성 감소, 과도한 증발; 항콜린제, 항히스타민제, 경구 피임제; Sjögren 증후군</td></tr><tr><td><a href="039_-blepharitis.md"><strong>안검염</strong></a></td><td>깨어 있는 동안 악화, 속눈썹 위의 비듬 같은 비늘, 눈꺼풀 방향 이상, 눈꺼풀 부종</td><td>눈꺼풀의 만성 염증</td></tr><tr><td><strong>각막 찰과상,</strong> <a href="045_-foreign-body-in-the-eye.md"><strong>이물</strong></a></td><td>양측/편측 심한 안구통, 눈물, 눈부심, 이물감, 안검 경련, 반응성 축동, 각막 부종 또는 혼탁, (손상 부위에 따라) 시력 저하</td><td>직접 손상(예: 이물, 렌즈, 화장, 손)</td></tr><tr><td><a href="044_-subconjunctival-hemorrhage.md"><strong>결막하출혈</strong></a></td><td>시력 유지, 공막 부위의 뚜렷한 경계의 적색 반, 경미한 통증 또는 무통, 분비물 없음</td><td>자발적, 심한 기침, 운동, 고혈압, 혈액 질환, 외상(예: 충격, 문지름)</td></tr><tr><td><strong>상공막염</strong></td><td>시력 유지, 뚜렷한 충혈 반, 상공막 부종, 충혈 부위 압통, 경미한 통증 또는 무통, 약간의 눈물</td><td>특발성</td></tr><tr><td><strong>각막염</strong></td><td>시력 저하, 각막 혼탁, 눈부심, 눈꺼풀 부종, hypopyon, 통증, 점액농성 분비물, 이물감</td><td>이물, 렌즈, 세균(포도알균, 사슬알균), 바이러스(HSV, VZV, Adenovirus; EBV·CMV는 면역저하자)</td></tr><tr><td><strong>홍채염</strong></td><td>시력 저하, 통증(주위 방사통), 눈물, 눈부심, 수 시간 동안 심해짐</td><td>외인성 감염, 자가면역 질환</td></tr><tr><td><strong>녹내장</strong></td><td>현저한 시력 저하, 동공 확장, 급성 악화, 압통, 눈물, 광륜(halo), 박동성 통증; 녹내장 편측</td><td>aqueous humor 유출로 폐쇄</td></tr><tr><td><strong>화학적 화상</strong></td><td>시력 저하, 심한 통증 및 충혈, 눈부심</td><td>—</td></tr><tr><td><strong>공막염</strong></td><td>광범위 충혈, 시력 저하, 압통, 공막 부종, 각막 개입(공막 주변), 심한 찌르는 듯한 통증(주위 방사통), 심한 야간 통증, 눈을 움직일 때 통증, 눈물, 눈부심</td><td>[전신 질환] RA, 반응성 관절염, Wegener granulomatosis, sarcoidosis, IBD, 매독, 결핵</td></tr></tbody></table>
 
 _Ref. Diagnosis and management of red eye in primary care, Table 1. AFP. 2010:15;81(2)._
+
+<table><thead><tr><th width="121"></th><th width="62" align="center">시력</th><th width="74" align="center">이물감</th><th width="74" align="center">눈부심</th><th width="100" align="center">분비물</th><th width="197">기타</th></tr></thead><tbody><tr><td><mark style="background-color:$success;"><strong>눈꺼풀/속눈썹</strong></mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td></tr><tr><td><a href="038_-hordeolum.md">Hordeolum</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>압통(+)</td></tr><tr><td>Chalazion</td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>압통(-)</td></tr><tr><td><a href="039_-blepharitis.md">Blepharitis</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">마른 눈곱</td><td>만성</td></tr><tr><td><mark style="background-color:$success;"><strong>결막</strong></mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td></tr><tr><td>결막염 - <a href="038_-conjunctivitis.md#bacterial-conjunctivitis">Bacterial</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">점액농성</td><td>종일 지속되는 분비물</td></tr><tr><td>결막염 - <a href="038_-conjunctivitis.md#viral-conjunctivitis">Viral</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">점액수양성</td><td>간혹 URI 동반</td></tr><tr><td>결막염 - <a href="038_-conjunctivitis.md#undefined-2">Allergic</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">점액성</td><td>가려움</td></tr><tr><td><a href="042_-dry-eye.md">Dry eye</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">수양성</td><td>치료 후 지속 시 의뢰</td></tr><tr><td>Episcleritis†</td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>부채꼴 충혈, 둔통; 페닐에프린 점안 후 충혈 소실</td></tr><tr><td>Scleritis†</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>광범위 충혈, 야간 통증, 압통; 즉시 의뢰</td></tr><tr><td><a href="044_-subconjunctival-hemorrhage.md">결막하출혈</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>명확한 경계, 짙은 홍반</td></tr><tr><td><mark style="background-color:$success;"><strong>각막</strong></mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td></tr><tr><td>Abrasion</td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">수양성</td><td>손상 병력</td></tr><tr><td>콘택트렌즈 과착용</td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">수양성</td><td>잘못된 사용 병력</td></tr><tr><td><a href="045_-foreign-body-in-the-eye.md">이물</a></td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">점액성</td><td>손상 병력</td></tr><tr><td>세균 감염</td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">점액농성</td><td>즉시 의뢰</td></tr><tr><td>바이러스 감염</td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">수양성</td><td>즉시 의뢰; HSV 의심 시 스테로이드 점안액 절대 금기*</td></tr><tr><td><mark style="background-color:$success;"><strong>Anterior chamber/홍채/수정체</strong></mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td></tr><tr><td>Iritis</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">+</td><td align="center">-/수양성</td><td>동공 축소; 즉시 의뢰</td></tr><tr><td>Hyphema</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">±</td><td align="center">-/수양성</td><td>즉시 의뢰</td></tr><tr><td>Hypopyon</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">±</td><td align="center">-/농성</td><td>즉시 의뢰</td></tr><tr><td>Angle closure G.</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">±</td><td align="center">-/수양성</td><td>동공 반사 저하; 즉시 의<strong>뢰</strong></td></tr></tbody></table>
+
+_NI = normal_\
+&#xNAN;_&#x52;ef. Jacobs, DS. Evaluation of the red eye. UpToDate. \[accessed 2024]._
+
+† **상공막염(Episcleritis) vs 공막염(Scleritis) 감별** \
+ 페닐에프린 점안 검사\
+ 2.5% 페닐에프린 점안액을 1방울 점안하고 10\~20분 후 결과를 관찰\
+ 충혈된 혈관이 하얗게 소실 → 표층(상공막) 혈관의 확장 → 상공막염 가능성 높음\
+ 충혈이 소실되지 않음 → 더 깊은 공막 혈관의 염증 → 공막염 가능성 높음; 즉시 의뢰
+
+_\*_**스테로이드 점안액** : 각막 궤양, HSV 각막염이 의심되는 경우 스테로이드 점안액은 금기임. \
+ 수지상 각막 병변(dendritic lesion)이 보이는 경우 즉시 의뢰
+
+#### <mark style="color:$primary;">충혈된 눈의 감별 알고리듬</mark>
+
+![](../.gitbook/assets/4f89414a-dd0b-4cbe-8b20-76b622d1d63d.JPG)
+
+#### <mark style="color:$primary;">부종이 있는 충혈된 눈의 감별 알고리듬</mark>
+
+![](../.gitbook/assets/b955919e-e4cf-4ec8-8b45-18a76d55c615.JPG)
+
+#### <mark style="color:$primary;">증상/병력에 따른 눈 문제의 감별 알고리듬</mark>
+
+<figure><img src="../.gitbook/assets/눈충혈6.JPG" alt=""><figcaption></figcaption></figure>
+
+***
 
 #### <mark style="color:$primary;">콘택트렌즈</mark>
 
@@ -48,40 +78,6 @@ _Ref. Diagnosis and management of red eye in primary care, Table 1. AFP. 2010:15
   * 소프트 렌즈를 하루 넘게 사용 시 1일 착용에 비해 최소한 5배 이상 감염 위험 증가
   * 미용 렌즈는 미생물 오염 발생률이 높음
 * 예방 : 밤샘 사용을 피함, 렌즈 교체일 이상 사용을 피함, 세심한 렌즈 위생 관리, 눈이 불편해 지거나 충혈 되면 제거
-
-## <mark style="color:green;">충혈된 눈의 감별 진단</mark>
-
-### <mark style="color:orange;">질환별 감별 진단</mark>
-
-<table><thead><tr><th width="121"></th><th width="62" align="center">시력</th><th width="74" align="center">이물감</th><th width="74" align="center">눈부심</th><th width="100" align="center">분비물</th><th width="129">기타</th></tr></thead><tbody><tr><td><mark style="background-color:$success;"><strong>눈꺼풀/속눈썹</strong></mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td></tr><tr><td><a href="038_-hordeolum.md">Hordeolum</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>압통(+)</td></tr><tr><td>Chalazion</td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>압통(-)</td></tr><tr><td><a href="039_-blepharitis.md">Blepharitis</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">마른 눈곱</td><td>만성</td></tr><tr><td><mark style="background-color:$success;"><strong>결막</strong></mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td></tr><tr><td>결막염 - <a href="038_-conjunctivitis.md#bacterial-conjunctivitis">Bacterial</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">점액농성</td><td>종일 지속되는 분비물</td></tr><tr><td>결막염 - <a href="038_-conjunctivitis.md#viral-conjunctivitis">Viral</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">점액수양성</td><td>간혹 URI 동반</td></tr><tr><td>결막염 - <a href="038_-conjunctivitis.md#undefined-2">Allergic</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">점액성</td><td>가려움</td></tr><tr><td><a href="042_-dry-eye.md">Dry eye</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">수양성</td><td>치료 후 지속 시 의뢰</td></tr><tr><td>Episcleritis</td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>부채꼴 충혈, 둔통; 페닐에프린 점안 후 충혈 소실</td></tr><tr><td>Scleritis</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>광범위 충혈, 야간 통증, 압통; <strong>즉시 의뢰</strong></td></tr><tr><td><a href="044_-subconjunctival-hemorrhage.md">결막하출혈</a></td><td align="center">NI</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td>명확한 경계, 짙은 홍반</td></tr><tr><td><mark style="background-color:$success;"><strong>각막</strong></mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td></tr><tr><td>Abrasion</td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">수양성</td><td>손상 병력</td></tr><tr><td>콘택트렌즈 과착용</td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">수양성</td><td>잘못된 사용 병력</td></tr><tr><td><a href="045_-foreign-body-in-the-eye.md">이물</a></td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">점액성</td><td>손상 병력</td></tr><tr><td>세균 감염</td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">점액농성</td><td><strong>즉시 의뢰</strong></td></tr><tr><td>바이러스 감염</td><td align="center">NI/↓</td><td align="center">+</td><td align="center">+</td><td align="center">수양성</td><td><strong>즉시 의뢰</strong>; HSV 의심 시 <mark style="color:$danger;"><strong>스테로이드 점안액 절대 금기</strong></mark></td></tr><tr><td><mark style="background-color:$success;"><strong>Anterior chamber/홍채/수정체</strong></mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td></td></tr><tr><td>Iritis</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">+</td><td align="center">-/수양성</td><td>동공 축소; <strong>즉시 의뢰</strong></td></tr><tr><td>Hyphema</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">±</td><td align="center">-/수양성</td><td><strong>즉시 의뢰</strong></td></tr><tr><td>Hypopyon</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">±</td><td align="center">-/농성</td><td><strong>즉시 의뢰</strong></td></tr><tr><td>Angle closure G.</td><td align="center">NI/↓</td><td align="center">-</td><td align="center">±</td><td align="center">-/수양성</td><td>동공 반사 저하; <strong>즉시 의뢰</strong></td></tr></tbody></table>
-
-_NI = normal_\
-&#xNAN;_&#x52;ef. Jacobs, DS. Evaluation of the red eye. UpToDate. \[accessed 2024]._
-
-**※ 상공막염(Episcleritis) vs 공막염(Scleritis) 감별**&#x20;
-
-* 페닐에프린 점안 검사
-* 2.5% 페닐에프린 점안액을 1방울 점안하고 10\~20분 후 결과를 관찰
-* 충혈된 혈관이 하얗게 소실 → 표층(상공막) 혈관의 확장 → 상공막염 가능성 높음
-* 충혈이 소실되지 않음 → 더 깊은 공막 혈관의 염증 → 공막염 가능성 높음; 즉시 의뢰
-
-### <mark style="color:orange;">충혈된 눈의 감별 알고리듬</mark>
-
-![](../.gitbook/assets/4f89414a-dd0b-4cbe-8b20-76b622d1d63d.JPG)
-
-### <mark style="color:orange;">부종이 있는 충혈된 눈의 감별 알고리듬</mark>
-
-![](../.gitbook/assets/b955919e-e4cf-4ec8-8b45-18a76d55c615.JPG)
-
-### <mark style="color:orange;">증상/병력에 따른 눈 문제의 감별 알고리듬</mark>
-
-<figure><img src="../.gitbook/assets/눈충혈6.JPG" alt=""><figcaption></figcaption></figure>
-
-***
-
-{% hint style="danger" %}
-**스테로이드 점안액 처방 주의** 각막 궤양, HSV 각막염이 의심되는 경우 스테로이드 점안액은 금기임. 수지상 각막 병변(dendritic lesion)이 보이는 경우 즉시 의뢰
-{% endhint %}
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
