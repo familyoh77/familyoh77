@@ -1,7 +1,5 @@
 # 누낭염 Dacryocystitis
 
-![image](../.gitbook/assets/6de367c8-57fb-40e0-9b7e-4afa6bdf6401.JPG)
-
 ## 일반 사항
 
 * nasolacrimal system의 선천적 또는 후천적 폐쇄에 기인한 lacrimal sac의 감염; 보통 2차적 세균 감염으로 발생
@@ -26,6 +24,21 @@
 * 국소 복합제 : dexamethasone + tobramycin qid \[토브라덱스]
 * dacryocystorhinostomy : 수술로 폐쇄된 눈물길 개방; 만성에서 고려
 
-> **질병코드** H04.31 급성 누낭염
 
-![image](../.gitbook/assets/62374e4b-13a8-4bae-aba5-f18f7a8f9c78.JPG)
+
+### **질병코드**&#x20;
+
+H04.31 급성 누낭염
+
+
+
+### 처방례
+
+처방례 1.\
+오구멘틴 375 ㎎/T 3T #3\
+토브라덱스 점안액 5 ㎖/병 qid
+
+\
+처방례 2.\
+크라비트 500 ㎎/T 1T qd 포러스 점안액 10 ㎖/병 qid
+
