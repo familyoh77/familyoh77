@@ -12,7 +12,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>&#x20;
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 급속히 진행된 심한 화농성 결막 분비물 (임균성 결막염 의심)
 
@@ -81,7 +81,7 @@
 * 눈 이외 증상 : 귓바퀴 앞 림프절 압통, 발열, 인두염
 * 치료 후에도 3\~5일간은 증상이 더 심해질 수 있음
 
-#### <mark style="color:$primary;">종류</mark>&#x20;
+#### <mark style="color:$primary;">종류</mark>
 
 **급성 출혈 결막염 (Acute hemorrhagic conjunctivitis)**
 
@@ -139,9 +139,9 @@
 * 증상 : 편측 또는 양측 충혈, 경미한 가려움, 점액성 분비물, 결막 비후
 * 치료 : 최근에 사용한 렌즈 및 케이스 폐기 또는 철저 소독
   * 알레르기 또는 감염 의심 양상 시 이에 대하여 치료
-  * 항생제 투여 시 흔한 원인균인 _P. aeruginosa_에 대하여 quinolone 제제 선택
+  * 항생제 투여 시 흔한 원인균인 _P. aeruginos&#x61;_&#xC5D0; 대하여 quinolone 제제 선택
 
- ※ 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 단순 결막염으로 간과하기 쉬우나 _Pseudomonas_에 의한 세균 각막 궤양으로 신속히 진행할 수 있으므로 각막 혼탁·침윤 여부를 반드시 확인하고, 의심 시 즉시 의뢰
+ ※ 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 단순 결막염으로 간과하기 쉬우나 _Pseudomona&#x73;_&#xC5D0; 의한 세균 각막 궤양으로 신속히 진행할 수 있으므로 각막 혼탁·침윤 여부를 반드시 확인하고, 의심 시 즉시 의뢰
 
 #### <mark style="color:$primary;">기계적 결막염</mark>
 
@@ -188,7 +188,7 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 * 알레르기성인 경우 알레르겐 회피
 * 감염성인 경우 최근에 사용한 렌즈 폐기 또는 철저 소독, 눈 화장품(특히 마스카라) 폐기
 * 항생제 안약 : 제한적 사용; 세균성 결막염에 대하여 고려할 수 있으나 세균성 결막염도 대부분 자연 치유되므로 항생제 안약 사용이 필요한 경우는 많지 않음
-* **스테로이드 점안액은 양날의 검** — 증상 완화 효과가 있으나 HSV 각막염에서 각막 손상 악화, 장기 사용 시 안압 상승·백내장 위험이 있습니다. 처방 전 HSV 감염 여부를 반드시 확인하십시오.
+* 스테로이드 점안액 주의 :  증상 완화 효과가 있으나 HSV 각막염에서 각막 손상 악화, 장기 사용 시 안압 상승·백내장 위험이 있으므로 처방 하기 전에 HSV 감염 여부를 반드시 확인해야 함
 
 #### <mark style="color:$primary;">안약 사용법</mark>
 
@@ -222,7 +222,7 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 
 #### <mark style="color:$primary;">경구 항히스타민제</mark>
 
-* 국소 항히스타민제보다 늦게 반응, 효과 적음, 안구 건조를 유발할 수 있음 (☞ p.1144)
+* 국소 항히스타민제보다 늦게 반응, 효과 적음, 안구 건조를 유발할 수 있음 (☞ [항히스타민제](../231_/212_-antihistamines.md))
 * cetirizine : 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
 * fexofenadine : 120 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>
 * loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
@@ -255,14 +255,14 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 
 #### <mark style="color:$primary;">국소 비내 Steroid</mark>
 
-* 적용 : 알레르기비염/결막염과 관련된 안구 증상 치료에 효과 (☞  [비내용스테로이드](051_-allergic-rhinitis.md#undefined-17))
+* 적용 : 알레르기비염/결막염과 관련된 안구 증상 치료에 효과 (☞ [비내용스테로이드](051_-allergic-rhinitis.md#undefined-17))
 * 비염 증상 없이 안구 증상만 있는 경우에는 사용하지 않음
 
 #### <mark style="color:$primary;">국소 면역 조절제</mark>
 
 * 적용 : vernal or atopic keratoconjunctivitis의 steroid 의존 환자에서 steroid 대체 고려
 * 이 약제의 사용을 고려할 정도의 심한 환자는 의뢰를 고려
-* 종류 : 국소 cyclosporine <mark style="color:blue;">\[레스타시스]</mark>\(☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)), 국소 tacrolimus(CsA에 난치성인 경우)&#x20;
+* 종류 : 국소 cyclosporine <mark style="color:blue;">\[레스타시스]</mark>(☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)), 국소 tacrolimus(CsA에 난치성인 경우)
 
 #### <mark style="color:$primary;">알레르겐 면역 치료</mark>
 
@@ -309,10 +309,10 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 * 치료 시작 2일째에도 반응하지 않으면 의뢰 고려
 * quinolone제는 1차로 선택하지 않으며 수술 후, 콘택트렌즈 관련 결막염, 다른 항생제에 내성이 있는 경우에 고려
 
-<table><thead><tr><th width="385">성분명 [상품명]</th><th width="141">적응증 균주</th><th width="104">용법</th></tr></thead><tbody><tr><td>tobramycin <mark style="color:blue;">\[토라빈]</mark></td><td>SA, SP, H, E, P</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/TMP</td><td>SA, SP, H, E</td><td>q3h</td></tr><tr><td>erythromycin/colistin</td><td>SA, SP, H, N</td><td>qhs~qid</td></tr><tr><td>bacitracin</td><td>SA, SP, N</td><td>qhs~qid</td></tr><tr><td>oxytetracycline/polymyxin-B <mark style="color:blue;">\[테라마이신]</mark></td><td>SA, E, N</td><td>q2h~qid</td></tr><tr><td>chloramphenicol <mark style="color:blue;">\[클로람페니콜]</mark></td><td>SA, H</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/neomycin</td><td>SA, P</td><td>qid</td></tr><tr><td>Na sulfacetamide</td><td>SP, H</td><td>q2h~qid</td></tr><tr><td>sulfisoxazole diolamine</td><td>SP, H</td><td>qid</td></tr><tr><td>ciprofloxacin <mark style="color:blue;">\[씨펙스]</mark>, ofloxacin <mark style="color:blue;">\[타리비드]</mark>, levofloxacin <mark style="color:blue;">\[크라비트]</mark>, moxifloxacin <mark style="color:blue;">\[모록사신]</mark></td><td>SA, SP, H, P</td><td>q2h~qid</td></tr></tbody></table>
+<table><thead><tr><th width="385">성분명 [상품명]</th><th width="141">적응증 균주</th><th width="104">용법</th></tr></thead><tbody><tr><td>tobramycin <mark style="color:blue;">[토라빈]</mark></td><td>SA, SP, H, E, P</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/TMP</td><td>SA, SP, H, E</td><td>q3h</td></tr><tr><td>erythromycin/colistin</td><td>SA, SP, H, N</td><td>qhs~qid</td></tr><tr><td>bacitracin</td><td>SA, SP, N</td><td>qhs~qid</td></tr><tr><td>oxytetracycline/polymyxin-B <mark style="color:blue;">[테라마이신]</mark></td><td>SA, E, N</td><td>q2h~qid</td></tr><tr><td>chloramphenicol <mark style="color:blue;">[클로람페니콜]</mark></td><td>SA, H</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/neomycin</td><td>SA, P</td><td>qid</td></tr><tr><td>Na sulfacetamide</td><td>SP, H</td><td>q2h~qid</td></tr><tr><td>sulfisoxazole diolamine</td><td>SP, H</td><td>qid</td></tr><tr><td>ciprofloxacin <mark style="color:blue;">[씨펙스]</mark>, ofloxacin <mark style="color:blue;">[타리비드]</mark>, levofloxacin <mark style="color:blue;">[크라비트]</mark>, moxifloxacin <mark style="color:blue;">[모록사신]</mark></td><td>SA, SP, H, P</td><td>q2h~qid</td></tr></tbody></table>
 
 _SA=S. aureus, SP=S. pneumoniae, H=H. influenzae, P=P. aeruginosa, E=Escherichia coli, N=Neisseria, TMP=trimethoprim._\
-_Ref. American optometric association. Care of the patient with conjunctivitis. 2002._
+&#xNAN;_&#x52;ef. American optometric association. Care of the patient with conjunctivitis. 2002._
 
 #### <mark style="color:$primary;">국소 항생제 대용</mark>
 
@@ -364,12 +364,12 @@ H16 각막염
 >
 > ```
 > 파타놀 점안액(0.1%) 5 ㎖/병  1방울 bid (증상 지속 시까지)
+>     또는 파타놀-S 점안액(0.2%) 2.5 ㎖/병  1방울 qd (1일 1회 투여)
 > 오큐메토론 점안액 5 ㎖/병  1방울 qid (단기 2주 이내; 증상 조절 후 중단)
 > 지르텍 10 ㎎/T  1T qd 저녁 (가려움 심할 때)
 > ```
 >
-> _✽파타놀(olopatadine 0.1%) : 항히스타민 + 비만세포 안정 복합 작용; 증상 심할 경우 olopatadine과 국소 steroid(오큐메토론) 병용. 스테로이드는 2주 이내 단기 사용 후 반드시 재평가_\
-> _✽파타놀-S(olopatadine 0.2%) 처방 시 용법이 **qd**로 변경됨 (1일 1회로 감량)_
+> _✽파타놀(olopatadine 0.1%) : 항히스타민 + 비만세포 안정 복합 작용; 증상 심할 경우 olopatadine과 국소 steroid(오큐메토론) 병용. 스테로이드는 2주 이내 단기 사용 후 반드시 재평가_
 
 > **처방례 2. 바이러스 결막염**
 >
@@ -387,7 +387,7 @@ H16 각막염
 > ```
 >
 > _✽경증은 자연 치유가 원칙; 증상이 심하거나 콘택트렌즈 사용자, 면역저하자에서 항생제 고려. 2일째에도 반응 없으면 의뢰_\
-> _✽콘택트렌즈 사용자는 P. aeruginosa 각막 궤양 위험이 높으므로 퀴놀론계(예: 크라비트, 모록사신) 우선 고려_
+> &#xNAN;_✽콘택트렌즈 사용자는 P. aeruginosa 각막 궤양 위험이 높으므로 퀴놀론계(예: 크라비트, 모록사신 등)를 우선적으로 고려해야 하며, 각막 침윤 여부를 반드시 확인해야 함_
 
 > **처방례 4. 클라미디아 결막염 (경구)**
 >
