@@ -135,7 +135,66 @@
 
 ### <mark style="color:orange;">진단 및 치료 플로우차트</mark>
 
-<figure><img src="../.gitbook/assets/무제-3 복사 (2).jpg" alt=""><figcaption><p><em>Ref. TFOS DEWS III Diagnostic Methodology &#x26; Reporting (2025); Management &#x26; Therapy (2025).</em> <a href="http://ocularsurf.com"><em>ocularsurf.com</em></a></p></figcaption></figure>
+```mermaid
+graph TD
+
+    Start([안구 불편감 호소 환자])
+    Start --> Screen
+
+    Screen{증상 선별 검사 
+    OSDI-6 ≥ 4 또는 DEQ-5 ≥ 6}
+    Screen -- No --> OSD[안구건조증 아님 / 
+    타 안질환 감별]
+    Screen -- Yes --> Homeo
+
+    Homeo{눈물막 항상성 이상 / 
+    1가지 이상 양성?}
+    Homeo -- No --> PreDED[증상 있으나 징후 없음 / 
+    신경감각 이상 고려 / 
+    안과 의뢰]
+    Homeo --> NIBUT[NIBUT < 10초 / 
+    TBUT 대용 가능]
+    Homeo --> OSM[삼투압 ≥ 308 mOsm/L / 
+    또는 양안 차 > 8]
+    Homeo --> Stain[각결막 형광 염색 양성]
+
+    NIBUT --> DED
+    OSM --> DED
+    Stain --> DED
+
+    DED{건성안 질환 DED 진단}
+    DED --> Subtype
+
+    Subtype{아형 분류 / 
+    Schirmer + 마이봄샘 평가}
+    Subtype --> ADDE[수성 결핍형 ADDE / 
+    Schirmer ≤ 5mm]
+    Subtype --> EDE[증발 과다형 EDE/MGD / 
+    마이봄샘 기능 이상]
+    Subtype --> Mixed[혼합형 Mixed / 
+    가장 흔한 임상 형태]
+
+    ADDE --> Tx1[무방부제 인공눈물 / 
+    누점 폐쇄술]
+    EDE --> Tx2[온찜질 눈꺼풀 세정 / 지질 인공눈물 / IPL LipiFlow]
+    Mixed --> Tx3[복합 치료 전략 / 
+    ADDE + EDE 병행]
+
+    Tx1 --> Inflam
+    Tx2 --> Inflam
+    Tx3 --> Inflam
+
+    Inflam{염증 조절 필요?}
+    Inflam -- Yes --> Meds[면역억제제 / 리바미피드 / 
+    단기 스테로이드]
+    Inflam -- No --> Follow[환경 개선 교육 / 
+    정기 추적 관찰]
+
+    style DED fill:#f96,stroke:#e65100,stroke-width:2px
+    style ADDE fill:#e1f5fe,stroke:#01579b
+    style EDE fill:#fff3e0,stroke:#e65100
+    style Mixed fill:#f3e5f5,stroke:#4a148c
+```
 
 ***
 
@@ -256,7 +315,7 @@
 * lacrimal puncta에 silicone 또는 gel plug을 삽입하여 눈물 배출을 늦춤
 * 다른 방법으로 조절되지 않는 심한 경우(주로 ADDE) 고려
 
-#### <mark style="color:$primary;">기기 치료 — MGD 동반 난치성 건성안 (안과 의뢰 후 시행)</mark>
+#### <mark style="color:$primary;">기기 치료 - MGD 동반 난치성 건성안</mark>&#x20;
 
 * IPL (Intense Pulsed Light) : 항염 + meibomian gland 기능 개선; network meta-analysis에서 LipiFlow 대비 TBUT·SPEED 개선 우위
 * LipiFlow (thermal pulsation) : 12분 1회 시술로 meibomian gland 기능 개선; 효과 최대 3년 지속
