@@ -155,7 +155,9 @@ S05.08 이물에 대한 언급이 없는 기타 결막찰과상 및 각막찰과
 
 #### <mark style="color:$primary;">출혈 범위에 따른 예상 흡수 기간</mark>
 
-<table><thead><tr><th width="220">출혈 범위</th><th>예상 흡수 기간</th></tr></thead><tbody><tr><td>점 모양 또는 아주 작은 반점</td><td>3\~5일</td></tr><tr><td>흰자위 일부(1/4 이하)</td><td>약 1주</td></tr><tr><td>흰자위 절반 정도</td><td>1\~2주</td></tr><tr><td>흰자위 대부분 또는 전체</td><td>2\~3주 이상</td></tr></tbody></table>
+<table><thead><tr><th width="230">출혈 범위</th><th width="129">예상 흡수 기간</th></tr></thead><tbody><tr><td>점 모양 또는 아주 작은 반점</td><td>3~5일</td></tr><tr><td>흰자위 일부(1/4 이하)</td><td>약 1주</td></tr><tr><td>흰자위 절반 정도</td><td>1~2주</td></tr><tr><td>흰자위 대부분 또는 전체</td><td>2~3주 이상</td></tr></tbody></table>
+
+※ 출혈을 발견한 날 출혈 범위를 확인하세요(사진 촬영), 3\~4일 후 색이 변하기 시작했는지 살펴 보세요, 1주일 후 범위가 줄어들었는지 살펴 보세요.
 
 ※ 고혈압·당뇨·항응고제 복용 중인 경우 흡수가 더 오래 걸릴 수 있습니다.
 
