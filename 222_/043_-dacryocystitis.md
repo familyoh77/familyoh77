@@ -18,10 +18,10 @@
 ## Management
 
 * 온찜질
-* 전신 항생제 : amox/clav. \[오구멘틴], levofloxacin \[크라비트]
-* 국소 steroid : 단기 투여 (☞ p.189)
-* 국소 항생제 : tobramycin bid\~qid \[토브라], polymyxin-B/TMP (☞ p.192)
-* 국소 복합제 : dexamethasone + tobramycin qid \[토브라덱스]
+* 전신 항생제 : amox/clav. <mark style="color:blue;">\[오구멘틴]</mark>, levofloxacin <mark style="color:blue;">\[크라비트]</mark>
+* 국소 steroid : 단기 투여 (☞ [결막염](038_-conjunctivitis.md#steroid))
+* 국소 항생제 : tobramycin bid\~qid <mark style="color:blue;">\[토브라]</mark>, polymyxin-B/TMP (☞ [결막염](038_-conjunctivitis.md#undefined-25))
+* 국소 복합제 : dexamethasone + tobramycin qid <mark style="color:blue;">\[토브라덱스]</mark>
 * dacryocystorhinostomy : 수술로 폐쇄된 눈물길 개방; 만성에서 고려
 
 
