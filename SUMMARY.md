@@ -46,7 +46,7 @@
   * [안검염 Blepharitis](222_/039_-blepharitis.md)
   * [다래끼 (맥립종) Hordeolum](222_/040_-hordeolum.md)
   * [콩다래끼 (산립종) Chalazion](222_/041_-chalazion.md)
-  * [눈마름증 (안구건조증) Dry Eye](222_/042_-dry-eye.md)
+  * [눈마름증 (안구건조증) Dry Eye Disease (DED)](222_/042_-dry-eye.md)
   * [누낭염 Dacryocystitis](222_/043_-dacryocystitis.md)
   * [결막하출혈 Subconjunctival Hemorrhage](222_/044_-subconjunctival-hemorrhage.md)
   * [눈 이물 Foreign Body in the Eye](222_/045_-foreign-body-in-the-eye.md)

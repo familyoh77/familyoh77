@@ -1,10 +1,10 @@
-# 눈마름증 (안구건조증) Dry Eye
+# 눈마름증 (안구건조증) Dry Eye Disease (DED)
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 눈물 생성 및 tear film 유지의 장애
 * 다른 이름 : keratoconjunctivitis sicca, dry eye disease(DED)\
-  ✽TFOS DEWS III(2025) 공식 용어는 "disease"(건성안 질환). "syndrome"은 원인 불명의 증후군 뉘앙스가 있어 특정 치료 가능한 질환임을 흐리므로 사용하지 않음
+  ✽TFOS DEWS III(2025)은 질환명으로 "Disease"를채택함. "Syndrome"은 원인 불명의 증후군 뉘앙스가 있어 특정 치료 가능한 질환임을 흐리므로 사용하지 않음
 * 정의 (TFOS DEWS III, 2025) : 눈물막 및/또는 안구 표면의 항상성 소실을 특징으로 하는 다인성 증상 질환으로, 눈물막 불안정성·고삼투압, 안구 표면 염증 및 손상, 신경감각 이상(neurosensory abnormality)이 병인에 포함됨
   * 반드시 증상이 동반되어야 함; 증상 없이 징후만 있는 경우는 DED가 아닌 '안구 표면 질환'으로 분류
 * 분류 : ADDE (Aqueous-Deficient Dry Eye, 수성 눈물 결핍형), EDE (Evaporative Dry Eye, 증발과다형) , 혼합형 (ADDE와 EDE의 복합; : 임상에서 가장 많음)
@@ -71,10 +71,10 @@
 ## <mark style="color:green;">진단</mark>
 
 * 단일 확진 검사는 없으며, '증상 + 임상 진찰소견'으로 진단
-* 증상 확인 : 검증된 설문지 사용 권고\
-  \- OSDI-6 (6문항, cut-off ≥4; TFOS DEWS III 2025 1차권고)\
-  \- DEQ-5 (5문항, cut-off ≥6; OSDI-6 작성이 어려운 경우 대안)
-* Schirmer's test : 5분 후 ＜10 ㎜ wetting → ADDE 시사
+* 증상 확인 : 검증된 설문지 사용 권고
+  * OSDI-6 (6문항, cut-off ≥4; 표준 OSDI 12문항의 cut-off 13점과 다름에 유의; TFOS DEWS III 2025 1차권고)
+  * DEQ-5 (5문항, cut-off ≥6; OSDI-6 작성이 어려운 경우 대안)
+* Schirmer's test : 5분 후 ＜5 ㎜ wetting → ADDE 시사
 * 눈물막 항상성 이상 확인 (아래 중 1가지 이상 이상 소견)
   * tear film breakup time (TBUT) : ＜10초
   * tear osmolarity : ≥308 mOsm/L (또는 양안 차이 >8 mOsm/L)
@@ -240,7 +240,7 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 
 * tear film break-up time 향상 등 증상 호전에 유효하다고 알려짐
 * 오메가-3(2 g tid <mark style="color:blue;">\[오마코]</mark>), (γ-)linoleic acid <mark style="color:blue;">\[에보프림]</mark>, 항산화제, Vit A\
-  ✽하루 1 g의 오메가-3를 장기간(평균 5년) 복용한 결과 안구건조증에 유의미한 호전이 없었다는 보고가 있음(DREAM study)
+  ✽하루 1 g의 오메가-3를 12개월간 복용한 결과 안구건조증에 유의미한 호전이 없었다는 보고가 있음(DREAM study, NEJM 2018)
 
 ### <mark style="color:orange;">항생제</mark>
 
