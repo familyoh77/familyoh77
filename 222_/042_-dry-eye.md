@@ -135,7 +135,39 @@
 
 ### <mark style="color:orange;">진단 및 치료 플로우차트 (TFOS DEWS III, 2025)</mark>
 
-_<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reporting (2025); Management & Therapy (2025). ocularsurf.com</mark>_
+```mermaid
+graph TD
+    Start([안구 불편감 증상 환자]) --> Screen{증상 선별 검사<br/>OSDI-6 ≥ 4 또는<br/>DEQ-5 ≥ 6}
+    Screen -- No --> OSD[안구건조증 아님<br/>타 안질환 감별]
+    Screen -- Yes --> Homeo{눈물막 항상성 이상<br/>1가지 이상 양성}
+    Homeo --> TBUT[TBUT < 10초]
+    Homeo --> OSM[Tear Osmolarity ≥ 308 mOsm/L<br/>또는 양안 차 > 8]
+    Homeo --> Stain[각결막 형광 염색 양성]
+    TBUT --> DED{건성안 질환 DED 진단}
+    OSM --> DED
+    Stain --> DED
+    Homeo -- No --> PreDED[증상은 있으나 징후 없음<br/>신경감각 이상/전단계 DED 고려<br/>안과 의뢰]
+    DED --> Subtype{아형 분류 검사<br/>Schirmer / 마이봄샘 평가}
+    Subtype --> ADDE[수성 눈물 결핍형 ADDE<br/>Schirmer < 10mm]
+    Subtype --> EDE[증발 과다형 EDE/MGD<br/>마이봄샘 기름 분비 불량]
+    Subtype --> Mixed[혼합형 Mixed<br/>임상에서 가장 흔함]
+    ADDE --> Tx1[고점도/무방부제 인공눈물<br/>누점 폐쇄술 고려]
+    EDE --> Tx2[온찜질·눈꺼풀 위생<br/>지질 보충 인공눈물<br/>IPL / LipiFlow]
+    Mixed --> Tx3[ADDE + EDE 복합 치료]
+    Tx1 --> Inflam{염증/자극 증상 동반?}
+    Tx2 --> Inflam
+    Tx3 --> Inflam
+    Inflam -- Yes --> Steroid[단기 국소 스테로이드<br/>국소 면역억제제 / 리바미피드]
+    Inflam -- No --> Follow[정기적 추적 관찰 및<br/>환경 개선 교육]
+    style DED fill:#f96,stroke:#333,stroke-width:2px
+    style ADDE fill:#e1f5fe,stroke:#01579b
+    style EDE fill:#fff3e0,stroke:#e65100
+    style Mixed fill:#f3e5f5,stroke:#4a148c
+```
+
+
+
+<figure><img src="../.gitbook/assets/dew_flowchart (2).png" alt=""><figcaption><p><em><mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology &#x26; Reporting (2025); Management &#x26; Therapy (2025). ocularsurf.com</mark></em></p></figcaption></figure>
 
 ***
 
