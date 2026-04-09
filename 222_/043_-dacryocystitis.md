@@ -23,7 +23,7 @@
 * 당뇨·면역저하 환자에서 발생한 누낭염 (급격한 악화 및 안와 봉와직염 진행 위험이 높음)
 * 누낭염 재발
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 반복적 눈물·분비물 지속 → 만성 누낭염 → 누낭비루관조성술(dacryocystorhinostomy) 고려
 * 만성·재발성 경과에서 딱딱하고 무통성 종괴 → 누낭 종양 감별 (\*누낭 악성 종양은 드물지만 누낭염으로 오인되기 쉬움)
@@ -40,7 +40,7 @@
 
 누낭 부위를 손가락으로 압박했을 때의 역류 성상(regurgitation test)이 핵심 감별 포인트
 
-<table><thead><tr><th width="141">질환</th><th width="132">역류 성상</th><th width="143">통증</th><th>기타 특징</th></tr></thead><tbody><tr><td><strong>급성 누낭염</strong></td><td>농성 역류</td><td>심한 통증·압통</td><td>발적·발열 동반; 항생제 반응</td></tr><tr><td><strong>누낭 mucocele</strong></td><td>맑은 점액 역류</td><td>무통성</td><td>비감염성·낭성 종괴; 서서히 커짐</td></tr><tr><td><strong>누낭 종양</strong></td><td>혈성 역류 가능</td><td>무통성(초기)</td><td>딱딱한 고형 종괴; 항생제 무반응 <br>→ 즉시 의뢰</td></tr><tr><td><strong>안와 봉와직염</strong></td><td>역류 없음</td><td>안구 운동 시 통증</td><td>안구 돌출·안구 운동 제한 동반</td></tr><tr><td><strong>사골동염</strong></td><td>역류 없음</td><td>비부비동 압통</td><td>코 증상·비루 동반</td></tr></tbody></table>
+<table><thead><tr><th width="141">질환</th><th width="132">역류 성상</th><th width="143">통증</th><th>기타 특징</th></tr></thead><tbody><tr><td><strong>급성 누낭염</strong></td><td>농성 역류</td><td>심한 통증·압통</td><td>발적·발열 동반; 항생제 반응</td></tr><tr><td><strong>누낭 mucocele</strong></td><td>맑은 점액 역류</td><td>무통성</td><td>비감염성·낭성 종괴; 서서히 커짐</td></tr><tr><td><strong>누낭 종양</strong></td><td>혈성 역류 가능</td><td>무통성(초기)</td><td>딱딱한 고형 종괴; 항생제 무반응<br>→ 즉시 의뢰</td></tr><tr><td><strong>안와 봉와직염</strong></td><td>역류 없음</td><td>안구 운동 시 통증</td><td>안구 돌출·안구 운동 제한 동반</td></tr><tr><td><strong>사골동염</strong></td><td>역류 없음</td><td>비부비동 압통</td><td>코 증상·비루 동반</td></tr></tbody></table>
 
 ***
 
@@ -50,23 +50,8 @@
 
 * 온찜질 : 하루 4\~6회, 1회 10\~15분 적용; 통증 완화 및 배농 촉진
   * 목적 : 누낭 주위 혈류 증가 → 화농성 내용물의 연화 및 자연 배농 유도
-  * **온도 유지가 핵심** : 젖은 수건은 수분 내 급속히 식어 유효 시간이 짧음 → 10분 이상의 찜질이 필요한 누낭염에서는 아이마스크형 온찜질 팩(전자레인지 20\~30초) 또는 물에 적신 수건을 밀봉 지퍼백에 넣어 전자레인지로 데운 것(지퍼백 수건 팩)을 권장
-  * **찜질 후 배농 마사지** : 찜질 직후 누낭 부위(내안각 하방)를 손가락으로 부드럽게 아래쪽으로 눌러 내용물을 눈물점 방향으로 유도; 강하게 짜듯 압박하면 감염이 번질 수 있으므로 주의
-
-{% hint style="info" %}
-**안과 질환별 온찜질 강도 비교**
-
-온찜질은 질환의 병태생리적 목표에 따라 적용 강도가 달라집니다. 시간보다 더 중요한 것은 **40\~43℃의 온도를 일정하게 유지**하는 것입니다.
-
-| 질환 | 목적 | 권장 빈도·시간 | 찜질 후 처치 |
-|------|------|----------------|-------------|
-| **누낭염** | 배농 촉진, 혈류 개선 | 1일 4\~6회, 10\~15분 | 누낭 부위 배농 마사지 |
-| **다래끼·콩다래끼** | 고형 meibum·농양 용해 및 자연 배농 유도 | 1일 4회, 15분 | 눈꺼풀 세척(lid scrub) |
-| **안검염** | 눈꺼풀 테두리 세정 보조, MGD 지질층 개선 | 1일 2\~4회, 5\~10분 | 눈꺼풀 세척(lid scrub) |
-| **안구건조증(MGD)** | meibomian gland 기능 개선, 증상 예방 | 1일 1\~2회, 5\~10분 | 눈꺼풀 세척(lid scrub) |
-
-급성 염증·화농형(누낭염, 다래끼)에서는 "최대한 자주, 충분히"가 원칙이며, 만성 관리형(안검염, 건성안)에서는 "매일 꾸준히, 짧게"가 현실적입니다. 10분 이상의 긴 찜질이 필요한 경우 **아이마스크형 온찜질 팩** 또는 **지퍼백 수건 팩** 활용을 권장합니다.
-{% endhint %}
+  * 온도 유지가 핵심 : 젖은 수건은 수분 내 급속히 식어 유효 시간이 짧음 → 10분 이상의 찜질이 필요한 누낭염에서는 아이마스크형 온찜질 팩(전자레인지 20\~30초) 또는 물에 적신 수건을 밀봉 지퍼백에 넣어 전자레인지로 데운 것(지퍼백 수건 팩)을 권장
+  * 찜질 후 배농 마사지 : 찜질 직후 누낭 부위(내안각 하방)를 손가락으로 부드럽게 아래쪽으로 눌러 내용물을 눈물점 방향으로 유도; 강하게 짜듯 압박하면 감염이 번질 수 있으므로 주의
 * 전신 항생제 : 급성 감염의 기본 치료
   * amoxicillin/clavulanate <mark style="color:blue;">\[오구멘틴]</mark> 또는 levofloxacin <mark style="color:blue;">\[크라비트]</mark>
   * 경구 항생제에 반응 없거나 전신 증상 동반 시 입원 및 정주 항생제 고려
@@ -77,9 +62,17 @@
 * 수술(dacryocystorhinostomy, DCR) : 폐쇄된 눈물길을 수술로 개방; 만성 누낭염 또는 반복 재발에서 고려
   * 내시경 누낭비강문합술(Endoscopic DCR, EDCR 또는 EN-DCR)과 외부 DCR(EX-DCR)의 성공률은 동등하며, EDCR은 안면 흉터 없이 출혈이 적은 장점이 있어 최근 선호도 증가
 
+**※ 안과 질환별 온찜질 비교**
+
+* 온찜질은 질환의 병태생리적 목표에 따라 적용 강도를달리함. 시간보다 온도를 일정하게 유지(40\~43℃)하는 것이 더 중요
+* 급성 염증·화농형(누낭염, 다래끼)에서는 '최대한 자주, 충분히', 만성 관리형(안검염, 건성안)에서는 '매일 꾸준히, 짧게'
+* 10분 이상의 긴 찜질이 필요한 경우 '아이마스크형 온찜질 팩' 또는 '지퍼백 수건 팩' 활용
+
+<table><thead><tr><th width="108">질환</th><th width="195">목적</th><th width="145">권장 빈도·시간</th><th>찜질 후 처치</th></tr></thead><tbody><tr><td><strong>누낭염</strong></td><td>배농 촉진, 혈류 개선</td><td>1일 4~6회, <br>10~15분</td><td>누낭 부위 배농 마사지</td></tr><tr><td><strong>다래끼·</strong><br><strong>콩다래끼</strong></td><td>고형 meibum·농양 용해 및 자연 배농 유도</td><td>1일 4회, <br>15분</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안검염</strong></td><td>눈꺼풀 테두리 세정 보조, MGD 지질층 개선</td><td>1일 2~4회, <br>5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안구건조증</strong><br><strong>(MGD)</strong></td><td>meibomian gland 기능 개선, 증상 예방</td><td>1일 1~2회, <br>5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr></tbody></table>
+
 #### <mark style="color:$primary;">항생제 선택</mark>
 
-<table><thead><tr><th width="228">성분명 [상품명]</th><th width="240">특징</th><th width="139">용법</th></tr></thead><tbody><tr><td>amoxicillin/clavulanate <br><mark style="color:blue;">[오구멘틴]*</mark></td><td>1차 선택; 광범위 그람양성균 + 혐기균 커버</td><td>375 ㎎ tid</td></tr><tr><td>levofloxacin <mark style="color:blue;">[크라비트]</mark></td><td>페니실린 알레르기 또는 1차 실패 시; 고령자 QT 연장 주의</td><td>500 ㎎ qd</td></tr><tr><td>TMP/SMX <mark style="color:blue;">[박트림]</mark></td><td>MRSA 의심 1차 경구 옵션</td><td>160/800 ㎎ bid</td></tr><tr><td>clindamycin <mark style="color:blue;">[클린다마이신]</mark></td><td>MRSA 의심 경구 대안; 페니실린 알레르기 시 고려</td><td>300 ㎎ tid~qid</td></tr><tr><td>doxycycline <mark style="color:blue;">[독시사이클린]</mark></td><td>MRSA 의심 경구 대안; TMP/ SMX·클린다마이신 사용 불가 시</td><td>100 ㎎ bid</td></tr></tbody></table>
+<table><thead><tr><th width="228">성분명 [상품명]</th><th width="240">특징</th><th width="139">용법</th></tr></thead><tbody><tr><td>amoxicillin/clavulanate<br><mark style="color:blue;">[오구멘틴]*</mark></td><td>1차 선택; 광범위 그람양성균 + 혐기균 커버</td><td>375 ㎎ tid</td></tr><tr><td>levofloxacin <mark style="color:blue;">[크라비트]</mark></td><td>페니실린 알레르기 또는 1차 실패 시; 고령자 QT 연장 주의</td><td>500 ㎎ qd</td></tr><tr><td>TMP/SMX <mark style="color:blue;">[박트림]</mark></td><td>MRSA 의심 1차 경구 옵션</td><td>160/800 ㎎ bid</td></tr><tr><td>clindamycin <mark style="color:blue;">[클린다마이신]</mark></td><td>MRSA 의심 경구 대안; 페니실린 알레르기 시 고려</td><td>300 ㎎ tid~qid</td></tr><tr><td>doxycycline <mark style="color:blue;">[독시사이클린]</mark></td><td>MRSA 의심 경구 대안; TMP/ SMX·클린다마이신 사용 불가 시</td><td>100 ㎎ bid</td></tr></tbody></table>
 
 \*오구멘틴 용량 참고 : 375 ㎎ tid는 국내 표준 처방이지만, _S. aureus_ 등 심부 감염에서 치료 반응이 느릴 경우 증량 고려 - 500/125 ㎎ 제형 <mark style="color:blue;">\[아목시클라브]</mark> tid, 또는 375 ㎎ 제형을 1회 2정(amoxicillin 500 ㎎ 상당)으로 증량. 국내에서 875 ㎎ 제형은 유통이 제한적이며, 625 ㎎ 제형은 현재 단종 상태임
 
@@ -118,7 +111,7 @@ H04.41 만성 누낭염
 > ```
 >
 > _✽온찜질(1일 4\~6회) 병행 지도. 점안액은 보조적 사용이며 전신 항생제가 치료의 핵심임을 설명_\
-> &#xNAN;_✽48\~72시간 이내 호전 없거나 농양 형성 시 안과 의뢰. 치료 반응 불충분 시 1회 2정(amoxicillin 500 mg 상당)으로 증량 또는 제네릭 500/125 mg 제형으로 변경 고려_
+> \&#xNAN;_✽48\~72시간 이내 호전 없거나 농양 형성 시 안과 의뢰. 치료 반응 불충분 시 1회 2정(amoxicillin 500 mg 상당)으로 증량 또는 제네릭 500/125 mg 제형으로 변경 고려_
 
 > **처방례 2. 급성 누낭염 (페니실린 알레르기 또는 1차 실패)**
 >

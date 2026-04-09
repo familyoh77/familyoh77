@@ -25,7 +25,7 @@
 * 콘택트렌즈 관련 결막염이 렌즈 사용 중단 및 치료 24시간 이후에도 지속
 * 헤르페스 피부 수포 동반 안구 충혈
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 즉각 위험 낮으나 호전 없으면 의뢰**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 대증 치료로 5\~7일 내 호전 안 됨
 * 면역저하자의 결막염

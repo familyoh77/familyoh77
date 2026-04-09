@@ -19,7 +19,7 @@
 * 시력 저하 또는 각막 압박 소견을 동반한 큰 속다래끼
 * 48시간 이내 온찜질에 반응하지 않고 농양이 성숙한 경우 - 절개·배농 필요
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 2주 이상 경과해도 완전히 소실되지 않는 경우 → 산립종(chalazion) 전환 여부 확인
 * 재발성 다래끼 → 안검염·지루피부염·rosacea·당뇨·Demodex 감염 등 기저 원인 평가
@@ -45,7 +45,7 @@
 * 주요 원인균 : _S. aureus_
 * sterile inflammation도 있음
 
-#### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 불결한 위생
 * 과거 발생 병력; 만성 안검염(blepharitis) 동반
@@ -73,8 +73,8 @@
 
 ※ 초기 수일간은 두 질환을 임상적으로 구별하기 어려울 수 있음. 통증·화농 유무가 가장 중요한 감별점
 
-* [다래끼](https://www.ncbi.nlm.nih.gov/books/NBK459349/)&#x20;
-* [화농성 육아종](https://dermnetnz.org/topics/pyogenic-granuloma)&#x20;
+* [다래끼](https://www.ncbi.nlm.nih.gov/books/NBK459349/)
+* [화농성 육아종](https://dermnetnz.org/topics/pyogenic-granuloma)
 
 ***
 
@@ -87,13 +87,13 @@
 * 겉다래끼 : 온찜질 + 국소 항생제가 1차; 전신 항생제는 cellulitis 동반 시에만
 * 속다래끼 : 국소 항생제 효과 제한적; 전신 항생제 또는 절개·배농을 우선 고려
 
-### <mark style="color:orange;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 온찜질 : 고형화된 meibum·농양 용해 및 자연 배농 유도; 40\~43℃ 따뜻한 물수건, 15분씩 1일 4회
-  * **온도 유지가 핵심** : 15분 찜질에는 아이마스크형 온찜질 팩 또는 지퍼백 수건 팩 활용 권장 (☞ [온도 유지 팁](043_-dacryocystitis.md#치료-방침))
-* 눈꺼풀 세척(lid scrub) : 유아용 비누/샴푸 또는 눈꺼풀 세정제로 1일 2회 세척 — **온찜질 직후 시행 시 효과 증대** (squeezing 하지 않음)
+  * 온도 유지가 핵심 : 15분 찜질에는 아이마스크형 온찜질 팩 또는 지퍼백 수건 팩 활용 권장 (☞ [온도 유지 팁](043_-dacryocystitis.md#undefined-3))
+* 눈꺼풀 세척(lid scrub) : 유아용 비누/샴푸 또는 눈꺼풀 세정제로 1일 2회 세척 - 온찜질 직후 시행 시 효과 증대 (squeezing 하지 않음)
 
-### <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
 #### <mark style="color:$primary;">겉다래끼 — 국소 항생제 (1차)</mark>
 
@@ -117,7 +117,7 @@
 * 단기(수일) 사용; HSV 각막염 배제 후 적용
 * tobramycin + dexamethasone <mark style="color:blue;">\[토브라덱스]</mark> 안연고 또는 점안액
 
-### <mark style="color:orange;">수술</mark>
+## <mark style="color:green;">수술</mark>
 
 * 절개·배농 (Incision & Drainage) : 48시간 내 완화가 시작되지 않으면 고려; 국소마취 하 시행
 
@@ -125,8 +125,6 @@
 | -------- | ---------------------------- | ------------------------------------------------------ | ------------ |
 | **겉다래끼** | 피부(skin/orbicularis) 면       | 가로(Horizontal) - 피부 주름선(relaxed skin tension line)과 평행 | 흉터 최소화       |
 | **속다래끼** | 눈꺼풀 결막 면(tarsal conjunctiva) | 세로(Vertical) - meibomian gland 주행 방향과 평행               | 주변 기름샘 손상 방지 |
-
-
 
 * 조직 병리 검사 : 절개·배농 시 검체를 반드시 병리 검사에 의뢰 - 기저 세포 암종 등 악성 병변 배제
 

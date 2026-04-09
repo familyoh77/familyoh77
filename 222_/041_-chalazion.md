@@ -37,7 +37,7 @@
 * 봉와직염(preseptal cellulitis)으로 진행한 경우 - 전신 항생제 투여 필요
 * 치료 2\~3주 후에도 소실되지 않는 병변 - 절개·소파술 고려
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 1개월 이상 지속되거나 재발하는 경우 → 안과 의뢰
 * 동일 부위 반복 재발 → 피지선 암종(sebaceous gland carcinoma) 감별을 위한 생검 필수
@@ -56,7 +56,7 @@
 ## <mark style="color:green;">진단</mark>
 
 * 임상 진단; 실험실·영상 검사는 불필요
-* 생검 적응증 (피지선 암종, 기저세포암, 편평세포암 등 악성 종양 감별) : 지속(>1개월) 또는 재발, 치료 저항성 편측 안검결막염, 고령 초발, 속눈썹 소실·경계 불분명 등 비전형적 소견&#x20;
+* 생검 적응증 (피지선 암종, 기저세포암, 편평세포암 등 악성 종양 감별) : 지속(>1개월) 또는 재발, 치료 저항성 편측 안검결막염, 고령 초발, 속눈썹 소실·경계 불분명 등 비전형적 소견
 
 ### <mark style="color:orange;">감별 진단</mark>
 
@@ -76,20 +76,20 @@
 
 #### <mark style="color:$primary;">병변 크기 × 경과에 따른 의사결정</mark>
 
-<table><thead><tr><th width="124">병변 크기</th><th width="238">초기 (≤4주)</th><th width="259">지속 (>4주) 또는 재발</th></tr></thead><tbody><tr><td>소형 (&#x3C;3 ㎜)</td><td>온찜질 + 눈꺼풀 세척 + 국소 스테로이드 → 4주 후 재평가</td><td>병변 내 triamcinolone 주사 (10 mg/mL 희석 권장)</td></tr><tr><td>중형 (3~7 ㎜)</td><td>온찜질 + 국소 스테로이드 → 2~4주 후 스테로이드 주사 고려</td><td>병변 내 triamcinolone 주사 (40 mg/mL) 또는 I&#x26;C; 악성 감별 필요</td></tr><tr><td>대형 (>7 ㎜)</td><td>온찜질 + 안과 조기 의뢰</td><td>I&#x26;C 우선 (조직 병리 검사 필수); 스테로이드 주사 단독 효과 제한적</td></tr><tr><td>누점 인근<br>·다발성</td><td>온찜질 + 국소 스테로이드</td><td>스테로이드 주사 선호 (절개 시 누점 손상 위험)</td></tr><tr><td>재발성 <br>+ MGD</td><td>급성기 치료 후 → doxycycline 저용량 유지 + 눈꺼풀 세척 습관화 + IPL 치료 안과 의뢰 고려</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="124">병변 크기</th><th width="238">초기 (≤4주)</th><th width="259">지속 (>4주) 또는 재발</th></tr></thead><tbody><tr><td>소형 (&#x3C;3 ㎜)</td><td>온찜질 + 눈꺼풀 세척 + 국소 스테로이드 → 4주 후 재평가</td><td>병변 내 triamcinolone 주사 (10 mg/mL 희석 권장)</td></tr><tr><td>중형 (3~7 ㎜)</td><td>온찜질 + 국소 스테로이드 → 2~4주 후 스테로이드 주사 고려</td><td>병변 내 triamcinolone 주사 (40 mg/mL) 또는 I&#x26;C; 악성 감별 필요</td></tr><tr><td>대형 (>7 ㎜)</td><td>온찜질 + 안과 조기 의뢰</td><td>I&#x26;C 우선 (조직 병리 검사 필수); 스테로이드 주사 단독 효과 제한적</td></tr><tr><td>누점 인근<br>·다발성</td><td>온찜질 + 국소 스테로이드</td><td>스테로이드 주사 선호 (절개 시 누점 손상 위험)</td></tr><tr><td>재발성<br>+ MGD</td><td>급성기 치료 후 → doxycycline 저용량 유지 + 눈꺼풀 세척 습관화 + IPL 치료 안과 의뢰 고려</td><td></td></tr></tbody></table>
 
 ※ 진단이 불명확하거나 악성 의심 소견 동반 시 → 크기·기간에 관계없이 즉시 의뢰 및 생검
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
 * 온찜질 : ductal blockage 용해 및 meibum 배출 촉진; 40\~43℃ 따뜻한 물수건, 15분씩 1일 4회
-  * **온도 유지가 핵심** : 15분 찜질에는 아이마스크형 온찜질 팩 또는 지퍼백 수건 팩 활용 권장 (☞ [온도 유지 팁](043_-dacryocystitis.md#치료-방침))
-* 눈꺼풀 세척(lid scrub) : 매일 눈꺼풀 가장자리 세척; **온찜질 직후 시행 시 효과 증대**; 세정제 선택 기준은 아래 참고
+  * 온도 유지가 핵심 : 15분 찜질에는 아이마스크형 온찜질 팩 또는 지퍼백 수건 팩 활용 권장 (☞ [온도 유지 팁](043_-dacryocystitis.md#undefined-3))
+* 눈꺼풀 세척(lid scrub) : 매일 눈꺼풀 가장자리 세척; 온찜질 직후 시행 시 효과 증대; 세정제 선택 기준은 아래 참고
 * 눈꺼풀 마사지 : 찜질 후 가볍게 마사지 (squeezing 하지 않음)
 
-**눈꺼풀 세정제 선택**
+**눈꺼풀 세정제 종류**
 
-<table><thead><tr><th width="156">종류</th><th width="193">주요 적응</th><th>비고</th></tr></thead><tbody><tr><td>유아용 샴푸 희석액</td><td>일반 눈꺼풀 위생</td><td>가장 접근성이 높음; 단, 계면활성제 자극 주의</td></tr><tr><td>차아염소산(HOCl) <br>스프레이</td><td>세균성 안검염, 일반 눈꺼풀 위생</td><td>항균·항염 효과; 무자극, 무방부제 제품 선택 권장</td></tr><tr><td>Tea tree oil 계열</td><td>Demodex 감염 의심 만성 안검염 동반 시</td><td>terpinen-4-ol 성분이 Demodex 구제 효과; 원액은 자극 강하므로 희석 제품 사용</td></tr></tbody></table>
+<table><thead><tr><th width="156">종류</th><th width="193">주요 적응</th><th>비고</th></tr></thead><tbody><tr><td>유아용 샴푸 희석액</td><td>일반 눈꺼풀 위생</td><td>가장 접근성이 높음; 단, 계면활성제 자극 주의</td></tr><tr><td>차아염소산(HOCl)<br>스프레이</td><td>세균성 안검염, 일반 눈꺼풀 위생</td><td>항균·항염 효과; 무자극, 무방부제 제품 선택 권장</td></tr><tr><td>Tea tree oil 계열</td><td>Demodex 감염 의심 만성 안검염 동반 시</td><td>terpinen-4-ol 성분이 Demodex 구제 효과; 원액은 자극 강하므로 희석 제품 사용</td></tr></tbody></table>
 
 ※ 아마씨유(flaxseed oil) 또는 오메가-3(EPA/DHA) 섭취가 meibomian gland의 기름 성상을 개선하여 재발 감소에 도움이 된다는 보고가 있음 (근거 수준 중등도; 오메가-3 1\~3 g/일, 최소 3개월 이상 복용)
 
@@ -118,7 +118,7 @@
   * 대형 병변은 2\~7일 내 반복 주사 필요할 수 있음
 * 농도 선택 기준
 
-<table><thead><tr><th width="144">농도</th><th width="282">적용 상황</th><th>근거</th></tr></thead><tbody><tr><td>40 ㎎/㎖ (원액)</td><td>중형~대형(≥5 ㎜), 섬유화된 만성 병변</td><td>표준 용량; 병변 내 약물 농도 확보</td></tr><tr><td>10 ㎎/㎖ <br>(4배 희석)</td><td>소형(&#x3C;5 ㎜), 누점 인근, 피부색 어두운 환자</td><td>탈색소·지방 위축 위험 감소; 누점 손상 최소화</td></tr></tbody></table>
+<table><thead><tr><th width="144">농도</th><th width="282">적용 상황</th><th>근거</th></tr></thead><tbody><tr><td>40 ㎎/㎖ (원액)</td><td>중형~대형(≥5 ㎜), 섬유화된 만성 병변</td><td>표준 용량; 병변 내 약물 농도 확보</td></tr><tr><td>10 ㎎/㎖<br>(4배 희석)</td><td>소형(&#x3C;5 ㎜), 누점 인근, 피부색 어두운 환자</td><td>탈색소·지방 위축 위험 감소; 누점 손상 최소화</td></tr></tbody></table>
 
 * 효과 : 중형 병변 해소율 약 84\~92%; I\&C와 전체 해소율 유사; 해소 시간은 I\&C보다 약간 김
 * 부작용 (환자에게 사전 고지 필요)
@@ -147,7 +147,7 @@
 * 적용 : 큰 병변(각막 압박·안구 운동 방해), 2\~3주 치료에도 소실되지 않는 병변
 * 절개 방향 : 접근 면에 따라 다름
 
-<table><thead><tr><th width="100">접근 면</th><th width="110">절개 방향</th><th width="179">적용 상황</th><th width="274">근거</th></tr></thead><tbody><tr><td>결막 면</td><td>Vertical</td><td>대부분의 chalazion <br>- 표준 접근</td><td>meibomian gland 주행 방향 평행; 주변 기름샘 손상 최소화</td></tr><tr><td>피부 면</td><td>Horizontal</td><td>병변이 피부 쪽에 매우 근접한 경우</td><td>피부 주름선(relaxed skin tension line) 방향; 흉터 최소화</td></tr></tbody></table>
+<table><thead><tr><th width="100">접근 면</th><th width="110">절개 방향</th><th width="179">적용 상황</th><th width="274">근거</th></tr></thead><tbody><tr><td>결막 면</td><td>Vertical</td><td>대부분의 chalazion<br>- 표준 접근</td><td>meibomian gland 주행 방향 평행; 주변 기름샘 손상 최소화</td></tr><tr><td>피부 면</td><td>Horizontal</td><td>병변이 피부 쪽에 매우 근접한 경우</td><td>피부 주름선(relaxed skin tension line) 방향; 흉터 최소화</td></tr></tbody></table>
 
 * 조직 병리 검사 : 절제 검체 반드시 병리 의뢰 - 피지선 암종 등 악성 병변 배제
 
@@ -189,7 +189,7 @@ H00.1 콩다래끼
 > 미노씬 50 ㎎/C  1C  bid  ×10d
 > ```
 >
-> _✽감염 징후(발적·압통·분비물) 동반 시 항생제 추가. minocycline 50 ㎎ bid는 급성기 항균 목적의 표준 용량; 항염 목적의 저용량 유지(50 ㎎ qd)와 구분하여 적용. 치료 후에도 종괴 잔존 시  의뢰_
+> _✽감염 징후(발적·압통·분비물) 동반 시 항생제 추가. minocycline 50 ㎎ bid는 급성기 항균 목적의 표준 용량; 항염 목적의 저용량 유지(50 ㎎ qd)와 구분하여 적용. 치료 후에도 종괴 잔존 시 의뢰_
 >
 > _✽tetracycline계 금기(임부·12세 미만·불내성) 시 대체 : 플라질 200 ㎎ tid ×10d_
 

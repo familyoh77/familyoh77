@@ -89,43 +89,42 @@
 * 지난 한 달 중 일상적인 하루 동안 아래 상황을 경험한 빈도를 항상(4점), 대부분(3점), 종종(2점), 가끔(1점점), 없음(0점)으로 답변
 * 채점/판정 : 각 문항 점수 합산(최저 0점, 최고 24점) → 총점 ≥ 4 → 건성안 의심
 
- \[증상·시기능 영역]
+ \[증상·시기능 영역]\
+   1. 빛에 눈이 민감하셨나요?\
+   2. 눈을 깜박이는 사이에 시야가 흐려지셨나요?
 
-* 1\. 빛에 눈이 민감하셨나요?
-* 2\. 눈을 깜박이는 사이에 시야가 흐려지셨나요?
+ \[시각 기능 영역]\
+   3. 야간 운전(또는 동승) 시 불편하셨나요?\
+   4. TV 시청 또는 유사한 작업 시 불편하셨나요?
 
- \[시각 기능 영역]
-
-* 3\. 야간 운전(또는 동승) 시 불편하셨나요?
-* 4\. TV 시청 또는 유사한 작업 시 불편하셨나요?
-
- \[환경 영역]
-
-* 5\. 바람이 부는 환경에서 불편하셨나요?
-* 6\. 습도가 낮은 환경에서 불편하셨나요?
+ \[환경 영역]\
+   5. 바람이 부는 환경에서 불편하셨나요?\
+   6. 습도가 낮은 환경에서 불편하셨나요?
 
 **DEQ-5 설문지(Dry Eye Questionnaire 5)**
 
 * 지난 한 달 중 일상적인 하루 동안의 경험
 * 채점/판정 : 각 문항 점수 합산(최저 0점, 최고 22점) → 총점 ≥ 6 → 건성안 의심
 
- \[눈의 불편감(Eye Discomfort)]
+ \[눈의 불편감(Eye Discomfort)]\
+   1. 눈이 불편하다고 느낀 빈도는? \
+   없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)\
+   2, 잠자리에 들기 2시간 전, 하루가 끝날 무렵 불편감의 강도는? \
+   없음(0), 매우 약함(1)\~매우 심함(5)
 
-* 1\. 눈이 불편하다고 느낀 빈도는? 없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)
-* 2, 잠자리에 들기 2시간 전, 하루가 끝날 무렵 불편감의 강도는? 없음(0), 매우 약함(1)\~매우 심함(5)
+ \[눈의 건조감(Eye Dryness)]\
+   3. 눈이 건조하다고 느낀 빈도는? \
+   없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)\
+   4. 잠자리에 들기 2시간 전, 하루가 끝날 무렵 건조감의 강도는? \
+   없음(0), 매우 약함(1)\~매우 심함(5)
 
- \[눈의 건조감(Eye Dryness)]
-
-* 3\. 눈이 건조하다고 느낀 빈도는? 없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)
-* 4\. 잠자리에 들기 2시간 전, 하루가 끝날 무렵 건조감의 강도는? 없음(0), 매우 약함(1)\~매우 심함(5)
-
- \[눈물 흘림(Watery Eyes)]
-
-* 5\. 눈이 지나치게 촉촉하거나 눈물이 흘렀던 빈도는? 없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)
+ \[눈물 흘림(Watery Eyes)]\
+   5. 눈이 지나치게 촉촉하거나 눈물이 흘렀던 빈도는? \
+   없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)
 
 #### <mark style="color:$primary;">아형 감별</mark>
 
-<table><thead><tr><th width="249">핵심 소견</th><th width="172">시사하는 아형</th><th>1차 치료 방향</th></tr></thead><tbody><tr><td>Schirmer 정상, TBUT↓, 눈꺼풀 기름 분비 불량</td><td>증발과다형 (EDE/MGD)</td><td>온찜질·눈꺼풀 위생 + 지질 보충 인공 눈물; doxycycline 고려</td></tr><tr><td>Schirmer↓, TBUT 정상 또는 경미한↓</td><td>수성 결핍형 (ADDE)</td><td>고점도 인공 눈물·무방부제 단회용; Sjögren 감별</td></tr><tr><td>Schirmer↓, TBUT↓</td><td>혼합형</td><td>위 두 가지 병행</td></tr><tr><td>증상 심한데 징후 미미(또는 반대)</td><td>신경감각 이상 의심</td><td>의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="209">핵심 소견</th><th width="172">시사하는 아형</th><th>1차 치료 방향</th></tr></thead><tbody><tr><td>Schirmer 정상, TBUT↓, 눈꺼풀 기름 분비 불량</td><td>증발과다형 (EDE/MGD)</td><td>온찜질·눈꺼풀 위생 + 지질 보충 인공 눈물; doxycycline 고려</td></tr><tr><td>Schirmer↓, TBUT 정상 또는 경미한↓</td><td>수성 결핍형 (ADDE)</td><td>고점도 인공 눈물·무방부제 단회용; Sjögren 감별</td></tr><tr><td>Schirmer↓, TBUT↓</td><td>혼합형</td><td>위 두 가지 병행</td></tr><tr><td>증상 심한데 징후 미미(또는 반대)</td><td>신경감각 이상 의심</td><td>의뢰</td></tr></tbody></table>
 
 ### <mark style="color:orange;">감별 진단</mark>
 
@@ -196,6 +195,8 @@ graph TD
     style Mixed fill:#f3e5f5,stroke:#4a148c
 ```
 
+_<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reporting; Management & Therapy (2025). ocularsurf.com</mark>_
+
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
@@ -220,7 +221,7 @@ graph TD
 * 충분한 수분 섭취
 * 눈꺼풀 온찜질 및 청결 유지 (특히 MGD 동반 시)
   * 온찜질 : meibomian gland 굳은 기름 성분 액화 → 분비 개선; 40\~45°C, 1일 1\~2회, 5\~10분
-  * **눈꺼풀 세척(lid scrub)** : **온찜질 직후** 면봉 또는 눈꺼풀 세정제로 가장자리를 닦아냄 — 열로 연화된 분비물 제거 효과 극대화; **온찜질→세척 순서**가 핵심
+  * 눈꺼풀 세척(lid scrub) : 온찜질 직후 면봉 또는 눈꺼풀 세정제로 가장자리를 닦아냄 - 열로 연화된 분비물 제거 효과 극대화; 온찜질→세척 순서가 핵심
 * 유발 약물 회피
 * 눈 수술(예: 라식, 라섹) 회피 - 각막 신경 손상 가능
 * 화면 사용 시 20-20-6 규칙 : 20분 사용 후 20초간 6미터 이상 먼 곳을 바라봄
@@ -298,7 +299,7 @@ graph TD
 ### <mark style="color:orange;">영양 요법</mark>
 
 * tear film break-up time 향상 등 증상 호전에 유효하다고 알려짐
-* 오메가-3(1~2 g qd <mark style="color:blue;">\[오마코]</mark>), (γ-)linoleic acid <mark style="color:blue;">\[에보프림]</mark>, 항산화제, Vit A\
+* 오메가-3(1\~2 g qd <mark style="color:blue;">\[오마코]</mark>), (γ-)linoleic acid <mark style="color:blue;">\[에보프림]</mark>, 항산화제, Vit A\
   ✽하루 1 g의 오메가-3를 12개월간 복용한 결과 안구건조증에 유의미한 호전이 없었다는 보고가 있음(DREAM study, NEJM 2018)
 
 ### <mark style="color:orange;">항생제</mark>
@@ -315,7 +316,7 @@ graph TD
 * lacrimal puncta에 silicone 또는 gel plug을 삽입하여 눈물 배출을 늦춤
 * 다른 방법으로 조절되지 않는 심한 경우(주로 ADDE) 고려
 
-#### <mark style="color:$primary;">기기 치료 - MGD 동반 난치성 건성안</mark>&#x20;
+#### <mark style="color:$primary;">기기 치료 - MGD 동반 난치성 건성안</mark>
 
 * IPL (Intense Pulsed Light) : 항염 + meibomian gland 기능 개선; network meta-analysis에서 LipiFlow 대비 TBUT·SPEED 개선 우위
 * LipiFlow (thermal pulsation) : 12분 1회 시술로 meibomian gland 기능 개선; 효과 최대 3년 지속
