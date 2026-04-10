@@ -8,7 +8,7 @@
 * 치료 전 시력 평가 필수
 * 이물 종류에 따른 임상적 의미 차이에 유의
 
-<table><thead><tr><th width="160">이물 종류</th><th width="220">주요 위험</th><th>특이 조치</th></tr></thead><tbody><tr><td>금속(철)</td><td>녹 흔적(rust ring) 잔존</td><td>표면 제거 후에도 rust ring 남으면 안과 의뢰</td></tr><tr><td>유기물(목편·식물)</td><td>감염률 높음 (진균 포함)</td><td>항생제 강화, 면밀한 추적</td></tr><tr><td>콘택트렌즈 파편</td><td>슬릿램프 없이 확인 어려움</td><td>안과 의뢰</td></tr><tr><td>화학 물질·분진</td><td>지속적 각막 화학 손상</td><td>즉시 다량 세척 후 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="160">이물 종류</th><th width="220">주요 위험</th><th>특이 조치</th></tr></thead><tbody><tr><td>금속(철)</td><td>녹 흔적(rust ring) 잔존</td><td>표면 제거 후에도 rust ring 남으면 의뢰</td></tr><tr><td>유기물(목편·식물)</td><td>감염률 높음 (진균 포함)</td><td>항생제 강화, 면밀한 추적</td></tr><tr><td>콘택트렌즈 파편</td><td>슬릿램프 없이 확인 어려움</td><td>의뢰</td></tr><tr><td>화학 물질·분진</td><td>지속적 각막 화학 손상</td><td>즉시 다량 세척 후 의뢰</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -24,7 +24,7 @@
 * 제거 후 시력이 정상으로 돌아오지 않음
 * 콘택트렌즈 착용자 : 각막 침윤(corneal infiltrate) 의심 시
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 즉각 위험 낮으나 호전 없으면 의뢰**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 이물 제거 후 24시간 이내 통증 증가, 충혈 악화, 시각 장애 발생
 * 철 함유 이물 제거 후 rust ring 잔존이 의심되는 경우
@@ -35,7 +35,7 @@
 
 ### <mark style="color:orange;">Quick Decision Tips</mark>
 
-<table><thead><tr><th width="330">핵심 질문</th><th>YES →</th></tr></thead><tbody><tr><td>빠른 속도의 금속 파편이 튀었는가?</td><td>즉시 안과 의뢰 (안구 관통 배제)</td></tr><tr><td>화학물질이 눈에 들어갔는가?</td><td>즉시 다량 세척(최소 15분) 후 의뢰</td></tr><tr><td>이물 제거 후에도 이물감이 남는가?</td><td>위 눈꺼풀 뒤집어 확인; 호전 없으면 의뢰</td></tr><tr><td>콘택트렌즈 착용자인가?</td><td>quinolone 항생제 선택; 각막 침윤 여부 확인</td></tr><tr><td>이물이 철 성분인가?</td><td>rust ring 잔존 여부 확인; 남으면 안과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="258">핵심 질문</th><th width="340">YES →</th></tr></thead><tbody><tr><td>빠른 속도의 금속 파편이 튀었는가?</td><td>즉시 의뢰 (안구 관통 배제)</td></tr><tr><td>화학물질이 눈에 들어갔는가?</td><td>즉시 다량 세척(최소 15분) 후 의뢰</td></tr><tr><td>이물 제거 후에도 이물감이 남는가?</td><td>위 눈꺼풀 뒤집어 확인; 호전 없으면 의뢰</td></tr><tr><td>콘택트렌즈 착용자인가?</td><td>quinolone 항생제 선택; 각막 침윤 여부 확인</td></tr><tr><td>이물이 철 성분인가?</td><td>rust ring 잔존 여부 확인; 남으면 의뢰</td></tr></tbody></table>
 
 ### <mark style="color:orange;">임상 흐름도</mark>
 
@@ -43,7 +43,7 @@
 graph TD
     A[눈 이물 내원] --> B{고속 파편 또는\화학물질?}
     B -- Yes --> C[🚨 즉시 세척 / 
-응급 안과 의뢰]
+응급 의뢰]
     B -- No --> D[시력 측정 및 이물 확인 · 제거]
     D --> E{각막 상피 손상 동반?}
     E -- 손상 없음 --> F[경과 관찰, 이물감 소실 확인]
@@ -55,25 +55,25 @@ NSAID 점안액]
     H & I --> J[24시간 이내 F/U 예약]
     J --> K{24시간 후 호전?}
     K -- 호전 --> L[치료 완료]
-    K -- 악화 또는 지속 --> M[안과 의뢰]
+    K -- 악화 또는 지속 --> M[의뢰]
 ```
 
 ***
 
-#### <mark style="color:$primary;">1. 눈 주위 피부에 붙은 이물 제거</mark>
+**1. 눈 주위 피부에 붙은 이물 제거**
 
 * 고개를 숙이게 하고 눈은 감은 상태로 눈꺼풀에 바람을 붐
 * 테이프로 눈 주위 피부의 이물을 떼어냄
 * 물로 눈꺼풀과 얼굴을 씻어냄
 
-#### <mark style="color:$primary;">2. 눈 속의 이물 제거</mark>
+**2. 눈 속의 이물 제거**
 
-* 필요시 마취 안약(proparacaine 0.5% \[알카인]) 사용 후 조작 (처치용; 처방 교부 금지 ☞ 아래 참조)
+* 필요시 마취 안약(proparacaine 0.5% <mark style="color:blue;">\[알카인]</mark>) 사용 후 조작 (처치용; 처방 교부 금지 ☞ 아래 참조)
 * 생리식염수로 세척 (비상시 수돗물 가능) - 화학물질 노출 시 최소 15분 이상 지속 세척
 * 물에 적신 무균 면봉으로 부드럽게 묻혀 냄
 * 환자가 이물감을 호소하면 이물질이 남아 있을 가능성에 주의; 특히 위 눈꺼풀을 뒤집어 확인
 
-#### <mark style="color:$primary;">3. 이물 제거 후 조치</mark>
+**3. 이물 제거 후 조치**
 
 * 항생제 안연고 수일간 적용 (연고가 윤활 효과도 함께 제공하므로 점안액보다 우선 선택)
   * tobramycin 안연고 <mark style="color:blue;">\[토라빈]</mark> qid ×3\~5d
@@ -87,7 +87,7 @@ NSAID 점안액]
   * 경구 진통제 : ibuprofen, acetaminophen
 * F/U : 24시간 이내 재진; 소규모(직경 4 ㎜ 이하) 비복잡성 이물로 증상이 빠르게 소실된 경우에 한해 생략 가능
 
-#### <mark style="color:$primary;">파상풍 예방 접종</mark>
+**파상풍 예방 접종**
 
 * 단순 각막 표면 이물(비관통성) : 파상풍 예방 접종 불필요 - 각막은 무혈관 조직이며, 비관통성 손상 후 파상풍이 발생한 사례는 문헌상 보고된 바 없음
 * 다음의 경우에 한하여 파상풍 접종 이력 확인 및 필요 시 접종 :
