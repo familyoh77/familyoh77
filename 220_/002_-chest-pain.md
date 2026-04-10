@@ -315,7 +315,62 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ### <mark style="color:orange;">흉통 환자의 평가</mark>
 
-<figure><img src="../.gitbook/assets/fig 7.png" alt=""><figcaption><p><strong>Patient-Centric Algorithms for Acute Chest Pain</strong><br>ECG=electrocardiogram, STEMI=ST-segment–elevation myocardial infarction.<br><em>Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</em></p></figcaption></figure>
+#### <mark style="color:$primary;">급성 흉통의 초기 접근 알고리즘</mark>
+
+```mermaid
+flowchart TD
+    A([급성 흉통?]) -->|예| B[병력 청취\n신체 검진]
+    A -->|아니오| Z[안정형 흉통 평가]
+
+    B --> C[ECG 시행]
+
+    C -->|STEMI| D[STEMI\n가이드라인 따름]
+    C -->|심장 원인\n가능성 있음| E{원인 분류}
+    C -->|비심장성\n원인 명확| F[비심장 원인 처치\n Section 4.3]
+
+    E -->|ACS 의심\nSTEMI 아님| G[ACS 처치\nSection 4.1]
+    E -->|급성 대동맥\n증후군 의심| H[대동맥 증후군\n처치 Section 4.2.1]
+    E -->|폐색전증\n의심| I[폐색전증\n처치 Section 4.2.2]
+    E -->|심근심막염\n의심| J[심근심막염\n처치 Section 4.2.3]
+    E -->|판막질환\n의심| K[판막질환\n처치 Section 4.2.4]
+
+    style D fill:#d32f2f,color:#fff
+    style G fill:#e65100,color:#fff
+    style H fill:#b71c1c,color:#fff
+    style I fill:#1565c0,color:#fff
+    style J fill:#4a148c,color:#fff
+    style K fill:#1b5e20,color:#fff
+```
+
+_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</mark>_
+
+#### <mark style="color:$primary;">흉통 환자의 신체 검진 소견</mark>
+
+신체 검진은 생명을 위협하는 원인을 신속히 감별하는 데 핵심적이다. 흉벽 압통이나 흡기 시 악화되는 통증이 확인되면 ACS 가능성은 현저히 낮아진다.
+
+**응급 감별이 필요한 상황**
+
+| 임상증후군 | 특징적 진찰 소견 |
+|---|---|
+| **ACS** | 발한, 빈호흡, 빈맥, 저혈압, 수포음(rale), S3 심음, 승모판 역류 잡음; 단순 MI에서는 검진 정상일 수 있음 |
+| **폐색전증(PE)** | 빈맥 + 호흡곤란 (환자의 90% 이상); 흡기 시 흉통 |
+| **대동맥 박리** | 결합조직 질환 소견(마르판 증후군 등), 사지 맥박 비대칭 (환자의 약 30%, Type A > B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 >80%; 실신 빈도 >10%, 대동맥판 역류 40~75% (Type A) |
+| **식도 파열** | 구토, 피하기종, 기흉(환자의 약 20%), 편측 호흡음 감소 또는 소실 |
+
+**비응급 감별**
+
+| 임상증후군 | 특징적 진찰 소견 |
+|---|---|
+| **비관상동맥 심장 질환** (대동맥판 협착증, 대동맥판 역류, 비후성 심근병증) | 대동맥판 협착증: 특징적 수축기 잡음, 지연·소맥 / 대동맥판 역류: 흉골 우측 이완기 잡음, 급속 상승 맥박 / 비후성 심근병증: 좌심실 충격 증가, 경정맥 prominent a파, 수축기 잡음 |
+| **심막염** | 발열, 흡기 및 앙와위 시 악화되는 흉통, 심막 마찰음(friction rub) |
+| **심근염** | 발열, 흉통, 심부전 소견, S3 심음 |
+| **식도염, 소화성 궤양, 담낭 질환** | 상복부 압통; 담낭은 우상복부 압통, Murphy 징후 |
+| **폐렴** | 발열, 국소 흉통(흉막성), 마찰음, 타진 시 탁음, 이진음(egophony) |
+| **기흉** | 흡기 시 호흡곤란과 통증, 편측 호흡음 소실 |
+| **늑연골염, Tietze 증후군** | 늑연골 접합부 압통 |
+| **대상포진** | 피부 분절 분포를 따르는 통증, 접촉 시 유발; 특징적 발진 (편측, 피부 분절) |
+
+_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Table 4</mark>_
 
 ***
 
