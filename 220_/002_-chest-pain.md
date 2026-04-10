@@ -39,25 +39,16 @@
 
 > 흉통 기술어는 허혈 가능성의 연속선상에 위치한다. "비전형적(atypical)"이라는 표현은 오해를 유발하므로 사용하지 않으며, 심장성·심장성 가능·비심장성으로 분류할 것을 2021 AHA/ACC 가이드라인은 권고한다.
 
-| 허혈 가능성 | **높음** ← ─────────────── → **낮음** |
-|---|---|
-| **위치·성상** | 중앙부(Central) · 압박감(Pressure) · 쥐어짜는 느낌(Squeezing) · 그리핑(Gripping) · 무거움(Heaviness) · 조임(Tightness) · 운동/스트레스 유발 · 흉골하(Retrosternal) |
-| | ↓ |
-| | 좌측(Left-sided) · 둔통(Dull) · 쑤시는 느낌(Aching) |
-| | ↓ |
-| | 찌르는 느낌(Stabbing) |
-| | ↓ |
-| | 우측(Right-sided) · 찢어지는 느낌(Tearing) · 뜯어지는 느낌(Ripping) · 타는 듯한 느낌(Burning) |
-| | ↓ |
-| **낮은 가능성** | 예리함(Sharp) · 순간적(Fleeting) · 위치 이동(Shifting) · 흡기 시 악화(Pleuritic) · 자세 관련(Positional) |
+<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td></td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Stabbing</td></tr><tr><td></td><td>Right-sided, Tearing, Ripping, Burning</td></tr><tr><td><strong>낮음</strong></td><td>Sharp, Fleeting, Shifting, Pleuritic*, Positional</td></tr></tbody></table>
 
-{% hint style="info" %}
 **임상 적용 포인트**
-- 압박·조임·무거움·쥐어짜는 느낌 → 허혈 가능성 높음; 즉각 ECG 및 트로포닌 평가
-- 찌르는·예리한·흡기 시 악화·자세 의존성 → 허혈 가능성 낮음 (심낭염, 근골격, 흉막 원인 고려)
-- 단, **여성·고령자·당뇨 환자**는 전형적 흉통 없이도 ACS일 수 있음; 호흡곤란·오심·피로만 있어도 배제 금지
-- 니트로글리세린으로 호전된다는 사실만으로 허혈을 진단하지 말 것 (식도 연축도 반응함)
-{% endhint %}
+
+* 압박·조임·무거움·쥐어짜는 느낌 → 허혈 가능성 높음; 즉각 ECG 및 트로포닌 평가
+* 찌르는·예리한·흡기 관련·자세 의존성 → 허혈 가능성 낮음 (심낭염, 근골격, 흉막 원인 고려)
+* 단 여성·고령자·당뇨 환자는 전형적 흉통 없이도 ACS일 수 있음; 호흡곤란·오심·피로만 있어도 배제 금지
+* 니트로글리세린으로 호전된다는 사실만으로 허혈을 진단하지 말 것 (식도 연축도 이에반응함)
+
+_<mark style="color:$info;">\*related to inspiration</mark>_
 
 _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 2</mark>_
 
@@ -109,73 +100,66 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
 * 'Door-to-ECG 10분' : 내원 후 10분 이내 시행 및 판독하는 것이 긴요 (2021 AHA/ACC, Class I)
 * 영상 검사 : 흉부 X선, 심초음파, CCTA(관상동맥 CT 혈관조영술), nuclear heart scanning, heart catheterization, Stress echocardiography
 
-### <mark style="color:orange;">ECG 소견에 따른 처치 알고리즘</mark>
+**이전 심장 검사의 유효 기간**
 
-> 급성 흉통 환자에서 ECG는 처치 방향을 결정하는 핵심 도구다. 정상 ECG라도 ACS를 배제할 수 없으므로 반드시 트로포닌 등 추가 평가를 병행한다.
+* 증상이 변하지 않은 환자에서 최근 정상 검사 결과가 있다면 불필요한 재검사를 피할 수 있음. 단, 증상의 빈도·양상·안정성이 변화했다면 유효 기간 내라도 재평가가 필요
+* 정상 관상동맥 조영술 (협착 또는 플라크 없음) 시 2년
+* CCTA에서 협착이 없는 경우 2년 (CCTA 정상 소견은 부하 검사 정상보다 사건 발생률이 낮음)
+* 부하 검사 정상 부하 검사 (충분한 운동 또는 약물부하 조건 충족, 영상 품질 양호) 시 1년
+* 이전 검사가 비-진단적이었거나 경도 이상 소견이 있었던 경우에는 새로운 증상 발생 시 재평가
+
+#### <mark style="color:$primary;">ECG 소견에 따른 처치 알고리즘</mark>
+
+* 급성 흉통 환자에서 ECG는 처치 방향을 결정하는 핵심 도구임
+* 정상 ECG라도 ACS를 배제할 수 없으므로 반드시 트로포닌 등 추가 평가를 병행해야 함
+* STEMI 확인 시 즉각 재관류 치료. Door-to-balloon 90분 이내가 목표
+* 정상 ECG ≠ ACS 배제
+  * 정상 ECG에서도 ACS 환자의 최대 6%가 응급실에서 퇴원할 수 있음
+  * 좌회선동맥·우관상동맥 폐색은 표준 12유도에서 '전기적 침묵' 가능 → 후벽 MI 의심 시 V7-V9 추가
+  * 좌심실 비대, 각차단, 심실 페이싱은 허혈 소견을 가릴 수 있음
 
 ```mermaid
 flowchart TD
-    A[흉통 환자\n병력 청취 + 신체 검진] --> B[ECG 시행\n도착 10분 이내]
+    A[흉통 환자
+    병력 청취 + 신체 검진] --> B[ECG 시행
+    도착 10분 이내]
 
-    B --> C[광범위 ST 상승\n심낭염 시사 소견]
-    B --> D[ST 하강\n새로운 T파 역전]
-    B --> E[비진단적 또는\n정상 ECG]
+    B --> C[광범위 ST 상승
+    심낭염 시사 소견]
+    B --> D[ST 하강
+    새로운 T파 역전]
+    B --> E[비진단적 또는 정상 ECG]
     B --> F[새로운 부정맥]
 
     C --> G[심낭염으로 처치]
 
-    D --> H[NSTE-ACS 가이드라인 따름\nClass I]
+    D --> H[NSTE-ACS 
+    가이드라인 따름]
 
-    E --> I{증상 지속 또는\n트로포닌 양성?}
-    I -->|예| J[ECG 반복 시행\nClass I]
-    I -->|후벽 MI 의심| K[V7-V9 유도 추가\n합리적 Class IIa]
+    E --> I[증상 지속 또는 
+    트로포닌 양성 시 
+    ECG 반복 시행]
+    E --> K[후벽 MI 의심 시 
+    Leads V7-V9]
 
-    J --> L[ACS 처치 또는\n추가 검사]
-    K --> L
-
-    F --> M[부정맥별 가이드라인 따름]
+    F --> M[부정맥별 
+    가이드라인 따름]
 
     B --> N[STEMI]
-    N --> O[STEMI 가이드라인 따름\nClass I]
+    N --> O[STEMI 
+    가이드라인 따름]
 
     style N fill:#d32f2f,color:#fff
     style O fill:#d32f2f,color:#fff
     style H fill:#e65100,color:#fff
     style G fill:#1565c0,color:#fff
     style M fill:#4a148c,color:#fff
-    style L fill:#2e7d32,color:#fff
+
 ```
 
-{% hint style="danger" %}
-**STEMI 확인 시** → 즉각 재관류 치료 팀 호출. Door-to-balloon 90분 이내가 목표.
-{% endhint %}
 
-{% hint style="warning" %}
-**정상 ECG ≠ ACS 배제**
-- 정상 ECG에서도 ACS 환자의 최대 6%가 응급실에서 퇴원할 수 있음
-- 좌회선동맥·우관상동맥 폐색은 표준 12유도에서 '전기적 침묵' 가능 → 후벽 MI 의심 시 V7-V9 추가
-- 좌심실 비대, 각차단, 심실 페이싱은 허혈 소견을 가릴 수 있음
-{% endhint %}
 
 _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 4</mark>_
-
-### <mark style="color:orange;">이전 심장 검사의 유효 기간</mark>
-
-> 증상이 변하지 않은 환자에서 최근 정상 검사 결과가 있다면 불필요한 재검사를 피할 수 있다. 단, 증상의 빈도·양상·안정성이 변화했다면 유효 기간 내라도 재평가가 필요하다.
-
-| 검사 방법 | 결과 | 유효 기간 |
-|---|---|---|
-| **해부학적 검사** | 정상 관상동맥 조영술 (협착 또는 플라크 없음) | **2년** |
-| | CCTA에서 협착 없음 | **2년** |
-| **부하 검사** | 정상 부하 검사 (충분한 운동 또는 약물부하 조건 충족, 영상 품질 양호) | **1년** |
-
-{% hint style="info" %}
-- CCTA 정상 소견은 부하 검사 정상보다 사건 발생률이 낮다 (유의한 플라크 없음이 확인되기 때문).
-- 정상 부하-휴식 SPECT의 유효 기간은 부하 방법, 환자 임상 특성, 좌심실 박출률에 따라 크게 달라진다.
-- 이전 검사가 비진단적이었거나 경도 이상 소견이 있었던 경우에는 새로운 증상 발생 시 재평가한다.
-{% endhint %}
-
-_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Table 7</mark>_
 
 #### <mark style="color:$primary;">실험실 검사 (심장 기원 평가)</mark>
 
@@ -197,24 +181,12 @@ _\*65세 미만에서 CCTA 선호 ._ 2021 AHA/ACC 권고
 
 ## <mark style="color:green;">흉통 성상과 원인 대응</mark>
 
-> 병력청취 시 아래 6가지 항목을 체계적으로 확인한다. 항목별 특징적 소견은 감별진단의 방향을 결정짓는다.
+* 병력청취 시 아래 6가지 항목을 체계적으로 확인
 
-| 항목 | 허혈성 심질환을 시사하는 소견 | 허혈성 심질환 가능성이 낮은 소견 |
-|---|---|---|
-| **성상 (Nature)** | 흉골하 불편감 (압박·무거움·조임·쥐어짜는 느낌·압박감·수축감) | 흡기 시 악화되고 반듯이 누웠을 때 심해지는 예리한 통증 → 허혈성 질환보다 급성 심낭염 가능성 시사 |
-| **시작·기간 (Onset & Duration)** | 수 분에 걸쳐 점차 강도가 증가 | 수 초 단위의 순간적 통증 → 허혈성 질환 가능성 낮음 |
-| | | 갑자기 최대 강도로 시작되는 찢어지는 흉통 (등·복부로 방사) → 급성 대동맥 증후군 강력 시사 |
-| **위치·방사 (Location & Radiation)** | 흉골하; 특징적 방사통 (좌측 팔·목·턱·상복부) | 매우 국소적으로 한 점에 한정된 통증, 배꼽 아래로 방사되는 통증 → 심근 허혈 가능성 낮음 |
-| **중증도 (Severity)** | — | "생애 최악의 통증"이라고 표현되는 찢어지는 흉통, 특히 고혈압 환자·이첨판 대동맥판·대동맥 확장 병력자 → 급성 대동맥 증후군 시사 |
-| **유발·악화 인자 (Precipitating factors)** | 운동 또는 정신적 스트레스로 유발 | 자세 변화에 의한 흉통 → 대개 비허혈성 (근골격계) |
-| | 휴식 시 또는 최소 활동에서 발생하는 협심증 증상 → ACS 시사 | |
-| **완화 인자 (Relieving factors)** | 니트로글리세린 반응: 진단 기준으로 사용 불가 (식도 연축도 반응함) | — |
-| **동반 증상 (Associated symptoms)** | 호흡곤란·두근거림·발한·어지럼증·실신 전조·상복부 통증·식사와 무관한 속쓰림·오심·구토 | — |
-| | 당뇨·여성·고령 환자에서는 좌측 흉통·우측 흉통·찌르는 통증·인후부/복부 불편감이 나타날 수 있음 | |
+<table><thead><tr><th width="192">항목</th><th>허혈성 심질환을 시사하는 소견</th><th>허혈성 심질환 가능성이 낮은 소견</th></tr></thead><tbody><tr><td><strong>성상 (Nature)</strong></td><td>흉골하 불편감 (압박·무거움·조임·쥐어짜는 느낌·압박감·수축감)</td><td>흡기 시 악화되고 반듯이 누웠을 때 심해지는 예리한 통증 → 허혈성 질환보다 급성 심낭염 가능성 시사</td></tr><tr><td><strong>시작·기간 (Onset &#x26; Duration)</strong></td><td>수 분에 걸쳐 점차 강도가 증가</td><td>수 초 단위의 순간적 통증 → 허혈성 질환 가능성 낮음</td></tr><tr><td></td><td></td><td>갑자기 최대 강도로 시작되는 찢어지는 흉통 (등·복부로 방사) → 급성 대동맥 증후군 강력 시사</td></tr><tr><td><strong>위치·방사 (Location &#x26; Radiation)</strong></td><td>흉골하; 특징적 방사통 (좌측 팔·목·턱·상복부)</td><td>매우 국소적으로 한 점에 한정된 통증, 배꼽 아래로 방사되는 통증 → 심근 허혈 가능성 낮음</td></tr><tr><td><strong>중증도 (Severity)</strong></td><td>—</td><td>"생애 최악의 통증"이라고 표현되는 찢어지는 흉통, 특히 고혈압 환자·이첨판 대동맥판·대동맥 확장 병력자 → 급성 대동맥 증후군 시사</td></tr><tr><td><strong>유발·악화 인자 (Precipitating factors)</strong></td><td>운동 또는 정신적 스트레스로 유발</td><td>자세 변화에 의한 흉통 → 대개 비허혈성 (근골격계)</td></tr><tr><td></td><td>휴식 시 또는 최소 활동에서 발생하는 협심증 증상 → ACS 시사</td><td></td></tr><tr><td><strong>완화 인자 (Relieving factors)</strong></td><td>니트로글리세린 반응: 진단 기준으로 사용 불가 (식도 연축도 반응함)</td><td>—</td></tr><tr><td><strong>동반 증상 (Associated symptoms)</strong></td><td>호흡곤란·두근거림·발한·어지럼증·실신 전조·상복부 통증·식사와 무관한 속쓰림·오심·구토</td><td>—</td></tr><tr><td></td><td>당뇨·여성·고령 환자에서는 좌측 흉통·우측 흉통·찌르는 통증·인후부/복부 불편감이 나타날 수 있음</td><td></td></tr></tbody></table>
 
 {% hint style="warning" %}
-**병력청취 핵심 원칙 (2021 AHA/ACC)**
-흉통의 특성은 반드시 환자로부터 직접 청취해야 한다. 허혈 여부 판단에 병력이 가장 중요한 근거이지만, 심장 증상의 발현은 복합적이고 다양하므로 병력만으로 허혈을 배제할 수 없다. 겉보기에 비심장성으로 보이는 흉통도 허혈 기원일 수 있다.
+**병력청취 핵심 원칙 (2021 AHA/ACC)** 흉통의 특성은 반드시 환자로부터 직접 청취해야 한다. 허혈 여부 판단에 병력이 가장 중요한 근거이지만, 심장 증상의 발현은 복합적이고 다양하므로 병력만으로 허혈을 배제할 수 없다. 겉보기에 비심장성으로 보이는 흉통도 허혈 기원일 수 있다.
 {% endhint %}
 
 _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Table 3</mark>_
