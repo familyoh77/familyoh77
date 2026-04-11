@@ -266,7 +266,7 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 #### <mark style="color:$primary;">국소 Steroid</mark>
 
 * 자극 증상이 있는 경우에 단기 사용; 4회/일 사용 시 ＜2주, 가끔 사용 시 수 주간 사용 가능
-* 가능한 한 저역가 선택 (☞ p.189)
+* 가능한 한 저역가 선택 (☞ [안과계 약제](ophthalmic-medications.md#undefined-14))
 * fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>
 * loteprednol <mark style="color:blue;">\[로테프로]</mark>
 
@@ -305,7 +305,7 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 ### <mark style="color:orange;">항생제</mark>
 
 * 대상 : 2차 감염, MGD, rosacea, blepharitis
-* 국소 항생제 (☞ [결막염](038_-conjunctivitis.md#undefined-25))
+* 국소 항생제 (☞ [안과계 약제](ophthalmic-medications.md#undefined-10))
 * 전신 항생제 : doxycycline 20\~50 ㎎ bid, 3\~4개월 <mark style="color:blue;">\[독시사이클린]</mark>\
   ✽항염·항균 이중 작용; MGD 동반 rosacea/blepharitis에서 특히 유효
 

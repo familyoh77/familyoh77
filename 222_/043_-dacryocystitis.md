@@ -56,7 +56,7 @@
   * amoxicillin/clavulanate <mark style="color:blue;">\[오구멘틴]</mark> 또는 levofloxacin <mark style="color:blue;">\[크라비트]</mark>
   * 경구 항생제에 반응 없거나 전신 증상 동반 시 입원 및 정주 항생제 고려
 * 국소 항생제 점안액 : 보조적 역할에 한정 - 누낭염의 주 병소는 누낭 심부 조직이므로 점안액의 도달이 불충분함; 분비물·결막 오염 조절 목적으로만 사용하며 전신 항생제를 대체할 수 없음
-* 국소 스테로이드 : 단기 투여로 염증 완화 보조; 단독 사용 금지, 항생제와 병용 (☞ [결막염](038_-conjunctivitis.md#undefined-25))
+* 국소 스테로이드 : 단기 투여로 염증 완화 보조; 단독 사용 금지, 항생제와 병용 (☞ [안과계 약제](ophthalmic-medications.md#undefined-14))
 * 농양 형성 시 절개 배농(I\&D) - 의뢰
 * 급성기 탐침술(lacrimal probing) : 급성 염증 중 탐침술은 취약해진 조직에 가성 통로(false passage)를 만들 위험이 있으므로 금기; 급성기 해소 후 안과에서 시행
 * 수술(dacryocystorhinostomy, DCR) : 폐쇄된 눈물길을 수술로 개방; 만성 누낭염 또는 반복 재발에서 고려

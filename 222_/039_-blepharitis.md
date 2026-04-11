@@ -128,7 +128,7 @@
 
 #### <mark style="color:$primary;">국소제</mark>
 
-* 1차 선택 : erythromycin, bacitracin, azithromycin; 취침 시 도포(초기에는 중증도에 따라 자주(\~4회/일) 도포 후 줄일 수 있음) (☞ [결막염](038_-conjunctivitis.md#undefined-24))
+* 1차 선택 : erythromycin, bacitracin, azithromycin; 취침 시 도포(초기에는 중증도에 따라 자주(\~4회/일) 도포 후 줄일 수 있음) (☞ [안과계 약제](ophthalmic-medications.md#undefined-10))
 * 대체제 : fluoroquinolones; gatifloxacin 0.3% <mark style="color:blue;">\[가티플로]</mark>, levofloxacin 0.5% <mark style="color:blue;">\[크라비트]</mark>, moxifloxacin 0.5% <mark style="color:blue;">\[모록사신]</mark>
 * 복합제 : polymyxin-B/neomycin + dexamethasone <mark style="color:blue;">\[포러스]</mark>
 * 투여 기간 : 보통 1\~2주; 필요시 염증 소견 소실까지 4\~8주 적용
@@ -142,13 +142,13 @@
 ### <mark style="color:orange;">국소 항염증제</mark>
 
 * 대상 : 다른 치료로 호전되지 않는 중증, 재발성
-* steroid : loteprednol <mark style="color:blue;">\[로테프로]</mark>, fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>, rimexolone <mark style="color:blue;">\[벡솔]</mark>; 2\~3주 이내로 사용 기간 제한 (☞ [결막염](038_-conjunctivitis.md#undefined-14))
-* calcineurin inhibitor : cyclosporine <mark style="color:blue;">\[레스타시스]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0001))
+* steroid : loteprednol <mark style="color:blue;">\[로테프로]</mark>, fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>, rimexolone <mark style="color:blue;">\[벡솔]</mark>; 2\~3주 이내로 사용 기간 제한 (☞ [안과계 약제](ophthalmic-medications.md#undefined-14))
+* calcineurin inhibitor : cyclosporine <mark style="color:blue;">\[</mark>[<mark style="color:blue;">레스타시스</mark>](ophthalmic-medications.md#undefined-9)<mark style="color:blue;">]</mark>
 * 항생제 복합제 : sulfacetamide sodium + prednisolone acetate
 
 ### <mark style="color:orange;">인공 눈물</mark>
 
-* 대상 : 안구 건조 동반 시; MGD에 의한 증발성 안구건조증에서는 지질 성분 포함 인공눈물이 단순 수분 보충형보다 효과적
+* 대상 : 안구 건조 동반 시; MGD에 의한 증발성 안구건조증에서는 지질 성분 포함 인공눈물이 단순 수분 보충형보다 효과적 (☞ [인공 눈물](ophthalmic-medications.md#undefined-4))
   * 지질층 보충 제제 : 카보머(carbomer) 기반, 글리세린+인지질 혼합 제제 (예: <mark style="color:blue;">\[리포직]</mark>, <mark style="color:blue;">\[시스테인 발란스]</mark>, <mark style="color:blue;">\[아이리스 지질]</mark>)
   * 단순 수분 보충형(hyaluronate, CMC)은 수성 결핍 동반 시 병용 가능
 * 콘택트렌즈 착용자 : 무방부제 제형 선택; 증상 악화 시 착용 중단하고 회복 후 재착용

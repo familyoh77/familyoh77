@@ -97,7 +97,7 @@
 
 #### <mark style="color:$primary;">겉다래끼 — 국소 항생제 (1차)</mark>
 
-* 세척 후 도포, 7\~10일간 적용 (☞ [결막염](038_-conjunctivitis.md#undefined-25))
+* 세척 후 도포, 7\~10일간 적용 (☞ [안과계 약제](ophthalmic-medications.md#undefined-10))
 * bacitracin, erythromycin, chloramphenicol <mark style="color:blue;">\[클로람페니콜]</mark> : qid
 * tobramycin 안연고 <mark style="color:blue;">\[토라빈]</mark> : qid
 * 인공 눈물 : 이물감 완화 목적으로 필요시 적용
