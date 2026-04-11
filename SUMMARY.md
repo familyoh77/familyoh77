@@ -41,7 +41,7 @@
   * [파킨슨병 Parkinson’s Disease](221_/035_-parkinsons-disease.md)
   * [하지불안증후군 Restless Legs Syndrome](221_/restless-legs-syndrome.md)
 * [Part 3. 눈귀코목 질환](222_/README.md)
-  * [안과계 약제](222_/undefined.md)
+  * [안과계 약제 Ophthalmic Medications](222_/ophthalmic-medications.md)
   * [눈 충혈 Red Eye](222_/037_-red-eye.md)
   * [결막염 Conjunctivitis](222_/038_-conjunctivitis.md)
   * [안검염 Blepharitis](222_/039_-blepharitis.md)
