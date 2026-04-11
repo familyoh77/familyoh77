@@ -357,7 +357,7 @@ graph TD
     Start --> Routine["Routine evaluation<br/>• 흉부 X선<br/>• 폐 기능 검사<br/>• FENO(1)
     • 혈중 eosinophils"]
     
-    Start --> Initial["Initial management<br/>• 위험 인자 중단<br/>
+    Start --> Initial["Initial management<br/>• 위험 인자 중단
     • 2~4주간 경구/흡입 Steroid 또는 LTRA((특히 FENO/s-eosinophil↑))
     • Peptic Sx 또는 위산 역류의 증거가 있을 때 PPI"]
 
