@@ -14,7 +14,7 @@
 * 정확한 기전은 불명; 복합적 요인
 * dry eye, meibomian gland 이상
 * 감염 : 눈 표면의 만성 low grade 감염
-  * ＜40세에서는 포도알균, 50대에는 비-포도알균 우세
+  * _Staphylococcus_ spp.가 가장 흔한 원인균; 연령에 따른 특정 균종 우세는 명확하지 않음
   * 세균 : impetigo(_S. aureus_), erysipelas(_S. pyogenes_), angular blepharitis(_Moraxella_)
   * 바이러스 : 단순포진, 대상포진, 물사마귀, 인유두종
   * 기생충 : 사면발니, _Demodex folliculorum_
@@ -68,7 +68,7 @@
 
 * 원인 : _Demodex folliculorum_ 감염
 * 속눈썹 뿌리에 원통형 비늘(cylindrical dandruff/collarette) - Demodex 특이도 높은 소견
-* chronic blepharitis의 30%에서 발견됨
+* chronic blepharitis 환자에서 높은 빈도로 발견되며, 고령에서 유병률 증가
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -76,7 +76,7 @@
 * 눈꺼풀 발적, 부기, 가려움, 속눈썹 base 잔여물(fibrin exudate)
 * 시간이 지남에 따라 속눈썹 탈락(madarosis), 첩모 난생(trichiasis), meibomian gland 범람 또는 농축
 
-<table><thead><tr><th width="136">특징</th><th width="192">Anterior Eyelid – Staphylococcal</th><th width="155">Anterior Eyelid – Seborrheic</th><th width="192">Posterior Eyelid – MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>엉킨, 단단한 비늘/잔여물</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증~중등증 충혈</td><td>경증 충혈</td><td>경증~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>흔함</td><td>흔함</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
+<table><thead><tr><th width="136">특징</th><th width="192">Anterior Eyelid – Staphylococcal</th><th width="155">Anterior Eyelid – Seborrheic</th><th width="192">Posterior Eyelid – MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>엉킨, 단단한 비늘/잔여물</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증~중등증 충혈</td><td>경증 충혈</td><td>경증~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>tear film 불안정·dry eye 동반 가능</td><td>tear film 불안정·dry eye 동반 가능</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, (드물게) phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
 
  _MGD = meibomian gland dysfunction_\
  _Ref. AAO. Blepharitis PPP guideline. 2018. Table 2._
@@ -99,7 +99,7 @@
 
 ### <mark style="color:orange;">Quick Decision Tips</mark>
 
-<table><thead><tr><th width="355">핵심 질문</th><th>YES →</th></tr></thead><tbody><tr><td>눈꺼풀 가장자리에 딱지·비늘이 있는가?</td><td><strong>안검염 확인</strong> → 전/후 구분 진행</td></tr><tr><td>기름진 딱지 + 지루피부염(비듬) 동반?</td><td><strong>Seborrheic blepharitis</strong> → 눈꺼풀 세척 강화</td></tr><tr><td>아침 딱지 심함 + 속눈썹 궤양·탈락?</td><td><strong>Staphylococcal blepharitis</strong> → 국소 항생제</td></tr><tr><td>반복 다래끼 + Rosacea·여드름 동반?</td><td><strong>MGD</strong> 우선 의심 → 온찜질·경구 항생제</td></tr><tr><td>속눈썹 뿌리에 원통형 흰 비늘(collarette)?</td><td><strong>Demodex</strong> 의심 → tea tree oil 세척·ivermectin</td></tr></tbody></table>
+<table><thead><tr><th width="355">핵심 질문</th><th>YES →</th></tr></thead><tbody><tr><td>양측성 + 만성 경과 + 아침 악화?</td><td><strong>안검염 강력 시사</strong> → 유형 감별 진행</td></tr><tr><td>눈꺼풀 가장자리에 딱지·비늘이 있는가?</td><td><strong>안검염 확인</strong> → 전/후 구분 진행</td></tr><tr><td>기름진 딱지 + 지루피부염(비듬) 동반?</td><td><strong>Seborrheic blepharitis</strong> → 눈꺼풀 세척 강화</td></tr><tr><td>아침 딱지 심함 + 속눈썹 궤양·탈락?</td><td><strong>Staphylococcal blepharitis</strong> → 국소 항생제</td></tr><tr><td>반복 다래끼 + Rosacea·여드름 동반?</td><td><strong>MGD</strong> 우선 의심 → 온찜질·경구 항생제</td></tr><tr><td>속눈썹 뿌리에 원통형 흰 비늘(collarette)?</td><td><strong>Demodex</strong> 의심 → tea tree oil 세척·ivermectin</td></tr></tbody></table>
 
 ***
 
@@ -112,15 +112,15 @@
 
 #### <mark style="color:$primary;">단계적 치료 알고리즘</mark>
 
-<table><thead><tr><th width="80">단계</th><th width="200">대상</th><th>치료</th></tr></thead><tbody><tr><td><strong>Step 1</strong></td><td>모든 안검염</td><td>눈꺼풀 위생 (온찜질·마사지·세척) - 2주 시행</td></tr><tr><td><strong>Step 2</strong></td><td>Step 1 반응 불충분</td><td>국소 항생제 연고(erythromycin, bacitracin) 추가; 염증 동반 시 항생제/스테로이드 복합제(2주 이내)</td></tr><tr><td><strong>Step 3</strong></td><td>Step 2 반응 불충분 또는 MGD 우세형</td><td>경구 항생제(doxycycline·minocycline) 추가; 국소 스테로이드 단기 병용 가능</td></tr><tr><td><strong>Step 4</strong></td><td>난치성·재발성</td><td>cyclosporine 점안액; IPL(Intense Pulsed Light) 시술 - 안과 의뢰 후 고려; Demodex형은 lotilaner 점안액(국내 미도입) 고려</td></tr></tbody></table>
+<table><thead><tr><th width="80">단계</th><th width="200">대상</th><th>치료</th></tr></thead><tbody><tr><td><strong>Step 1</strong></td><td>모든 안검염</td><td>눈꺼풀 위생 (온찜질·마사지·세척) - 2주 시행</td></tr><tr><td><strong>Step 2</strong></td><td>Step 1 반응 불충분</td><td>국소 항생제 연고(erythromycin, bacitracin) 추가; 염증 동반 시 항생제/스테로이드 복합제(2주 이내)</td></tr><tr><td><strong>Step 3</strong></td><td>Step 2 반응 불충분 또는 MGD 우세형</td><td>경구 항생제(doxycycline·minocycline) 중심 치료; 염증 소견 지속 시 단기 국소 steroid 병용 가능</td></tr><tr><td><strong>Step 4</strong></td><td>난치성·재발성</td><td>cyclosporine 점안액; IPL(Intense Pulsed Light) 시술(비급여, 안과 전문의 시행) - 안과 의뢰 후 고려; Demodex형은 lotilaner 점안액(Demodex 안검염 전용 치료제로 현재 가장 근거 확립; 국내 미도입) 고려</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
 * 온찜질(따뜻한 물수건) : 눈꺼풀 테두리 세정 보조 및 MGD 지질층 개선; 1일 2\~4회, 매회 5\~10분 적용
   * 온도 유지 : 40\~43℃. 매일 유지 가능한 현실적 시간으로 설정; 아이마스크형 팩 활용 시 편의성 향상
 * 눈꺼풀 마사지 : 온찜질 후 손끝으로 눈꺼풀 가장자리를 부드럽게 마사지
-* 눈꺼풀 세척(lid scrub) : 온찜질·마사지 직후 시행이 원칙 - 열로 연화된 분비물을 세척해 내는 순서가 가장 효과적; (유아용 비누/샴푸, 0.01% hypochlorous acid) 1일 2회
-* 금연, 눈 화장 회피, 콘택트렌즈 회피(증상과 관련이 없으면 사용할 수도 있음)
+* 눈꺼풀 세척(lid scrub) : 온찜질·마사지 직후 시행이 원칙 - 열로 연화된 분비물을 세척해 내는 순서가 가장 효과적; (유아용 비누/샴푸, 0.01–0.02% hypochlorous acid) 1일 2회
+* 금연, 눈 화장 회피(특히 아이라이너는 수성선을 막아 MGD 악화 가능), 콘택트렌즈 회피(증상과 관련이 없으면 사용할 수도 있음)
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -129,14 +129,16 @@
 #### <mark style="color:$primary;">국소제</mark>
 
 * 1차 선택 : erythromycin, bacitracin, azithromycin; 취침 시 도포(초기에는 중증도에 따라 자주(\~4회/일) 도포 후 줄일 수 있음) (☞ [안과계 약제](ophthalmic-medications.md#undefined-10))
-* 대체제 : fluoroquinolones; gatifloxacin 0.3% <mark style="color:blue;">\[가티플로]</mark>, levofloxacin 0.5% <mark style="color:blue;">\[크라비트]</mark>, moxifloxacin 0.5% <mark style="color:blue;">\[모록사신]</mark>
+* 각막 침범 또는 중증 감염 의심 시 고려 : fluoroquinolones; gatifloxacin 0.3% <mark style="color:blue;">\[가티플로]</mark>, levofloxacin 0.5% <mark style="color:blue;">\[크라비트]</mark>, moxifloxacin 0.5% <mark style="color:blue;">\[모록사신]</mark> (routine 사용은 권고하지 않음)
 * 복합제 : polymyxin-B/neomycin + dexamethasone <mark style="color:blue;">\[포러스]</mark>
 * 투여 기간 : 보통 1\~2주; 필요시 염증 소견 소실까지 4\~8주 적용
 
 #### <mark style="color:$primary;">경구제</mark>
 
 * 대상 : 국소제에 반응하지 않는 경우, 특히 meibomian gland 이환
-* 1차 선택 : doxycycline 100 ㎎/d <mark style="color:blue;">\[독시사이클린]</mark>, minocycline 100 ㎎/d <mark style="color:blue;">\[미노씬]</mark>; 호전 후 50% 감량하여 2\~6주간 투여
+* 1차 선택 : doxycycline <mark style="color:blue;">\[독시사이클린]</mark>, minocycline <mark style="color:blue;">\[미노씬]</mark>
+  * 초기 또는 감염·염증이 뚜렷한 경우 : 100 ㎎/d 시작 → 호전 후 50% 감량하여 2\~6주 유지
+  * 장기 유지 또는 부작용 우려 시 : 40\~50 ㎎/d (sub-antimicrobial dose; 항균보다 항염 목적)
 * 대체제 : azithromycin 500 ㎎ qd ×3d <mark style="color:blue;">\[지스로맥스]</mark> (✽1주 간격으로 3일씩 3차례 투여하는 것이 보다 효과적이라는 보고가 있음)
 
 ### <mark style="color:orange;">국소 항염증제</mark>
@@ -156,8 +158,8 @@
 ### <mark style="color:orange;">Demodex 구제</mark>
 
 * lotilaner 0.25% 점안액 <mark style="color:blue;">\[Xdemvy]</mark> : bid ×6주; FDA 승인, Demodex 안검염 최초 전용 치료제; TTO 대비 자극 적고 순응도 높음 (✽현재 국내 미도입)
-* ivermectin : 200 ㎍/㎏ PO, 1주 후 반복 (✽국내 안검염 적응증 미승인; 근거 제한적)
-* tea tree oil : 주 1회 ×6주 병소에 문지름 (효과 입증 불충분; 자극성·낮은 순응도 단점)
+* ivermectin : 200 ㎍/㎏ PO, 1주 후 반복 (✽일부 연구에서 보고되나 표준 치료로 권고되지 않음; 국내 안검염 적응증 미승인)
+* tea tree oil : 저농도(5–10%) TTO 기반 lid scrub을 매일 시행; 고농도는 자극성이 강해 전문 시술에서만 사용 (✽효과 입증 불충분; 자극성·낮은 순응도 단점)
 * 유아용 샴푸로 매일 눈꺼풀 가장자리 세척
 
 ### <mark style="color:orange;">영양</mark>
@@ -198,7 +200,8 @@ H01.0 안검염
 > 미노씬 50 ㎎/C  2C #2 (doxycycline 대체 가능; 호전 후 50% 감량하여 2~6주 유지)
 > ```
 >
-> _✽스테로이드 점안액은 장기 사용 시 안압 상승·백내장 위험이 있으므로 반드시 단기 사용 후 재평가. MGD에서 경구 항생제는 항균 효과보다 항염 효과를 주목적으로 사용함_
+> _✽스테로이드 점안액은 장기 사용 시 안압 상승·백내장 위험이 있으므로 반드시 단기 사용 후 재평가. MGD에서 경구 항생제는 항균 효과보다 항염 효과를 주목적으로 사용함_\
+_✽moxifloxacin 점안액은 각막 침범 또는 중증 감염 의심 시 적용; 단순 MGD에서는 routine 사용을 권고하지 않음_
 
 ***
 
