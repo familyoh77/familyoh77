@@ -103,7 +103,7 @@
 * 원인균 : herpes simplex (☞ [단순포진](../229_/181_-herpes-simplex.md))
 * 증상 : 작열감, 편측 이환, 피부 수포 동반; 가려움은 적음
 
- ※ HSV 결막염 의심 시 스테로이드 점안액 절대 금기 - 각막 수지상 병변(dendritic lesion) 확인 시 즉시 안과 의뢰
+ ※ HSV 결막염 의심 시 스테로이드 점안액 절대 금기 - 각막 수지상 병변(dendritic lesion) 확인 시 즉시 의뢰
 
 ## <mark style="color:green;">세균 결막염 (Bacterial Conjunctivitis)</mark>
 
@@ -174,7 +174,7 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 
 ### <mark style="color:orange;">Quick Decision Tips</mark>
 
-<table><thead><tr><th width="315">핵심 질문</th><th>YES →</th></tr></thead><tbody><tr><td>통증이 심하거나 시력이 떨어졌는가?</td><td><strong>즉시 안과 의뢰</strong> (각막염·홍채염·녹내장 배제)</td></tr><tr><td>눈이 심하게 가려운가?</td><td><strong>알레르기성</strong> → 냉찜질, 항히스타민 점안액</td></tr><tr><td>눈곱이 닦아도 10분 내 다시 끼는가?</td><td><strong>세균성</strong> → 경험적 항생제 점안액 고려</td></tr><tr><td>감기 기운 + 귀 앞 림프절이 부었는가?</td><td><strong>바이러스성</strong> → 대증 치료, 격리·위생 강조</td></tr><tr><td>콘택트렌즈 착용자인가?</td><td><strong>각막 침윤 확인</strong> 필수 → 의심 시 즉시 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="293">핵심 질문</th><th>YES →</th></tr></thead><tbody><tr><td>통증이 심하거나 시력이 떨어졌는가?</td><td><strong>즉시 의뢰</strong> (각막염·홍채염·녹내장 배제)</td></tr><tr><td>눈이 심하게 가려운가?</td><td><strong>알레르기성</strong> → 냉찜질, 항히스타민 점안액</td></tr><tr><td>눈곱이 닦아도 10분 내 다시 끼는가?</td><td><strong>세균성</strong> → 경험적 항생제 점안액 고려</td></tr><tr><td>감기 기운 + 귀 앞 림프절이 부었는가?</td><td><strong>바이러스성</strong> → 대증 치료, 격리·위생 강조</td></tr><tr><td>콘택트렌즈 착용자인가?</td><td><strong>각막 침윤 확인</strong> 필수 → 의심 시 즉시 의뢰</td></tr></tbody></table>
 
 ***
 
@@ -190,25 +190,7 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 * 항생제 안약 : 제한적 사용; 세균성 결막염에 대하여 고려할 수 있으나 세균성 결막염도 대부분 자연 치유되므로 항생제 안약 사용이 필요한 경우는 많지 않음
 * 스테로이드 점안액 주의 :  증상 완화 효과가 있으나 HSV 각막염에서 각막 손상 악화, 장기 사용 시 안압 상승·백내장 위험이 있으므로 처방 하기 전에 HSV 감염 여부를 반드시 확인해야 함
 
-#### <mark style="color:$primary;">안약 사용법</mark>
-
-* 개봉하여 사용한 다회 사용 점안액 사용 기한 : 개봉 후 4주(1달)
-* 다음의 경우 무방부제 약제 선택 : 1일 5회(미국안과학회)\~7회(NHS) 이상 지속 사용, 콘택트렌즈 착용
-* 투여량 : 아래 눈꺼풀 안쪽에 액체의 경우 1\~2방울 점적, 연고의 경우 0.5 인치 투여
-* 다른 성분의 여러 안약제를 투여하는 경우 3\~5분 간격으로 투여
-
-**점안액 점안 방법**
-
-1. 약병을 확인한다.
-2. 손을 씻는다.
-3. 병을 열기 전에 몇 번 흔든다.
-4. 고개를 뒤로 젖힌 후 한 손가락으로 아래 눈꺼풀을 아래로 당긴다.
-5. 약병 끝이 눈에 닿지 않는 높이에서 안구와 눈꺼풀 사이에 떨어뜨린다.
-6. 점안 후 수 초 동안 눈을 살짝 감고 있는다(반복적인 깜박임은 피함).
-7. (약이 좀 더 머물 수 있도록) 눈의 코 쪽 끝을 손가락으로 수 분 동안 눌러 준다.
-8. 손을 씻는다.
-
-<figure><img src="../.gitbook/assets/결막3.JPG" alt=""><figcaption></figcaption></figure>
+※ 안약 사용법 ☞ [안과계 약제](ophthalmic-medications.md#undefined-2)
 
 #### <mark style="color:$primary;">안약제 종류</mark>
 

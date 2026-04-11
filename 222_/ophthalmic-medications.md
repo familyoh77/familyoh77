@@ -35,7 +35,7 @@
 * 적응증 : 안구건조증, 경미한 자극성 충혈, 바이러스 결막염 보조치료, 알레르기 결막염 보조
 * 원칙 : 하루 6\~7회 이상 사용 또는 콘택트렌즈 착용 시 무방부제 제품 사용
 * 점안 시 한 방울로 충분하며, 두 방울 이상은 눈물 넘침으로 오히려 손실됨
-* 보험 주의 ([건강보험 급여기준 확인](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0013))
+* 보험 주의 (☞ [건강보험 급여기준 확인](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0013))
 
 ### <mark style="color:orange;">성분별 분류</mark>
 
@@ -108,20 +108,17 @@ _SA=S. aureus, SP=S. pneumoniae, H=H. influenzae, P=P. aeruginosa, E=E. coli, N=
 
 ## <mark style="color:green;">항생제/스테로이드 복합 점안제</mark>
 
-* **적응증** : 염증 동반 감염 (세균 결막염, 안검염 중등증, 누낭염 보조)
-* **주의** : 스테로이드 성분 함유로 장기 사용 시 안압 상승·백내장·감염 악화 위험; 보통 2주 이내 사용
-
-| 성분명 \[상품명]                                                                 | 항생제                  | 스테로이드         |
-| -------------------------------------------------------------------------- | -------------------- | ------------- |
-| tobramycin/dexamethasone <mark style="color:blue;">\[토브라덱스]</mark>         | tobramycin           | dexamethasone |
-| polymyxin-B/neomycin/dexamethasone <mark style="color:blue;">\[포러스]</mark> | polymyxin-B+neomycin | dexamethasone |
-| chloramphenicol/dexamethasone                                              | chloramphenicol      | dexamethasone |
-| sulfacetamide/prednisolone acetate                                         | sulfacetamide        | prednisolone  |
+* 적응증 : 염증 동반 감염 (세균 결막염, 안검염 중등증, 누낭염 보조)
+* 주의 : 스테로이드 성분 함유로 장기 사용 시 안압 상승·백내장·감염 악화 위험; 보통 2주 이내 사용
+* tobramycin/dexamethasone <mark style="color:blue;">\[토브라덱스]</mark>
+* polymyxin-B/neomycin/dexamethasone <mark style="color:blue;">\[포러스]</mark>
+* chloramphenicol/dexamethasone
+* sulfacetamide/prednisolone acetate
 
 ## <mark style="color:green;">스테로이드 점안제</mark>
 
 {% hint style="danger" %}
-**스테로이드 점안제 — 1차 진료에서의 금기·주의 원칙**
+**스테로이드 점안제 - 1차 진료에서의 금기·주의 원칙**
 
 **절대 금기 (1차 진료 기준)**
 
