@@ -108,9 +108,6 @@
 * Acute hepatitis : RUQ 통증; 피로, 구역, 구토, 식욕 부진, 황달, 검은색 소변, pale or clay-colored stool; 음주 병력
 * Liver abscess : RUQ 통증, 발열; 특히 당뇨병, 간/담도/췌장에 기저 질환이 있는 경우 의심
 * Fitz-Hugh-Curtis 증후군 : 젊은 여성에서 RUQ 통증; PID의 합병증으로 발생하는 간 주위염(perihepatitis) - 하복부 증상 없이 RUQ 통증만 있을 수 있어 담낭염과의 감별이 필요; PID 병력 또는 STI 위험인자 확인
-
-#### <mark style="color:$primary;">상복부 복통</mark>
-
 * Acute MI : MI 증상(예: 흉통, 호흡 곤란) 동반; 관상동맥병 위험이 있는 환자에서 의심 → ECG 즉시 시행; troponin 포함 심근효소 확인 (NSTEMI는 ECG 정상일 수 있음)
 * Pancreatitis : 점차 심해진 후 지속, 앞으로 기대면 호전, 등으로의 방사통; 음주 병력
 * GERD : 가슴쓰림, 역류, 삼킴곤란
@@ -118,6 +115,48 @@
 * 십이지장궤양 : 식사로 완화, 식후 수 시간 후 발생
 * Functional dyspepsia : 식후 팽만감, 조기 포만감
 * Gastroparesis : 구역, 구토, 조기 포만감, 식후 팽만감
+
+```mermaid
+  flowchart TD
+    A[병력] --> B[호흡기 증상]
+    A --> C[비뇨기계 증상]
+    A --> D[산통]
+
+    B --> E[폐색전증 또는
+    폐렴 고려]
+    E --> F{신체검사}
+    F --> G[빈호흡, 저산소증,
+    또는 호흡기 소견]
+    G --> H[흉부 X-선;
+    진단되지 않으면 폐색전증 
+    평가를 위한 helical CT 및 
+    D-dimer 검사]
+
+    C --> I[요로 감염 또는
+    신결석 고려]
+    I --> J{신체검사}
+    J --> K[늑척추 또는
+    치골위 압통]
+    K --> L[소변검사]
+    L --> M[농뇨]
+    L --> N[혈뇨]
+    M --> O[요로 감염 또는
+    신우신염 고려]
+    N --> P[신결석 고려]
+    P --> Q[CT]
+
+    D --> R[간담도 질환 또는
+    신결석 고려]
+    R --> S{신체검사}
+    S --> T[복부 초음파 시행]
+    T --> U[진단되지 않으면
+    신결석 고려]
+    
+classDef redBox fill:#ffe6e6,stroke:#ff0000
+class U,E,I,R,O,P redBox
+```
+
+<p align="center"><strong>우상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Paini n Adults. AFP 2008;77(7) Fig 2.</mark></em></p>
 
 #### <mark style="color:$primary;">좌상복부 복통</mark>
 
@@ -134,6 +173,45 @@
 * Pyelonephritis : 편측 옆구리 통증, 늑골척추각 압통, 빈뇨, 급뇨, 배뇨통, 혈뇨, 발열, 오한, 오심
 * Cystitis : 치골상부 통증; 배뇨통, 빈뇨, 급뇨, 혈뇨
 * Acute urinary retention : 치골상부 통증
+
+```mermaid
+  flowchart TD
+    Start[발열 또는 배꼽 주위에서<br/>우하복부로 이동하는 복통 병력] --> Step1{Yes / No}
+    
+    Step1 -- "Yes" --> Appendix[복막염 또는 충수염 고려]
+    Appendix --> CT1[조영제 CT 검사 고려]
+    
+    Step1 -- "No" --> Physical[직장 우측 통증, 경직,<br/>반발압통, psoas sign]
+    
+    Physical --> Result{양성 / 음성}
+    Result -- "양성" --> CT1
+    Result -- "음성" --> Others[소변, 대장, 골반 검사 시행]
+
+    style Start fill:#f9f,stroke:#333,stroke-width:2px
+    style Appendix fill:#ffe6e6,stroke:#ff0000 
+  
+```
+
+<p align="center"><strong>우하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Paini n Adults. AFP 2008;77(7) Fig 3.</mark></em></p>
+
+```mermaid
+graph TD
+    Start[발열 또는 게실 질환 병력] --> Step1{Yes / No}
+    
+    Step1 -- "Yes" --> Treatment[조영제 CT 또는 게실 질환에 대한 경험적 치료 고려]
+    
+    Step1 -- "No" --> Physical[복부 팽만, 압통, 직장 출혈 평가]
+    
+    Physical --> Result{양성 / 음성}
+    Result -- "양성" --> Treatment
+    Result -- "음성" --> Specialized[비뇨기계 또는 부인과계 질환 고려]
+
+    style Start fill:#f9f,stroke:#333,stroke-width:2px
+    style Treatment fill:#e6f3ff,stroke:#0066cc
+    style Specialized fill:#ffe6e6,stroke:#ff0000
+```
+
+<p align="center"><strong>좌하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 4.</mark></em></p>
 
 #### <mark style="color:$primary;">여성 특이 하복부 복통</mark>
 
@@ -157,20 +235,6 @@
 * IBD : 혈성 설사, 배변 긴박감, 뒤무직, 발열, 장외 증상(관절염, 포도막염); 장기간(수년 이상) 지속
 * Acute mesenteric ischemia : 급성의 심하고 지속적인 복통; 통증에 비해 복부 진찰 소견이 경미한 것이 특징
 * Chronic mesenteric ischemia : 식후 30분\~1시간 내 발생하는 심한 상복부 통증, 구역, 구토, 설사, 체중 감소; 통증에 대한 공포로 식사를 기피(food fear)하여 체중 감소가 심해짐
-
-***
-
-![](../.gitbook/assets/ab35cc1e-ed22-4244-819f-d0b81f49f1d4.JPG)
-
-***
-
-![](../.gitbook/assets/1f4ed4ab-ca0e-4389-ba6a-870ff242558f.JPG)
-
-***
-
-![](../.gitbook/assets/b0ffb449-458e-4944-afa1-6d6c9b5edde9.JPG)
-
-***
 
 ## <mark style="color:green;">증상에 따른 감별</mark>
 
