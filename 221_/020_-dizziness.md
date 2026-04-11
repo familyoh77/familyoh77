@@ -319,8 +319,6 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 ***
 
-<figure><img src="../.gitbook/assets/어지럼9.JPG" alt=""><figcaption></figcaption></figure>
-
 ```mermaid
 graph TD
 
