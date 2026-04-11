@@ -6,6 +6,21 @@
 * 기전 : 눈꺼풀 분비선의 국소 염증 → 분비선 폐쇄 → 통증성 종괴(pustule) 형성
 * 경과 : 보통 1주 내 치유; 대부분 항생제 없이도 자연 회복됨
 
+### <mark style="color:orange;">겉다래끼 (외맥립종, External hordeolum, Stye)</mark>
+
+* 발생 부위 : eyelid margin에 위치한 gland of Zeis(속눈썹 모낭 연관) 또는 Moll's gland
+* 눈꺼풀 가장자리 표면에서 관찰됨
+* 농양이 보다 작음
+* 흔히 다발성, 재발성
+* 치료 : 온찜질 + 국소 항생제로 대부분 해결
+
+### <mark style="color:orange;">속다래끼 (내맥립종, Internal hordeolum)</mark>
+
+* 발생 부위 : eyelid margin 바로 안쪽에 위치한 meibomian gland (눈꺼풀판 내 기름샘)
+* 눈꺼풀 결막을 통하여 관찰됨
+* 농양이 보다 큼
+* 치료 : 초기 온찜질 중심; 국소 항생제 효과 제한적; 진행·확산 시 전신 항생제 고려; 농양 형성 시 절개·배농
+
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
@@ -24,21 +39,6 @@
 * 2주 이상 경과해도 완전히 소실되지 않는 경우 → 산립종(chalazion) 전환 여부 확인
 * 재발성 다래끼 → 안검염·지루피부염·rosacea·당뇨·Demodex 감염 등 기저 원인 평가
 * 동일 부위 반복 재발 → 피지선 암종(sebaceous gland carcinoma) 감별을 위한 조직 검사 고려
-
-### <mark style="color:orange;">겉다래끼 (외맥립종, External hordeolum, Stye)</mark>
-
-* 발생 부위 : eyelid margin에 위치한 gland of Zeis(속눈썹 모낭 연관) 또는 Moll's gland
-* 눈꺼풀 가장자리 표면에서 관찰됨
-* 농양이 보다 작음
-* 흔히 다발성, 재발성
-* 치료 : 온찜질 + 국소 항생제로 대부분 해결
-
-### <mark style="color:orange;">속다래끼 (내맥립종, Internal hordeolum)</mark>
-
-* 발생 부위 : eyelid margin 바로 안쪽에 위치한 meibomian gland (눈꺼풀판 내 기름샘)
-* 눈꺼풀 결막을 통하여 관찰됨
-* 농양이 보다 큼
-* 치료 : 초기 온찜질 중심; 국소 항생제 효과 제한적; 진행·확산 시 전신 항생제 고려; 농양 형성 시 절개·배농
 
 ## <mark style="color:green;">원인</mark>
 
@@ -121,10 +121,7 @@
 
 * 절개·배농 (Incision & Drainage) : 48시간 내 완화가 시작되지 않으면 고려; 국소마취 하 시행
 
-|          | 절개 접근                        | 절개 방향                                                  | 근거           |
-| -------- | ---------------------------- | ------------------------------------------------------ | ------------ |
-| **겉다래끼** | 피부(skin/orbicularis) 면       | 가로(Horizontal) - 피부 주름선(relaxed skin tension line)과 평행 | 흉터 최소화       |
-| **속다래끼** | 눈꺼풀 결막 면(tarsal conjunctiva) | 세로(Vertical) - meibomian gland 주행 방향과 평행               | 주변 기름샘 손상 방지 |
+<table><thead><tr><th width="89"></th><th width="172">절개 접근</th><th width="236">절개 방향</th><th>근거</th></tr></thead><tbody><tr><td><strong>겉다래끼</strong></td><td>피부 면(skin/orbicularis)</td><td>Horizontal - 피부 주름선과 평행 (relaxed skin tension line)</td><td>흉터 최소화</td></tr><tr><td><strong>속다래끼</strong></td><td>눈꺼풀 결막 면<br>(tarsal conjunctiva)</td><td>Vertical - meibomian gland 주행 방향과 평행</td><td>주변 기름샘 손상 방지</td></tr></tbody></table>
 
 * 조직 병리 검사 : 재발성·비전형적·동일 부위 반복 시 검체 병리 검사 고려 - 피지선 암종 등 악성 병변 배제
 
@@ -160,7 +157,7 @@
 ## <mark style="color:green;">예방</mark>
 
 * 눈을 만지기 전에 손을 씻음
-* 콘택트렌즈를 위생적으로 관리하며 만지기 전에 손을 씻음; **다래끼가 있는 동안에는 렌즈 착용을 중단**
+* 콘택트렌즈를 위생적으로 관리하며 만지기 전에 손을 씻음; 다래끼가 있는 동안에는 렌즈 착용을 중단
 * 매일 밤 눈 화장을 지움 (아이라이너, 마스카라 등); 메이크업 클렌징 후 눈꺼풀 전용 세정제로 추가 세척
 * 다른 사람과 눈 화장품을 공동 사용하지 않음
 * 당뇨·rosacea 등 기저 질환 관리
