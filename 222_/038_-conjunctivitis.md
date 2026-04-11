@@ -25,7 +25,7 @@
 * 콘택트렌즈 관련 결막염이 렌즈 사용 중단 및 치료 24시간 이후에도 지속
 * 헤르페스 피부 수포 동반 안구 충혈
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 대증 치료로 5\~7일 내 호전 안 됨
 * 면역저하자의 결막염
@@ -87,7 +87,7 @@
 
 * 원인균 : enterovirus 70, coxsackievirus 24
 * 증상 : 출혈성 분비물, 부종, 통증
-* ※ 통증/분비물 없이 국소 출혈만 있는 경우 subconjunctival hemorrhage 고려&#x20;
+* ※ 통증/분비물 없이 국소 출혈만 있는 경우 subconjunctival hemorrhage 고려
 
 **인두결막열 (Pharyngoconjunctival fever)**
 
@@ -144,10 +144,6 @@
 
  ※ 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 _Pseudomona&#x73;_&#xC5D0; 의한 세균 각막 궤양으로 신속히 진행할 수 있으므로 렌즈 사용자에서 통증·시력저하·광과민, 각막 혼탁·침윤이있으면 단순 결막염으로 간주하지 말고 각막염 우선 배제
 
-
-
-&#x20;
-
 #### <mark style="color:$primary;">기계적 결막염</mark>
 
 * 증상 : 국소 또는 광범위 결막 충혈, 이물감, 눈물
@@ -188,13 +184,13 @@ _<mark style="color:$info;">Ref. Differentiating conjunctivitis of diverse origi
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 콘택트렌즈 사용 중단 : 충혈이 없고 분비물이 24시간 이상 나타나지 않을 때까지 중단
-* 접촉 제한&#x20;
+* 접촉 제한
   * 감염 의심 시 환자는 초기 5\~7일 동안 위생 관리 철저 (증상 지속 시 최대 10\~14일까지 전염 가능); 수건 등을 혼자 사용함
   * 사회 격리(출근/등교 제한) : 가급적 눈 충혈 및 눈물 증상이 사라질 때까지, 특히 분비물 많고 위생 관리 어려운 초기 기간에 제한
 * 알레르기성인 경우 알레르겐 회피
 * 감염성인 경우 최근에 사용한 렌즈 폐기 또는 철저 소독, 눈 화장품(특히 마스카라) 폐기
-* 항생제 안약 : 세균성 결막염도 대부분 자연 치유되므로 경증에서는 대증 치료 우선; 다음의 경우 항생제 점안 치료를 고려 — 분비물이 많거나 증상 지속, 직장·학교 복귀가 필요한 경우, 면역저하자
-* 스테로이드 점안액 주의 :  증상 완화 효과가 있으나 HSV 각막염에서 각막 손상 악화, 장기 사용 시 안압 상승·백내장 위험이 있으므로 처방 하기 전에 HSV 감염 여부를 반드시 확인해야 함
+* 항생제 안약 : 세균성 결막염도 대부분 자연 치유되므로 경증에서는 대증 치료 우선; 다음의 경우 항생제 점안 치료를 고려 - 분비물이 많거나 증상 지속, 직장·학교 복귀가 필요한 경우, 면역저하자
+* 스테로이드 점안액 주의 : 증상 완화 효과가 있으나 HSV 각막염에서 각막 손상 악화, 장기 사용 시 안압 상승·백내장 위험이 있으므로 처방 하기 전에 HSV 감염 여부를 반드시 확인해야 함
 
 ※ 안약 사용법 ☞ [안과계 약제](ophthalmic-medications.md#undefined-2)
 
@@ -308,7 +304,7 @@ _<mark style="color:$info;">NAAG=Nacetyl-aspartyl-glutamic acid, VKC=vernal kera
 <table><thead><tr><th width="385">성분명 [상품명]</th><th width="141">적응증 균주</th><th width="104">용법</th></tr></thead><tbody><tr><td>tobramycin <mark style="color:blue;">[토라빈]</mark></td><td>SA, SP, H, E, P</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/TMP</td><td>SA, SP, H, E</td><td>q3h</td></tr><tr><td>erythromycin/colistin</td><td>SA, SP, H, N</td><td>qhs~qid</td></tr><tr><td>bacitracin</td><td>SA, SP, N</td><td>qhs~qid</td></tr><tr><td>oxytetracycline/polymyxin-B <mark style="color:blue;">[테라마이신]</mark></td><td>SA, E, N</td><td>q2h~qid</td></tr><tr><td>chloramphenicol <mark style="color:blue;">[클로람페니콜]</mark></td><td>SA, H</td><td>q2h~qid</td></tr><tr><td>polymyxin-B/neomycin</td><td>SA, P</td><td>qid</td></tr><tr><td>Na sulfacetamide</td><td>SP, H</td><td>q2h~qid</td></tr><tr><td>sulfisoxazole diolamine</td><td>SP, H</td><td>qid</td></tr><tr><td>ciprofloxacin <mark style="color:blue;">[씨펙스]</mark>, ofloxacin <mark style="color:blue;">[타리비드]</mark>, levofloxacin <mark style="color:blue;">[크라비트]</mark>, moxifloxacin <mark style="color:blue;">[모록사신]</mark></td><td>SA, SP, H, P</td><td>q2h~qid</td></tr></tbody></table>
 
 _SA=S. aureus, SP=S. pneumoniae, H=H. influenzae, P=P. aeruginosa, E=Escherichia coli, N=Neisseria, TMP=trimethoprim. 표의 균주 커버리지는 대표적 적응증을 단순화하여 표시한 것으로, 실제 항균 스펙트럼과 차이가 있을 수 있음 (예: erythromycin → gram-positive 중심; colistin → gram-negative 중심)_\
-&#xNAN;_&#x52;ef. American optometric association. Care of the patient with conjunctivitis. 2002._
+\&#xNAN;_Ref. American optometric association. Care of the patient with conjunctivitis. 2002._
 
 #### <mark style="color:$primary;">국소 항생제 대용</mark>
 
@@ -375,7 +371,7 @@ H16 각막염
 > ```
 >
 > _✽바이러스 결막염은 특이 치료제 없음. 냉찜질·인공눈물 병행 권고. 치료 후 3\~5일간 증상이 더 심해질 수 있음을 환자에게 미리 설명_\
-_✽나조린(naphazoline, 혈관 수축제) : 충혈 완화 목적으로 단기(3\~5일 이내) 사용에 한함; 장기 사용 시 반동 충혈(rebound hyperemia) 위험_
+> &#xNAN;_✽나조린(naphazoline, 혈관 수축제) : 충혈 완화 목적으로 단기(3\~5일 이내) 사용에 한함; 장기 사용 시 반동 충혈(rebound hyperemia) 위험_
 
 > **처방례 3. 세균 결막염**
 >
@@ -384,7 +380,7 @@ _✽나조린(naphazoline, 혈관 수축제) : 충혈 완화 목적으로 단기
 > ```
 >
 > _✽경증은 자연 치유가 원칙; 증상이 심하거나 콘택트렌즈 사용자, 면역저하자에서 항생제 고려. 2일째에도 반응 없으면 의뢰_\
-> &#xNAN;_✽콘택트렌즈 사용자는 P. aeruginosa 각막 궤양 위험이 높으므로 퀴놀론계(예: 크라비트, 모록사신 등)를 우선적으로 고려해야 하며, 각막 침윤 여부를 반드시 확인해야 함_
+> \&#xNAN;_✽콘택트렌즈 사용자는 P. aeruginosa 각막 궤양 위험이 높으므로 퀴놀론계(예: 크라비트, 모록사신 등)를 우선적으로 고려해야 하며, 각막 침윤 여부를 반드시 확인해야 함_
 
 > **처방례 4. 클라미디아 결막염 (경구)**
 >

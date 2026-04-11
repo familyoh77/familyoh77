@@ -162,7 +162,7 @@
 
 ### <mark style="color:orange;">영양</mark>
 
-* 오메가-3 : 1~~2 g qd~~bid <mark style="color:blue;">\[오마코]</mark> (✽DREAM Study 2018: 건성안 환자에서 위약 대비 유의미한 증상 개선 효과 미입증; 안검염/MGD 특이적 근거도 불충분. 효과를 보려면 6\~12개월 복용이 필요할 수 있음)
+* 오메가-3 : 1\~2 g qd\~bid <mark style="color:blue;">\[오마코]</mark> (✽DREAM Study 2018: 건성안 환자에서 위약 대비 유의미한 증상 개선 효과 미입증; 안검염/MGD 특이적 근거도 불충분. 효과를 보려면 6\~12개월 복용이 필요할 수 있음)
 
 ***
 
