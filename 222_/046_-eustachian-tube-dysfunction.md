@@ -93,10 +93,11 @@
 * otoscopy : 건측 코를 막고 호흡 시 고막이 호흡에 따라 움직임 관찰
 * supine position 검사 : 누운 자세에서 증상 및 고막 움직임 일시적 소실 → 개방증 진단 지지
 * tympanometry : 호흡에 동기화된 고막 움직임 (type A에서 respiratory notching)
+* Sniffing test : 코를 세게 들이마시게 하면 증상이 일시적으로 호전 → 개방증 강력 시사; 음압으로 이관이 강제 폐쇄되는 기전; 이후 고막의 일시적 내측 함몰(retraction) 관찰되기도 함
 
 #### <mark style="color:$primary;">폐쇄증 vs 개방증 감별</mark>
 
-<table><thead><tr><th width="167">특징</th><th width="220">이관 폐쇄증</th><th>이관 개방증</th></tr></thead><tbody><tr><td><strong>주증상</strong></td><td>귀 막힘·충만감·통증</td><td>autophony (내 목소리가 울림)</td></tr><tr><td><strong>체위 변화</strong></td><td>하품·삼킴 시 일시 호전</td><td>누우면 호전, 앉거나 서면 악화</td></tr><tr><td><strong>고막 소견</strong></td><td>후퇴, 삼출액, 움직임 감소</td><td>호흡 동기화 움직임</td></tr><tr><td><strong>tympanometry</strong></td><td>type B 또는 C</td><td>respiratory notching (type A)</td></tr><tr><td><strong>유발 인자</strong></td><td>감기, 알레르기, 비행</td><td>급격한 체중 감소, 임신</td></tr><tr><td><strong>코 울혈 제거제</strong></td><td>증상에 사용 가능</td><td>금기 (악화 가능)</td></tr></tbody></table>
+<table><thead><tr><th width="167">특징</th><th width="220">이관 폐쇄증</th><th>이관 개방증</th></tr></thead><tbody><tr><td><strong>주증상</strong></td><td>귀 막힘·충만감·통증</td><td>autophony (내 목소리가 울림)</td></tr><tr><td><strong>체위 변화</strong></td><td>하품·삼킴 시 일시 호전</td><td>누우면 호전, 앉거나 서면 악화</td></tr><tr><td><strong>고막 소견</strong></td><td>후퇴, 삼출액, 움직임 감소</td><td>호흡 동기화 움직임</td></tr><tr><td><strong>tympanometry</strong></td><td>type B 또는 C</td><td>respiratory notching (type A)</td></tr><tr><td><strong>유발 인자</strong></td><td>감기, 알레르기, 비행</td><td>급격한 체중 감소, 임신</td></tr><tr><td><strong>본인 목소리 청감</strong></td><td>작고 멀게 들림, 웅웅거림</td><td>머리 안에서 울리듯 크게 들림</td></tr><tr><td><strong>코 울혈 제거제</strong></td><td>증상에 사용 가능</td><td>금기 (악화 가능)</td></tr></tbody></table>
 
 ***
 
@@ -107,9 +108,47 @@
 * 원인 치료 우선 : 알레르기비염·부비동염·역류질환 등 기저 원인 교정
 * 대부분 보존적 치료로 호전; 수술은 보존 치료 실패 후 고려
 
-#### <mark style="color:$primary;">단계적 치료</mark>
+<mark style="color:$primary;">**치료 Step**</mark>
 
-<table><thead><tr><th width="80">단계</th><th width="200">대상</th><th>치료</th></tr></thead><tbody><tr><td><strong>Step 1</strong></td><td>모든 폐쇄증</td><td>Valsalva/autoinflation + 원인 치료(알레르기비염·역류 등); 비행·잠수 회피</td></tr><tr><td><strong>Step 2</strong></td><td>Step 1 반응 불충분</td><td>국소 비강 스테로이드(알레르기 동반 시); 코 울혈 제거제 단기 사용</td></tr><tr><td><strong>Step 3</strong></td><td>Step 2 반응 불충분 또는 삼출성 중이염 동반</td><td>의뢰; tympanostomy tube 또는 balloon Eustachian tuboplasty(BET) 고려</td></tr></tbody></table>
+**Step 1.** 대상 - 모든 폐쇄증&#x20;
+
+* 치료 : Valsalva/autoinflation + 원인 치료(알레르기비염·역류 등); 비행·잠수 회피
+
+**Step 2.** 대상 - Step 1 반응 불충분
+
+* 치료 : 국소 비강 스테로이드(알레르기 동반 시); 코 울혈 제거제 단기 사용
+
+**Step 3.** 대상 - Step 2 반응 불충분 또는 삼출성 중이염 동반
+
+* 치료 : 의뢰; tympanostomy tube 또는 balloon Eustachian tuboplasty(BET) 고려
+
+#### <mark style="color:orange;">이관 개방증 치료 방침</mark>
+
+* 원인 교정 우선 : 체중 감소·임신·LPR·코 울혈 제거제 과다 사용 등 유발 원인 해결
+* 대부분 원인 해결 시 자연 호전; 약물 치료의 직접 근거는 제한적
+* 코 울혈 제거제·스테로이드 회피 (점막 위축 악화)
+
+<mark style="color:$primary;">**치료 Step**</mark>
+
+**Step 1.** 대상 - 모든 개방증
+
+* 치료 : 원인 교정 + 체위 조정(누운 자세 또는 고개를 숙인 자세에서 호전 확인) + 수분 충분 섭취 + nasal saline; 코 울혈 제거제·스테로이드 중단
+
+**Step 2.** 대상 - Step 1 반응 불충분
+
+* 치료 : potassium iodide 수용액 (점막 비후 목적; 근거 제한적); LPR 동반 시 생활 습관 교정 및 PPI(양성자 펌프 억제제) 등 위산 억제 치료 병행
+
+**Step 3.** 대상 - Step 2 반응 불충분, 증상 지속·일상생활 장애
+
+* 치료 : 의뢰; tympanostomy tube, intraluminal catheter, E-tube 폐쇄술, 연골 이식 등
+
+### <mark style="color:orange;">임신 중 이관 증상</mark>
+
+* 임신 후기 호르몬성 점막 부종에 의한 폐쇄증과, 에스트로겐 상승에 의한 개방증이 모두 발생 가능
+* 임신 중 발생하는 이관 증상은 분만 후 대부분 자연 소실됨
+* 약물 사용보다 보존적 요법 우선&#x20;
+  * 개방증 시 좌식 생활 자제(누운 자세로 호전)·수분 충분 섭취
+  * 폐쇄증 시 Valsalva·생리식염수 세척. 증상 지속 시 의뢰
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
