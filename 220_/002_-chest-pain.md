@@ -15,7 +15,7 @@
 * 심한 호흡 곤란, 빠른 호흡 `ACS` `PE` `기흉`
 * 잿빛 피부색, 발한, 차가운 피부 (심인성 쇼크 시사) `ACS`
 * 찢어지는(tearing)·칼로 베는 듯한(sharp/stabbing) 흉통이 갑자기 최대 강도로 시작되며 등·복부로 이동(migration)하는 경우 `대동맥 박리`
-* 찢어지는 흉통 + 양측 상지 혈압 차이 ≥20 mmHg (≥15 mmHg도 의심 신호로 주의 깊게 관찰) 또는 비대칭적 맥박 `대동맥 박리`
+* 찢어지는 흉통 + 양측 상지 혈압 차이 ≥20 ㎜Hg (≥15 ㎜Hg도 의심 신호로 주의 깊게 관찰) 또는 비대칭적 맥박 `대동맥 박리`
 * 흉통 + 신경학적 결손 (경동맥·척추동맥 침범 시사) `대동맥 박리`
 * 연하 통증(odynophagia) 또는 반복되는 구토 `식도 파열`
 * 편측 호흡음 소실 + 저혈압·빈맥 + 기관 변위 (즉각 바늘 감압 필요) `긴장성 기흉`
@@ -26,7 +26,7 @@
 * 야간 흉통; 통증으로 잠에서 깨어남 `불안정 협심증`
 * 새로 발생한 심한 흉통 `ACS`
 * 과거에 비해 적은 활동에서 흉통 발생 (진행성 협심증) `ACS`
-* Pulsus paradoxus ＞10 mmHg (≥12–15 mmHg에서 임상적 의미 증가) `심낭 압전`
+* Pulsus paradoxus ＞10 ㎜Hg (≥12\~15 ㎜Hg에서 임상적 의미 증가) `심낭 압전`
 * 위장 출혈 동반 (특히 복부대동맥류/대동맥 수술 병력 시) `대동맥장누공`
 
 <mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
@@ -43,9 +43,9 @@
 
 #### <mark style="color:$primary;">ACS 의심</mark>
 
-* **Aspirin** 300mg 즉시 씹어 복용 (loading dose); 아스피린 알레르기 또는 활동성 소화관 출혈 시 금기
-* **Nitroglycerin** 0.4mg 설하 투여; 5분 간격 최대 3회
-  * 금기: 수축기 혈압 <90 mmHg, 48시간 내 PDE-5 억제제(실데나필 등) 복용, 우심실 경색 의심
+* Aspirin 300 mg 즉시 씹어 복용 (loading dose); 아스피린 알레르기 또는 활동성 소화관 출혈 시 금기
+* Nitroglycerin 0.4 ㎎ 설하 투여; 5분 간격 최대 3회
+  * 금기: 수축기 혈압 <90 ㎜Hg, 48시간 내 PDE-5 억제제(실데나필 등) 복용, 우심실 경색 의심
 * **산소**: SpO₂ <90% 또는 호흡곤란 시에만 투여 (SpO₂ 정상이면 routine 투여 불필요; 오히려 해로울 수 있음)
 * STEMI 확인 또는 강력 의심 시 → 즉시 PCI 가능 병원으로 이송 (Door-to-balloon 90분 목표)
 
@@ -58,7 +58,7 @@
 #### <mark style="color:$primary;">대동맥 박리 의심</mark>
 
 * 통증 조절 + 즉각 이송이 우선
-* 혈압·심박수 조절: **Beta-blocker** (목표: HR <60 bpm, SBP 100–120 mmHg)
+* 혈압·심박수 조절: Beta-blocker (목표: HR <60 bpm, SBP 100\~120 ㎜Hg)
   * Labetalol IV 또는 Esmolol IV (1차 진료에서는 경구 metoprolol 고려)
 * 니트로글리세린 단독 사용 금지 (반사성 빈맥으로 대동맥 벽 전단력 증가)
 * CT angiography 가능 병원으로 즉시 이송
@@ -67,13 +67,13 @@
 
 > 흉통 기술어는 허혈 가능성의 연속선상에 위치한다. "비전형적(atypical)"이라는 표현은 오해를 유발하므로 사용하지 않으며, 심장성·심장성 가능·비심장성으로 분류할 것을 2021 AHA/ACC 가이드라인은 권고한다.
 
-<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td></td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Stabbing</td></tr><tr><td><strong>상대적으로 낮음†</strong></td><td>Right-sided, Tearing, Ripping, Burning†</td></tr><tr><td><strong>낮음</strong></td><td>Sharp, Fleeting, Shifting, Pleuritic*, Positional</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td></td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Stabbing</td></tr><tr><td></td><td>Right-sided, Tearing, Ripping, Burning</td></tr><tr><td><strong>낮음</strong></td><td>Sharp, Fleeting, Shifting, Pleuritic*, Positional</td></tr></tbody></table>
 
 **임상 적용 포인트**
 
 * 압박·조임·무거움·쥐어짜는 느낌 → 허혈 가능성 높음; 즉각 ECG 및 트로포닌 평가
 * 찌르는·예리한·흡기 관련·자세 의존성 → 허혈 가능성 낮음 (심낭염, 근골격, 흉막 원인 고려)
-* **단독 소견만으로 ACS를 배제할 수 없음**: burning은 허혈에서도 나타날 수 있으며, right-sided pain도 특히 여성·고령자에서 ACS의 표현일 수 있음
+* 단독 소견만으로 ACS를 배제할 수 없음 : burning은 허혈에서도 나타날 수 있으며, right-sided pain도 특히 여성·고령자에서 ACS의 표현일 수 있음
 * 여성·고령자·당뇨 환자는 전형적 흉통 없이도 ACS일 수 있음; 호흡곤란·오심·피로만 있어도 배제 금지
 * 니트로글리세린으로 호전된다는 사실만으로 허혈을 진단하지 말 것 (식도 연축도 반응함)
 
@@ -191,7 +191,7 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
 * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
 * 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증, 심방세동, 격렬한 운동 후 등에서도 상승할 수 있으므로 baseline 대비 동적 변화(Rise and/or Fall, Δ)가 급성 MI 진단의 핵심임; 단독 수치만으로 과잉 진단하지 않도록 주의
 * 초기값이 검출 한계(LoD) 미만 또는 assay별 rule-out cut-off 이하이면 NSTEMI 배제 가능(rule-out); 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 절대 변화량(Δ, absolute change)으로 판단 - 이를 ESC 신속 배제·확진 프로토콜(0/1h 또는 0/3h)이라 함
-* **Early presenter 주의**: 증상 발현 후 2–3시간 미만인 경우 단일 측정으로 rule-out 시 false negative 가능; 0/1h 또는 0/3h 프로토콜에서도 증상 시작 <2–3시간이면 반복 측정 필수
+* Early presenter 주의 : 증상 발현 후 2–3시간 미만인 경우 단일 측정으로 rule-out 시 false negative 가능; 0/1h 또는 0/3h 프로토콜에서도 증상 시작 <2–3시간이면 반복 측정 필수
 * Assay별 cut-off 수치가 상이하므로 검사 기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 해당 제조사의 rule-out/rule-in 기준값을 반드시 확인하여 적용할 것
 * 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
 
@@ -233,7 +233,7 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
 
 #### <mark style="color:$primary;">Acute aortic syndrome</mark>
 
-<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>HTN, 기저 결합조직 질환; 대동맥박동 의심 잡음; 말초 맥박 소실·비대칭<br>※ 사지 맥박 비대칭: 환자의 약 30% (Type A > B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 >80%<br>※ 실신 빈도 >10%; 대동맥판 역류 40~75% (Type A)<br>※ AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU) (2022 ACC/AHA; 2024 ESC)<br>※ <strong>진단 전략</strong>: ADD-RS 0~1점 + D-dimer 음성 → rule-out 보조 가능 (단, ADD-RS ≥2이면 D-dimer 없이 즉시 CT); 확진은 ECG-gated CT angiography (neck–pelvis)</td></tr></tbody></table>
+<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>HTN, 기저 결합조직 질환; 대동맥박동 의심 잡음; 말초 맥박 소실·비대칭<br>※ 사지 맥박 비대칭: 환자의 약 30% (Type A > B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 >80%<br>※ 실신 빈도 >10%; 대동맥판 역류 40~75% (Type A)<br>※ AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU) (2022 ACC/AHA; 2024 ESC)<br>※ 진단 전략 : ADD-RS 0~1점 + D-dimer 음성 → rule-out 보조 가능 (단, ADD-RS ≥2이면 D-dimer 없이 즉시 CT); 확진은 ECG-gated CT angiography (neck–pelvis)</td></tr></tbody></table>
 
 \*등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨
 
@@ -325,17 +325,16 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 #### <mark style="color:$primary;">GERD vs 심장성 흉통 감별</mark>
 
-| 특징 | GERD | 심장성 (허혈) |
-|---|---|---|
-| **유발** | 식후, 눕기, 굽힘 | 운동, 정신적 스트레스 |
-| **완화** | 제산제, 직립 자세 | 니트로글리세린, 휴식 |
-| **동반 증상** | 신물 역류, 연하 불편, 기침 | 호흡곤란, 발한, 방사통 |
-| **통증 성상** | 작열감(burning) | 압박감, 조임 |
-| **주의** | Burning이 허혈에서도 나타날 수 있음 | Nitroglycerin이 식도 연축에도 반응 |
+| 특징        | GERD                    | 심장성 (허혈)                  |
+| --------- | ----------------------- | ------------------------- |
+| **유발**    | 식후, 눕기, 굽힘              | 운동, 정신적 스트레스              |
+| **완화**    | 제산제, 직립 자세              | 니트로글리세린, 휴식               |
+| **동반 증상** | 신물 역류, 연하 불편, 기침        | 호흡곤란, 발한, 방사통             |
+| **통증 성상** | 작열감(burning)            | 압박감, 조임                   |
+| **주의**    | Burning이 허혈에서도 나타날 수 있음 | Nitroglycerin이 식도 연축에도 반응 |
 
 {% hint style="info" %}
-**PPI 진단적 치료 시험 (PPI trial)**
-GERD 의심 흉통에서 심장 원인 배제 후 PPI 2주 투여 → 증상 현저히 호전되면 GERD 가능성 높음. 단, PPI 반응 자체가 진단 확정은 아님.
+**PPI 진단적 치료 시험 (PPI trial)** GERD 의심 흉통에서 심장 원인 배제 후 PPI 2주 투여 → 증상 현저히 호전되면 GERD 가능성 높음. 단, PPI 반응 자체가 진단 확정은 아님.
 {% endhint %}
 
 **Alarm symptoms (즉시 추가 평가 필요)**
@@ -365,7 +364,7 @@ GERD 의심 흉통에서 심장 원인 배제 후 PPI 2주 투여 → 증상 현
 * Fibromyalgia : 강하지 않은 자극에 대하여 통증을 느낌; 다른 부위 통증 및 통증 외 증상 동반. 예) 피로, 수면 장애, 인지 장애, 우울, 불안
 * Rib fracture : 압통, 국소 늑막염성 통증; 보통 외상 병력이 있음 (✽외상 병력 없이도 발생할 수 있음)
 
-<table><thead><tr><th width="149.9473876953125"></th><th>시작 / 기간</th><th width="121.68426513671875">증상</th><th width="122.73687744140625">부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Esophageal reflux</strong></td><td>10–60분</td><td>burning</td><td>substernal, 상복부</td><td>식후 누웠을 때 악화; 제산제로 호전</td></tr><tr><td><strong>Esophageal spasm</strong></td><td>2–30분</td><td>pressure, tightness, burning</td><td>retrosternal</td><td>angina 유사, dysphagia</td></tr><tr><td><strong>Peptic ulcer</strong></td><td>장시간; 식후 60–90분</td><td>burning</td><td>상복부, substernal</td><td>음식/제산제로 호전</td></tr><tr><td><strong>Gallbladder disease</strong></td><td>장시간</td><td>aching or colicky</td><td>상복부, RUQ, 때때로 back</td><td>식후 발생 가능</td></tr><tr><td><strong>Costochondritis</strong></td><td>variable</td><td>aching</td><td>sternal</td><td>때때로 관절 위 부종/압통/열감; 이환부 압박으로 증상 재현</td></tr><tr><td><strong>Cervical disk disease</strong></td><td>variable; 갑자기</td><td>aching; numbness 포함</td><td>팔, 어깨</td><td>목 움직임으로 악화</td></tr><tr><td><strong>Trauma or strain</strong></td><td>보통 일정함</td><td>aching</td><td>이환부</td><td>움직임/촉지로 증상 재현</td></tr><tr><td><strong>Herpes zoster</strong></td><td>보통 장기간</td><td>sharp or burning</td><td>피부 분절 분포</td><td>통증부 수포성 발적</td></tr><tr><td><strong>Emotional &#x26; psychiatric conditions</strong></td><td>variable; 순식간 또는 장시간</td><td>variable; 종종 공포가 있는 호흡곤란/조임</td><td>variable; substernal</td><td>증상을 유발하는 상황 요인이 있음; 공황/우울 병력</td></tr></tbody></table>
+<table><thead><tr><th width="149.9473876953125"></th><th>시작 / 기간</th><th width="121.68426513671875">증상</th><th width="122.73687744140625">부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Esophageal reflux</strong></td><td>10–60분</td><td>burning</td><td>substernal, 상복부</td><td>식후 누웠을 때 악화; 제산제로 호전</td></tr><tr><td><strong>Esophageal spasm</strong></td><td>2~30분</td><td>pressure, tightness, burning</td><td>retrosternal</td><td>angina 유사, dysphagia</td></tr><tr><td><strong>Peptic ulcer</strong></td><td>장시간; 식후 60~90분</td><td>burning</td><td>상복부, substernal</td><td>음식/제산제로 호전</td></tr><tr><td><strong>Gallbladder disease</strong></td><td>장시간</td><td>aching or colicky</td><td>상복부, RUQ, 때때로 back</td><td>식후 발생 가능</td></tr><tr><td><strong>Costochondritis</strong></td><td>variable</td><td>aching</td><td>sternal</td><td>때때로 관절 위 부종/압통/열감; 이환부 압박으로 증상 재현</td></tr><tr><td><strong>Cervical disk disease</strong></td><td>variable; 갑자기</td><td>aching; numbness 포함</td><td>팔, 어깨</td><td>목 움직임으로 악화</td></tr><tr><td><strong>Trauma or strain</strong></td><td>보통 일정함</td><td>aching</td><td>이환부</td><td>움직임/촉지로 증상 재현</td></tr><tr><td><strong>Herpes zoster</strong></td><td>보통 장기간</td><td>sharp or burning</td><td>피부 분절 분포</td><td>통증부 수포성 발적</td></tr><tr><td><strong>Emotional &#x26; psychiatric conditions</strong></td><td>variable; 순식간 또는 장시간</td><td>variable; 종종 공포가 있는 호흡곤란/조임</td><td>variable; substernal</td><td>증상을 유발하는 상황 요인이 있음; 공황/우울 병력</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
 
