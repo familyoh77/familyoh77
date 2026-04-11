@@ -321,6 +321,82 @@ _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDat
 
 <figure><img src="../.gitbook/assets/어지럼9.JPG" alt=""><figcaption></figcaption></figure>
 
+```mermaid
+graph TD
+
+    %% 메인 시작점
+    Start["Dizziness or Vertigo:<br/>Episodic or Continuous?"]
+
+    %% 1단계 분기: Episodic vs Continuous
+    Start --> Episodic["Episodic"]
+    Start --> Continuous["Continuous³⁾"]
+
+    %% Episodic 경로
+    Episodic --> Triggered["Triggered¹⁾<br/>(자세, 움직임)"]
+    Episodic --> Spontaneous2["Spontaneous²⁾"]
+
+    Triggered --> Dix["Dix-Hallpike maneuver"]
+    Dix --> DixPos["(+)"]
+    Dix --> DixNeg["(-)"]
+    
+    DixPos --> BPPV["BPPV"]
+    DixNeg --> Ortho["기립성저혈압 평가"]
+
+    Spontaneous2 --> Hearing["청력 손실"]
+    Spontaneous2 --> Migraine["편두통"]
+    Spontaneous2 --> Psych["정신적 증상"]
+
+    Hearing --> Meniere["Ménière's disease"]
+    Migraine --> Vestibular1["Vestibular neuritis"]
+    Psych --> Panic["공황발작, 정신적 문제"]
+
+    %% Continuous 경로
+    Continuous --> Trauma["외상 or 독소 관련"]
+    Continuous --> Spontaneous3["Spontaneous"]
+
+    Trauma --> Barotrauma["Barotrauma"]
+    Trauma --> Toxin["약물/독소"]
+
+    Spontaneous3 --> HINTS["HINTS Exam"]
+    
+    HINTS --> Peripheral["Head impulse test 양성;<br/>편측 수평 안진;<br/>skew 검사 정상"]
+    HINTS --> Central["Head impulse test 음성;<br/>수직, 회전 or 주시-양측 안진;<br/>skew 검사 이상"]
+
+    Peripheral --> PeriType["말초성"]
+    PeriType --> Vestibular2["Vestibular neuritis"]
+
+    Central --> CenType["중추성"]
+    CenType --> Stroke["뇌졸중 / TIA"]
+
+    %% 스타일 정의
+    style Start fill:#f3e5f5,stroke:#9c27b0
+    style Episodic fill:#fff9c4,stroke:#fbc02d
+    style Continuous fill:#fff9c4,stroke:#fbc02d
+    style Triggered fill:#fff9c4,stroke:#fbc02d
+    style Spontaneous2 fill:#fff9c4,stroke:#fbc02d
+    style Spontaneous3 fill:#fff9c4,stroke:#fbc02d
+    
+    style Dix fill:#e0f2f1,stroke:#00897b
+    style Ortho fill:#e0f2f1,stroke:#00897b
+    style HINTS fill:#e0f2f1,stroke:#00897b
+    
+    style BPPV fill:#ffebee,stroke:#ef5350
+    style Meniere fill:#ffebee,stroke:#ef5350
+    style Vestibular1 fill:#ffebee,stroke:#ef5350
+    style Panic fill:#ffebee,stroke:#ef5350
+    style Barotrauma fill:#ffebee,stroke:#ef5350
+    style Toxin fill:#ffebee,stroke:#ef5350
+    style Vestibular2 fill:#ffebee,stroke:#ef5350
+    style Stroke fill:#ffebee,stroke:#ef5350
+```
+
+_1) Triggered episodic : 수 초\~수 시간 지속._ \
+_2) Spontaneous episodic : 수 초\~수일 지속_ \
+_3) Continuous : 수일\~수 주 지속_\
+_\*triggered Sx은 중심성에서도 발생할 수 있으며 대부분의 지속되는 어지럼증에서 나타날 수 있음_
+
+<p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Dizziness: Approach to Evaluation and Management. AFP 2017;1;95(3) Fig 1.</mark></em></p>
+
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
