@@ -6,7 +6,7 @@
 * 다른 이름 : keratoconjunctivitis sicca, dry eye disease(DED)\
   ✽TFOS DEWS III(2025)은 질환명으로 "Disease"를채택함. "Syndrome"은 원인 불명의 증후군 뉘앙스가 있어 특정 치료 가능한 질환임을 흐리므로 사용하지 않음
 * 정의 (TFOS DEWS III, 2025) : 눈물막 및/또는 안구 표면의 항상성 소실을 특징으로 하는 다인성 증상 질환으로, 눈물막 불안정성·고삼투압, 안구 표면 염증 및 손상, 신경감각 이상(neurosensory abnormality)이 병인에 포함됨
-  * 반드시 증상이 동반되어야 함; 증상 없이 징후만 있는 경우는 DED가 아닌 '안구 표면 질환'으로 분류
+  * 증상과 징후를 함께 고려하여 진단하는 것이 원칙; 증상 없이 징후만 있는 경우는 preclinical 또는 subclinical 상태로 간주할 수 있음 (DED와 구분하여 경과 관찰)
 * 분류 : ADDE (Aqueous-Deficient Dry Eye, 수성 눈물 결핍형), EDE (Evaporative Dry Eye, 증발과다형) , 혼합형 (ADDE와 EDE의 복합; : 임상에서 가장 많음)
 * 보통 양측 발생
 * 유병률 : 성인의 5\~50%(진단 기준에 따라 범위 광범위); 고령 여성에서 특히 높음
@@ -48,6 +48,7 @@
 * 소량의 점액성 분비물 : 눈물 감소에 따른 점액질 분비 증가에 기인
 * 과도한 눈물(paradoxical tearing) : 안구 표면 자극·손상 → 눈물샘 반사 자극 → 수성 눈물 분비 증가; 안구 건조가 지속되면 점차 감소
 * 증상-징후 불일치 : 증상이 임상 소견에 비해 현저히 심하거나(또는 반대로 미미한) 경우 → 신경감각 이상(neuropathic dry eye) 고려
+  * 의심 소견 : 각막 염색 소견이 경미한데 통증이 심한 경우(severe pain with minimal staining); 바람·빛·건조 환경 등에 극도로 과민(allodynia); 국소마취제 점안으로 통증이 일시 소실되면 각막 신경 기원 지지 → 안과 의뢰
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -72,15 +73,16 @@
 
 * 단일 확진 검사는 없으며, '증상 + 임상 진찰소견'으로 진단
 * 증상 확인 : 검증된 설문지 사용 권고
-  * OSDI-6 (6문항, cut-off ≥4; 표준 OSDI 12문항의 cut-off 13점과 다름에 유의; TFOS DEWS III 2025 1차권고)
+  * OSDI-6 (6문항, cut-off ≥4; TFOS DEWS III 2025 1차 권고) ✽표준 OSDI-12(cut-off ≥13) 대비 validation 제한적; 선별 도구로 활용 가능하나 정밀 평가 시 OSDI-12 병행 고려
   * DEQ-5 (5문항, cut-off ≥6; OSDI-6 작성이 어려운 경우 대안)
 * Schirmer's test : 5분 후 ＜5 ㎜ wetting → ADDE 시사
 * 눈물막 항상성 이상 확인 (아래 중 1가지 이상 이상 소견)
-  * tear film breakup time (TBUT) : ＜10초
+  * tear film breakup time (TBUT) : ＜10초 (이상 가능성; 민감도 높음) / ＜5초 (임상적으로 유의미한 감소; 특이도 높음)
   * tear osmolarity : ≥308 mOsm/L (또는 양안 차이 >8 mOsm/L)
   * 각결막 형광 염색(corneal/conjunctival staining) 이상
 * MGD 평가 : meibomian gland expressibility, 눈꺼풀 가장자리 관찰; Meibography(마이봄샘 촬영)로 선상 위축·구조적 손상 평가 가능
 * Sjögren syndrome 자가 항체 검사(anti-SSA/SSB), 갑상선 기능 검사
+  * Sjögren 의심 기준 : Schirmer ≤5 ㎜ + 심한 각결막 염색 소견 → 류마티스내과 협진 고려; 구강건조·관절통 등 전신 증상 동반 시 더욱 강력히 의뢰
 * 알레르기 질환과의 감별을 요함 (☞ [결막염](038_-conjunctivitis.md#allergic-conjunctivitis))
 * 필요 시 각막 손상 여부 검사(slit-lamp exam)
 
@@ -201,6 +203,20 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 
 ## <mark style="background-color:$warning;">Management</mark>
 
+{% hint style="info" %}
+**단계별 치료 전략 (Step-wise Approach)**
+
+| 단계 | 핵심 치료 | 대상 |
+|------|-----------|------|
+| Step 1 | 환경 개선 + 인공 눈물 | 모든 환자 |
+| Step 2 | 눈꺼풀 위생(온찜질·lid scrub) + 지질 보충 인공 눈물 | MGD/EDE 동반 |
+| Step 3 | 단기 국소 스테로이드 (1\~2주) | 염증 증상 동반 |
+| Step 4 | 국소 cyclosporine / lifitegrast | 난치성·중등도 이상 |
+| Step 5 | IPL / LipiFlow / 누점 폐쇄술 | 약물 치료 불충분 시 |
+
+복수의 병인이 동반되는 경우(혼합형) 해당 단계를 병행 적용
+{% endhint %}
+
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 예방 및 유발 인자 회피
@@ -220,10 +236,10 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 * 콘택트렌즈 착용을 피함; 안경으로 시력 조절
 * 충분한 수분 섭취
 * 눈꺼풀 온찜질 및 청결 유지 (특히 MGD 동반 시)
-  * 온찜질 : meibomian gland 굳은 기름 성분 액화 → 분비 개선; 40\~45°C, 1일 1\~2회, 5\~10분
+  * 온찜질 : meibomian gland 굳은 기름 성분 액화 → 분비 개선; 40~43°C, 1일 1\~2회, 5\~10분
   * 눈꺼풀 세척(lid scrub) : 온찜질 직후 면봉 또는 눈꺼풀 세정제로 가장자리를 닦아냄 - 열로 연화된 분비물 제거 효과 극대화; 온찜질→세척 순서가 핵심
 * 유발 약물 회피
-* 눈 수술(예: 라식, 라섹) 회피 - 각막 신경 손상 가능
+* 굴절교정술(라식·라섹 등) : 각막 신경 손상으로 건성안 악화 가능성이 있으므로 수술 전 안구건조증 평가 및 환자 교육 필요
 * 화면 사용 시 20-20-6 규칙 : 20분 사용 후 20초간 6미터 이상 먼 곳을 바라봄
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -231,6 +247,7 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 ### <mark style="color:orange;">인공 눈물, 윤활제</mark>
 
 * 1차 선택제 (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0013))
+* 사용 빈도 : 경증 — 증상 시 필요에 따라 사용; 중등도 이상 — 규칙적 사용(qid 이상) 권장
 * 경증 눈마름증에 대하여 필요시 사용
 * 정확한 점안 시 한쪽 눈에 한 방울로 충분
 * 1일 6\~7회 이상 사용 또는 렌즈 착용 중에는 무방부제 제품 사용\
@@ -254,7 +271,7 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 #### <mark style="color:$primary;">지질층 보충 / 증발 방지 (EDE/MGD에 특히 적합)</mark>
 
 * anhydrous liquid lanolin (취침 전 연고) <mark style="color:blue;">\[듀라티얼즈 안연고]</mark>
-* perfluorohexyloctane (PFHO) : 반불소화 알케인(semifluorinated alkane); tear film 지질층을 직접 보충하여 눈물 증발을 억제하는 최초 처방 기전; 수분·방부제 불포함, qid; phase 3 RCT(GOBI·MOJAVE)에서 증상·징후 모두 유의미한 개선; FDA 승인(2023); 국내 제품명 <mark style="color:blue;">미에보</mark>(Miebo)로 허가 절차 진행 중
+* perfluorohexyloctane (PFHO) : 반불소화 알케인(semifluorinated alkane); tear film 지질층을 직접 보충하여 눈물 증발을 억제하는 최초 처방 기전; 수분·방부제 불포함, qid; phase 3 RCT(GOBI·MOJAVE)에서 증상·징후 모두 유의미한 개선; FDA 승인(2023); 제품명 <mark style="color:blue;">미에보</mark>(Miebo) — 국내 도입 진행 중 (보험·가용성 확인 필요)
 
 #### <mark style="color:$primary;">Mucin Secretagogue</mark>
 
@@ -274,14 +291,14 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 
 * 2차 약제
 * 대상 : 안구 건조에 의한 염증 발생, 다른 치료로 호전 안 됨
-* 한계 : 효과 발현까지 수 주 소요, 장기 사용에 대한 효과 및 안전성 불명; 이 제제의 사용이 필요한 경우 의뢰 고려
+* 한계 : 효과 발현까지 수 주 이상 소요(초기 4\~8주 무효 반응 흔함); 장기 사용 시 전신 흡수가 낮아 안전성 양호; 이 제제의 사용이 필요한 경우 의뢰 고려
 * cyclosporine <mark style="color:blue;">\[레스타시스]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)) (보험기준 : 건성안으로 인하여 병적인 변화 발생(예: 표층각막염 등), tear break up time ≤6초, Schirmer test가 정상보다 ≥30% 감소)
 
 #### <mark style="color:$primary;">국소 Integrin antagonist</mark>
 
 * 작용 : 항염 작용, 증상 개선
 * 부작용 : 안구 자극/불편감, 쓴맛
-* lifitegrast 5.0% bid (국내 허가·급여 여부 확인 필요)
+* lifitegrast 5.0% bid (국내 미허가, 2025년 기준)
 
 ### <mark style="color:orange;">분비 자극제</mark>
 
@@ -298,7 +315,7 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 
 ### <mark style="color:orange;">영양 요법</mark>
 
-* tear film break-up time 향상 등 증상 호전에 유효하다고 알려짐
+* 연구 결과 상반됨 (DREAM trial 등에서 유의미한 효과 확인 못함); 보조적 선택지 수준으로 고려
 * 오메가-3(1\~2 g qd <mark style="color:blue;">\[오마코]</mark>), (γ-)linoleic acid <mark style="color:blue;">\[에보프림]</mark>, 항산화제, Vit A\
   ✽하루 1 g의 오메가-3를 12개월간 복용한 결과 안구건조증에 유의미한 호전이 없었다는 보고가 있음(DREAM study, NEJM 2018)
 
@@ -306,8 +323,8 @@ _<mark style="color:$info;">Ref. TFOS DEWS III Diagnostic Methodology & Reportin
 
 * 대상 : 2차 감염, MGD, rosacea, blepharitis
 * 국소 항생제 (☞ [안과계 약제](ophthalmic-medications.md#undefined-10))
-* 전신 항생제 : doxycycline 20\~50 ㎎ bid, 3\~4개월 <mark style="color:blue;">\[독시사이클린]</mark>\
-  ✽항염·항균 이중 작용; MGD 동반 rosacea/blepharitis에서 특히 유효
+* 전신 항생제 : doxycycline 40\~50 ㎎ qd (sub-antimicrobial dose), 3\~4개월 <mark style="color:blue;">\[독시사이클린]</mark>\
+  ✽항염·항균 이중 작용; MGD 동반 rosacea/blepharitis에서 특히 유효; bid는 항균 용량으로 부작용 증가 가능 — MGD/rosacea에서는 qd 유지
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -347,12 +364,12 @@ H04.9 눈물계통의 상세불명 장애
 > **처방례 2. 중증 (수성 결핍형)**
 >
 > ```
-> 히알루 미니 점안액  필요시
-> 히아레인 미니 점안액  필요시
+> 히알루 미니 점안액  1방울 qid 이상
+> 히아레인 미니 점안액  1방울 qid 이상
 > 듀라티얼즈 안연고 1 tube  취침 전
 > ```
 >
-> _✽중증 ADDE에서는 단회용 무방부제 제품과 취침 전 윤활 연고(lanolin계)를 병용. 취침 전 연고는 야간 눈 표면 보호에 효과적_
+> _✽중등도 이상에서는 인공 눈물을 규칙적으로 사용(qid 이상). 중증 ADDE에서는 단회용 무방부제 제품과 취침 전 윤활 연고(lanolin계)를 병용. 취침 전 연고는 야간 눈 표면 보호에 효과적_
 
 > **처방례 3. 자극 증상 동반 (염증 조절)**
 >
@@ -367,11 +384,11 @@ H04.9 눈물계통의 상세불명 장애
 > **처방례 4. MGD/증발과다형 (blepharitis·rosacea 동반)**
 >
 > ```
-> 독시사이클린 20 ㎎/T  1T bid  3~4개월
+> 독시사이클린 50 ㎎/T  1T qd  3~4개월
 > 히알루 미니 점안액  필요시
 > ```
 >
-> _✽MGD 동반 시 온찜질(40\~45°C, 5\~10분, 1일 2회) + 눈꺼풀 위생 지도를 함께 시행. doxycycline은 저용량(20\~50 ㎎)에서 항균보다 항염 기전으로 meibomian gland 기능 개선_
+> _✽MGD 동반 시 온찜질(40\~43°C, 5\~10분, 1일 2회) + 눈꺼풀 위생 지도를 함께 시행. doxycycline은 저용량(40\~50 ㎎ qd, sub-antimicrobial dose)에서 항균보다 항염 기전으로 meibomian gland 기능 개선; bid는 항균 용량으로 해당 적응증에 불필요_
 
 ***
 
@@ -388,7 +405,7 @@ H04.9 눈물계통의 상세불명 장애
 
 > **MGD 동반 시 — 눈꺼풀 온찜질 방법**
 >
-> 1. 깨끗한 수건을 40\~45°C 따뜻한 물(뜨겁지 않은 정도)에 적십니다.
+> 1. 깨끗한 수건을 40~43°C 따뜻한 물(뜨겁지 않은 정도)에 적십니다.
 > 2. 눈을 감고 눈꺼풀 위에 5\~10분간 얹어 둡니다. 1일 1\~2회 시행합니다.
 > 3. **찜질 직후**, 면봉 또는 눈꺼풀 전용 세정제로 눈꺼풀 가장자리를 부드럽게 닦아 냅니다. 열로 연화된 기름샘 분비물이 가장 효과적으로 제거됩니다.
 >
@@ -429,7 +446,7 @@ H04.9 눈물계통의 상세불명 장애
 * **눈을 자주 깜박이십시오.** 화면을 볼 때는 의식적으로 깜박임을 늘리고, 20분 사용 후 20초간 6미터 이상 먼 곳을 바라보는 '20-20-6 규칙'을 실천하십시오.
 * **건조한 환경을 피하십시오.** 실내 가습기를 사용하고, 선풍기·에어컨·온풍기 바람이 눈에 직접 닿지 않도록 하십시오.
 * **충분한 수분을 섭취하십시오.**
-* **눈꺼풀을 청결하게 유지하십시오.** 따뜻한 찜질(40\~45°C, 1일 1\~2회, 5\~10분) 후 눈꺼풀 가장자리를 부드럽게 닦아 주면 기름샘 기능 개선에 도움이 됩니다.
+* **눈꺼풀을 청결하게 유지하십시오.** 따뜻한 찜질(40~43°C, 1일 1\~2회, 5\~10분) 후 눈꺼풀 가장자리를 부드럽게 닦아 주면 기름샘 기능 개선에 도움이 됩니다.
 * **콘택트렌즈 착용을 줄이거나 안경으로 교체하십시오.** 렌즈는 눈물을 흡수하여 건조증을 악화시킵니다.
 * **수면을 충분히 취하고 스트레스를 관리하십시오.** 수면 장애와 심리적 스트레스는 안구건조증 증상을 악화시킵니다.
 

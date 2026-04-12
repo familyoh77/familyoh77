@@ -4,7 +4,7 @@
 
 * nasolacrimal system의 선천적 또는 후천적 폐쇄에 기인한 lacrimal sac의 감염; 보통 2차적 세균 감염으로 발생
 * 주요 원인균 : _S. aureus_ (가장 흔함), _S. epidermidis_, _S. pneumoniae_, _S. pyogenes_, _S. viridans_, _P. aeruginosa_, _E. coli_
-  * MRSA : _S. aureus_ 감염의 약 18%를 차지; 보존적 치료 실패 시 반드시 고려
+  * MRSA : 지역 및 의료환경에 따라 비율이 다양함; 보존적 치료 실패 또는 위험군(당뇨·면역저하)에서 반드시 고려
 * 영아 및 >40세에서 호발, 여성에서 3:1 비율로 더 흔함(비루관 직경이 남성보다 좁기 때문), 보통 편측 발생
 * 위험 인자 : 여성·고령(누점 협착), 누석(dacryolith), 비중격만곡·비염·비갑개 비대, 안면 외상 또는 비내시경 수술 과거력, 당뇨 등 면역 저하 상태, Wegener 육아종증·사르코이드증·SLE 등 전신 질환, 일부 약물(5-FU, docetaxel, 방사성 요오드 등)
 
@@ -12,7 +12,7 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 안와 주위 부종·발적 확산, 안구 돌출(proptosis), 안구 운동 제한, 시력 저하 → 안와 봉와직염(orbital cellulitis) 의심 → 즉시 contrast-enhanced CT(안와·부비동) 시행 또는 의뢰
+* **CT 적응증** — 안구 돌출(proptosis), 안구 운동 제한, 시력 저하, 심한 두통·발열 중 하나 이상: orbital cellulitis 의심 → 즉시 contrast-enhanced CT(안와·부비동) 시행 또는 의뢰
 * 안구 돌출 + 복시(diplopia)/안구 운동 제한 + 심한 두통·발열 → 해면정맥동 혈전증(cavernous sinus thrombosis) 의심 → 즉시 contrast-enhanced CT(뇌·안와) 시행 또는 의뢰
 * 고열, 오한, 빈맥 등 전신 감염 징후 → 패혈증 의심
 
@@ -51,20 +51,23 @@
 * 온찜질 : 하루 4\~6회, 1회 10\~15분 적용; 통증 완화 및 배농 촉진
   * 목적 : 누낭 주위 혈류 증가 → 화농성 내용물의 연화 및 자연 배농 유도
   * 온도 유지가 핵심 : 젖은 수건은 수분 내 급속히 식어 유효 시간이 짧음 → 10분 이상의 찜질이 필요한 누낭염에서는 아이마스크형 온찜질 팩(전자레인지 20\~30초) 또는 물에 적신 수건을 밀봉 지퍼백에 넣어 전자레인지로 데운 것(지퍼백 수건 팩)을 권장
+  * ⚠️ 저온 화상 주의 : 특히 고령 환자 및 당뇨 환자는 피부 감각이 둔화되어 있어 과열 시 화상을 인지하지 못할 수 있음 — 반드시 적정 온도(40\~43℃) 확인 후 사용
   * 찜질 후 배농 마사지 : 찜질 직후 누낭 부위(내안각 하방)를 손가락으로 부드럽게 아래쪽으로 눌러 내용물을 눈물점 방향으로 유도; 강하게 짜듯 압박하면 감염이 번질 수 있으므로 주의
 * 전신 항생제 : 급성 감염의 기본 치료
-  * amoxicillin/clavulanate <mark style="color:blue;">\[오구멘틴]</mark> 또는 levofloxacin <mark style="color:blue;">\[크라비트]</mark>
+  * 1차: amoxicillin/clavulanate <mark style="color:blue;">\[오구멘틴]</mark>
+  * 페니실린 알레르기·부작용 시 대안: cefpodoxime 등 2·3세대 세팔로스포린
+  * 위 약제 사용 불가 또는 1차 치료 실패 시: levofloxacin <mark style="color:blue;">\[크라비트]</mark> (QT 연장·건 손상 등 부작용 고려)
   * 경구 항생제에 반응 없거나 전신 증상 동반 시 입원 및 정주 항생제 고려
 * 국소 항생제 점안액 : 보조적 역할에 한정 - 누낭염의 주 병소는 누낭 심부 조직이므로 점안액의 도달이 불충분함; 분비물·결막 오염 조절 목적으로만 사용하며 전신 항생제를 대체할 수 없음
-* 국소 스테로이드 : 단기 투여로 염증 완화 보조; 단독 사용 금지, 항생제와 병용 (☞ [안과계 약제](ophthalmic-medications.md#undefined-14))
+* 국소 스테로이드 : 뚜렷한 부종·염증이 심한 경우에 한해 단기간, 반드시 항생제 병용 하에 사용; 단독 사용 금지 (☞ [안과계 약제](ophthalmic-medications.md#undefined-14))
 * 농양 형성 시 절개 배농(I\&D) - 의뢰
-* 급성기 탐침술(lacrimal probing) : 급성 염증 중 탐침술은 취약해진 조직에 가성 통로(false passage)를 만들 위험이 있으므로 금기; 급성기 해소 후 안과에서 시행
+* 급성기 탐침술(lacrimal probing) : 급성 염증 중 탐침술은 취약해진 조직에 가성 통로(false passage)를 만들 위험이 있으므로 일반적으로 금기; 급성기 해소 후 안과에서 시행. 단, 소아 선천성 비루관폐쇄(NLDO)에서는 안과 전문의 판단 하에 예외적으로 시행될 수 있음
 * 수술(dacryocystorhinostomy, DCR) : 폐쇄된 눈물길을 수술로 개방; 만성 누낭염 또는 반복 재발에서 고려
-  * 내시경 누낭비강문합술(Endoscopic DCR, EDCR 또는 EN-DCR)과 외부 DCR(EX-DCR)의 성공률은 동등하며, EDCR은 안면 흉터 없이 출혈이 적은 장점이 있어 최근 선호도 증가
+  * 내시경 누낭비강문합술(Endoscopic DCR, EDCR 또는 EN-DCR)과 외부 DCR(EX-DCR)의 성공률은 대체로 유사하나, 술자 경험 및 해부학적 조건에 따라 차이가 있을 수 있음; EDCR은 안면 흉터 없이 출혈이 적은 장점이 있어 최근 선호도 증가
 
 **※ 안과 질환별 온찜질 비교**
 
-* 온찜질은 질환의 병태생리적 목표에 따라 적용 강도를달리함. 시간보다 온도를 일정하게 유지(40\~43℃)하는 것이 더 중요
+* 온찜질은 질환의 병태생리적 목표에 따라 적용 강도를 달리함. 시간보다 온도를 일정하게 유지(40\~43℃)하는 것이 더 중요
 * 급성 염증·화농형(누낭염, 다래끼)에서는 '최대한 자주, 충분히', 만성 관리형(안검염, 건성안)에서는 '매일 꾸준히, 짧게'
 * 10분 이상의 긴 찜질이 필요한 경우 '아이마스크형 온찜질 팩' 또는 '지퍼백 수건 팩' 활용
 
@@ -72,7 +75,7 @@
 
 #### <mark style="color:$primary;">항생제 선택</mark>
 
-<table><thead><tr><th width="228">성분명 [상품명]</th><th width="240">특징</th><th width="139">용법</th></tr></thead><tbody><tr><td>amoxicillin/clavulanate<br><mark style="color:blue;">[오구멘틴]*</mark></td><td>1차 선택; 광범위 그람양성균 + 혐기균 커버</td><td>375 ㎎ tid</td></tr><tr><td>levofloxacin <mark style="color:blue;">[크라비트]</mark></td><td>페니실린 알레르기 또는 1차 실패 시; 고령자 QT 연장 주의</td><td>500 ㎎ qd</td></tr><tr><td>TMP/SMX <mark style="color:blue;">[박트림]</mark></td><td>MRSA 의심 1차 경구 옵션</td><td>160/800 ㎎ bid</td></tr><tr><td>clindamycin <mark style="color:blue;">[클린다마이신]</mark></td><td>MRSA 의심 경구 대안; 페니실린 알레르기 시 고려</td><td>300 ㎎ tid~qid</td></tr><tr><td>doxycycline <mark style="color:blue;">[독시사이클린]</mark></td><td>MRSA 의심 경구 대안; TMP/ SMX·클린다마이신 사용 불가 시</td><td>100 ㎎ bid</td></tr></tbody></table>
+<table><thead><tr><th width="228">성분명 [상품명]</th><th width="240">특징</th><th width="139">용법</th></tr></thead><tbody><tr><td>amoxicillin/clavulanate<br><mark style="color:blue;">[오구멘틴]*</mark></td><td>1차 선택; 광범위 그람양성균 + 일부 그람음성균 커버</td><td>375 ㎎ tid</td></tr><tr><td>cefpodoxime <mark style="color:blue;">[세프포독심 등]</mark></td><td>페니실린 알레르기·부작용 시 2차 선택; 그람양성균 + 일부 그람음성균 커버; 단순 누낭염에서 FQ 대안</td><td>200 ㎎ bid</td></tr><tr><td>levofloxacin <mark style="color:blue;">[크라비트]</mark></td><td>위 약제 사용 불가 또는 1차 실패 시; 조직 침투력 우수; 고령자 QT 연장·건 손상 주의</td><td>500 ㎎ qd</td></tr><tr><td>TMP/SMX <mark style="color:blue;">[박트림]</mark></td><td>MRSA 의심 1차 경구 옵션</td><td>160/800 ㎎ bid</td></tr><tr><td>doxycycline <mark style="color:blue;">[독시사이클린]</mark></td><td>MRSA 의심 1차 경구 옵션 (TMP/SMX와 동등); 신부전·설파제 알레르기 시 TMP/SMX 대신 우선 고려</td><td>100 ㎎ bid</td></tr><tr><td>clindamycin <mark style="color:blue;">[클린다마이신]</mark></td><td>MRSA 의심 경구 대안; TMP/SMX·doxycycline 사용 불가 시 고려; C. difficile 위험 주의</td><td>300 ㎎ tid~qid</td></tr></tbody></table>
 
 \*오구멘틴 용량 참고 : 375 ㎎ tid는 국내 표준 처방이지만, _S. aureus_ 등 심부 감염에서 치료 반응이 느릴 경우 증량 고려 - 500/125 ㎎ 제형 <mark style="color:blue;">\[아목시클라브]</mark> tid, 또는 375 ㎎ 제형을 1회 2정(amoxicillin 500 ㎎ 상당)으로 증량. 국내에서 875 ㎎ 제형은 유통이 제한적이며, 625 ㎎ 제형은 현재 단종 상태임
 
@@ -88,6 +91,48 @@
 #### <mark style="color:$primary;">국소 항생제/Steroid 복합제</mark>
 
 * dexamethasone + tobramycin qid <mark style="color:blue;">\[토브라덱스]</mark>
+
+{% hint style="info" %}
+**누낭염 처치 알고리즘**
+
+```
+누낭 부위 부종·발적·통증
+          │
+          ▼
+  Regurgitation test
+  (누낭 압박 시 농성 역류 확인)
+          │
+          ▼
+    Red Flag 평가
+          │
+   ┌──────┴──────┐
+  있음           없음
+   │              │
+   ▼              ▼
+CT + 즉시 의뢰  경구 항생제 + 온찜질 시작
+                  │  (amox/clav 1차)
+                  ▼
+            48~72시간 후 평가
+                  │
+          ┌───────┴────────┐
+         호전            무반응
+          │                │
+          ▼                ▼
+      치료 유지      MRSA 커버로 전환
+      (총 7~10일)   (TMP/SMX 또는 doxycycline)
+                          │
+                   ┌──────┴──────┐
+                  호전          악화·전신 증상
+                   │              │
+                   ▼              ▼
+               치료 유지       입원 + IV 항생제
+               (총 10~14일)    (± 안과 의뢰)
+```
+
+* amox/clav 불가 시 → cefpodoxime → levofloxacin 순으로 대체
+* 농양 형성(fluctuant mass) 확인 시 즉시 의뢰 (절개 배농)
+* 당뇨·면역저하 환자는 악화 속도가 빠르므로 48시간 이내 재평가 권장
+{% endhint %}
 
 ***
 
@@ -106,32 +151,41 @@ H04.41 만성 누낭염
 > **처방례 1. 급성 누낭염 (1차 선택)**
 >
 > ```
-> 오구멘틴 375 mg/T  3T #3  (7~10일)
+> 오구멘틴 375 ㎎/T  3T #3  (7~10일)
 > 토브라덱스 점안액 5 ㎖/병  1방울 qid
 > ```
 >
 > _✽온찜질(1일 4\~6회) 병행 지도. 점안액은 보조적 사용이며 전신 항생제가 치료의 핵심임을 설명_\
-> \&#xNAN;_✽48\~72시간 이내 호전 없거나 농양 형성 시 안과 의뢰. 치료 반응 불충분 시 1회 2정(amoxicillin 500 mg 상당)으로 증량 또는 제네릭 500/125 mg 제형으로 변경 고려_
+> _✽48\~72시간 이내 호전 없거나 농양 형성 시 안과 의뢰. 치료 반응 불충분 시 1회 2정(amoxicillin 500 ㎎ 상당)으로 증량 또는 제네릭 500/125 ㎎ 제형으로 변경 고려_
 
-> **처방례 2. 급성 누낭염 (페니실린 알레르기 또는 1차 실패)**
+> **처방례 2. 급성 누낭염 (페니실린 알레르기·부작용 시 — 세팔로스포린 대안)**
 >
 > ```
-> 크라비트 500 mg/T  1T qd  (7~10일)
+> 세프포독심 200 ㎎/T  1T bid  (7~10일)
 > 포러스 점안액 10 ㎖/병  1방울 qid
 > ```
 >
-> _✽크라비트(levofloxacin)는 S. aureus, S. pneumoniae, P. aeruginosa 등 주요 원인균에 유효. 고령자에서 QT 연장 여부 확인_
+> _✽amoxicillin/clavulanate에 알레르기 또는 소화 장애 등 부작용이 있는 경우 선택. 단순 누낭염에서 fluoroquinolone 사용 전 우선 고려_
 
-> **처방례 3. MRSA 의심 (초기 항생제 48\~72h 무반응)**
+> **처방례 3. 급성 누낭염 (위 약제 사용 불가 또는 1차 치료 실패)**
 >
 > ```
-> 박트림 DS 800/160 mg/T  1T bid  (7~10일)
->     또는 클린다마이신 300 mg/T  1T tid  (7~10일)
->     또는 독시사이클린 100 mg/T  1T bid  (7~10일)
+> 크라비트 500 ㎎/T  1T qd  (7~10일)
+> 포러스 점안액 10 ㎖/병  1방울 qid
+> ```
+>
+> _✽크라비트(levofloxacin)는 S. aureus, S. pneumoniae, P. aeruginosa 등 주요 원인균에 유효하며 조직 침투력이 우수함. 고령자에서 QT 연장·건 손상 여부 확인_
+
+> **처방례 4. MRSA 의심 (초기 항생제 48\~72h 무반응)**
+>
+> ```
+> 박트림 DS 800/160 ㎎/T  1T bid  (7~10일)
+>     또는 독시사이클린 100 ㎎/T  1T bid  (7~10일)
+>     또는 클린다마이신 300 ㎎/T  1T tid  (7~10일)  ← TMP/SMX·doxycycline 사용 불가 시
 > 토브라덱스 점안액 5 ㎖/병  1방울 qid
 > ```
 >
-> _✽경구 치료에도 악화되거나 전신 증상 동반 시 입원하여 IV vancomycin으로 전환. 발열 소실 후 24\~48시간 경과하면 경구 전환(step-down) 가능; 총 치료 기간 10\~14일. 배농 전 분비물 배양 검사 권장_
+> _✽경구 치료에도 악화되거나 전신 증상 동반 시 입원하여 IV vancomycin으로 전환. 발열 소실 후 24\~48시간 경과하면 경구 전환(step-down) 가능; 총 치료 기간 10\~14일. 배농 전 분비물 배양 검사는 재발·치료 실패·입원 환자에서 권장 (모든 케이스에서 routine 시행은 불필요)_
 
 ***
 
@@ -140,6 +194,7 @@ H04.41 만성 누낭염
 > **경구 항생제 복용 안내**
 >
 > * 오구멘틴(아목시실린/클라불라네이트)은 식사와 함께 복용하면 소화 장애(메스꺼움, 설사)를 줄일 수 있습니다.
+> * 세프포독심(cefpodoxime)은 식사와 함께 복용하면 흡수율이 높아집니다.
 > * 증상이 호전되더라도 처방된 기간(보통 7\~10일)을 끝까지 복용하십시오. 도중에 중단하면 재발하거나 내성균이 생길 수 있습니다.
 > * 크라비트(레보플록사신)는 제산제, 철분제, 칼슘 보충제와 함께 복용하면 흡수가 줄어들 수 있으므로 2시간 이상 간격을 두십시오.
 
