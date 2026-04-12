@@ -30,7 +30,7 @@
 "눈이 갑자기 빨개졌다"는 주소로 내원한 환자에서 아래 질환들의 감별이 필요\
 뚜렷한 통증, 시력 저하, 광과민이 있는 경우 다른 질환을 적극 감별; 경미한 이물감·자극감만 있는 경우는 SCH에서도 나타날 수 있음
 
-<table><thead><tr><th width="110">감별 질환</th><th width="155">충혈 양상</th><th width="170">SCH에는 없는 것</th><th>추가 감별 포인트</th></tr></thead><tbody><tr><td><strong>결막염</strong></td><td>전반적 미만성 충혈</td><td>분비물 없음, 가려움 없음</td><td>분비물·가려움 동반; 명확한 경계 없음</td></tr><tr><td><strong>상공막염</strong><br><strong>/공막염</strong></td><td>국소 자색(violet) 충혈</td><td>통증 없음</td><td>국소 압통; 공막염은 심한 안구통, 안구 운동 시 악화</td></tr><tr><td><strong>급성 폐쇄각</strong> <br><strong>녹내장</strong></td><td>모양 충혈(ciliary flush)</td><td>두통 없음, 시력 저하 없음, 동공 이상 없음</td><td>심한 두통·구역, 동공 중등도 산대·반응 소실</td></tr><tr><td><strong>각막염</strong><br><strong>/포도막염</strong></td><td>모양 충혈(ciliary flush)</td><td>눈부심 없음, 시력 저하 없음</td><td>눈부심·눈물·시력 저하; 각막 혼탁 또는 전방 염증</td></tr><tr><td><strong>결막하 종양</strong><br><strong>/혈관종</strong></td><td>국소 융기성 병변</td><td>—</td><td>재발성; 경계 불규칙·융기; 항생제·경과 관찰에 무반응</td></tr></tbody></table>
+<table><thead><tr><th width="110">감별 질환</th><th width="155">충혈 양상</th><th width="170">SCH에는 없는 것</th><th>추가 감별 포인트</th></tr></thead><tbody><tr><td><strong>결막염</strong></td><td>전반적 미만성 충혈</td><td>분비물 없음, 가려움 없음</td><td>분비물·가려움 동반; 명확한 경계 없음</td></tr><tr><td><strong>상공막염</strong><br><strong>/공막염</strong></td><td>국소 자색(violet) 충혈</td><td>통증 없음</td><td>국소 압통; 공막염은 심한 안구통, 안구 운동 시 악화</td></tr><tr><td><strong>급성 폐쇄각</strong><br><strong>녹내장</strong></td><td>모양 충혈(ciliary flush)</td><td>두통 없음, 시력 저하 없음, 동공 이상 없음</td><td>심한 두통·구역, 동공 중등도 산대·반응 소실</td></tr><tr><td><strong>각막염</strong><br><strong>/포도막염</strong></td><td>모양 충혈(ciliary flush)</td><td>눈부심 없음, 시력 저하 없음</td><td>눈부심·눈물·시력 저하; 각막 혼탁 또는 전방 염증</td></tr><tr><td><strong>결막하 종양</strong><br><strong>/혈관종</strong></td><td>국소 융기성 병변</td><td>—</td><td>재발성; 경계 불규칙·융기; 항생제·경과 관찰에 무반응</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -43,10 +43,10 @@
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 3주 이상 지속 → 자연 흡수되지 않는 원인 감별 필요
-* 재발성 SCH → 혈액 질환·혈관 질환·전신 원인 평가; 짧은 간격으로 반복되는 경우(예: 수주~1개월 내 재발) 응고 이상(coagulopathy) 검사 우선 시행
+* 재발성 SCH → 혈액 질환·혈관 질환·전신 원인 평가; 짧은 간격으로 반복되는 경우(예: 수주\~1개월 내 재발) 응고 이상(coagulopathy) 검사 우선 시행
 * 항응고제 복용 환자 → 응고 검사(INR 등) 및 용량 적절성 확인; 임의 중단 금지
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 고혈압이 원인으로 의심될 경우 → 혈압 측정 및 조절
 * 첫 발생이더라도 고령·항응고제 복용·출혈 경향이 있는 경우 → 기저 질환 확인
@@ -67,40 +67,35 @@
   * 항응고제 복용 → 와파린: INR 확인 및 용량 적절성 협의 / DOAC: 복용 여부·용량·신기능 확인; 처방 의사와 협의; 환자가 임의로 중단하지 않도록 주의
   * 출혈 질환 → 의뢰
 
-{% hint style="info" %}
-**Sudden Red Eye — 1차 진료 Triage 알고리즘**
 
-```
-갑자기 빨개진 눈 (sudden red eye)
-            │
-            ▼
-  뚜렷한 통증 / 시력 저하 / 광과민?
-            │
-     ┌──────┴──────┐
-    있음           없음
-     │              │
-     ▼              ▼
-심각한 안질환    외상력 있음?
-의심 → 의뢰      │
-(녹내장·포도막    ┌──┴──┐
-염·각막염 등)   있음   없음
-               │      │
-               ▼      ▼
-          즉시 의뢰  전형적인 평평한
-          (안구 파열  붉은 반점 확인
-          골절 등)    │
-                      ▼
-               SCH 진단 가능
-               → 경과 관찰
-               + 원인 인자 평가
-               (혈압·항응고제·
-                건강기능식품)
+
+```mermaid
+graph TD
+    Start([갑작스런 출혈성 안구 증상]) --> CheckSymptoms{통증 / 
+    시력 저하 /<br/>광과민?}
+    
+    CheckSymptoms -- YES --> Serious[중증 안구 질환]
+    Serious --> Refer1[의뢰]
+    
+    CheckSymptoms -- NO --> CheckTrauma{외상?}
+    
+    CheckTrauma -- YES --> Refer2[의뢰]
+    
+    CheckTrauma -- NO --> CheckAppearance{Typical Flat<br/>Red Patch?}
+    
+    CheckAppearance -- YES --> Action[Reassurance + Observe]
+    CheckAppearance -- NO --> Other[다른 원인 평가<br/>예, 결막염]
+
+    style Refer1 fill:#f96,stroke:#333,stroke-width:2px
+    style Refer2 fill:#f96,stroke:#333,stroke-width:2px
+    style Action fill:#bbf,stroke:#333,stroke-width:2px
+    style Start fill:#f66,stroke:#333,stroke-width:2px
+    
 ```
 
 * 경미한 이물감만 있는 경우는 SCH에서 가능 — 뚜렷한 통증·시력 저하·광과민이 없으면 의뢰 불필요
 * 360° limbal 출혈, 심한 chemosis → 즉시 의뢰
-* 수주~1개월 이내 재발 → 응고 검사 및 전신 원인 평가
-{% endhint %}
+* 수주\~1개월 이내 재발 → 응고 검사 및 전신 원인 평가
 
 ***
 
@@ -146,7 +141,7 @@ S05.08 이물에 대한 언급이 없는 기타 결막찰과상 및 각막찰과
 >
 > * 출혈과 함께 **눈의 통증** 또는 **시력 저하**가 동반되는 경우 — 즉시 내원
 > * 소량 출혈이 **1주, 대량 출혈이 3주가 지나도 흡수되지 않는** 경우
-> * 결막하출혈이 **반복적으로 재발**하는 경우 (특히 **수주~1개월 이내 재발 시** 응고 검사 필요)
+> * 결막하출혈이 **반복적으로 재발**하는 경우 (특히 **수주\~1개월 이내 재발 시** 응고 검사 필요)
 > * 출혈 부위가 **결막 전체를 둘러싸거나 결막이 부풀어 오르는** 경우 — 즉시 내원
 
 ***
@@ -187,7 +182,7 @@ S05.08 이물에 대한 언급이 없는 기타 결막찰과상 및 각막찰과
 * 출혈과 함께 **눈의 통증**이 있거나 **시력이 떨어지는** 경우
 * **결막이 부풀어 오르거나** 출혈이 각막(검은 눈동자) 주변 전체를 둘러싸는 경우
 * 소량 출혈은 1주, 대량 출혈은 **3주가 지나도 흡수되지 않는** 경우
-* 결막하출혈이 **자주 반복되는** 경우, 특히 **수주~1개월 이내에 재발**한 경우
+* 결막하출혈이 **자주 반복되는** 경우, 특히 **수주\~1개월 이내에 재발**한 경우
 * **외상 후** 발생한 경우 (안구 내부 손상 동반 가능)
 
 #### <mark style="color:$primary;">출혈 범위에 따른 예상 흡수 기간</mark>
