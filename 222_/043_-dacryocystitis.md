@@ -117,7 +117,7 @@ graph TD
     style G fill:#ccffcc,stroke:#333,stroke-width:2px
 ```
 
-<p align="center"><strong>누낭염 관리 알고리즘</strong></p>
+<p align="center"><strong>누낭염 관리 알고리듬</strong></p>
 
 <p align="center"><em>amox/clav 불가 시 → cefpodoxime → levofloxacin 순으로 대체</em><br><em>농양 형성(fluctuant mass) 확인 시 즉시 의뢰 (절개 배농)</em><br><em>당뇨·면역저하 환자는 악화 속도가 빠르므로 48시간 이내 재평가 권장</em></p>
 
