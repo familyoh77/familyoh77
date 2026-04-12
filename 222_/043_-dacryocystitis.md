@@ -71,7 +71,7 @@
 * 급성 염증·화농형(누낭염, 다래끼)에서는 '최대한 자주, 충분히', 만성 관리형(안검염, 건성안)에서는 '매일 꾸준히, 짧게'
 * 10분 이상의 긴 찜질이 필요한 경우 '아이마스크형 온찜질 팩' 또는 '지퍼백 수건 팩' 활용
 
-<table><thead><tr><th width="108">질환</th><th width="195">목적</th><th width="145">권장 빈도·시간</th><th>찜질 후 처치</th></tr></thead><tbody><tr><td><strong>누낭염</strong></td><td>배농 촉진, 혈류 개선</td><td>1일 4~6회, <br>10~15분</td><td>누낭 부위 배농 마사지</td></tr><tr><td><strong>다래끼·</strong><br><strong>콩다래끼</strong></td><td>고형 meibum·농양 용해 및 자연 배농 유도</td><td>1일 4회, <br>15분</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안검염</strong></td><td>눈꺼풀 테두리 세정 보조, MGD 지질층 개선</td><td>1일 2~4회, <br>5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안구건조증</strong><br><strong>(MGD)</strong></td><td>meibomian gland 기능 개선, 증상 예방</td><td>1일 1~2회, <br>5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr></tbody></table>
+<table><thead><tr><th width="108">질환</th><th width="195">목적</th><th width="145">권장 빈도·시간</th><th>찜질 후 처치</th></tr></thead><tbody><tr><td><strong>누낭염</strong></td><td>배농 촉진, 혈류 개선</td><td>1일 4~6회,<br>10~15분</td><td>누낭 부위 배농 마사지</td></tr><tr><td><strong>다래끼·</strong><br><strong>콩다래끼</strong></td><td>고형 meibum·농양 용해 및 자연 배농 유도</td><td>1일 4회,<br>15분</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안검염</strong></td><td>눈꺼풀 테두리 세정 보조, MGD 지질층 개선</td><td>1일 2~4회,<br>5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안구건조증</strong><br><strong>(MGD)</strong></td><td>meibomian gland 기능 개선, 증상 예방</td><td>1일 1~2회,<br>5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">항생제 선택</mark>
 
@@ -92,47 +92,34 @@
 
 * dexamethasone + tobramycin qid <mark style="color:blue;">\[토브라덱스]</mark>
 
-{% hint style="info" %}
-**누낭염 처치 알고리즘**
+***
 
-```
-누낭 부위 부종·발적·통증
-          │
-          ▼
-  Regurgitation test
-  (누낭 압박 시 농성 역류 확인)
-          │
-          ▼
-    Red Flag 평가
-          │
-   ┌──────┴──────┐
-  있음           없음
-   │              │
-   ▼              ▼
-CT + 즉시 의뢰  경구 항생제 + 온찜질 시작
-                  │  (amox/clav 1차)
-                  ▼
-            48~72시간 후 평가
-                  │
-          ┌───────┴────────┐
-         호전            무반응
-          │                │
-          ▼                ▼
-      치료 유지      MRSA 커버로 전환
-      (총 7~10일)   (TMP/SMX 또는 doxycycline)
-                          │
-                   ┌──────┴──────┐
-                  호전          악화·전신 증상
-                   │              │
-                   ▼              ▼
-               치료 유지       입원 + IV 항생제
-               (총 10~14일)    (± 안과 의뢰)
+```mermaid
+graph TD
+    A([누낭 부종 / 통증]) --> B{Regurgitation<br/>Test +}
+    
+    B -- YES --> C{Red Flag<br/>여부 평가}
+    B -- NO --> Other[타 질환 고려]
+    
+    C -- YES --> D[CT 촬영 + 즉시 의뢰]
+    
+    C -- NO --> E[경구 항생제 + 온찜질]
+    
+    E --> F{48-72h 후 평가}
+    
+    F -- 호전 --> G[현재 치료 유지]
+    F -- 무반응 --> H[MRSA 커버 약제 변경<br/>또는 의뢰]
+
+    %% 스타일 설정
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style D fill:#ff9999,stroke:#c00,stroke-width:2px
+    style H fill:#ffcc00,stroke:#333,stroke-width:2px
+    style G fill:#ccffcc,stroke:#333,stroke-width:2px
 ```
 
-* amox/clav 불가 시 → cefpodoxime → levofloxacin 순으로 대체
-* 농양 형성(fluctuant mass) 확인 시 즉시 의뢰 (절개 배농)
-* 당뇨·면역저하 환자는 악화 속도가 빠르므로 48시간 이내 재평가 권장
-{% endhint %}
+<p align="center"><strong>누낭염 관리 알고리즘</strong></p>
+
+<p align="center"><em>amox/clav 불가 시 → cefpodoxime → levofloxacin 순으로 대체</em><br><em>농양 형성(fluctuant mass) 확인 시 즉시 의뢰 (절개 배농)</em><br><em>당뇨·면역저하 환자는 악화 속도가 빠르므로 48시간 이내 재평가 권장</em></p>
 
 ***
 
@@ -156,7 +143,7 @@ H04.41 만성 누낭염
 > ```
 >
 > _✽온찜질(1일 4\~6회) 병행 지도. 점안액은 보조적 사용이며 전신 항생제가 치료의 핵심임을 설명_\
-> _✽48\~72시간 이내 호전 없거나 농양 형성 시 안과 의뢰. 치료 반응 불충분 시 1회 2정(amoxicillin 500 ㎎ 상당)으로 증량 또는 제네릭 500/125 ㎎ 제형으로 변경 고려_
+> &#xNAN;_✽48\~72시간 이내 호전 없거나 농양 형성 시 안과 의뢰. 치료 반응 불충분 시 1회 2정(amoxicillin 500 ㎎ 상당)으로 증량 또는 제네릭 500/125 ㎎ 제형으로 변경 고려_
 
 > **처방례 2. 급성 누낭염 (페니실린 알레르기·부작용 시 — 세팔로스포린 대안)**
 >
