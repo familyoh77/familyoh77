@@ -1,22 +1,14 @@
 # 중이염 Otitis Media
 
-## 일반 사항![image](../.gitbook/assets/f76e69c0-cc38-40c6-bca8-f9c73590e90e.JPG)
-
 ## 일반 사항
 
 * 중이 점막의 염증. 보통 fluid collection 동반
 * 소아에서의 항생제 사용 및 난청의 가장 흔한 원인
-*   빈도 : 3세까지 ≥80%의 소아가 ≥1회 경험, 24개월 이후 나이가
-
-    들수록 감소, 성인에서는 드묾
-*   삼출 중이염 : 급성 염증 소견은 없으면서 중이 내에 삼출액이 있는
-
-    상태
+* 빈도 : 3세까지 ≥80%의 소아가 ≥1회 경험, 24개월 이후 나이가 들수록 감소, 성인에서는 드묾
+* 삼출 중이염 : 급성 염증 소견은 없으면서 중이 내에 삼출액이 있는 상태
 * 재발 중이염 : ≥3회/6개월 또는 ≥4회/1년 발생
 * 만성 화농성 중이염 : ＞3개월(WHO 정의- 2주) 지속 또는 반복적 발생
-*   치료 저해 요인 : 항생제 내성균 감염, 불량한 순응도, 바이러스 감염 동반,
-
-    이관 기능 부전, 다른 부위로부터의 재감염, 면역 저하
+* 치료 저해 요인 : 항생제 내성균 감염, 불량한 순응도, 바이러스 감염  동반, 이관 기능 부전, 다른 부위로부터의 재감염, 면역 저하
 
 ## 원인 및 위험 인자
 
@@ -44,24 +36,23 @@
 * 감기 등 상기도 감염 예방, 백신 접종
 * 아연, propolis, probiotics, 자두, 베리류 : 소아에 대한 일부 연구에서 감염 감소 (논란)
 * Vit D 보충 : 혈중 농도 ＞30 ng/㎖ 유지 시 재발을 줄인다는 보고가 있음
-*   xylitol 껌, 사탕 : AOM 치료에는 효과가 없으며 호흡기 질환 유행 시기에 하루 5회 사용으로 재발성 AOM 예방 기대
-
-    (간헐적 사용은 효과 없음); 추가 연구 필요
+* xylitol 껌, 사탕 : AOM 치료에는 효과가 없으며 호흡기 질환 유행 시기에 하루 5회 사용으로 재발성 AOM 예방 기대 (간헐적 사용은 효과 없음); 추가 연구 필요
 * 예방적 항생제 투여 : 내성균 발생 우려는 큰 반면, 효과는 미약하므로 권고하지 않음
 
 ### 백신
 
-*   폐렴구균 백신
-
-    •AOM 상대 위험도 감소(7가 백신) : 고위험군 소아에서 5\~6%, 저위험군 소아에서 6% 감소
-* ✽13가 백신은 연구 부족 •한계 : 효과 지속 기간이 불명확함(폐렴에 대해서는 5세 이후에는 효과 없음), 접종군에 있어 다른 균주에 의한 감염이 늘었으며 백신 포함 균주에 의한 감염 발생 시 중증도가 심해졌다는 보고가 있음 (☞ [예방접종](../231_/210_-vaccination.md#pneumococcal-pneumonia))
+* 폐렴구균 백신
+  * AOM 상대 위험도 감소(7가 백신) : 고위험군 소아에서 5\~6%, 저위험군 소아에서 6% 감소 (13가 백신은 연구 부족)
+  * 한계 : 효과 지속 기간이 불명확함(폐렴에 대해서는 5세 이후에는 효과 없음), 접종군에 있어 다른 균주에 의한 감염이 늘었으며 백신 포함 균주에 의한 감염 발생 시 중증도가 심해졌다는 보고가 있음 (☞ [예방접종](../231_/210_-vaccination.md#pneumococcal-pneumonia))
 * 인플루엔자 백신 : AOM 발생률 4% 감소; 호흡기 질환 시즌 동안 AOM 30\~55% 감소
 
 ## 증상/병력에 따른 귀 문제의 감별
 
 <figure><img src="../.gitbook/assets/중이2.JPG" alt=""><figcaption></figcaption></figure>
 
-### ￭ 급성 중이염 Acute Otitis Media (AOM)
+***
+
+## ￭ 급성 중이염 Acute Otitis Media (AOM)
 
 ## 일반 사항
 
@@ -118,9 +109,9 @@
 
 * 유양돌기염 : 귀 뒤의 통증/압통, 흔히 두통 동반
 * temporomandibular joint disorder : 입을 벌릴 때 통증/소리, 씹을 때 심해지는 통증, 귓바퀴 앞 통증, 턱관절 압통
-* 이관 폐쇄 : 귀의 멍멍한 느낌 또는 압박감 (☞ p.210)
+* 이관 폐쇄 : 귀의 멍멍한 느낌 또는 압박감 (☞ [귀인두관기능부전](046_-eustachian-tube-dysfunction.md))
 * 치아 문제 : 이환된 쪽의 상악 치아 통증
-* barotrauma : 비행기 탑승, 잠수 경력 (☞ p.236)
+* barotrauma : 비행기 탑승, 잠수 경력 (☞ [귀 손상](049_-ear-injury.md#ear-barotrauma))
 
 ```mermaid
 graph TD
@@ -157,11 +148,9 @@ graph TD
 
 ### 중이 이루의 감별
 
-<table><thead><tr><th width="120">원인</th><th>진단적 단서</th><th>치료</th></tr></thead><tbody><tr><td>급성 중이염, 천공(+)</td><td>화농성 분비물; 이전에 상기도 감염력; 발생 전 통증</td><td>항생제 이용액(☞ p.215); 귀 청결, 귀 건조 유지</td></tr><tr><td>만성 중이염, 천공(+)</td><td>화농성 분비물; 고막 천공력; 고막 뒤 흰색 또는 진주색 덩어리; 이전 항생제 치료에 반응 안 함; 폴립</td><td>항생제 이용액; 청력 평가; bone CT; 이전 항생제 치료에 반응 없었으면 분비물 배양 검사</td></tr><tr><td>외상 (☞ p.235)</td><td>혈성 또는 지속되는 맑은 분비물; 두부 또는 귀 외상력; 안면 신경 악화</td><td>항생제 이용액; 청력 검사; bone CT</td></tr><tr><td>중이 결핵</td><td>냄새가 없는 묽은 만성 분비물; 결핵 감염력, 결핵 검사 양성; 이전 항생제 치료에 반응 없음</td><td>결핵 검사 및 치료 (☞ p.319)</td></tr><tr><td>종양</td><td>편측 박동성 이명; 종괴; 폴립</td><td>청력 평가; bone CT</td></tr></tbody></table>
+<table><thead><tr><th width="120">원인</th><th>진단적 단서</th><th>치료</th></tr></thead><tbody><tr><td>급성 중이염, 천공(+)</td><td>화농성 분비물; 이전에 상기도 감염력; 발생 전 통증</td><td>항생제 이용액(☞ <a href="047_-otitis-externa-oe.md#undefined-9">외이염</a>); 귀 청결, 귀 건조 유지</td></tr><tr><td>만성 중이염, 천공(+)</td><td>화농성 분비물; 고막 천공력; 고막 뒤 흰색 또는 진주색 덩어리; 이전 항생제 치료에 반응 안 함; 폴립</td><td>항생제 이용액; 청력 평가; bone CT; 이전 항생제 치료에 반응 없었으면 분비물 배양 검사</td></tr><tr><td>외상 (☞ <a href="049_-ear-injury.md#traumatic-tm-perforation">귀손상</a>)</td><td>혈성 또는 지속되는 맑은 분비물; 두부 또는 귀 외상력; 안면 신경 악화</td><td>항생제 이용액; 청력 검사; bone CT</td></tr><tr><td>중이 결핵</td><td>냄새가 없는 묽은 만성 분비물; 결핵 감염력, 결핵 검사 양성; 이전 항생제 치료에 반응 없음</td><td>결핵 검사 및 치료 (☞ <a href="../223_/070_-tuberculosis.md">결핵</a>)</td></tr><tr><td>종양</td><td>편측 박동성 이명; 종괴; 폴립</td><td>청력 평가; bone CT</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. eTable 18-7.</mark></em></p>
-
-***
 
 ## Management
 
@@ -293,9 +282,7 @@ _<mark style="color:$info;">Ref. Clinical practice guideline: The diagnosis and 
 
 ### 고막절개술 (Myringotomy) or Tympanocentesis
 
-*   고막 절개에 의한 배농/배액이 증상 완화에 도움이 될 가능성이 있으나 급성 중이염의 유의미한 치유 촉진 여부에
-
-    대해서는 논란
+* 고막 절개에 의한 배농/배액이 증상 완화에 도움이 될 가능성이 있으나 급성 중이염의 유의미한 치유 촉진 여부에 대해서는 논란
 
 #### 대상
 
@@ -307,7 +294,7 @@ _<mark style="color:$info;">Ref. Clinical practice guideline: The diagnosis and 
 
 ### 고막튜브삽입술, 아데노이드절제술
 
-(☞ p.232)
+(☞ [고막튜브삽입술](048_-otitis-media.md#tympanostomy-tube-insertion),  [아데노이드절제술](048_-otitis-media.md#adenoidectomy))
 
 ## 추적 관리
 
@@ -398,7 +385,9 @@ H66.0 급성 화농성 중이염
 
 
 
-### ■ 삼출 중이염 Otitis Media with Effusion (OME)
+***
+
+## ■ 삼출 중이염 Otitis Media with Effusion (OME)
 
 ## 일반 사항
 
@@ -413,7 +402,7 @@ H66.0 급성 화농성 중이염
 
 * URI, 알레르기비염, AOM, 부비동 질환, adenoidal hypertrophy, 두경부 종양
   * AOM에 선행하거나 뒤에 발생할 수 있음; 중이염 치료 2주 후 60\~70%, 1개월 후 40%, 3개월 후 10\~25%에서 중이에 삼출액이 남아 있음
-* 영유아, 흡연 (☞ p.219)
+* 영유아, 흡연 (☞ [위험인자](048_-otitis-media.md#undefined-1))
 
 ## 임상 양상
 
@@ -435,8 +424,6 @@ H66.0 급성 화농성 중이염
     4. 조기 조치 대상자
 * 성인에서 지속되는 경우(특히 편측) 종양 등의 감별을 요함
 * 편측성으로 지속되는 경우 nasopharyngeal carcinoma 감별을 요함
-
-***
 
 ## Management
 
@@ -474,7 +461,7 @@ H66.0 급성 화농성 중이염
   * 전신 steroid : 단기간 동안 효과가 있으나 위험-이익에 대해서는 논란
   * 비내 steroid : 이관 기능 치료에 기여하지 못함
 * 항생제 : 단기적 효과만 있는 반면 내성균 발생 위험이 있어 일반적으로 권고하지 않음
-  * AOM 또는 세균성 상기도 감염이 동반된 경우 고려 (☞ p.223)
+  * AOM 또는 세균성 상기도 감염이 동반된 경우 고려 (☞ [AOM](048_-otitis-media.md#undefined-17))
 
 ### Autoinflation
 
@@ -568,7 +555,9 @@ graph TD
 
 <p align="center"><strong>삼출 중이염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. 대한이과학회. 유소아 중이염 진료지침. 2014.</mark></em></p>
 
-### ■ 만성 화농성 중이염 Chronic Suppurative Otitis Media
+***
+
+## ■ 만성 화농성 중이염 Chronic Suppurative Otitis Media
 
 ## 일반 사항
 
@@ -589,8 +578,6 @@ graph TD
 * 배양 검사, 항생제 감수성 검사 : 치료 실패(3주간의 적절한 국소 항생제 치료에 반응하지 않는 경우) 또는 항생제 내성 의심 시 고려
 * CT or MRI : 치료 실패 또는 합병증, cholesteatoma 의심 시 고려
 
-***
-
 ## Management
 
 ### 귀 청소
@@ -600,16 +587,15 @@ graph TD
 ### 국소 살균제 (antiseptics)
 
 * 국소 항생제와 동등 효과
-* 희석 acetic acid, boric acid±iodine powder, Al acetate, Burow’s solution (☞ p.215)
+* 희석 acetic acid, boric acid±iodine powder, Al acetate, Burow’s solution (☞ [외이염](047_-otitis-externa-oe.md#undefined-9))
 
 ### 국소 항생제
 
-(☞ p.215)
+(☞ [외이염](047_-otitis-externa-oe.md#undefined-9))
 
 * 전신 항생제보다 유효 ✽국소 항생제의 효과와 안전성이 불확실하다는 보고가 있음
-*   fluoroquinolone : 저자극, 이독성 없음, 고막 천공 시 사용 가능
-
-    •ciprofloxacin 0.3% [시프레닛](../%EB%B9%84%EB%B3%B4%ED%97%98/), ofloxacin 0.3% \[타리비드]; 보통 5 방울씩 tid ×2주
+* fluoroquinolone : 저자극, 이독성 없음, 고막 천공 시 사용 가능
+  * ciprofloxacin 0.3% \[시프레닛], ofloxacin 0.3% \[타리비드]; 보통 5 방울씩 tid ×2주
 * aminoglycoside : 이독성 있음, 10일 이상 지속 사용 금지, 고막 천공 시 사용 금지 (이용액 시판 제제는 없음)
 
 ### 경구 항생제
@@ -627,13 +613,13 @@ graph TD
 * 고막유양돌기절제술(tympanomastoidectomy) : 약물 치료 실패 시 고려
 * tympanoplasty : cholesteatoma가 없는 환자에서 CSOM 해결 후에도 고막 천공이 ＞6개월 지속되는 경우 고려
 
-### ■ 재발 중이염 Recurrent Otitis Media
+***
+
+## ■ 재발 중이염 Recurrent Otitis Media
 
 * ≥3회/6개월 또는 ≥4회/1년 발생하는 경우
 * 치료 후 수일 안에 다시 증상이 나타나면 재발로 판단
 * 이전의 불충분한 치료 또는 상기도 감염의 재발과 관련
-
-***
 
 ## Management
 
@@ -659,9 +645,9 @@ graph TD
 * 고막 튜브를 통하여 이루가 배출되며 통증은 없음
 * 필요시 이루에 대하여 배양 검사 시행(진균 검사 포함)
 * 외이 귀 청소 시행, 외부 오염(예: 물) 주의
-*   국소 항생제 : fluoroquinolone 점이액; 1차 선택제; ciprofloxacin [시프레닛](../%EB%B9%84%EB%B3%B4%ED%97%98/), ofloxacin \[타리비드];
+*   국소 항생제 : fluoroquinolone 점이액; 1차 선택제; ciprofloxacin \[시프레닛], ofloxacin \[타리비드];
 
-    간혹 dexamethasone 병용 \[실로덱스] (☞ p.215)
+    간혹 dexamethasone 병용 \[실로덱스] (☞ [외이염](047_-otitis-externa-oe.md#undefined-9))
 * 경구 항생제 : 점이액으로 호전되지 않는 경우 또는 전신 증상 동반 시 선택
 
 #### 부작용
@@ -682,7 +668,7 @@ graph TD
     •구강 안면 기형 : 하악 발달 이상, 치아 발달 이상, 발음 장애
 * 약물 치료로 해결되지 않는 재발성 비부비동염 또는 중이염
 
-✽편도 절제 ☞ p.301
+✽편도 절제 ☞ [편도염](../223_/064_-tonsillitis.md#undefined-12)
 
 
 
