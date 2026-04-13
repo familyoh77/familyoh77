@@ -196,6 +196,8 @@ graph TD
     J --> K
 ```
 
+<p align="center"><strong>외이염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. Goguen LA. External otitis: Treatment. UpToDate. 2017.</mark></em></p>
+
 ## 관리 및 예방
 
 * 건조 상태 유지 : 치료 중 및 치료 후 1\~2주 동안 유지
