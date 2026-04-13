@@ -16,7 +16,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 의뢰 — Necrotizing OE 의심**</mark>
+<mark style="color:$danger;">**즉각 의뢰**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- Necrotizing OE 의심</mark>
 
 * 당뇨·면역저하자에서 심한 이통 + 치료 무반응
 * 외이도 육아조직(granulation tissue), 뼈 노출
@@ -36,8 +36,6 @@
 * 2\~4주 내 회복되지 않는 경우 → 균 배양 검사 및 재평가
 * 진균 감염 의심(항생제 치료 실패, 흰 솜털 잔재물) → 항진균제로 전환
 
-***
-
 ## <mark style="color:green;">원인</mark>
 
 ### <mark style="color:orange;">원인균</mark>
@@ -54,15 +52,13 @@
 * 좁거나 구부러진 외이도 : 수분 정체
 * 만성 피부염 : 습진, 건선, 지루피부염, 접촉피부염
 * 이물 삽입 : 면봉, 보청기, 이어폰
-* **Necrotizing OE** 특이 위험 인자 : 당뇨병(특히 혈당 조절 불량), 고령(65세 이상), HIV 감염, 악성 종양, 면역억제제 사용, 방사선 치료 후
-
-***
+* Necrotizing OE 특이 위험 인자 : 당뇨병(특히 혈당 조절 불량), 고령(65세 이상), HIV 감염, 악성 종양, 면역억제제 사용, 방사선 치료 후
 
 ## <mark style="color:green;">임상 양상</mark>
 
 * 외이 발적·부종·충만감
-* **이통** : 특히 귓바퀴(pinna)를 당기거나, 이주(tragus)를 누르거나, 턱을 움직일 때 악화 — OE의 가장 특징적 소견
-* **가려움(소양증)** : 세균성 OE에서는 이통이 선행하지만, **진균성 OE에서는 소양증이 이통보다 훨씬 심하거나 먼저 나타나는 경우가 많다** — 세균성과의 중요한 임상 감별 포인트; 만성 OE·습진성 OE에서도 두드러짐
+* 이통 : 특히 귓바퀴(pinna)를 당기거나, 이주(tragus)를 누르거나, 턱을 움직일 때 악화 — OE의 가장 특징적 소견
+* 가려움(소양증) : 세균성 OE에서는 이통이 선행하지만, 진균성 OE에서는 소양증이 이통보다 훨씬 심하거나 먼저 나타나는 경우가 많다 - 세균성과의 중요한 임상 감별 포인트; 만성 OE·습진성 OE에서도 두드러짐
 * 외이 분비물 : 맑은 점액성 → 농성(악취)으로 변화; 습진 유발 가능
 * 흰색 솜털 부스러기 : 진균 감염 의심
 * 경미한 이명·청력 감소 : 외이도 폐쇄에 의한 전음성 난청
@@ -93,11 +89,9 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 * 귀지 제거 및 외이도 청소 : 약제 투여 전 선행하면 효과 증진
 * 세척 (과산화수소 + 온수) 또는 흡인 ; 흡인·세척보다 포셉/큐렛 등을 이용한 직접 제거가 안전
-* **debridement** : 진균 감염 시 필수적으로 선행 (국소 항진균제만으로는 효과 불충분)
-* **Ear wick(심지)** : 외이도가 심하게 부어 국소 약제 전달이 어려울 때 삽입; 2\~3일 후 자연 배출되거나 의사가 제거; hydrocellulose 또는 거즈 심지 사용
+* debridement : 진균 감염 시 필수적으로 선행 (국소 항진균제만으로는 효과 불충분)
+* Ear wick(심지) : 외이도가 심하게 부어 국소 약제 전달이 어려울 때 삽입; 2\~3일 후 자연 배출되거나 의사가 제거; hydrocellulose 또는 거즈 심지 사용
 * 만성 OE : 2주마다 정기 cleansing
-
-***
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -111,7 +105,7 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 **항히스타민제** (소양증 주 증상 시)
 
-☞ [항히스타민제](/broken/pages/f6485a975ffa18198c77b45ed3da5abeec95d5ff)
+☞ [항히스타민제](../231_/212_-antihistamines.md)
 
 ### <mark style="color:orange;">2% Acetic Acid 국소제</mark>
 
@@ -136,18 +130,18 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 4. 귓바퀴를 부드럽게 움직여 용액이 외이도 깊이 들어가도록 한다.
 5. 3\~5분간 누운 자세를 유지한 후 일어나 흘러나오는 용액을 닦는다.
 
-> **✽ 치료 시작 48\~72시간 내 호전 없으면 재평가 필요** (AAO-HNSF 강력 권고)
+✽ 치료 시작 48\~72시간 내 호전 없으면 재평가 필요 (AAO-HNSF 강력 권고)
 
-#### <mark style="color:$primary;">Fluoroquinolone계 ★1차 선택</mark>
+#### <mark style="color:$primary;">Fluoroquinolone계 (1차 선택)</mark>
 
 * _P. aeruginos&#x61;_&#xC5D0; 대해 다른 국소 항균제보다 우수한 효과
-* **저자극, 이독성 없음; 고막 천공 시에도 사용 가능** (FDA 승인 유일)
+* 저자극, 이독성 없음; 고막 천공 시에도 사용 가능 (FDA 승인 유일)
 * ofloxacin 0.3% : 10 drops qd × 7d <mark style="color:blue;">\[타리비드]</mark>
 * ciprofloxacin 0.3% : 10 drops qd × 7d <mark style="color:blue;">\[시프레닛]</mark> (비보험)
 
 #### <mark style="color:$primary;">Aminoglycoside계</mark>
 
-* **이독성 있음; 10일 이상 연속 사용 금지; 고막 천공 시 절대 금기**
+* 이독성 있음; 10일 이상 연속 사용 금지; 고막 천공 시 절대 금기
 * ✽시판 점이용 제제 없음 — 점안액 차용 (보험 주의)
 * gentamicin 0.3% <mark style="color:blue;">\[오큐겐타]</mark>, tobramycin 0.3% <mark style="color:blue;">\[토브라]</mark>, neomycin
 
@@ -157,13 +151,13 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 * ciprofloxacin 0.3%/dexamethasone 0.1% 4 drops bid × 7d <mark style="color:blue;">\[실로덱스]</mark>
 * ciprofloxacin 0.3%/fluocinolone 0.025% 4 drops tid × 7d <mark style="color:blue;">\[세트락살 플러스]</mark>
 * ciprofloxacin 0.2%/hydrocortisone 1% 4 drops bid × 7d <mark style="color:blue;">\[싸이록사신]</mark>
-* neomycin/polymyxin-B/hydrocortisone 4 drops qid × 7d — **고막 천공 시 금기**
+* neomycin/polymyxin-B/hydrocortisone 4 drops qid × 7d - 고막 천공 시 금기
 
-> ⚠️ **고막 천공 확인 불가 시 원칙** : 고막 상태를 확인할 수 없거나 천공이 의심되는 경우, aminoglycoside 계열 및 neomycin/polymyxin-B 함유 제제는 절대 사용하지 않는다. **고막 확인이 어려운 모든 상황에서는 무조건 fluoroquinolone 단일제(ofloxacin 또는 ciprofloxacin)를 사용한다.** Fluoroquinolone은 고막 천공 상태에서도 이독성이 없으며 FDA 승인을 받은 유일한 계열이다.
+> ⚠️ **고막 천공 확인 불가 시 원칙** : 고막 상태를 확인할 수 없거나 천공이 의심되는 경우, aminoglycoside 계열 및 neomycin/polymyxin-B 함유 제제는 절대 사용하지 않는다. 고막 확인이 어려운 모든 상황에서는 fluoroquinolone 단일제(ofloxacin 또는 ciprofloxacin)를 사용한다. Fluoroquinolone은 고막 천공 상태에서도 이독성이 없으며 FDA 승인을 받은 유일한 계열이다.
 
 ### <mark style="color:orange;">전신 항생제</mark>
 
-> **단순 미합병 OE에 전신 항생제는 원칙적으로 사용하지 않는다** — 효과가 국소 치료보다 열등하고 내성 증가 및 재발·지속을 초래할 수 있음 (AAO-HNSF, AAFP 2023 가이드라인)
+> 단순 미합병 OE에 전신 항생제는 원칙적으로 사용하지 않는다 - 효과가 국소 치료보다 열등하고 내성 증가 및 재발·지속을 초래할 수 있음 (AAO-HNSF, AAFP 2023 가이드라인)
 
 **적응증** (아래 중 하나 이상 해당 시)
 
@@ -173,16 +167,16 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 **처방 및 단계별 선택**
 
-* **1단계 — 경구** : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> — _P. aeruginosa_ 커버; 합병증 없는 연조직 확장 시 1차
+* **1단계** - 경구 : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> — _P. aeruginosa_ 커버; 합병증 없는 연조직 확장 시 1차
 * **보조** : cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> — _S. aureus_ (Furunculosis) 의심 시; 그람(-) 커버 불충분하므로 단독 사용 주의
-* **2단계 — 고용량 경구 또는 IV 전환 기준** : 아래 중 하나라도 해당 시 즉시 이비인후과 의뢰 + 입원 고려
+* **2단계** - 고용량 경구 또는 IV 전환 기준 : 아래 중 하나라도 해당 시 즉시 이비인후과 의뢰 + 입원 고려
   * 경구 ciprofloxacin 48\~72시간 무반응
   * 당뇨 환자에서 혈당 조절 불량(HbA1c ≥9% 또는 입원 중 고혈당) + 골수염 의심
   * Necrotizing OE 확인 또는 의심 : IV ciprofloxacin 또는 IV piperacillin/tazobactam으로 전환; 치료 기간은 보통 6주 이상(골수염 해소 영상 확인까지)
 
 ### <mark style="color:orange;">항진균제</mark>
 
-> 진균 OE에서 **국소 항균(항생제) 점이용제는 금기** — 효과 없고 진균 증식을 촉진할 수 있음
+* 진균 OE에서 국소 항균(항생제) 점이용제는 금기 - 효과 없고 진균 증식을 촉진할 수 있음
 
 **국소** (1차)
 
@@ -201,15 +195,15 @@ graph TD
     START["📋 외이염 의심 환자"] --> CLEAN["① 외이도 Cleansing / Debridement<br/><i>(약물 투여 전 필수 선행 — 분비물·귀지 제거 후 약제 효과 극대화)</i>"]
     CLEAN --> A
 
-    A{면역저하 / 당뇨 여부} -- "예(고위험군)" --> B["• 국소 항균/steroid 복합제 × 7~14일<br/>• 경구 quinolone × 7~10일<br/>• Ear wick 고려<br/>• Necrotizing OE 배제(bone CT)<br/>• 48~72h 무반응 시 → IV 전환·의뢰"]
+    A[면역저하 / 당뇨 여부] -- "예(고위험군)" --> B["• 국소 항균/steroid 복합제 × 7~14일<br/>• 경구 quinolone × 7~10일<br/>• Ear wick 고려<br/>• Necrotizing OE 배제(bone CT)<br/>• 48~72h 무반응 시 → IV 전환·의뢰"]
     
-    A -- "아니오" --> C{증상 수준}
+    A -- "아니오" --> C[증상 수준]
 
     C -- "경증<br/>(경미한 불편·소양증,<br/>외이도 부종 경미)" --> D["2% acetic acid 이용액<br/>± 국소 steroid<br/>× 5~7d"]
     
     C -- "중등증<br/>(중등도 통증·소양증,<br/>외이도 부분 폐쇄)" --> E["국소 항균/steroid 복합제<br/>× 7d"]
     
-    C -- "중증<br/>(심한 통증, 외이도 완전폐쇄,<br/>발열·주변 발적·림프절병증)" --> F{외이 밖으로 염증 확장}
+    C -- "중증<br/>(심한 통증, 외이도 완전폐쇄,<br/>발열·주변 발적·림프절병증)" --> F[외이 밖으로 염증 확장]
     
     F -- "예" --> G["• 국소 항균/steroid 복합제 × 7~14일<br/>• 경구 quinolone × 7~10일<br/>• Ear wick 필요 시"]
     F -- "아니오" --> H["• 국소 항균/steroid 복합제 × 7~14일<br/>• Ear wick 삽입"]
@@ -227,12 +221,12 @@ graph TD
 
 ## <mark style="color:green;">관리 및 예방</mark>
 
-* **건조 유지** : 치료 중 및 치료 완료 후 1\~2주간 외이도 건조 상태 유지
-* **물 접촉 회피** : 일반적인 세발 등은 치료 2\~3일 후, 수영은 4\~5일 후 재개; 수영/목욕 시 귀마개 또는 petroleum jelly를 묻힌 솜 사용
-* **수영·목욕 후 관리** : 헤어드라이어로 건조(낮은 온도·거리 유지) + 다음 중 택1 점이 : 2% acetic acid, 소독용 알코올 ½ 희석, 식초 ½ 희석, 또는 알코올:식초:증류수=2:1:1 혼합액 3\~4 drops
-* **귀지 자가 제거 제한** : 면봉 삽입 금지; 귀지는 자연 배출되도록 두는 것이 원칙
-* **보청기·귀마개 관리** : 보청기는 건조제(건조함)로 관리, 귀마개는 사용 후 알코올로 닦음
-* **잦은 비누 세척 피함** : 알칼리화로 균 저항력 저하
+* 건조 유지 : 치료 중 및 치료 완료 후 1\~2주간 외이도 건조 상태 유지
+* 물 접촉 회피 : 일반적인 세발 등은 치료 2\~3일 후, 수영은 4\~5일 후 재개; 수영/목욕 시 귀마개 또는 petroleum jelly를 묻힌 솜 사용
+* 수영·목욕 후 관리 : 헤어드라이어로 건조(낮은 온도·거리 유지) + 다음 중 택1 점이 : 2% acetic acid, 소독용 알코올 ½ 희석, 식초 ½ 희석, 또는 알코올:식초:증류수=2:1:1 혼합액 3\~4 drops
+* 귀지 자가 제거 제한 : 면봉 삽입 금지; 귀지는 자연 배출되도록 두는 것이 원칙
+* 보청기·귀마개 관리 : 보청기는 건조제(건조함)로 관리, 귀마개는 사용 후 알코올로 닦음
+* 잦은 비누 세척 피함 : 알칼리화로 균 저항력 저하
 * 만성 재발성 OE : 2\~3주마다 외래 청소
 
 ***
