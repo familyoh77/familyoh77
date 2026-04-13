@@ -148,7 +148,7 @@ graph TD
 
 ### 중이 이루의 감별
 
-<table><thead><tr><th width="120">원인</th><th>진단적 단서</th><th>치료</th></tr></thead><tbody><tr><td>급성 중이염, 천공(+)</td><td>화농성 분비물; 이전에 상기도 감염력; 발생 전 통증</td><td>항생제 이용액(☞ <a href="047_-otitis-externa-oe.md#undefined-9">외이염</a>); 귀 청결, 귀 건조 유지</td></tr><tr><td>만성 중이염, 천공(+)</td><td>화농성 분비물; 고막 천공력; 고막 뒤 흰색 또는 진주색 덩어리; 이전 항생제 치료에 반응 안 함; 폴립</td><td>항생제 이용액; 청력 평가; bone CT; 이전 항생제 치료에 반응 없었으면 분비물 배양 검사</td></tr><tr><td>외상 (☞ <a href="049_-ear-injury.md#traumatic-tm-perforation">귀손상</a>)</td><td>혈성 또는 지속되는 맑은 분비물; 두부 또는 귀 외상력; 안면 신경 악화</td><td>항생제 이용액; 청력 검사; bone CT</td></tr><tr><td>중이 결핵</td><td>냄새가 없는 묽은 만성 분비물; 결핵 감염력, 결핵 검사 양성; 이전 항생제 치료에 반응 없음</td><td>결핵 검사 및 치료 (☞ <a href="../223_/070_-tuberculosis.md">결핵</a>)</td></tr><tr><td>종양</td><td>편측 박동성 이명; 종괴; 폴립</td><td>청력 평가; bone CT</td></tr></tbody></table>
+<table><thead><tr><th width="120">원인</th><th>진단적 단서</th><th>치료</th></tr></thead><tbody><tr><td>급성 중이염, 천공(+)</td><td>화농성 분비물; 이전에 상기도 감염력; 발생 전 통증</td><td>항생제 이용액(☞ <a href="/broken/pages/TSjaBnwzBTqs1CHNskWq#undefined-9">외이염</a>); 귀 청결, 귀 건조 유지</td></tr><tr><td>만성 중이염, 천공(+)</td><td>화농성 분비물; 고막 천공력; 고막 뒤 흰색 또는 진주색 덩어리; 이전 항생제 치료에 반응 안 함; 폴립</td><td>항생제 이용액; 청력 평가; bone CT; 이전 항생제 치료에 반응 없었으면 분비물 배양 검사</td></tr><tr><td>외상 (☞ <a href="049_-ear-injury.md#traumatic-tm-perforation">귀손상</a>)</td><td>혈성 또는 지속되는 맑은 분비물; 두부 또는 귀 외상력; 안면 신경 악화</td><td>항생제 이용액; 청력 검사; bone CT</td></tr><tr><td>중이 결핵</td><td>냄새가 없는 묽은 만성 분비물; 결핵 감염력, 결핵 검사 양성; 이전 항생제 치료에 반응 없음</td><td>결핵 검사 및 치료 (☞ <a href="../223_/070_-tuberculosis.md">결핵</a>)</td></tr><tr><td>종양</td><td>편측 박동성 이명; 종괴; 폴립</td><td>청력 평가; bone CT</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. eTable 18-7.</mark></em></p>
 
@@ -587,11 +587,11 @@ graph TD
 ### 국소 살균제 (antiseptics)
 
 * 국소 항생제와 동등 효과
-* 희석 acetic acid, boric acid±iodine powder, Al acetate, Burow’s solution (☞ [외이염](047_-otitis-externa-oe.md#undefined-9))
+* 희석 acetic acid, boric acid±iodine powder, Al acetate, Burow’s solution (☞ [외이염](/broken/pages/TSjaBnwzBTqs1CHNskWq#undefined-9))
 
 ### 국소 항생제
 
-(☞ [외이염](047_-otitis-externa-oe.md#undefined-9))
+(☞ [외이염](/broken/pages/TSjaBnwzBTqs1CHNskWq#undefined-9))
 
 * 전신 항생제보다 유효 ✽국소 항생제의 효과와 안전성이 불확실하다는 보고가 있음
 * fluoroquinolone : 저자극, 이독성 없음, 고막 천공 시 사용 가능
@@ -647,7 +647,7 @@ graph TD
 * 외이 귀 청소 시행, 외부 오염(예: 물) 주의
 *   국소 항생제 : fluoroquinolone 점이액; 1차 선택제; ciprofloxacin \[시프레닛], ofloxacin \[타리비드];
 
-    간혹 dexamethasone 병용 \[실로덱스] (☞ [외이염](047_-otitis-externa-oe.md#undefined-9))
+    간혹 dexamethasone 병용 \[실로덱스] (☞ [외이염](/broken/pages/TSjaBnwzBTqs1CHNskWq#undefined-9))
 * 경구 항생제 : 점이액으로 호전되지 않는 경우 또는 전신 증상 동반 시 선택
 
 #### 부작용
