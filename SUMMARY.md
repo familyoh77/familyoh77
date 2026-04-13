@@ -14,7 +14,7 @@
   * [딸꾹질 Hiccups, Singultus](220_/010_-hiccups-singultus.md)
   * [발열 Fever](220_/011_-fever.md)
   * [부종 Edema](220_/012_-edema.md)
-  * [체중 감소 Weight loss](220_/weight-loss.md)
+  * [체중 감소 Weight loss](220_/013_-weight-loss.md)
   * [피로 Fatigue](220_/014_-fatigue.md)
 * [Part 2. 신경정신 질환](221_/README.md)
   * [두통 Headache](221_/015_-headache.md)
