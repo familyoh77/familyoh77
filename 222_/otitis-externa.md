@@ -1,4 +1,4 @@
-# 외이염 Otitis Externa, OE
+# 외이도염 Otitis Externa
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -36,14 +36,14 @@
 * 2\~4주 내 회복되지 않는 경우 → 균 배양 검사 및 재평가
 * 진균 감염 의심(항생제 치료 실패, 흰 솜털 잔재물) → 항진균제로 전환
 
----
+***
 
 ## <mark style="color:green;">원인</mark>
 
 ### <mark style="color:orange;">원인균</mark>
 
-* **세균** (98%) : *P. aeruginosa* (가장 흔함), *S. aureus* (특히 농양·Furunculosis), 그람(-) 막대균
-* **진균** (약 10%) : *Aspergillus niger* (외이도 내 흑색 점박이 흰 덩어리), *Candida* ; 항생제 남용 후 빈발
+* **세균** (98%) : _P. aeruginosa_ (가장 흔함), _S. aureus_ (특히 농양·Furunculosis), 그람(-) 막대균
+* **진균** (약 10%) : _Aspergillus niger_ (외이도 내 흑색 점박이 흰 덩어리), _Candida_ ; 항생제 남용 후 빈발
 * **바이러스** : Herpes zoster oticus (Ramsay Hunt 증후군) - 외이·귓바퀴 수포, 안면신경 마비 동반 시 고려
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -56,7 +56,7 @@
 * 이물 삽입 : 면봉, 보청기, 이어폰
 * **Necrotizing OE** 특이 위험 인자 : 당뇨병(특히 혈당 조절 불량), 고령(65세 이상), HIV 감염, 악성 종양, 면역억제제 사용, 방사선 치료 후
 
----
+***
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -77,7 +77,7 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 귀 자체 이상 없이 귀 통증이 발생하는 경우 감별 : 치아/턱관절(TMJ), 인두·편도, 부비동, 이하선, 갑상선, 경추, 삼차신경통, 대상포진(Ramsay Hunt 증후군)
 
----
+***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -97,7 +97,7 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 * **Ear wick(심지)** : 외이도가 심하게 부어 국소 약제 전달이 어려울 때 삽입; 2\~3일 후 자연 배출되거나 의사가 제거; hydrocellulose 또는 거즈 심지 사용
 * 만성 OE : 2주마다 정기 cleansing
 
----
+***
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -111,7 +111,7 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 **항히스타민제** (소양증 주 증상 시)
 
-☞ [항히스타민제](../231_/212_-antihistamines.md)
+☞ [항히스타민제](/broken/pages/18d001ad87ccba7c3659fa71e679c179ebf5b101)
 
 ### <mark style="color:orange;">2% Acetic Acid 국소제</mark>
 
@@ -140,7 +140,7 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 #### <mark style="color:$primary;">Fluoroquinolone계 ★1차 선택</mark>
 
-* *P. aeruginosa*에 대해 다른 국소 항균제보다 우수한 효과
+* _P. aeruginos&#x61;_&#xC5D0; 대해 다른 국소 항균제보다 우수한 효과
 * **저자극, 이독성 없음; 고막 천공 시에도 사용 가능** (FDA 승인 유일)
 * ofloxacin 0.3% : 10 drops qd × 7d <mark style="color:blue;">\[타리비드]</mark>
 * ciprofloxacin 0.3% : 10 drops qd × 7d <mark style="color:blue;">\[시프레닛]</mark> (비보험)
@@ -173,8 +173,8 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 **처방 및 단계별 선택**
 
-* **1단계 — 경구** : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> — *P. aeruginosa* 커버; 합병증 없는 연조직 확장 시 1차
-* **보조** : cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> — *S. aureus* (Furunculosis) 의심 시; 그람(-) 커버 불충분하므로 단독 사용 주의
+* **1단계 — 경구** : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> — _P. aeruginosa_ 커버; 합병증 없는 연조직 확장 시 1차
+* **보조** : cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> — _S. aureus_ (Furunculosis) 의심 시; 그람(-) 커버 불충분하므로 단독 사용 주의
 * **2단계 — 고용량 경구 또는 IV 전환 기준** : 아래 중 하나라도 해당 시 즉시 이비인후과 의뢰 + 입원 고려
   * 경구 ciprofloxacin 48\~72시간 무반응
   * 당뇨 환자에서 혈당 조절 불량(HbA1c ≥9% 또는 입원 중 고혈당) + 골수염 의심
@@ -192,9 +192,9 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 **경구** (중증·재발성·국소 치료 실패 시)
 
-* itraconazole 200 ㎎ qd × 1주 <mark style="color:blue;">\[스포라녹스]</mark> ☞ [백선증](../229_/173_-onychomycosis-tinea-unguium.md#undefined-10)
+* itraconazole 200 ㎎ qd × 1주 <mark style="color:blue;">\[스포라녹스]</mark> ☞ [백선증](/broken/pages/9d51663bd38c0fcfb9cd9e3d03f0acea9efa9bc1#undefined-10)
 
----
+***
 
 ```mermaid
 graph TD
@@ -223,7 +223,7 @@ graph TD
 
 <p align="center"><strong>외이염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. AAO-HNSF Clinical Practice Guideline: Acute OE (Updated). Otolaryngol Head Neck Surg. 2014; AAFP Am Fam Physician 2023;107(2):145-151.</mark></em></p>
 
----
+***
 
 ## <mark style="color:green;">관리 및 예방</mark>
 
@@ -235,7 +235,7 @@ graph TD
 * **잦은 비누 세척 피함** : 알칼리화로 균 저항력 저하
 * 만성 재발성 OE : 2\~3주마다 외래 청소
 
----
+***
 
 ### <mark style="color:red;">질병코드</mark>
 
@@ -247,7 +247,7 @@ H60.3 만성 외이염
 
 H60.8 기타 외이염 (진균성, 습진성 등)
 
----
+***
 
 ## <mark style="color:purple;">처방례</mark>
 
@@ -296,7 +296,7 @@ H60.8 기타 외이염 (진균성, 습진성 등)
 >
 > _✽발열·봉소염·림프절병증 동반 시 해당. ciprofloxacin 전신 투여로 P. aeruginosa 커버. 48\~72시간 내 호전 없으면 즉시 이비인후과 의뢰 및 CT_
 
----
+***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
@@ -330,7 +330,7 @@ H60.8 기타 외이염 (진균성, 습진성 등)
 > * 안면 마비, 삼킴 곤란, 쉰 목소리 등 **새로운 신경 증상이 생기는** 경우 (즉시 응급실)
 > * 당뇨·면역저하 환자에서 외이염이 치료 후에도 **회복되지 않는** 경우
 
----
+***
 
 ### <mark style="color:blue;">환자 안내서</mark>
 
