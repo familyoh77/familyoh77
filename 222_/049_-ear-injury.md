@@ -183,6 +183,48 @@ graph TD
 * 어지럼증, 구역·구토가 동반될 때
 * 살아있는 벌레가 들어가 심한 통증·소음이 느껴질 때 (억지로 빼려 하지 말고 즉시 내원)
 
+
+
+```mermaid
+graph TD
+    Start[이외도 이물 Foreign Body 확인] --> RedFlags{즉시 의뢰 상황인가?}
+    
+    RedFlags -- "Yes (위험)" --> Refer[이비인후과/응급실 즉시 의뢰]
+    
+    RedFlags -- "No" --> FBType{이물의 종류}
+
+    %% Red Flags 상세 가이드
+    subgraph Danger_Signs [즉시 의뢰 기준]
+    R1[버튼형 건전지: 화학적 화상 위험]
+    R2[고막 손상 또는 천공 의심 소견]
+    R3[심한 통증/출혈/외이도 부종]
+    R4[이전 제거 시도 실패/비협조 소아]
+    end
+
+    RedFlags -.-> Danger_Signs
+
+    %% 이물 종류별 처치
+    FBType -- "곤충 (살아있음)" --> Insect[곤충 사멸 후 제거 시도]
+    FBType -- "수용성/식물성 (콩/씨앗)" --> Vegetable[세척액 사용 절대 금지]
+    FBType -- "기타 (구슬/장난감)" --> General[적절한 기구 선택]
+
+    Insect --> Attempt{제거 용이성 평가}
+    Vegetable --> Attempt
+    General --> Attempt
+
+    Attempt -- "가시성 좋음" --> Procedure[1~2회 내 조심스럽게 시도]
+    Attempt -- "깊은 위치/비협조" --> Refer
+
+    Procedure --> Success{제거 성공?}
+    Success -- "No" --> Refer
+    Success -- "Yes" --> FollowUp[외이도 및 고막 확인 후 귀가]
+
+    %% 스타일 정의
+    style RedFlags fill:#ffe6e6,stroke:#ff0000,stroke-width:2px
+    style Refer fill:#f96,stroke:#333,stroke-width:2px
+    style Danger_Signs fill:#fffcfc,stroke:#ddd
+```
+
 ***
 
 ## ■ 외상성 고막 천공 Traumatic TM Perforation
