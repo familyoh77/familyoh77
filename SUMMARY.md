@@ -23,7 +23,7 @@
   * [만성 두통 Chronic Headache](221_/018_-chronic-headache.md)
   * [경부인성두통 Cervicogenic headache](221_/019_-cervicogenic-headache.md)
   * [어지럼증 Dizziness](221_/020_-dizziness.md)
-  * [실신 Syncope](221_/021_syncope.md)
+  * [실신 Syncope](221_/021_-syncope.md)
   * [반사성 실신 Reflex Syncope, Neurally mediated Syncope](221_/022_-reflex-syncope-neurally-mediated-syncope.md)
   * [일과성 뇌허혈발작 Transient Ischemic Attack, TIA](221_/023_-transient-ischemic-attack-tia.md)
   * [멀미 Motion Sickness](221_/024_-motion-sickness.md)
