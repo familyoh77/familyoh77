@@ -5,9 +5,9 @@
 * 중이 점막의 염증; 보통 fluid collection 동반
 * 소아에서 항생제 사용 및 난청의 가장 흔한 원인
 * 빈도 : 3세까지 ≥80%의 소아가 ≥1회 경험; 24개월 이후 나이가 들수록 감소; 성인에서는 드묾
-* **삼출 중이염 (OME)** : 급성 염증 소견 없이 중이 내 삼출액이 있는 상태
-* **재발 중이염** : ≥3회/6개월 또는 ≥4회/1년 발생
-* **만성 화농성 중이염 (CSOM)** : >3개월(WHO 기준 >2주) 지속 또는 반복 발생
+* 삼출 중이염 (OME) : 급성 염증 소견 없이 중이 내 삼출액이 있는 상태
+* 재발 중이염 : ≥3회/6개월 또는 ≥4회/1년 발생
+* 만성 화농성 중이염 (CSOM) : >3개월(WHO 기준 >2주) 지속 또는 반복 발생
 * 치료 저해 요인 : 항생제 내성균, 불량한 순응도, 바이러스 동반 감염, 이관 기능 부전, 재감염, 면역 저하
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -17,27 +17,27 @@
 * 면역 저하, 악안면 기형, 이관(Eustachian tube) 기능 부전
 * 낮은 사회경제적 상태
 * 겨울철 : 호흡기 바이러스 활동과 관련
-* 6개월\~2세 : 발생 빈도 가장 높은 연령 — 낮은 면역 기능, 비인두 림프 조직 풍부, 짧고 수평인 E-tube, 누워서 자는 시간 많음
+* 6개월\~2세 : 발생 빈도 가장 높은 연령 - 낮은 면역 기능, 비인두 림프 조직 풍부, 짧고 수평인 E-tube, 누워서 자는 시간 많음
 * 보육 시설 이용 : 가정 보육아 대비 2\~3배 높은 발생률
 * 남아, 유전, 가족력
 * 조산(<37주), 저체중 출산(<2.5 ㎏), 모유 수유 부족
 
-### <mark style="color:orange;">예방 — 백신</mark>
+### <mark style="color:orange;">예방 / 백신</mark>
 
-* **폐렴구균 백신** : 현재 국내 표준은 **PCV13(13가)**; PCV15(2023년 국내 소아 허가)로 점차 전환 중 (☞ [예방접종](../231_/210_-vaccination.md#pneumococcal-pneumonia))
-  * AOM 예방 효과 : 고위험군 소아 5\~6%, 저위험군 소아 6% 감소 (PCV7 기준 연구 수치; 현재 백신과 직접 비교 불가 — 참고치로만 활용)
+* 폐렴구균 백신 : 현재 국내 표준은 PCV13(13가)이며, PCV15로 전환 중 (☞ [예방접종](../231_/210_-vaccination.md#pneumococcal-pneumonia))
+  * AOM 예방 효과 : 고위험군 소아 5\~6%, 저위험군 소아 6% 감소 (PCV7 기준 연구 수치로 현재 백신과 직접 비교 불가, 참고치로만 활용)
   * PCV20(성인 허가) : 추가 혈청형 커버로 AOM 예방 기여 기대되나 소아 AOM 특이 데이터는 아직 제한적
-* **인플루엔자 백신** : 호흡기 질환 시즌 동안 AOM 30\~55% 감소
-* **기타** : xylitol 껌(하루 5회 사용 시 재발성 AOM 예방 기대; 간헐적 사용은 효과 없음), Vit D 보충(혈중 >30 ng/㎖ 유지 시 재발 감소 보고 있음)
-* **예방적 항생제** : 내성균 발생 우려 크고 효과 미약 — 권고하지 않음
+* 인플루엔자 백신 : 호흡기 질환 시즌 동안 AOM 30\~55% 감소
+* 기타 : xylitol 껌(하루 5회 사용 시 재발성 AOM 예방 기대; 간헐적 사용은 효과 없음), Vit D 보충(혈중 >30 ng/㎖ 유지 시 재발 감소 보고 있음)
+* 예방적 항생제 : 내성균 발생 우려 크고 효과 미약 - 권고하지 않음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 의뢰**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 두개 내 합병증 의심</mark>
+<mark style="color:$danger;">**즉각 의뢰**</mark> <mark style="color:$danger;">- 두개 내 합병증 의심</mark>
 
 * 두개 내 합병증 발생 또는 의심 : 골막하 농양, 경막외/하 농양
 * 자발 안진(spontaneous nystagmus) 동반 : 내이염(labyrinthitis) 또는 미로 침범 의심
-* 안면 마비(facial nerve palsy) : 즉시 CT/MRI + 이비인후과 의뢰
+* 안면 마비(facial nerve palsy) : 즉시 CT/MRI + 의뢰
 * 두통, 고열, 구토, 의식 변화 : 뇌막염·뇌농양 배제 필요
 
 <mark style="color:$warning;">**당일 또는 조기 재평가·의뢰**</mark>
@@ -50,7 +50,7 @@
 <mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
 * OME 진단 시 3개월 후 청력 및 고막 상태 재평가
-* 편측으로 지속되는 이루 또는 청력 저하 — nasopharyngeal carcinoma 감별 (성인)
+* 편측으로 지속되는 이루 또는 청력 저하 - nasopharyngeal carcinoma 감별 (성인)
 
 ## <mark style="color:green;">증상/병력에 따른 귀 문제의 감별</mark>
 
@@ -68,28 +68,26 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* **바이러스** : rhinovirus, RSV; 중이염 감염의 15\~44% 차지
-* **세균** : _S. pneumoniae_, _H. influenzae_, _M. catarrhalis_
+* 바이러스 : rhinovirus, RSV; 중이염 감염의 15\~44% 차지
+* 세균 : _S. pneumoniae_, _H. influenzae_, _M. catarrhalis_
   * 세균·바이러스 중복 감염(\~70%) 또는 세균 중복 감염(\~50%)이 흔함
-* **무균성**
+* 무균성
 
 ## <mark style="color:green;">임상 양상</mark>
 
 * 귀 증상 : 보통 편측 발생; 통증(보챔, 귀를 만짐), 전음성 청력 저하, 이명, 유양돌기 압통
 * 고막 소견 : 팽륜, 운동성 감소, 발적, 혼탁, 색깔 변화(흰색·노란색·호박색), air-fluid level, ossicular landmark 소실
-  * 고막 발적 : 고열·울음에 의한 홍조와 구별 필요; 발적보다 **팽륜**이 진단에 더 신뢰할 만함
+  * 고막 발적 : 고열·울음에 의한 홍조와 구별 필요; 발적보다 팽륜이 진단에 더 신뢰할 만함
   * 고막 팽륜 : 수일 후 감소; 고막 파열로 이어질 수 있음
 * 고막 파열 시 : 갑자기 통증 감소 + 이루 시작; 대부분 자연 치유, 지속 시 만성 중이염 발생 가능
 * 귀 외 증상 : 발열, 어지럼, 식욕 저하, 구역, 구토, 설사
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">급성 중이염 진단 기준 (대한이과학회)</mark>
+#### <mark style="color:$primary;">급성 중이염 진단 기준</mark>&#x20;
 
-| | 주관적 증상 | 객관적 징후 |
-|---|---|---|
-| **확진** | 모두 만족 | ≥1개 |
-| **의증** | 모두 만족 | 불명확 |
+* 확진: 주관적 증상이 있고 객관적 징후가 ≥1개 있는 경우
+* 의증: 주관적 증상은 있으나 객관적 징후가 분명치 않은 경우 \[대한이과학회]
 
 **주관적 증상**
 
@@ -102,14 +100,14 @@
 * 고막 소견 : 팽륜, 수포, 발적, 중이 삼출액, 이루 동반 천공
 * 고막운동성계측(tympanometry) : B형 또는 C형
 
-### <mark style="color:orange;">중증 급성 중이염 진단 기준</mark>
+#### <mark style="color:$primary;">중증 급성 중이염 진단 기준</mark>
 
 의사가 환아를 관찰한 시점 이후 24시간 이내에 다음 중 ≥1개 관찰
 
 1. 심한 이통 또는 보챔
 2. ≥38.5℃ (미국 지침 ≥39℃)
 
-### <mark style="color:orange;">감별</mark>
+#### <mark style="color:$primary;">감별</mark>
 
 * 유양돌기염 : 귀 뒤의 통증/압통, 두통 동반
 * Temporomandibular joint disorder : 입 벌릴 때 통증/소리, 씹을 때 심해지는 통증, 귓바퀴 앞 통증
@@ -117,7 +115,7 @@
 * 치아 문제 : 이환된 쪽 상악 치아 통증
 * Barotrauma : 비행기 탑승, 잠수 경력 (☞ [귀 손상](049_-ear-injury.md#ear-barotrauma))
 
-### <mark style="color:orange;">AOM·OME 감별 진단 흐름도</mark>
+#### <mark style="color:$primary;">AOM·OME 감별 진단 흐름도</mark>
 
 ```mermaid
 graph TD
@@ -149,31 +147,31 @@ graph TD
 
 <p align="center"><strong>급성 중이염 및 삼출 중이염의 감별</strong><br><em><mark style="color:$info;">Ref. Kerschner JE, Preciado D. Otitis Media. Fig 640-1. In: Nelson Textbook of Pediatrics, 20th ed. 2016.</mark></em></p>
 
-### <mark style="color:orange;">중이 이루의 감별</mark>
+#### <mark style="color:$primary;">중이 이루의 감별</mark>
 
-<table><thead><tr><th width="120">원인</th><th>진단적 단서</th><th>치료</th></tr></thead><tbody><tr><td>급성 중이염, 천공(+)</td><td>화농성 분비물; 선행 상기도 감염력; 발생 전 통증</td><td>항생제 이용액(☞ <a href="047_-otitis-externa.md#undefined-7">외이염</a>); 귀 청결 및 건조 유지</td></tr><tr><td>만성 중이염, 천공(+)</td><td>화농성 분비물; 고막 천공력; 고막 뒤 흰색·진주색 덩어리; 이전 항생제 치료에 반응 없음; 폴립</td><td>항생제 이용액; 청력 평가; bone CT; 이전 항생제 반응 없으면 배양 검사</td></tr><tr><td>외상 (☞ <a href="049_-ear-injury.md#traumatic-tm-perforation">귀손상</a>)</td><td>혈성 또는 지속되는 맑은 분비물; 두부·귀 외상력; 안면 신경 악화</td><td>항생제 이용액; 청력 검사; bone CT</td></tr><tr><td>중이 결핵</td><td>냄새 없는 묽은 만성 분비물; 결핵 감염력; 이전 항생제 치료에 반응 없음</td><td>결핵 검사 및 치료 (☞ <a href="../223_/070_-tuberculosis.md">결핵</a>)</td></tr><tr><td>종양</td><td>편측 박동성 이명; 종괴; 폴립</td><td>청력 평가; bone CT; 이비인후과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="120">원인</th><th>진단적 단서</th><th>치료</th></tr></thead><tbody><tr><td>급성 중이염, 천공(+)</td><td>화농성 분비물; 선행 상기도 감염력; 발생 전 통증</td><td>항생제 이용액(☞ <a href="047_-otitis-externa.md#undefined-7">외이염</a>); 귀 청결 및 건조 유지</td></tr><tr><td>만성 중이염, 천공(+)</td><td>화농성 분비물; 고막 천공력; 고막 뒤 흰색·진주색 덩어리; 이전 항생제 치료에 반응 없음; 폴립</td><td>항생제 이용액; 청력 평가; bone CT; 이전 항생제 반응 없으면 배양 검사</td></tr><tr><td>외상 (☞ <a href="049_-ear-injury.md#traumatic-tm-perforation">귀손상</a>)</td><td>혈성 또는 지속되는 맑은 분비물; 두부·귀 외상력; 안면 신경 악화</td><td>항생제 이용액; 청력 검사; bone CT</td></tr><tr><td>중이 결핵</td><td>냄새 없는 묽은 만성 분비물; 결핵 감염력; 이전 항생제 치료에 반응 없음</td><td>결핵 검사 및 치료 (☞ <a href="../223_/070_-tuberculosis.md">결핵</a>)</td></tr><tr><td>종양</td><td>편측 박동성 이명; 종괴; 폴립</td><td>청력 평가; bone CT; 의뢰</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016.</mark>_
 
 ***
 
-## <mark style="background-color:$warning;">Management</mark>
+## <mark style="background-color:$warning;">Management - 급성 중이염</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-1. **진통제** : 모든 AOM에서 통증·발열 조절
-2. **항생제** : 필요 시 사용; 일률적 투여는 권고하지 않음
-3. **수술** : 적응증 해당 시 고려
+1. 진통제 : 모든 AOM에서 통증·발열 조절
+2. 항생제 : 필요 시 사용; 일률적 투여는 권고하지 않음
+3. 수술 : 적응증 해당 시 고려
 
-### <mark style="color:orange;">합병증이 없는 AOM의 항생제 적용 기준</mark>
+#### <mark style="color:$primary;">합병증이 없는 AOM의 항생제 적용 기준</mark>
 
-<table><thead><tr><th width="91">연령</th><th width="91">&lt;6개월</th><th width="93">≥6개월</th><th width="109">6~23개월</th><th width="137">6~23개월</th><th width="146">≥24개월</th></tr></thead><tbody><tr><td>중증도</td><td>무관</td><td>심함¹⁾</td><td>심하지 않음</td><td>심하지 않음</td><td></td></tr><tr><td>이환 부위</td><td>무관</td><td>무관</td><td>양측</td><td>편측</td><td>양측/편측</td></tr><tr><td>항생제</td><td>투여</td><td>투여</td><td>투여</td><td>투여 또는 관찰²⁾</td><td>투여 또는 관찰²⁾</td></tr></tbody></table>
+<table><thead><tr><th width="91">연령</th><th width="91">&#x3C;6개월</th><th width="93">≥6개월</th><th width="109">6~23개월</th><th width="137">6~23개월</th><th width="146">≥24개월</th></tr></thead><tbody><tr><td>중증도</td><td>무관</td><td>심함¹⁾</td><td>심하지 않음</td><td>심하지 않음</td><td></td></tr><tr><td>이환 부위</td><td>무관</td><td>무관</td><td>양측</td><td>편측</td><td>양측/편측</td></tr><tr><td>항생제</td><td>투여</td><td>투여</td><td>투여</td><td>투여 또는 관찰²⁾</td><td>투여 또는 관찰²⁾</td></tr></tbody></table>
 
 _1) 이루, 아파 보임, >48시간 이통 지속, 이전 48시간에 ≥39℃(한국 지침 38.5℃), 추적 관찰 여부가 불확실_\
-_2) 48\~72시간 동안 철저한 감시 및 대증 치료; 호전되지 않거나 악화되면 항생제 투여 시작_\
-_<mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Media. Pediatrics 2013;131(3).</mark>_
+&#xNAN;_&#x32;) 48\~72시간 동안 철저한 감시 및 대증 치료; 호전되지 않거나 악화되면 항생제 투여 시작_\
+&#xNAN;_<mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Media. Pediatrics 2013;131(3).</mark>_
 
-#### 관찰 없이 즉시 항생제 투여 대상
+**관찰 없이 즉시 항생제 투여 대상**
 
 * 중증(연령 무관)
 * <6개월아(중증도 무관)
@@ -183,7 +181,7 @@ _<mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Me
 * 최근 30일 이내 항생제 복용 (내성균 가능성)
 * 2\~3일 후 추적 관찰 불가, 또는 타병원에서 이미 경과 관찰 시행한 상태
 
-#### 관찰 후 항생제 투여 결정 대상
+**관찰 후 항생제 투여 결정 대상**
 
 * 6\~23개월 소아에서 의증 상태 또는 편측 경증 발생
 * ≥2세에서 경증으로 발생
@@ -202,20 +200,20 @@ _<mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Me
 
 ### <mark style="color:orange;">항생제</mark>
 
-> 대부분 항생제 사용 없이 회복. >6개월 소아에서 항생제 없이 81%, 항생제 사용 시 93% 회복 — 치료 시 8명 중 1명에서 1일 단축; 항생제는 재발 및 청력 손실을 줄이지 못함. 항히스타민제, 코 울혈 제거제는 효과 없고 부작용 가능성이 있어 사용하지 않는다.
+> 대부분 항생제 사용 없이 회복. >6개월 소아에서 항생제 없이 81%, 항생제 사용 시 93% 회복 - 치료 시 8명 중 1명에서 1일 단축; 항생제는 재발 및 청력 손실을 줄이지 못함. 항히스타민제, 코 울혈 제거제는 효과 없고 부작용 가능성이 있어 사용하지 않는다.
 
 #### <mark style="color:$primary;">항생제 선택 및 용법</mark>
 
 **초치료 또는 지연 치료**
 
-| 1차 선택제 | 대체제 (Pc-allergy) |
-|---|---|
+| 1차 선택제                                          | 대체제 (Pc-allergy)                                                                                               |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Amox. 80\~90 ㎎/㎏/d #2 또는 Amox-clav. 90 ㎎/㎏/d #2 | cefdinir 14 ㎎/㎏/d #1\~2 / cefuroxime 30 ㎎/㎏/d #2 / cefpodoxime 10 ㎎/㎏/d #2 / ceftriaxone 50 ㎎/㎏/d IM/IV ×1\~3d |
 
 **48\~72시간 초치료 실패 후**
 
-| 1차 선택제 | 대체제 (Pc-allergy) |
-|---|---|
+| 1차 선택제                                                    | 대체제 (Pc-allergy)                                                              |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Amox-clav. 90 ㎎/㎏/d #2 PO 또는 ceftriaxone 50 ㎎/㎏ IM/IV ×3d | ceftriaxone 50 ㎎/㎏ IM/IV ×3d / clindamycin 30\~40 ㎎/㎏/d #3 ± 3세대 세파 / 고막천자·의뢰 |
 
 **투여 기간**
@@ -244,7 +242,18 @@ _<mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Me
 
 #### <mark style="color:$primary;">대체제</mark>
 
-> ✽**페니실린 알레르기 시 세팔로스포린 선택 원칙** : 1세대(cephalexin 등)는 R1 side chain 유사성으로 교차 반응 가능성이 있어 피한다. 2·3세대(cefdinir, cefuroxime, cefpodoxime)는 side chain 구조가 달라 페니실린 알레르기 환자에서도 안전하게 사용 가능하다.
+**대상**
+
+* amoxicillin에 알레르기가 있는 경우
+  * Ⅰ형 면역 반응인 경우(예: 두드러기, anaphylaxis) : macrolide, quinolone(✽FDA 비승인)
+  * Ⅰ형 면역 반응이 아닌 경우 : cephalosporin
+* 부적절한 증상 회복
+* 지속되는 화농성 콧물 동반
+* 항생제 투여 중 AOM 발생
+* 면역저하자
+* 이전 중이염 감염 시 중증 또는 합병증 발생
+
+> ✽페니실린 알레르기 시 세팔로스포린 선택 원칙 : 1세대(cephalexin 등)는 R1 side chain 유사성으로 교차 반응 가능성이 있어 피한다. 2·3세대(cefdinir, cefuroxime, cefpodoxime)는 side chain 구조가 달라 페니실린 알레르기 환자에서도 안전하게 사용 가능하다.
 
 * cefdinir : 14 ㎎/㎏/d #1\~2 <mark style="color:blue;">\[옴니세프]</mark>
 * cefpodoxime : 10 ㎎/㎏/d #2 <mark style="color:blue;">\[바난]</mark>
@@ -252,12 +261,12 @@ _<mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Me
 * ceftriaxone : 50 ㎎/㎏(최대 1 g) IM/IV ×3d <mark style="color:blue;">\[트리악손]</mark>
   * 대상 : 경구제 투여 불가, 경구 치료 실패, 저항성 _S. pneumoniae_ 감염
 * azithromycin : 10 ㎎/㎏/d qd ×1d + 5 ㎎/㎏/d ×4d <mark style="color:blue;">\[지스로맥스]</mark>
-  * ✽**국내 _S. pneumoniae_ macrolide 내성률 60\~80%** — 페니실린 알레르기 중 I형 면역 반응(두드러기, anaphylaxis)이 있어 cephalosporin도 사용 불가한 경우에 한해 최후 수단으로 고려; cephalosporin 사용 가능하면 cephalosporin 우선
-* clindamycin : 150\~300 ㎎ qid <mark style="color:blue;">\[훌그램]</mark> — macrolide 내성균은 교차 내성 있음
+  * 국내 _S. pneumoniae_ macrolide 내성률 60\~80%; 페니실린 알레르기 중 I형 면역 반응(두드러기, anaphylaxis)이 있어 cephalosporin도 사용 불가한 경우에 한해 최후 수단으로 고려
+  * 가급적 cephalosporin을 우선 선택
+* clindamycin : 150\~300 ㎎ qid <mark style="color:blue;">\[훌그램]</mark> - macrolide 내성균은 교차 내성 있음
 * clarithromycin : 소아 체중별 용량 (8 ㎏ 7.5 ㎎/㎏, 8\~11 ㎏ 62.5 ㎎, 12\~19 ㎏ 125 ㎎, 20\~29 ㎏ 187.5 ㎎, 30\~40 ㎏ 250 ㎎) bid ×5\~7d <mark style="color:blue;">\[클래리시드]</mark>
-* ✽**성인 AOM**에서 페니실린 알레르기 또는 초치료 실패 시 levofloxacin 500 ㎎ qd ×5\~7d 고려 가능 <mark style="color:blue;">\[크라비트]</mark> (보험 급여 확인 필요)
 
-_<mark style="color:$info;">대한이과학회 유소아중이염진료지침(2014) : 24개월 이상이면서 최근 항생제 병력 없고 보육 시설 미이용 시 40\~50 ㎎/㎏/d 용법 가능</mark>_
+✽  성인 AOM에서 페니실린 알레르기 또는 초치료 실패 시 levofloxacin 500 ㎎ qd ×5\~7d 고려 가능 <mark style="color:blue;">\[크라비트]</mark> (보험 급여 확인 필요)
 
 ### <mark style="color:orange;">수술</mark>
 
@@ -266,7 +275,7 @@ _<mark style="color:$info;">대한이과학회 유소아중이염진료지침(20
 * 급성 AOM의 유의미한 치유 촉진 여부는 논란이 있으나 배농·배액이 증상 완화에 도움 가능
 * 대상 : 두 차례 적절한 약물 치료 course에도 무반응, 심한 이통·고열, 합병증 발생(안면 마비·유양돌기염·내이염·두개 내 염증), 면역 저하, 배양 검사 목적
 
-**고막튜브삽입술·아데노이드절제술** (☞ [재발 중이염](#재발-중이염))
+**고막튜브삽입술·아데노이드절제술** (☞ [재발 중이염](048_-otitis-media.md#재발-중이염))
 
 ### <mark style="color:orange;">추적 관리</mark>
 
@@ -312,9 +321,9 @@ graph TD
 ```
 
 _\*급성 중이염 진단_\
-_(1) 주관적 증상 ⓵ 급성 발생 ⓶ 급성 염증에 의한 중이 국소(이통, 이루) 또는 전신 증상(발열, 울고 보챔)_\
-_(2) 객관적 징후 ⓵ 고막 소견 : 팽륜, 수포, 발적, 이루, 중이 삼출액 ⓶ 고막운동성계측 B or C형_\
-_▶확진 : (1) 모두 만족 AND (2) 중 1개 이상 / 의증 : (1) 만족 BUT (2)가 불명확한 경우_
+&#xNAN;_(1) 주관적 증상 ⓵ 급성 발생 ⓶ 급성 염증에 의한 중이 국소(이통, 이루) 또는 전신 증상(발열, 울고 보챔)_\
+&#xNAN;_(2) 객관적 징후 ⓵ 고막 소견 : 팽륜, 수포, 발적, 이루, 중이 삼출액 ⓶ 고막운동성계측 B or C형_\
+&#xNAN;_▶확진 : (1) 모두 만족 AND (2) 중 1개 이상 / 의증 : (1) 만족 BUT (2)가 불명확한 경우_
 
 _†항생제 요법 ⓵ 치료 반응 판정: 2\~3일 후, 증상 호전 여부 ⓶ 치료 기간: 반응 시 5\~10일 ⓷ 항생제 감수성 결과 나오면 적절한 항생제로 변경_
 
@@ -322,7 +331,7 @@ _†항생제 요법 ⓵ 치료 반응 판정: 2\~3일 후, 증상 호전 여부
 
 ***
 
-### <mark style="color:red;">질병코드 — 급성 중이염</mark>
+### <mark style="color:red;">질병코드 - 급성 중이염</mark>
 
 H65 비화농성 중이염
 
@@ -330,7 +339,7 @@ H66.0 급성 화농성 중이염
 
 ***
 
-## <mark style="color:purple;">처방례 — 급성 중이염</mark>
+## <mark style="color:purple;">처방례 - 급성 중이염</mark>
 
 > **처방례 1. AOM — 소아 15 ㎏, 중증**
 >
@@ -339,9 +348,9 @@ H66.0 급성 화농성 중이염
 > 부루펜 시럽 20 ㎎/㎖                                  11 ㎖  #3  × 3~5d
 > ```
 >
-> _✽amoxicillin/clavulanate 고용량 요법. 중증, 양측 이환, 최근 항생제 복용력이 있는 경우에 해당. 발열·통증 지속 48~72시간에도 호전 없으면 재내원_
+> _✽amoxicillin/clavulanate 고용량 요법. 중증, 양측 이환, 최근 항생제 복용력이 있는 경우에 해당. 발열·통증 지속 48\~72시간에도 호전 없으면 재내원_
 
-> **처방례 2. AOM — 소아 15 ㎏, 오구멘틴 치료 실패 (48~72시간 무반응)**
+> **처방례 2. AOM — 소아 15 ㎏, 오구멘틴 치료 실패 (48\~72시간 무반응)**
 >
 > ```
 > 바난 시럽 10 ㎎/㎖   15 ㎖   #2   × 5~7d
@@ -366,11 +375,11 @@ H66.0 급성 화농성 중이염
 > 타이레놀 이알 650 ㎎/T     1T         q8h        × 3~5d
 > ```
 >
-> _✽천공 동반 시 aminoglycoside 점이용제 금기; fluoroquinolone 이용액 사용. 경구 항생제 병용. 4~6주 내 고막 회복 확인 필요_
+> _✽천공 동반 시 aminoglycoside 점이용제 금기; fluoroquinolone 이용액 사용. 경구 항생제 병용. 4\~6주 내 고막 회복 확인 필요_
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도 — 급성 중이염</mark>
+### <mark style="color:$success;">핵심 복약 지도 - 급성 중이염</mark>
 
 > **항생제 치료 안내**
 >
@@ -394,7 +403,7 @@ H66.0 급성 화농성 중이염
 
 ***
 
-### <mark style="color:blue;">환자 안내서 — 급성 중이염</mark>
+### <mark style="color:blue;">환자 안내서 - 급성 중이염</mark>
 
 {% hint style="info" %}
 **급성 중이염이란 무엇인가요?**
@@ -457,27 +466,27 @@ H66.0 급성 화농성 중이염
 
 ## <mark style="color:green;">진단</mark>
 
-* **고막운동성계측(tympanometry)** : 가장 유용; type-B 시 진단
-* **pneumatic otoscopy** : 고막 운동성 감소 확인
-* **청력 검사** : 재발성 AOM, ≥3개월 지속 MEE, 언어 지연·학습 장애 의심 시
+* 고막운동성계측(tympanometry) : 가장 유용; type-B 시 진단
+* pneumatic otoscopy : 고막 운동성 감소 확인
+* 청력 검사 : 재발성 AOM, ≥3개월 지속 MEE, 언어 지연·학습 장애 의심 시
 
 ***
 
-## <mark style="background-color:$warning;">Management — OME</mark>
+## <mark style="background-color:$warning;">Management - OME</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* OME 단독 진단 시 약물 요법 없이 **3개월간 경과 관찰** → 이후 고막 상태, 청력, 언어 발달 평가 후 추가 치료 결정 \[대한이과학회]
-  * ✽**단, 구개열·다운증후군·감각신경성 난청·언어 발달 지연 등 고위험군은 3개월 대기 없이 즉시 청력 검사 및 이비인후과 의뢰 고려** (☞ 아래 조기 조치 대상자)
+* OME 단독 진단 시 약물 요법 없이 3개월간 경과 관찰 → 이후 고막 상태, 청력, 언어 발달 평가 후 추가 치료 결정 \[대한이과학회]
+  * 단, 구개열·다운증후군·감각신경성 난청·언어 발달 지연 등 고위험군은 3개월 대기 없이 즉시 청력 검사 및 의뢰 고려 (☞ 아래 조기 조치 대상자)
 * 약물 치료 고려 상황 : 동반 질환으로 치료 필요, 보호자 불안, 수술 거부
 * F/U : 삼출액 소실될 때까지 매달 검진
 
 ### <mark style="color:orange;">약제</mark>
 
-* **항히스타민제, 코 울혈 제거제, 점액용해제** : 효과 없음 — 사용하지 않음
-* **전신 steroid** : 단기간 동안 효과 있으나 위험-이익 논란
-* **비내 steroid** : 이관 기능 치료에 기여하지 못함
-* **항생제** : 단기적 효과만 있고 내성 위험 — 일반적으로 권고하지 않음 (AOM 또는 세균성 URI 동반 시 고려)
+* 항히스타민제, 코 울혈 제거제, 점액용해제 : 효과 없음 - 사용하지 않음
+* 전신 steroid : 단기간 동안 효과 있으나 위험-이익 논란
+* 비내 steroid : 이관 기능 치료에 기여하지 못함
+* 항생제 : 단기적 효과만 있고 내성 위험 - 일반적으로 권고하지 않음 (AOM 또는 세균성 URI 동반 시 고려)
 
 ### <mark style="color:orange;">조기 조치 대상자</mark>
 
@@ -498,9 +507,9 @@ H66.0 급성 화농성 중이염
   * 양측 OME에서 좋은 쪽 귀 청력 역치 ≥40 ㏈
   * 편측 OME에서는 이환 기간, 청력 수준, 보호자 선호도 고려
   * 고위험군·고막의 비가역적 변화 예측 시 조기 수술 고려
-* **고막절개술(myringotomy)** 또는 **고막튜브삽입술(tympanostomy tube insertion)**
+* 고막절개술(myringotomy) 또는 고막튜브삽입술(tympanostomy tube insertion)
 
-### <mark style="color:orange;">난청 동반 유소아 삼출성 중이염 — 청각 환경 개선</mark>
+### <mark style="color:orange;">난청 동반 유소아 삼출성 중이염 - 청각 환경 개선</mark>
 
 * 배경 음악·TV 등 잡음을 끈다
 * 1 m 이내로 접근해서 천천히 크게 또렷이 발음한다
@@ -545,14 +554,14 @@ graph TD
 ```
 
 _1) 삼출성 중이염 진단 ⓵ 급성 염증 소견이 없음 ⓶ 중이 삼출액 존재: 이경, 통기 이경, tympanometry (B, C형)_\
-_2) 고위험 인자 ⓵ 감각신경성 난청 ⓶ 교정 불가 시각 저하 ⓷ 다운증후군·두개안면기형 ⓸ 구개열 ⓹ 자폐증·전반적 발달 장애 ⓺ 언어·인지 기능 저하_\
-_3) 청력검사 대상 ⓵ 난청 동반 여부 확인 필요 ⓶ 난청 의심 증상, 언어 지연·학습 장애 ⓷ 3개월 관찰 후 다음 단계 치료 결정 필요_
+&#xNAN;_&#x32;) 고위험 인자 ⓵ 감각신경성 난청 ⓶ 교정 불가 시각 저하 ⓷ 다운증후군·두개안면기형 ⓸ 구개열 ⓹ 자폐증·전반적 발달 장애 ⓺ 언어·인지 기능 저하_\
+&#xNAN;_&#x33;) 청력검사 대상 ⓵ 난청 동반 여부 확인 필요 ⓶ 난청 의심 증상, 언어 지연·학습 장애 ⓷ 3개월 관찰 후 다음 단계 치료 결정 필요_
 
 <p align="center"><strong>삼출 중이염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. 대한이과학회. 유소아 중이염 진료지침. 2014.</mark></em></p>
 
 ***
 
-### <mark style="color:red;">질병코드 — 삼출 중이염</mark>
+### <mark style="color:red;">질병코드 - 삼출 중이염</mark>
 
 H65.0 급성 장액성 중이염
 
@@ -560,7 +569,7 @@ H65.2 만성 장액성 중이염
 
 ***
 
-## <mark style="color:purple;">처방례 — 삼출 중이염</mark>
+## <mark style="color:purple;">처방례 - 삼출 중이염</mark>
 
 > **처방례 1. OME — 경과 관찰 중 통증·발열 없이 청력 저하만 있는 소아**
 >
@@ -580,7 +589,7 @@ H65.2 만성 장액성 중이염
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도 — 삼출 중이염</mark>
+### <mark style="color:$success;">핵심 복약 지도 - 삼출 중이염</mark>
 
 > **삼출 중이염(귀 안에 물이 찬 상태) 안내**
 >
@@ -592,7 +601,7 @@ H65.2 만성 장액성 중이염
 
 ***
 
-### <mark style="color:blue;">환자 안내서 — 삼출 중이염</mark>
+### <mark style="color:blue;">환자 안내서 - 삼출 중이염</mark>
 
 {% hint style="info" %}
 **삼출 중이염(귀 안에 물이 찼어요)이란?**
@@ -624,7 +633,7 @@ H65.2 만성 장액성 중이염
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* >3개월(WHO 기준: >2주) 지속 또는 반복적으로 고막 천공을 통한 이루가 발생하는 중이·유양동의 만성 염증
+* 3개월(WHO 기준: >2주) 지속 또는 반복적으로 고막 천공을 통한 이루가 발생하는 중이·유양동의 만성 염증
 * 진주종(cholesteatoma)을 포함; 대부분 유양돌기 이환
 * 원인균 : _H. influenzae_, _S. aureus_, _S. pyogenes_, _Pseudomonas_, 혐기성균
 
@@ -637,12 +646,12 @@ H65.2 만성 장액성 중이염
 
 ## <mark style="color:green;">검사</mark>
 
-* **배양·항생제 감수성 검사** : 치료 실패(3주간 국소 항생제에 무반응) 또는 내성 의심 시
-* **CT 또는 MRI** : 치료 실패, 합병증, cholesteatoma 의심 시
+* 배양·항생제 감수성 검사 : 치료 실패(3주간 국소 항생제에 무반응) 또는 내성 의심 시
+* CT 또는 MRI : 치료 실패, 합병증, cholesteatoma 의심 시
 
 ***
 
-## <mark style="background-color:$warning;">Management — CSOM</mark>
+## <mark style="background-color:$warning;">Management - CSOM</mark>
 
 ### <mark style="color:orange;">귀 청소</mark>
 
@@ -655,13 +664,11 @@ H65.2 만성 장액성 중이염
 
 ### <mark style="color:orange;">국소 항생제</mark>
 
-(☞ [외이염](047_-otitis-externa.md#undefined-7))
-
-* 전신 항생제보다 효과적
-* **Fluoroquinolone** (1차 선택) : 저자극, 이독성 없음, 고막 천공 시 안전
+* 전신 항생제보다 효과적 (☞ [외이염](047_-otitis-externa.md#undefined-7))
+* Fluoroquinolone (1차 선택) : 저자극, 이독성 없음, 고막 천공 시 안전
   * ofloxacin 0.3% 5 drops tid ×2주 <mark style="color:blue;">\[타리비드]</mark>
   * ciprofloxacin 0.3% 5 drops tid ×2주 <mark style="color:blue;">\[시프레닛]</mark>
-* **Aminoglycoside** : 이독성 있음; 10일 이상 연속 사용 금지; **고막 천공 시 절대 금기** (이용액 시판 제제 없음)
+* Aminoglycoside : 이독성 있음; 10일 이상 연속 사용 금지; 고막 천공 시 절대 금기 (이용액 시판 제제 없음)
 
 ### <mark style="color:orange;">경구 항생제</mark>
 
@@ -674,18 +681,18 @@ H65.2 만성 장액성 중이염
 ### <mark style="color:orange;">수술</mark>
 
 * 대부분의 경우 수술이 최종 치료
-* **고막유양돌기절제술(tympanomastoidectomy)** : 약물 치료 실패 시
-* **Tympanoplasty** : cholesteatoma 없는 환자에서 CSOM 해결 후에도 고막 천공 >6개월 지속 시
+* 고막유양돌기절제술(tympanomastoidectomy) : 약물 치료 실패 시
+* Tympanoplasty : cholesteatoma 없는 환자에서 CSOM 해결 후에도 고막 천공 >6개월 지속 시
 
 ***
 
-### <mark style="color:red;">질병코드 — 만성 화농성 중이염</mark>
+### <mark style="color:red;">질병코드 - 만성 화농성 중이염</mark>
 
 H66.3 기타 만성 화농성 중이염
 
 ***
 
-## <mark style="color:purple;">처방례 — 만성 화농성 중이염</mark>
+## <mark style="color:purple;">처방례 - 만성 화농성 중이염</mark>
 
 > **처방례 1. CSOM — 국소 항생제 (1차)**
 >
@@ -693,7 +700,7 @@ H66.3 기타 만성 화농성 중이염
 > 타리비드 이용액 5 ㎖/병   5 drops   tid   이욕  × 14d
 > ```
 >
-> _✽fluoroquinolone 점이용제는 고막 천공 상태에서도 사용 가능; 투여 전 귀 청소 선행. 3주간 적절한 치료에 무반응이면 배양 검사 및 이비인후과 의뢰_
+> _✽fluoroquinolone 점이용제는 고막 천공 상태에서도 사용 가능; 투여 전 귀 청소 선행. 3주간 적절한 치료에 무반응이면 배양 검사 및 의뢰_
 
 > **처방례 2. CSOM — 분비물 과다 또는 국소제 사용 불가 시 (경구 항생제)**
 >
@@ -705,7 +712,7 @@ H66.3 기타 만성 화농성 중이염
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도 — 만성 화농성 중이염</mark>
+### <mark style="color:$success;">핵심 복약 지도 - 만성 화농성 중이염</mark>
 
 > **점이용액 올바른 사용법**
 >
@@ -725,11 +732,11 @@ H66.3 기타 만성 화농성 중이염
 > * 귀 뒤가 빨갛게 부어오르거나 눌리면 아플 때 (유양돌기염 의심)
 > * 얼굴 한쪽이 마비되거나 처지는 느낌이 들 때 **(즉시 응급실)**
 > * 두통, 구토, 고열이 동반될 때 **(즉시 응급실)**
-> * 3주간 치료 후에도 분비물이 지속될 때 (배양 검사 및 이비인후과 의뢰 필요)
+> * 3주간 치료 후에도 분비물이 지속될 때 (배양 검사 및 의뢰 필요)
 
 ***
 
-### <mark style="color:blue;">환자 안내서 — 만성 화농성 중이염</mark>
+### <mark style="color:blue;">환자 안내서 - 만성 화농성 중이염</mark>
 
 {% hint style="info" %}
 **만성 화농성 중이염이란?**
@@ -763,11 +770,11 @@ H66.3 기타 만성 화농성 중이염
 * 치료 후 수일 안에 다시 증상이 나타나면 재발로 판단
 * 이전의 불충분한 치료 또는 상기도 감염 재발과 관련
 
-## <mark style="color:green;">Management</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
-* **재발** : 2차 약제 선택; 이비인후과 의뢰 고려
-* **재감염** : 2주 이후 증상 재발 시 다른 균주에 의한 것으로 간주하여 새로 항생제 선택
-* **예방적 항생제** : 권고하지 않음 — 효과 없고 항생제 내성 증가
+* 재발 : 2차 약제 선택; 의뢰 고려
+* 재감염 : 2주 이후 증상 재발 시 다른 균주에 의한 것으로 간주하여 새로 항생제 선택
+* 예방적 항생제 : 권고하지 않음 — 효과 없고 항생제 내성 증가
 
 ### <mark style="color:orange;">고막튜브삽입술 (Tympanostomy Tube Insertion)</mark>
 
@@ -785,10 +792,10 @@ H66.3 기타 만성 화농성 중이염
 * 고막 튜브를 통해 이루가 배출되며 통증은 없음
 * 필요시 배양 검사 시행(진균 검사 포함)
 * 귀 청소 시행; 외부 오염(물) 주의
-* 국소 항생제 : fluoroquinolone 점이액 1차 선택 — ofloxacin <mark style="color:blue;">\[타리비드]</mark>, ciprofloxacin <mark style="color:blue;">\[시프레닛]</mark>; 필요시 dexamethasone 병용 <mark style="color:blue;">\[실로덱스]</mark>
+* 국소 항생제 : fluoroquinolone 점이액 1차 선택 - ofloxacin <mark style="color:blue;">\[타리비드]</mark>, ciprofloxacin <mark style="color:blue;">\[시프레닛]</mark>; 필요시 dexamethasone 병용 <mark style="color:blue;">\[실로덱스]</mark>
 * 경구 항생제 : 점이액 무반응 또는 전신 증상 동반 시
 
-**부작용** : 고막 영구 천공, 고실 경화증, 고막 위축성 반흔 — 드묾
+**부작용** : 고막 영구 천공, 고실 경화증, 고막 위축성 반흔 - 드묾
 
 ### <mark style="color:orange;">아데노이드절제술 (Adenoidectomy)</mark>
 
