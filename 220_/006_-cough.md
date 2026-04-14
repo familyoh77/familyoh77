@@ -156,14 +156,6 @@
 
 ***
 
-***
-
-***
-
-<figure><img src="../.gitbook/assets/기침5.JPG" alt=""><figcaption></figcaption></figure>
-
-
-
 ```mermaid
 graph TD
     %% 텍스트 양옆에 &emsp;를 추가하여 가로 길이를 강제로 늘립니다.
@@ -239,14 +231,14 @@ graph TD
     Start --> Specific["특이적 만성기침(2)"]
 
     %% 비특이적 경로 (1, 2차 의료기관)
-    NonSpecific --> Empiric["경험적 치료<br/>• 경구항히스타민제<br/>• 흡입형 corticosteroid<br/>• 류코트리엔 수용체 대항제<br/>• PPI"]
+    NonSpecific --> Empiric["<u>경험적 치료</u><br/>• 경구항히스타민제<br/>• 흡입형 corticosteroid<br/>• 류코트리엔 수용체 대항제<br/>• PPI"]
     
     %% 감별 진단 경로 (2, 3차 의료기관)
-    Empiric --> Differential["감별 진단을 위한 검사<br/>• 메타콜린 기관지 유발 시험<br/>• 유도객담검사<br/>• 호기 산화질소 검사<br/>• 24시간 보행 식도 산도 검사<br/>• 흉부 CT 및 기관지 내시경"]
+    Empiric --> Differential["<u>감별 진단을 위한 검사</u><br/>• 메타콜린 기관지 유발 시험<br/>• 유도객담검사<br/>• 호기 산화질소 검사<br/>• 24시간 보행 식도 산도 검사<br/>• 흉부 CT 및 기관지 내시경"]
     
     Differential --> Unknown["원인 미상 만성기침"]
     
-    Unknown --> Treatment["가능한 치료<br/>• 아편양 중추성 진해제<br/>• 중추성 신경조절제<br/>• 비약물적 치료"]
+    Unknown --> Treatment["<u>가능한 치료</u><br/>• 아편양 중추성 진해제<br/>• 중추성 신경조절제<br/>• 비약물적 치료"]
 
     %% 특이적 경로
     Specific --> Diagnosis["추정되는 특이적 기침의<br/>진단 및 치료"]
@@ -349,25 +341,25 @@ graph TD
 ```mermaid
 graph TD
     %% Start 박스 가로 너비 확장
-    Start["병력 및 신체검사<br/>• Cough duration<br/>• Cough impact & triggers
+    Start["<u>병력 및 신체검사</u><br/>• Cough duration<br/>• Cough impact & triggers
     • Family Hx<br/>• Cough score<br/>• HARQ(Hull airway reflux questionnaire)
     • 동반 증상: throat, chest, gastrointestinal
     • 위험 인자: ACEI 복용, 흡연, 수면무호흡증<br/>• 신체검사: throat, chest, ear"]
 
-    Start --> Routine["Routine evaluation<br/>• 흉부 X선<br/>• 폐 기능 검사<br/>• FENO(1)
+    Start --> Routine["<u>Routine evaluation</u><br/>• 흉부 X선<br/>• 폐 기능 검사<br/>• FENO(1)
     • 혈중 eosinophils"]
     
-    Start --> Initial["Initial management<br/>• 위험 인자 중단
+    Start --> Initial["<u>Initial management</u><br/>• 위험 인자 중단
     • 2~4주간 경구/흡입 Steroid 또는 LTRA((특히 FENO/s-eosinophil↑))
     • Peptic Sx 또는 위산 역류의 증거가 있을 때 PPI"]
 
-    Initial --> FU["F/U 평가<br/>• Cough score<br/>• 동반 증상"]
+    Initial --> FU["<u>F/U 평가</u><br/>• Cough score<br/>• 동반 증상"]
 
-    FU --> Improved["호전<br/>• 3개월 간 치료 유지 후 점차 줄여 나감"]
-    FU --> NotImproved["호전 되지 않음
+    FU --> Improved["<u>호전</u><br/>• 3개월 간 치료 유지 후 점차 줄여 나감"]
+    FU --> NotImproved["<u>호전 되지 않음</u>
     • 저용량 opiate(3)<br/> • promotility agent<br/>• gabapentin<br/>• pregabalin<br/>• 기침 조절 치료()4"]
 
-    FU --> AddEval["대상이 되는 경우 추가 평가<br/>• 고해상도 식도 manometry<br/>• 유도객담 검사
+    FU --> AddEval["<u>대상이 되는 경우 추가 평가</u><br/>• 고해상도 식도 manometry<br/>• 유도객담 검사
     • AAFB 객담 검사(2)<br/>• Laryngoscope<br/>• Methacholine challenge<br/>• Chest CT<br/>• Bronchoscopy"]
 
     %% 스타일 설정
@@ -380,8 +372,10 @@ graph TD
     style AddEval fill:#f5f5f5,stroke:#333
 ```
 
-1\) fractional exhaled nitric oxide 2) alcohol and acid-fast bacilli\
-3\) 예: morphine 5\~10 ㎎ bid×1\~2주 4)발음/언어/물리 치료 등
+_1) fractional exhaled nitric oxide_ \
+_2) alcohol and acid-fast bacilli_\
+_3) 예: morphine 5\~10 ㎎ bid×1\~2주_ \
+_4)발음/언어/물리 치료 등_
 
 <p align="center"><strong>만성 기침 관리 알고리듬</strong><br><em><mark style="color:$info;">Ref. ERS guidelines on the diagnosis &#x26; treatment of chronic cough in adults &#x26; children. 2019</mark></em></p>
 
