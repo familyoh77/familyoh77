@@ -7,13 +7,13 @@
 * 현대적 정의 (tissue-based definition) : 증상이 24시간 이내에 소실되더라도 MRI DWI(확산강조영상)에서 급성 허혈 병변이 확인되면 TIA가 아닌 뇌경색(stroke)으로 간주함
 * 의의: 뇌졸중의 전조 증상일 수 있음
   * 뇌졸중 환자의 7\~40%에서 TIA의 과거력이 있음
-  * TIA 환자의 4\~10%에서 48시간 내, 10\~20%에서 3개월 내 CVA 발생
+  * TIA 환자의 4\~10%에서 48시간 내, 10\~20%에서 3개월 내 CVA 발생 (치료 전 자연 경과 기준; 조기 집중 치료 시 3개월 위험 5% 이하로 감소 가능)
 * 조치 : 증상 발생 후 가능한 한 빨리(12시간 내) 진료; 발생 24시간 내 평가 권고
 
 ## <mark style="color:green;">원인</mark>
 
 * 경동맥 또는 척추 동맥의 죽상경화증
-* lacunar infarct, 심근경색, 색전증, 동맥염
+* 소혈관 질환(small vessel disease), 심근경색, 색전증, 동맥염
 * 응고 항진 : protein S/C 결핍, antithrombin Ⅲ 결핍, 경구 피임제, 임신, 출산
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -24,15 +24,15 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 얼굴 또는 사지의 기력 또는 감각 저하(편측성), 발음 장애, 시각 장애
+* 얼굴 또는 사지의 근력 저하 또는 편마비(편측성), 발음 장애, 시각 장애
 * 경동맥 장애(hemispheric) : 편측 시력 소실, hemianesthesia, 실어증
-* 척추뇌바닥동맥 장애 : 양측 시력 소실, 복시, 어지럼, 운동 실조, 안면 마비, 연하 곤란, 말더듬, 두통, 구역, 구토
+* 척추뇌바닥동맥 장애 : 양측 시력 소실, 복시, 어지럼, 운동 실조, 안면 마비, 연하 곤란, 구음장애(dysarthria), 두통, 구역, 구토
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- Stroke 또는 생명 위협 가능성</mark>
 
-* 증상이 60분 이상 지속되거나 진료 중에도 회복되지 않는 경우 → TIA가 아닌 급성 뇌졸중&#x20;
+* 증상이 1시간 이상 지속되거나 진료 중에도 회복되지 않는 경우 → 뇌경색 가능성이 높아 즉각 stroke로 간주하고 응급 평가 필요 (단, TIA의 시간 정의는 여전히 24시간 이내)
 * 갑자기 발생한 의식 저하 또는 혼수
 * 벼락 두통(thunderclap headache) : 생애 최악의 두통이 수 초\~1분 내 최고조에 달하는 경우 → SAH&#x20;
 * 양측 신경학적 결손 또는 갑작스러운 보행 장애·심한 균형 장애를 동반한 복합 신경 증상 → 뇌간/소뇌 병변
@@ -48,7 +48,7 @@
 * 항응고제 복용 중 TIA 발생
 * 증상 발생 후 12시간 이내 내원한 모든 환자
 
- ※ MRI DWI 양성 확인 시: ABCD² 점수와 무관하게 뇌졸중에 준하여 즉각 관리
+ ※ MRI DWI 양성 확인 시: ABCD² 점수와 무관하게 뇌졸중에 준하여 즉각 관리
 
 <mark style="color:$info;">**주의 깊은 관찰 및 조기 F/U**</mark>
 
@@ -57,30 +57,32 @@
 * 고령(≥75세) + 단독 거주
 * 이전 TIA 또는 뇌졸중 과거력
 
- ※ 이 그룹에서 생활 습관 교정(금연, DASH diet, 유산소 운동) 및 위험 인자 관리 교육이 가장 시급하게 이루어져야 함
+ ※ 이 그룹에서 생활 습관 교정(금연, DASH diet, 유산소 운동) 및 위험 인자 관리 교육이 가장 시급하게 이루어져야 함
 
 ## <mark style="color:green;">진단</mark>
 
 * 신경학적 검사
-* ECG; 초기 ECG가 정상이더라도 원인 불명 TIA에서는 Holter 또는 장기 심전도 모니터링 고려 (잠재적 심방세동 스크리닝)
+* ECG; 초기 ECG가 정상이더라도 원인 불명 TIA에서는 Holter 또는 장기 심전도 모니터링 고려 (잠재적 심방세동 스크리닝; ≥30일 장기 모니터링 시 검출률 향상)
 * 실험실 검사 : CBC, 전해질, Cr, 혈당, 지질
-* 영상 검사 : CT, MRI, MRA, 경동맥검사; 증상 발생 48시간 내 시행
+* 영상 검사 : 가능한 한 즉시(응급실 또는 당일) 시행 권고; 늦어도 48시간 이내
+  * **MRI DWI + 혈관 영상(CTA 또는 MRA)이 핵심 평가** — 급성 허혈 병변 확인 및 혈관 협착·폐색 평가
+  * 두개내 출혈 배제를 위한 CT는 즉시 가능; MRI가 우선이나 여건상 CT로 시작 가능
 
 **ABCD² score**
 
 <table><thead><tr><th width="109">항목</th><th width="307">조건</th><th width="76" align="center">배점</th></tr></thead><tbody><tr><td>연령</td><td>≥60세</td><td align="center">1</td></tr><tr><td>혈압</td><td>SBP ＞140 ㎜Hg or DBP ＞90 ㎜Hg</td><td align="center">1</td></tr><tr><td>임상 특징</td><td>편측 국소 약화 증상</td><td align="center">2</td></tr><tr><td></td><td>약화 증상 없는 발음 장애</td><td align="center">1</td></tr><tr><td>지속 시간</td><td>≥60분</td><td align="center">2</td></tr><tr><td></td><td>10~59분</td><td align="center">1</td></tr><tr><td>당뇨병</td><td>있음</td><td align="center">1</td></tr></tbody></table>
 
-▶ 의의 : TIA 후 48시간 내의 뇌졸중 발생 위험도 추정; DAPT 적용 기준(≥4점)으로도 활용
+▶ 의의 : TIA 후 48시간 내의 뇌졸중 발생 위험도 추정; 고위험 TIA 분류 기준으로 활용
 
 ▶ 판정 : 0\~1점 = 0%, 2\~3점 = 1.3%, 4\~5점 = 4.1%, 6\~7점 = 8.1%
 
-▶ 주의 : 점수가 낮더라도 MRI DWI상 급성 병변 확인 시 고위험군으로 간주; ABCD² ≥ 4점 또는 DWI 양성 모두 고위험으로 DAPT 적용 대상
+▶ 주의 : 점수가 낮더라도 MRI DWI상 급성 병변 확인 시 고위험군으로 간주; ABCD² ≥ 4점 또는 DWI 양성 모두 고위험으로 DAPT 적용 대상. 현대 진료에서는 imaging 기반 risk stratification(DWI, 혈관 영상)이 ABCD² 단독보다 중요
 
 _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² score in triaging TIA patients. Neurology 2010;74(17)</mark>_
 
 ### <mark style="color:orange;">감별</mark>
 
-* Brain tumor : 구역/구토를 동반한 심한 편측 두통
+* Brain tumor : 점진적으로 진행하는 지속적 신경학적 결손, 발작 동반 가능
 * CNS 감염(뇌염, 수막염) : 발열, 두통, 혼란, 경부 강직, 구역/구토, 광선 공포, 정신 상태 변화
 * 낙상/외상 : 두통, 혼란, 멍듦
 * 저혈당 : 혼란, 약함, 발한
@@ -88,7 +90,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * 다발경화증 : 복시, 사지 약화, 둔감증, 소변 저류, 시신경염
 * 발작 장애 : 혼란(±의식 소실), 요실금, 혀 깨물기, 강대성 움직임
 * SAH : 갑자기 발생, 광선 공포증을 동반한 심한 두통
-* 현훈 : 어지럼(±난청), 발한
+* 현훈 : 어지럼(±난청), 발한; 말초성 vs 중추성 감별 필요 — 두통·복시·운동실조 동반 시 중추성 의심 (HINTS exam 고려)
 
 ***
 
@@ -97,10 +99,10 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 급성기 뇌졸중 발생 가능성에 대하여 주의 관찰, 필요시 입원 관찰
-* 증상성 경동맥 협착(50\~99%) 확인 시 가급적 2주 이내 CEA(경동맥 내막절제술) 또는 CAS(경동맥 스텐트삽입술) 시행을 위해 혈관외과/신경외과 의뢰 (지연될수록 재발 위험 증가)
+* 증상성 경동맥 협착(50\~99%) 확인 시 가급적 2주 이내 CEA(경동맥 내막절제술) 또는 CAS(경동맥 스텐트삽입술) 시행을 위해 혈관외과/신경외과 의뢰 (지연될수록 재발 위험 증가; 특히 70\~99% 협착에서 수술적 치료 효과 극대화)
 * 기저 질환 및 위험 인자 관리 : 당뇨병, 고혈압(목표 < 130/80 ㎜Hg), 고지혈증, 비만, 심장 질환, 수면무호흡증
 * 재발 방지를 위하여 항혈소판/항응고 치료, 생활 습관 교정
-* 추구 관찰 : 1년 동안 매 3개월마다, 이후 매년
+* 추구 관찰 : 초기 1\~3개월은 집중 추적; 이후 안정적이면 간격 확대 (예: 6개월, 이후 매년)
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
@@ -125,7 +127,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 * clopidogrel 부하 300 mg\
   → clopidogrel 75 mg/일 + Aspirin 100 mg/일 × 21일 \[클라빅신 듀오, 또는 플라빅스 + 아스피린]\
   → 이후 단독 요법으로 전환
-* 고위험 TIA (ABCD² ≥ 4점 또는 DWI 양성) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여(clopidogrel 선호 - 재발 예방에 aspirin보다 우월)
+* 고위험 TIA (ABCD² ≥ 4점 또는 DWI 양성) 또는 경미한 비심인성 뇌졸중 환자에서는 DAPT 21일 시행 후에 둘 중 하나만 투여 (clopidogrel은 aspirin 대비 약간 우수한 재발 예방 효과를 보여 선호되는 경우가 많음)
 * 주의
   * 열공성 뇌경색(lacunar stroke)으로 확인된 경우, 장기적 DAPT는 권고되지 않음 (출혈 위험 증가, SPS3 연구); 21일 단기 DAPT는 초급성기에 적용 가능
   * 21일 초과 DAPT는 출혈 위험 증가로 권고하지 않음
@@ -148,7 +150,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 
 * cardioembolic TIA(심방세동 등)에 적용
 * NOAC(non-vit K antagonist oral anticoagulant)을 warfarin보다 우선 권고
-* 심방세동 동반 TIA : 뇌출혈 배제 후 가급적 1일 이내 NOAC 시작 권고 (2021 AHA/ASA, ESC 2024 심방세동 가이드라인)
+* 심방세동 동반 TIA : 뇌출혈 배제 후 즉시 또는 24시간 이내 NOAC 시작 가능 (뇌경색 동반 시 infarct 크기에 따라 지연 고려; 2021 AHA/ASA, ESC 2024 심방세동 가이드라인)
 * apixaban : 2.5\~5 ㎎ bid <mark style="color:blue;">\[엘리퀴스]</mark>
 * rivaroxaban : 15\~20 ㎎ qd (저녁 식사와 함께) <mark style="color:blue;">\[자렐토]</mark>
 * edoxaban : 30\~60 ㎎ qd <mark style="color:blue;">\[릭시아나]</mark>
@@ -158,7 +160,7 @@ _<mark style="color:$info;">Ref. Multicenter external validation of the ABCD² s
 ### <mark style="color:orange;">Statin</mark>
 
 * TIA 진단 즉시(당일) 고강도 statin 시작 권고; 지연 없이 처방하는 것이 뇌졸중 예방 효과를 극대화함
-* 목표 : LDL-C ＜55 ㎎/dL 및 기저치 대비 50% 이상 감소 (2022 한국지질동맥경화학회·ESC 가이드라인)
+* 죽상경화성 원인 TIA 및 대부분의 TIA는 very high risk에 해당 : LDL-C ＜55 ㎎/dL 및 기저치 대비 50% 이상 감소 목표 (2022 한국지질동맥경화학회·ESC 가이드라인)
 * 고강도 : atorvastatin 40\~80 ㎎/d <mark style="color:blue;">\[리피토]</mark>, rosuvastatin 20\~40 ㎎/d <mark style="color:blue;">\[크레스토]</mark>
 * 고강도 불내성 시 : 중강도 statin으로 대체 (LDL-C 30\~49% 감소 목표)
 
@@ -199,7 +201,7 @@ G45 일과성 뇌허혈발작 및 관련 증후군
 > ```
 > 엘리퀴스 5 mg/T  1T  bid  (신기능·체중·연령 기준으로 2.5 mg bid로 감량 고려)
 > 리피토 40 mg/T  1T  qd  (저녁; 고강도 statin)
-> ※ 뇌출혈 배제 후 가급적 1일 이내 시작 권고
+> ※ 뇌출혈 배제 후 즉시 또는 24시간 이내 시작 가능
 > ※ 항혈소판제와 병용하지 않음 (출혈 위험); 신기능 정기 모니터링
 > ```
 
@@ -273,4 +275,4 @@ TIA 증상은 일시적으로 사라지지만, 이후 수일\~수 주 내 뇌졸
 * **금연** : 흡연은 뇌졸중 위험을 크게 높입니다.
 * **규칙적인 운동** : 주 3회 이상, 30분 이상 중등도 유산소 운동(빠른 걷기, 수영, 자전거 등)을 하십시오.
 * **식이** : 과일·채소·통곡물·저지방 유제품을 충분히 섭취하고, 소금·술·당분을 줄이십시오.
-* **정기 추적** : 처음 1년은 3개월마다, 이후 매년 외래를 방문하십시오.
+* **정기 추적** : 초기 1\~3개월은 집중 추적하고, 이후 안정적이면 간격을 늘려 정기 외래를 방문하십시오.
