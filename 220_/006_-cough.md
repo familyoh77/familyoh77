@@ -189,10 +189,12 @@ graph TD
     
 ```
 
-1\) 증상 지속 시 아급성 및 만성 기침 알고리듬에 따름 \
-2\) 검사가 어려울 경우 경험적 치료를 고려할 수 있음
+_1) 증상 지속 시 아급성 및 만성 기침 알고리듬에 따름_ \
+_2) 검사가 어려울 경우 경험적 치료를 고려할 수 있음_
 
 <p align="center"><strong>급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 기침진료지침. 2014.</mark></em></p>
+
+***
 
 ```mermaid
 graph TD
@@ -218,9 +220,11 @@ graph TD
     style TreatCause fill:#e1f5fe,stroke:#01579b
 ```
 
-\*임상적 특성을 고려하여 Pertussis 또는 Mycoplasma 감염이 의심되면 이에 대한 검사 및 치료를 시행할 수 있음
+_\*임상적 특성을 고려하여 Pertussis 또는 Mycoplasma 감염이 의심되면 이에 대한 검사 및 치료를 시행할 수 있음_
 
 <p align="center"><strong>아급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 기침진료지침. 2014.</mark></em></p>
+
+***
 
 ```mermaid
 graph TD
