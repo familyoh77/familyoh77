@@ -16,7 +16,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 의뢰**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- Necrotizing OE 의심</mark>
+<mark style="color:$danger;">**즉각 의뢰**</mark> <mark style="color:$danger;">- Necrotizing OE 의심</mark>
 
 * 당뇨·면역저하자에서 심한 이통 + 치료 무반응
 * 외이도 육아조직(granulation tissue), 뼈 노출
@@ -57,7 +57,7 @@
 ## <mark style="color:green;">임상 양상</mark>
 
 * 외이 발적·부종·충만감
-* 이통 : 특히 귓바퀴(pinna)를 당기거나, 이주(tragus)를 누르거나, 턱을 움직일 때 악화 — OE의 가장 특징적 소견
+* 이통 : 특히 귓바퀴(pinna)를 당기거나, 이주(tragus)를 누르거나, 턱을 움직일 때 악화 - OE의 가장 특징적 소견
 * 가려움(소양증) : 세균성 OE에서는 이통이 선행하지만, 진균성 OE에서는 소양증이 이통보다 훨씬 심하거나 먼저 나타나는 경우가 많다 - 세균성과의 중요한 임상 감별 포인트; 만성 OE·습진성 OE에서도 두드러짐
 * 외이 분비물 : 맑은 점액성 → 농성(악취)으로 변화; 습진 유발 가능
 * 흰색 솜털 부스러기 : 진균 감염 의심
@@ -65,9 +65,11 @@
 
 ### <mark style="color:orange;">외이 이루(otorrhea)의 감별</mark>
 
-<table><thead><tr><th width="82">원인</th><th>진단상 단서</th><th>치료</th></tr></thead><tbody><tr><td>세균성 외이염</td><td>화농성 분비물, 부종·발적, 이통, 최근 외이 물 접촉력·손상력(면봉), 당뇨병</td><td>국소 항균/steroid제 ±경구 항생제, 귀 세척 및 건조 유지, ear wick 고려</td></tr><tr><td>진균성 외이염</td><td>흰색-황백색 습한 분비물 (Aspergillus: 흑점 동반), hyphae 관찰, 항생제 저항성, 당뇨·고령·면역 저하</td><td>debridement + acetic acid 또는 국소 항진균제; 국소 항생제는 금기 (악화 가능)</td></tr><tr><td>피부염</td><td>알레르기·자극성 피부염 병력, 발적·소양증 위주, 분비물 적음</td><td>원인 제거, 국소 steroid; 2차 감염 시 항생제 추가</td></tr><tr><td>이물</td><td>이물 관찰, 이물질 삽입력, 소아·정신지체자</td><td>이물 제거; 감염·출혈 증거 있으면 항생제 이용액</td></tr><tr><td>외이도 손상</td><td>기구(면봉·머리핀) 사용력, 출혈성 이루 또는 손상 관찰</td><td>항생제 이용액; 두부 외상력 있으면 bone CT</td></tr><tr><td>악성(Necrotizing) 외이염</td><td>Pseudomonas 배양 양성, 심한 통증, 외이도 육아조직, 당뇨·고령, 치료 무반응</td><td>즉시 의뢰; Pseudomonas 표적 전신 항생제, bone CT/MRI</td></tr><tr><td>Ramsay Hunt 증후군</td><td>외이·귓바퀴의 수포성 발진, 안면신경 마비, 이통</td><td>즉시 의뢰; 항바이러스제(acyclovir/valacyclovir) + 스테로이드</td></tr><tr><td>종양</td><td>편측 종괴, 외이도 폴립, 치료 무반응의 만성 이루</td><td>bone CT; 이비인후과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="104">원인</th><th>진단상 단서</th><th>치료</th></tr></thead><tbody><tr><td>세균성 외이염</td><td>화농성 분비물, 부종·발적, 이통, 최근 외이 물 접촉력·손상력(면봉), 당뇨병</td><td>국소 항균/steroid제 ±경구 항생제, 귀 세척 및 건조 유지, ear wick 고려</td></tr><tr><td>진균성 외이염</td><td>흰색-황백색 습한 분비물 (Aspergillus: 흑점 동반), hyphae 관찰, 항생제 저항성, 당뇨·고령·면역 저하</td><td>debridement + acetic acid 또는 국소 항진균제; 국소 항생제는 금기 (악화 가능)</td></tr><tr><td>피부염</td><td>알레르기·자극성 피부염 병력, 발적·소양증 위주, 분비물 적음</td><td>원인 제거, 국소 steroid; 2차 감염 시 항생제 추가</td></tr><tr><td>이물</td><td>이물 관찰, 이물질 삽입력, 소아·정신지체자</td><td>이물 제거; 감염·출혈 증거 있으면 항생제 이용액</td></tr><tr><td>외이도 손상</td><td>기구(면봉·머리핀) 사용력, 출혈성 이루 또는 손상 관찰</td><td>항생제 이용액; 두부 외상력 있으면 bone CT</td></tr><tr><td>악성 외이염* </td><td>Pseudomonas 배양 양성, 심한 통증, 외이도 육아조직, 당뇨·고령, 치료 무반응</td><td>즉시 의뢰; Pseudomonas 표적 전신 항생제, bone CT/MRI</td></tr><tr><td>Ramsay Hunt 증후군</td><td>외이·귓바퀴의 수포성 발진, 안면신경 마비, 이통</td><td>즉시 의뢰; 항바이러스제(acyclovir/valacyclovir) + 스테로이드</td></tr><tr><td>종양</td><td>편측 종괴, 외이도 폴립, 치료 무반응의 만성 이루</td><td>bone CT; 이비인후과 의뢰</td></tr></tbody></table>
 
-_<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam Physician 2023;107(2):145-151.</mark>_
+_<mark style="color:$info;">\*</mark>Necrotizing_
+
+<p align="center"><em><mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam Physician 2023;107(2):145-151.</mark></em></p>
 
 ### <mark style="color:orange;">귀의 연관통 (Referred Otalgia)</mark>
 
@@ -92,7 +94,8 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 * debridement : 진균 감염 시 필수적으로 선행 (국소 항진균제만으로는 효과 불충분)
 * Ear wick(심지) : 외이도가 심하게 부어 국소 약제 전달이 어려울 때 삽입; 2\~3일 후 자연 배출되거나 의사가 제거; hydrocellulose 또는 거즈 심지 사용
 * 만성 OE : 2주마다 정기 cleansing
-* ✽만성·재발성 OE에서는 세균성 바이오필름이 항균제 침투를 방해하여 치료 반응을 저하시킬 수 있음. 약물 치료와 병행하여 정기적인 이강 세척(aural toilet)으로 바이오필름을 물리적으로 제거하는 것이 치료 효과를 높이는 핵심임
+
+> ✽만성·재발성 OE에서는 세균성 바이오필름이 항균제 침투를 방해하여 치료 반응을 저하시킬 수 있음. 약물 치료와 병행하여 정기적인 이강 세척(aural toilet)으로 바이오필름을 물리적으로 제거하는 것이 치료 효과를 높이는 핵심임
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -104,9 +107,9 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 * acetaminophen : 650\~1,300 ㎎ q6\~8h <mark style="color:blue;">\[타이레놀]</mark>
 * ✽통증이 심한 경우 초기 2\~3일 규칙적으로 복용
 
-**항히스타민제** (소양증 주 증상 시)
+**항히스타민제**&#x20;
 
-☞ [항히스타민제](../231_/212_-antihistamines.md)
+* 소양증 주 증상 시 (☞ [항히스타민제](../231_/212_-antihistamines.md))
 
 ### <mark style="color:orange;">2% Acetic Acid 국소제</mark>
 
@@ -131,7 +134,7 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 4. 귓바퀴를 부드럽게 움직여 용액이 외이도 깊이 들어가도록 한다.
 5. 3\~5분간 누운 자세를 유지한 후 일어나 흘러나오는 용액을 닦는다.
 
-✽ 치료 시작 48\~72시간 내 호전 없으면 재평가 필요 (AAO-HNSF 강력 권고)
+* 치료 시작 48\~72시간 내 호전 없으면 재평가 필요 (AAO-HNSF 강력 권고)
 
 #### <mark style="color:$primary;">Fluoroquinolone계 (1차 선택)</mark>
 
@@ -143,7 +146,7 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 #### <mark style="color:$primary;">Aminoglycoside계</mark>
 
 * 이독성 있음; 10일 이상 연속 사용 금지; 고막 천공 시 절대 금기
-* ✽시판 점이용 제제 없음 — 점안액 차용 (보험 주의)
+  * 시판 점이용 제제 없음 - 점안액 차용 (보험 주의)
 * gentamicin 0.3% <mark style="color:blue;">\[오큐겐타]</mark>, tobramycin 0.3% <mark style="color:blue;">\[토브라]</mark>, neomycin
 
 #### <mark style="color:$primary;">국소 항균제/Steroid 복합제</mark>
@@ -158,7 +161,7 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 ### <mark style="color:orange;">전신 항생제</mark>
 
-> 단순 미합병 OE에 전신 항생제는 원칙적으로 사용하지 않는다 - 효과가 국소 치료보다 열등하고 내성 증가 및 재발·지속을 초래할 수 있음 (AAO-HNSF, AAFP 2023 가이드라인)
+* 단순 미합병 OE에 전신 항생제는 원칙적으로 사용하지 않음 - 효과가 국소 치료보다 열등하고 내성 증가 및 재발·지속을 초래할 수 있음 (AAO-HNSF, AAFP 2023 가이드라인)
 
 **적응증** (아래 중 하나 이상 해당 시)
 
@@ -168,12 +171,13 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 **처방 및 단계별 선택**
 
-* **1단계** - 경구 : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> — _P. aeruginosa_ 커버; 합병증 없는 연조직 확장 시 1차
-* **보조** : cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> — _S. aureus_ (Furunculosis) 의심 시; 그람(-) 커버 불충분하므로 단독 사용 주의
-* **2단계** - 고용량 경구 또는 IV 전환 기준 : 아래 중 하나라도 해당 시 즉시 이비인후과 의뢰 + 입원 고려
-  * 경구 ciprofloxacin 48\~72시간 무반응
-  * 당뇨 환자에서 혈당 조절 불량(HbA1c ≥9% 또는 입원 중 고혈당) + 골수염 의심
-  * Necrotizing OE 확인 또는 의심 : IV ciprofloxacin 또는 IV piperacillin/tazobactam으로 전환; 치료 기간은 보통 6주 이상(골수염 해소 영상 확인까지)
+* **1단계** - 경구 : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> - _P. aeruginosa_ 커버; 합병증 없는 연조직 확장 시 1차
+* **보조** : cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> - _S. aureus_ (Furunculosis) 의심 시; 그람(-) 커버 불충분하므로 단독 사용 주의
+* **2단계** : 고용량 경구 또는 IV 전환
+  * 아래 중 하나라도 해당 시 즉시 의뢰 + 입원 고려
+    * 경구 ciprofloxacin 48\~72시간 무반응
+    * 당뇨 환자에서 혈당 조절 불량(HbA1c ≥9% 또는 입원 중 고혈당) + 골수염 의심
+    * Necrotizing OE 확인 또는 의심 : IV ciprofloxacin 또는 IV piperacillin/tazobactam으로 전환; 치료 기간은 보통 6주 이상(골수염 해소 영상 확인까지)
 
 ### <mark style="color:orange;">항진균제</mark>
 
@@ -181,9 +185,9 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 **국소** (1차)
 
-* clotrimazole 1% 4 drops qid × 7\~14d <mark style="color:blue;">\[카네스텐 크림]</mark> (점안액 차용 — 보험 주의)
+* clotrimazole 1% 4 drops qid × 7\~14d <mark style="color:blue;">\[카네스텐 크림]</mark> (점안액 차용 - 보험 주의)
 * natamycin 점안액 <mark style="color:blue;">\[나타신]</mark>, nystatin, miconazole, amphotericin B
-* ✽시판 점이용 항진균제 없음 — 점안액 또는 크림 차용
+* ✽시판 점이용 항진균제 없음 - 점안액 또는 크림 차용
 
 **경구** (중증·재발성·국소 치료 실패 시)
 
@@ -193,7 +197,9 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam
 
 ```mermaid
 graph TD
-    START["📋 외이염 의심 환자"] --> CLEAN["① 외이도 Cleansing / Debridement<br/><i>(약물 투여 전 필수 선행 — 분비물·귀지 제거 후 약제 효과 극대화)</i>"]
+    START["📋 외이염 의심 환자"] --> CLEAN["① 외이도 Cleansing / Debridement<br/><i>(약물 투여 전 필수 선행 — 
+    분비물·귀지 제거 후 
+    약제 효과 극대화)</i>"]
     CLEAN --> A
 
     A[면역저하 / 당뇨 여부] -- "예(고위험군)" --> B["• 국소 항균/steroid 복합제 × 7~14일<br/>• 경구 quinolone × 7~10일<br/>• Ear wick 고려<br/>• Necrotizing OE 배제(bone CT)<br/>• 48~72h 무반응 시 → IV 전환·의뢰"]
