@@ -138,7 +138,7 @@ _2) 권고 수준 Grade D(미흡한 연구 수준의 전문가 의견)_
 
 #### 알레르기비염 치료제의 효과 비교
 
-<table><thead><tr><th width="232">치료 제제</th><th width="68"></th><th width="73">재채기</th><th width="66">콧물</th><th width="77">코 막힘</th><th width="85">코가려움</th><th width="85">안구 증상</th></tr></thead><tbody><tr><td>steroid</td><td>비내</td><td>+++</td><td>+++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>항히스타민</td><td>비내</td><td>++</td><td>++</td><td>+</td><td>++</td><td>-</td></tr><tr><td></td><td>경구</td><td>++</td><td>++</td><td>+</td><td>+++</td><td>++</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+++</td></tr><tr><td>코 울혈 제거제</td><td>비내</td><td>-</td><td>-</td><td>++++</td><td>-</td><td>-</td></tr><tr><td></td><td>경구</td><td>-</td><td>-</td><td>+</td><td>-</td><td>-</td></tr><tr><td>Cromolyn</td><td>비내</td><td>+</td><td>+</td><td>+</td><td>+</td><td>-</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>++</td></tr><tr><td>항콜린제</td><td>비내</td><td>-</td><td>++</td><td>-</td><td>-</td><td>-</td></tr><tr><td>항류코트리엔</td><td>경구</td><td>-</td><td>+</td><td>++</td><td>-</td><td>++</td></tr><tr><td>식염수 코 세척</td><td></td><td>-</td><td>+</td><td>+</td><td>-</td><td>-</td></tr><tr><td>면역 치료</td><td></td><td>+</td><td>+</td><td>+</td><td>-</td><td>+</td></tr><tr><td>비내 steroid+비내 항히스타민</td><td></td><td>+++</td><td>+++</td><td>+++</td><td>+++</td><td>+++</td></tr></tbody></table>
+<table><thead><tr><th width="159">치료 제제</th><th width="80"></th><th width="80">재채기</th><th width="80">콧물</th><th width="80">코 막힘</th><th width="85">코가려움</th><th width="85">안구 증상</th></tr></thead><tbody><tr><td>steroid</td><td>비내</td><td>+++</td><td>+++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>항히스타민</td><td>비내</td><td>++</td><td>++</td><td>+</td><td>++</td><td>-</td></tr><tr><td></td><td>경구</td><td>++</td><td>++</td><td>+</td><td>+++</td><td>++</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+++</td></tr><tr><td>코 울혈 제거제</td><td>비내</td><td>-</td><td>-</td><td>++++</td><td>-</td><td>-</td></tr><tr><td></td><td>경구</td><td>-</td><td>-</td><td>+</td><td>-</td><td>-</td></tr><tr><td>Cromolyn</td><td>비내</td><td>+</td><td>+</td><td>+</td><td>+</td><td>-</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>++</td></tr><tr><td>항콜린제</td><td>비내</td><td>-</td><td>++</td><td>-</td><td>-</td><td>-</td></tr><tr><td>항류코트리엔</td><td>경구</td><td>-</td><td>+</td><td>++</td><td>-</td><td>++</td></tr><tr><td>식염수 코 세척</td><td></td><td>-</td><td>+</td><td>+</td><td>-</td><td>-</td></tr><tr><td>면역 치료</td><td></td><td>+</td><td>+</td><td>+</td><td>-</td><td>+</td></tr><tr><td>비내 steroid+<br>비내 항히스타민</td><td></td><td>+++</td><td>+++</td><td>+++</td><td>+++</td><td>+++</td></tr></tbody></table>
 
 ✽흔히 비내 분무제 사용을 불편해하므로 분무제는 한 가지만 사용하고 나머지는 경구제 선택, 또는 복합 분무제 선택
 
@@ -316,9 +316,72 @@ _\*비공 당 분무 횟수_ \
 * 1세대 및 2세대 경구 항히스타민제 : 안전
 * 비내 steroid : 안전
 
+```mermaid
+graph TD
+    %% 노드 정의
+    Start1([경증 비염]) --> AH[AH]
+    Start2([중등증/중증 비염]) --> INS[INS]
 
+    %% 상단 상호작용
+    AH <--> INS
 
-![image](../.gitbook/assets/607e395d-6a79-401a-b2ee-cb15dc7004fe.JPG)
+    %% 1차 치료 실패 단계
+    INS --> Fail1{치료 실패}
+    AH --> Fail1
+    Fail1 --> Check1[약물 순응도 확인]
+    Check1 --> Combine[INS & INAH 병용]
+
+    %% 2차 치료 실패 단계
+    Combine --> Fail2{치료 실패}
+    Fail2 --> Check2[약물 순응도 확인]
+
+    %% 증상별 분기
+    Check2 --> Symptom1[수성 콧물]
+    Check2 --> Symptom2[가려움/재채기/코주위 발적]
+    Check2 --> Symptom3[Catarrh]
+    Check2 --> Symptom4[코울혈제거제 추가<br/>Ipratropium 추가<br/>단기]
+
+    Symptom1 --> Tx1[Ipratropium 추가]
+    Symptom2 --> Tx2[졸음없는 경구 AH로 교체]
+    Symptom3 --> Tx3[천식 시 LTRA 추가]
+
+    %% 3차 치료 실패 및 원인 분석
+    Tx1 --> Fail3{치료 실패}
+    Tx2 --> Fail3
+    Tx3 --> Fail3
+    Symptom4 --> Fail3
+
+    Fail3 --> Cause1[감염/구조 문제?]
+    Fail3 --> Cause2[한 가지 Allergen에 의함?]
+    Fail3 --> Cause3[염증성 비염?]
+
+    Cause1 --> Final1[수술 고려]
+    Cause2 --> Final2[면역 치료 고려]
+    Cause3 --> Final3[국소 치료에<br/>OC 추가 고려]
+
+  
+
+    %% 스타일링
+    style Start1 fill:#f3f0f7,stroke:#d1c4e9
+    style Start2 fill:#f3f0f7,stroke:#d1c4e9
+    style Symptom1 fill:#fff9c4,stroke:#fbc02d
+    style Symptom2 fill:#fff9c4,stroke:#fbc02d
+    style Symptom3 fill:#fff9c4,stroke:#fbc02d
+    style Cause1 fill:#ffebee,stroke:#ef9a9a
+    style Cause2 fill:#ffebee,stroke:#ef9a9a
+    style Cause3 fill:#ffebee,stroke:#ef9a9a
+    style AH fill:#e1f5fe,stroke:#81d4fa
+    style INS fill:#e1f5fe,stroke:#81d4fa
+    style Combine fill:#e1f5fe,stroke:#81d4fa
+    style Tx1 fill:#e1f5fe,stroke:#81d4fa
+    style Tx2 fill:#e1f5fe,stroke:#81d4fa
+    style Tx3 fill:#e1f5fe,stroke:#81d4fa
+    style Symptom4 fill:#e1f5fe,stroke:#81d4fa
+    style Final1 fill:#e1f5fe,stroke:#81d4fa
+    style Final2 fill:#e1f5fe,stroke:#81d4fa
+    style Final3 fill:#e1f5fe,stroke:#81d4fa
+
+```
 
 ***
 
