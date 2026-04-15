@@ -1,7 +1,5 @@
 # 코피 Epistaxis
 
-![image](../.gitbook/assets/285b06db-e4a4-4ba1-ab7b-160cdd0c2eb0.JPG)
-
 ## <mark style="color:green;">일반 사항</mark>
 
 * 흔한 출혈 부위 : **Kiesselbach's plexus** (전방 출혈, 90\~95%) — 비중격 전하방, 4개 혈관이 문합하는 부위
@@ -26,7 +24,7 @@
 * **출혈 질환** : 혈소판 감소증(thrombocytopenia), Von Willebrand disease, 혈우병
 * **전신 질환** : 간경변증, 신부전/요독증, 백혈병, 알코올 남용
 * **허브·보완제** : 생강, 은행, 인삼 (혈소판 기능 억제)
-* ✽**NOAC(직접 경구 항응고제) 복용자 주의** : apixaban, rivaroxaban, dabigatran 복용 고령 환자가 급증하고 있음. NOAC은 warfarin과 달리 INR로 모니터링이 안 되며, 기존 지혈법에 반응이 불량할 수 있음. 지혈 확인 후에도 재출혈 위험이 높으므로 **압박 시간을 연장(최소 20분)**하고, 반복 출혈 또는 지혈 불량 시 **즉시 상급병원 전원**이 원칙. Reversal agent(프락스바인드/idarucizumab, 안덱사/andexanet alfa)는 현실적으로 상급종합병원 응급실에서만 구비되어 있으므로, **일차 의원에서는 투약 중단 후 신속 전원**에 집중한다
+* ✽**NOAC(직접 경구 항응고제) 복용자 주의** : apixaban, rivaroxaban, dabigatran 복용 고령 환자가 급증하고 있음. NOAC은 warfarin과 달리 INR로 모니터링이 안 되며, 기존 지혈법에 반응이 불량할 수 있음. 지혈 확인 후에도 재출혈 위험이 높으므로 \*\*압박 시간을 연장(최소 20분)\*\*하고, 반복 출혈 또는 지혈 불량 시 **즉시 상급병원 전원**이 원칙. Reversal agent(프락스바인드/idarucizumab, 안덱사/andexanet alfa)는 현실적으로 상급종합병원 응급실에서만 구비되어 있으므로, **일차 의원에서는 투약 중단 후 신속 전원**에 집중한다
 * ✽**항응고제·항혈소판제 재개 시점** : 출혈 원인 및 혈전 위험도에 따라 개별 판단이 원칙; 일반적으로 경증 출혈·지혈 확인 후 **24시간**, 고위험군(심방세동·인공판막·DVT 등)은 **처방의와 협의 후 48\~72시간** 내 재개 권장 — 임의 중단 연장은 혈전 위험을 높이므로 반드시 처방의에게 확인
 
 ***
@@ -69,14 +67,7 @@
 
 ### <mark style="color:orange;">전방 vs 후방 출혈 감별</mark>
 
-| | **전방 출혈 (Anterior)** | **후방 출혈 (Posterior)** |
-|---|---|---|
-| 출혈 부위 | Kiesselbach's plexus | Woodruff's plexus |
-| 빈도 | 90\~95% | 5\~10% |
-| 연령 | 소아·청소년 | 고령(>50세) |
-| 출혈 방향 | 전방(콧구멍으로) | 후방(인후로 넘어감) |
-| 혈역학적 영향 | 경미 | 다량, 흡인 위험 |
-| 처치 | 압박·소작·전방 패킹 | 후방 패킹, 즉시 의뢰 |
+<table data-header-hidden><thead><tr><th width="142"></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><strong>전방 출혈 (Anterior)</strong></td><td><strong>후방 출혈 (Posterior)</strong></td></tr><tr><td>출혈 부위</td><td>Kiesselbach's plexus</td><td>Woodruff's plexus</td></tr><tr><td>빈도</td><td>90~95%</td><td>5~10%</td></tr><tr><td>연령</td><td>소아·청소년</td><td>고령(>50세)</td></tr><tr><td>출혈 방향</td><td>전방(콧구멍으로)</td><td>후방(인후로 넘어감)</td></tr><tr><td>혈역학적 영향</td><td>경미</td><td>다량, 흡인 위험</td></tr><tr><td>처치</td><td>압박·소작·전방 패킹</td><td>후방 패킹, 즉시 의뢰</td></tr></tbody></table>
 
 ***
 
@@ -140,18 +131,26 @@
 
 ```mermaid
 graph TD
-    A["🩸 코피 환자 내원"] --> B{"기도 확보 및\n활력징후 안정?"}
-    B -- "불안정\n(창백·호흡곤란·의식저하)" --> C["🚨 즉시 응급실 전원\n수액 공급·산소 투여"]
-    B -- "안정" --> D["1단계: 앞으로 숙이고\n15분간 강력 압박\n(코 연골 연부 부위)"]
-    D --> E{"지혈 되었는가?"}
-    E -- "Yes" --> F["점막 보습 교육\n재발 예방 처방 후 귀가"]
-    E -- "No" --> G["혈관수축제 적용\noxymetazoline 또는 epinephrine 솜\n±TXA 솜 10~15분 삽입"]
-    G --> H{"출혈점 확인?"}
-    H -- "Yes" --> I["Silver Nitrate 소작\n주변부→중심부\n※양측 동시 소작 금기"]
+    A["🩸 코피 환자 내원"] --> B["기도 확보 및 활력징후 안정?"]
+    B -- "불안정
+    (창백·호흡곤란·의식저하)" --> C["🚨 즉시 응급실 전원
+    수액 공급·산소 투여"]
+    B -- "안정" --> D["1단계: 앞으로 숙이고 
+    15분간 강력 압박
+    (코 연골 연부 부위)"]
+    D --> E["지혈 되었는가?"]
+    E -- "Yes" --> F["재발 예방 교육 및 
+    처방 후 귀가"]
+    E -- "No" --> G["혈관수축제 적용\noxymetazoline 또는 epinephrine 솜 ± TXA 솜 10~15분 삽입"]
+    G --> H["출혈점 확인?"]
+    H -- "Yes" --> I["Silver Nitrate 소작
+    주변부 → 중심부
+    ※양측 동시 소작 금기"]
     H -- "No" --> J["전방 패킹 시행"]
-    I --> J2{"지혈 확인?"}
+    I --> J2["지혈 확인?"]
     J --> J2
-    J2 -- "Yes" --> K["패킹 48시간 유지\n고위험군 항생제 개별 판단"]
+    J2 -- "Yes" --> K["패킹 48시간 유지
+    고위험군 항생제 개별 판단"]
     J2 -- "No\n(후방 출혈 의심)" --> C
 
     style A fill:#f0f4ff,stroke:#99aaff
@@ -160,23 +159,13 @@ graph TD
     style F fill:#e6f9e6,stroke:#44bb44
 ```
 
-<p align="center"><em>코피 처치 알고리듬</em></p>
+<p align="center"><strong>코피 처치 알고리듬</strong></p>
 
 ***
 
 ### <mark style="color:orange;">기저 원인별 관리</mark>
 
-| 원인 | 관리 방법 |
-|---|---|
-| 항혈소판제 (aspirin, clopidogrel, NSAID) | 가능 시 중단 (영향 최대 7\~10일 지속); 필요 시 혈소판 수혈; 심혈관 적응증 시 중단 전 처방의 협진 |
-| 항응고제 — warfarin | 중단 + INR 확인; INR >3.0이면 Vit K(경구/IV) 투여; 다량 출혈 시 FFP 또는 4-factor PCC 고려 |
-| 항응고제 — NOAC | 투약 중단 후 신속 상급병원 전원이 일차 의원 원칙; reversal agent(idarucizumab, andexanet alfa)는 상급병원 응급실에서 평가; 재개는 지혈 확인 후 24\~72시간(혈전 위험도에 따라 처방의 협의) |
-| 혈소판 감소증 | 혈소판 수혈 (혈소판 <50,000/μL 또는 지혈 실패 시) |
-| Von Willebrand disease | desmopressin(DDAVP) 투여; factor VIII replacement 고려 |
-| 혈우병 | 해당 factor replacement |
-| 간경변증 | PT/INR 모니터링; FFP 투여 고려 |
-| 신부전·요독증 | desmopressin 투여; 혈액 투석 고려 |
-| 허브·보완제 (생강·은행·인삼) | 투여 중단 |
+<table><thead><tr><th width="228">원인</th><th>관리 방법</th></tr></thead><tbody><tr><td>항혈소판제 (aspirin, clopidogrel, NSAID)</td><td>가능 시 중단 (영향 최대 7~10일 지속); 필요 시 혈소판 수혈; 심혈관 적응증 시 중단 전 처방의 협진</td></tr><tr><td>항응고제 — warfarin</td><td>중단 + INR 확인; INR >3.0이면 Vit K(경구/IV) 투여; 다량 출혈 시 FFP 또는 4-factor PCC 고려</td></tr><tr><td>항응고제 — NOAC</td><td>투약 중단 후 신속 상급병원 전원이 일차 의원 원칙; reversal agent(idarucizumab, andexanet alfa)는 상급병원 응급실에서 평가; 재개는 지혈 확인 후 24~72시간(혈전 위험도에 따라 처방의 협의)</td></tr><tr><td>혈소판 감소증</td><td>혈소판 수혈 (혈소판 &#x3C;50,000/μL 또는 지혈 실패 시)</td></tr><tr><td>Von Willebrand disease</td><td>desmopressin(DDAVP) 투여; factor VIII replacement 고려</td></tr><tr><td>혈우병</td><td>해당 factor replacement</td></tr><tr><td>간경변증</td><td>PT/INR 모니터링; FFP 투여 고려</td></tr><tr><td>신부전·요독증</td><td>desmopressin 투여; 혈액 투석 고려</td></tr><tr><td>허브·보완제 (생강·은행·인삼)</td><td>투여 중단</td></tr></tbody></table>
 
 ***
 
@@ -184,7 +173,7 @@ graph TD
 
 * **점막 보습** : 식염수 비강 세척 **1일 2\~3회**; 바셀린 또는 mupirocin 연고(성냥 머리 크기)를 비강 외측벽(nasal alar 내측)에 **1일 2\~3회(아침·저녁·취침 전)** 도포 <mark style="color:blue;">\[에스로반]</mark>; 실내 습도 40\~60% 유지 (가습기 사용)
 * **코 손상 회피** : 코 후비기 금지, 코 세게 풀기 금지
-* **비내 스테로이드 올바른 분무법** : 분무구를 비중격이 아닌 **외측 비강벽(눈 바깥쪽 방향)**을 향하도록 기울여 분사 — 비중격 직접 접촉 시 점막 위축·출혈 유발
+* **비내 스테로이드 올바른 분무법** : 분무구를 비중격이 아닌 \*\*외측 비강벽(눈 바깥쪽 방향)\*\*을 향하도록 기울여 분사 — 비중격 직접 접촉 시 점막 위축·출혈 유발
 * **생활 습관** : 격렬한 운동·과로 수일간 제한, 뜨겁거나 매운 음식 회피, 금연
 * **비염 관리** : 알레르기 비염 치료 — 코 후빔·비강 충혈 감소
 
@@ -245,7 +234,7 @@ R04.0 코피
 > **코피가 났을 때 올바른 응급 처치**
 >
 > * **머리를 앞으로 약간 숙이십시오.** 뒤로 젖히면 피가 목으로 넘어가 구역질이나 구토를 일으킬 수 있습니다.
-> * **코의 물렁한 부분(연골 부위)**을 엄지와 검지로 꽉 쥐고 **10\~15분간 쉬지 않고** 압박하십시오. 중간에 확인하면 혈전이 떨어져 다시 출혈이 시작됩니다.
+> * \*\*코의 물렁한 부분(연골 부위)\*\*을 엄지와 검지로 꽉 쥐고 **10\~15분간 쉬지 않고** 압박하십시오. 중간에 확인하면 혈전이 떨어져 다시 출혈이 시작됩니다.
 > * 입으로 호흡하고, 넘어온 피는 삼키지 말고 뱉으십시오.
 > * 코를 풀거나 후비지 마십시오.
 > * 15분 압박에도 멈추지 않으면 즉시 병원을 방문하십시오.

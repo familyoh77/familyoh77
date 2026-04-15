@@ -73,9 +73,9 @@ Red Flags!
 
 ### 알레르기비염(AR) vs 비-알레르기비염(non-AR) 감별
 
-*   알레르기비염과 비-알레르기비염 증상을 동시에 가지고 있는 경우가 많음
+* 알레르기비염과 비-알레르기비염 증상을 동시에 가지고 있는 경우가 많음
 
-    ![image](../.gitbook/assets/5afe4a98-5c71-440d-81ab-608edf250e33.JPG)
+<table><thead><tr><th width="158">임상 특징</th><th>AR</th><th>non-AR</th></tr></thead><tbody><tr><td>악화 요인</td><td>알레르기 항원 노출; 보통 계절 영향 있음</td><td>보통 지속; 자극(온도, 습도, 냄새, 매연), 바이러스 감염</td></tr><tr><td>알레르기 가족력</td><td>흔함</td><td>적음</td></tr><tr><td>다른 알레르기 증상</td><td>흔함</td><td>적음</td></tr><tr><td>코 가려움</td><td>흔함</td><td>적음</td></tr><tr><td>재채기</td><td>현저함</td><td>적음</td></tr><tr><td>콧물</td><td>흔함</td><td>적음</td></tr><tr><td>코 막힘</td><td>흔함</td><td>흔함</td></tr><tr><td>후비루</td><td>적음</td><td>현저함</td></tr><tr><td>코 점막 소견</td><td>다양, 창백, 부종</td><td>다양, 발적</td></tr><tr><td>기타 증상</td><td></td><td>두통, 후각 감퇴, 부비동염</td></tr></tbody></table>
 
 ## 진단
 
@@ -102,9 +102,9 @@ Red Flags!
 * 알레르겐(꽃가루 알레르기) 유행 2주 전부터 약물 치료를 시행하면 증상을 줄일 수 있음
 * 약물 선택 : corticosteroid 비내 분무제가 1차 선택제
   * &#x20;seasonal AR 환자의 1차 선택 : 비내 steroid ± 비내 또는 경구 항히스타민
-  *   &#x20;perennial AR 환자의 1차 선택 : 비내 steroid ± 비내 항히스타민
+  * &#x20;perennial AR 환자의 1차 선택 : 비내 steroid ± 비내 항히스타민
 
-      ![image](../.gitbook/assets/e2619442-a499-46ce-bf2a-86793469fbe1.JPG)
+<table><thead><tr><th width="160">중증도</th><th width="123">기본</th><th>옵션</th></tr></thead><tbody><tr><td>경증, 간헐적</td><td>비내 steroid</td><td>• 항히스타민제 (경구 or 비내)</td></tr><tr><td>경증~중등증</td><td>비내 steroid</td><td>• 코 막힘 : 비강 세척 or 코 울혈 제거제<br>• 콧물 : 비내 ipratropium or 항히스타민제<br>• 지속적인 코/안구 증상 : 항히스타민제 (경구 or 비내)</td></tr><tr><td>중증</td><td>비내 steroid</td><td>• 항히스타민제 (경구 or 비내)<br>• 항류코트리엔제<br>• 비내 cromolyn</td></tr><tr><td>중등증~중증, <br>지속적</td><td>비내 steroid</td><td>• 심한 코 막힘 : 경구 steroid 단기 (1~2주) or 비내 울혈 제거제 (4일 이내) or 항류코트리엔제<br>• 증상 호전 없음 : 면역 요법<br>• 구조적 이상 : 수술</td></tr></tbody></table>
 
 ## 비-약물 치료
 
@@ -112,9 +112,14 @@ Red Flags!
 
 * 금연
 * 알레르겐이 생활 전반에 걸쳐 있어 완전한 회피가 어렵고 원인이 명확하지 않을 때가 많아 효과가 제한적임 (☞ [천식](../223_/071_-asthma.md#undefined-37))
-*   환경 조절에 의한 충분한 효과를 얻기까지 수 주\~수개월 소요
+* 환경 조절에 의한 충분한 효과를 얻기까지 수 주\~수개월 소요
 
-    ![image](../.gitbook/assets/07f0d68c-01e7-4e19-a04d-24ae4afe2540.JPG)
+<table><thead><tr><th width="167">구분</th><th>내용</th></tr></thead><tbody><tr><td>집먼지진드기에 대한 <br>조치¹</td><td>• 알레르겐 볼투과 천으로 매트리스, 베개, 이불을 감쌈<br>• 카펫 및 부드러운 가구에 대한 진드기 살균제 사용</td></tr><tr><td>꽃가루 회피 조치²</td><td>• 꽃가루가 많을 때의 야외 활동 제한(이른 아침, 이른 저녁, 풀을 베는 동안)<br>• 집과 차에서 창문을 닫고 지내기<br>• 꽃가루에 대한 많은 노출 후 샤워/세척<br>• 환경 지수가 나쁠 때 야외에서의 세탁물 건조 회피</td></tr></tbody></table>
+
+_1) 권고 수준 Grade A(충분한 근거)._ \
+_2) 권고 수준 Grade D(미흡한 연구 수준의 전문가 의견)_
+
+<p align="center"><em><mark style="color:$info;">Ref. BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis. 2017. Table 3.</mark></em></p>
 
 #### 비강 세척
 
@@ -133,9 +138,11 @@ Red Flags!
 
 #### 알레르기비염 치료제의 효과 비교
 
+<table><thead><tr><th width="232">치료 제제</th><th width="68"></th><th width="73">재채기</th><th width="66">콧물</th><th width="77">코 막힘</th><th width="85">코가려움</th><th width="85">안구 증상</th></tr></thead><tbody><tr><td>steroid</td><td>비내</td><td>+++</td><td>+++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>항히스타민</td><td>비내</td><td>++</td><td>++</td><td>+</td><td>++</td><td>-</td></tr><tr><td></td><td>경구</td><td>++</td><td>++</td><td>+</td><td>+++</td><td>++</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+++</td></tr><tr><td>코 울혈 제거제</td><td>비내</td><td>-</td><td>-</td><td>++++</td><td>-</td><td>-</td></tr><tr><td></td><td>경구</td><td>-</td><td>-</td><td>+</td><td>-</td><td>-</td></tr><tr><td>Cromolyn</td><td>비내</td><td>+</td><td>+</td><td>+</td><td>+</td><td>-</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>++</td></tr><tr><td>항콜린제</td><td>비내</td><td>-</td><td>++</td><td>-</td><td>-</td><td>-</td></tr><tr><td>항류코트리엔</td><td>경구</td><td>-</td><td>+</td><td>++</td><td>-</td><td>++</td></tr><tr><td>식염수 코 세척</td><td></td><td>-</td><td>+</td><td>+</td><td>-</td><td>-</td></tr><tr><td>면역 치료</td><td></td><td>+</td><td>+</td><td>+</td><td>-</td><td>+</td></tr><tr><td>비내 steroid+비내 항히스타민</td><td></td><td>+++</td><td>+++</td><td>+++</td><td>+++</td><td>+++</td></tr></tbody></table>
 
+✽흔히 비내 분무제 사용을 불편해하므로 분무제는 한 가지만 사용하고 나머지는 경구제 선택, 또는 복합 분무제 선택
 
-
+<p align="center"><em><mark style="color:$info;">Ref. Treatment of Allergic Rhinitis. AFP 2010:81(12):1440~46.</mark></em><br><em><mark style="color:$info;">BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis. 2017.</mark></em><br></p>
 
 ### Steroid
 
@@ -149,9 +156,12 @@ Red Flags!
 * 임신 중 사용 가능
 * 국소 부작용 : 코/목 자극, 코피, 코 마름, 쓴맛, 칸디다 증식(드묾)
 * 전신 부작용 : 유의미한 전신적 영향은 없음; 소아에서 장기 사용에 따른 최종 신장에 미치는 영향은 없는 것으로 알려져 있으나 신장 모니터링을 권고 (✽1년 이상 사용 시의 심각한 부작용 보고는 없으나 이에 대한 연구는 부족함)
-*   상호 작용 : fluticasone은 강한 CYP3A4 저해제(예: itraconazole)와 상호 작용 가능성이 있음
+* 상호 작용 : fluticasone은 강한 CYP3A4 저해제(예: itraconazole)와 상호 작용 가능성이 있음
 
-    ![image](../.gitbook/assets/68e1f0a6-2324-4445-a10a-0243a6132596.JPG)
+<table><thead><tr><th width="279">성분명 [상품명]</th><th width="125">성인 용량*</th><th width="117">소아 용량*</th><th width="80">최소 연령</th><th width="86">전신  흡수율</th></tr></thead><tbody><tr><td>ciclesonide [옴나리스 나잘]</td><td>2회 puffs qd</td><td>-</td><td>6세</td><td>&#x3C;0.1%</td></tr><tr><td>mometasone f. [나조넥스 나잘]</td><td>1~2회 puffs qd</td><td>1회 puff qd</td><td>2세</td><td>&#x3C;0.1%</td></tr><tr><td>fluticasone f. [아바미스 나잘]</td><td>1~2회 puffs qd</td><td>1회 puff qd</td><td>2세</td><td>&#x3C;1%</td></tr><tr><td>fluticasone p. [후릭소나제 코악]</td><td>2회 puffs qd~bid</td><td>1~2회 puffs qd</td><td>4세</td><td>&#x3C;2%</td></tr><tr><td>beclomethasone [리노클레닐 비액]</td><td>2회 puffs qd</td><td>-</td><td>-</td><td>-</td></tr><tr><td>budesonide [나리타 정비액]</td><td>1~2회 puffs bid</td><td>1회 puff bid</td><td>6세</td><td>>10%</td></tr><tr><td>triamcinolone [나자코트 비액]</td><td>1~2회 puffs qd</td><td>1~2회 puffs qd</td><td>2세</td><td>-</td></tr></tbody></table>
+
+_\*비공 당 분무 횟수_ \
+※ 복합제 : fluticasone-azelastine : 비공 당 1 puff bid \[딜라스틴 나잘]
 
 #### 경구제
 
@@ -304,9 +314,11 @@ Red Flags!
 ### 수유 중
 
 * 1세대 및 2세대 경구 항히스타민제 : 안전
-*   비내 steroid : 안전
+* 비내 steroid : 안전
 
-    ![image](../.gitbook/assets/607e395d-6a79-401a-b2ee-cb15dc7004fe.JPG)
+
+
+![image](../.gitbook/assets/607e395d-6a79-401a-b2ee-cb15dc7004fe.JPG)
 
 ***
 
