@@ -1,7 +1,5 @@
 # 비부비동염 Rhinosinusitis, 부비동염 Sinusitis
 
-![image](../.gitbook/assets/c3359021-fcce-48dd-8053-8f4d3a860de4.JPG)
-
 ## 일반 사항
 
 *   비부비동염 : nasal cavity 및 paranasal sinus에 증상이 있는 염증
@@ -21,9 +19,8 @@
 
 ※ AAAAI 정의
 
-•Acute bacterial rhinosinusitis (ABRS) : ＞10일, ＜12주;
-
-•RARS : ≥7일 지속되는 episode가 ≥3회/년 발생, 각 episode 사이는 무증상
+* Acute bacterial rhinosinusitis (ABRS) : ＞10일, ＜12주;
+* RARS : ≥7일 지속되는 episode가 ≥3회/년 발생, 각 episode 사이는 무증상
 
 ## 원인
 
