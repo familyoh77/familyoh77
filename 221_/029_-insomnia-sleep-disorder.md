@@ -75,7 +75,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
 * 자살 사고가 구체적이거나 자살 시도 직후인 경우 (✽불면증은 자살 위험의 독립적 위험 인자)
 * 급성 섬망 또는 의식 변화 동반 (원인 질환 즉각 평가 필요)
@@ -213,7 +213,7 @@
 
 ### <mark style="color:orange;">불면증 1차 진료 관리 흐름</mark>
 
-_✽ Red flag 확인 및 2차 원인 감별(OSA·사건수면·하지불안·기면증 등)은 위 진단 섹션의 흐름도를 참조_
+_✽ Red flag 확인 및 2차 원인 감별(OSA·사건수면·하지불안·기면증 등)은 아래 진단 섹션의 흐름도를 참조_
 
 {% hint style="info" %}
 **STEP 3. Insomnia phenotype 분류**
@@ -513,7 +513,48 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 ***
 
-![](../.gitbook/assets/7216da0b-0e71-49a1-b90a-19ac5a9d5e19.png)
+```mermaid
+graph TD
+    Start([잠을 잘 못자거나, 자는 동안 자주 깨거나, 아침에 일찍 깨는가?]) --> Q1[최근의 스트레스나 정신과적 문제,<br/>의학적 문제와 연관이 있는가?]
+    
+    Q1 -- "예" --> A1[정신과적 평가 및 의학적 평가]
+    Q1 -- "아니오" --> Q2[불면증이 수면 각성 주기와 관련이 있는가?]
+    
+    Q2 -- "예" --> A2["일주기 리듬 수면각성장애<br/>-앞당겨진 수면위상형 <br/>-뒤쳐진 수면위상형<br/>-시차 혹은 교대근무"]
+    Q2 -- "아니오" --> Q3[잠자는 동안 이상행동이 관찰되는가?]
+    
+    Q3 -- "예" --> A3["사건수면<br/>-렘수면 행동장애<br/>-몽유병 등)"]
+    Q3 -- "아니오" --> Q4[잠들 무렵에 다리에 이상한 감각이나 불편감이 있거나,<br/>자다가 다리를 차는 증상이 있는가?]
+    
+    Q4 -- "예" --> A4[하지불안증후군<br/>주기적 사지운동장애]
+    Q4 -- "아니오" --> Q5[자는 동안 코골이가 있거나 무호흡이 관찰되면서<br/>낮졸림증이 관찰되는가?]
+    
+    Q5 -- "예" --> A5[폐쇄성 수면무호흡증]
+    Q5 -- "아니오" --> Q6[심한 낮졸림증이 관찰되는가?]
+    
+    Q6 -- "예" --> A6[기면증<br/>과다수면증]
+    Q6 -- "아니오" --> Q7[잠이 쉽게 들지 않거나, 중간에 자주 깨거나, 아침에 일찍 일어나는 것이 주 3회 이상 3개월 이상 지속되었는가?]
+    
+    Q7 -- "예" --> Diagnosis[불면장애 진단]
+    
+    Diagnosis --> CBT[불면증 인지행동치료]
+    
+    CBT -- "불면증 인지행동치료에 반응이 없거나<br/>치료가 여의치 않은 경우" --> Drug[약물치료]
+    
+    Drug --> Type1[수면개시장애]
+    Drug --> Type2[수면유지장애]
+    
+    Type1 --> D1["- Z drug<br/>-Benzodiazepine<br/>-Ramelteon"]
+    Type2 --> D2["- Z drug<br/>-Benzodiazepine<br/>-Doxepin, trazodone<br/>-Suvorexant"]
+
+    style Start fill:#f9f,stroke:#333,stroke-width:2px
+    style Diagnosis fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style CBT fill:#fff4dd,stroke:#d4a017,stroke-width:2px
+```
+
+<p align="center"><strong>불면증 진단 및 치료 흐름도</strong></p>
+
+<p align="center">대한신경정신의학회. 한국판 불면증 임상진료지침 2019. 그림 4.</p>
 
 ***
 
@@ -529,19 +570,21 @@ G47 수면장애
 
 {% hint style="info" %}
 **약물 선택 요약 (Decision Guide)**
+{% endhint %}
 
-| 상황 | 우선 선택 | 대안 |
-|------|-----------|------|
-| 입면 장애 (일반) | Z-drug (zolpidem, zaleplon) | DORA, eszopiclone |
-| 유지 장애 | DORA ⭐, doxepin 3–6 mg | zolpidem CR, eszopiclone |
-| 혼합형 | DORA ⭐ | eszopiclone, zolpidem CR |
-| 고령자 | DORA, doxepin 3 mg, ramelteon | Z-drug 최저용량 (단기) |
-| OSA 동반 | DORA, ramelteon | BZD·Z-drug 회피 |
-| 우울증 동반 | mirtazapine | trazodone (보조적) |
-| 일주기리듬 장애 | melatonin + 광치료 | — |
+| 상황         | 우선 선택                         | 대안                       |
+| ---------- | ----------------------------- | ------------------------ |
+| 입면 장애 (일반) | Z-drug (zolpidem, zaleplon)   | DORA, eszopiclone        |
+| 유지 장애      | DORA ⭐, doxepin 3–6 mg        | zolpidem CR, eszopiclone |
+| 혼합형        | DORA ⭐                        | eszopiclone, zolpidem CR |
+| 고령자        | DORA, doxepin 3 mg, ramelteon | Z-drug 최저용량 (단기)         |
+| OSA 동반     | DORA, ramelteon               | BZD·Z-drug 회피            |
+| 우울증 동반     | mirtazapine                   | trazodone (보조적)          |
+| 일주기리듬 장애   | melatonin + 광치료               | —                        |
 
-⚠️ 고령자·낙상 위험 → BZD/Z-drug 원칙적 회피  
-⚠️ 자살 위험 → Z-drug 신중 사용  
+{% hint style="info" %}
+⚠️ 고령자·낙상 위험 → BZD/Z-drug 원칙적 회피\
+⚠️ 자살 위험 → Z-drug 신중 사용\
 ⚠️ OSA 의심 → BZD 사용 금지
 {% endhint %}
 
