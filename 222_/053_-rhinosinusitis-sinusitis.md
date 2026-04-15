@@ -21,9 +21,7 @@
 
 ## 원인
 
-*   기전 : sinus mucosa의 염증(neutrophil 유입, cytokine 방출) 및 부종 → sinus mucosa surface 손상,
-
-    mucociliary clearance 장애, sinus ostia(ostiomeatal complex) 폐쇄
+* 기전 : sinus mucosa의 염증(neutrophil 유입, cytokine 방출) 및 부종 → sinus mucosa surface 손상, mucociliary clearance 장애, sinus ostia(ostiomeatal complex) 폐쇄
 
 ### 원인균
 
@@ -35,9 +33,16 @@
 
 * 감기(부비동염의 대부분은 감기와 관련한 바이러스에 의해 발생), 기타 비염
 * 부비강 기형, 비중격 만곡, 아데노이드 비대, choanal atresia, 이물질, 코의 폴립, 코/부비동 종양
-*   섬모 기능 장애(예: Kartagener’s syndrome, 흡연, 코 울혈 제거제 남용), 치과 질환, cystic fibrosis, 면역 저하(예: 조절되지
+* 섬모 기능 장애(예: Kartagener’s syndrome, 흡연, 코 울혈 제거제 남용), 치과 질환, cystic fibrosis, 면역 저하(예: 조절되지 않는 당뇨병, 백혈구 감소, steroid 장기 사용), GERD, 전신 염증 상태(예: sarcoidosis, Wegener’s granulomatosis)
 
-    않는 당뇨병, 백혈구 감소, steroid 장기 사용), GERD, 전신 염증 상태(예: sarcoidosis, Wegener’s granulomatosis)
+Red Flags!
+
+* 심한 감염 또는 중증 합병증 : 지속되는 고열(＞39℃), 안와 부종, 심한 두통, 시각 이상, 의식 변화, 수막 자극 증상
+* 2차 항생제를 포함한 적절한 치료에도 반응하지 않음
+* 면역저하자 또는 복합 문제 보유자 : 간/신 장애, 항생제 과민, 장기 이식
+* 원내 감염
+* 수술적 중재가 필요한 해부학적 문제 : 중증 비용종, mucocele/mucopyocele, 폐쇄성 종양 의심
+* RARS의 악화를 동반한 CRS
 
 ## 임상 양상 및 진단
 
@@ -45,33 +50,51 @@
 
 ### 비부비동염 (Maxillary sinusitis) 추정 기준
 
-*   주증상 ≥2개, 또는 주증상 1개 & 부증상 ≥2개
+* 주증상 ≥2개, 또는 주증상 1개 & 부증상 ≥2개
+*   Major symptoms
 
-    ![image](../.gitbook/assets/edb4afc6-1b06-4c39-b4f3-be5e2572e75c.JPG)
+    purulent anterior nasal drainage\
+    purulent-discolored posterior nasal drainage 코 막힘    \
+    얼굴 울혈감, 가득 찬 느낌 얼굴 통증, 압박감(다른 주증상 없이 단독으로는 진단 요소 안 됨)    \
+    후각 저하    \
+    발열 (급성인 경우만 해당)
+* Minor symptoms  \
+  두통  \
+  귀의 통증, 압박감, 충만감 입냄새  \
+  치통  \
+  기침  \
+  발열(모든 경우) 피로감
 
 ### 세균 감염 진단 기준
 
 #### 의심 소견
 
 * 다음 중 하나 이상 해당
-
-① 농성 콧물, 코 막힘, 안면 압통/충만감 등 ARS 증상이 호전 없이 ≥10일 지속
-
-② 질환 시작부터 최소 3\~4일 연속 지속되는 심한 증상 : 발열(≥39℃), 농성 콧물, 얼굴 통증
-
-③ 초기 증상 호전 후 10일 내 ARS 증상 악화(‘double worsening’)
+  1. 농성 콧물, 코 막힘, 안면 압통/충만감 등 ARS 증상이 호전 없이 ≥10일 지속
+  2. 질환 시작부터 최소 3\~4일 연속 지속되는 심한 증상 : 발열(≥39℃), 농성 콧물, 얼굴 통증
+  3. 초기 증상 호전 후 10일 내 ARS 증상 악화(‘double worsening’)
 
 #### 급성 세균성 비부비동염 추정
 
-*   주증상 ≥2개, 또는 주증상 1개 & 부증상 ≥2개
-
-    ![image](../.gitbook/assets/1febdc99-65ff-4695-a39c-19ac6b5122a1.JPG)
+* 주증상 ≥2개, 또는 주증상 1개 & 부증상 ≥2개
+* 주증상  \
+  purulent anterior nasal drainage \
+  purulent posterior nasal drainage \
+  기침
+* 부증상\
+  두통  \
+  안면통  \
+  인후통 \
+  안와 주위 부종 \
+  귀의 통증  \
+  구강 악취  \
+  치통  \
+  wheeze 증가 \
+  발열
 
 ### 검사
 
-* 합병증이 발생하지 않는 한 바이러스와 세균 감별을 위한 검사는 필요 없음
-
-> ✽대부분 바이러스에 의해 발생하며 검사를 통한 진단 또는 세균과 바이러스 감염 감별이 용이하지 않음
+* 합병증이 발생하지 않는 한 바이러스와 세균 감별을 위한 검사는 필요 없음; ✽대부분 바이러스에 의해 발생하며 검사를 통한 진단 또는 세균과 바이러스 감염 감별이 용이하지 않음
 
 #### 실험실 검사
 
@@ -80,34 +103,23 @@
 #### 영상 검사
 
 * sinus X선 : 거의 도움이 되지 않으며 합병증이 없는 비부비동염에서는 권고하지 않음
-* CT, 비강 내시경, 알레르기/면역 기능 검사 : 치료 실패(4\~12주 이상 증상 지속) 또는 합병증이 있는 환자에서 고려
-
-> ✽CT는 해부학적 문제, 합병증 진단에 유리; MRI는 액체와 염증과 종양을 구별하는데 유리
+* CT, 비강 내시경, 알레르기/면역 기능 검사 : 치료 실패(4\~12주 이상 증상 지속) 또는 합병증이 있는 환자에서 고려; ✽CT는 해부학적 문제, 합병증 진단에 유리; MRI는 액체와 염증과 종양을 구별하는데 유리
 
 ### 증상에 따른 감별
 
-#### 코 분비물![image](../.gitbook/assets/e802edd5-d3c3-4126-ab9d-c403a74550e7.JPG)
+**코 분비물**
 
 * 편측 발생 : 비부비동염의 가능성이 적음
 *   색깔
 
-    •맑음 : 비감염
+    * 맑음 : 비감염
+    * 노란색 : 알레르기/감염
+    * 초록색 : 감염
 
-    •노란색 : 알레르기/감염
-
-    •초록색 : 감염
-
-> ✽콧물 색깔로 원인을 감별할 수 없으며, 초록색 분비물이
-
-> ```
-> 반드시 세균 감염을 의미하는 것은 아님
-> ```
-
-*   혈흔
-
-    •편측 : 종양, 이물, 코 후빔
-
-    •양측 : 육아종, 출혈 경향, 코 후빔
+    ✽ 콧물 색깔로 원인을 감별할 수 없으며, 초록색 분비물이 반드시 세균 감염을 의미하는 것은 아님
+* 혈흔
+  * 편측 : 종양, 이물, 코 후빔
+  * 양측 : 육아종, 출혈 경향, 코 후빔
 
 #### 코 막힘
 
@@ -147,24 +159,20 @@
 
 ### 치료 방침
 
-*   대증 치료 : 대부분 대증 치료로 회복
-
-    •진통제 : NSAID
-
-    •고용량 비내 steroid
-
-    •코 세척 : nasal saline, saline mist(20\~30 분 tid); 근거 적음 (☞ p.243)
+* 대증 치료 : 대부분 대증 치료로 회복
+  * 진통제 : NSAID
+  * 고용량 비내 steroid
+  * 코 세척 : nasal saline, saline mist(20\~30 분 tid); 근거 적음 (☞ p.243)
 * 항생제 : 대부분 바이러스에 의하므로 효과 없음; 선택적 적용
 * 동반 질환 치료 : 알레르기비염, 당뇨
-*   추적 관찰 : 합병증 없이 치료된 비부비동염에 대한 추가 평가는 필요 없음
-
-    •기저 위험 인자가 있는 경우 이에 대하여 추가 평가 고려
+* 추적 관찰 : 합병증 없이 치료된 비부비동염에 대한 추가 평가는 필요 없음
+  * 기저 위험 인자가 있는 경우 이에 대하여 추가 평가 고려
 
 ## 약물 치료
 
 ### 코 울혈 제거제
 
-* 경구 : 코 막힘에 대하여 약간의 효과; pseudoephedrine 30~~60 ㎎ tid~~qid \[슈다페드]
+* 경구 : 코 막힘에 대하여 약간의 효과; pseudoephedrine 30\~60 ㎎ tid\~qid \[슈다페드]
 *   비내 : 강력한 효과; 부작용 문제로 ≤4일/월로 사용 제한 (비보험); phenylephrine \[시네프린],
 
     naphazoline \[나리스타]\(chlorpheniramine 복합제), xylometazoline \[오트리빈], oxymetazoline \[레스피비엔]
@@ -174,12 +182,12 @@
 * 알레르기비염과 관련된 경우에 유효; 세균성 감염에서도 고려
 * ＞12세에서 고용량 비내 steroid 고려
 * 비내 : budesonide \[나리타 점비액], mometasone \[나조넥스 나잘] (☞ p.243)
-* 경구 : 제한적 사용; prednisolone 5~~60 ㎎/d \[소론도], methylprednisolone 4~~48 ㎎/d \[메치론]
+* 경구 : 제한적 사용; prednisolone 5\~60 ㎎/d \[소론도], methylprednisolone 4\~48 ㎎/d \[메치론]
 
 ### 항히스타민제
 
 * 효과 : 입증 안 됨; 점액 점도 증가 및 점막 건조로 악영향 가능성
-* 대상 : 심한 알레르기 증상 동반 시 고려 (☞ p.244)
+* 대상 : 심한 알레르기 증상 동반 시 고려 (☞ [알레르기비염](051_-allergic-rhinitis.md#undefined-24))
 * 경구 : cetirizine 10 ㎎ qd \[지르텍], fexofenadine 120 ㎎ qd \[알레그라], loratadine 10 ㎎ qd \[클라리틴]
 * 비내 : azelastine 비공 당 2번 분무 bid \[아젭틴 비액]
 
@@ -192,29 +200,27 @@
 
 ### 항생제
 
-* 대부분 항생제 투여는 필요 없음
-
-> ✽항생제 사용으로 단지 5%의 환자에서만 증상 기간이 줄어들며 부작용 발생이 위약의 2배라는 보고가 있음 ✽세균 감염이 의심되는 증상이 지속되거나 중증, 면역 결핍 환자에서 항생제가 치료 실패 확률을 절반으로 줄여준다는 보고가 있음
-
+* 대부분 항생제 투여는 필요 없음\
+  ✽항생제 사용으로 단지 5%의 환자에서만 증상 기간이 줄어들며 부작용 발생이 위약의 2배라는 보고가 있음 ✽세균 감염이 의심되는 증상이 지속되거나 중증, 면역 결핍 환자에서 항생제가 치료 실패 확률을 절반으로 줄여준다는 보고가 있음
 * 대상 : ABRS 진단 후 악화 또는 7\~10일 내 회복 안 됨, 나쁜 전신 건강 상태, 합병증 발생 고위험
 * macrolide(azithromycin, clarithromycin), TMP/SMX, 2/3세대 세파계는 내성 가능성이 높아 경험적 치료로는 권하지 않음
-* 투여 기간 : 합병증이 없는 경우 성인- 5~~10일, 소아- 10~~14일
-* 투여 시작 2~~3일 후에도 악화되거나, 투여 3~~5일 내 호전되지 않으면 변경 고려
+* 투여 기간 : 합병증이 없는 경우 성인- 5\~10일, 소아- 10\~14일
+* 투여 시작 2\~3일 후에도 악화되거나, 투여 3\~5일 내 호전되지 않으면 변경 고려
 
-#### 내성 위험군
+**내성 위험군**
 
 * ＜2세 또는 ＞65세 - 보호시설/보육시설 생활자
 * 최근 1달 내 항생제 복용 - 최근 5일 내 입원 병력
 * 동반 질환 - 면역 저하
 
-#### 대한감염학회 지침 (2017)
+**대한감염학회 지침** (2017)
 
-\*\* 1차 선택제\*\*
+&#x20;1차 선택제
 
 * amoxicillin : 500\~875 ㎎ bid \[파목신]
 * Amox/clav. : Amox 500 ㎎ tid 또는 875 ㎎ bid \[오구멘틴]
 
-\*\* 대체제\*\*
+대체제
 
 * cefpodoxime : 200 ㎎ bid \[바난]
 * cefdinir : 300 ㎎ bid 또는 600 ㎎ qd \[옴니세프]
@@ -222,27 +228,22 @@
 * levofloxacin : 500 ㎎ qd \[크라비트]
 * moxifloxacin : 400 ㎎ qd \[아벨록스]
 
-#### AAO 지침 (2015)
+**AAO 지침** (2015)
 
 *   Amox/clav.의 1차 선택 대상 : 한 달 내 항생제 사용력, 환자와 밀접한 접촉, 이전에 항생제 치료 실패,
 
-    적절한 예방에도 불구하고 감염 발생, 흡연자/가족 흡연자, 항생제 세균 내성 지역, 중증(≥39℃, 화농성 합병증),
+    적절한 예방에도 불구하고 감염 발생, 흡연자/가족 흡연자, 항생제 세균 내성 지역, 중증(≥39℃, 화농성 합병증), frontal or sphenoidal sinusitis, 재발 병력, ＞65세, 기저 질환(당뇨, 심/간/신질환)
 
-    frontal or sphenoidal sinusitis, 재발 병력, ＞65세, 기저 질환(당뇨, 심/간/신질환)
-
-#### NICE 지침 (2017)
+**NICE 지침** (2017)
 
 * ≤10일 증상에 대해서는 항생제를 사용하지 않음
 * ＞10일 증상이 호전되지 않는 경우 세균 감염 가능성에 따라 항생제 사용
 * 고위험 환자에서는 즉시 항생제 투여
 * 1차 선택 : Pc VK; phenoxymethylpenicillin 500 ㎎ qid ×5d
-*   대체
-
-    •doxycycline : 200 ㎎ ×1d & 100 ㎎ qd ×4d \[독시사이클린]
-
-    •clarithromycin : 500 ㎎ bid ×5d \[클래리시드]
-
-    •erythromycin : 임신부에서 선택; 250~~500 ㎎ qid or 500~~1000 ㎎ bid ×5d
+* 대체
+  * doxycycline : 200 ㎎ ×1d & 100 ㎎ qd ×4d \[독시사이클린]
+  * clarithromycin : 500 ㎎ bid ×5d \[클래리시드]
+  * erythromycin : 임신부에서 선택; 250\~500 ㎎ qid or 500\~1000 ㎎ bid ×5d
 * Amox/clav. : 500/125 ㎎ tid ×5d; 2차 선택 또는 고위험군에서 1차 선택 \[오구멘틴]
 
 ### 점액용해제
@@ -258,26 +259,21 @@
 ## 치료 실패 시 조치
 
 * Partial response : 호전은 되었으나 정상으로 회복이 안 된 경우; 10\~14일간 (추가) 항생제 치료 또는 교체 고려
-*   Poor response : 3\~5일간의 1차 항생제 치료에 거의 반응이 없는 경우; 보다 광범위한 항생제 또는 내성균에 대한
-
-    항생제 치료 고려
+* Poor response : 3\~5일간의 1차 항생제 치료에 거의 반응이 없는 경우; 보다 광범위한 항생제 또는 내성균에 대한 항생제 치료 고려
 * 치료 순응도 확인
 * 비-약물 치료 강화
 * 기저 위험 인자(예: 알레르기 요인, 비용종, 종양, 면역 저하, 구조적 이상)에 대하여 상세한 평가
 * 배양 검사/감수성 검사 등 균주에 대한 평가
 * 이번 진단 및 치료와 관련하여 CT를 시행하지 않은 경우 부비강 CT 검사 고려
 
-### ■ 만성 비부비동염
+***
+
+## ■ 만성 비부비동염
 
 ### 일반 사항
 
-* 비부비동염의 객관적 증거 및 주요 증상(안면 통증/압박감, 후각 저하, 콧물, 코막힘) 중 ≥2가지
-
-＞12주 지속
-
-*   만성 비부비동염은 감염보다는 염증 질환으로서, 반복되는 감염에 의한 점막 섬모의 손상과 관련되어 있으며
-
-    항생제 치료에 효과 적음
+* 비부비동염의 객관적 증거 및 주요 증상(안면 통증/압박감, 후각 저하, 콧물, 코막힘) 중 ≥2가지, ＞12주 지속
+* 만성 비부비동염은 감염보다는 염증 질환으로서, 반복되는 감염에 의한 점막 섬모의 손상과 관련되어 있으며 항생제 치료에 효과 적음
 * 수술 치료를 포함한 모든 치료에도 불구하고 완치가 어렵고 재발이 흔함
 * 치료에 반응하지 않으면 의뢰 고려
 
@@ -295,8 +291,8 @@
 
 ### 감별
 
-* 알레르기비염 (☞ p.240)
-* 비-알레르기비염 (☞ p.250)
+* 알레르기비염 (☞ [알레르기비염](051_-allergic-rhinitis.md))
+* 비-알레르기비염 (☞ [비-알레르기비염](052_-non-allergic-rhinitis.md))
 * 2차성 비염 or 코 울혈 : 임신, 갑상선저하증
 * 구조적 이상 : 비용종, 이물, 비중격 만곡, 편도/아데노이드 비대
 * 편두통, facial pain syndrome
@@ -304,10 +300,7 @@
 ### 검사
 
 * 필요시 구조적 원인 진단과 수술 적응증 감별을 위하여 의뢰 및 검사
-* CT(민감도- excellent), nasal endoscopy(good), anterior rhinoscopy(fair)
-
-> ✽CT 검사는 약물 치료 4\~6주 후 시행 \[AAAAI]
-
+* CT(민감도- excellent), nasal endoscopy(good), anterior rhinoscopy(fair); ✽CT 검사는 약물 치료 4\~6주 후 시행 \[AAAAI]
 * allergy evaluation
 
 ***
@@ -317,16 +310,14 @@
 ### 치료 방침
 
 * 치료 목표 : 부비강 내 분비물 배출, 염증 감소, 균주 제거
-* 치료 방법 : 비강 세척 (☞ p.243), 항생제, 비내 steroid, 수술
+* 치료 방법 : 비강 세척 (☞ [알레르기비염](051_-allergic-rhinitis.md#undefined-18)), 항생제, 비내 steroid, 수술
 * 기저 질환 치료. 예) 알레르기, 당뇨
 
 #### BSACI 지침
 
 * 권고 등급 grade A : 생리 식염수 세척, 비내 steroid, (알레르기 환자의 경우) 경구 항히스타민제, 장기(\~12주) 경구 항생제
 * grade C : 단기(\~2주) 경구 항생제, 점액 용해제, 세균 분해물 \[브롱코박솜]
-*   grade D (연구가 부족한 전문가 의견) : 알레르겐 회피, 국소 항생제, 경구 steroid, (경구/비내) 코 울혈 제거제,
-
-    전신/국소 항진균제, PPI, 면역 치료, 허브 치료
+* grade D (연구가 부족한 전문가 의견) : 알레르겐 회피, 국소 항생제, 경구 steroid, (경구/비내) 코 울혈 제거제, 전신/국소 항진균제, PPI, 면역 치료, 허브 치료
 
 #### 치료 실패 시 조치
 
@@ -344,17 +335,14 @@
 * 만성 비부비동염에서의 항생제의 역할과 효과에 대한 근거는 불충분함
 * 3개월 내 사용하지 않은 항생제 또는 배양 검사에 따른 선택
 * amoxicillin/clav. : amox 500 ㎎ tid 또는 875 ㎎ bid; 소아 45 ㎎/㎏/d #2 \[오구멘틴]
-* clindamycin : 300 ㎎ qid 또는 450 ㎎ tid; 소아 20~~40 ㎎/㎏/d #3~~4 \[훌그램]
+* clindamycin : 300 ㎎ qid 또는 450 ㎎ tid; 소아 20\~40 ㎎/㎏/d #3\~4 \[훌그램]
 * moxifloxacin : 400 ㎎ qd \[아벨록스]
-*   metronidazole \[후라시닐] plus 아래 중 하나
-
-    •cefuroxime \[진네트], cefdinir \[옴니세프], cefpodoxime \[바난], levofloxacin \[크라비트], azithromycin \[지스로맥스],
-
-    clarithromycin \[클래리시드], TMP-SMX \[셉트린]
+* metronidazole \[후라시닐] plus 아래 중 하나
+  * cefuroxime \[진네트], cefdinir \[옴니세프], cefpodoxime \[바난], levofloxacin \[크라비트], azithromycin \[지스로맥스], clarithromycin \[클래리시드], TMP-SMX \[셉트린]
 
 #### 비내 Steroid
 
-☞ p.243
+☞ [알레르기비염](051_-allergic-rhinitis.md#steroid)
 
 #### 경구 Steroid
 
@@ -362,10 +350,106 @@
 * 심한 증상에 대하여 단기 사용(＜3주)
 * prednisolone 40 ㎎/d ×5d → 20 ㎎/d ×5d \[소론도]
 
-![image](../.gitbook/assets/155a30c7-0d5c-47a9-8a41-9adda231dd62.JPG)
 
-> **질병코드** J01 급성 부비동염
+
+```mermaid
+graph TD
+    %% 상단 시작 노드
+    Start([부비동염 가능성이 있는 성인])
+
+    %% 기간별 분기
+    Start --> LT4["≤4주"]
+    Start --> B4to12["4~12주"]
+    Start --> GT12["≥12주"]
+
+    %% [왼쪽] 4주 이하 경로
+    LT4 --> ARS_C{ARS 기준 충족?}
+    ARS_C -- No --> Viral_URI[Viral URI]
+    ARS_C -- Yes --> ABRS_C{ABRS 기준 충족?}
+    
+    ABRS_C -- No --> Viral_ARS[Viral ARS 대충 치료]
+    ABRS_C -- Yes --> ABRS[ABRS]
+
+    ABRS --> Comp_1{합병증 의심?}
+    Comp_1 -- Yes --> Imaging[영상 검사]
+    Comp_1 -- No --> ABRS_Tx[ABRS 대충 치료]
+
+    Imaging --> Comp_2{합병증 의심?}
+    Comp_2 -- Yes --> Comp_Tx[합병증 및 ABRS 치료]
+    Comp_2 -- No --> ABRS_Tx
+
+    ABRS_Tx --> Watch_Abx[주의 관찰1 또는 항생제 투여]
+    Watch_Abx --> Watch[주의1 관찰 결정]
+    Watch_Abx --> Abx[항생제 치료 결정]
+
+    Watch --> Follow[추적 관찰]
+    Follow --> Fail_1{치료 실패?2}
+    Fail_1 -- Yes --> Abx
+    Fail_1 -- No --> Success
+
+    Abx --> Amox[Amoxicillin ± clavulanate3]
+    Amox --> Fail_2{치료 실패?2}
+    Amox --> Success[치료 성공]
+
+    Success --> Recur{재발?}
+    Recur -- No --> End[치료 종료]
+    Recur -- Yes --> Eval_C((A))
+
+    Fail_2 -- Yes --> Other_Rule[합병증 및 다른 원인 배제]
+
+    %% [중간] 4~12주
+    B4to12 --> Subacute[Subacute sinusitis4]
+
+    %% [오른쪽] 12주 이상 경로 (CRS)
+    GT12 --> CRS_S{CRS 징후?}
+    CRS_S -- No --> Not_CRS[Not CRS]
+    CRS_S -- Yes --> Inflam_E{Inflammation 증거?}
+    
+    Inflam_E -- No --> Not_CRS
+    Inflam_E -- Yes --> CRS[CRS]
+
+    CRS --> Polyp[Nasal polyp 유무 확인]
+    Polyp --> Saline[비강 세척 및 비내 스테로이드
+    항진균제 사용 안 함]
+    Saline --> Eval_C[만성 상태 평가]
+
+    %% 만성 관리 연결
+ 
+    Eval_C --> Eval_IM[알레르기 및 면역 평가]
+    Eval_IM --> Final_Tx[내과적 또는 외과적 치료]
+
+    %% 스타일 지정
+    style Start fill:#f9f9f9,stroke:#333
+    style ABRS fill:#ffe6e6,stroke:#ff9999
+    style CRS fill:#ffe6e6,stroke:#ff9999
+```
+
+_1) 추구 관찰이 가능해야 함_\
+_2) 진단 후 악화하거나 7일 내 호전되지 않으면 치료 실패_\
+_3) Pc 알레르기 시 doxycycline 또는 respiratory quinolone 선택_\
+_4) 환자를 ARS 또는 CRS처럼 관리해야 하는지 여부에 대하여 임상적으로 판단_\
+_ARS=acute rhinosinusitis. ABRS=acute bacterial rhinosinusitis, CRS=chronic rhinosinusitis_
+
+<p align="center"><strong>비부비동염 관리 알고리듬</strong><br>Ref. AAO/HNSF. Clinical practice guideline: Adult Sinusitis. 2015.</p>
+
+***
+
+### **질병코드**&#x20;
+
+J01 급성 부비동염
 
 J32 만성 부비동염
 
-![image](../.gitbook/assets/b46c333c-823b-4d17-a875-c0f0093b9b11.JPG)
+***
+
+## 처방례
+
+처방례 1. 비세균성\
+코데닝 6T #3 (졸음 주의)\
+(통증 시) 맥시부펜 이알 300 ㎎/T 3T #3 또는 (알레르기 시) 소론도 5 ㎎ 6T #3
+
+\
+처방례 2. 세균성\
+오구멘틴 625 ㎎/T 3T #3\
+뮤코펙트 30 ㎎/T 3T #3\
+애니펜 300 ㎎/T 3T #3
