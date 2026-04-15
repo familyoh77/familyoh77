@@ -1,7 +1,5 @@
 # 비-알레르기비염 Non-Allergic Rhinitis
 
-![image](../.gitbook/assets/cbe66275-fb3a-4cd2-9720-f41cc1c3ee3e.JPG)
-
 ## 일반 사항
 
 * IgE에 매개되지 않은 코점막의 염증
@@ -30,20 +28,18 @@
 
 ### 감염성 비염 (Infectious Rhinitis)
 
-*   증상 : 보통 목 증상(인후통, 가려움) → 코 증상(코 막힘, 콧물, 재채기) → 기침 순으로 진행
-
-    •AR에 비하여 증상이 서서히 발생, 전신 증상 동반 가능
+* 증상 : 보통 목 증상(인후통, 가려움) → 코 증상(코 막힘, 콧물, 재채기) → 기침 순으로 진행
+  * AR에 비하여 증상이 서서히 발생, 전신 증상 동반 가능
 * 원인 : 바이러스(대부분), 세균
 * 기전 : 코 점막 부종, 섬모 운동 장애, 부비강 배출구 폐쇄/점액 정체, O2 tension 저하
-* 치료 (☞ p.256, p.283)
+* 치료 (☞ [부비동염](053_-rhinosinusitis-sinusitis.md), [감기](../223_/060_-common-cold.md))
 
 ### 혈관운동성 비염 (Vasomotor Rhinitis)
 
 * 증상 : 코 막힘, 콧물; 간혹 가려움, 재채기; 계절적 변화 또는 눈 증상은 없음
 * 기전 : vidian nerve의 과민 → 분비, 점막 부종 및 재채기 증가
-*   관련 인자 : 온도 변화(덥거나 찬 공기), 운동, 자극(예: 냄새, 연기, 먼지), 습도, 음주, 뜨겁거나 매운 음식, 고령
-
-    •특별한 항원 또는 감염과 관련 없음
+* 관련 인자 : 온도 변화(덥거나 찬 공기), 운동, 자극(예: 냄새, 연기, 먼지), 습도, 음주, 뜨겁거나 매운 음식, 고령
+  * 특별한 항원 또는 감염과 관련 없음
 * 치료 : 비내 steroid, 비내 항히스타민제
 
 ### Nonallergic rhinitis with eosinophilia syndrome (NARES)
@@ -68,12 +64,9 @@
 
 ### 직업성 비염 (Occupational Rhinitis)
 
-*   증상 : 코 막힘, 콧물; 알레르기 및 비-알레르기성 특성이 모두 있음
-
-    •근무지에서 증상이 발생하고 근무지를 떠나면 호전
-*   원인 : 근무지의 알레르겐 또는 자극 물질. 예) 식품 가공업- 음식물 단백질, 구두 제조업- 접착제, 화학 공장- 암모니아,
-
-    마트- 세정제/향수/찬 공기
+* 증상 : 코 막힘, 콧물; 알레르기 및 비-알레르기성 특성이 모두 있음
+  * 근무지에서 증상이 발생하고 근무지를 떠나면 호전
+* 원인 : 근무지의 알레르겐 또는 자극 물질. 예) 식품 가공업- 음식물 단백질, 구두 제조업- 접착제, 화학 공장- 암모니아, 마트- 세정제/향수/찬 공기
 
 ### 호르몬성 비염 (Hormonal Rhinitis)
 
@@ -83,9 +76,7 @@
 ### 약물 유발성 비염 (Drug-induced Rhinitis)
 
 * 증상 : 코 막힘, 콧물
-*   원인 : ACEI, α/β-차단제, reserpine, guanethidine, phentolamine, aspirin, NSAID, chlorpromazine, amitriptyline,
-
-    alprazolam, PDE5i, 경구 피임제
+* 원인 : ACEI, α/β-차단제, reserpine, guanethidine, phentolamine, aspirin, NSAID, chlorpromazine, amitriptyline, alprazolam, PDE5i, 경구 피임제
 * 원인 약물 중단 후 수 주 내 회복
 
 ### 약물 반동성 비염 (Rhinitis Medicamentosa)
@@ -104,17 +95,33 @@
 ### 치료 방침
 
 * 유발 인자/유발 약물 회피
-* 비강 세척 (☞ p.243)
+* 비강 세척 (☞ [알레르기비염](051_-allergic-rhinitis.md#undefined-18))
 * 약물 치료 : 대부분의 경우 비내 steroid가 1차 선택제
 
 ### 치료제 선택
 
-```
-![image](images/7a016463-1949-4fc4-9ff9-6f1933eeb10b.JPG)
-```
+<table><thead><tr><th width="129">유형</th><th width="144">1차 선택</th><th>2차 선택</th><th>3차 선택</th><th>4차 선택</th></tr></thead><tbody><tr><td>Vasomotor</td><td>비내 steroid</td><td>식염수 세척</td><td>비내 항히스타민</td><td></td></tr><tr><td>NARES</td><td>비내 steroid</td><td>경구 steroid</td><td>경구 항히스타민</td><td></td></tr><tr><td>Gustatory</td><td>비내 항콜린제</td><td></td><td></td><td></td></tr><tr><td>Atrophic</td><td>비내 위생</td><td>식염수 세척</td><td>괴사 조직 제거</td><td>항생제 (감염 시)</td></tr><tr><td>Occupational</td><td>회피</td><td>비내 steroid</td><td>경구 항히스타민</td><td>비내 cromolyn</td></tr><tr><td>Hormonal</td><td>취침 시 머리 높임</td><td>식염수 세척</td><td>비내 steroid</td><td></td></tr><tr><td>약물 유발성</td><td>약물 중단</td><td></td><td></td><td></td></tr><tr><td>약물 반동성</td><td>비내 steroid</td><td>경구 steroid</td><td></td><td></td></tr><tr><td>Anatomic</td><td>경구 steroid</td><td>Surgery</td><td></td><td></td></tr></tbody></table>
 
-> **질병코드** J30.0 혈관운동성 비염
+_비강 내 제제 (☞_ [_알레르기비염_](051_-allergic-rhinitis.md#undefined-20)_)_\
+_경구 항히스타민 : 항콜린 효과가 있는 1세대가 보다 효과적 (☞_ [_항히스타민제_](../231_/212_-antihistamines.md)_)_
+
+***
+
+### **질병코드**&#x20;
+
+J30.0 혈관운동성 비염
 
 J31.0 만성 비염
 
-![image](../.gitbook/assets/3ee3da5b-22f1-4007-823d-4e6779ff7609.JPG)
+***
+
+## 처방례
+
+처방례 1.\
+아바미스 나잘 스프레이 각 비강에 2번 분무 qd 　→ 증상 조절 후 각 비강에 1번 분무 qd\
+씨잘 5 ㎎/T 1T qd 저녁
+
+\
+처방례 2. 분무제 사용 곤란 환자\
+소론도 5 ㎎/T 3T qd 아침 슈다페드 60 ㎎/T 1T #2\
+클라리틴 10 ㎎/T 1T qd 저녁
