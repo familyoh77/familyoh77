@@ -16,8 +16,8 @@
 ## <mark style="color:green;">원인</mark>
 
 * 기전(추정)
-  * neurotransmitter 이상 : serotonin system의 활성 저하, norepinephrine system의 활성 증가, GABA system의 붕괴
-  * 뇌기능 이상 : amygdala 및 prefrontal cortex의 활성 증가
+  * neurocircuit 이상 : 편도체(amygdala) 과활성 + 전전두엽(PFC) 조절 기능 저하에 의한 top-down regulation 감소; salience network 과활성이 핵심 병태생리로 이해됨
+  * neurotransmitter 이상 : serotonin system 활성 저하, norepinephrine system 활성 증가, GABA inhibitory tone 감소 (단일 신경전달물질 불균형보다 회로 수준의 조절 이상이 더 포괄적인 설명 모델임)
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -47,6 +47,7 @@
 
 * 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * 반복되는 공황 발작 또는 증상 악화
+* **50세 이후 새로 발생한 불안** → 기질적 원인 배제 필요 (갑상선 질환, 부신 종양, 심부정맥, 신경계 질환 등); 검사 우선 시행
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -55,7 +56,7 @@
 * 복통, 소화불량, 식욕 저하, 구역, 구토, 설사, 빈뇨
 * 수면 장애, 악몽, 성욕 감퇴
 
- ※ 공황장애에 비하여 호흡 곤란, 두근거림, 빈맥 증상은 적음
+ ※ 공황장애에 비하여 갑작스럽고 최고조에 도달하는 양상은 덜함 (자율신경 증상 자체는 GAD에서도 나타날 수 있음)
 
 ## <mark style="color:green;">진단</mark>
 
@@ -134,13 +135,22 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">감별</mark>
 
 * 스트레스, 갑상선항진증, 심장 질환, 심한 신체 질환, 알코올/항불안제 금단 증상
-* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine), 교감 신경 흥분제(예: β2-작용제), 일부 항고혈압제(예: hydralazine, calcium channel blocker — 반사적 교감 활성), NSAID
+* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine), 교감 신경 흥분제(예: β2-작용제), 일부 항고혈압제(예: hydralazine, calcium channel blocker — 반사적 교감 활성); pseudoephedrine; cannabis(불안 악화 가능)
 * 다른 정신 질환 : 우울증, 공황장애, 강박장애, 외상 후 스트레스, 신체화장애, 조현병, 망상장애
 
 #### <mark style="color:$primary;">우울증</mark>
 
 * 우울증은 과거의 사건과 상황에 대하여 자기비판적인 경향을 보이는 반면, GAD 환자들은 미래의 사건에 대하여 걱정하는 경향이 있음 (☞ [우울증](027_-depression.md))
 * 이른 아침 각성, 일중 기분 변화, 자살 충동 등의 우울증 증상이 GAD에서는 흔하지 않음
+* **불안 vs 우울 overlap 감별 팁**
+
+| 증상 패턴 | 시사 진단 |
+|-----------|-----------|
+| 무쾌감(anhedonia), 의욕 저하, 이른 아침 각성 | 우울증 우세 |
+| 근육 긴장, 신체 긴장감, 미래 걱정 | GAD 우세 |
+| 갑작스러운 공포 발작, 회피 행동 | 공황장애 |
+
+> ※ GAD와 주요우울증은 50% 이상에서 동반 이환 — 두 진단 모두 충족 시 SSRI/SNRI가 공통 1차 치료제로 동시 치료 가능
 
 #### <mark style="color:$primary;">건강염려증</mark>
 
@@ -169,6 +179,51 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 ## <mark style="background-color:$warning;">Management</mark>
 
+{% hint style="info" %}
+**핵심 요약** : GAD는 SSRI/SNRI + CBT + measurement-based follow-up이 표준 치료
+{% endhint %}
+
+### <mark style="color:orange;">일차 진료 치료 알고리즘</mark>
+
+```
+Step 0. Red flag 확인
+  → 자살 사고·급성 정신증·타해 의도 → 즉각 이송/응급 평가
+
+Step 1. GAD-7 시행
+  GAD-7 <5   → 재보증(reassurance), 생활 습관 교육
+  GAD-7 5~9  → 심리교육 ± CBT; 4~6주 후 재평가
+  GAD-7 ≥10  → SSRI/SNRI 시작 + CBT 병행 권고
+
+Step 2. 4~6주 후 평가
+  반응 ≥50% 개선 → 현 치료 유지
+  반응 <50%      → 용량 증량 또는 약제 교체
+
+Step 3. 부분 반응 → 보조 약물 추가(BZD 단기, hydroxyzine, pregabalin 등)
+        무반응    → 약제 교체
+
+Step 4. 2가지 이상 충분한 시도 후 미호전 → 정신건강의학과 의뢰
+```
+
+### <mark style="color:orange;">환자 유형별 약 선택</mark>
+
+| 환자 유형 | 추천 약제 |
+|-----------|-----------|
+| 불면 심함 | paroxetine, mirtazapine |
+| 통증 동반 | duloxetine |
+| 성기능 중요 | pregabalin, vortioxetine (우울 동반 시 bupropion) |
+| 고령 | sertraline, escitalopram (저용량 시작) |
+| 급성 불안 | hydroxyzine, 단기 BZD |
+| BZD 의존 위험 | buspirone, SSRI/SNRI 단독 |
+
+### <mark style="color:orange;">치료 timeline (환자 설명 + 임상 판단 기준)</mark>
+
+| 기간 | 예상 경과 |
+|------|-----------|
+| Week 0~2 | 초기 불안 일시 악화 가능(jitteriness); 환자에게 사전 안내 |
+| Week 2~4 | 수면·신체 증상부터 부분 반응 시작 |
+| Week 6~8 | 충분한 치료 반응 여부 평가 시점 |
+| Month 3~6 | remission 도달 목표; 재발 방지를 위해 최소 12개월 유지 |
+
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 자살 위험, 약물 남용, 다른 정신 질환 여부를 확인하고 관리
@@ -176,16 +231,21 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 불안증으로 진단되면 조기에 치료 시작
 * 낮은 강도의 심리적 중재 : 개별적 또는 그룹 중재
 * 현저한 기능 장애가 있거나 낮은 강도의 심리적 중재로 호전되지 않는 경우 고강도 정신 치료(예: 인지행동 요법) &/or 약물 치료
-* 매 방문 때마다 불안 수준 정량화 모니터링(예: GAD-7)
+* 매 방문 때마다 불안 수준 정량화 모니터링(GAD-7) — **Measurement-based care**
+  * GAD-7 <5 (치료 중): 유지 또는 감량 검토
+  * GAD-7 5~9 : watchful waiting, 비약물 치료 강화
+  * GAD-7 ≥10 : 치료 시작 또는 강화 (SSRI/SNRI)
+  * 삶의 질 평가 문항도 함께 확인 — 총점이 낮아도 기능 손상이 있으면 적극 개입
 
  ※ GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
 * 인지행동 요법(CBT), mindfulness-based therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
-* 카페인 섭취 제한, 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
+* 카페인 섭취 제한(>400 ㎎/day 불안 악화), 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
+* **Avoid list** : 에너지음료, pseudoephedrine(코감기약), cannabis(불안 악화 가능), 고용량 카페인 음료
 * 신체 활동, 이완 요법 : 규칙적 운동, 요가, 태극권, 기공, 명상; 일부 연구에서 유효
-* 디지털 치료제(DTx) : 앱 기반 인지행동치료(CBT)를 경증\~중등도 불안장애의 보조 수단으로 활용 가능; 국내외 허가 절차 진행 중 (근거 축적 중, 2023 APA update)
+* 디지털 치료제(DTx) : 앱 기반 인지행동치료(CBT)를 경증\~중등도 불안장애의 보조 수단으로 활용 가능; FDA cleared CBT 기반 DTx 존재(2024\~2025); 경증\~중등도에서 보조치료로 권고 수준까지 근거 축적 — 단, 국내 건강보험 급여 미적용, 활용 시 보조적 역할임을 안내
 * 허브(근거 부족) : St. John's wort(hyperici), Sympathyl, 시계풀(passionflower), 쥐오줌풀(valerian)
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -204,6 +264,8 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
 * 저용량으로 시작 → 4\~6주 후 평가하여 효과가 부족하면 1\~2주 간격으로 증량
 * 부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 4주 동안 매주 자살 생각에 대하여 모니터링)
+* 초기 불안 악화(jitteriness syndrome) : 투약 첫 1~2주에 불안·초조가 일시 악화될 수 있음. 위험 인자 : 공황장애 동반, 기저 불안 수준 높음, 급격한 증량 → 저용량 시작 및 환자 사전 설명으로 예방
+* 성기능 장애 : 발생률 30~50%; 주요 증상 — 성욕 저하, 불감증, 사정 지연. 관리 : 용량 감량, vortioxetine 또는 bupropion(우울 동반 시)으로 전환 고려
 * 세로토닌 증후군 주의 : SSRI/SNRI 처방 전 병용 약물 확인 필수 — tramadol(오피오이드계 진통제), triptans(편두통 치료제), linezolid(항생제), fentanyl, dextromethorphan(일반 감기약) 등 세로토닌 활성 약물과 병용 시 세로토닌 증후군(고열·근육 경직·진전·의식 변화) 위험; 다른 과 처방 여부 반드시 확인
 * QT 간격 연장 : escitalopram·citalopram은 SSRI 중 QT 연장 위험이 상대적으로 높음 (FDA 경고, 2012); 고용량(escitalopram >20 ㎎), QT 연장 위험 약물(항부정맥제·항생제·항정신병제 등) 병용 시 주의; 기저 심질환·저칼륨혈증 환자에서 투여 전 ECG 고려
 * SNRI 추가 주의 : 산동(mydriasis) 효과로 인한 안압 상승. 폐쇄각 녹내장(narrow-angle glaucoma) 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
@@ -232,7 +294,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 #### <mark style="color:$primary;">Azapirone</mark>
 
 * 5-HT1A autoreceptor 방해에 의한 serotonergic system 작용
-* benzodiazepine보다 의존 위험은 적지만 효과가 적고 효과 발현까지 오래 걸림
+* benzodiazepine보다 의존 위험은 적음; 효과 크기는 SSRI보다 작고 onset이 느림(2~4주)
 * 주요우울증에는 효과 불충분 (경도 우울 동반 시 일부 효과 보고는 있으나 신뢰도 제한적)
 * 부작용 : 불면, 흥분, 구역
 * buspirone : 10\~60 ㎎/d <mark style="color:blue;">\[부스파]</mark>
@@ -243,6 +305,8 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 장기적 경과를 개선시키지는 못함
 * 동반된 우울증에 대해서는 효과 없음
 * 저용량으로 시작 (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
+* 투여 방식 : PRN보다 단기 scheduled 투여(예: 1~2주 정해진 용량)가 내성·의존 형성 면에서 더 안전한 경우가 많음
+* 마약성 진통제(opioid) 병용 최소화 : 호흡 억제 위험 증가 (특히 고령, COPD 환자)
 * 고령에서는 내성 및 낙상 등의 사고 위험으로 감량 투여 (특히 long-acting 제제 주의)
 * 불안, 불쾌감, 진전 등의 반동 현상을 피하기 위하여 중단 시 중간 반감기 약제(예: clonazepam)가 선호되며 중단 시 tapering
 * 역설적 탈억제(Paradoxical disinhibition) : 드물게 고령자, 기질적 뇌질환(치매·뇌손상) 환자, 소아에서 BZD 복용 후 오히려 불안·흥분·공격성이 심해지는 반응이 나타날 수 있음; 이 경우 즉시 중단
@@ -262,13 +326,13 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * hydroxyzine : H1 길항 + 항콜린 작용; 의존성 없음; 효과 발현 빠름(30\~60분) — 급성 불안 완화에 유용
 * 진정 작용으로 수면 장애 동반 시 유리
 * 주의 : 졸음, 입마름; 고령자 낙상 주의; QT 연장 가능성
-* hydroxyzine : 50\~100 ㎎ qid <mark style="color:blue;">\[아디팜]</mark>
+* hydroxyzine : 25\~50 ㎎ tid\~qid (최대 200 ㎎/d) <mark style="color:blue;">\[아디팜]</mark>
 
 #### <mark style="color:$primary;">β-차단제</mark>
 
 * 발한, 심박수 증가 등 불안에 따른 증상 억제 효과; 불안 자체에는 효과 없음
-* propranolol : 10\~120 ㎎/d <mark style="color:blue;">\[인데놀]</mark>
-* metoprolol : 100\~200 ㎎/d <mark style="color:blue;">\[베타록]</mark> (☞ [고혈압](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
+* propranolol : 10\~40 ㎎ PRN (상황불안·performance anxiety 기준; GAD 일반 치료 고용량 사용은 근거 제한적) <mark style="color:blue;">\[인데놀]</mark>
+* metoprolol : 25\~100 ㎎ PRN <mark style="color:blue;">\[베타록]</mark> (☞ [고혈압](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
 
 ## <mark style="color:green;">치료 Step</mark>
 
@@ -290,7 +354,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 비전형 항정신병제
   * quetiapine : 시작 25 ㎎/d → 매주 or 격주로 25\~50 ㎎ 증량, 최대 300 ㎎/d <mark style="color:blue;">\[쎄로켈]</mark>
 * 항히스타민제
-  * hydroxyzine : 50\~100 ㎎ qid <mark style="color:blue;">\[아디팜]</mark>
+  * hydroxyzine : 25\~50 ㎎ tid\~qid (최대 200 ㎎/d) <mark style="color:blue;">\[아디팜]</mark>
 
 #### <mark style="color:$primary;">Step 4</mark>
 
@@ -306,7 +370,7 @@ TCA
 #### <mark style="color:$primary;">Step 5</mark>
 
 * Step 4에서 사용되지 않은 계열의 3번째 약물 추가
-* bupropion : 100\~450 ㎎ <mark style="color:blue;">\[웰부트린]</mark>
+* bupropion : 100\~450 ㎎ <mark style="color:blue;">\[웰부트린]</mark> ⚠️ 불안 우세 환자에서 초조·불안 악화 가능 — 선택적 사용(주로 우울 동반 시)
 * pregabalin : 150\~600 ㎎ <mark style="color:blue;">\[리리카]</mark> (☞ GABA-analogue 항목)
 
 #### <mark style="color:$primary;">Step 6</mark>

@@ -86,6 +86,8 @@
 * 폐쇄성 수면무호흡증 강력 의심 : 코골이 + 수면 중 무호흡 목격 + 주간 졸림 동반 - 수면다원검사 의뢰
 * 기면병 의심 : 갑작스러운 탈력 발작, 수면 마비, 입면 시 환각 동반
 * 렘수면 행동장애 의심 : 수면 중 격렬한 행동(소리 지름, 팔다리 움직임) - 파킨슨병 등 신경과적 질환 감별 필요
+* 야간 흉통·호흡곤란 동반 불면 : 심부전·협심증·폐질환 가능성 — 원인 질환 우선 평가
+* 렘수면 행동장애 확진 또는 강력 의심 : synucleinopathy(파킨슨병, 루이소체 치매 등) 전구 증상 가능성 — 신경과 의뢰
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> - 단독 시 즉각 위험 낮으나 경과 관찰 필요
 
@@ -99,7 +101,7 @@
 * 수면 이력 : 수면/기상 시간, 근무/활동 시간, 불면 패턴(입면 지연, 유지 장애), 주간 졸음 여부
   * 수면 일지 작성 : 취침/기상/밤중 각성 시간, 야간 배뇨 시간/배뇨량, 수면 환경, 낮잠, 음주, 스트레스, 기분
 * 실험실 검사 : CBC, 빈혈 검사, TSH, 간/신장 기능, CRP, Vit B12, urine toxicology
-* ECG, EEG, CT/MRI, circadian markers(melatonin, 체온)
+* ECG; EEG, CT/MRI, circadian markers(melatonin, 체온)는 routine 검사가 아니며 특정 원인 질환 의심 시에만 시행
 * 수면다원검사 : 치료 실패, 주간 졸음 위험 직업군(예: 직업 운전자)에서 고려
 
 ※ **불면증과 정신 질환의 양방향 관계** : 불면증은 우울증·불안 장애의 '증상'인 동시에, 그 자체로 우울증과 불안 장애를 악화시키는 '독립적 위험 인자'임(양방향성, Bidirectional relationship). 따라서 기저 정신 질환이 있는 환자에서 불면증을 별도로 평가·치료하는 것이 중요하며, 불면증 치료가 선행될 때 동반 정신 질환의 예후도 개선될 수 있음
@@ -120,7 +122,7 @@
 - [ ] 차 안에 승객으로 앉아 있을 때
 - [ ] 차를 운전하고 가다가 교통 체증으로 몇 분간 멈추었을 때
 
-▶판정 : ＜10점 정상, ≥10점 경증, 14\~18점 중등증, ≥19점 중증 주간 졸림증
+▶판정 : ＜10점 정상, 10\~12점 경증, 13\~15점 중등증, ≥16점 중증 주간 졸림증
 
 #### <mark style="color:$primary;">불면증 심각도 지수 (Insomnia Severity Index, ISI)</mark>
 
@@ -194,6 +196,17 @@
 * (특히 다제약물 복용 환자) 진료 시 수면 장애 확인 (✽수면 장애 환자의 ＜⅓만 의사와 의논함)
 * 원인 제거, 기저 질환 치료, 수면 환경 개선 등 생활 요법 중재, 정신 요법, 약물 치료
   * 약물 치료는 남용, 내성, 중독 가능성이 있으므로 주의
+
+**불면증의 핵심 병태생리 — 과각성 모델 (Hyperarousal model)**
+
+* 불면증의 핵심 기전은 신경계 과각성(hyperarousal) 상태 : HPA axis 활성 증가, 교감신경 항진, 피질 각성 증가
+* **Sleep effort paradox** : 잠을 자려고 노력할수록 각성이 높아져 오히려 불면이 악화되는 역설적 현상; CBT-I의 핵심 치료 대상
+
+**Short sleeper vs Insomnia 구분** (치료 전 필수 감별)
+
+* Short sleeper : 수면 시간이 짧아도 **주간 기능 정상** → 치료 불필요; 과치료 주의
+* Insomnia : 수면 문제 + **주간 기능 장애** 동반 → 치료 대상
+
 * 야간 저산소증이 있는 만성 폐질환 또는 수면무호흡증 환자는 의뢰
 
 **고령자 치료 원칙**
@@ -211,7 +224,8 @@
 _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments for Chronic Insomnia Disorder in Adults. J Clin Sleep Med. 2021;17(2):255–262.</mark>_
 
 * 인지행동치료(CBT-I) : 만성 불면증의 모든 경우에 대한 1차 치료 \[AASM 강력 권고]; 약물 치료보다 장기 효과 우수하며 부작용 없음; 수면 제한법, 자극 조절, 이완 요법, 인지 치료, 수면 위생의 복합 구성
-  * 디지털 CBT-I (dCBT-I) : 앱·웹 기반 CBT-I; 접근성 낮은 환경에서 대안으로 활용 가능
+  * **경증\~중등도 불면증에서는 약물 없이 CBT-I(또는 dCBT-I) 단독 치료를 우선 권장**
+  * 디지털 CBT-I (dCBT-I) : 앱·웹 기반 CBT-I; 1차 진료에서 접근성 낮은 환경의 대안으로 적극 활용 가능
     * 국내 현황 : 식약처 허가 디지털 치료제(DTx)로 에임메드 솜즈(Somzz), 웰트 웰트-I(WELT-I) 등 처방 가능; 의사가 처방 코드 발행 → 환자 앱 설치 후 6\~9주 CBT-I 과정 수행; 혁신의료기술로 지정, 비급여 또는 선별급여 형태 운영; 처방 시 혁신의료기술 동의서 작성 및 앱 설치 안내 절차 필요; 약물 의존도가 높거나 CBT-I 접근성이 낮은 환자에게 대안으로 제시 가능
 * 명상, mindfulness, 광 치료 : 보조적 활용
 
@@ -235,6 +249,10 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 3. 이를 바탕으로 취침 시간을 정함
 4. 수면 효율이 85% 이하라면 잠자리에 누워 있는 시간을 15분씩 줄임
 5. 수면 효율이 90% 이상에 도달하면 잠자리에 누워 있는 시간을 15분씩 늘림
+
+{% hint style="info" %}
+**고령자에서의 Sleep compression** : 수면 제한법은 고령자에서 주간 졸림 악화 및 순응도 저하 문제가 있음. 수면 압력을 점진적으로 높이는 **sleep compression**(침대 시간을 급격히 줄이지 않고 수 주에 걸쳐 서서히 단축)이 더 현실적인 대안임
+{% endhint %}
 
 #### <mark style="color:$primary;">자극 조절 (stimulus control therapy)</mark>
 
@@ -275,10 +293,11 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 최소 유효 용량 투여. 특히 고령에서는 저용량 투여 (☞ [수면작용제](../231_/213_-antidepressants-and-anxiolytics.md#undefined-7))
 * 일시적 불면증에 대하여 단기 사용(최대 4\~5주)
 * 매일 수면제를 복용하는 환자는 간헐적 사용을 유도
-  * ✽수면제 복용 시(＜18정/년인 경우에도) 사망 위험률이 ＞3배 증가한다는 보고가 있음
+  * ✽일부 관찰연구에서 수면제 사용과 사망률 증가의 연관성이 보고되었으나, 인과관계는 확립되지 않았으며 기저 질환 중증도 등 교란 변수 가능성이 있음
 * 복용 시간 : 취침 30분 전 복용; 복용 후 최소 7\~8시간 수면 시간 확보 (✽melatonin 계열 제외)
 * 약물 투여 중단 시 반동 현상과 내성이 발생하지 않도록 tapering
   * Tapering 예시 : 2주 간격으로 기존 용량의 25%씩 감량 (예: zolpidem 10 mg → 7.5 mg → 5 mg → 2.5 mg → 중단); 금단 증상 발생 시 감량 속도를 늦추고 환자와 상의하여 조정
+  * ✽반동 불면(rebound insomnia)은 반감기가 짧은 약제(예: triazolam, zaleplon)에서 더 흔함 — 중단 전 환자에게 반드시 설명
 * 부작용 : 주간 졸음, 어지럼, 인지 장애, 내성, 반동 불면
   * 대처 방법 : 주간 졸음 발생 시 감량, 반감기가 짧은 약제 선택
 * 투여 주의/제한 : 고령, 알코올 남용, 자살 시도 병력, 수면무호흡증, 간/신/폐질환자, 운전자, 밤에 깨어나서 해야 할 일이 있는 사람
@@ -289,7 +308,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 #### <mark style="color:$primary;">Orexin 수용체 길항제 (Dual Orexin Receptor Antagonist, DORA)</mark>
 
 * 각성을 유지하는 orexin/hypocretin 신호를 차단하여 수면 유도; BZD·Z-drug과 달리 수면 구조(서파수면·렘수면) 보존
-* 의존·남용 위험 낮음; 고령자 및 수면무호흡증 동반 환자에서 BZD/Z-drug보다 상대적으로 안전
+* 의존·남용 위험 낮음; BZD/Z-drug보다 호흡 억제 위험이 낮아 고령자 및 수면무호흡증 동반 환자에서 상대적으로 선호되나, 중등도 이상 OSA에서는 주의 필요
 * 입면 및 수면 유지 장애 모두에 효과
 * suvorexant <mark style="color:blue;">\[벨솜라]</mark> : 10\~20 ㎎ qd 취침 직전; 국내 허가·비급여
   * 부작용 : 다음날 졸림, 두통, 이상한 꿈; 강력한 CYP3A 억제제(예: clarithromycin, itraconazole) 병용 피할 것
@@ -312,27 +331,28 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 
 * non-benzodiazepine hypnotics(benzodiazepine receptor agonist의 일종); 수면 잠복기 감소, 총 수면 시간 증가, 수면 유지, 수면 질 개선
 * FDA 승인 약제 : zolpidem <mark style="color:blue;">\[스틸녹스]</mark>, zaleplon <mark style="color:blue;">\[잘레딥]</mark>, zopiclone
-* 부작용 : 두통, 어지럼증, 졸림; 사건 수면, 기억상실, 환각, 자살 위험성 증가, 내성/의존/금단
+* 부작용 : 두통, 어지럼증, 졸림; 사건 수면, 기억상실, 환각, 자살 행동과의 연관성 보고(인과관계 불명확), 내성/의존/금단
 * 4\~5주 이하의 단기 사용 및 정기적 사용의 부작용을 감안하여 필요시(잠자리에 들었으나 잠이 잘 오지 않을 때) 복용 권고
 * FDA 블랙박스 경고 : zolpidem 등 Z-drug은 수면 보행, 수면 운전, 수면 중 식사 등 복잡 수면 행동(complex sleep behaviors)과 관련되며, 이로 인한 심각한 손상 및 사망 사례가 보고됨. 이전에 이러한 사건 수면이 발생한 환자에게는 투여 금기
 
 #### <mark style="color:$primary;">Melatonin</mark>
 
 * 저녁 시간에 송과체에서 분비되는 호르몬
-* 수면의 질 및 기간, circadian rhythm 회복에 유효하다는 보고가 있으나 논란; 연령에 따라 melatonin 합성과 농도가 감소하므로 고령에서 효과가 있을 가능성이 있음
+* 불면증 전반에서 효과 크기는 제한적이나, 고령자 및 일주기리듬 장애(DSPD, 시차 적응 등)에서는 임상적으로 유의한 효과가 보고됨; 연령 증가에 따라 melatonin 합성·농도가 감소하므로 고령자에서 우선 고려 가능
 * 치료 반응률이 다른 수면제에 비하여 낮고, 효과가 즉각적이지 않음
 * 최소 3주 이상 지속 복용; 3\~4주간 꾸준히 복용하면 66%에서 불면 증상 호전, 44%에서 기존 복용 수면제 용량 감량을 보였다는 보고가 있음
 * 일반적인 수면제에 비하여 인지 저하, 낙상, 내성/의존/금단 등의 부작용이 적음
 * 지속 방출형으로 ≥55세에서 수면 유지 장애에 고려; 속효성 제제는 권고 안 함
   * <mark style="color:$primary;">\[서카딘]</mark> : 지속 방출형(prolonged-release) 2 ㎎; 식약처 허가 의약품 (건강기능식품으로 유통되는 일반 멜라토닌(속효성, 비표준화 용량)과 구별됨). 일반 멜라토닌은 불면증 치료 근거 불충분
-* 복용 시간 : 아침 기상 시간 9시간 전에 복용, 2시간 후 취침
+* 복용 시간 : 일반적으로 취침 1\~2시간 전 복용; 일주기리듬 장애에서는 개인 수면 위상에 따라 조정
 * Ramelteon : melatonin 수용체 작용제; 수면 개시 장애, 고령 환자에서 고려
 
 #### <mark style="color:$primary;">항우울제</mark>
 
 * Doxepin <mark style="color:blue;">\[사일레노]</mark> : 입면 후 각성 시간, 총 수면 시간, 수면 효율 개선; 수면 유지 장애에 고려
   * 부작용 : 설사, 낮졸림증, 두통; 낙상 위험이 상대적으로 적음
-* Trazodone <mark style="color:blue;">\[트리티코]</mark> : 수면 개시 후 각성 시간(WASO), 총 수면 시간, 수면 효율, 서파 수면 증가; 수면 유지 장애에 고려; 25\~50 ㎎
+* Trazodone <mark style="color:blue;">\[트리티코]</mark> : 수면 개시 후 각성 시간(WASO), 총 수면 시간, 수면 효율, 서파 수면 증가; 25\~50 ㎎
+  * 불면증 단독 치료 목적의 1차 치료로는 권고되지 않음(AASM); 우울증 동반 시 선택적으로 사용
   * 부작용 : 두통, 기립저혈압; 남용 문제는 상대적으로 적음
 * Mirtazapine <mark style="color:blue;">\[레메론]</mark> : 수면 유도, 서파 수면 증가; 우울증 동반 불면증에 고려; 7.5\~30 ㎎
   * 부작용 : 과도한 진정, 식욕/체중 증가, 입마름
@@ -340,6 +360,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 #### <mark style="color:$primary;">기타</mark>
 
 * 항히스타민제, 항정신병제, L-tryptophan, phytotherapy(예: valerian), 향기 요법, 동종 요법, foot reflexology, 명상, 침, 뜸, 요가 : 증거 불충분, 권하지 않음
+  * 항히스타민제(예: diphenhydramine) : 특히 고령자에서 anticholinergic burden(인지 저하, 섬망, 변비, 요폐 등) 위험 — 사용 자제
 
 ### <mark style="color:orange;">권고 약제</mark>
 
@@ -394,6 +415,24 @@ G47 수면장애
 
 ## <mark style="color:purple;">처방례</mark>
 
+{% hint style="info" %}
+**약물 선택 요약 (Decision Guide)**
+
+| 상황 | 우선 선택 | 대안 |
+|------|-----------|------|
+| 입면 장애 (일반) | Z-drug (zolpidem, zaleplon) | DORA, eszopiclone |
+| 유지 장애 | DORA ⭐, doxepin 3–6 mg | zolpidem CR, eszopiclone |
+| 혼합형 | DORA ⭐ | eszopiclone, zolpidem CR |
+| 고령자 | DORA, doxepin 3 mg, ramelteon | Z-drug 최저용량 (단기) |
+| OSA 동반 | DORA, ramelteon | BZD·Z-drug 회피 |
+| 우울증 동반 | mirtazapine | trazodone (보조적) |
+| 일주기리듬 장애 | melatonin + 광치료 | — |
+
+⚠️ 고령자·낙상 위험 → BZD/Z-drug 원칙적 회피  
+⚠️ 자살 위험 → Z-drug 신중 사용  
+⚠️ OSA 의심 → BZD 사용 금지
+{% endhint %}
+
 > **처방례 1.** 입면 장애
 >
 > ```
@@ -437,7 +476,7 @@ G47 수면장애
 > 서카딘 2 mg/T  1T  취침 1~2시간 전  (비급여)
 > ※ 허가 사항: 55세 이상 수면 질 저하 불면증 단기 치료
 > ※ 최소 3주 이상 꾸준히 복용
-> ※ 복용 시간: 원하는 기상 시간 9시간 전 복용, 2시간 후 취침
+> ※ 일주기리듬 장애(DSPD, 시차 적응)에서는 개인 수면 위상에 따라 복용 시간 조정
 > ```
 
 > **처방례 5.** 우울증 동반 불면증
