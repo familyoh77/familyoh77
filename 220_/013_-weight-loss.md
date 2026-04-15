@@ -97,7 +97,7 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 
 * 종아리 둘레(Calf Circumference) : 31 ㎝ 미만이면 근감소증(sarcopenia) 의심; 측정이 간편하여 외래에서 선별 도구로 활용 가능
 * 악력(Grip Strength) : 남성 <28 ㎏, 여성 <18 ㎏ 미만 시 근감소증 의심 (AWGS 2019 기준)
-* 간이영양평가 단축형(MNA-SF) : 고령 환자 영양 상태 선별 도구 (총 14점); 12점 이상 정상, 8\~11점 영양불량 위험, 7점 이하 영양불량 → 자세한 평가 항목은 [아래](weight-loss.md#mna-sf) 참조
+* 간이영양평가 단축형(MNA-SF) : 고령 환자 영양 상태 선별 도구 (총 14점); 12점 이상 정상, 8\~11점 영양불량 위험, 7점 이하 영양불량 → 자세한 평가 항목은 [아래](013_-weight-loss.md#mna-sf) 참조
 
 ***
 

@@ -170,7 +170,7 @@ _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–82
 * **Vit B12** : PPI 장기 복용자·metformin 복용자·고령·비건 식이 환자에서 결핍 확인 후 보충; 경구(메코발라민 500 mcg tid) 또는 근주(cyanocobalamin 1,000 mcg IM) 요법 선택 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
 * **methylphenidate** : 암 관련 피로(Cancer-related fatigue) 또는 ME/CFS 환자 일부에서 시도되나 일관성 있는 효과를 보여주지 못함; 국내에서는 ADHD 외 적응증에 대한 보험 급여가 인정되지 않음
 * **CoQ10, L-carnitine** : 보조적으로 고려할 수 있으나 근거 약함
-* 식욕 자극제 : 체중 감소가 동반된, 다른 원인이 없는 환자에서 고려 (☞ [체중 감소](weight-loss.md#undefined-6))
+* 식욕 자극제 : 체중 감소가 동반된, 다른 원인이 없는 환자에서 고려 (☞ [체중 감소](013_-weight-loss.md#undefined-6))
 
 ***
 

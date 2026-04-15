@@ -307,16 +307,16 @@ _<mark style="color:$info;">Ref. Treatment of vertigo AFP 2005;71(6). Table 2. E
 
 #### <mark style="color:$primary;">Vertigo 원인별 특징</mark>
 
-|                          | 시간 경과                | 임상 상태                          | 안진         | 신경 증상                     | 청각 증상                             | 기타                       |
-| ------------------------ | -------------------- | ------------------------------ | ---------- | ------------------------- | --------------------------------- | ------------------------ |
-| **BPPV**                 | 반복; 짧음(＜1분)          | 특정 머리 움직임 or 자세로 증상 유발         | 말초성        | 없음                        | 없음                                | Dix-Hallpike maneuver 양성 |
-| **AUV / 전정신경염**          | 일회성; 갑자기 시작; 수일      | 바이러스 감염(예: 감기)이 동반되거나 선행       | 말초성        | 병변측으로 넘어짐; 뇌간 증상 없음       | 청력 이상 없음 (청력 저하 시 labyrinthitis 또는 AICA stroke 감별 필요)           | Head impulse test 비정상    |
-| **Meniere disease**      | 재발; 수 분\~수 시간        | 자발적 개시                         | 말초성        | 없음                        | 귀 충만감(± 불편감) 선행; 편측성 이명, 저주파 감각신경성 난청 |                          |
-| **Vestibular migraine**  | 재발; 수 분\~72시간        | 편두통 병력; 두통 없는 경우 약 30%         | 중추성 or 말초성 | 편두통 증상(두통, 빛/소리 과민)       | 보통 없음                             | 삽화 사이 정상; 시각 자극으로 유발 가능  |
-| **PPPD**                 | 지속(≥3개월); 비발작성       | 전정 질환·불안 선행; 직립·움직임·시각 자극으로 악화 | 보통 없음      | 없음                        | 없음                                | SSRI·CBT·전정재활 치료         |
-| **Vertebrobasilar TIA**  | 일회성 or 재발; 수 분\~수 시간 | 고령, 혈관 위험인자, 경추 외상             | 중추성        | 일시적 신경 장애(발음, 균형, 시각, 마비) | 보통 없음                             | 영상(MRI) 검사               |
-| **Brainstem infarction** | 갑자기 시작; 수일\~수 주      | 고령, 혈관 위험인자                    | 중추성        | 다른 뇌간 증상                  | 보통 없음(AICA 경색은 청력 소실 동반)          | 영상(MRI) 검사               |
-| **소뇌 경색 or 출혈**          | 갑자기 시작; 수일\~수 주      | 고령, 혈관 위험인자(고혈압)               | 중추성        | 보행 장애, 두통, 사지 마비, 연하 장애   | 없음                                | 응급 영상(MRI) 검사            |
+|                          | 시간 경과                | 임상 상태                          | 안진         | 신경 증상                     | 청각 증상                                                 | 기타                       |
+| ------------------------ | -------------------- | ------------------------------ | ---------- | ------------------------- | ----------------------------------------------------- | ------------------------ |
+| **BPPV**                 | 반복; 짧음(＜1분)          | 특정 머리 움직임 or 자세로 증상 유발         | 말초성        | 없음                        | 없음                                                    | Dix-Hallpike maneuver 양성 |
+| **AUV / 전정신경염**          | 일회성; 갑자기 시작; 수일      | 바이러스 감염(예: 감기)이 동반되거나 선행       | 말초성        | 병변측으로 넘어짐; 뇌간 증상 없음       | 청력 이상 없음 (청력 저하 시 labyrinthitis 또는 AICA stroke 감별 필요) | Head impulse test 비정상    |
+| **Meniere disease**      | 재발; 수 분\~수 시간        | 자발적 개시                         | 말초성        | 없음                        | 귀 충만감(± 불편감) 선행; 편측성 이명, 저주파 감각신경성 난청                 |                          |
+| **Vestibular migraine**  | 재발; 수 분\~72시간        | 편두통 병력; 두통 없는 경우 약 30%         | 중추성 or 말초성 | 편두통 증상(두통, 빛/소리 과민)       | 보통 없음                                                 | 삽화 사이 정상; 시각 자극으로 유발 가능  |
+| **PPPD**                 | 지속(≥3개월); 비발작성       | 전정 질환·불안 선행; 직립·움직임·시각 자극으로 악화 | 보통 없음      | 없음                        | 없음                                                    | SSRI·CBT·전정재활 치료         |
+| **Vertebrobasilar TIA**  | 일회성 or 재발; 수 분\~수 시간 | 고령, 혈관 위험인자, 경추 외상             | 중추성        | 일시적 신경 장애(발음, 균형, 시각, 마비) | 보통 없음                                                 | 영상(MRI) 검사               |
+| **Brainstem infarction** | 갑자기 시작; 수일\~수 주      | 고령, 혈관 위험인자                    | 중추성        | 다른 뇌간 증상                  | 보통 없음(AICA 경색은 청력 소실 동반)                              | 영상(MRI) 검사               |
+| **소뇌 경색 or 출혈**          | 갑자기 시작; 수일\~수 주      | 고령, 혈관 위험인자(고혈압)               | 중추성        | 보행 장애, 두통, 사지 마비, 연하 장애   | 없음                                                    | 응급 영상(MRI) 검사            |
 
 _<mark style="color:$info;">Ref. Evaluation of the patient with vertigo. UpToDate. 2018. / Rakel Family medicine 9th ed. 2016. eTable 18-4. (AUV 용어, VM·PPPD 업데이트)</mark>_
 
@@ -391,15 +391,12 @@ graph TD
     style Stroke fill:#ffebee,stroke:#ef5350
 ```
 
-_1) Triggered episodic : 수 초\~수 시간 지속._ \
-_2) Spontaneous episodic : 수 초\~수일 지속_ \
-_3) Continuous : 수일\~수 주 지속_
-\
-_\*triggered Sx은 중심성에서도 발생할 수 있으며 대부분의 지속되는 어지럼증에서 나타날 수 있음_
+_1) Triggered episodic : 수 초\~수 시간 지속._\
+&#xNAN;_&#x32;) Spontaneous episodic : 수 초\~수일 지속_\
+&#xNAN;_&#x33;) Continuous : 수일\~수 주 지속_\
+&#xNAN;_\*triggered Sx은 중심성에서도 발생할 수 있으며 대부분의 지속되는 어지럼증에서 나타날 수 있음_
 
-<p align="center">
-<strong>어지럼증 진단 평가 알고리듬</strong>
-<br><em><mark style="color:$info;">Ref. Dizziness: Approach to Evaluation and Management. AFP 2017;1;95(3) Fig 1.</mark></em></p>
+<p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Dizziness: Approach to Evaluation and Management. AFP 2017;1;95(3) Fig 1.</mark></em></p>
 
 ***
 
