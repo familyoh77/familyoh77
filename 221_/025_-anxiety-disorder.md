@@ -18,6 +18,7 @@
 * 기전(추정)
   * neurocircuit 이상 : 편도체(amygdala) 과활성 + 전전두엽(PFC) 조절 기능 저하에 의한 top-down regulation 감소; salience network 과활성이 핵심 병태생리로 이해됨
   * neurotransmitter 이상 : serotonin system 활성 저하, norepinephrine system 활성 증가, GABA inhibitory tone 감소 (단일 신경전달물질 불균형보다 회로 수준의 조절 이상이 더 포괄적인 설명 모델임)
+* 기저 질환 :  갑상선 질환, 부신 종양, 심부정맥, 신경계 질환
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -31,7 +32,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
 * 자살 사고 또는 자해 계획이 구체적으로 있는 경우
 * 타인에 대한 위해 의도
@@ -47,7 +48,7 @@
 
 * 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
 * 반복되는 공황 발작 또는 증상 악화
-* **50세 이후 새로 발생한 불안** → 기질적 원인 배제 필요 (갑상선 질환, 부신 종양, 심부정맥, 신경계 질환 등); 검사 우선 시행
+* 50세 이후 새로 발생한 불안 (기질적 원인 배제 필요)
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -56,7 +57,7 @@
 * 복통, 소화불량, 식욕 저하, 구역, 구토, 설사, 빈뇨
 * 수면 장애, 악몽, 성욕 감퇴
 
- ※ 공황장애에 비하여 갑작스럽고 최고조에 도달하는 양상은 덜함 (자율신경 증상 자체는 GAD에서도 나타날 수 있음)
+ ※ 공황장애에 비하여 갑작스럽고 최고조에 도달하는 양상은 덜함; 자율신경 증상 자체는 GAD에서도 나타날 수 있음
 
 ## <mark style="color:green;">진단</mark>
 
@@ -87,7 +88,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">Generalized anxiety disorder 7-item</mark> [<mark style="color:$primary;">(GAD-7)</mark>](http://www.phqscreeners.com)
 
-지난 2주일 동안 당신은 다음의 문제들로 인하여 지장을 받았던 날들이 얼마나 됩니까?
+▶ 질문 : 지난 2주일 동안 당신은 다음의 문제들로 인하여 지장을 받았던 날들이 얼마나 됩니까?
 
 <table><thead><tr><th width="369.68414306640625">항목</th><th width="79.57891845703125" align="center">없음 (0~1일)</th><th width="79.5789794921875" align="center">수일 (2~6일)</th><th width="79.578857421875" align="center">절반 이상 (7~11일)</th><th width="85.894775390625" align="center">거의 매일 (12~14일)</th></tr></thead><tbody><tr><td><ol><li>초조하거나 불안하거나 조마조마하게 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>걱정하는 것을 멈추거나 조절할 수 없다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="3"><li>여러 가지 것들에 대해 걱정을 너무 많이 한다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="4"><li>편안하게 있기 어렵다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="5"><li>너무 안절부절못해서 가만히 있기 힘들다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="6"><li>쉽게 짜증이 나거나 쉽게 화를 내게 된다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="7"><li>마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
 
@@ -108,23 +109,24 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 * 선별 도구로서 특정 점수가 정신건강 질환을 확진하지는 않으며, cutoff 점수는 연구 대상 집단에 따라 달라질 수 있음; 1차 진료에서 GAD 선별 목적으로는 ≥62점을, 사회불안장애와의 감별에는 ≥65점을 기준으로 사용하는 경우가 많음
 * 의미 있는 변화로 판정하려면 6점 이상의 변화가 필요하며, 그보다 작은 변화는 치료 효과보다 정상 변동을 반영할 가능성이 높음
-* 배점 : 자신의 현재 상태와 전혀 맞지 않는다=1점, 약간 맞다=2점, 웬만큼 맞다(잘 모르겠다)=3점, 꽤 맞다=4점, 매우 맞다=5점
+* 배점 : 자신의 현재 상태와 전혀 맞지 않는다=1점, 약간 맞다=2점, 웬만큼 맞다=3점, 꽤 맞다=4점, 매우 맞다=5점; 1, 3, 8, 10, 11번은 역채점 문항으로, 응답 점수를 반전하여 계산한다 (1↔5, 2↔4, 3=3).&#x20;
 
-1. 나는 일을 다 끝낼 만큼 시간이 충분치 않아도 걱정하지 않는다.걱정이 나를 누른다.
-2. 나는 그리 걱정하는 사람이 아니다.
-3. 나는 여러 가지 일에 대해서 걱정한다.
-4. 나는 걱정하지 않아도 된다는 것을 알면서도 어쩔 수가 없다.
-5. 뭔가에 압박을 받으면 상당히 걱정하게 된다.
-6. 나는 늘 뭔가에 대해 걱정하고 있다.
-7. 걱정스러운 생각을 떨쳐버리는 것이 어렵지 않다.
-8. 무슨 일 하나를 끝내면 곧바로 해야 할 다른 일에 대한 걱정이 시작된다.
-9. 나는 어떤 일에 대해서도 전혀 걱정하지 않는다.
-10. 걱정거리에 대해 내가 할 수 있는 일이 없다면 더 이상 걱정하지 않는다.
-11. 나는 지금까지 늘 걱정이 많은 사람이었다.
-12. 얼마 전에도 어떤 것에 대해서 걱정하고 있었다.
-13. 일단 걱정이 시작되면 멈출 수가 없다.
-14. 나는 내내 걱정하고 지낸다.
-15. 나는 어떤 일을 다 끝마칠 때까지는 그 일에 대해 계속 걱정한다.
+1. 나는 일을 다 끝낼 만큼 시간이 충분치 않아도 걱정하지 않는다.
+2. 걱정이 나를 누른다.
+3. 나는 그리 걱정하는 사람이 아니다.
+4. 나는 여러 가지 일에 대해서 걱정한다.
+5. 나는 걱정하지 않아도 된다는 것을 알면서도 어쩔 수가 없다.
+6. 뭔가에 압박을 받으면 상당히 걱정하게 된다.
+7. 나는 늘 뭔가에 대해 걱정하고 있다.
+8. 걱정스러운 생각을 떨쳐버리는 것이 어렵지 않다.
+9. 무슨 일 하나를 끝내면 곧바로 해야 할 다른 일에 대한 걱정이 시작된다.
+10. 나는 어떤 일에 대해서도 전혀 걱정하지 않는다.
+11. 걱정거리에 대해 내가 할 수 있는 일이 없다면 더 이상 걱정하지 않는다.
+12. 나는 지금까지 늘 걱정이 많은 사람이었다.
+13. 얼마 전에도 어떤 것에 대해서 걱정하고 있었다.
+14. 일단 걱정이 시작되면 멈출 수가 없다.
+15. 나는 내내 걱정하고 지낸다.
+16. 나는 어떤 일을 다 끝마칠 때까지는 그 일에 대해 계속 걱정한다.
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -144,11 +146,11 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * 이른 아침 각성, 일중 기분 변화, 자살 충동 등의 우울증 증상이 GAD에서는 흔하지 않음
 * **불안 vs 우울 overlap 감별 팁**
 
-| 증상 패턴 | 시사 진단 |
-|-----------|-----------|
+| 증상 패턴                           | 시사 진단  |
+| ------------------------------- | ------ |
 | 무쾌감(anhedonia), 의욕 저하, 이른 아침 각성 | 우울증 우세 |
-| 근육 긴장, 신체 긴장감, 미래 걱정 | GAD 우세 |
-| 갑작스러운 공포 발작, 회피 행동 | 공황장애 |
+| 근육 긴장, 신체 긴장감, 미래 걱정            | GAD 우세 |
+| 갑작스러운 공포 발작, 회피 행동              | 공황장애   |
 
 > ※ GAD와 주요우울증은 50% 이상에서 동반 이환 — 두 진단 모두 충족 시 SSRI/SNRI가 공통 1차 치료제로 동시 치료 가능
 
@@ -206,23 +208,23 @@ Step 4. 2가지 이상 충분한 시도 후 미호전 → 정신건강의학과 
 
 ### <mark style="color:orange;">환자 유형별 약 선택</mark>
 
-| 환자 유형 | 추천 약제 |
-|-----------|-----------|
-| 불면 심함 | paroxetine, mirtazapine |
-| 통증 동반 | duloxetine |
-| 성기능 중요 | pregabalin, vortioxetine (우울 동반 시 bupropion) |
-| 고령 | sertraline, escitalopram (저용량 시작) |
-| 급성 불안 | hydroxyzine, 단기 BZD |
-| BZD 의존 위험 | buspirone, SSRI/SNRI 단독 |
+| 환자 유형     | 추천 약제                                        |
+| --------- | -------------------------------------------- |
+| 불면 심함     | paroxetine, mirtazapine                      |
+| 통증 동반     | duloxetine                                   |
+| 성기능 중요    | pregabalin, vortioxetine (우울 동반 시 bupropion) |
+| 고령        | sertraline, escitalopram (저용량 시작)            |
+| 급성 불안     | hydroxyzine, 단기 BZD                          |
+| BZD 의존 위험 | buspirone, SSRI/SNRI 단독                      |
 
 ### <mark style="color:orange;">치료 timeline (환자 설명 + 임상 판단 기준)</mark>
 
-| 기간 | 예상 경과 |
-|------|-----------|
-| Week 0~2 | 초기 불안 일시 악화 가능(jitteriness); 환자에게 사전 안내 |
-| Week 2~4 | 수면·신체 증상부터 부분 반응 시작 |
-| Week 6~8 | 충분한 치료 반응 여부 평가 시점 |
-| Month 3~6 | remission 도달 목표; 재발 방지를 위해 최소 12개월 유지 |
+| 기간         | 예상 경과                                   |
+| ---------- | --------------------------------------- |
+| Week 0\~2  | 초기 불안 일시 악화 가능(jitteriness); 환자에게 사전 안내 |
+| Week 2\~4  | 수면·신체 증상부터 부분 반응 시작                     |
+| Week 6\~8  | 충분한 치료 반응 여부 평가 시점                      |
+| Month 3\~6 | remission 도달 목표; 재발 방지를 위해 최소 12개월 유지   |
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -233,7 +235,7 @@ Step 4. 2가지 이상 충분한 시도 후 미호전 → 정신건강의학과 
 * 현저한 기능 장애가 있거나 낮은 강도의 심리적 중재로 호전되지 않는 경우 고강도 정신 치료(예: 인지행동 요법) &/or 약물 치료
 * 매 방문 때마다 불안 수준 정량화 모니터링(GAD-7) — **Measurement-based care**
   * GAD-7 <5 (치료 중): 유지 또는 감량 검토
-  * GAD-7 5~9 : watchful waiting, 비약물 치료 강화
+  * GAD-7 5\~9 : watchful waiting, 비약물 치료 강화
   * GAD-7 ≥10 : 치료 시작 또는 강화 (SSRI/SNRI)
   * 삶의 질 평가 문항도 함께 확인 — 총점이 낮아도 기능 손상이 있으면 적극 개입
 
@@ -264,8 +266,8 @@ Step 4. 2가지 이상 충분한 시도 후 미호전 → 정신건강의학과 
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
 * 저용량으로 시작 → 4\~6주 후 평가하여 효과가 부족하면 1\~2주 간격으로 증량
 * 부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 4주 동안 매주 자살 생각에 대하여 모니터링)
-* 초기 불안 악화(jitteriness syndrome) : 투약 첫 1~2주에 불안·초조가 일시 악화될 수 있음. 위험 인자 : 공황장애 동반, 기저 불안 수준 높음, 급격한 증량 → 저용량 시작 및 환자 사전 설명으로 예방
-* 성기능 장애 : 발생률 30~50%; 주요 증상 — 성욕 저하, 불감증, 사정 지연. 관리 : 용량 감량, vortioxetine 또는 bupropion(우울 동반 시)으로 전환 고려
+* 초기 불안 악화(jitteriness syndrome) : 투약 첫 1\~2주에 불안·초조가 일시 악화될 수 있음. 위험 인자 : 공황장애 동반, 기저 불안 수준 높음, 급격한 증량 → 저용량 시작 및 환자 사전 설명으로 예방
+* 성기능 장애 : 발생률 30\~50%; 주요 증상 — 성욕 저하, 불감증, 사정 지연. 관리 : 용량 감량, vortioxetine 또는 bupropion(우울 동반 시)으로 전환 고려
 * 세로토닌 증후군 주의 : SSRI/SNRI 처방 전 병용 약물 확인 필수 — tramadol(오피오이드계 진통제), triptans(편두통 치료제), linezolid(항생제), fentanyl, dextromethorphan(일반 감기약) 등 세로토닌 활성 약물과 병용 시 세로토닌 증후군(고열·근육 경직·진전·의식 변화) 위험; 다른 과 처방 여부 반드시 확인
 * QT 간격 연장 : escitalopram·citalopram은 SSRI 중 QT 연장 위험이 상대적으로 높음 (FDA 경고, 2012); 고용량(escitalopram >20 ㎎), QT 연장 위험 약물(항부정맥제·항생제·항정신병제 등) 병용 시 주의; 기저 심질환·저칼륨혈증 환자에서 투여 전 ECG 고려
 * SNRI 추가 주의 : 산동(mydriasis) 효과로 인한 안압 상승. 폐쇄각 녹내장(narrow-angle glaucoma) 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
@@ -294,7 +296,7 @@ Step 4. 2가지 이상 충분한 시도 후 미호전 → 정신건강의학과 
 #### <mark style="color:$primary;">Azapirone</mark>
 
 * 5-HT1A autoreceptor 방해에 의한 serotonergic system 작용
-* benzodiazepine보다 의존 위험은 적음; 효과 크기는 SSRI보다 작고 onset이 느림(2~4주)
+* benzodiazepine보다 의존 위험은 적음; 효과 크기는 SSRI보다 작고 onset이 느림(2\~4주)
 * 주요우울증에는 효과 불충분 (경도 우울 동반 시 일부 효과 보고는 있으나 신뢰도 제한적)
 * 부작용 : 불면, 흥분, 구역
 * buspirone : 10\~60 ㎎/d <mark style="color:blue;">\[부스파]</mark>
@@ -305,7 +307,7 @@ Step 4. 2가지 이상 충분한 시도 후 미호전 → 정신건강의학과 
 * 장기적 경과를 개선시키지는 못함
 * 동반된 우울증에 대해서는 효과 없음
 * 저용량으로 시작 (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
-* 투여 방식 : PRN보다 단기 scheduled 투여(예: 1~2주 정해진 용량)가 내성·의존 형성 면에서 더 안전한 경우가 많음
+* 투여 방식 : PRN보다 단기 scheduled 투여(예: 1\~2주 정해진 용량)가 내성·의존 형성 면에서 더 안전한 경우가 많음
 * 마약성 진통제(opioid) 병용 최소화 : 호흡 억제 위험 증가 (특히 고령, COPD 환자)
 * 고령에서는 내성 및 낙상 등의 사고 위험으로 감량 투여 (특히 long-acting 제제 주의)
 * 불안, 불쾌감, 진전 등의 반동 현상을 피하기 위하여 중단 시 중간 반감기 약제(예: clonazepam)가 선호되며 중단 시 tapering
