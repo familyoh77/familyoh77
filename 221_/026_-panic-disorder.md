@@ -89,6 +89,12 @@ B. 적어도 하나 이상의 공황발작 후 1개월 이상 다음 중 하나 
 * 갑상선 검사력 : 과거 TSH 검사 여부 및 결과 확인
 * 공황 유발 상황 : 특정 장소, 운동, 스트레스 사건 등 trigger 파악
 
+### <mark style="color:orange;">검사</mark>
+
+* 보통 필요 없음; 기저 질환 또는 다른 질환과의 감별을 위한 경우 고려
+* ECG, pulse oximetry, Holter monitoring : 다른 질환 및 심한 공황장애 감별
+* CBC, 혈당, TSH, 전해질
+
 ### <mark style="color:orange;">감별</mark>
 
 * 심근경색 / 협심증 : 흉통이 운동·활동과 관련; 고령·심혈관 위험인자; ECG 이상, 트로포닌 상승
@@ -107,37 +113,19 @@ B. 적어도 하나 이상의 공황발작 후 1개월 이상 다음 중 하나 
 * 다른 정신 질환 : 특정 상황에서만 발생(사회공포증, 특정공포증); 외상 관련(PTSD); 강박 사고 동반(강박장애)
 * 범불안장애·공황장애·특정 공포증 비교 → [불안장애](025_-anxiety-disorder.md#undefined-10)
 
-#### <mark style="color:$primary;">공황발작 vs 심장질환 감별</mark>
-
-| 구분    | 공황발작                 | 심장질환(협심증/심근경색)    |
-| ----- | -------------------- | ----------------- |
-| 증상 시작 | 갑작스러움 (휴식 중·야간에도 발생) | 점진적 또는 운동·활동 시 악화 |
-| 절정 도달 | 10분 이내               | 뚜렷한 절정 없이 지속      |
-| 지속 시간 | 대부분 20–30분 내 자연 호전   | 20분 이상 지속되는 경우 위험 |
-| 흉통 성격 | 날카롭거나 다양한 양상         | 압박감·쥐어짜는 느낌       |
-| 동반 증상 | 공포감, 과호흡, 손발 저림      | 발한, 구토, 방사통(턱·팔)  |
-| 유발 패턴 | 특정 상황·심리적 스트레스       | 운동량과 비례하는 반복 패턴   |
-| 반복 양상 | 비슷한 발작이 반복           | 운동 유발성 패턴         |
-
-### <mark style="color:orange;">검사</mark>
-
-* 보통 필요 없음; 기저 질환 또는 다른 질환과의 감별을 위한 경우 고려
-* ECG, pulse oximetry, Holter monitoring : 다른 질환 및 심한 공황장애 감별
-* CBC, 혈당, TSH, 전해질
-
-### <mark style="color:orange;">진단 함정 (Pitfall)</mark>
-
+{% hint style="info" %}
 **공황장애가 늦게 진단되는 전형적 패턴**
 
-* 첫 공황발작 → 응급실 내원 → 심장검사(ECG, 트로포닌) 정상 → "이상 없음" 듣고 귀가 → 발작 반복 → 수개월 후 정신건강의학과 또는 일차의료에서 공황장애 진단
+* 첫 공황발작 → 응급실 내원 → 심장검사(ECG, 트로포닌) 정상 → "이상 없음" 듣고 귀가 → 발작 반복
 * 이 과정에서 환자는 "심장이 나쁜데 의사가 못 찾는 것"으로 오해하여 여러 기관을 전전하는 경우가 흔함
 * 공황 증상과 심장질환이 실제로 공존하는 경우도 있으므로, 감별 후에도 임상적 판단 유지
+{% endhint %}
 
-**⇒ 공황 vs 심장질환 빠른 감별표 (아래 참조)**
+#### <mark style="color:$primary;">공황발작 vs 심장질환 감별</mark>
 
+<table><thead><tr><th width="126">구분</th><th>공황발작</th><th>심장질환(협심증/심근경색)</th></tr></thead><tbody><tr><td>증상 시작</td><td>갑작스러움 (휴식 중·야간에도 발생)</td><td>점진적 또는 운동·활동 시 악화</td></tr><tr><td>절정 도달</td><td>10분 이내</td><td>뚜렷한 절정 없이 지속</td></tr><tr><td>지속 시간</td><td>대부분 20–30분 내 자연 호전</td><td>20분 이상 지속되는 경우 위험</td></tr><tr><td>흉통 성격</td><td>날카롭거나 다양한 양상</td><td>압박감·쥐어짜는 느낌</td></tr><tr><td>동반 증상</td><td>공포감, 과호흡, 손발 저림</td><td>발한, 구토, 방사통(턱·팔)</td></tr><tr><td>유발 패턴</td><td>특정 상황·심리적 스트레스</td><td>운동량과 비례하는 반복 패턴</td></tr><tr><td>반복 양상</td><td>비슷한 발작이 반복</td><td>운동 유발성 패턴</td></tr></tbody></table>
 
-
-**즉각 응급 이송** : 흉통 + 발한 + 방사통 조합, 또는 고령·심혈관 위험인자 보유자에서 ECG 확인 전까지 공황장애로 단정하지 말 것
+> 흉통 + 발한 + 방사통 조합, 또는 고령·심혈관 위험인자 보유자에서 ECG 확인 전까지 공황장애로 단정하지 않는다.
 
 ***
 
@@ -175,80 +163,70 @@ B. 적어도 하나 이상의 공황발작 후 1개월 이상 다음 중 하나 
 * 카페인 섭취 제한, 금주
 * 디지털 치료제(DTx) : CBT 기반 앱을 경증\~중등도 공황장애의 보조 수단으로 활용 가능; 단독 사용보다 치료자 지도(therapist-guided) 형태에서 효과 우수; 국내 보험 적용 없음 (2025년 현재)
 
-### <mark style="color:orange;">호흡 교육</mark>
+#### <mark style="color:$primary;">호흡 교육</mark>
 
-{% hint style="info" %}
 **핵심 원칙 : 천천히 + 얕게 (slow & shallow)**
 
-공황 시 나타나는 과호흡(hyperventilation)의 교정 핵심은 **"깊게"가 아니라 "천천히, 얕게"** 호흡하는 것임. "깊은 복식호흡"을 강조하면 오히려 과호흡을 악화시킬 수 있음.
+* 공황 시 나타나는 과호흡(hyperventilation)의 교정 핵심은 "깊게"가 아니라 "천천히, 얕&#xAC8C;**"** 호흡하는 것임; "깊은 복식호흡"을 강조하면 오히려 과호흡을 악화시킬 수 있음
 
 **실천 방법 :**
 
-1. 코로 4초 동안 천천히, **얕게** 들이쉰다
+1. 코로 4초 동안 천천히, 얕게 들이쉰다
 2. 입으로 6초 동안 천천히 내쉰다
 3. 어깨와 가슴의 힘을 빼고 호흡이 가슴까지 올라오지 않도록 의식한다
 4. 이것을 반복하면서 호흡 속도 자체를 늦추는 데 집중한다
-{% endhint %}
 
 ## <mark style="color:green;">약물 치료</mark>
 
 * 1차 선택 : SSRI, SNRI (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#selective-serotonin-reuptake-inhibitor-ssri))
 * 저용량으로 시작(우울증 치료 시작 용량의 절반) → 점차 증량 (초기 불안 악화·jitteriness syndrome 예방); 특히 paroxetine, sertraline에서 초기 불안 악화가 흔하므로 투약 전 반드시 안내
-* 치료 반응 평가 : 2주(내약성 확인) → 4–6주(부분 반응 확인) → **8–12주까지 충분 용량 유지 후 치료 반응 최종 평가**
+* 치료 반응 평가 : 2주(내약성 확인) → 4–6주(부분 반응 확인) → 8–12주까지 충분 용량 유지 후 치료 반응 최종 평가
 * 충분한 효과 발현에 2\~6주 필요
-* 치료 기간 : 첫 발병의 경우 6–12개월; 재발력이 있거나 반복 삽화의 경우 12–24개월 이상 유지 권고 \[대한불안의학회]
+* 치료 기간 : 첫 발병의 경우 6–12개월; 재발력이 있거나 반복 삽화의 경우 12–24개월 이상 유지 권고&#x20;
 * 투여 중단 시 tapering (갑자기 중단하지 않음); 용량이 낮아질수록 더 천천히 감량(hyperbolic tapering)
   * 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 서서히 감량
   * 약물 중단 증상 : 어지럼, 이상 감각, 위장 장애(예: 구역/구토), 두통, 발한, 불안, 수면 장애
 
 #### <mark style="color:$primary;">항우울제 선택 가이드</mark>
 
-| 환자 특성        | 권장 약제                                  | 주의/회피              |
-| ------------ | -------------------------------------- | ------------------ |
-| 기본 1차 선택     | escitalopram, sertraline (동급 1차)       | —                  |
-| 우울증 동반 / 무기력 | sertraline, escitalopram, venlafaxine  | —                  |
-| 성기능 부작용 민감   | sertraline, escitalopram               | paroxetine (가장 높음) |
-| 체중 증가 우려     | sertraline, escitalopram               | paroxetine         |
-| 복약 순응도 우려    | fluoxetine (반감기 길어 discontinuation 적음) | —                  |
-| 고령자          | escitalopram 저용량, sertraline           | 전해질(Na) 모니터링 필수    |
-| 임신 고려        | sertraline (preferred)                 | —                  |
-| QT 연장 위험     | —                                      | citalopram 회피      |
-| Bipolar 의심   | SSRI 단독 금기                             | → 정신건강의학과 의뢰       |
+<table><thead><tr><th width="173">환자 특성</th><th width="272">권장 약제</th><th>주의/회피</th></tr></thead><tbody><tr><td>기본 1차 선택</td><td>escitalopram, sertraline (동급 1차)</td><td>—</td></tr><tr><td>우울증 동반 / 무기력</td><td>sertraline, escitalopram, venlafaxine</td><td>—</td></tr><tr><td>성기능 부작용 민감</td><td>sertraline, escitalopram</td><td>paroxetine (가장 높음)</td></tr><tr><td>체중 증가 우려</td><td>sertraline, escitalopram</td><td>paroxetine</td></tr><tr><td>복약 순응도 우려</td><td>fluoxetine (반감기 길어 discontinuation 적음)</td><td>—</td></tr><tr><td>고령자</td><td>escitalopram 저용량, sertraline</td><td>전해질(Na) 모니터링 필수</td></tr><tr><td>임신 고려</td><td>sertraline (preferred)</td><td>—</td></tr><tr><td>QT 연장 위험</td><td>—</td><td>citalopram 회피</td></tr><tr><td>Bipolar 의심</td><td>SSRI 단독 금기</td><td>정신건강의학과 의뢰</td></tr></tbody></table>
 
-{% hint style="warning" %}
-**Paroxetine** : 공황장애에 대한 적응증과 오랜 사용 근거가 있으나, 체중 증가·성기능 장애·discontinuation syndrome이 타 SSRI보다 현저히 높아 **2차 선택으로 고려**하는 것이 최신 트렌드임.
-
-**Venlafaxine** : 용량 의존성 혈압 상승 주의; discontinuation syndrome 위험 높음 — 반드시 서서히 감량
-{% endhint %}
+> **Paroxetine** : 공황장애에 대한 적응증과 오랜 사용 근거가 있으나, 체중 증가·성기능 장애·discontinuation syndrome이 타 SSRI보다 현저히 높아 2차 선택으로 고려하는 것이 최신 트렌드임.
+>
+> **Venlafaxine** : 용량 의존성 혈압 상승 주의; discontinuation syndrome 위험 높음 - 반드시 서서히 감량
 
 #### <mark style="color:$primary;">항우울제</mark>
 
 * 선호 약제 : escitalopram, sertraline (동급 1차); paroxetine (2차 고려); venlafaxine (우울 동반 또는 SSRI 불내성 시)
 * TCA는 부작용 때문에 2차 약제로 고려
-* 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 — 투약 초기 전해질 확인 권고
+* 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 - 투약 초기 전해질 확인 권고
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
 * 30세 미만 : 투약 첫 4주간 매주 자살 사고 모니터링
 * 세로토닌 증후군 주의 : SSRI 증량기 또는 병용 요법 시 고열·근육 경직·정신 상태 변화 발생 시 즉시 중단 후 응급 평가
 * 성기능 장애 및 체중 증가 : SSRI/SNRI 장기 복용 시 성기능 장애(약 30\~60%)와 체중 증가가 흔한 중단 원인임. 투약 전 미리 안내하고, 부작용이 현저한 경우 다른 SSRI/SNRI로 교체하거나 감량을 시도하며, 호전되지 않으면 정신건강의학과 협진
 
-<table><thead><tr><th width="251.5263671875">SSRI/SNRI</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>escitalopram <mark style="color:blue;">[렉사프로]</mark></td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine <mark style="color:blue;">[세로자트]</mark></td><td>10~20</td><td>20~60</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td>25</td><td>50~200</td></tr><tr><td>venlafaxine XR <mark style="color:blue;">[이팩사 XR]</mark></td><td>37.5</td><td>75~225</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td>10~20</td><td>20~80</td></tr><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td>10~20</td><td>20~40</td></tr><tr><td>paroxetine CR <mark style="color:blue;">[팍실 CR]</mark></td><td>12.5~25</td><td>25~75</td></tr></tbody></table>
+**SSRI/SNRI**
 
-<table><thead><tr><th width="251.5263671875">TCA</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>clomipramine <mark style="color:blue;">[그로민]</mark></td><td>25</td><td>50~150</td></tr><tr><td>imipramine <mark style="color:blue;">[이미프라민]</mark></td><td>25</td><td>50~150</td></tr><tr><td>nortriptyline <mark style="color:blue;">[센시발]</mark></td><td>10~25</td><td>75~150</td></tr></tbody></table>
+<table><thead><tr><th width="251.5263671875"></th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>escitalopram <mark style="color:blue;">[렉사프로]</mark></td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine <mark style="color:blue;">[세로자트]</mark></td><td>10~20</td><td>20~60</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td>25</td><td>50~200</td></tr><tr><td>venlafaxine XR <mark style="color:blue;">[이팩사 XR]</mark></td><td>37.5</td><td>75~225</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td>10~20</td><td>20~80</td></tr><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td>10~20</td><td>20~40</td></tr><tr><td>paroxetine CR <mark style="color:blue;">[팍실 CR]</mark></td><td>12.5~25</td><td>25~75</td></tr></tbody></table>
+
+**TCA**
+
+<table><thead><tr><th width="251.5263671875"></th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>clomipramine <mark style="color:blue;">[그로민]</mark></td><td>25</td><td>50~150</td></tr><tr><td>imipramine <mark style="color:blue;">[이미프라민]</mark></td><td>25</td><td>50~150</td></tr><tr><td>nortriptyline <mark style="color:blue;">[센시발]</mark></td><td>10~25</td><td>75~150</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Benzodiazepine (BZD)</mark>
 
 * 항우울제 효과 발현 전 단기 브릿지 목적으로 사용; 단독 장기 사용은 권고하지 않음
   * \[NICE] 장기적으로 좋은 결과를 얻지 못하며 약물 남용 및 의존 문제로 권고하지 않음
-  * 최근 경향 : first-line adjunct에서 점점 제외되는 추세; 특히 **젊은 환자**에서 의존 위험을 반드시 설명하고 처방 기간을 최소화
+  * 최근 경향 : first-line adjunct에서 점점 제외되는 추세; 특히 젊은 환자에서 의존 위험을 반드시 설명하고 처방 기간을 최소화
 * 알코올이나 benzodiazepine 남용 병력이 있는 사람에서 금기
 * 고령자 : 내성 및 낙상 등의 사고 위험으로 감량 투여
 * 중단 시 반드시 tapering (반동 불안 및 금단 증상 예방)
 
 <table><thead><tr><th width="251.52630615234375">Benzodiazepine</th><th>시작 (mg/d)</th><th>범위 (mg/d)</th></tr></thead><tbody><tr><td>lorazepam <mark style="color:blue;">[아티반]</mark></td><td>0.75*</td><td>2~8*</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td>0.5*</td><td>0.5~2*</td></tr><tr><td>diazepam <mark style="color:blue;">[디아제팜]</mark></td><td>2~4</td><td>4~40</td></tr></tbody></table>
 
-\*분할 투여
+_\*분할 투여_
 
-_<mark style="color:$info;">Ref. Conn's Current therapy 2017. Panic Disorder Table 2.</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. Conn's Current therapy 2017. Panic Disorder Table 2.</mark></em></p>
 
 ***
 
