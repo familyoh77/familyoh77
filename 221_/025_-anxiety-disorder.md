@@ -105,11 +105,11 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * 합계 점수 ≥3점인 경우 GAD를 의심(민감도 86%, 특이도 83%) 하고 추가 평가 시행
 * 0\~2점이더라도 임상적 의심이 강한 경우에는 GAD-7 전체 시행 권고
 
-#### <mark style="color:$primary;">Penn State Worry Questionnaire (</mark>[<mark style="color:$primary;">PSWQ</mark>](https://public.anxiety.or.kr/html/?pmode=evaluationtool)<mark style="color:$primary;">)</mark>
+#### <mark style="color:$primary;">Penn State Worry Questionnaire (PSWQ)</mark>
 
 * 선별 도구로서 특정 점수가 정신건강 질환을 확진하지는 않으며, cutoff 점수는 연구 대상 집단에 따라 달라질 수 있음; 1차 진료에서 GAD 선별 목적으로는 ≥62점을, 사회불안장애와의 감별에는 ≥65점을 기준으로 사용하는 경우가 많음
 * 의미 있는 변화로 판정하려면 6점 이상의 변화가 필요하며, 그보다 작은 변화는 치료 효과보다 정상 변동을 반영할 가능성이 높음
-* 배점 : 자신의 현재 상태와 전혀 맞지 않는다=1점, 약간 맞다=2점, 웬만큼 맞다=3점, 꽤 맞다=4점, 매우 맞다=5점; 80점 만점
+* 배점 : 자신의 현재 상태와 전혀 맞지 않는다=1점, 약간 맞다=2점, 웬만큼 맞다=3점, 꽤 맞다=4점, 매우 맞다=5점; 최대 80점
   * 1, 3, 8, 10, 11번은 역채점 문항, 응답 점수를 반대로 배점 :  전혀 맞지 않는다=5점, 매우 맞다=1점
 
 1. 나는 일을 다 끝낼 만큼 시간이 충분치 않아도 걱정하지 않는다.
@@ -172,7 +172,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">범불안장애, 공황장애, 특정공포증 비교</mark>
 
-<table><thead><tr><th width="100.52630615234375"></th><th>Generalized Anxiety Disorder</th><th>Panic Disorder</th><th>Specific Phobia</th></tr></thead><tbody><tr><td><strong>유병률</strong><br><strong>/역학</strong></td><td>2~4%; 사춘기 이후 여성 우세. 원인에서 약간의 유전적 요인</td><td>0.2~10%; 가족력이 있는 경우 더 흔하고(8배) 조기 발병</td><td>소아 5%, 청소년 16%; 여:남 = 2:1, 가족력 영향(+)</td></tr><tr><td><strong>시작 연령</strong></td><td>평균 10세</td><td>평균 20~24세. 14세 전 &#x3C;0.4%</td><td>다양</td></tr><tr><td><strong>감별 질환</strong></td><td>기타 불안장애, 강박장애, PTSD, 우울증, 양극성, 정신병성 장애, 약물 관련(카페인, 진정제 금단)</td><td>통상적인 질병 상태에 기인하는 불안장애; 약물 관련 불안장애(카페인, 기타 자극제)</td><td>광장공포증, 공황장애, 강박장애, PTSD</td></tr><tr><td><strong>동반 질환</strong></td><td>단극성 우울증, 기타 불안장애</td><td>분리 불안 장애(흔함), 광장공포증, 약물 사용, 주요 우울증, OCD, 기타 불안장애; 천식</td><td>우울증, 기타 불안장애</td></tr></tbody></table>
+<table><thead><tr><th width="100.52630615234375"></th><th>GAD</th><th>Panic Disorder</th><th>Specific Phobia</th></tr></thead><tbody><tr><td><strong>유병률</strong><br><strong>/역학</strong></td><td>2~4%; 사춘기 이후 여성 우세. 원인에서 약간의 유전적 요인</td><td>0.2~10%; 가족력이 있는 경우 더 흔하고(8배) 조기 발병</td><td>소아 5%, 청소년 16%; 여:남 = 2:1, 가족력 영향(+)</td></tr><tr><td><strong>시작 연령</strong></td><td>평균 10세</td><td>평균 20~24세. 14세 전 &#x3C;0.4%</td><td>다양</td></tr><tr><td><strong>감별 질환</strong></td><td>기타 불안장애, 강박장애, PTSD, 우울증, 양극성, 정신병성 장애, 약물 관련(카페인, 진정제 금단)</td><td>통상적인 질병 상태에 기인하는 불안장애; 약물 관련 불안장애(카페인, 기타 자극제)</td><td>광장공포증, 공황장애, 강박장애, PTSD</td></tr><tr><td><strong>동반 질환</strong></td><td>단극성 우울증, 기타 불안장애</td><td>분리 불안 장애(흔함), 광장공포증, 약물 사용, 주요 우울증, OCD, 기타 불안장애; 천식</td><td>우울증, 기타 불안장애</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>_
 
