@@ -4,72 +4,29 @@
 
 * 분만(또는 입양) 후 12개월 내 시작되거나 재발한 주요우울증; 주로 12주 내 발생
 * 빈도 : \~20%
-* 진단 기준은 일반 주요우울장애와 동일하나, 산후 특이적 증상(영아에 대한 관심 상실, 육아 능력에 대한 의심, 영아 해코지 사고)에 유의
-* DSM-5 공식 명시자는 임신 중 또는 출산 후 **4주 이내**를 기준으로 하나, 역학·임상 연구 및 대부분의 가이드라인에서는 **출산 후 12개월까지**를 산후우울증으로 정의하여 관리함 (☞ [우울증](027_-depression.md))
+* 진단 기준은 일반 [주요우울장애](027_-depression.md#undefined-6)와 동일하나, 산후 특이적 증상(영아에 대한 관심 상실, 육아 능력에 대한 의심, 영아 해코지 사고)에 유의&#x20;
+* DSM-5는 임신 중 또는 출산 후 4주 이내를 기준으로 하나, 역학·임상 연구 및 대부분의 가이드라인에서는 출산 후 12개월까지를 산후우울증으로 정의하여 관리함
 * 배우자의 산후우울증 : 출산 후 아기 아빠의 약 10%(일부 연구 25%)에서 발생; 산모의 산후우울증과 상호 악화 요인으로 작용; 선별 및 지지 권고
 
-**산후 가면 우울증**
+#### <mark style="color:$primary;">산후 가면 우울증</mark>
 
 * "좋은 엄마는 행복해야 한다"는 사회적 기대로 인해 우울 감정을 숨기고 요통, 두통, 만성 피로 등 신체 증상만을 호소하는 경우가 흔함
 * 신체 증상이 반복되거나 기질적 원인이 불명확한 경우 EPDS 선별 검사를 적극 시행할 것 (☞ [우울증](027_-depression.md) > 가면 우울증)
 
-### <mark style="color:orange;">산후 우울 기분 (Postpartum blues)</mark>
+#### <mark style="color:$primary;">산후 우울 기분 (Postpartum blues)</mark>
 
 * 출산 후 일시적으로 발생하는 경증 우울; 출산 후 2\~3일 내 발생하여 2주 내 자연 소실
 * 빈도 : 산모의 30\~70%
 * 증상 : 불쾌감, 불면, 감정 기복/정서 불안, 집중력 저하
 * 치료 불필요; 2주 이상 지속 시 산후우울증으로 전환 가능성 - 추적 평가 권고
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
-
-* 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우
-* 영아 또는 다른 자녀에 대한 해코지 의도(Infanticidal/filicidal ideation) - 즉각 이송 및 아동 안전 확보
-  * 아기를 다치게 할까 봐 두려운 침습적 사고(Intrusive thoughts, 자아이질적)와 구별 필요 : 침습적 사고는 즉각 이송 대상이 아니나 면밀한 평가와 지지 필요
-* 산후 정신증(Postpartum psychosis) 의심 : 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 — **정신과적 응급상황; 모자 모두의 생명과 직결됨** → 정신건강의학과 긴급 입원 필요
-  * 발생률 : 1,000분만당 1\~2건; 양극성 장애 병력 또는 과거 산후 정신증 병력 시 재발률 50% 이상
-  * 정신병적 양상이 동반된 경우 : 항우울제 단독 투여 금지 - 항우울제+비정형 항정신병제 병합 필수, 즉각 정신건강의학과 이송
-
-<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
-
-* 자살 사고가 있으나 구체적 계획은 없는 경우 (EPDS 10번 항목 1점 이상)
-* **양극성 우울증 감별 필요** — 다음 red flag 중 1개 이상 해당 시 항우울제 단독 투여 전 양극성 장애 배제 필수 :
-  * 과거 짧은 수면에도 에너지 유지되는 시기(경조증) 경험
-  * 산후 1\~2주 내 급격한 발병
-  * 양극성 장애 가족력
-  * 항우울제 시작 후 증상 악화 또는 혼재성 양상 출현
-  * ※ 산후우울증으로 보이는 환자의 일부(일부 연구 최대 ~20%)는 양극성 스펙트럼일 수 있음
-* 혼재성 양상(mixed features) 의심 : 우울 증상과 함께 초조, 과민성, 수면 감소, 사고 빠름이 동반되는 경우 - 조증 전환 위험↑, 항우울제 단독 투여 시 삽화 악화 가능
-* 영아 돌봄 전면 불가 상태 (극도의 무기력, 신생아 방치 위험)
-* 중증 삽화로 일상생활 전면 불가
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
-
-* 치료에 반응하지 않는 경우 (적절한 용량·기간 치료 후에도 미호전)
-* 산후 우울 기분(Postpartum blues)이 2주 이상 지속되는 경우
-
----
-
-{% hint style="warning" %}
-**Intrusive thoughts vs 해코지 의도 — 반드시 구별**
-
-| | Intrusive thoughts (침습적 사고) | Infanticidal ideation (해코지 의도) |
-|---|---|---|
-| 자아 일치성 | 자아이질적 (ego-dystonic) | 자아동조적 가능 (ego-syntonic) |
-| 환자 반응 | 매우 두려워하고 distress 있음 | 실행 의도 또는 계획 있을 수 있음 |
-| 임상 대응 | 안심시키기 + CBT | **즉각 응급 대응** |
-
-▶ 환자가 "아기를 창밖에 던지면 어쩌지"라고 두려워한다면 침습적 사고일 가능성이 높음; 낙인 없이 탐색하고 지지할 것
-{% endhint %}
-
----
+<table><thead><tr><th width="151"></th><th>Intrusive thoughts (침습적 사고)</th><th>Infanticidal ideation (해코지 의도)</th></tr></thead><tbody><tr><td>자아 일치성</td><td>자아이질적 (ego-dystonic)</td><td>자아동조적 가능 (ego-syntonic)</td></tr><tr><td>환자 반응</td><td>매우 두려워하고 distress 있음</td><td>실행 의도 또는 계획 있을 수 있음</td></tr><tr><td>임상 대응</td><td>안심시키기 + CBT</td><td>즉각 응급 대응</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인</mark>
 
 * 불확실
 * 추정 요인 : 출산 후 estrogen·progesterone 급격한 감소, cortisol·HPA axis 변화, cytokine·염증 반응, oxytocin·arginine vasopressin 변동, 수면 박탈, 심리사회적 스트레스
-* **수면 박탈은 산후우울증의 가장 강력한 가역적 악화 요인**으로 임상적으로 특히 중요; 밤수유 교대 및 주간 수면 보충이 핵심 비약물 개입임
+* 수면 박탈은 산후우울증의 가장 강력한 가역적 악화 요인으로 임상적으로 특히 중요; 밤수유 교대 및 주간 수면 보충이 핵심 비약물 개입임
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -113,7 +70,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-**핵심 증상** (DSM-5 진단 필수 - 반드시 1개 이상 포함)
+**핵심 증상** (DSM-5 진단에 필수 - 반드시 1개 이상 포함)
 
 * 우울 기분 또는 과민
 * 일상생활에서 즐거움이 없음 (Anhedonia)
@@ -136,22 +93,61 @@
 
 * 신생아 또는 다른 자녀에 대한 관심 상실
 * 엄마로서의 능력에 대한 의심
-* 아기의 건강과 안전에 대한 과도하고 침습적인 걱정(Intrusive thoughts) : 예) "아기를 떨어뜨리면 어쩌지", "수유가 잘못되면 어쩌지" 등 반복적으로 떠오르는 자아이질적(ego-dystonic) 사고; 강박증(OCD)과 감별 필요
-  * 침습적 사고는 실제 해코지 의도와 다름 - 환자를 과도하게 낙인찍지 않도록 주의; 실제 해코지 의도가 있는 경우는 즉각 이송 (☞ Red Flags)
-* **부모-영아 애착(bonding) 장애** : eye contact 감소, 영아 신호에 대한 반응성 저하, 애착 형성 지연 — 기능적 outcome으로 중요; 적극 평가 필요
+* 아기의 건강과 안전에 대한 과도하고 침습적인 걱정(Intrusive thoughts)&#x20;
+  * 예) "아기를 떨어뜨리면 어쩌지", "수유가 잘못되면 어쩌지" 등 반복적으로 떠오르는 자아이질적(ego-dystonic) 사고
+  * 침습적 사고는 실제 해코지 의도와 다름; 환자를 과도하게 낙인찍지 않도록 주의
+  * 강박증(OCD)과 감별 필요
+  * 실제 해코지 의도가 있는 경우는 즉각 이송&#x20;
+* 부모-영아 애착(bonding) 장애 : eye contact 감소, 영아 신호에 대한 반응성 저하, 애착 형성 지연 - 기능적 outcome으로 중요; 적극 평가 필요
 * 망상 또는 환각 (산후 정신증 감별 필요)
+
+**침습적 사고(Intrusive thoughts) vs 해코지 의도(Infanticidal ideation)**
+
+<table><thead><tr><th width="121"></th><th width="254">침습적 사고</th><th width="280">해코지 의도</th></tr></thead><tbody><tr><td>자아 일치성</td><td>자아이질적 (ego-dystonic)</td><td>자아동조적 가능 (ego-syntonic)</td></tr><tr><td>환자 반응</td><td>매우 두려워하고 distress 있음</td><td>실행 의도 또는 계획 있을 수 있음</td></tr><tr><td>임상 대응</td><td>안심시키기 + CBT</td><td>즉각 응급 대응</td></tr></tbody></table>
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+
+* 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우 (☞ [우울증](027_-depression.md#undefined-11))
+* 영아 또는 다른 자녀에 대한 해코지 의도(Infanticidal/filicidal ideation)¹⁾ - 즉각 이송 및 아동 안전 확보
+* 출산 후 1\~2주 내 급격히 발생하는 환청, 망상(예: 아기가 악마다, 아기를 희생해야 한다), 심한 혼란/와해 행동 → 산후 정신증(Postpartum psychosis) 의심 - 정신과적 응급 상황(모자 모두 위험)
+
+<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
+
+* 자살 사고가 있으나 구체적 계획은 없는 경우 (EPDS 10번 항목 1점 이상)
+* [양극성 우울증](027_-depression.md#undefined-10) 감별이 필요한경우²⁾
+* 우울 증상과 함께 초조, 과민성, 수면 감소, 사고 빠름이 동반되는 경우 → [혼재성 양상](027_-depression.md#dsm-5-tr-specifiers)(mixed features) 의심&#x20;
+* 영아 돌봄 전면 불가 상태 (극도의 무기력, 신생아 방치 위험)
+* 중증 삽화로 일상생활 전면 불가
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
+
+* 치료에 반응하지 않는 경우 (적절한 용량·기간 치료 후에도 미호전)
+* 산후 우울 기분(Postpartum blues)이 2주 이상 지속되는 경우
+
+_1) 아기를 다치게 할까 봐 두려운 침습적 사고(Intrusive thoughts, 자아이질적)와 구별 필요 : 침습적 사고는 즉각 이송 대상이 아니나 면밀한 평가와 지지 필요_
+
+_2) 다음 red flag 중 1개 이상 해당 시 항우울제 단독 투여 전 양극성 장애 배제 필수_
+
+* _과거 짧은 수면에도 에너지 유지되는 시기(경조증) 경험_\
+  _산후 1\~2주 내 급격한 발병_\
+  _양극성 장애 가족력_\
+  _항우울제 시작 후 증상 악화 또는 혼재성 양상 출현_\
+  _※ 산후우울증으로 보이는 환자의 일부(일부 연구 최대 \~20%)는 양극성 스펙트럼일 수 있음_
 
 ## <mark style="color:green;">진단</mark>
 
-* postpartum unipolar major depression의 진단 기준은 비-산모 진단 기준과 동일함 (☞ [우울증](027_-depression.md#dsm-5))
+* postpartum unipolar major depression의 진단 기준은 비-산모 진단 기준과 동일함
 * 산후 갑상선염 (Postpartum Thyroiditis) 감별 : 산후 1년 이내 산모의 약 5\~10%에서 발생하며, 우울감·피로·불안·인지 저하 등 산후우울증과 증상이 매우 유사함. TSH 검사로 감별 필수. 갑상선 기능 이상이 교정되지 않으면 항우울제 치료 반응 저하
 
 ### <mark style="color:orange;">선별 검사</mark>
 
 * \[USPSTF 2023] 모든 임산부 및 산후 여성에 대해 임신 중·산후 전 기간에 걸쳐 선별 검사 권고
-* 시기 : 임신 1·3분기, 산후 4\~8주, 산후 3\~6개월 — 최소 2회 이상
+* 시기 : 임신 1·3분기, 산후 4\~8주, 산후 3\~6개월 - 최소 2회 이상
 * 도구 : Edinburgh Postnatal Depression Scale(EPDS), PHQ-9
-  * EPDS가 PHQ-9보다 선호되는 이유 : PHQ-9은 수면·피로 등 신체 증상 비중이 높아, 신생아 돌봄으로 인해 이러한 증상이 정상적으로 나타나는 산모에서 우울증 점수가 과대평가될 수 있음; EPDS는 산후 특유의 정서·불안 증상 중심으로 구성되어 위양성이 적음
+
+> EPDS가 PHQ-9보다 선호되는 이유 : PHQ-9은 수면·피로 등 신체 증상 비중이 높아, 신생아 돌봄으로 인해 이러한 증상이 정상적으로 나타나는 산모에서 우울증 점수가 과대평가될 수 있음; EPDS는 산후 특유의 정서·불안 증상 중심으로 구성되어 위양성이 적음
 
 #### <mark style="color:$primary;">에든버러 산후우울증 척도 (Edinburgh Postnatal Depression Scale, EPDS)</mark>
 
@@ -160,18 +156,17 @@
 
 <table><thead><tr><th width="370">문항</th><th width="79.5789794921875" align="center">대부분</th><th width="79.57891845703125" align="center">때때로</th><th width="79.5789794921875" align="center">드물게</th><th width="75.05255126953125" align="center">전혀</th></tr></thead><tbody><tr><td>⓵ 재미있는 것을 보며 웃을 수 있다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⓶ 즐거운 기대감에 어떤 일을 기다렸다.</td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td>⓷ 무언가 잘못되었을 때 필요 이상으로 자책했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓸ 특별한 이유 없이 불안해지거나 걱정했다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓹ 특별한 이유 없이 겁을 먹거나 공포감을 느꼈다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓺ 해야 할 일들이 쌓여간다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓻ 심한 불행한 기분으로 잠을 잘 못 잤다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓼ 슬프거나 비참한 느낌이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⓽ 심한 불행한 기분에 울었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr><tr><td>⑩ 나 자신을 해치는 생각이 들었다.</td><td align="center">3</td><td align="center">2</td><td align="center">1</td><td align="center">0</td></tr></tbody></table>
 
-▶배점 : ⓵⓶번은 대부분=0 → 전혀=3; ⓷\~⑩번은 역채점(대부분=3 → 전혀=0)
-
-▶판정
-* **≥10점** : 선별 양성 — 추적 평가 및 임상적 면담 필요
-* **≥13점** : 임상적 우울증 가능성 높음 — 적극적 평가 및 치료 계획 수립
-* **⑩번(자해 사고) 1점 이상** : 점수와 무관하게 즉시 평가 권고
+* 배점 : ⓵⓶번은 대부분=0점\~전혀=3점; ⓷\~⑩번은 대부분=3점\~전혀=0점)
+* 판정
+  * ≥10점 : 선별 양성 - 추적 평가 및 임상적 면담 필요
+  * ≥13점 : 임상적 우울증 가능성 높음 - 적극적 평가 및 치료 계획 수립
+  * ⑩번(자해 사고) 1점 이상 : 점수와 무관하게 즉시 평가 권고
 
 ### <mark style="color:orange;">검사</mark>
 
-* TSH (산후 갑상선염 감별 — 산후 1년 이내 우울감·피로·불안 증상과 감별 필수)
+* TSH : 산후 갑상선염 감별 - 산후 1년 이내 우울감·피로·불안 증상과 감별 필수
 * Vit B12, folate
-* Vit D : **선택적 검사** (결핍 위험군 또는 결핍 의심 시에만 시행; 루틴 필수 검사로는 근거 불충분)
+* Vit D : 선택적 검사 - 결핍 위험군 또는 결핍 의심 시에만 시행 (루틴 필수 검사로는 근거 불충분)
 
 ***
 
@@ -204,22 +199,18 @@ Red flag 확인
 * 경증 : 지지 치료·심리치료 우선; 증상 지속 시 약물 추가
 * 중등증\~중증 : 약물 치료 + 심리치료 병행 권고
 * 모유 수유 여부에 따라 약제 선택 조정
-* **치료하지 않은 우울증이 항우울제 노출보다 영아 발달에 더 큰 위험** — 모유 수유 산모에게 약물 치료를 꺼리지 않도록 충분히 설명할 것
+* 치료하지 않은 우울증이 항우울제 노출보다 영아 발달에 더 큰 위험 - 모유 수유 산모에게 약물 치료를 꺼리지 않도록 충분히 설명할 것
 
 **산후우울증 치료 전략** \[KMAP-DD 2025]
 
-| 임상 상황         | 1차 치료                                        | 2차 치료                                        |
-| ------------- | -------------------------------------------- | -------------------------------------------- |
-| 경증\~중등증       | 항우울제 단독, 항우울제+비정형 항정신병제                      | AAP 단독, AD+AD, AD+기분조절제, 기분조절제+AAP, 기분조절제 단독 |
-| 정신병적 양상(-) 중증 | 항우울제+비정형 항정신병제, 항우울제 단독                      | AAP 단독, AD+AD, AD+기분조절제, 기분조절제+AAP, 기분조절제 단독 |
-| 정신병적 양상(+) 중증 | <p>★항우울제+비정형 항정신병제 (최우선)<br>비정형 항정신병제 단독</p> | 기분조절제+AAP, AD+기분조절제, AD 단독, AD+AD, 기분조절제 단독  |
+<table><thead><tr><th width="177">임상 상황</th><th>1차 치료</th><th>2차 치료</th></tr></thead><tbody><tr><td>경증~중등증</td><td>항우울제 단독, 항우울제+비정형 항정신병제</td><td>AAP 단독, AD+AD, AD+기분조절제, 기분조절제+AAP, 기분조절제 단독</td></tr><tr><td>정신병적 양상(-) 중증</td><td>항우울제+비정형 항정신병제, 항우울제 단독</td><td>AAP 단독, AD+AD, AD+기분조절제, 기분조절제+AAP, 기분조절제 단독</td></tr><tr><td>정신병적 양상(+) 중증</td><td>*항우울제+비정형 항정신병제 (최우선)<br>비정형 항정신병제 단독</td><td>기분조절제+AAP, AD+기분조절제, AD 단독, AD+AD, 기분조절제 단독</td></tr></tbody></table>
 
-_<mark style="color:$info;">★ 최우선(treatment of choice). AD=항우울제, AAP=비정형 항정신병제. Ref. 대한우울·조울병학회, 대한정신약물학회. 한국형 우울장애 약물치료 지침서 2025 (Wang SM et al. J Korean Neuropsychiatr Assoc 2025;64(3):213-220)</mark>_
+_<mark style="color:$info;">\*최우선(treatment of choice). AD=항우울제, AAP=비정형 항정신병제. Ref. 대한우울·조울병학회, 대한정신약물학회. 한국형 우울장애 약물치료 지침서 2025 (Wang SM et al. J Korean Neuropsychiatr Assoc 2025;64(3):213-220)</mark>_
 
----
+***
 
 {% hint style="danger" %}
-**Primary care pitfall — 자주 놓치는 함정**
+**임상에서 자주 놓치는 문**
 
 * **PHQ-9만 사용** → 수면·피로 항목 과대평가로 위양성 증가; EPDS 병용 권고
 * **양극성 장애 미감별** → 항우울제 단독 투여 후 조증 전환 또는 혼재성 삽화 유발
@@ -227,7 +218,7 @@ _<mark style="color:$info;">★ 최우선(treatment of choice). AD=항우울제,
 * **배우자 우울증 무시** → 산모 치료 반응 저하 및 재발률 상승과 연관
 {% endhint %}
 
----
+***
 
 ## <mark style="color:green;">비약물 치료</mark>
 
@@ -236,7 +227,7 @@ _<mark style="color:$info;">★ 최우선(treatment of choice). AD=항우울제,
 * 모유 수유 유지 (✽항우울제 복용 시 모유로 소량 분비되나 수유 가능; 수유 중단보다 치료 유지가 우선)
 * 신생아와의 적절한 접촉 유지 (예: 신생아 마사지)
 * 밝은 환경 유지, 활동
-* **수면 박탈 적극 관리** : 밤수유 교대, 필요 시 formula 보충 고려; 주간 수면 확보를 위한 가족 지지 독려
+* 수면 박탈 적극 관리 : 밤수유 교대, 필요 시 formula 보충 고려; 주간 수면 확보를 위한 가족 지지 독려
 * 신생아 수면 관리 (필요 시 주변의 도움 요청)
 * 적당한 영양 및 수분 섭취
 * 복합 Vit/미네랄, 오메가-3 공급
@@ -260,8 +251,8 @@ _<mark style="color:$info;">★ 최우선(treatment of choice). AD=항우울제,
 
 * 1차 선택 : sertraline, escitalopram - 모유 이행량 적고 안전 근거 비교적 충분; 영아 혈중 농도 매우 낮음
 * 저용량으로 시작 → 점차 증량; 산모 및 영아의 부작용 모니터링
-* paroxetine : 모유 이행량 적음; 단, **임신 후기 SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 위험이 약간 증가**할 수 있어 임신 중 신규 시작은 신중 (paroxetine 특이적이 아닌 SSRI 계열 공통 주의사항); 수유 중에는 이 위험 없음
-* nortriptyline : **TCA 계열은 과량 복용 시 치명적이므로 자살 위험이 있는 경우 1차 선택으로는 피함**
+* paroxetine : 모유 이행량 적음; 단, 임신 후기 SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 위험이 약간 증가할 수 있어 임신 중 신규 시작은 신중 (paroxetine 특이적이 아닌 SSRI 계열 공통 주의사항); 수유 중에는 이 위험 없음
+* nortriptyline : TCA 계열은 과량 복용 시 치명적이므로 자살 위험이 있는 경우 1차 선택으로는 피함
 * 신생아 모니터링 : 모유 수유 중 항우울제 복용 시 영아의 졸림, 수유 장애, 체중 증가 불량 여부 관찰
 
 <table><thead><tr><th width="204">항우울제</th><th width="126">시작 (mg/d)</th><th width="122">범위 (mg/d)</th></tr></thead><tbody><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td>25~50</td><td>50~200</td></tr><tr><td>escitalopram <mark style="color:blue;">[렉사프로]</mark></td><td>5~10</td><td>10~20</td></tr><tr><td>paroxetine <mark style="color:blue;">[세로자트]</mark></td><td>10</td><td>20~60</td></tr><tr><td>nortriptyline <mark style="color:blue;">[센시발]</mark></td><td>25</td><td>25~150</td></tr></tbody></table>
@@ -270,19 +261,19 @@ _<mark style="color:$info;">★ 최우선(treatment of choice). AD=항우울제,
 
 산후우울증에 특화된 계열로, 기존 항우울제와 기전이 다름 (GABA-A 수용체 양성 조절 → 빠른 효과 발현)
 
-**Zuranolone \[Zurzuvae]**
+**Zuranolone** <mark style="color:blue;">\[Zurzuvae]</mark>
 
 * GABA-A 수용체 양성 조절제(neuroactive steroid); 산후우울증 전용 경구 치료제
 * 2023년 FDA 승인; 2026년 현재 국내 미허가
 * 특징 : 효과 발현 매우 빠름(투여 후 3일); 14일 단기 과정(50 mg qd 취침 시)
 * 모유 이행량 매우 낮은 것으로 보고됨; 단, 제조사는 14일 투약 기간 중 및 마지막 복용 후 일정 기간 수유 중단을 권고 — 수유 지속을 원하는 경우 전문의 상담 필수
-* 부작용 : 졸림, 어지럼, 진정, 두통; **운전 및 기계 조작 장애 주의 (복용 당일 및 다음날까지 운전 금지 권고)**; CNS 억제제 병용 시 진정 효과 상가 — 병용 금기 또는 신중
+* 부작용 : 졸림, 어지럼, 진정, 두통; 운전 및 기계 조작 장애 주의 (복용 당일 및 다음날까지 운전 금지 권고); CNS 억제제 병용 시 진정 효과 상가 - 병용 금기 또는 신중
 
-**Brexanolone \[Zulresso]**
+**Brexanolone** <mark style="color:blue;">\[Zulresso]</mark>
 
 * 동일 계열 neuroactive steroid; 산후우울증 전용 정맥주사 제형
 * 2019년 FDA 승인 (산후우울증 최초 FDA 승인 약제)
-* 60시간 지속 IV infusion — 입원 치료 필수; 투여 중 진정·의식 소실 위험으로 의료기관 집중 모니터링 필요 (REMS 프로그램)
+* 60시간 지속 IV infusion - 입원 치료 필수; 투여 중 진정·의식 소실 위험으로 의료기관 집중 모니터링 필요 (REMS 프로그램)
 * 적응 대상 : 경구 항우울제에 반응하지 않거나 신속한 효과가 필요한 중등증\~중증 산후우울증
 * 효과 발현 매우 빠름 (24\~48시간)
 * 2026년 현재 국내 미허가; 고가
@@ -290,10 +281,10 @@ _<mark style="color:$info;">★ 최우선(treatment of choice). AD=항우울제,
 ### <mark style="color:orange;">재발 예방</mark>
 
 * 산후우울증 과거력이 있는 경우 재발률이 높아 다음 임신 계획 시 사전 상담 필수
-* **예방적 SSRI 투여** : 산후우울증 과거력 있는 고위험 산모에서 출산 직후 SSRI 조기 시작을 고려할 수 있음 — 반드시 주치의와 산전에 논의하여 사전 동의 및 계획 수립 필요
+* 예방적 SSRI 투여 : 산후우울증 과거력 있는 고위험 산모에서 출산 직후 SSRI 조기 시작을 고려할 수 있음 — 반드시 주치의와 산전에 논의하여 사전 동의 및 계획 수립 필요
 * 치료 반응 후 최소 6\~12개월 유지 치료 권고; 2회 이상 삽화 병력 시 장기 유지 고려
 
----
+***
 
 ### <mark style="color:red;">질병코드</mark>
 
@@ -408,21 +399,21 @@ O90 달리 분류되지 않은 산후기의 합병증
 * 아기를 해치고 싶다는 생각이 드는 경우 - 즉시 내원
 * 환청이 들리거나 현실과 다른 생각(망상)이 드는 경우 (산후 정신증 가능성)
 
----
+***
 
-## <mark style="color:green;">배우자(아버지) 우울증</mark>
+### 배우자(아버지) 우울증 <a href="#undefined-24" id="undefined-24"></a>
 
 * 출산 후 아버지의 약 10%(일부 연구 25%)에서 우울증 발생; 산모 우울증과 상호 악화
 * paternal depression → 영아 언어 발달 지연, 행동 문제 증가와 연관; 단순 보조적 문제가 아님
 * 배우자 우울증은 산모의 치료 반응 저하 및 재발률 상승과 연관 → **산모 우울증이 있으면 배우자 선별 검사를 반드시 함께 시행**
 
-### <mark style="color:orange;">선별 도구</mark>
+#### 선별 도구 <a href="#undefined-25" id="undefined-25"></a>
 
 * **1차 선택 : EPDS** (산모와 동일 도구로 가정 단위 비교 가능; 아버지에서 cutoff ≥8\~10 권장)
 * **대안 : PHQ-9** (수면·피로 항목이 육아로 인한 위양성 증가 가능 — 해석 시 주의)
 * **불안 병행 평가 : GAD-7** (산후 시기는 우울보다 불안이 먼저 나타나는 경우 많음)
 
-### <mark style="color:orange;">아버지 우울증의 특이적 표현</mark>
+#### 아버지 우울증의 특이적 표현 <a href="#undefined-26" id="undefined-26"></a>
 
 일반적인 우울감보다 다음 양상으로 나타나는 경우가 흔함 — 반드시 탐색할 것
 
@@ -450,11 +441,11 @@ O90 달리 분류되지 않은 산후기의 합병증
 
 ▶ 부부 동시 선별 강력 권고
 
-| 결과 | 대응 |
-|---|---|
-| 산모만 양성 | 교육 + 추적 관찰 |
-| 배우자만 양성 | 교육 + 추적 관찰 |
-| 둘 다 양성 | 적극 개입 — couple-based 접근 |
+| 결과      | 대응                      |
+| ------- | ----------------------- |
+| 산모만 양성  | 교육 + 추적 관찰              |
+| 배우자만 양성 | 교육 + 추적 관찰              |
+| 둘 다 양성  | 적극 개입 — couple-based 접근 |
 
 ### <mark style="color:orange;">치료 접근</mark>
 
