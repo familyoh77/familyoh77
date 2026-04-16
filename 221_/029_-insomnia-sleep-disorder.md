@@ -2,6 +2,13 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
+* 불면증의 핵심 병태생리 - 과각성 모델 (Hyperarousal model)
+  * 불면증의 핵심 기전은 신경계 과각성(hyperarousal) 상태 : HPA axis 활성 증가, 교감신경 항진, 피질 각성 증가
+  * Sleep effort paradox : 잠을 자려고 노력할수록 각성이 높아져 오히려 불면이 악화되는 역설적 현상; CBT-I의 핵심 치료 대상
+* 불면증과 정신 질환의 양방향 관계&#x20;
+  * 불면증은 우울증·불안 장애의 '증상'인 동시에, 그 자체로 우울증과 불안 장애를 악화시키는 '독립적 위험 인자'임(양방향성, Bidirectional relationship)
+  * 기저 정신 질환이 있는 환자에서 불면증을 별도로 평가·치료하는 것이 중요하며, 불면증 치료가 선행될 때 동반 정신 질환의 예후도 개선될 수 있음
+
 ### <mark style="color:orange;">Sleep disorder 분류 \[ICSD-3]</mark>
 
 1. Insomnia : 적절한 수면 환경에도 불구하고 잠에 들기 어렵거나 잠을 유지하기 어렵거나 너무 일찍 깨어나며 이로 인하여 주간 기능에 지장이 발생함
@@ -83,11 +90,10 @@
 <mark style="color:$warning;">**당일 의뢰 또는 긴급 평가**</mark>
 
 * 자살 사고가 있으나 구체적 계획은 없는 경우
-* 폐쇄성 수면무호흡증 강력 의심 : 코골이 + 수면 중 무호흡 목격 + 주간 졸림 동반 - 수면다원검사 의뢰
-* 기면병 의심 : 갑작스러운 탈력 발작, 수면 마비, 입면 시 환각 동반
-* 렘수면 행동장애 의심 : 수면 중 격렬한 행동(소리 지름, 팔다리 움직임) - 파킨슨병 등 신경과적 질환 감별 필요
-* 야간 흉통·호흡곤란 동반 불면 : 심부전·협심증·폐질환 가능성 — 원인 질환 우선 평가
-* 렘수면 행동장애 확진 또는 강력 의심 : synucleinopathy(파킨슨병, 루이소체 치매 등) 전구 증상 가능성 — 신경과 의뢰
+* 코골이 + 수면 중 무호흡 목격 + 주간 졸림 동반 → 폐쇄성 수면무호흡증 강력 의심&#x20;
+* 갑작스러운 탈력 발작, 수면 마비, 입면 시 환각 동반 → 기면병 의심&#x20;
+* 수면 중 격렬한 행동(소리 지름, 팔다리 움직임) → 렘수면 행동장애 의심, 파킨슨병 등 신경과적 질환 감별 필요
+* 야간 흉통·호흡곤란 동반 불면 → 심부전·협심증·폐질환 가능성
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> - 단독 시 즉각 위험 낮으나 경과 관찰 필요
 
@@ -104,35 +110,31 @@
 * ECG; EEG, CT/MRI, circadian markers(melatonin, 체온)는 routine 검사가 아니며 특정 원인 질환 의심 시에만 시행
 * 수면다원검사 : 치료 실패, 주간 졸음 위험 직업군(예: 직업 운전자)에서 고려
 
-※ **불면증과 정신 질환의 양방향 관계** : 불면증은 우울증·불안 장애의 '증상'인 동시에, 그 자체로 우울증과 불안 장애를 악화시키는 '독립적 위험 인자'임(양방향성, Bidirectional relationship). 따라서 기저 정신 질환이 있는 환자에서 불면증을 별도로 평가·치료하는 것이 중요하며, 불면증 치료가 선행될 때 동반 정신 질환의 예후도 개선될 수 있음
-
 #### <mark style="color:$primary;">주간 졸림증 자가 진단 - Epworth Sleepiness Scale (ESS)</mark>
 
 ([대한수면연구학회](https://www.sleepnet.or.kr/))
 
 * 아래 8가지 상황들에서 당신은 어느 정도나 졸음을 느끼십니까?
 * 배점 : 전혀 졸지 않는다(0점), 가끔 졸음에 빠진다(1점), 종종 졸음에 빠진다(2점), 자주 졸음에 빠진다(3점)
-
-- [ ] 앉아서 책을 읽을 때
-- [ ] 텔레비젼을 볼 때
-- [ ] 극장이나 회의석상과 같은 공공 장소에서 가만히 앉아있을 때
-- [ ] 오후 휴식 시간에 편안히 누워 있을 때
-- [ ] 앉아서 누군가에게 말을 하고 있을 때
-- [ ] 점심 식사 후 조용히 앉아 있을 때
-- [ ] 차 안에 승객으로 앉아 있을 때
-- [ ] 차를 운전하고 가다가 교통 체증으로 몇 분간 멈추었을 때
-
-▶판정 : ＜10점 정상, 10\~12점 경증, 13\~15점 중등증, ≥16점 중증 주간 졸림증
+  1. 앉아서 책을 읽을 때
+  2. 텔레비젼을 볼 때
+  3. 극장이나 회의석상과 같은 공공 장소에서 가만히 앉아있을 때
+  4. 오후 휴식 시간에 편안히 누워 있을 때
+  5. 앉아서 누군가에게 말을 하고 있을 때
+  6. 점심 식사 후 조용히 앉아 있을 때
+  7. 차 안에 승객으로 앉아 있을 때
+  8. 차를 운전하고 가다가 교통 체증으로 몇 분간 멈추었을 때
+* 판정 : ＜10점 정상, 10\~12점 경증, 13\~15점 중등증, ≥16점 중증 주간 졸림증
 
 #### <mark style="color:$primary;">불면증 심각도 지수 (Insomnia Severity Index, ISI)</mark>
 
 ([대한수면연구학회](https://www.sleepnet.or.kr/))
 
 1. 불면증에 관한 아래 3가지 항목에 대하여 당신은 현재(최근 2주간) 어떤 상태인가요?
+   1. 잠들기 어렵다.
+   2. 잠을 유지하기 어렵다.
+   3. 쉽게 깬다.
    * 배점 : 없음(0점), 약간(1점), 중간(2점), 심함(3점), 매우 심함(4점)
-   - [ ] 잠들기 어렵다.
-   - [ ] 잠을 유지하기 어렵다.
-   - [ ] 쉽게 깬다.
 2. 현재 수면 양상에 관하여 얼마나 만족하고 있습니까?
    * 매우 만족(0점), 약간 만족(1점), 그저 그렇다(2점), 약간 불만족(3점), 매우 불만족(4점)
 3. 당신의 수면 장애가 어느 정도나 당신의 낮 활동을 방해한다고 생각합니까? (예. 낮에 피곤함, 직장이나 가사에 일하는 능력, 집중력, 기억력, 기분 등)
@@ -142,7 +144,7 @@
 5. 당신은 현재 불면증에 관하여 얼마나 걱정하고 있습니까?
    * 전혀(0점), 약간(1점), 다소(2점), 상당히(3점), 매우 많이(4점)
 
-▶판정 : 0\~7점 유의할 만한 불면증 없음, 8\~14점 경증, 15\~21점 중등증, 22\~28점 중증 불면증
+* 판정 : 0\~7점=유의할 만한 불면증 없음, 8\~14점=경증, 15\~21점=중등증, 22\~28점=중증 불면증
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -174,7 +176,7 @@
 
 #### <mark style="color:$primary;">사건수면</mark>
 
-* 렘수면 각성장애 : 렘수면 행동장애(렘수면 중 근육 긴장도가 유지되어 꿈 내용을 실제로 행동 함); 특발성, 신경과적 질환(예: 파킨슨병, 루이소체 치매) 관련 — 렘수면 행동장애는 파킨슨병의 가장 강력한 전구 증상 지표 중 하나로, 수년 후 파킨슨병 발병 가능성이 있으므로 신경과 의뢰 고려 (☞ [파킨슨병 전구 증상](035_-parkinsons-disease.md#전구-증상))
+* 렘수면 각성장애 : 렘수면 행동장애(렘수면 중 근육 긴장도가 유지되어 꿈 내용을 실제로 행동 함); 특발성, 신경과적 질환(예: 파킨슨병, 루이소체 치매) 관련 - 렘수면 행동장애는 파킨슨병의 가장 강력한 전구 증상 지표 중 하나로, 수년 후 파킨슨병 발병 가능성이 있으므로 신경과 의뢰 고려 (☞ [파킨슨병 전구 증상](035_-parkinsons-disease.md#전구-증상))
 * 비렘수면 각성장애 : 야경증(자다가 소리를 지르고 울면서 깨는 행동을 반복), 수면보행증(수면 중 갑자기 일어나서 걸어다니는 행동을 반복)
 * 깊은 잠을 자고 있는 상태로, 다른 사람이 말을 거는 것에 대해 적절한 반응을 보이지 않음
 * 수면 중 첫 ⅓ 시점에서 많이 발생
@@ -189,6 +191,49 @@
 
 ***
 
+```mermaid
+graph TD
+    Start([잠을 잘 못자거나, 자는 동안 자주 깨거나, 아침에 일찍 깨는가?]) --> Q1[최근의 스트레스나 정신과적 문제,<br/>의학적 문제와 연관이 있는가?]
+    
+    Q1 -- "예" --> A1[정신과적 평가 및 의학적 평가]
+    Q1 -- "아니오" --> Q2[불면증이 수면 각성 주기와 관련이 있는가?]
+    
+    Q2 -- "예" --> A2["일주기 리듬 수면각성장애<br/>-앞당겨진 수면위상형 <br/>-뒤쳐진 수면위상형<br/>-시차 혹은 교대근무"]
+    Q2 -- "아니오" --> Q3[잠자는 동안 이상행동이 관찰되는가?]
+    
+    Q3 -- "예" --> A3["사건수면<br/>-렘수면 행동장애<br/>-몽유병 등)"]
+    Q3 -- "아니오" --> Q4[잠들 무렵에 다리에 이상한 감각이나 불편감이 있거나,<br/>자다가 다리를 차는 증상이 있는가?]
+    
+    Q4 -- "예" --> A4[하지불안증후군<br/>주기적 사지운동장애]
+    Q4 -- "아니오" --> Q5[자는 동안 코골이가 있거나 무호흡이 관찰되면서<br/>낮졸림증이 관찰되는가?]
+    
+    Q5 -- "예" --> A5[폐쇄성 수면무호흡증]
+    Q5 -- "아니오" --> Q6[심한 낮졸림증이 관찰되는가?]
+    
+    Q6 -- "예" --> A6[기면증<br/>과다수면증]
+    Q6 -- "아니오" --> Q7[잠이 쉽게 들지 않거나, 중간에 자주 깨거나, 아침에 일찍 일어나는 것이 주 3회 이상 3개월 이상 지속되었는가?]
+    
+    Q7 -- "예" --> Diagnosis[불면장애 진단]
+    
+    Diagnosis --> CBT[불면증 인지행동치료]
+    
+    CBT -- "불면증 인지행동치료에 
+    반응이 없거나<br/>치료가 여의치 않은 경우" --> Drug[약물치료]
+    
+    Type1 --> D1["- Z drug<br/>-Benzodiazepine<br/>-Ramelteon"]
+    Type2 --> D2["- Z drug<br/>-Benzodiazepine<br/>-Doxepin, trazodone<br/>-Suvorexant"]
+
+    style Start fill:#f9f,stroke:#333,stroke-width:2px
+    style Diagnosis fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style CBT fill:#fff4dd,stroke:#d4a017,stroke-width:2px
+```
+
+<p align="center"><strong>불면증 진단 및 치료 흐름도</strong></p>
+
+<p align="center"><em>대한신경정신의학회. 한국판 불면증 임상진료지침 2019. 그림 4.</em></p>
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -197,151 +242,127 @@
 * 원인 제거, 기저 질환 치료, 수면 환경 개선 등 생활 요법 중재, 정신 요법, 약물 치료
   * 약물 치료는 남용, 내성, 중독 가능성이 있으므로 주의
 
-**불면증의 핵심 병태생리 — 과각성 모델 (Hyperarousal model)**
 
-* 불면증의 핵심 기전은 신경계 과각성(hyperarousal) 상태 : HPA axis 활성 증가, 교감신경 항진, 피질 각성 증가
-* **Sleep effort paradox** : 잠을 자려고 노력할수록 각성이 높아져 오히려 불면이 악화되는 역설적 현상; CBT-I의 핵심 치료 대상
 
 **Short sleeper vs Insomnia 구분** (치료 전 필수 감별)
 
-* Short sleeper : 수면 시간이 짧아도 **주간 기능 정상** → 치료 불필요; 과치료 주의
-* Insomnia : 수면 문제 + **주간 기능 장애** 동반 → 치료 대상
-
+* Short sleeper : 수면 시간이 짧아도 주간 기능 정상 → 치료 불필요; 과치료 주의
+* Insomnia : 수면 문제 + 주간 기능 장애 동반 → 치료 대상
 * 야간 저산소증이 있는 만성 폐질환 또는 수면무호흡증 환자는 의뢰
 
----
+### <mark style="color:orange;">불면증 1차 치료 Step</mark>
 
-### <mark style="color:orange;">불면증 1차 진료 관리 흐름</mark>
+**Step 1.** Red flag 확인
 
-_✽ Red flag 확인 및 2차 원인 감별(OSA·사건수면·하지불안·기면증 등)은 아래 진단 섹션의 흐름도를 참조_
+**Step 2.** 2차 원인 평가 및 다른 질환 감별
 
-{% hint style="info" %}
+_✽ Red flag 확인 및 2차 원인 감별(OSA·사건수면·하지불안·기면증 등)은_ "진단-불면증 진단 및 치료 흐름도" _참조_
+
 **STEP 3. Insomnia phenotype 분류**
 
-| 유형 | 특징 |
-|------|------|
-| 입면 장애 | 잠들기까지 30분 이상 소요 |
-| 유지 장애 | 야간 각성 잦음, 새벽 조기 기상 |
-| 혼합형 | 입면 + 유지 장애 동반 |
-{% endhint %}
+* 잠들기까지 30분 이상 → 소요 입면 장애
+* 야간 각성 잦음, 새벽 조기 기상 → 유지 장애
+* 입면 + 유지 장애 동반 → 혼합형
 
-{% hint style="info" %}
-**STEP 4. 기본 치료 — 모든 환자에게 적용**
+**Step 4. 기본 치료 - 모든 환자에게 적용**
 
-✔ CBT-I (± dCBT-I) — 경증~중등도는 약물 없이 단독 시행\
-✔ 수면 위생 교육\
-✔ 수면 일지 작성
-{% endhint %}
+* CBT-I (± dCBT-I) - 경증\~중등도는 약물 없이 단독 시행
+* 수면 위생 교육
+* 수면 일지 작성
 
-{% hint style="info" %}
-**STEP 5. 약물 치료 필요성 판단**
+**Step 5. 약물 치료 필요성 판단**
 
 * 경증 → 비약물 치료 유지
 * 중등도 이상(ISI ≥15) 또는 CBT-I 접근 어려운 경우 → STEP 6으로
-{% endhint %}
 
-{% hint style="info" %}
-**STEP 6. 환자 특성 확인 (약물 선택 전 필수)**
+**Step 6. 환자 특성 확인** (약물 선택 전 필수)
 
 * ≥65세 또는 낙상 위험 → BZD·Z-drug 원칙적 회피
 * OSA 동반 또는 의심 → BZD 금기
 * 우울·불안 동반 → 항우울제 계열 우선 고려
 * 교대근무·circadian 장애 → melatonin + 광치료
-{% endhint %}
 
-{% hint style="info" %}
-**STEP 7. 약물 선택** → 처방례 앞 Decision Guide 표 참조
-{% endhint %}
+**Step 7. 약물 선택** → **약물 선택 요약**&#x20;
 
-{% hint style="info" %}
-**STEP 8. 재평가 (2~4주 후)**
+**Step 8. 재평가** (2\~4주 후)
 
 * 호전 → 감량 계획 수립 (25%씩 tapering)
 * 미호전 → 약물 변경 또는 병합, 전문과 의뢰 고려
-{% endhint %}
 
----
+**※ 약물 선택 요약 (Decision Guide)**
 
-**고령자 전용 Insomnia Protocol**
+<table><thead><tr><th width="161">상황</th><th>우선 선택</th><th>대안</th></tr></thead><tbody><tr><td>입면 장애 (일반)</td><td><a href="029_-insomnia-sleep-disorder.md#z-class-drugs">Z-drug</a> (zolpidem, zaleplon)</td><td>DORA, eszopiclone</td></tr><tr><td>유지 장애</td><td><a href="029_-insomnia-sleep-disorder.md#orexin-dual-orexin-receptor-antagonist-dora">DORA</a>, doxepin 3~6 ㎎</td><td>zolpidem CR, eszopiclone</td></tr><tr><td>혼합형</td><td>DORA</td><td>eszopiclone, zolpidem CR</td></tr><tr><td>고령자</td><td>DORA, doxepin 3 ㎎, ramelteon</td><td>Z-drug 최저 용량 (단기)</td></tr><tr><td>OSA 동반</td><td>DORA, ramelteon</td><td>BZD·Z-drug 회피</td></tr><tr><td>우울증 동반</td><td>mirtazapine</td><td>trazodone (보조적)</td></tr><tr><td>일주기리듬 장애</td><td>melatonin + 광치료</td><td>—</td></tr></tbody></table>
 
-{% hint style="warning" %}
-**STEP 1. 핵심 원칙**\
-① CBT-I = 1차 치료 (약물보다 우선)\
-② 약물은 최소화\
-③ 낙상·인지저하 위험을 모든 약물 결정의 최우선 기준으로 적용
-{% endhint %}
+⚠️ 고령자·낙상 위험 → BZD/Z-drug 원칙적 회피\
+⚠️ 자살 위험 → Z-drug 신중 사용\
+⚠️ OSA(폐쇄성 수면 무호흡증) 의심 → BZD 사용 금지
 
-{% hint style="warning" %}
+***
+
+### <mark style="color:orange;">고령자 Insomnia Protocol</mark>
+
+**STEP 1. 핵심 원칙**
+
+1. CBT-I = 1차 치료 (약물보다 우선)
+2. 약물은 최소화
+3. 낙상·인지저하 위험을 모든 약물 결정의 최우선 기준으로 적용
+
 **STEP 2. 반드시 먼저 확인**
 
 * 다제약물 복용 여부 (수면에 영향을 주는 약물 점검)
 * Nocturia — 원인 질환(전립선비대증, 과민성방광, 심부전, 당뇨) 평가·치료 병행; 저녁 수분 섭취 제한, 취침 전 배뇨 습관화
 * OSA — 동반 시 BZD 금기
 * 치매·섬망 위험 — 항콜린성 약물·BZD 특히 주의
-{% endhint %}
 
-{% hint style="warning" %}
 **STEP 3. 비약물 치료 (모든 고령 환자에게 우선 적용)**
 
-✔ 기상 시간 고정 (취침 시간보다 기상 시간 일정화가 더 중요)\
-✔ 낮잠 ≤30분, 오후 3시 이전\
-✔ 저녁 광 노출↑ (circadian advance 교정 — 취침 시간 지연 효과)\
-✔ **Sleep compression** 권장 : 수면 제한법 대신 침대 시간을 수 주에 걸쳐 서서히 단축\
-✔ 수면 압력 증가 전략 (낮잠 줄이기, 기상 시간 고정)
-{% endhint %}
+* 기상 시간 고정 (취침 시간보다 기상 시간 일정화가 더 중요)
+* 낮잠 ≤30분, 오후 3시 이전
+* 저녁 광 노출↑ (circadian advance 교정 — 취침 시간 지연 효과)
+* Sleep compression 권장 : 수면 제한법 대신 침대 시간을 수 주에 걸쳐 서서히 단축
+* 수면 압력 증가 전략 (낮잠 줄이기, 기상 시간 고정)
 
-{% hint style="warning" %}
 **STEP 4. 약물 선택 우선순위**
 
-🥇 **1차 (권장)**
-* DORA — lemborexant 5 ㎎, suvorexant 10 ㎎
-* Doxepin 3 ㎎ (유지 장애)
-* Ramelteon 8 ㎎ (입면 장애, 의존·낙상 위험 없음)
+* **1차 (권장)**
+  * DORA - lemborexant 5 ㎎, suvorexant 10 ㎎
+  * doxepin 3 ㎎ (유지 장애)
+  * ramelteon 8 ㎎ (입면 장애, 의존·낙상 위험 없음)
+* **2차 (단기·제한적)**
+  * Z-drug 최저 용량 (zolpidem 5 ㎎) - 불가피한 경우만, 최단 기간
+* **금기·회피**
+  * benzodiazepine (낙상·섬망·인지저하 위험)
+  * 항히스타민제 (anticholinergic burden)
+  * 항정신병제 (불면 단독 목적)
 
-🥈 **2차 (단기·제한적)**
-* Z-drug 최저 용량 (zolpidem 5 ㎎) — 불가피한 경우만, 최단 기간
+**STEP 5. 용량 전략 - "Start low, go slow"**
 
-🚫 **금기·회피**
-* Benzodiazepine (낙상·섬망·인지저하 위험)
-* 항히스타민제 (anticholinergic burden)
-* 항정신병제 (불면 단독 목적)
-{% endhint %}
+* lemborexant 5 ㎎ → 반응 부족 시 10 ㎎
+* doxepin 3 ㎎ → 반응 부족 시 6 ㎎
+* zolpidem (불가피 시) 5 ㎎ 고정, 증량 원칙적 금지
 
-{% hint style="warning" %}
-**STEP 5. 용량 전략 — "Start low, go slow"**
-
-* Lemborexant 5 ㎎ → 반응 부족 시 10 ㎎
-* Doxepin 3 ㎎ → 반응 부족 시 6 ㎎
-* Zolpidem (불가피 시) 5 ㎎ 고정, 증량 원칙적 금지
-{% endhint %}
-
-{% hint style="warning" %}
 **STEP 6. 중단 전략**
 
-* 안정화 후 2~4주부터 감량 시작
+* 안정화 후 2\~4주부터 감량 시작
 * 25%씩 단계적 감량
 * 중단 전 rebound insomnia 반드시 설명
-{% endhint %}
 
-{% hint style="warning" %}
 **STEP 7. 고령자 특이 포인트**
 
-* **Nocturia 교정 = 수면 개선의 핵심** — 약물보다 먼저 해결
-* **Circadian advance** (이른 취침·이른 기상) → 저녁 광치료로 교정
-* **수면 시간 감소는 정상적 노화** — 총 수면 시간만으로 과치료 금지; 주간 기능 장애 유무로 판단
-{% endhint %}
+* **Nocturia 교정** = 수면 개선의 핵심 - 수면 치료보다 야뇨증을 먼저 해결
+* Circadian advance (이른 취침·이른 기상) → 저녁 광 치료로 교정
+* 수면 시간 감소는 정상적 노화 - 총 수면 시간만으로 과잉치료 금지; 주간 기능 장애 유무로 판단
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
-_<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments for Chronic Insomnia Disorder in Adults. J Clin Sleep Med. 2021;17(2):255–262.</mark>_
+#### <mark style="color:$primary;">인지행동치료(CBT-I)</mark>&#x20;
 
-* 인지행동치료(CBT-I) : 만성 불면증의 모든 경우에 대한 1차 치료 \[AASM 강력 권고]; 약물 치료보다 장기 효과 우수하며 부작용 없음; 수면 제한법, 자극 조절, 이완 요법, 인지 치료, 수면 위생의 복합 구성
-  * **경증\~중등도 불면증에서는 약물 없이 CBT-I(또는 dCBT-I) 단독 치료를 우선 권장**
-  * 디지털 CBT-I (dCBT-I) : 앱·웹 기반 CBT-I; 1차 진료에서 접근성 낮은 환경의 대안으로 적극 활용 가능
-    * 국내 현황 : 식약처 허가 디지털 치료제(DTx)로 에임메드 솜즈(Somzz), 웰트 웰트-I(WELT-I) 등 처방 가능; 의사가 처방 코드 발행 → 환자 앱 설치 후 6\~9주 CBT-I 과정 수행; 혁신의료기술로 지정, 비급여 또는 선별급여 형태 운영; 처방 시 혁신의료기술 동의서 작성 및 앱 설치 안내 절차 필요; 약물 의존도가 높거나 CBT-I 접근성이 낮은 환자에게 대안으로 제시 가능
-* 명상, mindfulness, 광 치료 : 보조적 활용
+* 만성 불면증의 모든 경우에 대한 1차 치료 \[AASM 강력 권고]; 약물 치료보다 장기 효과 우수하며 부작용 없음; 수면 제한법, 자극 조절, 이완 요법, 인지 치료, 수면 위생의 복합 구성
+* 경증\~중등도 불면증에서는 약물 없이 CBT-I(또는 dCBT-I) 단독 치료를 우선 권장
+* 디지털 CBT-I (dCBT-I) : 앱·웹 기반 CBT-I; 1차 진료에서 접근성 낮은 환경의 대안으로 적극 활용 가능
+* 국내 현황 : 식약처 허가 디지털 치료제(DTx)로 에임메드 솜즈(Somzz), 웰트 웰트-I(WELT-I) 등 처방 가능; 의사가 처방 코드 발행 → 환자 앱 설치 후 6\~9주 CBT-I 과정 수행; 혁신의료기술로 지정, 비급여 또는 선별급여 형태 운영; 처방 시 혁신의료기술 동의서 작성 및 앱 설치 안내 절차 필요; 약물 의존도가 높거나 CBT-I 접근성이 낮은 환자에게 대안으로 제시 가능
 
-#### <mark style="color:$primary;">수면 위생 (sleep hygiene)</mark>
+#### <mark style="color:$primary;">수면 위생 (Sleep hygiene)</mark>
 
 1. 다음날 피곤하지 않을 정도만 취침; 침대에 누워 있는 시간이 너무 길면 얕게 자고 자주 깨게 됨
 2. 아침에 규칙적인 시간에 기상
@@ -354,7 +375,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 9. 술에 의존하지 않음; 술은 잠을 빠르게 들게 할 수 있지만 자주 깨게 함
 10. 잠 자려고 너무 애 쓰지 않음; 잠이 오지 않을 때는 적당한 조명 하에 책을 보거나 음악을 들음
 
-#### <mark style="color:$primary;">수면 제한법 (sleep restriction therapy)</mark>
+#### <mark style="color:$primary;">수면 제한법 (Sleep restriction therapy)</mark>
 
 1. 원하는 기상 시간을 정함
 2. 몇 시간 정도를 자면 만족할지 생각
@@ -362,11 +383,9 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 4. 수면 효율이 85% 이하라면 잠자리에 누워 있는 시간을 15분씩 줄임
 5. 수면 효율이 90% 이상에 도달하면 잠자리에 누워 있는 시간을 15분씩 늘림
 
-{% hint style="info" %}
-**고령자에서의 Sleep compression** : 수면 제한법은 고령자에서 주간 졸림 악화 및 순응도 저하 문제가 있음. 수면 압력을 점진적으로 높이는 **sleep compression**(침대 시간을 급격히 줄이지 않고 수 주에 걸쳐 서서히 단축)이 더 현실적인 대안임
-{% endhint %}
+> **고령자**에서의 수면 제한법은 주간 졸림 악화 및 순응도 저하 문제를 일으킬 수 있음. 수면 압력을 점진적으로 높이는 **sleep compression**(침대 시간을 급격히 줄이지 않고 수 주에 걸쳐 서서히 단축)이 더 현실적인 대안임
 
-#### <mark style="color:$primary;">자극 조절 (stimulus control therapy)</mark>
+#### <mark style="color:$primary;">자극 조절 (Stimulus control therapy)</mark>
 
 1. 졸릴 때에만 잠자리에 누움
 2. 잠이 오지 않으면 10\~15분 정도 후에 다시 일어남
@@ -377,7 +396,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 7. 잠자리는 잠을 자는 용도로만 사용
 8. 낮잠은 피하며, 필요시 30분 이내로만 잠
 
-#### <mark style="color:$primary;">이완 요법(relaxation technique)</mark>
+#### <mark style="color:$primary;">이완 요법 (Relaxation technique)</mark>
 
 1. 편안한 자세로 눕거나 앉아서 두 눈을 감는다.
 2. 왼쪽 손은 배 위에, 오른쪽 손은 가슴에 올려놓는다.
@@ -387,12 +406,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 6. 약 5초간 천천히 숨을 끝까지 내 쉰다.
 7. 한 번 시행 시 5분 간, 하루 중에 자주 시행한다.
 
-#### <mark style="color:$primary;">인지 치료(cognitive therapy)</mark>
-
-* 수면에 대한 역기능적인 생각 : 하루에 8시간은 자야 한다. 부족한 잠은 어떻게 해서든지 보충해야 한다. 잠을 잘 못 자면 건강을 해칠까 걱정된다. 잠을 잘 못 자면 이튿날 생활을 망치게 될 것이다. 잠을 영영 통제하지 못하게 될 것이다.
-* 부정적인 정서 반응 및 수면 습관 : 수면에 대해 지나치게 걱정하고 집착한다. 잠 잘 시간이 다가오거나 침대에 누우면 오히려 각성이 된다. 잠이 오지 않는데도 미리 누워서 자려고 애쓴다.
-
-#### <mark style="color:$primary;">광치료 (bright light therapy)</mark>
+#### <mark style="color:$primary;">광 치료 (Bright light therapy)</mark>
 
 * 일주기 리듬 안정; 전반적 수면 증상 개선 효과
 * 일정 시간 규칙적으로 밝은 빛(햇빛 아님)을 눈에 비춤; 2,000\~10,000 lux, 30분\~2시간, 수일
@@ -409,7 +423,7 @@ _<mark style="color:$info;">Ref. AASM. Behavioral and Psychological Treatments f
 * 복용 시간 : 취침 30분 전 복용; 복용 후 최소 7\~8시간 수면 시간 확보 (✽melatonin 계열 제외)
 * 약물 투여 중단 시 반동 현상과 내성이 발생하지 않도록 tapering
   * Tapering 예시 : 2주 간격으로 기존 용량의 25%씩 감량 (예: zolpidem 10 mg → 7.5 mg → 5 mg → 2.5 mg → 중단); 금단 증상 발생 시 감량 속도를 늦추고 환자와 상의하여 조정
-  * ✽반동 불면(rebound insomnia)은 반감기가 짧은 약제(예: triazolam, zaleplon)에서 더 흔함 — 중단 전 환자에게 반드시 설명
+  * 반동 불면(rebound insomnia)은 반감기가 짧은 약제(예: triazolam, zaleplon)에서 더 흔함 — 중단 전 환자에게 반드시 설명
 * 부작용 : 주간 졸음, 어지럼, 인지 장애, 내성, 반동 불면
   * 대처 방법 : 주간 졸음 발생 시 감량, 반감기가 짧은 약제 선택
 * 투여 주의/제한 : 고령, 알코올 남용, 자살 시도 병력, 수면무호흡증, 간/신/폐질환자, 운전자, 밤에 깨어나서 해야 할 일이 있는 사람
@@ -480,11 +494,11 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 #### <mark style="color:$primary;">입면 장애(Sleep onset insomnia)에 대한 권고 약제</mark>
 
-<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br>[할시온]</td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br>[잘레딥]</td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br><mark style="color:blue;">[할시온]</mark></td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br><mark style="color:blue;">[잘레딥]</mark></td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br><mark style="color:blue;">[스틸녹스]</mark></td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">유지 장애(Sleep maintenance insomnia)에 대한 권고 약제</mark>
 
-<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br>[사일레노]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br>[조피스타]</td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br>[스틸녹스]</td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br><mark style="color:blue;">[사일레노</mark>]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br><mark style="color:blue;">[스틸녹스]</mark></td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">기타</mark>
 
@@ -513,51 +527,6 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 ***
 
-```mermaid
-graph TD
-    Start([잠을 잘 못자거나, 자는 동안 자주 깨거나, 아침에 일찍 깨는가?]) --> Q1[최근의 스트레스나 정신과적 문제,<br/>의학적 문제와 연관이 있는가?]
-    
-    Q1 -- "예" --> A1[정신과적 평가 및 의학적 평가]
-    Q1 -- "아니오" --> Q2[불면증이 수면 각성 주기와 관련이 있는가?]
-    
-    Q2 -- "예" --> A2["일주기 리듬 수면각성장애<br/>-앞당겨진 수면위상형 <br/>-뒤쳐진 수면위상형<br/>-시차 혹은 교대근무"]
-    Q2 -- "아니오" --> Q3[잠자는 동안 이상행동이 관찰되는가?]
-    
-    Q3 -- "예" --> A3["사건수면<br/>-렘수면 행동장애<br/>-몽유병 등)"]
-    Q3 -- "아니오" --> Q4[잠들 무렵에 다리에 이상한 감각이나 불편감이 있거나,<br/>자다가 다리를 차는 증상이 있는가?]
-    
-    Q4 -- "예" --> A4[하지불안증후군<br/>주기적 사지운동장애]
-    Q4 -- "아니오" --> Q5[자는 동안 코골이가 있거나 무호흡이 관찰되면서<br/>낮졸림증이 관찰되는가?]
-    
-    Q5 -- "예" --> A5[폐쇄성 수면무호흡증]
-    Q5 -- "아니오" --> Q6[심한 낮졸림증이 관찰되는가?]
-    
-    Q6 -- "예" --> A6[기면증<br/>과다수면증]
-    Q6 -- "아니오" --> Q7[잠이 쉽게 들지 않거나, 중간에 자주 깨거나, 아침에 일찍 일어나는 것이 주 3회 이상 3개월 이상 지속되었는가?]
-    
-    Q7 -- "예" --> Diagnosis[불면장애 진단]
-    
-    Diagnosis --> CBT[불면증 인지행동치료]
-    
-    CBT -- "불면증 인지행동치료에 반응이 없거나<br/>치료가 여의치 않은 경우" --> Drug[약물치료]
-    
-    Drug --> Type1[수면개시장애]
-    Drug --> Type2[수면유지장애]
-    
-    Type1 --> D1["- Z drug<br/>-Benzodiazepine<br/>-Ramelteon"]
-    Type2 --> D2["- Z drug<br/>-Benzodiazepine<br/>-Doxepin, trazodone<br/>-Suvorexant"]
-
-    style Start fill:#f9f,stroke:#333,stroke-width:2px
-    style Diagnosis fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style CBT fill:#fff4dd,stroke:#d4a017,stroke-width:2px
-```
-
-<p align="center"><strong>불면증 진단 및 치료 흐름도</strong></p>
-
-<p align="center">대한신경정신의학회. 한국판 불면증 임상진료지침 2019. 그림 4.</p>
-
-***
-
 ### <mark style="color:red;">질병코드</mark>
 
 F51 비기질성 수면장애
@@ -567,26 +536,6 @@ G47 수면장애
 ***
 
 ## <mark style="color:purple;">처방례</mark>
-
-{% hint style="info" %}
-**약물 선택 요약 (Decision Guide)**
-{% endhint %}
-
-| 상황         | 우선 선택                         | 대안                       |
-| ---------- | ----------------------------- | ------------------------ |
-| 입면 장애 (일반) | Z-drug (zolpidem, zaleplon)   | DORA, eszopiclone        |
-| 유지 장애      | DORA ⭐, doxepin 3–6 mg        | zolpidem CR, eszopiclone |
-| 혼합형        | DORA ⭐                        | eszopiclone, zolpidem CR |
-| 고령자        | DORA, doxepin 3 mg, ramelteon | Z-drug 최저용량 (단기)         |
-| OSA 동반     | DORA, ramelteon               | BZD·Z-drug 회피            |
-| 우울증 동반     | mirtazapine                   | trazodone (보조적)          |
-| 일주기리듬 장애   | melatonin + 광치료               | —                        |
-
-{% hint style="info" %}
-⚠️ 고령자·낙상 위험 → BZD/Z-drug 원칙적 회피\
-⚠️ 자살 위험 → Z-drug 신중 사용\
-⚠️ OSA 의심 → BZD 사용 금지
-{% endhint %}
 
 > **처방례 1.** 입면 장애
 >
@@ -664,7 +613,7 @@ G47 수면장애
 > * 수면 보행(자다가 일어나 돌아다님), 수면 중 기억하지 못하는 행동이 생기는 경우 — 즉시 내원
 > * 4주 복용 후에도 증상이 전혀 나아지지 않는 경우
 > * 코골이와 수면 중 숨막힘이 동반되는 경우 (수면무호흡증 의심)
-> * 우울감·자살에 대한 생각이 드는 경우 — 즉시 내원 또는 정신건강 위기상담전화 **(1577-0199)**
+> * 우울감·자살에 대한 생각이 드는 경우 — 즉시 내원 또는 **자살예방 상담전화 109**
 
 ***
 
