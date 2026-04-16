@@ -133,7 +133,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 * 기질적 원인 배제를 위하여 시행
 * CBC, TSH, 혈당, 전해질, urine toxicology, ECG
-  * Urine drug screen : 물질 사용에 의한 불안 증상 또는 금단 증상 배제 목적으로amphetamines, cannabis, benzodiazepines, opioids 등검사; 국내에서는 methamphetamine 및 cannabis 검사가 가장 유의미
+  * Urine drug screen : 물질 사용에 의한 불안 증상 또는 금단 증상 배제 목적으로 amphetamines, methamphetamine, cannabis, benzodiazepines, opioids 등 검사; 국내에서는 methamphetamine 및 cannabis 검사가 가장 유의미
 
 ### <mark style="color:orange;">감별</mark>
 
