@@ -21,17 +21,21 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 심혈관성 실신 또는 생명 위협 원인 직접 시사</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;">- 심혈관성 실신 또는 생명 위협 원인 직접 시사</mark>
 
 * 운동 중 또는 누운 자세에서 발생한 실신
-* 비정상 ECG : QTc 연장(≥460 ms(여) / ≥450 ms(남); ＞500 ms는 고위험) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block, ST 이상, Q파
+* 심전도 이상 : QTc 연장(≥460 ms(여) / ≥450 ms(남); ＞500 ms는 고위험) 또는 단축(＜340 ms), pre-excitation(WPW), bundle branch block, Brugada pattern(V1\~V2 coved형 ST 상승), sinus pause ＞3초, Mobitz II형 또는 3도 AV block, ST 이상, Q파
   * 특히 Brugada pattern, QTc ＞500 ms, pre-excitation(WPW) 은 가족성 돌연사 병력(＜50세)과 병존 시 즉각 입원 적응증
-* 전구 증상 없이 갑작스럽게 발생한 실신
+* 전구 증상 없이 갑작스럽게 발생한 실신 또는 심계항진 선행
+* 흉통·호흡곤란
 * 기저 구조적 심질환(심부전, 심근증, 판막 질환), 관상동맥병 병력, 또는 가족성 돌연사 병력(＜50세)
 
 > **QTc 연장 확인 시 즉시 약물 검토**
 >
-> QTc ≥460 ms(여) / ≥450 ms(남) 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것: 항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등. 2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org) 참조
+> QTc ≥460 ms(여) / ≥450 ms(남) 확인 시, 다음 QT 연장 유발 약물 복용 여부를 즉시 확인할 것:&#x20;
+>
+> * 항정신병약(haloperidol, quetiapine, risperidone 등), 퀴놀론계 항생제(ciprofloxacin, levofloxacin, moxifloxacin), 항부정맥제(amiodarone, sotalol, flecainide), 항히스타민제, 항구토제(metoclopramide, domperidone), 항진균제(fluconazole), 삼환계 항우울제(TCA) 등.&#x20;
+> * 2종 이상 병용 시 상호작용으로 위험 격상. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org) 참조
 
 <mark style="color:$warning;">**당일 의뢰 또는 응급 평가 권고**</mark>
 
@@ -45,24 +49,13 @@
 
 * 반복적이고 설명할 수 없는 실신 (위 소견 병존 시 즉각 격상)
 
-> **실신 챕터 감별 허브** - 임상 특성으로 실신 유형을 빠르게 구분하세요
-
-| 임상 특성                          | 우선 고려 유형        | 참조 챕터/섹션                                                |
-| ------------------------------ | --------------- | ------------------------------------------------------- |
-| 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀) | 혈관미주신경성 실신      | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
-| 기침·배뇨·배변·식사 후 발생               | 상황 실신           | [022](022_-reflex-syncope-neurally-mediated-syncope.md) |
-| 기립 3분 내 혈압 ≥20 mmHg 저하         | 기립성 저혈압 실신      | 본 챕터                                                    |
-| 운동 중 발생, 전구 증상 없음, 비정상 ECG     | 심혈관성 실신 → 즉각 평가 | Red Flags 참조                                            |
-| 국소 신경학적 결손                      | 신경학적 원인 → 즉각 평가 | Red Flags 참조                                            |
-| 운동 중/직후 의식 소실                    | 심혈관성 원인 우선 고려 (구조적 심질환/부정맥) | Red Flags 참조                                     |
-
 ## <mark style="color:green;">종류</mark>
 
 ### <mark style="color:orange;">반사성 실신, 신경 매개성 실신 (Reflex syncope, Neurally mediated syncope)</mark>
 
 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md))
 
-* 실신의 가장 흔한 원인 (약 30~60%); 양성 경과; 젊은 환자에서 특히 흔하나 고령자에서도 발생 (이봉형 연령 분포)
+* 실신의 가장 흔한 원인 (약 30\~60%); 양성 경과; 젊은 환자에서 특히 흔하나 고령자에서도 발생 (이봉형 연령 분포)
 * 기전 : 과도한 vagal tone 또는 말초 순환의 반사 조절 장애
 * 유발 인자 : vasovagal(예: 스트레스, 공포, 통증, 불쾌한 장면/소리/냄새, 의료 시술), situational(예: 기침, 큰 웃음, 배변, 배뇨, 운동, 더운 곳, 오래 서 있음), 머리 회전 또는 carotid sinus 압박(예: 목이 조이는 옷)
 * 특징
@@ -100,18 +93,18 @@
   * 수축기 잡음 청취 시 HOCM(Valsalva 시 증강)·대동맥협착증 감별 고려
 * ECG : 모든 실신 환자에서 반드시 시행 (Class I)
 
-<mark style="color:$info;">※ 2017 ACC/AHA/HRS 및 2018 ESC 가이드라인 공통 권고 : 병력 청취, 신체 검진(기립성 활력징후 포함), 12유도 ECG가 초기 평가의 핵심; 일률적인 광범위 실험실 검사 및 영상 검사는 권고하지 않음</mark>
+ ※ 2017 ACC/AHA/HRS 및 2018 ESC 가이드라인 공통 권고 : 병력 청취, 신체 검진(기립성 활력징후 포함), 12유도 ECG가 초기 평가의 핵심; 일률적인 광범위 실험실 검사 및 영상 검사는 권고하지 않음
 
 ***
 
 ```mermaid
 graph TD
-    Start([실신 환자 초기 평가<br/>병력·신체검진·기립 활력징후·ECG]) --> S1{STEP 1. 위험 신호?}
-    S1 -->|운동 중/누운 자세 실신<br/>심계항진 선행<br/>전구 증상 없는 갑작스런 실신<br/>심전도 이상<br/>흉통·호흡곤란<br/>심질환 병력·가족성 돌연사 ＜50세| Cardiac[심혈관성 의심<br/>즉시 응급·심장내과 의뢰]
+    Start([실신 환자 초기 평가<br/>병력·신체검진·기립 활력징후·ECG]) --> S1{STEP 1. 응급  Red flags?}
+    S1 --> Cardiac[심혈관성 의심<br/>즉시 응급·심장내과 의뢰]
     S1 -->|No| S2{STEP 2. 기립 관련?}
     S2 -->|기립 직후 증상| OVital[Orthostatic vitals<br/>앙와위 5분 후 기립 직후/1분/3분<br/>필요 시 10분까지 연장]
-    OVital --> OH_BP[SBP ≥20 또는 DBP ≥10 mmHg 저하<br/>→ OH]
-    OVital --> OH_Init[기립 15초 내 ≥40 mmHg 일시 저하<br/>후 자발 회복<br/>→ Initial OH]
+    OVital --> OH_BP[SBP ≥20 또는 DBP ≥10 ㎜Hg 저하<br/>→ OH]
+    OVital --> OH_Init[기립 15초 내 ≥40 ㎜Hg 일시 저하<br/>후 자발 회복<br/>→ Initial OH]
     OVital --> POTS[HR ≥30 bpm 증가<br/>혈압 저하 없음<br/>→ POTS]
     OVital --> Delayed[기립 3~10분 후 발생<br/>→ Delayed OH]
     S2 -->|No| S3{STEP 3. 상황 유발?}
@@ -147,16 +140,12 @@ graph TD
 
 <p align="center"><strong>실신 환자 초기 평가 5단계 알고리듬</strong></p>
 
+* _**STEP 1은 반드시 먼저 배제** : 심혈관성 실신은 예후가 나쁘므로 다른 평가보다 우선._
+* _**STEP 2는 모든 환자에서 시행** : 기립 활력징후는 저비용·고수율 검사로, 앙와위 5분 안정 후 기립 직후·1분·3분에 측정 (initial OH를 놓치지 않기 위해 기립 직후 측정 필수)._
+* _**STEP 3과 4는 병렬적으로 고려** : 상황 유발 요소가 있어도 약물·대사 원인이 병존할 수 있음._
+* _**STEP 5 귀가 가능 기준** : ＜50세 + 심질환 병력 없음 + 정상 ECG + 명확한 trigger + 반사성/기립성 양상 모두 충족. Canadian Syncope Risk Score(CSRS) −1점 이하는 퇴원 안전성의 근거로 활용 가능._
+
 <p align="center"><em><mark style="color:$info;">Ref. 2018 ESC Guidelines for the diagnosis and management of syncope; 2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope</mark></em></p>
-
-{% hint style="info" %}
-**알고리듬 활용 요령**
-
-* **STEP 1은 반드시 먼저 배제** : 심혈관성 실신은 예후가 나쁘므로 다른 평가보다 우선.
-* **STEP 2는 모든 환자에서 시행** : 기립 활력징후는 저비용·고수율 검사로, 앙와위 5분 안정 후 기립 직후·1분·3분에 측정 (initial OH를 놓치지 않기 위해 기립 직후 측정 필수).
-* **STEP 3과 4는 병렬적으로 고려** : 상황 유발 요소가 있어도 약물·대사 원인이 병존할 수 있음.
-* **STEP 5 귀가 가능 기준** : ＜50세 + 심질환 병력 없음 + 정상 ECG + 명확한 trigger + 반사성/기립성 양상 모두 충족. Canadian Syncope Risk Score(CSRS) −1점 이하는 퇴원 안전성의 근거로 활용 가능.
-{% endhint %}
 
 ***
 
@@ -194,7 +183,7 @@ graph TD
 
 ### <mark style="color:orange;">감별</mark>
 
-<mark style="color:$info;">※ 실신 아형 간 감별(혈관미주신경성 / 상황 / 기립성 저혈압 / 심혈관성)은 상단 **실신 감별 허브 표** 및 **5단계 알고리듬** 참조. 본 섹션은 실신과 혼동되는 **비-실신성 의식 소실(non-syncope TLOC)** 감별에 집중.</mark>
+<mark style="color:$info;">※ 실신 아형 간 감별(혈관미주신경성 / 상황 / 기립성 저혈압 / 심혈관성)은 상단</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**실신 감별 허브 표**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">및</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**5단계 알고리듬**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">참조. 본 섹션은 실신과 혼동되는</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**비-실신성 의식 소실(non-syncope TLOC)**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">감별에 집중.</mark>
 
 **Non-syncope TLOC (의식 소실이 뇌 저관류에 의하지 않는 경우)**
 
@@ -207,6 +196,10 @@ graph TD
 * 실신에서의 tonic-clonic movement(myoclonic jerk)는 의식 소실 이후에 발생하며, 지속 시간이 짧고(＜15초) 불규칙·비대칭적인 경우가 많음
 * 간질성 강직-간대 발작은 의식 소실과 동시 또는 직전에 대칭적 강직으로 시작하며 postictal confusion(수분\~수십 분)이 동반됨
 * Psychogenic pseudosyncope : 눈을 감은 채 의식이 있음; 발작 중 EEG 정상; video-EEG 감별에 유용
+
+**실신 감별**
+
+<table><thead><tr><th width="326">임상 특성</th><th>우선 고려 유형</th><th>참조 챕터/섹션</th></tr></thead><tbody><tr><td>스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀)</td><td>혈관미주신경성 실신</td><td><a href="022_-reflex-syncope-neurally-mediated-syncope.md">022</a></td></tr><tr><td>기침·배뇨·배변·식사 후 발생</td><td>상황 실신</td><td><a href="022_-reflex-syncope-neurally-mediated-syncope.md">022</a></td></tr><tr><td>기립 3분 내 혈압 ≥20 mmHg 저하</td><td>기립성 저혈압 실신</td><td>본 챕터</td></tr><tr><td>운동 중 발생, 전구 증상 없음, 비정상 ECG</td><td>심혈관성 실신 → 즉각 평가</td><td>Red Flags 참조</td></tr><tr><td>국소 신경학적 결손</td><td>신경학적 원인 → 즉각 평가</td><td>Red Flags 참조</td></tr><tr><td>운동 중/직후 의식 소실</td><td>심혈관성 원인 우선 고려 (구조적 심질환/부정맥)</td><td>Red Flags 참조</td></tr></tbody></table>
 
 ***
 
