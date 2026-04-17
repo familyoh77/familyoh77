@@ -102,6 +102,64 @@
 
 <mark style="color:$info;">※ 2017 ACC/AHA/HRS 및 2018 ESC 가이드라인 공통 권고 : 병력 청취, 신체 검진(기립성 활력징후 포함), 12유도 ECG가 초기 평가의 핵심; 일률적인 광범위 실험실 검사 및 영상 검사는 권고하지 않음</mark>
 
+***
+
+```mermaid
+graph TD
+    Start([실신 환자 초기 평가<br/>병력·신체검진·기립 활력징후·ECG]) --> S1{STEP 1. 위험 신호?}
+    S1 -->|운동 중/누운 자세 실신<br/>심계항진 선행<br/>전구 증상 없는 갑작스런 실신<br/>심전도 이상<br/>흉통·호흡곤란<br/>심질환 병력·가족성 돌연사 ＜50세| Cardiac[심혈관성 의심<br/>즉시 응급·심장내과 의뢰]
+    S1 -->|No| S2{STEP 2. 기립 관련?}
+    S2 -->|기립 직후 증상| OVital[Orthostatic vitals<br/>앙와위 5분 후 기립 직후/1분/3분<br/>필요 시 10분까지 연장]
+    OVital --> OH_BP[SBP ≥20 또는 DBP ≥10 mmHg 저하<br/>→ OH]
+    OVital --> OH_Init[기립 15초 내 ≥40 mmHg 일시 저하<br/>후 자발 회복<br/>→ Initial OH]
+    OVital --> POTS[HR ≥30 bpm 증가<br/>혈압 저하 없음<br/>→ POTS]
+    OVital --> Delayed[기립 3~10분 후 발생<br/>→ Delayed OH]
+    S2 -->|No| S3{STEP 3. 상황 유발?}
+    S3 -->|오래 서 있음·더위<br/>감정 스트레스·통증<br/>채혈·의료 시술<br/>창백·식은땀 전구증상| Vasovagal[혈관미주신경성 실신]
+    S3 -->|기침·배뇨·배변·식사 후| Situational[상황 실신]
+    S3 -->|No| S4{STEP 4. 기타 원인}
+    S4 --> Seizure[발작 의심<br/>postictal confusion<br/>대칭적 강직-간대]
+    S4 --> Metabolic[저혈당·저산소증<br/>대사 이상]
+    S4 --> Drug[약물 유발<br/>α차단제·이뇨제<br/>SGLT2i·GLP-1 RA<br/>QT 연장 약물]
+    S4 --> Neuro[신경학적 원인<br/>vertebrobasilar TIA<br/>국소 신경 결손]
+    S4 --> Psych[Psychogenic pseudosyncope<br/>눈 감은 채 의식 유지]
+    Cardiac --> Plan{STEP 5. 정리}
+    OH_BP --> Plan
+    OH_Init --> Plan
+    POTS --> Plan
+    Delayed --> Plan
+    Vasovagal --> Plan
+    Situational --> Plan
+    Seizure --> Plan
+    Metabolic --> Plan
+    Drug --> Plan
+    Neuro --> Plan
+    Psych --> Plan
+    Plan --> PlanCardiac[심혈관성<br/>긴급 의뢰·입원]
+    Plan --> PlanAuto[자율신경성 OH/POTS<br/>외래 관리·약물 조정]
+    Plan --> PlanReflex[반사성·상황 실신<br/>교육·비약물 치료 중심]
+    Plan --> PlanOther[기타<br/>원인별 맞춤 관리]
+    style Cardiac fill:#f96,stroke:#e65100,stroke-width:2px
+    style PlanCardiac fill:#f96,stroke:#e65100,stroke-width:2px
+    style S1 fill:#fff3cd,stroke:#856404,stroke-width:2px
+    style Start fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+```
+
+<p align="center"><strong>실신 환자 초기 평가 5단계 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. 2018 ESC Guidelines for the diagnosis and management of syncope; 2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope</mark></em></p>
+
+{% hint style="info" %}
+**알고리듬 활용 요령**
+
+* **STEP 1은 반드시 먼저 배제** : 심혈관성 실신은 예후가 나쁘므로 다른 평가보다 우선.
+* **STEP 2는 모든 환자에서 시행** : 기립 활력징후는 저비용·고수율 검사로, 앙와위 5분 안정 후 기립 직후·1분·3분에 측정 (initial OH를 놓치지 않기 위해 기립 직후 측정 필수).
+* **STEP 3과 4는 병렬적으로 고려** : 상황 유발 요소가 있어도 약물·대사 원인이 병존할 수 있음.
+* **STEP 5 귀가 가능 기준** : ＜50세 + 심질환 병력 없음 + 정상 ECG + 명확한 trigger + 반사성/기립성 양상 모두 충족. Canadian Syncope Risk Score(CSRS) −1점 이하는 퇴원 안전성의 근거로 활용 가능.
+{% endhint %}
+
+***
+
 ### <mark style="color:orange;">추가 검사</mark>
 
 * 부정맥 의심 : 즉각적 심전도 모니터링, Holter monitoring
@@ -136,14 +194,12 @@
 
 ### <mark style="color:orange;">감별</mark>
 
+<mark style="color:$info;">※ 실신 아형 간 감별(혈관미주신경성 / 상황 / 기립성 저혈압 / 심혈관성)은 상단 **실신 감별 허브 표** 및 **5단계 알고리듬** 참조. 본 섹션은 실신과 혼동되는 **비-실신성 의식 소실(non-syncope TLOC)** 감별에 집중.</mark>
+
+**Non-syncope TLOC (의식 소실이 뇌 저관류에 의하지 않는 경우)**
+
 * 뇌 혈류 감소 없는 의식 소실 → epilepsy, 대사 이상(예: 저혈당, 저산소증, 과호흡/저이산화탄소혈증, 중독), vertebrobasilar [TIA](023_-transient-ischemic-attack-tia.md)
 * 의식 소실 없는 쓰러짐 → cataplexy, 낙상, psychogenic pseudosyncope, TIA
-* 스트레스·통증·오래 서 있음, 전구 증상(창백·식은땀) → [혈관미주신경성 실신](022_-reflex-syncope-neurally-mediated-syncope.md#vasovagal-syncope-vvs-neurocardiogenic-syncope)
-* 기침·배뇨·배변·식사 후 발생 → [상황 실신](022_-reflex-syncope-neurally-mediated-syncope.md#situational-syncope)
-* 기립 3분 내 혈압 ≥20 mmHg 저하 → 기립성 저혈압 실신
-* 운동 중 발생, 전구 증상 없음, 비정상 ECG → 심혈관성 실신
-* 국소 신경학적 결손 → 신경학적 원인
-* 운동 중/직후 의식 소실 → 심혈관성 원인 우선 고려 (구조적 심질환/부정맥)
 
 **발작과의 감별**
 
