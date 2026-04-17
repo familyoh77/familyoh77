@@ -16,65 +16,65 @@
 **초기 기립성 저혈압 (Initial Orthostatic Hypotension, Initial OH)**
 
 * 기립 후 15초 이내에 혈압이 급격히 하강(수축기 ≥40 ㎜Hg 또는 이완기 ≥20 ㎜Hg)했다가 곧 회복
-* 주로 젊은 사람과 노인에서 흔함 — **젊은 층의 실신·현기증 원인 중 혈관미주신경성 실신과 함께 가장 흔한 원인 중 하나**
+* 주로 젊은 사람과 노인에서 흔함 - 젊은 층의 실신·현기증 원인 중 혈관미주신경성 실신과 함께 가장 흔한 원인 중 하나
 * 일반적인 1·3·5분 혈압 측정으로는 놓치기 쉬움; "일어나는 즉시 아찔함을 느끼는지" 문진으로 선별
 
 **지연성 기립성 저혈압 (Delayed Orthostatic Hypotension, Delayed OH)**
 
 * 기립 후 3분 이내는 정상이나 3\~30분 사이에 혈압이 기준치(수축기 ≥20 ㎜Hg / 이완기 ≥10 ㎜Hg) 이상 감소
-* **초기 자율신경 부전(early autonomic failure)의 조기 징후** — 파킨슨병·PAF의 전구 신호일 수 있어 증상이 있는 환자는 10분 이상 연장 측정과 정기 추적 필요
+* 초기 자율신경 부전(early autonomic failure)의 조기 징후 - 파킨슨병·PAF의 전구 신호일 수 있어 증상이 있는 환자는 10분 이상 연장 측정과 정기 추적 필요
 
 **체위성 빈맥 증후군 (Postural Orthostatic Tachycardia Syndrome, POTS)**
 
-* 기립 시 심박수 ≥30회/분 증가(10분 이내), 단 **기립성 저혈압 기준(수축기 ≥20 ㎜Hg 또는 이완기 ≥10 ㎜Hg 감소)을 충족하지 않아야 함** — 경미한 혈압 변동은 POTS에서도 흔하므로 strict하게 "혈압 저하 없음"으로 해석하지 않음
+* 기립 시 심박수 ≥30회/분 증가(10분 이내), 단 기립성 저혈압 기준(수축기 ≥20 ㎜Hg 또는 이완기 ≥10 ㎜Hg 감소)을 충족하지 않아야 함 - 경미한 혈압 변동은 POTS에서도 흔하므로 strict하게 "혈압 저하 없음"으로 해석하지 않음
 * 주로 젊은 여성
 * 어지럼, 심계항진, 피로, 인지 저하("brain fog")
 * 자가면역, Long COVID 후 발생 가능
-* POTS 아형 (임상 특징으로 분류 가능, 중첩 존재):
-  * **신경병성 (neuropathic)** : 하지 sympathetic denervation → venous pooling; 하지 발한 감소
-  * **과아드레날린성 (hyperadrenergic)** : 기립 시 수축기 ≥10 ㎜Hg 상승 + 노르에피네프린 ≥600 pg/㎖; 떨림·불안·고혈압 경향
-  * **저혈량성 (hypovolemic)** : renin-aldosterone 저하; 염분·수분 요법에 반응 양호
+* POTS 아형 (임상 특징으로 분류 가능, 중첩 존재)
+  * 신경병성 (neuropathic) : 하지 sympathetic denervation → venous pooling; 하지 발한 감소
+  * 과아드레날린성 (hyperadrenergic) : 기립 시 수축기 ≥10 ㎜Hg 상승 + 노르에피네프린 ≥600 pg/㎖; 떨림·불안·고혈압 경향
+  * 저혈량성 (hypovolemic) : renin-aldosterone 저하; 염분·수분 요법에 반응 양호
 
 **순수 자율신경 부전증 (Pure Autonomic Failure, PAF)**
 
 * 기립성 저혈압이 주증상; 서서히 진행
-* **상당수에서 파킨슨병·DLB·MSA 등 시누클레인병증(synucleinopathy)으로 이행** — 장기 추적 시 약 1/4에서 운동·인지 증상이 발현하며(Coon 2020), 전향적 연구에서 연간 약 10\~15%의 이행률이 보고됨(Vernetti 2024); 초기에 PAF로 진단되더라도 REM 수면행동장애·후각저하·경미한 운동 징후 유무를 추적 평가해야 함
+* 상당수에서 파킨슨병·DLB·MSA 등 시누클레인병증(synucleinopathy)으로 이행 - 장기 추적 시 약 1/4에서 운동·인지 증상이 발현하며, 전향적 연구에서 연간 약 10\~15%의 이행률이 보고됨; 초기에 PAF로 진단되더라도 REM 수면행동장애·후각저하·경미한 운동 징후 유무를 추적 평가해야 함
 
 **다계통 위축증 (Multiple System Atrophy, MSA)**
 
-* : 자율신경 부전 + 소뇌/파킨슨 증상 동반; 빠른 진행
+* 자율신경 부전 + 소뇌/파킨슨 증상 동반; 빠른 진행
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-#### <mark style="color:$primary;">**신경퇴행성 질환**</mark>
+**신경퇴행성 질환**
 
 * 파킨슨병, 루이소체 치매, 다계통 위축증(MSA)
 
-#### <mark style="color:$primary;">**대사성·전신 질환**</mark>
+**대사성·전신 질환**
 
-* 당뇨병(가장 흔한 이차성 원인), 아밀로이드증, 만성 신부전, 갑상선 기능 이상, **부신 피질 기능 저하증(Addison병)** - 기립성 저혈압과 만성 피로의 주요 감별 진단
+* 당뇨병(가장 흔한 이차성 원인), 아밀로이드증, 만성 신부전, 갑상선 기능 이상, 부신 피질 기능 저하증(Addison병)
 
-#### <mark style="color:$primary;">**자가면역·감염**</mark>
+**자가면역·감염**
 
 * Sjögren 증후군, 자가면역 자율신경절병증, 길랭-바레 증후군
-* 바이러스 감염 후 : Long COVID(COVID-19 감염 후 12주 이상 지속되는 증상) — POTS 유발의 주요 원인으로 부상; 자율신경절 항체, 소섬유신경병증(small fiber neuropathy), 탈조건화(deconditioning), 자율신경 조절 이상 등 **복합 기전이 제시되는 단계이며 단일 기전으로 확정되지 않음**
+* 바이러스 감염 후 : Long COVID(COVID-19 감염 후 12주 이상 지속되는 증상) - POTS 유발의 주요 원인으로 부상; 자율신경절 항체, 소섬유신경병증(small fiber neuropathy), 탈조건화(deconditioning), 자율신경 조절 이상 등 복합 기전이 제시되는 단계이며 단일 기전으로 확정되지 않음
 
-#### <mark style="color:$primary;">**결합조직 질환·비만세포 질환 (특히 POTS 동반)**</mark>
+**결합조직 질환·비만세포 질환 (특히 POTS 동반)**
 
 * Ehlers-Danlos 증후군(과운동형) : POTS와 강한 연관 — 관절 과운동성·피부 탄성 증가 확인
 * 비만세포 활성 증후군(MCAS) : flushing + 빈맥 + POTS 중첩
 
-#### <mark style="color:$primary;">**독성·약물**</mark>
+**독성·약물**
 
 * 알코올 남용(만성), 항암제(예: vinca alkaloids, platinum계), 항콜린제, α/β 차단제
 
-#### <mark style="color:$primary;">**기타**</mark>
+**기타**
 
 * 척수 손상, 부종양 증후군, 특발성
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">- 생명 위협 가능성</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark> <mark style="color:$danger;">- 생명 위협 가능성</mark>
 
 * 기립 시 실신 또는 의식 소실
 * 심한 서맥·빈맥 동반 (심혈관계 자율신경 부전)
@@ -85,45 +85,45 @@
 * 기립성 저혈압이 조절되지 않아 낙상·외상 반복
 * 새로 발생한 자율신경 증상 + 파킨슨 증상 동반 (MSA 감별 필요)
 * POTS 의심 : 기립 시 심계항진·어지럼 + 젊은 여성
-* **자율신경 부전 + 의도하지 않은 체중 감소·야간 발한 등 전신 증상** — 부종양 증후군, 아밀로이드증, 자가면역 자율신경절병증 등의 이차 원인 감별 필요
+* 자율신경 부전 + 의도하지 않은 체중 감소·야간 발한 등 전신 증상 - 부종양 증후군, 아밀로이드증, 자가면역 자율신경절병증 등의 이차 원인 감별 필요
 
 <mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
 * 당뇨병 환자에서 설명되지 않는 저혈압, 소화 장애, 배뇨 장애 - 당뇨병성 자율신경병증 평가
-* PAF 진단 환자 — 시누클레인병증 이행 감시 (운동 징후, 후각, REM 수면행동장애 정기 평가)
+* PAF 진단 환자 - 시누클레인병증 이행 감시 (운동 징후, 후각, REM 수면행동장애 정기 평가)
 * 치료에 반응하지 않는 경우 신경과 의뢰
 
 ## <mark style="color:green;">임상 양상</mark>
 
-#### <mark style="color:$primary;">**심혈관계**</mark>
+**심혈관계**
 
 * 기립성 저혈압 : 가장 흔하고 임상적으로 중요; 어지럼, 실신, 낙상 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
 * 운동 불내성(exercise intolerance) : 운동 시 적절한 심박수 증가 불가
 * 앙와위 고혈압 : 기립성 저혈압과 역설적으로 동반될 수 있음
 
-#### <mark style="color:$primary;">**발한·분비**</mark>
+**발한·분비**
 
 * 발한 장애(과다 또는 저하), 침 분비 감소, 눈물 분비 감소
 
-#### <mark style="color:$primary;">**소화기계**</mark>
+**소화기계**
 
 * 소화 운동 감소, 위마비(gastroparesis), 식욕 부진, 팽만감, 변비, 설사, 삼킴곤란
 
-#### <mark style="color:$primary;">**비뇨기계**</mark>
+**비뇨기계**
 
 * 배뇨 지연, 요실금, 불완전 배뇨, 빈뇨, 야간 배뇨
 
-#### <mark style="color:$primary;">**성기능**</mark>
+**성기능**
 
 * 발기 부전, 사정 장애, 질 건조, 오르가즘 장애
 
-#### <mark style="color:$primary;">**기타**</mark>
+**기타**
 
 * 수면 장애, 시야 흐림·동공 반사 저하, 피로, 인지 저하(POTS에서 두드러짐)
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">증상별 초기 접근</mark>
+#### <mark style="color:$primary;">증상별 초기 접근</mark>
 
 <table><thead><tr><th width="180">주 증상</th><th width="220">최우선 감별</th><th>핵심 진단 단계</th></tr></thead><tbody><tr><td>기립 시 어지럼</td><td>OH vs POTS vs Initial OH</td><td>5분 supine 후 즉시/1/3/(5~10)분 BP·HR 동시 측정</td></tr><tr><td>실신</td><td>혈관미주신경성 실신 vs OH vs 심장성 실신</td><td>OH 프로토콜 + 심전도; 재발성이면 tilt test 의뢰</td></tr><tr><td>두근거림</td><td>POTS vs 불안장애·공황장애 vs 부정맥</td><td>기립 10분 HR 변화 + Holter/심전도 + 심리 평가</td></tr><tr><td>광범위 자율신경 증상</td><td>당뇨병성 자율신경병증 vs PAF·MSA</td><td>기저 질환 평가 + 신경과 의뢰</td></tr></tbody></table>
 
@@ -131,56 +131,48 @@
 
 #### <mark style="color:$primary;">기립 혈압·맥박 측정 프로토콜 (표준화)</mark>
 
-{% hint style="info" %}
 **Orthostatic Vital Signs Protocol**
 
-1. **Supine rest 최소 5분** (흡연·식사 직후 피할 것)
+1. Supine rest 최소 5분 (흡연·식사 직후 피할 것)
 2. 누운 자세에서 BP·HR 측정 (baseline)
-3. **천천히가 아니라 바로 기립**(active stand)
-4. 기립 **즉시(0분, 가능하면 15초 이내)**, **1분, 3분** 시점에 BP·HR 측정
-5. 증상 지속·지연성 OH 의심 시 **5분, 10분**까지 연장 측정
-6. BP·HR을 **같은 시점에 동시에** 기록(해석에 필수)
-
-— 실제로 가장 흔히 잘못 측정되는 영역이므로 **누워서 바로 측정 없이 기립 후에만 측정하는 관행 지양**
-{% endhint %}
+3. 바로 기립(active stand; "천천히" 아님)
+4. 기립 즉시(0분, 가능하면 15초 이내), 1분, 3분 시점에 BP·HR 측정
+5. 증상 지속·지연성 OH 의심 시 5분, 10분까지 연장 측정
+6. BP·HR을 같은 시점에 동시에 기록(해석에 필수)
 
 **해석 기준**
 
-* **기립성 저혈압(OH)** : 수축기 ≥20 ㎜Hg 또는 이완기 ≥10 ㎜Hg 감소 (고혈압 환자는 수축기 ≥30 ㎜Hg)
-  * **초기 OH(Initial OH)** : 기립 15초 이내 수축기 ≥40 또는 이완기 ≥20 ㎜Hg 일과성 하강 후 회복 — 표준 혈압계로 포착 어려움; 확진은 연속 혈압 모니터링(Finometer 등) 필요
-  * **지연성 OH(Delayed OH)** : 기립 후 3\~30분에 기준 이상 감소 — PAF·파킨슨병 전구 신호 가능성 평가
-* **POTS** : 기립 후 10분 이내 HR ≥30 bpm 증가 + OH 기준 미충족
-  * 12\~19세 청소년 : ≥40 bpm을 기준으로 적용 (2015 Heart Rhythm Society)
+* 기립성 저혈압(OH) : 수축기 ≥20 ㎜Hg 또는 이완기 ≥10 ㎜Hg 감소 (고혈압 환자는 수축기 ≥30 ㎜Hg)
+  * 초기 OH(Initial OH) : 기립 15초 이내 수축기 ≥40 또는 이완기 ≥20 ㎜Hg 일과성 하강 후 회복 - 표준 혈압계로 포착 어려움; 확진은 연속 혈압 모니터링(Finometer 등) 필요
+  * 지연성 OH(Delayed OH) : 기립 후 3\~30분에 기준 이상 감소 - PAF·파킨슨병 전구 신호 가능성 평가
+* POTS : 기립 후 10분 이내 HR ≥30 bpm 증가 + OH 기준 미충족
+  * 12\~19세 청소년 : ≥40 bpm을 기준으로 적용
 
 **HR 반응으로 원인 감별** (OH에서 가장 유용)
 
-<table><thead><tr><th width="220">상황</th><th width="200">HR 반응</th><th>해석</th></tr></thead><tbody><tr><td>신경인성 OH (PAF, 파킨슨병, MSA, 당뇨병성 자율신경병증)</td><td>HR 증가 &lt;15 bpm (blunted)</td><td>압력수용체 반사궁의 교감 출력 저하</td></tr><tr><td>탈수·저혈량·약물성 OH</td><td>HR 증가 ≥15~20 bpm</td><td>정상 보상성 빈맥 — 체액 교정·약제 조정 반응 양호</td></tr></tbody></table>
+<table><thead><tr><th width="267">상황</th><th width="200">HR 반응</th><th>해석</th></tr></thead><tbody><tr><td>신경인성 OH (PAF, 파킨슨병, MSA, 당뇨병성 자율신경병증)</td><td>HR 증가 &#x3C;15 bpm (blunted)</td><td>압력수용체 반사궁의 교감 출력 저하</td></tr><tr><td>탈수·저혈량·약물성 OH</td><td>HR 증가 ≥15~20 bpm</td><td>정상 보상성 빈맥 - 체액 교정·약제 조정 반응 양호</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">전문 검사 (의뢰)</mark>
 
-* **Tilt table test** : 적응증을 명확히 — ① 기립 혈압 측정만으로 진단이 불분명, ② 재발성 실신, ③ POTS와 불안장애 구분이 어려운 경우
+* Tilt table test : 적응증 - ⓵ 기립 혈압 측정만으로 진단이 불분명, ⓶ 재발성 실신, ⓷ POTS와 불안장애 구분이 어려운 경우
 * Heart rate variability (HRV) test : 심호흡 시 심박수 변동 평가
 * Valsalva response test : 자율신경 반사 평가
-* Sudomotor function test (QSART) : 발한 기능 평가 — POTS·SFN 평가에 유용
-* **피부 생검 (intraepidermal nerve fiber density, IENFD)** : 소섬유신경병증 확진 — 일부 POTS(특히 neuropathic type)·Long COVID 관련 자율신경 증상에서 양성률 상승
+* Sudomotor function test (QSART) : 발한 기능 평가 - POTS·SFN 평가에 유용
+* 피부 생검 (intraepidermal nerve fiber density, IENFD) : 소섬유신경병증 확진 - 일부 POTS(특히 neuropathic type)·Long COVID 관련 자율신경 증상에서 양성률 상승
 
 #### <mark style="color:$primary;">기저 질환 감별 검사</mark>
 
 * 혈당/HbA1c, TSH, 전해질, CBC, B12
-* **아침 cortisol(또는 ACTH 자극 검사)** : 부신 피질 기능 저하 배제 — OH + 피로 + 체중 감소 패턴에서 필수
+* 아침 cortisol(또는 ACTH 자극 검사) : 부신 피질 기능 저하 배제 - OH + 피로 + 체중 감소 패턴에서 필수
 * 필요 시 : 항ganglionic AChR 항체(자가면역 자율신경절병증), 부종양 항체
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-{% hint style="info" %}
-**원인 질환별 주요 자율신경 증상 매트릭스**
-{% endhint %}
+<table><thead><tr><th width="134">원인</th><th width="132">심혈관</th><th width="110">소화기</th><th width="100">비뇨기</th><th width="90">발한</th><th>특징적 단서</th></tr></thead><tbody><tr><td>당뇨병성</td><td>기립성 저혈압, 운동 불내성</td><td>위마비, 변비, 설사</td><td>배뇨 지연, 요실금</td><td>발한 감소(하지)</td><td>장기 당뇨 병력, HbA1c ↑</td></tr><tr><td>POTS</td><td>기립 시 빈맥(≥30 bpm), 혈압 유지</td><td>경도 복통, 팽만감</td><td>—</td><td>과발한 가능</td><td>젊은 여성, Long COVID 후</td></tr><tr><td>파킨슨병/MSA</td><td>기립성 저혈압(특히 MSA)</td><td>변비, 삼킴곤란</td><td>배뇨 장애</td><td>과발한</td><td>운동 증상 동반; MSA는 stridor</td></tr><tr><td>순수 자율신경 부전(PAF)</td><td>기립성 저혈압(심함)</td><td>변비</td><td>배뇨 장애</td><td>발한 감소</td><td>서서히 진행; 시누클레인병증 이행 감시</td></tr><tr><td>알코올성</td><td>기립성 저혈압</td><td>소화 장애, 설사</td><td>—</td><td>발한 이상</td><td>음주 병력, 말초신경병증 동반</td></tr></tbody></table>
 
-<table><thead><tr><th width="140">원인</th><th width="160">심혈관</th><th width="110">소화기</th><th width="100">비뇨기</th><th width="90">발한</th><th>특징적 단서</th></tr></thead><tbody><tr><td>당뇨병성</td><td>기립성 저혈압, 운동 불내성</td><td>위마비, 변비, 설사</td><td>배뇨 지연, 요실금</td><td>발한 감소(하지)</td><td>장기 당뇨 병력, HbA1c ↑</td></tr><tr><td>POTS</td><td>기립 시 빈맥(≥30 bpm), 혈압 유지</td><td>경도 복통, 팽만감</td><td>—</td><td>과발한 가능</td><td>젊은 여성, Long COVID 후</td></tr><tr><td>파킨슨병/MSA</td><td>기립성 저혈압(특히 MSA)</td><td>변비, 삼킴곤란</td><td>배뇨 장애</td><td>과발한</td><td>운동 증상 동반; MSA는 stridor</td></tr><tr><td>순수 자율신경 부전(PAF)</td><td>기립성 저혈압(심함)</td><td>변비</td><td>배뇨 장애</td><td>발한 감소</td><td>서서히 진행; 시누클레인병증 이행 감시</td></tr><tr><td>알코올성</td><td>기립성 저혈압</td><td>소화 장애, 설사</td><td>—</td><td>발한 이상</td><td>음주 병력, 말초신경병증 동반</td></tr></tbody></table>
+**POTS vs 불안·공황장애 감별**&#x20;
 
-**POTS vs 불안·공황장애 감별** (실제 오진이 매우 흔함)
-
-<table><thead><tr><th width="220">특징</th><th width="140">POTS</th><th>불안/공황장애</th></tr></thead><tbody><tr><td>체위 의존성</td><td>O — 기립 시 악화, 누우면 호전</td><td>X — 자세와 무관</td></tr><tr><td>HR 증가 패턴</td><td>기립 시 지속적 ≥30 bpm 증가</td><td>발작적(episodic), 공황 삽화 중</td></tr><tr><td>누우면 호전</td><td>O — 수 분 이내 소실</td><td>X — 자세 변화 무관</td></tr><tr><td>과호흡·공포감</td><td>일반적으로 없음</td><td>두드러짐</td></tr><tr><td>심호흡·이완으로 호전</td><td>제한적</td><td>뚜렷함</td></tr></tbody></table>
+<table><thead><tr><th width="173">특징</th><th width="241">POTS</th><th>불안/공황장애</th></tr></thead><tbody><tr><td>체위 의존성</td><td>O - 기립 시 악화, 누우면 호전</td><td>X - 자세와 무관</td></tr><tr><td>HR 증가 패턴</td><td>기립 시 지속적 ≥30 bpm 증가</td><td>발작적(episodic), 공황 삽화 중</td></tr><tr><td>누우면 호전</td><td>O - 수 분 이내 소실</td><td>X - 자세 변화 무관</td></tr><tr><td>과호흡·공포감</td><td>일반적으로 없음</td><td>두드러짐</td></tr><tr><td>심호흡·이완으로 호전</td><td>제한적</td><td>뚜렷함</td></tr></tbody></table>
 
 * 신체증상장애 : 객관적 자율신경 검사 정상; 증상에 대한 과도한 집착; 심리적 요인 — 증상이 설명되지 않을 때 자율신경 기능 장애와 감별 필요 (☞ [신체증상장애](031_-somatic-symptom-disorder.md))
 * 빈혈·탈수 : 기립성 저혈압 유발; 혈액 검사로 확인
@@ -190,7 +182,7 @@
 
 ```mermaid
 graph TD
-    Start([어지럼 / 실신 / 두근거림 / 피로]) --> Step1[기립 혈압·맥박 측정<br/>5분 supine → 0/1/3/5~10분]
+    Start([어지럼 / 실신 /<br/> 두근거림 / 피로]) --> Step1[기립 혈압·맥박 측정<br/>5분 supine → 0/1/3/5~10분]
     Step1 --> Q1{BP 감소 ≥20/10 ㎜Hg?}
     Q1 -->|Yes: 0~3분| OH[기립성 저혈압<br/>OH]
     Q1 -->|Yes: 15초 내 일과성| IOH[초기 OH<br/>Initial OH]
@@ -230,57 +222,59 @@ graph TD
 * 증상별 대증 치료 병행
 * 비약물 치료를 기본으로 하고 필요 시 약물 추가
 
-### <mark style="color:orange;">비약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
-**기립성 저혈압 / POTS**
+#### <mark style="color:$primary;">기립성 저혈압 / POTS</mark>
 
 * 수분 섭취 증가 (2\~3 L/일), 염분 섭취 증가 (6\~10 g/일)
 * 압박 스타킹 착용 (하지 정맥 귀환량 증가)
 * 기상 시 천천히 일어나기; 오랜 기립 피하기
 * 소량 자주 식사 (식후 저혈압 예방)
-* **단계적 운동 (Levine/Dallas Protocol)** : POTS 병태생리의 핵심 중 하나가 **탈조건화(deconditioning)**이므로 운동 재활은 약물과 동등한 치료 축; 초기부터 직립 운동 시 증상 악화·치료 포기 위험 높음
-  * 1단계 (4\~6주) : 수평 운동 — 수영, 로잉 머신, 누워서 하는 저항 운동 (심장이 머리와 같은 높이)
-  * 2단계 (4\~6주) : 경사도 운동 — 사이클, 경사 트레드밀
-  * 3단계 : 직립 운동 — 걷기, 달리기로 이행
-* **앙와위 고혈압 관리** (기립성 저혈압과 역설적 동반)
-  * 침대 머리 높이기 (Head-up tilt sleeping) — 10\~20도(약 15\~25 cm)
+* 단계적 운동 (Levine/Dallas Protocol) : POTS 병태생리의 핵심 중 하나가 탈조건화(deconditioning)이므로 운동 재활은 약물과 동등한 치료 축; 초기부터 직립 운동 시 증상 악화·치료 포기 위험 높음
+  * 1단계 (4\~6주) : 수평 운동 - 수영, 로잉 머신, 누워서 하는 저항 운동 (심장이 머리와 같은 높이)
+  * 2단계 (4\~6주) : 경사도 운동 - 사이클, 경사 트레드밀
+  * 3단계 : 직립 운동 - 걷기, 달리기로 이행
+* 앙와위 고혈압 관리 (기립성 저혈압과 역설적 동반)
+  * 침대 머리 높이기 (Head-up tilt sleeping) - 10\~20도(약 15\~25 ㎝)
   * 저녁 염분 섭취 제한
   * 취침 전 탄수화물 간식(식후 저혈압 효과 이용)
-  * 심한 경우에만 단시간 작용 항고혈압제(예: 단기 losartan) 고려 — 신경과 협진
+  * 심한 경우에만 단시간 작용 항고혈압제(예: 단기 losartan) 고려 - 신경과 협진
 * 고온 환경·알코올 회피
 
-**소화기 증상**
+#### <mark style="color:$primary;">소화기 증상</mark>
 
 * 소량 자주 식사, 저지방·저섬유 식이(위마비 시)
 * 취침 시 상체 거상
 
-**비뇨기 증상**
+#### <mark style="color:$primary;">비뇨기 증상</mark>
 
 * 정해진 시간 배뇨 훈련, 이중 배뇨법(배뇨 후 잠시 후 재시도)
 
-### <mark style="color:orange;">약물 치료</mark>
+## <mark style="color:green;">약물 치료</mark>
 
-**기립성 저혈압**
+#### <mark style="color:$primary;">기립성 저혈압</mark>
 
-* fludrocortisone : 혈장량 증가; 0.05\~0.2 ㎎/d; \[부작용] 앙와위 고혈압, 저칼륨혈증, 부종
-* midodrine : α1 작용제; 2.5\~10 ㎎ tid (취침 전 복용 금지); \[부작용] 입모근 반응, 앙와위 고혈압
+* fludrocortisone : 혈장량 증가; 0.05\~0.2 ㎎/d; \[부작용] 앙와위 고혈압, 저칼륨혈증, 부종 <mark style="color:blue;">\[플로리네프]</mark>
+* midodrine : α1 작용제; 2.5\~10 ㎎ tid (취침 전 복용 금지); \[부작용] 입모근 반응, 앙와위 고혈압 <mark style="color:blue;">\[미드론]</mark>
 * droxidopa : 노르에피네프린 전구체; 신경인성 기립성 저혈압(파킨슨병·MSA·PAF)에서 midodrine과 함께 고려; 100\~600 ㎎ tid; \[부작용] 앙와위 고혈압, 두통, 어지럼
-  * ⚠️ **국내 접근성 제한적**, 급여기준 미확인 — 파킨슨병·MSA 동반 신경인성 기립성 저혈압에는 신경과 의뢰 후 처방 권고; 당뇨병성 자율신경병증이나 일시적 약물 부작용에 의한 기립성 저혈압에는 비급여로 처방
-* pyridostigmine : 콜린에스터라제 억제; 30\~60 ㎎ bid\~tid; 특히 POTS에서 고려
+  * 국내 접근성 제한적, 급여기준 미확인 - 파킨슨병·MSA 동반 신경인성 기립성 저혈압에는 신경과 의뢰 후 처방 권고; 당뇨병성 자율신경병증이나 일시적 약물 부작용에 의한 기립성 저혈압에는 비급여로 처방
+* pyridostigmine : 콜린에스터라제 억제; 30\~60 ㎎ bid\~tid; 특히 POTS에서 고려 <mark style="color:blue;">\[메스티논]</mark>
 
-**POTS** — 단일 약제로 모두 커버되지 않으므로 **아형·주증상에 따라 선택**
+#### <mark style="color:$primary;">POTS</mark>
 
-* β차단제(저용량) : propranolol 10\~20 ㎎; 심박수 조절 — 과아드레날린성 POTS 우선 고려
-* ivabradine : If 채널 차단; 심박수 감소; β차단제 불내성 시 대안
-* **midodrine** : 3\~10 ㎎ tid — 신경병성(neuropathic) POTS의 venous pooling에 유용
-* **fludrocortisone** : 0.05\~0.2 ㎎/d — 저혈량성(hypovolemic) POTS에서 우선 선택
-* pyridostigmine : 30\~60 ㎎ bid\~tid — 심박수 완화 + 위장관 증상 개선 효과
+ ※ 단일 약제로 모두 커버되지 않으므로 아형 또는주증상에 따라 선택
 
-**소화기 증상**
+* β차단제(저용량) : 심박수 조절 - 과아드레날린성 POTS 우선 고려; propranolol 10\~20 ㎎ <mark style="color:blue;">\[인데놀]</mark>&#x20;
+* ivabradine : If 채널 차단; 심박수 감소; β차단제 불내성 시 대안 <mark style="color:blue;">\[프로코라란]</mark>
+* midodrine : 3\~10 ㎎ tid - 신경병성(neuropathic) POTS의 venous pooling에 유용
+* fludrocortisone : 0.05\~0.2 ㎎/d - 저혈량성(hypovolemic) POTS에서 우선 선택
+* pyridostigmine : 30\~60 ㎎ bid\~tid - 심박수 완화 + 위장관 증상 개선 효과
 
-* metoclopramide, domperidone : 위장관 운동 촉진 (단기)
+#### <mark style="color:$primary;">소화기 증상</mark>
 
-**기저 질환 치료**
+* metoclopramide, domperidone : 위장관 운동 촉진 (단기) (☞ [소화기계약제](../224_/073_.md#gi-prokinetic-agent))
+
+#### <mark style="color:$primary;">기저 질환 치료</mark>
 
 * 당뇨병성 자율신경병증 : 혈당 조절 최적화 (☞ [당뇨병](../226_/100_-diabetes-mellitus.md))
 * 알코올 남용 : 금주 (☞ [알코올 사용 장애](../230_/189_-alcohol-use-disorder-aud.md))
@@ -310,7 +304,7 @@ F45.3 신체형자율신경기능장애
 > **처방례 2.** POTS — β차단제 불내성 시
 >
 > ```
-> 이바브라딘 5 ㎎/T  1T  bid  식사 중
+> 프로코라란 5 ㎎/T  1T  bid  식사 중
 > ※ If 채널 차단으로 심박수 감소; 혈압 강하 효과 없음
 > ※ 필요 시 7.5 ㎎ bid로 증량
 > ```
