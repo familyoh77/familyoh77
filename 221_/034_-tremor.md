@@ -50,20 +50,16 @@
 * 보행 장애 → 파킨슨병, cerebellar tremor
 * 불규칙, 경련성 떨림 → dystonic tremor
 * 두부 떨림, 두부 위치 이상(head tilting or turning) → dystonic tremor
-* 기립 시에만 다리가 후들거리며 '불안정감', '넘어질 것 같음'으로 호소 → **기립 떨림 (orthostatic tremor)** 고려
+* 기립 시에만 다리가 후들거리며 '불안정감', '넘어질 것 같음'으로 호소 → 기립 떨림 (orthostatic tremor) 고려
   * 고주파수 떨림 (13\~18 Hz); 앉거나 걸으면 호전
   * 청진 시 허벅지·종아리 근육에서 "헬리콥터(helicopter sign)" 소리 (진단적 단서)
-* 갑작스럽거나 빠른 시작 → **functional (psychogenic) tremor**, toxic tremor
-  * **Distractibility** : 다른 활동 수행 시 떨림 감소/소실
-  * **Entrainment** : 반대 손으로 다른 리듬의 tapping 시 tremor frequency가 따라옴
-  * **변동성** : 진찰 때마다 부위·양상·빈도가 다름; 갑작스러운 발생·완전 소실 병력
+* 갑작스럽거나 빠른 시작 → functional (psychogenic) tremor, toxic tremor
 * 최근 약물 치료 후 떨림 시작 또는 악화 → drug-induced, toxic tremor
 
-<table><thead><tr><th width="131.15789794921875">분류</th><th width="257.52630615234375">임상 특징</th><th width="134.84210205078125">진단적 검사</th><th>치료</th></tr></thead><tbody><tr><td>Physiologic</td><td>Postural T; 저진폭, 10~12Hz; 불안, 스트레스, 약물/카페인/니코틴, 갑상선항진증, 근육 피로, 음주 금단, 발열</td><td>의심되는 원인 감별</td><td>안심시킴, 원인 치료</td></tr><tr><td>Psychogenic¹⁾</td><td>갑작스런 발생, 회복, 변환; 다른 활동으로 호전; 주의 분산 시 감소</td><td>병력</td><td>상담, 정신건강의학과 의뢰</td></tr><tr><td>Essential</td><td>Postural T(flexion-extension); 4~12Hz; 대칭성, 손/하지/머리/음성, 가족력; 음주로 호전, 스트레스/피로/카페인으로 악화</td><td>특이 검사 없음; CBC, TSH, BUN, Cr, LFT, 전해질</td><td>propranolol, primidone</td></tr><tr><td>Parkinsonism (☞ <a href="035_-parkinsons-disease.md">파킨슨병</a>)</td><td>Rest T(supination-pronation); 4~6Hz; 비대칭성, 사지 원위부/턱/혀, 수의 운동 시 감소; 작은 글씨증, 운동 완만, 자세 불안, 경직</td><td>특이 검사 없음; PET, SPECT</td><td>dopamine 작용제, 항콜린제</td></tr><tr><td>약물 유발²⁾</td><td>갑자기 발생, 시작 시기에 약물 복용력</td><td>발생 시기에 투여한 약물 의심</td><td>의심 약물 중단</td></tr><tr><td>대사 이상³⁾</td><td>다양한 양상</td><td>혈당, TSH, LFT, 전해질</td><td>원인 치료</td></tr><tr><td>Cerebellar</td><td>Intention/Postural T; 3~4Hz; 편측, finger-to-nose test 이상, imbalance, heel-to-shin test 이상, 근 긴장 저하</td><td>CT, MRI</td><td>원인 치료, deep brain stimulation</td></tr></tbody></table>
+<table><thead><tr><th width="131.15789794921875">분류</th><th width="257.52630615234375">임상 특징</th><th width="134.84210205078125">진단적 검사</th><th>치료</th></tr></thead><tbody><tr><td>Physiologic</td><td>Postural T; 저진폭, 10~12Hz; 불안, 스트레스, 약물/카페인/니코틴, 갑상선항진증, 근육 피로, 음주 금단, 발열</td><td>의심되는 원인 감별</td><td>안심시킴, 원인 치료</td></tr><tr><td>Functional</td><td>갑작스런 발생, 회복, 변환; 다른 활동으로 호전; 주의 분산 시 감소</td><td>병력</td><td>상담, 정신건강의학과 의뢰</td></tr><tr><td>Essential</td><td>Postural T(flexion-extension); 4~12Hz; 대칭성, 손/하지/머리/음성, 가족력; 음주로 호전, 스트레스/피로/카페인으로 악화</td><td>특이 검사 없음; CBC, TSH, BUN, Cr, LFT, 전해질</td><td>propranolol, primidone</td></tr><tr><td>Parkinsonism (☞ <a href="035_-parkinsons-disease.md">파킨슨병</a>)</td><td>Rest T(supination-pronation); 4~6Hz; 비대칭성, 사지 원위부/턱/혀, 수의 운동 시 감소; 작은 글씨증, 운동 완만, 자세 불안, 경직</td><td>특이 검사 없음; PET, SPECT</td><td>dopamine 작용제, 항콜린제</td></tr><tr><td>약물 유발¹⁾</td><td>갑자기 발생, 시작 시기에 약물 복용력</td><td>발생 시기에 투여한 약물 의심</td><td>의심 약물 중단</td></tr><tr><td>대사 이상²⁾</td><td>다양한 양상</td><td>혈당, TSH, LFT, 전해질</td><td>원인 치료</td></tr><tr><td>Cerebellar</td><td>Intention/Postural T; 3~4Hz; 편측, finger-to-nose test 이상, imbalance, heel-to-shin test 이상, 근 긴장 저하</td><td>CT, MRI</td><td>원인 치료, deep brain stimulation</td></tr></tbody></table>
 
-_<mark style="color:$info;">1) = Functional tremor</mark>_\
-&#xNAN;_<mark style="color:$info;">2) 떨림 유발 약물 : amphetamines, 카페인, carbamazepine, haloperidol, lithium, methylphenidate, valproic acid, fluoxetine, TCA, amiodarone, verapamil, cyclosporine, epinephrine, atorvastatin, steroid, 당뇨약제, 갑상선 호르몬, metoclopramide, pseudoephedrine, 베타작용제(albuterol), terbutaline, theophylline</mark>_\
-&#xNAN;_<mark style="color:$info;">3) 간경화증, 저칼슘혈증, 저혈당, 저나트륨혈증, 저마그네슘혈증, 갑상선항진증, 부갑상선항진증, Vit B12 결핍</mark>_
+_<mark style="color:$info;">1) 떨림 유발 약물 : amphetamines, 카페인, carbamazepine, haloperidol, lithium, methylphenidate, valproic acid, fluoxetine, TCA, amiodarone, verapamil, cyclosporine, epinephrine, atorvastatin, steroid, 당뇨약제, 갑상선 호르몬, metoclopramide, pseudoephedrine, 베타작용제(albuterol), terbutaline, theophylline</mark>_\
+&#x32;_<mark style="color:$info;">) 간경화증, 저칼슘혈증, 저혈당, 저나트륨혈증, 저마그네슘혈증, 갑상선항진증, 부갑상선항진증, Vit B12 결핍</mark>_
 
 ### <mark style="color:orange;">본태떨림 (Essential tremor)</mark>
 
@@ -106,22 +102,32 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 * Wilson병 감별 : 50세 이전 발생 시 (일부 가이드라인은 55세 기준) Wilson병 배제를 위한 혈청 ceruloplasmin, 24시간 소변 구리 검사 고려; 특히 가족력 없는 갑작스러운 떨림 또는 성격 변화 등 정신과적 증상 동반 시 연령과 무관하게 Wilson병 검사 시행
   * 추가 단서: Kayser-Fleischer ring (세극등 검사), AST/ALT 이상 (간 침범 시)
 
-### <mark style="color:orange;">생리적 떨림 (Physiologic tremor) 및 강화 생리적 떨림 (Enhanced physiologic tremor)</mark>
+### <mark style="color:orange;">생리적 떨림 (Physiologic  tremor)</mark>
 
-* 정상 생리적 떨림 : postural 또는 kinetic tremor; 손, 손가락(보통 양측); 스트레스, 불안, 격렬한 육체 활동, 카페인 섭취 등으로 유발; 저진폭, 고주파수(10\~12 Hz); 기능 장애 없음
-* 강화 생리적 떨림 (Enhanced physiologic tremor, EPT) : 정상 생리적 떨림이 뚜렷하게 심해진 상태로, 외래에서 가장 흔하게 만나는 떨림
+* postural/kinetic, 10\~12 Hz, 저진폭
+* 스트레스·카페인 등으로 유발
+* 기능 장애 없음, 안심 + 원인 제거
 
-#### <mark style="color:$primary;">EPT 주요 원인</mark>
+### <mark style="color:orange;">강화 생리적 떨림 (Enhanced physiologic tremor)</mark>
 
-* **내분비** : 갑상선기능항진증 (TSH 확인 필수)
-* **심리** : 불안 장애
-* **금단** : 알코올 금단, 진정제 금단
-* **약물** : β-작용제, SSRI, 리튬, 발프로산 등 (약물 유발 떨림과 일부 중복)
-* **기타** : 저혈당, 발열, 피로
+* 정상 생리적 떨림이 뚜렷하게 심해진 상태로, 외래에서 가장 흔하게 만나는 떨림
+* 원인
+  * 내분비 : 갑상선기능항진증 (TSH 확인 필수)
+    * 심리 : 불안 장애
+  * 금단 : 알코올 금단, 진정제 금단
+  * 약물 : β-작용제, SSRI, 리튬, 발프로산 등 (약물 유발 떨림과 일부 중복)
+  * 기타 : 저혈당, 발열, 피로
+* 원인을 교정하면 완전히 회복 가능하므로, 새로 발생한 떨림에서 TSH·혈당·약물력을 반드시 확인한다.
 
-{% hint style="info" %}
-EPT는 원인을 교정하면 완전히 회복 가능하므로, 새로 발생한 떨림에서 TSH·혈당·약물력을 반드시 확인한다.
-{% endhint %}
+### <mark style="color:orange;">기능성 떨림 (Functional  tremor)</mark>
+
+* 기능성 신경학적 장애(Functional Neurological Disorder) 의 한 표현형으로, DSM-5에서는 전환장애로 분류됨
+* 특징 : 갑작스러운 발생·완전 소실, distractibility 양성, entrainment 양성, 큰 변동성
+* 원인 : 단일하지 않으며 다음의 3중 구조로 이해
+  * 소인 (predisposing): 불안·우울 등 기저 정신과적 취약성, 과거 신체적·심리적 외상, 기존 신경과적 질환
+  * 촉발 (precipitating): 신체 손상, 급성 심리적 스트레스, 수술, 내과적 질환의 발생
+  * 지속 (perpetuating): 이차 이득, 의인성 강화, 지속적 스트레스
+* 정신건강의학과 협진
 
 ### <mark style="color:orange;">말초신경병증</mark>
 
@@ -202,7 +208,7 @@ flowchart TD
 **상황별 특수 전략**
 
 * 낙상 고위험 : primidone 매우 주의, gabapentin 저용량 선호
-* 인지저하 (MCI/치매) : topiramate 또는 benzodiazepine **피함,** propranolol 또는 gabapentin 우선
+* 인지저하 (MCI/치매) : topiramate 또는 benzodiazepine 피&#xD568;**,** propranolol 또는 gabapentin 우선
 * COPD / 천식 : β-blocker 피함 → primidone 또는 gabapentin
 * 저체중 / frailty : topiramate 피함 (체중 감소), ultra-low dose 전략
 
