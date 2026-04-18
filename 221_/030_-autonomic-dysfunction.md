@@ -146,6 +146,7 @@
   * 초기 OH(Initial OH) : 기립 15초 이내 수축기 ≥40 또는 이완기 ≥20 ㎜Hg 일과성 하강 후 회복 - 표준 혈압계로 포착 어려움; 확진은 연속 혈압 모니터링(Finometer 등) 필요
   * 지연성 OH(Delayed OH) : 기립 후 3\~30분에 기준 이상 감소 - PAF·파킨슨병 전구 신호 가능성 평가
 * POTS : 기립 후 10분 이내 HR ≥30 bpm 증가 + OH 기준 미충족
+  * 참고치 : 기립 시 절대 심박수 ≥120 bpm 병용 기준으로 활용 가능 (증가분과 절대치를 함께 고려)
   * 12\~19세 청소년 : ≥40 bpm을 기준으로 적용
 
 **HR 반응으로 원인 감별** (OH에서 가장 유용)
@@ -165,6 +166,7 @@
 * 혈당/HbA1c, TSH, 전해질, CBC, B12
 * 아침 cortisol(또는 ACTH 자극 검사) : 부신 피질 기능 저하 배제 - OH + 피로 + 체중 감소 패턴에서 필수
 * 필요 시 : 항ganglionic AChR 항체(자가면역 자율신경절병증), 부종양 항체
+* 면역학적 요인 고려 : Long COVID·난치성 POTS에서 GPCR(G-단백질 결합 수용체) 자가항체 — β2-adrenergic, muscarinic M2, α1-adrenergic, AT1 등 — 가 일부 환자에서 확인됨; 국내 진단 검사 접근성 제한적이며 연구 단계로 **신경과·면역내과 의뢰 영역**
 
 ### <mark style="color:orange;">감별 진단</mark>
 
@@ -193,10 +195,14 @@ graph TD
     OH --> QHR{HR 반응}
     QHR -->|<15 bpm| Neuro[신경인성 OH<br/>PAF·파킨슨·MSA·당뇨]
     QHR -->|≥15~20 bpm| Volume[탈수·저혈량·약물성]
+    Neuro --> SupHTN{앙와위 고혈압<br/>동반?}
+    SupHTN -->|Yes| SupYes[수면 자세 교정<br/>상체 30° 거상<br/>저녁 염분 제한<br/>저녁 midodrine 금기]
+    SupHTN -->|No| SupNo[표준 승압 치료<br/>midodrine/fludrocortisone]
     POTS --> Anx{불안장애<br/>구분?}
     Anx -->|체위 의존+지속 HR↑| POTSconf[POTS 확진 접근]
     Anx -->|발작적·자세 무관| Anxiety[불안/공황 의심]
-    Neuro --> Ref[신경과 의뢰·tilt test]
+    SupYes --> Ref[신경과 의뢰·tilt test]
+    SupNo --> Ref
     Volume --> Tx1[체액 교정·약물 재검토]
     POTSconf --> Tx2[비약물 + 약물 단계 치료]
     
@@ -206,6 +212,7 @@ graph TD
     style IOH fill:#f3e5f5,stroke:#6a1b9a,stroke-width:1px
     style DOH fill:#f3e5f5,stroke:#6a1b9a,stroke-width:1px
     style Neuro fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
+    style SupYes fill:#fff9c4,stroke:#f9a825,stroke-width:2px
 ```
 
 <p align="center"><strong>자율신경 기능 장애 1차 진료 접근 알고리듬</strong></p>
@@ -234,8 +241,8 @@ graph TD
   * 1단계 (4\~6주) : 수평 운동 - 수영, 로잉 머신, 누워서 하는 저항 운동 (심장이 머리와 같은 높이)
   * 2단계 (4\~6주) : 경사도 운동 - 사이클, 경사 트레드밀
   * 3단계 : 직립 운동 - 걷기, 달리기로 이행
-* 앙와위 고혈압 관리 (기립성 저혈압과 역설적 동반)
-  * 침대 머리 높이기 (Head-up tilt sleeping) - 10\~20도(약 15\~25 ㎝)
+* 앙와위 고혈압 관리 (기립성 저혈압 환자의 약 50%에서 동반)
+  * 침대 머리 쪽 거상 (Head-up tilt sleeping) - 베개로 머리만 높이는 것이 아니라 **침대 프레임 상부를 올려 허리 위쪽 상체 전체가 10\~20도(약 15\~25 ㎝) 기울어지도록** 함; 야간 신장 압력 수용체 자극으로 야뇨 감소 + 아침 기립 시 혈압 강하 완화
   * 저녁 염분 섭취 제한
   * 취침 전 탄수화물 간식(식후 저혈압 효과 이용)
   * 심한 경우에만 단시간 작용 항고혈압제(예: 단기 losartan) 고려 - 신경과 협진
@@ -252,23 +259,38 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
+{% hint style="danger" %}
+**증상을 악화시킬 수 있는 동반 약물 점검 (처방 전 필수 확인)**
+
+기립성 저혈압·POTS 환자는 다음 약물이 증상을 유발·악화시킬 수 있으므로 약력 재검토·용량 조정 또는 대체를 우선 고려.
+
+* **α-차단제** : 전립선비대증에 흔히 처방되는 tamsulosin <mark style="color:blue;">\[하루날]</mark>, alfuzosin <mark style="color:blue;">\[자트랄]</mark>, doxazosin <mark style="color:blue;">\[카두라]</mark> - 기립성 저혈압 주요 유발 약물
+* **삼환계 항우울제(TCA)** : amitriptyline <mark style="color:blue;">\[에트라빌]</mark>, nortriptyline - 항콜린·α차단 효과로 OH 악화
+* **이뇨제** : furosemide <mark style="color:blue;">\[라식스]</mark>, HCTZ - 혈장량 감소
+* **PDE5 억제제** : sildenafil <mark style="color:blue;">\[비아그라]</mark>, tadalafil <mark style="color:blue;">\[시알리스]</mark> - 혈관 확장; 특히 α-차단제 병용 시 위험
+* **기타 중추작용 항고혈압제** : clonidine, methyldopa
+* **항정신병제** : chlorpromazine, olanzapine - α차단 효과
+
+→ **중단·감량이 어려우면 복용 시간 조정** (예: α-차단제를 취침 전으로 옮기기, 아침 기립 부담이 큰 경우 미도드린 병용) 등으로 개별 조치
+{% endhint %}
+
 #### <mark style="color:$primary;">기립성 저혈압</mark>
 
 * fludrocortisone : 혈장량 증가; 0.05\~0.2 ㎎/d; \[부작용] 앙와위 고혈압, 저칼륨혈증, 부종 <mark style="color:blue;">\[플로리네프]</mark>
 * midodrine : α1 작용제; 2.5\~10 ㎎ tid (취침 전 복용 금지); \[부작용] 입모근 반응, 앙와위 고혈압 <mark style="color:blue;">\[미드론]</mark>
 * droxidopa : 노르에피네프린 전구체; 신경인성 기립성 저혈압(파킨슨병·MSA·PAF)에서 midodrine과 함께 고려; 100\~600 ㎎ tid; \[부작용] 앙와위 고혈압, 두통, 어지럼
-  * 국내 접근성 제한적, 급여기준 미확인 - 파킨슨병·MSA 동반 신경인성 기립성 저혈압에는 신경과 의뢰 후 처방 권고; 당뇨병성 자율신경병증이나 일시적 약물 부작용에 의한 기립성 저혈압에는 비급여로 처방
-* pyridostigmine : 콜린에스터라제 억제; 30\~60 ㎎ bid\~tid; 특히 POTS에서 고려 <mark style="color:blue;">\[메스티논]</mark>
+  * ⚠️ **국내에서는 희귀의약품으로 지정되어 있어 일반 로컬 의원에서는 처방·수급이 매우 제한적** - 일차 진료 단계에서 시도하기 어려우며 **파킨슨병·MSA 동반 신경인성 기립성 저혈압은 신경과 의뢰** 영역; 일차 진료의는 시도하지 않는 것이 안전
+* pyridostigmine : 콜린에스터라제 억제; 15\~30 ㎎ bid 저용량으로 시작 → 30\~60 ㎎ bid\~tid로 점진 증량 (복통·설사 부작용 최소화); 특히 POTS에서 고려 <mark style="color:blue;">\[메스티논]</mark>
 
 #### <mark style="color:$primary;">POTS</mark>
 
- ※ 단일 약제로 모두 커버되지 않으므로 아형 또는주증상에 따라 선택
+ ※ 단일 약제로 모두 커버되지 않으므로 아형 또는 주증상에 따라 선택
 
 * β차단제(저용량) : 심박수 조절 - 과아드레날린성 POTS 우선 고려; propranolol 10\~20 ㎎ <mark style="color:blue;">\[인데놀]</mark>&#x20;
 * ivabradine : If 채널 차단; 심박수 감소; β차단제 불내성 시 대안 <mark style="color:blue;">\[프로코라란]</mark>
 * midodrine : 3\~10 ㎎ tid - 신경병성(neuropathic) POTS의 venous pooling에 유용
 * fludrocortisone : 0.05\~0.2 ㎎/d - 저혈량성(hypovolemic) POTS에서 우선 선택
-* pyridostigmine : 30\~60 ㎎ bid\~tid - 심박수 완화 + 위장관 증상 개선 효과
+* pyridostigmine : 15\~30 ㎎ bid 시작 → 30\~60 ㎎ bid\~tid로 점진 증량; 심박수 완화 + 위장관 증상 개선 효과
 
 #### <mark style="color:$primary;">소화기 증상</mark>
 
@@ -325,12 +347,15 @@ F45.3 신체형자율신경기능장애
 > ※ 취침 후 복용 금지; 복용 후 4시간 이내 눕지 않도록 지도
 > ```
 
-> **처방례 5.** POTS — 콜린에스터라제 억제
+> **처방례 5.** POTS — 콜린에스터라제 억제 (저용량 시작 → 점진 증량)
 >
 > ```
-> 메스티논 30 ㎎/T  1T  bid~tid
+> ① 시작 : 메스티논 30 ㎎/T  1/2T  bid  식후
+> ② 1~2주 후 내약성 양호하면 : 메스티논 30 ㎎/T  1T  bid
+> ③ 필요 시 : 메스티논 30 ㎎/T  1T  tid 또는 60 ㎎/d까지 증량
 > ※ 말초 자율신경 기능 강화; 심박수 완화 + 위장관 증상 개선
-> ※ [부작용] 구역, 복통, 설사, 과다분비 — 식후 복용으로 위장 증상 경감
+> ※ [부작용] 구역·복통·설사·과다분비 — 초기 60 ㎎ tid 시작 시 위장 부작용으로 중단 사례 많음
+> ※ 반드시 식후 복용; 증상 안정 후 2~4주 간격으로 단계적 증량
 > ```
 
 > **처방례 6.** 기립성 저혈압 — 혈장량 증가
