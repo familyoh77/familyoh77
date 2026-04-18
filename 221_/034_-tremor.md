@@ -165,8 +165,8 @@ flowchart TD
     J --"최소 검사- TSH·Glucose·LFT 전해질·B12; <br/><50세에서 Wilson 검사"--> P{치료 필요?}
     P -- "경증·일상 지장 없음" --> Q[비약물 치료 + 경과 관찰]
     P -- "중등도 이상" --> R[금기 확인]
-    R -- "천식·서맥 없음" --> S["1차: Propranolol 10 mg bid 시작. 목표 60~320 mg/d"]
-    R -- "β-blocker 금기" --> T["1차: Primidone 25~62.5 mg HS 시작. 목표 50~250 mg/d"]
+    R -- "천식·서맥 없음" --> S["1차: Propranolol 10 ㎎ bid 시작. 목표 40~320 ㎎/d"]
+    R -- "β-blocker 금기" --> T["1차: Primidone 25~62.5 ㎎ HS 시작. 목표 50~250 ㎎/d"]
     S -- 불충분 --> U["2차: 병용 or <br/>Topiramate / Gabapentin"]
     T -- 불충분 --> U
     U -- 불응 --> V["신경과 의뢰 <br/>DBS / Focused ultrasound"]
@@ -208,7 +208,7 @@ flowchart TD
 **상황별 특수 전략**
 
 * 낙상 고위험 : primidone 매우 주의, gabapentin 저용량 선호
-* 인지저하 (MCI/치매) : topiramate 또는 benzodiazepine 피&#xD568;**,** propranolol 또는 gabapentin 우선
+* 인지저하 (MCI/치매) : topiramate 또는 benzodiazepine 피함; propranolol 또는 gabapentin 우선
 * COPD / 천식 : β-blocker 피함 → primidone 또는 gabapentin
 * 저체중 / frailty : topiramate 피함 (체중 감소), ultra-low dose 전략
 
@@ -216,35 +216,35 @@ flowchart TD
 
 **propranolol**
 
-* 시작 : 10 mg bid (고령자 10 mg/d도 고려) <mark style="color:blue;">\[인데놀]</mark>
+* 시작 : 10 ㎎ bid (고령자 10 ㎎/d도 고려) <mark style="color:blue;">\[인데놀]</mark>
   * 상황성 떨림(예: 공연, 발표)에서는 이벤트 1\~2시간 전 1회성으로 투여하는 것을 고려
 * 증량 : 1\~2주 간격으로 천천히 증량
-* 목표 : 40\~320 mg/d (고령자에서는 낮게 유지 권장)
-* 주의/금기 : 서맥 (<60), 저혈압, fatigue, depression 악화, 당뇨 환자 저혈당 masking, asthma / bronchospasm, AV block (2\~3도), acute HF
+* 목표 : 40\~320 ㎎/d (고령자에서는 낮게 유지 권장)
+* 주의/금기 : 서맥 (<60), 저혈압, fatigue, depression 악화, 당뇨 환자 저혈당 은폐, asthma / bronchospasm, AV block (2\~3도), acute HF
 
 **primidone**
 
-* 시작 : 25\~62.5 mg HS (고령자는 25 mg 또는 더 낮게) <mark style="color:blue;">\[프리미돈]</mark>
+* 시작 : 25\~62.5 ㎎ HS (고령자는 25 ㎎ 또는 더 낮게) <mark style="color:blue;">\[프리미돈]</mark>
 * 증량 : 1\~2주 간격
-* 목표 : 50\~250 mg/d
+* 목표 : 50\~250 ㎎/d
 * 주의 : 고령자 (sedation), 간질환; 초기 sedation / dizziness 매우 흔함, 낙상 위험(반드시 slow titration)
 
 **Gabapentin**
 
-* 시작 : 100\~300 mg HS <mark style="color:blue;">\[뉴론틴]</mark>
-* 목표 : 900\~1,800 mg/d
+* 시작 : 100\~300 ㎎ HS <mark style="color:blue;">\[뉴론틴]</mark>
+* 목표 : 900\~1,800 ㎎/d
 * 장점 : 비교적 안전, 인지 영향 적음
 * 주의 : 졸림, 어지럼; 신기능 따라 감량
 
 **Topiramate**
 
-* 시작 : 25 mg HS <mark style="color:blue;">\[토파맥스]</mark>
-* 목표 : 50\~200 mg/d (고령자 낮게 유지)
+* 시작 : 25 ㎎ HS <mark style="color:blue;">\[토파맥스]</mark>
+* 목표 : 50\~200 ㎎/d (고령자 낮게 유지)
 * 주의 : **인지 저하,** 체중 감소, 신결석, paresthesia; 고령자에서는 우선순위 낮음
 
 **Benzodiazepine**
 
-* clonazepam 0.25 mg PRN <mark style="color:blue;">\[리보트릴]</mark>
+* clonazepam 0.25 ㎎ PRN <mark style="color:blue;">\[리보트릴]</mark>
 * 주의 : 낙상 / 인지저하 / 의존성 위험; 규칙적 또는 장기 사용 금지
 
 #### <mark style="color:$primary;">Botulinum toxin A</mark>
@@ -267,7 +267,7 @@ flowchart TD
 * 비-약물 치료를 원칙으로 함
 * 카페인 섭취, 흡연을 피함
 * 일상생활에 지장을 주는 특별한 경우(예: 발표, 공연 전) β-차단제 단회 투여 고려
-  * propranolol : 10\~40 mg 상황 발생 1\~2시간 전 단회 투여 <mark style="color:blue;">\[인데놀]</mark>
+  * propranolol : 10\~40 ㎎ 상황 발생 1\~2시간 전 단회 투여 <mark style="color:blue;">\[인데놀]</mark>
   * 투여 전 천식, 저혈압, 서맥 여부 확인
 
 ## <mark style="color:green;">반얼굴연축</mark>
@@ -275,7 +275,7 @@ flowchart TD
 * 1차 치료 : Botulinum toxin injection (표준치료; AAN 권고)
   * 효과 지속 : 3\~4개월; 반복 투여 필요
 * 약물 치료 (보조적) : 항경련제, 항콜린제
-  * clonazepam : 0.5 mg bid <mark style="color:blue;">\[리보트릴]</mark>
+  * clonazepam : 0.5 ㎎ bid <mark style="color:blue;">\[리보트릴]</mark>
 * 근본 원인 치료 : 혈관 압박이 원인인 경우 미세혈관 감압술(MVD) 고려 (신경외과 의뢰)
 
 ***
