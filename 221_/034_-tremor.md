@@ -51,7 +51,7 @@
 * 불규칙, 경련성 떨림 → dystonic tremor
 * 두부 떨림, 두부 위치 이상(head tilting or turning) → dystonic tremor
 * 기립 시에만 다리가 후들거리며 '불안정감', '넘어질 것 같음'으로 호소 → **기립 떨림 (orthostatic tremor)** 고려
-  * 고주파수 떨림 (13~18 Hz); 앉거나 걸으면 호전
+  * 고주파수 떨림 (13\~18 Hz); 앉거나 걸으면 호전
   * 청진 시 허벅지·종아리 근육에서 "헬리콥터(helicopter sign)" 소리 (진단적 단서)
 * 갑작스럽거나 빠른 시작 → **functional (psychogenic) tremor**, toxic tremor
   * **Distractibility** : 다른 활동 수행 시 떨림 감소/소실
@@ -84,15 +84,15 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 
 * **확진 (Definite)** : 양측 상지의 postural &/or kinetic tremor가 3년 이상 지속 + 다른 신경학적 징후 없음
 * **유사 (Probable)** : 위 기준을 충족하나 이환 기간이 3년 미만; 또는 머리·목소리 떨림이 단독으로 존재하나 이완 시 소실
-* **Essential tremor plus** : ET 진단 기준은 충족하나 경미한 추가 신경학적 징후 동반; 구체적으로 경미한 인지기능 저하, mild dystonia, tandem 보행 장애 등이 해당; ET와 구분되는 별도 카테고리; **예후·병태생리적으로 ET와 다를 가능성이 있어 정기 추적 필요**
+* **Essential tremor plus** : ET 진단 기준은 충족하나 경미한 추가 신경학적 징후 동반; 구체적으로 경미한 인지기능 저하, mild dystonia, tandem 보행 장애 등이 해당; ET와 구분되는 별도 카테고리; 예후·병태생리적으로 ET와 다를 가능성이 있어 정기 추적 필요
 * 다음이 있으면 essential tremor에서 제외 : resting tremor 단독, 다른 원인 가능 약물 복용, 편측 발생, 파킨슨 징후(서동·경직)
 
 #### <mark style="color:$primary;">떨림 양상</mark>
 
 * 리드미컬한 떨림, 4\~12 Hz(주로 5\~8 Hz)
 * 양측성 비대칭성 postural(주로) or kinetic tremor; resting tremor는 ＜20%에서 발생
-  * ET의 rest tremor는 **late feature**이며, 항상 action tremor를 동반함
-  * PD의 rest tremor(pill-rolling, 비대칭성, 서동 동반)와 구별 — 이 구분이 오진 방지의 핵심
+  * ET의 rest tremor는 late feature이며, 항상 action tremor를 동반함
+  * PD의 rest tremor(pill-rolling, 비대칭성, 서동 동반)와 구별 - 이 구분이 오진 방지의 핵심
 * 이환 부위 : 손/아래팔(주로 상지 이환; \~95%), 머리(\~34%), 하지(\~30%), 목소리(12%)
 * cogwheel 현상을 제외한 신경학적 증상 없음
 * 스트레스, 피로, 카페인 섭취로 악화
@@ -102,14 +102,14 @@ _<mark style="color:$info;">1) = Functional tremor</mark>_\
 
 * 특이 진단 방법 없음; 다른 원인 배제
 * 나선 그리기 검사 (Archimedes spiral test) : 종이에 나선을 그리게 하여 떨림 정도 평가; 본태성 떨림은 선이 불규칙하게 떨리며 나타남 / 파킨슨병은 선의 떨림보다 나선이 점점 작아지는 경향(micrographia)을 보임
-* CBC, TSH, BUN, Cr, LFT, 전해질, **Vitamin B12** (결핍 시 떨림 유발 가능)
+* CBC, TSH, BUN, Cr, LFT, 전해질, Vitamin B12 (결핍 시 떨림 유발 가능)
 * Wilson병 감별 : 50세 이전 발생 시 (일부 가이드라인은 55세 기준) Wilson병 배제를 위한 혈청 ceruloplasmin, 24시간 소변 구리 검사 고려; 특히 가족력 없는 갑작스러운 떨림 또는 성격 변화 등 정신과적 증상 동반 시 연령과 무관하게 Wilson병 검사 시행
-  * 추가 단서: **Kayser-Fleischer ring** (세극등 검사), **AST/ALT 이상** (간 침범 시)
+  * 추가 단서: Kayser-Fleischer ring (세극등 검사), AST/ALT 이상 (간 침범 시)
 
 ### <mark style="color:orange;">생리적 떨림 (Physiologic tremor) 및 강화 생리적 떨림 (Enhanced physiologic tremor)</mark>
 
-* **정상 생리적 떨림** : postural 또는 kinetic tremor; 손, 손가락(보통 양측); 스트레스, 불안, 격렬한 육체 활동, 카페인 섭취 등으로 유발; 저진폭, 고주파수(10~12 Hz); 기능 장애 없음
-* **강화 생리적 떨림 (Enhanced physiologic tremor, EPT)** : 정상 생리적 떨림이 뚜렷하게 심해진 상태로, **외래에서 가장 흔하게 만나는 떨림**
+* 정상 생리적 떨림 : postural 또는 kinetic tremor; 손, 손가락(보통 양측); 스트레스, 불안, 격렬한 육체 활동, 카페인 섭취 등으로 유발; 저진폭, 고주파수(10\~12 Hz); 기능 장애 없음
+* 강화 생리적 떨림 (Enhanced physiologic tremor, EPT) : 정상 생리적 떨림이 뚜렷하게 심해진 상태로, 외래에서 가장 흔하게 만나는 떨림
 
 #### <mark style="color:$primary;">EPT 주요 원인</mark>
 
@@ -140,31 +140,31 @@ EPT는 원인을 교정하면 완전히 회복 가능하므로, 새로 발생한
 ```mermaid
 flowchart TD
     A([떨림 호소 환자]) --> B{🚩 Red Flag 확인}
-    B -- "갑작스런 발생·빠른 악화\n국소 신경결손·의식 변화" --> C[즉각 응급/신경과 의뢰]
+    B -- "갑작스런 발생·빠른 악화<br/>국소 신경결손·의식 변화" --> C[즉각 응급/신경과 의뢰]
     B -- 없음 --> D{Tremor type}
 
-    D --> E["Rest tremor\n(가만히 있을 때)"]
-    D --> F["Action tremor\n(움직일 때)"]
+    D --> E["Rest tremor(가만히 있을 때)"]
+    D --> F["Action tremor(움직일 때)"]
 
-    E --> G["파킨슨병 의심\n비대칭+서동+경직\n→ 신경과 의뢰"]
-    E --> H["약물 유발?\n항정신병약 등\n→ 약물 조정"]
+    E --> G["파킨슨병 의심 <br/>비대칭+서동+경직 → 신경과 의뢰"]
+    E --> H["약물 유발? (항정신병약 등) <br/>→ 약물 조정"]
 
     F --> I{Pattern 감별}
-    I --> J["양측 손+머리+음성\n가족력, 알코올 반응\n→ Essential tremor"]
-    I --> K["고주파·가역적\n불안/갑상선/약물\n→ EPT: 원인 교정"]
-    I --> L["기립 시만 다리 떨림\n보행 시 호전\n→ Orthostatic tremor"]
-    I --> M["변동성·distractibility\nentrainment 양성\n→ Functional tremor"]
-    I --> N["intention tremor\n실조·편측\n→ 소뇌 병변 배제: MRI"]
+    I --> J["양측 손+머리+음성 가족력, <br/>알코올 반응 <br/>→ Essential tremor"]
+    I --> K["고주파·가역적 불안/갑상선/약물 <br/>→ EPT: 원인 교정"]
+    I --> L["기립 시만 다리 떨림 보행 시 호전 → Orthostatic tremor"]
+    I --> M["변동성·distractibility entrainment 양성 <br/>→ Functional tremor"]
+    I --> N["intention tremor 실조·편측 → 소뇌 병변 배제: MRI"]
 
-    J --> O["최소 검사\nTSH·Glucose·LFT\n전해질·B12\n<50세 → Wilson 검사"]
+    J --> O["최소 검사 TSH·Glucose·LFT 전해질·B12 <50세 <br/>→ Wilson 검사"]
     O --> P{치료 필요?}
-    P -- "경증·일상 지장 없음" --> Q[비약물 치료\n+ 경과 관찰]
+    P -- "경증·일상 지장 없음" --> Q[비약물 치료 + 경과 관찰]
     P -- "중등도 이상" --> R{금기 확인}
-    R -- "천식·서맥 없음" --> S["1차: Propranolol\n10 mg bid 시작\n목표 60~320 mg/d"]
-    R -- "β-blocker 금기" --> T["1차: Primidone\n25~62.5 mg HS 시작\n목표 50~250 mg/d"]
-    S -- 불충분 --> U["2차: 병용 or\nTopiramate / Gabapentin"]
+    R -- "천식·서맥 없음" --> S["1차: Propranolol 10 mg bid 시작. 목표 60~320 mg/d"]
+    R -- "β-blocker 금기" --> T["1차: Primidone 25~62.5 mg HS 시작. 목표 50~250 mg/d"]
+    S -- 불충분 --> U["2차: 병용 or <br/>Topiramate / Gabapentin"]
     T -- 불충분 --> U
-    U -- 불응 --> V["신경과 의뢰\nDBS / Focused ultrasound"]
+    U -- 불응 --> V["신경과 의뢰 <br/>DBS / Focused ultrasound"]
 
     style C fill:#f96,stroke:#e65100,stroke-width:2px
     style G fill:#ffe0b2,stroke:#e65100
@@ -195,7 +195,7 @@ flowchart TD
 * 환자의 30\~50%는 propranolol과 primidone에 반응하지 않음
 * 치료 기대치 설정 : 약물 치료로 떨림이 완전히 소실되는 것이 아니라 약 50\~70%의 증상 감소가 현실적 목표임을 처방 전 환자에게 미리 고지
 
-**모니터링**&#x20;
+**모니터링**
 
 * 초기 4\~8주 : HR/ BP, sedation / dizziness, 낙상 여부, 기능 개선 (컵 들기, 글쓰기)
 * 이후 : 3개월 간격 추적, 필요 시 감량 시도 (polypharmacy 최소화)
@@ -213,9 +213,8 @@ flowchart TD
 
 * 시작 : 10 mg bid (고령자 10 mg/d도 고려) <mark style="color:blue;">\[인데놀]</mark>
   * 상황성 떨림(예: 공연, 발표)에서는 이벤트 1\~2시간 전 1회성으로 투여하는 것을 고려
-* **ER 제형** <mark style="color:blue;">\[인데랄 에스알]</mark> : 60\~160 mg/d; 순응도 향상에 유리
 * 증량 : 1\~2주 간격으로 천천히 증량
-* 목표 : **60\~320 mg/d** (고령자에서는 낮게 유지 권장)
+* 목표 : 40\~320 mg/d (고령자에서는 낮게 유지 권장)
 * 주의/금기 : 서맥 (<60), 저혈압, fatigue, depression 악화, 당뇨 환자 저혈당 masking, asthma / bronchospasm, AV block (2\~3도), acute HF
 
 **primidone**
@@ -225,38 +224,38 @@ flowchart TD
 * 목표 : 50\~250 mg/d
 * 주의 : 고령자 (sedation), 간질환; 초기 sedation / dizziness 매우 흔함, 낙상 위험(반드시 slow titration)
 
-**Gabapentin**&#x20;
+**Gabapentin**
 
 * 시작 : 100\~300 mg HS <mark style="color:blue;">\[뉴론틴]</mark>
 * 목표 : 900\~1,800 mg/d
 * 장점 : 비교적 안전, 인지 영향 적음
 * 주의 : 졸림, 어지럼; 신기능 따라 감량
 
-**Topiramate**&#x20;
+**Topiramate**
 
 * 시작 : 25 mg HS <mark style="color:blue;">\[토파맥스]</mark>
 * 목표 : 50\~200 mg/d (고령자 낮게 유지)
-* 주의 : **인지 저하,** 체중 감소, 신결석, paresthesia; 고령자에서는 우선순위 낮음&#x20;
+* 주의 : **인지 저하,** 체중 감소, 신결석, paresthesia; 고령자에서는 우선순위 낮음
 
 **Benzodiazepine**
 
 * clonazepam 0.25 mg PRN <mark style="color:blue;">\[리보트릴]</mark>
-* 주의 : 낙상 / 인지저하 / 의존성 위험; 규칙적 또는 장기 사용 금지&#x20;
+* 주의 : 낙상 / 인지저하 / 의존성 위험; 규칙적 또는 장기 사용 금지
 
 #### <mark style="color:$primary;">Botulinum toxin A</mark>
 
 * 대상 : 약물 불응성 상지 본태성 떨림, cervical dystonia, blepharospasm, focal upper extremity dystonia, adductor laryngeal dystonia
-* **상지 떨림 시술 주의** : 손가락 신전 근력 약화(finger extension weakness) 위험; 주입 부위·용량 정밀 조정 필요
-* **음성 떨림** : 이비인후과(ENT) 협진 후 성대 주입 시행
+* 상지 떨림 시술 주의 : 손가락 신전 근력 약화(finger extension weakness) 위험; 주입 부위·용량 정밀 조정 필요
+* 음성 떨림 : 이비인후과(ENT) 협진 후 성대 주입 시행
 * 신경과 의뢰 후 시행
 
-#### <mark style="color:$primary;">침습적 치료</mark>&#x20;
+#### <mark style="color:$primary;">침습적 치료</mark>
 
 * 약물 불응성
 * Deep brain stimulation (DBS) : 시상(VIM nucleus) 자극; 중증 약물 불응성 본태성 떨림에 적응
 * Focused ultrasound thalamotomy : 2016 FDA 승인; 편측 시상 파괴술; 비침습적 시술로 DBS 대안. 국내 2022년 신의료기술 등재 후 중증 약물 불응성 편측 본태성 떨림에 제한적 급여 적용 (최신 HIRA 기준 확인 필요)
-  * **양측 시술 제한** : 양측 동시 시행 시 dysarthria·삼킴 장애 위험으로 통상 편측에만 적용
-  * **부작용** : 감각 이상(paresthesia), 보행 실조, dysarthria (일부 영구적)
+  * 양측 시술 제한 : 양측 동시 시행 시 dysarthria·삼킴 장애 위험으로 통상 편측에만 적용
+  * 부작용 : 감각 이상(paresthesia), 보행 실조, dysarthria (일부 영구적)
 
 ## <mark style="color:green;">생리적 떨림</mark>
 
@@ -290,7 +289,7 @@ R25.1 상세불명의 떨림
 >
 > ```
 > 인데놀 10 mg/T  1T  bid
-> ※ 반응 불충분 시 1~2주 간격으로 증량 (목표 유지량 60~320 mg/d)
+> ※ 반응 불충분 시 1~2주 간격으로 증량 (목표 유지량 40~320 mg/d)
 > ※ 투여 전 천식, 서맥(HR <60), 저혈압 확인; 당뇨 환자는 저혈당 증상 마스킹 주의
 > ※ 갑작스러운 중단 금지 (반동성 빈맥·불안정 협심증 위험); 1~2주에 걸쳐 서서히 감량
 > ```
