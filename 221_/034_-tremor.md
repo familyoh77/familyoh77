@@ -156,10 +156,9 @@ flowchart TD
     I --> M["변동성·distractibility entrainment 양성 <br/>→ Functional tremor"]
     I --> N["intention tremor 실조·편측 → 소뇌 병변 배제: MRI"]
 
-    J --> O["최소 검사 TSH·Glucose·LFT 전해질·B12 <50세 <br/>→ Wilson 검사"]
-    O --> P{치료 필요?}
+    J --"최소 검사- TSH·Glucose·LFT 전해질·B12; <br/><50세에서 Wilson 검사"--> P{치료 필요?}
     P -- "경증·일상 지장 없음" --> Q[비약물 치료 + 경과 관찰]
-    P -- "중등도 이상" --> R{금기 확인}
+    P -- "중등도 이상" --> R[금기 확인]
     R -- "천식·서맥 없음" --> S["1차: Propranolol 10 mg bid 시작. 목표 60~320 mg/d"]
     R -- "β-blocker 금기" --> T["1차: Primidone 25~62.5 mg HS 시작. 목표 50~250 mg/d"]
     S -- 불충분 --> U["2차: 병용 or <br/>Topiramate / Gabapentin"]
