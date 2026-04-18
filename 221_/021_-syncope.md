@@ -99,7 +99,7 @@
 
 ```mermaid
 graph TD
-    Start([실신 환자 초기 평가<br/>병력·신체검진·기립 활력징후·ECG]) --> S1{STEP 1. 응급  Red flags?}
+    Start([실신 환자 초기 평가<br/>병력·신체검진·기립 활력징후·ECG]) --> S1{STEP 1. 응급?<br/>🚩 Red Flags}
     S1 --> Cardiac[심혈관성 의심<br/>즉시 응급·심장내과 의뢰]
     S1 -->|No| S2{STEP 2. 기립 관련?}
     S2 -->|기립 직후 증상| OVital[Orthostatic vitals<br/>앙와위 5분 후 기립 직후/1분/3분<br/>필요 시 10분까지 연장]
