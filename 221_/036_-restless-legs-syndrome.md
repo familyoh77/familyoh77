@@ -32,8 +32,13 @@
 ## <mark style="color:green;">원인</mark>
 
 * 원발성 (early-onset) : 뇌의 도파민 작용 저하 및 뇌 철분 결핍 추정
-* 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 약물(예: 알코올, 카페인, 항우울제(특히 SSRI/SNRI, mirtazapine), 항정신병제, 1세대 항히스타민제, 도파민 차단제(metoclopramide, domperidone\*), cholinesterase 억제제(donepezil))\
-  \* _domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
+* 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 알코올, 카페인, 약물
+  * 약물
+    * 항우울제 : SSRI/SNRI, mirtazapine
+    * 항정신병제
+    * 1세대 항히스타민제,&#x20;
+    * 도파민 차단제(metoclopramide, domperidone\*), cholinesterase 억제제(donepezil))\
+      \* _domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -55,7 +60,7 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* 철분 지표(아침 공복, 철분 보충제 24시간 중단 후 채혈) : ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC
+* 철분 검사지:  아침 공복, 철분 보충제 24시간 중단 후 채혈; ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
 * 도파민 약물 치료에 대한 반응 평가
 * 필요시 수면다원검사(polysomnography) - PLMD 동반 여부 확인
@@ -75,7 +80,7 @@
 #### <mark style="color:$primary;">Specifiers for clinical course</mark>
 
 * Chronic-persistent RLS : 치료하지 않았을 때 지난 1년간 ≥2회/주 발생
-* &#x20;Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평생 총 ≥5회 발생
+* Intermittent RLS : 치료하지 않았을 때 지난 1년간 ＜2회/주, 평생 총 ≥5회 발생
 
 #### <mark style="color:$primary;">Specifier for clinical significance</mark>
 
@@ -92,17 +97,62 @@
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 치료 목표 : 증상 완화, 주간 기능 회복, 수면 개선, 삶의 질 향상
-* **Step 1** : 이차성 원인 교정 - 속발성인 경우 원인 치료 우선
-* **Step 2** : 악화 약물 중단 또는 대체 - SSRI/SNRI, mirtazapine, 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)\
-  ※ 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 일부 소규모 관찰 연구에서 RLS를 악화시키지 않으며 호전 효과가 보고된 바 있으나 근거가 제한적임 - SSRI/SNRI/mirtazapine을 교체해야 하는 상황에서 선택지로 고려 가능하나 공유 의사결정(SDM, Shared Decision Making) 후 적용
-* **Step 3** : 철분 보충 - ferritin/TSAT 기준에 따라 (위 진단 항목 참조)
-* **Step 4** : 비약물 치료 병행
-* **Step 5** : 약물 치료 - 중등도 이상, 삶의 질에 영향을 주는 경우 고려
+
+#### <mark style="color:$primary;">치료 Step</mark>
+
+**Step 1.** **진단 및 Red flags 배제**
+
+**Step 2. 이차성 원인 교정** - 속발성인 경우 원인 치료 우선
+
+**Step 3. 관련 약물 파악**&#x20;
+
+* 악화 약물 중단 또는 대체 - SSRI/SNRI, mirtazapine, 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)
+* 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 일부 소규모 관찰 연구에서 RLS를 악화시키지 않으며 호전 효과가 보고된 바 있으나 근거가 제한적임 - SSRI/SNRI/mirtazapine을 교체해야 하는 상황에서 선택지로 고려 가능하나 공유 의사결정(SDM, Shared Decision Making) 후 적용
+
+**Step 4. 철분 보충** - ferritin/TSAT에 따라 (아래 약물 치료 참조)
+
+**Step 5. 중증도 평가**
+
+**Intermittent (간헐적)**&#x20;
+
+* 주 <2회, 삶의 질 영향 적음
+* 치료 : 비약물 치료, 필요 시 PRN(levodopa, 저용량 opioid)
+
+&#x20;**Chronic persistent**
+
+* 주 ≥2회, 수면/삶의 질 영향 있음
+
+**Step 6. 1차 약물 치료** : 중등도 이상, 삶의 질에 영향을 주는 경우 고려
+
+**First-line**&#x20;
+
+* Gabapentinoid&#x20;
+  * gabapentin 100\~300 mg 시작 → 300–900 mg
+  * pregabalin 50\~75 mg → 150\~300 mg
+* Dopamine agonist&#x20;
+  * 사용 조건 (제한적 사용) : gabapentinoid 불내성/금기, 단기 필요, pramipexole 0.125 mg 시작, ropinirole 0.25 mg 시작
+  * 주의 : augmentation, 충동조절장애
+
+**Step 7. Augmentation 모니터링** (매 방문마다)
+
+* 체크리스트 : 증상이 더 일찍 시작?, 강도 증가?, 팔/몸통 확산?, 약 늘렸는데 더 악화?; 하나라도 해당 시 augmentation 의심
+
+&#x20;**Step 8. Augmentation 발생 시**
+
+* 절대 : 도파민 약 증량&#x20;
+* 치료 : gabapentin/pregabalin 시작 → 2주 overlap → 도파민 약 서서히 taper
+
+&#x20;**Step 9. Refractory RLS**
+
+* gabapentinoid 실패 또는 심한  augmentation 경우
+* 조치 : 저용량 opioid, IV iron 재평가, 의뢰
+
+&#x20;**Step 10. 비약물 치료** (모든 단계에서)
 
 ## <mark style="color:green;">비약물 치료 및 예방</mark>
 
 * 주간의 활발한 활동, 규칙적 운동(지나친 운동은 피함), 저녁 때 가벼운 걷기
-* 적절한 수면 및 규칙적 수면 스케줄 유지
+* 적절한 규칙적 수면
 * 수면무호흡증(OSA) 동반 시 CPAP 치료 - OSA 치료만으로 RLS 호전되는 경우 있음
 * 다리 마사지, 온찜질, 다리 보온(긴 양말)
 * 저녁 때 알코올, 카페인, 니코틴 회피
@@ -113,30 +163,19 @@
 
 * 1차 선택제 : gabapentin 계열; 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험으로 인해 장기 사용 조건부 권고 반대로 변경 (2024 AASM)
 
-#### <mark style="color:$primary;">Alpha-2-delta 칼슘 채널 길항제 (gabapentin 계열)</mark>
-
-* 1차 선택 (2024 AASM 강력 권고)
-* 용법 : 증상 발생 1\~2시간 전 저녁 복용
-
-**신기능 저하 시 용량 조절** (CrCl 기준)
-
-<table><thead><tr><th width="142">CrCl (mL/min)</th><th width="190">Gabapentin 최대 용량</th><th width="172">Pregabalin 최대 용량</th></tr></thead><tbody><tr><td>≥60</td><td>1,800~2,400 ㎎/d</td><td>300~450 ㎎/d</td></tr><tr><td>30~59</td><td>700 ㎎/d</td><td>150 ㎎/d</td></tr><tr><td>15~29</td><td>300 ㎎/d</td><td>75 ㎎/d</td></tr><tr><td>&#x3C;15</td><td>150 ㎎/d</td><td>25~50 ㎎/d</td></tr></tbody></table>
-
-* gabapentin : 100\~300 ㎎ qd (저녁) → 증상에 따라 최대 1,800\~2,400 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>
-* pregabalin : 50\~75 ㎎ qd (저녁) → 최대 300\~450 ㎎/d <mark style="color:blue;">\[리리카]</mark>
-* gabapentin enacarbil : 600 ㎎/d (저녁) - 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
-
 #### <mark style="color:$primary;">철분 보충</mark>
-
-* 1차 선택 (철분 지표 기준에 해당 시) - 기준은 위 진단 절 철분 보충 의사결정 기준 참조
 
 **철분 보충 의사결정 기준** (2024 AASM)
 
-<table><thead><tr><th width="147">ferritin</th><th width="126">Transferrin  saturation</th><th>권고 조치</th></tr></thead><tbody><tr><td>≤75 ng/㎖</td><td>무관</td><td>경구 또는 IV 철분 보충</td></tr><tr><td>75~100 ng/㎖</td><td>무관</td><td>IV 철분만 고려 (경구는 이 범위에서 흡수 불량)</td></tr><tr><td>>100 ng/㎖</td><td>&#x3C;20%</td><td>IV 철분 보충 고려</td></tr><tr><td>>100 ng/㎖</td><td>≥20%</td><td>철분 보충 불필요</td></tr></tbody></table>
-
+* ferritin ≤75 ng/mL → 경구 또는 IV 철분
+* ferritin 75\~100  ng/mL → IV 철분 고려
+* ferritin >100 ng/mL + TSAT <20% → IV 철분 고려
+* ferritin >100 ng/mL + TSAT ≥20% → 철분 보충 불필요
+* 목표: ferritin ≥100 ng/mL (가능하면 100\~150 ng/mL)
 * 아침 공복, 철분 보충제 24시간 중단 후 채혈
 * 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - 이 경우 TSAT < 20%가 철분 부족을 시사하는 더 강력한 지표가 됨
 * ferritin >75 ng/㎖에서는 체내hepcidin 호르몬의 상승으로 경구 철분 흡수가 억제됨 → IV 철분제 고려
+* 고령자에서는 경구제의 경우 GI 부작용을 감안하여 격일 복용할수있음; IV 제제가 빠르고 효과적이므로 적극 고려
 * IV ferric carboxymaltose <mark style="color:blue;">\[페린젝트주]</mark> : ferritin <100 ng/㎖ 또는 TSAT <20% 시 투여 (강력 권고)
   * 위장관 흡수에 의존하지 않아 hepcidin 억제의 영향을 받지 않음. 효과 빠르고 예측 가능
   * 경구 철분 대비 뇌 철분 보충 속도가 빠름. 적은 횟수 투여로 충분
@@ -146,13 +185,28 @@
   * 격일 복용(every other day) 권고 : 매일 복용보다 hepcidin 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
 * IV low molecular weight iron dextran, IV ferumoxytol : 조건부 권고
 
+#### <mark style="color:$primary;">Gabapentinoids (Alpha-2-delta 칼슘 채널 길항제)</mark>
+
+* 1차 선택&#x20;
+* 장점 : augmentation 없음, 수면 개선, 불안/통증 동반 시 유리
+* 주의 : 어지럼 → 낙상; 졸림 → daytime sedation; 부종; 신기능 따라 감량 필수
+* 용법 : 증상 발생 1\~2시간 전 저녁 복용 (고령자에서는 low & slow)
+
+**신기능 저하 시 용량 조절** (CrCl 기준)
+
+<table><thead><tr><th width="142">CrCl (mL/min)</th><th width="190">Gabapentin 최대 용량</th><th width="172">Pregabalin 최대 용량</th></tr></thead><tbody><tr><td>≥60</td><td>1,800~2,400 ㎎/d</td><td>300~450 ㎎/d</td></tr><tr><td>30~59</td><td>700 ㎎/d</td><td>150 ㎎/d</td></tr><tr><td>15~29</td><td>300 ㎎/d</td><td>75 ㎎/d</td></tr><tr><td>&#x3C;15</td><td>150 ㎎/d</td><td>25~50 ㎎/d</td></tr></tbody></table>
+
+* gabapentin : 100\~300 ㎎ qd (저녁) → 증상에 따라 최대 1,800\~2,400 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>
+* pregabalin : 25\~75 ㎎ qd (저녁) → 최대 300\~450 ㎎/d <mark style="color:blue;">\[리리카]</mark>
+* gabapentin enacarbil : 600 ㎎/d (저녁) - 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
+
 #### <mark style="color:$primary;">도파민 작용제</mark>
 
 * 장기 사용 조건부 권고 반대 (2024 AASM)
-* 단기 사용 또는 gabapentin 계열 불내성/금기 시 제한적 선택 가능
+* gabapentin 계열 불내성/금기 시, 단기 사용(빠른 효과가 필요한 경우) 제한적 선택&#x20;
 * Augmentation 발생 시 즉시 감량·중단 (용량 증량 금지)
-* pramipexole : 0.125 ㎎ qd → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd <mark style="color:blue;">\[미라펙스]</mark>
-* ropinirole : 0.25 ㎎ qd → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd <mark style="color:blue;">\[리큅]</mark>
+* pramipexole : 0.125 ㎎ qd(hs) → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd <mark style="color:blue;">\[미라펙스]</mark>
+* ropinirole : 0.25 ㎎ qd(hs) → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd <mark style="color:blue;">\[리큅]</mark>
 * rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd <mark style="color:blue;">\[뉴프로 패취]</mark> (augmentation 기준 최대 용량 3 ㎎)
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
 * 충동조절장애 주의 : 병적 도박, 과식, 과성욕, 충동구매 등이 발생할 수 있음 - 특히 pramipexole에서 보고 많음; 매 방문마다 확인 필요
