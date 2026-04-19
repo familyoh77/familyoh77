@@ -201,46 +201,62 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 ```mermaid
 graph TD
-    A([파킨슨증 의심<br/>bradykinesia + tremor/rigidity/보행장애]) --> B{Red flag 또는 <br/>비정형 소견?}
-    B -->|있음| C[즉각/조기 신경과 의뢰]
-    B -->|없음| D{약물 유발 가능성?}
-    D -->|있음| E[원인 약물 중단<br/>수주~6개월 경과 관찰]
+    A([파킨슨증 의심\nbradykinesia / resting tremor\nrigidity / 보행 변화]) --> B{비정형 소견\nRed flag?}
+    B -->|있음| C[신경과 의뢰]
+    B -->|없음| D{약물 유발\n가능성?}
+    D -->|있음| E[원인 약물 중단\n수주~6개월 관찰]
     E --> F{회복?}
-    F -->|불완전 또는 6개월 이상 지속| C
+    F -->|6개월 이상 불완전 회복| C
     F -->|회복| G([약물 유발 파킨슨증])
-    D -->|없음| H[임상 진단 기준 적용<br/>MDS criteria]
-    H --> I{bradykinesia + tremor <br/>또는 rigidity?}
-    I -->|불충족| J[타 원인 고려<br/>추적 관찰]
-    I -->|충족| K{일상 기능 영향?}
-    K -->|없음| L[운동 치료 + 교육<br/>추적 관찰]
-    K -->|있음| M{연령 및 인지?}
-    M -->|≥70세 또는 인지저하| N[Levodopa/Carbidopa 시작]
-    M -->|<60세, 인지 정상| O{증상 중증도?}
-    O -->|경미| P[MAO-B inhibitor 단독]
-    O -->|기능 영향| Q[Dopamine agonist 또는 병용]
-    O -->|중등도 이상| N
-    M -->|60~70세| R[Levodopa 또는<br/>DA ± MAO-B]
-    N --> S[4~6주 후 반응 평가]
-    P --> S
-    Q --> S
-    R --> S
-    S --> T{반응 충분?}
-    T -->|예| U[장기 추적<br/>운동 합병증 모니터링]
-    T -->|아니오<br/>levodopa 무반응| C
-    U --> V{Wearing-off 또는 Dyskinesia?}
-    V -->|Wearing-off| W[투여 간격 단축<br/>MAO-B 또는 COMT 추가]
-    V -->|Dyskinesia| X[Levodopa 감량<br/>Amantadine 추가]
-    V -->|조절 안됨| C
+    D -->|없음| H{MDS 임상 진단 기준\nbradykinesia +\ntremor 또는 rigidity?}
+    H -->|불충족| I[타 원인 고려\n추적 관찰]
+    H -->|충족 + 지지 소견| J([파킨슨병 임상 진단])
+    H -->|진단 불확실\natypical 의심| K[검사 시행\nMRI / DaTscan]
+    K --> C
 
     style C fill:#f96,stroke:#e65100,stroke-width:2px
     style G fill:#b2dfdb,stroke:#004d40,stroke-width:1px
-    style L fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-    style U fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style J fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
 ```
 
-<p align="center"><strong>파킨슨병 1차 진료 진단 및 치료 알고리즘</strong></p>
+<p align="center"><strong>파킨슨병 진단 알고리즘</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. MDS Clinical Diagnostic Criteria 2015; MDS Treatment Guidelines 2023</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. MDS Clinical Diagnostic Criteria, Mov Disord 2015</mark></em></p>
+
+***
+
+```mermaid
+graph TD
+    A([파킨슨병 진단]) --> B{일상 기능\n영향?}
+    B -->|없음| C[운동 치료 + 교육\n추적 관찰]
+    B -->|있음| D{연령 및 인지}
+    D -->|≥70세 또는\n인지 저하| E[Levodopa 우선]
+    D -->|60~70세| F[Levodopa 또는\nDA ± MAO-B]
+    D -->|<60~65세\n인지 정상| G{증상 중증도}
+    G -->|경미| H[MAO-B inhibitor]
+    G -->|기능 영향| I[Dopamine agonist]
+    G -->|기능 영향 큼| E
+    E --> J[4~6주 반응 평가]
+    F --> J
+    H --> J
+    I --> J
+    J --> K{반응?}
+    K -->|무반응| L[신경과 의뢰]
+    K -->|충분| M[장기 추적\n운동·비운동 증상 모니터링]
+    M --> N{합병증 발생?}
+    N -->|Wearing-off| O[투여 간격 단축\nMAO-B 또는 COMT 추가]
+    N -->|Dyskinesia| P[Levodopa 감량\nAmantadine 추가]
+    N -->|정신증| Q[항파킨슨제 감량\nQuetiapine 고려]
+    N -->|조절 불가| L
+
+    style L fill:#f96,stroke:#e65100,stroke-width:2px
+    style C fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style M fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+```
+
+<p align="center"><strong>파킨슨병 치료 알고리즘</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. MDS Treatment Guidelines 2023</mark></em></p>
 
 ***
 
