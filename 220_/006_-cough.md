@@ -190,10 +190,10 @@ graph TD
     
 ```
 
-_1) 증상 지속 시 아급성 및 만성 기침 알고리듬에 따름_ \
-_2) 검사가 어려울 경우 경험적 치료를 고려할 수 있음_
+_1) 증상 지속 시 아급성 및 만성 기침 알고리듬에 따름_\
+&#xNAN;_&#x32;) 검사가 어려울 경우 경험적 치료를 고려할 수 있음_
 
-<p align="center"><strong>급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 기침진료지침. 2014.</mark></em></p>
+<p align="center"><strong>급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 기침진료지침. 2014.</mark></em></p>
 
 ***
 
@@ -223,7 +223,7 @@ graph TD
 
 _\*임상적 특성을 고려하여 Pertussis 또는 Mycoplasma 감염이 의심되면 이에 대한 검사 및 치료를 시행할 수 있음_
 
-<p align="center"><strong>아급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 기침진료지침. 2014.</mark></em></p>
+<p align="center"><strong>아급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 기침진료지침. 2014.</mark></em></p>
 
 ***
 
@@ -261,7 +261,7 @@ graph TD
 1\) 비특이적 만성기침: 병력청취, 신체검진,기본 검사상 기침 관련 원인이 추정되지 않는 경우\
 2\) 특이적 만성기침의 원인들 •ACE inhibitor, 흡연 •비염, 부비동염 •천식 •위식도역류질환 •(소아) 지속성 세균성 기관지염 •감염성, 악성 질환 등
 
-<p align="center"><strong>만성기침의 진단과 치료</strong><br><em><mark style="color:$info;">Ref. 만성기침 진료지침. 대한천식알레르기학회. 2018.</mark></em></p>
+<p align="center"><strong>만성기침의 진단과 치료</strong><br><em><mark style="color:$info;">Ref. 만성기침 진료지침. 대한천식알레르기학회. 2018.</mark></em></p>
 
 ***
 
@@ -273,7 +273,7 @@ graph TD
 * 직업적 노출 회피 또는 차단; 미세먼지·황사 등 대기오염 심한 날에는 외출 자제 및 보건용 마스크(KF80 이상) 착용 권고
 * 원인 치료, 기저 질환 치료
 * 대증 치료 : [진해제](../223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../223_/060_-common-cold.md#decongestant), [흡입 steroid](../222_/051_-allergic-rhinitis.md#steroid)
-* ACEI를 복용 중인 경우 ARB(안지오텐신 수용체 차단제)로 교체&#x20;
+* ACEI를 복용 중인 경우 ARB(안지오텐신 수용체 차단제)로 교체
   * ARB는 bradykinin 경로에 영향을 주지 않으므로 기침 부작용이 현저히 낮음
 
 #### <mark style="color:$primary;">기침 억제 재활 치료 (Cough Suppression Therapy)</mark>
@@ -324,20 +324,20 @@ graph TD
 **Gabapentinoid (α2δ Ligands)**
 
 * 기침에 대한 확립된 용법 기준은 없으며, 신경병증성 통증 용량 범위를 참고하여 저용량에서 시작 후 반응에 따라 증량 (보험주의- 환자에게 비급여 사용임을 처방 전에 설명)
-* **Gabapentin** <mark style="color:blue;">\[뉴론틴]</mark>&#x20;
+* **Gabapentin** <mark style="color:blue;">\[뉴론틴]</mark>
   * 300 ㎎ qd hs → 1주 후 300 ㎎ bid → 2주 후 300 ㎎ tid, 최대 600 ㎎ tid
   * 반응과 내약성에 따라 조정. 4주 시점에 치료 반응 평가
   * 신기능 저하 시 감량 (☞ [Gabapentinoid](001_-pain.md#gabapentinoid-a2d-ligands))
-* **Pregabalin** <mark style="color:blue;">\[리리카]</mark>&#x20;
+* **Pregabalin** <mark style="color:blue;">\[리리카]</mark>
   * 75 ㎎ qd hs → 1주 후 75 ㎎ bid. 최대 150 ㎎ bid
   * 신기능 저하 시 감량 (☞ [Gabapentinoid](001_-pain.md#gabapentinoid-a2d-ligands))
 
-**Amitriptyline**&#x20;
+**Amitriptyline**
 
 * 시작 10 ㎎ qd hs → 2주 간격으로 10 ㎎씩 증량. 최대 25 mg qd hs <mark style="color:blue;">\[에트라빌]</mark> (보험주의; 사전 설명 필요)
 * 노인 환자 : 10 ㎎ qd hs 유지 권장 (항콜린 부작용 위험)
 
-**P2X3 수용체 길항제**&#x20;
+**P2X3 수용체 길항제**
 
 * **Gefapixant** <mark style="color:blue;">\[Lyfnua]</mark>가 난치성/불명확 만성 기침에 대해 일본·유럽에서 승인됨(미국 FDA는 효과의 실질적 근거 미충족으로 미승인). 주요 부작용은 미각 장애(dysgeusia; 약 50%에서 발생). 국내 미승인. 차세대 P2X3 길항제인 camlipixant 등이 임상시험 진행 중
 
@@ -351,7 +351,7 @@ graph TD
     • 동반 증상: throat, chest, gastrointestinal
     • 위험 인자: ACEI 복용, 흡연, 수면무호흡증<br/>• 신체검사: throat, chest, ear"]
 
-    Start --> Routine["<u>Routine evaluation</u><br/>• 흉부 X선<br/>• 폐 기능 검사<br/>• FENO(1)
+    Start --> Routine["<u>Routine evaluation</u><br/>• 흉부 X선<br/>• 폐 기능 검사<br/>• FENO¹⁾
     • 혈중 eosinophils"]
     
     Start --> Initial["<u>Initial management</u><br/>• 위험 인자 중단
@@ -362,10 +362,10 @@ graph TD
 
     FU --> Improved["<u>호전</u><br/>• 3개월 간 치료 유지 후 점차 줄여 나감"]
     FU --> NotImproved["<u>호전 되지 않음</u>
-    • 저용량 opiate(3)<br/> • promotility agent<br/>• gabapentin<br/>• pregabalin<br/>• 기침 조절 치료()4"]
+    • 저용량 opiate³⁾<br/> • promotility agent<br/>• gabapentin<br/>• pregabalin<br/>• 기침 조절 치료⁴⁾"]
 
     FU --> AddEval["<u>대상이 되는 경우 추가 평가</u><br/>• 고해상도 식도 manometry<br/>• 유도객담 검사
-    • AAFB 객담 검사(2)<br/>• Laryngoscope<br/>• Methacholine challenge<br/>• Chest CT<br/>• Bronchoscopy"]
+    • AAFB 객담 검사²⁾<br/>• Laryngoscope<br/>• Methacholine challenge<br/>• Chest CT<br/>• Bronchoscopy"]
 
     %% 스타일 설정
     style Start fill:#f3e5f5,stroke:#9c27b0
@@ -377,12 +377,12 @@ graph TD
     style AddEval fill:#f5f5f5,stroke:#333
 ```
 
-_1) fractional exhaled nitric oxide_ \
-_2) alcohol and acid-fast bacilli_\
-_3) 예: morphine 5\~10 ㎎ bid×1\~2주_ \
-_4)발음/언어/물리 치료 등_
+_1) fractional exhaled nitric oxide_\
+&#xNAN;_&#x32;) alcohol and acid-fast bacilli_\
+&#xNAN;_&#x33;) 예: morphine 5\~10 ㎎ bid×1\~2주_\
+&#xNAN;_&#x34;)발음/언어/물리 치료 등_
 
-<p align="center"><strong>만성 기침 관리 알고리듬</strong><br><em><mark style="color:$info;">Ref. ERS guidelines on the diagnosis &#x26; treatment of chronic cough in adults &#x26; children. 2019</mark></em></p>
+<p align="center"><strong>만성 기침 관리 알고리듬</strong><br><em><mark style="color:$info;">Ref. ERS guidelines on the diagnosis &#x26; treatment of chronic cough in adults &#x26; children. 2019</mark></em></p>
 
 ***
 
@@ -409,8 +409,6 @@ R05 기침
 > ```
 >
 > _✽ Codeine 함유 제제는 상기도기침증후군의 적응에 해당하지 않으며, routine 기침에는 권장되지 않음. Refractory chronic cough에서만 단기 한정 고려._
->
->
 >
 > **처방례 2. 신체증상성 기침 장애 (Somatic Cough Disorder)**
 >
