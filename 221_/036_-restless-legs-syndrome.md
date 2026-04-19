@@ -31,14 +31,14 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* 원발성 (early-onset) : 뇌의 도파민 작용 저하 및 뇌 철분 결핍 추정
+* 원발성 (early-onset) : 뇌의 도파민 작용 저하 및 뇌 철분 결핍 추정; 최근 glutamate 매개 시상-피질 과각성(thalamocortical hyperarousal)도 중요 기전으로 제시됨
 * 속발성 (late-onset) : 철분 결핍(뇌 철분 결핍), 신부전, 말초신경병증, 스트레스, 임신, 호르몬 변화, 알코올, 카페인, 약물
   * 약물
     * 항우울제 : SSRI/SNRI, mirtazapine
     * 항정신병제
     * 1세대 항히스타민제,&#x20;
     * 도파민 차단제(metoclopramide, domperidone\*), cholinesterase 억제제(donepezil))\
-      \* _domperidone은 BBB 투과율이 낮아 metoclopramide보다 RLS 유발 위험이 상대적으로 낮으나, 장기·고용량 사용 시 주의_
+      \* _domperidone은 BBB 투과율이 낮아 RLS 유발은 이론적으로 가능하나 임상적 유의성은 낮음_
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -52,7 +52,6 @@
 * 불쾌한 이상 감각 : 움직이고 싶은 충동, 벌레가 기어 다니는 느낌, 불안정감, 가려움, 통증; 피부보다 깊은 부위에서의 느낌
 * 활동으로 호전, 비활동으로 재발
 * 발생 빈도 : 다양(매일 \~ ＜1회/월)
-* 움직임 충동 지속 시간 : 10\~90초(평균 25초)
 * 발생 시기 : 저녁\~밤(주로 잠들기 전); 낮에도 발생할 수 있음
 * 중증도 : 다양(무시할 만함\~생활에 지장을 줌)
 * 동반 증상 : 수면 장애(수면 개시 어려움), 피로, 불안, 주간 졸음
@@ -63,7 +62,7 @@
 * 철분 검사지:  아침 공복, 철분 보충제 24시간 중단 후 채혈; ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
 * 도파민 약물 치료에 대한 반응 평가
-* 필요시 수면다원검사(polysomnography) - PLMD 동반 여부 확인
+* 필요시 수면다원검사(polysomnography) - 대부분 임상 진단으로 충분, 일상적으로 불필요; PLMD 동반 의심·감별 진단 불확실 시에만 시행
 
 ### <mark style="color:orange;">진단 기준</mark> \[IRLSSG 2014]
 
@@ -153,7 +152,7 @@
 
 * 주간의 활발한 활동, 규칙적 운동(지나친 운동은 피함), 저녁 때 가벼운 걷기
 * 적절한 규칙적 수면
-* 수면무호흡증(OSA) 동반 시 CPAP 치료 - OSA 치료만으로 RLS 호전되는 경우 있음
+* 수면무호흡증(OSA) 동반 시 CPAP 치료 - OSA 치료 후 RLS 호전되는 경우 있음; 일부에서는 CPAP 치료 후 RLS가 드러나기도 함(unmasking)
 * 다리 마사지, 온찜질, 다리 보온(긴 양말)
 * 저녁 때 알코올, 카페인, 니코틴 회피
 * 활발한 두뇌 활동(게임, 퍼즐)
@@ -187,7 +186,7 @@
 
 #### <mark style="color:$primary;">Gabapentinoids (Alpha-2-delta 칼슘 채널 길항제)</mark>
 
-* 1차 선택&#x20;
+* 1차 선택 — **국내 실무에서는 gabapentin(뉴론틴)·pregabalin(리리카)이 사실상 표준** (gabapentin enacarbil 국내 미발매)&#x20;
 * 장점 : augmentation 없음, 수면 개선, 불안/통증 동반 시 유리
 * 주의 : 어지럼 → 낙상; 졸림 → daytime sedation; 부종; 신기능 따라 감량 필수
 * 용법 : 증상 발생 1\~2시간 전 저녁 복용 (고령자에서는 low & slow)
@@ -196,16 +195,17 @@
 
 <table><thead><tr><th width="142">CrCl (mL/min)</th><th width="190">Gabapentin 최대 용량</th><th width="172">Pregabalin 최대 용량</th></tr></thead><tbody><tr><td>≥60</td><td>1,800~2,400 ㎎/d</td><td>300~450 ㎎/d</td></tr><tr><td>30~59</td><td>700 ㎎/d</td><td>150 ㎎/d</td></tr><tr><td>15~29</td><td>300 ㎎/d</td><td>75 ㎎/d</td></tr><tr><td>&#x3C;15</td><td>150 ㎎/d</td><td>25~50 ㎎/d</td></tr></tbody></table>
 
-* gabapentin : 100\~300 ㎎ qd (저녁) → 증상에 따라 최대 1,800\~2,400 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>
+* gabapentin : 100\~300 ㎎ qd (저녁) → 일반적 유효 용량 300–900 ㎎/d; 1,800\~2,400 ㎎/d는 정상 신기능 시 허용 최대 용량(고용량은 제한적 상황) <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 25\~75 ㎎ qd (저녁) → 최대 300\~450 ㎎/d <mark style="color:blue;">\[리리카]</mark>
-* gabapentin enacarbil : 600 ㎎/d (저녁) - 국내 미발매; FDA 유일 RLS 승인 gabapentinoid
+* gabapentin enacarbil : 600 ㎎/d (저녁) - 국내 미발매; FDA 유일 RLS 승인 gabapentinoid; prodrug 기전으로 흡수 변동성 감소, 일반 gabapentin 대비 약동학 안정성 향상
 
 #### <mark style="color:$primary;">도파민 작용제</mark>
 
 * 장기 사용 조건부 권고 반대 (2024 AASM)
 * gabapentin 계열 불내성/금기 시, 단기 사용(빠른 효과가 필요한 경우) 제한적 선택&#x20;
 * Augmentation 발생 시 즉시 감량·중단 (용량 증량 금지)
-* pramipexole : 0.125 ㎎ qd(hs) → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd <mark style="color:blue;">\[미라펙스]</mark>
+* pramipexole : 0.125 ㎎ qd(hs) → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd <mark style="color:blue;">\[미라펙스]</mark>\
+  _✽ RLS 유효 용량(0.125–0.5 mg)은 파킨슨병(최대 4.5 mg/d)보다 훨씬 낮음 — 파킨슨병 용량 기준으로 처방하지 않도록 주의_
 * ropinirole : 0.25 ㎎ qd(hs) → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd <mark style="color:blue;">\[리큅]</mark>
 * rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd <mark style="color:blue;">\[뉴프로 패취]</mark> (augmentation 기준 최대 용량 3 ㎎)
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
@@ -222,7 +222,12 @@
   * 상지·몸통 등 다른 신체 부위로 증상 확산
   * 전반적 증상 강도 증가
 * 발생률 : 연간 7\~10% → 3년 누적 20\~30%, 5년 35\~50%
-* 증상이 심해졌다고 증량하면 augmentation이 가속화됨. 증량 절대 금지
+* Augmentation 위험 인자
+  * 도파민 작용제 고용량 또는 장기 사용
+  * levodopa 사용 (dopamine agonist보다 augmentation 위험 높음)
+  * ferritin 낮음 (< 75 ng/mL)
+  * 장기 사용 기간
+* 증상이 심해졌다고 증량하면 augmentation이 가속화됨. **Augmentation 의심 시 증량 금지** (초기 titration 시 용량 증량은 용법에 따라 허용)
 * 2024 AASM 가이드라인은 도파민 작용제에 대해 장기 사용 조건부 권고 반대 명시
 * Augmentation 발생 시 교체 전략 (Tapering + Overlapping)
   1. gabapentin 계열을 먼저 시작하고 최소 2주 이상 중복 투여 기간(overlapping) 확보
@@ -238,14 +243,24 @@
 #### <mark style="color:$primary;">Opioid (조건부 권고)</mark>
 
 * 적응 : 중등\~중증 RLS로 gabapentin 계열 불충분한 경우; 도파민 작용제 augmentation 발생 시 tapering 보조 목적
-* 취침 시 저용량 투여; 중추성 수면무호흡증 주의 (고용량 시)
+* **사용 원칙 : refractory RLS에 한해 전문가 감독하(specialist setting) 제한적 사용**
+
+{% hint style="danger" %}
+⚠️ **Opioid 처방 시 주의**
+
+* 의존성·오남용 위험 — 복용 기간 최소화, 주기적 재평가 필요
+* 국내 마약성 진통제 처방 장벽(규제, 서류, 진료 기록) 고려
+* 중추성 수면무호흡증 위험 — 특히 고용량 또는 다른 진정제 병용 시
+{% endhint %}
+
+* 취침 시 저용량 투여
 * oxycodone CR : 5\~20 ㎎/d <mark style="color:blue;">\[옥시콘틴]</mark>
 * tramadol : 50\~100 ㎎/d <mark style="color:blue;">\[트라마돌]</mark>
 * hydrocodone : 5\~20 ㎎/d <mark style="color:blue;">\[하이코돈]</mark>
 
 #### <mark style="color:$primary;">기타 (조건부 권고)</mark>
 
-* dipyridamole : 100\~200 ㎎/d; 아데노신 기전 <mark style="color:blue;">\[페르산틴]</mark>
+* dipyridamole : 100\~200 ㎎/d; 아데노신 기전; 소규모 RCT 근거, 임상 적용 제한적 (experimental) <mark style="color:blue;">\[페르산틴]</mark>
 * clonidine : 0.05\~0.1 ㎎/d <mark style="color:blue;">\[켑베이]</mark>
 * baclofen : 20\~80 ㎎/d <mark style="color:blue;">\[바크론]</mark>
 * Vit/미네랄 보충 : Mg, Vit B12, folate (근거 제한적; 결핍 시 보충)
@@ -266,6 +281,13 @@
 * 증상 심한 경우 산부인과 또는 신경과 협진 권장
 
 _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.</mark>_
+
+#### <mark style="color:$primary;">소아 RLS</mark>
+
+* 소아·청소년에서도 발생; 성인 RLS 기준 4가지를 충족해야 하며 소아 언어로 증상 확인 필요
+* **ADHD와 연관** : 소아 RLS의 상당수가 ADHD 증상을 동반; RLS로 인한 수면 장애가 주의력 저하·과잉행동으로 표현될 수 있음
+* **철분 결핍** : 소아 RLS의 가장 중요한 가역적 원인 — ferritin 검사 및 보충이 1차 조치
+* 약물 치료 : 소아에서 RLS 적응증으로 허가된 약물 없음; 철분 보충 후에도 지속 시 소아신경과 의뢰
 
 ***
 
@@ -312,7 +334,7 @@ G25.81 하지불안증후군
 > ※ 장기 사용 시 augmentation 위험 (연간 7~10%) — 매 방문마다 모니터링 필수
 > ※ 충동조절장애(병적 도박, 과식, 충동구매 등) 발생 가능 — 매 방문마다 확인
 > ※ 증상이 낮 시간대로 앞당겨지거나 팔로 확산 시 즉시 내원
-> ※ 용량 증량 금지 — 증량은 augmentation을 가속화함
+> ※ Augmentation 의심 시 증량 금지 — 증량은 augmentation을 가속화함 (초기 titration 제외)
 > ※ 최대 0.5 ㎎/d 초과 금지
 > ```
 >
@@ -350,6 +372,8 @@ G25.81 하지불안증후군
 **하지불안증후군, 함께 이해하고 관리하기**
 
 하지불안증후군은 적절한 치료와 생활 관리로 충분히 조절될 수 있는 질환입니다.
+
+💡 **핵심 메시지** : 가만히 있을수록 증상이 악화되고, 움직이면 호전된다면 하지불안증후군을 의심할 수 있습니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">하지불안증후군이란 무엇인가요?</mark>

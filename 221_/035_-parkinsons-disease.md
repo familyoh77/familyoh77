@@ -105,7 +105,7 @@
 
 * bradykinesia + 다음 중 ≥1개
   * muscular rigidity
-  * 4\~6 ㎐ resting tremor
+  * 4\~6 ㎐ resting tremor _(전형적 범위; 임상에서는 3\~8 ㎐ 범위도 드물게 보고되나, 4\~6 ㎐가 진단적 변별력이 있는 핵심 범위임)_
 
 **지지 기준 (Supportive criteria)** - 진단 가능성을 높임
 
@@ -114,6 +114,18 @@
 * 편측 발생으로 시작
 * 안정 시 떨림 존재
 * 후각 상실 또는 심장 교감 신경 탈신경 (MIBG 스캔)
+
+{% hint style="info" %}
+**Levodopa Challenge Test (진단 보조)**
+
+진단이 불확실한 경우 levodopa 반응을 직접 확인하는 방법:
+
+* **준비** : 전날 밤부터 기존 항파킨슨 약물 중단 (washout 12시간 이상); 검사 전 공복 유지
+* **투여** : levodopa/carbidopa 250/25 ㎎ (또는 300/75 ㎎) 1회 경구 투여
+* **평가** : 투여 후 45\~60분 시점에 운동 기능(UPDRS III 또는 timed test) 평가
+* **양성 판정** : 기저치 대비 운동 기능 **30% 이상 개선** → PD 강력 지지
+* **주의** : 구역·저혈압 발생 가능; 고령자는 투여 후 30분간 앉아서 관찰
+{% endhint %}
 
 **절대 배제 기준 (Absolute exclusion criteria)**
 
@@ -336,7 +348,7 @@ graph TD
 * 부작용 : 구역, 기립성 저혈압, 졸림, 생생한 꿈, 충동 장애(도박, 과식, 과성욕 등), 착란, 하지 부종, 어지럼
 * 금기/주의 : 인지 저하 / 치매, 환각 병력, 충동조절장애 (도박, 과소비, 성욕 증가), 고령 (≥70), 심한 졸림 (운전 직업), 부종, 심부전
 * pramipexole : 시작 0.125 ㎎ tid, 서방형 0.375 ㎎ qd; 최대 4.5 ㎎/d <mark style="color:blue;">\[미라펙스]</mark>
-* ropinirole : 시작 0.25 ㎎ tid, 서방형 2 ㎎ qd; 최대 8 ㎎ tid(24 ㎎/d; 임상에서는 통상 16 ㎎/d 이하에서 사용) <mark style="color:blue;">\[리큅]</mark>
+* ropinirole : 시작 0.25 ㎎ tid, 서방형(XL) 2 ㎎ qd; 최대 속방형 8 ㎎ tid(24 ㎎/d), 서방형 24 ㎎ qd; 임상에서는 통상 16 ㎎/d 이하에서 사용 <mark style="color:blue;">\[리큅, 리큅 XL]</mark>
 * rotigotine : 2 ㎎/d; 최대 16 ㎎/d <mark style="color:blue;">\[뉴프로 패취]</mark> - 패취 제형으로 지속적 도파민 자극(continuous dopaminergic stimulation, CDS) 효과; wearing-off 및 야간 증상 개선에 유리
 * bromocriptine : 시작 1.25 ㎎ bid; 최대 90 ㎎/d <mark style="color:blue;">\[팔로델]</mark>
 * apomorphine : 주사제; 시작 2 ㎎; 최대 6 ㎎
@@ -393,7 +405,7 @@ graph TD
 * 콧물 : 비내 ipratropium
 * 변비 : 충분한 수분/식이 섬유 섭취, 활동; polyethylene glycol, lubiprostone, probiotics (☞ [변비](../224_/082_-constipation.md))
 * 치매 : [알츠하이머병](033_-dementia.md#undefined-17) 치료제 적용; rivastigmine, donepezil, galantamine, memantine
-* psychosis(망상, 환각) : 항도파민제가 원인으로 의심되는 경우 감량 또는 교체 고려; pimavanserin (선택적 5-HT2A inverse agonist; 2016 FDA 승인, 가이드라인 1차 선택; 국내 미허가 - 희귀의약품으로 접근성 매우 제한적); quetiapine 저용량(12.5\~50 ㎎ qhs) - 국내 실질적 1차 선택 (운동 증상 악화 적음, 다만 근거 수준은 중등도); clozapine (가장 강력한 근거; 혈액 모니터링 필수로 사용 제한)
+* psychosis(망상, 환각) : 항도파민제가 원인으로 의심되는 경우 감량 또는 교체 고려; **pimavanserin** (선택적 5-HT2A inverse agonist; 2016 FDA 승인, 가이드라인 1차 선택; 국내 미허가 — 희귀의약품으로 접근성 매우 제한적); **quetiapine** 저용량(12.5\~50 ㎎ qhs) — 국내 실질적 1차 선택 (운동 증상 악화 적음, 다만 근거 수준은 중등도; α1 차단 효과로 기립성 저혈압 악화 가능 — 파킨슨병 기저 자율신경 기능 저하 환자에서 주의); **clozapine** (가장 강력한 근거; 혈액 모니터링 필수로 사용 제한)
 
 ***
 
