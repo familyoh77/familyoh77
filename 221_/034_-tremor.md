@@ -78,9 +78,12 @@ _<mark style="color:$info;">1) 떨림 유발 약물 : amphetamines, 카페인, c
 
 #### <mark style="color:$primary;">진단 기준</mark> \[2018 MDS Consensus Statement]
 
-* **확진 (Definite)** : 양측 상지의 postural &/or kinetic tremor가 3년 이상 지속 + 다른 신경학적 징후 없음
-* **유사 (Probable)** : 위 기준을 충족하나 이환 기간이 3년 미만; 또는 머리·목소리 떨림이 단독으로 존재하나 이완 시 소실
-* **Essential tremor plus** : ET 진단 기준은 충족하나 경미한 추가 신경학적 징후 동반; 구체적으로 경미한 인지기능 저하, mild dystonia, tandem 보행 장애 등이 해당; ET와 구분되는 별도 카테고리; 예후·병태생리적으로 ET와 다를 가능성이 있어 정기 추적 필요
+* 확진 (Definite) : 양측 상지의 postural &/or kinetic tremor가 3년 이상 지속 + 다른 신경학적 징후 없음
+* 유사 (Probable) : 위 기준을 충족하나 이환 기간이 3년 미만; 또는 머리·목소리 떨림이 단독으로 존재하나 이완 시 소실
+* Essential tremor plus&#x20;
+  * ET 진단 기준은 충족하나 경미한 추가 신경학적 징후 동반; ET와 구분되는 별도 카테고리
+  * 구체적으로 경미한 인지기능 저하, mild dystonia, tandem 보행 장애 등이 해당
+  * 예후·병태생리적으로 ET와 다를 가능성이 있어 정기 추적 필요
 * 다음이 있으면 essential tremor에서 제외 : resting tremor 단독, 다른 원인 가능 약물 복용, 편측 발생, 파킨슨 징후(서동·경직)
 
 #### <mark style="color:$primary;">떨림 양상</mark>
@@ -157,12 +160,12 @@ flowchart TD
 
     F --> I{Pattern 감별}
     I --> J["양측 손+머리+음성 가족력, <br/>알코올 반응 <br/>→ Essential tremor"]
-    I --> K["고주파·가역적 불안/갑상선/약물 <br/>→ EPT: 원인 교정"]
+    I --> K["고주파·가역적 불안/<br/>갑상선/약물 <br/>→ EPT: 원인 교정"]
     I --> L["기립 시만 다리 떨림 보행 시 호전 → Orthostatic tremor"]
     I --> M["변동성·distractibility entrainment 양성 <br/>→ Functional tremor"]
     I --> N["intention tremor 실조·편측 → 소뇌 병변 배제: MRI"]
 
-    J --"최소 검사- TSH·Glucose·LFT 전해질·B12; <br/><50세에서 Wilson 검사"--> P{치료 필요?}
+    J --"최소 검사- TSH·Glucose·<br/>LFT 전해질·B12; <br/><50세에서 Wilson 검사"--> P{치료 필요?}
     P -- "경증·일상 지장 없음" --> Q[비약물 치료 + 경과 관찰]
     P -- "중등도 이상" --> R[금기 확인]
     R -- "천식·서맥 없음" --> S["1차: Propranolol 10 ㎎ bid 시작. 목표 40~320 ㎎/d"]

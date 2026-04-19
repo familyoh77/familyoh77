@@ -25,10 +25,18 @@
 
 * 가족력, 고령
 * 반복적 head trauma, 독소(예: 살충제) 노출, 방사선 노출
-* 약물 : 위장 운동 촉진제(metoclopramide, levosulpiride), 항정신병제(chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, lithium, valproic acid), 항우울제(fluoxetine), 심혈관제(amiodarone, diltiazem, reserpine, methyldopa)
-  * 니코틴과 카페인이 파킨슨병의 위험을 줄이거나 발생을 지연시킨다는 보고가 있음
-  * 파킨슨병 환자의 구역·구토 치료 시 주의 : metoclopramide, levosulpiride는 BBB를 통과하여 파킨슨 증상을 급격히 악화시킴 → domperidone(모티리움 등)은 BBB 투과율이 낮아 상대적으로 안전한 대안; 단, 장기·고용량 사용 시에는 주의가 필요하므로 단기 최소 용량으로 사용; 파킨슨 환자에서 항구토제 처방 시 반드시 우선 선택
-  * 약물 유발 파킨슨증(drug-induced parkinsonism) : 위 약물들에 의한 증상은 약물 중단 후 수 주\~6개월 이상에 걸쳐 서서히 회복됨 - 즉각 회복을 기대하지 않도록 환자에게 설명 필요; 회복이 불완전하거나 6개월 이상 지속되는 경우 기저 파킨슨병 가능성을 고려하여 신경과 의뢰
+*   약물&#x20;
+
+    * 위장 운동 촉진제 : metoclopramide, levosulpiride
+    * 항정신병제 : chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, lithium, valproic acid
+    * 항우울제 : fluoxetine
+    * 심혈관제 : amiodarone, diltiazem, reserpine, methyldopa
+
+    ※ 니코틴과 카페인이 파킨슨병의 위험을 줄이거나 발생을 지연시킨다는 보고가 있음
+
+    ※ 파킨슨병 환자의 구역·구토 치료 시 주의 : metoclopramide, levosulpiride는 BBB를 통과하여 파킨슨 증상을 급격히 악화시킴 → domperidone(모티리움 등)은 BBB 투과율이 낮아 상대적으로 안전한 대안; 단, 장기·고용량 사용 시에는 주의가 필요하므로 단기 최소 용량으로 사용; 파킨슨 환자에서 항구토제 처방 시 반드시 우선 선택
+
+    ※ 약물 유발 파킨슨증(drug-induced parkinsonism) : 위 약물들에 의한 증상은 약물 중단 후 수 주\~6개월 이상에 걸쳐 서서히 회복됨 - 즉각 회복을 기대하지 않도록 환자에게 설명 필요; 회복이 불완전하거나 6개월 이상 지속되는 경우 기저 파킨슨병 가능성을 고려하여 신경과 의뢰
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -238,9 +246,16 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * carbidopa와 benserazide는 levodopa의 말초 전환을 억제하며 이들 약제를 병용함으로써 levodopa의 투여량과 부작용 발생을 줄일 수 있음
 * 갑작스런 투여 중단은 neuroleptic malignant syndrome을 일으킬 수 있음
 * 부작용 : 구역, 두통, 저혈압, 어지럼, 착란, 부정맥, dyskinesia(장기 사용 시)
-* 금기 : 정신 질환, 폐쇄각 녹내장 (개방각 녹내장은 해당 없음)
+* 금기/주의 : 활동성 정신병 (psychosis), 폐쇄각 녹내장, 심한 기립성 저혈압, 심한 dyskinesia 병력
 * levodopa/carbidopa : 시작 100/25 ㎎ 0.5\~1T tid; 최대 levodopa로 1,500 ㎎ #2\~4 <mark style="color:blue;">\[시네메트]</mark>
 * L-dopa/benserazide : 100/25 ㎎, 100/50 ㎎ <mark style="color:blue;">\[마도파]</mark>
+* 치료 반응 조절
+  * low dose 시작 → 점진 증량
+  * 반응 부족 : Levodopa → 증량; DA → levodopa 추가
+  * Wearing-off 발생 : 투여 간격 단축(예: q6h → q4h), MAO-B 추가, COMT 추가
+  * Dyskinesia : levodopa 감량, amantadine 추가
+  * Tremor refractory : anticholinergic (젊은 환자) 또는 DBS 고려
+* 공복 복용 : 식이 단백질이 levodopa의 흡수를 방해함; 아침·점심에는 저단백 식사, 저녁에 단백질 집중 섭취 방법도 고려
 
 #### <mark style="color:$primary;">Dopamine agonists</mark>
 
@@ -249,6 +264,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * 단독 또는 levodopa와 병용
 * DAWS (Dopamine Agonist Withdrawal Syndrome) : 투여 중단 시 불안, 공황 발작, 발한, 통증, 약물 갈망 등의 금단 증상이 levodopa보다 심하게 나타날 수 있음; 반드시 서서히 감량
 * 부작용 : 구역, 기립성 저혈압, 졸림, 생생한 꿈, 충동 장애(도박, 과식, 과성욕 등), 착란, 하지 부종, 어지럼
+* 금기/주의 : 인지 저하 / 치매, 환각 병력, 충동조절장애 (도박, 과소비, 성욕 증가), 고령 (≥70), 심한 졸림 (운전 직업), 부종, 심부전
 * pramipexole : 시작 0.125 ㎎ tid, 서방형 0.375 ㎎ qd; 최대 4.5 ㎎/d <mark style="color:blue;">\[미라펙스]</mark>
 * ropinirole : 시작 0.25 ㎎ tid, 서방형 2 ㎎ qd; 최대 8 ㎎ tid(24 ㎎/d) <mark style="color:blue;">\[리큅]</mark>
 * rotigotine : 2 ㎎/d; 최대 16 ㎎/d <mark style="color:blue;">\[뉴프로 패취]</mark>
@@ -259,6 +275,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 * 내약성 좋음
 * 부작용 : 구역, 두통, 수면 장애, 환각; SSRI, TCA, meperidine 병용 회피
+* 금기/주의 : SSRI/SNRI/TCA 병용(절대 금기 아님, 모니터링 필요), 심한 불면 (특히 selegiline)
 * selegiline : 5 ㎎ 아침; 최대 10 ㎎ #2(아침/점심) — 저녁 복용 시 불면 유발 가능 <mark style="color:blue;">\[마오비]</mark>
 * rasagiline : 시작 0.5 ㎎ qd; 최대 1 ㎎/d <mark style="color:blue;">\[아질렉트]</mark>
 * safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d - levodopa 보조제; MAO-B 억제 외에 글루타메이트 방출 조절(Na⁺ 채널 차단) 기전을 추가로 가져 운동 기복(fluctuation) 및 파킨슨 관련 통증 개선에 유효 <mark style="color:blue;">\[엑사디고]</mark>
@@ -267,6 +284,7 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 * 도파민 반응을 연장시킴. levodopa에 반응하는 경우 부가 사용 (wearing-off 개선 목적)
 * 부작용 : 구역, 설사, 기립성 저혈압, 착란, 운동이상증, 간독성(tolcapone), 오렌지색 소변
+* 금기/주의 : 설사, dyskinesia 악화; 간독성 (tolcapone),&#x20;
 * entacapone : levodopa와 동시 복용 필수; 복용 횟수 많음; 200 ㎎, levodopa 복용 때마다; 최대 8T(1,600 ㎎)/d <mark style="color:blue;">\[콤탄]</mark>
 * tolcapone : 시작 100 ㎎ tid; 최대 800 ㎎/d; 간독성 위험, 간기능 모니터링 필수
 * opicapone : 1일 1회 복용으로 편의성 우수. entacapone 대비 On-time 연장 효과 강력; 25\\\~50 ㎎ qd (취침 전; levodopa 복용 최소 1시간 전후) <mark style="color:blue;">\[온젠티스]</mark>
@@ -275,12 +293,14 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 
 * 부작용 : 어지럼, 착란, 망상피반, 환각
 * amantadine : 시작 100 ㎎ qd → 100 ㎎ bid, 최대 400 ㎎/d <mark style="color:blue;">\[피케이멜즈]</mark>
+* 금기/주의 : 신부전 (용량 조절 필수), 고령(환각 risk ↑)
 
 #### <mark style="color:$primary;">Anticholinergics</mark>
 
 * tremor 및 rigidity 완화에 도움; 젊은 연령에서 심한 진전 조절을 위해 고려
 * 저용량으로 시작하여 점차 증량; 효과적이지 않으면 tapering
 * 부작용 : 입마름, 기억력/시각 장애, 소변 잔류; 고령자에서 인지 기능 저하 위험 주의
+* 금기/주의 : ≥65세, 인지 저하, 전립선 비대 (urinary retention), 녹내장
 * trihexyphenidyl : 1 ㎎ tid; 증량 2 ㎎ tid; 최대 15 ㎎/d <mark style="color:blue;">\[트리헥신]</mark>
 * benztropine : 0.5 ㎎ 취침 시; 최대 1 ㎎ bid <mark style="color:blue;">\[벤즈트로핀]</mark>
 
@@ -304,10 +324,6 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 * 변비 : 충분한 수분/식이 섬유 섭취, 활동; polyethylene glycol, lubiprostone, probiotics (☞ [변비](../224_/082_-constipation.md))
 * 치매 : [알츠하이머병](033_-dementia.md#undefined-17) 치료제 적용; rivastigmine, donepezil, galantamine, memantine
 * psychosis(망상, 환각) : 항도파민제가 원인으로 의심되는 경우 감량 또는 교체 고려; quetiapine 저용량(12.5\~50 ㎎ qhs)이 실질적 1차 선택 (운동 증상 악화 적음); clozapine (혈액 모니터링 필요); pimavanserin (파킨슨 정신증 최초 적응 허가 약물; 2016 FDA 승인; 국내 미허가 - 희귀의약품 지정으로 접근성 매우 제한적)
-
-***
-
-![](../.gitbook/assets/a1d95c50-2414-4807-995e-e6e0919214ad.JPG)
 
 ***
 
