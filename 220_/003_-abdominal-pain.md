@@ -323,21 +323,21 @@ graph TD
 graph TD
     A([복통 환자]) --> B{Vital 불안정?}
     B -- Yes --> C[즉각 응급 이송]
-    B -- No --> D{"Red flag\n또는 고위험군?"}
-    D -- Yes --> E["조기 영상\nCT / 응급 평가"]
+    B -- No --> D{"Red flag 또는 고위험군?"}
+    D -- Yes --> E["조기 영상 CT / 응급 평가"]
     D -- No --> F{통증 패턴}
-    F --> G["갑작스러운 극심한\n→ 혈관·천공 의심"]
-    F --> H["산통 colicky\n→ 폐쇄·결석·담도"]
-    F --> I["지속·점점 악화\n→ 충수염·담낭염·췌장염"]
-    F --> J["식후 악화\n→ 허혈·궤양·소화불량"]
-    G --> K["5대 치명 질환 배제\nAAA / 허혈 / 천공\n자궁외임신 / MI"]
-    H --> L["영상 선택\nUS / CT / UA"]
+    F --> G["갑작스러운 극심한 복통→<br/> 혈관·천공 의심"]
+    F --> H["산통 colicky → 폐쇄·결석·담도"]
+    F --> I["지속·점점 악화 → 충수염·담낭염·췌장염"]
+    F --> J["식후 악화 → 허혈·궤양·소화불량"]
+    G --> K["5대 치명 질환 배제 <br/>AAA / 허혈 / 천공 / 자궁외임신 / MI"]
+    H --> L["영상 선택 <br/>US / CT / UA"]
     I --> L
     J --> L
     K --> L
     L --> M{진단 확인?}
-    M -- Yes --> N["원인별 치료\n또는 의뢰"]
-    M -- No --> O["6~12h 관찰\n재평가"]
+    M -- Yes --> N["원인별 치료 또는 의뢰"]
+    M -- No --> O["6~12h 관찰 재평가"]
     style A fill:#e8f5e9,stroke:#388e3c
     style C fill:#ffcdd2,stroke:#c62828
     style K fill:#fff3e0,stroke:#e65100
@@ -349,9 +349,9 @@ graph TD
 
 #### <mark style="color:$primary;">진통제 사용 원칙</mark>
 
- ※ 진단 지연을 우려하여 진통제를 제한하는 것은 **권장되지 않으며**, 적절한 통증 조절은 표준 치료임. 오히려 통증이 완화되면 신체 검진의 질이 향상됨
+ ※ 진단 지연을 우려하여 진통제를 제한하는 것은 권장되지 않으며, 적절한 통증 조절은 표준 치료임. 오히려 통증이 완화되면 신체 검진의 질이 향상됨
 
-<table><thead><tr><th width="241.111083984375">임상 상황</th><th>권장 진통제</th></tr></thead><tbody><tr><td>신장·요관 산통 (renal colic)</td><td>NSAIDs 우선 - ketorolac <mark style="color:blue;">[케토펜]</mark> 30㎎ IM/IV; 빠른 onset, 강한 진통 효과</td></tr><tr><td>담도 산통</td><td>NSAIDs 또는 진경제(hyoscine) 병용</td></tr><tr><td>급성 췌장염</td><td>Opioid 사용 가능 - 과거 Oddi 괄약근 경련 우려는 임상적 근거 불충분</td></tr><tr><td>중등도 이상 복통 (원인 평가 중)</td><td>Tramadol 또는 저용량 opioid 고려; 진단 평가와 병행 가능</td></tr></tbody></table>
+<table><thead><tr><th width="241.111083984375">임상 상황</th><th>권장 진통제</th></tr></thead><tbody><tr><td>신장·요관 산통 (renal colic)</td><td>NSAIDs 우선 - ketorolac <mark style="color:blue;">[케토펜]</mark> 30㎎ IM/IV(빠른 onset, 강한 진통 효과)</td></tr><tr><td>담도 산통</td><td>NSAIDs 또는 진경제(hyoscine) 병용</td></tr><tr><td>급성 췌장염</td><td>Opioid 사용 가능 - 과거 Oddi 괄약근 경련 우려는 임상적 근거 불충분</td></tr><tr><td>중등도 이상 복통 (원인 평가 중)</td><td>Tramadol 또는 저용량 opioid 고려; 진단 평가와 병행 가능</td></tr></tbody></table>
 
 ## <mark style="color:green;">임상적 주의사항 - 흔한 진단 오류</mark>
 
