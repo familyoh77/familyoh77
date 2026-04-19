@@ -7,16 +7,14 @@
 * 아급성 : 4\~8주
 * 만성 : ≥8주
 
-{% hint style="info" %}
 **호흡 곤란 병태생리 표현형 (Dyspnea Phenotype)**
 
-진단 방향을 빠르게 좁히기 위해 표현형을 먼저 분류한다.
+ ※ 진단 방향을 빠르게 좁히기 위해 표현형을 먼저 분류한다.
 
-* **Airflow limitation** (천식, COPD) — wheeze, 기관지 확장제 반응
-* **Parenchymal** (폐렴, 간질성 폐질환) — crackle, CXR 침윤
-* **Circulatory** (심부전, 폐색전증) — orthopnea, BNP↑, 갑작스런 발생
-* **Perception** (불안, 과호흡) — 정상 SpO₂·청진, 상황 유발
-{% endhint %}
+* Airflow limitation : 천식, COPD; wheeze, 기관지 확장제에 반응
+* Parenchymal : 폐렴, 간질성 폐질환; crackle, CXR 침윤
+* Circulatory : 심부전, 폐색전증; orthopnea, BNP↑, 갑작스런 발생
+* Perception : 불안, 과호흡; 정상 SpO₂·청진, 상황 유발
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -52,43 +50,43 @@
 
 **급성**
 
-* 호흡기 감염(예: 폐렴): 발열, 기침, 화농성 가래 동반
-* 천식 또는 COPD의 급성 악화: 쌕쌕거림(wheezing), 기침 동반
-* 기흉: 갑작스러운 흉통과 함께 발생
-* 기도 폐쇄: 이물/음식물 흡인 병력, 급격한 질식감
+* 호흡기 감염(예: 폐렴) : 발열, 기침, 화농성 가래 동반
+* 천식 또는 COPD의 급성 악화 : 쌕쌕거림(wheezing), 기침 동반
+* 기흉 : 갑작스러운 흉통과 함께 발생
+* 기도 폐쇄 : 이물/음식물 흡인 병력, 급격한 질식감
 
 **만성**
 
-* 기도/폐질환: 천식, COPD, 결핵, 진폐증
-* 흉막 질환: 반복성·만성 흉수(결핵성, 악성 등)
+* 기도/폐질환 : 천식, COPD, 결핵, 진폐증
+* 흉막 질환 : 반복성·만성 흉수(결핵성, 악성 등)
 
 #### <mark style="color:$primary;">심혈관계 질환 (Cardiovascular)</mark>
 
 **급성**
 
-* 급성 관상동맥증후군(ACS): 흉통, 흉부 압박감, 식은땀 동반
-* 급성 심부전: 공기 부족 느낌, 기좌 호흡(누우면 심해짐)
-* 빈맥성 부정맥(예: 심방세동 with RVR): 심박수 급증 → 심실 충만 시간 단축 → 급성 폐부종 유발 가능; ECG로 즉시 확인
-* 폐색전증: 갑자기 시작되는 흉막염성 흉통, 객혈 동반
+* 급성 관상동맥증후군(ACS) : 흉통, 흉부 압박감, 식은땀 동반
+* 급성 심부전 : 공기 부족 느낌, 기좌 호흡(누우면 심해짐)
+* 빈맥성 부정맥(예: 심방세동 with RVR) : 심박수 급증 → 심실 충만 시간 단축 → 급성 폐부종 유발 가능; ECG로 즉시 확인
+* 폐색전증 : 갑자기 시작되는 흉막염성 흉통, 객혈 동반
 
 **만성**
 
-* 심기능 저하: 만성 심부전, 허혈성 심근병증
-* 기타: 판막 질환, 만성 부정맥
-* 폐혈관 질환: 폐동맥고혈압, 만성 혈전색전성 폐고혈압(CTEPH)
+* 심기능 저하 : 만성 심부전, 허혈성 심근병증
+* 기타 : 판막 질환, 만성 부정맥
+* 폐혈관 질환 : 폐동맥고혈압, 만성 혈전색전성 폐고혈압(CTEPH)
 
 #### <mark style="color:$primary;">전신·기타 질환 (Systemic/Non-cardiopulmonary)</mark>
 
 **급성**
 
-* 아나필락시스(Anaphylaxis): 가려움, 부종, 발진, 혈압 저하 동반; 초기에는 목 조임(throat tightness)·쉰 목소리(voice change) 등 상기도 폐쇄 증상이 선행할 수 있으므로 조기 인식이 중요
-* 심리적 요인: 불안 장애, 공황 장애(과호흡 동반 가능); 성대 기능 이상(Vocal Cord Dysfunction, VCD) - 흡기 시 목 주변에서 stridor(천명음)가 들리는 것이 특징; 천식과 달리 **호기** 시 wheeze가 아닌 **흡기** 시 stridor로 구별되며, 기관지 확장제에 반응하지 않음; 젊은 여성에서 빈발하며 갑작스런 onset/offset이 전형적; 후두경으로 확진
-* 대사성 산증: DKA·패혈증·신부전에서 깊고 규칙적인 Kussmaul 호흡 동반; 폐 원인으로 오인하기 쉬우므로 glucose·ketone·ABG 확인
+* 아나필락시스(Anaphylaxis) : 가려움, 부종, 발진, 혈압 저하 동반; 초기에는 목 조임(throat tightness)·쉰 목소리(voice change) 등 상기도 폐쇄 증상이 선행할 수 있으므로 조기 인식이 중요
+* 심리적 요인 : 불안 장애, 공황 장애(과호흡 동반 가능); 성대 기능 이상(Vocal Cord Dysfunction, VCD) - 흡기 시 목 주변에서 stridor(천명음)가 들리는 것이 특징; 천식과 달리 호기 시 wheeze가 아닌 흡기 시 stridor, 기관지 확장제에 반응하지 않음; 젊은 여성에서 빈발하며 갑작스런 onset/offset이 전형적; 후두경으로 확진
+* 대사성 산증 : DKA·패혈증·신부전에서 깊고 규칙적인 Kussmaul 호흡 동반; 폐 원인으로 오인하기 쉬우므로 glucose·ketone·ABG 확인
 
 **만성**
 
-* 대사/내과적: 빈혈(창백함 동반), 신부전(빈혈·폐부종 동반), 갑상선 질환
-* 신체적/생리적: 비만, 신체 기능 저하(deconditioning; 외래 만성 호흡 곤란의 흔한 원인), 임신, 복수(가로막 압박)
+* 대사/내과적 : 빈혈(창백함 동반), 신부전(빈혈·폐부종 동반), 갑상선 질환
+* 신체적/생리적 : 비만, 신체 기능 저하(deconditioning; 외래 만성 호흡 곤란의 흔한 원인), 임신, 복수(가로막 압박)
 
 #### <mark style="color:$primary;">신경근육 질환 (Neuromuscular)</mark>
 
@@ -99,7 +97,7 @@
 
 #### <mark style="color:$primary;">약물 유발</mark>
 
-* SGLT2 억제제 : 정상 혈당 범위의 당뇨병성 케톤산증(euglycemic DKA) 유발 → 대사성 산증에 의한 Kussmaul 호흡; 복통, 오심 동반 시 의심; **혈당이 정상이어도 혈중 또는 소변 ketone 확인 필수**
+* SGLT2 억제제 : 정상 혈당 범위의 당뇨병성 케톤산증(euglycemic DKA) 유발 → 대사성 산증에 의한 Kussmaul 호흡; 복통, 오심 동반 시 의심; 혈당이 정상이어도 혈중 또는 소변 ketone 확인 필수
 * Amiodarone : 폐독성(Amiodarone-induced pulmonary toxicity, AIPT); 복용 환자에서 잠행성 발병, 마른기침, 발열, 체중 감소 동반 시 의심
 * Methotrexate : 간질성 폐렴
 
@@ -111,16 +109,16 @@
 
 * SpO₂, 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel
 * BNP 또는 NT-proBNP : 심부전 의심 시 시행
-  * **NT-proBNP 해석 기준 (ESC 2021)**
-    * Acute setting (응급·입원) : `<300 pg/㎖` → 심부전 배제 가능; 심부전 강력 시사 : `>450 pg/㎖` (＜50세), `>900 pg/㎖` (50\~75세), `>1,800 pg/㎖` (＞75세)
-    * **Non-acute setting (외래·만성)** : NT-proBNP `<125 pg/㎖` 또는 BNP `<35 pg/㎖` → 심부전 배제 가능; 외래 환자에서는 이 낮은 기준치를 적용해야 과소진단을 방지할 수 있음
-  * BNP 해석 주의 : 비만 환자에서는 지방조직의 BNP 분해 증가로 수치가 실제보다 낮게 측정될 수 있으므로(BNP deficiency) 심부전을 과소평가하지 않도록 주의; 반대로 고령·신부전·패혈증 환자에서는 기저치가 높아 위양성 가능성이 있음
+  * NT-proBNP 해석 기준 (ESC 2021)
+    * Acute setting (응급·입원) : : <300 pg/㎖ → 심부전 배제 가능; 심부전 강력 시사 : >450 pg/㎖ (＜50세), >900 pg/㎖ (50\~75세), >1,800 pg/㎖ (＞75세)
+    * Non-acute setting (외래·만성) : NT-proBNP <125 pg/㎖ 또는 BNP <35 pg/㎖ → 심부전 배제 가능; 외래 환자에서는 이 낮은 기준치를 적용해야 과소 진단을 방지할 수 있음
+  * BNP 해석 주의 : 비만 환자에서는 지방 조직의 BNP 분해 증가로 수치가 실제보다 낮게 측정될 수 있으므로(BNP deficiency) 심부전을 과소평가하지 않도록 주의; 반대로 고령·신부전·패혈증 환자에서는 기저치가 높아 위양성 가능성이 있음
 * D-dimer : 폐색전증 저위험군에서 배제 목적으로 시행; PERC rule 음성(저위험군) 시 D-dimer 없이 PE 배제 가능 (☞ [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe))
   * 위양성 주의 : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음; 50세 이상에서는 연령 보정 D-dimer (age × 10 ㎍/L)를 기준치로 적용하여 불필요한 CTPA를 줄일 수 있음 ([MDCalc Age-adjusted D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer))
 
 **선택적 시행 (확장 패널)**
 
-* 폐 초음파(POCUS) : 외래 또는 응급 상황에서 신속 감별에 활용; **B-line ≥3개/zone(다수 구역에서 관찰)** → 간질성 증후군·폐부종 시사; focal consolidation + air bronchogram → 폐렴; lung sliding 소실 → 기흉; 심부전과 COPD 감별 시 BNP와 병용하면 정확도 향상
+* 폐 초음파(POCUS) : 외래 또는 응급 상황에서 신속 감별에 활용; B-line ≥3개/zone(다수 구역에서 관찰) → 간질성 증후군·폐부종 시사; focal consolidation + air bronchogram → 폐렴; lung sliding 소실 → 기흉; 심부전과 COPD 감별 시 BNP와 병용하면 정확도 향상
 * 심장 초음파 : 좌심실 기능·판막 이상 평가
 * PFT(폐기능 검사) : 만성 호흡 곤란에서 우선 고려 - 폐쇄성 패턴: 천식·COPD; 제한성 패턴: 간질성 폐질환·비만·흉막 질환
 * ABG(동맥혈 가스 분석) : 중증 또는 CO₂ retention 의심 시; Kussmaul 호흡 + DKA/패혈증/신부전 감별 시
@@ -130,7 +128,7 @@
 
 <table><thead><tr><th width="110">구분</th><th width="185">심장성 (Cardiac)</th><th width="185">폐성 (Pulmonary)</th><th>불안 / 과호흡 (Anxiety)</th></tr></thead><tbody><tr><td>주요 원인</td><td>심부전, ACS, 판막 질환</td><td>천식, COPD, 폐렴, 기흉</td><td>불안 장애, 공황 장애, VCD</td></tr><tr><td>발생 양상</td><td>점진적 또는 급성 (HF/ACS)</td><td>급성 또는 아급성</td><td>갑작스런 발작형; 스트레스·상황 유발</td></tr><tr><td>자세 영향</td><td>누우면 악화 (orthopnea, PND)</td><td>자세보다 유발 인자(먼지·연기) 영향</td><td>자세 무관</td></tr><tr><td>호흡 양상</td><td>얕고 빠름</td><td>wheeze / 기침 동반</td><td>깊고 빠름 (과호흡)</td></tr><tr><td>청진</td><td>crackle (폐울혈), S3</td><td>wheeze, crackle, 호흡음 감소</td><td>정상</td></tr><tr><td>흉통</td><td>압박감 (ACS)</td><td>흉막염성 통증</td><td>비특이적, 찌르는 느낌</td></tr><tr><td>동반 증상</td><td>leg edema, JVD, 핑크 거품 가래</td><td>기침, 화농성 가래, 발열</td><td>어지럼, 손발·입술 저림, 공포감</td></tr><tr><td>SpO₂</td><td>저하 가능</td><td>저하 가능</td><td>정상</td></tr><tr><td>CXR</td><td>심비대, 폐부종, Kerley B-line</td><td>침윤, 과팽창, 기흉</td><td>정상</td></tr><tr><td>BNP</td><td>상승</td><td>정상</td><td>정상</td></tr><tr><td>치료 반응</td><td>이뇨제로 호전</td><td>기관지 확장제·항생제 반응</td><td>안심·호흡 조절로 호전</td></tr></tbody></table>
 
-\*고령 환자는 심부전과 COPD가 동반된 경우가 많아 단일 원인으로 단정하기 어렵다. BNP/NT-proBNP, 폐 초음파 B-line(≥3개/zone 이상 시 폐부종 시사), 기관지 확장제 반응을 복합적으로 평가하여 접근한다.
+ \*_고령 환자는 심부전과 COPD가 동반된 경우가 많아 단일 원인으로 단정하기 어렵다. BNP/NT-proBNP, 폐 초음파 B-line(≥3개/zone 이상 시 폐부종 시사), 기관지 확장제 반응을 복합적으로 평가하여 접근한다._
 
 ### <mark style="color:orange;">증상/병력에 따른 감별</mark>
 
@@ -177,38 +175,36 @@
 * 연기/먼지/담배 연기 등에 장기간 노출, 서서히 악화 → 만성 기관지염, COPD, 폐기종
 * 석면/나무 먼지/산업용 가스/광산 등에 장기간 노출 → 직업성 폐질환
 
-{% hint style="danger" %}
-**⚠️ 1차 진료에서 흔한 진단 오류 — 주요 5가지**
-
-1. **불안으로 성급히 단정** : 정상 SpO₂ + 젊은 환자여도 PE·arrhythmia 배제 먼저; 불안 진단은 배제 진단. 최소 rule-out 세트(SpO₂ + ECG + CXR) 의무화
-2. **정상 SpO₂에 안심** : SpO₂는 산소화 지표이지 환기 상태가 아님; PE 초기·대사성 산증은 SpO₂ 정상 가능. RR(호흡수)를 더 중요하게 본다
-3. **Cardiac asthma 오진** : wheeze → 천식으로만 해석하지 말 것; orthopnea·leg edema 동반 시 BNP 또는 폐 초음파(B-line) 확인
-4. **신경근육 원인 간과** : GBS·MG·ALS는 초기 폐 청진 정상 → shallow breathing + 사지 위약 조합을 놓치면 급성 호흡 부전 직면; 즉시 전원
-5. **단일 진단 편향(Premature closure)** : COPD + PE 동반, HF + 폐렴 등 복합 상황을 놓치지 않도록 "설명이 안 되는 소견 1개"를 항상 찾는다; 치료 반응 없으면 즉시 재평가
-{% endhint %}
-
 ***
 
 ```mermaid
 graph TD
-    A([호흡 곤란 환자]) --> B{"🚨 즉각 위험 징후?\nStridor · 청색증\nSBP<90 · HR>130\n의식 변화"}
-    B -->|Yes| C[["즉시 O₂ 투여\n+ 119 호출 · 이송"]]
-    B -->|No| D{"활력징후 평가\nSpO₂ · RR · HR"}
-    D -->|SpO₂<92%\n또는 RR≥24\n또는 HR≥120| E["산소 투여 시작\n즉시 평가 진행"]
-    D -->|안정| F["병력 + 신체 검진\nECG · CXR · SpO₂\n필요 시 BNP · D-dimer"]
+    A([호흡 곤란 환자]) --> B{"즉각 위험 징후?<br/>Stridor · 청색증<br/>SBP<90 · HR>130<br/>의식 변화"}
+    B -->|Yes| C[["즉시 O₂ 투여 + 119 호출 · 이송"]]
+    B -->|No| D{"활력징후 평가<br/>SpO₂ · RR · HR"}
+    D -->|SpO₂<92% 또는 RR≥24 또는 HR≥120| E["산소 투여 시작<br/>즉시 평가 진행"]
+    D -->|안정| F["병력 + 신체 검진<br/>ECG · CXR · SpO₂<br/>필요 시 BNP · D-dimer"]
     E --> F
     F --> G{주요 임상 단서}
-    G --> H["🫀 Cardiac\northopnea · BNP↑\ncrackle · leg edema\n→ ECG · echo · 이뇨제\nnitrate (폐부종 시)"]
-    G --> I["🫁 Pulmonary\nwheeze · crackle\n기관지 확장제 반응\n→ SABA + ipratropium\nsteroid (exacerbation)"]
-    G --> J["⚡ PE / 기흉\n급성 + 흉통\n설명 안 되는 빈맥\n→ D-dimer → CT\n또는 즉시 imaging"]
-    G --> K["🧠 Anxiety / 대사\n정상 SpO₂ · Kussmaul 호흡\n→ 조절 호흡\n또는 glucose · ABG · ketone"]
-    G --> L["⚠️ 신경근육\nshallow breathing\n사지 위약\n→ 즉시 전원"]
+    G --> H["🫀 Cardiac<br/>orthopnea · BNP↑<br/>crackle · leg edema<br/>→ ECG · echo · 이뇨제<br/>nitrate (폐부종 시)"]
+    G --> I["🫁 Pulmonary<br/>wheeze · crackle<br/>기관지 확장제 반응<br/>→ SABA + ipratropium<br/>steroid (exacerbation)"]
+    G --> J["⚡ PE / 기흉<br/>급성 + 흉통<br/>설명 안 되는 빈맥<br/>→ D-dimer → CT<br/>또는 즉시 imaging"]
+    G --> K["🧠 Anxiety / 대사<br/>정상 SpO₂ · Kussmaul 호흡<br/>→ 조절 호흡 또는 glucose · ABG · ketone"]
+    G --> L["⚠️ 신경근육<br/>shallow breathing<br/>사지 위약<br/>→ 즉시 전원"]
 
     style C fill:#f96,stroke:#e65100,stroke-width:2px
     style L fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
 <p align="center"><strong>호흡 곤란 1차 진료 진단·처치 알고리듬</strong></p>
+
+#### <mark style="color:red;">**1차 진료에서 흔한 진단 오류**</mark>
+
+* **불안으로 성급히 단정** : 정상 SpO₂ + 젊은 환자여도 PE·arrhythmia 배제 먼저; 불안 진단은 배제 진단. 최소 rule-out 세트(SpO₂ + ECG + CXR) 의무화
+* **정상 SpO₂에 안심** : SpO₂는 산소화 지표이지 환기 상태가 아님; PE 초기·대사성 산증은 SpO₂ 정상 가능. RR(호흡수)를 더 중요하게 본다
+* **Cardiac asthma 오진** : wheeze → 천식으로만 해석하지 말 것; orthopnea·leg edema 동반 시 BNP 또는 폐 초음파(B-line) 확인
+* **신경근육 원인 간과** : GBS·MG·ALS는 초기 폐 청진 정상 → shallow breathing + 사지 위약 조합을 놓치면 급성 호흡 부전 직면; 즉시 전원
+* **단일 진단 편향(Premature closure)** : COPD + PE 동반, HF + 폐렴 등 복합 상황을 놓치지 않도록 "설명이 안 되는 소견 1개"를 항상 찾는다; 치료 반응 없으면 즉시 재평가
 
 ***
 
@@ -220,28 +216,28 @@ graph TD
   * pursed-lip breathing : 코로 2초 들이쉬고, 입술을 오므린 채 4초 천천히 내쉼; 기도 내압을 높여 소기도 허탈을 방지하고 호흡수를 줄이는 효과
   * 종이 봉투 재호흡법은 저산소혈증 위험, 불안감 증폭, 심리적 의존, 오진 가능성으로 권장하지 않음
 * 산소 공급 : SpO₂ 목표 및 임상 상황에 따라 투여 방식 선택
-  * **일반 환자** → SpO₂ 목표 ≥92\~94%; 임신부 ≥95%
-  * **CO₂ retention risk 환자** (과거 고탄산혈증 병력 있는 COPD, 신경근육 질환 등) → SpO₂ 목표 **88\~92%**; 모든 COPD에 일률 적용하지 않도록 주의 - CO₂ retention 병력이 없는 COPD는 ≥92\~94% 목표
+  * 일반 환자 → SpO₂ 목표 ≥92\~94%; 임신부 ≥95%
+  * CO₂ retention risk 환자 (과거 고탄산혈증 병력 있는 COPD, 신경근육 질환 등) → SpO₂ 목표 88\~92%; 모든 COPD에 일률 적용하지 않도록 주의 - CO₂ retention 병력이 없는 COPD는 ≥92\~94% 목표
     * 고농도 산소 투여 시 CO₂ 저류·이산화탄소 혼수 위험; 목표 범위를 초과하지 않도록 주의
-      * 기전 ① 저산소성 호흡 드라이브 억제 ② V/Q 불균형 악화 ③ **Haldane 효과** - 산소가 헤모글로빈에 결합하면서 CO₂ 운반 능력이 감소하여 혈중 CO₂ 농도가 일시적으로 상승
+      * 기전 ⓵ 저산소성 호흡 드라이브 억제 ⓶ V/Q 불균형 악화 ⓷ Haldane 효과 - 산소가 헤모글로빈에 결합하면서 CO₂ 운반 능력이 감소하여 혈중 CO₂ 농도가 일시적으로 상승
   * 투여 방식 선택 기준
-    * **비강 캐뉼러(nasal cannula)** : 1\~6 L/min; 저유량·장시간 투여에 우선 선택; SpO₂ 목표 달성 가능하면 마스크보다 편안함
-    * **단순 마스크(simple face mask)** : 6\~10 L/min; 고유량 필요 시 사용; 6 L/min 미만 사용 금지(CO₂ 재호흡 위험)
-    * **비재호흡 마스크(non-rebreather mask)** : 10\~15 L/min; 고농도 산소(FiO₂ ≥60%) 필요한 중증 저산소혈증 시
-    * **고유량 비강 캐뉼러(HFNC)** : 2차 의료기관 이상에서 적용; COPD exacerbation·급성 저산소성 호흡 부전에서 표준 산소요법 대비 삽관율 감소 효과
-* **비침습적 양압 환기(BiPAP)** : COPD exacerbation(hypercapnic) 및 급성 심인성 폐부종에서 삽관 예방 효과 입증; 2차 의료기관 이상에서 적용 또는 전원 결정의 지표로 활용; 의식 저하·구토·기도 보호 반사 소실 시 금기
-* Nitrate : **급성 심인성 폐부종(acute cardiogenic pulmonary edema) 또는 협심증 의심** 시에만 적용; 일반 호흡 곤란에 루틴 사용하지 않음
+    * 비강 캐뉼러(nasal cannula) : 1\~6 L/min; 저유량·장시간 투여에 우선 선택; SpO₂ 목표 달성 가능하면 마스크보다 편안함
+    * 단순 마스크(simple face mask) : 6\~10 L/min; 고유량 필요 시 사용; 6 L/min 미만 사용 금지(CO₂ 재호흡 위험)
+    * 비재호흡 마스크(non-rebreather mask) : 10\~15 L/min; 고농도 산소(FiO₂ ≥60%) 필요한 중증 저산소혈증 시
+    * 고유량 비강 캐뉼러(HFNC) : 2차 의료기관 이상에서 적용; COPD exacerbation·급성 저산소성 호흡 부전에서 표준 산소요법 대비 삽관율 감소 효과
+* 비침습적 양압 환기(BiPAP) : COPD exacerbation(hypercapnic) 및 급성 심인성 폐부종에서 삽관 예방 효과 입증; 2차 의료기관 이상에서 적용 또는 전원 결정의 지표로 활용; 의식 저하·구토·기도 보호 반사 소실 시 금기
+* Nitrate : 급성 심인성 폐부종(acute cardiogenic pulmonary edema) 또는 협심증 의심 시에만 적용; 일반 호흡 곤란에 루틴 사용하지 않음
   * nitroglycerin 0.6 ㎎ 설하 투여 <mark style="color:blue;">\[니트로글리세린 설하정 0.6 ㎎]</mark> (☞ [nitrate](../225_/097_-angina-pectoris.md#nitrate))
   * 금기 : SBP ＜90 ㎜Hg; PDE5 억제제(sildenafil 48시간, tadalafil 72시간 이내) 복용
   * ✽ 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의; 우심실은 전부하(preload) 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
 * 이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
   * 투여 전 혈압 확인 필수 : SBP ＜90 ㎜Hg 시 투여 금기 (혈압 감소로 관류 저하 위험)
   * furosemide : 40 ㎎ IV, 1\~2분 이상 천천히 투여; 필요 시 반복 <mark style="color:blue;">\[라식스]</mark>(40 ㎎/T, 20 ㎎/A); 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
-* 빈맥(supraventricular tachycardia) : **modified Valsalva maneuver** 우선 시도(반좌위에서 15초간 Valsalva 후 즉시 상체를 눕히며(supine) 하지 45° 거상 15초 유지; 상체를 눕히는 것이 핵심 - 정맥 환류 증가로 미주신경 자극 효과 극대화; 표준 Valsalva보다 동율동 전환율 높음); 경동맥동 마사지는 죽상경화증·고령·허혈성 심질환 환자에서 피하며, 숙련된 환경에서만 시행
+* 빈맥(supraventricular tachycardia) : modified Valsalva maneuver 우선 시도(반좌위에서 15초간 Valsalva 후 즉시 상체를 눕히며(supine) 하지 45° 거상 15초 유지; 상체를 눕히는 것이 핵심 - 정맥 환류 증가로 미주신경 자극 효과 극대화; 표준 Valsalva보다 동율동 전환율 높음); 경동맥동 마사지는 죽상경화증·고령·허혈성 심질환 환자에서 피하며, 숙련된 환경에서만 시행
 * 기관지 확장제
   * salbutamol(SABA) 네뷸라이저 또는 MDI <mark style="color:blue;">\[벤토린]</mark> (☞ [벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba))
-  * **COPD exacerbation 시** : ipratropium(SAMA) <mark style="color:blue;">\[아트로벤트]</mark>과 **병용**; SABA 단독보다 기관지 확장 효과 우월하며 재입원율 감소; nebulizer 또는 MDI + spacer로 투여
-* Steroid : **COPD exacerbation 또는 asthma exacerbation에만 적용**; 적응증 없이 루틴 사용 금함
+  * COPD exacerbation 시 : ipratropium(SAMA) <mark style="color:blue;">\[아트로벤트]</mark>과 병용; SABA 단독보다 기관지 확장 효과 우월하며 재입원율 감소; nebulizer 또는 MDI + spacer로 투여
+* Steroid : COPD exacerbation 또는 asthma exacerbation에만 적용; 적응증 없이 루틴 사용 금함
   * prednisolone 30\~60 ㎎/d <mark style="color:blue;">\[소론도]</mark>(5 ㎎/T), 5\~7일 단기 사용 (☞ [소론도](../223_/071_-asthma.md#undefined-50))
 
 ***
