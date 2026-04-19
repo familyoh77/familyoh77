@@ -74,7 +74,7 @@ ICD-11(2019)은 만성 통증을 두 범주로 구분한다.\
 * 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하
 * 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
 
-**노시플라스틱(nociplastic) 통증** *(IASP 2017 신규 분류)*
+**노시플라스틱(nociplastic) 통증** _(IASP 2017 신규 분류)_
 
 * 조직 손상이나 신경 병변 없이 central sensitization(중추 감작)에 의해 발생
 * 특징 : 광범위한 통증, 이상통증(allodynia), 통각과민, 피로·수면 장애·인지 기능 저하 동반
@@ -134,9 +134,9 @@ flowchart TD
     style J fill:#fff3e0,stroke:#ff8f00
 ```
 
-<p align="center"><strong>1차 진료 통증 관리 알고리즘</strong></p>
+<p align="center"><strong>통증 관리 알고리즘</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 / IASP Classification of Chronic Pain 2019</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 /</mark></em><br><em><mark style="color:$info;">IASP Classification of Chronic Pain 2019</mark></em></p>
 
 ***
 
@@ -173,7 +173,7 @@ flowchart TD
 
 <p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜 (MME 기반)</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 / 대한통증학회 아편유사제 처방지침 2024</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 /</mark></em> <br><em><mark style="color:$info;">대한통증학회 아편유사제 처방지침 2024</mark></em></p>
 
 ***
 
@@ -205,7 +205,7 @@ flowchart TD
   * 기능적 목표 설정 : 환자에게 "통증 때문에 못 하던 어떤 활동을 다시 하고 싶은지"를 물어 구체적 목표를 설정
   * 병용 금기 약제 주의 : 예) benzodiazepine 복용 여부를 확인하여 마약성 진통제 처방 시 호흡 억제 위험을 차단
 
-#### <mark style="color:$primary;">STEP 1. 통증 유형 분류 (Pain Typing)</mark>
+#### <mark style="color:$primary;">Step 1. 통증 유형 분류 (Pain Typing)</mark>
 
 **침해수용성 통증 (Nociceptive)**
 
@@ -228,30 +228,28 @@ flowchart TD
 
 * 척추관 협착증, 만성 요통(radiculopathy 동반), 암성 통증
 
-#### <mark style="color:$primary;">STEP 2. 강도 및 유형별 약물 선택</mark>
+#### <mark style="color:$primary;">Step 2. 강도 및 유형별 약물 선택</mark>
 
-{% hint style="info" %}
-**통증 유형별 1차 처방 전략 (한 줄 요약)**
+**통증 유형별 처방**
 
-| 유형 | 1차 선택 | 비고 |
-|---|---|---|
-| Nociceptive (경증) | Acetaminophen 또는 NSAID | 염증 없으면 acetaminophen 우선 |
-| Nociceptive (중등증~중증) | NSAID ± 단기 opioid (신중) | opioid는 최후 수단 |
-| Neuropathic | Pregabalin/gabapentin 또는 Duloxetine | 삼차신경통: carbamazepine |
-| Nociplastic | 비약물(CBT·운동) 우선 + SNRI(duloxetine) | NSAID 단독 효과 제한적 |
-| Mixed | NSAID + neuropathic agent 병용 | 비율에 따라 조합 조정 |
-| 염증성 | NSAID (선택제는 위험 인자 고려) | — |
-| 근육통 | NSAID ± 단기 근이완제 | 2~4주 이내 제한 |
+| 유형                    | 1차 선택                               | 비고                      |
+| --------------------- | ----------------------------------- | ----------------------- |
+| Nociceptive (경증)      | Acetaminophen 또는 NSAID              | 염증 없으면 acetaminophen 우선 |
+| Nociceptive (중등증\~중증) | NSAID ± 단기 opioid (신중)              | opioid는 최후 수단           |
+| Neuropathic           | Pregabalin/gabapentin 또는 Duloxetine | 삼차신경통: carbamazepine    |
+| Nociplastic           | 비약물(CBT·운동) 우선 + SNRI(duloxetine)   | NSAID 단독 효과 제한적         |
+| Mixed                 | NSAID + neuropathic agent 병용        | 비율에 따라 조합 조정            |
+| 염증성                   | NSAID (선택제는 위험 인자 고려)               | —                       |
+| 근육통                   | NSAID ± 단기 근이완제                     | 2\~4주 이내 제한             |
 
-**위험 인자별 NSAID 선택 원칙**
+**위험 인자별 NSAID 선택**
 
-| 위험 인자 | 우선 선택 |
-|---|---|
-| GI risk ↑ | Celecoxib + PPI |
-| CV risk ↑ | Naproxen (COX-2 억제제 주의) |
-| Renal risk ↑ | 외용 NSAID 우선 |
-| 고령 / 다약제 | 외용 NSAID 우선 → 경구 최소 용량 |
-{% endhint %}
+| 위험 인자        | 우선 선택                   |
+| ------------ | ----------------------- |
+| GI risk ↑    | Celecoxib + PPI         |
+| CV risk ↑    | Naproxen (COX-2 억제제 주의) |
+| Renal risk ↑ | 외용 NSAID 우선             |
+| 고령 / 다약제     | 외용 NSAID 우선 → 경구 최소 용량  |
 
 **침해수용성 통증** <mark style="color:$info;">(WHO analgesic ladder 참조)</mark>
 
@@ -265,7 +263,7 @@ flowchart TD
 * 반응 불충분 시 : 1차 약제 간 병용 (예: pregabalin + duloxetine), weak opioid (tramadol, codeine, 저용량 buprenorphine 패취) 추가
 * 중증/난치성 통증 : opioid (oxycodone, hydromorphone), 국소 lidocaine patch (대상포진 후 신경통, PHN에서 2nd-line), botulinum toxin (PHN·삼차신경통 등 일부 적응증에서 고려)
 
-#### <mark style="color:$primary;">STEP 3. 재평가 및 조정 (Re-evaluation)</mark>
+#### <mark style="color:$primary;">Step 3. 재평가 및 조정 (Re-evaluation)</mark>
 
 * 치료 시작 후 급성 2주, 만성 4주 이내에 목표 달성 여부를 평가
 * 목표 달성 (통증 30% 이상 감소 & 기능 개선) 시 : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
@@ -287,7 +285,6 @@ flowchart TD
 ※ **통증의 파국화 방지**
 
 * Central sensitization(중추 감작)이 진행하면 말초 자극이 없어도 통증이 지속·증폭된다. 파국화는 이를 심화시키는 심리적 증폭 반응이다.
-
 * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 상태를 교정함; 만성 통증은 신체 손상 신호가 아니라 '예민해진 신경계의 오작동'임을 설명
 * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
 * Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진적으로 늘려 자기 효능감을 회복시킴
@@ -343,9 +340,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">Tramadol</mark>
 
-{% hint style="danger" %}
-⚠️ Tramadol은 "약한 opioid"로 분류되지만, 2022 CDC 가이드라인 이후 중독·과다 복용·사망 위험 측면에서 다른 opioid와 동일한 위험 프로파일을 가진 약물로 간주된다. 처방 시 opioid와 동일한 주의가 필요하다. 한국에서는 마약류(향정신성의약품)로 분류되어 마약류 관리법의 적용을 받는다.
-{% endhint %}
+> ※ Tramadol은 "약한 opioid"로 분류되지만, 2022 CDC 가이드라인 이후 중독·과다 복용·사망 위험 측면에서 다른 opioid와 동일한 위험 프로파일을 가진 약물로 간주됨. 처방 시 opioid와 동일한 주의가 필요. 우리나라에서는 마약류(향정신성의약품)로 분류되어 마약류 관리법의 적용을 받음
 
 * 노르에피네프린·세로토닌 재흡수 억제 기전으로 신경병성 통증에 유리
 * 작용 : 약한 opioid, SNRI action
@@ -387,22 +382,20 @@ flowchart TD
 
 * 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용 <mark style="color:blue;">\[듀로제식디트랜스 패취]</mark>
 
-#### <비암성 만성 통증에서 Opioid 처방 10대 원칙>
+#### <mark style="color:$success;">비암성 만성 통증에서 Opioid 처방 10대 원칙</mark>
 
-{% hint style="danger" %}
-⚠️ **Opioid 처방 전 고위험 환자 체크리스트**\
-□ eGFR ＜ 30 mL/min\
-□ 항응고제 복용 중\
-□ 연령 ≥ 75세\
-□ 낙상 위험 (이전 낙상 병력, 균형 장애)\
-□ 우울증 또는 기타 정신질환\
-□ 수면무호흡증\
-□ Benzodiazepine 또는 gabapentinoid 병용\
-□ 과거 opioid use disorder(OUD) 또는 약물 남용 병력\
-**하나라도 해당 시 → 처방 재검토 또는 전문의 협진**
-{% endhint %}
+  (대한통증학회, 2024)
 
-(대한통증학회, 2024)
+> **Opioid 처방 전 고위험 환자 체크리스트**\
+> □ eGFR ＜ 30 mL/min\
+> □ 항응고제 복용 중\
+> □ 연령 ≥ 75세\
+> □ 낙상 위험 (이전 낙상 병력, 균형 장애)\
+> □ 우울증 또는 기타 정신질환\
+> □ 수면무호흡증\
+> □ Benzodiazepine 또는 gabapentinoid 병용\
+> □ 과거 opioid use disorder(OUD) 또는 약물 남용 병력\
+> **하나라도 해당 시 → 처방 재검토 또는 전문의 협진**
 
 **기본 원칙**
 
@@ -419,15 +412,13 @@ flowchart TD
   * 하루 50 MME 이상 시 과다 복용·사망 위험이 유의하게 증가하므로, 50 MME/day 도달 전 반드시 재평가; 90 MME/day 이상은 가급적 회피
   * 치료 시작 또는 용량 증량 후 4주 이내에 이익과 위험을 재평가
 
-{% hint style="danger" %}
-⚠️ **Naloxone 공동 처방 기준 (CDC 2022)**\
-다음 중 하나라도 해당 시 naloxone 공동 처방 고려:\
-□ MME ≥ 50/day\
-□ 호흡기 질환(COPD, 수면무호흡증) 동반\
-□ Benzodiazepine 또는 gabapentinoid 병용\
-□ 과거 opioid overdose 병력\
-국내에서는 naloxone 비강 스프레이(날록손염산염) 처방이 가능하나 아직 일반화되어 있지 않으며, 고위험 환자를 중심으로 처방 고려
-{% endhint %}
+> **Naloxone 공동 처방 기준** (CDC 2022)\
+> 다음 중 하나라도 해당 시 naloxone 공동 처방 고려:\
+> □ MME ≥ 50/day\
+> □ 호흡기 질환(COPD, 수면무호흡증) 동반\
+> □ Benzodiazepine 또는 gabapentinoid 병용\
+> □ 과거 opioid overdose 병력\
+> ※ 국내에서는 naloxone 비강 스프레이(날록손염산염) 처방이 가능하나 아직 일반화되어 있지 않으며, 고위험 환자를 중심으로 처방 고려
 
 **서방형/지속형 제제**
 
@@ -523,7 +514,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 더 빠른 효과를 보임
 * 부작용 : 어지럼/졸음(용량 의존; 저용량 시작 및 서서히 증량 시 완화), 말초 부종, 체중 증가, 도취감, 의존성/남용 가능성 (특히 pregabalin; 영국은 규제 약물로 지정)
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
-  * **opioid 병용 시 호흡억제로 인한 사망 위험 증가 (FDA Black Box Warning, 2019)** — 병용이 불가피한 경우 각각의 용량을 최소화하고 호흡 억제 징후 면밀히 모니터링; 통증 외 다약제 처방 환자에서 inadvertent 병용에 주의
+  * opioid 병용 시 호흡억제로 인한 사망 위험 증가 (FDA Black Box Warning, 2019) - 병용이 불가피한 경우 각각의 용량을 최소화하고 호흡 억제 징후 면밀히 모니터링; 통증 외 다약제 처방 환자에서 inadvertent 병용에 주의
 * gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 
@@ -642,19 +633,8 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * PPI : 다음 약제를 1일 1회 복용; omeprazole 20\~40 ㎎ <mark style="color:blue;">\[오엠피]</mark>, esomeprazole 40 ㎎ <mark style="color:blue;">\[넥시움]</mark>, lansoprazole 30 ㎎ <mark style="color:blue;">\[란스톤]</mark>, dexlansoprazole 30\~60 ㎎ <mark style="color:blue;">\[덱실란트 디알]</mark>, pantoprazole 40 ㎎ <mark style="color:blue;">\[판토록]</mark>, rabeprazole 20 ㎎ <mark style="color:blue;">\[파리에트]</mark> (☞ [PPI](../224_/073_.md#proton-pump-inhibitor-ppi)) <mark style="color:$info;">※</mark>[<mark style="color:$info;">보험 적용 주의</mark>](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201\&sno=8\&mtgMtrRegSno=0007)
   * H2-blocker : 고용량(상용량의 2배 용량)으로 NSAID에 의한 소화성 궤양 예방 효과 (☞ [H1RA](../224_/073_.md#h2-h2-receptor-antagonist))
 
-### <mark style="color:orange;">외용제</mark>
-
-* 혈중 농도가 경구제의 1\~5% 수준으로 전신 부작용이 현저히 적음
-* 허리 이외 부위의 근골격계 손상에 의한 급성 통증에 대하여 경구제와 동등한 효과
-* 만성 통증에 대한 효과는 급성 통증에 비하여 적음
-* **무릎 골관절염(knee OA)에서는 전신 부작용 최소화를 위해 경구 NSAID보다 외용 NSAID를 우선 권고** (AAOS 2021, ACR/AF 2019, EULAR 2019); 특히 고령·GI·심혈관·신장 위험 인자가 있는 경우 1차 선택제
-* 대상 : 작은 관절(예: 손), 무릎 OA(보험 주의)
-  * 고관절 OA에는 효과 없음
-* 주의/금기 : 기관지 천식, 임부, 수유부, 소아
-* 투여 횟수 : 통상 플라스타/파스류 1\~2회/d, 크림/겔 1\~4회/d
-
 {% hint style="info" %}
-**경구 NSAID 사용 시 PPI 병용 적응증 (간략 기준)**\
+**경구 NSAID 사용 시 PPI 병용 적응증** \
 다음 중 하나 이상 해당 시 PPI 병용 권장:\
 □ 연령 ≥ 65세\
 □ 소화성 궤양 또는 GI 출혈 병력\
@@ -663,10 +643,18 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 □ H. pylori 감염 (치료 우선)\
 ✔ PPI: omeprazole 20 ㎎, esomeprazole 20\~40 ㎎, lansoprazole 15\~30 ㎎ qd
 {% endhint %}
-* ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark> (12시간, 24시간 적용 제품군)
-* piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark> (48시간 적용 제품군)
-* indomethacin <mark style="color:blue;">\[바이겔 크림]</mark>
-* diclofenac <mark style="color:blue;">\[볼타렌 에멀겔]</mark>
+
+### <mark style="color:orange;">외용제</mark>
+
+* 혈중 농도가 경구제의 1\~5% 수준으로 전신 부작용이 현저히 적음
+* 허리 이외 부위의 근골격계 손상에 의한 급성 통증에 대하여 경구제와 동등한 효과
+* 만성 통증에 대한 효과는 급성 통증에 비하여 적음
+* 무릎 골관절염(knee OA)에서는 전신 부작용 최소화를 위해 경구 NSAID보다 외용 NSAID를 우선 권고 (AAOS 2021, ACR/AF 2019, EULAR 2019); 특히 고령·GI·심혈관·신장 위험 인자가 있는 경우 1차 선택제
+* 대상 : 작은 관절(예: 손), 무릎 OA(보험 주의)
+  * 고관절 OA에는 효과 없음
+* 주의/금기 : 기관지 천식, 임부, 수유부, 소아
+* 투여 횟수 : 통상 플라스타/파스류 1\~2회/d, 크림/겔 1\~4회/d
+* ketoprofen <mark style="color:blue;">\\\[케토톱 플라스타/겔]</mark> (12시간, 24시간 적용 제품군) \* piroxicam <mark style="color:blue;">\\\[트라스트 패취/겔]</mark> (48시간 적용 제품군) \* indomethacin <mark style="color:blue;">\\\[바이겔 크림]</mark> \* diclofenac <mark style="color:blue;">\\\[볼타렌 에멀겔]</mark>
 
 ### <mark style="color:orange;">NSAID 비교</mark>
 
