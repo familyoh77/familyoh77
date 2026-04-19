@@ -9,9 +9,9 @@
 
 #### <mark style="color:$primary;">흉통 양상에 따른 허혈 가능성</mark>
 
-<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td></td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Stabbing</td></tr><tr><td></td><td>Right-sided, Tearing, Ripping, Burning</td></tr><tr><td><strong>낮음</strong></td><td>Sharp, Fleeting, Shifting, Pleuritic(흡기 시  발생), Positional</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td></td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Stabbing</td></tr><tr><td></td><td>Right-sided, Tearing, Ripping, Burning</td></tr><tr><td><strong>낮음</strong></td><td>Sharp, Fleeting, Shifting, Pleuritic(흡기 시 발생), Positional</td></tr></tbody></table>
 
-_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 2</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 2</mark></em></p>
 
 **임상 적용 포인트**
 
@@ -150,7 +150,7 @@ flowchart TD
 
 ```
 
-_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 4</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 4</mark></em></p>
 
 #### <mark style="color:$primary;">실험실 검사 (심장 기원 평가)</mark>
 
@@ -167,11 +167,11 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
 * Assay별 cut-off 수치가 상이하므로 검사 기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 해당 제조사의 rule-out/rule-in 기준값을 반드시 확인하여 적용할 것
 * 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
 
-#### <mark style="color:$primary;">영상 검사</mark>&#x20;
+#### <mark style="color:$primary;">영상 검사</mark>
 
 <table><thead><tr><th width="330.21051025390625">임상 상황</th><th width="261.26318359375">권고 검사</th></tr></thead><tbody><tr><td>중등도 위험 급성 흉통, CAD 기왕력(-)</td><td>CCTA(1차) or stress imaging*</td></tr><tr><td>중등도~고위험 안정형 흉통, CAD 기왕력 (-)</td><td>CCTA or stress imaging</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력 (-)</td><td>CAC score or 운동부하검사</td></tr><tr><td>고위험 / ACS 의심</td><td>침습적 관상동맥 조영술</td></tr><tr><td>CCTA에서 협착 확인 또는 판정 불가</td><td>FFR-CT (혈류예비분획-CT)</td></tr></tbody></table>
 
-_\*65세 미만에서 CCTA(Coronary CT angiography) 선호_&#x20;
+_\*65세 미만에서 CCTA(Coronary CT angiography) 선호_
 
 _\*CCTA 활용 추세: 저\~중등위험 급성 흉통(acute chest pain)에서 ED fast-track 프로토콜로 CCTA를 활용하는 빈도가 증가하고 있음. 빠른 rule-out과 조기 퇴원을 가능하게 하는 전략으로 국내외 응급의학 현장에서 채택 중._
 
@@ -256,8 +256,6 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
   3. nitroglycerin에 의해 30초\~수 분 내 호전(통증은 20분 이상 지속될 수 있음)
 * 판정 : 3가지 모두 해당 시 전형적(typical) 허혈성 심질환 흉통, 2가지 해당 시 possibly cardiac (비전형적; ※ 현 권장 용어: 'possibly cardiac'), ≤1가지 해당 시 심장 외 요인에 의한 흉통
 
-
-
 ### <mark style="color:orange;">흉통 양상에 따른 허혈성 감별</mark>
 
 * 병력 청취 시 아래 6가지 항목을 체계적으로 확인
@@ -266,9 +264,41 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 _※ **병력청취 핵심 원칙 (2021 AHA/ACC)** 흉통의 특성은 반드시 환자로부터 직접 청취해야 한다. 허혈 여부 판단에 병력이 가장 중요한 근거이지만, 심장 증상의 발현은 복합적이고 다양하므로 병력만으로 허혈을 배제할 수 없다. 겉보기에 비심장성으로 보이는 흉통도 허혈 기원일 수 있다._
 
-_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Table 3</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Table 3</mark></em></p>
 
-## <mark style="color:green;">초기 처치 - 의뢰 전 1차 진료</mark>
+## <mark style="color:green;">폐 기원 흉통</mark>
+
+<table><thead><tr><th width="139.42108154296875"></th><th width="106.89471435546875">시작 / 기간</th><th width="138.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark></em></p>
+
+#### <mark style="color:$primary;">Wells Score (폐색전증 가능성 평가)</mark>
+
+<table><thead><tr><th width="359.5263671875">소견</th><th width="90.17181396484375">배점</th></tr></thead><tbody><tr><td>DVT 증상: 통증, red or discolored, warmth</td><td>3</td></tr><tr><td>증상에 대한 다른 적당한 진단이 없음</td><td>3</td></tr><tr><td>빈맥 ＞100/분</td><td>1.5</td></tr><tr><td>≥3일 비활동 또는 최근 4주 내 수술</td><td>1.5</td></tr><tr><td>DVT 또는 폐색전증 진단 과거력</td><td>1.5</td></tr><tr><td>객혈 (+)</td><td>1</td></tr><tr><td>6개월 내 치료 또는 완화 상태의 악성 종양 (+)</td><td>1</td></tr></tbody></table>
+
+▶판정 : 폐색전증 가능성 : ＞6점=가능성 높음, 2\~6점=중등도, ＜2점=낮음 ☞ [계산기](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
+
+{% hint style="info" %}
+**PESI / sPESI - PE 중증도 및 예후 분류**
+
+Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Severity Index) / sPESI(simplified PESI)는 PE 확진 후 중증도 분류 및 입원·외래 처치 결정에 사용하는 도구임.
+
+* sPESI 0점: 30일 사망률 약 1% → 외래 치료 또는 조기 퇴원 고려 가능
+* sPESI ≥1점: 고위험 → 입원 치료
+* sPESI 항목(각 1점): 나이 >80세, 암 병력, 만성 심폐질환, 맥박 ≥110, 수축기 혈압 <100 ㎜Hg, SpO₂ <90%
+
+☞ [sPESI 계산기](https://www.mdcalc.com/calc/1247/simplified-pesi-pulmonary-embolism-severity-index)
+{% endhint %}
+
+#### <mark style="color:$primary;">PERC Rule for Pulmonary Embolism (PE 배제)</mark>
+
+* Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충족하면 D-dimer 검사 없이 PE 배제 가능
+
+<table><thead><tr><th width="209">항목</th><th width="208.06658935546875">기준</th></tr></thead><tbody><tr><td>나이</td><td>&#x3C;50세</td></tr><tr><td>심박수</td><td>&#x3C;100회/분</td></tr><tr><td>SpO₂</td><td>≥95%</td></tr><tr><td>하지 부종</td><td>편측 하지 부종 없음</td></tr><tr><td>객혈</td><td>없음</td></tr><tr><td>최근 수술/외상</td><td>없음 (4주 이내)</td></tr><tr><td>DVT/PE 기왕력</td><td>없음</td></tr><tr><td>에스트로겐 투여</td><td>없음</td></tr></tbody></table>
+
+▶ 8가지 모두 해당 시 PE 가능성 약 1% 미만 → 추가 검사 불필요 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
+
+## <mark style="color:green;">의뢰 전 초기 처치</mark>
 
  ※ STEMI·대동맥 박리 의심 시 처치와 이송을 동시에 진행
 
@@ -297,38 +327,6 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
   * Labetalol IV 또는 Esmolol IV (1차 진료에서는 경구 metoprolol 고려)
 * 니트로글리세린 단독 사용 금지 (반사성 빈맥으로 대동맥 벽 전단력 증가)
 * CT angiography 가능 병원으로 즉시 이송
-
-## <mark style="color:green;">폐 기원 흉통</mark>
-
-<table><thead><tr><th width="139.42108154296875"></th><th width="106.89471435546875">시작 / 기간</th><th width="138.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
-
-_<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
-
-#### <mark style="color:$primary;">Wells Score (폐색전증 가능성 평가)</mark>
-
-<table><thead><tr><th width="359.5263671875">소견</th><th width="90.17181396484375">배점</th></tr></thead><tbody><tr><td>DVT 증상: 통증, red or discolored, warmth</td><td>3</td></tr><tr><td>증상에 대한 다른 적당한 진단이 없음</td><td>3</td></tr><tr><td>빈맥 ＞100/분</td><td>1.5</td></tr><tr><td>≥3일 비활동 또는 최근 4주 내 수술</td><td>1.5</td></tr><tr><td>DVT 또는 폐색전증 진단 과거력</td><td>1.5</td></tr><tr><td>객혈 (+)</td><td>1</td></tr><tr><td>6개월 내 치료 또는 완화 상태의 악성 종양 (+)</td><td>1</td></tr></tbody></table>
-
-▶판정 : 폐색전증 가능성 : ＞6점=가능성 높음, 2\~6점=중등도, ＜2점=낮음 ☞ [계산기](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
-
-{% hint style="info" %}
-**PESI / sPESI — PE 중증도 및 예후 분류**
-
-Wells score가 **진단 가능성** 평가 도구라면, PESI(Pulmonary Embolism Severity Index) / sPESI(simplified PESI)는 PE 확진 후 **중증도 분류 및 입원·외래 처치 결정**에 사용하는 도구임.
-
-* **sPESI 0점**: 30일 사망률 약 1% → 외래 치료 또는 조기 퇴원 고려 가능
-* **sPESI ≥1점**: 고위험 → 입원 치료
-* sPESI 항목(각 1점): 나이 >80세, 암 병력, 만성 심폐질환, 맥박 ≥110, 수축기 혈압 <100 ㎜Hg, SpO₂ <90%
-
-☞ [sPESI 계산기](https://www.mdcalc.com/calc/1247/simplified-pesi-pulmonary-embolism-severity-index)
-{% endhint %}
-
-#### <mark style="color:$primary;">PERC Rule for Pulmonary Embolism (PE 배제)</mark>
-
-* Wells Score <2점(저위험)인 환자에서 아래 8가지 항목을 모두 충족하면 D-dimer 검사 없이 PE 배제 가능
-
-<table><thead><tr><th width="209">항목</th><th width="208.06658935546875">기준</th></tr></thead><tbody><tr><td>나이</td><td>&#x3C;50세</td></tr><tr><td>심박수</td><td>&#x3C;100회/분</td></tr><tr><td>SpO₂</td><td>≥95%</td></tr><tr><td>하지 부종</td><td>편측 하지 부종 없음</td></tr><tr><td>객혈</td><td>없음</td></tr><tr><td>최근 수술/외상</td><td>없음 (4주 이내)</td></tr><tr><td>DVT/PE 기왕력</td><td>없음</td></tr><tr><td>에스트로겐 투여</td><td>없음</td></tr></tbody></table>
-
-▶ 8가지 모두 해당 시 PE 가능성 약 1% 미만 → 추가 검사 불필요 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 
 ## <mark style="color:green;">비-심폐 기원 흉통</mark>
 
@@ -363,9 +361,9 @@ Wells score가 **진단 가능성** 평가 도구라면, PESI(Pulmonary Embolism
 * Fibromyalgia : 강하지 않은 자극에 대하여 통증을 느낌; 다른 부위 통증 및 통증 외 증상 동반. 예) 피로, 수면 장애, 인지 장애, 우울, 불안
 * Rib fracture : 압통, 국소 늑막염성 통증; 보통 외상 병력이 있음 (✽외상 병력 없이도 발생할 수 있음)
 
-### <mark style="color:orange;">비-심폐 기원 흉통의 감별</mark>&#x20;
+### <mark style="color:orange;">비-심폐 기원 흉통의 감별</mark>
 
-#### <mark style="color:$primary;">GERD vs 심장성 흉통 vs 근골격계 통증 감별</mark>
+#### <mark style="color:$primary;">GERD vs 심장성 흉통 vs 근골격계 기원 통증 감별</mark>
 
 <table><thead><tr><th width="120">구분</th><th width="200">ACS (심근허혈)</th><th width="190">GERD</th><th>근골격</th></tr></thead><tbody><tr><td><strong>통증 성상</strong></td><td>압박감, 조임, 무거움</td><td>작열감(burning), 쓰림</td><td>쑤심, 찌름, 국소 통증</td></tr><tr><td><strong>위치</strong></td><td>흉골 뒤 (retrosternal)</td><td>흉골 뒤/상복부</td><td>국소 (손가락으로 짚음)</td></tr><tr><td><strong>방사</strong></td><td>팔, 턱, 등</td><td>드묾</td><td>없음</td></tr><tr><td><strong>유발</strong></td><td>운동, 스트레스</td><td>식후, 눕기</td><td>움직임, 자세</td></tr><tr><td><strong>완화</strong></td><td>휴식, NTG</td><td>제산제, 직립</td><td>휴식, 자세 변경</td></tr><tr><td><strong>지속 시간</strong></td><td>수분~30분+</td><td>수분~수시간</td><td>수초~수시간</td></tr><tr><td><strong>동반 증상</strong></td><td>발한, 호흡곤란, 오심</td><td>신물, 트림</td><td>압통, 근육통</td></tr></tbody></table>
 
@@ -373,7 +371,7 @@ Wells score가 **진단 가능성** 평가 도구라면, PESI(Pulmonary Embolism
 
  _※ **PPI 진단적 치료 시험 (PPI trial)** GERD 의심 흉통에서 심장 원인 배제 후 PPI 2주 투여 → 증상 현저히 호전되면 GERD 가능성 높음. 단, PPI 반응 자체가 진단 확정은 아님._
 
-**Alarm signs (즉시 추가 평가 필요)**
+<mark style="color:red;">**Alarm signs (즉시 추가 평가 필요)**</mark>
 
 * 연하 곤란(dysphagia) 또는 연하 통증(odynophagia)
 * 의도치 않은 체중 감소

@@ -8,25 +8,25 @@
   * 미각 장애 : ≥40세의 19%, ≥80세의 27%에서 보고됨
 * 후각 저하가 미각 저하보다 흔하며, 상당수의 경우 환자가 "맛을 못 느낀다"고 호소할 때 실제로는 코 뒤로 넘어가는 향(Retronasal olfaction)의 문제임 - 이는 엄밀히 '미각(Taste)'이 아닌 '풍미(Flavor)'의 소실이며, 코 문제 해결 후 미각 회복까지는 시간이 필요함
 * 후각 상실은 알츠하이머병·파킨슨병 등 뇌 퇴행성 질환의 조기 증상일 수 있음
-* 후각 장애의 자연 회복률은 **원인에 따라 크게 다름**
+* 후각 장애의 자연 회복률은 원인에 따라 크게 다름
   * Post-viral (바이러스 감염 후) : 약 60\~80%에서 부분 이상 회복
   * Post-traumatic (두부 외상 후) : 약 10\~30%로 회복률 낮음
   * Idiopathic (특발성) : 다양하며 예측 어려움
   * 공통 : 고령·흡연·남성에서 회복이 덜함
 * 미각 관련 신경은 뇌신경 7·9·10번의 여러 경로로 분산되어 있으므로 완전한 미각 소실은 드묾
 * 후각 장애의 임상적 분류 (치료 방향 결정에 핵심)
-  * **Conductive (전도성)** : 비용종, 비중격 만곡, 비염 등 기류(Airflow) 장애가 원인 - 비강 치료에 반응 가능
-  * **Sensorineural (신경감각성)** : 바이러스 감염, 두부 외상, 신경퇴행성 질환 등 - 후각 훈련 중심 치료
+  * Conductive (전도성) : 비용종, 비중격 만곡, 비염 등 기류(Airflow) 장애가 원인 - 비강 치료에 반응 가능
+  * Sensorineural (신경감각성) : 바이러스 감염, 두부 외상, 신경퇴행성 질환 등 - 후각 훈련 중심 치료
 
 ## <mark style="color:green;">원인 및 관련 인자</mark>
 
-#### <mark style="color:$primary;">후각 장애 — Conductive (전도성)</mark>
+#### <mark style="color:$primary;">후각 장애 - Conductive (전도성)</mark>
 
 * 알레르기 비염, 만성 비부비동염(CRS), 비용종
 * 비중격 만곡증, 비갑개 비대
 * 상기도 감염(URI)으로 인한 일시적 점막 부종
 
-#### <mark style="color:$primary;">후각 장애 — Sensorineural (신경감각성)</mark>
+#### <mark style="color:$primary;">후각 장애 - Sensorineural (신경감각성)</mark>
 
 * 바이러스 감염 후(Post-viral) : COVID-19, 인플루엔자, rhinovirus 등 URI 이후
   * COVID-19 후 후각 장애 : 초기에는 후각 상피의 지지세포(Sustentacular cells) 손상이 주요 기전으로 제시되었으나, 최근 연구에서는 후각 신경구(Olfactory bulb) 수준의 신경염증 및 중추 신경 회로 변화도 관여하는 것으로 이해됨 → 비강 국소 치료보다 후각 훈련이 1차적 접근으로 권고됨
@@ -51,15 +51,21 @@
 * 신경계 질환 : 다발경화증, 알츠하이머병, 파킨슨병, 뇌신경 손상(뇌혈관 질환, 두부 외상)
 * 감염 : URI, 구강 질환, 칸디다증, coxsackievirus, COVID-19
 
-#### <mark style="color:$primary;">후각 왜곡 증상 — Parosmia / Phantosmia</mark>
+#### <mark style="color:$primary;">후각 왜곡 증상 - Parosmia / Phantosmia</mark>
 
-* **이취증(Parosmia)** : 실제 냄새가 다른 냄새(주로 불쾌한 냄새)로 왜곡되어 인식되는 증상; 바이러스 감염 후(특히 COVID-19) 회복 과정에서 흔히 발생
-  * **기전** : 후각 신경의 재생(Regeneration) 과정에서 수용체와 후각구(Olfactory bulb) 사이의 연결이 잘못 재연결(Miswiring)되어 발생하는 것으로 이해됨; 따라서 신경 재생이 진행 중이라는 징후이며, 완전한 후각 소실보다 회복 예후가 나은 경우도 있음
-  * 대표 증상 : "커피에서 타는 고무 냄새", "음식에서 하수구·썩은 냄새" 등 특정 냄새 유발 물질에 의해 유발됨; 증상이 불쾌하여 식욕 저하·체중 감소로 이어질 수 있음
-  * 환자 설명 시 : "냄새 신경이 다시 자라면서 일시적으로 신호 혼선이 생기는 과정"임을 설명하면 불안감 완화에 도움
-* **환각취(Phantosmia)** : 아무런 냄새 자극이 없는 상황에서 냄새를 느끼는 증상
-  * 감별 중요 : 측두엽 간질(Temporal lobe epilepsy, 발작 전조 증상으로 발생), 두개내 종양 - 특히 **후각구 수막종(Olfactory groove meningioma)**, 전두엽·측두엽 종양, 파킨슨병, 정신질환(조현병, 우울증)
-  * 새로 발생한 Phantosmia는 반드시 영상 검사(MRI) 고려 → Red Flags 참조
+**이취증(Parosmia)**&#x20;
+
+* 실제 냄새가 다른 냄새(주로 불쾌한 냄새)로 왜곡되어 인식되는 증상
+* 바이러스 감염 후(특히 COVID-19) 회복 과정에서 흔히 발생
+* 기전 : 후각 신경의 재생(Regeneration) 과정에서 수용체와 후각구(Olfactory bulb) 사이의 연결이 잘못 재연결(Miswiring)되어 발생하는 것으로 이해됨; 따라서 신경 재생이 진행 중이라는 징후이며, 완전한 후각 소실보다 회복 예후가 나은 경우도 있음
+* 증상 : "커피에서 타는 고무 냄새", "음식에서 하수구·썩은 냄새" 등 특정 냄새 유발 물질에 의해 유발됨; 증상이 불쾌하여 식욕 저하·체중 감소로 이어질 수 있음
+* 환자 설명 시 "냄새 신경이 다시 자라면서 일시적으로 신호 혼선이 생기는 과정"임을 설명하면 불안감 완화에 도움
+
+**환각취(Phantosmia)**&#x20;
+
+* 아무런 냄새 자극이 없는 상황에서 냄새를 느끼는 증상
+* 감별 : 측두엽 간질(Temporal lobe epilepsy, 발작 전조 증상으로 발생), 두개내 종양 - 특히 후각구 수막종(Olfactory groove meningioma), 전두엽·측두엽 종양, 파킨슨병, 정신질환(조현병, 우울증)
+* 새로 발생한 Phantosmia는 반드시 영상 검사(MRI) 고려 (Red Flags 참조)
 
 #### <mark style="color:$primary;">약물 원인</mark>
 
@@ -83,25 +89,25 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* **후각 저하(Hyposmia)** / **후각 소실(Anosmia)** : 냄새 감지 능력 부분 또는 완전 소실
-* **이취증(Parosmia)** : 실제 냄새가 왜곡(주로 불쾌한 냄새)되어 인식됨 - COVID-19 이후 빈도 증가
-* **환각취(Phantosmia)** : 자극 없이 냄새를 느끼는 증상 - 두개내 병변 감별 필요
-* **미각 저하(Hypogeusia)** / **미각 소실(Ageusia)** : 기본 맛(단·짠·신·쓴·감칠맛) 감지 저하
-* **미각 왜곡(Dysgeusia)** : 금속성 맛, 쓴맛 등 비정상적 미각 인식 (약물 부작용으로 흔함)
+* 후각 저하(Hyposmia) / 후각 소실(Anosmia) : 냄새 감지 능력 부분 또는 완전 소실
+* 이취증(Parosmia) : 실제 냄새가 왜곡(주로 불쾌한 냄새)되어 인식됨 - COVID-19 이후 빈도 증가
+* 환각취(Phantosmia) : 자극 없이 냄새를 느끼는 증상 - 두개내 병변 감별 필요
+* 미각 저하(Hypogeusia) / 미각 소실(Ageusia) : 기본 맛(단·짠·신·쓴·감칠맛) 감지 저하
+* 미각 왜곡(Dysgeusia) : 금속성 맛, 쓴맛 등 비정상적 미각 인식 (약물 부작용으로 흔함)
 * 공통 영향 : 식욕 감소, 체중 감소, 영양 불량, 우울감, 대인관계 어려움
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 두개내 병변 또는 뇌신경 병변 시사</mark>
 
-* 갑작스러운 편측 후각 완전 소실 + 두통, 시야 이상, 국소 신경학적 증상 (뇌종양·뇌졸중 시사)
-* 미각 이상 + 안면 편측 마비·감각 저하 (뇌신경 병변 시사)
+* 갑작스러운 편측 후각 완전 소실 + 두통, 시야 이상, 국소 신경학적 증상 → 뇌종양·뇌졸중
+* 미각 이상 + 안면 편측 마비·감각 저하 → 뇌신경 병변
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 두부 외상 후 발생한 후각 소실
-* 후각 소실 + 파킨슨 징후(서동, 경직) 또는 인지 저하 동반 (퇴행성 신경질환 조기 증상 가능)
-* 새로 발생한 Phantosmia - **후각구 수막종(Olfactory groove meningioma)** 등 두개내 종양, 측두엽 간질 감별 필요 → MRI 권고
+* 후각 소실 + 파킨슨 징후(서동, 경직) 또는 인지 저하 동반 → 퇴행성 신경질환 초기
+* 새로 발생한 Phantosmia → 후각구 수막종(Olfactory groove meningioma) 등 두개 내 종양, 측두엽 간질&#x20;
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
@@ -110,31 +116,27 @@
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">후각 장애 분류 — Conductive vs Sensorineural</mark>
-
-{% hint style="info" %}
-**후각 장애를 Conductive(전도성)과 Sensorineural(신경감각성)으로 구분하면 치료 방향이 결정됩니다**
-{% endhint %}
+### <mark style="color:orange;">후각 장애 분류 - Conductive vs Sensorineural</mark>
 
 <table><thead><tr><th width="140">구분</th><th width="210">주요 원인</th><th width="190">임상 특징</th><th>치료 방향</th></tr></thead><tbody><tr><td>Conductive (전도성)</td><td>비용종, 만성 비부비동염(CRS), 비염, 비중격 만곡증</td><td>코막힘·콧물 동반; 간헐적 변동 가능</td><td>INCS, 비염 치료, 비용종 치료(FESS); 치료 반응 가능성 높음</td></tr><tr><td>Sensorineural (신경감각성)</td><td>바이러스 감염 후, 두부 외상, 신경퇴행성 질환, COVID-19</td><td>코막힘 없이 발생; 급성 발병 또는 서서히 진행</td><td>후각 훈련 중심; 전신 스테로이드 routine X; 지속 시 ENT·신경과 의뢰</td></tr></tbody></table>
 
 ### <mark style="color:orange;">검사</mark>
 
 * 보통 필요 없음; 감별을 위하여 선별적으로 고려
-* **기본 혈액 검사** : CBC, LFT, 혈당, Cr, Vit B12, TSH, IgE, 혈청 아연
-* **영상 검사** : 비경/내시경(비중격만곡증, 비용종), CT(비부비동 구조 검사), MRI(연조직·중추 병변 의심 시)
-* **후각 기능 검사** : KVSS II (Korean Version of Sniffin' Sticks II) - 이비인후과 의뢰
+* 기본 혈액 검사 : CBC, LFT, 혈당, Cr, Vit B12, TSH, IgE, 혈청 아연
+* 영상 검사 : 비경/내시경(비중격만곡증, 비용종), CT(비부비동 구조 검사), MRI(연조직·중추 병변 의심 시)
+* 후각 기능 검사 : KVSS II (Korean Version of Sniffin' Sticks II) - 이비인후과 의뢰
   * Threshold (역치) : 가장 낮은 감지 가능 농도 측정
   * Discrimination (변별) : 서로 다른 냄새를 구분하는 능력
   * Identification (동정) : 냄새를 인식·명명하는 능력
   * TDI 점수 (3항목 합산, 최고 48점) : <30점 → 후각 기능 이상 판정
-* **미각 기능 검사** : 이비인후과 의뢰
+* 미각 기능 검사 : 이비인후과 의뢰
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
-* **진짜 미각 장애 vs 후각 기인 풍미 소실** 구분 : 단맛·짠맛·신맛 등 기본 맛 구분 가능 → 진짜 미각 장애 가능성; 음식의 풍미·향 전체 감소 → 후각 문제 가능성 높음
-* **구강건조증(Xerostomia)** : 침 분비 저하로 미뢰 자극 감소 → 미각 저하 유사 증상 (☞ [입안마름](../222_/056_-dry-mouth-xerostomia.md))
-* **약물 부작용** : 최근 시작한 약물 검토 - 금속성 맛·구강건조 유발 약물 여부 확인 (☞ 약물 원인 표 참조)
+* 진짜 미각 장애 vs 후각 기인 풍미 소실 구분 : 단맛·짠맛·신맛 등 기본 맛 구분 가능 → 진짜 미각 장애 가능성; 음식의 풍미·향 전체 감소 → 후각 문제 가능성 높음
+* 구강건조증(Xerostomia) : 침 분비 저하로 미뢰 자극 감소 → 미각 저하 유사 증상 (☞ [입안마름](../222_/056_-dry-mouth-xerostomia.md))
+* 약물 부작용 : 최근 시작한 약물 검토 - 금속성 맛·구강건조 유발 약물 여부 확인 (☞ 약물 원인 표 참조)
 
 ***
 
@@ -161,7 +163,7 @@ graph TD
     style M fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
 ```
 
-<p align="center"><strong>후각·미각 이상 1차 진료 알고리듬</strong></p>
+<p align="center"><strong>후각·미각 이상 관리 알고리듬</strong></p>
 
 ***
 
@@ -169,8 +171,8 @@ graph TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* **원인 치료 우선** : 기저 질환 치료, 비염·비부비동 치료, 원인 약물 중단 또는 변경 고려
-* **분류별 접근** : Conductive vs Sensorineural 구분 후 치료 방향 결정 (☞ 진단 알고리듬 참조)
+* 원인 치료 우선 : 기저 질환 치료, 비염·비부비동 치료, 원인 약물 중단 또는 변경 고려
+* 분류별 접근 : Conductive vs Sensorineural 구분 후 치료 방향 결정 (☞ 진단 알고리듬 참조)
 * 적절하고 고른 영양 섭취
   * 아연 과잉 보충 주의 : 결핍이 확인된 경우에만 보충; 고용량(>40 ㎎/일) 장기 복용 시 구리 결핍(빈혈, 신경병증) 위험 → 장기 복용 시 구리 상태 모니터링
 * 구강 관리(☞ [입안마름](../222_/056_-dry-mouth-xerostomia.md)), 규칙적 치과 진료
@@ -210,8 +212,9 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">비강 내 스테로이드 (INCS) — Conductive 후각 장애 1차 치료</mark>
+### <mark style="color:orange;">비강 내 스테로이드 (INCS)</mark>&#x20;
 
+* Conductive 후각 장애 1차 치료
 * 적응증 : 비부비동 질환(비염, CRS, 비용종) 원인의 Conductive 후각 장애
 * 투여 자세 : 후각 장애 목적의 INCS는 일반 비염 치료와 다르게 투여함 — 약물이 상비갑개(Olfactory cleft) 부위에 도달해야 효과적; Mygind position (고개를 앞으로 숙인 자세) 또는 비강 점적액(Nasal drops) 제형 권장
 * Fluticasone furoate <mark style="color:blue;">\[아바미스 나잘 스프레이]</mark> 각 비공 1\~2회 qd
@@ -219,15 +222,16 @@ graph TD
 * 효과 판정 : 4\~8주 사용 후 재평가; 반응 없으면 ENT 의뢰 \[EPOS 2020 권고]
 * Budesonide nasal irrigation : CRS 동반 중증 후각 장애에서 ENT 전문의 지도 하에 사용 가능(off-label); 1차 진료에서는 선택적 사용 또는 ENT 의뢰 후 지속
 
-### <mark style="color:orange;">전신 스테로이드 - 선택적 사용, 일상적 권고 아님</mark>
+### <mark style="color:orange;">전신 스테로이드</mark>&#x20;
 
+* 선택적 사용, 일상적 권고 아님
 * 비특이적 후각 장애(post-viral 포함)에서 전신 스테로이드는 일상적(Routine) 사용 권고되지 않음
 * 선택적 사용 가능 상황 : 비용종 동반 CRS, 급성 심한 염증성 비부비동 질환 (단기 처방 후 ENT 의뢰)
 * Prednisolone 20\~30 ㎎/일, 7\~14일 tapering; 당뇨·고혈압·골다공증 동반 시 신중 사용
 
-### <mark style="color:orange;">아연(Zinc) 보충 - 결핍 확인 시에만</mark>
+### <mark style="color:orange;">아연 보충</mark>&#x20;
 
-* 혈청 아연 결핍 확인된 경우에만 보충 권고 (정상치 : 70\~110 ㎍/㎗)
+* 혈청 아연 결핍이 확인된 경우에만 보충 권고 (정상치 : 70\~110 ㎍/㎗)
 * 결핍이 확인되지 않은 경우 routine 보충은 권고되지 않음 - RCT 근거 일관되지 않음
 * 원소 아연 기준 25\~40 ㎎/일, 식후 복용
 * 8\~12주 보충 후 재검사; 장기 복용 시 구리(Copper) 상태 모니터링 (고용량 장기 복용 시 구리 결핍 위험)
@@ -236,7 +240,7 @@ graph TD
   * Penicillamine 복용 (아연 길항 기전으로 결핍 유발 잘 알려짐)
   * 이뇨제(Thiazide, Loop diuretic) 장기 복용
 
-### <mark style="color:orange;">기타 약물적 접근</mark>
+### <mark style="color:orange;">기타 약물 치료</mark>
 
 * 기저 질환 치료 : 갑상선 기능 저하증, 당뇨병 등 교정 가능한 원인 우선 치료
 * 원인 약물 중단 또는 대체제 변경 : 금속성 맛, 미각 장애 유발 약물 확인 후 가능하면 교체&#x20;
