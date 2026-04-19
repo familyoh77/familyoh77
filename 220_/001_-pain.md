@@ -49,12 +49,37 @@
 
 * ＞3개월 지속 또는 재발하는 통증 (ICD-11)
 
+{% hint style="info" %}
+**ICD-11 만성 통증 분류**\
+ICD-11(2019)은 만성 통증을 두 범주로 구분한다.\
+• **Chronic primary pain** : 통증 자체가 독립적 질환 — 다른 질환으로 설명되지 않는 통증 (예: 섬유근통, 만성 원발성 요통, 복합부위통증증후군)\
+• **Chronic secondary pain** : 다른 기저 질환에 의해 발생하는 통증 (예: 암성 통증, 수술 후 만성 통증, 신경병증성 통증)\
+이 구분은 "통증 = 증상"이 아닌 **"통증 = 독립 질환"** 으로 인식의 전환을 반영한다.
+{% endhint %}
+
+{% hint style="info" %}
+**Central sensitization (중추 감작)**\
+만성 통증의 핵심 병태생리. 말초 조직 손상이 없어도 척수·뇌의 통증 처리 시스템이 과활성화되어 통증이 지속·증폭된다. Fibromyalgia, 만성 요통, IBS, 편두통 등에서 핵심 기전으로 작용한다. 이 개념을 환자에게 설명하면 파국화 방지 및 비약물 치료(CBT·운동) 수용도를 높이는 데 도움이 된다.
+{% endhint %}
+
 #### <mark style="color:$primary;">**유형**</mark>
+
+**침해수용성(nociceptive) 통증**
+
+* 실제 조직 손상에 의해 발생; 쑤심, 욱신거림, 국소적 압통
+* 예) 관절염, 근육통, 외상, 수술 후 통증
 
 **신경병증성(neuropathic) 통증**
 
 * 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하
 * 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
+
+**노시플라스틱(nociplastic) 통증** *(IASP 2017 신규 분류)*
+
+* 조직 손상이나 신경 병변 없이 central sensitization(중추 감작)에 의해 발생
+* 특징 : 광범위한 통증, 이상통증(allodynia), 통각과민, 피로·수면 장애·인지 기능 저하 동반
+* 예) 섬유근통, 만성 원발성 요통, 과민성 장증후군(IBS), 만성 골반통
+* DN4/painDETECT로 구별되지 않으므로 임상 양상 및 병력으로 진단
 
 **근육(muscle) 통증**
 
@@ -71,6 +96,84 @@
 
 * 활동 중 악화, 휴식 시 호전
 * 예) 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압축 골절
+
+***
+
+```mermaid
+flowchart TD
+    A([통증 호소 환자]) --> B{Red Flag 평가}
+    B -->|YES| C[응급 평가 또는 의뢰]
+    B -->|NO| D[Pain Typing]
+    D --> D1[Nociceptive\n쑤심·욱신거림·국소 압통]
+    D --> D2[Neuropathic\n저림·화끈거림·전격통]
+    D --> D3[Nociplastic\n광범위·allodynia·피로]
+    D --> D4[Mixed]
+    D1 & D2 & D3 & D4 --> E[NRS 강도 평가]
+    E --> E1[경증 NRS 1–3]
+    E --> E2[중등증 NRS 4–6]
+    E --> E3[중증 NRS 7–10]
+    E1 --> F1[Acetaminophen\n또는 NSAID]
+    E2 --> F2[NSAID ±\nweak opioid 신중]
+    E3 --> F3[NSAID +\nshort-term opioid]
+    D2 --> G1[Pregabalin/Gabapentin\n또는 Duloxetine]
+    D3 --> G2[비약물 CBT·운동 우선\n+ SNRI]
+    F1 & F2 & F3 & G1 & G2 --> H[비약물 치료 병행]
+    H --> I{고위험 약물 체크}
+    I -->|Opioid+BZD ❌| J[처방 수정]
+    I -->|NSAID+항응고제 ⚠| J
+    I -->|Triple Whammy ⚠| J
+    I -->|Gabapentinoid+Opioid ⚠| J
+    I -->|이상 없음| K[재평가]
+    K -->|급성: 1–2주\n만성: 2–4주| L{치료 반응}
+    L -->|Good ≥30% 감소| M[유지 → Taper 계획]
+    L -->|Poor| N[통증 유형 재평가\n→ 다른 계열 전환\n→ 병용 요법]
+    N --> O{2–3차 실패\nOpioid 필요 증가\n기능 저하 지속}
+    O -->|YES| P[전문과 의뢰]
+    style C fill:#f96,stroke:#e65100
+    style P fill:#f96,stroke:#e65100
+    style J fill:#fff3e0,stroke:#ff8f00
+```
+
+<p align="center"><strong>1차 진료 통증 관리 알고리즘</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 / IASP Classification of Chronic Pain 2019</mark></em></p>
+
+***
+
+```mermaid
+flowchart TD
+    A([비암성 통증 — Opioid 고려?]) --> B{시작 전 필수 확인}
+    B --> B1[비약물 + non-opioid 치료 실패\n기능 저하 명확 ADL/work\n통증 유형 재확인]
+    B --> B2{고위험 인자}
+    B2 --> BH[OUD 병력 / BZD 사용\n수면무호흡 / 고령·낙상 위험\n간·신기능 저하]
+    BH -->|HIGH RISK| C[회피 또는 전문의 의뢰]
+    B1 & B2 -->|통과| D[치료 목표 문서화\n통증 ≥30% 감소\n기능 개선 구체화\n실패 시 중단 동의]
+    D --> E[초기 처방\nIR 제제만 사용\n5–10 MME/회\n20–30 MME/d 이하]
+    E --> F{MME 위험 분류}
+    F --> F1[< 20 MME/d → Low]
+    F --> F2[20–50 MME/d → Moderate]
+    F --> F3[≥ 50 MME/d → Risk ↑]
+    F --> F4[≥ 90 MME/d → High Risk 회피]
+    F3 & F4 -->|50 MME 도달 전 재평가 필수| G
+    F1 & F2 --> G[1–4주 후 재평가]
+    G --> H{반응 평가}
+    H -->|Good| I[유지 또는 Taper 고려]
+    H -->|Partial| J[5–10 MME씩 소폭 증량]
+    H -->|No response| K[중단 또는 계열 전환]
+    F3 --> L{Naloxone 처방 기준}
+    L --> L1[≥50 MME/day\n호흡기 질환\nBZD/gabapentinoid 병용\n과거 overdose]
+    L1 --> M[Naloxone 공동 처방]
+    I --> N{장기 사용 종료 → Tapering}
+    N --> N1[>1년: 월 10% 감량\n수주~수개월: 주 10% 감량\n단기<4주: 수일간 빠른 taper]
+    N1 --> O[주의: Abrupt stop 금지\n Rapid taper 금지]
+    style C fill:#f96,stroke:#e65100
+    style O fill:#f96,stroke:#e65100
+    style M fill:#e8f5e9,stroke:#388e3c
+```
+
+<p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜 (MME 기반)</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 / 대한통증학회 아편유사제 처방지침 2024</mark></em></p>
 
 ***
 
@@ -113,6 +216,13 @@
 
 * 예 : 대상포진 후 신경통, 당뇨병성 신경병증
 * 특징 : 저림, 화끈거림, 전격통(전기 오는 듯함), 감각 이상
+* 선별 도구 : DN4 (4점 이상 시 신경병성 가능성 높음), painDETECT
+
+**노시플라스틱 통증 (Nociplastic)**
+
+* 조직 손상·신경 병변 없이 central sensitization(중추 감작)으로 발생; DN4/painDETECT 음성이나 통증 지속
+* 특징 : 광범위한 통증, 이상통증, 피로·수면 장애 동반
+* 예 : 섬유근통, 만성 원발성 요통, IBS
 
 **복합성 통증 (Mixed) :**
 
@@ -120,10 +230,33 @@
 
 #### <mark style="color:$primary;">STEP 2. 강도 및 유형별 약물 선택</mark>
 
+{% hint style="info" %}
+**통증 유형별 1차 처방 전략 (한 줄 요약)**
+
+| 유형 | 1차 선택 | 비고 |
+|---|---|---|
+| Nociceptive (경증) | Acetaminophen 또는 NSAID | 염증 없으면 acetaminophen 우선 |
+| Nociceptive (중등증~중증) | NSAID ± 단기 opioid (신중) | opioid는 최후 수단 |
+| Neuropathic | Pregabalin/gabapentin 또는 Duloxetine | 삼차신경통: carbamazepine |
+| Nociplastic | 비약물(CBT·운동) 우선 + SNRI(duloxetine) | NSAID 단독 효과 제한적 |
+| Mixed | NSAID + neuropathic agent 병용 | 비율에 따라 조합 조정 |
+| 염증성 | NSAID (선택제는 위험 인자 고려) | — |
+| 근육통 | NSAID ± 단기 근이완제 | 2~4주 이내 제한 |
+
+**위험 인자별 NSAID 선택 원칙**
+
+| 위험 인자 | 우선 선택 |
+|---|---|
+| GI risk ↑ | Celecoxib + PPI |
+| CV risk ↑ | Naproxen (COX-2 억제제 주의) |
+| Renal risk ↑ | 외용 NSAID 우선 |
+| 고령 / 다약제 | 외용 NSAID 우선 → 경구 최소 용량 |
+{% endhint %}
+
 **침해수용성 통증** <mark style="color:$info;">(WHO analgesic ladder 참조)</mark>
 
 * 경증 (NRS 1\~3) : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
-* 경증\~중등증 (NRS 4\~6) : weak opioid(tramadol) ± non-opioid ± 보조 치료
+* 경증\~중등증 (NRS 4\~6) : NSAID ± weak opioid (tramadol 포함 — opioid와 동일한 주의 적용) ± 보조 치료
 * 중등증\~중증 (NRS 7\~10) : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid (암성 통증에서는 적극 병용) ± 보조 치료
 
 **신경병성 통증**
@@ -149,9 +282,11 @@
 * 금연
 * 온/냉찜질, 물리 치료, chiropractic, 침, 근육 강화 및 이완 운동
 * 인지행동 요법, 요가, 심호흡, mindfulness
-* 비타민 D 결핍은 근골격계 통증 및 섬유근통과 연관될 수 있으므로, 만성 통증 환자에서 혈중 25(OH)D 측정 및 결핍 시 보충을 고려
+* 비타민 D : 결핍(25(OH)D ＜20 ng/mL)과 근골격계 통증·섬유근통의 연관성이 보고되나, 결핍이 없는 환자에서 통증 목적의 routine supplementation은 효과가 입증되지 않아 권고하지 않음; 만성 통증 환자에서 혈중 25(OH)D 측정 후 결핍이 확인된 경우에만 보충 고려
 
 ※ **통증의 파국화 방지**
+
+* Central sensitization(중추 감작)이 진행하면 말초 자극이 없어도 통증이 지속·증폭된다. 파국화는 이를 심화시키는 심리적 증폭 반응이다.
 
 * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 상태를 교정함; 만성 통증은 신체 손상 신호가 아니라 '예민해진 신경계의 오작동'임을 설명
 * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
@@ -167,8 +302,8 @@
 
 * 대상 : 비염증성 통증
   * 엉덩이/무릎 관절염에 대해서는 지속 효과가 짧으며, 요통에 대해서는 효과가 적음
-* 주의 : 간/신 장애, 혈액 응고 장애, 알코올 남용, 소화성 궤양, aspirin 과민성 천식
-* 부작용 : 발진, 간/신 독성, 소화성 궤양, 고혈압; GI 및 심혈관 부작용은 NSAID에 비하여 적으나 간독성 위험은 NSAID보다 높음
+* 주의 : 간/신 장애, 혈액 응고 장애, 알코올 남용, aspirin 과민성 천식
+* 부작용 : 발진, 간/신 독성; NSAID와 달리 COX 비선택적 억제 기전이 없어 임상적으로 의미 있는 GI ulcer risk는 거의 없으며, 고혈압은 고용량 장기 사용 시 일부 관찰 보고가 있으나 근거가 일관되지 않음(controversial); 간독성 위험은 NSAID보다 높음
   * ＞2 g/d 연속 투여 시 간 효소 수치 상승 가능 (간독성을 의미하지 않으나 모니터링 권장)
   * 치료 용량 범위 내에서는 심각한 GI 부작용 위험은 거의 없음
 * 약물 상호 작용 : warfarin(INR 연장), isoniazid, CYP450 대사 약물
@@ -186,7 +321,7 @@
 
 * 대상 : non-opioid analgesics에 반응하지 않는 환자에서 opioid의 위험(예: 중독, 과용, 사망)에 비하여 이득이 더 큰 경우에 적용
 * 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 항콜린 부작용(입마름, 구역, 변비, 소변 저류)
-  * 고령에서는 낙상 위험 증가 외에는 NSAID에 비하여 안전
+  * 고령에서는 NSAID(GI·신장·심혈관 위험)와 opioid(낙상·섬망·호흡억제·사망 위험) 모두 고위험 약물이므로, 환자의 GI·renal·CV·낙상 위험을 종합 고려하여 상황별로 선택; 가능하면 외용 NSAID 또는 acetaminophen을 우선
   * 오피오이드 유발 변비(opioid-induced constipation) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 하제를 선제적으로 처방하는 것을 고려
     * [삼투성 하제](../224_/073_.md#hyperosmotics) 우선 : PEG 제제 <mark style="color:blue;">\[미랄락스]</mark> 또는 lactulose <mark style="color:blue;">\[듀파락]</mark> — 복통 부작용이 적어 만성 통증 환자에 적합
     * 반응 부족 시 [자극성 하제](../224_/073_.md#stimulant) 추가 : sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>
@@ -207,6 +342,10 @@
 * 대상 약제 투여 용량 : oxycodone 60 ㎎/d, hydromorphone 24 ㎎/d, tapentadol 300 ㎎/d, fentanyl 패취제 37.5 ㎍/h/3d, morphine 경구제 90 ㎎/d
 
 #### <mark style="color:$primary;">Tramadol</mark>
+
+{% hint style="danger" %}
+⚠️ Tramadol은 "약한 opioid"로 분류되지만, 2022 CDC 가이드라인 이후 중독·과다 복용·사망 위험 측면에서 다른 opioid와 동일한 위험 프로파일을 가진 약물로 간주된다. 처방 시 opioid와 동일한 주의가 필요하다. 한국에서는 마약류(향정신성의약품)로 분류되어 마약류 관리법의 적용을 받는다.
+{% endhint %}
 
 * 노르에피네프린·세로토닌 재흡수 억제 기전으로 신경병성 통증에 유리
 * 작용 : 약한 opioid, SNRI action
@@ -250,6 +389,19 @@
 
 #### <비암성 만성 통증에서 Opioid 처방 10대 원칙>
 
+{% hint style="danger" %}
+⚠️ **Opioid 처방 전 고위험 환자 체크리스트**\
+□ eGFR ＜ 30 mL/min\
+□ 항응고제 복용 중\
+□ 연령 ≥ 75세\
+□ 낙상 위험 (이전 낙상 병력, 균형 장애)\
+□ 우울증 또는 기타 정신질환\
+□ 수면무호흡증\
+□ Benzodiazepine 또는 gabapentinoid 병용\
+□ 과거 opioid use disorder(OUD) 또는 약물 남용 병력\
+**하나라도 해당 시 → 처방 재검토 또는 전문의 협진**
+{% endhint %}
+
 (대한통증학회, 2024)
 
 **기본 원칙**
@@ -264,8 +416,18 @@
 * 심한 급성 통증(＜1개월) : 속효성 제제를 최소 유효 용량으로 처방; 최소 2주마다 평가
 * 아급성(1\~3개월) 및 만성(＞3개월) 통증 : 비아편유사제를 우선 고려. 불가피한 경우에만 사용
   * 초기 용량 : 5\~10 MME(단일 용량) 또는 20\~30 MME/일로 시작
-  * 하루 50 MME 이상의 추가 증량은 가급적 피함
+  * 하루 50 MME 이상 시 과다 복용·사망 위험이 유의하게 증가하므로, 50 MME/day 도달 전 반드시 재평가; 90 MME/day 이상은 가급적 회피
   * 치료 시작 또는 용량 증량 후 4주 이내에 이익과 위험을 재평가
+
+{% hint style="danger" %}
+⚠️ **Naloxone 공동 처방 기준 (CDC 2022)**\
+다음 중 하나라도 해당 시 naloxone 공동 처방 고려:\
+□ MME ≥ 50/day\
+□ 호흡기 질환(COPD, 수면무호흡증) 동반\
+□ Benzodiazepine 또는 gabapentinoid 병용\
+□ 과거 opioid overdose 병력\
+국내에서는 naloxone 비강 스프레이(날록손염산염) 처방이 가능하나 아직 일반화되어 있지 않으며, 고위험 환자를 중심으로 처방 고려
+{% endhint %}
 
 **서방형/지속형 제제**
 
@@ -343,7 +505,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">Benzodiazepines</mark>
 
-* 일부 연구에서 통증 감소에 유효; 통증에 대한 사용은 off-label (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
+* 통증 자체 치료 목적으로는 권고되지 않으며, 특히 만성 통증에서는 harm > benefit으로 평가됨; 불안 또는 근육 긴장이 동반된 경우 단기(＜2주)·제한적으로만 고려 — 통증에 대한 사용은 off-label (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
 * 중독 문제로 ＜2주의 단기 사용으로 제한하며, 만성 통증에 대하여 권고하지 않음
 * 부작용 : 졸음, 의존성
 * clonazepam : 0.25 ㎎ qd\~tid, 필요시 3일 간격 증량, 최대 3\~6 ㎎/d <mark style="color:blue;">\[리보트릴]</mark>
@@ -361,6 +523,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 더 빠른 효과를 보임
 * 부작용 : 어지럼/졸음(용량 의존; 저용량 시작 및 서서히 증량 시 완화), 말초 부종, 체중 증가, 도취감, 의존성/남용 가능성 (특히 pregabalin; 영국은 규제 약물로 지정)
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
+  * **opioid 병용 시 호흡억제로 인한 사망 위험 증가 (FDA Black Box Warning, 2019)** — 병용이 불가피한 경우 각각의 용량을 최소화하고 호흡 억제 징후 면밀히 모니터링; 통증 외 다약제 처방 환자에서 inadvertent 병용에 주의
 * gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 
@@ -379,7 +542,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 ### <mark style="color:orange;">N-methyl-D-aspartate receptor antagonist (NMDA)</mark>
 
 * 대상 : 신경병증성 통증. 예) 당뇨병신경병증, 대상포진후신경통, phantom limb pain, 말초신경병증성 통증, 복합부위통증증후군
-* 심한 부작용 없음
+* 일반적으로 내약성 양호하나 dizziness, confusion, 두통이 발생할 수 있음
 * memantine : 5 ㎎ qd, 2일마다 5 ㎎ 증량, 유지 10 ㎎ bid <mark style="color:blue;">\[에빅사]</mark> (통증에는 비급여)
 
 ### <mark style="color:orange;">근이완제</mark>
@@ -463,7 +626,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 신 독성 위험 인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
   * 장기 복용 환자에서 eGFR < 30 ㎖/min/1.73㎡ 시 NSAIDs 금기(신기능 저하 가속 및 급성 신손상 위험)
   * 고령자에서 10년 NSAID 사용 추적 조사에서 유의미한 신기능 저하가 관찰되지 않았다는 보고가 있음
-  * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험을 30% 증가시킨다는 보고가 있음 ; 약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음
+  * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험을 30% 증가시킨다는 보고가 있음; 약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음 — 단, naproxen은 GI 출혈 위험이 ibuprofen보다 높으므로(GI 출혈 위험 비교표 참조) CV risk ↑ 환자에서 선택 시 PPI 병용을 함께 고려
 
 #### <mark style="color:$primary;">부작용 대처</mark>
 
@@ -484,12 +647,22 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 혈중 농도가 경구제의 1\~5% 수준으로 전신 부작용이 현저히 적음
 * 허리 이외 부위의 근골격계 손상에 의한 급성 통증에 대하여 경구제와 동등한 효과
 * 만성 통증에 대한 효과는 급성 통증에 비하여 적음
-* 무릎 골관절염(knee OA)에 대하여 전신 부작용을 줄이기 위해 경구 NSAID보다 국소 NSAID(외용제)를 우선 권고(AAOS 2021, ACR/AF 2019)
+* **무릎 골관절염(knee OA)에서는 전신 부작용 최소화를 위해 경구 NSAID보다 외용 NSAID를 우선 권고** (AAOS 2021, ACR/AF 2019, EULAR 2019); 특히 고령·GI·심혈관·신장 위험 인자가 있는 경우 1차 선택제
 * 대상 : 작은 관절(예: 손), 무릎 OA(보험 주의)
-  * 특히 고령, 위장관/심혈관/신장 위험 인자가 있는 환자에서 우선 고려
   * 고관절 OA에는 효과 없음
 * 주의/금기 : 기관지 천식, 임부, 수유부, 소아
 * 투여 횟수 : 통상 플라스타/파스류 1\~2회/d, 크림/겔 1\~4회/d
+
+{% hint style="info" %}
+**경구 NSAID 사용 시 PPI 병용 적응증 (간략 기준)**\
+다음 중 하나 이상 해당 시 PPI 병용 권장:\
+□ 연령 ≥ 65세\
+□ 소화성 궤양 또는 GI 출혈 병력\
+□ 고용량 NSAID 또는 2종 이상 NSAID\
+□ Corticosteroid 또는 항응고제·항혈소판제(aspirin 포함) 병용\
+□ H. pylori 감염 (치료 우선)\
+✔ PPI: omeprazole 20 ㎎, esomeprazole 20\~40 ㎎, lansoprazole 15\~30 ㎎ qd
+{% endhint %}
 * ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark> (12시간, 24시간 적용 제품군)
 * piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark> (48시간 적용 제품군)
 * indomethacin <mark style="color:blue;">\[바이겔 크림]</mark>
@@ -557,7 +730,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ### <mark style="color:purple;">약제별 보험 급여 인정 상병 코드 매칭표</mark>
 
-<table><thead><tr><th width="151.631591796875">약물 분류</th><th width="212.3157958984375">권장 상병 코드 (KCD-8)</th><th>급여 핵심 기준 및 주의사항</th></tr></thead><tbody><tr><td><strong>COX-2 저해제</strong><br>Celecoxib</td><td>M15~M19 (골관절염)<br>M05~M06 (류마티스)</td><td>60세 이상 자동 인정. 60세 미만은 위궤양 기왕력 등 사유 필요. ※ HIRA 현행 고시 확인 필요</td></tr><tr><td><strong>가바펜티노이드</strong><br>Pregabalin</td><td>E10~E14 (당뇨병성 신경병증)<br>B02.2 (대상포진 후 신경통)<br>M54.1 (신경뿌리병증)<br>G54.4 (요추 신경뿌리 장애)<br>G57.x / M54.3~M54.4 (원인별 신경병증)</td><td>단순 M54.5 (요통) 단독 코드는 삭감 위험 높음 — 방사통·전격통 등 신경병성 증상이 있을 경우 M54.1 또는 G54.4 병기 권장. 차트에 "방사통, NRS ○점, 저림 증상" 등 신경병성 근거 기재 필수. G63은 신경병성 통증 범용 코드로 부적합</td></tr><tr><td><strong>SNRI 항우울제</strong><br>Duloxetine</td><td>M79.7 (섬유근통)<br>M17 (무릎 골관절염)</td><td>무릎 골관절염은 NSAIDs에 반응하지 않는 경우에만 인정. ※ 정확한 고시 문구 HIRA 확인 필요</td></tr><tr><td><strong>마약성 진통제</strong><br>Oxycodone 등</td><td>M54.5 (만성 하부요통)<br>M15~M19 (심한 골관절염)</td><td>NSAIDs 최대 용량 투여 후 효과 없을 시 인정 (차트 기재 필수). ※ HIRA 원문 확인 권고</td></tr><tr><td><strong>프로스타글란딘</strong><br>Limaprost</td><td>M48.0 (척추관 협착증)<br>I73.1 (Buerger병)</td><td>척추관 협착증(M48.0) 또는 Buerger병(I73.1) 코드 필수</td></tr><tr><td><strong>Lidocaine patch</strong></td><td>B02.2 (대상포진 후 신경통)</td><td>PHN 외 상병은 전액 본인부담</td></tr></tbody></table>
+<table><thead><tr><th width="151.631591796875">약물 분류</th><th width="212.3157958984375">권장 상병 코드 (KCD-8)</th><th>급여 핵심 기준 및 주의사항</th></tr></thead><tbody><tr><td><strong>COX-2 저해제</strong><br>Celecoxib</td><td>M15~M19 (골관절염)<br>M05~M06 (류마티스)</td><td>60세 이상: 별도 사유 기재 없이 급여 인정. ▶ 60세 미만 삭감 주의: 다음 중 하나를 차트에 명기해야 급여 인정 — ① NSAIDs 투여 금기인 활동성 소화성 궤양 또는 출혈 병력 ② 60세 이상의 고령(해당 없음) ③ 스테로이드·항응고제 병용으로 GI 출혈 위험 높은 경우. 기재 예시: "60세 미만이나 소화성 궤양 기왕력 있어 COX-2 선택제 처방함." ※ HIRA 현행 고시 반드시 확인</td></tr><tr><td><strong>가바펜티노이드</strong><br>Pregabalin</td><td>E10~E14 (당뇨병성 신경병증)<br>B02.2 (대상포진 후 신경통)<br>M54.1 (신경뿌리병증)<br>G54.4 (요추 신경뿌리 장애)<br>G57.x / M54.3~M54.4 (원인별 신경병증)</td><td>단순 M54.5 (요통) 단독 코드는 삭감 위험 높음 — 방사통·전격통 등 신경병성 증상이 있을 경우 M54.1 또는 G54.4 병기 권장. 차트에 "방사통, NRS ○점, 저림 증상" 등 신경병성 근거 기재 필수. G63은 신경병성 통증 범용 코드로 부적합</td></tr><tr><td><strong>SNRI 항우울제</strong><br>Duloxetine</td><td>M79.7 (섬유근통)<br>M17 (무릎 골관절염)</td><td>무릎 골관절염은 NSAIDs에 반응하지 않는 경우에만 인정. ※ 정확한 고시 문구 HIRA 확인 필요</td></tr><tr><td><strong>마약성 진통제</strong><br>Oxycodone 등</td><td>M54.5 (만성 하부요통)<br>M15~M19 (심한 골관절염)</td><td>NSAIDs 최대 용량 투여 후 효과 없을 시 인정 (차트 기재 필수). ※ HIRA 원문 확인 권고</td></tr><tr><td><strong>프로스타글란딘</strong><br>Limaprost</td><td>M48.0 (척추관 협착증)<br>I73.1 (Buerger병)</td><td>척추관 협착증(M48.0) 또는 Buerger병(I73.1) 코드 필수</td></tr><tr><td><strong>Lidocaine patch</strong></td><td>B02.2 (대상포진 후 신경통)</td><td>PHN 외 상병은 전액 본인부담</td></tr></tbody></table>
 
 ※ **삭감 예방을 위한 차트 기재 가이드**
 
