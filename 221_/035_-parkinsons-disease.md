@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 'resting tremor, rigidity, bradykinesia, postural instability'를 특징으로 하는 진행성 neuro-degenerative disorder
-* **parkinsonism**은 이 증상군을 통칭하는 임상 용어이며, 파킨슨병(PD)은 그 원인 중 가장 흔한 하나(약 80%)임; 비정형 파킨슨증(PSP, MSA 등) 및 이차성 파킨슨증(약물, 혈관성 등)과 구별이 중요
+* Parkinsonism은 이 증상군을 통칭하는 임상 용어이며, 파킨슨병(PD)은 그 원인 중 가장 흔한 하나(약 80%)임; 비정형 파킨슨증(PSP, MSA 등) 및 이차성 파킨슨증(약물, 혈관성 등)과 구별이 중요
 * 보통 45\~65세에 발병; 60세 이상 인구의 1%; 알츠하이머병 다음으로 흔한 신경 변성 질환
 * 질환 자체보다 낙상·폐렴·연하 장애 등 합병증으로 인한 사망 위험이 증가하며, 적절한 치료 시 장기간 기능 유지가 가능함; 자세 불안정, 치매는 주로 후기에 발생
 
@@ -25,7 +25,7 @@
 
 * 가족력, 고령
 * 반복적 head trauma, 독소(예: 살충제) 노출, 방사선 노출
-*   약물&#x20;
+*   약물
 
     * 위장 운동 촉진제 : metoclopramide, levosulpiride
     * 항정신병제 : chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, lithium, valproic acid (특히 흔함)
@@ -137,26 +137,27 @@ _Ref. Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's diseas
 
 ### <mark style="color:orange;">UK Parkinson's disease society brain bank diagnostic criteria</mark>
 
-#### <mark style="color:$primary;">파킨슨병 진단</mark>
+**파킨슨병 진단**
 
 * bradykinesia 및 다음 중 ≥1개 존재
   * muscular rigidity
   * 4\~6 ㎐ resting tremor
   * postural instability
 
-#### <mark style="color:$primary;">파킨슨병 가능성</mark>
+**파킨슨병 가능성**
 
-* 다음 중 ≥3개 존재
-  * 편측 발생으로 시작
-  * 안정 시 떨림이 있음
-  * 점진적으로 진행되는 장애
-  * 시작된 쪽에서 비대칭적으로 지속
-  * levodopa에 잘 반응(70\~100%)
-  * 심한 levodopa-induced chorea
-  * levodopa 반응이 ≥5년 유지됨
-  * ≥10년 경과
+다음 중 ≥3개 존재
 
-#### <mark style="color:$primary;">배제 기준</mark>
+* 편측 발생으로 시작
+* 안정 시 떨림이 있음
+* 점진적으로 진행되는 장애
+* 시작된 쪽에서 비대칭적으로 지속
+* levodopa에 잘 반응(70\~100%)
+* 심한 levodopa-induced chorea
+* levodopa 반응이 ≥5년 유지됨
+* ≥10년 경과
+
+**배제 기준**
 
 * 순차적으로 악화되는 파킨슨 양상을 보이는 반복적 뇌경색 병력
 * 반복적 두부 외상력, 명확한 뇌염력
@@ -346,7 +347,7 @@ graph TD
 
 * 도파민 반응을 연장시킴. levodopa에 반응하는 경우 부가 사용 (wearing-off 개선 목적)
 * 부작용 : 구역, 설사, 기립성 저혈압, 착란, 운동이상증, 간독성(tolcapone), 오렌지색 소변
-* 금기/주의 : 설사, dyskinesia 악화; 간독성 (tolcapone),&#x20;
+* 금기/주의 : 설사, dyskinesia 악화; 간독성 (tolcapone),
 * entacapone : levodopa와 동시 복용 필수; 복용 횟수 많음; 200 ㎎, levodopa 복용 때마다; 최대 8T(1,600 ㎎)/d <mark style="color:blue;">\[콤탄]</mark>
 * tolcapone : 시작 100 ㎎ tid; 최대 800 ㎎/d; 간독성 위험, 간기능 모니터링 필수
 * opicapone : 1일 1회 복용으로 편의성 우수. entacapone 대비 On-time 연장 효과 강력; 25\\\~50 ㎎ qd (취침 전; levodopa 복용 최소 1시간 전후) <mark style="color:blue;">\[온젠티스]</mark>
