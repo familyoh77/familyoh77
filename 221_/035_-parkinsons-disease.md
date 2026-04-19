@@ -325,7 +325,7 @@ graph TD
 
 #### <mark style="color:$primary;">운동 합병증 관리 요약</mark>
 
-<table><thead><tr><th width="160">합병증</th><th width="220">특징</th><th>1차 대응</th><th>2차 대응</th></tr></thead><tbody><tr><td><strong>Wearing-off</strong></td><td>다음 복용 전 운동·비운동 증상 재출현; 비운동 OFF(불안, 발한, 통증)가 먼저 나타나는 경우 많음</td><td>투여 간격 단축 (q6h → q4h); MAO-B inhibitor 또는 COMT inhibitor 추가</td><td>서방형 제제 교체 또는 추가; rotigotine 패취; 신경과 의뢰</td></tr><tr><td><strong>Dyskinesia</strong><br>(peak-dose)</td><td>levodopa 최고 혈중 농도 시 불수의적 이상 운동 (writhing, 뒤틀림)</td><td>levodopa 단회 용량 감량 (총량 유지하되 횟수 증가); amantadine 추가</td><td>levodopa 총량 감량; DBS 고려 (약물 조절 한계 시)</td></tr><tr><td><strong>Freezing of gait</strong></td><td>걷기 시작 또는 방향 전환 시 갑자기 발이 멈춤; OFF 시 악화</td><td>Levodopa 최적화 (OFF 시간 단축); 청각/시각 큐 활용 (리듬, 바닥 줄)</td><td>재활 치료(보행 훈련); DBS 고려</td></tr><tr><td><strong>On-demand 요법</strong><br>(severe OFF)</td><td>예측 불가능한 갑작스러운 OFF; 일상생활 심각한 지장</td><td>신경과 의뢰 우선</td><td>흡입형 levodopa (Inbrija); 설하 apomorphine (Kynmobi) — 국내 허가 현황 확인 필요</td></tr></tbody></table>
+<table><thead><tr><th width="160">합병증</th><th width="220">특징</th><th>1차 대응</th><th>2차 대응</th></tr></thead><tbody><tr><td><strong>Wearing-off</strong></td><td>다음 복용 전 운동·비운동 증상 재출현; 비운동 OFF(불안, 발한, 통증)가 먼저 나타나는 경우 많음</td><td>투여 간격 단축 (q6h → q4h); MAO-B inhibitor 또는 COMT inhibitor 추가</td><td>서방형 제제 교체 또는 추가; rotigotine 패취; 신경과 의뢰</td></tr><tr><td><strong>Dyskinesia</strong><br>(peak-dose)</td><td>levodopa 최고 혈중 농도 시 불수의적 이상 운동 (writhing, 뒤틀림)</td><td>levodopa 단회 용량 감량 (총량 유지하되 횟수 증가); amantadine 추가</td><td>levodopa 총량 감량; DBS 고려 (약물 조절 한계 시)</td></tr><tr><td><strong>Freezing of gait</strong></td><td>걷기 시작 또는 방향 전환 시 갑자기 발이 멈춤; OFF 시 악화</td><td>Levodopa 최적화 (OFF 시간 단축); 청각/시각 큐 활용 (리듬, 바닥 줄)</td><td>재활 치료(보행 훈련); DBS 고려</td></tr><tr><td><strong>On-demand 요법</strong><br>(severe OFF)</td><td>예측 불가능한 갑작스러운 OFF; 일상생활 심각한 지장</td><td>신경과 의뢰 우선</td><td>흡입형 levodopa (Inbrija); 설하 apomorphine (Kynmobi) - 국내 허가 현황 확인 필요</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Dopamine agonists</mark>
 
@@ -337,7 +337,7 @@ graph TD
 * 금기/주의 : 인지 저하 / 치매, 환각 병력, 충동조절장애 (도박, 과소비, 성욕 증가), 고령 (≥70), 심한 졸림 (운전 직업), 부종, 심부전
 * pramipexole : 시작 0.125 ㎎ tid, 서방형 0.375 ㎎ qd; 최대 4.5 ㎎/d <mark style="color:blue;">\[미라펙스]</mark>
 * ropinirole : 시작 0.25 ㎎ tid, 서방형 2 ㎎ qd; 최대 8 ㎎ tid(24 ㎎/d; 임상에서는 통상 16 ㎎/d 이하에서 사용) <mark style="color:blue;">\[리큅]</mark>
-* rotigotine : 2 ㎎/d; 최대 16 ㎎/d <mark style="color:blue;">\[뉴프로 패취]</mark> — 패취 제형으로 지속적 도파민 자극(continuous dopaminergic stimulation, CDS) 효과; wearing-off 및 야간 증상 개선에 유리
+* rotigotine : 2 ㎎/d; 최대 16 ㎎/d <mark style="color:blue;">\[뉴프로 패취]</mark> - 패취 제형으로 지속적 도파민 자극(continuous dopaminergic stimulation, CDS) 효과; wearing-off 및 야간 증상 개선에 유리
 * bromocriptine : 시작 1.25 ㎎ bid; 최대 90 ㎎/d <mark style="color:blue;">\[팔로델]</mark>
 * apomorphine : 주사제; 시작 2 ㎎; 최대 6 ㎎
 
@@ -346,7 +346,7 @@ graph TD
 * 내약성 좋음
 * 부작용 : 구역, 두통, 수면 장애, 환각; SSRI, TCA, meperidine 병용 회피
 * 금기/주의 : SSRI/SNRI/TCA 병용(절대 금기 아님, 모니터링 필요), 심한 불면 (특히 selegiline)
-* selegiline : 5 ㎎ 아침; 최대 10 ㎎ #2(아침/점심) — 저녁 복용 시 불면 유발 가능 <mark style="color:blue;">\[마오비]</mark>
+* selegiline : 5 ㎎ 아침; 최대 10 ㎎ #2(아침/점심) - 저녁 복용 시 불면 유발 가능 <mark style="color:blue;">\[마오비]</mark>
 * rasagiline : 시작 0.5 ㎎ qd; 최대 1 ㎎/d <mark style="color:blue;">\[아질렉트]</mark>
 * safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d - levodopa 보조제; MAO-B 억제 외에 글루타메이트 방출 조절(Na⁺ 채널 차단) 기전을 추가로 가져 운동 기복(fluctuation) 및 파킨슨 관련 통증 개선에 유효 <mark style="color:blue;">\[엑사디고]</mark>
 
@@ -380,7 +380,7 @@ graph TD
 
 ### <mark style="color:orange;">운동 증상 약제 비교</mark>
 
-<table><thead><tr><th width="117.36846923828125">약제군</th><th width="167.894775390625">주요 성분명 [상품명]</th><th width="119.21051025390625">기전</th><th width="131.84210205078125">주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>Levodopa/Carbidopa <mark style="color:blue;">[시네메트]</mark><br>L-dopa/Benserazide <mark style="color:blue;">[마도파]</mark></td><td>도파민 전구체 보충</td><td>구역, dyskinesia(장기), 기립성 저혈압</td><td>Gold standard; 모든 연령에서 가장 효과적</td></tr><tr><td>Dopamine agonist</td><td>Pramipexole <mark style="color:blue;">[미라펙스]</mark><br>Ropinirole <mark style="color:blue;">[리큅]</mark><br>Rotigotine <mark style="color:blue;">[뉴프로 패취]</mark></td><td>도파민 수용체 직접 자극</td><td>충동 조절 장애, 졸림, DAWS(금단)</td><td>젊은 환자(＜60세) 초기 선호; dyskinesia 위험 낮음</td></tr><tr><td>MAO-B 억제제</td><td>Rasagiline <mark style="color:blue;">[아질렉트]</mark><br>Safinamide<br>Selegiline <mark style="color:blue;">[마오비]</mark></td><td>도파민 분해 억제</td><td>불면(저녁 복용 시), 두통, 구역</td><td>초기 단독 또는 levodopa 보조; 내약성 양호; SSRI/TCA 병용 시 세로토닌 증후군 위험 — 병용 회피 원칙; 불가피 시 저용량·모니터링</td></tr><tr><td>COMT 억제제</td><td>Entacapone <mark style="color:blue;">[콤탄]</mark><br>Opicapone <mark style="color:blue;">[온젠티스]</mark></td><td>Levodopa 말초 분해 억제 → 반감기 연장</td><td>오렌지색 소변, 설사, 운동이상증</td><td>Wearing-off 개선; Opicapone은 1일 1회로 편의성·효과 우수</td></tr><tr><td>NMDA 억제제</td><td>Amantadine <mark style="color:blue;">[피케이멜즈]</mark></td><td>글루타메이트 차단</td><td>망상피반, 어지럼, 착란, 환각</td><td>Levodopa 유발 dyskinesia 감소에 유효한 거의 유일한 경구 약제; 초기 운동 증상에도 사용 가능</td></tr><tr><td>항콜린제</td><td>Trihexyphenidyl <mark style="color:blue;">[트리헥신]</mark><br>Benztropine <mark style="color:blue;">[벤즈트로핀]</mark></td><td>Acetylcholine 작용 차단</td><td>입마름, 소변 잔류, 인지 저하</td><td>Tremor 우세형 젊은 환자에서 고려; 고령자 주의</td></tr></tbody></table>
+<table><thead><tr><th width="117.36846923828125">약제군</th><th width="167.894775390625">주요 성분명 [상품명]</th><th width="119.21051025390625">기전</th><th width="131.84210205078125">주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>Levodopa/Carbidopa <mark style="color:blue;">[시네메트]</mark><br>L-dopa/Benserazide <mark style="color:blue;">[마도파]</mark></td><td>도파민 전구체 보충</td><td>구역, dyskinesia(장기), 기립성 저혈압</td><td>Gold standard; 모든 연령에서 가장 효과적</td></tr><tr><td>Dopamine agonist</td><td>Pramipexole <mark style="color:blue;">[미라펙스]</mark><br>Ropinirole <mark style="color:blue;">[리큅]</mark><br>Rotigotine <mark style="color:blue;">[뉴프로 패취]</mark></td><td>도파민 수용체 직접 자극</td><td>충동 조절 장애, 졸림, DAWS(금단)</td><td>젊은 환자(＜60세) 초기 선호; dyskinesia 위험 낮음</td></tr><tr><td>MAO-B 억제제</td><td>Rasagiline <mark style="color:blue;">[아질렉트]</mark><br>Safinamide<br>Selegiline <mark style="color:blue;">[마오비]</mark></td><td>도파민 분해 억제</td><td>불면(저녁 복용 시), 두통, 구역</td><td>초기 단독 또는 levodopa 보조; 내약성 양호; SSRI/TCA 병용 시 세로토닌 증후군 위험 - 병용 회피 원칙; 불가피 시 저용량·모니터링</td></tr><tr><td>COMT 억제제</td><td>Entacapone <mark style="color:blue;">[콤탄]</mark><br>Opicapone <mark style="color:blue;">[온젠티스]</mark></td><td>Levodopa 말초 분해 억제 → 반감기 연장</td><td>오렌지색 소변, 설사, 운동이상증</td><td>Wearing-off 개선; Opicapone은 1일 1회로 편의성·효과 우수</td></tr><tr><td>NMDA 억제제</td><td>Amantadine <mark style="color:blue;">[피케이멜즈]</mark></td><td>글루타메이트 차단</td><td>망상피반, 어지럼, 착란, 환각</td><td>Levodopa 유발 dyskinesia 감소에 유효한 거의 유일한 경구 약제; 초기 운동 증상에도 사용 가능</td></tr><tr><td>항콜린제</td><td>Trihexyphenidyl <mark style="color:blue;">[트리헥신]</mark><br>Benztropine <mark style="color:blue;">[벤즈트로핀]</mark></td><td>Acetylcholine 작용 차단</td><td>입마름, 소변 잔류, 인지 저하</td><td>Tremor 우세형 젊은 환자에서 고려; 고령자 주의</td></tr></tbody></table>
 
 ### <mark style="color:orange;">운동 증상 이외 증상의 치료</mark>
 
