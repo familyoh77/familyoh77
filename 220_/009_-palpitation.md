@@ -25,7 +25,7 @@
 * 흉통 동반 또는 수면 장애 유발
 * 하지 부종 (심부전 시사)
 * 국소 신경학적 증상 (색전증 시사)
-* **박동기(Pacemaker) 또는 ICD 삽입 환자**에서 새로운 두근거림 — 기기 오작동(부적절 감지, 리드 이상, 부적절 쇼크) 감별 필요; 기기 클리닉 또는 심장내과 당일 의뢰
+* 박동기(Pacemaker) 또는 ICD 삽입 환자에서 새로운 두근거림 - 기기 오작동(부적절 감지, 리드 이상, 부적절 쇼크) 감별 필요; 기기 클리닉 또는 심장내과 당일 의뢰
 
 <mark style="color:$info;">**외래 추적 / 저위험 - 관찰**</mark>
 
@@ -37,14 +37,14 @@
 
 ### <mark style="color:orange;">심장 원인</mark>
 
-* 심방세동(AF, 15%) : 불규칙한 두근거림의 가장 흔한 심장 원인; P파 소실·불규칙한 RR 간격이 특징; 기저 원인으로 고혈압·심부전·갑상선 기능 항진증·OSA·과도한 음주 확인&#x20;
-  * **Holiday heart** : 폭음(binge drinking) 후 발생하는 AF; 음주력 청취 시 특히 확인
+* 심방세동(AF, 15%) : 불규칙한 두근거림의 가장 흔한 심장 원인; P파 소실·불규칙한 RR 간격이 특징; 기저 원인으로 고혈압·심부전·갑상선 기능 항진증·OSA·과도한 음주 확인
+  * Holiday heart : 폭음(binge drinking) 후 발생하는 AF; 음주력 청취 시 특히 확인
 * 심실상성빈맥(SVT, 10%), 구조적 심장 질환
   1. "flip-flopping" (or "stop and start") : 심방이나 심실의 조기 수축
   2. rapid "fluttering in the chest"
      * regular "fluttering" : supraventricular 또는 ventricular tachycardia (sinus tachycardia 포함)
      * irregular "fluttering" : variable block(atrial fibrillation, atrial flutter, multifocal atrial tachycardia)
-  3. "pounding in the neck"(neck pulsations) : right atrium contract(jugular venous pulsations); AV 해리 시 **cannon A wave** 발생
+  3. "pounding in the neck"(neck pulsations) : right atrium contract(jugular venous pulsations); AV 해리 시 cannon A wave 발생
 * Chest pain 동반 → 허혈성 심질환
 * 몸을 앞으로 기울이면 호전 → 심막 질환
 * Light-headedness, presyncope or syncope → 저혈압, 중증 부정맥
@@ -55,11 +55,11 @@
 * 정신적 요인(가장 흔함; 30%) : 공포, 불안, 우울, 신체화 증상, 스트레스; 보통 ＞15분 지속
   * 과호흡, hand tingling, 과민 반응 → 불안, 공황 장애
   * 기질적 심장 질환이 배제된 경우에도 심장 감각 과민(cardiac sensory hypervigilance) 상태로 설명할 수 있음; "심장에 이상이 없다"는 단순 부정보다 "심장이 예민해진 상태"임을 설명하고 신체 증상 장애(Somatic Symptom Disorder) 관점에서 접근하면 환자 수용도가 높아짐
-* **부적절 동빈맥(Inappropriate Sinus Tachycardia, IST)** : 안정 시 지속적 빈맥 + 경미한 활동에도 과도한 심박수 반응; 불안장애로 오진되는 경우 많음 — 구조적 심질환 및 이차 원인 배제 후 진단
-* **체위성 기립성 빈맥 증후군(POTS)** : 기립 시 HR ≥30 bpm 이상 증가(10분 내), 실신 없이 두근거림·피로·brain fog 동반; 젊은 여성에서 흔함 — 기립성 저혈압(기립 시 혈압 강하)과 구별 필요
+* 부적절 동빈맥(Inappropriate Sinus Tachycardia, IST) : 안정 시 지속적 빈맥 + 경미한 활동에도 과도한 심박수 반응; 불안장애로 오진되는 경우 많음 - 구조적 심질환 및 이차 원인 배제 후 진단
+* 체위성 기립성 빈맥 증후군(POTS) : 기립 시 HR ≥30 bpm 이상 증가(10분 내), 실신 없이 두근거림·피로·brain fog 동반; 젊은 여성에서 흔함 - 기립성 저혈압(기립 시 혈압 강하)과 구별 필요
 * 대사/전해질 이상
   * 빈혈 : 두근거림의 흔한 대사적 원인; CBC로 확인 필수 (Hb ＜10 g/dL 시 특히 의심)
-  * 전해질 이상 : 저칼륨혈증(hypokalemia), 저마그네슘혈증(hypomagnesemia)은 부정맥의 흔한 유발 원인 — 이뇨제 복용 환자에서 특히 확인 필요
+  * 전해질 이상 : 저칼륨혈증(hypokalemia), 저마그네슘혈증(hypomagnesemia)은 부정맥의 흔한 유발 원인 - 이뇨제 복용 환자에서 특히 확인 필요
   * thyrotoxicosis/갑상선항진증, 저혈압, 저혈당, 탈수(설사), 폐경기증후군
     * 체중 감소, 미세한 손 떨림(fine tremor), 심부 건반사 항진 → 갑상선항진증
     * 홍조, 일시적 고혈압, 두통, 불안, 발한 → pheochromocytoma, paraganglioma
@@ -67,33 +67,27 @@
 * 심박출량 증가 상태 : 발열, 임신, 월경, 운동, 기립성 저혈압
 * 약물 : 교감 신경 항진제(예: 다이어트 약물, 충혈 제거제, 천식 흡입제), 항부정맥제, 혈관 확장제, 항콜린제, β-차단제 금단, 카페인(예: 커피, 코코아, 초콜릿, 에너지 드링크), 니코틴, 코카인, 암페타민, 알코올
   * GLP-1 수용체 작용제(삭센다, 오젬픽 등) : 경도의 심박수 증가(평균 2\~4 bpm) 유발 가능 - 체중 감량 목적 사용 증가로 확인 필요
-  * **Levothyroxine** : 과잉 투여 시 빈맥·두근거림 유발 — TSH 확인 필수
-  * **SGLT2 억제제** : 삼투성 이뇨(osmotic diuresis) → 용적 감소(volume depletion) → 반사성 빈맥 기전; 두근거림 호소 시 수분 섭취 적절성 확인 + **혈압 저하 동반 여부 함께 평가** 필요
+  * Levothyroxine : 과잉 투여 시 빈맥·두근거림 유발 - TSH 확인 필수
+  * SGLT2 억제제 : 삼투성 이뇨(osmotic diuresis) → 용적 감소(volume depletion) → 반사성 빈맥 기전; 두근거림 호소 시 수분 섭취 적절성 확인 + 혈압 저하 동반 여부 함께 평가 필요
 * 허브 및 영양 보충제, 특정 음식
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">두근거림 표현형 분류</mark>
 
-증상 특성만으로도 감별 방향을 좁힐 수 있다.
+<table><thead><tr><th width="258">표현형</th><th width="180">시사 진단</th><th>우선 확인</th></tr></thead><tbody><tr><td>빠르고 규칙적, 갑자기 시작·종료</td><td>SVT</td><td>ECG, Holter</td></tr><tr><td>완전 불규칙</td><td>AF, AFL, MAT</td><td>ECG, TSH, 음주력</td></tr><tr><td>건너뜀·쿵 느낌 (flip-flop)</td><td>PAC/PVC</td><td>ECG, Holter</td></tr><tr><td>서서히 시작, 점진적 빈맥</td><td>동빈맥, IST</td><td>CBC, TSH, 탈수 여부</td></tr><tr><td>기립 시 심해짐 + 피로·brain fog</td><td>POTS</td><td>기립 전후 HR 측정</td></tr><tr><td>정상 맥박인데 두근거림 느낌</td><td>불안, 과민</td><td>불안 척도, 심장 이상 배제</td></tr></tbody></table>
 
-<table><thead><tr><th width="220">표현형</th><th width="180">시사 진단</th><th>우선 확인</th></tr></thead><tbody><tr><td>빠르고 규칙적, 갑자기 시작·종료</td><td>SVT</td><td>ECG, Holter</td></tr><tr><td>완전 불규칙</td><td>AF, AFL, MAT</td><td>ECG, TSH, 음주력</td></tr><tr><td>건너뜀·쿵 느낌 (flip-flop)</td><td>PAC/PVC</td><td>ECG, Holter</td></tr><tr><td>서서히 시작, 점진적 빈맥</td><td>동빈맥, IST</td><td>CBC, TSH, 탈수 여부</td></tr><tr><td>기립 시 심해짐 + 피로·brain fog</td><td>POTS</td><td>기립 전후 HR 측정</td></tr><tr><td>정상 맥박인데 두근거림 느낌</td><td>불안, 과민</td><td>불안 척도, 심장 이상 배제</td></tr></tbody></table>
-
-{% hint style="info" %}
-**진료실 3문 법칙**
-
-1. "두근거림이 갑자기 시작해서 갑자기 끝나나요?"  → YES → SVT 가능성
-2. "맥이 규칙적인가요, 불규칙한가요?" → 불규칙 → AF 가능성
-3. "어지럼이나 실신이 동반되나요?" → YES → 고위험 부정맥 배제 필요
-{% endhint %}
+* "두근거림이 갑자기 시작해서 갑자기 끝나나요?" → YES → SVT 가능성
+* "맥이 규칙적인가요, 불규칙한가요?" → 불규칙 → AF 가능성
+* "어지럼이나 실신이 동반되나요?" → YES → 고위험 부정맥 배제 필요
 
 {% hint style="info" %}
 **증상-맥박 불일치 확인 (Pulse-Symptom Correlation)**
 
-두근거림을 호소하지만 진료실 맥박이 정상인 경우, **증상 발생 시점의 실제 맥박수**를 확인하는 것이 핵심이다. 환자에게 증상 발생 시 손목 또는 경동맥을 직접 짚어 15초간 맥박을 세거나, 스마트워치·심박 앱으로 기록하도록 교육한다.
+두근거림을 호소하지만 진료실 맥박이 정상인 경우, 증상 발생 시점의 실제 맥박수를 확인하는 것이 핵심이다. 환자에게 증상 발생 시 손목 또는 경동맥을 직접 짚어 15초간 맥박을 세거나, 스마트워치·심박 앱으로 기록하도록 교육한다.
 
-* 증상 중 맥박수가 **실제로 정상(60\~100회/분)** → 불안·cardiac hypervigilance 접근이 적절; 불필요한 부정맥 검사를 줄일 수 있음
-* 증상 중 맥박수가 **빠르거나 불규칙** → 간헐적 부정맥 가능성 → 장기 심전도 모니터링 적극 고려
+* 증상 중 맥박수가 실제로 정상(60\~100회/분) → 불안·cardiac hypervigilance 접근이 적절; 불필요한 부정맥 검사를 줄일 수 있음
+* 증상 중 맥박수가 빠르거나 불규칙 → 간헐적 부정맥 가능성 → 장기 심전도 모니터링 적극 고려
 {% endhint %}
 
 ### <mark style="color:orange;">초기 평가</mark>
@@ -101,15 +95,15 @@
 * 병력 청취 : 발생 양상(규칙/불규칙), 지속 시간, 유발·완화 요인(운동·식사·음주·스트레스), 동반 증상(흉통·실신·호흡 곤란)
 * 신체 검진 : 맥박(rate·rhythm), 혈압, 갑상선 촉진, 심잡음
 * 기본 검사 : 12-lead ECG, CBC, 전해질(K, Mg), TSH, 혈당
-* **심초음파(ECHO)** : 구조적 심장 질환 여부가 두근거림의 예후를 결정하는 핵심 인자 — 아래 경우 **필수** 시행
+* 심초음파(ECHO) : 구조적 심장 질환 여부가 두근거림의 예후를 결정하는 핵심 인자 - 아래 경우 필수 시행
   * 심잡음 청취
   * 비정상 ECG (좌심실 비대, ST 변화, pre-excitation 등)
   * 운동 중 발생 또는 실신 동반
   * 심부전·심근병증·판막 질환 의심
-* **BNP/NT-proBNP** : 하지 부종·호흡 곤란 등 심부전이 시사되는 경우 기본 검사에 추가 고려
+* BNP/NT-proBNP : 하지 부종·호흡 곤란 등 심부전이 시사되는 경우 기본 검사에 추가 고려
 
 {% hint style="danger" %}
-⚠️ **정상 ECG는 간헐적 부정맥을 배제하지 않는다.** 특히 SVT, 발작성 AF는 증상이 없는 시점의 ECG에서 정상 소견을 보일 수 있으므로, 반복·간헐 증상이 있다면 장기 심전도 모니터링이 필수다.
+**정상 ECG는 간헐적 부정맥을 배제하지 않는다.** 특히 SVT, 발작성 AF는 증상이 없는 시점의 ECG에서 정상 소견을 보일 수 있으므로, 반복·간헐 증상이 있다면 장기 심전도 모니터링이 필수다.
 {% endhint %}
 
 ### <mark style="color:orange;">장기 심전도 모니터링</mark>
@@ -118,12 +112,12 @@
 
 <table><thead><tr><th width="200">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td>매일</td><td>24시간 Holter 검사</td></tr><tr><td>수일 ~ 수주</td><td>패치형 장기 심전도 (예: 메모패치, KardiaMobile) — 수일~수주 연속 기록</td></tr><tr><td>수주 ~ 수개월</td><td>이벤트 기록기 (증상 발생 시 환자가 직접 기록)</td></tr><tr><td>수개월에 1회 + 실신 동반</td><td>이식형 루프 기록기 (ILR) — 상급병원 의뢰</td></tr></tbody></table>
 
-* **스마트워치 ECG** (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능; **AF 검출 false positive 주의** — 임상 확인(clinician confirmation) 필수, 스마트워치 단독 진단은 권장하지 않음
-* **증상 기록지(Symptom Diary)** : 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 — 진단 효율을 크게 높임
+* 스마트워치 ECG (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능; AF 검출 false positive 주의 - 임상 확인(clinician confirmation) 필수, 스마트워치 단독 진단은 권장하지 않음
+* 증상 기록지(Symptom Diary) : 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 - 진단 효율을 크게 높임
 
 ### <mark style="color:orange;">SVT vs AF vs 불안·과민 감별</mark>
 
-<table><thead><tr><th width="160">항목</th><th width="180">SVT</th><th width="180">AF</th><th>불안·과민</th></tr></thead><tbody><tr><td>시작·종료</td><td>갑작스럽게 시작·종료</td><td>비교적 갑작스럽지만 지속적</td><td>서서히 시작, 점진적</td></tr><tr><td>리듬</td><td>매우 규칙적</td><td>완전 불규칙 (irregularly irregular)</td><td>대체로 규칙적</td></tr><tr><td>심박수</td><td>150 – 220</td><td>90 – 170 (variable)</td><td>80 – 130</td></tr><tr><td>환자 표현</td><td>"갑자기 확 올라갔다 꺼짐"</td><td>"불규칙하게 두근거림"</td><td>"심장이 계속 신경 쓰임"</td></tr><tr><td>Neck pounding</td><td>흔함 (cannon A wave)</td><td>드묾</td><td>없음</td></tr><tr><td>유발 요인</td><td>없음 (spontaneous)</td><td>음주·감염·수면 부족</td><td>스트레스·불안·과호흡</td></tr><tr><td>ECG</td><td>narrow regular tachycardia</td><td>P파 소실, 불규칙 RR</td><td>동빈맥</td></tr></tbody></table>
+<table><thead><tr><th width="148">항목</th><th width="190">SVT</th><th width="180">AF</th><th>불안·과민</th></tr></thead><tbody><tr><td>시작·종료</td><td>갑작스럽게 시작·종료</td><td>비교적 갑작스럽지만 지속적</td><td>서서히 시작, 점진적</td></tr><tr><td>리듬</td><td>매우 규칙적</td><td>완전 불규칙 (irregularly irregular)</td><td>대체로 규칙적</td></tr><tr><td>심박수</td><td>150 – 220</td><td>90 – 170 (variable)</td><td>80 – 130</td></tr><tr><td>환자 표현</td><td>갑자기 확 올라갔다 꺼짐</td><td>불규칙하게 두근거림</td><td>심장이 계속 신경 쓰임</td></tr><tr><td>Neck pounding</td><td>흔함 (cannon A wave)</td><td>드묾</td><td>없음</td></tr><tr><td>유발 요인</td><td>없음 (spontaneous)</td><td>음주·감염·수면 부족</td><td>스트레스·불안·과호흡</td></tr><tr><td>ECG</td><td>narrow regular tachycardia</td><td>P파 소실, 불규칙 RR</td><td>동빈맥</td></tr></tbody></table>
 
 ### <mark style="color:orange;">심방세동(AF) 의심 시</mark>
 
@@ -251,7 +245,7 @@ R00.2 두근거림
 >    R05·R00 단독 청구 시 삭감 위험
 > ```
 >
-> _✽항불안제는 단기 bridge 목적에 한하며, 반복·만성 불안이 있으면 (☞ [불안장애](../231_/anxiety-disorder.md)) 참조하여 SSRI/CBT 기반 치료로 전환_
+> _✽항불안제는 단기 bridge 목적에 한하며, 반복·만성 불안이 있으면 (☞_ [_불안장애_](../231_/anxiety-disorder.md)_) 참조하여 SSRI/CBT 기반 치료로 전환_
 
 > **처방례 2. 두근거림 — 심박수 조절 + 단기 항불안 병용**
 >
