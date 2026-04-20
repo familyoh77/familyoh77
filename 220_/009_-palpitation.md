@@ -203,21 +203,21 @@ graph TD
 
     SVT --> SVT1{"동반 상황"}
     SVT1 -->|"불안·떨림 동반"| BB1["β-차단제<br/>(propranolol, metoprolol)"]
-    SVT1 -->|"β-차단제 부적합<br/>(천식·COPD)"| CCB1["non-DHP CCB<br/>(diltiazem, verapamil)"]
-    SVT1 -->|"Valsalva 실패"| ER1["⚠️ 즉시 응급실 이송<br/>(adenosine은 ER 처치)"]
+    SVT1 ---->|"β-차단제 부적합<br/>(천식·COPD)"| CCB1["non-DHP CCB<br/>(diltiazem, verapamil)"]
+    SVT1 -->|"Valsalva 실패"| ER1["즉시 응급실 이송<br/>(adenosine은 ER 처치)"]
 
     AF --> AF1{"기저 질환"}
     AF1 -->|"HFrEF"| BB2["β-차단제"]
-    AF1 -->|"천식·COPD"| CCB2["non-DHP CCB"]
-    AF1 -->|"WPW+AF 의심"| WPW["🚨 AV node 차단제 절대 금기<br/>→ 즉시 응급 이송"]
+    AF1 ---->|"천식·COPD"| CCB2["non-DHP CCB"]
+    AF1 -->|"WPW+AF 의심"| WPW["AV node 차단제 절대 금기<br/>→ 즉시 응급 이송"]
 
-    PVC --> PVC1["Reassurance<br/>유발 인자 제거<br/>(카페인·알코올·스트레스)"]
+    PVC --> PVC1["Reassurance<br/>유발 인자 제거<br/>(카페인·알코올<br/>·스트레스)"]
     PVC1 -->|"증상 지속 시"| BB3["β-차단제 저용량"]
 
-    Sinus --> Sinus1["원인 교정 우선<br/>(빈혈·갑상선·탈수·발열)"]
+    Sinus --> Sinus1["원인 교정 우선<br/>(빈혈·갑상선<br/>·탈수·발열)"]
     Sinus1 -->|"증상 조절 필요 시"| BB4["β-차단제"]
 
-    Anxiety --> Anxiety1["☞ 불안장애 챕터 참조"]
+    Anxiety --> Anxiety1["☞ 불안장애"]
 
     style WPW fill:#ff6b6b,stroke:#c0392b,color:#fff
     style ER1 fill:#f39c12,stroke:#e67e22,color:#fff
