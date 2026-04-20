@@ -136,7 +136,7 @@ flowchart TD
 
 <p align="center"><strong>통증 관리 알고리즘</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 /</mark></em><br><em><mark style="color:$info;">IASP Classification of Chronic Pain 2019</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 편집. Ref. CDC 2022 / IASP Classification of Chronic Pain (Treede RD et al., Pain 2019) /</mark></em> <br><em><mark style="color:$info;">WHO Analgesic Ladder / 대한통증학회 아편유사제 처방지침 2024</mark></em></p>
 
 ***
 
@@ -171,9 +171,9 @@ flowchart TD
     style M fill:#e8f5e9,stroke:#388e3c
 ```
 
-<p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜 (MME 기반)</strong></p>
+<p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 /</mark></em> <br><em><mark style="color:$info;">대한통증학회 아편유사제 처방지침 2024</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 편집. Ref. CDC Clinical Practice Guideline for Prescribing Opioids 2022 /</mark></em> <br><em><mark style="color:$info;">대한통증학회 아편유사제 처방지침 2024</mark></em></p>
 
 ***
 
