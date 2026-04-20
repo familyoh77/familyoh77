@@ -196,7 +196,7 @@ graph TD
     style L fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
-<p align="center"><strong>호흡 곤란 1차 진료 진단·처치 알고리듬</strong></p>
+<p align="center"><strong>호흡 곤란 진단·처치 알고리듬</strong></p>
 
 #### <mark style="color:red;">**1차 진료에서 흔한 진단 오류**</mark>
 

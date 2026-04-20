@@ -142,17 +142,17 @@
 
 ```mermaid
 graph TD
-    A([후각·미각 이상 호소]) --> B{"① 진짜 미각 문제? <br/>단맛·짠맛·신맛 구분 가능?"}
+    A([후각·미각 이상 호소]) --> B{"진짜 미각 문제? <br/>단맛·짠맛·신맛 구분 가능?"}
     B -->|"YES → 진짜 미각 장애<br/>구강·약물 원인 우선"| C["구강건조·약물 부작용<br/>구강 내 원인 확인"]
-    B -->|"NO → 풍미·향 전체 감소<br/>→ 후각 문제 가능성 높음"| D{"② Red Flag?"}
+    B -->|"NO → 풍미·향 전체 감소<br/>→ 후각 문제 가능성 높음"| D{"Red Flag?"}
     C --> D
     D -->|"편측 소실+신경학적 증상<br/>두통·시야 이상·안면마비"| E["영상검사<br/>MRI / CT<br/>신경과 의뢰"]
-    D -->|없음| F{"③ 발병 양상 및 동반 증상"}
+    D -->|없음| F{"발병 양상 및 동반 증상"}
     F -->|"급성<br/>URI·COVID·약물 복용"| G["Post-viral / 약물<br/>Sensorineural"]
     F -->|"두부 외상 후"| H["Post-traumatic<br/>Sensorineural"]
     F -->|"코막힘·콧물·비용종 동반"| I["Conductive<br/>비부비동 원인"]
     F -->|"서서히 진행<br/>파킨슨 징후·인지저하"| J["신경퇴행성 의심"]
-    G --> K["④ 약물 검토<br/>기본 검사<br/>CBC·TSH·B12·Zinc"]
+    G --> K["약물 검토<br/>기본 검사<br/>CBC·TSH·B12·Zinc"]
     H --> K
     I --> L["Conductive 치료<br/>INCS Mygind position<br/>CRS → ENT 의뢰"]
     J --> M["신경과 의뢰<br/>Parkinson/Alzheimer 선별"]

@@ -137,8 +137,6 @@ graph TD
 
 <p align="center"><strong>구취증 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 처방가이드 편집팀 (2025)</mark></em></p>
-
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
