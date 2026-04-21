@@ -136,7 +136,79 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ***
 
-<figure><img src="../.gitbook/assets/부종3.JPG" alt=""><figcaption></figcaption></figure>
+```mermaid
+graph TD
+    A[<u>편측하지부종</u><br/>급성 <72h] --> B[DVT 가능성]
+    B -- 낮음 --> C[D-dimer 검사]
+    B -- 높음 --> D[duplex US]
+    C -- 정상 --> E[다른 원인 고려<br>예: Cellulitis]
+    C -- 상승 --> D
+    D --> F[No DVT]
+    D --> G[DVT 진단]
+    F --> H[골반 MR venography<br>골반 or 원위부 DVT 평가]
+    G --> I[치료]
+    H -- 음성 --> J[다른 원인 고려]
+    
+    style A fill:#d5f5e3,stroke:#27ae60
+    style E fill:#fdebd0,stroke:#e67e22
+    style G fill:#fdebd0,stroke:#e67e22
+    style J fill:#fdebd0,stroke:#e67e22
+```
+
+```mermaid
+graph TD
+    A["<u>편측하지부종</u><br/>만성 (≥72h)"] --> B["암, 골반 수술, 외상 병력?"]
+    
+    B -- "no" --> C["duplex US"]
+    B -- "yes" --> D["골반 MR venography"]
+    
+    C --> E["만성 정맥부전 의심?"]
+    E -- "yes" --> F["치료"]
+    E -- "no" --> G["Lymphedema 의심?"]
+    
+    D --> H["암 or 혈전 폐쇄?"]
+    H -- "no" --> G
+    H -- "yes" --> I["추가 치료"]
+    
+    G -- "no" --> J["다른 원인 고려"]
+    G -- "yes" --> K["lymphoscintigraphy,<br/>lymphangiography"]
+    
+    style A fill:#d5f5e3,stroke:#27ae60
+    style H fill:#fdebd0,stroke:#e67e22
+    style E fill:#fdebd0,stroke:#e67e22
+    style G fill:#fdebd0,stroke:#e67e22
+    style J fill:#fdebd0,stroke:#e67e22
+```
+
+```mermaid
+graph TD
+    START["[ 양측 하지 부종 <br/>or 전신 부종 ]"] --> A["전신 질환 의심 양상/병력?"]
+    
+    A -- "no" --> B1["급성 (<72h)"]
+    A -- "no" --> B2["만성 (≥72h)"]
+    
+    B1 --> C1["유발 약물이<br/>있는 경우 중단"]
+    
+    B2 --> C2["임상적 특징에 따른 추정 진단"]
+    C2 --> D1["만성 정맥부전 의심"]
+    C2 --> D2["Lymphedema"]
+    C2 --> D3["Lipedema"]
+    C2 --> D4["다른 원인 고려<br/>(예: 특발성)"]
+    
+    D1 & D2 --> E1["검사, 진단, 치료"]
+    
+    A -- "yes" --> B3["의심 질환에 대한 평가<br/>(예: 암, 간/신 질환)"]
+    B3 --> C3["불편한 수면,<br/>코골이, or 비만?"]
+    C3 -- "yes" --> D5["폐쇄수면무호흡증 검사<br/>(polysomnography,<br/>echocardiography)"]
+
+style START fill:#d5f5e3,stroke:#27ae60
+style D1 fill:#fdebd0,stroke:#e67e22
+style D2 fill:#fdebd0,stroke:#e67e22
+style D3 fill:#fdebd0,stroke:#e67e22
+style D4 fill:#fdebd0,stroke:#e67e22
+```
+
+<p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong><br><em><mark style="color:$info;">US=ultrasonography, DVT=deep venous thrombosis</mark></em><br><em><mark style="color:$info;">Ref. Edema: Diagnosis and Management. AFP 2013:88(2). Fig 1 &#x26; 2.</mark></em></p>
 
 ***
 
@@ -190,7 +262,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * 더운 환경을 피함
 * leg elevation : 하지 부종에 대하여 심장 높이 이상으로 30분씩 하루 3\~4회
 * 하지 압박: 깨어 있을 때 압박 스타킹 착용; 취침 시에는 착용하지 않음
-  * 1차 선택  : 일반적으로 AD type 스타킹(발목\~무릎 아래)
+  * 1차 선택 : 일반적으로 AD type 스타킹(발목\~무릎 아래)
     * AG type(발목\~허벅지) : 병변이 허벅지 이상으로 명확히 존재하는 경우에 한해 선택적 적용; 순응도가 낮고, 무릎 뒤에서 접힐 경우 지혈대 효과(Tourniquet effect) 위험
   * 금기 : ABI ＜0.5 (중증 동맥 부전); 울혈성 심부전 NYHA Class III/IV (정맥 환류 급증으로 심장 부하 증가 위험); 취침 시 착용 금지; ABI 0.5\~0.8에서는 저압력(20 ㎜Hg 이하) 적용 시 주의 하에 사용 가능
   * 주의 : 중증 말초신경병증(peripheral neuropathy) 환자는 압박에 의한 피부 손상을 감지하지 못할 수 있으므로 신중히 적용하고 정기적으로 피부 상태를 확인
