@@ -48,8 +48,6 @@
 * ＞41℃의 고열
 * 패혈증 의심
 
-※ 패혈증 선별 : [qSOFA](https://www.mdcalc.com/calc/2654/qsofa-quick-sofa-score-sepsis) ≥2점 : ① 빈호흡(≥22회/분), ② 의식 변화, ③ 수축기혈압 ≤100 ㎜Hg 중 2개 이상 해당 시 패혈증을 시사하나, 단독 선별 도구로는 민감도가 낮음(Surviving Sepsis Campaign 2021 권고 등급 하향); 임상 현장에서는 [SIRS](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria) 기준(체온, 맥박, 호흡수, WBC 이상 중  ≥2개) 또는  [NEWS](https://www.mdcalc.com/calc/1873/national-early-warning-score-news)(National Early Warning Score)를 병행하여 평가하는 추세
-
 <mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
 * 목 뻣뻣함(경부 경직)
@@ -77,7 +75,7 @@
 #### <mark style="color:$primary;">약물 유발열(Drug fever)</mark>
 
 * 발열 외 특이 증상 없이 약물 시작 후 발생하며, 약물 중단 시 48\~72시간(최대 5일) 내 소실
-* 발열에도 불구하고 환자 컨디션이 비교적 양호한 경우가 많음&#x20;
+* 발열에도 불구하고 환자 컨디션이 비교적 양호한 경우가 많음
   * 일반적으로 체온 1℃ 상승 시 심박수 10회 이상 증가가 나타나는데, 이에 미치지 못하는 '상대적 서맥'이 관찰(Faget sign) 되기도 함
 * 백혈구 수치는 정상이나 호산구 증가증(Eosinophilia)이 약 20% 내외에서 동반될 수 있음
 * 발현 시점 : 기전에 따라 다름
@@ -89,6 +87,9 @@
 
 * 진찰 소견으로 감별하며, 의심되는 질환에 대한 진단 검사를 고려
 * 발열의 원인이 감별되지 않는 경우에는 의뢰를 고려
+* 패혈증 선별&#x20;
+  * [qSOFA](https://www.mdcalc.com/calc/2654/qsofa-quick-sofa-score-sepsis) : ⓵ 빈호흡(≥22회/분), ⓶ 의식 변화, ⓷ 수축기혈압 ≤100 ㎜Hg 중 2개 이상 해당 시 패혈증을 시사; 단독 선별 도구로는 민감도가 낮음
+  * [SIRS](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria) 기준(체온, 맥박, 호흡수, WBC 이상 중 ≥2개) 또는 [NEWS](https://www.mdcalc.com/calc/1873/national-early-warning-score-news)(National Early Warning Score)를 병행하여 평가
 
 ### <mark style="color:orange;">초기 평가 검사</mark>
 
