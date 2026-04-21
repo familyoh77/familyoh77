@@ -30,7 +30,7 @@
 ## <mark style="color:green;">원인</mark>
 
 * 불명. 흔히 명백한 유발 요인 없이 발생
-* 과식, 탄산음료 등 위장 팽창을 일으키는 음식
+* 과식, 탄산음료 등 위장 팽창을 일으키는 음식; GERD(위식도역류질환)는 지속성 딸꾹질의 가장 흔한 원인 중 하나
 * ＞48시간 지속되는 딸꾹질은 간혹 기저 질환(중추신경계, 종격동, 위장관, 대사 이상 등) 또는 약물 관련
 * 수면 중에도 지속되는 딸꾹질은 기질 질환 시사
 * 신경학적 증상(두통, 구역, 복시 등)이 동반되는 경우 뇌간 병변 의심
@@ -39,9 +39,9 @@
 
 * benzodiazepine, barbiturate, steroid(특히 dexamethasone - 항암 화학요법 시 흔한 원인), α-methyldopa, propofol
 * azithromycin, dopamine agonist 등에서도 딸꾹질 유발이 드물게 보고됨
-* SGLT2 억제제 : 최근 증례 보고 증가; 기전은 불분명하나 대사 변화(케톤체 증가 등) 관련으로 추정
+* SGLT2 억제제 : 증례 보고(case reports) 수준으로 보고됨; 기전은 불분명하나 케톤체 증가 등 대사 변화, 또는 탈수(dehydration)에 따른 전해질 불균형이 관여할 수 있음
 
-> ※ Dexamethasone 역설 : 항암 화학요법 유발 오심을 예방하는 목적으로 투여한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
+> ※ Dexamethasone 역설 : 항암 화학요법 유발 오심을 예방하는 목적으로 투여한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음 (용량 환산 참고: dexamethasone 0.75 ㎎ ≈ methylprednisolone 4 ㎎)
 
 ## <mark style="color:green;">진단</mark>
 
@@ -50,7 +50,7 @@
 
 ### <mark style="color:orange;">Hiccup Phenotype 특징</mark>
 
-<table><thead><tr><th>phenotype</th><th width="114">핵심 단서</th><th width="115">시간/패턴</th><th width="115">동반 증상</th><th>가장 흔한 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>Gastric</strong> <br><strong>(위장형)</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>식후 ↑</td><td>복부 팽만</td><td>GERD, gastric distension</td><td>PPI ± metoclopramide</td></tr><tr><td><strong>Central</strong><br><strong>(중추형)</strong></td><td>수면 중에도 지속, 멈추지 않음</td><td>지속적</td><td>두통, 구토, 복시</td><td>brainstem lesion, CNS disease</td><td>Brain MRI + baclofen/gabapentin</td></tr><tr><td><strong>Drug-induced</strong> <br><strong>(약물형)</strong></td><td>약 시작 후 발생</td><td>약물 timing과 일치</td><td>무특이</td><td>steroid, chemo, BZD, SGLT2i</td><td>drug stop/change</td></tr><tr><td><strong>Psychogenic (기능형)</strong></td><td>낮에만, distraction 시 감소</td><td>intermittent</td><td>불안, 스트레스</td><td>anxiety, somatization</td><td>reassurance ± short BZD</td></tr><tr><td><strong>Thoracic</strong> <br><strong>(흉부형)</strong></td><td>기침, 흉통, 호흡곤란</td><td>지속/악화</td><td>발열 가능</td><td>pneumonia, MI, mass</td><td>CXR ± CT</td></tr><tr><td><strong>Metabolic</strong> <br><strong>(대사형)</strong></td><td>전신 상태 변화</td><td>지속</td><td>쇠약, confusion</td><td>uremia, electrolyte imbalance</td><td>labs correction</td></tr><tr><td><strong>Post-procedural</strong><br><strong>(수술/시술)</strong></td><td>수술/내시경 직후</td><td>acute onset</td><td>없음</td><td>vagal/phrenic irritation</td><td>supportive ± baclofen</td></tr></tbody></table>
+<table><thead><tr><th>phenotype</th><th width="114">핵심 단서</th><th width="115">시간/패턴</th><th width="115">동반 증상</th><th>가장 흔한 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>Gastric</strong> <br><strong>(위장형)</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>식후 ↑</td><td>복부 팽만</td><td>GERD, gastric distension</td><td>PPI ± metoclopramide</td></tr><tr><td><strong>Central</strong><br><strong>(중추형)</strong></td><td>수면 중에도 지속, 멈추지 않음</td><td>지속적</td><td>두통, 구토, 복시</td><td>brainstem lesion, CNS disease</td><td>Brain MRI + baclofen/gabapentin</td></tr><tr><td><strong>Drug-induced</strong> <br><strong>(약물형)</strong></td><td>약 시작 후 발생</td><td>약물 timing과 일치</td><td>무특이</td><td>steroid, chemo, BZD, SGLT2i</td><td>drug stop/change</td></tr><tr><td><strong>Psychogenic (기능형)</strong></td><td>낮에만, distraction 시 감소, <strong>수면 중 소실</strong>(기능성 감별 핵심)</td><td>intermittent</td><td>불안, 스트레스</td><td>anxiety, somatization</td><td>reassurance ± short BZD</td></tr><tr><td><strong>Thoracic</strong> <br><strong>(흉부형)</strong></td><td>기침, 흉통, 호흡곤란</td><td>지속/악화</td><td>발열 가능</td><td>pneumonia, MI, mass</td><td>CXR ± CT</td></tr><tr><td><strong>Metabolic</strong> <br><strong>(대사형)</strong></td><td>전신 상태 변화</td><td>지속</td><td>쇠약, confusion</td><td>uremia, electrolyte imbalance</td><td>labs correction</td></tr><tr><td><strong>Post-procedural</strong><br><strong>(수술/시술)</strong></td><td>수술/내시경 직후</td><td>acute onset</td><td>없음</td><td>vagal/phrenic irritation</td><td>supportive ± baclofen</td></tr></tbody></table>
 
 * 수면 중에도 지속? → Central&#x20;
 * 식후/속쓰림? → Gastric&#x20;
@@ -60,6 +60,11 @@
 * 전신 상태 이상? → Metabolic
 
 ### <mark style="color:orange;">동반 증상별 추천 검사</mark>
+
+{% hint style="warning" %}
+**48시간 이상 지속 시 → 최근 2주 내 시작 약물 반드시 검토**
+dexamethasone · benzodiazepine · dopamine agonist · 항암제 · SGLT2 억제제 · azithromycin 등
+{% endhint %}
 
 **흉부 증상(흉통, 호흡 곤란, 발열) 동반 시**
 
@@ -88,6 +93,40 @@
 
 ***
 
+```mermaid
+graph TD
+    A([딸꾹질 환자]) --> B{기간?}
+    B -->|"< 48시간"| C["대부분 양성 (급성)"]
+    C --> D["비약물 치료 + 생활 교정\n reassurance"]
+    D --> E([종료 / 필요 시 추적])
+    B -->|"≥ 48시간"| F{Red Flags?}
+    F -->|있음| G["즉시 검사 / 입원\n(Brain MRI · CT · ECG 등)"]
+    F -->|없음| H["외래 평가\n(약물 review 포함)"]
+    H --> SLEEP{"수면 중에도\n지속되는가?"}
+    SLEEP -->|"Yes → Central 의심"| N["Brain MRI\nbaclofen / gabapentin"]
+    SLEEP -->|No| K{Phenotype}
+    K -->|Gastric| L["PPI ± metoclopramide"]
+    K -->|"Drug-induced"| M["원인 약물 중단 / 교체"]
+    K -->|Central| N
+    K -->|"Psychogenic\n(수면 중 소실 확인)"| O["reassurance\n± 단기 BZD"]
+    K -->|"기타(Thoracic/Metabolic)"| P["원인별 치료"]
+    L & M & N & O & P --> Q{"반응?"}
+    Q -->|호전| R([종료])
+    Q -->|"부분 반응"| S["증량 또는 병합"]
+    S --> Q
+    Q -->|실패| T["2차 선택\nchlorpromazine / haloperidol"]
+    T --> U{"≥ 1개월\n또는 약물 실패?"}
+    U -->|Yes| V["전문과 의뢰\n± 횡격막 신경 차단"]
+    U -->|No| Q
+    style G fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style SLEEP fill:#fff3cd,stroke:#f39c12,stroke-width:2px
+    style V fill:#f39c12,stroke:#e67e22,color:#fff
+```
+
+<p align="center"><strong>딸꾹질 진단 및 치료 알고리즘</strong></p>
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -104,7 +143,7 @@
 **고탄산혈증 유도** : CO₂ 상승 → 뇌간 호흡 중추 자극 → 딸꾹질 반사궁 재설정
 
 * 숨 참기 (10\~20초)
-* 종이봉투에 대고 호흡 - 호흡 곤란이 있거나 숨이 차는 경우에는 금지
+* 종이봉투에 대고 호흡 - 호흡 곤란이 있거나 숨이 차는 경우에는 금지; 반복 시행 시 저산소증 위험이 있으므로 의료진 감독 없이 장시간 반복하지 않도록 지도
 * Valsalva maneuver : 코와 입을 막고 강하게 호기 시도, 10\~15초 유지
 * 과호흡 후 재채기 유발
 
@@ -116,8 +155,8 @@
 **미주신경 반대 자극**
 
 * Supraorbital nerve 압박 (삼차신경-미주신경 반사 유도)
-* 안구 압박 oculocardiac reflex (삼차신경 자극 → 미주신경 활성; 단, 안구 외상·수술 후·망막박리·녹내장 환자에서는 금기)
-* Carotid sinus 마사지 ️(주의 : 고령 또는 허혈성 심질환에서는 피함)
+* 안구 압박 oculocardiac reflex (삼차신경 자극 → 미주신경 활성; 단, 안구 외상·수술 후·망막박리·녹내장·콘택트렌즈 착용자에서는 금기)
+* Carotid sinus 마사지 ️(주의 : 고령 또는 허혈성 심질환에서는 피함; 1차 진료보다 전문의 환경에서 고려)
 * 직장 수지 마사지 (입원 환경에서)
 
 **인두 자극**
@@ -131,7 +170,7 @@
 **비인두 카테터 자극** (입원·응급 환경에서 고려)
 
 * 가는 NG tube(또는 8\~10 Fr 흡인 카테터)를 비공을 통해 비인두까지 약 8\~10 cm 삽입(자극 목표 지점: 구개수 후방의 비인두 후벽)한 뒤 부드럽게 전후로 움직여 미주신경 반사를 유도함
-* 난치성 딸꾹질에서 비약물 치료 중 가장 강력한 방법 중 하나
+* 난치성 딸꾹질에서 비약물 치료 중 가장 강력한 방법 중 하나; 경험 있는 의료진 하에서 시행
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -142,7 +181,7 @@
 #### <mark style="color:$primary;">근이완제</mark>
 
 * 실질적 1차 선택; 부작용 프로파일 양호
-* 금기 : 중추신경계 이상
+* 주의 : 고령자·인지저하·신기능 저하 환자에서 용량 주의 (sedation, 섬망 위험)
 * baclofen : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark> ← 난치성 딸꾹질에서 근거가 가장 많음
   * 고령자·신기능 저하 환자 : 5 ㎎ qd 또는 bid로 낮게 시작하여 3\~5일 간격으로 점진적 증량(titration); 급격한 증량 시 의식 저하·혼수 위험
   * 신장으로 배설되므로 eGFR <30 시 용량 감량 또는 회피; 일반 용량 투여 시 의식 저하·혼수 등 중증 부작용 발생 가능
@@ -151,7 +190,7 @@
 #### <mark style="color:$primary;">항경련제</mark>
 
 * 1차 대안, 특히 신경인성 원인
-* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>; 장기 사용 시 의존성 주의
+* gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>; 장기 사용 시 misuse 가능성 및 중단 시 반동 증상(반동성 불안, 불면, 통증) 주의
   * eGFR <30 시 저용량(100\~300  ㎎)으로 시작
 * carbamazepine : 200 ㎎ tid\~qid <mark style="color:blue;">\[테그레톨]</mark>
 * phenytoin : 200\~300 ㎎ hs <mark style="color:blue;">\[히단토인]</mark>
@@ -165,15 +204,13 @@
 
 #### <mark style="color:$primary;">Benzodiazepine</mark>
 
-* 딸꾹질을 오히려 유발할 수 있음(paradoxical reaction)
-* 근이완 효과로 인해 노인 환자에서 흡인(aspiration) 위험 증가
-* 딸꾹질 치료 목적의 단독 1차 사용은 권장하지 않음; 불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
+* 일부에서 역설적 딸꾹질 유발(paradoxical hiccup) 보고가 있으며, 장기·단독 1차 사용은 권장하지 않음; 불안·스트레스 요인이 명확한 경우에 한해 단기 보조 사용 고려
 * diazepam 2\~5 ㎎ bid\~tid <mark style="color:blue;">\[디아제팜]</mark>
 * lorazepam 0.5\~2 ㎎ qid <mark style="color:blue;">\[아티반]</mark>
 
 #### <mark style="color:$primary;">위장 운동 촉진제</mark>
 
-* metoclopramide : 5\~10 ㎎ tid\~qid <mark style="color:blue;">\[맥페란]</mark>; 장기 사용 시 지연성 운동이상증(tardive dyskinesia) 위험 — 원칙적으로 12주 이하 사용; 항정신병제(chlorpromazine, haloperidol 등)와 병용 시 추체외로 증상(EPS) 위험 증가 — 병용 시 모니터링 필수
+* metoclopramide : 5\~10 ㎎ tid\~qid <mark style="color:blue;">\[맥페란]</mark>; 장기 사용 시 지연성 운동이상증(tardive dyskinesia) 위험 — 원칙적으로 12주 이하 사용; 항정신병제(chlorpromazine, haloperidol 등)와 병용 시 추체외로 증상(EPS) 위험 증가 — 병용 시 모니터링 필수; **고령자에서는 EPS 및 섬망 위험이 높아 가능한 단기간 사용 원칙**; 신장으로 배설되므로 CrCl < 40 ㎖/min 시 용량 50% 감량
 * domperidone : 10\~20 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark>
 
 #### <mark style="color:$primary;">PPI, 제산제</mark>
@@ -211,12 +248,21 @@ R06.6 딸꾹질
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** _(1차 선택 — 부작용 적음)_
+> **처방례 1-A.** _(1차 선택 — 신기능 정상, CNS 위험 낮은 경우)_
 >
 > ```
 > 바크론 5 ㎎/T 3T #3  → 3~5일 후 반응 보며 10 mg tid로 증량 가능
+> ```
+>
+> _✽ baclofen 단독 투여. 효과 불충분 시 gabapentin 병용 또는 처방례 1-B로 전환_
+
+> **처방례 1-B.** _(1차 선택 — 신경인성 원인 의심 또는 baclofen 부작용 우려 시)_
+>
+> ```
 > 뉴론틴 300 ㎎/C 1C hs → 3~5일 후 반응 보며 3C #3으로 증량
 > ```
+>
+> _✽ gabapentin 단독 투여. 고령자·인지저하 환자에서 baclofen 대신 선택 가능_
 
 > **처방례 2.** _(2차 선택 — FDA 승인, 단 부작용 모니터링 필요)_
 >
@@ -239,6 +285,7 @@ R06.6 딸꾹질
 >
 > * 어지럼·졸음·보행 불안정이 생길 수 있으며, 특히 고령자에서 낙상 위험이 높습니다.
 > * 콩팥 기능이 저하된 경우 용량 조절이 필요합니다.
+> * 마약성 진통제(opioid), 수면제, 항불안제 등 다른 중추신경계 억제제와 함께 복용하면 호흡 억제 위험이 증가할 수 있으므로 반드시 의사에게 알려 주십시오.
 > * 의사 처방 없이 임의로 중단하지 마십시오.
 
 > **chlorpromazine (클로르프로마진) — 항정신병제**
