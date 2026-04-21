@@ -97,26 +97,26 @@ dexamethasone · benzodiazepine · dopamine agonist · 항암제 · SGLT2 억제
 graph TD
     A([딸꾹질 환자]) --> B{기간?}
     B -->|"< 48시간"| C["대부분 양성 (급성)"]
-    C --> D["비약물 치료 + 생활 교정\n reassurance"]
+    C --> D["비약물 치료 + 생활 교정<br/> reassurance"]
     D --> E([종료 / 필요 시 추적])
     B -->|"≥ 48시간"| F{Red Flags?}
-    F -->|있음| G["즉시 검사 / 입원\n(Brain MRI · CT · ECG 등)"]
-    F -->|없음| H["외래 평가\n(약물 review 포함)"]
-    H --> SLEEP{"수면 중에도\n지속되는가?"}
-    SLEEP -->|"Yes → Central 의심"| N["Brain MRI\nbaclofen / gabapentin"]
+    F -->|있음| G["즉시 검사 / 입원<br/>(Brain MRI · CT · ECG 등)"]
+    F -->|없음| H["외래 평가<br/>(약물 review 포함)"]
+    H --> SLEEP{"수면 중에도<br/>지속되는가?"}
+    SLEEP -->|"Yes → Central 의심"| N["Brain MRI<br/>baclofen / gabapentin"]
     SLEEP -->|No| K{Phenotype}
     K -->|Gastric| L["PPI ± metoclopramide"]
     K -->|"Drug-induced"| M["원인 약물 중단 / 교체"]
     K -->|Central| N
-    K -->|"Psychogenic\n(수면 중 소실 확인)"| O["reassurance\n± 단기 BZD"]
+    K -->|"Psychogenic<br/>(수면 중 소실 확인)"| O["reassurance<br/>± 단기 BZD"]
     K -->|"기타(Thoracic/Metabolic)"| P["원인별 치료"]
     L & M & N & O & P --> Q{"반응?"}
     Q -->|호전| R([종료])
     Q -->|"부분 반응"| S["증량 또는 병합"]
     S --> Q
-    Q -->|실패| T["2차 선택\nchlorpromazine / haloperidol"]
-    T --> U{"≥ 1개월\n또는 약물 실패?"}
-    U -->|Yes| V["전문과 의뢰\n± 횡격막 신경 차단"]
+    Q -->|실패| T["2차 선택<br/>chlorpromazine / haloperidol"]
+    T --> U{"≥ 1개월<br/>또는 약물 실패?"}
+    U -->|Yes| V["전문과 의뢰<br/>± 횡격막 신경 차단"]
     U -->|No| Q
     style G fill:#ff6b6b,stroke:#c0392b,color:#fff
     style SLEEP fill:#fff3cd,stroke:#f39c12,stroke-width:2px
