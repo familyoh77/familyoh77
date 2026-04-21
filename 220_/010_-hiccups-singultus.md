@@ -152,6 +152,7 @@
 
 * 1차 대안, 특히 신경인성 원인
 * gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>; 장기 사용 시 의존성 주의
+  * eGFR <30 시 저용량(100\~300  ㎎)으로 시작
 * carbamazepine : 200 ㎎ tid\~qid <mark style="color:blue;">\[테그레톨]</mark>
 * phenytoin : 200\~300 ㎎ hs <mark style="color:blue;">\[히단토인]</mark>
 
