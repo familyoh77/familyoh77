@@ -96,13 +96,13 @@
 ```mermaid
 graph TD
     A([발열 환자]) --> B{기간?}
-    B -->|"< 48시간\n+ 명백한 바이러스 임상상"| C["검사 불필요\n수분 + 증상 치료\n안전망 안내"]
-    B -->|"≥ 48시간\n또는 비전형적 경과"| D{증상 초점?}
-    D -->|호흡기 증상| E["CXR\nCBC + CRP\n± PCT\n± 독감·코로나 PCR"]
-    D -->|요로 증상| F["U/A + 소변 배양\nCBC + CRP\n± BUN/Cr"]
-    D -->|복부 증상| G["CBC + CRP\nLFT + Lipase\n복부 초음파 또는 CT"]
-    D -->|"비특이적\n(no focal sign)"| H["CBC + diff\nCRP ± PCT\n혈액 배양(패혈증 의심 시)\nU/A"]
-    B -->|"> 7일 또는 원인 불명"| I["FUO 정밀 평가\nESR/CRP 추세\nCT(흉부·복부)\n혈액 배양 반복\nANA·HIV·TB 검사"]
+    B -->|"< 48시간<br/>+ 명백한 바이러스 임상상"| C["검사 불필요<br/>수분 + 증상 치료<br/>안전망 안내"]
+    B -->|"≥ 48시간<br/>또는 비전형적 경과"| D{증상 초점?}
+    D -->|호흡기 증상| E["CXR<br/>CBC + CRP<br/>± PCT<br/>± 독감·코로나 PCR"]
+    D -->|요로 증상| F["U/A + 소변 배양<br/>CBC + CRP<br/>± BUN/Cr"]
+    D -->|복부 증상| G["CBC + CRP<br/>LFT + Lipase<br/>복부 초음파 또는 CT"]
+    D -->|"비특이적<br/>(no focal sign)"| H["CBC + diff<br/>CRP ± PCT<br/>혈액 배양(패혈증 의심 시)<br/>U/A"]
+    B -->|"> 7일 또는 원인 불명"| I["FUO 정밀 평가<br/>ESR/CRP 추세<br/>CT(흉부·복부)<br/>혈액 배양 반복<br/>ANA·HIV·TB 검사"]
     style C fill:#d5f5e3,stroke:#27ae60
     style I fill:#fdebd0,stroke:#e67e22
 ```
@@ -189,18 +189,18 @@ graph TD
 ```mermaid
 graph TD
     A([발열 환자]) --> B{기간 및 상태}
-    B -->|"< 3일\n+ Red Flag 없음\n+ 안정"| C["관찰 (Home care)\n수분 + 해열제\n안전망 안내\n48–72h 악화 시 재내원"]
-    B -->|"3–7일\n또는 비전형 경과"| D["외래 기본 검사\nCBC + diff\nCRP ± PCT\nU/A ± CXR"]
+    B -->|"< 3일<br/>+ Red Flag 없음<br/>+ 안정"| C["관찰 (Home care)<br/>수분 + 해열제<br/>안전망 안내<br/>48–72h 악화 시 재내원"]
+    B -->|"3–7일<br/>또는 비전형 경과"| D["외래 기본 검사<br/>CBC + diff<br/>CRP ± PCT<br/>U/A ± CXR"]
     D --> E{결과}
-    E -->|"PCT ↑ / CRP 현저 상승\n세균 감염 임상 의심"| F["항생제 치료\n원인별 선택"]
-    E -->|"정상 + 임상적으로 안정"| G["바이러스 가능성\n경과 관찰 + 추적"]
-    B -->|"> 7일 또는 원인 불명"| H["정밀 평가 또는 입원\nCT(흉부·복부)\n혈액 배양 반복\nESR/CRP 추세\n± ANA·HIV·TB·FDG-PET/CT"]
-    B -->|"패혈증 의심\n또는 불안정"| I["즉시 항생제\n수액 소생\n집중 치료 고려"]
+    E -->|"PCT ↑ / CRP 현저 상승<br/>세균 감염 임상 의심"| F["항생제 치료<br/>원인별 선택"]
+    E -->|"정상 + 임상적으로 안정"| G["바이러스 가능성<br/>경과 관찰 + 추적"]
+    B -->|"> 7일 또는 원인 불명"| H["정밀 평가 또는 입원<br/>CT(흉부·복부)<br/>혈액 배양 반복<br/>ESR/CRP 추세<br/>± ANA·HIV·TB·FDG-PET/CT"]
+    B -->|"패혈증 의심<br/>또는 불안정"| I["즉시 항생제<br/>수액 소생<br/>집중 치료 고려"]
 
     subgraph 항생제 시작 기준
-    J["▶ 즉시 시작\n패혈증·불안정\n호중구감소성 발열\n명확한 세균 감염 초점"]
-    K["▶ 선택적 시작\nPCT ≥ 0.5 ng/mL\nCRP 현저 상승 + 세균 임상 의심\n고위험군 + 원인 불명"]
-    L["▶ 보류 (관찰)\n안정 + 비국소적\n바이러스 의심\nPCT 낮음"]
+    J["▶ 즉시 시작<br/>패혈증·불안정<br/>호중구감소성 발열<br/>명확한 세균 감염 초점"]
+    K["▶ 선택적 시작<br/>PCT ≥ 0.5 ng/mL<br/>CRP 현저 상승 + 세균 임상 의심<br/>고위험군 + 원인 불명"]
+    L["▶ 보류 (관찰)<br/>안정 + 비국소적<br/>바이러스 의심<br/>PCT 낮음"]
     end
 
     style I fill:#ff6b6b,stroke:#c0392b,color:#fff
