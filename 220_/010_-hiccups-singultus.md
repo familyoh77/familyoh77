@@ -47,24 +47,20 @@
 
 * 신체 질환 유무 진찰
 * 급성 딸꾹질은 보통 검사 필요 없음; 48시간 이상 지속되는 경우 검사 고려
+* 48시간 이상 지속 시 → 최근 2주 내 시작한모든 약물 반드시 검토&#x20;
 
 ### <mark style="color:orange;">Hiccup Phenotype 특징</mark>
 
-<table><thead><tr><th>phenotype</th><th width="114">핵심 단서</th><th width="115">시간/패턴</th><th width="115">동반 증상</th><th>가장 흔한 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>Gastric</strong> <br><strong>(위장형)</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>식후 ↑</td><td>복부 팽만</td><td>GERD, gastric distension</td><td>PPI ± metoclopramide</td></tr><tr><td><strong>Central</strong><br><strong>(중추형)</strong></td><td>수면 중에도 지속, 멈추지 않음</td><td>지속적</td><td>두통, 구토, 복시</td><td>brainstem lesion, CNS disease</td><td>Brain MRI + baclofen/gabapentin</td></tr><tr><td><strong>Drug-induced</strong> <br><strong>(약물형)</strong></td><td>약 시작 후 발생</td><td>약물 timing과 일치</td><td>무특이</td><td>steroid, chemo, BZD, SGLT2i</td><td>drug stop/change</td></tr><tr><td><strong>Psychogenic (기능형)</strong></td><td>낮에만, distraction 시 감소, <strong>수면 중 소실</strong>(기능성 감별 핵심)</td><td>intermittent</td><td>불안, 스트레스</td><td>anxiety, somatization</td><td>reassurance ± short BZD</td></tr><tr><td><strong>Thoracic</strong> <br><strong>(흉부형)</strong></td><td>기침, 흉통, 호흡곤란</td><td>지속/악화</td><td>발열 가능</td><td>pneumonia, MI, mass</td><td>CXR ± CT</td></tr><tr><td><strong>Metabolic</strong> <br><strong>(대사형)</strong></td><td>전신 상태 변화</td><td>지속</td><td>쇠약, confusion</td><td>uremia, electrolyte imbalance</td><td>labs correction</td></tr><tr><td><strong>Post-procedural</strong><br><strong>(수술/시술)</strong></td><td>수술/내시경 직후</td><td>acute onset</td><td>없음</td><td>vagal/phrenic irritation</td><td>supportive ± baclofen</td></tr></tbody></table>
+<table><thead><tr><th>phenotype</th><th width="114">핵심 단서</th><th width="115">시간/패턴</th><th width="115">동반 증상</th><th>가장 흔한 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>Gastric</strong><br><strong>(위장형)</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>식후 ↑</td><td>복부 팽만</td><td>GERD, gastric distension</td><td>PPI ± metoclopramide</td></tr><tr><td><strong>Central</strong><br><strong>(중추형)</strong></td><td>수면 중에도 지속, 멈추지 않음</td><td>지속적</td><td>두통, 구토, 복시</td><td>brainstem lesion, CNS disease</td><td>Brain MRI + baclofen/gabapentin</td></tr><tr><td><strong>Drug-induced</strong><br><strong>(약물형)</strong></td><td>약 시작 후 발생</td><td>약물 timing과 일치</td><td>무특이</td><td>steroid, chemo, BZD, SGLT2i</td><td>drug stop/change</td></tr><tr><td><strong>Psychogenic (기능형)</strong></td><td>낮에만, distraction 시 감소, <strong>수면 중 소실</strong>(기능성 감별 핵심)</td><td>intermittent</td><td>불안, 스트레스</td><td>anxiety, somatization</td><td>reassurance ± short BZD</td></tr><tr><td><strong>Thoracic</strong><br><strong>(흉부형)</strong></td><td>기침, 흉통, 호흡곤란</td><td>지속/악화</td><td>발열 가능</td><td>pneumonia, MI, mass</td><td>CXR ± CT</td></tr><tr><td><strong>Metabolic</strong><br><strong>(대사형)</strong></td><td>전신 상태 변화</td><td>지속</td><td>쇠약, confusion</td><td>uremia, electrolyte imbalance</td><td>labs correction</td></tr><tr><td><strong>Post-procedural</strong><br><strong>(수술/시술)</strong></td><td>수술/내시경 직후</td><td>acute onset</td><td>없음</td><td>vagal/phrenic irritation</td><td>supportive ± baclofen</td></tr></tbody></table>
 
-* 수면 중에도 지속? → Central&#x20;
-* 식후/속쓰림? → Gastric&#x20;
-* 최근 약 시작? → Drug-induced&#x20;
+* 수면 중에도 지속? → Central
+* 식후/속쓰림? → Gastric
+* 최근 약 시작? → Drug-induced
 * 낮에만 + 스트레스? → Psychogenic
 * 흉통/호흡기 증상? → Thoracic
 * 전신 상태 이상? → Metabolic
 
 ### <mark style="color:orange;">동반 증상별 추천 검사</mark>
-
-{% hint style="warning" %}
-**48시간 이상 지속 시 → 최근 2주 내 시작 약물 반드시 검토**
-dexamethasone · benzodiazepine · dopamine agonist · 항암제 · SGLT2 억제제 · azithromycin 등
-{% endhint %}
 
 **흉부 증상(흉통, 호흡 곤란, 발열) 동반 시**
 
@@ -103,13 +99,13 @@ graph TD
     F -->|있음| G["즉시 검사 / 입원<br/>(Brain MRI · CT · ECG 등)"]
     F -->|없음| H["외래 평가<br/>(약물 review 포함)"]
     H --> SLEEP{"수면 중에도<br/>지속되는가?"}
-    SLEEP -->|"Yes → Central 의심"| N["Brain MRI<br/>baclofen / gabapentin"]
+    SLEEP -->|"Yes → Central 의심"| N["<u>Central</u><br/>Brain MRI<br/>baclofen / gabapentin"]
     SLEEP -->|No| K{Phenotype}
-    K -->|Gastric| L["PPI ± metoclopramide"]
-    K -->|"Drug-induced"| M["원인 약물 중단 / 교체"]
-    K -->|Central| N
-    K -->|"Psychogenic<br/>(수면 중 소실 확인)"| O["reassurance<br/>± 단기 BZD"]
-    K -->|"기타(Thoracic/Metabolic)"| P["원인별 치료"]
+    K --> L["<u>Gastric</u><br/>PPI ± metoclopramide"]
+    K --> M["<u>Drug-induced</u><br/>원인 약물 중단 / 교체"]
+    K --> N
+    K --> O["<u>Psychogenic<br/>(수면 중 소실 확인)</u><br/>reassurance<br/>± 단기 BZD"]
+    K --> P["<u>기타(Thoracic/Metabolic)</u><br/>원인별 치료"]
     L & M & N & O & P --> Q{"반응?"}
     Q -->|호전| R([종료])
     Q -->|"부분 반응"| S["증량 또는 병합"]
@@ -191,7 +187,7 @@ graph TD
 
 * 1차 대안, 특히 신경인성 원인
 * gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>; 장기 사용 시 misuse 가능성 및 중단 시 반동 증상(반동성 불안, 불면, 통증) 주의
-  * eGFR <30 시 저용량(100\~300  ㎎)으로 시작
+  * eGFR <30 시 저용량(100\~300 ㎎)으로 시작
 * carbamazepine : 200 ㎎ tid\~qid <mark style="color:blue;">\[테그레톨]</mark>
 * phenytoin : 200\~300 ㎎ hs <mark style="color:blue;">\[히단토인]</mark>
 
@@ -210,7 +206,7 @@ graph TD
 
 #### <mark style="color:$primary;">위장 운동 촉진제</mark>
 
-* metoclopramide : 5\~10 ㎎ tid\~qid <mark style="color:blue;">\[맥페란]</mark>; 장기 사용 시 지연성 운동이상증(tardive dyskinesia) 위험 — 원칙적으로 12주 이하 사용; 항정신병제(chlorpromazine, haloperidol 등)와 병용 시 추체외로 증상(EPS) 위험 증가 — 병용 시 모니터링 필수; **고령자에서는 EPS 및 섬망 위험이 높아 가능한 단기간 사용 원칙**; 신장으로 배설되므로 CrCl < 40 ㎖/min 시 용량 50% 감량
+* metoclopramide : 5\~10 ㎎ tid\~qid <mark style="color:blue;">\[맥페란]</mark>; 장기 사용 시 지연성 운동이상증(tardive dyskinesia) 위험 - 원칙적으로 12주 이하 사용; 항정신병제(chlorpromazine, haloperidol 등)와 병용 시 추체외로 증상(EPS) 위험 증가 - 병용 시 모니터링 필수; 고령자에서는 EPS 및 섬망 위험이 높아 가능한 단기간 사용 원칙; 신장으로 배설되므로 CrCl < 40 ㎖/min 시 용량 50% 감량
 * domperidone : 10\~20 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark>
 
 #### <mark style="color:$primary;">PPI, 제산제</mark>
@@ -226,7 +222,7 @@ graph TD
 
 ### <mark style="color:orange;">난치성 딸꾹질</mark>
 
-**난치성 딸꾹질 - 의뢰 대상**&#x20;
+**난치성 딸꾹질 - 의뢰 대상**
 
 * 1개월 이상 지속 (intractable)
 * 약물 치료 실패
