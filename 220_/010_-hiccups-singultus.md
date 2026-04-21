@@ -35,62 +35,29 @@
 * 수면 중에도 지속되는 딸꾹질은 기질 질환 시사
 * 신경학적 증상(두통, 구역, 복시 등)이 동반되는 경우 뇌간 병변 의심
 
-### <mark style="color:orange;">관련 인자</mark>
-
-**생활·행동 요인**
-
-* 음주, 흡연
-* 빠른 식사, 과식, 매운 음식, 뜨거운 음료, 탄산음료
-* 주변 또는 복부의 급격한 온도 변화
-
-**정신·심리적 요인**
-
-* 흥분, 스트레스, 충격, 두려움, 성격장애, 신체화장애, 꾀병
-
-**대사 이상**
-
-* Na↓, K↓, Ca↓, 탄산↓, 혈당↑, 요독증, 통풍, 당뇨
-
-**중추신경계 이상**
-
-* 파킨슨병, 혈관 질환, 선천 기형, 악성 종양, 감염(뇌막염), 외상
-
-**횡격막 자극**
-
-* 종양, 심막염, 비장 비대, 간 비대, 복막염, 탈장, subphrenic abscess
-
-**미주신경 자극**
-
-* 귀/고막 자극(이물), 인후염, 목의 종괴, 갑상선종, 녹내장, 수막염
-
-**흉부 문제**
-
-* 폐렴, 대동맥류, 결핵, MI, 폐암
-
-**소화기 문제**
-
-* 복부 팽만, 식도염, GERD, 이완불능증, 위궤양, IBD, 담석, 간염, 췌장염, 담낭염, 충수염, 위장관 폐쇄, 종양, 수술 후 상태
-
-**비뇨생식기 문제**
-
-* 전립선 질환
-
-**수술 및 마취 관련**
-
-* 목의 과신전, 위/횡격막 조작, laparotomy, thoracotomy, craniotomy
-
-**약물**
+**관련 약물**
 
 * benzodiazepine, barbiturate, steroid(특히 dexamethasone - 항암 화학요법 시 흔한 원인), α-methyldopa, propofol
 * azithromycin, dopamine agonist 등에서도 딸꾹질 유발이 드물게 보고됨
 * SGLT2 억제제 : 최근 증례 보고 증가; 기전은 불분명하나 대사 변화(케톤체 증가 등) 관련으로 추정
 
-※ Dexamethasone 역설 : 항암 화학요법 유발 오심을 예방하는 목적으로 투여한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
+> ※ Dexamethasone 역설 : 항암 화학요법 유발 오심을 예방하는 목적으로 투여한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
 
-원인 및 감별
+## <mark style="color:green;">진단</mark>
 
 * 신체 질환 유무 진찰
 * 급성 딸꾹질은 보통 검사 필요 없음; 48시간 이상 지속되는 경우 검사 고려
+
+### <mark style="color:orange;">Hiccup Phenotype 특징</mark>
+
+<table><thead><tr><th>phenotype</th><th width="114">핵심 단서</th><th width="115">시간/패턴</th><th width="115">동반 증상</th><th>가장 흔한 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>Gastric</strong> <br><strong>(위장형)</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>식후 ↑</td><td>복부 팽만</td><td>GERD, gastric distension</td><td>PPI ± metoclopramide</td></tr><tr><td><strong>Central</strong><br><strong>(중추형)</strong></td><td>수면 중에도 지속, 멈추지 않음</td><td>지속적</td><td>두통, 구토, 복시</td><td>brainstem lesion, CNS disease</td><td>Brain MRI + baclofen/gabapentin</td></tr><tr><td><strong>Drug-induced</strong> <br><strong>(약물형)</strong></td><td>약 시작 후 발생</td><td>약물 timing과 일치</td><td>무특이</td><td>steroid, chemo, BZD, SGLT2i</td><td>drug stop/change</td></tr><tr><td><strong>Psychogenic (기능형)</strong></td><td>낮에만, distraction 시 감소</td><td>intermittent</td><td>불안, 스트레스</td><td>anxiety, somatization</td><td>reassurance ± short BZD</td></tr><tr><td><strong>Thoracic</strong> <br><strong>(흉부형)</strong></td><td>기침, 흉통, 호흡곤란</td><td>지속/악화</td><td>발열 가능</td><td>pneumonia, MI, mass</td><td>CXR ± CT</td></tr><tr><td><strong>Metabolic</strong> <br><strong>(대사형)</strong></td><td>전신 상태 변화</td><td>지속</td><td>쇠약, confusion</td><td>uremia, electrolyte imbalance</td><td>labs correction</td></tr><tr><td><strong>Post-procedural</strong><br><strong>(수술/시술)</strong></td><td>수술/내시경 직후</td><td>acute onset</td><td>없음</td><td>vagal/phrenic irritation</td><td>supportive ± baclofen</td></tr></tbody></table>
+
+* 수면 중에도 지속? → Central&#x20;
+* 식후/속쓰림? → Gastric&#x20;
+* 최근 약 시작? → Drug-induced&#x20;
+* 낮에만 + 스트레스? → Psychogenic
+* 흉통/호흡기 증상? → Thoracic
+* 전신 상태 이상? → Metabolic
 
 ### <mark style="color:orange;">동반 증상별 추천 검사</mark>
 
@@ -118,15 +85,6 @@
 * BUN/Cr (요독증)
 * CBC
 * 심초음파 (구조적 심장 질환 의심 시)
-
-### <mark style="color:orange;">감별</mark>
-
-* 수면 중에도 지속? → Central&#x20;
-* 식후/속쓰림? → Gastric&#x20;
-* 최근 약 시작? → Drug-induced&#x20;
-* 낮에만 + 스트레스? → Psychogenic
-* 흉통/호흡기 증상? → Thoracic
-* 전신 상태 이상? → Metabolic
 
 ***
 
