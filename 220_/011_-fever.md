@@ -87,7 +87,7 @@
 
 * 진찰 소견으로 감별하며, 의심되는 질환에 대한 진단 검사를 고려
 * 발열의 원인이 감별되지 않는 경우에는 의뢰를 고려
-* 패혈증 선별&#x20;
+* 패혈증 선별
   * [qSOFA](https://www.mdcalc.com/calc/2654/qsofa-quick-sofa-score-sepsis) : ⓵ 빈호흡(≥22회/분), ⓶ 의식 변화, ⓷ 수축기혈압 ≤100 ㎜Hg 중 2개 이상 해당 시 패혈증을 시사; 단독 선별 도구로는 민감도가 낮음
   * [SIRS](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria) 기준(체온, 맥박, 호흡수, WBC 이상 중 ≥2개) 또는 [NEWS2](https://www.mdcalc.com/calc/10083/national-early-warning-score-2-news2)(National Early Warning Score 2)를 병행하여 평가; 최근에는 NEWS2 기반 early warning system의 임상적 민감도가 qSOFA보다 높은 것으로 평가됨
 
@@ -103,7 +103,8 @@ graph TD
     D -->|복부 증상| G["CBC + CRP<br/>LFT + Lipase<br/>복부 초음파 또는 CT"]
     D -->|"비특이적<br/>(no focal sign)"| H["CBC + diff<br/>CRP ± PCT<br/>혈액 배양(패혈증 의심 시)<br/>U/A"]
     B -->|"> 7일 또는 원인 불명"| I["FUO 정밀 평가<br/>ESR/CRP 추세<br/>CT(흉부·복부)<br/>혈액 배양 반복<br/>ANA·HIV·TB 검사"]
-    style C fill:#d5f5e3,stroke:#27ae60
+    style A fill:#d5f5e3,stroke:#27ae60
+    style C fill:#fff3cd,stroke:#f39c12
     style I fill:#fdebd0,stroke:#e67e22
 ```
 
@@ -113,7 +114,7 @@ graph TD
 
 * CBC with differential (세균·바이러스 감별, 백혈구 수·분획)
 * CRP, ESR (염증 정도 반영; CRP는 세균 감염에서 현저히 상승)
-* Procalcitonin (PCT) : CRP보다 세균 감염에 대한 특이도가 높음; 항생제 시작 및 중단 결정의 보조 지표로 활용 (< 0.25 ng/㎖: 세균 감염 가능성 낮음 / ≥ 0.5 ng/㎖: 세균 감염 시사); **단일 수치보다 경과 중 변화 추세(trend)가 항생제 중단 판단 등 임상적 의사 결정에 더 중요**; 단, 신기능 저하(eGFR < 30), 중증 외상·화상 환자에서는 세균 감염 없이도 위양성(false positive)으로 상승할 수 있으므로 임상 소견과 종합하여 해석
+* Procalcitonin (PCT) : CRP보다 세균 감염에 대한 특이도가 높음; 항생제 시작 및 중단 결정의 보조 지표로 활용 (< 0.25 ng/㎖: 세균 감염 가능성 낮음 / ≥ 0.5 ng/㎖: 세균 감염 시사); 단일 수치보다 경과 중 변화 추세(trend)가 항생제 중단 판단 등 임상적 의사 결정에 더 중요; 단, 신기능 저하(eGFR < 30), 중증 외상·화상 환자에서는 세균 감염 없이도 위양성(false positive)으로 상승할 수 있으므로 임상 소견과 종합하여 해석
 * 혈당, BUN/Cr, 전해질 (대사 이상·탈수 평가)
 * LFT (간염, 패혈증 관련 간기능 저하 확인)
 
@@ -130,37 +131,28 @@ graph TD
 * 진드기 노출 병력 : 쯔쯔가무시(Orientia 항체), SFTS PCR
 * 면역억제 환자 : β-D-glucan, galactomannan, CMV PCR 등
 
+### <mark style="color:orange;">동반 증상에 따른 감별</mark>
+
+<table><thead><tr><th width="146">동반 증상</th><th width="196">주요 감별 진단</th><th>즉시 주목할 Red Flag</th><th>초기 조치</th></tr></thead><tbody><tr><td>두통 · <br>의식 변화</td><td>수막염, 뇌염</td><td>경부 강직, 광선공포, 경련</td><td>LP ± Brain MRI; 항생제 지연 금지</td></tr><tr><td>기침 · <br>호흡 곤란</td><td>폐렴, 바이러스 LRTI, 폐색전</td><td>SpO₂ 저하, 빈호흡</td><td>CXR ± PCR; 필요 시 항생제 · 산소</td></tr><tr><td>흉통</td><td>심근염, 심낭염, 폐렴, 폐색전</td><td>저혈압, 부정맥</td><td>ECG + troponin + CXR; 심초음파 고려</td></tr><tr><td>요통 · 국소 통증</td><td>경막외 농양, 골수염</td><td>신경학적 결손</td><td>MRI (지연 금지)</td></tr><tr><td>배뇨 증상</td><td>UTI, 신우신염</td><td>옆구리 통증, 패혈증</td><td>U/A + 소변 배양; 필요 시 항생제</td></tr><tr><td>복통</td><td>충수염, 담낭염, 복강 농양</td><td>반발 압통</td><td>복부 CT 또는 초음파</td></tr><tr><td>발진</td><td>수막구균혈증(점상출혈), 바이러스, 약열</td><td>자반(purpura)</td><td>응급 평가; 항생제 즉시 고려</td></tr><tr><td>심잡음 · <br>색전 소견</td><td>감염성 심내막염</td><td>정맥 약물 사용력, 색전 징후</td><td>혈액 배양 ×3 + 심초음파</td></tr><tr><td>야간 발한 · <br>체중 감소</td><td>TB, 림프종, 악성 종양</td><td>만성 경과</td><td>CT + TB workup + CBC/LDH</td></tr><tr><td>뚜렷한 증상 없음</td><td>약물열, TB, 악성 종양, 심내막염</td><td>상대적 서맥(약물열 힌트)</td><td>약물 review → 중단 · 경과 관찰</td></tr></tbody></table>
+
+### <mark style="color:orange;">열 패턴에 따른 추정 질환</mark>
+
+| 패턴                                   | 추정 질환                  |
+| ------------------------------------ | ---------------------- |
+| 상대적 서맥 (Faget sign)                  | 약물열, 장티푸스, 브루셀라, 레지오넬라 |
+| Biphasic (2회 발열기)                    | 뎅기열, 황열, enterovirus   |
+| 야간 발열 (nocturnal)                    | TB, 림프종                |
+| Relapsing (발열-정상 반복)                 | 말라리아, 브루셀라             |
+| Double quotidian (일 2회 정점)           | 성인형 스틸병(염증성 관절염)       |
+| Pel-Ebstein fever (수일 발열 후 수일 정상 반복) | 호지킨 림프종 (불명열 감별 시 참고)  |
+
 ### <mark style="color:orange;">증상/병력에 따른 감별</mark>
 
 <figure><img src="../.gitbook/assets/발열2.JPG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/발열3.JPG" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:orange;">발열 + 동반 증상 감별</mark>
-
-<table><thead><tr><th width="200">동반 증상</th><th width="220">주요 감별 진단</th><th width="160">즉시 주목할 Red Flag</th><th>초기 조치</th></tr></thead><tbody>
-<tr><td>두통 · 의식 변화</td><td>수막염, 뇌염</td><td>경부 강직, 광선공포, 경련</td><td>LP ± Brain MRI; 항생제 지연 금지</td></tr>
-<tr><td>기침 · 호흡 곤란</td><td>폐렴, 바이러스 LRTI, 폐색전</td><td>SpO₂ 저하, 빈호흡</td><td>CXR ± PCR; 필요 시 항생제 · 산소</td></tr>
-<tr><td>흉통</td><td>심근염, 심낭염, 폐렴, 폐색전</td><td>저혈압, 부정맥</td><td>ECG + troponin + CXR; 심초음파 고려</td></tr>
-<tr><td>요통 · 국소 통증</td><td>경막외 농양, 골수염</td><td>신경학적 결손</td><td>MRI (지연 금지)</td></tr>
-<tr><td>배뇨 증상</td><td>UTI, 신우신염</td><td>옆구리 통증, 패혈증</td><td>U/A + 소변 배양; 필요 시 항생제</td></tr>
-<tr><td>복통</td><td>충수염, 담낭염, 복강 농양</td><td>반발 압통</td><td>복부 CT 또는 초음파</td></tr>
-<tr><td>발진</td><td>수막구균혈증(점상출혈), 바이러스, 약열</td><td>자반(purpura)</td><td>응급 평가; 항생제 즉시 고려</td></tr>
-<tr><td>심잡음 · 색전 소견</td><td>감염성 심내막염</td><td>정맥 약물 사용력, 색전 징후</td><td>혈액 배양 ×3 + 심초음파</td></tr>
-<tr><td>야간 발한 · 체중 감소</td><td>TB, 림프종, 악성 종양</td><td>만성 경과</td><td>CT + TB workup + CBC/LDH</td></tr>
-<tr><td>뚜렷한 증상 없음</td><td>약물열, TB, 악성 종양, 심내막염</td><td>상대적 서맥(약물열 힌트)</td><td>약물 review → 중단 · 경과 관찰</td></tr>
-</tbody></table>
-
-#### <mark style="color:$primary;">열 패턴 → 진단 힌트</mark>
-
-| 패턴 | 힌트 진단 |
-|---|---|
-| 상대적 서맥 (Faget sign) | 약물열, 장티푸스, 브루셀라, 레지오넬라 |
-| Biphasic (2회 발열기) | 뎅기열, 황열, enterovirus |
-| 야간 발열 (nocturnal) | TB, 림프종 |
-| Relapsing (발열-정상 반복) | 말라리아, 브루셀라 |
-| Double quotidian (일 2회 정점) | 성인형 스틸병(염증성 관절염) |
-| Pel-Ebstein fever (수일 발열 후 수일 정상 반복) | 호지킨 림프종 (불명열 감별 시 참고) |
+***
 
 ## <mark style="color:green;">불명열 (Fever of Unknown Origin)</mark>
 
@@ -195,22 +187,21 @@ graph TD
     E -->|"PCT ↑ / CRP 현저 상승<br/>세균 감염 임상 의심"| F["항생제 치료<br/>원인별 선택"]
     E -->|"정상 + 임상적으로 안정"| G["바이러스 가능성<br/>경과 관찰 + 추적"]
     B -->|"> 7일 또는 원인 불명"| H["정밀 평가 또는 입원<br/>CT(흉부·복부)<br/>혈액 배양 반복<br/>ESR/CRP 추세<br/>± ANA·HIV·TB·FDG-PET/CT"]
-    B -->|"패혈증 의심<br/>또는 불안정"| I["즉시 항생제<br/>수액 소생<br/>집중 치료 고려"]
+    B -->|"패혈증 의심<br/>또는 불안정"| I["즉시 항생제 치료<br/>수액 치료<br/>집중 치료 고려"]
 
-    subgraph 항생제 시작 기준
-    J["▶ 즉시 시작<br/>패혈증·불안정<br/>호중구감소성 발열<br/>명확한 세균 감염 초점"]
-    K["▶ 선택적 시작<br/>PCT ≥ 0.5 ng/mL<br/>CRP 현저 상승 + 세균 임상 의심<br/>고위험군 + 원인 불명"]
-    L["▶ 보류 (관찰)<br/>안정 + 비국소적<br/>바이러스 의심<br/>PCT 낮음"]
-    end
-
+    style A fill:#d5f5e3,stroke:#27ae60
+    style F fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style G fill:#fff3cd,stroke:#f39c12
     style I fill:#ff6b6b,stroke:#c0392b,color:#fff
-    style J fill:#ff6b6b,stroke:#c0392b,color:#fff
-    style K fill:#fff3cd,stroke:#f39c12
-    style L fill:#d5f5e3,stroke:#27ae60
+
 ```
 
 * 원인에 따른 치료 시행
 * 시험적 치료 : 불가피한 경우 임상적 증거에 기초하여 시험적 치료 시행
+* 항생제 치료&#x20;
+  * 즉시 시작 : 패혈증, 불안정, 호중구감소성 발열, 세균 감염 증거
+  * 선택적 시작 : PCT ≥ 0.5 ng/㎖, CRP 현저 상승 + 세균 의심, 고위험군 + 원인 불명
+  * 보류 (관찰) : 안정 + 비국소적, 바이러스 의심, PCT 낮음
 * 해열제 : 발작 병력이 있는 소아 또는 열 때문에 힘들어 하는 환자에 대하여 투여 고려; 목적은 증상 완화와 대사 부담 감소이며, 예후 개선 효과는 명확하지 않음
 * 소위 shotgun approach(불필요한 경험적 다제 투여)는 증상/징후를 모호하게 하여 진단을 어렵게 하고 의도하지 않은 문제를 일으킬 수 있으므로 삼가야 함
 
