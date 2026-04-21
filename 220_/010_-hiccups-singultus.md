@@ -87,7 +87,7 @@
 
 ※ Dexamethasone 역설 : 항암 화학요법 유발 오심을 예방하는 목적으로 투여한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 이 경우 dexamethasone을 methylprednisolone으로 교체하면 호전되는 경우가 있음
 
-## <mark style="color:green;">진단</mark>
+원인 및 감별
 
 * 신체 질환 유무 진찰
 * 급성 딸꾹질은 보통 검사 필요 없음; 48시간 이상 지속되는 경우 검사 고려
@@ -118,6 +118,15 @@
 * BUN/Cr (요독증)
 * CBC
 * 심초음파 (구조적 심장 질환 의심 시)
+
+### <mark style="color:orange;">감별</mark>
+
+* 수면 중에도 지속? → Central&#x20;
+* 식후/속쓰림? → Gastric&#x20;
+* 최근 약 시작? → Drug-induced&#x20;
+* 낮에만 + 스트레스? → Psychogenic
+* 흉통/호흡기 증상? → Thoracic
+* 전신 상태 이상? → Metabolic
 
 ***
 
@@ -219,9 +228,15 @@
 * viscous lidocaine : 구강 마취제; 2% 5 ㎖ tid
 * dexamethasone : 화학요법에 기인한 딸꾹질 원인 약물로 고려; 단, dexamethasone 자체가 원인인 경우 methylprednisolone으로 교체
 
-### <mark style="color:orange;">난치성 딸꾹질 - 의뢰</mark>
+### <mark style="color:orange;">난치성 딸꾹질</mark>
 
-약물 치료로도 조절되지 않는 경우 다음 치료를 고려하여 의뢰
+**난치성 딸꾹질 - 의뢰 대상**&#x20;
+
+* 1개월 이상 지속 (intractable)
+* 약물 치료 실패
+* 구조적 원인 의심
+
+**난치성 딸꾹질에 고려하는 치료법**
 
 * 횡격막 신경 차단술(Phrenic nerve block) : 초음파 유도 하 시행
 * 미주신경 자극술(Vagus nerve stimulation, VNS) : 난치성 신경인성 원인에 고려
