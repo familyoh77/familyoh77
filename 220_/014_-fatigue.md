@@ -59,21 +59,42 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* 일상생활, 수면, 스트레스, 감정 변화, 복용 약물 평가
+#### <mark style="color:$primary;">진단 단계</mark>&#x20;
 
-**피로 양상에 따른 감별 포인트** - "언제 피곤하신가요?"
+* Step 1: Red flags 확인
+* Step 2: Fatigue vs Weakness 감별
+  * Fatigue-피곤한가요? (에너지 부족)&#x20;
+  * Weakness-힘이 빠지나요? (근력 저하)
+* Step 3: Sleep / Mood / Medicatons? Fatigue phenotype 분류
+  * Sleep-driven fatigue → OSA / insomnia
+  * Mood-driven fatigue → depression / anxiety
+  * Medical fatigue → anemia / thyroid / chronic disease
+  * Post-exertional fatigue → ME/CFS / Long COVID
+  * Lifestyle fatigue → stress / overwork / inactivity
+* Step 4: 검사 -Baseline labs 시행
+* Step 5: follow-up at 4 weeks
 
-* 아침에 일어나자마자 피곤하다 → 우울증, 수면 무호흡증, 불면증
-* 활동하면 심해지고 쉬면 낫는다 → 기질적 질환(심부전, 빈혈, 갑상선 질환 등)
-* 하루 종일 일정하게 피곤하다 → 신체화 장애, 만성 스트레스
-* 활동 후 24시간 이상 지나서 심해진다 → ME/CFS (☞ [만성피로증후군](../230_/194_.md))
+#### <mark style="color:$primary;">감별 항목 : 'DEAD, TIRED'</mark>
+
+| <p><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)<br></p> | <p><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</p> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+* **언제 가장 피곤합니까?**
+  * 아침부터 피곤 → 우울, 수면장애, OSA
+  * 활동 시 악화 → 휴식 시 호전 → 심폐질환, 빈혈
+  * 하루 종일 동일 → 스트레스, somatization
+  * 활동 후 지연 악화 (PEM) → ME/CFS / Long COVID
+* **복용하는 약물이 있나요?**
+  * 항히스타민, BZD, opioid, β-blocker, statin
+  * PPI / metformin → B12 결핍
 
 ### <mark style="color:orange;">검사</mark>
 
-* 대부분의 경우에서 실험실 검사는 도움이 되지 않음; 한 달간 관찰 후 시행 여부 결정
-* 기본 검사 : CBC, 전해질, 혈당, HbA1c, LFT, RFT, TSH, U/A
+* 대부분의 경우에서 실험실 검사는 도움이 되지 않음
+* 한 달간 관찰 후 시행 여부 결정; 무증상이라도 baseline 1회 검사 권장; 반복 검사는 최소화
+* 기본 검사 : <mark style="color:red;">**CBC, 혈당/HbA1c, LFT, RFT, TSH, 전해질, U/A**</mark>
   * 가임기 여성에서는 UPT(소변 임신 반응 검사)를 기본 검사에 포함
-* 선택 검사 : ESR, CRP, ferritin, Vit B12, 엽산, Vit D(25(OH)D), Anti-TPO Ab, monospot, ANA, 흉부 X선, 분변 잠혈 검사, 수면다원검사; 복부 초음파(임상적으로 필요시)
+* 선택 검사 : <mark style="color:red;">**ESR, CRP, ferritin, Vit B12, 엽산, Vit D(25(OH)D), Anti-TPO Ab, monospot, ANA, 흉부 X선, 분변 잠혈 검사, 수면다원검사**</mark>; 복부 초음파(임상적으로 필요시)
   * CBC에서 빈혈 확인 → ferritin(철결핍성), Vit B12·엽산(거대적아구성), ESR·CRP(만성 질환 빈혈) 순으로 감별
   * 철결핍성 빈혈은 ferritin <30 ng/㎖를 기준으로 하되 염증이 동반된 경우 ferritin이 위양성으로 정상화될 수 있어 transferrin saturation을 함께 확인
   * TSH가 정상이더라도 증상이 지속되거나 두통·시야 장애 등 뇌하수체 질환이 의심되는 경우 free T4를 추가하여 이차성 갑상선기능저하증을 감별
@@ -127,10 +148,9 @@ _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–82
 
 <table><thead><tr><th width="100">항목</th><th>질문</th></tr></thead><tbody><tr><td><strong>S</strong>noring</td><td>큰 소리로 코를 고십니까? (옆방에서 들릴 정도, 또는 동침자가 팔꿈치로 찌를 정도)</td></tr><tr><td><strong>T</strong>ired</td><td>낮에 자주 피곤하거나 졸리십니까?</td></tr><tr><td><strong>O</strong>bserved</td><td>수면 중 숨이 멎는 것을 다른 사람이 목격한 적이 있습니까?</td></tr><tr><td><strong>P</strong>ressure</td><td>고혈압이 있거나 고혈압 치료를 받고 계십니까?</td></tr><tr><td><strong>B</strong>MI</td><td>BMI가 35를 초과합니까?</td></tr><tr><td><strong>A</strong>ge</td><td>나이가 50세를 초과합니까?</td></tr><tr><td><strong>N</strong>eck</td><td>목둘레가 40 ㎝를 초과합니까?</td></tr><tr><td><strong>G</strong>ender</td><td>남성입니까?</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">감별 항목 : 'DEAD, TIRED'</mark>
+#### <mark style="color:$primary;">ME/CFS vs Depression vs OSA 감별표</mark>
 
-| <p><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia <br><strong>D</strong>rugs (Alcohol)<br></p> | <p><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine </p> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table data-header-hidden><thead><tr><th width="127.15789794921875"></th><th width="218.78948974609375"></th><th></th><th></th></tr></thead><tbody><tr><td>항목</td><td><strong>ME/CFS</strong></td><td><strong>Depression</strong></td><td><strong>OSA</strong></td></tr><tr><td>핵심 특징</td><td>PEM (운동 후 지연 악화)</td><td>흥미/의욕 저하</td><td>주간 졸림 + 코골이</td></tr><tr><td>피로 패턴</td><td>활동 후 수시간~수일 뒤 악화</td><td>하루 종일 지속</td><td>아침 피곤 + 낮 졸림</td></tr><tr><td>휴식 후 회복</td><td>없음 (비회복성</td><td>약간 호전 가능</td><td>없음</td></tr><tr><td>수면</td><td>잤는데도 개운하지 않음</td><td>불면/과다수면 혼재</td><td>수면 질 나쁨 (무호흡)</td></tr><tr><td>주간 졸림</td><td>흔치 않음</td><td>경우에 따라</td><td>매우 흔함</td></tr><tr><td>운동 반응</td><td>하면 악화 (PEM)</td><td>하면 기분 개선 가능</td><td>큰 변화 없음</td></tr><tr><td>기분 증상</td><td>2차적 우울 가능</td><td><strong>핵심 증상</strong></td><td>2차적 우울 가능</td></tr><tr><td>인지 기능</td><td>brain fog 흔함</td><td>집중력 저하</td><td>졸림으로 인한 저하</td></tr><tr><td>자율신경 증상</td><td>POTS 흔함 (기립 시 HR↑)</td><td>드묾</td><td>드묾</td></tr><tr><td>동반 힌트</td><td>Long COVID</td><td>스트레스, 삶의 사건</td><td>비만, 큰 목둘레</td></tr></tbody></table>
 
 
 
@@ -147,6 +167,9 @@ _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–82
 * 카페인 제한 : 오후 2시 이후의 카페인 섭취는 깊은 수면(Deep sleep)을 방해하여 피로 회복을 저해함; 카페인에 의존하는 경우 내성이 생겨 반동성 피로(카페인 효과 소실 후 더 심한 피로)가 유발될 수 있음
 * 심리적 평가 : 'DEAD, TIRED' 항목 중 우울/불안 비중이 높다면 PHQ-9 등 선별 검사 및 심리 상담을 초기부터 적극 고려
 * 원인이 확실치 않은 경우 대증 치료 : 수면 환경 개선, 통증 관리, 영양 관리, 인지행동 요법
+* Follow-up : 4주 후 재평가
+  * 호전 → 유지
+  * 지속 →  missed diagnosis 재검토, sleep / mood 재평가, 필요 시 추가 검사
 
 ## <mark style="color:green;">생활 요법</mark>
 
