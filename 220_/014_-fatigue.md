@@ -63,11 +63,11 @@
 
 ## <mark style="color:green;">진단</mark>
 
-#### <mark style="color:$primary;">진단 단계</mark>&#x20;
+#### <mark style="color:$primary;">진단 단계</mark>
 
 * Step 1: Red flags 확인
 * Step 2: Fatigue vs Weakness 감별
-  * Fatigue-피곤한가요? (에너지 부족)&#x20;
+  * Fatigue-피곤한가요? (에너지 부족)
   * Weakness-힘이 빠지나요? (근력 저하)
 * Step 3: Sleep / Mood / Medicatons? Fatigue phenotype 분류
   * Sleep-driven fatigue → OSA / insomnia
@@ -107,18 +107,20 @@
 * 병력·진찰상 원인 불명
 * 충분한 설명 후에도 기질 원인에 대한 강한 우려 지속
 {% endhint %}
+
 * 기본 검사 : <mark style="color:red;">**CBC, 혈당/HbA1c, LFT, RFT, TSH, 전해질, U/A**</mark>
   * 가임기 여성에서는 UPT(소변 임신 반응 검사)를 기본 검사에 포함
 * 선택 검사 : <mark style="color:red;">**ESR, CRP, ferritin, Vit B12, 엽산, Vit D(25(OH)D), Anti-TPO Ab, monospot, ANA, 흉부 X선, 분변 잠혈 검사, 수면다원검사**</mark>; 복부 초음파(임상적으로 필요시)
   * CBC에서 빈혈 확인 → ferritin(철결핍성), Vit B12·엽산(거대적아구성), ESR·CRP(만성 질환 빈혈) 순으로 감별
-  * 철결핍성 빈혈은 ferritin <30 ng/㎖를 기준으로 하되, 염증이 동반된 경우 ferritin이 위양성으로 정상화될 수 있어 **ferritin <100 ng/㎖ + TSAT <20%** 를 함께 충족하면 염증 동반 철결핍으로 판단
+  * 철결핍성 빈혈은 ferritin <30 ng/㎖를 기준으로 하되, 염증이 동반된 경우 ferritin이 위양성으로 정상화될 수 있어 ferritin <100 ng/㎖ + TSAT <20%를 함께 충족하면 염증 동반 철결핍으로 판단
+  * IDWA(빈혈 없는 철결핍): Hb 정상이더라도 ferritin <30 ng/㎖이면 원인 불명의 피로 원인이 될 수 있으며, 철분 보충 후 피로가 개선되는 경우가 있음; CBC 정상이라도 증상 지속 시 ferritin 단독 확인 고려
   * TSH가 정상이더라도 증상이 지속되거나 두통·시야 장애 등 뇌하수체 질환이 의심되는 경우 free T4를 추가하여 이차성 갑상선기능저하증을 감별
   * Anti-TPO Ab : TSH 정상 범위이더라도 증상 지속·여성·갑상선 질환 가족력이 있는 경우 자가면역갑상선염(하시모토) 감별을 위해 추가 고려
   * Vit D : 결핍 기준 <20 ng/㎖; 피로 개선 목표 수치는 통상 ≥30 ng/㎖ (개인차 있음)
 * 수면 무호흡 선별 : 코골이·주간 졸음·무호흡 목격이 동반되는 경우 [STOP-BANG](014_-fatigue.md#stop-bang) 설문 시행
   * 3\~4점 : 중등도 위험 → 수면 위생 교육 및 추적 관찰
   * ≥5점 : 고위험 → 수면다원검사 적극 의뢰
-* 우울증 감별 : 'DEAD, TIRED' 항목 중 우울/불안(Depression/Anxiety) 비중이 높다면 초기부터 PHQ-9 시행; **PHQ-9 ≥10 → 치료 적극 고려**, **5–9 → watchful waiting + 생활 습관 지도** (☞ [우울증](../221_/027_-depression.md#phq-9))
+* 우울증 감별 : 'DEAD, TIRED' 항목 중 우울/불안(Depression/Anxiety) 비중이 높다면 초기부터 PHQ-9 시행; PHQ-9 ≥10 → 치료 적극 고려, 5–9 → watchful waiting + 생활 습관 지도 (☞ [우울증](../221_/027_-depression.md#phq-9))
 * 피로 환자의 대부분은 검사에서 근육 약화가 없으며, 근육 약화가 있는 경우 신경계 질환 등을 고려
 
 #### <mark style="color:$primary;">만성피로증후군(ME/CFS) 핵심 4대 증상</mark>
@@ -167,14 +169,11 @@ _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–82
 
 <table data-header-hidden><thead><tr><th width="127.15789794921875"></th><th width="218.78948974609375"></th><th></th><th></th></tr></thead><tbody><tr><td>항목</td><td><strong>ME/CFS</strong></td><td><strong>Depression</strong></td><td><strong>OSA</strong></td></tr><tr><td>핵심 특징</td><td>PEM (운동 후 지연 악화)</td><td>흥미/의욕 저하</td><td>주간 졸림 + 코골이</td></tr><tr><td>피로 패턴</td><td>활동 후 수시간~수일 뒤 악화</td><td>하루 종일 지속</td><td>아침 피곤 + 낮 졸림</td></tr><tr><td>휴식 후 회복</td><td>없음 (비회복성</td><td>약간 호전 가능</td><td>없음</td></tr><tr><td>수면</td><td>잤는데도 개운하지 않음</td><td>불면/과다수면 혼재</td><td>수면 질 나쁨 (무호흡)</td></tr><tr><td>주간 졸림</td><td>흔치 않음</td><td>경우에 따라</td><td>매우 흔함</td></tr><tr><td>운동 반응</td><td>하면 악화 (PEM)</td><td>하면 기분 개선 가능</td><td>큰 변화 없음</td></tr><tr><td>기분 증상</td><td>2차적 우울 가능</td><td><strong>핵심 증상</strong></td><td>2차적 우울 가능</td></tr><tr><td>인지 기능</td><td>brain fog 흔함</td><td>집중력 저하</td><td>졸림으로 인한 저하</td></tr><tr><td>자율신경 증상</td><td>POTS 흔함 (기립 시 HR↑)</td><td>드묾</td><td>드묾</td></tr><tr><td>동반 힌트</td><td>Long COVID</td><td>스트레스, 삶의 사건</td><td>비만, 큰 목둘레</td></tr></tbody></table>
 
-
-
-***
-
-## <mark style="background-color:$warning;">Management</mark>
+※ 진료실 POTS 선별 (Active Stand Test) : 앉은 자세에서 안정 시 HR 측정 후 기립; 3\~10분 이내 HR이 30 bpm 이상 상승하거나 120회를 초과하면 POTS(체위성 기립성 빈맥 증후군) 의심 → 자율신경 평가\
+Long COVID 이후 발생한 피로·brain fog·어지럼 환자에서 적극 시행 고려
 
 {% hint style="danger" %}
-**⚠️ 흔한 진단 오류 (Pitfalls)**
+**흔한 진단 오류 (Pitfalls)**
 
 * **"우울로 단정"** → 실제 갑상선저하증·빈혈·수면 무호흡 등 기질 원인을 놓칠 수 있음
 * **"검사 정상 = 이상 없음"** → ME/CFS·POTS는 표준 검사에서 정상 가능; 증상 패턴으로 감별
@@ -184,6 +183,10 @@ _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–82
 * **철결핍 (빈혈 없는 경우) 누락** → ferritin <30 또는 염증 동반 시 <100 + TSAT <20% 확인
 * **POTS 누락** → 특히 젊은 여성·Long COVID 이후 기립성 증상 동반 시 적극 평가
 {% endhint %}
+
+***
+
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -196,7 +199,7 @@ _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–82
 * 원인이 확실치 않은 경우 대증 치료 : 수면 환경 개선, 통증 관리, 영양 관리, 인지행동 요법
 * Follow-up : 4주 후 재평가
   * 호전 → 유지
-  * 지속 →  missed diagnosis 재검토, sleep / mood 재평가, 필요 시 추가 검사
+  * 지속 → missed diagnosis 재검토, sleep / mood 재평가, 필요 시 추가 검사
 
 ## <mark style="color:green;">생활 요법</mark>
 
