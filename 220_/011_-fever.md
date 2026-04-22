@@ -103,9 +103,12 @@ graph TD
     D -->|복부 증상| G["CBC + CRP<br/>LFT + Lipase<br/>복부 초음파 또는 CT"]
     D -->|"비특이적<br/>(no focal sign)"| H["CBC + diff<br/>CRP ± PCT<br/>혈액 배양(패혈증 의심 시)<br/>U/A"]
     B -->|"> 7일 또는 원인 불명"| I["FUO 정밀 평가<br/>ESR/CRP 추세<br/>CT(흉부·복부)<br/>혈액 배양 반복<br/>ANA·HIV·TB 검사"]
-    style A fill:#d5f5e3,stroke:#27ae60
-    style C fill:#fff3cd,stroke:#f39c12
-    style I fill:#fdebd0,stroke:#e67e22
+
+    classDef green  fill:#d5f5e3,stroke:#27ae60
+    classDef yellow fill:#fff3cd,stroke:#f39c12
+    class A green
+    class B,D yellow
+
 ```
 
 * 단순 급성 발열(3일 이내, 명백한 바이러스 감염 임상상)에서는 검사가 불필요한 경우가 많음
@@ -133,7 +136,7 @@ graph TD
 
 ### <mark style="color:orange;">동반 증상에 따른 감별</mark>
 
-<table><thead><tr><th width="146">동반 증상</th><th width="196">주요 감별 진단</th><th>즉시 주목할 Red Flag</th><th>초기 조치</th></tr></thead><tbody><tr><td>두통 · <br>의식 변화</td><td>수막염, 뇌염</td><td>경부 강직, 광선공포, 경련</td><td>LP ± Brain MRI; 항생제 지연 금지</td></tr><tr><td>기침 · <br>호흡 곤란</td><td>폐렴, 바이러스 LRTI, 폐색전</td><td>SpO₂ 저하, 빈호흡</td><td>CXR ± PCR; 필요 시 항생제 · 산소</td></tr><tr><td>흉통</td><td>심근염, 심낭염, 폐렴, 폐색전</td><td>저혈압, 부정맥</td><td>ECG + troponin + CXR; 심초음파 고려</td></tr><tr><td>요통 · 국소 통증</td><td>경막외 농양, 골수염</td><td>신경학적 결손</td><td>MRI (지연 금지)</td></tr><tr><td>배뇨 증상</td><td>UTI, 신우신염</td><td>옆구리 통증, 패혈증</td><td>U/A + 소변 배양; 필요 시 항생제</td></tr><tr><td>복통</td><td>충수염, 담낭염, 복강 농양</td><td>반발 압통</td><td>복부 CT 또는 초음파</td></tr><tr><td>발진</td><td>수막구균혈증(점상출혈), 바이러스, 약열</td><td>자반(purpura)</td><td>응급 평가; 항생제 즉시 고려</td></tr><tr><td>심잡음 · <br>색전 소견</td><td>감염성 심내막염</td><td>정맥 약물 사용력, 색전 징후</td><td>혈액 배양 ×3 + 심초음파</td></tr><tr><td>야간 발한 · <br>체중 감소</td><td>TB, 림프종, 악성 종양</td><td>만성 경과</td><td>CT + TB workup + CBC/LDH</td></tr><tr><td>뚜렷한 증상 없음</td><td>약물열, TB, 악성 종양, 심내막염</td><td>상대적 서맥(약물열 힌트)</td><td>약물 review → 중단 · 경과 관찰</td></tr></tbody></table>
+<table><thead><tr><th width="146">동반 증상</th><th width="196">주요 감별 진단</th><th>즉시 주목할 Red Flag</th><th>초기 조치</th></tr></thead><tbody><tr><td>두통 ·<br>의식 변화</td><td>수막염, 뇌염</td><td>경부 강직, 광선공포, 경련</td><td>LP ± Brain MRI; 항생제 지연 금지</td></tr><tr><td>기침 ·<br>호흡 곤란</td><td>폐렴, 바이러스 LRTI, 폐색전</td><td>SpO₂ 저하, 빈호흡</td><td>CXR ± PCR; 필요 시 항생제 · 산소</td></tr><tr><td>흉통</td><td>심근염, 심낭염, 폐렴, 폐색전</td><td>저혈압, 부정맥</td><td>ECG + troponin + CXR; 심초음파 고려</td></tr><tr><td>요통 · 국소 통증</td><td>경막외 농양, 골수염</td><td>신경학적 결손</td><td>MRI (지연 금지)</td></tr><tr><td>배뇨 증상</td><td>UTI, 신우신염</td><td>옆구리 통증, 패혈증</td><td>U/A + 소변 배양; 필요 시 항생제</td></tr><tr><td>복통</td><td>충수염, 담낭염, 복강 농양</td><td>반발 압통</td><td>복부 CT 또는 초음파</td></tr><tr><td>발진</td><td>수막구균혈증(점상출혈), 바이러스, 약열</td><td>자반(purpura)</td><td>응급 평가; 항생제 즉시 고려</td></tr><tr><td>심잡음 ·<br>색전 소견</td><td>감염성 심내막염</td><td>정맥 약물 사용력, 색전 징후</td><td>혈액 배양 ×3 + 심초음파</td></tr><tr><td>야간 발한 ·<br>체중 감소</td><td>TB, 림프종, 악성 종양</td><td>만성 경과</td><td>CT + TB workup + CBC/LDH</td></tr><tr><td>뚜렷한 증상 없음</td><td>약물열, TB, 악성 종양, 심내막염</td><td>상대적 서맥(약물열 힌트)</td><td>약물 review → 중단 · 경과 관찰</td></tr></tbody></table>
 
 ### <mark style="color:orange;">열 패턴에 따른 추정 질환</mark>
 
@@ -180,25 +183,29 @@ graph TD
 
 ```mermaid
 graph TD
-    A([발열 환자]) --> B{기간 및 상태}
-    B -->|"< 3일<br/>+ Red Flag 없음<br/>+ 안정"| C["관찰 (Home care)<br/>수분 + 해열제<br/>안전망 안내<br/>48–72h 악화 시 재내원"]
-    B -->|"3–7일<br/>또는 비전형 경과"| D["외래 기본 검사 시행<br/>(☞ 초기 평가 검사 알고리즘)"]
-    D --> E{결과}
-    E -->|"PCT ↑ / CRP 현저 상승<br/>세균 감염 임상 의심"| F["항생제 치료<br/>원인별 선택"]
-    E -->|"정상 + 임상적으로 안정"| G["바이러스 가능성<br/>경과 관찰 + 추적"]
-    B -->|"> 7일 또는 원인 불명"| H["정밀 평가 또는 입원<br/>CT(흉부·복부)<br/>혈액 배양 반복<br/>ESR/CRP 추세<br/>± ANA·HIV·TB·FDG-PET/CT"]
-    B -->|"패혈증 의심<br/>또는 불안정"| I["즉시 항생제 치료<br/>수액 치료<br/>집중 치료 고려"]
+    A([발열 환자]) --> B{임상 안정성}
+    B -->|"불안정<br/>(패혈증 의심·쇼크·고열)"| C["즉시 항생제 + 수액<br/>입원 / 응급 처치"]
+    B -->|안정| D{원인 파악?}
+    D -->|세균 감염| E["원인균별 항생제<br/>경과 관찰"]
+    D -->|바이러스 감염| F["대증 치료<br/>안전망 안내"]
+    D -->|약물열| G["원인 약물 중단<br/>48–72h 경과 관찰"]
+    D -->|"비감염성<br/>(염증·종양·자가면역)"| H["전문과 의뢰"]
+    D -->|원인 불명| I["불명열 정밀 평가<br/>(☞ 불명열 섹션 참조)"]
 
-    style A fill:#d5f5e3,stroke:#27ae60
-    style F fill:#ff6b6b,stroke:#c0392b,color:#fff
-    style G fill:#fff3cd,stroke:#f39c12
-    style I fill:#ff6b6b,stroke:#c0392b,color:#fff
+    classDef red    fill:#ff6b6b,stroke:#c0392b,color:#fff
+    classDef green  fill:#d5f5e3,stroke:#27ae60
+    classDef yellow fill:#fff3cd,stroke:#f39c12
+    classDef orange fill:#fdebd0,stroke:#e67e22
 
+    class A green
+    class C red
+    class E,F,G yellow
+    class H,I orange
 ```
 
 * 원인에 따른 치료 시행
 * 시험적 치료 : 불가피한 경우 임상적 증거에 기초하여 시험적 치료 시행
-* 항생제 치료&#x20;
+* 항생제 치료
   * 즉시 시작 : 패혈증, 불안정, 호중구감소성 발열, 세균 감염 증거
   * 선택적 시작 : PCT ≥ 0.5 ng/㎖, CRP 현저 상승 + 세균 의심, 고위험군 + 원인 불명
   * 보류 (관찰) : 안정 + 비국소적, 바이러스 의심, PCT 낮음
