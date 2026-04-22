@@ -3,9 +3,9 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 부종 : capillary hemodynamics 변화(모세혈관 수압↑, 삼투압↓, 투과성↑) 또는 신장의 Na·수분 정체 증가에 의해 간질(interstitium)에 체액이 과잉 축적된 상태
-* 전신 부종은 **심장**(venous congestion)·**간**(oncotic 저하)·**신장**(Na 정체)·**저알부민 상태**의 4가지 축을 먼저 감별하고, 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 고려
+* 전신 부종은 심장(venous congestion)·간(oncotic 저하)·신장(Na 정체)·저알부민 상태의 4가지 축을 먼저 감별하고, 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 고려
 * 부종의 발생 부위, 좌우 대칭 여부, 발생 속도, pitting 여부, 동반 증상(호흡 곤란, 복수, 황달 등)이 원인 감별의 핵심
-* 편측 하지 부종에서는 DVT를 항상 배제해야 하며, Wells score에 따라 D-Dimer 검사 및 압박 초음파 시행 여부를 결정; **급성 편측 부종 + 통증 + 열감 = DVT until proven otherwise**
+* 편측 하지 부종에서는 DVT를 항상 배제해야 하며, Wells score에 따라 D-Dimer 검사 및 압박 초음파 시행 여부를 결정; 급성 편측 부종 + 통증 + 열감 = DVT until proven otherwise
   * 활성 암 환자에서는 Wells score 신뢰도가 감소하므로 저위험군이라도 영상 검사 우선 고려
 * 이뇨제는 폐부종 외에는 서둘러 투여할 필요가 없으며, 만성 정맥 부전 등 volume overload가 없는 경우에는 권장되지 않음
 
@@ -226,7 +226,7 @@ style D3 fill:#fdebd0,stroke:#e67e22
 style D4 fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong><br><em><mark style="color:$info;">US=ultrasonography, DVT=deep venous thrombosis</mark></em><br><em><mark style="color:$info;">Ref. Edema: Diagnosis and Management. AFP 2013:88(2). Fig 1 &#x26; 2.</mark></em></p>
+<p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong><br><em><mark style="color:$info;">US=ultrasonography, DVT=deep venous thrombosis</mark></em><br><em><mark style="color:$info;">Ref. Edema: Diagnosis and Management. AFP 2013:88(2). Fig 1 &#x26; 2.</mark></em></p>
 
 ***
 
@@ -301,8 +301,6 @@ graph TD
 <p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong></p>
 
 ***
-
-
 
 ### <mark style="color:orange;">심부전에 의한 부종</mark>
 
