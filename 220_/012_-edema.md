@@ -290,15 +290,15 @@ graph TD
     C --> CI["간경화 + 복수"]
     C --> NS["신증후군"]
 
-    HF --> HF1["Loop diuretic 1차<br/>furosemide 20-40 mg PO<br/>목표: 0.5-1.0 kg/d 감량"]
+    HF --> HF1["Loop diuretic 1차<br/>furosemide 20~40 ㎎ PO<br/>목표: 0.5~1.0 kg/d 감량"]
     HF1 -- "반응 불충분" --> HF2["용량 2-3배 증량<br/>or Sequential blockade<br/>loop + thiazide/metolazone"]
     HF2 -- "SGLT2i 병용 중" --> HF3["Loop 용량 감량 고려<br/>신기능·전해질 모니터링"]
 
-    CI --> CI1["Spironolactone 100 mg<br/>+ Furosemide 40 mg<br/>100:40 비율 유지"]
-    CI1 -- "반응 불충분" --> CI2["Spironolactone 우선 증량<br/>최대 400 mg/d"]
+    CI --> CI1["Spironolactone 100 ㎎<br/>+ Furosemide 40 ㎎<br/>100:40 비율 유지"]
+    CI1 -- "반응 불충분" --> CI2["Spironolactone 우선 증량<br/>최대 400 ㎎/d"]
     CI1 -- "spironolactone 불내성" --> CI3["Amiloride 대체"]
 
-    NS --> NS1["고용량 Loop<br/>furosemide 40-80 mg 이상<br/>단백결합 감소로 고용량 필요"]
+    NS --> NS1["고용량 Loop<br/>furosemide 40-80 ㎎ 이상<br/>단백결합 감소로 고용량 필요"]
     NS1 -- "반응 불충분" --> NS2["IV loop 전환<br/>or Albumin 25% + loop 병용<br/>or Sequential blockade"]
     NS1 -. "intravascular depletion <br/>주의" .-> NS_w["겉 부종 vs 속 hypovolemia<br/>→ AKI 위험 모니터링"]
 
@@ -444,7 +444,7 @@ I89.0 림프 부종
 
 #### <mark style="color:$primary;">부종 관리 시 이렇게 하세요</mark>
 
-* **염분 제한** : 하루 소금 섭취를 5 g(나트륨 2,000 mg) 이하로 줄이십시오. 국물, 가공식품, 외식은 염분이 높습니다
+* **염분 제한** : 하루 소금 섭취를 5 g(나트륨 2,000 ㎎) 이하로 줄이십시오. 국물, 가공식품, 외식은 염분이 높습니다
 * **수분 섭취** : 의사의 지시에 따르십시오. 심장·신장 질환이 있는 경우 과도한 수분 섭취가 오히려 부종을 악화시킬 수 있습니다
 * **다리 올리기** : 쉬거나 누울 때 다리를 심장보다 높게 올리면 부종 완화에 도움이 됩니다
 * **압박 스타킹** : 의사 처방에 따라 착용하고, 아침 일어나자마자 신고 취침 전에 벗으십시오
