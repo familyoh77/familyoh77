@@ -33,7 +33,7 @@
 * 만성 감염 : 결핵, HIV 등; 발열, 야간 발한, 림프절 비대 동반
 * 심부전
 * 약물 부작용 : 칼슘통로차단제, NSAID(장기 복용)
-* 사회적 문제 : 알코올 사용 장애, 사회적 고립
+* 사회적 문제 : 알코올 사용 장애, 사회적 고립, 식사 접근성 저하(이동 불편·장보기 어려움), 경제적 문제(식비 부족), 돌봄 공백(caregiver 부재)
 * 섭식 문제 : 식이 제한, 가난
 * 비타민 결핍 증후군 : 신경 증상, 피부 병변, 구내염 등 동반
 * 원인 미상 : 검사에도 불구하고 약 ¼에서는 원인을 찾을 수 없음
@@ -43,6 +43,12 @@
 * 미각/후각 변화 : allopurinol, 항생제, 항콜린제, 항히스타민제, ACEI, levodopa, CCB, propranolol, selegiline, spironolactone
 * 식욕 저하 : 항생제, 항경련제, 항정신병약, benzodiazepine, digoxin, levodopa, metformin, neuroleptics, opiates, SSRIs, theophylline, GLP-1 수용체 작용제(예: semaglutide, liraglutide)
 * 체중 감소 : SGLT-2 억제제 (당뇨 고령 환자에서 의도하지 않은 체중 감소를 악화시킬 수 있음)
+
+{% hint style="warning" %}
+**GLP-1 수용체 작용제(semaglutide, liraglutide 등) — 의인성 체중 감소 주의**
+
+GLP-1 계열은 현재 의인성(iatrogenic) 체중 감소의 가장 흔한 원인 약물 중 하나입니다. 특히 **고령·frailty·근감소증** 동반 환자에서 식욕 억제 효과가 과도하게 나타날 수 있습니다. GLP-1 계열 복용 중 의도하지 않은 체중 감소가 발생하면 **용량 감량 또는 중단을 적극 고려**하십시오.
+{% endhint %}
 * 입마름 : 항콜린제, 항히스타민제, clonidine, loop diuretics
 * 소화불량 : bisphosphonate, doxycycline, gold, iron, NSAID, potassium
 * 구역/구토 : 항생제, bisphosphonate, digoxin, dopamine agonist, metformin, statins, SSRIs, TCA
@@ -51,21 +57,25 @@
 
 * 체중 변화 경과, 약물 복용력, 신체검사
 * 식욕 상태에 따른 감별
-  * Hypermetabolic state (식욕 양호, '먹어도 빠지는' 경우) : 당뇨병, 갑상선기능항진증, 흡수 장애 우선 고려 → 대변 검사(기생충, 지방변), 복부 초음파(췌장) 추가
-  * Hypometabolic/Anorexic state (식욕 부진) : 암, 우울증, 만성 염증, 약물 부작용, 장기부전(심부전·신부전) 우선 고려
+  * **식욕 유지형** (Hypermetabolic pattern, '먹어도 빠지는' 경우) : 당뇨병, 갑상선기능항진증, 흡수 장애 우선 고려 → 대변 검사(기생충, 지방변), 복부 초음파(췌장) 추가
+  * **식욕 저하형** (Hypometabolic/Anorexic pattern, 식욕 부진) : 암, 우울증, 만성 염증, 약물 부작용, 장기부전(심부전·신부전) 우선 고려
 
 #### <mark style="color:$primary;">1단계 검사</mark>
 
 * 체중 변화 경과, 약물 복용력
 * 신체검사(특히 치아 문제), 정서/인지 문제 평가(예: 우울증, 치매)
-* 실험실 검사 : CBC, LFT, RFT, TSH, 혈당, HbA1c(신규 당뇨 또는 혈당 조절 실패 감별), albumin(영양 상태 및 염증 반응 지표; negative acute-phase reactant), CRP, ESR, urinalysis, 대변 잠혈, HIV
-* 영상 검사 : 흉부 X선, 위내시경/UGI, 복부 초음파
-* 1단계 검사에서 특이점이 없는 경우 3\~6개월 관찰 고려; 이 기간 중 매주 체중을 측정하도록 환자에게 교육. 증상 변화 시 즉시 재평가
+* 실험실 검사 : CBC, LFT, RFT, TSH, 혈당, HbA1c(신규 당뇨 또는 혈당 조절 실패 감별), albumin(negative acute-phase reactant; 영양 상태보다 염증·질병 부담을 반영하는 지표에 가까우므로 수치 단독으로 영양 상태를 판단하지 않도록 주의), CRP, ESR, urinalysis, 대변 잠혈, HIV
+* 영상 검사 : 흉부 X선, 복부 초음파
+  * 위내시경/UGI : 연하곤란, 철결핍빈혈, 상복부 통증·조기 포만감 등 증상이 있는 경우에 한해 시행 (일상적 1단계 검사로는 권장하지 않음)
+* 1단계 검사에서 특이점이 없는 경우 → 아래 **안정형 vs 진행형** 기준으로 관찰 또는 확장 검사 결정
 
-#### <mark style="color:$primary;">2단계 검사</mark>
+#### <mark style="color:$primary;">2단계 검사 — 진행형 또는 고위험 환자</mark>
 
-* 1단계 검사에서 정상인 경우 고려
-* CT(흉부·복부·골반) : 원인 불명의 체중 감소에서 악성 종양 및 복강 내 병변 감별에 유용하며 임상에서 활용도가 증가하고 있음; 근거 수준은 아직 제한적
+**1단계 검사 정상 + 아래 기준 해당 시 확장 검사 진행**
+
+<table><thead><tr><th width="200">구분</th><th width="220">기준</th><th>대응</th></tr></thead><tbody><tr><td><strong>안정형</strong> (Stable)</td><td>완만한 감소, 전신 상태 양호, 경고 증상 없음</td><td>3–6개월 관찰; 매주 체중 측정 교육; 증상 변화 시 즉시 재평가</td></tr><tr><td><strong>진행형</strong> (Progressive)</td><td>지속 감소, 기능 저하, 고령·frailty, 경고 증상 동반</td><td>아래 검사 진행</td></tr></tbody></table>
+
+* CT(흉부·복부·골반) : 임상적 의심이 있거나 1단계 검사에서 원인 불명인 경우에 한해 고려; **무증상 환자에 대한 전신 CT는 권장되지 않음** (근거 수준 제한적)
 * LDH, 혈청 칼슘 : 림프종, 다발성 골수종, 암의 골전이 등을 시사하는 단서; 암 의심 또는 1단계 검사에서 원인 불명일 때 추가
 * Prealbumin(transthyretin) : 반감기 2\~3일로 단기 영양 변화에 민감; 입원 환자 또는 영양 집중 모니터링이 필요한 경우 고려
 * 흡수 장애 검사, 위/대장 내시경
@@ -99,6 +109,60 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 * 악력(Grip Strength) : 남성 <28 ㎏, 여성 <18 ㎏ 미만 시 근감소증 의심 (AWGS 2019 기준)
 * 간이영양평가 단축형(MNA-SF) : 고령 환자 영양 상태 선별 도구 (총 14점); 12점 이상 정상, 8\~11점 영양불량 위험, 7점 이하 영양불량 → 자세한 평가 항목은 [아래](013_-weight-loss.md#mna-sf) 참조
 
+{% hint style="danger" %}
+**⚠️ 체중 감소 = 근육 감소 여부 확인이 핵심**
+
+단순 체중 감소보다 **근감소증(sarcopenia) 동반 여부**가 예후 예측에 더 중요합니다. 체중 감소 + 근감소증이 함께 있으면 사망률이 유의미하게 증가하므로, 체중 측정과 함께 반드시 근육량 선별 평가를 병행하십시오.
+{% endhint %}
+
+{% hint style="info" %}
+**고령 환자 빠른 선별 (Quick Screen) — 5가지 질문**
+
+| 질문 | 확인 내용 |
+|---|---|
+| **Eat?** | 식사량이 줄었나요? |
+| **Chew?** | 씹거나 삼키기 불편한가요? |
+| **Mood?** | 기분이 가라앉거나 의욕이 없나요? |
+| **Meds?** | 식욕을 떨어뜨리는 약을 복용 중인가요? |
+| **Move?** | 혼자 장보거나 식사를 준비할 수 있나요? |
+
+하나라도 '예'이면 해당 항목 집중 평가
+{% endhint %}
+
+***
+
+```mermaid
+graph TD
+    A([의도하지 않은 체중 감소\n6개월 내 ≥5%]) --> B{🚩 Red Flags 확인}
+    B -->|즉각 조치 필요| C([응급 조치 및 이송])
+    B -->|긴급 평가 필요| D([당일 응급실])
+    B -->|해당 없음| E{식욕 상태}
+    E -->|식욕 유지형\n먹어도 빠진다| F["당뇨 · 갑상선항진증 · 흡수장애\nglucose TSH 대변검사 복부초음파"]
+    E -->|식욕 저하형\n못 먹어서 빠진다| G{약물 원인?}
+    G -->|GLP-1 RA · metformin · SSRI 등| H[약물 중단 또는 조정]
+    G -->|해당 없음| I{정신·사회적 문제?}
+    I -->|우울 · 고립 · 경제 문제| J[원인별 치료]
+    I -->|해당 없음| K["1단계 기본 검사\nCBC LFT RFT TSH\nglucose HbA1c albumin CRP ESR\nurinalysis 대변잠혈 CXR 복부초음파"]
+    K --> L{결과}
+    L -->|원인 확인| M[원인별 치료]
+    L -->|정상| N["Sarcopenia 평가\n종아리둘레 · 악력"]
+    N --> O{경과 평가}
+    O -->|안정형\n완만·경증·경고증상 없음| P["3–6개월 관찰\n매주 체중 측정\n증상 변화 시 즉시 재평가"]
+    O -->|진행형·고위험\n지속감소·기능저하| Q["2단계 확장 검사\nCT 흉부·복부·골반\n내시경 LDH Ca 암선별"]
+
+    style C fill:#f44336,stroke:#c62828,color:#fff,stroke-width:2px
+    style D fill:#ff7043,stroke:#e64a19,color:#fff,stroke-width:2px
+    style H fill:#66bb6a,stroke:#388e3c,color:#fff,stroke-width:2px
+    style J fill:#66bb6a,stroke:#388e3c,color:#fff,stroke-width:2px
+    style M fill:#66bb6a,stroke:#388e3c,color:#fff,stroke-width:2px
+    style P fill:#42a5f5,stroke:#1565c0,color:#fff,stroke-width:2px
+    style Q fill:#ffa726,stroke:#e65100,color:#fff,stroke-width:2px
+```
+
+<p align="center"><strong>체중 감소 진단 및 치료 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. NICE NG12 2023; Gaddey HL & Holder KK. Am Fam Physician 2021.</mark></em></p>
+
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
@@ -112,34 +176,73 @@ _<mark style="color:$info;">Ref. NICE. Suspected cancer: recognition and referra
 * exercise training : 저항 운동, 유산소 운동
 * 약물 치료 고려
 
+{% hint style="danger" %}
+**⚠️ Refeeding syndrome 예방**
+
+영양 보충 시작 전 고위험군을 반드시 확인하십시오.
+
+**고위험 기준** : BMI <18.5 ㎏/㎡ / 최근 급격한 체중 감소 / 장기간 섭취 부족(>5일)
+
+**관리** : 영양 공급을 천천히 시작(target의 25%부터 단계적 증량); 첫 72시간은 전해질(P, K, Mg) 집중 모니터링; 이상 시 즉시 입원 또는 전문과 의뢰
+{% endhint %}
+
 ## <mark style="color:green;">약물 치료</mark>
 
-**식욕 자극제**
+{% hint style="info" %}
+**약물 시작 전 전제 조건 — 아래가 선행되지 않으면 약물 시작 금지**
 
-* steroid, progestogen(megestrol), dronabinol, serotonin 대항제(mirtazapine)
-* 사망률을 줄인다는 증거가 없으며 심각한 부작용이 있을 수 있으므로 제한적 선택 고려
-* megestrol acetate
-  * 암 등의 환자의 식욕부진, 특별한 원인이 배제된 현저한 체중 감소에서 고려
-  * 부작용 : 복통, 불면, 발기부전, 고혈압, 혈전증(거동이 불편한 고령 환자에서 위험 증가), 부신부전, 심부전 악화·부종; 장기 복용(통상 3개월 이상) 시 쿠싱 증후군 및 약물 유발 부신부전 발생 가능
-  * 당뇨 환자에서는 혈당을 급격히 상승시킬 수 있으므로 혈당 모니터링 강화 필요
-  * 체지방 증가 효과는 뚜렷하나 근육량(lean body mass) 증가 효과는 제한적
-  * 근감소 위험이 있는 고령 환자에서는 저항 운동 및 단백질 보충을 병행 권고
-  * 160\~800 ㎎/d (유효 용량은 400\~800 ㎎/d; 증상에 따라 증량 가능) <mark style="color:blue;">\[메게이스]</mark>
-* mirtazapine : 우울증이 있는 체중 감소 환자에서 우선 고려; 우울증이 없는 고령 환자의 식욕부진에도 저용량(7.5\~15 ㎎/d)으로 사용 가능
-  * 15\~30 ㎎/d <mark style="color:blue;">\[레메론]</mark>
+가역적 원인 교정(약물·치아·우울·사회적 문제) → 기본 검사 완료 → 심각한 기저 질환 평가 진행 중 또는 배제
+{% endhint %}
 
-**Anticatabolic agent**
+#### <mark style="color:$primary;">A. 식욕 저하형 + 우울·불면 동반</mark>
 
-* 오메가-3 (EPA) : 암 관련 악액질에서 일부 근거; EPA 기준 1.5\~2 g/d, 최소 4\~8주 투여가 주요 연구에서 사용된 기준이나, 고용량(4 g/d 이상)에서 효과가 오히려 감소한다는 보고도 있어 2 g/d 전후가 현실적인 목표 용량; 체중 증가보다는 삶의 질 개선 및 체중 감소 속도 완화에 의의를 둠; 일반적 체중 감소에서는 제한적
-* pentoxifylline,
-* hydrazine sulfate(임상적 유효성 미입증)
-* thalidomide(국내 처방 적응증 제한)
+**1차 선택 : mirtazapine** <mark style="color:blue;">\[레메론]</mark>
 
-**영양제**
+* 식욕 ↑, 체중 ↑, 수면 개선; 고령·불면 동반 환자에서 특히 유용
+* 용량 : 7.5\~15 ㎎/d (식욕 목적) → 15\~30 ㎎/d (우울 치료)
+* 주의 : daytime sedation, 고령에서 delirium risk; 보험 주의 (우울증 동반 시 급여)
 
-* carnitine, cyproheptadine 등
-* 위약 효과를 포함하여 일부 환자에서 유효; 증거 부족
-* cyproheptadine은 항히스타민 효과로 졸음이 심할 수 있으며, 고령 환자에서는 항콜린 부작용(입마름, 변비, 소변 저류, 인지 저하) 주의 <mark style="color:blue;">\[트레스탄]</mark>(비보험)
+#### <mark style="color:$primary;">B. Cancer cachexia / 불응성 식욕부진</mark>
+
+**선택 : megestrol acetate** <mark style="color:blue;">\[메게이스]</mark>
+
+* 식욕 ↑, 체지방 ↑; 단, lean mass 증가 효과 제한적 → 저항 운동·단백질 보충 병행 필수
+* 용량 : 160\~800 ㎎/d (유효 용량 400\~800 ㎎/d)
+* 강력한 제한 조건 : 혈전 위험 ↑, fluid retention, adrenal suppression, mortality benefit 없음
+* 사용 기준 : 암 환자 또는 불응성 식욕부진에 한정; **frailty·고령 환자에서는 위험 > 이득**
+* 급여 : 암·AIDS 환자에 한함; 그 외 상병은 비급여
+* 당뇨 환자 : 혈당 급격 상승 가능 → 혈당 모니터링 강화
+* 장기 복용(≥3개월) : 쿠싱 증후군·약물 유발 부신부전 가능; 임의 중단 금지
+
+#### <mark style="color:$primary;">C. 약물 유발 체중 감소 의심</mark>
+
+* **GLP-1 agonist** : 용량 감량 또는 중단 우선
+* **Metformin** : 용량 감량 고려
+* **SSRI** : 다른 계열로 교체 고려 (mirtazapine 전환이 유리한 경우 많음)
+* 원칙 : **약물 추가보다 약물 제거가 치료**
+
+#### <mark style="color:$primary;">D. 식욕 유지형 체중 감소</mark>
+
+* 식욕촉진제 사용 금지 — 원인(당뇨·갑상선기능항진증·흡수장애 등) 치료가 우선
+* 식욕촉진제를 투여해도 근본 원인이 교정되지 않으면 체중이 회복되지 않음
+
+#### <mark style="color:$primary;">E. Frailty / 근감소증 중심</mark>
+
+* **약물보다 단백질 보충 + 저항 운동이 핵심** — 식욕촉진제의 역할 거의 없음
+* megestrol : frailty 고령 환자에서 위험 > 이득으로 권장하지 않음
+
+***
+
+**2차 선택 (제한적)**
+
+* **Cyproheptadine** <mark style="color:blue;">\[트레스탄]</mark> (비보험) : 일부 환자에서 식욕 촉진 효과; 단, anticholinergic burden 주의 — Beers Criteria 해당 약물로 **고령 환자에서 2선 이하 위치**; confusion, 소변 저류 risk; 젊은 환자에서만 제한적 고려
+* **Dronabinol** : 식욕 ↑ 가능; CNS 부작용·근거 제한으로 제한적
+* **Steroid** : 단기 식욕 ↑; 근손실·고혈당 문제로 terminal setting에만 사용
+* **오메가-3 (EPA)** : 암 관련 악액질에서 일부 근거; EPA 기준 1.5\~2 g/d, 최소 4\~8주; 체중 증가보다 삶의 질 개선 및 체중 감소 속도 완화에 의의를 둠
+
+**병합 전략 — 약물 단독 사용 금지**
+
+반드시 병행 : 단백질 보충 + 저항 운동 + 식사 환경 개선
 
 ***
 
