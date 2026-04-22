@@ -3,9 +3,9 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 부종 : capillary hemodynamics 변화(모세혈관 수압↑, 삼투압↓, 투과성↑) 또는 신장의 Na·수분 정체 증가에 의해 간질(interstitium)에 체액이 과잉 축적된 상태
-* 전신 부종은 심장(venous congestion)·간(oncotic 저하)·신장(Na 정체)·저알부민 상태의 4가지 축을 먼저 감별하고, 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 고려
+* 전신 부종은 **심장**(venous congestion)·**간**(oncotic 저하)·**신장**(Na 정체)·**저알부민 상태**의 4가지 축을 먼저 감별하고, 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 고려
 * 부종의 발생 부위, 좌우 대칭 여부, 발생 속도, pitting 여부, 동반 증상(호흡 곤란, 복수, 황달 등)이 원인 감별의 핵심
-* 편측 하지 부종에서는 DVT를 항상 배제해야 하며, Wells score에 따라 D-Dimer 검사 및 압박 초음파 시행 여부를 결정; 급성 편측 부종 + 통증 + 열감 = DVT until proven otherwise
+* 편측 하지 부종에서는 DVT를 항상 배제해야 하며, Wells score에 따라 D-Dimer 검사 및 압박 초음파 시행 여부를 결정; **급성 편측 부종 + 통증 + 열감 = DVT until proven otherwise**
   * 활성 암 환자에서는 Wells score 신뢰도가 감소하므로 저위험군이라도 영상 검사 우선 고려
 * 이뇨제는 폐부종 외에는 서둘러 투여할 필요가 없으며, 만성 정맥 부전 등 volume overload가 없는 경우에는 권장되지 않음
 
@@ -152,22 +152,46 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * Ankle-brachial pressure index : 만성 정맥 부전과 동맥 질환 감별; 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함; 혈관 석회화로 ABI가 위양성으로 높게 측정될 수 있어 이 경우 toe-brachial index(TBI ＜0.7 시 이상) 또는 발등동맥·후경골동맥 맥박 촉진으로 보완
 * s-Cr, 소변 시험지봉 검사 : 신질환(특히 신증후군) 감별을 위하여 고려
 
+{% hint style="info" %}
+**Wells DVT Score — 판단 기준 (≤1점: 저위험 / ≥2점: 중등도~고위험)**
+
+| 항목 | 점수 |
+|---|---|
+| 활성 암 (치료 중 또는 6개월 이내) | +1 |
+| 하지 마비·불완전마비 또는 최근 석고 고정 | +1 |
+| 최근 3일 이상 침상 안정 또는 12주 이내 전신마취 수술 | +1 |
+| 심부 정맥 주행 경로의 국소 압통 | +1 |
+| 증상 있는 쪽 하지 전체 부종 | +1 |
+| 증상 있는 쪽 종아리 둘레 > 반대쪽보다 3 ㎝ 이상 | +1 |
+| 증상 있는 쪽에만 함요부종(pitting edema) | +1 |
+| 표재정맥 측부 순환 (기존 정맥류 제외) | +1 |
+| 이전에 진단된 DVT | +1 |
+| DVT만큼 가능성 있는 다른 진단 존재 | −2 |
+
+≤1점 → D-dimer 먼저 | ≥2점 → 압박 초음파(CUS) 바로 시행
+{% endhint %}
+
 ***
 
 ```mermaid
 graph TD
-    A[<u>편측하지부종</u><br/>급성 <72h] --> B[DVT 가능성]
-    B -- 낮음 --> C[D-dimer 검사]
-    B -- 높음 --> D[duplex US]
-    C -- 정상 --> E[다른 원인 고려<br>예: Cellulitis]
-    C -- 상승 --> D
-    D --> F[No DVT]
-    D --> G[DVT 진단]
-    F --> H[골반 MR venography<br>골반 or 원위부 DVT 평가]
-    G --> I[치료]
-    H -- 음성 --> J[다른 원인 고려]
-    
-    style A fill:#d5f5e3,stroke:#27ae60
+    subgraph SG1["🔷 편측 하지 부종 — 급성 (＜72시간)"]
+        B["Wells Score 평가"]
+        B -- "저위험 (≤1점)" --> C["D-dimer 검사"]
+        B -- "중등도 이상 (≥2점)" --> D["압박 초음파(CUS)"]
+        C -- "정상" --> E["다른 원인 고려
+예: Cellulitis"]
+        C -- "상승" --> D
+        D --> F["DVT 없음"]
+        D --> G["DVT 진단"]
+        F --> H["골반 MR venography
+골반 or 원위부 DVT 평가"]
+        G --> I["항응고 치료"]
+        H -- "음성" --> J["다른 원인 고려"]
+    end
+
+    style SG1 fill:#eaf4fb,stroke:#2980b9,stroke-width:2px
+    style B fill:#d5f5e3,stroke:#27ae60
     style E fill:#fdebd0,stroke:#e67e22
     style G fill:#fdebd0,stroke:#e67e22
     style J fill:#fdebd0,stroke:#e67e22
@@ -175,58 +199,64 @@ graph TD
 
 ```mermaid
 graph TD
-    A["<u>편측하지부종</u><br/>만성 (≥72h)"] --> B["암, 골반 수술, 외상 병력?"]
-    
-    B -- "no" --> C["duplex US"]
-    B -- "yes" --> D["골반 MR venography"]
-    
-    C --> E["만성 정맥부전 의심?"]
-    E -- "yes" --> F["치료"]
-    E -- "no" --> G["Lymphedema 의심?"]
-    
-    D --> H["암 or 혈전 폐쇄?"]
-    H -- "no" --> G
-    H -- "yes" --> I["추가 치료"]
-    
-    G -- "no" --> J["다른 원인 고려"]
-    G -- "yes" --> K["lymphoscintigraphy,<br/>lymphangiography"]
-    
-    style A fill:#d5f5e3,stroke:#27ae60
-    style H fill:#fdebd0,stroke:#e67e22
-    style E fill:#fdebd0,stroke:#e67e22
-    style G fill:#fdebd0,stroke:#e67e22
-    style J fill:#fdebd0,stroke:#e67e22
+    subgraph SG2["🔷 편측 하지 부종 — 만성 (≥72시간)"]
+        B2["암, 골반 수술, 외상 병력?"]
+        B2 -- "없음" --> C2["duplex US"]
+        B2 -- "있음" --> D2["골반 MR venography"]
+        C2 --> E2["만성 정맥부전 의심?"]
+        E2 -- "yes" --> F2["치료"]
+        E2 -- "no" --> G2["Lymphedema 의심?"]
+        D2 --> H2["암 or 혈전 폐쇄?"]
+        H2 -- "no" --> G2
+        H2 -- "yes" --> I2["추가 치료"]
+        G2 -- "no" --> J2["다른 원인 고려"]
+        G2 -- "yes" --> K2["lymphoscintigraphy,
+lymphangiography"]
+    end
+
+    style SG2 fill:#eaf4fb,stroke:#2980b9,stroke-width:2px
+    style B2 fill:#d5f5e3,stroke:#27ae60
+    style H2 fill:#fdebd0,stroke:#e67e22
+    style E2 fill:#fdebd0,stroke:#e67e22
+    style G2 fill:#fdebd0,stroke:#e67e22
+    style J2 fill:#fdebd0,stroke:#e67e22
 ```
 
 ```mermaid
 graph TD
-    START["[ 양측 하지 부종 <br/>or 전신 부종 ]"] --> A["전신 질환 의심 양상/병력?"]
-    
-    A -- "no" --> B1["급성 (<72h)"]
-    A -- "no" --> B2["만성 (≥72h)"]
-    
-    B1 --> C1["유발 약물이<br/>있는 경우 중단"]
-    
-    B2 --> C2["임상적 특징에 따른 추정 진단"]
-    C2 --> D1["만성 정맥부전 의심"]
-    C2 --> D2["Lymphedema"]
-    C2 --> D3["Lipedema"]
-    C2 --> D4["다른 원인 고려<br/>(예: 특발성)"]
-    
-    D1 & D2 --> E1["검사, 진단, 치료"]
-    
-    A -- "yes" --> B3["의심 질환에 대한 평가<br/>(예: 암, 간/신 질환)"]
-    B3 --> C3["불편한 수면,<br/>코골이, or 비만?"]
-    C3 -- "yes" --> D5["폐쇄수면무호흡증 검사<br/>(polysomnography,<br/>echocardiography)"]
+    subgraph SG3["🔷 양측 하지 부종 또는 전신 부종"]
+        A3["전신 질환 의심 양상/병력?"]
+        A3 -- "없음" --> B3a["급성 (＜72h)"]
+        A3 -- "없음" --> B3b["만성 (≥72h)"]
+        B3a --> C3a["유발 약물이
+있는 경우 중단"]
+        B3b --> C3b["임상적 특징에 따른 추정 진단"]
+        C3b --> D3a["만성 정맥부전 의심"]
+        C3b --> D3b["Lymphedema"]
+        C3b --> D3c["Lipedema"]
+        C3b --> D3d["다른 원인 고려
+(예: 특발성)"]
+        D3a & D3b --> E3["검사, 진단, 치료"]
+        A3 -- "있음" --> B3c["의심 질환에 대한 평가
+(예: 암, 간/신 질환)"]
+        B3c --> C3c["불편한 수면,
+코골이, or 비만?"]
+        C3c -- "yes" --> D3e["폐쇄수면무호흡증 검사
+(polysomnography,
+echocardiography)"]
+    end
 
-style START fill:#d5f5e3,stroke:#27ae60
-style D1 fill:#fdebd0,stroke:#e67e22
-style D2 fill:#fdebd0,stroke:#e67e22
-style D3 fill:#fdebd0,stroke:#e67e22
-style D4 fill:#fdebd0,stroke:#e67e22
+    style SG3 fill:#eaf4fb,stroke:#2980b9,stroke-width:2px
+    style A3 fill:#d5f5e3,stroke:#27ae60
+    style D3a fill:#fdebd0,stroke:#e67e22
+    style D3b fill:#fdebd0,stroke:#e67e22
+    style D3c fill:#fdebd0,stroke:#e67e22
+    style D3d fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong><br><em><mark style="color:$info;">US=ultrasonography, DVT=deep venous thrombosis</mark></em><br><em><mark style="color:$info;">Ref. Edema: Diagnosis and Management. AFP 2013:88(2). Fig 1 &#x26; 2.</mark></em></p>
+<p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong>
+<br><em><mark style="color:$info;">US=ultrasonography, DVT=deep venous thrombosis</mark></em>
+<br><em><mark style="color:$info;">Ref. Edema: Diagnosis and Management. AFP 2013:88(2). Fig 1 & 2.</mark></em></p>
 
 ***
 
@@ -301,6 +331,8 @@ graph TD
 <p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong></p>
 
 ***
+
+
 
 ### <mark style="color:orange;">심부전에 의한 부종</mark>
 
