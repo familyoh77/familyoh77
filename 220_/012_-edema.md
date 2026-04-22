@@ -153,22 +153,9 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 * s-Cr, 소변 시험지봉 검사 : 신질환(특히 신증후군) 감별을 위하여 고려
 
 {% hint style="info" %}
-**Wells DVT Score — 판단 기준 (≤1점: 저위험 / ≥2점: 중등도~고위험)**
+**Wells DVT Score** — ≤1점: 저위험 → D-dimer 먼저 / ≥2점: 중등도 이상 → 압박 초음파(CUS) 바로 시행
 
-| 항목 | 점수 |
-|---|---|
-| 활성 암 (치료 중 또는 6개월 이내) | +1 |
-| 하지 마비·불완전마비 또는 최근 석고 고정 | +1 |
-| 최근 3일 이상 침상 안정 또는 12주 이내 전신마취 수술 | +1 |
-| 심부 정맥 주행 경로의 국소 압통 | +1 |
-| 증상 있는 쪽 하지 전체 부종 | +1 |
-| 증상 있는 쪽 종아리 둘레 > 반대쪽보다 3 ㎝ 이상 | +1 |
-| 증상 있는 쪽에만 함요부종(pitting edema) | +1 |
-| 표재정맥 측부 순환 (기존 정맥류 제외) | +1 |
-| 이전에 진단된 DVT | +1 |
-| DVT만큼 가능성 있는 다른 진단 존재 | −2 |
-
-≤1점 → D-dimer 먼저 | ≥2점 → 압박 초음파(CUS) 바로 시행
+각 **+1점**: 활성 암 · 하지 마비/최근 석고 고정 · 최근 3일↑ 침상 안정 또는 12주 내 전신마취 수술 · 심부정맥 경로 국소 압통 · 증상측 하지 전체 부종 · 종아리 둘레 반대측보다 ≥3 ㎝ · 증상측에만 함요부종 · 표재정맥 측부순환 · 이전 DVT 과거력 / DVT만큼 가능성 있는 다른 진단 **−2점**
 {% endhint %}
 
 ***
@@ -176,6 +163,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 ```mermaid
 graph TD
     subgraph SG1["🔷 편측 하지 부종 — 급성 (＜72시간)"]
+        direction TB
         B["Wells Score 평가"]
         B -- "저위험 (≤1점)" --> C["D-dimer 검사"]
         B -- "중등도 이상 (≥2점)" --> D["압박 초음파(CUS)"]
@@ -200,6 +188,7 @@ graph TD
 ```mermaid
 graph TD
     subgraph SG2["🔷 편측 하지 부종 — 만성 (≥72시간)"]
+        direction TB
         B2["암, 골반 수술, 외상 병력?"]
         B2 -- "없음" --> C2["duplex US"]
         B2 -- "있음" --> D2["골반 MR venography"]
@@ -225,6 +214,7 @@ lymphangiography"]
 ```mermaid
 graph TD
     subgraph SG3["🔷 양측 하지 부종 또는 전신 부종"]
+        direction TB
         A3["전신 질환 의심 양상/병력?"]
         A3 -- "없음" --> B3a["급성 (＜72h)"]
         A3 -- "없음" --> B3b["만성 (≥72h)"]
