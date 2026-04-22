@@ -162,8 +162,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2016. Table 27-23
 
 ```mermaid
 graph TD
-    subgraph SG1["🔷 편측 하지 부종 — 급성 (＜72시간)"]
-        direction TB
+SG1["🔷 편측 하지 부종 — 급성 (＜72시간)"]
         B["Wells Score 평가"]
         B -- "저위험 (≤1점)" --> C["D-dimer 검사"]
         B -- "중등도 이상 (≥2점)" --> D["압박 초음파(CUS)"]
@@ -176,9 +175,9 @@ graph TD
 골반 or 원위부 DVT 평가"]
         G --> I["항응고 치료"]
         H -- "음성" --> J["다른 원인 고려"]
-    end
 
-    style SG1 fill:#eaf4fb,stroke:#2980b9,stroke-width:2px
+
+
     style B fill:#d5f5e3,stroke:#27ae60
     style E fill:#fdebd0,stroke:#e67e22
     style G fill:#fdebd0,stroke:#e67e22
@@ -187,8 +186,8 @@ graph TD
 
 ```mermaid
 graph TD
-    subgraph SG2["🔷 편측 하지 부종 — 만성 (≥72시간)"]
-        direction TB
+SG2["🔷 편측 하지 부종 — 만성 (≥72시간)"]
+
         B2["암, 골반 수술, 외상 병력?"]
         B2 -- "없음" --> C2["duplex US"]
         B2 -- "있음" --> D2["골반 MR venography"]
@@ -201,7 +200,7 @@ graph TD
         G2 -- "no" --> J2["다른 원인 고려"]
         G2 -- "yes" --> K2["lymphoscintigraphy,
 lymphangiography"]
-    end
+   
 
     style SG2 fill:#eaf4fb,stroke:#2980b9,stroke-width:2px
     style B2 fill:#d5f5e3,stroke:#27ae60
@@ -213,8 +212,8 @@ lymphangiography"]
 
 ```mermaid
 graph TD
-    subgraph SG3["🔷 양측 하지 부종 또는 전신 부종"]
-        direction TB
+SG3["🔷 양측 하지 부종 또는 전신 부종"]
+
         A3["전신 질환 의심 양상/병력?"]
         A3 -- "없음" --> B3a["급성 (＜72h)"]
         A3 -- "없음" --> B3b["만성 (≥72h)"]
@@ -234,7 +233,7 @@ graph TD
         C3c -- "yes" --> D3e["폐쇄수면무호흡증 검사
 (polysomnography,
 echocardiography)"]
-    end
+    
 
     style SG3 fill:#eaf4fb,stroke:#2980b9,stroke-width:2px
     style A3 fill:#d5f5e3,stroke:#27ae60
@@ -244,9 +243,7 @@ echocardiography)"]
     style D3d fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong>
-<br><em><mark style="color:$info;">US=ultrasonography, DVT=deep venous thrombosis</mark></em>
-<br><em><mark style="color:$info;">Ref. Edema: Diagnosis and Management. AFP 2013:88(2). Fig 1 & 2.</mark></em></p>
+<p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong><br><em><mark style="color:$info;">US=ultrasonography, DVT=deep venous thrombosis</mark></em><br><em><mark style="color:$info;">Ref. Edema: Diagnosis and Management. AFP 2013:88(2). Fig 1 &#x26; 2.</mark></em></p>
 
 ***
 
@@ -321,8 +318,6 @@ graph TD
 <p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong></p>
 
 ***
-
-
 
 ### <mark style="color:orange;">심부전에 의한 부종</mark>
 
