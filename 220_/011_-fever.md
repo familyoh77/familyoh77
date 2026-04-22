@@ -96,13 +96,13 @@
 ```mermaid
 graph TD
     A([발열 환자]) --> B{기간?}
-    B -->|"< 3일<br/>+ 명백한 바이러스 임상상"| C["검사 불필요<br/>(임상 경과 관찰)"]
-    B -->|"3–7일<br/>또는 비전형 경과"| D{증상 초점?}
-    D -->|호흡기 증상| E["CXR<br/>CBC + CRP<br/>± PCT<br/>± 독감·코로나 PCR"]
-    D -->|요로 증상| F["U/A + 소변 배양<br/>CBC + CRP<br/>± BUN/Cr"]
-    D -->|복부 증상| G["CBC + CRP<br/>LFT + Lipase<br/>복부 초음파 또는 CT"]
-    D -->|"비특이적<br/>(no focal sign)"| H["CBC + diff<br/>CRP ± PCT<br/>혈액 배양(패혈증 의심 시)<br/>U/A"]
-    B -->|"> 7일 또는 원인 불명"| I["FUO 정밀 평가<br/>ESR/CRP 추세<br/>CT(흉부·복부)<br/>혈액 배양 반복<br/>ANA·HIV·TB 검사"]
+    B -->|"<b><3일<br/>+ 명백한 바이러스 임상상</b>"| C["검사 불필요<br/>(임상 경과 관찰)"]
+    B -->|"<b>3–7일<br/>또는 비전형 경과</b>"| D{증상 초점?}
+    D -->|<b>호흡기 증상</b>| E["CXR<br/>CBC + CRP<br/>± PCT<br/>± 독감·코로나 PCR"]
+    D -->|<b>요로 증상</b>| F["U/A + 소변 배양<br/>CBC + CRP<br/>± BUN/Cr"]
+    D -->|<b>복부 증상</b>| G["CBC + CRP<br/>LFT + Lipase<br/>복부 초음파 또는 CT"]
+    D -->|"<b>비특이적</b><br/>(no focal sign)"| H["CBC + diff<br/>CRP ± PCT<br/>혈액 배양(패혈증 의심 시)<br/>U/A"]
+    B -->|"<b>>7일 또는 원인 불명</b>"| I["FUO 정밀 평가<br/>ESR/CRP 추세<br/>CT(흉부·복부)<br/>혈액 배양 반복<br/>ANA·HIV·TB 검사"]
 
     classDef green  fill:#d5f5e3,stroke:#27ae60
     classDef yellow fill:#fff3cd,stroke:#f39c12
@@ -140,14 +140,7 @@ graph TD
 
 ### <mark style="color:orange;">열 패턴에 따른 추정 질환</mark>
 
-| 패턴                                   | 추정 질환                  |
-| ------------------------------------ | ---------------------- |
-| 상대적 서맥 (Faget sign)                  | 약물열, 장티푸스, 브루셀라, 레지오넬라 |
-| Biphasic (2회 발열기)                    | 뎅기열, 황열, enterovirus   |
-| 야간 발열 (nocturnal)                    | TB, 림프종                |
-| Relapsing (발열-정상 반복)                 | 말라리아, 브루셀라             |
-| Double quotidian (일 2회 정점)           | 성인형 스틸병(염증성 관절염)       |
-| Pel-Ebstein fever (수일 발열 후 수일 정상 반복) | 호지킨 림프종 (불명열 감별 시 참고)  |
+<table><thead><tr><th width="361">패턴</th><th>추정 질환</th></tr></thead><tbody><tr><td>상대적 서맥 (Faget sign)</td><td>약물열, 장티푸스, 브루셀라, 레지오넬라</td></tr><tr><td>Biphasic (2회 발열기)</td><td>뎅기열, 황열, enterovirus</td></tr><tr><td>야간 발열 (nocturnal)</td><td>TB, 림프종</td></tr><tr><td>Relapsing (발열-정상 반복)</td><td>말라리아, 브루셀라</td></tr><tr><td>Double quotidian (일 2회 정점)</td><td>성인형 스틸병(염증성 관절염)</td></tr><tr><td>Pel-Ebstein fever (수일 발열 후 수일 정상 반복)</td><td>호지킨 림프종 (불명열 감별 시 참고)</td></tr></tbody></table>
 
 ### <mark style="color:orange;">증상/병력에 따른 감별</mark>
 
@@ -184,13 +177,13 @@ graph TD
 ```mermaid
 graph TD
     A([발열 환자]) --> B{임상 안정성}
-    B -->|"불안정<br/>(패혈증 의심·쇼크·고열)"| C["즉시 항생제 + 수액<br/>입원 / 응급 처치"]
-    B -->|안정| D{원인 파악?}
-    D -->|세균 감염| E["원인균별 항생제<br/>경과 관찰"]
-    D -->|바이러스 감염| F["대증 치료<br/>안전망 안내"]
-    D -->|약물열| G["원인 약물 중단<br/>48–72h 경과 관찰"]
-    D -->|"비감염성<br/>(염증·종양·자가면역)"| H["전문과 의뢰"]
-    D -->|원인 불명| I["불명열 정밀 평가<br/>(☞ 불명열 섹션 참조)"]
+    B -->|"<b>불안정</b><br/>(패혈증 의심·쇼크·고열)"| C["즉시 항생제 + 수액<br/>입원 / 응급 처치"]
+    B -->|<b>안정</b>| D{원인 파악?}
+    D -->|<b>세균 감염</b>| E["원인균별 항생제<br/>경과 관찰"]
+    D -->|<b>바이러스 감염</b>| F["대증 치료<br/>안전망 안내"]
+    D -->|<b>약물열</b>| G["원인 약물 중단<br/>48–72h 경과 관찰"]
+    D -->|"<b>비감염성<br/>(염증·종양·자가면역)</b>"| H["전문과 의뢰"]
+    D -->|<b>원인 불명</b>| I["불명열 정밀 평가<br/>(☞ 불명열 섹션 참조)"]
 
     classDef red    fill:#ff6b6b,stroke:#c0392b,color:#fff
     classDef green  fill:#d5f5e3,stroke:#27ae60
