@@ -281,26 +281,26 @@ echocardiography)"]
 
 ```mermaid
 graph TD
-    A{"이뇨제가\n필요한가?"}
-    A -- "폐부종·호흡곤란\nvolume overload" --> B["이뇨제 사용"]
-    A -- "정맥부전·림프부종\nlipedema" --> Z["비약물 치료\n압박·거상·저염식"]
+    A{"이뇨제가<br/>필요한가?"}
+    A -- "<b>폐부종·호흡곤란</b><br/>volume overload" --> B["이뇨제 사용"]
+    A -- "<b>정맥부전·림프부종</b><br/>lipedema" --> Z["비약물 치료<br/>압박·거상·저염식"]
 
     B --> C{"원인 분류"}
     C --> HF["심부전 HF"]
     C --> CI["간경화 + 복수"]
     C --> NS["신증후군"]
 
-    HF --> HF1["Loop diuretic 1차\nfurosemide 20-40 mg PO\n목표: 0.5-1.0 kg/d 감량"]
-    HF1 -- "반응 불충분" --> HF2["용량 2-3배 증량\nor Sequential blockade\nloop + thiazide/metolazone"]
-    HF2 -- "SGLT2i 병용 중" --> HF3["Loop 용량 감량 고려\n신기능·전해질 모니터링"]
+    HF --> HF1["Loop diuretic 1차<br/>furosemide 20-40 mg PO<br/>목표: 0.5-1.0 kg/d 감량"]
+    HF1 -- "반응 불충분" --> HF2["용량 2-3배 증량<br/>or Sequential blockade<br/>loop + thiazide/metolazone"]
+    HF2 -- "SGLT2i 병용 중" --> HF3["Loop 용량 감량 고려<br/>신기능·전해질 모니터링"]
 
-    CI --> CI1["Spironolactone 100 mg\n+ Furosemide 40 mg\n100:40 비율 유지"]
-    CI1 -- "반응 불충분" --> CI2["Spironolactone 우선 증량\n최대 400 mg/d"]
+    CI --> CI1["Spironolactone 100 mg<br/>+ Furosemide 40 mg<br/>100:40 비율 유지"]
+    CI1 -- "반응 불충분" --> CI2["Spironolactone 우선 증량<br/>최대 400 mg/d"]
     CI1 -- "spironolactone 불내성" --> CI3["Amiloride 대체"]
 
-    NS --> NS1["고용량 Loop\nfurosemide 40-80 mg 이상\n단백결합 감소로 고용량 필요"]
-    NS1 -- "반응 불충분" --> NS2["IV loop 전환\nor Albumin 25% + loop 병용\nor Sequential blockade"]
-    NS1 -. "intravascular depletion 주의" .-> NS_w["겉 부종 vs 속 hypovolemia\n→ AKI 위험 모니터링"]
+    NS --> NS1["고용량 Loop<br/>furosemide 40-80 mg 이상<br/>단백결합 감소로 고용량 필요"]
+    NS1 -- "반응 불충분" --> NS2["IV loop 전환<br/>or Albumin 25% + loop 병용<br/>or Sequential blockade"]
+    NS1 -. "intravascular depletion <br/>주의" .-> NS_w["겉 부종 vs 속 hypovolemia<br/>→ AKI 위험 모니터링"]
 
     style A fill:#d5f5e3,stroke:#27ae60
     style Z fill:#fdebd0,stroke:#e67e22
@@ -321,13 +321,13 @@ graph TD
   * ACE 억제제(또는 ARB, ARNI), 베타차단제, MRA(spironolactone/eplerenone), SGLT2 억제제(dapagliflozin, empagliflozin) (Class I, LOE A)
   * SGLT2 억제제 : 이뇨 효과 및 심혈관 사망·심부전 입원 감소; 당뇨 유무와 무관하게 권고
     * SGLT2 억제제의 삼투성 이뇨 효과로 인해 기존 loop 이뇨제와 병용 시 과도한 용적 감소·저혈압·전해질 이상이 발생할 수 있으므로 병용 시 loop 이뇨제 용량 감량을 고려하고 신기능 및 전해질을 모니터링
-* HFpEF (LVEF ≥50%) : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 **권고됨 (Class IIa; 실질적 standard therapy)**; ACC/AHA 2023, ESC 2023 focused update
+* HFpEF (LVEF ≥50%) : 증상 조절(이뇨제), 동반 질환(고혈압, AF, 관상동맥 질환) 치료가 중심; SGLT2 억제제 권고
 * 1차 진료에서 심부전 확인 시 심장내과 협진 또는 의뢰 권고 (약물 선택 및 용량 조절)
 
 ### <mark style="color:orange;">특발성 부종증후군, 하지 부종</mark>
 
 * 이미 이뇨제를 사용하고 있는 경우에는 이뇨제 중단(diuretic withdrawal)을 먼저 시행한 후 약물 치료를 고려함; 2\~4주 동안 복용 중단 및 저염식 병행
-  * **이뇨제 유발 부종 악순환** : 만성 이뇨제 사용 → RAAS 활성화 → aldosterone↑ → Na 정체 → 이뇨제 중단 시 반동 부종(rebound edema). 중단 후 일시적 체중 증가가 수주 내 자연 호전됨을 미리 설명하여 조기 재복용을 방지
+  * 이뇨제 유발 부종 악순환 : 만성 이뇨제 사용 → RAAS 활성화 → aldosterone↑ → Na 정체 → 이뇨제 중단 시 반동 부종(rebound edema). 중단 후 일시적 체중 증가가 수주 내 자연 호전됨을 미리 설명하여 조기 재복용을 방지
 
 #### <mark style="color:$primary;">이뇨제</mark>
 
