@@ -75,8 +75,8 @@
   * Medical fatigue → anemia / thyroid / chronic disease
   * Post-exertional fatigue → ME/CFS / Long COVID
   * Lifestyle fatigue → stress / overwork / inactivity
-* Step 4: 검사 -Baseline labs 시행
-* Step 5: follow-up at 4 weeks
+* Step 4: 검사 - Baseline labs 시행
+* Step 5: Follow-up at 4 weeks
 
 #### <mark style="color:$primary;">감별 항목 : 'DEAD, TIRED'</mark>
 
@@ -97,42 +97,43 @@
 * 대부분의 경우에서 무분별한 실험실 검사는 도움이 되지 않음
 * 병력·진찰상 명확한 원인 없이 4주를 초과하여 증상이 지속되는 경우 baseline 검사를 1회 시행; 반복 검사는 최소화
 
-{% hint style="info" %}
-**Baseline 검사 조기 시행을 우선 고려하는 상황**\
-다음 중 하나 이상 해당 시 4주를 기다리지 않고 초진 시 시행을 고려합니다.
+> **Baseline 검사 조기 시행 고려 적응증**
+>
+> 다음 중 하나 이상 해당 시 4주를 기다리지 않고 초진 시 시행을 고려
+>
+> * 기능 저하 동반 (일상·업무 영향)
+> * 고령 (≥60세)
+> * 만성질환 위험군 (당뇨, CKD 등)
+> * 병력·진찰상 원인 불명
+> * 충분한 설명 후에도 기질 원인에 대한 강한 우려 지속
 
-* 기능 저하 동반 (일상·업무 영향)
-* 고령 (≥60세)
-* 만성질환 위험군 (당뇨, CKD 등)
-* 병력·진찰상 원인 불명
-* 충분한 설명 후에도 기질 원인에 대한 강한 우려 지속
-{% endhint %}
-
-* 기본 검사 : <mark style="color:red;">**CBC, 혈당/HbA1c, LFT, RFT, TSH, 전해질, U/A**</mark>
-  * 가임기 여성에서는 UPT(소변 임신 반응 검사)를 기본 검사에 포함
-* 선택 검사 : <mark style="color:red;">**ESR, CRP, ferritin, Vit B12, 엽산, Vit D(25(OH)D), Anti-TPO Ab, monospot, ANA, 흉부 X선, 분변 잠혈 검사, 수면다원검사**</mark>; 복부 초음파(임상적으로 필요시)
-  * CBC에서 빈혈 확인 → ferritin(철결핍성), Vit B12·엽산(거대적아구성), ESR·CRP(만성 질환 빈혈) 순으로 감별
-  * 철결핍성 빈혈은 ferritin <30 ng/㎖를 기준으로 하되, 염증이 동반된 경우 ferritin이 위양성으로 정상화될 수 있어 ferritin <100 ng/㎖ + TSAT <20%를 함께 충족하면 염증 동반 철결핍으로 판단
-  * IDWA(빈혈 없는 철결핍): Hb 정상이더라도 ferritin <30 ng/㎖이면 원인 불명의 피로 원인이 될 수 있으며, 철분 보충 후 피로가 개선되는 경우가 있음; CBC 정상이라도 증상 지속 시 ferritin 단독 확인 고려
-  * TSH가 정상이더라도 증상이 지속되거나 두통·시야 장애 등 뇌하수체 질환이 의심되는 경우 free T4를 추가하여 이차성 갑상선기능저하증을 감별
-  * Anti-TPO Ab : TSH 정상 범위이더라도 증상 지속·여성·갑상선 질환 가족력이 있는 경우 자가면역갑상선염(하시모토) 감별을 위해 추가 고려
-  * Vit D : 결핍 기준 <20 ng/㎖; 피로 개선 목표 수치는 통상 ≥30 ng/㎖ (개인차 있음)
-* 수면 무호흡 선별 : 코골이·주간 졸음·무호흡 목격이 동반되는 경우 [STOP-BANG](014_-fatigue.md#stop-bang) 설문 시행
-  * 3\~4점 : 중등도 위험 → 수면 위생 교육 및 추적 관찰
-  * ≥5점 : 고위험 → 수면다원검사 적극 의뢰
-* 우울증 감별 : 'DEAD, TIRED' 항목 중 우울/불안(Depression/Anxiety) 비중이 높다면 초기부터 PHQ-9 시행; PHQ-9 ≥10 → 치료 적극 고려, 5–9 → watchful waiting + 생활 습관 지도 (☞ [우울증](../221_/027_-depression.md#phq-9))
 * 피로 환자의 대부분은 검사에서 근육 약화가 없으며, 근육 약화가 있는 경우 신경계 질환 등을 고려
 
-#### <mark style="color:$primary;">만성피로증후군(ME/CFS) 핵심 4대 증상</mark>
+**기본 검사**&#x20;
 
-다음 4가지를 모두 충족할 때 ME/CFS를 의심
+* <mark style="color:red;">**CBC, 혈당/HbA1c, LFT, RFT, TSH, 전해질, U/A**</mark>
+* 가임기 여성에서는 UPT(소변 임신 반응 검사)를 기본 검사에 포함
 
-1. 6개월 이상 지속되는 기능 저하 동반 피로 : 새로 발생하였으며 활동으로 설명되지 않음
-2. 운동 후 권태감(PEM, Post-Exertional Malaise) : 활동 후 수 시간\~수일 뒤 증상 악화; 단순 피로와 ME/CFS를 구분하는 가장 중요한 특징
-3. 비회복성 수면 : 충분히 자도 개운하지 않음
-4. 인지 기능 저하(Brain fog) 또는 기립성 조절 장애 : 집중력·기억력 저하, 또는 일어설 때 어지럼·빈맥
+**선택 검사**&#x20;
 
-※ PEM이 있는 환자에게 점진적 운동 치료를 적용하면 증상이 악화될 수 있다. ME/CFS 의심 시 운동 처방 전 반드시 확인할 것 (NICE 2021)
+* <mark style="color:red;">**ESR, CRP, ferritin, Vit B12, 엽산, Vit D(25(OH)D), Anti-TPO Ab, monospot, ANA, 흉부 X선, 분변 잠혈 검사, 수면다원검사**</mark>; 복부 초음파(임상적으로 필요시)
+* CBC에서 빈혈 확인 → ferritin(철결핍성), Vit B12·엽산(거대적아구성), ESR·CRP(만성 질환 빈혈) 순으로 감별
+* 철결핍성 빈혈은 ferritin <30 ng/㎖를 기준으로 하되, 염증이 동반된 경우 ferritin이 위양성으로 정상화될 수 있어 ferritin <100 ng/㎖ + TSAT <20%를 함께 충족하면 염증 동반 철결핍으로 판단
+* IDWA(빈혈 없는 철결핍): Hb 정상이더라도 ferritin <30 ng/㎖이면 원인 불명의 피로 원인이 될 수 있으며, 철분 보충 후 피로가 개선되는 경우가 있음; CBC 정상이라도 증상 지속 시 ferritin 단독 확인 고려
+* TSH가 정상이더라도 증상이 지속되거나 두통·시야 장애 등 뇌하수체 질환이 의심되는 경우 free T4를 추가하여 이차성 갑상선기능저하증을 감별
+* Anti-TPO Ab : TSH 정상 범위이더라도 증상 지속·여성·갑상선 질환 가족력이 있는 경우 자가면역갑상선염(하시모토) 감별을 위해 추가 고려
+* Vit D : 결핍 기준 <20 ng/㎖; 피로 개선 목표 수치는 통상 ≥30 ng/㎖ (개인차 있음)
+
+**수면 무호흡 선별**&#x20;
+
+* 코골이·주간 졸음·무호흡 목격이 동반되는 경우 [STOP-BANG](014_-fatigue.md#stop-bang) 설문 시행
+* 3\~4점 : 중등도 위험 → 수면 위생 교육 및 추적 관찰
+* ≥5점 : 고위험 → 수면다원검사 적극 의뢰
+
+**우울증 감별**&#x20;
+
+* 'DEAD, TIRED' 항목 중 우울/불안(Depression/Anxiety) 비중이 높다면 초기부터 PHQ-9 시행
+* PHQ-9 ≥10 → 치료 적극 고려, 5–9 → watchful waiting + 생활 습관 지도 (☞ [우울증](../221_/027_-depression.md#phq-9))
 
 #### <mark style="color:$primary;">피로 증상 척도 (Fatigue Severity Scale, FSS)</mark>
 
@@ -156,7 +157,7 @@
 
 #### <mark style="color:$primary;">STOP-BANG 수면 무호흡 선별 설문</mark>
 
-_<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–821.</mark>_
+  _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–821.</mark>_
 
 * 피로를 주소로 내원한 환자에서 코골이·주간 졸음·무호흡 목격이 동반될 때 시행
 * 8개 항목에 대하여 해당하면 각1점
@@ -165,9 +166,20 @@ _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–82
 
 <table><thead><tr><th width="100">항목</th><th>질문</th></tr></thead><tbody><tr><td><strong>S</strong>noring</td><td>큰 소리로 코를 고십니까? (옆방에서 들릴 정도, 또는 동침자가 팔꿈치로 찌를 정도)</td></tr><tr><td><strong>T</strong>ired</td><td>낮에 자주 피곤하거나 졸리십니까?</td></tr><tr><td><strong>O</strong>bserved</td><td>수면 중 숨이 멎는 것을 다른 사람이 목격한 적이 있습니까?</td></tr><tr><td><strong>P</strong>ressure</td><td>고혈압이 있거나 고혈압 치료를 받고 계십니까?</td></tr><tr><td><strong>B</strong>MI</td><td>BMI가 35를 초과합니까?</td></tr><tr><td><strong>A</strong>ge</td><td>나이가 50세를 초과합니까?</td></tr><tr><td><strong>N</strong>eck</td><td>목둘레가 40 ㎝를 초과합니까?</td></tr><tr><td><strong>G</strong>ender</td><td>남성입니까?</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">ME/CFS vs Depression vs OSA 감별표</mark>
+#### <mark style="color:$primary;">만성피로증후군(ME/CFS) 감별</mark>
 
-<table data-header-hidden><thead><tr><th width="127.15789794921875"></th><th width="218.78948974609375"></th><th></th><th></th></tr></thead><tbody><tr><td>항목</td><td><strong>ME/CFS</strong></td><td><strong>Depression</strong></td><td><strong>OSA</strong></td></tr><tr><td>핵심 특징</td><td>PEM (운동 후 지연 악화)</td><td>흥미/의욕 저하</td><td>주간 졸림 + 코골이</td></tr><tr><td>피로 패턴</td><td>활동 후 수시간~수일 뒤 악화</td><td>하루 종일 지속</td><td>아침 피곤 + 낮 졸림</td></tr><tr><td>휴식 후 회복</td><td>없음 (비회복성</td><td>약간 호전 가능</td><td>없음</td></tr><tr><td>수면</td><td>잤는데도 개운하지 않음</td><td>불면/과다수면 혼재</td><td>수면 질 나쁨 (무호흡)</td></tr><tr><td>주간 졸림</td><td>흔치 않음</td><td>경우에 따라</td><td>매우 흔함</td></tr><tr><td>운동 반응</td><td>하면 악화 (PEM)</td><td>하면 기분 개선 가능</td><td>큰 변화 없음</td></tr><tr><td>기분 증상</td><td>2차적 우울 가능</td><td><strong>핵심 증상</strong></td><td>2차적 우울 가능</td></tr><tr><td>인지 기능</td><td>brain fog 흔함</td><td>집중력 저하</td><td>졸림으로 인한 저하</td></tr><tr><td>자율신경 증상</td><td>POTS 흔함 (기립 시 HR↑)</td><td>드묾</td><td>드묾</td></tr><tr><td>동반 힌트</td><td>Long COVID</td><td>스트레스, 삶의 사건</td><td>비만, 큰 목둘레</td></tr></tbody></table>
+다음 4가지를 모두 충족할 때 ME/CFS를 의심
+
+1. 6개월 이상 지속되는 기능 저하 동반 피로 : 새로 발생하였으며 활동으로 설명되지 않음
+2. 운동 후 권태감(PEM, Post-Exertional Malaise) : 활동 후 수 시간\~수일 뒤 증상 악화; 단순 피로와 ME/CFS를 구분하는 가장 중요한 특징
+3. 비회복성 수면 : 충분히 자도 개운하지 않음
+4. 인지 기능 저하(Brain fog) 또는 기립성 조절 장애 : 집중력·기억력 저하, 또는 일어설 때 어지럼·빈맥
+
+※ PEM이 있는 환자에게 점진적 운동 치료를 적용하면 증상이 악화될 수 있음; ME/CFS 의심 시 운동 처방 전 확인
+
+#### <mark style="color:$primary;">ME/CFS vs 우울증 vs OSA 감별표</mark>
+
+<table data-header-hidden><thead><tr><th width="127.15789794921875"></th><th width="218.78948974609375"></th><th></th><th></th></tr></thead><tbody><tr><td>항목</td><td><strong>ME/CFS</strong></td><td><strong>우울증</strong></td><td><strong>OSA</strong></td></tr><tr><td>핵심 특징</td><td>PEM (운동 후 지연 악화)</td><td>흥미/의욕 저하</td><td>주간 졸림 + 코골이</td></tr><tr><td>피로 패턴</td><td>활동 후 수시간~수일 뒤 악화</td><td>하루 종일 지속</td><td>아침 피곤 + 낮 졸림</td></tr><tr><td>휴식 후 회복</td><td>없음 (비회복성</td><td>약간 호전 가능</td><td>없음</td></tr><tr><td>수면</td><td>잤는데도 개운하지 않음</td><td>불면/과다수면 혼재</td><td>수면 질 나쁨 (무호흡)</td></tr><tr><td>주간 졸림</td><td>흔치 않음</td><td>경우에 따라</td><td>매우 흔함</td></tr><tr><td>운동 반응</td><td>하면 악화 (PEM)</td><td>하면 기분 개선 가능</td><td>큰 변화 없음</td></tr><tr><td>기분 증상</td><td>2차적 우울 가능</td><td><strong>핵심 증상</strong></td><td>2차적 우울 가능</td></tr><tr><td>인지 기능</td><td>brain fog 흔함</td><td>집중력 저하</td><td>졸림으로 인한 저하</td></tr><tr><td>자율신경 증상</td><td>POTS 흔함 (기립 시 HR↑)</td><td>드묾</td><td>드묾</td></tr><tr><td>동반 힌트</td><td>Long COVID</td><td>스트레스, 삶의 사건</td><td>비만, 큰 목둘레</td></tr></tbody></table>
 
 ※ 진료실 POTS 선별 (Active Stand Test) : 앉은 자세에서 안정 시 HR 측정 후 기립; 3\~10분 이내 HR이 30 bpm 이상 상승하거나 120회를 초과하면 POTS(체위성 기립성 빈맥 증후군) 의심 → 자율신경 평가\
 Long COVID 이후 발생한 피로·brain fog·어지럼 환자에서 적극 시행 고려
