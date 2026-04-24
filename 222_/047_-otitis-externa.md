@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 외이도 또는 귓바퀴의 염증·감염; "swimmer's ear"라고도 불림
-* 경과 : 발병 2\~3일째 증상이 가장 심함 → 치료 시작 후 48\~72시간 내 호전 시작; 보통 7\~10일 내 치유
+* 경과 : 발병 2\~3일째 증상이 가장 심함 → 치료 시작 후 48\~72시간 내 호전 시작; 경증은 7일, 중등증\~중증은 10\~14일 이내 치유 (AAO-HNSF)
 
 ### 분류
 
@@ -19,10 +19,12 @@
 <mark style="color:$danger;">**즉각 의뢰**</mark> <mark style="color:$danger;">- Necrotizing OE 의심</mark>
 
 * 당뇨·면역저하자에서 심한 이통 + 치료 무반응
+* **임상 소견에 비해 불균형적으로 심한 이통(pain out of proportion)**, 특히 야간에 악화 → Necrotizing OE 강력 시사
 * 외이도 육아조직(granulation tissue), 뼈 노출
 * 두개신경 침범 의심 소견 : 안면신경 마비, 연하곤란, 쉰 목소리
-* 측두골·두개저 골수염 의심 → 즉시 CT/MRI + 전신 항생제
+* 측두골·두개저 골수염 의심 → 즉시 CT/MRI + 전신 항생제; 초기 골수염 감지에는 Tc-99m bone scan 또는 Ga-67 scan이 CT보다 민감할 수 있어 의뢰 시 고려
 * 발열 + 주변 봉소염(cellulitis) + 경부 림프절병증
+* 귀 진찰 정상 + 편측 지속성 이통 + 체중감소·흡연력 → 두경부암 배제 필요
 
 <mark style="color:$warning;">**당일 또는 조기 재평가·의뢰**</mark>
 
@@ -35,13 +37,14 @@
 
 * 2\~4주 내 회복되지 않는 경우 → 균 배양 검사 및 재평가
 * 진균 감염 의심(항생제 치료 실패, 흰 솜털 잔재물) → 항진균제로 전환
+* 귀 진찰 정상임에도 편측 이통이 2주 이상 지속 → 연관통(referred otalgia) 원인 체계적 탐색(치아·TMJ·인두·경추·종양)
 
 ## <mark style="color:green;">원인</mark>
 
 ### <mark style="color:orange;">원인균</mark>
 
-* **세균** (98%) : _P. aeruginosa_ (가장 흔함), _S. aureus_ (특히 농양·Furunculosis), 그람(-) 막대균
-* **진균** (약 10%) : _Aspergillus niger_ (외이도 내 흑색 점박이 흰 덩어리), _Candida_ ; 항생제 남용 후 빈발
+* **세균** : Acute diffuse OE의 대부분은 세균 감염이며, _P. aeruginosa_(가장 흔함), _S. aureus_(농양·Furunculosis), 그람(-) 막대균이 주원인이다.
+* **진균** (전체 OE의 약 10%) : _Aspergillus niger_(외이도 내 흑색 점박이 흰 덩어리), _Candida_ ; 열대기후·항생제 장기사용·당뇨·면역저하 시 더 흔하다.
 * **바이러스** : Herpes zoster oticus (Ramsay Hunt 증후군) - 외이·귓바퀴 수포, 안면신경 마비 동반 시 고려
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -51,7 +54,7 @@
 * 귀지 매복 : 수분 배출 방해
 * 좁거나 구부러진 외이도 : 수분 정체
 * 만성 피부염 : 습진, 건선, 지루피부염, 접촉피부염
-* 이물 삽입 : 면봉, 보청기, 이어폰; 특히 커널형(인이어) 이어폰의 장시간 착용은 외이도 내 온도·습도 상승으로 세균 증식 환경을 조성하며, 실리콘 팁에 의한 접촉 알레르기(습진성 OE)를 유발할 수 있음
+* 이물 삽입 : 면봉, 보청기, 이어폰; 특히 커널형(인이어) 이어폰의 장시간 착용은 외이도 내 온도·습도 상승 및 밀착 설계에 의한 외이도 내 압력 증가로 세균 증식 환경을 조성하며, 노이즈 캔슬링 기능의 밀폐 구조는 이 효과를 더욱 심화시킨다; 실리콘 팁에 의한 접촉 알레르기(습진성 OE)도 유발할 수 있음
 * Necrotizing OE 특이 위험 인자 : 당뇨병(특히 혈당 조절 불량), 고령(65세 이상), HIV 감염, 악성 종양, 면역억제제 사용, 방사선 치료 후
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -65,15 +68,32 @@
 
 ### <mark style="color:orange;">외이 이루(otorrhea)의 감별</mark>
 
-<table><thead><tr><th width="104">원인</th><th>진단상 단서</th><th>치료</th></tr></thead><tbody><tr><td>세균성 외이염</td><td>화농성 분비물, 부종·발적, 이통, 최근 외이 물 접촉력·손상력(면봉), 당뇨병</td><td>국소 항균/steroid제 ±경구 항생제, 귀 세척 및 건조 유지, ear wick 고려</td></tr><tr><td>진균성 외이염</td><td>흰색-황백색 습한 분비물 (Aspergillus: 흑점 동반), hyphae 관찰, 항생제 저항성, 당뇨·고령·면역 저하</td><td>debridement + acetic acid 또는 국소 항진균제; 국소 항생제는 금기 (악화 가능)</td></tr><tr><td>피부염</td><td>알레르기·자극성 피부염 병력, 발적·소양증 위주, 분비물 적음</td><td>원인 제거, 국소 steroid; 2차 감염 시 항생제 추가</td></tr><tr><td>이물</td><td>이물 관찰, 이물질 삽입력, 소아·정신지체자</td><td>이물 제거; 감염·출혈 증거 있으면 항생제 이용액</td></tr><tr><td>외이도 손상</td><td>기구(면봉·머리핀) 사용력, 출혈성 이루 또는 손상 관찰</td><td>항생제 이용액; 두부 외상력 있으면 bone CT</td></tr><tr><td>악성 외이염* </td><td>Pseudomonas 배양 양성, 심한 통증, 외이도 육아조직, 당뇨·고령, 치료 무반응</td><td>즉시 의뢰; Pseudomonas 표적 전신 항생제, bone CT/MRI</td></tr><tr><td>Ramsay Hunt 증후군</td><td>외이·귓바퀴의 수포성 발진, 안면신경 마비, 이통</td><td>즉시 의뢰; 항바이러스제(acyclovir/valacyclovir) + 스테로이드</td></tr><tr><td>종양</td><td>편측 종괴, 외이도 폴립, 치료 무반응의 만성 이루</td><td>bone CT; 이비인후과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="104">원인</th><th>진단상 단서</th><th>치료</th></tr></thead><tbody><tr><td>세균성 외이염</td><td>화농성 분비물, 부종·발적, 이통, 최근 외이 물 접촉력·손상력(면봉), 당뇨병</td><td>국소 항균/steroid제 ±경구 항생제, 귀 세척 및 건조 유지, ear wick 고려</td></tr><tr><td>진균성 외이염</td><td>흰색-황백색 습한 분비물 (Aspergillus: 흑점 동반), hyphae 관찰, 항생제 저항성, 당뇨·고령·면역 저하</td><td>debridement + acetic acid 또는 국소 항진균제; 국소 항생제는 효과 없고 진균 증식을 촉진할 수 있어 사용하지 않는다</td></tr><tr><td>피부염</td><td>알레르기·자극성 피부염 병력, 발적·소양증 위주, 분비물 적음</td><td>원인 제거, 국소 steroid; 2차 감염 시 항생제 추가</td></tr><tr><td>이물</td><td>이물 관찰, 이물질 삽입력, 소아·정신지체자</td><td>이물 제거; 감염·출혈 증거 있으면 항생제 이용액</td></tr><tr><td>외이도 손상</td><td>기구(면봉·머리핀) 사용력, 출혈성 이루 또는 손상 관찰</td><td>항생제 이용액; 두부 외상력 있으면 bone CT</td></tr><tr><td>괴사성 외이염* (Necrotizing OE)</td><td>Pseudomonas 배양 양성, 심한 통증, 외이도 육아조직, 당뇨·고령, 치료 무반응</td><td>즉시 의뢰; Pseudomonas 표적 전신 항생제, bone CT/MRI</td></tr><tr><td>Ramsay Hunt 증후군</td><td>외이·귓바퀴의 수포성 발진, 안면신경 마비, 이통</td><td>즉시 의뢰; 항바이러스제(acyclovir/valacyclovir) + 스테로이드</td></tr><tr><td>종양</td><td>편측 종괴, 외이도 폴립, 치료 무반응의 만성 이루</td><td>bone CT; 이비인후과 의뢰</td></tr></tbody></table>
 
-_<mark style="color:$info;">\*</mark>Necrotizing_
+_<mark style="color:$info;">\*</mark>Necrotizing OE (구 용어: 악성 외이염/malignant OE)_
 
 <p align="center"><em><mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016; AAFP Am Fam Physician 2023;107(2):145-151.</mark></em></p>
 
-### <mark style="color:orange;">귀의 연관통 (Referred Otalgia)</mark>
+### <mark style="color:orange;">귀 통증(이통)의 감별 진단</mark>
 
-귀 자체 이상 없이 귀 통증이 발생하는 경우 감별 : 치아/턱관절(TMJ), 인두·편도, 부비동, 이하선, 갑상선, 경추, 삼차신경통, 대상포진(Ramsay Hunt 증후군)
+귀 자체 이상 없이 귀 통증이 발생하는 경우(referred otalgia) 감별 : 치아/턱관절(TMJ), 인두·편도, 부비동, 이하선, 갑상선, 경추, 삼차신경통, 대상포진(Ramsay Hunt 증후군)
+
+<table><thead><tr><th width="148">질환</th><th width="190">핵심 통증 특징</th><th width="180">결정적 진찰 소견</th><th width="160">동반 증상</th><th>진단 포인트</th></tr></thead><tbody><tr><td>외이염 (OE)</td><td>귓바퀴를 당기거나 이주(tragus)를 누르면 심한 통증</td><td>외이도 발적·부종·압통, 분비물</td><td>가려움, 이루, 귀 먹먹함</td><td>tragus tenderness</td></tr><tr><td>급성 중이염 (AOM)</td><td>깊은 귀 통증, 박동성 통증, 감기 후 발생 흔함</td><td>고막 발적·팽윤, mobility 감소</td><td>발열, 청력저하</td><td>pinna manipulation은 대개 무통</td></tr><tr><td>삼출성 중이염 (OME)</td><td>통증보다 답답함·먹먹함이 주된 호소</td><td>고막 함몰, air-fluid level</td><td>청력저하, 자가음강조</td><td>pain보다 fullness dominant</td></tr><tr><td>괴사성 OE</td><td>매우 심한 지속성 통증, 특히 야간 악화</td><td>외이도 육아조직, 심한 압통</td><td>당뇨, 면역저하, 안면마비</td><td>pain out of proportion</td></tr><tr><td>Ramsay Hunt 증후군</td><td>심한 이통 + burning pain</td><td>외이·귓바퀴 수포</td><td>안면신경 마비, 어지럼</td><td>vesicle + facial palsy</td></tr><tr><td>TMJ disorder</td><td>씹을 때 아픔, 턱 움직임 시 악화</td><td>TMJ 압통, clicking</td><td>이갈이, 턱 뻣뻣함</td><td>귀 진찰 정상</td></tr><tr><td>치성 통증</td><td>씹을 때 찌르는 통증, 편측</td><td>충치, 치주염, percussion pain</td><td>치통, 잇몸 부종</td><td>귀 진찰 정상</td></tr><tr><td>편도염 / 인두염</td><td>삼킬 때 귀까지 퍼지는 통증</td><td>인두 발적, 편도 비대</td><td>인후통, 발열</td><td>referred otalgia (설인신경)</td></tr><tr><td>경추성 통증</td><td>목 움직임에 따라 변함</td><td>cervical tenderness</td><td>목·어깨 통증</td><td>귀 진찰 정상</td></tr><tr><td>두경부암</td><td>지속적·편측·점진적 악화</td><td>초기 귀 진찰 정상 가능</td><td>체중감소, 흡연력</td><td>정상 귀 + 지속 통증 = red flag</td></tr></tbody></table>
+
+#### <mark style="color:$primary;">이통 감별 접근 알고리즘</mark>
+
+```mermaid
+graph TD
+    S(["🔍 이통 호소 환자"]) --> Q1{"귀를 당기면 통증이<br/>심해지는가?<br/>(tragus tenderness)"}
+    Q1 -- "예" --> OE["외이염 (OE) 가능성 높음\n→ 외이도 진찰·처치"]
+    Q1 -- "아니오" --> Q2{"고막이 비정상인가?\n(발적·팽윤·함몰)"}
+    Q2 -- "예" --> OM["중이염 / OME\n→ 해당 챕터 참조"]
+    Q2 -- "아니오" --> Q3{"귀 진찰이 정상인데\n통증이 있는가?"}
+    Q3 -- "예" --> REF["Referred otalgia\n→ TMJ·치아·인두·편도·경추·종양\n특히 ≥50세 + 편측 + 지속성\n→ 두경부암 배제"]
+    Q3 -- "아니오 (귀 외부로 확장)" --> Q4{"통증이 '비정상적으로'\n심한가?\n(pain out of proportion)"}
+    Q4 -- "예" --> NOE["⚠️ Necrotizing OE 우선 배제\n→ 특히 당뇨·야간 통증·치료 무반응"]
+    Q4 -- "아니오" --> EVAL["임상 맥락에 따라 재평가"]
+```
 
 ***
 
@@ -81,19 +101,20 @@ _<mark style="color:$info;">\*</mark>Necrotizing_
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-1. **외이도 cleansing** : 국소 약제 투여 전 외이도를 청소하면 효과 증진
+1. **외이도 이강 세척(Aural Toilet / Cleansing)** : 국소 약제 투여 전 외이도를 청소하면 효과 증진
 2. **대증 치료** : 진통제(통증), 경구 항히스타민제(가려움), 국소 온열 치료
-3. **약물 치료** : 국소 acetic acid 또는 항균제 ± steroid; 보통 7\~10일 내 호전
+3. **약물 치료** : 국소 acetic acid 또는 항균제 ± steroid; 경증 7일, 중등증\~중증 10\~14일 적용
 4. **전신 항생제** : 외이 밖으로 염증 확장 또는 면역저하자에 한해 사용; 단순 OE에 경구 항생제 투여는 효과가 제한적이고 항생제 내성을 증가시키므로 권고되지 않음 (AAO-HNSF 가이드라인)
 5. **기저 질환 치료** : 피부 질환, 당뇨 혈당 조절 등
 
-### <mark style="color:orange;">외이도 Cleansing</mark>
+### <mark style="color:orange;">외이도 이강 세척 (Aural Toilet / Cleansing)</mark>
 
 * 귀지 제거 및 외이도 청소 : 약제 투여 전 선행하면 효과 증진
-* 세척 (과산화수소 + 온수) 또는 흡인 ; 흡인·세척보다 포셉/큐렛 등을 이용한 직접 제거가 안전
-* debridement : 진균 감염 시 필수적으로 선행 (국소 항진균제만으로는 효과 불충분)
+* **직접 시야하의 suction, dry mopping, 포셉/큐렛을 이용한 변연절제(debridement)가 우선 권장된다.** 고막 천공 여부 불확실 시 irrigation은 피한다. 과산화수소·온수 세척은 고막 확인 후 보조적으로만 고려한다.
+* 변연절제(debridement) : 진균 감염 시 필수적으로 선행 (국소 항진균제만으로는 효과 불충분)
 * Ear wick(심지) : 외이도가 심하게 부어 국소 약제 전달이 어려울 때 삽입; 2\~3일 후 자연 배출되거나 의사가 제거; hydrocellulose 또는 거즈 심지 사용
-* 만성 OE : 2주마다 정기 cleansing
+  * ✽ Wick가 건조해지면 점이용액이 외이도에 전달되지 않으므로, 처방 방울 수를 빠짐없이 규칙적으로 점이하도록 반드시 교육한다.
+* 만성 OE : 2주마다 정기 이강 세척(aural toilet)
 
 > ✽만성·재발성 OE에서는 세균성 바이오필름이 항균제 침투를 방해하여 치료 반응을 저하시킬 수 있음. 약물 치료와 병행하여 정기적인 이강 세척(aural toilet)으로 바이오필름을 물리적으로 제거하는 것이 치료 효과를 높이는 핵심임
 
@@ -156,8 +177,19 @@ _<mark style="color:$info;">\*</mark>Necrotizing_
 * ciprofloxacin 0.3%/fluocinolone 0.025% 4 drops tid × 7d <mark style="color:blue;">\[세트락살 플러스]</mark>
 * ciprofloxacin 0.2%/hydrocortisone 1% 4 drops bid × 7d <mark style="color:blue;">\[싸이록사신]</mark>
 * neomycin/polymyxin-B/hydrocortisone 4 drops qid × 7d - 고막 천공 시 금기
+  * ✽neomycin 함유 제제는 반복 사용 시 접촉피부염(contact dermatitis)을 유발할 수 있다. 증상 개선 없이 소양증이 악화되면 neomycin 알레르기를 의심하고 fluoroquinolone 제제로 교체한다.
 
-> ⚠️ **고막 천공 확인 불가 시 원칙** : 고막 상태를 확인할 수 없거나 천공이 의심되는 경우, aminoglycoside 계열 및 neomycin/polymyxin-B 함유 제제는 절대 사용하지 않는다. 고막 확인이 어려운 모든 상황에서는 fluoroquinolone 단일제(ofloxacin 또는 ciprofloxacin)를 사용한다. Fluoroquinolone은 고막 천공 상태에서도 이독성이 없으며 FDA 승인을 받은 유일한 계열이다.
+{% hint style="danger" %}
+⚠️ **고막 천공 시 절대 사용 금지 — 이독성 위험**
+
+**사용 금지** : Aminoglycoside계 (gentamicin, tobramycin) · neomycin · polymyxin-B 함유 제제
+
+**주의** : ciprofloxacin/dexamethasone 복합제(실로덱스 등)는 fluoroquinolone 성분 자체는 안전하나, 혼합 현탁액의 낮은 pH로 인해 고막 천공 시 중이 점막 자극을 줄 수 있다. 천공이 확인된 경우 **ofloxacin 단일제**로 대체한다.
+
+**안전 대안** : ofloxacin 또는 ciprofloxacin 단일제 (FDA 승인 유일, 이독성 없음)
+
+고막 상태를 확인할 수 없거나 천공이 의심되는 모든 상황에서도 동일 원칙을 적용한다.
+{% endhint %}
 
 ### <mark style="color:orange;">전신 항생제</mark>
 
@@ -172,6 +204,7 @@ _<mark style="color:$info;">\*</mark>Necrotizing_
 **처방 및 단계별 선택**
 
 * **1단계** - 경구 : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> - _P. aeruginosa_ 커버; 합병증 없는 연조직 확장 시 1차
+  * ✽_S. aureus_ 중심의 경증 furunculosis·단순 봉소염이 주된 경우에는 cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> 도 선택지이나, 그람(-) 커버가 불충분하므로 OE 관련 봉소염에서는 ciprofloxacin을 우선한다.
 * **보조** : cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> - _S. aureus_ (Furunculosis) 의심 시; 그람(-) 커버 불충분하므로 단독 사용 주의
 * **2단계** : 고용량 경구 또는 IV 전환
   * 아래 중 하나라도 해당 시 즉시 의뢰 + 입원 고려
@@ -179,9 +212,19 @@ _<mark style="color:$info;">\*</mark>Necrotizing_
     * 당뇨 환자에서 혈당 조절 불량(HbA1c ≥9% 또는 입원 중 고혈당) + 골수염 의심
     * Necrotizing OE 확인 또는 의심 : IV ciprofloxacin 또는 IV piperacillin/tazobactam으로 전환; 치료 기간은 보통 6주 이상(골수염 해소 영상 확인까지)
 
+### <mark style="color:orange;">균 배양 검사 적응증</mark>
+
+* **초기 미합병 OE에서 routine 배양은 불필요**
+* 아래 중 하나 이상 해당 시 시행 :
+  * 재발성 OE (연 2회 이상)
+  * 48\~72시간 치료 무반응
+  * 면역저하자 (당뇨, HIV, 항암치료 중)
+  * Necrotizing OE 의심
+  * 항생제 치료 실패 후 진균 OE 의심
+
 ### <mark style="color:orange;">항진균제</mark>
 
-* 진균 OE에서 국소 항균(항생제) 점이용제는 금기 - 효과 없고 진균 증식을 촉진할 수 있음
+* 진균 OE에서 국소 항균(항생제) 점이용제는 사용하지 않는 것이 원칙이다 — 효과 없고 진균 증식을 촉진할 수 있음
 
 **국소** (1차)
 
@@ -202,7 +245,8 @@ graph TD
     약제 효과 극대화)</i>"]
     CLEAN --> A
 
-    A[면역저하 / 당뇨 여부] -- "예(고위험군)" --> B["• 국소 항균/steroid 복합제 × 7~14일<br/>• 경구 quinolone × 7~10일<br/>• Ear wick 고려<br/>• Necrotizing OE 배제(bone CT)<br/>• 48~72h 무반응 시 → IV 전환·의뢰"]
+    A[면역저하 / 당뇨 여부] -- "예(고위험군)" --> B1["경증·중등증\n• 국소 항균/steroid 복합제 × 7~14일\n• Ear wick 고려\n• Necrotizing OE 배제(bone CT)\n• 48~72h 면밀 추적"]
+    B1 -- "48~72h 무반응\n또는 중증" --> B2["중증·무반응\n• 경구 quinolone × 7~10일\n• 즉시 의뢰 + IV 전환 고려"]
     
     A -- "아니오" --> C[증상 수준]
 
@@ -217,9 +261,11 @@ graph TD
 
     D --> I["48~72시간 내 호전 없으면<br/>재평가·균 배양 시행"]
     E --> J["48~72시간 내 호전 없으면<br/>재평가"]
-    B --> K["1~2주 후 추적 관찰"]
+    B2 --> K["1~2주 후 추적 관찰"]
+    B1 --> K
     G --> K
     H --> K
+    K -- "미호전" --> REF["균 배양 검사<br/>+ 이비인후과 의뢰"]
 ```
 
 <p align="center"><strong>외이염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. AAO-HNSF Clinical Practice Guideline: Acute OE (Updated). Otolaryngol Head Neck Surg. 2014; AAFP Am Fam Physician 2023;107(2):145-151.</mark></em></p>
@@ -232,7 +278,7 @@ graph TD
 * 물 접촉 회피 : 일반적인 세발 등은 치료 2\~3일 후, 수영은 4\~5일 후 재개; 수영/목욕 시 귀마개 또는 petroleum jelly를 묻힌 솜 사용
 * 수영·목욕 후 관리 : 헤어드라이어로 건조(낮은 온도·거리 유지) + 다음 중 택1 점이 : 2% acetic acid, 소독용 알코올 ½ 희석, 식초 ½ 희석, 또는 알코올:식초:증류수=2:1:1 혼합액 3\~4 drops
 * 귀지 자가 제거 제한 : 면봉 삽입 금지; 귀지는 자연 배출되도록 두는 것이 원칙
-* 보청기·귀마개 관리 : 보청기는 건조제(건조함)로 관리, 귀마개는 사용 후 알코올로 닦음
+* 보청기·귀마개 관리 : 보청기는 건조제(건조함)로 관리, 귀마개는 사용 후 알코올로 닦음; 이어몰드가 외이도에 맞지 않으면 습기가 갇혀 외이염 위험이 높아지므로 피팅 상태를 주기적으로 점검한다
 * 잦은 비누 세척 피함 : 알칼리화로 균 저항력 저하
 * 만성 재발성 OE : 2\~3주마다 외래 청소
 
@@ -279,11 +325,12 @@ H60.8 기타 외이염
 > **처방례 3. 진균성 OE**
 >
 > ```
-> 카네스텐 크림 10 g/tube          소량     bid  (보험 주의)
+> 카네스텐 크림 10 g/tube          소량     bid
 > 스포라녹스 100 ㎎/C              2C       qd   × 7d  (중증·재발성)
 > ```
 >
-> _✽국소 항생제 점이는 금지. 반드시 debridement 선행. 클로트리마졸 크림을 외이도에 조심스럽게 도포. itraconazole은 국소 치료 실패 또는 중증 시 추가_
+> _✽국소 항생제 점이는 금지. 반드시 변연절제(debridement) 선행. 클로트리마졸 크림을 외이도에 조심스럽게 도포. itraconazole은 국소 치료 실패 또는 중증 시 추가._
+> _⚠️ **보험 청구 주의** : 국내 시판 점이용 항진균제가 없어 점안액·크림을 외이도에 차용하며, 이 경우 **비급여** 또는 **급여 외 사용**으로 처리된다. 처방 전 환자에게 비급여 비용을 사전 고지하고, 진료기록에 사용 근거를 명시한다._
 
 > **처방례 4. 습진성 OE**
 >
