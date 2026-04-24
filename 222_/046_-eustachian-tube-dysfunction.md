@@ -14,7 +14,7 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 성인 편측 삼출성 중이염이 상기도 감염으로 설명되지 않거나 4주 이상 지속 → 비인두암 배제를 위한 비인두 내시경 및 영상 검사 필요 (특히 고위험군 : 40대 이상 남성, 아시아인); 감기 후 2~3주 이내 경과 중인 단순 삼출성 중이염과 구분하여 판단
+* 성인 편측 삼출성 중이염이 상기도 감염으로 설명되지 않거나 4주 이상 지속 → 비인두암 배제를 위한 비인두 내시경 및 영상 검사 필요 (특히 고위험군 : 40대 이상 남성, 아시아인); 감기 후 2\~3주 이내 경과 중인 단순 삼출성 중이염과 구분하여 판단
 * 고막 후상방 retraction pocket의 지속적 진행, 상고실 골 파괴 소견, 또는 진주빛 상피 덩어리(진주종, cholesteatoma) 의심 소견
 * 급격하고 심한 청력 저하 또는 현훈 동반
 
@@ -52,41 +52,6 @@
 * 만성 음압 → 고막 후퇴·retraction pocket 형성 → 진주종(cholesteatoma)
 * 재발성 급성 중이염, 만성 유양돌기염
 
-### <mark style="color:orange;">귀 먹먹함의 감별 진단</mark>
-
-{% hint style="info" %}
-**"귀가 막혔어요, 먹먹해요" — 초고속 감별 체크**
-
-1. 내 목소리·숨소리가 머리 안에서 울리나요? → **이관 개방증(PET)** 강력 의심
-2. 갑자기 청력이 뚝 떨어졌나요? → **돌발성 감각신경성 난청(SSNHL)** 먼저 배제 (즉시 의뢰)
-3. 회전성 어지럼이 같이 있나요? → **메니에르병 / 미로 질환** 고려
-4. 턱이 아프거나 입 벌릴 때 딱 소리 나나요? → **TMJ dysfunction** 가능성 높음
-5. 박동성 이명("심장 뛰는 소리")이 들리나요? → **혈관성 원인** (vascular evaluation 필요)
-{% endhint %}
-
-<table><thead><tr><th width="190">핵심 증상·상황</th><th width="200">가장 의심되는 질환</th><th>감별 포인트</th></tr></thead><tbody>
-<tr><td>감기 후 귀 막힘, 하품 시 잠깐 뚫림</td><td>이관 폐쇄증 (Obstructive ETD)</td><td>tympanometry type B/C, 고막 후퇴</td></tr>
-<tr><td>내 목소리·숨소리가 울려 들림 (autophony), 누우면 호전</td><td>이관 개방증 (Patulous ET)</td><td>호흡 동기화 고막 움직임, respiratory notching; sniffing 시 고막 내측 함몰 관찰</td></tr>
-<tr><td>자신의 안구 움직이는 소리·발소리가 머리에서 울림; 큰 소리에 어지럼 유발</td><td>상반고리관 결손 증후군 (SCDS)</td><td>저주파 전음성 난청 유사하나 stapedial reflex 보존; 고해상도 측두골 CT로 확진</td></tr>
-<tr><td>갑작스런 편측 청력 저하 ("막힌 느낌"으로 표현 多)</td><td>돌발성 감각신경성 난청 (SSNHL)</td><td>tuning fork Rinne 정상(감각신경성), 즉시 ENT 의뢰</td></tr>
-<tr><td>회전성 어지럼 + 이명 + 변동성 난청, 반복</td><td>메니에르병</td><td>episodic vertigo, 저주파 난청 패턴</td></tr>
-<tr><td>턱 통증, 입 벌릴 때 클릭음, 귀 검사 정상</td><td>TMJ dysfunction</td><td>저작근·TMJ 압통, 정상 이경 소견</td></tr>
-<tr><td>비행기·잠수 후 심한 귀 통증·충만감</td><td>Barotrauma / Baro-challenge ETD</td><td>고막 충혈·삼출, 평소에는 정상</td></tr>
-<tr><td>박동성 이명 ("심장 소리가 들림")</td><td>혈관성 원인 (glomus jugulare/tympanicum, 경동맥 동정맥루 등)</td><td>pulsatile tinnitus = red flag; vascular evaluation (MRI/MRA 또는 혈관 초음파)</td></tr>
-<tr><td>성인 지속 편측 충만감 + OME (URI 무관)</td><td>비인두 종양 (NPC 포함)</td><td>비인두 내시경, 영상 검사 필요</td></tr>
-<tr><td>귀는 정상인데 어지럼 + 불안 + 과호흡</td><td>불안 장애 / 신체화 증폭</td><td>정상 이경·청력 검사, 공황 증상 동반</td></tr>
-<tr><td>저음 이명 + 충만감 + 경미한 어지럼 (초기)</td><td>초기 메니에르 / 달팽이 수종</td><td>연속 청력 검사로 추적</td></tr>
-</tbody></table>
-
-{% hint style="warning" %}
-**ETD와 혼동하기 쉬운 질환**
-
-* **TMJ dysfunction** : 외래에서 "귀 먹먹함 + 정상 이경 소견"의 상당수를 차지; 저작근 압통·하악 운동 시 통증·클릭음 확인
-* **Superior canal dehiscence (SCDS)** : 자신의 안구 움직이는 소리·발소리·심장 소리가 머리 안에서 울림 (third window effect에 의한 autophony); 큰 소리나 귀에 압력 가할 때 어지럼 유발(Tullio 현상); 저주파 전음성 난청처럼 보이나 stapedial reflex 보존이 PET·ETD와의 결정적 감별점; 고해상도 측두골 CT로 확진
-* **Early Ménière** : 초기에는 ETD와 구별 어려움; 반복 episodic 경과 + 순음 청력 검사 추적으로 감별
-* **불안/신체화** : 정상 검사에도 증상 지속 시 고려; 과호흡·공황 증상 동반 여부 확인
-{% endhint %}
-
 ### <mark style="color:orange;">진단</mark>
 
 * pneumatic otoscopy : 고막 후퇴, 삼출액, 고막 움직임 감소
@@ -105,6 +70,41 @@
 * 지난 1개월간 7개 항목에 대해 없음(1점)\~극심함(7점)으로 설문
 * 항목 : ⓵ 귀 압박감, ⓶ 귀 통증, ⓷ 귀가 막힌, 물속에 있는 느낌, ⓸ 감기 또는 부비동염이 있을 때 귀의 문제, ⓹ 귀에서 “딱딱” 또는 “펑” 소리, ⓺ 귀 울림, ⓻ 잘 들리지 않음
 * 총점 >14.5점 시 이관기능부전 가능성 높음 (원저 기준 높은 진단 정확도; 이후 외부 검증 연구마다 차이 있으므로 임상 판단과 병용)
+
+#### <mark style="color:$primary;">증상에 따른 감별 진단</mark>
+
+| 핵심 증상·상황                                  | 가장 의심되는 질환                                      | 감별 포인트                                                                 |
+| ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------- |
+| 감기 후 귀 막힘, 하품 시 잠깐 뚫림                     | 이관 폐쇄증 (Obstructive ETD)                        | tympanometry type B/C, 고막 후퇴                                           |
+| 내 목소리·숨소리가 울려 들림 (autophony), 누우면 호전      | 이관 개방증 (Patulous ET)                            | 호흡 동기화 고막 움직임, respiratory notching; sniffing 시 고막 내측 함몰 관찰            |
+| 자신의 안구 움직이는 소리·발소리가 머리에서 울림; 큰 소리에 어지럼 유발 | 상반고리관 결손 증후군 (SCDS)                             | 저주파 전음성 난청 유사하나 stapedial reflex 보존; 고해상도 측두골 CT로 확진                   |
+| 갑작스런 편측 청력 저하 ("막힌 느낌"으로 표현 多)            | 돌발성 감각신경성 난청 (SSNHL)                            | tuning fork Rinne 정상(감각신경성), 즉시 ENT 의뢰                                 |
+| 회전성 어지럼 + 이명 + 변동성 난청, 반복                 | 메니에르병                                           | episodic vertigo, 저주파 난청 패턴                                            |
+| 턱 통증, 입 벌릴 때 클릭음, 귀 검사 정상                 | TMJ dysfunction                                 | 저작근·TMJ 압통, 정상 이경 소견                                                   |
+| 비행기·잠수 후 심한 귀 통증·충만감                      | Barotrauma / Baro-challenge ETD                 | 고막 충혈·삼출, 평소에는 정상                                                      |
+| 박동성 이명 ("심장 소리가 들림")                      | 혈관성 원인 (glomus jugulare/tympanicum, 경동맥 동정맥루 등) | pulsatile tinnitus = red flag; vascular evaluation (MRI/MRA 또는 혈관 초음파) |
+| 성인 지속 편측 충만감 + OME (URI 무관)               | 비인두 종양 (NPC 포함)                                 | 비인두 내시경, 영상 검사 필요                                                      |
+| 귀는 정상인데 어지럼 + 불안 + 과호흡                    | 불안 장애 / 신체화 증폭                                  | 정상 이경·청력 검사, 공황 증상 동반                                                  |
+| 저음 이명 + 충만감 + 경미한 어지럼 (초기)                | 초기 메니에르 / 달팽이 수종                                | 연속 청력 검사로 추적                                                           |
+
+{% hint style="warning" %}
+**ETD와 혼동하기 쉬운 질환**
+
+* **TMJ dysfunction** : 외래에서 "귀 먹먹함 + 정상 이경 소견"의 상당수를 차지; 저작근 압통·하악 운동 시 통증·클릭음 확인
+* **Superior canal dehiscence (SCDS)** : 자신의 안구 움직이는 소리·발소리·심장 소리가 머리 안에서 울림 (third window effect에 의한 autophony); 큰 소리나 귀에 압력 가할 때 어지럼 유발(Tullio 현상); 저주파 전음성 난청처럼 보이나 stapedial reflex 보존이 PET·ETD와의 결정적 감별점; 고해상도 측두골 CT로 확진
+* **Early Ménière** : 초기에는 ETD와 구별 어려움; 반복 episodic 경과 + 순음 청력 검사 추적으로 감별
+* **불안/신체화** : 정상 검사에도 증상 지속 시 고려; 과호흡·공황 증상 동반 여부 확인
+{% endhint %}
+
+{% hint style="info" %}
+**"귀가 막혔어요, 먹먹해요"**&#x20;
+
+* 내 목소리·숨소리가 머리 안에서 울리나요? → **이관 개방증(PET)** 강력 의심
+* 갑자기 청력이 뚝 떨어졌나요? → **돌발성 감각신경성 난청(SSNHL)** 먼저 배제 (즉시 의뢰)
+* 회전성 어지럼이 같이 있나요? → **메니에르병 / 미로 질환** 고려
+* 턱이 아프거나 입 벌릴 때 딱 소리 나나요? → **TMJ dysfunction** 가능성 높음
+* 박동성 이명("심장 뛰는 소리")이 들리나요? → **혈관성 원인** (vascular evaluation 필요)
+{% endhint %}
 
 ***
 
@@ -132,7 +132,7 @@
 * Sniffing test : 코를 세게 들이마시게 하면 증상이 일시적으로 호전 → 개방증 강력 시사; 음압으로 이관이 강제 폐쇄되는 기전; 이후 고막의 일시적 내측 함몰(retraction) 관찰되기도 함
 
 {% hint style="warning" %}
-**⚠️ Sniffing 습관 주의 — PET에서 반드시 교육**
+**Sniffing 습관 주의 - PET**
 
 PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들이마시는 습관(sniffing habit)이 생기는 경우가 흔하다. 이 동작은 단기적으로 이관을 강제 폐쇄하여 증상을 완화하지만, 반복 시 중이 내 만성 음압을 형성하여 이차적 고막 후퇴(secondary retraction)를 유발할 수 있다. 즉, PET 환자가 폐쇄증처럼 보일 수 있으며, 고막 retraction pocket이 진행할 위험이 있다. PET 환자에게는 반드시 sniffing 자제를 교육하고, 고막 후퇴 유무를 추적 관찰한다.
 {% endhint %}
@@ -143,16 +143,20 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 
 ***
 
+###
+
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:orange;">이관 폐쇄증 치료 방침</mark>
+## <mark style="color:green;">이관 폐쇄증 (ETD)</mark>
+
+### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 치료 우선 : 알레르기비염·부비동염·역류질환 등 기저 원인 교정
 * 대부분 보존적 치료로 호전; 수술은 보존 치료 실패 후 고려
 
 <mark style="color:$primary;">**치료 Step**</mark>
 
-**Step 1.** 대상 - 모든 폐쇄증&#x20;
+**Step 1.** 대상 - 모든 폐쇄증
 
 * 치료 : Valsalva/autoinflation + 원인 치료(알레르기비염·역류 등); 비행·잠수 회피
 
@@ -171,67 +175,15 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 
 * 치료 : 의뢰; tympanostomy tube 또는 balloon Eustachian tuboplasty(BET) 고려
 
-#### <mark style="color:orange;">Baro-challenge ETD (기압 유발형)</mark>
+### <mark style="color:orange;">비- 약물 치료</mark>
 
-* 평소에는 이관 기능이 정상이나, 비행·잠수·급격한 고도 변화 시에만 증상이 나타나는 별개의 표현형
-* 증상 : 이착륙·수중 입수 시 귀 통증·충만감·일시적 청력 저하; 회복 후 정상
-* 고막 출혈·삼출액·고막 파열(barotrauma) 동반 시 의뢰
-* 관리 원칙
-
-  * 상기도 감염·활동성 알레르기 시 비행·잠수 가급적 회피
-  * 예방 : 이착륙 30분 전 코 울혈 제거제 비강 분무 + 이착륙 중 Valsalva·저작·하품 반복
-  * 잠수 : 하강 속도 조절 + 이관 개통 확인하며 진행; 이통 시 즉시 상승
-  * 반복적 barotrauma → BET 또는 환기관 삽입 의뢰 고려
-
-#### <mark style="color:orange;">이관 개방증 치료 방침</mark>
-
-* 원인 교정 우선 : 체중 감소·임신·LPR·코 울혈 제거제 과다 사용 등 유발 원인 해결
-* 대부분 원인 해결 시 자연 호전; 약물 치료의 직접 근거는 제한적
-* 코 울혈 제거제·스테로이드 회피 (점막 위축 악화)
-
-<mark style="color:$primary;">**치료 Step**</mark>
-
-**Step 1.** 대상 - 모든 개방증
-
-* 치료 : 원인 교정 + 체위 조정(누운 자세 또는 고개를 숙인 자세에서 호전 확인) + 수분 충분 섭취 + nasal saline; 코 울혈 제거제·스테로이드 중단
-
-**Step 2.** 대상 - Step 1 반응 불충분
-
-* 치료 : potassium iodide 수용액 — 점막 비후 목적의 역사적 선택지; 현대 임상에서는 ENT 전문의도 거의 사용하지 않으며 근거가 매우 제한적; 대안이 없는 경우 단기 대증 시도 수준으로만 고려; LPR 동반 시 **전형적 역류 증상(heartburn, 인후 이물감, regurgitation)이 확인된 경우에 한해** 생활 습관 교정 및 위산 억제 치료 병행 (PET 자체의 직접 치료 효과는 입증되지 않음)
-
-**Step 3.** 대상 - Step 2 반응 불충분, 증상 지속·일상생활 장애
-
-* 치료 : 의뢰; tympanostomy tube, intraluminal catheter, E-tube 폐쇄술, 연골 이식 등
-
-### <mark style="color:orange;">임신 중 이관 증상</mark>
-
-* 임신 후기 호르몬성 점막 부종에 의한 폐쇄증과, 에스트로겐 상승에 의한 개방증이 모두 발생 가능
-* 임신 중 발생하는 이관 증상은 분만 후 대부분 자연 소실됨
-* 약물 사용보다 보존적 요법 우선&#x20;
-  * 개방증 시 좌식 생활 자제(누운 자세로 호전)·수분 충분 섭취
-  * 폐쇄증 시 Valsalva·생리식염수 세척. 증상 지속 시 의뢰
-
-## <mark style="color:green;">비-약물 치료</mark>
-
-### <mark style="color:orange;">이관 폐쇄증 (ETD)</mark>
-
-* Valsalva autoinflation : 코와 입을 막고 부드럽게 내뱉는 동작으로 중이에 양압을 가하여 이관 개통; **"귀로 바람을 세게 불어넣는 느낌"이 아니라 "중이 압력을 살짝 맞춘다는 느낌으로 짧고 약하게" 시행하도록 교육**; 비내 감염·급성 중이염 시에는 중이 내 감염 촉진 위험이 있으므로 금기; **과도한 힘으로 시행 시 round window membrane 손상(외림프 누공) 위험이 있으므로 반드시 부드럽게 시행하도록 교육**
+* Valsalva autoinflation : 코와 입을 막고 부드럽게 내뱉는 동작으로 중이에 양압을 가하여 이관 개통; "귀로 바람을 세게 불어넣는 느낌"이 아니라 "중이 압력을 살짝 맞춘다는 느낌으로 짧고 약하게" 시행하도록 교육; 비내 감염·급성 중이염 시에는 중이 내 감염 촉진 위험이 있으므로 금기; 과도한 힘으로 시행 시 round window membrane 손상(외림프 누공) 위험이 있으므로 반드시 부드럽게 시행하도록 교육
 * Politzer법 : 한쪽 콧구멍에 bulb를 대고 반대쪽 콧구멍을 막은 채 삼키는 순간 가압; 비인두 압력 상승으로 이관 개통 유도; 의원 시행
-* 림프 배액 마사지 : 귀 뒤쪽(유양돌기 후방)부터 목 측면을 따라 쇄골 방향으로 부드럽게 쓸어내리는 마사지; 이관 주변 조직의 부종 경감 목적으로 시도되나, **임상 근거가 없으며 guideline에서 지지하지 않는 방법**; 부작용이 없다는 점에서 환자가 원하는 경우 시도 가능하나 공식 치료로 오해하지 않도록 안내 필요
+* 림프 배액 마사지 : 귀 뒤쪽(유양돌기 후방)부터 목 측면을 따라 쇄골 방향으로 부드럽게 쓸어내리는 마사지; 이관 주변 조직의 부종 경감 목적으로 시도되나, 임상 근거가 없으며 guideline에서 지지하지 않는 방법; 부작용이 없다는 점에서 환자가 원하는 경우 시도 가능하나 공식 치료로 오해하지 않도록 안내 필요
 * 턱 근육 이완 운동 : TMJ(측두하악관절) 긴장이 이관 기능에 영향을 줄 수 있음 (이관 개통에 관여하는 tensor veli palatini가 하악 운동과 연동); 입을 천천히 크게 벌렸다 닫기, 좌우로 부드럽게 움직이기 - 각 10회, 1일 2\~3회; TMJ 질환 동반이 의심되면 의뢰 고려
 * 비행기 여행·급격한 고도 상승·잠수는 증상이 해결될 때까지 피함; 불가피한 경우 이착륙 전후 Valsalva 또는 코 울혈 제거제 사용
 
-### <mark style="color:orange;">이관 개방증 (PET)</mark>
-
-* 증상의 양성 경과 설명으로 안심; 대부분 원인(체중 감소·임신 등) 해결 시 자연 호전
-* 코 울혈 제거제 사용 회피 (점막 위축 악화)
-* nasal saline : 고개를 뒤로 젖힌 자세(supine 또는 머리를 젖혀 비강이 수직이 되게 함)로 환측 콧구멍에 생리식염수를 떨어뜨린 후 환측으로 머리를 기울여 점막 비후 유도
-* potassium iodide 수용액 : 점막 비후 유도 목적의 역사적 선택지; 현대 임상에서 거의 사용하지 않으며 근거 매우 제한적; 대안이 없는 경우에만 대증 시도 수준으로 고려
-* 증상 지속 시 의뢰: tympanostomy tube 삽입, intraluminal catheter placement, E-tube 폐쇄술, 연골 이식 등
-
-## <mark style="color:green;">약물 치료</mark>
-
-### <mark style="color:orange;">이관 폐쇄증</mark>
+### <mark style="color:orange;">약물 치료</mark>
 
 #### <mark style="color:$primary;">국소 비강 약제</mark>
 
@@ -244,7 +196,7 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 #### <mark style="color:$primary;">전신 약제</mark>
 
 * 경구 코 울혈 제거제 : ETD에 대한 직접 근거 불충분; 단기 증상 완화 목적의 제한적 trial만 고려
-  * **다음 환자에서는 benefit < risk이므로 가급적 회피** : 고혈압, 관상동맥질환, 부정맥, 전립선 비대증, 갑상선 기능항진증, 불면, 노인
+  * 다음 환자에서는 benefit < risk이므로 가급적 회피 : 고혈압, 관상동맥질환, 부정맥, 전립선 비대증, 갑상선 기능항진증, 불면, 노인
   * pseudoephedrine <mark style="color:blue;">\[슈다페드]</mark> : 60 ㎎ 필요시(q4\~6h); 5\~7일 이내 단기 사용; 고혈압·전립선 비대증 시 주의
   * phenylephrine <mark style="color:blue;">\[코미 복합제]</mark> : 10 ㎎ 필요시(q4h)
 * 항생제 : 급성 중이염 등 감염 동반 시 (☞ [중이염](048_-otitis-media.md#undefined-16))
@@ -255,10 +207,59 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 
 * Tympanostomy tube : 중이 환기관 삽입; 삼출성 중이염·재발성 급성 중이염 시
 * Balloon Eustachian Tuboplasty (BET) : 이관 연골부를 풍선 카테터로 확장; 만성 폐쇄증에서 increasingly accepted option (기관별 시행 현황 차이가 있으며 아직 universally established standard는 아님); 2023 Cochrane review에서 증상 및 이관 기능 개선에 유의한 결과 보고; 국내 일부 기관 시행 (비보험)
-  * **BET 의뢰 적응증** : ①증상 ≥3개월 지속, ②tympanometry type B 또는 C, ③ETDQ-7 >14.5점, ④Step 1\~2 치료 실패
+  * **BET 의뢰 적응증** : ⓵ 증상 ≥3개월 지속, ⓶ tympanometry type B 또는 C, ⓷ ETDQ-7 >14.5점, ⓸ Step 1\~2 치료 실패
   * **BET 금기** : 이관 개방증(PET) — 확장 시 증상 악화
   * **BET 한계** : 이관 연골부 자체의 dilatory dysfunction에만 효과적; 아데노이드 비대·비인두 종양·점막하 종괴 등 기계적 외부 폐쇄가 원인인 경우에는 효과 없으므로, 의뢰 전 기계적 원인을 반드시 배제
 * Eustachian tuboplasty : 레이저·미세수술로 이관 점막 성형
+
+### <mark style="color:orange;">Baro-challenge ETD (기압 유발형)</mark>
+
+* 평소에는 이관 기능이 정상이나, 비행·잠수·급격한 고도 변화 시에만 증상이 나타나는 별개의 표현형
+* 증상 : 이착륙·수중 입수 시 귀 통증·충만감·일시적 청력 저하; 회복 후 정상
+* 고막 출혈·삼출액·고막 파열(barotrauma) 동반 시 의뢰
+* 관리 원칙
+  * 상기도 감염·활동성 알레르기 시 비행·잠수 가급적 회피
+  * 예방 : 이착륙 30분 전 코 울혈 제거제 비강 분무 + 이착륙 중 Valsalva·저작·하품 반복
+  * 잠수 : 하강 속도 조절 + 이관 개통 확인하며 진행; 이통 시 즉시 상승
+  * 반복적 barotrauma → BET 또는 환기관 삽입 의뢰 고려
+
+## <mark style="color:green;">이관 개방증 (PET)</mark>
+
+### <mark style="color:orange;">치료 방침</mark>
+
+* 원인 교정 우선 : 체중 감소·임신·LPR·코 울혈 제거제 과다 사용 등 유발 원인 해결
+* 대부분 원인 해결 시 자연 호전; 약물 치료의 직접 근거는 제한적
+* 코 울혈 제거제·스테로이드 회피 (점막 위축 악화)
+
+#### <mark style="color:$primary;">치료 Step</mark>
+
+**Step 1.** 대상 - 모든 개방증
+
+* 치료 : 원인 교정 + 체위 조정(누운 자세 또는 고개를 숙인 자세에서 호전 확인) + 수분 충분 섭취 + nasal saline; 코 울혈 제거제·스테로이드 중단
+
+**Step 2.** 대상 - Step 1 반응 불충분
+
+* 치료 : potassium iodide 수용액 — 점막 비후 목적의 역사적 선택지; 현대 임상에서는 ENT 전문의도 거의 사용하지 않으며 근거가 매우 제한적; 대안이 없는 경우 단기 대증 시도 수준으로만 고려; LPR 동반 시 전형적 역류 증상(heartburn, 인후 이물감, regurgitation)이 확인된 경우에 한해 생활 습관 교정 및 위산 억제 치료 병행 (PET 자체의 직접 치료 효과는 입증되지 않음)
+
+**Step 3.** 대상 - Step 2 반응 불충분, 증상 지속·일상생활 장애
+
+* 치료 : 의뢰; tympanostomy tube, intraluminal catheter, E-tube 폐쇄술, 연골 이식 등
+
+### <mark style="color:orange;">비-약물 치료</mark>
+
+* 증상의 양성 경과 설명으로 안심; 대부분 원인(체중 감소·임신 등) 해결 시 자연 호전
+* 코 울혈 제거제 사용 회피 (점막 위축 악화)
+* nasal saline : 고개를 뒤로 젖힌 자세(supine 또는 머리를 젖혀 비강이 수직이 되게 함)로 환측 콧구멍에 생리식염수를 떨어뜨린 후 환측으로 머리를 기울여 점막 비후 유도
+* potassium iodide 수용액 : 점막 비후 유도 목적의 역사적 선택지; 현대 임상에서 거의 사용하지 않으며 근거 매우 제한적; 대안이 없는 경우에만 대증 시도 수준으로 고려
+* 증상 지속 시 의뢰: tympanostomy tube 삽입, intraluminal catheter placement, E-tube 폐쇄술, 연골 이식 등
+
+## <mark style="color:green;">임신 중 이관 증상</mark>
+
+* 임신 후기 호르몬성 점막 부종에 의한 폐쇄증과, 에스트로겐 상승에 의한 개방증이 모두 발생 가능
+* 임신 중 발생하는 이관 증상은 분만 후 대부분 자연 소실됨
+* 약물 사용보다 보존적 요법 우선
+  * 개방증 시 좌식 생활 자제(누운 자세로 호전)·수분 충분 섭취
+  * 폐쇄증 시 Valsalva·생리식염수 세척. 증상 지속 시 의뢰
 
 ***
 
