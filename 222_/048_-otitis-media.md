@@ -25,7 +25,7 @@
 ### <mark style="color:orange;">예방 / 백신</mark>
 
 * 폐렴구균 백신 : 현재 국내 소아 국가예방접종(NIP)은 PCV20(20가) 기반으로 운영됨 (☞ [예방접종](../231_/210_-vaccination.md#pneumococcal-pneumonia))
-  * PCV20은 PCV13 대비 7개 혈청형(8, 10A, 11A, 12F, 15B, 22F, 33F)을 추가 커버; 이 중 **혈청형 3·19A**는 PCV13 커버에도 불구하고 AOM 유발 빈도가 높게 보고된 혈청형으로, PCV20의 추가 커버가 AOM 감소에 기여할 것으로 기대됨
+  * PCV20은 PCV13 대비 7개 혈청형(8, 10A, 11A, 12F, 15B, 22F, 33F)을 추가 커버; 이 중 혈청형 3·19A는 PCV13 커버에도 불구하고 AOM 유발 빈도가 높게 보고된 혈청형으로, PCV20의 추가 커버가 AOM 감소에 기여할 것으로 기대됨
   * AOM 예방 효과 수치는 PCV7 기준 연구(고위험군 5\~6%, 저위험군 6% 감소)로 참고치로만 활용; PCV20의 소아 AOM 특이 장기 데이터는 아직 축적 중
 * 인플루엔자 백신 : 호흡기 질환 시즌 동안 influenza 관련 AOM 감소에 도움
 * 기타 : xylitol 껌(하루 5회 사용 시 재발성 AOM 예방 기대; 간헐적 사용은 효과 없음; 실제 순응도가 낮아 일상적 권고는 제한적), Vit D 보충(일부 관찰 연구에서 혈중 농도 유지 시 재발 감소 보고; 근거 수준 제한적)
@@ -85,52 +85,50 @@
 
 ## <mark style="color:green;">진단</mark>
 
-#### <mark style="color:$primary;">급성 중이염 진단 기준 (AAP 2013)</mark>
+#### <mark style="color:$primary;">급성 중이염 진단 기준</mark>&#x20;
 
-다음 3가지 기준 중 하나 이상을 충족하면 AOM으로 진단:
+다음 3가지 기준 중 하나 이상을 충족하면 AOM으로 진단
 
-1. **중등도~심한 TM 팽륜** (moderate to severe bulging)
-2. **새로 발생한 이루** — 외이염에 기인하지 않는 경우
-3. **경도 TM 팽륜** + 48시간 이내에 발생한 이통(귀를 만지거나 비빔 포함) 또는 심한 TM 충혈
+1. 중등도\~심한 TM 팽륜 (moderate to severe bulging)
+2. 새로 발생한 이루 - 외이염에 기인하지 않는 경우
+3. 경도 TM 팽륜 + 48시간 이내에 발생한 이통(귀를 만지거나 비빔 포함) 또는 심한 TM 충혈
 
 {% hint style="warning" %}
-**발적(erythema) 단독은 AOM 확진 기준 불충분.** 고열이나 울음에 의한 홍조와 구별이 필요하며, 팽륜(bulging)이 가장 신뢰할 수 있는 진단 소견이다.
+<mark style="color:red;">**발적(erythema) 단독은 AOM 확진 기준 불충분**</mark>**.** 고열이나 울음에 의한 홍조와 구별이 필요하며, 팽륜(bulging)이 가장 신뢰할 수 있는 진단 소견이다.
 {% endhint %}
 
 * **의증** : 위 기준을 완전히 충족하지 않으나 MEE 소견 + 급성 증상이 있는 경우
 
-#### <mark style="color:$primary;">보조 검사</mark>
-
-* 고막운동성계측(tympanometry)
-  * **Type B** : MEE를 강력히 지지하는 소견
-  * **Type C** : 음압 증가(이관 기능 부전)의 참고 소견 — AOM 단독 확진 근거로는 약함
-* pneumatic otoscopy : 고막 운동성 감소 확인
-
-#### <mark style="color:$primary;">중증 급성 중이염 진단 기준</mark>
+**중증 급성 중이염 진단 기준**
 
 * 의사가 환아를 관찰한 시점 이후 24시간 이내에 다음 중 ≥1개 관찰
   * 심한 이통 또는 보챔
   * ≥38.5℃ (미국 지침 ≥39℃)
 
+#### <mark style="color:$primary;">보조 검사</mark>
+
+* 고막운동성계측(tympanometry)
+  * Type B : MEE를 강력히 지지하는 소견
+  * Type C : 음압 증가(이관 기능 부전)의 참고 소견 - AOM 단독 확진 근거로는 약함
+* pneumatic otoscopy : 고막 운동성 감소 확인
+
 #### <mark style="color:$primary;">감별</mark>
 
-{% hint style="warning" %}
-**AOM 오진 방지 — 항생제 시작 전 마지막 체크**
+ ※ AOM 오진 방지 / 항생제 시작 전 마지막 점검 포인트
 
-| 상황 | 먼저 생각할 진단 | 항생제 |
-|---|---|---|
-| TM 발적만 있음 (팽륜 없음) | 울음·고열에 의한 홍조 → AOM 아님 | 보류 |
-| Bulging TM + 급성 이통 | AOM 가능성 높음 | 고려 |
-| 이루 + 갑작스러운 통증 완화 | AOM + 고막 천공 | 필요 |
-| 귀 충만감만 있음 (이통 없음) | OME 또는 ETD 우선 | 보통 불필요 |
-| 이주(tragus) 압통 / 이개 당김 통증 | 외이염(OE) 우선 | 경구 항생제 ✕ |
-| 씹을 때 통증 / 턱 클릭 | TMJ disorder 우선 | 불필요 |
-| 상악 구치부 통증 | 치성 방사통 우선 | 불필요 |
-| 귀 뒤 부종·발적·압통 | 유양돌기염 의심 | 즉시 CT + 의뢰 |
-| 어지럼 + 자발 안진 | 내이염(labyrinthitis) 의심 | 즉시 의뢰 |
-| 안면 마비 | 안면신경 침범 | 즉시 CT/MRI + 의뢰 |
-| 성인 편측 지속 삼출 | NPC 감별 필요 | 원인 평가 우선 |
-{% endhint %}
+| 상황                       | 먼저 생각할 진단             | 항생제                                      |
+| ------------------------ | --------------------- | ---------------------------------------- |
+| TM 발적만 있음 (팽륜 없음)        | 울음·고열에 의한 홍조 → AOM 아님 | <mark style="color:red;">보류</mark>       |
+| Bulging TM + 급성 이통       | AOM 가능성 높음            | 고려                                       |
+| 이루 + 갑작스러운 통증 완화         | AOM + 고막 천공           | 필요                                       |
+| 귀 충만감만 있음 (이통 없음)        | OME 또는 ETD 우선         | <mark style="color:red;">보통 불필요</mark>   |
+| 이주(tragus) 압통 / 이개 당김 통증 | 외이염(OE) 우선            | <mark style="color:red;">경구 항생제 ✕</mark> |
+| 씹을 때 통증 / 턱 클릭           | TMJ disorder 우선       | <mark style="color:red;">불필요</mark>      |
+| 상악 구치부 통증                | 치성 방사통 우선             | <mark style="color:red;">불필요</mark>      |
+| 귀 뒤 부종·발적·압통             | 유양돌기염 의심              | **즉시 CT + 의뢰**                           |
+| 어지럼 + 자발 안진              | 내이염(labyrinthitis) 의심 | **즉시 의뢰**                                |
+| 안면 마비                    | 안면신경 침범               | **즉시 CT/MRI + 의뢰**                       |
+| 성인 편측 지속 삼출              | NPC 감별 필요             | <mark style="color:red;">원인 평가 우선</mark> |
 
 * 유양돌기염 : 귀 뒤의 통증/압통, 두통 동반
 * Temporomandibular joint disorder : 입 벌릴 때 통증/소리, 씹을 때 심해지는 통증, 귓바퀴 앞 통증
@@ -142,26 +140,25 @@
 
 ```mermaid
 graph TD
-    A1["<u>다음 중 2개 이상 해당</u><br/>• 비정상 고막 색깔: white, yellow, amber, or blue<br/>• 손상에 기인하지 않은 혼탁<br/>• 고막 움직임 감소"]
+    A1["<u>다음 중 2개 이상 해당</u><br/>• 비정상 고막 색깔: white, <br/>yellow, amber, or blue<br/>• 손상에 기인하지 않은 혼탁<br/>• 고막 움직임 감소"]
     A2["고막 뒤의 기포 또는<br/>공기-액체층"]
     A3["외이도염에 기인하지 않은<br/>급성 화농성 이루"]
 
     %% 진단명 박스 설정 (색상 추가)
     MEE["Middle-ear effusion (MEE)"]
-    OME["Otitis media with effusion (OME)"]
+    OME["Otitis media with effusion <br/>(OME)"]
     AOM["Acute otitis media (AOM)"]
     
-    style MEE fill:#f9f,stroke:#333,stroke-width:2px
-    style OME fill:#bbf,stroke:#333,stroke-width:2px
-    style AOM fill:#f96,stroke:#333,stroke-width:2px
+    style MEE fill:#ff99ff,stroke:#cc00cc
+    style OME fill:#bbf,stroke:#333
+    style AOM fill:#ff9966,stroke:#cc5500
 
     Inflam["급성 염증 소견?"]
     
     B1["<u>다음 중 1개 이상 해당</u><br/>• 이통 (귀를 만지거나 비빔)<br/>• 현저한 고막 충혈<br/>• 뚜렷한 고막 충만 or 불거짐"]
 
-    A1 --- OR([or])
-    A2 --- OR
-    OR --> MEE
+    A1 --> MEE
+    A2 --> MEE
     
     MEE --> Inflam
     
@@ -172,13 +169,19 @@ graph TD
     A3 --> AOM
 ```
 
-<p align="center"><strong>급성 중이염 및 삼출 중이염의 감별</strong><br><em><mark style="color:$info;">Ref. Kerschner JE, Preciado D. Otitis Media. Fig 640-1. In: Nelson Textbook of Pediatrics, 20th ed. 2016.</mark></em></p>
+<p align="center"><strong>급성 중이염 및 삼출 중이염의 감별</strong><br><em><mark style="color:$info;">Ref. Kerschner JE, Preciado D. Otitis Media. Fig 640-1.</mark></em> <br><em><mark style="color:$info;">In: Nelson Textbook of Pediatrics, 20th ed. 2016.</mark></em></p>
 
-#### <mark style="color:$primary;">중이 이루의 감별 — phenotype-first 접근</mark>
+#### <mark style="color:$primary;">중이 이루의 감별 (Phenotype-first 접근)</mark>
 
-<table><thead><tr><th width="145">이루 양상</th><th width="200">먼저 생각할 진단</th><th>진단적 단서</th><th>치료 방향</th></tr></thead><tbody><tr><td>급성 화농성<br/>(갑작스러운 통증 후 배출)</td><td>AOM, 고막 천공</td><td>선행 상기도 감염; 분비물 배출 후 통증 호전</td><td>항생제 이용액; 귀 청결·건조 유지 (☞ <a href="047_-otitis-externa.md#undefined-7">외이염</a>)</td></tr><tr><td>만성 화농성, 악취<br/>(간헐적 또는 지속적)</td><td>CSOM ± cholesteatoma</td><td>고막 천공력; 이전 항생제 무반응; 진주색 덩어리; 폴립</td><td>항생제 이용액; 청력 평가; bone CT; 배양 검사; 이비인후과 의뢰</td></tr><tr><td>맑은 장액성<br/>(묽고 냄새 없음)</td><td>중이 결핵 / ETD 삼출</td><td>결핵 감염력; 이전 항생제 무반응; 만성 경과</td><td>결핵 검사 및 치료 (☞ <a href="../223_/070_-tuberculosis.md">결핵</a>)</td></tr><tr><td>혈성 또는 지속 혈청성</td><td>두부·귀 외상 / 종양</td><td>외상력; 안면 신경 악화; 편측 박동성 이명; 종괴</td><td>청력 검사; bone CT; 의뢰 (☞ <a href="049_-ear-injury.md#traumatic-tm-perforation">귀손상</a>)</td></tr><tr><td>박동성 이루</td><td>사구종양(glomus tumor) / 고혈관 종양</td><td>편측 박동성 이명; 종괴; 청력 저하</td><td>bone CT/MRI; 즉시 의뢰</td></tr></tbody></table>
+| 이루 양상                             | 먼저 생각할 진단                   | 진단적 단서                          | 치료 방향                                                                     |
+| --------------------------------- | --------------------------- | ------------------------------- | ------------------------------------------------------------------------- |
+| 급성 화농성 (갑작스러운 통증 후 배출)            | AOM, 고막 천공                  | 선행 상기도 감염; 분비물 배출 후 통증 호전       | 항생제 이용액; 귀 청결·건조 유지 (☞ [외이염](047_-otitis-externa.md#undefined-7))         |
+| <p>만성 화농성, 악취<br>(간헐적 또는 지속적)</p> | CSOM ± cholesteatoma        | 고막 천공력; 이전 항생제 무반응; 진주색 덩어리; 폴립 | 항생제 이용액; 청력 평가; bone CT; 배양 검사; 이비인후과 의뢰                                  |
+| <p>맑은 장액성<br>(묽고 냄새 없음)</p>       | 중이 결핵 / ETD 삼출              | 결핵 감염력; 이전 항생제 무반응; 만성 경과       | 결핵 검사 및 치료 (☞ [결핵](../223_/070_-tuberculosis.md))                         |
+| 혈성 또는 지속 혈청성                      | 두부·귀 외상 / 종양                | 외상력; 안면 신경 악화; 편측 박동성 이명; 종괴    | 청력 검사; bone CT; 의뢰 (☞ [귀손상](049_-ear-injury.md#traumatic-tm-perforation)) |
+| 박동성 이루                            | 사구종양(glomus tumor) / 고혈관 종양 | 편측 박동성 이명; 종괴; 청력 저하            | bone CT/MRI; 즉시 의뢰                                                        |
 
-_<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016.</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016.</mark></em></p>
 
 ***
 
@@ -194,9 +197,9 @@ _<mark style="color:$info;">Ref. Rakel Family Medicine 9th ed. 2016.</mark>_
 
 <table><thead><tr><th width="91">연령</th><th width="91">&#x3C;6개월</th><th width="93">≥6개월</th><th width="109">6~23개월</th><th width="137">6~23개월</th><th width="146">≥24개월</th></tr></thead><tbody><tr><td>중증도</td><td>무관</td><td>심함¹⁾</td><td>심하지 않음</td><td>심하지 않음</td><td></td></tr><tr><td>이환 부위</td><td>무관</td><td>무관</td><td>양측</td><td>편측</td><td>양측/편측</td></tr><tr><td>항생제</td><td>투여</td><td>투여</td><td>투여</td><td>투여 또는 관찰²⁾</td><td>투여 또는 관찰²⁾</td></tr></tbody></table>
 
-_1) 이루, 아파 보임, >48시간 이통 지속, 이전 48시간에 ≥39℃(한국 지침 38.5℃), 추적 관찰 여부가 불확실_\
-&#xNAN;_&#x32;) 48\~72시간 동안 철저한 감시 및 대증 치료; 호전되지 않거나 악화되면 항생제 투여 시작_\
-&#xNAN;_<mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Media. Pediatrics 2013;131(3).</mark>_
+_1) 이루, 아파 보임, >48시간 이통 지속, 이전 48시간에 ≥39℃(한국 지침 38.5℃), 추적 관찰 여부가 불확실. 2) 48\~72시간 동안 철저한 감시 및 대증 치료; 호전되지 않거나 악화되면 항생제 투여 시작_
+
+<p align="center"><em><mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Media. Pediatrics 2013;131(3).</mark></em></p>
 
 **관찰 없이 즉시 항생제 투여 대상**
 
@@ -213,14 +216,14 @@ _1) 이루, 아파 보임, >48시간 이통 지속, 이전 48시간에 ≥39℃(
 * 6\~23개월 소아에서 의증 상태 또는 편측 경증 발생
 * ≥2세에서 경증으로 발생
 
- ✽ 지연 처방전(Delayed Prescription) 방식 가능 : 처방전을 진료 시 미리 교부하되, 48\~72시간 이내 호전이 없을 때만 조제하도록 보호자에게 안내
+※ **지연 처방전 (Delayed prescription)** - 처방전을 진료 시 미리 교부하되, 48\~72시간 이내 호전이 없을 때만 조제/투약하도록 보호자에게 안내→ 불필요한 항생제 감소, 보호자 만족도 유지
 
 ## <mark style="color:green;">약물 치료</mark>
 
 * 항히스타민제, 코 울혈 제거제는 효과 없고 부작용 가능성이 있어 권고하지 않는다
 
 {% hint style="info" %}
-**합병증 없는 AOM 초치료 원칙 = Amoxicillin 고용량 우선.** Amoxicillin/clavulanate(오구멘틴)는 다음 상황에 한해 초치료로 선택: ① 최근 30일 이내 amoxicillin 복용 ② otitis-conjunctivitis syndrome ③ 재발성 AOM ④ beta-lactamase 생성균 의심(H. influenzae, M. catarrhalis). 이외에는 amoxicillin을 먼저 사용하고 실패 시 amox-clav로 단계적 상향.
+<mark style="color:red;">**합병증 없는 AOM 초치료 원칙 = Amoxicillin 고용량 우선**</mark>**.** Amoxicillin/clavulanate(오구멘틴)는 다음 상황에 한해 초치료로 선택: ⓵ 최근 30일 이내 amoxicillin 복용, ⓶ otitis-conjunctivitis syndrome, ⓷ 재발성 AOM, ⓸ beta-lactamase 생성균 의심(H. influenzae, M. catarrhalis). 이외에는 amoxicillin을 먼저 사용하고 실패 시 amox-clav로 단계적 상향.
 {% endhint %}
 
 ### <mark style="color:orange;">진통제</mark>
@@ -231,7 +234,7 @@ _1) 이루, 아파 보임, >48시간 이통 지속, 이전 48시간에 ≥39℃(
 * ibuprofen : 400 ㎎ q6h <mark style="color:blue;">\[부루펜]</mark>
   * 소아 : 5\~10 ㎎/㎏ q6\~8h, 최대 40 ㎎/㎏/d; ≥6개월 연령 허가
   * <mark style="color:blue;">\[부루펜 시럽]</mark> (20 ㎎/㎖; 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
-* ✽통증이 심한 초기 2\~3일은 규칙적으로 투여; 외부 온열 치료는 통증 완화에 약간의 효과 기대
+* 통증이 심한 초기 2\~3일은 규칙적으로 투여; 외부 온열 치료(에, 적외선 램프)는 통증 완화에 약간의 효과 기대
 
 ### <mark style="color:orange;">항생제</mark>
 
@@ -241,9 +244,9 @@ _1) 이루, 아파 보임, >48시간 이통 지속, 이전 48시간에 ≥39℃(
 
 #### <mark style="color:$primary;">항생제 선택 및 용법</mark>
 
-**초치료 — 1차 (amoxicillin 우선)**
+**초치료 - 1차 (Amoxicillin 우선)**
 
-<table><thead><tr><th width="286">1차 선택제</th><th>대체제 (Pc-allergy)</th></tr></thead><tbody><tr><td><strong>Amox. 80~90 ㎎/㎏/d #2</strong> (합병증 없는 AOM 원칙)<br/>→ Amox-clav. 90 ㎎/㎏/d #2 (하단 적응증 해당 시)</td><td>cefdinir 14 ㎎/㎏/d #1~2 / cefuroxime 30 ㎎/㎏/d #2 / cefpodoxime 10 ㎎/㎏/d #2 / ceftriaxone 50 ㎎/㎏/d IM/IV ×1~3d</td></tr></tbody></table>
+<table><thead><tr><th width="286">1차 선택제</th><th>대체제 (Pc-allergy)</th></tr></thead><tbody><tr><td><strong>Amox. 80~90 ㎎/㎏/d #2</strong> (합병증 없는 AOM 원칙)<br>→ Amox-clav. 90 ㎎/㎏/d #2 (하단 적응증 해당 시)</td><td>cefdinir 14 ㎎/㎏/d #1~2 / cefuroxime 30 ㎎/㎏/d #2 / cefpodoxime 10 ㎎/㎏/d #2 / ceftriaxone 50 ㎎/㎏/d IM/IV ×1~3d</td></tr></tbody></table>
 
 **48\~72시간 초치료 실패 후**
 
@@ -319,55 +322,43 @@ _1) 이루, 아파 보임, >48시간 이통 지속, 이전 48시간에 ≥39℃(
 
 * 성인 AOM은 소아에 비해 드묾; 편측 또는 반복 발생 시 반드시 기저 원인 감별 필요
 
-{% hint style="warning" %}
-**성인 편측 반복 AOM / 지속 삼출** — 다음 원인을 적극 배제:
-
-* **비인두암(Nasopharyngeal Carcinoma, NPC)** : 특히 흡연력 + 경부 림프절 종대 + 비출혈 동반 시 즉시 이비인후과 의뢰
-* **심한 이관 기능 부전(Eustachian tube dysfunction)** : 만성 비부비동염, 알레르기비염, 비용 동반 여부 확인 (☞ [귀인두관기능부전](046_-eustachian-tube-dysfunction.md))
-* **두경부 종양 / 편도 종양** : 편측 편도 비대 동반 시
-{% endhint %}
-
 **성인 AOM 항생제 용량**
 
 * amoxicillin : 500 ㎎ tid 또는 1 g bid × 5\~7d <mark style="color:blue;">\[파목신]</mark>
 * amoxicillin/clavulanate : 875/125 ㎎ bid × 5\~7d <mark style="color:blue;">\[오구멘틴]</mark> (적응증 해당 시)
 * levofloxacin : 500 ㎎ qd × 5\~7d <mark style="color:blue;">\[크라비트]</mark> (페니실린 알레르기 또는 초치료 실패 시)
 
+**성인 편측 반복 AOM / 지속 삼출 시 다음 원인을 적극 배제**
+
+* 비인두암(Nasopharyngeal Carcinoma, NPC) : 특히 흡연력 + 경부 림프절 종대 + 비출혈 동반 시 즉시 이비인후과 의뢰
+* 심한 이관 기능 부전(Eustachian tube dysfunction) : 만성 비부비동염, 알레르기비염, 비용 동반 여부 확인 (☞ [귀인두관기능부전](046_-eustachian-tube-dysfunction.md))
+* 두경부 종양 / 편도 종양 : 편측 편도 비대 동반 시
+
 ### <mark style="color:orange;">급성 중이염 치료 알고리듬</mark>
 
 ```mermaid
 graph TD
-    Start["<b>급성 중이염 진단</b>"]
-
-    Severity["[중증]<br/>1. 심한 이통 또는 보채거림<br/>2. 38.5℃ 이상의 고열"]
-    
+    Start(["<b>급성 중이염 진단</b>"])
+    Severity["[중증]<br/>1. 심한 이통 또는 보채거림<br/>2. 38.5℃ 이상의 고열"]   
     Start --> Severity
-    
     Severity -- "yes" --> Antibiotics["항생제 요법*"]
-    
     Severity -- "no" --> Certainty["[연령과 진단의 확실성]<br/>1. 생후 6개월 이내<br/>2. 2세 미만에서의 확진"]
-    
     Certainty -- "yes" --> Antibiotics
-    
     Certainty -- "no" --> PatientFactor["[환자 요인]<br/>1. 항생제가 필요한 동반 질환<br/>2. 최근 항생제 복용 여부<br/>3. 2~3일 후 추적 관찰 불가"]
-    
     PatientFactor -- "yes" --> Antibiotics
-    
     PatientFactor -- "no" --> Otorrhea["이루 또는 천공"]
-    
-    Otorrhea -- "yes" --> Antibiotics
-    
-    Otorrhea -- "no" --> Supportive["항생제 투여 없는 대증 치료<br/>(2~3일 후 외래 예약)"]
-    
+    Otorrhea -- "no" --> Supportive(["항생제 투여 없는 대증 치료<br/>(2~3일 후 외래 예약)"])
     Supportive --> Improvement["증상 호전?"]
-    
     Improvement -- "no" --> Antibiotics
-    
-    Improvement -- "yes" --> Home["보호자 교육 후 귀가"]
+    Improvement -- "yes" --> Home(["보호자 교육 후 귀가"])
 
-    style Start fill:#f9f9ff,stroke:#ccccff
-    style Antibiotics fill:#e6f3ff,stroke:#3399ff,stroke-width:2px
-    style Severity fill:#fff,stroke:#333
+    style Start fill:#d5f5e3,stroke:#27ae60
+    style Severity fill:#ff6b6b,stroke:#c0392b,color:#fff
+    
+    classDef sky fill:#d6eeff,stroke:#2196f3
+    class Antibiotics,Home,Supportive sky
+
+    
 ```
 
 _\*항생제 요법 ⓵ 치료 반응 판정: 2\~3일 후, 증상 호전 여부 ⓶ 치료 기간: 반응 시 5\~10일 ⓷ 항생제 감수성 결과 나오면 적절한 항생제로 변경_
@@ -376,45 +367,47 @@ _\*항생제 요법 ⓵ 치료 반응 판정: 2\~3일 후, 증상 호전 여부 
 
 ***
 
-### <mark style="color:orange;">AOM 항생제 결정 알고리듬 (상세)</mark>
+### <mark style="color:orange;">AOM 항생제 결정 알고리듬</mark>&#x20;
 
 ```mermaid
 graph TD
-A[급성 중이염 AOM 진단] --> B{중증인가?}
+A([급성 중이염 AOM 진단]) --> B[중증인가?]
 B -->|Yes| ABX[즉시 항생제 시작]
-B -->|No| C{6개월 미만인가?}
+B -->|No| C[6개월 미만인가?]
 C -->|Yes| ABX
-C -->|No| D{고막 천공 또는 이루가 있는가?}
+C -->|No| D[고막 천공 또는 이루가 있는가?]
 D -->|Yes| ABX
-D -->|No| E{면역저하 / 기저질환 / 와우이식 / craniofacial anomaly?}
+D -->|No| E[면역저하/기저질환/와우이식/<br/> craniofacial anomaly?]
 E -->|Yes| ABX
-E -->|No| F{6~23개월 + 양측 AOM인가?}
+E -->|No| F[6~23개월 + 양측 AOM인가?]
 F -->|Yes| ABX
-F -->|No| G{48~72시간 추적 관찰 가능한가?}
+F -->|No| G[48~72시간 추적 관찰 가능한가?]
 G -->|No| ABX
 G -->|Yes| OBS[관찰 + 진통제<br/>delayed prescription 고려]
-OBS --> H{48~72시간 후 호전?}
-H -->|Yes| HOME[항생제 없이 종료]
+OBS --> H[48~72시간 후 호전?]
+H -->|Yes| HOME([항생제 없이 종료])
 H -->|No| ABX2[항생제 시작 또는 변경]
 ABX --> I[Amoxicillin 고용량 우선<br/>적응증 해당 시 Amox-clav]
 ABX2 --> I
 I --> J[48~72시간 내 재평가]
-J --> K{호전 없음?}
+J --> K[호전 없음?]
 K -->|Yes| ESC[Amox-clav 또는 Ceftriaxone 고려]
-K -->|No| END[치료 완료]
+K -->|No| END([치료 완료])
 
-style ABX fill:#e6f3ff,stroke:#3399ff,stroke-width:2px
-style ABX2 fill:#e6f3ff,stroke:#3399ff,stroke-width:2px
-style HOME fill:#e8f5e9,stroke:#4caf50,stroke-width:2px
-style OBS fill:#fff9c4,stroke:#f9a825,stroke-width:2px
+    style A fill:#d5f5e3,stroke:#27ae60
+classDef green fill:#d5f5e3,stroke:#27ae60
+class HOME,END green
+classDef yellow fill:#fff9c4,stroke:#f39c12
+class B,C,D,E,F,G,H,K yellow
+classDef sky fill:#d6eeff,stroke:#2196f3
+class ABX,ABX2,ESC,OBS sky
+
 ```
 
-<p align="center"><strong>AOM 항생제 결정 알고리듬</strong><br><em><mark style="color:$info;">Ref. AAP. Pediatrics 2013;131(3). / 대한이과학회. 유소아 중이염 진료지침. 2014.</mark></em></p>
+<p align="center"><strong>AOM 항생제 결정 알고리듬</strong><br><em><mark style="color:$info;">Ref. AAP. Pediatrics 2013;131(3):e964.</mark></em></p>
 
 {% hint style="info" %}
-**중증(severe) 기준** — 다음 중 하나라도 있으면 즉시 항생제: 심한 이통, 48시간 이상 지속 통증, 고열 ≥39℃(국내 일부 지침 ≥38.5℃), 심한 보챔
-
-**Delayed prescription** — 처방전을 진료 시 미리 교부하되, "2\~3일 내 호전 없을 때만 조제"하도록 보호자에게 안내 → 불필요한 항생제 감소, 보호자 만족도 유지
+**중증(severe) 기준** - 다음 중 하나라도 있으면 즉시 항생제: 심한 이통, 48시간 이상 지속 통증, 고열 ≥39℃(국내 일부 지침 ≥38.5℃), 심한 보챔
 {% endhint %}
 
 ***
@@ -569,19 +562,34 @@ H66.0 급성 화농성 중이염
 * 약물 치료 고려 상황 : 동반 질환으로 치료 필요, 보호자 불안, 수술 거부
 * F/U : 삼출액 소실될 때까지 1\~3개월 간격 검진
 
-### <mark style="color:orange;">비약물 치료</mark>
+### <mark style="color:orange;">비-약물 치료</mark>
 
-* **자가 통기법 (Autoinflation)** : 코를 막고 양압을 만들어 이관을 열어주는 방법
+* 자가 통기법 (Autoinflation) : 코를 막고 양압을 만들어 이관을 열어주는 방법
   * Otovent 장치 (풍선형 통기 장치) : 소아에서 OME 삼출액 해소 및 청력 개선에 유의미한 효과를 보고한 RCT 있음 (NICE 권고 포함); 약물 치료 전 시도 가능한 비침습 옵션
   * 코를 한 쪽씩 막고 반대쪽 콧구멍으로 풍선을 부풀리는 동작 하루 2\~3회; ≥3세에서 협조 가능
   * 껌 씹기, 하품, Valsalva 수기도 동일 기전으로 도움
 
-### <mark style="color:orange;">약제</mark>
+#### <mark style="color:$primary;">난청 동반 유소아 삼출성 중이염 - 청각 환경 개선</mark>
+
+* 배경 음악·TV 등 잡음을 끈다
+* 1 m 이내로 접근해서 천천히 크게 또렷이 발음한다
+* 대면하여 손동작을 더하며 이야기한다
+* 교실에서 선생님과 가까운 거리에 앉도록 하고 FM 시스템 등 음향 증폭 장치를 사용한다
+
+### <mark style="color:orange;">약물 치료</mark>
 
 * 항히스타민제, 코 울혈 제거제, 점액용해제 : 효과 없음 - 사용하지 않음
 * 전신 steroid : 단기간 동안 효과 있으나 위험-이익 논란
 * 비내 steroid : 이관 기능 치료에 기여하지 못함
 * 항생제 : 단기적 효과만 있고 내성 위험 - 일반적으로 권고하지 않음 (AOM 또는 세균성 URI 동반 시 고려)
+
+### <mark style="color:orange;">수술</mark>
+
+* 일반적으로 3개월 경과 관찰 후 해당 시 고려
+  * 양측 OME에서 좋은 쪽 귀 청력 역치 ≥40 ㏈
+  * 편측 OME에서는 이환 기간, 청력 수준, 보호자 선호도 고려
+  * 고위험군·고막의 비가역적 변화 예측 시 조기 수술 고려
+* 고막절개술(myringotomy) 또는 고막튜브삽입술(tympanostomy tube insertion)
 
 ### <mark style="color:orange;">조기 조치 대상자</mark>
 
@@ -595,61 +603,38 @@ H66.0 급성 화농성 중이염
   * 진단 시 청력 역치 ≥40 ㏈ 또는 언어 발달 지연 의심
   * 경과 관찰 중 고막의 비가역적 구조 변화 발생 또는 예측
 
-### <mark style="color:orange;">수술</mark>
-
-* 일반적으로 3개월 경과 관찰 후 해당 시 고려
-  * 양측 OME에서 좋은 쪽 귀 청력 역치 ≥40 ㏈
-  * 편측 OME에서는 이환 기간, 청력 수준, 보호자 선호도 고려
-  * 고위험군·고막의 비가역적 변화 예측 시 조기 수술 고려
-* 고막절개술(myringotomy) 또는 고막튜브삽입술(tympanostomy tube insertion)
-
-### <mark style="color:orange;">난청 동반 유소아 삼출성 중이염 - 청각 환경 개선</mark>
-
-* 배경 음악·TV 등 잡음을 끈다
-* 1 m 이내로 접근해서 천천히 크게 또렷이 발음한다
-* 대면하여 손동작을 더하며 이야기한다
-* 교실에서 선생님과 가까운 거리에 앉도록 하고 FM 시스템 등 음향 증폭 장치를 사용한다
-
 ### <mark style="color:orange;">삼출 중이염 치료 알고리듬</mark>
 
 ```mermaid
 graph TD
-    Start["삼출성 중이염 진단¹⁾"]
+    Start(["삼출성 중이염 진단¹⁾"])
     Risk["고위험 인자²⁾"]
     Start --> Risk
-    
     Risk -- 있음 --> Custom["개인별 맞춤 치료"]
-    
     Risk -- 없음 --> Irreversible["고막의 비가역적 변화<br/>또는 합병증 발생"]
-    
-    Irreversible -- 있음 --> Decision["의학적 상황, 발달 상태 및<br/>보호자의 선호도를 고려하여 결정"]
-    
+    Irreversible -- 있음 --> Decision["의학적 상황, 발달 상태 및<br/>보호자의 선호도 고려"]
     Irreversible -- 없음 --> Target["청력검사 대상³⁾"]
-    
     Target -- 해당 없음 --> Observation["3개월간 정기적<br/>경과 관찰"]
-    
     Target -- 해당 있음 --> Evaluation["청력검사 &/or 언어평가"]
-    
     Evaluation --> Result1["좋은쪽 역치:<br/>20dB 미만"]
     Evaluation --> Result2["좋은쪽 역치:<br/>20dB~40dB"]
     Evaluation --> Result3["좋은쪽 역치:<br/>40dB 이상"]
-    
     Result1 --> Observation
     Result2 --> Decision
     Result3 --> Decision
-    
     Decision --> Plan1["청력검사를 포함한<br/>정기적 추적 관찰"]
     Decision --> Plan2["수술적 치료 및<br/>정기적 추적 관찰"]
-    
     Observation --> Disappear["중이 삼출액 소실"]
-    
     Disappear -- yes --> Home["보호자 교육 후 귀가"]
     Disappear -- no --> Risk
+    
+style Start    fill:#d5f5e3,stroke:#27ae60
+classDef sky fill:#d6eeff,stroke:#2196f3
+class Custom,Plan1,Plan2,Home sky
+    
 ```
 
-_1) 삼출성 중이염 진단 ⓵ 급성 염증 소견이 없음 ⓶ 중이 삼출액 존재: 이경, 통기 이경, tympanometry (B, C형)_\
-&#xNAN;_&#x32;) 고위험 인자 ⓵ 감각신경성 난청 ⓶ 교정 불가 시각 저하 ⓷ 다운증후군·두개안면기형 ⓸ 구개열 ⓹ 자폐증·전반적 발달 장애 ⓺ 언어·인지 기능 저하_\
-&#xNAN;_&#x33;) 청력검사 대상 ⓵ 난청 동반 여부 확인 필요 ⓶ 난청 의심 증상, 언어 지연·학습 장애 ⓷ 3개월 관찰 후 다음 단계 치료 결정 필요_
+_1) 삼출성 중이염 진단 ⓵ 급성 염증 소견이 없음 ⓶ 중이 삼출액 존재: 이경, 통기 이경, tympanometry (B, C형). 2) 고위험 인자 ⓵ 감각신경성 난청 ⓶ 교정 불가 시각 저하 ⓷ 다운증후군·두개안면기형 ⓸ 구개열 ⓹ 자폐증·전반적 발달 장애 ⓺ 언어·인지 기능 저하. 3) 청력검사 대상 ⓵ 난청 동반 여부 확인 필요 ⓶ 난청 의심 증상, 언어 지연·학습 장애 ⓷ 3개월 관찰 후 다음 단계 치료 결정 필요_
 
 <p align="center"><strong>삼출 중이염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. 대한이과학회. 유소아 중이염 진료지침. 2014.</mark></em></p>
 
