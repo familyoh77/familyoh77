@@ -90,10 +90,10 @@ graph TD
     Q1 -- "아니오" --> Q2["고막이 비정상인가?<br/>(발적·팽윤·함몰)"]
     Q2 -- "예" --> OM["중이염<br/>→ 해당 챕터 참조"]
     Q2 -- "아니오" --> Q3["귀 진찰이 정상인데<br/>통증이 있는가?"]
-    Q3 -- "예" --> REF["Referred otalgia →<br/>TMJ·치아·인두·편도·경추·종양<br/>특히 ≥50세 + 편측 + 지속성<br/>→ 두경부암 배제"]
+    Q3 -- "예" --> REF["연관통(TMJ·치아·인두·편도<br/>·경추·종양) 특히 ≥50세 + 편측 <br/>+ 지속성 → 두경부암 배제"]
     Q3 -- "아니오 (귀 외부로 확장)" --> Q4["통증이 '비정상적으로'<br/>심한가?<br/>(pain out of proportion)"]
-    Q4 -- "예" --> NOE["⚠️ Necrotizing OE 우선 배제<br/>→ 특히 당뇨·야간 통증·치료 무반응"]
-    Q4 -- "아니오" --> EVAL["임상 맥락에 따라 재평가"]
+    Q4 -- "예" --> NOE["Necrotizing OE 우선 배제<br/>→ 특히 당뇨·야간 통증·<br/>치료 무반응"]
+    Q4 -- "아니오" --> EVAL["임상 맥락에 따라 <br/>재평가"]
     
         style S fill:#d5f5e3,stroke:#27ae60
         classDef yellow fill:#fff3cd,stroke:#f39c12
@@ -119,24 +119,21 @@ graph TD
 * 직접 시야하의 suction, dry mopping, 포셉/큐렛을 이용한 변연절제(debridement)가 우선 권장. 고막 천공 여부 불확실 시 irrigation은 피함. 과산화수소·온수 세척은 고막 확인 후 보조적으로만 고려
 * 변연절제(debridement) : 진균 감염 시 필수적으로 선행 (국소 항진균제만으로는 효과 불충분)
 * Ear wick(심지) : 외이도가 심하게 부어 국소 약제 전달이 어려울 때 삽입; 2\~3일 후 자연 배출되거나 의사가 제거; hydrocellulose 또는 거즈 심지 사용
-
-> ✽ Wick가 건조해지면 점이용액이 외이도에 전달되지 않으므로, 처방 방울 수를 빠짐없이 규칙적으로 점이하도록 반드시 교육한다.
-
+  * Wick가 건조해지면 점이용액이 외이도에 전달되지 않으므로, 규칙적으로 처방한 방울 수를 점이하도록 반드시 교육한다.
 * 만성 OE : 2주마다 정기 이강 세척(aural toilet)
-
-> ✽만성·재발성 OE에서는 세균성 바이오필름이 항균제 침투를 방해하여 치료 반응을 저하시킬 수 있음. 약물 치료와 병행하여 정기적인 이강 세척(aural toilet)으로 바이오필름을 물리적으로 제거하는 것이 치료 효과를 높이는 핵심임
+  * 만성·재발성 OE에서는 세균성 바이오필름이 항균제 침투를 방해하여 치료 반응을 저하시킬 수 있음. 약물 치료와 병행하여 정기적인 이강 세척(aural toilet)으로 바이오필름을 물리적으로 제거하는 것이 치료 효과를 높이는 핵심임
 
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">통증·가려움 관리</mark>
 
-**소염진통제**
+#### <mark style="color:$primary;">소염진통제</mark>
 
 * ibuprofen : 400\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * acetaminophen : 650\~1,300 ㎎ q6\~8h <mark style="color:blue;">\[타이레놀]</mark>
-* ✽통증이 심한 경우 초기 2\~3일 규칙적으로 복용
+* 통증이 심한 경우 초기 2\~3일 규칙적으로 복용
 
-**항히스타민제**
+#### <mark style="color:$primary;">항히스타민제</mark>
 
 * 소양증 주 증상 시 (☞ [항히스타민제](../231_/212_-antihistamines.md))
 
@@ -155,7 +152,7 @@ graph TD
 
 ### <mark style="color:orange;">국소 항생제 (점이용제)</mark>
 
-#### 투여 방법 (이욕, 耳浴)
+**투여 방법 (이욕, 耳浴)**
 
 1. 환측을 위로 하여 눕는다.
 2. 약병을 손으로 1\~2분 쥐어 체온 수준으로 따듯하게 한다 (냉각된 용액은 현기증 유발 가능).
@@ -185,45 +182,47 @@ graph TD
 * ciprofloxacin 0.3%/fluocinolone 0.025% 4 drops tid × 7d <mark style="color:blue;">\[세트락살 플러스]</mark>
 * ciprofloxacin 0.2%/hydrocortisone 1% 4 drops bid × 7d <mark style="color:blue;">\[싸이록사신]</mark>
 * neomycin/polymyxin-B/hydrocortisone 4 drops qid × 7d - 고막 천공 시 금기
-  * ✽neomycin 함유 제제는 반복 사용 시 접촉피부염(contact dermatitis)을 유발할 수 있다. 증상 개선 없이 소양증이 악화되면 neomycin 알레르기를 의심하고 fluoroquinolone 제제로 교체한다.
+  * neomycin 함유 제제는 반복 사용 시 접촉피부염(contact dermatitis)을 유발할 수 있음. 증상 개선 없이 소양증이 악화되면 neomycin 알레르기를 의심하고 fluoroquinolone 제제로 교체
 
 {% hint style="danger" %}
-⚠️ **고막 천공 시 절대 사용 금지 - 이독성 위험**
+**고막 천공 시 절대 사용 금지 - 이독성 위험**
 
-**사용 금지** : Aminoglycoside계 (gentamicin, tobramycin) · neomycin · polymyxin-B 함유 제제
-
-**주의** : ciprofloxacin/dexamethasone 복합제(실로덱스 등)는 fluoroquinolone 성분 자체는 안전하나, 혼합 현탁액의 낮은 pH로 인해 고막 천공 시 중이 점막 자극을 줄 수 있다. 천공이 확인된 경우 **ofloxacin 단일제**로 대체한다.
-
-**안전 대안** : ofloxacin 또는 ciprofloxacin 단일제 (FDA 승인 유일, 이독성 없음)
-
-고막 상태를 확인할 수 없거나 천공이 의심되는 모든 상황에서도 동일 원칙을 적용한다.
+* **사용 금지** : Aminoglycoside계 (gentamicin, tobramycin) · neomycin · polymyxin-B 함유 제제
+* **주의** : ciprofloxacin/dexamethasone 복합제(실로덱스 등)는 fluoroquinolone 성분 자체는 안전하나, 혼합 현탁액의 낮은 pH로 인해 고막 천공 시 중이 점막 자극을 줄 수 있다. 천공이 확인된 경우 ofloxacin 단일제로 대체한다.
+* **안전 대안** : ofloxacin 또는 ciprofloxacin 단일제 (FDA 승인 유일, 이독성 없음);&#x20;
+* 고막 상태를 확인할 수 없거나 천공이 의심되는 모든 상황에서도 동일 원칙을 적용한다.
 {% endhint %}
 
 ### <mark style="color:orange;">전신 항생제</mark>
 
-* 단순 미합병 OE에 전신 항생제는 원칙적으로 사용하지 않음 - 효과가 국소 치료보다 열등하고 내성 증가 및 재발·지속을 초래할 수 있음 (AAO-HNSF, AAFP 2023 가이드라인)
+* 단순 미합병 OE에 전신 항생제는 원칙적으로 사용하지 않음 - 효과가 국소 치료보다 열등하고 내성 증가 및 재발·지속을 초래할 수 있음&#x20;
 
-**적응증** (아래 중 하나 이상 해당 시)
+**적응증**&#x20;
 
 * 염증이 외이 밖으로 확장 : 발열, 주변 연조직염, 경부 림프절병증
 * 국소 약물 투여 불가(심한 협착, 환자 순응도 불량)
 * 면역저하자(당뇨, HIV, 항암치료 중)
 
-**처방 및 단계별 선택**
+#### <mark style="color:$primary;">처방 및 단계별 선택</mark>
 
-* **1단계** - 경구 : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> - _P. aeruginosa_ 커버; 합병증 없는 연조직 확장 시 1차
+**1단계**&#x20;
+
+* 경구 : ciprofloxacin 500 ㎎ bid × 7d <mark style="color:blue;">\[씨프로바이]</mark> - _P. aeruginosa_ 커버; 합병증 없는 연조직 확장 시 1차
   * _S. aureus_ 중심의 경증 furunculosis·단순 봉소염이 주된 경우에는 cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> 도 선택지이나, 그람(-) 커버가 불충분하므로 OE 관련 봉소염에서는 ciprofloxacin을 우선한다.
-* **보조** : cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> - _S. aureus_ (Furunculosis) 의심 시; 그람(-) 커버 불충분하므로 단독 사용 주의
-* **2단계** : 고용량 경구 또는 IV 전환
-  * 아래 중 하나라도 해당 시 즉시 의뢰 + 입원 고려
-    * 경구 ciprofloxacin 48\~72시간 무반응
-    * 당뇨 환자에서 혈당 조절 불량(HbA1c ≥9% 또는 입원 중 고혈당) + 골수염 의심
-    * Necrotizing OE 확인 또는 의심 : IV ciprofloxacin 또는 IV piperacillin/tazobactam으로 전환; 치료 기간은 보통 6주 이상(골수염 해소 영상 확인까지)
+* 보조 : cephalexin 500 ㎎ bid × 7d <mark style="color:blue;">\[팔렉신]</mark> - _S. aureus_ (Furunculosis) 의심 시; 그람(-) 커버 불충분하므로 단독 사용 주의
 
-### <mark style="color:orange;">균 배양 검사 적응증</mark>
+**2단계**&#x20;
 
-* **초기 미합병 OE에서 routine 배양은 불필요**
-* 아래 중 하나 이상 해당 시 시행 :
+* 고용량 경구 또는 IV 전환
+* 아래 중 하나라도 해당 시 즉시 의뢰 + 입원 고려
+  * 경구 ciprofloxacin 48\~72시간 무반응
+  * 당뇨 환자에서 혈당 조절 불량(HbA1c ≥9% 또는 입원 중 고혈당) + 골수염 의심
+  * Necrotizing OE 확인 또는 의심 : IV ciprofloxacin 또는 IV piperacillin/tazobactam으로 전환; 치료 기간은 보통 6주 이상(골수염 해소 영상 확인까지)
+
+#### <mark style="color:$primary;">균 배양 검사 적응증</mark>
+
+* 초기 미합병 OE에서 routine 배양은 불필요
+* 아래 중 하나 이상 해당 시 시행&#x20;
   * 재발성 OE (연 2회 이상)
   * 48\~72시간 치료 무반응
   * 면역저하자 (당뇨, HIV, 항암치료 중)
@@ -232,16 +231,18 @@ graph TD
 
 ### <mark style="color:orange;">항진균제</mark>
 
-* 진균 OE에서 국소 항균(항생제) 점이용제는 사용하지 않는 것이 원칙이다 — 효과 없고 진균 증식을 촉진할 수 있음
+* 진균 OE에서 국소 항생제는 원칙적으로 사용하지 않음 - 효과 없고 진균 증식을 촉진할 수 있음
 
-**국소** (1차)
+#### <mark style="color:$primary;">국소</mark>&#x20;
 
+* 1차
 * clotrimazole 1% 4 drops qid × 7\~14d <mark style="color:blue;">\[카네스텐 크림]</mark> (점안액 차용 - 보험 주의)
 * natamycin 점안액 <mark style="color:blue;">\[나타신]</mark>, nystatin, miconazole, amphotericin B
 * ✽시판 점이용 항진균제 없음 - 점안액 또는 크림 차용
 
-**경구** (중증·재발성·국소 치료 실패 시)
+#### <mark style="color:$primary;">경구</mark>&#x20;
 
+* 중증·재발성·국소 치료 실패 시
 * itraconazole 200 ㎎ qd × 1주 <mark style="color:blue;">\[스포라녹스]</mark> ☞ [백선증](/broken/pages/ec9aa636151402b11c93b3cadd33889a457862c8#undefined-10)
 
 ***
@@ -252,16 +253,16 @@ graph TD
     분비물·귀지 제거 후 <br/>약제 효과 극대화)</i>"]
     CLEAN --> A
 
-    A[면역저하 / 당뇨 여부] -- "예(고위험군)" --> B1["경증·중등증<br/>• 국소 항균/steroid 복합제 × 7~14일<br/>• Ear wick 고려<br/>• Necrotizing OE 배제(bone CT)<br/>• 48~72h 면밀 추적"]
-    B1 -- "48~72h 무반응<br/>또는 중증" --> B2["중증·무반응<br/>• 경구 quinolone × 7~10일<br/>• 즉시 의뢰 + IV 전환 고려"]
+    A[면역저하 / 당뇨 ?] -- "예(고위험군)" --> B1["<u>경증·중등증</u><br/>• 국소 항균/steroid 복합제 × 7~14일<br/>• Ear wick 고려<br/>• Necrotizing OE 배제(bone CT)<br/>• 48~72h 면밀 추적"]
+    B1 -- "48~72h 무반응<br/>또는 중증" --> B2["<u>중증·무반응</u><br/>• 경구 quinolone × 7~10일<br/>• 즉시 의뢰 + IV 전환 고려"]
     
     A -- "아니오" --> C[증상 수준]
 
-    C -- "경증<br/>(경미한 불편·소양증,<br/>외이도 부종 경미)" --> D["2% acetic acid 이용액<br/>± 국소 steroid<br/>× 5~7d"]
+    C -- "<u>경증</u><br/>(경미한 불편·소양증,<br/>외이도 부종 경미)" --> D["2% acetic acid 이용액<br/>± 국소 steroid<br/>× 5~7d"]
     
-    C -- "중등증<br/>(중등도 통증·소양증,<br/>외이도 부분 폐쇄)" --> E["국소 항균/steroid 복합제<br/>× 7d"]
+    C -- "<u>중등증</u><br/>(중등도 통증·소양증,<br/>외이도 부분 폐쇄)" --> E["국소 항균/steroid 복합제<br/>× 7d"]
     
-    C -- "중증<br/>(심한 통증, 외이도 완전폐쇄,<br/>발열·주변 발적·림프절병증)" --> F[외이 밖으로 염증 확장]
+    C -- "<u>중증</u><br/>(심한 통증, 외이도 완전폐쇄,<br/>발열·주변 발적·림프절병증)" --> F[외이 밖으로 염증 확장]
     
     F -- "예" --> G["• 국소 항균/steroid 복합제 × 7~14일<br/>• 경구 quinolone × 7~10일<br/>• Ear wick 필요 시"]
     F -- "아니오" --> H["• 국소 항균/steroid 복합제 × 7~14일<br/>• Ear wick 삽입"]
@@ -277,6 +278,8 @@ graph TD
         style START fill:#d5f5e3,stroke:#27ae60
         classDef yellow fill:#fff3cd,stroke:#f39c12
         class A,C,F yellow
+        classDef sky    fill:#d6eeff,stroke:#2196f3
+        class REF,I,J sky
 ```
 
 <p align="center"><strong>외이염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. Rosenfeld RM, et al. Otolaryngol Head Neck Surg. 2014;150(1 Suppl):S1-S24 (AAO-HNSF CPG: Acute OE Update); Jackson EA, et al. Am Fam Physician. 2023;107(2):145-151.</mark></em></p>
