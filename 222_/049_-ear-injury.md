@@ -2,15 +2,78 @@
 
 ***
 
-### <mark style="color:$danger;">**귀 손상 처치 - 절대 하면 안 되는 것**</mark>
+### <mark style="color:orange;">귀 손상 처치 - 절대 하면 안 되는 것</mark>
 
-| 금지 행위                          | 이유                                       |
-| ------------------------------ | ---------------------------------------- |
-| 원판(단추형) 배터리에 세척(irrigation) 시행 | 습기가 전기화학 반응을 가속시켜 조직 괴사 급속 진행            |
-| 고막 천공에 aminoglycoside 점이제 사용   | 내이 직접 노출 → 비가역적 감각신경성 난청                 |
-| 이물 제거 3회 이상 반복 시도              | 외이도 부종 악화 → 이후 제거 더 어려워짐                 |
-| 이개혈종 흡인 후 bolster 고정 생략        | dead space 잔존 → 높은 재발률 → cauliflower ear |
-| 바로트라우마 시 forceful Valsalva 반복  | 중이 과압 → 외림프 누공·고막 천공 위험                  |
+<table><thead><tr><th width="339.5555419921875">금지 행위</th><th>이유</th></tr></thead><tbody><tr><td>원판(단추형) 배터리에 세척(irrigation) 시행</td><td>습기가 전기 화학 반응을 가속시켜 조직 괴사 급속 진행</td></tr><tr><td>고막 천공에 aminoglycoside 점이제 사용</td><td>내이 직접 노출 → 비가역적 감각신경성 난청</td></tr><tr><td>이물 제거 3회 이상 반복 시도</td><td>외이도 부종 악화 → 이후 제거 더 어려워짐</td></tr><tr><td>이개혈종 흡인 후 bolster 고정 생략</td><td>dead space 잔존 → 높은 재발률 → cauliflower ear</td></tr><tr><td>바로 트라우마 시 forceful Valsalva 반복</td><td>중이 과압 → 외림프 누공·고막 천공 위험</td></tr></tbody></table>
+
+### <mark style="color:orange;">폭행·사고 관련 의심 시  기록</mark>
+
+* 혈종의 범위, 주변 피부 손상, 혈흔 상태 등 초진 소견을 상세히 기록하고 필요 시 사진 촬영 보관 (법적 분쟁 대비)
+* 다음 상황에서는 초진 시 아래 항목을 반드시 의무 기록에 기재하고 가능하면 사진 촬영·보관 (법적 분쟁 대비 초진 기록)
+  * 폭행·가정 폭력 의심 : 혈종 위치·범위, 주변 피부 손상, 혈흔 상태, 내원 경위 및 설명의 일치성
+  * 아동 이물 : 이물의 종류·위치, 보호자 진술, 반대쪽 귀·코 동반 이물 여부
+  * 직업성 소음성 난청 (NIHL) : 작업 환경·노출 기간·보호구 사용 여부, 기저 청력 검사 결과
+  * 단추형 배터리 손상 : 발견 시각, 배터리 종류·크기, 응급실 이송 시각, 조직 손상
+  * 다이빙·잠수 사고 : 잠수 깊이·시간, 상승 속도, 감압 절차 준수 여부, 동반 증상 발생 시각
+  * 고막 천공 (외상·폭행) : 천공의 위치(사분면: 전상/전하/후상/후하) 및 크기(고막 전체 면적 대비 % 또는 사분면 기술); 혈흔 유무; 이소골 이환 의심 여부
+  * 모든 귀 외상 (청력 평가) : 초진 시 음차 검사(Weber/Rinne) 결과 반드시 기록 - 영상 검사·PTA 시행 전이라도 전음성/감각신경성 구별의 법적 근거가 됨
+
+### <mark style="color:orange;">귀 응급 상황 골든타임</mark>&#x20;
+
+<table><thead><tr><th width="174">상황</th><th width="115">골든타임</th><th width="166">지연 시 결과</th><th width="211">핵심 주의</th></tr></thead><tbody><tr><td><strong>원판(단추형) 배터리</strong></td><td><strong>1시간 이내</strong></td><td>액화 괴사·조직 천공</td><td>절대 세척 금지, 즉시 응급실</td></tr><tr><td><strong>이개혈종</strong></td><td><strong>24시간 이내</strong></td><td>연골 섬유화 → cauliflower ear</td><td>흡인 후 반드시 압박 고정</td></tr><tr><td><strong>폭발음·급성 음향 외상</strong></td><td><strong>48시간 이내</strong></td><td>청력 회복 불가 (스테로이드 창 마감)</td><td>소음 환경 즉시 이탈</td></tr><tr><td><strong>외상성 고막 천공</strong></td><td><strong>24시간 이내</strong></td><td>2차 세균 감염·중이염</td><td>건조 유지, 귀 후비기 금지</td></tr></tbody></table>
+
+***
+
+### <mark style="color:orange;">어지럼증 동반 귀 외상 응급 감별</mark>
+
+1. 소리가 갑자기 안 들립니까?
+2. 귀에서 피가 났습니까?
+3. 얼굴 한쪽이 마비된 느낌이 있습니까?
+4. 코를 풀거나 힘줄 때 어지럼이 더 심해집니까?
+5. 머리를 특정 방향으로 돌릴 때만 빙글 돕니까?
+
+| 진단                          | 대표 병력                           | 핵심 증상              | 청력 변화             | 특징적 단서                                  | 응급도        |
+| --------------------------- | ------------------------------- | ------------------ | ----------------- | --------------------------------------- | ---------- |
+| **외림프 누공 (PLF)**            | 다이빙, 바로트라우마, blast, slap injury | vertigo + 오심 + 불균형 | 있음 (SNHL 흔함)      | Valsalva·압력 시 악화                        | 즉시 의뢰      |
+| **Labyrinthine concussion** | 둔기 두부 외상, 폭행, 낙상                | dizziness + 불균형    | 있음 (SNHL 가능)      | TM 정상 가능                                | 즉시 의뢰      |
+| **측두골 골절**                  | 주요 두부 외상                        | vertigo + 출혈       | 흔함                | facial palsy, Battle sign, hemotympanum | 즉시 의뢰      |
+| **외상성 고막 천공 (단순)**          | slap injury, 면봉                 | 일시적 어지럼 가능         | 경미한 conductive HL | 통증 → 출혈                                 | 외래 가능      |
+| **귀 압력 손상 (mild)**          | 비행 하강, 다이빙                      | 이충만감 + 경미한 어지럼     | 경미                | popping sensation                       | 경과 관찰      |
+| **급성 음향 외상**                | 폭발음, 사격                         | 이명 + 어지럼           | 있음                | 이경 검사 정상 가능                             | 조기 steroid |
+| **외상 후 BPPV**               | 두부 외상 후 수일                      | 체위 변화 시 회전성 어지럼    | 없음                | Dix-Hallpike 양성                         | 외래 가능      |
+| **CSF leak**                | 두개골 외상                          | 어지럼 + 맑은 이루        | 다양                | halo sign 양성                            | 즉시 의뢰      |
+
+***
+
+```mermaid
+flowchart TD
+    A([귀 외상 + 어지럼]) --> B[청력 저하 동반?]
+    B -->|Yes| C[Inner ear injury 의심]
+    C --> C1[외림프 누공 PLF]
+    C --> C2[Labyrinthine concussion]
+    C --> C3[급성 음향 외상]
+    C --> C4[측두골 골절]
+    C --> D[즉시 ENT / 응급실]
+    B -->|No| E[체위 변화 시만 발생?]
+    E -->|Yes| F[BPPV 가능성]
+    F --> G[Dix-Hallpike 검사]
+    E -->|No| H[두부 외상 심함?]
+    H -->|Yes| I[측두골 골절 배제]
+    I --> D
+    H -->|No| J[경증 바로트라우마<br/>또는 경과 관찰]
+    J --> K[외래 추적]
+
+    style A fill:#d5f5e3,stroke:#27ae60
+    style C fill:#ff9966,stroke:#cc5500
+    style D fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style K fill:#d6eeff,stroke:#2196f3
+    classDef yellow fill:#fff9c4,stroke:#f39c12
+    class B,E,H yellow
+    classDef pink fill:#fde8f0,stroke:#e91e8c
+class C1,C2,C3,C4,J,F pink
+```
+
+<p align="center"><strong>어지럼증 동반 귀 외상 감별 알고리듬</strong></p>
 
 ***
 
@@ -39,45 +102,25 @@
 * 흡인·압박 후 48\~72시간 내 추적 확인 (재발 여부)
 * 스포츠 복귀 시 귓바퀴 보호대(headgear) 착용 권고
 
-### <mark style="color:orange;">치료</mark>
+### <mark style="background-color:$warning;">Management</mark>
 
-* 단순 흡인만으로는 재발률이 \*\*90\~100%\*\*에 달함. 흡인 후 반드시 bolster 드레싱 또는 관통 봉합으로 연골-연골막을 밀착시켜 dead space를 제거하는 것이 cauliflower ear 예방의 핵심임
+* 단순 흡인만으로는 재발률이 90\~100%에 달함. 흡인 후 반드시 bolster 드레싱 또는 관통 봉합으로 연골-연골막을 밀착시켜 dead space를 제거하는 것이 cauliflower ear 예방의 핵심임
 
 **단계별 치료 절차**
 
 1. 흡인 : 18\~20G 주사기로 혈종 내용물 완전 흡인; 발생 후 가능한 한 빨리 시행할수록 예후 양호
 2. 압박 고정 : 흡인 후 즉시 볼스터 드레싱 또는 관통 봉합(through-and-through mattress suture)으로 연골-연골막 밀착; 거즈 또는 dental roll을 귀 앞뒤로 대고 봉합하는 bolster 방식이 가장 안정적
-3. 압박 유지 : 연골막과 연골이 완전히 유착될 때까지 **7\~10일간** 유지 — 조기 제거 시 재발 흔함; 압박 불충분 시 재발률 매우 높음
+3. 압박 유지 : 연골막과 연골이 완전히 유착될 때까지 7\~10일간 유지 - 조기 제거 시 재발 흔함; 압박 불충분 시 재발률 매우 높음
 4. 재평가 : 48\~72시간 후 재발 여부 확인; 재발 또는 혈종이 크고 굳기 시작한 경우 → 절개 배농으로 전환
 
-{% hint style="info" %}
-**흡인(needle aspiration) vs 절개 배농(incision and drainage)**
+**항생제**
 
-발생 48시간 이내이고 혈종이 작고 연성(fluctuant)이면 needle aspiration을 시도할 수 있으나, 다음 중 하나라도 해당되면 incision and drainage가 더 적절함:
+* 감염 징후 없으면 불필요; 절개 배농 후 연골 노출이 있거나 면역저하 환자에서는 예방적 항생제를 고려할 수 있으나 routine 투여는 권고되지 않음; anti-pseudomonal 제제 선택에 대해서도 합의되지 않음 (☞ [외이염](047_-otitis-externa.md))
 
-* 발생 후 48시간 이상 경과
-* 응고되어 단단한 혈종
-* 혈종이 크거나 재발성
-{% endhint %}
+**흡인 vs 절개 배농**
 
-* 항생제 : 감염 징후 없으면 불필요; 절개 배농 후 연골 노출이 있거나 면역저하 환자에서는 예방적 항생제를 고려할 수 있으나 routine 투여는 일관되게 권고되지 않음; anti-pseudomonal 제제 선택에 대해서도 consensus가 확립되어 있지 않음 (☞ [외이염](047_-otitis-externa.md))
-* 폭행·사고 관련 의심 시 : 혈종의 범위, 주변 피부 손상, 혈흔 상태 등 초진 소견을 상세히 기록하고 필요 시 사진 촬영 보관 (법적 분쟁 대비)
-
-{% hint style="info" %}
-**📋 Documentation pearls — 법적 분쟁 대비 초진 기록**
-
-다음 상황에서는 초진 시 아래 항목을 반드시 의무기록에 기재하고 가능하면 사진 촬영·보관:
-{% endhint %}
-
-| 상황                | 기록할 내용                                                                       |
-| ----------------- | ---------------------------------------------------------------------------- |
-| 폭행·가정폭력 의심        | 혈종 위치·범위, 주변 피부 손상, 혈흔 상태, 내원 경위 및 설명의 일치성                                   |
-| 아동 이물             | 이물의 종류·위치, 보호자 진술, 반대쪽 귀·코 동반 이물 여부                                          |
-| 직업성 소음성 난청 (NIHL) | 작업 환경·노출 기간·보호구 사용 여부, 기저 청력 검사 결과                                           |
-| 단추형 배터리 손상        | 발견 시각, 배터리 종류·크기, 응급실 이송 시각, 조직 손상 정도                                        |
-| 다이빙·잠수 사고         | 잠수 깊이·시간, 상승 속도, 감압 절차 준수 여부, 동반 증상 발생 시각                                    |
-| 고막 천공 (외상·폭행)     | 천공의 위치(사분면: 전상/전하/후상/후하) 및 크기(고막 전체 면적 대비 % 또는 사분면 기술); 혈흔 유무; 이소골 이환 의심 여부  |
-| 모든 귀 외상 (청력 평가)   | 초진 시 음차 검사(Weber/Rinne) 결과 반드시 기록 — 영상 검사·PTA 시행 전이라도 전음성/감각신경성 구별의 법적 근거가 됨 |
+* 발생 48시간 이내이고 혈종이 작고 연성(fluctuant)이면 흡인(needle aspiration)을 시도할 수 있으나, 다음 중 하나라도 해당되면 절개 배농(incision and drainage)이 더 적절함
+  * 발생 후 48시간 이상 경과, 응고되어 단단한 혈종, 혈종이 크거나 재발성
 
 ## <mark style="color:green;">동상 Frostbite</mark>
 
@@ -113,7 +156,7 @@
 * 검사 : 필요시 X선
 * 합병증 : 연골 감염, 흉터
 
-### <mark style="color:orange;">Management</mark>
+### <mark style="background-color:$warning;">Management</mark>
 
 * 제거 (필요시 국소 마취하에 시술)
 * 감염 동반 시 항생제 투여
@@ -125,39 +168,50 @@
 * 제거 후 고막·외이도 손상 여부 확인
 * 즉시 제거 필요 이물 : 원판 배터리(<4시간), 살아 있는 곤충, 귀 조직에 박힌 이물
 
-### <mark style="color:orange;">Management</mark>
+### <mark style="background-color:$warning;">Management</mark>
 
 * 작고 보이는 경우 : 포셉으로 제거 (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190628\&sno=3\&mtgMtrRegSno=0007))
 * 작고 고막 손상이 없는 경우 : 세척
 * 접착제(cyanoacrylate adhesive) : 외이도에 접촉하지 않도록 주의하면서 이물과 접촉 60초 유지 후 제거
 * 점이 항생제 : 외이도 손상 시 외이염에 사용되는 점이액 적용 (☞ [외이염](047_-otitis-externa.md))
 * 1\~2회 시도 후 실패하면 추가 시도를 중단하고 의뢰 - 반복 시도는 외이도 부종을 악화시켜 이후 제거를 더 어렵게 만듦
-* **원판(단추형) 배터리**
-  * 전기분해로 수산화칼륨(KOH) 등 강알칼리성 물질이 누출되어 액화 괴사를 일으키며, 수 시간 내 심각한 조직 괴사·천공 발생 가능
-  * \*\*특히 lithium coin battery (CR2032 등, ≥20㎜, 3V)\*\*는 전류가 강하여 조직 손상이 수십 분 내에도 발생할 수 있어 가장 위험
-  * 절대 세척(irrigation) 금지 - 습기가 닿으면 전기 화학 반응이 가속화됨
-  * 증상이 없어도 즉각 대응 - 관찰·대기 금지
-  * 발견 즉시 **금식(NPO) 상태**로 응급실 이송 — 소아에서 수면 마취 하 제거가 필요한 경우 대비; 가급적 1시간 이내 제거
-* **살아 있는 곤충** : 2% lidocaine 점이 또는 mineral oil로 마비·질식시킨 후 제거; lidocaine 점이는 mineral oil보다 빠르게 곤충을 마비시키고 통증 완화에도 효과적; **고막 천공이 의심되면 lidocaine 및 alcohol 사용 금기 — mineral oil을 우선 사용** (lidocaine·alcohol 모두 이독성 및 심한 통증 위험)
+
+**원판(단추형) 배터리**
+
+* 전기 분해로 수산화칼륨(KOH) 등 강알칼리성 물질이 누출되어 액화 괴사를 일으키며, 수 시간 내 심각한 조직 괴사·천공 발생 가능
+* 특히 lithium coin battery (CR2032 등, ≥20㎜, 3V)는 전류가 강하여 조직 손상이 수십 분 내에도 발생할 수 있어 가장 위험
+* 절대 세척(irrigation) 금지 - 습기가 닿으면 전기 화학 반응이 가속화됨
+* 증상이 없어도 즉각 대응 - 관찰·대기 금지
+* 발견 즉시 금식(NPO) 상태로 응급실 이송 (소아에서 수면 마취 하 제거가 필요한 경우 대비); 가급적 1시간 이내 제거
+
+**살아 있는 곤충**&#x20;
+
+* 2% lidocaine 점이 또는 mineral oil로 마비·질식시킨 후 제거
+  * lidocaine 점이는 mineral oil보다 빠르게 곤충을 마비시키고 통증 완화에도 효과적
+  * 고막 천공 의심 시 mineral oil 우선 사용; lidocaine 및 alcohol은 사용 금기 (lidocaine·alcohol 모두 이독성 및 심한 통증 위험)
+  * lidocaine이나mineral oil을 즉시 구할 수 없는 경우, 알코올 적신 솜을 외이도 입구에 위치하여 벌레를 마취하는 방법이 시도되기도 하나 근거는 확립되지 않음
 
 #### <mark style="color:$primary;">세척</mark>
 
 * 대상 : 작은 무기물, 곤충
-* 금기 : 고막 천공, 식물 소재 이물(콩 등 — 수분 흡수로 팽창), 원판 배터리
-* 방법 : 앉아서 고개를 30\~90° 뒤로 젖히거나 이환된 귀를 위쪽으로 향하게 누움 → 살아 있는 곤충은 먼저 죽임 → 체온 수준의 멸균수 또는 생리식염수를 20\~50 ㎖ 주사기에 채우고 14\~16G 플라스틱 카테터를 외이도 안쪽 1\~1.5 ㎝에 위치 → 외이도 후상부를 향하여 세척액 분사 → 이물 제거될 때까지 반복, 입구로 나온 이물 집어냄
+* 금기 : 고막 천공, 식물 소재 이물(콩 등 - 수분 흡수로 팽창), 원판 배터리
+* 방법 : 앉아서 고개를 30\~90° 뒤로 젖히거나 이환된 귀를 위쪽으로 향하게 누움 \
+  → 살아 있는 곤충은 죽임 \
+  → 체온 수준의 멸균수(생리식염수)를 14\~16G  플라스틱 카테터/20\~50 ㎖ 주사기에 담고 팁을 외이도 안쪽 1\~1.5 ㎝에 위치시키고 외이도 후상부를 향하여 분사 \
+  → 이물이 제거될 때까지 반복 → 입구로 나온 이물을 집어냄
 
 ### <mark style="color:orange;">외이도 이물 - 관리 알고리듬</mark>
 
 ```mermaid
 graph TD
-    Start["외이도 이물 확인"] --> RedFlags["즉시 의뢰 상황? <br> Red Flags?"]
+    Start(["외이도 이물 확인"]) --> RedFlags["즉시 의뢰 상황? <br> Red Flags?"]
 
-    RedFlags -- "Yes" --> Refer["🏥 이비인후과/응급실 <br> 즉시 의뢰"]
+    RedFlags -- "Yes" --> Refer["이비인후과/응급실 <br> 즉시 의뢰"]
     RedFlags -- "No" --> FBType["이물의 종류"]
 
-    FBType -- "살아있는 곤충" --> Insect["2% lidocaine 또는 mineral oil 점이 → 마비·질식 후 제거"]
-    FBType -- "식물성 이물 (콩·씨앗)" --> Vegetable["⚠️ 세척 절대 금지. <br>포셉으로 직접 제거 시도"]
-    FBType -- "기타 (구슬·장난감·무기물)" --> General["이물 위치·크기 평가<br>→ 적절한 기구 선택"]
+    FBType -- "<b>살아있는 곤충</b>" --> Insect["2% lidocaine 또는 mineral oil 점이 → 마비·질식 후 제거"]
+    FBType -- "<b>식물성 이물 (콩·씨앗)</b>" --> Vegetable["세척 절대 금지. <br>포셉으로 직접 제거 시도"]
+    FBType -- "<b>기타 (구슬·장난감·무기물)</b>" --> General["이물 위치·크기 평가<br>→ 적절한 기구 선택"]
 
     Insect --> Attempt["제거 용이성 평가<br>(가시성·크기·위치)"]
     Vegetable --> Attempt
@@ -171,9 +225,12 @@ graph TD
     Success -- "No (1~2회 실패)" --> Refer
     Success -- "Yes" --> FollowUp["외이도·고막 손상 확인<br>이차 감염 여부 관찰 후 귀가"]
 
-    style Start fill:#f0f4ff,stroke:#99aaff
-    style RedFlags fill:#ffe6e6,stroke:#ff4444,stroke-width:2px
-    style Refer fill:#ff9966,stroke:#cc3300,stroke-width:2px,color:#fff
+    style Start fill:#d5f5e3,stroke:#27ae60
+    classDef yellow fill:#fff9c4,stroke:#f39c12
+    class RedFlags,Success,Attempt yellow
+
+    style Refer fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style FollowUp fill:#d0e8ff,stroke:#1a6abf
 ```
 
 <p align="center"><strong>외이도 이물 처치 알고리듬</strong></p>
@@ -208,7 +265,7 @@ graph TD
 {% hint style="info" %}
 **귀에 이물이 들어갔을 때**
 
-귀에 이물(벌레, 구슬, 작은 장난감, 씨앗 등)이 들어가면 당황스럽지만, 당황하여 서두르다 더 심각한 손상이 생기는 경우가 많습니다. 가장 중요한 원칙은 \*\*'섣불리 건드리지 말고 즉시 병원에 오는 것'\*\*입니다.
+귀에 이물(벌레, 구슬, 작은 장난감, 씨앗 등)이 들어가면 당황스럽지만, 당황하여 서두르다 더 심각한 손상이 생기는 경우가 많습니다. 가장 중요한 원칙은 '섣불리 건드리지 말고 즉시 병원에 오는 것'입니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">🚫 귀에 이물이 들어갔을 때 절대 하지 말아야 할 것</mark>
@@ -255,7 +312,7 @@ graph TD
 * 증상 : 급성 통증(빠르게 감소), 혈성 분비물, 이명, 경증 전음성 난청
 * 경과 : 충격에 의해 찢어진 경우 합병증 없으면 수일\~수 주 내 자연 치유; central 손상이 가장자리 손상보다 자연 치유율 높음
 * 자연 치유율 저하 인자 : 가장자리 손상, 후상부 손상(이소골 이환 가능성), 이물에 의한 손상
-* **면봉·귀이개 등 이물에 의한 직접 찔림 손상**은 기압 손상(폭발음·귀 때리기)에 비해 이차 감염 및 영구 천공 위험이 높음 — 오염된 이물이 외이도 세균을 중이로 직접 유입시킬 수 있음
+* 면봉·귀이개 등 이물에 의한 직접 찔림 손상은 기압 손상(폭발음·귀 때리기)에 비해 이차 감염 및 영구 천공 위험이 높음 - 오염된 이물이 외이도 세균을 중이로 직접 유입시킬 수 있음
 
 ## <mark style="color:green;">검사</mark>
 
@@ -468,13 +525,12 @@ H72 고막의 천공
 {% hint style="danger" %}
 **pseudoephedrine 투여 금기 및 주의**
 
-다음에 해당하는 환자에서는 투여를 피하거나 각별히 주의:
-
-* 조절되지 않는 고혈압 (uncontrolled HTN)
-* 관상동맥질환 (CAD) / 부정맥
-* 전립선비대증 (BPH)
-* 폐쇄각 녹내장 (closed-angle glaucoma)
-* 갑상선기능항진증 (hyperthyroidism)
+다음에 해당하는 환자에서는 투여를 피하거나 각별히 주의:\
+• 조절되지 않는 고혈압 (uncontrolled HTN)\
+• 관상동맥질환 (CAD) / 부정맥\
+• 전립선비대증 (BPH)\
+• 폐쇄각 녹내장 (closed-angle glaucoma)\
+• 갑상선기능항진증 (hyperthyroidism)
 {% endhint %}
 
 **진통제**
@@ -484,8 +540,8 @@ H72 고막의 천공
 
 ### <mark style="color:orange;">수술</mark>
 
-* **Myringotomy** : 심한 이통, 청력 저하가 지속되는 경우 고려
-* **Ventilating tube 삽입** : 잦은 비행이 불가피한 경우 반복 발생 시 고려
+* Myringotomy : 심한 이통, 청력 저하가 지속되는 경우 고려
+* Ventilating tube 삽입 : 잦은 비행이 불가피한 경우 반복 발생 시 고려
 
 ***
 
@@ -608,9 +664,9 @@ T70.0 이염성 압력 손상
 * 급성 음향 외상 : 발생 후 가능한 한 빨리(이상적으로 24\~48시간 이내) 고용량 steroid 투여 - 치료 창(window)을 놓치지 않는 것이 중요
   * prednisolone 1 ㎎/㎏/d(최대 60 ㎎/d) × 7\~14d <mark style="color:blue;">\[소론도]</mark> → 이후 tapering
   * 고용량 steroid의 급성 NIHL 효과는 입증되어 있으나, 72시간 이후에는 효과가 불확실함
-  * 경구 steroid가 불가하거나(당뇨·소화성 궤양 등) 반응이 불충분한 경우, 또는 severe acute acoustic trauma에서는 **intratympanic steroid injection**을 이비인후과와 협의하여 rescue therapy로 고려할 수 있음
-* 가능한 한 조기에 \*\*순음청력검사(PTA)\*\*를 시행하여 baseline 청력 확보; 직업성 소음 노출자 또는 반복 노출 환자에서 추후 추적 비교를 위해 특히 중요
-* PTA 정상이나 소음 속 어음 구별 어려움 호소 시 → **소음 속 어음 분별력(speech-in-noise) 검사 고려** (숨겨진 난청 배제)
+  * 경구 steroid가 불가하거나(당뇨·소화성 궤양 등) 반응이 불충분한 경우, 또는 severe acute acoustic trauma에서는 intratympanic steroid injection을 이비인후과와 협의하여 rescue therapy로 고려할 수 있음
+* 가능한 한 조기에 순음청력검사(PTA)를 시행하여 baseline 청력 확보; 직업성 소음 노출자 또는 반복 노출 환자에서 추후 추적 비교를 위해 특히 중요
+* PTA 정상이나 소음 속 어음 구별 어려움 호소 시 → 소음 속 어음 분별력(speech-in-noise) 검사 고려 (숨겨진 난청 배제)
 * 음량 최소화 : 소음원에서 즉시 벗어나기
 * 만성 소음 노출 : 근본적 원인 제거(작업 환경 개선); 청력 보호구 착용
 
@@ -719,7 +775,7 @@ H83.3 내이의 소음 효과 (소음 유발성 청력 손실)
 
 ***
 
-## <mark style="color:red;">⏱️ 귀 응급상황 골든타임 Quick Reference</mark>
+## <mark style="color:red;">귀 응급상황 골든타임 Quick Reference</mark>
 
 <table><thead><tr><th width="174">상황</th><th width="115">골든타임</th><th width="166">지연 시 결과</th><th width="211">핵심 주의</th></tr></thead><tbody><tr><td><strong>원판(단추형) 배터리</strong></td><td><strong>1시간 이내</strong></td><td>액화 괴사·조직 천공</td><td>절대 세척 금지, 즉시 응급실</td></tr><tr><td><strong>이개혈종</strong></td><td><strong>24시간 이내</strong></td><td>연골 섬유화 → cauliflower ear</td><td>흡인 후 반드시 압박 고정</td></tr><tr><td><strong>폭발음·급성 음향 외상</strong></td><td><strong>48시간 이내</strong></td><td>청력 회복 불가 (스테로이드 창 마감)</td><td>소음 환경 즉시 이탈</td></tr><tr><td><strong>외상성 고막 천공</strong></td><td><strong>24시간 이내</strong></td><td>2차 세균 감염·중이염</td><td>건조 유지, 귀 후비기 금지</td></tr></tbody></table>
 
