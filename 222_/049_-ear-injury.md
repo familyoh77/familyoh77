@@ -61,7 +61,7 @@ flowchart TD
     H -->|Yes| I[측두골 골절 배제]
     I --> D
     H -->|No| J[경증 바로트라우마<br/>또는 경과 관찰]
-    J --> K[외래 추적]
+    J --> K([외래 추적])
 
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style C fill:#ff9966,stroke:#cc5500
@@ -224,7 +224,7 @@ graph TD
 
     Procedure --> Success["제거 성공?"]
     Success -- "No (1~2회 실패)" --> Refer
-    Success -- "Yes" --> FollowUp["외이도·고막 손상 확인<br>이차 감염 여부 관찰 후 귀가"]
+    Success -- "Yes" --> FollowUp(["외이도·고막 손상 확인<br>이차 감염 여부 관찰 후 귀가"])
 
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef yellow fill:#fff9c4,stroke:#f39c12
@@ -774,26 +774,6 @@ H83.3 내이의 소음 효과 (소음 유발성 청력 손실)
 
 ***
 
-## <mark style="color:red;">귀 응급상황 골든타임 Quick Reference</mark>
-
-<table><thead><tr><th width="174">상황</th><th width="115">골든타임</th><th width="166">지연 시 결과</th><th width="211">핵심 주의</th></tr></thead><tbody><tr><td><strong>원판(단추형) 배터리</strong></td><td><strong>1시간 이내</strong></td><td>액화 괴사·조직 천공</td><td>절대 세척 금지, 즉시 응급실</td></tr><tr><td><strong>이개혈종</strong></td><td><strong>24시간 이내</strong></td><td>연골 섬유화 → cauliflower ear</td><td>흡인 후 반드시 압박 고정</td></tr><tr><td><strong>폭발음·급성 음향 외상</strong></td><td><strong>48시간 이내</strong></td><td>청력 회복 불가 (스테로이드 창 마감)</td><td>소음 환경 즉시 이탈</td></tr><tr><td><strong>외상성 고막 천공</strong></td><td><strong>24시간 이내</strong></td><td>2차 세균 감염·중이염</td><td>건조 유지, 귀 후비기 금지</td></tr></tbody></table>
-
-***
-
-## ■ 어지럼증 동반 귀 외상 응급 감별
-
-### <mark style="color:$danger;">🔍 빠른 감별 질문</mark>
-
-1. 소리가 갑자기 안 들립니까?
-2. 귀에서 피가 났습니까?
-3. 얼굴 한쪽이 마비된 느낌이 있습니까?
-4. 코를 풀거나 힘줄 때 어지럼이 더 심해집니까?
-5. 머리를 특정 방향으로 돌릴 때만 빙글 돕니까?
-
-<table><thead><tr><th width="170">진단</th><th width="160">대표 병력</th><th width="160">핵심 증상</th><th width="110">청력 변화</th><th width="150">특징적 단서</th><th>응급도</th></tr></thead><tbody><tr><td><strong>외림프 누공 (PLF)</strong></td><td>다이빙, 바로트라우마, blast, slap injury</td><td>vertigo + 오심 + 불균형</td><td>있음 (SNHL 흔함)</td><td>Valsalva·압력 시 악화</td><td>🔴 즉시 ENT</td></tr><tr><td><strong>Labyrinthine concussion</strong></td><td>둔기 두부 외상, 폭행, 낙상</td><td>dizziness + 불균형</td><td>있음 (SNHL 가능)</td><td>TM 정상 가능</td><td>🔴 즉시 ENT</td></tr><tr><td><strong>측두골 골절</strong></td><td>주요 두부 외상</td><td>vertigo + 출혈</td><td>흔함</td><td>facial palsy, Battle sign, hemotympanum</td><td>🔴 응급실</td></tr><tr><td><strong>외상성 고막 천공 (단순)</strong></td><td>slap injury, 면봉</td><td>일시적 어지럼 가능</td><td>경미한 conductive HL</td><td>통증 → 출혈</td><td>🟡 외래 가능</td></tr><tr><td><strong>귀 압력 손상 (mild)</strong></td><td>비행 하강, 다이빙</td><td>이충만감 + 경미한 어지럼</td><td>경미</td><td>popping sensation</td><td>🟡 경과 관찰</td></tr><tr><td><strong>급성 음향 외상</strong></td><td>폭발음, 사격</td><td>이명 + 어지럼</td><td>있음</td><td>이경 검사 정상 가능</td><td>🔴 조기 steroid</td></tr><tr><td><strong>외상 후 BPPV</strong></td><td>두부 외상 후 수일</td><td>체위 변화 시 회전성 어지럼</td><td>없음</td><td>Dix-Hallpike 양성</td><td>🟡 외래 가능</td></tr><tr><td><strong>CSF leak</strong></td><td>두개골 외상</td><td>어지럼 + 맑은 이루</td><td>다양</td><td>halo sign 양성</td><td>🔴 응급실</td></tr></tbody></table>
-
-***
-
 ```mermaid
 flowchart TD
     A([귀 외상 + 어지럼]) --> B[청력 저하 동반?]
@@ -802,7 +782,7 @@ flowchart TD
     C --> C2[Labyrinthine concussion]
     C --> C3[급성 음향 외상]
     C --> C4[측두골 골절]
-    C --> D[즉시 ENT / 응급실]
+    C --> D[즉시 의뢰 / 응급실]
     B -->|No| E[체위 변화 시만 발생?]
     E -->|Yes| F[BPPV 가능성]
     F --> G[Dix-Hallpike 검사]
@@ -810,10 +790,10 @@ flowchart TD
     H -->|Yes| I[측두골 골절 배제]
     I --> D
     H -->|No| J[경증 바로트라우마<br/>또는 경과 관찰]
-    J --> K[외래 추적]
+    J --> K([외래 추적])
 
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style D fill:#ff9966,stroke:#cc3300,stroke-width:2px,color:#fff
+    style D fill:#ff6b6b,stroke:#c0392b,color:#fff
     style G fill:#e8f8e8,stroke:#4caf50
     style K fill:#d0e8ff,stroke:#1a6abf
     classDef yellow fill:#fff9c4,stroke:#f39c12
