@@ -774,8 +774,6 @@ H83.3 내이의 소음 효과 (소음 유발성 청력 손실)
 
 ***
 
-***
-
 ## <mark style="color:red;">귀 응급상황 골든타임 Quick Reference</mark>
 
 <table><thead><tr><th width="174">상황</th><th width="115">골든타임</th><th width="166">지연 시 결과</th><th width="211">핵심 주의</th></tr></thead><tbody><tr><td><strong>원판(단추형) 배터리</strong></td><td><strong>1시간 이내</strong></td><td>액화 괴사·조직 천공</td><td>절대 세척 금지, 즉시 응급실</td></tr><tr><td><strong>이개혈종</strong></td><td><strong>24시간 이내</strong></td><td>연골 섬유화 → cauliflower ear</td><td>흡인 후 반드시 압박 고정</td></tr><tr><td><strong>폭발음·급성 음향 외상</strong></td><td><strong>48시간 이내</strong></td><td>청력 회복 불가 (스테로이드 창 마감)</td><td>소음 환경 즉시 이탈</td></tr><tr><td><strong>외상성 고막 천공</strong></td><td><strong>24시간 이내</strong></td><td>2차 세균 감염·중이염</td><td>건조 유지, 귀 후비기 금지</td></tr></tbody></table>

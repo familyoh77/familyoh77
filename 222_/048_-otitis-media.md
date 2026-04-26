@@ -152,6 +152,7 @@ graph TD
     style MEE fill:#ff99ff,stroke:#cc00cc
     style OME fill:#bbf,stroke:#333
     style AOM fill:#ff9966,stroke:#cc5500
+    style Inflam fill:#fff9c4,stroke:#f39c12
 
     Inflam["급성 염증 소견?"]
     
@@ -347,16 +348,15 @@ graph TD
     Certainty -- "no" --> PatientFactor["[환자 요인]<br/>1. 항생제가 필요한 동반 질환<br/>2. 최근 항생제 복용 여부<br/>3. 2~3일 후 추적 관찰 불가"]
     PatientFactor -- "yes" --> Antibiotics
     PatientFactor -- "no" --> Otorrhea["이루 또는 천공"]
-    Otorrhea -- "no" --> Supportive(["항생제 투여 없는 대증 치료<br/>(2~3일 후 외래 예약)"])
+    Otorrhea -- "no" --> Supportive["항생제 투여 없는 대증 치료<br/>(2~3일 후 외래 예약)"]
     Supportive --> Improvement["증상 호전?"]
     Improvement -- "no" --> Antibiotics
-    Improvement -- "yes" --> Home(["보호자 교육 후 귀가"])
+    Improvement -- "yes" --> Home["보호자 교육 후 귀가"]
 
-    style Start fill:#d5f5e3,stroke:#27ae60
-    style Severity fill:#ff6b6b,stroke:#c0392b,color:#fff
-    
-    classDef sky fill:#d6eeff,stroke:#2196f3
-    class Antibiotics,Home,Supportive sky
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style Home fill:#d0e8ff,stroke:#1a6abf
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class Antibiotics,Supportive sky
 
     
 ```
@@ -399,7 +399,7 @@ classDef green fill:#d5f5e3,stroke:#27ae60
 class HOME,END green
 classDef yellow fill:#fff9c4,stroke:#f39c12
 class B,C,D,E,F,G,H,K yellow
-classDef sky fill:#d6eeff,stroke:#2196f3
+classDef sky fill:#e3f2ff,stroke:#2196f3
 class ABX,ABX2,ESC,OBS sky
 
 ```
@@ -629,7 +629,7 @@ graph TD
     Disappear -- no --> Risk
     
 style Start    fill:#d5f5e3,stroke:#27ae60
-classDef sky fill:#d6eeff,stroke:#2196f3
+classDef sky fill:#e3f2ff,stroke:#2196f3
 class Custom,Plan1,Plan2,Home sky
     
 ```
