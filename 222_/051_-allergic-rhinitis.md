@@ -23,7 +23,7 @@
 
 * **Seasonal** : 계절적 항원에 반응하여 매년 같은 시기에 발생
 * **Perennial** : 1년 내내 발생; 주로 실내 항원(집먼지진드기, 동물 비듬·털) 관련
-* **Local allergic rhinitis (LAR)** : 알레르기비염 병력이 의심되나 skin-prick test 음성, 혈중 IgE 증가 없음; non-atopy 환자에서 관찰되는 국소 IgE·eosinophil 매개 반응; 확진은 비강 유발 검사(Nasal Provocation Test, NPT) 양성으로 이루어지며, 시행은 알레르기내과·이비인후과 전문의에게 의뢰
+* **Local allergic rhinitis (LAR)** : 전신 감작(피부단자검사 음성, 혈중 특이 IgE 정상)은 없으나 비강 점막 내에서만 항원 특이 IgE가 국소 생성되어 eosinophil 매개 염증이 발생하는 상태; 임상 양상은 AR과 구별하기 어려움 — 치료 반응 불충분 시 반드시 감별 고려; 확진은 비강 유발 검사(Nasal Provocation Test, NPT) 양성으로 이루어지며 알레르기내과·이비인후과 의뢰 필요; ✽코 세척액 내 특이 IgE 측정이 진단 보조 수단으로 연구되고 있으나 아직 임상 표준화 단계는 아님
 * **혼합성 비염(Mixed Rhinitis)** : AR과 비-알레르기성 비염(NAR)이 혼재된 형태; 전체 비염 환자의 약 34\~50%를 차지하는 것으로 추정됨; 알레르겐 노출뿐 아니라 온도·습도 변화·자극 물질에도 반응 — 치료 반응이 불완전할 때 반드시 고려; 비내 steroid + 비내 항히스타민 병용이 필요한 경우 많음
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -40,14 +40,15 @@
 * 흡연 노출(특히 출생 후 첫 1년간 모성 흡연)
 * 항생제 조기 사용; 고형 음식·알레르겐 식품에 대한 조기·반복 노출; 실내 알레르겐 노출
 
-### <mark style="color:orange;">약물 유발성 비염 및 노인성 비염</mark>
+### <mark style="color:orange;">약물 관련 비염 (Drug-induced Rhinitis) 및 노인성 비염</mark>
 
-* **약물 유발성 비염(Rhinitis Medicamentosa)** — 다음 약제들이 비염 증상을 유발·악화시킬 수 있음; 고령 다약제 복용 환자에서 특히 주의
-  * **비내 혈관수축제** : oxymetazoline, xylometazoline 등 5일 이상 연속 사용 시 반동성 비충혈 — 가장 흔한 원인
-  * **항고혈압제** : beta-blocker (비충혈·코 막힘), ACE 억제제 (콧물·비강 자극), methyldopa, reserpine, hydralazine
-  * **아스피린·NSAIDs** : 아스피린 과민성 비염(AERD) — 비용종·천식 동반 3중 연관 (Samter's triad)
-  * **Alpha-blocker** (전립선 비대증 치료제) : tamsulosin 등 — 비강 혈관 확장으로 코 막힘 유발 가능
-  * **기타** : 경구 피임약, phosphodiesterase-5 억제제 (sildenafil 등)
+* **약물 관련 비염** — 다음 약제들이 비염 증상을 유발·악화시킬 수 있음; 고령 다약제 복용 환자에서 특히 주의; 치료 실패 또는 비전형 증상 시 복용 중인 약물 목록 전수 확인 권고
+  * **① Rhinitis Medicamentosa (협의)** : 비내 혈관수축제(oxymetazoline, xylometazoline 등) 5일 이상 연속 사용 시 반동성 비충혈 발생 — 가장 흔한 원인; 중단이 치료이나 일시적 악화로 순응도가 낮음
+  * **② 기타 약물에 의한 비강 증상** :
+    * **항고혈압제** : beta-blocker (비충혈·코 막힘), ACE 억제제 (콧물·비강 자극), methyldopa, reserpine, hydralazine
+    * **아스피린·NSAIDs** : 아스피린 과민성 비염(AERD) — 비용종·천식 동반 3중 연관; NSAID-exacerbated respiratory disease (NERD = AERD, formerly Samter's triad)
+    * **Alpha-blocker** (전립선 비대증 치료제) : tamsulosin 등 — 비강 혈관 확장으로 코 막힘 유발 가능
+    * **기타** : 경구 피임약, phosphodiesterase-5 억제제 (sildenafil 등)
 * **노인성 비염** — 고령에서 알레르기 감작 없이 발생하는 비-알레르기성 비염; 콧물이 주 증상(특히 식사 중 gustatory rhinitis); 점막 위축·건조성 비염 동반 흔함; 항히스타민제보다 비내 ipratropium이 더 효과적
 * ✽치료 실패 또는 비전형 증상 시 복용 중인 약물 목록 전수 확인 권고
 
@@ -100,6 +101,10 @@
 
 * 증상·병력·신체 검진 및 치료 반응으로 임상 진단
 
+### <mark style="color:orange;">AR vs 부비동염 vs 비용종 감별</mark>
+
+<table><thead><tr><th width="160">핵심 포인트</th><th width="190">알레르기비염</th><th width="190">급성/만성 부비동염</th><th>비용종</th></tr></thead><tbody><tr><td>대표 증상</td><td>재채기, 맑은 콧물, 코가려움, 코막힘</td><td>코막힘, 농성 콧물, 안면 통증/압박감</td><td>지속적 코막힘, 후각 저하</td></tr><tr><td>콧물 성상</td><td>맑고 수양성</td><td>누렇고 끈적한 purulent</td><td>많지 않거나 후비루</td></tr><tr><td>재채기</td><td>매우 흔함</td><td>드묾</td><td>드묾</td></tr><tr><td>코/눈 가려움</td><td>매우 특징적</td><td>거의 없음</td><td>없음</td></tr><tr><td>눈 증상</td><td>결막 가려움·눈물·충혈 흔함</td><td>드묾</td><td>없음</td></tr><tr><td>후각 저하</td><td>경미하거나 없음</td><td>가능</td><td>매우 흔함 (중요)</td></tr><tr><td>안면 통증</td><td>드묾</td><td>대표적</td><td>거의 없음</td></tr><tr><td>발열</td><td>없음</td><td>급성 세균성에서 가능</td><td>없음</td></tr><tr><td>증상 패턴</td><td>계절성/노출 관련, 반복적</td><td>감기 후 악화, 지속적</td><td>서서히 진행, 만성</td></tr><tr><td>악화 요인</td><td>꽃가루, 집먼지, 동물털</td><td>URI 이후, 치과질환</td><td>천식, NERD 동반</td></tr><tr><td>비내시경/진찰</td><td><strong>창백(Pale)</strong>하고 부종 있는 점막</td><td>충혈(Hyperemic), 농성 분비물</td><td>창백하고 반투명한 종물</td></tr><tr><td>편측 증상</td><td>드묾</td><td>가능</td><td>편측이면 🚩 red flag</td></tr><tr><td>반응 좋은 치료</td><td>INCS, 항히스타민제</td><td>생리식염수 + INCS ± 항생제</td><td>INCS ± 경구 스테로이드</td></tr><tr><td>Specialist 의뢰</td><td>불응성/면역치료 고려</td><td>반복 재발/합병증 의심</td><td>ENT 평가 거의 필요</td></tr></tbody></table>
+
 ### <mark style="color:orange;">검사</mark>
 
 * **Routine Lab** : 일반적으로 정상; 혈청 총 IgE는 환자의 약 1/3에서만 상승(비특이적)
@@ -119,71 +124,89 @@
 * **비내 corticosteroid가 1차 선택제** — 모든 코 증상(재채기·콧물·코막힘·가려움)에 가장 우수한 효과
   * Seasonal AR : 비내 steroid ± 비내 또는 경구 항히스타민
   * Perennial AR : 비내 steroid ± 비내 항히스타민
-* **중등증 이상에서는 초기부터 INS+INAH 복합제 우선 고려** — 단계적 step-up(단일제 추가)보다 초기부터 복합제를 선택하면 삶의 질 개선 속도가 유의미하게 빠름 (MUSE trial 등 RCT 근거); 기존 단일제 사용 환자가 증상 조절에 실패한 경우도 복합제로 전환 권고 \[최신 ARIA 권고 경향]; <mark style="color:blue;">\[딜라스틴 나잘]</mark>(fluticasone p.+azelastine), <mark style="color:blue;">\[리알트리스 나잘스프레이 액]</mark>(mometasone+olopatadine)
+* **중등증 이상에서는 초기부터 INS+INAH 복합제 우선 고려** — 단계적 step-up(단일제 추가)보다 초기부터 복합제를 선택하면 삶의 질 개선 속도가 유의미하게 빠름 (MUSE trial 등 RCT 근거); 기존 단일제 사용 환자가 증상 조절에 실패한 경우도 복합제로 전환 권고 \[최신 ARIA 권고 경향]; <mark style="color:blue;">\[딜라스틴 나잘]</mark>(fluticasone p.+azelastine), <mark style="color:blue;">\[리알트리스 나잘스프레이 액]</mark>(mometasone+olopatadine); ✽두 제제 모두 보험 급여 기준이 변경될 수 있으므로 처방 시점에 확인 필요
 * 알레르겐(꽃가루) 유행 **2주 전부터** 예방적 약물 치료 시작 시 증상 감소 효과
 * **Step-down 전략** : 증상이 잘 조절된 상태가 4주 이상 지속되면 약물 강도를 한 단계 낮춤 — 복합제 → 단일제, 또는 분무 횟수 절반, 또는 간헐적 사용으로 전환 고려; "언제까지 써야 하나요?" 질문에 미리 기준을 제시하면 순응도 향상
-* ✽**치료 실패 시 감별** : ① 약물 순응도 불량, ② 사용법 오류(분무 방향 등), ③ **혼합성 비염** 가능성(AR+NAR 혼재) — 혼합성 비염에서는 INS+INAH 병용이 단일제보다 더 필요; ④ **약물 유발성 비염** — 복용 중인 약물 목록 전수 확인(beta-blocker, ACE억제제, NSAIDs, 비내 혈관수축제); ⑤ 해부학적 이상, ⑥ 진단 재고(LAR, 비용종, 만성 부비동염)
+{% hint style="warning" %}
+**🔍 알레르기비염 치료 실패 TOP 7 — 반드시 확인하세요**
+
+1. **약물 순응도 불량** — 비내 스테로이드 효과는 2주 후부터; 조기 중단이 가장 흔한 실패 원인
+2. **분무 사용법 오류** — 비중격 방향 분사, 고개 과도하게 뒤로 젖힘, sniffing 너무 강함, 불규칙 사용
+3. **혼합성 비염(Mixed Rhinitis)** — AR+NAR 혼재; 단일제 효과 불충분 → INS+INAH 복합제 필요
+4. **약물 유발성 비염** — 복용 중인 약물 전수 확인 (beta-blocker, ACE억제제, NSAIDs, 비내 혈관수축제)
+5. **해부학적 이상** — 비중격 만곡, 비용종, 하비갑개 비대; 이비인후과 의뢰
+6. **진단 오류** — Local allergic rhinitis(LAR), 만성 부비동염, 혈관운동성 비염 재평가
+7. **수면무호흡증** — 코 막힘으로 오인; 수면 장애·주간 졸음 동반 시 의심
+{% endhint %}
 
 ### <mark style="color:orange;">중증도별 치료 방침</mark>
 
-<table><thead><tr><th width="180">중증도</th><th width="130">기본</th><th>옵션</th></tr></thead><tbody><tr><td>경증, 간헐적</td><td>비내 steroid</td><td>• 항히스타민제 (경구 or 비내)</td></tr><tr><td>경증~중등증</td><td>비내 steroid</td><td>• 코 막힘 : 비강 세척 or 코 울혈 제거제<br>• 콧물 : 비내 ipratropium or 항히스타민제<br>• 지속적인 코/안구 증상 : 항히스타민제 (경구 or 비내)</td></tr><tr><td>중증</td><td>비내 steroid</td><td>• 항히스타민제 (경구 or 비내)<br>• 항류코트리엔제<br>• 비내 cromolyn</td></tr><tr><td>중등증~중증, 지속적</td><td>비내 steroid</td><td>• 심한 코 막힘 : 경구 steroid 단기 (1~2주) or 비내 울혈 제거제 (4일 이내) or 항류코트리엔제<br>• 증상 호전 없음 : 면역 요법<br>• 구조적 이상 : 수술</td></tr></tbody></table>
+<table><thead><tr><th width="200">중증도</th><th width="260">1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증, 간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)<br>• 비내 스테로이드(INCS) 중 선택</td><td>코 막힘이 주 증상이면 INCS 우선; 안구 증상 동반 시 경구 항히스타민 선호</td></tr><tr><td>경증~중등증, 지속적</td><td>• INCS<br>• 또는 INCS + OAH/INAH 병용</td><td>콧물 지속 시 비내 ipratropium 추가; 코 막힘 심하면 단기 비내 혈관수축제 (≤4일)</td></tr><tr><td>중등증~중증</td><td>• INCS 또는<br>• INCS+INAH 복합제 <mark style="color:blue;">\[딜라스틴 나잘]</mark> <mark style="color:blue;">\[리알트리스 나잘스프레이 액]</mark></td><td>빠른 증상 조절이 필요하거나 단일제 실패 시 복합제 우선; 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증, 지속적 (불응성)</td><td>• INCS+INAH 복합제 우선<br>• 조절 불충분 시 아래 추가 고려</td><td>• 심한 코 막힘 : 경구 스테로이드 short burst (5~7일, specialist setting) or 비내 혈관수축제 단기<br>• 천식 동반·NERD·야간 증상 : LTRA 선택적 추가¹<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
+
+_1) LTRA(montelukast 등)는 routine 중증 옵션이 아님. 천식 동반, NERD, 야간 증상, 운동 유발 증상이 있는 경우 선택적으로 추가 고려. FDA 박스형 경고(신경정신계 부작용) 고려하여 처방 전 위험-이익 충분히 논의_
 
 ### <mark style="color:orange;">알레르기비염 치료 알고리듬</mark>
 
 ```mermaid
 graph TD
-    Start1([경증 비염]) --> AH[항히스타민제\nAH]
-    Start2([중등증/중증 비염]) --> INS[비내 스테로이드\nINS]
-    Start2 --> |심한 증상 시\n초기부터| Combo0[INS+INAH 복합제\n딜라스틴/리알트리스]
+    %% 초기 평가 및 분류
+    Start([진단: 알레르기비염]) --> Assess[중증도 및 동반 질환 평가\n천식·결막염·부비동염 확인]
 
-    AH <--> INS
+    Assess --> Mild[경증 / 간헐적]
+    Assess --> ModSev[중등증~중증 / 지속적]
 
-    INS --> Fail1{치료 실패}
+    %% 경증 치료 경로
+    Mild --> AH[경구 또는 비내 항히스타민제\n선택적 INCS 사용]
+
+    %% 중등증-중증 치료 경로
+    ModSev --> INS[비내 스테로이드\nINCS 단독]
+    ModSev --> |심한 증상 또는\n빠른 효과 원할 시| Combo0[INS+INAH 복합제\n딜라스틴 / 리알트리스]
+
+    %% 1차 치료 실패 시 공통 경로
     AH --> Fail1
+    INS --> Fail1
     Combo0 --> Fail1
-    Fail1 --> Check1[순응도·사용법 확인\n혼합성 비염 가능성?]
-    Check1 --> |혼합성 비염 의심| Combine[INS + INAH 복합제]
-    Check1 --> |순응도 문제| Combine
 
-    Combine --> Fail2{치료 실패}
-    Fail2 --> Check2[증상 재평가]
+    Fail1{1차 치료 실패\n2~4주 후 평가} --> Check1[순응도·사용법·진단 재고\n혼합성 비염 / 약물 유발성 확인]
 
-    Check2 --> Symptom1[수성 콧물]
-    Check2 --> Symptom2[가려움/재채기]
-    Check2 --> Symptom3[천식 동반]
-    Check2 --> Symptom4[심한 코 막힘]
+    Check1 --> |조절 불충분| Combine[INS + INAH 복합제 전환 또는 강화]
+
+    %% 세부 증상별 추가 전략
+    Combine --> Fail2{증상 지속 시\n우세 증상별 추가}
+
+    Fail2 --> Symptom1[수성 콧물 우세]
+    Fail2 --> Symptom2[가려움/재채기/안구]
+    Fail2 --> Symptom3[천식 동반 / 야간 증상]
+    Fail2 --> Symptom4[심한 코 막힘]
 
     Symptom1 --> Tx1[ipratropium 추가]
-    Symptom2 --> Tx2[경구 항히스타민으로 교체]
-    Symptom3 --> Tx3[LTRA 추가]
-    Symptom4 --> Tx4[단기 경구 steroid\nor 코 울혈 제거제]
+    Symptom2 --> Tx2[2세대 항히스타민 병용 또는 교체]
+    Symptom3 --> Tx3[LTRA 추가 고려]
+    Symptom4 --> Tx4[단기 경구 스테로이드\nor 비내 혈관수축제 ≤4일]
 
-    Tx1 --> Fail3{치료 실패}
-    Tx2 --> Fail3
-    Tx3 --> Fail3
-    Tx4 --> Fail3
+    %% 최종 단계 및 의뢰
+    Tx1 & Tx2 & Tx3 & Tx4 --> Fail3{불응성 비염}
 
-    Fail3 --> Cause1[감염/구조 문제?]
-    Fail3 --> Cause2[단일 알레르겐?\nLAR?]
-    Fail3 --> Cause3[지속성 염증?]
+    Fail3 --> Cause1[해부학적 / 구조적 이상]
+    Fail3 --> Cause2[단일 알레르겐 감작\nLAR 가능성]
+    Fail3 --> Cause3[만성 염증 / 비용종]
 
-    Cause1 --> Final1[이비인후과 의뢰\n수술 고려]
-    Cause2 --> Final2[면역 치료 고려\nNPT 의뢰]
-    Cause3 --> Final3[경구 steroid 단기\n추가 고려]
+    Cause1 --> Final1[이비인후과 의뢰\n수술적 치료 평가]
+    Cause2 --> Final2[면역 치료 고려\nSCIT / SLIT]
+    Cause3 --> Final3[전문가 정밀 재평가]
 
-    style Start1 fill:#f3f0f7,stroke:#d1c4e9
-    style Start2 fill:#f3f0f7,stroke:#d1c4e9
-    style Combo0 fill:#e8f5e9,stroke:#66bb6a
+    style Start fill:#f9f9f9,stroke:#333,stroke-width:2px
+    style Combo0 fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style Combine fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style Fail1 fill:#fff3e0,stroke:#ef6c00
+    style Fail2 fill:#fff3e0,stroke:#ef6c00
+    style Final1 fill:#ffebee,stroke:#c62828
+    style Final2 fill:#ffebee,stroke:#c62828
+    style Final3 fill:#ffebee,stroke:#c62828
     style Symptom1 fill:#fff9c4,stroke:#fbc02d
     style Symptom2 fill:#fff9c4,stroke:#fbc02d
     style Symptom3 fill:#fff9c4,stroke:#fbc02d
     style Symptom4 fill:#fff9c4,stroke:#fbc02d
-    style Cause1 fill:#ffebee,stroke:#ef9a9a
-    style Cause2 fill:#ffebee,stroke:#ef9a9a
-    style Cause3 fill:#ffebee,stroke:#ef9a9a
-    style AH fill:#e1f5fe,stroke:#81d4fa
-    style INS fill:#e1f5fe,stroke:#81d4fa
-    style Combine fill:#e1f5fe,stroke:#81d4fa
 ```
 
 ***
@@ -207,7 +230,7 @@ _1) 권고 수준 Grade A(충분한 근거). 2) 권고 수준 Grade D(전문가 
 * **방법** : 고개를 옆으로 뉘이고 위쪽 코에 따뜻한 등장성 생리식염수 **>100 ㎖**를 주입하여 아래쪽 코로 흘러나오게 함; 1일 1\~2회 시행
   * 세척액 제조 : 3분간 끓여 식힌 물 250 ㎖ + 소금 ½\~1 heaping teaspoon (3.5\~7 g); 1주일 경과한 세척액은 폐기
   * 기구 : 30 ㎖ 주사기, 플라스틱 squeeze 병, Neti pot; 2\~3주마다 교체·소독
-* ✽대한천식알레르기학회 : 대용량(200\~400 ㎖) 관류보다 등장성 용액 스프레이 방식 권고
+* ✽AR에서는 등장성 식염수 스프레이 방식과 대용량 관류(irrigation) 모두 사용 가능하며, 환자 순응도 및 선호도에 따라 선택; 만성 부비동염(CRS)에서는 고용량 관류가 선호됨; 일부 대한천식알레르기학회 자료에서는 스프레이 방식을 제시하였으나, 방식 간 우열보다는 꾸준한 시행 여부가 더 중요
 * ✽자일리톨 함유 비강 세척액(예: Xlear)과 히알루론산 첨가 세척액이 점막 수분 유지 및 항균 효과로 주목받고 있으나, 현재 AR에서의 임상적 이득은 소규모 연구 수준으로 근거가 확립되지 않음 — 일반 생리식염수로 충분
 
 ***
@@ -220,7 +243,9 @@ _1) 권고 수준 Grade A(충분한 근거). 2) 권고 수준 Grade D(전문가 
 
 ### <mark style="color:orange;">알레르기비염 치료제 효과 비교</mark>
 
-<table><thead><tr><th width="160">치료 제제</th><th width="70"></th><th width="70">재채기</th><th width="70">콧물</th><th width="70">코 막힘</th><th width="80">코가려움</th><th width="80">안구 증상</th></tr></thead><tbody><tr><td>steroid</td><td>비내</td><td>+++</td><td>+++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>항히스타민</td><td>비내</td><td>++</td><td>++</td><td>+</td><td>++</td><td>-</td></tr><tr><td></td><td>경구</td><td>++</td><td>++</td><td>+</td><td>+++</td><td>++</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+++</td></tr><tr><td>코 울혈 제거제</td><td>비내</td><td>-</td><td>-</td><td>++++</td><td>-</td><td>-</td></tr><tr><td></td><td>경구</td><td>-</td><td>-</td><td>+</td><td>-</td><td>-</td></tr><tr><td>Cromolyn</td><td>비내</td><td>+</td><td>+</td><td>+</td><td>+</td><td>-</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>++</td></tr><tr><td>항콜린제</td><td>비내</td><td>-</td><td>++</td><td>-</td><td>-</td><td>-</td></tr><tr><td>항류코트리엔</td><td>경구</td><td>-</td><td>+</td><td>++</td><td>-</td><td>++</td></tr><tr><td>식염수 코 세척</td><td></td><td>-</td><td>+</td><td>+</td><td>-</td><td>-</td></tr><tr><td>면역 치료</td><td></td><td>+</td><td>+</td><td>+</td><td>-</td><td>+</td></tr><tr><td>비내 steroid+비내 항히스타민</td><td></td><td>+++</td><td>+++</td><td>+++</td><td>+++</td><td>+++</td></tr></tbody></table>
+<table><thead><tr><th width="160">치료 제제</th><th width="70"></th><th width="70">재채기</th><th width="70">콧물</th><th width="70">코 막힘</th><th width="80">코가려움</th><th width="80">안구 증상</th></tr></thead><tbody><tr><td>steroid</td><td>비내</td><td>+++</td><td>+++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>항히스타민</td><td>비내</td><td>++</td><td>++</td><td>++¹</td><td>++</td><td>-</td></tr><tr><td></td><td>경구</td><td>++</td><td>++</td><td>+</td><td>+++</td><td>++</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+++</td></tr><tr><td>코 울혈 제거제</td><td>비내</td><td>-</td><td>-</td><td>++++</td><td>-</td><td>-</td></tr><tr><td></td><td>경구</td><td>-</td><td>-</td><td>+</td><td>-</td><td>-</td></tr><tr><td>Cromolyn</td><td>비내</td><td>+</td><td>+</td><td>+</td><td>+</td><td>-</td></tr><tr><td></td><td>점안</td><td>-</td><td>-</td><td>-</td><td>-</td><td>++</td></tr><tr><td>항콜린제</td><td>비내</td><td>-</td><td>++</td><td>-</td><td>-</td><td>-</td></tr><tr><td>항류코트리엔</td><td>경구</td><td>-</td><td>+</td><td>++</td><td>-</td><td>++</td></tr><tr><td>식염수 코 세척</td><td></td><td>-</td><td>+</td><td>+</td><td>-</td><td>-</td></tr><tr><td>면역 치료</td><td></td><td>+</td><td>+</td><td>+</td><td>-</td><td>+</td></tr><tr><td>비내 steroid+비내 항히스타민</td><td></td><td>+++</td><td>+++</td><td>+++</td><td>+++</td><td>+++</td></tr></tbody></table>
+
+_1) 비내 azelastine 등 최신 INAH는 코 막힘에 대해 경구 항히스타민제보다 우월하다는 연구 다수; 경구 항히스타민제 단독 대비 우위_
 
 <p align="center"><em><mark style="color:blue;">Ref. Treatment of Allergic Rhinitis. AFP 2010;81(12):1440–46. / BSACI guideline 2017.</mark></em></p>
 
@@ -233,7 +258,8 @@ _1) 권고 수준 Grade A(충분한 근거). 2) 권고 수준 Grade D(전문가 
 * **효과 발현** : 분무 후 **수 시간(3\~5시간) 이내에 효과가 시작**되며; 염증이 완전히 가라앉아 최대 효과에 도달하기까지는 **2주 이상** 매일 사용 필요; 치료 기간 중 50% 이상 투여해야 유의미한 효과
   * ✽환자 복약 지도 포인트 : "첫날부터 조금씩 효과가 시작되지만, 최대 효과를 보려면 2주가 걸립니다"라고 설명하면 초기 포기를 방지할 수 있음
 * 증상 완화에 따라 1주 간격으로 점진적 감량; 또는 4\~8주 매일 사용 후 분무 빈도를 반으로 줄여 유지
-* 제제 간 효과 차이 없음; 전신 흡수율·국소 자극·환자 선호도는 상이
+* 임상적으로 큰 효과 차이는 없으나, 일부 메타분석에서 fluticasone furoate / fluticasone propionate가 증상 조절 측면에서 다소 우수할 가능성이 제시됨; 전신 흡수율·국소 자극·환자 선호도는 제제마다 상이
+* ✽**소아·임산부 처방 시 전신 흡수율이 핵심 선택 기준** : budesonide(>10%)는 상대적으로 전신 영향 가능성이 높으므로, 소아 장기 처방 및 임산부에서는 mometasone furoate / fluticasone furoate(<0.1%)를 우선 선택; ciclesonide(<0.1%)도 선택지; triamcinolone, beclomethasone은 흡수율 데이터 불충분
 * 임신 중 사용 가능 (Category B/C); **mometasone, fluticasone** 임신 중 선호
 * **국소 부작용** : 코·목 자극, 코피, 코 마름, 쓴맛, 칸디다 증식(드묾)
 * **전신 부작용** : 유의미한 전신 영향 없음; 소아 장기 사용 시 최종 신장에 미치는 영향은 없는 것으로 알려져 있으나 성장 모니터링 권고
@@ -316,9 +342,16 @@ _\*비공 당 분무 횟수_\
 
 ### <mark style="color:orange;">항류코트리엔제 (Leukotriene Modifier)</mark>
 
+{% hint style="danger" %}
+⚠️ **FDA 박스형 경고 — Montelukast 신경정신계 이상반응**
+
+불안, 우울, 수면 장애, 공격성, 자살 충동 등 신경정신계 부작용이 보고됨. **소아·청소년, 불안·우울 병력 환자에서 특히 주의.** 경증 AR에서 routine first-line으로 사용하지 않으며, 처방 전 반드시 위험-이익을 환자(또는 보호자)와 충분히 논의할 것.
+{% endhint %}
+
 * **기전** : 알레르겐에 대한 초기·지연성 염증 반응 억제
 * **효과** : 경구 항히스타민제 대비 동등 이하; 지속적 AR 효과는 논란
   * 천식 동반 시 특히 유용 (one airway, one disease 개념)
+  * **코 막힘이 주된 증상**인 환자에서 항히스타민제보다 코 막힘 개선 효과가 우수할 수 있음 (항류코트리엔 효과 비교표 참조)
 * **병용** : 비내 steroid 또는 2세대 항히스타민제와 병용 시 단독보다 효과적이라는 보고 있으나 상승 효과는 불확실
 * **보험 기준** : 다른 약물 치료 실패 후 고려
 * **부작용** : 간 효소·빌리루빈 수치 상승, 불안, 우울; ✽**FDA 블랙박스 경고** — 자살 충동 등 정신 건강 부작용 위험; 처방 시 위험-이익 충분히 논의 필요
@@ -337,6 +370,8 @@ _\*비공 당 분무 횟수_\
 ### <mark style="color:orange;">면역 요법</mark>
 
 * **효과** : AR 장기적 증상 완화·예방 효과 입증; 원인 알레르겐에 대한 면역 내성 유도
+  * ✽**Allergic March 차단 효과** : 소아에서 조기 면역 치료는 비염 → 천식으로의 진행을 억제하는 질환 수식(disease modification) 효과가 입증됨 — 약물로 증상은 조절되나 중단 시 반복 재발하는 소아에서 특히 중요한 적응증
+* **적극 고려할 상황** : ① 약물 치료에도 증상이 지속되는 경우, ② 순응도 양호에도 조절 불충분, ③ 비교적 젊은 환자(장기 disease modification 기대), ④ HDM·꽃가루 등 단일 알레르겐이 명확히 동정된 경우, ⑤ 스테로이드 장기 사용을 피하고 싶은 경우, ⑥ 천식 동반 또는 천식으로 진행 예방이 필요한 경우
 * **대상** : 다른 치료에 반응하지 않거나 부작용으로 다른 치료 적용이 어려운 환자; 단일 알레르겐 감작 시 최적
 * **치료 기간** : 3\~5년; 중단 후에도 수년간 효과 지속
 * **투여 방법** : 피하주사 (SCIT), 설하 (SLIT), 비강
@@ -356,7 +391,7 @@ _\*비공 당 분무 횟수_\
 * 비-약물 치료(비강 세척) 우선 선택
 * 임신 첫 12주는 가급적 약물 치료 회피
 * 필요 시 안전성 등급 B 경구 항히스타민제 : chlorpheniramine, loratadine, cetirizine, levocetirizine
-* 비내 steroid : **mometasone, fluticasone furoate** 선호 (전신 흡수율 0.1\~1%로 최저)
+* 비내 steroid : **mometasone furoate, fluticasone furoate** 선호 (전신 흡수율 <0.1%로 최저); ✽역사적으로 안전성 데이터가 가장 풍부한 성분은 budesonide(FDA Category B)이므로 기존에 budesonide를 사용하던 환자에서 임신 중 유지도 합리적
 * montelukast : 동물 실험 안전성 입증; 임신 중 사용 고려 가능
 
 ### <mark style="color:orange;">수유 중</mark>
@@ -367,6 +402,16 @@ _\*비공 당 분무 횟수_\
 ***
 
 ## <mark style="color:green;">펌프식 스테로이드 코 분무제 사용법</mark>
+
+{% hint style="warning" %}
+**⚠️ 비내 분무 실수 TOP 5 — 치료 실패의 상당수가 technique 문제**
+
+1. **고개를 뒤로 젖힘** — 약이 목으로 넘어가 쓴맛 심해지고 순응도 저하; 고개는 15~30도 **숙여야** 함
+2. **비중격 방향으로 분사** — 코피·점막 손상 원인; 반드시 외측(눈 바깥쪽) 방향으로 기울일 것
+3. **분무 후 너무 세게 sniffing** — 약이 뒤로 흘러 흡수 감소; 천천히 들이마심
+4. **불규칙 사용 또는 증상 있을 때만 사용** — 유지 사용이 간헐적 사용보다 효과 우수
+5. **며칠 내에 포기** — 최대 효과 발현까지 2주 이상 소요; 초기 효과 미약해도 중단하지 말 것
+{% endhint %}
 
 1. 약 사용 전 코를 먼저 푼다.
 2. 마개를 벗기고 용기를 흔든다. 처음 사용 시 미세 안개가 나올 때까지 허공에 수회 분무한다.
@@ -520,6 +565,8 @@ J30.4 상세불명의 알레르기비염
 > | **합계 (최대 12점)** | |
 >
 > _✽TNSS(Total Nasal Symptom Score) 4점 이하: 경증, 5~8점: 중등증, 9점 이상: 중증. 첫 방문과 추적 방문 시 비교하면 치료 효과를 객관적으로 평가할 수 있습니다._
+>
+> _✽**VAS(Visual Analogue Scale)** : ARIA Next-generation 가이드라인에서는 0~10cm 선 위에 현재 증상 정도를 표시하는 VAS를 TNSS와 병행하도록 권장. 스마트폰 앱(예: **MASK-air**)을 활용한 실시간 일상 자가 모니터링도 적극 권장됨._
 
 ***
 
