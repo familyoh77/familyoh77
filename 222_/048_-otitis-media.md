@@ -375,13 +375,13 @@ A([급성 중이염 AOM 진단]) --> B[중증인가?]
 B -->|Yes| ABX[즉시 항생제 시작]
 B -->|No| C[6개월 미만인가?]
 C -->|Yes| ABX
-C -->|No| D[고막 천공 또는 이루가 있는가?]
+C -->|No| D[고막 천공 또는 <br/>이루가 있는가?]
 D -->|Yes| ABX
-D -->|No| E[면역저하/기저질환/와우이식/<br/> craniofacial anomaly?]
+D -->|No| E[면역저하/기저질환/<br/>와우이식/<br/> craniofacial anomaly?]
 E -->|Yes| ABX
 E -->|No| F[6~23개월 + 양측 AOM인가?]
 F -->|Yes| ABX
-F -->|No| G[48~72시간 추적 관찰 가능한가?]
+F -->|No| G[48~72시간 추적 관찰 <br/>가능한가?]
 G -->|No| ABX
 G -->|Yes| OBS[관찰 + 진통제<br/>delayed prescription 고려]
 OBS --> H[48~72시간 후 호전?]
@@ -394,9 +394,9 @@ J --> K[호전 없음?]
 K -->|Yes| ESC[Amox-clav 또는 Ceftriaxone 고려]
 K -->|No| END([치료 완료])
 
-    style A fill:#d5f5e3,stroke:#27ae60
-classDef green fill:#d5f5e3,stroke:#27ae60
-class HOME,END green
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class HOME,END blue
 classDef yellow fill:#fff9c4,stroke:#f39c12
 class B,C,D,E,F,G,H,K yellow
 classDef sky fill:#e3f2ff,stroke:#2196f3
@@ -610,7 +610,7 @@ graph TD
     Start(["삼출성 중이염 진단¹⁾"])
     Risk["고위험 인자²⁾"]
     Start --> Risk
-    Risk -- 있음 --> Custom["개인별 맞춤 치료"]
+    Risk -- 있음 --> Custom(["개인별 맞춤 치료"])
     Risk -- 없음 --> Irreversible["고막의 비가역적 변화<br/>또는 합병증 발생"]
     Irreversible -- 있음 --> Decision["의학적 상황, 발달 상태 및<br/>보호자의 선호도 고려"]
     Irreversible -- 없음 --> Target["청력검사 대상³⁾"]
@@ -622,13 +622,13 @@ graph TD
     Result1 --> Observation
     Result2 --> Decision
     Result3 --> Decision
-    Decision --> Plan1["청력검사를 포함한<br/>정기적 추적 관찰"]
-    Decision --> Plan2["수술적 치료 및<br/>정기적 추적 관찰"]
+    Decision --> Plan1(["청력검사를 포함한<br/>정기적 추적 관찰"])
+    Decision --> Plan2(["수술적 치료 및<br/>정기적 추적 관찰"])
     Observation --> Disappear["중이 삼출액 소실"]
-    Disappear -- yes --> Home["보호자 교육 후 귀가"]
+    Disappear -- yes --> Home(["보호자 교육 후 귀가"])
     Disappear -- no --> Risk
-    
-style Start    fill:#d5f5e3,stroke:#27ae60
+style Evaluation     fill:#e8f8e8,stroke:#4caf50
+style Start  fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class Custom,Plan1,Plan2,Home sky
     
