@@ -59,19 +59,21 @@
   * 중단이 치료이나 일시적 악화로 순응도가 낮음
 * **기타 약물에 의한 비강 증상**
   * **항고혈압제** : beta-blocker (비충혈·코 막힘), ACE 억제제 (콧물·비강 자극), methyldopa, reserpine, hydralazine
-  * **아스피린·NSAIDs** : 아스피린 또는 NSAIDs에 대한과민성 비염(AERD)
+  * **아스피린·NSAIDs** : 아스피린 또는 NSAIDs에 대한과민성 비염(NERD/AERD)
 * **Alpha-blocker** : 주로 전립선 비대증 치료에 사용되는 tamsulosin 등에 의한 비강 혈관 확장으로 코 막힘 유발 가능
 * **기타** : 경구 피임약, phosphodiesterase-5 억제제 (sildenafil 등)
 * 고령 다약제 복용 환자에서 특히 주의; 치료 실패 또는 비전형 증상 시 복용 중인 약물 목록 전수 확인 권고
 
-> **NERD / AERD** (NSAID or Aspirin-exacerbated respiratory disease)
->
-> * 아스피린 또는 NSAIDs를 복용한 후 기도 과민 반응이 유발되는 증후군으로 다음 3가지 질환이 함께 나타남(구 Samter's triad); ⓵  만성 비부비동염 + 비용종 (코 막힘, 후각 저하), ⓶ 천식 (기관지 과민), ⓷ 아스피린/NSAID 과민반응 (복용 후 수분\~수 시간 내 코 막힘, 천명, 호흡곤란 발생)
-> * 기전 : COX-1 억제 → 아라키돈산이 lipoxygenase 경로로 쏠림 → cysteinyl leukotriene 과잉 생산 → 비강 점막과 기관지의 강력한 염증·수축 반응 유발; LTRA가 치료에 유효
-> * 유병률이 낮지 않음 (천식 환자의 약 10\~20%, 비용종 환자에서 더 높음)
-> * COX-1 억제 계열 전체가 위험; COX-2 억제 계열은 대부분 안전하나 처음 사용 시 관찰을 요함
-> * acetaminophen은 비교적 안전하나 고용량(>1g)에서 발생 가능
-> * 비용종 환자나 천식 환자 내원 시 아스피린이나 소염 진통제 복용 후 코 막힘이 심해지거나 숨이 찬적이 있는지 확인
+{% hint style="info" %}
+**NERD / AERD** (NSAID or Aspirin-exacerbated respiratory disease)
+
+* 아스피린 또는 NSAIDs를 복용한 후 기도 과민 반응이 유발되는 증후군으로 다음 3가지 질환이 함께 나타남(구 Samter's triad); ⓵  만성 비부비동염 + 비용종 (코 막힘, 후각 저하), ⓶ 천식 (기관지 과민), ⓷ 아스피린/NSAID 과민반응 (복용 후 수분\~수 시간 내 코 막힘, 천명, 호흡곤란 발생)
+* 기전 : COX-1 억제 → 아라키돈산이 lipoxygenase 경로로 쏠림 → cysteinyl leukotriene 과잉 생산 → 비강 점막과 기관지의 강력한 염증·수축 반응 유발; LTRA가 치료에 유효
+* 유병률이 낮지 않음 (천식 환자의 약 10\~20%, 비용종 환자에서 더 높음)
+* COX-1 억제 계열 전체가 위험; COX-2 억제 계열은 대부분 안전하나 처음 사용 시 관찰을 요함
+* acetaminophen은 비교적 안전하나 고용량(>1g)에서 발생 가능
+* 비용종 환자나 천식 환자 내원 시 아스피린이나 소염 진통제 복용 후 코 막힘이 심해지거나 숨이 찬적이 있는지 확인
+{% endhint %}
 
 ### <mark style="color:red;">🚩</mark> <mark style="color:$danger;">Red Flags!</mark>
 
@@ -396,7 +398,7 @@ _\*비공 당 분무 횟수_\
 * 비-약물 치료(비강 세척) 우선 선택
 * 임신 첫 12주는 가급적 약물 치료 회피
 * 필요 시 안전성 등급 B 경구 항히스타민제 : chlorpheniramine, loratadine, cetirizine, levocetirizine
-* 비내 steroid : **mometasone furoate, fluticasone furoate** 선호 (전신 흡수율 <0.1%로 최저); ciclesonide도 선택지(<0.1%)&#x20;
+* 비내 steroid : mometasone furoate, fluticasone furoate 선호 (전신 흡수율 <0.1%로 최저); ciclesonide도 선택지(<0.1%)&#x20;
   * 역사적으로 안전성 데이터가 가장 풍부한 성분은 budesonide(FDA Category B)이므로 기존에 budesonide를 사용하던 환자에서 임신 중 유지도 합리적
 * montelukast : 동물 실험 안전성 입증; 임신 중 사용 고려 가능
 
