@@ -1,7 +1,5 @@
 # 구내염 Stomatitis
 
-![image](../.gitbook/assets/a3b1de49-2296-4417-a678-664eda8a7d3d.JPG)
-
 ## <mark style="color:green;">일반 사항</mark>
 
 * 입술, 잇몸, 혀, 볼, 구강 천정/바닥 등 입안 구조물 점막의 염증
@@ -117,7 +115,7 @@
 
 ### <mark style="color:orange;">원인</mark>
 
-* HSV-1(대부분), HSV-2(일부) (☞ [헤르페스 바이러스 감염](헤르페스-감염.md))
+* HSV-1(대부분), HSV-2(일부) (☞ [헤르페스 바이러스 감염](%ED%97%A4%EB%A5%B4%ED%8E%98%EC%8A%A4-%EA%B0%90%EC%97%BC.md))
 
 ### <mark style="color:orange;">초감염</mark>
 
@@ -157,13 +155,13 @@
 
 구강 내 궤양이 1년 동안 ≥3번 재발하며 다음 4가지 중 ≥2개 해당 시 진단 :
 
-① 반복적인 생식기 궤양
+⓵ 반복적인 생식기 궤양
 
-② 눈의 병소 : uveitis, retinal vasculitis
+⓶ 눈의 병소 : uveitis, retinal vasculitis
 
-③ 사춘기 이후 steroid로 치료되지 않는 피부 병변 : erythema nodosum, pseudofolliculitis, papulopustular lesion, acneiform nodule
+⓷ 사춘기 이후 steroid로 치료되지 않는 피부 병변 : erythema nodosum, pseudofolliculitis, papulopustular lesion, acneiform nodule
 
-④ pathergy test 양성 : forearm과 back에 식염수 0.1 ㎖를 주입하거나 소독된 바늘로 찌르고 24\~48시간 후에 지름 ＞2 ㎜의 구진 또는 농포 형성
+⓸ pathergy test 양성 : forearm과 back에 식염수 0.1 ㎖를 주입하거나 소독된 바늘로 찌르고 24\~48시간 후에 지름 ＞2 ㎜의 구진 또는 농포 형성
 
 ✽확진을 위한 실험실 검사 방법은 없음; 의심 시 류마티스내과 의뢰
 
@@ -203,12 +201,12 @@
 * 좋은 영양 섭취, 좋은 구강 위생, 외상 주의
 * 아형별 치료 전략 상이 — 특히 헤르페스성은 스테로이드 금기(바이러스 전파 촉진)
 
-## <mark style="color:green;">생활 요법 및 비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료</mark>
 
 * 금연
 * 유동식, 차가운 음식/음료 섭취(예: 아이스크림), 얼음 물고 있기
 * 피할 음식 : 자극적 음식(매운맛·신맛·뜨거운 것), 단단한/거친 음식(스낵, 견과류)
-* 치과 문제 치료 — 날카로운 치아 모서리, 맞지 않는 틀니 교정
+* 치과 문제 치료 - 날카로운 치아 모서리, 맞지 않는 틀니 교정
 * 구강 위생 개선 : 올바른 칫솔질, 치실 사용\
   ✽치실의 효과에 대하여 논란이 있음
 * 가글 또는 린스 (일부 연구에서 치유 촉진, 재발 예방)
@@ -286,7 +284,7 @@
 
 * 대부분의 성인에서는 증상이 가볍고 짧은 경과로 중재가 필요하지 않음
 * 면역저하자에서는 증상이 심하고 빈번하게 재발할 수 있음
-* **steroid는 바이러스의 전파를 촉진시키므로 금기**
+* steroid는 바이러스의 전파를 촉진시키므로 금기
 
 #### <mark style="color:$primary;">항바이러스제</mark>
 
