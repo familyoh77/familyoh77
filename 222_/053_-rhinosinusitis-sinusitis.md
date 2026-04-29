@@ -396,18 +396,18 @@ graph TD
     Start --> B4to12["4~12주"]
     Start --> GT12["≥12주"]
 
-    LT4 --> ARS_C{ARS 기준 충족?}
-    ARS_C -- No --> Viral_URI[Viral URI\n대증 치료]
-    ARS_C -- Yes --> ABRS_C{ABRS 기준 충족?}
+    LT4 --> ARS_C[ARS 기준 충족?]
+    ARS_C -- No --> Viral_URI[Viral URI<br/>대증 치료]
+    ARS_C -- Yes --> ABRS_C[ABRS 기준 충족?]
 
-    ABRS_C -- No --> Viral_ARS[Viral ARS\n대증 치료]
+    ABRS_C -- No --> Viral_ARS[Viral ARS<br/>대증 치료]
     ABRS_C -- Yes --> ABRS[ABRS]
 
-    ABRS --> Comp_1{합병증 의심?}
+    ABRS --> Comp_1[합병증 의심?]
     Comp_1 -- Yes --> Imaging[영상 검사]
     Comp_1 -- No --> ABRS_Tx[ABRS 치료]
 
-    Imaging --> Comp_2{합병증 확인?}
+    Imaging --> Comp_2[합병증 확인?]
     Comp_2 -- Yes --> Comp_Tx[합병증 + ABRS 치료]
     Comp_2 -- No --> ABRS_Tx
 
@@ -416,40 +416,47 @@ graph TD
     Watch_Abx --> Abx[항생제 치료]
 
     Watch --> Follow[추적 관찰]
-    Follow --> Fail_1{치료 실패?}
+    Follow --> Fail_1[치료 실패?]
     Fail_1 -- Yes --> Abx
     Fail_1 -- No --> Success
 
-    Abx --> Amox["Amoxicillin ± clavulanate\n(Pc 알레르기 시: doxycycline 또는 respiratory quinolone)"]
-    Amox --> Fail_2{치료 실패?}
+    Abx --> Amox["Amoxicillin ± clavulanate<br/>(Pc 알레르기 시: doxycycline 또는 respiratory quinolone)"]
+    Amox --> Fail_2[치료 실패?]
     Amox --> Success[치료 성공]
 
-    Success --> Recur{재발?}
+    Success --> Recur[재발?]
     Recur -- No --> End[치료 종료]
     Recur -- Yes --> Eval_C
 
     Fail_2 -- Yes --> Other_Rule[합병증 및 다른 원인 배제]
 
-    B4to12 --> Subacute["Subacute sinusitis\n(ARS 또는 CRS처럼 임상 판단)"]
+    B4to12 --> Subacute["Subacute sinusitis<br/>(ARS 또는 CRS처럼 임상 판단)"]
 
-    GT12 --> CRS_S{CRS 징후?}
+    GT12 --> CRS_S[CRS 징후?]
     CRS_S -- No --> Not_CRS[Not CRS]
-    CRS_S -- Yes --> Inflam_E{염증 증거?}
+    CRS_S -- Yes --> Inflam_E[염증 증거?]
 
     Inflam_E -- No --> Not_CRS
     Inflam_E -- Yes --> CRS[CRS]
 
     CRS --> Polyp[Nasal polyp 유무 확인]
-    Polyp --> Saline["비강 세척 + 비내 스테로이드\n(항진균제 사용 안 함)"]
+    Polyp --> Saline["비강 세척 + 비내 스테로이드<br/>(항진균제 사용 안 함)"]
     Saline --> Eval_C[만성 상태 평가]
 
     Eval_C --> Eval_IM[알레르기 및 면역 평가]
     Eval_IM --> Final_Tx[내과적 또는 외과적 치료]
 
-    style Start fill:#f9f9f9,stroke:#333
-    style ABRS fill:#ffe6e6,stroke:#ff9999
-    style CRS fill:#ffe6e6,stroke:#ff9999
-    style Comp_Tx fill:#ff9966,stroke:#cc3300,color:#fff
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef orange fill:#fdebd0,stroke:#e67e22
+    class LT4,B4to12,GT12 orange
+    classDef yellow fill:#fff9c4,stroke:#f39c12
+    class ARS_C,ABRS_C,Comp_1,Comp_2,Fail_1,Fail_2,Recur,CRS_S,Inflam_E yellow
+    classDef pink fill:#fde8f0,stroke:#e91e8c
+    class ABRS,CRS,Not_CRS,Subacute pink
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class Viral_ARS,ABRS_Tx,Comp_Tx,Viral_URI,Final_Tx,Other_Rule sky
+    style End fill:#d0e8ff,stroke:#1a6abf
+    
 ```
 
 <p align="center"><strong>비부비동염 관리 알고리듬</strong><br><em>Ref. AAO/HNSF Clinical Practice Guideline: Adult Sinusitis, 2015</em></p>
