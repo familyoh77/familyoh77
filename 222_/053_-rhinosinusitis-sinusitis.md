@@ -8,7 +8,7 @@
 
 ### <mark style="color:orange;">분류</mark>
 
-<table><thead><tr><th width="230">분류</th><th width="160">기간</th><th>특이사항</th></tr></thead><tbody><tr><td>Acute rhinosinusitis (ARS)</td><td>＜4주</td><td></td></tr><tr><td>Subacute rhinosinusitis</td><td>4~12주</td><td></td></tr><tr><td>Chronic rhinosinusitis (CRS)</td><td>＞12주</td><td></td></tr><tr><td>Recurrent acute rhinosinusitis (RARS)</td><td>반복 발생</td><td>≥4회/년; 각 episode 사이 무증상 (AAAAI 기준)</td></tr><tr><td>Acute bacterial rhinosinusitis (ABRS)</td><td>＞10일, ＜12주</td><td>AAAAI 세균 감염 기준; RARS는 ≥7일 episode ≥3회/년</td></tr></tbody></table>
+<table><thead><tr><th width="230">분류</th><th width="160">기간</th><th>특이사항</th></tr></thead><tbody><tr><td>Acute rhinosinusitis (ARS)</td><td>＜4주</td><td></td></tr><tr><td>Subacute rhinosinusitis</td><td>4~12주</td><td></td></tr><tr><td>Chronic rhinosinusitis (CRS)</td><td>＞12주</td><td></td></tr><tr><td>Recurrent acute rhinosinusitis (RARS)</td><td>반복 발생</td><td>≥4회/년; 각 episode 사이 무증상 (AAAAI 기준)</td></tr><tr><td>Acute bacterial rhinosinusitis (ABRS)</td><td>ARS(&lt;4주) 중 bacterial criteria 충족</td><td>① ≥10일 지속 without improvement ② severe onset (≥39℃ + 농성 비루 3~4일 이상) ③ double worsening 중 하나 이상 해당; RARS는 ≥7일 episode ≥3회/년</td></tr></tbody></table>
 
 ---
 
@@ -21,7 +21,8 @@
 ### <mark style="color:orange;">원인균</mark>
 
 * **바이러스** (대부분) : rhinovirus, adenovirus, influenza virus, parainfluenza virus
-* **세균** (ARS의 ＜2%) : *Streptococcus pneumoniae*, *Haemophilus influenzae*, *Staphylococcus aureus*, *Moraxella catarrhalis*, 혐기성균
+* **세균** (Viral URI 중 약 0.5~2%에서 ABRS로 진행) : *Streptococcus pneumoniae*, *Haemophilus influenzae*, *Moraxella catarrhalis*
+  * ✽ *S. aureus*는 uncomplicated community ABRS의 routine pathogen이 아님 — CRS, 수술 후 상태, 의료 관련 감염, 면역저하 시 고려
   * ✽ 최근 *H. influenzae* 비율 증가 추세 — β-lactamase 생성 내성주 고려 필요
 * **곰팡이** : 면역저하자에서 주로 발생; *Aspergillus* spp., *Mucor* spp.
 
@@ -45,6 +46,7 @@
 
 <mark style="color:$warning;">**당일 또는 조기 재평가·의뢰**</mark>
 
+* **편측 증상 지속** : 편측 코 막힘·편측 출혈·편측 분비물이 치료에 반응하지 않거나 지속되는 경우 — 종양 가능성 배제 필요 (neoplasm until proven otherwise)
 * 적절한 항생제 치료(1차 및 2차) 후에도 반응하지 않는 경우
 * **면역저하자** : 조절되지 않는 당뇨, 장기 이식, HIV, 스테로이드 장기 복용 — 침습성 진균성 비부비동염 배제 필요
 * **수술 적응증 의심** : 중증 비용종, mucocele/mucopyocele, 폐쇄성 종양
@@ -73,7 +75,7 @@
 
 1. 농성 콧물·코 막힘·안면 압통 등 ARS 증상이 호전 없이 **≥10일 지속**
 2. 발병 초기부터 최소 **3~4일 연속** 심한 증상 지속 : 발열(≥39℃) + 농성 콧물 + 얼굴 통증
-3. 초기 증상 호전 후 **10일 내 증상 재악화('double worsening')**
+3. 초기 증상 호전 후 **10일 내 증상 재악화('double worsening')** — 통상 바이러스 감염 후 **5~6일째 일시 호전**되었다가 다시 악화되는 이봉성(二峯性) 양상
 
 > ⚠️ **초록색 콧물 ≠ 세균 감염**\
 > 콧물 색깔로 바이러스/세균을 감별할 수 없음. 초록색 농성 분비물은 호중구의 myeloperoxidase에 의한 것으로 바이러스 감염에서도 흔히 나타남. **10일 기준과 임상 중증도**로 세균 감염 여부를 판단해야 함.
@@ -114,7 +116,7 @@
 **코 분비물**
 
 * **편측** 발생 → 비부비동염 가능성 낮음; 이물질·종양·치성 부비동염 고려
-* 색깔 : 맑음(비감염), 노란색(알레르기/감염), 초록색(감염) — 단, 색깔만으로 원인 감별 불가
+* 색깔 : 맑음·노란색·초록색 모두 바이러스/세균 감염에서 나타날 수 있음 — **색깔만으로 원인 감별 불가**
 * **혈흔 동반** : 편측(종양·이물·코 후빔), 양측(육아종증·출혈 경향·코 후빔)
 
 **코 막힘**
@@ -147,7 +149,7 @@
 
 * **대부분 대증 치료로 회복** — 항생제는 선택적 적용
   * 항생제는 단지 5%의 환자에서만 증상 기간을 단축시키며, 부작용 발생은 위약의 약 2배
-  * 세균 감염 의심 시에도 **7~10일 주의 관찰(watchful waiting)** 후 호전 없으면 항생제 투여 가능
+  * 증상 발생 후 **10일 미만이고 경증**이면 주의 관찰 — ABRS 기준(≥10일 지속·severe onset·double worsening) 충족 시 항생제 투여 고려
 * **대증 치료** : 진통제, 비내 스테로이드, 식염수 비강 세척
 * **동반 질환 치료** : 알레르기비염, 당뇨
 * 합병증 없이 치료된 비부비동염에 대한 추가 평가는 불필요
@@ -171,8 +173,9 @@
 
 * **비내 스테로이드** : 알레르기비염 동반 시 유효; ABRS에서도 증상 완화에 도움; ＞12세에서 고용량 고려
   * [나리타점비액] budesonide, [나조넥스나잘] mometasone (☞ [알레르기비염](051_-allergic-rhinitis.md#steroid))
-* **경구 스테로이드** : 제한적 사용
-  * [소론도] prednisolone 5~60 ㎎/d, [메치론] methylprednisolone 4~48 ㎎/d
+* **경구 스테로이드** : ABRS에서 routine 사용 **권장되지 않음**
+  * 심한 안면 통증·심한 점막 부종이 있고 전문의 지시 하에 단기(≤3일) 제한적 고려
+  * [소론도] prednisolone 20~30 ㎎/d 단기; CRS 악화 시 치료 기준은 CRS 섹션 참조
 
 ### <mark style="color:orange;">항히스타민제</mark>
 
@@ -198,7 +201,7 @@
 
 * **대부분 항생제 투여 불필요** — ABRS 기준 충족 시 선택적 적용
 * macrolide(azithromycin, clarithromycin), TMP/SMX, 2/3세대 세파계 : 내성 가능성으로 경험적 치료로는 **권장하지 않음**
-* **투여 기간** : 성인 **5일** (합병증 없는 경증~중등도 ABRS — 최신 가이드라인은 5일 요법이 10일과 동등 효과임을 강조하며 기간 단축 권고); 중증 또는 합병증 위험군 7~10일; 소아 10~14일
+* **투여 기간** : 성인 **5일** (합병증 없는 경증~중등도 ABRS — 최신 가이드라인은 5일 요법이 10일과 동등 효과임을 강조하며 기간 단축 권고); **7~10일** 고려 상황 — 중증 또는 합병증 위험군, ≥65세, 최근 1달 내 항생제 복용력; 소아 10~14일
 * 투여 시작 **2~3일 후 악화** 또는 **3~5일 내 호전 없으면** 변경 고려
 * ✽ **Doxycycline의 위상 상향 (IDSA 기준)** : Penicillin 알레르기 환자에서 doxycycline이 1차 대체제로 권고 등급이 높아짐 (기존 fluoroquinolone 우선에서 doxycycline과 동등 또는 우선으로 조정); 내성률이 낮고 혐기성균 커버 가능; 200 ㎎ 1일 후 100 ㎎ qd ×4일 (총 5일)
 
@@ -210,10 +213,11 @@
 
 #### 항생제 선택 (대한감염학회 지침, 2017)
 
-<table><thead><tr><th width="130">구분</th><th width="200">약물</th><th>용량</th></tr></thead><tbody><tr><td>1차 선택</td><td>[파목신] amoxicillin</td><td>500~875 ㎎ bid</td></tr><tr><td>1차 선택</td><td>[오구멘틴] amoxicillin/clavulanate</td><td>500 ㎎ tid 또는 875 ㎎ bid</td></tr><tr><td>대체제</td><td>[바난] cefpodoxime</td><td>200 ㎎ bid</td></tr><tr><td>대체제</td><td>[옴니세프] cefdinir</td><td>300 ㎎ bid 또는 600 ㎎ qd</td></tr><tr><td>대체제</td><td>[진네트] cefuroxime</td><td>250~500 ㎎ bid</td></tr><tr><td>대체제</td><td>[크라비트] levofloxacin</td><td>500 ㎎ qd</td></tr><tr><td>대체제</td><td>[아벨록스] moxifloxacin</td><td>400 ㎎ qd</td></tr></tbody></table>
+<table><thead><tr><th width="160">구분</th><th width="230">약물</th><th>용량</th></tr></thead><tbody><tr><td>Preferred first-line</td><td>[오구멘틴] amoxicillin/clavulanate</td><td>500 ㎎ tid 또는 875 ㎎ bid</td></tr><tr><td>저위험군 대안</td><td>[파목신] amoxicillin</td><td>500~875 ㎎ bid</td></tr><tr><td>대체제</td><td>[바난] cefpodoxime</td><td>200 ㎎ bid</td></tr><tr><td>대체제</td><td>[옴니세프] cefdinir</td><td>300 ㎎ bid 또는 600 ㎎ qd</td></tr><tr><td>대체제</td><td>[진네트] cefuroxime</td><td>250~500 ㎎ bid</td></tr><tr><td>Pc 알레르기 1차</td><td>[독시사이클린] doxycycline</td><td>200 ㎎ 1일 후 100 ㎎ qd ×4일</td></tr><tr><td>Pc 알레르기 대체</td><td>[크라비트] levofloxacin</td><td>500 ㎎ qd</td></tr><tr><td>Pc 알레르기 대체</td><td>[아벨록스] moxifloxacin</td><td>400 ㎎ qd</td></tr></tbody></table>
 
-> ⚠️ **Amoxicillin/clavulanate 우선 선택 적응 (AAO 지침, 2015)**\
-> 최근 1달 내 항생제 사용, 이전 항생제 치료 실패, 중증(≥39℃, 화농성 합병증), frontal/sphenoidal sinusitis, ＞65세, 기저 질환(당뇨·심/간/신질환), 항생제 내성 지역 거주, 흡연자
+> 💡 **국제 지침 vs 국내 지침**\
+> **IDSA·AAO-HNS·EPOS** : amoxicillin/clavulanate를 preferred first-line으로 권고 — β-lactamase 생성 *H. influenzae*, *M. catarrhalis* 내성 증가 반영\
+> **대한감염학회 2017** : amoxicillin 단독도 1차 선택에 포함 — 국내 내성률이 상대적으로 낮은 경우 경증~중등도 저위험군에서 고려 가능
 
 > ⚠️ **NICE 지침 (2017) 요점**\
 > ≤10일 증상에는 항생제 미사용 원칙. ＞10일 호전 없는 경우 세균 감염 가능성에 따라 처방. 1차 : phenoxymethylpenicillin (Pc VK) 500 ㎎ qid ×5d; 대체 : [독시사이클린] doxycycline 200 ㎎ 1일 후 100 ㎎ qd ×4d, [클래리시드] clarithromycin 500 ㎎ bid ×5d; 임신부 : erythromycin 500~1,000 ㎎ bid ×5d; 2차 또는 고위험군 : [오구멘틴] amoxicillin/clavulanate 500/125 ㎎ tid ×5d
@@ -235,6 +239,11 @@
 
 * 비부비동염의 객관적 증거 + 주요 증상(안면 통증/압박감, 후각 저하, 콧물, 코 막힘) ≥2가지, **＞12주** 지속
   * ✽ **EPOS 2020** : 성인 CRS 진단 시 **코 막힘 또는 콧물(전방 비루·후비루) 중 하나는 반드시 포함**되어야 함 — 안면 통증·후각 저하만 있고 비루·코 막힘이 없으면 CRS 진단 불충분; 후각 저하(hyposmia/anosmia)의 진단적 비중은 EPOS 2020에서 더욱 강조됨
+
+{% hint style="warning" %}
+**⚠️ 안면 통증·후각 저하만 있고 코 막힘·비루가 전혀 없는 경우**\
+비부비동염보다 **삼차신경통·편두통·안면 통증 증후군**을 먼저 감별해야 합니다. 이 경우 비부비동염 치료(항생제·비내 스테로이드)를 먼저 시도하기보다 신경학적 원인 평가를 우선합니다.
+{% endhint %}
 * CRS는 감염보다 **염증 질환**으로 이해; 반복되는 감염에 의한 점막 섬모 손상과 관련
 * 모든 치료에도 완치 어렵고 재발 흔함; 치료 불응 시 이비인후과 의뢰
 
@@ -313,7 +322,7 @@
 > 일반 비내 스테로이드 스프레이는 비강 전방부에만 도달하고 부비동 내부까지 충분히 전달되지 않음. CRS 환자, 특히 CRSwNP 또는 FESS 후 환자에서는 **budesonide 비강 세척**이 부비동 내 도달률을 크게 높일 수 있음.\
 > **방법** : [나리타점비액] budesonide 0.5 ㎎/2 ㎖ 1앰플을 생리식염수 240 ㎖에 혼합하여 1일 1~2회 비강 세척 — 세척 후 코를 풀지 않고 고개를 앞으로 숙여 용액이 부비동에 잔류하도록 유도\
 > ✽ [나리타점비액] 및 동일 규격의 [풀미코트 레스퓰] (0.5 ㎎/2 ㎖)은 **본래 네뷸라이저(흡입)용 앰플**임 — 비강 세척 용도로 처방 시 환자에게 "호흡기 치료용 앰플을 코 세척액에 혼합하여 사용하는 방식"임을 명확히 설명하여 혼선(흡입기에 그대로 사용하는 오용) 방지 필요\
-> ✽ 국내 급여 적응 외 사용(off-label)이므로 환자에게 사전 설명 필요; 전신 흡수량은 미미하나 장기 고용량 사용 시 HPA 억제 주의; FESS 후 환자에서 특히 유효
+> ✽ 국내 급여 적응 외 사용(off-label)이므로 환자에게 사전 설명 필요; 전신 흡수량은 미미하나 장기 고용량 사용 시 HPA 억제 주의; **6개월 이상 장기 사용 시 안압 측정 및 비점막 상태 확인 권장** — 녹내장 병력 또는 안압 상승 위험이 있는 환자에서는 안과 협진 고려; FESS 후 환자에서 특히 유효
 
 **경구 스테로이드**
 * 단기적 증상 완화 효과; 장기적 이익 없음
@@ -326,6 +335,44 @@
 * 경구 항생제 교체 (배양 결과 따라)
 * 천식 등 동반 질환 치료
 * **수술 치료(FESS) 고려, 이비인후과 의뢰**
+
+---
+
+### <mark style="color:orange;">ABRS vs 편두통 감별</mark>
+
+외래에서 가장 흔히 오진되는 조합 — "이마·눈 주위 두통 = 부비동염"으로 착각하기 쉬움
+
+<table><thead><tr><th width="200">소견</th><th width="180">ABRS</th><th>편두통</th></tr></thead><tbody><tr><td>앞으로 숙일 때 통증 악화</td><td>가능</td><td>매우 흔함</td></tr><tr><td>농성 분비물</td><td>흔함</td><td>드묾</td></tr><tr><td>후각 저하</td><td>흔함</td><td>드묾</td></tr><tr><td>광과민증(photophobia)</td><td>드묾</td><td>매우 흔함</td></tr><tr><td>오심·구토</td><td>드묾</td><td>흔함</td></tr><tr><td>박동성 두통</td><td>드묾</td><td>흔함</td></tr><tr><td>10일 기준 충족</td><td>해당</td><td>해당 안 됨</td></tr></tbody></table>
+
+> 💡 코 증상(농성 비루·후각 저하) 없이 두통·안면 통증만 있는 경우 ABRS 가능성 낮음 — 편두통·삼차신경통 우선 고려
+
+---
+
+### <mark style="color:orange;">CT 과잉 처방 경고</mark>
+
+{% hint style="danger" %}
+⚠️ **합병증 없는 ARS에는 CT 촬영 불필요**
+
+* Routine uncomplicated ARS/ABRS → CT **하지 않음**
+* CT 적응 : 치료 실패(4~6주 이상 증상 지속), 합병증 의심(안와 침범·두개내 파급), 수술 전 해부학적 평가
+* 급성기 CT는 점막 비후·기액층(air-fluid level)이 정상에서도 흔히 관찰되어 위양성 높음
+{% endhint %}
+
+---
+
+### <mark style="color:orange;">Delayed Antibiotic Prescription (지연 처방)</mark>
+
+ABRS 기준 충족 시에도 경증이고 follow-up이 가능한 환자에서 즉각 항생제 대신 지연 처방 전략 적용 가능
+
+> **방법** : 오늘 항생제를 처방하되 **48~72시간 내 증상 악화 또는 호전 없으면 복용 시작**하도록 안내
+>
+> *✽ 불필요한 항생제 사용을 30~40% 줄이면서 치료 만족도를 유지하는 전략 (Cochrane 2010). 국내 외래 환경에서는 환자에게 복용 기준을 명확히 설명하는 것이 핵심*
+
+---
+
+### <mark style="color:orange;">비부비동염 진단 실수 TOP 10</mark>
+
+<table><thead><tr><th width="50">#</th><th width="260">실수</th><th>핵심 포인트</th></tr></thead><tbody><tr><td>1</td><td>편두통을 부비동염으로 오진</td><td>코 증상 없는 두통 → 편두통 우선 고려</td></tr><tr><td>2</td><td>편측 증상에서 종양 놓침</td><td>편측 막힘·출혈·분비물 → 영상 검사 및 의뢰</td></tr><tr><td>3</td><td>치성 부비동염 간과</td><td>편측 상악동염 + 악취 비루 → 치과 파노라마</td></tr><tr><td>4</td><td>초록색 콧물 = 세균 감염으로 단정</td><td>색깔로 감별 불가 — 10일 기준과 중증도로 판단</td></tr><tr><td>5</td><td>CRS에 반복 단기 항생제</td><td>CRS는 감염이 아닌 염증 질환 — 비내 스테로이드 장기 유지가 핵심</td></tr><tr><td>6</td><td>합병증 없는 ARS에 CT 남용</td><td>치료 실패·합병증 의심 시에만 CT</td></tr><tr><td>7</td><td>ABRS 기준 미충족 시 항생제 처방</td><td>10일 기준·severe onset·double worsening 확인 후 처방</td></tr><tr><td>8</td><td>알레르기비염을 반복 부비동염으로 오인</td><td>맑은 비루·재채기·양측 코막힘 → 알레르기 검사</td></tr><tr><td>9</td><td>Aspirin 과민 + 비용종에서 NSAID 처방</td><td>Samter's triad — aspirin/NSAID 금기, 전문 의뢰</td></tr><tr><td>10</td><td>면역저하자 ARS에서 진균 감염 간과</td><td>당뇨·이식·HIV → 침습성 진균성 비부비동염 배제</td></tr></tbody></table>
 
 ---
 
@@ -450,7 +497,7 @@ J32 만성 부비동염
 > [맥시부펜 이알] 300 ㎎/T   3T   #3
 > ```
 >
-> *✽ IDSA 최신 기준에서 Pc 알레르기 시 doxycycline이 fluoroquinolone과 동등한 1차 대체제로 권고됨. 혐기성균 커버 가능, 내성률 낮음. 식도 자극 예방을 위해 충분한 물과 함께 복용하고 복용 후 30분간 눕지 않도록 교육. 임신부·8세 미만 소아 금기.*
+> *✽ IDSA 최신 기준에서 Pc 알레르기 시 doxycycline이 fluoroquinolone과 동등한 1차 대체제로 권고됨. 혐기성균 커버 가능, 내성률 낮음. 식도 자극 예방을 위해 충분한 물과 함께 복용하고 복용 후 30분간 눕지 않도록 교육. **유제품·칼슘제·제산제·철분제와 함께 복용하면 킬레이트 형성으로 흡수율이 저하**되므로 복용 1~2시간 전후로 간격을 두도록 안내. 임신부·8세 미만 소아 금기.*
 >
 > *✽ Fluoroquinolone 대체가 필요한 경우 (1차 치료 실패, 중증, 고위험군) :*
 > ```
