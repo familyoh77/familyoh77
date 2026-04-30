@@ -1,7 +1,5 @@
 # 혀통증 Glossodynia, Burning Mouth Syndrome
 
-![image](../.gitbook/assets/4fadcac8-5378-4b77-8e7a-14496f12e3d0.JPG)
-
 ## 일반 사항
 
 * 의학적 원인이 발견되지 않는 intra-oral burning sensation
