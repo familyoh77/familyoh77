@@ -110,34 +110,34 @@
 
 ```mermaid
 flowchart TD
-    A([구강 백색 병소 / 발적 / 작열감\nRed flags 먼저 배제]) --> B{거즈로 닦이는가?}
+    A([구강 백색 병소 / 발적 / 작열감<br/>Red flags 먼저 배제]) --> B{거즈로 닦이는가?}
     B -- 예 --> C[가성막형 Thrush 가능성↑]
-    B -- 아니오 --> D{흰 반점 또는\n발적 병소?}
-    D -- 두꺼운 흰 반점 --> E[Hyperplastic vs Leukoplakia\n항진균 2~3주 후 지속 시 생검]
-    D -- 발적만, 위막 없음 --> H[Erythematous type 의심\nICS 사용·틀니·정중능형설염 확인]
+    B -- 아니오 --> D{흰 반점 또는<br/>발적 병소?}
+    D -- 두꺼운 흰 반점 --> E[Hyperplastic vs Leukoplakia<br/>항진균 2~3주 후 지속 시 생검]
+    D -- 발적만, 위막 없음 --> H[Erythematous type 의심<br/>ICS 사용·틀니·정중능형설염 확인]
     D -- 구각 균열·삼출 --> G[Angular cheilitis]
     D -- 기타 --> Z[아프타·편평태선·기타 감별]
-    C --> I{면역저하 또는\n연하통·흉통?}
+    C --> I{면역저하 또는<br/>연하통·흉통?}
     H --> I
-    I -- 예 --> J[전신 항진균제\n식도 침범 평가\n내시경 고려 + 감염내과 의뢰]
+    I -- 예 --> J[전신 항진균제<br/>식도 침범 평가<br/>내시경 고려 + 감염내과 의뢰]
     I -- 아니오 --> K{자각 증상?}
     K -- 아니오 --> L{면역저하자?}
     L -- 예 --> M[무증상도 치료 고려]
-    L -- 아니오 --> N[위험 인자 교정\n경과 관찰]
+    L -- 아니오 --> N[위험 인자 교정<br/>경과 관찰]
     K -- 예 --> O{경증~중등도?}
-    O -- 예 --> P[국소 항진균제\nnystatin / miconazole\n7~14일]
-    O -- 아니오 --> Q[Fluconazole\n100~200 ㎎/d]
+    O -- 예 --> P[국소 항진균제<br/>nystatin / miconazole<br/>7~14일]
+    O -- 아니오 --> Q[Fluconazole<br/>100~200 ㎎/d]
     M --> P
     P --> R{7~14일 후 반응?}
     Q --> R
-    R -- 호전 --> S[치료 종료\n재발 예방 교육]
-    R -- 미호전 --> T[전신 항진균제 또는\n배양·감수성 검사\n내성 Candida 고려]
+    R -- 호전 --> S[치료 종료<br/>재발 예방 교육]
+    R -- 미호전 --> T[전신 항진균제 또는<br/>배양·감수성 검사<br/>내성 Candida 고려]
     T --> U{재발 ≥2회/년?}
-    U -- 예 --> V[기저질환 평가\nHbA1c·HIV·약물·xerostomia\n틀니 관리 점검]
+    U -- 예 --> V[기저질환 평가<br/>HbA1c·HIV·약물·xerostomia<br/>틀니 관리 점검]
     U -- 아니오 --> S
-    G --> W[Clotrimazole 크림\n± mupirocin\n± 철분·비타민 교정]
+    G --> W[Clotrimazole 크림<br/>± mupirocin<br/>± 철분·비타민 교정]
     W --> R
-    E --> X[항진균제 2~3주 후\n지속 시 구강내과 의뢰]
+    E --> X[항진균제 2~3주 후<br/>지속 시 구강내과 의뢰]
     style J fill:#f96,stroke:#e65100,stroke-width:2px
     style E fill:#fff3e0,stroke:#e65100,stroke-width:2px
     style V fill:#e1f5fe,stroke:#01579b,stroke-width:2px
