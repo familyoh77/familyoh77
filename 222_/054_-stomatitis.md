@@ -24,7 +24,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>&#x20;
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 호흡 곤란/연하 곤란 동반 → 기도 확보 우선; 심한 점막 부종, Stevens-Johnson 증후군 의심 시 응급 의뢰
 * 광범위 수포성 점막 병변 + 발열 + 결막/피부 침범 → Stevens-Johnson / TEN 의심\
@@ -52,7 +52,7 @@
 * 혀의 작은 통증성 돌출 → 유두 염증 (매운 음식, 뜨거운 음식에 의한 자극)
 * 알칼리/산/aspirin/뜨거운 음식 점막 접촉 병력 + 통증 → 화학적/열성 화상
 
-**구강 궤양**&#x20;
+**구강 궤양**
 
 * 구강의 통증성 작은 궤양 + 손/발의 구진성 발진 → 수족구병
 * 구강(주로 연구개, 구강인두)의 통증성 작은 궤양, 피부 병변 없음 → 헤르판지나
@@ -98,7 +98,7 @@
 * 동의어 : aphthous stomatitis, canker sore, 재발성 아프타성 구내염(RAS)
 *   경과 및 임상 아형
 
-    <table><thead><tr><th width="134">아형</th><th width="80">빈도</th><th width="110">크기</th><th width="154">경과</th><th>특징</th></tr></thead><tbody><tr><td>Minor <br>(소아프타)</td><td>＞80%</td><td>＜10 ㎜</td><td>7~14일, 흉터 없이 치유</td><td>가장 흔한 형태</td></tr><tr><td>Major <br>(대아프타)</td><td>~15%</td><td>＞10 ㎜</td><td>수 주~수개월, 흉터(scarring) 가능</td><td>깊고 불규칙한 경계; 베체트병·크론병 감별 필요</td></tr><tr><td>Herpetiform <br>(포진형)</td><td>~5%</td><td>1–3 ㎜, <br>수십 개 군집</td><td>1~2주</td><td>HSV와 무관하나 형태 유사; 합쳐져 큰 궤양 형성 가능</td></tr></tbody></table>
+    <table><thead><tr><th width="134">아형</th><th width="80">빈도</th><th width="110">크기</th><th width="154">경과</th><th>특징</th></tr></thead><tbody><tr><td>Minor<br>(소아프타)</td><td>＞80%</td><td>＜10 ㎜</td><td>7~14일, 흉터 없이 치유</td><td>가장 흔한 형태</td></tr><tr><td>Major<br>(대아프타)</td><td>~15%</td><td>＞10 ㎜</td><td>수 주~수개월, 흉터(scarring) 가능</td><td>깊고 불규칙한 경계; 베체트병·크론병 감별 필요</td></tr><tr><td>Herpetiform<br>(포진형)</td><td>~5%</td><td>1–3 ㎜,<br>수십 개 군집</td><td>1~2주</td><td>HSV와 무관하나 형태 유사; 합쳐져 큰 궤양 형성 가능</td></tr></tbody></table>
 * 신체 다른 부위 궤양 병소 여부를 확인하는 것이 필요 (Behçet Dz 등 감별)
 
 ### <mark style="color:orange;">원인</mark>
@@ -141,13 +141,13 @@
 * 연 ≥3회 재발, 크거나 심한 통증·다발성, 2주 이상 미치유
 * 성인에서 새로 시작된 경우, 전신 증상 동반, 치료 반응 불량
 
-**1차 기본 검사**&#x20;
+**1차 기본 검사**
 
-* CBC (± differential), ferritin, Vit B12, folate \
+* CBC (± differential), ferritin, Vit B12, folate\
   → 결핍 확인 시 4–8주 보충 후 재평가
   * B12 수치가 정상 하한치(low-normal, \~300 pg/㎖)에 있더라도 재발 빈발 시 보충 시도 고려 (cyanocobalamin 1,000 ㎍/d)
 
-**조직/배양 검사**&#x20;
+**조직/배양 검사**
 
 * 치유되지 않는 궤양(＞2주), 비전형 진행 시 고려
 
@@ -205,11 +205,11 @@
 
 ### <mark style="color:orange;">증상 및 진단</mark>
 
-* **ICBD criteria** (International Criteria for Behçet's Disease)&#x20;
+* **ICBD criteria** (International Criteria for Behçet's Disease)
   * 구강 궤양 2점 + 생식기 궤양 2점 + 안 병변 2점 + 피부 병변 1점 + 신경계 1점 + 혈관 병변 1점 + pathergy(선택) 1점
   * 판정 : 총점 ≥4점 시 양성 (ISG 기준보다 민감도 높음)
 * **ISG 기준(**&#x49;nternational Study Group, 1990)
-  * 구강 내 궤양이 1년 동안 ≥3번 재발하며 다음 4가지 중 ≥2개 해당 시 진단&#x20;
+  * 구강 내 궤양이 1년 동안 ≥3번 재발하며 다음 4가지 중 ≥2개 해당 시 진단
   1. 반복적인 생식기 궤양
   2. 눈의 병소 : anterior/posterior uveitis, cells in vitreous (세극등 검사), retinal vasculitis
   3. 사춘기 이후 steroid로 치료되지 않는 피부 병변 : erythema nodosum, pseudofolliculitis, papulopustular lesion, acneiform nodule
@@ -245,46 +245,46 @@
 
 ```mermaid
 flowchart TD
-    A([구강 궤양 환자]) --> PRE{사전 감별}
+    A([구강 궤양 환자]) --> PRE[사전 감별?]
     PRE --> |수포 병력<br/>각화 점막| HSV[HSV 의심<br/>→ 항바이러스제<br/>steroid 단독 금지]
     PRE --> |백색 plaque<br/>scrapable| CAND[칸디다증 의심<br/>→ 항진균제]
-    PRE --> |위 해당 없음| B{재발성 아프타 궤양<br/>의심}
+    PRE --> |위 해당 없음| B[재발성 아프타 궤양<br/>의심]
 
-    B --> C{연간 재발 횟수<br/>+ 중증도}
+    B --> C[연간 재발 횟수?<br/>+ 중증도?]
     C --> |연 ≤2–3회<br/>소형·단기| D[Low-risk<br/>검사 불필요]
-    C --> |연 ≥3회 또는<br/>중등도 이상| E{영양 결핍<br/>Work-up}
+    C --> |연 ≥3회 또는<br/>중등도 이상| E[영양 결핍<br/>Work-up]
 
     D --> D1[국소 치료<br/>triamcinolone 연고<br/>국소 마취제·가글]
     D --> D2[생활 교정<br/>식이·수면·구강위생]
 
-    E --> |CBC·ferritin·B12·folate| F{결핍 확인}
+    E --> |CBC·ferritin·B12·folate| F[결핍 확인?]
     F --> |결핍 있음| G[영양 보충<br/>4–8주 후 재평가]
-    F --> |결핍 없음 / 재발 지속| H{증상 단계}
+    F --> |결핍 없음 / 재발 지속| H[증상 단계?]
 
     H --> |Mild| H1[국소 치료 유지]
     H --> |Moderate<br/>다발·중등 통증| H2[국소 치료 +<br/>가글 + 점막 보호제]
     H --> |Severe Flare<br/>먹기 불가| H3[단기 경구 steroid<br/>prednisolone × 5–7일<br/>→ 국소 치료 이행]
 
-    H1 --> I{steroid 반복<br/>필요 또는 재발 지속}
+    H1 --> I[steroid 반복 필요?<br/>또는 재발 지속?]
     H2 --> I
     H3 --> I
 
     I --> |Yes| J[Colchicine 시작<br/>0.6 ㎎ qd → bid<br/>재발 억제 1st-line]
     I --> |No| K[추적 관찰]
 
-    J --> L{Colchicine 실패}
-    L --> |Yes| M[전문의 의뢰<br/>Behçet 감별<br/>Biologics 고려<br/>TNF-α inhibitor<br/>apremilast]
+    J --> L[Colchicine 실패?]
+    L --> |Yes| M[의뢰<br/>Behçet 감별<br/>Biologics 고려<br/>TNF-α inhibitor<br/>apremilast]
     L --> |No| N[Colchicine 유지]
 
     E --> |구강+생식기 궤양<br/>눈·피부 병변| O[Behçet pathway<br/>류마티스내과 의뢰<br/>Biologics 조기 고려]
 
-    style A fill:#e3f2fd,stroke:#1565c0
-    style HSV fill:#fff3e0,stroke:#e65100
-    style CAND fill:#fff3e0,stroke:#e65100
-    style O fill:#fce4ec,stroke:#c62828
-    style M fill:#fce4ec,stroke:#c62828
-    style H3 fill:#fff3e0,stroke:#e65100
-    style J fill:#e8f5e9,stroke:#2e7d32
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#f39c12
+class PRE,C,F,H,I,L yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class HSV,CAND,D1,D2,N,G,H1,H2,H3,J sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class M,O,K blue
 ```
 
 <p align="center"><strong>구강 궤양 감별 및 재발성 아프타 궤양(RAS) 진단·치료 알고리듬</strong></p>
@@ -308,7 +308,7 @@ flowchart TD
 * 유동식, 차가운 음식/음료 섭취(예: 아이스크림), 얼음 물고 있기
 * 피할 음식 : 자극적 음식(매운맛·신맛·뜨거운 것), 단단한/거친 음식(스낵, 견과류)
 * 치과 문제 치료 - 날카로운 치아 모서리, 맞지 않는 틀니 교정
-* 구강 위생 개선 : 올바른 칫솔질, 치실 사용  (치실의 효과에 대하여 논란이 있음)
+* 구강 위생 개선 : 올바른 칫솔질, 치실 사용 (치실의 효과에 대하여 논란이 있음)
 * 가글 또는 린스 (일부 연구에서 치유 촉진, 재발 예방)
   * tetracycline, aloe, chlorhexidine <mark style="color:blue;">\[헥사메딘 액]</mark> : 1일 4회 (보험 2회 인정)\
     ✽chlorhexidine은 plaque 억제·구강 위생 보조 목적; 아프타 궤양에서 healing 촉진 효과는 제한적
@@ -377,7 +377,7 @@ flowchart TD
 #### <mark style="color:$primary;">기타</mark>
 
 * diclofenac : 7.4% 액 15 ㎖ bid\~tid <mark style="color:blue;">\[아프니벤큐 액]</mark>
-* colchicine : 재발 빈도 감소; 신기능·위장 부작용 고려하여 용량 조절; 0.6 ㎎ qd–bid <mark style="color:blue;">\[콜킨]</mark>&#x20;
+* colchicine : 재발 빈도 감소; 신기능·위장 부작용 고려하여 용량 조절; 0.6 ㎎ qd–bid <mark style="color:blue;">\[콜킨]</mark>
 * Vit B12 : 일부 연구에서 예방 효과
 * propolis : 일부 소규모 연구에서 유효
 * 구강 내 살균 가글
