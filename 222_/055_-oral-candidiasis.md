@@ -38,7 +38,7 @@
 
 * 구강의 여러 부위에 각기 다른 형태로 발생 가능
 
-<table><thead><tr><th width="169">형태</th><th width="424">특징</th><th>주요 발생 부위</th></tr></thead><tbody><tr><td><strong>Thrush</strong> <br>(위막형)</td><td>흰색 curdlike plaque; 거즈로 닦으면 제거되고 발적·점상출혈 노출</td><td>혀, 볼 점막, 구개</td></tr><tr><td><strong>Erythematous</strong> <br>(위축형)</td><td>얇고 beefy한 발적 병소; 백색 위막 없이 발적만 나타나 놓치기 쉬움; 자각 증상 뚜렷한 편<br>정중능형설염 (Median Rhomboid Glossitis) : 이 형태의 특수 변형; 혀 중앙 후방부에 마름모꼴 발적과 유두 소실 → 설암 등으로 오인 주의</td><td>혀 등쪽, 틀니 접촉 점막</td></tr><tr><td><p><strong>Angular cheilitis</strong> </p><p>(구각 입술염)</p></td><td>구각의 균열·발적·삼출; 세균 혼합 감염 흔함; 철분·비타민 결핍, drooling 동반 가능</td><td>구각</td></tr><tr><td><p><strong>Hyperplastic form</strong> </p><p>(증식형)</p></td><td>흰색 두꺼운 반점; 거즈로 제거 불가; leukoplakia와 외관상 구분 불가 가능; 항진균제에 반응하지 않는 병소는 반드시 조직 생검 (epithelial dysplasia 가능)</td><td>볼 점막, 혀</td></tr></tbody></table>
+<table><thead><tr><th width="169">형태</th><th width="424">특징</th><th>주요 발생 부위</th></tr></thead><tbody><tr><td><strong>Thrush</strong><br>(위막형)</td><td>흰색 curdlike plaque; 거즈로 닦으면 제거되고 발적·점상출혈 노출</td><td>혀, 볼 점막, 구개</td></tr><tr><td><strong>Erythematous</strong><br>(위축형)</td><td>얇고 beefy한 발적 병소; 백색 위막 없이 발적만 나타나 놓치기 쉬움; 자각 증상 뚜렷한 편<br>정중능형설염 (Median Rhomboid Glossitis) : 이 형태의 특수 변형; 혀 중앙 후방부에 마름모꼴 발적과 유두 소실 → 설암 등으로 오인 주의</td><td>혀 등쪽, 틀니 접촉 점막</td></tr><tr><td><p><strong>Angular cheilitis</strong></p><p>(구각 입술염)</p></td><td>구각의 균열·발적·삼출; 세균 혼합 감염 흔함; 철분·비타민 결핍, drooling 동반 가능</td><td>구각</td></tr><tr><td><p><strong>Hyperplastic form</strong></p><p>(증식형)</p></td><td>흰색 두꺼운 반점; 거즈로 제거 불가; leukoplakia와 외관상 구분 불가 가능; 항진균제에 반응하지 않는 병소는 반드시 조직 생검 (epithelial dysplasia 가능)</td><td>볼 점막, 혀</td></tr></tbody></table>
 
 **유발 인자와 임상형 관계**
 
@@ -67,7 +67,7 @@
 
 * 원인 불명의 면역저하 상태 의심
 * Hyperplastic form에서 항진균제 치료 2\~3주 후에도 병소 지속 → leukoplakia, 구강 암
-* 모유 수유 영아의 반복 아구창 + 수유 어머니 유두 감염 동반&#x20;
+* 모유 수유 영아의 반복 아구창 + 수유 어머니 유두 감염 동반
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
@@ -104,37 +104,44 @@
 
 ```mermaid
 flowchart TD
-    A([구강 백색 병소 / 발적 / 작열감<br/>Red flags 먼저 배제]) --> B{거즈로 닦이는가?}
+    A([구강 백색 병소 / <br/>발적 / 작열감<br/>•Red flags 배제]) --> B[거즈로 닦이는가?]
     B -- 예 --> C[가성막형 Thrush 가능성↑]
-    B -- 아니오 --> D{흰 반점 또는<br/>발적 병소?}
+    B -- 아니오 --> D[흰 반점 또는<br/>발적 병소?]
     D -- 두꺼운 흰 반점 --> E[Hyperplastic vs Leukoplakia<br/>항진균 2~3주 후 지속 시 생검]
     D -- 발적만, 위막 없음 --> H[Erythematous type 의심<br/>ICS 사용·틀니·정중능형설염 확인]
     D -- 구각 균열·삼출 --> G[Angular cheilitis]
     D -- 기타 --> Z[아프타·편평태선·기타 감별]
-    C --> I{면역저하 또는<br/>연하통·흉통?}
+    C --> I[면역저하 또는<br/>연하통·흉통?]
     H --> I
-    I -- 예 --> J[전신 항진균제<br/>식도 침범 평가<br/>내시경 고려 + 감염내과 의뢰]
-    I -- 아니오 --> K{자각 증상?}
-    K -- 아니오 --> L{면역저하자?}
+    I -- 예 --> J[전신 항진균제<br/>식도 침범 평가<br/>내시경 고려 + 의뢰]
+    I -- 아니오 --> K[자각 증상?]
+    K -- 아니오 --> L[면역저하자?]
     L -- 예 --> M[무증상도 치료 고려]
     L -- 아니오 --> N[위험 인자 교정<br/>경과 관찰]
-    K -- 예 --> O{경증~중등도?}
-    O -- 예 --> P[국소 항진균제<br/>nystatin / miconazole<br/>7~14일]
-    O -- 아니오 --> Q[Fluconazole<br/>100~200 ㎎/d]
+    K -- 예 --> O[중증?]
+    O -- 아니오 --> P[국소 항진균제<br/>nystatin / miconazole<br/>7~14일]
+    O -- 예 --> Q[Fluconazole<br/>100~200 ㎎/d]
     M --> P
-    P --> R{7~14일 후 반응?}
+    P --> R[7~14일 후 반응?]
     Q --> R
     R -- 호전 --> S[치료 종료<br/>재발 예방 교육]
     R -- 미호전 --> T[전신 항진균제 또는<br/>배양·감수성 검사<br/>내성 Candida 고려]
-    T --> U{재발 ≥2회/년?}
+    T --> U[재발 ≥2회/년?]
     U -- 예 --> V[기저질환 평가<br/>HbA1c·HIV·약물·xerostomia<br/>틀니 관리 점검]
     U -- 아니오 --> S
     G --> W[Clotrimazole 크림<br/>± mupirocin<br/>± 철분·비타민 교정]
     W --> R
-    E --> X[항진균제 2~3주 후<br/>지속 시 구강내과 의뢰]
-    style J fill:#f96,stroke:#e65100,stroke-width:2px
-    style E fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style V fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    E --> X[항진균제 2~3주 후<br/>지속 시 의뢰]
+
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef orange fill:#fdebd0,stroke:#e67e22
+class J,X orange
+classDef yellow fill:#fff9c4,stroke:#f39c12
+class B,D,I,K,L,O,R,U yellow
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class N,S,V blue
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class G,H,Z,C,E pink
 ```
 
 <p align="center"><strong>입안 칸디다증 진단 및 치료 알고리듬</strong></p>
@@ -189,7 +196,7 @@ flowchart TD
 
 * 금연
 * 구강 위생 개선 : 식사 후 칫솔질 및 가글 (chlorhexidine 가글은 nystatin과 최소 2시간 간격 유지)
-* 틀니 관리&#x20;
+* 틀니 관리
   * 취침 시 틀니 제거 - 야간 착용 금지 (biofilm 형성 및 denture stomatitis의 핵심 예방)
   * 틀니 소독제 또는 chlorhexidine 용액에 밤새 침지 <mark style="color:blue;">\[헥사메딘 액]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&sno=1\&mtgMtrRegSno=0023))
   * 필요 시 틀니 표면에 nystatin 도포 고려
@@ -215,7 +222,7 @@ flowchart TD
 
 * miconazole oral gel : 약 2.5 ㎖ (50 ㎎)를 구강 각 부위에 적용; 식후 가능한 오래 물고 있다가 삼킴; qid ×7d + 호전 후 7d
 * 생후 4개월 미만 영아 - 질식 위험으로 사용 금지; 4개월 이상 영아 - 소량(1.25 ㎖)으로 시작
-*   &#x20;Miconazole은 CYP2C9 및 CYP3A4 억제제로 다수의 약물과 상호작용
+*   Miconazole은 CYP2C9 및 CYP3A4 억제제로 다수의 약물과 상호작용
 
     * Warfarin : 출혈 위험 증가 (CYP2C9 경로)
     * Sulfonylurea계 혈당강하제 : 저혈당 위험
@@ -252,7 +259,7 @@ flowchart TD
 
 > **보험 기준 vs 권장 용량 차이 주의** : 보험 인정 기준은 50 ㎎/d이지만 IDSA 권장 용량(100\~200 ㎎/d)과 괴리가 있음. 실제 처방 시 삭감 사례가 발생할 수 있으므로, 처방 전 HIRA 최신 고시를 확인하고 진료 기록에 중증도 및 면역 상태를 명시할 것을 권장.
 
-**Itraconazole 경구 액제**&#x20;
+**Itraconazole 경구 액제**
 
 * 2차 선택; fluconazole 내성 시
 * itraconazole oral solution (swish & swallow 방식) : 200 ㎎/d ×7\~14d
