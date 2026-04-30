@@ -43,13 +43,12 @@
 * 면역항암제 (Immune Checkpoint Inhibitors, ICI) - anti-PD-1/PD-L1, anti-CTLA-4 등; 면역 관련 부작용(irAE)으로 침샘염·건조증 발생 사례 증가; 암 치료 중인 환자에서 반드시 확인
 
 {% hint style="info" %}
-**Anticholinergic Burden (항콜린 부담)**\
-개별 약물보다 복용 중인 항콜린성 약물의 누적 부담(cumulative burden)이 중요합니다. 특히 노인에서는 한 가지 약물만으로 기준에 미치지 않더라도 여러 약물의 조합으로 구강 건조가 발생하거나 악화됩니다. 증상이 지속될 경우 전체 약물 구성을 재검토하는 처방 최적화(deprescribing)가 단일 약물 조정보다 효과적일 수 있습니다.
+**Anticholinergic Burden (항콜린 부담)** : 개별 약물보다 복용 중인 항콜린성 약물의 누적 부담(cumulative burden)이 중요. 특히 노인에서는 한 가지 약물만으로는 기준에 미치지 않더라도 여러 약물의 조합으로 구강 건조가 발생하거나 악화됨. 증상이 지속될 경우 전체 약물 구성을 재검토하는 처방 최적화가 필요
 {% endhint %}
 
 #### <mark style="color:$primary;">생활 습관 및 환경</mark>
 
-* 흡연, **전자담배(e-cigarette)** — 전자담배 에어로졸도 구강 점막 건조·염증 유발, 흡연과 동일 주의 필요
+* 흡연, 전자담배(e-cigarette) - 전자담배 에어로졸도 구강 점막 건조·염증 유발, 흡연과 동일 주의 필요
 * 과도한 음주
 * 코 막힘으로 인한 구강 호흡
 * 건조 환경 (에어컨, 온풍기, 겨울 난방, 장거리 비행)
@@ -58,7 +57,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 구강 건조감, 목마름 — 식사 시 물을 함께 마셔야 삼킬 수 있음
+* 구강 건조감, 목마름 - 식사 시 물을 함께 마셔야 삼킬 수 있음
 * 씹기·삼키기·발음 어려움
 * 미각 변화, 음식 맛 감소
 * 구강 점막 : 광택 소실, 창백 또는 충혈, 균열; 혀 균열·유두 소실
@@ -69,17 +68,17 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 이하선·악하선 부위 급격한 종창 + 발열 + 개구 장애 → 화농성 침샘염, 침샘 농양, 괴사성 근막염 의심
-* 연하 불가·흡인 징후 동반 → 삼킴곤란으로 인한 흡인성 폐렴 위험
+* 이하선·악하선 부위 급격한 종창 + 발열 + 개구 장애 → 화농성 침샘염, 침샘 농양, 괴사성 근막염
+* 연하 불가·흡인 징후 동반 → 삼킴곤란으로 인한 흡인성 폐렴
 * 면역저하 환자에서 광범위 구강 점막 손상 + 발열 → 기회 감염
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 이하선·악하선 부위 단단하고 무통성 종괴 → 침샘 종양 의심 (구강악안면외과 또는 이비인후과)
-* **편측 침샘 종창이 3\~4주 이상 지속** → 림프종(lymphoma) 감별 필요 — 특히 Sjögren syndrome 환자에서 림프종 발생 위험이 일반인 대비 10\~40배 높음
-* 구강 건조 + 안구 건조 + 전신 증상(관절통, 피로감) → Sjögren syndrome 의심 (류마티스내과 협진)
-* 구강 칸디다증 동반 — 특히 면역저하 환자에서 전신 감염 진행 위험
-* 두경부 방사선 치료 후 급격한 악화 → 방사선 침샘 손상 전문 치료 필요
+* 이하선·악하선 부위 단단하고 무통성 종괴 → 침샘 종양&#x20;
+* 편측 침샘 종창이 3\~4주 이상 지속 → 림프종(lymphoma)
+* 구강 건조 + 안구 건조 + 전신 증상(관절통, 피로감) → Sjögren syndrome
+* 구강 칸디다증 동반 - 특히 면역저하 환자에서 전신 감염 진행 위험
+* 두경부 방사선 치료 후 급격한 악화 → 방사선 침샘 손상
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
@@ -93,9 +92,11 @@
 * 주로 임상적 진단; 원인 규명이 핵심
 * 문진 : 건조감 지속 기간, 야간 음수 습관, 충치 빈도, 안구/질 건조 동반 여부, 약물력, 방사선 치료력
 
-#### <mark style="color:$primary;">간이 문진 (Fox questionnaire 단축형)</mark>
+#### <mark style="color:$primary;">문진</mark>&#x20;
 
-다음 항목 중 2개 이상 해당 시 구강 건조증 가능성 높음:
+**Fox questionnaire 단축형**
+
+* 다음 항목 중 2개 이상 해당 시 구강 건조증 가능성 높음
 
 1. 식사 시 물을 함께 마셔야 음식을 삼키기 편하다
 2. 건조한 음식(빵, 과자 등)을 씹기 어렵다
@@ -106,76 +107,76 @@
 
 * 구강 점막 광택 소실, 건조·균열, 혀 유두 소실 또는 균열
 * 하악 설하 부위 거울 검사 : 소량 침 고임(pooling) 관찰
-* **Bedside signs of hyposalivation**
-  * **거울 점착 징후 (mirror sticking sign)** : 구강 점막에 치경 거울을 대었을 때 달라붙음
-  * **구순 건조 징후 (lipstick sign)** : 윗 앞니에 립스틱이 묻어남 (여성 환자)
-* 이하선·악하선 촉진 — 종창, 압통, 종괴 여부
+* Bedside signs of hyposalivation
+  * 거울 점착 징후 (mirror sticking sign) : 구강 점막에 치경 거울을 대었을 때 달라붙음
+  * 구순 건조 징후 (lipstick sign) : 윗 앞니에 립스틱이 묻어남 (여성 환자)
+* 이하선·악하선 촉진 - 종창, 압통, 종괴 여부
 * 치아 : 치경부 우식증, 다발성 우식증
 
 #### <mark style="color:$primary;">타액 분비량 측정 (Sialometry)</mark>
+
+* 비자극 전타액 (Unstimulated Whole Saliva, UWS) : 최소 5분 이상 뱉기 (오차 감소 위해 10\~15분 권장) → 정상 ≥ 0.1 ㎖/분
+* 자극 타액 (Stimulated Saliva) : 파라핀 왁스 저작 5분 → 정상 ≥ 0.7 ㎖/분
+* 1차 진료에서 정밀 측정이 어려운 경우 Bedside signs + Fox 문진으로 대체 가능
 
 {% hint style="info" %}
 **검사 전 처치** : 측정 최소 1\~2시간 전 금식, 흡연 금지, 양치 금지. 측정 직전 격렬한 운동·스트레스 회피. 이를 지키지 않으면 결과 오차가 커질 수 있음.
 {% endhint %}
 
-* **비자극 전타액 (Unstimulated Whole Saliva, UWS)** : **최소 5분 이상** 뱉기 (오차 감소 위해 10\~15분 권장) → 정상 ≥ 0.1 ㎖/분
-* **자극 타액 (Stimulated Saliva)** : 파라핀 왁스 저작 5분 → 정상 ≥ 0.7 ㎖/분
-* 1차 진료에서 정밀 측정이 어려운 경우 bedside signs + Fox 문진으로 대체 가능
-
 #### <mark style="color:$primary;">기본 검사 (원인 규명)</mark>
 
-* 혈당 및 HbA1c — 당뇨 동반 여부
-* ANA, anti-SSA(Ro), anti-SSB(La) — Sjögren syndrome 의심 시
-* CBC, ESR, CRP — 전신 염증·자가면역 평가
-* IgG4 — IgG4 연관 질환 의심 시
-* 필요 시 : **타액선 초음파 (Salivary Gland Ultrasound/POCUS)** — 침샘 생검 전 단계 평가로 활용도 증가; 종괴, 결석, 침샘 실질의 비균질성·저에코 변화(Sjögren 특징적 소견) 확인; 류마티스내과·이비인후과에서 민감도·특이도 높게 평가
-* 타액선 신티그래피 — 기능 평가 (필요 시)
+* 혈당 및 HbA1c - 당뇨 동반 여부
+* ANA, anti-SSA(Ro), anti-SSB(La) - Sjögren syndrome 의심 시
+* CBC, ESR, CRP - 전신 염증·자가면역 평가
+* IgG4 - IgG4 연관 질환 의심 시
+* 필요 시 : 타액선 초음파 (Salivary Gland Ultrasound/POCUS) - 침샘 생검 전 단계 평가로 활용도 증가; 종괴, 결석, 침샘 실질의 비균질성·저에코 변화(Sjögren 특징적 소견) 확인; 류마티스내과·이비인후과에서 민감도·특이도 높게 평가
+* 타액선 신티그래피 - 기능 평가 (필요 시)
 
 {% hint style="info" %}
-**Sjögren syndrome 진단 기준 (2016 ACR/EULAR, 간략 요약)**\
-① anti-SSA(Ro) 양성 (3점) ② 소구강침샘 생검 focal lymphocytic sialadenitis (3점) ③ 비정상적 안구 염색 (1점) ④ Schirmer test ≤ 5 ㎜/5분 (1점) ⑤ unstimulated salivary flow ≤ 0.1 ㎖/분 (1점)\
-→ **총 4점 이상**이면 Sjögren syndrome 진단 기준 충족. 구강 건조와 함께 안구 건조, 피로, 관절통이 동반되면 류마티스내과 의뢰.\
-\
-⚠️ **Schirmer test 주의** : 비특이적이며 위양성/위음성이 있어 단독으로 진단 근거로 삼기 어려움. 안과 협진 시 안구 표면 염색 점수 (Ocular Staining Score, OSS)가 더 정밀한 안구 건조 평가 지표임.
+**Sjögren syndrome 진단 기준** (2016 ACR/EULAR, 간략 요약)\
+⓵ anti-SSA(Ro) 양성 (3점), ⓶ 소구강침샘 생검 focal lymphocytic sialadenitis (3점), ⓷ 비정상적 안구 염색 (1점), ⓸ Schirmer test ≤ 5 ㎜/5분 (1점), ⓹ unstimulated salivary flow ≤ 0.1 ㎖/분 (1점)\
+→ 총 4점 이상이면 Sjögren syndrome 진단 기준 충족. 구강 건조와 함께 안구 건조, 피로, 관절통이 동반되면 류마티스내과 의뢰.\
+**Schirmer test 주의** : 비특이적이며 위양성/위음성이 있어 단독으로 진단 근거로 삼기 어려움. 안과 협진 시 안구 표면 염색 점수(Ocular Staining Score, OSS)가 더 정밀한 안구 건조 평가 지표임
 {% endhint %}
 
 ### <mark style="color:orange;">감별 진단</mark>
 
 * 원인 기반 표현형(phenotype) 분류가 치료 방향을 결정
 
-<table><thead><tr><th width="155">표현형</th><th width="210">주요 단서</th><th width="185">핵심 검사</th><th>우선 조치</th></tr></thead><tbody><tr><td>약물 유발형</td><td>다약제 복용; 신규 약물 투여 후 증상 시작; 항콜린 burden↑</td><td>약물력 검토</td><td>원인 약물 교체·감량; 전체 약물 재설계</td></tr><tr><td>자가면역형 (Sjögren)</td><td>안구 건조 + 관절통 + 피로감; 이하선 종창</td><td>anti-SSA/SSB, ANA</td><td>류마티스내과 의뢰; pilocarpine 적응증</td></tr><tr><td>대사·전신형</td><td>다음·다뇨 (당뇨); 피로 + 부종 (CKD)</td><td>혈당/HbA1c; 신기능</td><td>기저 질환 조절</td></tr><tr><td>폐쇄·구조형</td><td>식사 중 통증·종창 (결석); 편측 지속 종창 (종양·림프종)</td><td>타액선 초음파</td><td>영상 검사; 전문과 의뢰</td></tr><tr><td>기능·심인형</td><td>구강 소견 정상; 분비량 정상; 불안·우울 동반</td><td>Sialometry 정상</td><td>정신건강 평가; burning mouth 감별</td></tr><tr><td>구조적·환경형</td><td>코막힘·코골이; 건조 환경; OSA 의심</td><td>비강 검진; 수면 평가</td><td>비강 호흡 교정; CPAP 최적화</td></tr></tbody></table>
+<table><thead><tr><th width="127">표현형</th><th width="210">주요 단서</th><th width="185">핵심 검사</th><th>우선 조치</th></tr></thead><tbody><tr><td>약물 유발형</td><td>다약제 복용; 신규 약물 투여 후 증상 시작; 항콜린 burden↑</td><td>약물력 검토</td><td>원인 약물 교체·감량; 전체 약물 재설계</td></tr><tr><td>자가면역형 (Sjögren)</td><td>안구 건조 + 관절통 + 피로감; 이하선 종창</td><td>anti-SSA/SSB, ANA</td><td>류마티스내과 의뢰; pilocarpine 적응증</td></tr><tr><td>대사·전신형</td><td>다음·다뇨 (당뇨); 피로 + 부종 (CKD)</td><td>혈당/HbA1c; 신기능</td><td>기저 질환 조절</td></tr><tr><td>폐쇄·구조형</td><td>식사 중 통증·종창 (결석); 편측 지속 종창 (종양·림프종)</td><td>타액선 초음파</td><td>영상 검사; 전문과 의뢰</td></tr><tr><td>기능·심인형</td><td>구강 소견 정상; 분비량 정상; 불안·우울 동반</td><td>Sialometry 정상</td><td>정신건강 평가; burning mouth 감별</td></tr><tr><td>구조적·환경형</td><td>코막힘·코골이; 건조 환경; OSA 의심</td><td>비강 검진; 수면 평가</td><td>비강 호흡 교정; CPAP 최적화</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    A([구강 건조 호소]) --> B{Red Flag 확인}
-    B -- 있음 --> C[즉각 조치\n또는 전문과 의뢰]
-    B -- 없음 --> D[원인 평가\n문진 + 검진 + 기본 검사]
-    D --> E{약물 유발?}
-    E -- 예 --> F[원인 약물 교체·감량\n+ anticholinergic burden 재검토]
-    E -- 아니오 --> G{전신 질환 의심?}
-    G -- Sjögren·자가면역 --> H[ANA, anti-SSA/SSB\n류마티스내과 협진]
-    G -- 당뇨·CKD 의심 --> I[혈당/HbA1c·신기능\n기저 질환 조절]
-    G -- OSA·구강호흡 --> P[수면 평가\n비강 호흡 교정]
-    G -- 없음 --> J[비-약물 치료 우선\n+ 불소 전략 시작]
+    A([구강 건조 호소]) --> B[Red Flag?]
+    B -- 있음 --> C[즉각 조치<br/>또는 전문과 의뢰]
+    B -- 없음 --> D[원인 평가<br/>문진 + 검진 + 기본 검사]
+    D --> E[약물 유발?]
+    E -- 예 --> F[원인 약물 교체·감량<br/>+ anticholinergic burden 재검토]
+    E -- 아니오 --> G[전신 질환 의심?]
+    G -- Sjögren·자가면역 --> H[ANA, anti-SSA/SSB<br/>류마티스내과 협진]
+    G -- 당뇨·CKD 의심 --> I[혈당/HbA1c·신기능<br/>기저 질환 조절]
+    G -- OSA·구강호흡 --> P[수면 평가<br/>비강 호흡 교정]
+    G -- 없음 --> J[비-약물 치료 우선<br/>+ 불소 전략 시작]
     F --> J
     P --> J
-    J --> K{4~6주 후 평가}
-    K -- 호전 --> M[현 치료 유지\n정기 치과 방문]
-    K -- 호전 없음 --> Q{분비량 정상?}
-    Q -- 예\n구강 소견 정상 --> R[기능·심인형 고려\n불안·burning mouth 평가]
-    Q -- 아니오 --> L[인공 침 도포\n침 분비 촉진제 고려]
-    L --> N{충분한 효과?}
+    J --> K[4~6주 후 호전?]
+    K -- 호전 --> M[현 치료 유지<br/>정기 치과 방문]
+    K -- 호전 없음 --> Q[분비량 정상?]
+    Q -- 예<br/>구강 소견 정상 --> R[기능·심인형 고려<br/>불안·burning mouth 평가]
+    Q -- 아니오 --> L[인공 침 도포<br/>침 분비 촉진제 고려]
+    L --> N[충분한 효과?]
     N -- 있음 --> M
-    N -- 없음 --> O[전문과 의뢰\n타액선 영상·생검]
+    N -- 없음 --> O[전문과 의뢰<br/>타액선 영상·생검]
 
-    style A fill:#f96,stroke:#e65100,stroke-width:2px
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#f39c12
+    class B,E,G,K,Q,N yellow
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class H,I,R,M sky
     style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    style H fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style L fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style O fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-    style R fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style O fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```
 
 <p align="center"><strong>구강건조증 진단 및 치료 알고리듬</strong></p>
@@ -186,24 +187,21 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
-**치료 원칙**\
-① 원인 질환 치료 및 유발 약물 제거·교체 → ② 비-약물 치료(건조 예방 + 분비 자극 + 구강 위생) → ③ 인공 침 도포 → ④ 침 분비 촉진제 → ⑤ 치과 합병증 예방 및 관리
-{% endhint %}
+### <mark style="color:orange;">치료  Step</mark>
 
-### <mark style="color:orange;">치료 방침</mark>
+1. 원인 질환 치료 및 유발 약물 제거·교체&#x20;
+2. 비-약물 치료 :  건조 예방 및 구강 습윤 유지 + 침샘 분비 자극 + 구강 위생
+3. 인공 침 도포&#x20;
+4. 침 분비 촉진제 &#x20;
+5. 치과 질환(우식증, 치주 질환) 예방 및 치료
 
-* 원인 질환 치료 및 유발 약물 제거/교체
-* 건조 예방 및 구강 습윤 유지
-* 침샘 분비 자극 (비-약물 + 약물)
-* 치과 질환(우식증, 치주 질환) 예방 및 치료
 * Sjögren syndrome 등 전신 질환 동반 시 류마티스내과 협진
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료 & 예방</mark>
 
 #### <mark style="color:$primary;">건조 예방</mark>
 
-* 소량의 물을 자주 마시거나 입을 축임 — 단순 수분 공급만으로 근본적 해결은 어려우나 증상 완화에 도움
+* 소량의 물을 자주 마시거나 입을 축임 - 단순 수분 공급만으로 근본적 해결은 어려우나 증상 완화에는 도움
   * 지나친 수분 섭취(특히 야간)는 야뇨를 초래할 수 있음
   * 물로만 과도하게 자주 헹구면 오히려 불편감이 지속될 수 있으므로 인공 침과 병행 권장
 * 얼음 물고 있기 : 점막 손상 방지를 위해 거즈에 싸서 적용
@@ -216,34 +214,34 @@ graph TD
 
 #### <mark style="color:$primary;">분비 자극</mark>
 
-* 무설탕 껌 또는 자일리톨 함유 사탕/껌 — 저작 자극으로 타액 분비 촉진, 우식증 예방 부가 효과
+* 무설탕 껌 또는 자일리톨 함유 사탕/껌 - 저작 자극으로 타액 분비 촉진, 우식증 예방 부가 효과
   * 자일리톨 ≥ 5 g/일 → 우식증 예방 임상 근거 있음; 1회 1\~2 g씩 식후 씹기 권장
-* 감귤, 레몬 조각 (산미에 의한 타액 분비 자극) — 치아 부식 위험으로 장기 사용 제한
+* 감귤, 레몬 조각 (산미에 의한 타액 분비 자극) - 치아 부식 위험으로 장기 사용 제한
 
 {% hint style="danger" %}
-⚠️ **구강건조증 = 진행 중인 치과 응급 상황**\
-타액 감소 시 치아 우식증 위험이 일반인 대비 3\~5배 증가합니다. 특히 방사선 치료 후·Sjögren 환자는 수개월 내 다발성 치경부 우식증이 발생할 수 있습니다. **불소 전략은 증상 치료와 동등한 우선순위로 시작**해야 합니다.
+**구강건조증 = 진행 중인 치과 응급 상황**\
+타액 감소 시 치아 우식증 위험이 일반인 대비 3\~5배 증가. 특히 방사선 치료 후·Sjögren 환자는 수개월 내 다발성 치경부 우식증이 발생할 수 있음. 불소 전략을 증상 치료와 동등한 우선순위로 시작
 {% endhint %}
 
 #### <mark style="color:$primary;">구강 위생 및 우식증 예방 (합병증 예방)</mark>
 
-* **불소 치약** 사용 필수
+* 불소 치약 사용 필수
   * 일반 환자 : 불소 1,000\~1,500 ppm 치약 (시판 불소 치약)
-  * **고위험군** (방사선 치료 후·Sjögren·다발성 우식증) : 고농도 불소 치약 **5,000 ppm** 권장 (치과 처방)
+  * 고위험군 (방사선 치료 후·Sjögren·다발성 우식증) : 고농도 불소 치약 5,000 ppm 권장 (치과 처방)
   * 야간 취침 전 양치 후 불소 젤(fluoride gel)을 트레이에 담아 20분 적용 (고위험군)
   * 불소 바니시(fluoride varnish) : 치과에서 3\~6개월마다 적용
 * 알코올 무함유 구강 청정액 선택
-* **중탄산나트륨(Sodium bicarbonate) 세척** : 0.5% 용액으로 식후 헹구기 → 타액의 완충 작용을 보완하여 구강 내 산도 중화, 재광화 촉진 (특히 방사선 치료 후 환자)
-* **CPP-ACP (Casein Phosphopeptide-Amorphous Calcium Phosphate) 페이스트** : 치아 재광화를 직접 촉진하는 치과 보조제 — 취침 전 치아에 도포 후 헹구지 않음 (국내 제품명 확인 후 치과 의뢰)
-* **틀니 착용자** : 야간 취침 시 틀니 제거 후 물에 담가 보관; 구강 내 칸디다증 예방
-* **Chlorhexidine 구강 청결제** : 고위험 우식증 또는 반복 칸디다증 환자에서 **단기(2\~4주)** 사용 가능 — 장기 사용 시 치아 착색, 미각 변화 유발
+* 중탄산나트륨(Sodium bicarbonate) 세척 : 0.5% 용액으로 식후 헹구기 → 타액의 완충 작용을 보완하여 구강 내 산도 중화, 재광화 촉진 (특히 방사선 치료 후 환자)
+* CPP-ACP (Casein Phosphopeptide-Amorphous Calcium Phosphate) 페이스트 : 치아 재광화를 직접 촉진하는 치과 보조제 - 취침 전 치아에 도포 후 헹구지 않음 (국내 제품명 확인 후 치과 의뢰)
+* 틀니 착용자 : 야간 취침 시 틀니 제거 후 물에 담가 보관; 구강 내 칸디다증 예방
+* Chlorhexidine 구강 청결제 : 고위험 우식증 또는 반복 칸디다증 환자에서 단기(2\~4주) 사용 가능 - 장기 사용 시 치아 착색, 미각 변화 유발
 * 6개월마다 정기 치과 방문 권고 (고위험군은 3개월마다)
 
 #### <mark style="color:$primary;">방사선 치료 후 건조증 (Radiation-induced Xerostomia)</mark>
 
 * 두경부 방사선 치료 시 침샘 손상 → 치료 후 수주\~수개월 내 심한 건조증 발생
-* **IMRT (세기조절방사선치료)** 로 치료 계획 시 침샘 노출 선량 최소화로 예방 가능
-* **Amifostine** : 방사선 침샘 손상 예방 목적으로 사용 가능하나 효과 제한적, 부작용(저혈압, 구역) 고려
+* IMRT (세기조절방사선치료) 로 치료 계획 시 침샘 노출 선량 최소화로 예방 가능
+* Amifostine : 방사선 침샘 손상 예방 목적으로 사용 가능하나 효과 제한적, 부작용(저혈압, 구역) 고려
 * 방사선 후 건조증은 가역적 회복이 어렵고 수년간 지속되는 경우 많음 → pilocarpine 적응증(보험 급여 인정)
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -256,23 +254,23 @@ graph TD
 * 성분 : carboxymethylcellulose, polyethylene glycol, sorbitol, 전해질(Ca, K, Na, Mg, Cl)
 * 일부 제품은 lactoferrin, lysozyme, glucose oxidase 등 항균 효소 함유
 * 입술 안쪽, 구강 점막, 혀, 경구개에 1일 1\~2회 도포; 취침 전 도포가 특히 효과적 <mark style="color:blue;">\[제로바 액]</mark>
-* 스프레이형, 젤형, 구강 세정형 등 다양한 제형 선택 가능 — 알코올 무함유 제품 권장
-* **pH 확인 권장** : 일부 인공 침 제품은 보존 목적으로 산성 pH를 띨 수 있음 → 치아 부식 방지를 위해 **중성(pH 7.0 근처)** 제품 선택 권고
+* 스프레이형, 젤형, 구강 세정형 등 다양한 제형 선택 가능 - 알코올 무함유 제품 권장
+* pH 확인 권장 : 일부 인공 침 제품은 보존 목적으로 산성 pH를 띨 수 있음 → 치아 부식 방지를 위해 중성(pH 7.0 근처) 제품 선택 권고
 
 ### <mark style="color:orange;">침 분비 촉진제 (Sialagogue)</mark>
 
 * 작용 기전 : muscarinic (M3) 수용체 agonist → 침샘 분비 자극
 * 적응증 : 비-약물 치료 및 인공 침으로 불충분한 경우; Sjögren syndrome; 방사선 치료 후 건조증
 * 공통 부작용 : 발한, 홍조, 소화불량, 위장 팽만, 설사, 빈뇨, 눈물 분비 증가
-* 공통 주의·금기 : 위장관·요로 폐쇄, **조절되지 않는 기관지 천식 (uncontrolled asthma)**, 갑상선항진증, 폐쇄성 심질환, **심장 부정맥 (cardiac arrhythmia)**, 저/고혈압, 파킨슨병, **폐쇄각 녹내장 (narrow-angle glaucoma)**
+* 공통 주의·금기 : 위장관·요로 폐쇄, 조절되지 않는 기관지 천식 (uncontrolled asthma), 갑상선항진증, 폐쇄성 심질환, 심장 부정맥 (cardiac arrhythmia), 저/고혈압, 파킨슨병, 폐쇄각 녹내장 (narrow-angle glaucoma)
 * 용법 : 처음 1주일 저용량(1일 1\~2회)으로 시작 후 증량; 식전 30분 복용
-* **효과 판정 : 최소 3개월 이상 사용 후 평가**
+* 효과 판정 : 최소 3개월 이상 사용 후 평가
 
 #### <mark style="color:$primary;">pilocarpine</mark>
 
 * M1·M3 비선택적 작용; 반감기 약 1시간으로 하루 여러 번 복용 필요
-* 5~~7.5 ㎎ tid~~qid <mark style="color:blue;">\[살라겐]</mark>
-* **발한 부작용이 심한 경우** : 취침 직전 복용 회피; 2.5 ㎎으로 분할 감량 후 재증량하는 세밀한 용량 조절로 내약성 개선 가능
+* 5\~7.5 ㎎ tid\~qid <mark style="color:blue;">\[살라겐]</mark>
+* 발한 부작용이 심한 경우 : 취침 직전 복용 회피; 2.5 ㎎으로 분할 감량 후 재증량하는 세밀한 용량 조절로 내약성 개선 가능
 * 보험 급여 : Sjögren syndrome, 두경부 방사선 치료 후 건조증 등 인정 기준 확인 필요
 
 #### <mark style="color:$primary;">cevimeline</mark>
@@ -283,7 +281,7 @@ graph TD
 
 ### <mark style="color:orange;">기타</mark>
 
-* **rebamipide** : 위장 점막 보호제로 주로 사용되나, 점액 분비 촉진 기전을 통해 구강 건조 증상 완화 보고 있음 (off-label); **위염·위궤양 등 허가 상병이 동반된 경우에 한해 고려** — 구강건조증 단독 상병으로는 보험 심사 삭감 가능성 있음
+* rebamipide : 위장 점막 보호제로 주로 사용되나, 점액 분비 촉진 기전을 통해 구강 건조 증상 완화 보고 있음 (off-label); 위염·위궤양 등 허가 상병이 동반된 경우에 한해 고려 - 구강건조증 단독 상병으로는 보험 심사 삭감 가능성 있음
 
 ***
 
@@ -403,5 +401,3 @@ K11.7 구강건조증
 * 귀 앞이나 턱 아래 침샘 부위가 **갑자기 붓고 아프면** — 침샘 감염이나 결석일 수 있습니다.
 * 입 안에 **흰 반점이나 하얀 막**이 생기면 — 구강 칸디다증(곰팡이 감염)일 수 있습니다.
 * 입 마름과 함께 **안구 건조, 관절통, 피로감**이 동반되면 — 쇼그렌증후군 검사가 필요합니다.
-
-![image](../.gitbook/assets/e03f5ec2-eff5-47ae-96b3-caf41128e8de.JPG)
