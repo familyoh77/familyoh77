@@ -11,14 +11,16 @@
 
 * 외상, 흡연
 * 알레르기 : 음식, 약물, 접촉
-* 영양 결핍 : Vit B6(angular stomatitis), Vit B12, folate, Zn, Mg, Vit C, 철분
+* 영양 결핍 : Vit B2(riboflavin)(angular stomatitis), 철분, Vit B12, folate, Zn, Mg, Vit C
 * 감염 : 바이러스(herpetic stomatitis, herpangina, 수족구병), 세균(성홍열)
 * 자가면역 질환 : 크론병, Behçet Dz, SLE, 셀리악병, erythema multiforme
 * 혈액 질환 : leukemia, cyclic neutropenia
 * 호르몬 변화 : 월경, 임신
 * 스트레스, 불안
 * 화학 요법, 방사선 치료
-* 약물 : methotrexate, NSAID, phenobarbital, alendronate, β-차단제 등
+* 약물
+  * 확립된 원인 : methotrexate, 항암화학요법제, nicorandil, bisphosphonate, immune checkpoint inhibitor, mTOR 억제제(everolimus 등 — 아프타성 궤양과 유사한 mIAS 유발)
+  * 관련 보고 (case report/관찰 수준) : NSAID, β-차단제, phenobarbital, alendronate
 
 ## <mark style="color:green;">임상 양상 및 질환별 특징</mark>
 
@@ -31,17 +33,37 @@
 
 ![image](../.gitbook/assets/e80e570d-2382-4fa5-a619-bf230f3b8d39.JPG)
 
+### <mark style="color:orange;">구강 병변 감별 진단</mark>
+
+{% hint style="info" %}
+**구강 칸디다증(아구창)** — 외래에서 아프타 궤양과 가장 자주 혼동되는 질환\
+steroid 흡입제 사용, 당뇨, 항생제 복용, 고령, 틀니 착용자에서 호발. 흰색 반점/막이 특징이나 *닦아내면 벗겨지며* 그 아래 발적이 남음 — 아프타 궤양(닦이지 않는 궤양)과 구별. 항진균제(fluconazole 또는 nystatin)에 빠르게 반응.
+{% endhint %}
+
+{% hint style="warning" %}
+**재발성 아프타 궤양 + 복통/설사/체중 감소** 동반 시 → 크론병, 셀리악병, neutropenia 감별 검사 시행 (CBC, 철분/B12/엽산, 필요 시 소화기내과 의뢰)
+{% endhint %}
+
+<table><thead><tr><th width="110">질환</th><th width="140">초기 병변</th><th width="130">특징적 소견</th><th width="120">호발 부위</th><th width="100">통증</th><th width="110">경과</th><th>감별 포인트</th></tr></thead><tbody><tr><td>아프타 궤양</td><td>바로 궤양</td><td>황백색 바닥, 붉은 경계, 둥글고 뚜렷함</td><td>비각화 점막 (볼, 입술 안쪽, 혀 아랫면)</td><td>매우 심함</td><td>1–2주 자연치유, 재발 반복</td><td>수포 없음, 비각화 점막, topical steroid 반응 좋음</td></tr><tr><td>헤르페스 (HSV)</td><td>수포 → 궤양</td><td>군집된 1–3 ㎜ 소수포, 파열 후 얕은 궤양</td><td>각화 점막 포함 (잇몸, 경구개, 입술 경계)</td><td>심함</td><td>1–2주, 초감염 시 발열·림프절병증</td><td>수포 병력, 각화 점막, 전염성 있음</td></tr><tr><td>구강 칸디다증</td><td>흰색 plaque</td><td>닦아내면 벗겨짐, 그 아래 발적·미란</td><td>혀, 볼 점막, 구개</td><td>화끈거림</td><td>항진균제에 빠른 반응</td><td>scrapable, 위험인자 확인 (steroid 흡입제, DM, 틀니)</td></tr><tr><td>구강 편평태선 (OLP)</td><td>레이스 모양 흰 병변</td><td>양측성 망상형 흰 선조(Wickham striae), 만성 경과</td><td>양측 볼 점막</td><td>미란형은 심함</td><td>만성, 수개월–수년</td><td>양측성, 레이스형 흰 선, 중년 여성, 악성 전구 가능 → 의뢰</td></tr><tr><td>백반증/홍반증 (Leukoplakia/Erythroplakia)</td><td>흰색 또는 붉은 판</td><td>닦이지 않음, 불규칙 경계, painless</td><td>혀 측면, 구강저</td><td>초기 무통증</td><td>지속·악화 (&gt;2주)</td><td>흡연·음주 병력, painless, 단일, 2주 이상 → 악성 가능성 고려</td></tr><tr><td>구강암 (SCC)</td><td>궤양/종괴</td><td>indurated, rolled edge, 딱딱한 촉진</td><td>혀 측면, 구강저, 잇몸</td><td>초기 무통 → 진행 시 통증</td><td>지속 악화</td><td>2주 이상 비치유 단일 궤양, 경부 림프절 종대 → 즉시 의뢰</td></tr><tr><td>약물 유발 궤양</td><td>궤양</td><td>특정 약물 시작 후 발생, 비전형적 위치 가능</td><td>다양</td><td>심함</td><td>원인 약물 중단 후 호전</td><td>nicorandil, bisphosphonate, MTX, ICI, mTOR 억제제 복용력 확인</td></tr><tr><td>베체트병</td><td>깊은 궤양</td><td>구강 + 생식기 궤양 동반, 반복성</td><td>비각화 점막</td><td>심함</td><td>반복 재발</td><td>생식기 궤양, 포도막염, 피부 병변 동반 → 류마티스내과 의뢰</td></tr><tr><td>SJS/TEN</td><td>미란/수포</td><td>광범위, 다발성, 타 점막 및 피부 동반</td><td>광범위</td><td>심함</td><td>급성 악화</td><td>발열, 결막·피부 병변 동반 → 응급</td></tr></tbody></table>
+
+{% hint style="warning" %}
+**구강 편평태선(OLP) — 미란형(Erosive OLP) 주의**\
+미란형 OLP는 망상형에 비해 구강암으로의 악성 전환(malignant transformation) 위험이 상대적으로 높음. 단순 추적에 그치지 말고 **6개월 간격 정기 추적 및 의심 병변 생검** 시행 필요. 구강내과/구강외과 의뢰 권장.
+{% endhint %}
+
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 호흡 곤란/연하 곤란 동반 → 기도 확보 우선; 심한 점막 부종, Stevens-Johnson 증후군 의심 시 응급 의뢰
-* 광범위 수포성 점막 병변 + 발열 + 결막/피부 침범 → Stevens-Johnson / TEN 의심
+* 광범위 수포성 점막 병변 + 발열 + 결막/피부 침범 → Stevens-Johnson / TEN 의심\
+  ✽Erythema multiforme : 입술의 출혈성 가피(hemorrhagic crust) + 동심원성 target lesion이 특징; 재발성이며 HSV 감염 후 발생 가능
 * 심한 탈수(특히 소아·고령자의 헤르페스 잇몸구내염으로 경구 섭취 불가)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 치유되지 않는 단일 궤양 ＞2주 → 구강암 감별 위한 구강외과/이비인후과 의뢰
+* 2주 이상 지속되는 단일 궤양 + 다음 중 하나 이상: induration(딱딱한 촉진), 비통증성, 비전형 위치(혀 측면·구강저·잇몸), 흡연·음주력 → **즉시 조직검사 고려** (구강외과/이비인후과 의뢰)\
+  ✽2주 경과 궤양이라도 위험인자 없이 전형적 아프타 양상이면 추적 가능; "biopsy threshold"를 낮게 유지할 것
 * 구강 궤양 + 생식기 궤양/포도막염/피부 병변 → 베체트병 감별 위한 류마티스내과 의뢰
 * 면역 저하자(HIV, 항암치료 중, 고용량 스테로이드 복용)에서 발생한 광범위 또는 심한 구내염
 * 5세 이하 소아의 주기성 발열 + 아프타 궤양 + 인두염 + 경부 림프절병증 → PFAPA 의심 시 소아과 의뢰
@@ -64,7 +86,13 @@
 
 * 볼 및 입술 안쪽 점막, 혀의 심한 통증을 동반하는 회색빛 기저의 단일 또는 다발성 둥근 궤양
 * 동의어 : aphthous stomatitis, canker sore, 재발성 아프타성 구내염(RAS)
-* 경과 : 작은 궤양(2\~10 ㎜) — 7\~10일, 큰 궤양(＞10 ㎜) — 10\~30일 내 자연 치유
+* 경과 및 임상 아형
+
+  | 아형 | 빈도 | 크기 | 경과 | 특징 |
+  |---|---|---|---|---|
+  | **Minor (소아프타)** | ＞80% | ＜10 ㎜ | 7–14일, 흉터 없이 치유 | 가장 흔한 형태 |
+  | **Major (대아프타)** | ~15% | ＞10 ㎜ | 수 주–수개월, 흉터(scarring) 가능 | 깊고 불규칙한 경계; 베체트병·크론병 감별 필요 |
+  | **Herpetiform (포진형)** | ~5% | 1–3 ㎜, 수십 개 군집 | 1–2주 | HSV와 무관하나 형태 유사; 합쳐져 큰 궤양 형성 가능 |
 * 신체 다른 부위 궤양 병소 여부를 확인하는 것이 필요 (Behçet Dz 등 감별)
 
 ### <mark style="color:orange;">원인 및 위험 인자</mark>
@@ -79,7 +107,7 @@
 * 유전
 * 국소 외상 : 치아, 틀니, 칫솔
 * 특정 음식(음식 과민)
-* 스트레스, 불안, 늦은 수면(밤 11시 이후)
+* 스트레스, 불안, 수면 부족/불규칙한 수면
 * 내분비 변화 : 월경
 * 영양 결핍 : 철분, 아연, Vit B(엽산 등)
 * 약물 : NSAID, β-차단제, alendronate, methotrexate
@@ -89,7 +117,7 @@
 
 * 짧은(2\~48시간) 전구기(작열감/가려움) 후 통증성 궤양 발생 (보통 ＜10 ㎜)
 * 홍반 → 구진 → 뚜렷한 붉은 경계를 가진 둥근 타원형 궤양; 궤양 표면은 균질한 미색 위막
-* 매운/뜨거운/신 음식, 탄수화물 음식/음료 등 자극적 음식 섭취 시 심한 증상
+* 매운/뜨거운/신 음식 등 자극적 음식 섭취 시 심한 증상
 * 호발 부위 : 볼, 입술, 혀 아랫면, 연구개 점막\
   ✽잇몸, 경구개, 혓바닥에는 발생하지 않음 (→ 잇몸·경구개 병변은 헤르페스 감별)
 * 2차 감염 시 발열, 궤양 주변부 부종 증가, 농성 분비물, 경부 림프절병증
@@ -98,13 +126,29 @@
 
 * 임상 진단; 검사는 보통 필요 없음
 * 재발 빈발 또는 비전형 경과 시 혈액 검사 : CBC, ferritin, 엽산, Vit B12
+
+**▶ 검사 불필요 (저위험)**
+
+* 연 ≤2–3회, 소형(minor) 궤양, 1–2주 내 완전 회복, 전신 증상 없음
+* 👉 검사 없이 대증 치료 + 생활 교정
+
+**▶ 검사(Work-up) 시행 조건** — 다음 중 하나라도 해당 시
+
+* 연 ≥3회 재발, 크거나 심한 통증·다발성, 2주 이상 미치유
+* 성인에서 새로 시작된 경우, 전신 증상 동반, 치료 반응 불량
+
+1차 기본 검사 : CBC (± differential), ferritin, Vit B12, folate\
+→ 결핍 확인 시 4–8주 보충 후 재평가\
+✽B12 수치가 정상 하한치(low-normal, ~300 pg/㎖)에 있더라도 재발 빈발 시 보충 시도 고려 (cyanocobalamin 1,000 ㎍/d)
+
 * 조직/배양 검사 : 치유되지 않는 궤양(＞2주), 비전형 진행 시 고려
 
 ### <mark style="color:orange;">PFAPA 증후군</mark>
 
 * Periodic Fever, Aphthous stomatitis, Pharyngitis, Adenitis의 복합 증상이 발생하는 증후군
 * 증상 : 규칙적인 발열, 인후통, 구강 궤양, 경부 림프절 부종
-* 보통 ＜5세에 발생, 청소년까지 일정 간격으로 재발; 5일 정도 지속
+* 보통 ＜5세에 발생, 청소년까지 일정 간격으로 재발; 5일 정도 지속\
+  ✽성인에서도 드물게 발생 가능 (adult-onset PFAPA); 진단 지연이 흔함
 * 원인 : 불명; 면역 관련 추정
 * 치료
   * 자연 치유
@@ -165,6 +209,11 @@
 
 ✽확진을 위한 실험실 검사 방법은 없음; 의심 시 류마티스내과 의뢰
 
+{% hint style="info" %}
+**ICBD criteria (International Criteria for Behçet's Disease)** — 현재 더 널리 사용\
+구강 궤양 2점 + 생식기 궤양 2점 + 안 병변 2점 + 피부 병변 1점 + 신경계 1점 + 혈관 병변 1점 + pathergy(선택) 1점; **총점 ≥4점** 시 양성. 위 ISG 기준보다 민감도 높음.
+{% endhint %}
+
 ## <mark style="color:green;">치은염 (Gingivitis)</mark>
 
 ### <mark style="color:orange;">원인</mark>
@@ -173,7 +222,7 @@
 * 호르몬 변화 : 임신, 월경, 폐경
 * 알레르기, 영양 결핍, 만성 소모성 질환
 * 약물 : 경구 피임제, 니코틴(혈관 수축), CCB
-* 영양 결핍 : Vit C, Vit B12, coenzyme Q10
+* 영양 결핍 : Vit C, Vit B12
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -190,6 +239,63 @@
 * 구취
 * 지속되면(수 주\~수년) 보다 심각한 상태인 치주염(periodontitis)으로 이행
 
+{% hint style="info" %}
+**구강 궤양 핵심 3종 빠른 감별**\
+① **수포 병력 있음 + 각화 점막(잇몸·경구개)** → HSV 의심 → 항바이러스제; steroid 단독 금지\
+② **흰색 plaque + 닦이면 벗겨짐** → 칸디다증 → 항진균제\
+③ **위 2가지 아님 + 비각화 점막 + 재발 반복** → 아프타 궤양 → 아래 알고리듬 적용
+{% endhint %}
+
+***
+
+```mermaid
+flowchart TD
+    A([구강 궤양 환자]) --> PRE{사전 감별}
+    PRE --> |수포 병력\n각화 점막| HSV[HSV 의심\n→ 항바이러스제\nsteroid 단독 금지]
+    PRE --> |백색 plaque\nscrapable| CAND[칸디다증 의심\n→ 항진균제]
+    PRE --> |위 해당 없음| B{재발성 아프타 궤양\n의심}
+
+    B --> C{연간 재발 횟수\n+ 중증도}
+    C --> |연 ≤2–3회\n소형·단기| D[Low-risk\n검사 불필요]
+    C --> |연 ≥3회 또는\n중등도 이상| E{영양 결핍\nWork-up}
+
+    D --> D1[국소 치료\ntriamcinolone 연고\n국소 마취제·가글]
+    D --> D2[생활 교정\n식이·수면·구강위생]
+
+    E --> |CBC·ferritin·B12·folate| F{결핍 확인}
+    F --> |결핍 있음| G[영양 보충\n4–8주 후 재평가]
+    F --> |결핍 없음 / 재발 지속| H{증상 단계}
+
+    H --> |Mild| H1[국소 치료 유지]
+    H --> |Moderate\n다발·중등 통증| H2[국소 치료 +\n가글 + 점막 보호제]
+    H --> |Severe Flare\n먹기 불가| H3[단기 경구 steroid\nprednisolone × 5–7일\n→ 국소 치료 이행]
+
+    H1 --> I{steroid 반복\n필요 또는 재발 지속}
+    H2 --> I
+    H3 --> I
+
+    I --> |Yes| J[Colchicine 시작\n0.6 ㎎ qd → bid\n재발 억제 1st-line]
+    I --> |No| K[추적 관찰]
+
+    J --> L{Colchicine 실패}
+    L --> |Yes| M[전문의 의뢰\nBehçet 감별\nBiologics 고려\nTNF-α inhibitor\napremilast]
+    L --> |No| N[Colchicine 유지]
+
+    E --> |구강+생식기 궤양\n눈·피부 병변| O[Behçet pathway\n류마티스내과 의뢰\nBiologics 조기 고려]
+
+    style A fill:#e3f2fd,stroke:#1565c0
+    style HSV fill:#fff3e0,stroke:#e65100
+    style CAND fill:#fff3e0,stroke:#e65100
+    style O fill:#fce4ec,stroke:#c62828
+    style M fill:#fce4ec,stroke:#c62828
+    style H3 fill:#fff3e0,stroke:#e65100
+    style J fill:#e8f5e9,stroke:#2e7d32
+```
+
+<p align="center"><strong>구강 궤양 감별 및 재발성 아프타 궤양(RAS) 진단·치료 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. 처방가이드 구내염 챕터, 2025</mark></em></p>
+
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
@@ -199,7 +305,7 @@
 * 대부분 특별한 치료 없이 대증 치료로 자연 치유
 * 대증 치료 : 국소 마취제, 국소/전신 진통제, 해열제
 * 좋은 영양 섭취, 좋은 구강 위생, 외상 주의
-* 아형별 치료 전략 상이 — 특히 헤르페스성은 스테로이드 금기(바이러스 전파 촉진)
+* 아형별 치료 전략 상이 — 헤르페스성에서는 **항바이러스제 없이 steroid 단독 사용 금지**
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
@@ -210,9 +316,10 @@
 * 구강 위생 개선 : 올바른 칫솔질, 치실 사용\
   ✽치실의 효과에 대하여 논란이 있음
 * 가글 또는 린스 (일부 연구에서 치유 촉진, 재발 예방)
-  * tetracycline, aloe, chlorhexidine <mark style="color:blue;">\[헥사메딘 액]</mark> : 1일 4회 (보험 2회 인정)
+  * tetracycline, aloe, chlorhexidine <mark style="color:blue;">\[헥사메딘 액]</mark> : 1일 4회 (보험 2회 인정)\
+    ✽chlorhexidine은 plaque 억제·구강 위생 보조 목적; 아프타 궤양에서 healing 촉진 효과는 제한적
   * 따뜻한 생리 식염수 린스 : 1일 2회
-  * 알코올 함유 구강 린스 제품의 장기 사용은 구강암 발생 위험 증가 가능 — 장기 사용 지양
+  * 알코올 함유 구강 린스의 장기 사용은 점막 건조·자극을 악화시킬 수 있어 반복성 구내염 환자에서 비권장
 * 혀 백태 관리 (암 환자·완화 의료)
   * 부드러운 칫솔이나 적신 거즈로 자주 닦기
   * 베이킹소다 가글 : 온수 1컵 + 소금 ½ tsp + 베이킹소다 ½ tsp, 1일 4회 (식후 및 취침 시)
@@ -222,7 +329,8 @@
 ### <mark style="color:orange;">영양 요법</mark>
 
 * 일부에서 효과
-* 과일·채소, Vit C, coenzyme Q10, bilberry(월귤나무 열매)
+* 과일·채소, Vit C, bilberry(월귤나무 열매)\
+  ✽coenzyme Q10은 일부 소규모 연구에서 보고되었으나 근거 수준 낮음 — 일상적 권고는 보류
 * 피할 음식 : 설탕 함유 식품
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -241,6 +349,12 @@
 * 잘 낫지 않는 경우 고역가 고려 : clobetasol propionate 0.05%, halobetasol propionate 0.05%\
   ✽구강 칸디다증 발생 주의
 
+#### <mark style="color:$primary;">국소 Calcineurin 억제제 (off-label)</mark>
+
+* 스테로이드 반응 불량 또는 칸디다증 반복 우려 시 대안
+* tacrolimus 0.1% 연고 — 난치성 아프타, OLP에서 off-label 사용; 구강 적응증 비허가(아토피 허가), 전문의 의뢰 후 사용 권장
+* pimecrolimus 1% 크림 — 유사 적응증; 국내 가용성 제한적
+
 #### <mark style="color:$primary;">국소 마취제</mark>
 
 * 1일 3\~4회 도포, 특히 식사 전 도포 시 통증 완화에 유용
@@ -251,13 +365,15 @@
 #### <mark style="color:$primary;">국소 면역 조절제</mark>
 
 * 효과 : 증상 완화, 치유 촉진
-* amlexanox 5% qid
+* amlexanox 5% qid — 국내 미판매 (해외 처방 시 고려)
 
 #### <mark style="color:$primary;">점막 보호제</mark>
 
 * 일부 연구에서 약간의 증상 완화 및 점막 재생 효과
-* sucralfate 액 5\~10 ㎖ 1\~2분 린스 qid <mark style="color:blue;">\[아루사루민]</mark>
-* rebamipide 100 ㎎ tid <mark style="color:blue;">\[무코스타]</mark>
+* sucralfate 액 5\~10 ㎖ 1\~2분 린스 qid <mark style="color:blue;">\[아루사루민]</mark>\
+  ✽점막 보호 기전; 아프타에서 healing 촉진 효과는 mixed evidence
+* rebamipide 100 ㎎ tid <mark style="color:blue;">\[무코스타]</mark>\
+  ✽일본 중심 데이터; 국내 사용은 있으나 아프타에서 근거 제한적
 * 제산제 겔 + diphenhydramine 액(2.5 ㎎/㎖) 1:1 혼합 : 2시간마다 또는 필요시 5 ㎖ 린스
 * bismuth subsalicylate rinse
 
@@ -270,10 +386,12 @@
 #### <mark style="color:$primary;">기타</mark>
 
 * diclofenac 7.4% 액 15 ㎖ bid\~tid <mark style="color:blue;">\[아프니벤큐 액]</mark>
-* colchicine 0.2\~0.5 ㎎/d <mark style="color:blue;">\[콜킨]</mark> — 재발 빈도 감소; 부작용 주의
+* colchicine 0.6 ㎎ qd–bid <mark style="color:blue;">\[콜킨]</mark> — 재발 빈도 감소; 신기능·위장 부작용 고려하여 용량 조절
 * Vit B12 : 일부 연구에서 예방 효과
-* policresulen <mark style="color:blue;">\[알보칠]</mark> : 신경 소작을 통한 일시적 증상 완화\
-  ✽병소 및 주변 조직에 화학적 손상을 일으켜 오히려 회복을 지연시킬 수 있음 — 일상적 사용 권장되지 않음
+{% hint style="danger" %}
+⚠️ **알보칠(policresulen) 사용 금지**\
+병소 및 주변 정상 조직에 화학적 손상을 일으켜 오히려 회복을 지연시킬 수 있음. 일상적 사용 권장하지 않음. 구매 가능하나 환자에게 사용 자제를 안내할 것.
+{% endhint %}
 * propolis : 일부 소규모 연구에서 유효
 * 구강 내 살균 가글
   * benzydamine hydrochloride 액 15 ㎖ 4시간마다 가글 <mark style="color:blue;">\[탄툼 액]</mark> (자극감 강한 경우 물과 1:1 희석)
@@ -284,11 +402,11 @@
 
 * 대부분의 성인에서는 증상이 가볍고 짧은 경과로 중재가 필요하지 않음
 * 면역저하자에서는 증상이 심하고 빈번하게 재발할 수 있음
-* steroid는 바이러스의 전파를 촉진시키므로 금기
+* 활동성 HSV 병변에서 **항바이러스제 없이 steroid 단독 사용 금지** — 항바이러스제 병용 상황에서의 steroid는 specialist 판단에 따름
 
 #### <mark style="color:$primary;">항바이러스제</mark>
 
-* 증상 시작 24\~48시간 이내 치료를 시작할 때만 효과; 수포가 터진 후에는 효과 없음
+* 가장 효과적인 시점은 **tingling/burning prodrome 단계**; 48시간 이내 투여 시 효과 극대화. ulcer 진행 이후에는 효과 감소하나, 중증 초감염 또는 면역저하자에서는 늦더라도 투여 고려
 * 초감염(특히 소아 중증) : acyclovir 15 ㎎/㎏ (최대 200 ㎎) 5회/일 × 7일
 * 성인 재발성 구순 포진 : acyclovir 400 ㎎ tid × 5일, 또는 valacyclovir 2 g bid × 1일(단기 고용량)
 * 면역 저하자에서 심한 경우 : 정주용 acyclovir 고려, 전문의 의뢰
@@ -365,7 +483,7 @@ M35.2 베체트병
 > 콜킨 0.6 mg/T   1T qd~bid  (장기)
 > ```
 >
-> _✽연 3회 이상 재발하는 환자에서 colchicine 0.2\~0.5 ㎎/d 또는 0.6 ㎎ qd\~bid로 유지. 설사·근병증 부작용 모니터링. cimetidine도 유지 요법으로 고려 가능_
+> _✽연 3회 이상 재발하는 환자에서 colchicine 0.6 ㎎ qd–bid로 유지 (신기능·위장 부작용 고려). **RAS 환자에서는 0.6 ㎎ qd로 시작하여 내약성 확인 후 필요 시 bid로 증량.** 설사·근병증 부작용 모니터링. cimetidine도 유지 요법으로 고려 가능_
 
 > **처방례 5. 헤르페스 잇몸구내염 — 성인 초감염/재발**
 >
@@ -375,7 +493,7 @@ M35.2 베체트병
 > 타이레놀 500 mg/T    1T q6h prn       발열·통증
 > ```
 >
-> _✽증상 발현 48시간 이내 투여 시에만 효과. 면역 저하자·중증은 valacyclovir 고려 또는 전문의 의뢰. **스테로이드 금기** (바이러스 전파 촉진)_
+> _✽증상 발현 48시간 이내(prodrome 단계)에 투여 시 효과 극대화. 면역 저하자·중증은 valacyclovir 고려 또는 전문의 의뢰. **활동성 HSV 병변에 항바이러스제 없이 steroid 단독 사용 금지** (바이러스 배출 증가, 치유 지연)_
 
 > **처방례 6. 치은염**
 >
@@ -421,7 +539,7 @@ M35.2 베체트병
 
 > **항바이러스제 (조비락스 등) 복용 시**
 >
-> * **증상이 시작된 후 48시간 이내**에 복용을 시작해야 효과가 있습니다. 수포가 이미 터진 이후에는 효과가 제한적입니다.
+> * 가장 효과적인 시점은 **수포가 생기기 전 따끔거리거나 열감이 느껴지는 전구 단계**입니다. 48시간 이내 복용을 시작할수록 효과가 좋으며, ulcer로 진행된 이후에는 효과가 감소합니다.
 > * 충분한 물과 함께 복용하십시오. 신장 기능이 저하된 경우 의료진에게 알리십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -453,7 +571,7 @@ M35.2 베체트병
 
 * **자극적인 음식을 피하십시오.** 매운 것, 신 것, 뜨거운 것, 단단하고 거친 것(스낵·견과류)은 통증을 악화시킵니다. 미지근하거나 차가운 유동식이 좋습니다.
 * **구강 위생을 유지하십시오.** 부드러운 칫솔로 조심스럽게 양치하고, 식후에 따뜻한 소금물(물 1컵 + 소금 ½ 작은술)로 가볍게 헹구면 도움이 됩니다.
-* **충분히 자고 스트레스를 관리하십시오.** 특히 밤 11시 이후 늦게 자는 습관은 재발과 관련이 있다고 알려져 있습니다.
+* **충분히 자고 스트레스를 관리하십시오.** 수면 부족과 불규칙한 수면은 면역 반응에 영향을 미쳐 재발과 관련이 있습니다.
 * **금연하십시오.** 담배 연기는 점막 회복을 늦춥니다.
 * **영양을 골고루 섭취하십시오.** 철분, 아연, 비타민 B군, 엽산이 부족하면 재발이 잦아집니다.
 
@@ -461,7 +579,7 @@ M35.2 베체트병
 
 * **바르는 연고**는 식사 후 입안을 헹구고 물기를 제거한 뒤 병소에 **소량만** 발라 주십시오. 1일 4회(식후 및 취침 전) 쓰시되, **2주를 넘기지 마십시오**.
 * **식사 전**에 통증이 심하면 국소 마취 겔을 소량 바르면 식사가 편해집니다. 혀가 마비된 듯한 느낌이 날 수 있으니 깨물지 않도록 주의하십시오.
-* **가글**은 삼키지 말고 입안에 1\~2분 머금은 후 뱉으십시오. 가글 후 30분은 양치나 음식·음료를 피하면 효과가 오래갑니다.
+* **가글**은 삼키지 말고 입안에 1\~2분 머금은 후 뱉으십시오. 가글 후 30분은 양치나 음식·음료를 피하면 효과가 오래갑니다. **탄툼 액은 자극감(화끈거림)이 강할 수 있으므로, 점막 통증이 심하거나 소아의 경우 동량의 물과 1:1로 희석하여 사용하십시오.**
 
 #### <mark style="color:$primary;">헤르페스 구내염은 전염되나요?</mark>
 
