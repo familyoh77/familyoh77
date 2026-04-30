@@ -246,37 +246,37 @@
 ```mermaid
 flowchart TD
     A([구강 궤양 환자]) --> PRE{사전 감별}
-    PRE --> |수포 병력\n각화 점막| HSV[HSV 의심\n→ 항바이러스제\nsteroid 단독 금지]
-    PRE --> |백색 plaque\nscrapable| CAND[칸디다증 의심\n→ 항진균제]
-    PRE --> |위 해당 없음| B{재발성 아프타 궤양\n의심}
+    PRE --> |수포 병력<br/>각화 점막| HSV[HSV 의심<br/>→ 항바이러스제<br/>steroid 단독 금지]
+    PRE --> |백색 plaque<br/>scrapable| CAND[칸디다증 의심<br/>→ 항진균제]
+    PRE --> |위 해당 없음| B{재발성 아프타 궤양<br/>의심}
 
-    B --> C{연간 재발 횟수\n+ 중증도}
-    C --> |연 ≤2–3회\n소형·단기| D[Low-risk\n검사 불필요]
-    C --> |연 ≥3회 또는\n중등도 이상| E{영양 결핍\nWork-up}
+    B --> C{연간 재발 횟수<br/>+ 중증도}
+    C --> |연 ≤2–3회<br/>소형·단기| D[Low-risk<br/>검사 불필요]
+    C --> |연 ≥3회 또는<br/>중등도 이상| E{영양 결핍<br/>Work-up}
 
-    D --> D1[국소 치료\ntriamcinolone 연고\n국소 마취제·가글]
-    D --> D2[생활 교정\n식이·수면·구강위생]
+    D --> D1[국소 치료<br/>triamcinolone 연고<br/>국소 마취제·가글]
+    D --> D2[생활 교정<br/>식이·수면·구강위생]
 
     E --> |CBC·ferritin·B12·folate| F{결핍 확인}
-    F --> |결핍 있음| G[영양 보충\n4–8주 후 재평가]
+    F --> |결핍 있음| G[영양 보충<br/>4–8주 후 재평가]
     F --> |결핍 없음 / 재발 지속| H{증상 단계}
 
     H --> |Mild| H1[국소 치료 유지]
-    H --> |Moderate\n다발·중등 통증| H2[국소 치료 +\n가글 + 점막 보호제]
-    H --> |Severe Flare\n먹기 불가| H3[단기 경구 steroid\nprednisolone × 5–7일\n→ 국소 치료 이행]
+    H --> |Moderate<br/>다발·중등 통증| H2[국소 치료 +<br/>가글 + 점막 보호제]
+    H --> |Severe Flare<br/>먹기 불가| H3[단기 경구 steroid<br/>prednisolone × 5–7일<br/>→ 국소 치료 이행]
 
-    H1 --> I{steroid 반복\n필요 또는 재발 지속}
+    H1 --> I{steroid 반복<br/>필요 또는 재발 지속}
     H2 --> I
     H3 --> I
 
-    I --> |Yes| J[Colchicine 시작\n0.6 ㎎ qd → bid\n재발 억제 1st-line]
+    I --> |Yes| J[Colchicine 시작<br/>0.6 ㎎ qd → bid<br/>재발 억제 1st-line]
     I --> |No| K[추적 관찰]
 
     J --> L{Colchicine 실패}
-    L --> |Yes| M[전문의 의뢰\nBehçet 감별\nBiologics 고려\nTNF-α inhibitor\napremilast]
+    L --> |Yes| M[전문의 의뢰<br/>Behçet 감별<br/>Biologics 고려<br/>TNF-α inhibitor<br/>apremilast]
     L --> |No| N[Colchicine 유지]
 
-    E --> |구강+생식기 궤양\n눈·피부 병변| O[Behçet pathway\n류마티스내과 의뢰\nBiologics 조기 고려]
+    E --> |구강+생식기 궤양<br/>눈·피부 병변| O[Behçet pathway<br/>류마티스내과 의뢰<br/>Biologics 조기 고려]
 
     style A fill:#e3f2fd,stroke:#1565c0
     style HSV fill:#fff3e0,stroke:#e65100
