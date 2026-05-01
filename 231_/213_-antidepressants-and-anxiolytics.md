@@ -56,7 +56,7 @@ Serotonin syndrome
 * 부작용 : 구역, 입마름, 불면, 졸음, 변비, 피로, 어지럼, 혈압 상승(duloxetine은 덜함)
 * 용량과 효과/부작용이 비례함
 
-Serotonin modulator
+### Serotonin modulator
 
 ```
 ![image](images/a5b1d34e-ece1-4f5e-a023-c9ce2a28839d.JPG)
@@ -64,7 +64,7 @@ Serotonin modulator
 
 * 우울증 적용(불안증에는 적용 안 됨)
 
-Tricyclic Antidepressant(TCA) ![image](http://www.xn--o39a11of9fpsm6hg.kr/images/ac097600-f35f-4fb0-9bd4-3b2847a9914e.JPG)
+### Tricyclic Antidepressant(TCA) ![image](http://www.xn--o39a11of9fpsm6hg.kr/images/ac097600-f35f-4fb0-9bd4-3b2847a9914e.JPG)
 
 * 효과 : 항우울/항불안. 중증 우울증에 대하여 SSRI보다 유효; 공황장애, 통증 증후군에도 유효
 * 치료 반응 사이의 관계가 명확함; 저렴함
