@@ -9,32 +9,27 @@
 * 유병률 : 일반 인구의 0.7\~4.6%; 중년 이후 여성(폐경 전후)에서 현저히 높음(여성 : 남성 = 7 : 1)
 * 경과 : 자연 회복 약 1/3, 장기 지속 약 1/3, 악화 약 1/3; 단기 소실 후 재발도 흔함
 
-### <mark style="color:orange;">BMS 분류</mark>
+## <mark style="color:green;">원인 및 분류</mark>
 
-**1차성(원발성) BMS** : 기질적 원인 없음; 신경병증 기전으로 이해 (ICOP-1: "Burning Mouth Syndrome")
+#### <mark style="color:$primary;">1차성(원발성) BMS</mark>&#x20;
 
-**2차성(속발성, Secondary Oral Burning)** : 구강 국소·전신 질환, 약물에 의한 구강 작열감; 원인 치료가 우선 (ICOP-1 용어 구분)
+* 원인: 대부분 불명  (기질적 원인 없음); 소섬유 신경병증·중추 감작·도파민 기능 변화로 설명
+* 아형 : 하루 중 증상 변동 패턴을 기준으로 분류
+  * Type I (\~35%) : 기상 시 무증상 → 하루 중 점진적 악화; 추정 기전 - 말초 소섬유 신경병증
+  * Type II (\~55%) : 종일 지속, 수면 장애 동반; 중추 감작, 심리적 요소
+  * Type III (\~10%) : 간헐적, 증상 없는 날 있음; 접촉 알레르기, 유발 물질
 
-**아형 분류** (증상 패턴)
+#### <mark style="color:$primary;">2차성(속발성, Secondary Oral Burning)</mark>&#x20;
 
-<table><thead><tr><th width="157">아형</th><th width="289">증상 패턴</th><th>추정 기전</th></tr></thead><tbody><tr><td>Type I (~35%)</td><td>기상 시 무증상 → 하루 중 점진적 악화</td><td>말초 소섬유 신경병증</td></tr><tr><td>Type II (~55%)</td><td>종일 지속, 수면 장애 동반</td><td>중추 감작, 심리적 요소</td></tr><tr><td>Type III (~10%)</td><td>간헐적, 증상 없는 날 있음</td><td>접촉 알레르기, 유발 물질</td></tr></tbody></table>
-
-### <mark style="color:orange;">병태생리 - 3축 모델</mark>
-
-1차성 BMS는 현재 다음 3가지 기전의 복합으로 이해됩니다:
-
-1. **소섬유 신경병증 (small fiber neuropathy)** - 삼차신경의 미세 C-섬유·Aδ-섬유 손상; 혀 끝 신경 밀도 감소로 확인 가능
-2. **중추 감작 (central sensitization)** - 뇌간·피질 수준에서 통증 억제 기능 저하; Type II(지속형)에서 주된 기전
-3. **미각-통증 상호작용 이상 (taste-pain disinhibition)** - chorda tympani(고삭신경) 기능 저하 → 삼차신경 통증 억제 감소 → 작열감 증가\
-   ✽이 기전이 "식사 중 일시 호전"을 설명함 - 미각 자극이 일시적으로 통증을 억제
-4. **중추 도파민계 기능 저하** - 선조체(striatum) 내 도파민 수용체 결합능 저하 → 통증 억제 회로 결함; PET 연구로 확인됨\
-   ✽Clonazepam·항우울제(TCA/SNRI)의 통증 억제 효과에 대한 신경생물학적 근거
+* 구강 국소·전신 질환, 약물에 의한 구강 작열감
+*
 
 ## <mark style="color:green;">원인</mark>
 
-* 1차성 BMS : 대부분 불명; 소섬유 신경병증·중추 감작·도파민 기능 변화로 설명
+*
+*
 
-### <mark style="color:orange;">2차성 BMS 관련 인자</mark>
+**2차성 BMS 관련 인자**
 
 * 내분비 : 폐경(에스트로겐 감소), 당뇨병, 갑상선 기능저하증
 * 영양 결핍 : Vit B군(B1·B2·B6·B12), 엽산, 아연, 철분
