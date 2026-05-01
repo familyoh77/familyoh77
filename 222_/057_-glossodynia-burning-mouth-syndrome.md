@@ -1,4 +1,4 @@
-# 혀 통증 Glossodynia, Burning Mouth Syndrome
+# 혀통증·구강 작열통 Glossodynia, Burning Mouth Syndrome (BMS)
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -11,23 +11,16 @@
 
 ## <mark style="color:green;">원인 및 분류</mark>
 
-#### <mark style="color:$primary;">1차성(원발성) BMS</mark>&#x20;
+### <mark style="color:orange;">1차성(원발성) BMS</mark>
 
-* 원인: 대부분 불명  (기질적 원인 없음); 소섬유 신경병증·중추 감작·도파민 기능 변화로 설명
-* 아형 : 하루 중 증상 변동 패턴을 기준으로 분류
-  * Type I (\~35%) : 기상 시 무증상 → 하루 중 점진적 악화; 추정 기전 - 말초 소섬유 신경병증
-  * Type II (\~55%) : 종일 지속, 수면 장애 동반; 중추 감작, 심리적 요소
-  * Type III (\~10%) : 간헐적, 증상 없는 날 있음; 접촉 알레르기, 유발 물질
+* 원인 : 대부분 불명 (기질적 원인 없음)
+* 아형 — 하루 중 증상 변동 패턴을 기준으로 분류 (2차성 원인 배제 후 적용)
 
-#### <mark style="color:$primary;">2차성(속발성, Secondary Oral Burning)</mark>&#x20;
+<table><thead><tr><th width="100">아형</th><th width="250">증상 패턴</th><th>추정 기전</th></tr></thead><tbody><tr><td>Type I (~35%)</td><td>기상 시 무증상 → 하루 중 점진적 악화</td><td>말초 소섬유 신경병증</td></tr><tr><td>Type II (~55%)</td><td>종일 지속, 수면 장애 동반</td><td>중추 감작, 심리적 요소</td></tr><tr><td>Type III (~10%)</td><td>간헐적, 증상 없는 날 있음</td><td>접촉 알레르기, 유발 물질</td></tr></tbody></table>
 
-* 구강 국소·전신 질환, 약물에 의한 구강 작열감
-*
+### <mark style="color:orange;">2차성(속발성, Secondary Oral Burning)</mark>
 
-## <mark style="color:green;">원인</mark>
-
-*
-*
+* 구강 국소·전신 질환, 약물에 의한 구강 작열감; 원인 치료가 우선
 
 **2차성 BMS 관련 인자**
 
