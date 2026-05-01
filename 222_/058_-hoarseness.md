@@ -123,7 +123,7 @@ graph TD
     class L1,L2,L3,L4 green;
 ```
 
-
+<p align="center"><strong>목쉼 평가 및 관리</strong><br><em>Ref. AFP 2017:1;96(11) Fig 2</em></p>
 
 ***
 
