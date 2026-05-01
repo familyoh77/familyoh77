@@ -193,60 +193,64 @@ class I,V orange
 
 #### <mark style="color:$primary;">Duloxetine</mark>
 
-* 중추형·불안·우울 동반 시 적용
+* 적응증 : 중추형·불안·우울 동반 시 적용
 * SNRI : 하향 통증 조절(노르에피네프린) + 불안·우울 동반 증상 동시 조절; Type II에 특히 적합
 * duloxetine 30 ㎎ qd × 2주 → 60 ㎎ qd <mark style="color:blue;">\[심발타]</mark>; 구강건조 부작용이 TCA보다 경미. 초기 오심은 2\~3주 후 소실; 중단 시 점진적 감량
 
 #### <mark style="color:$primary;">TCA</mark>&#x20;
 
-* 하향 통증 조절 및 수면 개선; duloxetine과 유사하나 항콜린성 부작용이 있음
-* amitriptyline 10\~25 ㎎ hs; 또는 nortriptyline 10\~25 ㎎ hs (☞ TCA)\
-  ✽**구강건조 부작용이 기존 입마름 증상 악화 가능** - 증상 모니터링; 고령자 특히 주의
+* 적응증 : 통증, 수면 장애
+* duloxetine과 유사하나 항콜린성 부작용이 있음
+* amitriptyline 10\~25 ㎎ hs 또는 nortriptyline 10\~25 ㎎ hs (☞ [TCA](../231_/213_-antidepressants-and-anxiolytics.md#tricyclic-antidepressant-tca))
+* 구강건조 부작용이 기존 입마름 증상을 악화시킬 수 있음 - 증상 모니터링, 고령자 특히 주의
 
-#### <mark style="color:$primary;">Gabapentin · Pregabalin (신경병증형)</mark>
+#### <mark style="color:$primary;">Gabapentin</mark>&#x20;
 
-* 신경병증성 통증 기전; Type I 또는 clonazepam 불내성 시 고려
-* gabapentin 100\~300 ㎎ hs 시작, 서서히 증량 (☞ p.13) <mark style="color:blue;">\[뉴론틴]</mark>
+* 적응증 : 신경병증성 통증
+* 적응증 : Type I, clonazepam 불내성
+* gabapentin 100\~300 ㎎ hs 시작, 서서히 증량 <mark style="color:blue;">\[뉴론틴]</mark> (☞ [통증](../220_/001_-pain.md#gabapentinoid-a2d-ligands))
 * pregabalin 75 ㎎ bid <mark style="color:blue;">\[리리카]</mark>
 
-#### <mark style="color:$primary;">α-Lipoic acid (보조)</mark>
+#### <mark style="color:$primary;">α-Lipoic acid</mark>
 
-* 항산화·신경염증 억제 기전; 소섬유 신경병증 측면에 보조적 작용
-* 200 ㎎ tid (600 ㎎/day), 최소 2개월 이상 <mark style="color:blue;">\[치옥타시드 600HR]</mark>\
-  ✽RCT 간 결과 불일치로 재현성 제한적; 일부 환자에서 효과 보고; 내약성 양호하여 병합 시도 가능
+* 항산화·신경염증 억제 기전
+* 적응증 : 소섬유 신경병증 측면에 보조적 작용
+* 200 ㎎ tid (600 ㎎/day), 최소 2개월 이상 <mark style="color:blue;">\[치옥타시드 600HR]</mark>
+* RCT 간 결과 불일치로 재현성 제한적. 일부 환자에서 효과 보고; 내약성 양호하여 병합 시도 가능
 
-#### <mark style="color:$primary;">Topical lidocaine (진단적 사용)</mark>
+#### <mark style="color:$primary;">Topical lidocaine</mark>
 
-* 국소 도포 후 통증 감소 여부로 말초 신경병증 구성 요소 확인
-* 2% lidocaine gel 소량 혀 도포, 단기 진단적 trial\
-  ✽장기 치료 목적보다 기전 확인용; 일상 치료제로는 권고하지 않음
+* 진단적 trial - 국소 도포 후 통증 감소 여부로 말초 신경병증 구성 요소 확인
+* 장기치료 목적보다 기전 확인용; 일상 치료제로는 권고하지 않음
+* 2% lidocaine gel 소량 혀 도포, 단기 사용
 
-#### <mark style="color:$primary;">Capsaicin (국소, 시험적)</mark>
+#### <mark style="color:$primary;">Capsaicin</mark>
 
 * TRPV1 수용체 탈감작 기전; 수주 후 탈감작 효과 기대
-* **탈감작 프로토콜** : 0.025% 원액을 그대로 사용하면 초기 작열감이 심해 순응도 낮음 → 1:10 희석(0.0025%)부터 시작하여 1\~2주 간격으로 농도 상향\
-  ✽국내 구강용 제제 미허가; 시험적 사용에 해당
+* 탈감작 프로토콜 : 0.025% 원액을 그대로 사용하면 초기 작열감이 심해 순응도 낮음 → 1:10 희석(0.0025%)부터 시작하여 1\~2주 간격으로 농도 상향
+* 국내 구강용 제제 미허가; 시험적 사용에 해당
 
-#### <mark style="color:$primary;">영양 보충 (결핍 확인 후)</mark>
+#### <mark style="color:$primary;">영양 보충</mark>
 
+* 실험실 검사로 결핍을 확인 후 적용
 * Vit B12 결핍 : 1000 ㎍ IM 또는 경구 고용량 보충
-* 아연 결핍 : 아연 20\~40 ㎎/day (원소 아연 기준)
+* 아연 결핍 : 아연 20\~40 ㎎/d (원소 아연 기준)
 * 철분 결핍 : ferritin 50 ng/㎖ 미만 시 철분제 보충 고려 (신경 기능 보전 목적; 일반 빈혈 기준보다 높게 설정)
 
 ### <mark style="color:orange;">난치성 BMS (전문의 의뢰 후 고려)</mark>
 
-* **Multi-modal 병합** : gabapentinoid + duloxetine(SNRI) 병용 - 신경병증 + 중추 감작 두 기전을 동시 표적; 단일 약제 실패 시 고려
-* Clonazepam 조제 gel - 원내 조제 가능한 환경에서 0.1\~0.5% gel 형태 사용; 표준화된 시판 제품은 없음
-* Low-level laser therapy (LLLT) - 일부 소규모 연구에서 신경 조절 효과 보고
-* Low-dose naltrexone (LDN) 2.5\~4.5 ㎎ qd - 중추 염증·glial 활성 억제 기전; 초기 근거 단계
-* 호르몬 치료 (폐경 여성 선택적) - 에스트로겐 저하 확인 시 부인과 협진
+* Multi-modal 병합 : gabapentinoid + duloxetine(SNRI) 병용 - 신경병증 + 중추 감작 두 기전을 동시 표적; 단일 약제 실패 시 고려
+* Clonazepam 조제 gel : 원내 조제가 가능한 환경에서 0.1\~0.5% gel 형태 사용; 표준화된 시판 제품은 없음
+* Low-level laser therapy (LLLT) : 일부 소규모 연구에서 신경 조절 효과 보고
+* Low-dose naltrexone (LDN) 2.5\~4.5 ㎎ qd : 중추 염증·glial 활성 억제 기전; 초기 근거 단계
+* 호르몬 치료 (폐경 여성 선택적) : 에스트로겐 저하 확인 시 부인과 협진
 
 {% hint style="danger" %}
-**⚠️ BMS 진단·치료 실수 TOP 7**
+**BMS 진단·치료 실수 TOP 7**
 
 1. 구강 점막 병변 놓침 → 구강암 진단 지연
 2. 주관적 입마름을 타액 감소로 오인 → 타액 대체제만 처방, BMS 치료 누락
-3. **백태 없는 홍반성 칸디다증 간과** → BMS로 오진; 점막이 붉을 때 도말 검사 생략하지 말 것
+3. 백태 없는 홍반성 칸디다증 간과 → BMS로 오진; 점막이 붉을 때 도말 검사 생략하지 말 것
 4. ACEI 복용 시작 시점과 통증 발생 선후관계 확인 안 함
 5. 불안·우울 screening 생략 → Type II 치료 실패
 6. 6주 미만 단기 투여 후 "효과 없음" 판단 → 최소 8\~12주 유지 필요
