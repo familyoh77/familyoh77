@@ -26,12 +26,12 @@
 
 * 내분비 : 폐경(에스트로겐 감소), 당뇨병, 갑상선 기능저하증
 * 영양 결핍 : Vit B군(B1·B2·B6·B12), 엽산, 아연, 철분
-* 구강 질환 : 구강 칸디다증, 입마름증(xerostomia), 지도상 혀(geographic tongue), 구강 편평태선
-* GERD / LPR (laryngopharyngeal reflux) - 위산·pepsin이 구강 점막·혀 신경을 직접 자극; 역류 증상 없는 silent LPR도 포함
-* 구강 이상기능 (oral parafunction) - 혀를 구개에 밀착·비비는 습관(tongue thrusting), 이갈이(bruxism), 혀를 치아에 대고 빠는 음압 습관(tongue sucking/negative pressure); 기계적 자극으로 신경 과민화
-* Post-COVID dysesthesia - COVID-19 감염 후 구강 감각 이상; long-COVID 신경계 증상의 일환으로 최근 빈도 증가; 드물게 백신 접종 후 보고 사례도 존재 (병력 청취 시 참고)
-* 신경병증성 : 대상포진 후 신경통(post-herpetic neuralgia), 삼차신경병증
-* 접촉 자극 : 틀니·치과재료(아말감), 치약(SLS 계면활성제), 구강 세정제(알코올), 맵고 뜨거운 음식
+* 구강 질환 : 구강 칸디다증, 입마름증, 지도상 혀, 구강 편평태선
+* GERD / LPR (laryngopharyngeal reflux) : 위산·pepsin이 구강 점막·혀 신경을 직접 자극; 역류 증상 없는 silent LPR도 포함
+* 구강 이상기능(oral parafunction) : 혀를 구개에 밀착·비비는 습관(tongue thrusting), 이갈이(bruxism), 혀를 치아에 대고 빠는 음압 습관(tongue sucking/negative pressure); 기계적 자극으로 신경 과민화
+* Post-COVID dysesthesia : COVID-19 감염 후 구강 감각 이상; long-COVID 신경계 증상의 일환으로 최근 빈도 증가; 드물게 백신 접종 후 보고 사례도 존재 (병력 청취 시 참고)
+* 신경병증 : 대상포진 후 신경통(post-herpetic neuralgia), 삼차신경병증
+* 접촉 자극 : 틀니·치과 재료(아말감), 치약(SLS 계면활성제), 구강 세정제(알코올), 맵고 뜨거운 음식
 * 약물 : ACEI(가장 흔함), 항히스타민제, 항콜린제, 이뇨제; 흡연/니코틴
 * 정신·심리 : 불안, 우울, 신체화장애, 암 공포증(cancerphobia)
 * 기타 : 방사선 치료 후, 알레르기
@@ -40,10 +40,10 @@
 
 * 구강 내 작열감, 따끔거림, 화끈거림 - 혀 끝이 가장 흔하고 입천장·입술·잇몸으로 확산
 * 미각 변화 : 쓴맛, 금속 맛, 미각 감소
-* 입마름 호소 (실제 타액 분비량은 정상인 경우 多)
+* 입마름 호소 - 실제 타액 분비량은 정상인 경우가 많음
 * 식사 중 일시적 호전이 특징적 - 미각 자극이 통증 억제; BMS 변별에 유용
-* 심리적 동반 : 불안·우울 동반 빈도 높음; 수면 장애 (Type II)
-* 구강 점막 : 육안 및 촉진상 정상이어야 함 (병변 확인 시 2차성 원인 탐색)
+* 심리적 문제동반  불안·우울 동반 빈도 높음; 수면 장애(Type II):
+* 구강 점막 : 육안 및 촉진상 정상이어야 함 - 병변 확인 시 2차성 원인 탐색
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -52,7 +52,7 @@
 * 구강 내 궤양·백반·홍반 병변이 2주 이상 지속 → 구강암
 * 연하 곤란·연하통 동반 → 인후·식도 악성 병변
 * 급격한 체중 감소 + 구강 증상 → 전신 악성 질환
-* 편측성 통증 + 안면 감각 저하·이상 동반 → 삼차신경병증(trigeminal neuropathy), 종양; 발진 없는 대상포진(Zoster sine herpete)도 편측 통증(감각 이상 동반)으로 발현 가능
+* 편측성 통증 + 안면 감각 저하·이상 동반 → 삼차신경병증, 종양; 발진 없는 대상포진(Zoster sine herpete)도 편측 통증(감각 이상 동반)으로 발현 가능
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -64,7 +64,7 @@
 
 * 3개월 이상 치료에도 증상 호전 없음&#x20;
 * 중등도 이상의 불안·우울 동반&#x20;
-* ACEI 복용 중 증상 발생 - 약물 변경 후 4\~6주 관찰
+* ACEI 복용 중 증상 발생 (약물 변경 후 4\~6주 관찰)&#x20;
 
 ## <mark style="color:green;">진단</mark>
 
@@ -97,9 +97,9 @@
 * 알레르기 패치 검사 - Type III(간헐형), 치과 재료 알레르기 의심 시
 * 내시경 / 위산 pH 검사 - GERD/LPR 의심 시
 
-#### <mark style="color:$primary;">Clonazepam 진단적 trial</mark>
+**Clonazepam 진단적 trial**
 
-* 0.5 ㎎ swish-and-spit 1\~2주 시행 후:
+* 0.5 ㎎ [swish-and-spit](057_-glossodynia-burning-mouth-syndrome.md#clonazepam) 1\~2주 시행 후:
   * 반응 있음 → 신경병증성 기전(말초 또는 중추) 가능성 ↑; 치료 유지
   * 반응 없음 → 다른 원인(2차성, 심리적, 알레르기) 재검토; 치료 방향 전환
 
@@ -142,7 +142,7 @@ class I,V orange
 
 <p align="center"><strong>혀통증·BMS 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ICHD-3 (2018); Scala et al. Med Oral Patol Oral Cir Bucal 2003; Mínguez-Sanz et al. J Oral Pathol Med 2011</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ICHD-3 (2018); Lamey &#x26; Lewis, Br Dent J 1989; Scala et al. Crit Rev Oral Biol Med 2003; Mínguez-Sanz et al. Med Oral Patol Oral Cir Bucal 2011</mark></em></p>
 
 ***
 
@@ -176,7 +176,7 @@ class I,V orange
 #### <mark style="color:$primary;">Clonazepam</mark>&#x20;
 
 * 1차 선택제 <mark style="color:blue;">\[리보트릴]</mark>
-* GABA-A 수용체 조절을 통한 중추·말초 통증 억제; 현재 가장 근거 수준이 높은 약제 중 하나
+* GABA-A 수용체 조절을 통한 중추·말초 통증 억제; 가장 근거 수준이 높은 약제 중 하나
 
 **국소 적용 (swish-and-spit)**&#x20;
 
@@ -191,23 +191,22 @@ class I,V orange
 * 졸림·의존성, 고령자 낙상 위험; 장기 투여 후 점진적 감량
 * 적응증 : Type II (중추형, 수면장애·불안 동반)
 
-#### <mark style="color:$primary;">Duloxetine</mark>
+#### <mark style="color:$primary;">SNRI</mark>
 
-* 적응증 : 중추형·불안·우울 동반 시 적용
-* SNRI : 하향 통증 조절(노르에피네프린) + 불안·우울 동반 증상 동시 조절; Type II에 특히 적합
-* duloxetine 30 ㎎ qd × 2주 → 60 ㎎ qd <mark style="color:blue;">\[심발타]</mark>; 구강건조 부작용이 TCA보다 경미. 초기 오심은 2\~3주 후 소실; 중단 시 점진적 감량
+* 통증 조절 + 불안·우울 동반 증상 동시 조절; 특히 Type II에 적합 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#serotonin-norepinephrine-reuptake-inhibitor-snri))
+* 적응증 : 중추형·불안·우울 동반
+* duloxetine 30 ㎎ qd × 2주 → 60 ㎎ qd <mark style="color:blue;">\[심발타]</mark>; 구강건조 부작용이 TCA보다 경미. 초기 오심은 2\~3주 후 소실; 중단할 때는 tapering
 
 #### <mark style="color:$primary;">TCA</mark>&#x20;
 
 * 적응증 : 통증, 수면 장애
 * duloxetine과 유사하나 항콜린성 부작용이 있음
-* amitriptyline 10\~25 ㎎ hs 또는 nortriptyline 10\~25 ㎎ hs (☞ [TCA](../231_/213_-antidepressants-and-anxiolytics.md#tricyclic-antidepressant-tca))
+* amitriptyline 10\~25 ㎎ hs <mark style="color:blue;">\[에트라빌]</mark> 또는 nortriptyline <mark style="color:blue;">\[센시발]</mark> 10\~25 ㎎ hs (☞ [통증](../220_/001_-pain.md#tca))
 * 구강건조 부작용이 기존 입마름 증상을 악화시킬 수 있음 - 증상 모니터링, 고령자 특히 주의
 
-#### <mark style="color:$primary;">Gabapentin</mark>&#x20;
+#### <mark style="color:$primary;">Gabapentinoid</mark>&#x20;
 
-* 적응증 : 신경병증성 통증
-* 적응증 : Type I, clonazepam 불내성
+* 적응증 : Type I 신경병증성 통증, clonazepam 불내성
 * gabapentin 100\~300 ㎎ hs 시작, 서서히 증량 <mark style="color:blue;">\[뉴론틴]</mark> (☞ [통증](../220_/001_-pain.md#gabapentinoid-a2d-ligands))
 * pregabalin 75 ㎎ bid <mark style="color:blue;">\[리리카]</mark>
 
@@ -220,9 +219,8 @@ class I,V orange
 
 #### <mark style="color:$primary;">Topical lidocaine</mark>
 
-* 진단적 trial - 국소 도포 후 통증 감소 여부로 말초 신경병증 구성 요소 확인
-* 장기치료 목적보다 기전 확인용; 일상 치료제로는 권고하지 않음
-* 2% lidocaine gel 소량 혀 도포, 단기 사용
+* 국소 도포 후 통증 감소 여부로 말초 신경병증 구성 요소 확인; 장기 치료 목적보다 기전 확인용 (진단적 trial)
+* 2% lidocaine gel 소량 혀 도포 - 단기 사용, 일상 치료제로는 권고하지 않음
 
 #### <mark style="color:$primary;">Capsaicin</mark>
 
@@ -232,14 +230,15 @@ class I,V orange
 
 #### <mark style="color:$primary;">영양 보충</mark>
 
-* 실험실 검사로 결핍을 확인 후 적용
+* 실험실 검사로 해당 성분의 결핍 확인 후 적용
 * Vit B12 결핍 : 1000 ㎍ IM 또는 경구 고용량 보충
 * 아연 결핍 : 아연 20\~40 ㎎/d (원소 아연 기준)
 * 철분 결핍 : ferritin 50 ng/㎖ 미만 시 철분제 보충 고려 (신경 기능 보전 목적; 일반 빈혈 기준보다 높게 설정)
 
 ### <mark style="color:orange;">난치성 BMS (전문의 의뢰 후 고려)</mark>
 
-* Multi-modal 병합 : gabapentinoid + duloxetine(SNRI) 병용 - 신경병증 + 중추 감작 두 기전을 동시 표적; 단일 약제 실패 시 고려
+* Multi-modal 병합 : gabapentinoid + duloxetine(SNRI) 병용&#x20;
+  * 신경병증 & 중추 감작 두 기전을 동시 표적; 단일 약제 실패 시 고려
 * Clonazepam 조제 gel : 원내 조제가 가능한 환경에서 0.1\~0.5% gel 형태 사용; 표준화된 시판 제품은 없음
 * Low-level laser therapy (LLLT) : 일부 소규모 연구에서 신경 조절 효과 보고
 * Low-dose naltrexone (LDN) 2.5\~4.5 ㎎ qd : 중추 염증·glial 활성 억제 기전; 초기 근거 단계
