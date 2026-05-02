@@ -137,7 +137,7 @@
 
 ### 감별
 
-#### 증상 시작에 따라![image](../.gitbook/assets/eeac03c3-74ea-4aec-a273-219bb09c4139.JPG)
+#### 증상 시작에 따라![image](../.gitbook/assets/ab183644-20bc-4643-b7bb-e7c82fe5bedd.JPG)
 
 * 갑자기 발생 : 담낭염, 식중독, 위장염, 췌장염, 약물
 * 서서히 발생 : GERD, 위마비, 대사 이상, 임신, 약물

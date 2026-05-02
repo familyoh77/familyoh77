@@ -18,7 +18,7 @@
 * 기전(추정)
   * neurocircuit 이상 : 편도체(amygdala) 과활성 + 전전두엽(PFC) 조절 기능 저하에 의한 top-down regulation 감소; salience network 과활성이 핵심 병태생리로 이해됨
   * neurotransmitter 이상 : serotonin system 활성 저하, norepinephrine system 활성 증가, GABA inhibitory tone 감소 (단일 신경전달물질 불균형보다 회로 수준의 조절 이상이 더 포괄적인 설명 모델임)
-* 기저 질환 :  갑상선 질환, 부신 종양, 심부정맥, 신경계 질환
+* 기저 질환 : 갑상선 질환, 부신 종양, 심부정맥, 신경계 질환
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -110,7 +110,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * 선별 도구로서 특정 점수가 정신건강 질환을 확진하지는 않으며, cutoff 점수는 연구 대상 집단에 따라 달라질 수 있음; 1차 진료에서 GAD 선별 목적으로는 ≥62점을, 사회불안장애와의 감별에는 ≥65점을 기준으로 사용하는 경우가 많음
 * 의미 있는 변화로 판정하려면 6점 이상의 변화가 필요하며, 그보다 작은 변화는 치료 효과보다 정상 변동을 반영할 가능성이 높음
 * 배점 : 자신의 현재 상태와 전혀 맞지 않는다=1점, 약간 맞다=2점, 웬만큼 맞다=3점, 꽤 맞다=4점, 매우 맞다=5점; 최대 80점
-  * 1, 3, 8, 10, 11번은 역채점 문항, 응답 점수를 반대로 배점 :  전혀 맞지 않는다=5점, 매우 맞다=1점
+  * 1, 3, 8, 10, 11번은 역채점 문항, 응답 점수를 반대로 배점 : 전혀 맞지 않는다=5점, 매우 맞다=1점
 
 1. 나는 일을 다 끝낼 만큼 시간이 충분치 않아도 걱정하지 않는다.
 2. 걱정이 나를 누른다.
@@ -145,7 +145,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 * 우울증은 과거의 사건과 상황에 대하여 자기비판적인 경향을 보이는 반면, GAD 환자들은 미래의 사건에 대하여 걱정하는 경향이 있음 (☞ [우울증](027_-depression.md))
 * 이른 아침 각성, 일중 기분 변화, 자살 충동 등의 우울증 증상이 GAD에서는 흔하지 않음
-* &#x20;GAD와 주요우울증은 50% 이상에서 동반 이환됨. 두 진단 모두 충족 시 SSRI/SNRI를 공통 1차 치료제로서 고려 가능
+* GAD와 주요우울증은 50% 이상에서 동반 이환됨. 두 진단 모두 충족 시 SSRI/SNRI를 공통 1차 치료제로서 고려 가능
 
 **불안 vs 우울 감별 팁**
 
@@ -193,9 +193,9 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
   * GAD-7 5\~9 : watchful waiting, 비약물 치료 강화
   * GAD-7 ≥10 : 치료 시작 또는 강화 (SSRI/SNRI)
   * 삶의 질 평가 문항도 함께 확인 - 총점이 낮아도 기능 손상이 있으면 적극 개입
-* &#x20;GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함
+* GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함
 
-#### <mark style="color:$primary;">일차 진료 단계별 접근  알고리즘</mark>
+#### <mark style="color:$primary;">일차 진료 단계별 접근 알고리즘</mark>
 
 **Step 1. 응급 선별 (Red flags)**\
  → 자살 사고, 급성 정신증, 타해 의도 → 즉각 이송/응급 평가
@@ -213,7 +213,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
  무반응 → 약제 교체 (또는 보조 약물 추가)\
   \*약물 치료 단계 Step 3\~5 해당
 
-**Step 4. 의뢰** \
+**Step 4. 의뢰**\
  2가지 이상 충분한 시도 후 미호전 → 정신건강의학과 의뢰
 
 #### <mark style="color:$primary;">치료 timeline</mark>
@@ -305,7 +305,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 <table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* <mark style="color:blue;">[렉사프로]</mark></td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* <mark style="color:blue;">[세로자트, 팍실CR]</mark></td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine <mark style="color:blue;">[듀미록스]</mark></td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* <mark style="color:blue;">[심발타]</mark></td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* <mark style="color:blue;">[이팩사 XR]</mark></td><td align="center">37.5</td><td align="center">75~225</td></tr><tr><td>vortioxetine† <mark style="color:blue;">[브린텔릭스]</mark></td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
 
 _\* GAD에 대하여 FDA 승인 (escitalopram, paroxetine, duloxetine, venlafaxine XR)_\
-_† GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능(근거 축적 중)_
+&#xNAN;_† GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능(근거 축적 중)_
 
 **GABA-analogue**
 

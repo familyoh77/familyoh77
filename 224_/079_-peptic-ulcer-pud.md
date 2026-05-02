@@ -49,7 +49,7 @@
 * GU : 식후 악화
 *   DU : 새벽 공복 또는 식후 1\~3시간에 악화; 제산제나 음식물 섭취로 호전
 
-    ![image](../.gitbook/assets/7a2a4d7b-1643-4ce7-9f64-19339b44ad59.JPG)
+    ![image](../.gitbook/assets/4e9a574c-c70f-49ab-8057-9b2f834432d3.JPG)
 
 ## 진단
 

@@ -13,7 +13,7 @@
 
     고령에서는 동반 질환, 운동 능력 감소, 식사량 감소, 복용 약물 등의 요인에 의해 증가
 
-## 임상 양상![image](../.gitbook/assets/b073c8f4-799e-4c7f-a77f-79fc596d89cf.JPG)
+## 임상 양상![image](../.gitbook/assets/8d5d6886-fa60-424b-a20b-22b9525e4a2b.JPG)
 
 * 단단(Bristol stool form scale 1\~2)
 * 배변 시 힘을 많이 줘야 함

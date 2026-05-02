@@ -22,7 +22,7 @@
 * 표준 치료(gabapentin 계열 + 철분 보충)에 반응하지 않는 경우
 * 도파민 작용제 복용 중 증상이 이전보다 이른 시각에 발생하거나 상지·몸통으로 확산되는 경우 → Augmentation 의심
 * 임신 중 중증 RLS - 치료 선택지 제한으로 전문과 상담 필요\*\
-  &#xNAN;_\* 비약물 치료·철분 보충 우선; gabapentin·도파민 작용제는 기형 위험 데이터 불충분으로 가급적 회피; 대부분 분만 후 자연 소실_
+  \&#xNAN;_\* 비약물 치료·철분 보충 우선; gabapentin·도파민 작용제는 기형 위험 데이터 불충분으로 가급적 회피; 대부분 분만 후 자연 소실_
 
 <mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
 
@@ -36,7 +36,7 @@
   * 약물
     * 항우울제 : SSRI/SNRI, mirtazapine
     * 항정신병제
-    * 1세대 항히스타민제,&#x20;
+    * 1세대 항히스타민제,
     * 도파민 차단제(metoclopramide, domperidone\*), cholinesterase 억제제(donepezil))\
       \* _domperidone은 BBB 투과율이 낮아 RLS 유발은 이론적으로 가능하나 임상적 유의성은 낮음_
 
@@ -59,7 +59,7 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* 철분 검사지:  아침 공복, 철분 보충제 24시간 중단 후 채혈; ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC
+* 철분 검사지: 아침 공복, 철분 보충제 24시간 중단 후 채혈; ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC
 * 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
 * 도파민 약물 치료에 대한 반응 평가
 * 필요시 수면다원검사(polysomnography) - 대부분 임상 진단으로 충분, 일상적으로 불필요; PLMD 동반 의심·감별 진단 불확실 시에만 시행
@@ -103,7 +103,7 @@
 
 **Step 2. 이차성 원인 교정** - 속발성인 경우 원인 치료 우선
 
-**Step 3. 관련 약물 파악**&#x20;
+**Step 3. 관련 약물 파악**
 
 * 악화 약물 중단 또는 대체 - SSRI/SNRI, mirtazapine, 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)
 * 우울증 동반 시 항우울제 선택 : bupropion(웰부트린)은 일부 소규모 관찰 연구에서 RLS를 악화시키지 않으며 호전 효과가 보고된 바 있으나 근거가 제한적임 - SSRI/SNRI/mirtazapine을 교체해야 하는 상황에서 선택지로 고려 가능하나 공유 의사결정(SDM, Shared Decision Making) 후 적용
@@ -112,23 +112,23 @@
 
 **Step 5. 중증도 평가**
 
-**Intermittent (간헐적)**&#x20;
+**Intermittent (간헐적)**
 
 * 주 <2회, 삶의 질 영향 적음
 * 치료 : 비약물 치료, 필요 시 PRN(levodopa, 저용량 opioid)
 
-&#x20;**Chronic persistent**
+**Chronic persistent**
 
 * 주 ≥2회, 수면/삶의 질 영향 있음
 
 **Step 6. 1차 약물 치료** : 중등도 이상, 삶의 질에 영향을 주는 경우 고려
 
-**First-line**&#x20;
+**First-line**
 
-* Gabapentinoid&#x20;
+* Gabapentinoid
   * gabapentin 100\~300 mg 시작 → 300–900 mg
   * pregabalin 50\~75 mg → 150\~300 mg
-* Dopamine agonist&#x20;
+* Dopamine agonist
   * 사용 조건 (제한적 사용) : gabapentinoid 불내성/금기, 단기 필요, pramipexole 0.125 mg 시작, ropinirole 0.25 mg 시작
   * 주의 : augmentation, 충동조절장애
 
@@ -136,17 +136,17 @@
 
 * 체크리스트 : 증상이 더 일찍 시작?, 강도 증가?, 팔/몸통 확산?, 약 늘렸는데 더 악화?; 하나라도 해당 시 augmentation 의심
 
-&#x20;**Step 8. Augmentation 발생 시**
+**Step 8. Augmentation 발생 시**
 
-* 절대 : 도파민 약 증량&#x20;
+* 절대 : 도파민 약 증량
 * 치료 : gabapentin/pregabalin 시작 → 2주 overlap → 도파민 약 서서히 taper
 
-&#x20;**Step 9. Refractory RLS**
+**Step 9. Refractory RLS**
 
-* gabapentinoid 실패 또는 심한  augmentation 경우
+* gabapentinoid 실패 또는 심한 augmentation 경우
 * 조치 : 저용량 opioid, IV iron 재평가, 의뢰
 
-&#x20;**Step 10. 비약물 치료** (모든 단계에서)
+**Step 10. 비약물 치료** (모든 단계에서)
 
 ## <mark style="color:green;">비약물 치료 및 예방</mark>
 
@@ -167,7 +167,7 @@
 **철분 보충 의사결정 기준** (2024 AASM)
 
 * ferritin ≤75 ng/mL → 경구 또는 IV 철분
-* ferritin 75\~100  ng/mL → IV 철분 고려
+* ferritin 75\~100 ng/mL → IV 철분 고려
 * ferritin >100 ng/mL + TSAT <20% → IV 철분 고려
 * ferritin >100 ng/mL + TSAT ≥20% → 철분 보충 불필요
 * 목표: ferritin ≥100 ng/mL (가능하면 100\~150 ng/mL)
@@ -186,7 +186,7 @@
 
 #### <mark style="color:$primary;">Gabapentinoids (Alpha-2-delta 칼슘 채널 길항제)</mark>
 
-* 1차 선택 — **국내 실무에서는 gabapentin(뉴론틴)·pregabalin(리리카)이 사실상 표준** (gabapentin enacarbil 국내 미발매)&#x20;
+* 1차 선택 — **국내 실무에서는 gabapentin(뉴론틴)·pregabalin(리리카)이 사실상 표준** (gabapentin enacarbil 국내 미발매)
 * 장점 : augmentation 없음, 수면 개선, 불안/통증 동반 시 유리
 * 주의 : 어지럼 → 낙상; 졸림 → daytime sedation; 부종; 신기능 따라 감량 필수
 * 용법 : 증상 발생 1\~2시간 전 저녁 복용 (고령자에서는 low & slow)
@@ -202,10 +202,10 @@
 #### <mark style="color:$primary;">도파민 작용제</mark>
 
 * 장기 사용 조건부 권고 반대 (2024 AASM)
-* gabapentin 계열 불내성/금기 시, 단기 사용(빠른 효과가 필요한 경우) 제한적 선택&#x20;
+* gabapentin 계열 불내성/금기 시, 단기 사용(빠른 효과가 필요한 경우) 제한적 선택
 * Augmentation 발생 시 즉시 감량·중단 (용량 증량 금지)
 * pramipexole : 0.125 ㎎ qd(hs) → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd <mark style="color:blue;">\[미라펙스]</mark>\
-  _✽ RLS 유효 용량(0.125–0.5 mg)은 파킨슨병(최대 4.5 mg/d)보다 훨씬 낮음 — 파킨슨병 용량 기준으로 처방하지 않도록 주의_
+  &#xNAN;_✽ RLS 유효 용량(0.125–0.5 mg)은 파킨슨병(최대 4.5 mg/d)보다 훨씬 낮음 — 파킨슨병 용량 기준으로 처방하지 않도록 주의_
 * ropinirole : 0.25 ㎎ qd(hs) → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd <mark style="color:blue;">\[리큅]</mark>
 * rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd <mark style="color:blue;">\[뉴프로 패취]</mark> (augmentation 기준 최대 용량 3 ㎎)
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
