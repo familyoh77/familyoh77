@@ -39,15 +39,7 @@
 
 * 전염 가능성 낮음
 
-> ✽공기 흡입을 통해 감염되기 위해서는 코를 통한 직접 접촉에 의한 감염에 비하여 20배의 균 농도가 필요하지만 기침/재채기를
-
-> ```
-> 통해 배출되는 입자에는 매우 적은 양의 바이러스가 존재하므로 공기 흡입을 통한 감염 가능성은 극히 낮음; 후두 분비물에는
-> ```
-
-> ```
-> 코 분비물의 수십~백분의 1의 바이러스가 존재하며 침에는 후두 분비물의 ½의 바이러스가 존재 함
-> ```
+> ✽공기 흡입을 통해 감염되기 위해서는 코를 통한 직접 접촉에 의한 감염에 비하여 20배의 균 농도가 필요하지만 기침/재채기를 통해 배출되는 입자에는 매우 적은 양의 바이러스가 존재하므로 공기 흡입을 통한 감염 가능성은 극히 낮음; 후두 분비물에는코 분비물의 수십\~백분의 1의 바이러스가 존재하며 침에는 후두 분비물의 ½의 바이러스가 존재 함
 
 ✽influenza virus는 공기 전파가 보다 많음
 
@@ -86,12 +78,16 @@
     ✽콧물의 색깔과 점도의 변화(농성 콧물)는 상피 세포 및 중성구 유입과 관련된 일반적인 경과이며 이것으로 세균 감염
 
     또는 비부비동염을 판단할 수 없음
+*
 
-    ![image](../.gitbook/assets/eeb27e9b-339b-4f68-a3ad-1290a358fa96.JPG)
+<table><thead><tr><th width="84">항목</th><th width="90">급성 기관지염</th><th width="90">알레르기 비염</th><th width="90">세균성 부비동염</th><th width="90">감기</th><th width="90">독감</th><th width="92">백일해</th><th width="90">인두염</th></tr></thead><tbody><tr><td>Sx. onset</td><td>점차</td><td>점차</td><td>점차</td><td>점차</td><td>급속</td><td>점차</td><td>점차</td></tr><tr><td>기침</td><td>현재, 지속, dry or wet</td><td>혼합, 만성</td><td>점차, 혼합</td><td>혼합, dry</td><td>혼합, dry hacking</td><td>현재, 발작, whooping</td><td>드묾</td></tr><tr><td>인후통</td><td>혼합</td><td>가능</td><td>혼합</td><td>혼합</td><td>혼합</td><td>드묾</td><td>현재</td></tr><tr><td>발열</td><td>없거나 미열</td><td>없음</td><td>혼합</td><td>없거나 미열</td><td>고열</td><td>없거나 미열</td><td>V: 미열 / B: 고열</td></tr><tr><td>전신 통증</td><td>경증</td><td>없음</td><td>혼합</td><td>경증</td><td>현저</td><td>드묾</td><td>B: 중증</td></tr><tr><td>콧물</td><td>드묾</td><td>혼합, 현재</td><td>혼합</td><td>혼합</td><td>혼합</td><td>드묾</td><td>혼합</td></tr><tr><td>코막힘</td><td>드묾</td><td>혼합</td><td>혼합</td><td>혼합</td><td>가능</td><td>드묾</td><td>드묾</td></tr><tr><td>재채기</td><td>드묾</td><td>현재</td><td>드묾</td><td>혼합</td><td>드묾</td><td>드묾</td><td>V: 혼합</td></tr><tr><td>두통</td><td>혼합, 경증</td><td>드묾</td><td>혼합</td><td>드묾</td><td>현저</td><td>드묾</td><td>혼합</td></tr><tr><td>호흡곤란</td><td>혼합</td><td>드묾</td><td>드묾</td><td>드묾</td><td>드묾</td><td>혼합</td><td>혼합</td></tr></tbody></table>
+
+V=viral, B=bacterial \*바이러스-경증, 세균-중증\
+Ref. Treatment of the Common Cold. AFP 2019:1;100(5)
 
 ### 감별
 
-* 기침 (☞ p.38)
+* 기침 (☞ [기침](../220_/006_-cough.md))
 * 편측의 피가 섞인 악취가 나는 콧물 → 코 이물
 * ＞14일 지속되는 콧물 또는 기침, 두통 또는 안면부 통증, 안와 주위 부종 → 비부비동염
 * 현저한 코 가려움 및 재채기 → 알레르기비염
@@ -123,9 +119,7 @@
 
 ## 치료 약물
 
-```
 (보험기준 ☞ p.1182)
-```
 
 ### 진해제 (Antitussive)
 
@@ -247,11 +241,22 @@
     •peptide mucolytics : dornase alfa, gelsolin, thymosin β4
 
     •non-destructive mucolytics : dextran, heparin
-*   점액 활성제 (mucokinetics) : bronchodilator(흡입 β2-bronchodilator), methylxanthine, 표면 활성제, ambroxol,
+* 점액 활성제 (mucokinetics) : bronchodilator(흡입 β2-bronchodilator), methylxanthine, 표면 활성제, ambroxol,acebrophylline
+*
+*
 
-    acebrophylline
-
-    ![image](../.gitbook/assets/b220590b-4b70-4beb-97ba-ac250a5dac56.JPG)
+    | **성분명 \[상품명]**                | **용법**            |
+    | ----------------------------- | ----------------- |
+    | guaifenesin¹⁾ \[코데닝]          | 2T tid (복합제)      |
+    | carbocysteine \[리나치올]         | 500 mg/C tid      |
+    | acetylcysteine \[뮤테란]         | 200 mg/C tid      |
+    | bromhexine \[비졸본]             | 8 mg/T 1\~2T tid  |
+    | erdosteine \[엘도스]             | 300 mg/C bid\~tid |
+    | sobrerol \[소부날]               | 200 mg/C bid      |
+    | ambroxol \[뮤코펙트]              | 30 mg/T tid       |
+    | acebrophylline \[설포라제]        | 100 mg/C bid      |
+    | pelargonium sidoides²⁾ \[움카민] | 9 ml 또는 1T tid    |
+    | coptis rhizome²⁾ \[시네츄라]      | 15 ml tid         |
 
 ### 콧물 치료제 (Anti-rhinorrhea)
 
@@ -373,30 +378,109 @@
 
 * 손 씻기, 맨손으로 눈/코/입 만지지 않기, 손 소독제 사용
 * 감염자와의 접촉을 피함
-*   금연
+* 금연
+*
 
-    ![image](../.gitbook/assets/18a93002-eba2-4927-a532-576737988adb.JPG)
+```mermaid
+graph TD
+    %% 노드 정의
+    StartNode["급성 코막힘 및 비부비동염"]
+    EvalNode["평가"]
 
-> **질병코드** J00 급성 비인두염\[감기]
+    %% 첫 번째 분기
+    Under10["≤10일"]
+    URINode["상기도 감염<br/>(바이러스 부비동염)"]
+    URITreat["• 통증 치료<br/>• 공기 가습<br/>• 식염수 코 세척<br/>• 진해제"]
+
+    %% 두 번째 분기
+    Day1014["10~14일 경과,<br/>호전 없음"]
+
+    %% 세 번째 분기
+    SevereSymptom["기간 무관 국소 증상: 안와주위<br/>부종, 부비동 압통, 심한 두통"]
+
+    %% 세균성 판단 및 후속 조치
+    BacterialNode["세균성 부비동염<br/>의심"]
+    
+    Mild["경증"]
+    FirstAntibiotics["1차 항생제 ×10d"]
+    NoImprovement["치료 개시 3일 내 호전 안 됨"]
+    SecondAntibiotics["2차 항생제"]
+
+    Severe["중증 또는 면역저하"]
+    StableAntibiotics["• β-lactamase<br/>stable 항생제<br/>• 합병증에 대한<br/>평가/영상 검사"]
+
+    %% 연결 관계
+    StartNode --> EvalNode
+    
+    EvalNode --> Under10
+    Under10 --> URINode
+    URINode --> URITreat
+
+    EvalNode --> Day1014
+    EvalNode --> SevereSymptom
+
+    Day1014 --> BacterialNode
+    SevereSymptom --> BacterialNode
+
+    BacterialNode --> Mild
+    Mild --> FirstAntibiotics
+    FirstAntibiotics --> NoImprovement
+    NoImprovement --> SecondAntibiotics
+
+    BacterialNode --> Severe
+    Severe --> StableAntibiotics
+
+    %% 스타일링
+    style StartNode fill:#f1f1f9,stroke:#d1d1e9
+    style EvalNode fill:#f1f1f1,stroke:#d1d1d1
+    style URINode fill:#fff0f0,stroke:#ffd1d1
+    style BacterialNode fill:#fff0f0,stroke:#ffd1d1
+    style URITreat fill:#e6f3ff,stroke:#c1e0ff
+    style StableAntibiotics fill:#e6f3ff,stroke:#c1e0ff
+    style FirstAntibiotics fill:#e6f3ff,stroke:#c1e0ff
+    style SecondAntibiotics fill:#e6f3ff,stroke:#c1e0ff
+    style Under10 fill:#fffbe6,stroke:#fff1b8
+    style Day1014 fill:#fffbe6,stroke:#fff1b8
+    style SevereSymptom fill:#fffbe6,stroke:#fff1b8
+    style Mild fill:#fffbe6,stroke:#fff1b8
+    style Severe fill:#fffbe6,stroke:#fff1b8
+    style NoImprovement fill:#fffbe6,stroke:#fff1b8
+```
+
+<p align="center"><strong>급성 코막힘 및 비부비동염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. Lange, Current diagnosis &#x26; treatment pediatrics, 23th ed.F 18-5</mark></em></p>
+
+
+
+**질병코드** J00 급성 비인두염\[감기]
 
 J06 다발성 및 상세불명 부위의 급성 상기도감염
 
-![image](../.gitbook/assets/4ed6e194-2808-458b-8ecc-f819e8c2b354.JPG)
 
-#### \[보험기준] 진해거담제 (2013-09-01)
+
+
+
+처방례
+
+처방례 1.\
+코데닝 6T #3 (졸음 주의)\
+애니펜 300 ㎎/T 3T #3\
+푸로스판 시럽 15 ㎖ #3 (보험주의)\
+처방례 2.\
+드로피진 60 ㎎/T 3T #3\
+프리비투스 8 ㎖/포 3T #3\
+페니라민 2 ㎎/T 6T #3 (졸음 주의)\
+타이레놀 이알 650 ㎎/T 3T #3 필요시\
+처방례 3.\
+코푸 시럽 20 ㎖/P 4P #4 (졸음 주의)\
+애니코프 300 ㎎/C 2C #2\
+부루펜 200 ㎎/T 4T #2
+
+
+
+\[보험기준] [진해거담제 ](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0022)(2013-09-01)
 
 1. 경구 진해거담제는 약제의 성분, 약리 작용 및 효능·효과, 환자의 증상에 따라 선별적으로 투여함을 원칙으로 하며
-2. 상기도 질환에 시럽제를 포함하여 2종 이내, 그 이외의 호흡기 질환(천식 및 COPD는 제외)에는 시럽제를 포함하여
-
-```
-3종 이내로 인정
-```
-
+2. 상기도 질환에 시럽제를 포함하여 2종 이내, 그 이외의 호흡기 질환(천식 및 COPD는 제외)에는 시럽제를 포함하여 3종 이내로 인정
 3. ＜6세의 경우에는 함량 및 성분 등이 과량 또는 중복되지 아니하는 범위 내에서 복합 시럽제 1종을 추가로 인정
-4. 식품의약품안전처장이 정한 의약품분류번호 222, 229에 해당되는 약제라도 약리 작용이 진해, 거담, 기관지 확장이
-
-```
-아닌 약제는 적용되지 아니함
-```
-
+4. 식품의약품안전처장이 정한 의약품분류번호 222, 229에 해당되는 약제라도 약리 작용이 진해, 거담, 기관지 확장이 아닌 약제는 적용되지 아니함
 5. 진해 거담 주사제는 신속한 치료 효과가 필요한 경우에 인정
