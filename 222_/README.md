@@ -4,11 +4,11 @@
 •EAACI. Management of ocular allergy (2019)\
 •Conjunctivitis PPP guideline. AAO (American Academy of Ophthalmology) (2013)\
 •Clinical knowledge summaries: Conjunctivitis. NICE (2012)\
-•Management of ocular allergy. AACI (2019)\
 •Blepharitis PPP guideline. AAO (2018)\
 •Dry Eye Disease PPP guideline. AAO (2023)\
 •TFOS DEWS III. The definition and classification of dry eye disease. Ocul Surf (2025)\
 •Hearing loss in adults: Assessment and management. NICE (2018)\
+•Clinical practice guideline: Eustachian Tube Dysfunction. AAO-HNSF (2019)\
 •Acute otitis externa. AAO/HNSF(Head & neck surgery) (2014)\
 •Otitis media (acute): Antimicrobial prescribing. NICE (2018)\
 •유소아중이염 진료지침. 대한이과학회 (2014)\
@@ -26,6 +26,9 @@
 •Clinical practice guideline: Adult sinusitis. AAO/HNSF (2015)\
 •Clinical practice guideline for acute bacterial rhinosinusitis in children and adults. IDSA (2012)\
 •Sinusitis (acute): Antimicrobial prescribing. NICE (2017)\
+•European Position Paper on Rhinosinusitis and Nasal Polyps (EPOS) 2020\
 •Clinical practice guideline for the management of Candidiasis. IDSA (2016)\
 •Candida infections of the mouth, throat, and esophagus. CDC (2017)\
-•Clinical practice guideline: Hoarseness(Dysphonia). AAO/HNSF (2018)
+•Clinical practice guideline: Hoarseness(Dysphonia). AAO/HNSF (2018)\
+•International Classification of Headache Disorders, 3rd ed. (ICHD-3). IHS (2018)\
+•International Classification of Orofacial Pain, 1st ed. (ICOP-1). IHS (2020)
