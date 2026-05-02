@@ -82,7 +82,7 @@
 
 <table><thead><tr><th width="84">항목</th><th width="90">급성 기관지염</th><th width="90">알레르기 비염</th><th width="90">세균성 부비동염</th><th width="90">감기</th><th width="90">독감</th><th width="92">백일해</th><th width="90">인두염</th></tr></thead><tbody><tr><td>Sx. onset</td><td>점차</td><td>점차</td><td>점차</td><td>점차</td><td>급속</td><td>점차</td><td>점차</td></tr><tr><td>기침</td><td>현재, 지속, dry or wet</td><td>혼합, 만성</td><td>점차, 혼합</td><td>혼합, dry</td><td>혼합, dry hacking</td><td>현재, 발작, whooping</td><td>드묾</td></tr><tr><td>인후통</td><td>혼합</td><td>가능</td><td>혼합</td><td>혼합</td><td>혼합</td><td>드묾</td><td>현재</td></tr><tr><td>발열</td><td>없거나 미열</td><td>없음</td><td>혼합</td><td>없거나 미열</td><td>고열</td><td>없거나 미열</td><td>V: 미열 / B: 고열</td></tr><tr><td>전신 통증</td><td>경증</td><td>없음</td><td>혼합</td><td>경증</td><td>현저</td><td>드묾</td><td>B: 중증</td></tr><tr><td>콧물</td><td>드묾</td><td>혼합, 현재</td><td>혼합</td><td>혼합</td><td>혼합</td><td>드묾</td><td>혼합</td></tr><tr><td>코막힘</td><td>드묾</td><td>혼합</td><td>혼합</td><td>혼합</td><td>가능</td><td>드묾</td><td>드묾</td></tr><tr><td>재채기</td><td>드묾</td><td>현재</td><td>드묾</td><td>혼합</td><td>드묾</td><td>드묾</td><td>V: 혼합</td></tr><tr><td>두통</td><td>혼합, 경증</td><td>드묾</td><td>혼합</td><td>드묾</td><td>현저</td><td>드묾</td><td>혼합</td></tr><tr><td>호흡곤란</td><td>혼합</td><td>드묾</td><td>드묾</td><td>드묾</td><td>드묾</td><td>혼합</td><td>혼합</td></tr></tbody></table>
 
-V=viral, B=bacterial \*바이러스-경증, 세균-중증\
+V=viral, B=bacterial \*바이러스-경증, 세균-중증\
 Ref. Treatment of the Common Cold. AFP 2019:1;100(5)
 
 ### 감별
@@ -242,21 +242,31 @@ Ref. Treatment of the Common Cold. AFP 2019:1;100(5)
 
     •non-destructive mucolytics : dextran, heparin
 * 점액 활성제 (mucokinetics) : bronchodilator(흡입 β2-bronchodilator), methylxanthine, 표면 활성제, ambroxol,acebrophylline
-*
+
+
+
 *
 
-    | **성분명 \[상품명]**                | **용법**            |
-    | ----------------------------- | ----------------- |
-    | guaifenesin¹⁾ \[코데닝]          | 2T tid (복합제)      |
-    | carbocysteine \[리나치올]         | 500 mg/C tid      |
-    | acetylcysteine \[뮤테란]         | 200 mg/C tid      |
-    | bromhexine \[비졸본]             | 8 mg/T 1\~2T tid  |
-    | erdosteine \[엘도스]             | 300 mg/C bid\~tid |
-    | sobrerol \[소부날]               | 200 mg/C bid      |
-    | ambroxol \[뮤코펙트]              | 30 mg/T tid       |
-    | acebrophylline \[설포라제]        | 100 mg/C bid      |
-    | pelargonium sidoides²⁾ \[움카민] | 9 ml 또는 1T tid    |
-    | coptis rhizome²⁾ \[시네츄라]      | 15 ml tid         |
+```
+| **성분명 \[상품명]**                | **용법**            |
+```
+
+```
+| ----------------------------- | ----------------- |
+| guaifenesin¹⁾ \[코데닝]          | 2T tid (복합제)      |
+| carbocysteine \[리나치올]         | 500 mg/C tid      |
+| acetylcysteine \[뮤테란]         | 200 mg/C tid      |
+| bromhexine \[비졸본]             | 8 mg/T 1\~2T tid  |
+| erdosteine \[엘도스]             | 300 mg/C bid\~tid |
+| sobrerol \[소부날]               | 200 mg/C bid      |
+| ambroxol \[뮤코펙트]              | 30 mg/T tid       |
+| acebrophylline \[설포라제]        | 100 mg/C bid      |
+| pelargonium sidoides²⁾ \[움카민] | 9 ml 또는 1T tid    |
+| coptis rhizome²⁾ \[시네츄라]      | 15 ml tid         |
+```
+
+1\) 약간의 진해 효과를 지님. \
+2\) 기전 및 효과에 대해 충분히 알려져 있지 않음
 
 ### 콧물 치료제 (Anti-rhinorrhea)
 
@@ -447,35 +457,27 @@ graph TD
     style NoImprovement fill:#fffbe6,stroke:#fff1b8
 ```
 
-<p align="center"><strong>급성 코막힘 및 비부비동염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. Lange, Current diagnosis &#x26; treatment pediatrics, 23th ed.F 18-5</mark></em></p>
-
-
+<p align="center"><strong>급성 코막힘 및 비부비동염 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. Lange, Current diagnosis &#x26; treatment pediatrics, 23th ed.F 18-5</mark></em></p>
 
 **질병코드** J00 급성 비인두염\[감기]
 
 J06 다발성 및 상세불명 부위의 급성 상기도감염
 
-
-
-
-
 처방례
 
-처방례 1.\
-코데닝 6T #3 (졸음 주의)\
-애니펜 300 ㎎/T 3T #3\
-푸로스판 시럽 15 ㎖ #3 (보험주의)\
-처방례 2.\
-드로피진 60 ㎎/T 3T #3\
-프리비투스 8 ㎖/포 3T #3\
-페니라민 2 ㎎/T 6T #3 (졸음 주의)\
-타이레놀 이알 650 ㎎/T 3T #3 필요시\
-처방례 3.\
-코푸 시럽 20 ㎖/P 4P #4 (졸음 주의)\
-애니코프 300 ㎎/C 2C #2\
+처방례 1.\
+코데닝 6T #3 (졸음 주의)\
+애니펜 300 ㎎/T 3T #3\
+푸로스판 시럽 15 ㎖ #3 (보험주의)\
+처방례 2.\
+드로피진 60 ㎎/T 3T #3\
+프리비투스 8 ㎖/포 3T #3\
+페니라민 2 ㎎/T 6T #3 (졸음 주의)\
+타이레놀 이알 650 ㎎/T 3T #3 필요시\
+처방례 3.\
+코푸 시럽 20 ㎖/P 4P #4 (졸음 주의)\
+애니코프 300 ㎎/C 2C #2\
 부루펜 200 ㎎/T 4T #2
-
-
 
 \[보험기준] [진해거담제 ](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0022)(2013-09-01)
 
