@@ -11,7 +11,7 @@
 
 ## <mark style="color:green;">원인</mark>
 
-### <mark style="color:$primary;">원인균</mark>
+### <mark style="color:orange;">원인균</mark>
 
 * rhinovirus: 30\~50% 차지, 100가지 이상의 아형, 잠복기 1\~3일, 봄/가을 유행
 * coronavirus (10\~15%; 잠복기 2\~4일), influenza virus (10\~15%; 잠복기 1\~2일), parainfluenza (5%; 2\~4일), RSV (5%; 3\~5일), adenovirus (＜5%; 4\~7일)
@@ -22,23 +22,23 @@
 **COVID-19 이후 변화**: SARS-CoV-2도 감기 유사 증상으로 발현될 수 있으므로 임상적 판단에 포함. 성인 RSV 감염이 COVID-19 이후 증가 추세이며, 바이러스 복합 감염(viral co-infection)도 증가함. 국내에서는 인플루엔자·COVID-19 신속 항원 검사 및 multiplex PCR이 외래에서 용이하게 활용 가능함
 {% endhint %}
 
-### <mark style="color:$primary;">전파 경로</mark>
+### <mark style="color:orange;">전파 경로</mark>
 
-#### <mark style="color:orange;">코 분비물의 직접 접촉</mark>
+#### <mark style="color:$primary;">코 분비물의 직접 접촉</mark>
 
 * 감기 바이러스에 오염된 손으로 코 또는 눈을 만지면 전염됨 (비루관을 통하여 코로 유입)
 * 환자 손의 50%에서 감기 바이러스가 검출됨
 * 바이러스는 피부에서 3시간, 일반 환경에서 그 이상 생존
 * 코를 통한 미량의 바이러스 유입만으로도 발병 가능
 
-#### <mark style="color:orange;">비말 및 공기 입자를 통한 감염</mark>
+#### <mark style="color:$primary;">비말 및 공기 입자를 통한 감염</mark>
 
 * **접촉 전파가 주요 경로이나 비말 전파도 중요한 역할을 함**
 * 공기 흡입 감염에는 직접 접촉 대비 약 20배의 균 농도가 필요하므로 순수 공기 전파 비중은 낮음
 * 그러나 대화·기침·재채기 시 발생하는 단거리 비말(droplet)을 통한 전파는 임상적으로 유의미함
 * ✽ influenza virus, SARS-CoV-2는 공기 전파 비중이 상대적으로 높음
 
-### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 소아: 특히 ＜3세, 위쪽 형제가 있는 경우
 * 유아원 등원: 특히 등원 첫 해에 50% 이상 빈도 증가 (12회/년 발병); 학교 입학 후에는 유아원을 다녔던 아동이 감기에 덜 걸림
@@ -46,7 +46,7 @@
 * 흡연, 스트레스, 피로
 * 고령 (면역노화; immunosenescence) → 아래 참조
 
-### <mark style="color:$primary;">노인 특이사항 (Immunosenescence)</mark>
+### <mark style="color:orange;">노인 특이사항 (Immunosenescence)</mark>
 
 * 고령자에서는 감기 증상이 비전형적으로 발현되는 경우가 많음
   * 발열이 없거나 미미한 경우 多 → 중증 감염임에도 체온이 정상으로 보일 수 있음
@@ -68,7 +68,7 @@
   * 고령자에서는 발열 없이 발현 가능
 * 구토/설사: 흔하지 않음
 
-### <mark style="color:$primary;">감염 후 지속 기침 (Post-Infectious Chronic Cough, PICC)</mark>
+### <mark style="color:orange;">감염 후 지속 기침 (Post-Infectious Chronic Cough, PICC)</mark>
 
 * **정의**: 급성 상기도 감염 회복 후에도 3\~8주 이상 지속되는 기침
 * **기전**: 미주신경 과민성 (vagal hypersensitivity) 및 기침 반사 역치 저하
@@ -128,13 +128,13 @@ V=viral, B=bacterial
 
 <p align="center"><em><mark style="color:$info;">Ref. Treatment of the Common Cold. AFP 2019;100(5)</mark></em></p>
 
-### <mark style="color:$primary;">감기 표현형 분류 (Cold Phenotype)</mark>
+### <mark style="color:orange;">감기 표현형 분류 (Cold Phenotype)</mark>
 
 임상 표현형에 따라 치료 우선순위를 결정하면 불필요한 다제 처방을 줄일 수 있음.
 
 <table><thead><tr><th width="90">표현형</th><th width="190">주요 증상</th><th width="195">치료 우선순위</th><th>유의 사항</th></tr></thead><tbody><tr><td><strong>A형</strong><br>Rhinorrhea dominant</td><td>콧물·재채기 위주, 기침 경미</td><td>1세대 항히스타민제<br>비내 decongestant</td><td>졸음 부작용 안내</td></tr><tr><td><strong>B형</strong><br>Cough dominant</td><td>기침 위주, 코 증상 경미</td><td>진해제 (선택적)<br>꿀 (소아)</td><td>후비루 동반 여부 확인</td></tr><tr><td><strong>C형</strong><br>Systemic/flu-like</td><td>발열·근육통·두통 현저</td><td>해열진통제 (NSAID/acetaminophen)</td><td>인플루엔자 감별; 신속 항원 검사 고려</td></tr><tr><td><strong>D형</strong><br>Post-viral cough (PICC)</td><td>급성기 회복 후 기침 3\~8주 지속</td><td>ipratropium 흡입<br>흡입 스테로이드 (선택)</td><td>아급성 기침 영역 (급성기와 구별); 천식·GERD와 감별 필요</td></tr></tbody></table>
 
-### <mark style="color:$primary;">감별 진단</mark>
+### <mark style="color:orange;">감별 진단</mark>
 
 * 기침 (☞ [기침](../220_/006_-cough.md))
 * 편측의 피가 섞인 악취가 나는 콧물 → 코 이물
@@ -265,7 +265,7 @@ flowchart TD
 * "7\~10일이 지나도 호전이 없으면 다시 오세요."
 {% endhint %}
 
-### <mark style="color:$primary;">치료 방침</mark>
+### <mark style="color:orange;">치료 방침</mark>
 
 * 원칙적으로 대증 치료: 휴식, 적당한 영양 및 수분 섭취
 * 항히스타민제, 코 울혈 제거제, 진해제 등의 약물은 효과 근거가 낮으며 심각한 부작용 위험이 있으므로 ＜2세에서 사용을 제한함
@@ -290,7 +290,7 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-### <mark style="color:$primary;">비-약물 치료</mark>
+### <mark style="color:orange;">비-약물 치료</mark>
 
 * 충분한 휴식과 수분 섭취
 * 공기 가습: 분비물 점도 완화 기대; 일관성 있는 효과는 입증되지 않음
@@ -300,7 +300,7 @@ flowchart TD
   * Cochrane 2023 메타분석: 소아에서 야간 기침 빈도 및 기간 감소 효과; 성인에서는 근거 제한적
 * 수액 치료: 탈수가 발생하지 않은 한 권고하지 않음; 소아에서 전해질 불균형 위험
 
-### <mark style="color:$primary;">예방</mark>
+### <mark style="color:orange;">예방</mark>
 
 * 손 씻기, 맨손으로 눈/코/입 만지지 않기, 손 소독제 사용
   * ✽ rhinovirus는 non-enveloped 바이러스로 알코올 기반 소독제에 상대적으로 저항성이 있을 수 있음; **비누를 이용한 흐르는 물 손 씻기가 우선 권장됨**
@@ -312,7 +312,7 @@ flowchart TD
 
 (보험기준 ☞ [건강보험심사평가원](https://www.hira.or.kr))
 
-### <mark style="color:$primary;">진해제 (Antitussive)</mark>
+### <mark style="color:orange;">진해제 (Antitussive)</mark>
 
 * 감기 기침에 대하여 **일관된 강력한 효과를 보이는 진해제는 없으나**, 일부 환자에서 증상 완화 목적의 선택적 사용은 가능함
   * codeine: RCT에서 효과 미약; 부작용·의존성 고려 시 일상적 사용 비권고
@@ -321,7 +321,7 @@ flowchart TD
 * 감기에서의 기침은 후비루의 영향이 크므로 코 증상이 심한 시기에 진해제 반응이 적음; 1세대 항히스타민제가 약간의 도움이 됨
 * 기도 반응성 증가에 의한 기침 (Virus-induced reactive airway disease)에 대하여 기관지 확장제가 효과 (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0022))
 
-#### <mark style="color:orange;">중추성</mark>
+#### <mark style="color:$primary;">중추성</mark>
 
 **dextromethorphan**
 
@@ -344,7 +344,7 @@ flowchart TD
   * ✽ <mark style="color:blue;">\[코푸 시럽]</mark> 10 ㎖ 중: dihydrocodeine 5 ㎎/methylephedrine 13.1 ㎎/chlorpheniramine 1.5 ㎎/ammonium chloride 0.1 g; 20 ㎖ tid\~qid
   * ✽ <mark style="color:blue;">\[코데닝]</mark>: dihydrocodeine 5 ㎎/methylephedrine 17.5 ㎎/chlorpheniramine 1.5 ㎎/guaifenesin 50 ㎎; 6T #3
 
-#### <mark style="color:orange;">비중추성</mark>
+#### <mark style="color:$primary;">비중추성</mark>
 
 **levodropropizine**
 
@@ -381,7 +381,7 @@ flowchart TD
 * 기전/효과: 항콜린 작용; 천식성 기침 및 PICC에 효과
 * <mark style="color:blue;">\[아트로벤트 흡입액]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170825\&sno=2\&mtgMtrRegSno=0031))
 
-#### <mark style="color:orange;">기타</mark>
+#### <mark style="color:$primary;">기타</mark>
 
 **amitriptyline**
 
@@ -399,7 +399,7 @@ flowchart TD
 * 기전/효과: 흡입 또는 물고 있는 동안 인후 민감도 감소
 * ≥6세에서 고려 (흡인 위험)
 
-### <mark style="color:$primary;">점액 용해제 (Mucolytics)</mark>
+### <mark style="color:orange;">점액 용해제 (Mucolytics)</mark>
 
 * **일반 감기에서는 일률적 사용이 권고되지 않음**; 특히 소아에서는 유의미한 효과가 입증되지 않음
 * 일부 연구에서 guaifenesin, bromhexine이 유의미한 효과 보임; 만성 기도 질환 동반 시 보조적 고려 가능
@@ -427,12 +427,12 @@ flowchart TD
 _1) 약간의 진해 효과를 지님._\
 &#xNAN;_&#x32;) 기전 및 효과에 대해 충분히 알려져 있지 않음_
 
-### <mark style="color:$primary;">콧물 치료제 (Anti-rhinorrhea)</mark>
+### <mark style="color:orange;">콧물 치료제 (Anti-rhinorrhea)</mark>
 
 * 감기에 의한 콧물은 주로 kinin과 관련되나 이에 효과적인 약제는 없음
 * 감기의 코 증상에 대하여 효능이 입증된 약제는 없음 (위약 효과 최대 40%)
 
-#### <mark style="color:orange;">항히스타민제</mark>
+#### <mark style="color:$primary;">항히스타민제</mark>
 
 * 감기에서의 콧물은 히스타민보다 kinin·콜린성 자극과 관련되므로, **2세대 항히스타민제 (항알레르기 작용)는 감기 콧물에 효과 없음**
 * 1세대: **항콜린(anticholinergic) 작용에 의한 분비물 억제**로 콧물을 25\~30% 감소; 단, 분비물 배출 장애 초래 가능; 임상적 효과는 제한적이며 선택적 사용 권장
@@ -440,24 +440,24 @@ _1) 약간의 진해 효과를 지님._\
 * chlorpheniramine: 2 ㎎/T 1\~3T bid\~qid; 0.5 ㎎/㎏/d #4 <mark style="color:blue;">\[페니라민]</mark>
 * clemastine: 1 ㎎/T 1T bid <mark style="color:blue;">\[마스질]</mark>
 
-#### <mark style="color:orange;">비내 항콜린제</mark>
+#### <mark style="color:$primary;">비내 항콜린제</mark>
 
 * 기전/효과: 항콜린 작용에 의한 약간의 효과
 * 부작용: 비점막 자극, 코피
 * 효과-부작용을 고려하여 권고하지 않음
 
-### <mark style="color:$primary;">코 막힘 치료제 (Decongestant)</mark>
+### <mark style="color:orange;">코 막힘 치료제 (Decongestant)</mark>
 
 * 기전: 코 막힘 및 콧물 일부는 혈관 확장과 관련
 
-#### <mark style="color:orange;">비내 울혈 제거제</mark>
+#### <mark style="color:$primary;">비내 울혈 제거제</mark>
 
 * 부작용: 약물 반동성 비염
 * 소아에서의 연구는 부족함
 * **용법: 3\~5일 이상 연속 사용 금지; 동일 감염 에피소드에서 반복 사용 금함 (반동성 비염 예방)**
 * phenylephrine <mark style="color:blue;">\[시네프린]</mark>, naphazoline <mark style="color:blue;">\[나리스타]</mark> (chlorpheniramine 복합), xylometazoline <mark style="color:blue;">\[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark>
 
-#### <mark style="color:orange;">경구 코 울혈 제거제</mark>
+#### <mark style="color:$primary;">경구 코 울혈 제거제</mark>
 
 * 효과: 일부 연구에서 약간의 효과; 소아에서의 연구는 부족함
 * 약물 반동성 비염 위험 없음; 국소 자극 없음
@@ -467,12 +467,12 @@ _1) 약간의 진해 효과를 지님._\
 * pseudoephedrine: 60 ㎎/T ½\~1T tid\~qid <mark style="color:blue;">\[슈다페드]</mark>
   * ✽ 성인 최대 240 ㎎/d; 감기 복합제 (코미 시럽 등)와 pseudoephedrine 단일제 중복 복용 시 과량 투여 주의
 
-#### <mark style="color:orange;">기타</mark>
+#### <mark style="color:$primary;">기타</mark>
 
 * 아로마 oil (menthol, camphor, eucalyptus): 코 밑 도포 시 실제 기류 저항에 대한 변화는 없지만 호흡이 편해진 것처럼 느낌
 * 식염수 코 세척: 일시적 증상 완화 (☞ [알레르기비염](../222_/051_-allergic-rhinitis.md#undefined-16))
 
-### <mark style="color:$primary;">진통·해열제</mark>
+### <mark style="color:orange;">진통·해열제</mark>
 
 * NSAID 및 acetaminophen 간의 입증된 효과 차이는 없음; NSAIDs는 기능 회복에도 약간 유리
 * naproxen: 275 ㎎ tid 또는 500 ㎎ bid <mark style="color:blue;">\[아나프록스, 낙센]</mark> (보험주의)
@@ -487,9 +487,9 @@ _1) 약간의 진해 효과를 지님._\
 **소아 OTC 감기약 연령 제한**: 현행 지침상 ＜2세에서 진해제·항히스타민제 사용 금지이나, FDA 및 최신 가이드라인은 효과 부족과 부작용 위험을 근거로 **＜4\~6세**에서도 OTC 감기약 사용 자제를 권고하는 추세임.
 {% endhint %}
 
-### <mark style="color:$primary;">보완 요법 및 보충제</mark>
+### <mark style="color:orange;">보완 요법 및 보충제</mark>
 
-#### <mark style="color:orange;">아연 (zinc)</mark>
+#### <mark style="color:$primary;">아연 (zinc)</mark>
 
 * 효과: 바이러스 증식 억제 (실험실 연구); 메타분석 결과 불일치 (Cochrane 2021: inconsistent); **routine recommendation은 아님**
 * 증상 발생 24시간 이내 시작 시 이환 기간 단축 가능성 있음
@@ -499,27 +499,27 @@ _1) 약간의 진해 효과를 지님._\
 ⚠️ **아연 비강 내 투여 금기**: zinc 함유 비강 내 스프레이·겔 사용은 영구적 후각 상실(anosmia) 위험이 있어 금기 (FDA 경고). 경구 제형만 사용.
 {% endhint %}
 
-#### <mark style="color:orange;">비타민 C (vitamin C)</mark>
+#### <mark style="color:$primary;">비타민 C (vitamin C)</mark>
 
 * 효과: 규칙적 투여 시 증상 중증도 및 유병 기간 소폭 감소; 임상적 의미는 제한적; **routine recommendation은 아님**
 * 감기 발생 후 투여를 시작한 경우의 효과는 불확실
 * 용법: 1\~2 g/d
 
-#### <mark style="color:orange;">비타민 D (vitamin D)</mark>
+#### <mark style="color:$primary;">비타민 D (vitamin D)</mark>
 
 * 결핍 시 상기도 감염 위험 증가 → 결핍 교정에 한하여 의미 있음
 * **충분한 비타민 D 상태에서 추가 보충의 감기 예방 효과는 입증되지 않음** (VITAL trial 2022); routine recommendation은 아님
 
-#### <mark style="color:orange;">Echinacea purpurea</mark>
+#### <mark style="color:$primary;">Echinacea purpurea</mark>
 
 * 효과: 입증 안 됨
 * 용법: 4 ㎖ bid
 
-#### <mark style="color:orange;">probiotics</mark>
+#### <mark style="color:$primary;">probiotics</mark>
 
 * 일부 소아 연구에서 감기 중증도·유병 기간 감소 보고 있으나 일관성 없음; routine recommendation은 아님
 
-#### <mark style="color:orange;">마늘</mark>
+#### <mark style="color:$primary;">마늘</mark>
 
 * 효과: 일부에서 유효; 근거 부족
 * allicin 180 ㎎ (마늘 3 g 해당, 약 20쪽)
