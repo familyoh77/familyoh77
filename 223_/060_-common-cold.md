@@ -1,4 +1,4 @@
-# 감기 (Common Cold)
+# 감기 Common Cold
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -19,12 +19,12 @@
 * 5%에서 세균 (±바이러스) 검출
 
 {% hint style="info" %}
-**COVID-19 이후 변화**: SARS-CoV-2도 감기 유사 증상으로 발현될 수 있으므로 임상적 판단에 포함. 성인 RSV 감염이 COVID-19 이후 증가 추세이며, 바이러스 복합 감염(viral co-infection)도 증가함. 국내에서는 인플루엔자·COVID-19 신속 항원 검사 및 multiplex PCR이 외래에서 용이하게 활용 가능함.
+**COVID-19 이후 변화**: SARS-CoV-2도 감기 유사 증상으로 발현될 수 있으므로 임상적 판단에 포함. 성인 RSV 감염이 COVID-19 이후 증가 추세이며, 바이러스 복합 감염(viral co-infection)도 증가함. 국내에서는 인플루엔자·COVID-19 신속 항원 검사 및 multiplex PCR이 외래에서 용이하게 활용 가능함
 {% endhint %}
 
 ### <mark style="color:$primary;">전파 경로</mark>
 
-#### <mark style="color:orange;">코 분비물의 직접 접촉 (주요 경로)</mark>
+#### <mark style="color:orange;">코 분비물의 직접 접촉</mark>
 
 * 감기 바이러스에 오염된 손으로 코 또는 눈을 만지면 전염됨 (비루관을 통하여 코로 유입)
 * 환자 손의 50%에서 감기 바이러스가 검출됨
@@ -132,12 +132,7 @@ V=viral, B=bacterial
 
 임상 표현형에 따라 치료 우선순위를 결정하면 불필요한 다제 처방을 줄일 수 있음.
 
-<table><thead><tr><th width="90">표현형</th><th width="190">주요 증상</th><th width="195">치료 우선순위</th><th>유의 사항</th></tr></thead><tbody>
-<tr><td><strong>A형</strong><br/>Rhinorrhea dominant</td><td>콧물·재채기 위주, 기침 경미</td><td>1세대 항히스타민제<br/>비내 decongestant</td><td>졸음 부작용 안내</td></tr>
-<tr><td><strong>B형</strong><br/>Cough dominant</td><td>기침 위주, 코 증상 경미</td><td>진해제 (선택적)<br/>꿀 (소아)</td><td>후비루 동반 여부 확인</td></tr>
-<tr><td><strong>C형</strong><br/>Systemic/flu-like</td><td>발열·근육통·두통 현저</td><td>해열진통제 (NSAID/acetaminophen)</td><td>인플루엔자 감별; 신속 항원 검사 고려</td></tr>
-<tr><td><strong>D형</strong><br/>Post-viral cough (PICC)</td><td>급성기 회복 후 기침 3\~8주 지속</td><td>ipratropium 흡입<br/>흡입 스테로이드 (선택)</td><td>아급성 기침 영역 (급성기와 구별); 천식·GERD와 감별 필요</td></tr>
-</tbody></table>
+<table><thead><tr><th width="90">표현형</th><th width="190">주요 증상</th><th width="195">치료 우선순위</th><th>유의 사항</th></tr></thead><tbody><tr><td><strong>A형</strong><br>Rhinorrhea dominant</td><td>콧물·재채기 위주, 기침 경미</td><td>1세대 항히스타민제<br>비내 decongestant</td><td>졸음 부작용 안내</td></tr><tr><td><strong>B형</strong><br>Cough dominant</td><td>기침 위주, 코 증상 경미</td><td>진해제 (선택적)<br>꿀 (소아)</td><td>후비루 동반 여부 확인</td></tr><tr><td><strong>C형</strong><br>Systemic/flu-like</td><td>발열·근육통·두통 현저</td><td>해열진통제 (NSAID/acetaminophen)</td><td>인플루엔자 감별; 신속 항원 검사 고려</td></tr><tr><td><strong>D형</strong><br>Post-viral cough (PICC)</td><td>급성기 회복 후 기침 3\~8주 지속</td><td>ipratropium 흡입<br>흡입 스테로이드 (선택)</td><td>아급성 기침 영역 (급성기와 구별); 천식·GERD와 감별 필요</td></tr></tbody></table>
 
 ### <mark style="color:$primary;">감별 진단</mark>
 
@@ -332,72 +327,72 @@ flowchart TD
 
 * 기전: 약한 NMDA 수용체 대항제
 * 효과: 일부 연구에서 효과; narcotics에 비하여 효과 및 부작용이 적음
-* 30 ㎎ tid\~qid (✽환각 작용에 따른 남용으로 단일제는 판매 중지; 복합제로만 시판 <mark style="color:blue;">[코푸정 에스]</mark>)
+* 30 ㎎ tid\~qid (✽환각 작용에 따른 남용으로 단일제는 판매 중지; 복합제로만 시판 <mark style="color:blue;">\[코푸정 에스]</mark>)
 
 **cloperastine**
 
 * 기전/효과: σ1-receptor ligand, GIRK channel blocker, 항히스타민, 항콜린 작용 추정; 불명
 * 부작용: 졸림
-* <mark style="color:blue;">[프리비투스]</mark> 8 ㎖/포; 5\~8 ㎖ tid; 2\~4세 2 ㎖ bid
+* <mark style="color:blue;">\[프리비투스]</mark> 8 ㎖/포; 5\~8 ㎖ tid; 2\~4세 2 ㎖ bid
 
 **codeine**
 
 * 기전/효과: 연수 기침 중추 억제 (narcotics)
 * 부작용: 졸음, 변비, 소화 장애
-* 복합제로 시판: <mark style="color:blue;">[코푸 시럽]</mark> 20 ㎖/포 tid\~qid, <mark style="color:blue;">[코데닝]</mark> 6T #3; **＜12세 사용 금지**
+* 복합제로 시판: <mark style="color:blue;">\[코푸 시럽]</mark> 20 ㎖/포 tid\~qid, <mark style="color:blue;">\[코데닝]</mark> 6T #3; **＜12세 사용 금지**
   * ✽ 12\~18세에서도 비만, 폐질환, 수면 무호흡증이 있는 경우 호흡 저하 위험으로 신중 투여 또는 금기 (식약처 안전성 서한)
-  * ✽ <mark style="color:blue;">[코푸 시럽]</mark> 10 ㎖ 중: dihydrocodeine 5 ㎎/methylephedrine 13.1 ㎎/chlorpheniramine 1.5 ㎎/ammonium chloride 0.1 g; 20 ㎖ tid\~qid
-  * ✽ <mark style="color:blue;">[코데닝]</mark>: dihydrocodeine 5 ㎎/methylephedrine 17.5 ㎎/chlorpheniramine 1.5 ㎎/guaifenesin 50 ㎎; 6T #3
+  * ✽ <mark style="color:blue;">\[코푸 시럽]</mark> 10 ㎖ 중: dihydrocodeine 5 ㎎/methylephedrine 13.1 ㎎/chlorpheniramine 1.5 ㎎/ammonium chloride 0.1 g; 20 ㎖ tid\~qid
+  * ✽ <mark style="color:blue;">\[코데닝]</mark>: dihydrocodeine 5 ㎎/methylephedrine 17.5 ㎎/chlorpheniramine 1.5 ㎎/guaifenesin 50 ㎎; 6T #3
 
 #### <mark style="color:orange;">비중추성</mark>
 
 **levodropropizine**
 
 * 기전/효과: 기침 경로의 C-fiber 억제; 일부 메타분석에서 dextromethorphan 대비 동등 이상 효과
-* <mark style="color:blue;">[드로피진]</mark> 60 ㎎/T 또는 10 ㎖/포 tid; 3 ㎎/㎏/d #3; <mark style="color:blue;">[레보케어 CR]</mark> 90 ㎎/T bid
+* <mark style="color:blue;">\[드로피진]</mark> 60 ㎎/T 또는 10 ㎖/포 tid; 3 ㎎/㎏/d #3; <mark style="color:blue;">\[레보케어 CR]</mark> 90 ㎎/T bid
 
 **ivy leaf 추출물** (hederacoside C)
 
 * 기전/효과: 항경련 작용 (아세틸콜린 유도성 기관지 연축 방지), 항염, 점액 용해
-* <mark style="color:blue;">[푸로스판]</mark> 5\~7.5 ㎖ bid\~tid; 2\~5세 2.5 ㎖ bid
+* <mark style="color:blue;">\[푸로스판]</mark> 5\~7.5 ㎖ bid\~tid; 2\~5세 2.5 ㎖ bid
 
 **benzonatate**
 
 * 기전/효과: 미주신경 억제, 뇌간 기침 중추 일부 억제; 효과는 다양하고 예측 불가
-* <mark style="color:blue;">[지콜]</mark> 100, 200 ㎎/C; 3C #3
+* <mark style="color:blue;">\[지콜]</mark> 100, 200 ㎎/C; 3C #3
 
 **theobromine**
 
 * 기전/효과: methylxanthine 유도체; 미주신경 구심 신경 활성 억제
 * 부작용: 대용량에서 오심/구토
-* <mark style="color:blue;">[애니코프]</mark> 300 ㎎/C; 2C #2
+* <mark style="color:blue;">\[애니코프]</mark> 300 ㎎/C; 2C #2
 
 **β2-agonist**
 
 * 기전/효과: 기도 폐쇄, 기관지 경련이 있는 경우 도움
 * 부작용: 떨림, 불안감
-* salbutamol <mark style="color:blue;">[벤토린 에보할러]</mark>
-* tulobuterol: 6개월\~3세 미만 0.5 ㎎, 3\~9세 미만 1 ㎎ <mark style="color:blue;">[호쿠날린 패취]</mark>
-* formoterol: 40 ㎍/T 4T #2 <mark style="color:blue;">[아토크]</mark>
-* procaterol: 50 ㎍/T 1T qhs\~bid <mark style="color:blue;">[메프친]</mark>
+* salbutamol <mark style="color:blue;">\[벤토린 에보할러]</mark>
+* tulobuterol: 6개월\~3세 미만 0.5 ㎎, 3\~9세 미만 1 ㎎ <mark style="color:blue;">\[호쿠날린 패취]</mark>
+* formoterol: 40 ㎍/T 4T #2 <mark style="color:blue;">\[아토크]</mark>
+* procaterol: 50 ㎍/T 1T qhs\~bid <mark style="color:blue;">\[메프친]</mark>
 
 **ipratropium**
 
 * 기전/효과: 항콜린 작용; 천식성 기침 및 PICC에 효과
-* <mark style="color:blue;">[아트로벤트 흡입액]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170825\&sno=2\&mtgMtrRegSno=0031))
+* <mark style="color:blue;">\[아트로벤트 흡입액]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170825\&sno=2\&mtgMtrRegSno=0031))
 
 #### <mark style="color:orange;">기타</mark>
 
 **amitriptyline**
 
 * 기전/효과: 바이러스 감염 후 미주신경/감각신경 장애와 관련된 기침, PICC
-* <mark style="color:blue;">[에트라빌]</mark> 10 ㎎/T; 1T hs
+* <mark style="color:blue;">\[에트라빌]</mark> 10 ㎎/T; 1T hs
 
 **항히스타민제** (진해 목적)
 
 * 기전/효과: 진정 및 항콜린 작용; 1세대는 후비루와 인후 불편감을 포함한 급성 기침에 약간의 효과; 2세대는 효과 없음; **임상적 효과는 제한적이며 부작용 대비 선택적 사용 권장** (☞ [항히스타민제](../231_/212_-antihistamines.md))
-* chlorpheniramine: 2 ㎎/T 1\~3T bid\~qid; 0.5 ㎎/㎏/d #4 <mark style="color:blue;">[페니라민]</mark>
-* clemastine: 1 ㎎/T 1T bid <mark style="color:blue;">[마스질]</mark>
+* chlorpheniramine: 2 ㎎/T 1\~3T bid\~qid; 0.5 ㎎/㎏/d #4 <mark style="color:blue;">\[페니라민]</mark>
+* clemastine: 1 ㎎/T 1T bid <mark style="color:blue;">\[마스질]</mark>
 
 **박하, 자일리톨, 기타 사탕/껌**
 
@@ -416,21 +411,21 @@ flowchart TD
 * 점액 용해제 (mucolytics): N-acetylcysteine, bromhexine, erdosteine, sobrerol, ambroxol
 * 점액 활성제 (mucokinetics): 흡입 β2-기관지 확장제, methylxanthine, ambroxol, acebrophylline
 
-<table><thead><tr><th width="235">성분명 <mark style="color:blue;">[상품명]</mark></th><th width="195">용법</th><th>비고</th></tr></thead><tbody>
-<tr><td>guaifenesin¹⁾ <mark style="color:blue;">[코데닝]</mark></td><td>2T tid (복합제)</td><td>약간의 진해 효과</td></tr>
-<tr><td>carbocysteine <mark style="color:blue;">[리나치올]</mark></td><td>500 ㎎/C tid</td><td>점액 조절</td></tr>
-<tr><td>acetylcysteine <mark style="color:blue;">[뮤테란]</mark></td><td>200 ㎎/C tid</td><td></td></tr>
-<tr><td>bromhexine <mark style="color:blue;">[비졸본]</mark></td><td>8 ㎎/T 1\~2T tid</td><td></td></tr>
-<tr><td>erdosteine <mark style="color:blue;">[엘도스]</mark></td><td>300 ㎎/C bid\~tid</td><td></td></tr>
-<tr><td>sobrerol <mark style="color:blue;">[소부날]</mark></td><td>200 ㎎/C bid</td><td></td></tr>
-<tr><td>ambroxol <mark style="color:blue;">[뮤코펙트]</mark></td><td>30 ㎎/T tid</td><td>점액 활성</td></tr>
-<tr><td>acebrophylline <mark style="color:blue;">[설포라제]</mark></td><td>100 ㎎/C bid</td><td>점액 활성</td></tr>
-<tr><td>pelargonium sidoides²⁾ <mark style="color:blue;">[움카민]</mark></td><td>9 ㎖ 또는 1T tid</td><td>기전 불명확</td></tr>
-<tr><td>coptis rhizome²⁾ <mark style="color:blue;">[시네츄라]</mark></td><td>15 ㎖ tid</td><td>기전 불명확</td></tr>
-</tbody></table>
+| 성분명 <mark style="color:blue;">\[상품명]</mark>                    | 용법                 | 비고        |
+| -------------------------------------------------------------- | ------------------ | --------- |
+| guaifenesin¹⁾ <mark style="color:blue;">\[코데닝]</mark>          | 2T tid (복합제)       | 약간의 진해 효과 |
+| carbocysteine <mark style="color:blue;">\[리나치올]</mark>         | 500 ㎎/C tid        | 점액 조절     |
+| acetylcysteine <mark style="color:blue;">\[뮤테란]</mark>         | 200 ㎎/C tid        |           |
+| bromhexine <mark style="color:blue;">\[비졸본]</mark>             | 8 ㎎/T 1\\\~2T tid  |           |
+| erdosteine <mark style="color:blue;">\[엘도스]</mark>             | 300 ㎎/C bid\\\~tid |           |
+| sobrerol <mark style="color:blue;">\[소부날]</mark>               | 200 ㎎/C bid        |           |
+| ambroxol <mark style="color:blue;">\[뮤코펙트]</mark>              | 30 ㎎/T tid         | 점액 활성     |
+| acebrophylline <mark style="color:blue;">\[설포라제]</mark>        | 100 ㎎/C bid        | 점액 활성     |
+| pelargonium sidoides²⁾ <mark style="color:blue;">\[움카민]</mark> | 9 ㎖ 또는 1T tid      | 기전 불명확    |
+| coptis rhizome²⁾ <mark style="color:blue;">\[시네츄라]</mark>      | 15 ㎖ tid           | 기전 불명확    |
 
 _1) 약간의 진해 효과를 지님._\
-_2) 기전 및 효과에 대해 충분히 알려져 있지 않음_
+&#xNAN;_&#x32;) 기전 및 효과에 대해 충분히 알려져 있지 않음_
 
 ### <mark style="color:$primary;">콧물 치료제 (Anti-rhinorrhea)</mark>
 
@@ -442,8 +437,8 @@ _2) 기전 및 효과에 대해 충분히 알려져 있지 않음_
 * 감기에서의 콧물은 히스타민보다 kinin·콜린성 자극과 관련되므로, **2세대 항히스타민제 (항알레르기 작용)는 감기 콧물에 효과 없음**
 * 1세대: **항콜린(anticholinergic) 작용에 의한 분비물 억제**로 콧물을 25\~30% 감소; 단, 분비물 배출 장애 초래 가능; 임상적 효과는 제한적이며 선택적 사용 권장
 * 부작용: 졸음, 입마름, paradoxical hyperactivity, 호흡 저하 (과사용 시)
-* chlorpheniramine: 2 ㎎/T 1\~3T bid\~qid; 0.5 ㎎/㎏/d #4 <mark style="color:blue;">[페니라민]</mark>
-* clemastine: 1 ㎎/T 1T bid <mark style="color:blue;">[마스질]</mark>
+* chlorpheniramine: 2 ㎎/T 1\~3T bid\~qid; 0.5 ㎎/㎏/d #4 <mark style="color:blue;">\[페니라민]</mark>
+* clemastine: 1 ㎎/T 1T bid <mark style="color:blue;">\[마스질]</mark>
 
 #### <mark style="color:orange;">비내 항콜린제</mark>
 
@@ -460,7 +455,7 @@ _2) 기전 및 효과에 대해 충분히 알려져 있지 않음_
 * 부작용: 약물 반동성 비염
 * 소아에서의 연구는 부족함
 * **용법: 3\~5일 이상 연속 사용 금지; 동일 감염 에피소드에서 반복 사용 금함 (반동성 비염 예방)**
-* phenylephrine <mark style="color:blue;">[시네프린]</mark>, naphazoline <mark style="color:blue;">[나리스타]</mark> (chlorpheniramine 복합), xylometazoline <mark style="color:blue;">[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">[레스피비엔]</mark>
+* phenylephrine <mark style="color:blue;">\[시네프린]</mark>, naphazoline <mark style="color:blue;">\[나리스타]</mark> (chlorpheniramine 복합), xylometazoline <mark style="color:blue;">\[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark>
 
 #### <mark style="color:orange;">경구 코 울혈 제거제</mark>
 
@@ -468,8 +463,8 @@ _2) 기전 및 효과에 대해 충분히 알려져 있지 않음_
 * 약물 반동성 비염 위험 없음; 국소 자극 없음
 * 부작용: CNS 자극, 혈압 상승, 가슴 두근거림, 불안, **불면증**, 수면 장애; **안압 상승 (녹내장 환자 주의)**
 * **주의: 심혈관계 질환, 고혈압, BPH, 갑상선 질환, 녹내장 환자에서 사용 금지 또는 주의**
-* phenylephrine: 10 ㎎ tid\~qid; 복합제 <mark style="color:blue;">[코미 시럽]</mark>
-* pseudoephedrine: 60 ㎎/T ½\~1T tid\~qid <mark style="color:blue;">[슈다페드]</mark>
+* phenylephrine: 10 ㎎ tid\~qid; 복합제 <mark style="color:blue;">\[코미 시럽]</mark>
+* pseudoephedrine: 60 ㎎/T ½\~1T tid\~qid <mark style="color:blue;">\[슈다페드]</mark>
   * ✽ 성인 최대 240 ㎎/d; 감기 복합제 (코미 시럽 등)와 pseudoephedrine 단일제 중복 복용 시 과량 투여 주의
 
 #### <mark style="color:orange;">기타</mark>
@@ -480,9 +475,9 @@ _2) 기전 및 효과에 대해 충분히 알려져 있지 않음_
 ### <mark style="color:$primary;">진통·해열제</mark>
 
 * NSAID 및 acetaminophen 간의 입증된 효과 차이는 없음; NSAIDs는 기능 회복에도 약간 유리
-* naproxen: 275 ㎎ tid 또는 500 ㎎ bid <mark style="color:blue;">[아나프록스, 낙센]</mark> (보험주의)
-* ibuprofen: 400 ㎎ tid\~qid <mark style="color:blue;">[부루펜]</mark>
-* acetaminophen: 650\~1,300 ㎎ tid <mark style="color:blue;">[타이레놀]</mark>
+* naproxen: 275 ㎎ tid 또는 500 ㎎ bid <mark style="color:blue;">\[아나프록스, 낙센]</mark> (보험주의)
+* ibuprofen: 400 ㎎ tid\~qid <mark style="color:blue;">\[부루펜]</mark>
+* acetaminophen: 650\~1,300 ㎎ tid <mark style="color:blue;">\[타이레놀]</mark>
 
 {% hint style="danger" %}
 ⚠️ **소아에서 aspirin 사용 금지**: 인플루엔자 또는 수두가 의심되는 소아·청소년에서 aspirin 투여 시 라이 증후군(Reye syndrome, 간부전·뇌병증) 위험이 있어 금기. 소아 해열진통제는 acetaminophen 또는 ibuprofen만 사용.
@@ -569,7 +564,7 @@ J06 다발성 및 상세불명 부위의 급성 상기도감염
 > 부루펜 200 ㎎/T  4T  #2
 > ```
 >
-> _✽ <mark style="color:blue;">[코푸 시럽]</mark>: dihydrocodeine + methylephedrine + chlorpheniramine 복합; ＜12세 사용 금지_
+> _✽ <mark style="color:blue;">\[코푸 시럽]</mark>: dihydrocodeine + methylephedrine + chlorpheniramine 복합; ＜12세 사용 금지_
 
 > **처방례 4. 소아 - 기침·콧물 (2\~5세, 체중 15 ㎏ 예시)**
 >
