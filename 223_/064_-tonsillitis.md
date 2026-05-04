@@ -1,7 +1,5 @@
 # 편도염 Tonsillitis
 
-![image](../.gitbook/assets/205f7f6a-c383-4e10-946b-6fb8c73f0284.JPG)
-
 ## 일반 사항
 
 * 편도의 감염 또는 염증 상태
@@ -43,16 +41,8 @@
 #### 만성 감염
 
 * 구강 증상 : 구취, 만성 인두염, 이물감, cryptic plug
-
-> ✽cryptic plug : tonsillar crypt에 상피 세포, 림프구, 세균, 기타 찌꺼기가 축적되어 만들어진, 악취가 나는 작은 덩어리.
-
-> ```
-> 석회화하면 편도결석(tonsillolith)을 형성
-> ```
-
-*   편도 비대 : 감염이 있다고 항상 편도 비대가 나타나는 것은 아니며 만성 감염에서는 작아지기도함;
-
-    편도의 크기만으로 감염 여부를 결정할 수 없음
+  * cryptic plug : tonsillar crypt에 상피 세포, 림프구, 세균, 기타 찌꺼기가 축적되어 만들어진, 악취가 나는 작은 덩어리. 석회화하면 편도결석(tonsillolith)을 형성
+* 편도 비대 : 감염이 있다고 항상 편도 비대가 나타나는 것은 아니며 만성 감염에서는 작아지기도함; 편도의 크기만으로 감염 여부를 결정할 수 없음
 
 ## 진단
 
@@ -76,19 +66,38 @@
 
 ### 항생제
 
-*   Streptococcus pyogenes (GABHS) 급성 인두편도염의 권고 항생제 용량 및 치료 기간
+**Streptococcus pyogenes (GABHS) 급성 인두편도염**
 
-    ![image](../.gitbook/assets/7951639f-0e1b-4633-b93f-d3987d518a8b.JPG)
-* 만성 편도염 : 포도알균 또는 혐기성 균이 β-lactamase를 생성하므로 세파계 또는 clindamycin이 보다 효과적
-* tetracyclines, fluoroquinolones, sulfonamide는 GAS 편도염에 사용하지 않음
+_<mark style="color:$info;">(Ref. 윤영경 외. 성인 급성 상기도 감염 항생제 사용지침 권고안. 대한감염학회. 2017)</mark>_
+
+* 1차 선택&#x20;
+  * amoxicillin 50 ㎎/㎏ qd or 25 ㎎/㎏ bid (최대 1 g) × 10일 \[파목신]
+  * 대체&#x20;
+    * amox/clav. 500/125 ㎎ tid × 10일 \[오구멘틴]
+    * ampicillin/sulbactam 500/250 ㎎ tid × 10일
+* Pc 4형 알레르기 (발진)
+  * 1세대 세파
+    * cephalexin 500 ㎎ bid × 10일 \[팔렉신]
+    * cefadroxil 1,000 ㎎ qd × 10일 \[듀리세프]
+  * 대체&#x20;
+    * cefpodoxime 100 ㎎ bid × 5일 \[바난]
+    * cefdinir 300 ㎎ bid × 5일 \[옴니세프]
+* Pc 1형 알레르기 (anaphylaxis)
+  * clindamycin 300 ㎎ tid × 10일 \[훌그램]
+  * azithromycin 500 ㎎ qd × 5일 \[지스로맥스]
+  * clarithromycin 250 ㎎ bid × 10일 \[클래리시드]
+
+**만성 편도염**
+
+* 포도알균 또는 혐기성 균이 β-lactamase를 생성하므로 세파계 또는 clindamycin이 보다 효과적
+
+※ tetracyclines, fluoroquinolones, sulfonamide는 GAS 편도염에 사용하지 않음
 
 ### 편도 절제
 
 #### 효과
 
-*   수면 장애를 유발하는 adenotonsillar hypertrophy가 있는 성장 부진 소아에서 아데노이드편도 절제술 시행 후 유의미한
-
-    성장 증가가 이루어지는 경우가 있음
+* 수면 장애를 유발하는 adenotonsillar hypertrophy가 있는 성장 부진 소아에서 아데노이드편도 절제술 시행 후 유의미한 성장 증가가 이루어지는 경우가 있음
 * 편도 및 아데노이드 절제 후 면역 저하는 관찰되지 않음
 
 #### 한계
@@ -98,28 +107,41 @@
 
 #### 편도절제술 적응증 [AAO-HNSF](../2019/)
 
-*   편도염\*이 다음 빈도로 발생
-
-    ① 최근 1년 동안 ≥7회, 또는 ② 최근 2년 동안 매년 ≥5회, 또는 ③ 최근 3년 동안 매년 ≥3회
-
-> \*편도염 진단 기준 : 인후통 및 다음 중 하나 이상 해당
-
-> ```
-> ① 경부 림프절병증, ② 편도 삼출물, ③ GABHS 배양 검사(+), ④ ＞38.3℃
-> ```
-
-*   위 적응증에 해당되지 않더라도 다음의 경우에는 절제술 검토 : 다수 항생제에 대한 알레르기/불내성,
-
-    PFAPA(periodic fever, aphthous stomatitis, pharyngitis, & adenitis), ≥2회 편도주위농양 병력; 성장 장애,
-
-    저조한 학업 성취도, 야뇨, 천식, 행동 장애 등을 가진 폐쇄성 수면 호흡 장애 소아
+* 편도염\*이 다음 빈도로 발생
+  1. 최근 1년 동안 ≥7회, 또는&#x20;
+  2. 최근 2년 동안 매년 ≥5회, 또는&#x20;
+  3. 최근 3년 동안 매년 ≥3회&#x20;
+* 편도염 진단 기준 : 인후통 및 다음 중 하나 이상 해당
+  1. 경부 림프절병증
+  2. 편도 삼출물
+  3. GABHS 배양 검사(+)
+  4. ＞38.3℃
+* 위 적응증에 해당되지 않더라도 다음의 경우에는 절제술 검토&#x20;
+  * 다수 항생제에 대한 알레르기/불내성
+  * PFAPA(periodic fever, aphthous stomatitis, pharyngitis, & adenitis)
+  * ≥2회 편도주위농양 병력
+  * 성장 장애, 저조한 학업 성취도, 야뇨, 천식, 행동 장애 등을 가진 폐쇄성 수면 호흡 장애 소아
 
 ### Tonsillar crypt 이물 제거
 
 * 물리적 제거(면봉, water jet) 또는 질산은 소작
 
-> **질병코드** J03 급성 편도염
+
+
+### **질병코드**&#x20;
+
+J03 급성 편도염
 
 J35.0 만성 편도염
 
-![image](../.gitbook/assets/78927d3f-4eca-4cae-8711-a8b3e2192458.JPG)
+
+
+## 처방례
+
+처방례 1. 세균 감염 가능성 낮음\
+부루펜 200 ㎎/T 6T #3\
+코데닝 6T #3 (기침 콧물 동반 시)\
+처방례 2. GAS 감염 의심\
+오구멘틴 625 ㎎/T 3T #3\
+애니펜 300 ㎎/T 3T #3\
+코푸 시럽 20 ㎖/P 4P #4 (기침 콧물 동반 시)
