@@ -1,7 +1,5 @@
 # 편도 주위 농양 Peritonsillar Abscess
 
-![image](../.gitbook/assets/3fc85248-f468-432f-b529-a3df20aa031f.JPG)
-
 ## 일반 사항
 
 *   Peritonsillar abscess : 감염에 의해서 유발된 palatine tonsil의 capsule과 인두 근육 사이 조직의 염증 반응으로,
@@ -47,9 +45,7 @@
 
 #### Needle aspiration technique
 
-> ```
-> Ref. Peritonsillar abscess. AFP 2017:15;95(8)
-> ```
+_<mark style="color:$info;">(Ref. Peritonsillar abscess. AFP 2017:15;95(8))</mark>_
 
 * 시술 전 airway complication을 다룰 준비를 함
 *   시술자와 환자가 마주 앉고 적절한 조명으로 시야 확보 → 연구개를 촉진하여 유동 부위 확인
@@ -83,8 +79,22 @@
 * 비-경구 1회 투여로 염증 완화 효과 기대
 * 추가 연구 필요
 
-> **질병코드** J36 편도주위농양
+
+
+### **질병코드**&#x20;
+
+J36 편도주위농양
 
 J39.0 인두뒤 및 인두옆 농양
 
-![image](../.gitbook/assets/04e3a5ac-8249-49b5-80d9-3aa262f96a21.JPG)
+
+
+## 처방례
+
+처방례 1.\
+오구멘틴 625 ㎎/T 3T #3\
+부루펜 200 ㎎/T 6T #3\
+베타메타손 주사액 4 ㎎/㎖ IM (보험주의)\
+처방례 2.\
+훌그램 150 ㎎/C 8C #2\
+낙센 에프 500 ㎎/T 2T #2 (보험주의)
