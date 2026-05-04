@@ -32,7 +32,7 @@ EBV 감염 환자에게 amoxicillin 또는 ampicillin을 투여하면 약 80%에
 #### <mark style="color:$primary;">만성 편도염</mark>
 
 * **바이러스** : EBV, adenovirus
-* **세균** : β-lactamase 생성 균주 포함 혼합 감염 — *Streptococcus*, *H. influenzae*, *Peptostreptococcus*, *Fusobacterium*
+* **세균** : β-lactamase 생성 균주 포함 혼합 감염 - *Streptococcus*, *H. influenzae*, *Peptostreptococcus*, *Fusobacterium*
 * **감염 외** : GERD, 알레르기, 천식
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -128,27 +128,27 @@ _바이러스 시사 소견이 없을 때 적용_
 
 ```mermaid
 graph TD
-    A([급성 편도염 의심\n인후통 + 발열]) --> B{🚩 Red Flags?}
+    A([급성 편도염 의심<br/>인후통 + 발열]) --> B{🚩 Red Flags?}
     B -- 있음 --> C[즉각 의뢰/응급 처치]
-    B -- 없음 --> D{바이러스 시사 소견?\n기침·콧물·결막염\n쉰 목소리·구내 궤양}
-    D -- 1개 이상 --> E[바이러스성\n항생제 금기]
+    B -- 없음 --> D{바이러스 시사 소견?<br/>기침·콧물·결막염<br/>쉰 목소리·구내 궤양}
+    D -- 1개 이상 --> E[바이러스성<br/>항생제 금기]
     D -- 없음 --> F[McIsaac 점수 계산]
-    E --> G[대증 치료\nNSAID · 수분 · 휴식]
+    E --> G[대증 치료<br/>NSAID · 수분 · 휴식]
     F --> H{점수}
     H -- ≤1 --> G
     H -- 2~3 --> I[RADT 시행]
-    H -- ≥4 --> J[RADT 또는\n경험적 항생제 선택]
+    H -- ≥4 --> J[RADT 또는<br/>경험적 항생제 선택]
     I -- 양성 --> K[GABHS 확진]
     I -- 음성+소아 --> L[인후 배양 고려]
     I -- 음성+성인 --> G
     L -- 양성 --> K
     L -- 음성 --> G
     J -- RADT 양성 또는 경험적 --> K
-    K --> M[amoxicillin × 10일\n± dexamethasone 단회\nsevere pain 시]
-    G --> N{48~72시간\n재평가}
+    K --> M[amoxicillin × 10일<br/>± dexamethasone 단회<br/>severe pain 시]
+    G --> N{48~72시간<br/>재평가}
     M --> N
     N -- 호전 --> O([치료 완료])
-    N -- 미호전 --> P[EBV? 농양? 내성균?\n순응도 확인 → 의뢰 고려]
+    N -- 미호전 --> P[EBV? 농양? 내성균?<br/>순응도 확인 → 의뢰 고려]
 
     style C fill:#f96,stroke:#e65100,stroke-width:2px
     style M fill:#e1f5fe,stroke:#01579b,stroke-width:2px
@@ -168,7 +168,7 @@ graph TD
 **치료 원칙**
 
 * 바이러스 시사 소견 확인 → 있으면 항생제 없이 대증 치료; 이 단계에서 70\~80% 종료
-* GABHS 치료 시 **반드시 10일 전 과정 완료** (penicillin/amoxicillin 기준) — 류마티스 열 예방
+* GABHS 치료 시 **반드시 10일 전 과정 완료** (penicillin/amoxicillin 기준) - 류마티스 열 예방
 * 심한 인후통·삼킴 장애에서 **dexamethasone 단회** 고려
 {% endhint %}
 
@@ -202,7 +202,7 @@ graph TD
 
 ### <mark style="color:orange;">Corticosteroid (중증 통증·삼킴 장애 시)</mark>
 
-* **dexamethasone** — 인후통 완화 및 회복 시간 단축 효과
+* **dexamethasone** - 인후통 완화 및 회복 시간 단축 효과
   * 성인 : 10 ㎎ 단회 (PO 또는 IM)
   * 소아 : 0.6 ㎎/㎏ 단회 (최대 10 ㎎)
   * 반복 사용하지 않음; GABHS 확인 또는 고위험 시 항생제와 병용
@@ -216,12 +216,12 @@ _<mark style="color:$info;">(Ref. 윤영경 외. 성인 급성 상기도 감염 
 **GABHS에 amoxicillin이 1차 선택제인 이유** : GABHS는 β-lactamase를 생성하지 않으므로 amoxicillin 단독으로 완전 치료 가능; 협스펙트럼으로 장내 세균총 영향 최소화. 단순 급성 GABHS 편도염에서 amoxicillin/clavulanate는 불필요하게 광범위하여 사용하지 않음.
 {% endhint %}
 
-#### <mark style="color:$primary;">GABHS 급성 편도염 — 1차 선택</mark>
+#### <mark style="color:$primary;">GABHS 급성 편도염 - 1차 선택</mark>
 
 * amoxicillin 50 ㎎/㎏/day qd 또는 25 ㎎/㎏ bid (최대 1 g/day) × **10일** <mark style="color:blue;">\[파목신]</mark>
   * 성인 : amoxicillin 500 ㎎ bid 또는 1,000 ㎎ qd × 10일
 
-#### <mark style="color:$primary;">GABHS 급성 편도염 — 대체</mark>
+#### <mark style="color:$primary;">GABHS 급성 편도염 - 대체</mark>
 
 * ampicillin/sulbactam 500/250 ㎎ tid × 10일
 
@@ -271,7 +271,7 @@ _<mark style="color:$info;">(Ref. 윤영경 외. 성인 급성 상기도 감염 
 
 ### <mark style="color:orange;">편도절제술 적응증</mark>
 
-_<mark style="color:$info;">(Ref. Mitchell RB et al. Otolaryngol Head Neck Surg. 2019;160(1\_suppl):S1-S42. AAO-HNS Clinical Practice Guideline: Tonsillectomy in Children — Update 2019)</mark>_
+_<mark style="color:$info;">(Ref. Mitchell RB et al. Otolaryngol Head Neck Surg. 2019;160(1\_suppl):S1-S42. AAO-HNS Clinical Practice Guideline: Tonsillectomy in Children - Update 2019)</mark>_
 
 **편도염\*이 다음 빈도로 발생한 경우**
 
@@ -305,7 +305,7 @@ J35.0 만성 편도염
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 급성 편도염 — 바이러스성 (바이러스 시사 소견 있음 또는 McIsaac ≤1)**
+> **처방례 1. 급성 편도염 - 바이러스성 (바이러스 시사 소견 있음 또는 McIsaac ≤1)**
 >
 > ```
 > 이부프로펜 200 ㎎/T   3T   tid (식후)
@@ -314,7 +314,7 @@ J35.0 만성 편도염
 >
 > _✽ 항생제 불필요. 충분한 수분 섭취·휴식 지도. 3\~4일 내 자연 호전 기대._
 
-> **처방례 2. GABHS 확진 (RADT 양성 또는 McIsaac ≥4) — 성인, 페니실린 알레르기 없음**
+> **처방례 2. GABHS 확진 (RADT 양성 또는 McIsaac ≥4) - 성인, 페니실린 알레르기 없음**
 >
 > ```
 > 파목신 500 ㎎/T　　1T   bid   × 10일
@@ -323,7 +323,7 @@ J35.0 만성 편도염
 >
 > _✽ 반드시 10일 전 과정 완료 (증상 호전 후에도 중단 금지; 류마티스 열 예방). 복용 시작 48\~72시간 내 호전 없으면 재진._
 
-> **처방례 3. GABHS — 인후통·삼킴 장애 심한 경우 (steroid 추가)**
+> **처방례 3. GABHS - 인후통·삼킴 장애 심한 경우 (steroid 추가)**
 >
 > ```
 > 파목신 500 ㎎/T　　　　　1T   bid   × 10일
@@ -333,7 +333,7 @@ J35.0 만성 편도염
 >
 > _✽ dexamethasone은 단회만 투여. 인후통·발열의 빠른 완화 목적. EBV 단핵구증에서 기도 압박 위협 시에도 고려 가능._
 
-> **처방례 4. GABHS — 페니실린 지연형 알레르기 (발진) 환자**
+> **처방례 4. GABHS - 페니실린 지연형 알레르기 (발진) 환자**
 >
 > ```
 > 팔렉신 500 ㎎/T　　　1T   bid   × 10일
@@ -355,7 +355,7 @@ J35.0 만성 편도염
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **항생제 — 왜 10일을 모두 복용해야 하나요?**
+> **항생제 - 왜 10일을 모두 복용해야 하나요?**
 >
 > 1. 증상이 2\~3일 만에 나아져도 **처방받은 10일 전 과정을 반드시 완료**하십시오.
 > 2. 중간에 끊으면 세균이 완전히 제거되지 않아 재발하거나, 드물게 류마티스 열(심장 판막 손상)이 발생할 수 있습니다.
