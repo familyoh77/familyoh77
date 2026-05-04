@@ -1,7 +1,5 @@
 # 폐렴 Pneumonia
 
-![image](../.gitbook/assets/5ad57548-9640-4b0c-8b5e-f60f25f65bfe.JPG)
-
 ## 일반 사항
 
 * 감염 등에 의해 발생하는 terminal bronchiole 이하 폐 실질 조직의 염증성 질환
@@ -27,7 +25,7 @@
 * 장기 입원, 보호시설 거주자 : 그람음성 균주(예: 녹농균)
 * COPD, 흡연 : H. influenzae , P. aeruginosa , Legionella , S. pneumoniae
 * 음주 : S. pneumoniae , 혐기성균, 그람음성균, 결핵균
-* 젊은 성인, 여름/가을 : M. pneumoniae![image](../.gitbook/assets/076e036b-7295-42c6-8e19-4bd6df6e8e3f.JPG)
+* 젊은 성인, 여름/가을 : M. pneumoniae
 * 냉방 노출 : Legionella
 * 흡인, 불결한 치아 위생 : 혐기성, mixed flora
 
@@ -58,6 +56,14 @@
 * 마른기침, 가벼운 인두염, 미열, 오한, 설사 등 가벼운 증상으로 시작
 * 호흡 곤란은 드묾, 초기에 청진 소견이 뚜렷하지 않음
 
+### &#x20;Red Flags!
+
+* ＜6개월 소아, 고령, 면역 저하
+* 심한 구토, 경구 섭취 곤란, 탈수
+* 중등도 이상의 호흡 곤란(빈호흡, 늑간 함몰), 저산소증(청색증, 창백)
+* 흉부 X선상 여러 엽 이환, 합병증(농흉)
+* 경구 항생제 치료에 반응하지 않음 R
+
 ## 진단
 
 * 임상 소견 또는 영상 검사로 폐렴의 바이러스와 세균 원인을 구별하는 것은 어려움
@@ -67,22 +73,46 @@
 
 #### 급성 기침을 가진 성인에서의 폐렴 진단을 위한 Diehr Rule
 
-```
-![image](images/8f1f1535-6e21-454e-8283-f4f6da4dfb5f.JPG)
-```
+* 배점 : 콧물 -2점, 인후통 -1점, 근육통 1 점, 야간 발한 1점, 가래 (하루 종일) 1점, 호흡수 ＞25/분 2점, 체온 ＞37.8℃ 2점.&#x20;
+* 판정: 총점 - 폐렴 가능성(누적 민감도 / 누적 특이도)  \
+  -3점 - 0.0 (100 / 8)  \
+  -2점 - 0.7 (91 / 40)  \
+  -1점 - 1.6 (74 / 70)  \
+  0점 -  2.2 (59 / 88)  \
+  1점 -  8.8 (33 / 96)  \
+  2점 - 10.3 (20 / 99)  \
+  3점 - 25.0 (11 / 99)  \
+  ≥4점 - 29.4 (4 / 100)  \
+  &#xNAN;_<mark style="color:$info;">Ref. Prediction of pneumonia in outpatients with acute cough-a statistical approach, J Chronic Dis</mark>_  \
+  _<mark style="color:$info;">1984;37(2). Diagnosing the Cause of Chest Pain, AFP 2005;15;72(10).</mark>_
 
 #### 중증 CAP(community-acquired pneumonia) 진단 기준
 
-*   주 기준 ≥1개 or 부 기준 ≥3개
+* 주 기준 ≥1개 or 부 기준 ≥3개
 
-    ![image](../.gitbook/assets/3045ef32-8a3b-4d1b-bedf-9795d37762a9.JPG)
+주 기준 (Major criteria)
+
+* Vasopressor가 필요한 Septic shock
+* Mechanical ventilation이 필요한 호흡 부전
+
+부 기준 (Minor criteria)
+
+* Vasopressor가 필요한 Septic shock
+* Mechanical ventilation이 필요한 호흡 부전
+* 호흡수 ≥30/분
+* PaO2/FiO2 ratio ≤250
+* Multilobar infiltrates
+* Confusion/disorientation
+* 요독증 (s-urea nitrogen ≥20 ㎎/㎗)
+* Leukopenia (WBC ＜4,000 cells/㎕)
+* Thrombocytopenia (PLT ＜100,000/㎕)
+* Hypothermia (중심 체온 ＜36℃)
+* 적극적인 수분 공급이 필요한 저혈압
 
 ### 영상 검사
 
 * 임상적으로 폐렴이 의심되는 환자가 치료에 반응하는 경우 영상 검사가 반드시 필요하지는 않음
-
-> ✽임상적 평가의 민감도가 50% 이하이므로 폐렴 의심 시 흉부 X선 검사가 필수라는 견해가 있음
-
+  * 임상적 평가의 민감도가 50% 이하이므로 폐렴 의심 시 흉부 X선 검사가 필수라는 견해가 있음
 * 50세 이상에서의 mycoplasma 폐렴은 완치 여부 확인을 요함
 * consolidation, air bronchogram, effusion 감별
 *   F/U X선 검사 대상 : 2~~3일 간의 항생제 치료에 반응 없음, 재발에 대한 치료 4~~6주 후
@@ -96,20 +126,13 @@
 ### 실험실 검사
 
 * 대상 : 중등증 이상의 증상 또는 예상과 다른 진행 시 고려
-*   WBC
-
-    •바이러스성 : 정상 or 약간↑, lymphocyte 우세
-
-    •세균성 : 15,000\~40,000/㎣, granulocyte 우세; ＜5,000/㎣이하 시 나쁜 조짐
+* WBC
+  * 바이러스성 : 정상 or 약간↑, lymphocyte 우세
+  * 세균성 : 15,000\~40,000/㎣, granulocyte 우세; ＜5,000/㎣이하 시 나쁜 조짐
 * CRP : ＞30 ㎎/㎗
-*   가래/혈액 그람염색 및 배양 검사 : 민감도와 특이도가 낮고 위양성이 흔함; 외래에서는 권고하지 않음,
-
-    입원 환자에 대하여 항생제 투여 전 시행
-
-    •cavitary opacity가 있으면 fungus 가래 검사 및 Mycobacterium 배양 검사 시행
-*   S. pneumoniae & Legionella 소변 Ag : 민감도와 특이도가 가래 검사보다 높음; 중증 (WBC↓, 무비증, 만성 중증 간질환,
-
-    알코올 남용, 흉막 삼출) 및 유행 위험 시 고려
+* 가래/혈액 그람염색 및 배양 검사 : 민감도와 특이도가 낮고 위양성이 흔함; 외래에서는 권고하지 않음, 입원 환자에 대하여 항생제 투여 전 시행
+  * cavitary opacity가 있으면 fungus 가래 검사 및 Mycobacterium 배양 검사 시행
+* S. pneumoniae & Legionella 소변 Ag : 민감도와 특이도가 가래 검사보다 높음; 중증 (WBC↓, 무비증, 만성 중증 간질환, 알코올 남용, 흉막 삼출) 및 유행 위험 시 고려
 * influenza 검사 : 지역 사회에 influenza가 유행하고 있는 경우 고려
 * 중증, 치료 실패 시 기관지경 검사, 유의미한 흉막 삼출액이 있는 경우 thoracentesis 고려
 
@@ -120,29 +143,65 @@
 ### 치료 방침
 
 * 입원 치료 여부 결정 : 임상적 판단 및 예후에 대한 clinical prediction rule 적용
-
-> ✽ATS에서는 CURB-65보다 PSI 선호
-
+  * ATS에서는 CURB-65보다 PSI 선호
 * 충분한 휴식, 영양/수분 섭취
 * 항생제 투여
 
 #### 입원 치료 결정을 위한 Clinical rules
 
-\*\* CURB-65 or CRB-65 Criteria\*\*
+&#x20;**CURB-65 or CRB-65 Criteria**
 
-```
-![image](images/a6396297-6d2a-4c01-a52f-d46316f477b6.JPG)
-```
+① Confusion : 사람, 장소, 시간에 대한 착란\
+② Uremia : BUN＞19 ㎎/㎗\
+③ Respiratory rate ≥30회/분\
+④ BP : SBP ＜90 또는 DBP ≤60 ㎜Hg\
+⑤ ≥65세\
+외래 진료에서는 ②번 항목을 제외한 CRB-65 이용을 권장, 혈액 검사가 가능한 경우에는 CURB-65의 사용을 권장
 
-\*\* PSI(pneumonia severity index)\*\*
+▶배점 : 각 항목에 1점씩 부여\
+▶판정 및 조치 (CURB-65와 CRB-65 동일)\
+•0\~1점 = 외래 치료\
+•2점 = 입원 가능한 병원으로 의뢰 및 평가\
+•≥3점 = 즉시 입원 치료
 
-```
-![image](images/c63e7a8a-05e7-4519-acc2-6c8318d62b0f.JPG)
-```
 
-> ```
->    Ref. PSI/PORT Score 
-> ```
+
+**PSI(pneumonia severity index)**
+
+위험 인자 / 배점
+
+상황 요인\
+연령 남성 나이(yr), 여성 나이(yr)-10\
+Nursing home 거주 +10
+
+동반 질환\
+암 + 30\
+만성 간질환 + 20\
+CHF + 10\
+만성 신장 질환 + 10\
+뇌혈관 질환 + 10
+
+진찰 소견\
+Altered mental status + 20\
+호흡 수 ≥30/분 + 20\
+SBP ＜90 ㎜Hg + 20\
+체온 ≥40℃ or ＜35℃ + 15\
+맥박 ≥125/분 + 10
+
+검사 소견\
+동맥혈 pH ＜7.35 + 30\
+BUN ＞29 ㎎/㎖ + 20\
+Na ＜130 m㏖/L + 20\
+Glucose ＞249 ㎎/㎗ + 10\
+Hematocrit ＜30% + 10\
+PaO2 ＜60 ㎜Hg + 10\
+흉부 X선상 pleural effusion + 10
+
+▶판정 및 조치 •≤70점=외래 치료 •71\~90점=입원 치료 고려 •≥91점=입원 치료
+
+_<mark style="color:$info;">Ref. PSI/PORT Score https://www.mdcalc.com/psi-port-score-pneumonia-severity-index-cap</mark>_
+
+
 
 ## 약물 치료
 
@@ -154,10 +213,37 @@
 *   선택 : 환자 위치(외래, 입원, or ICU), 위험 요인, 지역의 항생제 내성 패턴에 따른 경험적 선택
 
     •최적의 항생제 선택은 원인균에 따른 것이지만 명확한 원인균을 찾는 것이 어려움
-*   투여 기간 : 임상 척도들(vital sign, 섭식 능력, 정신 능력)이 안정될 때까지 ≥5일 투여
-
-    ![image](../.gitbook/assets/e5333735-e84c-417d-a9e3-7c38493ff03f.JPG)
+* 투여 기간 : 임상 척도들(vital sign, 섭식 능력, 정신 능력)이 안정될 때까지 ≥5일 투여
 * 재평가 : 항생제 투여 종료 3일 후 재평가, 악화되면 즉시 재평가
+
+동반 질환 또는 MRSA or P. aeruginosa 위험 인자<sup>1)</sup> 없음
+
+* amoxicillin 1 g tid \[파목신]
+* doxycycline 100 ㎎ bid \[독시사이클린]
+* Macrolide<sup>2)</sup>&#x20;
+  * azithromycin 500 ㎎ ×1d & 250 ㎎ qd \[지스로맥스]
+  * clarithromycin 500 ㎎ bid, ER 1 g qd \[클래리시드]
+
+동반 질환 있음<sup>3)</sup>
+
+* amox/clav. 500/125 ㎎ tid, 875/125 ㎎ bid, 2,000/125 ㎎ bid \[오구멘틴]
+* cefpodoxime 200 ㎎ bid \[바난] •cefuroxime 500 ㎎ bid \[진네트]
+
+　　AND
+
+* Macrolide<sup>2)</sup>&#x20;
+* doxycycline 100 ㎎ bid
+* Respiratory Fluoroquinolone&#x20;
+  * levofloxacin 750 ㎎ qd \[크라비트]
+  * moxifloxacin 400 ㎎ qd \[아벨록스]&#x20;
+  * gemifloxacin 320 ㎎ qd \[팩티브]
+
+1\)위험 인자 : MRSA or P. aeruginosa 호흡기 검출 병력 or 최근(3개월 내) 입원 AND 비경구 항생제 투여
+
+2\)macrolide에 대한 지역 내성율이 ＜25%인 경우 적용
+
+3\) 동반 질환 : 만성 심장, 폐, 간, 신질환; 당뇨병; 알코올 남용; 악성 종양; 무비증\
+&#xNAN;_<mark style="color:$info;">Ref. American Thoracic Society/Infectious Diseases Society of America Guideline. 2019</mark>_
 
 #### Mycoplasma pneumoniae/ Chlamydophila pneumoniae
 
@@ -170,26 +256,20 @@
 
     경우는 예외)
 
-> ```
-> *SBP ＜90 ㎜Hg, 심박수 ＞100/분, 호흡수 ＞24/분, SaO2 ＜90% or PaO2 ＜60 ㎜Hg in room air
-> ```
+    * SBP ＜90 ㎜Hg, 심박수 ＞100/분, 호흡수 ＞24/분, SaO2 ＜90% or PaO2 ＜60 ㎜Hg in room air
 
-\*\* 경증 \*\*(CRB65=0점 or CURB65=0\~1점)
+**경증** (CRB65=0점 or CURB65=0\~1점)
 
 * 1차 선택 : Amox 500 ㎎ tid ×5d
 * 대체 (Pc allergy, 비정형 폐렴 시) : doxycycline 200 ㎎ ×1d & 100 ㎎ qd ×4d, clarithromycin 500 ㎎ bid ×5d
 
-\*\* 중등증 \*\*(CRB65=1\~2점 or CURB65=2점)
+**중등증** (CRB65=1\~2점 or CURB65=2점)
 
 * 1차 선택 : Amox 500 ㎎ tid ×5d plus \* clarithromycin 500 ㎎ bid ×5d
-
-> ```
-> *atypical pathogen이 의심되면 macrolide 추가를 고려
-> ```
-
+  * atypical pathogen이 의심되면 macrolide 추가를 고려
 * 대체 : doxycycline 200 ㎎ ×1d & 100 ㎎ qd ×4d, clarithromycin 500 ㎎ bid ×5d
 
-**중증** (CRB65=3~~4점 or CURB65=3~~5점)
+**중증** (CRB65=3\~4점 or CURB65=3\~5점)
 
 * 48시간 정맥 주사 후 가능하면 경구제로 전환
 
@@ -206,9 +286,7 @@
 
 ## 치료에 반응하지 않는 폐렴의 원인
 
-*   잘못된 진단 : 울혈성 심부전, 폐색전증, 심근경색, 악성 종양, 사르코이드증, 혈관염(예: 베게너 육아종증), 신부전, 폐출혈,
-
-    폐쇄성 폐렴, 약제 유발성 폐질환, 호산구성 폐렴, 과민성 폐렴
+* 잘못된 진단 : 울혈성 심부전, 폐색전증, 심근경색, 악성 종양, 사르코이드증, 혈관염(예: 베게너 육아종증), 신부전, 폐출혈, 폐쇄성 폐렴, 약제 유발성 폐질환, 호산구성 폐렴, 과민성 폐렴
 * 환자 요인 : 국소 부위 폐쇄/이물질, 면역 저하, 폐렴 합병증(농흉, 폐렴 주위 삼출액)
 * 약제 요인 : 약제 선택/용량/용법 잘못, 약제 이상 반응(약물열), 약물 상호 작용
 * 원인균 요인 : 내성균, 병원 내 중복 감염, 흔치 않은 원인균(예: Mycobacterium , Nocardia, 진균, 바이러스, 혐기균)
@@ -220,10 +298,28 @@
 * 금연
 * 손 씻기, 건강한 생활 습관(충분한 영양 섭취, 규칙적 운동)
 
-> **질병코드** J12 달리 분류되지 않은 바이러스폐렴
+
+
+### **질병코드**&#x20;
+
+J12 달리 분류되지 않은 바이러스폐렴
 
 J15 달리 분류되지 않은 세균성 폐렴
 
 J18 상세불명 병원체의 폐렴
 
-![image](../.gitbook/assets/d9b8c696-8dde-40e3-9290-2796b77e711b.JPG)
+
+
+## 처방례
+
+처방례 1.\
+오구멘틴 625 ㎎/T 3T #3\
+코데닝 6T #3\
+아나프록스 275 ㎎/T 3T #3 (보험주의)
+
+\
+처방례 2. 중증\
+지스로맥스 250 ㎎/T 2T qd ×3d\
+파목신 500 ㎎/C 3C #3 (항생제 병용 요법; 보험주의)\
+애니펜 300 ㎎/T 3T #3\
+코푸 시럽 20 ㎖/P 4P #4
