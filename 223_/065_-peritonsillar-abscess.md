@@ -6,7 +6,7 @@
 * 다른 이름 : quinsy
 * 성인의 두경부 심부 감염 중 가장 흔한 형태; 주로 15~35세에 호발
 * 유발 기전 : Weber 점액선(편도 상극 부위 소타액선) 감염 → 편도 주위 봉와직염 → 농양 형성으로 진행하는 것이 유력한 가설
-* **편도 주위 봉와직염 (Peritonsillar Cellulitis)** : 동일한 해부학적 부위의 감염이나 고름 축적 없이 봉와직염 단계에 머문 상태 — 조기 발견 시 항생제 단독으로 치료 가능
+* **편도 주위 봉와직염 (Peritonsillar Cellulitis)** : 동일한 해부학적 부위의 감염이나 고름 축적 없이 봉와직염 단계에 머문 상태 - 조기 발견 시 항생제 단독으로 치료 가능
 * 합병증 : 기도 폐쇄, 흡인성 폐렴, 후인두 농양 (retropharyngeal abscess), Ludwig's angina, 경정맥 패혈성 혈전정맥염 (Lemierre syndrome), 패혈증
 
 ## <mark style="color:green;">원인균</mark>
@@ -16,7 +16,7 @@
 * **혐기성 균주** : *Fusobacterium necrophorum*, *Peptostreptococcus* spp., *Prevotella* spp.
 * **임상 포인트** : 특히 **15~30세 젊은 성인**에서 *Fusobacterium necrophorum*이 핵심 병원균으로 주목받고 있으며, β-lactamase를 생성하여 페니실린 단독 치료 실패와 연관됨 → β-lactam/β-lactamase inhibitor 또는 clindamycin 병용이 권장되는 근거
   * *F. necrophorum* 감염은 **Lemierre syndrome**(경정맥 패혈성 혈전정맥염 + 혐기성 패혈 전이)의 주요 원인균임을 항상 기억할 것
-* MRSA는 routine coverage 불필요 — 치료 실패 또는 위험 인자(피부 반복 감염, 교정시설 등) 있을 때만 고려
+* MRSA는 routine coverage 불필요 - 치료 실패 또는 위험 인자(피부 반복 감염, 교정시설 등) 있을 때만 고려
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -36,18 +36,18 @@
 
 #### <mark style="color:$primary;">비전형적 소견 → 구강 내 초음파 (Intraoral Ultrasound) 우선</mark>
 
-* **Intraoral ultrasound** : 농양 vs 봉와직염 감별의 **1차 영상 선택** — 민감도·특이도 각 90% 이상, 침상 가능, 방사선 노출 없음; 농양 cavity 확인 및 needle aspiration 유도에 유용
+* **Intraoral ultrasound** : 농양 vs 봉와직염 감별의 **1차 영상 선택** - 민감도·특이도 각 90% 이상, 침상 가능, 방사선 노출 없음; 농양 cavity 확인 및 needle aspiration 유도에 유용
 * 고름 흡인 자체도 확진 겸 치료 (흡인되지 않으면 봉와직염으로 판단)
 
-#### <mark style="color:$primary;">CT (조영 증강) — 심부 확산 의심 시</mark>
+#### <mark style="color:$primary;">CT (조영 증강) - 심부 확산 의심 시</mark>
 
 * 후인두 농양, Ludwig's angina, 심부 경부 감염으로의 확산이 의심될 때 시행
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-**PTA vs 중증 편도염 vs 급성 후두개염 — 3-way 감별표**
+**PTA vs 중증 편도염 vs 급성 후두개염 - 3-way 감별표**
 
-<table><thead><tr><th width="155">항목</th><th width="175">편도 주위 농양 (PTA)</th><th width="175">중증 편도염</th><th>급성 후두개염</th></tr></thead><tbody><tr><td>발병 양상</td><td>점진적 (수일)</td><td>급성</td><td>급격 (수 시간)</td></tr><tr><td>통증 부위</td><td>편측, 매우 심함</td><td>양측, 심함</td><td>삼킬 때 극심 (out of proportion)</td></tr><tr><td>Trismus</td><td>✔ 흔함 — <strong>핵심 소견</strong></td><td>❌ 없음</td><td>❌ 없음</td></tr><tr><td>음성 변화</td><td>Muffled "hot potato"</td><td>약간 변화</td><td>저음·답답한 음성</td></tr><tr><td>침흘림</td><td>✔ 가능</td><td>드묾</td><td>✔✔ 매우 흔함 — <strong>핵심 소견</strong></td></tr><tr><td>호흡 곤란</td><td>드묾 (late sign)</td><td>없음</td><td>✔✔ 흔함 — 응급</td></tr><tr><td>Stridor</td><td>❌</td><td>❌</td><td>✔ 특징적</td></tr><tr><td>자세</td><td>특별한 자세 없음</td><td>정상</td><td>Tripod position (앞으로 기대기)</td></tr><tr><td>구강 시진</td><td>Soft palate swelling + anterior pillar bulging + uvula deviation (반대측으로)</td><td>양측 편도 비대 ± exudate</td><td>구강 정상 또는 거의 정상</td></tr><tr><td>기도 위험도</td><td>⚠️ 중등도</td><td>낮음</td><td>🚨 매우 높음 — 즉시 대응</td></tr><tr><td>확진</td><td>Aspiration / intraoral US</td><td>임상 진단</td><td>Lateral neck X-ray / CT (직접 후두경은 경련 유발 위험)</td></tr></tbody></table>
+<table><thead><tr><th width="155">항목</th><th width="175">편도 주위 농양 (PTA)</th><th width="175">중증 편도염</th><th>급성 후두개염</th></tr></thead><tbody><tr><td>발병 양상</td><td>점진적 (수일)</td><td>급성</td><td>급격 (수 시간)</td></tr><tr><td>통증 부위</td><td>편측, 매우 심함</td><td>양측, 심함</td><td>삼킬 때 극심 (out of proportion)</td></tr><tr><td>Trismus</td><td>✔ 흔함 - <strong>핵심 소견</strong></td><td>❌ 없음</td><td>❌ 없음</td></tr><tr><td>음성 변화</td><td>Muffled "hot potato"</td><td>약간 변화</td><td>저음·답답한 음성</td></tr><tr><td>침흘림</td><td>✔ 가능</td><td>드묾</td><td>✔✔ 매우 흔함 - <strong>핵심 소견</strong></td></tr><tr><td>호흡 곤란</td><td>드묾 (late sign)</td><td>없음</td><td>✔✔ 흔함 - 응급</td></tr><tr><td>Stridor</td><td>❌</td><td>❌</td><td>✔ 특징적</td></tr><tr><td>자세</td><td>특별한 자세 없음</td><td>정상</td><td>Tripod position (앞으로 기대기)</td></tr><tr><td>구강 시진</td><td>Soft palate swelling + anterior pillar bulging + uvula deviation (반대측으로)</td><td>양측 편도 비대 ± exudate</td><td>구강 정상 또는 거의 정상</td></tr><tr><td>기도 위험도</td><td>⚠️ 중등도</td><td>낮음</td><td>🚨 매우 높음 - 즉시 대응</td></tr><tr><td>확진</td><td>Aspiration / intraoral US</td><td>임상 진단</td><td>Lateral neck X-ray / CT (직접 후두경은 경련 유발 위험)</td></tr></tbody></table>
 
 {% hint style="danger" %}
 ⚠️ **급성 후두개염(epiglottitis)은 성인에서도 발생하며, 구강 소견이 정상에 가까워 PTA로 오인될 수 있다.** "삼킬 수 없는 정도의 극심한 인후통 + 호흡 곤란 + 침흘림 + tripod position" 조합 시 후두개염을 항상 배제할 것.
@@ -55,13 +55,13 @@
 
 **기타 감별 질환**
 
-<table><thead><tr><th width="180">질환</th><th width="230">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td>편도 주위 봉와직염</td><td>개구 장애 경미; uvula 변위 없음; intraoral US에서 농양 cavity 없음</td><td>항생제 단독 치료 후 48시간 재평가</td></tr><tr><td>전염성 단핵구증 (EBV)</td><td>양측성 심한 편도 비대, 전신 림프절병증, 비장비대; 혈액검사(lymphocytosis, atypical lymphocyte, Monospot)</td><td>⚠️ amoxicillin/ampicillin 투여 시 75~100%에서 발진(maculopapular rash) 발생 — 반드시 피할 것; PTA와 EBV는 공존 가능</td></tr><tr><td>후인두 농양</td><td>경부 강직, 경부 굴곡 제한, 양측 인후벽 부종</td><td>CT 확인 필수; 즉시 이비인후과 의뢰</td></tr><tr><td>Ludwig's angina</td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험</td><td>응급 기도 확보 필요</td></tr><tr><td>편도 종양</td><td>무통성; 항생제 무반응; 편측 편도 비대 지속</td><td>악성 종양 배제 위해 조직검사</td></tr></tbody></table>
+<table><thead><tr><th width="180">질환</th><th width="230">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td>편도 주위 봉와직염</td><td>개구 장애 경미; uvula 변위 없음; intraoral US에서 농양 cavity 없음</td><td>항생제 단독 치료 후 48시간 재평가</td></tr><tr><td>전염성 단핵구증 (EBV)</td><td>양측성 심한 편도 비대, 전신 림프절병증, 비장비대; 혈액검사(lymphocytosis, atypical lymphocyte, Monospot)</td><td>⚠️ amoxicillin/ampicillin 투여 시 75~100%에서 발진(maculopapular rash) 발생 - 반드시 피할 것; PTA와 EBV는 공존 가능</td></tr><tr><td>후인두 농양</td><td>경부 강직, 경부 굴곡 제한, 양측 인후벽 부종</td><td>CT 확인 필수; 즉시 이비인후과 의뢰</td></tr><tr><td>Ludwig's angina</td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험</td><td>응급 기도 확보 필요</td></tr><tr><td>편도 종양</td><td>무통성; 항생제 무반응; 편측 편도 비대 지속</td><td>악성 종양 배제 위해 조직검사</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">— 기도 위협 또는 심부 감염 확산</mark>
+<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">- 기도 위협 또는 심부 감염 확산</mark>
 
-**고위험 기도 (High-risk Airway) — 즉시 ENT 호출 + 기도 확보 준비:**
+**고위험 기도 (High-risk Airway) - 즉시 ENT 호출 + 기도 확보 준비:**
 
 * 침흘림(drooling) + 심한 개구 장애 + 음성 소실 동반 → 기도 폐쇄 임박
 * 천명(stridor), 호흡 곤란, tripod position
@@ -71,7 +71,7 @@
 
 * **Ludwig's angina** : 악하 공간 부종, 혀 거상, 경부 경결 동반
 * **후인두 농양** : 경부 강직, 경추 굴곡 제한 동반
-* **🔴 Lemierre syndrome** 강력 의심 — **15~30세에서 특히 경계** : 인후통 이후 수일 내 고열 지속 + 경정맥 주행부(흉쇄유돌근 전연) 압통 + 폐 전이 병변(흉통·기침·혈담) 동반 시 → 즉시 응급실 이송, CT angiography 필요
+* **🔴 Lemierre syndrome** 강력 의심 - **15~30세에서 특히 경계** : 인후통 이후 수일 내 고열 지속 + 경정맥 주행부(흉쇄유돌근 전연) 압통 + 폐 전이 병변(흉통·기침·혈담) 동반 시 → 즉시 응급실 이송, CT angiography 필요
 * **패혈증 또는 쇼크** : 저혈압, 빈맥, 의식 변화
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰 (이비인후과)**</mark>
@@ -83,7 +83,7 @@
 * 초음파 또는 CT에서 심부 경부 감염 확산이 의심되는 경우
 * 재발성 PTA (동측 2회 이상)
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">— 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 배농 후 48~72시간 이내에 개구 장애·발열·인후통이 호전되지 않는 경우
 * 항생제 투여 48시간 후에도 봉와직염이 농양으로 진행하는 경우
@@ -93,23 +93,24 @@
 
 ```mermaid
 graph TD
-    A([편도 주위 농양 의심\n고열·편측 인후통·개구 장애·침흘림·hot potato voice]) --> B{고위험 기도?\n또는 심부 확산 징후?}
-    B -- 있음 --> C[🚨 즉시 응급 이송\nENT 호출 + 기도 확보 준비]
-    B -- 없음 --> D{Classic Triad?\n편측 인후통+trismus\n+uvula deviation}
-    D -- 전형적 --> G[Needle aspiration\n배농 시도\n※재발·면역저하·치료실패 시 배양 검사]
-    D -- 비전형적 --> E[Intraoral US 우선\n농양 cavity 확인]
-    E -- 농양 확인 --> G    E -- 봉와직염만 --> F[경구 항생제 + 진통제\n48시간 재평가]
+    A([편도 주위 농양 의심<br/>고열·편측 인후통·개구 장애·침흘림·hot potato voice]) --> B{고위험 기도?<br/>또는 심부 확산 징후?}
+    B -- 있음 --> C[즉시 응급 이송<br/>ENT 호출 + 기도 확보 준비]
+    B -- 없음 --> D{Classic Triad?<br/>편측 인후통+trismus<br/>+uvula deviation}
+    D -- 전형적 --> G[Needle aspiration<br/>배농 시도<br/>재발·면역저하·치료실패 시 배양 검사]
+    D -- 비전형적 --> E[Intraoral US 우선<br/>농양 cavity 확인]
+    E -- 농양 확인 --> G
+    E -- 봉와직염만 --> F[경구 항생제 + 진통제<br/>48시간 재평가]
     G --> H{배농 성공?}
-    H -- 성공 --> I[경구 항생제 7~10일\n진통제\n스테로이드 1회\n중등도 이상 증상 시 선택적]
-    H -- 실패 1~2회 --> G2[위치 변경 재시도\n2~3회 시도]
+    H -- 성공 --> I[경구 항생제 7~10일<br/>진통제<br/>스테로이드 선택적 1회]
+    H -- 실패 --> G2[위치 변경 재시도<br/>2~3회]
     G2 --> H2{성공?}
     H2 -- 성공 --> I
-    H2 -- 실패 --> J[I&D 또는\n이비인후과 의뢰]
-    I --> K{48~72시간 후\n임상 호전?}
-    K -- 호전 --> L[외래 완료\n재발 시 편도 절제술 상담]
+    H2 -- 실패 --> J[절개배농 또는<br/>이비인후과 의뢰]
+    I --> K{48~72시간 후<br/>임상 호전?}
+    K -- 호전 --> L[외래 완료<br/>재발 시 편도 절제술 상담]
     K -- 미호전 --> J
     F --> M{48시간 후 호전?}
-    M -- 호전 --> N[항생제 완료\n외래 추적]
+    M -- 호전 --> N[항생제 완료<br/>외래 추적]
     M -- 미호전 또는 농양 진행 --> G
     style C fill:#f96,stroke:#e65100,stroke-width:2px
     style G fill:#e1f5fe,stroke:#01579b,stroke-width:2px
@@ -118,7 +119,7 @@ graph TD
 
 <p align="center"><strong>편도 주위 농양 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Peritonsillar Abscess. AFP 2017;95(8):501-506. / AAO-HNS Clinical Practice Guidelines</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Galioto NJ. Peritonsillar Abscess. Am Fam Physician. 2017;95(8):501-506. / Roscoe DL et al. Peritonsillar Abscess. In: UpToDate. 2024.</mark></em></p>
 
 ***
 
@@ -133,9 +134,9 @@ graph TD
 {% hint style="danger" %}
 🚨 **외래에서 절대 놓치면 안 되는 3가지**
 
-1. **기도 폐쇄 (Airway compromise)** — stridor, drooling + 심한 trismus 동반 시 즉시 응급 이송
-2. **심부 경부 감염 (Deep neck infection)** — 후인두 농양, Ludwig's angina 배제
-3. **Lemierre syndrome** — 특히 젊은 성인에서 고열 지속 + 경정맥 압통 + 폐 증상 동반 시 의심
+1. **기도 폐쇄 (Airway compromise)** - stridor, drooling + 심한 trismus 동반 시 즉시 응급 이송
+2. **심부 경부 감염 (Deep neck infection)** - 후인두 농양, Ludwig's angina 배제
+3. **Lemierre syndrome** - 특히 젊은 성인에서 고열 지속 + 경정맥 압통 + 폐 증상 동반 시 의심
 {% endhint %}
 
 ### <mark style="color:orange;">입원 기준</mark>
@@ -160,7 +161,7 @@ _<mark style="color:$info;">(Ref. Peritonsillar abscess. AFP 2017;95(8):501-506)
 * 침흘림 (drooling)
 * 항생제 치료 실패
 
-**배농 보류 — 항생제 단독 + 48시간 재평가** (다음 모두 해당 시):
+**배농 보류 - 항생제 단독 + 48시간 재평가** (다음 모두 해당 시):
 * Intraoral US에서 abscess cavity 없음 (봉와직염으로 확인)
 * 목소리 변화 없음, 침흘림 없음, 개구 장애 없음
 
@@ -173,9 +174,9 @@ _<mark style="color:$info;">(Ref. Peritonsillar abscess. AFP 2017;95(8):501-506)
 * ☐ 조명 및 시야 충분히 확보 (환자·시술자 마주 앉기)
 * ☐ 국소 마취 후 최대 유동(fluctuance) 부위 확인
 * ☐ **가장 흔한 위치 : Superior pole (편도 상극, 전주 상외측)** 에서 시작
-* ☐ 삽입 깊이 **8 ㎜ 이하** 유지 — 그 이상 삽입 금지
+* ☐ 삽입 깊이 **8 ㎜ 이하** 유지 - 그 이상 삽입 금지
   * 💡 **Tip** : 바늘 캡(needle cap)을 8~10 ㎜만 남기고 잘라 가드(guard)로 끼워두면 깊이 초과를 물리적으로 방지할 수 있어 초심자에게 매우 유용
-* ☐ 바늘 방향 **절대 외측(lateral) 금지** — 경동맥 손상 방지
+* ☐ 바늘 방향 **절대 외측(lateral) 금지** - 경동맥 손상 방지
 
 **시술 순서**:
 
@@ -215,7 +216,7 @@ _<mark style="color:$info;">(Ref. Peritonsillar abscess. AFP 2017;95(8):501-506)
 {% hint style="danger" %}
 ⚠️ **전염성 단핵구증(EBV) 동반 가능성을 항상 고려할 것**
 
-양측성 편도 부종, 현저한 전신 림프절병증, 비장비대 동반 시 EBV를 의심하고 혈액검사 시행. **EBV 감염 환자에서 amoxicillin 또는 ampicillin 처방 시 75~100%에서 maculopapular rash 발생** — 반드시 피할 것. 대체제: clindamycin 또는 azithromycin.
+양측성 편도 부종, 현저한 전신 림프절병증, 비장비대 동반 시 EBV를 의심하고 혈액검사 시행. **EBV 감염 환자에서 amoxicillin 또는 ampicillin 처방 시 75~100%에서 maculopapular rash 발생** - 반드시 피할 것. 대체제: clindamycin 또는 azithromycin.
 {% endhint %}
 
 **배양 검사 (Culture & Sensitivity)**
@@ -234,7 +235,7 @@ _<mark style="color:$info;">(Ref. Peritonsillar abscess. AFP 2017;95(8):501-506)
 #### <mark style="color:$primary;">정맥 주사 (입원)</mark>
 
 * **1차** : ampicillin/sulbactam 3 g q6h IV <mark style="color:blue;">\[유나신-S]</mark>
-* **대안** : ceftriaxone 1~2 g qd IV <mark style="color:blue;">\[트리악손]</mark> **반드시** + metronidazole 500 ㎎ q8h IV 또는 clindamycin 600 ㎎ q8h IV <mark style="color:blue;">\[달라신 C]</mark> *(ceftriaxone 단독은 혐기성균 커버 부족 — 단독 사용 금지)*
+* **대안** : ceftriaxone 1~2 g qd IV <mark style="color:blue;">\[트리악손]</mark> **반드시** + metronidazole 500 ㎎ q8h IV 또는 clindamycin 600 ㎎ q8h IV <mark style="color:blue;">\[달라신 C]</mark> *(ceftriaxone 단독은 혐기성균 커버 부족 - 단독 사용 금지)*
 * 구강 섭취 가능해지면 동등한 경구 항생제로 전환하여 총 7~10일 완료
 
 ### <mark style="color:orange;">코르티코스테로이드 (단회, 선택적 사용)</mark>
@@ -264,7 +265,7 @@ J39.0 인두뒤 및 인두옆 농양
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 성인, 외래 치료 — 배농 성공 후 경구 항생제 (중등도)**
+> **처방례 1. 성인, 외래 치료 - 배농 성공 후 경구 항생제 (중등도)**
 >
 > ```
 > 오구멘틴 625 ㎎/T   3T   #3   (tid × 7~10일)
@@ -286,7 +287,7 @@ J39.0 인두뒤 및 인두옆 농양
 >
 > _✽clindamycin은 *Fusobacterium* 포함 혐기성균 커버가 우수하여 PTA 대체제로 적합. 위장 장애(구역·설사)가 흔하므로 식후 복용 지도. C. difficile 장염 가능성 안내 필요._
 
-> **처방례 3. 봉와직염(배농 불필요) 단계 — 초기 경구 치료, 48시간 재평가 예정**
+> **처방례 3. 봉와직염(배농 불필요) 단계 - 초기 경구 치료, 48시간 재평가 예정**
 >
 > ```
 > 오구멘틴 625 ㎎/T   3T   #3   (tid × 5일, 재평가 후 연장)
@@ -324,17 +325,17 @@ J39.0 인두뒤 및 인두옆 농양
 
 > **이럴 때는 즉시 내원하거나 응급실을 방문하십시오**
 >
-> * 숨쉬기가 힘들거나 목이 막히는 느낌이 드는 경우 — **즉시 응급실**
+> * 숨쉬기가 힘들거나 목이 막히는 느낌이 드는 경우 - **즉시 응급실**
 > * 배농 후 2~3일이 지나도 발열·통증·입 벌리기 어려움이 나아지지 않는 경우
-> * 항생제 복용 중 전신에 발진이 나타나거나 얼굴·입술이 붓는 경우 — **즉시 응급실**
-> * 목이나 턱 주위가 갑자기 딱딱하게 붓거나 숨이 차는 경우 — **즉시 응급실**
+> * 항생제 복용 중 전신에 발진이 나타나거나 얼굴·입술이 붓는 경우 - **즉시 응급실**
+> * 목이나 턱 주위가 갑자기 딱딱하게 붓거나 숨이 차는 경우 - **즉시 응급실**
 
 ***
 
 ### <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
-**편도 주위 농양 — 편도 주위에 고름이 찬 상태입니다**
+**편도 주위 농양 - 편도 주위에 고름이 찬 상태입니다**
 
 편도 주위 농양은 목 안쪽 편도 옆의 공간에 세균이 감염되어 고름(농양)이 형성된 질환입니다. 성인에서 흔한 목 감염의 한 종류로, 적절한 배농과 항생제 치료로 대부분 회복됩니다.
 {% endhint %}
