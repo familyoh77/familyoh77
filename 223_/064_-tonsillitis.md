@@ -184,9 +184,11 @@ style K fill:#fde8f0,stroke:#e91e8c
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">대증 치료 (해열진통제)</mark>
+### <mark style="color:orange;">대증 치료</mark>&#x20;
 
-#### <mark style="color:$primary;">NSAID</mark>&#x20;
+#### <mark style="color:$primary;">해열진통제</mark>
+
+**NSAID**&#x20;
 
 * 항염 효과로 편도 통증·부종에 더 효과적; 식후 복용 필수
 * ibuprofen <mark style="color:blue;">\[부루펜]</mark>&#x20;
@@ -195,7 +197,7 @@ style K fill:#fde8f0,stroke:#e91e8c
     * <mark style="color:blue;">\[부루펜 시럽]</mark>(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
 * naproxen  : 250 ㎎ tid\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
 
-#### <mark style="color:$primary;">Acetaminophen</mark>
+**Acetaminophen**
 
 * 항염 효과 없으나 위장 장애·CKD·고령·임산부에서 NSAID 대체 선택
 * 성인 : 650\~1,000 ㎎ q4\~6hr; 최대 4 g/d(안전 용량 3 g/d; 간/신 장애·고령·저체중 시 2 g/d) <mark style="color:blue;">\[타이레놀]</mark>
@@ -203,9 +205,11 @@ style K fill:#fde8f0,stroke:#e91e8c
 * 소아 : 10\~15 ㎎/㎏ q4\~6hr, 최대 5회/d; ≥3개월 연령 허가
   * <mark style="color:blue;">\[세토펜 현탁액]</mark>(32 ㎎/㎖. 0.4 ㎖/㎏ qid 또는 1.5\~2 ㎖/㎏/d #4)
 
-### <mark style="color:orange;">Corticosteroid (중증 통증·삼킴 장애 시)</mark>
+#### <mark style="color:$primary;">Corticosteroid (중증 통증·삼킴 장애 시)</mark>
 
-* **dexamethasone** - 인후통 완화 및 회복 시간 단축 효과
+**Dexamethasone**&#x20;
+
+* \- 인후통 완화 및 회복 시간 단축 효과
   * 성인 : 10 ㎎ 단회 (PO 또는 IM)
   * 소아 : 0.6 ㎎/㎏ 단회 (최대 10 ㎎)
   * 반복 사용하지 않음; GABHS 확인 또는 고위험 시 항생제와 병용
@@ -219,23 +223,28 @@ style K fill:#fde8f0,stroke:#e91e8c
 * EBV (전염성 단핵구증) 의심 시 amoxicillin · ampicillin 금기 : EBV 감염 환자에게 amoxicillin 또는 ampicillin을 투여하면 약 80%에서 전신성 반구진 발진(maculopapular rash)이 발생. 삼출성 편도염 + 심한 피로 + 경부·전신 림프절병증 조합이면 EBV를 먼저 배제
 * '검사 기반 확진 후 처방' 원칙 : 성인에서 McIsaac 2\~3점은 RADT 확인 후 처방. 경험적 항생제는 검사가 불가하거나 심한 삼킴 장애로 즉각 치료가 필요한 예외적 상황에서만 허용
 
-#### <mark style="color:$primary;">GABHS 급성 편도염 - 1차 선택</mark>
+#### <mark style="color:$primary;">GABHS 급성 편도염</mark>&#x20;
+
+**1차 선택**
 
 * amoxicillin 50 ㎎/㎏/day qd 또는 25 ㎎/㎏ bid (최대 1 g/day) × 10일 <mark style="color:blue;">\[파목신]</mark>
   * 성인 : amoxicillin 500 ㎎ bid 또는 1,000 ㎎ qd × 10일
 
-#### <mark style="color:$primary;">GABHS 급성 편도염 - 대체</mark>
+**대체**
 
 * ampicillin/sulbactam 500/250 ㎎ tid × 10일
 
 #### <mark style="color:$primary;">페니실린 지연형 알레르기 (발진, Type IV)</mark>
 
-* 1세대 세파 (1차)
-  * cephalexin 500 ㎎ bid × 10일 <mark style="color:blue;">\[팔렉신]</mark>
-  * cefadroxil 1,000 ㎎ qd × 10일 <mark style="color:blue;">\[듀리세프]</mark>
-* 대체 (단축 요법 가능)
-  * cefpodoxime 100 ㎎ bid × 5일 <mark style="color:blue;">\[바난]</mark>
-  * cefdinir 300 ㎎ bid × 5일 <mark style="color:blue;">\[옴니세프]</mark>
+**1세대 세파** (1차)
+
+* cephalexin 500 ㎎ bid × 10일 <mark style="color:blue;">\[팔렉신]</mark>
+* cefadroxil 1,000 ㎎ qd × 10일 <mark style="color:blue;">\[듀리세프]</mark>
+
+**대체** (단축 요법 가능)
+
+* cefpodoxime 100 ㎎ bid × 5일 <mark style="color:blue;">\[바난]</mark>
+* cefdinir 300 ㎎ bid × 5일 <mark style="color:blue;">\[옴니세프]</mark>
 
 #### <mark style="color:$primary;">페니실린 즉시형 알레르기 (아나필락시스, Type I)</mark>
 
@@ -252,9 +261,9 @@ style K fill:#fde8f0,stroke:#e91e8c
 #### <mark style="color:$primary;">만성/재발성 편도염</mark>
 
 * β-lactamase 생성 균주(포도알균·혐기성균) 비중이 높으므로 β-lactamase 안정제 병합 또는 세파·clindamycin 사용
-  * amoxicillin/clavulanate 625 ㎎ tid × 10일 <mark style="color:blue;">\[오구멘틴]</mark>
-  * cefdinir 300 ㎎ bid × 10일 <mark style="color:blue;">\[옴니세프]</mark>
-  * clindamycin 300 ㎎ tid × 10일 <mark style="color:blue;">\[훌그램]</mark>
+* amoxicillin/clavulanate 625 ㎎ tid × 10일 <mark style="color:blue;">\[오구멘틴]</mark>
+* cefdinir 300 ㎎ bid × 10일 <mark style="color:blue;">\[옴니세프]</mark>
+* clindamycin 300 ㎎ tid × 10일 <mark style="color:blue;">\[훌그램]</mark>
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -263,16 +272,16 @@ style K fill:#fde8f0,stroke:#e91e8c
 * 물리적 제거 : 면봉 또는 water jet으로 cryptic plug 제거; 반복 재발 시 이비인후과 의뢰
 * 질산은 소작 : 반복되는 crypt 형성 시 시술 고려
 
-## <mark style="color:green;">편도 절제</mark>
+### <mark style="color:orange;">편도 절제</mark>
 
-### <mark style="color:orange;">효과 및 한계</mark>
+#### <mark style="color:$primary;">효과 및 한계</mark>
 
 * 수면 장애 동반 adenotonsillar hypertrophy 소아에서 절제 후 유의한 성장 증가 보고
 * 편도·아데노이드 절제 후 면역 저하는 관찰되지 않음
 * 편도 절제 후 단기적 감염 감소; 그러나 절제 2년 이후에는 수술하지 않은 군과 발생 빈도 차이 없음
 * 성인에서는 감염 빈도 외에 삶의 질(인후통 반복, 직장 결근, 구취 등) 도 절제 결정의 중요 요소
 
-### <mark style="color:orange;">편도절제술 적응증</mark>
+#### <mark style="color:$primary;">편도절제술 적응증</mark>
 
 　_<mark style="color:$info;">(Ref. Mitchell RB et al. Otolaryngol Head Neck Surg. 2019;160(1\_suppl):S1-S42. AAO-HNS Clinical Practice Guideline: Tonsillectomy in Children - Update 2019)</mark>_
 
