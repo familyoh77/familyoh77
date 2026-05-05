@@ -3,10 +3,12 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 편도(tonsil)의 감염 또는 염증 상태; 통상 구개 편도(palatine tonsil)를 지칭
-* 분류
-  * 급성 : 수일 내 발생; 보통 3\~4일 내 자연 호전
-  * 재발성(recurrent) : 급성 에피소드 반복; 편도 절제 적응증 평가 대상
-  * 만성(chronic) : 3개월 이상 지속적 저강도 염증; 구취·편도결석(tonsillolith) 중심
+
+#### <mark style="color:$primary;">분류</mark>
+
+* 급성 : 수일 내 발생; 보통 3\~4일 내 자연 호전
+* 재발성(recurrent) : 급성 에피소드 반복; 편도 절제 적응증 평가 대상
+* 만성(chronic) : 3개월 이상 지속적 저강도 염증; 구취·편도결석(tonsillolith) 중심
 
 #### <mark style="color:$primary;">편도 및 아데노이드</mark>
 
@@ -116,13 +118,13 @@
 
 ```mermaid
 graph TD
-    A([급성 편도염 의심<br/>인후통 + 발열]) --> B{🚩 Red Flags?}
+    A([급성 편도염 의심<br/>인후통 + 발열]) --> B[Red Flags?]
     B -- 있음 --> C[즉각 의뢰/응급 처치]
-    B -- 없음 --> D{바이러스 시사 소견?<br/>기침·콧물·결막염<br/>쉰 목소리·구내 궤양}
+    B -- 없음 --> D[<u>바이러스 시사 소견?</u><br/>기침·콧물·결막염<br/>쉰 목소리·구내 궤양]
     D -- 1개 이상 --> E[바이러스성<br/>항생제 금기]
     D -- 없음 --> F[McIsaac 점수 계산]
     E --> G[대증 치료<br/>NSAID · 수분 · 휴식]
-    F --> H{점수}
+    F --> H[점수]
     H -- ≤1 --> G
     H -- 2~3 --> I[RADT 시행]
     H -- ≥4 --> J[RADT 또는<br/>경험적 항생제 선택]
@@ -133,15 +135,20 @@ graph TD
     L -- 음성 --> G
     J -- RADT 양성 또는 경험적 --> K
     K --> M[amoxicillin × 10일<br/>± dexamethasone 단회<br/>severe pain 시]
-    G --> N{48~72시간<br/>재평가}
+    G --> N[48~72시간<br/>재평가]
     M --> N
     N -- 호전 --> O([치료 완료])
     N -- 미호전 --> P[EBV? 농양? 내성균?<br/>순응도 확인 → 의뢰 고려]
 
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style M fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style G fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#f39c12
+class B,D,H,N yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class G,M sky
+style K fill:#fde8f0,stroke:#e91e8c
+        style C fill:#f96,stroke:#e65100,stroke-width:2px
     style P fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style O fill:#d0e8ff,stroke:#1a6abf
 ```
 
 <p align="center"><strong>급성 편도염 진단 및 치료 알고리듬</strong></p>
