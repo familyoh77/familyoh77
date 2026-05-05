@@ -11,10 +11,12 @@
 
 ## <mark style="color:green;">원인균</mark>
 
-* 대부분 호기성·혐기성 균주의 복합 감염
+* 대부분 호기성·혐기성 균주의 **복합 감염**
 * **호기성 균주** : Group A β-hemolytic Streptococcus (GABHS), *S. aureus*, *H. influenzae*
 * **혐기성 균주** : *Fusobacterium necrophorum*, *Peptostreptococcus* spp., *Prevotella* spp.
-* MRSA는 지역사회 감염 MRSA 고위험군(피부 반복 감염 병력, 교정시설 등)에서 드물게 보고됨
+* **임상 포인트** : 특히 **15~30세 젊은 성인**에서 *Fusobacterium necrophorum*이 핵심 병원균으로 주목받고 있으며, β-lactamase를 생성하여 페니실린 단독 치료 실패와 연관됨 → β-lactam/β-lactamase inhibitor 또는 clindamycin 병용이 권장되는 근거
+  * *F. necrophorum* 감염은 **Lemierre syndrome**(경정맥 패혈성 혈전정맥염 + 혐기성 패혈 전이)의 주요 원인균임을 항상 기억할 것
+* MRSA는 routine coverage 불필요 — 치료 실패 또는 위험 인자(피부 반복 감염, 교정시설 등) 있을 때만 고려
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -28,23 +30,48 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* **주로 임상 진단** : 위 임상 양상과 이학적 소견의 조합으로 진단
-* **Needle aspiration** : 진단적 목적 겸 치료 (고름 확인 시 농양 확진); 고름이 흡인되지 않으면 봉와직염으로 판단
-* **구강 내 초음파 (intraoral ultrasound)** : 농양과 봉와직염 감별에 민감도·특이도 높음; 천자 부위 결정에 유용
-* **CT (조영 증강)** : 목 등 인근 심부 조직으로의 감염 확산, 후인두 농양 등 합병증이 의심될 때 시행
+#### <mark style="color:$primary;">임상 진단 (Classic Triad → 영상 없이 바로 배농 시도 가능)</mark>
+
+편측 심한 인후통 + trismus + uvula 반대측 변위 **세 가지가 모두** 갖춰진 경우 → 영상 없이 즉시 needle aspiration 시도 가능
+
+#### <mark style="color:$primary;">비전형적 소견 → 구강 내 초음파 (Intraoral Ultrasound) 우선</mark>
+
+* **Intraoral ultrasound** : 농양 vs 봉와직염 감별의 **1차 영상 선택** — 민감도·특이도 각 90% 이상, 침상 가능, 방사선 노출 없음; 농양 cavity 확인 및 needle aspiration 유도에 유용
+* 고름 흡인 자체도 확진 겸 치료 (흡인되지 않으면 봉와직염으로 판단)
+
+#### <mark style="color:$primary;">CT (조영 증강) — 심부 확산 의심 시</mark>
+
+* 후인두 농양, Ludwig's angina, 심부 경부 감염으로의 확산이 의심될 때 시행
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-<table><thead><tr><th width="180">질환</th><th width="230">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td>편도 주위 봉와직염</td><td>개구 장애 경미; uvula 변위 없음; 초음파에서 농양 없음</td><td>항생제 단독 치료 시도 후 48시간 재평가</td></tr><tr><td>편도염 (급성)</td><td>양측성; uvula 변위 없음; 개구 장애 없음</td><td>보통 PTA보다 증상 경함</td></tr><tr><td>후인두 농양</td><td>경부 강직, 경부 굴곡 제한, 양측 인후벽 부종</td><td>CT로 확인 필수; 즉시 이비인후과 의뢰</td></tr><tr><td>Ludwig's angina</td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험</td><td>응급 기도 확보 필요</td></tr><tr><td>편도 종양</td><td>무통성; 항생제 무반응; 조직검사 필요</td><td>편측 편도 비대 지속 시 악성 종양 배제</td></tr></tbody></table>
+**PTA vs 중증 편도염 vs 급성 후두개염 — 3-way 감별표**
+
+<table><thead><tr><th width="155">항목</th><th width="175">편도 주위 농양 (PTA)</th><th width="175">중증 편도염</th><th>급성 후두개염</th></tr></thead><tbody><tr><td>발병 양상</td><td>점진적 (수일)</td><td>급성</td><td>급격 (수 시간)</td></tr><tr><td>통증 부위</td><td>편측, 매우 심함</td><td>양측, 심함</td><td>삼킬 때 극심 (out of proportion)</td></tr><tr><td>Trismus</td><td>✔ 흔함 — <strong>핵심 소견</strong></td><td>❌ 없음</td><td>❌ 없음</td></tr><tr><td>음성 변화</td><td>Muffled "hot potato"</td><td>약간 변화</td><td>저음·답답한 음성</td></tr><tr><td>침흘림</td><td>✔ 가능</td><td>드묾</td><td>✔✔ 매우 흔함 — <strong>핵심 소견</strong></td></tr><tr><td>호흡 곤란</td><td>드묾 (late sign)</td><td>없음</td><td>✔✔ 흔함 — 응급</td></tr><tr><td>Stridor</td><td>❌</td><td>❌</td><td>✔ 특징적</td></tr><tr><td>자세</td><td>특별한 자세 없음</td><td>정상</td><td>Tripod position (앞으로 기대기)</td></tr><tr><td>구강 시진</td><td>Soft palate swelling + anterior pillar bulging + uvula deviation (반대측으로)</td><td>양측 편도 비대 ± exudate</td><td>구강 정상 또는 거의 정상</td></tr><tr><td>기도 위험도</td><td>⚠️ 중등도</td><td>낮음</td><td>🚨 매우 높음 — 즉시 대응</td></tr><tr><td>확진</td><td>Aspiration / intraoral US</td><td>임상 진단</td><td>Lateral neck X-ray / CT (직접 후두경은 경련 유발 위험)</td></tr></tbody></table>
+
+{% hint style="danger" %}
+⚠️ **급성 후두개염(epiglottitis)은 성인에서도 발생하며, 구강 소견이 정상에 가까워 PTA로 오인될 수 있다.** "삼킬 수 없는 정도의 극심한 인후통 + 호흡 곤란 + 침흘림 + tripod position" 조합 시 후두개염을 항상 배제할 것.
+{% endhint %}
+
+**기타 감별 질환**
+
+<table><thead><tr><th width="180">질환</th><th width="230">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td>편도 주위 봉와직염</td><td>개구 장애 경미; uvula 변위 없음; intraoral US에서 농양 cavity 없음</td><td>항생제 단독 치료 후 48시간 재평가</td></tr><tr><td>전염성 단핵구증 (EBV)</td><td>양측성 심한 편도 비대, 전신 림프절병증, 비장비대; 혈액검사(lymphocytosis, atypical lymphocyte, Monospot)</td><td>⚠️ amoxicillin/ampicillin 투여 시 75~100%에서 발진(maculopapular rash) 발생 — 반드시 피할 것; PTA와 EBV는 공존 가능</td></tr><tr><td>후인두 농양</td><td>경부 강직, 경부 굴곡 제한, 양측 인후벽 부종</td><td>CT 확인 필수; 즉시 이비인후과 의뢰</td></tr><tr><td>Ludwig's angina</td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험</td><td>응급 기도 확보 필요</td></tr><tr><td>편도 종양</td><td>무통성; 항생제 무반응; 편측 편도 비대 지속</td><td>악성 종양 배제 위해 조직검사</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">— 기도 위협 또는 심부 감염 확산</mark>
 
-* **기도 폐쇄 징후** : 천명(stridor), 호흡 곤란, 앞으로 몸을 기울이는 자세 (tripod position)
+**고위험 기도 (High-risk Airway) — 즉시 ENT 호출 + 기도 확보 준비:**
+
+* 침흘림(drooling) + 심한 개구 장애 + 음성 소실 동반 → 기도 폐쇄 임박
+* 천명(stridor), 호흡 곤란, tripod position
+* 경구 섭취 완전 불가
+
+**심부 감염 확산 또는 전신 합병증:**
+
 * **Ludwig's angina** : 악하 공간 부종, 혀 거상, 경부 경결 동반
 * **후인두 농양** : 경부 강직, 경추 굴곡 제한 동반
-* **Lemierre syndrome** 의심 : 고열 + 경정맥 주행부 압통 + 폐 전이 병변 동반
+* **🔴 Lemierre syndrome** 강력 의심 — **15~30세에서 특히 경계** : 인후통 이후 수일 내 고열 지속 + 경정맥 주행부(흉쇄유돌근 전연) 압통 + 폐 전이 병변(흉통·기침·혈담) 동반 시 → 즉시 응급실 이송, CT angiography 필요
 * **패혈증 또는 쇼크** : 저혈압, 빈맥, 의식 변화
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰 (이비인후과)**</mark>
@@ -52,7 +79,7 @@
 * 소아 또는 면역 저하 환자 (면역억제제 복용, 당뇨, HIV)
 * 개구 장애가 심하여 구강 내 시술이 불가능한 경우
 * 심한 탈수로 경구 수분 섭취 불가; 경구 항생제 복용 곤란
-* 양측성 편도 주위 농양
+* **양측성 편도 주위 농양** (드물지만 기도 위험 높음 → 입원 적극 고려)
 * 초음파 또는 CT에서 심부 경부 감염 확산이 의심되는 경우
 * 재발성 PTA (동측 2회 이상)
 
@@ -66,15 +93,18 @@
 
 ```mermaid
 graph TD
-    A([편도 주위 농양 의심\n고열·편측 인후통·개구 장애·침흘림·hot potato voice]) --> B{기도 폐쇄\n또는 심부 확산 징후?}
-    B -- 있음 --> C[🚨 즉시 응급 이송\n기도 확보 준비]
-    B -- 없음 --> D[임상 진단\n± 구강 내 초음파]
-    D --> E{농양 vs 봉와직염\n감별}
-    E -- 봉와직염 의심 --> F[경구 항생제 + 진통제\n48시간 재평가]
-    E -- 농양 확인 --> G[Needle aspiration\n배농 시도]
+    A([편도 주위 농양 의심\n고열·편측 인후통·개구 장애·침흘림·hot potato voice]) --> B{고위험 기도?\n또는 심부 확산 징후?}
+    B -- 있음 --> C[🚨 즉시 응급 이송\nENT 호출 + 기도 확보 준비]
+    B -- 없음 --> D{Classic Triad?\n편측 인후통+trismus\n+uvula deviation}
+    D -- 전형적 --> G[Needle aspiration\n배농 시도\n※재발·면역저하·치료실패 시 배양 검사]
+    D -- 비전형적 --> E[Intraoral US 우선\n농양 cavity 확인]
+    E -- 농양 확인 --> G    E -- 봉와직염만 --> F[경구 항생제 + 진통제\n48시간 재평가]
     G --> H{배농 성공?}
-    H -- 성공 --> I[경구 항생제 + 진통제\n스테로이드 1회 투여\n10~14일]
-    H -- 실패 또는 불충분 --> J[I&D 또는\n이비인후과 의뢰]
+    H -- 성공 --> I[경구 항생제 7~10일\n진통제\n스테로이드 1회\n중등도 이상 증상 시 선택적]
+    H -- 실패 1~2회 --> G2[위치 변경 재시도\n2~3회 시도]
+    G2 --> H2{성공?}
+    H2 -- 성공 --> I
+    H2 -- 실패 --> J[I&D 또는\n이비인후과 의뢰]
     I --> K{48~72시간 후\n임상 호전?}
     K -- 호전 --> L[외래 완료\n재발 시 편도 절제술 상담]
     K -- 미호전 --> J
@@ -100,6 +130,14 @@ graph TD
 배농(needle aspiration 또는 I&D)이 치료의 핵심이며, 항생제와 병행 시 치료 성공률이 높다. 수분 공급과 통증 조절로 회복을 지원한다.
 {% endhint %}
 
+{% hint style="danger" %}
+🚨 **외래에서 절대 놓치면 안 되는 3가지**
+
+1. **기도 폐쇄 (Airway compromise)** — stridor, drooling + 심한 trismus 동반 시 즉시 응급 이송
+2. **심부 경부 감염 (Deep neck infection)** — 후인두 농양, Ludwig's angina 배제
+3. **Lemierre syndrome** — 특히 젊은 성인에서 고열 지속 + 경정맥 압통 + 폐 증상 동반 시 의심
+{% endhint %}
+
 ### <mark style="color:orange;">입원 기준</mark>
 
 * 기도 폐쇄 위험 또는 심부 경부 감염 확산 의심
@@ -113,21 +151,41 @@ graph TD
 
 _<mark style="color:$info;">(Ref. Peritonsillar abscess. AFP 2017;95(8):501-506)</mark>_
 
-**시술 보류 기준** (모두 해당 시 항생제 단독 치료 후 재평가):
+**Drain vs No Drain 결정 원칙**
 
-* 편도 주위 부종 크기 < 1 ㎝
-* 목소리 변화 없음
-* 침흘림 및 개구 장애 없음
+{% hint style="info" %}
+**배농 시행** (다음 중 하나라도 해당):
+* Trismus (개구 장애)
+* Uvula deviation
+* 침흘림 (drooling)
+* 항생제 치료 실패
+
+**배농 보류 — 항생제 단독 + 48시간 재평가** (다음 모두 해당 시):
+* Intraoral US에서 abscess cavity 없음 (봉와직염으로 확인)
+* 목소리 변화 없음, 침흘림 없음, 개구 장애 없음
+
+→ "크기 < 1 ㎝"만으로 배농 보류를 결정하지 않는다. 크기 기준은 영상(US) 확인이 전제될 때만 보조적으로 참고.
+{% endhint %}
+
+**Needle aspiration safety checklist**
+
+* ☐ 흡인기(suction) 및 후두경·airway backup 확보
+* ☐ 조명 및 시야 충분히 확보 (환자·시술자 마주 앉기)
+* ☐ 국소 마취 후 최대 유동(fluctuance) 부위 확인
+* ☐ **가장 흔한 위치 : Superior pole (편도 상극, 전주 상외측)** 에서 시작
+* ☐ 삽입 깊이 **8 ㎜ 이하** 유지 — 그 이상 삽입 금지
+  * 💡 **Tip** : 바늘 캡(needle cap)을 8~10 ㎜만 남기고 잘라 가드(guard)로 끼워두면 깊이 초과를 물리적으로 방지할 수 있어 초심자에게 매우 유용
+* ☐ 바늘 방향 **절대 외측(lateral) 금지** — 경동맥 손상 방지
 
 **시술 순서**:
 
 1. 시술 전 기도 합병증 대처 준비 (흡인기·후두경 확보)
 2. 시술자와 환자가 마주 앉고 적절한 조명으로 시야 확보
-3. 연구개를 촉진하여 최대 유동(fluctuance) 부위 확인
+3. 연구개를 촉진하여 최대 유동(fluctuance) 부위 확인 (보통 편도 상극)
 4. 마취제 스프레이 도포 → 수 분 후 1~2% lidocaine ± epinephrine으로 점막 국소 마취 (25-G)
-5. 설압자로 혀를 누르고 **18-G 바늘 부착 10 ㎖ 주사기**를 최대 유동 부위에 삽입·흡인
+5. 설압자로 혀를 누르고 **18-G 바늘 부착 10 ㎖ 주사기**를 superior pole(상극 전주 상외측)에 삽입·흡인
    * 삽입 깊이 8 ㎜ 이상 금지 (경동맥 손상 방지)
-   * 고름이 나오지 않으면 약간 하방으로 재시도
+   * 고름이 나오지 않으면 **약간 하방으로 위치를 바꿔 2~3회 재시도** (동일 세션에서 가능)
    * 더 이상 흡인되지 않을 때까지 계속
 
 {% hint style="danger" %}
@@ -145,29 +203,50 @@ _<mark style="color:$info;">(Ref. Peritonsillar abscess. AFP 2017;95(8):501-506)
 * ibuprofen : 400 ㎎ tid~qid <mark style="color:blue;">\[부루펜 400 ㎎]</mark>
 * acetaminophen : 650~1,000 ㎎ tid~qid <mark style="color:blue;">\[타이레놀 ER 650 ㎎]</mark>
 * 중증 통증 : tramadol 또는 경구 opioid 단기 병용 고려
+* **NSAIDs 사용 시 위장관 보호** : 고령자, 위장관 궤양·출혈 병력, 스테로이드 병용 환자에서는 PPI (예: omeprazole 20 ㎎ qd <mark style="color:blue;">\[오메프라졸]</mark>) 또는 H2 차단제를 루틴하게 병용 처방
 
 ### <mark style="color:orange;">항생제</mark>
 
-* **목표 균주** : GABHS, *S. aureus*, 호흡기 혐기성균 포함
-* **투여 기간** : 10~14일
-* MRSA 고위험군에서는 배농 후에도 반응 없을 때 CA-MRSA 커버 고려 (trimethoprim/sulfamethoxazole, clindamycin)
+* **목표 균주** : GABHS, *Fusobacterium necrophorum* 포함 혐기성균, *S. aureus*
+* β-lactam 단독(페니실린 등)은 β-lactamase 생성 혐기성균 커버 불충분 → **β-lactam/β-lactamase inhibitor 또는 clindamycin** 포함 요법이 표준
+* **투여 기간** : 7~10일 (임상 반응 불충분 시 10~14일까지 연장)
+* MRSA는 routine coverage 불필요; 치료 실패 또는 고위험군에서만 고려 (TMP/SMX, clindamycin)
+
+{% hint style="danger" %}
+⚠️ **전염성 단핵구증(EBV) 동반 가능성을 항상 고려할 것**
+
+양측성 편도 부종, 현저한 전신 림프절병증, 비장비대 동반 시 EBV를 의심하고 혈액검사 시행. **EBV 감염 환자에서 amoxicillin 또는 ampicillin 처방 시 75~100%에서 maculopapular rash 발생** — 반드시 피할 것. 대체제: clindamycin 또는 azithromycin.
+{% endhint %}
+
+**배양 검사 (Culture & Sensitivity)**
+
+경험적 항생제가 원칙이나, 다음 상황에서는 **흡인액 배양 검사를 반드시 시행**:
+
+* 재발성 PTA (동측 2회 이상)
+* 면역 저하 환자
+* 초기 적절한 항생제 치료 후에도 반응 없는 경우
 
 #### <mark style="color:$primary;">경구 (외래)</mark>
 
-* **1차** : amoxicillin/clavulanate 625 ㎎ (amoxicillin 500 ㎎ 기준) tid <mark style="color:blue;">\[오구멘틴 625 ㎎]</mark>
+* **1차** : amoxicillin/clavulanate 625 ㎎ tid <mark style="color:blue;">\[오구멘틴 625 ㎎]</mark>
 * **페니실린 알레르기** : clindamycin 300 ㎎ qid 또는 600 ㎎ bid <mark style="color:blue;">\[훌그램 150 ㎎]</mark>
 
 #### <mark style="color:$primary;">정맥 주사 (입원)</mark>
 
-* ampicillin/sulbactam 3 g q6h IV <mark style="color:blue;">\[유나신-S]</mark>
-* 또는 ceftriaxone 1~2 g qd IV <mark style="color:blue;">\[트리악손]</mark> **+** clindamycin 600 ㎎ q8h IV <mark style="color:blue;">\[달라신 C]</mark>
-* 구강 섭취 가능해지면 동등한 경구 항생제로 전환하여 10~14일 완료
+* **1차** : ampicillin/sulbactam 3 g q6h IV <mark style="color:blue;">\[유나신-S]</mark>
+* **대안** : ceftriaxone 1~2 g qd IV <mark style="color:blue;">\[트리악손]</mark> **반드시** + metronidazole 500 ㎎ q8h IV 또는 clindamycin 600 ㎎ q8h IV <mark style="color:blue;">\[달라신 C]</mark> *(ceftriaxone 단독은 혐기성균 커버 부족 — 단독 사용 금지)*
+* 구강 섭취 가능해지면 동등한 경구 항생제로 전환하여 총 7~10일 완료
 
-### <mark style="color:orange;">코르티코스테로이드 (단회 투여)</mark>
+### <mark style="color:orange;">코르티코스테로이드 (단회, 선택적 사용)</mark>
 
-* 비-경구 단회 투여로 통증·부종 완화, 회복 가속 효과 (메타분석 근거)
+* 메타분석에서 통증 감소 및 회복 시간 단축 효과 확인; 단 모든 환자에 routine 투여는 아님
+* **적응증 : 중등도 이상의 통증 + 삼킴 곤란 + trismus 동반 시 선택적으로 사용**
 * **dexamethasone** 8~10 ㎎ IM 또는 IV 1회 _(국내 급여 외 사용 시 주의)_
 * **betamethasone** 4~8 ㎎ IM 1회 <mark style="color:blue;">\[베타메타손 4 ㎎/㎖]</mark> _(보험 주의)_
+
+{% hint style="info" %}
+💡 **국내 급여 실무 팁** : 상기도 감염에 대한 스테로이드 주사는 급여 인정 범위가 제한적이므로, 투여 시 "trismus로 인해 경구 섭취 불가, 배농 시술 보조 목적의 단회 사용"과 같이 **진료기록부에 적응증 및 투여 근거를 구체적으로 기재**할 것.
+{% endhint %}
 
 ### <mark style="color:orange;">편도 절제술 상담</mark>
 
@@ -185,36 +264,37 @@ J39.0 인두뒤 및 인두옆 농양
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 성인, 외래 치료 — 배농 성공 후 경구 항생제**
+> **처방례 1. 성인, 외래 치료 — 배농 성공 후 경구 항생제 (중등도)**
 >
 > ```
-> 오구멘틴 625 ㎎/T   3T   #3   (tid × 10~14일)
+> 오구멘틴 625 ㎎/T   3T   #3   (tid × 7~10일)
 > 타이레놀 ER 650 ㎎/T   2T   #2   (bid pc)
 > 부루펜 400 ㎎/T   3T   #3   (tid pc)
-> 베타메타손 주사액 4 ㎎/㎖   1앰플   IM 1회   (보험 주의)
+> 오메프라졸 20 ㎎/C   1C   #1   (qd ac, NSAIDs 병용 기간)
+> 베타메타손 주사액 4 ㎎/㎖   1앰플   IM 1회   (보험 주의, 중등도 이상 trismus·삼킴 곤란 시 선택적)
 > ```
 >
-> _✽배농 성공 확인 후 처방. 스테로이드는 입원 불필요한 외래 환자에서도 통증·부종 완화 목적으로 1회 사용 가능. 진통제 2종 병용 시 위장 보호제 추가 고려._
+> _✽배농 성공 확인 후 처방. acetaminophen + NSAID 병용 시 위점막 보호를 위해 PPI 루틴 처방. 스테로이드는 중등도 이상 통증·trismus·삼킴 곤란 동반 시 선택적으로 투여; 투여 근거를 진료기록부에 기재할 것._
 
 > **처방례 2. 페니실린/아목시실린 알레르기 환자**
 >
 > ```
-> 훌그램 150 ㎎/C   4C   #2   (bid × 10~14일)
+> 훌그램 150 ㎎/C   4C   #2   (bid × 7~10일)
 > 낙센에프 500 ㎎/T   2T   #2   (bid pc, 보험 주의)
-> 베타메타손 주사액 4 ㎎/㎖   1앰플   IM 1회   (보험 주의)
+> 베타메타손 주사액 4 ㎎/㎖   1앰플   IM 1회   (보험 주의, 중등도 이상 증상 시 선택적)
 > ```
 >
-> _✽clindamycin은 혐기성균 커버가 우수하여 PTA에 적합한 대체제. 위장 장애(구역·설사)가 흔하므로 식후 복용 지도. C. difficile 장염 가능성 안내 필요._
+> _✽clindamycin은 *Fusobacterium* 포함 혐기성균 커버가 우수하여 PTA 대체제로 적합. 위장 장애(구역·설사)가 흔하므로 식후 복용 지도. C. difficile 장염 가능성 안내 필요._
 
 > **처방례 3. 봉와직염(배농 불필요) 단계 — 초기 경구 치료, 48시간 재평가 예정**
 >
 > ```
 > 오구멘틴 625 ㎎/T   3T   #3   (tid × 5일, 재평가 후 연장)
 > 부루펜 400 ㎎/T   3T   #3   (tid pc)
-> 아나프록스 275 ㎎/T   3T   #3   (tid pc, 보험 주의)
+> 오메프라졸 20 ㎎/C   1C   #1   (qd ac, NSAIDs 병용 기간)
 > ```
 >
-> _✽진통제 2종 동시 처방은 피하고 선택; 예시는 옵션 제시 목적. 48시간 후 농양으로 진행 여부 반드시 재진 확인. 경구 수분 섭취 가능 여부 함께 확인할 것._
+> _✽NSAIDs 단독 + PPI 병용으로 위장 보호. 통증이 심할 경우 타이레놀 ER 추가 가능(NSAIDs 2종 중복 투여는 피할 것). 48시간 후 농양 진행 여부 반드시 재진 확인. EBV 감염 가능성 고려 시 amoxicillin계 처방 전 monospot 검사 시행._
 
 ***
 
@@ -223,7 +303,7 @@ J39.0 인두뒤 및 인두옆 농양
 > **항생제는 반드시 끝까지 드셔야 합니다**
 >
 > * 증상이 나아져도 중간에 항생제를 끊으면 균이 완전히 제거되지 않아 재발하거나 내성균이 생길 수 있습니다.
-> * 처방된 10~14일 전 과정을 빠짐없이 복용해 주십시오.
+> * 처방된 7~10일 전 과정을 빠짐없이 복용해 주십시오.
 > * 식사와 무관하게 복용 가능하나, 위장 장애 시 식후 복용을 권장합니다.
 
 > **오구멘틴(amoxicillin/clavulanate) 주의 사항**
@@ -268,7 +348,7 @@ J39.0 인두뒤 및 인두옆 농양
 #### <mark style="color:$primary;">치료는 어떻게 하나요?</mark>
 
 * **배농(고름 제거)** : 주사기로 고름을 뽑아내는 것이 치료의 핵심입니다. 처음에는 통증이 있지만, 배농 후 통증이 빠르게 줄어드는 경우가 많습니다.
-* **항생제** : 세균을 완전히 없애기 위해 10~14일 복용합니다. **증상이 좋아져도 반드시 끝까지 드십시오.**
+* **항생제** : 세균을 완전히 없애기 위해 7~10일 복용합니다. **증상이 좋아져도 반드시 끝까지 드십시오.**
 * **스테로이드 주사 1회** : 염증과 부종을 빠르게 줄이기 위해 주사 1회를 맞을 수 있습니다.
 
 #### <mark style="color:$primary;">집에서 어떻게 관리하나요?</mark>
