@@ -156,61 +156,47 @@ class G,E lightGreen
 * 기도 폐쇄 위험 또는 심부 경부 감염 확산 의심
 * 심한 탈수 또는 경구 섭취 불가
 * 면역 저하 환자
-* 외래 치료 48시간 후에도 호전 없는
+* 외래 치료 48시간 후에도 호전 없음
 
-### <mark style="color:orange;">배농 (Drainage)</mark>
+## <mark style="color:green;">배농 (Drainage)</mark>
 
 #### <mark style="color:$primary;">Needle aspiration</mark>
 
-_<mark style="color:$info;">(Ref. Peritonsillar abscess. AFP 2017;95(8):501-506)</mark>_
-
 **Drain vs No Drain 결정 원칙**
 
-{% hint style="info" %}
-**배농 시행** (다음 중 하나라도 해당):
-
-* Trismus (개구 장애)
-* Uvula deviation
-* 침흘림 (drooling)
-* 항생제 치료 실패
-
-**배농 보류 - 항생제 단독 + 48시간 재평가** (다음 모두 해당 시):
-
-* Intraoral US에서 abscess cavity 없음 (봉와직염으로 확인)
-* 목소리 변화 없음, 침흘림 없음, 개구 장애 없음
-
-→ "크기 < 1 ㎝"만으로 배농 보류를 결정하지 않는다. 크기 기준은 영상(US) 확인이 전제될 때만 보조적으로 참고.
-{% endhint %}
+* 배농 시행 : 다음 중 하나라도 해당 시; trismus, 목젖 변위, 침흘림, 항생제 치료 실패
+* 배농 보류 (항생제 단독 + 48시간 재평가) : 다음 모두 해당 시; Intraoral US에서 abscess cavity 없음 (봉와직염으로 확인), 목소리 변화 없음, 침흘림 없음, 개구 장애 없음
+* "크기 < 1 ㎝"만으로 배농 보류를 결정하지 않음. 크기 기준은 영상(US) 확인이 전제될 때만 보조적으로 참고
 
 **Needle aspiration safety checklist**
 
-* ☐ 흡인기(suction) 및 후두경·airway backup 확보
-* ☐ 조명 및 시야 충분히 확보 (환자·시술자 마주 앉기)
-* ☐ 국소 마취 후 최대 유동(fluctuance) 부위 확인
-* ☐ **가장 흔한 위치 : Superior pole (편도 상극, 전주 상외측)** 에서 시작
-* ☐ 삽입 깊이 **8 ㎜ 이하** 유지 - 그 이상 삽입 금지
-  * 💡 **Tip** : 바늘 캡(needle cap)을 8\~10 ㎜만 남기고 잘라 가드(guard)로 끼워두면 깊이 초과를 물리적으로 방지할 수 있어 초심자에게 매우 유용
-* ☐ 바늘 방향 **절대 외측(lateral) 금지** - 경동맥 손상 방지
+* 흡인기(suction) 및 후두경·airway backup 확보
+* 조명 및 시야 충분히 확보 (환자·시술자 마주 앉기)
+* 국소 마취 후 최대 유동(fluctuance) 부위 확인
+* 가장 흔한 위치(Superior pole-편도 상극, 전주 상외측)에서 시작
+* 삽입 깊이 8 ㎜ 이하 유지 (그 이상 삽입 금지)
+  * Tip : 바늘 캡(needle cap)을 8\~10 ㎜만 남기고 잘라 가드(guard)로 끼워두면 깊이 초과를 물리적으로 방지할 수 있어 초심자에게 유용
+* 바늘 방향 절대 외측(lateral) 금지 - 경동맥 손상 방지
 
-**시술 순서**:
+**시술 순서**
 
 1. 시술 전 기도 합병증 대처 준비 (흡인기·후두경 확보)
 2. 시술자와 환자가 마주 앉고 적절한 조명으로 시야 확보
 3. 연구개를 촉진하여 최대 유동(fluctuance) 부위 확인 (보통 편도 상극)
 4. 마취제 스프레이 도포 → 수 분 후 1\~2% lidocaine ± epinephrine으로 점막 국소 마취 (25-G)
-5. 설압자로 혀를 누르고 **18-G 바늘 부착 10 ㎖ 주사기**를 superior pole(상극 전주 상외측)에 삽입·흡인
+5. 설압자로 혀를 누르고 18-G 바늘 부착 10 ㎖ 주사기를 superior pole(상극 전주 상외측)에 삽입·흡인
    * 삽입 깊이 8 ㎜ 이상 금지 (경동맥 손상 방지)
-   * 고름이 나오지 않으면 **약간 하방으로 위치를 바꿔 2\~3회 재시도** (동일 세션에서 가능)
+   * 고름이 나오지 않으면 약간 하방으로 위치를 바꿔 2\~3회 재시도 (동일 세션에서 가능)
    * 더 이상 흡인되지 않을 때까지 계속
 
 {% hint style="danger" %}
-⚠️ **경동맥(internal carotid artery)은 tonsillar pillar 외하방 약 2 ㎝ 부위에 위치**한다. 바늘을 너무 깊이 또는 외측으로 삽입하지 않도록 주의할 것.
+경동맥(internal carotid artery)은 tonsillar pillar 외하방 약 2 ㎝ 부위에 위치함. 바늘을 너무 깊이 또는 외측으로 삽입하지 않도록 주의
 {% endhint %}
 
 #### <mark style="color:$primary;">Incision & Drainage (I\&D)</mark>
 
 * Needle aspiration 실패 또는 적절한 항생제 치료 24시간 후 반응 없는 경우
-* 이비인후과 의뢰하여 시행
+* ㅈ 의뢰하여 시행
 
 ### <mark style="color:orange;">진통제</mark>
 
