@@ -27,6 +27,38 @@
 * 구강 악취
 * 이학적 소견 : 환측 편도·편도 전주(anterior pillar) 및 연구개의 홍반성 부종, 반대측으로의 구개수(uvula) 변위, 경부 림프절병증
 
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">- 기도 위협 또는 심부 감염 확산</mark>
+
+**고위험 기도 (High-risk Airway) - 즉시 ENT 호출 + 기도 확보 준비**
+
+* 침흘림(drooling) + 심한 개구 장애 + 음성 소실 동반 → 기도 폐쇄 임박
+* 천명(stridor), 호흡 곤란, tripod position
+* 경구 섭취 완전 불가
+
+**심부 감염 확산 또는 전신 합병증**
+
+* 악하 공간 부종, 혀 거상, 경부 경결 동반 → Ludwig's angina
+* 경부 강직, 경추 굴곡 제한 동반 → 후인두 농양
+* 인후통 이후 수일 내 고열 지속 + 경정맥 주행부(흉쇄유돌근 전연) 압통 + 폐 전이 병변(흉통·기침·혈담) 동반 → Lemierre syndrome (15\~30세에서 특히 경계)
+* 저혈압, 빈맥, 의식 변화 → 패혈증 또는 쇼크&#x20;
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰 (이비인후과)**</mark>
+
+* 소아 또는 면역 저하 환자 (면역억제제 복용, 당뇨, HIV)
+* 개구 장애가 심하여 구강 내 시술이 불가능한 경우
+* 심한 탈수로 경구 수분 섭취 불가; 경구 항생제 복용 곤란
+* 양측성 편도 주위 농양&#x20;
+* 초음파 또는 CT에서 심부 경부 감염 확산이 의심되는 경우
+* 재발성 PTA (동측 2회 이상)
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+
+* 배농 후 48\~72시간 이내에 개구 장애·발열·인후통이 호전되지 않는 경우
+* 항생제 투여 48시간 후에도 봉와직염이 농양으로 진행하는 경우
+* 동일 편측 PTA 재발&#x20;
+
 ## <mark style="color:green;">진단</mark>
 
 #### <mark style="color:$primary;">임상 진단 (Classic Triad)</mark>
@@ -64,64 +96,45 @@
 
 <table><thead><tr><th width="139.58819580078125">질환</th><th width="318.11767578125">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td>편도 주위 <br>봉와직염</td><td>개구 장애 경미; uvula 변위 없음; intraoral US에서 농양 cavity 없음</td><td>항생제 단독 치료 후 48시간 재평가</td></tr><tr><td>전염성 단핵구증 <br>(EBV)</td><td>양측성 심한 편도 비대, 전신 림프절병증, 비장비대; 혈액검사(lymphocytosis, atypical lymphocyte, Monospot)</td><td>amoxicillin/ampicillin 투여 시 75~100%에서 발진(maculopapular rash) 발생 - 반드시 피할 것; PTA와 EBV는 공존 가능</td></tr><tr><td>후인두 농양</td><td>경부 강직, 경부 굴곡 제한, 양측 인후벽 부종</td><td>CT 확인 필수; 즉시 이비인후과 의뢰</td></tr><tr><td>Ludwig's <br>angina</td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험</td><td>응급 기도 확보 필요</td></tr><tr><td>편도 종양</td><td>무통성; 항생제 무반응; 편측 편도 비대 지속</td><td>악성 종양 배제 위해 조직검사</td></tr></tbody></table>
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">- 기도 위협 또는 심부 감염 확산</mark>
-
-**고위험 기도 (High-risk Airway) - 즉시 ENT 호출 + 기도 확보 준비**
-
-* 침흘림(drooling) + 심한 개구 장애 + 음성 소실 동반 → 기도 폐쇄 임박
-* 천명(stridor), 호흡 곤란, tripod position
-* 경구 섭취 완전 불가
-
-**심부 감염 확산 또는 전신 합병증**
-
-* 악하 공간 부종, 혀 거상, 경부 경결 동반 **Ludwig's angina** :&#x20;
-* 경부 강직, 경추 굴곡 제한 동반 **후인두 농양** :&#x20;
-* \- **15\~30세에서 특히 경계** : 인후통 이후 수일 내 고열 지속 + 경정맥 주행부(흉쇄유돌근 전연) 압통 + 폐 전이 병변(흉통·기침·혈담) 동반 시 → 즉시 응급실 이송, CT angiography 필요 **🔴 Lemierre syndrome** 강력 의심&#x20;
-*
-* **패혈증 또는 쇼크** : 저혈압, 빈맥, 의식 변화
-
-<mark style="color:$warning;">**당일 또는 조기 의뢰 (이비인후과)**</mark>
-
-* 소아 또는 면역 저하 환자 (면역억제제 복용, 당뇨, HIV)
-* 개구 장애가 심하여 구강 내 시술이 불가능한 경우
-* 심한 탈수로 경구 수분 섭취 불가; 경구 항생제 복용 곤란
-* **양측성 편도 주위 농양** (드물지만 기도 위험 높음 → 입원 적극 고려)
-* 초음파 또는 CT에서 심부 경부 감염 확산이 의심되는 경우
-* 재발성 PTA (동측 2회 이상)
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
-
-* 배농 후 48\~72시간 이내에 개구 장애·발열·인후통이 호전되지 않는 경우
-* 항생제 투여 48시간 후에도 봉와직염이 농양으로 진행하는 경우
-* 동일 편측 PTA 재발 → 편도 절제술 상담
+{% hint style="warning" %}
+외래에서 절대 놓치면 안 되는 3가지 : \
+**기도 폐쇄** (Airway compromise) : stridor, drooling + 심한 trismus 동반 시 즉시 응급 이송\
+**심부 경부 감염** (Deep neck infection) : 후인두 농양, Ludwig's angina 배제\
+**Lemierre syndrome** : 특히 젊은 성인에서 고열 지속 + 경정맥 압통 + 폐 증상 동반 시 의심
+{% endhint %}
 
 ***
 
 ```mermaid
 graph TD
-    A([편도 주위 농양 의심<br/>고열·편측 인후통·개구 장애·침흘림·hot potato voice]) --> B{고위험 기도?<br/>또는 심부 확산 징후?}
-    B -- 있음 --> C[즉시 응급 이송<br/>ENT 호출 + 기도 확보 준비]
-    B -- 없음 --> D{Classic Triad?<br/>편측 인후통+trismus<br/>+uvula deviation}
-    D -- 전형적 --> G[Needle aspiration<br/>배농 시도<br/>재발·면역저하·치료실패 시 배양 검사]
+    A([편도 주위 농양 의심<br/>고열·편측 인후통·개구 장애·침흘림·hot potato voice]) --> B[고위험 기도?<br/>또는 심부 확산 징후?]
+    B -- 있음 --> C[즉시 응급 이송<br/>기도 확보 준비]
+    B -- 없음 --> D[<u>Classic Triad?</u><br/>편측 인후통+trismus<br/>+uvula deviation]
+    D -- 전형적 --> G[Needle aspiration<br/>배농 시도<br/>재발·면역저하·치료실패 시 
+    배양 검사]
     D -- 비전형적 --> E[Intraoral US 우선<br/>농양 cavity 확인]
     E -- 농양 확인 --> G
     E -- 봉와직염만 --> F[경구 항생제 + 진통제<br/>48시간 재평가]
-    G --> H{배농 성공?}
+    G --> H[배농 성공?]
     H -- 성공 --> I[경구 항생제 7~10일<br/>진통제<br/>스테로이드 선택적 1회]
     H -- 실패 --> G2[위치 변경 재시도<br/>2~3회]
-    G2 --> H2{성공?}
+    G2 --> H2[성공?]
     H2 -- 성공 --> I
-    H2 -- 실패 --> J[절개배농 또는<br/>이비인후과 의뢰]
-    I --> K{48~72시간 후<br/>임상 호전?}
+    H2 -- 실패 --> J[절개배농 또는 의뢰]
+    I --> K[48~72시간 후<br/>임상 호전?]
     K -- 호전 --> L[외래 완료<br/>재발 시 편도 절제술 상담]
     K -- 미호전 --> J
-    F --> M{48시간 후 호전?}
+    F --> M[48시간 후 호전?]
     M -- 호전 --> N[항생제 완료<br/>외래 추적]
     M -- 미호전 또는 농양 진행 --> G
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style G fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#f39c12
+class B,D,H,H2,M,K yellow
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class N,L blue
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class G,E lightGreen
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
     style J fill:#fff3e0,stroke:#e65100,stroke-width:2px
 ```
 
@@ -133,26 +146,17 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
-**치료 3원칙 : 배농 + 항생제 + 지지 치료**
+### <mark style="color:orange;">치료 원칙</mark>&#x20;
 
-배농(needle aspiration 또는 I\&D)이 치료의 핵심이며, 항생제와 병행 시 치료 성공률이 높다. 수분 공급과 통증 조절로 회복을 지원한다.
-{% endhint %}
+* 치료 3원칙 : 배농 + 항생제 + 지지 치료&#x20;
+  * 배농(needle aspiration 또는 I\&D)이 치료의 핵심이며, 항생제와 병행 시 치료 성공률이 높음. 수분 공급과 통증 조절로 회복을 지원
 
-{% hint style="danger" %}
-🚨 **외래에서 절대 놓치면 안 되는 3가지**
-
-1. **기도 폐쇄 (Airway compromise)** - stridor, drooling + 심한 trismus 동반 시 즉시 응급 이송
-2. **심부 경부 감염 (Deep neck infection)** - 후인두 농양, Ludwig's angina 배제
-3. **Lemierre syndrome** - 특히 젊은 성인에서 고열 지속 + 경정맥 압통 + 폐 증상 동반 시 의심
-{% endhint %}
-
-### <mark style="color:orange;">입원 기준</mark>
+**입원 기준**
 
 * 기도 폐쇄 위험 또는 심부 경부 감염 확산 의심
 * 심한 탈수 또는 경구 섭취 불가
 * 면역 저하 환자
-* 외래 치료 48시간 후에도 호전 없는 경우
+* 외래 치료 48시간 후에도 호전 없는
 
 ### <mark style="color:orange;">배농 (Drainage)</mark>
 
