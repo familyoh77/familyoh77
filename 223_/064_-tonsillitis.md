@@ -195,7 +195,7 @@ style K fill:#fde8f0,stroke:#e91e8c
   * 성인 : 400 ㎎ q6hr <mark style="color:blue;">\[부루펜]</mark>
   * 소아 : 5\~10 ㎎/㎏ q6\~8hr, 최대 40 ㎎/㎏/d; ≥6개월 연령 허가
     * <mark style="color:blue;">\[부루펜 시럽]</mark>(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
-* naproxen  : 250 ㎎ tid\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
+* naproxen sodium : 275 ㎎ tid 또는 550 ㎎ bid <mark style="color:blue;">\[아나프록스 275 ㎎]</mark> (보험 주의)
 
 **Acetaminophen**
 

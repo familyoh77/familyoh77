@@ -196,62 +196,61 @@ class G,E lightGreen
 #### <mark style="color:$primary;">Incision & Drainage (I\&D)</mark>
 
 * Needle aspiration 실패 또는 적절한 항생제 치료 24시간 후 반응 없는 경우
-* ㅈ 의뢰하여 시행
+* 전문과 의뢰
 
-### <mark style="color:orange;">진통제</mark>
+### <mark style="color:orange;">편도 절제술 상담</mark>
 
-* naproxen sodium : 275 ㎎ tid 또는 550 ㎎ bid <mark style="color:blue;">\[아나프록스 275 ㎎]</mark> _(보험 주의)_
-* ibuprofen : 400 ㎎ tid\~qid <mark style="color:blue;">\[부루펜 400 ㎎]</mark>
-* acetaminophen : 650~~1,000 ㎎ tid~~qid <mark style="color:blue;">\[타이레놀 ER 650 ㎎]</mark>
-* 중증 통증 : tramadol 또는 경구 opioid 단기 병용 고려
-* **NSAIDs 사용 시 위장관 보호** : 고령자, 위장관 궤양·출혈 병력, 스테로이드 병용 환자에서는 PPI (예: omeprazole 20 ㎎ qd <mark style="color:blue;">\[오메프라졸]</mark>) 또는 H2 차단제를 루틴하게 병용 처방
+* Interval tonsillectomy (배농 후 4\~6주) : 동측 재발성 PTA (2회 이상), 반복성 편도염 병력, 편도 비대로 인한 기도 문제 동반 시 전문과 상담
 
-### <mark style="color:orange;">항생제</mark>
+## <mark style="color:green;">항생제</mark>
 
-* **목표 균주** : GABHS, _Fusobacterium necrophorum_ 포함 혐기성균, _S. aureus_
-* β-lactam 단독(페니실린 등)은 β-lactamase 생성 혐기성균 커버 불충분 → **β-lactam/β-lactamase inhibitor 또는 clindamycin** 포함 요법이 표준
-* **투여 기간** : 7~~10일 (임상 반응 불충분 시 10~~14일까지 연장)
+* 목표 균주 : GABHS, _Fusobacterium necrophorum_ 포함 혐기성균, _S. aureus_
+* β-lactam 단독(페니실린 등)은 β-lactamase 생성 혐기성균 커버 불충분 → β-lactam/β-lactamase inhibitor 또는 clindamycin 포함 요법이 표준
+* 투여 기간 : 7\~10일 (임상 반응 불충분 시 10\~14일까지 연장)
 * MRSA는 routine coverage 불필요; 치료 실패 또는 고위험군에서만 고려 (TMP/SMX, clindamycin)
 
 {% hint style="danger" %}
-⚠️ **전염성 단핵구증(EBV) 동반 가능성을 항상 고려할 것**
+**전염성 단핵구증(EBV) 동반 가능성을 항상 고려할 것**
 
-양측성 편도 부종, 현저한 전신 림프절병증, 비장비대 동반 시 EBV를 의심하고 혈액검사 시행. **EBV 감염 환자에서 amoxicillin 또는 ampicillin 처방 시 75\~100%에서 maculopapular rash 발생** - 반드시 피할 것. 대체제: clindamycin 또는 azithromycin.
+양측성 편도 부종, 현저한 전신 림프절병증, 비장비대 동반 시 EBV를 의심하고 혈액검사 시행. EBV 감염 환자에서 amoxicillin 또는 ampicillin 처방 시 75\~100%에서 maculopapular rash 발생 - 반드시 피해야 함. 대체제: clindamycin 또는 azithromycin
 {% endhint %}
 
 **배양 검사 (Culture & Sensitivity)**
 
-경험적 항생제가 원칙이나, 다음 상황에서는 **흡인액 배양 검사를 반드시 시행**:
-
-* 재발성 PTA (동측 2회 이상)
-* 면역 저하 환자
-* 초기 적절한 항생제 치료 후에도 반응 없는 경우
+* 경험적 항생제가 원칙이나, 다음 상황에서는 흡인액 배양 검사를 반드시 시행 : 재발성 PTA (동측 2회 이상), 면역 저하 환자, 초기 적절한 항생제 치료 후에도 반응 없음
 
 #### <mark style="color:$primary;">경구 (외래)</mark>
 
-* **1차** : amoxicillin/clavulanate 625 ㎎ tid <mark style="color:blue;">\[오구멘틴 625 ㎎]</mark>
-* **페니실린 알레르기** : clindamycin 300 ㎎ qid 또는 600 ㎎ bid <mark style="color:blue;">\[훌그램 150 ㎎]</mark>
+* 1차 : amoxicillin/clavulanate 625 ㎎ tid <mark style="color:blue;">\[오구멘틴 625 ㎎]</mark>
+* 페니실린 알레르기 : clindamycin 300 ㎎ qid 또는 600 ㎎ bid <mark style="color:blue;">\[훌그램 150 ㎎]</mark>
 
 #### <mark style="color:$primary;">정맥 주사 (입원)</mark>
 
-* **1차** : ampicillin/sulbactam 3 g q6h IV <mark style="color:blue;">\[유나신-S]</mark>
-* **대안** : ceftriaxone 1\~2 g qd IV <mark style="color:blue;">\[트리악손]</mark> **반드시** + metronidazole 500 ㎎ q8h IV 또는 clindamycin 600 ㎎ q8h IV <mark style="color:blue;">\[달라신 C]</mark> _(ceftriaxone 단독은 혐기성균 커버 부족 - 단독 사용 금지)_
-* 구강 섭취 가능해지면 동등한 경구 항생제로 전환하여 총 7\~10일 완료
+* 1차 : ampicillin/sulbactam 3 g q6h IV <mark style="color:blue;">\[유나신-S]</mark>
+* 대안 : ceftriaxone 1\~2 g qd IV <mark style="color:blue;">\[트리악손]</mark> 반드시 + metronidazole 500 ㎎ q8h IV 또는 clindamycin 600 ㎎ q8h IV <mark style="color:blue;">\[달라신 C]</mark> _(ceftriaxone 단독은 혐기성균 커버 부족 - 단독 사용 금지)_
+* 구강 섭취가 가능해지면 동등한 경구 항생제로 전환하여 총 7\~10일 완료
 
-### <mark style="color:orange;">코르티코스테로이드 (단회, 선택적 사용)</mark>
+## <mark style="color:green;">지지 치료</mark>
+
+### <mark style="color:orange;">진통제</mark>
+
+* naproxen sodium : 275 ㎎ tid 또는 550 ㎎ bid <mark style="color:blue;">\[아나프록스 275 ㎎]</mark> (보험 주의)
+* ibuprofen : 400 ㎎ tid\~qid <mark style="color:blue;">\[부루펜 400 ㎎]</mark>
+* acetaminophen : 650\~1,000 ㎎ tid\~qid <mark style="color:blue;">\[타이레놀 ER 650 ㎎]</mark>
+* 중증 통증 : tramadol 또는 경구 opioid 단기 병용 고려
+* NSAIDs 사용 시 위장관 보호 : 고령자, 위장관 궤양·출혈 병력, 스테로이드 병용 환자에서는 PPI (예: omeprazole 20 ㎎ qd <mark style="color:blue;">\[오메프라졸]</mark>) 또는 H2 차단제를 루틴하게 병용 처방
+
+### <mark style="color:orange;">Steroid</mark>
 
 * 메타분석에서 통증 감소 및 회복 시간 단축 효과 확인; 단 모든 환자에 routine 투여는 아님
-* **적응증 : 중등도 이상의 통증 + 삼킴 곤란 + trismus 동반 시 선택적으로 사용**
-* **dexamethasone** 8\~10 ㎎ IM 또는 IV 1회 _(국내 급여 외 사용 시 주의)_
-* **betamethasone** 4\~8 ㎎ IM 1회 <mark style="color:blue;">\[베타메타손 4 ㎎/㎖]</mark> _(보험 주의)_
+* 단회, 선택적 사용
+* 적응증 : 중등도 이상의 통증 + 삼킴 곤란 + trismus 동반 시 선택적으로 사용
+* dexamethasone : 8\~10 ㎎ IM 또는 IV 1회 <mark style="color:blue;">\[덱메타손]</mark> (국내 급여 외 사용 시 주의)
+* betamethasone : 4\~8 ㎎ IM 1회 <mark style="color:blue;">\[베타메타손 4 ㎎/㎖]</mark> (보험 주의)
 
 {% hint style="info" %}
-💡 **국내 급여 실무 팁** : 상기도 감염에 대한 스테로이드 주사는 급여 인정 범위가 제한적이므로, 투여 시 "trismus로 인해 경구 섭취 불가, 배농 시술 보조 목적의 단회 사용"과 같이 **진료기록부에 적응증 및 투여 근거를 구체적으로 기재**할 것.
+**보험 유의사항** : 상기도 감염에 대한 스테로이드 주사는 급여 인정 범위가 제한적이므로, 투여 시 "trismus로 인해 경구 섭취 불가, 배농 시술 보조 목적의 단회 사용"과 같이 진료기록부에 적응증 및 투여 근거를 구체적으로 기재할 것
 {% endhint %}
-
-### <mark style="color:orange;">편도 절제술 상담</mark>
-
-* **Interval tonsillectomy** (배농 후 4\~6주) : 동측 재발성 PTA (2회 이상), 반복성 편도염 병력, 편도 비대로 인한 기도 문제 동반 시 이비인후과에 상담
 
 ***
 
