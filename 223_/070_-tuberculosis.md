@@ -533,7 +533,7 @@ class H,I,J,K,F sky
 
 ### <mark style="color:orange;">항결핵제</mark>
 
-<table><thead><tr><th width="200">성분명 (약어)</th><th width="300">용량 및 투약 방법</th><th>주요 부작용</th></tr></thead><tbody><tr><td><strong>Group I — 1차 선택 항결핵제</strong></td><td></td><td></td></tr><tr><td><strong>Isoniazid</strong> (INH, H)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복</td><td>간독성, 말초신경염, 피부 과민 반응</td></tr><tr><td><strong>Rifampicin</strong> (RIF, R)</td><td>8~12 ㎎/㎏ [450 ㎎ (&#x3C;50 ㎏) ~ 600 ㎎ (≥50 ㎏)] qd, 공복</td><td>간독성, 위장장애, 독감 유사 증상, 혈소판 감소증, 체액 색소 변화</td></tr><tr><td><strong>Ethambutol</strong> (EMB, E)</td><td>15~20 ㎎/㎏ [&#x3C;50 ㎏: 0.8 g, 50~70 ㎏: 1.2 g, >70 ㎏: 1.6 g] qd, 공복 또는 식후</td><td>시신경염(시력 저하, 색각 변화)</td></tr><tr><td><strong>Pyrazinamide</strong> (PZA, Z)</td><td>20~30 ㎎/㎏ [&#x3C;46 ㎏: 1 g, 46~70 ㎏: 1.5 g, >70 ㎏: 2 g] qd, 공복 또는 식후</td><td>간독성, 관절통, 위장 장애</td></tr><tr><td><strong>Rifabutin</strong> (RFB)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복 또는 식후</td><td>간독성, 호중구 감소증</td></tr><tr><td><strong>Group II — 주사제</strong> (경구제 사용 불가 시; 최근 all-oral regimen 선호로 사용 감소 추세)</td><td></td><td></td></tr><tr><td><strong>Streptomycin</strong> (S)<br><strong>Kanamycin</strong> (Km)<br><strong>Amikacin</strong> (Am)<br><strong>Capreomycin</strong> (Cm)</td><td>&#x3C;50세: 15 ㎎/㎏ [1 g] IM/IV<br>≥50세: 10 ㎎/㎏ [750 ㎎] IM/IV</td><td>이독성, 신독성, 입 주위 감각 이상</td></tr><tr><td><strong>Group III — 2차 선택제: 호흡기 퀴놀론제</strong></td><td></td><td></td></tr><tr><td><strong>Levofloxacin</strong> (Lfx)</td><td>750~1,000 ㎎ qd, 공복 또는 식후</td><td>위장장애, 두통, 어지럼, 관절통</td></tr><tr><td><strong>Moxifloxacin</strong> (Mfx)</td><td>400 ㎎ qd, 공복 또는 식후</td><td>QT 연장, 위장장애</td></tr><tr><td><strong>Group IV — 경구용 2차 항결핵제</strong></td><td></td><td></td></tr><tr><td><strong>Cycloserine</strong> (Cs)</td><td>10~15 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, ≥46 ㎏: 750 ㎎] #1~2, 공복</td><td>우울증, 정신 장애</td></tr><tr><td><strong>Prothionamide</strong> (Pto)</td><td>15~20 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, 46~70 ㎏: 750 ㎎, >70 ㎏: 1,000 ㎎] #2, 공복</td><td>위장 장애, 간독성</td></tr><tr><td><strong>p-Aminosalicylic acid</strong> (PAS)</td><td>150 ㎎/㎏ [12 g] #3 (3.3 g/pack tid), 식후</td><td>식욕 부진, 구역/구토, 복부 불편감, 간독성</td></tr><tr><td><strong>Group V — 전문가 자문 필요 약제</strong><br>Linezolid (Lzd), Bedaquiline (Bdq), Pretomanid (Pa), Delamanid (Dlm), Clofazimine (Cfz), Imipenem/cilastatin (Ipm), Meropenem (Mpm), Amoxicillin/clavulanate (Amx/Clv), High-dose Isoniazid (Hr)</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="200">성분명 (약어)</th><th width="300">용량 및 투약 방법</th><th>주요 부작용</th></tr></thead><tbody><tr><td><strong>Group I - 1차 선택 항결핵제</strong></td><td></td><td></td></tr><tr><td><strong>Isoniazid</strong> (INH, H)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복</td><td>간독성, 말초신경염, 피부 과민 반응</td></tr><tr><td><strong>Rifampicin</strong> (RIF, R)</td><td>8~12 ㎎/㎏ [450 ㎎ (&#x3C;50 ㎏) ~ 600 ㎎ (≥50 ㎏)] qd, 공복</td><td>간독성, 위장장애, 독감 유사 증상, 혈소판 감소증, 체액 색소 변화</td></tr><tr><td><strong>Ethambutol</strong> (EMB, E)</td><td>15~20 ㎎/㎏ [&#x3C;50 ㎏: 0.8 g, 50~70 ㎏: 1.2 g, >70 ㎏: 1.6 g] qd, 공복 또는 식후</td><td>시신경염(시력 저하, 색각 변화)</td></tr><tr><td><strong>Pyrazinamide</strong> (PZA, Z)</td><td>20~30 ㎎/㎏ [&#x3C;46 ㎏: 1 g, 46~70 ㎏: 1.5 g, >70 ㎏: 2 g] qd, 공복 또는 식후</td><td>간독성, 관절통, 위장 장애</td></tr><tr><td><strong>Rifabutin</strong> (RFB)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복 또는 식후</td><td>간독성, 호중구 감소증</td></tr><tr><td><strong>Group II - 주사제</strong> (경구제 사용 불가 시; 최근 all-oral regimen 선호로 사용 감소 추세)</td><td></td><td></td></tr><tr><td><strong>Streptomycin</strong> (S)<br><strong>Kanamycin</strong> (Km)<br><strong>Amikacin</strong> (Am)<br><strong>Capreomycin</strong> (Cm)</td><td>&#x3C;50세: 15 ㎎/㎏ [1 g] IM/IV<br>≥50세: 10 ㎎/㎏ [750 ㎎] IM/IV</td><td>이독성, 신독성, 입 주위 감각 이상</td></tr><tr><td><strong>Group III - 2차 선택제: 호흡기 퀴놀론제</strong></td><td></td><td></td></tr><tr><td><strong>Levofloxacin</strong> (Lfx)</td><td>750~1,000 ㎎ qd, 공복 또는 식후</td><td>위장장애, 두통, 어지럼, 관절통</td></tr><tr><td><strong>Moxifloxacin</strong> (Mfx)</td><td>400 ㎎ qd, 공복 또는 식후</td><td>QT 연장, 위장장애</td></tr><tr><td><strong>Group IV - 경구용 2차 항결핵제</strong></td><td></td><td></td></tr><tr><td><strong>Cycloserine</strong> (Cs)</td><td>10~15 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, ≥46 ㎏: 750 ㎎] #1~2, 공복</td><td>우울증, 정신 장애</td></tr><tr><td><strong>Prothionamide</strong> (Pto)</td><td>15~20 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, 46~70 ㎏: 750 ㎎, >70 ㎏: 1,000 ㎎] #2, 공복</td><td>위장 장애, 간독성</td></tr><tr><td><strong>p-Aminosalicylic acid</strong> (PAS)</td><td>150 ㎎/㎏ [12 g] #3 (3.3 g/pack tid), 식후</td><td>식욕 부진, 구역/구토, 복부 불편감, 간독성</td></tr><tr><td><strong>Group V - 전문가 자문 필요 약제</strong><br>Linezolid (Lzd), Bedaquiline (Bdq), Pretomanid (Pa), Delamanid (Dlm), Clofazimine (Cfz), Imipenem/cilastatin (Ipm), Meropenem (Mpm), Amoxicillin/clavulanate (Amx/Clv), High-dose Isoniazid (Hr)</td><td></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 1. 공복 표시가 없는 경우는 식후 복용. 2) 최대량이 표시되지 않은 경우 권고량이 최대량임.\
@@ -558,10 +558,10 @@ Group V 약제들은 전문가 자문이 반드시 필요합니다. 주사제(Gr
 * <mark style="color:blue;">\[리팜핀]</mark> 150 ㎎/C, 300 ㎎/C, 600 ㎎/T
 * \[부작용] 혈소판 감소: 투여 중단 후 주기적 혈소판 검사; 정상 회복 후에도 RIF는 재투여하지 않음
 * 주의: 소변·눈물·땀이 오렌지색으로 변색; 소프트 콘택트렌즈 착색 주의
-* 약물 상호 작용: CYP450 유도와 관련하여 다음 약제들의 혈중 농도 감소에 주의 — 경구 피임약, 스테로이드, quinidine, phenytoin, warfarin, 인슐린, sulfonylurea
+* 약물 상호 작용: CYP450 유도와 관련하여 다음 약제들의 혈중 농도 감소에 주의 - 경구 피임약, 스테로이드, quinidine, phenytoin, warfarin, 인슐린, sulfonylurea
 
 {% hint style="danger" %}
-⚠️ **Rifampicin 주요 약물 상호작용 — 임상적으로 중요한 추가 항목**
+⚠️ **Rifampicin 주요 약물 상호작용 - 임상적으로 중요한 추가 항목**
 {% endhint %}
 
 | 약제                                       | 상호작용 결과     | 임상적 주의사항                     |
@@ -770,7 +770,7 @@ WHO 2022 가이드라인 및 국내 최신 지침은 전처치가 없는 pre-XDR
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 활동성 폐결핵 초치료 — 집중 치료기 (체중 50\~70 ㎏)**
+> **처방례 1. 활동성 폐결핵 초치료 - 집중 치료기 (체중 50\~70 ㎏)**
 >
 > ```
 > Isoniazid [유한짓] 100 ㎎/T              3T qd 공복
@@ -782,7 +782,7 @@ WHO 2022 가이드라인 및 국내 최신 지침은 전처치가 없는 pre-XDR
 >
 > _✽ 2개월 집중 치료기(4제 요법). 체중 50\~70 ㎏ 기준. 반드시 보건소 신고 후 처방(신고 의무). 약제 감수성 검사 결과에 따라 처방 조정. PZA·EMB는 공복이 어려우면 식후로 변경 가능._
 
-> **처방례 2. 활동성 폐결핵 초치료 — 유지기 (약제 감수성 확인 후)**
+> **처방례 2. 활동성 폐결핵 초치료 - 유지기 (약제 감수성 확인 후)**
 >
 > ```
 > Isoniazid [유한짓] 100 ㎎/T              3T qd 공복
@@ -793,7 +793,7 @@ WHO 2022 가이드라인 및 국내 최신 지침은 전처치가 없는 pre-XDR
 >
 > _✽ 4개월 유지기. INH·RIF 감수성 확인 시 3개월째부터 EMB 제외 가능. 복합제(\[리파터] 2T qd 또는 \[튜비스투] 4T qd)로 변경하면 복약 순응도 향상._
 
-> **처방례 3. 잠복결핵감염 (LTBI) 치료 — 4R 요법 (표준)**
+> **처방례 3. 잠복결핵감염 (LTBI) 치료 - 4R 요법 (표준)**
 >
 > ```
 > Rifampicin [리팜핀] 300 ㎎/C   2C qd 공복   (체중 ≥50 ㎏; <50 ㎏이면 1.5C)
@@ -801,7 +801,7 @@ WHO 2022 가이드라인 및 국내 최신 지침은 전처치가 없는 pre-XDR
 >
 > _✽ 총 4개월(16주) 투여. 기저 간기능 검사 후 시작; 활동성 결핵 배제 필수. 소변·땀의 오렌지색 변색 미리 설명. 경구 피임약 등 CYP450 상호 작용 약제 확인._
 
-> **처방례 4. 잠복결핵감염 (LTBI) 치료 — 9H 요법 (RIF 사용 불가 시)**
+> **처방례 4. 잠복결핵감염 (LTBI) 치료 - 9H 요법 (RIF 사용 불가 시)**
 >
 > ```
 > Isoniazid [유한짓] 100 ㎎/T    3T qd 공복
