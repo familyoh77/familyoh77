@@ -1,7 +1,5 @@
 # 만성 폐쇄성 폐질환 COPD
 
-![image](../.gitbook/assets/b06f0296-cb76-475c-9a0a-9121fe8e0a21.JPG)
-
 ## 일반 사항
 
 *   지속적이고 종종 진행성인 기류 장애를 일으키는 기도의 이상\[기관지염, 세기관지염] &/or 폐포의 이상\[폐기종]에 기인하는
@@ -44,20 +42,33 @@
 * 만성 기관지염
 * 소아기의 중증 호흡기 감염, 폐 성장 지연 요인
 
-## 임상 양상![image](../.gitbook/assets/e0bc28e9-3cc6-4795-8299-654816ffbf5a.JPG)
+## 임상 양상
 
-※ dyspnea, activity limitation &/or cough with or without sputum, 급성 악화 가능
+※ dyspnea, activity limitation &/or cough with or without sputum, 급성 악화 가능&#x20;
 
-* 호흡 곤란(점차 악화, 활동 시 악화, 지속적), 오므린 입술 호흡(pursed-lip breathing), 부호흡근 사용, 호흡음 감소, 쌕쌕거림
-* 만성 기침(초기에는 아침 기상 시 심함) ± 가래
-*   과팽창(타진 시 폐 울림 증가), 흉부 전후 직경 증가(예: barrel chest,
+\- 호흡 곤란(점차 악화, 활동 시 악화, 지속적), 오므린 입술 호흡(pursed-lip breathing), 부호흡근 사용, 호흡음 감소, 쌕쌕거림
 
-    protruding abdomen), 횡격막 flattening
-*   말초 또는 중심부 청색증(빈호흡, 빈맥 동반), 곤봉지, 중심 정맥압의
+\- 만성 기침(초기에는 아침 기상 시 심함) ± 가래
 
-    상승, 우측 심부전
-* 피로감, 체중 감소, 식욕 부진
-* 하기도 감염 반복
+\- 과팽창(타진 시 폐 울림 증가), 흉부 전후 직경 증가(예: barrel chest,
+
+&#x20;   protruding abdomen), 횡격막 flattening&#x20;
+
+\- 말초 또는 중심부 청색증(빈호흡, 빈맥 동반), 곤봉지, 중심 정맥압의
+
+&#x20;   상승, 우측 심부전
+
+\- 피로감, 체중 감소, 식욕 부진
+
+\- 하기도 감염 반복
+
+### Red Flags!
+
+* 중증 : 휴식 시 호흡 곤란의 악화, 빈호흡, 산소 농도 감소, 혼돈, 의식 혼탁
+* 급성 호흡 부전, 새로 발생한 이상 소견 (예: 청색증, 말초 부종)
+* 1차 치료에 반응하지 않는 급성 악화
+* 심각한 동반 질환이 있음 (예: 심부전, 새롭게 발생한 부정맥)
+* 불충분한 가정 내 간호
 
 ## 진단
 
@@ -116,9 +127,9 @@
 
 ### 기류 폐쇄 중증도 분류
 
-```
-![image](images/ea6789e9-c8ba-4bc6-8a6d-f444d1fcd7eb.JPG)
-```
+<table data-header-hidden><thead><tr><th width="132.88238525390625"></th><th width="197.941162109375"></th><th></th><th></th></tr></thead><tbody><tr><td><a href="ca://s?q=GOLD_%EB%B6%84%EB%A5%98_%EC%B2%B4%EA%B3%84_%EC%84%A4%EB%AA%85"><strong>GOLD 단계</strong></a></td><td><a href="ca://s?q=COPD_%EC%A4%91%EC%A6%9D%EB%8F%84_%EB%8B%A8%EA%B3%84"><strong>중증도</strong></a></td><td><a href="ca://s?q=FEV1_%EC%98%88%EC%B8%A1%EC%B9%98_%EA%B8%B0%EC%A4%80"><strong>FEV₁ 기준</strong></a></td><td><a href="ca://s?q=COPD_%EC%B9%98%EB%A3%8C_%EA%B6%8C%EC%9E%A5%EC%82%AC%ED%95%AD"><strong>치료 권장사항</strong></a></td></tr><tr><td>GOLD 1</td><td>Mild (경증)</td><td>FEV₁ ≥ 80% predicted</td><td>SABDs만으로 치료</td></tr><tr><td>GOLD 2</td><td>Moderate (중등도)</td><td>50 ≤ FEV₁ &#x3C; 80% predicted</td><td>SABDs + 항생제 &#x26;/or 경구 steroid</td></tr><tr><td>GOLD 3</td><td>Severe (중증)</td><td>30 ≤ FEV₁ &#x3C; 50% predicted</td><td>응급실/입원 치료</td></tr><tr><td>GOLD 4</td><td>Very Severe (매우 중증)</td><td>FEV₁ &#x3C; 30% predicted</td><td>응급실/입원 치료</td></tr></tbody></table>
+
+SABD = short acting bronchodilator
 
 ### mMRC (modified Medical Research Council) dyspnea scale
 
@@ -133,9 +144,20 @@
 
 ### CAT (COPD assessment test)
 
-*   환자의 불편 정도에 대한 포괄적 평가 도구
+* 환자의 불편 정도에 대한 포괄적 평가 도구
 
-    ![image](../.gitbook/assets/b5200418-4d3d-4ce7-8717-aa72d190697b.JPG)
+| [**항목**](ca://s?q=%EC%B2%9C%EC%8B%9D_%ED%8F%89%EA%B0%80_%ED%95%AD%EB%AA%A9_%EC%84%A4%EB%AA%85) | [**0점 상태**](ca://s?q=0%EC%A0%90_%EC%83%81%ED%83%9C_%EC%A0%95%EC%9D%98) | [**배점**](ca://s?q=%EC%B2%9C%EC%8B%9D_%EB%B0%B0%EC%A0%90_%EA%B8%B0%EC%A4%80) | [**5점 상태**](ca://s?q=5%EC%A0%90_%EC%83%81%ED%83%9C_%EC%A0%95%EC%9D%98) |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 기침                                                                                             | 전혀 기침을 하지 않는다.                                                         | 0,1,2,3,4,5                                                                 | 항상 기침을 한다.                                                             |
+| 가래                                                                                             | 가슴에 가래가 전혀 없다.                                                         | 0,1,2,3,4,5                                                                 | 가슴에 가래가 가득 차 있다.                                                       |
+| 가슴 답답함                                                                                         | 가슴 답답함을 전혀 느끼지 않는다.                                                    | 0,1,2,3,4,5                                                                 | 매우 가슴 답답함을 느낀다.                                                        |
+| 숨참                                                                                             | 언덕이나 계단 1층을 오를 때 전혀 숨이 차지 않는다.                                         | 0,1,2,3,4,5                                                                 | 언덕이나 계단 1개 층을 오를 때 매우 숨이 차다.                                           |
+| 집안 활동                                                                                          | 집에서 활동하는데 전혀 제약을 받지 않는다.                                               | 0,1,2,3,4,5                                                                 | 집에서 활동하는데 매우 제약을 받는다.                                                  |
+| 외출 자신감                                                                                         | 폐 상태에도 불구하고 외출하는데 자신이 있다.                                              | 0,1,2,3,4,5                                                                 | 폐 문제로 외출하는데 자신이 없다.                                                    |
+| 수면                                                                                             | 잠을 잘 잔다.                                                               | 0,1,2,3,4,5                                                                 | 폐 문제로 잠을 잘 자지 못한다.                                                     |
+| 기운                                                                                             | 기운이 왕성하다.                                                              | 0,1,2,3,4,5                                                                 | 기운이 전혀 없다.                                                             |
+
+**판정:** 각 항목에 대해 환자의 상태에 알맞은 점수(0\~5점)를 부여; **총점 ≤9점이면 정상**
 
 ***
 
@@ -150,9 +172,42 @@
 * 약물 치료 : 기본 치료제- 흡입 기관지 확장제
 * 혈중 산소 농도 저하 시(SaO2 ＜88%) O2 공급c(SaO2 ≥90% 유지)
 * 폐쇄수면무호흡 동반 시 지속양압(CPAP) 치료
-*   자가 관리 교육 : 위험 인자 관리, 흡입제 사용 교육, 급성 악화 시 대응 요령
+* 자가 관리 교육 : 위험 인자 관리, 흡입제 사용 교육, 급성 악화 시 대응 요령
 
-    ![image](../.gitbook/assets/47c105b8-a3ba-4ec7-a31a-4af761bae578.png)
+
+
+```mermaid
+graph TD
+    %% 노드 정의: ID와 표시될 텍스트 분리
+    Diagnosis["<b>[Diagnosis]</b><br/>•증상<br/>•위험 인자<br/>•spirometry(경계치 시 재검)"]
+    
+    Assessment["<b>[Initial Assessment]</b><br/>•GOLD ABE 평가<br/>(FEV₁, 증상, 악화 병력)<br/>•혈액 호산구 수치<br/>•α1-antitrypsin<br/>•동반 질환"]
+    
+    Management["<b>[Initial Management]</b><br/>•금연<br/>•예방접종<br/>•활동적 생활 습관 및 운동<br/>•초기 약물 치료<br/>•자가 관리 교육<br/>•동반 질환 관리"]
+    
+    Review["<b>[Review]</b><br/>•증상(CAT or mMRC)<br/>•악화<br/>•흡연 상태<br/>•다른 위험 인자 노출<br/>•흡입제 사용법 및 순응도<br/>•육체적 활동 및 운동<br/>•폐 재활 치료 필요성<br/>•자가 관리 기술<br/>•산소, NIV, 폐용적 감소 등<br/>•예방접종<br/>•동반 질환 관리<br/>•Spirometry(최소 매년)"]
+    
+    Adjust["<b>[Adjust]</b><br/>•약물 치료<br/>•비-약물 치료"]
+
+    %% 흐름 연결
+    Diagnosis --> Assessment
+    Assessment --> Management
+    Management --> Review
+    Review --> Management
+    Review --> Adjust
+    Adjust --> Review
+
+    %% 스타일 설정
+    style Diagnosis fill:#fce4ec,stroke:#f8bbd0
+    style Assessment fill:#e8f5e9,stroke:#c8e6c9
+    style Management fill:#e1f5fe,stroke:#b3e5fc
+    style Review fill:#fffde7,stroke:#fff9c4
+    style Adjust fill:#e1f5fe,stroke:#b3e5fc
+```
+
+<p align="center"><strong>Management of COPD</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. GOLD 2024 Fig3.2</mark></em></p>
 
 ## 약물 치료
 
@@ -183,9 +238,9 @@
 * 임상 증상은 호전시키나 폐 기능 악화 지연 또는 사망률 감소 효과는 입증 안 됨
 * 부작용 : 서맥, 떨림
 * SABA (short-acting β2-agonist) : fenoterol \[베로텍], levalbuterol, salbutamol \[살부타몰], terbutaline \[베타투]
-*   LABA (long-acting β2-agonist) : \[bid] formoterol \[아토크], salmeterol; \[qd] indacaterol, olodaterol, vilanterol
+* LABA (long-acting β2-agonist) : \[bid] formoterol \[아토크], salmeterol; \[qd] indacaterol, olodaterol, vilanterol
 
-    ![image](../.gitbook/assets/6b2ab6d9-f422-4e94-add0-1e7a6d96a08f.JPG)
+<table data-header-hidden><thead><tr><th width="124.64703369140625"></th><th width="272.88232421875"></th><th width="206.7647705078125"></th><th></th></tr></thead><tbody><tr><td><strong>분류</strong></td><td><strong>성분명 [상품영]</strong></td><td><strong>흡입제 용량</strong></td><td><strong>작용 시간(hr)</strong></td></tr><tr><td>SABA</td><td>salbutamol [(벤토린 에보할러]</td><td>1~2 puffs, 100 μg/puff</td><td>4–6</td></tr><tr><td>LABA</td><td>salmeterol</td><td>25 μg/puff bid</td><td>12</td></tr><tr><td></td><td>indacaterol [온브리즈 흡입용캡슐]</td><td>150 or 300 μg/C qd</td><td>24</td></tr></tbody></table>
 
 #### Anti-muscarinics
 
@@ -193,17 +248,21 @@
 * 악화 감소에 있어 LAMA가 LABA보다 유효
 * 부작용 : 입마름
 * SAMA (short-acting anti-muscarinic agent) : ipratropium, oxitropium
-*   LAMA (long-acting anti-muscarinic agent) : aclidinium, glycopyrronium, tiotropium, umeclidinium
+* LAMA (long-acting anti-muscarinic agent) : aclidinium, glycopyrronium, tiotropium, umeclidinium
 
-    ![image](../.gitbook/assets/c59caebe-7343-4fee-8822-889acf0df898.JPG)
+| **분류** | **성분명 \[상품명]**               | **흡입제 용량** | **네뷸라이저 용액**           | **작용 시간(hr)** |
+| ------ | ---------------------------- | ---------- | ---------------------- | ------------- |
+| SAMA   | ipratropium _(아트로벤트)_        | —          | 250 μg/mL, 1 or 2 mL/A | 6–8           |
+| LAMA   | aclidinium _(에클리라 제뉴에어)_     | 400 μg bid | —                      | 12            |
+|        | glycopyrronium _(씨브리 흡입용캡슐)_ | —          | —                      | —             |
+|        | tiotropium _(스피리바 흡입용캡슐)_    | 18 μg qd   | —                      | 24            |
+|        | umeclidinium _(인크루즈 엘립타)_    | 62.5 μg qd | —                      | 24            |
 
 #### LAMA+LABA 흡입 복합제
 
-```
-![image](images/15fbc931-a3ca-4bdc-b571-867004c158c1.JPG)
-```
-
 * LAMA-LABA 요법이 ICS-LABA 요법에 비해 유효(중증 COPD 악화율 8% 감소, 폐렴 입원율 20% 감소)
+
+<table data-header-hidden><thead><tr><th width="398.4117431640625"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>성분명 [상품명]</strong></td><td><strong>흡입제 용량</strong></td><td><strong>작용 시간(hr)</strong></td></tr><tr><td>formoterol / aclidinium [듀어클리어 제뉴에어]</td><td>12/400 μg bid</td><td>12</td></tr><tr><td>indacaterol / glycopyrronium [조터나 흡입용캡슐]</td><td>110/50 μg 1C qd</td><td>12–24</td></tr><tr><td>olodaterol / tiotropium [바헬바 레스피맷]</td><td>5/5 μg 2 puffs qd</td><td>24</td></tr><tr><td>vilanterol / umeclidinium [아노로 엘립타]</td><td>25/62.5 μg qd</td><td>24</td></tr></tbody></table>
 
 #### Methylxanthine
 
@@ -229,21 +288,32 @@
     • ICS 반응은 eos ＞150 시 나타나기 시작하며 가장 좋은 반응은 ≥300에서 나타남
 * 적용 고려 : LABA 사용에도 불구하고 ≥1회/1년 악화, 혈중 eosinophil 100\~299 cells/㎕
 * 적용 안 함 : 반복되는 폐렴, eosinophil ＜100 cells/㎕, mycobacterial 병력
-*   규칙적 사용시 폐렴 유발 위험 증가; 장기 단독 사용은 권고하지 않음
+* 규칙적 사용시 폐렴 유발 위험 증가; 장기 단독 사용은 권고하지 않음
 
-    ![image](../.gitbook/assets/7ddccd04-6c7b-4fb2-82a4-76029cc1fb4d.JPG)
+| **성분명 \[(상품명]**       | **흡입제**              | **네불라이저 용액**           |
+| --------------------- | -------------------- | ---------------------- |
+| budesonide \[풀미코트]    | 200 μg/puff bid      | 0.5 mg/2 ml/A bid      |
+| fluticasone \[후릭소타이드] | 100, 250 μg/puff bid | 0.5 or 2 mg/2 ml/A bid |
+| ciclesonide \[알베스코]   | 80, 160 μg/puff qd   | —                      |
 
 #### ICS+LABA 흡입 복합제
 
-*   중증에서 ICS/LABA 병용이 개별 사용보다 유효; ICS/LABA/LAMA 병용도 유효 (보험주의)
+* 중증에서 ICS/LABA 병용이 개별 사용보다 유효; ICS/LABA/LAMA 병용도 유효 (보험주의)
 
-    ![image](../.gitbook/assets/4d9673a4-c4cd-4683-bc83-0ac67ec46b68.JPG)
+| **성분명**                   | **상품명 제형(단위 μg)**                              | **기본 용법**     |
+| ------------------------- | ---------------------------------------------- | ------------- |
+| Fluticasone/Salmeterol    | 세레타이드 디스커스 100/50, 250/50, 500/50              | 1 puff bid    |
+|                           | 세레타이드 에보할러 50(45/21), 125(115/21), 250(230/21) | 2 puffs bid   |
+| Fluticasone/Vilanterol    | 렐바 엘립타 100/25, 200/25                          | 1 puff qd     |
+| Fluticasone/Formoterol    | 플루티폼 MDI 50/5, 125/5, 250/10                   | 2 puffs bid   |
+| Budesonide/Formoterol     | 심비코트 터부할러 80/4.5, 160/4.5, 320/9               | 1–2 puffs bid |
+| Beclomethasone/Formoterol | 포스터 MDI/DPI 100/6                              | 2 puffs bid   |
+
+증상에 따라 경감할 수 있으며, 용량에 따라 분무 횟수를 조절할 수 있
 
 #### LABA+LAMA+ICS
 
-```
-![image](images/821ca04d-b5e7-4172-940c-682a6feee5eb.JPG)
-```
+<table data-header-hidden><thead><tr><th width="534"></th><th></th></tr></thead><tbody><tr><td><strong>성분명 [상품명]</strong></td><td><strong>용법</strong></td></tr><tr><td>fluticasone / umeclidinium / vilanterol [트렐리지 엘립타]</td><td>100/62.5/25 μg/puff qd</td></tr><tr><td>mometasone / glycopyrronium / indacaterol [에너져어 흡입용캡슐]</td><td>160/50/150 1C qd</td></tr><tr><td>budesonide / formoterol / glycopyrrolate</td><td>—</td></tr></tbody></table>
 
 #### 전신 Steroid
 
@@ -277,15 +347,63 @@
 
 ### Initial pharmacological treatment
 
-```
-![image](images/5a32b12f-e450-4f38-a05b-63c13678f400.png)
-```
+<figure><img src="../.gitbook/assets/스크린샷 2026-05-09 222044.png" alt=""><figcaption></figcaption></figure>
 
 ### Follow-up pharmacological treatment
 
+1. 초치료에 적절히 반응한다면, 그 치료를 유지
+2. 그렇지 않다면
+   * 순응도, 흡입기 사용 방법, 영향을 줄 수 있는 동반 질환 등 확인
+   * 표적으로 삼을 수 있는 주된 치료 특성을 고려(dyspnea or exacerbations):\
+     두 가지 모두 표적이 된다면 exacerbation pathway를 선택
+   * 현재의 치료와 향후 적용증에 맞춰 환자를 박스에 위치시킴
+   * 반응 평가, 조정 및 재평가
+   * 이 권고는 진단 시의 ABE assessment에 의존하지 않음
+
+```mermaid
+graph TD
+%% DYSPNEA
+D0[DYSPNEA]
+        D1[LABA or LAMA] --> D2["LABA+LAMA¹⁾"]
+        D2 --> D3["•흡입제 성분 or 장치 교체 고려<br/>•비약물 치료 시행 또는 강화<br/>•호흡 곤란의 다른 원인 조사<br/>(및 치료)"]
+
+%% EXACERBATION
+E0[EXACERBATION ]
+        E1[LABA or LAMA]
+        E1 -- "if eos ≥ 300" --> E3["LABA+LAMA+ICS¹⁾"]
+        E1 -- "if eos < 300" --> E2["LABA+LAMA¹⁾"]
+        
+        E2 -- "if eos ≥ 100" --> E3
+        E3 -- "2)" --> E2
+        
+        E2 -- "if eos < 100" --> E4{ }
+        E3 --> E4
+        
+        E4 --> E5["Roflumilast<br/>(FEV₁ < 50 &<br/>chronic bronchitis)"]
+        E4 --> E6["Azithromycin<br/>(과거 흡연자에서<br/>우선적으로)"]
+   
+    %% 스타일 설정
+    style D1 fill:#fff,stroke:#ddd
+    style D2 fill:#fff,stroke:#ddd
+    style E1 fill:#fff,stroke:#ddd
+    style E2 fill:#fff,stroke:#ddd
+    style E3 fill:#fff,stroke:#ddd
+    style E5 fill:#fff,stroke:#ddd
+    style E6 fill:#fff,stroke:#ddd
+    style E4 fill:none,stroke:none
+    
+    %% 연결선 스타일 (초록색 화살표 재현)
+    linkStyle 6 stroke:green,stroke-width:2px;
 ```
-![image](images/657dfd73-683c-43d2-9dc5-e515ea37d1db.png)
-```
+
+
+
+eos = blood eosinophil count (cells/μL)
+
+1\) single inhaler 권고\
+2\) 폐렴 또는 다른 고려할만한 부작용이 있는 경우 ICS의 단계적 감량 고려; eos ≥300 시 단계적 감량은 악화 발생과 관련될 수 있음
+
+<p align="center"><em><mark style="color:$info;">Ref. GOLD. 2024. Fig 3.9</mark></em></p>
 
 ## 예후 및 모니터링
 
@@ -354,9 +472,7 @@
 
 #### 항생제
 
-```
-    [NICE] (2018)
-```
+&#x20;   \[NICE] (2018)
 
 **1차 선택제** : 경험적 선택
 
@@ -385,8 +501,16 @@
 * 호흡 재활 치료, 금연, 칙적인 약제 투약
 * 예방접종
 
-> **질병코드** J42 상세불명의 만성 기관지염
+
+
+### **질병코드**&#x20;
+
+J42 상세불명의 만성 기관지염
 
 J44 기타 만성 폐색성 폐질환
 
-![image](../.gitbook/assets/a36689de-35a6-45b3-8424-9bf8ecb4ba31.JPG)
+
+
+## 처방례
+
+![](../.gitbook/assets/a36689de-35a6-45b3-8424-9bf8ecb4ba31.JPG)
