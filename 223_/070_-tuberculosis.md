@@ -371,7 +371,7 @@ style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 
 <p align="center"><strong>자연 치유된 결핵 병변이 있는 경우의 검사 과정</strong></p>
 
-<p align="center">¹⁾칼슘이 침착된 단순 결절 및 폐쇄부와 기저부의 흉막 비후는 제외. <br>²⁾고위험군: HIV 감염, 장기 이식으로 면역억제제 복용자, TNF 대항제 사용자</p>
+<p align="center">¹⁾칼슘이 침착된 단순 결절 및 폐쇄부와 기저부의 흉막 비후는 제외.<br>²⁾고위험군: HIV 감염, 장기 이식으로 면역억제제 복용자, TNF 대항제 사용자</p>
 
 <p align="center"><em><mark style="color:$info;">Ref. 결핵진료지침. 대한결핵및호흡기학회; 2024. 그림 VII-9.</mark></em></p>
 
@@ -388,15 +388,15 @@ style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```mermaid
 graph TD
     %% 정상 면역 성인 경로
-    SN["LTBI 진단 검사가 필요한<br/><b>정상 면역 성인</b>"]
-    ExcN["활동성 결핵 배제<br/>증상·병력·흉부 X선·세균학적 검사"]
-    BCG{"과거 BCG 접종력?"}
+    SN(["LTBI 진단 검사가 필요한<br/><b>정상 면역 성인</b>"])
+    ExcN["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선·세균학적 검사"]
+    BCG["과거 BCG 접종력?"]
     TST1["TST"]
     IGA1["IGRA"]
-    PosN1(["LTBI 양성"])
-    NegN1(["LTBI 음성"])
-    PosN2(["LTBI 양성"])
-    NegN2(["LTBI 음성"])
+    PosN1["LTBI 양성"]
+    NegN1["LTBI 음성"]
+    PosN2["LTBI 양성"]
+    NegN2["LTBI 음성"]
 
     SN --> ExcN --> BCG
     BCG -->|"영아 때 1회 접종<br/>또는 미접종"| TST1
@@ -407,32 +407,33 @@ graph TD
     IGA1 -->|음성| NegN2
 
     %% 면역 저하 성인 경로
-    SI["LTBI 진단 검사가 필요한<br/><b>면역 저하 성인</b>"]
-    ExcI["활동성 결핵 배제<br/>증상·병력·흉부 X선·세균학적 검사"]
+    SI(["LTBI 진단 검사가 필요한<br/><b>면역 저하 성인</b>"])
+    ExcI["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선·세균학적 검사"]
     IGA2["IGRA"]
     TST2["TST"]
-    PosI1(["LTBI 양성"])
+    PosI1["LTBI 양성"]
     NegIto["TST 시행"]
-    PosI2(["LTBI 양성"])
-    NegI2(["LTBI 음성"])
+    PosI2["LTBI 양성"]
+    NegI2["LTBI 음성"]
 
     SI --> ExcI --> IGA2
     IGA2 -->|양성| PosI1
-    IGA2 -->|음성| NegIto --> TST2
-    TST2 -->|"10 mm 이상"| PosI2
-    TST2 -->|"10 mm 미만"| NegI2
+    IGA2 -->|음성| NegIto 
+    NegIto -->|"10 mm 이상"| PosI2
+    NegIto -->|"10 mm 미만"| NegI2
 
-    style SN fill:#e8f4f8,stroke:#4dabcc
-    style SI fill:#fff3cd,stroke:#ffc107
-    style ExcN fill:#f8f9fa,stroke:#ced4da
-    style ExcI fill:#f8f9fa,stroke:#ced4da
-    style PosN1 fill:#fff5f5,stroke:#ffc9c9
-    style PosN2 fill:#fff5f5,stroke:#ffc9c9
-    style NegN1 fill:#d3f9d8,stroke:#8ce99a
-    style NegN2 fill:#d3f9d8,stroke:#8ce99a
-    style PosI1 fill:#fff5f5,stroke:#ffc9c9
-    style PosI2 fill:#fff5f5,stroke:#ffc9c9
-    style NegI2 fill:#d3f9d8,stroke:#8ce99a
+style SN fill:#fff3e0,stroke:#e65100,stroke-width:2px
+style SI fill:#fdebd0,stroke:#e67e22,stroke-width:2px
+style ExcN fill:#e8f8e8,stroke:#4caf50
+classDef green fill:#d5f5e3,stroke:#27ae60
+class ExcI green
+classDef yellow fill:#fff9c4,stroke:#f39c12
+class BCG,TST1,IGA1,IGA2,NegIto yellow
+classDef white fill:#fff,stroke:#333
+class NegI2,NegN1,NegN2 white
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class PosN1,PosN2,PosI1,PosI2 blue
+
 ```
 
 <p align="center"><strong>잠복결핵감염 진단 알고리듬</strong></p>
@@ -464,7 +465,7 @@ graph TD
 
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style D fill:#e8f8e8,stroke:#4caf50
-    style C fill:#d0e8ff,stroke:#1a6abf
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#f39c12
 class B,E,G yellow
 classDef sky fill:#e3f2ff,stroke:#2196f3
@@ -489,11 +490,11 @@ class H,I,J,K,F sky
 * 재치료: 결핵 발병 위험군이 전염성 결핵 환자와 최근 접촉한 경우, 과거에 적절한 LTBI 치료를 완료하였더라도 재치료 고려
 * LTBI 치료 중 활동성 결핵이 발생한 경우: LTBI 치료에 사용 중이었던 약제를 포함한 초치료 표준 처방으로 새로이 치료 시작
 
-<table><thead><tr><th width="73.68423461914062">요법</th><th width="155.52630615234375">처방</th><th width="77.36834716796875">기간</th><th width="80">복약 완료율</th><th width="78.94732666015625">간독성 위험</th><th>비고</th></tr></thead><tbody><tr><td>4R <br>(권장)</td><td>Rifampicin 단독</td><td>4개월</td><td>높음</td><td>낮음</td><td>가장 널리 쓰이는 표준 요법; INH 내성·부작용 시에도 선택 가능</td></tr><tr><td>3HR (권장)</td><td>INH + Rifampicin</td><td>3개월</td><td>높음</td><td>보통</td><td>4R과 함께 우선 고려</td></tr><tr><td>1HP <br>(권장)</td><td>INH + Rifapentine 매일</td><td>1개월 (28일)</td><td>매우 높음</td><td>낮음</td><td>BRIEF TB 연구 근거; 짧은 기간으로 선호도 급증; 전문가 처방 권고</td></tr><tr><td>3HP (대체)</td><td>INH + Rifapentine 주 1회</td><td>3개월 (12주)</td><td>높음</td><td>낮음</td><td>직접 복약 확인(DOT) 권장; 전문가 처방 권고</td></tr><tr><td>9H¹⁾</td><td>INH 단독</td><td>9개월</td><td>낮음</td><td>높음</td><td>RIF 사용 불가 시에만 선택 (중증 간질환, 중요 약물 상호작용)</td></tr><tr><td>6H¹⁾</td><td>INH 단독</td><td>6개월</td><td>낮음</td><td>높음</td><td>9H에 비해 효과 다소 낮음; RIF 사용 불가 시 대안</td></tr></tbody></table>
+<table><thead><tr><th width="73.68423461914062">요법</th><th width="155.52630615234375">처방</th><th width="77.36834716796875">기간</th><th width="80">복약 완료율</th><th width="78.94732666015625">간독성 위험</th><th>비고</th></tr></thead><tbody><tr><td>4R<br>(권장)</td><td>Rifampicin 단독</td><td>4개월</td><td>높음</td><td>낮음</td><td>가장 널리 쓰이는 표준 요법; INH 내성·부작용 시에도 선택 가능</td></tr><tr><td>3HR (권장)</td><td>INH + Rifampicin</td><td>3개월</td><td>높음</td><td>보통</td><td>4R과 함께 우선 고려</td></tr><tr><td>1HP<br>(권장)</td><td>INH + Rifapentine 매일</td><td>1개월 (28일)</td><td>매우 높음</td><td>낮음</td><td>BRIEF TB 연구 근거; 짧은 기간으로 선호도 급증; 전문가 처방 권고</td></tr><tr><td>3HP (대체)</td><td>INH + Rifapentine 주 1회</td><td>3개월 (12주)</td><td>높음</td><td>낮음</td><td>직접 복약 확인(DOT) 권장; 전문가 처방 권고</td></tr><tr><td>9H¹⁾</td><td>INH 단독</td><td>9개월</td><td>낮음</td><td>높음</td><td>RIF 사용 불가 시에만 선택 (중증 간질환, 중요 약물 상호작용)</td></tr><tr><td>6H¹⁾</td><td>INH 단독</td><td>6개월</td><td>낮음</td><td>높음</td><td>9H에 비해 효과 다소 낮음; RIF 사용 불가 시 대안</td></tr></tbody></table>
 
-　1) RIF 사용 불가 시 차선책&#x20;
+　¹⁾ RIF 사용 불가 시 차선책
 
-### <mark style="color:orange;">접촉자 관리</mark>
+## <mark style="color:green;">접촉자 관리</mark>
 
 * 전염성 결핵 환자의 밀접 접촉자에 대하여 접촉자 조사 시행
 * 전염성 결핵 환자 접촉자의 1%가 결핵 진단; 접촉자의 20\~30%는 LTBI로 진단
@@ -505,25 +506,25 @@ class H,I,J,K,F sky
 * 밀접 접촉자 : 밀폐 공간에서 장시간 직접 접촉 (연속 8시간 이상 또는 누적 40시간 이상)
 * 일상 접촉자 : 가족·밀접 접촉자 이외; 일반적으로 조사 생략 (역학 조사반 판단 시에만 시행)
 
-**지표환자 검사 결과 및 전염 가능 기간**
+#### <mark style="color:$primary;">**지표환자 검사 결과 및 전염 가능 기간**</mark>
 
 <table><thead><tr><th width="220">지표환자 검사 결과</th><th>전염 가능 기간 (소급 기준)</th></tr></thead><tbody><tr><td>도말 양성</td><td>증상 발생 3개월 전 또는 진단 3개월 전 중 더 이른 날부터</td></tr><tr><td>도말 음성 / PCR 양성</td><td>진단일로부터 1개월 전부터</td></tr><tr><td>도말·PCR 모두 음성</td><td>결핵 진단일부터</td></tr></tbody></table>
 
-**접촉자 검진 절차**
+#### <mark style="color:$primary;">**접촉자 검진 절차**</mark>
 
 기침·가래 등 결핵 증상 확인 및 흉부 X선 검사 → 결핵 의심 시 추가 검사(객담 검사) → 양성이면 결핵 치료 시작, 음성이면 LTBI 감별 검사(TST &/or IGRA) → LTBI 양성이면 LTBI 치료, 음성이면 2차 검진 절차 수행
 
-**의료기관 종사자 관리**
+#### <mark style="color:$primary;">**의료기관 종사자 관리**</mark>
 
 * 신규 고용 시 LTBI 기저 검사 시행; 과거 활동성 결핵이나 LTBI로 치료한 경우 또는 LTBI 검사 양성으로 확인된 경우는 검사 시행하지 않음
 
-<table><thead><tr><th width="80">군</th><th>해당 부서</th></tr></thead><tbody><tr><td>1군</td><td>호흡기 결핵 환자와 접촉 가능성이 높은 곳: 호흡기/감염 내과 외래·병동, 기관지 내시경실, 결핵균 검사실, 폐기능 검사실, 흉부 영상 촬영실, 내과 중환자실, 응급실, 소아호흡기알레르기 클리닉</td></tr><tr><td>2군</td><td>면역 약한 환자 접촉: 신생아실, 분만의료기관, 조산원, 산후조리원, 장기 이식 병동, 혈액암 병동, 투석실, HIV 관련 부서</td></tr><tr><td>3군</td><td>호흡기 감염 우려 부서: 치과, 흉부외과, 마취과, 부검/해부 병리 업무</td></tr></tbody></table>
+<table><thead><tr><th width="71.25">군</th><th>해당 부서</th></tr></thead><tbody><tr><td>1군</td><td>호흡기 결핵 환자와 접촉 가능성이 높은 곳: 호흡기/감염 내과 외래·병동, 기관지 내시경실, 결핵균 검사실, 폐기능 검사실, 흉부 영상 촬영실, 내과 중환자실, 응급실, 소아호흡기알레르기 클리닉</td></tr><tr><td>2군</td><td>면역 약한 환자 접촉: 신생아실, 분만의료기관, 조산원, 산후조리원, 장기 이식 병동, 혈액암 병동, 투석실, HIV 관련 부서</td></tr><tr><td>3군</td><td>호흡기 감염 우려 부서: 치과, 흉부외과, 마취과, 부검/해부 병리 업무</td></tr></tbody></table>
 
 * 주기적 LTBI 진단 방법: 2단계 TST 또는 IGRA; 가능한 기저 검사와 같은 방법 적용
 * LTBI 치료 대상: LTBI 양성인 1·2·3군 종사자, 2년 이내 양전, 흉부 X선 상 과거 치료력 없이 자연 치유된 병변 + LTBI 양성
 * 결핵 환자를 검진·치료하는 의료인(의사, 의료기사, 간호사 등): 매년 LTBI 검진 실시
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">활동성 결핵 치료</mark>
 
 ### <mark style="color:orange;">치료 전 조치</mark>
 
@@ -533,105 +534,74 @@ class H,I,J,K,F sky
 
 ### <mark style="color:orange;">항결핵제</mark>
 
-<table><thead><tr><th width="200">성분명 (약어)</th><th width="300">용량 및 투약 방법</th><th>주요 부작용</th></tr></thead><tbody><tr><td><strong>Group I - 1차 선택 항결핵제</strong></td><td></td><td></td></tr><tr><td><strong>Isoniazid</strong> (INH, H)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복</td><td>간독성, 말초신경염, 피부 과민 반응</td></tr><tr><td><strong>Rifampicin</strong> (RIF, R)</td><td>8~12 ㎎/㎏ [450 ㎎ (&#x3C;50 ㎏) ~ 600 ㎎ (≥50 ㎏)] qd, 공복</td><td>간독성, 위장장애, 독감 유사 증상, 혈소판 감소증, 체액 색소 변화</td></tr><tr><td><strong>Ethambutol</strong> (EMB, E)</td><td>15~20 ㎎/㎏ [&#x3C;50 ㎏: 0.8 g, 50~70 ㎏: 1.2 g, >70 ㎏: 1.6 g] qd, 공복 또는 식후</td><td>시신경염(시력 저하, 색각 변화)</td></tr><tr><td><strong>Pyrazinamide</strong> (PZA, Z)</td><td>20~30 ㎎/㎏ [&#x3C;46 ㎏: 1 g, 46~70 ㎏: 1.5 g, >70 ㎏: 2 g] qd, 공복 또는 식후</td><td>간독성, 관절통, 위장 장애</td></tr><tr><td><strong>Rifabutin</strong> (RFB)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복 또는 식후</td><td>간독성, 호중구 감소증</td></tr><tr><td><strong>Group II - 주사제</strong> (경구제 사용 불가 시; 최근 all-oral regimen 선호로 사용 감소 추세)</td><td></td><td></td></tr><tr><td><strong>Streptomycin</strong> (S)<br><strong>Kanamycin</strong> (Km)<br><strong>Amikacin</strong> (Am)<br><strong>Capreomycin</strong> (Cm)</td><td>&#x3C;50세: 15 ㎎/㎏ [1 g] IM/IV<br>≥50세: 10 ㎎/㎏ [750 ㎎] IM/IV</td><td>이독성, 신독성, 입 주위 감각 이상</td></tr><tr><td><strong>Group III - 2차 선택제: 호흡기 퀴놀론제</strong></td><td></td><td></td></tr><tr><td><strong>Levofloxacin</strong> (Lfx)</td><td>750~1,000 ㎎ qd, 공복 또는 식후</td><td>위장장애, 두통, 어지럼, 관절통</td></tr><tr><td><strong>Moxifloxacin</strong> (Mfx)</td><td>400 ㎎ qd, 공복 또는 식후</td><td>QT 연장, 위장장애</td></tr><tr><td><strong>Group IV - 경구용 2차 항결핵제</strong></td><td></td><td></td></tr><tr><td><strong>Cycloserine</strong> (Cs)</td><td>10~15 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, ≥46 ㎏: 750 ㎎] #1~2, 공복</td><td>우울증, 정신 장애</td></tr><tr><td><strong>Prothionamide</strong> (Pto)</td><td>15~20 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, 46~70 ㎏: 750 ㎎, >70 ㎏: 1,000 ㎎] #2, 공복</td><td>위장 장애, 간독성</td></tr><tr><td><strong>p-Aminosalicylic acid</strong> (PAS)</td><td>150 ㎎/㎏ [12 g] #3 (3.3 g/pack tid), 식후</td><td>식욕 부진, 구역/구토, 복부 불편감, 간독성</td></tr><tr><td><strong>Group V - 전문가 자문 필요 약제</strong><br>Linezolid (Lzd), Bedaquiline (Bdq), Pretomanid (Pa), Delamanid (Dlm), Clofazimine (Cfz), Imipenem/cilastatin (Ipm), Meropenem (Mpm), Amoxicillin/clavulanate (Amx/Clv), High-dose Isoniazid (Hr)</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="196.25">성분명 (약어)</th><th width="313.75">용량 및 투약 방법</th><th>주요 부작용</th></tr></thead><tbody><tr><td><strong>Group I  -</strong></td><td><strong>- 1차 선택 항결핵제</strong></td><td></td></tr><tr><td><strong>Isoniazid</strong> (INH, H)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복</td><td>간독성, 말초신경염, 피부 과민 반응</td></tr><tr><td><strong>Rifampicin</strong> (RIF, R)</td><td>8~12 ㎎/㎏ [450 ㎎ (&#x3C;50 ㎏) ~ 600 ㎎ (≥50 ㎏)] qd, 공복</td><td>간독성, 위장장애, 독감 유사 증상, 혈소판 감소증, 체액 색소 변화</td></tr><tr><td><strong>Ethambutol</strong> (EMB, E)</td><td>15~20 ㎎/㎏ [&#x3C;50 ㎏: 0.8 g, 50~70 ㎏: 1.2 g, >70 ㎏: 1.6 g] qd, 공복 또는 식후</td><td>시신경염(시력 저하, 색각 변화)</td></tr><tr><td><strong>Pyrazinamide</strong> (PZA, Z)</td><td>20~30 ㎎/㎏ [&#x3C;46 ㎏: 1 g, 46~70 ㎏: 1.5 g, >70 ㎏: 2 g] qd, 공복 또는 식후</td><td>간독성, 관절통, 위장 장애</td></tr><tr><td><strong>Rifabutin</strong> (RFB)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복 또는 식후</td><td>간독성, 호중구 감소증</td></tr><tr><td><strong>Group II -</strong> </td><td> <strong>- 주사제</strong> (경구제 사용 불가 시; 최근 all-oral regimen 선호로 사용 감소 추세)</td><td></td></tr><tr><td><strong>Streptomycin</strong> (S)<br><strong>Kanamycin</strong> (Km)<br><strong>Amikacin</strong> (Am)<br><strong>Capreomycin</strong> (Cm)</td><td>&#x3C;50세: 15 ㎎/㎏ [1 g] IM/IV<br>≥50세: 10 ㎎/㎏ [750 ㎎] IM/IV</td><td>이독성, 신독성, 입 주위 감각 이상</td></tr><tr><td><strong>Group III -</strong> </td><td><strong>- 2차 선택제: 호흡기 퀴놀론제</strong></td><td></td></tr><tr><td><strong>Levofloxacin</strong> (Lfx)</td><td>750~1,000 ㎎ qd, 공복 또는 식후</td><td>위장장애, 두통, 어지럼, 관절통</td></tr><tr><td><strong>Moxifloxacin</strong> (Mfx)</td><td>400 ㎎ qd, 공복 또는 식후</td><td>QT 연장, 위장장애</td></tr><tr><td><strong>Group IV -</strong> </td><td><strong>- 경구용 2차 항결핵제</strong></td><td></td></tr><tr><td><strong>Cycloserine</strong> (Cs)</td><td>10~15 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, ≥46 ㎏: 750 ㎎] #1~2, 공복</td><td>우울증, 정신 장애</td></tr><tr><td><strong>Prothionamide</strong> (Pto)</td><td>15~20 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, 46~70 ㎏: 750 ㎎, >70 ㎏: 1,000 ㎎] #2, 공복</td><td>위장 장애, 간독성</td></tr><tr><td><strong>p-Aminosalicylic acid</strong> (PAS)</td><td>150 ㎎/㎏ [12 g] #3 (3.3 g/pack tid), 식후</td><td>식욕 부진, 구역/구토, 복부 불편감, 간독성</td></tr><tr><td><strong>Group V - 전문가 자문 필요 약제</strong></td><td>Linezolid (Lzd), Bedaquiline (Bdq), Pretomanid (Pa), Delamanid (Dlm), Clofazimine (Cfz), Imipenem/cilastatin (Ipm), Meropenem (Mpm), Amoxicillin/clavulanate (Amx/Clv), High-dose Isoniazid (Hr)</td><td></td></tr></tbody></table>
 
-{% hint style="info" %}
-1. 공복 표시가 없는 경우는 식후 복용. 2) 최대량이 표시되지 않은 경우 권고량이 최대량임.\
-   Ref. 대한결핵및호흡기학회. 결핵 진료지침. 2024.
-{% endhint %}
+* 공복 표시가 없는 경우는 식후 복용; 최대량이 표시되지 않은 경우 권고량이 최대량임
+* Group V 약제들은 전문가 자문이 필요. 주사제(Group II)는 이독성·신독성 모니터링이 필수
+* Ethambutol 사용 시 치료 전 및 치료 중 정기적 시력 검사가 필요하며, 신기능 저하자 또는 ≥25 ㎎/㎏/d 투여 시 위험이 증가
 
-{% hint style="danger" %}
-⚠️ **중요 주의사항**\
-Group V 약제들은 전문가 자문이 반드시 필요합니다. 주사제(Group II)는 이독성·신독성 모니터링이 필수입니다. Ethambutol 사용 시 치료 전 및 치료 중 정기적 시력 검사가 필요하며, 신기능 저하자 또는 ≥25 ㎎/㎏/d 투여 시 위험이 증가합니다.
-{% endhint %}
-
-**주요 약제별 상세 정보**
+<p align="center"><em><mark style="color:$info;">Ref. 대한결핵및호흡기학회. 결핵 진료지침. 2024.</mark></em></p>
 
 #### <mark style="color:$primary;">Isoniazid (INH)</mark>
 
-* <mark style="color:blue;">\[유한짓]</mark> 100 ㎎/T
+* 100 ㎎/T <mark style="color:blue;">\[유한짓]</mark>&#x20;
 * \[부작용] 말초신경염: Vit B6 결핍과 관련. 통상 용량(≤300 ㎎/d)에서는 흔하지 않으나 임신, 영양실조, 알코올 남용, 고령, 간질 기왕력, 만성콩팥병, 당뇨병에서 더 흔함
   * 예방: Pyridoxine 10\~25 ㎎/d 병용 (위험군에서는 25\~50 ㎎/d)
 
 #### <mark style="color:$primary;">Rifampicin (RIF)</mark>
 
-* <mark style="color:blue;">\[리팜핀]</mark> 150 ㎎/C, 300 ㎎/C, 600 ㎎/T
+* 150 ㎎/C, 300 ㎎/C, 600 ㎎/T <mark style="color:blue;">\[리팜핀]</mark>&#x20;
 * \[부작용] 혈소판 감소: 투여 중단 후 주기적 혈소판 검사; 정상 회복 후에도 RIF는 재투여하지 않음
 * 주의: 소변·눈물·땀이 오렌지색으로 변색; 소프트 콘택트렌즈 착색 주의
 * 약물 상호 작용: CYP450 유도와 관련하여 다음 약제들의 혈중 농도 감소에 주의 - 경구 피임약, 스테로이드, quinidine, phenytoin, warfarin, 인슐린, sulfonylurea
 
-{% hint style="danger" %}
-⚠️ **Rifampicin 주요 약물 상호작용 - 임상적으로 중요한 추가 항목**
-{% endhint %}
+**Rifampicin의 주요 약물 상호작용**&#x20;
 
-| 약제                                       | 상호작용 결과     | 임상적 주의사항                     |
-| ---------------------------------------- | ----------- | ---------------------------- |
-| DOAC (rivaroxaban, apixaban 등)           | 혈중 농도 급감    | 혈전색전증 위험 증가; 가능하면 대체 항응고제 고려 |
-| Tacrolimus / Cyclosporine                | 농도 급감       | 이식 거부 위험; 농도 모니터링 필수         |
-| Azole 항진균제 (fluconazole, voriconazole 등) | 항진균 효과 감소   | 병용 시 용량 조정 또는 대체 필요          |
-| HIV 항바이러스제 (PI, NNRTI 등)                 | 상호 농도 변화    | Rifabutin으로 대체 권고            |
-| 경구 피임약                                   | 피임 효과 감소    | 치료 기간 중 추가 피임 수단 사용          |
-| SGLT-2 억제제 (dapagliflozin 등) / DPP-4 억제제 | 혈중 농도 감소 가능 | 혈당 조절 모니터링 강화; 필요 시 용량 조정    |
-| 칼슘채널차단제 (CCB; amlodipine, nifedipine 등)  | 혈중 농도 감소    | 혈압 조절 모니터링; 필요 시 대체 또는 증량 고려 |
+<table><thead><tr><th width="272.75">약제</th><th width="174.25">상호작용 결과</th><th>임상적 주의사항</th></tr></thead><tbody><tr><td>DOAC (rivaroxaban, apixaban)</td><td>혈중 농도 급감</td><td>혈전색전증 위험 증가; 가능하면 대체 항응고제 고려</td></tr><tr><td>Tacrolimus / Cyclosporine</td><td>농도 급감</td><td>이식 거부 위험; 농도 모니터링 필수</td></tr><tr><td>Azole 항진균제 (fluconazole, voriconazole 등)</td><td>항진균 효과 감소</td><td>병용 시 용량 조정 또는 대체 필요</td></tr><tr><td>HIV 항바이러스제 (PI, NNRTI)</td><td>상호 농도 변화</td><td>Rifabutin으로 대체 권고</td></tr><tr><td>경구 피임약</td><td>피임 효과 감소</td><td>치료 기간 중 추가 피임 수단 사용</td></tr><tr><td>SGLT-2 억제제 (dapagliflozin) / DPP-4 억제제</td><td>혈중 농도 감소 가능</td><td>혈당 조절 모니터링 강화; 필요 시 용량 조정</td></tr><tr><td>칼슘채널차단제 (CCB; amlodipine, nifedipine)</td><td>혈중 농도 감소</td><td>혈압 조절 모니터링; 필요 시 대체 또는 증량 고려</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Ethambutol (EMB)</mark>
 
-* <mark style="color:blue;">\[마이암부톨 제피]</mark> 400 ㎎/T; 고용량 사용 시 2개월 후 감량
-* \[부작용] 시신경증: 시력 저하, 적록 색맹, 중심 암증, 주변 시각 장애; 용량·투여 기간과 관련. 신기능 저하 또는 ≥25 ㎎/㎏/d 투여 시 위험 증가; **당뇨병 환자는 미세혈관 합병증으로 인해 기저적 시신경 취약성이 높으므로 정기 시력·색각 검사를 강화한다**
-* 시력 모니터링: 치료 시작 전 기저 시력 검사 후 **매달 시력·색각 검사 권고** (이상 발생 즉시 EMB 중단)
-* 어린 소아에서는 시신경병증 모니터링이 어려울 수 있으므로 주의한다; WHO 권장 용량(15–20 ㎎/㎏/d) 범위 내 2개월 집중기 사용에서의 독성 위험은 낮음 (대한결핵및호흡기학회 결핵 진료지침 2024)
+* 400 ㎎/T; 고용량 사용 시 2개월 후 감량 <mark style="color:blue;">\[마이암부톨 제피]</mark>&#x20;
+* \[부작용] 시신경증 : 시력 저하, 적록 색맹, 중심 암증, 주변 시각 장애; 용량·투여 기간과 관련. 신기능 저하 또는 ≥25 ㎎/㎏/d 투여 시 위험 증가; 당뇨병 환자는 미세혈관 합병증으로 인해 기저적 시신경 취약성이 높으므로 정기 시력·색각 검사를 강화
+* 시력 모니터링 : 치료 시작 전 기저 시력 검사 후 매달 시력·색각 검사 권고 (이상 발생 즉시 EMB 중단)
+* 어린 소아에서는 시신경병증 모니터링이 어려울 수 있으므로 주의한다; WHO 권장 용량(15–20 ㎎/㎏/d) 범위 내 2개월 집중기 사용에서의 독성 위험은 낮음
 
 #### <mark style="color:$primary;">Pyrazinamide (PZA)</mark>
 
-* <mark style="color:blue;">\[피라진아미드]</mark> 250 ㎎/T, 500 ㎎/T
-* \[부작용] 관절통: ⅓에서 주로 치료 2개월 이내에 발생 → NSAID 투여로 관리
-* \[부작용] 고요산혈증·통풍: PZA로 인한 고요산혈증은 매우 흔하나, **증상이 없는 무증상 고요산혈증만으로는 약제를 중단하지 않고 관찰한다**; 실제 통풍 발작은 드묾. 통풍 환자 또는 ≥2개월 사용 시 요산 모니터링 시행
+* 250 ㎎/T, 500 ㎎/T <mark style="color:blue;">\[피라진아미드]</mark>&#x20;
+* \[부작용] 관절통 : ⅓에서 주로 치료 2개월 이내에 발생 → NSAID 투여로 관리
+* \[부작용] 고요산혈증·통풍: PZA로 인한 고요산혈증은 매우 흔하나, 증상이 없는 무증상 고요산혈증만으로는 약제를 중단하지 않고 관찰; 실제 통풍 발작은 드묾. 통풍 환자 또는 ≥2개월 사용 시 요산 모니터링 시행
 
 #### <mark style="color:$primary;">Aminoglycoside계</mark>
 
 * <mark style="color:blue;">\[황산스트렙토마이신 주]</mark>, <mark style="color:blue;">\[카나마이신황산염 주]</mark>, <mark style="color:blue;">\[아미킨 주]</mark>
 * \[부작용] 이독성(이명/어지럼), 입 주위 감각 이상, 두통 → 심한 경우 감량
-* 용법: 5\~7일/주 qd → 2\~4개월 후 또는 임상적 호전(균 음전) 시 2\~3일/주 qd
+* 용법 : 5\~7일/주 qd → 2\~4개월 후 또는 임상적 호전(균 음전) 시 2\~3일/주 qd
 
 ### <mark style="color:orange;">초치료 (New patient)</mark>
 
-**치료 원칙**
+#### <mark style="color:$primary;">치료 원칙</mark>
 
-1. 초치료 대상: ①이전에 결핵 치료를 받은 적이 없거나, ② <1개월의 결핵 치료를 받은 환자
+1. 초치료 대상 : ⓵ 이전에 결핵 치료를 받은 적이 없거나, ⓶ <1개월의 결핵 치료를 받은 환자
 2. 내성 발현 예방을 위해 ≥3가지 항결핵제의 병합 요법 시행
 3. 최고 혈중 농도가 중요하므로 정확한 용량을 1일 1회 복용
 4. 간헐적으로 증식하는 균까지 멸균하기 위해 규칙적으로 ≥6개월 이상 장기 치료
 
-**표준 6개월 요법: 2HRZE/4HR(E)**
+#### <mark style="color:$primary;">표준 6개월 요법: 2HRZE/4HR(E)</mark>
 
 * 초기 집중 치료기 (2개월): H·R·Z·E 4제 병합
 * 유지 치료기 (4개월): H·R·E 3제; 약제 감수성 검사에서 INH·RIF에 감수성이 확인되면 3개월째부터 에탐부톨은 제외할 수 있음
 
-**9개월 요법: 9HRE**
+#### <mark style="color:$primary;">9개월 요법: 9HRE</mark>
 
 * 초치료 시 PZA를 사용하지 못하는 경우 H·R·E 9개월 투여
 * 복합제 사용으로 투약 순응도 향상 가능: <mark style="color:blue;">\[리파터]</mark> (RIF 300 ㎎ + INH 150 ㎎), <mark style="color:blue;">\[튜비스투]</mark> (RIF 150 ㎎ + INH 75 ㎎)
 
-**치료 기간 연장**
+#### <mark style="color:$primary;">치료 기간 연장</mark>
 
 * 치료 전 흉부 X선상 공동이 있고 집중 치료기 2개월 완료 시점의 객담 배양 양성인 경우 유지 치료 기간 연장을 고려
 
-### <mark style="color:orange;">치료 효과 평가</mark>
-
-* 가래 도말 또는 배양 양성 환자: 치료 시작 후 2회 연속 음성이 나올 때까지 매달 도말·배양 검사 시행; 치료 종결 시점에 마지막 가래 검사 시행
-* 임상적으로 치료 실패가 의심되는 경우: 추가 가래 도말·배양 → 배양 양성 시 이 결핵균에 대해 약제 감수성 검사 추가 시행
-* 흉부 X선 단독으로 치료 반응을 평가하지 않음
-* 역설적 반응: 치료 도중(보통 치료 시작 2개월 이후) 치료 실패 없이 면역 반응 증가로 임상 증상 및 영상 소견이 일시적으로 악화되는 현상(고열, 림프절염 발생/악화, CNS 병변 악화, 폐결핵 병변 악화, 흉수 증가); 항결핵제를 적절히 복용 중이며 객담 검사 음성이고 다른 질환의 가능성이 거의 없으면 기존 치료를 유지
-* 치료 종결 시점에 결핵 후 폐 질환에 대하여 평가; 호흡 곤란이 있거나 영상 검사에서 유의미한 후유증이 관찰되면 치료 종결 시점 혹은 종결 후 6개월 이내에 폐기능 검사 권고
-
-#### <mark style="color:$primary;">결핵 후 폐 질환 (Post-TB Lung Disease, PTLD)</mark>
-
-* **치료 종결 ≠ 폐 기능 회복**: 세균학적 치료 성공 후에도 상당수 환자에서 만성 폐 기능 손상이 남음
-* 주요 후유증: 기관지 확장증, 만성 기류 제한(COPD 유사 패턴), 파괴폐(destroyed lung), 반복 세균 감염, 객혈, 제한성 환기 장애, 만성 저산소혈증
-* 위험 인자: 치료 지연, 중증 병변, 공동 형성, 반복 결핵, 흡연, 당뇨병
-* 치료 종결 후에도 호흡기 증상·흉부 영상 이상·폐기능 저하가 지속되면 호흡기내과 의뢰 및 장기 추적 관리
-
-**기저 및 치료 중 추구 검사**
+#### <mark style="color:$primary;">기저 및 치료 중 추구 검사</mark>
 
 <table data-header-hidden><thead><tr><th width="203.7894287109375"></th><th width="55.368499755859375"></th><th width="43.789398193359375"></th><th width="44.842132568359375"></th><th width="44.8421630859375"></th><th width="44.84210205078125"></th><th width="44.84210205078125"></th><th width="44.84210205078125"></th><th width="44.84210205078125"></th><th width="44.8421630859375"></th><th width="49.05267333984375"></th></tr></thead><tbody><tr><td><strong>검사법</strong></td><td><strong>기저</strong></td><td><strong>1</strong>¹⁾</td><td><strong>2</strong></td><td><strong>3</strong></td><td><strong>4</strong></td><td><strong>5</strong></td><td><strong>6</strong></td><td><strong>7</strong></td><td><strong>8</strong></td><td><strong>9</strong>²⁾</td></tr><tr><td>미생물검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>객담항산균 도말&#x26;배양검사</td><td>●</td><td>●</td><td>●</td><td>○</td><td>○</td><td></td><td></td><td></td><td></td><td>○</td></tr><tr><td>Xpert MTB/RIF 검사</td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>신속감수성검사</td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>통상감수성검사</td><td></td><td></td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>흉부 X선/기타영상검사</td><td>●</td><td>○</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>●</td></tr><tr><td>임상적 평가</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>체중</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>증상&#x26;약물순응도 평가</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>시력평가</td><td>●</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>검사실 검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CBC</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>간기능</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>신기능</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>HIV</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B/C형 간염</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>당뇨</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>폐기능 검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>○</td></tr></tbody></table>
 
@@ -641,7 +611,15 @@ Group V 약제들은 전문가 자문이 반드시 필요합니다. 주사제(Gr
 
 　_<mark style="color:$info;">Ref. 대한결핵및호흡기학회. 결핵 진료지침. 2024. 표 II-5.</mark>_
 
-**초치료 결과 분류**
+#### <mark style="color:$primary;">치료 효과 평가</mark>
+
+* 가래 도말 또는 배양 양성 환자: 치료 시작 후 2회 연속 음성이 나올 때까지 매달 도말·배양 검사 시행; 치료 종결 시점에 마지막 가래 검사 시행
+* 임상적으로 치료 실패가 의심되는 경우: 추가 가래 도말·배양 → 배양 양성 시 이 결핵균에 대해 약제 감수성 검사 추가 시행
+* 흉부 X선 단독으로 치료 반응을 평가하지 않음
+* 역설적 반응 : 치료 도중(보통 치료 시작 2개월 이후) 치료 실패 없이 면역 반응 증가로 임상 증상 및 영상 소견이 일시적으로 악화되는 현상(고열, 림프절염 발생/악화, CNS 병변 악화, 폐결핵 병변 악화, 흉수 증가); 항결핵제를 적절히 복용 중이며 객담 검사 음성이고 다른 질환의 가능성이 거의 없으면 기존 치료를 유지
+* 치료 종결 시점에 결핵 후 폐 질환에 대하여 평가; 호흡 곤란이 있거나 영상 검사에서 유의미한 후유증이 관찰되면 치료 종결 시점 혹은 종결 후 6개월 이내에 폐기능 검사 권고
+
+#### <mark style="color:$primary;">초치료 결과 분류</mark>
 
 * 완치 : 치료 종료 후(마지막 달) 가래 배양 음성 & 이전 시행 배양 ≥1회 음성
 * 완료 : 마지막 달의 도말·배양 음성 결과는 없지만 이전 ≥1회 음성이고 치료 실패 기준에 해당되지 않음
@@ -649,6 +627,13 @@ Group V 약제들은 전문가 자문이 반드시 필요합니다. 주사제(Gr
 * 추적 방문 중단 : 치료를 시작하지 않았거나 연속 2달 이상 치료가 중단된 경우
 * 평가 미정 : 다른 기관으로 전출되었거나 치료 결과를 알 수 없는 경우
 * 치료 성공 : 완치 또는 완료된 경우
+
+#### <mark style="color:$primary;">결핵 후 폐 질환 (Post-TB Lung Disease, PTLD)</mark>
+
+* 치료 종결 ≠ 폐 기능 회복 : 세균학적 치료 성공 후에도 상당수 환자에서 만성 폐 기능 손상이 남음
+* 주요 후유증 : 기관지 확장증, 만성 기류 제한(COPD 유사 패턴), 파괴폐(destroyed lung), 반복 세균 감염, 객혈, 제한성 환기 장애, 만성 저산소혈증
+* 위험 인자 : 치료 지연, 중증 병변, 공동 형성, 반복 결핵, 흡연, 당뇨병
+* 치료 종결 후에도 호흡기 증상·흉부 영상 이상·폐기능 저하가 지속되면 호흡기내과 의뢰 및 장기 추적 관리
 
 ### <mark style="color:orange;">부작용 대처</mark>
 
@@ -706,7 +691,7 @@ Group V 약제들은 전문가 자문이 반드시 필요합니다. 주사제(Gr
 * 총 유지기 기간의 <80% 복용 후 중단 & 중단 기간 <2개월: 남은 기간 모두 복용
 * 중단 기간 ≥2개월: 처음부터 다시 치료 시작
 * 총 유지기 기간의 ≥80% 복용: 치료 시작 시 도말 음성이었으면 치료 종결, 도말 양성이었으면 유지기 남은 기간을 모두 복용하고 종결
-  * **예외**: 치료 시작 시 공동(cavity)이 있었거나 집중기 2개월 완료 시점에 배양 양성이었던 고위험군에서는 80% 달성 여부와 무관하게 전문가 판단에 따라 추가 복용을 고려한다
+  * 예외 : 치료 시작 시 공동(cavity)이 있었거나 집중기 2개월 완료 시점에 배양 양성이었던 고위험군에서는 80% 달성 여부와 무관하게 전문가 판단에 따라 추가 복용을 고려한다
 
 #### <mark style="color:$primary;">재발 결핵</mark>
 
@@ -734,8 +719,7 @@ Group V 약제들은 전문가 자문이 반드시 필요합니다. 주사제(Gr
 * 치료 기간: MDR-TB 치료력이 없는 경우 최소 20개월 (집중 치료기를 최소 8개월로 함)
 
 {% hint style="info" %}
-**BPaL/BPaLM 요법 (최신 MDR/pre-XDR/XDR-TB 치료)**\
-WHO 2022 가이드라인 및 국내 최신 지침은 전처치가 없는 pre-XDR·XDR-TB 및 일부 MDR-TB에서 BPaL(Bedaquiline + Pretomanid + Linezolid) 또는 BPaLM(+ Moxifloxacin) 6\~9개월 요법을 권고한다. 기존 18\~20개월 요법에 비해 치료 기간을 단축하고 치료 성공률을 높인다. 반드시 전문가와 상의하여 처방한다 (ZeNix trial, TB-PRACTECAL trial 근거).
+**BPaL/BPaLM 요법 (최신 MDR/pre-XDR/XDR-TB 치료)** : WHO 2022 가이드라인 및 국내 최신 지침은 전처치가 없는 pre-XDR·XDR-TB 및 일부 MDR-TB에서 BPaL(Bedaquiline + Pretomanid + Linezolid) 또는 BPaLM(+ Moxifloxacin) 6\~9개월 요법을 권고함. 기존 18\~20개월 요법에 비해 치료 기간을 단축하고 치료 성공률을 높임. 반드시 전문가와 상의하여 처방
 {% endhint %}
 
 ### <mark style="color:orange;">특수 상황</mark>
@@ -757,7 +741,7 @@ WHO 2022 가이드라인 및 국내 최신 지침은 전처치가 없는 pre-XDR
 
 #### <mark style="color:$primary;">폐외 결핵</mark>
 
-<table><thead><tr><th width="220">부위</th><th width="200">치료 요법</th><th>비고</th></tr></thead><tbody><tr><td>결핵성 수막염</td><td>2HREZ/7~10HR(E)</td><td>사망·신경학적 후유증 위험 높음; 스테로이드 보조 요법 권고 (prednisolone 또는 dexamethasone, 초기 용량에서 6~8주에 걸쳐 점진적 감량)</td></tr><tr><td>결핵성 심낭염</td><td>2HREZ/4HR(E)</td><td>스테로이드 보조 요법 추가</td></tr><tr><td>결핵성 복막염, 장 결핵, 속립성 결핵, 비뇨생식기 결핵</td><td>2HREZ/4HR(E)</td><td>복막: 복강경 복막 생검으로 진단</td></tr><tr><td>결핵성 흉막염</td><td>2HREZ/4HR(E)</td><td>흉수 ADA >40 IU/L 의심 소견; 흉수 多·loculated 시 흉수 배액 고려</td></tr><tr><td>기관지 결핵</td><td>폐결핵 동일</td><td>기관지 협착 주의; 협착 위험 높으면 스테로이드 고려</td></tr><tr><td>림프절 결핵</td><td>2HREZ/4HR(E)</td><td>조직 검사 및 배양 시행; 적절한 치료에도 호전 없으면 제거</td></tr><tr><td>골·관절 결핵</td><td>6~9개월</td><td>약제 무반응·감염 진행·신경 손상 시 수술</td></tr></tbody></table>
+<table><thead><tr><th width="220">부위</th><th width="148">치료 요법</th><th>비고</th></tr></thead><tbody><tr><td>결핵성 수막염</td><td>2HREZ/7<br>~10HR(E)</td><td>사망·신경학적 후유증 위험 높음; 스테로이드 보조 요법 권고 (prednisolone 또는 dexamethasone, 초기 용량에서 6~8주에 걸쳐 점진적 감량)</td></tr><tr><td>결핵성 심낭염</td><td>2HREZ/4HR(E)</td><td>스테로이드 보조 요법 추가</td></tr><tr><td>결핵성 복막염, 장 결핵, 속립성 결핵, 비뇨생식기 결핵</td><td>2HREZ/4HR(E)</td><td>복막: 복강경 복막 생검으로 진단</td></tr><tr><td>결핵성 흉막염</td><td>2HREZ/4HR(E)</td><td>흉수 ADA >40 IU/L 의심 소견; 흉수 多·loculated 시 흉수 배액 고려</td></tr><tr><td>기관지 결핵</td><td>폐결핵 동일</td><td>기관지 협착 주의; 협착 위험 높으면 스테로이드 고려</td></tr><tr><td>림프절 결핵</td><td>2HREZ/4HR(E)</td><td>조직 검사 및 배양 시행; 적절한 치료에도 호전 없으면 제거</td></tr><tr><td>골·관절 결핵</td><td>6~9개월</td><td>약제 무반응·감염 진행·신경 손상 시 수술</td></tr></tbody></table>
 
 ***
 
