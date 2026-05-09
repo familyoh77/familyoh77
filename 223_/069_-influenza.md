@@ -1,11 +1,9 @@
 # 인플루엔자 Influenza
 
-![image](../.gitbook/assets/a0901081-9e40-4a85-8dd7-e7a106de0fd6.JPG)
-
 ## <mark style="color:green;">일반 사항</mark>
 
 * influenza 바이러스 감염에 의한, 갑자기 시작되는 전신 증상 및 호흡기 증상을 특징으로 하는 급성 호흡기 질환
-* 전염 경로 : 주로 **비말(droplet) 및 직간접 접촉 전파**; 밀폐된 공간이나 에어로졸 발생 시술 시에는 **에어로졸(airborne-like) 전파** 가능성 존재
+* 전염 경로 : 주로 비말(droplet) 및 직간접 접촉 전파; 밀폐된 공간이나 에어로졸 발생 시술 시에는 에어로졸(airborne-like) 전파 가능성 존재
 * 잠복기 : 1\~4일 (평균 2일)
 * 증상 기간 : 전신 증상(발열·근육통) 3\~7일; 기침·피로감은 1\~2주 지속 가능
 * 전염 기간 : 증상 발생 1\~2일 전 - 발생 후 5\~7일 (또는 발열 소멸 후 24시간); 면역저하자·소아에서는 연장 가능 (>10일)
@@ -15,18 +13,16 @@
 
 ### <mark style="color:orange;">합병증</mark>
 
-* **호흡기계** : 1차성 인플루엔자 폐렴, 2차성 세균성 폐렴 (*S. pneumoniae* 가장 흔함; *H. influenzae*, *S. aureus* necrotizing pneumonia 포함), 기관지염, 부비동염, 중이염, 기흉
-* **신경계** : 뇌염, 척수염, 길랭-바레증후군
-* **심장** : 심근염 (급성 악화 또는 급사 위험; 회복기에도 운동 제한 권고)
-* **기타** : 횡문근 융해증; 기저 심혈관 질환자에서 급성 심근경색(AMI) 트리거
+* 호흡기계 : 1차성 인플루엔자 폐렴, 2차성 세균성 폐렴 (_S. pneumoniae_ 가장 흔함; _H. influenzae_, _S. aureus_ necrotizing pneumonia 포함), 기관지염, 부비동염, 중이염, 기흉
+* 신경계 : 뇌염, 척수염, 길랭-바레증후군
+* 심장 : 심근염 (급성 악화 또는 급사 위험; 회복기에도 운동 제한 권고)
+* 기타 : 횡문근 융해증; 기저 심혈관 질환자에서 급성 심근경색(AMI) 트리거
 
 #### <mark style="color:$primary;">합병증 발병 고위험군</mark>
 
 * <5세 (특히 <2세), 고령 (≥65세), 임신 (특히 3분기), 출산 2주 이내 산모, 집단·밀집 거주
 * 기저 질환자 : 면역 저하, 악성 종양, 만성 폐/심/신/간 질환, 당뇨병, 대사 이상, 근육 질환, 뇌졸중, 발달 장애, 고도 비만
-* **최근 1년 이내 심혈관 사건(심근경색, 뇌졸중) 병력** - 인플루엔자가 AMI의 직접 트리거가 될 수 있음
-
-***
+* 최근 1년 이내 심혈관 사건(심근경색, 뇌졸중) 병력 - 인플루엔자가 AMI의 직접 트리거가 될 수 있음
 
 ## <mark style="color:green;">원인</mark>
 
@@ -37,60 +33,20 @@
 #### <mark style="color:$primary;">항원 대변이 (antigenic shift)</mark>
 
 * 바이러스 표면의 HA(hemagglutinin) 또는 NA(neuraminidase)가 새로운 아형으로 교체
-* 주로 A형에서 발생하며 **대유행(pandemic)** 유발
+* 주로 A형에서 발생하며 대유행(pandemic) 유발
 
 #### <mark style="color:$primary;">항원 소변이 (antigenic drift)</mark>
 
 * HA·NA에서의 소수 아미노산 변화로 인한 항원성 변화 (아형은 동일)
-* A형 및 B형 모두에서 발생하며 **소유행(epidemic)** 유발; 거의 매년 발생 → 매년 예방접종 필요
+* A형 및 B형 모두에서 발생하며 소유행(epidemic) 유발; 거의 매년 발생 → 매년 예방접종 필요
 
 {% hint style="danger" %}
-⚠️ **조류 인플루엔자(Avian Influenza) 의심 시 - 즉시 보건 당국 신고**
-
-다음에 해당하는 경우 조류 인플루엔자 감염을 의심하고 즉시 보건 당국에 신고:
-
-* 발열 + 호흡기 증상 발생 **10일 이내**에 **발생 지역 여행력** 또는 **가금류·야생조류 접촉력**이 있는 경우
-* H5N1, H7N9 등 인수공통 인플루엔자의 글로벌 발생이 지속되고 있음 (2024\~2025년 북미 H5N1 산발 감염 보고)
-{% endhint %}
-
-***
-
-## <mark style="color:green;">임상 양상</mark>
-
-* 고열 (38\~41℃, 3\~7일간), 오한, 두통, 근육통 - **갑작스러운 발병**이 특징
-* 기침 (nonproductive), 인후통, 콧물; 전형적 증상은 환자의 50%에서만 나타남
-* 소화기 증상 (주로 소아) : 구역/구토, 설사
-* **고령자 비전형적 증상** : 고열 없이 기력 저하·식욕 부진·섬망(delirium)만으로 내원하는 경우 多; 유행 시기에는 독감을 적극 의심할 것
-
-{% hint style="info" %}
-**외래 10초 진단 heuristic**
-
-**고열 + 심한 근육통 + 갑작스러운 발병** → 독감으로 추정하고 시작 (influenza until proven otherwise)\
-독감은 감기보다 **전신 질환**입니다 - 근육통·피로감이 호흡기 증상을 압도하는 것이 핵심 감별점
-{% endhint %}
-
-### <mark style="color:orange;">독감 vs 감기 감별</mark>
-
-<table><thead><tr><th width="150">증상</th><th width="230">독감 (인플루엔자)</th><th>감기 (일반 상기도감염)</th></tr></thead><tbody><tr><td>발열</td><td>흔함, 급성·고열 (38\~41℃)</td><td>± (미열)</td></tr><tr><td>기침</td><td>흔함, 심함</td><td>흔함</td></tr><tr><td>근육통</td><td>흔함, <strong>심함</strong></td><td>± 경미</td></tr><tr><td>두통</td><td>흔함</td><td>±</td></tr><tr><td>피로감</td><td><strong>중증</strong>, 초기부터</td><td>± 경증</td></tr><tr><td>인후통</td><td>±</td><td>흔함</td></tr><tr><td>코 막힘</td><td>±</td><td>흔함</td></tr><tr><td>재채기</td><td>±</td><td>흔함</td></tr><tr><td>발병 양상</td><td><strong>갑작스러움</strong> (수 시간 내)</td><td>서서히 (1\~3일)</td></tr></tbody></table>
-
-### <mark style="color:orange;">독감 vs 세균성 폐렴 vs COVID-19 감별</mark>
-
-<table><thead><tr><th width="155">특징</th><th width="210">인플루엔자</th><th width="195">세균성 폐렴</th><th>COVID-19</th></tr></thead><tbody><tr><td>발병 양상</td><td><strong>갑작스러움</strong> (수 시간~1일)</td><td>비교적 점진적</td><td>다양함 (점진적 흔함)</td></tr><tr><td>발열</td><td>흔함, 고열</td><td>흔함</td><td>다양함</td></tr><tr><td>근육통</td><td><strong>심함</strong> (특징적)</td><td>경미~중등도</td><td>중등도</td></tr><tr><td>피로감</td><td><strong>매우 심함</strong>, 초기부터</td><td>중등도</td><td>흔함</td></tr><tr><td>기침</td><td>흔함 (dry)</td><td>흔함</td><td>흔함</td></tr><tr><td>객담</td><td>보통 없음</td><td>흔함 (화농성)</td><td>±</td></tr><tr><td>호흡곤란</td><td>초기에는 드묾</td><td>흔함</td><td>중등도~흔함</td></tr><tr><td>청진</td><td>대개 정상</td><td>crackle, focal finding</td><td>정상~diffuse crackle</td></tr><tr><td>콧물/인후통</td><td>±</td><td>드묾</td><td>흔함</td></tr><tr><td>후각/미각 저하</td><td>드묾</td><td>없음</td><td>특징적 (초기 변이에서)</td></tr><tr><td>GI 증상</td><td>소아에서 흔함</td><td>드묾</td><td>비교적 흔함</td></tr><tr><td>핵심 단서</td><td>고열 + 심한 근육통 + 갑작스러운 발병</td><td>호흡곤란 + focal crackle + CXR 침윤</td><td>상기도 증상 + 노출력; 후각 저하</td></tr></tbody></table>
-
-{% hint style="danger" %}
-⚠️ **독감 후 세균성 폐렴 의심 신호 (Bacterial Superinfection)**
-
-초기 호전 → 재악화 + 아래 중 1개 이상 동반:
-
-* Persistent fever > 3\~5일 / 화농성 객담 증가 / pleuritic chest pain / focal crackle / 산소포화도 감소 또는 WBC 상승
-
-→ **CXR ± 세균 검사 ± 항생제 평가**\
-→ Empiric 항생제는 *S. pneumoniae*를 1차 표적으로, *S. aureus*(MRSA 포함) 중증 의심 시 coverage 확대 고려
+다음에 해당하는 경우 조류 인플루엔자(Avian Influenza) 감염을 의심하고 즉시 보건 당국에 신고 : '발열 + 호흡기 증상' 발생 10일 이내에 발생 지역 여행력 또는 가금류·야생조류 접촉력이 있음
 {% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
 
 * 호흡 곤란, 청색증 - 폐렴·호흡 부전 의심
 * 의식 변화 (혼돈, 섬망) 또는 경련
@@ -102,29 +58,44 @@
 * 흉부 압박감 또는 지속적 흉통
 * 지속적 구토로 경구 수분·약물 섭취 불가
 * 고위험군 (임신부, ≥65세, 면역저하자)에서 증상 악화 또는 호전 없음
-* **초기 호전 후 재악화 + 고열 지속 >3\~5일 + focal crackle** - 세균성 중복 감염 강력 의심
-* 회복기 중 운동 시 호흡 곤란·흉통·심계항진 → **심근염 의심; EKG + troponin 즉시 확인**
+* 초기 호전 후 재악화 + 고열 지속 >3\~5일 + focal crackle → 세균성 중복 감염
+* 회복기 중 운동 시 호흡 곤란·흉통·심계항진 → 심근염
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">외래 추적 / 추가 평가 계획</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 항바이러스제 투여 **48\~72시간** 후에도 발열이 전혀 호전되지 않는 경우 - 내성(H275Y 등) 또는 합병증 조기 재평가
-* 소아에서 환각·이상 행동 발생 - oseltamivir 부작용 vs. 뇌염 감별 필요
-* 해열 후 재발열 - 세균성 합병증 또는 2차 감염 의심
-* 독감 후 피로감·기침이 2주 이상 지속 - post-viral syndrome 또는 심근염 평가 고려
+* 항바이러스제 투여 48\~72시간 후에도 발열이 전혀 호전되지 않음
+* 소아에서 환각·이상 행동 발생 → oseltamivir 부작용,  뇌염
+* 해열 후 재발열 → 세균성 합병증, 2차 감염
+* 독감 후 피로감·기침이 2주 이상 지속 → post-viral syndrome, 심근염
 
-***
+## <mark style="color:green;">임상 양상</mark>
+
+* 고열 (38\~41℃, 3\~7일간), 오한, 두통, 근육통 - 갑작스러운 발병이 특징
+* 기침 (nonproductive), 인후통, 콧물; 전형적 증상은 환자의 50%에서만 나타남
+* 소화기 증상 (주로 소아) : 구역/구토, 설사
+* 고령자 비전형적 증상 : 고열 없이 기력 저하·식욕 부진·섬망(delirium)만으로 내원하는 경우 多; 유행 시기에는 독감을 적극 의심할 것
+
+**독감 후 세균성 폐렴 의심 신호 (Bacterial Superinfection)**
+
+* 초기 호전 → 재악화 + 아래 중 1개 이상 동반 : ⓵ Persistent fever > 3\~5일, ⓶ 화농성 객담 증가, ⓷ pleuritic chest pain, ⓸ focal crackle, ⓹ 산소포화도 감소 또는 WBC 상승
+* 조치 : CXR ± 세균 검사 ± 항생제 평가
+  * Empiric 항생제는 _S. pneumonia&#x65;_&#xB97C; 1차 표적으로, _S. aureus_(MRSA 포함) 중증 의심 시 coverage 확대 고려
+
+#### <mark style="color:$primary;">독감 vs 감기 임상 양상</mark>
+
+<table><thead><tr><th width="150">증상</th><th width="230">독감 (인플루엔자)</th><th>감기 (일반 상기도감염)</th></tr></thead><tbody><tr><td>발열</td><td>흔함, 급성·고열 (38\~41℃)</td><td>± (미열)</td></tr><tr><td>기침</td><td>흔함, 심함</td><td>흔함</td></tr><tr><td>근육통</td><td>흔함, <strong>심함</strong></td><td>± 경미</td></tr><tr><td>두통</td><td>흔함</td><td>±</td></tr><tr><td>피로감</td><td><strong>중증</strong>, 초기부터</td><td>± 경증</td></tr><tr><td>인후통</td><td>±</td><td>흔함</td></tr><tr><td>코 막힘</td><td>±</td><td>흔함</td></tr><tr><td>재채기</td><td>±</td><td>흔함</td></tr><tr><td>발병 양상</td><td><strong>갑작스러움</strong> (수 시간~1일)</td><td>서서히 (1~3일)</td></tr></tbody></table>
+
+* 독감은 감기보다 전신 증상이 강하며, 근육통·피로감이 호흡기 증상을 압도함
+
+#### <mark style="color:$primary;">독감 vs 세균성 폐렴 vs COVID-19 임상 양상</mark>
+
+<table><thead><tr><th width="137.631591796875">특징</th><th>인플루엔자</th><th>세균성 폐렴</th><th>COVID-19</th></tr></thead><tbody><tr><td>발병 양상</td><td><strong>급성</strong> (수 시간~1일)</td><td>비교적 점진적</td><td>다양함 (점진적 흔함)</td></tr><tr><td>발열</td><td>흔함, 고열</td><td>흔함</td><td>다양함</td></tr><tr><td>근육통</td><td><strong>심함</strong> (특징적)</td><td>경미~중등도</td><td>중등도</td></tr><tr><td>피로감</td><td><strong>매우 심함</strong>, 초기부터</td><td>중등도</td><td>흔함</td></tr><tr><td>기침</td><td>흔함 (dry)</td><td>흔함</td><td>흔함</td></tr><tr><td>객담</td><td>보통 없음</td><td>흔함 (화농성)</td><td>±</td></tr><tr><td>호흡곤란</td><td>초기에는 드묾</td><td>흔함</td><td>중등도~흔함</td></tr><tr><td>청진</td><td>대개 정상</td><td>crackle, focal finding</td><td>정상~diffuse crackle</td></tr><tr><td>콧물/인후통</td><td>±</td><td>드묾</td><td>흔함</td></tr><tr><td>후각/미각 저하</td><td>드묾</td><td>없음</td><td>특징적 (초기 변이에서)</td></tr><tr><td>GI 증상</td><td>소아에서 흔함</td><td>드묾</td><td>비교적 흔함</td></tr><tr><td>핵심 단서</td><td>고열 + 심한 근육통 + 갑작스러운 발병</td><td>호흡곤란 + focal crackle + CXR 침윤</td><td>상기도 증상 + 노출력; 후각 저하</td></tr></tbody></table>
 
 ## <mark style="color:green;">진단</mark>
 
-* 유행 시기에는 임상 양상만으로 진단 가능
-* **코로나19·독감 동시 유행기**에는 콤보 신속 항원 검사 (COVID-19 + 인플루엔자 A/B) 사용 권장
-* 소아·고령자에서는 **RSV와의 감별**도 고려 (multiplex PCR 유용)
-
-{% hint style="info" %}
-**RAT 음성이어도 치료를 시작해야 하는 경우**
-
-고위험군 또는 임상적으로 독감이 강력히 의심되는 경우 → RAT 음성이더라도 항바이러스제 치료 즉시 시작; 검사 결과를 기다리지 않는다
-{% endhint %}
+* 유행 시기에는 임상 양상만으로 진단 가능; 유행 시기에 고열 + 심한 근육통 + 갑작스러운 발병 시 독감으로 추정(influenza until proven otherwise)
+* 코로나19·독감 동시 유행기에는 콤보 신속 항원 검사 (COVID-19 + 인플루엔자 A/B) 사용 권장
+* 소아·고령자에서는 RSV와의 감별도 고려 (multiplex PCR 유용)
 
 ### <mark style="color:orange;">인플루엔자의사환자 정의</mark> <mark style="color:orange;">\[인플루엔자 표본 감시 기준]</mark>
 
@@ -135,6 +106,12 @@
 
 {% hint style="info" %}
 급성 고열 + 기침의 양성 예측률 ≈85%; 기침이 없으면 독감 가능성이 낮음
+{% endhint %}
+
+{% hint style="info" %}
+**RAT 음성이어도 치료를 시작해야 하는 경우**
+
+고위험군 또는 임상적으로 독감이 강력히 의심되는 경우 → RAT 음성이더라도 항바이러스제 치료 즉시 시작; 검사 결과를 기다리지 않는다
 {% endhint %}
 
 ### <mark style="color:orange;">검사</mark>
@@ -205,18 +182,16 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
-**항바이러스제 투여 3단계 decision**
+**항바이러스제 투여 ㄱ**
 
-**즉시 투여 권장** - 고위험군 (≥65세, <5세, 임신부, 면역저하, 만성 질환, 최근 심혈관 사건), 중증(severe)·악화 경과, 입원 환자\
-→ 검사 결과·발병 시점에 무관하게 즉시 시작; **입원·중증 환자는 48시간 초과 시에도 효과 있음**
+1. **즉시 투여 권장** - 고위험군 (≥65세, <5세, 임신부, 면역저하, 만성 질환, 최근 심혈관 사건), 중증(severe)·악화 경과, 입원 환자\
+   → 검사 결과·발병 시점에 무관하게 즉시 시작; **입원·중증 환자는 48시간 초과 시에도 효과 있음**
+2. **선택적 투여 가능** - 비고위험군 + 증상 발생 <48시간 + 증상이 뚜렷하거나 환자 선호 높음\
+   → shared decision; 질병 기간 약 1일 단축; 국내 보험 급여 기준 확인 필요
+3. **투여 불필요** - 비고위험군 + 합병증 없는 경증(mild) + 증상 발생 >48시간 또는 회복 단계\
+   → 대증치료만 \[NICE, IDSA, WHO 2024]
 
-**선택적 투여 가능** - 비고위험군 + 증상 발생 <48시간 + 증상이 뚜렷하거나 환자 선호 높음\
-→ shared decision; 질병 기간 약 1일 단축; 국내 보험 급여 기준 확인 필요
-
-**투여 불필요** - 비고위험군 + 합병증 없는 경증(mild) + 증상 발생 >48시간 또는 회복 단계\
-→ 대증치료만 \[NICE, IDSA, WHO 2024]
-{% endhint %}
+**RAT 음성이어도 치료를 시작해야 하는 경우 :** 고위험군 또는 임상적으로 독감이 강력히 의심되는 경우에는 AT 음성이더라도 항바이러스제 치료 즉시 시작; 검사 결과를 기다리지&#x20;
 
 ***
 
@@ -235,7 +210,7 @@ graph TD
 
 ### <mark style="color:orange;">대증 치료</mark>
 
-<table><thead><tr><th width="155">증상</th><th width="265">약제 선택</th><th>주의사항</th></tr></thead><tbody><tr><td>발열·근육통·두통</td><td>아세트아미노펜 (1차)<br/>NSAID (중등도 이상)</td><td>⚠ <strong>18세 미만 : 아스피린 금기</strong> (Reye 증후군)<br/>고령·신기능 저하 : NSAID 주의 (탈수 동반 시 AKI 위험)</td></tr><tr><td>기침 (dry/nonproductive)</td><td>덱스트로메토르판, 레보드로프로피진</td><td>화농성 객담 있는 경우 과도한 진해 억제 피함<br/>독감 후 기침은 1\~3주 지속 가능</td></tr><tr><td>인후통</td><td>트로키(lozenge), 생리식염수 가글 (경증)<br/>아세트아미노펜 또는 NSAID (중등도)</td><td>-</td></tr><tr><td>콧물 (수양성)</td><td>항히스타민제</td><td>고령자 : 항콜린 부작용 (요폐, 인지 저하) 주의</td></tr><tr><td>코막힘</td><td>국소 비충혈완화제 (3일 이내)</td><td>3일 초과 연속 사용 시 반동성 비염 위험</td></tr><tr><td>구역·구토</td><td>식후 복용 (oseltamivir 관련 예방)<br/>위장관 운동 촉진제 (예: mosapride)</td><td>지속 시 탈수 평가; 경구 불가 → peramivir IV 고려</td></tr></tbody></table>
+<table><thead><tr><th width="155">증상</th><th width="265">약제 선택</th><th>주의사항</th></tr></thead><tbody><tr><td>발열·근육통·두통</td><td>아세트아미노펜 (1차)<br>NSAID (중등도 이상)</td><td>⚠ <strong>18세 미만 : 아스피린 금기</strong> (Reye 증후군)<br>고령·신기능 저하 : NSAID 주의 (탈수 동반 시 AKI 위험)</td></tr><tr><td>기침 (dry/nonproductive)</td><td>덱스트로메토르판, 레보드로프로피진</td><td>화농성 객담 있는 경우 과도한 진해 억제 피함<br>독감 후 기침은 1\~3주 지속 가능</td></tr><tr><td>인후통</td><td>트로키(lozenge), 생리식염수 가글 (경증)<br>아세트아미노펜 또는 NSAID (중등도)</td><td>-</td></tr><tr><td>콧물 (수양성)</td><td>항히스타민제</td><td>고령자 : 항콜린 부작용 (요폐, 인지 저하) 주의</td></tr><tr><td>코막힘</td><td>국소 비충혈완화제 (3일 이내)</td><td>3일 초과 연속 사용 시 반동성 비염 위험</td></tr><tr><td>구역·구토</td><td>식후 복용 (oseltamivir 관련 예방)<br>위장관 운동 촉진제 (예: mosapride)</td><td>지속 시 탈수 평가; 경구 불가 → peramivir IV 고려</td></tr></tbody></table>
 
 * **항생제** : 세균성 중복 감염 (광범위 폐렴, 호흡 부전, 저혈압, 초기 호전 후 악화)이 의심되는 경우에 한하여 사용 (☞ p.308); 인플루엔자 단독 감염에 대한 예방적 항생제는 권고하지 않음
 
@@ -277,7 +252,7 @@ graph TD
   * 환각이 약의 부작용인지 뇌염 증상인지 논란이 있음; 처방 시 보호자에게 창문·문 잠금 등 주의 관찰 지도 필요
 * **신 기능 저하 시 용량 조절**
 
-<table><thead><tr><th width="240">신기능</th><th>치료 용량</th><th>예방 용량</th></tr></thead><tbody><tr><td>CrCl 30\~60 ㎖/분</td><td>30 ㎎ bid</td><td>30 ㎎ qd</td></tr><tr><td>CrCl 10\~30 ㎖/분</td><td>30 ㎎ qd</td><td>30 ㎎ qod</td></tr><tr><td>CrCl <10 ㎖/분 (ESRD)</td><td>30 ㎎ 단회 또는 주치의 판단</td><td>30 ㎎ qod</td></tr><tr><td>혈액투석 환자 (HD)</td><td>투석 후 30 ㎎ (투석 세션당 1회)</td><td>주 1회 투석 후 30 ㎎</td></tr></tbody></table>
+<table><thead><tr><th width="240">신기능</th><th>치료 용량</th><th>예방 용량</th></tr></thead><tbody><tr><td>CrCl 30\~60 ㎖/분</td><td>30 ㎎ bid</td><td>30 ㎎ qd</td></tr><tr><td>CrCl 10\~30 ㎖/분</td><td>30 ㎎ qd</td><td>30 ㎎ qod</td></tr><tr><td>CrCl &#x3C;10 ㎖/분 (ESRD)</td><td>30 ㎎ 단회 또는 주치의 판단</td><td>30 ㎎ qod</td></tr><tr><td>혈액투석 환자 (HD)</td><td>투석 후 30 ㎎ (투석 세션당 1회)</td><td>주 1회 투석 후 30 ㎎</td></tr></tbody></table>
 
 * **임신부** : 미국 pregnancy category C (호주 B1); 위험·이득을 고려하여 투여 가능
 * **영아** : 생후 <2주 만삭아 또는 <1세 미숙아 → 위험·이득을 고려하여 투여 가능
@@ -303,12 +278,12 @@ graph TD
 
 * 치료 중 **PA I38 mutation** 발생 시 내성 획득 및 바이러스 **rebound** 가능; **A/H3N2형**에서 특히 빈번하며, **소아**에서 발생률이 높음
 * 소아 투여 후 48\~72시간 내 임상 호전이 없으면 **oseltamivir로 교체 또는 병용**을 고려
-* 중증 환자에서 neuraminidase inhibitor + baloxavir **병용 요법은 RCT 근거 불충분** → 중증에서는 **oseltamivir 단독(최대 10일)**을 우선
+* 중증 환자에서 neuraminidase inhibitor + baloxavir **병용 요법은 RCT 근거 불충분** → 중증에서는 \*\*oseltamivir 단독(최대 10일)\*\*을 우선
 {% endhint %}
 
 **Baloxavir vs Oseltamivir 선택 기준**
 
-<table><thead><tr><th width="290">상황</th><th>권장 선택</th></tr></thead><tbody><tr><td>복약 순응도 우려 (단회 투여 선호)</td><td>Baloxavir</td></tr><tr><td>빠른 바이러스 배출 중단 필요 (집단 생활자, 집단 발병)</td><td>Baloxavir</td></tr><tr><td>인플루엔자 B형 감염</td><td>Baloxavir (oseltamivir 대비 ~1일 추가 단축)</td></tr><tr><td>고위험군, 중증(severe), 입원 환자</td><td>Oseltamivir</td></tr><tr><td>소아 (<12세), 임신부</td><td>Oseltamivir</td></tr><tr><td>면역저하자</td><td>Oseltamivir (baloxavir 단독 시 내성·rebound 위험)</td></tr></tbody></table>
+<table><thead><tr><th width="290">상황</th><th>권장 선택</th></tr></thead><tbody><tr><td>복약 순응도 우려 (단회 투여 선호)</td><td>Baloxavir</td></tr><tr><td>빠른 바이러스 배출 중단 필요 (집단 생활자, 집단 발병)</td><td>Baloxavir</td></tr><tr><td>인플루엔자 B형 감염</td><td>Baloxavir (oseltamivir 대비 ~1일 추가 단축)</td></tr><tr><td>고위험군, 중증(severe), 입원 환자</td><td>Oseltamivir</td></tr><tr><td>소아 (&#x3C;12세), 임신부</td><td>Oseltamivir</td></tr><tr><td>면역저하자</td><td>Oseltamivir (baloxavir 단독 시 내성·rebound 위험)</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Peramivir</mark>
 
@@ -345,7 +320,7 @@ graph TD
 
 **Oseltamivir** (국내 ≥1세, CDC ≥3개월 승인):
 
-<table><thead><tr><th width="240">연령/체중</th><th>예방 용량 (1회, qd)</th></tr></thead><tbody><tr><td>3개월\~<1세</td><td>3 ㎎/㎏</td></tr><tr><td>1\~12세, ≤15 ㎏</td><td>30 ㎎</td></tr><tr><td>1\~12세, >15\~23 ㎏</td><td>45 ㎎</td></tr><tr><td>1\~12세, >23\~40 ㎏</td><td>60 ㎎</td></tr><tr><td>1\~12세, >40 ㎏</td><td>75 ㎎</td></tr><tr><td>≥13세</td><td>75 ㎎</td></tr></tbody></table>
+<table><thead><tr><th width="240">연령/체중</th><th>예방 용량 (1회, qd)</th></tr></thead><tbody><tr><td>3개월\~&#x3C;1세</td><td>3 ㎎/㎏</td></tr><tr><td>1\~12세, ≤15 ㎏</td><td>30 ㎎</td></tr><tr><td>1\~12세, >15\~23 ㎏</td><td>45 ㎎</td></tr><tr><td>1\~12세, >23\~40 ㎏</td><td>60 ㎎</td></tr><tr><td>1\~12세, >40 ㎏</td><td>75 ㎎</td></tr><tr><td>≥13세</td><td>75 ㎎</td></tr></tbody></table>
 
 신 기능 저하 시 감량 : CrCl 30\~60 ㎖/분 → 30 ㎎ qd; CrCl 10\~30 ㎖/분 → 30 ㎎ qod
 
@@ -407,7 +382,7 @@ J11 바이러스가 확인되지 않은 인플루엔자
 > ```
 >
 > _✽체중별 용량: >15\~23 ㎏ → 45 ㎎ bid. 현탁액 조제 후 냉장 보관, 10일 이내 사용._\
-> _✽소아에서 환각·이상 행동 발생 시 즉시 내원하도록 보호자에게 설명. **아스피린 성분 제제는 18세 미만 금기 (Reye 증후군).**_
+> &#xNAN;_✽소아에서 환각·이상 행동 발생 시 즉시 내원하도록 보호자에게 설명. **아스피린 성분 제제는 18세 미만 금기 (Reye 증후군).**_
 
 > **처방례 3. Baloxavir 단회 투여 (인플루엔자 B형 또는 단회 복용 선호 성인)**
 >
@@ -417,8 +392,8 @@ J11 바이러스가 확인되지 않은 인플루엔자
 > ```
 >
 > _✽증상 발생 48시간 이내 복용해야 효과적. 인플루엔자 B형에서 oseltamivir 대비 약 1일 이상 추가 회복 효과._\
-> _✽칼슘 보충제·제산제·유제품 등과 동시 복용 시 흡수 감소 - 2시간 전후 회피._\
-> _✽소아·면역저하자에서는 내성(PA I38, 특히 A/H3N2) 및 viral rebound 가능 - 48\~72시간 내 호전 없으면 oseltamivir 교체 고려._
+> &#xNAN;_✽칼슘 보충제·제산제·유제품 등과 동시 복용 시 흡수 감소 - 2시간 전후 회피._\
+> &#xNAN;_✽소아·면역저하자에서는 내성(PA I38, 특히 A/H3N2) 및 viral rebound 가능 - 48\~72시간 내 호전 없으면 oseltamivir 교체 고려._
 
 > **처방례 4. 접촉자 예방 - 성인 (고위험군, 노출 후 48시간 이내)**
 >
@@ -427,7 +402,7 @@ J11 바이러스가 확인되지 않은 인플루엔자
 > ```
 >
 > _✽장기 요양 시설 유행 발생 시 마지막 환자 발생 후 10\~14일까지 투여 연장._\
-> _✽백신 미접종자 → 예방약 시작과 동시에 백신 접종; 단 생백신 시 14일 간격 필요._
+> &#xNAN;_✽백신 미접종자 → 예방약 시작과 동시에 백신 접종; 단 생백신 시 14일 간격 필요._
 
 > **처방례 5. 접촉자 예방 - 소아 (체중 15 ㎏ 이하, ≥1세)**
 >
