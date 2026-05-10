@@ -132,38 +132,6 @@ SABD = short-acting bronchodilator
 
 ***
 
-```mermaid
-graph TD
-    Diagnosis["<b>[Diagnosis]</b><br/>•증상<br/>•위험 인자<br/>•spirometry (경계치 시 재검)"]
-    
-    Assessment["<b>[Initial Assessment]</b><br/>•GOLD ABE 평가<br/>(FEV₁, 증상, 악화 병력)<br/>•혈중 호산구 수치<br/>•α1-antitrypsin<br/>•동반 질환"]
-    
-    Management["<b>[Initial Management]</b><br/>•금연<br/>•예방접종<br/>•활동적 생활 습관 및 운동<br/>•초기 약물 치료<br/>•자가 관리 교육<br/>•동반 질환 관리"]
-    
-    Review["<b>[Review]</b><br/>•증상 (CAT or mMRC)<br/>•악화<br/>•흡연 상태<br/>•다른 위험 인자 노출<br/>•흡입제 사용법 및 순응도<br/>•육체적 활동 및 운동<br/>•폐 재활 치료 필요성<br/>•자가 관리 기술<br/>•산소, NIV, 폐용적 감소 등<br/>•예방접종<br/>•동반 질환 관리<br/>•Spirometry (최소 매년)"]
-    
-    Adjust["<b>[Adjust]</b><br/>•약물 치료<br/>•비-약물 치료"]
-
-    Diagnosis --> Assessment
-    Assessment --> Management
-    Management --> Review
-    Review --> Management
-    Review --> Adjust
-    Adjust --> Review
-
-    style Diagnosis fill:#fce4ec,stroke:#f8bbd0
-    style Assessment fill:#e8f5e9,stroke:#c8e6c9
-    style Management fill:#e1f5fe,stroke:#b3e5fc
-    style Review fill:#fffde7,stroke:#fff9c4
-    style Adjust fill:#e1f5fe,stroke:#b3e5fc
-```
-
-<p align="center"><strong>COPD Management Cycle</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. GOLD 2025, Fig 3.2</mark></em></p>
-
-***
-
 ## <mark style="background-color:$warning;">Management</mark>
 
 * 동반 질환 관리
@@ -172,6 +140,14 @@ graph TD
 * 혈중 산소 농도 저하 시 (SaO2 ＜88%) O2 공급 (목표 SaO2 ≥90%)
 * 폐쇄수면무호흡 동반 시 지속양압(CPAP) 치료
 * 자가 관리 교육 : 위험 인자 관리, 흡입제 사용 교육, 급성 악화 시 대응 요령
+
+**COPD Management Cycle**
+
+1. Diagnosis : 증상, 위험 인자, spirometry (경계치 시 재검)
+2. Initial Assessment : GOLD ABE 평가(FEV₁, 증상, 악화 병력), 혈중 호산구 수치, α1-antitrypsin, 동반 질환
+3. Initial Management : 금연, 예방접종, 활동적 생활 습관 및 운동, 초기 약물 치료, 자가 관리 교육, 동반 질환 관리
+4. Review : 증상(CAT or mMRC), 악화, 흡연 상태, 다른 위험 인자 노출, 흡입제 사용법 및 순응도, 육체적 활동 및 운동, 폐 재활 치료 필요성, 자가 관리 기술, 산소, NIV, 폐용적 감소 등, 예방접종, 동반 질환 관리, Spirometry (최소 매년)
+5. Adjust : 약물 치료, 비-약물 치료
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -337,27 +313,25 @@ D0[DYSPNEA] --> D1[LABA or LAMA]
 
 %% EXACERBATION pathway
 E0[EXACERBATION] --> E1[LABA or LAMA]
-    E1 -- "if eos ≥ 300" --> E3["LABA+LAMA+ICS¹⁾"]
-    E1 -- "if eos < 300" --> E2["LABA+LAMA¹⁾"]
-    
-    E2 -- "if eos ≥ 100" --> E3
-    E3 -- "2)" --> E2
-    
-    E2 -- "if eos < 100" --> E4{ }
+E2 -- "if eos ≥100" --> E3
+      E1 -- "if eos ≥300" --> E3["LABA+LAMA+ICS¹⁾"]
+    E1 -- "if eos <300" --> E2["LABA+LAMA¹⁾"]
+    E2 -- "if eos <100" --> E4{ }
     E3 --> E4
-    
-    E4 --> E5["Roflumilast<br/>(FEV₁ < 50 &<br/>chronic bronchitis)"]
-    E4 --> E6["Azithromycin<br/>(과거 흡연자에서<br/>우선적으로)"]
+    E3 -- "if eos ≥300"--> E7[<u>Dupilumab</u><br/>chronic bronchitis]
+    E4 --> E5["<u>Roflumilast</u><br/>(FEV₁ < 50 &<br/>chronic bronchitis)"]
+    E4 --> E6["<u>Azithromycin</u><br/>(과거 흡연자에서<br/>우선적으로)"]
 
 style D1 fill:#fff,stroke:#ddd
 style D2 fill:#fff,stroke:#ddd
 style E1 fill:#fff,stroke:#ddd
 style E2 fill:#fff,stroke:#ddd
 style E3 fill:#fff,stroke:#ddd
-style E5 fill:#fff,stroke:#ddd
-style E6 fill:#fff,stroke:#ddd
 style E4 fill:none,stroke:none
-
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class E5,E6,E7 sky
+style D0 fill:#eeeeee,stroke:#888888,stroke-width:2px
+style E0 fill:#ff7575,stroke:#c62828,stroke-width:2px
 linkStyle 6 stroke:green,stroke-width:2px;
 ```
 
@@ -367,8 +341,7 @@ linkStyle 6 stroke:green,stroke-width:2px;
 
 eos = blood eosinophil count (cells/μL)
 
-1\) single inhaler 권고\
-2\) 폐렴 또는 다른 고려할만한 부작용이 있는 경우 ICS의 단계적 감량 고려; eos ≥300 시 단계적 감량은 악화 발생과 관련될 수 있음
+¹⁾single inhaler 권고
 
 ## <mark style="color:green;">악화 관리 (Exacerbation)</mark>
 
