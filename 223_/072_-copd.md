@@ -243,7 +243,7 @@ SABD = short-acting bronchodilator
 * 흡입 기관지 확장제 : 증상 치료의 중심; 증상 예방 및 완화를 위하여 규칙적으로 투여
 * 간헐적 호흡 곤란만 있는 환자를 제외하고는 속효성 제제보다 지속성 제제를 선호
 * SABA, SAMA : 규칙적 &/or 필요시 사용; FEV1 및 증상 완화 효과
-  * 응급 약제로는 SABA를 선택 (보험기준 ☞ p.1181)
+  * 응급 약제로는 SABA를 선택 (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220301\&sno=6\&mtgMtrRegSno=0006))
   * SABA & SAMA 병용 시 각각의 단독 사용보다 효과적
 * LABA, LAMA : 폐 기능, 호흡 곤란, 건강 상태 개선 및 악화 빈도 감소에 유효
   * LABA보다 LAMA가 악화 감소에 효과적 (Group E에서 LAMA 우선 권고)
@@ -262,7 +262,7 @@ SABD = short-acting bronchodilator
 #### <mark style="color:$primary;">β2-작용제</mark>
 
 * 임상 증상은 호전시키나 폐 기능 악화 지연 또는 사망률 감소 효과는 입증 안 됨
-* 부작용 : **빈맥**, 떨림, 저칼륨혈증
+* 부작용 : 빈맥, 떨림, 저칼륨혈증
 * SABA : fenoterol <mark style="color:blue;">\[베로텍]</mark>, salbutamol <mark style="color:blue;">\[벤토린 에보할러]</mark>, terbutaline <mark style="color:blue;">\[베타투]</mark>
 * LABA : \[bid] formoterol <mark style="color:blue;">\[아토크]</mark>, salmeterol; \[qd] indacaterol, olodaterol, vilanterol
 
@@ -289,7 +289,7 @@ SABD = short-acting bronchodilator
 * stable COPD에서 기관지 확장 효과는 제한적이며 독성 위험 때문에 routine use는 권고되지 않음
 * 부작용 : 용량에 따른 독성(유효 농도와 독성 농도의 차이가 적음); 구역, 구토, 설사, 불면, 흥분, 떨림, 두통, 부정맥, 발작
 * 적용 : 다른 모든 제제를 사용하기 어렵거나 효과가 없는 경우에 한하여 마지막 수단으로 선택
-* theophylline 200 ㎎ bid, (필요시) 1~~2주 후 100~~200 ㎎ 증량 <mark style="color:blue;">\[테올란 비]</mark>
+* theophylline 200 ㎎ bid, (필요시) 1\~2주 후 100\~200 ㎎ 증량 <mark style="color:blue;">\[테올란 비]</mark>
   * 감량 : 간/신 장애, ＞55세, CHF
   * 치료 범위 : 8\~13 ㎍/㎖; 용량 조절 후 매 6\~12개월마다 레벨 체크
 
@@ -298,10 +298,10 @@ SABD = short-acting bronchodilator
 #### <mark style="color:$primary;">흡입 Steroid (ICS)</mark>
 
 {% hint style="info" %}
-**COPD에서 ICS의 위상** : GOLD 2025에서 ICS+LABA 단독 조합은 COPD 단독 환자에서 LABA+LAMA에 비해 우선 권고되지 않음. ICS는 아래 적응증이 있는 환자에서 Triple therapy(LABA+LAMA+ICS) 형태로 사용하는 것이 원칙이며, ICS+LABA 조합은 천식 동반(asthma overlap) 환자 또는 기존 ICS+LABA로 안정 유지 중인 환자에서만 지속 가능
+**COPD에서 ICS의 위상** : GOLD 2025에서 ICS+LABA 단독 조합은 COPD 단독 환자에서 LABA+LAMA에 비해 우선 권고되지 않음. ICS는 적응증이 있는 환자에서 Triple therapy(LABA+LAMA+ICS) 형태로 사용하는 것이 원칙이며, ICS+LABA 조합은 천식 동반(asthma overlap) 환자 또는 기존 ICS+LABA로 안정 유지 중인 환자에서만 지속 가능
 {% endhint %}
 
-* ICS 적용 권고 : LABA 사용에도 불구하고 COPD 악화로 입원 병력 또는 ≥2회/1년 악화, 혈중 eosinophil ≥300 cells/μL, 천식 동반
+* ICS 적용대상 : LABA 사용에도 불구하고 COPD 악화로 입원 병력 또는 ≥2회/1년 악화, 혈중 eosinophil ≥300 cells/μL, 천식 동반
   * ICS 반응은 eos ＞150 시 나타나기 시작하며 가장 좋은 반응은 ≥300에서 나타남
 * ICS 적용 고려 : LABA 사용에도 불구하고 ≥1회/1년 악화, eosinophil 100\~299 cells/μL
 * ICS 적용 안 함 : 반복되는 폐렴, eosinophil ＜100 cells/μL, mycobacterial 감염 병력
@@ -311,53 +311,48 @@ SABD = short-acting bronchodilator
   * ICS 사용 중 폐렴이 반복되거나 mycobacterial 감염이 발생한 경우
   * 단, eos ≥300인 환자에서 ICS를 중단하면 악화 위험이 증가할 수 있으므로 신중히 결정한다.
 
-{% hint style="info" %}
-
-{% endhint %}
-
 <table><thead><tr><th width="250">성분명 [상품명]</th><th width="200">흡입제</th><th>네불라이저 용액</th></tr></thead><tbody><tr><td>budesonide <mark style="color:blue;">[풀미코트]</mark></td><td>200 μg/puff bid</td><td>0.5 mg/2 mL/A bid</td></tr><tr><td>fluticasone <mark style="color:blue;">[후릭소타이드]</mark></td><td>100, 250 μg/puff bid</td><td>0.5 or 2 mg/2 mL/A bid</td></tr><tr><td>ciclesonide <mark style="color:blue;">[알베스코]</mark></td><td>80, 160 μg/puff qd</td><td>—</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">ICS+LABA 흡입 복합제</mark>
 
 * 천식 동반 환자 또는 기존 ICS+LABA로 안정 유지 중인 환자에서 지속 가능; 신규 COPD 단독 환자에서는 LABA+LAMA를 우선 고려
+* 증상에 따라 경감할 수 있으며, 용량에 따라 분무 횟수를 조절할 수 있음
 
 <table><thead><tr><th width="230">성분명</th><th width="330">상품명 [제형, 단위 μg]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / salmeterol</td><td><mark style="color:blue;">[세레타이드 디스커스]</mark> 100/50, 250/50, 500/50</td><td>1 puff bid</td></tr><tr><td></td><td><mark style="color:blue;">[세레타이드 에보할러]</mark> 50(45/21), 125(115/21), 250(230/21)</td><td>2 puffs bid</td></tr><tr><td>fluticasone / vilanterol</td><td><mark style="color:blue;">[렐바 엘립타]</mark> 100/25, 200/25</td><td>1 puff qd</td></tr><tr><td>fluticasone / formoterol</td><td><mark style="color:blue;">[플루티폼 MDI]</mark> 50/5, 125/5, 250/10</td><td>2 puffs bid</td></tr><tr><td>budesonide / formoterol</td><td><mark style="color:blue;">[심비코트 터부할러]</mark> 80/4.5, 160/4.5, 320/9</td><td>1~2 puffs bid</td></tr><tr><td>beclomethasone / formoterol</td><td><mark style="color:blue;">[포스터 MDI/DPI]</mark> 100/6</td><td>2 puffs bid</td></tr></tbody></table>
-
-* 증상에 따라 경감할 수 있으며, 용량에 따라 분무 횟수를 조절할 수 있음
 
 #### <mark style="color:$primary;">LABA+LAMA+ICS (Triple Therapy)</mark>
 
 * ICS 적응증이 있는 환자에서 현재 COPD 약물 치료의 최적 병용 요법 (보험 주의)
 * ETHOS, IMPACT 연구에서 중증 악화 병력이 있는 환자에서 LAMA+LABA 대비 Triple therapy가 사망률 감소 효과를 보였음 - Group E에서 특히 근거 있음
 
-<table><thead><tr><th width="522.3529663085938">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg/puff qd</td></tr><tr><td>mometasone / glycopyrronium / indacaterol <mark style="color:blue;">[에너져어 흡입용캡슐]</mark> ²⁾</td><td>160/50/150 1C qd</td></tr><tr><td>budesonide / formoterol / glycopyrrolate <mark style="color:blue;">[브리즈트리 에어로스피어]</mark></td><td>320/9/14.4 μg 2 puffs bid</td></tr></tbody></table>
+<table><thead><tr><th width="522.3529663085938">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg/puff qd</td></tr><tr><td>mometasone / glycopyrronium / indacaterol <mark style="color:blue;">[에너제어 흡입용캡슐]</mark> ²⁾</td><td>160/50/150 1C qd</td></tr><tr><td>budesonide / formoterol / glycopyrrolate <mark style="color:blue;">[브리즈트리 에어로스피어]</mark></td><td>320/9/14.4 μg 2 puffs bid</td></tr></tbody></table>
 
 ¹⁾트렐리지 엘립타 : 100/62.5/25 μg이 COPD 적응 용량; 200/62.5/25 μg은 천식 전용\
-²⁾에너져어 흡입용캡슐 : 국내 천식으로 허가된 약제; COPD 사용 시 보험 급여 불가 및 적응증 외 사용에 해당함에 유의
+²⁾에너제어 흡입용캡슐 : 천식 허가; COPD 사용 시 보험 급여 불가 및 적응증 외 사용에 해당함에 유의
 
 #### <mark style="color:$primary;">전신 Steroid</mark>
 
 * 장기(＞2주) 지속 사용에 대한 유익성은 불분명하며 부작용을 고려하여 단기간 제한적 사용
-* prednisolone 5 ㎎ : 3\~6T/d <mark style="color:blue;">\[소론도]</mark>
+* prednisolone : 5 ㎎ 3\~6T/d <mark style="color:blue;">\[소론도]</mark>
 
 ### <mark style="color:orange;">Phosphodiesterase-4 억제제 (PDE4i)</mark>
 
 * cAMP의 대사 억제 → 세포 내 cAMP 농도↑ → 항염증 효과, eosinophil 이동 및 화학 주성 억제 → FEV1 개선, 악화 감소
 * 적용 : 중증의 기류 제한 + 만성 기관지염 + 악화 시; LABA ± ICS에 추가 고려
 * 부작용 : 설사, 구역, 복통, 식욕 감퇴, 두통, 체중 감소
-* roflumilast 0.5 ㎎ qd <mark style="color:blue;">\[닥사스]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20211101\&sno=4\&mtgMtrRegSno=0002))
+* roflumilast : 0.5 ㎎ qd <mark style="color:blue;">\[닥사스]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20211101\&sno=4\&mtgMtrRegSno=0002))
 
 ### <mark style="color:orange;">항생제 (장기 예방 목적)</mark>
 
-* azithromycin 250 ㎎ qd 또는 500 ㎎ 주 3회 장기(1년) 투여 시 악화 감소; 내성균 증가와 청력 장애 위험 있음
+* azithromycin : 250 ㎎ qd 또는 500 ㎎ 주 3회 장기(1년) 투여 시 악화 감소; 내성균 증가와 청력 장애 위험 있음
 * 현재 흡연자에서는 효과가 감소할 수 있어, 악화 빈도 높은 비흡연·금연자에서 선별적으로 고려; QTc 연장 주의
 
 ### <mark style="color:orange;">Mucolytics</mark>
 
 * 규칙적 사용이 일부 환자에서 악화를 줄여주지만 일반적이지 않음; 선별적으로 고려
-* acetylcysteine 200 ㎎ tid <mark style="color:blue;">\[뮤테란]</mark>
-* carbocysteine 375\~750 ㎎ tid <mark style="color:blue;">\[리나치올]</mark>
-* erdosteine 300 ㎎/C bid\~tid <mark style="color:blue;">\[엘도스]</mark>
+* acetylcysteine : 200 ㎎ tid <mark style="color:blue;">\[뮤테란]</mark>
+* carbocysteine : 375\~750 ㎎ tid <mark style="color:blue;">\[리나치올]</mark>
+* erdosteine : 300 ㎎/C bid\~tid <mark style="color:blue;">\[엘도스]</mark>
 
 ### <mark style="color:orange;">기타</mark>
 
@@ -447,13 +442,13 @@ flowchart TD
     B --> C3["③ <b>Chronic bronchitis phenotype</b><br/>만성 가래·기침 우세"]
     C3 --> D3["금연 + LABA/LAMA<br/>Roflumilast 고려<br/>(FEV₁&lt;50% + 빈번한 악화)<br/>Mucolytics 고려"]
 
-    B --> C4["④ <b>Asthma overlap</b><br/>천식 특징, eosinophil↑"]
+    B ---> C4["④ <b>Asthma overlap</b><br/>천식 특징, eosinophil↑"]
     C4 --> D4["ICS 포함 치료 우선<br/>LABA 단독 금지"]
 
     B --> C5["⑤ <b>Frailty / Cachexia</b><br/>고령, 근감소증, 체중 감소"]
     C5 --> D5["영양 보충<br/>근력 + 유산소 운동<br/>다학제 접근"]
 
-    B --> Z["<b>모든 표현형 공통</b>"]
+    B ---> Z["<b>모든 표현형 공통</b>"]
     Z --> Z1["금연 · 예방접종<br/>흡입기 교육 · 신체 활동<br/>동반 질환 관리"]
 
    classDef sky fill:#e3f2ff,stroke:#2196f3
@@ -490,11 +485,9 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 ### <mark style="color:orange;">중증도 분류</mark>
 
-* 경증 : VAS ＜5, RR ＜24/분, HR ＜95/분, resting SaO2 ≥92%, CRP ＜10 ㎎/L → 외래 치료
+* 경증 : VAS(_visual analog dyspnea scale_) ＜5, RR ＜24/분, HR ＜95/분, resting SaO2 ≥92%, CRP ＜10 ㎎/L → 외래 치료
 * 중등증 : VAS ≥5, RR ≥24/분, HR ≥95/분, resting SaO2 ＜92%, CRP ≥10 ㎎/L → 외래 또는 입원
 * 중증 : 중등증 기준 + PaCO2 ＞45 ㎜Hg, pH ＜7.35 → 입원 또는 ICU
-
-_VAS = visual analog dyspnea scale_
 
 ### <mark style="color:orange;">입원 평가 대상</mark>
 
@@ -524,11 +517,11 @@ _VAS = visual analog dyspnea scale_
 **항생제 투여 기준 (Anthonisen criteria 응용)**
 
 다음 3대 증상 중 화농성 가래를 포함하여 2개 이상 있을 때 항생제 투여를 고려\
-1\. 화농성 가래 (노란색 또는 녹색으로 변화) ← 세균 감염의 가장 중요한 지표\
+1\. 화농성 가래 (노란색 또는 녹색으로 변화) - 세균 감염의 가장 중요한 지표\
 2\. 호흡 곤란 악화\
 3\. 가래 양 증가
 
-CRP ≥20 mg/L인 경우 세균성 감염 가능성이 높으며, CRP ＜20 mg/L이면 항생제 없이 경과 관찰 가능. 투여 전 가래 배양 검사 시행.
+* CRP ≥20 mg/L인 경우 세균성 감염 가능성이 높으며, CRP ＜20 mg/L이면 항생제 없이 경과 관찰 가능. 투여 전 가래 배양 검사 시행.
 {% endhint %}
 
 #### <mark style="color:$primary;">항생제 선택 \[NICE 2018]</mark>
@@ -562,10 +555,10 @@ CRP ≥20 mg/L인 경우 세균성 감염 가능성이 높으며, CRP ＜20 mg/L
 
 ```mermaid
 flowchart TD
-    Start["<b>COPD 급성 악화 의심</b><br/>호흡 곤란 악화 / 가래 증가 / 기침 증가"]
+    Start(["<u>COPD 급성 악화 의심</u><br/>호흡 곤란 악화/가래 증가/기침 증가"])
 
-    Start --> Diff["<b>감별 진단 배제</b><br/>폐렴 / 폐색전증 / 심부전 / 기흉"]
-    Diff --> Severity["<b>중증도 평가</b><br/>RR, HR, SaO2, 의식, ABG, CRP"]
+    Start --> Diff["<u>감별 진단 배제</u><br/>폐렴/폐색전증/심부전/기흉"]
+    Diff --> Severity["<u>중증도 평가</u><br/>RR, HR, SaO2, 의식, ABG, CRP"]
 
     Severity --> Mild["경증<br/>SaO2 ≥92%<br/>RR &lt; 24<br/>의식 정상"]
     Severity --> Moderate["중등증<br/>SaO2 &lt; 92%<br/>RR ≥ 24"]
@@ -575,21 +568,24 @@ flowchart TD
 
     Moderate --> HospTx["<b>입원 평가</b><br/>SABA/SAMA 네뷸라이저<br/>O2 → SaO2 88~92%<br/>Prednisolone 30~40mg × 5일<br/>항생제 (적응 시)"]
 
-    Severe --> NIVcheck{"NIV 금기?"}
+    Severe --> NIVcheck["NIV 금기?"]
     NIVcheck -->|"No"| NIV["<b>NIV 적용</b><br/>pH ≤ 7.35<br/>고탄산혈증<br/>부호흡근 사용"]
-    NIVcheck -->|"Yes"| Intubation["기관 삽관 / ICU 이송"]
+    NIVcheck -->|"Yes"| Intubation["기관 삽관<br/>ICU 이송"]
 
     OutTx --> Followup["<b>퇴원 후 관리</b><br/>유지 치료 최적화<br/>호흡 재활 조기 시작<br/>악화 예방 교육"]
     HospTx --> Followup
     NIV --> Followup
 
-    style Start fill:#e3f2fd,stroke:#90caf9
+    style Start fill:#eeeeee,stroke:#888888
     style Mild fill:#f1f8e9,stroke:#aed581
-    style Moderate fill:#fff3e0,stroke:#ffcc80
-    style Severe fill:#fce4ec,stroke:#f48fb1
+    style Moderate fill:#fde8f0,stroke:#e91e8c
     style NIV fill:#e8f5e9,stroke:#a5d6a7
-    style Intubation fill:#ffebee,stroke:#ef9a9a
-    style Followup fill:#e8f5e9,stroke:#c8e6c9
+classDef yellow fill:#fff9c4,stroke:#ffe082    
+class Severity,NIVcheck yellow
+classDef red fill:#ffcdd2,stroke:#c62828
+class Severe,Intubation red
+    style Followup fill:#d0e8ff,stroke:#1a6abf
+    style OutTx fill:#e3f2ff,stroke:#2196f3
 ```
 
 <p align="center"><strong>COPD 급성 악화 관리 알고리듬</strong></p>
@@ -608,15 +604,12 @@ flowchart TD
 * 안정될 때까지 매달, 안정 후 매 6개월마다 모니터링; 증상, 치료 효과, 흡입기 사용, 생활 습관 및 위험 요인 점검
 * 폐렴 악화 시 흉부 X선 또는 chest CT 시행
 * 가정 산소 치료 시 pulse oximetry 수시 모니터링 (특히 야간); 매년 또는 상태 변화 시 ABG 검사
+  * 가정 산소 치료 : 만성 중증 휴식 저산소증이 있는 환자에서 장기 공급(≥15시간/일) 시 생존율 향상 효과
 * 연 1회 이상 spirometry 시행
 * 심혈관 질환, 골다공증, 우울증, 폐암 동반 시 예후 불량
 
 {% hint style="info" %}
-**Beta-blocker와 COPD** : COPD 환자에서 심부전, 허혈성 심질환, 부정맥 등 심혈관 적응증이 있는 경우, **심장 선택적 β1-차단제(bisoprolol, metoprolol 등)는 안전하게 사용 가능**하며 금기가 아니다. β2-수용체 차단이 적어 기관지 수축 위험이 낮다. 심혈관 질환은 COPD 사망의 주요 원인이므로 적응증이 있다면 투여를 주저하지 않는다.
-{% endhint %}
-
-{% hint style="info" %}
-**가정 산소 치료** : 만성 중증 휴식 저산소증이 있는 환자에서 장기 공급(≥15시간/일) 시 생존율 향상 효과
+**Beta-blocker와 COPD** : COPD 환자에서 심부전, 허혈성 심질환, 부정맥 등 심혈관 적응증이 있는 경우, 심장 선택적 β1-차단제(bisoprolol, metoprolol 등)는 안전하게 사용 가능하며 금기가 아님. β2-수용체 차단이 적어 기관지 수축 위험이 낮음. 심혈관 질환은 COPD 사망의 주요 원인이므로 적응증이 있다면 적극적으로 투여 고려
 {% endhint %}
 
 ### <mark style="color:orange;">비-약물 치료 Follow-up</mark>
