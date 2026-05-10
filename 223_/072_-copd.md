@@ -180,7 +180,7 @@ SABD = short-acting bronchodilator
 
 * 동반 질환 관리
 * 비-약물 치료 : 금연, 적절한 영양 및 수분 공급, 활동적 생활 및 운동, 적정 체중 유지, 백신 접종 (인플루엔자, 폐렴구균, Tdap, 대상포진, COVID-19), 호흡 재활 치료 (Group B, E)
-* 약물 치료 : 기본 치료제 — 흡입 기관지 확장제
+* 약물 치료 : 기본 치료제 - 흡입 기관지 확장제
 * 혈중 산소 농도 저하 시 (SaO2 ＜88%) O2 공급 (목표 SaO2 88\~92%)
 * 폐쇄수면무호흡 동반 시 지속양압(CPAP) 치료
 * 자가 관리 교육 : 위험 인자 관리, 흡입제 사용 교육, 급성 악화 시 대응 요령
@@ -345,12 +345,12 @@ SABD = short-acting bronchodilator
 * cAMP의 대사 억제 → 세포 내 cAMP 농도↑ → 항염증 효과, eosinophil 이동 및 화학 주성 억제 → FEV1 개선, 악화 감소
 * 적용 : 중증의 기류 제한 + 만성 기관지염 + 악화 시; LABA ± ICS에 추가 고려
 * 부작용 : 설사, 구역, 복통, 식욕 감퇴, 두통, 체중 감소
-* roflumilast 0.5 ㎎ qd <mark style="color:blue;">\[닥사스]</mark> (☞ 보험기준)
+* roflumilast 0.5 ㎎ qd <mark style="color:blue;">\[닥사스]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20211101\&sno=4\&mtgMtrRegSno=0002))
 
 ### <mark style="color:orange;">항생제 (장기 예방 목적)</mark>
 
 * azithromycin 250 ㎎ qd 또는 500 ㎎ 주 3회 장기(1년) 투여 시 악화 감소; 내성균 증가와 청력 장애 위험 있음
-* **현재 흡연자에서는 효과가 감소할 수 있어**, 악화 빈도 높은 비흡연·금연자에서 선별적으로 고려; QTc 연장 주의
+* 현재 흡연자에서는 효과가 감소할 수 있어, 악화 빈도 높은 비흡연·금연자에서 선별적으로 고려; QTc 연장 주의
 
 ### <mark style="color:orange;">Mucolytics</mark>
 
@@ -391,38 +391,39 @@ D0[DYSPNEA] --> D1[LABA or LAMA]
 
 %% EXACERBATION pathway
 E0[EXACERBATION] --> E1[LABA or LAMA]
-    E1 -- "if eos ≥ 300" --> E3["LABA+LAMA+ICS¹⁾"]
-    E1 -- "if eos < 300" --> E2["LABA+LAMA¹⁾"]
-    
-    E2 -- "if eos ≥ 100" --> E3
-    E3 -- "2)" --> E2
+
+    E2 -- "if eos ≥100" --> E3
+    E1 -- "if eos <300" --> E2["LABA+LAMA¹⁾"]
+    E1 -- "if eos ≥300" --> E3["LABA+LAMA+ICS¹⁾"]    
+
     
     E2 -- "if eos < 100" --> E4{ }
     E3 --> E4
     
-    E4 --> E5["Roflumilast<br/>(FEV₁ < 50 &<br/>chronic bronchitis)"]
-    E4 --> E6["Azithromycin<br/>(현재 비흡연자에서<br/>우선적으로)"]
+    E4 --> E5["<u>Roflumilast</u><br/>(FEV₁ < 50 &<br/>chronic bronchitis)"]
+    E4 --> E6["<u>Azithromycin</u><br/>(현재 비흡연자에서<br/>우선적으로)"]
+    E3 -- "if eos ≥300"--> E7["<u>Dupilumab</u><br/>chronic bronchitis"]
 
+style D0 fill:#eeeeee,stroke:#888888,stroke-width:2px
 style D1 fill:#fff,stroke:#ddd
-style D2 fill:#fff,stroke:#ddd
+style D2 fill:#e8f8e8,stroke:#4caf50
+style E0 fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 style E1 fill:#fff,stroke:#ddd
-style E2 fill:#fff,stroke:#ddd
-style E3 fill:#fff,stroke:#ddd
-style E5 fill:#fff,stroke:#ddd
-style E6 fill:#fff,stroke:#ddd
+style E2 fill:#e8f8e8,stroke:#4caf50
+style E3 fill:#d5f5e3,stroke:#27ae60
 style E4 fill:none,stroke:none
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class E5,E6,E7 sky
 
 linkStyle 6 stroke:green,stroke-width:2px;
 ```
 
+eos = blood eosinophil count (cells/μL)\
+¹⁾single inhaler 권고
+
 <p align="center"><em><mark style="color:$info;">Ref. GOLD 2025, Fig 3.9</mark></em></p>
 
 ***
-
-eos = blood eosinophil count (cells/μL)
-
-1\) single inhaler 권고\
-2\) 폐렴 또는 다른 고려할만한 부작용이 있는 경우 ICS의 단계적 감량 고려; eos ≥300 시 단계적 감량은 악화 발생과 관련될 수 있음
 
 ### <mark style="color:orange;">표현형 기반 치료 (Phenotype-driven Treatment)</mark>
 
@@ -476,7 +477,7 @@ flowchart TD
 ### <mark style="color:orange;">정의 및 원인</mark>
 
 * 정의 : ≤14일간의 호흡 곤란 &/or 기침 및 가래의 급성 악화로 추가 치료가 필요한 사건
-* 원인 : 기도 감염(가장 흔함 — 바이러스·세균 혼합), 대기 오염, 순응도 저하
+* 원인 : 기도 감염(가장 흔함 - 바이러스·세균 혼합), 대기 오염, 순응도 저하
 
 ### <mark style="color:orange;">증상</mark>
 
@@ -506,7 +507,7 @@ _VAS = visual analog dyspnea scale_
 ### <mark style="color:orange;">치료</mark>
 
 * **기관지 확장제** : SABA ± SAMA 투여를 가능한 한 빨리 시작; 호전 후 LABA로 유지 치료 전환
-* **전신 steroid** : prednisolone 30\~40 ㎎/d ×5일 이내 <mark style="color:blue;">\[소론도]</mark> — 5일 단기 요법이 14일 요법과 동등한 효과
+* **전신 steroid** : prednisolone 30\~40 ㎎/d ×5일 이내 <mark style="color:blue;">\[소론도]</mark> - 5일 단기 요법이 14일 요법과 동등한 효과
 * **산소 공급** : 목표 SaO2 88\~92%; ABG로 hypercapnia와 acidosis 모니터링 (입원 치료)
 
 {% hint style="danger" %}
@@ -638,7 +639,7 @@ J44 기타 만성 폐색성 폐질환
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 경증 (Group A — 간헐적 호흡 곤란)**
+> **처방례 1. 경증 (Group A - 간헐적 호흡 곤란)**
 >
 > ```
 > salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
@@ -646,7 +647,7 @@ J44 기타 만성 폐색성 폐질환
 >
 > _✽ 증상이 간헐적인 Group A에서는 속효성 기관지 확장제(SABA 또는 SAMA)를 필요시 사용. 지속적 호흡 곤란으로 진행 시 LAMA 또는 LABA로 upgrade한다._
 
-> **처방례 2. 중등도 (Group B — 지속적 호흡 곤란, 악화 적음)**
+> **처방례 2. 중등도 (Group B - 지속적 호흡 곤란, 악화 적음)**
 >
 > ```
 > tiotropium 흡입용캡슐 [스피리바]  18 μg/C  1C  qd
@@ -656,7 +657,7 @@ J44 기타 만성 폐색성 폐질환
 >
 > _✽ Group B에서는 LAMA 또는 LABA로 시작. 지속적 증상에는 LAMA+LABA 병용 복합제로 upgrade. tiotropium은 운동 내성 개선에 특히 유효하다._
 
-> **처방례 3. 중등도-중증 (Group E — 빈번한 악화, eos ＜300)**
+> **처방례 3. 중등도-중증 (Group E - 빈번한 악화, eos ＜300)**
 >
 > ```
 > vilanterol / umeclidinium 흡입제 [아노로 엘립타]  25/62.5 μg  1 puff  qd
@@ -666,7 +667,7 @@ J44 기타 만성 폐색성 폐질환
 >
 > _✽ Group E(빈번한 악화)에서는 LAMA+LABA 복합제가 1차 권고. eos ＜300이면 ICS 추가 없이 유지; 이후 악화 지속 시 roflumilast (FEV1＜50%, 만성 기관지염) 또는 azithromycin (현재 비흡연자) 추가 고려._
 
-> **처방례 4. 중증 (Group E — 빈번한 악화, eos ≥300)**
+> **처방례 4. 중증 (Group E - 빈번한 악화, eos ≥300)**
 >
 > ```
 > fluticasone / umeclidinium / vilanterol [트렐리지 엘립타]  100/62.5/25 μg  1 puff  qd
@@ -676,7 +677,7 @@ J44 기타 만성 폐색성 폐질환
 >
 > _✽ eos ≥300 cells/μL이면 ICS 포함 Triple therapy 권고. 폐렴 반복, 현재 흡연 중, eos＜100인 경우 ICS 추가를 재검토한다._
 
-> **처방례 5. 급성 악화 — 외래 치료 (경·중등도)**
+> **처방례 5. 급성 악화 - 외래 치료 (경·중등도)**
 >
 > ```
 > prednisolone 5 ㎎ [소론도]  6T  qd  × 5일   (30 ㎎/d)
@@ -696,10 +697,10 @@ J44 기타 만성 폐색성 폐질환
   * MDI : 흔들기 → 숨을 끝까지 내쉬기 → 흡입구 물기 → 분무와 동시에 천천히 깊게 흡입(약 4\~5초) → 10초 참기
   * DPI : 캡슐/블리스터 장전 확인 → 숨을 끝까지 내쉬기 → **빠르고 강하게** 흡입 (느리게 흡입하면 약이 폐 깊이 도달하지 않음); **최대 흡기 유속(PIF)이 낮은 경우**(근력 저하, 고령, 중증 악화 중)에는 DPI가 약물을 충분히 전달하지 못할 수 있으므로 SMI 또는 네뷸라이저로 전환 고려
   * ICS 포함 흡입제 사용 후 반드시 **구강 헹굼** (구강 칸디다, 구내염 예방)
-* **유지(controller) vs 응급(rescue) 흡입제 구분** : LAMA/LABA는 매일 규칙적으로 사용하는 유지제; SABA는 증상이 갑자기 심해질 때 사용하는 응급제 — 증상이 없어도 유지제를 중단하지 않도록 강조
+* **유지(controller) vs 응급(rescue) 흡입제 구분** : LAMA/LABA는 매일 규칙적으로 사용하는 유지제; SABA는 증상이 갑자기 심해질 때 사용하는 응급제 - 증상이 없어도 유지제를 중단하지 않도록 강조
 * **전신 스테로이드 단기 요법** : 5일 이내 사용하므로 감량 없이 중단 가능; 혈당 상승(당뇨 환자 주의), 수면 장애, 기분 변화 등 일시적 부작용 설명
 * **roflumilast (닥사스)** : 복용 초기 설사·구역 등 위장관 부작용이 흔하나 수 주 내 호전; 체중 감소 모니터링 필요; 복통이 심하면 의사에게 보고
-* **theophylline** : 혈중 농도 범위가 좁아 유효 농도와 독성 농도의 차이가 적음; macrolide·fluoroquinolone 항생제, 흡연 상태 변화 시 독성 위험 증가 — 임의 용량 변경 금지
+* **theophylline** : 혈중 농도 범위가 좁아 유효 농도와 독성 농도의 차이가 적음; macrolide·fluoroquinolone 항생제, 흡연 상태 변화 시 독성 위험 증가 - 임의 용량 변경 금지
 
 ***
 
