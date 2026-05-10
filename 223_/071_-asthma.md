@@ -832,9 +832,10 @@ Ref. GINA. _Global strategy for asthma management and prevention._ 2024. Box 4-1
 
 ### <mark style="color:orange;">천식 악화 시 자가 관리 방법</mark>
 
-<table><thead><tr><th width="230">약물 치료</th><th>악화된 천식을 위해 단기(1–2주) 변경</th></tr></thead><tbody><tr><td><strong>평소 사용 완화제 증량</strong></td><td></td></tr><tr><td>저용량 ICS-FMT¹⁾</td><td>필요시 사용 저용량 ICS-FMT의 사용 빈도를 늘림</td></tr><tr><td>SABA</td><td>SABA 사용 횟수를 늘림. MDI의 경우 스페이서 사용</td></tr><tr><td><strong>평소 사용 유지 치료 늘림</strong></td><td></td></tr><tr><td>ICS-FMT 유지 &#x26; 완화¹⁾</td><td>유지 용량을 두 배로 늘림 및 필요시 완화제로 추가 사용</td></tr><tr><td>ICS 유지 + SABA</td><td>ICS 4배 증량 고려</td></tr><tr><td>ICS+다른 LABA + SABA</td><td>ICS+LABA를 한 단계 높임</td></tr><tr><td><strong>경구 스테로이드 추가 및 진료</strong></td><td></td></tr><tr><td>경구 스테로이드(OCS)</td><td>중증 악화(PEF 또는 FEV₁ &#x3C;60% 예측치), 또는 48시간 이상 치료 반응 없는 경우 OCS 추가</td></tr></tbody></table>
+<table><thead><tr><th width="230">약물 치료</th><th>악화된 천식을 위해 단기(1–2주) 변경</th></tr></thead><tbody><tr><td><strong>평소 사용 완화제 증량</strong></td><td></td></tr><tr><td>저용량 ICS-FMT¹⁾</td><td>필요시 사용 저용량 ICS-FMT의 사용 빈도를 늘림¹⁾</td></tr><tr><td>SABA</td><td>SABA 사용 빈도 늘림; pMDI 사용 시 스페이서 추가</td></tr><tr><td>ICS-SABA</td><td>필요 시 ICS-SABA 사용 빈도 늘림²⁾</td></tr><tr><td><strong>평소의 유지 치료를 늘림</strong></td><td></td></tr><tr><td>유지-완화 ICS-FMT¹⁾</td><td>기존 ICS-FMT 용량을 유지하고, 필요 시 완화용 ICS-FMT 용량을 늘림¹⁾</td></tr><tr><td>유지 ICS+ 완화 SABA</td><td>ICS 4배 증량 고려</td></tr><tr><td>유지 ICS-FMT <br>+ 완화 SABA¹⁾</td><td>유지용 ICS-FMT 4배 증량 고려¹⁾</td></tr><tr><td><p>유지 ICS + 다른 LABA </p><p>+ 완화 SABA</p></td><td>가능한 경우 ICS + 다른 LABA 고용량 제형으로 단계 높임. 성인에서는 별도의 ICS를 추가하여 ICS 용량 4배 증량 고려</td></tr><tr><td><strong>경구 스테로이드 추가 및 진료</strong></td><td></td></tr><tr><td><p>경구 스테로이드</p><p>(prednisone or prednisolone)</p></td><td>심한 악화(예: PEF 또는 FEV₁ 개인 최고치 또는 기대치의 &#x3C;60%) 또는 48시간 이상 치료 반응이 없는 경우 OCS 추가; 아침 복용 권장. 성인: prednisolone 40~50 ㎎/일, 보통 5~7일간; 2주 미만 처방 시 tapering 불필요.</td></tr></tbody></table>
 
-¹ low dose budesonide or beclomethasone with formoterol; formoterol 최대 72 µg/d 중증 악화 시 5–10일간 prednisolone 40–50 mg/d; 2주 이내 tapering 불필요
+¹⁾ICS-포르모테롤은 증상 완화용(‘AIR-only’) 또는 유지 및 완화요법(MART)의 일부로 사용\
+²⁾budesonide-salbutamol 100/100 ㎍(투여량 80/90 ㎍) 2회 흡입, 하루 최대 6회
 
 Ref. GINA. _Global strategy for asthma management and prevention._ 2024. Box 9-2.
 
@@ -842,68 +843,65 @@ Ref. GINA. _Global strategy for asthma management and prevention._ 2024. Box 9-2
 
 ```mermaid
 flowchart TD
-    A["🏥 **일차의료기관** - 급성 혹은 아급성 악화 증상을 보이는 천식 환자"]
-    --> B["**환자 평가**
-    • 천식인가?
-    • 사망의 위험 요인이 있는가?
-    • 악화의 중증도는?"]
+Start(["**일차의료기관** <br/>급성 혹은 아급성 악화 증상을 보이는 천식 환자"])
+B["**환자 평가**<br/>• 천식인가?<br/>• 사망의 위험 요인이 있는가?<br/>• 악화의 중증도는?"]
+C["**경증~중등증**<br/>• 문장으로 대화; 앉아 있는 것이 편함<br/>• 호흡수 증가; 호흡보조근 사용 안 함<br/>• 심박수 100~120회/분<br/>• 산소포화도 90~95%¹⁾<br/>• PEF >50%²⁾"]
+D["**중증**<br/>• 단어로 대화; 앞으로 기울여 앉음<br/>• 호흡수 >30회/분; 호흡보조근 사용<br/>• 심박수 >120회/분<br/>• 산소포화도 <90%¹⁾<br/>• PEF ≤50%²⁾"]
+E["**치명적**<br/>• 의식 혼탁<br/>• Silent chest - 호흡음 소실"]
+F["**위급 - 응급 이송**<br/>O₂, SABA, ipratropium, 전신 steroid"]
+H["**치료 시작**<br/>• SABA: 처음 1시간 동안 20분마다<br/>pMDI+spacer로 4~10 puffs 반복<br/>• Prednisolone 40~50 mg<br/>• 목표 SpO₂: 93~95%"]
+I["**치료 지속**<br/>• 필요시 SABA 사용<br/>• 1시간 내 치료 효과 판정"]
+K["**퇴원 준비³⁾**<br/>"]
+L["**추적 관리⁴⁾**"]
 
-    B --> C["**경증~중등증**
-    • 문장으로 대화; 앉아 있는 것이 편함
-    • 호흡수 증가; 호흡보조근 사용 안 함
-    • 심박수 100~120회/분
-    • 산소포화도 90~95%¹⁾
-    • PEF >50%²⁾"]
-
-    B --> D["**중증**
-    • 단어로 대화; 앞으로 기울여 앉음
-    • 호흡수 >30회/분; 호흡보조근 사용
-    • 심박수 >120회/분
-    • 산소포화도 <90%¹⁾
-    • PEF ≤50%²⁾"]
-
-    B --> E["**치명적**
-    • 의식 혼탁
-    • ⚠️ Silent chest - 호흡음 소실"]
-
-    E --> F["🚨 **위급 - 응급 이송**
-    O₂, SABA, ipratropium, 전신 steroid"]
-
-    C --> H["**치료 시작**
-    • SABA: 처음 1시간 동안 20분마다
-    pMDI+spacer로 4~10 puffs 반복
-    • Prednisolone 40~50 mg
-    • 목표 SpO₂: 93~95%"]
-
-    D -->|악화| H
-
-    H --> I["**치료 지속**
-    • 필요시 SABA 사용
-    • 1시간 내 치료 효과 판정"]
-
-    I -->|악화| F
-
-    I -->|호전| K["**퇴원 시 준비**
-    • 완화제: 필요에 따라 사용
-    • 조절제: 투여 시작 또는 단계 올림
-    • 흡입기 사용법 및 순응도 확인
-    • Prednisolone: 5~7일간 유지
-    • F/U: 2~7일 내"]
-
-    K --> L["**추적 관리**
-    • '악화'가 해소되었는가?
-    • 경구 steroid 지속 투여 필요한가?
-    • 위험 요인: 교정 가능한 위험 인자 확인
-    • 행동 지침: 환자가 잘 이해하고 있는가?"]
+Start
+B --> C
+B --> D
+C --> H
+H --> I
+I -->|호전| K
+H -->|악화| F
+I -->|악화| F
+D ---->|악화| F
+E --> F
+B --> E
+K --> L
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+style B fill:#fff9c4,stroke:#f39c12
+style C fill:#fff3e0,stroke:#e65100,stroke-width:1px
+style D fill:#ffcdd2,stroke:#c62828,stroke-width:1px
+style E fill:#ff7575,stroke:#c62828,stroke-width:2px
+style F fill:#ff7575,stroke:#c62828,stroke-width:2px
+style K fill:#e3f2ff,stroke:#2196f3
+style L fill:#e8f8e8,stroke:#4caf50
 ```
 
 <p align="center"><strong>일차의료에서의 천식 악화 관리</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2024. Box 4-3.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2024. Box 9-4.</mark></em></p>
 
-_1) on air. 2) 예측치 또는 개인 최고치 대비_
+¹⁾ _on air;_ ²⁾_예측치 또는 개인 최고치 대비_
 
-***
+³⁾**퇴원 평가 (ASSESS FOR DISCHARGE)**
+
+* 증상: 호전됨, SABA(단기 작용 베타₂ 작용제) 필요 없음
+* PEF: 호전 중이며 개인 최고치 또는 예측치의 60–80% 이상
+* 산소포화도: 실내 공기에서 94% 이상
+* 가정 내 자원: 충분함
+
+&#x20;**퇴원 시 조치 (ARRANGE at DISCHARGE)**
+
+* 완화제(Reliever): 필요 시만 사용, 규칙적으로 사용하지 않음
+* 조절제(Controller): ICS 치료 시작 또는 단계 상승 (Track 1 권장). 흡입기 사용법과 복약 순응도 확인
+* 프레드니솔론(Prednisolone): 지속, 보통 5–7일간 (소아는 3–5일)
+
+&#x20;⁴⁾**추적 관찰 (FOLLOW UP)** - 2\~7일 내 (소아는 1\~2일 내)
+
+* 증상 및 징후 검토: 악화가 호전되고 있는가? 프레드니솔론을 계속해야 하는가?
+* 완화제(Reliever): 필요 시 사용으로 감량
+* ICS 포함 조절제: 단기(1–2주) 또는 장기(3개월) 고용량 유지, 악화 배경에 따라 결정. 성인/청소년: 가능하면 GINA Track 1 (ICS-FMT)으로 전환&#x20;
+* 위험 요인 : 악화에 기여했을 수 있는 수정 가능한 요인(흡입기 사용법, 복약 순응도 등) 확인 및 교정. 1년에 1–2회 이상 악화 시 전문가 상담 권장
+* 행동 계획(Action plan): 이해되었는가? 적절히 사용되었는가? 수정이 필요한가?
 
 ## <mark style="color:green;">모니터링</mark>
 
@@ -914,25 +912,15 @@ _1) on air. 2) 예측치 또는 개인 최고치 대비_
 
 ### <mark style="color:orange;">치료에 잘 반응하지 않는 환자 - 조절 불량 체크리스트</mark>
 
-천식 '조절 안 됨'의 상당수는 진단 오류, 순응도 문제, 흡입기 오용에 기인합니다.
+* 천식 '조절 안 됨'의 상당수는 진단 오류, 순응도 문제, 흡입기 오용에 기인
 
-<table><thead><tr><th width="60">#</th><th width="260">점검 항목</th><th>확인 내용</th></tr></thead><tbody><tr><td>1</td><td>진단이 올바른가?</td><td>증상 시 정상 폐 기능 → 다른 진단 가능성 (VCD, 심부전, COPD 등)</td></tr><tr><td>2</td><td>흡입 기술이 올바른가?</td><td>흡입기 종류별 사용법 직접 시연 후 관찰; spacer 사용 여부</td></tr><tr><td>3</td><td>순응도(adherence)가 양호한가?</td><td>처방 이행 확인; "증상 없으면 안 쓴다"는 오해 교정</td></tr><tr><td>4</td><td>흡연하고 있는가?</td><td>흡연 시 ICS 효능 감소 → 금연 권고, 고용량 ICS 고려</td></tr><tr><td>5</td><td>비만인가?</td><td>ICS 반응 저하 가능; 체중 감량 권고</td></tr><tr><td>6</td><td>만성 비부비동염/비용종이 있는가?</td><td>비내 steroid 병합; 중증 비용종 시 biologic 고려</td></tr><tr><td>7</td><td>GERD가 있는가?</td><td>증상 평가 및 PPI 치료</td></tr><tr><td>8</td><td>수면무호흡증(OSA)이 있는가?</td><td>야간 증상, 비만, 코골이 확인 → 수면 검사 의뢰</td></tr><tr><td>9</td><td>생물학적 제제 적응증인가?</td><td>호산구 ≥300/µL, FeNO ≥25 ppb, IgE 상승 → Step 5 평가 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="60">#</th><th width="213.68426513671875">점검 항목</th><th>확인 내용</th></tr></thead><tbody><tr><td>1</td><td>진단이 올바른가?</td><td>증상 시 정상 폐 기능 → 다른 진단 가능성 (VCD, 심부전, COPD 등)</td></tr><tr><td>2</td><td>흡입 기술이 올바른가?</td><td>흡입기 종류별 사용법 직접 시연 후 관찰; spacer 사용 여부</td></tr><tr><td>3</td><td>순응도가 양호한가?</td><td>처방 이행 확인; "증상 없으면 안 쓴다"는 오해 교정</td></tr><tr><td>4</td><td>흡연하고 있는가?</td><td>흡연 시 ICS 효능 감소 → 금연 권고, 고용량 ICS 고려</td></tr><tr><td>5</td><td>비만인가?</td><td>ICS 반응 저하 가능; 체중 감량 권고</td></tr><tr><td>6</td><td>만성 비부비동염/비용종이 있는가?</td><td>비내 steroid 병합; 중증 비용종 시 biologic 고려</td></tr><tr><td>7</td><td>GERD가 있는가?</td><td>증상 평가 및 PPI 치료</td></tr><tr><td>8</td><td>수면무호흡증이 있는가?</td><td>야간 증상, 비만, 코골이 확인 → 수면 검사 의뢰</td></tr><tr><td>9</td><td>생물학적 제제 적응증인가?</td><td>호산구 ≥300/µL, FeNO ≥25 ppb, IgE 상승 → Step 5 평가 의뢰</td></tr></tbody></table>
 
-```mermaid
-flowchart TD
-    A["<b>흡입제 사용 관찰, 사용상 어려운 문제 상담</b>
-    흡입기 종류에 따른 사용법 비교, 수시로 사용법 재확인"]
-    --> B["<b>천식 진단이 올바른지 재확인</b>
-    증상이 있는 동안 폐 기능이 정상이라면 2~3주 후 재검사"]
-    --> C["<b>위험 인자 제거, 동반 질환 평가 및 관리</b>
-    흡연, β-차단제, NSAID, 알레르겐; 비염, 비만, GERD, OSA, 우울/불안"]
-    --> D["<b>치료 단계 올림 고려</b>
-    잠재적 이득과 위험을 고려하며 치료 단계 상향"]
-    --> E["<b>의뢰</b>
-    4단계로 3~6개월 치료 후에도 조절되지 않으면 의뢰"]
-```
-
-_Ref. GINA. Global strategy for asthma management and prevention. 2024. Box 2-4._
+1. 흡입제 사용 관찰, 사용상 어려운 문제 상담 : 흡입기 종류에 따른 사용법 비교, 수시로 사용법 재확인
+2. 천식 진단이 올바른지 재확인 : 증상이 있는 동안 폐 기능이 정상이라면 2\~3주 후 재검사
+3. 위험 인자 제거, 동반 질환 평가 및 관리 : 흡연, β-차단제, NSAID, 알레르겐; 비염, 비만, GERD, OSA, 우울/불안
+4. 치료 단계 올림 고려 : 잠재적 이득과 위험을 고려하며 치료 단계 상향
+5. 의뢰 : 4단계로 3\~6개월 치료 후에도 조절되지 않으면 의뢰
 
 ### <mark style="color:orange;">의뢰</mark>
 
@@ -946,20 +934,18 @@ _Ref. GINA. Global strategy for asthma management and prevention. 2024. Box 2-4.
 ## <mark style="color:green;">천식 + COPD</mark>
 
 {% hint style="info" %}
-**GINA/GOLD 2024**: 'Asthma-COPD overlap(ACO)'은 단일 질환으로 정의하지 않는다. 천식과 COPD의 특징이 함께 존재하는 임상 상태를 기술하는 표현으로, **ICS를 포함한 치료 전략을 우선 고려**한다.
+'Asthma-COPD overlap(ACO)' : 천식과 COPD의 특징이 함께 존재하는 임상 상태를 기술하는 표현으로 단일 질환으로 정의하지 않음. ICS를 포함한 치료 전략을 우선 고려 \[GINA/GOLD 2024]
 {% endhint %}
 
 ### <mark style="color:orange;">천식 및 COPD의 특징과 초기 치료 방법</mark>
 
-<table><thead><tr><th width="130">구분</th><th width="230">천식 가능성이 매우 높음</th><th width="230">천식과 COPD의 특징 모두 있음</th><th>COPD 가능성이 높음</th></tr></thead><tbody><tr><td><strong>증상 양상</strong></td><td>• 시간에 따라 증상 강도 변화<br>• Trigger: 기침, 운동, 항원, 계절<br>• &#x3C;40세 시작<br>• BD/ICS로 증상 호전</td><td>• 간헐적 또는 상회적 증상<br>• 천식의 증상(trigger) 있음<br>• 흡연력 또는 BD/ICS로 호전<br>• 기류 제한 지속적일 수 있음</td><td>• 대부분의 날 호흡 곤란<br>• >40세 시작, 신체 활동 제한<br>• 흡연력 또는 노출력<br>• BD에 대한 반응 제한</td></tr><tr><td><strong>폐 기능</strong></td><td>• 다양한 기류 제한 (가역적)</td><td>• 지속되는 호기 기류 제한 + BD 가역성</td><td>• 지속적인 호기 기류 제한; BD 가역성 낮음</td></tr><tr><td><strong>치료 방향</strong></td><td><strong>Tx as Asthma</strong><br>• ICS 포함 치료<br>• ICS 없는 LABA/LAMA 금지<br>• OCS 유지 요법 회피</td><td><strong>Tx as Asthma</strong><br>• ICS 포함 치료<br>• 필요시 LABA &#x26;/or LAMA 추가<br>• ICS 없는 LABA/LAMA 금지</td><td><strong>Tx as COPD</strong><br>• LAMA &#x26;/or LABA 치료<br>• ICS 추가 [GOLD 지침]<br>• 고용량 ICS/OCS 유지 회피</td></tr></tbody></table>
+<table><thead><tr><th width="76.57894897460938">구분</th><th>천식 가능성이 매우 높음</th><th width="211.894775390625">천식과 COPD의 특징 모두 있음</th><th>COPD 가능성이 높음</th></tr></thead><tbody><tr><td><strong>증상</strong> <br><strong>양상</strong></td><td>• 시간에 따라 증상 강도 변화<br>• Trigger: 기침, 운동, 항원, 계절<br>• &#x3C;40세 시작<br>• BD/ICS로 증상 호전</td><td>• 간헐적 또는 상회적 증상<br>• 천식의 증상(trigger) 있음<br>• 흡연력 or BD/ICS로 호전<br>• 지속적 기류 제한 가능</td><td>• 대부분의 날 호흡 곤란<br>• >40세 시작, 신체 활동 제한<br>• 흡연력 또는 노출력<br>• BD에 대한 반응 제한</td></tr><tr><td><strong>폐 기능</strong></td><td>• 다양한 기류 제한 (가역적)</td><td>• 지속되는 호기 기류 제한 + BD 가역성</td><td>• 지속적인 호기 기류 제한; BD 가역성 낮음</td></tr><tr><td><strong>치료</strong> <br><strong>방향</strong></td><td><strong>Tx as Asthma</strong><br>• ICS 포함<br>• ICS 없는 LABA/LAMA 금지<br>• OCS 유지 요법 회피</td><td><strong>Tx as Asthma</strong><br>• ICS 포함 <br>• 필요시 LABA &#x26;/or LAMA 추가<br>• ICS 없는 LABA/LAMA 금지</td><td><strong>Tx as COPD</strong><br>• LAMA &#x26;/or LABA<br>• ICS 추가 [GOLD 지침]<br>• 고용량 ICS/OCS 유지 회피</td></tr></tbody></table>
 
 BD = bronchodilator. 2–3개월 후 재검토; 반응 부적절하면 의뢰.
 
 ### <mark style="color:orange;">천식과 COPD에서의 spirometry 특징</mark>
 
-<table><thead><tr><th width="300">Spirometric variable</th><th width="120">천식</th><th width="140">COPD</th><th>천식+COPD</th></tr></thead><tbody><tr><td><strong>BD 투여 후 FEV1/FVC 정상</strong></td><td>천식 진단에 적합</td><td>COPD 진단 적합 않음</td><td>적합하지 않음</td></tr><tr><td><strong>BD 투여 후 FEV1/FVC &#x3C; 0.7</strong></td><td>기류 제한 시사; 가역적</td><td>COPD 진단에 필요</td><td>천식+COPD 진단에 필요</td></tr><tr><td><strong>BD 투여 후 FEV1 ≥ 80%</strong></td><td>천식 진단에 적합 (조절 상태)</td><td>경증 지속 기류 제한에 적합</td><td>-</td></tr><tr><td><strong>BD 투여 후 FEV1 &#x3C; 80%</strong></td><td>천식 진단에 적합; 악화 위험</td><td>기류 제한 중증도 지표</td><td>COPD 및 천식</td></tr><tr><td><strong>FEV1 ≥ 12% &#x26; ≥ 200 mL 증가 (가역성)</strong></td><td>천식 경향 충분</td><td>흔함</td><td>-</td></tr><tr><td><strong>FEV1 ≥ 12% &#x26; > 400 mL 증가 (강한 가역성)</strong></td><td>천식 확률 높음</td><td>흔하지 않음</td><td>천식+COPD 진단에 적합</td></tr></tbody></table>
-
-Ref. GINA. _Global initiative for Asthma._ 2024. Box 5-3.
+<table><thead><tr><th width="198.6842041015625">Spirometric variable</th><th>천식</th><th>COPD</th><th>천식+COPD</th></tr></thead><tbody><tr><td>BD 투여 후 FEV1/FVC 정상</td><td>천식 진단에 적합</td><td>COPD 진단 적합 않음</td><td>적합하지 않음</td></tr><tr><td>BD 투여 후 FEV1/FVC &#x3C; 0.7</td><td>기류 제한 시사; 가역적</td><td>COPD 진단에 필요</td><td>천식+COPD 진단에 필요</td></tr><tr><td>BD 투여 후 FEV1 ≥ 80%</td><td>천식 진단에 적합 (조절 상태)</td><td>경증 지속 기류 제한에 적합</td><td>-</td></tr><tr><td>BD 투여 후 FEV1 &#x3C; 80%</td><td>천식 진단에 적합; 악화 위험</td><td>기류 제한 중증도 지표</td><td>COPD 및 천식</td></tr><tr><td>FEV1 ≥ 12% &#x26; ≥ 200 mL 증가 (가역성)</td><td>천식 경향 충분</td><td>흔함</td><td>-</td></tr><tr><td>FEV1 ≥ 12% &#x26; > 400 mL 증가 (강한 가역성)</td><td>천식 확률 높음</td><td>흔하지 않음</td><td>천식+COPD 진단에 적합</td></tr></tbody></table>
 
 ## <mark style="color:green;">특별한 경우의 천식</mark>
 
