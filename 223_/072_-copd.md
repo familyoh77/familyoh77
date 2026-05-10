@@ -400,8 +400,8 @@ E0[EXACERBATION] --> E1[LABA or LAMA]
     E2 -- "if eos < 100" --> E4{ }
     E3 --> E4
     
-    E4 --> E5["<u>Roflumilast</u><br/>(FEV₁ < 50 &<br/>chronic bronchitis)"]
-    E4 --> E6["<u>Azithromycin</u><br/>(현재 비흡연자에서<br/>우선적으로)"]
+    E4 --> E5["<u>Roflumilast</u><br/>FEV₁ <50% &<br/>chronic bronchitis"]
+    E4 --> E6["<u>Azithromycin</u><br/>현재 비흡연자에서<br/>우선적으로"]
     E3 -- "if eos ≥300"--> E7["<u>Dupilumab</u><br/>chronic bronchitis"]
 
 style D0 fill:#eeeeee,stroke:#888888,stroke-width:2px
@@ -431,15 +431,15 @@ eos = blood eosinophil count (cells/μL)\
 
 ```mermaid
 flowchart TD
-    A["<b>COPD 진단</b><br/>증상 + 위험 인자 + post-BD FEV1/FVC &lt; 0.7"]
+    A(["<u>COPD 진단</u><br/>증상 + 위험 인자 + post-BD FEV1/FVC &lt; 0.7"])
 
-    A --> B["<b>주 표현형 평가</b><br/>• Dyspnea burden (mMRC / CAT)<br/>• Exacerbation 빈도<br/>• Blood eosinophil<br/>• Chronic bronchitis 여부<br/>• Emphysema / hyperinflation<br/>• Asthma feature<br/>• Frailty / cachexia"]
+    A --> B["<b>주 표현형 평가¹⁾</b>"]
 
     B --> C1["① <b>Dyspnea-predominant</b><br/>운동 시 호흡 곤란 중심"]
     C1 --> D1["LABA+LAMA<br/>호흡 재활 + 운동 프로그램<br/>흡입기 기종 최적화"]
 
     B --> C2["② <b>Frequent exacerbator</b><br/>악화 ≥2회/년 또는 입원 ≥1회"]
-    C2 --> E2{"Blood eosinophil"}
+    C2 --> E2["Blood eosinophil"]
     E2 -->|"≥300"| F2["Triple therapy<br/>(LABA+LAMA+ICS)"]
     E2 -->|"100–299"| G2["LABA+LAMA<br/>ICS 추가 고려"]
     E2 -->|"&lt;100"| H2["LABA+LAMA<br/>ICS 효과 제한; 폐렴 위험"]
@@ -456,15 +456,20 @@ flowchart TD
     B --> Z["<b>모든 표현형 공통</b>"]
     Z --> Z1["금연 · 예방접종<br/>흡입기 교육 · 신체 활동<br/>동반 질환 관리"]
 
-    style A fill:#e3f2fd,stroke:#90caf9
+   classDef sky fill:#e3f2ff,stroke:#2196f3
+   class D1,F2,D3,D4,D5,G2,H2,Z1 sky
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style B fill:#fff3e0,stroke:#ffcc80
     style C1 fill:#f1f8e9,stroke:#aed581
     style C2 fill:#fce4ec,stroke:#f48fb1
     style C3 fill:#ede7f6,stroke:#b39ddb
     style C4 fill:#fff8e1,stroke:#ffe082
     style C5 fill:#f3e5f5,stroke:#ce93d8
+    style E2 fill:#fff9c4,stroke:#ffe082
     style Z fill:#eceff1,stroke:#b0bec5
 ```
+
+¹⁾**주 표현형 평가**:  Dyspnea burden(mMRC / CAT), Exacerbation 빈도, Blood eosinophil, Chronic bronchitis 여부, Emphysema/hyperinflation, Asthma feature, Frailty/cachexia
 
 <p align="center"><strong>COPD 표현형 기반 치료 알고리듬</strong></p>
 
@@ -509,11 +514,7 @@ _VAS = visual analog dyspnea scale_
 * **기관지 확장제** : SABA ± SAMA 투여를 가능한 한 빨리 시작; 호전 후 LABA로 유지 치료 전환
 * **전신 steroid** : prednisolone 30\~40 ㎎/d ×5일 이내 <mark style="color:blue;">\[소론도]</mark> - 5일 단기 요법이 14일 요법과 동등한 효과
 * **산소 공급** : 목표 SaO2 88\~92%; ABG로 hypercapnia와 acidosis 모니터링 (입원 치료)
-
-{% hint style="danger" %}
-⚠️ 과도한 산소 공급은 CO2 retention과 respiratory acidosis를 악화시킬 수 있다. 고농도 O2 투여는 SaO2 목표 88\~92%를 초과하지 않도록 조절한다.
-{% endhint %}
-
+  * 과도한 산소 공급은 CO2 retention과 respiratory acidosis를 악화시킬 수 있음. 고농도 O2 투여는 SaO2 목표 88\~92%를 초과하지 않도록 조절함
 * **NIV (비-침습 양압 환기)** : COPD 급성 악화에서 기관 삽관 및 사망률 감소 효과
   * 적응증 : respiratory acidosis (pH ≤7.35), 고탄산혈증, 부호흡근 사용을 동반한 심한 호흡 곤란
   * 금기 : 의식 소실, 분비물 처리 불가, 혈역학적 불안정, 기흉
@@ -522,13 +523,12 @@ _VAS = visual analog dyspnea scale_
 {% hint style="info" %}
 **항생제 투여 기준 (Anthonisen criteria 응용)**
 
-다음 3대 증상 중 **화농성 가래를 포함하여 2개 이상** 있을 때 항생제를 고려한다.
+다음 3대 증상 중 화농성 가래를 포함하여 2개 이상 있을 때 항생제 투여를 고려\
+1\. 화농성 가래 (노란색 또는 녹색으로 변화) ← 세균 감염의 가장 중요한 지표\
+2\. 호흡 곤란 악화\
+3\. 가래 양 증가
 
-1. 호흡 곤란 악화
-2. 가래 양 증가
-3. **화농성 가래** (노란색 또는 녹색으로 변화) ← 세균 감염의 가장 중요한 지표
-
-CRP ≥20 mg/L인 경우 세균성 감염 가능성이 높으며, **CRP ＜20 mg/L이면 항생제 없이 경과 관찰 가능**. 투여 전 가래 배양 검사 시행.
+CRP ≥20 mg/L인 경우 세균성 감염 가능성이 높으며, CRP ＜20 mg/L이면 항생제 없이 경과 관찰 가능. 투여 전 가래 배양 검사 시행.
 {% endhint %}
 
 #### <mark style="color:$primary;">항생제 선택 \[NICE 2018]</mark>
