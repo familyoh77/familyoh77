@@ -1,4 +1,4 @@
-# 만성 폐쇄성 폐질환 Chronic Obstructive Pulmonary Disease (COPD)
+# 만성 폐쇄성 폐질환 COPD
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -83,7 +83,7 @@
 * 혈중 호산구 : ICS 효과 정도 예측; 수치가 높을수록 ICS에 더 잘 반응
 * 혈중 산소 : SaO2, PaO2, pulse oximetry (특히 야간)
 * 흉부 X선 : hyperinflation, vascular marking 감소/bullae (emphysema), thickened bronchial marking (chronic bronchitis); 특이적이지 않음, 다른 질환 감별에 이용
-* chest CT : 빈번한 악화 또는 폐기능 검사 중증도와 불일치하는 증상 감별, 폐 용적 제한술 대상 평가 (FEV1 15~45%, 과팽창 증거), 폐암 선별 검사
+* chest CT : 빈번한 악화 또는 폐기능 검사 중증도와 불일치하는 증상 감별, 폐 용적 제한술 대상 평가 (FEV1 15\~45%, 과팽창 증거), 폐암 선별 검사
 * α-1 antitrypsin 결핍 선별 검사 : 특히 유병률이 높은 지역에서 권고
 * 6분 보행 검사 (6MWT) : ≥350 m이면 기능적 제한 없음, ＜150 m이면 심한 기능적 제한; 삶의 질, 치료 효과 및 사망률 예측에 활용
 * CBC : 악화 시 WBC↑(neutrophilia), 만성 저산소증 시 RBC↑
@@ -121,8 +121,8 @@ SABD = short-acting bronchodilator
 
 #### <mark style="color:$primary;">CAT (COPD Assessment Test)</mark>
 
-* 환자의 불편 정도에 대한 포괄적 평가 도구 (8개 항목, 각 0~5점, 총점 0~40점)
-* 총점 ≤9점 : 경미한 영향 / 10~20점 : 중간 / 21~30점 : 심함 / ≥31점 : 매우 심함
+* 환자의 불편 정도에 대한 포괄적 평가 도구 (8개 항목, 각 0~~5점, 총점 0~~40점)
+* 총점 ≤9점 : 경미한 영향 / 10~~20점 : 중간 / 21~~30점 : 심함 / ≥31점 : 매우 심함
 
 <table><thead><tr><th width="140">항목</th><th width="220">0점 상태</th><th width="80">배점</th><th>5점 상태</th></tr></thead><tbody><tr><td>기침</td><td>전혀 기침을 하지 않는다</td><td>0–5</td><td>항상 기침을 한다</td></tr><tr><td>가래</td><td>가슴에 가래가 전혀 없다</td><td>0–5</td><td>가슴에 가래가 가득 차 있다</td></tr><tr><td>가슴 답답함</td><td>가슴 답답함을 전혀 느끼지 않는다</td><td>0–5</td><td>매우 가슴 답답함을 느낀다</td></tr><tr><td>숨참</td><td>언덕이나 계단 1층을 오를 때 전혀 숨이 차지 않는다</td><td>0–5</td><td>언덕이나 계단 1층을 오를 때 매우 숨이 차다</td></tr><tr><td>집안 활동</td><td>집에서 활동하는데 전혀 제약을 받지 않는다</td><td>0–5</td><td>집에서 활동하는데 매우 제약을 받는다</td></tr><tr><td>외출 자신감</td><td>폐 상태에도 불구하고 외출하는데 자신이 있다</td><td>0–5</td><td>폐 문제로 외출하는데 자신이 없다</td></tr><tr><td>수면</td><td>잠을 잘 잔다</td><td>0–5</td><td>폐 문제로 잠을 잘 자지 못한다</td></tr><tr><td>기운</td><td>기운이 왕성하다</td><td>0–5</td><td>기운이 전혀 없다</td></tr></tbody></table>
 
@@ -189,15 +189,15 @@ graph TD
 
 ### <mark style="color:orange;">호흡 재활 치료</mark>
 
-* 대상 : 주로 Group B, E; 중등도~중증 COPD에서 호흡 곤란, 운동 능력, 삶의 질 유의하게 개선
+* 대상 : 주로 Group B, E; 중등도\~중증 COPD에서 호흡 곤란, 운동 능력, 삶의 질 유의하게 개선
 * 구성 : 운동 훈련, 호흡 근육 훈련, 교육, 영양 상담
-* 악화 후 3~4주 이내 시작 시 재입원율 감소 효과
+* 악화 후 3\~4주 이내 시작 시 재입원율 감소 효과
 
 ### <mark style="color:orange;">장기 산소 치료</mark>
 
-* 적응증 : 만성 중증 저산소증 (안정 상태에서 PaO2 ≤55 ㎜Hg 또는 SaO2 ≤88%; 또는 PaO2 56~60 ㎜Hg + 심부전/적혈구증가증/폐고혈압 동반 시)
+* 적응증 : 만성 중증 저산소증 (안정 상태에서 PaO2 ≤55 ㎜Hg 또는 SaO2 ≤88%; 또는 PaO2 56\~60 ㎜Hg + 심부전/적혈구증가증/폐고혈압 동반 시)
 * 하루 **≥15시간** 사용 시 생존율 향상
-* 목표 SaO2 88~92% (고탄산혈증 환자에서 과도한 산소 공급 주의)
+* 목표 SaO2 88\~92% (고탄산혈증 환자에서 과도한 산소 공급 주의)
 * 비-침습 양압 환기(NIV) : 만성 고탄산혈증 동반 중증 COPD에서 병원 재입원 및 사망률 감소
 
 ### <mark style="color:orange;">기타 비-약물 치료</mark>
@@ -205,7 +205,7 @@ graph TD
 * 영양 : 저체중 환자에서 영양 보충; 고지방/저탄수화물 식이 고려 (CO2 생성 감소)
 * 수면 : 충분한 수면, 폐쇄수면무호흡 동반 시 CPAP
 * 폐 용적 감소 수술(LVRS) / 기관지경 폐 용적 감소술(BLVR) : 이형성 폐기종, 심한 과팽창에서 선택적으로 고려
-* 폐 이식 : 말기 COPD (BODE index 7~10)에서 고려; 5년 생존율 약 50% 수준
+* 폐 이식 : 말기 COPD (BODE index 7\~10)에서 고려; 5년 생존율 약 50% 수준
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -253,9 +253,9 @@ graph TD
 * stable COPD에서 기관지 확장 효과
 * 부작용 : 용량에 따른 독성(유효 농도와 독성 농도의 차이가 적음); 구역, 구토, 설사, 불면, 흥분, 떨림, 두통, 부정맥, 발작
 * 적용 : 다른 제제를 사용하기 어렵거나 효과가 없는 경우에만 선택
-* theophylline 200 ㎎ bid, (필요시) 1~2주 후 100~200 ㎎ 증량 <mark style="color:blue;">\[테올란 비]</mark>
+* theophylline 200 ㎎ bid, (필요시) 1~~2주 후 100~~200 ㎎ 증량 <mark style="color:blue;">\[테올란 비]</mark>
   * 감량 : 간/신 장애, ＞55세, CHF
-  * 치료 범위 : 8~13 ㎍/㎖; 용량 조절 후 매 6~12개월마다 레벨 체크
+  * 치료 범위 : 8~~13 ㎍/㎖; 용량 조절 후 매 6~~12개월마다 레벨 체크
 
 ### <mark style="color:orange;">Steroid</mark>
 
@@ -263,7 +263,7 @@ graph TD
 
 * 적용 권고 : LABA 사용에도 불구하고 COPD 악화로 입원 병력 또는 ≥2회/1년 악화, 혈중 eosinophil ≥300 cells/μL, 천식 동반
   * ICS 반응은 eos ＞150 시 나타나기 시작하며 가장 좋은 반응은 ≥300에서 나타남
-* 적용 고려 : LABA 사용에도 불구하고 ≥1회/1년 악화, eosinophil 100~299 cells/μL
+* 적용 고려 : LABA 사용에도 불구하고 ≥1회/1년 악화, eosinophil 100\~299 cells/μL
 * 적용 안 함 : 반복되는 폐렴, eosinophil ＜100 cells/μL, mycobacterial 감염 병력
 * 규칙적 사용 시 폐렴 유발 위험 증가; 장기 단독 사용은 권고하지 않음
 
@@ -279,12 +279,12 @@ graph TD
 
 #### <mark style="color:$primary;">LABA+LAMA+ICS</mark>
 
-<table><thead><tr><th width="420">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark></td><td>100/62.5/25 μg/puff qd</td></tr><tr><td>mometasone / glycopyrronium / indacaterol <mark style="color:blue;">[에너져어 흡입용캡슐]</mark></td><td>160/50/150 1C qd</td></tr><tr><td>budesonide / formoterol / glycopyrrolate <mark style="color:blue;">[브리즈트리 에어로스피어]</mark></td><td>320/9/14.4 μg 2 puffs bid</td></tr></tbody></table>
+<table><thead><tr><th width="420">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark></td><td>100/62.5/25 μg/puff qd</td></tr><tr><td>mometasone / glycopyrronium / indacaterol <mark style="color:blue;">[에너어 흡입용캡슐]</mark></td><td>160/50/150 1C qd</td></tr><tr><td>budesonide / formoterol / glycopyrrolate</td><td>320/9/14.4 μg 2 puffs bid</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">전신 Steroid</mark>
 
 * 장기(＞2주) 지속 사용에 대한 유익성은 불분명하며 부작용을 고려하여 단기간 제한적 사용
-* prednisolone 5 ㎎ : 3~6T/d <mark style="color:blue;">\[소론도]</mark>
+* prednisolone 5 ㎎ : 3\~6T/d <mark style="color:blue;">\[소론도]</mark>
 
 ### <mark style="color:orange;">Phosphodiesterase-4 억제제 (PDE4i)</mark>
 
@@ -302,8 +302,8 @@ graph TD
 
 * 규칙적 사용이 일부 환자에서 악화를 줄여주지만 일반적이지 않음; 선별적으로 고려
 * acetylcysteine 200 ㎎ tid <mark style="color:blue;">\[뮤테란]</mark>
-* carbocysteine 375~750 ㎎ tid <mark style="color:blue;">\[리나치올]</mark>
-* erdosteine 300 ㎎/C bid~tid <mark style="color:blue;">\[엘도스]</mark>
+* carbocysteine 375\~750 ㎎ tid <mark style="color:blue;">\[리나치올]</mark>
+* erdosteine 300 ㎎/C bid\~tid <mark style="color:blue;">\[엘도스]</mark>
 
 ### <mark style="color:orange;">기타</mark>
 
@@ -405,8 +405,8 @@ _VAS = visual analog dyspnea scale_
 ### <mark style="color:orange;">치료</mark>
 
 * **기관지 확장제** : SABA ± SAMA 투여를 가능한 한 빨리 시작; 호전 후 LABA로 유지 치료 전환
-* **전신 steroid** : prednisolone 30~40 ㎎/d ×5일 이내 <mark style="color:blue;">\[소론도]</mark> — 5일 단기 요법이 14일 요법과 동등한 효과
-* **산소 공급** : 목표 SaO2 88~92%; ABG로 hypercapnia와 acidosis 모니터링 (입원 치료)
+* **전신 steroid** : prednisolone 30\~40 ㎎/d ×5일 이내 <mark style="color:blue;">\[소론도]</mark> — 5일 단기 요법이 14일 요법과 동등한 효과
+* **산소 공급** : 목표 SaO2 88\~92%; ABG로 hypercapnia와 acidosis 모니터링 (입원 치료)
 * **항생제** : 악화의 많은 경우가 세균 감염과 무관; 화농성 가래, 호흡 곤란 악화, 가래 증가가 모두 동반되거나 중증 악화 시 고려; 투여 전 가래 배양 검사 시행
 
 #### <mark style="color:$primary;">항생제 선택 \[NICE 2018]</mark>
@@ -417,7 +417,7 @@ _VAS = visual analog dyspnea scale_
 * doxycycline : 200 ㎎ × 1일, 이후 100 ㎎ qd × 4일 <mark style="color:blue;">\[독시사이클린]</mark>
 * clarithromycin 500 ㎎ bid ×5일 <mark style="color:blue;">\[클래리시드]</mark>
 
-**2차 선택제** : 경구 1차 선택제에 2~3일 내 호전되지 않는 경우 → 1차 선택제 내에서 교체
+**2차 선택제** : 경구 1차 선택제에 2\~3일 내 호전되지 않는 경우 → 1차 선택제 내에서 교체
 
 **대체제** : 항생제 반복 복용, 내성균 보유 병력, 합병증 발생 고위험 등 치료 실패 위험이 높은 경우
 
@@ -519,7 +519,7 @@ J44 기타 만성 폐색성 폐질환
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
 * **흡입제 사용법 교육** : 잘못된 흡입 기술은 치료 실패의 가장 흔한 원인; 흡입기 종류(MDI, DPI, SMI)에 따라 사용법이 다르므로 직접 시연하여 교육
-  * MDI : 흔들기 → 숨을 끝까지 내쉬기 → 흡입구 물기 → 분무와 동시에 천천히 깊게 흡입(약 4~5초) → 10초 참기
+  * MDI : 흔들기 → 숨을 끝까지 내쉬기 → 흡입구 물기 → 분무와 동시에 천천히 깊게 흡입(약 4\~5초) → 10초 참기
   * DPI : 캡슐/블리스터 장전 확인 → 숨을 끝까지 내쉬기 → **빠르고 강하게** 흡입 (느리게 흡입하면 약이 폐 깊이 도달하지 않음)
   * ICS 포함 흡입제 사용 후 반드시 **구강 헹굼** (구강 칸디다, 구내염 예방)
 * **유지(controller) vs 응급(rescue) 흡입제 구분** : LAMA/LABA는 매일 규칙적으로 사용하는 유지제; SABA는 증상이 갑자기 심해질 때 사용하는 응급제 — 증상이 없어도 유지제를 중단하지 않도록 강조
@@ -556,7 +556,7 @@ J44 기타 만성 폐색성 폐질환
 
 **악화 행동 계획 (Exacerbation Action Plan)**
 
-| 단계 | 상황 | 행동 |
-|------|------|------|
-| 🟡 주의 | 평소보다 숨이 더 차고 가래가 늘었을 때 | 응급 흡입제 사용 횟수 늘리고, 다음 외래 일정을 앞당겨 연락 |
-| 🔴 즉시 내원/119 | 숨이 매우 심하게 차거나, 입술이 파래지거나, 정신이 혼미해질 때 | 즉시 응급실 방문 또는 119 호출 |
+| 단계           | 상황                                   | 행동                                 |
+| ------------ | ------------------------------------ | ---------------------------------- |
+| 🟡 주의        | 평소보다 숨이 더 차고 가래가 늘었을 때               | 응급 흡입제 사용 횟수 늘리고, 다음 외래 일정을 앞당겨 연락 |
+| 🔴 즉시 내원/119 | 숨이 매우 심하게 차거나, 입술이 파래지거나, 정신이 혼미해질 때 | 즉시 응급실 방문 또는 119 호출                |
