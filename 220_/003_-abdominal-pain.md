@@ -206,41 +206,39 @@ class U,E,I,R,O,P redBox
 
 ```mermaid
   flowchart TD
-    Start([발열 또는 배꼽 주위에서<br/>우하복부로 이동하는 복통력])
-    Start -- "Yes" --> Appendix[복막염 또는 충수염 고려]
-    Appendix --> CT1[조영제 CT 검사 고려]
-    Start -- "No" --> Physical[직장 우측 통증, 경직,<br/>반발압통, psoas sign]
-    Physical -- "양성" --> CT1
-    Physical -- "음성" --> Others[소변, 대장, 골반 검사 시행]
+    %% 1. 우하복부 섹션
+    A1([우하복부 복통의 <br/>평가 알고리듬]) --> Start1
+    Start1[발열 또는 배꼽 주위에서<br/>우하복부로 이동하는 복통력]
+    Start1 -- "Yes" --> Appendix1[복막염 또는<br/> 충수염 고려]
+    Appendix1 --> CT1[조영제 CT <br/>검사 고려]
+    Start1 -- "No" --> Physical1[직장 우측 통증, 경직,<br/>반발압통, psoas sign]
+    Physical1 -- "양성" --> CT1
+    Physical1 -- "음성" --> Others1[소변, 대장, <br/>골반 검사 시행]
+    
+    %% 2. 좌하복부 섹션
+A2([좌하복부 복통의 <br/>평가 알고리듬]) --> Start2
+        Start2[발열 또는 게실 질환 병력]
+    Start2 -- "Yes" --> Treatment2[조영제 CT 또는 <br/>게실 질환에 대한 <br/>경험적 치료 고려]
+    Start2 -- "No" --> Physical2[복부 팽만, 압통, <br/>직장 출혈 평가]
+    
+    Physical2 -- "양성" --> Treatment2
+    Physical2 -- "음성" --> Specialized2[비뇨기계 또는<br/> 부인과계 질환 고려]
+    
+    classDef gray fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class A1,A2 gray
+    classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+    class Start1,Start2 lightGreen
     classDef yellow fill:#fff9c4,stroke:#ffe082
-    class Physical yellow
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Appendix fill:#ffe6e6,stroke:#ff0000 
+    class Physical1,Physical2 yellow
+    classDef L_red fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    class Appendix1,Specialized2 L_red
+    style Treatment2 fill:#e6f3ff,stroke:#0066cc
+
 ```
 
-<p align="center"><strong>우하복부 복통의 평가 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 3.</mark></em></p>
+<p align="center"><strong>하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 3. Fig 4.</mark></em></p>
 
 ***
-
-```mermaid
-graph TD
-    Start([발열 또는 게실 질환 병력]) --> Step1[Yes / No]
-    Step1 -- "Yes" --> Treatment[조영제 CT 또는 게실 질환에 대한 경험적 치료 고려]
-    Step1 -- "No" --> Physical[복부 팽만, 압통, <br/>직장 출혈 평가]
-    Physical --> Result[양성 / 음성]
-    Result -- "양성" --> Treatment
-    Result -- "음성" --> Specialized[비뇨기계 또는 부인과계 질환 고려]
-
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class Step1,Result yellow
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Treatment fill:#e6f3ff,stroke:#0066cc
-    style Specialized fill:#fde8f0,stroke:#e91e8c
-```
-
-<p align="center"><strong>좌하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 4.</mark></em></p>
 
 #### <mark style="color:$primary;">여성 특이 하복부 복통</mark>
 
