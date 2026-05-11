@@ -202,6 +202,8 @@ class U,E,I,R,O,P redBox
 * Cystitis : 치골상부 통증; 배뇨통, 빈뇨, 급뇨, 혈뇨
 * Acute urinary retention : 치골상부 통증
 
+***
+
 ```mermaid
   flowchart TD
     Start[발열 또는 배꼽 주위에서<br/>우하복부로 이동하는 복통력]   
@@ -214,6 +216,10 @@ class U,E,I,R,O,P redBox
     class Start,Physical yellow
     style Appendix fill:#ffe6e6,stroke:#ff0000 
 ```
+
+<p align="center"><strong>우하복부 복통의 평가 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 3.</mark></em></p>
 
 ```mermaid
 graph TD
