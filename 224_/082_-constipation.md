@@ -111,11 +111,51 @@ C. 과민대장증후군에 해당되지 않음
     delayed transit으로 정의
 * anorectal manometry : 직장 및 항문 괄약근의 작동 정도를 측정
 
+
+
+
+
+***
+
+```mermaid
+graph TD
+    B[기저 원인 파악]
+    B --> C[기질적 원인 제외<br/>갑상선저하증·고칼슘혈증·<br/>변비 유발 약제 검토]
+    C --> D[생활 습관 교정<br/>식이섬유 20~30 g/d<br/>수분 섭취·규칙적 운동]
+    D --> E[호전?]
+    E -->|No| F[삼투성 하제 우선<br/>PEG 또는 MgO]
+    E -->|Yes| Z[유지 치료]
+    F --> G[호전?]
+    G -->|No| H[자극성 하제<br/>bisacodyl·senna 단기 추가]
+    G -->|Yes| Z
+    H --> I[호전?]
+    I -->|No| J[prucalopride 또는<br/>colonic secretagogue 고려]
+    I -->|Yes| Z
+    J --> K[opioid 유발?]
+    K -->|Yes| L[μ-opioid peripheral antagonist<br/>naloxegol·methylnaltrexone]
+    K -->|No| M[전문의 의뢰<br/>대장 통과 시간 검사 등]
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,E,G,I,K yellow
+    style C fill:#e8f8e8,stroke:#4caf50
+    style Z fill:#d0e8ff,stroke:#1a6abf
+    style M fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+```
+
+<p align="center"><strong>변비 환자의 단계적 약물 선택 알고리듬</strong></p>
+
+***
+
+### <mark style="color:orange;">식</mark>
+
 ***
 
 ## Management
 
+
+
 ※ 치료 목표 : 증상 개선(soft, non-straining), ≥3회/주 배변
+
+
 
 **1. 안심시킴** : 경증 변비는 비정상적인 것이 아님을 설명
 
@@ -174,6 +214,15 @@ C. 과민대장증후군에 해당되지 않음
     •고령에서는 전해질 불균형 위험을 고려하여 단순 온수 관장을 권고
 * probiotics : 논란; 일부에서 효과 (☞ p.372)
 * 수술 또는 출산 후, 치핵, 항문 열상 : 배변 연화제(예: docusate)
+
+{% hint style="info" %}
+**실전 1차 선택**
+
+* 만성 변비 1차 : **PEG 3350** (내약성 우수, 안전성 높음) 또는 **MgO** (국내 접근성 높음)
+* 급성·단기 : **bisacodyl** 또는 **glycerin 관장**
+* 만성 변비 + 하제 실패 : **prucalopride** (5-HT4 agonist)
+* OIC (opioid 유발 변비) : **naloxegol** 또는 **methylnaltrexone**
+{% endhint %}
 
 #### 약물 치료 과정 예
 
