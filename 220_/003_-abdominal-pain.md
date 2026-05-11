@@ -206,20 +206,23 @@ class U,E,I,R,O,P redBox
 
 ```mermaid
   flowchart TD
-    Start[발열 또는 배꼽 주위에서<br/>우하복부로 이동하는 복통력]   
+    Start([발열 또는 배꼽 주위에서<br/>우하복부로 이동하는 복통력])
     Start -- "Yes" --> Appendix[복막염 또는 충수염 고려]
     Appendix --> CT1[조영제 CT 검사 고려]
     Start -- "No" --> Physical[직장 우측 통증, 경직,<br/>반발압통, psoas sign]
     Physical -- "양성" --> CT1
     Physical -- "음성" --> Others[소변, 대장, 골반 검사 시행]
     classDef yellow fill:#fff9c4,stroke:#ffe082
-    class Start,Physical yellow
+    class Physical yellow
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     style Appendix fill:#ffe6e6,stroke:#ff0000 
 ```
 
 <p align="center"><strong>우하복부 복통의 평가 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 3.</mark></em></p>
+
+***
 
 ```mermaid
 graph TD
