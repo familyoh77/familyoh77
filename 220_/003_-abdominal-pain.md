@@ -204,38 +204,31 @@ class U,E,I,R,O,P redBox
 
 ```mermaid
   flowchart TD
-    Start[발열 또는 배꼽 주위에서<br/>우하복부로 이동하는 복통 병력] --> Step1{Yes / No}
-    
-    Step1 -- "Yes" --> Appendix[복막염 또는 충수염 고려]
+    Start[발열 또는 배꼽 주위에서<br/>우하복부로 이동하는 복통력]   
+    Start -- "Yes" --> Appendix[복막염 또는 충수염 고려]
     Appendix --> CT1[조영제 CT 검사 고려]
-    
-    Step1 -- "No" --> Physical[직장 우측 통증, 경직,<br/>반발압통, psoas sign]
-    
-    Physical --> Result{양성 / 음성}
-    Result -- "양성" --> CT1
-    Result -- "음성" --> Others[소변, 대장, 골반 검사 시행]
-
-    style Start fill:#f9f,stroke:#333,stroke-width:2px
+    Start -- "No" --> Physical[직장 우측 통증, 경직,<br/>반발압통, psoas sign]
+    Physical -- "양성" --> CT1
+    Physical -- "음성" --> Others[소변, 대장, 골반 검사 시행]
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class Start,Physical yellow
     style Appendix fill:#ffe6e6,stroke:#ff0000 
 ```
 
-<p align="center"><strong>우하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 3.</mark></em></p>
-
 ```mermaid
 graph TD
-    Start[발열 또는 게실 질환 병력] --> Step1{Yes / No}
-    
+    Start([발열 또는 게실 질환 병력]) --> Step1[Yes / No]
     Step1 -- "Yes" --> Treatment[조영제 CT 또는 게실 질환에 대한 경험적 치료 고려]
-    
-    Step1 -- "No" --> Physical[복부 팽만, 압통, 직장 출혈 평가]
-    
-    Physical --> Result{양성 / 음성}
+    Step1 -- "No" --> Physical[복부 팽만, 압통, <br/>직장 출혈 평가]
+    Physical --> Result[양성 / 음성]
     Result -- "양성" --> Treatment
     Result -- "음성" --> Specialized[비뇨기계 또는 부인과계 질환 고려]
 
-    style Start fill:#f9f,stroke:#333,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Step1,Result yellow
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     style Treatment fill:#e6f3ff,stroke:#0066cc
-    style Specialized fill:#ffe6e6,stroke:#ff0000
+    style Specialized fill:#fde8f0,stroke:#e91e8c
 ```
 
 <p align="center"><strong>좌하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 4.</mark></em></p>
@@ -311,7 +304,7 @@ graph TD
 
   (☞ [통증 패턴 인식](003_-abdominal-pain.md#통증-패턴-인식), [CT vs 초음파 선택 원칙](003_-abdominal-pain.md#영상-검사) 참조)
 
-**Step 5.  Disposition 결정**
+**Step 5. Disposition 결정**
 
 * 응급 의뢰 또는 이송 : vital 불안정, 복막염, 치명 질환 의심
 * 6\~12시간 관찰 후 재평가 : 진단 불명확, 충수염 초기 의심

@@ -438,7 +438,6 @@ graph TD
     SI(["LTBI 진단 검사가 필요한<br/><b>면역 저하 성인</b>"])
     ExcI["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선·세균학적 검사"]
     IGA2["IGRA"]
-    TST2["TST"]
     PosI1["LTBI 양성"]
     NegIto["TST 시행"]
     PosI2["LTBI 양성"]
