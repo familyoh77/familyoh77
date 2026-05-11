@@ -87,9 +87,62 @@ Red Flags!
 
 ### 검사
 
-*   내시경 검사가 일률적으로 필요하지는 않으나 중증 또는 경고 증상이 있는 경우에는 고려해야 함 (☞ p.384)
+* 내시경 검사가 일률적으로 필요하지는 않으나 중증 또는 경고 증상이 있는 경우에는 고려해야 함 (☞ p.384)
 
-    ![image](../.gitbook/assets/41aec76d-2d37-45f7-a3cb-93430314b940.JPG)
+```mermaid
+graph TD
+    %% 1단계: 증상 확인 및 병력 청취
+    Start(["Functional dyspepsia(FD)에 부합하는 증상 존재"]) 
+    --> History["<b>FD 중심 병력 청취 및 신체 진찰</b>
+- 경고 증상 여부
+- 증상의 시작 시기 및 기간
+- 감염 또는 정신적 문제 후 발생 여부
+- 다른 상부 위장관 문제 존재 여부
+- 상복부 통증이 있다면 이것이 배변 습관의 변화와 관계 없거나 배변에 의해서 호전되지 않음을 확인(IBS 배제)
+- 위식도역류 증상(속쓰림, 역류) 여부(GERD 배제)
+- 체중 감소 평가
+- 다른 gut-brain interaction 이상에 의한 하부 GI 증상 여부
+- 다른 기능성 비위장관 질환의 존재 여부
+- 위산 분비, 헬리코박터 감염
+- 약물(NSAID, opioid)
+"]
+
+    %% 2단계: 검사 진행
+    History --> Labs["<b>[기초 검사]</b><br/>• H. pylori 검사 (breath/stool)<br/>• ≥55세: CBC, (IBS 동반 시) celiac serology"]
+    
+    Labs --> AddTest["<b>[필요시 추가 검사]</b><br/>• 비긴급 내시경: 치료 불응 또는 ≥55세(N/V, Plt 상승)<br/>• 긴급 내시경: ≥55세(체중감소), >40세(고위험군/가족력)<br/>• 긴급 CT: ≥60세(복통+체중감소, 췌장암 감별)<br/>• 초음파: biliary colic 특징이 있는 상복부 통증"]
+
+    %% 3단계: 결과 판단
+    
+    AddTest -- "이상 있음" --> Expl["FD 가능성이 여전히 높음과<br/>제한적 조사 근거 설명"]
+    
+    Expl -- "검사상 이상" --> Organic["기질적 질환 치료"]
+    Expl -- "검사상 정상" 
+    --> FD_Diag["1. FD 진단
+2. gut-brain axis의 맥락에서 상태에 대하여 설명
+3. 약물, 정신 치료 등 치료 방법 협의
+4. 환자의 이전 치료 및 선호도를 고려
+5. 환자 교육, 추적 관리 계획
+   - FD는 완치되지 않음 치료는 삶의 질 향상을 도와줌,
+     치료에는 긴 시간이 필요함을 설명
+"]
+    
+    AddTest -- "이상 없음<br/>(또는 해당 없음)" --> FD_Diag
+
+
+
+    %% 스타일 설정
+    style Start fill:#f3f0ff,stroke:#7048e8
+    style History fill:#fff9db,stroke:#fab005
+    style Labs fill:#e3faf2,stroke:#20c997
+    style AddTest fill:#e3faf2,stroke:#20c997
+    style Expl fill:#fff0f6,stroke:#f06595
+    style FD_Diag fill:#e7f5ff,stroke:#228be6
+    style Organic fill:#fff5f5,stroke:#fa5252
+```
+
+기능성 소화불량의 진단 알고리듬\
+Ref. BSG Guideline on the management of functional dyspepsia. 2022. Fig 1.
 
 ***
 
