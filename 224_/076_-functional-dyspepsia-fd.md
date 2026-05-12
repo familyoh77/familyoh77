@@ -15,9 +15,11 @@
 
 * 원인 불명 (☞ p.382)
 * 추정 기전 : disorder of gut–brain interaction(DGBI)
-  * 내장 과민성, 위 배출 지연, 위 적응(accommodation) 장애
+  * **내장 과민성(visceral hypersensitivity)** : 위장 자극에 대한 과도한 감각 반응
+  * **위 배출 지연** : 음식물의 위 통과 시간 연장
+  * **위 적응(gastric accommodation) 장애** : 식후 위저부가 충분히 이완되지 않음; 특히 조기 포만감과 밀접하게 연관
   * 중추신경계–장신경계 이상 상호작용
-  * 장 면역 활성화 및 상피 투과성 증가
+  * **십이지장 미세염증(duodenal microinflammation)** : 일부 환자에서 십이지장 호산구증가증(duodenal eosinophilia), 비만세포(mast cell) 활성화 및 장 점막 투과성 증가가 관찰됨; post-infectious FD 및 음식 유발 FD와 연관
   * 장내 미생물총 이상 (dysbiosis) — 연구 진행 중
   * H. pylori 감염 (일부 환자에서 제균 후 장기 증상 호전)
 
@@ -34,7 +36,7 @@
 * **postprandial fullness(식후 팽만감)** : 식후 위장에 음식이 지속적으로 존재하는 듯한 불편한 느낌
 * **early satiety(조기 포만감)** : 식사를 시작하면서 곧 느껴지는, 식사량에 부합하지 않는 불편한 위장 포만감; 통상적인 분량의 음식을 다 먹을 수 없음
 * **epigastric pain(상복부 통증)** : 심하고 불편한 주관적인 상복부 통증
-* **epigastric burning(상복부 작열감)** : 상복부의 주관적인 불편한 작열감
+* **epigastric burning(상복부 작열감)** : 상복부에 느껴지는 주관적인 화끈거림 또는 열감
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -51,7 +53,7 @@
 * 비의도적 유의미한 체중 감소 (>3 kg 또는 체중의 5% 이상)
 * 연하 곤란(dysphagia) 또는 연하통(odynophagia)
 * 반복적·지속적 구토
-* ≥55세 신규 발생 또는 최근 변화한 소화불량 증상
+* ≥55세 신규 발생 또는 최근 변화한 소화불량 증상 (✽연령 기준은 지역별 위암 유병률에 따라 다르며, 위암 발생률이 높은 한국·동아시아에서는 보다 적극적인 내시경 접근을 고려한다)
 * 위암 또는 상부위장관 악성 종양 가족력 (특히 1촌)
 * 상복부 종괴 촉지 또는 림프절 종대
 * 새로 발견된 빈혈
@@ -65,8 +67,22 @@
 ## <mark style="color:green;">진단</mark>
 
 * 다른 질환을 배제하여 진단
-* 내시경 검사에서 유의미한 소견이 없고 H. pylori 제균 치료나 경험적 PPI 치료에 반응하지 않는 환자는 기능성 소화불량으로 추정
 * 상부 위장관 경고 징후가 없고 성가신 상복부 통증이나 속쓰림, 조기 포만 &/or 식후 팽만 상태가 ＞8주 지속되면 FD로 진단 \[BSG]
+
+### <mark style="color:orange;">Test-and-Treat 전략</mark>
+
+{% hint style="info" %}
+**경고 증상이 없는 환자 (한국 기준 ~40~55세 미만)의 표준 초기 접근**
+
+1. **H. pylori 검사 우선** (요소 호기 검사 또는 대변 항원 검사)
+2. **H. pylori 양성** → 제균 치료 시행 → 제균 성공 후 6~12개월 이상 증상 지속 시 FD로 확진
+3. **H. pylori 음성** 또는 **제균 후 증상 지속** → phenotype에 따른 약물 치료(PPI / prokinetic) 4주 시도
+4. 치료 불응 또는 경고 증상 발생 시 → 내시경 검사로 전환
+
+한국을 포함한 동아시아에서는 위암 예방 효과를 고려하여 H. pylori 양성 시 **최우선적 제균**을 권고하는 경향이 강하다.
+{% endhint %}
+
+* 내시경 검사에서 유의미한 소견이 없고 H. pylori 제균 치료나 경험적 PPI 치료에 반응하지 않는 환자는 기능성 소화불량으로 추정
 
 ### <mark style="color:orange;">Diagnostic criteria \[ROME Ⅳ]</mark>
 
@@ -114,6 +130,19 @@
 ### <mark style="color:orange;">검사</mark>
 
 * 내시경 검사가 일률적으로 필요하지는 않으나 중증 또는 경고 증상이 있는 경우에는 고려해야 함 (☞ p.384)
+* PDS와 위무력증(gastroparesis)은 증상이 겹칠 수 있음; 반복적인 구역·구토가 심한 경우 **위 배출 신티그래피(gastric emptying scintigraphy)**를 통한 감별을 고려한다
+
+### <mark style="color:orange;">H. pylori-associated dyspepsia 개념</mark>
+
+{% hint style="info" %}
+**진단 선후 관계 (Rome IV)**
+
+H. pylori 양성 소화불량 환자에서는 **먼저 제균 치료를 시행**한다. 제균 성공 후에도 증상이 남는다면, **그때서야 비로소** 기능성 소화불량(FD)으로 진단할 수 있다.
+
+반대로, 제균 후 **6~12개월 이상** 증상이 지속적으로 호전되면 이를 **H. pylori-associated dyspepsia**로 간주하며 FD와 구별한다. 이 6~12개월 기준은 임상적 즉시 의사결정 시점이 아닌, **장기적 예후 판단 기준**임에 주의한다.
+
+동아시아에서는 위암 예방 목적으로도 H. pylori 제균이 강력히 권고된다.
+{% endhint %}
 
 ***
 
@@ -146,8 +175,8 @@ graph TD
 3. 약물, 정신 치료 등 치료 방법 협의
 4. 환자의 이전 치료 및 선호도를 고려
 5. 환자 교육, 추적 관리 계획
-   - FD는 완치되지 않음; 치료는 삶의 질 향상을 도와줌,
-     치료에는 긴 시간이 필요함을 설명
+   - 증상이 호전과 악화를 반복하는 경과가 흔하며 장기 관리가 필요할 수 있음,
+     치료는 삶의 질 향상을 목표로 함을 설명
 "]
     
     AddTest -- "이상 없음<br/>(또는 해당 없음)" --> FD_Diag
@@ -170,19 +199,32 @@ graph TD
 ## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="info" %}
-**FD 단계별 치료 원칙**
+**FD Phenotype-Driven Treatment — 아형 기반 치료 선택**
 
-H. pylori 상태 확인 → 양성이면 제균 요법 → 음성 또는 제균 후에도 증상 지속 시 4주간 위산 억제제 → 호전 없으면 prokinetics 또는 neuromodulator로 교체/병용의 순서로 진행한다. 비약물 치료(식이 조절, 운동, 심리 치료)는 모든 단계에서 병행한다.
+FD 치료는 단순한 순차적 escalation보다 **증상 표현형(phenotype)에 따른 초기 약제 선택**이 보다 현대적인 접근이다.
 {% endhint %}
+
+<table><thead><tr><th width="200">Phenotype</th><th width="220">우선 고려 약제</th><th>비고</th></tr></thead><tbody><tr><td>EPS dominant</td><td>PPI / P-CAB / TCA</td><td>산 과민성, 상복부 통증·작열감</td></tr><tr><td>PDS dominant</td><td>prokinetic / acotiamide / buspirone</td><td>식후 팽만·조기 포만감</td></tr><tr><td>EPS + PDS overlap</td><td>병용 치료</td><td>PPI + prokinetic 또는 PPI + TCA</td></tr><tr><td>불안·hypervigilance 우세</td><td>neuromodulator + CBT</td><td>검사 반복 정상, 증상 변동 큼</td></tr><tr><td>Post-infectious FD</td><td>prokinetic ± neuromodulator</td><td>장염 후 발생, nausea·PDS 흔함</td></tr><tr><td>Nausea dominant</td><td>prokinetic 중심</td><td>delayed emptying 고려</td></tr><tr><td>FD-GERD overlap</td><td>PPI + alginate ± prokinetic</td><td>역류·트림 동반, 야식 제한 병행</td></tr></tbody></table>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 생활 습관 개선 등 비약물 치료가 중요
+* **초기부터 phenotype(EPS/PDS/overlap)에 따라 약제를 선택**하는 것이 현대적 접근
 * H. pylori(+) 환자에 대하여 제균 요법 시행; 제균 치료 후 박멸 확인 검사는 위암 위험도가 증가된 환자에서만 권고 \[BSG] (☞ p.403)
-* H. pylori(-) or 제균 요법 후 환자에서 증상이 지속되면 4주간 위산 분비 억제제 투여 → 호전되지 않으면 약물 교체 → 지속 또는 재발 시 최소 유효 용량으로 증상 관리, PPI '필요시 복용' 고려
+* H. pylori(-) 또는 제균 요법 후 증상 지속 시 → phenotype에 따른 약제 4주 투여 → 호전 없으면 교체 또는 병용 → 지속·재발 시 최소 유효 용량 유지
 * 심한 증상, 경고 징후, 난치성 환자 등은 의뢰
 
 ![](../.gitbook/assets/b44a553a-d867-4154-a3b5-d3d4f5fd2c3f.JPG)
+
+### <mark style="color:orange;">FD-GERD Overlap</mark>
+
+* FD와 GERD는 흔히 동반되며 외래에서 매우 흔한 임상 상황
+* EPS는 non-erosive reflux disease(NERD)와 overlap되는 경우가 많음
+* Overlap 환자는 PPI 단독 반응률이 낮을 수 있음
+* 증상 : 상복부 작열감, 식후 역류, 과도한 트림, 흉부·상복부 불편감
+* 치료 : PPI 또는 P-CAB + alginate 조합; prokinetic 병용 고려
+* 행동 치료(야식 제한, 식후 자세 유지, 체중 감량) 병행 필수
+* 난치성 overlap → 저용량 TCA + CBT/behavioral therapy 고려
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -193,19 +235,41 @@ H. pylori 상태 확인 → 양성이면 제균 요법 → 음성 또는 제균 
 * 심리 치료, 인지-행동 치료(CBT), 이완 요법, 스트레스 관리 : 일부에서 효과; 명상, 요가, psychotherapy, gut-directed hypnotherapy (BSG 2022에서 근거 인정)
 * 반드시 필요한 것 외의 약제(NSAID, opioid 등) 사용을 피함
 
+{% hint style="info" %}
+**FD 증상 증폭 모델 (환자 설명용)**
+
+아래 악순환 고리를 환자에게 설명하는 것이 explanation therapy의 핵심이다.
+
+**음식 자극 → 위 운동 이상 / accommodation 장애 → 내장 과민성 증가 → 불안·hypervigilance·스트레스 → 증상 증폭 → 식사 회피 / 불안 강화 → 만성화**
+
+치료 목표 : ① 위 운동 개선 → ② 과민성 감소 → ③ 증폭 고리 차단 → ④ 삶의 질 회복
+{% endhint %}
+
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">위산 분비 억제제 (PPI, H2-수용체 차단제)</mark>
+### <mark style="color:orange;">위산 분비 억제제 (PPI, H2-수용체 차단제, P-CAB)</mark>
 
 (☞ p.377) (보험주의)
 
-* 기능성 소화불량 치료의 1차 선택제 (✽PPI가 H2RA보다 더 효과적이라는 보고가 있음)
-* 특히 EPS에 유효
-* 상복부 통증, 식후 팽만감 및 소화성 궤양 증상, GERD 동반 시 효과
+* **EPS dominant 또는 EPS+PDS overlap phenotype에서 1차로 고려** (✽PPI가 H2RA보다 더 효과적이라는 보고가 있음; PDS dominant 단독에서는 prokinetic을 우선)
+* 특히 EPS에 유효; 상복부 통증, 식후 팽만감 및 소화성 궤양 증상, GERD 동반 시 효과
 * 장기 투여에 따른 부작용 우려가 있음 (특히 PPI); 증상 조절 후 최소 유효 용량 또는 on-demand 투여로 전환 고려
+* **H2RA** : PPI 장기 부작용이 우려되는 환자(고령, 골다공증, 저마그네슘혈증 등)에서 유효한 대안; 효과는 PPI보다 약하나 안전성 프로필 측면에서 선호되는 경우 있음
+
+**PPI**
+
 * omeprazole : 20 ㎎ qd <mark style="color:blue;">\[오엠피]</mark>
 * dexlansoprazole : 30\~60 ㎎ qd <mark style="color:blue;">\[덱실란트 디알]</mark>
-* vonoprazan (P-CAB) : 20 ㎎ qd; K⁺-경쟁적 산분비 억제제; FD + GERD 동반 또는 PPI 불응 EPS에서 고려 <mark style="color:blue;">\[케이캡]</mark>
+
+**P-CAB (Potassium-Competitive Acid Blocker)** (보험주의)
+
+{% hint style="danger" %}
+⚠️ **국내 P-CAB 급여 주의**\
+P-CAB 제제의 국내 주요 급여 적응증은 **GERD, 위궤양, H. pylori 제균 치료**이다. FD 단독으로는 급여 처리가 어려울 수 있으며, FD-GERD overlap 또는 PPI 불응 사례에서 활용 시 급여 기준을 반드시 확인한다.
+{% endhint %}
+
+* tegoprazan 25 ㎎ qd : 국내 개발 P-CAB; **25 ㎎ 저용량이 기능성 소화불량 적응증**을 가짐 — FD 처방 시 활용 가능; 50 ㎎은 GERD/궤양용 <mark style="color:blue;">\[케이캡]</mark>
+* fexuprazan 40 ㎎ qd : 국내 개발 P-CAB; FD + GERD 동반 또는 PPI 불응 EPS에서 고려 <mark style="color:blue;">\[펙수클루]</mark>
 
 ### <mark style="color:orange;">위장관 운동 촉진제 (Prokinetics)</mark>
 
@@ -217,7 +281,7 @@ H. pylori 상태 확인 → 양성이면 제균 요법 → 음성 또는 제균 
 * metoclopramide : 장기 복용 금지 (추체외로 증상 위험) <mark style="color:blue;">\[맥페란]</mark>
 * mosapride : 5-HT4 수용체 작용으로 위장 운동 촉진 <mark style="color:blue;">\[가스모틴]</mark>
 * corydaline : 한방 성분 기반 복합 제제; 위장 운동 촉진 및 제산 효과 <mark style="color:blue;">\[모티리톤]</mark>
-* acotiamide : 100 ㎎ tid ×4wk; M1/M2 무스카린 수용체 차단 및 cholinesterase 억제 기전으로 위 배출·운동 촉진; PDS에서 위약 대비 유의한 증상 제거 입증(RCT); 삶의 질 및 장기 안전성 확인됨 \[Second Asian Consensus 2025]
+* acotiamide : 100 ㎎ tid ×4wk; M1/M2 무스카린 수용체 차단 및 cholinesterase 억제 기전으로 위 배출·운동 촉진; PDS에서 위약 대비 유의한 증상 제거 입증(RCT); 삶의 질 및 장기 안전성 확인됨 \[Second Asian Consensus 2025]; 특히 식사 관련(meal-related) PDS에서 효과 기대; **국내 복합제 또는 대체 용량 존재 가능 — 허가 사항 확인 후 사용**
 
 ### <mark style="color:orange;">제산제</mark>
 
@@ -240,7 +304,7 @@ H. pylori 상태 확인 → 양성이면 제균 요법 → 음성 또는 제균 
 * 종류 : pyrimidinylpiperazine azapirone 유도체, 5-HT1A 수용체 작용제
 * PDS, 조기 포만감에 유효; 주로 PDS 또는 PDS 혼합형에 근거가 있음
 * tandospirone : 10 ㎎ tid ×4wk; buspirone보다 증상 호전 효과 더 우수하다는 보고 있음 \[Second Asian Consensus 2025]
-* buspirone : 10 ㎎ tid ×4wk; 식사 15분 전 복용 <mark style="color:blue;">\[부스파]</mark>
+* buspirone : 10 ㎎ tid ×4wk; 식사 15분 전 복용; **일부 연구에서 gastric accommodation 개선 및 조기 포만감 완화 효과가 보고됨; 근거 수준은 중등도 이하** <mark style="color:blue;">\[부스파]</mark>
 
 ### <mark style="color:orange;">항우울제 (Gut-brain neuromodulator)</mark>
 
@@ -250,23 +314,53 @@ H. pylori 상태 확인 → 양성이면 제균 요법 → 음성 또는 제균 
 * 대증 or 제균 요법으로 호전되지 않는 경우에 2차 약제로 TCA 고려
 * **SSRI/SNRI는 FD에 대한 효과가 입증되어 있지 않음** \[BSG 2022]
 * EPS에 유효
-* 저용량으로 시작하여 점차 증량; 고령에서 낙상·항콜린 부작용 주의
-* amitriptyline : 10\~25 ㎎ 취침 시 <mark style="color:blue;">\[에트라빌]</mark>
+* 저용량으로 시작하여 점차 증량; **고령자에서는 5~10 ㎎부터 시작** — 낙상·항콜린 부작용 주의
+* amitriptyline : 일반 성인 10\~25 ㎎ / 고령자 5\~10 ㎎ 취침 시; 필요 시 2~4주 간격으로 증량 <mark style="color:blue;">\[에트라빌]</mark>
 * imipramine : 25\~50 ㎎ 취침 시 <mark style="color:blue;">\[이미프라민]</mark>
 
-### <mark style="color:orange;">내장 과감각 억제제</mark>
+### <mark style="color:orange;">실험적 / 근거 제한 약제</mark>
 
-* 일부에서 효과 (근거 제한적)
-* 5-HT3 수용체 대항제 : granisetron : 1 ㎎ tid <mark style="color:blue;">\[카이트릴]</mark>
-* opioid 촉진제 : fedotozine
-* cholecystokinin 대항제 : proglumide
-* somatostatin analogue : octreotide <mark style="color:blue;">\[산도스타틴 라르 주]</mark>
+* 아래 약제들은 외래 활용성이 낮고 가이드라인 권고 수준이 약하여 routine use는 권장되지 않음
+* granisetron(5-HT3 대항제), fedotozine(opioid 촉진제), proglumide(CCK 대항제), octreotide(somatostatin analogue) 등 — 연구 단계이거나 제한적 증거
+* **식물성 제제(phytotherapy)** : 일부 가이드라인에서 단기 사용 가능성을 언급
+  * **STW 5 (이베로가스트)** : 9가지 식물 추출물 복합 제제; 일부 RCT에서 FD 증상 호전 보고; 안전성 프로필 양호
+  * **페퍼민트 오일** : 위장관 평활근 이완 기전; 소규모 연구에서 단기 증상 완화 가능성; 근거는 제한적
 
 ### <mark style="color:orange;">Probiotics</mark>
 
 (☞ p.372)
 
-* 논란; 일부 연구에서 효과; 장내 미생물총 개선 기전
+* 특정 균주에서 일부 증상 개선 가능성이 보고되나 근거는 일관되지 않으며, routine use는 아직 확립되지 않음 \[Second Asian Consensus 2025]
+
+***
+
+### <mark style="color:orange;">증상 기반 처방 결정 트리</mark>
+
+```mermaid
+graph TD
+    Q(["환자의 주 증상은?"])
+
+    Q -->|"식후 더부룩함·팽만감"| PDS1["PDS dominant<br/>→ prokinetic<br/>(mosapride, acotiamide, corydaline)"]
+    Q -->|"조금만 먹어도 꽉 참<br/>(조기 포만감)"| PDS2["Accommodation 장애<br/>→ buspirone / tandospirone<br/>± acotiamide 병용"]
+    Q -->|"상복부 쓰리거나 타는 느낌"| EPS1["EPS dominant<br/>→ PPI / P-CAB<br/>± mucosal protective agent"]
+    Q -->|"공복 시 상복부 통증"| EPS2["Acid hypersensitivity<br/>→ PPI + mucosal protective<br/>재발 시 TCA 고려"]
+    Q -->|"식후 메스꺼움"| NAU["Nausea dominant<br/>→ prokinetic<br/>(metoclopramide 단기 가능)"]
+    Q -->|"스트레스 악화"| STR["Gut-brain amplification<br/>→ TCA (amitriptyline)<br/>+ CBT / 이완요법"]
+    Q -->|"역류 + 더부룩함 동반"| OVL["FD-GERD overlap<br/>→ PPI + alginate<br/>± prokinetic"]
+
+    style Q fill:#f3f0ff,stroke:#7048e8
+    style PDS1 fill:#e3faf2,stroke:#20c997
+    style PDS2 fill:#e3faf2,stroke:#20c997
+    style EPS1 fill:#fff9db,stroke:#fab005
+    style EPS2 fill:#fff9db,stroke:#fab005
+    style NAU fill:#e7f5ff,stroke:#228be6
+    style STR fill:#fff0f6,stroke:#f06595
+    style OVL fill:#fff5f5,stroke:#fa5252
+```
+
+<p align="center"><strong>FD 증상 기반 처방 결정 트리</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. Second Asian Consensus Report on Functional Dyspepsia, 2025. BSG FD Guideline, 2022.</mark></em></p>
 
 ***
 
@@ -300,10 +394,10 @@ K30 기능성 소화불량
 >
 > ```
 > 모티리톤 30 ㎎/T    3T   #3   식전
-> 에트라빌 25 ㎎/T    1T         취침 시
+> 에트라빌 10 ㎎/T    1T         취침 시
 > ```
 >
-> _✽불안·우울 동반 또는 1차 약제 단독으로 반응이 없는 경우 저용량 TCA 병용을 고려. 항우울제임이 아닌 gut-brain neuromodulator로 사용함을 환자에게 설명. 2~4주 간격으로 재평가 후 필요 시 증량._
+> _✽불안·우울 동반 또는 1차 약제 단독으로 반응이 없는 경우 저용량 TCA 병용을 고려. 항우울제가 아닌 gut-brain neuromodulator로 사용함을 환자에게 설명. **고령자는 5~10 ㎎부터 시작**하여 2~4주 간격으로 재평가 후 필요 시 증량 (일반 성인 최대 25~50 ㎎)._
 
 > **처방례 4. PDS + 조기 포만감 (위저부 이완 부전 우세)**
 >
@@ -314,14 +408,14 @@ K30 기능성 소화불량
 >
 > _✽조기 포만감이 두드러지는 PDS에서 prokinetics + 5-HT1A 작용제 병용을 고려. 4주 치료 후 재평가._
 
-> **처방례 5. EPS + GERD 동반 (PPI 불응 또는 P-CAB 고려)**
+> **처방례 5. EPS + GERD 동반 또는 PPI 불응 (P-CAB 활용)**
 >
 > ```
-> 케이캡 20 ㎎/T    1T   qd
+> 케이캡 25 ㎎/T     1T   qd          ← tegoprazan (FD 적응증)
 > 무코스타 100 ㎎/T  3T   #3   식후
 > ```
 >
-> _✽EPS에 GERD가 동반되거나 PPI에 충분히 반응하지 않는 경우 vonoprazan(P-CAB) 전환을 고려. 단, FD 단독 적응증으로서의 급여 여부는 확인 필요._
+> _✽tegoprazan(케이캡) 25 ㎎은 기능성 소화불량 허가 적응증을 가지고 있어 FD에서 급여 처방이 가능하다. EPS에 GERD가 동반되거나 PPI 불응 시 선택. 50 ㎎은 GERD/궤양용임에 주의._
 
 ***
 
@@ -362,6 +456,8 @@ K30 기능성 소화불량
 **기능성 소화불량 — 위장과 뇌가 함께 만드는 불편함**
 
 기능성 소화불량(FD)은 위나 십이지장에 궤양·종양 같은 구조적 이상이 없음에도 불구하고 식후 더부룩함·조기 포만감·상복부 통증이 반복되는 만성 소화 장애입니다. 위장관과 뇌 사이의 신호 이상(gut-brain interaction disorder)이 주된 원인으로 알려져 있으며, 완치보다는 증상 관리와 삶의 질 향상에 치료 목표를 둡니다.
+
+**환자에게 이렇게 설명하세요**: "내시경이 정상이라 병이 없는 게 아니라, 위의 구조는 건강하지만 기능적으로 예민해진 상태(sensitive stomach)입니다. 위와 뇌 사이의 신호 조절 문제로 같은 자극에도 더 강하게 느끼는 것입니다."
 {% endhint %}
 
 #### <mark style="color:$primary;">왜 소화불량이 생기나요?</mark>
