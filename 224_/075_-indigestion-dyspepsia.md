@@ -7,7 +7,7 @@
   * **기질성 소화불량 (organic dyspepsia)** : 소화성 궤양, GERD, 위암, 췌담도 질환 등 기질적 원인이 확인되는 경우 (약 ¼)
   * **기능성 소화불량 (functional dyspepsia, FD)** : 증상을 설명할 만한 기질적 이상이 없는 경우 (약 ¾) (☞ [기능성 소화불량](076_-functional-dyspepsia.md))
 * 기능성 소화불량은 **뇌-장 상호작용 장애 (disorder of gut-brain interaction, DGBI)**의 대표 질환으로 분류됨 (Rome IV, 2016)
-* 유병률 : 성인 인구의 약 20\~25%; 원발 진료(primary care) 방문의 약 5% 차지
+* 유병률 : **소화불량(dyspepsia) 전체** 성인 인구의 약 20\~25%; 원발 진료(primary care) 방문의 약 5% 차지 (✽이 중 약 ¾이 기능성 소화불량(FD)으로, FD 단독 유병률은 약 7\~10%에 해당; 076 참조)
 * 병태생리 : 위 운동 장애(위저부 이완 장애, 위배출 지연), **내장 감각 과민(visceral hypersensitivity)**, 뇌-장 축(brain-gut axis) 이상, 장내 미생물 불균형, 저도 염증(H. pylori 포함) 등 복합 기전; "검사는 정상인데 왜 아픈가요?"라는 환자 질문에 내장 감각 과민이 가장 설명하기 좋은 개념
 * **기능성 소화불량과 GERD는 상당 부분 중첩됨** - 상복부 작열감·식후 불편감·가슴쓰림이 함께 존재하는 경우가 외래에서 매우 흔함; PPI partial response도 흔히 관찰됨
 * **IBS overlap** : 소화불량 환자의 약 1/3은 IBS 증상을 동반하며, 이 경우 치료가 더 까다로울 수 있음; Low-FODMAP, 뇌-장 접근이 특히 도움됨
@@ -53,7 +53,7 @@
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 진행성 삼킴곤란 또는 삼킴통증
-* 설명할 수 없는 체중 감소 (6개월 이내 ≥10% 감소)
+* 비의도적 체중 감소 (>3 kg 또는 체중의 5% 이상)
 * 황달 동반 소화불량 (췌담도 질환 의심)
 * 최근 NSAID/항응고제/항혈소판제 복용 중 증상 악화
 * 위암 가족력이 있는 환자에서 지속적 소화불량
@@ -61,8 +61,8 @@
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 새로 발생한 지속성 소화불량
-  * ≥60세 : 상부위장관내시경 권고
-  * 40\~59세 : 위암 위험 인자(가족력, 흡연, 체중 감소, NSAID 사용 등) 동반 또는 증상 지속 시 내시경 고려
+  * ≥55세 : 상부위장관내시경 권고 (BSG 2022; ✽국내에서는 국가 위암 검진 프로그램과 연계하여 **≥40세 신환 소화불량**에서도 내시경 우선 고려)
+  * 40\~54세 : 위암 위험 인자(가족력, 흡연, 체중 감소, NSAID 사용 등) 동반 또는 증상 지속 시 내시경 고려
 * 경험적 치료(H. pylori 제균 또는 PPI 4\~8주)에 반응하지 않는 경우
 * 반복 재발하는 소화불량
 
@@ -142,8 +142,8 @@ EPS(상복부 통증/작열감 우세)와 PDS(식후 불쾌감 우세)는 치료
 * **영상 검사** : 췌장·담관·혈관 질환, volvulus 의심 시
   * 흉부/복부 X선, CT, 복부 초음파
 * **상부위장관내시경** : Red Flag 증상, 치료에 반응하지 않는 경우 (☞ [위장질환의 감별](074_.md#undefined-8))
-  * ≥60세 새로 발생 소화불량 : 내시경 권고
-  * 40\~59세 : 위암 위험 인자(가족력, 흡연, 체중 감소 등) 동반 시 고려
+  * ≥55세 새로 발생 소화불량 : 내시경 권고
+  * 40\~54세 : 위암 위험 인자(가족력, 흡연, 체중 감소 등) 동반 시 고려
   * **\[국내 상황]** 한국은 위암 유병률이 높고 국가 위암 조기 검진 프로그램(만 40세 이상, 2년마다 위내시경 또는 위장조영술)과 연계하여 40세 이상 신환 소화불량 발생 시 내시경 우선 고려하는 경향이 강함
   * \[ACG] ＜60세에서 일률적 내시경 검사는 권고하지 않음
 * 난치성 증상 또는 진행성 체중 감소 시 셀리악병 혈청 검사, 기생충 검사, 변 지방/elastase 검사 고려
@@ -252,10 +252,10 @@ graph TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 심각한 기질적 원인이 없는 경우 안심시킴
-* **Red Flag 없는 ＜60세** : H. pylori 검사 → test-and-treat 전략 우선 시행
+* **Red Flag 없는 ＜55세** (국내 기준: ＜40세) : H. pylori 검사 → test-and-treat 전략 우선 시행
   → H. pylori (−)이거나 제균 후 증상 지속 시 증상 아형(EPS/PDS/혼합)에 맞는 경험적 치료 (☞ [기능성 소화불량](076_-functional-dyspepsia.md))
   → 경험적 치료에 반응하지 않거나 재발 시 상부 소화기 내시경 검사
-* **≥60세 또는 Red Flag 존재** : 내시경 우선 → 원인에 따른 치료
+* **≥55세 (국내: ≥40세) 또는 Red Flag 존재** : 내시경 우선 → 원인에 따른 치료
 * 약물이 원인인 경우 용량 조절 또는 약물 교체; GLP-1 agonist 사용 중 새로운 소화불량 발생 시 연관성 확인
 * PPI 효과 불충분하거나 CYP2C19 대사 우려(예: clopidogrel 병용) 시 **P-CAB으로 교체** 고려
 
@@ -263,9 +263,9 @@ graph TD
 
 ```mermaid
 graph TD
-    Start([소화불량]) --> RF{"Red Flag\n또는 ≥ 60세?"}
+    Start([소화불량]) --> RF{"Red Flag\n또는 ≥ 55세?\n(국내: ≥40세)"}
     RF -- "Yes" --> Endo["내시경 검사"]
-    RF -- "No / < 60세" --> HpTest["H. pylori 검사"]
+    RF -- "No / < 55세" --> HpTest["H. pylori 검사"]
 
     Endo -- "이상" --> CauseTx["원인별 치료"]
     Endo -- "정상" --> Pheno
@@ -370,7 +370,7 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 • 항진균제(itraconazole, ketoconazole) : 위산 필요 약물로 흡수 감소 가능
 {% endhint %}
 
-<table><thead><tr><th width="170">약물</th><th width="160">용량</th><th>상품명 예</th></tr></thead><tbody><tr><td>omeprazole</td><td>20 ㎎ qd</td><td><mark style="color:blue;">\[로섹]</mark></td></tr><tr><td>esomeprazole</td><td>20 ㎎ qd</td><td><mark style="color:blue;">\[넥시움]</mark></td></tr><tr><td>pantoprazole</td><td>40 ㎎ qd</td><td><mark style="color:blue;">\[판토록]</mark></td></tr><tr><td>rabeprazole</td><td>10\~20 ㎎ qd</td><td><mark style="color:blue;">\[파리에트]</mark></td></tr><tr><td>lansoprazole</td><td>30 ㎎ qd</td><td><mark style="color:blue;">\[란스톤]</mark></td></tr><tr><td>ilaprazole</td><td>10 ㎎ qd</td><td><mark style="color:blue;">\[놀텍]</mark></td></tr></tbody></table>
+<table><thead><tr><th width="170">약물</th><th width="160">용량</th><th>상품명 예</th></tr></thead><tbody><tr><td>omeprazole</td><td>20 ㎎ qd</td><td><mark style="color:blue;">\[오엠피]</mark></td></tr><tr><td>esomeprazole</td><td>20 ㎎ qd</td><td><mark style="color:blue;">\[넥시움]</mark></td></tr><tr><td>pantoprazole</td><td>40 ㎎ qd</td><td><mark style="color:blue;">\[판토록]</mark></td></tr><tr><td>rabeprazole</td><td>10\~20 ㎎ qd</td><td><mark style="color:blue;">\[파리에트]</mark></td></tr><tr><td>lansoprazole</td><td>30 ㎎ qd</td><td><mark style="color:blue;">\[란스톤]</mark></td></tr><tr><td>ilaprazole</td><td>10 ㎎ qd</td><td><mark style="color:blue;">\[놀텍]</mark></td></tr></tbody></table>
 
 ### <mark style="color:orange;">H2 차단제 (H2RA)</mark>
 
@@ -402,7 +402,7 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 
 * H. pylori 제균 및 PPI 치료에도 증상 지속 시 고려 (☞ [소화기계 약제](073_.md))
 * 기전 : 내장 과민성 감소, 통증 역치 상향; 항우울 효과와 무관한 저용량에서 작용
-* amitriptyline <mark style="color:blue;">\[에나폰]</mark> 10\~25 ㎎ hs (취침 시); 불안/수면 장애 동반 시 특히 유리
+* amitriptyline <mark style="color:blue;">\[에트라빌]</mark> 10\~25 ㎎ hs (취침 시); 불안/수면 장애 동반 시 특히 유리
 
 ### <mark style="color:orange;">제산제 및 기타</mark>
 

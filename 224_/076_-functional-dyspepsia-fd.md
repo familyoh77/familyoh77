@@ -4,7 +4,7 @@
 
 * 위장관 증상이 소화성 궤양, GERD, 췌장/담낭 질환 등의 기질적 질병 없이 만성적으로 재발하는 상태
 * 다른 이름 : indigestion, non-ulcer dyspepsia
-* 유병률 : 인구의 약 7% (UK 6.8% \[BSG 2022])
+* 유병률 : **FD 단독** 약 7\~10% (UK 6.8% [BSG 2022]; ✽전체 소화불량(dyspepsia) 유병률 20\~25% 중 약 ¾이 FD에 해당 - 수치 출처가 다르므로 직접 비교 주의; ☞ [소화불량](075_-indigestion-dyspepsia.md))
 * 분류 : postprandial distress syndrome(PDS) 및 epigastric pain syndrome(EPS)을 포함; 두 아형의 중복이 흔함
 * Refractory functional dyspepsia : 최소 2가지 방법의 치료에 반응하지 않으며 ≥8주 지속
 * 대부분의 소화불량 환자에서 증상의 기저 원인은 기능성 소화불량
@@ -436,7 +436,7 @@ K30 기능성 소화불량
 >
 > 1. 식사 30분 전에 복용하여 식사 중 약효가 충분히 발휘되도록 합니다.
 > 2. 식후 팽만감, 조기 포만감 완화를 목적으로 사용합니다.
-> 3. metoclopramide(맥페란)는 장기 복용 시 손발 떨림 등 추체외로 부작용이 생길 수 있으므로 단기(2~4주 이내) 사용을 원칙으로 합니다.
+> 3. metoclopramide(맥페란)는 장기 복용 시 손발 떨림 등 추체외로 부작용이 생길 수 있으므로 단기(4주 이내) 사용을 원칙으로 하며, 불가피한 경우에도 **12주를 초과하지 않습니다** (FDA 블랙박스 경고).
 
 > **저용량 항우울제 (TCA - gut-brain neuromodulator)**
 >
