@@ -42,25 +42,31 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 위장관 출혈 징후 (토혈, 흑색변, 혈변)
+* 위장관 출혈 징후 (토혈, 흑색변, 혈변) → 상부위장관 출혈
 * 지속되는 구토 + 탈수 징후 (빈맥, 저혈압, 활력 징후 이상)
-* 급격한 심한 복통 (복막염, 천공, 허혈 의심)
-* 복부 촉지 종괴
-* 고령자·당뇨·고혈압 환자에서 급성으로 발생한 상복부 불편감 - 심근경색의 비전형적 증상 가능성
+* 급격한 심한 복통 + 복막 자극 증상 (복막염, 천공, 허혈 의심)
+* 고령자·당뇨·고혈압 환자에서 급성으로 발생한 상복부 불편감 → 심근경색
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
+* 상복부 종괴 촉지 또는 림프절 종대
 * 진행성 삼킴곤란 또는 삼킴통증
-* 비의도적 체중 감소 (>3 ㎏ 또는 체중의 5% 이상)
+* 비의도적 체중 감소 (＞3 ㎏ 또는 체중의 5% 이상)
 * 황달 동반 소화불량 (췌담도 질환 의심)
 * 최근 NSAID/항응고제/항혈소판제 복용 중 증상 악화
 * 위암 가족력이 있는 환자에서 지속적 소화불량
+* ≥55세 신규 발생 또는 최근 변화한 소화불량 증상\
+  ✽연령 기준은 지역에 따라 다름; 한국은 국가 위암 조기 검진 프로그램(만 40세 이상)과 연계하여 더 낮은 threshold 적용
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 새로 발생한 지속성 소화불량
-* 경험적 치료(H. pylori 제균 또는 PPI 4\~8주)에 반응하지 않는 경우
-* 반복 재발하는 소화불량
+* 새로 발견된 빈혈 (특히 원인 불명의 철 결핍성 빈혈)
+* 경험적 치료(H. pylori 제균 또는 PPI 4\~8주)에 반응하지 않는 소화불량
+* 반복 재발하는 소화불량 또는 구토
+* 야간 증상(수면 방해) 동반 소화불량
+* 원인 불명으로 ADL에 심각한 지장을 초래하는 경우
+* 심한 불안·우울 등 정신건강 문제가 증상을 주도하는 경우
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -332,19 +338,15 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">증상 아형별 처방 방향</mark>
-
-<table><thead><tr><th width="185">우세 증상</th><th width="199">가장 먼저 의심</th><th>우선 처방</th></tr></thead><tbody><tr><td>속쓰림 / 상복부 작열감</td><td>EPS, GERD overlap</td><td>PPI</td></tr><tr><td>조기 포만감</td><td>PDS (± 위마비)</td><td>Prokinetics</td></tr><tr><td>식후 팽만감</td><td>PDS, IBS overlap</td><td>식사 조절 ± prokinetics</td></tr><tr><td>신물 / 역류</td><td>GERD</td><td>PPI + 생활 교정</td></tr><tr><td>Bloating / 가스</td><td>IBS overlap</td><td>Low-FODMAP 고려</td></tr><tr><td>구역 우세</td><td>위마비, 약물 부작용</td><td>약물 검토 ± prokinetics</td></tr><tr><td>반복 재발 + 검사 정상</td><td>DGBI (기능성 소화불량)</td><td>저용량 TCA / 뇌-장 접근</td></tr></tbody></table>
-
-### <mark style="color:orange;">H. pylori 제균 치료</mark>
+#### <mark style="color:$primary;">H. pylori 제균 치료</mark>
 
 * H. pylori 양성인 소화불량 환자에서 1차 권고 (ACG 2022, 대한소화기학회)
 * 제균 성공 시 약 10\~15%에서 장기적 증상 호전 기대 (NNT ≈ 12); 소화성 궤양·위암 예방 효과도 병행
 * (☞ [헬리코박터 감염](080_-helicobacter-pylori-infection.md))
 
-### [<mark style="color:orange;">PPI</mark>](073_.md#proton-pump-inhibitor-ppi) <mark style="color:orange;">(Proton Pump Inhibitor)</mark>
+#### [<mark style="color:$primary;">PPI</mark>](073_.md#proton-pump-inhibitor-ppi) <mark style="color:$primary;">(Proton Pump Inhibitor)</mark>
 
-* 적응 : H. pylori (−) 또는 제균 후 증상 지속; EPS(상복부 통증/작열감) 아형 및 GERD overlap에 우선 권장
+* 적응 : H. pylori (−) 또는 제균 후 증상 지속; EPS(상복부 통증/작열감) 아형 및 GERD overlap에 우선 권장 (보험주의)
 * 식사 30분 전 복용이 원칙; 4\~8주 투여 후 재평가; 중단 후 재발 시 간헐적 또는 장기 투여 고려
 * 동일 효능에서 제네릭 사용 무방
 
@@ -358,13 +360,13 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 
 <table><thead><tr><th width="170">약물</th><th width="160">용량</th><th>상품명 예</th></tr></thead><tbody><tr><td>omeprazole</td><td>20 ㎎ qd</td><td><mark style="color:blue;">[오엠피]</mark></td></tr><tr><td>esomeprazole</td><td>20 ㎎ qd</td><td><mark style="color:blue;">[넥시움]</mark></td></tr><tr><td>pantoprazole</td><td>40 ㎎ qd</td><td><mark style="color:blue;">[판토록]</mark></td></tr><tr><td>rabeprazole</td><td>10~20 ㎎ qd</td><td><mark style="color:blue;">[파리에트]</mark></td></tr><tr><td>lansoprazole</td><td>30 ㎎ qd</td><td><mark style="color:blue;">[란스톤]</mark></td></tr><tr><td>ilaprazole</td><td>10 ㎎ qd</td><td><mark style="color:blue;">[놀텍]</mark></td></tr></tbody></table>
 
-### [<mark style="color:orange;">H2 차단제</mark>](073_.md#h2-h2-receptor-antagonist-h2ra) <mark style="color:orange;">(H2RA)</mark>
+#### [<mark style="color:$primary;">H2 차단제</mark>](073_.md#h2-h2-receptor-antagonist-h2ra) <mark style="color:$primary;">(H2RA)</mark>
 
 * PPI를 사용하기 어려운 경우 또는 경증에 대안으로 사용
 * famotidine <mark style="color:blue;">\[가스터]</mark> 20 ㎎ bid (식전)
 * cimetidine : 현재 사용 감소 (CYP 약물 상호작용 주의); ranitidine : NDMA 오염으로 시장 철수
 
-### [<mark style="color:orange;">P-CAB</mark>](073_.md#potassium-competitive-acid-blocker-p-cab) <mark style="color:orange;">(Potassium-Competitive Acid Blocker)</mark>
+#### [<mark style="color:$primary;">P-CAB</mark>](073_.md#potassium-competitive-acid-blocker-p-cab) <mark style="color:$primary;">(Potassium-Competitive Acid Blocker)</mark>
 
 * PPI와 동등한 산 억제 효과; 국내(한국·일본 포함 아시아)에서 사용이 매우 활발하며 PPI 대안 또는 PPI 실패·부작용 시 교체 약제로 사용
 * PPI 대비 장점 : 식사 여부와 상관없이 언제든 복용 가능; 초회 투여부터 빠른 약효 발현; CYP2C19 유전형에 덜 영향 받음 → clopidogrel 병용 시에도 상호작용 우려 적음
@@ -372,7 +374,7 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 
 <table><thead><tr><th width="170">약물</th><th width="160">용량</th><th>상품명</th></tr></thead><tbody><tr><td>tegoprazan</td><td>25~50 ㎎ qd</td><td><mark style="color:blue;">[케이캡]</mark></td></tr><tr><td>fexuprazan</td><td>40 ㎎ qd</td><td><mark style="color:blue;">[펙수클루]</mark></td></tr></tbody></table>
 
-### [<mark style="color:orange;">Prokinetics</mark>](073_.md#gi-prokinetic-agent)
+#### [<mark style="color:$primary;">Prokinetics</mark>](073_.md#gi-prokinetic-agent)
 
 * 적응 : PDS(식후 팽만감, 조기 포만감) 아형에 우선 권장; H. pylori 제균 또는 PPI 치료에도 증상 지속 시 병용 또는 단독 사용&#x20;
 * 매 식사 30분 전 복용
@@ -383,23 +385,27 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 **metoclopramide 장기 사용 주의** : 추체외로 증상(tardive dyskinesia) 위험 - 원칙적으로 단기(12주 이내) 사용; 고령자에서 특히 주의
 {% endhint %}
 
-### <mark style="color:orange;">저용량</mark> [<mark style="color:orange;">항우울제</mark>](073_.md#tca) <mark style="color:orange;">(TCA)</mark>
+#### <mark style="color:$primary;">저용량</mark> [<mark style="color:$primary;">항우울제</mark>](073_.md#tca) <mark style="color:$primary;">(TCA)</mark>
 
 * H. pylori 제균 및 PPI 치료에도 증상 지속 시 고려 (☞ [소화기계 약제](073_.md))
 * 기전 : 내장 과민성 감소, 통증 역치 상향; 항우울 효과와 무관한 저용량에서 작용
 * amitriptyline <mark style="color:blue;">\[에트라빌]</mark> 10\~25 ㎎ hs (취침 시); 불안/수면 장애 동반 시 특히 유리
 
-### <mark style="color:orange;">제산제 및 기타</mark>
+#### <mark style="color:$primary;">제산제 및 기타</mark>
 
 * [제산제](073_.md#antacid) : 급성 증상 완화 목적의 단기 사용; magnesium hydroxide/aluminum hydroxide 복합제 (식후 또는 증상 발생 시)
 * [simethicone](073_.md#simethicone) (소포제) : 가스/팽만감 증상에 효과적; 단독 또는 제산제 복합 제제로 사용
 * [프로바이오틱스](073_.md#probiotics-1)/프리바이오틱스 : FD 환자에서 장내 미생물 불균형(dysbiosis)이 관찰되며, 프로바이오틱스가 일부 환자에서 팽만감·구역 완화에 도움이 될 수 있음; 단, 근거 수준은 아직 제한적이며 균주·용량·기간에 대한 표준화된 권고가 없음 (2025 Asian consensus) - 다른 치료에 반응하지 않는 bloating 우세 환자에서 보조적으로 고려
 
-### <mark style="color:orange;">심리 치료</mark>
+#### <mark style="color:$primary;">심리 치료</mark>
 
 * 약물 치료에 반응하지 않는 기능성 소화불량(DGBI)에서 고려; 근거 수준이 점차 높아지고 있음 (2025 Asian consensus)
 * 인지행동치료(CBT), 최면요법(gut-directed hypnotherapy), 이완요법이 일부 환자에서 효과적
 * mindfulness 기반 치료(MBSR) : 내장 과민성·통증 인식 조절에 효과적이라는 근거 축적 중; 불안·스트레스 동반 환자에서 특히 고려
+
+### <mark style="color:orange;">증상 아형별 처방 방향</mark>
+
+<table><thead><tr><th width="185">우세 증상</th><th width="199">가장 먼저 의심</th><th>우선 처방</th></tr></thead><tbody><tr><td>속쓰림 / 상복부 작열감</td><td>EPS, GERD overlap</td><td>PPI</td></tr><tr><td>조기 포만감</td><td>PDS (± 위마비)</td><td>Prokinetics</td></tr><tr><td>식후 팽만감</td><td>PDS, IBS overlap</td><td>식사 조절 ± prokinetics</td></tr><tr><td>신물 / 역류</td><td>GERD</td><td>PPI + 생활 교정</td></tr><tr><td>Bloating / 가스</td><td>IBS overlap</td><td>Low-FODMAP 고려</td></tr><tr><td>구역 우세</td><td>위마비, 약물 부작용</td><td>약물 검토 ± prokinetics</td></tr><tr><td>반복 재발 + 검사 정상</td><td>DGBI (기능성 소화불량)</td><td>저용량 TCA / 뇌-장 접근</td></tr></tbody></table>
 
 ***
 
