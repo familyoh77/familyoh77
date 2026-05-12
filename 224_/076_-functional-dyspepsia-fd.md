@@ -129,35 +129,27 @@
 
 ```mermaid
 graph TD
-    Start(["Functional dyspepsia(FD)에 부합하는 증상 존재"]) 
+    Start(["기능성 소화불량(FD)에 <br/>부합하는 증상 존재"]) 
     --> History["FD 중심 병력 청취 및<br/> 신체 진찰¹⁾"]
     History --> Labs["기초 검사²⁾"]
     Labs --> AddTest["필요시 추가 검사³⁾"]
 
     AddTest -- "이상 있음" --> Expl["FD 가능성이 여전히 높음과<br/>제한적 조사 근거 설명"]
     
-    Expl -- "검사상 이상" --> Organic["기질적 질환 치료"]
-    Expl -- "검사상 정상" --> FD_Diag["1. FD 진단
-2. gut-brain axis의 맥락에서 상태에 대하여 설명
-3. 약물, 정신 치료 등 치료 방법 협의
-4. 환자의 이전 치료 및 선호도를 고려
-5. 환자 교육, 추적 관리 계획
-   - 증상이 호전과 악화를 반복하는 경과가 흔하며 장기 관리가 필요할 수 있음,
-     치료는 삶의 질 향상을 목표로 함을 설명
-"]
+    Expl -- "검사상 이상 있음" --> Organic["기질적 질환 치료"]
+    Expl -- "검사상 정상" --> FD_Diag["FD 진단⁴⁾"]
     
     AddTest -- "이상 없음<br/>(또는 해당 없음)" --> FD_Diag
 
-    style Start fill:#f3f0ff,stroke:#7048e8
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     style History fill:#fff9db,stroke:#fab005
-    style Labs fill:#e3faf2,stroke:#20c997
+    style Labs fill:#e8f8e8,stroke:#4caf50
     style AddTest fill:#e3faf2,stroke:#20c997
-    style Expl fill:#fff0f6,stroke:#f06595
     style FD_Diag fill:#e7f5ff,stroke:#228be6
-    style Organic fill:#fff5f5,stroke:#fa5252
+    style Organic fill:#fde8f0,stroke:#e91e8c
 ```
 
-<p align="center"><strong>기능성 소화불량 진단 알고리듬</strong></p>
+<p align="center"><strong>기능성 소화불량 진단 및 관리 알고리듬</strong></p>
 
 ¹⁾ FD 중심 병력 청취 및 신체 진찰\
 \- 경고 증상 여부\
@@ -181,6 +173,12 @@ graph TD
 \- 긴급 내시경: ≥55세(체중감소), >40세(고위험군/가족력)\
 \- 긴급 CT: ≥60세(복통+체중감소, 췌장암 감별)\
 \- 초음파: biliary colic 특징이 있는 상복부 통증
+
+⁴⁾ FD 진단\
+\- gut-brain axis의 맥락에서 상태에 대하여 설명\
+\- 약물, 정신 치료 등 치료 방법 협의\
+\- 환자의 이전 치료 및 선호도를 고려\
+\- 환자 교육, 추적 관리 계획: 증상이 호전과 악화를 반복하는 경과가 흔하며 장기 관리가 필요할 수 있음, 치료는 삶의 질 향상을 목표로 함을 설명
 
 <p align="center"><em><mark style="color:$info;">Ref. BSG Guideline on the management of functional dyspepsia. 2022. Fig 1.</mark></em></p>
 
@@ -272,7 +270,7 @@ graph TD
 * 예방 효과가 없으므로 장기간 지속 또는 빈번한 투여는 피함
 * aluminium hydroxide <mark style="color:blue;">\[암포젤]</mark>, almagate <mark style="color:blue;">\[알마겔]</mark>
 
-#### [<mark style="color:$primary;">점막</mark> <mark style="color:$primary;"></mark><mark style="color:$primary;">보호제</mark>](073_.md#gastric-mucosal-protective-agent)
+#### [<mark style="color:$primary;">점막 보호제</mark>](073_.md#gastric-mucosal-protective-agent)
 
 * EPS에 유효
 * sucralfate <mark style="color:blue;">\[아루사루민]</mark>, eupatilin <mark style="color:blue;">\[스티렌]</mark>, benexate <mark style="color:blue;">\[울굿]</mark>, rebamipide <mark style="color:blue;">\[무코스타]</mark>
