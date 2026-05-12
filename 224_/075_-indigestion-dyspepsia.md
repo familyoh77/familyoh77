@@ -9,7 +9,7 @@
 * 기능성 소화불량은 **뇌-장 상호작용 장애 (disorder of gut-brain interaction, DGBI)**의 대표 질환으로 분류됨 (Rome IV, 2016)
 * 유병률 : 성인 인구의 약 20\~25%; 원발 진료(primary care) 방문의 약 5% 차지
 * 병태생리 : 위 운동 장애(위저부 이완 장애, 위배출 지연), **내장 감각 과민(visceral hypersensitivity)**, 뇌-장 축(brain-gut axis) 이상, 장내 미생물 불균형, 저도 염증(H. pylori 포함) 등 복합 기전; "검사는 정상인데 왜 아픈가요?"라는 환자 질문에 내장 감각 과민이 가장 설명하기 좋은 개념
-* **기능성 소화불량과 GERD는 상당 부분 중첩됨** — 상복부 작열감·식후 불편감·가슴쓰림이 함께 존재하는 경우가 외래에서 매우 흔함; PPI partial response도 흔히 관찰됨
+* **기능성 소화불량과 GERD는 상당 부분 중첩됨** - 상복부 작열감·식후 불편감·가슴쓰림이 함께 존재하는 경우가 외래에서 매우 흔함; PPI partial response도 흔히 관찰됨
 * **IBS overlap** : 소화불량 환자의 약 1/3은 IBS 증상을 동반하며, 이 경우 치료가 더 까다로울 수 있음; Low-FODMAP, 뇌-장 접근이 특히 도움됨
 
 #### <mark style="color:$primary;">관련 증상 정의</mark>
@@ -31,7 +31,7 @@
 * **LES 이완 유발 요인** : 음주, 흡연, 카페인, 지방식; peppermint는 GERD 환자에서 증상을 악화시킬 수 있으나, 일부 기능성 소화불량/IBS 환자에서는 증상 완화 효과도 있어 단순히 나쁜 음식으로 분류하기 어려움
 * **복부 가스 생성** : 탄산음료, 당분, 불용성 식이 섬유, 껌 씹기, 빨리 먹기
 * **H. pylori 감염** : 기능성 소화불량에서의 역할에는 논란이 있으나 제균 치료가 장기 증상 완화에 기여할 수 있음 (NNT ≈ 12)
-* **약물** : NSAID, aspirin, 항생제, 당뇨(예: metformin), 고혈압(예: ARB, CCB), 고지혈증(예: fibrates, orlistat), 치매(예: donepezil), **GLP-1 receptor agonist**(예: semaglutide, tirzepatide — 구역·위배출 지연 매우 흔함; 새롭게 조기 포만감·구역 발생 시 연관성 확인), SSRI, SNRI, 파킨슨(예: dopamine 작용제), steroid, estrogen, progesterone, digoxin, nitrate, bisphosphonate, iron\
+* **약물** : NSAID, aspirin, 항생제, 당뇨(예: metformin), 고혈압(예: ARB, CCB), 고지혈증(예: fibrates, orlistat), 치매(예: donepezil), **GLP-1 receptor agonist**(예: semaglutide, tirzepatide - 구역·위배출 지연 매우 흔함; 새롭게 조기 포만감·구역 발생 시 연관성 확인), SSRI, SNRI, 파킨슨(예: dopamine 작용제), steroid, estrogen, progesterone, digoxin, nitrate, bisphosphonate, iron\
   ✽장기 PPI 사용은 일부 환자에서 bloating, dysbiosis 관련 증상을 유발할 수 있음
 * **기타** : 유전, 비만, 임신, 스트레스, 우울, 불안, 신체화장애, 폭식증, 알코올 남용
 * **기질적 원인** : 위장 운동 장애, 담석증, 담낭염, 췌장염, 충수돌기염, 게실염, 유당 불내성, 셀리악병, 장폐쇄, 위장관 수술 병력, 화학요법, 전정신경염, 폐렴, 요로 결석, PID
@@ -48,7 +48,7 @@
 * 지속되는 구토 + 탈수 징후 (빈맥, 저혈압, 활력 징후 이상)
 * 급격한 심한 복통 (복막염, 천공, 허혈 의심)
 * 복부 촉지 종괴
-* 고령자·당뇨·고혈압 환자에서 급성으로 발생한 상복부 불편감 — 심근경색의 비전형적 증상일 수 있으므로 EKG 및 심근 효소 검사 즉시 고려
+* 고령자·당뇨·고혈압 환자에서 급성으로 발생한 상복부 불편감 - 심근경색의 비전형적 증상일 수 있으므로 EKG 및 심근 효소 검사 즉시 고려
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -77,16 +77,18 @@
 
 {% hint style="info" %}
 **기능성 소화불량 아형 구분 (Rome IV)**\
-EPS(상복부 통증/작열감 우세)와 PDS(식후 불쾌감 우세)는 치료 방향이 다름 — EPS에는 PPI, PDS에는 prokinetics가 우선; 두 아형은 중복될 수 있으며 GERD overlap도 흔함 (☞ [기능성 소화불량](076_-functional-dyspepsia.md))
+EPS(상복부 통증/작열감 우세)와 PDS(식후 불쾌감 우세)는 치료 방향이 다름 - EPS에는 PPI, PDS에는 prokinetics가 우선; 두 아형은 중복될 수 있으며 GERD overlap도 흔함 (☞ [기능성 소화불량](076_-functional-dyspepsia.md))
 {% endhint %}
 
 ## <mark style="color:green;">진단</mark>
 
 * 증상과 징후를 근거로 진단; **Red Flag 유무가 초기 평가의 핵심**
 * 신체검사 소견은 진단 특이성이 낮음 (기질적 원인 배제 목적으로 시행)
-* **식사-증상 일기** 작성이 유용 — 음식 종류뿐 아니라 식사 속도, 식사량, 스트레스 상황, 수면 부족과의 연관을 함께 기록하면 유발 인자 파악에 도움
+* **식사-증상 일기** 작성이 유용 - 음식 종류뿐 아니라 식사 속도, 식사량, 스트레스 상황, 수면 부족과의 연관을 함께 기록하면 유발 인자 파악에 도움
 
 ### <mark style="color:orange;">Diagnostic Criteria \[ROME Ⅳ]</mark>
+
+✽Rome IV(2016)는 현재 기능성 위장 질환 진단의 표준이나, Rome V 개정을 위한 국제 논의가 진행 중임 (2025년 기준 미발표); 향후 기준 변경 가능성에 유의
 
 #### <mark style="color:$primary;">기능성 소화불량 (Functional dyspepsia)</mark>
 
@@ -255,6 +257,7 @@ graph TD
   → 경험적 치료에 반응하지 않거나 재발 시 상부 소화기 내시경 검사
 * **≥60세 또는 Red Flag 존재** : 내시경 우선 → 원인에 따른 치료
 * 약물이 원인인 경우 용량 조절 또는 약물 교체; GLP-1 agonist 사용 중 새로운 소화불량 발생 시 연관성 확인
+* PPI 효과 불충분하거나 CYP2C19 대사 우려(예: clopidogrel 병용) 시 **P-CAB으로 교체** 고려
 
 ***
 
@@ -303,7 +306,7 @@ graph TD
 
 <p align="center"><strong>소화불량 진단 및 치료 알고리듬 (증상 아형 기반)</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ACG Clinical Guideline: Management of Dyspepsia and Gastroparesis (2022); Rome IV criteria</mark></em></p>
+<p align="center"><em><mark style="color:$info;">근거: ACG Clinical Guideline: Management of Dyspepsia and Gastroparesis (2022); Rome IV criteria</mark></em></p>
 
 ***
 
@@ -331,7 +334,7 @@ graph TD
 * 개인적으로 증상을 유발하는 음식
 
 {% hint style="info" %}
-다음 음식들은 소화가 느리거나 위 운동에 부담을 줄 수 있어 일부 환자에서 증상을 유발하기도 한다 — 개인 반응에 따라 회피를 권고한다: 떡·면류(압축된 식품), 질긴 고기·뿌리채소(도라지, 더덕), 보리·현미·통밀, 당분이 많은 식품, 잡곡류
+다음 음식들은 소화가 느리거나 위 운동에 부담을 줄 수 있어 일부 환자에서 증상을 유발하기도 한다 - 개인 반응에 따라 회피를 권고한다: 떡·면류(압축된 식품), 질긴 고기·뿌리채소(도라지, 더덕), 보리·현미·통밀, 당분이 많은 식품, 잡곡류
 {% endhint %}
 
 ### <mark style="color:orange;">식이 요법</mark>
@@ -362,8 +365,8 @@ graph TD
 {% hint style="info" %}
 **PPI 약물 상호작용 주의**\
 PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 수 있음:\
-• **Clopidogrel** 병용 시 : omeprazole/esomeprazole은 CYP2C19 경쟁적 억제로 clopidogrel 활성화를 저해 — 항혈소판 효과 감소 우려; 심혈관 질환자에서는 **pantoprazole** 또는 **rabeprazole** 선호\
-• 철분제 : 위산 감소 시 흡수 저하 — PPI와 간격을 두고 복용\
+• **Clopidogrel** 병용 시 : omeprazole/esomeprazole은 CYP2C19 경쟁적 억제로 clopidogrel 활성화를 저해 - 항혈소판 효과 감소 우려; 심혈관 질환자에서는 **pantoprazole** 또는 **rabeprazole** 선호\
+• 철분제 : 위산 감소 시 흡수 저하 - PPI와 간격을 두고 복용\
 • 항진균제(itraconazole, ketoconazole) : 위산 필요 약물로 흡수 감소 가능
 {% endhint %}
 
@@ -377,8 +380,9 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 
 ### <mark style="color:orange;">P-CAB (Potassium-Competitive Acid Blocker)</mark>
 
-* PPI와 동등한 산 억제 효과; 국내에서 사용이 매우 활발하며 PPI 대안 또는 PPI 실패 시 교체 약제로 사용
-* **PPI 대비 장점** : 식사 여부와 상관없이 언제든 복용 가능; 초회 투여부터 빠른 약효 발현; CYP2C19 유전형에 덜 영향 받음
+* PPI와 동등한 산 억제 효과; 국내(한국·일본 포함 아시아)에서 사용이 매우 활발하며 PPI 대안 또는 PPI 실패·부작용 시 교체 약제로 사용
+* **PPI 대비 장점** : 식사 여부와 상관없이 언제든 복용 가능; 초회 투여부터 빠른 약효 발현; CYP2C19 유전형에 덜 영향 받음 → clopidogrel 병용 시에도 상호작용 우려 적음
+* **소화불량 특이 근거** : FD에 대한 대규모 임상 데이터는 아직 축적 중; 2025 아시아 합의 보고서(Asian Consensus)에서 치료 대안으로 언급되나 근거 수준은 PPI보다 낮음 - 효과 불확실 시 PPI로 복귀 고려
 
 <table><thead><tr><th width="170">약물</th><th width="160">용량</th><th>상품명</th></tr></thead><tbody><tr><td>tegoprazan</td><td>25\~50 ㎎ qd</td><td><mark style="color:blue;">\[케이캡]</mark></td></tr><tr><td>fexuprazan</td><td>40 ㎎ qd</td><td><mark style="color:blue;">\[펙수클루]</mark></td></tr></tbody></table>
 
@@ -387,11 +391,11 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 * **적응**: PDS(식후 팽만감, 조기 포만감) 아형에 우선 권장; H. pylori 제균 또는 PPI 치료에도 증상 지속 시 병용 또는 단독 사용
 * 매 식사 30분 전 복용
 
-<table><thead><tr><th width="170">약물</th><th width="180">용량</th><th>상품명 / 특이사항</th></tr></thead><tbody><tr><td>mosapride</td><td>5 ㎎ tid (식전 30분)</td><td><mark style="color:blue;">\[가스모틴]</mark></td></tr><tr><td>itopride</td><td>50 ㎎ tid (식전 30분)</td><td><mark style="color:blue;">\[가나톤]</mark> — D2 차단 + AChE 억제 기전; 추체외로 부작용이 metoclopramide보다 적어 장기 사용에 상대적으로 안전</td></tr><tr><td>metoclopramide</td><td>5\~10 ㎎ tid (식전)</td><td><mark style="color:blue;">\[맥페란]</mark></td></tr></tbody></table>
+<table><thead><tr><th width="170">약물</th><th width="180">용량</th><th>상품명 / 특이사항</th></tr></thead><tbody><tr><td>mosapride</td><td>5 ㎎ tid (식전 30분)</td><td><mark style="color:blue;">\[가스모틴]</mark></td></tr><tr><td>itopride</td><td>50 ㎎ tid (식전 30분)</td><td><mark style="color:blue;">\[가나톤]</mark> - D2 차단 + AChE 억제 기전; 추체외로 부작용이 metoclopramide보다 적어 장기 사용에 상대적으로 안전</td></tr><tr><td>metoclopramide</td><td>5\~10 ㎎ tid (식전)</td><td><mark style="color:blue;">\[맥페란]</mark></td></tr></tbody></table>
 
 {% hint style="danger" %}
 **⚠️ metoclopramide 장기 사용 주의**\
-추체외로 증상(tardive dyskinesia) 위험 — 원칙적으로 단기(12주 이내) 사용; 고령자에서 특히 주의
+추체외로 증상(tardive dyskinesia) 위험 - 원칙적으로 단기(12주 이내) 사용; 고령자에서 특히 주의
 {% endhint %}
 
 ### <mark style="color:orange;">저용량 항우울제 (TCA)</mark>
@@ -404,11 +408,13 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 
 * **제산제** : 급성 증상 완화 목적의 단기 사용; magnesium hydroxide/aluminum hydroxide 복합제 (식후 또는 증상 발생 시)
 * **simethicone** (소포제) : 가스/팽만감 증상에 효과적; 단독 또는 제산제 복합 제제로 사용
+* **프로바이오틱스/프리바이오틱스** : FD 환자에서 장내 미생물 불균형(dysbiosis)이 관찰되며, 프로바이오틱스가 일부 환자에서 팽만감·구역 완화에 도움이 될 수 있음; 단, 근거 수준은 아직 제한적이며 균주·용량·기간에 대한 표준화된 권고가 없음 (2025 Asian consensus) - 다른 치료에 반응하지 않는 bloating 우세 환자에서 보조적으로 고려
 
 ### <mark style="color:orange;">심리 치료</mark>
 
-* 약물 치료에 반응하지 않는 기능성 소화불량에서 고려
-* 인지행동치료(CBT), 최면요법, 이완요법이 일부 환자에서 효과적
+* 약물 치료에 반응하지 않는 기능성 소화불량(DGBI)에서 고려; 근거 수준이 점차 높아지고 있음 (2025 Asian consensus)
+* 인지행동치료(CBT), 최면요법(gut-directed hypnotherapy), 이완요법이 일부 환자에서 효과적
+* **mindfulness 기반 치료(MBSR)** : 내장 과민성·통증 인식 조절에 효과적이라는 근거 축적 중; 불안·스트레스 동반 환자에서 특히 고려
 
 ***
 
@@ -430,10 +436,10 @@ K31.9 위 및 십이지장의 상세불명 질환
 > ```
 >
 > _✽제균 완료 후 4\~8주 내 1차 증상 재평가; 지속 시 증상 아형에 따라 PPI 또는 prokinetics 추가_\
-> _✽**증상 호전은 수개월에 걸쳐 서서히 나타날 수 있음** (6개월\~1년 소요 가능) — 제균 직후에도 증상이 지속되더라도 섣불리 치료 실패로 판단하지 않도록 환자에게 미리 설명_\
+> _✽**증상 호전은 수개월에 걸쳐 서서히 나타날 수 있음** (6개월\~1년 소요 가능) - 제균 직후에도 증상이 지속되더라도 섣불리 치료 실패로 판단하지 않도록 환자에게 미리 설명_\
 > _✽제균 성공 확인: 치료 종료 4주 후 요소 호기 검사(UBT) 또는 대변 항원 검사 권장_
 
-> **처방례 2.** H. pylori 음성 또는 제균 후 지속 증상 — EPS 아형 (상복부 통증/작열감 우세)
+> **처방례 2.** H. pylori 음성 또는 제균 후 지속 증상 - EPS 아형 (상복부 통증/작열감 우세)
 >
 > ```
 > esomeprazole 20 ㎎/T  1T  qd  식전 30분  4주
@@ -442,7 +448,7 @@ K31.9 위 및 십이지장의 상세불명 질환
 > _✽4주 후 증상 재평가; 소실 시 투약 중단 후 관찰; 재발 시 간헐적 투여 고려_\
 > _✽EPS 아형(상복부 통증·작열감 우세)에 우선 선택; PDS 아형(식후 팽만감 우세)에는 prokinetics 우선_
 
-> **처방례 3.** H. pylori 음성 또는 제균 후 지속 증상 — PDS 아형 (식후 불쾌감 우세)
+> **처방례 3.** H. pylori 음성 또는 제균 후 지속 증상 - PDS 아형 (식후 불쾌감 우세)
 >
 > ```
 > mosapride 5 ㎎/T  1T  tid  식전 30분  4주
@@ -475,14 +481,14 @@ K31.9 위 및 십이지장의 상세불명 질환
 > **PPI(위산 억제제)를 처방 받으셨나요?**
 >
 > * PPI는 위산 분비를 억제하여 상복부 통증, 작열감, 속쓰림을 완화합니다.
-> * **식사 30분 전 복용**이 원칙입니다 — 식후 복용 시 효과가 크게 감소합니다.
+> * **식사 30분 전 복용**이 원칙입니다 - 식후 복용 시 효과가 크게 감소합니다.
 > * 처방 기간(보통 4\~8주)을 끝까지 복용하십시오; 증상이 좋아졌다고 임의로 중단하지 마십시오.
 > * 장기 복용 시 마그네슘 감소, 감염(폐렴, C. difficile 장염) 위험이 소폭 증가하므로 필요 이상으로 장기 복용하지 않도록 합니다.
 
 > **위장 운동 개선제(prokinetics)를 처방 받으셨나요?**
 >
 > * 식후 팽만감, 조기 포만감, 구역 증상에 효과적입니다.
-> * **매 식사 30분 전 복용**해야 효과가 나타납니다 — 식후 복용 시 효과가 떨어집니다.
+> * **매 식사 30분 전 복용**해야 효과가 나타납니다 - 식후 복용 시 효과가 떨어집니다.
 > * 증상이 있는 기간에 사용하고, 호전되면 감량하거나 중단하는 것이 원칙입니다.
 
 > **저용량 항우울제(amitriptyline 등)를 처방 받으셨나요?**
@@ -495,10 +501,10 @@ K31.9 위 및 십이지장의 상세불명 질환
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 치료 4\~8주 후에도 증상이 호전되지 않는 경우
-> * **피를 토하거나 대변이 검게 변하는(흑색변)** 경우 — 즉시 내원
-> * 음식을 삼키기 힘들어지거나 삼킬 때 통증이 생기는 경우 — 당일 내원
-> * 체중이 원인 불명으로 계속 줄어드는 경우 — 조기 내원
-> * 심한 복통 또는 고열이 동반되는 경우 — 즉시 내원
+> * **피를 토하거나 대변이 검게 변하는(흑색변)** 경우 - 즉시 내원
+> * 음식을 삼키기 힘들어지거나 삼킬 때 통증이 생기는 경우 - 당일 내원
+> * 체중이 원인 불명으로 계속 줄어드는 경우 - 조기 내원
+> * 심한 복통 또는 고열이 동반되는 경우 - 즉시 내원
 
 ***
 
@@ -516,6 +522,7 @@ K31.9 위 및 십이지장의 상세불명 질환
 * 위장 신경이 예민해지면 정상적인 소화 과정에서도 통증이나 불편감을 느낍니다.
 * 스트레스, 수면 부족, 불규칙한 식사, 음주, 흡연이 소화 기능을 나쁘게 합니다.
 * 소염진통제(NSAID), 아스피린, 일부 당뇨 주사제(GLP-1 계열) 등이 위장 운동이나 점막에 영향을 줄 수 있습니다.
+* 장내 미생물 불균형(dysbiosis)도 소화 불편감에 관여할 수 있습니다. 프로바이오틱스가 일부 환자에서 도움이 될 수 있으나 효과는 개인차가 크며, 모든 환자에게 권고되지는 않습니다.
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
