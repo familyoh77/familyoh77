@@ -3,14 +3,15 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * **소화불량 (indigestion, dyspepsia)** : 구역, 구토, 역류, 상복부 답답함/통증, 가슴쓰림, 조기 포만감, 식후 팽만감 등 상복부의 다양한 증상을 아우르는 비특이적 용어
-* 유형
-  * **기질성 소화불량 (organic dyspepsia)** : 소화성 궤양, GERD, 위암, 췌담도 질환 등 기질적 원인이 확인되는 경우 (약 ¼ 해당)
-  * **기능성 소화불량 (functional dyspepsia, FD)** : 증상을 설명할 만한 기질적 이상이 없는 경우 (약 ¾ 해당)
-  * **급성 자기 제한적 소화불량 (acute self-limited dyspepsia)** : 짧은 기간(보통 수일\~1주 이내) 동안 나타나는 소화불량 증상으로, 시간이 지나면서 자연적으로 호전되는 형태. 기능성 소화불량(FD)과 달리 만성적이지 않고, 재발성 경과가 적음; 흔한 원인 - 과식, 빠른 식사, 고지방 음식, 스트레스 상황에서의 식사, 과음, 과다 카페인 섭취
-* 기능성 소화불량은 뇌-장 상호작용 장애 (disorder of gut-brain interaction, DGBI)의 대표 질환으로 분류됨&#x20;
 * 유병률 : 전체 성인 인구의 약 20\~25%; 1차진료(primary care) 방문의 약 5% 차지
 * 병태생리 : 위 운동 장애(위저부 이완 장애, 위배출 지연), 내장 감각 과민(visceral hypersensitivity), 뇌-장 축(brain-gut axis) 이상, 장내 미생물 불균형, 저도 염증(H. pylori 포함) 등 복합 기전
   * "검사는 정상인데 왜 아픈가요?"라는 환자 질문에는 '내장 감각 과민'으로 설명할 수 있음
+
+#### <mark style="color:$primary;">유형</mark>
+
+* **기질성 소화불량 (organic dyspepsia)** : 소화성 궤양, GERD, 위암, 췌담도 질환 등 기질적 원인이 확인되는 경우 (약 ¼ 해당)
+* **기능성 소화불량 (functional dyspepsia, FD)** : 증상을 설명할 만한 기질적 이상이 없는 경우 (약 ¾ 해당); 기능성 소화불량은 뇌-장 상호작용 장애 (disorder of gut-brain interaction, DGBI)의 대표 질환으로 분류됨&#x20;
+* **급성 자기 제한적 소화불량 (acute self-limited dyspepsia)** : 짧은 기간(보통 수일\~1주 이내) 동안 나타나는 소화불량 증상으로, 시간이 지나면서 자연적으로 호전되는 형태. 기능성 소화불량(FD)과 달리 만성적이지 않고, 재발성 경과가 적음; 흔한 원인 - 과식, 빠른 식사, 고지방 음식, 스트레스 상황에서의 식사, 과음, 과다 카페인 섭취
 * **GERD overlap** : FD와 GERD는 상당 부분 중첩됨 - 상복부 작열감·식후 불편감·가슴쓰림이 함께 존재하는 경우가 외래에서 매우 흔함; PPI partial response도 흔히 관찰됨
 * **IBS overlap** : 소화불량 환자의 약 1/3은 IBS 증상을 동반하며, 이 경우 치료가 더 까다로울 수 있음; Low-FODMAP, 뇌-장 접근이 특히 도움됨
 
@@ -55,8 +56,8 @@
 * 황달 동반 소화불량 (췌담도 질환 의심)
 * 최근 NSAID/항응고제/항혈소판제 복용 중 증상 악화
 * 위암 가족력이 있는 환자에서 지속적 소화불량
-* ≥55세 신규 발생 또는 최근 변화한 소화불량 증상\
-  ✽연령 기준은 지역에 따라 다름; 한국은 국가 위암 조기 검진 프로그램(만 40세 이상)과 연계하여 더 낮은 threshold 적용
+* ≥55세\* 신규 발생 또는 최근 변화한 소화불량 증상\
+  \*연령 기준은 지역에 따라 다름; 한국은 국가 위암 조기 검진 프로그램(만 40세 이상)과 연계하여 더 낮은 threshold 적용
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
@@ -132,16 +133,30 @@
 
 ### <mark style="color:orange;">검사</mark>
 
-* **실험실 검사** : 다른 질환 배제 목적
-  * CBC, 전해질, Ca, RFT, LFT, 단백질/알부민, TSH, amylase, lipase, u-hCG
-* **H. pylori 검사** : Red Flag 없는 미조사 소화불량에서 test-and-treat 전략의 첫 단계로 권고 (☞ [헬리코박터 감염](080_-helicobacter-pylori-infection.md))
-* **영상 검사** : 췌장·담관·혈관 질환, volvulus 의심 시
-  * 흉부/복부 X선, CT, 복부 초음파
-* **상부위장관내시경** : Red Flag 증상, 치료에 반응하지 않는 경우 (☞ [위장질환의 감별](074_.md#undefined-8))
-  * ≥55세 새로 발생 소화불량 : 내시경 권고
-  * 40\~54세 : 위암 위험 인자(가족력, 흡연, 체중 감소 등) 동반 또는 증상 지속 시 고려
-  * 우리나라는 위암 유병률이 높고 국가 위암 조기 검진 프로그램(만 40세 이상, 2년마다 위내시경 또는 위장조영술)과 연계하여 40세 이상에서 새로운 소화불량 발생 시 내시경 검사를 우선 고려하는 경향이 강함
-  * \[ACG] ＜60세에서 일률적 내시경 검사는 권고하지 않음
+#### <mark style="color:$primary;">**실험실 검사**</mark>&#x20;
+
+* 다른 질환 배제 목적
+* CBC, 전해질, Ca, RFT, LFT, 단백질/알부민, TSH, amylase, lipase, u-hCG
+
+#### <mark style="color:$primary;">**H. pylori 검사**</mark>&#x20;
+
+* Red Flag 없는 미조사 소화불량에서 test-and-treat 전략의 첫 단계로 권고 (☞ [헬리코박터 감염](080_-helicobacter-pylori-infection.md))
+
+#### <mark style="color:$primary;">**영상 검사**</mark>&#x20;
+
+* 췌장·담관·혈관 질환, volvulus 의심 시
+* 흉부/복부 X선, CT, 복부 초음파
+
+#### <mark style="color:$primary;">상부위장관내시경</mark>&#x20;
+
+* Red Flag 증상, 치료에 반응하지 않는 경우 (☞ [위장질환의 감별](074_.md#undefined-8))
+* ≥55세 새로 발생 소화불량 : 내시경 권고
+* 40\~54세 : 위암 위험 인자(가족력, 흡연, 체중 감소 등) 동반 또는 증상 지속 시 고려
+* 우리나라는 위암 유병률이 높고 국가 위암 조기 검진 프로그램(만 40세 이상, 2년마다 위내시경 또는 위장조영술)과 연계하여 40세 이상에서 새로운 소화불량 발생 시 내시경 검사를 우선 고려하는 경향이 강함
+* \[ACG] ＜60세에서 일률적 내시경 검사는 권고하지 않음
+
+#### <mark style="color:$primary;">기타</mark>
+
 * 난치성 증상 또는 진행성 체중 감소 시 셀리악병 혈청 검사, 기생충 검사, 변 지방/elastase 검사 고려
 
 ### <mark style="color:orange;">감별</mark>
@@ -287,15 +302,16 @@ graph TD
     TCA -- "반응(-)" --> Psych["정신 치료 / 전문의 의뢰"]
 
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style RF fill:#fff9c4,stroke:#ffe082
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class RF,Pheno yellow
     classDef green fill:#e8f8e8,stroke:#4caf50
     class HpTest,Endo green
-    style Pheno fill:#fdebd0,stroke:#e67e22
     classDef pink fill:#FFF0F0,stroke:#FFC0C0
     class EPS,PDS,Mix pink
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class PPI,Prokin,Both sky
     classDef blue fill:#d0e8ff,stroke:#1a6abf
     class Done,CauseTx,Psych blue
-    style TCA fill:#f3e5f5,stroke:#7b1fa2
 ```
 
 <p align="center"><strong>소화불량 진단 및 치료 알고리듬 (증상 아형 기반)</strong></p>
