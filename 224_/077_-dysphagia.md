@@ -136,55 +136,42 @@
 
 <table><thead><tr><th width="282.22222900390625">임상 소견</th><th>의미</th></tr></thead><tbody><tr><td>식사 중·후 기침</td><td>흡인 또는 흡인 직전(penetration)</td></tr><tr><td>Wet voice (식후 목소리 변화)</td><td>성대 위 음식물 잔류 → 흡인 의심</td></tr><tr><td>반복적 폐렴 (같은 폐 부위)</td><td>Silent aspiration 강력 의심</td></tr><tr><td>식사 시간 현저히 연장 (30분 이상)</td><td>연하 기능 저하, 피로성 흡인</td></tr><tr><td>식욕 저하 + 원인 불명 체중 감소</td><td>만성 삼킴곤란으로 인한 영양 결핍</td></tr><tr><td>침 흘림, 구강 분비물 조절 곤란</td><td>구인두 기능 저하</td></tr></tbody></table>
 
-### <mark style="color:orange;">선별 검사 도구 - EAT-10</mark>
+### <mark style="color:orange;">선별 검사 도구</mark>&#x20;
 
-{% hint style="info" %}
-**EAT-10 (Eating Assessment Tool-10)** : 연하장애 선별을 위한 10문항 자가보고 설문지. 각 문항 0\~4점(0=정상, 4=심각), 총점 **≥3점**이면 연하장애 의심 및 전문 평가 의뢰 기준.
-{% endhint %}
+#### <mark style="color:$primary;">EAT-10 (Eating Assessment Tool-10)</mark>&#x20;
 
-\[증상 영역]\
-1\. 삼킴 문제 때문에 체중이 감소하였습니다.\
-2\. 삼킴 문제 때문에 외식이 어렵습니다.\
-3\. 액체를 삼킬 때 힘이 듭니다.\
-4\. 고형식을 삼킬 때 힘이 듭니다.\
-5\. 알약을 삼킬 때 힘이 듭니다.\
-6\. 삼킴이 고통스럽습니다.\
-7\. 삼킴의 즐거움이 감소했습니다.\
-8\. 삼킬 때 음식이 목에 걸립니다.\
-9\. 먹을 때 기침이 납니다.\
-10\. 삼킴은 스트레스를 줍니다.
+* 연하장애 선별을 위한 10문항 자가보고 설문지
+* 각 문항 0\~4점 (정상=0점, 중증=4점); 총점 ≥3점 시 연하장애 의심 및 전문 평가 의뢰
+
+1. 삼킴 문제 때문에 체중이 감소하였습니다.
+2. 삼킴 문제 때문에 외식이 어렵습니다.
+3. 액체를 삼킬 때 힘이 듭니다.
+4. 고형식을 삼킬 때 힘이 듭니다.
+5. 알약을 삼킬 때 힘이 듭니다.
+6. 삼킴이 고통스럽습니다.
+7. 삼킴의 즐거움이 감소했습니다.
+8. 삼킬 때 음식이 목에 걸립니다.
+9. 먹을 때 기침이 납니다.
+10. 삼킴은 스트레스를 줍니다.
 
 ### <mark style="color:orange;">검사</mark>
 
-<table><thead><tr><th width="220">검사</th><th width="220">적응증</th><th>특이사항</th></tr></thead><tbody><tr><td>혈액 검사 (CBC, 단백질/albumin, TFT, Vit B12, anti-AChR Ab)</td><td>전신 질환, 영양 상태, 중증 근무력증 감별</td><td>초기 선별</td></tr><tr><td>상부 소화관 내시경 (EGD)</td><td>식도성 삼킴곤란의 1차 검사</td><td>점막 평가, 확장술 동시 시행 가능; <strong>EoE 의심 시 식도 근위부·원위부에서 각각 최소 6곳 이상 조직 생검 권장</strong></td></tr><tr><td>비디오 투시 연하 검사 (VFSS)</td><td>구인두 삼킴곤란, 흡인 평가</td><td>실시간 삼킴 역학·흡인 시점 평가; 방사선 피폭; 언어재활사 협력 권장</td></tr><tr><td>섬유내시경 연하 검사 (FEES)</td><td>VFSS의 대안; 침상 환자, 이동 어려운 환자</td><td>방사선 피폭 없음; 성대·인두 직접 관찰; VFSS와 상호 보완적</td></tr><tr><td>Barium esophagogram</td><td>EGD 음성이나 기계적 이상 의심, Schatzki ring, Zenker 게실</td><td>식도 전체 형태 파악에 유용</td></tr><tr><td>고해상도 식도 내압 검사 (HRM)</td><td>EGD 정상이나 운동 장애 의심</td><td>Chicago Classification v4.0 (2021); achalasia 아형, OIED, DES 분류; <strong>검사 전 6~12시간 금식 + 식도 운동 영향 약물(항콜린제, CCB, nitrate, opioid 등) 최소 2~3일 중단 안내 필요</strong></td></tr><tr><td>후두경 검사</td><td>경부 이물감 + 삼킴곤란 3주 이상 지속</td><td>후두암 배제; 이비인후과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="154.26312255859375">검사</th><th width="245.4736328125">적응증</th><th>특이사항</th></tr></thead><tbody><tr><td>혈액 검사 ¹⁾</td><td>전신 질환, 영양 상태, 중증 근무력증 감별</td><td>초기 선별</td></tr><tr><td>상부 소화관 내시경 (EGD)</td><td>식도성 삼킴곤란의 1차 검사</td><td>점막 평가, 확장술 동시 시행 가능; EoE 의심 시 식도 근위부·원위부에서 각각 최소 6곳 이상 조직 생검 권장</td></tr><tr><td>비디오 투시 연하 검사 (VFSS)</td><td>구인두 삼킴곤란, 흡인 평가</td><td>실시간 삼킴 역학·흡인 시점 평가; 방사선 피폭; 언어재활사 협력 권장</td></tr><tr><td>섬유내시경 연하 <br>검사 (FEES)</td><td>VFSS의 대안; 침상 환자, 이동 어려운 환자</td><td>방사선 피폭 없음; 성대·인두 직접 관찰; VFSS와 상호 보완적</td></tr><tr><td>Barium esophagogram</td><td>EGD 음성이나 기계적 이상 의심, Schatzki ring, Zenker 게실</td><td>식도 전체 형태 파악에 유용</td></tr><tr><td>고해상도 식도 내압 검사 (HRM)</td><td>EGD 정상이나 운동 장애 의심</td><td>Chicago Classification v4.0 (2021); achalasia 아형, OIED, DES 분류; 검사 전 6~12시간 금식 + 식도 운동 영향 약물(항콜린제, CCB, nitrate, opioid 등) 최소 2~3일 중단 안내 필요</td></tr><tr><td>후두경 검사</td><td>경부 이물감 + 삼킴곤란 3주 이상 지속</td><td>후두암 배제; 이비인후과 의뢰</td></tr></tbody></table>
 
-{% hint style="info" %}
-**Food impaction 응급 처치 경로**
+¹⁾ CBC, 단백질/albumin, TFT, Vit B12, anti-AChR Ab
 
-* **완전 저류 (침도 삼키지 못함)** → 즉시 ER → **6시간 이내** 응급 내시경
-* **불완전 저류 (부드러운 음식·침은 넘어감)** → 당일 ER → **24시간 이내** 내시경
+### <mark style="color:orange;">증상 및 병력에 따른 감별</mark>
 
-내시경 시행 시 **EoE 조직 생검 반드시 고려**: food impaction 환자의 상당 비율에서 EoE가 확인됨. 내시경 소견이 정상처럼 보여도 생검(근위부 + 원위부 각 ≥6곳)을 시행해야 한다.
-{% endhint %}
+<table><thead><tr><th width="334.73687744140625">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) - until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 먼저</td><td>후두 질환</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 나중에</td><td>신경 손상, 악성 종양</td></tr><tr><td>흉통 동반</td><td>DES, jackhammer esophagus, 기능성</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>Sarcopenic dysphagia, presbyphagia</td></tr></tbody></table>
 
-### <mark style="color:orange;">기능성 삼킴곤란 진단 기준</mark>
+### <mark style="color:orange;">기능성 삼킴곤란 진단 기준 - ROME Ⅳ</mark>&#x20;
 
-{% hint style="info" %}
-**기능성 삼킴곤란 (Functional Dysphagia)** - ROME Ⅳ 진단 기준
-
-발생한 지 최소 6개월 되었고, **최근 3개월간** 다음 조건을 모두 충족하는 증상이 **≥1회/주** 발생:
+* 발생한 지 최소 6개월 되었고, 최근 3개월간 다음 조건을 모두 충족하는 증상이 ≥1회/주 발생:
 
 1. 고형 또는 액상 음식물이 식도에 들러붙거나 걸려 있거나 비정상적으로 통과하는 느낌
 2. 식도 점막 또는 구조적 이상이 증상의 원인이라는 증거 없음
 3. GERD 또는 EoE가 증상의 원인이라는 증거 없음
 4. 주요 식도 운동 이상 질환 없음 (achalasia, EGJ outflow obstruction, DES, jackhammer esophagus, absent peristalsis)
-
-※ ROME V (2026년 예정)에서 기능성 식도 질환 분류가 일부 변경될 가능성이 있음 → 개정 시 기준 업데이트 필요
-{% endhint %}
-
-### <mark style="color:orange;">증상 및 병력에 따른 감별</mark>
-
-<table><thead><tr><th width="280">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) - until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 먼저</td><td>후두 질환</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 나중에</td><td>신경 손상, 악성 종양</td></tr><tr><td>흉통 동반</td><td>DES, jackhammer esophagus, 기능성</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>Sarcopenic dysphagia, presbyphagia</td></tr></tbody></table>
 
 ***
 
@@ -238,61 +225,60 @@ flowchart TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-{% hint style="info" %}
-삼킴곤란의 치료는 **원인 질환 치료**가 우선이며, 동시에 **영양·수분 상태 유지**와 **흡인 예방**에 중점을 둔다. 구인두성 삼킴곤란은 연하 재활 치료가 핵심이고, 식도성 삼킴곤란은 원인에 따라 내시경 시술 또는 수술을 포함한 전문과 협진이 필요하다.
-{% endhint %}
-
+* 삼킴곤란의 치료는 원인 질환 치료가 우선이며, 동시에 영양·수분 상태 유지와 흡인 예방에 중점을 둠
+* 구인두성 삼킴곤란은 연하 재활 치료가 핵심
+* 식도성 삼킴곤란은 원인에 따라 내시경 시술 또는 수술을 포함한 전문과 협진이 필요
 * 영양 및 수분 섭취 상태 정기 모니터링; 의미 있는 체중 감소 시 영양 지원 계획 수립
 * 흡인 위험 평가; 흡인성 폐렴 예방 우선
 * 처방약 전체 검토 (opioid, 항콜린제, bisphosphonate 등 유발 약물 여부)
 * 원인 질환 확인 및 전문과 의뢰
 * 경구 섭취 불가 또는 흡인 위험 높을 경우 → 경관 영양 (L-tube 또는 PEG) 고려
 
-***
+{% hint style="info" %}
+**Food impaction 응급 처치 경로**
+
+* **완전 저류 (침도 삼키지 못함)** → 즉시 ER → **6시간 이내** 응급 내시경
+* **불완전 저류 (부드러운 음식·침은 넘어감)** → 당일 ER → **24시간 이내** 내시경
+
+내시경 시행 시 **EoE 조직 생검 반드시 고려**: food impaction 환자의 상당 비율에서 EoE가 확인됨. 내시경 소견이 정상처럼 보여도 생검(근위부 + 원위부 각 ≥6곳)을 시행해야 한다.
+{% endhint %}
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
 ### <mark style="color:orange;">연하 재활: 보상 전략 vs 재활 전략</mark>
 
-{% hint style="info" %}
-현대 연하 재활은 \*\*보상 전략(Compensatory strategies)\*\*과 \*\*재활 전략(Rehabilitative strategies)\*\*으로 구분된다. 보상 전략은 즉각적으로 흡인 위험을 줄이지만 근본 기능은 개선하지 않는다. 재활 전략은 시간이 걸리지만 연하 근육 기능 자체를 향상시킨다. 두 전략을 환자 상태에 맞게 병행하는 것이 원칙.
-{% endhint %}
+* 보상 전략 : 즉각적으로 흡인 위험을 줄이지만 근본 기능은 개선하지 않음
+* 재활 전략 : 시간이 걸리지만 연하 근육 기능 자체를 향상시킴
+* 현대 연하 재활은 보상 전략(Compensatory strategies)과 재활 전략(Rehabilitative strategies)으로 구분.  두 전략을 환자 상태에 맞게 병행하는 것이 원칙
 
 #### <mark style="color:$primary;">보상 전략 (Compensatory)</mark>
 
-* **자세 조절** : 식사 시 90° 직립, 식후 30분 이상 직립 유지
-* **턱 당김 기법(Chin-tuck maneuver)** : 턱을 당겨 후두개 공간 좁힘 → 흡인 위험 감소; 구인두 삼킴곤란의 1차 보상 기법
-* **Head rotation** : 마비 측으로 고개 돌림 → 건강한 쪽 식도 우선 사용
-* **식이 질감 조절** : IDDSI 단계에 맞게 (아래 참조)
+* 자세 조절 : 식사 시 90° 직립, 식후 30분 이상 직립 유지
+* 턱 당김 기법(Chin-tuck maneuver) : 턱을 당겨 후두개 공간 좁힘 → 흡인 위험 감소; 구인두 삼킴곤란의 1차 보상 기법
+* Head rotation : 마비 측으로 고개 돌림 → 건강한 쪽 식도 우선 사용
+* 식이 질감 조절 : IDDSI 단계에 맞게 (아래 참조)
 
 #### <mark style="color:$primary;">재활 전략 (Rehabilitative)</mark>
 
-* **Shaker exercise (고개 들기 운동)** : 누운 자세에서 발끝을 보듯 고개를 들어 1분 유지 → 1분 휴식 × 3회; 설골상근 강화 → UES 이완 개선
-* **CTAR (Chin Tuck Against Resistance)** : 턱 아래 공에 저항하여 턱 당기기; 설골상근 강화
-* **Effortful swallow (힘껏 삼킴)** : 의도적으로 세게 삼킴 → 인두 수축력 및 음식물 제거율 향상
-* **Mendelsohn maneuver** : 삼킴 시 후두 거상을 의도적으로 2\~3초 연장 → UES 개방 시간 증가
-* **Masako maneuver** : 혀를 치아 사이에 살짝 물고 삼킴 → 후인두벽 수축 강화
-* **감각 촉진** : 신맛(구연산·레몬즙) 또는 냉자극은 삼킴 반사를 촉진할 수 있음
+* Shaker exercise (고개 들기 운동) : 누운 자세에서 발끝을 보듯 고개를 들어 1분 유지 → 1분 휴식 × 3회; 설골상근 강화 → UES 이완 개선
+* CTAR (Chin Tuck Against Resistance) : 턱 아래 공에 저항하여 턱 당기기; 설골상근 강화
+* Effortful swallow (힘껏 삼킴) : 의도적으로 세게 삼킴 → 인두 수축력 및 음식물 제거율 향상
+* Mendelsohn maneuver : 삼킴 시 후두 거상을 의도적으로 2\~3초 연장 → UES 개방 시간 증가
+* Masako maneuver : 혀를 치아 사이에 살짝 물고 삼킴 → 후인두벽 수축 강화
+* 감각 촉진 : 신맛(구연산·레몬즙) 또는 냉자극은 삼킴 반사를 촉진할 수 있음
 
 {% hint style="info" %}
-언어재활사(SLP)와의 협력 하에 VFSS/FEES 결과를 바탕으로 개별화된 운동 프로그램을 처방하는 것이 원칙이다.
+언어재활사(SLP)와의 협력 하에 VFSS/FEES 결과를 바탕으로 개별화된 운동 프로그램을 처방하는 것이 원칙
 {% endhint %}
 
 ### <mark style="color:orange;">식이 조절 - IDDSI 기준</mark>
 
-{% hint style="info" %}
-**IDDSI (International Dysphagia Diet Standardisation Initiative)** : 국제표준화 연하장애 식이 단계 (Level 0\~7). 환자의 연하 능력에 맞는 식이 질감을 표준화하여 흡인 위험을 최소화한다.
-{% endhint %}
+* **IDDSI (International Dysphagia Diet Standardisation Initiative)** : 국제표준화 연하장애 식이 단계 (Level 0\~7); 환자의 연하 능력에 맞는 식이 질감을 표준화하여 흡인 위험을 최소화함
 
-<table><thead><tr><th width="130">IDDSI 단계</th><th width="200">음료/음식 질감</th><th>적용 대상</th></tr></thead><tbody><tr><td>Level 0</td><td>물처럼 흐름 (Thin)</td><td>정상 연하 기능</td></tr><tr><td>Level 1~2</td><td>약간 걸쭉 / 넥타 농도 (묽은 걸쭉)</td><td>흡인 위험 경증</td></tr><tr><td>Level 3~4</td><td>꿀 농도 / 푸딩 농도</td><td>흡인 위험 중등도</td></tr><tr><td>Level 5~6</td><td>잘게 썰린 / 부드러운 고형식</td><td>저작 능력 저하</td></tr><tr><td>Level 7</td><td>일반 식이</td><td>정상 연하 기능 회복</td></tr></tbody></table>
+<table><thead><tr><th width="130">IDDSI 단계</th><th width="241.0526123046875">음료/음식 질감</th><th>적용 대상</th></tr></thead><tbody><tr><td>Level 0</td><td>물처럼 흐름 (Thin)</td><td>정상 연하 기능</td></tr><tr><td>Level 1~2</td><td>약간 걸쭉 / 넥타 농도 (묽은 걸쭉)</td><td>흡인 위험 경증</td></tr><tr><td>Level 3~4</td><td>꿀 농도 / 푸딩 농도</td><td>흡인 위험 중등도</td></tr><tr><td>Level 5~6</td><td>잘게 썰린 / 부드러운 고형식</td><td>저작 능력 저하</td></tr><tr><td>Level 7</td><td>일반 식이</td><td>정상 연하 기능 회복</td></tr></tbody></table>
 
-{% hint style="danger" %}
-⚠️ **증점제(thickener) 사용의 단점**: 과도한 증점은 **수분 섭취 감소 → 탈수**, **식욕 저하**, **복약 순응도 저하**를 유발할 수 있다. 연하 평가 결과에 근거하여 개별화하고, 정기적으로 재평가하여 불필요한 증점을 지속하지 않도록 한다.
-{% endhint %}
-
-{% hint style="info" %}
-**Free Water Protocol**: 선별된 환자에서 구강 위생을 철저히 유지하는 조건으로 thin water 섭취를 허용하는 접근. 증점 음료만 고집할 때의 탈수 위험을 줄이면서 삶의 질을 개선할 수 있다. 언어재활사(SLP) 평가 후 적용 여부 결정.
-{% endhint %}
+* 증점제(thickener) 사용의 단점 : 과도한 증점은 수분 섭취 감소 → 탈수, 식욕 저하, 복약 순응도 저하를 유발할 수 있음. 연하 평가 결과에 근거하여 개별화하고, 정기적으로 재평가하여 불필요한 증점을 지속하지 않도록 함
+* Free Water Protocol : 선별된 환자에서 구강 위생을 철저히 유지하는 조건으로 thin water 섭취를 허용하는 접근. 증점 음료만 고집할 때의 탈수 위험을 줄이면서 삶의 질을 개선할 수 있다. 언어재활사(SLP) 평가 후 적용 여부 결정
 
 ***
 
@@ -300,16 +286,18 @@ flowchart TD
 
 ### <mark style="color:orange;">GERD / 소화성 협착</mark>
 
-* **PPI (proton pump inhibitor)** : 위산 분비 억제로 증상 호전 및 협착 재발 방지
-  * omeprazole 20~~40 mg qd, pantoprazole 40 mg qd, esomeprazole 20~~40 mg qd
-  * 식전 30분 복용; 협착 확장술 후에는 장기 유지 필요 <mark style="color:blue;">\[넥시움 정]</mark>, <mark style="color:blue;">\[판토록 정]</mark>
+**PPI (proton pump inhibitor)**&#x20;
+
+* 위산 분비 억제로 증상 호전 및 협착 재발 방지
+* omeprazole 20\~40 ㎎ qd, pantoprazole 40 ㎎ qd, esomeprazole 20\~40 ㎎ qd
+* 식전 30분 복용; 협착 확장술 후에는 장기 유지 필요 <mark style="color:blue;">\[넥시움 정]</mark>, <mark style="color:blue;">\[판토록 정]</mark>
 
 ### <mark style="color:orange;">호산구성 식도염 (EoE)</mark>
 
 {% hint style="info" %}
-**최신 관점 (2023)**: 이전에 사용하던 "PPI-responsive EoE"라는 표현은 현재 권장되지 않는다. **PPI는 EoE의 1차 항염증 치료 옵션 중 하나**로 인정되며, PPI에 반응하더라도 EoE 진단이 배제되지 않는다.
+**최신 관점 (2023)** : 이전에 사용하던 "PPI-responsive EoE"라는 표현은 현재 권장되지 않음. PPI는 EoE의 1차 항염증 치료 옵션 중 하나로 인정되며, PPI에 반응하더라도 EoE 진단이 배제되지 않음.
 
-**EoE 내시경 소견** (정상이어도 생검 필수): feline esophagus (다발성 동심성 고리), linear furrows (세로 홈), white exudates, stricture, mucosal fragility
+**EoE 내시경 소견** (정상이어도 생검 필수) : feline esophagus (다발성 동심성 고리), linear furrows (세로 홈), white exudates, stricture, mucosal fragility
 {% endhint %}
 
 * **1단계 - 식이 제한 요법** : 6-food elimination diet (우유, 밀, 달걀, 콩, 견과류, 해산물) 또는 원인 알레르겐 회피; 영양사 협력 권장
@@ -317,7 +305,7 @@ flowchart TD
 * **3단계 - 국소 스테로이드** : PPI 무반응 또는 중등도\~중증
   * fluticasone propionate 흡입기: 220 μg bid → 스페이서 없이 구강 분무 후 삼킴 <mark style="color:blue;">\[플루티폼 흡입기]</mark>
   * budesonide 점성 현탁액: 1 mg bid (소량 물에 녹여 천천히 삼킴) <mark style="color:blue;">\[풀미코트 레스피울]</mark>
-    * **실무 팁**: 전용 현탁액 없을 시 budesonide 레스피울 액을 수크랄로스(인공감미료) 또는 꿀 소량에 섞어 걸쭉하게 만든 후 천천히 삼키도록 지도 (점성 높을수록 식도 접촉 시간 증가)
+    * 전용 현탁액이 없는 경우 budesonide 레스피울 액을 수크랄로스(인공감미료) 또는 꿀 소량에 섞어 걸쭉하게 만든 후 천천히 삼키도록 지도 (점성 높을수록 식도 접촉 시간 증가)
   * 복용 후 30\~60분 음식·음료 금지; 복용 후 구강 세척(칸디다 예방)
 * **4단계 - Dupilumab (IL-4/IL-13 억제 생물학적 제제)** : 다음 경우에 특히 고려 <mark style="color:blue;">\[듀피젠트 주]</mark>
   * Fibrostenotic EoE 또는 반복적 food impaction
@@ -328,29 +316,27 @@ flowchart TD
 ### <mark style="color:orange;">식도 운동 장애</mark>
 
 * **이완불능증(achalasia)** - 약물은 시술 전 단기 증상 완화 목적
-  * CCB : diltiazem 60~~90 mg 식전 30분 <mark style="color:blue;">\[헤르벤 서방정]</mark>; nifedipine 10~~20 mg sublingual
-  * isosorbide dinitrate 5 mg 식전 15분 설하 <mark style="color:blue;">\[이소켓 설하정]</mark>; 저혈압·기립성 저혈압 주의
+  * CCB : diltiazem 60\~90 ㎎ 식전 30분 <mark style="color:blue;">\[헤르벤 서방정]</mark>; nifedipine 10\~20 ㎎ sublingual
+  * isosorbide dinitrate 5 ㎎ 식전 15분 설하 <mark style="color:blue;">\[이소켓 설하정]</mark>; 저혈압·기립성 저혈압 주의
 * **광범위 식도 연축(DES) / Jackhammer**
-  * CCB (diltiazem 60~~90 mg bid~~tid) 또는 nitrate; 유발 인자(차가운 음식, 탄산음료) 회피
-  * sildenafil 50 mg prn : 식도 평활근 이완 (흉통 동반 DES)
+  * CCB (diltiazem 60\~90 ㎎ bid\~tid) 또는 nitrate; 유발 인자(차가운 음식, 탄산음료) 회피
+  * sildenafil 50 ㎎ prn : 식도 평활근 이완 (흉통 동반 DES)
 * **Opioid 유발 식도 운동 장애(OIED)**
   * 원인 opioid 감량 또는 중단이 가장 효과적
   * methylnaltrexone (peripherally acting μ-opioid receptor antagonist): 위장관 opioid 영향 차단; 소화기내과 협진
-* **기능성 삼킴곤란** : 저용량 TCA (amitriptyline 10\~25 mg hs) 또는 SSRI; 인지행동치료(CBT) 병행
+* **기능성 삼킴곤란** : 저용량 TCA (amitriptyline 10\~25 ㎎ hs) 또는 SSRI; 인지행동치료(CBT) 병행
 
 ### <mark style="color:orange;">감염성 식도염</mark>
 
-* **칸디다 식도염** : fluconazole 100~~200 mg qd × 14~~21일 <mark style="color:blue;">\[디플루칸 캡슐]</mark>; 면역저하자 200 mg qd; nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분
-* **HSV 식도염** : acyclovir 400 mg × 5회/일 × 7~~14일 <mark style="color:blue;">\[조비락스 정]</mark>; 면역저하자 14~~21일
-* **CMV 식도염** : ganciclovir 5 mg/kg IV q12h × 21\~28일; 감염내과 협진
+* **칸디다 식도염** : fluconazole 100\~200 ㎎ qd × 14\~21일 <mark style="color:blue;">\[디플루칸 캡슐]</mark>; 면역저하자 200 mg qd; nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분
+* **HSV 식도염** : acyclovir 400 ㎎ × 5회/일 × 7\~14일 <mark style="color:blue;">\[조비락스 정]</mark>; 면역저하자 14\~21일
+* **CMV 식도염** : ganciclovir 5 ㎎/㎏ IV q12h × 21\~28일; 감염내과 협진
 
 ### <mark style="color:orange;">약제 유발성 식도염 (Pill esophagitis)</mark>
 
 * 원인 약물 즉시 중단 또는 복용 방법 변경 (충분한 물, 직립 자세)
 * sucralfate 1 g qid (식사 30분 전 및 취침 전): 점막 보호 <mark style="color:blue;">\[아루사루민 현탁액]</mark>
-* PPI: omeprazole 20 mg bid × 4\~8주; 대부분 수 주 내 자연 호전
-
-***
+* PPI: omeprazole 20 ㎎ bid × 4\~8주; 대부분 수 주 내 자연 호전
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
