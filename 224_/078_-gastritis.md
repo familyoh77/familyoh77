@@ -16,7 +16,7 @@
 
 <table><thead><tr><th width="193.15789794921875">유형</th><th width="254.21051025390625">특징 및 원인</th><th>임상적 의의</th></tr></thead><tbody><tr><td>Patchy erythema</td><td>위 점막의 국소 발적; "minimal change gastritis"</td><td>대부분 임상적으로 무의미. 과잉 진단·치료 주의</td></tr><tr><td>Erosive gastritis / Reactive gastropathy</td><td>NSAID, 알코올 등 유해 인자</td><td>점막 손상; 출혈 가능</td></tr><tr><td>Hemorrhagic gastritis</td><td>저혈량, 저산소증 등 혈역학적 이상</td><td>스트레스 궤양과 연속선상</td></tr><tr><td>Reflux gastritis</td><td>담즙·췌장액의 역류; 유문 기능 장애와 관련</td><td>주로 antrum-predominant 패턴; body까지 침범 가능</td></tr><tr><td>Infectious gastritis</td><td>H. pylori, 기타 감염</td><td>가장 흔한 만성 위염 원인</td></tr><tr><td>Atrophic gastritis</td><td>선(gland) 구조 소실; 고령, 장기 PPI, 자가면역</td><td>위암 전구 병변 위험</td></tr></tbody></table>
 
-### <mark style="color:orange;">만성 위염의 자연 경과 (Correa Cascade)</mark>
+#### <mark style="color:$primary;">만성 위염의 자연 경과 (Correa Cascade)</mark>
 
 ```
 정상 위 점막
@@ -33,12 +33,12 @@
 ```
 
 {% hint style="info" %}
-**OLGA/OLGIM 병기** : 조직검사를 기반으로 위암 위험도를 Stage I\~IV로 분류. Stage III\~IV는 3년마다 감시 내시경 권고. 1차 의료에서는 병기 판단보다 내시경 의뢰 결정이 실질적으로 중요
+**OLGA/OLGIM 병기** : 조직검사를 기반으로 위암 위험도를 Stage I\~IV로 분류. Stage III\~IV는 3년마다 내시경 검사권고
 
 **OLGIM(장상피화생 기반) vs OLGA(위축 기반)** : OLGIM이 관찰자 간 일치도가 더 높고 위암 발생 위험 예측력이 우수하여 최근 임상적으로 더 선호됨
 {% endhint %}
 
-### <mark style="color:orange;">자가면역 위염 (Autoimmune Gastritis)</mark>
+#### <mark style="color:$primary;">자가면역 위염 (Autoimmune Gastritis)</mark>
 
 * 위 벽세포(parietal cell) 및 내인자(intrinsic factor)에 대한 자가항체 생성; H. pylori 음성, 주로 위체부(body) 침범
 * 진행 순서 주의 : 철결핍빈혈이 B12 결핍보다 먼저 나타나는 경우가 흔함 - 위산 저하로 비헴철 흡수 장애 → 이후 내인자 결핍으로 Vit B12 흡수 장애(악성빈혈) 순으로 진행
@@ -74,20 +74,21 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-상복부 증상 (비특이적; 증상과 내시경 소견의 불일치가 매우 흔함)
+**상복부 증상**&#x20;
 
+* 비특이적; 증상과 내시경 소견의 불일치가 매우 흔함
 * 상복부 불편감·팽만감 : 주로 식후 악화
 * 상복부 쓰림·작열감, 속쓰림, 구역·구토, 조기 포만감
 * 식욕 저하, 피로감
 
-신체 소견
+**신체 소견**
 
 * 상복부 압통 (경증, 비특이적); 복막 자극 징후 없음 → 있으면 다른 진단 고려
 
-만성 위염 동반 증상
+**만성 위염 동반 증상**
 
 * 피로감, 빈혈 증상 (위축성·자가면역 위염 시 철결핍빈혈 또는 악성빈혈)
-* 체중 감소 → Red Flag
+* 체중 감소
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -117,9 +118,11 @@
 * Antrum 2곳 + body 2곳 + incisura angularis 1곳 생검 권장 (총 5개 부위)
 * H. pylori 밀도, 염증 활성도, 만성 위염 정도, 위축, 장상피화생을 각각 0\~3등급으로 평가
 
-#### <mark style="color:$primary;">Kyoto 내시경 분류 (Kyoto Classification)</mark>
+**Kyoto 내시경 분류 (Kyoto Classification)**
 
-**Kyoto classification (2013/2015)**: 내시경 소견을 기반으로 H. pylori 감염 상태 및 위암 위험도를 평가하는 체계. 위축(atrophy), 장상피화생(IM), 미만성 발적(diffuse redness), RAC(regular arrangement of collecting venules) 소실, 주름 비대 등의 소견을 점수화. 점수가 높을수록 위암 위험도 상승. 조직검사 없이도 H. pylori 감염 및 위축 상태를 예측하는 데 유용하다.
+* 내시경 소견을 기반으로 H. pylori 감염 상태 및 위암 위험도를 평가하는 체계
+* 위축(atrophy), 장상피화생(IM), 미만성 발적(diffuse redness), RAC(regular arrangement of collecting venules) 소실, 주름 비대 등의 소견을 점수화; 점수가 높을수록 위암 위험도 상승
+* 일본 내에서는 임상적으로 널리 쓰이고 있으나 더 다양한 인구 집단에서의 검증 필요
 
 #### <mark style="color:$primary;">H. pylori 검사</mark>
 
