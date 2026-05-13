@@ -71,11 +71,6 @@
 * 공복 혈청 gastrin : 다발성·재발성·불응성 궤양에서 gastrinoma(ZES) 의심 시 고려
   * PPI는 위산 억제로 gastrin을 상승시킬 수 있으므로 가능하면 1\~2주 중단 후 측정; PPI 중단이 어려운 경우 H2RA로 일시 교체 후 측정 고려
 
-#### <mark style="color:$primary;">영상/내시경 검사</mark>
-
-* 위장관 내시경 검사 : 진단 및 조직 검사, 출혈 병변 처치, 악성 여부 감별의 표준
-* 위장관조영술 : 내시경 불가 시 대체 또는 보조적 역할
-
 #### <mark style="color:$primary;">헬리코박터 검사</mark>
 
 　☞ [헬리코박터](080_-helicobacter-pylori-infection.md)
@@ -84,39 +79,41 @@
 * 검사 방법 : 요소호기검사 (UBT, 비침습적, 1차 선택), 대변 항원 검사, 조직 검사 (CLO test + 조직)
 * PPI 복용 중에는 UBT 위음성 가능성 → 검사 전 2주 이상 PPI 중단 권장 (H2RA는 1주 중단으로 충분)
 
-### <mark style="color:orange;">내시경 검사 대상</mark>
+#### <mark style="color:$primary;">영상/내시경 검사</mark>
 
-* Red Flags ㅎ
+* 위장관 내시경 검사 : 진단 및 조직 검사, 출혈 병변 처치, 악성 여부 감별의 표준
+* 위장관조영술 : 내시경 불가 시 대체 또는 보조적 역할
+
+#### <mark style="color:$primary;">내시경 검사 대상</mark>
+
+* Red Flags 당
 * 치료에 반응하지 않거나 재발
-* 40세 이상에서 소화기 증상이 새로이 시작 ✽국제 가이드라인(55\~60세)과 달리 우리나라는 높은 위암 발생률과 국가검진 인프라를 고려해 40세 기준 적용 (☞ [위장질환의 감별](074_.md))
+* 40세 이상에서 소화기 증상이 새로이 시작; 국제 가이드라인(55\~60세)과 달리 우리나라는 높은 위암 발생률과 국가검진 인프라를 고려해 40세 기준 적용 (☞ [위장질환의 감별](074_.md))
 
 {% hint style="info" %}
-**우리나라 위암 검진 권고안** : 남녀 모두 **40세 이상**에서 **매 2년마다** UGI 또는 상부위장관 내시경 시행; 위점막 조직학적 변화(위축성 위염, 장상피화생) 또는 위암 직계 가족력이 있는 고위험군은 **1년마다** 검사 고려
-
+**우리나라 위암 검진 권고안** : 남녀 모두 40세 이상에서 매 2년마다 UGI 또는 상부위장관 내시경 시행; 위점막 조직학적 변화(위축성 위염, 장상피화생) 또는 위암 직계 가족력이 있는 고위험군은 1년마다 검사 고려\
 ※ 경고 징후 없는 40세 미만 연령의 PUD 의심 증상은 즉각적인 내시경 없이 외래에서 경험적 치료 가능
 {% endhint %}
 
-### <mark style="color:orange;">치료 후 내시경 추적 검사</mark>
+#### <mark style="color:$primary;">치료 후 내시경 추적 검사</mark>
 
 {% hint style="danger" %}
-⚠️ **위궤양(GU)은 모든 예에서 치유 확인 내시경이 원칙**
+**위궤양(GU)은 모든 예에서 치유 확인 내시경이 원칙** : 위궤양은 악성 종양(위암)과 내시경적으로 감별이 어려울 수 있으며, 양성으로 보이는 경우에도 반드시 치유 여부를 조직학적으로 확인해야 합니다. 치료 종료 후 6\~8주에 추적 내시경을 시행하며, 치유가 불완전하면 악성 감별을 위한 조직 검사를 재시행합니다.
 
-위궤양은 악성 종양(위암)과 내시경적으로 감별이 어려울 수 있으며, 양성으로 보이는 경우에도 반드시 치유 여부를 조직학적으로 확인해야 합니다. 치료 종료 후 6\~8주에 추적 내시경을 시행하며, 치유가 불완전하면 악성 감별을 위한 조직 검사를 재시행합니다.
-
-십이지장궤양(DU)은 악성 가능성이 희박하므로, 증상 호전 시 추적 내시경을 생략할 수 있습니다.
+**십이지장궤양(DU)은** 악성 가능성이 희박하므로, 증상 호전 시 추적 내시경을 생략할 수 있습니다.
 {% endhint %}
 
 * 증상 지속
-* GU : **모든 예에서** 치료 종료 6\~8주 후 추적 내시경 (치유 확인 + 악성 배제)
+* GU : 모든 예에서 치료 종료 6\~8주 후 추적 내시경 (치유 확인 + 악성 배제)
 * DU : 합병증, 증상 지속, 위험 인자가 있는 경우에 추적 고려
 * H. pylori 관련 PUD : 제균 치료 종료 2\~4주 후 UBT 제균 확인; 내시경 추적은 GU 원칙 적용
 * 위암 병력, giant gastric ulcer (＞2 ㎝), 악성 의심, 위암 위험 인자
 * 이전 내시경에서 조직 검사 미시행 또는 불충분
 * 이전 검사가 출혈 응급 상황에서 시행됨
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
-* 상복부 증상은 PUD뿐 아니라 기능성 소화불량(FD), 위식도역류질환(GERD), 위암이 유사하게 나타날 수 있으며, **overlap 형태로 동반되는 경우도 흔함**
+* 상복부 증상은 PUD뿐 아니라 기능성 소화불량(FD), 위식도역류질환(GERD), 위암이 유사하게 나타날 수 있으며, overlap 형태로 동반되는 경우도 흔함
 
 <table><thead><tr><th width="155">특징</th><th width="195">PUD</th><th width="185">기능성 소화불량 (FD)</th><th>위식도역류질환 (GERD)</th></tr></thead><tbody><tr><td>통증 양상</td><td>국소적 epigastric pain; 간헐적·주기적</td><td>모호한 불편감; 팽만·조기 포만감</td><td>흉골 하부 작열감(heartburn); 산 역류</td></tr><tr><td>식사 연관</td><td>GU 식후 악화, DU 공복/새벽 악화</td><td>식사 관련 불편감·포만감</td><td>누운 자세, 야식, 과식 후 악화</td></tr><tr><td>야간 통증</td><td>DU에서 흔함</td><td>드묾</td><td>가능 (야간 역류)</td></tr><tr><td>제산제 반응</td><td>비교적 좋음</td><td>가변적</td><td>일시적 개선</td></tr><tr><td>출혈 위험</td><td>있음</td><td>없음</td><td>드묾 (식도염 동반 시)</td></tr><tr><td>내시경 소견</td><td>점막 결손(궤양)</td><td>정상 또는 비특이적</td><td>역류성 식도염, 미란</td></tr></tbody></table>
 
@@ -124,33 +121,35 @@
 
 ```mermaid
 graph TD
-    A([소화기 증상 호소]) --> B{경고 징후?<br/>토혈·흑변·복부경직<br/>체중감소·연하장애}
+A([소화기 증상 호소]) --> B[경고 징후?<br/>토혈·흑변·복부경직<br/>체중감소·연하장애]
     B -- 있음 --> C[즉각 응급 평가<br/>또는 내시경]
-    B -- 없음 --> D{나이 ≥40세<br/>또는 위암 위험 인자?}
-    D -- 있음 --> E[상부위장관 내시경]
+    B -- 없음 --> D[나이 ≥40세<br/>또는 위암 위험 인자?]
+    D -- 있음 ---> E[상부위장관 내시경]
     D -- 없음 --> F[H. pylori 비침습적 검사<br/>NSAID/LDA 복용력 확인]
-    F --> G{H. pylori?}
+    F --> G[H. pylori?]
     G -- 양성 --> H[제균 치료 14일<br/>+ 항궤양제 4~8주]
-    G -- 음성 --> I{NSAID/aspirin<br/>복용 중?}
+    G -- 음성 --> I[NSAID/aspirin<br/>복용 중?]
     I -- 예 --> J[NSAID 중단 또는 COX-2 교체<br/>+ PPI/P-CAB 4~8주]
     I -- 아니오 --> K[경험적 PPI 치료 4~8주<br/>특발성 궤양 고려]
-    H --> L{증상 호전?}
+    H --> L[증상 호전?]
     J --> L
     K --> L
     L -- 아니오 --> E
-    L -- 예 --> M{GU 확인됨?}
-    M -- 예 --> N[6~8주 후<br/>추적 내시경 필수]
+    L -- 예 --> M[GU 확인됨?]
+    M -- 예 --> N[6~8주 후<br/>추적 내시경]
     M -- 아니오 --> O[추적 관찰<br/>H. pylori 제균 확인]
 
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style E fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style H fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style N fill:#f96,stroke:#e65100,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D,G,I,L,M yellow
+style C fill:#ff9966,stroke:#cc5500
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class H,J,K sky
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class E,N lightGreen
 ```
 
 <p align="center"><strong>소화성 궤양 진단 및 치료 알고리듬</strong></p>
-
-
 
 ***
 

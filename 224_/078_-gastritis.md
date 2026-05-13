@@ -198,7 +198,7 @@ classDef sky fill:#e3f2ff,stroke:#2196f3
 class H,M,N,O sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
 class K,L,R blue
-    style C fill:#fde8f0,stroke:#e91e8c
+    style C fill:#ff9966,stroke:#cc5500
 ```
 
 <p align="center"><strong>위염 진단 및 치료 알고리듬</strong></p>
