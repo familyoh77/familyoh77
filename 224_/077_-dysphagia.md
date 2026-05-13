@@ -14,54 +14,58 @@
 
 #### <mark style="color:$primary;">관련 증상 구분</mark>
 
-* **삼킴통증(odynophagia)** : 삼킬 때 발생하는 통증; 구인두 또는 식도의 염증·궤양 (감염, 약물 유발, 위산 역류 등)
-* **인두이물감(globus pharyngeus)** : 목 안의 이물감; 삼킴에 제한 없고 삼킴으로 오히려 호전됨 (☞ [소화불량](075_-indigestion-dyspepsia.md))
-* **먹기공포증(phagophobia)** : 삼킴 자체에 대한 심리적 공포; 기질적 이상 없음
+* 삼킴통증(odynophagia) : 삼킬 때 발생하는 통증; 구인두 또는 식도의 염증·궤양 (감염, 약물 유발, 위산 역류 등)
+* 인두이물감(globus pharyngeus) : 목 안의 이물감; 삼킴에 제한 없고 삼킴으로 오히려 호전됨 (☞ [소화불량](075_-indigestion-dyspepsia.md))
+* 먹기공포증(phagophobia) : 삼킴 자체에 대한 심리적 공포; 기질적 이상 없음
 
 {% hint style="info" %}
-**Clinical Pearl - Globus vs 삼킴곤란 감별**: '목에 뭔가 걸린 느낌(globus sensation)'을 호소하지만 실제 음식물 통과에는 지장이 없고, 오히려 음식을 먹을 때 증상이 완화된다면 기질적 삼킴곤란보다 인두이물감(globus pharyngeus) 또는 GERD에 의한 감각 과민일 가능성이 높다. Globus는 삼킴을 방해하지 않는다는 점이 삼킴곤란과의 핵심 차이다.
+**Globus vs 삼킴곤란 감별** : '목에 뭔가 걸린 느낌(globus sensation)'을 호소하지만 실제 음식물 통과에는 지장이 없고, 오히려 음식을 먹을 때 증상이 완화된다면 기질적 삼킴곤란보다 인두이물감(globus pharyngeus) 또는 GERD에 의한 감각 과민일 가능성이 높음; Globus는 삼킴을 방해하지 않는다는 점이 삼킴곤란과의 핵심 차이
 {% endhint %}
 
 ### <mark style="color:orange;">노인 연하장애 - Presbyphagia & Sarcopenic Dysphagia</mark>
 
-* **Presbyphagia (노인성 삼킴장애)** : 노화에 따른 근력 감소, 치아 손실, 타액 분비 감소, 감각 둔화로 인한 연하 기능 저하; 삼킴곤란이 없어도 silent aspiration 위험 증가
-* **Sarcopenic dysphagia (근감소성 삼킴장애)** : 전신 근감소증(sarcopenia)이 연하 관련 근육(설골상근, 인두수축근, 식도괄약근)까지 침범하여 발생하는 삼킴곤란; 노인 연하장애 분야에서 최근 가장 주목받는 entity
+* Presbyphagia (노인성 삼킴장애) : 노화에 따른 근력 감소, 치아 손실, 타액 분비 감소, 감각 둔화로 인한 연하 기능 저하; 삼킴곤란이 없어도 silent aspiration 위험 증가
+* Sarcopenic dysphagia (근감소성 삼킴장애) : 전신 근감소증(sarcopenia)이 연하 관련 근육(설골상근, 인두수축근, 식도괄약근)까지 침범하여 발생하는 삼킴곤란; 노인 연하장애 분야에서 최근 가장 주목받는 entity
   * 고령·저영양·반복 입원·장기 와상 환자에서 빈도 높음
-  * **특징** : 전신 근감소증 + 원인 불명 연하 기능 저하; 신경 또는 구조적 이상 없음
-  * **치료** : 연하 재활 운동 + 저항성 운동 + **영양 지원** - 류신(Leucine)이 풍부한 양질의 단백질(1.2\~1.5 g/kg/일)과 **비타민 D** (결핍 시 보충) 공급이 근육 합성 촉진에 중요
+  * 특징 : 전신 근감소증 + 원인 불명 연하 기능 저하; 신경 또는 구조적 이상 없음
+  * 치료 : 연하 재활 운동 + 저항성 운동 + 영양 지원 - 류신(Leucine)이 풍부한 양질의 단백질(1.2\~1.5 g/㎏/일)과 비타민 D (결핍 시 보충) 공급이 근육 합성 촉진에 중요
 * 반복 흡인성 폐렴의 중요한 위험 요인; 노인 외래에서 적극적인 연하 평가 권장
 
-***
+### <mark style="color:orange;">**약제 유발성 식도염 (Pill esophagitis)**</mark>&#x20;
+
+* 알약을 소량의 물과 함께 또는 누운 상태에서 복용 시 식도 점막 직접 손상. 증상(삼킴통증, 흉통)은 복용 직후 또는 수 시간 내에 나타남
+
+<table><thead><tr><th width="273.3333740234375">대표 약물</th><th width="191.5555419921875">기전</th><th>주의사항</th></tr></thead><tbody><tr><td>Bisphosphonate (알렌드로네이트)</td><td>직접 pH 손상</td><td>기립 자세 + 물 200 mL; 30분 금와위</td></tr><tr><td>Doxycycline / Tetracycline</td><td>직접 점막 손상</td><td>눕기 전 복용 금지; 충분한 물</td></tr><tr><td>NSAIDs / Aspirin</td><td>점막 보호 억제</td><td>식후 복용; 위험군에서 PPI 병용</td></tr><tr><td>Clindamycin</td><td>직접 점막 독성</td><td>눕기 전 복용 금지</td></tr><tr><td>Iron 제제, 칼륨제제</td><td>직접 점막 자극</td><td>충분한 물; 분할 복용</td></tr><tr><td>고용량 비타민 C</td><td>산성 자극</td><td>대용량 복용 회피</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
 #### <mark style="color:$primary;">기계적 폐쇄</mark>
 
-* **구인두(oropharyngeal)** : 두경부 암종, 편도 비대 및 편도주위농양, 후두개염, 인두 농양
-* **Zenker diverticulum (인두식도게실)** : 윤상인두근 위쪽 Killian triangle의 점막 탈출; 노인 남성에서 호발; **입 냄새(halitosis)와 미소화된 음식물 역류**가 핵심 단서; 내시경·수술로 치료
-* **윤상인두근 바(Cricopharyngeal bar)** : 상부 식도괄약근(UES) 불완전 이완으로 발생하는 바(bar) 형태의 근육 비대; Zenker diverticulum의 전구 병변; VFSS에서 인두 후벽의 돌출된 바 소견으로 확인; 증상 있는 경우 근절개술(myotomy) 또는 내시경 확장술 고려
-* **식도(esophageal)** : 식도암, 소화성 협착(peptic stricture), Schatzki ring, 식도웹(esophageal web), 식도게실
-* **외부 압박** : 갑상선 비대, 종격동 종양, 대동맥류, 심비대
-* **경추 골성 돌기(cervical osteophyte)** : DISH(미만성 특발성 골격 과골증) 또는 전방 경추 골증식증; 노인에서 식도 외부 압박에 의한 구인두 삼킴곤란 유발; 경추 X-ray 또는 CT로 확인
+* 구인두(oropharyngeal) : 두경부 암종, 편도 비대 및 편도주위농양, 후두개염, 인두 농양
+* Zenker diverticulum (인두식도게실) : 윤상인두근 위쪽 Killian triangle의 점막 탈출; 노인 남성에서 호발; 입 냄새(halitosis)와 미소화된 음식물 역류가 핵심 단서; 내시경·수술로 치료
+* 윤상인두근 바(Cricopharyngeal bar) : 상부 식도괄약근(UES) 불완전 이완으로 발생하는 바(bar) 형태의 근육 비대; Zenker diverticulum의 전구 병변; VFSS에서 인두 후벽의 돌출된 바 소견으로 확인; 증상 있는 경우 근절개술(myotomy) 또는 내시경 확장술 고려
+* 식도(esophageal) : 식도암, 소화성 협착(peptic stricture), Schatzki ring, 식도웹(esophageal web), 식도게실
+* 외부 압박 : 갑상선 비대, 종격동 종양, 대동맥류, 심비대
+* 경추 골성 돌기(cervical osteophyte) : DISH(미만성 특발성 골격 과골증) 또는 전방 경추 골증식증; 노인에서 식도 외부 압박에 의한 구인두 삼킴곤란 유발; 경추 X-ray 또는 CT로 확인
 
 #### <mark style="color:$primary;">염증성·면역성 질환</mark>
 
-* **호산구성 식도염(Eosinophilic esophagitis, EoE)** : 성인 고형식 삼킴곤란 및 음식물 저류(food impaction)의 주요 원인; 젊은 남성·알레르기 병력 흔함
-* **위식도역류질환(GERD)** : 만성 염증 → peptic stricture; 기능적 연하장애 유발
+* 호산구성 식도염(Eosinophilic esophagitis, EoE) : 성인 고형식 삼킴곤란 및 음식물 저류(food impaction)의 주요 원인; 젊은 남성·알레르기 병력 흔함
+* 위식도역류질환(GERD) : 만성 염증 → peptic stricture; 기능적 연하장애 유발
 * 방사선 치료 후 섬유화, 구강점막염
 
 #### <mark style="color:$primary;">신경근육 질환</mark>
 
-* **뇌혈관 질환(CVA)** : 구인두성 삼킴곤란의 가장 흔한 원인
+* 뇌혈관 질환(CVA) : 구인두성 삼킴곤란의 가장 흔한 원인
 * 파킨슨병, 알츠하이머병, 다발성 경화증, ALS, 중증 근무력증
-* **윤상인두근 기능 이상(Cricopharyngeal dysfunction)** : 상부 식도괄약근(UES) 이완 불충분 → 반복 삼킴, 흡인, 목의 걸림감; Zenker diverticulum의 병태생리적 기반
-* **이완불능증(achalasia)** : 하부 식도괄약근 이완 불능 + 연동 소실
-* **광범위 식도 연축(DES)**, jackhammer esophagus
+* 윤상인두근 기능 이상(Cricopharyngeal dysfunction) : 상부 식도괄약근(UES) 이완 불충분 → 반복 삼킴, 흡인, 목의 걸림감; Zenker diverticulum의 병태생리적 기반
+* 이완불능증(achalasia) : 하부 식도괄약근 이완 불능 + 연동 소실
+* 광범위 식도 연축(DES), jackhammer esophagus
 * 피부경화증(scleroderma) : 식도 하부 2/3의 연동운동 소실 + 하부 식도괄약근(LES) 압력 저하가 특징 → 심각한 GERD + peptic stricture 유발; 당뇨병신경병증, SLE
 
 #### <mark style="color:$primary;">약물 유발 운동 장애</mark>
 
-* **Opioid 유발 식도 운동 장애(OIED, Opioid-Induced Esophageal Dysfunction)** : 만성 opioid 사용 → μ-opioid receptor 활성화 → EGJ outflow obstruction, 경련성 운동 이상(achalasia type III 유사 소견) 유발; HRM에서 achalasia 유사 패턴; opioid 감량·중단 시 호전 가능. tramadol은 μ-receptor 활성화가 상대적으로 약하므로 OIED 유발이 가능하나 전형적 opioid에 비해 낮음
+* Opioid 유발 식도 운동 장애(OIED, Opioid-Induced Esophageal Dysfunction) : 만성 opioid 사용 → μ-opioid receptor 활성화 → EGJ outflow obstruction, 경련성 운동 이상(achalasia type III 유사 소견) 유발; HRM에서 achalasia 유사 패턴; opioid 감량·중단 시 호전 가능. tramadol은 μ-receptor 활성화가 상대적으로 약하므로 OIED 유발이 가능하나 전형적 opioid에 비해 낮음
 * 항콜린제(타액 감소·식도 운동 저하), CCB, nitrate 장기 복용 시에도 식도 운동 저하 가능
 
 #### <mark style="color:$primary;">감염</mark>
@@ -75,16 +79,8 @@
 * GERD, 뇌졸중, COPD, 두경부암
 * 두경부·흉부 수술, 방사선 치료, 화학요법
 * 전신 근감소증(sarcopenia), 저영양, 장기 와상
-* **알약 관련** : bisphosphonate, NSAID, tetracycline, doxycycline, clindamycin, TMP/SMX, 고용량 비타민 C, 철분제, 칼륨제제, 항콜린제
-* **운동 장애 유발** : opioid(tramadol은 위험 낮음), 항콜린제, CCB
-
-{% hint style="danger" %}
-⚠️ **약제 유발성 식도염(Pill esophagitis)**: 알약을 소량의 물과 함께 또는 누운 상태에서 복용 시 식도 점막 직접 손상. 증상(삼킴통증, 흉통)은 복용 **직후 또는 수 시간 내**에 나타남.
-{% endhint %}
-
-<table><thead><tr><th width="200">대표 약물</th><th>기전</th><th>주의사항</th></tr></thead><tbody><tr><td>Bisphosphonate (알렌드로네이트)</td><td>직접 pH 손상</td><td>기립 자세 + 물 200 mL; 30분 금와위</td></tr><tr><td>Doxycycline / Tetracycline</td><td>직접 점막 손상</td><td>눕기 전 복용 금지; 충분한 물</td></tr><tr><td>NSAIDs / Aspirin</td><td>점막 보호 억제</td><td>식후 복용; 위험군에서 PPI 병용</td></tr><tr><td>Clindamycin</td><td>직접 점막 독성</td><td>눕기 전 복용 금지</td></tr><tr><td>Iron 제제, 칼륨제제</td><td>직접 점막 자극</td><td>충분한 물; 분할 복용</td></tr><tr><td>고용량 비타민 C</td><td>산성 자극</td><td>대용량 복용 회피</td></tr></tbody></table>
-
-***
+* 알약 관련 : bisphosphonate, NSAID, tetracycline, doxycycline, clindamycin, TMP/SMX, 고용량 비타민 C, 철분제, 칼륨제제, 항콜린제
+* 운동 장애 유발 : opioid(tramadol은 위험 낮음), 항콜린제, CCB
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -92,7 +88,7 @@
 * 삼킴 시작 어려움, 삼킴 후 식도 걸림 느낌
 * 삼킴 중 기침, 사레, 구역
 * 음식물의 비강 역류 또는 기도 흡인
-* 목소리 변화(쉰 목소리, 물 먹은 듯한 **wet voice** - 흡인 의심)
+* 목소리 변화(쉰 목소리, 물 먹은 듯한 wet voice - 흡인 의심)
 * 흡인성 폐렴(반복성 폐렴 시 silent aspiration 의심)
 * 체중 감소, 탈수, 영양 결핍
 
@@ -100,16 +96,16 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 긴급 처치 필요</mark>
 
-* **급성 완전 음식물 저류(complete food/bolus impaction)** - 침도 못 삼킬 경우: **6시간 이내** 응급 내시경; 부분 저류(부드러운 음식·침은 넘어감): 24시간 이내 내시경
-* **천명(stridor) 동반** - 상기도 폐쇄 또는 후두개염 의심; **기도 확보가 최우선** → 즉시 ER 이송; 기도 평가 전에 내시경 등 다른 처치 시도 금지
+* 급성 완전 음식물 저류(complete food/bolus impaction) - 침도 못 삼킬 경우: 6시간 이내 응급 내시경; 부분 저류(부드러운 음식·침은 넘어감): 24시간 이내 내시경
+* 천명(stridor) 동반 - 상기도 폐쇄 또는 후두개염 의심; 기도 확보가 최우선 → 즉시 ER 이송; 기도 평가 전에 내시경 등 다른 처치 시도 금지
 * 급성 발열 + 경부 강직 또는 경부 부종 - 경부 농양, 뇌수막염 의심
 * 신속히 진행하는 삼킴 불능 + 체중 감소 + 전신 쇠약
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">당일 또는 조기 의뢰</mark>
 
-* **진행성 고형식 삼킴곤란** (수 주\~수개월 진행) - 식도암 또는 두경부암 의심
-* 쉰 목소리가 삼킴곤란보다 **나중에** 발생 - 신경 손상 또는 악성 종양 의심
-* **경부 이물감 + 삼킴곤란 3주 이상 지속** - 후두암 배제 위해 이비인후과 의뢰
+* 진행성 고형식 삼킴곤란 (수 주\~수개월 진행) - 식도암 또는 두경부암 의심
+* 쉰 목소리가 삼킴곤란보다 나중에 발생 - 신경 손상 또는 악성 종양 의심
+* 경부 이물감 + 삼킴곤란 3주 이상 지속 - 후두암 배제 위해 이비인후과 의뢰
 * 설명할 수 없는 체중 감소 (3\~6개월 내 체중의 ≥5%)
 * 국소 신경학적 이상 동반
 
@@ -119,32 +115,26 @@
 * 반복적 흡인성 폐렴 또는 wet voice 지속 - 연하 전문 평가(VFSS/FEES) 의뢰
 * 고령 + 식욕 저하 + 서서히 진행하는 연하 어려움 - sarcopenic dysphagia 또는 신경퇴행성 질환 감별
 
-***
-
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">1차 감별: 구인두성 vs 식도성</mark>
+#### <mark style="color:$primary;">1차 감별 : 구인두성 vs 식도성</mark>
 
 {% hint style="info" %}
-**외래 triage의 핵심**: 삼킴곤란을 접하면 구인두성인지 식도성인지를 먼저 판단한다. 단, **환자가 느끼는 걸림 위치가 실제 병변 위치와 일치하지 않는 경우가 흔하다.** 원위부 식도 병변도 '목에 걸린다'고 표현하는 경우가 많으므로, 위치 표현보다 증상 발생 시점·동반 증상·병력 전체를 종합하여 판단해야 한다.
+**외래 triage의 핵심** : 삼킴곤란을 접하면 구인두성인지 식도성인지를 먼저 판단한다. 단, 환자가 느끼는 걸림 위치가 실제 병변 위치와 일치하지 않는 경우가 흔하다. 원위부 식도 병변도 '목에 걸린다'고 표현하는 경우가 많으므로, 위치 표현보다 증상 발생 시점·동반 증상·병력 전체를 종합하여 판단해야 한다.
 {% endhint %}
 
-<table><thead><tr><th width="190">특징</th><th width="220">구인두성 (Oropharyngeal)</th><th>식도성 (Esophageal)</th></tr></thead><tbody><tr><td>증상 발생 시점</td><td>삼킴 시작 즉시</td><td>삼킴 수 초 후</td></tr><tr><td>위치 표현</td><td>목, 상부 흉골</td><td>흉골 뒤, 흉부 중하부</td></tr><tr><td>사레 / 흡인</td><td>흔함</td><td>드묾</td></tr><tr><td>비강 역류</td><td>가능</td><td>없음</td></tr><tr><td>Wet voice / 식후 기침</td><td>흔함</td><td>드묾</td></tr><tr><td>침 흘림</td><td>흔함</td><td>드묾</td></tr><tr><td>주요 원인</td><td>신경근육 질환 (CVA, 파킨슨병 등)</td><td>기계적 폐쇄 / 운동 장애</td></tr><tr><td>우선 검사</td><td>VFSS / FEES</td><td>상부 소화관 내시경 (EGD)</td></tr></tbody></table>
+<table><thead><tr><th width="190">특징</th><th width="257.77777099609375">구인두성 (Oropharyngeal)</th><th>식도성 (Esophageal)</th></tr></thead><tbody><tr><td>증상 발생 시점</td><td>삼킴 시작 즉시</td><td>삼킴 수 초 후</td></tr><tr><td>위치 표현</td><td>목, 상부 흉골</td><td>흉골 뒤, 흉부 중하부</td></tr><tr><td>사레 / 흡인</td><td>흔함</td><td>드묾</td></tr><tr><td>비강 역류</td><td>가능</td><td>없음</td></tr><tr><td>Wet voice / 식후 기침</td><td>흔함</td><td>드묾</td></tr><tr><td>침 흘림</td><td>흔함</td><td>드묾</td></tr><tr><td>주요 원인</td><td>신경근육 질환 (CVA, 파킨슨병 등)</td><td>기계적 폐쇄 / 운동 장애</td></tr><tr><td>우선 검사</td><td>VFSS / FEES</td><td>상부 소화관 내시경 (EGD)</td></tr></tbody></table>
 
-### <mark style="color:orange;">고형식 → 유동식 진행 패턴: 핵심 임상 단서</mark>
+#### <mark style="color:$primary;">고형식 → 유동식 진행 패턴 평가</mark>
 
-{% hint style="info" %}
-**외래에서 가장 강력한 bedside clue**: 어떤 음식에서 증상이 있는지를 반드시 확인한다.
+* 외래에서 가장 강력한 임상 단서
+* 어떤 음식에서 증상이 있는지 확인
+  * 기계적 폐쇄 : 초기에는 고형식에서만 증상 → 병변이 진행·협착이 심해질수록 유동식까지 증상 확대
+  * 운동 장애 : 처음부터 고형식과 유동식 모두 증상 (연동 운동 자체의 문제이므로 음식 형태 무관)
 
-* **기계적 폐쇄** : 초기에는 고형식에서만 증상 → 병변이 진행·협착이 심해질수록 유동식까지 증상 확대
-* **운동 장애** : 처음부터 고형식과 유동식 모두 증상 (연동 운동 자체의 문제이므로 음식 형태 무관)
+#### <mark style="color:$primary;">흡인 위험 침상 평가 단서</mark>
 
-이 단 하나의 질문만으로도 기계적 폐쇄 vs 운동 장애를 상당 부분 감별할 수 있다.
-{% endhint %}
-
-### <mark style="color:orange;">흡인 위험 침상 평가 단서</mark>
-
-<table><thead><tr><th width="240">임상 소견</th><th>의미</th></tr></thead><tbody><tr><td>식사 중·후 기침</td><td>흡인 또는 흡인 직전(penetration)</td></tr><tr><td>Wet voice (식후 목소리 변화)</td><td>성대 위 음식물 잔류 → 흡인 의심</td></tr><tr><td>반복적 폐렴 (같은 폐 부위)</td><td>Silent aspiration 강력 의심</td></tr><tr><td>식사 시간 현저히 연장 (30분 이상)</td><td>연하 기능 저하, 피로성 흡인</td></tr><tr><td>식욕 저하 + 원인 불명 체중 감소</td><td>만성 삼킴곤란으로 인한 영양 결핍</td></tr><tr><td>침 흘림, 구강 분비물 조절 곤란</td><td>구인두 기능 저하</td></tr></tbody></table>
+<table><thead><tr><th width="282.22222900390625">임상 소견</th><th>의미</th></tr></thead><tbody><tr><td>식사 중·후 기침</td><td>흡인 또는 흡인 직전(penetration)</td></tr><tr><td>Wet voice (식후 목소리 변화)</td><td>성대 위 음식물 잔류 → 흡인 의심</td></tr><tr><td>반복적 폐렴 (같은 폐 부위)</td><td>Silent aspiration 강력 의심</td></tr><tr><td>식사 시간 현저히 연장 (30분 이상)</td><td>연하 기능 저하, 피로성 흡인</td></tr><tr><td>식욕 저하 + 원인 불명 체중 감소</td><td>만성 삼킴곤란으로 인한 영양 결핍</td></tr><tr><td>침 흘림, 구강 분비물 조절 곤란</td><td>구인두 기능 저하</td></tr></tbody></table>
 
 ### <mark style="color:orange;">선별 검사 도구 - EAT-10</mark>
 
