@@ -68,14 +68,14 @@
 
 #### 헬리코박터 검사
 
-　☞&#x20;
+　☞ [헬리코박터](080_-helicobacter-pylori-infection.md)
 
-* 대상 : 새롭게 발생된 PUD, PUD 과거력, ㅎ 경험적 치료 후 지속되는 PUD 의심 증상
+* 대상 : 새롭게 발생된 PUD, PUD 과거력, 경험적 치료 후 지속되는 PUD 의심 증상
 * 검사 방법 : 요소호기검사 등
 
 ### 위장관 내시경
 
-#### 대상 (☞ p.381)
+**대상** (☞ [위장질환의  감별](074_.md#undefined-5))
 
 * 경고 징후가 있음
 * 치료에 반응하지 않음
@@ -83,11 +83,7 @@
 
 ※ 경고 징후가 없는 젊은 연령에서의 PUD 증상은 보통 즉각적인 내시경 검사 없이 외래 관리
 
-※ 우리나라 위암 검진 권고안 : 남녀 모두 40세 이상에서 매 2년마다 UGI 또는 상부소화관 내시경 검사를 시행;
-
-```
-위점막의 조직학적 변화가 있거나 위암 직계 가족력이 있는 고위험군은 1년마다 검사 고려
-```
+※ 우리나라 위암 검진 권고안 : 남녀 모두 40세 이상에서 매 2년마다 UGI 또는 상부소화관 내시경 검사를 시행; 위점막의 조직학적 변화가 있거나 위암 직계 가족력이 있는 고위험군은 1년마다 검사 고려
 
 #### 치료 후 내시경 추적 검사 대상
 
@@ -114,7 +110,7 @@
 
 ### 치료 약제
 
-#### Proton pump inhibitor (PPI)
+#### Proton pump inhibitor ([PPI](073_.md#proton-pump-inhibitor-ppi))
 
 * 위산 분비 억제 : 표준 용량에서 24시간 위산 분비의 ＞90% 억제
 * 적용 : PUD 치료, NSAID 관련 PUD 치료 및 예방
@@ -127,7 +123,7 @@
 * pantoprazole : 40 ㎎ qd \[판토록]
 * rabeprazole : 10\~20 ㎎ qd \[파리에트]
 
-#### Potassium-competitive acid blocker (P-CAB)
+#### Potassium-competitive acid blocker ([P-CAB](073_.md#potassium-competitive-acid-blocker-p-cab))
 
 * 위산에 의한 활성화가 필요 없이 직접 프로톤 펌프를 억제하므로 효과가 빠르게 나타나며 식사와 관계없이 복용 가능
 *   tegoprazan : 강력한 제산 효과, 빠른 산 분비 억제 개시, 식사 무관 복용; 50 ㎎ qd ×4(\~8)주. 식사 무관 복용 \[케이캡]
@@ -135,7 +131,7 @@
     (보험주의; PUD에 대한 허가 없음)
 * rebaprazan : 위산 분비 억제 능력이 PPI보다 약함; 200 ㎎ qd \[레바넥스]
 
-#### H2 receptor antagonist (H2RA)
+#### H2 receptor antagonist ([H2RA](073_.md#h2-h2-receptor-antagonist-h2ra))
 
 * 위산 분비 억제 : 표준 용량에서 24시간 위산 분비의 ＜65% 억제
 * PPI보다 효과 발현 및 치유율이 낮음; 6주(DU)~~8주(GU) 투여로 치유율 85~~90%
@@ -143,7 +139,7 @@
 * cimetidine : 400 ㎎ bid 또는 800 ㎎ hs \[에취투비]
 * famotidine : 20 ㎎ bid 또는 40 ㎎ hs \[가스터]
 
-#### 제산제
+#### [제산제](073_.md#antacid)
 
 * 단독으로는 치료 효과 부족; 증상 완화 목적 또는 PPI 치료 초기에 병용
 
@@ -157,8 +153,9 @@
 * NSAID 투여 시 예방 약제 병용을 고려
 * 대상 : ＞65세, 심한 정신적 스트레스, steroid를 투여 중인 PUD 병력
 * 종류 : PPI(선호), H2RA(통상 용량의 2배 투여), 합성 prostaglandin E1 analog
+  * sucralfate는 유효성이 입증 안 됨&#x20;
 
-> ✽sucralfate는 유효성이 입증 안 됨 \*\* 합성 prostaglandin E1 analog\*\*
+**합성 prostaglandin E1 analog**
 
 * 부작용 : 설사, 복통
 * misoprostol : 200 ㎍ qid, 음식과 함께 복용 \[싸이토텍]
@@ -176,10 +173,25 @@
 
     •재발하는 경우 필요시 투여 또는 최소 유효 용량으로 지속 투여하는 것을 고려
 
-> **질병코드** K25 위궤양
+
+
+### **질병코드**&#x20;
+
+K25 위궤양
 
 K26 십이지장궤양
 
 K27 상세불명 부위의 소화성 궤양
 
-![image](../.gitbook/assets/79fca10b-8d1d-4df3-8f98-78417d69cfea.JPG)
+
+
+## 처방례
+
+처방례 1. 위궤양\
+레바넥스 200 ㎎/T 1T qd\
+라미나지 액 1P tid\~qid 필요시
+
+\
+처방례 2. 십이지장궤양\
+란스톤 30 ㎎/C 1C qd\
+알마겔 현탁액 4P #4 매 식후 1\~2시간 및 취침 시
