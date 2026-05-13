@@ -91,32 +91,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
-
-* 토혈(hematemesis) 또는 흑색변(melena) → 상부 소화관 출혈
-* 급격하고 심한 복통 + 복막 자극 징후(반발압통, 근긴장) → 천공
-* 활력 징후 불안정(저혈압, 빈맥) 동반 복통
-* 의식 변화 동반 구토 (흡인 위험)
-
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
-
-* 삼킴 곤란(dysphagia) 또는 연하 시 통증(odynophagia)
-* 의도치 않은 체중 감소 (6개월 내 체중의 5% 이상)
-* 지속적인 구토 또는 탈수 징후
-* 복부 종괴 촉지
-* 설명되지 않는 철결핍빈혈 (위암·출혈 감별 필요)
-* 50세 이후 새로이 발생한 상복부 증상\*
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
-
-* 4\~6주 표준 치료 후 증상 미호전 또는 재발 반복
-* H. pylori 1차 제균 실패
-* 조직검사상 위축성 위염·장상피화생 확인
-* 자가면역 위염 의심 → 악성빈혈, 갑상선 질환
-
-{% hint style="info" %}
-\* 연령 cutoff는 국가별 위암 유병률에 따라 다름. 우리나라의 높은 위암 발생률과 내시경 접근성을 고려하면 50세 기준이 적절하나, 국제 가이드라인에 따라 55\~60세 기준도 병용됨
-{% endhint %}
+　☞ [위장질환의 감별](074_.md#step-1-red-flags)
 
 ## <mark style="color:green;">진단</mark>
 

@@ -40,7 +40,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-　☞ [소화불량](075_-indigestion-dyspepsia.md#red-flags)
+　☞ [위장질환의 감별](074_.md#step-1-red-flags)
 
 ## <mark style="color:green;">진단</mark>
 

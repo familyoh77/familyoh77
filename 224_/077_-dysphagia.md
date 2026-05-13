@@ -94,26 +94,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 긴급 처치 필요</mark>
-
-* 급성 완전 음식물 저류(complete food/bolus impaction) - 침도 못 삼킬 경우: 6시간 이내 응급 내시경; 부분 저류(부드러운 음식·침은 넘어감): 24시간 이내 내시경
-* 천명(stridor) 동반 - 상기도 폐쇄 또는 후두개염 의심; 기도 확보가 최우선 → 즉시 ER 이송; 기도 평가 전에 내시경 등 다른 처치 시도 금지
-* 급성 발열 + 경부 강직 또는 경부 부종 - 경부 농양, 뇌수막염 의심
-* 신속히 진행하는 삼킴 불능 + 체중 감소 + 전신 쇠약
-
-<mark style="color:$warning;">당일 또는 조기 의뢰</mark>
-
-* 진행성 고형식 삼킴곤란 (수 주\~수개월 진행) - 식도암 또는 두경부암 의심
-* 쉰 목소리가 삼킴곤란보다 나중에 발생 - 신경 손상 또는 악성 종양 의심
-* 경부 이물감 + 삼킴곤란 3주 이상 지속 - 후두암 배제 위해 이비인후과 의뢰
-* 설명할 수 없는 체중 감소 (3\~6개월 내 체중의 ≥5%)
-* 국소 신경학적 이상 동반
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 경과 관찰·평가 필요</mark>
-
-* 4\~8주 경험적 치료(PPI 등)에 호전 없는 경우 - 내시경 검사 고려
-* 반복적 흡인성 폐렴 또는 wet voice 지속 - 연하 전문 평가(VFSS/FEES) 의뢰
-* 고령 + 식욕 저하 + 서서히 진행하는 연하 어려움 - sarcopenic dysphagia 또는 신경퇴행성 질환 감별
+　☞ [위장질환의 감별](074_.md#step-1-red-flags)
 
 ## <mark style="color:green;">진단</mark>
 

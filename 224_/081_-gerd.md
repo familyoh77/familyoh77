@@ -38,7 +38,11 @@
 
     quinidine, progesterone, benzodiazepine, TCA, 도파민 작용제, 철분제
 
-## 임상 양상![image](../.gitbook/assets/4e638bc0-c5e2-46c1-965d-9197b497b41e.JPG)
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+　☞ [위장질환의 감별](074_.md#step-1-red-flags)
+
+## 임상 양상
 
 *   전형적 증상 : (주로 식후에 발생하는) 위산 역류(신맛), 가슴쓰림(작열감),
 
