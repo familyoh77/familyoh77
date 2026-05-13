@@ -126,7 +126,7 @@
 
 #### <mark style="color:$primary;">H. pylori 검사</mark>
 
-(☞ [헬리코박터](080_-helicobacter-pylori-infection.md))
+　(☞ [헬리코박터](080_-helicobacter-pylori-infection.md))
 
 * 비침습적 : 요소호기검사(UBT, 1차 선택), 대변항원검사(SAT), 혈청항체 (과거 감염 반영; 치료 확인에 부적합)
 * 침습적 (내시경 시행 시) : 신속 요소분해효소검사(CLO), 조직검사, 배양
@@ -135,21 +135,13 @@
 #### <mark style="color:$primary;">혈액 및 기타 검사</mark>
 
 * 빈혈 검사 : CBC, reticulocyte, Fe, ferritin, TIBC
-  * ✦ **원인 불명의 철결핍빈혈** 시 자가면역 위염(AIG) 가능성을 반드시 고려할 것 (B12 결핍보다 먼저 나타남)
+  * &#x20;원인 불명의 철결핍빈혈 시 자가면역 위염(AIG) 가능성을 고려 (B12 결핍보다 먼저 나타남)
 * Vit B12, 엽산 : 위축성·자가면역 위염 의심 시
 * 자가항체 : 항벽세포항체(PCA), 항내인자항체(IFA) - 자가면역 위염 의심 시
 * 대변 잠혈 검사 : 만성 출혈 스크리닝
 * 혈청 가스트린 : 위축성 위염 시 상승; Zollinger-Ellison 감별 필요 시
 
-{% hint style="info" %}
-**임신부 약물 안전성 (빠른 참고)**\
-PPI (omeprazole, pantoprazole 등) : FDA category B (동물 실험 무해, 인체 대조 연구 부족) - 임신 중 필요 시 신중 사용 가능\
-H2RA (famotidine) : FDA category B - 상대적으로 안전한 대안\
-Misoprostol : **FDA category X - 임신 절대 금기** (자궁 수축 유발, 유산·조산 위험)\
-✽ 정확한 최신 안전성 등급은 처방 전 반드시 확인할 것
-{% endhint %}
-
-### <mark style="color:orange;">위염 vs 기능성 소화불량 vs GERD - 감별</mark>
+### <mark style="color:orange;">위염 vs 기능성 소화불량 vs GERD 감별</mark>
 
 * "위염" 진단을 받은 환자의 상당수에서 FD 또는 GERD가 실제 원인임을 주목
 
@@ -219,15 +211,13 @@ class K,L,R blue
 
 * 원인 제거가 치료의핵심 - H. pylori 양성이면 제균, NSAID 관련이면 중단·대체; 약물 치료는 증상 완화와 점막 회복을 보조하는 역할
 * H. pylori 제균 : 적응증 해당 시 우선 시행 (☞ [소화불량](075_-indigestion-dyspepsia.md), [헬리코박터](080_-helicobacter-pylori-infection.md))
-* 유발 약물 중단·대체 : NSAID → 중단 또는 COX-2 억제제로 전환; Aspirin → 심혈관 위험 재평가 후 PPI 병용 (☞ p.15)
+* 유발 약물 중단·대체 : NSAID → 중단 또는 COX-2 억제제로 전환; Aspirin → 심혈관 위험 재평가 후 PPI 병용 (☞ [통증](../220_/001_-pain.md#nsaids))
 * 만성 위염 후유증 치료 : 위축성 위염에 의한 B12 결핍 → Vit B12 보충 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
 * 스트레스 궤양 예방 (ICU 고위험) : 기계 호흡·응고병증 동반 고위험 입원 환자에 PPI 우선 권고 (2018 SCCM/ESICM 지침; H2RA, sucralfate는 대안)
 
-### <mark style="color:orange;">위염과 기능성 소화불량 Overlap</mark>
+#### <mark style="color:$primary;">위염-기능성 소화불량 Overlap</mark>
 
-{% hint style="info" %}
-**외래 현실**: 내시경상 경미한 위염 소견이 있어도 증상의 주 원인이 기능성 소화불량(FD)인 경우가 매우 흔함. H. pylori (-)이고 NSAID를 복용하지 않는 환자에서 위염과 소화불량 증상이 공존한다면 FD overlap을 항상 고려
-{% endhint %}
+* 내시경상 경미한 위염 소견이 있어도 증상의 주 원인이 기능성 소화불량(FD)인 경우가 매우 흔함. H. pylori (-)이고 NSAID를 복용하지 않는 환자에서 위염과 소화불량 증상이 공존한다면 FD overlap을 항상 고려
 
 **FD overlap 가능성이 높은 경우**
 
@@ -245,7 +235,7 @@ class K,L,R blue
 * 장기 PPI 단독 투여의 효과를 재평가하고 step-down 계획 수립
 * 필요 시 neuromodulator (저용량 TCA, mirtazapine) 고려 → 소화기내과 협진
 
-### <mark style="color:orange;">모니터링 및 감시 내시경</mark>
+#### <mark style="color:$primary;">모니터링 및 감시 내시경</mark>
 
 * 중증 또는 치료 불응 : 6주 후 내시경 재검 고려
 * 위축성 위염 (antrum + body 모두 침범) : 3\~5년마다 내시경
@@ -255,7 +245,7 @@ class K,L,R blue
 * 자가면역 위염 : 3년마다 내시경; Vit B12·CBC 정기 모니터링; 위저선 폴립(fundic gland polyp) 및 신경내분비종양(NET, Type 1) 발생 위험 증가 - 내시경 시 주의 깊게 관찰
 
 {% hint style="info" %}
-**국가 암검진**: 만 40세 이상은 2년마다 위내시경 무료 검진 가능
+**국가 암검진** : 만 40세 이상은 2년마다 위내시경 무료 검진
 {% endhint %}
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -341,6 +331,14 @@ class K,L,R blue
 | NSAID 복용 후 시작        | Reactive gastropathy / 미란성 위염          | NSAID 중단·감량 + PPI; 고위험 시 COX-2 억제제 + PPI | 공복 복용 금지, 충분한 수분                       |
 | 신물·흉부 작열감·눕거나 야간 악화  | GERD / LPR                             | PPI 또는 P-CAB (표준 용량)                     | 야식 금지, 식후 눕지 않기, 체중 조절                 |
 | 스트레스 연관·증상 변동성·검사 정상 | FD / Gut-brain axis disorder           | 환자 교육 + 운동 촉진제 ± neuromodulator 고려       | 스트레스 관리, CBT, 수면 교정                    |
+
+{% hint style="info" %}
+**임신부 약물 안전성** \
+PPI (omeprazole, pantoprazole 등) : FDA category B (동물 실험 무해, 인체 대조 연구 부족) - 임신 중 필요 시 신중 사용 가능\
+H2RA (famotidine) : FDA category B - 상대적으로 안전한 대안\
+Misoprostol : FDA category X - 임신 절대 금기 (자궁 수축 유발, 유산·조산 위험)\
+✽ 정확한 최신 안전성 등급은 처방 전 반드시 확인할 것
+{% endhint %}
 
 ***
 
