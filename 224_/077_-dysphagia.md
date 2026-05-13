@@ -2,17 +2,17 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* **삼킴곤란(연하곤란, dysphagia)** : 구강에서 위장으로 음식물을 이동시키는 과정에서의 어려움; 부위와 기전에 따라 구분
+* 삼킴곤란(연하곤란, dysphagia) : 구강에서 위장으로 음식물을 이동시키는 과정에서의 어려움; 부위와 기전에 따라 구분
 * 삼킴(연하)은 구강기(oral phase) → 인두기(pharyngeal phase) → 식도기(esophageal phase)의 3단계로 이루어지며, 각 단계의 장애에 따라 임상 양상이 다름
-* **유병률** : 지역사회 성인의 약 16~22%; 65세 이상에서는 27~44%에 이름
+* 유병률 : 지역사회 성인의 약 16\~22%; 65세 이상에서는 27\~44%에 이름
   * 입원 환자 및 요양 시설 거주 노인에서는 유병률이 더 높음
-  * 뇌졸중 환자의 약 50%, 파킨슨병 환자의 50~80%에서 동반
+  * 뇌졸중 환자의 약 50%, 파킨슨병 환자의 50\~80%에서 동반
 
-### <mark style="color:orange;">삼킴곤란의 분류</mark>
+#### <mark style="color:$primary;">삼킴곤란의 분류</mark>
 
-<table><thead><tr><th width="170">유형</th><th width="260">정의</th><th>특징</th></tr></thead><tbody><tr><td>Oral dysphagia</td><td>구강에서 저작 및 bolus 형성 단계의 문제</td><td>씹기 어려움, 구강 내 음식물 조절 곤란</td></tr><tr><td>Oropharyngeal dysphagia</td><td>구인두→상부 식도로의 이송 장애</td><td>삼킴 시작 즉시 증상; 흡인, 비강 역류 동반 가능</td></tr><tr><td>Esophageal dysphagia</td><td>식도→위로의 이송 장애</td><td>삼킴 수 초 후 흉부 걸림 느낌</td></tr><tr><td>이송삼킴곤란 (transfer dysphagia)</td><td>삼킴 시 음식물이 비강 또는 기도로 유입</td><td>oropharyngeal dysphagia의 하위 개념; 흡인, 사레, 비강 역류</td></tr></tbody></table>
+<table><thead><tr><th width="181">유형</th><th width="184">정의</th><th>특징</th></tr></thead><tbody><tr><td>Oral dysphagia</td><td>구강에서 저작 및 bolus 형성 단계의 문제</td><td>씹기 어려움, 구강 내 음식물 조절 곤란</td></tr><tr><td>Oropharyngeal dysphagia</td><td>구인두→상부 식도로의 이송 장애</td><td>삼킴 시작 즉시 증상; 흡인, 비강 역류 동반 가능</td></tr><tr><td>Esophageal dysphagia</td><td>식도→위로의 이송 장애</td><td>삼킴 수 초 후 흉부 걸림 느낌</td></tr><tr><td>이송삼킴곤란 (transfer dysphagia)</td><td>삼킴 시 음식물이 비강 또는 기도로 유입</td><td>oropharyngeal dysphagia의 하위 개념; 흡인, 사레, 비강 역류</td></tr></tbody></table>
 
-### <mark style="color:orange;">관련 증상 구분</mark>
+#### <mark style="color:$primary;">관련 증상 구분</mark>
 
 * **삼킴통증(odynophagia)** : 삼킬 때 발생하는 통증; 구인두 또는 식도의 염증·궤양 (감염, 약물 유발, 위산 역류 등)
 * **인두이물감(globus pharyngeus)** : 목 안의 이물감; 삼킴에 제한 없고 삼킴으로 오히려 호전됨 (☞ [소화불량](075_-indigestion-dyspepsia.md))
@@ -28,7 +28,7 @@
 * **Sarcopenic dysphagia (근감소성 삼킴장애)** : 전신 근감소증(sarcopenia)이 연하 관련 근육(설골상근, 인두수축근, 식도괄약근)까지 침범하여 발생하는 삼킴곤란; 노인 연하장애 분야에서 최근 가장 주목받는 entity
   * 고령·저영양·반복 입원·장기 와상 환자에서 빈도 높음
   * **특징** : 전신 근감소증 + 원인 불명 연하 기능 저하; 신경 또는 구조적 이상 없음
-  * **치료** : 연하 재활 운동 + 저항성 운동 + **영양 지원** — 류신(Leucine)이 풍부한 양질의 단백질(1.2~1.5 g/kg/일)과 **비타민 D** (결핍 시 보충) 공급이 근육 합성 촉진에 중요
+  * **치료** : 연하 재활 운동 + 저항성 운동 + **영양 지원** — 류신(Leucine)이 풍부한 양질의 단백질(1.2\~1.5 g/kg/일)과 **비타민 D** (결핍 시 보충) 공급이 근육 합성 촉진에 중요
 * 반복 흡인성 폐렴의 중요한 위험 요인; 노인 외래에서 적극적인 연하 평가 권장
 
 ***
@@ -80,9 +80,9 @@
 
 {% hint style="danger" %}
 ⚠️ **약제 유발성 식도염(Pill esophagitis)**: 알약을 소량의 물과 함께 또는 누운 상태에서 복용 시 식도 점막 직접 손상. 증상(삼킴통증, 흉통)은 복용 **직후 또는 수 시간 내**에 나타남.
+{% endhint %}
 
 <table><thead><tr><th width="200">대표 약물</th><th>기전</th><th>주의사항</th></tr></thead><tbody><tr><td>Bisphosphonate (알렌드로네이트)</td><td>직접 pH 손상</td><td>기립 자세 + 물 200 mL; 30분 금와위</td></tr><tr><td>Doxycycline / Tetracycline</td><td>직접 점막 손상</td><td>눕기 전 복용 금지; 충분한 물</td></tr><tr><td>NSAIDs / Aspirin</td><td>점막 보호 억제</td><td>식후 복용; 위험군에서 PPI 병용</td></tr><tr><td>Clindamycin</td><td>직접 점막 독성</td><td>눕기 전 복용 금지</td></tr><tr><td>Iron 제제, 칼륨제제</td><td>직접 점막 자극</td><td>충분한 물; 분할 복용</td></tr><tr><td>고용량 비타민 C</td><td>산성 자극</td><td>대용량 복용 회피</td></tr></tbody></table>
-{% endhint %}
 
 ***
 
@@ -107,15 +107,15 @@
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* **진행성 고형식 삼킴곤란** (수 주~수개월 진행) — 식도암 또는 두경부암 의심
+* **진행성 고형식 삼킴곤란** (수 주\~수개월 진행) — 식도암 또는 두경부암 의심
 * 쉰 목소리가 삼킴곤란보다 **나중에** 발생 — 신경 손상 또는 악성 종양 의심
 * **경부 이물감 + 삼킴곤란 3주 이상 지속** — 후두암 배제 위해 이비인후과 의뢰
-* 설명할 수 없는 체중 감소 (3~6개월 내 체중의 ≥5%)
+* 설명할 수 없는 체중 감소 (3\~6개월 내 체중의 ≥5%)
 * 국소 신경학적 이상 동반
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 경과 관찰·평가 필요</mark>
 
-* 4~8주 경험적 치료(PPI 등)에 호전 없는 경우 — 내시경 검사 고려
+* 4\~8주 경험적 치료(PPI 등)에 호전 없는 경우 — 내시경 검사 고려
 * 반복적 흡인성 폐렴 또는 wet voice 지속 — 연하 전문 평가(VFSS/FEES) 의뢰
 * 고령 + 식욕 저하 + 서서히 진행하는 연하 어려움 — sarcopenic dysphagia 또는 신경퇴행성 질환 감별
 
@@ -149,7 +149,7 @@
 ### <mark style="color:orange;">선별 검사 도구 — EAT-10</mark>
 
 {% hint style="info" %}
-**EAT-10 (Eating Assessment Tool-10)** : 연하장애 선별을 위한 10문항 자가보고 설문지. 각 문항 0~4점(0=정상, 4=심각), 총점 **≥3점**이면 연하장애 의심 및 전문 평가 의뢰 기준.
+**EAT-10 (Eating Assessment Tool-10)** : 연하장애 선별을 위한 10문항 자가보고 설문지. 각 문항 0\~4점(0=정상, 4=심각), 총점 **≥3점**이면 연하장애 의심 및 전문 평가 의뢰 기준.
 {% endhint %}
 
 \[증상 영역]\
@@ -265,7 +265,7 @@ flowchart TD
 ### <mark style="color:orange;">연하 재활: 보상 전략 vs 재활 전략</mark>
 
 {% hint style="info" %}
-현대 연하 재활은 **보상 전략(Compensatory strategies)**과 **재활 전략(Rehabilitative strategies)**으로 구분된다. 보상 전략은 즉각적으로 흡인 위험을 줄이지만 근본 기능은 개선하지 않는다. 재활 전략은 시간이 걸리지만 연하 근육 기능 자체를 향상시킨다. 두 전략을 환자 상태에 맞게 병행하는 것이 원칙.
+현대 연하 재활은 \*\*보상 전략(Compensatory strategies)\*\*과 \*\*재활 전략(Rehabilitative strategies)\*\*으로 구분된다. 보상 전략은 즉각적으로 흡인 위험을 줄이지만 근본 기능은 개선하지 않는다. 재활 전략은 시간이 걸리지만 연하 근육 기능 자체를 향상시킨다. 두 전략을 환자 상태에 맞게 병행하는 것이 원칙.
 {% endhint %}
 
 #### <mark style="color:$primary;">보상 전략 (Compensatory)</mark>
@@ -280,7 +280,7 @@ flowchart TD
 * **Shaker exercise (고개 들기 운동)** : 누운 자세에서 발끝을 보듯 고개를 들어 1분 유지 → 1분 휴식 × 3회; 설골상근 강화 → UES 이완 개선
 * **CTAR (Chin Tuck Against Resistance)** : 턱 아래 공에 저항하여 턱 당기기; 설골상근 강화
 * **Effortful swallow (힘껏 삼킴)** : 의도적으로 세게 삼킴 → 인두 수축력 및 음식물 제거율 향상
-* **Mendelsohn maneuver** : 삼킴 시 후두 거상을 의도적으로 2~3초 연장 → UES 개방 시간 증가
+* **Mendelsohn maneuver** : 삼킴 시 후두 거상을 의도적으로 2\~3초 연장 → UES 개방 시간 증가
 * **Masako maneuver** : 혀를 치아 사이에 살짝 물고 삼킴 → 후인두벽 수축 강화
 * **감각 촉진** : 신맛(구연산·레몬즙) 또는 냉자극은 삼킴 반사를 촉진할 수 있음
 
@@ -291,7 +291,7 @@ flowchart TD
 ### <mark style="color:orange;">식이 조절 — IDDSI 기준</mark>
 
 {% hint style="info" %}
-**IDDSI (International Dysphagia Diet Standardisation Initiative)** : 국제표준화 연하장애 식이 단계 (Level 0~7). 환자의 연하 능력에 맞는 식이 질감을 표준화하여 흡인 위험을 최소화한다.
+**IDDSI (International Dysphagia Diet Standardisation Initiative)** : 국제표준화 연하장애 식이 단계 (Level 0\~7). 환자의 연하 능력에 맞는 식이 질감을 표준화하여 흡인 위험을 최소화한다.
 {% endhint %}
 
 <table><thead><tr><th width="130">IDDSI 단계</th><th width="200">음료/음식 질감</th><th>적용 대상</th></tr></thead><tbody><tr><td>Level 0</td><td>물처럼 흐름 (Thin)</td><td>정상 연하 기능</td></tr><tr><td>Level 1~2</td><td>약간 걸쭉 / 넥타 농도 (묽은 걸쭉)</td><td>흡인 위험 경증</td></tr><tr><td>Level 3~4</td><td>꿀 농도 / 푸딩 농도</td><td>흡인 위험 중등도</td></tr><tr><td>Level 5~6</td><td>잘게 썰린 / 부드러운 고형식</td><td>저작 능력 저하</td></tr><tr><td>Level 7</td><td>일반 식이</td><td>정상 연하 기능 회복</td></tr></tbody></table>
@@ -311,7 +311,7 @@ flowchart TD
 ### <mark style="color:orange;">GERD / 소화성 협착</mark>
 
 * **PPI (proton pump inhibitor)** : 위산 분비 억제로 증상 호전 및 협착 재발 방지
-  * omeprazole 20~40 mg qd, pantoprazole 40 mg qd, esomeprazole 20~40 mg qd
+  * omeprazole 20~~40 mg qd, pantoprazole 40 mg qd, esomeprazole 20~~40 mg qd
   * 식전 30분 복용; 협착 확장술 후에는 장기 유지 필요 <mark style="color:blue;">\[넥시움 정]</mark>, <mark style="color:blue;">\[판토록 정]</mark>
 
 ### <mark style="color:orange;">호산구성 식도염 (EoE)</mark>
@@ -323,12 +323,12 @@ flowchart TD
 {% endhint %}
 
 * **1단계 — 식이 제한 요법** : 6-food elimination diet (우유, 밀, 달걀, 콩, 견과류, 해산물) 또는 원인 알레르겐 회피; 영양사 협력 권장
-* **2단계 — PPI** : EoE의 1차 항염증 치료 옵션; esomeprazole 40 mg bid × 8~12주 후 내시경 재평가
-* **3단계 — 국소 스테로이드** : PPI 무반응 또는 중등도~중증
+* **2단계 — PPI** : EoE의 1차 항염증 치료 옵션; esomeprazole 40 mg bid × 8\~12주 후 내시경 재평가
+* **3단계 — 국소 스테로이드** : PPI 무반응 또는 중등도\~중증
   * fluticasone propionate 흡입기: 220 μg bid → 스페이서 없이 구강 분무 후 삼킴 <mark style="color:blue;">\[플루티폼 흡입기]</mark>
   * budesonide 점성 현탁액: 1 mg bid (소량 물에 녹여 천천히 삼킴) <mark style="color:blue;">\[풀미코트 레스피울]</mark>
     * **실무 팁**: 전용 현탁액 없을 시 budesonide 레스피울 액을 수크랄로스(인공감미료) 또는 꿀 소량에 섞어 걸쭉하게 만든 후 천천히 삼키도록 지도 (점성 높을수록 식도 접촉 시간 증가)
-  * 복용 후 30~60분 음식·음료 금지; 복용 후 구강 세척(칸디다 예방)
+  * 복용 후 30\~60분 음식·음료 금지; 복용 후 구강 세척(칸디다 예방)
 * **4단계 — Dupilumab (IL-4/IL-13 억제 생물학적 제제)** : 다음 경우에 특히 고려 <mark style="color:blue;">\[듀피젠트 주]</mark>
   * Fibrostenotic EoE 또는 반복적 food impaction
   * 스테로이드 불응 또는 스테로이드 의존
@@ -338,27 +338,27 @@ flowchart TD
 ### <mark style="color:orange;">식도 운동 장애</mark>
 
 * **이완불능증(achalasia)** — 약물은 시술 전 단기 증상 완화 목적
-  * CCB : diltiazem 60~90 mg 식전 30분 <mark style="color:blue;">\[헤르벤 서방정]</mark>; nifedipine 10~20 mg sublingual
+  * CCB : diltiazem 60~~90 mg 식전 30분 <mark style="color:blue;">\[헤르벤 서방정]</mark>; nifedipine 10~~20 mg sublingual
   * isosorbide dinitrate 5 mg 식전 15분 설하 <mark style="color:blue;">\[이소켓 설하정]</mark>; 저혈압·기립성 저혈압 주의
 * **광범위 식도 연축(DES) / Jackhammer**
-  * CCB (diltiazem 60~90 mg bid~tid) 또는 nitrate; 유발 인자(차가운 음식, 탄산음료) 회피
+  * CCB (diltiazem 60~~90 mg bid~~tid) 또는 nitrate; 유발 인자(차가운 음식, 탄산음료) 회피
   * sildenafil 50 mg prn : 식도 평활근 이완 (흉통 동반 DES)
 * **Opioid 유발 식도 운동 장애(OIED)**
   * 원인 opioid 감량 또는 중단이 가장 효과적
   * methylnaltrexone (peripherally acting μ-opioid receptor antagonist): 위장관 opioid 영향 차단; 소화기내과 협진
-* **기능성 삼킴곤란** : 저용량 TCA (amitriptyline 10~25 mg hs) 또는 SSRI; 인지행동치료(CBT) 병행
+* **기능성 삼킴곤란** : 저용량 TCA (amitriptyline 10\~25 mg hs) 또는 SSRI; 인지행동치료(CBT) 병행
 
 ### <mark style="color:orange;">감염성 식도염</mark>
 
-* **칸디다 식도염** : fluconazole 100~200 mg qd × 14~21일 <mark style="color:blue;">\[디플루칸 캡슐]</mark>; 면역저하자 200 mg qd; nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분
-* **HSV 식도염** : acyclovir 400 mg × 5회/일 × 7~14일 <mark style="color:blue;">\[조비락스 정]</mark>; 면역저하자 14~21일
-* **CMV 식도염** : ganciclovir 5 mg/kg IV q12h × 21~28일; 감염내과 협진
+* **칸디다 식도염** : fluconazole 100~~200 mg qd × 14~~21일 <mark style="color:blue;">\[디플루칸 캡슐]</mark>; 면역저하자 200 mg qd; nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분
+* **HSV 식도염** : acyclovir 400 mg × 5회/일 × 7~~14일 <mark style="color:blue;">\[조비락스 정]</mark>; 면역저하자 14~~21일
+* **CMV 식도염** : ganciclovir 5 mg/kg IV q12h × 21\~28일; 감염내과 협진
 
 ### <mark style="color:orange;">약제 유발성 식도염 (Pill esophagitis)</mark>
 
 * 원인 약물 즉시 중단 또는 복용 방법 변경 (충분한 물, 직립 자세)
 * sucralfate 1 g qid (식사 30분 전 및 취침 전): 점막 보호 <mark style="color:blue;">\[아루사루민 현탁액]</mark>
-* PPI: omeprazole 20 mg bid × 4~8주; 대부분 수 주 내 자연 호전
+* PPI: omeprazole 20 mg bid × 4\~8주; 대부분 수 주 내 자연 호전
 
 ***
 
@@ -386,14 +386,14 @@ K22.4+Q39.5 식도이완불능증
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. GERD 관련 삼킴곤란 (경~중등도)**
+> **처방례 1. GERD 관련 삼킴곤란 (경\~중등도)**
 >
 > ```
 > 에소메프라졸 마그네슘 40 mg (넥시움 정)   1T   qd   식전 30~60분
 > (야간 증상 지속 시 추가: 파모티딘 20 mg (가스터 정)   1T   취침 전)
 > ```
 >
-> _✽ PPI의 산 억제 효과는 야간에 일시적으로 약해질 수 있음(nocturnal acid breakthrough). 야간 역류 증상이 지속될 경우 취침 전 H₂ 차단제(famotidine 20 mg) 추가를 단기적으로 고려. 8~12주 후 내시경 재평가; 협착 있으면 내시경 확장술 병행. 확장술 후 PPI 장기 유지 필수._
+> _✽ PPI의 산 억제 효과는 야간에 일시적으로 약해질 수 있음(nocturnal acid breakthrough). 야간 역류 증상이 지속될 경우 취침 전 H₂ 차단제(famotidine 20 mg) 추가를 단기적으로 고려. 8\~12주 후 내시경 재평가; 협착 있으면 내시경 확장술 병행. 확장술 후 PPI 장기 유지 필수._
 
 > **처방례 2. 식도 칸디다증**
 >
@@ -402,7 +402,7 @@ K22.4+Q39.5 식도이완불능증
 > (면역저하자: 플루코나졸 50 mg   4T   qd   14~21일)
 > ```
 >
-> _✽ 면역정상 성인에서 fluconazole 100 mg qd × 14일이 표준. 면역저하자에서는 200 mg qd × 14~21일로 증량 및 소화기내과 협진. nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분._
+> _✽ 면역정상 성인에서 fluconazole 100 mg qd × 14일이 표준. 면역저하자에서는 200 mg qd × 14\~21일로 증량 및 소화기내과 협진. nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분._
 
 > **처방례 3. 호산구성 식도염 (EoE) — PPI 1차 후 국소 스테로이드**
 >
@@ -422,7 +422,7 @@ K22.4+Q39.5 식도이완불능증
 >   → 복용 후 30~60분 음식·음료 금지 / 복용 후 구강 세척
 > ```
 >
-> _✽ 8~12주 후 내시경(생검 포함) 재평가. fibrostenotic EoE·다발성 아토피 동반·스테로이드 무반응 시 dupilumab(듀피젠트) 소화기내과 협진 후 고려._
+> _✽ 8\~12주 후 내시경(생검 포함) 재평가. fibrostenotic EoE·다발성 아토피 동반·스테로이드 무반응 시 dupilumab(듀피젠트) 소화기내과 협진 후 고려._
 
 > **처방례 4. 이완불능증 (achalasia) — 시술 대기 중 증상 완화**
 >
@@ -446,13 +446,13 @@ K22.4+Q39.5 식도이완불능증
 > **국소 스테로이드 (플루티폼 흡입기 — EoE용) 복용 안내**
 >
 > 1. 이 약은 **폐에 흡입하는 것이 아니라 삼키는 것**입니다. 스페이서 없이 구강에 분무한 즉시 삼켜 주십시오.
-> 2. 복용 후 **30~60분은 음식이나 음료를 드시지 마십시오.** 바로 드시면 약이 씻겨 내려가 효과가 없어집니다.
+> 2. 복용 후 **30\~60분은 음식이나 음료를 드시지 마십시오.** 바로 드시면 약이 씻겨 내려가 효과가 없어집니다.
 > 3. 구강 칸디다증(아구창) 예방을 위해 **복용 후 물로 입을 헹궈 주십시오.**
 > 4. 식이 제한(우유, 밀, 달걀 등 알레르겐 회피)을 병행하면 더욱 효과적입니다.
 
 > **알약 복용 방법 안내 — 약제 유발성 식도염 예방**
 >
-> 1. 알약은 반드시 **충분한 물(최소 100 mL 이상)**과 함께 복용하십시오.
+> 1. 알약은 반드시 \*\*충분한 물(최소 100 mL 이상)\*\*과 함께 복용하십시오.
 > 2. 복용 후 **최소 30분은 눕지 마십시오.** 취침 직전 복용은 피하세요.
 > 3. **큰 정제** 삼키기 어려울 때는 Pop-bottle technique이 도움됩니다: 물을 머금은 채 알약을 혀에 올린 후 음료를 들이켜며 삼키는 방법.
 > 4. **캡슐**은 살짝 턱을 당기는 자세(chin-down)로 복용하면 식도로 더 잘 내려갑니다.
@@ -461,7 +461,7 @@ K22.4+Q39.5 식도이완불능증
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 약 복용에도 4~8주 이내 증상이 호전되지 않는 경우
+> * 약 복용에도 4\~8주 이내 증상이 호전되지 않는 경우
 > * 삼킴 시 **심한 통증**이 생기거나 갑자기 악화된 경우 — 빠른 내원
 > * **음식이 완전히 걸려 내려가지 않는 경우(food impaction)** — 즉시 응급실 방문
 > * **체중 감소, 혈변, 심한 피로감**이 동반되는 경우 — 즉시 내원
