@@ -19,16 +19,16 @@
 * **먹기공포증(phagophobia)** : 삼킴 자체에 대한 심리적 공포; 기질적 이상 없음
 
 {% hint style="info" %}
-**Clinical Pearl — Globus vs 삼킴곤란 감별**: '목에 뭔가 걸린 느낌(globus sensation)'을 호소하지만 실제 음식물 통과에는 지장이 없고, 오히려 음식을 먹을 때 증상이 완화된다면 기질적 삼킴곤란보다 인두이물감(globus pharyngeus) 또는 GERD에 의한 감각 과민일 가능성이 높다. Globus는 삼킴을 방해하지 않는다는 점이 삼킴곤란과의 핵심 차이다.
+**Clinical Pearl - Globus vs 삼킴곤란 감별**: '목에 뭔가 걸린 느낌(globus sensation)'을 호소하지만 실제 음식물 통과에는 지장이 없고, 오히려 음식을 먹을 때 증상이 완화된다면 기질적 삼킴곤란보다 인두이물감(globus pharyngeus) 또는 GERD에 의한 감각 과민일 가능성이 높다. Globus는 삼킴을 방해하지 않는다는 점이 삼킴곤란과의 핵심 차이다.
 {% endhint %}
 
-### <mark style="color:orange;">노인 연하장애 — Presbyphagia & Sarcopenic Dysphagia</mark>
+### <mark style="color:orange;">노인 연하장애 - Presbyphagia & Sarcopenic Dysphagia</mark>
 
 * **Presbyphagia (노인성 삼킴장애)** : 노화에 따른 근력 감소, 치아 손실, 타액 분비 감소, 감각 둔화로 인한 연하 기능 저하; 삼킴곤란이 없어도 silent aspiration 위험 증가
 * **Sarcopenic dysphagia (근감소성 삼킴장애)** : 전신 근감소증(sarcopenia)이 연하 관련 근육(설골상근, 인두수축근, 식도괄약근)까지 침범하여 발생하는 삼킴곤란; 노인 연하장애 분야에서 최근 가장 주목받는 entity
   * 고령·저영양·반복 입원·장기 와상 환자에서 빈도 높음
   * **특징** : 전신 근감소증 + 원인 불명 연하 기능 저하; 신경 또는 구조적 이상 없음
-  * **치료** : 연하 재활 운동 + 저항성 운동 + **영양 지원** — 류신(Leucine)이 풍부한 양질의 단백질(1.2\~1.5 g/kg/일)과 **비타민 D** (결핍 시 보충) 공급이 근육 합성 촉진에 중요
+  * **치료** : 연하 재활 운동 + 저항성 운동 + **영양 지원** - 류신(Leucine)이 풍부한 양질의 단백질(1.2\~1.5 g/kg/일)과 **비타민 D** (결핍 시 보충) 공급이 근육 합성 촉진에 중요
 * 반복 흡인성 폐렴의 중요한 위험 요인; 노인 외래에서 적극적인 연하 평가 권장
 
 ***
@@ -92,7 +92,7 @@
 * 삼킴 시작 어려움, 삼킴 후 식도 걸림 느낌
 * 삼킴 중 기침, 사레, 구역
 * 음식물의 비강 역류 또는 기도 흡인
-* 목소리 변화(쉰 목소리, 물 먹은 듯한 **wet voice** — 흡인 의심)
+* 목소리 변화(쉰 목소리, 물 먹은 듯한 **wet voice** - 흡인 의심)
 * 흡인성 폐렴(반복성 폐렴 시 silent aspiration 의심)
 * 체중 감소, 탈수, 영양 결핍
 
@@ -100,24 +100,24 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 긴급 처치 필요</mark>
 
-* **급성 완전 음식물 저류(complete food/bolus impaction)** — 침도 못 삼킬 경우: **6시간 이내** 응급 내시경; 부분 저류(부드러운 음식·침은 넘어감): 24시간 이내 내시경
-* **천명(stridor) 동반** — 상기도 폐쇄 또는 후두개염 의심; **기도 확보가 최우선** → 즉시 ER 이송; 기도 평가 전에 내시경 등 다른 처치 시도 금지
-* 급성 발열 + 경부 강직 또는 경부 부종 — 경부 농양, 뇌수막염 의심
+* **급성 완전 음식물 저류(complete food/bolus impaction)** - 침도 못 삼킬 경우: **6시간 이내** 응급 내시경; 부분 저류(부드러운 음식·침은 넘어감): 24시간 이내 내시경
+* **천명(stridor) 동반** - 상기도 폐쇄 또는 후두개염 의심; **기도 확보가 최우선** → 즉시 ER 이송; 기도 평가 전에 내시경 등 다른 처치 시도 금지
+* 급성 발열 + 경부 강직 또는 경부 부종 - 경부 농양, 뇌수막염 의심
 * 신속히 진행하는 삼킴 불능 + 체중 감소 + 전신 쇠약
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* **진행성 고형식 삼킴곤란** (수 주\~수개월 진행) — 식도암 또는 두경부암 의심
-* 쉰 목소리가 삼킴곤란보다 **나중에** 발생 — 신경 손상 또는 악성 종양 의심
-* **경부 이물감 + 삼킴곤란 3주 이상 지속** — 후두암 배제 위해 이비인후과 의뢰
+* **진행성 고형식 삼킴곤란** (수 주\~수개월 진행) - 식도암 또는 두경부암 의심
+* 쉰 목소리가 삼킴곤란보다 **나중에** 발생 - 신경 손상 또는 악성 종양 의심
+* **경부 이물감 + 삼킴곤란 3주 이상 지속** - 후두암 배제 위해 이비인후과 의뢰
 * 설명할 수 없는 체중 감소 (3\~6개월 내 체중의 ≥5%)
 * 국소 신경학적 이상 동반
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 경과 관찰·평가 필요</mark>
 
-* 4\~8주 경험적 치료(PPI 등)에 호전 없는 경우 — 내시경 검사 고려
-* 반복적 흡인성 폐렴 또는 wet voice 지속 — 연하 전문 평가(VFSS/FEES) 의뢰
-* 고령 + 식욕 저하 + 서서히 진행하는 연하 어려움 — sarcopenic dysphagia 또는 신경퇴행성 질환 감별
+* 4\~8주 경험적 치료(PPI 등)에 호전 없는 경우 - 내시경 검사 고려
+* 반복적 흡인성 폐렴 또는 wet voice 지속 - 연하 전문 평가(VFSS/FEES) 의뢰
+* 고령 + 식욕 저하 + 서서히 진행하는 연하 어려움 - sarcopenic dysphagia 또는 신경퇴행성 질환 감별
 
 ***
 
@@ -146,7 +146,7 @@
 
 <table><thead><tr><th width="240">임상 소견</th><th>의미</th></tr></thead><tbody><tr><td>식사 중·후 기침</td><td>흡인 또는 흡인 직전(penetration)</td></tr><tr><td>Wet voice (식후 목소리 변화)</td><td>성대 위 음식물 잔류 → 흡인 의심</td></tr><tr><td>반복적 폐렴 (같은 폐 부위)</td><td>Silent aspiration 강력 의심</td></tr><tr><td>식사 시간 현저히 연장 (30분 이상)</td><td>연하 기능 저하, 피로성 흡인</td></tr><tr><td>식욕 저하 + 원인 불명 체중 감소</td><td>만성 삼킴곤란으로 인한 영양 결핍</td></tr><tr><td>침 흘림, 구강 분비물 조절 곤란</td><td>구인두 기능 저하</td></tr></tbody></table>
 
-### <mark style="color:orange;">선별 검사 도구 — EAT-10</mark>
+### <mark style="color:orange;">선별 검사 도구 - EAT-10</mark>
 
 {% hint style="info" %}
 **EAT-10 (Eating Assessment Tool-10)** : 연하장애 선별을 위한 10문항 자가보고 설문지. 각 문항 0\~4점(0=정상, 4=심각), 총점 **≥3점**이면 연하장애 의심 및 전문 평가 의뢰 기준.
@@ -180,7 +180,7 @@
 ### <mark style="color:orange;">기능성 삼킴곤란 진단 기준</mark>
 
 {% hint style="info" %}
-**기능성 삼킴곤란 (Functional Dysphagia)** — ROME Ⅳ 진단 기준
+**기능성 삼킴곤란 (Functional Dysphagia)** - ROME Ⅳ 진단 기준
 
 발생한 지 최소 6개월 되었고, **최근 3개월간** 다음 조건을 모두 충족하는 증상이 **≥1회/주** 발생:
 
@@ -194,33 +194,33 @@
 
 ### <mark style="color:orange;">증상 및 병력에 따른 감별</mark>
 
-<table><thead><tr><th width="280">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) — until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 먼저</td><td>후두 질환</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 나중에</td><td>신경 손상, 악성 종양</td></tr><tr><td>흉통 동반</td><td>DES, jackhammer esophagus, 기능성</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>Sarcopenic dysphagia, presbyphagia</td></tr></tbody></table>
+<table><thead><tr><th width="280">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) - until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 먼저</td><td>후두 질환</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 나중에</td><td>신경 손상, 악성 종양</td></tr><tr><td>흉통 동반</td><td>DES, jackhammer esophagus, 기능성</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>Sarcopenic dysphagia, presbyphagia</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 flowchart TD
     A([삼킴곤란]) --> B{🚩 Red Flag?}
-    B -->|Yes| C([즉각 의뢰\n응급 EGD · ENT · ER])
+    B -->|Yes| C([즉각 의뢰<br/>응급 EGD · ENT · ER])
 
     B -->|No| D{증상 발생 시점}
 
-    D -->|삼킴 즉시\n사레·비강역류·침흘림| E([구인두성 삼킴곤란])
-    E --> F[VFSS / FEES\n언어재활사 평가]
+    D -->|삼킴 즉시<br/>사레·비강역류·침흘림| E([구인두성 삼킴곤란])
+    E --> F[VFSS / FEES<br/>언어재활사 평가]
 
-    D -->|수 초 후\n흉골 뒤 걸림| G[식도성 삼킴곤란]
+    D -->|수 초 후<br/>흉골 뒤 걸림| G[식도성 삼킴곤란]
     G --> H{어떤 음식?}
 
-    H -->|고형식 only| I[기계적 폐쇄 의심\nEGD 우선]
+    H -->|고형식 only| I[기계적 폐쇄 의심<br/>EGD 우선]
     I --> J{경과·단서}
-    J -->|진행성 + 체중 감소| K([악성 종양\n즉시 EGD])
+    J -->|진행성 + 체중 감소| K([악성 종양<br/>즉시 EGD])
     J -->|만성 GERD력| L([소화성 협착])
-    J -->|젊은 남성 + atopy\n+ food impaction| M([EoE\n내시경 생검 필수])
-    J -->|간헐적·수년간| N([Schatzki ring\n식도웹])
+    J -->|젊은 남성 + atopy<br/>+ food impaction| M([EoE<br/>내시경 생검 필수])
+    J -->|간헐적·수년간| N([Schatzki ring<br/>식도웹])
 
-    H -->|고형식 + 유동식 모두| O[운동 장애 의심\nEGD → HRM]
+    H -->|고형식 + 유동식 모두| O[운동 장애 의심<br/>EGD → HRM]
     O --> P{단서}
-    P -->|역류·야간 기침| Q([이완불능증\nAchalasia])
+    P -->|역류·야간 기침| Q([이완불능증<br/>Achalasia])
     P -->|흉통 동반| R([DES / Jackhammer])
     P -->|결체조직병 + GERD| S([피부경화증])
     P -->|Opioid 장기 복용| T([OIED])
@@ -288,7 +288,7 @@ flowchart TD
 언어재활사(SLP)와의 협력 하에 VFSS/FEES 결과를 바탕으로 개별화된 운동 프로그램을 처방하는 것이 원칙이다.
 {% endhint %}
 
-### <mark style="color:orange;">식이 조절 — IDDSI 기준</mark>
+### <mark style="color:orange;">식이 조절 - IDDSI 기준</mark>
 
 {% hint style="info" %}
 **IDDSI (International Dysphagia Diet Standardisation Initiative)** : 국제표준화 연하장애 식이 단계 (Level 0\~7). 환자의 연하 능력에 맞는 식이 질감을 표준화하여 흡인 위험을 최소화한다.
@@ -322,14 +322,14 @@ flowchart TD
 **EoE 내시경 소견** (정상이어도 생검 필수): feline esophagus (다발성 동심성 고리), linear furrows (세로 홈), white exudates, stricture, mucosal fragility
 {% endhint %}
 
-* **1단계 — 식이 제한 요법** : 6-food elimination diet (우유, 밀, 달걀, 콩, 견과류, 해산물) 또는 원인 알레르겐 회피; 영양사 협력 권장
-* **2단계 — PPI** : EoE의 1차 항염증 치료 옵션; esomeprazole 40 mg bid × 8\~12주 후 내시경 재평가
-* **3단계 — 국소 스테로이드** : PPI 무반응 또는 중등도\~중증
+* **1단계 - 식이 제한 요법** : 6-food elimination diet (우유, 밀, 달걀, 콩, 견과류, 해산물) 또는 원인 알레르겐 회피; 영양사 협력 권장
+* **2단계 - PPI** : EoE의 1차 항염증 치료 옵션; esomeprazole 40 mg bid × 8\~12주 후 내시경 재평가
+* **3단계 - 국소 스테로이드** : PPI 무반응 또는 중등도\~중증
   * fluticasone propionate 흡입기: 220 μg bid → 스페이서 없이 구강 분무 후 삼킴 <mark style="color:blue;">\[플루티폼 흡입기]</mark>
   * budesonide 점성 현탁액: 1 mg bid (소량 물에 녹여 천천히 삼킴) <mark style="color:blue;">\[풀미코트 레스피울]</mark>
     * **실무 팁**: 전용 현탁액 없을 시 budesonide 레스피울 액을 수크랄로스(인공감미료) 또는 꿀 소량에 섞어 걸쭉하게 만든 후 천천히 삼키도록 지도 (점성 높을수록 식도 접촉 시간 증가)
   * 복용 후 30\~60분 음식·음료 금지; 복용 후 구강 세척(칸디다 예방)
-* **4단계 — Dupilumab (IL-4/IL-13 억제 생물학적 제제)** : 다음 경우에 특히 고려 <mark style="color:blue;">\[듀피젠트 주]</mark>
+* **4단계 - Dupilumab (IL-4/IL-13 억제 생물학적 제제)** : 다음 경우에 특히 고려 <mark style="color:blue;">\[듀피젠트 주]</mark>
   * Fibrostenotic EoE 또는 반복적 food impaction
   * 스테로이드 불응 또는 스테로이드 의존
   * 다발성 아토피 질환(천식, 아토피 피부염) 동반
@@ -337,7 +337,7 @@ flowchart TD
 
 ### <mark style="color:orange;">식도 운동 장애</mark>
 
-* **이완불능증(achalasia)** — 약물은 시술 전 단기 증상 완화 목적
+* **이완불능증(achalasia)** - 약물은 시술 전 단기 증상 완화 목적
   * CCB : diltiazem 60~~90 mg 식전 30분 <mark style="color:blue;">\[헤르벤 서방정]</mark>; nifedipine 10~~20 mg sublingual
   * isosorbide dinitrate 5 mg 식전 15분 설하 <mark style="color:blue;">\[이소켓 설하정]</mark>; 저혈압·기립성 저혈압 주의
 * **광범위 식도 연축(DES) / Jackhammer**
@@ -404,13 +404,13 @@ K22.4+Q39.5 식도이완불능증
 >
 > _✽ 면역정상 성인에서 fluconazole 100 mg qd × 14일이 표준. 면역저하자에서는 200 mg qd × 14\~21일로 증량 및 소화기내과 협진. nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분._
 
-> **처방례 3. 호산구성 식도염 (EoE) — PPI 1차 후 국소 스테로이드**
+> **처방례 3. 호산구성 식도염 (EoE) - PPI 1차 후 국소 스테로이드**
 >
 > ```
-> [1단계 — PPI 먼저 시도]
+> [1단계 - PPI 먼저 시도]
 > 에소메프라졸 마그네슘 40 mg (넥시움 정)   1T   bid   식전 30분   8~12주
 >
-> [2단계 — PPI 무반응 시 국소 스테로이드 추가]
+> [2단계 - PPI 무반응 시 국소 스테로이드 추가]
 > 플루티카손 250 μg/회 흡입기 (플루티폼 흡입기)
 >   → 스페이서 없이 구강에 2회 분무 후 삼킴 (흡입 금지)   bid
 >   → 복용 후 30~60분 음식·음료 금지 / 복용 후 구강 세척
@@ -424,7 +424,7 @@ K22.4+Q39.5 식도이완불능증
 >
 > _✽ 8\~12주 후 내시경(생검 포함) 재평가. fibrostenotic EoE·다발성 아토피 동반·스테로이드 무반응 시 dupilumab(듀피젠트) 소화기내과 협진 후 고려._
 
-> **처방례 4. 이완불능증 (achalasia) — 시술 대기 중 증상 완화**
+> **처방례 4. 이완불능증 (achalasia) - 시술 대기 중 증상 완화**
 >
 > ```
 > 딜티아젬 서방정 90 mg (헤르벤 서방정)   1T   식전 30분   bid
@@ -443,14 +443,14 @@ K22.4+Q39.5 식도이완불능증
 > 2. 증상이 호전되더라도 **의사가 지시한 기간까지 복용**하십시오. 임의 중단 시 위산이 급격히 늘어 증상이 재발할 수 있습니다.
 > 3. 8주 이상 장기 복용 시 마그네슘 수치 저하, 비타민 B12 결핍, 드물게 골다공증 위험이 증가할 수 있으므로 정기 혈액 검사를 받으십시오.
 
-> **국소 스테로이드 (플루티폼 흡입기 — EoE용) 복용 안내**
+> **국소 스테로이드 (플루티폼 흡입기 - EoE용) 복용 안내**
 >
 > 1. 이 약은 **폐에 흡입하는 것이 아니라 삼키는 것**입니다. 스페이서 없이 구강에 분무한 즉시 삼켜 주십시오.
 > 2. 복용 후 **30\~60분은 음식이나 음료를 드시지 마십시오.** 바로 드시면 약이 씻겨 내려가 효과가 없어집니다.
 > 3. 구강 칸디다증(아구창) 예방을 위해 **복용 후 물로 입을 헹궈 주십시오.**
 > 4. 식이 제한(우유, 밀, 달걀 등 알레르겐 회피)을 병행하면 더욱 효과적입니다.
 
-> **알약 복용 방법 안내 — 약제 유발성 식도염 예방**
+> **알약 복용 방법 안내 - 약제 유발성 식도염 예방**
 >
 > 1. 알약은 반드시 \*\*충분한 물(최소 100 mL 이상)\*\*과 함께 복용하십시오.
 > 2. 복용 후 **최소 30분은 눕지 마십시오.** 취침 직전 복용은 피하세요.
@@ -462,9 +462,9 @@ K22.4+Q39.5 식도이완불능증
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 약 복용에도 4\~8주 이내 증상이 호전되지 않는 경우
-> * 삼킴 시 **심한 통증**이 생기거나 갑자기 악화된 경우 — 빠른 내원
-> * **음식이 완전히 걸려 내려가지 않는 경우(food impaction)** — 즉시 응급실 방문
-> * **체중 감소, 혈변, 심한 피로감**이 동반되는 경우 — 즉시 내원
+> * 삼킴 시 **심한 통증**이 생기거나 갑자기 악화된 경우 - 빠른 내원
+> * **음식이 완전히 걸려 내려가지 않는 경우(food impaction)** - 즉시 응급실 방문
+> * **체중 감소, 혈변, 심한 피로감**이 동반되는 경우 - 즉시 내원
 
 ***
 
@@ -498,7 +498,7 @@ K22.4+Q39.5 식도이완불능증
 #### <mark style="color:$primary;">연하 재활 운동</mark>
 
 * 의사나 언어재활사가 권장하는 **연하 운동**을 매일 꾸준히 하십시오.
-* 대표적인 운동: **고개 들기 운동(Shaker exercise)** — 누운 자세에서 발끝을 보듯 고개를 들고 1분 유지, 1분 휴식 × 3회. 목 근육을 강화하여 삼킴을 개선합니다.
+* 대표적인 운동: **고개 들기 운동(Shaker exercise)** - 누운 자세에서 발끝을 보듯 고개를 들고 1분 유지, 1분 휴식 × 3회. 목 근육을 강화하여 삼킴을 개선합니다.
 * 연하 운동은 수 주 이상 꾸준히 해야 효과가 나타납니다.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
