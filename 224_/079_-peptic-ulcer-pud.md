@@ -181,37 +181,33 @@ class E,N lightGreen
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* **금연** : 흡연은 위점막 혈류를 감소시키고 prostaglandin 합성 억제 → 치유 지연, 재발 위험 증가
-* **절주** : 알코올은 점막 직접 손상 및 위산 분비 자극; 특히 공복 시 음주 회피
-* **식이** : 규칙적인 식사 시간 유지; 충분히 씹어 먹기; 야식 자제; 자극적 음식·커피·탄산음료는 개인별로 증상을 악화시킬 수 있으므로 불편감을 유발하면 줄이되, 궤양의 직접적 원인은 아님
-* **스트레스 관리** : 급성 심리적 스트레스는 PUD 악화 인자; 이완 요법 권장
-* **NSAID/aspirin 관리** : 가능한 한 최소 기간·최소 용량 사용; 불필요한 병용 회피
-  * NSAID 식사 후 복용은 위 불편감(dyspepsia) 감소에 도움이 되나, 궤양 예방 효과는 없음 - **궤양 예방을 위해서는 PPI/P-CAB 병용이 필수**
+* 금연 : 흡연은 위점막 혈류를 감소시키고 prostaglandin 합성 억제 → 치유 지연, 재발 위험 증가
+* 절주 : 알코올은 점막 직접 손상 및 위산 분비 자극; 특히 공복 시 음주 회피
+* 식이 : 규칙적인 식사 시간 유지; 충분히 씹어 먹기; 야식 자제; 자극적 음식·커피·탄산음료는 개인별로 증상을 악화시킬 수 있으므로 불편감을 유발하면 줄이되, 궤양의 직접적 원인은 아님
+* 스트레스 관리 : 급성 심리적 스트레스는 PUD 악화 인자; 이완 요법 권장
+* NSAID/aspirin 관리 : 가능한 한 최소 기간·최소 용량 사용; 불필요한 병용 회피
+  * NSAID 식사 후 복용은 위 불편감(dyspepsia) 감소에 도움이 되나, 궤양 예방 효과는 없음 - 궤양 예방을 위해서는 PPI/P-CAB 병용이 필수
   * 무증상 NSAID 복용자도 고위험 인자 있는 경우 예방적 약제 병용 필요 (☞ 아래 NSAID 관련 PUD 예방)
-
-***
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">Proton Pump Inhibitor (PPI)</mark>
-
-　☞ [PPI](073_.md#proton-pump-inhibitor-ppi)
+#### <mark style="color:$primary;">Proton Pump Inhibitor (</mark>[PPI](073_.md#proton-pump-inhibitor-ppi)<mark style="color:$primary;">)</mark>
 
 * 표준 용량에서 24시간 위산 분비의 ＞90% 억제; PUD 치료 1차 선택제
-* 용법 : 보통 **아침 식전 30분 복용** (식전 복용 시 효과 극대화; 단 dexlansoprazole은 식사와 무관)
+* 용법 : 보통 아침 식전 30분 복용 (식전 복용 시 효과 극대화; 단 dexlansoprazole은 식사와 무관)
 * 부작용 : 장기 투여 시 Vit B12·iron·Mg·Ca 흡수 저하, 세균성 장염·폐렴·골절 위험 소폭 증가, 중단 시 반동성 산과다분비
 
 <table><thead><tr><th width="180">약물</th><th width="200">용량 (PUD)</th><th>상품명</th></tr></thead><tbody><tr><td>omeprazole</td><td>20~40 ㎎ qd</td><td><mark style="color:blue;">[오엠피]</mark></td></tr><tr><td>esomeprazole</td><td>20~40 ㎎ qd</td><td><mark style="color:blue;">[넥시움]</mark></td></tr><tr><td>lansoprazole</td><td>15~30 ㎎ qd</td><td><mark style="color:blue;">[란스톤]</mark></td></tr><tr><td>dexlansoprazole</td><td>30~60 ㎎ qd (식사 무관)</td><td><mark style="color:blue;">[덱실란트 디알]</mark></td></tr><tr><td>pantoprazole</td><td>40 ㎎ qd</td><td><mark style="color:blue;">[판토록]</mark></td></tr><tr><td>rabeprazole</td><td>10~20 ㎎ qd</td><td><mark style="color:blue;">[파리에트]</mark></td></tr><tr><td>ilaprazole</td><td>10 ㎎ qd</td><td><mark style="color:blue;">[놀텍]</mark></td></tr></tbody></table>
 
 {% hint style="info" %}
-**PPI 치료 실패의 흔한 원인 (임상 pearl)**
+**PPI 치료 실패의 흔한 원인**
 
 * 복약 타이밍 오류 - 식사 후 복용 시 효과 30\~40% 감소
 * 복약 순응도 불량 (증상 호전 시 임의 중단)
 * NSAID/aspirin 지속 복용
 * H. pylori 미제균 또는 재감염
 * Nocturnal acid breakthrough (야간 산 분비 돌파)
-* **CYP2C19 빠른 대사형(extensive/rapid metabolizer)** - 일부 PPI는 CYP2C19에 의해 빠르게 대사되어 산 억제 효과가 낮아질 수 있음; P-CAB 전환 또는 용량 증가 고려
+* CYP2C19 빠른 대사형(extensive/rapid metabolizer) - 일부 PPI는 CYP2C19에 의해 빠르게 대사되어 산 억제 효과가 낮아질 수 있음; P-CAB 전환 또는 용량 증가 고려
 * 기능성 소화불량(FD) overlap - 산 억제만으로 해결 불가한 비산성 증상
 {% endhint %}
 
@@ -221,122 +217,102 @@ class E,N lightGreen
 Clopidogrel 복용 환자에서 PPI 병용 시 CYP2C19 억제로 인한 항혈소판 효과 저하 우려가 있으나, 임상적 유의성에 대해서는 논란이 있음. CYP2C19 억제 영향이 상대적으로 적은 **pantoprazole** <mark style="color:blue;">\[판토록]</mark> 또는 **rabeprazole** <mark style="color:blue;">\[파리에트]</mark> 사용을 우선 고려; P-CAB은 CYP2C19 영향이 더 적어 대안이 될 수 있음.
 {% endhint %}
 
-### <mark style="color:orange;">Potassium-Competitive Acid Blocker (P-CAB)</mark>
+#### <mark style="color:$primary;">Potassium-Competitive Acid Blocker (</mark>[P-CAB](073_.md#potassium-competitive-acid-blocker-p-cab)<mark style="color:$primary;">)</mark>
 
-　☞ [P-CAB](073_.md#potassium-competitive-acid-blocker-p-cab)
-
-* PPI와 달리 산성 환경 활성화가 필요 없이 양성자 펌프를 직접·가역적으로 억제 → **빠른 산 분비 억제 개시**, **식사와 무관** 복용 가능, **야간 산 분비 억제 우수**
-* **CYP2C19 유전다형성의 영향이 상대적으로 적음** → PPI 효과 불량 환자, clopidogrel 병용 환자에서 일관된 산 억제 효과 기대
+* PPI와 달리 산성 환경 활성화가 필요 없이 양성자 펌프를 직접·가역적으로 억제 → 빠른 산 분비 억제 개시, 식사와 무관 복용 가능, 야간 산 분비 억제 우수
+* CYP2C19 유전다형성의 영향이 상대적으로 적음 → PPI 효과 불량 환자, clopidogrel 병용 환자에서 일관된 산 억제 효과 기대
 * 최근 메타분석에서 PUD 치유율은 PPI와 유사; 초기(2주) 치유에서 일부 우세한 데이터; 장기 안전성은 PPI 수준으로 추정
 
-<table><thead><tr><th width="220">약물</th><th width="240">용량 및 적응증</th><th>상품명</th></tr></thead><tbody><tr><td>tegoprazan</td><td>50 ㎎ qd ×4~8주 (위궤양; H. pylori 제균 병용 허가); 식사 무관</td><td><mark style="color:blue;">[케이캡]</mark></td></tr><tr><td>vonoprazan (보노프라잔)</td><td>20 ㎎ qd (위궤양; 미란성 GERD); 10 ㎎ qd (NSAID 투여 시 위·십이지장궤양 재발 방지); 식사 무관</td><td><mark style="color:blue;">[보신티]</mark></td></tr><tr><td>fexuprazan</td><td>40 ㎎ qd (미란성 GERD); 20 ㎎ qd (NSAID 유도성 PUD 예방; 2025년 12월부터 보험 급여 적용); 식사 무관</td><td><mark style="color:blue;">[펙수클루]</mark></td></tr><tr><td>revaprazan (레바프라잔)</td><td>200 ㎎ qd; 위산 분비 억제 능력이 PPI보다 약함 - 급성·만성 위염 보조적 용도</td><td><mark style="color:blue;">[레바넥스]</mark></td></tr></tbody></table>
+<table><thead><tr><th width="199.33331298828125">약물</th><th>용량 및 적응증</th></tr></thead><tbody><tr><td>tegoprazan <mark style="color:blue;">[케이캡]</mark></td><td>50 ㎎ qd ×4~8주 (위궤양; H. pylori 제균 병용 허가); 식사 무관</td></tr><tr><td>vonoprazan <mark style="color:blue;">[보신티]</mark></td><td>20 ㎎ qd (위궤양; 미란성 GERD); 10 ㎎ qd (NSAID 투여 시 위·십이지장궤양 재발 방지); 식사 무관</td></tr><tr><td>fexuprazan <mark style="color:blue;">[펙수클루]</mark></td><td>40 ㎎ qd (미란성 GERD); 20 ㎎ qd (NSAID 유도성 PUD 예방; 2025년 12월부터 보험 급여 적용); 식사 무관</td></tr><tr><td>revaprazan <mark style="color:blue;">[레바넥스]</mark></td><td>200 ㎎ qd; 위산 분비 억제 능력이 PPI보다 약함 - 급성·만성 위염 보조적 용도</td></tr></tbody></table>
 
-{% hint style="info" %}
-tegoprazan은 **위궤양(GU) 치료 및 H. pylori 제균 병용요법** 허가; DU 단독 허가는 없으나 임상적으로 사용됨 - 보험 적용 전 확인 필요.
+* tegoprazan은 위궤양(GU) 치료 및 H. pylori 제균 병용요법 허가; DU 단독 허가는 없으나 임상적으로 사용됨 - 보험 주의
+* vonoprazan은 위궤양, 미란성 GERD, NSAID 관련 궤양 재발 방지 허가; H. pylori 제균 병용 요법도 적용 가능
+* fexuprazan 20 ㎎은 2025년 12월부터 NSAID 유도성 소화성궤양 예방에 보험 급여 적용.
 
-vonoprazan(보노프라잔)은 **위궤양, 미란성 GERD, NSAID 관련 궤양 재발 방지** 허가; H. pylori 제균 병용 요법도 적용 가능.
-
-fexuprazan 20 ㎎은 **2025년 12월부터 NSAID 유도성 소화성궤양 예방에 보험 급여 적용**(고시 제2025-189호).
-
-✽ revaprazan(레바프라잔) <mark style="color:blue;">\[레바넥스]</mark>과 rebamipide(레바미피드) <mark style="color:blue;">\[뮤코스타]</mark>는 기전이 전혀 다른 별개의 약물임 - 명칭 혼동 주의.
-{% endhint %}
-
-### <mark style="color:orange;">H2 Receptor Antagonist (H2RA)</mark>
-
-　☞ [H2RA](073_.md#h2-h2-receptor-antagonist-h2ra)
+#### <mark style="color:$primary;">H2 Receptor Antagonist (</mark>[H2RA](073_.md#h2-h2-receptor-antagonist-h2ra)<mark style="color:$primary;">)</mark>
 
 * 표준 용량에서 24시간 위산 분비의 ＜65% 억제; PPI 대비 효과 발현 및 치유율 낮음
 * 6주(DU)\~8주(GU) 투여로 치유율 85\~90%
-* **적용 시기** : PPI 투여가 곤란하거나 반응 부족한 경우; ZES 평가를 위한 PPI 중단 시 bridge 요법; 증상 경감 보조 목적
+* 적용 시기 : PPI 투여가 곤란하거나 반응 부족한 경우; ZES 평가를 위한 PPI 중단 시 bridge 요법; 증상 경감 보조 목적
 
 <table><thead><tr><th width="180">약물</th><th width="220">용량</th><th>상품명</th></tr></thead><tbody><tr><td>cimetidine</td><td>400 ㎎ bid 또는 800 ㎎ hs</td><td><mark style="color:blue;">[에취투비]</mark></td></tr><tr><td>famotidine</td><td>20 ㎎ bid 또는 40 ㎎ hs</td><td><mark style="color:blue;">[가스터]</mark></td></tr></tbody></table>
 
-### <mark style="color:orange;">제산제 및 점막 보호제</mark>
-
-　☞ [제산제](073_.md#antacid)
+#### [제산제](073_.md#antacid) <mark style="color:$primary;">및 점막 보호제</mark>
 
 * 제산제 단독으로는 치료 효과 부족; 증상 완화 또는 PPI 치료 초기 병용 목적
 * sucralfate : 점막 보호 효과; NSAID 관련 PUD 예방에서 유효성 입증 불충분
-* teprenone, rebamipide(레바미피드) : 점막 방어 인자 강화; 보조적 병용
+* teprenone <mark style="color:blue;">\[셀벡스]</mark>, rebamipide <mark style="color:blue;">\[레바미피드]</mark> : 점막 방어 인자 강화; 보조적 병용
 
 ### <mark style="color:orange;">NSAID 연관 PUD 예방</mark>
 
-* **원칙** : NSAID 사용 자체를 피하고 acetaminophen 등 대체제 사용을 우선 고려
-* **NSAID 필수 투여 시** : 위험도에 따라 예방 전략 선택
+* 원칙 : NSAID 사용 자체를 피하고 acetaminophen 등 대체제 사용을 우선 고려
+* NSAID 필수 투여 시 : 위험도에 따라 예방 전략 선택
 
-<table><thead><tr><th width="150">GI 위험도</th><th width="230">주요 위험 요소</th><th>권장 전략</th></tr></thead><tbody><tr><td>저위험</td><td>위험 인자 없음 (&#x3C;65세, 과거 궤양 없음)</td><td>비선택적 NSAID 단독</td></tr><tr><td>중등 위험</td><td>위험 인자 1~2개</td><td>COX-2 억제제 단독 또는 비선택적 NSAID + PPI/P-CAB</td></tr><tr><td>고위험</td><td>PUD/GI출혈 과거력, 위험 인자 다수</td><td>COX-2 억제제 + PPI/P-CAB</td></tr></tbody></table>
+<table><thead><tr><th width="118.88885498046875">GI 위험도</th><th width="294.4444580078125">주요 위험 요소</th><th>권장 전략</th></tr></thead><tbody><tr><td>저위험</td><td>위험 인자 없음 (&#x3C;65세, 과거 궤양 없음)</td><td>비선택적 NSAID 단독</td></tr><tr><td>중등 위험</td><td>위험 인자 1~2개</td><td>COX-2 억제제 단독 또는 비선택적 NSAID + PPI/P-CAB</td></tr><tr><td>고위험</td><td>PUD/GI출혈 과거력, 위험 인자 다수</td><td>COX-2 억제제 + PPI/P-CAB</td></tr></tbody></table>
 
 {% hint style="danger" %}
-⚠️ **aspirin 병용 시 COX-2 억제제의 GI 보호 이점은 소실됨.** aspirin + NSAID 병용 환자는 고위험으로 간주, PPI를 반드시 병용.
+**aspirin 병용 시 COX-2 억제제의 GI 보호 이점은 소실됨.** aspirin + NSAID 병용 환자는 고위험으로 간주, PPI를 반드시 병용.
 
-⚠️ **DOAC(rivaroxaban, dabigatran 등) 복용 중 NSAID 병용**은 상부위장관 출혈 위험을 유의미하게 증가시킴 - 불가피한 경우 PPI 예방 병용 및 면밀한 모니터링.
+**DOAC(rivaroxaban, dabigatran 등) 복용 중 NSAID 병용**은 상부위장관 출혈 위험을 유의미하게 증가시킴 - 불가피한 경우 PPI 예방 병용 및 면밀한 모니터링.
 {% endhint %}
 
 ```mermaid
 graph TD
-    A([NSAID 투여 필요?]) --> B{대체 가능?}
+A([NSAID 투여 필요?]) --> B[대체 가능?]
     B -- 예 --> C[acetaminophen 등<br/>대체제 사용]
-    B -- 아니오 --> D{GI 고위험?<br/>PUD 과거력 / ≥65세<br/>다중 위험인자}
-    D -- 예 --> E{심혈관 위험?<br/>aspirin/DOAC 병용?}
-    E -- 아니오 --> F[COX-2 억제제 + PPI/P-CAB]
-    E -- 예 --> G[비선택적 NSAID + PPI/P-CAB<br/>✽aspirin 병용 시 COX-2 이점 소실]
-    D -- 아니오 --> H{중등 위험?<br/>위험인자 1~2개}
+    B -- 아니오 --> D[GI 고위험?<br/>PUD 과거력 / ≥65세<br/>다중 위험인자]
+    D -- 예 --> E[심혈관 위험?<br/>aspirin/DOAC 병용?]
+    E -- 아니오 --> F[COX-2 억제제 <br/>+ PPI/P-CAB]
+    E -- 예 --> G[비선택적 NSAID <br/>+ PPI/P-CAB]
+    D -- 아니오 --> H[중등 위험?<br/>위험인자 1~2개]
     H -- 예 --> I[COX-2 단독 또는<br/>NSAID + PPI/P-CAB]
     H -- 아니오 --> J[비선택적 NSAID 단독<br/>최소 용량·기간]
     F --> K[장기 사용 시 정기 모니터링<br/>H. pylori 검사 및 제균]
     G --> K
     I --> K
 
-    style F fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style G fill:#f96,stroke:#e65100,stroke-width:2px
-    style C fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D,E,H yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class C,F,G,I,J sky
 ```
 
 <p align="center"><strong>NSAID 관련 소화성 궤양 예방 전략</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 약제 연관 소화성 궤양의 임상 진료지침 개정안, 2020; ACG NSAID Ulcer Prevention Guidelines</mark></em></p>
-
 **예방 약제**
 
-* **PPI** (선호) : 표준 용량; 또는 H2RA 통상 용량의 2배
-* **vonoprazan 10 ㎎** : NSAID 투여 시 위·십이지장궤양 재발 방지 허가
-* **fexuprazan 20 ㎎** : 2025년 12월부터 NSAID 유도성 PUD 예방 보험 급여 적용
-* **misoprostol** (합성 prostaglandin E1 analog) : 200 ㎍ qid, 음식과 함께 복용 <mark style="color:blue;">\[싸이토텍]</mark>; 설사·복통 부작용으로 순응도 낮음; **임신부 금기** (자궁 수축 유발 위험)
+* PPI (선호) : 표준 용량; 또는 H2RA 통상 용량의 2배
+* vonoprazan 10 ㎎ : NSAID 투여 시 위·십이지장궤양 재발 방지 허가
+* fexuprazan 20 ㎎ : 2025년 12월부터 NSAID 유도성 PUD 예방 보험 급여 적용
+* misoprostol (합성 prostaglandin E1 analog) : 200 ㎍ qid, 음식과 함께 복용 <mark style="color:blue;">\[싸이토텍]</mark>; 설사·복통 부작용으로 순응도 낮음; 임신부 금기 (자궁 수축 유발 위험)
 
-### <mark style="color:orange;">헬리코박터 제균</mark>
+### [<mark style="color:orange;">헬리코박터 제균</mark>](080_-helicobacter-pylori-infection.md)
 
-* **대상** : PUD가 있는 H. pylori 양성 환자 - 제균은 재발 방지의 핵심
-* **제균 기간** : **14일 표준화 권장** (clarithromycin 내성 증가로 7일 요법은 실패율 상승; ACG 2024 가이드라인을 포함한 대부분 가이드라인에서 14일 권장)
-* **1차 요법 선택** :
+* 대상 : PUD가 있는 H. pylori 양성 환자 - 제균은 재발 방지의 핵심
+* 제균 기간 : 14일 표준화 권장 (clarithromycin 내성 증가로 7일 요법은 실패율 상승; ACG 2024 가이드라인을 포함한 대부분 가이드라인에서 14일 권장)
+* 1차 요법 선택 :
   * 내성 검사(PCR/배양) 가능 시 → 감수성에 기반한 맞춤형 치료 우선
-  * 내성 검사 불가 시 → clarithromycin 내성률이 높은 국내 환경을 고려하여 **동시 4제 요법(concomitant)** 또는 **순차 요법(sequential)** 고려; 표준 3제 요법(PPI + amoxicillin + clarithromycin)은 내성률 ＞15% 지역에서 1차 권고에서 제외되는 추세
-* **제균 확인** : 치료 종료 후 최소 4주 후 UBT 또는 대변 항원 검사로 제균 성공 여부 확인
-
-{% hint style="info" %}
-제균 요법의 세부 처방(3제, 4제, 순차, concomitant, 구제 요법)은 ☞ [헬리코박터](080_-helicobacter-pylori-infection.md) 챕터 참조
-{% endhint %}
+  * 내성 검사 불가 시 → clarithromycin 내성률이 높은 국내 환경을 고려하여 동시 4제 요법(concomitant) 또는 순차 요법(sequential) 고려; 표준 3제 요법(PPI + amoxicillin + clarithromycin)은 내성률 ＞15% 지역에서 1차 권고에서 제외되는 추세
+* 제균 확인 : 치료 종료 후 최소 4주 후 UBT 또는 대변 항원 검사로 제균 성공 여부 확인
 
 ### <mark style="color:orange;">불응 및 궤양 재발</mark>
 
 * NSAID/LDA 등 약물 복용 지속 여부 및 금연 여부 재확인
 * 다른 원인 배제 : gastrinoma(ZES), 악성 종양, 크론병
 * H. pylori 재검사 : 양성 시 제균 치료 및 확인; 음성 시 위음성 가능성 고려 (PPI 복용 중 UBT 위음성 증가)
-* 추가 치료 : 표준 용량 실패 시 **두 배 용량으로 6\~8주** 추가 치료; 재발 시 최소 유효 용량으로 유지 투여 고려
-
-{% hint style="info" %}
-**Refractory ulcer 감별 체크리스트**
-
-* NSAID/aspirin 지속 복용 여부 (occult 사용 포함 재확인)
-* 복약 순응도 문제 (PPI 타이밍 오류 포함)
-* H. pylori 위음성 가능성 (재검 또는 검사 방법 변경)
-* 흡연 지속
-* Giant ulcer (＞2 ㎝) 또는 복합 궤양
-* Gastric malignancy (GU는 반드시 조직 검사 확인)
-* Zollinger-Ellison syndrome (gastrinoma)
-* Crohn disease
-* CMV ulcer (면역저하 환자에서 고려)
-* 기타 약제 (bisphosphonate, KCl, chemotherapy)
-{% endhint %}
+* 추가 치료 : 표준 용량 실패 시 두 배 용량으로 6\~8주 추가 치료; 재발 시 최소 유효 용량으로 유지 투여 고려
+* Refractory ulcer 감별 체크 리스트
+  * NSAID/aspirin 지속 복용 여부 (occult 사용 포함 재확인)
+  * 복약 순응도 문제 (PPI 타이밍 오류 포함)
+  * H. pylori 위음성 가능성 (재검 또는 검사 방법 변경)
+  * 흡연 지속
+  * Giant ulcer (＞2 ㎝) 또는 복합 궤양
+  * Gastric malignancy (GU는 반드시 조직 검사 확인)
+  * Zollinger-Ellison syndrome (gastrinoma)
+  * Crohn disease
+  * CMV ulcer (면역저하 환자에서 고려)
+  * 기타 약제 (bisphosphonate, KCl, chemotherapy)
 
 ***
 
