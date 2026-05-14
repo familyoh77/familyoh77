@@ -102,7 +102,7 @@ flowchart TD
     J --> L
     K --> L
     L -- 제균 성공 --> M[제균 완료]
-    L -- 제균 실패 --> N[이전 치료 방법<br/>3제? 4제?]
+    L -- 제균 실패 --> N[이전 치료 방법?]
     N -- Bismuth 4제 --> O[Levofloxacin 3제 14일<br/>또는 Rifabutin 3제 고려]
     N -- 3제·동시·순차 --> K
     O --> P[재검]
