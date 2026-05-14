@@ -1,172 +1,111 @@
 # 변비 Constipation
 
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
-*   희발 배변(≤2회/주), 단단한 대변, 불완전한 배변감, 배변 시 과도한 힘주기, 항문 폐쇄감, 배변 유도를 위하여 수지조작이
-
-    필요한 경우; 대변의 굳기, 배변 빈도와 어려움 등을 종합적으로 평가
+* 정의 : 희발 배변(≤2회/주), 단단한 대변, 불완전한 배변감, 배변 시 과도한 힘주기, 항문 폐쇄감, 배변 유도를 위한 수지조작이 필요한 경우; 대변의 굳기, 배변 빈도와 어려움 등을 종합적으로 평가
 * 일반적인 대변량 : 150\~200 g/d
-* normal transit time : cecum까지 4시간, distal colon까지 12시간\~36시간
-*   유병률 : 성인의 16%, ＞60세 인구의 ⅓;
+* 대장 통과 시간 (normal colonic transit) : cecum까지 4시간, distal colon까지 12\~36시간
+* 유병률 : 성인의 16%, >60세 인구의 ⅓; 고령에서는 동반 질환, 운동 능력 감소, 식사량 감소, 복용 약물 등의 요인에 의해 증가
 
-    고령에서는 동반 질환, 운동 능력 감소, 식사량 감소, 복용 약물 등의 요인에 의해 증가
+## <mark style="color:green;">원인 및 위험 인자</mark>
 
-## 임상 양상
+### <mark style="color:orange;">1차성 (기능성)</mark>
 
-* 단단(Bristol stool form scale 1\~2)
-* 배변 시 힘을 많이 줘야 함
-* 배변에 시간이 많이 소요됨
-* 불완전한 배출감
-* 하복부 불편감/팽만감
+#### <mark style="color:$primary;">Functional constipation (Normal transit constipation)</mark>
 
-<figure><img src="../.gitbook/assets/087-1.png" alt="" width="375"><figcaption></figcaption></figure>
+* 가장 흔한 형태 (전체의 약 ⅔)
+* 대장 통과 시간 및 항문직장 기능은 정상
+* 증상 : 복부 팽만, 복통; 생활 습관 교정과 하제에 비교적 잘 반응
 
-### Red Flags!
-
-* 심한 복통, 구역, 구토
-* 불명열
-* 설명할 수 없는 체중 감소
-* 직장 탈출, 직장 출혈, 혈변, 철결핍빈혈
-* 신생아 때부터 지속되는 변비
-* 치료에 반응하지 않음
-* 근래(특히 ＞50세) 새로이 시작되어 지속 또는 악화
-* 대장암 가족력
-
-## 원인
-
-### 1차성
-
-#### Functional constipation (Normal transit)
-
-* 가장 흔한 형태 (⅔ 해당)
-* transit time 및 sphincter function은 정상
-* 증상 : 복부 팽만, 복통
-
-#### Slow-transit constipation
+#### <mark style="color:$primary;">Slow-transit constipation</mark>
 
 * 기전 : myenteric plexus, cholinergic innervation, noradrenergic 근신경 전달 계통 이상
-* colonic transit time ＞72시간
-* 골반저 기능은 정상
-* 여성, 정신 문제(우울, 불안, 섭식 장애)가 있는 경우에 보다 흔함
+* 대장 통과 시간 >72시간; 골반저 기능은 정상
+* 여성, 정신 질환(우울, 불안, 섭식 장애) 동반 시 더 흔함
 
-#### Pelvic floor(Anorectal) dysfunction
+#### <mark style="color:$primary;">Pelvic floor (Anorectal) dysfunction</mark>
 
-* 기전 : 골반 근육의 조화운동부전, 높은 basal sphincter pressure
-* 증상 : 지속되는 과도한 긴장감, 막힌 느낌, 불완전한 배출감; 부드러운 대변조차 배변하기 힘듦
+* 기전 : 골반 근육의 조화운동부전(dyssynergia), 높은 basal sphincter pressure
+* 증상 : 지속되는 과도한 긴장감, 막힌 느낌, 불완전한 배출감; 부드러운 대변조차 배변 곤란
+* 바이오피드백 치료가 효과적; slow-transit constipation과 병존하는 경우 많음
 
-### 2차성
+### <mark style="color:orange;">2차성</mark>
 
-* 내분비/대사 이상 : 당뇨병, 고칼슘혈증, 저칼륨혈증, 갑상선저하증, 부갑상선항진증, 요독증
-* 근병증 : amyloidosis, scleroderma, 근육긴장퇴행위축
-* 신경 질환 : 자율신경병증, CVD, 파킨슨병, 척추 질환
-* 정신 질환 : 불안증, 우울증, 신체화장애, 치매
-* 구조 이상 : 항문열상, 협착, 치핵, 결장협착증, IBD, 결장의 종괴, 직장탈출증, 직장류
-* 약물 : Al 또는 Ca 함유 제산제, 항콜린제, 항우울제, 항히스타민제, CCB, clonidine, 이뇨제, 철분제, levodopa, 아편마약류, NSAID, 항정신병제, 교감 신경 약제
-* 기타 : IBS, 임신
+<table><thead><tr><th width="175">범주</th><th>원인 질환 및 약물</th></tr></thead><tbody><tr><td>내분비/대사</td><td>당뇨병, 고칼슘혈증, 저칼륨혈증, 갑상선저하증, 부갑상선항진증, 요독증</td></tr><tr><td>근병증</td><td>amyloidosis, scleroderma, 근육긴장퇴행위축</td></tr><tr><td>신경 질환</td><td>자율신경병증, 뇌혈관질환, 파킨슨병, 척수 질환</td></tr><tr><td>정신 질환</td><td>불안증, 우울증, 신체화장애, 치매</td></tr><tr><td>구조 이상</td><td>항문열상, 협착, 치핵, 결장협착증, IBD, 결장 종괴, 직장탈출증, 직장류</td></tr><tr><td>약물</td><td>Al 또는 Ca 함유 제산제, 항콜린제, 항우울제(TCA &gt; SSRI), 항히스타민제, CCB, clonidine, 이뇨제, 철분제, levodopa, opioid, NSAID, 항정신병제, 교감신경 약제</td></tr><tr><td>기타</td><td>IBS-C, 임신</td></tr></tbody></table>
 
-### 위험 인자
+### <mark style="color:orange;">위험 인자</mark>
 
-* 소아, 고령, 여성, 스트레스, 신체 활동 부족, 낮은 사회 경제적 상태, 다제약물 복용
+* 소아, 고령, 여성, 스트레스, 신체 활동 부족, 낮은 사회경제적 상태, 다제약물 복용
 
-## 진단
+## <mark style="color:green;">임상 양상</mark>
 
-### 기능성 변비(functional constipation) Diagnostic criteria&#x20;
+* 희발 배변(주 ≤2회) 또는 단단하고 덩어리진 대변 (Bristol stool scale 1\~2)
+* 배변 시 과도한 힘 필요, 배변에 시간이 많이 소요됨
+* 불완전한 배출감, 항문 폐쇄감
+* 하복부 불편감/팽만감
+* 소아 : 복통, 식욕 부진, 변실금(가성 설사)이 나타날 수 있음
 
-* 발생한 지 최소 6개월 되었고 최근 3개월간 다음 기준을 충족 \[ROME Ⅳ]
+<figure><img src="../.gitbook/assets/087-1.png" alt="Bristol Stool Form Scale" width="375"><figcaption><p>Bristol Stool Form Scale — Types 1~2: 변비형, Types 3~4: 정상형, Types 6~7: 설사형</p></figcaption></figure>
 
-A. 다음 조건 중 ≥2개 해당
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-1. 배변 횟수의 ＞¼에서 힘을 주어야 함
-2. 배변 횟수의 ＞¼에서 덩어리 또는 단단한 대변(Bristol stool scale 1\~2)
-3. 배변 횟수의 ＞¼에서 불완전한 배출감
-4. 배변 횟수의 ＞¼에서 항문직장의 폐쇄 또는 막힌 느낌
-5. 배변 횟수의 ＞¼에서 손가락 배출, 골반저 지지 등 수기 조작이 필요
+<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">— 생명 위협 또는 즉각적 위해 가능성</mark>
+
+* 급성 심한 복통 + 복막 자극 징후 (복근 강직, 반발통) → 복막염·장폐색 의심
+* 급성 장폐색 소견 : 심한 복부 팽창, 구역·구토, 장음 소실
+* 대량 직장 출혈 (hemodynamically unstable)
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 설명할 수 없는 체중 감소 + 배변 습관 변화 → 대장암 의심; 대장내시경 의뢰
+* 혈변, 흑색변, 철결핍빈혈 동반 → 대장암 또는 상하부 위장관 출혈 감별
+* 직장 탈출, 반복적 직장 출혈
+* >50세에서 최근 새롭게 발생한 변비가 지속 또는 악화
+* 신생아 때부터 지속되는 변비 → Hirschsprung disease 의심
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">— 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+
+* 식이·하제 치료에 4\~8주 이상 반응 없음 → slow-transit constipation 또는 pelvic floor dysfunction 평가 고려
+* 대장암 가족력 → 정기 검진 계획 수립
+* 불명열 동반 변비
+
+## <mark style="color:green;">진단</mark>
+
+### <mark style="color:orange;">기능성 변비 진단기준 \[Rome IV]</mark>
+
+{% hint style="info" %}
+발생한 지 최소 6개월 이상 되었고, 최근 3개월 동안 다음 기준 충족
+{% endhint %}
+
+**A.** 다음 항목 중 **≥2개** 해당
+
+1. 배변 횟수의 >¼에서 힘을 주어야 함
+2. 배변 횟수의 >¼에서 덩어리 또는 단단한 대변 (Bristol stool scale 1\~2)
+3. 배변 횟수의 >¼에서 불완전한 배출감
+4. 배변 횟수의 >¼에서 항문직장의 폐쇄 또는 막힌 느낌
+5. 배변 횟수의 >¼에서 손가락 배출, 골반저 지지 등 수기 조작이 필요
 6. 자발적인 배변이 주당 ≤2회
 
-B. 무른 변을 보는 경우는 드묾 (하제 사용 시는 제외)
+**B.** 무른 변은 드묾 (하제 사용 시는 제외)
 
-C. 과민대장증후군에 해당되지 않음
+**C.** 과민대장증후군 기준에 해당하지 않음
 
-### 검사
+### <mark style="color:orange;">검사</mark>
 
-* 보통 유용하지 않음
-* 대상 : 경고 징후 해당, 식이 섬유 및 하제 치료에 반응하지 않음, 기질적 원인 의심
+{% hint style="info" %}
+경고 징후가 없고 하제에 반응하는 경우 추가 검사는 대개 불필요. 다음에 해당 시 시행 : 경고 징후 존재, 식이 섬유 및 하제 치료에 반응하지 않음, 기질적 원인 의심
+{% endhint %}
 
-#### 실험실 검사
+#### <mark style="color:$primary;">실험실 검사</mark>
 
 * CBC, glucose, 전해질, Cr, Ca, TSH
-* 대변 잠혈
+* 대변 잠혈 검사
 
-#### 영상/기타 검사
+#### <mark style="color:$primary;">영상 및 기타 검사</mark>
 
-* 직장 수지 검사 : 2차성 변비(예: 괄약근 긴장, 직장항문 종괴, 직장탈출, 직장류) 감별 및 배변 장애 예측에 유용
-* colonoscopy : 조직 검사나 폴립 제거 등을 동시에 시행할 수 있음
-* barium enema : 저렴하며 대장의 확장과 중요한 병변 및 협착을 진단할 수 있기 때문에 변비만 있는 경우에는 대장내시경보다 유리
-* defecography : 배변 활동 중의 장과 주위 구조물의 형태 및 움직임을 관찰할 수 있음
-* CT : 해부학적 이상, 종양 등 진단
-* colonic transit time 측정 : radiopaque marker 섭취 120시간 후에 X선상 marker가 ＞20% 정체되어 있으면 delayed transit으로 정의
-* anorectal manometry : 직장 및 항문 괄약근의 작동 정도를 측정
+<table><thead><tr><th width="215">검사</th><th>적응 및 특징</th></tr></thead><tbody><tr><td>직장 수지 검사</td><td>2차성 변비(괄약근 긴장, 직장항문 종괴, 직장탈출, 직장류) 감별; 배변 장애 예측에 유용</td></tr><tr><td>대장내시경</td><td>조직 검사·폴립 제거 동시 시행 가능; 경고 징후 있을 때 1차 선택</td></tr><tr><td>Barium enema</td><td>저렴하고 대장 확장·협착 파악에 유리; 변비만 있는 경우 대장내시경 대안</td></tr><tr><td>CT colonography</td><td>해부학적 이상, 종양 등 평가</td></tr><tr><td>Defecography</td><td>배변 활동 중 직장·주위 구조 형태 및 움직임 관찰; 직장류·직장탈출 평가에 유용</td></tr><tr><td>Colonic transit time</td><td>Radiopaque marker 섭취 후 120시간 뒤 X선 촬영; marker >20% 정체 시 delayed transit 진단</td></tr><tr><td>Anorectal manometry</td><td>직장 및 항문 괄약근의 기능 측정; pelvic floor dysfunction 진단에 필수</td></tr></tbody></table>
 
 ***
-
-## Management
-
-{% hint style="info" %}
-치료 목표 : 증상 개선(soft, non-straining), ≥3회/주 배변
-{% endhint %}
-
-**1. 안심시킴** : 경증 변비는 비정상적인 것이 아님을 설명
-
-**2. Fecal impaction**이 있는 경우 관장 또는 삼투성 하제로 이를 먼저 해결
-
-**3. 변비 유발 약물** 복용 확인 및 회&#xD53C;**, 정신 사회적 문제 및 기저 질환 관리**
-
-**4. 식이 개선**
-
-* 충분한 수분 섭취 : 섭취가 부족한 경우 수분 섭취를 늘림
-* 식이 섬유 섭취를 늘림 : 20\~30 g/d; normal transit time 환자에서 유익
-  * 수용성 및 불용성 섬유 모두 대변 덩이 형성에 도움이 됨(반응이 즉각적으로 나타나지는 않음); 설사와 변비가 공존하는 과민대장증후군에서는 수용성 식이 섬유를 주로 선택함
-  * 수용성 섬유 식품 : 가지, 귀리, 콩, 보리 (☞ [영양 지침](../231_/217_-nutritiondiet-guideline.md#undefined-14))
-  * 불용성 섬유 식품 : 전곡류, 짙은 색 채소, 단단한 줄기, 밀기울, 사과/배의 껍질, 감자류
-  * 복부 팽만, 가스가 유발될 수 있으며 보통 수일 후 감소함
-  * 7\~10일에 걸쳐 점차 증량해 나가며 복부 가스 등 불편한 증상이 있는 경우 감량
-* 피할 음식 : 감, 바나나, 많은 양의 우유 (우유는 설사를 유발할 수도 있음)
-* 경련성 변비에 대한 식이 요법&#x20;
-  * 음식의 조리는 부드럽고 담백하게 함&#x20;
-  * 채소는 연한 것을 사용
-  * 식이 섬유 섭취량을 조절(10\~15 g으로 제한)&#x20;
-  * 자극성이 강한 조미료/향신료 사용을 피함
-  * 커피, 콜라, 홍차, 녹차 등 카페인 함유 식품 섭취를 피함
-
-**5. 행동 개선**
-
-* 배변 환경 개선 : 편안한 배변 환경, 적당한 자세 확보 (✽양변기가 높은 경우 무릎 관절 및 고관절이 예각이 되도록 발판을 사용하면 도움이 되는 경우가 있음)
-* 배변 훈련 : 규칙적 배변
-  * 아침 식사 후 (30분 후) 편안한 상태로 15분 정도 배변 시도 또는 변의가 있을 때 배변 시도
-  * 변기에 오래 앉아서 힘주지 않기; 과도한 힘주기는 치핵/항문열상 등의 문제를 일으킬 수 있음
-* 규칙적 운동
-* 바이오피드백 : 골반저 기능 부전에 의한 변비 환자에 적용
-
-**6. 약물 치료** (☞ [소화기계 약제](073_.md#laxative))
-
-* 생활 중재에 반응하지 않는 변비에 대해서 간헐적 또는 장기적 약물 투여를 할 수 있음
-* 하제 : 장기 사용에 따른 의존이나 위해의 명백한 증거 없음
-  * 만성 신부전 환자에서 Mg 제제는 금기
-  * 말기암 등의 환자에서는 부피 형성 하제보다는 연화제와 자극성 하제 동시 사용 권장
-  * ≥3회/주 배변을 하게 되면 tapering 고려
-* 관장 : 다른 치료로 실패한 경우 선택; 직장점막 손상, 전해질 불균형 주의
-  * 고령에서는 전해질 불균형 위험을 고려하여 단순 온수 관장을 권고
-* probiotics : 논란; 일부에서 효과 (☞ p.372)
-* 수술 또는 출산 후, 치핵, 항문 열상 : 배변 연화제(예: docusate)
-
-{% hint style="info" %}
-**실전 1차 선택**
-
-* 만성 변비 1차 : **PEG 3350** (내약성 우수, 안전성 높음) 또는 **MgO** (국내 접근성 높음)
-* 급성·단기 : **bisacodyl** 또는 **glycerin 관장**
-* 만성 변비 + 하제 실패 : **prucalopride** (5-HT4 agonist)
-* OIC (opioid 유발 변비) : **naloxegol** 또는 **methylnaltrexone**
-{% endhint %}
 
 ```mermaid
 graph TD
@@ -180,11 +119,11 @@ graph TD
     G -->|No| H[<u>자극성 하제</u><br/>bisacodyl·senna 단기 추가]
     G -->|Yes| Z
     H --> I[호전?]
-    I -->|No| J[prucalopride 또는<br/>colonic secretagogue 고려]
+    I -->|No| J[prucalopride 또는<br/>분비촉진제·IBAT 억제제 고려]
     I -->|Yes| Z
     J --> K[opioid 유발?]
-    K -->|Yes| L[<u>μ-opioid peripheral antagonist</u><br/>naloxegol·methylnaltrexone]
-    K -->|No| M[<u>전문의 의뢰</u><br/>대장 통과 시간 검사 등]
+    K -->|Yes| L[<u>PAMORA</u><br/>naloxegol·methylnaltrexone]
+    K -->|No| M[<u>전문의 의뢰</u><br/>대장 통과 시간 검사·<br/>항문직장 기능 검사]
 classDef yellow fill:#fff9c4,stroke:#ffe082
 class E,G,I,K yellow
 classDef sky fill:#e3f2ff,stroke:#2196f3
@@ -194,63 +133,310 @@ class D,F,H,J,L sky
     style M fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```
 
-#### 약물 치료 과정 예
+<p align="center"><strong>만성 변비 단계적 치료 알고리듬</strong></p>
 
-1. 경고 징후가 없으면 Normal transit constipation에 대하여 치료
-   1. 충분한 물과 함께 ‘부피 형성 하제’ \[무타실, 아기오] &/or ‘삼투성 하제’ MgO \[마그밀] 투여
-   2. 필요시 ‘삼투성 하제’ 추가 : lactulose \[듀파락-이지], PEG \[마이락스]\(비보험); 보통 1\~3일 내 반응
-   3. 필요시 or 3\~4회/주 ‘자극성 하제’ 추가 : bisacodyl \[둘코락스], Na picosulfate \[피코락]\(비보험)
-   4. 필요시 약물 조정
-2. 호전 되지 않으면 실험실 검사 및 영상 검사 시행 → 검사에서 이상 없으면 slow-transit constipation에 대하여 치료
-   1. 식이 섬유, 삼투성 하제(Mg), 자극성 하제(bisacodyl/Na picosulfate) 동시 투여
-   2. 필요시 prucalopride \[레졸로] (보험기준 ☞ p.1183), lubiprostone \[아미티자]\(비보험) 추가
-   3. 필요시 lactulose/PEG 추가
-3. 호전되지 않으면 : 재평가, 수술 치료 고려
+<p align="center"><em><mark style="color:$info;">Ref. AGA Clinical Practice Guideline on the Medical Management of Constipation (2023); ACG Clinical Guideline: Management of Benign Anorectal Disorders (2021)</mark></em></p>
 
-### 만성 특발성 변비의 약물 치료 권고 [AGA](../2023/)
+***
 
-**식이 섬유**
+## <mark style="background-color:$warning;">Management</mark>
 
-1. 식이 섬유 보충제 제안 : 특히 식이 섬유 섭취가 적은 환자에서 보충
-   * 연구로 효과가 입증된 제제는 psyllium 뿐임
-   * 식이 섬유 보충과 적절한 수분 공급
-   * 부작용 : 복부 가스
+{% hint style="info" %}
+**치료 목표** : 정상 배변 패턴 회복(≥3회/주), 증상 개선(soft stool, 힘주기 불필요)\
+**치료 원칙** : 기저 원인 제거 → 생활 습관 교정 → 단계적 하제 치료 → 전문의 의뢰
+{% endhint %}
 
-**삼투성 하제**
+**1. 안심시킴** : 경증 변비는 비정상이 아님을 설명
 
-2. PEG 권고
-   * 부작용 : 북부 팽창, 무른 변, 복부 가스, 구역
-3. MgO 제안 : 저용량(500\~1,000 ㎎/d)으로 시작, 필요시 증량
-   * 신 장애 환자에서 회피(hypermagnesemia 위험)
-4. Lactulose 제안(OTC 약제에 반응하지 않거나 불내성인 경우)
-   * 부작용 : 배부품, 복부 가스
+**2. Fecal impaction**이 있는 경우 : 관장 또는 삼투성 하제로 먼저 해결
 
-**자극성 하제**
+**3. 변비 유발 약물** 복용 확인 및 회피, **정신사회적 문제** 및 **기저 질환** 관리
 
-5. Bisacodyl or Na picosulphate 권고 : 단기(≤4주) 사용, 저용량 시작, 내성에 따라 증량
-   * 다른 변비 치료제와 함께 간헐적 사용 or rescue therapy
-   * 부작용 : 복통(경련), 설사
-6. Senna 제안 : 단기 사용, 저용량 시작, 반응이 없으면 증량
-   * 장기 사용이 가능하지만 내성과 부작용에 대한 연구가 필요함
-   * 부작용: 고용량에서 복통(경련)
+**4.** 식이 및 행동 개선 (☞ 비-약물 치료 참조)
 
-**분비 촉진제**
+**5.** 단계적 **하제 치료** (☞ 약물 치료 참조)
 
-7. Lubiprostone 제안 : OTC 약제에 반응하지 않는 경우 OTC 약제 대체 또는 추가, 4주 사용
-   * 부작용 : 구역(용량 의존, 음식/물과 함께 복용하면 감소)
-8. Linaclotide 권고 : OTC 약제에 반응하지 않는 경우 OTC 약제 대체 또는 추가, 12주 사용
-   * 부작용 : 설사
-9. Plecanatide 권고 : OTC 약제에 반응하지 않는 경우 OTC 약제 대체 또는 추가, 12주 사용
-   * 부작용 : 설사5-HT4 agonist
-10. Prucalopride 권고 : OTC 약제에 반응하지 않는 경우 OTC 약제 대체 또는 추가, 4\~24주 사용
-    * 부작용 : 두통, 복통, 구역, 설사
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-### **질병코드**&#x20;
+### <mark style="color:orange;">식이 개선</mark>
+
+* **충분한 수분 섭취** : 탈수 상태인 경우 수분 섭취 증가가 효과적; 정상 수화 상태에서 수분 증가만으로 배변 호전 효과는 제한적
+* **식이 섬유 섭취 증가** : 20\~30 g/d 목표; normal transit constipation에서 가장 효과적
+  * 수용성·불용성 섬유 모두 대변 덩이 형성에 도움; IBS-C에서는 수용성 식이 섬유 우선
+  * 수용성 섬유 식품 : 가지, 귀리, 콩, 보리 (☞ [영양 지침](../231_/217_-nutritiondiet-guideline.md#undefined-14))
+  * 불용성 섬유 식품 : 전곡류, 짙은 색 채소, 단단한 줄기, 밀기울, 사과/배의 껍질, 감자류
+  * 복부 팽만·가스 유발 가능 → 7\~10일에 걸쳐 점진적으로 증량; 불편하면 일시 감량
+  * ✽효과가 연구로 입증된 보충제 : psyllium (차전자피) 뿐임 (AGA 2023)
+* **피할 음식** : 감, 바나나, 다량의 우유 (단, 우유는 설사를 유발할 수도 있음)
+* **경련성 변비 식이** : 부드럽고 담백한 조리; 채소는 연한 것; 식이 섬유 10\~15 g/d로 제한; 자극성 강한 조미료·카페인 함유 음료 제한
+
+### <mark style="color:orange;">행동 개선</mark>
+
+* **배변 훈련** : 아침 식사 후 30분 뒤 편안한 상태에서 15분 이내 배변 시도 (gastrocolic reflex 이용); 변의가 생기면 즉시 시도
+  * 변기에 오래 앉아 과도하게 힘주지 않기 → 치핵·항문열상 위험 증가
+* **배변 자세** : 양변기가 높은 경우 발판을 이용해 무릎 관절 및 고관절이 예각이 되도록(squat position 유사) → 항문직장각 개선
+* **규칙적 운동** : 걷기 등 유산소 운동이 장 통과 시간 단축에 도움
+
+### <mark style="color:orange;">바이오피드백</mark>
+
+* 적응 : 골반저 기능 부전(pelvic floor dysfunction/dyssynergia)에 의한 배변 장애형 변비
+* 방법 : 항문 괄약근의 비정상적 수축 패턴을 실시간으로 인지하고 교정하는 훈련
+* 근거 : 배변 장애형 변비에서 하제 단독보다 우월한 효과; AGA 권고 (moderate evidence)
+* ✽slow-transit constipation과 pelvic floor dysfunction이 병존하는 경우 바이오피드백 + 하제 병용
+
+## <mark style="color:green;">약물 치료</mark>
+
+{% hint style="info" %}
+**실전 1차 선택**
+
+* 만성 변비 1차 : **PEG 3350** <mark style="color:blue;">\[마이락스]</mark> (내약성 우수, 안전성 높음) 또는 **MgO** <mark style="color:blue;">\[마그밀]</mark> (국내 접근성 높음)
+* 급성·단기 : **bisacodyl** 좌약 <mark style="color:blue;">\[둘코락스]</mark> 또는 glycerin 관장
+* 만성 변비 + 하제 실패 : **prucalopride** <mark style="color:blue;">\[레졸로]</mark> (5-HT4 agonist)
+* OIC (opioid 유발 변비) : **naloxegol** <mark style="color:blue;">\[모벤틱]</mark> 또는 **methylnaltrexone** <mark style="color:blue;">\[릴리스터]</mark>
+{% endhint %}
+
+* 생활 습관 교정에 반응하지 않는 변비에 간헐적 또는 장기적 약물 투여 가능
+* 하제 장기 사용 : 의존이나 위해의 명백한 증거 없음 (자극성 하제 포함; '불량 결장(cathartic colon)' 이론은 현재 근거 불충분)
+* ≥3회/주 배변 달성 시 tapering 고려
+* 만성 신부전 환자에서 Mg 제제 금기 (hypermagnesemia 위험)
+* 말기암 등의 환자 : 부피 형성 하제보다 연화제 + 자극성 하제 병용 권장
+* probiotics : 일부에서 효과 보고되나 근거 수준 낮음; 표준 치료 권고 없음
+
+### <mark style="color:orange;">부피 형성 하제 (Bulk-forming laxatives)</mark>
+
+* psyllium (차전자피) : 연구로 효과가 입증된 유일한 식이 섬유 보충제 (AGA 2023); 충분한 수분 (200 ㎖ 이상)과 함께 복용 필수 <mark style="color:blue;">\[무타실 산]</mark> 1P qd\~bid 공복, <mark style="color:blue;">\[아기오 과립]</mark> 6 g/P 1\~2P 저녁 식후
+  * 부작용 : 복부 가스, 팽만 (보통 수일 내 감소)
+  * ✽충분한 수분 없이 복용 시 오히려 대변이 굳어지거나 식도 폐색 위험 증가
+
+### <mark style="color:orange;">삼투성 하제 (Osmotic laxatives)</mark>
+
+#### <mark style="color:$primary;">Polyethylene glycol (PEG 3350)</mark>
+
+* 1차 권고 (AGA 2023 strong recommendation); 장내 흡수가 거의 없어 전신 부작용 최소; 임산부·소아에서도 안전하게 사용 가능
+* 부작용 : 복부 팽만, 무른 변, 복부 가스, 구역 (용량 의존)
+* <mark style="color:blue;">\[마이락스]</mark> 10 g/P 1\~2P 아침 식전 (비보험)
+
+#### <mark style="color:$primary;">Magnesium oxide (MgO)</mark>
+
+* 삼투압 기전으로 장내 수분 분비 증가; 국내 접근성 높음 (AGA 2023 conditional recommendation)
+* 저용량 (500\~1,000 ㎎/d)으로 시작, 필요 시 증량
+* 금기 : 신 장애 (hypermagnesemia 위험); 고령 환자에서 주의 (신기능 저하 가능성)
+* <mark style="color:blue;">\[마그밀]</mark> 500 ㎎/T 2T #2
+
+#### <mark style="color:$primary;">Lactulose</mark>
+
+* 비흡수성 이당류; 결장 세균에 의해 발효되어 삼투압 증가
+* OTC 약제에 불내성이거나 반응하지 않는 경우 (AGA 2023 conditional recommendation)
+* 보통 1\~3일 내 반응; 부작용 : 배부름, 복부 가스 (발효 산물)
+* <mark style="color:blue;">\[듀파락-이지 시럽]</mark> 15 ㎖/P 1P 아침 식전
+
+### <mark style="color:orange;">자극성 하제 (Stimulant laxatives)</mark>
+
+#### <mark style="color:$primary;">Bisacodyl</mark>
+
+* 결장 점막에 직접 작용하여 연동 운동 촉진 + 수분 분비 증가
+* AGA 2023 strong recommendation : 단기(≤4주) 우선; 다른 하제와 간헐적 병용 또는 rescue therapy로 사용
+* 부작용 : 복통(경련), 설사
+* <mark style="color:blue;">\[둘코락스 정]</mark> 경구 / <mark style="color:blue;">\[둘코락스 좌약]</mark> 10 ㎎ 직장 투여 (15\~60분 내 빠른 효과)
+
+#### <mark style="color:$primary;">Sodium picosulfate</mark>
+
+* 경구 투여 후 결장에서 활성형으로 전환; bisacodyl과 유사한 기전 및 효과
+* 부작용 : 복통(경련), 설사
+* <mark style="color:blue;">\[피코락]</mark> 7.5 ㎎/T 1T 취침 시 (비보험)
+
+#### <mark style="color:$primary;">Senna (sennosides)</mark>
+
+* 안트라퀴논 유도체; 결장 연동 운동 촉진
+* AGA 2023 conditional recommendation : 단기 사용; 저용량 시작; 필요 시 증량
+* 부작용 : 고용량에서 복통(경련)
+* <mark style="color:blue;">\[포리락스]</mark>, <mark style="color:blue;">\[비코그린]</mark>
+
+### <mark style="color:orange;">연화제 (Stool softener)</mark>
+
+* docusate sodium : 대변에 수분을 침투시켜 연화; 단독 효과 제한적 → 자극성 하제와 병용 시 효과
+  * 적응 : 수술·출산 후, 치핵, 항문열상 등에서 배변 시 힘주기 최소화 목적
+
+### <mark style="color:orange;">분비 촉진제 (Secretagogues)</mark>
+
+#### <mark style="color:$primary;">Lubiprostone</mark>
+
+* 장 상피 ClC-2 chloride channel 활성화 → 장내 수분·전해질 분비 증가 → 연동 운동 촉진
+* AGA 2023 conditional recommendation : OTC 약제에 반응하지 않는 경우; 4주 사용 후 재평가
+* 부작용 : 구역 (용량 의존; 음식과 함께 복용 시 감소)
+* <mark style="color:blue;">\[아미티자]</mark> 24 mcg bid (비보험)
+
+#### <mark style="color:$primary;">Linaclotide · Plecanatide</mark>
+
+* guanylate cyclase-C (GC-C) agonist → cGMP 증가 → 장 분비 및 통과 시간 촉진
+* AGA 2023 strong recommendation : OTC 약제 대체 또는 추가; linaclotide 12주, plecanatide 12주 사용
+* 부작용 : 설사
+* ✽**국내 미허가** (2025년 기준); 해외 임상 참고용
+
+### <mark style="color:orange;">장 운동 촉진제 — 5-HT4 agonist</mark>
+
+* prucalopride : 선택적 5-HT4 수용체 작용제 → 장 연동 운동 정상화
+  * AGA 2023 strong recommendation : OTC 약제 대체 또는 추가; 4\~24주 사용
+  * 용량 : 2 ㎎ qd 아침 식전; 고령(≥65세) 1 ㎎ qd
+  * 보험 기준 : 만성 변비 환자로 다른 하제 치료에 반응하지 않은 경우 (☞ [소화기계 약제](073_.md#laxative))
+  * 부작용 : 두통, 복통, 구역, 설사 (주로 치료 첫 1\~2일 발생 후 감소)
+  * <mark style="color:blue;">\[레졸로]</mark>
+
+### <mark style="color:orange;">IBAT 억제제 (Ileal bile acid transporter inhibitor)</mark>
+
+* elobixibat : 회장 담즙산 운반체(ASBT/IBAT) 억제 → 담즙산의 결장 내 농도 증가 → TGR5·FXR 수용체 활성화 → 결장 분비 및 연동 운동 촉진
+  * 용량 : 10 ㎎ qd 아침 식전 30분
+  * 특징 : 결장 특이적 작용; 전신 흡수 최소; 일본에서 만성 변비 1차 치료로 승인
+  * 부작용 : 복통, 설사, 복부 팽만 (대부분 경증)
+  * ✽국내 허가 여부 및 보험 기준 확인 필요
+  * <mark style="color:blue;">\[칼리마정]</mark> (가용성 확인 필요)
+
+### <mark style="color:orange;">PAMORA — Opioid 유발 변비 (OIC)</mark>
+
+{% hint style="info" %}
+Opioid-induced constipation (OIC)은 μ-opioid receptor peripheral antagonist (PAMORA)를 사용. 중추 진통 효과에 영향 없이 말초 장관 내 opioid 수용체를 차단.
+{% endhint %}
+
+* naloxegol : 말초 μ-opioid 수용체 길항제 (PEGylated naloxol); 25 ㎎ qd 공복 (식전 1시간 또는 식후 2시간)
+  * 부작용 : 복통, 설사, 구역, 오한
+  * 주의 : 강력한 CYP3A4 억제제(clarithromycin, itraconazole 등) 병용 시 12.5 ㎎/d로 감량
+  * <mark style="color:blue;">\[모벤틱]</mark>
+* methylnaltrexone : 피하주사 또는 경구 투여; 특히 말기암 등 중증 OIC
+  * <mark style="color:blue;">\[릴리스터]</mark> (주사제)
+
+### <mark style="color:orange;">관장 (Enema)</mark>
+
+* 다른 치료 실패 시 또는 급성 fecal impaction; 직장점막 손상, 전해질 불균형 주의
+* 고령에서 : 전해질 불균형 위험 고려 → 단순 온수 관장 권고
+* Glycerin 관장 : 직장 자극 + 삼투성 기전; 15\~30분 내 빠른 효과
+
+***
+
+### <mark style="color:red;">질병코드</mark>
 
 K59.0 변비
 
-## 처방례
+***
 
-1. 부피 형성 하제 &/or 삼투성 하제 •무타실 산 1P qd~~bid 공복 OR •아기오 과립 6 g/P 1~~2P 저녁 식후 OR •마그밀 500 ㎎/T 2T #2
-2. 필요시 삼투성 하제 추가 •듀파락-이지 시럽 15 ㎖/P 1P 아침 식전
-3. 필요시 자극성 하제 추가 •둘코락스 좌약 10 ㎎/T 1T 취침 시 OR •피코락 7.5 ㎎/T 1T 취침 시 (비보험)
+## <mark style="color:purple;">처방례</mark>
+
+> **처방례 1.** 경증 변비 — 초기 치료 (부피 형성 + 삼투성 하제)
+>
+> ```
+> 무타실 산  1P  qd 공복   (또는 아기오 과립 6 g/P  1~2P  저녁 식후)
+> 마그밀 500 ㎎/T  2T  #2
+> ※ 무타실·아기오 복용 시 반드시 충분한 수분(200 ㎖ 이상)과 함께 복용
+> ※ 마그밀 : 신 기능 저하 환자 금기; 고령에서는 500 ㎎/d부터 시작
+> ```
+
+> **처방례 2.** 중등도 변비 — PEG 기반 삼투성 하제
+>
+> ```
+> 마이락스 산 10 g/P  1~2P  아침 식전  (비보험)
+> 마그밀 500 ㎎/T  1T  취침 시
+> ※ 마이락스(PEG) : 장내 흡수 없어 임산부·소아에서도 비교적 안전
+> ※ 보통 1~3일 내 반응; 반응 없으면 마이락스 용량 증량 또는 자극성 하제 추가
+> ```
+
+> **처방례 3.** 중등도\~중증 변비 — 삼투성 + 자극성 하제 병용
+>
+> ```
+> 마그밀 500 ㎎/T  2T  #2
+> 듀파락-이지 시럽 15 ㎖/P  1P  아침 식전
+> 둘코락스 좌약 10 ㎎/T  1T  필요 시 취침 전
+> ※ 둘코락스 좌약 : 2~3일 이상 배변 없을 때 사용; 매일 사용하지 않기
+> ※ 복부 경련 심할 시 bisacodyl 용량 감량 또는 중단
+> ```
+
+> **처방례 4.** 만성 변비 — 하제 실패 후 prucalopride 추가
+>
+> ```
+> 마그밀 500 ㎎/T  1T  취침 시
+> 레졸로 2 ㎎/T  1T  qd 아침 식전
+> ※ 고령(≥65세) : 레졸로 1 ㎎/d 시작
+> ※ 두통·구역은 초기 수일간 흔히 발생하고 이후 감소 — 지속 복용 가능
+> ※ 보험 기준 : 만성 변비로 다른 하제 2가지 이상 충분 기간 사용 후 반응 없는 경우 (HIRA 기준 확인 필요)
+> ```
+
+> **처방례 5.** OIC — Opioid 유발 변비
+>
+> ```
+> 모벤틱 25 ㎎/T  1T  qd 공복 (식전 1시간 또는 식후 2시간)
+> 마그밀 500 ㎎/T  1T  취침 시  (필요 시 병용)
+> ※ opioid 중단 시 모벤틱도 함께 중단
+> ※ 강력한 CYP3A4 억제제 병용 시 12.5 ㎎/d로 감량
+> ※ opioid 금단 유사 증상(복통, 설사, 오한) 발생 시 용량 감량 또는 중단
+> ```
+
+***
+
+### <mark style="color:$success;">핵심 복약 지도</mark>
+
+> **부피 형성 하제 (무타실, 아기오) — 반드시 수분과 함께**
+>
+> * 이 약은 **반드시 200 ㎖ 이상의 충분한 물**과 함께 복용해야 합니다. 수분 없이 복용하면 오히려 대변이 더 굳어질 수 있습니다.
+> * 복부 팽만·가스는 복용 초기에 흔히 나타나며 수일 내 감소합니다. 처음에는 소량으로 시작하여 7\~10일에 걸쳐 서서히 증량합니다.
+> * 효과가 즉각적이지 않습니다. 보통 수일\~1주 후부터 효과가 나타납니다.
+
+> **삼투성 하제 — 약제별 주의사항**
+>
+> * **마그밀(MgO)** : 신장이 좋지 않은 분은 복용을 피하십시오. 혈중 마그네슘이 올라 근육 약화, 호흡 곤란이 생길 수 있습니다. 고령에서는 저용량부터 시작합니다.
+> * **마이락스(PEG)** : 장에서 거의 흡수되지 않아 전신 부작용이 매우 적습니다. 필요한 경우 임산부·소아에서도 의사 지도하에 사용할 수 있습니다.
+> * **듀파락(lactulose)** : 장 내 세균에 의해 발효되어 가스와 배부름이 생길 수 있습니다. 식전 공복에 복용하면 불편감이 줄어듭니다.
+
+> **자극성 하제 (둘코락스, 피코락) — 사용 빈도 원칙**
+>
+> * 자극성 하제는 **단기간 또는 필요할 때만(rescue therapy)** 사용하는 것이 원칙입니다.
+> * 복부 경련이 심하게 생기면 용량을 줄이거나 사용을 중단하고 알려주십시오.
+> * ✽장기 사용이 장 신경을 손상시킨다는 '불량 결장(cathartic colon)' 이론은 현재 근거가 불충분하며, 최신 지침에서는 필요 시 장기 사용도 가능하다고 인정하고 있습니다.
+
+> **prucalopride (레졸로) — 특별 안내**
+>
+> * 아침에 일어나자마자 **식전 공복에 복용**하십시오.
+> * 복용 첫 1\~2일 두통, 구역, 설사가 생길 수 있으나 대부분 수일 내 사라집니다. 지속되면 알려주십시오.
+> * 단순 하제와 달리, 이 약은 장의 **연동 운동 자체를 정상화**하는 기전으로 작용합니다.
+> * 심장 질환이 있으신 분은 반드시 사전에 알려주십시오.
+
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 처방약 복용 후 **2\~4주 이상 배변 횟수가 주 3회 미만**으로 지속되는 경우
+> * **혈변, 흑색변** 또는 심한 복통이 새롭게 생기는 경우 — 즉시 내원
+> * **체중 감소** 또는 이유 없는 피로감이 동반되는 경우
+> * **50세 이상**에서 최근 새롭게 배변 습관이 변한 경우
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**변비, 생활 습관으로 대부분 호전됩니다**
+
+변비는 성인의 약 16%에서 나타나는 매우 흔한 증상입니다. 심각한 질환이 없는 경우가 대부분이지만, 올바른 식습관과 배변 습관 교정이 증상 개선의 핵심입니다.
+{% endhint %}
+
+#### <mark style="color:$primary;">왜 변비가 생기나요?</mark>
+
+변비는 대장이 너무 느리게 움직이거나, 배변을 담당하는 골반 근육이 제대로 협조하지 못해서 생깁니다. 갑상선 기능 저하증, 당뇨병 같은 기저 질환이 원인이 되기도 하고, 마약성 진통제(opioid), 철분제, 혈압약, 항우울제 등 복용 중인 약물 때문에 생기기도 합니다. 현재 복용 중인 모든 약을 의사에게 알려주십시오.
+
+#### <mark style="color:$primary;">일상에서 어떻게 관리하나요? 🥤</mark>
+
+* **물 마시기** : 하루 6\~8잔(1.5\~2 L)의 충분한 수분을 섭취하십시오.
+* **식이 섬유** : 채소, 과일, 잡곡, 콩류를 매일 충분히 드십시오. 하루 목표는 20\~30 g입니다.
+* **피할 음식** : 감, 바나나, 흰 쌀밥은 대변을 굳힐 수 있습니다.
+* **운동** : 규칙적인 걷기나 가벼운 유산소 운동이 장 운동을 활성화합니다.
+* **배변 훈련** : **아침 식사 후 30분** 뒤에 편안한 상태로 화장실에 앉아 배변을 시도해 보십시오. 힘을 과도하게 주지 않도록 하십시오.
+* **자세** : 양변기 사용 시 발 밑에 발판을 두어 무릎이 배꼽 방향으로 약간 높아지도록 앉으면 배변이 더 쉬울 수 있습니다. 🚽
+
+#### <mark style="color:$primary;">약은 언제, 어떻게 써야 하나요? 💊</mark>
+
+* 생활 습관 교정만으로 충분하지 않을 때 약물 치료를 시작합니다.
+* **하제를 장기 복용해도 되나요?** 최신 의학 지침에서는 필요한 경우 장기 복용도 안전하다고 인정합니다. 단, 의사와 상의하면서 복용하는 것이 중요합니다.
+* 약을 복용하다가 배변 횟수가 주 3회 이상으로 회복되면 서서히 줄여 나갑니다.
+* 부피 형성 하제(무타실, 아기오)는 반드시 **충분한 물과 함께** 복용하십시오.
+
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요 🚨</mark>
+
+* 대변에 피가 섞이거나 검은 변이 나올 때
+* 심한 복통, 복부 팽창과 함께 구역·구토가 생길 때
+* 체중이 이유 없이 줄거나 식욕이 크게 떨어질 때
+* **50세 이상**에서 갑자기 배변 습관이 바뀐 경우
