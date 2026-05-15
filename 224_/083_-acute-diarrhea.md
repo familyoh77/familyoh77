@@ -127,7 +127,7 @@
 * 수분 공급 (탈수 교정) : 특히 어린이와 쇠약한 노인에서 주의를 요함
 * 식이 조절 : 자극적이거나 질기거나 소화가 잘 안 되는 음식을 피함
 * 약물 치료
-* 예방 (☞ ㅇ)
+* 예방 (☞ [여행자설사](086_-travelers-diarrhea.md#undefined-11))
 
 ## 비-약물 치료
 
@@ -137,9 +137,16 @@
 
 #### 각 음료의 전해질 구성
 
-```
-![image](images/0374890b-17f3-494d-9508-90eecfce9453.JPG)
-```
+| **종류**         | **Na (mEq/L)** | **K (mEq/L)** | **포도당 (mEq/L)** | **농도 (mOsm/L)** |
+| -------------- | -------------- | ------------- | --------------- | --------------- |
+| **WHO ORS**    | 75             | 20            | 75              | 245             |
+| **Pedialyte®** | 45             | 20            | 140             | 250             |
+| **게토레이®**      | 20             | 3             | 255             | 360             |
+| **사판 주스**      | 2              | 30            | 690             | 730             |
+| **탄산음료**       | 3              | 0             | 700             | 750             |
+
+ORS = Oral rehydration solution\
+&#xNAN;_<mark style="color:$info;">Ref. Diagnosis and management of dehydration in children, Table 1. AFP. 2009;1:80(7)</mark>_
 
 #### 자가 음료 제조 (Oral rehydration solution, ORS)
 
@@ -149,9 +156,7 @@
 ### 식이
 
 * 칼로리 및 미량 원소가 풍부한 혼합 음식 공급
-*   탈수 교정 후 (필요시 ORS 공급을 지속하면서) 조기에 정상 식사 복귀; 가능한 한 평소와 같은 식사를 시행하는 것이
-
-    위장관염의 빠른 회복에 유리함
+* 탈수 교정 후 (필요시 ORS 공급을 지속하면서) 조기에 정상 식사 복귀; 가능한 한 평소와 같은 식사를 시행하는 것이 위장관염의 빠른 회복에 유리함
 * 소량의 음식을 자주 섭취시킴 (1일 6회)
 
 #### 식사에 따른 문제
@@ -161,16 +166,14 @@
 
     대장에서 발효되어 삼투압 설사가 유발될 수 있음
 
-    •만성 설사에 의한 장 점막 손상 지속 시 2차성 유당 불내성 지속 → 영양 결핍 → 장 점막 회복 지연 → 설사 지속 악순환
+    * 만성 설사에 의한 장 점막 손상 지속 시 2차성 유당 불내성 지속 → 영양 결핍 → 장 점막 회복 지연 → 설사 지속 악순환
 
 #### 제공 음식
 
 * 흰 쌀밥
 * 섬유질이 약하거나 잘 삶아진 싱거운 반찬 (익힌 채소)
 * 짭짤한 크래커, 토스트 (※ 짠 국물은 피함)
-*   BRAT diet (Banana, Rice, Applesauce, Toast) : 저단백질, 저지방의 저칼로리 식사로서 심한 구토가 없는 설사 환자에서
-
-    단기간 적용; 일반적인 식사보다 효과적인지는 입증되지 않음
+* BRAT diet (Banana, Rice, Applesauce, Toast) : 저단백질, 저지방의 저칼로리 식사로서 심한 구토가 없는 설사 환자에서 단기간 적용; 일반적인 식사보다 효과적인지는 입증되지 않음
 
 #### 피해야 할 음식
 
@@ -186,46 +189,29 @@
 
 ## 약물 치료
 
+　☞ [소화기계 약제](073_.md#antidiarrheal-agent)
+
 ### 장 운동 조절제 (항콜린제, Opiates)
 
-```
-(☞ p.371, p.375)
-```
-
-* 일부 연구에서 설사 기간 단축
-*   loperamide : 처음 4 ㎎, 이후 필요시 2 ㎎. 최대 8 ㎎/d \[로프민]
-
-    •주의 : 이질 및 침습성 병원균 감염에 의한 설사 시 증상을 악화시킬 수 있고 마비성 장폐색을 일으키거나 원인균 배출을
-
-    지연시킬 수 있음
-
-    •혈변, 고열, 전신 독성, 치료에도 악화되는 설사 환자에서는 제한
+* 일부 연구에서 설사 기간 단축&#x20;
+* loperamide : 처음 4 ㎎, 이후 필요시 2 ㎎. 최대 8 ㎎/d \[로프민]
+  * 주의 : 이질 및 침습성 병원균 감염에 의한 설사 시 증상을 악화시킬 수 있고 마비성 장폐색을 일으키거나 원인균 배출을 지연시킬 수 있음
+  * 혈변, 고열, 전신 독성, 치료에도 악화되는 설사 환자에서는 제한
 * racecadotril : 장 운동 감소 및 분비 억제; 급성 장염에 효과 \[하이드라섹] (＜12세 허가)
 * cimetropium : 50 ㎎ tid \[알기론]
 * tiropramide : 100 ㎎ bid\~tid \[티로파]
 
 ### 분비 억제제, 흡착제
 
-```
-(☞ p.376)
-```
-
-*   bismuth : 항염 항균 작용; 여행자 설사의 증상 완화, 바이러스성 장염 관련 구토 완화
-
-    •30 ㎖ 또는 2T (262 ㎎/T) ×1\~4시간마다, 1일 최대 8회. ≥3세 적용
+* bismuth : 항염 항균 작용; 여행자 설사의 증상 완화, 바이러스성 장염 관련 구토 완화&#x20;
+  * 30 ㎖ 또는 2T (262 ㎎/T) ×1\~4시간마다, 1일 최대 8회. ≥3세 적용
 * galactosidase : 유당 불내성에 의한 설사에 적용 \[갈타제]
 * dioctahedral smectite : 병원성 세균, 독소, 바이러스, 가스, 담즙산 등 흡착 및 배설; 3 g tid \[스타빅] (＞24개월 허가)
 
 ### 항생제
 
-```
-(☞ p.431)
-```
-
 * 보통 해당 없음
-*   대부분의 급성 설사는 바이러스 원인으로 항생제가 도움이 되지 않으며, 침습성 세균에 의한 염증성 설사도
-
-    대개 수일 내 자연 치유되며, 항생제 투여가 설사를 조장하는 경우가 많으므로 특별한 경우 외에는 선택하지 않음
+* 대부분의 급성 설사는 바이러스 원인으로 항생제가 도움이 되지 않으며, 침습성 세균에 의한 염증성 설사도 대개 수일 내 자연 치유되며, 항생제 투여가 설사를 조장하는 경우가 많으므로 특별한 경우 외에는 선택하지 않음 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md#undefined-12))
 
 ### 항구토제
 
@@ -237,29 +223,122 @@
 
 #### Probiotics
 
-```
-(☞ p.372)
-```
-
 * 급성 설사에 대한 효과 논란; 항생제 관련 설사에서 일부 유효(10\~15%에서 효과)
-*   유익성과 안전성에 대한 증거가 부족하므로 급성 위장관염, IBS, IBD, C. difficile 감염 등 대부분의 소화기 문제에 대하여
-
-    권고하지 않음 \[AGA]; 면역저하자에서는 금기
+* 유익성과 안전성에 대한 증거가 부족하므로 급성 위장관염, IBS, IBD, C. difficile 감염 등 대부분의 소화기 문제에 대하여 권고하지 않음 \[AGA]; 면역저하자에서는 금기
 * 표준화된 용량 및 치료법은 없음; 균주 간의 효과 차이는 명확히 알려지지 않음
 * Saccharomyces boulardii \[비오플] 500 ㎎/d ×≥7d or 설사가 멈출 때까지
-* Lactobacillus rhamnosus \[람노스] 1~~2×1011~~1×1011 CFU/d ×≥7d or 설사가 멈출 때까지
-
-> (보험기준 : ＜6세의 급성 감염성 설사, ＜6세의 항생제에 의한 설사(항생제 연관 설사), 괴사성 장염)
+* Lactobacillus rhamnosus \[람노스] 1\~2×10¹¹\~1×10¹¹ CFU/d ×≥7d or 설사가 멈출 때까지
+  * [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0032) : ＜6세의 급성 감염성 설사, ＜6세의 항생제에 의한 설사(항생제 연관 설사), 괴사성 장염
 
 #### 아연
 
 * 아연 섭취가 부족한 경우의 급성 설사에서 설사 기간 및 중증도 경감, 재발 방지에 도움
+  * 평소 적절한 영양 섭취를 하는 경우에 아연 부족 상태는 드묾
+* 용법 : 20 ㎎/d ×10\~14d
 
-> ✽평소 적절한 영양 섭취를 하는 경우에 아연 부족 상태는 드묾
 
-*   용법 : 20 ㎎/d ×10\~14d
 
-    ![image](../.gitbook/assets/bb2c0624-b137-4eda-9a61-ad51be47fc06.JPG)
+
+
+```mermaid
+graph TD
+    %% Node Definitions
+    Start["24시간 내 ≥3회의 설사 및 장의 증상<br/>(구역, 구토, 복통, 변의, 절박변, 중등도 이상의 부글거림)"]
+    Fluids["경구 수액 요법(수분 및 소금), 음식<br/>(흰 쌀밥, 익힌 채소, 짭짤한 크래커)"]
+    
+    Watery["물 설사"]
+    Bloody["혈성 설사"]
+    
+    Mild_W["경증"]
+    Mod_Sev_W["중등증~중증"]
+    
+    Loperamide_4["탈수 외 증상이<br/>없는 경우<br/>loperamide<br/>4 mg"]
+    
+    Travel_P["여행 관련<br/>(+)"]
+    Travel_N["여행 관련<br/>(-)"]
+    
+    Abx_Tx["항생제<br/>치료"]
+    
+    Fever_N_W["<37.8°C"]
+    Fever_P_W["발열<br/>(≥37.8°C)"]
+    
+    Loperamide_48["≤48시간의<br/>loperamide<br/>치료 고려"]
+    
+    Time_72N["<72<br/>시간"]
+    Time_72P["≥72<br/>시간"]
+    
+    Micro_Eval["미생물학적<br/>평가"]
+    
+    Fever_N_B["<37.8°C"]
+    Fever_P_B["발열(≥37.8°C)을<br/>동반한 중증"]
+    
+    Micro_Abx["미생물학적<br/>평가 및<br/>원인에 따른<br/>항생제 치료"]
+    
+    Travel_N_B["여행 관련<br/>(-)"]
+    Travel_P_B["여행 관련<br/>(+)"]
+    
+    Empirical_Tx["경험적 치료:<br/>Azithromycin<br/>1 g 1회 또는<br/>500 mg qd ×3d"]
+    Micro_Eval --> Empirical_Tx
+
+    %% Connections
+    Start --> Fluids
+    Fluids --> Watery
+    Fluids --> Bloody
+    
+    Watery --> Mild_W
+    Watery --> Mod_Sev_W
+    
+    Mild_W --> Loperamide_4
+    
+    Mod_Sev_W --> Travel_P
+    Mod_Sev_W --> Travel_N
+    
+    Travel_P --> Abx_Tx
+    
+    Travel_N --> Fever_N_W
+    Travel_N --> Fever_P_W
+    
+    Fever_N_W --> Loperamide_48
+    
+    Fever_P_W --> Time_72N
+    Fever_P_W --> Time_72P
+    
+    Time_72N --> Loperamide_48
+    Time_72P --> Micro_Eval
+    
+    Bloody --> Fever_N_B
+    Bloody --> Fever_P_B
+    
+    Fever_N_B --> Micro_Abx
+    
+    Fever_P_B --> Travel_N_B
+    Fever_P_B --> Travel_P_B
+    
+    Travel_N_B --> Micro_Eval
+    Travel_P_B --> Empirical_Tx
+
+    %% Styling
+    style Start fill:#f3f0ff,stroke:#dcd6f7
+    style Mild_W fill:#fff9c4,stroke:#fff176
+    style Mod_Sev_W fill:#fff9c4,stroke:#fff176
+    style Fever_N_W fill:#fff9c4,stroke:#fff176
+    style Fever_P_W fill:#fff9c4,stroke:#fff176
+    style Fever_N_B fill:#fff9c4,stroke:#fff176
+    style Fever_P_B fill:#fff9c4,stroke:#fff176
+    style Loperamide_4 fill:#e3f2fd,stroke:#bbdefb
+    style Abx_Tx fill:#e3f2fd,stroke:#bbdefb
+    style Loperamide_48 fill:#e3f2fd,stroke:#bbdefb
+    style Micro_Abx fill:#e3f2fd,stroke:#bbdefb
+    style Empirical_Tx fill:#e3f2fd,stroke:#bbdefb
+    style Micro_Eval fill:#e8f5e9,stroke:#c8e6c9
+```
+
+설사가 지속되는(14\~30일) 경우 배양 검사 및 원인에 따른 항생제 치료
+
+\*경증: 활동에 별 지장 없음. 중등증: 활동 할 수 있으나 지장을 받음. 중증: 활동하기 어려움\
+급성 설사의 경험적 치료\
+Ref. ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal\
+Infections in Adults. Am J Gastroenterol 2016;
 
 ## 예방
 
@@ -276,10 +355,20 @@
 * 계란은 노른자가 단단해질 때까지 철저히 익힘
 * 조리된 음식을 2시간 이상 실온에 두지 않음 (실온이 ＞32℃인 경우 1시간)
 
-> **질병코드** K52 기타 비감염성 위장염 및 결장염
+
+
+### **질병코드**&#x20;
+
+K52 기타 비감염성 위장염 및 결장염
 
 K59.1 기능성 설사
 
 E86 용적고갈
 
-![image](../.gitbook/assets/a5c2ab96-0d82-46c5-8bea-0e720cdc5b6d.JPG)
+
+
+처방례\
+티로파 100 ㎎/T 3T #3\
+람노스 250 ㎎/C 3C #3 (보험주의)\
+로프민 2 ㎎/C 1C 필요시\
+스타빅 20 ㎖/P 3P #3 식간 복용
