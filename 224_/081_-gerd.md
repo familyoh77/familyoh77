@@ -175,36 +175,25 @@ PPI 불응 환자에서 "지속적인 산 역류"만을 의미하지 않는다. 
 
 ```mermaid
 graph TD
-    A["가슴쓰림 &/or 역류 증상<br/>삶의 질을 저하시키는 빈도·강도"] --> B["PPI qd 식전 × 8주<br/>(또는 P-CAB qd × 8주)"]
-
-    B --> C["완전 회복<br/>▶ GERD 추정"]
-    B --> D["불완전 회복"]
-
-    C --> E["PPI 중단"]
-    E --> F["증상 재발"]
-
-    F --> G["PPI 2~4주 중단 후<br/>내시경 검사"]
-    D --> G
-
-    G --> H["LA grade B/C/D<br/>또는 Barrett > 3 cm"]
-    G --> I["내시경 정상<br/>또는 LA grade A"]
-
-    H --> J(["GERD 확진"])
-
-    I --> K["역류 모니터링<br/>(PPI 중단 상태)"]
-
+    A(["가슴쓰림 &/or 역류 증상<br/>삶의 질을 저하시키는 <br/>빈도·강도"]) 
+    --> B["PPI qd 식전 × 8주<br/>(또는 P-CAB qd × 8주)"]
+    B --완전 회복--> C["GERD 추정 → PPI 중단"]
+    C --"증상 재발"--> G["PPI 2~4주 중단 후<br/>내시경 검사"]
+    B --"불완전 회복"--> G
+    G --> I["내시경 정상<br/>또는 LA grade A"]--> K["역류 모니터링<br/>(PPI 중단 상태)"]
+    G --> H["LA grade B/C/D<br/>또는 Barrett > 3 cm"]--> J["GERD 확진"]
+    K -- "정상" --> L["다른 원인 고려<br/>(기능성 가슴쓰림 등)"]
     K -- "비정상" --> J
-    K -- "정상" --> L(["다른 원인 고려<br/>(기능성 가슴쓰림 등)"])
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef pink fill:#fde8f0,stroke:#e91e8c
+class J,C pink
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+class K,G,B yellow
+    classDef orange fill:#fdebd0,stroke:#e67e22
+class L orange
+    classDef white fill:#fff
+class H,I white
 
-    style A fill:#f3f0ff,stroke:#dcd6f7
-    style B fill:#e3f2fd,stroke:#bbdefb
-    style C fill:#fff9c4,stroke:#fff176
-    style D fill:#fff9c4,stroke:#fff176
-    style F fill:#fff9c4,stroke:#fff176
-    style G fill:#e8f5e9,stroke:#c8e6c9
-    style K fill:#e8f5e9,stroke:#c8e6c9
-    style J fill:#ffebee,stroke:#ffcdd2
-    style L fill:#ffebee,stroke:#ffcdd2
 ```
 
 <p align="center"><strong>GERD 진단 알고리듬</strong></p>
@@ -217,46 +206,38 @@ graph TD
 
 ```mermaid
 graph TD
-    Start["식도 외 GERD 증상 존재"]
+    Start(["식도 외 GERD 증상 존재"])
     History["자세한 병력 청취<br/>non-GERD 원인 배제 및 조치"]
-
     Typical["전형적 GERD +<br/>식도 외 증상"]
     Atypical["식도 외 증상만 있음<br/>(전형적 증상 없음)"]
-
     PPI_Trial["PPI bid × 8~12주 시도"]
     Symptoms_Check["식도 외 증상 평가"]
-
     Monitoring["PPI 중단 후<br/>역류 모니터링"]
-
-    GERD_Confirm1["GERD 기여 가능성 높음"]
+    GERD_Confirm1["GERD 가능성 높음"]
     GERD_Confirm2["GERD 확인"]
     Impedance["pH-impedance monitoring<br/>고려 (PPI 중단)"]
 
     Start --> History
     History --> Typical
     History --> Atypical
-
     Typical --> PPI_Trial
     PPI_Trial --> Symptoms_Check
-
     Symptoms_Check -- "호전" --> GERD_Confirm1
     Symptoms_Check -- "호전 안 됨" --> Monitoring
-
     Atypical --> Monitoring
-
     Monitoring -- "비정상" --> GERD_Confirm2
     Monitoring -- "정상" --> Impedance
 
-    style Start fill:#f3f0ff,stroke:#dcd6f7
-    style History fill:#f5f5f5,stroke:#eeeeee
-    style Typical fill:#fff9c4,stroke:#fff176
-    style Atypical fill:#fff9c4,stroke:#fff176
-    style PPI_Trial fill:#e3f2fd,stroke:#bbdefb
-    style Symptoms_Check fill:#f3f0ff,stroke:#dcd6f7
-    style Monitoring fill:#e8f5e9,stroke:#c8e6c9
-    style GERD_Confirm1 fill:#ffebee,stroke:#ffcdd2
-    style GERD_Confirm2 fill:#ffebee,stroke:#ffcdd2
-    style Impedance fill:#ffebee,stroke:#ffcdd2
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style History fill:#fff9c4,stroke:#ffe082
+    classDef white fill:#fff,stroke:#333
+class Typical,Atypical white
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+class PPI_Trial,Impedance sky
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+class Symptoms_Check,Monitoring yellow
+    classDef pink fill:#fde8f0
+class GERD_Confirm1,GERD_Confirm2 pink
 ```
 
 <p align="center"><strong>식도 외 GERD 증상 진단 알고리듬</strong></p>
