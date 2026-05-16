@@ -86,7 +86,7 @@
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 2~3일 후에도 호전되지 않는 경증 설사
-* 고령(>65세), 만성 기저질환 (당뇨·심부전·**만성 신질환 CKD** — 탈수 시 AKI 위험 높음)
+* 고령(>65세), 만성 기저질환 (당뇨·심부전·**만성 신질환 CKD** - 탈수 시 AKI 위험 높음)
 * 최근 항생제 사용력 (CDI 위험 모니터링)
 * 설명할 수 없는 체중 감소
 * 만성 설사(≥4주)로 진행 (☞ [만성 설사](084_-chronic-diarrhea.md))
@@ -121,7 +121,7 @@
   * ※ 단, **고령이나 만성 신질환(CKD)·당뇨 등 기저질환자**에서는 경증이라도 기본 혈액 검사 고려
 * **중등증 이상 탈수 또는 >7일 지속** : 혈당, 전해질, BUN/Cr, U/A
 * **경고 징후 (혈변·고열·전신 독성)** : 대변 배양 검사, CBC, CRP 고려
-  * CDI 의심 시 → 대변 *C. difficile* **독소 검사 + NAAT(PCR)**; 단, **성형변은 검사 대상 아님** — 반드시 설사가 있는 환자에서만 시행; NAAT 단독 양성은 임상 증상과 함께 해석
+  * CDI 의심 시 → 대변 *C. difficile* **독소 검사 + NAAT(PCR)**; 단, **성형변은 검사 대상 아님** - 반드시 설사가 있는 환자에서만 시행; NAAT 단독 양성은 임상 증상과 함께 해석
 
 #### <mark style="color:$primary;">다중 분자 진단 검사 (Multiplex stool PCR panel)</mark>
 
@@ -139,7 +139,7 @@
 * **범람 설사 (overflow diarrhea)** : 소량의 물 설사; 분변 매복(fecal impaction) 관련 → **직장 수지 검사(DRE)** 로 진단
 
 {% hint style="info" %}
-**범람 설사 — 노인 환자 주의**: 노인에서 갑자기 발생한 소량의 물 설사는 분변 매복을 원인으로 하는 범람 설사일 수 있음. 진단하지 못하면 불필요한 지사제 투여로 악화 가능. 직장 수지 검사(DRE)로 쉽게 진단 가능하며, 분변 제거 후 즉각 호전됨.
+**범람 설사 - 노인 환자 주의**: 노인에서 갑자기 발생한 소량의 물 설사는 분변 매복을 원인으로 하는 범람 설사일 수 있음. 진단하지 못하면 불필요한 지사제 투여로 악화 가능. 직장 수지 검사(DRE)로 쉽게 진단 가능하며, 분변 제거 후 즉각 호전됨.
 {% endhint %}
 
 #### <mark style="color:$primary;">증상·병력에 따른 원인 감별</mark>
@@ -151,13 +151,13 @@
 <tr><td>집단 급식·뷔페 (수 시간 내 발병)</td><td>독소형 식중독 (S. aureus, B. cereus)</td></tr>
 <tr><td>집단 급식·뷔페 (12~48시간 후 발병)</td><td>Salmonella, 노로바이러스</td></tr>
 <tr><td>혈변 + 고열</td><td>침습성 세균 (Salmonella, Shigella, Campylobacter)</td></tr>
-<tr><td>혈변 + 발열 미약·무발열</td><td>⚠️ <strong>STEC 반드시 고려</strong> — 항생제·loperamide 모두 금기 (HUS 위험)</td></tr>
+<tr><td>혈변 + 발열 미약·무발열</td><td>⚠️ <strong>STEC 반드시 고려</strong> - 항생제·loperamide 모두 금기 (HUS 위험)</td></tr>
 <tr><td>소아 + 혈변</td><td>STEC (O157:H7) → HUS 위험 ⚠️ <strong>항생제·loperamide 모두 금기</strong></td></tr>
-<tr><td>임신부 + 발열 동반 설사</td><td>⚠️ <em>Listeria monocytogenes</em> — 대변 배양 + 혈액 배양 고려; 태아·모체 위험</td></tr>
+<tr><td>임신부 + 발열 동반 설사</td><td>⚠️ <em>Listeria monocytogenes</em> - 대변 배양 + 혈액 배양 고려; 태아·모체 위험</td></tr>
 <tr><td>입원 중 ≥3일 이후 발병</td><td><em>C. difficile</em> 감염</td></tr>
 <tr><td>면역저하 상태</td><td>기회감염 (Cryptosporidium, CMV, Isospora, MAC)</td></tr>
 <tr><td>수양성 설사 + 구토 주증상 (단기 잠복기)</td><td>바이러스성 장염, 독소형 식중독</td></tr>
-<tr><td>반복성·만성 경과 의심</td><td>IBD — 분변 칼프로텍틴(Fecal calprotectin) 검사 보조적 활용 가능</td></tr>
+<tr><td>반복성·만성 경과 의심</td><td>IBD - 분변 칼프로텍틴(Fecal calprotectin) 검사 보조적 활용 가능</td></tr>
 </tbody></table>
 
 {% hint style="info" %}
@@ -231,19 +231,19 @@ graph TD
 ### <mark style="color:orange;">30초 위험 층화 (Quick Triage)</mark>
 
 {% hint style="info" %}
-✅ **가정 치료 가능** — 아래 조건을 모두 충족\
+✅ **가정 치료 가능** - 아래 조건을 모두 충족\
 무혈변 / 발열 없음 / 경구 수분 가능 / 경증 탈수\
 → ORS + 조기 식이 + 증상 완화 치료
 {% endhint %}
 
 {% hint style="warning" %}
-⚡ **당일 재평가 필요** — 아래 중 하나 이상\
+⚡ **당일 재평가 필요** - 아래 중 하나 이상\
 혈변 / 38.5℃ 이상 발열 / 심한 복통 / 고령·임신부·면역저하·CKD / 72시간 이상 지속\
 → 대변 검사 ± 항생제 고려
 {% endhint %}
 
 {% hint style="danger" %}
-🚨 **응급 의뢰** — 아래 중 하나 이상\
+🚨 **응급 의뢰** - 아래 중 하나 이상\
 쇼크 징후 / 의식 저하 / 지속적 구토로 수분 보충 불가 / CDS 5점 이상 (중증 탈수) / 패혈증 의심 / 심한 혈성 설사\
 → IV 수액 / 입원
 {% endhint %}
@@ -364,7 +364,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
 
 {% hint style="danger" %}
 ⚠️ **경험적 항생제를 피해야 하는 경우**\
-✘ **STEC 의심** (혈변 + 발열 미약·무발열) — 항생제가 독소 방출을 촉진하여 HUS 위험 증가\
+✘ **STEC 의심** (혈변 + 발열 미약·무발열) - 항생제가 독소 방출을 촉진하여 HUS 위험 증가\
 ✘ 단순 바이러스성 수양성 설사\
 ✘ 경증 자한성(자기제한적, self-limiting) 설사
 {% endhint %}
@@ -422,7 +422,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
   * 급성 위장관염, IBS, IBD, CDI 등 대부분의 소화기 질환에 적용 비권고; **면역저하자 금기**
 * 다만 일부 균주는 다음에서 제한적 이득 가능성 보고:
   * *S. boulardii*, *L. rhamnosus* GG : **항생제 관련 설사**
-  * *L. rhamnosus* GG : **소아 로타바이러스 설사** — 설사 기간 단축 효과 일부 메타분석에서 확인
+  * *L. rhamnosus* GG : **소아 로타바이러스 설사** - 설사 기간 단축 효과 일부 메타분석에서 확인
 * 표준화된 용량·치료법 없음; 균주 간 효과 차이 불명확
 * **Saccharomyces boulardii** 500 ㎎/일 × ≥7일 또는 설사 소실 시까지 <mark style="color:blue;">[비오플]</mark>
 * **Lactobacillus rhamnosus GG** 1~2 × 10¹⁰~10¹¹ CFU/일 × ≥7일 <mark style="color:blue;">[람노스]</mark>
@@ -487,7 +487,7 @@ E86 용적 고갈
 
 ### <mark style="color:blue;">환자 안내서</mark>
 
-**급성 설사 — 가정 관리 안내**
+**급성 설사 - 가정 관리 안내**
 
 **설사란 무엇인가요?**\
 하루에 3번 이상 묽고 물 같은 변이 나오는 상태입니다 (단단한 바나나 모양 변의 단순 빈도 증가는 설사가 아닙니다). 대부분은 바이러스 감염이 원인이며, 특별한 치료 없이도 3~5일 내에 자연히 회복됩니다.
@@ -500,7 +500,7 @@ E86 용적 고갈
 
 **스포츠 음료·주스·탄산음료는 피하세요.** 당분이 많고 삼투압이 높아 설사를 오히려 악화시킵니다.
 
-**주의하세요 — 아래 증상이 있으면 즉시 병원에 오세요**
+**주의하세요 - 아래 증상이 있으면 즉시 병원에 오세요**
 
 * 변에 피가 섞이거나 고름 같은 변이 나올 때
 * 38.5℃ 이상의 고열
