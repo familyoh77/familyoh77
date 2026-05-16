@@ -30,7 +30,7 @@
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-#### <mark style="color:$primary;">병태생리</mark>
+### <mark style="color:orange;">병태생리</mark>
 
 * 위식도접합부 괄약근 압력 감소 → 하부식도괄약근(LES)의 일시적 부적절한 이완 (transient LES relaxation, TLESR)
 * 타액 분비 저하 → 식도 산 청소율 감소
@@ -41,12 +41,14 @@
 _H. pylori_ 제균 후 위산 분비가 정상화되거나, 감염으로 인한 위축성 위염(위산 분비 감소)이 사라지면서 GERD가 새로 발생하거나 악화될 수 있음; 헬리코박터 유병률 감소가 GERD 증가와 관련된다는 보고 있음
 {% endhint %}
 
-#### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 비만, 과식, 폭식, 음주, 흡연
 * 음식 : 매운 음식, 신 음식, 고지방식, 카페인 (개인차 있음)
 * 임신
 * 약물&#x20;
+
+#### <mark style="color:$primary;">유발 약물</mark>
 
 **LES 압력 감소 또는 위배출 지연 약물**
 
