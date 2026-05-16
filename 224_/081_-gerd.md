@@ -257,7 +257,7 @@ class GERD_Confirm1,GERD_Confirm2 pink
 
 ### <mark style="color:orange;">표현형 기반 접근 (Phenotype-based approach)</mark>
 
-<table><thead><tr><th width="210">Phenotype</th><th width="230">임상 특징</th><th width="150">PPI 반응</th><th>우선 치료 전략</th></tr></thead><tbody><tr><td><strong>Acid-dominant GERD</strong></td><td>전형적 가슴쓰림·산 역류, EE 동반 가능</td><td>양호</td><td>PPI 또는 P-CAB 표준 치료</td></tr><tr><td><strong>Nocturnal GERD</strong></td><td>야간 각성, 새벽 증상, 앙와위 악화</td><td>야간 breakthrough 흔함</td><td>P-CAB 우선 고려; 취침 전 H2RA 단기 추가; 침상 상체 거상</td></tr><tr><td><strong>Regurgitation-dominant</strong></td><td>"올라오는 느낌", volume reflux, 식후·전굴 시 악화</td><td>산 억제만으로 불충분 가능</td><td>alginate 우선 추가; baclofen 고려; 지속 시 항역류 시술 평가</td></tr><tr><td><strong>Meal-related reflux</strong></td><td>식후 즉각 악화, 과식·지방식 후 유발</td><td>중등</td><td>소식·체중 감량; alginate 병용 (acid pocket 차단)</td></tr><tr><td><strong>Hypersensitivity phenotype</strong></td><td>증상 강도 ≫ 검사 이상; 흉통·불안 동반 가능</td><td>제한적</td><td>neuromodulator; reassurance; behavioral approach</td></tr><tr><td><strong>Functional overlap</strong></td><td>복부 팽만, 조기 포만감, IBS/FD overlap</td><td>증상 변동성 큼</td><td>FD/IBS 동반 평가 및 통합 치료</td></tr></tbody></table>
+<table><thead><tr><th width="148.84210205078125">Phenotype</th><th>임상 특징</th><th width="130.4210205078125">PPI 반응</th><th>우선 치료 전략</th></tr></thead><tbody><tr><td><strong>Acid-dominant GERD</strong></td><td>전형적 가슴쓰림·산 역류, EE 동반 가능</td><td>양호</td><td>PPI 또는 P-CAB 표준 치료</td></tr><tr><td><strong>Nocturnal GERD</strong></td><td>야간 각성, 새벽 증상, 앙와위 악화</td><td>야간 breakthrough 흔함</td><td>P-CAB 우선 고려; 취침 전 H2RA 단기 추가; 침상 상체 거상</td></tr><tr><td><strong>Regurgitation-dominant</strong></td><td>"올라오는 느낌", volume reflux, 식후·전굴 시 악화</td><td>산 억제만으로 불충분 가능</td><td>alginate 우선 추가; baclofen 고려; 지속 시 항역류 시술 평가</td></tr><tr><td><strong>Meal-related reflux</strong></td><td>식후 즉각 악화, 과식·지방식 후 유발</td><td>중등</td><td>소식·체중 감량; alginate 병용 (acid pocket 차단)</td></tr><tr><td><strong>Hypersensitivity phenotype</strong></td><td>증상 강도 ≫ 검사 이상; 흉통·불안 동반 가능</td><td>제한적</td><td>neuromodulator; reassurance; behavioral approach</td></tr><tr><td><strong>Functional overlap</strong></td><td>복부 팽만, 조기 포만감, IBS/FD overlap</td><td>증상 변동성 큼</td><td>FD/IBS 동반 평가 및 통합 치료</td></tr></tbody></table>
 
 {% hint style="info" %}
 동일한 "GERD"라도 phenotype에 따라 치료 반응과 최적 전략이 달라진다. 특히 PPI 불응 환자에서는 "어느 표현형인가?"를 먼저 재평가하는 것이 무조건적인 PPI 증량보다 중요하다.
@@ -267,33 +267,28 @@ class GERD_Confirm1,GERD_Confirm2 pink
 
 ```mermaid
 graph TD
-    A["증상 패턴 평가"] --> B["속쓰림·산 역류 중심"]
-    A --> C["역류감·올라오는 느낌 중심"]
-    A --> D["야간 증상·새벽 악화"]
-    A --> E["복부 팽만·FD 증상 overlap"]
-    A --> F["PPI 불응 + 흉통·불안"]
-
+    A(["증상 패턴 평가"]) --> B["속쓰림·산 <br/>역류 중심"]
+    A --> C["역류감·올라오는<br/> 느낌 중심"]
+    A --> D["야간 증상·<br/>새벽 악화"]
+    A --> E["복부 팽만·FD <br/>증상 overlap"]
+    A --> F["PPI 불응 + <br/>흉통·불안"]
     B --> G["PPI 또는 P-CAB<br/>표준 치료"]
-
-    C --> H["Alginate 우선 추가"]
+    C --> H["Alginate <br/>우선 추가"]
     H --> I["지속 시 baclofen 고려<br/>또는 항역류 시술 평가"]
-
-    D --> J["P-CAB 우선 고려"]
-    D --> K["취침 전 H2RA 단기 추가"]
-
-    E --> L["FD overlap 평가"]
+    D --> J["P-CAB <br/>우선 고려"]
+    D --> K["취침 전 H2RA <br/>단기 추가"]
+    E --> L["FD overlap <br/>평가"]
     L --> M["FD/IBS 통합 접근<br/>위장관 운동 조절"]
+    F --> N["Reflux <br/>hypersensitivity /<br/>Functional <br/>heartburn 평가"]
+    N --> O["Neuromodulator <br/>고려<br/>Behavioral approach"]
 
-    F --> N["Reflux hypersensitivity /<br/>Functional heartburn 평가"]
-    N --> O["Neuromodulator 고려<br/>Behavioral approach"]
-
-    style A fill:#f3f0ff,stroke:#dcd6f7
-    style G fill:#e3f2fd,stroke:#bbdefb
-    style H fill:#e8f5e9,stroke:#c8e6c9
-    style I fill:#e8f5e9,stroke:#c8e6c9
-    style J fill:#fff3e0,stroke:#ffe0b2
-    style K fill:#fff3e0,stroke:#ffe0b2
-    style O fill:#ffebee,stroke:#ffcdd2
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class G,H,J,K sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class M,I,O blue
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class L,N yellow
 ```
 
 <p align="center"><strong>증상 패턴별 처방 방향 알고리듬</strong></p>
