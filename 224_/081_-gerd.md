@@ -269,28 +269,28 @@ class GERD_Confirm1,GERD_Confirm2 pink
 
 ```mermaid
 graph TD
-    A(["증상 패턴 평가"]) --> B["속쓰림·산 <br/>역류 중심"]
-    A --> C["역류감·올라오는<br/> 느낌 중심"]
-    A --> D["야간 증상·<br/>새벽 악화"]
-    A --> E["복부 팽만·FD <br/>증상 overlap"]
-    A --> F["PPI 불응 + <br/>흉통·불안"]
+
+    B["속쓰림·산 <br/>역류 중심"]
+    C["역류감·올라오는<br/> 느낌 중심"]
+    D["야간 증상·<br/>새벽 악화"]
+    E["복부 팽만·FD <br/>증상 overlap"]
+    F["PPI 불응 + <br/>흉통·불안"]
     B --> G["PPI 또는 P-CAB<br/>표준 치료"]
     C --> H["Alginate <br/>우선 추가"]
     H --> I["지속 시 baclofen 고려<br/>또는 항역류 시술 평가"]
-    D --> J["P-CAB <br/>우선 고려"]
-    D --> K["취침 전 H2RA <br/>단기 추가"]
+    D --> J["P-CAB <br/>우선 고려 /<br/>취침 전 H2RA <br/>단기 추가"]
     E --> L["FD overlap <br/>평가"]
     L --> M["FD/IBS 통합 접근<br/>위장관 운동 조절"]
     F --> N["Reflux <br/>hypersensitivity /<br/>Functional <br/>heartburn 평가"]
     N --> O["Neuromodulator <br/>고려<br/>Behavioral approach"]
 
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class G,H,J,K sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
 class M,I,O blue
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class L,N yellow
+classDef white fill:#fff,stroke:#333
+class L,N white
 ```
 
 <p align="center"><strong>증상 패턴별 처방 방향 알고리듬</strong></p>
