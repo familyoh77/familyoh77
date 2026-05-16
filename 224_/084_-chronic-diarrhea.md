@@ -61,11 +61,7 @@
 
 #### <mark style="color:$primary;">감염성 설사 (Infection)</mark>
 
-<<<<<<< HEAD
-* 세균 : *Clostridioides difficile*, *Mycobacterium avium intracellulare* (**면역저하자에서 주로 발생** - HIV, 장기이식, 고용량 스테로이드 복용자)
-=======
-* 세균 : _Clostridioides difficile_, _Mycobacterium avium intracellulare_ (**면역저하자에서 주로 발생** — HIV, 장기이식, 고용량 스테로이드 복용자)
->>>>>>> 90d160b03710b694a79060d594b31e23c63ec2c4
+* 세균 : _Clostridioides difficile_, _Mycobacterium avium intracellulare_ (**면역저하자에서 주로 발생** - HIV, 장기이식, 고용량 스테로이드 복용자)&#x20;
 * 바이러스 : cytomegalovirus (**면역저하자에서 주로 발생**)
 * 기생충 : _Giardia lamblia_, _Cryptosporidium_, _Isospora_, _Strongyloides_
 
@@ -106,7 +102,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 중증 탈수 또는 전해질 불균형으로 인한 활력징후 불안정 (저혈압, 빈맥)
 * 대량 혈변 또는 지속 혈변으로 순환 부전 징후
@@ -160,11 +156,7 @@
 * WBC, 배양, 기생충 + 잠혈 → 감염·염증
 * 전해질(Na, K)·삼투압 → osmotic gap 계산 : **290 − 2×(Na + K)** mOsm/kg stool water
 
-<<<<<<< HEAD
-<table><thead><tr><th width="200">Osmotic gap (mOsm/kg)</th><th>임상 해석</th></tr></thead><tbody><tr><td>&lt; 50</td><td>분비성 설사 (secretory) - 식사와 무관, 금식해도 지속</td></tr><tr><td>50 – 100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>&gt; 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
-=======
-<table><thead><tr><th width="200">Osmotic gap (mOsm/kg)</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50</td><td>분비성 설사 (secretory) — 식사와 무관, 금식해도 지속</td></tr><tr><td>50 – 100</td><td>혼합형/indeterminate — 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>> 100</td><td>삼투압성 설사 (osmotic) — 금식 시 호전 기대</td></tr></tbody></table>
->>>>>>> 90d160b03710b694a79060d594b31e23c63ec2c4
+<table><thead><tr><th width="200">Osmotic gap (mOsm/kg)</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50</td><td>분비성 설사 (secretory) - 식사와 무관, 금식해도 지속</td></tr><tr><td>50 – 100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>> 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
 
 * **Fecal calprotectin** : 장 점막 염증 비침습 지표; IBD vs. 기능성 설사 감별에 실용적
   * ✽**국내 급여 기준**: IBD 의심 환자에서 시행 시 연 1\~2회 인정 (선별 급여); 단순 IBS 상병으로 청구 시 삭감 주의
@@ -197,8 +189,6 @@
   * ✽국내 시행 어려움 → empiric cholestyramine trial이 현실적 대안
 * 소장 흡인액 배양 : SIBO 확진 (실제 시행 어려움)
 * 조직검사 : 셀리악병(십이지장), Whipple disease(소장) 의심 시
-
-***
 
 ***
 
@@ -313,7 +303,7 @@ graph TD
 
 {% hint style="danger" %}
 **⚠️ Opiates 주의사항**\
-&#xNAN;_&#x43;. difficile_ 감염이나 염증성 설사에서는 장 운동 억제제 사용 금지 (독성 거대결장 유발 위험)
+\&#xNAN;_C. difficile_ 감염이나 염증성 설사에서는 장 운동 억제제 사용 금지 (독성 거대결장 유발 위험)
 {% endhint %}
 
 ### <mark style="color:orange;">IBS-D 표적 치료제</mark>
@@ -392,7 +382,7 @@ Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSR
 
 ### <mark style="color:orange;">Probiotics</mark>
 
-* 효과는 \*\*균주 특이적(strain-specific)\*\*이며 전체 효과 크기는 크지 않음 (guideline 간 권고 불일치)
+* 효과는 균주 특이적(strain-specific)이며 전체 효과 크기는 크지 않음 (guideline 간 권고 불일치)
 * IBS-D, 항생제 관련 설사 예방에 일부 근거
   * _**Saccharomyces boulardii**_ : 항생제 관련 설사 예방에 가장 근거가 강함 (메타분석)
   * _Lactobacillus rhamnosus_ GG : IBS-D 및 항생제 관련 설사에 근거 있음
