@@ -50,7 +50,7 @@
   * ✽**Olmesartan-associated enteropathy** : olmesartan 복용 수개월\~수년 후 셀리악병과 유사한 중증 장병증 발생 가능; 심한 만성 설사·체중 감소·흡수 장애 → olmesartan 중단 후 호전
 * **GLP-1 수용체 작용제 / GIP·GLP-1 이중 작용제** (semaglutide, liraglutide, **tirzepatide** 등) : 장 운동 변화 및 장 내 분비 변화로 오심·복부 팽만·설사 유발 가능
   * ✽설사보다 **변비가 더 흔함**; 설사는 일부 환자에서, 특히 초기 용량 증량 시 발생
-* 항생제 관련 장염 (*C. difficile* 포함; 장내 dysbiosis로 인한 비특이적 설사 포함)
+* 항생제 관련 장염 (_C. difficile_ 포함; 장내 dysbiosis로 인한 비특이적 설사 포함)
 * 허브 : St. John's wort, echinacea, 마늘, 인삼, saw palmetto, cranberry, 알로에
 
 #### <mark style="color:$primary;">염증성·비감염성 설사 (Inflammatory)</mark>
@@ -61,9 +61,9 @@
 
 #### <mark style="color:$primary;">감염성 설사 (Infection)</mark>
 
-* 세균 : *Clostridioides difficile*, *Mycobacterium avium intracellulare* (**면역저하자에서 주로 발생** — HIV, 장기이식, 고용량 스테로이드 복용자)
+* 세균 : _Clostridioides difficile_, _Mycobacterium avium intracellulare_ (**면역저하자에서 주로 발생** — HIV, 장기이식, 고용량 스테로이드 복용자)
 * 바이러스 : cytomegalovirus (**면역저하자에서 주로 발생**)
-* 기생충 : *Giardia lamblia*, *Cryptosporidium*, *Isospora*, *Strongyloides*
+* 기생충 : _Giardia lamblia_, _Cryptosporidium_, _Isospora_, _Strongyloides_
 
 #### <mark style="color:$primary;">만성 전신 질환</mark>
 
@@ -107,7 +107,7 @@
 * 중증 탈수 또는 전해질 불균형으로 인한 활력징후 불안정 (저혈압, 빈맥)
 * 대량 혈변 또는 지속 혈변으로 순환 부전 징후
 * Toxic megacolon 의심 (복부 팽창 + 발열 + 반발 압통 + 전신 독성 징후)
-* *Clostridioides difficile* 감염 의심 + 중증 전신 증상
+* _Clostridioides difficile_ 감염 의심 + 중증 전신 증상
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -144,6 +144,7 @@
 {% endhint %}
 
 **혈액 검사**
+
 * CBC, ESR, CRP → 염증 스크리닝
 * 전해질(Mg, P, Ca, Na), LFT, 알부민, INR → 영양 상태·흡수 기능
 * TSH → 갑상선 기능 이상
@@ -151,22 +152,24 @@
 * 빈혈 검사 (Fe/TIBC, B12, folate, Vit D) → 흡수 장애 동반 여부
 
 **대변 검사**
+
 * WBC, 배양, 기생충 + 잠혈 → 감염·염증
 * 전해질(Na, K)·삼투압 → osmotic gap 계산 : **290 − 2×(Na + K)** mOsm/kg stool water
 
-<table><thead><tr><th width="200">Osmotic gap (mOsm/kg)</th><th>임상 해석</th></tr></thead><tbody><tr><td>&lt; 50</td><td>분비성 설사 (secretory) — 식사와 무관, 금식해도 지속</td></tr><tr><td>50 – 100</td><td>혼합형/indeterminate — 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>&gt; 100</td><td>삼투압성 설사 (osmotic) — 금식 시 호전 기대</td></tr></tbody></table>
+<table><thead><tr><th width="200">Osmotic gap (mOsm/kg)</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50</td><td>분비성 설사 (secretory) — 식사와 무관, 금식해도 지속</td></tr><tr><td>50 – 100</td><td>혼합형/indeterminate — 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>> 100</td><td>삼투압성 설사 (osmotic) — 금식 시 호전 기대</td></tr></tbody></table>
 
 * **Fecal calprotectin** : 장 점막 염증 비침습 지표; IBD vs. 기능성 설사 감별에 실용적
   * ✽**국내 급여 기준**: IBD 의심 환자에서 시행 시 연 1\~2회 인정 (선별 급여); 단순 IBS 상병으로 청구 시 삭감 주의
 
-<table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>&lt; 50 ㎍/g</td><td>장 염증 가능성 낮음 → 기능성 원인 우선 평가</td></tr><tr><td>50 – 150 ㎍/g</td><td>Borderline → 임상 양상과 함께 판단; 추적 또는 내시경 고려</td></tr><tr><td>150 – 250 ㎍/g</td><td>기질적 염증 의심 → 내시경 적극 고려</td></tr><tr><td>&gt; 250 ㎍/g</td><td>Active IBD 가능성 높음 → 소화기내과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 ㎍/g</td><td>장 염증 가능성 낮음 → 기능성 원인 우선 평가</td></tr><tr><td>50 – 150 ㎍/g</td><td>Borderline → 임상 양상과 함께 판단; 추적 또는 내시경 고려</td></tr><tr><td>150 – 250 ㎍/g</td><td>기질적 염증 의심 → 내시경 적극 고려</td></tr><tr><td>> 250 ㎍/g</td><td>Active IBD 가능성 높음 → 소화기내과 의뢰</td></tr></tbody></table>
 
 * **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전 비침습 평가; <200 ㎍/g → 췌장 기능 부전 의심
   * ✽72시간 대변 지방 검사보다 간편; 설사 중에는 희석에 의한 위음성 주의
 * 대변 지방 (72시간, >7 g/d → 지방 흡수 장애)
-* *C. difficile* toxin PCR (항생제 복용력 있거나 중증 설사)
+* _C. difficile_ toxin PCR (항생제 복용력 있거나 중증 설사)
 
 **호기 검사 (Hydrogen breath test)**
+
 * 유당·과당 불내성, SIBO 진단에 유용
 * **한계** : 위양성·위음성 모두 가능; 임상 양상과 함께 해석 필수
   * Methane 양성 → constipation-predominant phenotype과 연관
@@ -174,16 +177,20 @@
 * Glucose hydrogen breath test가 SIBO 진단에 선호됨
 
 **영상·내시경**
+
 * 복부 X선, CT enterography (흡수 장애·염증 의심 시)
 * 대장 내시경 + 조직검사 : 경고 징후·혈변·50세 이상 신규 발생
   * Microscopic colitis : 내시경 정상이어도 **무작위 조직검사 (상행·횡행·하행결장)** 필수
 * 소장 영상 (CT/MR enterography) : 크론병·소장 종양 의심 시
 
 **특수 검사 (2차 의뢰)**
+
 * SeHCAT scan, 혈청 **FGF-19**, 혈청 **C4 (7α-hydroxy-4-cholesten-3-one)** : 담즙산 흡수 장애(BAM) 확진
   * ✽국내 시행 어려움 → empiric cholestyramine trial이 현실적 대안
 * 소장 흡인액 배양 : SIBO 확진 (실제 시행 어려움)
 * 조직검사 : 셀리악병(십이지장), Whipple disease(소장) 의심 시
+
+***
 
 ***
 
@@ -193,51 +200,48 @@ graph TD
     Start --> RF{"🚩 경고 징후?<br/>(혈변·체중감소·야간설사<br/>발열·50세↑ 신규 발생)"}
 
     RF -- "있음" --> Scope["대장 내시경 + 조직검사<br/>CT enterography<br/>혈액·대변 검사"]
-    RF -- "없음" --> Phenotype{"변 양상<br/>분류"}
-
+    RF -- "없음" --> Phenotype(["변 양상 분류"])
     Scope --> OrgDx["IBD, Microscopic colitis<br/>대장암, 감염성"]
+    
+        style Phenotype fill:#d5f5e3,stroke:#27ae60
 
-    Phenotype -- "지방변·체중감소" --> Malabs["흡수 장애 검사<br/>fecal elastase · fecal fat<br/>anti-tTG IgA · H2 breath test"]
-    Phenotype -- "수양성·야간 지속" --> WateryDD["대변 calprotectin<br/>+ 전해질/삼투압"]
-    Phenotype -- "식후 악화·가스·복통 없음" --> OsmoDD["음식 일기<br/>lactose/FODMAP 제한 시도"]
+```
 
-    OsmoDD --> OsmoResult{"2~4주 제한 후"}
-    OsmoResult -- "호전" --> OsmoDx["탄수화물 불내성<br/>(유당·과당·FODMAP)"]
+```mermaid
+graph TD
+    Phenotype(["변 양상"]) --> A["지방변·체중감소"] --> Malabs["흡수 장애 검사<br/>fecal elastase · fecal fat<br/>anti-tTG IgA · H2 breath test"]
+    Phenotype --> B["수양성·야간 지속"] --> WateryDD["대변 calprotectin<br/>+ 전해질/삼투압"]
+    Phenotype --> C["식후 악화·가스·복통 없음"] --> OsmoDD["음식 일기<br/>lactose/FODMAP 제한 시도"]
+
+    OsmoDD --> OsmoResult["2~4주 제한 후"]
+
     OsmoResult -- "호전 없음" --> WateryDD
 
     Malabs --> MalabsDx["셀리악병, SIBO<br/>췌장 외분비 부전"]
 
-    WateryDD --> CalProt{"Fecal<br/>calprotectin"}
+    WateryDD --> CalProt["Fecal<br/>calprotectin"]
     CalProt -- "↑↑ (>250)" --> IBDRef["소화기내과 의뢰<br/>내시경 + 무작위 생검"]
-    CalProt -- "정상~Borderline<br/>(250 이하)" --> OsmoGap{"Osmotic gap<br/>290-2x(Na+K) mOsm/kg"}
-
-    OsmoGap -- ">100 (삼투압성)" --> OsmoDx
-    OsmoGap -- "50~100 (혼합형)" --> MixedEval["식이 조정 + 분비성 평가<br/>병행 시행"]
-    OsmoGap -- "<50 (분비성)" --> BAMFirst["BAM 우선 평가<br/>담낭절제술 병력?<br/>야간 수양성 설사?"]
+    CalProt -- "정상~Borderline<br/>(≤250)" --> OsmoGap["Osmotic gap<br/>290-2x(Na+K) mOsm/kg"]
+    OsmoGap -- "<50 (분비성)" ---> BAMFirst["BAM 우선 평가<br/>담낭절제술 병력?<br/>야간 수양성 설사?"]
     BAMFirst -- "BAM 의심" --> CholTrial["Cholestyramine<br/>empiric trial"]
     BAMFirst -- "기능성 의심" --> Functional["IBS-D / Functional diarrhea<br/>복통 → IBS-D<br/>복통 없음 → FD"]
     BAMFirst -- "BAM·기능성 모두 아님" --> Secretory2["기타 분비성 검사<br/>Microscopic colitis 생검<br/>VIPoma·하제 남용 등"]
+    OsmoGap -- "50~100 (혼합형)" --> MixedEval["식이 조정 + 분비성 평가<br/>병행 시행"]
+    OsmoResult -- "호전" --> OsmoDx["탄수화물 불내성<br/>(유당·과당·FODMAP)"]
+    OsmoGap -- ">100 (삼투압성)" --> OsmoDx
+    
+    style Phenotype fill:#d5f5e3,stroke:#27ae60
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class OsmoResult,CalProt,OsmoGap yellow
+    classDef white fill:#fff,stroke:#333
+    class A,B,C white
 
-    style Start fill:#f3f0ff,stroke:#dcd6f7
-    style RF fill:#fffde7,stroke:#fff9c4
-    style Phenotype fill:#fffde7,stroke:#fff9c4
-    style OsmoGap fill:#fffde7,stroke:#fff9c4
-    style CalProt fill:#fffde7,stroke:#fff9c4
-    style OsmoResult fill:#fffde7,stroke:#fff9c4
-    style OrgDx fill:#ffebee,stroke:#ffcdd2
-    style MalabsDx fill:#ffebee,stroke:#ffcdd2
-    style IBDRef fill:#ffebee,stroke:#ffcdd2
-    style Secretory2 fill:#ffebee,stroke:#ffcdd2
-    style OsmoDx fill:#e8f5e9,stroke:#c8e6c9
-    style Functional fill:#e8f5e9,stroke:#c8e6c9
-    style CholTrial fill:#e3f2fd,stroke:#90caf9
-    style BAMFirst fill:#fff3e0,stroke:#ffe0b2
-    style MixedEval fill:#fff3e0,stroke:#ffe0b2
+
 ```
 
 <p align="center"><strong>만성 설사 진단 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Lange 2024 Current Medical Diagnosis & Treatment 63rd Ed.; ACG Clinical Guideline: Evaluation of Chronic Diarrhea (2023)</mark></em></p>
+***
 
 {% hint style="info" %}
 **외래 임상 핵심 포인트 (One-line Pearls)**
@@ -295,14 +299,13 @@ graph TD
 
 * 작용 : 장 운동 지연, 장 분비 감소
 * 대상 : 비특이적 만성 설사 대증 치료; 기능성 설사·IBS-D urgency 증상에 유용
-
 * loperamide 2\~4 ㎎ bid\~qid <mark style="color:blue;">\[로프민]</mark>
   * ✽만성 기능성 설사에서는 식전 규칙적 복용(scheduled dosing, 예: 식전 30분)이 urgency 예방에 PRN보다 효과적
 * diphenoxylate 2.5\~5 ㎎ tid\~qid <mark style="color:blue;">\[로모틸]</mark>
 
 {% hint style="danger" %}
 **⚠️ Opiates 주의사항**\
-*C. difficile* 감염이나 염증성 설사에서는 장 운동 억제제 사용 금지 (독성 거대결장 유발 위험)
+&#xNAN;_&#x43;. difficile_ 감염이나 염증성 설사에서는 장 운동 억제제 사용 금지 (독성 거대결장 유발 위험)
 {% endhint %}
 
 ### <mark style="color:orange;">IBS-D 표적 치료제</mark>
@@ -334,21 +337,18 @@ Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSR
 * 작용 : 장내 전해질 분비 억제, intestinal transit time 지연
 * 대상 : 분비성 설사, 당뇨병성 설사, opiate 금단 설사
 * 주의 : 혈압 강하
-
 * clonidine 0.1\~0.3 ㎎ tid <mark style="color:blue;">\[켑베이]</mark> (보험 주의)
 
 ### <mark style="color:orange;">Somatostatin analogue</mark>
 
 * 작용 : 장 내 fluid·전해질 흡수 자극, GI peptides 분비 억제
 * 대상 : carcinoid syndrome, VIPoma, 화학요법 관련 설사, 위 절제술 후 덤핑증후군
-
 * octreotide 50\~200 **㎍** tid SC <mark style="color:blue;">\[산도스타틴 라르 주]</mark> (보험 주의)
 
 ### <mark style="color:orange;">Bile acid-binding resin</mark>
 
 * 대상 : 담즙산 흡수 장애(BAM) — 담낭절제술 후, terminal ileum 절제 후, 특발성 BAD
 * Empiric trial이 SeHCAT 검사보다 현실적; 1\~2주 내 반응 확인 가능
-
 * cholestyramine 4 g 1포 qd\~qid (식사와 함께) <mark style="color:blue;">\[퀘스트란 현탁용산]</mark>
   * ✽소량(1포 qd)에서 시작 → 증상에 따라 증량; 복부 팽만·변비 부작용 흔함
   * ✽다른 약물과 4\~6시간 간격 복용 필수 (약물 흡착 방해)
@@ -369,7 +369,6 @@ Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSR
 
 * 대상 : 조직검사로 확진된 collagenous/lymphocytic colitis
 * **유발 약물(NSAID, PPI, SSRI) 중단이 치료의 핵심**
-
 * **budesonide** 9 ㎎ qd × 8주 → tapering : 1차 선택
   * 엔토코트 서방캡슐 3 ㎎ × 3캡 qd (아침 식전) <mark style="color:blue;">\[엔토코트]</mark>
   * 타미코트 서방정 9 ㎎ × 1T qd (아침 식전) <mark style="color:blue;">\[타미코트]</mark> (급여 기준 확인 필요)
@@ -380,16 +379,15 @@ Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSR
 
 * 대상 : 소량의 물 설사, 대변실금 동반 기능성 설사
 * 작용 : 수용성 식이섬유 → 장 내용물 점도↑ → 대변 수분 흡수↑
-
 * psyllium 10\~20 g/d (충분한 수분과 함께) <mark style="color:blue;">\[무타실]</mark>
 * polycarbophil 5 g/d <mark style="color:blue;">\[웰콘]</mark>
 
 ### <mark style="color:orange;">Probiotics</mark>
 
-* 효과는 **균주 특이적(strain-specific)**이며 전체 효과 크기는 크지 않음 (guideline 간 권고 불일치)
+* 효과는 \*\*균주 특이적(strain-specific)\*\*이며 전체 효과 크기는 크지 않음 (guideline 간 권고 불일치)
 * IBS-D, 항생제 관련 설사 예방에 일부 근거
-  * ***Saccharomyces boulardii*** : 항생제 관련 설사 예방에 가장 근거가 강함 (메타분석)
-  * *Lactobacillus rhamnosus* GG : IBS-D 및 항생제 관련 설사에 근거 있음
+  * _**Saccharomyces boulardii**_ : 항생제 관련 설사 예방에 가장 근거가 강함 (메타분석)
+  * _Lactobacillus rhamnosus_ GG : IBS-D 및 항생제 관련 설사에 근거 있음
 
 ***
 
