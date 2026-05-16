@@ -46,7 +46,7 @@ _H. pylori_ 제균 후 위산 분비가 정상화되거나, 감염으로 인한 
 * 비만, 과식, 폭식, 음주, 흡연
 * 음식 : 매운 음식, 신 음식, 고지방식, 카페인 (개인차 있음)
 * 임신
-* 약물&#x20;
+* 약물
 
 #### <mark style="color:$primary;">유발 약물</mark>
 
@@ -85,13 +85,13 @@ _H. pylori_ 제균 후 위산 분비가 정상화되거나, 감염으로 인한 
 
 * 토혈 또는 흑색변 → 상부 위장관 출혈
 * 급격한 연하곤란 + 고형식 불통과 → 식도 종양·폐쇄
-* 심한 흉통 →  급성 관동맥 증후군
+* 심한 흉통 → 급성 관동맥 증후군
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 설명되지 않는 체중 감소 (＞5% / 3\~6개월)
 * 진행성 연하곤란 (고형식 → 연식으로 진행)
-* 빈혈&#x20;
+* 빈혈
 * 반복적 구토 또는 음식 regurgitation
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
@@ -301,7 +301,7 @@ class L,N yellow
 
 ```mermaid
 graph TD
-    Start1(["이전에 객관적 검사 없이 <br/>PPI 경험적 치료"]) --> PPI1["적절한 PPI 치료"]
+    Start1(["<b>이전에 객관적 검사 없이 <br/>경험적 PPI 치료</b>"]) --> PPI1["PPI 치료로 호전?"]
     PPI1 -- "호전" --> Success1["• GERD 치료 유지<br/>• 장기 관리 방향 상담"]
     PPI1 -- "호전 안 됨" --> Scope1["PPI 2~4주 중단 후 내시경"]
     Scope1 --> Other1["• 다른 원인<br/>• 점막 질환 치료"]
@@ -322,7 +322,7 @@ class Success1,GERD1 blue
 
 ```mermaid
 graph TD
-    Start2(["검사로 GERD 확진 <br/>(LA grade B/C/D)"]) --> PPI2["적절한 PPI 치료"]
+    Start2(["<b>검사로 GERD 확진 <br/>(LA grade B/C/D)"</b>]) --> PPI2["적절한 PPI 치료"]
     PPI2 -- "호전" --> Success2["• GERD 치료 유지<br/>• 장기 관리 방향 상담"]
     PPI2 -- "호전 안 됨<br/>(주 증상: 역류)" --> Fail2["MSA/TIF/<br/>fundoplication 고려"]
     PPI2 -- "호전 안 됨" --> Impedance2["pH-impedance <br/>monitoring<br/>(on PPI bid)"]
@@ -377,7 +377,7 @@ class Success2,Surgery blue
 * 약제 선택은 비용·순응도·약물 상호작용 위주로 결정 - PPI 제제 간 임상적 치유율은 거의 차이가 없음
   * 산 억제 효능 상대치 (omeprazole 기준, 연구마다 차이 있음) : lansoprazole 0.90, pantoprazole 0.23, esomeprazole 1.60, rabeprazole \~1.60
 * 표준 용량
-  * omeprazole  : 20 ㎎ qd <mark style="color:blue;">\[오엠피]</mark>
+  * omeprazole : 20 ㎎ qd <mark style="color:blue;">\[오엠피]</mark>
   * esomeprazole : 40 ㎎ qd <mark style="color:blue;">\[넥시움]</mark>
   * lansoprazole : 30 ㎎ qd <mark style="color:blue;">\[란스톤]</mark>
   * dexlansoprazole : 60 ㎎ qd <mark style="color:blue;">\[덱실란트 디알]</mark> - 이중 지연 방출, 식사 무관 복용 가능
@@ -495,7 +495,7 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 #### <mark style="color:$primary;">처치 원칙</mark>
 
 * 약제 교체 또는 증량 (표준 용량 bid × 8주), 야간 증상 시 취침 전 H2RA 단기 추가
-* PPI 중단 시 반동성 위산 과다 방지 : 2\~4주에 걸쳐 서서히 감량하거나 H2RA로 전환 후 중단 고려&#x20;
+* PPI 중단 시 반동성 위산 과다 방지 : 2\~4주에 걸쳐 서서히 감량하거나 H2RA로 전환 후 중단 고려
 * 약물의 일상적인 추가 또는 두 가지 이상의 PPI 병용은 하지 않음
 * PPI의 다른 적응증이 없는 한, 역류 검사에서 음성이면 PPI 중단 고려
 * 추가 검사 고려
