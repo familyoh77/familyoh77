@@ -31,7 +31,7 @@
 
 ### <mark style="color:orange;">2차성</mark>
 
-<table><thead><tr><th width="175">범주</th><th>원인 질환 및 약물</th></tr></thead><tbody><tr><td>내분비/대사</td><td>당뇨병, 고칼슘혈증, 저칼륨혈증, 갑상선저하증, 부갑상선항진증, 요독증</td></tr><tr><td>근병증</td><td>amyloidosis, scleroderma, 근육긴장퇴행위축</td></tr><tr><td>신경 질환</td><td>자율신경병증, 뇌혈관질환, 파킨슨병, 척수 질환</td></tr><tr><td>정신 질환</td><td>불안증, 우울증, 신체화장애, 치매</td></tr><tr><td>구조 이상</td><td>항문열상, 협착, 치핵, 결장협착증, IBD, 결장 종괴, 직장탈출증, 직장류</td></tr><tr><td>약물</td><td>Al 또는 Ca 함유 제산제, 항콜린제, 항우울제(TCA &gt; SSRI), 항히스타민제, CCB, clonidine, 이뇨제, 철분제, levodopa, opioid, NSAID, 항정신병제, 교감신경 약제</td></tr><tr><td>기타</td><td>IBS-C, 임신</td></tr></tbody></table>
+<table><thead><tr><th width="132">범주</th><th>원인 질환 및 약물</th></tr></thead><tbody><tr><td>내분비/대사</td><td>당뇨병, 고칼슘혈증, 저칼륨혈증, 갑상선저하증, 부갑상선항진증, 요독증</td></tr><tr><td>근병증</td><td>amyloidosis, scleroderma, 근육긴장퇴행위축</td></tr><tr><td>신경 질환</td><td>자율신경병증, 뇌혈관질환, 파킨슨병, 척수 질환</td></tr><tr><td>정신 질환</td><td>불안증, 우울증, 신체화장애, 치매</td></tr><tr><td>구조 이상</td><td>항문열상, 협착, 치핵, 결장협착증, IBD, 결장 종괴, 직장탈출증, 직장류</td></tr><tr><td>약물</td><td>Al 또는 Ca 함유 제산제, 항콜린제, 항우울제(TCA > SSRI), 항히스타민제, CCB, clonidine, 이뇨제, 철분제, levodopa, opioid, NSAID, 항정신병제, 교감신경 약제</td></tr><tr><td>기타</td><td>IBS-C, 임신</td></tr></tbody></table>
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -45,30 +45,30 @@
 * 하복부 불편감/팽만감
 * 소아 : 복통, 식욕 부진, 변실금(가성 설사)이 나타날 수 있음
 
-<figure><img src="../.gitbook/assets/087-1.png" alt="Bristol Stool Form Scale" width="375"><figcaption><p>Bristol Stool Form Scale - Types 1~2: 변비형, Types 3~4: 정상형, Types 6~7: 설사형</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/087-1.png" alt="Bristol Stool Form Scale" width="375"><figcaption></figcaption></figure>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
-* 급성 심한 복통 + 복막 자극 징후 (복근 강직, 반발통) → 복막염·장폐색 의심
+* 급성 심한 복통 + 복막 자극 징후 (복근 강직, 반발통) → 복막염·장폐색
 * 급성 장폐색 소견 : 심한 복부 팽창, 구역·구토, 장음 소실
 * 대량 직장 출혈 (hemodynamically unstable)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 설명할 수 없는 체중 감소 + 배변 습관 변화 → 대장암 의심; 대장내시경 의뢰
-* 혈변, 흑색변, 철결핍빈혈 동반 → 대장암 또는 상하부 위장관 출혈 감별
+* 설명할 수 없는 체중 감소 + 배변 습관 변화 → 대장암
+* 혈변, 흑색변, 철결핍빈혈 동반 → 대장암, 상하부 위장관 출혈
 * 직장 탈출, 반복적 직장 출혈
-* 설명되지 않는 진행성 배변 습관 변화 (체중 감소·빈혈·혈변·대장암 가족력 동반 시 우선 평가; 특히 대장암 선별 검사 대상 연령 ≥50세에서)
+* 설명되지 않는 진행성 배변 습관 변화 (특히 ≥50세, 체중 감소·빈혈·혈변·대장암 가족력 동반 시 )
 * 연령별 대장암 선별 검사(국가 암 검진 등) 미시행 상태에서 배변 습관 변화 발생
-* 신생아 때부터 지속되는 변비 → Hirschsprung disease 의심 (소아에서 성장지연·심한 복부팽만 동반 시 포함)
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 식이·하제 치료에 4\~8주 이상 반응 없음 → slow-transit constipation 또는 pelvic floor dysfunction 평가 고려
-* 대장암 가족력 → 정기 검진 계획 수립
+* 식이·하제 치료에 4\~8주 이상 반응 없음
+* 신생아 때부터 지속되는 변비 → Hirschsprung disease (특히소아에서 성장 지연·심한 복부 팽만 동반 시)
 * 불명열 동반 변비
+* 대장암 가족력&#x20;
 
 ## <mark style="color:green;">진단</mark>
 
@@ -97,7 +97,7 @@
 임상 양상만으로 아형을 구분하는 것은 어려우나, 다음 특징이 있으면 생리 검사로 확인하고 치료 전략을 달리해야 한다.
 {% endhint %}
 
-<table><thead><tr><th width="170">항목</th><th width="130">Normal transit</th><th width="140">Slow-transit</th><th width="155">Dyssynergic defecation</th><th>IBS-C overlap</th></tr></thead><tbody><tr><td>핵심 병태생리</td><td>정상 통과 시간; 배변 인지 과민</td><td>대장 연동 운동 저하</td><td>골반저·항문 괄약근 협응 장애</td><td>Visceral hypersensitivity + 장-뇌 축 이상</td></tr><tr><td>흔한 환자</td><td>가장 흔함 (전체 ⅔)</td><td>젊은 여성; 정신 질환 동반</td><td>출산력·골반저 이상 여성</td><td>스트레스·불안 동반</td></tr><tr><td>항문 폐쇄감·수기 배변</td><td>드묾</td><td>드묾</td><td><strong>매우 특징적</strong></td><td>가능</td></tr><tr><td>Soft stool인데 배변 곤란</td><td>드묾</td><td>드묾</td><td><strong>강력 시사</strong></td><td>드묾</td></tr><tr><td>복부 팽만</td><td>흔함</td><td>매우 흔함</td><td>중등도</td><td>매우 흔함</td></tr><tr><td>복통·배변 후 완화</td><td>드묾</td><td>드묾</td><td>드묾</td><td><strong>특징적</strong></td></tr><tr><td>Colonic transit time</td><td>정상</td><td>지연 (&gt;72h)</td><td>정상 또는 경도 지연</td><td>다양</td></tr><tr><td>Anorectal manometry</td><td>정상</td><td>정상</td><td>비정상 (dyssynergia)</td><td>다양</td></tr><tr><td>핵심 치료</td><td>Fiber + PEG</td><td>PEG + prucalopride</td><td><strong>Biofeedback 우선</strong></td><td>통합 접근 (복통 포함)</td></tr><tr><td>흔한 함정</td><td>심한 병으로 오해</td><td>Refractory constipation</td><td>하제만 계속 증량</td><td>단순 변비로 간과</td></tr></tbody></table>
+<table><thead><tr><th width="170">항목</th><th width="130">Normal transit</th><th width="140">Slow-transit</th><th width="155">Dyssynergic defecation</th><th>IBS-C overlap</th></tr></thead><tbody><tr><td>핵심 병태생리</td><td>정상 통과 시간; 배변 인지 과민</td><td>대장 연동 운동 저하</td><td>골반저·항문 괄약근 협응 장애</td><td>Visceral hypersensitivity + 장-뇌 축 이상</td></tr><tr><td>흔한 환자</td><td>가장 흔함 (전체 ⅔)</td><td>젊은 여성; 정신 질환 동반</td><td>출산력·골반저 이상 여성</td><td>스트레스·불안 동반</td></tr><tr><td>항문 폐쇄감·수기 배변</td><td>드묾</td><td>드묾</td><td><strong>매우 특징적</strong></td><td>가능</td></tr><tr><td>Soft stool인데 배변 곤란</td><td>드묾</td><td>드묾</td><td><strong>강력 시사</strong></td><td>드묾</td></tr><tr><td>복부 팽만</td><td>흔함</td><td>매우 흔함</td><td>중등도</td><td>매우 흔함</td></tr><tr><td>복통·배변 후 완화</td><td>드묾</td><td>드묾</td><td>드묾</td><td><strong>특징적</strong></td></tr><tr><td>Colonic transit time</td><td>정상</td><td>지연 (>72h)</td><td>정상 또는 경도 지연</td><td>다양</td></tr><tr><td>Anorectal manometry</td><td>정상</td><td>정상</td><td>비정상 (dyssynergia)</td><td>다양</td></tr><tr><td>핵심 치료</td><td>Fiber + PEG</td><td>PEG + prucalopride</td><td><strong>Biofeedback 우선</strong></td><td>통합 접근 (복통 포함)</td></tr><tr><td>흔한 함정</td><td>심한 병으로 오해</td><td>Refractory constipation</td><td>하제만 계속 증량</td><td>단순 변비로 간과</td></tr></tbody></table>
 
 {% hint style="info" %}
 경고 징후가 없고 하제에 반응하는 경우 추가 검사는 대개 불필요. 다음에 해당 시 시행 : 경고 징후 존재, 식이 섬유 및 하제 치료에 반응하지 않음, 기질적 원인 의심
