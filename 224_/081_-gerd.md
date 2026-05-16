@@ -336,7 +336,7 @@ classDef blue fill:#d0e8ff,stroke:#1a6abf
 class Success2,Surgery blue
 ```
 
-<p align="center"><strong>GERD 증상 관리 알고리듬</strong></p>
+<p align="center"><strong>GERD 관리 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. Katz PO et al. ACG Clinical Guideline: GERD. Am J Gastroenterol. 2022;117:27–56. Fig 3.</mark></em></p>
 
@@ -490,7 +490,7 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 
 <table><thead><tr><th width="244.21051025390625">확인 사항</th><th>임상적 의미</th></tr></thead><tbody><tr><td>복용 시간 오류</td><td>PPI를 식후 복용하는 경우 매우 흔함 - 반드시 식전 30~60분 복용 확인</td></tr><tr><td>복약 순응도 부족</td><td>간헐적 복용, 조기 중단 여부 확인</td></tr><tr><td>야식·야간 음주</td><td>야간 reflux 지속의 흔한 원인</td></tr><tr><td>과식·비만·체중 증가</td><td>복압 증가 → 역류 악화</td></tr><tr><td>Regurgitation predominance</td><td>volume reflux는 acid suppression만으로 불충분 가능</td></tr><tr><td>기능성 질환 overlap</td><td>FD, IBS overlap 시 bloating·불편감 지속 가능</td></tr><tr><td>Reflux hypersensitivity</td><td>acid exposure는 정상이나 식도 지각 과민 존재 가능</td></tr><tr><td>Functional heartburn</td><td>GERD가 아닌 기능성 통증일 수 있음</td></tr><tr><td>Supragastric belching / rumination</td><td>식도로 공기를 빨아들였다 즉시 내뱉는 behavioral disorder; 반복적 트림·역류감 유발 - 약물이 아닌 인지행동치료·언어치료(speech therapy)가 우선; baclofen 보조 고려</td></tr><tr><td>비GERD 질환</td><td>호산구성 식도염, achalasia, 심질환 등 감별 필요</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">처치 원칙</mark>
+#### <mark style="color:$primary;">대처 방법</mark>
 
 * 약제 교체 또는 증량 (표준 용량 bid × 8주), 야간 증상 시 취침 전 H2RA 단기 추가
 * PPI 중단 시 반동성 위산 과다 방지 : 2\~4주에 걸쳐 서서히 감량하거나 H2RA로 전환 후 중단 고려
