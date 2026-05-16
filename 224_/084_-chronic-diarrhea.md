@@ -32,7 +32,7 @@
 * 소장 세균 과증식 (SIBO)
 * 췌장 외분비 기능 부전 (만성 췌장염, pancreatic cystic fibrosis)
 
-#### <mark style="color:$primary;">분비성 설사 (Secretory) — BAM 포함</mark>
+#### <mark style="color:$primary;">분비성 설사 (Secretory) - BAM 포함</mark>
 
 * **담즙산 흡수 장애 (bile acid malabsorption, BAM/BAD)** : 만성 수양성 설사의 주요 원인 중 하나; 과소 진단되는 경향
   * 담낭절제술 후 (간혹 6\~12개월 내 회복)
@@ -40,7 +40,7 @@
   * **특발성 BAD** : terminal ileal disease 없이도 발생; IBS-D로 오진되는 경우 많음
   * 야간 수양성 설사 + 담낭절제술 병력 → 적극 의심; empiric cholestyramine trial이 현실적 접근
 * 자극성 하제 (예: senna, docusate)
-* 종양 : VIPoma, gastrinoma, carcinoid syndrome, 갑상선 medullary carcinoma — 극히 드묾
+* 종양 : VIPoma, gastrinoma, carcinoid syndrome, 갑상선 medullary carcinoma - 극히 드묾
 * Systemic mastocytosis, protein-losing enteropathy
 * **식사와 무관하게 다량의 물 설사**, 야간에도 지속이 특징
 
@@ -61,7 +61,7 @@
 
 #### <mark style="color:$primary;">감염성 설사 (Infection)</mark>
 
-* 세균 : *Clostridioides difficile*, *Mycobacterium avium intracellulare* (**면역저하자에서 주로 발생** — HIV, 장기이식, 고용량 스테로이드 복용자)
+* 세균 : *Clostridioides difficile*, *Mycobacterium avium intracellulare* (**면역저하자에서 주로 발생** - HIV, 장기이식, 고용량 스테로이드 복용자)
 * 바이러스 : cytomegalovirus (**면역저하자에서 주로 발생**)
 * 기생충 : *Giardia lamblia*, *Cryptosporidium*, *Isospora*, *Strongyloides*
 
@@ -80,7 +80,7 @@
 ### <mark style="color:orange;">변 양상 기반 초고속 접근 (Stool Phenotype Approach)</mark>
 
 {% hint style="info" %}
-**외래 실전 팁** — 상세 검사 전, 변의 성상·시간·연관 증상만으로도 상위 감별 진단을 빠르게 추릴 수 있다.
+**외래 실전 팁** - 상세 검사 전, 변의 성상·시간·연관 증상만으로도 상위 감별 진단을 빠르게 추릴 수 있다.
 {% endhint %}
 
 <table><thead><tr><th width="220">변 양상</th><th>가장 의심할 진단</th></tr></thead><tbody><tr><td>수양성 + 야간 지속</td><td>Secretory, BAM, Microscopic colitis</td></tr><tr><td>식후 즉시 악화</td><td>IBS-D, BAM (담낭절제술 후), 삼투압성</td></tr><tr><td>지방변 (기름지고 악취)</td><td>Malabsorption, 췌장 외분비 부전, SIBO, 셀리악병</td></tr><tr><td>혈변·농변</td><td>IBD, 감염성 (C. difficile), 종양</td></tr><tr><td>소량 빈번 + urgency 주증상</td><td>IBS-D, BAM, 직장 염증</td></tr><tr><td>복부 팽만·가스 동반</td><td>Carbohydrate intolerance, SIBO, IBS-D</td></tr><tr><td>금식 시 호전</td><td>Osmotic (유당·과당 불내성, 삼투성 하제)</td></tr><tr><td>금식해도 지속</td><td>Secretory (BAM, 종양, 하제 남용)</td></tr></tbody></table>
@@ -94,7 +94,7 @@
 <table><thead><tr><th width="190">특징</th><th width="200">Functional diarrhea</th><th>IBS-D</th></tr></thead><tbody><tr><td>핵심 증상</td><td>묽은 변 (설사)</td><td>복통 + 설사</td></tr><tr><td>복통</td><td>거의 없음</td><td>반복적으로 존재</td></tr><tr><td>배변 후 통증 변화</td><td>없음</td><td>흔함 (배변 후 호전)</td></tr><tr><td>스트레스 연관</td><td>일부</td><td>흔함</td></tr><tr><td>야간 증상</td><td>드묾</td><td>드묾</td></tr><tr><td>치료 핵심</td><td>Stool form control</td><td>Gut-brain modulation</td></tr></tbody></table>
 
 {% hint style="danger" %}
-**⚠️ Microscopic colitis — 놓치기 쉬운 핵심 진단**
+**⚠️ Microscopic colitis - 놓치기 쉬운 핵심 진단**
 
 고령(특히 60대 이상) 여성의 만성 수양성·야간 설사에서 **대장내시경이 정상이어도** microscopic colitis를 반드시 배제해야 한다.\
 **무작위 조직검사 (random biopsy, 상행·횡행·하행결장)** 없이는 진단 불가. NSAID·PPI·SSRI 복용력 반드시 확인.
@@ -154,7 +154,7 @@
 * WBC, 배양, 기생충 + 잠혈 → 감염·염증
 * 전해질(Na, K)·삼투압 → osmotic gap 계산 : **290 − 2×(Na + K)** mOsm/kg stool water
 
-<table><thead><tr><th width="200">Osmotic gap (mOsm/kg)</th><th>임상 해석</th></tr></thead><tbody><tr><td>&lt; 50</td><td>분비성 설사 (secretory) — 식사와 무관, 금식해도 지속</td></tr><tr><td>50 – 100</td><td>혼합형/indeterminate — 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>&gt; 100</td><td>삼투압성 설사 (osmotic) — 금식 시 호전 기대</td></tr></tbody></table>
+<table><thead><tr><th width="200">Osmotic gap (mOsm/kg)</th><th>임상 해석</th></tr></thead><tbody><tr><td>&lt; 50</td><td>분비성 설사 (secretory) - 식사와 무관, 금식해도 지속</td></tr><tr><td>50 – 100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>&gt; 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
 
 * **Fecal calprotectin** : 장 점막 염증 비침습 지표; IBD vs. 기능성 설사 감별에 실용적
   * ✽**국내 급여 기준**: IBD 의심 환자에서 시행 시 연 1\~2회 인정 (선별 급여); 단순 IBS 상병으로 청구 시 삭감 주의
@@ -258,7 +258,7 @@ graph TD
 
 {% hint style="info" %}
 **치료 방침 요약**\
-① 원인 질환 치료가 우선 — 기전을 규명하지 않은 채 대증 치료에만 의존하지 말 것\
+① 원인 질환 치료가 우선 - 기전을 규명하지 않은 채 대증 치료에만 의존하지 말 것\
 ② 경고 징후 없고 기능성 설사/IBS 진단 기준 충족 → 진단적 치료 시행\
 ③ 4\~6주 치료에 반응 없으면 추가 검사 또는 의뢰
 {% endhint %}
@@ -282,9 +282,9 @@ graph TD
   * 2\~6주 제한 후 단계적 재도입으로 개인 내성 식품 확인
 * **유당 제한** : 유당 불내성 확인 후 lactose-free 제품으로 전환 또는 lactase 효소 보충
 * **수분 보충** : 탈수 예방; 카페인·알코올·고당분 음료 제한
-* **규칙적 운동** : 규칙적인 유산소 운동이 장 운동 조절에 도움 — IBS-D 증상 완화에 근거 있음
+* **규칙적 운동** : 규칙적인 유산소 운동이 장 운동 조절에 도움 - IBS-D 증상 완화에 근거 있음
 * **스트레스 관리** : IBS-D에서 gut-brain axis로 인해 심리적 스트레스가 유발 인자
-  * 인지행동치료(CBT), 장 지향 최면요법(gut-directed hypnotherapy) — 근거 있음
+  * 인지행동치료(CBT), 장 지향 최면요법(gut-directed hypnotherapy) - 근거 있음
 * **규칙적 식사 습관** : 불규칙한 식사, 폭식 회피; 소량 빈식 고려
 
 ***
@@ -319,7 +319,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
   * amitriptyline 10\~25 ㎎ hs <mark style="color:blue;">\[에트라빌]</mark>
 
 {% hint style="danger" %}
-**⚠️ QT 연장 주의 — ondansetron + TCA 병용 시**\
+**⚠️ QT 연장 주의 - ondansetron + TCA 병용 시**\
 Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSRI 병용 시 위험이 증가합니다.\
 고령 환자, 전해질 이상(저칼륨·저마그네슘), 기존 QT 연장 병력이 있는 경우 심전도 모니터링을 고려하십시오.
 {% endhint %}
@@ -346,7 +346,7 @@ Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSR
 
 ### <mark style="color:orange;">Bile acid-binding resin</mark>
 
-* 대상 : 담즙산 흡수 장애(BAM) — 담낭절제술 후, terminal ileum 절제 후, 특발성 BAD
+* 대상 : 담즙산 흡수 장애(BAM) - 담낭절제술 후, terminal ileum 절제 후, 특발성 BAD
 * Empiric trial이 SeHCAT 검사보다 현실적; 1\~2주 내 반응 확인 가능
 
 * cholestyramine 4 g 1포 qd\~qid (식사와 함께) <mark style="color:blue;">\[퀘스트란 현탁용산]</mark>
@@ -500,8 +500,8 @@ K90.3 췌장 지방변증 (소장 외 흡수 장애)
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 4\~6주 치료 후에도 증상이 호전되지 않는 경우
-> * 혈변, 흑색변(검고 끈적한 변)이 나타나는 경우 — **즉시 내원**
-> * 발열과 함께 설사가 심해지는 경우 — **즉시 내원**
+> * 혈변, 흑색변(검고 끈적한 변)이 나타나는 경우 - **즉시 내원**
+> * 발열과 함께 설사가 심해지는 경우 - **즉시 내원**
 > * 체중이 눈에 띄게 줄거나 심한 피로감이 동반되는 경우
 
 ***

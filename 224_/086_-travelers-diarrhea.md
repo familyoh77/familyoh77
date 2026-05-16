@@ -53,12 +53,12 @@
 
 <mark style="color:$warning;">**당일 의뢰 또는 긴급 평가**</mark>
 
-* 이질성 설사(혈변 또는 발열을 동반한 침습성 염증성 설사) — 중증도에 관계없이
+* 이질성 설사(혈변 또는 발열을 동반한 침습성 염증성 설사) - 중증도에 관계없이
 * 38.5°C 이상의 발열이 48시간 이상 지속
 * 중등증 이상 + 면역저하자, 염증성 장질환자, 인슐린 의존성 당뇨병 환자
 * 대증 치료 48시간 후에도 호전 없는 중등증 이상
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">— 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 귀국 후에도 설사가 2주 이상 지속 → 기생충 감염(Giardia, Cryptosporidium 등) 평가
 * 설사 소실 후 IBS 유사 증상 지속 → PI-IBS 평가
@@ -155,8 +155,8 @@ graph TD
 
 {% hint style="info" %}
 **여행 중 2제 비상약 전략**: 여행 전 두 종류의 항생제를 처방받아 휴대하는 방법이 실용적이다.
-* ① **rifaximin** — 열·혈변 없는 수양성 설사용 (비이질성)
-* ② **azithromycin** — 발열·혈변 동반 이질성 설사, 또는 동남아 여행 시
+* ① **rifaximin** - 열·혈변 없는 수양성 설사용 (비이질성)
+* ② **azithromycin** - 발열·혈변 동반 이질성 설사, 또는 동남아 여행 시
 
 단일 항생제만 가져간다면 **azithromycin**이 대부분의 상황에 대응 가능하다.
 {% endhint %}
@@ -169,7 +169,7 @@ graph TD
 * 심한 탈수 : ORS를 소량씩 자주(200\~250 ㎖씩) 섭취; 구토가 심하면 정맥 수액 필요
 * 식사는 제한 불필요; 소화 잘 되는 음식(바나나, 쌀, 토스트 등) 권장
 
-### <mark style="color:orange;">예방 수칙 — 음식과 음료</mark>
+### <mark style="color:orange;">예방 수칙 - 음식과 음료</mark>
 
 * 반드시 끓인 물·병에 든 정수를 마신다; 양치질도 끓인 물 사용
 * 밀봉 확인 후 음료수 섭취; 마개가 깨진 병은 마시지 않는다
@@ -180,7 +180,7 @@ graph TD
 * 얼음은 정수된 물로 만든 것이 확인된 경우에만 사용
 * 거리 노점 음식·음료수 피하기
 
-### <mark style="color:orange;">예방 수칙 — 위생</mark>
+### <mark style="color:orange;">예방 수칙 - 위생</mark>
 
 * 식사 전·배변 후 충분한 손 씻기 또는 손 소독 (단, 효과는 제한적)
 * 호수·강에서의 수영 자제
@@ -199,7 +199,7 @@ graph TD
 ⚠️ **Fluoroquinolone 예방적 사용은 권고하지 않음**: Campylobacter·Shigella의 내성률 상승, FDA Black Box Warning (건염·건 파열, 대동맥 파열, QT 연장, C. diff 감염 위험)으로 인해 현재 가이드라인에서 예방 목적 fluoroquinolone 사용을 권고하지 않는다 (CDC Yellow Book 2024).
 {% endhint %}
 
-* Prebiotics/Probiotics : 예방 및 치료 유용성 미입증 — 권고하지 않음
+* Prebiotics/Probiotics : 예방 및 치료 유용성 미입증 - 권고하지 않음
 
 {% hint style="info" %}
 **경구 콜레라 백신(Dukoral)의 ETEC 교차 보호**: 콜레라 독소와 ETEC의 열민감성 독소(LT)는 구조적으로 유사하여, 경구 콜레라 백신 접종 시 **ETEC에 대해 약 50\~60%의 교차 예방 효과**를 기대할 수 있다. ETEC가 우세한 중남미·아프리카·남아시아 고위험 여행자에서 Pre-Travel 상담 시 언급할 수 있다.
@@ -228,14 +228,14 @@ graph TD
 ⚠️ **STEC 주의**: Shiga toxin-producing E. coli (STEC/O157:H7) 감염이 의심되는 경우 항생제 투여는 **Hemolytic Uremic Syndrome(HUS)** 위험을 증가시킬 수 있으므로 투여 전 반드시 고려한다 (주로 소아에서 문제).
 {% endhint %}
 
-#### <mark style="color:$primary;">Macrolide — 1차 선택 (이질성·중증·동남아)</mark>
+#### <mark style="color:$primary;">Macrolide - 1차 선택 (이질성·중증·동남아)</mark>
 
 * azithromycin : 500 ㎎ qd × 3일, 또는 1 g 단회 <mark style="color:blue;">\[지스로맥스]</mark>
   * 태국 등 Campylobacter 고위험 지역에서 **1차 선택제**
   * 혈변·발열 동반 이질성 설사 및 중증에서 **전반적 선호 항생제**
   * 단회 1 g 복용 시 오심·구토가 흔함; **오심이 심한 경우 표준 3일 요법(500 ㎎ qd × 3일)으로 복용**
 
-#### <mark style="color:$primary;">Rifamycin계 — 비이질성 수양성 설사 선호</mark>
+#### <mark style="color:$primary;">Rifamycin계 - 비이질성 수양성 설사 선호</mark>
 
 {% hint style="danger" %}
 ⚠️ **rifaximin은 발열·혈변·이질성 설사에서 사용하지 않는다.** 전신 흡수가 거의 없어 Campylobacter, Shigella, Salmonella 등 침습성 병원체에 대한 효과가 제한적이다. 복용 중 발열·혈변이 생기면 즉시 azithromycin으로 전환한다.
@@ -245,7 +245,7 @@ graph TD
   * 비침습적(비이질성) 수양성 설사에서 권장; 전신 흡수 거의 없어 안전성 우수
 * rifamycin SV : 388 ㎎ bid × 3일 (**국내 미출시, 해외 가이드라인 옵션**; 성인 ≥18세)
 
-#### <mark style="color:$primary;">Fluoroquinolone — 대체 옵션 (현재 사용 감소)</mark>
+#### <mark style="color:$primary;">Fluoroquinolone - 대체 옵션 (현재 사용 감소)</mark>
 
 {% hint style="danger" %}
 ⚠️ 현재 azithromycin 또는 rifaximin이 우선 선택된다. Campylobacter·Shigella의 fluoroquinolone 내성이 전 세계적으로 증가 중이며, FDA Black Box Warning(건염·건 파열, QT 연장, 대동맥 파열, C. diff 위험)으로 인해 예방 목적 사용은 현재 가이드라인에서 권고하지 않는다. 이질성 설사에서의 단독 사용도 권고하지 않는다.
@@ -294,10 +294,10 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 * diosmectite : 3 g tid, 식간 복용 <mark style="color:blue;">\[스타빅]</mark> (24개월 이상 허가)
   * 병원성 세균, 독소, 바이러스, 가스, 담즙산 흡착·배설; 예방적 투여도 가능
 
-### <mark style="color:orange;">출국 전 의료 상담 — 단계별 안내</mark>
+### <mark style="color:orange;">출국 전 의료 상담 - 단계별 안내</mark>
 
 {% hint style="info" %}
-**① Pre-Travel (출국 전) — 여행지 건강 유의사항 설명 및 사전 준비**
+**① Pre-Travel (출국 전) - 여행지 건강 유의사항 설명 및 사전 준비**
 
 1. 여행자설사 발생 가능성과 대처법 충분히 설명
 2. 모든 설사에서 **경구 수액 보충(ORS)**과 소금 섭취의 중요성 설명
@@ -305,11 +305,11 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 4. 이질성 설사 자가 판단 기준 안내: "발열 또는 혈변 → azithromycin 복용"
 5. ETEC가 우세한 고위험 지역 여행자에서 **경구 콜레라 백신(Dukoral)** 교차 보호 효과 안내 (약 50\~60%)
 
-**② During-Travel (여행 중) — 단계별 자가 관리**
+**② During-Travel (여행 중) - 단계별 자가 관리**
 
 단계별 자가 관리 표 및 알고리듬 참조; 항생제 48시간 후 미호전이면 즉시 의료기관 방문
 
-**③ Post-Travel (귀국 후) — 지속 증상 처리**
+**③ Post-Travel (귀국 후) - 지속 증상 처리**
 
 * 급성 설사 지속 시 지침에 따른 경험적 치료
 * 중증·지속성(≥2주)·치료 실패 : 대변 배양·기생충 검사·PCR
@@ -422,7 +422,7 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 
 ### <mark style="color:blue;">환자 안내서</mark>
 
-**여행자설사 — 여행을 떠나기 전 꼭 알아두세요**
+**여행자설사 - 여행을 떠나기 전 꼭 알아두세요**
 
 **여행자설사란?**\
 개발도상국을 여행할 때 오염된 음식이나 물을 통해 세균·바이러스에 감염되어 설사가 생기는 것입니다. 여행자의 약 20\~60%에서 발생하는 가장 흔한 여행 관련 질병입니다. 대부분 3\~7일 안에 저절로 낫지만, 여행 중에 매우 불편하고 계획을 망칠 수 있으며, 일부에서는 1\~2주 이상 지속될 수 있습니다.
@@ -451,7 +451,7 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 
 **설사가 생겼을 때**
 
-1. **수분을 충분히** 보충하세요 — ORS(경구수액), 물, 이온 음료, 국, 짭짤한 크래커\
+1. **수분을 충분히** 보충하세요 - ORS(경구수액), 물, 이온 음료, 국, 짭짤한 크래커\
    _(고령자·소아·더운 날씨일수록 탈수가 빨리 진행됩니다)_
 2. **발열도 없고 혈변도 없는 경증**이면 지사제(로프민)를 드셔도 됩니다\
    _(여행 중 자가 복용 시에는 하루 4캡슐까지만)_
