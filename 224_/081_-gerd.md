@@ -297,8 +297,6 @@ class L,N white
 
 ***
 
-***
-
 ```mermaid
 graph TD
     Start1(["<b>이전에 객관적 검사 없이 <br/>경험적 PPI 치료</b>"]) --> PPI1["PPI 치료로 호전?"]
