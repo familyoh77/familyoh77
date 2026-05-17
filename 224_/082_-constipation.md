@@ -68,7 +68,7 @@
 * 식이·하제 치료에 4\~8주 이상 반응 없음
 * 신생아 때부터 지속되는 변비 → Hirschsprung Dz. (특히소아에서 성장 지연·심한 복부 팽만 동반 시)
 * 불명열 동반 변비
-* 대장암 가족력&#x20;
+* 대장암 가족력
 
 ## <mark style="color:green;">진단</mark>
 
@@ -126,15 +126,15 @@ graph TD
     I -->|Yes| Z
     J --> K[opioid 유발?]
     K -->|Yes| L[<u>PAMORA</u><br/>naloxegol·methylnaltrexone]
-    K -->|No| M[<u>전문의 의뢰</u><br/>대장 통과 시간 검사·<br/>항문직장 기능 검사]
+    K -->|No| M[<u>의뢰</u><br/>대장 통과 시간 검사·<br/>항문직장 기능 검사]
 classDef yellow fill:#fff9c4,stroke:#ffe082
 class E,G,I,K,DYS yellow
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class D,F,H,J,L sky
     style C fill:#e8f8e8,stroke:#4caf50
-    style BF fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style BF fill:#f3e5f5,stroke:#7b1fa2
     style Z fill:#d0e8ff,stroke:#1a6abf
-    style M fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style M fill:#ffcdd2,stroke:#c62828
 ```
 
 <p align="center"><strong>만성 변비 단계적 치료 알고리듬</strong></p>
@@ -144,7 +144,7 @@ class D,F,H,J,L sky
 ## <mark style="background-color:$warning;">Management</mark>
 
 * 치료 목표 : 정상 배변 패턴 회복(≥3회/주), 증상 개선(soft stool, 힘주기 불필요)
-* 치료 단계&#x20;
+* 치료 단계
 
 1. 안심시킴 : 경증 변비인 경우 비정상이 아님을 설명
 2. Fecal impaction이 있는 경우 : 관장 또는 삼투성 하제로 먼저 해결
@@ -211,7 +211,7 @@ class D,F,H,J,L sky
 * ≥3회/주 배변 달성 시 tapering 고려
 * 만성 신부전 환자에서 Mg 제제 금기 (hypermagnesemia 위험)
 * 말기암 환자 : 부피 형성 하제보다 연화제 + 자극성 하제 병용 권장
-* 임신·수유부&#x20;
+* 임신·수유부
   * 1차 (안전) : 식이 섬유 증량, PEG 3350 <mark style="color:blue;">\[마이락스]</mark>, lactulose <mark style="color:blue;">\[듀파락-이지]</mark> - 장내 흡수 거의 없어 임신·수유 중 안전하게 권고
   * 단기 가능 : bisacodyl 단기 사용 가능 (임신 중 장기 사용 시 이론적 자궁 수축 유발 가능성 - 주의)
   * 피할 약제 : Mg 제제 (대량 사용 시 태반 통과; 신기능 저하 산모 주의), castor oil (자궁 수축 유발 가능)
@@ -220,7 +220,7 @@ class D,F,H,J,L sky
 ### <mark style="color:orange;">Probiotics 및 장내 미생물</mark>
 
 * 일부에서 배변 빈도 개선 보고되나 균주별 효과 차이가 크며 표준 치료 권고 없음
-* 장내 미생물과 변비의 연관성&#x20;
+* 장내 미생물과 변비의 연관성
   * 일부 만성 변비 환자에서 dysbiosis 관찰 (Bifidobacterium 감소, methane 생성 archaea 증가)
   * Methane-associated constipation : methanogen overgrowth (IMO) → 메탄 가스 생성 증가 → 장 통과 시간 지연; 심한 복부 팽만 + 불응성 변비에서 고려 가능 (lactulose breath test로 간접 평가)
   * 향후 microbiome-targeted therapy 연구 진행 중이나 현재는 임상 적용 단계가 아님
@@ -228,7 +228,7 @@ class D,F,H,J,L sky
 
 ### <mark style="color:orange;">부피 형성 하제 (Bulk-forming laxatives)</mark>
 
-<mark style="color:$primary;">**Psyllium (차전자피)**</mark>&#x20;
+<mark style="color:$primary;">**Psyllium (차전자피)**</mark>
 
 * 연구로 효과가 입증된 유일한 식이 섬유 보충제 (AGA 2023 conditional recommendation)
 * 200 ㎖ 이상의충분한 수분과 함께 복용; 충분한 수분 없이 복용 시 오히려 대변이 굳어지거나 식도 폐색 위험 증가
@@ -286,7 +286,7 @@ class D,F,H,J,L sky
 
 ### <mark style="color:orange;">연화제 (Stool softener)</mark>
 
-<mark style="color:$primary;">**Docusate sodium**</mark>&#x20;
+<mark style="color:$primary;">**Docusate sodium**</mark>
 
 * 대변에 수분을 침투시켜 연화
 * 단독 효과는 근거가 매우 제한적; 만성 변비의 표준 치료로 권고되지 않음 (복합제로 유통됨)
@@ -310,10 +310,10 @@ class D,F,H,J,L sky
 
 ### <mark style="color:orange;">장 운동 촉진제 - 5-HT4 agonist</mark>
 
-<mark style="color:$primary;">**Prucalopride**</mark>&#x20;
+<mark style="color:$primary;">**Prucalopride**</mark>
 
 * 선택적 5-HT4 수용체 작용제 → 장 연동 운동 정상화
-* &#x20;: OTC 약제 대체 또는 추가; 4\~24주 사용
+* : OTC 약제 대체 또는 추가; 4\~24주 사용
 * 용량 : 2 ㎎ qd 아침 식전; 고령(≥65세) 1 ㎎ qd
 * 보험 기준 : 만성 변비 환자로 다른 하제 치료에 반응하지 않은 경우 (☞ [소화기계 약제](073_.md#laxative))
 * 부작용 : 두통, 복통, 구역, 설사 (주로 치료 첫 1\~2일 발생 후 감소)
@@ -336,7 +336,7 @@ class D,F,H,J,L sky
 
 ### <mark style="color:orange;">PAMORA - Opioid 유발 변비 (OIC)</mark>
 
-* μ-opioid receptor peripheral antagonist(PAMORA)를 사용하여 중추 진통 효과에 영향 없이 말초 장관 내 opioid 수용체를 차단함으로써 Opioid-induced constipation(OIC)을 치료&#x20;
+* μ-opioid receptor peripheral antagonist(PAMORA)를 사용하여 중추 진통 효과에 영향 없이 말초 장관 내 opioid 수용체를 차단함으로써 Opioid-induced constipation(OIC)을 치료
 * naloxegol : 25 ㎎ qd 공복 (식전 1시간 또는 식후 2시간) <mark style="color:blue;">\[모벤틱]</mark>
   * 부작용 : 복통, 설사, 구역, 오한
   * 주의 : 강력한 CYP3A4 억제제(clarithromycin, itraconazole 등) 병용 시 12.5 ㎎/d로 감량
