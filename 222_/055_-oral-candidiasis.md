@@ -46,7 +46,7 @@
 * 흡입 스테로이드 (양치 불량) → Erythematous type (혀 등쪽 발적, 정중능형설염)
 * 틀니 (야간 착용, 불량 세정) → Denture stomatitis (위축형, 틀니 접촉 부위)
 * 철분/비타민 B2·B12 결핍, drooling → Angular cheilitis
-* 만성 흡연, 면역저하 → Hyperplastic form
+* 만성 흡연, 면역 저하 → Hyperplastic form
 
 ### <mark style="color:orange;">아구창 (Thrush)</mark>
 
@@ -60,12 +60,12 @@
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 연하통 (odynophagia) 또는 흉골 뒤 작열감·통증 → 식도 칸디다증
-* 면역저하자에서 발열 + invasive device (중심정맥관 등) 보유 → 침습성 칸디다증
-* 면역저하자(HIV, 항암 치료 중, 장기이식 수혜자)에서 급격히 악화되는 경우
+* 면역 저하자에서 발열 + invasive device (중심정맥관 등) 보유 → 침습성 칸디다증
+* 면역 저하자(HIV, 항암 치료 중, 장기이식 수혜자)에서 급격히 악화되는 경우
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 원인 불명의 면역저하 상태 의심
+* 원인 불명의 면역 저하 상태 의심
 * Hyperplastic form에서 항진균제 치료 2\~3주 후에도 병소 지속 → leukoplakia, 구강 암
 * 모유 수유 영아의 반복 아구창 + 수유 어머니 유두 감염 동반
 
@@ -98,7 +98,7 @@
 
 구강 백색 병소의 3대 감별 비교
 
-<table><thead><tr><th width="170">항목</th><th width="190">구강 칸디다증</th><th width="185">백반증 (Leukoplakia)</th><th>구강 편평 태선</th></tr></thead><tbody><tr><td><strong>거즈로 닦임?</strong></td><td>✅ 닦임 (thrush 한정)</td><td>❌ 안 닦임</td><td>❌ 안 닦임</td></tr><tr><td><strong>표면 모양</strong></td><td>Curd-like, 불균일; erythematous type은 발적만</td><td>균일한 흰 plaque</td><td>레이스형 Wickham 선조</td></tr><tr><td><strong>기저 점막</strong></td><td>닦으면 발적·점상출혈</td><td>변화 없음</td><td>홍반·미란 동반 가능</td></tr><tr><td><strong>통증</strong></td><td>±; erythematous type은 통증↑</td><td>대개 없음</td><td>작열감·통증 흔함</td></tr><tr><td><strong>주요 위험 인자</strong></td><td>항생제, steroid, DM, 면역저하</td><td>흡연, 음주</td><td>자가면역, 약물</td></tr><tr><td><strong>전암 가능성</strong></td><td>없음 (hyperplastic type에서 leukoplakia overlap 시 주의)</td><td>⚠️ 있음</td><td>⚠️ 일부 (특히 erosive)</td></tr><tr><td><strong>진단 방법</strong></td><td>임상 ± KOH</td><td>조직 생검 필요</td><td>조직 생검으로 확진</td></tr><tr><td><strong>치료 반응</strong></td><td>항진균제에 반응</td><td>반응 없음</td><td>스테로이드 반응</td></tr></tbody></table>
+<table><thead><tr><th width="170">항목</th><th width="190">구강 칸디다증</th><th width="185">백반증 (Leukoplakia)</th><th>구강 편평 태선</th></tr></thead><tbody><tr><td><strong>거즈로 닦임?</strong></td><td>✅ 닦임 (thrush 한정)</td><td>❌ 안 닦임</td><td>❌ 안 닦임</td></tr><tr><td><strong>표면 모양</strong></td><td>Curd-like, 불균일; erythematous type은 발적만</td><td>균일한 흰 plaque</td><td>레이스형 Wickham 선조</td></tr><tr><td><strong>기저 점막</strong></td><td>닦으면 발적·점상출혈</td><td>변화 없음</td><td>홍반·미란 동반 가능</td></tr><tr><td><strong>통증</strong></td><td>±; erythematous type은 통증↑</td><td>대개 없음</td><td>작열감·통증 흔함</td></tr><tr><td><strong>주요 위험 인자</strong></td><td>항생제, steroid, DM, 면역 저하</td><td>흡연, 음주</td><td>자가면역, 약물</td></tr><tr><td><strong>전암 가능성</strong></td><td>없음 (hyperplastic type에서 leukoplakia overlap 시 주의)</td><td>⚠️ 있음</td><td>⚠️ 일부 (특히 erosive)</td></tr><tr><td><strong>진단 방법</strong></td><td>임상 ± KOH</td><td>조직 생검 필요</td><td>조직 생검으로 확진</td></tr><tr><td><strong>치료 반응</strong></td><td>항진균제에 반응</td><td>반응 없음</td><td>스테로이드 반응</td></tr></tbody></table>
 
 ***
 
@@ -111,11 +111,11 @@ flowchart TD
     D -- 발적만, 위막 없음 --> H[Erythematous type 의심<br/>ICS 사용·틀니·정중능형설염 확인]
     D -- 구각 균열·삼출 --> G[Angular cheilitis]
     D -- 기타 --> Z[아프타·편평태선·기타 감별]
-    C --> I[면역저하 또는<br/>연하통·흉통?]
+    C --> I[면역 저하 또는<br/>연하통·흉통?]
     H --> I
     I -- 예 --> J[전신 항진균제<br/>식도 침범 평가<br/>내시경 고려 + 의뢰]
     I -- 아니오 --> K[자각 증상?]
-    K -- 아니오 --> L[면역저하자?]
+    K -- 아니오 --> L[면역 저하자?]
     L -- 예 --> M[무증상도 치료 고려]
     L -- 아니오 --> N[위험 인자 교정<br/>경과 관찰]
     K -- 예 --> O[중증?]
@@ -155,13 +155,13 @@ class G,H,Z,C,E pink
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 자각 증상이 없는 면역 정상 환자는 항진균제 불필요; 위험 인자 교정 우선
-  * 예외 : 면역저하자(HIV, 항암 치료 중, 장기이식 후)에서는 무증상이라도 식도 전파 위험이 높아 치료 고려
+  * 예외 : 면역 저하자(HIV, 항암 치료 중, 장기이식 후)에서는 무증상이라도 식도 전파 위험이 높아 치료 고려
 * 자각 증상이 있거나 악화 경향 시 국소 항진균제 1차 선택
-* 중등도 이상, 국소 치료 실패, 면역저하자 → 전신 항진균제
+* 중등도 이상, 국소 치료 실패, 면역 저하자 → 전신 항진균제
 
 #### <mark style="color:$primary;">국소 vs 전신 치료 선택 기준</mark>
 
-<table><thead><tr><th width="77"></th><th width="296">국소 항진균제 (1차)</th><th>전신 항진균제</th></tr></thead><tbody><tr><td><strong>대상</strong></td><td>경증~중등도, 면역 정상, 식도 증상 없음</td><td>중등도 이상, 면역저하, 연하통/흉통, 국소 치료 실패</td></tr><tr><td><strong>약제</strong></td><td>nystatin, miconazole, clotrimazole</td><td>fluconazole 100~200 ㎎/d</td></tr><tr><td><strong>기간</strong></td><td>7~14일</td><td>7~14일 (중증·면역저하자는 연장 고려)</td></tr></tbody></table>
+<table><thead><tr><th width="77"></th><th width="296">국소 항진균제 (1차)</th><th>전신 항진균제</th></tr></thead><tbody><tr><td><strong>대상</strong></td><td>경증~중등도, 면역 정상, 식도 증상 없음</td><td>중등도 이상, 면역 저하, 연하통/흉통, 국소 치료 실패</td></tr><tr><td><strong>약제</strong></td><td>nystatin, miconazole, clotrimazole</td><td>fluconazole 100~200 ㎎/d</td></tr><tr><td><strong>기간</strong></td><td>7~14일</td><td>7~14일 (중증·면역 저하자는 연장 고려)</td></tr></tbody></table>
 
 ### <mark style="color:orange;">재발성 구강 칸디다증 평가 (≥2회/년)</mark>
 
@@ -249,13 +249,13 @@ class G,H,Z,C,E pink
 
 ### <mark style="color:orange;">전신 항진균제</mark>
 
-* 적응증 : 중등도 이상, 국소 치료 반응 불량, 면역저하자, 식도 전파 우려
+* 적응증 : 중등도 이상, 국소 치료 반응 불량, 면역 저하자, 식도 전파 우려
 
 **Fluconazole**
 
 * 1차 선택제
 * fluconazole : 100\~200 ㎎ PO 또는 IV qd ×7\~14d <mark style="color:blue;">\[푸루나졸]</mark>
-  * 중증 또는 면역저하자 : 최대 400 ㎎/d 고려 (IDSA 2016)
+  * 중증 또는 면역 저하자 : 최대 400 ㎎/d 고려 (IDSA 2016)
 
 > **보험 기준 vs 권장 용량 차이 주의** : 보험 인정 기준은 50 ㎎/d이지만 IDSA 권장 용량(100\~200 ㎎/d)과 괴리가 있음. 실제 처방 시 삭감 사례가 발생할 수 있으므로, 처방 전 HIRA 최신 고시를 확인하고 진료 기록에 중증도 및 면역 상태를 명시할 것을 권장.
 
@@ -268,7 +268,7 @@ class G,H,Z,C,E pink
 * 식도 칸디다증에도 효과적 (IDSA 2016)
 
 {% hint style="info" %}
-_**Candida auris**_ : 글로벌 이슈가 되는 다제내성 _Candid&#x61;_&#xB85C;, 주로 혈류 감염을 일으킴. 구강에서 검출될 수 있으나 1차 진료에서 접할 가능성은 극히 낮음. 표준 항진균제에 광범위 내성 가능 → 면역저하 입원 환자의 반복 감염·치료 불응 시 감염내과에 균종 확인 의뢰.
+_**Candida auris**_ : 글로벌 이슈가 되는 다제내성 _Candid&#x61;_&#xB85C;, 주로 혈류 감염을 일으킴. 구강에서 검출될 수 있으나 1차 진료에서 접할 가능성은 극히 낮음. 표준 항진균제에 광범위 내성 가능 → 면역 저하 입원 환자의 반복 감염·치료 불응 시 감염내과에 균종 확인 의뢰.
 {% endhint %}
 
 ***
@@ -311,7 +311,7 @@ B37.0 칸디다구내염
 > Fluconazole 100 ㎎   1정   qd ×7~14d
 > ```
 >
-> _✽ 반응 불량 시 200 ㎎/d로 증량; 면역저하자·중증에서는 최대 400 ㎎/d 고려 (IDSA 2016). 보험기준 50 ㎎/d와 권장 용량 사이 괴리 있음 — 삭감 방지를 위해 진료 기록에 중증도·면역 상태 명시 권장. 치료 실패 시 내성 Candida 배양·감수성 검사 후 감염내과 협진._
+> _✽ 반응 불량 시 200 ㎎/d로 증량; 면역 저하자·중증에서는 최대 400 ㎎/d 고려 (IDSA 2016). 보험기준 50 ㎎/d와 권장 용량 사이 괴리 있음 — 삭감 방지를 위해 진료 기록에 중증도·면역 상태 명시 권장. 치료 실패 시 내성 Candida 배양·감수성 검사 후 감염내과 협진._
 
 ***
 

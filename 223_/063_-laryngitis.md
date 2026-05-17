@@ -8,7 +8,7 @@
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* 감염 : 바이러스(대부분; URI 관련), 세균(드묾), 진균(면역저하자·흡입 스테로이드 사용자)
+* 감염 : 바이러스(대부분; URI 관련), 세균(드묾), 진균(면역 저하자·흡입 스테로이드 사용자)
 * 자극 : 공기 건조, 오염된 공기, 흡연, 흡인, GERD/인후두역류(LPR), 알레르겐, 후비루, 성대 과사용, 외상, 흡입 스테로이드(ICS)
 
 <table><thead><tr><th width="79">구분</th><th>주요 위험 인자</th></tr></thead><tbody><tr><td>급성</td><td>상기도 감염(바이러스), 외상(기도 삽관), 성대 과사용(말하기·노래·소리 지르기), 기침, 면역 저하</td></tr><tr><td>만성</td><td>알레르기, 만성 비부비동염, voice abuse(교사·텔레마케터·가수), GERD/LPR, 흡연, 알코올 남용, ICS 사용, RA, sarcoidosis, 뇌졸중, 환경오염, 약물(항콜린제·항히스타민제·ACEI)</td></tr></tbody></table>
@@ -39,7 +39,7 @@
 * 심한 연하곤란(삼킴곤란) 동반
 * 경부 종괴 또는 압통 동반
 * 쉰 목소리와 동반된 객혈(hemoptysis) → 후두암·하기도 병변
-* 면역저하자에서 치료에 반응 없는 후두염
+* 면역 저하자에서 치료에 반응 없는 후두염
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
@@ -134,7 +134,7 @@ style V fill:#d0e8ff,stroke:#1a6abf
 * 통증·기침·콧물 : 대증 치료 (☞ [인후통](061_-acute-pharyngitis.md#undefined-14), [기침](../220_/006_-cough.md#management), [감기](060_-common-cold.md#management))
 * 항생제 : 후두염 단독으로는 원칙적으로 불필요
   * 항생제 적용 대상 : 인두염(편도염)이 동반되고 [Centor/McIsaac](061_-acute-pharyngitis.md#centor-score-modified-mcisaac) score ≥3점 + RAT 양성 - amoxicillin 500 ㎎ bid × 10일 고려 <mark style="color:blue;">\[파목신]</mark>; RAT 음성이라도 임상적으로 강하게 의심되면 처방 가능
-* 항진균제 : 진균성 후두염 의심 시(ICS 사용자·면역저하자) fluconazole 100\~200 ㎎ qd × 14일 <mark style="color:blue;">\[푸루나졸]</mark>
+* 항진균제 : 진균성 후두염 의심 시(ICS 사용자·면역 저하자) fluconazole 100\~200 ㎎ qd × 14일 <mark style="color:blue;">\[푸루나졸]</mark>
 * 스테로이드 : 일반 환자에서는 routine 권고하지 않음
   * 스테로이드 적용 대상 - 다음 조건을 충족 시에만 고려
     * Professional voice user (성악가·아나운서·강사 등)

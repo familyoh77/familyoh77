@@ -392,12 +392,12 @@ class M,O,K blue
 ### <mark style="color:orange;">헤르페스 잇몸구내염</mark>
 
 * 대부분의 성인에서는 증상이 가볍고 짧은 경과로 중재가 필요하지 않음
-* 면역저하자에서는 증상이 심하고 빈번하게 재발할 수 있음
+* 면역 저하자에서는 증상이 심하고 빈번하게 재발할 수 있음
 * 활동성 HSV 병변에서 항바이러스제 없이 steroid 단독 사용 금지 : 항바이러스제 병용 상황에서의 steroid는 specialist 판단에 따름
 
 #### <mark style="color:$primary;">항바이러스제</mark>
 
-* 가장 효과적인 시점은 tingling/burning prodrome 단계; 48시간 이내 투여 시 효과 극대화. ulcer 진행 이후에는 효과 감소하나, 중증 초감염 또는 면역저하자에서는 늦더라도 투여 고려
+* 가장 효과적인 시점은 tingling/burning prodrome 단계; 48시간 이내 투여 시 효과 극대화. ulcer 진행 이후에는 효과 감소하나, 중증 초감염 또는 면역 저하자에서는 늦더라도 투여 고려
 * 초감염(특히 소아 중증) : acyclovir 15 ㎎/㎏ (최대 200 ㎎) 5회/일 × 7일
 * 성인 재발성 구순 포진 : acyclovir 400 ㎎ tid × 5일, 또는 valacyclovir 2 g bid × 1일(단기 고용량)
 * 면역 저하자에서 심한 경우 : 정주용 acyclovir 고려, 전문의 의뢰

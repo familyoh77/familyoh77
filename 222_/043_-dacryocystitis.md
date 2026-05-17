@@ -4,7 +4,7 @@
 
 * nasolacrimal system의 선천적 또는 후천적 폐쇄에 기인한 lacrimal sac의 감염; 보통 2차적 세균 감염으로 발생
 * 주요 원인균 : _S. aureus_ (가장 흔함), _S. epidermidis_, _S. pneumoniae_, _S. pyogenes_, _S. viridans_, _P. aeruginosa_, _E. coli_
-  * MRSA : 지역 및 의료환경에 따라 비율이 다양함; 보존적 치료 실패 또는 위험군(당뇨·면역저하)에서 반드시 고려
+  * MRSA : 지역 및 의료환경에 따라 비율이 다양함; 보존적 치료 실패 또는 위험군(당뇨·면역 저하)에서 반드시 고려
 * 영아 및 >40세에서 호발, 여성에서 3:1 비율로 더 흔함(비루관 직경이 남성보다 좁기 때문), 보통 편측 발생
 * 위험 인자 : 여성·고령(누점 협착), 누석(dacryolith), 비중격만곡·비염·비갑개 비대, 안면 외상 또는 비내시경 수술 과거력, 당뇨 등 면역 저하 상태, Wegener 육아종증·사르코이드증·SLE 등 전신 질환, 일부 약물(5-FU, docetaxel, 방사성 요오드 등)
 
@@ -20,7 +20,7 @@
 
 * 누낭 부위 파동성 종괴(fluctuant mass) → 농양 형성 → 절개 배농 또는 수술 고려
 * 48\~72시간 경구 항생제 치료에도 호전 없는 경우 (MRSA 가능성 포함)
-* 당뇨·면역저하 환자에서 발생한 누낭염 (급격한 악화 및 안와 봉와직염 진행 위험이 높음)
+* 당뇨·면역 저하 환자에서 발생한 누낭염 (급격한 악화 및 안와 봉와직염 진행 위험이 높음)
 * 누낭염 재발
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
@@ -119,7 +119,7 @@ graph TD
 
 <p align="center"><strong>누낭염 관리 알고리듬</strong></p>
 
-<p align="center"><em>amox/clav 불가 시 → cefpodoxime → levofloxacin 순으로 대체</em><br><em>농양 형성(fluctuant mass) 확인 시 즉시 의뢰 (절개 배농)</em><br><em>당뇨·면역저하 환자는 악화 속도가 빠르므로 48시간 이내 재평가 권장</em></p>
+<p align="center"><em>amox/clav 불가 시 → cefpodoxime → levofloxacin 순으로 대체</em><br><em>농양 형성(fluctuant mass) 확인 시 즉시 의뢰 (절개 배농)</em><br><em>당뇨·면역 저하 환자는 악화 속도가 빠르므로 48시간 이내 재평가 권장</em></p>
 
 ***
 

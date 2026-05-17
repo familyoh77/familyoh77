@@ -110,7 +110,7 @@ graph TD
     A([편도 주위 농양 의심<br/>고열·편측 인후통·개구 장애·침흘림·hot potato voice]) --> B[고위험 기도?<br/>또는 심부 확산 징후?]
     B -- 있음 --> C[즉시 응급 이송<br/>기도 확보 준비]
     B -- 없음 --> D[<u>Classic Triad?</u><br/>편측 인후통+trismus<br/>+uvula deviation]
-    D -- 전형적 --> G[Needle aspiration<br/>배농 시도<br/>재발·면역저하·치료실패 시 
+    D -- 전형적 --> G[Needle aspiration<br/>배농 시도<br/>재발·면역 저하·치료실패 시 
     배양 검사]
     D -- 비전형적 --> E[Intraoral US 우선<br/>농양 cavity 확인]
     E -- 농양 확인 --> G

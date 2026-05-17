@@ -290,7 +290,7 @@ _1) 이루, 아파 보임, >48시간 이통 지속, 이전 48시간에 ≥39℃(
 * 부적절한 증상 회복
 * 지속되는 화농성 콧물 동반
 * 항생제 투여 중 AOM 발생
-* 면역저하자
+* 면역 저하자
 * 이전 중이염 감염 시 중증 또는 합병증 발생
 * cefdinir : 14 ㎎/㎏/d #1\~2 <mark style="color:blue;">\[옴니세프]</mark>
 * cefpodoxime : 10 ㎎/㎏/d #2 <mark style="color:blue;">\[바난]</mark>
@@ -377,7 +377,7 @@ B -->|No| C[6개월 미만인가?]
 C -->|Yes| ABX
 C -->|No| D[고막 천공 또는 <br/>이루가 있는가?]
 D -->|Yes| ABX
-D -->|No| E[면역저하/기저질환/<br/>와우이식/<br/> craniofacial anomaly?]
+D -->|No| E[면역 저하/기저질환/<br/>와우이식/<br/> craniofacial anomaly?]
 E -->|Yes| ABX
 E -->|No| F[6~23개월 + 양측 AOM인가?]
 F -->|Yes| ABX
