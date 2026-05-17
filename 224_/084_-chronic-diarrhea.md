@@ -193,6 +193,8 @@ style Phenotype fill:#d5f5e3,stroke:#27ae60
 
 ```
 
+***
+
 ```mermaid
 graph TD
     Phenotype(["변 양상"]) --> A["지방변·체중감소"] --> Malabs["흡수 장애 검사<br/>fecal elastase · fecal fat<br/>anti-tTG IgA · H2 breath test"]
