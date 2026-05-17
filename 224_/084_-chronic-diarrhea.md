@@ -181,13 +181,15 @@
 ```mermaid
 graph TD
     Start(["만성 설사<br/>≥3회/d, ≥4주"])
-    Start --> RF{"🚩 경고 징후?<br/>(혈변·체중감소·야간설사<br/>발열·50세↑ 신규 발생)"}
-
+    Start --> RF["경고 징후?<br/>(혈변·체중감소·야간설사<br/>발열·50세↑ 신규 발생)"]
     RF -- "있음" --> Scope["대장 내시경 + 조직검사<br/>CT enterography<br/>혈액·대변 검사"]
     RF -- "없음" --> Phenotype(["변 양상 분류"])
     Scope --> OrgDx["IBD, Microscopic colitis<br/>대장암, 감염성"]
-    
-        style Phenotype fill:#d5f5e3,stroke:#27ae60
+
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+style RF fill:#fff9c4,stroke:#ffe082
+style OrgDx fill:#fde8f0,stroke:#e91e8c
+style Phenotype fill:#d5f5e3,stroke:#27ae60
 
 ```
 
@@ -196,16 +198,11 @@ graph TD
     Phenotype(["변 양상"]) --> A["지방변·체중감소"] --> Malabs["흡수 장애 검사<br/>fecal elastase · fecal fat<br/>anti-tTG IgA · H2 breath test"]
     Phenotype --> B["수양성·야간 지속"] --> WateryDD["대변 calprotectin<br/>+ 전해질/삼투압"]
     Phenotype --> C["식후 악화·가스·복통 없음"] --> OsmoDD["음식 일기<br/>lactose/FODMAP 제한 시도"]
-
     OsmoDD --> OsmoResult["2~4주 제한 후"]
-
     OsmoResult -- "호전 없음" --> WateryDD
-
     Malabs --> MalabsDx["셀리악병, SIBO<br/>췌장 외분비 부전"]
-
-    WateryDD --> CalProt["Fecal<br/>calprotectin"]
-    CalProt -- "↑↑ (>250)" --> IBDRef["소화기내과 의뢰<br/>내시경 + 무작위 생검"]
-    CalProt -- "정상~Borderline<br/>(≤250)" --> OsmoGap["Osmotic gap<br/>290-2x(Na+K) mOsm/kg"]
+    WateryDD -- "Fecal calprotectin↑(>250)" --> IBDRef["의뢰<br/>내시경 + 무작위 생검"]
+    WateryDD -- "Fecal calprotectin <br/>정상~Borderline (≤250)" ---> OsmoGap["Osmotic gap<br/>290-2x(Na+K) mOsm/kg"]
     OsmoGap -- "<50 (분비성)" ---> BAMFirst["BAM 우선 평가<br/>담낭절제술 병력?<br/>야간 수양성 설사?"]
     BAMFirst -- "BAM 의심" --> CholTrial["Cholestyramine<br/>empiric trial"]
     BAMFirst -- "기능성 의심" --> Functional["IBS-D / Functional diarrhea<br/>복통 → IBS-D<br/>복통 없음 → FD"]
@@ -214,13 +211,18 @@ graph TD
     OsmoResult -- "호전" --> OsmoDx["탄수화물 불내성<br/>(유당·과당·FODMAP)"]
     OsmoGap -- ">100 (삼투압성)" --> OsmoDx
     
-    style Phenotype fill:#d5f5e3,stroke:#27ae60
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class OsmoResult,CalProt,OsmoGap yellow
-    classDef white fill:#fff,stroke:#333
-    class A,B,C white
 
-
+style Phenotype fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class MalabsDx,OsmoDx,MixedEval,CholTrial,Functional blue
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class IBDRef pink
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class Secretory2,Malabs,WateryDD lightGreen
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class OsmoDD sky
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class OsmoResult,OsmoGap,BAMFirst yellow
 ```
 
 <p align="center"><strong>만성 설사 진단 알고리듬</strong></p>
