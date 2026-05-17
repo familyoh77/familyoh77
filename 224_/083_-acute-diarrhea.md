@@ -2,61 +2,56 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 정의 : 배변 횟수 ≥3회/일 또는 대변량 >200 g/일 _(성인 기준)_ 의 액상·무른 변이 ≤14일 지속
-  * 횟수보다 \*\*대변 형태(묽기)\*\*가 더 중요; 단단한 성형변(formed stool)의 단순 빈도 증가는 설사로 정의하지 않음
-  * ※ 전통적으로 ≤14일을 급성 설사로 정의하나, 최근 일부 문헌에서는 14\~30일을 prolonged/persistent diarrhea로 별도 분류하기도 함 (용어 혼재 주의)
-* 부위와 대변량 : 소장 병변 → 대량·수양성 설사; 대장 병변 → 소량·혈액·점액 혼재
+* 정의 : 배변 횟수 ≥3회/일 또는 대변량 >200 g/일(성인 기준)의 액상·무른 변이 ≤14일 지속
+  * 횟수보다 대변 형태(묽기)가 더 중요; 단단한 성형변(formed stool)의 단순 빈도 증가는 설사로 정의하지 않음
+  * 전통적으로 ≤14일을 급성 설사로 정의하나, 최근 일부 문헌에서는 14\~30일을 prolonged/persistent diarrhea로 별도 분류하기도 함
+* 부위와 대변량 : 소장 병변 → 대량, 수양성 설사; 대장 병변 → 소량, 혈액, 점액 혼재
 * 경과 : 대부분 수일 내 자연 회복; ≥14일 지속 시 지속성·만성 설사 평가 (☞ [만성 설사](084_-chronic-diarrhea.md))
 
 ### <mark style="color:orange;">임상적 분류</mark>
 
 <table><thead><tr><th width="210">분류</th><th width="230">기간·특징</th><th>주요 위험</th></tr></thead><tbody><tr><td>급성 물 설사</td><td>&#x3C;14일, 수양성</td><td>탈수</td></tr><tr><td>급성 혈성 설사</td><td>&#x3C;14일, 혈변·농변 동반</td><td>탈수, 패혈증</td></tr><tr><td>지속적 설사 (prolonged)</td><td>14~30일</td><td>탈수, 영양실조</td></tr><tr><td>영양실조 동반 설사</td><td>소모성 기저질환, 면역저하</td><td>탈수, 심부전, 전신 감염</td></tr></tbody></table>
 
-***
-
 ## <mark style="color:green;">원인</mark>
 
-<table><thead><tr><th width="190">기전</th><th width="260">주요 원인</th><th>임상 특징</th></tr></thead><tbody><tr><td><strong>삼투압 설사</strong></td><td>유당 불내성, 흡수불량 음식 성분, 삼투성 하제 과용</td><td>소량; 금식하면 감소</td></tr><tr><td><strong>분비 설사</strong></td><td>위장관 감염, <em>C. difficile</em>, 담즙산·지방산 자극</td><td>대량 수양성; 금식해도 지속; 정상 삼투압; 혈변(−)</td></tr><tr><td><strong>염증성 설사</strong></td><td><em>Salmonella, Shigella, Campylobacter, E. coli</em> (EIEC/STEC), <em>E. histolytica</em></td><td>소량; 혈변·농변; 발열</td></tr><tr><td><strong>운동 이상</strong></td><td>과민대장증후군, 세균 과증식, 갑상선 이상, 장 외 감염 (중이염·폐렴·요로 감염)</td><td>소량~중등량 무른 변</td></tr><tr><td><strong>비감염성</strong></td><td>약물 (항생제, Mg제제, PPI, metformin), 음식 알레르기, IBD</td><td>약물력·기저질환 확인이 핵심</td></tr></tbody></table>
+<table><thead><tr><th width="126">기전</th><th>주요 원인</th><th>임상 특징</th></tr></thead><tbody><tr><td><strong>삼투압 설사</strong></td><td>유당 불내성, 흡수불량 음식 성분, 삼투성 하제 과용</td><td>소량; 금식하면 감소</td></tr><tr><td><strong>분비 설사</strong></td><td>위장관 감염, <em>C. difficile</em>, 담즙산·지방산 자극</td><td>대량 수양성; 금식해도 지속; 정상 삼투압; 혈변(−)</td></tr><tr><td><strong>염증성 설사</strong></td><td><em>Salmonella, Shigella, Campylobacter, E. coli</em> (EIEC/STEC), <em>E. histolytica</em></td><td>소량; 혈변·농변; 발열</td></tr><tr><td><strong>운동 이상</strong></td><td>과민대장증후군, 세균 과증식, 갑상선 이상, 장 외 감염 (중이염·폐렴·요로 감염)</td><td>소량~중등량 무른 변</td></tr><tr><td><strong>비감염성</strong></td><td>약물 (항생제, Mg제제, PPI, metformin), 음식 알레르기, IBD</td><td>약물력·기저질환 확인이 핵심</td></tr></tbody></table>
 
-{% hint style="info" %}
-**감염성 설사의 주요 원인균**: 성인에서는 **노로바이러스**가 가장 흔함(급성 위장관염의 약 50%). 영아에서는 **로타바이러스**가 주요 원인. 세균성 원인(중증)은 _Campylobacter_, _Salmonella_, _Shigella_, STEC 순.
-{% endhint %}
+* 감염성 설사의 주요 원인균 : 성인 - 노로바이러스(급성 위장관염의 약 50%). 영아 - 로타바이러스; 세균성 원인(중증)은 _Campylobacter_, _Salmonella_, _Shigella_, STEC 순
 
 #### <mark style="color:$primary;">항생제 관련 설사 (Antibiotic-associated diarrhea, AAD)</mark>
 
-* **기전** : 항생제 → 정상 장내 세균총 파괴 → 탄수화물 발효 이상 → 장관 내 삼투압·산도 변화
-  * 항생제 투여 **1일\~2개월** 후 발생; 성인 항생제 사용자의 약 10\~25%에서 발생 (소아에서는 발생률이 상대적으로 낮음)
-  * 약 \*\*20%\*\*는 _Clostridioides difficile_ 감염(CDI)에 의함
-  * **PPI 병용**이 CDI 위험을 상대위험도(RR) 약 1.65배 증가 (최신 메타분석 기준)
-* **증상** : 경미한 설사, 복통·복부 산통, 발열
-* **치료** : 원인 항생제 즉시 중단
+* 기전 : 항생제 → 정상 장내 세균총 파괴 → 탄수화물 발효 이상 → 장관 내 삼투압·산도 변화
+  * 항생제 투여 1일\~2개월 후 발생; 성인 항생제 사용자의 약 10\~25%에서 발생 (소아에서는 발생률이 상대적으로 낮음)
+  * 약 20%는 _Clostridioides difficile_ infection(CDI)에 의함
+  * PPI 병용 시 CDI 상대위험도(RR) 약 1.65배 증가
+* 증상 : 경미한 설사, 복통·복부 산통, 발열
+* 치료 : 원인 항생제 즉시 중단
 
-#### <mark style="color:$primary;">CDI 중증도별 치료</mark>
+**CDI 중증도별 치료**
 
-<table><thead><tr><th width="160">중증도</th><th width="230">기준</th><th>치료</th></tr></thead><tbody><tr><td><strong>비중증</strong></td><td>WBC &#x3C;15,000/㎕, Cr 상승 &#x3C;1.5배</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[반코마이신캡슐]</mark><br>또는 fidaxomicin 200 ㎎ bid × 10일 <mark style="color:blue;">[딥세시아정]</mark></td></tr><tr><td><strong>중증</strong></td><td>WBC ≥15,000/㎕ 또는 Cr ≥1.5배 상승</td><td>vancomycin 경구 125 ㎎ qid × 10일 (비중증과 동일 초기 용량)</td></tr><tr><td><strong>전격성</strong></td><td>저혈압·쇼크·장폐색·복막염</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 입원 및 외과 협진</td></tr></tbody></table>
+<table><thead><tr><th width="86">중증도</th><th width="230">기준</th><th>치료</th></tr></thead><tbody><tr><td>비중증</td><td>WBC &#x3C;15,000/㎕ &#x26; <br>Cr 상승 &#x3C;1.5배</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[반코마이신캡슐]</mark><br>또는 fidaxomicin 200 ㎎ bid × 10일 <mark style="color:blue;">[딥세시아정]</mark></td></tr><tr><td>중증</td><td>WBC ≥15,000/㎕ or <br>Cr ≥1.5배 상승</td><td>vancomycin 경구 125 ㎎ qid × 10일 (비중증과 동일 초기 용량)</td></tr><tr><td>전격성</td><td>저혈압, 쇼크, 장폐색, 복막염</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 입원 및 외과 협진</td></tr></tbody></table>
 
-* ※ metronidazole은 더 이상 CDI 1차 치료제로 권고되지 않음; 전격성 CDI에서 IV 보조 요법으로만 사용
+* metronidazole은 더 이상 CDI 1차 치료제로 권고되지 않음; 전격성 CDI에서 IV 보조 요법으로만 사용
 * 치료 후 재발률 10\~20%; 재발 시 감염내과 협진
 
 {% hint style="danger" %}
-⚠️ **CDI 치료 지침 개정 (ACG 2021 / IDSA·SHEA 2021)**: 현재 지침에서는 **비중증·중증 모두 vancomycin 또는 fidaxomicin을 1차 선택**. Metronidazole은 치료 실패율이 높아 전격성 CDI의 보조 IV 요법 외에는 권고되지 않음.\
-**CDI 진단 시 중요 원칙**: ① NAAT(PCR) 단독 양성은 무증상 보균도 검출 가능 → 반드시 임상 증상과 함께 해석 (colonization vs. infection 구분); ② **성형변(formed stool)은 CDI 검사 대상이 아님** → 설사가 있는 환자에서만 검사 시행.
-{% endhint %}
+**CDI 치료 지침 개정** (ACG 2021 / IDSA·SHEA 2021) : 현재 지침에서는 비중증·중증 모두 vancomycin 또는 fidaxomicin을 1차 선택. Metronidazole은 치료 실패율이 높아 전격성 CDI의 보조 IV 요법 외에는 권고되지 않음
 
-***
+**CDI 진단 시 중요 원칙** : ⓵ NAAT(PCR) 단독 양성은 무증상 보균도 검출 가능 → 반드시 임상 증상과 함께 해석 (colonization vs. infection 구분); ⓶ 성형변(formed stool)은 CDI 검사 대상이 아님 → 설사가 있는 환자에서만 검사 시행
+{% endhint %}
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* **비염증성 (수양성)** : 발열·혈변 없음; 대부분 5일 내 회복; 바이러스·비침습성 세균 원인
-* **염증성 (혈성·점액성)** : 혈변·농변·발열; 침습성·독소 생성 세균 원인; 장 점막 파괴 동반
+* 비염증성 (수양성) : 발열·혈변 없음; 대부분 5일 내 회복; 바이러스·비침습성 세균 원인
+* 염증성 (혈성·점액성) : 혈변·농변·발열; 침습성·독소 생성 세균 원인; 장 점막 파괴 동반
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* 중등증\~중증 탈수 (처짐·의식 변화·빈맥·저혈압·말초 청색증)
+* 중등증\~중증 탈수 - 처짐·의식 변화·빈맥·저혈압·말초 청색증
 * 지속적 구토로 경구 수액 요법 불가
-* 면역저하 환자 + 전신 독성 징후 (고열, 패혈증 의심)
+* 면역저하 환자 + 전신 독성 징후 (고열, 패혈증 의심 징후)
 * 혈변 + 고열 + 전신 독성 동반 (세균혈증·독소 매개 장염 의심)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
@@ -71,64 +66,61 @@
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 2\~3일 후에도 호전되지 않는 경증 설사
-* 고령(>65세), 만성 기저질환 (당뇨·심부전·**만성 신질환 CKD** - 탈수 시 AKI 위험 높음)
+* 고령(>65세), 만성 기저질환 (당뇨·심부전·만성 신질환 CKD - 탈수 시 AKI 위험 높음)
 * 최근 항생제 사용력 (CDI 위험 모니터링)
 * 설명할 수 없는 체중 감소
 * 만성 설사(≥4주)로 진행 (☞ [만성 설사](084_-chronic-diarrhea.md))
 * 가정에서 관리·추적이 어려운 경우
 
-***
-
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">탈수 평가</mark>
 
-<table><thead><tr><th width="150">중증도</th><th>임상 소견</th></tr></thead><tbody><tr><td><strong>경증</strong></td><td>갈증, 구강 건조, 겨드랑이 땀 감소, 소변량 감소, 약간의 체중 감소</td></tr><tr><td><strong>중등증</strong></td><td>기립성 저혈압, 피부 장력 저하 (피부 텐트 현상), 함몰 안구, <strong>모세혈관 재충혈 시간(CRT) >2초</strong></td></tr><tr><td><strong>중증</strong></td><td>처짐, 둔한 반응, 약한 맥박, 저혈압, 말초 청색증, 쇼크</td></tr></tbody></table>
+* 경증 : 갈증, 구강 건조, 겨드랑이 땀 감소, 소변량 감소, 약간의 체중 감소
+* 중등증 : 기립성 저혈압, 피부 장력 저하 (피부 텐트 현상), 함몰 안구, 모세혈관 재충혈 시간(CRT) >2초
+* 중증 : 처짐, 둔한 반응, 약한 맥박, 저혈압, 말초 청색증, 쇼크
 
 #### <mark style="color:$primary;">임상 탈수 척도 (Clinical Dehydration Scale, CDS)</mark>
 
-<table><thead><tr><th width="190">평가 항목</th><th width="150">0점</th><th width="200">1점</th><th>2점</th></tr></thead><tbody><tr><td>전체적인 모습</td><td>정상</td><td>갈증·불안정·처짐 (자극 시 반응)</td><td>늘어짐·차가움·식은땀·혼수</td></tr><tr><td>눈</td><td>정상</td><td>약간 함몰</td><td>깊이 함몰</td></tr><tr><td>구강 점막</td><td>촉촉</td><td>끈적거림</td><td>건조</td></tr><tr><td>눈물</td><td>있음</td><td>감소</td><td>안 나옴</td></tr></tbody></table>
+<table><thead><tr><th width="128">평가 항목</th><th width="103">0점</th><th width="246">1점</th><th>2점</th></tr></thead><tbody><tr><td>전체적인 모습</td><td>정상</td><td>갈증·불안정·처짐 (자극 시 반응)</td><td>늘어짐·차가움·식은땀·혼수</td></tr><tr><td>눈</td><td>정상</td><td>약간 함몰</td><td>깊이 함몰</td></tr><tr><td>구강 점막</td><td>촉촉</td><td>끈적거림</td><td>건조</td></tr><tr><td>눈물</td><td>있음</td><td>감소</td><td>안 나옴</td></tr></tbody></table>
 
-판정 : 0점 = 탈수 없음 / 1~~4점 = 경증 탈수 / \*\*5~~8점 = 중등증\~중증 탈수 → 정맥 수액 요법(IV hydration) 강력 권장\*\*
+* 판정 : 0점=탈수 없음, 1\~4점=경증 탈수, 5\~8점=중등증\~중증 탈수
+* 중등증 이상탈수 시 정맥 수액 요법(IV hydration) 시행
 
 ### <mark style="color:orange;">검사</mark>
 
-* **경증 탈수·급성 분비성 설사** : 검사 결과 대부분 정상; **별도 검사 불필요**
-  * ※ 단, **고령이나 만성 신질환(CKD)·당뇨 등 기저질환자**에서는 경증이라도 기본 혈액 검사 고려
-* **중등증 이상 탈수 또는 >7일 지속** : 혈당, 전해질, BUN/Cr, U/A
-* **경고 징후 (혈변·고열·전신 독성)** : 대변 배양 검사, CBC, CRP 고려
-  * CDI 의심 시 → 대변 _C. difficile_ **독소 검사 + NAAT(PCR)**; 단, **성형변은 검사 대상 아님** - 반드시 설사가 있는 환자에서만 시행; NAAT 단독 양성은 임상 증상과 함께 해석
+* 경증 탈수, 급성 분비성 설사 : 검사 결과 대부분 정상; 별도 검사 불필요
+  * 단, 고령이나 만성 신질환(CKD)·당뇨 등 기저질환자에서는 경증이라도 기본 혈액 검사 고려
+* 중등증 이상 탈수 또는 >7일 지속 : 혈당, 전해질, BUN/Cr, U/A
+* 경고 징후 (혈변·고열·전신 독성) : 대변 배양 검사, CBC, CRP 고려
+  * CDI 의심 시 → 대변 _C. difficile_ 독소 검사 + NAAT(PCR); 단, 설사가 있는 환자에서만 시행(formal stool은 검사 대상 아님 ); NAAT 단독 양성 시 임상 증상과 함께 해석
 
-#### <mark style="color:$primary;">다중 분자 진단 검사 (Multiplex stool PCR panel)</mark>
+**다중 분자 진단 검사 (Multiplex stool PCR panel)**
 
-* 세균·바이러스·원충을 동시에 검출 → 민감도 높고 결과 빠름 (배양보다 수 시간 내)
-* **적응** : 중증 설사, 면역저하 환자, 입원 환자, 집단 발생 조사
-* **주의** : 민감도는 높으나 **특이도가 낮아 과잉진단 위험**이 있음; 무증상 보균도 양성으로 나올 수 있어 **임상 증상과 반드시 통합 해석**
-* 경증 자한성(자기제한적, self-limiting) 설사에서는 routine 검사로 권고되지 않음
+* 세균·바이러스·원충을 동시에 검출; 민감도 높고 결과 빠름 (배양보다 수 시간 내)
+* 적응 : 중증 설사, 면역저하 환자, 입원 환자, 집단 발생 조사
+* 주의 : 민감도는 높으나 특이도가 낮아 과잉 진단 위험이 있음; 무증상 보균도 양성으로 나올 수 있어 임상 증상과 반드시 통합 해석
+* 경증 자한성(자기 제한적, self-limiting) 설사에서는 routine 검사로 권고하지 않음
 
-### <mark style="color:orange;">감별 진단</mark>
+**분변 칼프로텍틴(Fecal calprotectin)**
+
+* 장 점막 염증의 비침습적 마커; 급성 설사와 IBD(염증성 장질환)의 감별이 필요할 때 보조적으로 활용 가능
+* 양성 시 대장내시경 등 추가 평가 고려
+
+### <mark style="color:orange;">감별</mark>
 
 #### <mark style="color:$primary;">설사와 감별해야 할 상태</mark>
 
-* **가성 설사 (pseudodiarrhea)** : 소량의 변을 자주 배출; 과민대장증후군, 직장염 관련
-* **변실금 (fecal incontinence)** : 직장 내용물의 불수의적 배출; 신경 근육 질환, 구조적 항문직장 문제
-* **범람 설사 (overflow diarrhea)** : 소량의 물 설사; 분변 매복(fecal impaction) 관련 → **직장 수지 검사(DRE)** 로 진단
-
-{% hint style="info" %}
-**범람 설사 - 노인 환자 주의**: 노인에서 갑자기 발생한 소량의 물 설사는 분변 매복을 원인으로 하는 범람 설사일 수 있음. 진단하지 못하면 불필요한 지사제 투여로 악화 가능. 직장 수지 검사(DRE)로 쉽게 진단 가능하며, 분변 제거 후 즉각 호전됨.
-{% endhint %}
+* 가성 설사 (pseudodiarrhea) : 소량의 변을 자주 배출; 과민대장증후군, 직장염 관련
+* 변실금 (fecal incontinence) : 직장 내용물의 불수의적 배출; 신경 근육 질환, 구조적 항문직장 문제
+* 범람 설사 (overflow diarrhea) : 소량의 물 설사; 분변 매복(fecal impaction) 관련 → 직장 수지 검사(DRE) 로 진단
+  * 범람 설사 - 노인 환자 주의 : 노인에서 갑자기 발생한 소량의 물 설사는 분변 매복을 원인으로 하는 범람 설사일 수 있음. 진단하지 못하면 불필요한 지사제 투여로 악화 가능. 직장 수지 검사(DRE)로 쉽게 진단 가능하며, 분변 제거 후 즉각 호전됨
 
 #### <mark style="color:$primary;">증상·병력에 따른 원인 감별</mark>
 
-<table><thead><tr><th width="240">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력 (개발도상국)</td><td>여행자 설사 (ETEC, Campylobacter, Shigella, 원충) (☞ <a href="086_-travelers-diarrhea.md">여행자 설사</a>)</td></tr><tr><td>최근 항생제 사용</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td>Vibrio, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 (수 시간 내 발병)</td><td>독소형 식중독 (S. aureus, B. cereus)</td></tr><tr><td>집단 급식·뷔페 (12~48시간 후 발병)</td><td>Salmonella, 노로바이러스</td></tr><tr><td>혈변 + 고열</td><td>침습성 세균 (Salmonella, Shigella, Campylobacter)</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>⚠️ <strong>STEC 반드시 고려</strong> - 항생제·loperamide 모두 금기 (HUS 위험)</td></tr><tr><td>소아 + 혈변</td><td>STEC (O157:H7) → HUS 위험 ⚠️ <strong>항생제·loperamide 모두 금기</strong></td></tr><tr><td>임신부 + 발열 동반 설사</td><td>⚠️ <em>Listeria monocytogenes</em> - 대변 배양 + 혈액 배양 고려; 태아·모체 위험</td></tr><tr><td>입원 중 ≥3일 이후 발병</td><td><em>C. difficile</em> 감염</td></tr><tr><td>면역저하 상태</td><td>기회감염 (Cryptosporidium, CMV, Isospora, MAC)</td></tr><tr><td>수양성 설사 + 구토 주증상 (단기 잠복기)</td><td>바이러스성 장염, 독소형 식중독</td></tr><tr><td>반복성·만성 경과 의심</td><td>IBD - 분변 칼프로텍틴(Fecal calprotectin) 검사 보조적 활용 가능</td></tr></tbody></table>
+<table><thead><tr><th width="242">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력 (개발도상국)</td><td>여행자 설사 (ETEC, Campylobacter, Shigella, 원충) (☞ <a href="086_-travelers-diarrhea.md">여행자 설사</a>)</td></tr><tr><td>최근 항생제 사용</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td>Vibrio, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 (수 시간 내 발병)</td><td>독소형 식중독 (S. aureus, B. cereus)</td></tr><tr><td>집단 급식·뷔페 (12~48시간 후 발병)</td><td>Salmonella, 노로바이러스</td></tr><tr><td>혈변 + 고열</td><td>침습성 세균 (Salmonella, Shigella, Campylobacter)</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>STEC 반드시 고려 - 항생제·loperamide 모두 금기 (HUS 위험)*</td></tr><tr><td>소아 + 혈변</td><td>STEC (O157:H7) → HUS 위험; 항생제·loperamide 모두 금기</td></tr><tr><td>임신부 + 발열 동반 설사</td><td><em>Listeria monocytogenes</em> - 대변 배양 + 혈액 배양 고려; 태아·모체 위험</td></tr><tr><td>입원 중 ≥3일 이후 발병</td><td><em>C. difficile</em> 감염</td></tr><tr><td>면역저하 상태</td><td>기회감염 (Cryptosporidium, CMV, Isospora, MAC)</td></tr><tr><td>수양성 설사 + 구토 주증상 (단기 잠복기)</td><td>바이러스성 장염, 독소형 식중독</td></tr><tr><td>반복성·만성 경과 의심</td><td>IBD - 분변 칼프로텍틴(Fecal calprotectin) 검사 보조적 활용 가능</td></tr></tbody></table>
 
-{% hint style="info" %}
-**분변 칼프로텍틴(Fecal calprotectin)**: 장 점막 염증의 비침습적 마커. 급성 설사와 IBD(염증성 장질환)의 감별이 필요할 때 보조적으로 활용 가능. 양성 시 대장내시경 등 추가 평가 고려.
-{% endhint %}
-
-{% hint style="danger" %}
-⚠️ **STEC (장관 출혈성 대장균) 핵심 주의**: 혈변이 있는데 발열이 뚜렷하지 않은 경우 STEC를 반드시 고려. **항생제와 loperamide 모두** 독소 방출 촉진 및 HUS(용혈성 요독 증후군) 위험을 증가시킬 수 있으므로 **함께 금기**. 대변 배양 + CBC/Cr 추적 필요.
-{% endhint %}
+**\*STEC** (장관 출혈성 대장균) 유의 사항 : 혈변이 있는데 발열이 뚜렷하지 않은 경우 STEC를 반드시 고려; 항생제와 loperamide 모두 독소 방출 촉진 및 HUS(용혈성 요독 증후군) 위험을 증가시킬 수 있으므로 금기; 대변 배양 및 CBC/Cr 추적 필요
 
 ***
 
@@ -176,13 +168,13 @@ graph TD
 style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
  classDef yellow fill:#fff9c4,stroke:#ffe082
  class S1,S2,S3,S4,STECq yellow
-    style Emergency fill:#ffcdd2,stroke:#e53935,stroke-width:2px
-    style STEC fill:#fff3e0,stroke:#fb8c00,stroke-width:2px
-    style CDI fill:#e3f2fd,stroke:#1e88e5,stroke-width:2px
-    style HighRisk fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px
+    style Emergency fill:#ffcdd2,stroke:#e53935
+    style STEC fill:#fff3e0,stroke:#fb8c00
+    style CDI fill:#e3f2fd,stroke:#1e88e5
+    style HighRisk fill:#f3e5f5,stroke:#8e24aa
     style Start fill:#f3f0ff,stroke:#dcd6f7
     style NonInflTx fill:#e8f5e9,stroke:#c8e6c9
-    style FU fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style FU fill:#eeeeee,stroke:#888888
 ```
 
 <p align="center"><strong>급성 설사 평가·치료 알고리듬</strong></p>
@@ -191,25 +183,9 @@ style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:orange;">30초 위험 층화 (Quick Triage)</mark>
-
-{% hint style="info" %}
-✅ **가정 치료 가능** - 아래 조건을 모두 충족\
-무혈변 / 발열 없음 / 경구 수분 가능 / 경증 탈수\
-→ ORS + 조기 식이 + 증상 완화 치료
-{% endhint %}
-
-{% hint style="warning" %}
-⚡ **당일 재평가 필요** - 아래 중 하나 이상\
-혈변 / 38.5℃ 이상 발열 / 심한 복통 / 고령·임신부·면역저하·CKD / 72시간 이상 지속\
-→ 대변 검사 ± 항생제 고려
-{% endhint %}
-
-{% hint style="danger" %}
-🚨 **응급 의뢰** - 아래 중 하나 이상\
-쇼크 징후 / 의식 저하 / 지속적 구토로 수분 보충 불가 / CDS 5점 이상 (중증 탈수) / 패혈증 의심 / 심한 혈성 설사\
-→ IV 수액 / 입원
-{% endhint %}
+* **외래 치료 가능** : 다음 조건을 모두 충족 시 - 무혈변 / 발열 없음 / 경구 수분 가능 / 경증 탈수 → ORS + 조기 식이 + 증상 완화 치료
+* **당일 재평가 필요** : 다음 중 하나 이상  해당 시 - 혈변 / 38.5℃ 이상 발열 / 심한 복통 / 고령·임신부·면역 저하·CKD / 72시간 이상 지속 → 대변 검사 ± 항생제 고려
+* **응급 의뢰** : 다음 중 하나 이상 해당 시 - 쇼크 징후 / 의식 저하 / 지속적 구토로 수분 보충 불가 / CDS 5점 이상 (중증 탈수) / 패혈증 의심 / 심한 혈성 설사 → IV 수액 / 입원
 
 ### <mark style="color:orange;">표현형 기반 처방 방향 (Phenotype-driven approach)</mark>
 
