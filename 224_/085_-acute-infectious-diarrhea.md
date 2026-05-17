@@ -183,62 +183,22 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 
 ```mermaid
 graph TD
-    Start(["≥3회/일의 액상·무른 변<br/>& 구역/구토/복통"])
-    Start --> Unstable["불안정? (쇼크·중증탈수<br/>·의식변화·복막자극)"]
-    Unstable -- "YES" --> ER["즉각 응급 처치<br/>IV fluid + 혈액·대변 검사<br/>의뢰"]
-    Unstable -- "NO" ---> Symptom["임상 양상"]
-    Symptom -- "혈성·점액성 변 또는<br/>고열(≥38.5℃)" --> BloodFever["발열 여부"]
-    BloodFever -- "발열 없는 혈성 설사<br/>+ 심한 복통" --> STEC["STEC 의심<br/>항생제 일반적으로 피함<br/>Shiga toxin 검사<br/>HUS 모니터"]
-    BloodFever -- "발열 + 혈성/점액성" ---> 
-    EmpiricAtb["대변 검사<br/>(배양 ± multiplex PCR)<br/>경험적 항생제 고려<br/>Azithromycin 우선"]
-    Symptom -- "물 설사" --> Travel["여행력·오염 음식?"]
-    Travel -- "없음" --> Host["고위험군?<br/>(고령·면역 저하·임신·시설)"]
-    Host -- "YES" --> StoolExam["대변 검사<br/>낮은 역치로 검사·치료"]
-
-    Host -- "NO" --> Watery["대증 치료<br/>ORS + 흡착제<br/>필요 시 지사제"]
-    Travel -- "있음" --> TravelFever["발열 또는 혈변?"]
-
-    TravelFever -- "있음" ---> EmpiricAtb
-    TravelFever -- "없음" --> TravelMild["loperamide ±<br/>azithromycin 단회/3일"]
-    StoolExam --> Watery
-
-style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class Unstable,Symptom,BloodFever,Travel,Host,TravelFever yellow
-style ER fill:#ffcdd2,stroke:#c62828
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class TravelMild sky
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class STEC,EmpiricAtb,Watery blue
-```
-
-<p align="center"><strong>급성 감염성 설사 진단·치료 알고리듬</strong></p>
-
-
-
-```mermaid
-graph TD
     Start(["급성 설사<br/>≥3회/일 또는 평소보다 묽은 변 (14일 이내)"])
-
     Start --> Unstable["불안정?<br/>(쇼크·중증 탈수·의식 변화·복막 자극)"]
-    Unstable -- "YES" --> ER["즉각 응급 처치<br/>IV fluid + 혈액·대변 검사<br/>전문의 의뢰"]
     Unstable -- "NO" ---> Symptom["주요 임상 양상?"]
-
-    Symptom -- "구토 우세<br/>(발열·혈변 없음)" -----> Viral["바이러스성 위장관염 가능성 ↑<br/>ORS (소량 반복 섭취)<br/>필요 시 ondansetron<br/>항생제 불필요"]
-
+    Unstable -- "YES" --> ER["즉각 응급 처치<br/>IV fluid + 혈액·대변 검사<br/>전문의 의뢰"]
+    Symptom -- "구토 우세<br/>(발열·혈변 없음)" --> Viral["<u>바이러스성 위장관염 가능성↑</u><br/>ORS (소량 반복 섭취)<br/>필요 시 ondansetron<br/>항생제 불필요"]
     Symptom -- "혈성·점액성 변 또는<br/>고열(≥38.5℃)" --> BloodFever["발열 여부?"]
     BloodFever -- "발열 없는 혈성 설사<br/>+ 심한 복통" --> 
-    
     STEC["<u>STEC 의심</u><br/>항생제·지사제 피함<br/>Shiga toxin 검사<br/>수액 보충 (IV 우선)<br/>HUS 모니터"]
     BloodFever -- "발열 + 혈성/점액성" --> EmpiricAtb["대변 검사<br/>(배양 ± multiplex PCR)<br/>경험적 항생제 고려<br/>Azithromycin 우선"]
-
     Symptom -- "물 설사" --> CDIRisk["CDI 위험인자?<br/>(최근 3개월 내 항생제<br/>최근 입원·시설 거주)"]
-    CDIRisk -- "YES" --> CDITx["C. difficile 검사<br/>(PCR 또는 GDH+toxin)<br/>원인 항생제 즉시 중단<br/>확인 시 vancomycin 경구"]
+    CDIRisk -- "YES" --> CDITx["C.difficile 검사<br/>(PCR 또는 GDH+toxin)<br/>원인 항생제 즉시 중단<br/>확인 시 vancomycin 경구"]
     CDIRisk -- "NO" --> Travel["여행력·오염 음식?"]
-    Travel -- "있음" --> TravelFever["발열 또는 혈변?"]
-    TravelFever -- "있음" --> EmpiricAtb
-    TravelFever -- "없음" --> TravelMild["loperamide ±<br/>azithromycin 단회/3일"]
-    Travel -- "없음" --> Host["고위험군?<br/>(고령·면역 저하·임신·시설)"]
+    Travel -- "YES" --> TravelFever["발열 또는 혈변?"]
+    TravelFever -- "YES" --> EmpiricAtb
+    TravelFever -- "NO" --> TravelMild["loperamide ±<br/>azithromycin <br/>단회/3일"]
+    Travel -- "NO" --> Host["고위험군?<br/>(고령·면역 저하·임신·시설)"]
     Host -- "YES" --> StoolExam["대변 검사 시행<br/>결과에 따라 치료 결정<br/>(항생제 또는 대증 치료)"]
     Host -- "NO" --> Watery["대증 치료<br/>ORS + 흡착제<br/>필요 시 지사제"]
  
@@ -248,12 +208,11 @@ classDef yellow fill:#fff9c4,stroke:#ffe082
 style ER fill:#ffcdd2,stroke:#c62828
 classDef orange50 fill:#fff3e0,stroke:#e65100
    class STEC,CDITx,EmpiricAtb,StoolExam orange50
-classDef green fill:#e8f5e9,stroke:#81c784
 classDef blue fill:#d0e8ff,stroke:#1a6abf
    class Viral,TravelMild,Watery blue
 ```
 
-<p align="center"></p>
+<p align="center"><strong>급성 감염성 설사 진단·치료 알고리듬</strong></p>
 
 ***
 
