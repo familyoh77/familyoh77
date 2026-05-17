@@ -3,18 +3,13 @@
 ![image](../.gitbook/assets/01fa8b54-9e32-4c80-961a-58f0f1a32b7e.JPG)
 
 ## 일반 사항
-
 * total-cholesterol(TC) or LDL-cholesterol(LDL) 수준의 증가, 또는 HDL-cholesterol(HDL) 수준의 저하
 *   자체로는 증상을 일으키지는 않지만 atherosclerotic cardiovascular disease(ASCVD)의 중요한 위험 인자임;
 
     연령 증가에 따라 유병률 증가
 *   LDL은 ASCVD의 주요 위험 인자이며 LDL이 낮을수록 심혈관 사고의 위험이 줄어 듦
 
-    •적정 LDL 수준에 대한 논란 : LDL의 하한값 또는 ‘J-curve’ 효과는 없다는 보고가 있는 반면, LDL의 높은 수준 뿐 아니라
-
-    낮은 수준 역시 모든 원인 사망률의 증가 위험과 관련이 있으며 모든 원인 사망률의 최저 위험은 LDL 140 ㎎/㎗에서
-
-    관찰된다는 보고가 있음
+    •적정 LDL 수준에 대한 논란 : LDL의 하한값 또는 ‘J-curve’ 효과는 없다는 보고가 있는 반면, LDL의 높은 수준 뿐 아니라 낮은 수준 역시 모든 원인 사망률의 증가 위험과 관련이 있으며 모든 원인 사망률의 최저 위험은 LDL 140 ㎎/㎗에서 관찰된다는 보고가 있음
 
     •고령(≥75세)에서는 LDL 수준과 ASCVD 사이에 연관성이 없다는 보고가 있음
 * non-HDL 수준이 CVD의 1st event와 강력하게 관련되어 있고 이를 조기에 낮추면 그 위험이 크게 감소한다는 보고가 있음
