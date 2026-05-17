@@ -29,7 +29,7 @@
 
 **CDI 중증도별 치료**
 
-<table><thead><tr><th width="86">중증도</th><th width="230">기준</th><th>치료</th></tr></thead><tbody><tr><td>비중증</td><td>WBC &#x3C;15,000/㎕ &#x26; <br>Cr 상승 &#x3C;1.5배</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[반코마이신캡슐]</mark><br>또는 fidaxomicin 200 ㎎ bid × 10일 <mark style="color:blue;">[딥세시아정]</mark></td></tr><tr><td>중증</td><td>WBC ≥15,000/㎕ or <br>Cr ≥1.5배 상승</td><td>vancomycin 경구 125 ㎎ qid × 10일 (비중증과 동일 초기 용량)</td></tr><tr><td>전격성</td><td>저혈압, 쇼크, 장폐색, 복막염</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 입원 및 외과 협진</td></tr></tbody></table>
+<table><thead><tr><th width="86">중증도</th><th width="230">기준</th><th>치료</th></tr></thead><tbody><tr><td>비중증</td><td>WBC &#x3C;15,000/㎕ &#x26;<br>Cr 상승 &#x3C;1.5배</td><td>vancomycin 경구 125 ㎎ qid × 10일 <mark style="color:blue;">[반코마이신캡슐]</mark><br>또는 fidaxomicin 200 ㎎ bid × 10일 <mark style="color:blue;">[딥세시아정]</mark></td></tr><tr><td>중증</td><td>WBC ≥15,000/㎕ or<br>Cr ≥1.5배 상승</td><td>vancomycin 경구 125 ㎎ qid × 10일 (비중증과 동일 초기 용량)</td></tr><tr><td>전격성</td><td>저혈압, 쇼크, 장폐색, 복막염</td><td>vancomycin 경구/NG 500 ㎎ qid + IV metronidazole 500 ㎎ q8h; 입원 및 외과 협진</td></tr></tbody></table>
 
 * metronidazole은 더 이상 CDI 1차 치료제로 권고되지 않음; 전격성 CDI에서 IV 보조 요법으로만 사용
 * 치료 후 재발률 10\~20%; 재발 시 감염내과 협진
@@ -134,17 +134,17 @@ graph TD
     S2["혈변 또는<br/>고열 ≥38.5°C?"]
 
     NonInfl["비염증성<br/>(바이러스·독소형)"]
-    NonInflTx["ORS + 조기 식이<br/>loperamide 또는<br/>racecadotril 고려<br/>항생제 불필요"]
+    NonInflTx["ORS + 조기 식이<br/>loperamide 또는<br/>racecadotril 고려<br/>•항생제 불필요"]
 
     STECq["혈변인데<br/>발열 미약·무발열?"]
-    STEC["STEC 의심<br/>항생제·loperamide<br/>모두 금기<br/>대변 배양 + CBC/Cr 추적"]
-    Infl["염증성 세균성 설사<br/>대변 검사 + STEC 배제<br/>azithromycin 고려"]
+    STEC["<u>STEC 의심</u><br/>대변 배양 + CBC/Cr 추적<br/>•항생제·loperamide<br/>모두 금기"]
+    Infl["염증성 세균성 설사<br/>대변 검사 + STEC 배제<br/>•azithromycin 고려"]
 
     S3[">최근 항생제<br/>사용?"]
-    CDI["CDI 평가<br/>원인 항생제 중단<br/>대변 CDI 독소/NAAT<br/>vancomycin or fidaxomicin"]
+    CDI["<u>CDI 평가</u><br/>원인 항생제 중단<br/>대변 CDI 독소/NAAT<br/>•vancomycin or fidaxomicin"]
 
     S4["면역 저하·고령·<br/>중증 지속?"]
-    HighRisk["Multiplex stool PCR<br/>대변 배양<br/>입원·전원 고려"]
+    HighRisk["Multiplex stool PCR<br/>대변 배양<br/>•입원·전원 고려"]
     FU["경과 관찰<br/>2~3일 후 미호전 시 재평가"]
 
     Start --> S1
@@ -183,176 +183,168 @@ style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 ## <mark style="background-color:$warning;">Management</mark>
 
+### <mark style="color:orange;">치료 방침</mark>
+
+* 수분 공급 (탈수 교정) : 어린이와 쇠약한 노인, CKD 환자에서 특히 주의
+* 식이 조절 : 과도한 음식 제한은 회복을 지연시킴; 탈수 교정 후 가능한 한 빨리 정상 식이로 복귀 권장
+* 약물 치료 : 증상 완화 목적 (지사제, 흡착제, 항구토제)
+* 항생제 : 대부분 불필요; 선택적으로만 적용 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md))
+* 예방 (☞ [여행자 설사](086_-travelers-diarrhea.md#undefined-11))
 * **외래 치료 가능** : 다음 조건을 모두 충족 시 - 무혈변 / 발열 없음 / 경구 수분 가능 / 경증 탈수 → ORS + 조기 식이 + 증상 완화 치료
-* **당일 재평가 필요** : 다음 중 하나 이상  해당 시 - 혈변 / 38.5℃ 이상 발열 / 심한 복통 / 고령·임신부·면역 저하·CKD / 72시간 이상 지속 → 대변 검사 ± 항생제 고려
+* **당일 재평가 필요** : 다음 중 하나 이상 해당 시 - 혈변 / 38.5℃ 이상 발열 / 심한 복통 / 고령·임신부·면역 저하·CKD / 72시간 이상 지속 → 대변 검사 ± 항생제 고려
 * **응급 의뢰** : 다음 중 하나 이상 해당 시 - 쇼크 징후 / 의식 저하 / 지속적 구토로 수분 보충 불가 / CDS 5점 이상 (중증 탈수) / 패혈증 의심 / 심한 혈성 설사 → IV 수액 / 입원
 
 ### <mark style="color:orange;">표현형 기반 처방 방향 (Phenotype-driven approach)</mark>
 
-<table><thead><tr><th width="210">표현형</th><th width="180">시사 원인</th><th width="220">치료 방향</th><th>주의</th></tr></thead><tbody><tr><td>수양성 + 무발열 + 무혈변</td><td>바이러스·비침습성 세균</td><td>ORS + 조기 식이<br>loperamide 또는 racecadotril 고려</td><td>항생제 불필요</td></tr><tr><td>수양성 + 구토 우세</td><td>바이러스·독소형 식중독</td><td>ORS + ondansetron 단회 고려<br>탈수 모니터링</td><td>항생제 불필요</td></tr><tr><td>혈변 + 발열 ≥38.5°C</td><td>침습성 세균</td><td>대변 검사 + STEC 배제<br>azithromycin 고려</td><td>loperamide 금기</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>⚠️ STEC 의심</td><td>대변 배양 + CBC/Cr 추적</td><td>항생제·loperamide 모두 금기 (HUS)</td></tr><tr><td>항생제 사용 후 설사</td><td>CDI</td><td>원인 항생제 중단<br>CDI 독소/NAAT (설사 있을 때만)<br>vancomycin or fidaxomicin</td><td>metronidazole 1차 사용 금지</td></tr><tr><td>고령·면역 저하·패혈증 의심</td><td>다양 (기회감염 포함)</td><td>Multiplex PCR/배양<br>입원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
-
-### <mark style="color:orange;">치료 방침</mark>
-
-* **수분 공급 (탈수 교정)** : 어린이와 쇠약한 노인, CKD 환자에서 특히 주의
-* **식이 조절** : 과도한 음식 제한은 회복을 지연시킴; 탈수 교정 후 가능한 한 빨리 정상 식이로 복귀 권장
-* **약물 치료** : 증상 완화 목적 (지사제, 흡착제, 항구토제)
-* **항생제** : 대부분 불필요; 선택적으로만 적용 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md))
-* **예방** (☞ [여행자 설사](086_-travelers-diarrhea.md#undefined-11))
-
-***
+<table><thead><tr><th width="134">표현형</th><th width="125">시사 원인</th><th width="162">치료 방향</th><th>주의</th></tr></thead><tbody><tr><td>수양성 + 무발열 + 무혈변</td><td>바이러스·비침습성 세균</td><td>ORS + 조기 식이<br>loperamide 또는 racecadotril 고려</td><td>항생제 불필요</td></tr><tr><td>수양성 + 구토 우세</td><td>바이러스·독소형 식중독</td><td>ORS + ondansetron 단회 고려; 탈수 모니터링</td><td>항생제 불필요</td></tr><tr><td>혈변 + 발열 ≥38.5°C</td><td>침습성 세균</td><td>대변 검사 + STEC 배제; azithromycin 고려</td><td>loperamide 금기</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>STEC 의심</td><td>대변 배양 + CBC/Cr 추적</td><td>항생제·loperamide 모두 금기 (HUS)</td></tr><tr><td>항생제 사용 후 설사</td><td>CDI</td><td>원인 항생제 중단<br>CDI 독소/NAAT (설사 있을 때만)<br>vancomycin or fidaxomicin</td><td>metronidazole 1차 사용 금지</td></tr><tr><td>고령·면역 저하·패혈증 의심</td><td>다양 (기회감염 포함)</td><td>Multiplex PCR/배양; 입원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 ### <mark style="color:orange;">수분 공급</mark>
 
-* **성인** : 갈증이 해소될 때까지 원하는 만큼 공급
-* **소아 경증 탈수** : 설사 1회당 체중 ㎏당 10 ㎖; 중등증 탈수는 50~~100 ㎖/㎏을 3~~4시간에 걸쳐 공급
+* 성인 : 갈증이 해소될 때까지 원하는 만큼 공급
+* 소아 경증 탈수 : 설사 1회당 체중 ㎏당 10 ㎖; 중등증 탈수는 50\~100 ㎖/㎏을 3\~4시간에 걸쳐 공급
 
 #### <mark style="color:$primary;">각 음료의 전해질 구성</mark>
 
-<table><thead><tr><th width="210">종류</th><th width="130">Na (mEq/L)</th><th width="120">K (mEq/L)</th><th width="160">포도당 (mEq/L)</th><th>삼투압 (mOsm/L)</th></tr></thead><tbody><tr><td><strong>WHO ORS (저삼투압, 2002)</strong></td><td>75</td><td>20</td><td>75</td><td>245</td></tr><tr><td>Pedialyte®</td><td>45</td><td>20</td><td>140</td><td>250</td></tr><tr><td>게토레이®</td><td>20</td><td>3</td><td>255</td><td>360</td></tr><tr><td>사과 주스</td><td>2</td><td>30</td><td>690</td><td>730</td></tr><tr><td>탄산음료</td><td>3</td><td>0</td><td>700</td><td>750</td></tr></tbody></table>
+| 종류         | Na (mEq/L) | K (mEq/L) | 포도당 (mEq/L) | 삼투압 (mOsm/L) |
+| ---------- | ---------- | --------- | ----------- | ------------ |
+| WHO ORS    | 75         | 20        | 75          | 245          |
+| Pedialyte® | 45         | 20        | 140         | 250          |
+| 게토레이®      | 20         | 3         | 255         | 360          |
+| 사과 주스      | 2          | 30        | 690         | 730          |
+| 탄산음료       | 3          | 0         | 700         | 750          |
 
 _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in children, Table 1. Am Fam Physician. 2009;80(7)</mark>_
 
 {% hint style="info" %}
-**WHO ORS 2002 저삼투압 공식**: 삼투압 245 mOsm/L로 기존 고삼투압 ORS(311 mOsm/L)보다 구토 발생이 적고 정맥 수액 필요성을 줄임. 스포츠 음료·주스·탄산음료는 삼투압이 과도하게 높아 삼투압성 설사를 악화시킬 수 있으므로 ORS 대용으로 부적합.
+**WHO ORS 2002 저삼투압 공식**: 삼투압 245 mOsm/L로 기존 고삼투압 ORS(311 mOsm/L)보다 구토 발생이 적고 정맥 수액 필요성을 줄임. 스포츠 음료·주스·탄산음료는 삼투압이 과도하게 높아 삼투압성 설사를 악화시킬 수 있으므로 ORS 대용으로 부적합
 {% endhint %}
 
 #### <mark style="color:$primary;">자가 ORS 제조법</mark>
 
-* **기본 ORS** : 물 1 L + **소금 3 g (평평하게 깎은 1/2 티스푼; 1 티스푼은 약 5\~6 g으로 과다)** + 설탕 18 g
-  * ※ WHO 표준 : NaCl 2.6 g + 설탕 13.5 g/L; 가정에서는 3 g / 18 g 배합이 실용적
-* **대체 ORS** : 다음 음료 1 L에 소금 3 g 첨가
+* 기본 ORS : 물 1 L + 소금 3 g (평평하게 깎은 1/2 티스푼; 1 티스푼은 약 5\~6 g으로 과다) + 설탕 18 g
+  * WHO 표준 : NaCl 2.6 g + 설탕 13.5 g/L
+* 대체 ORS : 다음 음료 1 L에 소금 3 g 첨가
   * 쌀미음, 닭 스프, 생수, 무가당 생과일주스, 플레인 요구르트, 무가당 묽은 차
 
 ### <mark style="color:orange;">식이</mark>
 
-* **조기 정상 식이 복귀 권장** : 탈수 교정 후 가능한 한 빨리 평소 식사로 복귀 → 위장관 회복 촉진
-  * 과도한 음식 제한은 회복을 지연시킴; 최신 소아·성인 가이드라인에서 공통적으로 조기 정상 식이를 강조
-* **소량 자주** : 1일 5\~6회 소량씩 섭취; **금식은 금기**
+* 소아·성인 모두조기 정상 식이 복귀 권장
+  * &#x20;탈수 교정 후 가능한 한 빨리 평소 식사로 복귀하는것이 위장관 회복을 촉진하며, 과도한 음식 제한은 회복을 지연시킴
+* 소량으로 자주(1일 5\~6회) 섭취; 금식은 금기
 
 #### <mark style="color:$primary;">권장 식품</mark>
 
 * 흰 쌀밥, 흰 식빵, 토스트, 짭짤한 크래커
-* 잘 삶은 싱거운 채소 (익힌 당근, 감자)
-* **발효유(요구르트)** : 유제품이지만 유당 함량이 적고 유익균 포함; 급성기 일부 환자에서 소량 허용 가능 (단, 증상 악화 시 중단)
-* **BRAT diet** (Banana, Rice, Applesauce, Toast) : 심한 구토 없는 설사 환자에서 단기간 보조적 사용 가능; 일반식보다 우월한지는 미입증
+* 잘 삶은 싱거운 채소 - 예: 익힌 당근, 감자
+* 발효유(요구르트) : 급성기 일부 환자에서 소량 허용 가능; 당분 등 첨가제가 증상을 악화시킬 수 있음-증상 악화 시 중단
+* BRAT diet (Banana, Rice, Applesauce, Toast) : 심한 구토 없는 설사 환자에서 단기간 보조적 사용 가능; 일반식보다 우월한지는 미입증
 
 #### <mark style="color:$primary;">피해야 할 식품</mark>
 
 * 맵거나 짜거나 단 자극적인 음식 (대부분의 외식, 찌개류, 인스턴트)
 * 시판 음료 (스포츠 음료 포함) : 당분·삼투압 과다
-* 불용성 섬유질·질긴 음식 : 잡곡밥, 뿌리채소, 브로콜리, 양배추
+* 불용성 섬유질, 질긴 음식 : 잡곡밥, 뿌리채소, 브로콜리, 양배추
 * 기름진 음식 : 고기, 튀김
 * 면류 (라면, 자장면, 쫄면), 떡
-* 유제품 (급성기 이차 유당 불내성 가능; 발효유 제외)
+* 유제품 - 급성기 2차성 유당 불내성 가능; 발효유 제외
 * 카페인 음료 (차, 커피, 탄산음료), 음주
 
 {% hint style="info" %}
-**이차 유당 불내성 주의**: 급성 설사 후 소장 점막 손상 → 유당 분해효소(lactase) 일시적 감소 → 이차성 유당 불내성 발생 가능. 회복기 동안 일반 유제품(우유·아이스크림 등) 제한 권장; 발효유(요구르트)는 대부분 수 주 내 자연 회복 전에도 소량 허용 가능. 대부분 수 주 내 자연 회복.
+**2차 유당 불내성 주의** : 급성 설사 후 소장 점막 손상 → 유당 분해 효소(lactase) 일시적 감소 → 2차성 유당 불내성 발생 가능. 회복기 동안 일반 유제품(우유·아이스크림 등) 제한 권장. 발효유(요구르트)는 대부분 수 주 내 자연 회복 전에도 소량 허용 가능; 대부분 수 주 내 자연 회복
 {% endhint %}
 
 #### <mark style="color:$primary;">식사에 따른 문제</mark>
 
-* **단백질** : 손상된 장 점막을 통해 항원성 단백질 유입 → 음식 민감성 장병증 유발 가능
-* **탄수화물** : 유당 분해효소 감소로 유당 흡수 장애 → 대장에서 발효 → 삼투압 설사 유발
+* 단백질 : 손상된 장 점막을 통해 항원성 단백질 유입 → 음식 민감성 장병증 유발 가능
+* 탄수화물 : 유당 분해효소 감소로 유당 흡수 장애 → 대장에서 발효 → 삼투압 설사 유발
   * 만성 설사 지속 시 2차성 유당 불내성 → 영양 결핍 → 장 점막 회복 지연 → 설사 지속의 악순환
 
 ### <mark style="color:orange;">음식 안전 수칙 (예방)</mark>
 
 * 멸균되지 않은 우유 또는 함유 식품 섭취 금지
 * 날 과일·채소는 식사 전 철저히 세척
-* 냉장 **≤5℃ (국내 식품안전 기준) / ≤4.4℉ (국제 기준)**, 냉동 ≤−17.8℃ 유지
-* 조리 즉석식품·부패하기 쉬운 음식은 신속히 섭취
+* 냉장 ≤5℃ (국내 기준) / ≤4.4℃ (국제 FDA 기준), 냉동 ≤−18℃ 유지
+* 조리 즉석 식품·부패하기 쉬운 음식은 신속히 섭취
 * 생고기·생선·가금류는 다른 식품과 분리 보관; 취급 후 손·칼·도마 세척
-* 가금류 조리 내부 온도 : 갈은 쇠고기 71℃, 닭 77℃, 돼지 63℃
+* 육류·가금류 조리 내부 온도 : 갈은 쇠고기 71℃, 닭 77℃; 돼지(통살·스테이크) 63℃(3분 이상 유지), 갈은 돼지고기 71℃(유지 불필요)
 * 생선회 등 날생선 섭취 주의 (냉동으로 일부 균 사멸 가능)
 * 계란은 노른자가 굳을 때까지 완전히 익힘
 * 조리된 음식을 실온에 2시간 이상 (실온 >32℃인 경우 1시간 이상) 방치 금지
-
-***
 
 ## <mark style="color:green;">약물 치료</mark>
 
 　☞ [소화기계 약제](073_.md#antidiarrheal-agent)
 
-### <mark style="color:orange;">항생제 적응 판단</mark>
+### <mark style="color:orange;">항생제</mark>
 
-{% hint style="info" %}
-**경험적 항생제를 고려하는 경우**\
-✔ 고열 + 혈성 설사 (침습성 세균 의심)\
-✔ 중증 여행자 설사\
-✔ 면역 저하 환자\
-✔ 패혈증 의심\
-✔ 중증 Campylobacter / Shigella 의심\
-✔ 고령 + 중증 전신 증상
-{% endhint %}
+* 대부분의 급성 설사는 바이러스 원인으로 항생제가 도움이 되지 않으며, 침습성 세균성 설사도 대부분 수일 내 자연 치유
+* 세균성 감염성 설사 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md#undefined-12))
+* 경험적 치료 (여행자 설사, 발열 동반 혈성 설사) : azithromycin 1 g 1회 또는 500 ㎎ qd × 3일 <mark style="color:blue;">\[지스로맥스]</mark>
 
-{% hint style="danger" %}
-⚠️ **경험적 항생제를 피해야 하는 경우**\
-✘ **STEC 의심** (혈변 + 발열 미약·무발열) - 항생제가 독소 방출을 촉진하여 HUS 위험 증가\
-✘ 단순 바이러스성 수양성 설사\
-✘ 경증 자한성(자기제한적, self-limiting) 설사
-{% endhint %}
+**경험적 항생제를 고려하는 경우**
 
-* **대부분의 급성 설사는 바이러스 원인**으로 항생제가 도움이 되지 않으며, 침습성 세균성 설사도 대부분 수일 내 자연 치유
-* 세균성 감염성 설사 적응 시 (☞ [감염성 설사](085_-acute-infectious-diarrhea.md#undefined-12))
-* **경험적 치료** (여행자 설사, 발열 동반 혈성 설사) : azithromycin 1 g 1회 또는 500 ㎎ qd × 3일 <mark style="color:blue;">\[지스로맥스]</mark>
+* 고열 + 혈성 설사 (침습성 세균 의심)
+* 중증 여행자 설사
+* 면역 저하 환자
+* 패혈증 의심
+* 중증 Campylobacter / Shigella 의심
+* 고령 + 중증 전신 증상
+
+**경험적 항생제를 피해야 하는 경우**
+
+* STEC 의심 (혈변 + 발열 미약·무발열) - 항생제가 독소 방출을 촉진하여 HUS 위험 증가
+* 단순 바이러스성 수양성 설사
+* 경증 자한성(자기제한적, self-limiting) 설사
 
 ### <mark style="color:orange;">장 운동 조절제 (Antimotility agents)</mark>
 
-* **loperamide** : 장 μ-opioid receptor 자극 → 장 운동 억제·통과 시간 연장, 수분 흡수 증가; 설사 기간 단축
-  * **OTC 기준 최대 8 ㎎/일**; 의사 처방하 최대 **16 ㎎/일**까지 사용 가능하나 일반 외래에서는 안전성을 위해 8 ㎎/일 보수적 사용 권장 <mark style="color:blue;">\[로프민]</mark>
-  * ⚠️ **사용 제한 / 금기** : 혈변, 고열, 전신 독성, 침습성 세균 감염, _C. difficile_ 감염, **STEC 의심** (HUS 위험), **IBD(궤양성 대장염) 활성기** (독성 거대결장 유발 위험)
-
-{% hint style="danger" %}
-⚠️ **Loperamide 주요 위험**\
-① **고용량 심독성 (FDA 경고)**: 권장 용량 초과 시 QT 연장·Torsades de Pointes 위험. 최대 용량 준수 및 환자 교육 필수.\
-② **IBD 활성기 금기**: 궤양성 대장염(UC) 활성기에서 독성 거대결장(toxic megacolon) 유발 가능.
-{% endhint %}
-
-* **cimetropium** : 항콜린 작용, 장경련 완화; 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
-* **tiropramide** : 장 평활근 이완; 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
+* loperamide : 장 μ-opioid receptor 자극 → 장 운동 억제·통과 시간 연장, 수분 흡수 증가; 설사 기간 단축
+  * 용법 : 처음 4 ㎎, 이후 필요시 2 ㎎; OTC 기준 최대 8 ㎎/일; 최대 16 ㎎/일까지 투여 가능하나 일반 외래에서는 안전성을 위해 8 ㎎/일 보수적 사용 권장 <mark style="color:blue;">\[로프민]</mark>
+  * 주요 위험 **:** ⓵ 고용량 심독성 - 권장 용량 초과 시 QT 연장·Torsades de Pointes 위험, 최대 용량 준수 및 환자 교육 필수; ⓶ IBD 활성기 금기 - 궤양성 대장염(UC) 활성기에서 toxic megacolon 유발 가능
+  * 사용 제한 / 금기 : 혈변, 고열, 전신 독성, 침습성 세균 감염, _C. difficile_ 감염, STEC 의심 (HUS 위험), IBD 활성기 (toxic megacolon  유발 위험)
+* cimetropium : 항콜린 작용, 장경련 완화; 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
+* tiropramide : 장 평활근 이완; 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
 
 ### <mark style="color:orange;">분비 억제제</mark>
 
-* **racecadotril** : **enkephalinase 억제** → 장 점막 과분비 억제; **장 운동에는 영향 없음** (loperamide와 달리 마비성 장폐색·복부 팽만 위험 없음)
+* racecadotril : enkephalinase 억제 → 장 점막 과분비 억제; 장 운동에는 영향 없음 (loperamide와 달리 마비성 장폐색·복부 팽만 위험 없음)
   * 용법 : 1.5 ㎎/㎏ tid <mark style="color:blue;">\[하이드라섹]</mark> (국내 소아 <12세 정규 허가)
-  * 성인 급성 수양성 설사에서 일부 연구 효과 보고 있으나, 국내에서 성인 사용은 **적응외(off-label)** 임을 고지 필요
+  * 성인 급성 수양성 설사에서 일부 연구 효과 보고 있으나, 국내에서 성인 사용은 적응외(off-label) 임을 고지 필요
 
 {% hint style="info" %}
-**racecadotril vs. loperamide**: racecadotril은 장 운동을 억제하지 않아 소아 급성 바이러스성 설사에서 loperamide 대신 선호. 분비 억제 효과는 유사하면서 복부 팽만·변비·장폐색 부작용이 현저히 적음.
+**racecadotril vs. loperamide** : racecadotril은 장 운동을 억제하지 않아 소아 급성 바이러스성 설사에서 loperamide 대신 선호. 분비 억제 효과는 유사하면서 복부 팽만·변비·장폐색 부작용이 현저히 적음
 {% endhint %}
 
 ### <mark style="color:orange;">흡착제</mark>
 
-* **bismuth** : 항염·항균 작용; 여행자 설사 증상 완화, 바이러스성 위장염 관련 구토 완화
-  * 30 ㎖ 또는 2정 (262 ㎎/정) × 1\~4시간마다, 1일 최대 8회; ≥3세 적용
-* **dioctahedral smectite** : 병원성 세균·독소·바이러스·담즙산 흡착 배설; 3 g tid <mark style="color:blue;">\[스타빅]</mark>
-  * **24개월 미만 소아 사용 금기; 임부·수유부 사용 금기** (식약처 권고)
-* **galactosidase** : 유당 불내성에 의한 설사에 적용 <mark style="color:blue;">\[갈타제]</mark>
+* bismuth : 항염·항균 작용; 여행자 설사 증상 완화, 바이러스성 위장염 관련 구토 완화
+  * bismuth subsalicylate 현탁액 525 ㎎ (30 ㎖) 또는 정제 524 ㎎ (2정), 30분\~1시간마다, 1일 최대 8회; ≥3세 적용 <mark style="color:blue;">\[펩토무스현탁액]</mark>
+* dioctahedral smectite : 병원성 세균·독소·바이러스·담즙산 흡착 배설; 3 g tid <mark style="color:blue;">\[스타빅]</mark>
+  * 24개월 미만 소아 사용 금기; 임부·수유부 사용 금기
+* galactosidase : 유당 불내성에 의한 설사에 적용 <mark style="color:blue;">\[갈타제]</mark>
 
 ### <mark style="color:orange;">항구토제</mark>
 
 * 대부분 불필요; 구토로 경구 수액 보충이 어려운 경우에 한해 고려
-* **ondansetron** : 심한 구토에 효과적; 소아 급성 위장관염에서 탈수 감소 및 입원율 감소 효과 입증 <mark style="color:blue;">\[조프란]</mark>
-  * **단회(single dose) 투여를 원칙**으로 하며, 반복 사용 시 설사 증가 가능성 보고
-  * ※ 소아에서 급성 위장관염 적응 보험 적용 제한 있음; 처방 전 보험 기준 확인 권장
-* ※ 위장 운동 촉진제 (metoclopramide, domperidone)는 급성 설사에서 효과 입증 미흡
+* ondansetron : 심한 구토에 효과적; 소아 급성 위장관염에서 탈수 감소 및 입원율 감소 효과 입증 <mark style="color:blue;">\[조프란]</mark>
+  * 단회(single dose) 투여를 원칙으로 하며, 반복 사용 시 설사 증가 가능성 보고
+  * 소아에서 급성 위장관염 적응 보험 적용 제한 있음; 처방 전 보험 기준 확인 권장
+* 위장 운동 촉진제 (metoclopramide, domperidone)는 급성 설사에서 효과 입증 불충분
 
 ### <mark style="color:orange;">기타</mark>
 
 #### <mark style="color:$primary;">Probiotics</mark>
 
-* 대부분의 급성 자한성(자기제한적, self-limiting) 설사에서 **routine probiotics 사용은 권고하지 않음** (AGA 2020)
-  * 급성 위장관염, IBS, IBD, CDI 등 대부분의 소화기 질환에 적용 비권고; **면역 저하자 금기**
-* 다만 일부 균주는 다음에서 제한적 이득 가능성 보고:
-  * _S. boulardii_, _L. rhamnosus_ GG : **항생제 관련 설사**
-  * _L. rhamnosus_ GG : **소아 로타바이러스 설사** - 설사 기간 단축 효과 일부 메타분석에서 확인
-* 표준화된 용량·치료법 없음; 균주 간 효과 차이 불명확
-* **Saccharomyces boulardii** 500 ㎎/일 × ≥7일 또는 설사 소실 시까지 <mark style="color:blue;">\[비오플]</mark>
-* **Lactobacillus rhamnosus GG** 1~~2 × 10¹⁰~~10¹¹ CFU/일 × ≥7일 <mark style="color:blue;">\[람노스]</mark>
-  * [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0032) : <6세 급성 감염성 설사 / <6세 항생제 연관 설사 / 괴사성 장염
+* 대부분의 급성 자기제한적(self-limiting) 설사에서 routine probiotics 사용은 권고하지 않음 (AGA 2020); 급성 위장관염, IBS, IBD, CDI 등 대부분의 소화기 질환에서 비권고; 면역 저하자에서 금기
+* 다만 일부 균주는 다음에서 제한적 이득 가능성 보고; 균주 간 효과 차이 불명확
+  * _S. boulardii_ : 항생제 관련 설사
+  * _L. rhamnosus_ GG : 항생제 관련 설사, 소아 로타바이러스 설사 - 설사 기간 단축 효과 일부 메타분석에서 확인
+* 용법 : 표준화된 용량·치료법 없음
+  * _S. boulardii_ : ≥7일 또는 설사 소실 시까지; <mark style="color:blue;">\[비오플]</mark> 500 ㎎/일 &#x20;
+  * _L. rhamnosus_ GG : ≥7일; <mark style="color:blue;">\[람노스]</mark> 1일 1\~4캡슐
+* [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0032) : <6세 급성 감염성 설사 또는 항생제 연관 설사, 괴사성 장염
 
 #### <mark style="color:$primary;">아연</mark>
 
