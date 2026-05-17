@@ -2,33 +2,31 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 정의 : 묽은 변(Bristol stool scale 6\~7형) 또는 빈번한 배변(≥3회/d)이 **4주 이상** 지속되는 상태
+* 정의 : 묽은 변([Bristol stool scale](082_-constipation.md#undefined-3) 6\~7형) 또는 빈번한 배변(≥3회/d)이 4주 이상 지속되는 상태
 * 급성 설사(≤2주)·지속성 설사(2\~4주)와 구분
 * 대부분 장 점막의 수분·전해질 흡수-분비 불균형이 핵심 기전
 * 기전상 삼투압성·분비성·염증성·흡수 장애·과운동성으로 분류되며 복합 기전이 흔함
 * 진정한 식품 알레르기는 성인 만성 설사의 원인으로는 드묾
 
-***
-
 ## <mark style="color:green;">원인</mark>
 
 #### <mark style="color:$primary;">과운동성 설사 (Hypermotility)</mark>
 
-* **IBS-D** (설사형 과민대장증후군) : 장-뇌 축(gut-brain axis) 이상, 장 과민성, 장내 미세 염증 및 microbiome dysbiosis 관여
-  * **Post-infectious IBS** : 급성 장염 이후 장 투과성 변화·미세 염증 지속으로 수개월 이상 설사·팽만·urgency 지속; 외래에서 흔히 간과됨
-* **기능성 설사** (functional diarrhea) : 복통이 핵심 증상이 아님; 복통이 주된 경우 IBS-D를 우선 고려
+* 기능성 설사 (functional diarrhea) : 복통이 핵심 증상이 아님; 복통이 주된 경우 IBS-D를 우선 고려
+* IBS-D (설사형 과민대장증후군) : 장-뇌 축(gut-brain axis) 이상, 장 과민성, 장내 미세 염증 및 microbiome dysbiosis 관여
+  * Post-infectious IBS : 급성 장염 이후 장 투과성 변화·미세 염증 지속으로 수개월 이상 설사·팽만·urgency 지속; 외래에서 흔히 간과됨
 * 갑상선항진증, 당뇨병신경병증, 포스트-수술 (미주신경 절제술 후)
 
 #### <mark style="color:$primary;">삼투압 설사 (Osmotic)</mark>
 
 * 탄수화물 흡수 장애 : 당분(lactose, fructose, sorbitol, xylitol, sucralose), 사카린
 * 삼투성 하제 (예: MgO, phosphate, sulfate)
-* **금식 시 호전**이 특징
+* 금식 시 호전이 특징
 
 #### <mark style="color:$primary;">흡수 장애 (Malabsorption)</mark>
 
 * Whipple disease, giardiasis, 셀리악병(celiac disease), short bowel syndrome
-  * ✽셀리악병은 한국에서 유병률이 낮으나 원인 불명 흡수 장애·철 결핍 빈혈·만성 설사에서는 anti-tTG IgA 선별 고려
+  * 셀리악병은 한국에서 유병률이 낮으나 원인 불명 흡수 장애·철 결핍 빈혈·만성 설사에서는 anti-tTG IgA 선별 고려
 * 소장 세균 과증식 (SIBO)
 * 췌장 외분비 기능 부전 (만성 췌장염, pancreatic cystic fibrosis)
 
@@ -61,7 +59,7 @@
 
 #### <mark style="color:$primary;">감염성 설사 (Infection)</mark>
 
-* 세균 : _Clostridioides difficile_, _Mycobacterium avium intracellulare_ (**면역 저하자에서 주로 발생** - HIV, 장기이식, 고용량 스테로이드 복용자)&#x20;
+* 세균 : _Clostridioides difficile_, _Mycobacterium avium intracellulare_ (**면역 저하자에서 주로 발생** - HIV, 장기이식, 고용량 스테로이드 복용자)
 * 바이러스 : cytomegalovirus (**면역 저하자에서 주로 발생**)
 * 기생충 : _Giardia lamblia_, _Cryptosporidium_, _Isospora_, _Strongyloides_
 
