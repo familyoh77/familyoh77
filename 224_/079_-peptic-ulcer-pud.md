@@ -311,7 +311,7 @@ class C,F,G,I,J sky
   * Gastric malignancy (GU는 반드시 조직 검사 확인)
   * Zollinger-Ellison syndrome (gastrinoma)
   * Crohn disease
-  * CMV ulcer (면역저하 환자에서 고려)
+  * CMV ulcer (면역 저하 환자에서 고려)
   * 기타 약제 (bisphosphonate, KCl, chemotherapy)
 
 ***

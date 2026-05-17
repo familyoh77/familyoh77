@@ -10,7 +10,7 @@
 **정의**: 하루 3회 이상 또는 평소보다 묽은 변이 14일 이내 지속되는 경우를 급성 설사로 정의한다.
 
 외래를 방문하는 **급성 물 설사**의 대부분은 바이러스성이며, 자연 호전된다. 성인에서 가장 흔한 원인은 **norovirus**, 소아는 **rotavirus**이다.  
-단, **혈성 설사·고열·심한 복통·여행력·집단 발병**이 있으면 세균성 원인의 가능성이 높아지며, 입원 환자·면역저하자에서는 세균 비율이 훨씬 높다.
+단, **혈성 설사·고열·심한 복통·여행력·집단 발병**이 있으면 세균성 원인의 가능성이 높아지며, 입원 환자·면역 저하자에서는 세균 비율이 훨씬 높다.
 {% endhint %}
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -90,7 +90,7 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 
 * 오염 지역의 물·음식 노출 후 발생하여 **>7일 지속되는 물 설사** 시 의심
 * **_Giardia_**: 복부 팽만·지방변·장기 지속 설사; 무증상 보균도 흔함
-* **_Cryptosporidium_**: 자가 제한적이나 면역저하자에서 만성화·중증화 위험
+* **_Cryptosporidium_**: 자가 제한적이나 면역 저하자에서 만성화·중증화 위험
 * **_E. histolytica_**: 아메바성 이질; 혈성 점액 설사, 우하복부 통증; 간 농양 합병 주의
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -107,7 +107,7 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 * 패혈증 징후: 고열(>39℃), 지속 빈맥, 쇼크 (저혈압, 말초 순환 부전)
 * 심한 복통 (복막 자극 징후, 복벽 강직) - 외과적 응급 (장 천공·허혈) 감별
 * **혈성 설사 + 신기능 저하** → HUS 의심 (STEC, 특히 소아·고령)
-* 면역저하자 (HIV, 항암치료 중)의 심한 설사·발열
+* 면역 저하자 (HIV, 항암치료 중)의 심한 설사·발열
 * 만성 간질환 환자의 생굴·해산물 섭취 후 발열·쇼크 (_V. vulnificus_ 패혈증)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
@@ -186,7 +186,7 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 * LFT, lipase (췌장염 감별)
 * **_C. difficile_ 검사**: PCR 또는 GDH+toxin 조합 검사
   * 적응증: 입원 3일 후 발생, 최근 3개월 내 항생제 사용 후 발생, 최근 입원 또는 요양 시설 거주
-* **혈액 배양**: 패혈증 징후, 창자열(장티푸스) 의심, 면역저하자, 고위험(용혈성 빈혈 등), 유행 지역 여행력 + 원인불명 발열
+* **혈액 배양**: 패혈증 징후, 창자열(장티푸스) 의심, 면역 저하자, 고위험(용혈성 빈혈 등), 유행 지역 여행력 + 원인불명 발열
 
 #### <mark style="color:$primary;">대변 검사</mark>
 
@@ -194,7 +194,7 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 
 * 중등증 이상: 심한 설사(탈수), ≥6회/24시간, 심한 복통
 * 염증성 설사: 혈성·점액성 변, 발열 ≥38.5℃
-* 고위험군: ≥70세, 요양 시설 거주, 기저 질환(심장 질환·IBD), 면역저하, 임신
+* 고위험군: ≥70세, 요양 시설 거주, 기저 질환(심장 질환·IBD), 면역 저하, 임신
 * >7일 지속, 집단 내 전염 우려, 항생제 투여 예정
 
 {% hint style="info" %}
@@ -221,7 +221,7 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 
 * **영상 검사**: 복부 단순 촬영(직립위), 복부·골반 CT, 복부 초음파 (외과적 원인 감별)
 * **대장 내시경**: 대변 검사 음성의 지속성 설사에서 감별 진단 목적으로 고려
-* **기생충 검사**: >7일 지속, 동성애자, 면역저하자, 대변 WBC 거의 없는 혈성 설사
+* **기생충 검사**: >7일 지속, 동성애자, 면역 저하자, 대변 WBC 거의 없는 혈성 설사
 
 ***
 
@@ -240,7 +240,7 @@ graph TD
 
     Symptom -- "물 설사" --> Travel{"여행력·오염 음식?"}
 
-    Travel -- "없음" --> Host{"고위험군?\n(고령·면역저하·임신·시설)"}
+    Travel -- "없음" --> Host{"고위험군?\n(고령·면역 저하·임신·시설)"}
     Host -- "YES" --> StoolExam["대변 검사\n낮은 역치로 검사·치료"]
     Host -- "NO" --> Watery["대증 치료\nORS + 흡착제\n필요 시 지사제"]
 
@@ -274,7 +274,7 @@ graph TD
 ## <mark style="background-color:orange;">Management</mark>
 
 * 대부분 자연 호전 - **수분·전해질 보충과 대증 치료**가 핵심
-* 세균 또는 기생충 감염 의심, 중증·전신 증상, 면역저하자에서만 항생제 고려
+* 세균 또는 기생충 감염 의심, 중증·전신 증상, 면역 저하자에서만 항생제 고려
 * 장 운동 억제제는 침습성 세균 감염(발열·혈성변) 시 사용하지 않음
 
 {% hint style="info" %}
@@ -284,7 +284,7 @@ graph TD
 <tr><td>고열 + 혈성·점액성 설사</td><td>단순 물 설사 (바이러스 의심)</td></tr>
 <tr><td>패혈증 소견</td><td>짧은 경과, 자연 호전 추세</td></tr>
 <tr><td>여행자 설사 중등증 이상</td><td>Norovirus 의심 집단 발생</td></tr>
-<tr><td>면역저하자의 세균성 설사</td><td>발열 없는 혈성 설사 (STEC 의심)</td></tr>
+<tr><td>면역 저하자의 세균성 설사</td><td>발열 없는 혈성 설사 (STEC 의심)</td></tr>
 <tr><td>기생충 감염 확인</td><td>비티푸스 Salmonella (면역 정상)</td></tr>
 <tr><td><em>C. difficile</em> 확인</td><td>단순 바이러스 위장관염</td></tr>
 </tbody></table>
@@ -325,7 +325,7 @@ graph TD
 
 ### <mark style="color:orange;">항생제</mark>
 
-**항생제 적응증**: 세균 또는 기생충 감염 의심, 중증·전신 증상(발열, 혈변), 면역저하자, 여행자 설사 중등증 이상
+**항생제 적응증**: 세균 또는 기생충 감염 의심, 중증·전신 증상(발열, 혈변), 면역 저하자, 여행자 설사 중등증 이상
 
 #### <mark style="color:$primary;">병원체별 항생제 선택</mark>
 
@@ -335,7 +335,7 @@ graph TD
 <tr><td><strong><em>Shigella</em></strong></td><td>Azithromycin 500 mg qd × 3일 (1차 선호)<br/>Ciprofloxacin 500 mg bid × 3–5일<br/>Ceftriaxone 1–2 g IV qd (중증·내성)</td><td>국내외 fluoroquinolone 내성 증가 → azithromycin 우선</td></tr>
 <tr><td><strong><em>Campylobacter</em></strong></td><td>Azithromycin 500 mg qd × 3일</td><td>fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증에서만</td></tr>
 <tr><td><strong><em>V. cholerae</em></strong></td><td>Doxycycline 300 mg 단회 (선호)<br/>Ciprofloxacin 1 g 단회<br/>Azithromycin 1 g 단회</td><td>수액 보충이 치료의 핵심; 항생제는 기간 단축 목적</td></tr>
-<tr><td><strong>비티푸스 <em>Salmonella</em></strong></td><td><strong>일반적으로 항생제 불필요</strong></td><td>항생제 투여 시 균 배출 기간 연장 가능; 고위험군(면역저하·혈관 질환·&lt;1세·고령)만 치료</td></tr>
+<tr><td><strong>비티푸스 <em>Salmonella</em></strong></td><td><strong>일반적으로 항생제 불필요</strong></td><td>항생제 투여 시 균 배출 기간 연장 가능; 고위험군(면역 저하·혈관 질환·&lt;1세·고령)만 치료</td></tr>
 <tr><td><strong>STEC (O157:H7)</strong></td><td><strong>항생제는 일반적으로 피한다</strong></td><td>특히 발열 없는 혈성 설사에서 경험적 항생제를 신중히 재검토; HUS 위험. 장 운동 억제제도 피함</td></tr>
 <tr><td><strong><em>C. difficile</em></strong><br/>(경증~중등증)</td><td>Vancomycin 125 mg qid × 10일 (1차 선호)<br/>Fidaxomicin 200 mg bid × 10일 (재발 위험↑ 시)<br/>Metronidazole 500 mg tid × 10–14일 (대안)</td><td>IDSA/SHEA 2021: vancomycin 또는 fidaxomicin 1차; metronidazole은 타 약제 불가 시만. 중증 기준: WBC ≥15,000/μL 또는 Cr >1.5 mg/dL (또는 기저치 대비 1.5배 이상 상승; CKD 환자는 기저치 대비 판단)</td></tr>
 <tr><td><strong><em>Giardia</em></strong></td><td>Metronidazole 250–500 mg tid × 5–7일 <mark style="color:blue;">[후라시닐]</mark></td><td>대안: tinidazole 2 g 단회</td></tr>
@@ -385,7 +385,7 @@ graph TD
 
 * 급성 감염성 설사 치료 또는 여행자 설사 예방에 대한 근거 불충분 → **일상적 권고 하지 않음**
 * **항생제 연관 설사(AAD) 예방**: _Lactobacillus rhamnosus_ GG, _S. boulardii_ 일부 효과; 고위험군에서 고려 (보험 기준 확인 필요)
-* **주의**: 중증 면역저하자, 중심정맥관 보유 환자에서는 균혈증(bacteremia/fungemia) 위험 보고 → 사용에 주의한다
+* **주의**: 중증 면역 저하자, 중심정맥관 보유 환자에서는 균혈증(bacteremia/fungemia) 위험 보고 → 사용에 주의한다
 
 ## <mark style="color:green;">예방</mark>
 
@@ -453,7 +453,7 @@ graph TD
 > 반코마이신 캡슐 125 ㎎/C　4C　#4 × 10일
 > ```
 >
-> _✽ 최근 항생제 사용력 + 발열·설사(CDI 의심) 시 1차 치료. 원인 항생제는 즉시 중단. 중증(Severe: WBC ≥15,000/μL 또는 Cr >1.5 mg/dL)이면 vancomycin 500 mg qid로 증량 또는 전문의 의뢰. **중증 합병성(Fulminant CDI**: 저혈압·쇼크·장마비·독성거대결장)은 외과 협진 필요. 재발 고위험(고령·면역저하·반복 CDI)은 fidaxomicin 200 mg bid × 10일 우선 고려._
+> _✽ 최근 항생제 사용력 + 발열·설사(CDI 의심) 시 1차 치료. 원인 항생제는 즉시 중단. 중증(Severe: WBC ≥15,000/μL 또는 Cr >1.5 mg/dL)이면 vancomycin 500 mg qid로 증량 또는 전문의 의뢰. **중증 합병성(Fulminant CDI**: 저혈압·쇼크·장마비·독성거대결장)은 외과 협진 필요. 재발 고위험(고령·면역 저하·반복 CDI)은 fidaxomicin 200 mg bid × 10일 우선 고려._
 
 ***
 

@@ -10,7 +10,7 @@
 
 ### <mark style="color:orange;">임상적 분류</mark>
 
-<table><thead><tr><th width="210">분류</th><th width="230">기간·특징</th><th>주요 위험</th></tr></thead><tbody><tr><td>급성 물 설사</td><td>&#x3C;14일, 수양성</td><td>탈수</td></tr><tr><td>급성 혈성 설사</td><td>&#x3C;14일, 혈변·농변 동반</td><td>탈수, 패혈증</td></tr><tr><td>지속적 설사 (prolonged)</td><td>14~30일</td><td>탈수, 영양실조</td></tr><tr><td>영양실조 동반 설사</td><td>소모성 기저질환, 면역저하</td><td>탈수, 심부전, 전신 감염</td></tr></tbody></table>
+<table><thead><tr><th width="210">분류</th><th width="230">기간·특징</th><th>주요 위험</th></tr></thead><tbody><tr><td>급성 물 설사</td><td>&#x3C;14일, 수양성</td><td>탈수</td></tr><tr><td>급성 혈성 설사</td><td>&#x3C;14일, 혈변·농변 동반</td><td>탈수, 패혈증</td></tr><tr><td>지속적 설사 (prolonged)</td><td>14~30일</td><td>탈수, 영양실조</td></tr><tr><td>영양실조 동반 설사</td><td>소모성 기저질환, 면역 저하</td><td>탈수, 심부전, 전신 감염</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인</mark>
 
@@ -51,7 +51,7 @@
 
 * 중등증\~중증 탈수 - 처짐·의식 변화·빈맥·저혈압·말초 청색증
 * 지속적 구토로 경구 수액 요법 불가
-* 면역저하 환자 + 전신 독성 징후 (고열, 패혈증 의심 징후)
+* 면역 저하 환자 + 전신 독성 징후 (고열, 패혈증 의심 징후)
 * 혈변 + 고열 + 전신 독성 동반 (세균혈증·독소 매개 장염 의심)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
@@ -98,7 +98,7 @@
 **다중 분자 진단 검사 (Multiplex stool PCR panel)**
 
 * 세균·바이러스·원충을 동시에 검출; 민감도 높고 결과 빠름 (배양보다 수 시간 내)
-* 적응 : 중증 설사, 면역저하 환자, 입원 환자, 집단 발생 조사
+* 적응 : 중증 설사, 면역 저하 환자, 입원 환자, 집단 발생 조사
 * 주의 : 민감도는 높으나 특이도가 낮아 과잉 진단 위험이 있음; 무증상 보균도 양성으로 나올 수 있어 임상 증상과 반드시 통합 해석
 * 경증 자한성(자기 제한적, self-limiting) 설사에서는 routine 검사로 권고하지 않음
 
@@ -118,7 +118,7 @@
 
 #### <mark style="color:$primary;">증상·병력에 따른 원인 감별</mark>
 
-<table><thead><tr><th width="242">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력 (개발도상국)</td><td>여행자 설사 (ETEC, Campylobacter, Shigella, 원충) (☞ <a href="086_-travelers-diarrhea.md">여행자 설사</a>)</td></tr><tr><td>최근 항생제 사용</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td>Vibrio, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 (수 시간 내 발병)</td><td>독소형 식중독 (S. aureus, B. cereus)</td></tr><tr><td>집단 급식·뷔페 (12~48시간 후 발병)</td><td>Salmonella, 노로바이러스</td></tr><tr><td>혈변 + 고열</td><td>침습성 세균 (Salmonella, Shigella, Campylobacter)</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>STEC 반드시 고려 - 항생제·loperamide 모두 금기 (HUS 위험)*</td></tr><tr><td>소아 + 혈변</td><td>STEC (O157:H7) → HUS 위험; 항생제·loperamide 모두 금기</td></tr><tr><td>임신부 + 발열 동반 설사</td><td><em>Listeria monocytogenes</em> - 대변 배양 + 혈액 배양 고려; 태아·모체 위험</td></tr><tr><td>입원 중 ≥3일 이후 발병</td><td><em>C. difficile</em> 감염</td></tr><tr><td>면역저하 상태</td><td>기회감염 (Cryptosporidium, CMV, Isospora, MAC)</td></tr><tr><td>수양성 설사 + 구토 주증상 (단기 잠복기)</td><td>바이러스성 장염, 독소형 식중독</td></tr><tr><td>반복성·만성 경과 의심</td><td>IBD - 분변 칼프로텍틴(Fecal calprotectin) 검사 보조적 활용 가능</td></tr></tbody></table>
+<table><thead><tr><th width="242">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력 (개발도상국)</td><td>여행자 설사 (ETEC, Campylobacter, Shigella, 원충) (☞ <a href="086_-travelers-diarrhea.md">여행자 설사</a>)</td></tr><tr><td>최근 항생제 사용</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td>Vibrio, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 (수 시간 내 발병)</td><td>독소형 식중독 (S. aureus, B. cereus)</td></tr><tr><td>집단 급식·뷔페 (12~48시간 후 발병)</td><td>Salmonella, 노로바이러스</td></tr><tr><td>혈변 + 고열</td><td>침습성 세균 (Salmonella, Shigella, Campylobacter)</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>STEC 반드시 고려 - 항생제·loperamide 모두 금기 (HUS 위험)*</td></tr><tr><td>소아 + 혈변</td><td>STEC (O157:H7) → HUS 위험; 항생제·loperamide 모두 금기</td></tr><tr><td>임신부 + 발열 동반 설사</td><td><em>Listeria monocytogenes</em> - 대변 배양 + 혈액 배양 고려; 태아·모체 위험</td></tr><tr><td>입원 중 ≥3일 이후 발병</td><td><em>C. difficile</em> 감염</td></tr><tr><td>면역 저하 상태</td><td>기회감염 (Cryptosporidium, CMV, Isospora, MAC)</td></tr><tr><td>수양성 설사 + 구토 주증상 (단기 잠복기)</td><td>바이러스성 장염, 독소형 식중독</td></tr><tr><td>반복성·만성 경과 의심</td><td>IBD - 분변 칼프로텍틴(Fecal calprotectin) 검사 보조적 활용 가능</td></tr></tbody></table>
 
 **\*STEC** (장관 출혈성 대장균) 유의 사항 : 혈변이 있는데 발열이 뚜렷하지 않은 경우 STEC를 반드시 고려; 항생제와 loperamide 모두 독소 방출 촉진 및 HUS(용혈성 요독 증후군) 위험을 증가시킬 수 있으므로 금기; 대변 배양 및 CBC/Cr 추적 필요
 
@@ -143,7 +143,7 @@ graph TD
     S3[">최근 항생제<br/>사용?"]
     CDI["CDI 평가<br/>원인 항생제 중단<br/>대변 CDI 독소/NAAT<br/>vancomycin or fidaxomicin"]
 
-    S4["면역저하·고령·<br/>중증 지속?"]
+    S4["면역 저하·고령·<br/>중증 지속?"]
     HighRisk["Multiplex stool PCR<br/>대변 배양<br/>입원·전원 고려"]
     FU["경과 관찰<br/>2~3일 후 미호전 시 재평가"]
 
@@ -189,7 +189,7 @@ style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 ### <mark style="color:orange;">표현형 기반 처방 방향 (Phenotype-driven approach)</mark>
 
-<table><thead><tr><th width="210">표현형</th><th width="180">시사 원인</th><th width="220">치료 방향</th><th>주의</th></tr></thead><tbody><tr><td>수양성 + 무발열 + 무혈변</td><td>바이러스·비침습성 세균</td><td>ORS + 조기 식이<br>loperamide 또는 racecadotril 고려</td><td>항생제 불필요</td></tr><tr><td>수양성 + 구토 우세</td><td>바이러스·독소형 식중독</td><td>ORS + ondansetron 단회 고려<br>탈수 모니터링</td><td>항생제 불필요</td></tr><tr><td>혈변 + 발열 ≥38.5°C</td><td>침습성 세균</td><td>대변 검사 + STEC 배제<br>azithromycin 고려</td><td>loperamide 금기</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>⚠️ STEC 의심</td><td>대변 배양 + CBC/Cr 추적</td><td>항생제·loperamide 모두 금기 (HUS)</td></tr><tr><td>항생제 사용 후 설사</td><td>CDI</td><td>원인 항생제 중단<br>CDI 독소/NAAT (설사 있을 때만)<br>vancomycin or fidaxomicin</td><td>metronidazole 1차 사용 금지</td></tr><tr><td>고령·면역저하·패혈증 의심</td><td>다양 (기회감염 포함)</td><td>Multiplex PCR/배양<br>입원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
+<table><thead><tr><th width="210">표현형</th><th width="180">시사 원인</th><th width="220">치료 방향</th><th>주의</th></tr></thead><tbody><tr><td>수양성 + 무발열 + 무혈변</td><td>바이러스·비침습성 세균</td><td>ORS + 조기 식이<br>loperamide 또는 racecadotril 고려</td><td>항생제 불필요</td></tr><tr><td>수양성 + 구토 우세</td><td>바이러스·독소형 식중독</td><td>ORS + ondansetron 단회 고려<br>탈수 모니터링</td><td>항생제 불필요</td></tr><tr><td>혈변 + 발열 ≥38.5°C</td><td>침습성 세균</td><td>대변 검사 + STEC 배제<br>azithromycin 고려</td><td>loperamide 금기</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>⚠️ STEC 의심</td><td>대변 배양 + CBC/Cr 추적</td><td>항생제·loperamide 모두 금기 (HUS)</td></tr><tr><td>항생제 사용 후 설사</td><td>CDI</td><td>원인 항생제 중단<br>CDI 독소/NAAT (설사 있을 때만)<br>vancomycin or fidaxomicin</td><td>metronidazole 1차 사용 금지</td></tr><tr><td>고령·면역 저하·패혈증 의심</td><td>다양 (기회감염 포함)</td><td>Multiplex PCR/배양<br>입원 조기 고려</td><td>조기 에스컬레이션</td></tr></tbody></table>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -282,7 +282,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
 **경험적 항생제를 고려하는 경우**\
 ✔ 고열 + 혈성 설사 (침습성 세균 의심)\
 ✔ 중증 여행자 설사\
-✔ 면역저하 환자\
+✔ 면역 저하 환자\
 ✔ 패혈증 의심\
 ✔ 중증 Campylobacter / Shigella 의심\
 ✔ 고령 + 중증 전신 증상
@@ -345,7 +345,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
 #### <mark style="color:$primary;">Probiotics</mark>
 
 * 대부분의 급성 자한성(자기제한적, self-limiting) 설사에서 **routine probiotics 사용은 권고하지 않음** (AGA 2020)
-  * 급성 위장관염, IBS, IBD, CDI 등 대부분의 소화기 질환에 적용 비권고; **면역저하자 금기**
+  * 급성 위장관염, IBS, IBD, CDI 등 대부분의 소화기 질환에 적용 비권고; **면역 저하자 금기**
 * 다만 일부 균주는 다음에서 제한적 이득 가능성 보고:
   * _S. boulardii_, _L. rhamnosus_ GG : **항생제 관련 설사**
   * _L. rhamnosus_ GG : **소아 로타바이러스 설사** - 설사 기간 단축 효과 일부 메타분석에서 확인

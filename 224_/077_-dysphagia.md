@@ -70,7 +70,7 @@
 
 #### <mark style="color:$primary;">감염</mark>
 
-* 식도 칸디다증(면역저하자, 광범위 항생제, 흡입 스테로이드), CMV 식도염, HSV 식도염
+* 식도 칸디다증(면역 저하자, 광범위 항생제, 흡입 스테로이드), CMV 식도염, HSV 식도염
 * 디프테리아, 뇌막염, 라임병, 공수병
 
 #### <mark style="color:$primary;">위험 인자</mark>
@@ -143,7 +143,7 @@
 
 ### <mark style="color:orange;">증상 및 병력에 따른 감별</mark>
 
-<table><thead><tr><th width="334.73687744140625">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) - until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 먼저</td><td>후두 질환</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 나중에</td><td>신경 손상, 악성 종양</td></tr><tr><td>흉통 동반</td><td>DES, jackhammer esophagus, 기능성</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>Sarcopenic dysphagia, presbyphagia</td></tr></tbody></table>
+<table><thead><tr><th width="334.73687744140625">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) - until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 먼저</td><td>후두 질환</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 나중에</td><td>신경 손상, 악성 종양</td></tr><tr><td>흉통 동반</td><td>DES, jackhammer esophagus, 기능성</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역 저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>Sarcopenic dysphagia, presbyphagia</td></tr></tbody></table>
 
 ### <mark style="color:orange;">기능성 삼킴곤란 진단 기준 - ROME Ⅳ</mark>&#x20;
 
@@ -309,8 +309,8 @@ flowchart TD
 
 ### <mark style="color:orange;">감염성 식도염</mark>
 
-* **칸디다 식도염** : fluconazole 100\~200 ㎎ qd × 14\~21일 <mark style="color:blue;">\[디플루칸 캡슐]</mark>; 면역저하자 200 mg qd; nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분
-* **HSV 식도염** : acyclovir 400 ㎎ × 5회/일 × 7\~14일 <mark style="color:blue;">\[조비락스 정]</mark>; 면역저하자 14\~21일
+* **칸디다 식도염** : fluconazole 100\~200 ㎎ qd × 14\~21일 <mark style="color:blue;">\[디플루칸 캡슐]</mark>; 면역 저하자 200 mg qd; nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분
+* **HSV 식도염** : acyclovir 400 ㎎ × 5회/일 × 7\~14일 <mark style="color:blue;">\[조비락스 정]</mark>; 면역 저하자 14\~21일
 * **CMV 식도염** : ganciclovir 5 ㎎/㎏ IV q12h × 21\~28일; 감염내과 협진
 
 ### <mark style="color:orange;">약제 유발성 식도염 (Pill esophagitis)</mark>
@@ -356,10 +356,10 @@ K22.4+Q39.5 식도이완불능증
 >
 > ```
 > 플루코나졸 50 mg (디플루칸 캡슐)   2T   qd   14일
-> (면역저하자: 플루코나졸 50 mg   4T   qd   14~21일)
+> (면역 저하자: 플루코나졸 50 mg   4T   qd   14~21일)
 > ```
 >
-> _✽ 면역정상 성인에서 fluconazole 100 mg qd × 14일이 표준. 면역저하자에서는 200 mg qd × 14\~21일로 증량 및 소화기내과 협진. nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분._
+> _✽ 면역정상 성인에서 fluconazole 100 mg qd × 14일이 표준. 면역 저하자에서는 200 mg qd × 14\~21일로 증량 및 소화기내과 협진. nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분._
 
 > **처방례 3. 호산구성 식도염 (EoE) - PPI 1차 후 국소 스테로이드**
 >

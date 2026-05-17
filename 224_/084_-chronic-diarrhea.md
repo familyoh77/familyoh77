@@ -61,8 +61,8 @@
 
 #### <mark style="color:$primary;">감염성 설사 (Infection)</mark>
 
-* 세균 : _Clostridioides difficile_, _Mycobacterium avium intracellulare_ (**면역저하자에서 주로 발생** - HIV, 장기이식, 고용량 스테로이드 복용자)&#x20;
-* 바이러스 : cytomegalovirus (**면역저하자에서 주로 발생**)
+* 세균 : _Clostridioides difficile_, _Mycobacterium avium intracellulare_ (**면역 저하자에서 주로 발생** - HIV, 장기이식, 고용량 스테로이드 복용자)&#x20;
+* 바이러스 : cytomegalovirus (**면역 저하자에서 주로 발생**)
 * 기생충 : _Giardia lamblia_, _Cryptosporidium_, _Isospora_, _Strongyloides_
 
 #### <mark style="color:$primary;">만성 전신 질환</mark>

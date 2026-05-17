@@ -50,7 +50,7 @@
 #### <mark style="color:$primary;">감염성</mark>
 
 * H. pylori : 가장 흔한 만성 위염 원인; 국내 감염률 약 40\~50% (☞ [헬리코박터](080_-helicobacter-pylori-infection.md))
-* 기타 : S. aureus 외독소, CMV·EBV (면역저하자), Anisakis (해산물 섭취 후 급성 증상)
+* 기타 : S. aureus 외독소, CMV·EBV (면역 저하자), Anisakis (해산물 섭취 후 급성 증상)
 
 #### <mark style="color:$primary;">화학적·물리적 자극</mark>
 
