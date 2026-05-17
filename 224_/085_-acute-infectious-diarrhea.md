@@ -35,87 +35,101 @@
 
 #### <mark style="color:$primary;">균주별 임상 양상</mark>
 
-<table><thead><tr><th width="170">병원체</th><th width="60">발열</th><th width="60">복통</th><th width="80">구역·구토</th><th width="60">혈변</th><th width="102">염증성변</th></tr></thead><tbody><tr><td><em>Salmonella</em></td><td>++</td><td>++</td><td>+</td><td>+</td><td>±</td></tr><tr><td><em>Shigella</em></td><td>++</td><td>++</td><td>++</td><td>++</td><td>+</td></tr><tr><td><em>Campylobacter</em></td><td>++</td><td>++</td><td>++</td><td>+</td><td>±</td></tr><tr><td>STEC (O157:H7)</td><td>0</td><td>++</td><td>+</td><td>++</td><td>0</td></tr><tr><td><em>C. difficile</em></td><td>+</td><td>+</td><td>NC</td><td>+</td><td>+</td></tr><tr><td><em>Yersinia</em></td><td>++</td><td>++</td><td>+</td><td>+</td><td>±</td></tr><tr><td><em>Vibrio</em></td><td>±</td><td>++</td><td>++</td><td>+</td><td>±</td></tr><tr><td><em>E. histolytica</em></td><td>±</td><td>+</td><td>+</td><td>±</td><td>±</td></tr><tr><td><em>Cryptosporidium</em></td><td>±</td><td>±</td><td>±</td><td>NC</td><td>mild</td></tr><tr><td><em>Giardia</em></td><td>NC</td><td>+</td><td>+</td><td>NC</td><td>NC</td></tr><tr><td><strong>Norovirus</strong></td><td>NC/경미</td><td>+</td><td><strong>++</strong></td><td>NC</td><td>NC</td></tr></tbody></table>
+<table><thead><tr><th width="170">병원체</th><th width="60">발열</th><th width="60">복통</th><th width="80">구역·구토</th><th width="60">혈변</th><th width="102">점액변</th></tr></thead><tbody><tr><td><em>Salmonella</em></td><td>++</td><td>++</td><td>+</td><td>+</td><td>±</td></tr><tr><td><em>Shigella</em></td><td>++</td><td>++</td><td>++</td><td>++</td><td>+</td></tr><tr><td><em>Campylobacter</em></td><td>++</td><td>++</td><td>++</td><td>+</td><td>±</td></tr><tr><td>STEC (O157:H7)</td><td>0</td><td>++</td><td>+</td><td>++</td><td>0</td></tr><tr><td><em>C. difficile</em></td><td>+</td><td>+</td><td>NC</td><td>+</td><td>+</td></tr><tr><td><em>Yersinia</em></td><td>++</td><td>++</td><td>+</td><td>+</td><td>±</td></tr><tr><td><em>Vibrio</em></td><td>±</td><td>++</td><td>++</td><td>+</td><td>±</td></tr><tr><td><em>E. histolytica</em></td><td>±</td><td>+</td><td>+</td><td>±</td><td>±</td></tr><tr><td><em>Cryptosporidium</em></td><td>±</td><td>±</td><td>±</td><td>NC</td><td>mild</td></tr><tr><td><em>Giardia</em></td><td>NC</td><td>+</td><td>+</td><td>NC</td><td>NC</td></tr><tr><td><strong>Norovirus</strong></td><td>NC/경미</td><td>+</td><td><strong>++</strong></td><td>NC</td><td>NC</td></tr></tbody></table>
 
 ++=흔함, +=발생함, ±=변이, NC=비특이적, 0=드물거나 없음. STEC=Shiga toxin–producing _E. coli_.\
-**Norovirus**: 구토 우세, 짧은 잠복기(12–48시간), 폭발적 집단 발생이 특징. 발열은 경미하거나 없음.\
-&#xNAN;**\*STEC**: 대변 내 백혈구 검출은 드무나, 강력한 시가 독소(Shiga toxin)에 의해 심한 출혈성 결장염(hemorrhagic colitis)을 유발하므로 대량 혈변과 심한 복통이 특징임. '염증성 변 0'을 '경증'으로 오해하지 않도록 주의.
+Norovirus: 구토 우세, 짧은 잠복기(12–48시간), 폭발적 집단 발생이 특징. 발열은 경미하거나 없음.\
+\*STEC: 대변 내 백혈구 검출은 드무나, 강력한 시가 독소(Shiga toxin)에 의해 심한 출혈성 결장염(hemorrhagic colitis)을 유발하므로 대량 혈변과 심한 복통이 특징임. '염증성 변 0'을 '경증'으로 오해하지 않도록 주의.
 
-<p align="right"><em><mark style="color:$info;">Ref. NEJM 2004;350, Table 1</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. NEJM 2004;350, Table 1</mark></em></p>
 
 #### <mark style="color:$primary;">잠복 기간별 감염 특징</mark>
 
-<table><thead><tr><th width="120">잠복 기간</th><th width="250">원인균 / 주요 증상</th><th>관련 음식·인자</th></tr></thead><tbody><tr><td>1–6시간</td><td><em>S. aureus</em>: 구역·구토·설사<br><em>B. cereus</em>: 구역·구토·설사</td><td>햄, 샐러드, 마요네즈, 크림 페스트리<br>볶은 밥</td></tr><tr><td>8–16시간</td><td><em>C. perfringens</em>: 복통·설사 (구토 드묾)</td><td>소·가금류, 콩류, gravy</td></tr><tr><td>>16시간</td><td><em>V. cholerae</em>: 쌀뜨물 대량 설사<br>ETEC: 물 설사<br>STEC/EHEC: 혈성 설사<br><em>Salmonella</em>: 염증성 설사<br><em>Campylobacter</em>: 발열·혈성 설사<br><em>Shigella</em>: 이질<br>Norovirus: 구토 우세, 물 설사, 집단 발생<br>Rotavirus: 구토·물 설사</td><td>어패류·물<br>분변 오염 음식<br>갈아놓은 쇠고기, 비살균 유제품<br>가금류·계란<br>가금류·비살균 우유<br>밀집 생활<br>레스토랑·단체 시설<br>단체·어린이 시설</td></tr></tbody></table>
+**1\~6시간**
+
+<table data-header-hidden><thead><tr><th width="140"></th><th width="137"></th><th></th></tr></thead><tbody><tr><td><strong>원인균</strong></td><td><strong>증상 / 설사 특징</strong></td><td><strong>원인 음식 / 관련 인자</strong></td></tr><tr><td><em>S. aureus</em></td><td>구역, 구토, 설사</td><td>햄, 가금류, 감자/계란 샐러드, 마요네즈, 크림 패스트리</td></tr><tr><td><em>Bacillus cereus</em></td><td>구역, 구토, 설사</td><td>볶음 밥</td></tr></tbody></table>
+
+**8\~16시간**
+
+<table data-header-hidden><thead><tr><th width="134"></th><th width="195"></th><th></th></tr></thead><tbody><tr><td><strong>원인균</strong></td><td><strong>증상 / 설사 특징</strong></td><td><strong>원인 음식 / 관련 인자</strong></td></tr><tr><td><em>C. perfringens</em></td><td>복통, 설사 (구토는 드묾)</td><td>소/가금류 고기, 콩류, gravy</td></tr><tr><td><em>B. cereus</em></td><td>복통, 설사 (구토는 드묾)</td><td>meats, 채소, 말린 콩, 시리얼</td></tr></tbody></table>
+
+**잠복기: >16시간**
+
+<table data-header-hidden><thead><tr><th width="147"></th><th width="131"></th><th></th></tr></thead><tbody><tr><td><strong>원인균</strong></td><td><strong>증상 / 설사 특징</strong></td><td><strong>원인 음식 / 관련 인자</strong></td></tr><tr><td><em>Vibrio cholerae</em></td><td>물 설사</td><td>어패류, 물</td></tr><tr><td>ETEC</td><td>물 설사</td><td>샐러드, 치즈, meats, 물; 여행</td></tr><tr><td>EHEC</td><td>혈성 설사</td><td>소고기, 살라미, 미-살균 우유/채소, 사과 주스; 단체 생활, 고령</td></tr><tr><td><em>Salmonella</em></td><td>염증성 설사</td><td>소고기, 가금류, 계란, 유제품</td></tr><tr><td><em>Campylobacter</em></td><td>염증성 설사</td><td>가금류, 미-살균 우유; 여행, 동물 접촉</td></tr><tr><td><em>Shigella</em></td><td>dysentery</td><td>감자/계란 샐러드, 상추, 미-살균 채소; 밀집 생활, 여행</td></tr><tr><td><em>V. para-hemolyticus</em></td><td>dysentery</td><td>연체동물, 갑각류</td></tr><tr><td>Norovirus</td><td>발열, 복통, 구토, 물 설사</td><td>감염 분변/구토물에 오염; 레스토랑, 단체 시설</td></tr><tr><td>Rotavirus</td><td>발열, 복통, 구토, 물 설사</td><td>감염 분변에 오염; 단체 시설, 어린이 시설</td></tr></tbody></table>
 
 ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 
-<p align="right"><em><mark style="color:$info;">Ref. Harrison's Principles of Internal Medicine 21st ed. 2022</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of Internal Medicine 21st ed. 2022</mark></em></p>
 
 #### <mark style="color:$primary;">원충 (Protozoa)</mark>
 
-* 오염 지역의 물·음식 노출 후 발생하여 **>7일 지속되는 물 설사** 시 의심
-* _**Giardia**_: 복부 팽만·지방변·장기 지속 설사; 무증상 보균도 흔함
-* _**Cryptosporidium**_: 자가 제한적이나 면역 저하자에서 만성화·중증화 위험
-* _**E. histolytica**_: 아메바성 이질; 혈성 점액 설사, 우하복부 통증; 간 농양 합병 주의
+* 오염 지역의 물·음식 노출 후 발생하여 >7일 지속되는 물 설사 시 의심
+* _Giardia_ : 복부 팽만·지방변·장기 지속 설사; 무증상 보균도 흔함
+* _Cryptosporidium_ : 자가 제한적이나 면역 저하자에서 만성화·중증화 위험
+* _E. histolytica_ : 아메바성 이질; 혈성 점액 설사, 우하복부 통증; 간 농양 합병 주의
 
 ## <mark style="color:green;">임상 양상</mark>
 
 * 급성 발병의 묽은 변 (≥3회/일), 구역·구토, 복통·경련성 복통
-* **발열·혈성·점액성 변** → 침습성 세균 감염 시사
+* 발열·혈성·점액성 변 → 침습성 세균 감염 시사
 * 대부분 2–5일 내 자연 호전; 탈수 여부·속도가 임상적 중증도를 결정
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* 중증 탈수: 기립성 저혈압, 빈맥, 무뇨 또는 핍뇨, 의식 변화
-* 패혈증 징후: 고열(>39℃), 지속 빈맥, 쇼크 (저혈압, 말초 순환 부전)
-* 심한 복통 (복막 자극 징후, 복벽 강직) - 외과적 응급 (장 천공·허혈) 감별
-* **혈성 설사 + 신기능 저하** → HUS 의심 (STEC, 특히 소아·고령)
-* 면역 저하자 (HIV, 항암치료 중)의 심한 설사·발열
-* 만성 간질환 환자의 생굴·해산물 섭취 후 발열·쇼크 (_V. vulnificus_ 패혈증)
+* 기립성 저혈압, 빈맥, 무뇨 또는 핍뇨, 의식 변화 → 중증 탈수
+* 고열(>39℃), 지속 빈맥, 쇼크(저혈압, 말초 순환 부전) → 패혈증 징후
+* 심한 복통 (복막 자극 징후, 복벽 강직) → 장 천공·허혈
+* 혈성 설사 + 신기능 저하 → HUS (STEC, 특히 소아·고령)
+* 면역 저하자(HIV, 항암 치료 중)의 심한 설사·발열
+* 만성 간질환 환자의 생굴·해산물 섭취 후 발열·쇼크 → _V. vulnificus_ 패혈증
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 고열(≥38.5℃) + 혈성·점액성 설사 (침습성 세균 감염 의심)
+* 고열(≥38.5℃) + 혈성·점액성 설사 → 침습성 세균 감염
 * ≥6회/24시간의 설사 지속 및 탈수 진행
 * 고령(≥70세), 임산부, 영아의 중등도 이상 설사
 * 요양 시설·단체 집단 발생 (공중 보건 신고 대상 여부 확인)
-* 최근 3개월 내 항생제 사용 후 발생한 발열·복통 (_C. difficile_ 의심)
+* 최근 3개월 내 항생제 사용 후 발생한 발열·복통 → _C. difficile_
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">– 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* > 7일 지속되는 설사 (만성화, 기생충 감염, IBD 감별 필요)
+* 7일 지속되는 설사 → 만성화, 기생충 감염, IBD
 * 치료 중 증상 악화 또는 새로운 증상 출현
-* 경증 설사에서도 체중 감소 동반 시 (악성 종양·흡수 불량 감별)
+* 경증 설사에서도 체중 감소 동반 시 → 악성 종양·흡수 불량
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">GI 증상에 따른 감별</mark>
+### <mark style="color:orange;">GI 주요 증상에 따른 감별</mark>
 
-<table><thead><tr><th width="170">주요 증상</th><th width="200">의심 병원체</th><th width="100">잠복기</th><th>주요 원인 음식</th></tr></thead><tbody><tr><td><strong>구토 중심</strong></td><td><em>S. aureus</em></td><td>1–6시간</td><td>샐러드, 유제품, 육류</td></tr><tr><td><em>B. cereus</em></td><td>1–6시간</td><td>볶은 밥, 육류</td><td></td></tr><tr><td>Norovirus</td><td>12–48시간</td><td>조개, 조리 음식, 샐러드, 단체 시설</td><td></td></tr><tr><td><em>C. perfringens</em></td><td>8–16시간</td><td>육류, 가금류, 고기 국물</td><td></td></tr><tr><td><strong>물 설사</strong></td><td>ETEC</td><td>1–3일</td><td>분변 오염 음식·물</td></tr><tr><td>장내 바이러스</td><td>10–72시간</td><td>분변 오염 음식·물</td><td></td></tr><tr><td><em>Cryptosporidium</em></td><td>2–28일</td><td>채소, 과일, 비살균 유제품, 물</td><td></td></tr><tr><td><em>Cyclospora</em></td><td>1–11일</td><td>수입 베리류, 바질</td><td></td></tr><tr><td><strong>염증성 설사</strong><br>(발열, 혈성·점액성)</td><td><em>Campylobacter</em></td><td>2–5일</td><td>가금류, 비살균 우유, 물</td></tr><tr><td>비티푸스 <em>Salmonella</em></td><td>1–3일</td><td>계란, 가금류, 육류, 비살균 유제품</td><td></td></tr><tr><td>STEC</td><td>1–8일</td><td>갈아놓은 쇠고기, 비살균 주스·우유</td><td></td></tr><tr><td><em>Shigella</em></td><td>1–3일</td><td>분변 오염 음식·물, 밀집 생활</td><td></td></tr><tr><td><em>V. parahaemolyticus</em></td><td>2–48시간</td><td>익히지 않은 조개·갑각류</td><td></td></tr></tbody></table>
+**구토**
 
-<p align="right"><em><mark style="color:$info;">Ref. Approach to the adult with acute diarrhea in resource-rich settings. UpToDate 2024</mark></em></p>
+<table data-header-hidden><thead><tr><th width="130"></th><th width="123"></th><th></th></tr></thead><tbody><tr><td><strong>균주</strong></td><td><strong>잠복기</strong></td><td><strong>원인 음식</strong></td></tr><tr><td><em>S. aureus</em></td><td>1~6시간</td><td>샐러드, 유제품, meat</td></tr><tr><td><em>B. cereus</em></td><td>1~6시간</td><td>쌀밥, meat</td></tr><tr><td>Norwalk-like viruses</td><td>24~48시간</td><td>조개, 조리된 음식, 샐러드, 샌드위치, 주스</td></tr></tbody></table>
+
+**물 설사**
+
+<table data-header-hidden><thead><tr><th width="153"></th><th width="111"></th><th></th></tr></thead><tbody><tr><td><strong>균주</strong></td><td><strong>잠복기</strong></td><td><strong>원인 음식</strong></td></tr><tr><td><em>C. perfringens</em></td><td>8~16시간</td><td>meat, 가금류, 고기 국물</td></tr><tr><td>ETEC</td><td>1~3일</td><td>분변 오염(물/음식)</td></tr><tr><td>Enteric viruses</td><td>10~72시간</td><td>분변 오염(물/음식)</td></tr><tr><td><em>C. parvum</em></td><td>2~28일</td><td>채소, 과일, 비살균 우유, 물</td></tr><tr><td><em>C. cayetanensis</em></td><td>1~11일</td><td>수입 베리류, 바질</td></tr></tbody></table>
+
+**염증성 설사 (발열, 혈성/점액성 설사)**
+
+<table data-header-hidden><thead><tr><th width="146"></th><th width="92"></th><th></th></tr></thead><tbody><tr><td><strong>균주</strong></td><td><strong>잠복기</strong></td><td><strong>원인 음식</strong></td></tr><tr><td><em>Campylobacter</em></td><td>2~5일</td><td>가금류, 비살균 우유, 물</td></tr><tr><td>Nontyphoidal <em>Salmonella</em></td><td>1~3일</td><td>계란, 가금류, meat, 비살균 우유/주스, 날 음식</td></tr><tr><td>STEC</td><td>1~8일</td><td>갈아 놓은 쇠고기, 비살균 우유/주스, 날 채소, 물</td></tr><tr><td><em>Shigella</em> spp</td><td>1~3일</td><td>분변 오염(물/음식)</td></tr><tr><td><em>V. para-hemolyticus</em></td><td>2~48시간</td><td>익히지 않은 조개</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. Approach to the adult with acute diarrhea in resource-rich settings. UpToDate 2024</mark></em></p>
 
 ### <mark style="color:orange;">혈성 설사의 주요 세균 감별</mark>
 
 혈성 설사에서 세 균주의 감별이 항생제 결정에 결정적이다:
 
-| 특징    | STEC         | _Shigella_    | _Campylobacter_ |
-| ----- | ------------ | ------------- | --------------- |
-| 발열    | 드물거나 없음      | 흔함 (++)       | 흔함 (++)         |
-| 혈변    | 흔함, 대량       | 흔함, 점액 동반     | 가능 (중등도)        |
-| 복통    | 매우 심함        | 중등도, tenesmus | 심한 경련성          |
-| 항생제   | **일반적으로 피함** | **사용**        | 중증 시 사용         |
-| 특기 사항 | HUS 위험       | tenesmus, 이질  | 가금류 노출력         |
+<table data-header-hidden><thead><tr><th width="98"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>특징</td><td>STEC</td><td><em>Shigella</em></td><td><em>Campylobacter</em></td></tr><tr><td>발열</td><td>드물거나 없음</td><td>흔함 (++)</td><td>흔함 (++)</td></tr><tr><td>혈변</td><td>흔함, 대량</td><td>흔함, 점액 동반</td><td>가능 (중등도)</td></tr><tr><td>복통</td><td>매우 심함</td><td>중등도, tenesmus</td><td>심한 경련성</td></tr><tr><td>항생제</td><td>일반적으로 피함</td><td>사용</td><td>중증 시 사용</td></tr><tr><td>특기 사항</td><td>HUS 위험</td><td>tenesmus, 이질</td><td>가금류 노출력</td></tr></tbody></table>
 
 {% hint style="danger" %}
-⚠️ **STEC 감별 핵심**: "발열 없는 혈성 설사 + 심한 복통" → STEC를 먼저 의심하고 항생제 투여를 보류한다. 경험적 항생제 투여 후 HUS가 발생하는 사례가 보고되어 있다.
+**STEC 감별 핵심** : "발열 없는 혈성 설사 + 심한 복통" → STEC를 먼저 의심하고 항생제 투여를 보류한다. 경험적 항생제 투여 후 HUS가 발생하는 사례가 보고되어 있다.
 {% endhint %}
 
 ### <mark style="color:orange;">섭취 음식에 따른 감별</mark>
 
-<table><thead><tr><th width="220">음식·노출</th><th>의심 병원체</th></tr></thead><tbody><tr><td>해산물 (생굴·조개류)</td><td><em>Vibrio</em>, Norovirus, <em>Salmonella</em></td></tr><tr><td>가금류</td><td><em>Campylobacter</em>, <em>Salmonella</em></td></tr><tr><td>계란</td><td><em>Salmonella</em></td></tr><tr><td>갈아놓은 쇠고기</td><td>STEC, EHEC</td></tr><tr><td>마요네즈·크림류</td><td><em>Staphylococcus</em>, <em>C. perfringens</em>, <em>Salmonella</em></td></tr><tr><td>물 (오염 지역)</td><td><em>Vibrio cholerae</em>, <em>Giardia</em>, <em>Cryptosporidium</em></td></tr><tr><td>항생제 복용 후</td><td><em>C. difficile</em></td></tr><tr><td>사람 간 접촉·단체 생활</td><td><em>Shigella</em>, Rotavirus, Norovirus</td></tr></tbody></table>
+<table><thead><tr><th width="194">음식·노출</th><th>의심 병원체</th></tr></thead><tbody><tr><td>해산물 (생굴·조개류)</td><td><em>Vibrio</em>, Norovirus, <em>Salmonella</em></td></tr><tr><td>가금류</td><td><em>Campylobacter</em>, <em>Salmonella</em></td></tr><tr><td>계란</td><td><em>Salmonella</em></td></tr><tr><td>갈아놓은 쇠고기</td><td>STEC, EHEC</td></tr><tr><td>마요네즈·크림류</td><td><em>Staphylococcus</em>, <em>C. perfringens</em>, <em>Salmonella</em></td></tr><tr><td>물 (오염 지역)</td><td><em>Vibrio cholerae</em>, <em>Giardia</em>, <em>Cryptosporidium</em></td></tr><tr><td>항생제 복용 후</td><td><em>C. difficile</em></td></tr><tr><td>사람 간 접촉·단체 생활</td><td><em>Shigella</em>, Rotavirus, Norovirus</td></tr></tbody></table>
 
 ### <mark style="color:orange;">검사 적응증</mark>
 
@@ -126,45 +140,44 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 * CBC, CRP, 전해질, creatinine
 * Lactate (조직 관류 저하, 패혈증·장 경색 감별)
 * LFT, lipase (췌장염 감별)
-* _**C. difficile**_**&#x20;검사**: PCR 또는 GDH+toxin 조합 검사
-  * 적응증: 입원 3일 후 발생, 최근 3개월 내 항생제 사용 후 발생, 최근 입원 또는 요양 시설 거주
-* **혈액 배양**: 패혈증 징후, 창자열(장티푸스) 의심, 면역 저하자, 고위험(용혈성 빈혈 등), 유행 지역 여행력 + 원인불명 발열
+* _C. difficile_ 검사 : PCR 또는 GDH+toxin 조합 검사
+  * 적응증 : 입원 3일 후 발생, 최근 3개월 내 항생제 사용 후 발생, 최근 입원 또는 요양 시설 거주
+* 혈액 배양 : 패혈증 징후, 창자열(장티푸스) 의심, 면역 저하자, 고위험(용혈성 빈혈 등), 유행 지역 여행력 + 원인불명 발열
 
 #### <mark style="color:$primary;">대변 검사</mark>
 
-다음의 경우 고려:
-
-* 중등증 이상: 심한 설사(탈수), ≥6회/24시간, 심한 복통
-* 염증성 설사: 혈성·점액성 변, 발열 ≥38.5℃
-* 고위험군: ≥70세, 요양 시설 거주, 기저 질환(심장 질환·IBD), 면역 저하, 임신
-* > 7일 지속, 집단 내 전염 우려, 항생제 투여 예정
+* 다음의 경우 고려
+  * 중등증 이상 : 심한 설사(탈수), ≥6회/24시간, 심한 복통
+  * 염증성 설사 : 혈성·점액성 변, 발열 ≥38.5℃
+  * 고위험군 : ≥70세, 요양 시설 거주, 기저 질환(심장 질환·IBD), 면역 저하, 임신
+  * 7일 지속, 집단 내 전염 우려, 항생제 투여 예정
 
 {% hint style="info" %}
 **Multiplex PCR (GI Panel) 해석 시 주의**
 
-패널 기반 분자 진단은 신속성이 큰 장점이나 다음을 반드시 고려한다:
+패널 기반 분자 진단은 신속성이 큰 장점이나 다음을 반드시 고려
 
-* **PCR 양성 ≠ 반드시 병원성 원인**: 무증상 보균·잔존 핵산도 검출 가능
-* _**C. difficile**_**&#x20;PCR 특히 주의**: 무증상 보균자에서도 양성이 나올 수 있으므로, 하루 3회 이상의 무른 변이 실제로 확인될 때만 검사 및 치료를 시행한다
+* PCR 양성 ≠ 반드시 병원성 원인: 무증상 보균·잔존 핵산도 검출 가능
+* _C. difficile_ PCR 특히 주의: 무증상 보균자에서도 양성이 나올 수 있으므로, 하루 3회 이상의 무른 변이 실제로 확인될 때만 검사 및 치료를 시행
 * EPEC 등 일부 병원체는 성인에서 임상 의미가 불분명할 수 있음
-* 결과는 반드시 **임상 양상·역학력과 함께 해석**해야 한다; 양성 결과가 반드시 치료 필요성을 의미하지 않는다
+* 결과는 반드시 임상 양상·역학력과 함께 해석해야 한다; 양성 결과가 반드시 치료 필요성을 의미하지 않음
 * 집단 발생·역학 조사 목적 또는 원인 불명 지속 설사에서 보조적으로 사용
 {% endhint %}
 
 #### <mark style="color:$primary;">대변 원인균 검사 \[대한감염학회 기준]</mark>
 
-* 혈변·점액변·심한 복통·압통·패혈증 징후: _Salmonella_, _Shigella_, _Campylobacter_, _Yersinia_, _C. difficile_, STEC 대변 검사
-* 콜레라 유행 지역 여행 후 3일 이내 다량의 쌀뜨물 설사: 콜레라 대변 검사
-* 집단 설사 질환 발생 의심: 대변 검사 (역학 조사 포함)
+* 혈변·점액변·심한 복통·압통·패혈증 징후 : _Salmonella_, _Shigella_, _Campylobacter_, _Yersinia_, _C. difficile_, STEC 대변 검사
+* 콜레라 유행 지역 여행 후 3일 이내 다량의 쌀뜨물 설사 : 콜레라 대변 검사
+* 집단 설사 질환 발생 의심 : 대변 검사 (역학 조사 포함)
 * 역학적 연관 + Shiga toxin 생성균 가능성 (발열 없이 혈성 설사 또는 심한 복통): Shiga toxin 검사
-* 여행자 14일 이상 설사 지속: 기생충 검사
-* 설사 발생 전 8–12주 내 항생제 복용력: _C. difficile_ 검사
+* 여행자 14일 이상 설사 지속 : 기생충 검사
+* 설사 발생 전 8\~12주 내 항생제 복용력 : _C. difficile_ 검사
 
 #### <mark style="color:$primary;">기타 검사</mark>
 
-* **영상 검사**: 복부 단순 촬영(직립위), 복부·골반 CT, 복부 초음파 (외과적 원인 감별)
-* **대장 내시경**: 대변 검사 음성의 지속성 설사에서 감별 진단 목적으로 고려
-* **기생충 검사**: >7일 지속, 동성애자, 면역 저하자, 대변 WBC 거의 없는 혈성 설사
+* 영상 검사 : 복부 단순 촬영(직립위), 복부·골반 CT, 복부 초음파 (외과적 원인 감별)
+* 대장 내시경 : 대변 검사 음성의 지속성 설사에서 감별 진단 목적으로 고려
+* 기생충 검사 : >7일 지속, 동성애자, 면역 저하자, 대변 WBC 거의 없는 혈성 설사
 
 ***
 
@@ -210,58 +223,52 @@ graph TD
 
 <p align="center"><strong>급성 감염성 설사 진단·치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한감염학회. 급성 위장관계 감염 항생제 사용지침. 2019; ACG Clinical Guideline. Am J Gastroenterol 2016</mark></em></p>
-
 ***
 
 ## <mark style="background-color:orange;">Management</mark>
 
-* 대부분 자연 호전 - **수분·전해질 보충과 대증 치료**가 핵심
+* 대부분 자연 호전 - 수분·전해질 보충과 대증 치료가 핵심
 * 세균 또는 기생충 감염 의심, 중증·전신 증상, 면역 저하자에서만 항생제 고려
 * 장 운동 억제제는 침습성 세균 감염(발열·혈성변) 시 사용하지 않음
 
-{% hint style="info" %}
-**처방 결정 요약: 항생제가 필요한 상황 vs. 일반적으로 불필요한 상황**
-{% endhint %}
+**항생제가 필요한 상황 vs. 일반적으로 불필요한 상황**
 
 <table><thead><tr><th width="280">항생제 적극 고려</th><th>일반적으로 불필요</th></tr></thead><tbody><tr><td>고열 + 혈성·점액성 설사</td><td>단순 물 설사 (바이러스 의심)</td></tr><tr><td>패혈증 소견</td><td>짧은 경과, 자연 호전 추세</td></tr><tr><td>여행자 설사 중등증 이상</td><td>Norovirus 의심 집단 발생</td></tr><tr><td>면역 저하자의 세균성 설사</td><td>발열 없는 혈성 설사 (STEC 의심)</td></tr><tr><td>기생충 감염 확인</td><td>비티푸스 Salmonella (면역 정상)</td></tr><tr><td><em>C. difficile</em> 확인</td><td>단순 바이러스 위장관염</td></tr></tbody></table>
 
-{% hint style="danger" %}
-⚠️ **항생제 사용의 흔한 오류**
+**항생제 사용의 흔한 오류**
 
 * 발열 없는 혈성 설사에 경험적 quinolone 투여 (STEC 과놓침)
 * 단순 바이러스 설사에 광범위 항생제 처방
 * loperamide를 혈성 설사·고열 환자에 사용
 * _C. difficile_ 의심 환자에 원인 항생제 지속 또는 불필요한 추가 항생제 사용
 * 탈수 교정보다 약 처방을 먼저 시작
-{% endhint %}
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
 ### <mark style="color:orange;">수분 및 전해질 보충</mark>
 
-<table><thead><tr><th width="180">상황</th><th>권장 수액</th></tr></thead><tbody><tr><td>경증 탈수</td><td>ORS (경구 수분 보충액) 우선</td></tr><tr><td>중등도 탈수</td><td>ORS 우선; 경구 불가 시 IV 병용</td></tr><tr><td>쇼크·패혈증</td><td>Lactated Ringer's 또는 NS IV bolus 우선</td></tr><tr><td>콜레라</td><td>공격적 Lactated Ringer's IV (Na 손실량 매우 큼)</td></tr></tbody></table>
+<table><thead><tr><th width="156">상황</th><th>권장 수액</th></tr></thead><tbody><tr><td>경증 탈수</td><td>ORS (경구 수분 보충액) 우선</td></tr><tr><td>중등도 탈수</td><td>ORS 우선; 경구 불가 시 IV 병용</td></tr><tr><td>쇼크·패혈증</td><td>Lactated Ringer's 또는 NS IV bolus 우선</td></tr><tr><td>콜레라</td><td>공격적 Lactated Ringer's IV (Na 손실량 매우 큼)</td></tr></tbody></table>
 
-* **경구 수분 보충(ORS)**: 경증\~중등증 탈수의 일차 치료
-  * WHO 저삼투압 ORS(Na 75 mEq/L) 권장; 자가 제조: 물 1 L + 설탕 6 tsp + 소금 ½ tsp
-  * **구토가 있을 때**: 한 번에 많이 마시지 말고 **1–2분마다 한두 모금씩** 반복 섭취 → 구토 감소, ORS 성공률 향상
+* 경구 수분 보충(ORS): 경증\~중등증 탈수의 일차 치료
+  * WHO 저삼투압 ORS(Na 75 mEq/L) 권장; 자가 제조 : 물 1 L + 설탕 6 tsp + 소금 ½ tsp
+  * 구토가 있을 때 : 한 번에 많이 마시지 말고 1–2분마다 한두 모금씩 반복 섭취 → 구토 감소, ORS 성공률 향상
 
 ### <mark style="color:orange;">식이</mark>
 
-* **금식은 권장하지 않음** - 가능한 한 조기 정상 식이 재개
+* 금식은 권장하지 않음 - 가능한 한 조기 정상 식이 재개
 * 초기에는 소화 쉬운 식품 선택: 죽, 삶은 감자, 토스트, 바나나
 * 유제품, 고지방식, 카페인, 알코올 일시적 제한
-* BRAT 식이(바나나·쌀밥·사과소스·토스트)는 영양 불균형 우려로 현재 **권고하지 않음**
+* BRAT 식이(바나나·쌀밥·사과소스·토스트)는 영양 불균형 우려로 현재 권고하지 않음
 
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">항생제</mark>
 
-**항생제 적응증**: 세균 또는 기생충 감염 의심, 중증·전신 증상(발열, 혈변), 면역 저하자, 여행자 설사 중등증 이상
+* 항생제 적응증 : 세균 또는 기생충 감염 의심, 중증·전신 증상(발열, 혈변), 면역 저하자, 여행자 설사 중등증 이상
 
 #### <mark style="color:$primary;">병원체별 항생제 선택</mark>
 
-<table><thead><tr><th width="200">병원체 / 상황</th><th width="290">선호 항생제 (용법)</th><th>비고</th></tr></thead><tbody><tr><td><strong>경험적 치료</strong><br>(침습성 설사 의심, 중증)</td><td>Azithromycin 500 mg qd × 3일<br>Ciprofloxacin 500 mg bid × 3–5일</td><td>동남아·인도: fluoroquinolone 내성 Campylobacter 흔함 → azithromycin 우선</td></tr><tr><td><strong>여행자 설사</strong><br>(비침습성, 발열·혈변 없음)</td><td>Azithromycin 1,000 mg 단회<br>또는 500 mg qd × 3일<br>Rifaximin 200 mg tid × 3일 (대안)</td><td>Rifaximin은 비침습성 설사에만 사용; 발열·혈변 있으면 전신 흡수 항생제 필요</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>Azithromycin 500 mg qd × 3일 (1차 선호)<br>Ciprofloxacin 500 mg bid × 3–5일<br>Ceftriaxone 1–2 g IV qd (중증·내성)</td><td>국내외 fluoroquinolone 내성 증가 → azithromycin 우선</td></tr><tr><td><em><strong>Campylobacter</strong></em></td><td>Azithromycin 500 mg qd × 3일</td><td>fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증에서만</td></tr><tr><td><em><strong>V. cholerae</strong></em></td><td>Doxycycline 300 mg 단회 (선호)<br>Ciprofloxacin 1 g 단회<br>Azithromycin 1 g 단회</td><td>수액 보충이 치료의 핵심; 항생제는 기간 단축 목적</td></tr><tr><td><strong>비티푸스 </strong><em><strong>Salmonella</strong></em></td><td><strong>일반적으로 항생제 불필요</strong></td><td>항생제 투여 시 균 배출 기간 연장 가능; 고위험군(면역 저하·혈관 질환·&#x3C;1세·고령)만 치료</td></tr><tr><td><strong>STEC (O157:H7)</strong></td><td><strong>항생제는 일반적으로 피한다</strong></td><td>특히 발열 없는 혈성 설사에서 경험적 항생제를 신중히 재검토; HUS 위험. 장 운동 억제제도 피함</td></tr><tr><td><em><strong>C. difficile</strong></em><br>(경증~중등증)</td><td>Vancomycin 125 mg qid × 10일 (1차 선호)<br>Fidaxomicin 200 mg bid × 10일 (재발 위험↑ 시)<br>Metronidazole 500 mg tid × 10–14일 (대안)</td><td>IDSA/SHEA 2021: vancomycin 또는 fidaxomicin 1차; metronidazole은 타 약제 불가 시만. 중증 기준: WBC ≥15,000/μL 또는 Cr >1.5 mg/dL (또는 기저치 대비 1.5배 이상 상승; CKD 환자는 기저치 대비 판단)</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>Metronidazole 250–500 mg tid × 5–7일 <mark style="color:blue;">[후라시닐]</mark></td><td>대안: tinidazole 2 g 단회</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>Metronidazole 500–750 mg tid × 10일 <mark style="color:blue;">[후라시닐]</mark></td><td>이후 paromomycin으로 장내 낭종 제거</td></tr></tbody></table>
+<table><thead><tr><th width="135">병원체 / 상황</th><th width="290">선호 항생제 (용법)</th><th>비고</th></tr></thead><tbody><tr><td><strong>경험적 치료</strong><br>(침습성 설사 의심, 중증)</td><td>Azithromycin 500 mg qd × 3일<br>Ciprofloxacin 500 mg bid × 3–5일</td><td>동남아·인도: fluoroquinolone 내성 Campylobacter 흔함 → azithromycin 우선</td></tr><tr><td><strong>여행자 설사</strong><br>(비침습성, 발열·혈변 없음)</td><td>Azithromycin 1,000 mg 단회<br>또는 500 mg qd × 3일<br>Rifaximin 200 mg tid × 3일 (대안)</td><td>Rifaximin은 비침습성 설사에만 사용; 발열·혈변 있으면 전신 흡수 항생제 필요</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>Azithromycin 500 mg qd × 3일 (1차 선호)<br>Ciprofloxacin 500 mg bid × 3–5일<br>Ceftriaxone 1–2 g IV qd (중증·내성)</td><td>국내외 fluoroquinolone 내성 증가 → azithromycin 우선</td></tr><tr><td><em><strong>Campylo-bacter</strong></em></td><td>Azithromycin 500 mg qd × 3일</td><td>fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증에서만</td></tr><tr><td><em><strong>V. cholerae</strong></em></td><td>Doxycycline 300 mg 단회 (선호)<br>Ciprofloxacin 1 g 단회<br>Azithromycin 1 g 단회</td><td>수액 보충이 치료의 핵심; 항생제는 기간 단축 목적</td></tr><tr><td><strong>비티푸스 </strong><em><strong>Salmonella</strong></em></td><td><strong>일반적으로 항생제 불필요</strong></td><td>항생제 투여 시 균 배출 기간 연장 가능; 고위험군(면역 저하·혈관 질환·&#x3C;1세·고령)만 치료</td></tr><tr><td><strong>STEC (O157:H7)</strong></td><td><strong>항생제는 일반적으로 피한다</strong></td><td>특히 발열 없는 혈성 설사에서 경험적 항생제를 신중히 재검토; HUS 위험. 장 운동 억제제도 피함</td></tr><tr><td><em><strong>C. difficile</strong></em><br>(경증~중등증)</td><td>Vancomycin 125 mg qid × 10일 (1차 선호)<br>Fidaxomicin 200 mg bid × 10일 (재발 위험↑ 시)<br>Metronidazole 500 mg tid × 10–14일 (대안)</td><td>IDSA/SHEA 2021: vancomycin 또는 fidaxomicin 1차; metronidazole은 타 약제 불가 시만. 중증 기준: WBC ≥15,000/μL 또는 Cr >1.5 mg/dL (또는 기저치 대비 1.5배 이상 상승; CKD 환자는 기저치 대비 판단)</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>Metronidazole 250–500 mg tid × 5~7일 <mark style="color:blue;">[후라시닐]</mark></td><td>대안: tinidazole 2 g 단회</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>Metronidazole 500–750 mg tid × 10일 <mark style="color:blue;">[후라시닐]</mark></td><td>이후 paromomycin으로 장내 낭종 제거</td></tr></tbody></table>
 
 {% hint style="info" %}
 **fluoroquinolone 내성 현황**: 국내외적으로 \_Campylobacter\_와 \_Shigella\_에서 fluoroquinolone 내성이 크게 증가하고 있다. \_Salmonella\_에서도 fluoroquinolone 내성이 증가 추세이며, 특히 아시아 유래 균주에서 주의가 필요하다. 동남아·인도 여행 후 발생한 설사에서는 azithromycin을 경험적 1차 치료로 우선 고려하며, 단회 요법(doxycycline, ciprofloxacin 등)은 지역 내 내성률에 따라 효과가 다를 수 있으므로 참고한다.
