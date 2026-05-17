@@ -4,7 +4,7 @@
 
 * 감염원에 의해 발생한, 기간이 14일 이내인 설사; 보통 구역·구토·복통 동반
 * 이질 (dysentery) : 혈성 또는 점액성의 심한 설사, 발열, 복통
-* 여행자 설사 : 여행 시작 3–7일 후 갑자기 시작 (☞ [여행자 설사](086_-travelers-diarrhea.md))
+* 여행자 설사 : 여행 시작 3~7일 후 갑자기 시작 (☞ [여행자 설사](086_-travelers-diarrhea.md))
 
 {% hint style="info" %}
 **급성 설사의 정의의** : 하루 3회 이상 또는 평소보다 묽은 변이 14일 이내 지속되는 경우
@@ -38,7 +38,7 @@
 <table><thead><tr><th width="170">병원체</th><th width="60">발열</th><th width="60">복통</th><th width="80">구역·구토</th><th width="60">혈변</th><th width="102">점액변</th></tr></thead><tbody><tr><td><em>Salmonella</em></td><td>++</td><td>++</td><td>+</td><td>+</td><td>±</td></tr><tr><td><em>Shigella</em></td><td>++</td><td>++</td><td>++</td><td>++</td><td>+</td></tr><tr><td><em>Campylobacter</em></td><td>++</td><td>++</td><td>++</td><td>+</td><td>±</td></tr><tr><td>STEC (O157:H7)</td><td>0</td><td>++</td><td>+</td><td>++</td><td>0</td></tr><tr><td><em>C. difficile</em></td><td>+</td><td>+</td><td>NC</td><td>+</td><td>+</td></tr><tr><td><em>Yersinia</em></td><td>++</td><td>++</td><td>+</td><td>+</td><td>±</td></tr><tr><td><em>Vibrio</em></td><td>±</td><td>++</td><td>++</td><td>+</td><td>±</td></tr><tr><td><em>E. histolytica</em></td><td>±</td><td>+</td><td>+</td><td>±</td><td>±</td></tr><tr><td><em>Cryptosporidium</em></td><td>±</td><td>±</td><td>±</td><td>NC</td><td>mild</td></tr><tr><td><em>Giardia</em></td><td>NC</td><td>+</td><td>+</td><td>NC</td><td>NC</td></tr><tr><td><strong>Norovirus</strong></td><td>NC/경미</td><td>+</td><td><strong>++</strong></td><td>NC</td><td>NC</td></tr></tbody></table>
 
 ++=흔함, +=발생함, ±=변이, NC=비특이적, 0=드물거나 없음. STEC=Shiga toxin–producing _E. coli_.\
-Norovirus: 구토 우세, 짧은 잠복기(12–48시간), 폭발적 집단 발생이 특징. 발열은 경미하거나 없음.\
+Norovirus: 구토 우세, 짧은 잠복기(12~48시간), 폭발적 집단 발생이 특징. 발열은 경미하거나 없음.\
 \*STEC: 대변 내 백혈구 검출은 드무나, 강력한 시가 독소(Shiga toxin)에 의해 심한 출혈성 결장염(hemorrhagic colitis)을 유발하므로 대량 혈변과 심한 복통이 특징임. '염증성 변 0'을 '경증'으로 오해하지 않도록 주의.
 
 <p align="center"><em><mark style="color:$info;">Ref. NEJM 2004;350, Table 1</mark></em></p>
@@ -72,7 +72,7 @@ ETEC=Enterotoxigenic _E. coli_, EHEC=Enterohemorrhagic _E. coli_.
 
 * 급성 발병의 묽은 변 (≥3회/일), 구역·구토, 복통·경련성 복통
 * 발열·혈성·점액성 변 → 침습성 세균 감염 시사
-* 대부분 2–5일 내 자연 호전; 탈수 여부·속도가 임상적 중증도를 결정
+* 대부분 2~5일 내 자연 호전; 탈수 여부·속도가 임상적 중증도를 결정
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -251,7 +251,7 @@ graph TD
 
 * 경구 수분 보충(ORS): 경증\~중등증 탈수의 일차 치료
   * WHO 저삼투압 ORS(Na 75 mEq/L) 권장; 자가 제조 : 물 1 L + 설탕 6 tsp + 소금 ½ tsp
-  * 구토가 있을 때 : 한 번에 많이 마시지 말고 1–2분마다 한두 모금씩 반복 섭취 → 구토 감소, ORS 성공률 향상
+  * 구토가 있을 때 : 한 번에 많이 마시지 말고 1~2분마다 한두 모금씩 반복 섭취 → 구토 감소, ORS 성공률 향상
 
 ### <mark style="color:orange;">식이</mark>
 
@@ -268,7 +268,7 @@ graph TD
 
 #### <mark style="color:$primary;">병원체별 항생제 선택</mark>
 
-<table><thead><tr><th width="135">병원체 / 상황</th><th width="290">선호 항생제 (용법)</th><th>비고</th></tr></thead><tbody><tr><td><strong>경험적 치료</strong><br>(침습성 설사 의심, 중증)</td><td>Azithromycin 500 mg qd × 3일<br>Ciprofloxacin 500 mg bid × 3–5일</td><td>동남아·인도: fluoroquinolone 내성 Campylobacter 흔함 → azithromycin 우선</td></tr><tr><td><strong>여행자 설사</strong><br>(비침습성, 발열·혈변 없음)</td><td>Azithromycin 1,000 mg 단회<br>또는 500 mg qd × 3일<br>Rifaximin 200 mg tid × 3일 (대안)</td><td>Rifaximin은 비침습성 설사에만 사용; 발열·혈변 있으면 전신 흡수 항생제 필요</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>Azithromycin 500 mg qd × 3일 (1차 선호)<br>Ciprofloxacin 500 mg bid × 3–5일<br>Ceftriaxone 1–2 g IV qd (중증·내성)</td><td>국내외 fluoroquinolone 내성 증가 → azithromycin 우선</td></tr><tr><td><em><strong>Campylo-bacter</strong></em></td><td>Azithromycin 500 mg qd × 3일</td><td>fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증에서만</td></tr><tr><td><em><strong>V. cholerae</strong></em></td><td>Doxycycline 300 mg 단회 (선호)<br>Ciprofloxacin 1 g 단회<br>Azithromycin 1 g 단회</td><td>수액 보충이 치료의 핵심; 항생제는 기간 단축 목적</td></tr><tr><td><strong>비티푸스 </strong><em><strong>Salmonella</strong></em></td><td><strong>일반적으로 항생제 불필요</strong></td><td>항생제 투여 시 균 배출 기간 연장 가능; 고위험군(면역 저하·혈관 질환·&#x3C;1세·고령)만 치료</td></tr><tr><td><strong>STEC (O157:H7)</strong></td><td><strong>항생제는 일반적으로 피한다</strong></td><td>특히 발열 없는 혈성 설사에서 경험적 항생제를 신중히 재검토; HUS 위험. 장 운동 억제제도 피함</td></tr><tr><td><em><strong>C. difficile</strong></em><br>(경증~중등증)</td><td>Vancomycin 125 mg qid × 10일 (1차 선호)<br>Fidaxomicin 200 mg bid × 10일 (재발 위험↑ 시)<br>Metronidazole 500 mg tid × 10–14일 (대안)</td><td>IDSA/SHEA 2021: vancomycin 또는 fidaxomicin 1차; metronidazole은 타 약제 불가 시만. 중증 기준: WBC ≥15,000/μL 또는 Cr >1.5 mg/dL (또는 기저치 대비 1.5배 이상 상승; CKD 환자는 기저치 대비 판단)</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>Metronidazole 250–500 mg tid × 5~7일 <mark style="color:blue;">[후라시닐]</mark></td><td>대안: tinidazole 2 g 단회</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>Metronidazole 500–750 mg tid × 10일 <mark style="color:blue;">[후라시닐]</mark></td><td>이후 paromomycin으로 장내 낭종 제거</td></tr></tbody></table>
+<table><thead><tr><th width="135">병원체 / 상황</th><th width="290">선호 항생제 (용법)</th><th>비고</th></tr></thead><tbody><tr><td><strong>경험적 치료</strong><br>(침습성 설사 의심, 중증)</td><td>Azithromycin 500 ㎎ qd × 3일<br>Ciprofloxacin 500 ㎎ bid × 3~5일</td><td>동남아·인도: fluoroquinolone 내성 Campylobacter 흔함 → azithromycin 우선</td></tr><tr><td><strong>여행자 설사</strong><br>(비침습성, 발열·혈변 없음)</td><td>Azithromycin 1,000 ㎎ 단회<br>또는 500 ㎎ qd × 3일<br>Rifaximin 200 ㎎ tid × 3일 (대안)</td><td>Rifaximin은 비침습성 설사에만 사용; 발열·혈변 있으면 전신 흡수 항생제 필요</td></tr><tr><td><em><strong>Shigella</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일 (1차 선호)<br>Ciprofloxacin 500 ㎎ bid × 3~5일<br>Ceftriaxone 1~2 g IV qd (중증·내성)</td><td>국내외 fluoroquinolone 내성 증가 → azithromycin 우선</td></tr><tr><td><em><strong>Campylo-bacter</strong></em></td><td>Azithromycin 500 ㎎ qd × 3일</td><td>fluoroquinolone 내성 매우 흔함; 자연 호전도 많으므로 중증에서만</td></tr><tr><td><em><strong>V. cholerae</strong></em></td><td>Doxycycline 300 ㎎ 단회 (선호)<br>Ciprofloxacin 1 g 단회<br>Azithromycin 1 g 단회</td><td>수액 보충이 치료의 핵심; 항생제는 기간 단축 목적</td></tr><tr><td><strong>비티푸스 </strong><em><strong>Salmonella</strong></em></td><td><strong>일반적으로 항생제 불필요</strong></td><td>항생제 투여 시 균 배출 기간 연장 가능; 고위험군(면역 저하·혈관 질환·&#x3C;1세·고령)만 치료</td></tr><tr><td><strong>STEC (O157:H7)</strong></td><td><strong>항생제는 일반적으로 피한다</strong></td><td>특히 발열 없는 혈성 설사에서 경험적 항생제를 신중히 재검토; HUS 위험. 장 운동 억제제도 피함</td></tr><tr><td><em><strong>C. difficile</strong></em><br>(경증~중등증)</td><td>Vancomycin 125 ㎎ qid × 10일 (1차 선호)<br>Fidaxomicin 200 ㎎ bid × 10일 (재발 위험↑ 시)<br>Metronidazole 500 ㎎ tid × 10~14일 (대안)</td><td>IDSA/SHEA 2021: vancomycin 또는 fidaxomicin 1차; metronidazole은 타 약제 불가 시만. 중증 기준: WBC ≥15,000/μL 또는 Cr >1.5 ㎎/㎗ (또는 기저치 대비 1.5배 이상 상승; CKD 환자는 기저치 대비 판단)</td></tr><tr><td><em><strong>Giardia</strong></em></td><td>Metronidazole 250~500 ㎎ tid × 5~7일 <mark style="color:blue;">[후라시닐]</mark></td><td>대안: tinidazole 2 g 단회</td></tr><tr><td><em><strong>E. histolytica</strong></em></td><td>Metronidazole 500~750 ㎎ tid × 10일 <mark style="color:blue;">[후라시닐]</mark></td><td>이후 paromomycin으로 장내 낭종 제거</td></tr></tbody></table>
 
 {% hint style="info" %}
 **fluoroquinolone 내성 현황**: 국내외적으로 \_Campylobacter\_와 \_Shigella\_에서 fluoroquinolone 내성이 크게 증가하고 있다. \_Salmonella\_에서도 fluoroquinolone 내성이 증가 추세이며, 특히 아시아 유래 균주에서 주의가 필요하다. 동남아·인도 여행 후 발생한 설사에서는 azithromycin을 경험적 1차 치료로 우선 고려하며, 단회 요법(doxycycline, ciprofloxacin 등)은 지역 내 내성률에 따라 효과가 다를 수 있으므로 참고한다.
@@ -277,25 +277,25 @@ graph TD
 ### <mark style="color:orange;">장 운동 조절제</mark>
 
 * 일부 설사 횟수 감소 효과; **침습성 세균 감염(발열·혈성·점액성 변) 시 사용하지 않음**
-* **loperamide**: 초회 4 mg, 이후 필요시 2 mg; 최대 16 mg/24시간 <mark style="color:blue;">\[로프민]</mark>
+* **loperamide**: 초회 4 ㎎, 이후 필요시 2 ㎎; 최대 16 ㎎/24시간 <mark style="color:blue;">\[로프민]</mark>
   * 경험적 항생제와 병용 시 여행자 설사에서 증상 기간 단축 가능
   * **사용하지 않는 경우**: 이질, 침습성 감염 의심, STEC 의심(발열 없는 혈성 설사)
-* **cimetropium**: 50 mg tid <mark style="color:blue;">\[알기론]</mark> (장 경련·복통 완화)
-* **tiropramide**: 100 mg bid–tid <mark style="color:blue;">\[티로파]</mark> (장 경련·복통 완화)
+* **cimetropium**: 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark> (장 경련·복통 완화)
+* **tiropramide**: 100 ㎎ bid~tid <mark style="color:blue;">\[티로파]</mark> (장 경련·복통 완화)
 
 ### <mark style="color:orange;">구토 조절제 (Antiemetics)</mark>
 
 * 심한 구토로 ORS 섭취가 어려울 때 제한적으로 고려
-* **ondansetron**: 4–8 mg PO (또는 ODT) <mark style="color:blue;">\[조프란]</mark>
+* **ondansetron**: 4~8 ㎎ PO (또는 ODT) <mark style="color:blue;">\[조프란]</mark>
   * 구토 조절 → ORS 성공률 향상 → IV 수액 필요성 감소; 소아·성인 모두 사용 가능
   * 중증 설사·발열이 있을 때 증상 은폐 가능성 주의; 대증 목적으로 제한 사용
 
 ### <mark style="color:orange;">분비 억제제 (Antisecretory)</mark>
 
-* **bismuth subsalicylate**: 262 mg/30분마다, 1일 최대 8회 × 1–2일
+* **bismuth subsalicylate**: 262 ㎎/30분마다, 1일 최대 8회 × 1~2일
   * 구역·설사·복통에 완만한 효과; 국내 처방 빈도는 낮음
   * 아스피린 과민, 소아, 임산부 주의
-* **racecadotril (thiorphan)**: 100 mg tid (성인 기준) <mark style="color:blue;">\[리오나정]</mark>
+* **racecadotril (thiorphan)**: 100 ㎎ tid (성인 기준) <mark style="color:blue;">\[리오나정]</mark>
   * Enkephalinase 억제제 → 장 분비 억제; **장 운동에 영향을 주지 않아 반동 변비·복부 팽만이 상대적으로 적음**
   * 침습성 설사 의심 또는 loperamide 사용이 어려운 상황의 대안; 소아 급성 설사에서도 일부 근거 있음 (소아용 현탁액·산제 제형 별도 존재)
   * **급여 주의**: 성인에서는 전액 본인부담(비급여)인 경우가 많음; 소아는 일부 급여 인정 - 처방 전 급여 기준 확인
@@ -324,7 +324,7 @@ graph TD
 * **식품 안전**: 고기·해산물 충분히 가열, 생채소·과일 세척, 비살균 유제품 회피
 * **여행 시**: 병수(bottled water) 또는 끓인 물 사용; 길거리 음식·생선회 주의
 * **백신**:
-  * **로타바이러스 백신**: 영아 필수 예방접종 (2회 또는 3회); 중증 설사로 인한 입원을 약 70–85% 감소시키는 우수한 예방 효과 (WHO)
+  * **로타바이러스 백신**: 영아 필수 예방접종 (2회 또는 3회); 중증 설사로 인한 입원을 약 70~85% 감소시키는 우수한 예방 효과 (WHO)
   * **경구 콜레라 백신**: 유행 지역 여행 전 고려
 
 ***
@@ -381,13 +381,13 @@ graph TD
 > 반코마이신 캡슐 125 ㎎/C　4C　#4 × 10일
 > ```
 >
-> _✽ 최근 항생제 사용력 + 발열·설사(CDI 의심) 시 1차 치료. 원인 항생제는 즉시 중단. 중증(Severe: WBC ≥15,000/μL 또는 Cr >1.5 mg/dL)이면 vancomycin 500 mg qid로 증량 또는 전문의 의뢰. **중증 합병성(Fulminant CDI**: 저혈압·쇼크·장마비·독성거대결장)은 외과 협진 필요. 재발 고위험(고령·면역 저하·반복 CDI)은 fidaxomicin 200 mg bid × 10일 우선 고려._
+> _✽ 최근 항생제 사용력 + 발열·설사(CDI 의심) 시 1차 치료. 원인 항생제는 즉시 중단. 중증(Severe: WBC ≥15,000/μL 또는 Cr >1.5 ㎎/㎗)이면 vancomycin 500 ㎎ qid로 증량 또는 전문의 의뢰. **중증 합병성(Fulminant CDI**: 저혈압·쇼크·장마비·독성거대결장)은 외과 협진 필요. 재발 고위험(고령·면역 저하·반복 CDI)은 fidaxomicin 200 ㎎ bid × 10일 우선 고려._
 
 ***
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-1. **수분 보충이 가장 중요합니다** - 설사·구토가 있을 때는 매 배변 후 물 또는 ORS 한 컵(200–250 mL)을 추가로 마시세요. 구토가 있으면 **1–2분마다 한두 모금씩** 조금씩 반복해서 드세요.
+1. **수분 보충이 가장 중요합니다** - 설사·구토가 있을 때는 매 배변 후 물 또는 ORS 한 컵(200~250 mL)을 추가로 마시세요. 구토가 있으면 **1~2분마다 한두 모금씩** 조금씩 반복해서 드세요.
 2. **지사제(loperamide·로프민)**: 혈변이나 고열이 생기면 즉시 중단하고 내원하세요 - 세균성 설사에서 계속 복용하면 증상을 악화시킬 수 있습니다.
 3. **항생제를 처방받으셨다면 증상이 좋아져도 끝까지 복용**하세요. 임의 중단 시 내성 발생 및 재발 위험이 높아집니다.
 4. **흡착제(스타빅·diosmectite)**: **다른 모든 약과 2시간 이상 간격**을 두고 반드시 따로 복용하세요 - 항생제, 지사제, 프로바이오틱스 포함 모든 약물을 흡착하여 효과를 떨어뜨립니다. 만 2세 미만 어린이, 임산부, 수유 중인 분은 복용하지 마세요.
@@ -402,7 +402,7 @@ graph TD
 **급성 감염성 설사 (식중독·바이러스성 장염) 안내**
 
 **어떤 병인가요?**\
-세균·바이러스·기생충에 의해 장이 감염되어 생기는 급성 설사입니다. 외래 급성 설사의 대부분은 바이러스가 원인이며, 2–5일 내에 저절로 좋아집니다. 가장 중요한 치료는 탈수 예방을 위한 수분 보충입니다.
+세균·바이러스·기생충에 의해 장이 감염되어 생기는 급성 설사입니다. 외래 급성 설사의 대부분은 바이러스가 원인이며, 2~5일 내에 저절로 좋아집니다. 가장 중요한 치료는 탈수 예방을 위한 수분 보충입니다.
 
 **이런 증상이 있으면 바로 병원에 오세요**
 
@@ -415,7 +415,7 @@ graph TD
 
 **집에서 이렇게 관리하세요**
 
-<table><thead><tr><th width="120">항목</th><th>방법</th></tr></thead><tbody><tr><td>수분 보충</td><td>설사할 때마다 물·ORS·스포츠 음료 한 컵씩 추가; 구토 시에는 1–2분마다 한두 모금씩</td></tr><tr><td>식사</td><td>죽, 밥, 삶은 감자, 토스트 등 소화 쉬운 음식을 소량씩; 금식은 하지 마세요</td></tr><tr><td>피할 것</td><td>유제품, 기름진 음식, 생과일주스, 카페인, 알코올</td></tr><tr><td>손 위생</td><td>화장실 이용 후·식사 전 반드시 비누로 20초 이상 손씻기</td></tr><tr><td>개인 물건</td><td>수건·컵·식기 등 가족과 분리 사용; 변기 뚜껑 닫고 물 내리기</td></tr></tbody></table>
+<table><thead><tr><th width="120">항목</th><th>방법</th></tr></thead><tbody><tr><td>수분 보충</td><td>설사할 때마다 물·ORS·스포츠 음료 한 컵씩 추가; 구토 시에는 1~2분마다 한두 모금씩</td></tr><tr><td>식사</td><td>죽, 밥, 삶은 감자, 토스트 등 소화 쉬운 음식을 소량씩; 금식은 하지 마세요</td></tr><tr><td>피할 것</td><td>유제품, 기름진 음식, 생과일주스, 카페인, 알코올</td></tr><tr><td>손 위생</td><td>화장실 이용 후·식사 전 반드시 비누로 20초 이상 손씻기</td></tr><tr><td>개인 물건</td><td>수건·컵·식기 등 가족과 분리 사용; 변기 뚜껑 닫고 물 내리기</td></tr></tbody></table>
 
 **약은 언제 먹어야 하나요?**\
 처방받은 항생제가 있다면 증상이 나아져도 끝까지 드세요. 지사제(loperamide)는 혈변이나 고열이 있으면 절대 드시면 안 됩니다. 흡착제(스타빅)는 다른 약과 **2시간 이상 간격**을 두고 따로 복용하세요 (항생제, 프로바이오틱스 모두 포함). 만 2세 미만 어린이, 임산부, 수유 중인 분은 스타빅(diosmectite)을 복용하지 마세요. 시판 지사제를 임의로 복용하기 전에 의사와 상담하세요.
