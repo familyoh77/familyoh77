@@ -144,20 +144,20 @@
 
 <table><thead><tr><th width="146">Osmotic gap</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 mOsm/㎏</td><td>분비성 설사 (secretory) - 식사와 무관, 금식해도 지속</td></tr><tr><td>50~100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>> 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
 
-* Fecal calprotectin : 장 점막 염증 비침습 지표; IBD vs. 기능성 설사 감별에 실용적
-  * 보험 기준 : IBD 의심 환자에서 시행 시 연 1\~2회 인정 (선별 급여); 단순 IBS 상병으로 청구 시 삭감 주의
+* Fecal calprotectin : 장 점막 염증 비침습 지표; IBD vs. 기능성 설사 감별에 적용
+  * [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171229\&sno=3\&mtgMtrRegSno=91\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : IBD 의심 환자에서 시행 시 연 1\~2회 인정 (선별 급여); 단순 IBS 상병으로 청구 시 삭감 주의
 
-<table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 ㎍/g</td><td>장 염증 가능성 낮음 → 기능성 원인 우선 평가</td></tr><tr><td>50 – 150 ㎍/g</td><td>Borderline → 임상 양상과 함께 판단; 추적 또는 내시경 고려</td></tr><tr><td>150 – 250 ㎍/g</td><td>기질적 염증 의심 → 내시경 적극 고려</td></tr><tr><td>> 250 ㎍/g</td><td>Active IBD 가능성 높음 → 소화기내과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 ㎍/g</td><td>장 염증 가능성 낮음 → 기능성 원인 우선 평가</td></tr><tr><td>50 ~ 150 ㎍/g</td><td>borderline → 임상 양상과 함께 판단; 추적 또는 내시경 고려</td></tr><tr><td>150 ~ 250 ㎍/g</td><td>기질적 염증 의심 → 내시경 적극 고려</td></tr><tr><td>> 250 ㎍/g</td><td>active IBD 가능성 높음 → 의뢰</td></tr></tbody></table>
 
 * **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전 비침습 평가; <200 ㎍/g → 췌장 기능 부전 의심
-  * ✽72시간 대변 지방 검사보다 간편; 설사 중에는 희석에 의한 위음성 주의
+  * 72시간 대변 지방 검사보다 간편; 설사 중에는 희석에 의한 위음성 주의
 * 대변 지방 (72시간, >7 g/d → 지방 흡수 장애)
 * _C. difficile_ toxin PCR (항생제 복용력 있거나 중증 설사)
 
 **호기 검사 (Hydrogen breath test)**
 
 * 유당·과당 불내성, SIBO 진단에 유용
-* **한계** : 위양성·위음성 모두 가능; 임상 양상과 함께 해석 필수
+* 한계 : 위양성·위음성 모두 가능; 임상 양상과 함께 해석 필수
   * Methane 양성 → constipation-predominant phenotype과 연관
   * 장 통과 가속(rapid transit) → 수소 조기 상승 → false positive 가능
 * Glucose hydrogen breath test가 SIBO 진단에 선호됨
@@ -166,13 +166,13 @@
 
 * 복부 X선, CT enterography (흡수 장애·염증 의심 시)
 * 대장 내시경 + 조직검사 : 경고 징후·혈변·50세 이상 신규 발생
-  * Microscopic colitis : 내시경 정상이어도 **무작위 조직검사 (상행·횡행·하행결장)** 필수
+  * Microscopic colitis : 내시경 정상이어도 무작위 조직검사 (상행·횡행·하행결장) 필수
 * 소장 영상 (CT/MR enterography) : 크론병·소장 종양 의심 시
 
 **특수 검사 (2차 의뢰)**
 
-* SeHCAT scan, 혈청 **FGF-19**, 혈청 **C4 (7α-hydroxy-4-cholesten-3-one)** : 담즙산 흡수 장애(BAM) 확진
-  * ✽국내 시행 어려움 → empiric cholestyramine trial이 현실적 대안
+* SeHCAT scan, 혈청 FGF-19, 혈청 C4 (7α-hydroxy-4-cholesten-3-one) : 담즙산 흡수 장애(BAM) 확진
+  * 국내 시행 어려움 → empiric cholestyramine trial이 현실적 대안
 * 소장 흡인액 배양 : SIBO 확진 (실제 시행 어려움)
 * 조직검사 : 셀리악병(십이지장), Whipple disease(소장) 의심 시
 
@@ -244,120 +244,106 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
-**치료 방침 요약**\
-① 원인 질환 치료가 우선 - 기전을 규명하지 않은 채 대증 치료에만 의존하지 말 것\
-② 경고 징후 없고 기능성 설사/IBS 진단 기준 충족 → 진단적 치료 시행\
-③ 4\~6주 치료에 반응 없으면 추가 검사 또는 의뢰
-{% endhint %}
-
 ### <mark style="color:orange;">치료 방침</mark>
 
-* **원인 질환 치료** : 감염, IBD, 췌장 기능 부전, 갑상선 기능 항진 등 기저 원인 교정
-* **탈수 관리·영양 공급** : 경구 수분 보충 (ORS 또는 전해질 음료); 균형 잡힌 식이
-* **유발 식품 회피** (음식 일기 작성 권고)
+* 원인 질환 치료 : 감염, IBD, 췌장 기능 부전, 갑상선 기능 항진 등 기저 원인 교정 - 기전을 규명하지 않은 채 대증 치료에만 의존하지 말 것
+* 경고 징후 없고 기능성 설사/IBS 진단 기준 충족 시 진단적 치료 시행
+* 탈수 관리·영양 공급 : 경구 수분 보충 (ORS 또는 전해질 음료); 균형 잡힌 식이
+* 유발 식품 회피 (음식 일기 작성 권고)
   * 유당 불내성 → lactose-free 식이; lactase 보충제 고려
   * 식이 제한 : low-FODMAP 식이 (IBS-D), gluten 제거 (셀리악병), sorbitol·fructose 제한
-* **약물 재검토** : PPI, NSAID, SSRI, GLP-1 RA, **olmesartan** 등 설사 유발 약물 확인 후 중단 또는 교체
-* **항문 주위 피부 보호** : zinc oxide 연고 <mark style="color:blue;">\[보소미]</mark>, 피부 방수제 <mark style="color:blue;">\[카빌론]</mark> 고려
-* **위생 관리** : 특히 감염성 원인 배제 전까지 손 위생 철저
-
-***
+* 약물 재검토 : PPI, NSAID, SSRI, GLP-1 RA, olmesartan 등 설사 유발 약물 확인 후 중단 또는 교체
+* 항문 주위 피부 보호 : zinc oxide 연고 <mark style="color:blue;">\[보소미]</mark>, 피부 방수제 <mark style="color:blue;">\[카빌론]</mark> 고려
+* 위생 관리 : 특히 감염성 원인 배제 전까지 손 위생 철저
+* 4\~6주 치료에 반응 없으면 추가 검사 또는 의뢰
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* **저-FODMAP 식이** : IBS-D 및 기능성 설사에 효과적
-  * 2\~6주 제한 후 단계적 재도입으로 개인 내성 식품 확인
-* **유당 제한** : 유당 불내성 확인 후 lactose-free 제품으로 전환 또는 lactase 효소 보충
-* **수분 보충** : 탈수 예방; 카페인·알코올·고당분 음료 제한
-* **규칙적 운동** : 규칙적인 유산소 운동이 장 운동 조절에 도움 - IBS-D 증상 완화에 근거 있음
-* **스트레스 관리** : IBS-D에서 gut-brain axis로 인해 심리적 스트레스가 유발 인자
-  * 인지행동치료(CBT), 장 지향 최면요법(gut-directed hypnotherapy) - 근거 있음
-* **규칙적 식사 습관** : 불규칙한 식사, 폭식 회피; 소량 빈식 고려
-
-***
+* 저-FODMAP 식이 : IBS-D 및 기능성 설사에 효과적 (☞ [IBS](087_-irritable-bowel-syndrome.md#low-fodmap-3))
+  * 2\~6주 식이제한 후 단계적 재도입으로 개인 내성 식품 확인
+* 유당 제한 : 유당 불내성 확인 후 lactose-free 제품으로 전환 또는 lactase 효소 보충
+* 수분 보충 : 탈수 예방; 카페인·알코올·고당분 음료 제한
+* 규칙적 운동 : 규칙적인 유산소 운동이 장 운동 조절에 도움 - IBS-D 증상 완화에 근거 있음
+* 스트레스 관리 : IBS-D에서 gut-brain axis로 인해 심리적 스트레스가 유발 인자
+  * 인지행동치료(CBT), 장 지향 최면요법(gut-directed hypnotherapy)
+* 규칙적 식사 습관 : 불규칙한 식사, 폭식 회피; 소량 빈식 고려
 
 ## <mark style="color:green;">약물 치료</mark>
+
+　☞ [소화기계 약제](073_.md#antidiarrheal-agent)
 
 ### <mark style="color:orange;">Opiates (μ-opiate receptor 선택적)</mark>
 
 * 작용 : 장 운동 지연, 장 분비 감소
 * 대상 : 비특이적 만성 설사 대증 치료; 기능성 설사·IBS-D urgency 증상에 유용
-* loperamide 2\~4 ㎎ bid\~qid <mark style="color:blue;">\[로프민]</mark>
-  * ✽만성 기능성 설사에서는 식전 규칙적 복용(scheduled dosing, 예: 식전 30분)이 urgency 예방에 PRN보다 효과적
-* diphenoxylate 2.5\~5 ㎎ tid\~qid <mark style="color:blue;">\[로모틸]</mark>
-
-{% hint style="danger" %}
-**⚠️ Opiates 주의사항**\
-\&#xNAN;_C. difficile_ 감염이나 염증성 설사에서는 장 운동 억제제 사용 금지 (독성 거대결장 유발 위험)
-{% endhint %}
+* _C. difficile_ 감염이나 염증성 설사에서는 사용 금지 (독성 거대결장 유발 위험)
+* loperamide : 2\~4 ㎎ bid\~qid <mark style="color:blue;">\[로프민]</mark>
+  * 만성 기능성 설사에서는 식전 규칙적 복용(scheduled dosing, 예: 식전 30분)이 urgency 예방에 PRN보다 효과적
+* diphenoxylate : 2.5\~5 ㎎ tid\~qid <mark style="color:blue;">\[로모틸]</mark>
 
 ### <mark style="color:orange;">IBS-D 표적 치료제</mark>
 
 {% hint style="info" %}
-IBS-D는 단순 설사 억제보다 **장-뇌 축 조절 및 복통 완화**에 초점을 맞춘 복합 접근이 필요하다.\
+IBS-D는 단순 설사 억제보다 장-뇌 축 조절 및 복통 완화에 초점을 맞춘 복합 접근이 필요 (☞ [IBS](087_-irritable-bowel-syndrome.md#undefined-12))\
 Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phenotype에서는 효과 제한적.
 {% endhint %}
 
-* **ondansetron** (5-HT₃ 차단제) 4 ㎎ prn\~bid <mark style="color:blue;">\[조프란]</mark>
+* ondansetron (5-HT₃ 차단제) : 4 ㎎ prn\~bid <mark style="color:blue;">\[조프란]</mark>
   * 장 통과시간 지연 → urgency·묽은 변 개선; IBS-D에서 RCT 근거 있음
-  * ✽국내 IBS-D 허가 외 (오프라벨); **오심·구토 상병으로 청구** 가능 (전액 본인부담 또는 급여 외 처방 동의 필요)
-* **저용량 TCA** : 복통 + urgency 동반 IBS-D에 유용; 진통·장 운동 억제·수면 개선 복합 효과
-  * amitriptyline 10\~25 ㎎ hs <mark style="color:blue;">\[에트라빌]</mark>
+* 저용량 TCA : 복통 + urgency 동반 IBS-D에 유용; 진통·장 운동 억제·수면 개선 복합 효과
+  * amitriptyline : 10\~25 ㎎ hs <mark style="color:blue;">\[에트라빌]</mark>
 
 {% hint style="danger" %}
-**⚠️ QT 연장 주의 - ondansetron + TCA 병용 시**\
-Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSRI 병용 시 위험이 증가합니다.\
-고령 환자, 전해질 이상(저칼륨·저마그네슘), 기존 QT 연장 병력이 있는 경우 심전도 모니터링을 고려하십시오.
+**QT 연장 주의 - ondansetron + TCA 병용 시** : Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSRI 병용 시 위험이 증가함. 고령 환자, 전해질 이상(저칼륨·저마그네슘), 기존 QT 연장 병력이 있는 경우 심전도 모니터링을 고려
 {% endhint %}
 
-* **Antispasmodics** : 식후 복통·cramping 동반 시
+* Antispasmodics : 식후 복통·cramping 동반 시
   * mebeverine 135 ㎎ tid (식전 20분) <mark style="color:blue;">\[두스파탈린]</mark>
   * trimebutine 100\~200 ㎎ tid <mark style="color:blue;">\[포리부틴]</mark>
-* **rifaximin** 200 ㎎ 2T tid × 14일 : bloating prominent IBS-D, post-infectious IBS에 효과 (SIBO 동반 시 포함)
+* rifaximin : bloating prominent IBS-D, post-infectious IBS에 효과 (SIBO 동반 시 포함); 200 ㎎ 2T tid × 14일 <mark style="color:blue;">\[노르믹스]</mark>
 
 ### <mark style="color:orange;">α-2 Adrenergic agonist</mark>
 
 * 작용 : 장내 전해질 분비 억제, intestinal transit time 지연
 * 대상 : 분비성 설사, 당뇨병성 설사, opiate 금단 설사
 * 주의 : 혈압 강하
-* clonidine 0.1\~0.3 ㎎ tid <mark style="color:blue;">\[켑베이]</mark> (보험 주의)
+* clonidine : 0.1\~0.3 ㎎ tid <mark style="color:blue;">\[켑베이]</mark> (보험 주의)
 
 ### <mark style="color:orange;">Somatostatin analogue</mark>
 
 * 작용 : 장 내 fluid·전해질 흡수 자극, GI peptides 분비 억제
 * 대상 : carcinoid syndrome, VIPoma, 화학요법 관련 설사, 위 절제술 후 덤핑증후군
-* octreotide 50\~200 **㎍** tid SC <mark style="color:blue;">\[산도스타틴 라르 주]</mark> (보험 주의)
+* octreotide : 50\~200 ㎍ tid SC <mark style="color:blue;">\[산도스타틴 라르 주]</mark> ([보험 주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190301\&sno=2\&mtgMtrRegSno=10\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y))
 
 ### <mark style="color:orange;">Bile acid-binding resin</mark>
 
 * 대상 : 담즙산 흡수 장애(BAM) - 담낭절제술 후, terminal ileum 절제 후, 특발성 BAD
 * Empiric trial이 SeHCAT 검사보다 현실적; 1\~2주 내 반응 확인 가능
-* cholestyramine 4 g 1포 qd\~qid (식사와 함께) <mark style="color:blue;">\[퀘스트란 현탁용산]</mark>
-  * ✽소량(1포 qd)에서 시작 → 증상에 따라 증량; 복부 팽만·변비 부작용 흔함
-  * ✽다른 약물과 4\~6시간 간격 복용 필수 (약물 흡착 방해)
-* colesevelam : cholestyramine 불내성 시 대체 (맛·내약성 우수; 국내 당뇨 적응증으로 허가)
+* cholestyramine : 4 g 1포 qd\~qid (식사와 함께) <mark style="color:blue;">\[퀘스트란 현탁용산]</mark>
+  * 소량(1포 qd)에서 시작 → 증상에 따라 증량
+  * 다른 약물과 4\~6시간 간격 복용 필수 (약물 흡착 방해)
+  * 부작용 : 복부 팽만, 변비&#x20;
+* colesevelam : cholestyramine 불내성 시 대체; 맛·내약성 우수; 국내 당뇨 적응증으로 허가
 
 ### <mark style="color:orange;">항생제 (SIBO 치료)</mark>
 
-* 대상 : 소장 세균 과증식 (보험 주의)
-* **rifaximin 1차 권고** (비흡수성 항생제; 전신 부작용 적음)
-  * **국내 제형** : 노르믹스정 200 ㎎; 550 ㎎ 정제(Xifaxan)는 국내 미유통
-  * SIBO 치료 용량 : 200 ㎎ **2T tid** (1,200 ㎎/d) × 14일; 필요 시 3T tid (1,800 ㎎/d)
-  * ✽국내에서 SIBO 오프라벨 사용; 간성 뇌증 적응증으로 허가됨
-  * ✽재발 시 반복 치료; 원인(장 운동 장애, 해부학적 이상) 교정이 재발 방지의 핵심
-* ciprofloxacin 500 ㎎ bid × 7\~10일 <mark style="color:blue;">\[씨프로바이]</mark> (대체)
-* metronidazole 500 ㎎ tid\~qid × 7\~10일 <mark style="color:blue;">\[후라시닐]</mark> (대체; 내성 주의)
+* 대상 : 소장 세균 과증식&#x20;
+* rifaximin : 1차 권고 (비흡수성 항생제; 전신 부작용 적음)
+  * 200 ㎎ 2T tid (1,200 ㎎/d) × 14일; 필요 시 3T tid (1,800 ㎎/d) <mark style="color:blue;">\[노르믹스]</mark>&#x20;
+  * [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=418\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : 급성장염 혹은 장내세균상의 이상으로 인한 설사에 타 약제 투여로 증상이 호전되지 않는 환자
+  * 재발 시 반복 치료; 원인(장 운동 장애, 해부학적 이상) 교정이 재발 방지의 핵심
+* ciprofloxacin : 500 ㎎ bid × 7\~10일 <mark style="color:blue;">\[씨프로바이]</mark> (대체)
+* metronidazole : 500 ㎎ tid\~qid × 7\~10일 <mark style="color:blue;">\[후라시닐]</mark> (대체; 내성 주의)
 
 ### <mark style="color:orange;">Microscopic colitis 치료제</mark>
 
 * 대상 : 조직검사로 확진된 collagenous/lymphocytic colitis
-* **유발 약물(NSAID, PPI, SSRI) 중단이 치료의 핵심**
-* **budesonide** 9 ㎎ qd × 8주 → tapering : 1차 선택
-  * 엔토코트 서방캡슐 3 ㎎ × 3캡 qd (아침 식전) <mark style="color:blue;">\[엔토코트]</mark>
-  * 타미코트 서방정 9 ㎎ × 1T qd (아침 식전) <mark style="color:blue;">\[타미코트]</mark> (급여 기준 확인 필요)
-  * 재발률이 높아 **장기 유지요법이 필요한 경우 많음** (저용량 3\~6 ㎎/d 유지 고려)
-* bismuth subsalicylate : 경증 또는 budesonide 전 시도; 장기 사용 안전성 주의
+* 유발 약물(NSAID, PPI, SSRI) 중단이 치료의 핵심
+* budesonide : 1차 선택; 9 ㎎ qd × 8주 → tapering
+  * <mark style="color:blue;">\[엔토코트]</mark> 3 ㎎ × 3C qd (아침 식전)&#x20;
+  * <mark style="color:blue;">\[타미코트]</mark> 9 ㎎ × 1T qd (아침 식전) ([보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220701\&sno=3\&mtgMtrRegSno=5\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y))
+  * 재발률이 높아 장기 유지 요법이 필요한 경우가 많음 (저용량 3\~6 ㎎/d 유지 고려)
+* bismuth subsalicylate : 경증 또는 budesonide 전 시도; 장기 사용 안전성 주의; 현탁액 525 ㎎ (30 ㎖) 또는 정제 524 ㎎ (2정), 30분\~1시간마다, 1일 최대 8회; ≥3세 적용 <mark style="color:blue;">\[펩토무스현탁액]</mark>
 
 ### <mark style="color:orange;">Fiber supplement</mark>
 
@@ -370,7 +356,7 @@ Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSR
 
 * 효과는 균주 특이적(strain-specific)이며 전체 효과 크기는 크지 않음 (guideline 간 권고 불일치)
 * IBS-D, 항생제 관련 설사 예방에 일부 근거
-  * _**Saccharomyces boulardii**_ : 항생제 관련 설사 예방에 가장 근거가 강함 (메타분석)
+  * _Saccharomyces boulardii_ : 항생제 관련 설사 예방에 가장 근거가 강함 (메타분석)
   * _Lactobacillus rhamnosus_ GG : IBS-D 및 항생제 관련 설사에 근거 있음
 
 ***

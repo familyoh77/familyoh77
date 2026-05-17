@@ -1,4 +1,4 @@
-# 과민대장증후군 Irritable Bowel Syndrome (IBS)
+# 과민대장증후군 Irritable Bowel Syndrome
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -41,7 +41,7 @@ IBS는 다른 기능성 위장관 질환 및 전신 질환과 **중복(overlap)*
 * 소장 세균 과증식 (SIBO) - 일부 IBS-D에서 관련성 보고 (논란)
 * **담즙산 흡수 장애 (bile acid malabsorption, BAD)** : IBS-D 환자의 상당수가 BAD phenotype에 해당할 수 있음; 식후 급박변·담낭절제술 병력·아침 설사가 두드러지면 의심
 * **감염 후 IBS (post-infectious IBS, PI-IBS)** : 급성 위장관 감염 후 약 5\~10%에서 발생; 설사 우세형(IBS-D)과 연관이 많으며 수년 이상 지속 가능
-  * 원인균 : *Campylobacter*, *Salmonella*, *Shigella*, 노로바이러스 등
+  * 원인균 : _Campylobacter_, _Salmonella_, _Shigella_, 노로바이러스 등
   * **COVID-19** : 감염 환자의 약 10\~15%에서 장기적인 위장관 증상(post-COVID GI syndrome)이 보고됨; 저등급 점막 염증 및 장-뇌 축 교란이 PI-IBS와 유사한 기전을 공유
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -67,7 +67,7 @@ IBS는 다른 기능성 위장관 질환 및 전신 질환과 **중복(overlap)*
 
 * 혈변 또는 직장 출혈 (육안적)
 * 진행성 심한 복통 (장폐쇄·천공·장간막 허혈 의심)
-* 발열·오한을 동반한 급성 심한 설사 (감염성 대장염, *C. difficile* 의심)
+* 발열·오한을 동반한 급성 심한 설사 (감염성 대장염, _C. difficile_ 의심)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -112,10 +112,10 @@ IBS는 반드시 광범위한 검사로 모든 기질적 질환을 배제한 후
 * CBC, ESR, CRP, TFT, 대변 검사(기생충·세균·잠혈), tissue transglutaminase IgA (셀리악병 배제)
 * **Fecal calprotectin** : IBD vs IBS 감별을 위한 **비침습적 1차 triage 검사**
 
-<table><thead><tr><th width="200">Calprotectin 수치</th><th>해석 및 처치</th></tr></thead><tbody><tr><td><strong>&lt;50 μg/g</strong></td><td>IBS 가능성 높음; 추가 내시경 검사 없이 임상 진단 가능</td></tr><tr><td><strong>50\~150 μg/g</strong><br>(회색지대, Gray zone)</td><td>IBD 배제 불충분; 2\~4주 후 재검 또는 임상 상황에 따라 대장내시경 고려</td></tr><tr><td><strong>&gt;150 μg/g</strong></td><td>IBD 강력 의심; 대장내시경 시행</td></tr></tbody></table>
+<table><thead><tr><th width="200">Calprotectin 수치</th><th>해석 및 처치</th></tr></thead><tbody><tr><td><strong>&#x3C;50 μg/g</strong></td><td>IBS 가능성 높음; 추가 내시경 검사 없이 임상 진단 가능</td></tr><tr><td><strong>50\~150 μg/g</strong><br>(회색지대, Gray zone)</td><td>IBD 배제 불충분; 2\~4주 후 재검 또는 임상 상황에 따라 대장내시경 고려</td></tr><tr><td><strong>>150 μg/g</strong></td><td>IBD 강력 의심; 대장내시경 시행</td></tr></tbody></table>
 
 * 대장내시경 : 연령별 국가 대장암 선별 권고에 따라 시행 고려 (한국 국가암검진: 만 50세부터 분변잠혈검사, 이상 시 대장내시경), 경고 징후 있거나 IBD 의심 시
-  * 변비 우세형이 아닌 IBS 환자에서 대장암은 관찰되지 않고 \<2%에서 IBD가 발견된다는 보고
+  * 변비 우세형이 아닌 IBS 환자에서 대장암은 관찰되지 않고 <2%에서 IBD가 발견된다는 보고
 * GI 기능 평가 (선택적 시행)
   * 변비 : colon transit time, anorectal manometry, balloon expulsion test
   * 설사 : 대변 배양, serial colonic biopsy, 48-h fecal bile acid excretion, **serum 7α-C4** (BAD 선별; FGF19와 함께 활용 증가), fecal calprotectin/lactoferrin, lactose/glucose breath test (SIBO)
@@ -124,7 +124,7 @@ IBS는 반드시 광범위한 검사로 모든 기질적 질환을 배제한 후
 
 **IBS vs IBD vs 대장암 핵심 감별**
 
-<table><thead><tr><th width="195">감별 특징</th><th width="130" align="center">IBS</th><th width="130" align="center">IBD</th><th align="center">대장암</th></tr></thead><tbody><tr><td>야간 증상</td><td align="center">드묾 ✓</td><td align="center">흔함</td><td align="center">가능</td></tr><tr><td>체중 감소</td><td align="center">드묾 ✓</td><td align="center">흔함</td><td align="center">흔함</td></tr><tr><td>혈변</td><td align="center">없음 ✓</td><td align="center">흔함</td><td align="center">가능</td></tr><tr><td>CRP / ESR</td><td align="center">정상 ✓</td><td align="center">상승</td><td align="center">다양</td></tr><tr><td>Fecal calprotectin</td><td align="center">정상 ✓ (&lt;50 μg/g)</td><td align="center">상승 (&gt;150 μg/g)</td><td align="center">다양</td></tr><tr><td>배변 후 통증</td><td align="center">호전</td><td align="center">다양</td><td align="center">다양</td></tr></tbody></table>
+<table><thead><tr><th width="195">감별 특징</th><th width="130" align="center">IBS</th><th width="130" align="center">IBD</th><th align="center">대장암</th></tr></thead><tbody><tr><td>야간 증상</td><td align="center">드묾 ✓</td><td align="center">흔함</td><td align="center">가능</td></tr><tr><td>체중 감소</td><td align="center">드묾 ✓</td><td align="center">흔함</td><td align="center">흔함</td></tr><tr><td>혈변</td><td align="center">없음 ✓</td><td align="center">흔함</td><td align="center">가능</td></tr><tr><td>CRP / ESR</td><td align="center">정상 ✓</td><td align="center">상승</td><td align="center">다양</td></tr><tr><td>Fecal calprotectin</td><td align="center">정상 ✓ (&#x3C;50 μg/g)</td><td align="center">상승 (>150 μg/g)</td><td align="center">다양</td></tr><tr><td>배변 후 통증</td><td align="center">호전</td><td align="center">다양</td><td align="center">다양</td></tr></tbody></table>
 
 **기타 감별 질환**
 
@@ -291,10 +291,40 @@ graph TD
 {% hint style="info" %}
 **AGA 2022 / ACG 2021 주요 권고 요약**
 
-<table><thead><tr><th width="110">아형</th><th>권고 약물</th><th width="175">권고 반대</th></tr></thead><tbody><tr><td><strong>IBS-C</strong></td><td>linaclotide (AGA <strong>강력</strong>, 고근거); tenapanor·plecanatide·lubiprostone·PEG·TCA·진경제 (조건부); 수용성 섬유·페퍼민트 오일·TCA (ACG <strong>강력</strong>)</td><td>SSRI (저근거, 조건부 반대)</td></tr><tr><td><strong>IBS-D</strong></td><td>rifaximin·ramosetron·alosetron·eluxadoline† (조건부, 중등도); TCA·진경제·loperamide (조건부, 저근거); 페퍼민트 오일·TCA (ACG <strong>강력</strong>)</td><td>SSRI (저근거, 조건부 반대)</td></tr><tr><td><strong>공통</strong></td><td>수용성 섬유·페퍼민트 오일·TCA·진경제·장-뇌 축 치료 (ACG <strong>강력</strong>)</td><td>항불안제 만성 사용</td></tr></tbody></table>
-
 †eluxadoline : 담낭 절제 환자 또는 하루 3잔 초과 알코올 섭취자에서 금기 (급성 췌장염 위험); 국내 가용성 확인 필요
 {% endhint %}
+
+<table><thead><tr><th width="110">아형</th><th>권고 약물</th><th width="175">권고 반대</th></tr></thead><tbody><tr><td><strong>IBS-C</strong></td><td>linaclotide (AGA <strong>강력</strong>, 고근거); tenapanor·plecanatide·lubiprostone·PEG·TCA·진경제 (조건부); 수용성 섬유·페퍼민트 오일·TCA (ACG <strong>강력</strong>)</td><td>SSRI (저근거, 조건부 반대)</td></tr><tr><td><strong>IBS-D</strong></td><td>rifaximin·ramosetron·alosetron·eluxadoline† (조건부, 중등도); TCA·진경제·loperamide (조건부, 저근거); 페퍼민트 오일·TCA (ACG <strong>강력</strong>)</td><td>SSRI (저근거, 조건부 반대)</td></tr><tr><td><strong>공통</strong></td><td>수용성 섬유·페퍼민트 오일·TCA·진경제·장-뇌 축 치료 (ACG <strong>강력</strong>)</td><td>항불안제 만성 사용</td></tr></tbody></table>
+
+
+
+### <mark style="color:$success;">IBS-D 표적 치료제</mark>
+
+{% hint style="info" %}
+IBS-D는 단순 설사 억제보다 **장-뇌 축 조절 및 복통 완화**에 초점을 맞춘 복합 접근이 필요하다.\
+Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phenotype에서는 효과 제한적.
+{% endhint %}
+
+* **ondansetron** (5-HT₃ 차단제) 4 ㎎ prn\~bid <mark style="color:blue;">\[조프란]</mark>
+  * 장 통과시간 지연 → urgency·묽은 변 개선; IBS-D에서 RCT 근거 있음
+  * ✽국내 IBS-D 허가 외 (오프라벨); **오심·구토 상병으로 청구** 가능 (전액 본인부담 또는 급여 외 처방 동의 필요)
+* **저용량 TCA** : 복통 + urgency 동반 IBS-D에 유용; 진통·장 운동 억제·수면 개선 복합 효과
+  * amitriptyline 10\~25 ㎎ hs <mark style="color:blue;">\[에트라빌]</mark>
+
+{% hint style="danger" %}
+**⚠️ QT 연장 주의 - ondansetron + TCA 병용 시**\
+Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSRI 병용 시 위험이 증가합니다.\
+고령 환자, 전해질 이상(저칼륨·저마그네슘), 기존 QT 연장 병력이 있는 경우 심전도 모니터링을 고려하십시오.
+{% endhint %}
+
+* **Antispasmodics** : 식후 복통·cramping 동반 시
+  * mebeverine 135 ㎎ tid (식전 20분) <mark style="color:blue;">\[두스파탈린]</mark>
+  * trimebutine 100\~200 ㎎ tid <mark style="color:blue;">\[포리부틴]</mark>
+* **rifaximin** 200 ㎎ 2T tid × 14일 : bloating prominent IBS-D, post-infectious IBS에 효과 (SIBO 동반 시 포함)
+
+END
+
+
 
 ### <mark style="color:orange;">항콜린제 (진경제, Antispasmodics)</mark>
 
@@ -333,7 +363,7 @@ graph TD
 ### <mark style="color:orange;">Probiotics</mark>
 
 * **작용** : 장내 미생물 불균형 개선 → 가스 형성·염증 억제 (논란)
-* **균주별 효과 차이가 크며**, 특정 균주(*Bifidobacterium infantis*, *Lactobacillus plantarum* 등)는 일부 환자에서 복통·팽만 개선 가능성이 보고됨
+* **균주별 효과 차이가 크며**, 특정 균주(_Bifidobacterium infantis_, _Lactobacillus plantarum_ 등)는 일부 환자에서 복통·팽만 개선 가능성이 보고됨
 * **\[AGA 2022]** 전반적 유익성·안전성 근거 불충분으로 권고 안 함; **\[BSG 2023·서울 컨센서스]** 균주별 효과를 인정하며 **최대 12주 조건부 시도 가능**, 호전 없으면 중단
 * Lactobacillus <mark style="color:blue;">\[람노스]</mark>, Bacillus subtilis <mark style="color:blue;">\[메디락]</mark>, Bifidobacterium
 
@@ -454,6 +484,8 @@ Lubiprostone <mark style="color:blue;">\[아미티자]</mark>은 국내에서 **
 * **α/β-galactosidase** : 일부에서 가스·팽만 감소 효과
 * **항불안제** : 습관화 가능성 때문에 IBS에서 만성적으로 사용해서는 안 됨
 
+
+
 ***
 
 ### <mark style="color:red;">질병코드</mark>
@@ -466,7 +498,6 @@ K58 과민대장증후군
 
 {% tabs %}
 {% tab title="IBS-C (변비 우세)" %}
-
 > **처방례 1. IBS-C 경증 (변비·복부 팽만)**
 >
 > ```
@@ -475,11 +506,9 @@ K58 과민대장증후군
 > ```
 >
 > _✽ 수용성 섬유(psyllium)와 삼투성 하제(PEG)를 병용; 복용 시 충분한 수분(1일 1.5\~2 L) 섭취 필수. Lactulose는 복부 가스·팽만 위험으로 회피. 2\~4주 후 반응 평가; 호전 없으면 prucalopride 또는 linaclotide 추가 고려._
-
 {% endtab %}
 
 {% tab title="IBS-D (설사 우세)" %}
-
 > **처방례 2. IBS-D 경증\~중등증 (복통·잦은 설사)**
 >
 > ```
@@ -497,11 +526,9 @@ K58 과민대장증후군
 > ```
 >
 > _✽ Amitriptyline은 정신과적 목적이 아닌 내장 과민성·통증·설사 조절 목적의 중추성 신경조절제로서 저용량 사용임을 환자에게 설명. 4주 이내 효과 없으면 중단; 효과 있으면 5\~10 ㎎씩 점진적 증량 (유지 목표 10\~25 ㎎/d). 변비·입마름 부작용 모니터링 필요._
-
 {% endtab %}
 
 {% tab title="난치성 IBS-D" %}
-
 > **처방례 4. 난치성 IBS-D (ramosetron + rifaximin)**
 >
 > ```
@@ -512,7 +539,6 @@ K58 과민대장증후군
 > ```
 >
 > _✽ Rifaximin(노르믹스)은 14일 단기 치료 후 재평가; 복부 팽만·가스가 심한 IBS-D에 특히 유효하며 반복 투여 가능. Ramosetron(이리보)은 변비로 전환·허혈성 대장염(복통 갑작스러운 악화) 부작용 모니터링 필요._
-
 {% endtab %}
 {% endtabs %}
 
