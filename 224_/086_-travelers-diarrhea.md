@@ -77,38 +77,7 @@
 
 <table><thead><tr><th width="188">상황</th><th>우선 고려</th><th>검사</th></tr></thead><tbody><tr><td>설사 &#x3C;14일</td><td>일반 TD 경험적 치료 지속</td><td>임상 판단</td></tr><tr><td>설사 ≥14일 + <br>악취성·지방변·복부팽만</td><td>Giardia lamblia</td><td>대변 항원검사 / 기생충란·낭포 / PCR</td></tr><tr><td>재발성 수양성 설사</td><td>Cyclospora, Cryptosporidium</td><td>대변 PCR 또는 AFB 염색</td></tr><tr><td>혈변·체중 감소 지속</td><td>Entamoeba histolytica, IBD</td><td>대변 항원 / 대장내시경</td></tr><tr><td>검사 음성 + <br>만성 복통·설사</td><td>PI-IBS, SIBO, post-antibiotic dysbiosis</td><td>Rome IV 기준; SIBO 수소호기검사 고려</td></tr><tr><td>항생제 투여 후 악화</td><td>C. difficile 감염</td><td>대변 독소검사 / PCR</td></tr><tr><td>담수 노출 후 <br>혈성·점액성 설사 지속</td><td>Aeromonas, Vibrio, Yersinia</td><td>대변 배양 (특수 배지); fluoroquinolone 또는 3세대 세팔로스포린 고려</td></tr></tbody></table>
 
-***
-
-```mermaid
-graph TD
-    A([여행자설사 의심]) --> B[중증도 평가]
-    B --> |"경증<br>(활동 지장 없음)"| C["ORS · 수분 보충<br>(물, 이온음료, 국물)"]
-    B --> |"중등증<br>(활동 일부 제한)"| D["ORS · 수분 보충"]
-    B --> |"중증 또는 이질성<br>(활동 불가·혈변·발열)"| E["ORS · 수분 보충<br>+ 즉각 항생제"]
-    C --> C1["loperamide 또는<br>diosmectite 고려<br>(항생제 불필요)"]
-    C1 --> G["발열·혈변 발생 시<br>즉시 중등증/중증 경로 전환"]
-    D --> D1["혈변 또는<br>발열 동반?"]
-    D1 -->|NO| D2["rifaximin (선호)<br>± loperamide 병용 가능"]
-    D1 -->|YES| D3["azithromycin 우선<br>(500 mg qd × 3일 <br>또는 1 g 단회)"]
-    E --> E1["이질성<br>(혈변·발열 동반)?"]
-    E1 -->|YES| D3
-    E1 -->|NO| E3["azithromycin (선호)<br>또는 rifaximin<br>± loperamide 병용"]
-    D2 --> F["48시간 내 호전 없으면<br>재평가 및 의뢰"]
-    D3 --> F
-    E3 --> F
-
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D1,E1 yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class C1,D2,D3,E3 sky
-classDef orange fill:#fdebd0,stroke:#e67e22
-class G,F orange
-```
-
-<p align="center"><strong>여행자설사 중증도별 치료 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. ISTM Guidelines 2017; CDC Yellow Book 2024</mark></em></p>
+<p align="center"></p>
 
 ***
 
@@ -120,6 +89,21 @@ class G,F orange
 
 <table><thead><tr><th width="88">중증도</th><th width="220">지사제</th><th>항생제</th></tr></thead><tbody><tr><td>경증</td><td>loperamide 또는 diosmectite 고려</td><td>권고하지 않음</td></tr><tr><td>중등증</td><td>단독 또는 항생제 병용 고려</td><td>항생제 고려 (혈변·발열 없으면 rifaximin 선호)</td></tr><tr><td>중증</td><td>항생제와 병용으로 고려</td><td>항생제 투여 권고 (azithromycin 선호)</td></tr></tbody></table>
 
+### <mark style="color:orange;">여행 전후 의료 상담 - 단계별 안내</mark>
+
+1. **Pre-Travel (출국 전) - 여행지 건강 유의사항 설명 및 사전 준비**
+   * 여행자설사 발생 가능성과 대처법 충분히 설명
+   * 모든 설사에서 경구 수액 보충(ORS)과 소금 섭취의 중요성 설명
+   * 여행지 위험도·일정에 따른 비상약 처방 (비상약 키트 위 참조)
+   * 이질성 설사 자가 판단 기준 안내: "발열 또는 혈변 → azithromycin 복용"
+   * ETEC가 우세한 고위험 지역 여행자에서 경구 콜레라 백신(Dukoral) 교차 보호 효과 안내 (약 50\~60%)
+2. **During-Travel (여행 중) - 단계별 자가 관리**
+   * 단계별 자가 관리 표 및 알고리듬 참조; 48시간 내 호전되지 않으면 의료기관 방문
+3. **Post-Travel (귀국 후) - 지속 증상 처리**
+   * 급성 설사 지속 시 지침에 따른 경험적 치료
+   * 중증·지속성(≥2주)·치료 실패 : 대변 배양·기생충 검사·PCR
+   * 만성·지속성 증상 : 귀국 후 지속 설사 접근법 표 참조
+
 ## <mark style="color:green;">비-약물 치료</mark>&#x20;
 
 ### <mark style="color:orange;">수분 및 영양 보충</mark>
@@ -127,6 +111,47 @@ class G,F orange
 * 모든 중증도에서 수분 보충이 1순위 : ORS가 가장 효과적; 물·이온음료·국물·짭짤한 크래커로 대체 가능
 * 심한 탈수 : ORS를 소량씩 자주(200\~250 ㎖씩) 섭취; 구토가 심하면 정맥 수액 필요
 * 식사는 제한 불필요; 소화 잘 되는 음식(바나나, 쌀, 토스트 등) 권장
+
+***
+
+```mermaid
+graph TD
+    A([여행자설사 의심]) --> B[중증도 평가]
+    B --> C0["경증<br>(활동 지장 없음)"]--> C["ORS · 수분 보충<br>(물, 이온음료, 국물)"]
+    B --> D0["중등증<br>(활동 일부 제한)"]--> D["ORS · 수분 보충"]
+    B --> E0["중증 또는 이질성<br>(활동 불가·혈변·발열)"]--> E["ORS · 수분 보충<br>+ 즉각 항생제"]
+    C --> C1["loperamide 또는<br>diosmectite 고려<br>(항생제 불필요)"]
+    C1 --> G["발열·혈변 발생 시<br>즉시 중등증/중증 경로 전환"]
+    D --> D1["혈변 또는<br>발열 동반?"]
+    D1 -->|NO| D2["rifaximin (선호)<br>± loperamide 병용 가능"]
+    D1 -->|YES| D3["azithromycin 우선<br>(500 mg qd × 3일 <br>또는 1 g 단회)"]
+    E --> E1["이질성<br>(혈변·발열 동반)?"]
+    E1 -->|YES <이질성>| D3
+    E1 -->|NO <비이질성>| E3["azithromycin (선호)<br>또는 rifaximin<br>± loperamide 병용"]
+    D2 --> F["48시간 내 호전 없으면<br>재평가 및 의뢰"]
+    D3 --> F
+    E3 --> F
+
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef white fill:#fff,stroke:#333
+class C0,D0,E0 white
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D1,E1 yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class C1,D2,D3,E3 sky
+classDef orange fill:#fdebd0,stroke:#e67e22
+class G,F orange
+```
+
+<p align="center"><strong>여행자설사 중증도별 치료 알고리듬</strong></p>
+
+* 경증 : 견딜 만하고 고통스럽지 않으며 계획된 활동에 지장을 주지 않는  &#x20;설사
+* 중등증 : 고통이 있거나 계획된 활동에 지장을 주는 설사
+* 중증 : 계획된 활동을 할 수 없는 수준의 설사
+
+<p align="center"><em><mark style="color:$info;">Ref. ISTM Guidelines 2017; CDC Yellow Book 2024</mark></em></p>
+
+***
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -262,31 +287,7 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 
 ### <mark style="color:orange;">여행 전 비상약 키트 준비 (출국 전 처방 준비)</mark>
 
-| 품목                        | 용도                          |
-| ------------------------- | --------------------------- |
-| 휴대용 ORS 파우치               | 탈수 방지·치료 (1순위; 여행 내내 상시 휴대) |
-| loperamide                | 경증·비이질성 설사 조절               |
-| rifaximin                 | 비이질성 수양성 설사 (열·혈변 없을 때)     |
-| azithromycin              | 이질성·발열 동반 설사; 동남아 여행 시      |
-| 항구토제 ODT (라모세트론 또는 온단세트론) | 구토가 심해 약을 삼키기 어려울 때         |
-| 체온계                       | 발열 여부 판단 (이질성 자가 판단 핵심)     |
-| 알코올 손 소독제                 | 식전·화장실 후 위생                 |
-| diosmectite               | 대증 흡착 치료                    |
-
-### <mark style="color:orange;">출국 전 의료 상담 - 단계별 안내</mark>
-
-1. **Pre-Travel (출국 전) - 여행지 건강 유의사항 설명 및 사전 준비**
-   * 여행자설사 발생 가능성과 대처법 충분히 설명
-   * 모든 설사에서 경구 수액 보충(ORS)과 소금 섭취의 중요성 설명
-   * 여행지 위험도·일정에 따른 비상약 처방 (비상약 키트 위 참조)
-   * 이질성 설사 자가 판단 기준 안내: "발열 또는 혈변 → azithromycin 복용"
-   * ETEC가 우세한 고위험 지역 여행자에서 경구 콜레라 백신(Dukoral) 교차 보호 효과 안내 (약 50\~60%)
-2. **During-Travel (여행 중) - 단계별 자가 관리**
-   * 단계별 자가 관리 표 및 알고리듬 참조; 항생제 48시간 후 미호전이면 즉시 의료기관 방문
-3. **Post-Travel (귀국 후) - 지속 증상 처리**
-   * 급성 설사 지속 시 지침에 따른 경험적 치료
-   * 중증·지속성(≥2주)·치료 실패 : 대변 배양·기생충 검사·PCR
-   * 만성·지속성 증상 : 귀국 후 지속 설사 접근법 표 참조
+<table><thead><tr><th width="186">품목</th><th>용도</th></tr></thead><tbody><tr><td>휴대용 ORS 파우치</td><td>탈수 방지·치료 (1순위; 여행 내내 상시 휴대)</td></tr><tr><td>loperamide</td><td>경증·비이질성 설사 조절</td></tr><tr><td>rifaximin</td><td>비이질성 수양성 설사 (열·혈변 없을 때)</td></tr><tr><td>azithromycin</td><td>이질성·발열 동반 설사; 동남아 여행 시</td></tr><tr><td>항구토제 ODT</td><td>구토가 심해 약을 삼키기 어려울 때</td></tr><tr><td>체온계</td><td>발열 여부 판단 (이질성 자가 판단 핵심)</td></tr><tr><td>알코올 손 소독제</td><td>식전·화장실 후 위생</td></tr><tr><td>diosmectite</td><td>대증 흡착 치료</td></tr></tbody></table>
 
 ***
 

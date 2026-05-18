@@ -107,9 +107,9 @@
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 경고 징후 없이 4\~6주 치료에도 증상 지속&#x20;
+* 경고 징후 없이 4\~6주 치료에도 증상 지속
 * IBS 진단 기준 충족 + 초기 대증치료 무반응
-* 흡수 장애 의심 (지방변, 영양 결핍)&#x20;
+* 흡수 장애 의심 (지방변, 영양 결핍)
 * 기능성 설사와 유기적 원인 감별이 불분명한 경우
 
 ## <mark style="color:green;">진단</mark>
@@ -139,7 +139,7 @@
 **대변 검사**
 
 * WBC, 배양, 기생충 + 잠혈 ← 감염·염증
-* 전해질(Na, K), 삼투압&#x20;
+* 전해질(Na, K), 삼투압
   * osmotic gap 계산 : 290 − 2×(Na + K) mOsm/kg stool water
 
 <table><thead><tr><th width="146">Osmotic gap</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 mOsm/㎏</td><td>분비성 설사 (secretory) - 식사와 무관, 금식해도 지속</td></tr><tr><td>50~100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>> 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
@@ -212,9 +212,9 @@ graph TD
     OsmoGap -- "50~100 (혼합형)" --> MixedEval["식이 조정 + 분비성 평가<br/>병행 시행"]
     OsmoResult -- "호전" --> OsmoDx["탄수화물 불내성<br/>(유당·과당·FODMAP)"]
     OsmoGap -- ">100 (삼투압성)" --> OsmoDx
-    
-
-style Phenotype fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef white fill:#fff,stroke:#333
+class A,B,C white
+style Phenotype fill:#d5f5e3,stroke:#27ae60,stroke-width:2px
 classDef blue fill:#d0e8ff,stroke:#1a6abf
 class MalabsDx,OsmoDx,MixedEval,CholTrial,Functional blue
 classDef pink fill:#fde8f0,stroke:#e91e8c
@@ -326,14 +326,14 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 * cholestyramine : 4 g 1포 qd\~qid (식사와 함께) <mark style="color:blue;">\[퀘스트란 현탁용산]</mark>
   * 소량(1포 qd)에서 시작 → 증상에 따라 증량
   * 다른 약물과 4\~6시간 간격 복용 필수 (약물 흡착 방해)
-  * 부작용 : 복부 팽만, 변비&#x20;
+  * 부작용 : 복부 팽만, 변비
 * colesevelam : cholestyramine 불내성 시 대체; 맛·내약성 우수; 국내 당뇨 적응증으로 허가
 
 ### <mark style="color:orange;">항생제 (SIBO 치료)</mark>
 
-* 대상 : 소장 세균 과증식&#x20;
+* 대상 : 소장 세균 과증식
 * rifaximin : 1차 권고 (비흡수성 항생제; 전신 부작용 적음)
-  * 200 ㎎ 2T tid (1,200 ㎎/d) × 14일; 필요 시 3T tid (1,800 ㎎/d) <mark style="color:blue;">\[노르믹스]</mark>&#x20;
+  * 200 ㎎ 2T tid (1,200 ㎎/d) × 14일; 필요 시 3T tid (1,800 ㎎/d) <mark style="color:blue;">\[노르믹스]</mark>
   * [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=418\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : 급성장염 혹은 장내세균상의 이상으로 인한 설사에 타 약제 투여로 증상이 호전되지 않는 환자
   * 재발 시 반복 치료; 원인(장 운동 장애, 해부학적 이상) 교정이 재발 방지의 핵심
 * ciprofloxacin : 500 ㎎ bid × 7\~10일 <mark style="color:blue;">\[씨프로바이]</mark> (대체)
@@ -344,7 +344,7 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 * 대상 : 조직검사로 확진된 collagenous/lymphocytic colitis
 * 유발 약물(NSAID, PPI, SSRI) 중단이 치료의 핵심
 * budesonide : 1차 선택; 9 ㎎ qd × 8주 → tapering
-  * <mark style="color:blue;">\[엔토코트]</mark> 3 ㎎ × 3C qd (아침 식전)&#x20;
+  * <mark style="color:blue;">\[엔토코트]</mark> 3 ㎎ × 3C qd (아침 식전)
   * <mark style="color:blue;">\[타미코트]</mark> 9 ㎎ × 1T qd (아침 식전) ([보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220701\&sno=3\&mtgMtrRegSno=5\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y))
   * 재발률이 높아 장기 유지 요법이 필요한 경우가 많음 (저용량 3\~6 ㎎/d 유지 고려)
 * bismuth subsalicylate : 경증 또는 budesonide 전 시도; 장기 사용 안전성 주의; 현탁액 525 ㎎ (30 ㎖) 또는 정제 524 ㎎ (2정), 30분\~1시간마다, 1일 최대 8회; ≥3세 적용 <mark style="color:blue;">\[펩토무스현탁액]</mark>

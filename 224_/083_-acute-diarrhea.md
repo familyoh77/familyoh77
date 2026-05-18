@@ -118,6 +118,10 @@
 
 #### <mark style="color:$primary;">증상·병력에 따른 원인 감별</mark>
 
+<figure><img src="../.gitbook/assets/088-2 (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
 <table><thead><tr><th width="242">역학·임상 단서</th><th>시사하는 원인</th></tr></thead><tbody><tr><td>최근 해외 여행력 (개발도상국)</td><td>여행자 설사 (ETEC, Campylobacter, Shigella, 원충) (☞ <a href="086_-travelers-diarrhea.md">여행자 설사</a>)</td></tr><tr><td>최근 항생제 사용</td><td>항생제 관련 설사, <em>C. difficile</em> 감염</td></tr><tr><td>날생선·어패류 섭취</td><td>Vibrio, 노로바이러스</td></tr><tr><td>집단 급식·뷔페 (수 시간 내 발병)</td><td>독소형 식중독 (S. aureus, B. cereus)</td></tr><tr><td>집단 급식·뷔페 (12~48시간 후 발병)</td><td>Salmonella, 노로바이러스</td></tr><tr><td>혈변 + 고열</td><td>침습성 세균 (Salmonella, Shigella, Campylobacter)</td></tr><tr><td>혈변 + 발열 미약·무발열</td><td>STEC 반드시 고려 - 항생제·loperamide 모두 금기 (HUS 위험)*</td></tr><tr><td>소아 + 혈변</td><td>STEC (O157:H7) → HUS 위험; 항생제·loperamide 모두 금기</td></tr><tr><td>임신부 + 발열 동반 설사</td><td><em>Listeria monocytogenes</em> - 대변 배양 + 혈액 배양 고려; 태아·모체 위험</td></tr><tr><td>입원 중 ≥3일 이후 발병</td><td><em>C. difficile</em> 감염</td></tr><tr><td>면역 저하 상태</td><td>기회감염 (Cryptosporidium, CMV, Isospora, MAC)</td></tr><tr><td>수양성 설사 + 구토 주증상 (단기 잠복기)</td><td>바이러스성 장염, 독소형 식중독</td></tr><tr><td>반복성·만성 경과 의심</td><td>IBD - 분변 칼프로텍틴(Fecal calprotectin) 검사 보조적 활용 가능</td></tr></tbody></table>
 
 **\*STEC** (장관 출혈성 대장균) 유의 사항 : 혈변이 있는데 발열이 뚜렷하지 않은 경우 STEC를 반드시 고려; 항생제와 loperamide 모두 독소 방출 촉진 및 HUS(용혈성 요독 증후군) 위험을 증가시킬 수 있으므로 금기; 대변 배양 및 CBC/Cr 추적 필요
@@ -231,7 +235,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
 ### <mark style="color:orange;">식이</mark>
 
 * 소아·성인 모두조기 정상 식이 복귀 권장
-  * &#x20;탈수 교정 후 가능한 한 빨리 평소 식사로 복귀하는것이 위장관 회복을 촉진하며, 과도한 음식 제한은 회복을 지연시킴
+  * 탈수 교정 후 가능한 한 빨리 평소 식사로 복귀하는것이 위장관 회복을 촉진하며, 과도한 음식 제한은 회복을 지연시킴
 * 소량으로 자주(1일 5\~6회) 섭취; 금식은 금기
 
 #### <mark style="color:$primary;">권장 식품</mark>
@@ -303,7 +307,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
 * loperamide : 장 μ-opioid receptor 자극 → 장 운동 억제·통과 시간 연장, 수분 흡수 증가; 설사 기간 단축
   * 용법 : 처음 4 ㎎, 이후 필요시 2 ㎎; OTC 기준 최대 8 ㎎/일; 최대 16 ㎎/일까지 투여 가능하나 일반 외래에서는 안전성을 위해 8 ㎎/일 보수적 사용 권장 <mark style="color:blue;">\[로프민]</mark>
   * 주요 위험 **:** ⓵ 고용량 심독성 - 권장 용량 초과 시 QT 연장·Torsades de Pointes 위험, 최대 용량 준수 및 환자 교육 필수; ⓶ IBD 활성기 금기 - 궤양성 대장염(UC) 활성기에서 toxic megacolon 유발 가능
-  * 사용 제한 / 금기 : 혈변, 고열, 전신 독성, 침습성 세균 감염, _C. difficile_ 감염, STEC 의심 (HUS 위험), IBD 활성기 (toxic megacolon  유발 위험)
+  * 사용 제한 / 금기 : 혈변, 고열, 전신 독성, 침습성 세균 감염, _C. difficile_ 감염, STEC 의심 (HUS 위험), IBD 활성기 (toxic megacolon 유발 위험)
 * cimetropium : 항콜린 작용, 장경련 완화; 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
 * tiropramide : 장 평활근 이완; 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
 
@@ -342,7 +346,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
   * _S. boulardii_ : 항생제 관련 설사
   * _L. rhamnosus_ GG : 항생제 관련 설사, 소아 로타바이러스 설사 - 설사 기간 단축 효과 일부 메타분석에서 확인
 * 용법 : 표준화된 용량·치료법 없음
-  * _S. boulardii_ : ≥7일 또는 설사 소실 시까지; <mark style="color:blue;">\[비오플]</mark> 500 ㎎/일 &#x20;
+  * _S. boulardii_ : ≥7일 또는 설사 소실 시까지; <mark style="color:blue;">\[비오플]</mark> 500 ㎎/일
   * _L. rhamnosus_ GG : ≥7일; <mark style="color:blue;">\[람노스]</mark> 1일 1\~4캡슐
 * [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0032) : <6세 급성 감염성 설사 또는 항생제 연관 설사, 괴사성 장염
 
