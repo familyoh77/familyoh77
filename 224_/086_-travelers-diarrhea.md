@@ -116,54 +116,108 @@ class G,F orange
 
 ### <mark style="color:orange;">치료 원칙</mark>
 
-{% hint style="danger" %}
-⚠️ **수분 보충이 모든 단계의 1순위**: 경증 설사도 탈수로 악화될 수 있다. ORS(경구 수액), 물, 이온 음료, 국물, 짭짤한 크래커 등으로 즉시 시작한다. 고령자·소아·트레킹 중·고온 환경에서 특히 중요하다.
-{% endhint %}
+* 수분 보충이 모든 단계의 1순위 : 경증 설사도 탈수로 악화될 수 있음. ORS(경구 수액), 물, 이온 음료, 국물, 짭짤한 크래커 등으로 즉시 시작. 고령자·소아·트레킹 중·고온 환경에서 특히 중요
 
-<table><thead><tr><th width="110">중증도</th><th width="230">지사제</th><th>항생제</th></tr></thead><tbody><tr><td><strong>경증</strong></td><td>loperamide 또는 diosmectite 고려</td><td>권고하지 않음</td></tr><tr><td><strong>중등증</strong></td><td>단독 또는 항생제 병용 고려</td><td>항생제 고려 (혈변·발열 없으면 rifaximin 선호)</td></tr><tr><td><strong>중증</strong></td><td>항생제와 병용으로 고려</td><td><strong>항생제 투여 권고</strong> (azithromycin 선호)</td></tr></tbody></table>
+<table><thead><tr><th width="88">중증도</th><th width="220">지사제</th><th>항생제</th></tr></thead><tbody><tr><td>경증</td><td>loperamide 또는 diosmectite 고려</td><td>권고하지 않음</td></tr><tr><td>중등증</td><td>단독 또는 항생제 병용 고려</td><td>항생제 고려 (혈변·발열 없으면 rifaximin 선호)</td></tr><tr><td>중증</td><td>항생제와 병용으로 고려</td><td>항생제 투여 권고 (azithromycin 선호)</td></tr></tbody></table>
 
-### <mark style="color:orange;">항생제 시작 기준</mark>
-
-{% hint style="info" %}
-다음 상황 중 하나 이상에 해당하면 항생제 즉시 시작을 고려한다:
-
-* 계획된 활동이 불가능한 수준의 설사 (중증)
-* 발열 동반
-* 혈변 동반 (이질성 설사)
-* 하루 6회 이상의 수양성 설사
-* 중요한 일정(출장·시험·장거리 비행) 예정
-* 면역 저하자 또는 중증 내과 기저질환자
-* 심한 복통·경련 동반
-
-→ **"기능 장애(functional impairment)"가 항생제 시작의 실용적 기준** (ISTM 현대적 접근)
-{% endhint %}
-
-### <mark style="color:orange;">단계별 자가 관리 (여행 중)</mark>
-
-<table><thead><tr><th width="55">단계</th><th width="230">상황</th><th>조치</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>경증 수양성 설사, 활동 가능, 열·혈변 없음</td><td>ORS 우선; loperamide 또는 diosmectite 고려; 항생제 불필요</td></tr><tr><td><strong>2</strong></td><td>중등증, 활동 제한, 열·혈변 없음</td><td>항생제 시작 (rifaximin 선호); loperamide 병용 가능</td></tr><tr><td><strong>3</strong></td><td>발열·혈변 동반 이질성 설사</td><td>azithromycin 즉시 시작; loperamide 단독 사용 금지</td></tr><tr><td><strong>4</strong></td><td>48시간 항생제 후 미호전, 심한 탈수·구토</td><td>즉시 의료기관 방문; 정맥 수액·대변 검사 고려</td></tr><tr><td><strong>5</strong></td><td>귀국 후 2주 이상 지속</td><td>기생충 검사, PI-IBS·C. diff 평가</td></tr></tbody></table>
-
-### <mark style="color:orange;">지역별 추천 항생제</mark>
-
-<table><thead><tr><th width="200">여행 지역</th><th width="240">특징 병원체</th><th>추천 항생제</th></tr></thead><tbody><tr><td>동남아시아 (태국 포함)</td><td>Campylobacter (FQ 내성 높음)</td><td>azithromycin <strong>우선</strong></td></tr><tr><td>남아시아 (인도, 파키스탄 등)</td><td>FQ-resistant ETEC, Shigella</td><td>azithromycin</td></tr><tr><td>중남미, 아프리카</td><td>ETEC predominance</td><td>rifaximin 또는 azithromycin</td></tr><tr><td>유람선·단체 투어</td><td>Norovirus (집단 발생)</td><td>항생제 불필요; 대증 치료</td></tr><tr><td>장기 배낭여행·담수 노출</td><td>Giardia, Cyclospora, Aeromonas</td><td>metronidazole / tinidazole (Giardia); TMP/SMX (Cyclospora)</td></tr></tbody></table>
-
-{% hint style="info" %}
-**여행 중 2제 비상약 전략**: 여행 전 두 종류의 항생제를 처방받아 휴대하는 방법이 실용적이다.
-
-* ① **rifaximin** - 열·혈변 없는 수양성 설사용 (비이질성)
-* ② **azithromycin** - 발열·혈변 동반 이질성 설사, 또는 동남아 여행 시
-
-단일 항생제만 가져간다면 **azithromycin**이 대부분의 상황에 대응 가능하다.
-{% endhint %}
-
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비-약물 치료</mark>&#x20;
 
 ### <mark style="color:orange;">수분 및 영양 보충</mark>
 
-* **모든 중증도에서 수분 보충이 1순위** : ORS가 가장 효과적; 물·이온음료·국물·짭짤한 크래커로 대체 가능
+* 모든 중증도에서 수분 보충이 1순위 : ORS가 가장 효과적; 물·이온음료·국물·짭짤한 크래커로 대체 가능
 * 심한 탈수 : ORS를 소량씩 자주(200\~250 ㎖씩) 섭취; 구토가 심하면 정맥 수액 필요
 * 식사는 제한 불필요; 소화 잘 되는 음식(바나나, 쌀, 토스트 등) 권장
 
-### <mark style="color:orange;">예방 수칙 - 음식과 음료</mark>
+## <mark style="color:green;">약물 치료</mark>
+
+### <mark style="color:orange;">항생제</mark>
+
+* 다음 상황 중 하나 이상에 해당하면 항생제 투여 개시를 고려
+  * 계획된 활동이 불가능한 수준의 설사 (중증)
+  * 발열 동반
+  * 혈변 동반 (이질성 설사)
+  * 하루 6회 이상의 수양성 설사
+  * 중요한 일정(출장·시험·장거리 비행) 예정
+  * 면역 저하자 또는 중증 내과 기저질환자
+  * 심한 복통·경련 동반
+* "기능 장애(functional impairment)"가 항생제 시작의 실용적 기준이 될 수 있음
+
+{% hint style="danger" %}
+**STEC 주의** : Shiga toxin-producing E. coli (STEC/O157:H7) 감염이 의심되는 경우 항생제 투여는 Hemolytic Uremic Syndrome(HUS) 위험을 증가시킬 수 있으므로 투여 전 반드시 고려 (주로 소아에서 문제)
+{% endhint %}
+
+#### <mark style="color:$primary;">Macrolide</mark>&#x20;
+
+* 1차 선택 (이질성·중증·동남아)
+* azithromycin : 500 ㎎ qd × 3일, 또는 1 g 단회 <mark style="color:blue;">\[지스로맥스]</mark>
+  * 태국 등 Campylobacter 고위험 지역에서 1차 선택제
+  * 혈변·발열 동반 이질성 설사 및 중증에서 전반적 선호 항생제
+  * 단회 1 g 복용 시 오심·구토가 흔함; 오심이 심한 경우 표준 3일 요법(500 ㎎ qd × 3일)으로 복용
+
+#### <mark style="color:$primary;">Rifamycin계</mark>&#x20;
+
+* 비침습적(비이질성) 수양성 설사에서 권장
+* 전신 흡수 거의 없어 안전성 우수
+* 발열·혈변·이질성 설사에서 사용하지 않&#xC74C;**.** 전신 흡수가 거의 없어 _Campylobacter, Shigella, Salmonella_ 등 침습성 병원체에 대한 효과가 제한적
+* 복용 중 발열·혈변이 생기면 즉시 azithromycin으로 전환
+* rifaximin : 200 ㎎ tid × 3일 <mark style="color:blue;">\[노르믹스]</mark>
+* rifamycin SV : 388 ㎎ bid × 3일 (국내 미출시, 해외 가이드라인 옵션; 성인 ≥18세)
+
+#### <mark style="color:$primary;">Fluoroquinolone</mark>&#x20;
+
+{% hint style="danger" %}
+현재 azithromycin 또는 rifaximin이 우선 선택됨. _Campylobacter·Shigell&#x61;_&#xC758; fluoroquinolone 내성이 전 세계적으로 증가 중이며, FDA Black Box Warning(건염·건 파열, QT 연장, 대동맥 파열, C. diff 위험)으로 인해 예방 목적 사용은 현재 가이드라인에서 권고하지 않음. 이질성 설사에서의 단독 사용도 권고하지 않음
+{% endhint %}
+
+* 대체 옵션 (현재 사용 감소)
+* ciprofloxacin : 750 ㎎ 단회, 또는 500 ㎎ bid × 3일 <mark style="color:blue;">\[씨프로바이]</mark>
+* levofloxacin : 500 ㎎ qd × 1\~3일 <mark style="color:blue;">\[크라비트]</mark>
+* ofloxacin : 400 ㎎ bid × 1\~3일 <mark style="color:blue;">\[타리비드]</mark>
+
+{% hint style="info" %}
+TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
+{% endhint %}
+
+#### <mark style="color:$primary;">지역별 추천 항생제</mark>
+
+<table><thead><tr><th width="163">여행 지역</th><th width="187">특징 병원체</th><th>추천 항생제</th></tr></thead><tbody><tr><td>동남아시아 <br>(태국 포함)</td><td>Campylobacter (FQ 내성 높음)</td><td>azithromycin <strong>우선</strong></td></tr><tr><td>남아시아 <br>(인도, 파키스탄 등)</td><td>FQ-resistant ETEC, Shigella</td><td>azithromycin</td></tr><tr><td>중남미, 아프리카</td><td>ETEC predominance</td><td>rifaximin 또는 azithromycin</td></tr><tr><td>유람선·단체 투어</td><td>Norovirus (집단 발생)</td><td>항생제 불필요; 대증 치료</td></tr><tr><td>장기 배낭여행·<br>담수 노출</td><td>Giardia, Cyclospora, Aeromonas</td><td>metronidazole / tinidazole (<em>Giardia</em>); TMP/SMX (<em>Cyclospora</em>)</td></tr></tbody></table>
+
+### <mark style="color:orange;">장 운동 조절제</mark>
+
+* loperamide : 처음 4 ㎎, 이후 설사 시마다 2 ㎎, 최대 16 ㎎/일 <mark style="color:blue;">\[로프민]</mark>
+  * 경증에서 단독 고려; 중증에서는 항생제에 병용하는 방식으로 고려
+  * 발열·혈변 동반 이질성 설사에서는 단독 사용을 피함. 단, 적절한 항생제(특히 azithromycin)와의 병용은 증상 기간 단축 효과가 있어 일부 성인에서 고려 가능
+  * 복용 후 복통 발생·증상 악화·1\~2일 내 반응 없으면 즉시 중단
+  * 여행 중 자가 치료 상황에서는 안전을 위해 최대 8 ㎎/일(4캡슐)로 제한 권고
+* racecadotril : 100 ㎎ tid × 3\~5일 <mark style="color:blue;">\[하이드라섹]</mark> (비급여)
+  * 순수 항분비 작용(엔케팔린 분해 억제); 장 운동 억제 없음
+  * 반동성 변비·복통이 적고 세균 배출을 지연시키지 않음
+  * loperamide 부작용이 우려되는 환자, 소아·고령자에서 대안으로 고려
+* cimetropium : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
+* tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
+* phloroglucinol : 160 ㎎ tid <mark style="color:blue;">\[후로스판]</mark>
+
+### <mark style="color:orange;">항구토제</mark>
+
+* 구토가 심해 경구 약물을 삼키기 어려운 경우(노로바이러스, ETEC 초기) 구강붕해정(ODT) 형태의 항구토제가 유용
+* ramosetron ODT : 0.1 ㎎ prn (혀 위에 녹여 복용) <mark style="color:blue;">\[나제아오디정]</mark>
+* ondansetron ODT : 4\~8 ㎎ prn (혀 위에 녹여 복용) <mark style="color:blue;">\[조프란 구강붕해정]</mark>
+
+{% hint style="info" %}
+항구토제 ODT는 여행 전 비상약 키트에 포함하여 "구토가 심해 알약을 못 삼킬 때 혀 위에 녹여 먹는 약"으로 안내하면 실용적. 사용 후 구토가 가라앉으면 항생제 등 다른 약물을 경구 복용
+{% endhint %}
+
+### <mark style="color:orange;">흡착제</mark>
+
+* bismuth subsalicylate (BSS) : 262 ㎎ 30분마다, 최대 8회/일 × 1\~2일 <mark style="color:blue;">\[펩토무스현탁액]</mark> (525 ㎎/30 ㎖)
+  * 부작용 : 오심, 변비, 혀·변이 검게 변함
+  * 주의 : aspirin 알레르기, 신 기능 저하, 통풍치료제·항응고제·probenecid·methotrexate 복용자
+* diosmectite : 3 g tid, 식간 복용 <mark style="color:blue;">\[스타빅]</mark> (24개월 이상 허가)
+  * 병원성 세균, 독소, 바이러스, 가스, 담즙산 흡착·배설; 예방적 투여도 가능
+
+## <mark style="color:green;">예방</mark>
+
+### <mark style="color:orange;">음식 / 음료</mark>
 
 * 반드시 끓인 물·병에 든 정수를 마신다; 양치질도 끓인 물 사용
 * 밀봉 확인 후 음료수 섭취; 마개가 깨진 병은 마시지 않는다
@@ -174,7 +228,7 @@ class G,F orange
 * 얼음은 정수된 물로 만든 것이 확인된 경우에만 사용
 * 거리 노점 음식·음료수 피하기
 
-### <mark style="color:orange;">예방 수칙 - 위생</mark>
+### <mark style="color:orange;">위생</mark>
 
 * 식사 전·배변 후 충분한 손 씻기 또는 손 소독 (단, 효과는 제한적)
 * 호수·강에서의 수영 자제
@@ -182,26 +236,31 @@ class G,F orange
 ### <mark style="color:orange;">예방적 항생제</mark>
 
 {% hint style="info" %}
-**최신 가이드라인 방향**: 예방적 항생제보다 **증상 발생 시 즉시 치료(Early self-treatment)** 전략이 강력히 선호된다. 기저질환자라도 철저한 위생 수칙 + 비상약 휴대를 1차로 권고하고, 예방적 항생제는 패혈증 위험이 있는 심각한 면역 저하자 등 극단적 초고위험군으로 제한하는 추세이다.
+**최신 가이드라인 방향** : 예방적 항생제보다 증상 발생 시 즉시 치료(Early self-treatment) 전략이 선호됨. 기저질환자라도 철저한 위생 수칙 + 비상약 휴대를 1차로 권고하고, 예방적 항생제는 패혈증 위험이 있는 심각한 면역 저하자 등 극단적 초고위험군으로 제한하는 추세
 {% endhint %}
 
-* **일반 여행자에게 예방적 항생제 권고하지 않음**
-* **고려 대상** : 심각한 면역 저하자(예: 항암 치료 중, 고형장기 이식 후, 중증 면역결핍증), 설사 발생 시 패혈증 위험이 있는 환자의 고위험 지역 단기 여행
-* **선택 약제** : rifaximin 또는 rifamycin SV (선호); azithromycin
-
-{% hint style="danger" %}
-⚠️ **Fluoroquinolone 예방적 사용은 권고하지 않음**: Campylobacter·Shigella의 내성률 상승, FDA Black Box Warning (건염·건 파열, 대동맥 파열, QT 연장, C. diff 감염 위험)으로 인해 현재 가이드라인에서 예방 목적 fluoroquinolone 사용을 권고하지 않는다 (CDC Yellow Book 2024).
-{% endhint %}
-
+* 일반 여행자에게 예방적 항생제 권고하지 않음
+* 고려 대상 : 심각한 면역 저하자(예: 항암 치료 중, 고형장기 이식 후, 중증 면역결핍증), 설사 발생 시 패혈증 위험이 있는 환자의 고위험 지역 단기 여행
+* 선택 약제 : rifaximin 또는 rifamycin SV (선호); azithromycin
+  * Fluoroquinolone 예방적 사용은 권고하지 않음 : Campylobacter·Shigella의 내성률 상승, FDA Black Box Warning (건염·건 파열, 대동맥 파열, QT 연장, C. diff 감염 위험)으로 인해 현재 가이드라인에서 예방 목적 fluoroquinolone 사용을 권고하지 않음 (CDC Yellow Book 2024)
 * Prebiotics/Probiotics : 예방 및 치료 유용성 미입증 - 권고하지 않음
 
 {% hint style="info" %}
-**경구 콜레라 백신(Dukoral)의 ETEC 교차 보호**: 콜레라 독소와 ETEC의 열민감성 독소(LT)는 구조적으로 유사하여, 경구 콜레라 백신 접종 시 **ETEC에 대해 약 50\~60%의 교차 예방 효과**를 기대할 수 있다. ETEC가 우세한 중남미·아프리카·남아시아 고위험 여행자에서 Pre-Travel 상담 시 언급할 수 있다.
+**경구 콜레라 백신(Dukoral)의 ETEC 교차 보호** : 콜레라 독소와 ETEC의 열민감성 독소(LT)는 구조적으로 유사하여, 경구 콜레라 백신 접종 시 ETEC에 대해 약 50\~60%의 교차 예방 효과를 기대할 수 있음. ETEC가 우세한 중남미·아프리카·남아시아 고위험 여행자에서 Pre-Travel 상담 시 언급할 수 있음
 {% endhint %}
 
-{% hint style="info" %}
-**여행 전 비상약 키트 준비 (출국 전 처방 권고)**
-{% endhint %}
+**여행 중 2제 비상약 전략**&#x20;
+
+* 여행 전 두 종류의 항생제를 처방받아 휴대
+  * azithromycin : 발열·혈변 동반 이질성 설사, 또는 동남아 여행 시
+  * rifaximin : 열·혈변 없는 수양성 설사용 (비이질성)
+* 한 가지 항생제만 휴대한다면 azithromycin이 대부분의 상황에 대응 가능
+
+#### <mark style="color:$primary;">단계별 자가 관리 (여행 중)</mark>
+
+<table><thead><tr><th width="61">단계</th><th width="230">상황</th><th>조치</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>경증 수양성 설사, 활동 가능, 열·혈변 없음</td><td>ORS 우선; loperamide 또는 diosmectite 고려; 항생제 불필요</td></tr><tr><td><strong>2</strong></td><td>중등증, 활동 제한, 열·혈변 없음</td><td>항생제 시작 (rifaximin 선호); loperamide 병용 가능</td></tr><tr><td><strong>3</strong></td><td>발열·혈변 동반 이질성 설사</td><td>azithromycin 즉시 시작; loperamide 단독 사용 금지</td></tr><tr><td><strong>4</strong></td><td>48시간 항생제 후 미호전, 심한 탈수·구토</td><td>즉시 의료기관 방문; 정맥 수액·대변 검사 고려</td></tr><tr><td><strong>5</strong></td><td>귀국 후 2주 이상 지속</td><td>기생충 검사, PI-IBS·C. diff 평가</td></tr></tbody></table>
+
+### <mark style="color:orange;">여행 전 비상약 키트 준비 (출국 전 처방 준비)</mark>
 
 | 품목                        | 용도                          |
 | ------------------------- | --------------------------- |
@@ -214,101 +273,20 @@ class G,F orange
 | 알코올 손 소독제                 | 식전·화장실 후 위생                 |
 | diosmectite               | 대증 흡착 치료                    |
 
-## <mark style="color:green;">약물 치료</mark>
-
-### <mark style="color:orange;">항생제</mark>
-
-{% hint style="danger" %}
-⚠️ **STEC 주의**: Shiga toxin-producing E. coli (STEC/O157:H7) 감염이 의심되는 경우 항생제 투여는 **Hemolytic Uremic Syndrome(HUS)** 위험을 증가시킬 수 있으므로 투여 전 반드시 고려한다 (주로 소아에서 문제).
-{% endhint %}
-
-#### <mark style="color:$primary;">Macrolide - 1차 선택 (이질성·중증·동남아)</mark>
-
-* azithromycin : 500 ㎎ qd × 3일, 또는 1 g 단회 <mark style="color:blue;">\[지스로맥스]</mark>
-  * 태국 등 Campylobacter 고위험 지역에서 **1차 선택제**
-  * 혈변·발열 동반 이질성 설사 및 중증에서 **전반적 선호 항생제**
-  * 단회 1 g 복용 시 오심·구토가 흔함; **오심이 심한 경우 표준 3일 요법(500 ㎎ qd × 3일)으로 복용**
-
-#### <mark style="color:$primary;">Rifamycin계 - 비이질성 수양성 설사 선호</mark>
-
-{% hint style="danger" %}
-⚠️ **rifaximin은 발열·혈변·이질성 설사에서 사용하지 않는다.** 전신 흡수가 거의 없어 Campylobacter, Shigella, Salmonella 등 침습성 병원체에 대한 효과가 제한적이다. 복용 중 발열·혈변이 생기면 즉시 azithromycin으로 전환한다.
-{% endhint %}
-
-* rifaximin : 200 ㎎ tid × 3일 <mark style="color:blue;">\[노르믹스]</mark>
-  * 비침습적(비이질성) 수양성 설사에서 권장; 전신 흡수 거의 없어 안전성 우수
-* rifamycin SV : 388 ㎎ bid × 3일 (**국내 미출시, 해외 가이드라인 옵션**; 성인 ≥18세)
-
-#### <mark style="color:$primary;">Fluoroquinolone - 대체 옵션 (현재 사용 감소)</mark>
-
-{% hint style="danger" %}
-⚠️ 현재 azithromycin 또는 rifaximin이 우선 선택된다. Campylobacter·Shigella의 fluoroquinolone 내성이 전 세계적으로 증가 중이며, FDA Black Box Warning(건염·건 파열, QT 연장, 대동맥 파열, C. diff 위험)으로 인해 예방 목적 사용은 현재 가이드라인에서 권고하지 않는다. 이질성 설사에서의 단독 사용도 권고하지 않는다.
-{% endhint %}
-
-* ciprofloxacin : 750 ㎎ 단회, 또는 500 ㎎ bid × 3일 <mark style="color:blue;">\[씨프로바이]</mark>
-* levofloxacin : 500 ㎎ qd × 1\~3일 <mark style="color:blue;">\[크라비트]</mark>
-* ofloxacin : 400 ㎎ bid × 1\~3일 <mark style="color:blue;">\[타리비드]</mark>
-
-{% hint style="info" %}
-TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
-{% endhint %}
-
-### <mark style="color:orange;">장 운동 조절제</mark>
-
-* loperamide : 처음 4 ㎎, 이후 설사 시마다 2 ㎎, 최대 16 ㎎/일 <mark style="color:blue;">\[로프민]</mark>
-  * 경증에서 단독 고려; 중증에서는 **항생제에 병용**하는 방식으로 고려
-  * **발열·혈변 동반 이질성 설사에서는 단독 사용을 피한다**. 단, 적절한 항생제(특히 azithromycin)와의 병용은 증상 기간 단축 효과가 있어 일부 성인에서 고려 가능하다
-  * 복용 후 복통 발생·증상 악화·1\~2일 내 반응 없으면 즉시 중단
-  * **여행 중 자가 치료 상황에서는 안전을 위해 최대 8 ㎎/일(4캡슐)로 제한 권고**
-* racecadotril : 100 ㎎ tid × 3\~5일 _(국내 상품명 확인 필요)_
-  * 순수 항분비 작용(엔케팔린 분해 억제); 장 운동 억제 없음
-  * 반동성 변비·복통이 적고 세균 배출을 지연시키지 않음
-  * loperamide 부작용이 우려되는 환자, 소아·고령자에서 대안으로 고려
-* cimetropium : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
-* tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
-* phloroglucinol : 160 ㎎ tid <mark style="color:blue;">\[후로스판]</mark>
-
-### <mark style="color:orange;">항구토제</mark>
-
-구토가 심해 경구 약물을 삼키기 어려운 경우(노로바이러스, ETEC 초기) 구강붕해정(ODT) 형태의 항구토제가 유용하다.
-
-* ramosetron ODT : 0.1 ㎎ prn (혀 위에 녹여 복용) <mark style="color:blue;">\[나제아 OD정]</mark>
-* ondansetron ODT : 4\~8 ㎎ prn (혀 위에 녹여 복용) <mark style="color:blue;">\[조프란 구강붕해정]</mark>
-
-{% hint style="info" %}
-항구토제 ODT는 여행 전 비상약 키트에 포함하여 "구토가 심해 알약을 못 삼킬 때 혀 위에 녹여 먹는 약"으로 안내하면 실용적이다. 사용 후 구토가 가라앉으면 항생제 등 다른 약물을 경구 복용한다.
-{% endhint %}
-
-### <mark style="color:orange;">흡착제</mark>
-
-* bismuth subsalicylate (BSS) : 262 ㎎ 30분마다, 최대 8회/일 × 1\~2일
-  * **국내 미유통** (처방 어려움); 여행 전 현지(미국 등) 구입 필요
-  * 부작용 : 오심, 변비, 혀·변이 검게 변함
-  * 주의 : aspirin 알레르기, 신 기능 저하, 통풍치료제·항응고제·probenecid·methotrexate 복용자
-* diosmectite : 3 g tid, 식간 복용 <mark style="color:blue;">\[스타빅]</mark> (24개월 이상 허가)
-  * 병원성 세균, 독소, 바이러스, 가스, 담즙산 흡착·배설; 예방적 투여도 가능
-
 ### <mark style="color:orange;">출국 전 의료 상담 - 단계별 안내</mark>
 
-{% hint style="info" %}
-**① Pre-Travel (출국 전) - 여행지 건강 유의사항 설명 및 사전 준비**
-
-1. 여행자설사 발생 가능성과 대처법 충분히 설명
-2. 모든 설사에서 \*\*경구 수액 보충(ORS)\*\*과 소금 섭취의 중요성 설명
-3. 여행지 위험도·일정에 따른 **비상약 처방** (비상약 키트 위 참조)
-4. 이질성 설사 자가 판단 기준 안내: "발열 또는 혈변 → azithromycin 복용"
-5. ETEC가 우세한 고위험 지역 여행자에서 **경구 콜레라 백신(Dukoral)** 교차 보호 효과 안내 (약 50\~60%)
-
-**② During-Travel (여행 중) - 단계별 자가 관리**
-
-단계별 자가 관리 표 및 알고리듬 참조; 항생제 48시간 후 미호전이면 즉시 의료기관 방문
-
-**③ Post-Travel (귀국 후) - 지속 증상 처리**
-
-* 급성 설사 지속 시 지침에 따른 경험적 치료
-* 중증·지속성(≥2주)·치료 실패 : 대변 배양·기생충 검사·PCR
-* 만성·지속성 증상 : 귀국 후 지속 설사 접근법 표 참조
-{% endhint %}
+1. **Pre-Travel (출국 전) - 여행지 건강 유의사항 설명 및 사전 준비**
+   * 여행자설사 발생 가능성과 대처법 충분히 설명
+   * 모든 설사에서 \*\*경구 수액 보충(ORS)\*\*과 소금 섭취의 중요성 설명
+   * 여행지 위험도·일정에 따른 비상약 처방 (비상약 키트 위 참조)
+   * 이질성 설사 자가 판단 기준 안내: "발열 또는 혈변 → azithromycin 복용"
+   * ETEC가 우세한 고위험 지역 여행자에서 경구 콜레라 백신(Dukoral) 교차 보호 효과 안내 (약 50\~60%)
+2. **During-Travel (여행 중) - 단계별 자가 관리**
+   * 단계별 자가 관리 표 및 알고리듬 참조; 항생제 48시간 후 미호전이면 즉시 의료기관 방문
+3. **Post-Travel (귀국 후) - 지속 증상 처리**
+   * 급성 설사 지속 시 지침에 따른 경험적 치료
+   * 중증·지속성(≥2주)·치료 실패 : 대변 배양·기생충 검사·PCR
+   * 만성·지속성 증상 : 귀국 후 지속 설사 접근법 표 참조
 
 ***
 
