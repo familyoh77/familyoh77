@@ -1,116 +1,109 @@
-# 여행자설사 Traveler's Diarrhea
+# 여행자설사 Traveler’s Diarrhea
 
 ## <mark style="color:green;">일반 사항</mark>
 
-여행자설사(TD)는 가장 흔한 여행 관련 질환으로, 개발도상국을 방문하는 여행자의 **20\~60%**에서 발생한다. 대부분은 오염된 음식이나 음료수를 통해 전파되며, 체류 초기(첫 1\~2주)에 집중적으로 발생한다. 치료하지 않아도 세균성은 대부분 3\~7일 내 자연 호전되나, EAEC 감염이나 바이러스 후 장 과민 상태 등에서는 1\~2주 이상 지속되거나 **post-infectious IBS(PI-IBS)**로 이행할 수 있다.
+* 여행자설사(TD)는 가장 흔한 여행 관련 질환으로, 개발도상국을 방문하는 여행자의 20\~60%에서 발생하며, 체류 초기(첫 1\~2주)에 집중적으로 발생
+* 전파 경로 : 대부분 오염된 음식이나 음료수
+* 경과 : 세균성은 대부분 3\~7일 내 자연 호전; EAEC 감염이나 바이러스 후 장 과민 상태 등에서는 1\~2주 이상 지속되거나 post-infectious IBS(PI-IBS)로 이행할 수 있음
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
 ### <mark style="color:orange;">원인균</mark>
 
-<table><thead><tr><th width="120">분류</th><th width="100">빈도</th><th>주요 원인균</th></tr></thead><tbody><tr><td>세균</td><td>80~90%</td><td>E. coli (ETEC, EAEC), Campylobacter, Shigella, Salmonella, Aeromonas spp.</td></tr><tr><td>바이러스</td><td>10~25%</td><td>Norovirus, Rotavirus, Astrovirus, Sapovirus</td></tr><tr><td>기생충</td><td>~10%</td><td>Giardia lamblia, Cryptosporidium, Cyclospora</td></tr></tbody></table>
+<table><thead><tr><th width="105">분류</th><th width="94">빈도</th><th>주요 원인균</th></tr></thead><tbody><tr><td>세균</td><td>80~90%</td><td><em>E. coli</em> (ETEC, EAEC), <em>Campylobacter, Shigella, Salmonella, Aeromonas</em> spp.</td></tr><tr><td>바이러스</td><td>10~25%</td><td>Norovirus, Rotavirus, Astrovirus, Sapovirus</td></tr><tr><td>기생충</td><td>~10%</td><td><em>Giardia lamblia, Cryptosporidium, Cyclospora</em></td></tr></tbody></table>
 
-{% hint style="info" %}
-바이러스 빈도는 과거 5\~15%로 기술되었으나, multiplex PCR 연구에 따르면 실제로는 **10\~25%**까지 기여할 수 있으며 구토 우세 증상과 관련된다.
-{% endhint %}
+* 바이러스 빈도는 과거 5\~15%로 기술되었으나, 실제로는 10\~25%까지 기여할 수 있으며(multiplex PCR 연구), 구토 우세 증상과 관련
 
 ### <mark style="color:orange;">위험 인자</mark>
 
-* **숙주 요인** : 면역 저하자, 제산성 약물 복용자(PPI, H₂-차단제), 위장관 수술력, 젊은 성인
-* **지역 요인** : 더운 기후, 상하수도 및 위생 인프라 미비 지역(사하라이남 아프리카, 남아시아, 중남미)
-* **시기** : 여행 초기(특히 첫 1주)에 위험도 최고
+* 숙주 요인 : 면역 저하자, 제산성 약물 복용자(PPI, H₂-차단제), 위장관 수술력, 젊은 성인
+* 지역 요인 : 더운 기후, 상하수도 및 위생 인프라 미비 지역(사하라이남 아프리카, 남아시아, 중남미)
+* 시기 : 여행 초기(특히 첫 1주)에 위험도 최고
 
 ## <mark style="color:green;">임상 양상</mark>
 
 ### <mark style="color:orange;">병원체별 특징</mark>
 
-<table><thead><tr><th width="210">원인균</th><th width="150">잠복기</th><th>임상 특징</th></tr></thead><tbody><tr><td>ETEC</td><td>6~72시간</td><td>Malaise, 식욕 부진, 복통에 이어지는 급격한 수양성 설사</td></tr><tr><td>EAEC</td><td>수일</td><td>수양성 설사가 지속적; 1~2주 이상 연장되는 경우 많음</td></tr><tr><td>Campylobacter, Shigella</td><td>1~3일</td><td>발열, 이질성 증상(뒤무직, 절박변, 경련성 복통, 혈변)</td></tr><tr><td>Salmonella</td><td>12~72시간</td><td>오한, 발열, 두통, 근육통 동반; 균혈증 가능</td></tr><tr><td>Aeromonas spp.</td><td>1~2일</td><td>수양성 또는 점혈변 설사; 담수 노출력. fluoroquinolone 또는 3세대 세팔로스포린 반응</td></tr><tr><td>Norovirus</td><td>12~48시간</td><td>오심·구토 predominance; 폭발적 집단 발생이 특징; 경과 짧음(1~3일)</td></tr><tr><td>Giardia lamblia</td><td>1~2주</td><td>악취성 지방성 설사, 복부 팽만, 잦은 트림; 수 주~수개월 지속 가능</td></tr><tr><td>Cyclospora cayetanensis</td><td>1~2주</td><td>수양성 설사가 장기간 지속되며 재발-완화 경과가 특징; TMP/SMX 반응. 위험 지역: 과테말라·아이티·네팔·페루 등</td></tr><tr><td><em>황색포도상구균 (S. aureus)·바실루스 세레우스 (B. cereus) (독소형)</em></td><td><em>1~6시간 (매우 짧음)</em></td><td><em>음식 섭취 직후 폭발적 구토·복통. 발열 대개 없음; 24시간 내 자연 호전. 항생제 불필요</em></td></tr></tbody></table>
+<table><thead><tr><th width="153">원인균</th><th width="106">잠복기</th><th>임상 특징</th></tr></thead><tbody><tr><td>ETEC</td><td>6~72시간</td><td>Malaise, 식욕 부진, 복통에 이어지는 급격한 수양성 설사</td></tr><tr><td>EAEC</td><td>수일</td><td>수양성 설사가 지속적; 1~2주 이상 연장되는 경우 많음</td></tr><tr><td><em>Campylobacter, Shigella</em></td><td>1~3일</td><td>발열, 이질성 증상(뒤무직, 절박변, 경련성 복통, 혈변)</td></tr><tr><td><em>Salmonella</em></td><td>12~72시간</td><td>오한, 발열, 두통, 근육통 동반; 균혈증 가능</td></tr><tr><td><em>Aeromonas</em> spp.</td><td>1~2일</td><td>수양성 또는 점혈변 설사; 담수 노출력. fluoroquinolone 또는 3세대 cephalosporin 반응</td></tr><tr><td>Norovirus</td><td>12~48시간</td><td>오심·구토 predominance; 폭발적 집단 발생이 특징; 경과 짧음(1~3일)</td></tr><tr><td><em>Giardia lamblia</em></td><td>1~2주</td><td>악취성 지방성 설사, 복부 팽만, 잦은 트림; 수 주~수개월 지속 가능</td></tr><tr><td><em>Cyclospora cayetanensis</em></td><td>1~2주</td><td>수양성 설사가 장기간 지속되며 재발-완화 경과가 특징; TMP/SMX 반응. 위험 지역: 과테말라·아이티·네팔·페루 등</td></tr><tr><td><em>S. aureus·B. cereus (독소형)</em></td><td><em>1~6시간</em> </td><td><em>음식 섭취 직후 폭발적 구토·복통. 발열 대개 없음; 24시간 내 자연 호전. 항생제 불필요</em></td></tr></tbody></table>
 
-{% hint style="info" %}
-**독소형 식중독 감별**: 잠복기가 1\~6시간으로 매우 짧고 구토가 주증상이며 발열이 없으면 세균성 TD보다 S. aureus 또는 B. cereus 독소형을 먼저 의심한다. 항생제는 불필요하며 수분 보충과 대증 치료로 충분하다.
-{% endhint %}
+* 독소형 식중독 감별 : 잠복기가 1\~6시간으로 매우 짧고 구토가 주증상이며 발열이 없으면 세균성 TD보다 _S. aureus_ 또는 _B. cereus_ 독소형을 먼저 의심. 항생제는 불필요하며 수분 보충과 대증 치료로 충분
 
 ### <mark style="color:orange;">중증도 분류</mark>
 
-<table><thead><tr><th width="110">등급</th><th>기준</th></tr></thead><tbody><tr><td><strong>경증</strong></td><td>견딜 만하고 고통스럽지 않으며, 계획된 활동에 지장 없음</td></tr><tr><td><strong>중등증</strong></td><td>고통스럽거나 계획된 활동에 지장을 주는 설사</td></tr><tr><td><strong>중증</strong></td><td>계획된 활동이 불가능한 설사; 이질성 설사는 모두 중증으로 간주</td></tr><tr><td><strong>지속성</strong></td><td>2주 이상 지속 (기생충 감염·PI-IBS 평가 필요)</td></tr></tbody></table>
+* 경증 : 견딜 만하고 고통스럽지 않으며, 계획된 활동에 지장 없음
+* 중등증 : 고통스럽거나 계획된 활동에 지장을 주는 설사
+* 중증 : 계획된 활동이 불가능한 설사; 이질성 설사는 모두 중증으로 간주
+* 지속성 : 2주 이상 지속 (기생충 감염·PI-IBS 평가 필요)
 
 {% hint style="info" %}
-**이질성 설사(Dysentery)**: 혈변 또는 발열을 동반한 침습성 염증성 설사로, 뒤무직·절박변·경련성 복통·점액변이 동반될 수 있다. 점액변만 있는 경우는 viral colitis나 과민성 장염을 포함할 수 있으므로 혈변 또는 발열의 동반 여부로 이질성을 판단한다. 이질성 설사는 중증도에 관계없이 항생제 적응증이다.
+**이질성 설사(Dysentery)** : 혈변 또는 발열을 동반한 침습성 염증성 설사로, 뒤무직·절박변·경련성 복통·점액변이 동반될 수 있음. 점액변만 있는 경우는 viral colitis나 과민성 장염을 포함할 수 있으므로 혈변 또는 발열의 동반 여부로 이질성을 판단. 이질성 설사는 중증도에 관계없이 항생제 투여 대상임
 {% endhint %}
 
 {% hint style="info" %}
-**Post-infectious IBS (PI-IBS)**: 원인균 소멸 후에도 위장관 증상이 지속되는 상태. 감염 기간이 길고 중증일수록, 여성에서, 심리적 스트레스가 동반된 경우 위험이 높다.
+**Post-infectious IBS (PI-IBS)** : 원인균 소멸 후에도 위장관 증상이 지속되는 상태. 감염 기간이 길고 중증일수록, 여성에서, 심리적 스트레스가 동반된 경우 위험이 높음
 {% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 평가 또는 응급 이송**</mark>
 
-* 심한 탈수 징후 : 의식 저하·혼돈, 빈맥(>120회/분), 저혈압, 무뇨 또는 핍뇨
+* 심한 탈수 소견: 의식 저하·혼돈, 빈맥(>120회/분), 저혈압, 무뇨 또는 핍뇨
 * 고열(≥39°C) + 혈변 + 의식 변화의 동시 발생
 * 영아·고령자·면역 저하자에서의 급격한 임상 악화
-* 복막 자극 징후 (판상 복부, 반동 압통)
+* 복막 자극 징후 : 판상 복부, 반동 압통
 
 <mark style="color:$warning;">**당일 의뢰 또는 긴급 평가**</mark>
 
-* 이질성 설사(혈변 또는 발열을 동반한 침습성 염증성 설사) - 중증도에 관계없이
+* 이질성 설사 : 혈변 또는 발열을 동반한 침습성 염증성 설사
 * 38.5°C 이상의 발열이 48시간 이상 지속
 * 중등증 이상 + 면역 저하자, 염증성 장질환자, 인슐린 의존성 당뇨병 환자
 * 대증 치료 48시간 후에도 호전 없는 중등증 이상
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 귀국 후에도 설사가 2주 이상 지속 → 기생충 감염(Giardia, Cryptosporidium 등) 평가
-* 설사 소실 후 IBS 유사 증상 지속 → PI-IBS 평가
-* Norovirus 집단 발생이 의심되는 경우 (유람선, 단체 투어) → 역학 신고 고려
+* 귀국 후에도 설사가 2주 이상 지속 → 기생충 감염
+* 설사 소실 후 IBS 유사 증상 지속 → PI-IBS
+* Norovirus 집단 발생이 의심되는 경우 (유람선, 단체 투어)
 
 ## <mark style="color:green;">진단</mark>
 
-* **일반적으로 임상 진단으로 충분**하며 추가 검사는 불필요
-* **미생물 검사 적응증** : 중증, 지속성(≥2주), 대증 치료 실패, 귀국 후 증상 지속
+* 일반적으로 임상 진단으로 충분하며 추가 검사는 불필요
+* 미생물 검사 적응증 : 중증, 지속성(≥2주), 대증 치료 실패, 귀국 후 증상 지속
   * 대변 배양, 기생충란·낭포 검사
   * 지속성·만성 증상 : 대변 multiplex PCR 고려
-* **혈액 검사** : CBC, 전해질, 신기능 (심한 탈수, 면역 저하자, 중증)
+* 혈액 검사 : CBC, 전해질, 신기능 (심한 탈수, 면역 저하자, 중증)
 
 ### <mark style="color:orange;">귀국 후 지속 설사 접근법</mark>
 
-<table><thead><tr><th width="260">상황</th><th width="210">우선 고려</th><th>검사</th></tr></thead><tbody><tr><td>설사 &lt;14일</td><td>일반 TD 경험적 치료 지속</td><td>임상 판단</td></tr><tr><td>설사 ≥14일 + 악취성·지방변·복부팽만</td><td>Giardia lamblia</td><td>대변 항원검사 / 기생충란·낭포 / PCR</td></tr><tr><td>재발성 수양성 설사</td><td>Cyclospora, Cryptosporidium</td><td>대변 PCR 또는 AFB 염색</td></tr><tr><td>혈변·체중 감소 지속</td><td>Entamoeba histolytica, IBD</td><td>대변 항원 / 대장내시경</td></tr><tr><td>검사 음성 + 만성 복통·설사</td><td>PI-IBS, SIBO, post-antibiotic dysbiosis</td><td>Rome IV 기준; SIBO 수소호기검사 고려</td></tr><tr><td>항생제 투여 후 악화</td><td>C. difficile 감염</td><td>대변 독소검사 / PCR</td></tr><tr><td>담수 노출 후 혈성·점액성 설사 지속</td><td>Aeromonas, Vibrio, Yersinia</td><td>대변 배양 (특수 배지); fluoroquinolone 또는 3세대 세팔로스포린 고려</td></tr></tbody></table>
+<table><thead><tr><th width="188">상황</th><th>우선 고려</th><th>검사</th></tr></thead><tbody><tr><td>설사 &#x3C;14일</td><td>일반 TD 경험적 치료 지속</td><td>임상 판단</td></tr><tr><td>설사 ≥14일 + <br>악취성·지방변·복부팽만</td><td>Giardia lamblia</td><td>대변 항원검사 / 기생충란·낭포 / PCR</td></tr><tr><td>재발성 수양성 설사</td><td>Cyclospora, Cryptosporidium</td><td>대변 PCR 또는 AFB 염색</td></tr><tr><td>혈변·체중 감소 지속</td><td>Entamoeba histolytica, IBD</td><td>대변 항원 / 대장내시경</td></tr><tr><td>검사 음성 + <br>만성 복통·설사</td><td>PI-IBS, SIBO, post-antibiotic dysbiosis</td><td>Rome IV 기준; SIBO 수소호기검사 고려</td></tr><tr><td>항생제 투여 후 악화</td><td>C. difficile 감염</td><td>대변 독소검사 / PCR</td></tr><tr><td>담수 노출 후 <br>혈성·점액성 설사 지속</td><td>Aeromonas, Vibrio, Yersinia</td><td>대변 배양 (특수 배지); fluoroquinolone 또는 3세대 세팔로스포린 고려</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    A([여행자설사 의심]) --> B{중증도 평가}
-
+    A([여행자설사 의심]) --> B[중증도 평가]
     B --> |"경증<br>(활동 지장 없음)"| C["ORS · 수분 보충<br>(물, 이온음료, 국물)"]
     B --> |"중등증<br>(활동 일부 제한)"| D["ORS · 수분 보충"]
     B --> |"중증 또는 이질성<br>(활동 불가·혈변·발열)"| E["ORS · 수분 보충<br>+ 즉각 항생제"]
-
     C --> C1["loperamide 또는<br>diosmectite 고려<br>(항생제 불필요)"]
     C1 --> G["발열·혈변 발생 시<br>즉시 중등증/중증 경로 전환"]
-
-    D --> D1{"혈변 또는<br>발열 동반?"}
-    D1 -->|없음| D2["rifaximin (선호)<br>± loperamide 병용 가능"]
-    D1 -->|있음| D3["azithromycin<br>(이질성으로 간주)"]
-
-    E --> E1{"이질성<br>(혈변·발열 동반)?"}
-    E1 -->|이질성| E2["azithromycin 우선<br>(500 mg qd × 3일 또는 1 g 단회)"]
-    E1 -->|비이질성| E3["azithromycin (선호)<br>또는 rifaximin<br>± loperamide 병용"]
-
+    D --> D1["혈변 또는<br>발열 동반?"]
+    D1 -->|NO| D2["rifaximin (선호)<br>± loperamide 병용 가능"]
+    D1 -->|YES| D3["azithromycin 우선<br>(500 mg qd × 3일 <br>또는 1 g 단회)"]
+    E --> E1["이질성<br>(혈변·발열 동반)?"]
+    E1 -->|YES| D3
+    E1 -->|NO| E3["azithromycin (선호)<br>또는 rifaximin<br>± loperamide 병용"]
     D2 --> F["48시간 내 호전 없으면<br>재평가 및 의뢰"]
     D3 --> F
-    E2 --> F
     E3 --> F
 
-    classDef green fill:#4CAF50,stroke:#388E3C,color:#fff,stroke-width:2px
-    classDef red fill:#f44336,stroke:#c62828,color:#fff,stroke-width:2px
-    classDef orange fill:#ff9800,stroke:#e65100,color:#fff,stroke-width:2px
-    classDef gray fill:#757575,stroke:#424242,color:#fff,stroke-width:1px
-
-    class A,C,C1 green
-    class E,E2 red
-    class D3 orange
-    class F,G gray
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D1,E1 yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class C1,D2,D3,E3 sky
+classDef orange fill:#fdebd0,stroke:#e67e22
+class G,F orange
 ```
 
 <p align="center"><strong>여행자설사 중증도별 치료 알고리듬</strong></p>
@@ -155,6 +148,7 @@ graph TD
 
 {% hint style="info" %}
 **여행 중 2제 비상약 전략**: 여행 전 두 종류의 항생제를 처방받아 휴대하는 방법이 실용적이다.
+
 * ① **rifaximin** - 열·혈변 없는 수양성 설사용 (비이질성)
 * ② **azithromycin** - 발열·혈변 동반 이질성 설사, 또는 동남아 여행 시
 
@@ -207,18 +201,18 @@ graph TD
 
 {% hint style="info" %}
 **여행 전 비상약 키트 준비 (출국 전 처방 권고)**
-
-| 품목 | 용도 |
-|---|---|
-| 휴대용 ORS 파우치 | 탈수 방지·치료 (1순위; 여행 내내 상시 휴대) |
-| loperamide | 경증·비이질성 설사 조절 |
-| rifaximin | 비이질성 수양성 설사 (열·혈변 없을 때) |
-| azithromycin | 이질성·발열 동반 설사; 동남아 여행 시 |
-| 항구토제 ODT (라모세트론 또는 온단세트론) | 구토가 심해 약을 삼키기 어려울 때 |
-| 체온계 | 발열 여부 판단 (이질성 자가 판단 핵심) |
-| 알코올 손 소독제 | 식전·화장실 후 위생 |
-| diosmectite | 대증 흡착 치료 |
 {% endhint %}
+
+| 품목                        | 용도                          |
+| ------------------------- | --------------------------- |
+| 휴대용 ORS 파우치               | 탈수 방지·치료 (1순위; 여행 내내 상시 휴대) |
+| loperamide                | 경증·비이질성 설사 조절               |
+| rifaximin                 | 비이질성 수양성 설사 (열·혈변 없을 때)     |
+| azithromycin              | 이질성·발열 동반 설사; 동남아 여행 시      |
+| 항구토제 ODT (라모세트론 또는 온단세트론) | 구토가 심해 약을 삼키기 어려울 때         |
+| 체온계                       | 발열 여부 판단 (이질성 자가 판단 핵심)     |
+| 알코올 손 소독제                 | 식전·화장실 후 위생                 |
+| diosmectite               | 대증 흡착 치료                    |
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -300,7 +294,7 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 **① Pre-Travel (출국 전) - 여행지 건강 유의사항 설명 및 사전 준비**
 
 1. 여행자설사 발생 가능성과 대처법 충분히 설명
-2. 모든 설사에서 **경구 수액 보충(ORS)**과 소금 섭취의 중요성 설명
+2. 모든 설사에서 \*\*경구 수액 보충(ORS)\*\*과 소금 섭취의 중요성 설명
 3. 여행지 위험도·일정에 따른 **비상약 처방** (비상약 키트 위 참조)
 4. 이질성 설사 자가 판단 기준 안내: "발열 또는 혈변 → azithromycin 복용"
 5. ETEC가 우세한 고위험 지역 여행자에서 **경구 콜레라 백신(Dukoral)** 교차 보호 효과 안내 (약 50\~60%)
@@ -427,7 +421,7 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 **여행자설사란?**\
 개발도상국을 여행할 때 오염된 음식이나 물을 통해 세균·바이러스에 감염되어 설사가 생기는 것입니다. 여행자의 약 20\~60%에서 발생하는 가장 흔한 여행 관련 질병입니다. 대부분 3\~7일 안에 저절로 낫지만, 여행 중에 매우 불편하고 계획을 망칠 수 있으며, 일부에서는 1\~2주 이상 지속될 수 있습니다.
 
----
+***
 
 **이런 증상이 생기면 즉시 병원으로 가세요** 🚨
 
@@ -437,7 +431,7 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 * 의식이 흐릿하거나 심하게 어지럽다
 * 48시간 이상 치료해도 좋아지지 않는다
 
----
+***
 
 **음식과 물 주의사항**
 
@@ -447,18 +441,18 @@ TMP/SMX, doxycycline은 내성률이 높아 현재 권고하지 않음.
 ❌ 얼음·샐러드·길거리 음식·날 음식은 피하세요\
 ❌ 뷔페 음식은 특히 조심하세요
 
----
+***
 
 **설사가 생겼을 때**
 
 1. **수분을 충분히** 보충하세요 - ORS(경구수액), 물, 이온 음료, 국, 짭짤한 크래커\
-   _(고령자·소아·더운 날씨일수록 탈수가 빨리 진행됩니다)_
+   &#xNAN;_(고령자·소아·더운 날씨일수록 탈수가 빨리 진행됩니다)_
 2. **발열도 없고 혈변도 없는 경증**이면 지사제(로프민)를 드셔도 됩니다\
-   _(여행 중 자가 복용 시에는 하루 4캡슐까지만)_
-3. **발열이나 혈변이 있으면** 지사제를 단독으로 드시지 마세요. 의사에게서 받은 **비상용 항생제(지스로맥스)**를 드세요
+   &#xNAN;_(여행 중 자가 복용 시에는 하루 4캡슐까지만)_
+3. **발열이나 혈변이 있으면** 지사제를 단독으로 드시지 마세요. 의사에게서 받은 \*\*비상용 항생제(지스로맥스)\*\*를 드세요
 4. **구토가 심해 약을 삼킬 수 없으면** 구강붕해정(나제아 OD정 등)을 혀 위에 녹여 드세요
 5. 귀국 후에도 2주 이상 설사가 계속되면 반드시 병원을 방문해 기생충 검사를 받으세요
 
----
+***
 
 **손 씻기 꼭 하세요!** 🧼 식사 전·화장실 후에는 비누로 30초 이상 손을 씻으세요. 손 세정제도 도움이 됩니다.
