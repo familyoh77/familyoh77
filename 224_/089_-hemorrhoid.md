@@ -1,12 +1,8 @@
 # 치핵 Hemorrhoid
 
-![image](../.gitbook/assets/f4bb3efd-86fd-4df2-a556-18cac20544d9.JPG)
-
 ## 일반 사항
 
-*   정맥압의 지속적인 증가로 인해 발생하는 항문 및 직장 점막하층의 vascular bed(hemorrhoidal plexus) 정맥의 varicose dilatation;
-
-    심해지면 혈관 돌출 및 출혈 발생
+* 정맥압의 지속적인 증가로 인해 발생하는 항문 및 직장 점막하층의 vascular bed(hemorrhoidal plexus) 정맥의 varicose dilatation; 심해지면 혈관 돌출 및 출혈 발생
 * 유병률 : 인구의 5\~10%, 일생 동안 50%가 경험
 * 청소년기 이하에서는 드물며 이 시기에 발생하는 경우 기저 원인 감별을 요함
 
@@ -79,13 +75,9 @@
 
 ## 비-약물 치료 및 예방
 
-*   좌욕 : 1일 2~~3회(배변 후 포함), 매 10~~15분간 따듯한 물에 항문을 담금
-
-    •비누 또는 거품 용제 추가는 권하지 않음
-
-    •좌욕 후 항문 부위는 낮은 열기의 비데나 헤어드라이어 등으로 부드럽게 건조시키고 물에 잠겼던 피부는 보습제 도포
-
-    등으로 관리
+* 좌욕 : 1일 2~~3회(배변 후 포함), 매 10~~15분간 따듯한 물에 항문을 담금
+  * 비누 또는 거품 용제 추가는 권하지 않음
+  * 좌욕 후 항문 부위는 낮은 열기의 비데나 헤어드라이어 등으로 부드럽게 건조시키고 물에 잠겼던 피부는 보습제 도포 등으로 관리
 * 냉찜질 : 항문부 부종 감소 효과; 짧은 시간 사용, 동상 주의
 * 변기에 오래 앉아 있지 않음, 배변 신호가 있을 때 변기에 앉음
 * 항문 긴장을 줄임. 대변이 항문을 통과할 때 숨을 참거나 힘을 주는 것을 피함
@@ -104,36 +96,37 @@
 * 효과 : 통증과 가려움의 일시적 호전; 치핵 자체에 대한 치료 효과는 없는 것으로 보임
 * 주의 : steroid 외용제는 위축성 변화를 일으킬 수 있으므로 장기 사용을 피함
 * 용법 : 1일 2회, 병소에 직접 적용
-*   대부분 복합제로 시판 (대부분 비보험) : \[푸레파인 좌제], \[푸레파 연고]\(allantoin, chlorhexidine, lidocaine, phenylephrine,
-
-    retinol palmitate oil, tocopherol acetate)
+* 대부분 복합제로 시판 (대부분 비보험) : \[푸레파인 좌제], \[푸레파 연고]\(allantoin, chlorhexidine, lidocaine, phenylephrine, retinol palmitate oil, tocopherol acetate)
 
 ### 경구제
 
 * 진통제 : acetaminophen \[타이레놀], ibuprofen \[부루펜]
 * flavonoid : 정맥압 및 림프 순환을 호전시킬 가능성이 있음 \[베니톨] (✽FDA 승인 안 됨)
-
-> ✽\[치센] diosmin(bioflavonoid complex) (비보험)
+  * diosmin(bioflavonoid complex) \[치센] (비보험)
 
 ## 수술
 
-*   수술적 치료 대상 :
-
-    ① grade Ⅳ, ② 비수술적 치료에 반응하지 않는 grade Ⅲ,
-
-    ③ 큰 외치질, ④ 항문직장의 병리학적 이상, ⑤ 혈전성 외치질(발생 72시간 내 수술 시행)
+* 수술적 치료 대상 : ⓵ grade Ⅳ, ⓶ 비수술적 치료에 반응하지 않는 grade Ⅲ, ⓷ 큰 외치질, ⓸ 항문직장의 병리학적 이상, ⓹ 혈전성 외치질(발생 72시간 내 수술 시행)
 
 ### 최소 침습 치료
 
-* 대상 : 보존적 치료로 실패한 gradeⅠ\~Ⅲ
-*   rubber band ligation : 1\~2개의 rubber band로 치핵의 기저를 묶음. 1주 내 치핵이 말라 떨어짐;
-
-    시술 2\~4일 정도에 hemorrhoid banding이 불편하거나 출혈을 유발할 수 있으나 심한 경우는 드묾
-*   injection (sclerotherapy) : 병소에 주사하여 치핵 조직을 줄어들게 함; 주사 시 통증은 거의 없으나
-
-    rubber band ligation보다 덜 효과적임
+* 대상 : 보존적 치료로 실패한 grade Ⅰ\~Ⅲ
+* rubber band ligation : 1\~2개의 rubber band로 치핵의 기저를 묶음. 1주 내 치핵이 말라 떨어짐; 시술 2\~4일 정도에 hemorrhoid banding이 불편하거나 출혈을 유발할 수 있으나 심한 경우는 드묾
+* injection (sclerotherapy) : 병소에 주사하여 치핵 조직을 줄어들게 함; 주사 시 통증은 거의 없으나 rubber band ligation보다 덜 효과적임
 * coagulation (infrared, laser, bipolar) : rubber band ligation보다 재발률이 높음
 
-> **질병코드** K64 치핵 및 항문주위정맥혈전증
+### **질병코드**&#x20;
 
-![image](../.gitbook/assets/0b97616a-dc7e-4c5d-af76-02ffa6b406d9.JPG)
+K64 치핵 및 항문주위정맥혈전증
+
+
+
+## 처방례
+
+급성 치핵&#x20;
+
+베니톨 500 ㎎/T 6T #2 ×4d → 4T #2 ×3d \
+푸레파인 좌제 1T 취침 시 항문 내 삽입 (비보험)\
+&#x20;      항문 주위 가려움/불편감 시 항문 주위에 연고제 도포 qd\~tid \
+애니펜 300 ㎎/T 3T #3 (통증에 대하여) \
+마그밀 500 ㎎/T 3T #3 (변비에 대하여)

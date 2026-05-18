@@ -191,7 +191,7 @@ graph TD
     Symptom -- "혈성·점액성 변" --> BloodFever["발열?"]
     BloodFever -- "발열 없는 혈성 설사<br/>+ 심한 복통" --> 
     STEC["<u>STEC 의심</u><br/>항생제·지사제 피함<br/>Shiga toxin 검사<br/>수액 보충 (IV 우선)<br/>HUS 모니터"]
-    BloodFever -- "발열 + 혈성/점액성" --> EmpiricAtb["대변 검사<br/>(배양 ± multiplex PCR)<br/>경험적 항생제 고려<br/>Azithromycin 우선"]
+    BloodFever -- "발열 + <br/>혈성/점액성" --> EmpiricAtb["대변 검사<br/>(배양 ± multiplex PCR)<br/>경험적 항생제 고려<br/>Azithromycin 우선"]
     Symptom -- "물 설사" --> CDIRisk["<u>CDI 위험인자?</u><br/>3개월 내 항생제 복용<br/>최근 입원·시설 거주"]
     CDIRisk -- "YES" --> CDITx["C.difficile 검사<br/>(PCR 또는 GDH+toxin)<br/>원인 항생제 즉시 중단<br/>확인 시 vancomycin 경구"]
     CDIRisk -- "NO" --> Travel["여행력·오염 음식?"]
