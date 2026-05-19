@@ -1,16 +1,15 @@
 # 비만 Obesity
 
-![image](../.gitbook/assets/ec9e823b-6f71-494e-8e41-1df3f5efdf74.JPG)
-
 ## 일반 사항
 
 ### 정의
 
-#### 체질량지수(Body mass index)
+#### 체질량지수(Body mass index) 기준
 
-```
-![image](images/f8899174-aa8b-4bc1-bb7b-878b7b44668b.JPG)
-```
+<table data-header-hidden><thead><tr><th width="102"></th><th width="102"></th><th width="105"></th><th width="95"></th><th width="89"></th><th width="95"></th></tr></thead><tbody><tr><td><strong>BMI (</strong>㎏/㎡<strong>)</strong></td><td><strong>대한비만학회</strong>¹⁾ (2018)</td><td><strong>WHO (아시아/태평양)</strong></td><td><strong>WHO (세계)/CDC</strong></td><td><strong>복부비만에따른</strong></td><td><strong>동반질환위험도</strong>²⁾</td></tr><tr><td></td><td></td><td></td><td></td><td><strong>복부 비만(-)</strong></td><td><strong>복부 비만(+)</strong></td></tr><tr><td>&#x3C; 18.5</td><td>저체중</td><td></td><td>저체중</td><td>낮음</td><td>보통</td></tr><tr><td>18.5~22.9</td><td>정상</td><td>정상</td><td>정상</td><td>보통</td><td>약간 높음</td></tr><tr><td>23~24.9</td><td>비만 <br>전단계</td><td>과체중</td><td>정상</td><td>증가</td><td>높음</td></tr><tr><td>25~29.9</td><td>1단계 비만</td><td>비만</td><td>과체중</td><td>높음</td><td>매우 높음</td></tr><tr><td>30~34.9</td><td>2단계 비만</td><td>고도 비만</td><td>비만</td><td>매우 높음</td><td>매우 높음</td></tr><tr><td>≥35</td><td>3단계 비만</td><td>고도 비만</td><td>≥40 - 고도 비만</td><td>극도로 높음</td><td>극도로 높음</td></tr></tbody></table>
+
+¹⁾ 비만 전단계는 ‘과체중’ 또는 ‘위험체중’으로, 3단계 비만은 ‘고도 비만’으로 부를 수 있음\
+²⁾️⃣ 복부 비만은 BMI와 독립적으로 대사증후군, 당뇨병, 관상동맥병의 이환율 및 사망률을 증가시키므로 위험도를 한 단계 높여 관리
 
 #### 복부 비만
 
@@ -32,9 +31,8 @@
 
 * \~65세에는 연령 증가에 따라 자연적인 체중 증가가 나타나며 이것은 fat-free mass 감소를 완화하는 효과가 있음
 * ≥65세에서는 비만과 사망률의 관련성이 거의 없음; 과체중 환자가 마른 사람보다 사망률이 낮음
-*   비만 진단 시 BMI와 함께 허리둘레, 허리-엉덩이 둘레비로 복부 비만 여부를 평가
-
-    •노화에 따른 체성분 변화(지방량↑, 제지방↓) 및 신장 감소로 BMI 적용이 곤란함
+* 비만 진단 시 BMI와 함께 허리둘레, 허리-엉덩이 둘레비로 복부 비만 여부를 평가
+  * 노화에 따른 체성분 변화(지방량↑, 제지방↓) 및 신장 감소로 BMI 적용이 곤란함
 * 비만 관련 질환의 위험보다 체중 감량의 이득이 더 큰 경우에 체중 감량을 권고
 * 단백질이 풍부한 저 칼로리 식사 권고
 * 활동량 증가를 권고
@@ -61,55 +59,36 @@
 * 낮은 사회 경제적 상태
 * 스트레스 (✽스트레스는 식욕 저하를 일으키기도 함)
 * 다른 질환 : 정신적 장애(폭식장애, 계절정동장애), 갑상선저하증, 시상하부 이상, 쿠싱증후군
-*   가족력, 임신 중 산모 흡연, 산모의 임신당뇨병(신생아 출생 체중 증가), 모유 수유를 적게 한 경우, 이른 비만 연령
-
-    (청소년기 비만)
+* 가족력, 임신 중 산모 흡연, 산모의 임신당뇨병(신생아 출생 체중 증가), 모유 수유를 적게 한 경우, 이른 비만 연령 (청소년기 비만)
 * 빨리 먹는 습관; 포만감이 나타나기 전에 과식을 하게됨
 * 연령 증가; 연령이 증가할수록 기초대사량이 감소하여 체중 및 복부 지방이 늘어남
-*   약물
-
-    •항정신병제 : thioridazine, risperidone, olanzapine, clozapine, quetiapine, sertindole
-
-    •항우울제 : TCA, SSRI(paroxetine), MAOI
-
-    •항경련제 : valproic acid, carbamazepine, gabapentine, pregabalin
-
-    •항당뇨병제 : insulin, SU, TZD
-
-    •항히스타민제 : diphenhydramine, cyproheptadine
-
-    •α-차단제 : doxazosin, prazosin, terazosin
-
-    •β-차단제 : propranolol, metoprolol, atenolol
-
-    •기타 : steroid, lithium, 경구 피임제
+* 약물
+  * 항정신병제 : thioridazine, risperidone, olanzapine, clozapine, quetiapine, sertindole
+  * 항우울제 : TCA, SSRI(paroxetine), MAOI
+  * 항경련제 : valproic acid, carbamazepine, gabapentine, pregabalin
+  * 항당뇨병제 : insulin, SU, TZD
+  * 항히스타민제 : diphenhydramine, cyproheptadine
+  * α-차단제 : doxazosin, prazosin, terazosin
+  * β-차단제 : propranolol, metoprolol, atenolol
+  * 기타 : steroid, lithium, 경구 피임제
 
 ## 진단
 
 ### 신체 계측 방법
 
-*   몸무게 : 8시간 금식 후 소변을 본 후 신발을 벗고 최소한의 복장으로 측정, 동일한 시간에 동일한 조건으로 측정하여 비교.
-
-    예) 매일 아침 기상하여 배뇨 후 내의 차림으로 측정
+* 몸무게 : 8시간 금식 후 소변을 본 후 신발을 벗고 최소한의 복장으로 측정, 동일한 시간에 동일한 조건으로 측정하여 비교. 예) 매일 아침 기상하여 배뇨 후 내의 차림으로 측정
 * 신장 : 발뒤꿈치는 붙이고 발은 60o로 벌린 상태에서 숨을 깊이 들이 쉰 상태로 측정
-*   허리둘레 : 양 발을 25\~30 ㎝ 간격으로 벌리고 서서 숨을 편안히 내쉰 상태에서 늑골 하단부와 골반 장골릉 상단의 중간 부위
-
-    측정\[WHO 지침] 또는 양쪽 장골릉의 최상단 측정\[NIH 지침]
-
-> ✽복부에 지방이 많이 축적되어 허리둘레가 커진 경우에는 iliac crest 정점에서 측정하라는 권고가 있음 ✽특히 BMI 25 이상인 경우에 허리둘레 측정을 권고 \[캐나다의학협회]
-
+* 허리둘레 : 양 발을 25\~30 ㎝ 간격으로 벌리고 서서 숨을 편안히 내쉰 상태에서 늑골 하단부와 골반 장골릉 상단의 중간 부위 측정\[WHO 지침] 또는 양쪽 장골릉의 최상단 측정\[NIH 지침]
+  * 복부에 지방이 많이 축적되어 허리둘레가 커진 경우에는 iliac crest 정점에서 측정하라는 권고가 있음 ✽특히 BMI 25 이상인 경우에 허리둘레 측정을 권고 \[캐나다의학협회]
 * 엉덩이둘레 : 엉덩이의 가장 넓은 부위 측정
-*   허리나 엉덩이둘레 측정 시 바닥과 평행하게 2회 측정하여 차이가 ≤1 ㎝면 평균값을 사용하고 차이가 ＞1 ㎝면 다시 2회를
-
-    측정함
+* 허리나 엉덩이둘레 측정 시 바닥과 평행하게 2회 측정하여 차이가 ≤1 ㎝면 평균값을 사용하고 차이가 ＞1 ㎝면 다시 2회를 측정함
 
 ### 검사
 
 * 필수 : 혈압, 당뇨(FBS, HbA1c), Lipid, LFT(AST, ALT, γGT), RFT(Cr)
-*   선택 : TFT(TSH), index of inflammation(hs-CRP, ferritin), uric acid
-
-    •심/간 비대, 복부 지방 검사를 위하여 영상 검사를 고려(특히 LFT 상승 시 고려)
-* 기타 : 체지방(✽고가 및 variable accuracy 문제로 일률적 권고는 하지 않음), 수면무호흡증, 쿠싱/hypothalamic 질환 검사
+* 선택 : TFT(TSH), index of inflammation(hs-CRP, ferritin), uric acid
+  * 심/간 비대, 복부 지방 검사를 위하여 영상 검사를 고려(특히 LFT 상승 시 고려)
+* 기타 : 체지방(고가 및 variable accuracy 문제로 일률적 권고는 하지 않음), 수면무호흡증, 쿠싱/hypothalamic 질환 검사
 
 ***
 
@@ -117,48 +96,23 @@
 
 ### 치료 방침
 
-*   생활 습관 중재를 기본으로 하여 체중 관련 합병증이 있으며 생활 습관 중재만으로 충분하게 반응하지 않는 과체중/비만
-
-    환자에게 약물 요법을 추가
+* 생활 습관 중재를 기본으로 하여 체중 관련 합병증이 있으며 생활 습관 중재만으로 충분하게 반응하지 않는 과체중/비만 환자에게 약물 요법을 추가
 
 1. 환자의 감량 동기 파악 및 교육/동기 부여
-
-•비만의 위해성과 감량의 필요성 및 효과 등 비만에 대한 올바른 인식을 갖도록 교육. 비만 치료는 단순히 미용 목적으로
-
-```
-시행하는 것이 아님을 강조
-```
-
-•최단 시간에 최대 체중 감량을 달성하는 것이 비만 치료의 핵심이 아님
-
-•허리둘레가 줄면 내장 지방과 심장병 위험이 줄어듦. 체중 감소 자체보다 이것이 더 중요함
-
-•환자의 자존감 회복, 동반 질환 관리
-
+   * 비만의 위해성과 감량의 필요성 및 효과 등 비만에 대한 올바른 인식을 갖도록 교육. 비만 치료는 단순히 미용 목적으로 시행하는 것이 아님을 강조
+   * 최단 시간에 최대 체중 감량을 달성하는 것이 비만 치료의 핵심이 아님
+   * 허리둘레가 줄면 내장 지방과 심장병 위험이 줄어듦. 체중 감소 자체보다 이것이 더 중요함
+   * 환자의 자존감 회복, 동반 질환 관리
 2. 감량 목표 설정 : 보통 6개월간 치료 전 체중의 5\~10% 감량
-
-•체중 감량을 하지 못하거나 하지 않아야 하는 경우(예: 고령, 소아, 만성 중증 질환자)에는 현재 체중 유지를 목표로 함
-
-•동반 질환에 따라 서서히 감량(예: 담석증, 고요산혈증) 또는 감량 금지(예: 신경성 식욕부진)
-
-•상태에 따른 체중 감량 목표 : 대사증후군- 10%, T2DM/이상지질혈증/고혈압- 5~~15%, NAFLD- 10~~40%,
-
-```
-수면무호흡증- 7~11%, 천식- 7~8%, GERD- ≥10%
-```
-
-3\. 생활 습관(식사 횟수, 종류, 양, 폭식 습관, 활동 패턴) 및 과거 치료 방법/결과 파악
-
+   * 체중 감량을 하지 못하거나 하지 않아야 하는 경우(예: 고령, 소아, 만성 중증 질환자)에는 현재 체중 유지를 목표로 함
+   * 동반 질환에 따라 서서히 감량(예: 담석증, 고요산혈증) 또는 감량 금지(예: 신경성 식욕부진)
+   * 상태에 따른 체중 감량 목표 : 대사증후군- 10%, T2DM/이상지질혈증/고혈압- 5\~15%, NAFLD- 10\~40%, 수면무호흡증- 7\~11%, 천식- 7\~8%, GERD- ≥10%
+3. &#x20;생활 습관(식사 횟수, 종류, 양, 폭식 습관, 활동 패턴) 및 과거 치료 방법/결과 파악
 4. 치료 : 생활 습관 개선/인지행동 요법, (적응증이 되는 경우) 약물 치료, 수술 치료
-5.  감량 체중 유지 : 많은 환자가 감량한 체중을 유지하지 못하며, 감량과 증량이 반복되면(weight cycling) 요요현상(복부
-
-    비만)이 발생함
-
-•≥1회/주 체중 측정, 음식 섭취 제한, 200\~300분/주 중등도 신체 활동 권고
-
-•체중이 빠르게 다시 늘어나면 곧 진료 받도록 함
-
-•6개월간 감량한 체중을 유지한 후 필요시 새로운 목표 체중을 설정
+5. 감량 체중 유지 : 많은 환자가 감량한 체중을 유지하지 못하며, 감량과 증량이 반복되면(weight cycling) 요요현상(복부 비만)이 발생함
+   * ≥1회/주 체중 측정, 음식 섭취 제한, 200\~300분/주 중등도 신체 활동 권고
+   * 체중이 빠르게 다시 늘어나면 곧 진료 받도록 함
+   * 6개월간 감량한 체중을 유지한 후 필요시 새로운 목표 체중을 설정
 
 #### 치료 실패 위험 인자
 
@@ -168,9 +122,41 @@
 * 약물 치료에 의존
 * 낮은 사회 경제적 상태
 * 심리적 문제. 예) 스트레스, 불안, 우울
-*   불가피한 회식이 많은 환자
+* 불가피한 회식이 많은 환자
 
-    ![image](../.gitbook/assets/72086d63-b4aa-4c75-98e4-afc4909d988d.JPG)
+```mermaid
+flowchart TD
+    %% 노드 정의
+    A[비만으로<br>고통받는 환자]
+    B([예방])
+    C["I. Communication<br>(동기 부여 인터뷰)"]
+    D[주치의]
+    E["<b>II. Medical Evaluation</b><br>1. 병력 청취<br>2. 신체검사<br>3. 실험실 검사<br>4. Clinical tools"]
+    F["<b>III. Treatment</b><br>치료 목표, 방법 등에<br>대하여 교육<br>1. 생활 습관 교정<br>&nbsp;&nbsp;&nbsp;(예: 식이, 활동)<br>2. 정신적 문제 상담/치료<br>3. 약물 치료<br>4. 수술 치료"]
+
+    %% 연결 관계 정의
+    B --> A
+    B --> D    
+    A <--> C
+    C <--> D
+    D --> E
+    E --> F
+    A --> F
+
+    %% 스타일 및 색상 지정 (Rendering Engine 호환성 고려 개별 적용)
+    style A fill:#FFF8DC,stroke:#DEB887,stroke-width:1px
+    style B fill:#F0F4F8,stroke:#D0D7DE,stroke-width:1px,border-radius:5px
+    style C fill:#F3E8FF,stroke:#D8B4FE,stroke-width:1px
+    style D fill:#FFF8DC,stroke:#DEB887,stroke-width:1px
+    style E fill:#F0FDF4,stroke:#BBF7D0,stroke-width:1px,text-align:left
+    style F fill:#EFF6FF,stroke:#BFDBFE,stroke-width:1px,text-align:left
+```
+
+<p align="center"><strong>비만 관리</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. European Practical and Patient-Centred Guidelines, 2019</mark></em></p>
+
+
 
 ## 비-약물 치료
 
@@ -181,11 +167,9 @@
 
 ### 식이 요법
 
-```
-(☞ p.1164)
-```
+☞ [영양](../231_/217_-nutritiondiet-guideline.md) ㅈ
 
-* 식이 조절을 3\~6개월 이상 지속해야 신체가 적응하며 감량된 체중을 유지할 수 있음
+* 식이 조절을 3\~6개월 이상 지속해야 신체가 적응하며 감량된 체중을 유지할 수 있음&#x20;
 
 #### 식사량
 
