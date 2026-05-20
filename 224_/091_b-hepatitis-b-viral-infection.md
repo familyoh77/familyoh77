@@ -1,7 +1,5 @@
 # B형간염 Hepatitis B Viral Infection
 
-![image](../.gitbook/assets/d405e877-ec9f-4b22-8427-368636fb0753.JPG)
-
 ## 일반 사항
 
 * B형간염 바이러스(Hepatitis B virus, HBV) 감염에 의한 급/만성 간질환
@@ -46,7 +44,14 @@
 
     ＞10배 증가
 
-## 임상 양상![image](../.gitbook/assets/4c3a466a-4536-4118-99fd-3c09a1214ded.JPG)
+### Red Flags!
+
+* 복수 발생
+* PT 연장
+* 자세 고정 불능
+* 의식 변화 (간성뇌증
+
+## 임상 양상
 
 * 다양 : 무증상~~급성 간부전/사망; 잠행성~~급성 악화
 
@@ -62,23 +67,33 @@
 
 ### 만성 B형간염 Phase (자연 경과)
 
-```
-![image](images/f635b480-bb2c-4c3f-813a-1be9850a5a5a.JPG)
-```
+1. 만성 B형간염, 면역관용기 (CHB, immune tolerant phase)
+   * eAg(+)·eAb(-). ALT 정상, HBV-DNA(IU/㎖) ≥10⁷, 간 조직 손상¹⁾ none/minimal; 수직 감염 관련, 바이러스에 대한 면역 반응이 거의 없음
+2. HBeAg(+) 만성 B형간염, 면역활동기 (HBeAg(+) CHB, immune active phase)
+   * eAg(+)·eAb(+)(추정), ALT ↑(지속 또는 간헐적), HBV-DNA(IU/㎖) ≥20,000, 간 조직 손상 moderate/severe; 바이러스에 대한 면역 반응 시작
+3. 만성 B형간염, 면역비활동기 (CHB, immune inactive phase)
+   * eAg(-)·eAb(+), ALT 정상, HBV-DNA(IU/㎖) ＜2,000, 간 조직 손상 minimal; 보통 장기간 지속되는 양호한 예후, 20%에서는 재활성화 및 비활성화를 반복하면서 간질환 진행
+4. HBeAg(-) 만성 B형간염, 면역활동기 (HBeAg(-) CHB, immune active phase)
+   * eAg(-)²⁾, eAb(±), ALT ↑(지속 또는 간헐적), HBV-DNA(IU/㎖) ≥2,000, 간 조직 손상 moderate/severe; 자연 관해율이 낮으며 보통 섬유화/간경변증으로 진행
+5. HBsAg 소실기 (HBsAg loss phase)
+   * sAg(-), sAb(±), cAb(+), ALT 정상, HBV-DNA(IU/㎖) 검출(-), 간 조직 손상 (-); 기능적 완치 상태³⁾; 면역비활동기 환자의 연 1\~2%가 소실기로 이행
 
-*   AASLD (미국간학회) 분류 (2018) : ① Chronic hepatitis B, ② Immune tolerant CHB (면역관용기),
+_CHB=Chronic hepatitis B_\
+_¹⁾ 자연 경과 중 경화기가 진행될 수 있음_\
+_²⁾ eAg(-)의 원인은 HBV의 precore 또는 basal core promoter 유전자 부위의 변이로 eAg을 생성하지 못하기 때문_\
+_³⁾ sAg이 50세 이후 소실, sAg 소실 때 이미 간경변증 동반, 남성에서는 간세포암종 발생의 위험도가 지속됨_
 
-    ③ Immune active CHB (면역활동기), ④ Inactive CHB (비활동기)
-*   EASL (유럽간학회) 분류 (2017) : ① eAg(+) chronic infection(Immune tolerant), ② eAg(+) chronic hepatitis(Immune
+_<mark style="color:$info;">Ref. 대한간학회. 2018</mark>_
 
-    reactive eAg(+)), ③ eAg(-) chronic infection(Inactive carrier), ④ eAg(-) chronic hepatitis, ⑤ sAg(-) phase
-*   각 임상 단계들의 지속 기간은 다양하며, 환자에서 항상 연속적으로 일어나지 않으며 어느 한 단계에 정확히 부합하지
 
-    않는 회색지대가 존재할 수 있으므로 1회의 ALT, HBV DNA 검사를 통하여 해당하는 임상 단계를 단정 짓거나
 
-    항바이러스 치료 시작을 결정하는 것은 곤란함
+* AASLD (미국간학회) 분류 (2018) : ⓵ Chronic hepatitis B, ⓶ Immune tolerant CHB (면역관용기), ⓷ Immune active CHB (면역활동기), ⓸ Inactive CHB (비활동기)
+* EASL (유럽간학회) 분류 (2017) : ⓵ eAg(+) chronic infection(Immune tolerant), ⓶ eAg(+) chronic hepatitis(Immune reactive eAg(+)), ⓷ eAg(-) chronic infection(Inactive carrier), ⓸ eAg(-) chronic hepatitis, ⓹ sAg(-) phase
+* 각 임상 단계들의 지속 기간은 다양하며, 환자에서 항상 연속적으로 일어나지 않으며 어느 한 단계에 정확히 부합하지 않는 회색지대가 존재할 수 있으므로 1회의 ALT, HBV DNA 검사를 통하여 해당하는 임상 단계를 단정 짓거나 항바이러스 치료 시작을 결정하는 것은 곤란함
 
-    ![image](../.gitbook/assets/a9176e2e-8b6d-4395-98b2-4da20fafc96e.JPG)
+***
+
+<figure><img src="../.gitbook/assets/스크린샷 2026-05-20 095654.png" alt=""><figcaption><p><strong>만성 B형간염의 자연 경과</strong><br>Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2018. Fig 1.</p></figcaption></figure>
 
 ## 진단
 
@@ -94,9 +109,11 @@
 
 ### Serologic marker 해석
 
-```
-![image](images/81140d10-0200-45a7-ad21-b120c9945d64.JPG)
-```
+다음은 업로드하신 B형간염 혈청학적 검사 결과 해석표를 깔끔하게 정리한 표입니다.
+
+<table data-header-hidden><thead><tr><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th></th></tr></thead><tbody><tr><td><strong>HBsAg</strong></td><td><strong>HBsAb</strong></td><td><strong>HBcAb</strong></td><td><strong>HBeAg</strong></td><td><strong>HBeAb</strong></td><td><strong>해석</strong></td></tr><tr><td>+</td><td>-</td><td>IgM</td><td>+</td><td>-</td><td>급성 B형간염, high infectivity*</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>+</td><td>-</td><td>만성 B형간염, high infectivity</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>-</td><td>+</td><td>지연 급성 또는 만성 B형간염, low infectivity; HBeAg(-)(precore-mutant) B형간염 (만성 또는 드물게 급성)</td></tr><tr><td>+</td><td>+</td><td>-</td><td>±</td><td>±</td><td>one subtype의 HBsAg &#x26; heterotypic HBsAb (혼합); HBsAg에서 HBsAb로의 seroconversion 과정 (드묾)</td></tr><tr><td>-</td><td>-</td><td>IgM</td><td>±</td><td>±</td><td>급성 B형간염*; HBcAb window period</td></tr><tr><td>-</td><td>-</td><td>IgG</td><td>-</td><td>-</td><td>낮은 수준의 B형간염 분균; 과거 B형간염</td></tr><tr><td>-</td><td>+</td><td>IgG</td><td>-</td><td>-</td><td>B형간염으로부터의 회복</td></tr><tr><td>-</td><td>+</td><td>-</td><td>-</td><td>-</td><td>백신 접종 후 상태; 과거 B형간염(?); 위양성</td></tr></tbody></table>
+
+<p align="center">*IgM HBcAb는 만성 B형간염의 급성 재활성기에 출현할 수 있음<br><em><mark style="color:$info;">Ref. Harrison’s Principles of Internal Medicine, 20th ed. (2020), fig 332-5.</mark></em></p>
 
 ### 선별 검사
 
@@ -118,7 +135,7 @@
 * 혈액 또는 혈액에 오염된 체액에 노출될 가능성이 있는 직업 종사자\*
 * 노출된 사람에게 예방 조치가 요구되는 혈액 또는 체액의 원천인 사람
 
-> \*seronegative인 사람은 백신 접종 대상임
+　\*seronegative인 사람은 백신 접종 대상임
 
 ***
 
@@ -155,30 +172,15 @@
 **면역관용기**
 
 * 항바이러스제의 치료 대상이 되지 않음
-*   ALT가 지속적으로 정상이더라도 다음의 경우에는 간 생검을 시행하여 치료 여부를 결정 :
-
-    ① ≥30\~40세, ② HBV DNA ＜107 IU/㎖, ③ 비침습적 검사에서 유의미한 간섬유화를 시사하는 소견이 있음,
-
-    ④ ALT가 정상 상한치(ULN)의 경계에 있음
+* ALT가 지속적으로 정상이더라도 다음의 경우에는 간 생검을 시행하여 치료 여부를 결정 : ⓵ ≥30\~40세, ⓶ HBV DNA ＜107 IU/㎖, ⓷ 비침습적 검사에서 유의미한 간섬유화를 시사하는 소견이 있음, ⓸ ALT가 정상 상한치(ULN)의 경계에 있음
 
 **HBeAg(+) 및 HBeAg(-) 면역활동기**
 
 * HBV DNA ≥20,000 IU/㎖인 HBeAg (+) 또는 HBV DNA ≥2,000 IU/㎖인 HBeAg (-)
-
-•ALT ≥2×ULN 시 항바이러스제 치료 시작
-
-•ALT ≥1\~2×ULN 시 F/U 또는 간 생검 → 중등도 이상의 염증 괴사 또는 문맥주변부 섬유화 이상 단계 시
-
-```
-항바이러스제 치료 시작; 간 생검이 곤란한 경우 비침습적 검사로 간섬유화 평가
-```
-
-*   ALT의 급격한 상승(≥5\~10×ULN), 황달, PT 연장, 복수, 간성 혼수 등 간부전의 소견을 보이는 급성 악화 :
-
-    즉시 경구 항바이러스제 치료 시작
-*   HBV DNA ≥2,000 IU/㎖인 HBeAg (-) : ALT ≤ULN 시 추적 관찰 또는 간 생검이나 비침습적 검사로 염증 및
-
-    섬유화 정도를 확인하여 치료 여부를 결정
+  * ALT ≥2×ULN 시 항바이러스제 치료 시작
+  * ALT ≥1\~2×ULN 시 F/U 또는 간 생검 → 중등도 이상의 염증 괴사 또는 문맥주변부 섬유화 이상 단계 시 항바이러스제 치료 시작; 간 생검이 곤란한 경우 비침습적 검사로 간섬유화 평가
+* ALT의 급격한 상승(≥5\~10×ULN), 황달, PT 연장, 복수, 간성 혼수 등 간부전의 소견을 보이는 급성 악화 : 즉시 경구 항바이러스제 치료 시작
+* HBV DNA ≥2,000 IU/㎖인 HBeAg (-) : ALT ≤ULN 시 추적 관찰 또는 간 생검이나 비침습적 검사로 염증 및 섬유화 정도를 확인하여 치료 여부를 결정
 
 **면역비활동기**
 
@@ -198,17 +200,28 @@
 
 #### 항바이러스제
 
-\*\*주사제 \*\*
+**주사제**
 
-```
-![image](images/63117348-dc56-457e-bbf7-ae07381045a7.JPG)
-```
+* Peg-IFN-α-2a \[페가시스 주] : 180 ㎍ qwk SC
+  * 부작용 : 감기 증상, 피로, 감정 변동, 혈구 감소, 자가면역 이상
+  * 치료 중 모니터링&#x20;    : CBC (매달 ×3), TSH (3개월마다); 자가면역, 허혈, 신경정신병, 감염에 대한 임상적 관찰
 
-\*\*경구제 \*\*
+**경구제**
 
-```
-![image](images/169e03c3-6769-4e1d-a990-d4d9f4c82e56.JPG)
-```
+High genetic barrier (선호; 투여 기간- HBsAg 소실까지)
+
+<table><thead><tr><th width="112">성분명</th><th width="106">용량¹⁾</th><th width="144">부작용</th><th>치료 중 모니터링</th></tr></thead><tbody><tr><td>ETV <br>[바라크루드]</td><td>0.5 ㎎ qd²⁾</td><td>젖산증</td><td>필요 시 젖산 검사, HIV³⁾</td></tr><tr><td>TDF <br>[비리어드]</td><td>300 ㎎ qd</td><td>신장애, Fanconi syndrome, 골연화증, 젖산증</td><td>CrCl 기초 검사; 신장애 위험 시 최소 매년 CrCl, P, u-Glc&#x26;Prot; 필요시 젖산; 골절 병력/골다공증 위험시 골밀도 검사</td></tr><tr><td>TAF <br>[베믈리디]</td><td>25 ㎎ qd</td><td>젖산증, LDL 감소</td><td>필요 시 치료 전/중 Cr, P, CrCl, u-Glc&#x26;Prot 검사; 필요 시 젖산; HIV³⁾</td></tr><tr><td>Besifovir <br>[베시포]</td><td>150 ㎎ qd⁴⁾</td><td>Carnitine 결핍</td><td>L-carnitine 보충 필요</td></tr></tbody></table>
+
+Low genetic barrier (비선호; 투여 기간- HBsAg 소실까지, resistant mutation 확인 전까지)
+
+<table data-header-hidden><thead><tr><th width="112">성분명</th><th width="106">용량¹⁾</th><th width="144">부작용</th><th>치료 중 모니터링</th></tr></thead><tbody><tr><td>LAM <br>[제픽스]</td><td>100 ㎎ qd</td><td>췌장염, 젖산증</td><td>필요 시 amylase, 젖산; HIV³</td></tr><tr><td>TBV <br>[세비보]</td><td>600 ㎎ qd</td><td>Cr kinase↑, myopathy</td><td>필요 시 Cr kinase, 젖산</td></tr><tr><td>Clevudine <br>[레보비르]</td><td>30 ㎎ qd</td><td>말초신경병증, 젖산증</td><td>—</td></tr><tr><td>ADV <br>[헵세라]</td><td>10 ㎎ qd</td><td>ARF, Fanconi syndrome, 젖산증</td><td>CrCl 기초 검사; 신장애 위험 시 최소 매년 CrCl, P, u-Glc&#x26;Prot; 필요 시 젖산; 골절 병력/골다공증 위험 시 골밀도 검사</td></tr></tbody></table>
+
+_ETV = entecavir, TDF = tenofovir disoproxil fumarate, TAF = tenofovir alafenamide fumarate, LAM = lamivudine, TBV = telbivudine, ADV = adefovir_
+
+¹⁾ 신 기능 저하 시 용량 조절\
+²⁾ lamivudine 치료 경험이 있거나 decompensated cirrhosis가 있으면 1 mg/d\
+³⁾ 치료 전 HIV 검사\
+⁴⁾ L-carnitine 660 mg 함께 복용
 
 ### 간장질환용제
 
@@ -226,53 +239,90 @@
 
     투여 기간- 보통 6\~12개월
 
-    ![image](../.gitbook/assets/db327db3-1fa5-4c71-a10c-de239c5d0d28.JPG)
+***
 
-    ![image](../.gitbook/assets/1dee4555-8de7-4007-8400-b3ecbf154091.JPG)
+![만성 B형간염 관리 알고리듬
+Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Fig 3.](../.gitbook/assets/db327db3-1fa5-4c71-a10c-de239c5d0d28.JPG)
+
+![image](../.gitbook/assets/1dee4555-8de7-4007-8400-b3ecbf154091.JPG)
+
+```mermaid
+flowchart TD
+    %% 노드 정의
+    A[모니터링: <br/>- 효능: HBV DNA, LFT, HBeAg, HBeAb, quantitative HBsAg<br/>- 안전성: Cr, Ca, P, CK, U/A, 골밀도<br/>- 간세포암종 감시]
+    B{Side effects?}
+    C[약제 교체 고려]
+    D{Virologic response?}
+    E{Stopping criteria?}
+    F{Virologic breakthrough?}
+    G{Resistance?}
+    H{Using high barrier drugs?}
+    I[투약 중단 및<br/>규칙적인 모니터링 고려]
+    J[치료 계속]
+    K[항바이러스제 내성에 대한 프로토콜]
+    L[High barrier<br/>drug으로 교체]
+    M[면밀한 감시,<br/>약물 교체]
+
+    %% 연결
+    A --> B
+    B -- yes --> C
+    B -- no --> D
+    
+    D -- yes --> E
+    E -- yes --> I
+    E -- no --> J
+    
+    D -- no --> F
+    
+    F -- yes --> G
+    G -- yes --> K
+    G -- no --> H
+    
+    F -- no/partial --> H
+    
+    H -- no --> L
+    H -- yes --> M
+
+    %% 스타일링
+    style A fill:#e1f5fe,stroke:#01579b
+    style C fill:#fce4ec,stroke:#880e4f
+    style I fill:#e0f2f1,stroke:#004d40
+    style J fill:#e0f2f1,stroke:#004d40
+    style K fill:#fff3e0,stroke:#e65100
+    style L fill:#f5f5f5,stroke:#212121
+    style M fill:#f5f5f5,stroke:#212121
+```
+
+경구 항바이러스제 투여 중 관리\
+Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2018. Fig 3.
 
 ## 모니터링
 
 ### 치료 비대상자 모니터링
 
-* ALT 및 HBV DNA를 3~~6개월마다, HBeAg/Ab를 6~~12개월마다 모니터링
-*   치료 대상 여부가 불분명한 경우 : ALT 및 HBV DNA를 1~~3개월, HBeAg/Ab를 2~~6개월마다 F/U,
-
-    비침습적 검사로 간섬유화 정도를 판단, 또는 간 생검으로 치료 여부 결정
+* ALT 및 HBV DNA를 3\~6개월마다, HBeAg/Ab를 6\~12개월마다 모니터링
+* 치료 대상 여부가 불분명한 경우 : ALT 및 HBV DNA를 1\~3개월, HBeAg/Ab를 2\~6개월마다 F/U, 비침습적 검사로 간섬유화 정도를 판단, 또는 간 생검으로 치료 여부 결정
 
 ### 항바이러스제 치료 중 모니터링
 
-*   경구 항바이러스제 : LFT 및 HBV DNA를 1~~6개월마다 검사, eAg/eAb를 3~~6개월마다 검사;
-
-    치료 중 반응 예측과 종료 시점 결정에 도움을 줄 수 있는 sAg 정량 검사 고려
-*   Peg-IFN-α : CBC/LFT를 매월, HBV DNA를 1\~3개월마다, eAg/eAb를 치료 시작 후 6개월, 1년 및 종료 6개월 후 검사;
-
-    sAg 정량 검사를 치료 전, 치료 12주, 24주 및 종료 시 고려
+* 경구 항바이러스제 : LFT 및 HBV DNA를 1\~6개월마다 검사, eAg/eAb를 3\~6개월마다 검사; 치료 중 반응 예측과 종료 시점 결정에 도움을 줄 수 있는 sAg 정량 검사 고려
+* Peg-IFN-α : CBC/LFT를 매월, HBV DNA를 1\~3개월마다, eAg/eAb를 치료 시작 후 6개월, 1년 및 종료 6개월 후 검사; sAg 정량 검사를 치료 전, 치료 12주, 24주 및 종료 시 고려
 * virologic response 확인 후 HBV DNA를 3\~6개월마다 지속적으로 측정할 수 있음
 * 항바이러스 치료 시 각각의 약물 부작용에 대한 모니터링
 
 ### 치료 종료 및 종료 후 모니터링
 
-*   sAg 소실이 이루어진 후 경구 항바이러스제 치료를 종료하며, eAg(+) 환자는 virologic 또는 serologic response 달성 후
-
-    12개월 이상 경구 항바이러스제를 투여한 후 종료를 고려할 수 있음
+* sAg 소실이 이루어진 후 경구 항바이러스제 치료를 종료하며, eAg(+) 환자는 virologic 또는 serologic response 달성 후 12개월 이상 경구 항바이러스제를 투여한 후 종료를 고려할 수 있음
 * 간경변증 환자에서는 장기간의 치료를 고려; 비대상성 간경변증 환자에서는 경구 항바이러스제 치료를 중단하지 않음
-*   치료 종료 후 1년간 LFT & HBV DNA를 1~~6개월마다, eAg/eAb를 3~~6개월마다 검사; 1년 후에 반응이 유지되면
-
-    LFT & HBV DNA를 3~~6개월마다, eAg/eAb를 6~~12개월마다 검사
+* 치료 종료 후 1년간 LFT & HBV DNA를 1\~6개월마다, eAg/eAb를 3\~6개월마다 검사; 1년 후에 반응이 유지되면 LFT & HBV DNA를 3\~6개월마다, eAg/eAb를 6\~12개월마다 검사
 * 항바이러스 치료 종료 후 바이러스 반응이 유지되면 sAg/sAb를 추적하여 sAg 소실, 유지, 재양전 여부를 확인
 
 ### 항바이러스 치료 중 반응에 따른 대처
 
 * 경구 항바이러스제 치료 중 부분 바이러스 반응 환자는 약제 순응도를 확인
 * 부분 바이러스 반응 환자에서 내성 장벽이 낮은 약제를 사용 중인 경우에는 교차내성이 없고 내성 장벽이 높은 약제로 전환
-*   부분 바이러스 반응 환자에서 내성 장벽이 높은 약제를 사용하는 경우 3\~6개월 간격으로 바이러스 반응을 모니터링하면서
-
-    치료를 지속할 수 있음. 단, ETV를 사용하고 있는 경우에는 tenofovir로 전환을 고려할 수 있음
-*   Peg-IFN-α의 경우 eAg(+) 환자에서 치료 시작 24주째 sAg 정량치가 ＜20,000 IU/㎖로 감소하지 않을 때,
-
-    eAg(-) 환자에서 12주째 sAg 정량치 감소가 없으면서 HBV DNA 감소가 ＜2 log10인 경우 치료 반응이 없을 것으로
-
-    예상하여 치료 중단을 고려
+* 부분 바이러스 반응 환자에서 내성 장벽이 높은 약제를 사용하는 경우 3\~6개월 간격으로 바이러스 반응을 모니터링하면서 치료를 지속할 수 있음. 단, ETV를 사용하고 있는 경우에는 tenofovir로 전환을 고려할 수 있음
+* Peg-IFN-α의 경우 eAg(+) 환자에서 치료 시작 24주째 sAg 정량치가 ＜20,000 IU/㎖로 감소하지 않을 때, eAg(-) 환자에서 12주째 sAg 정량치 감소가 없으면서 HBV DNA 감소가 ＜2 log10인 경우 치료 반응이 없을 것으로 예상하여 치료 중단을 고려
 
 ## 특수한 상황에서의 치료
 
@@ -290,11 +340,8 @@
 
 * 선택 약제 : ETV, TAF, besifovir를 선호
 * TDF 복용 중 신 기능↓ 또는 골밀도↓가 우려되는 경우 치료 기왕력에 따라 TAF, besifovir, ETV로 전환 고려
-*   모든 약제는 CrCl에 따라 용량 조절을 요함
-
-    •신장 대체 요법을 시행하지 않는 환자에서 다음의 경우 투여 제한 : CrCl ＜50 시 besifovir, CrCl
-
-＜15 시 TAF, CrCl ＜10 시 TDF
+* 모든 약제는 CrCl에 따라 용량 조절을 요함
+  * 신장 대체 요법을 시행하지 않는 환자에서 다음의 경우 투여 제한 : CrCl ＜50 시 besifovir, CrCl ＜15 시 TAF, CrCl ＜10 시 TDF
 
 ### 임신부
 
@@ -320,7 +367,11 @@
 * 혈액이 묻은 곳은 표백제로 닦음
 * 가족 및 성 접촉자 백신 접종
 
-> **질병코드** B16 급성 B형간염
+
+
+### **질병코드**&#x20;
+
+B16 급성 B형간염
 
 B18.0 델타-병원체가 있는 만성 바이러스B형간염
 
