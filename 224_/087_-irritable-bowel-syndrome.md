@@ -3,27 +3,27 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 구조적 또는 생화학적 이상 없이 복부 불편/통증, 복부 팽만, 변비 및/또는 설사를 포함한 다양한 하부 위장관 증상의 호전과 악화가 반복되는 장 기능의 만성 이상
-* 흔히 다른 기능적/정신적 질환 동반 : 소화불량, 가슴쓰림, 흉통, 피로, 근육통, 섬유근육통, 두통/편두통, 수면장애, 우울, 불안, 신체형장애, 요통, 비뇨기계 증상(빈뇨, 절박뇨, 성교통)
+* 흔히 다른 기능적/정신적 질환 동반&#x20;
+  * 동반 증상: 소화불량, 가슴쓰림, 흉통, 피로, 근육통, 섬유근육통, 두통/편두통, 수면장애, 우울, 불안, 신체형장애, 요통, 비뇨기계 증상(빈뇨, 절박뇨, 성교통)
 * 빈도 : \[미국] 7\~16%; 보통 10대 후반\~20대 초반에 시작; 여성에서 흔함(남성의 1.5\~2배)
-* 병태생리 : 단일 인자가 아닌 복합 기전 - **내장 과민성**, **대장 운동 이상**, **장-뇌 축(gut-brain axis) 교란**, 장내 미생물 불균형(gut dysbiosis), 점막 저등급 염증(mast cell 활성화), 중추 감작
+* 병태생리 : 단일 인자가 아닌 복합 기전 - 내장 과민성, 대장 운동 이상, 장-뇌 축(gut-brain axis) 교란, 장내 미생물 불균형(gut dysbiosis), 점막 저등급 염증(mast cell 활성화), 중추 감작
 
 ### <mark style="color:orange;">분류 (Rome IV 기준)</mark>
 
-Bristol 변 형태 척도(BST) 기반으로 분류; **최소 2주 관찰 후 결정**; 우세 아형은 시간 경과에 따라 바뀔 수 있음
+* Bristol 변 형태 척도(BSFS) 기반으로 분류; 최소 2주 관찰 후 결정; 우세 아형은 시간 경과에 따라 바뀔 수 있음
 
-<table><thead><tr><th width="140">아형</th><th width="290">정의 (비정상 배변 비율)</th><th>임상 특징</th></tr></thead><tbody><tr><td><strong>IBS-D</strong><br>(설사 우세형)</td><td>무른 변(BST 6\~7) ＞¼ AND 굳은 변(BST 1\~2) ＜¼</td><td>적은 양의 무른 변, 잔변감, 잦은 배변 시도; 야간 배변은 드묾; 남성에서 많음</td></tr><tr><td><strong>IBS-C</strong><br>(변비 우세형)</td><td>굳은 변(BST 1\~2) ＞¼ AND 무른 변(BST 6\~7) ＜¼</td><td>과도한 힘주기, 배변 후 잔변감; 여성에서 많음</td></tr><tr><td><strong>IBS-M</strong><br>(혼합형)</td><td>굳은 변 ＞¼ AND 무른 변 ＞¼ 모두 해당</td><td>설사와 변비가 교대; 예측 불가 양상</td></tr><tr><td><strong>IBS-U</strong><br>(미분류)</td><td>IBS 진단 기준을 충족하나 특정 아형으로 분류 불가</td><td>변의 이상이 드물다고 호소; 기능성 복통이 주증상</td></tr></tbody></table>
+<table><thead><tr><th width="118">아형</th><th width="231">정의 (비정상 배변 비율)</th><th>임상 특징</th></tr></thead><tbody><tr><td><strong>IBS-D</strong><br>(설사 우세형)</td><td>무른 변(BSFS 6~7) ＞¼ AND 굳은 변(BSFS 1~2) ＜¼</td><td>적은 양의 무른 변, 잔변감, 잦은 배변 시도; 야간 배변은 드묾; 남성에서 많음</td></tr><tr><td><strong>IBS-C</strong><br>(변비 우세형)</td><td>굳은 변(BSFS 1~2) ＞¼ AND 무른 변(BSFS 6~7) ＜¼</td><td>과도한 힘주기, 배변 후 잔변감; 여성에서 많음</td></tr><tr><td><strong>IBS-M</strong><br>(혼합형)</td><td>굳은 변 ＞¼ AND <br>무른 변 ＞¼ 모두 해당</td><td>설사와 변비가 교대; 예측 불가 양상</td></tr><tr><td><strong>IBS-U</strong><br>(미분류)</td><td>IBS 진단 기준을 충족하나 <br>특정 아형으로 분류 불가</td><td>변의 이상이 드물다고 호소; 기능성 복통이 주증상</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/087-1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/087-1.png" alt="" width="375"><figcaption><p><strong>Bristol stool form scale (BSFS)</strong></p></figcaption></figure>
 
 ### <mark style="color:orange;">동반 질환 및 Overlap Syndrome</mark>
 
-IBS는 다른 기능성 위장관 질환 및 전신 질환과 **중복(overlap)** 되는 경우가 매우 흔함; 동반 이환이 있을수록 증상 부담과 의료 이용률이 높음
-
-* **상부 GI overlap** : 기능성 소화불량(FD) - 가장 흔함 (IBS 환자의 약 30\~40%); GERD (가슴쓰림·역류)
-* **전신 기능성 질환** : 섬유근육통, 만성 피로 증후군, 두통/편두통, 간질성 방광염
-* **자율신경 관련** : 기립성 빈맥 증후군(POTS), 과호흡 증후군
-* **정신건강 동반** : 불안 장애, 우울장애, 신체화 장애 - IBS 환자의 40\~60%에서 동반\
-  ✽ Overlap 환자에서는 상부위장관 증상과 하부위장관 증상을 함께 평가하고 정신사회적 요인에 대한 통합 접근이 필요함
+* IBS는 다른 기능성 위장관 질환 및 전신 질환과 중복(overlap) 되는 경우가 매우 흔함; 동반 이환이 있을수록 증상 부담과 의료 이용률이 높음
+  * Overlap 환자에서는 상부위장관 증상과 하부위장관 증상을 함께 평가하고 정신사회적 요인에 대한 통합 접근이 필요함
+* 상부 GI  : 기능성 소화불량(FD) - 가장 흔함 (IBS 환자의 약 30\~40%); GERD (가슴쓰림·역류)f
+* 전신 기능성 질환 : 섬유근육통, 만성 피로 증후군, 두통/편두통, 간질성 방광염
+* 자율신경 관련 : 기립성 빈맥 증후군(POTS), 과호흡 증후군
+* 정신건강 동반 : 불안 장애, 우울장애, 신체화 장애 - IBS 환자의 40\~60%에서 동반
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -296,8 +296,6 @@ graph TD
 
 <table><thead><tr><th width="110">아형</th><th>권고 약물</th><th width="175">권고 반대</th></tr></thead><tbody><tr><td><strong>IBS-C</strong></td><td>linaclotide (AGA <strong>강력</strong>, 고근거); tenapanor·plecanatide·lubiprostone·PEG·TCA·진경제 (조건부); 수용성 섬유·페퍼민트 오일·TCA (ACG <strong>강력</strong>)</td><td>SSRI (저근거, 조건부 반대)</td></tr><tr><td><strong>IBS-D</strong></td><td>rifaximin·ramosetron·alosetron·eluxadoline† (조건부, 중등도); TCA·진경제·loperamide (조건부, 저근거); 페퍼민트 오일·TCA (ACG <strong>강력</strong>)</td><td>SSRI (저근거, 조건부 반대)</td></tr><tr><td><strong>공통</strong></td><td>수용성 섬유·페퍼민트 오일·TCA·진경제·장-뇌 축 치료 (ACG <strong>강력</strong>)</td><td>항불안제 만성 사용</td></tr></tbody></table>
 
-
-
 ### <mark style="color:$success;">IBS-D 표적 치료제</mark>
 
 {% hint style="info" %}
@@ -323,8 +321,6 @@ Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSR
 * **rifaximin** 200 ㎎ 2T tid × 14일 : bloating prominent IBS-D, post-infectious IBS에 효과 (SIBO 동반 시 포함)
 
 END
-
-
 
 ### <mark style="color:orange;">항콜린제 (진경제, Antispasmodics)</mark>
 
@@ -483,8 +479,6 @@ Lubiprostone <mark style="color:blue;">\[아미티자]</mark>은 국내에서 **
 * **표면 활성제** : simethicone 40\~80 ㎎ tid <mark style="color:blue;">\[가소콜]</mark> - 효과 입증 불충분
 * **α/β-galactosidase** : 일부에서 가스·팽만 감소 효과
 * **항불안제** : 습관화 가능성 때문에 IBS에서 만성적으로 사용해서는 안 됨
-
-
 
 ***
 
