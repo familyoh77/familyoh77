@@ -1,168 +1,519 @@
 # C형간염 Hepatitis C Viral Infection
 
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
-* C형간염 바이러스(Hepatitis C virus, HCV) 감염에 의한 급/만성 간질환
-* 환자 정의 : C형간염에 부합되는 임상 증상이 있고 검사에서 HCV RNA가 확인된 사람
-* 병원체 보유자 : 임상 증상은 없으나 검사에서 HCV RNA가 확인된 사람
-* 바이러스 유전자형 : 6개의 유전자형(1a, 1b, 2a, 2b, 3\~6형) 및 70개 이상의 아형이 있음
-  * 우리나라에서 흔한 HCV 유전자형은 1b형(45~~90%)과 2a형(26~~51%)임
-* 유병률 \[우리나라]: 건강 성인 및 공혈자 중 C형간염 항체 양성률- 약 1% (고령에서 보다 높음)
-* 전파 경로 : 혈액 매개 전파(예: 오염된 주사기/문신/피어싱, 성 접촉, 모자 수직 감염)
-* 잠복기 : 2주\~6개월(평균 6\~10주)
-* 치료율 : 70\~90%; 유전자형에 따라 다름. 1b형보다 1a형의 실패율이 높음
+* C형간염 바이러스(Hepatitis C virus, HCV) 감염에 의한 급·만성 간질환
+* 제3급 법정 감염병 (우리나라)
+* 잠복기 : 2주\~6개월 (평균 6\~10주)
 
-### 고위험군
+### <mark style="color:orange;">바이러스 및 유전자형</mark>
 
-* 공여자의 HCV 선별 검사가 시행되기 전\* 혈액 제제를 받거나 장기 이식을 받은 사람\
-  \*국내 헌혈 혈액에 대하여 1990년에 EIA, 2005년에 핵산증폭검사가 도입됨
-* 정맥 주사 약물 남용자 혹은 그러한 과거력이 있는 사람
+* 유전자형 : 주요 유전자형(genotype 1\~6; 드물게 genotype 7 보고) 및 70개 이상의 아형(subtype)이 있음
+  * 우리나라에서 흔한 HCV 유전자형 : **1b형** (45\~90%)과 **2a형** (26\~51%)
+* 유전자형에 따라 치료 반응 및 약제 선택이 다를 수 있으나 pangenotypic DAA 도입 이후 대부분의 경우 임상적 중요성 감소\
+  ✽단, **GT3형은 예외** — NS5A RAS(Y93H) 여부가 치료 반응에 영향을 미치므로 대상성 간경변증 동반 GT3 환자에서는 RAS 검사 권고
+
+### <mark style="color:orange;">역학</mark>
+
+* 유병률 : 국내 건강 성인 및 공혈자 중 HCV Ab 양성률 약 1% (고령에서 보다 높음)
+* 국가건강검진 : 국내에서는 C형간염 선별검사가 국가건강검진에 단계적으로 도입되고 있으며, 일정 연령 대상에서 anti-HCV 검사가 시행된다 (검진 적용 연령 및 범위는 정책에 따라 변경될 수 있으므로 최신 고시 확인 권고)
+
+### <mark style="color:orange;">경과</mark>
+
+* 감염자의 약 25% : 치료 없이 6개월 내 자연 소멸
+* 감염자의 54\~86% : 만성 간염으로 이행 (B형간염보다 만성화 경향이 높음)
+  * 만성 감염자의 15\~56% : 20\~50년 경과 후 간경변증으로 진행
+  * 간경변증 환자의 매년 1\~3% : 간세포암종(HCC)으로 진행
+  * 간경변증·HCC 진행 위험 인자 : 고령, 알코올, HBV 또는 HIV 동반 감염, 면역 결핍, 미치료
+* **DAA 치료 시 SVR(지속적 바이러스 반응) 달성률 : 유전자형 무관 95% 이상**\
+  ✽과거 인터페론 기반 요법의 70\~90%와 대비됨
+* 회복 시 : 감염 후 8\~9주부터 HCV Ab 양전 시작, 6개월 내 97% 이상에서 양전
+* 회복 또는 만성 C형간염 환자 모두에서 HCV Ab는 지속 검출됨 (완치의 지표가 아님 → HCV RNA로 완치 확인)
+
+---
+
+## <mark style="color:green;">고위험군 및 전파 경로</mark>
+
+### <mark style="color:orange;">전파 경로</mark>
+
+* 혈액 매개 전파 (주된 경로)
+  * 오염된 주사기 재사용, 비위생적인 문신·피어싱·침술
+  * 혈액 제제 또는 장기 이식 (국내 : 1990년 EIA, 2005년 핵산증폭검사 도입 이후 위험 대폭 감소)
+* 성 접촉 : 주로 HIV 동반 감염자 또는 다수 파트너에서 위험 증가
+* 모자 수직 감염
+* 일상생활 전파 (식기 공유, 포옹, 기침 등) : **전파 가능성 극히 낮음**
+
+### <mark style="color:orange;">고위험군</mark>
+
+* 1990년 이전 혈액 제제 수혈 또는 장기 이식 수혜자
+* 정맥 주사 약물 남용자 또는 그러한 과거력이 있는 사람
 * 혈액 투석 환자, HIV 감염자, 혈우병 환자
 * HCV 감염자와 성 접촉을 가진 사람
 * HCV 감염 산모에서 태어난 어린이
 * HCV 양성 혈액에 오염된 기구에 찔리거나 점막이 노출된 사람
 * 비위생적인 침술, 문신, 피어싱 등에 노출된 사람
 
-### 경과
+---
 
-* 감염자의 25%가 치료 없이 6개월내 균 소멸
-* 감염자의 54\~86%가 만성 간염으로 이행(만성화 경향이 B형간염보다 높음); 만성 간염이 되면 자연 회복은 드물며 지속적 또는 간헐적 ALT 상승 발생 → 만성 감염자의 15\~56%가 20\~50년 동안 간경변증으로 진행 → 매년 간경변증 환자의 1\~3%가 간세포암종(HCC)으로 진행
-  * 간경변증, HCC 진행 요인 : 어린 연령, 알코올, HBV or HIV 동반, 면역 결핍, 치료하지 않음
-* 회복되는 경우에는 HCV 감염 후 8\~9주에 양전되기 시작하며 6개월 내에 97% 이상에서 HCV Ab 양전됨
-* 회복된 환자 및 만성 C형간염 환자에서 HCV Ab가 대부분 지속적으로 검출됨
+## <mark style="color:green;">임상 양상</mark>
 
-## 임상 양상
+### <mark style="color:orange;">급성 C형간염</mark>
 
-### 급성
+* 초기 감염 후 약 70\~80%에서 **무증상**
+* 증상 발생 시 감염 후 2\~12주 이내 : 피로, 구역, 구토, 식욕 부진, 우상복부 불쾌감, 근육통, 가려움증
+* 황달(25%), 전격성 간염(매우 드묾)
+* ALT : 감염 후 4\~12주 사이 상승
 
-* 초기 감염 후 약 70\~80%의 환자에서 무증상
-* 증상이 발생하는 경우 감염된 시점부터 6개월 이내(보통 2\~12주 사이) 발생
-* 서서히 진행하는 감기 유사 몸살 증상, 피로, 구역, 구토, 식욕 부진, 우상복부 불쾌감/통증, 식욕 감소, 근육통, 가려움증
-* 황달(25%), 전격성 간염(드묾)
+### <mark style="color:orange;">만성 C형간염</mark>
 
-### 만성
+* 60\~80%에서 **무증상** — 장기간 무증상 경과 가능
+* 증상 : 복부 불편감, 피로, 구역, 근육통, 관절통, 체중 감소
+* 간외 증상 : 우울, 당뇨병, 만성 신질환, 한랭글로불린혈증, 갑상선질환, 편평태선 등과 연관\
+  ✽원인 미상의 신질환, 피부 혈관염, 관절통, 한랭글로불린혈증 환자에서 C형간염 선별 검사를 적극 고려할 것
+* 간경변 시 : 만성 피로, 황달, 복수, 간성 뇌증, 식도정맥류(문맥압 항진증)
 
-* 60\~80%에서 무증상
-* 복부 불편감, 피로, 구역, 근육통, 관절통, 체중 감소; 우울(24%), 당뇨병(15%), CKD(10%)
-* 간경변 시 만성 피로, 간부전, 문맥압 항진증
+---
 
-## 진단
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-* 혈액 HCV Ab : EIA, RIBA, CLIA, ECLIA(EIA보다 민감), rapid diagnostic test(타액 또는 혈액으로 20분 이내에 HCV Ab 유무 진단)
-* HCV RNA NAT(nucleic acid testing) : RT-PCR
-  * HCV RNA는 HCV 감염 1\~2주 후부터 출현하고 빠르게 증가하여 최고치에 이르고, ALT가 최고로 상승된 시점 이후 ALT와 함께 감소함
-* ALT는 감염 후 4\~12주 사이에 간 손상에 따라 증가함
-* HCV genotype 및 sub-genotype 검사 : 항바이러스 치료 반응 예측에 도움
+<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
-<table data-header-hidden><thead><tr><th width="90"></th><th width="100"></th><th width="385"></th></tr></thead><tbody><tr><td><strong>HCV Ab</strong></td><td><strong>HCV RNA</strong></td><td><strong>판정</strong></td></tr><tr><td>+</td><td>+</td><td>• 현재 감염: 급성 또는 만성 C형간염</td></tr><tr><td>+</td><td>-</td><td><p>• C형간염 감염 회복</p><p>• 혈중 바이러스가 적은 기간의 급성 C형간염</p><p>• HCV RNA 위음성</p><p>• HCV Ab 위양성</p></td></tr><tr><td>-</td><td>+</td><td><p>• 급성 C형간염 초기</p><p>• 면역 억제 상태에서의 만성 C형간염</p><p>• HCV RNA 위양성</p></td></tr></tbody></table>
+* **간성 뇌증** : 혼돈, 지남력 장애, 의식 저하 → 비대상성 간경변 또는 간부전 의심
+* **식도정맥류 출혈 의심** : 토혈(hematemesis) 또는 흑색변(melena)
+* **전격성 간부전** : 황달 + 응고장애 + 뇌증 동반
+* **자발성 세균성 복막염(SBP) 의심** : 복수 + 발열 + 복통
 
-Ref. C형간염 관리지침, 질병관리본부, 2017.
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* WHO 지침
-  * 진단 및 치료 반응 평가(항바이러스제 치료 완료 후 12주 또는 24주) 방법으로 HCV RNA NAT 권고; HCV Ab 양성인 환자에서 HCV RNA 검사 권고
-  * 지속적인 위험에 노출되거나 HCV 감염 치료력이 있는 사람들은 HCV viremia 확인을 위해 3\~6개월마다 검사를 할 수 있음
+* 새로운 복수 발생 또는 급격한 복수 증가
+* **간신증후군 의심** : 간경변증 환자에서 급격한 신기능 저하
+* **HCC 의심** : 간경변증 환자에서 간초음파 결절 발견 또는 AFP 급격 상승
+* 혈소판 < 100,000/μL + 비장비대 동반 → 간경변증 합병증 평가 필요
+* DAA 치료 중 황달·심한 피로·발진 등 새로운 이상 증상 발생
 
-### 선별 검사 \[USPSTF, CDC] (2019)
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 모든 ≥18세(\~79세)에서 평생에 최소 한 번 이상, 매 임신마다 검사
-* HCV 감염 위험이 지속되는 경우에는 주기적으로 검사
-* 검사 방법 : anti-HCV Ab 검사 시행 후 양성인 사람에 대해 활성 감염 감별을 위하여 HCV RNA 검사
+* SVR12 달성 실패 (치료 종료 후 12주 HCV RNA 양성) → 재치료 계획 수립 위해 전문의 의뢰
+* 간경변증 없이 SVR 달성 후 간효소 수치 지속 상승 → 다른 간질환 원인 평가
+* 지속적 음주로 간질환 진행 위험이 있는 환자 → 금주 지원 강화 및 추적 관찰
+
+---
+
+## <mark style="color:green;">진단</mark>
+
+### <mark style="color:orange;">진단 검사</mark>
+
+* **HCV Ab 검사 (선별 검사)** : EIA, CLIA, ECLIA; rapid diagnostic test (타액 또는 혈액, 20분 이내)
+  * HCV Ab는 치유 또는 만성 감염 모두에서 지속 양성 → **현재 감염 여부는 HCV RNA로 확인**
+* **HCV RNA NAT (핵산 증폭 검사, RT-PCR)** : 감염 1\~2주 후부터 검출; 확진 및 치료 반응 평가에 필수
+* **HCV 핵심 항원 (HCV core antigen, HCV cAg)** \[WHO 2022 권고]
+  * HCV RNA의 대안 검사; RNA 검사 이용이 어려운 상황에서 유용한 현재 감염 직접 표지자
+  * 민감도는 HCV RNA보다 다소 낮으며, **저바이러스혈증(low-level viremia)에서는 위음성 가능** — cAg 음성이라도 임상적 의심이 있으면 HCV RNA 검사로 확인 필요
+* **HCV 유전자형 및 아형 검사** : 약제 선택 및 치료 기간 결정에 활용 (pangenotypic 약제 사용 시 필수 아님)
+
+### <mark style="color:orange;">HCV Ab / RNA 판정</mark>
+
+<table data-header-hidden><thead><tr><th width="90"></th><th width="100"></th><th></th></tr></thead><tbody><tr><td><strong>HCV Ab</strong></td><td><strong>HCV RNA</strong></td><td><strong>판정</strong></td></tr><tr><td>+</td><td>+</td><td>현재 감염 : 급성 또는 만성 C형간염</td></tr><tr><td>+</td><td>-</td><td>C형간염 회복 / 혈중 바이러스 낮은 급성기 / HCV RNA 위음성 / HCV Ab 위양성</td></tr><tr><td>-</td><td>+</td><td>급성 C형간염 초기 (window period) / 면역 억제 상태에서의 만성 C형간염 / HCV RNA 위양성</td></tr><tr><td>-</td><td>-</td><td>HCV 감염 없음 (단, 고위험군에서 노출 8\~12주 이전이면 4\~6주 후 재검 고려)</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. C형간염 관리지침, 질병관리청, 2017; WHO, 2022.</mark></em></p>
+
+### <mark style="color:orange;">선별 검사 \[USPSTF 2020, CDC, 대한간학회 2022]</mark>
+
+* 모든 **18\~79세** 성인에서 **평생 최소 1회 이상** HCV Ab 검사
+* **매 임신마다** 검사
+* HCV 감염 위험이 지속되는 경우 : 3\~6개월마다 주기적 재검
+* 검사 순서 : anti-HCV Ab 양성 → **HCV RNA 검사** (활성 감염 감별)
+
+{% hint style="warning" %}
+**⚠️ HCV Ab 양성 = 현재 감염이 아닐 수 있습니다**
+
+HCV Ab는 과거 감염 후 자연 치유된 경우에도 **평생 양성**으로 남습니다. 따라서 HCV Ab 양성만으로 현재 감염을 진단할 수 없으며, **반드시 HCV RNA 검사로 활성 감염 여부를 확인**해야 합니다. HCV RNA 검사를 생략하면 치유된 환자를 불필요하게 치료하거나, 반대로 활성 감염을 놓치는 오류가 발생합니다.
+{% endhint %}
+
+{% hint style="info" %}
+**치료 반응 평가 — SVR (Sustained Virological Response)**
+
+SVR12 = 치료 종료 후 12주 시점에 혈중 HCV RNA가 검출되지 않는 상태 → **임상적 완치(functional cure)**로 간주.\
+간경변증이 없는 SVR 환자는 이후 HCC 위험이 현저히 감소하나, 간경변증이 있는 환자는 SVR 달성 후에도 HCC 감시를 지속해야 함.
+
+**HCV RNA 검사 시점별 의미**
+
+| 시점 | 결과 | 의미 |
+|---|---|---|
+| 치료 전 | RNA(+) | 활성 감염 확인; 바이러스량(IU/mL) 측정 |
+| 치료 종료 시 | RNA(−) | EOT(End-of-Treatment) 반응 |
+| 치료 종료 후 12주 | RNA(−) | **SVR12 = 임상적 완치** |
+| SVR 달성 후 RNA(+) | 재출현 | 재발(relapse) vs 재감염(reinfection) 감별 필요 |
+{% endhint %}
 
 ***
 
-## Management
+```mermaid
+flowchart TD
+    A([HCV Ab 검사]) --> B{결과}
+    B -- "양성" --> C["추가 검사\nHCV RNA 또는 HCV cAg"]
+    B -- "음성 + 고위험군 또는 증상 의심" --> C
+    C --> D{HCV RNA / cAg 결과}
+    D -- "양성" --> E["HCV 감염 확인\n(급성 또는 만성)"]
+    D -- "음성" --> F(["HCV 감염 없음\n고위험군은 3~6개월 후 재검"])
+    E --> G["치료 전 평가\n• 비침습적 간섬유화 검사: APRI, FIB-4\n• HCV 유전자형\n• HBsAg / anti-HBc 검사\n• 임신, 약물 상호작용, 동반 질환 확인"]
+    G --> H{간경변증 여부}
+    H -- "비경변성\n≥18세 또는 3~17세" --> I["1차 권고\nGlecaprevir/Pibrentasvir 8주\n또는 Sofosbuvir/Velpatasvir 12주"]
+    H -- "대상성 간경변증\n≥18세 또는 3~17세" --> J["Glecaprevir/Pibrentasvir 8주†\n또는 Sofosbuvir/Velpatasvir 12주"]
+    H -- "비대상성 간경변증" --> K["SOF/VEL ± ribavirin\n전문의 의뢰 필수\nNS3/4A PI 금기"]
+    I --> L["모니터링\nSVR12: 치료 종료 후 12주\nHCV RNA 검사"]
+    J --> L
+    K --> L
+    L --> M{간경변증?}
+    M -- "있음" --> N["6개월마다\n간초음파 + AFP"]
+    M -- "없음" --> O(["SVR 확인 후 종료"])
+    style E fill:#f96,stroke:#e65100,stroke-width:2px
+    style I fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style J fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style K fill:#fce4ec,stroke:#b71c1c,stroke-width:2px
+    style L fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+```
 
-### 치료 방침
+<p align="center"><strong>C형간염 진단·치료·모니터링 알고리듬</strong></p>
 
-* 치료 목표 : 치료 종료 후 12주 또는 24주에 혈중 HCV RNA가 검출되지 않는 상태 도달
-* 합병증 예방 : 간경변증, 간세포암종, 간 외 합병증 등 예방
-* 치료 방법 : 안정, 고단백 식이 요법, 안정, 식이 요법, 항바이러스제 치료
-* 급성 감염에서도 만성 감염과 동일하게 항바이러스제 치료를 시행함 \[AASLD]
-* 치료 여부 결정, 간질환 중증도 평가를 위해 간초음파 등 영상 검사와 간 생검 또는 비침습적 간섬유화 검사
+<p align="center"><em><mark style="color:$info;">†과거 IFN/RBV/SOF 치료 실패한 간경변증 동반 GT1·2·4·5·6형: 12주; GT3형 간경변증 무관: 16주. Ref. WHO, 2022; AASLD/IDSA, 2023.</mark></em></p>
 
-## 약물 치료
+***
 
-* pangenotypic DAA 치료 권고 \[AASLD/IDSA(2023), WHO(2022)]
+## <mark style="background-color:$warning;">Management</mark>
 
-### DAA (Direct acting antivirals)
+### <mark style="color:orange;">치료 방침</mark>
 
-좋습니다! 요청하신 대로 **성분명과 상품명을 동일한 셀에 넣고, 상품명을 대괄호로 표시**한 표를 정리했습니다.
+* **치료 목표** : SVR12 — 치료 종료 후 12주에 혈중 HCV RNA 검출 불가(= 임상적 완치)
+* **모든 만성 C형간염 환자에게 DAA 치료를 권고** \[AASLD/IDSA 2023, WHO 2022] — 간섬유화 단계·유전자형에 무관
+* 급성 감염에서도 만성 감염과 동일하게 DAA 치료 시행 가능 \[AASLD]
+* 치료 시작 전 평가 :
+  * 간섬유화 단계 : 비침습적 검사(APRI, FIB-4, 간탄성도 검사) 또는 간생검
+  * **HBsAg, anti-HBs, anti-HBc 검사** : HBV 동반 감염 또는 과거 감염 확인 → 재활성화 위험 평가
+  * 약물 상호작용 확인 : [www.hep-druginteractions.org](https://www.hep-druginteractions.org)
+  * 임신 여부 : ribavirin 사용 시 기형 발생 위험 → **임신 중 ribavirin 금기** (치료 중 및 치료 후 6개월간 피임 필수)
 
-<table data-header-hidden><thead><tr><th width="334"></th><th></th></tr></thead><tbody><tr><td><strong>성분명 [상품명]</strong></td><td><strong>용법 (표시 외 식사 무관)</strong></td></tr><tr><td>Asunaprevir (ASV)¹⁾⁴⁾ [순베프라]</td><td>100 mg/C bid</td></tr><tr><td>Daclatasvir (DCV)²⁾⁴⁾ [다클린자]</td><td>60 mg/T qd</td></tr><tr><td>Sofosbuvir (SOF)³⁾ [소발디]</td><td>400 mg/T qd</td></tr><tr><td>Dasabuvir (DSV)³⁾ [엑스비라]</td><td>250 mg/T bid</td></tr><tr><td>Sofosbuvir/ledipasvir (LED) [하보니]</td><td>90/400 mg/T qd</td></tr><tr><td>Ombitasvir²⁾/paritaprevir¹⁾/ritonavir (Opr) [비키라]</td><td>12.5/75/50 mg/T qd</td></tr><tr><td>Elbasvir²⁾/grazoprevir¹⁾⁴⁾ (EBR/GZR) [제파티어]</td><td>50/100 mg/T qd</td></tr><tr><td>Glecaprevir¹⁾/pibrentasvir²⁾ (G/P) [마비렛]</td><td>100/40 mg/T 3T qd with food</td></tr><tr><td>Sofosbuvir/velpatasvir (VEL)²⁾ [엡클루사]</td><td>400/100 mg/T qd</td></tr><tr><td>Sofosbuvir/velpatasvir/voxilaprevir (VOX)¹⁾ [보세비]</td><td>400/100/100 mg/T qd with food</td></tr></tbody></table>
+{% hint style="info" %}
+**DAA 치료 시작 전 체크리스트**
 
-¹⁾ NS3/4A PI(protease inhibitor): HCV 단백질 분해 과정 차단\
-²⁾ NS5A 억제제: HCV 복제 및 조립 억제, 병합 시 효과 상승\
-³⁾ NS5B 중합효소 억제제\
-⁴⁾ 특정 유전자형(1형, 1b형) 만성 C형간염 및 대상성 간경변증에서 치료 전 RAS 검사 필요
+☐ HCV RNA 정량 (확진 및 기저치 설정)\
+☐ 간섬유화 단계 평가 (APRI / FIB-4 / 간탄성도)\
+☐ 비대상성 간경변증 여부 (복수·정맥류 출혈·간성 뇌증·CTP class B/C) → 해당 시 전문의 의뢰\
+☐ HBsAg / anti-HBc (HBV 재활성화 위험 평가)\
+☐ HIV 감염 여부\
+☐ 임신 여부 (ribavirin 계획 시)\
+☐ eGFR (SOF 기반 요법 시 중증 CKD 여부)\
+☐ 약물 상호작용 확인 (amiodarone, rifampin, 항경련제, 스타틴 등)\
+☐ HCC 진단·의심 여부\
+☐ 이전 DAA 치료 이력 → 해당 시 salvage 요법(SOF/VEL/VOX 등) 고려
+{% endhint %}
 
-<p align="center"><mark style="color:$info;">Ref. 대한간학회, C형간염 진료 가이드라인, 2017, Table 2.</mark></p>
+---
 
-### Simplified initial Tx \[AASLD/IDSA(2023)]
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-#### Treatment naive, without cirrhosis or with compensated cirrhosis
+* **금주** : 알코올은 간섬유화 진행을 가속 → DAA 치료 성공 여부와 무관하게 금주 필수
+* **체중 조절** : 비만 동반 시 지방간염이 간경변증 진행을 촉진 → 정상 체중 유지 권고
+* **HAV·HBV 예방 접종** : C형간염 환자에서 HAV(항체 음성 시) 및 HBV(항체 음성 시) 예방 접종 권고
+* **혈액 매개 전파 예방** : 면도기·칫솔·손톱깎이 등 개인위생 용품 공유 금지
+* **주사 약물 남용자** : 일회용 주사기 사용 교육, 약물 남용 치료 프로그램 연계
+* **영양 관리** : 고단백·충분한 칼로리 섭취; 간경변 환자는 영양사 상담 권고
+* **예방 백신** : 현재 없음; 면역 글로불린도 효과 없음
 
-<table data-header-hidden><thead><tr><th width="106"></th><th width="89"></th><th width="87"></th><th></th></tr></thead><tbody><tr><td><strong>약제</strong></td><td><strong>유전형</strong></td><td><strong>투여기간</strong></td><td><strong>유의사항</strong></td></tr><tr><td>G/P</td><td>1~6</td><td>8주</td><td>—</td></tr><tr><td>SOF/VEL</td><td>1~6</td><td>12주</td><td>대상성 간경변증이 있는 3 유전형 감염 시 NS5A RAS 검사 권고. NS5A RAS Y93H가 존재한다면 체중 기준 ribavirin 추가 또는 다른 요법 선택</td></tr><tr><td>LED/SOF</td><td>1, 4, 5, 6</td><td>12주</td><td>6e 유전형 감염 시 권장 안 함</td></tr><tr><td>LED/SOF</td><td>1 (간경변증 없음)</td><td>8주</td><td>HIV 비감염자 및 HCV RNA &#x3C;600만 IU/mL에서 적용 가능</td></tr><tr><td>EBR/GZR</td><td>1b, 4</td><td>12주</td><td>—</td></tr><tr><td>EBR/GZR</td><td>1a</td><td>12주</td><td>1a 유전자형 감염의 경우 NS5A RAS 검사 권고. RAS가 존재한다면 다른 요법 선택</td></tr><tr><td>SOF/VEL + 체중 기준 ribavirin</td><td>3</td><td>12주</td><td>대상성 간경변증 및 NS5A Y93 RAS를 가진 3 유전형 감염에 적용 가능</td></tr><tr><td>SOF/VEL/VOX</td><td>—</td><td>12주</td><td>대상성 간경변증 및 NS5A Y93 RAS를 가진 3 유전형 감염에 적용 가능</td></tr></tbody></table>
+---
 
-#### Treatment naive with decompensated cirrhosis
+## <mark style="color:green;">약물 치료</mark>
 
-<table data-header-hidden><thead><tr><th width="105"></th><th width="88"></th><th width="92"></th><th></th></tr></thead><tbody><tr><td><strong>약제</strong></td><td><strong>유전형</strong></td><td><strong>투여기간</strong></td><td><strong>유의사항</strong></td></tr><tr><td>SOF/VEL + 체중 기준 ribavirin</td><td>1~6</td><td>12주</td><td>CTP class C 간경변증의 경우 저용량 ribavirin (600 mg)으로 시작, 점차 증량</td></tr><tr><td>SOF/VEL</td><td>1~6</td><td>24주</td><td>ribavirin 부적임자에게 적용</td></tr><tr><td>LED/SOF + 체중 기준 ribavirin</td><td>1, 4, 5, 6</td><td>12주</td><td>CTP class C 간경변증의 경우 저용량 ribavirin (600 mg)으로 시작, 점차 증량</td></tr><tr><td>LED/SOF</td><td>1, 4, 5, 6</td><td>24주</td><td>ribavirin 부적임자에게 적용</td></tr></tbody></table>
+{% hint style="danger" %}
+**⚠️ 국내 건강보험 급여 기준(고시) 확인 필수**
 
-※ Simplified HCV Tx 비적응증 : 이전 HCV 치료 병력, HBsAg(+), 말기 신질환 동반 대상성 간경변증, 비대상성 간경변증, 임신 중, HCC 진단/의심, 간 이식
+이 챕터는 국제 가이드라인(AASLD/IDSA, WHO)을 기반으로 작성되었습니다. 그러나 **국내 건강보험심사평가원(HIRA) 급여 기준은 약제 선택, 투여 기간, 대상 환자에서 가이드라인과 다를 수 있으며**, 보험 고시는 수시로 변경됩니다.\
+→ **DAA 처방 전 반드시 심평원 고시(www.hira.or.kr) 최신 기준을 확인하십시오.**\
+✽특히 G/P의 치료 기간(8주 vs 12주), 유전자형별 적용 범위, 비대상성 간경변증 환자 요법에서 급여 기준과 가이드라인 간 간극이 있을 수 있습니다.
+{% endhint %}
 
-#### 치료 중단자 관리
+### <mark style="color:orange;">DAA (Direct-Acting Antivirals) 종류</mark>
 
-**투여 시작 28일 이전**
+{% hint style="info" %}
+**DAA 기전 분류**\
+¹⁾ **NS3/4A PI(protease inhibitor)**: HCV 단백질 분해 과정 차단. **비대상성 간경변증에서 금기**(Child-Pugh B/C; 중증 간독성 위험)\
+²⁾ **NS5A 억제제**: HCV 복제 및 조립 억제; 병합 시 효과 상승\
+³⁾ **NS5B 중합효소 억제제**: 핵산 유사체(sofosbuvir) 또는 비핵산 계열(dasabuvir)\
+⁴⁾ **특정 유전자형에서 치료 전 NS5A RAS(내성 관련 치환) 검사 필요**: 1a형(EBR/GZR), 1b형·3형 대상성 간경변(SOF/VEL 등)
+{% endhint %}
 
-* ≤7일 중단 : 즉시 DAA 투여 재개. 원래 계획했던 치료 기간 완료
-* ≥8일 중단 : 즉시 DAA 투여 재개, 가급적 빨리 HCV RNA 검사
-  * If HCV RNA(-) → 치료 일정 완료; 3 유전자형(±대상성 간경변증) 환자는 추가 4주 치료
-  * If HCV RNA(+)(＞25 IU/L) or not obtained → DAA 치료 추가 4주 치료
+<table data-header-hidden><thead><tr><th width="360"></th><th></th></tr></thead><tbody><tr><td><strong>성분명 <mark style="color:blue;">\[상품명]</mark></strong></td><td><strong>용법 (표시 외 식사 무관)</strong></td></tr><tr><td>Asunaprevir (ASV)¹⁾⁴⁾ <mark style="color:blue;">\[순베프라]</mark></td><td>100 ㎎/캡슐 bid</td></tr><tr><td>Daclatasvir (DCV)²⁾⁴⁾ <mark style="color:blue;">\[다클린자]</mark></td><td>60 ㎎/정 qd</td></tr><tr><td>Sofosbuvir (SOF)³⁾ <mark style="color:blue;">\[소발디]</mark></td><td>400 ㎎/정 qd</td></tr><tr><td>Dasabuvir (DSV)³⁾ <mark style="color:blue;">\[엑스비라]</mark></td><td>250 ㎎/정 bid</td></tr><tr><td>Ledipasvir²⁾/sofosbuvir (LED/SOF) <mark style="color:blue;">\[하보니]</mark></td><td>90/400 ㎎/정 qd</td></tr><tr><td>Ombitasvir²⁾/paritaprevir¹⁾/ritonavir (OPr) <mark style="color:blue;">\[비키라]</mark></td><td>12.5/75/50 ㎎/정 qd (식사와 함께)</td></tr><tr><td>Elbasvir²⁾/grazoprevir¹⁾⁴⁾ (EBR/GZR) <mark style="color:blue;">\[제파티어]</mark></td><td>50/100 ㎎/정 qd</td></tr><tr><td>Glecaprevir¹⁾/pibrentasvir²⁾ (G/P) <mark style="color:blue;">\[마비렛]</mark></td><td>100/40 ㎎/정 × 3정 qd (반드시 식사와 함께)</td></tr><tr><td>Sofosbuvir/velpatasvir²⁾ (SOF/VEL) <mark style="color:blue;">\[엡클루사]</mark></td><td>400/100 ㎎/정 qd</td></tr><tr><td>Sofosbuvir/velpatasvir²⁾/voxilaprevir¹⁾ (SOF/VEL/VOX) <mark style="color:blue;">\[보세비]</mark></td><td>400/100/100 ㎎/정 qd (반드시 식사와 함께)</td></tr></tbody></table>
 
-**투여 시작 ≥28일**
+<p align="center"><em><mark style="color:$info;">Ref. 대한간학회 C형간염 진료 가이드라인, 2022; AASLD/IDSA, 2023.</mark></em></p>
 
-* ≤7일 중단 : 즉시 DAA 투여 재개. 원래 계획했던 치료 기간 완료
-* 8\~20일 연속 중단 : 즉시 DAA 투여 재개, 가급적 빨리 HCV RNA 검사
-  * If HCV RNA(-) → 치료 일정 완료; 3 유전자형(±대상성 간경변증) 환자는 추가 4주 치료
-  * HCV RNA(+)(＞25 IU/L) or not obtained → 치료 중단 → 재치료
-*   ≥21일 연속 중단 : DAA 치료 중단 및 SVR12\* 평가; SVR12 미성취 시 재치료
+{% hint style="info" %}
+**현재 1차 표준 치료 — Pangenotypic DAA**
 
-    \*치료 종료 12주 후에도 HCV가 검출되지 않음
+**G/P <mark style="color:blue;">\[마비렛]</mark>** (비경변성 8주, 대상성 간경변증 12주) 또는 **SOF/VEL <mark style="color:blue;">\[엡클루사]</mark>** (12주)이 유전자형 무관 1차 표준 치료.\
+구세대 요법(ASV/DCV, OPr/DSV)은 현재 임상 현장에서 거의 사용되지 않음 (내성 프로파일, 제한적 유전자형 적용 범위).
+{% endhint %}
 
-![만성 C형간염 치료 및 모니터링 알고리듬
-Ref. WHO. Updated recommendations on treatment of adolescents and children with chronic HCV infection, and HCV simplified service delivery and diagnostics. 2022. Fig 1.](../.gitbook/assets/a9ded3ef-29ec-4a80-a73c-32e5e0648d3d.png)
+### <mark style="color:orange;">초치료 요법 \[AASLD/IDSA 2023]</mark>
 
-## 관리
+#### <mark style="color:$primary;">비경변성 또는 대상성 간경변증 — Treatment naive</mark>
 
-### 환자 관리
+<table data-header-hidden><thead><tr><th width="160"></th><th width="110"></th><th width="75"></th><th></th></tr></thead><tbody><tr><td><strong>약제</strong></td><td><strong>유전형</strong></td><td><strong>기간</strong></td><td><strong>유의사항</strong></td></tr><tr><td>G/P <mark style="color:blue;">\[마비렛]</mark></td><td>1\~6</td><td>8주</td><td>Treatment-naive 비경변성 및 대상성 간경변증 모두 8주 가능 (EXPEDITION-8). 이전 치료 실패·특정 상황에서 12주 연장 (아래 박스 참조)</td></tr><tr><td>SOF/VEL <mark style="color:blue;">\[엡클루사]</mark></td><td>1\~6</td><td>12주</td><td>GT3 대상성 간경변증: NS5A RAS Y93H 검사 권고; Y93H 존재 시 체중 기준 ribavirin 추가 또는 다른 요법 선택</td></tr><tr><td>LED/SOF <mark style="color:blue;">\[하보니]</mark></td><td>1, 4, 5, 6</td><td>12주</td><td>6e 아형은 권장 안 함; GT1 비경변성 + 비HIV + HCV RNA &lt;600만 IU/mL: 8주 단축 가능</td></tr><tr><td>EBR/GZR <mark style="color:blue;">\[제파티어]</mark></td><td>1b, 4</td><td>12주</td><td>GT1a: 치료 전 NS5A RAS 검사 권고; RAS 존재 시 다른 요법 선택</td></tr><tr><td>SOF/VEL <mark style="color:blue;">\[엡클루사]</mark> + 체중 기준 ribavirin</td><td>3</td><td>12주</td><td>대상성 간경변증 + NS5A Y93 RAS 동반 시 적용 (ribavirin 불가 시: SOF/VEL/VOX 대안)</td></tr><tr><td>SOF/VEL/VOX <mark style="color:blue;">\[보세비]</mark></td><td>1\~6</td><td>12주</td><td>DAA 이전 치료 실패자; GT3 + 대상성 간경변증 + Y93 RAS 동반 시 대안</td></tr></tbody></table>
 
-* C형간염 환자의 별도 격리는 불필요 (일상생활에서 사람 사이 전파 가능성은 극히 낮음)
-* C형간염 항체 양성자는 C형간염 자연 회복 또는 만성 간염 진행 여부 확인을 위해 정기적인 진료 권고
+{% hint style="warning" %}
+**⚠️ G/P 치료 기간 — 8주와 12주의 차이**
 
-### 노출자 관리
+최신 가이드라인(AASLD/IDSA 2023)에서는 **treatment-naive 대상성 간경변증** 환자에서도 G/P <mark style="color:blue;">\[마비렛]</mark> **8주 치료가 가능하다** (EXPEDITION-8 trial 근거).\
+다만 다음 상황에서는 **12주 이상으로 연장**한다:
 
-* 현재 예방 백신 없음
-* 면역 글로불린은 효과 없음
+* 이전 치료 실패 (인터페론·ribavirin·sofosbuvir 기반 치료 경험)
+* 특정 유전자형·내성 상황
+* 보험 급여 기준에 따른 지역별 차이
+* 담당 전문의의 개별 판단
 
-#### 노출 후 조치
+→ 실무적으로는 **"대부분의 초치료 환자에서 8주 가능, 일부는 12주 연장"**으로 이해하는 것이 적절하다.
+{% endhint %}
 
-**C형간염 환자의 혈액에 노출된 경우**
+#### <mark style="color:$primary;">비대상성 간경변증 — Treatment naive</mark>
 
-* 노출 후 즉시 HCV Ab 및 혈청 ALT 검사 → HCV Ab(-) 시 4\~6주 후에 HCV RNA 검사 → 노출 4\~6개월 후에 HCV Ab 및 혈청 ALT 검사
+<table data-header-hidden><thead><tr><th width="230"></th><th width="95"></th><th width="75"></th><th></th></tr></thead><tbody><tr><td><strong>약제</strong></td><td><strong>유전형</strong></td><td><strong>기간</strong></td><td><strong>유의사항</strong></td></tr><tr><td>SOF/VEL <mark style="color:blue;">\[엡클루사]</mark> + 체중 기준 ribavirin</td><td>1\~6</td><td>12주</td><td>CTP class C : 저용량 ribavirin 600 ㎎으로 시작, 점진적 증량</td></tr><tr><td>SOF/VEL <mark style="color:blue;">\[엡클루사]</mark></td><td>1\~6</td><td>24주</td><td>ribavirin 사용 불가 시</td></tr><tr><td>LED/SOF <mark style="color:blue;">\[하보니]</mark> + 체중 기준 ribavirin</td><td>1, 4, 5, 6</td><td>12주</td><td>CTP class C : 저용량 ribavirin 600 ㎎으로 시작</td></tr><tr><td>LED/SOF <mark style="color:blue;">\[하보니]</mark></td><td>1, 4, 5, 6</td><td>24주</td><td>ribavirin 사용 불가 시</td></tr></tbody></table>
 
-**C형간염 환자의 혈액에 노출이 의심되는 경우**
+{% hint style="danger" %}
+**⚠️ NS3/4A 단백분해효소 억제제 (PI) 금기 : 비대상성 간경변증 (Child-Pugh B/C)**\
+G/P <mark style="color:blue;">\[마비렛]</mark>, EBR/GZR <mark style="color:blue;">\[제파티어]</mark>, SOF/VEL/VOX <mark style="color:blue;">\[보세비]</mark>, OPr <mark style="color:blue;">\[비키라]</mark>, ASV <mark style="color:blue;">\[순베프라]</mark> 등 **PI 함유 모든 DAA는 비대상성 간경변증에서 금기.** 중증 간독성·간부전 위험.
+{% endhint %}
 
-* 예) C형간염 유행 발생 의료기관 수진
+{% hint style="danger" %}
+**⚠️ HBV 재활성화 (HBV Reactivation) \[FDA Boxed Warning]**\
+DAA 치료 시 HBV 동반 감염(HBsAg+) 또는 과거 HBV 감염(HBsAg−/anti-HBc+)에서 **HBV 재활성화** 발생 가능 — 전격성 간부전 및 사망 사례 보고.\
+→ **DAA 치료 전 반드시** HBsAg, anti-HBs, anti-HBc 검사\
+→ HBsAg(+) : HBV 항바이러스 치료 병행\
+→ HBsAg(−)/anti-HBc(+) : DAA 치료 중 HBV DNA 및 간기능 모니터링
+{% endhint %}
+
+{% hint style="danger" %}
+**⚠️ 위산억제제·제산제와 SOF/VEL <mark style="color:blue;">\[엡클루사]</mark> 병용 주의**\
+Velpatasvir는 산성 환경에서 흡수가 증가하므로 위산을 억제하는 약물과 병용 시 **약물 농도가 감소하여 치료 효과가 저하**될 수 있다.\
+**약제별 영향 및 대처:**\
+• **PPI** (omeprazole, esomeprazole, pantoprazole 등) — 영향 가장 큼. 가능하면 중단 또는 최소 용량으로 감량; 불가피한 경우 SOF/VEL을 반드시 식사와 함께 복용하고 PPI는 4시간 후 복용\
+• **H₂ 수용체 길항제** (famotidine, ranitidine 등) — PPI보다 영향이 적음. 병용 시 SOF/VEL과 동시 복용 또는 10시간 이상 간격 유지 권고\
+• **제산제** (aluminum/magnesium hydroxide 등) — SOF/VEL 복용 전후 4시간 간격 유지 권고\
+✽G/P <mark style="color:blue;">\[마비렛]</mark>은 위산억제제의 영향이 상대적으로 적어 PPI 병용 환자에서 선호될 수 있다.
+{% endhint %}
+
+{% hint style="info" %}
+**중증 신기능 저하 (eGFR &lt;30 mL/min/1.73㎡) 및 투석 환자에서의 DAA 선택**\
+과거에는 sofosbuvir 대사체 축적 우려로 SOF 기반 요법 사용에 제한이 있었으나, 최근 연구 및 가이드라인에서는 중증 CKD 및 투석 환자에서도 SOF 기반 요법(SOF/VEL 등)의 안전성과 높은 SVR 달성률이 보고되고 있다. 다만 실제 임상에서는 경험 축적 및 사용 편의성 측면에서 **G/P <mark style="color:blue;">\[마비렛]</mark>이 흔히 우선 선택**된다.
+{% endhint %}
+
+### <mark style="color:orange;">치료 중 모니터링 및 순응도 관리</mark>
+
+{% hint style="info" %}
+**치료 초기 순응도 확인이 중요합니다**
+
+DAA 치료 기간이 8\~12주로 짧아진 만큼 매일 빠짐없는 복용이 SVR에 결정적이다. **치료 시작 후 1\~2주 차에 짧은 외래 방문 또는 전화 추적**을 통해 부작용 여부(두통, 피로, 오심 등), 약물 상호작용 이슈, 복약 순응도를 확인하는 것을 권장한다.
+{% endhint %}
+
+### <mark style="color:orange;">치료 중단자 관리</mark>
+
+#### <mark style="color:$primary;">투여 시작 28일 이전에 중단</mark>
+
+* ≤7일 중단 → 즉시 DAA 재개, 원래 계획대로 치료 기간 완료
+* ≥8일 중단 → 즉시 DAA 재개 + 가급적 빨리 HCV RNA 검사
+  * HCV RNA(−) → 치료 일정 완료 (GT3이면 4주 추가)
+  * HCV RNA(+, >25 IU/mL) 또는 검사 불가 → DAA 치료 4주 추가
+
+#### <mark style="color:$primary;">투여 시작 ≥28일 후 중단</mark>
+
+* ≤7일 중단 → 즉시 재개, 원래 계획대로 치료 기간 완료
+* 8\~20일 연속 중단 → 즉시 재개 + HCV RNA 검사
+  * HCV RNA(−) → 치료 일정 완료 (GT3이면 4주 추가)
+  * HCV RNA(+) 또는 검사 불가 → 치료 중단 → 재치료
+* ≥21일 연속 중단 → 치료 중단 + SVR12 평가; SVR12 미성취 시 재치료
+
+{% hint style="info" %}
+**Simplified HCV Tx 비적용 대상**
+
+이전 HCV 치료 병력, HBsAg(+), 비대상성 간경변증, 임신, HCC 진단·의심, 간 이식 수혜자,\
+중증 신질환 동반 시 : SOF 기반 요법 사용 주의 → **G/P <mark style="color:blue;">\[마비렛]</mark> 권고**
+{% endhint %}
+
+---
+
+## <mark style="color:green;">관리</mark>
+
+### <mark style="color:orange;">환자 관리</mark>
+
+* C형간염 환자의 별도 격리 불필요 (일상생활에서 사람 간 전파 가능성 극히 낮음)
+* HCV Ab 양성자 → HCV RNA 검사로 현재 감염 여부 확인 및 정기 추적 권고
+* **SVR 달성 후에도 고위험 행동 지속 시 재감염 가능** — SVR 달성은 면역 획득을 의미하지 않음
+  * 특히 정맥 주사 약물 사용자(PWID) 및 HIV 양성 남성 동성 간 성 접촉자(MSM)에서 재감염 위험 높음
+  * 지속 위험 행동 환자는 6\~12개월마다 HCV RNA 추적 권고
+
+### <mark style="color:orange;">노출자 관리</mark>
+
+* 현재 예방 백신 없음; 면역 글로불린 효과 없음
+
+#### <mark style="color:$primary;">C형간염 환자 혈액에 직접 노출된 경우</mark>
+
+1. 노출 즉시 → HCV Ab + 혈청 ALT 검사
+2. HCV Ab(−) → 4\~6주 후 HCV RNA 검사
+3. 노출 후 4\~6개월 → HCV Ab + ALT 재검
+
+#### <mark style="color:$primary;">C형간염 혈액 노출이 의심되는 경우</mark>
+
+* 예) C형간염 유행 발생 의료기관 수진자
 * HCV Ab 검사 → HCV Ab(+) 시 HCV RNA 등 추가 검사
 
-#### C형간염 산모에게 태어난 신생아
+### <mark style="color:orange;">C형간염 산모 출생 신생아</mark>
 
 * 생후 18개월 이후 HCV Ab 검사 시행
-* 조기 진단이 필요한 경우에는 출생 6개월 이후 HCV RNA 검사
+* 조기 진단이 필요한 경우 : 생후 6개월 이후 HCV RNA 검사
 
+---
 
-
-### **질병코드**&#x20;
+### <mark style="color:red;">질병코드</mark>
 
 B17.1 급성 C형간염
 
-B18.2 만성 바이러스C형간염
+B18.2 만성 바이러스 C형간염
+
+{% hint style="info" %}
+**DAA 급여 적용 원칙 (간략)**\
+항바이러스제(DAA) 급여는 일반적으로 HCV RNA 양성이 확인된 현재 감염 환자에게 적용된다. 세부 급여 기준(대상 질환코드, 유전자형, 투여 기간, 중증도 기준)은 심평원 고시에 따르며 변경될 수 있으므로 처방 전 확인이 필요하다.\
+✽급여 기준 확인 : [www.hira.or.kr](https://www.hira.or.kr) → 요양급여기준 → 약제 검색
+{% endhint %}
+
+---
+
+## <mark style="color:purple;">처방례</mark>
+
+> **처방례 1.** 비경변성·초치료·1차 표준 요법 (Pangenotypic)
+>
+> ```
+> 마비렛정 (글레카프레비르 100㎎/피브렌타스비르 40㎎)   3정   qd   식사와 함께   8주
+> ※ 매일 같은 시간, 반드시 음식과 함께 복용 (공복 복용 시 흡수 크게 저하)
+> ※ 소량의 식사(크래커·요구르트 등)도 가능
+> ※ 복용 중 타 약제 추가 시 반드시 의사·약사와 사전 확인 (약물 상호작용 다수)
+> ※ PPI(위산억제제) 병용 중이라면 식사와 함께 복용 더욱 중요
+> ※ 대상성 간경변증 초치료: 대부분 8주 가능 (이전 치료 실패 등 일부 상황에서 12주 연장)
+> ```
+>
+> _✽비경변성 초치료 환자의 표준 요법. 유전자형 확인 없이 사용 가능(pangenotypic). SVR 달성률 97\~99%._
+
+> **처방례 2.** 비경변성·초치료·대안 요법 (SOF/VEL)
+>
+> ```
+> 엡클루사정 (소포스부비르 400㎎/벨파타스비르 100㎎)   1정   qd   12주
+> ※ 식사 무관
+> ※ GT3 + 대상성 간경변증: NS5A RAS(Y93H) 검사 후 존재 시 ribavirin 추가 고려
+> ```
+>
+> _✽최근 연구에서 중증 CKD 및 투석 환자에서도 SOF 기반 요법의 안전성이 보고되고 있으나, 실무적으로는 G/P가 흔히 우선 선택된다. 임신 가능 여성에서 ribavirin 병용 시 반드시 이중 피임._
+
+> **처방례 3.** 비대상성 간경변증 (반드시 소화기내과 전문의 협진 후 처방)
+>
+> ```
+> 엡클루사정 (소포스부비르 400㎎/벨파타스비르 100㎎)   1정   qd   24주
+> [ribavirin 사용 가능한 경우: 코페가스 200㎎ 식후, 체중 기준 용량으로 12주 단축 가능]
+> ※ PI 함유 약제(마비렛·제파티어·보세비 등) 절대 금기
+> ※ 간기능 및 HCV RNA 정기 모니터링 필수
+> ※ CTP class C: ribavirin 600 ㎎부터 시작, 점진적 증량
+> ```
+>
+> _✽비대상성 간경변증 = 간 기능이 상당히 저하되어 복수·황달·의식 저하 등 합병증이 발생한 단계(Child-Pugh B/C). **간이식 적응증 여부 동시 평가 필수**. NS3/4A PI는 이 군에서 절대 금기._
+
+> **처방례 4.** SVR 달성 후 간경변증 환자 — 지속 모니터링 처방
+>
+> ```
+> 복부 초음파 검사                6개월마다
+> AFP (알파태아단백, 혈청)         6개월마다
+> ※ SVR 달성 = HCV 완치이나, 간섬유화·간경변증 자체는 잔존 → HCC 감시 필수
+> ※ 음주 등 추가 간독성 인자 여부 매 방문 시 확인
+> ```
+>
+> _✽**DAA로 HCV가 완치되어도 간경변증이 있다면 HCC 위험은 계속 존재합니다. 6개월마다 HCC 감시(간초음파 + AFP)를 평생 지속해야 합니다.** 간경변 역전은 가능하지만 수년이 소요되므로 단기간 내 감시 중단은 금합니다._
+
+---
+
+### <mark style="color:$success;">핵심 복약 지도</mark>
+
+> **복용 방법 — 특히 마비렛은 식사 필수**
+>
+> * **마비렛 <mark style="color:blue;">\[마비렛]</mark>** : 반드시 음식과 함께 복용. 공복 복용 시 흡수율이 크게 떨어져 치료 효과가 감소합니다. 매일 같은 시간에 복용하는 것이 중요합니다.
+> * **엡클루사 <mark style="color:blue;">\[엡클루사]</mark>** : 식사와 무관하게 복용 가능합니다.
+> * 복용을 잊은 경우 : 같은 날 생각났다면 즉시 복용; 다음 날 생각났다면 건너뛰고 원래 일정대로 복용 (절대로 두 배로 복용하지 마십시오).
+
+> **약물 상호작용 — 매우 중요합니다**
+>
+> * DAA는 다른 여러 약물과 심각한 상호작용이 있습니다:
+>   * **병용 금기** : 아미오다론(심장 부정맥 약), 리팜피신(항결핵약), 카르바마제핀·페니토인(항경련제), 일부 스타틴(로수바스타틴 등), 세인트존스워트(건강보조제)
+>   * 복용 중인 **모든 약(한약, 건강기능식품 포함)을 반드시 의사·약사에게 알려주십시오.**
+> * 약물 상호작용 온라인 확인 : [www.hep-druginteractions.org](https://www.hep-druginteractions.org)
+
+> **치료 기간 및 완치 확인**
+>
+> * C형간염 DAA는 **완치를 목표로 하는 치료**입니다.
+> * 치료 기간이 짧고(8\~12주) 부작용이 적어 대부분 잘 완료됩니다.
+> * **치료 종료 후 12주 시점의 HCV RNA 검사(SVR12)**가 완치 확인의 필수 단계입니다. 이 방문을 빠지지 않도록 강조하십시오.
+> * 완치 후에도 **HCV 항체(HCV Ab)는 혈액 검사에서 계속 양성**으로 나옵니다 — 이것은 정상적인 면역 흔적이며 재감염을 의미하지 않습니다.
+
+> **부작용 안내**
+>
+> * 일반적으로 내약성이 좋습니다. 주요 부작용 : 두통, 피로, 오심 (대부분 경미하고 치료 중단이 불필요한 수준)
+> * 다음 증상 발생 시 즉시 내원하도록 안내하십시오 : 황달(눈이나 피부가 노란색으로 변함), 심한 피로, 짙은 갈색 소변, 심한 복통
+
+> **생활 수칙**
+>
+> * 치료 중 **금주**를 권고합니다. 알코올은 간에 추가적인 손상을 줍니다.
+> * 가족·타인과 면도기, 칫솔, 손톱깎이 등 개인위생 용품을 **공유하지 마십시오.**
+> * 성 접촉 시 콘돔 사용을 권장합니다.
+
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 치료 중 황달, 심한 복통, 의식 변화 → **즉시 내원**
+> * **치료 종료 후 12주** → HCV RNA 검사(SVR12 확인) **필수 방문**
+> * 간경변증이 있는 경우 → SVR 달성 후에도 **6개월마다** 간초음파 + AFP 검사
+
+---
+
+### <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**C형간염, 이제는 완치할 수 있는 질환입니다**
+
+C형간염은 C형간염 바이러스(HCV)가 혈액을 통해 전파되는 간질환입니다. 과거에는 치료가 어려웠지만, 지금은 먹는 약(DAA)으로 8\~12주 치료만으로 거의 대부분(95% 이상) 완치가 가능합니다.
+{% endhint %}
+
+#### <mark style="color:$primary;">C형간염은 왜 생기나요?</mark>
+
+* C형간염 바이러스는 **혈액을 통해서만 전염**됩니다.
+* 주된 경로 : 오염된 주사기 재사용, 비위생적인 문신·피어싱·침술, 1990년 이전 수혈
+* 일상생활 — 같은 그릇 사용, 악수, 포옹, 기침, 재채기로는 **전염되지 않습니다.**
+* 감염 후 수십 년간 아무런 증상이 없을 수 있어 "침묵의 질환"이라고도 합니다. 증상이 없어도 간 손상은 서서히 진행될 수 있습니다.
+
+#### <mark style="color:$primary;">치료는 어떻게 하나요?</mark>
+
+* 현재 표준 치료는 **경구 DAA(먹는 항바이러스제)**입니다. 과거 인터페론 주사와 달리 부작용이 훨씬 적습니다.
+* 치료 기간은 8\~12주이며, **치료 종료 후 12주에 혈액 검사로 완치 여부를 확인**합니다.
+* 치료 중 가장 중요한 것은 **매일 빠짐없이 약을 복용**하는 것입니다.
+* **마비렛은 반드시 음식과 함께 드십시오** (공복에 복용하면 약이 제대로 흡수되지 않습니다).
+
+#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+
+* 🚫 **금주하십시오** : 술은 간에 추가 손상을 주어 간경변증 진행을 빠르게 합니다.
+* 🩸 **개인위생 용품을 따로 사용하십시오** : 면도기, 칫솔, 손톱깎이는 각자 사용하십시오.
+* 💉 **예방 접종을 받으십시오** : A형간염과 B형간염 항체가 없다면 예방 접종을 권장합니다.
+* ⚖️ **체중을 관리하십시오** : 비만은 간질환 진행을 악화시킵니다.
+
+#### <mark style="color:$primary;">완치 후에도 주의할 점이 있나요?</mark>
+
+* **완치 후에도 혈액 검사에서 C형간염 항체(HCV Ab)가 양성**으로 나올 수 있습니다 — 이것은 면역 흔적이며 재감염이 아닙니다.
+* **간경변증이 있다면 완치 후에도 6개월마다 간초음파와 AFP 검사를 평생 지속해야 합니다.** C형간염이 완치되어도 간경변증 자체가 남아 있는 한 간암 위험은 계속 존재합니다.
+* **완치는 면역을 의미하지 않습니다** — 오염된 주사기 재사용 등 위험한 행동을 반복하면 **다시 감염될 수 있습니다.** 완치 후에도 위험 행동을 피하십시오.
+
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+
+* 눈이나 피부가 노랗게 변하는 경우 (황달)
+* 갑자기 심한 복통 또는 배가 급격히 불러오는 경우
+* 의식이 흐려지거나 말이 어눌해지는 경우
+* 피를 토하거나 검은색 변이 나오는 경우
