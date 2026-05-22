@@ -183,6 +183,63 @@ class E,G white
 
 <p align="center"><em><mark style="color:$info;">Ref. EAES Diagnosis and management of acute appendicitis. Surg Endosc 2016;30(11). Fig 2.</mark></em></p>
 
+
+
+```mermaid
+graph TD
+
+B(["임상적 평가 및 <br/>기본 생화학적 검사.<br/>Alvarado Score"])
+C0["≥9: 높은 가능성"]
+C1["4~8: 중간 가능성"]
+C2["<4: 낮은 가능성"]
+D["초음파"]
+D1["충수돌기염 진단"]
+D2["충수돌기염 배제"]
+E["진단 안 됨"]
+F["추가 영상 검사<br/>(MRI or CT)"]
+G["진단 안 됨"]
+H["관찰 및 재평가"]
+J0["≥9: 높은 가능성"]
+J1["4~8: 중간 가능성"]
+J2["<4: 낮은 가능성"]
+K["진단적 복강경 검사"]
+L0["임상 소견·환자·<br/>충수염 유형에 따른 치료"]
+L1["임상 소견·환자·<br/>충수염 유형에 따른 치료"]
+L2["임상 소견·환자·<br/>충수염 유형에 따른 치료"]
+M0["다른 질환 고려"]
+M1["다른 질환 고려"]
+M2["다른 질환 고려"]
+
+B --> C0 --> L1
+B --> C1 --> D
+B --> C2 --> M1
+C0 -.-> D
+D --> D1
+F --> D1
+D1 --> L0
+D --> E --> F --> G ---> H
+D --> D2
+F --> D2
+D2 --> M0
+H --> J0 --> L2
+H --> J1 --> K
+H --> J2 --> M2
+
+style B fill:#eeeeee,stroke:#888888,stroke-width:2px
+ classDef blue fill:#d0e8ff,stroke:#1a6abf
+class L0,L1,L2 blue
+classDef orange50 fill:#fff3e0,stroke:#e65100
+class M0,M1,M2,D2 orange50
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class D1 pink
+classDef green fill:#d5f5e3,stroke:#27ae60
+class B,K,D,F green
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class C0,C1,C2,J0,J1,J2 yellow
+classDef white fill:#fff,stroke:#333
+class E,G white
+```
+
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
