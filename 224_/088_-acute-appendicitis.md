@@ -95,131 +95,88 @@
 
 <table><thead><tr><th width="310">Clinical Variable</th><th width="111" align="center">Alvarado</th><th width="112" align="center">PAS (소아)</th></tr></thead><tbody><tr><td>우하복부로의 통증 부위 이동</td><td align="center">1</td><td align="center">1</td></tr><tr><td>식욕 부진</td><td align="center">1</td><td align="center">1</td></tr><tr><td>구역·구토</td><td align="center">1</td><td align="center">1</td></tr><tr><td>우하복부 압통</td><td align="center">2</td><td align="center">2</td></tr><tr><td>우하복부 반동 압통</td><td align="center">1</td><td align="center">-</td></tr><tr><td>체온 상승 (성인 ＞37.3℃, 소아 ＞38.0℃)</td><td align="center">1</td><td align="center">1</td></tr><tr><td>백혈구증가증 (≥10,000/㎕)</td><td align="center">2</td><td align="center">1</td></tr><tr><td>핵 좌방 이동 (neutrophilia ≥75%)</td><td align="center">1</td><td align="center">1</td></tr><tr><td>기침·타진 또는 발뒤꿈치 낙하 시 통증 유발 (heel drop/Markle sign)</td><td align="center">-</td><td align="center">2</td></tr><tr><td><strong>합계</strong></td><td align="center"><strong>10</strong></td><td align="center"><strong>10</strong></td></tr></tbody></table>
 
-*
-* 성인에서 Appendicitis Inflammatory Response score (AIR score)도 활용도가 높으며, WBC·CRP·체온·통증 이동·반동 압통·복근 경직 등 7개 항목으로 구성됨 (0\~12점; ≥9 → 수술 권장)
+* 성인에서 **Appendicitis Inflammatory Response score** (AIR score)도 활용도가 높으며, WBC·CRP·체온·통증 이동·반동 압통·복근 경직 등 7개 항목으로 구성됨 (0\~12점; ≥9 → 수술 권장)
 
 ### <mark style="color:orange;">검사</mark>
 
-* **실험실 검사** : CBC (WBC 1\~2만, neutrophilia), 전해질, 간기능, CRP, 소변검사 (¼에서 혈뇨·농뇨); 가임기 여성 **β-hCG 필수** (자궁외임신 감별)
-* **영상 검사**
+#### <mark style="color:$primary;">실험실 검사</mark>
 
-<table><thead><tr><th width="120">검사</th><th width="180">민감도/특이도</th><th>비고</th></tr></thead><tbody><tr><td>복부 CT (조영)</td><td>~95% / ~95%</td><td>표준 검사; 임신·소아에서는 방사선 피폭 고려</td></tr><tr><td>MRI</td><td>~95% / ~95%</td><td>특히 임신부·소아에서 높은 진단 정확도; CT의 유효한 대안. 비용·시간 높음, availability 제한</td></tr><tr><td>초음파</td><td>60~90% / ~95%</td><td>1차 영상 검사 가능; operator-dependent (숙련도에 따라 민감도 편차 큼), 비만·가스 장애 시 제한.<br>핵심 소견 : 압박 불가능한 직경 ≥6 ㎜ 충수, 벽 두께 ≥3 ㎜, 충수 주위 지방층 음영 증가 (hyperechoic periappendiceal fat)</td></tr></tbody></table>
+* CBC (WBC 1\~2만, neutrophilia), 전해질, 간기능, CRP, 소변검사 (¼에서 혈뇨·농뇨)
+* 가임기 여성 β-hCG 필수 (자궁외임신 감별)
 
-{% hint style="info" %}
-**소아·임신 충수염 영상 전략**\
-소아와 임산부에서는 방사선 피폭을 최소화하기 위해 초음파를 1차 검사로 시행하고, 비진단적일 때 MRI로 진행한다. CT는 MRI가 불가하거나 응급 상황에서 차선으로 사용한다 (WSES Guidelines 2020).
-{% endhint %}
+#### <mark style="color:$primary;">영상 검사</mark>
 
-### <mark style="color:orange;">감별 진단</mark>
+<table><thead><tr><th width="89">검사</th><th width="127">민감도/특이도</th><th>비고</th></tr></thead><tbody><tr><td>복부 CT (조영)</td><td>~95% <br>/ ~95%</td><td>표준 검사; 임신·소아에서는 방사선 피폭 고려</td></tr><tr><td>MRI</td><td>~95% <br>/ ~95%</td><td>특히 임신부·소아에서 높은 진단 정확도; CT의 유효한 대안. 비용·시간 높음, availability 제한</td></tr><tr><td>초음파</td><td>60~90% <br>/ ~95%</td><td>1차 영상 검사 가능; operator-dependent (숙련도에 따라 민감도 편차 큼), 비만·가스 장애 시 제한.<br>핵심 소견 : 압박 불가능한 직경 ≥6 ㎜ 충수, 벽 두께 ≥3 ㎜, 충수 주위 지방층 음영 증가 (hyperechoic periappendiceal fat)</td></tr></tbody></table>
 
 {% hint style="info" %}
-**실전 감별 - 5분 안에 배제할 핵심 포인트**
+**소아·임신 충수염 영상 전략** : 소아와 임산부에서는 방사선 피폭을 최소화하기 위해 초음파를 1차 검사로 시행하고, 비진단적일 때 MRI로 진행. CT는 MRI가 불가하거나 응급 상황에서 차선으로 사용 (WSES Guidelines 2020)
 {% endhint %}
 
-<table><thead><tr><th width="185">질환</th><th width="220">결정적 감별 포인트</th><th>핵심 검사</th></tr></thead><tbody><tr><td>Renal colic</td><td>극심한 허리→서혜부 방사통; 가만히 못 있음(restless)</td><td>소변 혈뇨, CT</td></tr><tr><td>Gastroenteritis</td><td>구역·구토·설사가 복통보다 먼저; 광범위 통증</td><td>임상 진단</td></tr><tr><td>Ovarian torsion</td><td>갑작스럽고 심한 통증과 동시에 현저한 구토</td><td>골반 초음파</td></tr><tr><td>Ectopic pregnancy</td><td>무월경 또는 불규칙 월경 병력</td><td>β-hCG 즉시 시행</td></tr><tr><td>Ovarian cyst rupture</td><td>월경 주기 중간 갑작스러운 통증; WBC 정상</td><td>골반 초음파</td></tr></tbody></table>
+### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="210">질환</th><th>감별 포인트</th></tr></thead><tbody><tr><td>Enteritis (감염성)</td><td>복통보다 구역·구토·설사 먼저; 소화불량·복부 팽만</td></tr><tr><td>Epiploic appendagitis</td><td>이동 없는 국소 복통·압통; 소화기 증상 없음; 실험실 정상</td></tr><tr><td>Mesenteric adenitis</td><td>최근 상기도 감염(감기) 병력 흔함; 발열·WBC 상승 동반 가능; RLQ 압통 위치가 고정되지 않고 체위에 따라 변화 (Sharpen's sign)</td></tr><tr><td>Pyelonephritis</td><td>심한 옆구리 통증, 고열; 농뇨·세균뇨; 복부 경직 없음</td></tr><tr><td>Renal colic</td><td>심한 허리·하복부 통증, 서혜부 방사통; 혈뇨; 발작성</td></tr><tr><td>급성 췌장염</td><td>심한 구토; 압통 국소화 어려움; amylase·lipase 상승</td></tr><tr><td>Crohn disease</td><td>증상 반복; 설사 흔함; 관절·피부·안구 장외 증상</td></tr><tr><td>Cholecystitis</td><td>우상복부 통증·발열; 우측 어깨 방사통; LFT·bilirubin 상승</td></tr><tr><td>Meckel diverticulitis</td><td>무증상 출혈 후 복통; 임상 소견으로 충수염과 구별 어려움</td></tr><tr><td>Cecal diverticulitis</td><td>증상 더 경미하고 오래 지속; 임상 소견으로 구별 어려움</td></tr><tr><td>Sigmoid diverticulitis</td><td>고령 흔함; 배변 습관 변화; 치골 상부 방사통; 발열·WBC 상승</td></tr><tr><td>Small bowel obstruction</td><td>복부 수술 병력; 심한 발작성 복통; 담즙성 구토·복부 팽만</td></tr><tr><td>Ectopic pregnancy</td><td>불규칙 월경; 구역·구토 드묾; β-hCG 양성</td></tr><tr><td>Ruptured ovarian cyst</td><td>월경 주기 중간 갑작스러운 복통; WBC 정상</td></tr><tr><td>Ovarian torsion</td><td>심한 구토와 복통이 동시 발생; 복부·골반 종괴</td></tr><tr><td>Acute salpingitis/TOA</td><td>하복부에서 시작하는 지속 복통; 성병 병력; 질 분비물; 자궁경부 압통</td></tr></tbody></table>
+<table><thead><tr><th width="180">질환</th><th width="251">결정적 감별 포인트</th><th>핵심 검사</th></tr></thead><tbody><tr><td>Renal colic</td><td>극심한 허리→서혜부 방사통; 가만히 못 있음(restless)</td><td>소변 혈뇨, CT</td></tr><tr><td>Gastroenteritis</td><td>구역·구토·설사가 복통보다 먼저; 광범위 통증</td><td>임상 진단</td></tr><tr><td>Ovarian torsion</td><td>갑작스럽고 심한 통증과 동시에 현저한 구토</td><td>골반 초음파</td></tr><tr><td>Ectopic pregnancy</td><td>무월경 또는 불규칙 월경 병력</td><td>β-hCG 즉시 시행</td></tr><tr><td>Ovarian cyst rupture</td><td>월경 주기 중간 갑작스러운 통증; WBC 정상</td><td>골반 초음파</td></tr></tbody></table>
+
+<table><thead><tr><th width="191">질환</th><th>감별 포인트</th></tr></thead><tbody><tr><td>Enteritis (감염성)</td><td>복통보다 구역·구토·설사 먼저; 소화불량·복부 팽만</td></tr><tr><td>Epiploic appendagitis</td><td>이동 없는 국소 복통·압통; 소화기 증상 없음; 실험실 정상</td></tr><tr><td>Mesenteric adenitis</td><td>최근 상기도 감염(감기) 병력 흔함; 발열·WBC 상승 동반 가능; RLQ 압통 위치가 고정되지 않고 체위에 따라 변화 (Sharpen's sign)</td></tr><tr><td>Pyelonephritis</td><td>심한 옆구리 통증, 고열; 농뇨·세균뇨; 복부 경직 없음</td></tr><tr><td>Renal colic</td><td>심한 허리·하복부 통증, 서혜부 방사통; 혈뇨; 발작성</td></tr><tr><td>급성 췌장염</td><td>심한 구토; 압통 국소화 어려움; amylase·lipase 상승</td></tr><tr><td>Crohn disease</td><td>증상 반복; 설사 흔함; 관절·피부·안구 장외 증상</td></tr><tr><td>Cholecystitis</td><td>우상복부 통증·발열; 우측 어깨 방사통; LFT·bilirubin 상승</td></tr><tr><td>Meckel diverticulitis</td><td>무증상 출혈 후 복통; 임상 소견으로 충수염과 구별 어려움</td></tr><tr><td>Cecal diverticulitis</td><td>증상 더 경미하고 오래 지속; 임상 소견으로 구별 어려움</td></tr><tr><td>Sigmoid diverticulitis</td><td>고령 흔함; 배변 습관 변화; 치골 상부 방사통; 발열·WBC 상승</td></tr><tr><td>Small bowel obstruction</td><td>복부 수술 병력; 심한 발작성 복통; 담즙성 구토·복부 팽만</td></tr><tr><td>Ectopic pregnancy</td><td>불규칙 월경; 구역·구토 드묾; β-hCG 양성</td></tr><tr><td>Ruptured ovarian cyst</td><td>월경 주기 중간 갑작스러운 복통; WBC 정상</td></tr><tr><td>Ovarian torsion</td><td>심한 구토와 복통이 동시 발생; 복부·골반 종괴</td></tr><tr><td>Acute salpingitis/TOA</td><td>하복부에서 시작하는 지속 복통; 성병 병력; 질 분비물; 자궁경부 압통</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    %% 메인 흐름
-    Start["임상적 평가 및 기본 생화학적 검사<br/>충수돌기염 의심"]
-    Alvarado1{"Alvarado Score"}
-    
-    Start --> Alvarado1
 
-    %% Alvarado Score 1차 분류
-    High1["≥7: 높은 가능성<br/>영상 확인 + 외과 협진"]
-    Mid1["4~6: 보통 가능성"]
-    Low1["≤3: 낮은 가능성"]
+A(["임상적 평가 및 <br/>기본 생화학적 검사"])
+A1["충수돌기염 의심"]
+B["Alvarado Score"]
+C0["≥7: 높은 가능성<br/>영상 확인 + 외과 협진"]
+C1["4~6: 보통 가능성"]
+C2["≤3: 낮은 가능성"]
+D["초음파"]
+D1["충수돌기염 진단"]
+D2["충수돌기염 배제"]
+E["진단 안 됨"]
+F["추가 영상 검사<br/>MRI or CT"]
+G["진단 안 됨"]
+H["관찰 및 재평가"]
+I["Alvarado Score"]
+J0["≥7: 높은 가능성"]
+J1["4~6: 보통 가능성"]
+J2["≤3: 낮은 가능성"]
+K["복강경 검사"]
+L0["수술적 절제"]
+L1["수술적 절제"]
+L2["수술적 절제"]
+M0["다른 질환 고려"]
+M1["다른 질환 고려"]
+M2["다른 질환 고려"]
 
-    Alvarado1 --> High1
-    Alvarado1 --> Mid1
-    Alvarado1 --> Low1
+A --> A1 --> B 
+B --> C0 --> L1
+B --> C1 --> D 
+B --> C2 --> M1
+D --> D1 
+F --> D1
+D1 --> L0
+D --> E --> F --> G --> H --> I
+D --> D2 
+F --> D2
+D2 --> M0
+I --> J0 --> L2
+I --> J1 --> K
+I --> J2 --> M2
 
-    %% 초음파 단계
-    US["초음파"]
-    Mid1 --> US
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef orange fill:#fdebd0,stroke:#e67e22
+class L0,L1,L2 orange
+classDef orange50 fill:#fff3e0,stroke:#e65100
+class M0,M1,M2 orange50
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class D1,D2 pink
+classDef green fill:#d5f5e3,stroke:#27ae60
+class B,I,K,D,F green
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class C0,C1,C2,J0,J1,J2 yellow
+classDef white fill:#fff,stroke:#333
+class E,G white
 
-    US_Dx["충수돌기염 진단"]
-    US_Incon["진단 안 됨"]
-    US_Ex["충수돌기염 배제"]
-
-    US --> US_Dx
-    US --> US_Incon
-    US --> US_Ex
-
-    %% 추가 영상 검사 단계
-    AddImg["추가 영상 검사<br/>MRI or CT"]
-    US_Incon --> AddImg
-
-    Img_Dx["충수돌기염 진단"]
-    Img_Incon["진단 안 됨"]
-    Img_Ex["충수돌기염 배제"]
-
-    AddImg --> Img_Dx
-    AddImg --> Img_Incon
-    AddImg --> Img_Ex
-
-    %% 관찰 및 재평가 단계
-    Obs["관찰 및 재평가"]
-    Alvarado2{"Alvarado Score"}
-    
-    Img_Incon --> Obs
-    Obs --> Alvarado2
-
-    %% Alvarado Score 2차 분류 및 최종 조치
-    High2["≥7: 높은 가능성"]
-    Mid2["4~6: 보통 가능성"]
-    Low2["≤3: 낮은 가능성"]
-
-    Alvarado2 --> High2
-    Alvarado2 --> Mid2
-    Alvarado2 --> Low2
-
-    Surgery["수술적 절제"]
-    Laparoscopy["복강경 검사"]
-    OtherDx["다른 질환 고려"]
-
-    High2 --> Surgery
-    Mid2 --> Laparoscopy
-    Low2 --> OtherDx
-
-    %% 사이드 라인 연결
-    High1 --> Surgery
-    US_Dx --> Surgery
-    Img_Dx --> Surgery
-
-    Low1 --> OtherDx
-    US_Ex --> OtherDx
-    Img_Ex --> OtherDx
-
-    %% 스타일
-    style Start fill:#E6E6FA,stroke:#B0C4DE,stroke-width:1px
-
-    style High1 fill:#FFFACD,stroke:#F0E68C,stroke-width:1px
-    style Mid1 fill:#FFFACD,stroke:#F0E68C,stroke-width:1px
-    style Low1 fill:#FFFACD,stroke:#F0E68C,stroke-width:1px
-    style US_Incon fill:#FFFACD,stroke:#F0E68C,stroke-width:1px
-    style Img_Incon fill:#FFFACD,stroke:#F0E68C,stroke-width:1px
-    style High2 fill:#FFFACD,stroke:#F0E68C,stroke-width:1px
-    style Mid2 fill:#FFFACD,stroke:#F0E68C,stroke-width:1px
-    style Low2 fill:#FFFACD,stroke:#F0E68C,stroke-width:1px
-
-    style US fill:#F0FFF0,stroke:#98FB98,stroke-width:1px
-    style AddImg fill:#F0FFF0,stroke:#98FB98,stroke-width:1px
-    style Laparoscopy fill:#F0FFF0,stroke:#98FB98,stroke-width:1px
-
-    style US_Dx fill:#FFE4E1,stroke:#FFB6C1,stroke-width:1px
-    style US_Ex fill:#FFE4E1,stroke:#FFB6C1,stroke-width:1px
-    style Img_Dx fill:#FFE4E1,stroke:#FFB6C1,stroke-width:1px
-    style Img_Ex fill:#FFE4E1,stroke:#FFB6C1,stroke-width:1px
-    style OtherDx fill:#FFE4E1,stroke:#FFB6C1,stroke-width:1px
-
-    style Obs fill:#F0F8FF,stroke:#B0C4DE,stroke-width:1px
-    style Surgery fill:#F0F8FF,stroke:#B0C4DE,stroke-width:1px
 ```
 
 <p align="center"><strong>충수돌기염 진단 알고리듬</strong></p>
