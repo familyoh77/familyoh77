@@ -41,9 +41,9 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 이송**</mark>&#x20;
+<mark style="color:$danger;">**즉각 조치 또는 이송**</mark>
 
-* 빈맥, 저혈압, 실신, 창백 - 대량 직장 출혈 + 혈역학적 불안정&#x20;
+* 빈맥, 저혈압, 실신, 창백 - 대량 직장 출혈 + 혈역학적 불안정
 * 환원 불가한 탈출 + 극심한 통증 + 괴사 징후 (자색 변색, 악취) → 감돈 치핵 (incarcerated hemorrhoid)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
@@ -74,48 +74,42 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="131.05267333984375">감별 질환</th><th width="275.26318359375">시사하는 소견</th><th>특징적 진찰 소견</th></tr></thead><tbody><tr><td>항문 열창</td><td>배변 시 출혈 + 극심한 통증</td><td>항문 후벽 점막 열상; DRE 시 통증으로 시행 어려움</td></tr><tr><td>항문 주위 농양</td><td>서서히 진행하는 박동성 통증 + 발열</td><td>항문 주위 피부 압통, 발적, 파동</td></tr><tr><td>항문직장암 / <br>대장암</td><td>혈변, 체중 감소, 복통, 배변 습관 변화, 가족력</td><td>복부 종괴 또는 압통; 대장내시경 필수</td></tr><tr><td>IBD</td><td>전신 증상, 반복되는 복통·설사, IBD 가족력</td><td>항문 병변(누공, 피부꼬리) 동반 가능; 대장내시경 필수</td></tr><tr><td>항문 콘딜로마</td><td>비출혈성 항문 종괴, 항문 성교력</td><td>배추꽃(cauliflower) 모양 병소</td></tr><tr><td>직장 탈출증</td><td>탈출 병변이 전체 직장벽 포함</td><td>동심원 주름(concentric folds); 방사상 주름인 치핵 탈출과 구별</td></tr><tr><td>항문 skin tag</td><td>출혈 없음; 연성 피부 돌출</td><td>피부로 덮인 부드러운 돌기; 무증상</td></tr></tbody></table>
-
-***
+<table><thead><tr><th width="131.05267333984375">감별 질환</th><th width="275.26318359375">시사하는 소견</th><th>특징적 진찰 소견</th></tr></thead><tbody><tr><td>항문 열창</td><td>배변 시 출혈 + 극심한 통증</td><td>항문 후벽 점막 열상; DRE 시 통증으로 시행 어려움</td></tr><tr><td>항문 주위 농양</td><td>서서히 진행하는 박동성 통증 + 발열</td><td>항문 주위 피부 압통, 발적, 파동</td></tr><tr><td>항문직장암 /<br>대장암</td><td>혈변, 체중 감소, 복통, 배변 습관 변화, 가족력</td><td>복부 종괴 또는 압통; 대장내시경 필수</td></tr><tr><td>IBD</td><td>전신 증상, 반복되는 복통·설사, IBD 가족력</td><td>항문 병변(누공, 피부꼬리) 동반 가능; 대장내시경 필수</td></tr><tr><td>항문 콘딜로마</td><td>비출혈성 항문 종괴, 항문 성교력</td><td>배추꽃(cauliflower) 모양 병소</td></tr><tr><td>직장 탈출증</td><td>탈출 병변이 전체 직장벽 포함</td><td>동심원 주름(concentric folds); 방사상 주름인 치핵 탈출과 구별</td></tr><tr><td>항문 skin tag</td><td>출혈 없음; 연성 피부 돌출</td><td>피부로 덮인 부드러운 돌기; 무증상</td></tr></tbody></table>
 
 ```mermaid
 graph TD
     A([항문 출혈 / 항문 종괴 / 불편감]) --> B{Red Flags 확인}
-
-    B -->|감돈·괴사·혈역학 불안정| C([즉각 응급 의뢰])
-    B -->|혈전성 외치핵 72h 이내\n항문 주위 농양 의심| D([당일 외과 의뢰])
+    B -->|감돈·괴사·혈역학 불안정| C[즉각 응급 의뢰]
+    B -->|혈전성 외치핵 72h 이내<br/>항문 주위 농양 의심| D[당일 외과 의뢰]
     B -->|해당 없음| E[DRE + 항문경 검사]
-
-    E --> P{주요 증상 유형}
-
-    P -->|통증 dominant| Q{감별 진단}
-    P -->|출혈 dominant| R[Grade I–II 추정\n식이섬유 + MPFF ± 국소제]
-    P -->|탈출 dominant| F{내치핵 Grade}
-
-    Q -->|혈전성 외치핵\n72h 초과| G[보존적 치료\n진통제 + 국소제 + 좌욕]
-    Q -->|fissure / 농양 의심| S([외과 의뢰])
-
-    R --> K{4~6주 후 평가}
+    E --> P[주요 증상 유형]
+    P -->|통증 dominant| Q[감별 진단]
+    P -->|출혈 dominant| R[Grade I–II 추정<br/>식이섬유 + MPFF ± 국소제]
+    P -->|탈출 dominant| F[내치핵 Grade]
+    Q -->|fissure / 농양 의심| S[외과 의뢰]
+    Q -->|혈전성 외치핵<br/>72h 초과| G[보존적 치료<br/>진통제 + 국소제 + 좌욕]
+    R --> K[4~6주 후 평가]
     G --> K
-
-    F -->|Grade I–II| H[보존적 치료\n식이섬유 · 국소제 · MPFF]
-    F -->|Grade III| I[최소 침습 시술 의뢰\n보존적 병행]
-    F -->|Grade IV| J([수술 의뢰])
-
+    F -->|Grade I–II| H[보존적 치료<br/>식이섬유 · 국소제 · MPFF]
+    F -->|Grade III| I[최소 침습 시술 의뢰<br/>보존적 병행]
+    F -->|Grade IV| J[수술 의뢰]
     H --> K
-    K -->|호전| L[유지 치료\n재발 예방 교육]
-    K -->|미호전| M{대장내시경 적응증?}
-
-    M -->|선별검사 적응 연령\n또는 위험인자| N[대장내시경 의뢰]
+    K -->|호전| L[유지 치료<br/>재발 예방 교육]
+    K -->|미호전| M[대장내시경 적응증?]
+    M -->|선별검사 적응 연령<br/>또는 위험인자| N[대장내시경]
     M -->|해당 없음| I
 
-    style C fill:#f44336,stroke:#c62828,stroke-width:2px,color:#fff
-    style D fill:#ff9800,stroke:#e65100,stroke-width:2px
-    style S fill:#ff9800,stroke:#e65100,stroke-width:2px
-    style J fill:#ff9800,stroke:#e65100,stroke-width:2px
-    style A fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
-    style P fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style L fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,P,Q,F,K,M yellow
+classDef L_red fill:#ffcdd2,stroke:#c62828
+class C,D,S,J L_red
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class G,R,H sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class L,I blue
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class E,N lightGreen
 ```
 
 <p align="center"><strong>치핵 진단 및 치료 알고리듬 (1차 의료 관점)</strong></p>
@@ -125,14 +119,6 @@ graph TD
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
-
-{% hint style="info" %}
-**단계별 치료 전략 (Grade 기반)**
-
-Grade I–II : 보존적 치료 (식이 조절 + 국소제 + 필요시 diosmin) → 4\~6주 내 대부분 호전\
-Grade III : 보존적 치료 실패 시 최소 침습 시술(rubber band ligation 등) 의뢰\
-Grade IV · 수술 적응증 : 외과 의뢰
-{% endhint %}
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -188,8 +174,6 @@ Grade IV · 수술 적응증 : 외과 의뢰
 * 외치핵 혈전 형성 시 부종·통증 완화 목적으로 단기 사용 가능
 * 짧은 시간(10분 이내) 사용; 동상 및 피부 손상 주의; 직접 접촉 금지(천으로 싸서 사용)
 
-***
-
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">국소제 (Topical Agents)</mark>
@@ -210,7 +194,7 @@ Grade IV · 수술 적응증 : 외과 의뢰
 * Anesthetics(lidocaine 등) : 장기 사용 시 알레르기성 접촉성 피부염 유발 가능 → 오히려 가려움·발적 악화
 * 위 두 가지 이유로 국소제 전반을 2주 이내 사용하는 것을 권고함
 
-**용법**&#x20;
+**용법**
 
 * 1일 2회 병소에 직접 적용
 * 대부분 복합제로 시판 (대부분 비급여)
@@ -223,7 +207,7 @@ Grade IV · 수술 적응증 : 외과 의뢰
 * diosmin : 식물에서 추출되는 flavonoid 계열의 물질; FDA 미승인
   * diosmin 300 ㎎ : <mark style="color:blue;">\[치센]</mark> 1T bid, 재발 또는 악화 시에는 1일 4T\~6T까지 투여 가능
   * MPFF( micronized purified flavonoid fraction) 500 ㎎ (diosmin 450 ㎎ + hesperidin 50 ㎎); <mark style="color:blue;">\[베니톨]</mark> 3T bid × 4일 → 2T bid × 3일
-* 임부 투여 금기 *️**&#x20;
+* 임부 투여 금기 _️_\*
 
 ### <mark style="color:orange;">진통제</mark>
 
@@ -233,7 +217,7 @@ Grade IV · 수술 적응증 : 외과 의뢰
 
 ### <mark style="color:orange;">변비 치료 (동반 시)</mark>
 
-* 1차 선택 : 식이 섬유 보충제 (Bulk-forming laxative) - 변의 부피 증가 + 연화 효과; 치핵 출혈 감소에 직접 근거 있음  <mark style="color:blue;">\[무타실], \[아기오]</mark> (☞ [변비](082_-constipation.md#undefined-13))
+* 1차 선택 : 식이 섬유 보충제 (Bulk-forming laxative) - 변의 부피 증가 + 연화 효과; 치핵 출혈 감소에 직접 근거 있음 <mark style="color:blue;">\[무타실], \[아기오]</mark> (☞ [변비](082_-constipation.md#undefined-13))
   * 복용 시 물 200 ㎖ 이상과 함께 복용
 * Osmotic laxative : magnesium hydroxide <mark style="color:blue;">\[마그밀]</mark> - 급성기 단기 사용 가능; 장기 단독 사용보다 식이섬유와 병용 권장
   * Bulk-forming laxative와 Osmotic laxative 동시 복용 시 최소 1\~2시간 간격을 두고 복용 (장내 수분 균형 및 약물 흡수 지연 방지)
@@ -296,8 +280,8 @@ K64.9 상세불명의 치핵
 > ```
 >
 > _✽치센(MPFF)은 급성 치핵 증상 완화 및 출혈 감소에 moderate evidence; 요양급여 적용 여부 확인 후 처방._\
-> &#xNAN;_✽국소제는 증상 조절 목적; 1\~2주 이내 사용. Steroid·lidocaine 함유 제품 장기 사용 금지._\
-> &#xNAN;_✽아기오과립(차전자피) 복용 시 반드시 물 200 ㎖ 이상과 함께 복용; 수분 부족 시 변비 악화 가능._
+> \&#xNAN;_✽국소제는 증상 조절 목적; 1\~2주 이내 사용. Steroid·lidocaine 함유 제품 장기 사용 금지._\
+> \&#xNAN;_✽아기오과립(차전자피) 복용 시 반드시 물 200 ㎖ 이상과 함께 복용; 수분 부족 시 변비 악화 가능._
 
 > **처방례 2.** 급성 내치핵 (변비 동반)
 >
@@ -310,8 +294,8 @@ K64.9 상세불명의 치핵
 > ```
 >
 > _✽변비가 주된 악화 인자인 경우 변비 치료 (☞_ [_변비_](085_-constipation.md)_)가 핵심; 식이섬유 보충제 병행 교육._\
-> &#xNAN;_✽ibuprofen(애니펜)은 항염 효과가 있으나 활동성 출혈 기간 중 사용 시 혈소판 억제 효과로 출혈 악화 가능 - acetaminophen 우선 선택._\
-> &#xNAN;_✽마그밀과 차전자피(아기오과립)를 동시에 처방하는 경우 **최소 1\~2시간 간격**을 두고 복용하도록 지도; 동시 복용 시 장내 수분 균형 교란 및 흡수 지연 가능._
+> \&#xNAN;_✽ibuprofen(애니펜)은 항염 효과가 있으나 활동성 출혈 기간 중 사용 시 혈소판 억제 효과로 출혈 악화 가능 - acetaminophen 우선 선택._\
+> \&#xNAN;_✽마그밀과 차전자피(아기오과립)를 동시에 처방하는 경우 **최소 1\~2시간 간격**을 두고 복용하도록 지도; 동시 복용 시 장내 수분 균형 교란 및 흡수 지연 가능._
 
 > **처방례 3.** 혈전성 외치핵 (발병 72시간 초과, 보존적 관리)
 >
@@ -323,7 +307,7 @@ K64.9 상세불명의 치핵
 > ```
 >
 > _✽혈전성 외치핵은 발병 72시간 이내 → 외과 의뢰 (절제술이 즉각적 통증 완화에 효과적)._\
-> &#xNAN;_✽72시간 초과 시 보존적 치료(진통제 + 국소 steroid + 좌욕)로 2\~3주 내 대부분 자연 호전._
+> \&#xNAN;_✽72시간 초과 시 보존적 치료(진통제 + 국소 steroid + 좌욕)로 2\~3주 내 대부분 자연 호전._
 
 > **처방례 4.** 임산부 치핵 (후기 임신, Grade I–II)
 >
@@ -335,9 +319,9 @@ K64.9 상세불명의 치핵
 > ```
 >
 > _✽임신 중 치핵은 주로 Grade I–II이며 분만 후 자연 호전이 흔함 - 보존적 관리 원칙._\
-> &#xNAN;_✽MPFF(치센), diosmin(베니톨) 등 경구 venotonic은 **국내 식약처 허가사항상 임부 투여 금기** - 처방하지 않음._\
-> &#xNAN;_✽ibuprofen 등 NSAIDs는 임신 중(특히 28주 이후) 동맥관 조기 폐쇄 위험 - 사용하지 않음._\
-> &#xNAN;_✽증상이 심하거나 Grade III 이상이면 산부인과 협진 후 처치 방향 결정._
+> \&#xNAN;_✽MPFF(치센), diosmin(베니톨) 등 경구 venotonic은 **국내 식약처 허가사항상 임부 투여 금기** - 처방하지 않음._\
+> \&#xNAN;_✽ibuprofen 등 NSAIDs는 임신 중(특히 28주 이후) 동맥관 조기 폐쇄 위험 - 사용하지 않음._\
+> \&#xNAN;_✽증상이 심하거나 Grade III 이상이면 산부인과 협진 후 처치 방향 결정._
 
 ***
 
