@@ -323,7 +323,7 @@ _\*비공 당 분무 횟수_\
 * 기전 : 교감 신경 항진 → 코 점막 혈관 수축
 * 대상 : 심한 코 막힘; 코 막힘에 가장 강력하나 부작용으로 사용 제한
 * 부작용 : rebound rhinitis(반동성 비충혈), 고혈압
-* 사용 제한 : 1일 2회 이내, ≤4일/월; 소아에서 권고하지 않음 (비보험)
+* 사용 제한 : 1일 2회 이내, ≤4일/월; 소아에서 권고하지 않음 (비급여)
 * phenylephrine <mark style="color:blue;">\[시네프린]</mark>, naphazoline+chlorpheniramine <mark style="color:blue;">\[나리스타]</mark>, xylometazoline <mark style="color:blue;">\[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark>
 
 #### <mark style="color:$primary;">경구제</mark>
@@ -383,7 +383,7 @@ _\*비공 당 분무 횟수_\
 * 투여 방법 : 피하주사(SCIT), 설하(SLIT), 비강
 * 부작용 : 드물게(0.5%) anaphylaxis; SCIT 투여 후 30분간 관찰 필요
 
- ✽\[히스토불린] : histamine dihydrochloride 0.15 ㎍, human IgG 12 ㎎; 개별 항원 특화 제제 아님; 일부 환자에서 효과 (비보험)
+ ✽\[히스토불린] : histamine dihydrochloride 0.15 ㎍, human IgG 12 ㎎; 개별 항원 특화 제제 아님; 일부 환자에서 효과 (비급여)
 
 ### <mark style="color:orange;">기타</mark>
 

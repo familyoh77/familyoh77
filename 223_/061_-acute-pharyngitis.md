@@ -234,7 +234,7 @@ class E,I,H sky
 * 단회 dexamethasone : 10 ㎎ (PO 또는 IM) 투여가 증상 완화·회복 단축에 효과적
   * 적응증 : 연하 장애로 약을 삼키기 어렵거나 일상생활이 불가능한 수준의 극심한 인후통에 한정하여 선택적 사용
   * 단회 투여이므로 반복 사용 불가; 일률적 사용은 권하지 않음
-* 국소 마취제/진통제 : 심한 인후통에 도포 또는 가글 (비보험)
+* 국소 마취제/진통제 : 심한 인후통에 도포 또는 가글 (비급여)
   * lidocaine <mark style="color:blue;">\[카미스타드-엔 겔]</mark>, benzocaine <mark style="color:blue;">\[허리케인 겔]</mark>, diclofenac <mark style="color:blue;">\[아프니벤큐 액]</mark>
 
 ***

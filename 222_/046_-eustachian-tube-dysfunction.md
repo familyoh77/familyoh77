@@ -187,7 +187,7 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 
 #### <mark style="color:$primary;">국소 비강 약제</mark>
 
-* 코 울혈 제거제 (비강 분무) : 비충혈 동반 시 또는 비행·잠수 전 단기 사용; ≤4일 연속 사용 (비보험); 반동성 충혈 위험으로 장기 사용 금지
+* 코 울혈 제거제 (비강 분무) : 비충혈 동반 시 또는 비행·잠수 전 단기 사용; ≤4일 연속 사용 (비급여); 반동성 충혈 위험으로 장기 사용 금지
   * phenylephrine <mark style="color:blue;">\[시네프린]</mark> : 비공 당 1회 분무 q12h
   * xylometazoline <mark style="color:blue;">\[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark> : 비공 당 1\~2회 분무 q12h
   * naphazoline/chlorpheniramine 복합 <mark style="color:blue;">\[나리스타]</mark>
@@ -206,7 +206,7 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 ### <mark style="color:orange;">수술 (의뢰 후 결정)</mark>
 
 * Tympanostomy tube : 중이 환기관 삽입; 삼출성 중이염·재발성 급성 중이염 시
-* Balloon Eustachian Tuboplasty (BET) : 이관 연골부를 풍선 카테터로 확장; 만성 폐쇄증에서 increasingly accepted option (기관별 시행 현황 차이가 있으며 아직 universally established standard는 아님); 2023 Cochrane review에서 증상 및 이관 기능 개선에 유의한 결과 보고; 국내 일부 기관 시행 (비보험)
+* Balloon Eustachian Tuboplasty (BET) : 이관 연골부를 풍선 카테터로 확장; 만성 폐쇄증에서 increasingly accepted option (기관별 시행 현황 차이가 있으며 아직 universally established standard는 아님); 2023 Cochrane review에서 증상 및 이관 기능 개선에 유의한 결과 보고; 국내 일부 기관 시행 (비급여)
   * **BET 의뢰 적응증** : ⓵ 증상 ≥3개월 지속, ⓶ tympanometry type B 또는 C, ⓷ ETDQ-7 >14.5점, ⓸ Step 1\~2 치료 실패
   * **BET 금기** : 이관 개방증(PET) — 확장 시 증상 악화
   * **BET 한계** : 이관 연골부 자체의 dilatory dysfunction에만 효과적; 아데노이드 비대·비인두 종양·점막하 종괴 등 기계적 외부 폐쇄가 원인인 경우에는 효과 없으므로, 의뢰 전 기계적 원인을 반드시 배제
@@ -280,7 +280,7 @@ H69.8 귀인두관의 기타 명시된 장애
 > **처방례 1. 이관 폐쇄증 — 비충혈 동반, 경증**
 >
 > ```
-> 오트리빈 비강분무액 10 ㎖/병  비공 당 1회 분무 q12h  ×3~4d  (비보험)
+> 오트리빈 비강분무액 10 ㎖/병  비공 당 1회 분무 q12h  ×3~4d  (비급여)
 > ```
 >
 > _✽비내 감염이 없는 경우 Valsalva autoinflation 병행 권고. 코 울혈 제거제는 4일 이상 연속 사용 금지 (반동성 충혈). 알레르기비염 동반 시 비강 스테로이드 추가_
@@ -297,7 +297,7 @@ H69.8 귀인두관의 기타 명시된 장애
 > **처방례 3. 비행·잠수 전 예방적 처치**
 >
 > ```
-> 오트리빈 비강분무액 10 ㎖/병  비공 당 1회 분무  (이착륙 30분 전 또는 수중 입수 30분 전; 비보험)
+> 오트리빈 비강분무액 10 ㎖/병  비공 당 1회 분무  (이착륙 30분 전 또는 수중 입수 30분 전; 비급여)
 > ```
 >
 > _✽상기도 감염 중에는 비행·잠수를 피하는 것이 최선. 불가피한 경우 이착륙 전후로 Valsalva 자주 시행. 비내 감염 시 코 울혈 제거제만으로는 예방 불충분_

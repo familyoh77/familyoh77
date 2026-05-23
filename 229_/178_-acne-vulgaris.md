@@ -235,7 +235,7 @@
     건조된 후) 도포; 도포 일수를 늘리지 못하는 경우에도 효과 있음
 
     ✽tretinoin과 tazarotene은 자외선에 의해 비활성화되고 benzoyl peroxide에 의해 산화됨
-*   adapalene : tretinoin보다 자극감은 적고 효과는 우수 (비보험)
+*   adapalene : tretinoin보다 자극감은 적고 효과는 우수 (비급여)
 
     •0.1%\~0.3% qd 아침 또는 야간 도포 \[디페린 크림/겔]; BPO 복합제 \[에피듀오 겔]
 * tazarotene : 0.05%\~0.1% qd 야간 도포; 효과와 자극감 모두 상대적으로 많음
@@ -274,7 +274,7 @@
 * 작용 : 면포 용해, 화학적 박피, 과각화 정상화
 * 효과 : tretinoin보다 효과/자극감 적음
 * 부작용 : 피부 건조, 자극
-* 용법 : 1일 1\~2회 도포 클리어틴 외용액(비보험)
+* 용법 : 1일 1\~2회 도포 클리어틴 외용액(비급여)
 
 #### Azelaic acid
 
@@ -322,7 +322,7 @@
 * 작용 : circulating free testosterone 감소 → 피지 분비 감소
 * 대상 : 항생제 치료에 반응하지 않는 호르몬 이상 또는 isotretinoin 치료에 해당되지 않는 여성
 * 3\~6개월 치료 후 효과 평가
-*   1차 선택 : estrogen/progestin 복합제(비보험); progestin으로 drospirenone 선호 (☞ p.700)
+*   1차 선택 : estrogen/progestin 복합제(비급여); progestin으로 drospirenone 선호 (☞ p.700)
 
     •[야스민](../21T/) : ethinyl estradiol(EE) 30 ㎍, drospirenone 3 ㎎; 21일간 복용 → 7일간 휴약
 

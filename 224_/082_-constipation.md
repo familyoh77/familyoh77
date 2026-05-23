@@ -243,7 +243,7 @@ class D,F,H,J,L sky
 * 자극성 하제 대비 내약성 우수하며 장기 유지 치료에 적합
 * 장내 흡수가 거의 없어 전신 부작용 최소; 임산부·소아에서도 안전하게 사용 가능
 * 부작용 : 복부 팽만, 무른 변, 복부 가스, 구역 (용량 의존)
-* <mark style="color:blue;">\[마이락스]</mark> 17 g/P을 약 240 ㎖의 물, 주스, 소다, 커피, 차 등에 녹여서 가능한 한 아침에 복용; 장 운동을 일으키는데 24시간\~96시간 정도 소요됨 (비보험)
+* <mark style="color:blue;">\[마이락스]</mark> 17 g/P을 약 240 ㎖의 물, 주스, 소다, 커피, 차 등에 녹여서 가능한 한 아침에 복용; 장 운동을 일으키는데 24시간\~96시간 정도 소요됨 (비급여)
 
 <mark style="color:$primary;">**Magnesium oxide (MgO)**</mark>
 
@@ -274,7 +274,7 @@ class D,F,H,J,L sky
 
 * 경구 투여 후 결장에서 활성형으로 전환; bisacodyl과 유사한 기전 및 효과
 * 부작용 : 복통(경련), 설사
-* <mark style="color:blue;">\[피코락]</mark> 7.5 ㎎/T 1T 취침 시 (비보험)
+* <mark style="color:blue;">\[피코락]</mark> 7.5 ㎎/T 1T 취침 시 (비급여)
 
 <mark style="color:$primary;">**Senna (sennosides)**</mark>
 
@@ -299,7 +299,7 @@ class D,F,H,J,L sky
 * 장 상피 ClC-2 chloride channel 활성화 → 장내 수분·전해질 분비 증가 → 연동 운동 촉진
 * OTC 약제에 반응하지 않는 경우; 4주 사용 후 재평가
 * 부작용 : 구역 (용량 의존; 음식과 함께 복용 시 감소)
-* <mark style="color:blue;">\[아미티자]</mark> 24 mcg bid (비보험)
+* <mark style="color:blue;">\[아미티자]</mark> 24 mcg bid (비급여)
 
 <mark style="color:$primary;">**Linaclotide · Plecanatide**</mark>
 
@@ -370,7 +370,7 @@ K59.0 변비
 > **처방례 2.** 중등도 변비 - PEG 기반 삼투성 하제
 >
 > ```
-> 마이락스 산 10 g/P  1~2P  아침 식전  (비보험)
+> 마이락스 산 10 g/P  1~2P  아침 식전  (비급여)
 > 마그밀 500 ㎎/T  1T  취침 시
 > ※ 마이락스(PEG) : 장내 흡수 없어 임산부·소아에서도 비교적 안전
 > ※ 보통 1~3일 내 반응; 반응 없으면 마이락스 용량 증량 또는 자극성 하제 추가

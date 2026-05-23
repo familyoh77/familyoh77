@@ -237,7 +237,7 @@ class B,E,G,I,L,O yellow
 
 #### <mark style="color:$primary;">2차 선택 (제한적)</mark>
 
-* **Cyproheptadine** <mark style="color:blue;">\[트레스탄]</mark> (비보험) : 일부 환자에서 식욕 촉진 효과; 단, anticholinergic burden 주의 — Beers Criteria 해당 약물로 고령 환자에서 2선 이하 위치; confusion, 소변 저류 risk; 젊은 환자에서만 제한적 고려
+* **Cyproheptadine** <mark style="color:blue;">\[트레스탄]</mark> (비급여) : 일부 환자에서 식욕 촉진 효과; 단, anticholinergic burden 주의 — Beers Criteria 해당 약물로 고령 환자에서 2선 이하 위치; confusion, 소변 저류 risk; 젊은 환자에서만 제한적 고려
 * **Dronabinol** : 식욕 ↑ 가능; CNS 부작용·근거 제한으로 제한적
 * **Steroid** : 단기 식욕 ↑; 근손실·고혈당 문제로 terminal setting에만 사용
 * **오메가-3 (EPA)** : 암 관련 악액질에서 일부 근거; EPA 기준 1.5\~2 g/d, 최소 4\~8주; 체중 증가보다 삶의 질 개선 및 체중 감소 속도 완화에 의의를 둠
@@ -288,7 +288,7 @@ R63.4 이상체중감소
 > * 식사 직전에 복용하십시오. 항히스타민 계열 약물로, 식욕을 자극하는 효과가 있습니다.
 > * 졸음이 올 수 있으므로 운전이나 기계 조작 시 주의하십시오.
 > * **고령 환자의 경우** 입마름, 변비, 소변이 잘 나오지 않는 증상, 인지 저하가 생기면 즉시 알려 주십시오.
-> * 비보험 약제입니다.
+> * 비급여 약제입니다.
 
 > **항우울제 — mirtazapine (레메론)**
 >

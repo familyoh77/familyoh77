@@ -330,7 +330,7 @@ class M,O,K blue
 
 ### <mark style="color:orange;">아프타 궤양</mark>
 
-* 특별한 확립된 치료 약제 없음; 구강 외용제는 대부분 비보험
+* 특별한 확립된 치료 약제 없음; 구강 외용제는 대부분 비급여
 
 #### <mark style="color:$primary;">국소 Steroid</mark>
 

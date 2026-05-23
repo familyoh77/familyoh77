@@ -188,7 +188,7 @@ schizophrenia, eating disorder
 
     polidocanol(2%\~10%) [옵티덤](../urea%EB%B3%B5%ED%95%A9%EC%A0%9C/)
 * Soaking : cool tap water, Burow’s solution(1:40 dilution), 식염수(소금 1 teaspoon/물 0.5 L)
-* calamine/zinc oxide [칼라민 로션](../%EB%B3%B5%ED%95%A9%EC%A0%9C/)(비보험)
+* calamine/zinc oxide [칼라민 로션](../%EB%B3%B5%ED%95%A9%EC%A0%9C/)(비급여)
 * camphor(2%), menthol(1%)
 
 ### 전신 치료제

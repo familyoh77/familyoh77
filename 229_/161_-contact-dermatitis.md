@@ -113,7 +113,7 @@
 
 * 대상 : 감염
 * mupirocin : 2% bid\~tid \[에스로반]
-* bacitracin (비보험 복합제로 시판)
+* bacitracin (비급여 복합제로 시판)
 * steroid/항생제 복합제 : betamethasone dipropionate/gentamicin \[실크론지]
 
 ### 전신 치료제

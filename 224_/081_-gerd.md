@@ -448,7 +448,7 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 * alginic acid : 1\~3 g tid\~qid <mark style="color:blue;">\[라미나지]</mark>
   * 위 내용물 위에 부유하는 gel barrier를 형성하여 acid pocket을 중화·차단 - 식후 및 postprandial reflux에 특히 유효; alginate + 제산제 병용 시 효과 증대
   * 임신, 식후 breakthrough 증상, regurgitation-dominant 환자에서 유용
-* sucralfate : 1 g qid (매 식전 1시간 및 취침 시) <mark style="color:blue;">\[아루사루민]</mark> (비보험)
+* sucralfate : 1 g qid (매 식전 1시간 및 취침 시) <mark style="color:blue;">\[아루사루민]</mark> (비급여)
   * 임신 중 가슴쓰림 완화에 사용 가능; 일반 GERD 치료제로는 권고하지 않음 \[ACG]
 * eupatilin : 60 ㎎ tid <mark style="color:blue;">\[스티렌]</mark>, 90 ㎎ bid <mark style="color:blue;">\[스티렌 투엑스]</mark>
 

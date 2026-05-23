@@ -142,7 +142,7 @@
 
 ## Androgenic alopecia
 
-* 조기에 치료하는 것이 효과적 (비보험)
+* 조기에 치료하는 것이 효과적 (비급여)
 
 #### 경구 5α-reductase inhibitor (5-ARI)
 

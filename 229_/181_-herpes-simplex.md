@@ -202,7 +202,7 @@
 * 식염수 목욕
 * 국소 petroleum jelly \[바셀린]
 * 진통제
-* 국소 마취제 : lignocaine, prilocaine [엠라](../lidocaine%EB%B3%B5%ED%95%A9/)(비보험). benzocaine(자극 심함)
+* 국소 마취제 : lignocaine, prilocaine [엠라](../lidocaine%EB%B3%B5%ED%95%A9/)(비급여). benzocaine(자극 심함)
 
 ## 눈 감염
 

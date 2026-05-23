@@ -167,7 +167,7 @@ graph TD
 * _P. aeruginos&#x61;_&#xC5D0; 대해 다른 국소 항균제보다 우수한 효과
 * 저자극, 이독성 없음; 고막 천공 시에도 사용 가능 (FDA 승인 유일)
 * ofloxacin 0.3% : 10 drops qd × 7d <mark style="color:blue;">\[타리비드]</mark>
-* ciprofloxacin 0.3% : 10 drops qd × 7d <mark style="color:blue;">\[시프레닛]</mark> (비보험)
+* ciprofloxacin 0.3% : 10 drops qd × 7d <mark style="color:blue;">\[시프레닛]</mark> (비급여)
 
 #### <mark style="color:$primary;">Aminoglycoside계</mark>
 
