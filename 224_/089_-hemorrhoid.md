@@ -64,7 +64,7 @@
 
 ### <mark style="color:orange;">검사</mark>
 
-* Digital rectal exam (DRE), 항문경(anoscopy) : 1차 평가; 내치핵 Grade, 외치핵 여부, 혈전 확인
+* Digital rectal exam(DRE), 항문경(anoscopy) : 1차 평가; 내치핵 Grade, 외치핵 여부, 혈전 확인
   * 심한 통증이 있으면(혈전성 외치핵, 항문 열창 의심) DRE를 무리하게 시행하지 않음
 * S상결장경, 대장내시경 : 다음 경우에 적응
   * 대장암 선별 검사 대상(≥45세) 또는 CRC 위험 인자 보유 시
@@ -78,20 +78,19 @@
 
 ```mermaid
 graph TD
-    A([항문 출혈 / 항문 종괴 / 불편감]) --> B[Red Flags 확인]
-    B -->|감돈·괴사·혈역학 불안정| C[즉각 응급 의뢰]
+    A([항문 출혈 / 항문 종괴 <br/>/ 불편감]) --> B[Red Flags 확인]
+    B -->|감돈·괴사·혈역학 불안정| C[응급 의뢰]
     B -->|혈전성 외치핵 72h 이내<br/>항문 주위 농양 의심| X[당일 외과 의뢰]
     B -->|해당 없음| E[DRE + 항문경 검사]
     E --> P[주요 증상 유형]
     P -->|통증 dominant| Q[감별 진단]
-    P -->|출혈 dominant<br/>Grade I–II 확인 후| R[보존적 치료<br/>식이섬유 + MPFF ± 국소제]
+    P -->|출혈 dominant<br/>Grade I–II 확인 후| H
     P -->|탈출 dominant| F[Grade 판정]
     Q -->|fissure / 농양 의심| S[외과 의뢰]
-    Q -->|혈전성 외치핵 72h 이내| D[당일 외과 의뢰]
+    Q -->|혈전성 외치핵 <br/>72h 이내| D[당일 외과 의뢰]
     Q -->|혈전성 외치핵<br/>72h 초과| G[보존적 치료<br/>진통제 + 국소제 + 좌욕]
-    R --> K[4~6주 후 평가]
-    G --> K
-    F -->|Grade I–II| H[보존적 치료<br/>식이섬유 · 국소제 · MPFF]
+    G --> K[4~6주 후 평가]
+    F -->|Grade I–II| H[H 보존적 치료<br/>식이섬유 · 국소제 · MPFF]
     F -->|Grade III| I[최소 침습 시술 의뢰<br/>보존적 병행]
     F -->|Grade IV| J[수술 의뢰]
     H --> K
@@ -105,14 +104,14 @@ class B,P,Q,F,K,M yellow
 classDef L_red fill:#ffcdd2,stroke:#c62828
 class C,D,S,J,X L_red
 classDef sky fill:#e3f2ff,stroke:#2196f3
-class G,R,H sky
+class G,H sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
 class L,I blue
 classDef lightGreen fill:#e8f8e8,stroke:#4caf50
 class E,N lightGreen
 ```
 
-<p align="center"><strong>치핵 진단 및 치료 알고리듬 (1차 의료 관점)</strong></p>
+<p align="center"><strong>치핵 진단 및 치료 알고리듬</strong></p>
 
 ***
 
@@ -125,6 +124,9 @@ class E,N lightGreen
 * 보존적 치료 실패 또는 Grade III 이상 : 최소 침습 시술(rubber band ligation 등) 또는 수술
 * Grade IV · 수술
 * 모든치료 단계 및 예방에서 배변 환경 교정 : 변비 또는 설사 교정 (☞ [변비](085_-constipation.md)); 항문 긴장 감소가 핵심
+* 발병 72시간 이내의 혈전성 외치핵은 당일 절제술 시행 권고
+  * 발병 48\~72시간에 통증이 피크에 도달하며 절제술에 의하여 즉각 통증이 완화됨
+  * 72시간 이후부터 혈전이 기질화(organization)되고 급성 염증이 소실되면서 통증이 서서히 감소하므로 72시간 이후의 수술은 실익이 감소함
 
 {% hint style="info" %}
 **외래 Clinical Pearls**
@@ -205,7 +207,7 @@ class E,N lightGreen
 * diosmin : 식물에서 추출되는 flavonoid 계열의 물질; FDA 미승인
   * diosmin 300 ㎎ : <mark style="color:blue;">\[치센]</mark> 1T bid, 재발 또는 악화 시에는 1일 4T\~6T까지 투여 가능
   * MPFF( micronized purified flavonoid fraction) 500 ㎎ (diosmin 450 ㎎ + hesperidin 50 ㎎); <mark style="color:blue;">\[베니톨]</mark> 3T bid × 4일 → 2T bid × 3일
-* 임부 투여 금기 _️_\*
+* 임부 투여 금기&#x20;
 
 ### <mark style="color:orange;">진통제</mark>
 
@@ -235,7 +237,9 @@ class E,N lightGreen
 
 ### <mark style="color:orange;">수술</mark>
 
-<table><thead><tr><th width="200">수술 적응증</th><th>내용</th></tr></thead><tbody><tr><td>Grade IV 내치핵</td><td>탈출 환원 불가</td></tr><tr><td>Grade III 최소 침습 실패</td><td>2회 이상 시술 후에도 미호전</td></tr><tr><td>큰 외치핵</td><td>증상 심한 외치핵, 피부꼬리 동반</td></tr><tr><td>항문직장 병리 동반</td><td>항문 열창, 누공 등 동반 수술 필요</td></tr><tr><td>혈전성 외치핵 (72h 이내)</td><td>발병 72시간 이내 절제술 시 즉각 통증 완화 효과적<br>✽통증 피크는 발병 후 24\~48시간; 72시간 이후부터 혈전이 자연 흡수(organization)되어 통증이 서서히 감소 → 수술 실익 감소<br>✽72시간 초과 시 보존적 치료(국소 steroid + 좌욕 + 진통제)로 2\~3주 내 호전 가능</td></tr></tbody></table>
+<table><thead><tr><th width="200">수술 적응증</th><th>내용</th></tr></thead><tbody><tr><td>Grade IV 내치핵</td><td>탈출 환원 불가</td></tr><tr><td>Grade III 최소 침습 실패</td><td>2회 이상 시술 후에도 미호전</td></tr><tr><td>큰 외치핵</td><td>증상 심한 외치핵, 피부꼬리 동반</td></tr><tr><td>항문직장 병리 동반</td><td>항문 열창, 누공 등 동반 수술 필요</td></tr><tr><td>혈전성 외치핵 (72h 이내)</td><td>발병 72시간 이내 절제술 시 즉각 통증 완화 효과적</td></tr></tbody></table>
+
+
 
 ***
 
