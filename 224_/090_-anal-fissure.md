@@ -90,30 +90,32 @@
 ```mermaid
 graph TD
     A([항문열창 의심<br/>통증·혈변·항문 불편감]) --> B[비전형 소견 또는 Red Flag?]
-    B -- YES --> C[즉각 의뢰 / 정밀 검사<br/>항문경·대장내시경·IBD 검사]
+    B -- YES --> C[<u>즉각 의뢰/정밀 검사</u><br/>항문경·대장내시경·IBD 검사]
     B -- NO --> D[급성 또는 만성?]
-    D -- "급성 <6~8주" --> E[보존적 치료<br/>좌욕·식이섬유·대변연화제·국소마취제]
-    D -- "만성 ≥6~8주 <br/> 재발성" --> G
+    D -- "급성 <6~8주" --> E[<u>보존적 치료</u><br/>좌욕·식이섬유<br/>·대변연화제·국소마취제]
+    D -- "만성 ≥6~8주 또는 재발성" --> G
     E --> F[4주 후 평가]
     F -- 호전 --> Z[치유 유지<br/>생활습관 지속]
-    F -- 미호전 --> G[1차 약물 치료<br/>국소 CCB 우선 ± 국소마취제]
+    F -- 미호전 --> G[<u>1차 약물 치료</u><br/>국소 CCB 우선 ± 국소마취제]
     G --> H[6~8주 후 평가]
     H -- 호전 --> Z
-    H -- 미호전 --> I[변실금 고위험?]
-    I -- "YES<br/>고령·다산부·괄약근 손상력" --> J[보툴리눔 독소 주사<br/>수술 대안으로 선택]
-    I -- NO --> K[Lateral Internal Sphincterotomy<br/>대장항문외과 의뢰]
+    H -- 미호전 --> G2[CCB 실패 시 <br/>NTG로 전환 고려]
+    G2 --> H2[4~6주 후 평가]
+    H2 -- 호전 --> Z
+    H2 -- 미호전 --> I[변실금 고위험?]
+    I -- "YES<br/>고령·다산부·괄약근 손상력" --> J[수술 대안으로 <br/>보툴리눔 독소 주사 선택]
+    I -- NO --> K[Lateral Internal Sphincterotomy]
     J --> L[치유?]
     L -- YES --> Z
     L -- NO --> K
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,I,F,H,L yellow
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class B,D,I,F,H,H2,L yellow
     style C fill:#ffcdd2,stroke:#c62828
-
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class E,G,J sky
-style Z fill:#d0e8ff,stroke:#1a6abf
-style K fill:#fdebd0,stroke:#e67e22
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class E,G,G2,J sky
+    style Z fill:#d0e8ff,stroke:#1a6abf
+    style K fill:#fdebd0,stroke:#e67e22
 ```
 
 <p align="center"><strong>항문열창 진단 및 단계적 치료 알고리듬</strong></p>
