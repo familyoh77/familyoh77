@@ -138,7 +138,7 @@ Grade IV · 수술 적응증 : 외과 의뢰
 
 * Grade I, II : 보존적 치료; 비약물요법(식이, 배변) + 국소제 + 필요시 diosmin) → 4\~6주 내 대부분 호전
   * 경증·배변 후 불편감 : 직장 연고제, 좌욕 (증상 경감 목적; RCT 근거 제한적)
-* 보존적 치료 실패 또는 Grade III 이상 : 최소 침습 시술(rubber band ligation 등) 또는 외과적 치료
+* 보존적 치료 실패 또는 Grade III 이상 : 최소 침습 시술(rubber band ligation 등) 또는 수술
 * Grade IV · 수술
 * 모든치료 단계 및 예방에서 배변 환경 교정 : 변비 또는 설사 교정 (☞ [변비](085_-constipation.md)); 항문 긴장 감소가 핵심
 
@@ -194,74 +194,64 @@ Grade IV · 수술 적응증 : 외과 의뢰
 
 ### <mark style="color:orange;">국소제 (Topical Agents)</mark>
 
-{% hint style="info" %}
-국소제는 통증·가려움의 일시적 완화 효과가 있으나, 치핵 자체를 치료하지는 않습니다. Grade에 관계없이 증상 조절 목적으로 사용합니다.
-{% endhint %}
+* 국소제는 통증·가려움의 일시적 완화 효과가 있으나, 치핵 자체가 치료되지는 않으며 Grade에 관계없이 증상 조절 목적으로 사용 가능
 
-* **성분 종류**
-  * Anesthetics : lidocaine 등 — 통증·가려움 완화
-  * Vasoconstrictor : phenylephrine (α-agonist) — 혈관 수축, 부종 감소
-  * Astringent : zinc oxide, witch hazel 등 — 삼출 감소, 점막 보호
-  * Anti-inflammatory / steroid : 1\~3% hydrocortisone — 염증·가려움 완화
-  * Glycerin, allantoin : 보습, 점막 보호
-* **주의**
-  * Steroid 함유 외용제 : 장기 사용 시 피부 위축성 변화 위험
-  * Anesthetics(lidocaine 등) : 장기 사용 시 알레르기성 접촉성 피부염 유발 가능 → 오히려 가려움·발적 악화
-  * 위 두 가지 이유로 **국소제 전반을 2주 이내** 사용하는 것을 권고함
-* **용법** : 1일 2회 병소에 직접 적용
+**성분 종류**
+
+* Anesthetics : lidocaine 등 — 통증·가려움 완화
+* Vasoconstrictor : phenylephrine (α-agonist) — 혈관 수축, 부종 감소
+* Astringent : zinc oxide, witch hazel 등 — 삼출 감소, 점막 보호
+* Anti-inflammatory / steroid : 1\~3% hydrocortisone — 염증·가려움 완화
+* Glycerin, allantoin : 보습, 점막 보호
+
+**주의**
+
+* Steroid 함유 외용제 : 장기 사용 시 피부 위축성 변화 위험
+* Anesthetics(lidocaine 등) : 장기 사용 시 알레르기성 접촉성 피부염 유발 가능 → 오히려 가려움·발적 악화
+* 위 두 가지 이유로 국소제 전반을 2주 이내 사용하는 것을 권고함
+
+**용법**&#x20;
+
+* 1일 2회 병소에 직접 적용
 * 대부분 복합제로 시판 (대부분 비급여)
   * <mark style="color:blue;">\[푸레파인 좌제]</mark>, <mark style="color:blue;">\[푸레파 연고]</mark> (allantoin, chlorhexidine, lidocaine, phenylephrine, retinol palmitate oil, tocopherol acetate)
 
-### <mark style="color:orange;">경구 Flavonoid (Venotonic)</mark>
+### <mark style="color:orange;">경구 Flavonoid (정맥순환개선제)</mark>
 
-* **기전** : 정맥 긴장도 및 림프 순환 개선, 모세혈관 투과성 감소; 항염증 효과
-* **근거** : 2023 Cochrane systematic review — 급성 치핵의 출혈 및 증상(통증·부종·가려움) 완화에 moderate-quality evidence; 만성 재발 예방에도 긍정적 자료 있음
-* **용법 (급성 치핵)** :
-  * MPFF 500 ㎎ (diosmin 450 ㎎ + hesperidin 50 ㎎) <mark style="color:blue;">\[치센]</mark> : 3T bid × 4일 → 2T bid × 3일 **(보험 인정 기준 확인 필요)**\
-    ✽ MPFF = Micronized Purified Flavonoid Fraction; 치센은 요양급여 인정 범위 확인 후 처방
-  * diosmin 500 ㎎ <mark style="color:blue;">\[베니톨]</mark> : 3T bid × 4일 → 2T bid × 3일 **(비급여)**
-* ✽ FDA 미승인; 국내에서는 급여·비급여 제품 모두 사용 가능
-
-{% hint style="danger" %}
-**⚠️ 임부 투여 금기**\
-MPFF(치센), diosmin(베니톨) 등 경구 venotonic은 국내 식약처 허가사항상 "임부 또는 임신 가능성이 있는 여성에게 투여하지 않는다"로 분류됩니다. 임산부 치핵에는 처방하지 않습니다.
-{% endhint %}
+* 기전 : 정맥 긴장도 및 림프 순환 개선, 모세혈관 투과성 감소; 항염증 효과 - 급성 치핵에 적용
+* 급성 치핵의 출혈 및 증상(통증·부종·가려움) 완화에 moderate-quality evidence; 만성 재발 예방에도 긍정적 자료 있음
+* diosmin : 식물에서 추출되는 flavonoid 계열의 물질; FDA 미승인
+  * diosmin 300 ㎎ : <mark style="color:blue;">\[치센]</mark> 1T bid, 재발 또는 악화 시에는 1일 4T\~6T까지 투여 가능
+  * MPFF( micronized purified flavonoid fraction) 500 ㎎ (diosmin 450 ㎎ + hesperidin 50 ㎎); <mark style="color:blue;">\[베니톨]</mark> 3T bid × 4일 → 2T bid × 3일
+* 임부 투여 금기 **️**&#x20;
 
 ### <mark style="color:orange;">진통제</mark>
 
-* acetaminophen <mark style="color:blue;">\[타이레놀]</mark> : 1차 선택; 치핵 관련 통증 및 발열에 안전하게 사용 가능\
-  ✽ 출혈 경향이 있는 치핵에서는 NSAIDs보다 acetaminophen이 우선
+* acetaminophen <mark style="color:blue;">\[타이레놀]</mark> : 1차 선택; 치핵 관련 통증 및 발열에 안전하게 사용 가능
+  * 출혈 경향이 있는 치핵에서는 NSAIDs보다 acetaminophen이 우선
 * ibuprofen <mark style="color:blue;">\[부루펜]</mark>, <mark style="color:blue;">\[애니펜]</mark> : 항염증 효과 추가 필요 시; 혈소판 기능 억제로 출혈 악화 가능 — 급성 출혈 기간 중 주의
 
 ### <mark style="color:orange;">변비 치료 (동반 시)</mark>
 
-* **1차 선택 : 식이 섬유 보충제** (차전자피 등) — 변의 부피 증가 + 연화 효과; 치핵 출혈 감소에 직접 근거 있음
-
-{% hint style="danger" %}
-**⚠️ 차전자피 복용 시 반드시 물 200 ㎖ 이상과 함께 복용하십시오**\
-Bulk-forming laxative(차전자피)는 장 내에서 수분을 흡수해 팽창합니다. 물이 부족하면 오히려 장 내에서 굳어 변비가 악화되거나, 드물게 장폐색을 유발할 수 있습니다.
-{% endhint %}
-
-* Osmotic laxative : magnesium hydroxide <mark style="color:blue;">\[마그밀]</mark> — 급성기 단기 사용 가능; 장기 단독 사용보다 식이섬유와 병용 권장\
-  ✽ 차전자피(아기오과립)와 마그밀 동시 복용 시 **최소 1\~2시간 간격**을 두고 복용 (장내 수분 균형 및 약물 흡수 지연 방지)
-* (☞ [변비](085_-constipation.md))
-
-***
+* 1차 선택 : 식이 섬유 보충제 (Bulk-forming laxative) — 변의 부피 증가 + 연화 효과; 치핵 출혈 감소에 직접 근거 있음  <mark style="color:blue;">\[무타실], \[아기오]</mark> (☞ [변비](082_-constipation.md#undefined-13))
+  * 복용 시 물 200 ㎖ 이상과 함께 복용
+* Osmotic laxative : magnesium hydroxide <mark style="color:blue;">\[마그밀]</mark> — 급성기 단기 사용 가능; 장기 단독 사용보다 식이섬유와 병용 권장
+  * Bulk-forming laxative와 Osmotic laxative 동시 복용 시 최소 1\~2시간 간격을 두고 복용 (장내 수분 균형 및 약물 흡수 지연 방지)
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-### <mark style="color:orange;">최소 침습 시술 (외과 의뢰)</mark>
+### <mark style="color:orange;">최소 침습 시술</mark>
 
-* **적응증** : Grade I\~III 중 보존적 치료 실패 시
-* **Rubber band ligation** : 1\~2개 고무링으로 치핵 기저를 결찰 → 1주 내 허혈성 괴사로 탈락; 가장 효과적인 외래 시술\
-  ✽시술 2\~4일 후 불편감 또는 경미한 출혈 발생 가능; 심한 경우는 드묾\
-  ✽항응고제 복용 환자 : 지연성 출혈 위험 증가 — 시술 전 항응고제 관리 필요\
-  ✽면역저하 환자 : 드물게 골반 패혈증 등 중증 감염 보고 — 신중히 시행
-* **주사 요법 (sclerotherapy)** : 경화제 주사로 치핵 조직 섬유화; 시술 통증 적으나 rubber band ligation보다 재발률 높음
-* **광응고 (infrared, laser, bipolar coagulation)** : Grade I\~II에 적합; rubber band ligation보다 재발률 높음
-* **Doppler-guided hemorrhoidal artery ligation (HAL/HALO)** : 통증이 적은 새로운 시술 옵션; 재발 가능성은 rubber band ligation보다 높음
+* 적응증 : Grade I\~III 중 보존적 치료 실패 시
+* Rubber band ligation : 1\~2개 고무링으로 치핵 기저를 결찰 → 1주 내 허혈성 괴사로 탈락; 가장 효과적인 외래 시술
+  * 시술 2\~4일 후 불편감 또는 경미한 출혈 발생 가능; 심한 경우는 드묾
+  * 항응고제 복용 환자 : 지연성 출혈 위험 증가 — 시술 전 항응고제 관리 필요
+  * 면역저하 환자 : 드물게 골반 패혈증 등 중증 감염 보고 — 신중히 시행
+* 주사 요법 (sclerotherapy) : 경화제 주사로 치핵 조직 섬유화; 시술 통증 적으나 rubber band ligation보다 재발률 높음
+* 광응고 (infrared, laser, bipolar coagulation) : Grade I\~II에 적합; rubber band ligation보다 재발률 높음
+* Doppler-guided hemorrhoidal artery ligation (HAL/HALO) : 통증이 적은 새로운 시술 옵션; 재발 가능성은 rubber band ligation보다 높음
 
-### <mark style="color:orange;">수술 (외과 의뢰)</mark>
+### <mark style="color:orange;">수술</mark>
 
 <table><thead><tr><th width="200">수술 적응증</th><th>내용</th></tr></thead><tbody><tr><td>Grade IV 내치핵</td><td>탈출 환원 불가</td></tr><tr><td>Grade III 최소 침습 실패</td><td>2회 이상 시술 후에도 미호전</td></tr><tr><td>큰 외치핵</td><td>증상 심한 외치핵, 피부꼬리 동반</td></tr><tr><td>항문직장 병리 동반</td><td>항문 열창, 누공 등 동반 수술 필요</td></tr><tr><td>혈전성 외치핵 (72h 이내)</td><td>발병 72시간 이내 절제술 시 즉각 통증 완화 효과적<br>✽통증 피크는 발병 후 24\~48시간; 72시간 이후부터 혈전이 자연 흡수(organization)되어 통증이 서서히 감소 → 수술 실익 감소<br>✽72시간 초과 시 보존적 치료(국소 steroid + 좌욕 + 진통제)로 2\~3주 내 호전 가능</td></tr></tbody></table>
 
