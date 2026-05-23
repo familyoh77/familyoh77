@@ -51,8 +51,8 @@
 
 * 배변과 무관하게 지속되는 심부 박동성 통증(throbbing pain) + 발열 → 항문주위 농양
 * 발열·전신 증상 동반 항문 부종/발적 → 항문주위 농양
-* 면역저하 환자(HIV, 혈액암 치료 중 등)의 급성 항문 병변 → 비전형 감염·악성&#x20;
-* 대량 직장 출혈 또는 지속·반복 혈변&#x20;
+* 면역저하 환자(HIV, 혈액암 치료 중 등)의 급성 항문 병변 → 비전형 감염·악성
+* 대량 직장 출혈 또는 지속·반복 혈변
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -75,9 +75,9 @@
 * 항문경(anoscopy) / 대장내시경 : 비전형 소견, 직장 출혈, IBD 의심 시
 * 크론병 감별 검사 : 비전형 열상, 복통·설사·체중 감소 동반 시
 
-### <mark style="color:orange;">감별</mark>&#x20;
+### <mark style="color:orange;">감별</mark>
 
-**항문열창 vs 치핵**&#x20;
+**항문열창 vs 치핵**
 
 <table><thead><tr><th width="153">소견</th><th width="241">항문열창</th><th>치핵 (Hemorrhoids)</th></tr></thead><tbody><tr><td>통증</td><td>매우 심함; 배변 후 수 시간 지속</td><td>대개 경미하거나 없음</td></tr><tr><td>출혈</td><td>소량 선홍색; 화장지에 묻음</td><td>선홍색; 변기에 뚝뚝 떨어지거나 묻음</td></tr><tr><td>배변 후 통증 지속</td><td>흔함 (작열감·경련)</td><td>드묾</td></tr><tr><td>병변 위치</td><td>후 정중선 (주로)</td><td>Lithotomy position 3·7·11시 방향 치핵 쿠션</td></tr><tr><td>피부 부속 소견</td><td>Sentinel skin tag (만성)</td><td>Skin tag (외치핵 혈전 후)</td></tr></tbody></table>
 
@@ -89,26 +89,31 @@
 
 ```mermaid
 graph TD
-    A([항문열창 의심<br/>통증·혈변·항문 불편감]) --> B{비전형 소견 또는 Red Flag?}
-    B -- 예 --> C[즉각 의뢰 / 정밀 검사<br/>항문경·대장내시경·IBD 검사]
-    B -- 아니오 --> D{급성 또는 만성?}
+    A([항문열창 의심<br/>통증·혈변·항문 불편감]) --> B[비전형 소견 또는 Red Flag?]
+    B -- YES --> C[즉각 의뢰 / 정밀 검사<br/>항문경·대장내시경·IBD 검사]
+    B -- NO --> D[급성 또는 만성?]
     D -- "급성 <6~8주" --> E[보존적 치료<br/>좌욕·식이섬유·대변연화제·국소마취제]
-    D -- "만성 ≥6~8주 또는 재발성" --> G
-    E --> F{4주 후 평가}
-    F -- 호전 --> Z([치유 유지<br/>생활습관 지속])
+    D -- "만성 ≥6~8주 <br/> 재발성" --> G
+    E --> F[4주 후 평가]
+    F -- 호전 --> Z[치유 유지<br/>생활습관 지속]
     F -- 미호전 --> G[1차 약물 치료<br/>국소 CCB 우선 ± 국소마취제]
-    G --> H{6~8주 후 평가}
+    G --> H[6~8주 후 평가]
     H -- 호전 --> Z
-    H -- 미호전 --> I{변실금 고위험?}
-    I -- "예<br/>고령·다산부·괄약근 손상력" --> J[보툴리눔 독소 주사<br/>수술 대안으로 선택]
-    I -- 아니오 --> K[Lateral Internal Sphincterotomy<br/>대장항문외과 의뢰]
-    J --> L{치유?}
-    L -- 예 --> Z
-    L -- 아니오 --> K
-    style A fill:#f96,stroke:#e65100,stroke-width:2px
-    style C fill:#ffebee,stroke:#c62828,stroke-width:2px
-    style K fill:#fce4ec,stroke:#880e4f,stroke-width:2px
-    style Z fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    H -- 미호전 --> I[변실금 고위험?]
+    I -- "YES<br/>고령·다산부·괄약근 손상력" --> J[보툴리눔 독소 주사<br/>수술 대안으로 선택]
+    I -- NO --> K[Lateral Internal Sphincterotomy<br/>대장항문외과 의뢰]
+    J --> L[치유?]
+    L -- YES --> Z
+    L -- NO --> K
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D,I,F,H,L yellow
+    style C fill:#ffcdd2,stroke:#c62828
+
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class E,G,J sky
+style Z fill:#d0e8ff,stroke:#1a6abf
+style K fill:#fdebd0,stroke:#e67e22
 ```
 
 <p align="center"><strong>항문열창 진단 및 단계적 치료 알고리듬</strong></p>
@@ -144,71 +149,63 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">국소 Calcium Channel Blocker (CCB)</mark>
+#### <mark style="color:$primary;">국소 Calcium Channel Blocker (CCB)</mark>
 
 * 기전 : 내항문괄약근 평활근 이완 + 혈관확장 → 혈류 개선
 * 효과 : 치유율 약 65\~85%; 재발율 \~40% (연구마다 수치 차이 있음)
-* 현재 지견 : NTG 대비 두통 발생이 적어 실제 순응도가 더 높으며, 1차 선택제로 선호 (ASCRS 2023)
+* 현재 지견 : NTG 대비 두통 발생이 적어 실제 순응도가 더 높으며, 1차 선택제로 선호
 * 부작용 : 두통·안면 홍조·어지럼(저혈압) \~5%
 * 주의 : 뜨거운 목욕·좌욕 직후에는 두통·어지럼이 심해질 수 있으므로 잠시 쉰 뒤 사용; 도포 후 \~30분간 앉거나 누운 뒤 천천히 기립
 
-#### <mark style="color:$primary;">용법</mark>
+**용법**
 
 * nifedipine : 0.2\~0.3% 연고 bid\~tid, 항문 내 소량 도포 (조제)
-* diltiazem : 2% 연고  bid\~tid, 항문 내 소량 도포 (조제)
+* diltiazem : 2% 연고 bid\~tid, 항문 내 소량 도포 (조제)
 
-{% hint style="info" %}
-국내에서 nifedipine·diltiazem 항문 연고는 처방에 따라 **조제약국**에서 제조함. 상업적 완제품은 현재 없음.
+#### <mark style="color:$primary;">국소 Nitric Oxide Donor (NTG)</mark>
 
-📌 **실무 팁** : 일반 동네 약국에서는 CCB 원료 의약품을 구비하지 않아 조제가 불가능한 경우가 많음. 주로 대형 대장항문외과 인근 지정 약국에서 조제 가능하므로, 처방 전 주변 약국 상황을 확인하거나 여의치 않을 경우 완제품인 <mark style="color:blue;">\[파사렉트 연고]</mark>(NTG)를 우선 선택하는 것이 원활.
-{% endhint %}
-
-### <mark style="color:orange;">국소 Nitric Oxide Donor (NTG)</mark>
-
-* **기전** : Nitric oxide가 항문괄약근 이완의 신경전달물질로 작용 → 경련 완화·혈류 개선
-* **효과** : 치유율 약 50\~70%; 재발율 \~30% (연구마다 수치 차이 있음)
-* **부작용** : 두통·홍조·어지럼 \~40%에서 발생 (CCB보다 빈번; 실제 순응도 저하의 주요 원인)
+* 기전 : Nitric oxide가 항문괄약근 이완의 신경전달물질로 작용 → 경련 완화·혈류 개선
+* 효과 : 치유율 약 50\~70%; 재발율 \~30% (연구마다 수치 차이 있음)
+* 부작용 : 두통·홍조·어지럼 \~40%에서 발생 (CCB보다 빈번; 실제 순응도 저하의 주요 원인)
 * **주의** : 뜨거운 목욕·좌욕 직후에는 두통·어지럼이 심해질 수 있으므로 잠시 쉰 뒤 사용; 소량 자주 사용이 더 효과적; 도포 후 잠시 앉거나 누운 뒤 천천히 기립
 
-#### <mark style="color:$primary;">용법</mark>
+**용법**
 
-* glyceryl trinitrate(nitroglycerin) 0.2~~0.4% ointment - bid~~tid, 항문 내(최소 1 cm 깊이) 1\~1.5 cm 도포 <mark style="color:blue;">\[파사렉트 연고]</mark>
-
-### <mark style="color:orange;">국소 마취제 및 진통제</mark>
+* glyceryl trinitrate(nitroglycerin) : 0.2\~0.4% 연고 bid\~tid, 항문 내(최소 1 ㎝ 깊이) 1\~1.5 ㎝ 도포 <mark style="color:blue;">\[파사렉트 연고]</mark>
 
 #### <mark style="color:$primary;">국소 마취제</mark>
 
-* lidocaine ± prilocaine 연고 - 통증 시 또는 배변 30분 전 도포; qd\~tid <mark style="color:blue;">\[푸레파 연고]</mark> (비급여)
-* lidocaine 좌제 - 항문 내 삽입형; 배변 전 사용 <mark style="color:blue;">\[푸레파인 좌제]</mark> (비급여)
+* lidocaine ± prilocaine 연고 :  통증 시 또는 배변 30분 전 도포; qd\~tid <mark style="color:blue;">\[푸레파 연고]</mark> (비급여)
+* lidocaine 좌제 : 항문 내 삽입형; 배변 전 사용 <mark style="color:blue;">\[푸레파인 좌제]</mark> (비급여)
 
 #### <mark style="color:$primary;">전신 진통제</mark>
 
-* **acetaminophen** 또는 NSAIDs 경구 : 급성 통증 시 단기 사용
+* acetaminophen 또는 NSAIDs 경구 : 급성 통증 시 단기 사용
   * NSAIDs : 항문 출혈 환자, 위궤양·위장관 출혈 위험 환자에서 주의
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-### <mark style="color:orange;">보툴리눔 독소 주사</mark>
+#### <mark style="color:$primary;">보툴리눔 독소 주사</mark>
 
-* **기전** : 내항문괄약근 지배 신경에서의 acetylcholine 방출 차단 → 괄약근 마비·이완
-* **시술** : 내항문괄약근 양측에 주사; 표준화된 용량은 없으며 20\~40 IU 범위에서 사용됨
-* **효과** : 치유율 약 60\~80% (연구 간 편차 큼); 장기 치유율은 저하 경향
-* **적응** : 약물 치료 실패; 특히 변실금 위험이 높은 환자(고령, 다산부, 기존 괄약근 손상력)에서 **LIS 대신 수술의 안전한 대안**으로 선택 가능
-* **부작용** : 일시적 변실금 (\~10%)
+* 기전 : 내항문괄약근 지배 신경에서의 acetylcholine 방출 차단 → 괄약근 마비·이완
+* 시술 : 내항문괄약근 양측에 주사; 표준화된 용량은 없으며 20\~40 IU 범위에서 사용됨
+* 효과 : 치유율 약 60\~80% (연구 간 편차 큼); 장기 치유율은 저하 경향
+* 적응 : 약물 치료 실패; 특히 변실금 위험이 높은 환자(고령, 다산부, 기존 괄약근 손상력)에서 LIS 대신 수술의 안전한 대안으로 선택 가능
+* 부작용 : 일시적 변실금 (\~10%)
 
-### <mark style="color:orange;">Lateral Internal Sphincterotomy (LIS)</mark>
+#### <mark style="color:$primary;">Lateral Internal Sphincterotomy (LIS)</mark>
 
-* **방법** : 내항문괄약근 하부 1/3 절개 → 항문 내압 감소
-* **효과** : 2\~4주 내 완치; 장기 치유율 >90%, 재발율 <10%
-* **부작용** : 일시적인 가스 실금 또는 소량 변 누출이 일부에서 나타날 수 있으나 대부분 자연 호전됨; 일부 연구에서는 장기 변실금 위험이 5\~10%까지 보고되므로 사전 충분한 설명 필요
-* **적응** : 보존적·약물 치료에 실패한 만성·난치성 열창 (변실금 위험이 낮은 환자)
+* 방법 : 내항문괄약근 하부 1/3 절개 → 항문 내압 감소
+* 효과 : 2\~4주 내 완치; 장기 치유율 >90%, 재발율 <10%
+* 부작용 : 일시적인 가스 실금 또는 소량 변 누출이 일부에서 나타날 수 있으나 대부분 자연 호전됨; 일부 연구에서는 장기 변실금 위험이 5\~10%까지 보고되므로 사전 충분한 설명 필요
+* 적응 : 보존적·약물 치료에 실패한 만성·난치성 열창 (변실금 위험이 낮은 환자)
 
-### <mark style="color:orange;">Fissurectomy / Advancement Flap</mark>
+#### <mark style="color:$primary;">Fissurectomy / Advancement Flap</mark>
 
-* **Fissurectomy** : 열창 및 하부 섬유화 조직 절제; 상처를 이차 유합(secondary intention)으로 치유
-* **Advancement flap (피판 전진술)** : 인접 점막·피부 피판을 전진시켜 결손 봉합 → 혈액 공급 개선
-* **적응** : LIS의 변실금 위험이 높은 환자(고령, 다산부, 이전 항문 수술력), 만성 항문열창
-* **임산부 주의** : 임신 중 발생한 항문열창은 분만 후 상당수 자연 치유되며, 임신 중 수술은 조산 위험 등으로 원칙적으로 피함. **분만 후에도 지속되는 난치성 열창에 한해** 수술적 치료를 고려
+* Fissurectomy : 열창 및 하부 섬유화 조직 절제; 상처를 이차 유합(secondary intention)으로 치유
+* Advancement flap (피판 전진술) : 인접 점막·피부 피판을 전진시켜 결손 봉합 → 혈액 공급 개선
+* 적응 : LIS의 변실금 위험이 높은 환자(고령, 다산부, 이전 항문 수술력), 만성 항문열창
+* 임산부 주의 : 임신 중 발생한 항문열창은 분만 후 상당수 자연 치유되며, 임신 중 수술은 조산 위험 등으로 원칙적으로 피함. 분만 후에도 지속되는 난치성 열창에 한해 수술적 치료를 고려
 
 ***
 
