@@ -106,7 +106,9 @@ HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 funct
 {% endhint %}
 
 {% hint style="info" %}
-**ALT ULN 성별 기준** : ALT가 검사실 정상 범위 내에 있더라도 간섬유화나 염증이 존재할 수 있음. AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 임상적 기준으로 제시. 우리나라 대부분의 검사실 ULN(보통 남성 40–45, 여성 35–40 U/L)보다 엄격하므로, "정상 ALT"라도 고위험군에서는 섬유화 평가를 고려
+**ALT ULN 성별 기준** : ALT가 검사실 정상 범위 내에 있더라도 간섬유화나 염증이 존재할 수 있다.\
+**대한간학회 2022 권고** : 한국인에서 간질환 관련 사망률이 증가하기 시작하는 기준치를 근거로 **남성 34 IU/L, 여성 30 IU/L**를 ALT 정상 상한치로 권고한다 (KASL 2022, p.33).\
+AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 우리나라 대부분의 검사실 ULN(보통 남성 40–45, 여성 35–40 U/L)보다 두 기준 모두 엄격하다. **"정상 ALT"라도 고위험군에서는 섬유화 평가**를 고려한다.
 {% endhint %}
 
 ### <mark style="color:orange;">Serologic Marker 해석</mark>
@@ -177,11 +179,7 @@ class L,K,M sky
 
 <p align="center"><strong>만성 B형간염 치료 결정 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022.</mark></em></p>
-
-***
-
-## <mark style="background-color:orange;">Management</mark>
+<p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Fig 3.</mark></em></p>
 
 ### <mark style="color:orange;">급성 B형간염</mark>
 
@@ -310,8 +308,9 @@ flowchart TD
 
 <p align="center"><strong>경구 항바이러스제 선택 알고리듬</strong></p>
 
+<p align="center"><em><mark style="color:$info;">편집부 알고리듬. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Fig 5·권고사항에 근거.</mark></em></p>
+
 | 항목       | <p>TDF<br>[비리어드]</p> | <p>TAF<br>[베믈리디]</p> | <p>ETV<br>[바라크루드]</p> | <p>Besifovir<br>[베시포]</p> |
-| -------- | -------------------- | -------------------- | --------------------- | ------------------------- |
 | 항바이러스 효능 | 매우 강함                | 매우 강함                | 매우 강함                 | 강함                        |
 | 내성 장벽    | 높음                   | 높음                   | 높음                    | 높음                        |
 | 신독성      | 상대적 ↑                | 낮음                   | 낮음                    | 낮음(TDF 대비)                |
@@ -362,7 +361,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">치료 종료 및 종료 후 모니터링</mark>
 
-* **종료 기준** : HBsAg 소실 이후 경구 항바이러스제 종료; HBeAg(+) 환자는 virologic 또는 serologic response 달성 후 12개월 이상 투여한 후 종료 고려
+* **종료 기준** : HBsAg 소실 이후 경구 항바이러스제 종료 (A1); HBeAg(+) 환자는 **HBV DNA 불검출 및 HBeAg 소실 또는 혈청전환이 이루어진 후** 12개월 이상 투여한 후 종료 고려 (B2) — virologic·serologic response **둘 다** 충족해야 함
 * **주의** : 치료 종료 후 재활성화 위험이 높아 장기 추적이 필수이며, 실제 임상에서는 재발 위험·환자 상황에 따라 장기 유지 치료를 선택하는 경우가 많다
 * 간경변증 환자에서는 **장기간 치료 고려**; 비대상성 간경변증 환자에서는 **경구 항바이러스제 중단 불가**
 * 치료 종료 후 1년간 : LFT·HBV DNA 1\~6개월마다, HBeAg/Ab 3\~6개월마다
@@ -413,7 +412,7 @@ flowchart TD
 
 <p align="center"><strong>경구 항바이러스제 투여 중 관리</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Fig 3.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">편집부 알고리듬. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. 치료 종료 및 종료 후 모니터링 권고사항에 근거.</mark></em></p>
 
 ***
 
@@ -439,15 +438,16 @@ flowchart TD
 
 * 선호 약제 : **ETV, TAF, besifovir**
 * TDF 복용 중 신기능↓ 또는 골밀도↓ 우려 시 TAF, besifovir, ETV로 전환 고려
-* 신기능별 투여 제한 (신장 대체 요법 미시행 환자) :
-  * CrCl ＜50 → besifovir 투여 제한
-  * CrCl ＜15 → TAF 투여 제한
-  * CrCl ＜10 → TDF 투여 제한
+* 신기능별 투여 제한 및 용량 조절 (신장 대체 요법 미시행 환자, KASL 2022 Table 8 · Fig 5) :
+  * CrCl ＜50 → **ETV 용량 조절** 필요 (투여 제한 아님; Table 8 참조)
+  * CrCl ＜15 → **TAF** 투여 불가
+  * CrCl ＜15 → **Besifovir** 투여 불가 (임상 자료 부족)
+  * TDF : CrCl 기준에 따른 용량 조절 (Table 8 참조)
 
 #### <mark style="color:$primary;">임신부</mark>
 
 * 선호 약제 : **TDF** (Peg-IFN-α 금기)
-* HBV DNA ≥200,000 IU/㎖인 경우 : 임신 24\~32주부터 출산 후 2\~12주까지 TDF 투여 권고 (수직감염 예방; HIRA 급여 인정 기준)
+* HBV DNA ≥200,000 IU/㎖인 경우 : 임신 24\~32주부터 출산 후 **최대 12주**까지 TDF 투여 권고 (수직감염 예방; HIRA 급여 인정 기준)
 * 치료 종료 후 1\~3개월마다 최대 6개월까지 hepatitis flare 감시
 
 {% hint style="info" %}
@@ -506,9 +506,9 @@ flowchart TD
     Screen --> HBsAg{HBsAg 양성?}
 
     HBsAg -- yes --> DNA[HBV DNA 측정]
-    DNA --> ProA[예방적 항바이러스제 시작\nETV / TAF / TDF\n면역억제 시작 1~4주 전]
+    DNA --> ProA[예방적 항바이러스제 시작\nETV / TAF / TDF\n면역억제 시작 7일 전 또는 동시]
     ProA --> MonA[치료 중 ALT·HBV DNA q3개월]
-    MonA --> EndA[종료 후 6~18개월 유지\nrituximab: 12~18개월 이상]
+    MonA --> EndA[종료 후 최소 6개월 유지\nrituximab 등 B세포 고갈제: 최소 12개월]
 
     HBsAg -- no --> HBcAb{Anti-HBc 양성?\nResolved HBV}
     HBcAb -- no --> Safe[HBV 재활성화 예방 불필요\n백신 여부 확인]
@@ -534,34 +534,32 @@ flowchart TD
 
 <p align="center"><strong>HBV 재활성화 예방 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. AGA Clinical Practice Guideline on Prevention and Treatment of HBV Reactivation. Gastroenterology. 2025.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">편집부 알고리듬. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Table 9 및 면역억제제 치료 권고사항에 근거.</mark></em></p>
 
 ***
 
 **위험도 분류 및 예방 전략**
 
-| 위험도                                                                                                               | 해당 약제 / 상황                                                                                                            | <p>HBsAg(+)<br>또는 resolved HBV¹⁾</p>                                                                                 | 예방 기간²⁾                                                                                |
-| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| <p><mark style="color:$danger;"><strong>고위험</strong></mark><br><mark style="color:$danger;">(>10%)</mark></p>     | B세포 고갈제 (rituximab 등 Anti-CD20); 조혈모세포이식(HSCT); 고용량 스테로이드 ≥20 mg/d + 항암화학요법; 면역관문억제제(checkpoint inhibitor) + HBsAg(+) | <p><strong>HBsAg(+)</strong> → 항바이러스제 예방적 투여<br><strong>Resolved HBV</strong> (HBsAg(-)/HBcAb(+)) → 예방적 투여 강력 권고</p> | <p>면역억제 종료 후 <strong>12~18개월</strong> 이상 유지<br>(rituximab: 최소 12개월; 지연 재활성화 보고 있음)</p> |
-| <p><mark style="color:$warning;"><strong>중등위험</strong></mark><br><mark style="color:$warning;">(1~10%)</mark></p> | TNF 억제제, IL-6 억제제, JAK 억제제; 스테로이드 ≥10 mg/d ≥4주; 세포독성 항암화학요법; 칼시뉴린 억제제                                                 | <p><strong>HBsAg(+)</strong> → 예방적 투여 권고<br><strong>Resolved HBV</strong> → 예방 또는 면밀한 모니터링 (공유 의사결정)</p>             | 면역억제 종료 후 **6개월** 이상                                                                   |
-| <p><mark style="color:$info;"><strong>저위험</strong></mark><br><mark style="color:$info;">(&#x3C;1%)</mark></p>     | 스테로이드 <10 mg/d 단기; methotrexate, azathioprine, hydroxychloroquine; 관절강 내 스테로이드 주사                                     | <p><strong>HBsAg(+)</strong> → 개별 판단; 모니터링<br><strong>Resolved HBV</strong> → 통상적 모니터링</p>                           | —                                                                                      |
+<table><thead><tr><th width="90">위험도</th><th width="290">해당 약제 / 상황</th><th width="200">HBsAg(+)<br>또는 resolved HBV¹⁾</th><th>예방 기간²⁾</th></tr></thead><tbody><tr><td><mark style="color:$danger;"><strong>고위험</strong><br>(≥10%)</mark></td><td><p><strong>HBsAg(+) 환자:</strong><br>• B세포 고갈제 (rituximab, ofatumumab, alemtuzumab 등 Anti-CD20/CD52)<br>• 조혈모세포이식(HSCT)<br>• 고용량 스테로이드 (prednisone ≥20 mg/d, ≥4주) — 단독 투여 시도 고위험<br>• 강력 TNFα 억제제 (infliximab, adalimumab, certolizumab, golimumab)<br>• 안트라사이클린 계열 (doxorubicin, daunorubicin, epirubicin)<br>• TACE<br>• CAR-T 세포 치료<br><br><strong>Resolved HBV 환자:</strong><br>• B세포 고갈제만 고위험</p></td><td><strong>HBsAg(+)</strong> → 항바이러스제 예방적 투여<br><strong>Resolved HBV</strong> (HBsAg(-)/HBcAb(+)) → 예방적 투여 강력 권고 (B세포 고갈제); 기타 → 위험도에 따라 판단</td><td>면역억제 종료 후 <strong>최소 6개월</strong><br>rituximab 포함 B세포 고갈제: 종료 후 <strong>최소 12개월</strong></td></tr><tr><td><mark style="color:$warning;"><strong>중등위험</strong><br>(1~10%)</mark></td><td><p>• 세포독성 항암화학요법 (안트라사이클린 제외)<br>• 중등도 스테로이드 (prednisone 10–20 mg/d, ≥4주)<br>• 약한 TNFα 억제제 (etanercept)<br>• IL-6 억제제, JAK 억제제 (tofacitinib, baricitinib), abatacept, ustekinumab<br>• 면역관문억제제 ICI (pembrolizumab, nivolumab 등) — HBsAg(+)에서 중등위험<br>• 칼시뉴린 억제제 (cyclosporine), mTOR 억제제<br>• TKI (imatinib, nilotinib, ibrutinib 등), 프로테아좀 억제제</p></td><td><strong>HBsAg(+)</strong> → 예방적 투여 권고<br><strong>Resolved HBV</strong> → 예방 또는 면밀한 모니터링 (공유 의사결정)</td><td>면역억제 종료 후 <strong>최소 6개월</strong></td></tr><tr><td><mark style="color:$info;"><strong>저위험</strong><br>(&lt;1%)</mark></td><td>• 저용량 스테로이드 (prednisone &lt;10 mg/d)<br>• MTX, azathioprine, hydroxychloroquine, mycophenolate, leflunomide<br>• 관절강 내 스테로이드 주사<br>• ICI — Resolved HBV에서 저위험</td><td><strong>HBsAg(+)</strong> → 개별 판단; 모니터링<br><strong>Resolved HBV</strong> → 통상적 모니터링</td><td>—</td></tr></tbody></table>
 
 _¹⁾ Resolved HBV = HBsAg(-) / Anti-HBc(+) / HBsAb(±); cccDNA가 간세포에 잠복하여 재활성화 가능_\
-&#xNAN;_&#xB2;⁾ 치료 기간 중 및 종료 후 예방 기간; 개별 약제 및 환자 상태에 따라 조정_
+_²⁾ 치료 기간 중 및 종료 후 예방 기간; 개별 약제 및 환자 상태에 따라 조정_\
+_Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Table 9._
 
 **예방적 항바이러스제 선택**
 
 * **선호** : ETV <mark style="color:blue;">\[바라크루드]</mark> 0.5 mg qd, TDF <mark style="color:blue;">\[비리어드]</mark> 300 mg qd, 또는 TAF <mark style="color:blue;">\[베믈리디]</mark> 25 mg qd
 * LAM(라미부딘)은 내성 위험 높아 **비권고**; 불가피한 경우에만 단기 사용
-* 면역억제 시작 **1\~4주 전**부터 항바이러스제 예방 투여 시작
+* 면역억제 시작과 동시 또는 **시작 7일 전**부터 항바이러스제 예방 투여 시작 (KASL 2022)
 
 **모니터링**
 
 * 항바이러스 예방 투여 중 : ALT, HBV DNA를 3개월마다
-* 예방 종료 후 : 3\~6개월마다 ALT, HBV DNA (최소 1년간); reactivation 의심 시 즉시 HBV DNA 검사
+* 예방 종료 후 : ALT, HBV DNA를 3\~6개월마다 **최소 12개월간** 관찰; reactivation 의심 시 즉시 HBV DNA 검사 (KASL 2022)
 
 {% hint style="danger" %}
-⚠️ **임상 실천 요점**: 류마티스 내과, 혈액종양내과, 종양내과 등에서 rituximab, 생물학적 제제, 고용량 스테로이드를 처방하기 전에 반드시 HBV 스크리닝을 시행한다. \*\*HBcAb(+) 환자(resolved HBV)\*\*도 고위험 면역억제제 투여 시 재활성화 위험이 있으므로 예방 또는 면밀한 추적이 필요하다. 1차의료에서는 위험 약제 처방 전 검사 확인 및 전문과 협진을 권고한다.
+⚠️ **임상 실천 요점**: 류마티스 내과, 혈액종양내과, 종양내과 등에서 rituximab, 생물학적 제제, 고용량 스테로이드를 처방하기 전에 반드시 HBV 스크리닝을 시행한다. **HBcAb(+) 환자(resolved HBV)**도 고위험 면역억제제 투여 시 재활성화 위험이 있으므로 예방 또는 면밀한 추적이 필요하다.\
+단, anti-HBc(+)이면서 **anti-HBs 역가 >100 IU/mL**인 경우에는 rituximab 투여 시에도 HBV DNA를 면밀히 관찰하며 재활성화 발생 시 즉각 치료를 시작하는 전략을 고려할 수 있다 (KASL 2022). 1차의료에서는 위험 약제 처방 전 검사 확인 및 전문과 협진을 권고한다.
 {% endhint %}
 
 ***
@@ -645,7 +643,7 @@ B18.1 델타-병원체가 없는 만성 바이러스B형간염
 > **처방례 6. 면역억제제(rituximab 등) 투여 전 HBV 재활성화 예방 — HBsAg(+) 또는 Resolved HBV**
 >
 > ```
-> 바라크루드 0.5mg   1T   qd   (면역억제 시작 1~4주 전부터 투여 시작)
+> 바라크루드 0.5mg   1T   qd   (면역억제 시작 7일 전 또는 동시에 투여 시작)
 > ```
 >
 > _✽ 면역억제 치료 시작 전 HBV 스크리닝(HBsAg, HBcAb, HBsAb)을 반드시 시행한다. HBsAg(+) 또는 HBsAg(-)/HBcAb(+)\[resolved HBV] 환자에서 rituximab·항암화학요법 등 고위험 면역억제제 사용 시 ETV 예방적 투여. Rituximab 사용 환자는 치료 종료 후 최소 12개월 이상 유지한다(지연 재활성화 위험). 신기능 저하 위험이 있으면 TAF로 대체 가능._
