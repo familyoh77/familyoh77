@@ -8,13 +8,11 @@
 
 ### <mark style="color:orange;">분류</mark>
 
-<table><thead><tr><th width="160">분류</th><th width="200">위치</th><th width="130">통증</th><th>특징</th></tr></thead><tbody><tr><td><strong>External H (외치핵)</strong></td><td>Dentate line 아래 (squamous epithelium)</td><td>통증(+)</td><td>혈전 형성 시 급격한 통증</td></tr><tr><td><strong>Internal H (내치핵)</strong></td><td>Dentate line 위 (columnar epithelium)</td><td>통증(-)</td><td>Grade I\~IV로 분류 (아래 참조)</td></tr><tr><td><strong>Mixed H (혼합치핵)</strong></td><td>Dentate line에 걸쳐 있거나 상하 모두 포함</td><td>혼재</td><td>외과적 치료 필요성 높음</td></tr></tbody></table>
+<table><thead><tr><th width="170.52630615234375">분류</th><th width="200">위치</th><th width="95.26318359375">통증</th><th>특징</th></tr></thead><tbody><tr><td>External H (외치핵)</td><td>Dentate line 아래 (squamous epithelium)</td><td>통증(+)</td><td>혈전 형성 시 급격한 통증</td></tr><tr><td>Internal H (내치핵)</td><td>Dentate line 위 (columnar epithelium)</td><td>통증(-)</td><td>Grade I~IV로 분류 (아래 참조)</td></tr><tr><td>Mixed H (혼합치핵)</td><td>Dentate line에 걸쳐 있거나 상하 모두 포함</td><td>혼재</td><td>외과적 치료 필요성 높음</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">내치핵 Grade 분류 (Goligher 분류)</mark>
 
 <table><thead><tr><th width="110">Grade</th><th width="280">정의</th><th>1차 치료</th></tr></thead><tbody><tr><td>Grade I</td><td>탈출 없음; 출혈만 있음</td><td>보존적 치료</td></tr><tr><td>Grade II</td><td>배변 시 탈출 → 자연 환원</td><td>보존적 치료 (호전 없으면 최소 침습 시술)</td></tr><tr><td>Grade III</td><td>배변 시 탈출 → 손으로 환원 필요</td><td>최소 침습 시술 또는 수술 의뢰</td></tr><tr><td>Grade IV</td><td>탈출 지속 → 환원 불가</td><td>수술 의뢰</td></tr></tbody></table>
-
-***
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -24,8 +22,8 @@
 * 만성 변비 또는 만성 설사
 * 식이 섬유 섭취 부족, 수분 섭취 부족
 * 비만, 임신(후반기), 오래 앉아 있는 직업
-* 골반강 점유 병변 (종양, 자궁근종 등)\
-  ✽ Portal hypertension은 직장정맥류(rectal varix)와 관련되나, 직장정맥류는 치핵과 별개의 병리(점막하 정맥 확장 ≠ 혈관 쿠션 이탈); 치핵의 직접 원인으로 보기 어려움
+* 골반강 점유 병변 (종양, 자궁근종 등)
+  * Portal hypertension은 직장정맥류(rectal varix)와 관련되나, 직장정맥류는 치핵과 별개의 병리(점막하 정맥 확장 ≠ 혈관 쿠션 이탈); 치핵의 직접 원인으로 보기 어려움
 
 #### <mark style="color:$primary;">항문 지지 구조 약화</mark>
 
@@ -33,56 +31,50 @@
 * 직장·항문 수술, 출산 외상
 * 반복적 항문 외상 병력
 
-***
-
 ## <mark style="color:green;">임상 양상</mark>
 
-* **배변 시 무통성 선홍색 출혈** : 가장 흔한 증상; 휴지나 변기에 선홍색으로 묻음; 지속 시 빈혈 발생 가능
+* 배변 시 무통성 선홍색 출혈 : 가장 흔한 증상; 휴지나 변기에 선홍색으로 묻음; 지속 시 빈혈 발생 가능
 * 항문 가려움, 자극감, 불편감, 점액 분비
 * 항문 종괴 또는 부종 (탈출 또는 혈전)
-* **통증** : 외치핵의 혈전 형성, 항문 열상, 항문 주위 농양에 의해 발생; 단순 내치핵은 통증 없음\
-  ✽ 단, 감돈(strangulation) 또는 혈전을 동반한 탈출 내치핵은 심한 통증 가능
-
-***
+* 통증 : 외치핵의 혈전 형성, 항문 열상, 항문 주위 농양에 의해 발생; 단순 내치핵은 통증 없음
+  * 단, 감돈(strangulation) 또는 혈전을 동반한 탈출 내치핵은 심한 통증 가능
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 이송**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치 또는 이송**</mark>&#x20;
 
-* 대량 직장 출혈 + 혈역학적 불안정 (빈맥, 저혈압, 실신, 창백)
-* 감돈 치핵 (incarcerated hemorrhoid) : 환원 불가한 탈출 + 극심한 통증 + 괴사 징후 (자색 변색, 악취)
+* 빈맥, 저혈압, 실신, 창백 - 대량 직장 출혈 + 혈역학적 불안정&#x20;
+* 환원 불가한 탈출 + 극심한 통증 + 괴사 징후 (자색 변색, 악취) → 감돈 치핵 (incarcerated hemorrhoid)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 혈전성 외치핵 발병 **72시간 이내** : 절제술로 즉각 통증 완화 가능 → 외과 의뢰
+* 혈전성 외치핵 발병 72시간 이내
 * Grade IV 내치핵 급성 탈출 (환원 시도 실패)
-* 항문 주위 농양 의심 : 박동성 항문 통증 + 발열 + 국소 압통
+* 박동성 항문 통증 + 발열 + 국소 압통 → 항문 주위 농양
 * 직장 출혈 + 빈혈 소견 (어지러움, 피로, Hb 저하)
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 4\~6주 보존적 치료 후에도 Grade I\~II 증상 지속 → 최소 침습 시술 의뢰 고려
-* Grade III 치핵 진단 → 외과 의뢰 계획 수립
-* 직장 출혈이 전형적 치핵 양상과 다르거나, 대장암 선별 검사 대상 연령(≥45세)에 해당하면 → 대장내시경 고려
-* 직장 출혈 + 체중 감소, 배변 습관 변화, 대장암 가족력 → 악성 병변 배제 필수
-
-***
+* 4\~6주 보존적 치료 후에도 Grade I\~II 증상 지속
+* Grade III 치핵 진단
+* 직장 출혈이 전형적 치핵 양상과 다르거나, 대장암 선별 검사 대상 연령(≥45세)
+* 직장 출혈 + 체중 감소, 배변 습관 변화, 대장암 가족력 → 악성 병변
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">검사</mark>
 
-* **Digital rectal exam (DRE), 항문경(anoscopy)** : 1차 평가; 내치핵 Grade, 외치핵 여부, 혈전 확인\
-  ✽ 심한 통증이 있으면(혈전성 외치핵, 항문 열창 의심) DRE를 무리하게 시행하지 않음
-* **S상결장경, 대장내시경** : 다음 경우에 적응
+* Digital rectal exam (DRE), 항문경(anoscopy) : 1차 평가; 내치핵 Grade, 외치핵 여부, 혈전 확인
+  * 심한 통증이 있으면(혈전성 외치핵, 항문 열창 의심) DRE를 무리하게 시행하지 않음
+* S상결장경, 대장내시경 : 다음 경우에 적응
   * 대장암 선별 검사 대상(≥45세) 또는 CRC 위험 인자 보유 시
   * 출혈 양상이 전형적 치핵과 다를 때 (암적색, 점액 혼합, 배변 습관 변화 동반)
   * 악성 병변, IBD 등 감별이 필요한 경우
-* **혈액 검사** : 빈혈 의심 시 CBC; 그 외에는 일상적으로 필요하지 않음
+* 혈액 검사 : 빈혈 의심 시 CBC; 그 외에는 일상적으로 필요하지 않음
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="170">감별 질환</th><th width="230">시사하는 소견</th><th>특징적 진찰 소견</th></tr></thead><tbody><tr><td>항문 열창</td><td>배변 시 출혈 + 극심한 통증</td><td>항문 후벽 점막 열상; DRE 시 통증으로 시행 어려움</td></tr><tr><td>항문 주위 농양</td><td>서서히 진행하는 박동성 통증 + 발열</td><td>항문 주위 피부 압통, 발적, 파동</td></tr><tr><td>항문직장암 / 대장암</td><td>혈변, 체중 감소, 복통, 배변 습관 변화, 가족력</td><td>복부 종괴 또는 압통; 대장내시경 필수</td></tr><tr><td>IBD (염증성 장질환)</td><td>전신 증상, 반복되는 복통·설사, IBD 가족력</td><td>항문 병변(누공, 피부꼬리) 동반 가능; 대장내시경 필수</td></tr><tr><td>항문 콘딜로마</td><td>비출혈성 항문 종괴, 항문 성교력</td><td>배추꽃(cauliflower) 모양 병소</td></tr><tr><td>직장 탈출증 (rectal prolapse)</td><td>탈출 병변이 전체 직장벽 포함</td><td>동심원 주름(concentric folds); 방사상 주름인 치핵 탈출과 구별</td></tr><tr><td>항문 피부꼬리 (skin tag)</td><td>출혈 없음; 연성 피부 돌출</td><td>피부로 덮인 부드러운 돌기; 무증상</td></tr></tbody></table>
+<table><thead><tr><th width="131.05267333984375">감별 질환</th><th width="275.26318359375">시사하는 소견</th><th>특징적 진찰 소견</th></tr></thead><tbody><tr><td>항문 열창</td><td>배변 시 출혈 + 극심한 통증</td><td>항문 후벽 점막 열상; DRE 시 통증으로 시행 어려움</td></tr><tr><td>항문 주위 농양</td><td>서서히 진행하는 박동성 통증 + 발열</td><td>항문 주위 피부 압통, 발적, 파동</td></tr><tr><td>항문직장암 / <br>대장암</td><td>혈변, 체중 감소, 복통, 배변 습관 변화, 가족력</td><td>복부 종괴 또는 압통; 대장내시경 필수</td></tr><tr><td>IBD</td><td>전신 증상, 반복되는 복통·설사, IBD 가족력</td><td>항문 병변(누공, 피부꼬리) 동반 가능; 대장내시경 필수</td></tr><tr><td>항문 콘딜로마</td><td>비출혈성 항문 종괴, 항문 성교력</td><td>배추꽃(cauliflower) 모양 병소</td></tr><tr><td>직장 탈출증</td><td>탈출 병변이 전체 직장벽 포함</td><td>동심원 주름(concentric folds); 방사상 주름인 치핵 탈출과 구별</td></tr><tr><td>항문 skin tag</td><td>출혈 없음; 연성 피부 돌출</td><td>피부로 덮인 부드러운 돌기; 무증상</td></tr></tbody></table>
 
 ***
 
@@ -144,52 +136,54 @@ Grade IV · 수술 적응증 : 외과 의뢰
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* **Grade I–II** : 보존적 치료 우선; 배변 시 힘 줄이기, 식이 섬유 증가, 국소제 사용
-* **배변 환경 교정** : 변비 또는 설사 교정 (☞ [변비](085_-constipation.md)); 항문 긴장 감소가 핵심
-* **경증·배변 후 불편감** : 직장 연고제, 좌욕 (증상 경감 목적; RCT 근거 제한적)
-* **보존적 치료 실패 또는 Grade III 이상** : 최소 침습 시술 또는 수술 외과 의뢰
+* Grade I, II : 보존적 치료; 비약물요법(식이, 배변) + 국소제 + 필요시 diosmin) → 4\~6주 내 대부분 호전
+  * 경증·배변 후 불편감 : 직장 연고제, 좌욕 (증상 경감 목적; RCT 근거 제한적)
+* 보존적 치료 실패 또는 Grade III 이상 : 최소 침습 시술(rubber band ligation 등) 또는 외과적 치료
+* Grade IV · 수술
+* 모든치료 단계 및 예방에서 배변 환경 교정 : 변비 또는 설사 교정 (☞ [변비](085_-constipation.md)); 항문 긴장 감소가 핵심
 
 {% hint style="info" %}
-**💡 외래 Clinical Pearls**
+**외래 Clinical Pearls**
 
-* **"통증 없는 선홍색 출혈"** = 내치핵 전형 소견; 바로 치료 시작 가능
-* **"심한 통증"** 동반 시 → 항문 열창, 혈전성 외치핵, 항문 주위 농양 우선 감별
+* "통증 없는 선홍색 출혈" = 내치핵 전형 소견; 바로 치료 시작 가능
+* "심한 통증" 동반 시 → 항문 열창, 혈전성 외치핵, 항문 주위 농양 우선 감별
 * 치핵이 있어도 대장암이 배제되지 않음 — 선별 기준 충족 시 대장내시경 진행
 * 스마트폰·화장실 장시간 사용 교정이 재발 예방의 실질적 핵심
 * 변비와 설사를 동시에 교정해야 재발 감소 가능 — 하나만 치료하면 불충분
-* **급여 주의** : 치센(MPFF) 등 diosmin/flavonoid 계열은 하지정맥부전에는 급여 허용이 상대적으로 관대하나, 치핵 급성 증상에는 전액 본인부담(100/100) 또는 비급여로 처리되는 경우가 많음 — 원내 처방 코드 세팅 및 환자 안내 필요
+* 급여 주의 : diosmin/flavonoid 계열은 전액 본인부담(100/100) 또는 비급여로 처리되는 경우가 많음
 {% endhint %}
-
-***
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-### <mark style="color:orange;">좌욕 (Sitz Bath)</mark>
+* 배변 시 힘 줄이기, 식이 섬유 섭취 늘림
+* 배변 환경 교정 : 변비 또는 설사 교정 (☞ 변비); 항문 긴장 감소가 핵심
 
-{% hint style="info" %}
-좌욕은 증상 완화에 경험적으로 널리 권장되나, 치핵 자체를 치유하는 효과는 RCT에서 확립되지 않았습니다. 통증·가려움·불편감 완화 목적으로 시행합니다.
-{% endhint %}
+### <mark style="color:orange;">좌욕 (Sitz Bath)</mark>
 
 * 1일 2\~3회 (배변 후 포함), 매회 10\~15분간 따뜻한 물에 항문을 담금
 * 비누 또는 거품 제품 추가는 권하지 않음 (점막 자극 위험)
 * 좌욕 후 항문 부위는 비데 저온 기능 또는 헤어드라이어 저온풍으로 부드럽게 건조; 이후 보습제 도포
 
-### <mark style="color:orange;">생활 습관 교정</mark>
+{% hint style="info" %}
+좌욕은 온열에 의한 항문 괄약근 이완 및 혈류 개선 기전으로 통증·불편감 완화에 경험적으로 권고되지만, 증상 완화나 치핵 자체의 치료 효과는 근거가 충분하지 않음. 부작용이 거의 없으므로 증상 조절 목적의 보조 요법으로 사용 가능
+{% endhint %}
+
+#### <mark style="color:$primary;">배변 습관 교정</mark>
 
 * 변기에 오래 앉아 있지 않음; 배변 신호가 올 때 변기에 앉음
 * 배변 중 숨을 참거나 힘을 주는 것 최소화
 * 배변 후 마른 휴지 사용을 피함; 알코올·향수 성분 없는 물휴지 또는 비데 사용
 * 항문 세척 : 따뜻한 물로 세척; 비누 사용은 필요한 경우만; 알코올·방향제 회피
-* 장시간 앉아 있는 자세 회피; 규칙적 운동 (혈액순환 및 배변 규칙성 개선)
+* 장시간 앉아 있는 자세 회피; 규칙적 운동 (혈액 순환 및 배변 규칙성 개선)
 
-### <mark style="color:orange;">식이 및 수분</mark>
+#### <mark style="color:$primary;">식이 및 수분</mark>
 
-* **식이 섬유 충분히 섭취** : 25\~30 g/일; 복부 가스 등 불편하면 감량 조절\
-  ✽식이 섬유 보충제(예: 차전자피 <mark style="color:blue;">\[아기오과립]</mark>) 사용 시 변비와 치핵 출혈 모두에 Grade A 근거 (ASCRS 2020)
+* 식이 섬유 충분히 섭취 : 25\~30 g/일; 복부 가스 등 불편하면 감량 조절
+  * 필요시 보충제 사용 (예: 차전자피 <mark style="color:blue;">\[아기오과립]</mark>)
 * 수분 : 충분한 섭취 권장 (2 L/일 이상)
 * 복부 가스 유발 식품(콩류, 탄산음료 등) 과다 섭취 자제
 
-### <mark style="color:orange;">냉찜질</mark>
+#### <mark style="color:$primary;">냉찜질</mark>
 
 * 외치핵 혈전 형성 시 부종·통증 완화 목적으로 단기 사용 가능
 * 짧은 시간(10분 이내) 사용; 동상 및 피부 손상 주의; 직접 접촉 금지(천으로 싸서 사용)
