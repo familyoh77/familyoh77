@@ -237,16 +237,17 @@ class E,G white
 
 * 천공·범발성 복막염·농양(복잡성 충수염), 고열(＞38.9℃), 초기 항생제 무반응, 환자 거부
 
-**항생제 프로토콜** (합의된 단일 표준 없음; 총 치료 기간 8\~10일 권고)
+#### <mark style="color:$primary;">**항생제 프로토콜**</mark>
 
-<table><thead><tr><th width="150">단계</th><th width="200">약제</th><th>용량·용법</th></tr></thead><tbody><tr><td>IV 단계<br>(입원 24~72시간)</td><td>ceftriaxone + metronidazole<br>(비복잡성 1차 선택)</td><td>ceftriaxone 2 g qd IV<br>metronidazole 500 ㎎ q8h IV</td></tr><tr><td></td><td>ampicillin-sulbactam<br><mark style="color:blue;">\[유나신]</mark></td><td>3 g q6\~8h IV</td></tr><tr><td></td><td>piperacillin-tazobactam<br>(복잡성·중증 1차 선택)</td><td>4.5 g q6~8h IV</td></tr><tr><td></td><td>ertapenem <mark style="color:blue;">\[인반즈]</mark><br>(복잡성·ESBL 우려 시)</td><td>1 g qd IV</td></tr><tr><td>경구 전환<br>(증상 호전 후)</td><td>amoxicillin-clavulanate<br><mark style="color:blue;">\[오구멘틴]</mark></td><td>625 ㎎ tid pc × 7일</td></tr><tr><td></td><td>ciprofloxacin + metronidazole<br>(penicillin 알레르기 시)</td><td>ciprofloxacin 500 ㎎ bid<br>metronidazole 500 ㎎ tid × 7일</td></tr></tbody></table>
+* 총 치료 기간 8\~10일 권고; 합의된 단일 표준 없음
+
+<table><thead><tr><th width="150">단계</th><th width="272.6314697265625">약제</th><th>용량·용법</th></tr></thead><tbody><tr><td>IV 단계</td><td>ceftriaxone + metronidazole<br>(비복잡성 1차 선택)</td><td>ceftriaxone 2 g qd IV,<br>metronidazole 500 ㎎ q8h IV</td></tr><tr><td>(입원 24~72시간)</td><td>ampicillin-sulbactam <mark style="color:blue;">[유나신]</mark></td><td>3 g q6~8h IV</td></tr><tr><td></td><td>piperacillin-tazobactam<br>(복잡성·중증 1차 선택)</td><td>4.5 g q6~8h IV</td></tr><tr><td></td><td>ertapenem <mark style="color:blue;">[인반즈]</mark><br>(복잡성·ESBL 우려 시)</td><td>1 g qd IV</td></tr><tr><td>경구 전환</td><td>amoxicillin-clavulanate <mark style="color:blue;">[오구멘틴]</mark></td><td>625 ㎎ tid pc × 7일</td></tr><tr><td>(증상 호전 후)</td><td>ciprofloxacin + metronidazole<br>(penicillin 알레르기 시)</td><td>ciprofloxacin 500 ㎎ bid,<br>metronidazole 500 ㎎ tid × 7일</td></tr></tbody></table>
 
 ### <mark style="color:orange;">수술 후 외래 관리</mark>
 
-* 합병증이 없는 경우 1\~2주 후 업무 복귀, 4\~6주간 활동 제한 (＞5 ㎏ 들기·격한 운동 제한)
-* 합병증이 없는 경우 수술 후 1\~2주 후 업무 복귀 가능
-* **통증 관리** : NSAIDs (ibuprofen, celecoxib) ± acetaminophen 교호 사용
-* **수술 부위 관찰** : 발적, 삼출, 발열, 악취 - 감염 징후 시 즉시 내원 지시
+* 합병증이 없는 경우 1\~2주 후 업무 복귀 가능; 4\~6주간 활동 제한 (＞5 ㎏ 들기·격한 운동 제한)
+* 통증 관리 : NSAIDs (ibuprofen, celecoxib) ± acetaminophen 교호 사용
+* 수술 부위 관찰 : 발적, 삼출, 발열, 악취 - 감염 징후 시 즉시 내원 지시
 
 ***
 
