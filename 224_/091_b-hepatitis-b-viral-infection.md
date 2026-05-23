@@ -49,23 +49,17 @@
 
 ### <mark style="color:orange;">만성 B형간염 자연 경과 (Phase)</mark>
 
-<table><thead><tr><th width="55">단계</th><th width="230">임상 분류</th><th width="70">HBeAg</th><th width="70">ALT</th><th width="130">HBV DNA</th><th width="100">간 손상</th><th>치료</th></tr></thead><tbody><tr><td>1</td><td>면역관용기 / HBeAg(+) 만성 감염¹⁾<br><em>(HBeAg-positive chronic infection)</em></td><td>+</td><td>정상</td><td>≥10⁷ IU/㎖</td><td>최소~경도²⁾</td><td>원칙적 관찰; ≥30~40세·위험인자 시 섬유화 평가</td></tr><tr><td>2</td><td>HBeAg(+) 면역활동기 / HBeAg(+) 만성 간염<br><em>(HBeAg-positive chronic hepatitis)</em></td><td>+</td><td>↑(지속 또는 간헐적)</td><td>≥20,000 IU/㎖</td><td>중등도 이상</td><td>치료 대상 (ALT·섬유화 기준 충족 시)</td></tr><tr><td>3</td><td>면역비활동기 / HBeAg(-) 만성 감염<br><em>(HBeAg-negative chronic infection)</em></td><td>-</td><td>정상</td><td>＜2,000 IU/㎖</td><td>최소</td><td>관찰; 20%에서 간헐적 재활성화</td></tr><tr><td>4</td><td>HBeAg(-) 면역활동기 / HBeAg(-) 만성 간염³⁾<br><em>(HBeAg-negative chronic hepatitis)</em></td><td>-</td><td>↑(지속 또는 간헐적)</td><td>≥2,000 IU/㎖</td><td>중등도 이상</td><td>치료 대상</td></tr><tr><td>5</td><td>HBsAg 소실기 / 기능적 완치⁴⁾<br><em>(HBsAg loss / Functional cure)</em></td><td>-</td><td>정상</td><td>미검출</td><td>비활동성</td><td>추적 관찰 (HCC 위험 잔존)</td></tr></tbody></table>
-
-_CHB = Chronic hepatitis B_\
-&#xNAN;_&#xB9;⁾ 최근 AASLD·EASL·KASL은 "immune tolerant"·"inactive carrier" 같은 전통 용어 대신 **HBeAg-positive/negative chronic infection/hepatitis** 표현으로의 전환을 권장하고 있다. 본 문서에서는 임상 현장 친숙도를 위해 두 용어를 병기한다._\
-&#xNAN;_&#xB2;⁾ 전통적으로 간 손상이 경미하다고 알려졌으나, 최근 데이터에서는 ALT 정상이더라도 **유의한 간섬유화·간세포 clonal expansion·HCC 위험**이 존재할 수 있음이 강조된다. 특히 ≥30\~40세에서 중요._\
-&#xNAN;_&#xB3;⁾ HBeAg(-) 원인 : precore 또는 basal core promoter 유전자 변이로 HBeAg 생성 불가_\
-&#xNAN;_&#x2074;⁾ HBsAg 50세 이후 소실, 소실 시 이미 간경변증 동반인 경우, 남성에서는 HCC 발생 위험이 지속됨_
+<table><thead><tr><th width="49">단계</th><th width="335">임상 분류</th><th width="108">ALT</th><th width="101">HBV DNA  (IU/㎖)</th><th width="107">간 손상</th></tr></thead><tbody><tr><td>1</td><td>만성 B형 감염(CHB), 면역관용기; <em>HBeAg(+), Anti-HBe(-)</em></td><td>정상</td><td>≥10⁷</td><td>없음~최소</td></tr><tr><td>2</td><td>HBeAg(+) CHB, 면역활동기; <em>HBeAg(+), anti-HBe 발생 가능</em></td><td>↑(지속 또는 간헐적)</td><td>≥20,000</td><td>중등도 이상</td></tr><tr><td>3</td><td>CHB, 면역비활동기; <em>HBeAg(-), anti-HBe(+)</em></td><td>정상</td><td>＜2,000</td><td>최소</td></tr><tr><td>4</td><td>HBeAg(-) CHB, 면역활동기 ; <em>HBeAg(-), anti-HBe(+/-)</em></td><td>↑(지속 또는 간헐적)</td><td>≥2,000</td><td>중등도 이상</td></tr><tr><td>5</td><td>HBsAg 소실기; <em>HBeAg(-), anti-HBc(+), anti-HBs(+/-)</em></td><td>정상</td><td>미검출</td><td>-</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022.</mark></em></p>
 
 {% hint style="info" %}
 **Functional Cure — 치료의 이상적 목표**\
-HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 **functional cure**라 한다. cccDNA는 간세포 핵 내에 잔존하므로 완전 박멸(sterilizing cure)은 아니지만, HCC·간경변 위험을 최소화하는 최선의 결과이다. 최근에는 HBsAg의 완전 소실 없이 qHBsAg이 크게 감소한 상태를 **'partial cure'** 또는 **'clinical cure'** 개념으로 구분하기도 하나, **HBsAg 소실이 가장 강력하고 명확한 치료 지표**임은 변함없다. \*\*정량 HBsAg(qHBsAg)\*\*은 치료 반응 예측, finite therapy 종료 시점, grey-zone 환자 계층화에 활용된다.
+HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 functional cure라 함. cccDNA는 간세포 핵 내에 잔존하므로 완전 박멸(sterilizing cure)은 아니지만, HCC·간경변 위험을 최소화하는 최선의 결과임. 최근에는 HBsAg의 완전 소실 없이 qHBsAg이 크게 감소한 상태를 'partial cure' 또는 'clinical cure' 개념으로 구분하기도 하나, HBsAg 소실이 가장 강력하고 명확한 치료 지표임. 정량 HBsAg(qHBsAg)은 치료 반응 예측, finite therapy 종료 시점, grey-zone 환자 계층화에 활용됨
 {% endhint %}
 
 {% hint style="info" %}
-각 임상 단계들의 지속 기간은 다양하며, 환자에서 항상 연속적으로 일어나지 않고 어느 한 단계에 정확히 부합하지 않는 \*\*회색지대(grey zone)\*\*가 존재한다. 1회의 ALT, HBV DNA 검사만으로 임상 단계를 단정 짓거나 항바이러스 치료 시작을 결정하는 것은 곤란하다.
+각 임상 단계들의 지속 기간은 다양하며, 환자에서 항상 연속적으로 일어나지 않고 어느 한 단계에 정확히 부합하지 않는 회색지대(grey zone)가 존재. 1회의 ALT, HBV DNA 검사만으로 임상 단계를 단정 짓거나 항바이러스 치료 시작을 결정하는 것은 곤란함
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/스크린샷 2026-05-20 095654.png" alt=""><figcaption><p><strong>만성 B형간염의 자연 경과</strong><br>Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Fig 1.</p></figcaption></figure>
@@ -74,11 +68,11 @@ HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 **fun
 
 <mark style="color:$danger;">**즉각 이송 또는 응급 평가**</mark>
 
-* 의식 변화, 지남력 장애, 수면각성 역전 — 간성뇌증 의심
+* 의식 변화, 지남력 장애, 수면각성 역전 → 간성뇌증
 * 자세 고정 불능(asterixis), 심한 행동 변화
-* 대량 토혈 또는 흑색변 — 식도정맥류 출혈 의심
-* 심한 PT 연장 + 황달 + 의식 변화 — 급성 간부전
-* 간경변증 환자에서 갑작스러운 고열 + 복통 + 복수 악화 — 자발성 세균성 복막염(SBP) 또는 간농양 배제 필요
+* 대량 토혈 또는 흑색변 → 식도정맥류 출혈
+* 심한 PT 연장 + 황달 + 의식 변화 → 급성 간부전
+* 간경변증 환자에서 갑작스러운 고열 + 복통 + 복수 악화 → 자발성 세균성 복막염(SBP), 간농양
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -89,11 +83,9 @@ HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 **fun
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">— 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 치료 중 HBV DNA 재상승 (virological breakthrough 가능성)
-* 피로 지속 또는 현저한 체중 감소 (간세포암종 감별 필요)
+* 치료 중 HBV DNA 재상승
+* 피로 지속 또는 현저한 체중 감소&#x20;
 * 알 수 없는 하지 부종 또는 경미한 황달 출현
-
-***
 
 ## <mark style="color:green;">진단</mark>
 
@@ -105,28 +97,30 @@ HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 **fun
 * HBsAg/HBsAb, HBeAg/HBeAb, HBcAb, HCV Ab, IgG HAV Ab (＜50세), HBV DNA 정량(RT-PCR)
 * 유전자형 검사 : 우리나라는 대부분 C형이므로 권고하지 않음
 * 간섬유화 평가 (필요 시) : 간 생검, 혈청 표지자(FIB-4), 간 경직도(초음파 또는 MRE) (☞ 간섬유화 비침습적 검사)
-* 간세포암종 감시 : 복부 초음파 ± AFP — \*\*간경변증, 고위험 만성 B형간염(남성 ≥40세, 여성 ≥50세, 간암 가족력, 항바이러스 치료에도 HBV DNA 지속 검출 등)\*\*에서 6개월마다 시행
+* 간세포암종 감시 : 복부 초음파 ± AFP — 간경변증, 고위험 만성 B형간염(남성 ≥40세, 여성 ≥50세, 간암 가족력, 항바이러스 치료에도 HBV DNA 지속 검출 등)에서 6개월마다 시행
 * 정량 HBsAg (qHBsAg) : Peg-IFN-α 치료 반응 예측, 치료 종료 시점 결정, grey-zone 환자 계층화에 활용 고려
 
 {% hint style="info" %}
 **FIB-4 index** = \[나이(세) × AST(U/L)] ÷ \[혈소판(×10⁹/L) × √ALT(U/L)]\
-＜1.30 → 낮은 섬유화 위험; ≥2.67 → 유의미한 섬유화 가능성 (대한간학회 2024 간섬유화 비침습적 검사 가이드라인 참조)\
-⚠️ **65세 이상 고령**에서는 나이 항이 커져 FIB-4가 실제보다 높게 산출되는 경향 → 이 연령군에서는 ≥2.0 전후를 기준으로 보거나, 반드시 탄성도 검사 등을 병행하여 연령별 보정을 고려한다.
+＜1.30 → 낮은 섬유화 위험; ≥2.67 → 유의미한 섬유화 가능성 (대한간학회 2024 간섬유화 비침습적 검사 가이드라인 참조); **65세 이상 고령**에서는 나이 항이 커져 FIB-4가 실제보다 높게 산출되는 경향 → 이 연령군에서는 ≥2.0 전후를 기준으로 보거나, 반드시 탄성도 검사 등을 병행하여 연령별 보정을 고려
 {% endhint %}
 
 {% hint style="info" %}
-**ALT ULN 성별 기준** : ALT가 검사실 정상 범위 내에 있더라도 간섬유화나 염증이 존재할 수 있다. AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 임상적 기준으로 제시한다. 우리나라 대부분의 검사실 ULN(보통 남성 40–45, 여성 35–40 U/L)보다 엄격하므로, **"정상 ALT"라도 고위험군에서는 섬유화 평가**를 고려한다.
+**ALT ULN 성별 기준** : ALT가 검사실 정상 범위 내에 있더라도 간섬유화나 염증이 존재할 수 있음. AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 임상적 기준으로 제시. 우리나라 대부분의 검사실 ULN(보통 남성 40–45, 여성 35–40 U/L)보다 엄격하므로, "정상 ALT"라도 고위험군에서는 섬유화 평가를 고려
 {% endhint %}
 
 ### <mark style="color:orange;">Serologic Marker 해석</mark>
 
-<table data-header-hidden><thead><tr><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th></th></tr></thead><tbody><tr><td><strong>HBsAg</strong></td><td><strong>HBsAb</strong></td><td><strong>HBcAb</strong></td><td><strong>HBeAg</strong></td><td><strong>HBeAb</strong></td><td><strong>해석</strong></td></tr><tr><td>+</td><td>-</td><td>IgM</td><td>+</td><td>-</td><td>급성 B형간염, high infectivity*</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>+</td><td>-</td><td>만성 B형간염, high infectivity</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>-</td><td>+</td><td>지연 급성 또는 만성 B형간염, low infectivity; HBeAg(-)(precore-mutant) B형간염</td></tr><tr><td>+</td><td>+</td><td>-</td><td>±</td><td>±</td><td>one subtype의 HBsAg &#x26; heterotypic HBsAb 혼합; HBsAg→HBsAb seroconversion 과정 (드묾)</td></tr><tr><td>-</td><td>-</td><td>IgM</td><td>±</td><td>±</td><td>급성 B형간염*; HBcAb window period</td></tr><tr><td>-</td><td>-</td><td>IgG</td><td>-</td><td>-</td><td><strong>Isolated anti-HBc</strong>†: occult HBV infection 가능; 과거 감염 후 HBsAb 소실; 위양성 가능</td></tr><tr><td>-</td><td>+</td><td>IgG</td><td>-</td><td>-</td><td>B형간염으로부터의 회복 (resolved infection)</td></tr><tr><td>-</td><td>+</td><td>-</td><td>-</td><td>-</td><td>백신 접종 후 상태; 과거 B형간염(?); 위양성</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th></th></tr></thead><tbody><tr><td><strong>HBsAg</strong></td><td><strong>HBsAb</strong></td><td><strong>HBcAb</strong></td><td><strong>HBeAg</strong></td><td><strong>HBeAb</strong></td><td><strong>해석</strong></td></tr><tr><td>+</td><td>-</td><td>IgM</td><td>+</td><td>-</td><td>급성 B형간염, high infectivity¹⁾</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>+</td><td>-</td><td>만성 B형간염, high infectivity</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>-</td><td>+</td><td>지연 급성 또는 만성 B형간염, low infectivity; HBeAg(-)(precore-mutant) B형간염</td></tr><tr><td>+</td><td>+</td><td>-</td><td>±</td><td>±</td><td>one subtype의 HBsAg &#x26; heterotypic HBsAb 혼합; HBsAg→HBsAb seroconversion 과정 (드묾)</td></tr><tr><td>-</td><td>-</td><td>IgM</td><td>±</td><td>±</td><td>급성 B형간염¹⁾; HBcAb window period</td></tr><tr><td>-</td><td>-</td><td>IgG</td><td>-</td><td>-</td><td>Isolated anti-HBc²⁾: occult HBV infection 가능; 과거 감염 후 HBsAb 소실; 위양성 가능</td></tr><tr><td>-</td><td>+</td><td>IgG</td><td>-</td><td>-</td><td>B형간염으로부터의 회복 (resolved infection)</td></tr><tr><td>-</td><td>+</td><td>-</td><td>-</td><td>-</td><td>백신 접종 후 상태; 과거 B형간염(?); 위양성</td></tr></tbody></table>
 
-<p align="center">*IgM HBcAb는 만성 B형간염의 급성 재활성기에도 출현할 수 있음<br>†<strong>Isolated anti-HBc</strong>(HBsAg(-)/HBsAb(-)/HBcAb(+)): window period·resolved infection·occult HBV·위양성을 감별; 면역억제 치료 시 HBV 재활성화 위험 — 고위험 약제 투여 전 HBV DNA 확인 필요; <strong>수혈·장기 기증 시에는 occult HBV 전파 가능성으로 인해 혈액원/이식 센터에 반드시 고지</strong>해야 하며, 기증 가능 여부는 기관 프로토콜에 따른다<br><em><mark style="color:$info;">Ref. Harrison's Principles of Internal Medicine, 21st ed., fig 332-5.</mark></em></p>
+¹⁾ IgM HBcAb는 만성 B형간염의 급성 재활성기에도 출현할 수 있음\
+²⁾ Isolated anti-HBc(HBsAg(-)/HBsAb(-)/HBcAb(+)): window period·resolved infection·occult HBV·위양성을 감별; 면역억제 치료 시 HBV 재활성화 위험 — 고위험 약제 투여 전 HBV DNA 확인 필요; 수혈·장기 기증 시에는 occult HBV 전파 가능성으로 인해 혈액원/이식 센터에 반드시 고지해야 하며, 기증 가능 여부는 기관 프로토콜에 따름
+
+<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of Internal Medicine, 21st ed., fig 332-5.</mark></em></p>
 
 ### <mark style="color:orange;">선별 검사</mark>
 
-* 항목 : **HBsAg 및 HBsAb**
+* 항목 : HBsAg 및 HBsAb
 
 #### <mark style="color:$primary;">선별 검사 대상 (고위험군)</mark>
 
@@ -142,40 +136,43 @@ HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 **fun
 * 발달 장애인 시설 거주자·관리자\*, 교정 시설 재소자\*
 * 혈액·오염 체액에 노출될 가능성이 있는 직업 종사자\*
 
-　\* seronegative인 경우 백신 접종 대상
+　_\* seronegative인 경우 백신 접종 대상_
 
 ***
 
 ```mermaid
 flowchart TD
-    A([만성 B형간염 확인\nHBsAg ≥6개월]) --> B{Phase 평가\nALT · HBV DNA · HBeAg}
+    A([A 만성 B형간염 확인<br/>HBsAg ≥6개월]) --> B[B Phase 평가<br/>ALT · HBV DNA · HBeAg]
 
-    B --> C[면역관용기\nALT 정상 · DNA ≥10⁷]
-    B --> D[면역활동기\nALT↑ · DNA ≥기준치]
-    B --> E[면역비활동기\nALT 정상 · DNA <2000]
-    B --> F[회색지대\n판단 불분명]
-
-    C -->|≥30~40세 또는\n위험인자 있음| G[간 생검/비침습적 검사\n섬유화 평가]
-    C -->|<30세 · 위험인자 없음| H[3~6개월 추적 관찰]
-
-    D --> I{간경변증?}
-    I -- 없음 --> J[ALT ≥2×ULN\n또는 섬유화 확인 시]
-    I -- 대상성 --> K[HBV DNA 검출 시\n즉시 항바이러스제]
-    I -- 비대상성 --> L[즉시 경구 항바이러스제\nPeg-IFN 금기]
-
-    J --> M[항바이러스제 치료 시작\nETV / TDF / TAF]
+    B --> C[C 면역관용기<br/>ALT 정상 · DNA ≥10⁷]
+    B --> D[D 면역활동기<br/>ALT↑ · DNA ≥기준치]
+    B --> E[E 면역비활동기<br/>ALT 정상 · DNA <2000]
+    B --> F[F 회색지대<br/>판단 불분명]
+    G -->|경도 섬유화| H
+    C -->|≥30~40세 또는<br/>위험인자 있음| G[G 간 생검/비침습적 검사<br/>섬유화 평가]
+    C -->|<30세 & <br/>위험인자 없음| H[H 3~6개월 추적 관찰]
+    D --> I[I 간경변증?]
+    I -- 없음 --> J[J ALT ≥2×ULN<br/>또는 섬유화 확인 시]
+    I -- 대상성 --> K[K HBV DNA 검출 시<br/>즉시 항바이러스제]
+    I -- 비대상성 --> L[L 즉시 경구 항바이러스제<br/>Peg-IFN 금기]
+    J --> M[M 항바이러스제 치료 시작<br/>ETV / TDF / TAF]
     K --> M
     L --> M
-
-    E --> N[치료 대상 아님\n정기 모니터링]
+    E --> N[N 치료 대상 아님<br/>정기 모니터링]
     G -->|중등도 이상 섬유화| M
-    G -->|경도 섬유화| H
     F --> G
 
-    style A fill:#e3f2fd,stroke:#1565c0
-    style M fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style L fill:#fce4ec,stroke:#880e4f,stroke-width:2px
-    style N fill:#f3e5f5,stroke:#6a1b9a
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,I,G yellow
+classDef orange fill:#fdebd0,stroke:#e67e22
+class D,F orange
+classDef orange50 fill:#fff3e0,stroke:#e65100
+class C,E orange50
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class H,N blue
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class L,K,M sky
 ```
 
 <p align="center"><strong>만성 B형간염 치료 결정 알고리듬</strong></p>
