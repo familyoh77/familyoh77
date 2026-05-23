@@ -150,29 +150,38 @@ flowchart TD
     B --> D[D 면역활동기<br/>ALT↑ · DNA ≥기준치]
     B --> E[E 면역비활동기<br/>ALT 정상 · DNA <2000]
     B --> F[F 회색지대<br/>판단 불분명]
-    G -->|경도 섬유화| H
+
     C -->|≥30~40세 또는<br/>위험인자 있음| G[G 간 생검/비침습적 검사<br/>섬유화 평가]
-    C -->|<30세 & <br/>위험인자 없음| H[H 3~6개월 추적 관찰]
-    D --> I[I 간경변증?]
-    I -- 없음 --> J[J ALT ≥2×ULN<br/>또는 섬유화 확인 시]
+    C -->|<30세 &<br/>위험인자 없음| H[H 3~6개월 추적 관찰]
+
+    D --> I{I 간경변증?}
+    I -- 없음 --> I2{I2 ALT 수준?}
+    I2 -- "≥2×ULN" --> M
+    I2 -- "1~2×ULN<br/>또는 섬유화 불확실" --> J[J 집중 모니터링<br/>또는 간 생검·비침습적 검사]
+    J -->|중등도 이상<br/>섬유화/염증| M
+    J -->|기준 미충족| H
+
     I -- 대상성 --> K[K HBV DNA 검출 시<br/>즉시 항바이러스제]
     I -- 비대상성 --> L[L 즉시 경구 항바이러스제<br/>Peg-IFN 금기]
-    J --> M[M 항바이러스제 치료 시작<br/>ETV / TDF / TAF]
+
+    M[M 항바이러스제 치료 시작<br/>ETV / TDF / TAF]
     K --> M
     L --> M
+
     E --> N[N 치료 대상 아님<br/>정기 모니터링]
     G -->|중등도 이상 섬유화| M
+    G -->|경도 섬유화| H
     F --> G
 
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,I,G yellow
+class B,I,I2,G yellow
 classDef orange fill:#fdebd0,stroke:#e67e22
 class D,F orange
 classDef orange50 fill:#fff3e0,stroke:#e65100
 class C,E orange50
 classDef blue fill:#d0e8ff,stroke:#1a6abf
-class H,N blue
+class H,N,J blue
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class L,K,M sky
 ```
