@@ -4,16 +4,20 @@
 
 * 호발 연령 : 10\~30세 (특히 12\~18세)
 * 평생 유병률 : 7\~8%
-* 원인 : appendiceal lumen 폐쇄 - 대변 덩이(가장 흔함), 림프조직 과증식(소아에서 흔함), 씨앗·이물, 기생충, 협착, 섬유증, 종양
 * 사망률 : 합병증이 없는 젊은층 ＜1%, 천공된 고령층 ＞10%
 * 진단 정확도 : 전체 충수절제술 중 10\~20%가 음성(정상 충수), 사춘기 여아에서는 30\~40%; 위양성을 줄이려 진단을 늦추면 천공 위험이 증가
 
-### <mark style="color:orange;">분류</mark>
+#### <mark style="color:$primary;">원인</mark>
+
+* 원인 : appendiceal lumen 폐쇄 (내압 상승 → 허혈 → 세균 증식 → 염증)
+* 폐쇄 원인 : 대변 덩이(가장 흔함), 림프조직 과증식(소아에서 흔함), 씨앗·이물, 기생충, 협착·섬유증, 종양
+
+#### <mark style="color:$primary;">분류</mark>
 
 * 비복잡성 (uncomplicated) : 천공·농양·괴저 없는 단순 충수 염증
 * 복잡성 (complicated) : 천공, 복강 내 농양(국소 또는 광범위), 괴저성 충수, 범발성 복막염
 
-### <mark style="color:orange;">합병증</mark>
+#### <mark style="color:$primary;">합병증</mark>
 
 * 복강 내 농양, 인접 장기 누관 형성 : 천공이 없는 경우 3\~7%, 천공 발생 시 15\~30%
 * 천공 : 증상 발생 후 시간이 지연될수록 천공 위험이 증가하며, 특히 36\~48시간 이후 위험이 유의하게 상승함; 전체 천공률 30\~40%, ＜5세에서 ＞80%
@@ -24,7 +28,7 @@
 ### <mark style="color:orange;">복통 양상</mark>
 
 * 배꼽 주위의 막연한 통증으로 시작 → 4\~48시간 경과 후 우하복부(McBurney point)로 이동·악화
-* 통증은 지속적 (악화-완화 패턴 없음, 배변으로 완화되지 않음)
+* 통증은 지속적 : 악화-완화 패턴 없음, 배변으로 완화되지 않음
 * 걷기, 기침, 차량 진동 등 복부 움직임 시 현저하게 악화
 * 전형적인 양상은 환자의 약 50%에서만 나타남
 
@@ -45,20 +49,20 @@
 * 복근 경직 (voluntary & involuntary guarding)
 * 복막 자극 징후
 
-<div align="right" data-with-frame="true"><figure><img src="../.gitbook/assets/1999e11c-7c18-43d6-8927-3956c4ed1049.JPG" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../.gitbook/assets/1999e11c-7c18-43d6-8927-3956c4ed1049.JPG" alt=""><figcaption></figcaption></figure></div>
 
-<table><thead><tr><th width="124">징후</th><th width="310">검사 방법</th><th>임상 의미</th></tr></thead><tbody><tr><td>Rovsing's sign</td><td>좌하복부를 하방에서 상방으로 쓸어 올리듯 압박 시 대장 내 가스가 역류하여 충수를 자극, 우하복부 통증 발생</td><td>복막 자극</td></tr><tr><td>Psoas sign</td><td>좌측 와위에서 우측 고관절을 후방 과신전 시 통증</td><td>Retrocecal appendix 의심</td></tr><tr><td>Obturator sign</td><td>앙와위에서 우측 고관절·슬관절 90° 굴곡 후 고관절 내회전 시 통증</td><td>Pelvic appendix 의심</td></tr><tr><td>Dunphy sign</td><td>기침 시 우하복부 통증 유발</td><td>복막 자극</td></tr></tbody></table>
+<table><thead><tr><th width="124">징후</th><th width="329">검사 방법</th><th>임상 의미</th></tr></thead><tbody><tr><td>Rovsing's sign</td><td>좌하복부를 하방에서 상방으로 쓸어 올리듯 압박 시 대장 내 가스가 역류하여 충수를 자극, 우하복부 통증 발생</td><td>복막 자극</td></tr><tr><td>Psoas sign</td><td>좌측 와위에서 우측 고관절을 후방 과신전 시 통증</td><td>Retrocecal appendix 의심</td></tr><tr><td>Obturator sign</td><td>앙와위에서 우측 고관절·슬관절 90° 굴곡 후 고관절 내회전 시 통증</td><td>Pelvic appendix 의심</td></tr><tr><td>Dunphy sign</td><td>기침 시 우하복부 통증 유발</td><td>복막 자극</td></tr></tbody></table>
 
 ### <mark style="color:orange;">비전형적 양상</mark>
 
-<table><thead><tr><th width="130">아형·대상</th><th>특징</th></tr></thead><tbody><tr><td>Retrocecal appendix</td><td>복통·압통이 덜하고 국소화 어려움; 우측 옆구리 통증; Psoas sign 양성</td></tr><tr><td>Pelvic appendicitis</td><td>복부 압통 없음; 하복부 통증, 요의·변의; 골반·직장 검사 시 압통; Obturator sign 양성</td></tr><tr><td>고령</td><td>증상이 약하고 모호함, 복부 압통 경미; 천공·사망률 높음</td></tr><tr><td>임신</td><td>자궁 상방 전위로 압통 위치가 RLQ → 배꼽 주위 → Rt subcostal로 변화; 복막 징후 감소</td></tr><tr><td>소아 (＜5세)</td><td>오심·구토·발열이 두드러짐; 진단 지연으로 천공률 ＞80%; 복막 자극 징후의 진단적 의미 적음</td></tr></tbody></table>
+<table><thead><tr><th width="130">아형·대상</th><th>특징</th></tr></thead><tbody><tr><td>Retrocecal appendix</td><td>복통·압통이 덜하고 국소화 어려움; 우측 옆구리 통증, Psoas sign 양성</td></tr><tr><td>Pelvic appendicitis</td><td>복부 압통 없음; 하복부 통증, 요의·변의; 골반·직장 검사 시 압통, Obturator sign 양성</td></tr><tr><td>고령</td><td>증상이 약하고 모호함, 복부 압통 경미; 천공·사망률 높음</td></tr><tr><td>임신</td><td>자궁 상방 전위로 압통 위치가 RLQ → 배꼽 주위 → Rt subcostal로 변화; 복막 징후 감소</td></tr><tr><td>소아 (＜5세)</td><td>오심·구토·발열이 두드러짐; 진단 지연으로 천공률 ＞80%; 복막 자극 징후의 진단적 의미 적음</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;">- 천공·복막염 또는 패혈증 징후</mark>
 
 * 복부 전반 경직 (board-like rigidity) 및 반동 압통 → 범발성 복막염
-* 고열 (＞38.9℃) + WBC ＞20,000/μL + 복통 ＞24시간 지속 → 천공
+* 고열 (＞38.9℃) + WBC ＞20,000/㎕ + 복통 ＞24시간 지속 → 천공
 * 복부 종괴 촉지 → 농양 형성
 * 저혈압, 빈맥, 의식 변화 → 패혈성 쇼크
 * 고령·임산부 : 증상이 경미·비전형적이어도 천공·패혈증 위험이 높으므로 임상 의심 시 적극적 평가
@@ -66,21 +70,21 @@
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 복막 자극 징후, 진행성 통증, 중등도 이상의 임상적 의심 (Alvarado ≥4)
-* 소아 (특히 ＜5세) 충수염 의심
+* 소아(특히 ＜5세)에서의 충수염 의심
 * 임신 중 우하복부 통증
 * Alvarado/PAS Score ≥7
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * Alvarado Score 4\~6
-* 증상이 경미·비전형적으로 다른 원인이 더 의심되나 충수염을 완전히 배제하기 어려운 경우
+* 증상이 경미·비전형적으로 다른 원인이 의심되나 충수염을 배제하기 어려운 경우
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">진단 원칙</mark>
 
 * 단일 검사로 충수염을 확진하거나 완전히 배제하는 방법은 없음
-* 병력·신체검사 → 임상 점수 산정 → 영상 검사의 순서로 단계적 평가
+* 병력·신체검사 → 임상 점수 산정 → 영상 검사 순서로 단계적 평가
 * 진통제 투여는 충수염 진단 전부터 가능 - opioid를 포함한 적절한 진통은 신체검사 정확도를 유의하게 저하시키지 않는 것으로 알려져 있음
 * CRP + WBC 조합 : 두 수치가 모두 정상이면 충수염 가능성이 매우 낮음; 단, 초기 충수염에서는 정상일 수 있으므로 임상 소견과 함께 판단
 
@@ -88,9 +92,12 @@
 
 **Alvarado Score** (성인·소아 공통) & **PAS(Pediatric Appendicitis Score)** (소아 우선 권장)
 
-* 판정 : ≤3점 = 가능성 낮음 (성인·소아 약 3%); 4\~6점 = 가능성 중간 - 관찰 또는 추가 평가; ≥7점 = 가능성 높음 (성인 84%, 소아 86%)
-* 두 점수 모두 단독 확진 도구보다 저위험군 배제(rule-out)에 더 유용; 연구자에 따라 cutoff 기준이 다소 다르게 보고됨
-* ≥7점이어도 영상 확인 후 치료 방침을 결정하는 것이 현대적 접근; PAS는 특이도가 낮아 4\~6점 (중간 위험군)에서는 영상 평가가 필요
+*
+
+두 점수 모두 단독 확진 도구보다 저위험군 배제(rule-out)에 더 유용
+
+* ≥7점이어도 영상 확인 후 치료 방침을 결정하는 것이 현대적 접근이며, PAS는 특이도가 낮아 중간 위험군에서는 영상 평가가 필요
+* 판정 : ≤3점 → 가능성 낮음 (성인·소아 약 3%); 4\~6점 → 관찰 또는 추가 평가; ≥7점 → 가능성 높음 (성인 84%, 소아 86%)
 
 <table><thead><tr><th width="319">Clinical Variable</th><th width="111" align="center">Alvarado</th><th width="112" align="center">PAS (소아)</th></tr></thead><tbody><tr><td>우하복부로의 통증 부위 이동</td><td align="center">1</td><td align="center">1</td></tr><tr><td>식욕 부진</td><td align="center">1</td><td align="center">1</td></tr><tr><td>구역·구토</td><td align="center">1</td><td align="center">1</td></tr><tr><td>우하복부 압통</td><td align="center">2</td><td align="center">2</td></tr><tr><td>우하복부 반동 압통</td><td align="center">1</td><td align="center">-</td></tr><tr><td>체온 상승 (성인 ＞37.3℃, 소아 ＞38.0℃)</td><td align="center">1</td><td align="center">1</td></tr><tr><td>백혈구증가증 (≥10,000/㎕)</td><td align="center">2</td><td align="center">1</td></tr><tr><td>핵 좌방 이동 (neutrophilia ≥75%)</td><td align="center">1</td><td align="center">1</td></tr><tr><td>기침·타진 또는 발뒤꿈치 낙하 시 통증 유발 (heel drop/Markle sign)</td><td align="center">-</td><td align="center">2</td></tr><tr><td><strong>합계</strong></td><td align="center"><strong>10</strong></td><td align="center"><strong>10</strong></td></tr></tbody></table>
 
@@ -199,22 +206,22 @@ class E,G white
 
 ### <mark style="color:orange;">수술 치료</mark>
 
-* 즉각 수술 적응증 : 복잡성 충수염 (천공·괴저·범발성 복막염), Alvarado ≥7 + 영상 확진, 비수술적 치료 실패
-* 복잡성 충수염인 경우 수술 전 IV 광범위 항생제 투여
+* 즉각 수술 대상 : 천공·괴저·범발성 복막염, Alvarado ≥7 + 영상 확진, 비수술적 치료 실패
+
+**복잡성 충수염 (복강 내 농양 동반)**
+
+* 국소 농양이 형성된 경우 경피 배액술 + 항생제 선투여 후 interval appendectomy (6\~8주 후) 고려
+* 범발성 복막염은 즉각 수술
 
 ### <mark style="color:orange;">비수술적 치료 (항생제 치료)</mark>
 
 * 비수술적 치료 근거 - CODA Trial (NEJM 2020) · APPAC II (JAMA 2021) : 비복잡성 성인 충수염에서 항생제 치료는 수술의 합리적 대안. 항생제 치료군의 약 71%가 90일 내 수술을 피함. 1년 내 재발·수술은 약 25\~30%, 장기(5년) 누적 수술률은 30\~40%까지 보고됨 - 환자 상담 시 충분히 설명 필요.
 
-{% hint style="danger" %}
-**Appendicolith - 치료 방침의 분기점** : Appendicolith가 존재하면 비수술적 치료 실패율이 약 41%로 상승하며 (vs. 없을 때 17%), 천공·재발 위험도가 증가
-{% endhint %}
+**수술 vs. 항생제 치료 비교 (Shared Decision Making)**
 
-#### <mark style="color:$primary;">수술 vs. 항생제 치료 비교 (Shared Decision Making)</mark>
+<table><thead><tr><th width="134">항목</th><th width="220">수술 (복강경 충수절제술)</th><th>항생제 단독</th></tr></thead><tbody><tr><td>재발 가능성</td><td>거의 없음 (근치적)</td><td>1년 내 약 25~30%</td></tr><tr><td>침습성</td><td>수술·마취 필요</td><td>비침습적</td></tr><tr><td>입원 기간</td><td>1~2일 (복강경)</td><td>2~4일 (IV 항생제)</td></tr><tr><td>회복 기간</td><td>1~2주</td><td>더 짧을 수 있음</td></tr><tr><td>Appendicolith 동반 시</td><td>권장</td><td>상대적 비권장 (실패율 높음)</td></tr><tr><td>적합 대상</td><td>복잡성·고위험군, 환자 선호</td><td>비복잡성, appendicolith 없음, 수술 위험 높은 환자</td></tr></tbody></table>
 
-<table><thead><tr><th width="220">항목</th><th width="220">수술 (복강경 충수절제술)</th><th>항생제 단독</th></tr></thead><tbody><tr><td>재발 가능성</td><td>거의 없음 (근치적)</td><td>1년 내 약 25~30%</td></tr><tr><td>침습성</td><td>수술·마취 필요</td><td>비침습적</td></tr><tr><td>입원 기간</td><td>1~2일 (복강경)</td><td>2~4일 (IV 항생제)</td></tr><tr><td>회복 기간</td><td>1~2주</td><td>더 짧을 수 있음</td></tr><tr><td>Appendicolith 동반 시</td><td>권장</td><td>상대적 비권장 (실패율 높음)</td></tr><tr><td>적합 대상</td><td>복잡성·고위험군, 환자 선호</td><td>비복잡성, appendicolith 없음, 수술 위험 높은 환자</td></tr></tbody></table>
-
-**비수술적 치료 적합 조건** (모두 충족 시 고려):
+**비수술적 치료 적합 조건** (아래 사항 모두 충족 시 고려)
 
 * 영상으로 비복잡성 충수염 확인 (천공·농양 없음)
 * Appendicolith 부재 (있으면 상대적 비권장)
@@ -222,10 +229,13 @@ class E,G white
 * 발열 ＜38.5℃, WBC ＜18,000
 * 환자 충분한 동의 및 추적 관찰 가능 환경
 
-**비수술적 치료 금기** : 천공·범발성 복막염·농양, 고열(＞38.9℃), 초기 항생제 무반응, 환자 거부
+{% hint style="danger" %}
+**Appendicolith - 치료 방침의 분기점** : Appendicolith가 존재하면 비수술적 치료 실패율이 약 41%로 상승하며 (vs. 없을 때 17%), 천공·재발 위험도가 증가
+{% endhint %}
 
-**복잡성 충수염 - 복강 내 농양 동반 시**\
-국소 농양이 형성된 경우 **경피 배액술 + 항생제** 후 interval appendectomy (6\~8주 후)를 고려할 수 있다. 범발성 복막염은 즉각 수술.
+**비수술적 치료 금기**&#x20;
+
+* 천공·범발성 복막염·농양(복잡성 충수염), 고열(＞38.9℃), 초기 항생제 무반응, 환자 거부
 
 **항생제 프로토콜** (합의된 단일 표준 없음; 총 치료 기간 8\~10일 권고)
 
