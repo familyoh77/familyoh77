@@ -8,13 +8,11 @@
 
 ### <mark style="color:orange;">분류</mark>
 
-<table><thead><tr><th width="160">분류</th><th width="200">위치</th><th width="130">통증</th><th>특징</th></tr></thead><tbody><tr><td><strong>External H (외치핵)</strong></td><td>Dentate line 아래 (squamous epithelium)</td><td>통증(+)</td><td>혈전 형성 시 급격한 통증</td></tr><tr><td><strong>Internal H (내치핵)</strong></td><td>Dentate line 위 (columnar epithelium)</td><td>통증(-)</td><td>Grade I\~IV로 분류 (아래 참조)</td></tr><tr><td><strong>Mixed H (혼합치핵)</strong></td><td>Dentate line에 걸쳐 있거나 상하 모두 포함</td><td>혼재</td><td>외과적 치료 필요성 높음</td></tr></tbody></table>
+<table><thead><tr><th width="125.26318359375">분류</th><th width="200">위치</th><th width="90">통증</th><th>특징</th></tr></thead><tbody><tr><td>External H <br>(외치핵)</td><td>Dentate line 아래 (squamous epithelium)</td><td>통증(+)</td><td>혈전 형성 시 급격한 통증</td></tr><tr><td>Internal H <br>(내치핵)</td><td>Dentate line 위 (columnar epithelium)</td><td>통증(-)</td><td>Grade I~IV로 분류 (아래 참조)</td></tr><tr><td>Mixed H <br>(혼합치핵)</td><td>Dentate line에 걸쳐 있거나 상하 모두 포함</td><td>혼재</td><td>외과적 치료 필요성 높음</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">내치핵 Grade 분류 (Goligher 분류)</mark>
 
-<table><thead><tr><th width="110">Grade</th><th width="280">정의</th><th>1차 치료</th></tr></thead><tbody><tr><td>Grade I</td><td>탈출 없음; 출혈만 있음</td><td>보존적 치료</td></tr><tr><td>Grade II</td><td>배변 시 탈출 → 자연 환원</td><td>보존적 치료 (호전 없으면 최소 침습 시술)</td></tr><tr><td>Grade III</td><td>배변 시 탈출 → 손으로 환원 필요</td><td>최소 침습 시술 또는 수술 의뢰</td></tr><tr><td>Grade IV</td><td>탈출 지속 → 환원 불가</td><td>수술 의뢰</td></tr></tbody></table>
-
-***
+<table><thead><tr><th width="99.47369384765625">Grade</th><th width="247.368408203125">정의</th><th>1차 치료</th></tr></thead><tbody><tr><td>Grade I</td><td>탈출 없음; 출혈만 있음</td><td>보존적 치료</td></tr><tr><td>Grade II</td><td>배변 시 탈출 → 자연 환원</td><td>보존적 치료 (호전 없으면 최소 침습 시술)</td></tr><tr><td>Grade III</td><td>배변 시 탈출 → 손으로 환원 필요</td><td>최소 침습 시술 또는 수술 의뢰</td></tr><tr><td>Grade IV</td><td>탈출 지속 → 환원 불가</td><td>수술 의뢰</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -33,11 +31,9 @@
 * 직장·항문 수술, 출산 외상
 * 반복적 항문 외상 병력
 
-***
-
 ## <mark style="color:green;">임상 양상</mark>
 
-* **배변 시 무통성 선홍색 출혈** : 가장 흔한 증상; 휴지나 변기에 선홍색으로 묻음; 지속 시 빈혈 발생 가능
+* 배변 시 무통성 선홍색 출혈 : 가장 흔한 증상; 휴지나 변기에 선홍색으로 묻음; 지속 시 빈혈 발생 가능
 * 항문 가려움, 자극감, 불편감, 점액 분비
 * 항문 종괴 또는 부종 (탈출 또는 혈전)
 * **통증** : 외치핵의 혈전 형성, 항문 열상, 항문 주위 농양에 의해 발생; 단순 내치핵은 통증 없음\
@@ -312,8 +308,8 @@ K64.9 상세불명의 치핵
 > ```
 >
 > _✽치센(MPFF)은 급성 치핵 증상 완화 및 출혈 감소에 moderate evidence; 요양급여 적용 여부 확인 후 처방._\
-> _✽국소제는 증상 조절 목적; 1\~2주 이내 사용. Steroid·lidocaine 함유 제품 장기 사용 금지._\
-> _✽아기오과립(차전자피) 복용 시 반드시 물 200 ㎖ 이상과 함께 복용; 수분 부족 시 변비 악화 가능._
+> &#xNAN;_✽국소제는 증상 조절 목적; 1\~2주 이내 사용. Steroid·lidocaine 함유 제품 장기 사용 금지._\
+> &#xNAN;_✽아기오과립(차전자피) 복용 시 반드시 물 200 ㎖ 이상과 함께 복용; 수분 부족 시 변비 악화 가능._
 
 > **처방례 2.** 급성 내치핵 (변비 동반)
 >
@@ -325,9 +321,9 @@ K64.9 상세불명의 치핵
 > 마그밀 500 ㎎/T   3T   #3   (급성기 변비 조절; 단기)
 > ```
 >
-> _✽변비가 주된 악화 인자인 경우 변비 치료 (☞ [변비](085_-constipation.md))가 핵심; 식이섬유 보충제 병행 교육._\
-> _✽ibuprofen(애니펜)은 항염 효과가 있으나 활동성 출혈 기간 중 사용 시 혈소판 억제 효과로 출혈 악화 가능 — acetaminophen 우선 선택._\
-> _✽마그밀과 차전자피(아기오과립)를 동시에 처방하는 경우 **최소 1\~2시간 간격**을 두고 복용하도록 지도; 동시 복용 시 장내 수분 균형 교란 및 흡수 지연 가능._
+> _✽변비가 주된 악화 인자인 경우 변비 치료 (☞_ [_변비_](085_-constipation.md)_)가 핵심; 식이섬유 보충제 병행 교육._\
+> &#xNAN;_✽ibuprofen(애니펜)은 항염 효과가 있으나 활동성 출혈 기간 중 사용 시 혈소판 억제 효과로 출혈 악화 가능 — acetaminophen 우선 선택._\
+> &#xNAN;_✽마그밀과 차전자피(아기오과립)를 동시에 처방하는 경우 **최소 1\~2시간 간격**을 두고 복용하도록 지도; 동시 복용 시 장내 수분 균형 교란 및 흡수 지연 가능._
 
 > **처방례 3.** 혈전성 외치핵 (발병 72시간 초과, 보존적 관리)
 >
@@ -339,7 +335,7 @@ K64.9 상세불명의 치핵
 > ```
 >
 > _✽혈전성 외치핵은 발병 72시간 이내 → 외과 의뢰 (절제술이 즉각적 통증 완화에 효과적)._\
-> _✽72시간 초과 시 보존적 치료(진통제 + 국소 steroid + 좌욕)로 2\~3주 내 대부분 자연 호전._
+> &#xNAN;_✽72시간 초과 시 보존적 치료(진통제 + 국소 steroid + 좌욕)로 2\~3주 내 대부분 자연 호전._
 
 > **처방례 4.** 임산부 치핵 (후기 임신, Grade I–II)
 >
@@ -351,9 +347,9 @@ K64.9 상세불명의 치핵
 > ```
 >
 > _✽임신 중 치핵은 주로 Grade I–II이며 분만 후 자연 호전이 흔함 — 보존적 관리 원칙._\
-> _✽MPFF(치센), diosmin(베니톨) 등 경구 venotonic은 **국내 식약처 허가사항상 임부 투여 금기** — 처방하지 않음._\
-> _✽ibuprofen 등 NSAIDs는 임신 중(특히 28주 이후) 동맥관 조기 폐쇄 위험 — 사용하지 않음._\
-> _✽증상이 심하거나 Grade III 이상이면 산부인과 협진 후 처치 방향 결정._
+> &#xNAN;_✽MPFF(치센), diosmin(베니톨) 등 경구 venotonic은 **국내 식약처 허가사항상 임부 투여 금기** — 처방하지 않음._\
+> &#xNAN;_✽ibuprofen 등 NSAIDs는 임신 중(특히 28주 이후) 동맥관 조기 폐쇄 위험 — 사용하지 않음._\
+> &#xNAN;_✽증상이 심하거나 Grade III 이상이면 산부인과 협진 후 처치 방향 결정._
 
 ***
 
