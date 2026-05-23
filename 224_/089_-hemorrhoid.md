@@ -80,14 +80,14 @@
 graph TD
     A([항문 출혈 / 항문 종괴 / 불편감]) --> B[Red Flags 확인]
     B -->|감돈·괴사·혈역학 불안정| C[즉각 응급 의뢰]
-    B -->|혈전성 외치핵 72h 이내<br/>항문 주위 농양 의심| D[당일 외과 의뢰]
+    B -->|혈전성 외치핵 72h 이내<br/>항문 주위 농양 의심| X[당일 외과 의뢰]
     B -->|해당 없음| E[DRE + 항문경 검사]
     E --> P[주요 증상 유형]
     P -->|통증 dominant| Q[감별 진단]
     P -->|출혈 dominant<br/>Grade I–II 확인 후| R[보존적 치료<br/>식이섬유 + MPFF ± 국소제]
-    P -->|탈출 dominant| F[내치핵 Grade]
-    Q -->|혈전성 외치핵 72h 이내| D
+    P -->|탈출 dominant| F[Grade 판정]
     Q -->|fissure / 농양 의심| S[외과 의뢰]
+    Q -->|혈전성 외치핵 72h 이내| D[당일 외과 의뢰]
     Q -->|혈전성 외치핵<br/>72h 초과| G[보존적 치료<br/>진통제 + 국소제 + 좌욕]
     R --> K[4~6주 후 평가]
     G --> K
@@ -99,12 +99,11 @@ graph TD
     K -->|미호전| M[대장내시경 적응증?]
     M -->|선별검사 적응 연령<br/>또는 위험인자| N[대장내시경]
     M -->|해당 없음| I
-
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
 class B,P,Q,F,K,M yellow
 classDef L_red fill:#ffcdd2,stroke:#c62828
-class C,D,S,J L_red
+class C,D,S,J,X L_red
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class G,R,H sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
