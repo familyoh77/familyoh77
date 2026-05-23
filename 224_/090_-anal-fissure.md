@@ -120,8 +120,6 @@ graph TD
 
 <p align="center"><strong>항문열창 진단 및 단계적 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ASCRS Clinical Practice Guidelines 2023; ACG Clinical Guideline 2021</mark></em></p>
-
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>

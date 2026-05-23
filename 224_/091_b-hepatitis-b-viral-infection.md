@@ -5,22 +5,24 @@
 * B형간염 바이러스(Hepatitis B virus, HBV) 감염에 의한 급/만성 간질환
 * 잠복기 : 45\~160일(평균 120일)
 * 전염 경로 : HBsAg 양성인 사람의 혈액, 분비물(타액·정액·질 분비물 등); 환경 표면에서 최소 7일간 감염력 유지 가능
-* **만성 간염** : 급성 감염 후 HBsAg이 ≥6개월 존재하는 상태
+* 만성 간염 : 급성 감염 후 HBsAg이 ≥6개월 존재하는 상태
 
 **경과**
 
 * 보통 2\~3주 후 급성 질환 회복, 16주 후 임상 및 실험실 검사 회복; 95% 이상에서 자연 회복되며 일부에서 만성화
-* 노출 후 만성 감염 발생률 : 성인 5%, 소아 25\~30%, HBeAg(+) 산모 출산 신생아 90%
+* 노출 후 만성 감염 발생률 : 성인 5%, 소아 25\~30%; HBeAg(+) 산모 출산 신생아 90%
 * 만성 간염 경과 : 자연 회복률 0.5%/년, 간경변증 발생률 5%/년, 간세포암종 발생률 0.8%/년
-* 악화 경과 위험 인자 : 가족력, 알코올 섭취, 흡연, 남성, ≥40세, aflatoxin(아플라톡신), HBV DNA ≥2,000 IU/㎖, HBeAg(+), basal core promoter 바이러스 유전자 변이
+* 악화 경과 위험 인자 : 가족력, 알코올 섭취, 흡연, 남성, ≥40세, aflatoxin, HBV DNA ≥2,000 IU/㎖, HBeAg(+), basal core promoter 바이러스 유전자 변이
 
-**우리나라 특징** : 대부분 C2 유전자형으로 HBeAg 혈청 전환이 늦고, 간경변증과 간세포암종으로의 진행이 빠르며, 인터페론 치료 효과가 낮고, 항바이러스제 치료 후 재발률이 높음
+**우리나라 특징**&#x20;
+
+* 대부분 C2 유전자형으로 HBeAg 혈청 전환이 늦고, 간경변증과 간세포암종으로의 진행이 빠르며, 인터페론 치료 효과가 낮고, 항바이러스제 치료 후 재발률이 높음
 
 ### <mark style="color:orange;">용어 정의</mark>
 
 * **virologic response** : \[경구제] HBV DNA가 RT-PCR에서 측정되지 않는 경우; \[Peg-IFN-α] 투여 6개월 이후 또는 치료 종료 시에 혈청 HBV DNA ＜2,000 IU/㎖으로 감소하는 경우
 * **serologic response** : Ag 소실 또는 seroconversion
-* **HBV reactivation** : ① 면역억제 치료를 받는 HBcAb(+) 환자에서 HBV immune control의 상실; ② baseline 대비 HBV DNA 상승; ③ HBcAb(+)/HBsAg(-) 환자에서 HBsAg(+)로의 전환(reverse seroconversion)
+* **HBV reactivation** : ⓵ 면역억제 치료를 받는 HBcAb(+) 환자에서 HBV immune control의 상실; ⓶ baseline 대비 HBV DNA 상승; ⓷ HBcAb(+)/HBsAg(-) 환자에서 HBsAg(+)로의 전환(reverse seroconversion)
 * **hepatitis flare** : ALT가 baseline의 ＞3배 및 ＞100 U/L으로 증가
 * **HBV-associated hepatitis** : HBV reactivation + hepatitis flare
 * **HBeAg seroconversion** : HBeAg(+)/HBeAb(-) → HBeAg(-)/HBeAb(+)로의 전환
@@ -31,11 +33,9 @@
 * **functional cure** : HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 + 간질환 진행 억제; cccDNA(covalently closed circular DNA)가 간세포 핵 내에 잔존하여 완전 박멸은 아니지만 현재 HBV 치료의 이상적 목표
 * **isolated anti-HBc positivity** : HBsAg(-), HBsAb(-), HBcAb(+) 상태; 잠재 감염(occult HBV), 과거 감염 후 HBsAb 소실, 또는 위양성일 수 있음; 면역억제 시 재활성화(reverse seroconversion) 위험 존재
 
-***
-
 ## <mark style="color:green;">임상 양상</mark>
 
-다양 : 무증상 \~ 급성 간부전/사망; 잠행성 \~ 급성 악화
+* 다양 : 무증상 \~ 급성 간부전/사망; 잠행성 \~ 급성 악화
 
 ### <mark style="color:orange;">급성</mark>
 
