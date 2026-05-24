@@ -446,14 +446,14 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 
 ## <mark style="color:green;">특수한 상황에서의 치료</mark>
 
-#### <mark style="color:$primary;">약제 내성</mark>
+### <mark style="color:orange;">약제 내성</mark>
 
 * 바이러스 돌파 시 약물 순응도 확인 및 유전자형 내성 검사 시행
 * 유전자형 내성 확인 시 가능한 빨리 내성 치료 시작
 
 <table><thead><tr><th width="220">내성 약제</th><th>전환 전략</th></tr></thead><tbody><tr><td>Nnucleoside 유사체 내성<br>(LAM · TBV · clevudine)</td><td>Tenofovir (TDF 또는 TAF) 단독 치료로 전환</td></tr><tr><td>ETV 내성</td><td>Tenofovir 단독 치료 전환 또는 tenofovir 추가</td></tr><tr><td>ADV 내성</td><td>Tenofovir 단독 전환 또는 tenofovir + ETV 병합</td></tr><tr><td>Tenofovir 내성</td><td>ETV 추가</td></tr><tr><td>다약제 내성</td><td>Tenofovir + ETV 병합 또는 tenofovir 단독 전환</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">신기능 감소 / 골대사 질환</mark>
+### <mark style="color:orange;">신기능 감소 / 골대사 질환</mark>
 
 * 선호 약제 : ETV, TAF, besifovir
 * TDF 복용 중 신기능↓ 또는 골밀도↓ 우려 시 TAF, besifovir, ETV로 전환 고려
@@ -463,7 +463,7 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
   * CrCl ＜15 → Besifovir 투여 불가 (임상 자료 부족)
   * TDF : CrCl 기준에 따른 용량 조절
 
-#### <mark style="color:$primary;">임신부</mark>
+### <mark style="color:orange;">임신부</mark>
 
 * 선호 약제 : TDF (Peg-IFN-α 금기)
 * HBV DNA ≥200,000 IU/㎖인 경우 : 임신 24\~32주부터 출산 후 최대 12주까지 TDF 투여 권고 (수직감염 예방; HIRA 급여 인정 기준)
@@ -473,9 +473,9 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 **HIRA 급여 기준** : HBsAg(+) 임산부로 HBV DNA ≥200,000 IU/㎖인 경우, TDF 300 ㎎ 1일 1회, 임신 24\~32주 투여 시작 → 출산 후 최대 12주까지 인정 (2022년 기준)
 {% endhint %}
 
-#### <mark style="color:$primary;">D형간염(HDV) 중복감염</mark>
+### <mark style="color:orange;">D형간염(HDV) 중복감염</mark>
 
-**병태생리 및 역학**
+#### <mark style="color:$primary;">병태생리 및 역학</mark>
 
 * HDV는 HBsAg을 피막으로 이용하는 결함성(defective) RNA 바이러스; HBsAg(+) 환자에서만 감염 성립
 * 감염 양상
@@ -484,26 +484,26 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 * HBsAg(+) 환자의 전 세계 유병률 약 2%; 우리나라는 저유병 지역이나 마약 주사, 성적 노출이 있는 고위험군에서 검사 필요
 * 임상적으로 가장 중증의 바이러스 간염 형태; 간경변증·간세포암종 진행 위험이 HBV 단독 감염보다 현저히 높음
 
-**진단**
+#### <mark style="color:$primary;">진단</mark>
 
 * 1단계 : 항-HDV 항체(Anti-HDV IgG/IgM) 검사 — HBsAg(+) 고위험군에서 선별
 * 2단계 : Anti-HDV 양성 시 HDV RNA 정량(RT-PCR) — 활성 감염 확인 및 치료 반응 평가
 * KCD 코드: B18.0 (델타-병원체 동반 만성 바이러스B형간염)
 
-**치료**
+#### <mark style="color:$primary;">치료</mark>
 
-<table><thead><tr><th width="200">약제</th><th>비고</th></tr></thead><tbody><tr><td>Peg-IFN-α-2a<br><mark style="color:blue;">[페가시스 주]</mark></td><td>기존 표준 치료; 48주 투여. 바이러스 반응률 25~40%로 낮고 재발 흔함. 비대상성 간경변증에는 금기</td></tr><tr><td>Bulevirtide<br>(헵클루덱스, EMA 승인)</td><td>NTCP(hepatocyte entry receptor) 차단 기전의 first-in-class 진입억제제; 2020년 EMA 조건부 승인, 2023년 완전 승인. 국내 미허가(2025년 기준). 2 mg/day SC; 96주 치료에서 바이러스·생화학적 반응률 향상 확인 (MYR301 3상). Peg-IFN-α와 병용 시 반응률 추가 향상</td></tr></tbody></table>
+<table><thead><tr><th width="153.75">약제</th><th>비고</th></tr></thead><tbody><tr><td>Peg-IFN-α-2a<br><mark style="color:blue;">[페가시스 주]</mark></td><td>기존 표준 치료; 48주 투여. 바이러스 반응률 25~40%로 낮고 재발 흔함. 비대상성 간경변증에는 금기</td></tr><tr><td>Bulevirtide<br><mark style="color:blue;">[헵클루덱스]</mark></td><td>NTCP(hepatocyte entry receptor) 차단 기전의 first-in-class 진입억제제 (국내 미허가). 2 ㎎/d SC; 96주 치료에서 바이러스·생화학적 반응률 향상 확인 (MYR301 3상). Peg-IFN-α와 병용 시 반응률 추가 향상</td></tr></tbody></table>
 
 {% hint style="danger" %}
-⚠️ **Bulevirtide 국내 미허가** (2025년 기준): 해외에서 처방받아 귀국한 환자이거나 임상시험 참여를 원하는 경우, 전문 간질환 센터로 의뢰한다. HBV 단독 항바이러스제(ETV/TDF/TAF)는 HDV 복제를 직접 억제하지 못하므로 **HDV RNA 감소 목적으로는 권장되지 않는다.** 단, HBV DNA 억제를 위해 병용할 수 있다.
+**Bulevirtide 국내 미허가** (2025년 기준): 해외에서 처방받아 귀국한 환자이거나 임상시험 참여를 원하는 경우, 전문 간질환 센터로 의뢰한다. HBV 단독 항바이러스제(ETV/TDF/TAF)는 HDV 복제를 직접 억제하지 못하므로 **HDV RNA 감소 목적으로는 권장되지 않는다.** 단, HBV DNA 억제를 위해 병용할 수 있다.
 {% endhint %}
 
-**예방**
+#### <mark style="color:$primary;">예방</mark>
 
 * **HBV 예방접종이 곧 HDV 예방**; HBsAg 음성화로 HDV 감염 불가
 * HBsAg(+) 환자에서 기존에 없던 HDV 감염 예방 백신은 현재 없음
 
-#### <mark style="color:$primary;">면역억제제 투여 환자의 HBV 재활성화 예방</mark>
+### <mark style="color:orange;">면역억제제 투여 환자의 HBV 재활성화 예방</mark>
 
 **개요**
 
