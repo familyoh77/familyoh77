@@ -20,18 +20,18 @@
 
 ### <mark style="color:orange;">용어 정의</mark>
 
-* **virologic response** : \[경구제] HBV DNA가 RT-PCR에서 측정되지 않는 경우; \[Peg-IFN-α] 투여 6개월 이후 또는 치료 종료 시에 혈청 HBV DNA ＜2,000 IU/㎖으로 감소하는 경우
+* **virologic response** : \[경구제] HBV DNA가 RT-PCR에서 미검출인 경우; \[Peg-IFN-α] 투여 6개월 이후 또는 치료 종료 시에 혈청 HBV DNA ＜2,000 IU/㎖으로 감소하는 경우
 * **serologic response** : Ag 소실 또는 seroconversion
-* **HBV reactivation** : ⓵ 면역억제 치료를 받는 HBcAb(+) 환자에서 HBV immune control의 상실; ⓶ baseline 대비 HBV DNA 상승; ⓷ HBcAb(+)/HBsAg(-) 환자에서 HBsAg(+)로의 전환(reverse seroconversion)
+* **HBV reactivation** : ⓵ 면역억제 치료를 받는 anti-HBc(+) 환자에서 HBV immune control의 상실; ⓶ baseline 대비 HBV DNA 상승; ⓷ anti-HBc(+)/HBsAg(-) 환자에서 HBsAg(+)로의 전환(reverse seroconversion)
 * **hepatitis flare** : ALT가 baseline의 ＞3배 및 ＞100 U/L으로 증가
 * **HBV-associated hepatitis** : HBV reactivation + hepatitis flare
 * **HBeAg seroconversion** : HBeAg(+)/HBeAb(-) → HBeAg(-)/HBeAb(+)로의 전환
 * **HBeAg clearance** : HBeAg(+) → HBeAg(-)로의 전환
 * **HBeAg seroreversion** : HBeAg(-) → HBeAg(+)로의 전환
-* **resolved CHB** : HBsAg(+) 환자의 HBsAg(-) 전환 후 지속; HBV DNA 검출 안 됨, 활동성 바이러스 감염의 임상적·조직학적 증거 없음
+* **resolved HBV infection** : 과거 HBV 감염 후 HBsAg 소실 및 HBV DNA 미검출 상태; 활동성 바이러스 감염의 임상적·조직학적 증거 없음 (= resolved CHB)
 * **virological breakthrough** : 초기 virological response 이후 치료 중 혈청 HBV DNA가 저점으로부터 ＞10배 증가
 * **functional cure** : HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 + 간질환 진행 억제; cccDNA(covalently closed circular DNA)가 간세포 핵 내에 잔존하여 완전 박멸은 아니지만 현재 HBV 치료의 이상적 목표
-* **isolated anti-HBc positivity** : HBsAg(-), HBsAb(-), HBcAb(+) 상태; 잠재 감염(occult HBV), 과거 감염 후 HBsAb 소실, 또는 위양성일 수 있음; 면역억제 시 재활성화(reverse seroconversion) 위험 존재
+* **isolated anti-HBc positivity** : HBsAg(-), HBsAb(-), anti-HBc(+) 상태; 잠재 감염(occult HBV), 과거 감염 후 HBsAb 소실, 또는 위양성일 수 있음; 면역억제 시 재활성화(reverse seroconversion) 위험 존재
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -49,12 +49,12 @@
 
 ### <mark style="color:orange;">만성 B형간염 자연 경과 (Phase)</mark>
 
-<table><thead><tr><th width="49">단계</th><th width="335">임상 분류</th><th width="108">ALT</th><th width="101">HBV DNA (IU/㎖)</th><th width="107">간 손상</th></tr></thead><tbody><tr><td>1</td><td>만성 B형 감염(CHB), 면역관용기; <em>HBeAg(+), Anti-HBe(-)</em></td><td>정상</td><td>≥10⁷</td><td>없음~최소</td></tr><tr><td>2</td><td>HBeAg(+) CHB, 면역활동기; <em>HBeAg(+), anti-HBe 발생 가능</em></td><td>↑(지속 또는 간헐적)</td><td>≥20,000</td><td>중등도 이상</td></tr><tr><td>3</td><td>CHB, 면역비활동기; <em>HBeAg(-), anti-HBe(+)</em></td><td>정상</td><td>＜2,000</td><td>최소</td></tr><tr><td>4</td><td>HBeAg(-) CHB, 면역활동기 ; <em>HBeAg(-), anti-HBe(+/-)</em></td><td>↑(지속 또는 간헐적)</td><td>≥2,000</td><td>중등도 이상</td></tr><tr><td>5</td><td>HBsAg 소실기; <em>HBeAg(-), anti-HBc(+), anti-HBs(+/-)</em></td><td>정상</td><td>미검출</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="49">단계</th><th width="335">임상 분류</th><th width="108">ALT</th><th width="101">HBV DNA (IU/㎖)</th><th width="107">간 손상</th></tr></thead><tbody><tr><td>1</td><td>만성 B형 감염(CHB), 면역관용기<br><em>HBeAg(+) chronic infection; HBeAg(+), anti-HBe(-)</em></td><td>정상</td><td>대개 ≥10⁷</td><td>대체로 경미하나 일부에서 유의한 섬유화 가능</td></tr><tr><td>2</td><td>HBeAg(+) CHB, 면역활동기<br><em>HBeAg(+) chronic hepatitis; HBeAg(+), anti-HBe 발생 가능</em></td><td>↑(지속 또는 간헐적)</td><td>≥20,000</td><td>중등도 이상</td></tr><tr><td>3</td><td>CHB, 면역비활동기<br><em>HBeAg(-) chronic infection; HBeAg(-), anti-HBe(+)</em></td><td>정상</td><td>＜2,000</td><td>최소</td></tr><tr><td>4</td><td>HBeAg(-) CHB, 면역활동기<br><em>HBeAg(-) chronic hepatitis; HBeAg(-), anti-HBe(+/-)</em></td><td>↑(지속 또는 간헐적)</td><td>≥2,000</td><td>중등도 이상</td></tr><tr><td>5</td><td>HBsAg 소실기<br><em>HBsAg loss / functional cure; HBeAg(-), anti-HBc(+), anti-HBs(+/-)</em></td><td>정상</td><td>미검출</td><td>-</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Table 2.</mark></em></p>
 
 {% hint style="info" %}
-**Functional Cure — 치료의 이상적 목표**\
+**Functional Cure - 치료의 이상적 목표**\
 HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 functional cure라 함. cccDNA는 간세포 핵 내에 잔존하므로 완전 박멸(sterilizing cure)은 아니지만, HCC·간경변 위험을 최소화하는 최선의 결과임. 최근에는 HBsAg의 완전 소실 없이 qHBsAg이 크게 감소한 상태를 'partial cure' 또는 'clinical cure' 개념으로 구분하기도 하나, HBsAg 소실이 가장 강력하고 명확한 치료 지표임. 정량 HBsAg(qHBsAg)은 치료 반응 예측, finite therapy 종료 시점, grey-zone 환자 계층화에 활용됨
 {% endhint %}
 
@@ -81,7 +81,7 @@ HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 funct
 * ALT ≥5\~10 × ULN 이상 급격 상승 또는 PT 연장 (간부전 전구 징후)
 * 심한 구역·구토로 경구 섭취 불가 → 탈수·저혈당 위험
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">— 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 치료 중 HBV DNA 재상승
 * 피로 지속 또는 현저한 체중 감소
@@ -94,10 +94,10 @@ HBsAg 소실(± HBsAb seroconversion) + 혈청 HBV DNA 미검출 상태를 funct
 ### <mark style="color:orange;">기본 검사</mark>
 
 * CBC, AST/ALT, ALP, GGT, Bilirubin, Albumin, Cr, PT/INR
-* HBsAg/HBsAb, HBeAg/HBeAb, HBcAb, HCV Ab, IgG HAV Ab (＜50세), HBV DNA 정량(RT-PCR)
+* HBsAg/HBsAb, HBeAg/HBeAb, anti-HBc, HCV Ab, IgG HAV Ab (＜50세), HBV DNA 정량(RT-PCR)
 * 유전자형 검사 : 우리나라는 대부분 C형이므로 권고하지 않음
 * 간섬유화 평가 (필요 시) : 간 생검, 혈청 표지자(FIB-4), 간 경직도(초음파 또는 MRE) (☞ 간섬유화 비침습적 검사)
-* 간세포암종 감시 : 복부 초음파 ± AFP — 간경변증, 고위험 만성 B형간염(남성 ≥40세, 여성 ≥50세, 간암 가족력, 항바이러스 치료에도 HBV DNA 지속 검출 등)에서 6개월마다 시행
+* 간세포암종 감시 : 복부 초음파 ± AFP - 간경변증, 고위험 만성 B형간염(남성 ≥40세, 여성 ≥50세, 간암 가족력, 항바이러스 치료에도 HBV DNA 지속 검출 등)에서 6개월마다 시행
 * 정량 HBsAg (qHBsAg) : Peg-IFN-α 치료 반응 예측, 치료 종료 시점 결정, grey-zone 환자 계층화에 활용 고려
 
 {% hint style="info" %}
@@ -113,10 +113,10 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 우리나라 대부
 
 ### <mark style="color:orange;">Serologic Marker 해석</mark>
 
-<table data-header-hidden><thead><tr><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th></th></tr></thead><tbody><tr><td><strong>HBsAg</strong></td><td><strong>HBsAb</strong></td><td><strong>HBcAb</strong></td><td><strong>HBeAg</strong></td><td><strong>HBeAb</strong></td><td><strong>해석</strong></td></tr><tr><td>+</td><td>-</td><td>IgM</td><td>+</td><td>-</td><td>급성 B형간염, high infectivity¹⁾</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>+</td><td>-</td><td>만성 B형간염, high infectivity</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>-</td><td>+</td><td>지연 급성 또는 만성 B형간염, low infectivity; HBeAg(-)(precore-mutant) B형간염</td></tr><tr><td>+</td><td>+</td><td>-</td><td>±</td><td>±</td><td>one subtype의 HBsAg &#x26; heterotypic HBsAb 혼합; HBsAg→HBsAb seroconversion 과정 (드묾)</td></tr><tr><td>-</td><td>-</td><td>IgM</td><td>±</td><td>±</td><td>급성 B형간염¹⁾; HBcAb window period</td></tr><tr><td>-</td><td>-</td><td>IgG</td><td>-</td><td>-</td><td>Isolated anti-HBc²⁾: occult HBV infection 가능; 과거 감염 후 HBsAb 소실; 위양성 가능</td></tr><tr><td>-</td><td>+</td><td>IgG</td><td>-</td><td>-</td><td>B형간염으로부터의 회복 (resolved infection)</td></tr><tr><td>-</td><td>+</td><td>-</td><td>-</td><td>-</td><td>백신 접종 후 상태; 과거 B형간염(?); 위양성</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th width="80"></th><th></th></tr></thead><tbody><tr><td><strong>HBsAg</strong></td><td><strong>HBsAb</strong></td><td><strong>anti-HBc</strong></td><td><strong>HBeAg</strong></td><td><strong>HBeAb</strong></td><td><strong>해석</strong></td></tr><tr><td>+</td><td>-</td><td>IgM</td><td>+</td><td>-</td><td>급성 B형간염, high infectivity¹⁾</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>+</td><td>-</td><td>만성 B형간염, high infectivity</td></tr><tr><td>+</td><td>-</td><td>IgG</td><td>-</td><td>+</td><td>지연 급성 또는 만성 B형간염, low infectivity; HBeAg(-)(precore-mutant) B형간염</td></tr><tr><td>+</td><td>+</td><td>-</td><td>±</td><td>±</td><td>one subtype의 HBsAg &#x26; heterotypic HBsAb 혼합; HBsAg→HBsAb seroconversion 과정 (드묾)</td></tr><tr><td>-</td><td>-</td><td>IgM</td><td>±</td><td>±</td><td>급성 B형간염¹⁾; anti-HBc window period</td></tr><tr><td>-</td><td>-</td><td>IgG</td><td>-</td><td>-</td><td>Isolated anti-HBc²⁾: occult HBV infection 가능; 과거 감염 후 HBsAb 소실; 위양성 가능</td></tr><tr><td>-</td><td>+</td><td>IgG</td><td>-</td><td>-</td><td>B형간염으로부터의 회복 (resolved infection)</td></tr><tr><td>-</td><td>+</td><td>-</td><td>-</td><td>-</td><td>백신 접종 후 상태; 과거 B형간염(?); 위양성</td></tr></tbody></table>
 
-¹⁾ IgM HBcAb는 만성 B형간염의 급성 재활성기에도 출현할 수 있음\
-²⁾ Isolated anti-HBc(HBsAg(-)/HBsAb(-)/HBcAb(+)): window period·resolved infection·occult HBV·위양성을 감별; 면역억제 치료 시 HBV 재활성화 위험 — 고위험 약제 투여 전 HBV DNA 확인 필요; 수혈·장기 기증 시에는 occult HBV 전파 가능성으로 인해 혈액원/이식 센터에 반드시 고지해야 하며, 기증 가능 여부는 기관 프로토콜에 따름
+¹⁾ IgM anti-HBc는 만성 B형간염의 급성 재활성기에도 출현할 수 있음\
+²⁾ Isolated anti-HBc(HBsAg(-)/HBsAb(-)/anti-HBc(+)): window period·resolved infection·occult HBV·위양성을 감별; 면역억제 치료 시 HBV 재활성화 위험 - 고위험 약제 투여 전 HBV DNA 확인 필요; 수혈·장기 기증 시에는 occult HBV 전파 가능성으로 인해 혈액원/이식 센터에 반드시 고지해야 하며, 기증 가능 여부는 기관 프로토콜에 따름
 
 <p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of Internal Medicine, 21st ed., fig 332-5.</mark></em></p>
 
@@ -126,7 +126,7 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 우리나라 대부
 
 #### <mark style="color:$primary;">선별 검사 대상 (고위험군)</mark>
 
-* 고위험 지역 출신 또는 여행자\*
+* HBV 고유병 지역 출생자 또는 장기 체류자\*
 * 마약 주사 사용자\*, 남성 동성애자\*, STD 평가·치료 대상자\*, 복수의 성 파트너\*
 * 면역억제제 치료자, 혈액/장기/정액 기증자
 * 원인 미상의 ALT 또는 AST 상승\*
@@ -149,7 +149,7 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 우리나라 대부
 * 대증 치료; 증상이 있는 경우 충분한 휴식 및 수분 섭취 권장 (routine 침상 안정은 권장하지 않음)
 * 식이 : 특별한 제한 없이, 과식을 하지 않는 수준에서 원하는 음식 섭취
 * 심한 구역·구토, 경구 섭취 어려운 경우 IV (예: 10% glucose)
-* 알코올 금단 등 안정제가 필요한 경우 간 대사가 없는 oxazepam이 선호되나 현재 국내 시판 제품 없음; 대체제로 lorazepam <mark style="color:blue;">\[아티반]</mark> (1\~2 ㎎ q4\~8h 경구)
+* 알코올 금단 등 안정제가 필요한 경우 oxazepam이 선호되나 현재 국내 시판 제품 없음; 대체제로 lorazepam <mark style="color:blue;">\[아티반]</mark> (1\~2 ㎎ q4\~8h 경구) - 간의 산화 대사(CYP)를 거의 거치지 않고 glucuronidation 위주로 대사되어 간기능 저하 환자에서 비교적 안전
 * 경구 항바이러스제 : 혈액응고장애·심한 황달·간부전 등이 발생한 중증 급성 B형간염에서 고려
 
 {% hint style="danger" %}
@@ -204,7 +204,7 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 우리나라 대부
 
 * 복수, 정맥류 출혈, 간성뇌증, 황달 등 합병증 동반 상태
 * HBV DNA 검출 시 ALT 무관 즉시 경구 항바이러스제 치료 시작 및 간 이식 고려
-* Peg-IFN-α : 세균 감염·간부전 위험으로 금기
+* Peg-IFN-α : 금기 (☞ 항바이러스제 > 주사제 섹션 참조)
 
 {% hint style="danger" %}
 비대상성 간경변증 환자는 간신증후군(HRS) 위험이 높아 항바이러스제 시작 전 반드시 신기능(CrCl, BUN/Cr)을 평가함. 신기능에 따라 TDF, TAF, ETV의 용량 조절이 필요하며, TDF는 신독성 위험으로 주의하여 사용
@@ -217,31 +217,26 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 우리나라 대부
 * Peg-IFN-α-2a <mark style="color:blue;">\[페가시스 주]</mark> : 180 ㎍ qwk SC
   * 부작용 : 감기 증상, 피로, 감정 변동, 혈구 감소, 자가면역 이상
   * 절대 금기 : 비대상성 간경변증, 자가면역 간염, 심한 정신질환 병력(우울증·자살 충동 등), 조절 안 되는 자가면역질환, 혈소판 ＜50,000/㎕, 호중구 ＜1,000/㎕, 임신
-  * 치료 중 모니터링 : CBC (매달 ×3), TSH (3개월마다); 자가면역·허혈·신경정신·감염에 대한 임상 관찰
+  * 치료 중 모니터링 : ☞ 항바이러스제 치료 중 모니터링 섹션 참조
 
 **경구제 - High genetic barrier (선호)**
 
 * 투여 기간 : HBsAg 소실까지
 
-<table><thead><tr><th width="120">성분명</th><th width="110">용량¹⁾</th><th width="154">부작용</th><th>치료 중 모니터링</th></tr></thead><tbody><tr><td>Entecavir (ETV)<br><mark style="color:blue;">[바라크루드]</mark></td><td>0.5 ㎎ qd²⁾</td><td>젖산증</td><td>필요 시 젖산 검사; HIV 검사³⁾</td></tr><tr><td>Tenofovir DF (TDF)<br><mark style="color:blue;">[비리어드]</mark></td><td>300 ㎎ qd</td><td>신장애, Fanconi syndrome, 골연화증, 젖산증</td><td>CrCl 기저 검사; 신장애 위험 시 매년 최소 CrCl · P · u-Glc&#x26;Prot; 필요 시 젖산; 골절 병력/골다공증 위험 시 골밀도 검사</td></tr><tr><td>Tenofovir AF (TAF)<br><mark style="color:blue;">[베믈리디]</mark></td><td>25 ㎎ qd</td><td>젖산증; 체중 증가·LDL 상승 보고 (TG 상승은 일관되지 않음)⁴⁾</td><td>치료 전/중 Cr · P · CrCl · u-Glc&#x26;Prot 필요 시; 필요 시 젖산; HIV 검사³⁾; 체중·지질 추적</td></tr><tr><td>Besifovir<br><mark style="color:blue;">[베시포]</mark></td><td>150 ㎎ qd⁵⁾</td><td>L-carnitine 결핍</td><td>L-carnitine 보충 병용 필수; 신기능·골밀도 추적 (TDF 대비 신장·골 안전성 유리 가능)</td></tr></tbody></table>
+<table><thead><tr><th width="120">성분명</th><th width="110">용량¹⁾</th><th width="154">부작용</th><th>치료 중 모니터링</th></tr></thead><tbody><tr><td>Entecavir (ETV)<br><mark style="color:blue;">[바라크루드]</mark></td><td>0.5 ㎎ qd²⁾</td><td>젖산증</td><td>필요 시 젖산 검사; HIV 검사³⁾</td></tr><tr><td>Tenofovir DF (TDF)<br><mark style="color:blue;">[비리어드]</mark></td><td>300 ㎎ qd</td><td>신장애, Fanconi syndrome, 골연화증, 젖산증</td><td>CrCl 기저 검사; 신장애 위험 시 매년 최소 CrCl · P · u-Glc&#x26;Prot; 필요 시 젖산; 골절 병력/골다공증 위험 시 골밀도 검사</td></tr><tr><td>Tenofovir AF (TAF)<br><mark style="color:blue;">[베믈리디]</mark></td><td>25 ㎎ qd</td><td>젖산증; 체중 증가·LDL 상승 보고 (TG 상승은 일관되지 않음)</td><td>치료 전/중 Cr · P · CrCl · u-Glc&#x26;Prot 필요 시; 필요 시 젖산; HIV 검사³⁾; 체중·지질 추적</td></tr><tr><td>Besifovir<br><mark style="color:blue;">[베시포]</mark></td><td>150 ㎎ qd⁴⁾</td><td>L-carnitine 결핍</td><td>L-carnitine 보충 병용 필수; 신기능·골밀도 추적 (TDF 대비 신장·골 안전성 유리 가능)</td></tr></tbody></table>
 
-{% hint style="info" %}
-**TDF vs TAF vs Besifovir** : TAF와 besifovir는 TDF에 비해 신독성 및 골밀도 감소가 유의하게 적어, 신기능 저하 위험인자(기저 GFR ＜60 mL/min, 단백뇨, 알부민뇨, 저인산혈증, 조절 안 되는 당뇨·고혈압) 또는 골다공증 위험이 있는 환자에서 선호된다. 반면 TAF는 체중 증가 및 이상지질혈증 발생 가능성이 보고되고 있어 대사 지표 모니터링이 필요하다. Besifovir는 국내 개발 신약으로 L-carnitine 반드시 병용.
-{% endhint %}
+**경구제 - Low genetic barrier (비선호)**
 
-**경구제 — Low genetic barrier (비선호)**
+투여 기간 : 내성 발생 시 즉시 high barrier 약제로 교체; 내성 없이 반응 유지 중이면 HBsAg 소실까지 또는 치료 종료 기준 도달 시까지
 
-투여 기간 : HBsAg 소실까지 또는 resistant mutation 확인 전까지
-
-<table data-header-hidden><thead><tr><th width="164">성분명</th><th width="79">용량¹⁾</th><th width="124">부작용</th><th>치료 중 모니터링</th></tr></thead><tbody><tr><td>Lamivudine (LAM)<br><mark style="color:blue;">[제픽스]</mark></td><td>100 ㎎ qd</td><td>췌장염, 젖산증</td><td>필요 시 amylase, 젖산; HIV 검사³⁾</td></tr><tr><td>Telbivudine (TBV)<br><mark style="color:blue;">[세비보]</mark></td><td>600 ㎎ qd</td><td>CK 상승, myopathy</td><td>필요 시 CK, 젖산</td></tr><tr><td>Clevudine<br><mark style="color:blue;">[레보비르]</mark></td><td>30 ㎎ qd</td><td>말초신경병증, 젖산증</td><td>—</td></tr><tr><td>Adefovir (ADV)<br><mark style="color:blue;">[헵세라]</mark></td><td>10 ㎎ qd</td><td>ARF, Fanconi syndrome, 젖산증</td><td>CrCl 기저 검사; 신장애 위험 시 매년 CrCl · P · u-Glc&#x26;Prot; 필요 시 젖산; 골절 병력/골다공증 위험 시 골밀도 검사</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="164">성분명</th><th width="79">용량¹⁾</th><th width="124">부작용</th><th>치료 중 모니터링</th></tr></thead><tbody><tr><td>Lamivudine (LAM)<br><mark style="color:blue;">[제픽스]</mark></td><td>100 ㎎ qd</td><td>췌장염, 젖산증</td><td>필요 시 amylase, 젖산; HIV 검사³⁾</td></tr><tr><td>Telbivudine (TBV)<br><mark style="color:blue;">[세비보]</mark></td><td>600 ㎎ qd</td><td>CK 상승, myopathy</td><td>필요 시 CK, 젖산</td></tr><tr><td>Clevudine<br><mark style="color:blue;">[레보비르]</mark></td><td>30 ㎎ qd</td><td>말초신경병증, 젖산증</td><td>-</td></tr><tr><td>Adefovir (ADV)<br><mark style="color:blue;">[헵세라]</mark></td><td>10 ㎎ qd</td><td>ARF, Fanconi syndrome, 젖산증</td><td>CrCl 기저 검사; 신장애 위험 시 매년 CrCl · P · u-Glc&#x26;Prot; 필요 시 젖산; 골절 병력/골다공증 위험 시 골밀도 검사</td></tr></tbody></table>
 
 _ETV = entecavir, TDF = tenofovir disoproxil fumarate, TAF = tenofovir alafenamide fumarate, LAM = lamivudine, TBV = telbivudine, ADV = adefovir_
 
 ¹⁾ 신기능 저하 시 용량 조절 필요\
-²⁾ Lamivudine 치료 경험자 또는 비대상성 간경변증 환자에서 1 mg/d\
-³⁾ **HIV 검사 이유** : HIV 동시 감염 환자에서 ETV 단독 사용 시 HIV에 대한 불충분한 억제로 HIV 내성 돌연변이 유발 가능. TAF·TDF는 anti-HIV 활성도 있어 HIV 공감염 시 HIV 치료 병행 원칙과 충돌하지 않음\
-⁴⁾ TAF 관련 체중 증가 및 이상지질혈증은 TDF 대비 보고가 증가하는 추세; 대사 지표를 정기적으로 확인\
-⁵⁾ L-carnitine 660 mg 함께 복용 (carnitine 결핍 예방; 장기 복용 시 TDF 대비 신기능·골 안전성 유리 가능성)
+²⁾ Lamivudine 치료 경험자 또는 비대상성 간경변증 환자에서 1 ㎎/d\
+³⁾ **HIV 검사 이유** : ETV·LAM·TAF는 HBV 단독 치료 목적으로 사용할 경우 HIV를 불충분하게 억제하여 HIV 내성 돌연변이를 유발할 수 있음. 치료 전 HIV 감염 여부 확인 필수; HIV 공감염 확인 시 HIV 전문의와 협진\
+⁴⁾ L-carnitine 660 mg 함께 복용 (carnitine 결핍 예방; 장기 복용 시 TDF 대비 신기능·골 안전성 유리 가능성)
 
 {% hint style="info" %}
 **Emerging therapies** : siRNA(HBV RNA 간섭), capsid assembly modulator(CAM), 치료 백신 등 functional cure를 목표로 한 새로운 치료제들이 임상시험 단계에 있다. 기존 뉴클레오타이드 유사체와의 병용 전략이 활발히 연구 중이다.
@@ -372,13 +367,13 @@ class CH,H,FH lightGreen
 #### <mark style="color:$primary;">항바이러스제 치료 중 모니터링</mark>
 
 * 경구 항바이러스제 : LFT·HBV DNA 1\~6개월마다, HBeAg/Ab 3\~6개월마다; 치료 반응 예측·종료 시점 결정을 위해 정량 HBsAg 검사 고려
-* Peg-IFN-α : CBC·LFT 매월, HBV DNA 1\~3개월마다, HBeAg/Ab 치료 6개월·1년·종료 6개월 후; 정량 HBsAg 치료 전·12주·24주·종료 시 고려
+* Peg-IFN-α : CBC·LFT 매월, TSH 3개월마다, HBV DNA 1\~3개월마다, HBeAg/Ab 치료 6개월·1년·종료 6개월 후; 정량 HBsAg 치료 전·12주·24주·종료 시 고려; 자가면역·허혈·신경정신·감염에 대한 임상 관찰
 * Virologic response 확인 후 HBV DNA를 3\~6개월마다 지속 측정
 * 각 약물별 부작용 모니터링
 
 #### <mark style="color:$primary;">치료 종료 및 종료 후 모니터링</mark>
 
-* 종료 기준 : HBsAg 소실 이후 경구 항바이러스제 종료 (A1); HBeAg(+) 환자는 HBV DNA 불검출 및 HBeAg 소실 또는 혈청전환이 이루어진 후 12개월 이상 투여한 후 종료 고려 (B2) — virologic·serologic response 둘 다 충족해야 함
+* 종료 기준 : HBsAg 소실 이후 경구 항바이러스제 종료 (A1); HBeAg(+) 환자는 HBV DNA 불검출 및 HBeAg 소실 또는 혈청전환이 이루어진 후 12개월 이상 투여한 후 종료 고려 (B2) - virologic·serologic response 둘 다 충족해야 함
 * 주의 : 치료 종료 후 재활성화 위험이 높아 장기 추적이 필수이며, 실제 임상에서는 재발 위험·환자 상황에 따라 장기 유지 치료를 선택하는 경우가 많다
 * 간경변증 환자에서는 장기간 치료 고려; 비대상성 간경변증 환자에서는 경구 항바이러스제 중단 불가
 * 치료 종료 후 1년간 : LFT·HBV DNA 1\~6개월마다, HBeAg/Ab 3\~6개월마다
@@ -484,8 +479,8 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 
 #### <mark style="color:$primary;">진단</mark>
 
-* 1단계 : 항-HDV 항체(Anti-HDV IgG/IgM) 검사 — HBsAg(+) 고위험군에서 선별
-* 2단계 : Anti-HDV 양성 시 HDV RNA 정량(RT-PCR) — 활성 감염 확인 및 치료 반응 평가
+* 1단계 : 항-HDV 항체(Anti-HDV IgG/IgM) 검사 - HBsAg(+) 고위험군에서 선별
+* 2단계 : Anti-HDV 양성 시 HDV RNA 정량(RT-PCR) - 활성 감염 확인 및 치료 반응 평가
 * KCD 코드: B18.0 (델타-병원체 동반 만성 바이러스B형간염)
 
 #### <mark style="color:$primary;">치료</mark>
@@ -503,12 +498,12 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 
 ### <mark style="color:orange;">면역억제제 투여 환자의 HBV 재활성화 예방</mark>
 
-* 면역억제 치료를 받는 HBsAg(+) 또는 HBcAb(+) 환자에서 HBV 재활성화(HBV reactivation)는 간부전 및 사망까지 초래할 수 있는 중대한 합병증
-* 면역억제제 투여 전 모든 환자에서 HBV 스크리닝 필수 : HBsAg, Anti-HBc (total), HBsAb
-* HBsAg(+) 또는 Anti-HBc(+) 환자에서 면역억제 시작 전 HBV DNA baseline 측정 — 재활성화 발생 시 기저값 대비 비교에 필수적이며, 예방적 항바이러스제 시작 여부 결정의 근거가 됨
+* 면역억제 치료를 받는 HBsAg(+) 또는 anti-HBc(+) 환자에서 HBV 재활성화(HBV reactivation)는 간부전 및 사망까지 초래할 수 있는 중대한 합병증
+* 면역억제제 투여 전 모든 환자에서 HBV 스크리닝 필수 : HBsAg, anti-HBc (total), HBsAb
+* HBsAg(+) 또는 anti-HBc(+) 환자에서 면역억제 시작 전 HBV DNA baseline 측정 - 재활성화 발생 시 기저값 대비 비교에 필수적이며, 예방적 항바이러스제 시작 여부 결정의 근거가 됨; **baseline HBV DNA가 낮거나 미검출이더라도 면역억제 후 재활성화가 발생할 수 있으므로 수치에만 의존하지 않도록 주의**
 
 {% hint style="danger" %}
-**Isolated anti-HBc(+) 주의** : HBsAg(-)/HBsAb(-)/HBcAb(+) — 즉 HBsAb가 없는 isolated anti-HBc 양성 환자는 occult HBV 상태일 수 있으며, rituximab·anti-CD20 등 고위험 면역억제 치료 시 reverse seroconversion(HBsAg 재양전)을 포함한 심각한 재활성화가 발생할 수 있음. 반드시 HBV DNA를 확인하고 위험도에 따라 예방 또는 면밀한 모니터링을 시행
+**Isolated anti-HBc(+) 주의** : HBsAg(-)/HBsAb(-)/anti-HBc(+) - 즉 HBsAb가 없는 isolated anti-HBc 양성 환자는 occult HBV 상태일 수 있으며, rituximab·anti-CD20 등 고위험 면역억제 치료 시 reverse seroconversion(HBsAg 재양전)을 포함한 심각한 재활성화가 발생할 수 있음. 반드시 HBV DNA를 확인하고 위험도에 따라 예방 또는 면밀한 모니터링을 시행
 {% endhint %}
 
 ***
@@ -552,7 +547,7 @@ class EndA,ProA sky
 
 #### <mark style="color:$primary;">위험도 분류 및 예방 전략</mark>
 
-<table data-header-hidden><thead><tr><th width="98.25"></th><th width="346"></th><th width="159.75"></th><th></th></tr></thead><tbody><tr><td>위험도</td><td>해당 약제 / 상황</td><td>HBsAg(+)<br>또는 resolved HBV¹⁾</td><td>예방 기간²⁾</td></tr><tr><td><mark style="color:$danger;"><strong>고위험</strong></mark><br><mark style="color:$danger;">(≥10%)</mark></td><td><strong>HBsAg(+) 환자:</strong><br>• B세포 고갈제 (rituximab, ofatumumab, alemtuzumab 등 Anti-CD20/CD52)<br>• 조혈모세포이식(HSCT)<br>• 고용량 스테로이드 (prednisone ≥20 ㎎/d, ≥4주) — 단독 투여 시도 고위험<br>• 강력 TNFα 억제제 (infliximab, adalimumab, certolizumab, golimumab)<br>• 안트라사이클린 계열 (doxorubicin, daunorubicin, epirubicin)<br>• TACE<br>• CAR-T 세포 치료<br><strong>Resolved HBV 환자:</strong><br>• B세포 고갈제만 고위험</td><td><strong>HBsAg(+)</strong> → 항바이러스제 예방적 투여<br><strong>Resolved HBV</strong> (HBsAg(-)/HBcAb(+)) → 예방적 투여 강력 권고 (B세포 고갈제); 기타 → 위험도에 따라 판단</td><td>면역억제 종료 후 <strong>최소 6개월</strong><br>rituximab 포함 B세포 고갈제: 종료 후 <strong>최소 12개월</strong></td></tr><tr><td><mark style="color:$warning;"><strong>중등위험</strong></mark><br><mark style="color:$warning;">(1~10%)</mark></td><td>• 세포독성 항암화학요법 (안트라사이클린 제외)<br>• 중등도 스테로이드 (prednisone 10–20 ㎎/d, ≥4주)<br>• 약한 TNFα 억제제 (etanercept)<br>• IL-6 억제제, JAK 억제제 (tofacitinib, baricitinib), abatacept, ustekinumab<br>• 면역관문억제제 ICI (pembrolizumab, nivolumab 등) — HBsAg(+)에서 중등위험<br>• 칼시뉴린 억제제 (cyclosporine), mTOR 억제제<br>• TKI (imatinib, nilotinib, ibrutinib 등), 프로테아좀 억제제</td><td><strong>HBsAg(+)</strong> → 예방적 투여 권고<br><strong>Resolved HBV</strong> → 예방 또는 면밀한 모니터링 (공유 의사결정)</td><td>면역억제 종료 후 <strong>최소 6개월</strong></td></tr><tr><td><mark style="color:$info;"><strong>저위험</strong></mark><br><mark style="color:$info;">(&#x3C;1%)</mark></td><td>• 저용량 스테로이드 (prednisone &#x3C;10 ㎎/d)<br>• MTX, azathioprine, hydroxychloroquine, mycophenolate, leflunomide<br>• 관절강 내 스테로이드 주사<br>• ICI — Resolved HBV에서 저위험</td><td><strong>HBsAg(+)</strong> → 개별 판단; 모니터링<br><strong>Resolved HBV</strong> → 통상적 모니터링</td><td>—</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="98.25"></th><th width="346"></th><th width="159.75"></th><th></th></tr></thead><tbody><tr><td>위험도</td><td>해당 약제 / 상황</td><td>HBsAg(+)<br>또는 resolved HBV¹⁾</td><td>예방 기간²⁾</td></tr><tr><td><mark style="color:$danger;"><strong>고위험</strong></mark><br><mark style="color:$danger;">(≥10%)</mark></td><td><strong>HBsAg(+) 환자:</strong><br>• B세포 고갈제 (rituximab, ofatumumab, alemtuzumab 등 Anti-CD20/CD52)<br>• 조혈모세포이식(HSCT)<br>• 고용량 스테로이드 (prednisone ≥20 ㎎/d, ≥4주) - 단독 투여 시도 고위험<br>• 강력 TNFα 억제제 (infliximab, adalimumab, certolizumab, golimumab)<br>• 안트라사이클린 계열 (doxorubicin, daunorubicin, epirubicin)<br>• TACE<br>• CAR-T 세포 치료<br><strong>Resolved HBV 환자:</strong><br>• B세포 고갈제만 고위험</td><td><strong>HBsAg(+)</strong> → 항바이러스제 예방적 투여<br><strong>Resolved HBV</strong> (HBsAg(-)/anti-HBc(+)) → 예방적 투여 강력 권고 (B세포 고갈제); 기타 → 위험도에 따라 판단</td><td>면역억제 종료 후 <strong>최소 6개월</strong><br>rituximab 포함 B세포 고갈제: 종료 후 <strong>최소 12개월</strong></td></tr><tr><td><mark style="color:$warning;"><strong>중등위험</strong></mark><br><mark style="color:$warning;">(1~10%)</mark></td><td>• 세포독성 항암화학요법 (안트라사이클린 제외)<br>• 중등도 스테로이드 (prednisone 10–20 ㎎/d, ≥4주)<br>• 약한 TNFα 억제제 (etanercept)<br>• IL-6 억제제, JAK 억제제 (tofacitinib, baricitinib), abatacept, ustekinumab<br>• 면역관문억제제 ICI (pembrolizumab, nivolumab 등) - HBsAg(+)에서 중등위험<br>• 칼시뉴린 억제제 (cyclosporine), mTOR 억제제<br>• TKI (imatinib, nilotinib, ibrutinib 등), 프로테아좀 억제제</td><td><strong>HBsAg(+)</strong> → 예방적 투여 권고<br><strong>Resolved HBV</strong> → 예방 또는 면밀한 모니터링 (공유 의사결정)</td><td>면역억제 종료 후 <strong>최소 6개월</strong></td></tr><tr><td><mark style="color:$info;"><strong>저위험</strong></mark><br><mark style="color:$info;">(&#x3C;1%)</mark></td><td>• 저용량 스테로이드 (prednisone &#x3C;10 ㎎/d)<br>• MTX, azathioprine, hydroxychloroquine, mycophenolate, leflunomide<br>• 관절강 내 스테로이드 주사<br>• ICI - Resolved HBV에서 저위험</td><td><strong>HBsAg(+)</strong> → 개별 판단; 모니터링<br><strong>Resolved HBV</strong> → 통상적 모니터링</td><td>-</td></tr></tbody></table>
 
 _¹⁾ Resolved HBV = HBsAg(-) / Anti-HBc(+) / HBsAb(±); cccDNA가 간세포에 잠복하여 재활성화 가능_\
 &#xNAN;_&#xB2;⁾ 치료 기간 중 및 종료 후 예방 기간; 개별 약제 및 환자 상태에 따라 조정_\
@@ -570,7 +565,7 @@ _¹⁾ Resolved HBV = HBsAg(-) / Anti-HBc(+) / HBsAb(±); cccDNA가 간세포에
 * 예방 종료 후 : ALT, HBV DNA를 3\~6개월마다 최소 12개월간 관찰; reactivation 의심 시 즉시 HBV DNA 검사 (KASL 2022)
 
 {% hint style="danger" %}
-**임상 실천 요점**: 류마티스 내과, 혈액종양내과, 종양내과 등에서 rituximab, 생물학적 제제, 고용량 스테로이드를 처방하기 전에 반드시 HBV 스크리닝을 시행. HBcAb(+) 환자(resolved HBV)도 고위험 면역억제제 투여 시 재활성화 위험이 있으므로 예방 또는 면밀한 추적이 필요.\
+**임상 실천 요점**: 류마티스 내과, 혈액종양내과, 종양내과 등에서 rituximab, 생물학적 제제, 고용량 스테로이드를 처방하기 전에 반드시 HBV 스크리닝을 시행. anti-HBc(+) 환자(resolved HBV)도 고위험 면역억제제 투여 시 재활성화 위험이 있으므로 예방 또는 면밀한 추적이 필요.\
 단, anti-HBc(+)이면서 anti-HBs 역가 >100 IU/㎖인 경우에는 rituximab 투여 시에도 HBV DNA를 면밀히 관찰하며 재활성화 발생 시 즉각 치료를 시작하는 전략을 고려할 수 있음 (KASL 2022). 1차의료에서는 위험 약제 처방 전 검사 확인 및 전문과 협진을 권고
 {% endhint %}
 
@@ -608,7 +603,7 @@ B18.1 델타-병원체가 없는 만성 바이러스B형간염
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 급성 B형간염 — 경증 대증치료**
+> **처방례 1. 급성 B형간염 - 경증 대증치료**
 >
 > ```
 > 포도당주사 10%/500mL  1병  qd IV (필요 시)
@@ -617,7 +612,7 @@ B18.1 델타-병원체가 없는 만성 바이러스B형간염
 >
 > _✽ 경증의 경우 경구 섭취 가능하면 특별한 치료 없이 충분한 수분 섭취와 안정을 권고한다. 심한 구역·구토 또는 경구 섭취가 어려운 경우 포도당 수액을 고려. 안정제가 필요한 경우 lorazepam \[아티반] 1_~~_2 ㎎ q4_~~_8h 고려_
 
-> **처방례 2. 만성 B형간염 — 항바이러스 치료 (ETV; 초치료)**
+> **처방례 2. 만성 B형간염 - 항바이러스 치료 (ETV; 초치료)**
 >
 > ```
 > 바라크루드 0.5mg  1T  qd  (식전 2시간 또는 식후 2시간, 공복 복용)
@@ -625,7 +620,7 @@ B18.1 델타-병원체가 없는 만성 바이러스B형간염
 >
 > _✽ 1차 선택제; lamivudine 치료 경험 없는 초치료 환자 또는 HBV DNA 수치가 낮은 비대상성 간경변증이 아닌 경우 0.5 mg을 사용한다. 신기능 정상이고 골대사 이상 위험이 없는 경우 적합한 first-line 옵션. 공복 복용을 철저히 지도한다._
 
-> **처방례 3. 만성 B형간염 — 항바이러스 치료 (TAF; 신기능 저하 위험)**
+> **처방례 3. 만성 B형간염 - 항바이러스 치료 (TAF; 신기능 저하 위험)**
 >
 > ```
 > 베믈리디 25mg  1T  qd  (식사와 함께)
@@ -633,7 +628,7 @@ B18.1 델타-병원체가 없는 만성 바이러스B형간염
 >
 > _✽ 신기능 저하 위험인자(GFR ＜60, 단백뇨, 당뇨·고혈압 미조절 등)가 있거나 골다공증 병력이 있는 경우 TAF를 선호한다. TDF에 비해 신독성 및 골밀도 감소가 현저히 적으며, 식사와 함께 복용한다. **단, 체중 증가 및 LDL 상승이 보고되므로 대사이상 위험이 있는 환자에서는 체중·지질 수치를 3\~6개월마다 모니터링**하고, 조절이 안 되면 ETV 전환을 고려한다._
 
-> **처방례 4. 만성 B형간염 — 간장질환용제 보조 처방 (항바이러스 치료 비대상자)**
+> **처방례 4. 만성 B형간염 - 간장질환용제 보조 처방 (항바이러스 치료 비대상자)**
 >
 > ```
 > 우루사 100mg   1T  tid  pc
@@ -642,7 +637,7 @@ B18.1 델타-병원체가 없는 만성 바이러스B형간염
 >
 > _✽ 항바이러스 치료 비대상자(면역비활동기 또는 면역관용기 관찰 중) 중 ALT 경도 상승 또는 보조적 간 기능 개선이 필요한 경우 고려. 이 처방은 항바이러스 효과가 없으므로 치료 적응증 여부를 정기적으로 재평가해야 한다._
 
-> **처방례 5. 만성 B형간염 — 수직감염 예방 (임신부, HBV DNA ≥200,000 IU/mL)**
+> **처방례 5. 만성 B형간염 - 수직감염 예방 (임신부, HBV DNA ≥200,000 IU/mL)**
 >
 > ```
 > 비리어드 300mg  1T  qd  (임신 24~32주부터 출산 후 최대 12주까지)
@@ -650,13 +645,13 @@ B18.1 델타-병원체가 없는 만성 바이러스B형간염
 >
 > _✽ 신생아에게는 출생 즉시 HBIG + B형간염 백신 접종 필수. TDF는 임신 안전성 데이터가 축적되어 있어 선호; TAF는 임신 중 데이터가 TDF에 비해 적으므로 TDF를 우선 선택한다. 산후 중단 후 1\~3개월마다 최대 6개월간 hepatitis flare 감시._
 
-> **처방례 6. 면역억제제(rituximab 등) 투여 전 HBV 재활성화 예방 — HBsAg(+) 또는 Resolved HBV**
+> **처방례 6. 면역억제제(rituximab 등) 투여 전 HBV 재활성화 예방 - HBsAg(+) 또는 Resolved HBV**
 >
 > ```
 > 바라크루드 0.5mg   1T   qd   (면역억제 시작 7일 전 또는 동시에 투여 시작)
 > ```
 >
-> _✽ 면역억제 치료 시작 전 HBV 스크리닝(HBsAg, HBcAb, HBsAb)을 반드시 시행한다. HBsAg(+) 또는 HBsAg(-)/HBcAb(+)\[resolved HBV] 환자에서 rituximab·항암화학요법 등 고위험 면역억제제 사용 시 ETV 예방적 투여. Rituximab 사용 환자는 치료 종료 후 최소 12개월 이상 유지한다(지연 재활성화 위험). 신기능 저하 위험이 있으면 TAF로 대체 가능._
+> _✽ 면역억제 치료 시작 전 HBV 스크리닝(HBsAg, anti-HBc, HBsAb)을 반드시 시행한다. HBsAg(+) 또는 HBsAg(-)/anti-HBc(+)\[resolved HBV] 환자에서 rituximab·항암화학요법 등 고위험 면역억제제 사용 시 ETV 예방적 투여. Rituximab 사용 환자는 치료 종료 후 최소 12개월 이상 유지한다(지연 재활성화 위험). 신기능 저하 위험이 있으면 TAF로 대체 가능._
 
 ***
 
