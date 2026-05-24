@@ -31,7 +31,7 @@
 2. **MASH (대사이상지방간염)** : 약 ⅓에서 5년 내 간섬유화 1단계 이상 진행, 적극적 치료 시 역행(regression) 가능, 일부에서 3. 으로 진행
 3. **간경변증 (F4)** : 문맥 고혈압 합병증 (정맥류 출혈·복수·간성뇌증), 간세포암종(HCC) 발생 위험; 6개월마다 감시, 간이식 평가 고려
 
-* **사망 원인** : 심혈관 질환(1위) > 간질환 > 비간성 악성 종양(대장암 등); MASLD는 간 질환인 동시에 전신 심대사 질환으로 관리해야 함
+* **사망 원인** : 초기 MASLD(F0∼F3)에서는 **심혈관 질환(1위)**이 가장 흔한 사망 원인; 간경변(F4) 이후에는 간 관련 사망 비중 증가; 비간성 악성 종양(대장암 등)은 전 병기에 걸쳐 위험; MASLD는 간 질환인 동시에 전신 심대사 질환으로 관리해야 함
 
 {% hint style="warning" %}
 **MASLD의 장기 예후를 가장 잘 예측하는 인자는** ALT 수치가 아니라 간섬유화 정도(fibrosis stage)임. ALT가 정상이어도 진행성 섬유화가 존재할 수 있으며, 치료 결정은 ALT보다 fibrosis risk 중심으로 이루어져야 함
@@ -244,13 +244,17 @@ class S,O sky
 
 ### <mark style="color:orange;">섬유화 단계별 치료 전략</mark>
 
-<table><thead><tr><th width="125.9473876953125">섬유화 단계</th><th width="140.68426513671875">대표 상태</th><th width="172.6314697265625">핵심 치료 전략</th><th>우선 고려 약제 / 포인트</th></tr></thead><tbody><tr><td><strong>F0–F1</strong><br>(저위험)</td><td>MASL,<br>초기 MASH</td><td>생활습관 중재 중심<br>심혈관 위험 감소</td><td>· 체중 감량(≥7%)<br>· 운동·지중해식 식단<br>· statin 적극 사용 가능<br>· 비만/T2DM 동반 시 GLP-1 RA 고려</td></tr><tr><td><strong>F2</strong><br>(significant fibrosis)</td><td>진행 위험 증가</td><td>질병 진행 억제 목표<br>적극적 약물 치료 고려</td><td>· Resmetirom 고려 (국내 미승인)<br>· GLP-1 RA / tirzepatide<br>· T2DM 동반 시 pioglitazone<br>· ≥10% 체중 감량 목표</td></tr><tr><td><strong>F3</strong><br>(advanced fibrosis)</td><td>간경변 전단계</td><td>간 관련 사건 예방<br>전문의 공동 관리</td><td>· Resmetirom 우선 고려 (국내 미승인)<br>· GLP-1 RA + 대사 위험 교정<br>· 금주<br>· 정기 VCTE/ELF 추적</td></tr><tr><td><strong>F4</strong><br>(간경변)</td><td>보상성/비보상성 간경변</td><td>합병증 예방 및 감시</td><td>· HCC 감시 (US ± AFP, 6개월마다)<br>· 정맥류 평가<br>· 간이식 평가 고려<br>· 간독성 약물 주의</td></tr></tbody></table>
+<table><thead><tr><th width="125.9473876953125">섬유화 단계</th><th width="140.68426513671875">대표 상태</th><th width="172.6314697265625">핵심 치료 전략</th><th>우선 고려 약제 / 포인트</th></tr></thead><tbody><tr><td><strong>F0–F1</strong><br>(저위험)</td><td>MASL,<br>초기 MASH</td><td>생활습관 중재 중심<br>심혈관 위험 감소</td><td>· 체중 감량(≥7%)<br>· 운동·지중해식 식단<br>· statin 적극 사용 가능<br>· 비만/T2DM 동반 시 GLP-1 RA 고려</td></tr><tr><td><strong>F2</strong><br>(significant fibrosis)</td><td>진행 위험 증가</td><td>질병 진행 억제 목표<br>적극적 약물 치료 고려</td><td>· Resmetirom — noncirrhotic MASH + F2∼F3에 한함 (국내 미승인)<br>· GLP-1 RA / tirzepatide<br>· pioglitazone (T2DM 또는 조직학적 MASH 확인 시)<br>· ≥10% 체중 감량 목표</td></tr><tr><td><strong>F3</strong><br>(advanced fibrosis)</td><td>간경변 전단계</td><td>간 관련 사건 예방<br>전문의 공동 관리</td><td>· Resmetirom 우선 고려 — noncirrhotic MASH + F2∼F3에 한함 (국내 미승인)<br>· GLP-1 RA + 대사 위험 교정<br>· 음주 최소화 또는 금주<br>· 정기 VCTE/ELF 추적</td></tr><tr><td><strong>F4</strong><br>(간경변)</td><td>보상성/비보상성 간경변</td><td>합병증 예방 및 감시</td><td>· HCC 감시 (US ± AFP, 6개월마다)<br>· 정맥류 평가<br>· 간이식 평가 고려<br>· 간독성 약물 주의</td></tr></tbody></table>
 
 {% hint style="danger" %}
 MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니라 간섬유화 정도(fibrosis stage)임
 {% endhint %}
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
+
+{% hint style="info" %}
+**지속적인 체중 감량은 MASLD에서 가장 효과적인 비약물 치료이다.** 어떤 약물도 장기적인 생활습관 중재를 대체할 수 없다.
+{% endhint %}
 
 ### <mark style="color:orange;">체중 감량 목표와 기대 효과</mark>
 
@@ -261,7 +265,7 @@ MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니
 {% endhint %}
 
 * 식이 조절 : 총 칼로리 제한이 구성 비율보다 중요; 포화지방·트랜스지방·단순 탄수화물 제한; 지중해식 식단 권고 (☞ [영양](../231_/217_-nutritiondiet-guideline.md))
-* 음주 제한 : 남 ≤2 SD/d, 여 ≤1 SD/d; 정기 음주량 평가; ≥F2 섬유화 시 금주 권고 (☞ [음주](../230_/189_-alcohol-use-disorder-aud.md))
+* 음주 제한 : 남 ≤2 SD/d, 여 ≤1 SD/d; 정기 음주량 평가; ≥F2 섬유화 시 **음주 최소화 또는 금주** 권고 (☞ [음주](../230_/189_-alcohol-use-disorder-aud.md))
 * 운동 : 중등 강도 유산소 운동(빠른 걷기, 고정 자전거) + 근력 운동; 3∼5회/주, 20∼45분/회 (150∼200분/주) (☞ [운동](../231_/216_-physical-activity-guideline.md))
 * 간독성 약물 주의 : 다약제 복용·건강보조식품 확인; 처방 불필요한 간독성 약물 중단 고려
 
@@ -279,7 +283,7 @@ MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니
 
 MASLD는 다양한 대사 표현형(phenotype)이 겹쳐진 질환군이므로, "지방간 자체"보다 우세 phenotype을 기준으로 치료 접근하는 것이 효과적이다.
 
-<table><thead><tr><th width="139.63153076171875">주요 Phenotype</th><th width="194">특징</th><th width="172.5263671875">핵심 치료 전략</th><th>우선 고려 약제</th></tr></thead><tbody><tr><td><strong>비만형</strong></td><td>복부비만, 과식·과당, 수면무호흡 동반</td><td>체중 감량 중심<br>visceral fat 감소</td><td>· GLP-1 RA / tirzepatide<br>· 지중해식 식단<br>· ≥10% 체중 감량 목표</td></tr><tr><td><strong>당뇨/인슐린</strong> <br><strong>저항성형</strong></td><td>T2DM, 고인슐린혈증<br>TG↑ HDL↓</td><td>인슐린 저항성 개선<br>심혈관 위험 감소</td><td>· pioglitazone<br>· GLP-1 RA<br>· SGLT-2 억제제</td></tr><tr><td><strong>섬유화 진행형</strong><br>(F2~F3)</td><td>PLT 감소, AST/ALT ratio↑</td><td>간 관련 사건 예방<br>섬유화 억제</td><td>· resmetirom (국내 미승인)<br>· 전문의 공동 관리</td></tr><tr><td><strong>비-비만형</strong><br>(Lean MASLD)</td><td>BMI 정상, visceral adiposity<br>아시아인에서 흔함<br>근감소증 동반 빈도 높음</td><td>체중보다 대사 위험 교정<br>근감소증 평가 필수</td><td>· 저항운동 + 고단백 식이 병행<br>· 악력 / SARC-F 로 근감소 선별<br>· fibrosis 적극 평가<br>· 단순 칼로리 제한만 금물</td></tr><tr><td><strong>심혈관 위험형</strong></td><td>ASCVD 위험 높음<br>고TG·저HDL·고혈압</td><td>심혈관 사건 예방 우선</td><td>· statin 적극 사용<br>· SGLT-2 억제제<br>· BP·lipid 강력 조절</td></tr><tr><td><strong>근감소형</strong><br>(Sarcopenic MASLD)</td><td>고령, 근육량 감소, frailty<br>악력↓ (남 &#x3C;28 kg, 여 &#x3C;18 kg)<br>SARC-F ≥4점</td><td>근육 보존 중심<br>과도한 칼로리 제한 피함</td><td>· 저항운동(resistance exercise) 우선<br>· 고단백 식이 (1.2∼1.5 g/kg/d)<br>· 악력 / SARC-F 정기 모니터링<br>· 필요 시 재활의학과 협진</td></tr></tbody></table>
+<table><thead><tr><th width="139.63153076171875">주요 Phenotype</th><th width="194">특징</th><th width="172.5263671875">핵심 치료 전략</th><th>우선 고려 약제</th></tr></thead><tbody><tr><td><strong>비만형</strong></td><td>복부비만·내장지방 증가 중심<br>(BMI 정상이어도 발생 가능)<br>과식·과당, 수면무호흡 동반</td><td>내장지방 감소 중심<br>체중보다 허리둘레·체지방률 목표</td><td>· GLP-1 RA / tirzepatide<br>· 지중해식 식단<br>· ≥10% 체중 감량 목표</td></tr><tr><td><strong>당뇨/인슐린</strong> <br><strong>저항성형</strong></td><td>T2DM, 고인슐린혈증<br>TG↑ HDL↓</td><td>인슐린 저항성 개선<br>심혈관 위험 감소</td><td>· pioglitazone (T2DM 또는 조직학적 MASH 확인 시)<br>· GLP-1 RA<br>· SGLT-2 억제제</td></tr><tr><td><strong>섬유화 진행형</strong><br>(F2~F3)</td><td>FIB-4↑, VCTE stiffness↑<br>PLT 감소<br>(AST/ALT ratio↑ — 참고)</td><td>간 관련 사건 예방<br>섬유화 억제</td><td>· resmetirom (noncirrhotic MASH + F2∼F3, 국내 미승인)<br>· 전문의 공동 관리</td></tr><tr><td><strong>비-비만형</strong><br>(Lean MASLD)</td><td>BMI 정상, visceral adiposity<br>아시아인에서 흔함<br>근감소증 동반 빈도 높음</td><td>체중보다 대사 위험 교정<br>근감소증 평가 필수</td><td>· 저항운동 + 고단백 식이 병행<br>· 악력 / SARC-F 로 근감소 선별<br>· fibrosis 적극 평가<br>· 단순 칼로리 제한만 금물</td></tr><tr><td><strong>심혈관 위험형</strong></td><td>ASCVD 위험 높음<br>고TG·저HDL·고혈압</td><td>심혈관 사건 예방 우선</td><td>· statin 적극 사용<br>· SGLT-2 억제제<br>· BP·lipid 강력 조절</td></tr><tr><td><strong>근감소형</strong><br>(Sarcopenic MASLD)</td><td>고령, 근육량 감소, frailty<br>악력↓ (남 &#x3C;28 kg, 여 &#x3C;18 kg)<br>SARC-F ≥4점</td><td>근육 보존 중심<br>과도한 칼로리 제한 피함</td><td>· 저항운동(resistance exercise) 우선<br>· 고단백 식이 (1.2∼1.5 g/kg/d)<br>· 악력 / SARC-F 정기 모니터링<br>· 필요 시 재활의학과 협진</td></tr></tbody></table>
 
 {% hint style="info" %}
 동일한 MASLD라도 실제 임상 양상은 매우 이질적이다. 우세 phenotype 기반 접근이 실제 예후 개선에 더 중요
