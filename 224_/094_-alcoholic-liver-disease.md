@@ -3,7 +3,8 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 과다한 알코올 섭취에 의해 발생하는 간 손상의 연속된 스펙트럼 : 지방간 → 알코올 간염 → 간섬유화 → 간경변증
-* 명칭 : 과거 'Alcoholic Liver Disease'에서 Alcohol-Associated Liver Disease (ALD)로 개칭; 알코올 사용 장애(AUD)와의 통합 관리를 반영
+* 명칭 : 과거 'Alcoholic Liver Disease'에서 Alcohol-Associated Liver Disease (ALD)로 개칭; 알코올 사용 장애(AUD)와의 통합 관리를 반영\
+  ✽ 알코올 간염의 영문 표기도 'alcoholic hepatitis'에서 **alcohol-associated hepatitis (AH)** 로 통일 권고 (ACG 2024); KCD 코드(K70.1)는 유지
 * 전 세계적으로 진행성 간질환의 가장 흔한 원인이자 간이식의 주요 적응증
 * 유병률(미국) : 성인의 약 1%; 주로 40\~50대(대부분 60세 이전 발병); 전통적으로 남성이 다수이나 최근 여성·젊은 층 비율 증가 추세
 * 하루 ≥50 g(소주 1병, 약 360 ㎖ × 17.5% ABV ≒ 50 g EtOH)의 알코올을 10년 이상 섭취하는 사람의 10\~15%에서 간경변증 발생
@@ -27,6 +28,7 @@
 * 지방간 : 대부분 무증상; 경미한 우상복부 불편감; 금주 시 가역적 회복
 * 알코올 간염 : 급성 발현 - 피로, 식욕 부진, 구역, 미열, 우상복부 통증/팽만, 황달, 체중 감소, 빈맥, 저혈압, 말초 부종; 간혹 무증상
 * 간경변증 : 여성형 유방, 근육 소실, 거미혈관종, 손발바닥 홍반, 복수, 식도 정맥류, 간성 뇌병증, 비장 비대
+* ✽ 중증 알코올 간염은 **acute-on-chronic liver failure (ACLF)** 형태로 발현 가능 — 다장기 부전을 동반하며 단기 사망률이 매우 높아(1개월 20\~50%) 조기 인식과 신속한 중증도 평가가 중요
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -61,7 +63,7 @@
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
-<table><thead><tr><th width="144.21051025390625">검사 항목</th><th width="256.84210205078125">알코올 간염 특징</th><th>비고</th></tr></thead><tbody><tr><td>AST</td><td>↑, 보통 &#x3C;300 IU/L</td><td>알코올에 의한 미토콘드리아 손상</td></tr><tr><td>AST/ALT 비</td><td>≥2 (구기준 ≥1.5는 현재 사용 않음)</td><td>알코올 간염에 특징적</td></tr><tr><td>GGT</td><td>>100 U/㎖ (음주의 민감한 지표; 단, 특이도 낮음)</td><td>비만·약물·담즙정체에서도 상승; 금주 시 2~3주 내 감소</td></tr><tr><td>ALP</td><td>↑ (통상 정상치 3배 미만)</td><td>담즙정체성 표현형에서는 더 뚜렷하게 상승 가능</td></tr><tr><td>총 빌리루빈</td><td>↑ (>3~5 ㎎/㎗; 중증 시 ≥10)</td><td></td></tr><tr><td>Albumin</td><td>↓ (&#x3C;3.0 g/㎗)</td><td>간 합성 기능 저하</td></tr><tr><td>INR</td><td>>1.5 (중증 시 더 연장)</td><td></td></tr><tr><td>WBC</td><td>↑ (>12,000; 중증 시 left shift)</td><td>감염과 감별 필요</td></tr><tr><td>빈혈, 혈소판 감소</td><td>흔함</td><td>엽산↓, 비장 비대</td></tr></tbody></table>
+<table><thead><tr><th width="144.21051025390625">검사 항목</th><th width="256.84210205078125">알코올 간염 특징</th><th>비고</th></tr></thead><tbody><tr><td>AST</td><td>↑, 보통 &#x3C;300 IU/L</td><td>알코올에 의한 미토콘드리아 손상</td></tr><tr><td>AST/ALT 비</td><td>≥1.5~2가 특징적; ≥2이면 특이도 더 높음</td><td>알코올 간염에 시사적 (단독 진단 기준은 아님)</td></tr><tr><td>GGT</td><td>>100 U/L (음주의 민감한 지표; 단, 특이도 낮음)</td><td>비만·약물·담즙정체에서도 상승; 금주 시 2~3주 내 감소</td></tr><tr><td>ALP</td><td>↑ (통상 정상치 3배 미만)</td><td>담즙정체성 표현형에서는 더 뚜렷하게 상승 가능</td></tr><tr><td>총 빌리루빈</td><td>↑ (>3~5 ㎎/㎗; 중증 시 ≥10)</td><td></td></tr><tr><td>Albumin</td><td>↓ (&#x3C;3.0 g/㎗)</td><td>간 합성 기능 저하</td></tr><tr><td>INR</td><td>>1.5 (중증 시 더 연장)</td><td></td></tr><tr><td>WBC</td><td>↑ (>12,000; 중증 시 left shift)</td><td>감염과 감별 필요</td></tr><tr><td>빈혈, 혈소판 감소</td><td>흔함</td><td>엽산↓, 비장 비대</td></tr></tbody></table>
 
 * 타 간질환 감별 : HBsAg, HBcAb, HA Ab(IgM), HCV Ab/RNA, ANA(항핵항체), α-fetoprotein
 * AST가 500 IU/L 이상이면 단순 알코올 간염보다 허혈성 간염·독성 간염·바이러스 간염을 우선 감별할 것
@@ -146,16 +148,16 @@ graph TD
 알코올 간질환은 단일 표현형이 아닌 다양한 phenotype으로 나타난다. 입원 시 우세한 표현형을 파악하면 초기 처치 우선순위를 정하는 데 도움이 된다.
 {% endhint %}
 
-<table><thead><tr><th width="161.73681640625">표현형</th><th width="192.3157958984375">주요 임상 단서</th><th width="172.894775390625">특징적 Lab/소견</th><th>우선 처치 방향</th></tr></thead><tbody><tr><td>염증성 (Inflammatory)</td><td>발열, WBC ↑, 황달, CRP ↑</td><td>bilirubin↑↑, AST/ALT ≥2</td><td>감염 배제 후 steroid 고려</td></tr><tr><td>담즙정체성 (Cholestatic)</td><td>황달 두드러짐, 회복 지연</td><td>direct bilirubin↑↑, ALP/GGT↑</td><td>장기 추적, 담도 질환 감별</td></tr><tr><td>비대상성 간경변증</td><td>복수, 간성 뇌병증, 정맥류 출혈</td><td>albumin↓, INR↑, Na↓</td><td>합병증 치료 + 간이식 평가</td></tr><tr><td>금단 증상 우세</td><td>진전, 불안, 발한, 빈맥</td><td>CIWA-Ar 상승</td><td>benzodiazepine + thiamine 우선</td></tr><tr><td>영양불량/Sarcopenia</td><td>근육 감소, 체중 감소, 쇠약</td><td>albumin↓, zinc↓</td><td>고단백·고칼로리 영양 집중</td></tr><tr><td>감염 동반</td><td>발열, 저혈압, 복통</td><td>procalcitonin↑, lactate↑</td><td>감염 치료 우선, steroid 보류</td></tr><tr><td>간신증후군 (HRS)</td><td>핍뇨, creatinine 상승</td><td>Cr↑, Na↓</td><td>AKI/HRS 교정, albumin·vasoconstrictor</td></tr><tr><td>Steroid 비반응 중증</td><td>Lille >0.45, 다장기 부전</td><td>MELD↑↑</td><td>조기 간이식 또는 완화 치료</td></tr></tbody></table>
+<table><thead><tr><th width="161.73681640625">표현형</th><th width="192.3157958984375">주요 임상 단서</th><th width="172.894775390625">특징적 Lab/소견</th><th>우선 처치 방향</th></tr></thead><tbody><tr><td>염증성 (Inflammatory)</td><td>발열, WBC ↑, 황달, CRP ↑</td><td>bilirubin↑↑, AST/ALT ≥2</td><td>감염 배제 후 steroid 고려</td></tr><tr><td>담즙정체성 (Cholestatic)</td><td>황달 두드러짐, 회복 지연</td><td>direct bilirubin↑↑, ALP/GGT↑</td><td>장기 추적, 담도 질환 감별</td></tr><tr><td>비대상성 간경변증</td><td>복수, 간성 뇌병증, 정맥류 출혈</td><td>albumin↓, INR↑, Na↓</td><td>합병증 치료 + 간이식 평가</td></tr><tr><td>금단 증상 우세</td><td>진전, 불안, 발한, 빈맥</td><td>CIWA-Ar 상승</td><td>benzodiazepine + thiamine 우선</td></tr><tr><td>영양불량/Sarcopenia</td><td>근육 감소, 체중 감소, 쇠약</td><td>albumin↓, zinc↓</td><td>고단백·고칼로리 영양 집중</td></tr><tr><td>감염 동반</td><td>발열, 저혈압, 복통</td><td>procalcitonin↑, lactate↑</td><td>감염 치료 우선, steroid 보류</td></tr><tr><td>간신증후군 (HRS)</td><td>핍뇨, creatinine 상승</td><td>Cr↑, Na↓</td><td>AKI/HRS 교정; albumin + terlipressin (또는 norepinephrine) 투여</td></tr><tr><td>Steroid 비반응 중증</td><td>Lille >0.45, 다장기 부전</td><td>MELD↑↑</td><td>조기 간이식 또는 완화 치료</td></tr></tbody></table>
 
 ### <mark style="color:orange;">기본 치료</mark>
 
 * 금주 및 금단 증상 치료 (필요시 입원 치료) (☞ [음주](../230_/189_-alcohol-use-disorder-aud.md))
 * 입원 기준 : mDF ≥32, MELD ≥20, Glasgow Coma Scale ≤8, 간성 뇌병증, 수분 공급 불가
 * 알코올 사용 장애(AUD) 치료 통합 : 행동 치료(동기 강화 면담) + 약물 치료 병행; 금주 유지가 장기 예후 결정
-  * naltrexone : 1차 선택제; 진행성 간질환에서는 간독성 모니터링(ALT/AST) 병행 권장 - ACG 2024는 간경변증 환자에서도 사용 가능으로 시사하나 신중히 적용
-  * acamprosate : 신장 배설, 간 대사 부담 없음; 중등도 이상 신기능 저하 시 주의
-  * baclofen : 신장 배설로 간 대사에 독립적 - 간경변증 환자의 음주 갈망 조절 대안으로 활용 가능 (국내 허가 외 사용, 처방 전 상의 필요)
+  * naltrexone : 1차 선택제; 간독성 모니터링(ALT/AST) 병행 권장 — compensated cirrhosis에서는 신중 사용 가능하나, decompensated cirrhosis에서는 일반적으로 피하거나 매우 신중히 사용
+  * acamprosate : 신장 배설, 간 대사 부담 없음 — CrCl <30 mL/min 금기; CrCl 30\~50 mL/min에서는 감량 필요
+  * baclofen : 신장 배설로 간 대사에 독립적 — 간경변증 환자의 음주 갈망 조절 대안으로 활용 가능; 일부 RCT에서 안전성 및 금주 유지 효과 보고 (국내 허가 외 사용, 처방 전 상의 필요)
 * 약물 주의
   * NSAIDs : 사용 금기에 준하여 강력 회피 - 신기능 저하·위장관 출혈·HRS 위험 증가
   * acetaminophen : 완전 금주 상태에서 1일 총 2 g 이하로 제한적 사용 가능; 음주 중에는 복용 금지
@@ -188,13 +190,13 @@ graph TD
 
 * prednisolone : 40 ㎎/d po × 4주, 이후 2주간 점진적 감량 <mark style="color:blue;">\[소론도]</mark>
 * methylprednisolone : 32 ㎎/d IV × 4주 (경구 불가 시) <mark style="color:blue;">\[메치론]</mark>
-* 반응 평가 : 7일째 (또는 4일째) Lille score 계산 → Lille >0.45 시 steroid 즉시 중단
+* 반응 평가 : 7일째 (또는 4일째) Lille score 계산 → Lille >0.45 시 지속 이득 가능성이 낮아 **steroid 중단 권고**
   * 비반응 환자는 감염 및 AKI 발생 위험이 특히 높음 - 조기 완화 치료 및 간이식 평가 병행
 
 ### <mark style="color:orange;">N-Acetylcysteine (중증, Steroid 병용)</mark>
 
 * 중증 알코올 간염에서 prednisolone에 병용 투여 시 감염 합병증 감소, 단기 생존율 개선 보고
-* 5일 IV 표준 프로토콜 : Day 1 - 150 ㎎/㎏ over 1시간(부하용량), 이후 50 ㎎/㎏ over 4시간, 100 ㎎/㎏ over 16시간; Day 2\~5 - 100 ㎎/㎏/d (병원 프로토콜 및 신기능에 따라 조정)
+* 5일 IV 투여 (AH 임상연구에서 사용된 modified infusion 방식; 병원 프로토콜 기준으로 시행) : Day 1 - 150 ㎎/㎏ over 1시간(부하용량), 이후 50 ㎎/㎏ over 4시간, 100 ㎎/㎏ over 16시간; Day 2\~5 - 100 ㎎/㎏/d (신기능에 따라 조정)
 * 국내 아세틸시스테인 주사제 가용 <mark style="color:blue;">\[아세탄주]</mark> 등
 
 ### <mark style="color:orange;">Pentoxifylline</mark>
@@ -226,7 +228,8 @@ graph TD
 * 완전 금주 : 모든 병기에서 유일하게 입증된 질환 경과 개선 방법; 지방간은 2\~4주 내 호전
 * 음주 절제 상담 : 동기 강화 면담(Motivational Interviewing), 정신건강의학과·중독의학과 협력
 * 영양 재활 : 고칼로리·고단백 식사; 결핍 영양소(thiamine, 엽산, 아연) 보충
-* 운동 : sarcopenia는 BMI와 무관한 독립적 사망 예측 인자 - 저강도 유산소 + 근력 운동 권장; 심한 간경변증에서는 주치의 지도 아래 시행
+* 운동 : sarcopenia는 BMI와 무관한 독립적 사망 예측 인자 - 저강도 유산소 + 근력 운동 권장; 심한 간경변증에서는 주치의 지도 아래 시행\
+  ✽ **frailty(허약)** 평가도 고려 — handgrip strength 측정, chair stand test 등 간단한 도구로 기능 상태 파악 가능; sarcopenia와 함께 이식 전 평가 및 예후 예측에 활용
 * NSAID·알코올·간독성 약물 회피; acetaminophen은 금주 상태에서 제한 용량 내 사용 가능 (상기 참조)
 * HBV 예방 접종 : 항체 없는 환자에서 시행
 * 정기 추적 검사 : 간경변증(F4) 시 6개월마다 간초음파 + AFP (HCC 감시); 진행성 섬유화(F3) 단계에서도 일부 전문가는 감시 검사 고려; 내시경으로 식도 정맥류 평가
@@ -295,7 +298,7 @@ K70.4 알코올성 간부전
 >
 > ※ [4일째 중간 평가] 빌리루빈이 전혀 감소하지 않거나 오히려 악화된 경우
 >   → 7일을 기다리지 않고 조기 steroid 중단 및 간이식 평가 고려 (ACG 2024)
-> ※ [7일째] Lille score 계산: >0.45 시 steroid 즉시 중단, 간이식 평가 의뢰
+> ※ [7일째] Lille score 계산: >0.45 시 지속 이득 가능성이 낮아 steroid 중단 권고, 간이식 평가 의뢰
 > ※ 투여 중 격일 WBC, CRP, 체온 모니터링 (감염 감시)
 > ※ 혈당 상승 시 조절 병행
 > ```
