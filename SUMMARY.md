@@ -100,7 +100,7 @@
   * [항문열창 Anal Fissure](224_/090_-anal-fissure.md)
   * [B형간염 Hepatitis B Viral Infection](224_/091_b-hepatitis-b-viral-infection.md)
   * [C형간염 Hepatitis C Viral Infection](224_/092_c-hepatitis-c-viral-infection.md)
-  * [비-알코올성 지방간질환 NAFLD](224_/093_-nafld.md)
+  * [대사이상지방간질환 MASLD](224_/093_-nafld.md)
   * [알코올 간질환 Alcoholic Liver Disease](224_/094_-alcoholic-liver-disease.md)
 * [Part 6. 심혈관계 질환](225_/README.md)
   * [고혈압 Hypertension](225_/095_-hypertension.md)
