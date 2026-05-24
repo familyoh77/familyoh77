@@ -495,17 +495,15 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 <table><thead><tr><th width="153.75">약제</th><th>비고</th></tr></thead><tbody><tr><td>Peg-IFN-α-2a<br><mark style="color:blue;">[페가시스 주]</mark></td><td>기존 표준 치료; 48주 투여. 바이러스 반응률 25~40%로 낮고 재발 흔함. 비대상성 간경변증에는 금기</td></tr><tr><td>Bulevirtide<br><mark style="color:blue;">[헵클루덱스]</mark></td><td>NTCP(hepatocyte entry receptor) 차단 기전의 first-in-class 진입억제제 (국내 미허가). 2 ㎎/d SC; 96주 치료에서 바이러스·생화학적 반응률 향상 확인 (MYR301 3상). Peg-IFN-α와 병용 시 반응률 추가 향상</td></tr></tbody></table>
 
 {% hint style="danger" %}
-**Bulevirtide 국내 미허가** (2025년 기준): 해외에서 처방받아 귀국한 환자이거나 임상시험 참여를 원하는 경우, 전문 간질환 센터로 의뢰한다. HBV 단독 항바이러스제(ETV/TDF/TAF)는 HDV 복제를 직접 억제하지 못하므로 **HDV RNA 감소 목적으로는 권장되지 않는다.** 단, HBV DNA 억제를 위해 병용할 수 있다.
+**Bulevirtide 국내 미허가** (2025년 기준): 해외에서 처방받아 귀국한 환자이거나 임상시험 참여를 원하는 경우, 전문 간질환 센터로 의뢰. HBV 단독 항바이러스제(ETV/TDF/TAF)는 HDV 복제를 직접 억제하지 못하므로 HDV RNA 감소 목적으로는 권장되지 않음. 단, HBV DNA 억제를 위해 병용할 수 있음
 {% endhint %}
 
 #### <mark style="color:$primary;">예방</mark>
 
-* **HBV 예방접종이 곧 HDV 예방**; HBsAg 음성화로 HDV 감염 불가
+* HBV 예방접종이 곧 HDV 예방; HBsAg 음성화로 HDV 감염 불가
 * HBsAg(+) 환자에서 기존에 없던 HDV 감염 예방 백신은 현재 없음
 
 ### <mark style="color:orange;">면역억제제 투여 환자의 HBV 재활성화 예방</mark>
-
-**개요**
 
 * 면역억제 치료를 받는 HBsAg(+) 또는 HBcAb(+) 환자에서 HBV 재활성화(HBV reactivation)는 간부전 및 사망까지 초래할 수 있는 중대한 합병증
 * 면역억제제 투여 전 모든 환자에서 HBV 스크리닝 필수 : HBsAg, Anti-HBc (total), HBsAb
@@ -520,68 +518,63 @@ _\*효능 - HBV DNA, LFT, HBeAg/Ab, 정량 HBsAg; 안전성 - Cr, Ca, P, CK, U/A
 ```mermaid
 flowchart TD
     Start([면역억제제 / 항암치료 예정]) --> Screen[HBsAg + Anti-HBc 검사 시행]
-    Screen --> HBsAg{HBsAg 양성?}
-
+    Screen --> HBsAg[HBsAg 양성?]
     HBsAg -- yes --> DNA[HBV DNA 측정]
-    DNA --> ProA[예방적 항바이러스제 시작\nETV / TAF / TDF\n면역억제 시작 7일 전 또는 동시]
+    DNA --> ProA[예방적 항바이러스제 시작<br/>ETV/TAF/TDF<br/>#40;면역억제 시작 7일 전 <br/>또는 동시#41;]
     ProA --> MonA[치료 중 ALT·HBV DNA q3개월]
-    MonA --> EndA[종료 후 최소 6개월 유지\nrituximab 등 B세포 고갈제: 최소 12개월]
-
-    HBsAg -- no --> HBcAb{Anti-HBc 양성?\nResolved HBV}
-    HBcAb -- no --> Safe[HBV 재활성화 예방 불필요\n백신 여부 확인]
-
-    HBcAb -- yes --> Risk{위험도 평가}
-
-    Risk --> High["<b>고위험 (&gt;10%)</b>\nRituximab·HSCT·Anti-CD20\n고용량 화학요법"]
-    Risk --> Mod["<b>중등위험 (1~10%)</b>\nTNF 억제제·JAK 억제제\nSteroid ≥10mg ≥4주"]
-    Risk --> Low["<b>저위험 (&lt;1%)</b>\nMTX·AZA·저용량 스테로이드"]
-
-    High --> ProB[예방적 항바이러스제 권고\nETV / TAF / TDF]
-    Mod --> MonB[예방 또는 면밀한 모니터링\n공유 의사결정]
+    MonA --> EndA[종료 후 최소 6개월 유지<br/>rituximab 등 B세포 고갈제: 최소 12개월]
+    HBsAg -- no --> HBcAb[Anti-HBc 양성?<br/>Resolved HBV]
+    HBcAb -- no --> Safe[HBV 재활성화 예방 불필요<br/>백신 여부 확인]
+    HBcAb -- yes --> Risk[위험도 평가]
+    Risk --> High["<u>고위험 (>10%)</u><br/>Rituximab·HSCT·Anti-CD20<br/>고용량 화학요법"]
+    Risk --> Mod["<u>중등위험 (1~10%)</u><br/>TNF 억제제·JAK 억제제<br/>Steroid ≥10mg ≥4주"]
+    Risk --> Low["<u>저위험 (<1%)</u><br/>MTX·AZA·저용량 스테로이드"]
+    High --> ProB[예방적 항바이러스제 권고<br/>ETV / TAF / TDF]
+    Mod --> MonB[예방 또는 면밀한 모니터링<br/>공유 의사결정]
     Low --> MonC[정기 ALT·HBV DNA 모니터링]
 
-    style Start fill:#e3f2fd,stroke:#1565c0
-    style ProA fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style ProB fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style Safe fill:#f3e5f5,stroke:#6a1b9a
-    style High fill:#fce4ec,stroke:#880e4f
-    style Mod fill:#fff3e0,stroke:#e65100
-    style Low fill:#e8f5e9,stroke:#1b5e20
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class Screen,DNA,MonA lightGreen
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class HBsAg,HBcAb,Risk yellow
+style High fill:#ffcdd2,stroke:#c62828
+style Mod fill:#ffd6e0,stroke:#ff4081
+style Low fill:#fde8f0,stroke:#e91e8c
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class ProB blue
+style Safe fill:#fff,stroke:#333
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class EndA,ProA sky
 ```
 
 <p align="center"><strong>HBV 재활성화 예방 알고리듬</strong></p>
 
 ***
 
-**위험도 분류 및 예방 전략**
+#### <mark style="color:$primary;">위험도 분류 및 예방 전략</mark>
 
-| 위험도                                                                                                               | 해당 약제 / 상황                                                                                                                                                                                                                                                                                                                                                                                           | <p>HBsAg(+)<br>또는 resolved HBV¹⁾</p>                                                                                                            | 예방 기간²⁾                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| <p><mark style="color:$danger;"><strong>고위험</strong></mark><br><mark style="color:$danger;">(≥10%)</mark></p>     | <p><strong>HBsAg(+) 환자:</strong><br>• B세포 고갈제 (rituximab, ofatumumab, alemtuzumab 등 Anti-CD20/CD52)<br>• 조혈모세포이식(HSCT)<br>• 고용량 스테로이드 (prednisone ≥20 mg/d, ≥4주) — 단독 투여 시도 고위험<br>• 강력 TNFα 억제제 (infliximab, adalimumab, certolizumab, golimumab)<br>• 안트라사이클린 계열 (doxorubicin, daunorubicin, epirubicin)<br>• TACE<br>• CAR-T 세포 치료<br><br><strong>Resolved HBV 환자:</strong><br>• B세포 고갈제만 고위험</p> | <p><strong>HBsAg(+)</strong> → 항바이러스제 예방적 투여<br><strong>Resolved HBV</strong> (HBsAg(-)/HBcAb(+)) → 예방적 투여 강력 권고 (B세포 고갈제); 기타 → 위험도에 따라 판단</p> | <p>면역억제 종료 후 <strong>최소 6개월</strong><br>rituximab 포함 B세포 고갈제: 종료 후 <strong>최소 12개월</strong></p> |
-| <p><mark style="color:$warning;"><strong>중등위험</strong></mark><br><mark style="color:$warning;">(1~10%)</mark></p> | <p>• 세포독성 항암화학요법 (안트라사이클린 제외)<br>• 중등도 스테로이드 (prednisone 10–20 mg/d, ≥4주)<br>• 약한 TNFα 억제제 (etanercept)<br>• IL-6 억제제, JAK 억제제 (tofacitinib, baricitinib), abatacept, ustekinumab<br>• 면역관문억제제 ICI (pembrolizumab, nivolumab 등) — HBsAg(+)에서 중등위험<br>• 칼시뉴린 억제제 (cyclosporine), mTOR 억제제<br>• TKI (imatinib, nilotinib, ibrutinib 등), 프로테아좀 억제제</p>                                                  | <p><strong>HBsAg(+)</strong> → 예방적 투여 권고<br><strong>Resolved HBV</strong> → 예방 또는 면밀한 모니터링 (공유 의사결정)</p>                                        | 면역억제 종료 후 **최소 6개월**                                                                            |
-| <p><mark style="color:$info;"><strong>저위험</strong></mark><br><mark style="color:$info;">(&#x3C;1%)</mark></p>     | <p>• 저용량 스테로이드 (prednisone &#x3C;10 mg/d)<br>• MTX, azathioprine, hydroxychloroquine, mycophenolate, leflunomide<br>• 관절강 내 스테로이드 주사<br>• ICI — Resolved HBV에서 저위험</p>                                                                                                                                                                                                                               | <p><strong>HBsAg(+)</strong> → 개별 판단; 모니터링<br><strong>Resolved HBV</strong> → 통상적 모니터링</p>                                                      | —                                                                                               |
+<table data-header-hidden><thead><tr><th width="98.25"></th><th width="346"></th><th width="159.75"></th><th></th></tr></thead><tbody><tr><td>위험도</td><td>해당 약제 / 상황</td><td>HBsAg(+)<br>또는 resolved HBV¹⁾</td><td>예방 기간²⁾</td></tr><tr><td><mark style="color:$danger;"><strong>고위험</strong></mark><br><mark style="color:$danger;">(≥10%)</mark></td><td><strong>HBsAg(+) 환자:</strong><br>• B세포 고갈제 (rituximab, ofatumumab, alemtuzumab 등 Anti-CD20/CD52)<br>• 조혈모세포이식(HSCT)<br>• 고용량 스테로이드 (prednisone ≥20 ㎎/d, ≥4주) — 단독 투여 시도 고위험<br>• 강력 TNFα 억제제 (infliximab, adalimumab, certolizumab, golimumab)<br>• 안트라사이클린 계열 (doxorubicin, daunorubicin, epirubicin)<br>• TACE<br>• CAR-T 세포 치료<br><strong>Resolved HBV 환자:</strong><br>• B세포 고갈제만 고위험</td><td><strong>HBsAg(+)</strong> → 항바이러스제 예방적 투여<br><strong>Resolved HBV</strong> (HBsAg(-)/HBcAb(+)) → 예방적 투여 강력 권고 (B세포 고갈제); 기타 → 위험도에 따라 판단</td><td>면역억제 종료 후 <strong>최소 6개월</strong><br>rituximab 포함 B세포 고갈제: 종료 후 <strong>최소 12개월</strong></td></tr><tr><td><mark style="color:$warning;"><strong>중등위험</strong></mark><br><mark style="color:$warning;">(1~10%)</mark></td><td>• 세포독성 항암화학요법 (안트라사이클린 제외)<br>• 중등도 스테로이드 (prednisone 10–20 ㎎/d, ≥4주)<br>• 약한 TNFα 억제제 (etanercept)<br>• IL-6 억제제, JAK 억제제 (tofacitinib, baricitinib), abatacept, ustekinumab<br>• 면역관문억제제 ICI (pembrolizumab, nivolumab 등) — HBsAg(+)에서 중등위험<br>• 칼시뉴린 억제제 (cyclosporine), mTOR 억제제<br>• TKI (imatinib, nilotinib, ibrutinib 등), 프로테아좀 억제제</td><td><strong>HBsAg(+)</strong> → 예방적 투여 권고<br><strong>Resolved HBV</strong> → 예방 또는 면밀한 모니터링 (공유 의사결정)</td><td>면역억제 종료 후 <strong>최소 6개월</strong></td></tr><tr><td><mark style="color:$info;"><strong>저위험</strong></mark><br><mark style="color:$info;">(&#x3C;1%)</mark></td><td>• 저용량 스테로이드 (prednisone &#x3C;10 ㎎/d)<br>• MTX, azathioprine, hydroxychloroquine, mycophenolate, leflunomide<br>• 관절강 내 스테로이드 주사<br>• ICI — Resolved HBV에서 저위험</td><td><strong>HBsAg(+)</strong> → 개별 판단; 모니터링<br><strong>Resolved HBV</strong> → 통상적 모니터링</td><td>—</td></tr></tbody></table>
 
 _¹⁾ Resolved HBV = HBsAg(-) / Anti-HBc(+) / HBsAb(±); cccDNA가 간세포에 잠복하여 재활성화 가능_\
 &#xNAN;_&#xB2;⁾ 치료 기간 중 및 종료 후 예방 기간; 개별 약제 및 환자 상태에 따라 조정_\
 &#xNAN;_&#x52;ef. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Table 9._
 
-**예방적 항바이러스제 선택**
+#### <mark style="color:$primary;">예방적 항바이러스제 선택</mark>
 
-* **선호** : ETV <mark style="color:blue;">\[바라크루드]</mark> 0.5 mg qd, TDF <mark style="color:blue;">\[비리어드]</mark> 300 mg qd, 또는 TAF <mark style="color:blue;">\[베믈리디]</mark> 25 mg qd
-* LAM(라미부딘)은 내성 위험 높아 **비권고**; 불가피한 경우에만 단기 사용
-* 면역억제 시작과 동시 또는 **시작 7일 전**부터 항바이러스제 예방 투여 시작 (KASL 2022)
+* 선호 : ETV <mark style="color:blue;">\[바라크루드]</mark> 0.5 ㎎ qd, TDF <mark style="color:blue;">\[비리어드]</mark> 300 ㎎ qd, 또는 TAF <mark style="color:blue;">\[베믈리디]</mark> 25 ㎎ qd
+* LAM(라미부딘)은 내성 위험 높아 비권고; 불가피한 경우에만 단기 사용
+* 면역억제 시작과 동시 또는 시작 7일 전부터 항바이러스제 예방 투여 시작 (KASL 2022)
 
-**모니터링**
+#### <mark style="color:$primary;">모니터링</mark>
 
 * 항바이러스 예방 투여 중 : ALT, HBV DNA를 3개월마다
-* 예방 종료 후 : ALT, HBV DNA를 3\~6개월마다 **최소 12개월간** 관찰; reactivation 의심 시 즉시 HBV DNA 검사 (KASL 2022)
+* 예방 종료 후 : ALT, HBV DNA를 3\~6개월마다 최소 12개월간 관찰; reactivation 의심 시 즉시 HBV DNA 검사 (KASL 2022)
 
 {% hint style="danger" %}
-⚠️ **임상 실천 요점**: 류마티스 내과, 혈액종양내과, 종양내과 등에서 rituximab, 생물학적 제제, 고용량 스테로이드를 처방하기 전에 반드시 HBV 스크리닝을 시행한다. \*\*HBcAb(+) 환자(resolved HBV)\*\*도 고위험 면역억제제 투여 시 재활성화 위험이 있으므로 예방 또는 면밀한 추적이 필요하다.\
-단, anti-HBc(+)이면서 **anti-HBs 역가 >100 IU/mL**인 경우에는 rituximab 투여 시에도 HBV DNA를 면밀히 관찰하며 재활성화 발생 시 즉각 치료를 시작하는 전략을 고려할 수 있다 (KASL 2022). 1차의료에서는 위험 약제 처방 전 검사 확인 및 전문과 협진을 권고한다.
+**임상 실천 요점**: 류마티스 내과, 혈액종양내과, 종양내과 등에서 rituximab, 생물학적 제제, 고용량 스테로이드를 처방하기 전에 반드시 HBV 스크리닝을 시행. HBcAb(+) 환자(resolved HBV)도 고위험 면역억제제 투여 시 재활성화 위험이 있으므로 예방 또는 면밀한 추적이 필요.\
+단, anti-HBc(+)이면서 anti-HBs 역가 >100 IU/㎖인 경우에는 rituximab 투여 시에도 HBV DNA를 면밀히 관찰하며 재활성화 발생 시 즉각 치료를 시작하는 전략을 고려할 수 있음 (KASL 2022). 1차의료에서는 위험 약제 처방 전 검사 확인 및 전문과 협진을 권고
 {% endhint %}
-
-***
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -593,10 +586,10 @@ _¹⁾ Resolved HBV = HBsAg(-) / Anti-HBc(+) / HBsAb(±); cccDNA가 간세포에
 
 ### <mark style="color:orange;">생활 지도</mark>
 
-* 만성 HBV 감염자 : **금주, 금연** (간경변·간암 진행 위험 인자)
-* B형간염 감염자는 신체 접촉이 있는 스포츠를 포함하여 **모든 활동 참여 가능**
+* 만성 HBV 감염자 : 금주, 금연 (간경변·간암 진행 위험 인자)
+* B형간염 감염자는 신체 접촉이 있는 스포츠를 포함하여 모든 활동 참여 가능
 * 직장, 학교, 보육 시설에서 배제되어서는 안 됨
-* 음식·도구 공동 사용 가능, 키스 가능 (단, 칫솔·면도기·주사기·혈당 검사 기구 **공동 사용 금지**)
+* 음식·도구 공동 사용 가능, 키스 가능 (단, 칫솔·면도기·주사기·혈당 검사 기구 공동 사용 금지)
 * 백신 미접종 또는 자연 면역 없는 사람과의 성 접촉 시 보호 장구 사용
 * 수혈·장기·정자 기증 금지
 * 혈액이 묻은 곳은 표백제로 닦기
