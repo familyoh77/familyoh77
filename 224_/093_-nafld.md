@@ -2,45 +2,43 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-{% hint style="info" %}
-**용어 변경** : 2023년 국제 다학회 델파이 합의에 따라 NAFLD → MASLD, NASH → MASH로 명칭이 변경됨. 대한간학회도 2025년 대사이상지방간질환(MASLD) 진료 가이드라인을 발표
-{% endhint %}
-
-* **MASLD** (Metabolic dysfunction-Associated Steatotic Liver Disease, 대사이상지방간질환) : 간 내 지방증(steatosis)이 존재하면서 아래 대사이상 위험 인자 중 1개 이상을 충족하고, 유의한 음주·약인성·바이러스 간염 등 이차 원인이 배제된 상태; 구(舊) NAFLD에 해당
-* 기존 NAFLD는 음주 여부에 따른 배제 진단이었으나, MASLD는 대사 이상을 기반으로 한 양성(positive) 진단 기준으로 전환됨
-* 만성 간질환의 가장 흔한 원인이며 심혈관 질환·당뇨병·대사증후군·만성 콩팥병·악성 종양의 독립적 위험 인자
+* MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease, 대사이상지방간질환) : 간 내 지방 침착(steatosis)이 있으면서 대사이상 위험 인자-과체중/비만, 당 대사 이상, 고혈압, 고중성지방혈증, 저HDL 혈증 (☞ [진단](093_-nafld.md#masld))- 중 1개 이상이 있고, 유의한 2차 원인-음주, 약물, 바이러스 간염 등-이 배제된 상태; 기존 NAFLD에 해당
+  * 용어 변경 : 2023년 국제 다학회 델파이 합의에 따라 NAFLD → MASLD, NASH → MASH로 명칭이 변경됨. 대한간학회도 2025년 대사이상지방간질환(MASLD) 진료 가이드라인을 발표
+* 기존 NAFLD는 음주 여부에 따른 배제 진단이었으나, MASLD는 대사 이상을 기반으로 한 양성(positive) 기준을 적용하는 진단으로 전환됨
+* 만성 간질환의 가장 흔한 원인이며 심혈관 질환·당뇨병·대사증후군·만성 콩팥병·악성 종양의 독립적 위험 인자임
 * 유병률 \[우리나라] : 33%(21∼44%); non-obesity 인구 중 19%(12∼27%); 연간 45명/1000명 발생
 
 #### <mark style="color:$primary;">관련 용어 및 새로운 분류 체계</mark>
 
-<table><thead><tr><th width="100.52630615234375">명칭</th><th width="120">구 명칭</th><th>정의</th></tr></thead><tbody><tr><td><strong>SLD</strong></td><td>지방간질환</td><td>원인 불문 간 지방증을 포괄하는 상위 개념</td></tr><tr><td><strong>MASLD</strong></td><td>NAFLD</td><td>간 지방증 + 대사이상 위험 인자 ≥1개; 음주 없거나 경미한 경우</td></tr><tr><td><strong>MASH</strong></td><td>NASH</td><td>MASLD의 진행형; 간세포 손상·염증·섬유화 동반</td></tr><tr><td><strong>Met-ALD</strong></td><td>(신규)</td><td>MASLD 기준 충족 + 중등도 음주 (남 140∼350 g/주, 여 70∼140 g/주)</td></tr><tr><td><strong>ALD</strong></td><td>알코올간질환</td><td>유의한 음주가 주원인; 대사이상 기준 미충족 가능</td></tr></tbody></table>
+<table><thead><tr><th width="100.52630615234375">명칭</th><th width="120">이전 명칭</th><th>정의</th></tr></thead><tbody><tr><td><strong>SLD</strong></td><td>지방간질환</td><td>원인 불문 간 지방증을 포괄하는 상위 개념</td></tr><tr><td><strong>MASLD</strong></td><td>NAFLD</td><td>간 지방증 + 대사이상 위험 인자 ≥1개; 음주는 하지 않거나 경미</td></tr><tr><td><strong>MASH</strong></td><td>NASH</td><td>MASLD의 진행형; 간세포 손상·염증·섬유화 동반</td></tr><tr><td><strong>Met-ALD</strong></td><td>(신규)</td><td>MASLD 기준 충족 + 중등도 음주 (남 140∼350 g/주, 여 70∼140 g/주) (☞ <a href="../230_/189_-alcohol-use-disorder-aud.md">음주</a>)</td></tr><tr><td><strong>ALD</strong></td><td><a href="094_-alcoholic-liver-disease.md">알코올간질환</a></td><td>유의한 음주가 주원인; 대사이상 기준 미충족 가능</td></tr></tbody></table>
 
-SLD=Steatotic Liver Disease\
-MASLD=Metabolic dysfunction-Associated Steatotic Liver Disease\
-MASH=Metabolic dysfunction-associated steatohepatitis\
-Met-ALD=Metabolic dysfunction-associated and alcohol-related liver disease\
-NAFLD=Nonalcoholic Fatty Liver Disease\
-NASH=Metabolic dysfunction-Associated Steatohepatitis
+　SLD=Steatotic Liver Disease\
+　MASLD=Metabolic dysfunction-Associated Steatotic Liver Disease\
+　MASH=Metabolic dysfunction-associated steatohepatitis\
+　Met-ALD=Metabolic dysfunction-associated and alcohol-related liver disease\
+　NAFLD=Nonalcoholic Fatty Liver Disease\
+　NASH=Metabolic dysfunction-Associated Steatohepatitis
 
 #### <mark style="color:$primary;">자연 경과</mark>
 
-* 단순 지방증(MASL, Metabolic dysfunction-Associated Steatotic Liver)의 대부분은 가역적이며 양호한 경과
-* MASH에서 간섬유화가 빠르게 진행 (약 ⅓이 5년 내 간섬유화 진행)
-* 일부에서 간경변증 → 간세포암종(HCC) 등 말기 간질환으로 진행
-* 사망률 증가 : 심혈관 질환(가장 흔한 사망 원인), 간질환 관련 사망, 비간성 악성 종양(대장암 등)
+1. **단순 지방간 (non-MASH MASLD)** : 대부분 가역적, 생활습관 개선으로 호전 가능, 일부에서 2. 로 진행 (비만·T2DM·고령 등 위험 인자 동반 시)
+2. **MASH (대사이상지방간염)** : 약 ⅓에서 5년 내 간섬유화 1단계 이상 진행, 적극적 치료 시 역행(regression) 가능, 일부에서 3. 으로 진행
+3. **간경변증 (F4)** : 문맥 고혈압 합병증 (정맥류 출혈·복수·간성뇌증), 간세포암종(HCC) 발생 위험; 6개월마다 감시, 간이식 평가 고려
+
+* **사망 원인** : 심혈관 질환(1위) > 간질환 > 비간성 악성 종양(대장암 등); MASLD는 간 질환인 동시에 전신 심대사 질환으로 관리해야 함
 
 {% hint style="warning" %}
-**MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니라 간섬유화 정도(fibrosis stage)임.** ALT가 정상이어도 진행성 섬유화가 존재할 수 있으며, 치료 결정은 ALT보다 fibrosis risk 중심으로 이루어져야 함
+**MASLD의 장기 예후를 가장 잘 예측하는 인자는** ALT 수치가 아니라 간섬유화 정도(fibrosis stage)임. ALT가 정상이어도 진행성 섬유화가 존재할 수 있으며, 치료 결정은 ALT보다 fibrosis risk 중심으로 이루어져야 함
 {% endhint %}
 
 #### <mark style="color:$primary;">Lean MASLD (비-비만형 MASLD)</mark>
 
-* BMI 정상임에도 내장지방(visceral adiposity) 증가와 인슐린 저항성을 기반으로 발생하는 MASLD
-* 아시아인에서 특히 흔함 - 국내 non-obesity 인구 중 유병률 약 19%
+* BMI가 정상임에도 내장지방 증가와 인슐린 저항성을 기반으로 발생한 MASLD
+* 아시아인에서 특히 흔함; 국내 non-obesity 인구 중 유병률 약 19%
 * 체중이 정상이므로 대사 위험이 낮아 보여 간과되기 쉬우나, 섬유화 진행 가능
-* 허리둘레·체지방률·당 대사 이상 평가가 중요; 비만 지표보다 대사 위험 지표 중심으로 평가
+* 허리둘레·체지방률·당 대사 이상 평가가 중요; 비만 지표보다 '대사 위험 지표' 중심으로 평가
 * 근감소증(sarcopenia) 동반 빈도 높음 - 특히 아시아 고령 환자에서; lean MASLD + sarcopenia 동반 시 예후 더 불량
-  * 일차진료에서 손쉬운 근감소증 선별 : 악력(handgrip strength) 측정(남 <28 kg, 여 <18 kg 이하 시 의심) 또는 SARC-F 설문 (5문항, ≥4점 시 근감소 가능성)
+  * 근감소증 선별법 : 악력(handgrip strength) 측정(남 <28 ㎏, 여 <18 ㎏ 이하 시 의심) 또는 SARC-F 설문 (5문항, ≥4점 시 근감소 가능성) (☞ 고령 환자 진료)
 * 체중 감량 시 근육량 감소가 동반되지 않도록 고단백 식단(1.2∼1.5 g/kg/d)과 저항운동(근력 운동)을 반드시 병행; 단순 칼로리 제한만으로는 예후 악화 가능
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -93,7 +91,7 @@ NASH=Metabolic dysfunction-Associated Steatohepatitis
   2. 당 대사 이상 : 공복혈당 ≥100 ㎎/㎗, 또는 T2DM, 또는 HbA1c ≥5.7%
   3. 고혈압 : BP ≥130/85 ㎜Hg 또는 항고혈압제 복용 중
   4. 고중성지방혈증 : TG ≥150 ㎎/㎗ 또는 지질 강하제 복용 중
-  5. 저H㎗혈증 : H㎗-C <40 ㎎/㎗ (남) / <50 ㎎/㎗ (여), 또는 지질 강하제 복용 중
+  5. 저HDL 혈증 : HDL-C <40 ㎎/㎗ (남) / <50 ㎎/㎗ (여), 또는 지질 강하제 복용 중
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
@@ -148,7 +146,7 @@ NASH=Metabolic dysfunction-Associated Steatohepatitis
 
 * 복부 초음파 (1차 선택) : 지방증 선별에 적합; 섬유화 정도 평가 한계
 * CT : 지방증 정량화 가능; 방사선 노출 제한
-* MRI/MR spectroscopy : 지방증 정량화 가장 정확; MRI-PDFF ≥6.4% 시 지방증 진단&#x20;
+* MRI/MR spectroscopy : 지방증 정량화 가장 정확; MRI-PDFF ≥6.4% 시 지방간 진단
 * MRE (MR elastography) : 간 경직도 정량화; 비만 환자에서도 VCTE보다 정확도 우수; 비용·접근성 제한
 * FibroScan® (VCTE) : 간 섬유화·경직도 측정의 1차 도구; BMI 높은 경우 XL probe 사용
 
@@ -295,7 +293,7 @@ flowchart TD
 
 MASLD는 다양한 대사 표현형(phenotype)이 겹쳐진 질환군이므로, "지방간 자체"보다 **우세 phenotype**을 기준으로 치료 접근하는 것이 효과적이다.
 
-<table><thead><tr><th width="175">주요 Phenotype</th><th width="210">특징</th><th width="240">핵심 치료 전략</th><th>우선 고려 약제</th></tr></thead><tbody><tr><td><strong>비만형</strong><br>(Obesity-dominant)</td><td>복부비만, 과식·과당, 수면무호흡 동반</td><td>체중 감량 중심<br>visceral fat 감소</td><td>· GLP-1 RA / tirzepatide<br>· 지중해식 식단<br>· ≥10% 체중 감량 목표</td></tr><tr><td><strong>당뇨/인슐린 저항성형</strong></td><td>T2DM, 고인슐린혈증<br>TG↑ HDL↓</td><td>인슐린 저항성 개선<br>심혈관 위험 감소</td><td>· pioglitazone<br>· GLP-1 RA<br>· SGLT-2 억제제</td></tr><tr><td><strong>섬유화 진행형</strong><br>(F2–F3)</td><td>PLT 감소, AST/ALT ratio↑</td><td>간 관련 사건 예방<br>섬유화 억제</td><td>· resmetirom (국내 미승인)<br>· 전문의 공동 관리</td></tr><tr><td><strong>비비만형</strong><br>(Lean MASLD)</td><td>BMI 정상, visceral adiposity<br>아시아인에서 흔함<br>근감소증 동반 빈도 높음</td><td>체중보다 대사 위험 교정<br>근감소증 평가 필수</td><td>· 저항운동 + 고단백 식이 병행<br>· 악력 / SARC-F 로 근감소 선별<br>· fibrosis 적극 평가<br>· 단순 칼로리 제한만 금물</td></tr><tr><td><strong>심혈관 위험형</strong></td><td>ASCVD 위험 높음<br>고TG·저HDL·고혈압</td><td>심혈관 사건 예방 우선</td><td>· statin 적극 사용<br>· SGLT-2 억제제<br>· BP·lipid 강력 조절</td></tr><tr><td><strong>근감소형</strong><br>(Sarcopenic MASLD)</td><td>고령, 근육량 감소, frailty<br>악력↓ (남 &#x3C;28 kg, 여 &#x3C;18 kg)<br>SARC-F ≥4점</td><td>근육 보존 중심<br>과도한 칼로리 제한 피함</td><td>· 저항운동(resistance exercise) 우선<br>· 고단백 식이 (1.2∼1.5 g/kg/d)<br>· 악력 / SARC-F 정기 모니터링<br>· 필요 시 재활의학과 협진</td></tr></tbody></table>
+<table><thead><tr><th width="175">주요 Phenotype</th><th width="210">특징</th><th width="144.2105712890625">핵심 치료 전략</th><th>우선 고려 약제</th></tr></thead><tbody><tr><td><strong>비만형</strong><br>(Obesity-dominant)</td><td>복부비만, 과식·과당, 수면무호흡 동반</td><td>체중 감량 중심<br>visceral fat 감소</td><td>· GLP-1 RA / tirzepatide<br>· 지중해식 식단<br>· ≥10% 체중 감량 목표</td></tr><tr><td><strong>당뇨/인슐린 저항성형</strong></td><td>T2DM, 고인슐린혈증<br>TG↑ HDL↓</td><td>인슐린 저항성 개선<br>심혈관 위험 감소</td><td>· pioglitazone<br>· GLP-1 RA<br>· SGLT-2 억제제</td></tr><tr><td><strong>섬유화 진행형</strong><br>(F2–F3)</td><td>PLT 감소, AST/ALT ratio↑</td><td>간 관련 사건 예방<br>섬유화 억제</td><td>· resmetirom (국내 미승인)<br>· 전문의 공동 관리</td></tr><tr><td><strong>비비만형</strong><br>(Lean MASLD)</td><td>BMI 정상, visceral adiposity<br>아시아인에서 흔함<br>근감소증 동반 빈도 높음</td><td>체중보다 대사 위험 교정<br>근감소증 평가 필수</td><td>· 저항운동 + 고단백 식이 병행<br>· 악력 / SARC-F 로 근감소 선별<br>· fibrosis 적극 평가<br>· 단순 칼로리 제한만 금물</td></tr><tr><td><strong>심혈관 위험형</strong></td><td>ASCVD 위험 높음<br>고TG·저HDL·고혈압</td><td>심혈관 사건 예방 우선</td><td>· statin 적극 사용<br>· SGLT-2 억제제<br>· BP·lipid 강력 조절</td></tr><tr><td><strong>근감소형</strong><br>(Sarcopenic MASLD)</td><td>고령, 근육량 감소, frailty<br>악력↓ (남 &#x3C;28 kg, 여 &#x3C;18 kg)<br>SARC-F ≥4점</td><td>근육 보존 중심<br>과도한 칼로리 제한 피함</td><td>· 저항운동(resistance exercise) 우선<br>· 고단백 식이 (1.2∼1.5 g/kg/d)<br>· 악력 / SARC-F 정기 모니터링<br>· 필요 시 재활의학과 협진</td></tr></tbody></table>
 
 {% hint style="info" %}
 동일한 MASLD라도 실제 임상 양상은 매우 이질적이다. **우세 phenotype 기반 접근**이 실제 예후 개선에 더 중요하다.
@@ -311,7 +309,7 @@ MASLD는 다양한 대사 표현형(phenotype)이 겹쳐진 질환군이므로, 
 &#xNAN;**⚠️ 국내(식약처) 미승인** (2025년 기준); 국내 임상 도입 추이 지속 주시 필요.
 {% endhint %}
 
-* **작용 기전** : 간 선택적 THR-β 활성화 → 간 내 지질 산화 촉진, 지방 합성 억제 → 간 지방증·섬유화 개선
+* **작용 기전** : 간 선택적 THR-β 활성화 → 간 내 지질 산화 촉진, 지방 합성 억제 → 지방간·섬유화 개선
 * **MAESTRO-NASH 3상 (NEJM 2024;390:497)** :
   * MASH resolution without worsening fibrosis : 위약 10% vs 80 mg 26%, 100 mg 30%
   * 섬유화 1단계 이상 개선 (MASH 악화 없이) : 위약 14% vs 80 mg 24%, 100 mg 26%
