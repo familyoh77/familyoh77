@@ -197,44 +197,40 @@ _Ref. Non-alcoholic fatty liver disease. BMJ 2014;349._
 
 ```mermaid
 flowchart TD
-    A([MASLD 의심 환자<br/>일차진료]) --> B["<b>1차 위험 평가</b><br/>FIB-4 계산"]
-
-    B --> C{"FIB-4 ≥1.3?<br/>(65세 이상: ≥2.0)"}
+    A([MASLD 의심 환자<br/>일차진료]) --> B["<u>1차 위험 평가</u><br/>FIB-4 계산"]
+    B --> C["FIB-4 ≥1.3?<br/>(65세 이상: ≥2.0)"]
     C -->|No| D["저위험 - 일차진료 추적"]
-    D --> D2["·T2DM/pre-T2DM 또는 대사위험 ≥2개<br/>→ 1~2년마다 FIB-4<br/>·대사위험 &lt;2개, 비당뇨<br/>→ 2~3년마다 FIB-4"]
-
-    C -->|Yes| E{"FIB-4 >2.67?"}
+    D --> D2["·T2DM/pre-T2DM 또는 <br/>대사 위험 ≥2개<br/>→ 1~2년마다 FIB-4<br/>·대사위험 &lt;2개, 비당뇨<br/>→ 2~3년마다 FIB-4"]
+    C -->|Yes| E["FIB-4 >2.67?"]
     C -->|"ALT·AST<br/>지속 상승"| G
-
-    E -->|Yes| G["🏥 GI/간 전문의 의뢰"]
-    E -->|No| F["<b>2차 위험 평가</b><br/>VCTE (FibroScan®) 또는 ELF"]
-
-    F --> H{"위험도 분류"}
+    E -->|Yes| G["GI/간 전문의 의뢰"]
+    E -->|No| F["<u>2차 위험 평가</u><br/>VCTE (FibroScan®) 또는 ELF"]
+    F --> H["위험도 분류"]
     H -->|"저위험<br/>VCTE &lt;8 kPa<br/>ELF &lt;7.7"| I["일차진료 F/U"]
     H -->|"중위험<br/>VCTE 8~12 kPa<br/>ELF 7.7~9.8"| J["일차진료 F/U<br/>또는 재평가"]
     H -->|"고위험<br/>VCTE >12 kPa<br/>ELF >9.8"| G
-
-    G --> K["GI/Hepatology Care<br/>1차/2차 평가 재검토<br/>추가 계층 분류 고려 (MRE, cT1)"]
-    K --> L{"재분류"}
+    G --> K["GI/Hepatology Care<br/>1차/2차 평가 재검토<br/>추가 계층 분류 고려<br/> (MRE, cT1)"]
+    K --> L["재분류"]
     L -->|저위험| M["PCP F/U 또는 재평가"]
     L -->|"중/고위험"| N["간 생검 고려<br/>(간헐적 NITs, 진단 불확실,<br/>ALT·AST 지속 상승)"]
     L -->|"간경화 의심<br/>(임상·영상·ELF >11.3)"| O["간경화 의심 처치"]
-
-    N --> P{"조직 병기"}
+    N --> P["조직 병기"]
     P -->|"Stage 0~1"| Q["2~3년 후 재평가"]
     P -->|"Stage 2~3"| R["매년 재평가<br/>약물 치료 고려"]
     P -->|"Stage 4"| S["간경화 치료"]
 
-    style A fill:#e3f2fd,stroke:#1565c0
-    style G fill:#fff3e0,stroke:#e65100
-    style K fill:#fff3e0,stroke:#e65100
-    style O fill:#ffebee,stroke:#c62828
-    style S fill:#ffebee,stroke:#c62828
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class C,E,H,L,P yellow
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class B,F lightGreen
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class D2,I,J,M,Q,R blue
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class S,O sky
 ```
 
 <p align="center"><strong>지방간질환 의심 환자 위험 평가 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. AASLD Practice Guidance on the Clinical Assessment and Management of NAFLD, 2023; 대한간학회 MASLD 진료 가이드라인, 2025.</mark></em></p>
 
 ***
 
