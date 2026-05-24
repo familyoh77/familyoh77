@@ -162,7 +162,7 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 우리나라 대부
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-<table><thead><tr><th width="130">대상</th><th>권고 치료</th></tr></thead><tbody><tr><td>만성 B형간염</td><td>내성 장벽이 높은 경구 항바이러스제 단독요법 또는 Peg-IFN-α 단독 치료</td></tr><tr><td>대상성 <br>간경변증</td><td>내성 장벽이 높은 경구 항바이러스제 단독요법; 간 기능이 좋은 경우 Peg-IFN-α-2 고려 가능 (간 기능 악화·부작용에 주의)</td></tr><tr><td>비대상성 <br>간경변증</td><td>내성 장벽이 높은 경구 항바이러스제 단독요법; Peg-IFN-α-2는 간부전 위험으로 금기</td></tr></tbody></table>
+<table><thead><tr><th width="130">대상</th><th>권고 치료</th></tr></thead><tbody><tr><td>만성 B형간염</td><td>내성 장벽이 높은 경구 항바이러스제 단독요법 또는 Peg-IFN-α 단독 치료</td></tr><tr><td>대상성<br>간경변증</td><td>내성 장벽이 높은 경구 항바이러스제 단독요법; 간 기능이 좋은 경우 Peg-IFN-α-2 고려 가능 (간 기능 악화·부작용에 주의)</td></tr><tr><td>비대상성<br>간경변증</td><td>내성 장벽이 높은 경구 항바이러스제 단독요법; Peg-IFN-α-2는 간부전 위험으로 금기</td></tr></tbody></table>
 
 ### <mark style="color:orange;">항바이러스제 치료 대상 (대한간학회 2022)</mark>
 
@@ -212,20 +212,22 @@ AASLD는 남성 ＞35 U/L, 여성 ＞25 U/L을 제시하며, 우리나라 대부
 
 ### <mark style="color:orange;">항바이러스제</mark>
 
-**주사제**
+#### <mark style="color:$primary;">주사제</mark>
 
 * Peg-IFN-α-2a <mark style="color:blue;">\[페가시스 주]</mark> : 180 ㎍ qwk SC
   * 부작용 : 감기 증상, 피로, 감정 변동, 혈구 감소, 자가면역 이상
   * 절대 금기 : 비대상성 간경변증, 자가면역 간염, 심한 정신질환 병력(우울증·자살 충동 등), 조절 안 되는 자가면역질환, 혈소판 ＜50,000/㎕, 호중구 ＜1,000/㎕, 임신
   * 치료 중 모니터링 : ☞ 항바이러스제 치료 중 모니터링 섹션 참조
 
-**경구제 - High genetic barrier (선호)**
+#### <mark style="color:$primary;">경구제</mark>
+
+**High genetic barrier (선호)**
 
 * 투여 기간 : HBsAg 소실까지
 
 <table><thead><tr><th width="120">성분명</th><th width="110">용량¹⁾</th><th width="154">부작용</th><th>치료 중 모니터링</th></tr></thead><tbody><tr><td>Entecavir (ETV)<br><mark style="color:blue;">[바라크루드]</mark></td><td>0.5 ㎎ qd²⁾</td><td>젖산증</td><td>필요 시 젖산 검사; HIV 검사³⁾</td></tr><tr><td>Tenofovir DF (TDF)<br><mark style="color:blue;">[비리어드]</mark></td><td>300 ㎎ qd</td><td>신장애, Fanconi syndrome, 골연화증, 젖산증</td><td>CrCl 기저 검사; 신장애 위험 시 매년 최소 CrCl · P · u-Glc&#x26;Prot; 필요 시 젖산; 골절 병력/골다공증 위험 시 골밀도 검사</td></tr><tr><td>Tenofovir AF (TAF)<br><mark style="color:blue;">[베믈리디]</mark></td><td>25 ㎎ qd</td><td>젖산증; 체중 증가·LDL 상승 보고 (TG 상승은 일관되지 않음)</td><td>치료 전/중 Cr · P · CrCl · u-Glc&#x26;Prot 필요 시; 필요 시 젖산; HIV 검사³⁾; 체중·지질 추적</td></tr><tr><td>Besifovir<br><mark style="color:blue;">[베시포]</mark></td><td>150 ㎎ qd⁴⁾</td><td>L-carnitine 결핍</td><td>L-carnitine 보충 병용 필수; 신기능·골밀도 추적 (TDF 대비 신장·골 안전성 유리 가능)</td></tr></tbody></table>
 
-**경구제 - Low genetic barrier (비선호)**
+**Low genetic barrier (비선호)**
 
 투여 기간 : 내성 발생 시 즉시 high barrier 약제로 교체; 내성 없이 반응 유지 중이면 HBsAg 소실까지 또는 치료 종료 기준 도달 시까지
 
@@ -242,7 +244,11 @@ _ETV = entecavir, TDF = tenofovir disoproxil fumarate, TAF = tenofovir alafenami
 **Emerging therapies** : siRNA(HBV RNA 간섭), capsid assembly modulator(CAM), 치료 백신 등 functional cure를 목표로 한 새로운 치료제들이 임상시험 단계에 있다. 기존 뉴클레오타이드 유사체와의 병용 전략이 활발히 연구 중이다.
 {% endhint %}
 
-#### <mark style="color:$primary;">경구 항바이러스제 선택</mark>
+**경구 항바이러스제 비교**
+
+<table data-header-hidden><thead><tr><th></th><th width="149"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>항목</td><td>TDF<br><mark style="color:blue;">[비리어드]</mark></td><td>TAF<br><mark style="color:blue;">[베믈리디]</mark></td><td>ETV<br><mark style="color:blue;">[바라크루드]</mark></td><td>Besifovir<br><mark style="color:blue;">[베시포]</mark></td></tr><tr><td>항바이러스 효능</td><td>매우 강함</td><td>매우 강함</td><td>매우 강함</td><td>강함</td></tr><tr><td>내성 장벽</td><td>높음</td><td>높음</td><td>높음</td><td>높음</td></tr><tr><td>신독성</td><td>상대적 ↑</td><td>낮음</td><td>낮음</td><td>낮음(TDF 대비)</td></tr><tr><td>골밀도 감소</td><td>가능</td><td>적음</td><td>적음</td><td>적음(TDF 대비)</td></tr><tr><td>임신 데이터</td><td>가장 풍부</td><td>제한적</td><td>제한적</td><td>제한적</td></tr><tr><td>LAM 내성 시</td><td>사용 가능</td><td>사용 가능</td><td>불리 (교차내성)</td><td>사용 가능</td></tr><tr><td>공복 복용</td><td>불필요</td><td>식사와 함께</td><td>필요 (공복)</td><td>불필요</td></tr><tr><td>체중·지질 증가</td><td>적음</td><td>가능성 보고</td><td>적음</td><td>정보 적음</td></tr><tr><td>특이 주의</td><td>신장·골 모니터링</td><td>대사 지표 추적</td><td>HIV 검사 필수</td><td>L-carnitine 병용</td></tr><tr><td>대표 적합 대상</td><td>젊고 건강, 임신부</td><td>CKD·골질환 위험</td><td>고령·renal concern</td><td>국내 신약·TDF 불가 시</td></tr></tbody></table>
+
+**경구 항바이러스제 선택**
 
 ```mermaid
 flowchart TD
@@ -267,7 +273,7 @@ classDef sky fill:#e3f2ff,stroke:#2196f3
 class TDF1,D,G,K,L sky
 ```
 
-<p align="center"><strong>경구 항바이러스제 선택 알고리듬</strong></p>
+***
 
 ```mermaid
 flowchart TD
@@ -332,11 +338,7 @@ class CH,H,FH lightGreen
 
 <p align="center"><strong>만성 B형간염 치료 결정 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Fig 3.</mark></em> </p>
-
-
-
-<table data-header-hidden><thead><tr><th></th><th width="149"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>항목</td><td>TDF<br><mark style="color:blue;">[비리어드]</mark></td><td>TAF<br><mark style="color:blue;">[베믈리디]</mark></td><td>ETV<br><mark style="color:blue;">[바라크루드]</mark></td><td>Besifovir<br><mark style="color:blue;">[베시포]</mark></td></tr><tr><td>항바이러스 효능</td><td>매우 강함</td><td>매우 강함</td><td>매우 강함</td><td>강함</td></tr><tr><td>내성 장벽</td><td>높음</td><td>높음</td><td>높음</td><td>높음</td></tr><tr><td>신독성</td><td>상대적 ↑</td><td>낮음</td><td>낮음</td><td>낮음(TDF 대비)</td></tr><tr><td>골밀도 감소</td><td>가능</td><td>적음</td><td>적음</td><td>적음(TDF 대비)</td></tr><tr><td>임신 데이터</td><td>가장 풍부</td><td>제한적</td><td>제한적</td><td>제한적</td></tr><tr><td>LAM 내성 시</td><td>사용 가능</td><td>사용 가능</td><td>불리 (교차내성)</td><td>사용 가능</td></tr><tr><td>공복 복용</td><td>불필요</td><td>식사와 함께</td><td>필요 (공복)</td><td>불필요</td></tr><tr><td>체중·지질 증가</td><td>적음</td><td>가능성 보고</td><td>적음</td><td>정보 적음</td></tr><tr><td>특이 주의</td><td>신장·골 모니터링</td><td>대사 지표 추적</td><td>HIV 검사 필수</td><td>L-carnitine 병용</td></tr><tr><td>대표 적합 대상</td><td>젊고 건강, 임신부</td><td>CKD·골질환 위험</td><td>고령·renal concern</td><td>국내 신약·TDF 불가 시</td></tr></tbody></table>
+<p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Fig 3.</mark></em></p>
 
 ### <mark style="color:orange;">간장질환용제 (보조 치료)</mark>
 
@@ -386,7 +388,7 @@ class CH,H,FH lightGreen
 * 치료 중 부분 바이러스 반응 → 우선 약제 순응도 확인
 * Low barrier 약제 사용 중 부분 반응 → 교차내성이 없고 high barrier인 약제로 전환
 * High barrier 약제 사용 중 부분 반응 → 3\~6개월 간격 모니터링 지속; ETV 사용 시 tenofovir로 전환 고려
-* Peg-IFN-α&#x20;
+* Peg-IFN-α
   * HBeAg(+) : 치료 24주째 정량 HBsAg ＜20,000 IU/㎖ 미달 시 중단 고려
   * HBeAg(-) : 치료 12주째 HBsAg 감소 없고 HBV DNA 감소 ＜2 log₁₀인 경우 중단 고려
 
@@ -550,8 +552,8 @@ class EndA,ProA sky
 <table data-header-hidden><thead><tr><th width="98.25"></th><th width="346"></th><th width="159.75"></th><th></th></tr></thead><tbody><tr><td>위험도</td><td>해당 약제 / 상황</td><td>HBsAg(+)<br>또는 resolved HBV¹⁾</td><td>예방 기간²⁾</td></tr><tr><td><mark style="color:$danger;"><strong>고위험</strong></mark><br><mark style="color:$danger;">(≥10%)</mark></td><td><strong>HBsAg(+) 환자:</strong><br>• B세포 고갈제 (rituximab, ofatumumab, alemtuzumab 등 Anti-CD20/CD52)<br>• 조혈모세포이식(HSCT)<br>• 고용량 스테로이드 (prednisone ≥20 ㎎/d, ≥4주) - 단독 투여 시도 고위험<br>• 강력 TNFα 억제제 (infliximab, adalimumab, certolizumab, golimumab)<br>• 안트라사이클린 계열 (doxorubicin, daunorubicin, epirubicin)<br>• TACE<br>• CAR-T 세포 치료<br><strong>Resolved HBV 환자:</strong><br>• B세포 고갈제만 고위험</td><td><strong>HBsAg(+)</strong> → 항바이러스제 예방적 투여<br><strong>Resolved HBV</strong> (HBsAg(-)/anti-HBc(+)) → 예방적 투여 강력 권고 (B세포 고갈제); 기타 → 위험도에 따라 판단</td><td>면역억제 종료 후 <strong>최소 6개월</strong><br>rituximab 포함 B세포 고갈제: 종료 후 <strong>최소 12개월</strong></td></tr><tr><td><mark style="color:$warning;"><strong>중등위험</strong></mark><br><mark style="color:$warning;">(1~10%)</mark></td><td>• 세포독성 항암화학요법 (안트라사이클린 제외)<br>• 중등도 스테로이드 (prednisone 10–20 ㎎/d, ≥4주)<br>• 약한 TNFα 억제제 (etanercept)<br>• IL-6 억제제, JAK 억제제 (tofacitinib, baricitinib), abatacept, ustekinumab<br>• 면역관문억제제 ICI (pembrolizumab, nivolumab 등) - HBsAg(+)에서 중등위험<br>• 칼시뉴린 억제제 (cyclosporine), mTOR 억제제<br>• TKI (imatinib, nilotinib, ibrutinib 등), 프로테아좀 억제제</td><td><strong>HBsAg(+)</strong> → 예방적 투여 권고<br><strong>Resolved HBV</strong> → 예방 또는 면밀한 모니터링 (공유 의사결정)</td><td>면역억제 종료 후 <strong>최소 6개월</strong></td></tr><tr><td><mark style="color:$info;"><strong>저위험</strong></mark><br><mark style="color:$info;">(&#x3C;1%)</mark></td><td>• 저용량 스테로이드 (prednisone &#x3C;10 ㎎/d)<br>• MTX, azathioprine, hydroxychloroquine, mycophenolate, leflunomide<br>• 관절강 내 스테로이드 주사<br>• ICI - Resolved HBV에서 저위험</td><td><strong>HBsAg(+)</strong> → 개별 판단; 모니터링<br><strong>Resolved HBV</strong> → 통상적 모니터링</td><td>-</td></tr></tbody></table>
 
 _¹⁾ Resolved HBV = HBsAg(-) / Anti-HBc(+) / HBsAb(±); cccDNA가 간세포에 잠복하여 재활성화 가능_\
-&#xNAN;_&#xB2;⁾ 치료 기간 중 및 종료 후 예방 기간; 개별 약제 및 환자 상태에 따라 조정_\
-&#xNAN;_&#x52;ef. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Table 9._
+\&#xNAN;_²⁾ 치료 기간 중 및 종료 후 예방 기간; 개별 약제 및 환자 상태에 따라 조정_\
+\&#xNAN;_Ref. 대한간학회. 만성 B형간염 진료 가이드라인. 2022. Table 9._
 
 #### <mark style="color:$primary;">예방적 항바이러스제 선택</mark>
 
