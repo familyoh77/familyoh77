@@ -30,25 +30,31 @@
 •ACG Clinical Guideline: Management of Benign Anorectal Disorders. ACG (2021)\
 •Chronic diarrhoea guideline. BSG (2017)\
 •Clinical practice guidelines for the diagnosis and management of infectious diarrhea. IDSA (2017)\
+•IDSA/SHEA Clinical Practice Guidelines for Clostridioides difficile Infection in Adults. IDSA/SHEA (2021)\
 •Clinical guideline: Dx, Tx, and prevention of acute diarrheal infections in adults. ACG (2016)\
 •Acute diarrhea in adults and children: A global perspective. WGO (2012)\
 •급성위장관계 감염 항생제 사용지침. 대한감염학회 (2019)\
-•Travelers' Diarrhea. CDC (2019)\
+•Travelers' Diarrhea. CDC Yellow Book (2024)\
 •Guidelines for the prevention and treatment of travelers' diarrhea. ISTM (2017)\
-•British Society of Gastroenterology guidelines on the management of irritable bowel syndrome (2021)\
+•ACG Clinical Guideline: An Evidence-Based Approach to the Diagnosis and Management of Irritable Bowel Syndrome. ACG (2021)\
+•AGA Clinical Practice Update on the Pharmacological Management of Irritable Bowel Syndrome. AGA (2022)\
+•British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. BSG (2023)\
 •Clinical Practice Guidelines for Irritable Bowel Syndrome. 대한소화기기능성질환운동학회 (2017)\
 •Irritable bowel syndrome in adults: Diagnosis and management. NICE (2017)\
-•Guideline on the pharmacological management of irritable bowel syndrome. AGA (2014)\
 •Practice guideline. Irritable bowel syndrome. WGO (2015)\
-•Update on prevention, diagnosis, and treatment of chronic hepatitis B. AASLD (2018)\
+•AASLD 2025 Hepatitis B Guidance. AASLD (2025)\
 •Clinical practice guidelines on the management of hepatitis B virus infection. EASL (2017)\
-•만성 B형간염 진료 가이드라인. 대한간학회 (2018)\
+•만성 B형간염 진료 가이드라인. 대한간학회 (2022)\
+•Guidelines for the prevention, care and treatment of persons with chronic hepatitis B infection. WHO (2024)\
+•간섬유화 비침습적 평가 진료 가이드라인. 대한간학회 (2024)\
 •Recommendations on treatment of hepatitis C. EASL (2018)\
-•Guidelines for the care and treatment of persons diagnosed with chronic HCV infection. WHO (2018)\
-•C형간염 진료 가이드라인. 대한간학회 (2017)\
-•C형간염 관리지침. 질병관리본부 (2017)\
+•HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C. AASLD/IDSA (2023)\
+•Guidelines for the care and treatment of persons diagnosed with chronic HCV infection. WHO (2022)\
+•C형간염 진료 가이드라인. 대한간학회 (2022)\
+•C형간염 관리지침. 질병관리청 (2017)\
 •Clinical Practice Guidelines: Management of alcohol-related liver disease. EASL (2018)\
-•Clinical Guideline: Alcoholic Liver Disease. ACG (2018)\
+•ACG Clinical Guideline: Alcoholic Liver Disease. ACG (2024)\
 •알코올 간질환 진료 가이드라인. 대한간학회 (2013)\
-•Clinical Care Pathway for the Risk Stratification and Management of Patients With NAFLD. AGA (2021)\
-•비-알코올 지방간질환 진료 가이드라인. 대한간학회 (2013)
+•Multi-society nomenclature of metabolic dysfunction-associated steatotic liver disease (MASLD/MASH). AASLD/EASL/EASD (2023)\
+•AASLD Practice Guidance: Diagnosis and Management of Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD). AASLD (2024)\
+•대사이상지방간질환(MASLD) 진료 가이드라인. 대한간학회 (2025)
