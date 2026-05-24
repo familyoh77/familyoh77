@@ -4,7 +4,7 @@
 
 * 과다한 알코올 섭취에 의해 발생하는 간 손상의 연속된 스펙트럼 : 지방간 → 알코올 간염 → 간섬유화 → 간경변증
 * 명칭 : 과거 'Alcoholic Liver Disease'에서 Alcohol-Associated Liver Disease (ALD)로 개칭; 알코올 사용 장애(AUD)와의 통합 관리를 반영\
-  ✽ 알코올 간염의 영문 표기도 'alcoholic hepatitis'에서 **alcohol-associated hepatitis (AH)** 로 통일 권고 (ACG 2024); KCD 코드(K70.1)는 유지
+  ✽ 알코올 간염의 영문 표기도 'alcoholic hepatitis'에서 alcohol-associated hepatitis (AH) 로 통일 권고; KCD 코드(K70.1)는 유지
 * 전 세계적으로 진행성 간질환의 가장 흔한 원인이자 간이식의 주요 적응증
 * 유병률(미국) : 성인의 약 1%; 주로 40\~50대(대부분 60세 이전 발병); 전통적으로 남성이 다수이나 최근 여성·젊은 층 비율 증가 추세
 * 하루 ≥50 g(소주 1병, 약 360 ㎖ × 17.5% ABV ≒ 50 g EtOH)의 알코올을 10년 이상 섭취하는 사람의 10\~15%에서 간경변증 발생
@@ -21,14 +21,12 @@
 * 장내 미생물 불균형(Gut dysbiosis) : 장벽 손상 → LPS 유입 → 간 염증 촉진 (병태생리의 핵심)
 * 흡연 : 섬유화 진행 가속
 
-***
-
 ## <mark style="color:green;">임상 양상</mark>
 
 * 지방간 : 대부분 무증상; 경미한 우상복부 불편감; 금주 시 가역적 회복
 * 알코올 간염 : 급성 발현 - 피로, 식욕 부진, 구역, 미열, 우상복부 통증/팽만, 황달, 체중 감소, 빈맥, 저혈압, 말초 부종; 간혹 무증상
 * 간경변증 : 여성형 유방, 근육 소실, 거미혈관종, 손발바닥 홍반, 복수, 식도 정맥류, 간성 뇌병증, 비장 비대
-* ✽ 중증 알코올 간염은 **acute-on-chronic liver failure (ACLF)** 형태로 발현 가능 — 다장기 부전을 동반하며 단기 사망률이 매우 높아(1개월 20\~50%) 조기 인식과 신속한 중증도 평가가 중요
+* ✽ 중증 알코올 간염은 acute-on-chronic liver failure (ACLF) 형태로 발현 가능 - 다장기 부전을 동반하며 단기 사망률이 매우 높아(1개월 20\~50%) 조기 인식과 신속한 중증도 평가가 중요
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -75,11 +73,11 @@
 
 ### <mark style="color:orange;">비침습적 섬유화 평가</mark>
 
-**FIB-4 score**&#x20;
+**FIB-4 score**
 
 * (혈청 기반 섬유화 지수)
 * $$\text{FIB-4} = \frac{\text{연령(세)} \times \text{AST(U/L)}}{\text{혈소판(10}^9\text{/L)} \times \sqrt{\text{ALT(U/L)}}}$$<br>
-* <1.30 = 진행성 섬유화 가능성 낮음;  ≥2.67 = 진행성 섬유화 가능성 높음
+* <1.30 = 진행성 섬유화 가능성 낮음; ≥2.67 = 진행성 섬유화 가능성 높음
 * MetALD(MASLD + 음주 동반) 환자는 섬유화 진행이 빠르므로 FIB-4 선별을 더 적극적으로 시행
 * FIB-4 중간값(1.30\~2.67)에서는 추가 평가(탄성도 검사 또는 간 생검) 고려
 * 급성 알코올 간염 시기에는 FIB-4 사용 주의 : AST·ALT 급상승으로 FIB-4가 위양성으로 매우 높게 나올 수 있어 섬유화 평가 지표로 직접 사용하지 않음. 염증 호전 후(4\~8주 뒤) 재평가 권장
@@ -106,31 +104,31 @@ mDF ≥32 또는 MELD ≥20 = 중증 알코올 간염 → 입원 치료 및 ster
 
 ```mermaid
 graph TD
-    A([음주력 있는 환자<br/>황달·간기능 이상]) --> B{타 간질환 배제<br/>HBsAg·HCV Ab<br/>HA Ab·자가항체}
-    B -->|이상 없음/배제| C[알코올 연관 간질환 진단<br/>AUDIT 시행, 영상·Lab]
-    C --> D{임상 양상 분류}
+    A([음주력 있는 환자<br/>황달·간기능 이상]) --> B[<u>타 간질환 배제</u><br/>HBsAg·HCV Ab<br/>HA Ab·자가항체]
+    B -->|이상 없음/배제| C[<u>알코올 연관 간질환 진단</u><br/>AUDIT 시행, 영상·Lab]
+    C --> D[임상 양상 분류]
     D -->|무증상 + 지방간| E[금주 상담 + 영양 지원<br/>4\~8주 후 외래 재평가]
-    D -->|황달·간염 소견| F{중증도 점수<br/>mDF / MELD 계산}
+    D -->|황달·간염 소견| F[<u>중증도 점수</u><br/>mDF / MELD 계산]
     F -->|경증<br/>mDF<32, MELD<20| G[금주 + 지지 치료<br/>영양·비타민 공급<br/>단기 입원 또는 외래]
-    F -->|중증<br/>mDF≥32 또는 MELD≥20| H{활동성 감염 배제<br/>WBC·CRP·혈액배양<br/>복수천자·흉부X선<br/>소변배양}
+    F -->|중증<br/>mDF≥32 또는 MELD≥20| H[<u>활동성 감염 배제</u><br/>WBC·CRP·혈액배양<br/>복수천자·흉부X선<br/>소변배양]
     H -->|감염 확인| I[감염 치료 우선<br/>Steroid 보류]
     H -->|감염 없음| J[prednisolone 40 ㎎/d 시작<br/>+ N-acetylcysteine IV 5일]
-    J --> K{7일 후 Lille score}
+    J --> K[7일 후 Lille score]
     K -->|Lille ≤0.45<br/>반응 양호| L[4주 코스 완료<br/>2주간 점진적 감량]
-    K -->|Lille >0.45<br/>비반응| M{조기 간이식 적응증<br/>평가}
+    K -->|Lille >0.45<br/>비반응| M[조기 간이식 적응증<br/>평가]
     M -->|선발 기준 충족| N[조기 간이식 의뢰<br/>6개월 단독 금주 불요]
-    M -->|기준 불충족| O[완화 치료 / FMT 임상시험 검토]
-    style A fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style J fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style N fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-    style O fill:#fce4ec,stroke:#880e4f,stroke-width:2px
-    style E fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-    style G fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    M -->|기준 불충족| O[완화 치료 / <br/>FMT 임상시험 검토]
+
+
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D,F,H,M,K yellow
+style C fill:#e8f8e8,stroke:#4caf50
+style N fill:#ffcdd2,stroke:#c62828
+style O fill:#fde8f0,stroke:#e91e8c
 ```
 
 <p align="center"><strong>알코올 연관 간질환 진단 및 치료 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. ACG Clinical Guideline: Alcohol-Associated Liver Disease. Am J Gastroenterol 2024;119:30-54</mark></em></p>
 
 ***
 
@@ -155,9 +153,9 @@ graph TD
 * 금주 및 금단 증상 치료 (필요시 입원 치료) (☞ [음주](../230_/189_-alcohol-use-disorder-aud.md))
 * 입원 기준 : mDF ≥32, MELD ≥20, Glasgow Coma Scale ≤8, 간성 뇌병증, 수분 공급 불가
 * 알코올 사용 장애(AUD) 치료 통합 : 행동 치료(동기 강화 면담) + 약물 치료 병행; 금주 유지가 장기 예후 결정
-  * naltrexone : 1차 선택제; 간독성 모니터링(ALT/AST) 병행 권장 — compensated cirrhosis에서는 신중 사용 가능하나, decompensated cirrhosis에서는 일반적으로 피하거나 매우 신중히 사용
-  * acamprosate : 신장 배설, 간 대사 부담 없음 — CrCl <30 mL/min 금기; CrCl 30\~50 mL/min에서는 감량 필요
-  * baclofen : 신장 배설로 간 대사에 독립적 — 간경변증 환자의 음주 갈망 조절 대안으로 활용 가능; 일부 RCT에서 안전성 및 금주 유지 효과 보고 (국내 허가 외 사용, 처방 전 상의 필요)
+  * naltrexone : 1차 선택제; 간독성 모니터링(ALT/AST) 병행 권장 - compensated cirrhosis에서는 신중 사용 가능하나, decompensated cirrhosis에서는 일반적으로 피하거나 매우 신중히 사용
+  * acamprosate : 신장 배설, 간 대사 부담 없음 - CrCl <30 mL/min 금기; CrCl 30\~50 mL/min에서는 감량 필요
+  * baclofen : 신장 배설로 간 대사에 독립적 - 간경변증 환자의 음주 갈망 조절 대안으로 활용 가능; 일부 RCT에서 안전성 및 금주 유지 효과 보고 (국내 허가 외 사용, 처방 전 상의 필요)
 * 약물 주의
   * NSAIDs : 사용 금기에 준하여 강력 회피 - 신기능 저하·위장관 출혈·HRS 위험 증가
   * acetaminophen : 완전 금주 상태에서 1일 총 2 g 이하로 제한적 사용 가능; 음주 중에는 복용 금지
@@ -221,15 +219,13 @@ graph TD
 * IL-1 억제제 (anakinra, canakinumab) : 다수 임상시험 진행; steroid와 비교한 대규모 RCT에서 아직 우월성 미입증 - 현재 표준 치료 아님
 * 항산화제 : 독립적 효과 입증 부족
 
-***
-
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 완전 금주 : 모든 병기에서 유일하게 입증된 질환 경과 개선 방법; 지방간은 2\~4주 내 호전
 * 음주 절제 상담 : 동기 강화 면담(Motivational Interviewing), 정신건강의학과·중독의학과 협력
 * 영양 재활 : 고칼로리·고단백 식사; 결핍 영양소(thiamine, 엽산, 아연) 보충
 * 운동 : sarcopenia는 BMI와 무관한 독립적 사망 예측 인자 - 저강도 유산소 + 근력 운동 권장; 심한 간경변증에서는 주치의 지도 아래 시행\
-  ✽ **frailty(허약)** 평가도 고려 — handgrip strength 측정, chair stand test 등 간단한 도구로 기능 상태 파악 가능; sarcopenia와 함께 이식 전 평가 및 예후 예측에 활용
+  ✽ **frailty(허약)** 평가도 고려 - handgrip strength 측정, chair stand test 등 간단한 도구로 기능 상태 파악 가능; sarcopenia와 함께 이식 전 평가 및 예후 예측에 활용
 * NSAID·알코올·간독성 약물 회피; acetaminophen은 금주 상태에서 제한 용량 내 사용 가능 (상기 참조)
 * HBV 예방 접종 : 항체 없는 환자에서 시행
 * 정기 추적 검사 : 간경변증(F4) 시 6개월마다 간초음파 + AFP (HCC 감시); 진행성 섬유화(F3) 단계에서도 일부 전문가는 감시 검사 고려; 내시경으로 식도 정맥류 평가
