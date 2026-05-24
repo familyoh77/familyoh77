@@ -1,74 +1,70 @@
-# 알코올 연관 간질환 Alcohol-Associated Liver Disease (ALD)
+# 알코올 간질환 Alcohol-associated Liver Disease
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 과다한 알코올 섭취에 의해 발생하는 간 손상의 연속된 스펙트럼 - 지방간 → 알코올 간염 → 간섬유화 → 간경변증
-* 명칭 : 과거 'Alcoholic Liver Disease'에서 **Alcohol-Associated Liver Disease (ALD)** 로 최신 가이드라인(ACG 2024)에서 개명; 알코올 사용 장애(AUD)와의 통합 관리를 반영
+* 과다한 알코올 섭취에 의해 발생하는 간 손상의 연속된 스펙트럼 : 지방간 → 알코올 간염 → 간섬유화 → 간경변증
+* 명칭 : 과거 'Alcoholic Liver Disease'에서 Alcohol-Associated Liver Disease (ALD)로 개칭; 알코올 사용 장애(AUD)와의 통합 관리를 반영
 * 전 세계적으로 진행성 간질환의 가장 흔한 원인이자 간이식의 주요 적응증
 * 유병률(미국) : 성인의 약 1%; 주로 40\~50대(대부분 60세 이전 발병); 전통적으로 남성이 다수이나 최근 여성·젊은 층 비율 증가 추세
 * 하루 ≥50 g(소주 1병, 약 360 ㎖ × 17.5% ABV ≒ 50 g EtOH)의 알코올을 10년 이상 섭취하는 사람의 10\~15%에서 간경변증 발생
 * COVID-19 팬데믹 이후 음주량 증가로 ALD 관련 의료 부담이 급격히 증가
 
-***
-
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* **음주량·기간** : 남성 하루 ≥60\~80 g, 여성 ≥20 g을 수년 이상 지속; 식사 외 공복 음주 시 위험 3배 증가
-* **여성** : 동일 음주량에서 남성보다 간질환 진행이 빠름 (알코올 대사 속도 차이, 장투과성 증가)
-* **유전** : PNPLA3 I148M, TM6SF2 등 유전 변이 - 지방간·간염·간경변증 위험 증가
-* **비만 / 인슐린 저항성** : MASLD(대사 지방간질환)와 동반 시 상승 효과
-* **만성 바이러스 간염** : HBV, HCV 동반 시 간경변증 및 HCC 위험 대폭 증가
-* **영양 불량** : 단백질·비타민(thiamine, 엽산, 아연) 결핍
-* **장내 미생물 불균형(Gut dysbiosis)** : 장벽 손상 → LPS 유입 → 간 염증 촉진 (병태생리의 핵심)
-* **흡연** : 섬유화 진행 가속
+* 음주량·기간 : 남성 하루 ≥60\~80 g, 여성 ≥20 g을 수년 이상 지속; 식사 외 공복 음주 시 위험 3배 증가
+* 여성 : 동일 음주량에서 남성보다 간질환 진행이 빠름 (알코올 대사 속도 차이, 장투과성 증가)
+* 유전 : PNPLA3 I148M, TM6SF2 등 유전 변이 - 지방간·간염·간경변증 위험 증가
+* 비만 / 인슐린 저항성 : MASLD(대사 지방간질환)와 동반 시 상승 효과
+* 만성 바이러스 간염 : HBV, HCV 동반 시 간경변증 및 HCC 위험 대폭 증가
+* 영양 불량 : 단백질·비타민(thiamine, 엽산, 아연) 결핍
+* 장내 미생물 불균형(Gut dysbiosis) : 장벽 손상 → LPS 유입 → 간 염증 촉진 (병태생리의 핵심)
+* 흡연 : 섬유화 진행 가속
 
 ***
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* **지방간** : 대부분 무증상; 경미한 우상복부 불편감; 금주 시 가역적 회복
-* **알코올 간염** : 급성 발현 - 피로, 식욕 부진, 구역, 미열, 우상복부 통증/팽만, 황달, 체중 감소, 빈맥, 저혈압, 말초 부종; 간혹 무증상
-* **간경변증** : 여성형 유방, 근육 소실, 거미혈관종, 손발바닥 홍반, 복수, 식도 정맥류, 간성 뇌병증, 비장 비대
+* 지방간 : 대부분 무증상; 경미한 우상복부 불편감; 금주 시 가역적 회복
+* 알코올 간염 : 급성 발현 - 피로, 식욕 부진, 구역, 미열, 우상복부 통증/팽만, 황달, 체중 감소, 빈맥, 저혈압, 말초 부종; 간혹 무증상
+* 간경변증 : 여성형 유방, 근육 소실, 거미혈관종, 손발바닥 홍반, 복수, 식도 정맥류, 간성 뇌병증, 비장 비대
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* 간성 뇌병증 (의식 혼탁, 지남력 장애, 행동 변화)
+* 의식 혼탁, 지남력 장애, 행동 변화 → 간성 뇌병증
 * GCS ≤8 또는 급격한 의식 저하
-* 대량 상부 위장관 출혈 (식도·위 정맥류 파열)
-* 급성 신부전 동반 (간신증후군 의심)
-* 패혈증 또는 자발성 복막염 의심 (고열 + 복수 + 복통)
+* 대량 상부 위장관 출혈 → 식도·위 정맥류 파열
+* 급성 신부전 동반 → 간신증후군
+* 고열 + 복수 + 복통 → 패혈증 또는 자발성 복막염
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 총 빌리루빈 ≥10 ㎎/㎗ 또는 INR ＞1.6 (중증 알코올 간염 가능성)
-* MELD score ≥20 또는 mDF ≥32 (전문의 입원 평가 요함)
-* 경구 수분 및 영양 섭취 불가 (심한 구역·구토)
-* 심한 금단 증상 (진전, 섬망, 경련) → 입원 치료
+* 총 빌리루빈 ≥10 ㎎/㎗ 또는 INR ＞1.6 → 중증 알코올 간염
+* MELD score ≥20 또는 mDF ≥32
+* 심한 구역·구토 - 경구 수분 및 영양 섭취 불가
+* 심한 금단 증상 - 진전, 섬망, 경련
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 지속적 음주 + AST/ALT 반복 상승 → 간 전문의 의뢰 고려
+* 지속적 음주 + AST/ALT 반복 상승
 * 금주 후 4\~8주 내에 간기능 검사 미호전
-* 간경변증 합병증 (복수, 근육 감소, 황달) 처음 나타난 경우
-
-***
+* 간경변증 합병증(복수, 근육 감소, 황달) 발생
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">병력 청취</mark>
 
 * 음주 시작 연령, 하루 음주량(표준 잔 환산), 정기적/매일 음주 지속 연수, 음주 종류, 가정 내 음주, 금주 시도력
-* **알코올 사용 장애 선별** : AUDIT(Alcohol Use Disorders Identification Test) 또는 AUDIT-C 사용 권장
+* [알코올 사용 장애 선별](../230_/189_-alcohol-use-disorder-aud.md#undefined-3) : AUDIT(Alcohol Use Disorders Identification Test) 또는 AUDIT-C 사용 권장
 * 최근 음주력 확인 바이오마커 활용 가능 : EtG(에틸글루쿠로나이드, 소변), EtS(에틸설페이트), CDT(탈탄수화물화 트랜스페린) - ACG 2024 권고
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
-<table><thead><tr><th width="180">검사 항목</th><th width="240">알코올 간염 특징</th><th>비고</th></tr></thead><tbody><tr><td>AST</td><td>↑, 보통 &lt;300 IU/L</td><td>알코올에 의한 미토콘드리아 손상</td></tr><tr><td>AST/ALT 비</td><td>≥2 (구기준 ≥1.5는 현재 사용 않음)</td><td>알코올 간염에 특징적</td></tr><tr><td>GGT</td><td>&gt;100 U/㎖ (음주의 민감한 지표; 단, 특이도 낮음)</td><td>비만·약물·담즙정체에서도 상승; 금주 시 2\~3주 내 감소</td></tr><tr><td>ALP</td><td>↑ (통상 정상치 3배 미만)</td><td>담즙정체성 표현형에서는 더 뚜렷하게 상승 가능</td></tr><tr><td>총 빌리루빈</td><td>↑ (&gt;3\~5 ㎎/㎗; 중증 시 ≥10)</td><td></td></tr><tr><td>Albumin</td><td>↓ (&lt;3.0 g/dL)</td><td>간 합성 기능 저하</td></tr><tr><td>INR</td><td>&gt;1.5 (중증 시 더 연장)</td><td></td></tr><tr><td>WBC</td><td>↑ (&gt;12,000; 중증 시 left shift)</td><td>감염과 감별 필요</td></tr><tr><td>빈혈, 혈소판 감소</td><td>흔함</td><td>엽산↓, 비장 비대</td></tr></tbody></table>
+<table><thead><tr><th width="144.21051025390625">검사 항목</th><th width="256.84210205078125">알코올 간염 특징</th><th>비고</th></tr></thead><tbody><tr><td>AST</td><td>↑, 보통 &#x3C;300 IU/L</td><td>알코올에 의한 미토콘드리아 손상</td></tr><tr><td>AST/ALT 비</td><td>≥2 (구기준 ≥1.5는 현재 사용 않음)</td><td>알코올 간염에 특징적</td></tr><tr><td>GGT</td><td>>100 U/㎖ (음주의 민감한 지표; 단, 특이도 낮음)</td><td>비만·약물·담즙정체에서도 상승; 금주 시 2~3주 내 감소</td></tr><tr><td>ALP</td><td>↑ (통상 정상치 3배 미만)</td><td>담즙정체성 표현형에서는 더 뚜렷하게 상승 가능</td></tr><tr><td>총 빌리루빈</td><td>↑ (>3~5 ㎎/㎗; 중증 시 ≥10)</td><td></td></tr><tr><td>Albumin</td><td>↓ (&#x3C;3.0 g/㎗)</td><td>간 합성 기능 저하</td></tr><tr><td>INR</td><td>>1.5 (중증 시 더 연장)</td><td></td></tr><tr><td>WBC</td><td>↑ (>12,000; 중증 시 left shift)</td><td>감염과 감별 필요</td></tr><tr><td>빈혈, 혈소판 감소</td><td>흔함</td><td>엽산↓, 비장 비대</td></tr></tbody></table>
 
-* **타 간질환 감별** : HBsAg, HBcAb, HA Ab(IgM), HCV Ab/RNA, ANA(항핵항체), α-fetoprotein
-* ✽ AST가 500 IU/L 이상이면 단순 알코올 간염보다 허혈성 간염·독성 간염·바이러스 간염을 우선 감별할 것
+* 타 간질환 감별 : HBsAg, HBcAb, HA Ab(IgM), HCV Ab/RNA, ANA(항핵항체), α-fetoprotein
+* AST가 500 IU/L 이상이면 단순 알코올 간염보다 허혈성 간염·독성 간염·바이러스 간염을 우선 감별할 것
 
 ### <mark style="color:orange;">영상 검사</mark>
 
@@ -87,16 +83,13 @@ mDF ≥32 또는 MELD ≥20 = **중증 알코올 간염** → 입원 치료 및 
 * **modified Maddrey's Discriminant Function (mDF)**\
   mDF = {4.6 × (PT 환자 − PT 대조)} + 혈청 빌리루빈 (㎎/㎗)\
   ≥32점 시 중증 / 불량 예후 (1개월 사망률 35\~45%)
-
 * **MELD score** (ACG 2024 우선 권고)\
   ≥20 = 중증; 25\~39 범위에서 corticosteroid 최대 이득; ≥50에서 steroid 신중 사용\
   ✽ [온라인 계산툴](https://www.mdcalc.com/meld-score-original)
-
 * **Lille score** (steroid 반응 예측)\
   7일 투여 후 빌리루빈 변화를 바탕으로 계산; >0.45 = 비반응 → steroid 중단\
   ✽ 4일째 중간 평가도 가능 (ACG 2024)\
   ✽ [온라인 계산툴](http://gihep.com/calculators/hepatology/lille-model/)
-
 * **간 생검** : 진단 불확실 또는 임상시험 선별 시 고려
 
 ***
@@ -147,7 +140,7 @@ graph TD
 알코올 간질환은 단일 표현형이 아닌 다양한 phenotype으로 나타난다. 입원 시 우세한 표현형을 파악하면 초기 처치 우선순위를 정하는 데 도움이 된다.
 {% endhint %}
 
-<table><thead><tr><th width="175">표현형</th><th width="210">주요 임상 단서</th><th width="210">특징적 Lab/소견</th><th>우선 처치 방향</th></tr></thead><tbody><tr><td>염증성 (Inflammatory)</td><td>발열, WBC ↑, 황달, CRP ↑</td><td>bilirubin↑↑, AST/ALT ≥2</td><td>감염 배제 후 steroid 고려</td></tr><tr><td>담즙정체성 (Cholestatic)</td><td>황달 두드러짐, 회복 지연</td><td>direct bilirubin↑↑, ALP/GGT↑</td><td>장기 추적, 담도 질환 감별</td></tr><tr><td>비대상성 간경변증</td><td>복수, 간성 뇌병증, 정맥류 출혈</td><td>albumin↓, INR↑, Na↓</td><td>합병증 치료 + 간이식 평가</td></tr><tr><td>금단 증상 우세</td><td>진전, 불안, 발한, 빈맥</td><td>CIWA-Ar 상승</td><td>benzodiazepine + thiamine 우선</td></tr><tr><td>영양불량/Sarcopenia</td><td>근육 감소, 체중 감소, 쇠약</td><td>albumin↓, zinc↓</td><td>고단백·고칼로리 영양 집중</td></tr><tr><td>감염 동반</td><td>발열, 저혈압, 복통</td><td>procalcitonin↑, lactate↑</td><td>감염 치료 우선, steroid 보류</td></tr><tr><td>간신증후군 (HRS)</td><td>핍뇨, creatinine 상승</td><td>Cr↑, Na↓</td><td>AKI/HRS 교정, albumin·vasoconstrictor</td></tr><tr><td>Steroid 비반응 중증</td><td>Lille &gt;0.45, 다장기 부전</td><td>MELD↑↑</td><td>조기 간이식 또는 완화 치료</td></tr></tbody></table>
+<table><thead><tr><th width="175">표현형</th><th width="210">주요 임상 단서</th><th width="210">특징적 Lab/소견</th><th>우선 처치 방향</th></tr></thead><tbody><tr><td>염증성 (Inflammatory)</td><td>발열, WBC ↑, 황달, CRP ↑</td><td>bilirubin↑↑, AST/ALT ≥2</td><td>감염 배제 후 steroid 고려</td></tr><tr><td>담즙정체성 (Cholestatic)</td><td>황달 두드러짐, 회복 지연</td><td>direct bilirubin↑↑, ALP/GGT↑</td><td>장기 추적, 담도 질환 감별</td></tr><tr><td>비대상성 간경변증</td><td>복수, 간성 뇌병증, 정맥류 출혈</td><td>albumin↓, INR↑, Na↓</td><td>합병증 치료 + 간이식 평가</td></tr><tr><td>금단 증상 우세</td><td>진전, 불안, 발한, 빈맥</td><td>CIWA-Ar 상승</td><td>benzodiazepine + thiamine 우선</td></tr><tr><td>영양불량/Sarcopenia</td><td>근육 감소, 체중 감소, 쇠약</td><td>albumin↓, zinc↓</td><td>고단백·고칼로리 영양 집중</td></tr><tr><td>감염 동반</td><td>발열, 저혈압, 복통</td><td>procalcitonin↑, lactate↑</td><td>감염 치료 우선, steroid 보류</td></tr><tr><td>간신증후군 (HRS)</td><td>핍뇨, creatinine 상승</td><td>Cr↑, Na↓</td><td>AKI/HRS 교정, albumin·vasoconstrictor</td></tr><tr><td>Steroid 비반응 중증</td><td>Lille >0.45, 다장기 부전</td><td>MELD↑↑</td><td>조기 간이식 또는 완화 치료</td></tr></tbody></table>
 
 ### <mark style="color:orange;">기본 치료</mark>
 
@@ -188,7 +181,7 @@ graph TD
 혈액배양 × 2세트 · 소변배양 · 흉부 X선 · 복수천자(SBP 배제) 시행 후 시작. 투여 중 격일 이상 감염 징후 모니터링.
 {% endhint %}
 
-<table><thead><tr><th width="260">임상 상황</th><th width="120" align="center">Prednisolone</th></tr></thead><tbody><tr><td>Severe AH (mDF ≥32 또는 MELD ≥20) + 감염 없음</td><td align="center">✅ 권장</td></tr><tr><td>감염 치료 완료 후 안정화</td><td align="center">⚠️ 신중 가능</td></tr><tr><td>조절되지 않는 패혈증</td><td align="center">❌ 보류</td></tr><tr><td>활동성 GI 출혈</td><td align="center">❌ 지혈 후 재평가</td></tr><tr><td>AKI / HRS 동반</td><td align="center">⚠️ 위험-이득 평가</td></tr><tr><td>MELD 25\~39</td><td align="center">✅ 최대 이득</td></tr><tr><td>MELD &gt;50</td><td align="center">⚠️ 매우 신중</td></tr><tr><td>Lille ≤0.45 (7일 반응)</td><td align="center">✅ 4주 유지</td></tr><tr><td>Lille &gt;0.45 (비반응)</td><td align="center">❌ 중단, 간이식 평가</td></tr></tbody></table>
+<table><thead><tr><th width="260">임상 상황</th><th width="120" align="center">Prednisolone</th></tr></thead><tbody><tr><td>Severe AH (mDF ≥32 또는 MELD ≥20) + 감염 없음</td><td align="center">✅ 권장</td></tr><tr><td>감염 치료 완료 후 안정화</td><td align="center">⚠️ 신중 가능</td></tr><tr><td>조절되지 않는 패혈증</td><td align="center">❌ 보류</td></tr><tr><td>활동성 GI 출혈</td><td align="center">❌ 지혈 후 재평가</td></tr><tr><td>AKI / HRS 동반</td><td align="center">⚠️ 위험-이득 평가</td></tr><tr><td>MELD 25\~39</td><td align="center">✅ 최대 이득</td></tr><tr><td>MELD >50</td><td align="center">⚠️ 매우 신중</td></tr><tr><td>Lille ≤0.45 (7일 반응)</td><td align="center">✅ 4주 유지</td></tr><tr><td>Lille >0.45 (비반응)</td><td align="center">❌ 중단, 간이식 평가</td></tr></tbody></table>
 
 * **prednisolone** 40 ㎎/d po × 4주, 이후 2주간 점진적 감량 <mark style="color:blue;">\[소론도]</mark>
 * 또는 **methylprednisolone** 32 ㎎/d IV × 4주 (경구 불가 시) <mark style="color:blue;">\[메치론]</mark>
@@ -377,8 +370,8 @@ K70.4 알코올성 간부전
 
 * 🚫 **술은 한 모금도 마시지 마세요** - '조금은 괜찮겠지'라는 생각이 재발의 시작입니다.
 * 🥗 **균형 잡힌 식사**를 규칙적으로 드세요. 단백질(살코기, 달걀, 두부)을 충분히 섭취하세요.
-* 💊 **처방된 비타민(티아민, 엽산)**을 빠짐없이 복용하세요 - 알코올이 체내 비타민을 고갈시킵니다.
-* 🚫 **아세트아미노펜(타이레놀류)**은 **음주 중 절대 복용하지 마세요.** 술을 마시는 상태에서 복용하면 소량이라도 간에 심각한 손상을 줄 수 있습니다. 금주 중에는 의료진과 상의 후 1일 2 g 이하로 제한적으로 사용하세요.
+* 💊 \*\*처방된 비타민(티아민, 엽산)\*\*을 빠짐없이 복용하세요 - 알코올이 체내 비타민을 고갈시킵니다.
+* 🚫 \*\*아세트아미노펜(타이레놀류)\*\*은 **음주 중 절대 복용하지 마세요.** 술을 마시는 상태에서 복용하면 소량이라도 간에 심각한 손상을 줄 수 있습니다. 금주 중에는 의료진과 상의 후 1일 2 g 이하로 제한적으로 사용하세요.
 * 🚫 건강 보조 식품, 한약, 각종 간 건강 제품도 의사와 먼저 상의 후 드세요.
 * ☀️ **가벼운 걷기 운동**을 매일 30분씩 실천하세요 - 근육을 유지하는 것이 회복에 도움이 됩니다.
 
@@ -391,12 +384,12 @@ K70.4 알코올성 간부전
 
 #### <mark style="color:$primary;">변비를 조심하세요 — 간성 뇌병증의 숨은 유발 요인</mark>
 
-* 간경변증이 있는 분은 변비가 생기면 장내 암모니아가 과다 흡수되어 **간성 뇌병증(의식 혼탁)**이 악화될 수 있습니다.
+* 간경변증이 있는 분은 변비가 생기면 장내 암모니아가 과다 흡수되어 \*\*간성 뇌병증(의식 혼탁)\*\*이 악화될 수 있습니다.
 * 간성 뇌병증이 반드시 음주 때문에만 생기는 것이 아닙니다 — 변비, 감염, 탈수도 흔한 유발 요인입니다.
 * 매일 규칙적인 배변을 하도록 노력하시고, 변비가 2\~3일 이상 지속되면 즉시 주치의와 상의하세요.
 
 #### <mark style="color:$primary;">정기 추적 검사가 왜 필요한가요?</mark>
 
-* 간경변증이 있으면 **간암(간세포암)**이 발생할 수 있습니다 — 초기에는 증상이 없어 정기 검사 없이는 발견이 어렵습니다.
-* **6개월마다 복부 초음파 + 혈액검사(AFP)**를 받으시면 간암을 조기에 발견할 수 있습니다.
+* 간경변증이 있으면 \*\*간암(간세포암)\*\*이 발생할 수 있습니다 — 초기에는 증상이 없어 정기 검사 없이는 발견이 어렵습니다.
+* \*\*6개월마다 복부 초음파 + 혈액검사(AFP)\*\*를 받으시면 간암을 조기에 발견할 수 있습니다.
 * 식도·위 정맥류 여부를 확인하기 위한 **내시경 검사**도 의사 지시에 따라 정기적으로 받으세요.
