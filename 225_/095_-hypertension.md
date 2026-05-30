@@ -54,7 +54,7 @@
 * 정의 : 진료실 혈압 ≥140/90 ㎜Hg & 진료실 외 주간 활동 혈압 ＜135/85 ㎜Hg
 * 유병률 : 진료실 진단 고혈압 환자의 17%; 조절되지 않는 고혈압 환자의 21%; 여성, 비만도가 낮은 인구에서 흔함 \[대한고혈압학회]
 * 예후 : 5년 이내 단기적인 임상 경과는 비교적 양호; 장기적으로 고혈압으로 진행하거나 심/뇌혈관 질환이 발병할 위험이 있음
-* 진료실에서 1기 고혈압(140~~159 ㎜Hg/90~~99 ㎜Hg)인 경우 일시적 혈압 상승의 감별을 요함; 활동 or 가정혈압 측정 권고
+* 진료실에서 1기 고혈압(140\~159 ㎜Hg/90\~99 ㎜Hg)인 경우 일시적 혈압 상승의 감별을 요함; 활동 or 가정혈압 측정 권고
   * 외래의 의료진이 없는 빈 방 등에서 휴식하면서 전자 혈압계로 측정하면 백의 효과가 줄어든다는 보고가 있음
 * 조치 : CV risk, 표적 장기 손상(target organ damage. hypertension-mediated organ damage(HMOD)) 평가, 생활 습관 개선. 매년 또는 자주(3\~6개월마다) 혈압 측정; 약물 치료는 하지 않음(HMOD or CV risk가 높은 환자에서 고려)
   * 고혈압 치료 상태에서는 HT with white coat effect 또는 white coat uncontrolled HT으로 표현
@@ -105,9 +105,7 @@
 
 #### 기립성 저혈압 또는 체위성 저혈압 (Orthostatic hypotension)
 
-* 앉거나 누운 자세에서 일어선 후 3분 이내 SBP ≥20 ㎜Hg or DBP ≥10 ㎜Hg 하락, 또는 SBP가
-
-＜90 ㎜Hg으로 저하되면서 관련 증상이 발생하는 상태 (☞ p.500)
+* 앉거나 누운 자세에서 일어선 후 3분 이내 SBP ≥20 ㎜Hg or DBP ≥10 ㎜Hg 하락, 또는 SBP가 ＜90 ㎜Hg으로 저하되면서 관련 증상이 발생하는 상태 (☞ p.500)
 
 ## 원인
 
@@ -150,10 +148,15 @@ RAI = 레닌-안지오텐신 억제제. _정규식 부하, 식염수 주입, flu
 
 ## 진단
 
-```
-![image](images/90c6bc7c-4e8f-4d36-983b-c91c41f564f0.png)
-```
 
+
+<table><thead><tr><th>구분</th><th>SBP</th><th width="60.631591796875"></th><th>DBP</th><th>ESH/ISH (2023)</th><th>AHA (2017)</th></tr></thead><tbody><tr><td><strong>정상 혈압</strong>¹⁾</td><td>&#x3C;120</td><td>&#x26;</td><td>&#x3C;80</td><td>Optimal</td><td>Normal</td></tr><tr><td><strong>주의 혈압</strong></td><td>120~129</td><td>&#x26;</td><td>&#x3C;80 / 80~84</td><td>Normal</td><td>Elevated</td></tr><tr><td><strong>고혈압 전단계</strong></td><td>130~139</td><td>or</td><td>80~89 / 85~89</td><td>High normal</td><td>Grade 1 HT</td></tr><tr><td><strong>고혈압 1기</strong></td><td>140~159</td><td>or</td><td>90~99</td><td>Grade 1 HT</td><td>Grade 2 HT</td></tr><tr><td><strong>고혈압 2기</strong></td><td>≥160</td><td>or</td><td>≥100</td><td>Grade 2 HT²⁾</td><td>—</td></tr></tbody></table>
+
+¹⁾ 심혈관 질환의 발병 위험이 가장 낮은 최적 혈압.  ²⁾ ≥180/110 시 Grade 3 HT로 분류.
+
+
+
+*
 * ≥1주(\[ESH] 1\~4주) 간격으로 ≥2회 방문 측정하여 모두 고혈압 기준에 해당되면 진단
 
 •≥180/110 ㎜Hg, 혈압 관련 증상, HMOD, CVD 등이 있는 경우에는 바로 진단 가능
