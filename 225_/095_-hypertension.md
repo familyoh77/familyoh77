@@ -134,6 +134,10 @@ RAI = 레닌-안지오텐신 억제제. _정규식 부하, 식염수 주입, flu
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한고혈압학회, 고혈압 진료지침, 2022.</mark></em></p>
 
+**연령별 2차성 고혈압 원인 \[2023 ESH]**
+
+<table data-header-hidden><thead><tr><th width="306.4210205078125"></th><th width="90.1053466796875"></th><th width="90.4210205078125"></th><th width="90.3157958984375"></th><th width="90.1053466796875"></th><th width="79.5789794921875"></th></tr></thead><tbody><tr><td><strong>질환명</strong></td><td><strong>1~12세</strong></td><td><strong>13~18세</strong></td><td><strong>19~40세</strong></td><td><strong>41~65세</strong></td><td><strong>>65세</strong></td></tr><tr><td>Mild aortic syndrome</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Coartation of aorta</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Renal parenchymal disease</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Renovascular(RV) HT - FMD</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>RV HT - Atherosclerotic Dz.</td><td></td><td></td><td></td><td>●</td><td>●</td></tr><tr><td>Monogenic disorders</td><td>●</td><td>●</td><td>●</td><td></td><td></td></tr><tr><td>Pheochromocytoma &#x26; paraganglioma</td><td></td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Primary aldosteronism</td><td></td><td></td><td>●</td><td>●</td><td></td></tr><tr><td>Cushing Synd.</td><td></td><td></td><td></td><td>●</td><td></td></tr></tbody></table>
+
 #### 심뇌혈관 질환의 위험 인자 \[대한고혈압학회]
 
 * 연령 : 남 ≥45세, 여 ≥55세; ≥65세은 2개의 위험 인자로 간주
@@ -164,8 +168,8 @@ RAI = 레닌-안지오텐신 억제제. _정규식 부하, 식염수 주입, flu
 
 <table><thead><tr><th width="108">구분</th><th width="99.57891845703125">의료기관</th><th width="99.5789794921875">HBPM*</th><th width="114.31585693359375">주간 ABPM</th><th width="114.3157958984375">야간 ABPM</th><th>24시간 ABPM</th></tr></thead><tbody><tr><td><strong>정상 혈압</strong></td><td>120/80</td><td>120/80</td><td>120/80</td><td>100/65</td><td>115/75</td></tr><tr><td><strong>고혈압</strong></td><td>140/90</td><td>135/85</td><td>135/85</td><td>120/70</td><td>130/80</td></tr><tr><td><strong>중증 고혈압</strong></td><td>160/100</td><td>145/90</td><td>145/90</td><td>140/85</td><td>145/90</td></tr></tbody></table>
 
-HBPM/ABPM = Home/Ambulatory BP monitoring\
-\*HBPM은 진료실 측정 혈압보다 평균 12/7 ㎜Hg 낮음
+_HBPM/ABPM = Home/Ambulatory BP monitoring_\
+_\*HBPM은 진료실 측정 혈압보다 평균 12/7 ㎜Hg 낮음_
 
 ### 혈압 측정
 
@@ -212,14 +216,14 @@ B[진료실 혈압 측정]
 #### 측정 방법
 
 1. 측정 자세 : 등받이에 등을 기대고 다리를 꼬지 않은 상태에서 발이 바닥에 닿게 앉음
-   1. 등받이가 없는 의자에서 측정 시 DBP 6 ㎜Hg, 다리를 꼰 상태에서 측정 시 SBP 2\~8 ㎜Hg, 팔이 지지되지 않은 상태에서 측정 시 \~10% 상승됨
+   * 등받이가 없는 의자에서 측정 시 DBP 6 ㎜Hg, 다리를 꼰 상태에서 측정 시 SBP 2\~8 ㎜Hg, 팔이 지지되지 않은 상태에서 측정 시 \~10% 상승됨
 2. 커프 감기 : 맨팔 또는얇은 옷 위에, cuff 하단이 위팔의 팔꿈치 주름(elbow crease) 2\~3 ㎝ 상부에 위치하도록 감음
 3. 팔의 위치 : mid-arm이 심장 높이(흉골의 중간 부위)가 되고 팔을 힘이 들어가지 않게 약간 구부려 책상 위에 얹어 놓은 상태에서 측정(✽팔이 심장 높이보다 아래에 위치하면 혈압이 높게 측정됨)
 4. 측정 : 손목 맥박이 사라지고 나서 20\~30 ㎜Hg 더 올린 후 매 박동 또는 1초마다 2 ㎜Hg 정도로 서서히 감압하며 측정, 분명한 심박동음이 들리기 시작하는 Korotkoff 음 1기를 SBP로, 심박동음이 사라지는 Korotkoff 음 5기를 DBP로 정함 (2 ㎜Hg 단위로 기록)
-   1. 0 ㎜Hg까지 감압하였는데도 심박동음이 들리는 경우(예: 임신, 동맥-정맥 단락, 만성 대동맥판 폐쇄부전)에는 심박동음이 갑자기 작아지는 시기를 DBP으로 정함
+   * 0 ㎜Hg까지 감압하였는데도 심박동음이 들리는 경우(예: 임신, 동맥-정맥 단락, 만성 대동맥판 폐쇄부전)에는 심박동음이 갑자기 작아지는 시기를 DBP으로 정함
 5. 반복 측정 : 1\~2분(또는 30초) 간격으로 2회 측정하여 평균을 냄(또는 30초)(✽\[ISH] 3회 측정하여 2nd & 3rd 측정치의 평균을 냄); 부정맥이 있으면 3회 이상 측정하여 평균을 냄
 6. 양팔 측정 : 처음에는 양팔 모두 측정하고 높은 쪽 혈압을 기준으로 판정하며, 일관되게 ＞10 ㎜Hg 높은 쪽이 있으면 이후 측정은 높은 쪽 팔에서 시행
-   1. 양팔의 혈압 차이가 지속적으로 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg이면 대동맥 축착증과 상지동맥 질환의 가능성을 확인해야 함
+   * 양팔의 혈압 차이가 지속적으로 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg이면 대동맥 축착증과 상지동맥 질환의 가능성을 확인해야 함
 7. 맥박 측정 : 맥박수를 함께 측정하여 기록하고, 심방세동 등 부정맥의 가능성을 확인함
 
 #### 측정 유의 사항
@@ -247,15 +251,9 @@ B[진료실 혈압 측정]
 #### 스마트 워치를 이용한 혈압 측정
 
 * 안정 휴식 등 자가 혈압 측정의 일반적 방법을 적용 (※정확도 5±8 ㎜Hg)
-*   스마트 워치 스트랩은 손목을 너무 조이지 않으면서 충분히 손목과 밀착되도록 착용하고, 팔을 약간 구부린 상태로
-
-    심장 높이의 책상 등에 올려 놓고 측정
-*   보정 : 스마트 워치 혈압 앱을 실행시킨 상태에서 위팔 혈압계를 착용하고 혈압을 측정하여 측정값을 혈압 측정 앱에
-
-    입력하여 보정(3\~5회 반복); 주기적으로 재보정
-*   다음의 경우 권하지 않음 : SBP ≥160 ㎜Hg or ≤80 ㎜Hg , 대동맥 판막 폐쇄 부전증, 심방세동, 혈류가 약한 말초 혈관
-
-    질환, 당뇨병, 심근병증, 말기 신부전, 손 떨림, 혈액 응고 장애, 항혈소판제/항응고제 복용, 임신
+* 스마트 워치 스트랩은 손목을 너무 조이지 않으면서 충분히 손목과 밀착되도록 착용하고, 팔을 약간 구부린 상태로 심장 높이의 책상 등에 올려 놓고 측정
+* 보정 : 스마트 워치 혈압 앱을 실행시킨 상태에서 위팔 혈압계를 착용하고 혈압을 측정하여 측정값을 혈압 측정 앱에 입력하여 보정(3\~5회 반복); 주기적으로 재보정
+* 다음의 경우 권하지 않음 : SBP ≥160 ㎜Hg or ≤80 ㎜Hg , 대동맥 판막 폐쇄 부전증, 심방세동, 혈류가 약한 말초 혈관 질환, 당뇨병, 심근병증, 말기 신부전, 손 떨림, 혈액 응고 장애, 항혈소판제/항응고제 복용, 임신
 
 #### 활동 혈압 측정
 
@@ -292,7 +290,7 @@ B[진료실 혈압 측정]
 
 #### 기본 검사
 
-※ 적어도 진단 시점 및 매년 재검; K과 Cr은 1년에 최소 1\~2번 측정
+　※ 적어도 진단 시점 및 매년 재검; K과 Cr은 1년에 최소 1\~2번 측정
 
 * 12-유도 심전도
 * 소변검사 : 단백뇨, 혈뇨, 당뇨병
@@ -313,14 +311,14 @@ B[진료실 혈압 측정]
 * 맥파전달속도 측정
 * 안저 검사(당뇨병에서는 필수)
 * 24시간 소변 단백뇨 : 소변 시험지봉 검사에서 단백뇨(+) 시 고려
-* cystatin C : s-Cr으로 신 기능을 평가하는데 어려움이 있는 경우 측정하고 이를 이용한 eGFR을 함께 평가; 임상적으로 근육양이 많은 젊은 환자에서 s-Cr이 높게 측정되는 경우 또는근육양이 적은 노인 환자에서 콩팥 기능 장애를 진단할 때 유용 (☞ p.607)
+* [cystatin C](../227_/109_.md#cystatin-c) : s-Cr으로 신 기능을 평가하는데 어려움이 있는 경우 측정하고 이를 이용한 eGFR을 함께 평가; 임상적으로 근육양이 많은 젊은 환자에서 s-Cr이 높게 측정되는 경우 또는근육양이 적은 노인 환자에서 콩팥 기능 장애를 진단할 때 유용&#x20;
 
 #### 확대 검사
 
 * 무증상 장기 손상에 대한 뇌, 심장, 콩팥, 혈관 검사
 * 이차성 고혈압의 진단을 위한 검사
   * \[ACC/AHA] 권고 선택 검사 : 심초음파, 요산, 소변 Alb/Cr ratio
-* 심혈관 사망률을 예측하는 무증상 표적 장기 손상 지표 : ① (미세)알부민뇨, ② 경동맥-대퇴 맥파 전달 속도 증가, ③ 좌심실비대, ④ 경동맥 플라크
+* 심혈관 사망률을 예측하는 무증상 표적 장기 손상 지표 : ⓵ (미세)알부민뇨, ⓶ 경동맥-대퇴 맥파 전달 속도 증가, ⓷ 좌심실비대, ⓸ 경동맥 플라크
 * 단백뇨↑와 GFR↓가 모두 있는 경우에 어느 하나만 있는 경우보다 심혈관 및 신질환 위험이 크게 증가함
 
 ### 고혈압의 표적 장기 손상
@@ -350,80 +348,136 @@ B[진료실 혈압 측정]
 
 #### 목표 혈압
 
-좋아요! 요청하신 대로 **Guideline별 4개의 표**로 나누어 정리했습니다.
+**대한고혈압학회 (2022)**
 
-***
+<table><thead><tr><th width="329.73681640625">대상</th><th width="150.105224609375">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>중위험도 HT, 고령, 중위험도 DM, 알부민뇨(↑), CKD, 뇌졸중</td><td>&#x3C;140/90</td><td>—</td></tr><tr><td>임신 (대학약학회)</td><td>&#x3C;150/80~100</td><td>methyldopa, labetalol</td></tr><tr><td>고위험도 HT, 고위험도 DM, 심혈관질환¹⁾, CKD with 알부민뇨 or DM, 열공성 뇌경색</td><td>&#x3C;130/80</td><td>알부민뇨 동반 시 ACEI/ARB</td></tr></tbody></table>
 
-#### 🩺 **대한고혈압학회 (2022)**
+　_¹⁾ 심혈관질환: 관상동맥질환, 말초혈관질환, 복부대동맥류, 심부전, 좌심실비대_\
+　_²⁾ 1차 선택제는 근거된 내용만 기재_
 
-| 대상                                                      | 목표 혈압        | 1차 선택제                |
-| ------------------------------------------------------- | ------------ | --------------------- |
-| 중위험도 HT, 고령, 중위험도 DM, 알부민뇨(↑), CKD, 뇌졸중                 | <140/90      | —                     |
-| 임신 (대학약학회)                                              | <150/80\~100 | methyldopa, labetalol |
-| 고위험도 HT, 고위험도 DM, 심혈관질환¹), CKD with 알부민뇨 or DM, 열공성 뇌경색 | <130/80      | 알부민뇨 동반 시 ACEI/ARB    |
+**ESH (2023)**&#xB3;⁾
 
-***
+<table><thead><tr><th width="382.36846923828125">대상</th><th width="210.10528564453125">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General (18~64세)</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>65~79세 (치료에 잘 견디는 경우)</td><td>&#x3C;140/80 (130/80)</td><td>—</td></tr><tr><td>65~79세 수축기 단독 고혈압 (치료에 잘 견디는 경우)</td><td>SBP 140~150 (130~139)</td><td>—</td></tr><tr><td>≥80세 (치료에 잘 견디는 경우)</td><td>140~150/&#x3C;80 (130~139)</td><td>—</td></tr></tbody></table>
 
-#### 🇪🇺 **ESH (2023)**
+　_³⁾ ESH는 SBP <120 또는 DBP <70을 목표로 하지 않음_
 
-| 대상                                | 목표 혈압                   | 1차 선택제 |
-| --------------------------------- | ----------------------- | ------ |
-| General (18\~64세)                 | <130/80                 | —      |
-| 65\~79세 (치료에 잘 견디는 경우)            | <140/80 (130/80)        | —      |
-| 65\~79세 수축기 단독 고혈압 (치료에 잘 견디는 경우) | SBP 140\~150 (130\~139) | —      |
-| ≥80세 (치료에 잘 견디는 경우)               | 140\~150/<80 (130\~139) | —      |
+**ACC/AHA (2017)**
 
-***
+<table><thead><tr><th width="281.5262451171875">대상</th><th width="120.26312255859375">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General ≥65세</td><td>&#x3C;130</td><td>—</td></tr><tr><td>CVD(또는 10년 위험도⁴⁾ ≥10%), 당뇨</td><td>&#x3C;130/80</td><td>thiazide diuretics, CCB, ACEI/ARB</td></tr><tr><td>Heart failure</td><td>&#x3C;130</td><td>diuretics</td></tr><tr><td>CKD</td><td>&#x3C;130/80</td><td>ACEI (알부민뇨 동반 시)</td></tr><tr><td>2차 stroke/TIA 예방</td><td>&#x3C;130/80⁵⁾</td><td>thiazide + (ACEI/ARB)</td></tr></tbody></table>
 
-#### 🇺🇸 **ACC/AHA (2017)**
+　_⁴⁾ ASCVD 10년 위험도 계산: ACC Risk Estimator_\
+　_⁵⁾ 이전에 고혈압이 없었던 경우 <140/90에서는 약물 치료 권고 안 함_
 
-| 대상                       | 목표 혈압     | 1차 선택제                            |
-| ------------------------ | --------- | --------------------------------- |
-| General ≥65세             | <130      | —                                 |
-| CVD(또는 10년 위험도 ≥10%), 당뇨 | <130/80   | thiazide diuretics, CCB, ACEI/ARB |
-| Heart failure            | <130      | diuretics                         |
-| CKD                      | <130/80   | ACEI (알부민뇨 동반 시)                  |
-| 2차 stroke/TIA 예방         | <130/80⁵) | thiazide + (ACEI/ARB)             |
+**ADA (2023)**
 
-***
+<table><thead><tr><th width="272.894775390625">대상</th><th width="139.15789794921875">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>ASCVD(+) 또는 10년 위험도 ≥15%</td><td>&#x3C;130/80</td><td>알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB</td></tr><tr><td>고혈압이 건강한 당뇨 환자</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>임신부</td><td>&#x3C;110~135/85</td><td>—</td></tr></tbody></table>
 
-#### 🇺🇸 **ADA (2023)**
+**고혈압 치료 계획** (대한고혈압학회. 2022)
 
-| 대상                       | 목표 혈압        | 1차 선택제                          |
-| ------------------------ | ------------ | ------------------------------- |
-| ASCVD(+) 또는 10년 위험도 ≥15% | <130/80      | 알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB |
-| 고혈압이 건강한 당뇨 환자           | <130/80      | —                               |
-| 임신부                      | <110\~135/85 | —                               |
+```mermaid
+graph TD
+    %% 노드 정의 (ID[표시될 텍스트])
+    S1[혈압 측정 및 기본 검사]
+    S2{140/90 mmHg 이상<br/>또는 의심}
+    S3[가정혈압 또는 24시간 활동혈압]
+    
+    S4[이차성 고혈압 의심]
+    S5[심뇌혈관 위험도 평가*]
+    S6[백의고혈압 또는 일시적 고혈압]
+    
+    S7[이차성 고혈압 진단]
+    S8[저위험군]
+    S9[중위험군, 고위험군 1기]
+    
+    S10[원인에 따른 치료]
+    S11[생활 요법 또는 약물 치료]
+    S12[생활 요법 및 약물 치료]
+    S13[생활 요법 및 추적 관찰]
 
-***
-
-**주석 요약** 1️⃣ 심혈관질환: 관상동맥질환, 말초혈관질환, 복부대동맥류, 심부전, 좌심실비대\
-2️⃣ 1차 선택제는 근거된 내용만 기재\
-3️⃣ ESH는 SBP <120 또는 DBP <70을 목표로 하지 않음\
-4️⃣ ASCVD 10년 위험도 계산: ACC Risk Estimator\
-5️⃣ 이전에 고혈압이 없었던 경우 <140/90에서는 약물 치료 권고 안 함
-
-***
-
-이 표는 각 기관의 **혈압 목표치와 치료 접근 방식의 차이**를 명확히 보여줍니다.
-
-* **대한고혈압학회:** 위험군 중심 맞춤 관리
-* **ESH:** 연령별 단계적 접근
-* **ACC/AHA:** 조기 개입과 예방 중심
-* **ADA:** 당뇨·심혈관 위험 통합 관리
-
-원하신다면 각 가이드라인의 **치료 전략 비교**나 **약물 선택 기준**도 함께 정리해드릴까요?
-
-
-
+    %% 흐름 연결
+    S1 --> S2
+    S2 -- 예 --> S3
+    S2 -- 아니오 --> S13
+    
+    S3 --> S4
+    S3 --> S5
+    S3 --> S6
+    
+    S4 --> S7
+    S4 --> S5
+    S7 --> S10
+    
+    S5 --> S8
+    S5 --> S9
+    
+    S8 --> S11
+    S9 --> S12
+S6 --> S5
+        S6 --> S13
 ```
 
-![image](images/b3b1b03e-df8e-4480-be19-dac6e96e63da.JPG)
+\*심뇌혈관 위험도 평가 : 위험 인자, 무증상 장기 손상, 심혈관 질환 유무 평가
 
-![image](images/93008463-4d0e-42d5-bcb5-9548e4d2e6b7.JPG)
+**혈압의 정도와 심뇌혈관 위험도에 따른 단일 또는 병용 억제 선택** (대한고혈압학회. 2022)
+
+```mermaid
+graph TD
+    Start["고혈압 정도와 심뇌혈관 위험 평가"]
+    
+    Step1["1기 고혈압"]
+    Step2["2기 고혈압 또는 고위험"]
+    
+    Single["단일 약제"]
+    Dual1["소량 2제 병용*"]
+    
+    Change["다른 계열 약으로 변경"]
+    Increase["용량 증가"]
+    
+    Dual2["소량 2제 병용*"]
+    
+    IncEach["각 계열별 약 용량 증가*"]
+    AddThird["세 번째 계열 추가*"]
+    
+    ChangeDiff["기전이 다른 계열로 변경*"]
+    Triple["3제 병용 및 용량 증가*"]
+
+    %% 흐름 연결
+    Start --> Step1
+    Start --> Step2
+    
+    Step1 --> Single
+    Step2 --> Dual1
+    
+    Single --> Dual1
+    Single --> Change
+    Single --> Increase
+    
+    Dual1 --> IncEach
+    Dual1 --> AddThird
+    
+    Change --> Dual2
+    Increase --> Dual2
+    
+    Dual2 --> IncEach
+    Dual2 --> ChangeDiff
+    
+    IncEach --> ChangeDiff
+    AddThird --> Triple
+    ChangeDiff --> Triple
 ```
 
-비-약물 치료
+**심뇌혈관 위험도와 치료 지침** (대한고혈압학회. 2022)
+
+다음은 이미지의 내용을 표로 정리한 것입니다.
+
+<table><thead><tr><th width="197.2105712890625">구분</th><th width="150">고혈압전단계</th><th width="204.421142578125">1기 고혈압</th><th>2기 고혈압</th></tr></thead><tbody><tr><td><strong>동반 위험 인자 0개</strong></td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>동반 위험 인자 1~2개</strong></td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>동반 위험 인자 ≥3개, DM &#x26; 동반 위험 인자 ≥1개, 무증상 장기 손상</strong></td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>심뇌혈관질환, 만성콩팥병</strong></td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
+
+　¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위험 인자가 생기거나, 자주 추적 관리가 어려운 경우 조기 약물 치료 고려\
+　²⁾ 단백뇨 또는 당뇨병성 신질환이 있는 경우 치료 지연 금지
+
+※ 10년간 CVD 발생률 기준 : <mark style="background-color:blue;">저위험: <5%,</mark> <mark style="color:orange;background-color:yellow;">중저위험: 5\~10%,</mark> <mark style="background-color:$warning;">중위험: 10\~15%,</mark> <mark style="background-color:$danger;">고위험: ≥15%</mark>
+
+## <mark style="color:green;">비-약물 치료</mark>
 
 ### 생활 요법 및 효과
 
