@@ -1,541 +1,739 @@
-# 협심증 Angina Pectoris
+# 협심증 (협심통) Angina Pectoris
 
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
-* 관상동맥병(coronary artery disease, CAD) : 관상동맥의 죽상 경화성 협소에 기인하는 심근 허혈 질환; stable angina, acute coronary syndrome
-* 협심증(angina pectoris) : 심근 허혈로 야기되는 흉부 불편감 또는 통증 등의 임상 증후군
-* 안정 협심증(stable angina) : 특정 수준의 활동(예: 계단 오르기, 성 관계) 또는 감정적 스트레스, 추운 날씨, 과식 등의 상황에서 발생하는 협심증. 보통 이전 attack과 비슷한 수준의 증상 발생; 죽상경화증에 2차적인 관상동맥의 폐쇄에 의해 발생(보통 ＞70%의 stenosis). 안정 또는 nitroglycerin 투여로 호전
-* 불안정 협심증(unstable angina) : 휴식 시 발생, 새롭게 발생, 또는 빈도/중증도/기간 등이 악화되는 협심증; MI 및 cardiac death 위험 증가 상태
-* Prinzmetal angina(= variant angina, vasospastic angina) : 휴식(흔히 추위 노출, 밤) 시 발생, 종종 순환적(몇 초간의 흉통과 무증상 기간이 교대로 반복); coronary artery spasm에 기인; ECG상 ST-segment elevation; 심실 부정맥 위험
-* 미세혈관 협심증(microvascular angina=syndrome X) : 협심증 증상(+), exercise test(+), coronary spasm(-), coronary angiogram 정상; 관상동맥 미세 순환에서 endothelium 의존 확장의 결함과 연관된 심근 관류 조절의 변화와 허혈; MI 및 cardiac death 위험 증가 상태(2%)
-* Acute coronary syndrome : 심근의 산소 요구량에 비하여 심근에 대한 혈액 공급이 부족하여 발생하는 증상군; MI, unstable angina
-* 전형적 협심증 (typical angina) : 임상 양상에서 전형적 특징 3가지를 모두 지님
-* 비전형 협심증 (atypical angina) : 전형적 특징 중 2가지 해당
-* 비심장성 흉통 (non-cardiac chest pain) : 전형적 특징이 없거나 1가지만 해당
-* 협심증 유사 증상 (angina equivalent) : 힘든 활동 또는 스트레스와 관련하여 흉부 불편감이나 통증은 없이 호흡 곤란, 발한, 피로감, 트림, 어지럼, 구역, 소화불량, 복통 등의 비특이적 증상이 발생;; 여성, 고령, 당뇨병 환자에서 더 흔히 발생 (☞ p.19)
-* 유병률\[우리나라] : 27.9%(남 44.7%, 여 55.3%); 사망 순위 2위- 심장 질환(1위- 암)
+* **관상동맥병(coronary artery disease, CAD)** : 관상동맥의 죽상경화성 협소에 기인하는 심근 허혈 질환; stable angina, acute coronary syndrome 포함
+* **만성 관상동맥병(chronic coronary disease, CCD)** : 이전의 "stable ischemic heart disease(SIHD)" 개념을 대체하는 광의의 용어 \[AHA/ACC 2023]; 폐쇄성/비폐쇄성 CAD, 이전 MI/재관류술, 비침습적 검사로 진단된 허혈성 심장병, 만성 협심 증후군 등 포함
+* **안정 협심증(stable angina)** : 특정 수준 이상의 활동(예: 계단 오르기, 성관계) 또는 감정적 스트레스, 추운 날씨, 과식 등의 상황에서 반복 발생하는 협심증; 이전 attack과 비슷한 강도; 관상동맥의 해부학적 협착 또는 기능적 허혈(FFR ≤0.80, iFR ≤0.89)에 의해 발생하며, 반드시 고도 협착(＞70%)이 존재하는 것은 아님; 안정 또는 nitroglycerin 투여로 호전
+* **불안정 협심증(unstable angina)** : 휴식 시 발생, 새롭게 발생, 또는 빈도/중증도/기간이 악화되는 협심증; MI 및 cardiac death 위험 증가 상태
+* **Prinzmetal angina(= variant angina, vasospastic angina)** : 휴식(흔히 추위 노출, 야간) 시 발생; 관상동맥 연축(coronary artery spasm)에 기인; ECG상 ST-segment elevation; 심실 부정맥 위험; 흔히 순환적(흉통과 무증상 기간이 교대로 반복)
+* **ANOCA/INOCA** : 폐쇄성 관상동맥 질환이 없는 협심증(Angina/Ischemia with No Obstructive Coronary Arteries); 과거에는 양성 질환으로 여겨졌으나, 최근 연구에서 MACE, HFpEF, 반복 입원 위험 증가가 확인됨; 여성에서 상대적으로 흔함
 
-#### Angina 분류 \[Canadian Cardiovascular Society]
+{% hint style="info" %}
+**ANOCA/INOCA 구조**
 
-<table data-header-hidden><thead><tr><th width="96.78948974609375"></th><th width="428.21051025390625"></th><th></th></tr></thead><tbody><tr><td><strong>Class</strong></td><td><strong>증상 유발 활동 강도</strong></td><td><strong>일상생활 제한</strong></td></tr><tr><td><strong>I</strong></td><td>7~8 METS의 힘든 활동 (조깅, 힘든 집안일)</td><td>제한 없음</td></tr><tr><td><strong>II</strong></td><td>5~6 METS의 활동 (>2블록(340 m) 걷기, 한 층 올라가기)</td><td>약간 제한</td></tr><tr><td><strong>III</strong></td><td>3~4 METS의 활동 (1~2블록 걷기, 한 층 올라가기)</td><td>상당한 제한</td></tr><tr><td><strong>IV</strong></td><td>1~2 METS의 활동(휴식 중)에도 증상 발생</td><td>모든 활동 제한</td></tr></tbody></table>
+ANOCA (Angina with No Obstructive Coronary Artery Disease)\
+├─ **Vasospastic angina (Prinzmetal angina)** : 심외막 관상동맥의 연축에 의한 허혈; CCB 1차 선택, **β-차단제 금기**\
+├─ **INOCA** (Ischemia with No Obstructive Coronary Arteries; 미세혈관 기능장애)\
+│   └─ **미세혈관 협심증(microvascular angina)** : 관상동맥 미세 순환의 endothelium 의존 확장 결함; coronary angiogram 정상; ACEi/statin 조기 치료 권고\
+└─ **비허혈성 협심증** : endothelial dysfunction, 내장 감각 과민 등
 
-## 원인
+✽ Vasospastic angina는 심외막 관상동맥의 연축이 기전으로, 미세혈관 기능장애를 주축으로 하는 INOCA와는 별개의 기전; 치료 접근이 다름
+{% endhint %}
 
-* 관상동맥 죽상경화증, 대동맥판 협착증, 폐고혈압, 비대심근병증, 관상동맥연축, 판막심장병, 미세 혈관 질환, endothelial dysfunction, volume overload
+* **Acute coronary syndrome(ACS)** : 심근 산소 공급 부족으로 발생하는 증후군; STEMI, NSTEMI, unstable angina 포함
+* **전형적 협심증(typical angina)** : 아래 전형적 특징 3가지를 모두 충족
+* **비전형 협심증(atypical angina)** : 전형적 특징 중 2가지 해당
+* **비심장성 흉통(non-cardiac chest pain)** : 전형적 특징이 없거나 1가지만 해당
+* **협심증 유사 증상(angina equivalent)** : 힘든 활동/스트레스와 관련하여 흉통 없이 호흡 곤란, 발한, 피로감, 구역, 소화불량, 복통 등의 비특이적 증상 발생; 여성, 고령, 당뇨병 환자에서 더 흔함 (☞ [흉통](../220_/002_-chest-pain.md))
+* **유병률\[우리나라]** : 27.9%(남 44.7%, 여 55.3%); 사망 순위 2위 — 심장 질환(1위 — 암)
 
-### 위험 인자
+### <mark style="color:orange;">Angina 분류 \[Canadian Cardiovascular Society, CCS]</mark>
 
-* 흡연, 과음, 스트레스, 비활동
-* 비만, 조절되지 않는 고혈압/당뇨병, 이상지질혈증(HDL↓, LDL↑)
-* 중년 남성, 노년 여성
-* 1대 내 조기(남 ＜55세, 여 ＜65세) CAD 발생 가족력
-*   뇌졸중, Lupus, Takayasu Dz, Kawasaki Dz, 말초 혈관 질환, RA, CKD,
+<table><thead><tr><th width="90">Class</th><th width="430">증상 유발 활동 강도</th><th>일상생활 제한</th></tr></thead><tbody><tr><td><strong>I</strong></td><td>7~8 METs의 힘든 활동 (조깅, 힘든 집안일)</td><td>제한 없음</td></tr><tr><td><strong>II</strong></td><td>5~6 METs의 활동 (＞2블록(340 m) 걷기, 한 층 올라가기)</td><td>약간 제한</td></tr><tr><td><strong>III</strong></td><td>3~4 METs의 활동 (1~2블록 걷기, 한 층 올라가기)</td><td>상당한 제한</td></tr><tr><td><strong>IV</strong></td><td>1~2 METs 이하 활동 또는 휴식 시에도 증상 발생</td><td>모든 활동 제한</td></tr></tbody></table>
 
-    갑상선항진증, 발열, 심한 빈혈, 적혈구증가증, 심한 폐질환(저산소증),
-* vasospasm 유발 약물 : cocaine, amphetamine
+## <mark style="color:green;">원인 및 위험 인자</mark>
 
-※ 우리나라: \[여성] 결혼 상태, 교육, 주관적 건강 상태, 비만도, 총 콜레스테롤, LDL-C, , 고혈압, 우울증, RA; \[남성] 흡연, 음주, 스트레스, 공복 혈당, TG, WBC, 낮은 HDL-C, 심근경색, DM
+### <mark style="color:orange;">직접 원인</mark>
 
-## 임상 양상
+* 관상동맥 죽상경화증 (가장 흔함), 관상동맥 연축, 미세혈관 질환, endothelial dysfunction
+* 기타 : 대동맥판 협착증, 비대 심근병증, 폐고혈압, 판막심장병, volume overload
 
-#### 전형적 특징&#x20;
+### <mark style="color:orange;">위험 인자</mark>
 
-(☞ 흉통)
+* **생활 습관** : 흡연, 과음, 스트레스, 신체 활동 부족
+* **대사 인자** : 비만, 조절되지 않는 고혈압/당뇨병, 이상지질혈증(HDL↓, LDL↑), 고 Lipoprotein(a)
+* **인구학적** : 중년 남성, 노년 여성
+* **가족력** : 1대 내 조기 CAD 발생 (남 ＜55세, 여 ＜65세)
+* **동반 질환** : 뇌졸중, 말초혈관 질환, CKD, RA, SLE, Takayasu동맥염, Kawasaki병, 갑상선항진증, 중증 빈혈, 적혈구증가증, 중증 폐질환(저산소증)
+* **vasospasm 유발 약물** : cocaine, amphetamine
 
-1. 흉부 증상 : 흉골 뒤 조임감, 압박감, 무게감, 작열감; 2\~15분 정도 지속¹⁾; 턱/등/팔로 방사²⁾
-2. 어떤 수준 이상의 힘든 작업이나 운동, 정서적 스트레스에 의해 유발
-3. 휴식 또는 nitroglycerin 설하 투여로 30초\~수 분 이내 호전
+{% hint style="info" %}
+우리나라 특이 위험 인자: \[여성] 결혼 상태, 교육 수준, 주관적 건강 상태, 비만, 총 콜레스테롤, LDL-C, 고혈압, 우울증, RA; \[남성] 흡연, 음주, 스트레스, 공복 혈당, TG, 낮은 HDL-C, 심근경색, DM
+{% endhint %}
+
+## <mark style="color:green;">임상 양상</mark>
+
+### <mark style="color:orange;">전형적 특징</mark>
+
+(☞ [흉통](../220_/002_-chest-pain.md))
+
+1. **흉부 증상** : 흉골 뒤 조임감, 압박감, 무게감, 작열감; 2~15분 정도 지속¹⁾; 턱/등/팔로 방사²⁾
+2. **유발 요인** : 어떤 수준 이상의 힘든 작업이나 운동, 정서적 스트레스
+3. **완화 요인** : 휴식 또는 nitroglycerin 설하 투여로 30초~수 분 이내 호전
 
 _¹⁾ 20분 이상 지속될 수 있음. ²⁾ Positive likelihood ratio : 왼쪽 2.3, 오른쪽 2.9, 양쪽 7.1_
 
-* sharp or stabbling pain은 드묾, 보통 자세나 호흡에 따라 달라지지 않음&#x20;
-* 20분 이상 지속되는 경우 acute coronary syndrome 가능성이 높음
+* Sharp or stabbing pain은 드묾; 보통 자세나 호흡에 따라 달라지지 않음
+* 20분 이상 지속되는 경우 ACS 가능성이 높음
 
-#### 기타 증상
+### <mark style="color:orange;">기타 증상</mark>
 
-* 호흡 곤란, 구역, 구토, 땀 흘림, 추운 느낌, 어지럼
+* 호흡 곤란, 구역, 구토, 발한, 추운 느낌, 어지럼
 
-※ 당뇨병 환자, 고령에서는 흉통 등 전형적 증상 없이 호흡 곤란, 피로, 식은땀 등만 있을 수 있음; 여성은 비전형적 흉통/불편감 호소가 남성보다 많음(65%에서 보고됨)
+{% hint style="info" %}
+당뇨병 환자, 고령에서는 흉통 등 전형적 증상 없이 호흡 곤란, 피로, 식은땀 등만 있을 수 있음; 여성은 비전형적 흉통/불편감 호소가 남성보다 많음(65%에서 보고됨)
+{% endhint %}
 
-#### 고령에서의 특징
+### <mark style="color:orange;">고령에서의 특징</mark>
 
 * 비전형적 증상을 보임; 호흡 곤란 및 비특이적 증상만 나타날 수 있음
 * 육체 활동이 저하되어 있어 발견이 지연될 수 있음
 * 치료 약제에 대한 부작용이 민감하게 발생할 수 있음
 
-### 홍통의 Red flags
+{% hint style="danger" %}
+⚠️ **흉통이 없다고 해서 협심증을 배제할 수 없다** — 고령, 당뇨병, 여성 환자에서는 전형적 흉통 없이 호흡 곤란, 피로, 소화불량 등 angina equivalent만 나타날 수 있음; 비전형 증상도 협심증으로서 적극 평가 필요
+{% endhint %}
 
-* 협심증 병력이 있는 사람에서 발생한 원인 불명의 흉통
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
+
+* 협심증 병력이 있는 환자에서 휴식 시 또는 이전보다 적은 활동 중에 증상 발생 (불안정 협심증 의심)
+* Nitroglycerin 2~3회 설하 투여 또는 휴식으로도 흉통이 호전되지 않음 (MI 의심)
+* 잿빛 피부색, 급격한 발한, 청색증
+* 활력징후 이상 : 저혈압, 빈맥 또는 서맥, 빈호흡
+* 정신 상태 변화, 혼돈, 쇼크 징후
+* 새로 발견된 심잡음 (mechanical complication 의심)
+* Pulsus paradoxus (흡기 시 SBP ＞10 mmHg 감소)
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 협심증 병력이 있는 환자에서 발생한 원인 불명의 흉통
 * 통증으로 인하여 잠에서 깨어남
-* 휴식 또는 이전에 비해 적은 활동 중에 증상 발생
-* 잿빛 피부색, 발한
-* 호흡 곤란, 비대칭적 호흡음 또는 박동
-* 정신 상태 변화, 혼돈, shock
-* nitroglycerin 2\~3회 설하 투여 또는 휴식으로 호전 안 됨
-* 새로 발견된 심잡음
-* vital sign 이상: 빠른 맥 또는 느린 맥, 빠른 호흡, 저혈압
-* pulsus paradoxus (흡기 시 SBP > 10 mmHg ↓)
+* 비대칭적 호흡음 또는 맥박
+* 새로운 호흡 곤란이 동반된 흉통
+* 혈압이 조절되지 않거나 처음으로 심전도 이상이 발견된 경우
 
-## 진단
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">— 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-### 검사
+* 협심증 위험 인자가 복수인 비전형 흉통
+* 운동 시 유발되는 흉통이 생활 습관 개선 후에도 지속
+* 여성 또는 고령 환자에서 반복되는 비특이적 증상 (angina equivalent 가능성)
 
-* 평가 단계 : ⓵ CAD 위험 요소 평가, ⓶ functional capacity 및 stress test 결, ⓷ 양 심실 기능, ⓸ coronary anatomy
-* &#x20;임상 또는 기능 상태의 변화가 없는 경우 일률적인 해부학적 또는 허혈성 검사는 위험 계층화 또는 CCD 환자의 치료적 의사 결정을 위한 목적으로는 권고 않음 \[AHA/ACC(2023)]
+## <mark style="color:green;">진단</mark>
 
-#### 신체검사
+### <mark style="color:orange;">Pre-test Probability (PTP) 평가</mark>
+
+흉통 환자에서 CAD 사전 검사 확률(PTP)을 먼저 추정하여 검사 전략을 결정 \[AHA/ACC 2021 Chest Pain Guideline]
+
+<table><thead><tr><th width="160">PTP</th><th width="220">해석</th><th>권장 전략</th></tr></thead><tbody><tr><td><strong>＜15%</strong></td><td>CAD 가능성 낮음</td><td>추가 검사 없이 임상 추적 가능; 위험 인자 관리에 집중</td></tr><tr><td><strong>15~85%</strong></td><td>중간 가능성</td><td>CCTA (CAD 미확진) 또는 기능 검사 (기존 CAD 있을 시)</td></tr><tr><td><strong>＞85%</strong></td><td>CAD 가능성 매우 높음</td><td>Stress imaging 또는 invasive coronary angiography 직접 고려</td></tr></tbody></table>
+
+{% hint style="info" %}
+PTP는 연령, 성별, 흉통 유형(전형적/비전형/비심장성)을 조합하여 추정함. 당뇨, 흡연, 이상지질혈증 등 위험 인자가 있으면 상향 보정
+{% endhint %}
+
+### <mark style="color:orange;">검사 전략 — CCTA vs Stress Test</mark>
+
+<table><thead><tr><th width="220">상황</th><th>우선 고려 검사</th></tr></thead><tbody><tr><td>CAD 미확진, 중간 PTP (15~85%)</td><td>CCTA 선호 (음성 예측도 높음; 40세 이하에서는 PTP가 낮아 불필요한 경우 많음)</td></tr><tr><td>CAD 미확진, 비교적 젊은 성인 (40~60세)</td><td>CCTA (해부학적 확인에 유리)</td></tr><tr><td>기존 CAD 존재</td><td>Stress imaging (기능적 허혈 평가)</td></tr><tr><td>재협착 또는 이식 혈관 평가</td><td>Stress imaging</td></tr><tr><td>허혈 정도 정량화 필요</td><td>Stress imaging (MPI, stress echo)</td></tr><tr><td>비침습 검사 모호 → revascularization 고려</td><td>Invasive angiography ± FFR/iFR</td></tr></tbody></table>
+
+### <mark style="color:orange;">신체 검사</mark>
 
 * 고혈압, arcus senilis, xanthelasma, carotid or peripheral bruit, prominent S4, murmur
 * 많은 환자들이 정상 이학적 소견을 보임
 
-#### 실험실 검사
+### <mark style="color:orange;">실험실 검사</mark>
 
-* cardiac enzyme(예: troponin) : 증상 발생 후 즉시 및 3\~6시간 후 검사
-* CBC, lipid profile, HbA1c, RFT, 전해질
-* 선택 : TFT, CRP, fibrinogen, homocysteine, prothrombin, brain natriuretic peptide
+* **hs-Troponin** : 증상 발생 후 즉시 및 1~3시간 후 재검사 (고감도 프로토콜); 불안정 협심증에서는 정상일 수 있음 — 음성이라도 ACS를 완전히 배제하지 못함
+* CBC, lipid profile, HbA1c, 신기능(eGFR), 전해질
+* **Lipoprotein(a)** : 모든 CAD 환자에서 평생 1회 측정 권고 \[AHA/ACC 2023] — 독립적 심혈관 위험 인자; 상승 시 PCSK9i 치료 근거 강화
+* **선택적** : TFT, hs-CRP, fibrinogen, homocysteine, NT-proBNP / BNP
 
-#### 심전도
+{% hint style="info" %}
+**잔여 염증 위험(Residual Inflammatory Risk)** : LDL-C 목표 달성 후에도 hs-CRP ≥2 mg/L이면 잔여 염증 위험이 지속되는 것으로 판단; colchicine 추가 또는 생활 습관 집중 관리 고려
+{% endhint %}
 
-* 증상 발생 후 즉시 & 10\~30분 후 검사 (✽협심증 환자의 ＞50%에서 안정 시 정상 ECG를 보임)
-* 선택 : stress test(예: treadmill test)
+### <mark style="color:orange;">심전도</mark>
 
-#### 영상 검사
+* **증상 발생 후 즉시 및 10~30분 후 재검사** — 초기 ECG 정상이라도 반복 검사 필수
+* 협심증 환자의 ＞50%에서 안정 시 정상 ECG를 보임
+* **선택적** : 부하 심전도 검사 (treadmill test)
+
+### <mark style="color:orange;">영상 검사</mark>
 
 * 흉부 X선
-* 선택 : CT, 심초음파, nuclear heart scanning, 심근 관류 영상
+* **선택적** : Coronary CT angiography(CCTA), 심초음파, nuclear heart scanning(심근 관류 영상), 심장 MRI
 
-### 급성 심근경색의 가능성 추정 인자
+### <mark style="color:orange;">급성 심근경색 가능성 추정 인자</mark>
 
-#### 가능성 증가
+#### <mark style="color:$primary;">가능성 증가</mark>
 
-* 압박감, Levine’s sign(✽증상을 묘사할 때 가슴 위에 주먹을 얹고 있음)
-* 활동 또는 운동과 관련; 활동 시 호흡 곤란
-* 같은 자리에 같은 증상이 발생함
-* 심근경색 병력자에서 과거 앓았던 심근경색 증상과 유사하거나 그 보다 심함
+* 압박감, Levine's sign (증상을 묘사할 때 가슴 위에 주먹을 얹고 있음)
+* 활동/운동과 관련, 활동 시 호흡 곤란 동반
+* 같은 자리에 같은 증상이 반복 발생
+* 과거 MI 병력자에서 동일하거나 더 심한 증상
 * 심호흡 또는 자세에 영향을 받지 않음
-* 발한, 구역, 구토, (우측 &/or 좌측) 어깨/팔 방사통 동반
+* 발한, 구역, 구토, 어깨/팔 방사통 동반
 
-#### 가능성 감소
+#### <mark style="color:$primary;">가능성 감소</mark>
 
-* localization : 환자가 증상 위치를 국소적으로 지적할 수 있음
-* 날카로운 통증, 짧은 흉통, 늑막성 흉통
+* 환자가 증상 위치를 국소적으로 지적할 수 있음
+* 날카로운 통증, 짧은 흉통(수초), 늑막성 흉통
 * 왼쪽 유방 아래에 느껴지는 둔하고 지속되는 통증
-* 증상 부위에 염증이 있음
+* 증상 부위에 압통이 있음
 * 체위 변화에 영향을 받음
-* 압박으로 증상이 재현됨
-* ＞20분 지속
 
-### 흉통의 비-심장성 원인
+### <mark style="color:orange;">감별 진단 — 흉통의 비심장성 원인</mark>
 
 (☞ [흉통](../220_/002_-chest-pain.md))
 
 ***
 
-## Management
+```mermaid
+graph TD
+    A([흉통 환자]) --> B[ACS 배제\nECG + hs-Troponin]
+    B --> C{PTP 추정}
 
-### 치료 방침 \[ACC/AHA/ACP-ASIM 권고안]
+    C -- 낮음 < 15% --> D[추가 검사 불필요\n위험 인자 관리]
+    C -- 중간 15~85% --> E{CAD 기왕력?}
+    C -- 높음 > 85% --> F[Stress imaging\n또는 ICA 직접 고려]
 
-* Aspirin & Antianginal therapy (nitrate)&#x20;
-* B-blocker & Blood pressure (Hypertension)&#x20;
-* Cigarette smoking & Cholesterol
-* Diet & Diabetes
-* Education & Exercise
+    E -- 없음 --> G[CCTA\n해부학적 평가]
+    E -- 있음 --> H[Stress imaging\n기능적 허혈 평가]
 
-#### Approach to Diagnosis and Management of Stable Angina
+    G --> I{CAD 확인?}
+    H --> I
+    F --> I
 
-_Ref. Diagnosis and management of stable angina: A Review. JAMA. 2021;325(17). Fig 2_
+    I -- 아니오 --> D
+    I -- 예 --> J[GDMT 시작\n항혈소판 + Statin + 항협심증제]
+    J --> K{증상 지속?}
+    K -- 아니오 --> L[4~6개월 간격 추적]
+    K -- 예 --> M[ICA ± FFR/iFR\nPCI 또는 CABG 고려]
 
-**1. Acute coronary syndrome 및 비심장성 흉통 배제**
+    classDef decision fill:#fff9c4,stroke:#f9a825
+    classDef action fill:#e1f5fe,stroke:#0277bd
+    classDef start fill:#f9f9f9,stroke:#555
+    classDef safe fill:#e8f5e9,stroke:#388e3c
+    class C,E,I,K decision
+    class B,F,G,H,J,M action
+    class A start
+    class D,L safe
+```
 
-* 환자의 상세 병력 및 신체검사 : 증상이 삶의 질에 미치는 영향, 심부전 or 판막 질환 징후 여부, CAD 가능성 평가
+<p align="center"><strong>Stable Chest Pain 진단 및 치료 알고리듬</strong></p>
 
-**2. CAD의 objective risk marker 평가**
+<p align="center"><em><mark style="color:$info;">Ref. AHA/ACC 2021 Chest Pain Guideline; AHA/ACC 2023 CCD Guideline</mark></em></p>
 
-* ECG : LBBB 및 major ST- or T-wave 이상, 과거 경색 or LVH 확인
-* 심초음파 고려 : LV systolic dysfunction, 판막 이상 확인
-* 기타 위험성 결정을 위한 실험실 검사 고려 : 신 기능, 당뇨, 이상지질혈증, 심장 손상(hs-cTnT, NT-proBNP)
+***
 
-**3. CVA 해부학 or 기능 검사 고려**
+## <mark style="background-color:$warning;">Management</mark>
 
-* coronary CT angiography : CAD 관찰, left main or 3-vessel disease 배제
-* stress testing : 기능 평가를 원하는 경우, 알려진 CAD가 있는 경우
-* invasive angiography : 비침습적 검사에서 모호한 결과에 대한 추가 평가, coronary revascularization 적합 여부 확인
-*   검사 보류 대상 : 증상이 드물고 삶의 질에 큰 영향이 없으며 ECG, 심초음파, hs-cTnT or NT-proBNP 검사 상
+### <mark style="color:orange;">치료 목표</mark>
 
-    고위험 소견 없음
+1. 심혈관 사건(MI, 심장 사망) 예방 — 생존율 향상
+2. 협심증 증상 완화 — 삶의 질 향상
+3. 심혈관 위험 인자의 최적 관리
 
-**4. Stable angina 관리**
+### <mark style="color:orange;">치료 방침 \[AHA/ACC 2023 — ABCDEF 프레임워크]</mark>
 
-* optimal medical therapy 시작
-  * 2차 예방 약물 : 심혈관 사고 위험 감소를 위하여 고강도 statin, 저용량 aspirin
-  * 항협심증 약물 : 삶의 질 향상을 위하여 β-blocker, CCB, nitrates
-  * 당뇨병 환자 : SGLT2i or GLP-1 RA 고려
-* 항협심증 치료 조정 : 증상, 부작용, 심박수, 혈압에 기초하여 결정
-* coronary artery bypass graft&#x20;
-  * 대상 : left main or triple vessel disease가 있는 당뇨병 환자 or LV systolic dysfunction
-* percutaneous coronary intervention : 지속되는 삶의 질을 해치는 협심증에서 고려
+<table><thead><tr><th width="90">항목</th><th width="220">핵심 내용</th><th>주요 치료</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>Antiplatelet / Anticoagulation</td><td>Aspirin 81 mg (출혈 고위험 시 clopidogrel 단독 대체 가능)</td></tr><tr><td><strong>B</strong></td><td>Blood pressure / Beta-blocker</td><td>목표 BP ＜130/80 mmHg; β-차단제 (MI 후 1년 이내, 심부전, AF 등 적응증 있을 때)</td></tr><tr><td><strong>C</strong></td><td>Cholesterol / Cigarette smoking</td><td>고강도 statin; LDL-C ＜70 mg/dL (초고위험 ＜55); 금연</td></tr><tr><td><strong>D</strong></td><td>Diet / Diabetes</td><td>지중해식 식이; SGLT2i or GLP-1RA (DM 동반 Class I; DM 없어도 LVEF ≤40% 시 SGLT2i)</td></tr><tr><td><strong>E</strong></td><td>Exercise / Education</td><td>심장재활(CR) 프로그램 참여 강력 권고 (Class I)</td></tr><tr><td><strong>F</strong></td><td>Follow-up / Flu vaccination</td><td>정기 외래 추적; 인플루엔자 예방 접종 매년 (Class I)</td></tr></tbody></table>
 
-## 약물 치료
+### <mark style="color:orange;">CCD 이차 예방 목표 요약</mark>
 
-* ≤1회/주 발생 시 → 운동 등 증상 유발 활동 전 및 증상 발생 시 nitroglycerin 설하 투여 및 규칙적 약물 복용 고려
-* ≥2회/주 발생 시 → 장기 작용 항협심증제 투여 고려 (예: 지속형 nitrate, β-차단제)
-* 한 가지 약물 복용 중 증상 지속 시 → 약물 추가 고려
-* 두 가지 약물 복용 중 증상 지속 시 → 약물 추가 또는 수술 치료 고려
-* 1차 선택제 : β-차단제, 칼슘 통로 차단제, Nitrate
+<table><thead><tr><th width="200">항목</th><th>목표</th></tr></thead><tbody><tr><td>LDL-C</td><td>＜70 mg/dL (초고위험 ＜55 mg/dL)</td></tr><tr><td>혈압</td><td>＜130/80 mmHg</td></tr><tr><td>HbA1c</td><td>개별화 (일반적으로 ＜7%)</td></tr><tr><td>운동</td><td>≥150분/주 (중등 강도 유산소)</td></tr><tr><td>금연</td><td>필수</td></tr><tr><td>Statin</td><td>고강도 (atorvastatin 40~80 mg 또는 rosuvastatin 20~40 mg)</td></tr><tr><td>항혈소판</td><td>Aspirin 81 mg 또는 clopidogrel 75 mg</td></tr><tr><td>예방 접종</td><td>Influenza 매년; Pneumococcal 적응증 확인</td></tr></tbody></table>
 
-### [β-차단제](095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb)
+### <mark style="color:orange;">Stable Angina 접근 \[AHA/ACC 2023]</mark>
 
-* 작용 : β-receptor에 대한 catecholamine의 결합 방해 → negative inotropic effect(심박수/혈압/심장수축력↓) → 심근 산소 요구량↓, 좌심실벽 스트레스↓
-* 대상 : 운동 또는 활동 중 증상 발생, 심근 손상 또는 심부전이 있는 환자, 최근에 심장 발작을 겪은 환자
-* MI 후 최소 2\~3년간 권고
-* 지난 1년간 MI 병력, LV ejection fraction(LVEF) ≤50%, 또는 β-차단제 치료의 다른 적응증이 없는 CCD 환자에 대한 β-차단제 장기 치료를 권고하지 않음
-* 휴식 시 맥박이 55\~60/분이 되도록 용량 조절
-* 부작용 : 피로, 발기 부전, 수족냉증, 파행 악화, 서맥, 방실 전도 장애, 좌심실 부전, 천식
-* 금기 : 2\~3도 전도 장애, 중증 심부전, 말초혈관 질환, 기관지 천식, COPD, sick sinus syndrome, 레이노병, 심한 우울증
-* cardio-selective β1-차단제 선호
-  * intrinsic sympathomimetic activity가 있는 약제는 심박수를 줄이는 작용이나 휴식 시 혈압 강하 작용이 없기 때문에 피함. 예) celiprolol
-  * 심장 선택성 제제도 과량 사용 시 모든 β-수용체에 작용 함
-* 약물 중단 시 2주 동안 tapering : β-차단제는 β-수용체 밀도를 증가시키므로 갑작스런 사용 중단 시 catecholamine에 대한 일시적인 과민 상태를 만들어 허혈성 심질환을 유발할 수 있음
-* atenolol : 신장 기능 저하자에서 주의; 25\~200 ㎎/d \[테놀민]
-* metoprolol : 25\~400 ㎎/d \[푸로롤 서방]
-* carvedilol : α-차단 작용도 있어 혈관 확장에 유리; 6.25\~50 ㎎/d \[딜라트렌 에스알]
+**1단계 — ACS 및 비심장성 흉통 배제**\
+상세 병력 및 신체검사: 증상이 삶의 질에 미치는 영향, 심부전/판막 질환 징후, PTP 기반 CAD 가능성 평가
 
-### 칼슘차단제
+**2단계 — CAD의 객관적 위험 평가**
+* ECG : LBBB, major ST-/T-wave 이상, 과거 경색, LVH
+* 심초음파 고려 : LV systolic dysfunction, 판막 이상
+* 실험실 검사 : 신기능, 당뇨, 이상지질혈증, hs-cTnT, NT-proBNP, Lipoprotein(a)
 
-* 작용 : 동맥 확장, 관상동맥 혈류 개선, 심근의 산소 요구량↓
-* 대상 : Prinzmetal’s angina, 증상이 있는 말초혈관 질환
-* β-차단제 대체 또는 추가 용도로 투여
-* long-acting 제제만 사용
+**3단계 — 해부학적 or 기능 검사 고려** (PTP 기반 선택, 위 표 참조)\
+검사 보류 대상 : 증상이 드물고 삶의 질 영향이 없으며 ECG, 심초음파, hs-cTnT, NT-proBNP 고위험 소견 없음
 
-#### DHP계 CCB
+**4단계 — 최적 약물 치료(GDMT) 시작**
+* **2차 예방 약물** : 고강도 statin, 저용량 aspirin
+* **항협심증 약물** : β-차단제, CCB, nitrate
+* **당뇨병 동반** : SGLT2i or GLP-1RA (Class I); LVEF ≤40% 시 당뇨 유무 무관하게 SGLT2i
+* **잔여 염증 위험** : Low-dose colchicine 0.5 mg qd 고려 (COR 2b)
 
-* β-차단제 + nitrate로 효과가 부족한 경우 β-차단제 + DHP계 CCB로 대체 고려
-* 부작용 : 안면 홍조, 두통, 말초 부종
-* amlodipine : 5\~10 ㎎/d \[노바스크]
-* felodipine : 5\~10 ㎎/d \[무노발]
-* nifedipine : angina 치료 목적 사용 시 MI 유발 가능성이 보고됨; 30\~90 ㎎/d \[아달라트]
+**5단계 — 혈관 재관류 고려**
+* **CABG** : left main or triple-vessel disease + DM or LV systolic dysfunction; 복잡한 다혈관 질환(SYNTAX score 높음) 시 CABG 선호
+* **PCI** : 최적 약물 치료에도 삶의 질을 해치는 협심증이 지속되는 경우 고려
 
-#### non-DHP계 CCB
+## <mark style="color:green;">비약물 치료 및 예방</mark>
 
-* 작용 : negative chronotropic & negative inotropic effect가 있어 심근 산소 요구량을 보다 낮춤
-* 부작용 : 전도 장애, 서맥성 부정맥, 변비, 말초 부종
-* 금기 : 방실 전도 장애, 울혈성 심부전, EF ＜40%; β-차단제와 병용 금지
-* diltiazem : 120\~480 ㎎/d \[헤르벤 서방]
-* verapamil : 120\~480 ㎎/d \[이솦틴 서방]
+### <mark style="color:orange;">기저 질환 관리</mark>
 
-### 상태에 따른 β-차단제 또는 CCB 권고
+* 고혈압 (☞ [고혈압](095_-hypertension.md)), 당뇨병 (☞ 당뇨병 챕터), 이상지질혈증 (☞ [이상지질혈증](099_-dyslipidemia.md)) 관리
 
-**의학적 상태**
+### <mark style="color:orange;">금연 및 음주 제한</mark>
 
-<table data-header-hidden><thead><tr><th width="249.4210205078125"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>상태</strong></td><td><strong>추천 (대체)</strong></td><td><strong>금기</strong></td></tr><tr><td>전신성 고혈압</td><td>BB (CCB)</td><td></td></tr><tr><td>편두통 또는 혈관성 두통</td><td>BB (n-CCB)</td><td></td></tr><tr><td>천식, 기관지수축성 COPD</td><td>n-CCB</td><td>BB</td></tr><tr><td>갑상선항진증</td><td>BB</td><td></td></tr><tr><td>레이노병</td><td>L-CCB</td><td>BB</td></tr><tr><td>인슐린 의존성 당뇨</td><td>BB¹⁾, L-CCB</td><td></td></tr><tr><td>인슐린 비의존성 당뇨</td><td>BB, L-CCB</td><td></td></tr><tr><td>우울증</td><td>L-CCB</td><td>BB</td></tr><tr><td>경도 말초혈관 질환</td><td>BB, CCB</td><td></td></tr><tr><td>중증 말초혈관 질환</td><td>CCB</td><td>BB</td></tr></tbody></table>
+* 금연 : 전자담배는 장기 안전성 자료 부족; 금연의 1차 방법으로 권고하지 않음
+* 음주 제한 (☞ 음주 챕터)
 
-**심장 부정맥 및 전도 장애**
+### <mark style="color:orange;">체중 관리</mark>
 
-<table data-header-hidden><thead><tr><th width="266.26312255859375"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>상태</strong></td><td><strong>추천 (대체)</strong></td><td><strong>금기</strong></td></tr><tr><td>동성 서맥</td><td>L-CCB</td><td>BB, n-CCB</td></tr><tr><td>심부전과 무관한 동성빈맥</td><td>BB</td><td></td></tr><tr><td>상심실성 빈맥</td><td>n-CCB, BB</td><td></td></tr><tr><td>방실차단</td><td>L-CCB</td><td>n-CCB</td></tr><tr><td>심방세동 (디지털리스 복용 중)</td><td>n-CCB, BB</td><td></td></tr><tr><td>심실 부정맥</td><td>BB</td><td></td></tr></tbody></table>
+* 목표 : 현재 체중에서 5~10% 감량; 최종 목표 — BMI ＜25 kg/m² (☞ 비만 챕터)
 
-**좌심실부전 (울혈성 심부전)**
+### <mark style="color:orange;">식이 조절</mark>
 
-<table data-header-hidden><thead><tr><th width="267.3157958984375"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>상태</strong></td><td><strong>추천 (대체)</strong></td><td><strong>금기</strong></td></tr><tr><td>경도 (심박출율 > 40%)</td><td>BB</td><td></td></tr><tr><td>심박출율 &#x3C; 40%</td><td>D-CCB²⁾ (nitrate)</td><td>n-CCB</td></tr></tbody></table>
+* **권장** : 지중해식 식이 (과일/채소, 콩류/견과류, 통곡류, 살코기, 복합 탄수화물, 식이섬유, 올리브유, 생선)
+* **제한** : 포화지방 (1일 열량의 ≤6%), 소금 (4~6 g/d), 가공육, 정제 탄수화물, 설탕 첨가 음료, 알코올
+* **금지** : 트랜스지방 (쇼트닝/hydrogenated oil)
 
-**좌측 심장판막 질환**
+### <mark style="color:orange;">운동</mark>
 
-| **상태**      | **추천 (대체)** | **금기**         |
-| ----------- | ----------- | -------------- |
-| 경도 대동맥 판막협착 | BB          |                |
-| 대동맥 판막부전증   | L-CCB       |                |
-| 승모 판막부전증    | L-CCB       |                |
-| 승모 판막협착증    | BB          |                |
-| 비대 심근병증     | BB, n-CCB   | nitrate, D-CCB |
+* 모든 CCD 환자에게 **심장재활(cardiac rehabilitation, CR) 프로그램** 참여를 강력 권고 \[AHA/ACC 2023 Class I]; 실제 임상에서 환자 참여율이 낮으므로 처방 시 적극적 안내와 동기 부여 필요
+* 유산소 운동 : 중등 강도(예: 빠르게 걷기)로 1일 30~60분씩, 주 5일 이상 (총 ≥150분/주)
+* 저항 훈련 : 주 2회
+* 최대 심박수의 70%를 넘지 않는 강도; 운동 부하 검사로 개인별 한계 확인
 
-_BB=β-차단제, n-CCB=non-DHP CCB (verapamil, diltiazem),_ \
-_D-CCB=DHP CCB, L-CCB=long acting CCB_
+### <mark style="color:orange;">스트레스 관리</mark>
 
-_¹⁾ 반응성 병력이 있는 경우. ²⁾ amlodipine, felodipine 사용 가능_
+* 직업/주거 환경 변화를 포함한 스트레스 감소 조치
+* 명상, 정신 상담 등 스트레스 관리
 
-_<mark style="color:$info;">Ref. 대한순환기학회, 허혈성심질환 표준진료권고안 (2007)</mark>_
+### <mark style="color:orange;">협심증 유발 활동 제한</mark>
 
-### ACE 차단제
+* 활동 강도를 능력에 맞게 조절; 급하게 서두르지 않음
+* 오전, 식사 직후, 추운 날씨에는 활동 강도를 줄임
 
-* 작용 : 혈압↓, afterload↓, MI 후 cardiac remodeling
-* 대상 : 당뇨병이 있으면서 좌심실 수축기 기능 저하가 동반된 환자
-* 부작용 : 기침, 고칼륨혈증, 혈관부종; 기침 등 부작용 있는 경우 ARB 선택
-* enalapril : 5\~40 ㎎/d \[레니프릴]
-* lisinopril : 5\~40 ㎎/d \[제스트릴]
-* ramipril : 2.5\~10 ㎎/d \[트리테이스]
+### <mark style="color:orange;">인플루엔자 예방 접종</mark>
 
-### Nitrate
+* 모든 CCD 환자에게 매년 인플루엔자 백신 접종 권고 \[AHA/ACC 2023 Class I]
 
-* 작용 : smooth muscle 이완, 혈소판 응집 방해 → 동맥/정맥 혈관 확장, preload↓, 혈압↓, 심근 산소 요구량↓ → 협심증 응급 증상 완화 및 예방
-* 부작용 : 두통, 어지럼, 저혈압 (특히 고령), 홍조
-  * 지속 복용하면 완화됨; 부작용 예방을 위하여 충분한 수분 섭취를 권고
-* 주의/금기 : hypertrophic obstructive cardiomyopathy, PDE5i 복용
+## <mark style="color:green;">약물 치료</mark>
 
-#### 속효성 제제
+* ≤1회/주 발생 → 증상 유발 활동 전 및 증상 발생 시 nitroglycerin 설하 투여; 규칙적 약물 복용 고려
+* ≥2회/주 발생 → 장기 작용 항협심증제 투여 고려 (예: 지속형 nitrate, β-차단제)
+* 한 가지 약물 복용 중 증상 지속 → 약물 추가 고려
+* 두 가지 약물 복용 중 증상 지속 → 약물 추가 또는 시술 치료 고려
+* **1차 선택제** : β-차단제, 칼슘통로차단제(CCB), Nitrate
 
-* 작용 : 증상 치료 또는 예방; 스트레스 발생 예상 5분 전 투여. 30\~40분간 유효
-* nitroglycerin : 0.3\~0.6 ㎎ 설하(입이 마른 경우 투여 전 물로 입을 축임) → 흉통이 완화되지 않을 경우 5분 간격으로 추가 투여. 단 15분 이내에 1.2 ㎎을 넘지 않도록 함 \[니트로글리세린] (✽개봉된 상태에서의 유효 기간 : 3개월)
-  * 만성 안정형 협심증 환자에서 1회 투약으로 유의하게 호전될 경우에는 5분 간격으로 최대 3회까지 반복 복용하고 증상이 완전히 없어지지 않을 경우 119 호출
+### <mark style="color:orange;">항협심증제 상황별 선택</mark>
 
-#### 지속성 제제
+<table><thead><tr><th width="220">상황</th><th>우선 선택</th></tr></thead><tbody><tr><td>빈맥 동반</td><td>β-차단제</td></tr><tr><td>서맥 동반</td><td>DHP-CCB (amlodipine 등)</td></tr><tr><td>고혈압 동반</td><td>β-차단제 또는 CCB</td></tr><tr><td>Vasospastic angina (Prinzmetal)</td><td>CCB (non-DHP 또는 DHP)</td></tr><tr><td>HFrEF (LVEF ↓)</td><td>β-차단제 (carvedilol, bisoprolol, metoprolol)</td></tr><tr><td>저혈압 경향, β-차단제 금기</td><td>Ranolazine (혈압/맥박 영향 없음)</td></tr><tr><td>COPD / 천식</td><td>Diltiazem (non-DHP CCB)</td></tr><tr><td>β-차단제 금기 + 동리듬 + HR ≥70</td><td>Ivabradine</td></tr></tbody></table>
 
-* 장기 사용 시 약제 내성 발생
-  * 내성 발생 예방법 : 최소 유효 용량 사용, 1일 8시간 이상의 nitrate-free interval 유지
-* isosorbide dinitrate : 40\~80 ㎎/d \[이소켓 서방]
-* isosorbide-5-mononitrate : 30\~240 ㎎/d \[임듈 지속]
+### <mark style="color:orange;">β-차단제</mark>
 
-### 콜레스테롤 저하제
+(☞ [고혈압 약물 치료 — β-차단제](095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
 
-* 작용 : plaque 예방 및 plaque 주위에 blood clot이 형성되는 것을 예방
-* 대상 : 지질 수준에 관계없이 CAD 환자에서 고강도 statin 권고
-* 선별된 환자에 대하여 statin에 보조제(예: esetimibe, PCSK9i, inclisiran, bempedoic acid)를 사용할 수 있음
-* 지질 관리 : CAD 고위험 환자에서는 LDL-C ＜70 ㎎/㎗을 목표로 관리 (☞ [이상지질혈증](099_-dyslipidemia.md))
-* statin + ezetimibe : CVD 예방에 대하여 임상적 증거는 불충분함
-* statin + PCSK9 억제제(예: evolocumab) : 고위험군에서 CV event를 감소시킬 가능성이 있음
+* **작용** : β-수용체에 대한 catecholamine 결합 방해 → negative inotropic effect (심박수/혈압/심장수축력↓) → 심근 산소 요구량↓
+* **적응증** : 운동/활동 중 증상 발생, 최근 MI 후, 심부전 동반, 심방세동
+* **β-차단제 장기 사용** : 과거에는 MI 후 광범위하게 권고되었으나, \[AHA/ACC 2023]에서는 최근 1년 이내 MI, LVEF ≤50%, 심부전/AF 등 다른 적응증이 없는 CCD 환자에서는 장기 지속 사용을 권고하지 않음 (**Class IIb — 선택적 사용**); 심박수 조절 및 증상 완화 정도를 기반으로 환자와 함께 지속 여부를 결정(Shared Decision Making) 권장
+* 휴식 시 맥박이 55~60회/분이 되도록 용량 조절
+* **부작용** : 피로, 발기 부전, 수족냉증, 파행 악화, 서맥, 방실 전도 장애, 기관지 수축
+* **금기** : 2~3도 전도 장애, 중증 심부전, 말초혈관 질환, 기관지 천식, COPD, sick sinus syndrome, 레이노병, 심한 우울증
+* cardioselective β₁-차단제 선호 (ISA 있는 약제 피함 — 예: celiprolol)
 
-### 항혈소판제
+{% hint style="danger" %}
+⚠️ β-차단제 갑작스런 중단 금지 — β-수용체 밀도 증가로 catecholamine에 대한 일시적 과민 상태 발생 → 허혈성 심질환 유발 위험. 중단 시 2주에 걸쳐 tapering
+{% endhint %}
 
-#### Aspirin
+* atenolol : 신기능 저하자 주의; 25~200 mg/d <mark style="color:blue;">\[테놀민]</mark>
+* metoprolol succinate : 25~400 mg/d <mark style="color:blue;">\[푸로롤 서방]</mark>
+* carvedilol : α-차단 작용도 있어 혈관 확장에 유리; 6.25~50 mg/d <mark style="color:blue;">\[딜라트렌 에스알]</mark>
+* bisoprolol : 2.5~10 mg/d <mark style="color:blue;">\[콩코르]</mark>
 
-* 작용 : 혈액 응고 예방
-* 금기 : 활동성 소화성 궤양, 국소 출혈, 출혈성 소인, aspirin 과민 반응
-* 용량 : 100(75\~162) ㎎/d \[아스피린 프로텍트] (☞ p.1154)
+### <mark style="color:orange;">칼슘통로차단제 (CCB)</mark>
 
-#### Thienopyridine
+* **작용** : 동맥 확장, 관상동맥 혈류 개선, 심근 산소 요구량↓
+* **적응증** : Prinzmetal/vasospastic angina, 증상이 있는 말초혈관 질환; β-차단제의 대체 또는 추가
+* **Long-acting 제제만 사용**
 
-* 작용 : ADP 수용체 억제, 혈소판 기능 억제 → 혈소판 활성 및 응집 방해
-* 대상 : aspirin을 사용할 수 없는 환자 (✽안정 협심증에서 aspirin보다 우월하다는 증거 없음)
-* MI 또는 percutaneous coronary intervention 후 aspirin과의 병용 고려
-* clopidogrel : 75 ㎎/d \[플라빅스]
-* prasugrel : 5\~10 ㎎/d \[에피언트]
-* ticagrelor : 90\~180 ㎎/d \[브릴린타]
-* 단기간의 dual antiplatelet therapy는 여러 상황, 특히 출혈 위험이 높고 허혈 위험이 낮거나 중간 정도일 때 안전하고 유효함; CI(경피적 관상동맥 중재술)로 치료한 CCD 환자의 경우  단일 항혈소판 치료 후 6개월 동안 aspirin과 clopidogrel 병용이 주요 출혈 및 CV event를 줄임
+{% hint style="danger" %}
+⚠️ **Prinzmetal angina(vasospastic angina)에서는 β-차단제 사용 금기** — β-차단제는 관상동맥 연축을 악화시킬 수 있음; CCB가 1차 선택제
+{% endhint %}
+
+#### <mark style="color:$primary;">DHP계 CCB</mark>
+
+* β-차단제 + nitrate로 효과 부족 시 β-차단제 + DHP계 CCB로 대체 고려
+* **부작용** : 안면 홍조, 두통, 말초 부종
+* amlodipine : 5~10 mg/d <mark style="color:blue;">\[노바스크]</mark>
+* felodipine : 5~10 mg/d <mark style="color:blue;">\[무노발]</mark>
+* nifedipine : 안정 협심증 치료 시 단독 사용 주의(MI 유발 가능성 보고); 30~90 mg/d <mark style="color:blue;">\[아달라트]</mark>
+
+#### <mark style="color:$primary;">Non-DHP계 CCB</mark>
+
+* **작용** : negative chronotropic & negative inotropic effect → 심근 산소 요구량 보다 낮춤
+* **부작용** : 전도 장애, 서맥성 부정맥, 변비, 말초 부종
+* **금기** : 방실 전도 장애, 울혈성 심부전, EF ＜40%; **β-차단제와 병용 금지**
+* diltiazem : 120~480 mg/d <mark style="color:blue;">\[헤르벤 서방]</mark>
+* verapamil : 120~480 mg/d <mark style="color:blue;">\[이솦틴 서방]</mark>
+
+### <mark style="color:orange;">동반 상태에 따른 β-차단제/CCB 선택</mark>
+
+**의학적 상태별**
+
+<table><thead><tr><th width="240">상태</th><th width="200">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>전신성 고혈압</td><td>BB (CCB)</td><td></td></tr><tr><td>편두통 또는 혈관성 두통</td><td>BB (n-CCB)</td><td></td></tr><tr><td>천식, 기관지수축성 COPD</td><td>n-CCB</td><td>BB</td></tr><tr><td>갑상선항진증</td><td>BB</td><td></td></tr><tr><td>레이노병</td><td>L-CCB</td><td>BB</td></tr><tr><td>인슐린 의존성 당뇨</td><td>BB¹⁾, L-CCB</td><td></td></tr><tr><td>인슐린 비의존성 당뇨</td><td>BB, L-CCB</td><td></td></tr><tr><td>우울증</td><td>L-CCB</td><td>BB</td></tr><tr><td>경도 말초혈관 질환</td><td>BB, CCB</td><td></td></tr><tr><td>중증 말초혈관 질환</td><td>CCB</td><td>BB</td></tr></tbody></table>
+
+**심장 부정맥 및 전도 장애별**
+
+<table><thead><tr><th width="240">상태</th><th width="200">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>동성 서맥</td><td>L-CCB</td><td>BB, n-CCB</td></tr><tr><td>심부전과 무관한 동성빈맥</td><td>BB</td><td></td></tr><tr><td>상심실성 빈맥</td><td>n-CCB, BB</td><td></td></tr><tr><td>방실차단</td><td>L-CCB</td><td>n-CCB</td></tr><tr><td>심방세동 (디지탈리스 복용 중)</td><td>n-CCB, BB</td><td></td></tr><tr><td>심실 부정맥</td><td>BB</td><td></td></tr></tbody></table>
+
+**좌심실 기능 및 판막 질환별**
+
+<table><thead><tr><th width="240">상태</th><th width="200">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>경도 심부전 (EF ＞40%)</td><td>BB</td><td></td></tr><tr><td>EF ＜40%</td><td>D-CCB²⁾ (nitrate)</td><td>n-CCB</td></tr><tr><td>경도 대동맥 판막 협착</td><td>BB</td><td></td></tr><tr><td>대동맥 판막 부전증</td><td>L-CCB</td><td></td></tr><tr><td>승모 판막 부전증</td><td>L-CCB</td><td></td></tr><tr><td>승모 판막 협착증</td><td>BB</td><td></td></tr><tr><td>비대 심근병증</td><td>BB, n-CCB</td><td>nitrate, D-CCB</td></tr></tbody></table>
+
+_BB=β-차단제, n-CCB=non-DHP CCB (verapamil, diltiazem), D-CCB=DHP CCB, L-CCB=long-acting CCB_\
+_¹⁾ 반응성 저혈당 병력이 있는 경우. ²⁾ amlodipine, felodipine 사용 가능_
+
+<mark style="color:$info;">_Ref. 대한순환기학회, 허혈성심질환 표준진료권고안 (2007); AHA/ACC 2023 반영 수정_</mark>
+
+### <mark style="color:orange;">ACE 차단제 / ARB</mark>
+
+* **작용** : 혈압↓, afterload↓, MI 후 cardiac remodeling 억제
+* **적응증** : 좌심실 수축기 기능 저하 동반, 당뇨병, 고혈압, CKD; CCD+고혈압에서 1차 선택 \[AHA/ACC 2023 Class I]
+* **부작용** : 기침(ACEi), 고칼륨혈증, 혈관부종; 기침 등 부작용 시 ARB 전환
+* enalapril : 5~40 mg/d <mark style="color:blue;">\[레니프릴]</mark>
+* lisinopril : 5~40 mg/d <mark style="color:blue;">\[제스트릴]</mark>
+* ramipril : 2.5~10 mg/d <mark style="color:blue;">\[트리테이스]</mark>
+
+### <mark style="color:orange;">Nitrate</mark>
+
+* **작용** : smooth muscle 이완 → 동맥/정맥 혈관 확장, preload↓, 혈압↓, 심근 산소 요구량↓ → 협심증 완화 및 예방
+* **부작용** : 두통, 어지럼, 저혈압(특히 고령), 홍조 — 지속 복용 시 완화; 충분한 수분 섭취 권고
+* **금기** : 비대 폐쇄성 심근병증, PDE5 억제제(sildenafil 등) 복용 환자 — 중증 저혈압 위험
+
+#### <mark style="color:$primary;">속효성 제제 (급성 발작 치료)</mark>
+
+* 증상 치료 또는 예방 (스트레스 발생 예상 5분 전 투여); 30~40분간 유효
+* nitroglycerin : 0.3~0.6 mg 설하 (입이 마른 경우 투여 전 물로 입을 축임); 흉통이 완화되지 않을 경우 5분 간격으로 추가 투여; 15분 이내 1.2 mg을 넘지 않음 <mark style="color:blue;">\[니트로글리세린]</mark>
+  * 증상이 1회 투약으로 호전될 경우 5분 간격 최대 3회; 완전히 소실되지 않으면 즉시 119 연락
+  * 개봉 후 수개월 내 교체 권장 (제조사 권고 보관 기간 준수); 빛과 열에 민감 — 차광 보관
+
+#### <mark style="color:$primary;">지속성 제제 (예방 목적)</mark>
+
+* 장기 사용 시 약제 내성 발생 — 예방법 : 최소 유효 용량, 1일 8시간 이상 nitrate-free interval 유지
+* isosorbide dinitrate : 40~80 mg/d <mark style="color:blue;">\[이소켓 서방]</mark>
+* isosorbide-5-mononitrate : 30~240 mg/d <mark style="color:blue;">\[임듈 지속]</mark>
+
+### <mark style="color:orange;">콜레스테롤 저하제</mark>
+
+* **적응증** : 지질 수준에 관계없이 CAD 환자에서 **고강도 statin** 권고
+* **목표** : LDL-C ＜70 mg/dL (CAD 고위험; 초고위험군 ＜55 mg/dL)
+* **Statin 보조제 (add-on)** : 목표 미달성 시 ezetimibe 추가; 추가 미달성 시 PCSK9 억제제(evolocumab, alirocumab) 또는 inclisiran, bempedoic acid 순차 추가
+* **Lipoprotein(a) 상승** : PCSK9 억제제가 Lp(a)도 함께 낮추므로 복합 고위험군에 유리
+* **약물 상호작용** : Atorvastatin, simvastatin 등 CYP3A4 대사 statin은 자몽주스(grapefruit juice)와 병용 금지 — statin 혈중 농도 상승으로 근병증 위험 증가
+
+(☞ [이상지질혈증](099_-dyslipidemia.md))
+
+### <mark style="color:orange;">항혈소판제</mark>
+
+#### <mark style="color:$primary;">Aspirin</mark>
+
+* **작용** : 혈소판 COX-1 불가역 억제 → 혈소판 응집 방해
+* **금기** : 활동성 소화성 궤양, 출혈 소인, aspirin 과민 반응
+* **용량** : 81(75~100) mg/d <mark style="color:blue;">\[아스피린 프로텍트]</mark>
+* 출혈 고위험 또는 aspirin 불내성 시 clopidogrel 75 mg/d 단독으로 대체 가능
+
+#### <mark style="color:$primary;">P2Y12 수용체 차단제</mark>
+
+* **작용** : ADP 수용체(P2Y12) 억제 → 혈소판 활성 및 응집 방해
+* **적응증** : aspirin 사용 불가 환자; MI 또는 PCI 후 aspirin과 병용 (DAPT)
+* **DAPT 기간** (임상 상황에 따라 개별화):
+
+<table><thead><tr><th width="220">상황</th><th>DAPT 기간 기준</th></tr></thead><tbody><tr><td>Stable CAD에서 선택적 PCI (DES)</td><td>기본 6개월; 출혈 저위험 시 12개월까지 연장 가능</td></tr><tr><td>Stable CAD에서 선택적 PCI (DES), 출혈 고위험</td><td>1~3개월 후 단일 항혈소판으로 전환 고려</td></tr><tr><td>ACS 후 PCI (DES)</td><td>원칙적으로 12개월; 출혈 고위험 시 단축 가능</td></tr><tr><td>MI 후, 출혈 저위험 + 허혈 고위험</td><td>1년 이후 DAPT 연장 최대 3년 고려 (COR 2b; ticagrelor 60 mg bid)</td></tr></tbody></table>
+
+{% hint style="info" %}
+✽ **Stable CAD에서의 elective PCI**와 **ACS 후 PCI**는 DAPT 기간의 표준이 다름 — Stable PCI는 기본 6개월, ACS 후는 기본 12개월이 원칙
+{% endhint %}
+
+* clopidogrel : 75 mg/d <mark style="color:blue;">\[플라빅스]</mark>
+* prasugrel : 5~10 mg/d <mark style="color:blue;">\[에피언트]</mark>
+* ticagrelor : 90~180 mg/d <mark style="color:blue;">\[브릴린타]</mark>
 
 ***
 
 ```mermaid
 graph TD
-    A[Stable CAD 환자] --> B[Antiplatelet therapy]
-    B --> C{최근 stent placement?}
-    
-    C -- no --> D{aspirin 금기?}
-    C -- yes --> E[Dual antiplatelet therapy<br/>aspirin + P2Y12 receptor antagonist]
-    
-    D -- no --> F[aspirin<br/>75~162 mg/d]
-    D -- yes --> G[clopidogrel<br/>75 mg/d]
-    
+    A([Stable CAD 환자]) --> B[Antiplatelet therapy]
+    B --> C{최근 stent 시술?}
+
+    C -- 아니오 --> D{aspirin 금기\n또는 출혈 고위험?}
+    C -- 예 --> E[DAPT\naspirin + P2Y12 차단제]
+
+    D -- 아니오 --> F[aspirin 81 mg/d]
+    D -- 예 --> G[clopidogrel 75 mg/d 단독]
+
     E --> H[Drug-eluting stent]
     E --> I[Bare-metal stent]
-    
-    H --> J[6~12개월간 지속]
-    I --> K[1~12개월간 지속]
 
-    style A fill:#f9f9f9
-    style B fill:#ffe6e6
-    style C fill:#fff9c4
-    style D fill:#fff9c4
-    style E fill:#e1f5fe
-    style F fill:#e1f5fe
-    style G fill:#e1f5fe
-    style H fill:#e1f5fe
-    style I fill:#e1f5fe
+    H --> J[6~12개월\n출혈 고위험 시 1~3개월 후 단일 항혈소판 전환 고려]
+    I --> K[1~3개월]
+
+    classDef decision fill:#fff9c4,stroke:#f9a825
+    classDef action fill:#e1f5fe,stroke:#0277bd
+    classDef start fill:#f9f9f9,stroke:#555
+    class C,D decision
+    class B,E,F,G,H,I,J,K action
+    class A start
 ```
 
-**Stable CAD 환자에서의 항혈소판제 알고리듬**&#x20;
+<p align="center"><strong>Stable CAD 환자에서의 항혈소판제 알고리듬</strong></p>
 
-Ref. _Stable Coronary Artery Disease: Treatment AFP 2018;97(6) Fig 1._
+<p align="center"><em><mark style="color:$info;">Ref. AFP 2018;97(6) Fig 1; AHA/ACC 2023 CCD Guideline 반영 수정</mark></em></p>
 
-### Ranolazine
+***
 
-* 2차 선택제
-* 작용 : fatty acid oxidation↓, myocyte에서 Ca overload를 줄임 → 협심증 증상↓, 운동 능력↑
-  * 혈압/맥박에 영향 없음
-* 대상 : 타 약제의 표준 치료에도 불구하고 증상이 지속되는 환자에서 추가 약제로 고려
-* 부작용 : 어지럼, 변비, 구역, 두통, QT 연장
-* 금기 : 간 기능 장애, 심장 전도 장애, CYP3A 억제 약물
-* 용법 : 500\~1,000 ㎎ bid \[라넥사] (비급여)
+### <mark style="color:orange;">Ranolazine</mark>
 
-### 기타
+* **2차 선택제** (다른 항협심증제로 조절 안 될 때 추가)
+* **작용** : late sodium channel 차단 → myocyte Ca overload 감소 → 협심증 증상↓, 운동 능력↑; **혈압/맥박에 영향 없음** — 저혈압 경향 또는 서맥 환자에서 특히 유용
+* **부작용** : 어지럼, 변비, 구역, 두통, QT 연장
+* **금기** : 간기능 장애, 심장 전도 장애, CYP3A 억제 약물 병용
+* 500~1,000 mg bid <mark style="color:blue;">\[라넥사]</mark> (비급여)
 
-#### GLP-1RA 및 SGLT2i
+### <mark style="color:orange;">Ivabradine</mark>
 
-* 당뇨병이 있는 CCD 환자에서 GLP-1RA 및 SGLT2i의 사용을 권고(주요 CV event 감소)
-* LVEF ≤40%인 CCD 환자에서 SGLT2i의 사용을 권고(CV 사망, 심부전 입원 감소)
-* 당뇨병이 없는 LVEF ＞40%인 CCD 환자에서 SGLT2i을 추가하는 것은 유효할 것으로 사료됨
+* **작용** : SA node의 funny current(If) 억제 → 심박수↓ (혈압/심수축력에 영향 없음)
+* **적응증** : 동리듬(sinus rhythm) + 안정 시 HR ≥70회/분이면서 β-차단제 금기 또는 내약성 없는 경우; LVEF ≤35% + HR ≥70인 심부전 환자 (SHIFT trial)
+* **금기** : 심방세동, 서맥(안정 시 HR ＜60회/분), sick sinus syndrome
+* 5~7.5 mg bid <mark style="color:blue;">\[프로코라란]</mark>
 
-#### Aldosterone 차단제
+### <mark style="color:orange;">GLP-1RA 및 SGLT2i</mark>
 
-* 대상 : 신부전이나 고칼륨혈증이 없는 심근경색 후 환자에서 이미 치료 용량의 ACE 차단제나 β-차단제 복용에도 불구하고 좌심실 ejection fraction ＜40%, 당뇨/심부전 동반
-* spironolactone : 25\~50 ㎎/d #2 \[알닥톤]
+* 당뇨병이 있는 CCD 환자에서 SGLT2i 또는 GLP-1RA 사용 권고 (주요 CV event 감소; **Class I**) \[AHA/ACC 2023]
+* LVEF ≤40%인 CCD 환자에서 SGLT2i 사용 권고 (CV 사망, 심부전 입원 감소; **당뇨병 유무 무관**)
+* 당뇨병이 없고 LVEF ＞40%인 CCD 환자에서 SGLT2i 추가는 고려할 수 있음 (COR 2b)
 
-#### 오메가-3
+{% hint style="info" %}
+비폐쇄성 CAD(INOCA/ANOCA) 환자에서도 미세혈관 기능 개선 및 심혈관 사건 예방을 위해 고강도 statin과 ACEi/ARB의 조기 적극 치료가 권고됨
+{% endhint %}
 
-* 대상 : 모든 허혈성 심질환 환자
-* 용법 : 1 g/d. TG 상승 시 증량 \[오마코] (☞ p.534)
-* 생선 기름, ω-3 지방산, 또는 비타민을 포함한 보충제는 CV event를 줄이는데 도움이 되지 않으므로 CCD 환자에게 권고하지 않음; ω-3는 심방세동 발생 증가와 관련이 있음. 다만 Icosapent ethyl(purified EPA only) 4g/d 투여는 심혈관 사망을 20% 감소시켰음 \[AHA/ACC(2023)]
+### <mark style="color:orange;">Aldosterone 차단제 (MRA)</mark>
 
-#### Molsidomine
+* **적응증** : 신부전 또는 고칼륨혈증이 없는 MI 후 환자; ACEi 또는 β-차단제 치료 용량에도 불구하고 LVEF ＜40% + DM/심부전 동반
+* spironolactone : 25~50 mg/d #2 <mark style="color:blue;">\[알닥톤]</mark>
 
-* 작용 : 질산염과 비슷한 약리 작용; 질산염에서 보이는 내성이 없음
-* 용법 : 2~~4 ㎎ bid~~tid \[몰시톤]
+### <mark style="color:orange;">Low-dose Colchicine</mark>
 
-#### Trimetazidine
+* **적응증** : 잔여 염증 위험이 있는 이차 예방 환자 (LDL-C 목표 달성 후에도 hs-CRP ≥2 mg/L 지속)
+* **근거** : LoDoCo2 trial — CCD 환자에서 MI 및 허혈성 재혈관화 위험 감소; COLCOT trial — ACS 후 MACE 23% 감소
+* **주의** : 비심혈관 사망 증가 신호 존재 (감염/폐렴 발생률은 유사); 감염 위험 환자에서 신중 사용
+* 0.5 mg qd (COR 2b) \[AHA/ACC 2023]
 
-* 작용 : 당 대사 활성도를 높여 항협심증 효과; 예후에 관한 연구가 부족함
-* 대상 : 단독 또는 칼슘차단제나 β-차단제와 병용
-* 용법 : 20 ㎎ tid \[바스티난]
+### <mark style="color:orange;">기타 약물</mark>
 
-#### Nicorandil
+#### <mark style="color:$primary;">Molsidomine</mark>
 
-* 작용 : 관동맥 확장 효과
-* 치료 효과에 대하여 논란. 사용 근거 미흡
-* 용법 : 10~~30 ㎎/d #2~~3 \[시그마트]
+* **작용** : nitrate와 유사한 약리 작용; nitrate 내성 없음
+* 2~4 mg bid~tid <mark style="color:blue;">\[몰시톤]</mark>
 
-#### 항-호모시스테인제
+#### <mark style="color:$primary;">Trimetazidine</mark>
 
-* 호모시스테인 증가가 관동맥, 말초혈관 및 경동맥 질환의 위험 증가와 관련됨
-* Vit B6, B12, folate : 필요시 보충
+* **작용** : 당 대사 활성도 증가 → 항협심증 효과; 예후에 관한 근거 부족
+* **적응증** : β-차단제/CCB와 병용 또는 단독
+* 20 mg tid <mark style="color:blue;">\[바스티난]</mark>
 
-#### NSAID 제한
+#### <mark style="color:$primary;">Nicorandil</mark>
 
-* 가능한 한 최소 용량으로 최소 기간 사용 또는 aspirin과 함께 투여
+* **작용** : 관동맥 확장 효과
+* 치료 효과에 대한 근거 미흡; 일부 국가에서 2차 선택제로 사용
+* 10~30 mg/d #2~3 <mark style="color:blue;">\[시그마트]</mark>
 
-#### 효과가 검증되지 않은 치료들
+#### <mark style="color:$primary;">오메가-3 (ω-3 지방산)</mark>
 
-* 마늘, 항산화제(예: Vit C/E, 베타 카로틴), 항염증 약물, HRT, chelation
+* 일반 보충제(생선 기름) : CV event 감소 효과 없음; 심방세동 발생 증가와 연관 → CCD 환자에게 권고하지 않음 \[AHA/ACC 2023]
+* **Icosapent ethyl** (purified EPA only) 4 g/d : 심혈관 사망 20% 감소 (REDUCE-IT trial) — 고TG혈증 동반 시 고려
 
-### 무증상 환자에서의 예방 약물 치료 허혈성 심질환 표준 진료
+#### <mark style="color:$primary;">항-호모시스테인제</mark>
 
-**권고수준 Class I (유용성, 효과 등 입증)**
+* Vit B6, B12, folate : 호모시스테인 상승 시 보충; CV event 직접 감소 증거는 불충분
 
-* aspirin : 심근경색의 과거력이 있는 환자에서 절대적 금기가 없는 경우
-* β-차단제 : 심근경색의 과거력이 있는 환자에서 절대적 금기가 없는 경우
-* 지질 강하제 : 증명된 관상동맥병이 있으면서 LDL-C ≥130 ㎎/㎗인 경우
+#### <mark style="color:$primary;">NSAID 사용 제한</mark>
 
-**권고수준 Class IIa (유용하다는 증거나 의견이 우세)**
+* CCD 환자에서 NSAID는 가능한 최소 용량, 최단 기간 사용
 
-* aspirin : 심근경색의 과거력이 없는 환자에서 절대적 금기가 없는 경우
-* β-차단제 : 이전 심근경색의 과거력이 없는 환자에서 절대적 금기가 없는 경우
-* 지질 강하제 : LDL-C 100\~129 ㎎/㎗로 목표치가 ＜100 ㎎/㎗인 관상동맥병이 확인되는 경우
-* ACEI : 당뇨가 있으나 심각한 신질환으로 인한 절대적 금기는 없는 모든 환자
+#### <mark style="color:$primary;">효과가 검증되지 않은 치료</mark>
 
-## 비-약물 치료 및 예방
+* 마늘, 항산화제 (Vit C/E, 베타 카로틴), HRT, chelation
 
-* 모든 CCD(chronic coronary Dz) 환자에게 건강한 식습관과 운동 등 비약물 치료를 권고
+### <mark style="color:orange;">무증상 환자에서의 예방 약물 치료</mark>
 
-#### 기저 질환 관리
+**Class I (유용성 입증)**
 
-* 고혈압(☞ p.476), 당뇨병(☞ p.540), 이상지질혈증(☞ p.524) 관리
+* Aspirin : 심근경색 병력이 있는 환자에서 절대적 금기가 없는 경우
+* β-차단제 : 심근경색 병력(최근 1년 이내)이 있거나 LVEF ≤50%, 심부전 등 적응증이 있는 경우
+* 고강도 statin : 증명된 CAD가 있고 LDL-C ≥130 mg/dL인 경우
 
-#### 금연, 음주 제한
+**Class IIa (유용하다는 증거/의견이 우세)**
 
-* 전자담배는 장기적인 안전성 자료가 부족하고 지속 사용 시의 위험성 때문에 금연의 1차 방법으로는 권고하지 않음
-* 음주 제한 (☞ p.995)
+* ACEI : 당뇨병이 있으나 심각한 신질환 금기가 없는 모든 환자
+* 지질 강하제 : LDL-C 100~129 mg/dL로 목표치 ＜100 mg/dL인 확인된 CAD
 
-#### 체중 관리, 비만 치료
+## <mark style="color:green;">시술 및 기타 처치</mark>
 
-* 목표 : 현재 체중에서 10% 감량; 최종 목표- BMI ＜25 ㎏/㎡ (☞ p.1010)
+### <mark style="color:orange;">Percutaneous Coronary Intervention (PCI)</mark>
 
-#### 식이 조절
+* **적응증** : 최적 약물 치료에도 삶의 질을 해치는 협심증이 지속; 적절한 해부학적 조건
+* **스텐트 종류** : Drug-eluting stent(DES) 선호; DAPT 기간 : DES 6~12개월 (출혈 고위험 시 단축 가능), BMS 1~3개월
+* FFR/iFR 유도 하 PCI : 해부학적으로 경계 협착(40~70%)에서 기능적 의미 확인 후 시술 결정 권고
 
-* 저칼로리 영양식 권고
-* Choose : 과일/채소, 콩류/견과류, 통곡류, 살코기 단백질, 복합 탄수화물, 식이 섬유, 단일 불포화지방(1일 열량의 ≤20%; 예: 올리브유), 다가 불포화지방(1일 열량의 ≤10%; 예: 연어)
-* Instead : 포화지방(1일 열량의 ≤6%), 소금(4\~6 g/d), 가공육(예: 핫도그), 정제 탄수화물(예: 흰쌀), 설탕 첨가 음료, 알코올 음료
-* Avoid : 트랜스지방(예: 쇼트닝/hydrogenated oil에 튀긴 음식)
+### <mark style="color:orange;">Coronary Artery Bypass Graft Surgery (CABG)</mark>
 
-#### 운동
+* **적응증** : Left main disease, triple-vessel disease + DM or LV systolic dysfunction (EF ＜50%)
+* 복잡한 다혈관 질환(SYNTAX score 높음)에서 CABG가 PCI보다 우월한 장기 성적
+* 당뇨병 환자의 multi-vessel disease에서 CABG 선호
 
-* 일상생활에서의 활동을 늘림 (☞ p.1160)
-* 유산소 운동 : 중등 강도(예: 빠르게 걷기)로 1일 30분\~60분씩 매일(주 5일 이상)
-* 저항 훈련 (resistance training) : 주 2회
-* 최대 심박수의 70%를 넘지 않거나 운동 능력 검사로 확인한 자신의 한계 내의 강도로 운동
+## <mark style="color:green;">추적 관찰</mark>
 
-#### 스트레스 관리
+* 성공적으로 치료되고 있는 환자에서 4~6개월에 1회 이상 외래 관찰
+* 외래 방문 시 확인 사항
+  1. 환자가 치료와 지시를 잘 따르고 있는가
+  2. 증상 빈도 및 강도가 이전 방문 대비 호전되었는가
+  3. 이전 방문 대비 신체 활동이 줄어들지 않았는가
+  4. 위험 인자 관리 및 허혈성 심질환에 대한 지식을 갖추고 있는가
+  5. 새로이 발생한 다른 질환이 있는가; 이들의 치료가 심질환에 어떤 영향을 주는가
 
-* 스트레스를 피하기 위하여 직업 또는 주거 환경 변화를 포함한 가능한 조치를 함
-* 명상, 정신 상담 등 스트레스 관리 방법을 강구
+{% hint style="info" %}
+임상 또는 기능 상태의 변화가 없는 CCD 환자에서 일률적인 관상동맥 CT, stress test, LV 기능 재평가, 침습적 관상동맥 조영술은 권고하지 않음 \[AHA/ACC 2023]
+{% endhint %}
 
-#### 협심증을 유발할 수 있는 활동을 피함
-
-* 능력 및 신체 상태에 따라 활동 강도를 조절함
-* 급하게 서두르는 행동을 하지 않음, 일의 속도를 낮춤
-* 오전, 식사 직후, 춥거나 날씨가 좋지 않을 때는 활동을 줄이는 것을 권고
-
-
+***
 
 ```mermaid
 graph TD
-    A[Stable CAD 환자] --> B[Angina]
+    A([Stable CAD 환자]) --> B[Angina]
     A --> C[Heart failure]
-    
-    B --> D[nitroglycerin 설하]
-    D --> E[β-blocker <br/>금기가 아닌 경우]
-    E --> F[치료에 반응하지 않는 경우<br/>Calcium channel blocker<br/>Long-acting nitrate<br/>Ranolazine ranexa]
-    F --> G{Angina 지속}
-    G --> H[Coronary artery bypass grafting or<br/>Percutaneous coronary intervention 고려]
-    
-    C --> I{Ejection fraction 감소?}
-    I -- no --> J[생활 습관 중재]
-    I -- yes --> K[Diuretics, beta blockers,<br/>ACEI/ARB<br/>& 생활 습관 중재<br/>심부전]
 
-    style A fill:#f9f9f9
-    style B fill:#ffe6e6
-    style C fill:#ffe6e6
-    style D fill:#e1f5fe
-    style E fill:#e1f5fe
-    style F fill:#e1f5fe
-    style G fill:#fff9c4
-    style H fill:#e1f5fe
-    style I fill:#fff9c4
-    style J fill:#e1f5fe
-    style K fill:#e1f5fe
+    B --> D[nitroglycerin 설하\n급성 발작 치료]
+    D --> E[β-차단제\n빈맥, 최근 MI, 심부전 동반 시 1차]
+    E --> F[효과 불충분 시\nCCB 또는 지속형 nitrate 추가\nRanolazine / Ivabradine 추가 고려]
+    F --> G{Angina 지속?}
+    G -- 예 --> H[CCTA 또는 Stress imaging 재평가\nFFR/iFR 유도 PCI 또는 CABG 고려]
+    G -- 아니오 --> I[GDMT 유지\n4~6개월 간격 추적]
+
+    C --> J{LVEF 감소?}
+    J -- 아니오 --> K[생활 습관 중재\nGDMT 유지]
+    J -- 예 --> L[Diuretics + β-차단제\n+ ACEi/ARB/ARNI\n+ SGLT2i\n+ MRA 고려]
+
+    classDef decision fill:#fff9c4,stroke:#f9a825
+    classDef action fill:#e1f5fe,stroke:#0277bd
+    classDef start fill:#f9f9f9,stroke:#555
+    classDef outcome fill:#e8f5e9,stroke:#388e3c
+    class G,J decision
+    class D,E,F,H,K,L action
+    class A start
+    class I outcome
 ```
 
-**Stable CAD 환자의 관리 알고리듬**&#x20;
+<p align="center"><strong>Stable CAD 환자의 관리 알고리듬</strong></p>
 
-_Ref. Stable Coronary Artery Disease: Treatment AFP 2018;97(6). Fig 2._
+<p align="center"><em><mark style="color:$info;">Ref. AFP 2018;97(6) Fig 2; AHA/ACC 2023 CCD Guideline 반영 수정</mark></em></p>
 
-## 수술 치료
+***
 
-* stenting
-* coronary artery bypass graft surgery(CABG)
+### <mark style="color:red;">질병코드</mark>
 
-## 추적 관찰
+I20 협심증\
+I20.0 불안정 협심증\
+I20.1 입증된 연축을 동반한 협심증 (Prinzmetal angina)\
+I20.8 기타 형태의 협심증\
+I20.9 상세불명의 협심증\
+I25 만성 허혈심장병\
+I25.1 죽상경화성 심장병\
+I25.5 허혈성 심근병증
 
-* 증상이 없이 성공적으로 치료되고 있는 환자에서 4\~6개월에 한 번 이상 외래 관찰
-* 외래 방문 시 다음 사항 확인
-  1. 환자가 치료와 지시를 잘 따르고 있는가
-  2. 증상의 빈도 및 강도가 마지막 방문 때보다 호전되었는가
-  3. 마지막 방문 때보다 신체 활동이 줄어들지 않았는가
-  4. 환자가 성공적으로 위험 인자를 관리하고 있으며 허혈성 심질환에 대한 지식을 가지고 있는가
-  5. 새로이 발생한 다른 질환이 있는가, 이들의 치료가 심질환에 어떤 영향을 줄 수 있는가
-* 임상 또는 기능 상태의 변화가 없는 CCD 환자의 경우 일률적인 관상동맥 CT 촬영이나 stress test, 치료 결정을 위한 LV 기능의 일률적인 재평가, 침습적 관상동맥 조영술은 권하지 않음 \[AHA/ACC(2023)]
+***
 
+## <mark style="color:purple;">처방례</mark>
 
+> **처방례 1. 급성 협심증 발작 — 설하 nitroglycerin**
+>
+> ```
+> 니트로글리세린 설하 0.6 mg/T  1T  즉시
+> (흉통 지속 시 5분 간격 반복, 15분 이내 최대 3회)
+> ```
+>
+> _✽15분 이내 3회 투여 후 흉통이 완전히 소실되지 않으면 즉시 119 호출. 개봉 후 제조사 권고 기간 내 사용; 빛·열 차광 보관 교육 필수._
 
-### **질병코드**&#x20;
+> **처방례 2. 안정 협심증 — β-차단제 + 지속형 nitrate**
+>
+> ```
+> 딜라트렌 에스알 16 mg/C   1C   qd
+> 임듈 지속 60 mg/C          1C   qd  (12시간 이상 nitrate-free interval 유지)
+> ```
+>
+> _✽β-차단제를 기반으로 지속형 nitrate 병용; 복용 시간을 고정하여 nitrate-free interval 확보._
 
-I20 협심증
+> **처방례 3. β-차단제 금기 (COPD/천식) — Non-DHP CCB + 지속형 nitrate**
+>
+> ```
+> 헤르벤 서방캡슐 180 mg/C   1C   qd
+> 임듈 지속 60 mg/C           1C   qd
+> ```
+>
+> _✽천식, COPD, 중증 서맥 등 β-차단제 금기 시 diltiazem 선택. Non-DHP CCB + nitrate 병용 가능. 서맥 모니터링 필요._
 
-I20.9 상세불명의 협심증
+> **처방례 4. β-차단제 금기 + 서맥 경향 (저혈압/서맥) — Ranolazine 추가**
+>
+> ```
+> 노바스크 5 mg/T              1T   qd
+> 라넥사 서방정 500 mg/T       1T   bid
+> ```
+>
+> _✽Ranolazine은 혈압·맥박에 영향 없어 저혈압 경향 또는 서맥 환자에서 DHP-CCB와 병용 시 유용. QT 연장 약제 병용 여부 확인._
 
-I25 만성 허혈심장병
+> **처방례 5. 이차 예방 — 표준 약물 조합**
+>
+> ```
+> 아스피린 프로텍트 100 mg/T   1T   qd  (아침, 식후)
+> 아토르바스타틴 40 mg/T        1T   qd  (취침 전)
+> 딜라트렌 에스알 16 mg/C       1C   qd
+> 트리테이스 5 mg/T             1T   qd
+> ```
+>
+> _✽CAD 이차 예방 표준 요법: 항혈소판 + 고강도 스타틴 + β-차단제 + ACEi. LDL-C 목표 미달성 시 ezetimibe 추가._
 
-I25.1 죽상경화성 심장병
+> **처방례 6. 이차 예방 + 당뇨병 동반 — SGLT2i 병용**
+>
+> ```
+> 아스피린 프로텍트 100 mg/T   1T   qd  (아침, 식후)
+> 로수바스타틴 20 mg/T          1T   qd  (취침 전)
+> 콩코르 5 mg/T                 1T   qd
+> 트리테이스 5 mg/T             1T   qd
+> 자디앙 10 mg/T                1T   qd  (아침 식사와 함께)
+> ```
+>
+> _✽당뇨병 동반 CCD에서 SGLT2i(empagliflozin) 추가: 심혈관 사망 및 심부전 입원 감소 (Class I). LVEF ≤40%이면 당뇨병 유무와 관계없이 SGLT2i 추가 권고. 신기능(eGFR) 확인 후 처방(eGFR ≥20 mL/min 이상에서 사용 가능)._
 
+***
 
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
-## 처방례
+* **Nitroglycerin 설하정** : 흉통 발생 즉시 앉거나 누운 후 설하에 놓음; 5분 간격 최대 3회; 15분 후에도 흉통 지속 시 즉시 119 연락; 제조사 권고 기간 내 사용, 차광 보관 (일반적으로 개봉 후 수개월 이내 교체)
+* **β-차단제** : 임의로 중단하지 않도록 교육; 갑자기 끊으면 심근 허혈 유발 가능; 맥박이 50회/분 미만이면 의사와 상담
+* **지속형 Nitrate** : 두통이 흔히 발생하나 계속 복용하면 호전됨; 12시간 이상의 nitrate-free interval 유지 (내성 예방)
+* **Aspirin** : 식후 복용 권장; 위장 증상 발생 시 보고; 임의 중단 금지 (혈전 위험 증가)
+* **Statin** : 취침 전 복용 권장; 근육통/소변색 변화 발생 시 즉시 보고; 자몽주스와 병용 금지 (일부 statin에서 CYP3A4 상호 작용)
+* **ACEi/ARB** : 기침(ACEi), 어지럼 발생 시 의사와 상담; 임의 중단 금지
 
-처방례 1. 협심증 증상이 있는 경우\
-니트로글리세린 설하 0.6 ㎎/T 1T,\
-필요시 0.3 ㎎/T 1T 5분 간격 반복 ×2
+***
 
-\
-처방례 2. 안정 협심증\
-딜라트렌 에스알 16 ㎎/C 1C qd\
-　이소켓 서방정 40 ㎎/T 2T #2
+### <mark style="color:blue;">환자 안내서</mark>
 
-\
-처방례 3. β-차단제 금기\
-헤르벤 서방캡슐 180 ㎎/C 1C qd\
-임듈 지속 60 ㎎/C 1C qd
+**협심증이란?**\
+협심증은 심장에 혈액을 공급하는 관상동맥이 좁아지거나 경련을 일으켜 심장 근육에 산소가 부족해질 때 나타나는 흉통입니다.
+
+**주요 증상**
+
+* 가슴 중앙의 조임감, 압박감, 무게감 (2~15분 지속)
+* 팔, 어깨, 턱, 등으로 퍼지는 불편감
+* 계단 오르기, 급하게 걷기, 스트레스 상황에서 주로 발생
+
+**응급 상황 — 즉시 119에 연락하세요**
+
+* 휴식 중에도 흉통 발생
+* 니트로글리세린 3회(15분) 투여 후에도 흉통이 지속
+* 식은땀, 구역, 호흡 곤란이 동반
+* 기운이 없고 의식이 흐릿해지는 느낌
+
+**생활 수칙**
+
+1. 금연 — 흡연은 관상동맥 협착을 악화시키는 가장 중요한 위험 인자입니다.
+2. 규칙적인 운동 — 의사와 상담 후 적절한 강도로 매일 걷기 운동을 실천하세요.
+3. 식이 관리 — 짠 음식, 기름진 음식을 줄이고 채소, 생선, 견과류를 늘리세요.
+4. 스트레스 관리 — 무리한 활동, 급하게 서두르는 행동을 피하세요.
+5. 체중 관리 — 과체중이라면 체중 감량이 증상 개선에 도움이 됩니다.
+6. 고혈압, 당뇨, 고지혈증 관리 — 처방된 약을 빠짐없이 복용하세요.
+7. 오전 이른 시간, 식사 직후, 추운 날씨에는 과격한 활동을 삼가세요.
+
+**약 복용에 관하여**\
+처방된 모든 약은 임의로 중단하지 마세요. 특히 니트로글리세린은 항상 지참하고, 제조사 권고에 따라 정기적으로 새 약으로 교체하세요.
