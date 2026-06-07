@@ -200,11 +200,7 @@
 
 <table data-header-hidden><thead><tr><th></th><th width="106"></th><th width="51"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>대한고혈압학회</strong></td><td><strong>SBP</strong></td><td></td><td><strong>DBP</strong></td><td><strong>ESH/ISH</strong> (2023)</td><td><strong>AHA</strong> (2025)</td></tr><tr><td>정상 혈압¹⁾</td><td>&#x3C;120</td><td>&#x26;</td><td>&#x3C;80</td><td>Optimal</td><td>Normal</td></tr><tr><td>주의 혈압</td><td>120~129</td><td>&#x26;</td><td>&#x3C;80 / 80~84</td><td>Normal</td><td>Elevated</td></tr><tr><td>고혈압 전단계</td><td>130~139</td><td>or</td><td>80~89 / 85~89</td><td>High normal</td><td>Stage 1 HT</td></tr><tr><td>고혈압 1기</td><td>140~159</td><td>or</td><td>90~99</td><td>Grade 1 HT</td><td>Stage 2 HT</td></tr><tr><td>고혈압 2기</td><td>≥160</td><td>or</td><td>≥100</td><td>Grade 2 HT²⁾</td><td>Stage 2 HT</td></tr></tbody></table>
 
-_¹⁾ 심혈관 질환의 발병 위험이 가장 낮은 최적 혈압. ²⁾ ≥180/110 시 Grade 3 HT로 분류_
-
-{% hint style="info" %}
-**\[2025 ACC/AHA]**  2017 ACC/AHA Guideline을 공식 대체. 주요 변경 사항 : ⓵ ASCVD 계산기 대신 [PREVENT](https://tools.acc.org/prevent/#!/baseline/1/2025) (Predicting Risk of CVD Events) 위험 계산기 사용 권고 - 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 데이터 포함; ⓶ 치료 시작 기준 위험도를 ≥10% → ≥7.5%로 낮춤; ⓷ 원발성 알도스테론증 스크리닝 강화; ⓸ atenolol 회피 권고
-{% endhint %}
+&#x20;   _¹⁾ 심혈관 질환의 발병 위험이 가장 낮은 최적 혈압. ²⁾ ≥180/110 시 Grade 3 HT로 분류_&#x20;
 
 * ≥1주 간격(ESH에서는 1\~4주)으로 ≥2회 방문 측정하여 모두 고혈압 기준에 해당되면 진단
   * ≥180/110 ㎜Hg, 혈압 관련 증상, HMOD, CVD 등이 있는 경우에는 바로 진단 가능
@@ -333,7 +329,7 @@ class N,B5 peach
 8. 소염진통제, 경구 피임약, 한약 등 약물 사용력
 9. 사회 경제적 상태
 
-\*무증상 장기 손상 정의 : 뇌(뇌실 주위 백질 고강도 신호, 미세 출혈, 무증상 뇌경색), 심장(좌심실 비대), 콩팥(알부민뇨, eGFR 감소), 혈관(죽상경화반, 목 동맥-대퇴 동맥간 맥파 전달 속도 ＞10 m/sec, 위팔 동맥-발목 동맥 간 맥파 전달 속도 ＞18 m/sec), 관상 동맥 석회화 점수 400 이상 \[대한고혈압학회]
+\*무증상 장기 손상 정의 : •뇌(뇌실 주위 백질 고강도 신호, 미세 출혈, 무증상 뇌경색), •심장(좌심실 비대), •콩팥(알부민뇨, eGFR 감소), •혈관(죽상경화반, 목 동맥-대퇴 동맥간 맥파 전달 속도 ＞10 m/sec, 위팔 동맥-발목 동맥 간 맥파 전달 속도 ＞18 m/sec), •관상 동맥 석회화 점수 400 이상 \[대한고혈압학회]
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -350,8 +346,6 @@ class N,B5 peach
 
 #### <mark style="color:$primary;">기본 검사</mark>
 
-※ 적어도 진단 시점 및 매년 재검; K과 Cr은 1년에 최소 1\~2번 측정
-
 * 12-유도 심전도
 * 소변검사 : 단백뇨, 혈뇨, 당뇨병
 * 혈색소(빈혈), 적혈구 용적률
@@ -360,13 +354,15 @@ class N,B5 peach
 * TSH
 * 흉부 X선
 * 미세알부민뇨 : 단회뇨 중 Alb/Cr ratio (✽eGFR ＜60 시 3\~6개월 간격으로 추적 관찰)
-* [ASCVD 10년 위험도](https://tools.acc.org/cvd-risk-estimator-plus/#!/calculate/estimate/) (또는 [PREVENT 위험도 계산기](https://tools.acc.org/prevent/#!/baseline/1/2025))
+* [ASCVD 10년 위험도](https://tools.acc.org/cvd-risk-estimator-plus/#!/calculate/estimate/) (또는 [PREVENT 위험도](https://tools.acc.org/prevent/#!/baseline/1/2025)) 계산
+
+※ 적어도 진단 시점 및 매년 재검; K과 Cr은 1년에 최소 1\~2번 측정
 
 #### <mark style="color:$primary;">권장 검사</mark>
 
 * 75 g 경구 당부하 검사 또는 당화혈색소 (공복혈당 100 ㎎/㎗ 이상일 때)
 * 심장 초음파 : 심전도 이상, 좌심실 기능 이상 또는 비대 의심
-* 경동맥 초음파 : 동맥경화반 진단을 위해 고려; 내중막 두께 검사는 권고 안 함(근거 부족)
+* 경동맥 초음파 : 동맥경화반 진단을 위해 고려; 내중막 두께 검사는 근거가 부족하여 권고 안 함
 * 발목-위팔 혈압 지수 측정
 * 맥파전달속도 측정
 * 안저 검사 (당뇨병에서는 필수)
@@ -381,27 +377,14 @@ class N,B5 peach
 * 심혈관 사망률을 예측하는 무증상 표적 장기 손상 지표 : ⓵ (미세)알부민뇨, ⓶ 경동맥-대퇴 맥파 전달 속도 증가, ⓷ 좌심실비대, ⓸ 경동맥 플라크
 * 단백뇨↑와 GFR↓가 모두 있는 경우에 어느 하나만 있는 경우보다 심혈관 및 신질환 위험이 크게 증가함
 
-### <mark style="color:orange;">고혈압의 표적 장기 손상 (HMOD)</mark>
-
-* Heart : LVH, angina/prior MI, prior coronary revascularization, heart failure
-* Brain : stroke, transient ischemic attack, dementia
-* CKD
-* Blood vessel : peripheral arterial disease
-* Eye : retinopathy
-
 {% hint style="info" %}
-**HMOD 외래 초간단 체크리스트** — 아래 중 하나라도 있으면 심혈관 위험도가 크게 상승
+**HMOD 외래 체크 리스트**  : 아래 검사 결과 중 하나라도 이상 소견이 있으면 심혈관 위험도가 크게 상승
 
-□ ECG □ eGFR □ UACR □ 안저 검사 □ 경동맥 초음파 (고위험군) □ ABI (고령/흡연자)
+* ECG (LVH)&#x20;
+* eGFR (＜60), UACR(Urine Alb-Cr Ratio; ≥30 ㎎/g)&#x20;
+* 경동맥 초음파 (고위험군; 경동맥 플라크), ABI (고령/흡연자; ＜0.9)
+* 안저 검사 (고혈압망막병증)
 {% endhint %}
-
-| 장기     | 검사           | Red Flag 기준            |
-| ------ | ------------ | ---------------------- |
-| Heart  | ECG, Echo    | LVH                    |
-| Brain  | 필요 시 MRI     | 무증상 뇌경색, 백질병변          |
-| Kidney | eGFR, UACR   | eGFR ＜60, UACR ≥30 ㎎/g |
-| Vessel | ABI, 경동맥 초음파 | ABI ＜0.9, 경동맥 플라크      |
-| Eye    | 안저 검사        | 고혈압망막병증                |
 
 ***
 
@@ -416,26 +399,30 @@ class N,B5 peach
 * 약물 치료
   * 비약물 치료를 동시에 시행
   * 약물 치료 전 백의 고혈압 등 일시적 혈압 상승을 감별
-  * 혈압 수준 및 심뇌혈관 질환의 위험 인자, 표적 장기 손상 유무를 고려하여 치료 방법 결정
   * 일반적인 고혈압전단계 (＜140/90 ㎜Hg)는 약물 치료 대상이 아님
-  * 심한 야간 저혈압은 허혈성 시신경증을 유발할 수 있다는 보고가 있음
+  * 혈압 수준 및 심뇌혈관 질환의 위험 인자, 표적 장기 손상 유무를 고려하여 치료 방법 결정
+  * 심한 야간 저혈압 주의  (허혈성 시신경증 유발 가능)
+
+{% hint style="info" %}
+**\[2025 ACC/AHA]**  주요 변경 사항 : ⓵ ASCVD 계산기 대신 [PREVENT](https://tools.acc.org/prevent/#!/baseline/1/2025) (Predicting Risk of CVD Events) 위험 계산기 사용 권고 - 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 데이터 포함; ⓶ 치료 시작 기준 위험도를 ≥10% → ≥7.5%로 낮춤; ⓷ 원발성 알도스테론증 스크리닝 강화; ⓸ atenolol 회피 권고
+{% endhint %}
 
 #### <mark style="color:$primary;">목표 혈압</mark>
 
-**대한고혈압학회 (2022)**
+**대한고혈압학회** (2022)
 
-<table><thead><tr><th width="330">대상</th><th width="150">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>중위험도 HT, 고령, 중위험도 DM, 알부민뇨(↑), CKD, 뇌졸중</td><td>&#x3C;140/90</td><td>—</td></tr><tr><td>임신 (대학약학회)</td><td>&#x3C;150/80~100</td><td>methyldopa, labetalol</td></tr><tr><td>고위험도 HT, 고위험도 DM, 심혈관질환¹⁾, CKD with 알부민뇨 or DM, 열공성 뇌경색</td><td>&#x3C;130/80</td><td>알부민뇨 동반 시 ACEI/ARB</td></tr></tbody></table>
+<table><thead><tr><th width="330">대상</th><th width="150">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>중위험도 HT, 고령, 중위험도 DM, 알부민뇨(↑), CKD, 뇌졸중</td><td>&#x3C;140/90</td><td>—</td></tr><tr><td>임신 </td><td>&#x3C;140/90</td><td>methyldopa, labetalol</td></tr><tr><td>고위험도 HT, 고위험도 DM, 심혈관질환¹⁾, CKD with 알부민뇨 or DM, 열공성 뇌경색</td><td>&#x3C;130/80</td><td>알부민뇨 동반 시 ACEI/ARB</td></tr></tbody></table>
 
 　_¹⁾ 심혈관질환: 관상동맥질환, 말초혈관질환, 복부대동맥류, 심부전, 좌심실비대_\
 　_²⁾ 1차 선택제는 근거된 내용만 기재_
 
-\*\*ESH (2023)\*\*³⁾
+**ESH** (2023)³⁾
 
 <table><thead><tr><th width="382">대상</th><th width="210">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General (18~64세)</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>65~79세 (치료에 잘 견디는 경우)</td><td>&#x3C;140/80 (130/80)</td><td>—</td></tr><tr><td>65~79세 수축기 단독 고혈압 (치료에 잘 견디는 경우)</td><td>SBP 140~150 (130~139)</td><td>—</td></tr><tr><td>≥80세 (치료에 잘 견디는 경우)</td><td>140~150/&#x3C;80 (130~139)</td><td>—</td></tr></tbody></table>
 
 　_³⁾ ESH는 SBP <120 또는 DBP <70을 목표로 하지 않음_
 
-**ACC/AHA (2025)**
+**ACC/AHA** (2025)
 
 {% hint style="info" %}
 2025 ACC/AHA 가이드라인은 2017년 버전을 대체하며, 치료 기준으로 ASCVD 위험 계산기 대신 **PREVENT** 계산기 사용을 권고. 기본 분류 기준은 동일(Stage 1: ≥130/80, Stage 2: ≥140/90).
@@ -446,7 +433,7 @@ class N,B5 peach
 　_⁴⁾ PREVENT 위험도 계산기 사용 권고 (기존 ASCVD 계산기 대체)_\
 　_⁵⁾ 이전에 고혈압이 없었던 경우 <140/90에서는 약물 치료 권고 안 함_
 
-**ADA (2024/2025)**
+**ADA** (2024/2025)
 
 <table><thead><tr><th width="273">대상</th><th width="140">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>ASCVD(+) 또는 10년 위험도 ≥15%</td><td>&#x3C;130/80</td><td>알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB</td></tr><tr><td>고혈압이 있는 건강한 당뇨 환자</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>임신부</td><td>&#x3C;110~135/85</td><td>—</td></tr></tbody></table>
 
