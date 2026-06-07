@@ -1113,39 +1113,6 @@ _³⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate
   * thiazide는 eGFR ≥30, loop diuretics는 eGFR ＜30 시 권고
 * non-DHP CCB (diltiazem, verapamil) : 혈압이 조절되지 않거나 s-Cr 상승이 지속되는 경우 고려
 
-***
-
-```mermaid
-graph TD
-
-    subgraph S1 [CKD stage 1~3, eGFR ≥30]
-        A1[ACEI/ARB + CCB or T/TL diuretic<br/>Increase to full-dose if well tolerated]
-        A2[ACEI/ARB + CCB + T/TL diuretic<br/>Increase to full-dose if well tolerated]
-        A3[진성 저항성 고혈압<br/>Add 1. MRA, 2. BB or α-blocker<br/>or 3. centrally acting agent]
-    end
-
-    subgraph S2 [CKD stage 4~5, eGFR <30]
-        B1[ACEI/ARB + CCB or loop diuretic<br/>Increase to full-dose if well tolerated]
-        B2[ACEI/ARB + CCB + loop diuretic<br/>Increase to full-dose if well tolerated]
-        B3[진성 저항성 고혈압<br/>Add 1. T/TL to loop diuretic, 2. BB or α-blocker<br/>or 3. centrally acting agent]
-    end
-
-    subgraph X0 
-        X1[Step 1<br/>2제 병용] --> X2[Step 2<br/>3제 병용] --> X3[Step 3<br/>약제 추가]
-    end 
-    
-    A1 --> A2 --> A3
-    B1 --> B2 --> B3
-
-    S1 ~~~ X0 ~~~ S2
-    
-    Footer[+ SGLT-2i or Finerenone]
-```
-
-<p align="center"><strong>CKD 동반 고혈압 치료 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. 2023 ESH Guidelines. Fig 20.</mark></em></p>
-
 {% hint style="info" %}
 **CKD 동반 고혈압** \[2026 대한고혈압학회]
 
@@ -1162,27 +1129,6 @@ graph TD
   * BB와 non-DHP CCB (diltiazem, verapamil) 병용은 금기
   * 맥박수가 ＜50/분인 경우 BB 또는 non-DHP는 시작하지 않음
 
-***
-
-```mermaid
-graph LR
-    S1[Step 1<br/>2제 병용] --> S2[Step 2<br/>3제 병용] --> S3[Step 3<br/>약제 추가]
-    
-    Start(ACEI/ARB + BB<br/>Increase to full-dose if well tolerated) --> Split
-    
-    Split{ }
-    Split --> A1[With Angina<br/>+ DHP-CCB<br/>Increase to full-dose if well tolerated]
-    Split --> A2[Without angina<br/>+ DHP-CCB or T/TL diuretic<br/>Increase to full-dose if well tolerated]
-
-    style S1 fill:#ffe5cc
-    style S2 fill:#ffe5cc
-    style S3 fill:#ffe5cc
-```
-
-<p align="center"><strong>관상동맥병 동반 고혈압 치료 알고리듬</strong></p>
-
-***
-
 ### <mark style="color:orange;">심부전</mark>
 
 * 목표 혈압 : ＜130/80 ㎜Hg
@@ -1195,31 +1141,6 @@ graph LR
 * 증상이 있는 hypervolemia (폐 &/또는 말초 부종) 시 : 이뇨제
 * non-DHP CCB는 좌심실 수축 기능을 저하시킬 수 있으므로 주의; 알파차단제는 신경호르몬계 활성화, 수분 저류, 심부전의 악화를 야기할 수 있으므로 금기
 
-***
-
-```mermaid
-flowchart TD
-    A["Step 1: 2제 병용"]
-    B["ACEI/ARB + CCB or T/TL diuretic"]
-    C["Step 2: 3제 병용"]
-    D["ACEI/ARB + CCB + T/TL diuretic"]
-    E["Step 3: 약제 추가"]
-    F["ARNi &/or MRA로 ACEI/ARB 대체"]
-    
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    
-    Note1["모든 단계에서 BB 사용 가능"]
-    Note2["+ SGLT-2i"]
-```
-
-<p align="center"><strong>심부전 동반 고혈압 치료 알고리듬</strong></p>
-
-***
-
 ### <mark style="color:orange;">당뇨병</mark>
 
 * 당뇨병 환자의 목표 혈압
@@ -1228,54 +1149,55 @@ flowchart TD
 
 #### <mark style="color:$primary;">ADA 권고안</mark>
 
-***
-
 ```mermaid
 flowchart TD
     Start1["Initial BP >140/90 & <160/100"]
     Start2["Initial BP ≥160/100"]
+style Start1 fill:#e8f8e8,stroke:#4caf50
+style Start2 fill:#d5f5e3,stroke:#27ae60
 
     Start1 --> S1["단일 약제"]
-    Start2 --> S2["생활습관 개선 + 2제 병용"]
-    
-    S1 --> Check1{"알부민뇨 or CAD?"}
-    Check1 -- no --> Drugs1["ACEI, ARB, CCB, 이뇨제"]
-    Check1 -- yes --> Drugs2["ACEI, ARB"]
-    
-    S2 --> Check2{"알부민뇨 or CAD?"}
-    Check2 -- no --> Drugs3["ACEI/ARB, CCB, 이뇨제 중 2개"]
-    Check2 -- yes --> Drugs4["ACEI/ARB & CCB 또는 이뇨제"]
-
-    Drugs1 & Drugs2 & Drugs3 & Drugs4 --> Eval1["혈압 강하 효과 및 부작용 평가"]
-    
+    Start2 --> S2["생활습관 개선 + 2제 병용"]    
+    S1 --> Check1["알부민뇨 or CAD?¹⁾"]
+    Check1 -- NO --> Drugs1["ACEI/ARB, <br/>CCB³⁾, 이뇨제²⁾"]
+    Check1 -- YES --> Drugs2["ACEI/ARB"]
+    S2 --> Check2["알부민뇨 or CAD?¹⁾"]
+    Check2 -- NO --> Drugs3["ACEI/ARB, CCB³⁾, <br/>이뇨제²⁾ 중 2개"]
+    Check2 -- YES --> Drugs4["ACEI/ARB & <br/>CCB³⁾ 또는 이뇨제²⁾"]
+    Drugs1 & Drugs2 & Drugs3 & Drugs4 --> Eval1["혈압 강하 효과 및 <br/>부작용 평가"] 
     Eval1 --> Success["치료 순응 및 목표 달성"]
     Eval1 --> Fail["목표 달성 실패"]
     Eval1 --> SideEffect["부작용 발생"]
-    
     Success --> Maintain["치료 유지"]
     Fail --> AddDrug["다른 계열 약제 추가"]
     SideEffect --> ChangeDrug["대체 약물 변경 고려"]
-    
     AddDrug & ChangeDrug --> Eval2["효과 및 부작용 평가"]
-    
-    Eval2 --> Success2["치료 순응 및 목표 달성"]
-    Eval2 --> Fail2["목표 달성 실패 or 부작용 발생"]
-    
+    Eval2 --> Success2["치료 순응 및 <br/>목표 달성"]
+    Eval2 --> Fail2["목표 달성 실패 or <br/>부작용 발생"]
     Success2 --> Maintain2["치료 유지"]
     Fail2 --> Referral["MRA 추가 고려 및 의뢰"]
+classDef white fill:#fff,stroke:#333
+class Success2,Success white
+classDef orange fill:#fdebd0,stroke:#e67e22
+class Fail,Fail2,SideEffect orange
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class Maintain2,Maintain blue
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Check1,Check2,Eval2,Eval1 yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class S1,S2,Drugs1,Drugs2,Drugs3,Drugs4 sky
 ```
 
 <p align="center"><strong>당뇨병 동반 고혈압 치료 알고리듬 (ADA)</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. ADA. Standards of Medical Care in Diabetes 2024. Fig 10.2</mark></em></p>
 
+_CAD = coronary artery disease_\
+_¹⁾ ACEi 또는 ARB : CAD 또는 u-Alb/Cr ratio 30\~299 ㎎/g 동반 환자에서 제안; u-Alb/Cr ratio ≥300 ㎎/g 환자에서 강력히 권고_\
+_²⁾ Thiazide-like diuretic : 장기 작용제 (예: chlorthalidone, indapamide)가 심혈관 질환을 감소시키는 효과가 있어 선호_\
+_³⁾Dihydropyridine calcium channel blocker_
+
 ***
-
-CAD = coronary artery disease
-
-1. **ACEi 또는 ARB :** CAD 또는 u-Alb/Cr ratio 30\~299 ㎎/g 동반 환자에서 제안; u-Alb/Cr ratio ≥300 ㎎/g 환자에서 강력히 권고
-2. **Thiazide-like diuretic :** 장기 작용제 (예: chlorthalidone, indapamide)가 심혈관 질환을 감소시키는 효과가 있어 선호
-3. **Dihydropyridine calcium channel blocker**
 
 #### <mark style="color:$primary;">AACE 권고안</mark>
 
@@ -1309,44 +1231,9 @@ CAD = coronary artery disease
 
 * 순응도 점검, HBPM 또는 24시간 ABPM 측정 (백의 고혈압 배제), 생활 습관 교정
 * 약물 조정 : 이뇨제 추가 (예: 저용량 spironolactone) 또는 교체, 다른 기전의 약제 추가 (예: bisoprolol, doxazosin)
-  * spironolactone 불내성 (여성형유방, 성기능장애, 고칼륨혈증 등) 시 → amiloride <mark style="color:blue;">\[아미로]</mark> 사용 고려 (IIa, B) \[2026 대한고혈압학회 신규]
+  * spironolactone 불내성 (여성형유방, 성기능장애, 고칼륨혈증 등) 시 → amiloride <mark style="color:blue;">\[아미로]</mark> 사용 고려 \[2026 대한고혈압학회]
 * 검사 : 전해질, 혈당, BUN, Cr, U/A; 모든 난치성(혹은 저항성) 고혈압 환자에서 aldosterone-to-renin ratio (ARR) 측정 고려; 기타 이차성 고혈압 감별 검사
 * 의뢰
-
-***
-
-```mermaid
-flowchart TD
-    Start["ACEi or ARB + CCB + Diuretic로 조절 안됨"]
-
-    Start --> A["CKD stage 1~3, eGFR ≥30"]
-    Start --> B["CKD stage 4~5, eGFR <30 (투석 안함)"]
-
-    A --> A1["Add<br/>1. Spironolactone(선호) or 다른 MRA<br/>2. BB or Alpha1-blocker<br/>3. Centrally acting agent"]
-    A1 --> A2["If eGFR >40, Renal Denervation 고려"]
-
-    B --> B1["Add<br/>1. T/TL diuretic(chlorthalidone 선호)<br/>2. BB or Alpha-1 blocker<br/>3. Centrally acting agent"]
-
-    style Start fill:#f9f9ff,stroke:#ccf
-    style A fill:#fff9e6,stroke:#ffe58f
-    style B fill:#fff9e6,stroke:#ffe58f
-    style A1 fill:#e6f3ff,stroke:#bae7ff
-    style B1 fill:#e6f3ff,stroke:#bae7ff
-```
-
-<p align="center"><strong>난치성(혹은 저항성) 고혈압 관리 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. 2023 ESH Guidelines. Fig 14.</mark></em></p>
-
-***
-
-**진성 저항성 고혈압에서의 혈압 강화 전략**
-
-1. eGFR ≥45, K ≤4.5인 경우 spironolactone 우선 추가
-2. 상황에 따라 모든 단계에서 조기에 사용할 수 있음
-
-{% hint style="info" %}
-**PATHWAY-2 연구** : 난치성(혹은 저항성) 고혈압 환자에서 spironolactone이 bisoprolol, doxazosin, 위약보다 유의하게 우수한 혈압 강하 효과를 보임. 난치성(혹은 저항성) 고혈압 4제 요법으로 spironolactone이 최우선 선택임을 지지.
 
 **난치성(혹은 저항성) 고혈압 단계별 치료 요약** \[2026 대한고혈압학회]
 
@@ -1356,7 +1243,6 @@ flowchart TD
 4. 추가 혈압 강하가 필요한 경우 ACEI/ARB를 ARNI로 변경 고려; 알도스테론합성효소 억제제(ASI) 추가 고려&#x20;
 5. β-차단제 또는 α₁-차단제 또는 중추성 교감신경 차단제 추가
 6. 전문의 의뢰 + 신장(콩팥)교감신경차단술(Renal Sympathetic Denervation) 고려 - eGFR ≥40에서 약물로 조절되지 않는 진성 난치성 고혈압 \[2026 대한고혈압학회]
-{% endhint %}
 
 ### <mark style="color:orange;">고혈압성 위기</mark>
 
@@ -1385,24 +1271,24 @@ flowchart TD
 
 #### <mark style="color:$primary;">급성 중증 고혈압 (Acute Severe Hypertension)</mark>
 
-* **급성 중증 고혈압** : 혈압이 ≥180/110 ㎜Hg로 급격히 상승하였으나 고혈압에 의한 급성 장기 손상이 명확히 확인되지 않은 경우
-  * 급성 장기 손상이 없는 경우 즉각적인 정주용 항고혈압제 사용은 권고하지 않음
+* 정의 : 혈압이 ≥180/110 ㎜Hg로 급격히 상승하였으나 고혈압에 의한 급성 장기 손상이 명확히 확인되지 않은 경우
 
 {% hint style="danger" %}
-**\[2026 대한고혈압학회]** 기존 '고혈압성 긴박(Hypertensive urgency)' 용어는 더 이상 사용하지 않음. 개념적 혼란을 방지하기 위해 폐지하고, 급성 장기손상 유무에 따라 '고혈압성 응급'과 '급성 중증 고혈압'으로 명확히 구분함.
+**\[2026 대한고혈압학회]** 기존 '고혈압성 긴박(Hypertensive urgency)' 용어는 더 이상 사용하지 않음. 개념적 혼란을 방지하기 위해 폐지하고, 급성 장기손상 유무에 따라 '고혈압성 응급'과 '급성 중증 고혈압'으로 구분함
 {% endhint %}
 
 **조치**
 
 * 속효성 경구 항고혈압제 투여
 * 수 시간 내 강압 (또는 첫 24시간 내 25% 강압)을 목표로 조절
+  * 급성 장기 손상이 없는 경우 즉각적인 정주용 항고혈압제 사용은 권고하지 않음
   * ＜160/90 ㎜Hg로의 급속한 강압은 피함
 * 즉각적인 항고혈압제 투여 없이 안정시키고 반복적으로 혈압을 측정하며 관찰할 수 있음
 * 비경구 약물은 적응증이 되지 않음
 * short-acting nifedipine 설하 투여는 혈압 강하의 정도를 예측할 수 없고 심박수를 올려 심장에 부담을 줄 수 있으므로 권고하지 않음
 * 급성 표적 장기 손상의 증거 없이 비심장 질환으로 입원 중인 중증 고혈압 (>180/120) 환자에서 급성 혈압 감소를 위해 정맥 주사 또는 경구용 항고혈압제를 간헐적으로 사용하는 것은 권고하지 않음
 
-<table><thead><tr><th width="107">성분명</th><th width="200">용량</th><th width="184">작용시작 / 지속시간</th><th>주의 사항</th></tr></thead><tbody><tr><td>captopril</td><td>12.5 ~ 25 ㎎</td><td>15 ~ 30 분 / 6 ~ 8 hr</td><td>저혈압</td></tr><tr><td>clonidine</td><td>0.2 → 0.1 ㎎ 매시간 반복 (최대 0.6)</td><td>30 ~ 60 분 / 8 ~ 16 hr</td><td>진정, 저혈압, 반동성 고혈압</td></tr><tr><td>prazosin</td><td>1 ~ 2 ㎎ 매시간 반복</td><td>1 ~ 2 hr / 8 ~ 12 hr</td><td>폴도(처음 사용 시), 기립성 저혈압</td></tr></tbody></table>
+<table><thead><tr><th width="107">성분명</th><th width="172">용량</th><th width="184">작용시작 / 지속시간</th><th>주의 사항</th></tr></thead><tbody><tr><td>captopril</td><td>12.5~25 ㎎</td><td>15~30 분 / 6~8 hr</td><td>저혈압</td></tr><tr><td>clonidine</td><td>0.2 → 0.1 ㎎ 매시간 반복 (최대 0.6)</td><td>30~60 분 / 8~16 hr</td><td>진정, 저혈압, 반동성 고혈압</td></tr><tr><td>prazosin</td><td>1~2 ㎎ 매시간 반복</td><td>1~2 hr / 8~12 hr</td><td>폴도(처음 사용 시), 기립성 저혈압</td></tr></tbody></table>
 
 ### <mark style="color:orange;">모니터링 및 약제 조절</mark>
 
@@ -1469,7 +1355,7 @@ flowchart LR
 
     A --> B --> C --> D
 
-    E["📋 HBPM 및 원격 진료 권고"]
+    E["📋 HBPM 및 <br/>원격 진료 권고"]
     A -. "관리 향상" .-> E
     B -. "관리 향상" .-> E
     C -. "관리 향상" .-> E
