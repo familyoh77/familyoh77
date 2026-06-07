@@ -596,24 +596,24 @@ class S10,S12,S14 blue
 
 ### <mark style="color:orange;">약물 치료 대상</mark>
 
-**대한의학회 (2019)**
+**대한고혈압학회** (2026)
 
-* 모든 2기 고혈압 (≥160/100 ㎜Hg)
-* 1기 고혈압 (≥140/90 ㎜Hg) 중 다음에 해당
-  1. 심뇌혈관 질환, CKD, 무증상 장기 손상, 동반위험 인자 ≥3개, 당뇨병 with 동반 위험 인자 ≥1개 등의 고위험군
-  2. 3개월간의 생활 습관 중재 효과 미약
-  3. 지역 사회 거주 ≥65세의 건강한 고령
-  4. 자주 추적 관리할 수 없는 상황
-* 쇠약자 또는 ≥80세에서는 ≥160 ㎜Hg 시 고려
+* **고혈압 전단계** (130\~139/80\~89 ㎜Hg)
+  * 적극적인 생활요법 시행
+  * 심혈관질환\* 동반 시 약물치료 고려
+  * 고위험 환자(당뇨병, 만성콩팥병, 장기 손상) → 3개월 생활요법 후 혈압 ≥130/80 ㎜Hg 유지 시 약물치료 고려 가능
+* **1기 고혈압** (140\~159/90\~99 ㎜Hg)
+  * 저위험군 : 적극적 생활요법 우선, 효과 미흡 시 약물치료 고려
+  * 중위험군 또는 고위험군 : 생활요법 + 약물치료 즉시 병행
+* **2기 고혈압** (≥160/100 ㎜Hg)
+  * 위험도와 관계없이 생활요법 + 약물치료 즉시 병행
+* **노인 고혈압**
+  * 지역사회 거주 건강한 ≥65세 : SBP ≥140 ㎜Hg 시 약물치료
+  * 노쇠한 노인 또는 ≥80세 : SBP ≥160 ㎜Hg 시 약물치료
 
-**ESH (2023)**
+　_\*심혈관질환: 관상동맥질환, 말초혈관질환, 복부대동맥류, 심부전_
 
-* 18\~79세 : 모든 grade 1 이상 (≥140/90 ㎜Hg)의 고혈압 환자에서 CV risk와 관계없이 생활 습관 중재와 약물 치료를 시작
-  * HMOD가 없고 CV risk가 낮은 낮은 BP 범위에 있는 grade 1 환자에서는 생활 습관 중재만으로 시작할 수 있지만 수개월 (예: 6개월) 내 조절되지 않으면 약물 치료를 요함
-* ≥80세 : SBP 160 ㎜Hg; SBP 140\~160 ㎜Hg에서도 고려할 수 있음
-* CVD 병력이 있는 경우 : ≥130/80 ㎜Hg
-
-**ACC/AHA (2025)**
+**ACC/AHA** (2025)
 
 * CVD 병력이 없는 환자
   1. ≥130/80 ㎜Hg & PREVENT 10년 위험도 ≥7.5%
@@ -624,8 +624,15 @@ class S10,S12,S14 blue
 * 심혈관에 영향을 주는 동반 질환이 있는 ≥65세 : SBP ≥130 ㎜Hg
 
 {% hint style="info" %}
-**\[2025 ACC/AHA]** ASCVD 계산기 대신 **PREVENT** 계산기 사용을 권고 (2025년 8월 JACC 게재, 2017 guideline 대체). 치료 시작 기준 위험도를 기존 ≥10%에서 ≥7.5%로 낮춤. PREVENT는 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 집단을 포함함.
+**\[2025 ACC/AHA]** ASCVD 계산기 대신 PREVENT 계산기 사용을 권고 (2025년 8월 JACC 게재, 2017 guideline 대체). 치료 시작 기준 위험도를 기존 ≥10%에서 ≥7.5%로 낮춤. PREVENT는 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 집단을 포함함.
 {% endhint %}
+
+**ESH** (2023)
+
+* 18\~79세 : 모든 grade 1 이상 (≥140/90 ㎜Hg)의 고혈압 환자에서 CV risk와 관계없이 생활 습관 중재와 약물 치료를 시작
+  * HMOD가 없고 CV risk가 낮은 낮은 BP 범위에 있는 grade 1 환자에서는 생활 습관 중재만으로 시작할 수 있지만 수개월 (예: 6개월) 내 조절되지 않으면 약물 치료를 요함
+* ≥80세 : SBP 160 ㎜Hg; SBP 140\~160 ㎜Hg에서도 고려할 수 있음
+* CVD 병력이 있는 경우 : ≥130/80 ㎜Hg
 
 ## <mark style="color:green;">항고혈압제 종류</mark>
 
@@ -644,11 +651,14 @@ class S10,S12,S14 blue
 * 대상 : 금기가 아닌 모든 고혈압에서의 1차 선택제; 고령 (특히 수축기 고혈압), 비만, 흡연자에서 보다 효과적이며 폐경기 여성에서의 골 미네랄 손실을 완화시킨다는 보고가 있음
 * 부작용 : K↓, 내당능 저하, 부정맥, 지질대사장애, 요산↑, 통풍, 발기 저하
   * 대부분의 환자에서 공복 혈당에 대한 유의미한 영향은 없다는 보고가 있음
-* **약제 선택** \[2026 대한고혈압학회 IIa/B] : 하이드로클로로티아지드, **클로르탈리돈, 인다파미드** 중에서 선택하여 사용 — 3종 동등하게 고려 (구 지침: chlorthalidone 또는 indapamide 선호)
-  * chlorthalidone : 반감기가 HCTZ보다 길어 24시간 조절에 유리; **eGFR <30 mL/min/1.73m²에서도 혈압 조절 목적으로 고려 가능** \[IIa/B]
-  * indapamide : 장기 부작용이 보다 적음
+*   약제 선택 : 하이드로클로로티아지드, 클로르탈리돈, 인다파미드 중에서 선택하여 사용 - 3종 동등하게 고려
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 (1)</td></tr><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 (1)</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스]</mark></td><td>1.25~5 (1)</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 (1)</td></tr></tbody></table>
+    * chlorthalidone : 반감기가 HCTZ보다 길어 24시간 조절에 유리; eGFR <30에서도 고려 가능 \[IIa/B]
+    * chlorthalidone·indapamide : HCTZ보다 강압 효과가 우수하다고 알려져 있으나, 저나트륨혈증·저칼륨혈증 등 전해질 이상 발생 가능성에 주의
+
+    ※ 강압 효과는 여전히 chlorthalidone ≥ indapamide > HCTZ 순이라는 인식은 유지되나, 실제 임상 결과(심혈관사건 감소) 면에서 우월성이 입증되지 않았고 오히려 부작용은 더 많다는 RCT 결과가 나오면서 선호 제제를 지정할 근거가 없어짐
+
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 (1)</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 (1)</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스]</mark></td><td>1.25~5 (1)</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 (1)</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Potassium-sparing agent</mark>
 
@@ -676,7 +686,7 @@ class S10,S12,S14 blue
 <table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[알닥톤]</mark></td><td>25~50 (1~2)</td></tr><tr><td>eplerenone</td><td>—</td><td>25~100 (1)</td></tr></tbody></table>
 
 {% hint style="info" %}
-**Baxdrostat (Baxfendy)** — 2026년 5월 FDA 승인. 최초의 aldosterone synthase inhibitor (ASI). MRA가 수용체에서 알도스테론을 차단하는 것과 달리, 부신에서 알도스테론 합성 자체를 억제함. **적응 위치**: spironolactone을 포함한 4제 요법에도 조절되지 않는 저항성 또는 불응성 고혈압에서 추가 투여 고려. BaxHTN phase 3 trial: baxdrostat 2 mg 추가 시 SBP 15.7 ㎜Hg 감소 (위약 대비 9.8 ㎜Hg 추가 감소). 국내 도입 여부는 추후 확인 필요.
+**Baxdrostat (Baxfendy)** - 최초의 aldosterone synthase inhibitor (ASI). MRA가 수용체에서 알도스테론을 차단하는 것과 달리, 부신에서 알도스테론 합성 자체를 억제함; Spironolactone을 포함한 4제 요법에도 조절되지 않는 저항성 또는 불응성 고혈압에서 추가 투여 고려; 국내 미출시
 {% endhint %}
 
 ### <mark style="color:orange;">Renin-Angiotensin 시스템 차단제</mark>
@@ -694,10 +704,7 @@ class S10,S12,S14 blue
 
 * 대상 : 심근경색 후, 관상동맥병, 저박출에 의한 CHF, 신장병증
 * 부작용 : 마른기침 (20%; 특히 여성, 고령), 혈관부종; ARB는 기침 부작용은 드묾
-
-{% hint style="danger" %}
-⚠️ **임신 금기** : ACEI, ARB, direct renin inhibitor는 임신 중 절대 금기. 태아 신독성·저혈압·사망 위험.
-{% endhint %}
+* 임신 금기 : ACEI, ARB, direct renin inhibitor는 임신 중 절대 금기. 태아 신독성·저혈압·사망 위험
 
 **ACEI**
 
@@ -711,7 +718,7 @@ class S10,S12,S14 blue
 
 * 효과 : 단독 사용으로 ARB, ACEI와 유사한 혈압 강하 효과
 * 대상 : 당뇨병성 신장병증; 1차 선택제는 아니며 타 약제와 병합 사용
-* **임신 금기**
+* 임신 금기
 
 <table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>aliskiren</td><td>—</td><td>150~300 (1)</td></tr></tbody></table>
 
@@ -737,15 +744,15 @@ class S10,S12,S14 blue
 
 * 효과 : 심박동 감소, 심박출량 감소
 * 뇌졸중, LVH, MI 예방 효과는 적음
-* **적응증** \[2026 대한고혈압학회 I/A] : **협심증, 심근경색 후, 박출률감소심부전(HFrEF), 심방세동의 치료** 및 심박수 조절이 필요한 고혈압 환자에서 1차 적응증으로 권고
-* **세대 구분** \[2026 대한고혈압학회] : 적응증으로 사용 시 **2세대 β1-선택성 베타차단제**(bisoprolol, metoprolol, nebivolol 등) 또는 **3세대 혈관확장성 베타차단제**(carvedilol, nebivolol)를 우선 고려
+* 적응증 : 협심증, 심근경색 후, 박출률감소심부전(HFrEF), 심방세동의 치료 및 심박수 조절이 필요한 고혈압 환자에서 1차 적응증으로 권고
+* 세대 구분 : 적응증으로 사용 시 2세대 β1-선택성 베타차단제(bisoprolol, metoprolol, nebivolol 등) 또는 3세대 혈관확장성 베타차단제(carvedilol, nebivolol)를 우선 고려
 * 부작용 : 서맥, 전도 장애, 좌심실부전, 기관지 경련 악화, 레이노 현상, 파행 악화, 코 막힘, 발기부전, 피로, 우울, 악몽, 흥분; 지질/당 대사 영향
 * 주의/금기 : 고령, 당뇨병, 대사증후군, 천식, COPD, 2\~3도 전도 장애, 말초혈관 질환, sick sinus syndrome, 레이노병, 우울증
   * 갑작스런 중단 시 급성 관상동맥 질환과 혈압의 상승을 유발하므로 tapering 필요
 * ISA(+) 제제 : 낮은 교감 신경 활성 효과; β-차단제 치료 시 서맥증을 보이는 환자들에게 유용; 심근경색 환자에서는 금기
 
 {% hint style="danger" %}
-⚠️ **\[2025 ACC/AHA]** Atenolol은 뇌졸중, LVH, MI 예방에 다른 BB보다 열등하다는 근거로 **회피** 권고. 불가피한 경우 cardioselective BB 중 bisoprolol, metoprolol succinate, nebivolol 선호. 특히 고령자·당뇨병·대사증후군 환자에서는 혈관 확장 효과가 있는 **nebivolol** 또는 **carvedilol**이 대사적으로 더 유리함.
+**\[2025 ACC/AHA]** Atenolol은 뇌졸중, LVH, MI 예방에 다른 BB보다 열등하다는 근거로 회피 권고. 불가피한 경우 cardioselective BB 중 bisoprolol, metoprolol succinate, nebivolol 선호. 특히 고령자·당뇨병·대사증후군 환자에서는 혈관 확장 효과가 있는 nebivolol 또는 carvedilol이 대사적으로 더 유리함.
 {% endhint %}
 
 **Cardioselective**
@@ -784,12 +791,12 @@ class S10,S12,S14 blue
 * 대상 : 변동성이 심한 고혈압, autonomic neuropathy, 임신부 (methyldopa)
 * 부작용 : 졸음, 입마름, 반동성 혈압 상승, 기립성 저혈압, 성기능장애, 여러 약물 상호 작용
 * clonidine : 0.1\~0.6 ㎎/d #2 \[켑베이]; weekly patch 0.1\~0.3 ㎎/d
-* guanfacine 1\~3 ㎎ qd, methyldopa 250\~2,000 ㎎ bid
+* guanfacine : 1\~3 ㎎ qd, methyldopa 250\~2,000 ㎎ bid
 
 ### <mark style="color:orange;">혈관 확장제 (Direct vasodilator)</mark>
 
 * 대상 : 중등증\~중증 고혈압 환자에서 보조 요법으로 사용; 반드시 이뇨제나 β-차단제와 병용
-* 부작용 : hydralazine — 빈맥, 루프스양증후군; minoxidil — 안면부 발모, 심장막성 삼출
+* 부작용 : hydralazine - 빈맥, 루프스양증후군; minoxidil - 안면부 발모, 심장막성 삼출
 * 주의/금기 : 심한 관상동맥병
 * hydralazine : 임신 중독에 의한 고혈압; 25\~50 ㎎/d #3\~4 \[히드랄라진염산염]
 * minoxidil : 다른 모든 강압제에 저항을 보이는 신 기능 저하 환자; 5\~40 ㎎/d #1\~2 \[미녹시딜]
@@ -797,29 +804,22 @@ class S10,S12,S14 blue
 ### <mark style="color:orange;">안지오텐신수용체-네프릴리신억제제 (ARNI)</mark>
 
 {% hint style="info" %}
-**\[2026 대한고혈압학회 신규 권고]** ARNI (sacubitril/valsartan <mark style="color:blue;">\[엔트레스토]</mark>)를 항고혈압제로 공식 추가.
-
-* **심부전이 동반된 고혈압 환자에서 ACEI 또는 ARB보다 우선 권고** (I, A)
-* 염분 감수성이 높은 고혈압 환자에서 사용 고려 (IIa, B)
-* 난치성(혹은 저항성) 고혈압 환자에서 ACEI/ARB를 ARNI로 변경하는 것 고려 가능 (IIb, B)
+**\[2026 대한고혈압학회]** 심부전이 동반된 고혈압 환자에서 ACEI 또는 ARB보다 우선 권고; 염분 감수성이 높은 고혈압 환자에서 사용 고려; 난치성(혹은 저항성) 고혈압 환자에서 ACEI/ARB를 ARNI로 변경하는 것 고려 가능
 {% endhint %}
 
-* 성분명 : sacubitril/valsartan <mark style="color:blue;">\[엔트레스토 24/26㎎, 49/51㎎, 97/103㎎]</mark>
-* 용량 : 49/51㎎ bid로 시작 → 2\~4주 간격으로 증량 → 최대 97/103㎎ bid
+* 성분명 : sacubitril/valsartan <mark style="color:blue;">\[엔트레스토 24/26 ㎎, 49/51 ㎎, 97/103 ㎎]</mark>
+* 용량 : 49/51 ㎎ bid로 시작 → 2\~4주 간격으로 증량 → 최대 97/103 ㎎ bid
 * 주의/금기 : ACEI와 병용 금지(최소 36시간 간격), 임신, 혈관부종 병력
 
 ### <mark style="color:orange;">나트륨-포도당 공동수송체 2 억제제 (SGLT2 inhibitor)</mark>
 
 {% hint style="info" %}
-**\[2026 대한고혈압학회 신규 권고]** SGLT2 억제제를 항고혈압제로 공식 추가.
-
-* **심부전이 동반되었거나, 알부민뇨가 존재하거나, eGFR이 감소한 만성콩팥병 동반 고혈압 환자에서 사용 권고** (I, A)
-* 죽상동맥경화성 심혈관질환(ASCVD)이 동반된 당뇨병 환자에서 GLP-1 수용체작용제 또는 SGLT2 억제제를 포함한 치료 권고 (I, A)
-* 부가 강압 효과 : 평균 SBP 3\~5 ㎜Hg 감소
+**\[2026 대한고혈압학회]** 심부전이 동반되었거나, 알부민뇨가 존재하거나, eGFR이 감소한 만성콩팥병 동반 고혈압 환자에서 사용 권고; 죽상동맥경화성 심혈관질환(ASCVD)이 동반된 당뇨병 환자에서 GLP-1 수용체작용제 또는 SGLT2 억제제를 포함한 치료 권고
 {% endhint %}
 
-* 대표 약제 : empagliflozin <mark style="color:blue;">\[자디앙 10/25㎎]</mark>, dapagliflozin <mark style="color:blue;">\[포시가 10㎎]</mark>, canagliflozin <mark style="color:blue;">\[인보카나 100/300㎎]</mark>
-* 주의 : 요로감염, 생식기진균감염; eGFR <45 mL/min/1.73m²에서 혈당강하 효과 감소 (심혈관·신장 보호 효과는 유지); 케톤산증 주의
+* 부가 강압 효과 : 평균 SBP 3\~5 ㎜Hg 감소
+* empagliflozin <mark style="color:blue;">\[자디앙 10/25 ㎎]</mark>, dapagliflozin <mark style="color:blue;">\[포시가 10 ㎎]</mark>, canagliflozin <mark style="color:blue;">\[인보카나 100/300 ㎎]</mark>
+* 주의 : 요로감염, 생식기진균감염; eGFR <45에서 혈당강하 효과 감소 (심혈관·신장 보호 효과는 유지); 케톤산증 주의
 
 ## <mark style="color:green;">항고혈압제 선택 Tips</mark>
 
@@ -829,7 +829,7 @@ class S10,S12,S14 blue
   * ESH에서는 BB도 1차 선택제에 포함시킴
 * 저용량으로 시작 (특히 고령에서)
 * 복용 방법 : 특별한 사유가 없는 한 가급적 single pill을 선택, 1일 1회 투여; 아침에 복용하는 것이 저녁보다 순응도가 높을 수 있음; 이뇨제 저녁 복용 시 야뇨 고려
-  * ✽1일 1회 투여하는 경우 야간(취침 전)에 복용하면 실신이나 기상 시 낙상의 부작용 증가 없이 야간 및 주간 혈압이 낮으며 심혈관 관련 사망이 낮다는 보고가 있음
+  * 1일 1회 투여하는 경우 야간(취침 전)에 복용하면 실신이나 기상 시 낙상의 부작용 증가 없이 야간 및 주간 혈압이 낮으며 심혈관 관련 사망이 낮다는 보고가 있음
 
 #### <mark style="color:$primary;">병용 요법</mark>
 
@@ -846,15 +846,19 @@ class S10,S12,S14 blue
 
 ```mermaid
 graph LR
-    A["ACEI or ARB"] <--> B[CCB]
-    A <--> C[Thiazide]
-    A -. 권고하지 않음 .- D[β-blocker]
-    B <--> C
-    B <--> D
-    C <--> D
+    A["ACEI or ARB"] <==> C[CCB]
+    C <==> T
+    A <==> T[Thiazide]
+    A -. 혈압강하 효과 열등 .- B[β-blocker]
+    C <--(1)--> B
+    T <--(2)--> B
 ```
 
-<p align="center"><strong>항고혈압제 병용 요법</strong></p>
+<p align="center"><strong>항고혈압제 병용 요법</strong> </p>
+
+_굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_ \
+_(1) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
+_(2) thiazide+구세대 BB(atenolol 등) :_ _회피 (당뇨병·이상지질혈증 발생 위험 증가)_<br>
 
 ***
 
@@ -891,75 +895,71 @@ graph LR
 * olmesartan/amlodipine/HCTZ <mark style="color:blue;">\[세비카 에이치씨티]</mark>
 * telmisartan/amlodipine/chlorthalidone <mark style="color:blue;">\[트루셋]</mark>
 
-{% hint style="info" %}
-**\[2026 대한고혈압학회] 단일제형복합제(SPC) 새 분류 체계** — 통상적인 시작용량을 기준으로 4단계로 분류:
+**단일제형복합제(SPC,** Single-Pill Combinatio&#x6E;**) 분류 체계** \[대한고혈압학회]&#x20;
 
-**임상적 의의** : 초저·저용량 SPC가 부작용 증가 없이 우수한 혈압 조절 효과를 보일 수 있음이 강조됨 — 치료 초기부터 저용량 복합제로 시작하는 것을 새로운 전략으로 제시. 단일제형으로 약물 개수·복용 횟수를 줄여 **치료 지속성(adherence)** 향상.
-{% endhint %}
+* 통상적인 시작 용량을 기준으로 4단계로 분류
+* 임상적 의의 : 초저·저용량 SPC가 부작용 증가 없이 우수한 혈압 조절 효과를 보일 수 있음, 단일제형으로 약물 개수·복용 횟수를 줄여 치료 지속성(adherence) 향상; 저용량 복합제로 치료시작 고려
 
-<table><thead><tr><th width="140">분류</th><th width="200">특징</th><th>예시</th></tr></thead><tbody><tr><td><strong>초저용량 SPC</strong></td><td>각 성분의 최저용량 이하 조합</td><td>amlodipine 2.5mg + olmesartan 10mg 등</td></tr><tr><td><strong>저용량 SPC</strong></td><td>각 성분의 최저 시작용량 조합</td><td>amlodipine 5mg + ARB 저용량 등</td></tr><tr><td><strong>표준용량 SPC</strong></td><td>각 성분의 통상 시작용량 조합</td><td>amlodipine 5mg + ARB 표준용량 등</td></tr><tr><td><strong>고용량 SPC</strong></td><td>각 성분의 최대 또는 고용량 조합</td><td>amlodipine 10mg + ARB 고용량 등</td></tr></tbody></table>
+<table><thead><tr><th width="140">분류</th><th width="200">특징</th><th>예시</th></tr></thead><tbody><tr><td><strong>초저용량 SPC</strong></td><td>각 성분의 최저 용량 이하 조합</td><td>amlodipine 2.5  ㎎ + olmesartan 10 ㎎ 등</td></tr><tr><td><strong>저용량 SPC</strong></td><td>각 성분의 최저 시작 용량 조합</td><td>amlodipine 5 ㎎ + ARB 저용량 등</td></tr><tr><td><strong>표준용량 SPC</strong></td><td>각 성분의 통상 시작 용량 조합</td><td>amlodipine 5 ㎎ + ARB 표준 용량 등</td></tr><tr><td><strong>고용량 SPC</strong></td><td>각 성분의 최대 또는 고용량 조합</td><td>amlodipine 10 ㎎ + ARB 고용량 등</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    Start["초기 치료 (Monotherapy 선호 조건¹⁾)"]
-    
-    T1["Low-dose double combination therapy<br/>(ACEi/ARBs + CCBs/Diuretics)"]
-    Check1{"BP 조절됨?²⁾"}
-    
-    T2["Low-dose triple combination therapy<br/>(ACEi/ARBs + CCBs + Diuretics)"]
-    Check2{"BP 조절됨?²⁾"}
-    
-    T3["Maximally tolerated triple combination therapy<br/>ACEi or ARBs + CCBs + Diuretics"]
-    Check3{"BP 조절됨?²⁾"}
-    
-    Resistant["Apparent resistant hypertension (저항성 고혈압 관리 지침 참조)"]
-    Action1["Refer to hypertension clinic"]
-    Action2["Test for adherence"]
-    Action3["Add spironolactone"]
-    
-    Beta["Any step: Add beta-blockers<br/>if Compelling indications³⁾"]
-    FU["FU at least every year"]
+    Start["초기 치료 <br/>(Monotherapy 선호 조건¹⁾)"]
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    T1["저용량 2제 요법<br/>(ACEi/ARBs + CCBs/Diuretics)"]  
+    T2["저용량 3제 요법<br/>(ACEi/ARBs + CCBs + Diuretics)"]
+    T3["고용량 3제 요법<br/>ACEi or ARBs + CCBs + Diuretics"]
+style T1 fill:#e3f2ff,stroke:#2196f3
+style T2 fill:#daeaff,stroke:#1e80d9
+style T3 fill:#d0e8ff,stroke:#1a6abf
+    Check1["BP 조절됨?²⁾"]
+    Check2["BP 조절됨?²⁾"]
+    Check3["BP 조절됨?²⁾"]
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Check1,Check2,Check3 yellow
+    Resistant["난치성 고혈압"]
+style Resistant fill:#f8a0c0,stroke:#d01f5a
+    Action1["의뢰"]
+style Action1 fill:#fdebd0,stroke:#e67e22
+    Action2["복약 순응도 확인"]
+style Action2 fill:#fff3e0,stroke:#e65100
+    Action3["Spironolactone 추가"]
 
+    Beta["어느 단계에서든<br/>적응증 시 BB 추가³⁾"]
+style Beta fill:#daeaff,stroke:#1e80d9
+    FU["최소 연 1회 추적 관찰"]
+style FU fill:#e8f8e8,stroke:#4caf50
     Start --> T1
     T1 --> Check1
-    Check1 -- Y --> FU
-    Check1 -- N --> T2
+    Check1 -- YES --> FU
+    Check1 -- NO --> T2
     
     T2 --> Check2
-    Check2 -- Y --> FU
-    Check2 -- N --> T3
+    Check2 -- YES --> FU
+    Check2 -- NO --> T3
     
     T3 --> Check3
-    Check3 -- Y --> FU
-    Check3 -- N --> Resistant
+    Check3 -- YES --> FU
+    Check3 -- NO --> Resistant
     
     Resistant --> Action1
     Resistant --> Action2
     Action1 --> Action3
     Action2 --> Action3
-
     Beta --> T2
     Beta --> T3
     Beta --> Resistant
-
-    classDef treat fill:#c8e6c9,stroke:#388e3c;
-    classDef check fill:#e1bee7,stroke:#7b1fa2;
-    classDef res fill:#fff9c4,stroke:#fbc02d;
-    
-    class T1,T2,T3,Beta treat;
-    class Check1,Check2,Check3 check;
-    class Action1,Action2,Action3,Resistant res;
 ```
 
 <p align="center"><strong>항고혈압제 단계적 치료 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. 2023 ESH Guidelines</mark></em></p>
 
-¹⁾ BP 120/70\~139/89 ㎜Hg, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세\
-²⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)\
-³⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate control
+_¹⁾ BP 120/70\~139/89 ㎜Hg, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
+_²⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
+_³⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate control_
 
 #### <mark style="color:$primary;">상황별 약제 선택</mark>
 
