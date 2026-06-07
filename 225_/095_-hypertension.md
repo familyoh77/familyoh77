@@ -428,14 +428,14 @@ class N,B5 peach
 
 **대한고혈압학회** (2026)
 
-<table><thead><tr><th width="310">대상</th><th width="150">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>저위험군 및 중위험군 고혈압, 노인 고혈압</td><td>&#x3C;140/90</td><td>—</td></tr><tr><td>임신</td><td>&#x3C;140/90</td><td>nifedipine ER, amlodipine (1차); labetalol (주사제); methyldopa·hydralazine </td></tr><tr><td>고위험군 고혈압¹⁾, 당뇨병, 심혈관질환(관상동맥질환·말초혈관질환·복부대동맥류·심부전), 만성콩팥병, 뇌졸중</td><td>&#x3C;130/80²⁾</td><td>알부민뇨 동반 CKD/DM 시 ACEI/ARB; 만성콩팥병에 SGLT2 억제제</td></tr></tbody></table>
+<table><thead><tr><th width="277">대상</th><th width="150">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>저위험군 및 중위험군 고혈압, 노인 고혈압</td><td>&#x3C;140/90</td><td>—</td></tr><tr><td>임신</td><td>&#x3C;140/90</td><td>nifedipine ER, amlodipine (1차); labetalol (주사제); methyldopa·hydralazine </td></tr><tr><td>고위험군 고혈압¹⁾, 당뇨병, 심혈관질환(관상동맥질환·말초혈관질환·복부대동맥류·심부전), 만성콩팥병, 뇌졸중</td><td>&#x3C;130/80²⁾</td><td>알부민뇨 동반 CKD/DM 시 ACEI/ARB; 만성콩팥병에 SGLT2 억제제</td></tr></tbody></table>
 
 　_¹⁾ 고위험군: 무증상 장기 손상 또는 심뇌혈관질환 위험 인자 3개 이상 동반_\
 　_²⁾ 만성콩팥병에서 표준화된 측정법(AOBP)으로 혈압 측정 시 SBP <120_ ㎜_Hg 조절 고려 가능. 뇌졸중 중 두개내혈관협착 동반 뇌경색은 <140/90_ ㎜_Hg 권고_
 
 **ESH** (2023)\*
 
-<table><thead><tr><th width="382">대상</th><th width="210">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General (18~64세)</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>65~79세 (치료에 잘 견디는 경우)</td><td>&#x3C;140/80 (130/80)</td><td>—</td></tr><tr><td>65~79세 수축기 단독 고혈압 (치료에 잘 견디는 경우)</td><td>SBP 140~150 (130~139)</td><td>—</td></tr><tr><td>≥80세 (치료에 잘 견디는 경우)</td><td>140~150/&#x3C;80 (130~139)</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="276">대상</th><th width="210">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General (18~64세)</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>65~79세 (치료에 잘 견디는 경우)</td><td>&#x3C;140/80 (130/80)</td><td>—</td></tr><tr><td>65~79세 수축기 단독 고혈압 (치료에 잘 견디는 경우)</td><td>SBP 140~150 (130~139)</td><td>—</td></tr><tr><td>≥80세 (치료에 잘 견디는 경우)</td><td>140~150/&#x3C;80 (130~139)</td><td>—</td></tr></tbody></table>
 
 　\* _ESH는 SBP <120 또는 DBP <70을 목표로 하지 않음_
 
@@ -445,14 +445,14 @@ class N,B5 peach
 2025 ACC/AHA 가이드라인은 2017년 버전을 대체하며, 치료 기준으로 ASCVD 위험 계산기 대신 PREVENT 계산기 사용을 권고. 기본 분류 기준은 동일(Stage 1: ≥130/80, Stage 2: ≥140/90).
 {% endhint %}
 
-<table><thead><tr><th width="326">대상</th><th width="120">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General ≥65세</td><td>&#x3C;130</td><td>—</td></tr><tr><td>CVD(또는 10년 위험도¹⁾ ≥10%), 당뇨, CKD</td><td>&#x3C;130/80</td><td>thiazide diuretics, CCB, ACEI/ARB</td></tr><tr><td>Heart failure</td><td>&#x3C;130</td><td>diuretics</td></tr><tr><td>CKD</td><td>&#x3C;130/80</td><td>ACEI (알부민뇨 동반 시)</td></tr><tr><td>2차 stroke/TIA 예방</td><td>&#x3C;130/80²⁾</td><td>thiazide + (ACEI/ARB)</td></tr></tbody></table>
+<table><thead><tr><th width="257">대상</th><th width="120">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General ≥65세</td><td>&#x3C;130</td><td>—</td></tr><tr><td>CVD(또는 10년 위험도¹⁾ ≥10%), 당뇨, CKD</td><td>&#x3C;130/80</td><td>thiazide diuretics, CCB, ACEI/ARB</td></tr><tr><td>Heart failure</td><td>&#x3C;130</td><td>diuretics</td></tr><tr><td>CKD</td><td>&#x3C;130/80</td><td>ACEI (알부민뇨 동반 시)</td></tr><tr><td>2차 stroke/TIA 예방</td><td>&#x3C;130/80²⁾</td><td>thiazide + (ACEI/ARB)</td></tr></tbody></table>
 
 　_¹⁾ PREVENT 위험도 계산기 사용 권고 (기존 ASCVD 계산기 대체)_\
 　_²⁾ 이전에 고혈압이 없었던 경우 <140/90에서는 약물 치료 권고 안 함_
 
 **ADA** (2024/2025)
 
-<table><thead><tr><th width="273">대상</th><th width="140">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>ASCVD(+) 또는 10년 위험도 ≥15%</td><td>&#x3C;130/80</td><td>알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB</td></tr><tr><td>고혈압이 있는 건강한 당뇨 환자</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>임신부</td><td>&#x3C;110~135/85</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="241">대상</th><th width="140">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>ASCVD(+) 또는 10년 위험도 ≥15%</td><td>&#x3C;130/80</td><td>알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB</td></tr><tr><td>고혈압이 있는 건강한 당뇨 환자</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>임신부</td><td>&#x3C;110~135/85</td><td>—</td></tr></tbody></table>
 
 ***
 
@@ -522,7 +522,7 @@ class S10,S12,S14 blue
 
 **혈압의 정도와 심뇌혈관 위험도에 따른 단일 또는 병용 약제 선택** (대한고혈압학회. 2026)
 
-<table><thead><tr><th width="197">구분</th><th width="150">고혈압전단계</th><th width="204">1기 고혈압</th><th>2기 고혈압</th></tr></thead><tbody><tr><td><strong>동반 위험 인자 0개</strong></td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>동반 위험 인자 1~2개</strong></td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>동반 위험 인자 ≥3개, DM &#x26; 동반 위험 인자 ≥1개, 무증상 장기 손상</strong></td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>심뇌혈관질환, 만성콩팥병</strong></td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
+<table><thead><tr><th width="185">구분</th><th width="154">고혈압전단계</th><th width="156">1기 고혈압</th><th>2기 고혈압</th></tr></thead><tbody><tr><td><strong>동반 위험 인자 0개</strong></td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>동반 위험 인자 1~2개</strong></td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>동반 위험 인자 ≥3개, DM &#x26; 동반 위험 인자 ≥1개, 무증상 장기 손상</strong></td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>심뇌혈관질환, 만성콩팥병</strong></td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
 
 ※ 10년간 CVD 발생률 기준 : <mark style="background-color:blue;">저위험: <5%</mark>, <mark style="color:orange;background-color:yellow;">중저위험: 5\~10%</mark>, <mark style="background-color:$warning;">중위험: 10\~15%</mark>, <mark style="background-color:$danger;">고위험: ≥15%</mark>
 
@@ -970,7 +970,7 @@ _³⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate
 
 #### <mark style="color:$primary;">고혈압 약제의 절대적/상대적 금기</mark>
 
-<table><thead><tr><th width="120">약제</th><th width="205">적극적 적응</th><th width="130">적용 가능</th><th width="156">주의</th><th>금기</th></tr></thead><tbody><tr><td>ACEI/ARB</td><td>심부전, 당뇨병신장병증, CKD</td><td></td><td>양측성 신동맥협착, 고칼륨혈증</td><td>임신, 혈관부종</td></tr><tr><td>베타차단제</td><td>협심증, 심근경색증</td><td>빈맥성 부정맥</td><td>혈당 이상 증가, 말초혈관질환</td><td>천식, 심한 서맥</td></tr><tr><td>칼슘차단제</td><td>노인 고혈압, ISH, 협심증</td><td></td><td>심부전</td><td>서맥(non-DHP)</td></tr><tr><td>이뇨제</td><td>심부전, 수축기 단독고혈압</td><td></td><td>혈당 이상 증가</td><td>통풍, 저칼륨혈증</td></tr></tbody></table>
+<table><thead><tr><th width="120">약제</th><th width="168">적극적 적응</th><th width="95">적용 가능</th><th width="156">주의</th><th>금기</th></tr></thead><tbody><tr><td>ACEI/ARB</td><td>심부전, 당뇨병신장병증, CKD</td><td></td><td>양측성 신동맥협착, 고칼륨혈증</td><td>임신, 혈관부종</td></tr><tr><td>베타차단제</td><td>협심증, 심근경색증</td><td>빈맥성 부정맥</td><td>혈당 이상 증가, 말초혈관질환</td><td>천식, 심한 서맥</td></tr><tr><td>칼슘차단제</td><td>노인 고혈압, ISH, 협심증</td><td></td><td>심부전</td><td>서맥(non-DHP)</td></tr><tr><td>이뇨제</td><td>심부전, 수축기 단독고혈압</td><td></td><td>혈당 이상 증가</td><td>통풍, 저칼륨혈증</td></tr></tbody></table>
 
 ### <mark style="color:orange;">고혈압 약제의 대표적 부작용</mark>
 
