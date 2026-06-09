@@ -1,16 +1,10 @@
 # 기립성 저혈압 Orthostatic Hypotension
 
-![image](../.gitbook/assets/219471df-3916-4f06-baf9-db90a81211e4.JPG)
-
 ## 일반 사항
 
-*   앉거나 누운 자세에서 일어선 후 3분 이내 SBP ≥20 ㎜Hg or DBP ≥10 ㎜Hg 하락, 또는 SBP가 ＜90 ㎜Hg으로 저하되면서
-
-    관련 증상이 발생
+* 앉거나 누운 자세에서 일어선 후 3분 이내 SBP ≥20 ㎜Hg or DBP ≥10 ㎜Hg 하락, 또는 SBP가 ＜90 ㎜Hg으로 저하되면서 관련 증상이 발생
 * 다른 명칭 : 체위저혈압(Postural hypotension)
-*   기전 : 기립 시 정상적으로 발생하는 하지로의 blood pooling에 대하여 신체가 적절히 대응하지 못함 또는 체액 소실;
-
-    sympathetic vasoconstrictor (autonomic) failure로 적정 BP를 유지 못함
+* 기전 : 기립 시 정상적으로 발생하는 하지로의 blood pooling에 대하여 신체가 적절히 대응하지 못함 또는 체액 소실; sympathetic vasoconstrictor (autonomic) failure로 적정 BP를 유지 못함
 *   Delayed orthostatic hypotension : 기립 3분 이후에도 떨어진 혈압이 지속되는 상태;
 
     sympathetic adrenergic dysfunction의 mild 또는 early form
@@ -39,9 +33,7 @@
 ### 식후 저혈압 (Postprandial hypotension)
 
 * 식후 15\~90분에 발생, SBP 20 ㎜Hg 이상 하락
-*   추정 기전 : 식후 내장 순환에 따른 blood pooling에 대한 부적절한 sympathetic compensation, insulin 또는
-
-    vasoactive gastrointestinal peptide에 의한 혈관 확장
+* 추정 기전 : 식후 내장 순환에 따른 blood pooling에 대한 부적절한 sympathetic compensation, insulin 또는 vasoactive gastrointestinal peptide에 의한 혈관 확장
 
 ## 임상 양상
 
@@ -50,19 +42,15 @@
 
 ## 진단
 
-*   혈압 측정 : (필요시 배뇨 후) 5분 이상 눕거나 앉은 상태에서 측정 → 일어선 상태에서 1분 및 3분째 측정;
-
-    기립 전에 비하여 어느 하나라도 SBP ≥20 ㎜Hg &/or DBP ≥10 ㎜Hg 하락 시 진단
+* 혈압 측정 : (필요시 배뇨 후) 5분 이상 눕거나 앉은 상태에서 측정 → 일어선 상태에서 1분 및 3분째 측정; 기립 전에 비하여 어느 하나라도 SBP ≥20 ㎜Hg &/or DBP ≥10 ㎜Hg 하락 시 진단
 
 ※ supine SBP가 ＜90 ㎜Hg 인 환자에서는 이 질환명을 적용하지 않음
 
 * 실험실 검사 : CBC, 혈당, 전해질, TSH
 * ECG, Holter monitor, 심초음파, MRI
-*   자율 신경 반응 검사
-
-    •스트레스 검사 : 식사, 온수 목욕, 운동 등에 의한 증상 악화 또는 유발 관찰
-
-    •heart rate variability, sudomotor function test, tilt-table test, Valsalva response
+* 자율 신경 반응 검사
+  * 스트레스 검사 : 식사, 온수 목욕, 운동 등에 의한 증상 악화 또는 유발 관찰
+  * heart rate variability, sudomotor function test, tilt-table test, Valsalva response
 
 ***
 
@@ -77,14 +65,9 @@
 
 ## 비-약물 치료 및 예방
 
-*   천천히 일어남 (특히 아침 기상 시) : 수 분간 앉아 있은 후 일어남, 지지가 될 만한 가구나 벽체를 붙잡고 일어남,
-
-    누운 상태에서 가벼운 운동 후 일어남
-
-    •하지의 isometric contraction, feet dorsiflexion, leg crossing/squatting, leg elevation, hand grip isometric
-
-    (☞ p.108 counter-pressure maneuver)
-* 취침 시 머리 부위를 심장보다 20~~30 ㎝ 또는 10~~20°높임 (야간 고혈압 영향 감소 효과)
+* 천천히 일어남 (특히 아침 기상 시) : 수 분간 앉아 있은 후 일어남, 지지가 될 만한 가구나 벽체를 붙잡고 일어남, 누운 상태에서 가벼운 운동 후 일어남
+  * 하지의 isometric contraction, feet dorsiflexion, leg crossing/squatting, leg elevation, hand grip isometric (☞ [counter-pressure maneuver](../221_/022_-reflex-syncope-neurally-mediated-syncope.md#counter-pressure-maneuver))
+* 취침 시 머리 부위를 심장보다 20\~30 ㎝ 또는 10\~20°높임 (야간 고혈압 영향 감소 효과)
 * 더운 환경 회피(예: 목욕탕, 찜질방), 더운 환경에서의 운동 회피
 * 충분한(2 L/d) 수분 섭취; 특히 운동 전 수분 섭취
 * 필요시 소금 섭취를 늘림(8 g/d), 고혈압 등의 제한이 없는 경우에는 짠 식사 허용
@@ -92,9 +75,7 @@
 * 커피는 이른 아침에만 마심
 * 종아리 강화 운동 및 유산소 운동(예: 수영, 에어로빅, 달리기, 자전거)
 * abdominal binder, compression stocking
-*   식후 저혈압 주의 : 과식 회피, 저탄수화물로 소량씩 자주 식사, 음주 회피, 식후 수분 섭취, 식사 직후 갑작스러운 기립
-
-    또는 운동 회피
+* 식후 저혈압 주의 : 과식 회피, 저탄수화물로 소량씩 자주 식사, 음주 회피, 식후 수분 섭취, 식사 직후 갑작스러운 기립 또는 운동 회피
 
 ## 약물 치료
 
@@ -104,9 +85,8 @@
 
 * 1차 선택제
 * 기전 : 합성 mineralocorticoid으로서 신장에서의 Na 재흡수를 증가시켜 혈액량을 늘림
-*   부작용 : supine hypertension, 저칼륨혈증, 부종, 두통, 심부전
-
-    •저칼륨혈증은 과일, 채소, 육류 섭취로 해결
+* 부작용 : supine hypertension, 저칼륨혈증, 부종, 두통, 심부전
+  * 저칼륨혈증은 과일, 채소, 육류 섭취로 해결
 * 금기 : 전신적 진균 감염, 심부전, CKD
 * 용법 : 시작 0.1 ㎎/d → 1주 후 0.1 ㎎/d 증량 → 유지 0.1\~0.3 ㎎/d \[플로리네프]
 
@@ -115,39 +95,33 @@
 * 기전 : 말초 선택적 α-1-adrenergic agonist → vascular resistance↑; BBB를 통과하지 않음
 * 부작용 : supine hypertension, 소름, 가려움, 소변 저류, 위장 장애
 * 금기 : 조절되지 않는 고혈압, 심한 심질환, 신부전, 소변 저류, 갑상선 중독증, 갈색세포종
-*   용법 : 시작 2.5 ㎎ bid~~tid → 주당 2.5 ㎎/d 증량 → 유지 5~~10 ㎎ tid \[미드론]
-
-    •supine HTN을 피하기 위하여 오후 6시 이후나 취침 4시간 전에는 복용을 피함
+* 용법 : 시작 2.5 ㎎ bid\~tid → 주당 2.5 ㎎/d 증량 → 유지 5\~10 ㎎ tid \[미드론]
+  * supine HTN을 피하기 위하여 오후 6시 이후나 취침 4시간 전에는 복용을 피함
 
 #### Droxidopa (L-threo-dihydroxyphenylserine)
 
 * 기전 : active synthetic prodrug으로서 norepinephrine으로 전환되어 혈압 상승 작용
 * 주의 : 심질환
-*   용법 : 1,800 ㎎/d #3
-
-    •supine HTN을 피하기 위하여 취침 3시간 전에는 복용을 피함
+* 용법 : 1,800 ㎎/d #3
+  * supine HTN을 피하기 위하여 취침 3시간 전에는 복용을 피함
 
 #### Octreotide
 
 * 기전 : somatostatin analogue로서 gastrointestinal peptide 분비 억제, 혈관 확장 억제
 * 특히 식후 저혈압에 유용
 * 부작용 : 구역, 복통, 서맥, 흉통, malaise, 어지러움, 두통, 발열, 고혈당, 관절병증
-* 용법 : 시작 25~~50 ㎍ → 유지 25~~150 ㎍; 식전 30분, 피하 투여 \[산도스타틴 라르 주]
+* 용법 : 시작 25\~50 ㎍ → 유지 25\~150 ㎍; 식전 30분, 피하 투여 \[산도스타틴 라르 주]
 
 #### Pyridostigmine
 
-*   기전 : acetylcholinesterase inhibition 작용 → postganglionic sympathetic nerves norepinephrine 분비↑
-
-    → 기립성 저혈압 개선; supine HTN 유발 없음
+* 기전 : acetylcholinesterase inhibition 작용 → postganglionic sympathetic nerves norepinephrine 분비↑ → 기립성 저혈압 개선; supine HTN 유발 없음
 * 부작용 : 콜린 증상, 무른 변, 발한, 과다 침 분비, 다발 수축
 * 금기 : 기계적 장 폐쇄 또는 요 폐쇄
 * 용법 : 시작 30 ㎎ bid\~tid → 유지 60 ㎎ tid \[메스티논]
 
 #### 기타
 
-*   NSAID : prostaglandin의 혈관 확장 작용을 억제. 일부 난치성 환자에서 유효; fludrocortisone 또는
-
-    sympathomimetic agent와 함께 사용
+* NSAID : prostaglandin의 혈관 확장 작용을 억제. 일부 난치성 환자에서 유효; fludrocortisone 또는 sympathomimetic agent와 함께 사용
 * vasopressin receptor agonist : dDAVP, lysine vasopressin, desmopressin \[미니린]
 * yohimbine
 * dihydroergotamine
@@ -155,10 +129,69 @@
 * dihydroxyphenyl serine
 * dopamine antagonist : metoclopramide \[맥페란], domperidone \[모티리움 엠]
 * caffeine
-*   ephedrine, pseudoephedrine \[슈다페드]
+* ephedrine, pseudoephedrine \[슈다페드]
 
-    ![image](../.gitbook/assets/38657174-20e6-42f1-81a6-d5cf109bc937.JPG)
 
-> **질병코드** I95.1 기립성 저혈압
 
-![image](../.gitbook/assets/b6e8ecab-1581-4113-853d-c1666731c1c6.JPG)
+```mermaid
+graph TD
+    %% 노드 스타일 정의
+    classDef purple fill:#F3ECF7,stroke:#A381C6,stroke-width:1px,color:#333;
+    classDef yellow fill:#FFF9E6,stroke:#F4D068,stroke-width:1px,color:#333;
+    classDef gray fill:#F2F4F7,stroke:#D1D5DB,stroke-width:1px,color:#333;
+    classDef pink fill:#FCE8E6,stroke:#F3A9A3,stroke-width:1px,color:#333;
+    classDef blue fill:#EBF5FF,stroke:#A3CFFF,stroke-width:1px,color:#333;
+
+    %% 메인 흐름
+    Start([기립성 저혈압 의심 실신]):::purple --> BP{자세에 따른 BP 감소<br>≥20/10 mmHg?}:::yellow
+    
+    BP -- no --> Cont[평가 지속]:::gray
+    BP -- yes --> Cause[의심되는 원인]:::gray
+
+    %% 원인 분기
+    Cause --> Neuro[Neurogenic OH]:::pink
+    Cause --> Med[약물]:::pink
+    Cause --> Dehyd[탈수]:::pink
+
+    %% 약물 경로
+    Med --> Med_Tx[투여 중인 약물<br>감량 또는 중단]:::blue
+
+    %% 탈수 경로
+    Dehyd --> Dehyd_Tx1[신속한 수분 공급]:::blue
+    Dehyd_Tx1 --> Dehyd_Tx2["• 투여 중인 약물 감량 또는 중단<br>• 소금 및 수분 섭취 증량"]:::blue
+
+    %% Neurogenic OH 경로 및 치료법들
+    Neuro --> N_Tx[신속한 수분 공급]:::blue
+    
+    N_Tx --> N1[⓵ 조이는/압박 의류 제거
+⓶ 소금 및 수분 섭취 증량
+⓷ Counter pressure maneuvers
+⓸ Octreotide
+⓹ Midodrine
+⓺ Pyridostigmine
+⓻ Droxidopa
+⓼ Fludrocortisone]
+
+    %% 정렬을 위한 스타일 조정 (좌우 대칭 구조 유지)
+    style N1 text-align:left;
+
+    style Dehyd_Tx2 text-align:left;
+```
+
+기립성 저혈압 진단 및 관리 알고리듬\
+Ref. ACC/AHA/HRS. Guideline for the evaluation and management of patients with syncope. 2017.
+
+
+
+### **질병코드**&#x20;
+
+I95.1 기립성 저혈압
+
+
+
+## 처방례
+
+처방례 1.\
+플로리네프 0.1 ㎎/T 1T qd\
+처방례 2.\
+미드론 2.5 ㎎/T 2T #2
