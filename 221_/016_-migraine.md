@@ -337,12 +337,19 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 부작용 : 주사 부위 통증/발적, 상기도 감염; 변비(erenumab에서 더 빈번)
 * 금기 : 약물 과민, 임신
 * 주의 : 심혈관 질환, 조절되지 않는 고혈압(특히 Erenumab 사용 시 혈압 모니터링 필요)
-* fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 or 675 ㎎/분기 (조건부 급여)
-* galcanezumab <mark style="color:blue;">\[앰겔러티]</mark> : 120 ㎎/월 (초회 240 ㎎) (조건부 급여)
-* erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 (수용체 결합형; 급여 미등재)
-* eptinezumab : 100\~300 ㎎/분기 IV (국내 미허가)
+* fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 또는 675 ㎎/분기 SC (조건부 급여); 체중 45 ㎏ 이상 6\~17세 소아·청소년 삽화성 편두통 예방 적응증 추가 (2026)
+* galcanezumab <mark style="color:blue;">\[엠겔러티]</mark> : 120 ㎎/월 SC (초회 240 ㎎) (조건부 급여); 군발두통 적응증 포함
+* erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 SC (수용체 결합형; 급여 미등재)
+* eptinezumab <mark style="color:blue;">\[바이엡티]</mark> : 100 ㎎ 또는 300 ㎎/분기 IV (단회 정맥주사, 연 4회); 국내 허가 완료 (2026); 국내 최초 CGRP 정맥주입 예방치료제; PROMISE-1(삽화성), PROMISE-2(만성), SUNRISE(아시아 만성 편두통) 임상 근거
 
-#### <mark style="color:$primary;">Botulinum toxin (onabotulinumtoxinA)</mark>
+#### <mark style="color:$primary;">CGRP 수용체 길항제 (Gepant 계열, 경구 예방제)</mark>
+
+* 기전 : CGRP 수용체를 경쟁적으로 차단 (소분자 경구 제제)
+* 국내 유일 경구 CGRP 예방치료제 (2026 기준)
+* 기존 경구 예방약(propranolol, topiramate, valproate 등)에 실패한 환자에서 효과 입증 (ELEVATE 임상)
+* 부작용 : 구역, 변비, 졸음; 간독성(고용량; 일반 예방 용량에서는 드묾)
+* 금기 : 중증 간기능 장애, 강한 CYP3A4 억제제 병용
+* atogepant <mark style="color:blue;">\[아큅타]</mark> : 10\~60 ㎎/d qd (삽화성: 60 ㎎; 만성: 60 ㎎); 국내 허가 완료 (2026)
 
 * 만성 편두통에서 위약 대비 편두통 발생 약 2일/월 감소 효과
 * 155 U (5 U씩 31군데 근육 주사)

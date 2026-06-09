@@ -2,11 +2,27 @@
 
 ![image](../.gitbook/assets/01fa8b54-9e32-4c80-961a-58f0f1a32b7e.JPG)
 
-## 일반 사항
-* total-cholesterol(TC) or LDL-cholesterol(LDL) 수준의 증가, 또는 HDL-cholesterol(HDL) 수준의 저하
-*   자체로는 증상을 일으키지는 않지만 atherosclerotic cardiovascular disease(ASCVD)의 중요한 위험 인자임;
+## <mark style="color:green;">일반 사항</mark>
 
-    연령 증가에 따라 유병률 증가
+* total-cholesterol(TC) or LDL-cholesterol(LDL) 수준의 증가, 또는 HDL-cholesterol(HDL) 수준의 저하
+* 자체로는 증상을 일으키지는 않지만 atherosclerotic cardiovascular disease(ASCVD)의 중요한 위험 인자임; 연령 증가에 따라 유병률 증가
+
+### <mark style="color:orange;">국내 역학 (대사증후군 팩트 시트 2026, 심장대사증후군학회)</mark>
+
+<table><thead><tr><th width="260">구성 요소</th><th width="120">전체</th><th width="120">남성</th><th>여성</th></tr></thead><tbody><tr><td>대사증후군 (19세 이상)</td><td>21.5%</td><td>28.5%</td><td>14.3%</td></tr><tr><td>대사증후군 (30세 이상)</td><td>25.7%</td><td>34.1%</td><td>17.4%</td></tr><tr><td>대사증후군 (65세 이상)</td><td>39.0%</td><td>39.3%</td><td>38.9%</td></tr><tr><td>복부비만</td><td>33.0%</td><td>41.5%</td><td>24.4%</td></tr><tr><td>고중성지방혈증 (TG ≥150 ㎎/㎗)</td><td>25.8%</td><td>36.3%</td><td>15.0%</td></tr><tr><td>저HDL 콜레스테롤혈증</td><td>17.8%</td><td>17.3%</td><td>18.5%</td></tr><tr><td>고혈압 (≥130/85 ㎜Hg)</td><td>29.1%</td><td>34.9%</td><td>23.3%</td></tr><tr><td>고혈당 (FBS ≥100 ㎎/㎗)</td><td>29.1%</td><td>35.6%</td><td>22.4%</td></tr></tbody></table>
+
+{% hint style="info" %}
+**추세 요점 (KNHANES 2007→2024)**\
+저HDL 콜레스테롤혈증 유병률은 18년간 42.6% → 17.0%로 급격히 감소하였다. 반면 고중성지방혈증은 남성에서 완만히 증가하여 남녀 격차가 약 2배 이상으로 벌어졌다. 대사증후군 유병률은 제8기(2019–2021, 24.9%)를 정점으로 최근 제9기(2022–2024)에 21.5%로 감소하였으나 60–70대에서는 여전히 높은 수준을 유지한다.
+{% endhint %}
+
+### <mark style="color:orange;">대사증후군과 심혈관 질환 발생 위험 (국내 코호트, KNHANES–NHIS/HIRA 연계)</mark>
+
+대사증후군이 있는 경우 주요 심혈관 질환 발생 위험이 뚜렷하게 증가한다.
+
+<table><thead><tr><th width="220">질환</th><th width="160">위험비 (HR)</th><th>95% 신뢰구간</th></tr></thead><tbody><tr><td>모든 원인 사망</td><td>1.15</td><td>1.06–1.25</td></tr><tr><td>심뇌혈관질환 (전체)</td><td>1.77</td><td>1.57–1.99</td></tr><tr><td>심근경색</td><td>1.78</td><td>1.38–2.29</td></tr><tr><td>협심증</td><td>1.75</td><td>1.53–1.99</td></tr><tr><td>허혈성뇌졸중</td><td>1.69</td><td>1.16–2.46</td></tr><tr><td>대장암</td><td>1.39</td><td>1.12–1.73</td></tr><tr><td>위암</td><td>1.31</td><td>1.07–1.61</td></tr><tr><td>신장암</td><td>1.89</td><td>1.04–3.45</td></tr></tbody></table>
+
+_<mark style="color:$info;">Ref. 심장대사증후군학회. Metabolic Syndrome Fact Sheet in Korea 2026. (KNHANES 2007–2013 코호트, NHIS/HIRA 2014–2023 추적, N=33,697; Cox 비례위험모형, 연령·성별·교육·소득·흡연·음주·운동 보정)</mark>_
 *   LDL은 ASCVD의 주요 위험 인자이며 LDL이 낮을수록 심혈관 사고의 위험이 줄어 듦
 
     •적정 LDL 수준에 대한 논란 : LDL의 하한값 또는 ‘J-curve’ 효과는 없다는 보고가 있는 반면, LDL의 높은 수준 뿐 아니라 낮은 수준 역시 모든 원인 사망률의 증가 위험과 관련이 있으며 모든 원인 사망률의 최저 위험은 LDL 140 ㎎/㎗에서 관찰된다는 보고가 있음
@@ -525,7 +541,11 @@ CVD 1차 예방을 위하여 statin 선택적 처방을 권고
 
     statin에도 목표를 달성하지 못할 경우 ezetimibe or PCSK9i 추가
 
-### 대사증후군 및 T2DM에서의 non-HDL과 ApoB 관리 목표
+### <mark style="color:orange;">대사증후군 및 T2DM에서의 non-HDL과 ApoB 관리 목표</mark>
+
+{% hint style="info" %}
+국내 30세 이상 성인의 대사증후군 유병률은 25.7%이며, 대사증후군이 있는 경우 심뇌혈관질환 발생 위험이 1.77배 증가한다 (Metabolic Syndrome Fact Sheet in Korea 2026). 이상지질혈증 치료 시 고중성지방혈증과 저HDL 동반 여부를 함께 평가하는 것이 중요하다.
+{% endhint %}
 
 * 고위험군 : non-HDL ＜100 ㎎/㎗, ApoB ＜80 ㎎/㎗
 * 초고위험군 : non-HDL ＜85 ㎎/㎗, ApoB ＜65 ㎎/㎗
