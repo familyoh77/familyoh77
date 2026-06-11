@@ -20,7 +20,7 @@
 
 * 청력 저하, 수면무호흡증, 지방간, testosterone↓, 치주 질환, 골절, 인지 장애, 우울, 악성 종양
 
-**￭ 말초혈관 질환 Peripheral Vascular Disease**
+## **￭ 말초혈관 질환 Peripheral Vascular Disease**
 
 ## 임상 양상
 
@@ -47,7 +47,7 @@
 * clopidogrel : 75 ㎎/d; CVD 병력이 있는 aspirin 알레르기 환자에서의 대체제 \[플라빅스)
 * 고혈압 환자 중재 : DASH diet(특히 염분 섭취 제한), 신체 활동, 적극적인 혈압 조절 (☞ p.482)
 
-**￭ 당뇨병콩팥병증 Diabetic Nephropathy**
+## **￭ 당뇨병콩팥병증 Diabetic Nephropathy**
 
 * 당뇨병과 관련된 미세혈관 합병증의 결과로 발생하는 만성콩팥병
 *   당뇨병이 있는 환자에서 미세 알부민뇨 또는 단백뇨(u-Alb/Cr ratio ≥30 ㎎/g), 신 기능 감소(eGFR ＜60)가 3개월 이상 지속
