@@ -1,7 +1,5 @@
 # 당뇨병 Diabetes Mellitus
 
-![image](../.gitbook/assets/c5d4a464-5bca-4545-aedf-922f1ff26282.JPG)
-
 ## 일반 사항
 
 * 인슐린 분비 결핍 &/or 인슐린 저항성으로 인하여 고혈당이 발생한 대사 이상 증후군
@@ -61,9 +59,7 @@
 
 ## 진단
 
-```
-![image](images/5c52b516-d381-43f0-bde6-f9e1e6ee05c6.png)
-```
+<이미지1>
 
 *   명백한 고혈당 증상이 없는 경우에는 다른 날 검사를 반복해야 하지만, 동시에 시행한 검사들에서 두 가지 이상의 기준에
 
@@ -87,7 +83,7 @@
 
 ※ 대부분의 환자에서 islet autoantibodies, 인슐린, proinsulin, c-peptide의 일률적 검사는 권고하지 않음 \[ADA]
 
-#### 혈당 검사 유의 사항 ![image](../.gitbook/assets/a5e7f150-f890-4355-a19c-24ef8dc6eb40.png)
+#### 혈당 검사 유의 사항
 
 * 공복 : 8시간 이상 칼로리 섭취를 하지 않음; 단 ＞12시간 공복 시 결과가 부정확해짐
 * 식후 2시간은 식사 개시부터 2시간째를 의미(경구 당 부하 검사도 마시기 시작부터)
@@ -106,6 +102,8 @@
 
     •당 부하 검사 위양성 유발 인자 : 영양실조, 병상 생활, 감염, 심한 정서적 스트레스
 
+<이미지2>
+
 #### 당화혈색소 검사 유의 사항
 
 * A1C는 최근 2\~3개월의 혈당 상태를 반영. 특히 최근 1개월의 혈당 수준에 50%의 영향을 받음
@@ -115,9 +113,91 @@
 *   A1C false decrease : 급만성 실혈, 용혈성 빈혈, ribavirin/interferon-α(용혈성 빈혈 관련), splenomegaly, Vit E 섭취,
 
     임신 2&3분기/산욕기, 채혈 또는 검사 지연에 의한 RBC 파괴
-*   A1C false variation : 수혈, Hb variants, Vit C 복용
+* A1C false variation : 수혈, Hb variants, Vit C 복용
 
-    ![image](../.gitbook/assets/e113174d-e0a9-4875-900d-d1bd3684976d.png)
+
+
+```mermaid
+graph TD
+    %% Nodes Definition
+    Start([T1DM 의심 1])
+    Islet[islet auto-antibodies 검사 2]
+    
+    T1DM_Diag1([T1DM 진단])
+    
+    Age{연령?}
+    
+    MonoCheck{monogenic diabetes의 특징? 4}
+    Cpep1[C-peptide 검사 5]
+    GeneTest([가능한 경우 단일원성 DM에<br>대한 유전자 검사 7])
+    T1DM_Diag2([T1DM 진단])
+    
+    T2DMCheck{T2DM 특징? 6}
+    
+    Unclear[분류 불명확 8<br>당뇨병 치료에 대한 임상적 결정 9]
+    ReCpep1[3년 후 C-peptide 재검 고려 5]
+    
+    T1DM_Diag3([T1DM 진단])
+    Uncertain[불확정 10<br>5년 후 C-pep. 재검 고려]
+    T2DM_Diag([T2DM 진단])
+
+    %% Connections
+    Start --> Islet
+    
+    Islet -->|양성| T1DM_Diag1
+    Islet -->|음성 3| Age
+    
+    Age -->|35세 미만| MonoCheck
+    Age -->|35세 이상| Unclear
+    
+    MonoCheck -->|있음| Cpep1
+    MonoCheck -->|없음| T2DMCheck
+    
+    Cpep1 -->|200 pmol/L 초과| GeneTest
+    Cpep1 -->|200 pmol/L 미만| T1DM_Diag2
+    
+    T2DMCheck -->|No| T1DM_Diag2
+    T2DMCheck -->|Yes| Unclear
+    
+    Unclear --> ReCpep1
+    
+    ReCpep1 -->|200 pmol/L 미만| T1DM_Diag3
+    ReCpep1 -->|200 ~ 600| Uncertain
+    ReCpep1 -->|600 pmol/L 초과| T2DM_Diag
+
+    %% Styling
+    style Start fill:#F3E8FF,stroke:#D8B4FE,stroke-width:1px
+    style Islet fill:#F0FDF4,stroke:#BBF7D0,stroke-width:1px
+    style Age fill:#FEF08A,stroke:#FEF08A,stroke-width:1px
+    
+    style MonoCheck fill:#E5E7EB,stroke:#D1D5DB,stroke-width:1px
+    style T2DMCheck fill:#E5E7EB,stroke:#D1D5DB,stroke-width:1px
+    style Unclear fill:#E5E7EB,stroke:#D1D5DB,stroke-width:1px
+    style ReCpep1 fill:#F0FDF4,stroke:#BBF7D0,stroke-width:1px
+    style Cpep1 fill:#F0FDF4,stroke:#BBF7D0,stroke-width:1px
+    
+    style T1DM_Diag1 fill:#FCE7F3,stroke:#FBCFE8,stroke-width:1px
+    style T1DM_Diag2 fill:#FCE7F3,stroke:#FBCFE8,stroke-width:1px
+    style T1DM_Diag3 fill:#FCE7F3,stroke:#FBCFE8,stroke-width:1px
+    style T2DM_Diag fill:#FCE7F3,stroke:#FBCFE8,stroke-width:1px
+    
+    style GeneTest fill:#EFF6FF,stroke:#DBEAFE,stroke-width:1px
+    style Uncertain fill:#EFF6FF,stroke:#DBEAFE,stroke-width:1px
+```
+
+1. _T1DM을 진단하는 단일 임상 특징은 없음._
+2. _1차로 GAD 항체를 측정하며, 음성인 경우 IA-2 or ZnT8 항체를 측정._
+3. _adult onset T1DM 환자의 5-10%가 음성._
+4. _다음 중 하나 이상 해당 시 의심: 진단 시 A1C < 7.5%, 부모 당뇨 병력, 특정 monogenic 원인 특징(예: 신생증, partial lipodystrophy, 모체 유전 남성, 비만이 아니면서 심한 인슐린 저항성), 단일형성 DM 예측 모형 확률 > 5%._
+5. _인슐린 치료를 받는 사람과 없음._
+6. _BMI ≥ 25, 체중 감소 없음, 케톤산증 없음, 환자치가 많은 고령._
+7. _유전자 검사에서 단일형성 DM이 확인되지 않는 경우 분류가 불확하며, 임상적으로 치료 결정._
+8. _고혈당에도 T2DM을 강하게 고려, 필요에 따라 다른 원인 조사도 고려,_
+9. _비인슐린 치료가 적합할 수 있음. T1DM이 의심되는 경우 혈당 약속 시 신속히 인슐린 치료를 시작할 수 있도록 교육 및 모니터링._
+
+**T1DM 의심 환자의 진단 알고리듬**
+
+_Ref. ADA. Standards of Medical Care in Diabetes. 2024. Fig 2.1_
 
 ## 선별 검사
 
@@ -159,26 +239,18 @@
 5. 검사에서 정상이면 최소 매 3년마다(처음 검사 결과와 위험 정도를 고려하여 간격 조절)
 6. HIV 환자
 
-※ 당뇨병 유발 약물을 투여하는 경우 당뇨병 검사 고려;
-
-```
-급성 췌장염 발생 후 3~6개월내 및 매년, 만성 췌장염 환자에서 매년 당뇨병 검사 권고;
-
-임상전단계 T1DM는 6개월마다 A1C 및 매년 당부하 검사 권고 (ADA 2024) 
-```
+※ 당뇨병 유발 약물을 투여하는 경우 당뇨병 검사 고려; 급성 췌장염 발생 후 3\~6개월내 및 매년, 만성 췌장염 환자에서 매년 당뇨병 검사 권고; 임상전단계 T1DM는 6개월마다 A1C 및 매년 당부하 검사 권고 (ADA 2024)&#x20;
 
 #### 당뇨병 위험도 체크 리스트
 
-```
-(Ref. 대한당뇨병학회. 당뇨병 진료지침 2023. Table 2-2)
+<이미지3>
 
-![image](images/ae6b7798-3282-4ca4-ac90-84c0d5568a48.JPG)
-```
+(Ref. 대한당뇨병학회. 당뇨병 진료지침 2023. Table 2-2)
 
 * 합계 점수가 높을수록 당뇨병 발생 위험 증가; 5~~7점 대비 8~~9점 시 2배, ≥10점 시 ≥3배
 * 총점 ≥5점 시 혈당 검사(공복 또는 식후 혈당)를 권고
 
-Management
+## Management
 
 ### 치료 방침
 
@@ -208,9 +280,7 @@ Management
 
 ### 치료 목표
 
-```
-![image](images/9ef7d4a0-416b-4b01-ad3d-948a07b374ea.png)
-```
+<이미지4>
 
 * 식전 포도당이 목표에 도달했음에도 불구하고 A1C 목표가 달성되지 않을 경우 식후 포도당을 목표로 할 수 있음
 *   연속 혈당 측정 장치를 사용 시 목표 혈당 범위(70\~180 ㎎/㎗) 내 시간이 ›70%, 목표 혈당 범위 미만(＜70 ㎎/㎗) 시간을 ＜4%,
@@ -248,10 +318,11 @@ Management
     (alanine aminotrasnferase)와 복부초음파를 시행’, ‘대사이상지방간질환을 동반한 T2DM 성인에게는 간섬유화 확인을 위해
 
     vibration-controlled transient elastography를 고려’ \[무작위대조군연구]
+*
 
-    ![image](../.gitbook/assets/3ffc3ed7-d642-4603-a523-832491c850c8.png)
+<이미지5>
 
-    ![image](../.gitbook/assets/28ac7eee-c0dc-4ddc-91b0-2ea82e28fd59.png)
+![image](../.gitbook/assets/28ac7eee-c0dc-4ddc-91b0-2ea82e28fd59.png)
 
 예방접종
 
@@ -294,9 +365,9 @@ Management
     예: 채소, 과일, 콩류, 통곡물, 유제품
 * 당류 섭취 제한; 당류 섭취를 줄이는데 어려움이 있는 경우에는 인공감미료의 제한적 사용 고려
 * 정해진 용량의 인슐린 주사를 맞는 환자에서는 음식 섭취량과 시간을 일정하게 하도록 교육
-*   낮은 당지수(glycemic index) 및 당부하지수(glycemic load) 식품 권고
+* 낮은 당지수(glycemic index) 및 당부하지수(glycemic load) 식품 권고
 
-    ![image](../.gitbook/assets/47eb31aa-bf9c-4ebd-8d44-402395104faa.JPG)
+<이미지6>
 
 #### 식이 섬유
 
@@ -568,11 +639,11 @@ Management
 
     • 특히 알부민뇨, 소변 Alb/Cr 비 ≥30 ㎎/g, Cr ≥30\~299 ㎎/g, eGFR ＜60, 또는 ASCVD : ACEI 또는 ARB 권고 (☞ p.497)
 
-![image](../.gitbook/assets/2b9b6bce-6c8f-4be3-8ac8-b90c1ad987fd.png)
+<이미지7>
 
 ![image](../.gitbook/assets/41a6ba90-fa69-43ef-9a23-2a68e7697c25.png)
 
-지질 관리
+### 지질 관리
 
 #### T2DM 환자에서의 지질 치료 목표 \[대한당뇨병학회] (☞ p.524)
 
@@ -661,13 +732,11 @@ Management
 
 ### ■ 고령자(≥65세)의 당뇨 관리
 
-고령 당뇨병 환자의 당, 혈압, 지질 목표
+### 고령 당뇨병 환자의 당, 혈압, 지질 목표
 
-```
-![image](images/d17ee38d-7a29-4b77-918f-851b863608fc.png)
-```
+<이미지8>
 
-당뇨 선별 검사
+### 당뇨 선별 검사
 
 *   공복 혈당 &/or A1C : 당뇨병이 없는 경우 2년마다 검사 권고(환자 상태에 따라 조정)
 
@@ -726,7 +795,8 @@ diabetes self-management training
 
     •Short nutritional assessment questionnaire (SNAQ) : 입원 환자 대상
 
-    ![image](../.gitbook/assets/022b79b3-0e77-467d-ae2a-e3438a778d8d.JPG)
+<이미지9>
+
 * 생활 습관 교정으로 목표 혈당에 도달하지 못한 영양실조의 위험이 있는 환자에 대하여 단순 당의 섭취 제한을 고려
 * 식이 변화 시 당의 변화를 세심히 관찰해야 함
 
@@ -748,9 +818,9 @@ diabetes self-management training
 
 ### CKD 또는 CVD가 있는 고령 당뇨병 환자에서의 약물 특성
 
-```
-![image](images/db34a184-9995-42fe-945a-7388a2958c94.JPG)
-```
+<이미지10>
+
+
 
 ### 합병증 관리
 
@@ -813,7 +883,7 @@ statin을 투여받는 환자는 규칙적인 혈당 모니터링이 필요함
 
 ※ GDM 환자가 출산 후 상담 및 T2DM 예방 관리를 받는다면 1단계 접근법이 비용 효율적임 \[ADA]
 
-![image](../.gitbook/assets/fb14ec3f-9304-488d-ad5a-a03f983d899b.png)
+<이미지11>
 
 ### 조절 목표 및 치료
 
