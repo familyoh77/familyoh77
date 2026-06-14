@@ -48,17 +48,17 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* BP ＞180/120 ㎜Hg이면서 표적 장기 손상, 망막부종, 뇌압 증가, 대동맥박리증, 임신중독증, 심부전, 급성 신부전, MI, 불안정 협심증, 호흡 곤란 동반 → 고혈압성 응급(hypertensive emergency)
+* BP ＞180/120 ㎜Hg이면서 표적 장기 손상, 망막부종, 뇌압 증가, 대동맥박리증, 임신중독증, 심부전, 급성 신부전, MI, 불안정 협심증, 호흡 곤란 동반&#x20;
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 이뇨제를 포함하여 3제 이상 항고혈압제 투여에도 조절되지 않는 난치성(혹은 저항성) 고혈압
-* 이차성 고혈압 의심 (급격한 발생, 젊은 연령, 저칼륨혈증, 치료 저항)
+* 이뇨제를 포함하여 3제 이상 항고혈압제 투여에도 조절되지 않는 고혈압
+* 급격한 발생, 젊은 연령, 저칼륨혈증, 치료 저항 → 이차성 고혈압
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 악화되면 의뢰</mark>
 
-* 중증 신장 이상 : eGFR ≤30, 단백뇨 ≥500 ㎎/d, 4개월간 eGFR ＞30% 급감, 고칼륨혈증
-* 잘 조절되던 혈압이 뚜렷한 이유 없이 상승 → 이차성 고혈압 또는 약물 순응도 문제 평가
+* eGFR ≤30, 단백뇨 ≥500 ㎎/d, 4개월간 eGFR ＞30% 급감, 고칼륨혈증 → 중증 신장 이상
+* 잘 조절되던 혈압이 뚜렷한 이유 없이 상승&#x20;
 
 ### <mark style="color:orange;">고혈압 유형</mark>
 
@@ -173,29 +173,28 @@
 ### <mark style="color:orange;">이차성 고혈압 (Secondary hypertension)</mark>
 
 * 비율 : 전체 고혈압의 약 10\~35% (난치성(혹은 저항성) 고혈압에서는 더 높음)
-
-{% hint style="info" %}
-**\[2026 대한고혈압학회]** 장기적 심혈관질환 위험 감소와 조기 예방 효과 강화를 위하여 20\~39세 **젊은 고혈압 환자**를 핵심 관리 대상으로 제시; 40세 미만 고혈압 환자에서 이차성 고혈압 선별검사를 적극 권고, 젊은 고혈압 환자에서 표적장기 손상 평가를 통해 고위험군을 조기 선별하고 필요 시 신속한 약물치료 시작 고려
-{% endhint %}
-
 * 원인 : 폐쇄수면무호흡증(가장 흔함), 콩팥 질환, 갑상선 질환, 부갑상선항진증, 원발성 aldosteronism, 쿠싱증후군, 갈색세포종, 대동맥 축착, 약물
   * 유발 약물 : 경구 피임제 (특히 고에스트로겐제), 스테로이드, NSAID 장기 투여, 식욕 억제제, TCA, SSRI, pseudoephedrine, clozapine, olanzapine, cyclosporine, tacrolimus, erythropoietin
   * OSA 감별 : STOP-BANG 점수 ≥3점 시 수면다원검사 고려
 * 감별 검사 대상
-  1. 연령, 병력, 신체 진찰, 고혈압의 중증도나 기본 검사실 검사상 이차성 고혈압이 의심됨
-  2. 혈압이 약물 치료에 잘 반응하지 않음
-  3. 잘 조절되던 혈압이 뚜렷한 이유 없이 상승
-  4. 갑자기 발생한 고혈압
+  1. 갑자기 발생한 고혈압
+  2. 연령, 병력, 신체 진찰, 고혈압의 중증도나 기본 검사실 검사상 이차성 고혈압이 의심됨
+  3. 혈압이 약물 치료에 잘 반응하지 않음
+  4. 잘 조절되던 혈압이 뚜렷한 이유 없이 상승
 
 {% hint style="info" %}
-**난치성 고혈압이 있는 성인**의 경우 저칼륨혈증 여부와 관계없이 원발성 aldosteronism을 감별; 아래 중 하나라도 해당하는 경우 혈장 알도스테론 농도, 혈장 레닌 활성, 알도스테론/레닌 비율(ARR) 측정을 권고 \[대한고혈압학회]
+**\[젊은 고혈압 환자]** 장기적 심혈관질환 위험 감소와 조기 예방 효과 강화를 위하여 20\~39세 젊은 고혈압 환자를 핵심 관리 대상으로 제시; 40세 미만 고혈압 환자에서 이차성 고혈압 선별검사를 적극 권고, 젊은 고혈압 환자에서 표적장기 손상 평가를 통해 고위험군을 조기 선별하고 필요 시 신속한 약물치료 시작 고려 \[2026 대한고혈압학회]&#x20;
+{% endhint %}
 
-* 난치성(저항성) 고혈압
-* 부신 우연종(adrenal incidentaloma)
-* 조기 발병 고혈압
-* 저칼륨혈증
-* 폐쇄성 수면무호흡증
-* 40세 미만 뇌졸중 가족력 또는 일차성 알도스테론증 가족력
+{% hint style="info" %}
+**\[난치성 고혈압 환자]** 저칼륨혈증 여부와 관계없이 원발성 aldosteronism을 감별; 아래 중 하나라도 해당하는 경우 혈장 알도스테론 농도, 혈장 레닌 활성, 알도스테론/레닌 비율(ARR) 측정을 권고 \[대한고혈압학회]
+
+• 난치성(저항성) 고혈압\
+• 부신 우연종(adrenal incidentaloma)\
+• 조기 발병 고혈압\
+• 저칼륨혈증\
+• 폐쇄성 수면무호흡증\
+• 40세 미만 뇌졸중 가족력 또는 일차성 알도스테론증 가족력
 
 ✽ 선별검사 전 MRA(스피로놀락톤 등)는 중단하나, 그 외 대부분의 항고혈압제는 중단하지 않고 유지
 {% endhint %}
@@ -204,9 +203,9 @@
 
 <table><thead><tr><th width="134">원인</th><th>과거력</th><th width="133">신체 진찰</th><th width="149">생화학 검사</th><th>초기 검사 / 추가 검사</th></tr></thead><tbody><tr><td><strong>콩팥 실질병</strong></td><td>요로감염 또는 폐색 병력, 진통제 남용, 다낭콩팥병 가족력</td><td>복부 중앙 (다낭콩팥병)</td><td>소변 내 단백질, 적혈구 및 백혈구, eGFR 감소</td><td>•콩팥 초음파<br>•콩팥병에 대한 세부 검사</td></tr><tr><td><strong>콩팥 동맥 협착</strong></td><td>섬유근육 형성이상·고혈압 조기 발현(여성), 죽상동맥경화증·갑자기 발현, 악화 및 치료 저항성·반복적 폐부종</td><td>복부 잡음</td><td>양측 콩팥 크기 차이 >1.5cm, 콩팥 기능의 불균형 (ACEI/ARB 투여 후 eGFR 급감)</td><td>•Duplex 도플러 콩팥 초음파, CT<br>•MR Angiography, 동맥 내 혈관 조영</td></tr><tr><td><strong>원발성 알도스테론증</strong></td><td>근력 저하, 고혈압 조기 발병 ≤40세</td><td>부종맥 (매우 심한 저칼륨혈증)</td><td>저칼륨혈증 (자발적 또는 이뇨제 투여 후)</td><td>•aldosterone-to-renin ratio (ARR) 측정<br>•확진 검사: 부신 CT, 부신 정맥 혈액 채취</td></tr><tr><td><strong>갈색세포종</strong></td><td>발작 또는 지속적인 고혈압에 동반되는 두통, 발한, 심계항진; 가족력</td><td>신경섬유종증 징후 (café-au-lait 반점)</td><td>우연히 발견된 부신 종양</td><td>•24시간 소변 내 메타네프린 및 노르메타네프린<br>•복부·골반 CT 또는 MRI</td></tr><tr><td><strong>쿠싱증후군</strong></td><td>빠른 체중 증가, 다모, 다낭성 난소 병력</td><td>중심성 비만, 달 얼굴, 복부 선홍색 선조, 근력 저하</td><td>고혈당</td><td>•24시간 소변 내 코티솔<br>•덱사메타손 억제 검사</td></tr></tbody></table>
 
-### <mark style="color:$primary;">연령별 이차성 고혈압 원인</mark> \[2023 ESH]
+#### <mark style="color:$primary;">연령별 이차성 고혈압 원인</mark>&#x20;
 
-<table data-header-hidden><thead><tr><th width="312"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="73"></th></tr></thead><tbody><tr><td><strong>질환명 / 연령 (yr)</strong></td><td><strong>1~12</strong></td><td><strong>13~18</strong></td><td><strong>19~40</strong></td><td><strong>41~65</strong></td><td><strong>>65세</strong></td></tr><tr><td>Mild aortic syndrome</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Coarctation of aorta</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Renal parenchymal disease</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Renovascular HT - FMD</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>RV HT - Atherosclerotic Dz.</td><td></td><td></td><td></td><td>●</td><td>●</td></tr><tr><td>Monogenic disorders</td><td>●</td><td>●</td><td>●</td><td></td><td></td></tr><tr><td>Pheochromocytoma &#x26; paraganglioma</td><td></td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Primary aldosteronism</td><td></td><td></td><td>●</td><td>●</td><td></td></tr><tr><td>Cushing Syndrome</td><td></td><td></td><td></td><td>●</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="312"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="73"></th></tr></thead><tbody><tr><td><strong>질환명 / 연령 (yr)</strong> [2023 ESH]</td><td><strong>1~12</strong></td><td><strong>13~18</strong></td><td><strong>19~40</strong></td><td><strong>41~65</strong></td><td><strong>>65세</strong></td></tr><tr><td>Mild aortic syndrome</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Coarctation of aorta</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Renal parenchymal disease</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Renovascular HT - FMD</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>RV HT - Atherosclerotic Dz.</td><td></td><td></td><td></td><td>●</td><td>●</td></tr><tr><td>Monogenic disorders</td><td>●</td><td>●</td><td>●</td><td></td><td></td></tr><tr><td>Pheochromocytoma &#x26; paraganglioma</td><td></td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Primary aldosteronism</td><td></td><td></td><td>●</td><td>●</td><td></td></tr><tr><td>Cushing Syndrome</td><td></td><td></td><td></td><td>●</td><td></td></tr></tbody></table>
 
 ## <mark style="color:green;">진단</mark>
 
@@ -215,7 +214,7 @@
 　_¹⁾ 심혈관 질환의 발병 위험이 가장 낮은 최적 혈압. ²⁾ ≥180/110 시 Grade 3 HT로 분류_
 
 * ≥1주 간격(ESH에서는 1\~4주)으로 ≥2회 방문 측정하여 모두 고혈압 기준에 해당되면 진단
-  * ≥180/110 ㎜Hg, 혈압 관련 증상, HMOD, CVD 등이 있는 경우에는 바로 진단 가능
+* ≥180/110 ㎜Hg, 혈압 관련 증상, HMOD, CVD 등이 있는 경우에는 바로 진단 가능
 * 고혈압 진단 전 진료실 이외 혈압(활동/가정혈압) 측정 권고
 * ESH는 Grade 1·2·3으로 고혈압을 분류하는 한편 BP value에 기초하여 Stage를 분류
   * Stage 1 : 합병증 없는 고혈압; HMOD 또는 확인된 CVD 없음, CKD stage 1 또는 2
@@ -227,7 +226,7 @@
 <table><thead><tr><th width="108">구분</th><th width="100">의료기관</th><th width="100">HBPM</th><th width="114">주간 ABPM</th><th width="114">야간 ABPM</th><th width="114">아침 ABPM</th><th>24시간 ABPM</th></tr></thead><tbody><tr><td><strong>정상 혈압</strong></td><td>120/80</td><td>120/80</td><td>120/80</td><td>100/65</td><td>120/80</td><td>115/75</td></tr><tr><td><strong>고혈압</strong></td><td>140/90</td><td>135/85</td><td>135/85</td><td>120/70</td><td>135/85</td><td>130/80</td></tr></tbody></table>
 
 　_HBPM/ABPM=Home/Ambulatory BP monitoring; HBPM은 진료실 측정 혈압보다 평균 12/7 ㎜Hg 낮음_\
-　_✽ 2026년 대한고혈압학회 지침: 아침 평균 혈압 기준(≥135/85_ ㎜_Hg)을 진단 기준표에 신규 추가_
+　_✽ 2026년 대한고혈압학회 : 아침 평균 혈압 기준(≥135/85_ ㎜_Hg)을 진단 기준표에 신규 추가_
 
 ***
 
@@ -271,7 +270,7 @@ class N,B5 peach
 
 ### <mark style="color:orange;">혈압 측정</mark>
 
-#### <mark style="color:$primary;">선별 측정 대상 (대한고혈압학회)</mark>
+#### <mark style="color:$primary;">선별 측정 대상</mark>&#x20;
 
 * ≥20세 모든 성인에 대하여 2년마다 진료실혈압 측정
   * 고혈압 또는 고혈압전단계 진단 시 가정혈압 또는 활동혈압 측정
