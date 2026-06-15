@@ -463,7 +463,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 **ADA** (2024/2025)
 
-<table><thead><tr><th width="241">대상</th><th width="140">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>ASCVD(+) 또는 10년 위험도 ≥15%</td><td>&#x3C;130/80</td><td>알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB</td></tr><tr><td>고혈압이 있는 건강한 당뇨 환자</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>임신부</td><td>&#x3C;110~135/85</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="277.19049072265625">대상</th><th width="127.6190185546875">목표 혈압</th><th width="335.5557861328125">1차 선택제</th></tr></thead><tbody><tr><td>ASCVD(+) 또는 10년 위험도 ≥15%</td><td>&#x3C;130/80</td><td>알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB</td></tr><tr><td>고혈압이 있는 건강한 당뇨 환자</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>임신부</td><td>&#x3C;110~135/85</td><td>—</td></tr></tbody></table>
 
 ***
 
@@ -533,11 +533,11 @@ class S10,S12,S14 blue
 
 **혈압의 정도와 심뇌혈관 위험도에 따른 단일 또는 병용 약제 선택** (대한고혈압학회. 2026)
 
-<table><thead><tr><th width="185">구분</th><th width="154">고혈압전단계</th><th width="156">1기 고혈압</th><th>2기 고혈압</th></tr></thead><tbody><tr><td><strong>동반 위험 인자 0개</strong></td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>동반 위험 인자 1~2개</strong></td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>동반 위험 인자 ≥3개, DM &#x26; 동반 위험 인자 ≥1개, 무증상 장기 손상</strong></td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td><strong>심뇌혈관질환, 만성콩팥병</strong></td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
+<table><thead><tr><th width="185">구분</th><th width="154">고혈압전단계</th><th width="156">1기 고혈압</th><th>2기 고혈압</th></tr></thead><tbody><tr><td>동반 위험 인자 0개</td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 1~2개</td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 ≥3개, DM &#x26; 동반 위험 인자 ≥1개, 무증상 장기 손상</td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>심뇌혈관질환, 만성콩팥병</td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
 
 ※ 10년간 CVD 발생률 기준 : <mark style="background-color:blue;">저위험: <5%</mark>, <mark style="color:orange;background-color:yellow;">중저위험: 5\~10%</mark>, <mark style="background-color:$warning;">중위험: 10\~15%</mark>, <mark style="background-color:$danger;">고위험: ≥15%</mark>
 
-¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위험 인자가 생기거나, 자주 추적 관리가 어려운 경우 조기 약물 치료 고려. ²⁾ 단백뇨 또는 당뇨병성 신질환이 있는 경우 치료 지연 금지
+_¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위험 인자가 생기거나, 자주 추적 관리가 어려운 경우 조기 약물 치료 고려. ²⁾ 단백뇨 또는 당뇨병성 신질환이 있는 경우 치료 지연 금지_
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
