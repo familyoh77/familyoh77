@@ -531,9 +531,9 @@ class S10,S12,S14 blue
 
 ***
 
-**혈압의 정도와 심뇌혈관 위험도에 따른 단일 또는 병용 약제 선택** (대한고혈압학회. 2026)
+**혈압의 정도와 심뇌혈관 위험도에 따른 단일 또는 병용 약제 선택**&#x20;
 
-<table><thead><tr><th width="185">구분</th><th width="154">고혈압전단계</th><th width="156">1기 고혈압</th><th>2기 고혈압</th></tr></thead><tbody><tr><td>동반 위험 인자 0개</td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 1~2개</td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 ≥3개, DM &#x26; 동반 위험 인자 ≥1개, 무증상 장기 손상</td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>심뇌혈관질환, 만성콩팥병</td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
+<table><thead><tr><th width="215.4761962890625">구분</th><th width="154">고혈압전단계</th><th width="200.761962890625">1기 고혈압</th><th width="176.7939453125">2기 고혈압</th></tr></thead><tbody><tr><td>동반 위험 인자 0개</td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 1~2개</td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 ≥3개, <br>DM &#x26; 동반 위험 인자 ≥1개, <br>무증상 장기 손상</td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>심뇌혈관질환, 만성콩팥병</td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
 
 ※ 10년간 CVD 발생률 기준 : <mark style="background-color:blue;">저위험: <5%</mark>, <mark style="color:orange;background-color:yellow;">중저위험: 5\~10%</mark>, <mark style="background-color:$warning;">중위험: 10\~15%</mark>, <mark style="background-color:$danger;">고위험: ≥15%</mark>
 
@@ -543,21 +543,21 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 ### <mark style="color:orange;">생활 요법 및 효과</mark>
 
-<table data-header-hidden><thead><tr><th width="113"></th><th width="129"></th><th></th><th width="126"></th><th width="125"></th></tr></thead><tbody><tr><td><strong>권고 내용</strong></td><td><strong>중재</strong></td><td><strong>목표</strong></td><td><strong>SBP 강하 효과 - 고혈압 환자</strong></td><td><strong>SBP 강하 효과 - 정상 혈압자</strong></td></tr><tr><td><strong>체중 감량</strong></td><td>Weight/body fat</td><td>BMI 25; 허리둘레 남 90/여 85 ㎝</td><td>-5¹⁾</td><td>-2/3</td></tr><tr><td><strong>건강 식이</strong></td><td>DASH dietary pattern</td><td>권장: 식이섬유, 과일, 야채, 통곡물, 저지방 유제품, 생선; 제한: 포화 지방, 총지방</td><td>-11</td><td>-3</td></tr><tr><td><strong>Na 섭취 제한</strong></td><td>Dietary Na</td><td>소금 섭취 제한 5 g/d (나트륨 2,000 mg) ↓ <em>2022: 6 g/d</em></td><td>-5~6</td><td>-2~3</td></tr><tr><td><strong>K 섭취 권장</strong></td><td>Dietary K</td><td>3.5~5 g/d; K 풍부 식이 권장</td><td>-4~5</td><td>-2</td></tr><tr><td><strong>금연/절주</strong></td><td>금연/음주 제한</td><td>남 ≤2 SD/d, 여 ≤1 SD/d</td><td>-4</td><td>-3</td></tr><tr><td><strong>유산소 운동</strong></td><td>Aerobic exercise</td><td>90~150분/주; 가급적 매일; 심박수 예비율²⁾ 65~75%</td><td>-5~8</td><td>-2~4</td></tr><tr><td><strong>동적 저항 운동</strong></td><td>Dynamic resistance</td><td>90~150분/주; 1RM³⁾의 50~80%; 6종목 × 3set × 10회 반복/set</td><td>-4</td><td>-2</td></tr><tr><td><strong>등척성 저항 운동</strong></td><td>Isometric resistance</td><td>4×2분(hand grip), 운동 사이 1분 휴식, 최대 수축력의 30~40%; 3sessions/주, 8~10주</td><td>-5</td><td>-4</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="135.857177734375"></th><th width="334.952392578125"></th><th width="126"></th><th width="125"></th></tr></thead><tbody><tr><td><strong>권고 내용</strong></td><td><strong>목표</strong></td><td><strong>SBP 강하 효과 - 고혈압 환자</strong></td><td><strong>SBP 강하 효과 - 정상 혈압자</strong></td></tr><tr><td><strong>체중 감량</strong></td><td>BMI 25; 허리둘레 남 90/여 85 ㎝</td><td>-5¹⁾</td><td>-2/3</td></tr><tr><td><strong>건강 식이</strong><br>(DASH diet)</td><td>권장: 식이섬유, 과일, 야채, 통곡물, 저지방 유제품, 생선; 제한: 포화 지방, 총지방</td><td>-11</td><td>-3</td></tr><tr><td><strong>Na 섭취 제한</strong></td><td>소금 섭취 제한 5 g/d (나트륨 2,000 ㎎)</td><td>-5~6</td><td>-2~3</td></tr><tr><td><strong>K 섭취 권장</strong></td><td>3.5~5 g/d; K 풍부 식이 권장</td><td>-4~5</td><td>-2</td></tr><tr><td><strong>금연/절주</strong></td><td>남 ≤2 SD/d, 여 ≤1 SD/d</td><td>-4</td><td>-3</td></tr><tr><td><strong>유산소 운동</strong></td><td>90~150분/주; 가급적 매일; 심박수 예비율²⁾ 65~75%</td><td>-5~8</td><td>-2~4</td></tr><tr><td><strong>동적 저항 운동</strong></td><td>90~150분/주; 1RM³⁾의 50~80%; 6종목 × 3set × 10회 반복/set</td><td>-4</td><td>-2</td></tr><tr><td><strong>등척성 저항 운동</strong></td><td>4×2분(hand grip), 운동 사이 1분 휴식, 최대 수축력의 30~40%; 3sessions/주, 8~10주</td><td>-5</td><td>-4</td></tr></tbody></table>
 
 　_¹⁾ 체중 1 kg 감량 시 SBP 1 mmHg 감소 효과_\
 　_²⁾ Heart rate reserve = 최대 심박수(220 - 연령) - 휴식 시 심박수_\
 　_³⁾ RM (repetition maximum): 정해진 횟수의 리프트를 할 수 있는 최대 무게_
 
 {% hint style="info" %}
-**\[2025 ACC/AHA]** 칼륨 기반 소금 대체제(예: KCl 혼합 저나트륨 소금) 사용이 고혈압 관리에 유익-권. 단, CKD 환자 또는 칼륨 배출을 억제하는 약제(ACEI/ARB/MRA) 복용 환자에서는 제외
+**칼륨 기반 소금 대체제**(예: KCl 혼합 저나트륨 소금) 사용이 고혈압 관리에 유용. 단, CKD 환자 또는 칼륨 배출을 억제하는 약제(ACEI/ARB/MRA) 복용 환자에서는 제외 \[2025 ACC/AHA]&#x20;
 {% endhint %}
 
 ### <mark style="color:orange;">운동 요법</mark>
 
 　☞ [운동 지침](../231_/216_-physical-activity-guideline.md)
 
-* 작용 : 수축기 및 이완기혈압 감소, 심혈관 질환 발병 위험 감소
+* 효과 : 수축기 및 이완기 혈압 감소, 심혈관 질환 발병 위험 감소
 * 유산소운동 : 중강도 150분/주 이상 또는 고강도 75분/주 이상 (걷기, 뛰기, 자전거타기, 수영 등); 주 5\~7일 분산 권고 \[2026 대한고혈압학회]
 * 저항성 운동 병행 : 스쿼트, 팔굽혀펴기, 덤벨 등 근력 운동을 유산소운동과 병행 권고
 * 심장병 등 위험 인자가 있는 경우는 허용 운동 강도에 대한 평가 필요
@@ -569,7 +569,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 ### <mark style="color:orange;">마음 요법 (Mind-body Therapy)</mark>
 
 {% hint style="info" %}
-**\[2026 대한고혈압학회]** 스트레스 완화가 혈압 감소에 도움이 된다는 근거에 기반하여 비약물 치료 전략에 마음 요법을 새롭게 포함
+&#x20;스트레스 완화가 혈압 감소에 도움이 된다는 근거에 기반하여 비약물 치료 전략에 마음 요법을 추가 \[대한고혈압학회]
 {% endhint %}
 
 * 호흡 훈련 : 완서호흡(slow breathing) 연습; 기기 보조 호흡 훈련 포함
