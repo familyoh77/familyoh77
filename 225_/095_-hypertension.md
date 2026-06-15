@@ -354,10 +354,8 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 •  심장 : 좌심실 비대\
 •  혈관 : 죽상경화반(경동맥초음파), 동맥-대퇴 동맥간 맥파 전달 속도 ＞10 m/sec, 위팔 동맥-발목 동맥 간 맥파 전달 속도 ＞18 m/sec\
 •  관상 동맥 석회화 점수 >400 (중증 석회화)\
-•  콩팥 : 알부민뇨, eGFR 감소<br>
+•  콩팥 : 알부민뇨, eGFR 감소
 {% endhint %}
-
-
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -435,33 +433,30 @@ _\*대한고혈압학회는 2년마다 측정 권고_
   * 심한 야간 저혈압 주의 (허혈성 시신경증 유발 가능)
 
 {% hint style="info" %}
-**\[2025 ACC/AHA]** 주요 변경 사항 : ⓵ ASCVD 계산기 대신 [PREVENT](https://tools.acc.org/prevent/#!/baseline/1/2025) (Predicting Risk of CVD Events) 위험 계산기 사용 권고 - 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 데이터 포함; ⓶ 치료 시작 기준 위험도를 ≥10% → ≥7.5%로 낮춤; ⓷ 원발성 알도스테론증 스크리닝 강화; ⓸ atenolol 회피 권고
+**\[2025 ACC/AHA]** 주요 변경 사항 : ⓵ 치료 기준으로 ASCVD 계산기 대신 PREVENT (Predicting Risk of CVD Events) 위험 계산기 사용 권고 - 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 데이터 포함; ⓶ 치료 시작 기준 위험도를 ≥10% → ≥7.5%로 낮춤; ⓷ 원발성 알도스테론증 스크리닝 강화; ⓸ atenolol 회피 권고
 
-**\[2026 대한고혈압학회]** 주요 변경 사항 : ⓵ 혈압 분류에 이완기단독고혈압(IDH) 추가; ⓶ 소금 섭취 권고량 6 g → 5 g(나트륨 2,000 mg) 하향 조정; ⓷ 모든 당뇨병 환자의 목표 혈압 <130/80 ㎜Hg로 단일화; ⓸ 뇌졸중 목표 혈압 <140 → <130 ㎜Hg (권고등급 I/A로 상향); ⓹ 만성콩팥병 목표 혈압 <140/90 → <130/80 ㎜Hg; ⓺ 운동 권고 유산소 중강도 주 150분 이상 + 저항성 운동 병행; ⓻ 전자담배 흡연자도 금연 권고; ⓼ ARNI, SGLT2 억제제, 피네레논, 알도스테론합성효소 억제제를 항고혈압제로 추가
+**\[2026 대한고혈압학회]** 주요 변경 사항 : ⓵ 혈압 분류에 이완기단독고혈압(IDH) 추가; ⓶ 소금 섭취 권고량 6 g → 5 g(나트륨 2,000 mg) 하향 조정; ⓷ 모든 당뇨병 환자의 목표 혈압 <130/80 ㎜Hg로 단일화; ⓸ 뇌졸중 목표 수축기혈압 <140 → <130 ㎜Hg; ⓹ 만성콩팥병 목표 혈압 <140/90 → <130/80 ㎜Hg; ⓺ 운동 권고 유산소 중강도 주 150분 이상 + 저항성 운동 병행; ⓻ 전자담배도 중단 권고; ⓼ ARNI, SGLT2 억제제, 피네레논, 알도스테론합성효소 억제제를 항고혈압제로 추가
 {% endhint %}
 
 #### <mark style="color:$primary;">목표 혈압</mark>
 
 **대한고혈압학회** (2026)
 
-<table><thead><tr><th width="277">대상</th><th width="150">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>저위험군 및 중위험군 고혈압, 노인 고혈압</td><td>&#x3C;140/90</td><td>—</td></tr><tr><td>임신</td><td>&#x3C;140/90</td><td>nifedipine ER, amlodipine (1차); labetalol (주사제); methyldopa·hydralazine</td></tr><tr><td>고위험군 고혈압¹⁾, 당뇨병, 심혈관질환(관상동맥질환·말초혈관질환·복부대동맥류·심부전), 만성콩팥병, 뇌졸중</td><td>&#x3C;130/80²⁾</td><td>알부민뇨 동반 CKD/DM 시 ACEI/ARB; 만성콩팥병에 SGLT2 억제제</td></tr></tbody></table>
+<table><thead><tr><th width="317.952392578125">대상</th><th width="116.666748046875">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>저위험군 및 중위험군 고혈압, 노인 고혈압</td><td>&#x3C;140/90</td><td>—</td></tr><tr><td>임신</td><td>&#x3C;140/90</td><td>nifedipine ER, amlodipine (1차); labetalol (주사제); methyldopa·hydralazine</td></tr><tr><td>고위험군 고혈압¹⁾, 당뇨병, 심혈관질환(관상동맥질환·말초혈관질환·복부대동맥류·심부전), 만성콩팥병, 뇌졸중</td><td>&#x3C;130/80²⁾</td><td>알부민뇨 동반 CKD/DM 시 ACEI/ARB; 만성콩팥병에 SGLT2 억제제</td></tr></tbody></table>
 
 　_¹⁾ 고위험군: 무증상 장기 손상 또는 심뇌혈관질환 위험 인자 3개 이상 동반_\
 　_²⁾ 만성콩팥병에서 표준화된 측정법(AOBP)으로 혈압 측정 시 SBP <120_ ㎜_Hg 조절 고려 가능. 뇌졸중 중 두개내혈관협착 동반 뇌경색은 <140/90_ ㎜_Hg 권고_
 
-**ESH** (2023)\*
+**ESH** (2023)
 
-<table><thead><tr><th width="276">대상</th><th width="210">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General (18~64세)</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>65~79세 (치료에 잘 견디는 경우)</td><td>&#x3C;140/80 (130/80)</td><td>—</td></tr><tr><td>65~79세 수축기 단독 고혈압 (치료에 잘 견디는 경우)</td><td>SBP 140~150 (130~139)</td><td>—</td></tr><tr><td>≥80세 (치료에 잘 견디는 경우)</td><td>140~150/&#x3C;80 (130~139)</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="392.19049072265625">대상</th><th width="219.5238037109375">목표 혈압</th></tr></thead><tbody><tr><td>General (18~64세)</td><td>&#x3C;130/80</td></tr><tr><td>65~79세 (치료에 잘 견디는 경우)</td><td>&#x3C;140/80 (130/80)</td></tr><tr><td>65~79세 수축기 단독 고혈압 (치료에 잘 견디는 경우)</td><td>SBP 140~150 (130~139)</td></tr><tr><td>≥80세 (치료에 잘 견디는 경우)</td><td>140~150/&#x3C;80 (130~139)</td></tr></tbody></table>
 
-　\* _ESH는 SBP <120 또는 DBP <70을 목표로 하지 않음_
+　※ _SBP <120 또는 DBP <70을 목표로 하지 않음_\
+　※ _5개 계열(ACEI/ARB·CCB·이뇨제·BB) 동등 권고, 계열 간 우선순위 없음_
 
 **ACC/AHA** (2025)
 
-{% hint style="info" %}
-2025 ACC/AHA 가이드라인은 2017년 버전을 대체하며, 치료 기준으로 ASCVD 위험 계산기 대신 PREVENT 계산기 사용을 권고. 기본 분류 기준은 동일(Stage 1: ≥130/80, Stage 2: ≥140/90).
-{% endhint %}
-
-<table><thead><tr><th width="257">대상</th><th width="120">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General ≥65세</td><td>&#x3C;130</td><td>—</td></tr><tr><td>CVD(또는 10년 위험도¹⁾ ≥10%), 당뇨, CKD</td><td>&#x3C;130/80</td><td>thiazide diuretics, CCB, ACEI/ARB</td></tr><tr><td>Heart failure</td><td>&#x3C;130</td><td>diuretics</td></tr><tr><td>CKD</td><td>&#x3C;130/80</td><td>ACEI (알부민뇨 동반 시)</td></tr><tr><td>2차 stroke/TIA 예방</td><td>&#x3C;130/80²⁾</td><td>thiazide + (ACEI/ARB)</td></tr></tbody></table>
+<table><thead><tr><th width="338.90478515625">대상</th><th width="120">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General ≥65세</td><td>&#x3C;130</td><td>—</td></tr><tr><td>CVD(또는 10년 위험도¹⁾ ≥10%), 당뇨, CKD</td><td>&#x3C;130/80</td><td>thiazide diuretics, CCB, ACEI/ARB</td></tr><tr><td>Heart failure</td><td>&#x3C;130</td><td>diuretics</td></tr><tr><td>CKD</td><td>&#x3C;130/80</td><td>ACEI (알부민뇨 동반 시)</td></tr><tr><td>2차 stroke/TIA 예방</td><td>&#x3C;130/80²⁾</td><td>thiazide + (ACEI/ARB)</td></tr></tbody></table>
 
 　_¹⁾ PREVENT 위험도 계산기 사용 권고 (기존 ASCVD 계산기 대체)_\
 　_²⁾ 이전에 고혈압이 없었던 경우 <140/90에서는 약물 치료 권고 안 함_
