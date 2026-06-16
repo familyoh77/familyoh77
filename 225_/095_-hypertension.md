@@ -661,7 +661,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
   * chlorthalidone·indapamide : HCTZ보다 강압 효과가 우수하다고 알려져 있으나, 저나트륨혈증·저칼륨혈증 등 전해질 이상 발생 주의
     * 강압 효과는 chlorthalidone ≥ indapamide > HCTZ 순이라는 인식이 있으나, 실제 임상 결과(심혈관사건 감소) 면에서 우월성이 입증되지 않았고 부작용은 HCTZ보다 많다는 연구 결과가 나오면서 선호 제제를 지정할 근거가 없어짐
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 (1)</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 (1)</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스]</mark></td><td>1.25~5 (1)</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 (1)</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 [1]</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 [1]</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스]</mark></td><td>1.25~5 [1]</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Potassium-sparing agent</mark>
 
@@ -669,7 +669,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 대상 : thiazide 사용 시 저칼륨혈증을 예방하기 위해 병용
 * 주의/금기 : GFR ＜45, 고칼륨혈증
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>amiloride</td><td><mark style="color:blue;">[아미로]</mark></td><td>2.5~10 (1~2)</td></tr><tr><td>triamterene</td><td>—</td><td>25~100 (1~2)</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>amiloride</td><td><mark style="color:blue;">[아미로]</mark></td><td>2.5~10 [1~2]</td></tr><tr><td>triamterene</td><td>—</td><td>25~100 [1~2]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Loop diuretics</mark>
 
@@ -677,7 +677,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 혈압 강하를 위한 단독 선택은 안 함
 * furosemide : 작용 시간이 짧고 전해질/체액 고갈을 초래할 수 있음
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>bumetanide</td><td>—</td><td>0.5~4 (2~3)</td></tr><tr><td>furosemide</td><td><mark style="color:blue;">[라식스]</mark></td><td>40~80 (2~3)</td></tr><tr><td>torsemide</td><td><mark style="color:blue;">[토르세미드]</mark></td><td>2.5~5 (1)</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>bumetanide</td><td>—</td><td>0.5~4 [2~3]</td></tr><tr><td>furosemide</td><td><mark style="color:blue;">[라식스]</mark></td><td>40~80 [2~3]</td></tr><tr><td>torsemide</td><td><mark style="color:blue;">[토르세미드]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Mineralocorticoid receptor antagonist (MRA, Aldosterone antagonist)</mark>
 
@@ -686,7 +686,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 부작용 : K↑, 남성에서 여성형 유방, 발기 부전; 여성에서 월경불순
 * 주의/금기 : 신부전, 고칼륨혈증
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[알닥톤]</mark></td><td>25~50 (1~2)</td></tr><tr><td>eplerenone</td><td>—</td><td>25~100 (1)</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[알닥톤]</mark></td><td>25~50 [1~2]</td></tr><tr><td>eplerenone</td><td>—</td><td>25~100 [1]</td></tr></tbody></table>
 
 {% hint style="info" %}
 **Baxdrostat (Baxfendy)** - 최초의 aldosterone synthase inhibitor (ASI). MRA가 수용체에서 알도스테론을 차단하는 것과 달리, 부신에서 알도스테론 합성 자체를 억제함; Spironolactone을 포함한 4제 요법에도 조절되지 않는 저항성 또는 불응성 고혈압에서 추가 투여 고려; 국내 미출시
@@ -711,11 +711,11 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 **ACEI**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>alacepril</td><td><mark style="color:blue;">[세타프릴]</mark></td><td>25~75 (1 or 2)</td></tr><tr><td>captopril</td><td><mark style="color:blue;">[카프릴]</mark></td><td>25~200 (2)</td></tr><tr><td>cilazapril</td><td><mark style="color:blue;">[실라자프릴]</mark></td><td>1.25~5 (1)</td></tr><tr><td>enalapril</td><td><mark style="color:blue;">[레니프릴]</mark></td><td>5~40 (1 or 2)</td></tr><tr><td>fosinopril</td><td><mark style="color:blue;">[포시릴]</mark></td><td>10~40 (1 or 2)</td></tr><tr><td>imidapril</td><td><mark style="color:blue;">[타나트릴]</mark></td><td>2.5~10 (1)</td></tr><tr><td>lisinopril</td><td><mark style="color:blue;">[제스트릴]</mark></td><td>5~40 (1)</td></tr><tr><td>perindopril</td><td><mark style="color:blue;">[아서틸]</mark></td><td>4~8 (1)</td></tr><tr><td>quinapril</td><td><mark style="color:blue;">[아큐프릴]</mark></td><td>5~80 (1 or 2)</td></tr><tr><td>ramipril</td><td><mark style="color:blue;">[트리테이스]</mark></td><td>2.5~20 (1 or 2)</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>alacepril</td><td><mark style="color:blue;">[세타프릴]</mark></td><td>25~75 [1 or 2]</td></tr><tr><td>captopril</td><td><mark style="color:blue;">[카프릴]</mark></td><td>25~200 [2]</td></tr><tr><td>cilazapril</td><td><mark style="color:blue;">[실라자프릴]</mark></td><td>1.25~5 [1]</td></tr><tr><td>enalapril</td><td><mark style="color:blue;">[레니프릴]</mark></td><td>5~40 [1 or 2]</td></tr><tr><td>fosinopril</td><td><mark style="color:blue;">[포시릴]</mark></td><td>10~40 [1 or 2]</td></tr><tr><td>imidapril</td><td><mark style="color:blue;">[타나트릴]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lisinopril</td><td><mark style="color:blue;">[제스트릴]</mark></td><td>5~40 [1]</td></tr><tr><td>perindopril</td><td><mark style="color:blue;">[아서틸]</mark></td><td>4~8 [1]</td></tr><tr><td>quinapril</td><td><mark style="color:blue;">[아큐프릴]</mark></td><td>5~80 [1 or 2]</td></tr><tr><td>ramipril</td><td><mark style="color:blue;">[트리테이스]</mark></td><td>2.5~20 [1 or 2]</td></tr></tbody></table>
 
 **ARB**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>candesartan</td><td><mark style="color:blue;">[아타칸]</mark></td><td>8~32 (1 or 2)</td></tr><tr><td>eprosartan</td><td><mark style="color:blue;">[테베텐]</mark></td><td>600 (1)</td></tr><tr><td>fimasartan</td><td><mark style="color:blue;">[카나브]</mark></td><td>30~120 (1)</td></tr><tr><td>irbesartan</td><td><mark style="color:blue;">[아프로벨]</mark></td><td>150~300 (1)</td></tr><tr><td>losartan</td><td><mark style="color:blue;">[코자]</mark></td><td>25~100 (1 or 2)</td></tr><tr><td>olmesartan</td><td><mark style="color:blue;">[올메텍]</mark></td><td>20~40 (1)</td></tr><tr><td>telmisartan</td><td><mark style="color:blue;">[미카르디스]</mark></td><td>40~80 (1)</td></tr><tr><td>valsartan</td><td><mark style="color:blue;">[디오반]</mark></td><td>80~320 (1)</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>candesartan</td><td><mark style="color:blue;">[아타칸]</mark></td><td>8~32 [1 or 2]</td></tr><tr><td>eprosartan</td><td><mark style="color:blue;">[테베텐]</mark></td><td>600 [1]</td></tr><tr><td>fimasartan</td><td><mark style="color:blue;">[카나브]</mark></td><td>30~120 [1]</td></tr><tr><td>irbesartan</td><td><mark style="color:blue;">[아프로벨]</mark></td><td>150~300 [1]</td></tr><tr><td>losartan</td><td><mark style="color:blue;">[코자]</mark></td><td>25~100 [1 or 2]</td></tr><tr><td>olmesartan</td><td><mark style="color:blue;">[올메텍]</mark></td><td>20~40 [1]</td></tr><tr><td>telmisartan</td><td><mark style="color:blue;">[미카르디스]</mark></td><td>40~80 [1]</td></tr><tr><td>valsartan</td><td><mark style="color:blue;">[디오반]</mark></td><td>80~320 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">직접 레닌차단제 (Direct renin inhibitor)</mark>
 
@@ -723,7 +723,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 대상 : 당뇨병성 신장병증; 1차 선택제는 아니며 타 약제와 병합 사용
 * 임신 금기
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>aliskiren</td><td>—</td><td>150~300 (1)</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>aliskiren</td><td>—</td><td>150~300 [1]</td></tr></tbody></table>
 
 ### <mark style="color:orange;">칼슘차단제 (Calcium channel blocker, CCB)</mark>
 
@@ -737,11 +737,11 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 **DHP 계**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 (1)</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올메카]</mark></td><td>5~15 (1)</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 (1)</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 (1)</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 (1)</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 (1)</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 (1)</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 (1)</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 (1)</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 (2)</td></tr><tr><td>nifedipine</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>5~60 (1)</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 (1)</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올메카]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>5~60 [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 [1]</td></tr></tbody></table>
 
 **non-DHP 계**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>diltiazem</td><td><mark style="color:blue;">[헤르벤]</mark></td><td>180~420 (1)</td></tr><tr><td>verapamil</td><td><mark style="color:blue;">[이솦틴]</mark></td><td>120~360 (1 or 2)</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>diltiazem</td><td><mark style="color:blue;">[헤르벤]</mark></td><td>180~420 [1]</td></tr><tr><td>verapamil</td><td><mark style="color:blue;">[이솦틴]</mark></td><td>120~360 [1 or 2]</td></tr></tbody></table>
 
 ### <mark style="color:orange;">β-차단제 (β-adrenergic receptor blocker, BB)</mark>
 
@@ -760,15 +760,15 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 **Cardioselective**
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>atenolol</td><td>-</td><td><mark style="color:blue;">[테놀민]</mark></td><td>25~100 (1)</td></tr><tr><td>betaxolol</td><td>-</td><td><mark style="color:blue;">[켈론]</mark></td><td>5~20 (1)</td></tr><tr><td>bevantolol</td><td>-</td><td><mark style="color:blue;">[칼반]</mark></td><td>100~200 (2)</td></tr><tr><td>bisoprolol</td><td>-</td><td><mark style="color:blue;">[콩코르]</mark></td><td>2.5~10 (1)</td></tr><tr><td>celiprolol</td><td>+</td><td><mark style="color:blue;">[셀렉틸]</mark></td><td>200~600 (1)</td></tr><tr><td>metoprolol</td><td>-</td><td><mark style="color:blue;">[베타록]</mark></td><td>25~400 (1 or 2)</td></tr><tr><td>nebivolol¹⁾</td><td>-</td><td><mark style="color:blue;">[네비레트]</mark></td><td>2.5~5 (1)</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>atenolol</td><td>-</td><td><mark style="color:blue;">[테놀민]</mark></td><td>25~100 [1]</td></tr><tr><td>betaxolol</td><td>-</td><td><mark style="color:blue;">[켈론]</mark></td><td>5~20 [1]</td></tr><tr><td>bevantolol</td><td>-</td><td><mark style="color:blue;">[칼반]</mark></td><td>100~200 [2]</td></tr><tr><td>bisoprolol</td><td>-</td><td><mark style="color:blue;">[콩코르]</mark></td><td>2.5~10 [1]</td></tr><tr><td>celiprolol</td><td>+</td><td><mark style="color:blue;">[셀렉틸]</mark></td><td>200~600 [1]</td></tr><tr><td>metoprolol</td><td>-</td><td><mark style="color:blue;">[베타록]</mark></td><td>25~400 [1 or 2]</td></tr><tr><td>nebivolol¹⁾</td><td>-</td><td><mark style="color:blue;">[네비레트]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
 
 **Non-cardioselective**
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>carteolol</td><td>+</td><td><mark style="color:blue;">[미케란]</mark></td><td>2.5~10 (1)</td></tr><tr><td>propranolol</td><td>-</td><td><mark style="color:blue;">[인데랄]</mark></td><td>40~160 (2)</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>carteolol</td><td>+</td><td><mark style="color:blue;">[미케란]</mark></td><td>2.5~10 [1]</td></tr><tr><td>propranolol</td><td>-</td><td><mark style="color:blue;">[인데랄]</mark></td><td>40~160 [2]</td></tr></tbody></table>
 
 **Combined α/β**²⁾
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>arotinolol</td><td>-</td><td><mark style="color:blue;">[알마]</mark></td><td>10~30 (1 or 2)</td></tr><tr><td>carvedilol</td><td>-</td><td><mark style="color:blue;">[딜라트렌]</mark></td><td>12.5~50 (1 or 2)</td></tr><tr><td>labetalol</td><td>-</td><td><mark style="color:blue;">[트라비]</mark></td><td>200~800 (2)</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>arotinolol</td><td>-</td><td><mark style="color:blue;">[알마]</mark></td><td>10~30 [1 or 2]</td></tr><tr><td>carvedilol</td><td>-</td><td><mark style="color:blue;">[딜라트렌]</mark></td><td>12.5~50 [1 or 2]</td></tr><tr><td>labetalol</td><td>-</td><td><mark style="color:blue;">[트라비]</mark></td><td>200~800 [2]</td></tr></tbody></table>
 
 　_ISA: Intrinsic sympathomimetic activity_\
 　_¹⁾ 파행 환자에서 적용 가능_\
@@ -782,11 +782,11 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 **Selective α-blockers**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>doxazosin</td><td><mark style="color:blue;">[카두라]</mark></td><td>1~16 (1)</td></tr><tr><td>prazosin</td><td><mark style="color:blue;">[프라조신]</mark></td><td>2~20 (2 or 3)</td></tr><tr><td>terazosin</td><td><mark style="color:blue;">[하이트린]</mark></td><td>1~10 (1 or 2)</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>doxazosin</td><td><mark style="color:blue;">[카두라]</mark></td><td>1~16 [1]</td></tr><tr><td>prazosin</td><td><mark style="color:blue;">[프라조신]</mark></td><td>2~20 [2 or 3]</td></tr><tr><td>terazosin</td><td><mark style="color:blue;">[하이트린]</mark></td><td>1~10 [1 or 2]</td></tr></tbody></table>
 
 **Nonselective α-blockers**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>phenoxybenzamine</td><td><mark style="color:blue;">[디베닐린]</mark></td><td>20~120 (2 or 3)</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>phenoxybenzamine</td><td><mark style="color:blue;">[디베닐린]</mark></td><td>20~120 [2 or 3]</td></tr></tbody></table>
 
 ### <mark style="color:orange;">중추성 교감 신경 작용제 (Central sympatholytic agent)</mark>
 
