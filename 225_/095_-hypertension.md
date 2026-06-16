@@ -48,7 +48,7 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* BP ＞180/120 ㎜Hg이면서 표적 장기 손상, 망막부종, 뇌압 증가, 대동맥박리증, 임신중독증, 심부전, 급성 신부전, MI, 불안정 협심증, 호흡 곤란 동반&#x20;
+* BP ＞180/120 ㎜Hg이면서 표적 장기 손상, 망막부종, 뇌압 증가, 대동맥박리증, 임신중독증, 심부전, 급성 신부전, MI, 불안정 협심증, 호흡 곤란 동반
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -58,7 +58,7 @@
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 악화되면 의뢰</mark>
 
 * eGFR ≤30, 단백뇨 ≥500 ㎎/d, 4개월간 eGFR ＞30% 급감, 고칼륨혈증 → 중증 신장 이상
-* 잘 조절되던 혈압이 뚜렷한 이유 없이 상승&#x20;
+* 잘 조절되던 혈압이 뚜렷한 이유 없이 상승
 
 ### <mark style="color:orange;">고혈압 유형</mark>
 
@@ -183,7 +183,7 @@
   4. 잘 조절되던 혈압이 뚜렷한 이유 없이 상승
 
 {% hint style="info" %}
-**\[젊은 고혈압 환자]** 장기적 심혈관질환 위험 감소와 조기 예방 효과 강화를 위하여 20\~39세 젊은 고혈압 환자를 핵심 관리 대상으로 제시; 40세 미만 고혈압 환자에서 이차성 고혈압 선별검사를 적극 권고, 젊은 고혈압 환자에서 표적장기 손상 평가를 통해 고위험군을 조기 선별하고 필요 시 신속한 약물 치료 시작 고려 \[2026 대한고혈압학회]&#x20;
+**\[젊은 고혈압 환자]** 장기적 심혈관질환 위험 감소와 조기 예방 효과 강화를 위하여 20\~39세 젊은 고혈압 환자를 핵심 관리 대상으로 제시; 40세 미만 고혈압 환자에서 이차성 고혈압 선별검사를 적극 권고, 젊은 고혈압 환자에서 표적장기 손상 평가를 통해 고위험군을 조기 선별하고 필요 시 신속한 약물 치료 시작 고려 \[2026 대한고혈압학회]
 {% endhint %}
 
 {% hint style="info" %}
@@ -203,7 +203,7 @@
 
 <table><thead><tr><th width="124">원인</th><th width="203">과거력</th><th width="123">신체 진찰</th><th>진단 검사</th></tr></thead><tbody><tr><td><strong>콩팥 실질병</strong></td><td>요로감염 또는 폐색 병력, 진통제 남용, 다낭콩팥병 가족력</td><td>복부 중앙 (다낭콩팥병)</td><td>•콩팥 초음파, 콩팥병에 대한 세부 검사<br>•소변 내 단백질·적혈구·백혈구 양성, eGFR 감소</td></tr><tr><td><strong>콩팥 동맥 협착</strong></td><td>섬유근육 형성이상·고혈압 조기 발현(여성), 죽상동맥경화증·갑자기 발현, 악화 및 치료 저항성·반복적 폐부종</td><td>복부 잡음</td><td>•양측 콩팥 크기 차이 >1.5 cm; Duplex 도플러 콩팥 초음파, CT, MR Angiography, 동맥 내 혈관 조영<br>•ACEI/ARB 투여 후 eGFR 급감</td></tr><tr><td><strong>원발성 알도스테론증</strong></td><td>근력 저하, 고혈압 조기 발병 ≤40세</td><td>—</td><td>•aldosterone-to-renin ratio (ARR) 측정 (상승); 확진 검사: 부신 CT, 부신 정맥 혈액 채취<br>•저칼륨혈증</td></tr><tr><td><strong>갈색세포종</strong></td><td>발작 또는 지속적인 고혈압에 동반되는 두통, 발한, 심계항진; 가족력</td><td>신경섬유종증 징후 (café-au-lait 반점)</td><td>•24시간 소변 내 메타네프린 및 노르메타네프린 (상승); 복부·골반 CT 또는 MRI (부신 종양)</td></tr><tr><td><strong>쿠싱증후군</strong></td><td>빠른 체중 증가, 다모, 다낭성 난소 병력</td><td>중심성 비만, 달 얼굴, 복부 선홍색 선조, 근력 저하</td><td>•24시간 소변 내 유리 코티솔 (상승); 덱사메타손 억제 검사 (비억제); 심야 타액 코티솔 (상승)<br>•고혈당</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">연령별 이차성 고혈압 원인</mark>&#x20;
+#### <mark style="color:$primary;">연령별 이차성 고혈압 원인</mark>
 
 <table data-header-hidden><thead><tr><th width="312"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="73"></th></tr></thead><tbody><tr><td><strong>질환명 / 연령 (yr)</strong> [2023 ESH]</td><td><strong>1~12</strong></td><td><strong>13~18</strong></td><td><strong>19~40</strong></td><td><strong>41~65</strong></td><td><strong>>65세</strong></td></tr><tr><td>Mild aortic syndrome</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Coarctation of aorta</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Renal parenchymal disease</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Renovascular HT - FMD</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>RV HT - Atherosclerotic Dz.</td><td></td><td></td><td></td><td>●</td><td>●</td></tr><tr><td>Monogenic disorders</td><td>●</td><td>●</td><td>●</td><td></td><td></td></tr><tr><td>Pheochromocytoma &#x26; paraganglioma</td><td></td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Primary aldosteronism</td><td></td><td></td><td>●</td><td>●</td><td></td></tr><tr><td>Cushing Syndrome</td><td></td><td></td><td></td><td>●</td><td></td></tr></tbody></table>
 
@@ -225,7 +225,7 @@
 
 <table><thead><tr><th width="108">구분</th><th width="100">의료기관</th><th width="100">HBPM</th><th width="114">주간 ABPM</th><th width="114">야간 ABPM</th><th width="114">아침 ABPM</th><th>24시간 ABPM</th></tr></thead><tbody><tr><td><strong>정상 혈압</strong></td><td>120/80</td><td>120/80</td><td>120/80</td><td>100/65</td><td>120/80</td><td>115/75</td></tr><tr><td><strong>고혈압</strong></td><td>140/90</td><td>135/85</td><td>135/85</td><td>120/70</td><td>135/85</td><td>130/80</td></tr></tbody></table>
 
-　_HBPM/ABPM=Home/Ambulatory BP monitoring._ \
+　_HBPM/ABPM=Home/Ambulatory BP monitoring._\
 　_HBPM은 진료실 측정 혈압보다 평균 12/7 ㎜Hg 낮음._\
 　_✽ 2026년 대한고혈압학회 : 아침 평균 혈압 기준(≥135/85_ ㎜_Hg)을 진단 기준표에 신규 추가_
 
@@ -273,7 +273,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 ### <mark style="color:orange;">혈압 측정</mark>
 
-#### <mark style="color:$primary;">선별 측정 대상</mark>&#x20;
+#### <mark style="color:$primary;">선별 측정 대상</mark>
 
 * ≥20세 모든 성인에 대하여 2년마다 진료실혈압 측정 \[대한고혈압학회]
   * 고혈압 또는 고혈압전단계 진단 시 가정혈압 또는 활동혈압 측정
@@ -316,7 +316,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 * 대상 : 모든 고혈압 환자; 특히 백의/가면 고혈압 의심, 심한 진료실혈압 변동, 약제 반응 미흡 시
 * 심한 부정맥이나 임신 중에는 부정확할 수 있음
 * 혈압계 선택 : 위팔 혈압계를 권고; 위팔이 매우 굵은 경우에는 손목 혈압계를 고려; 손가락 혈압계는 측정 오차가 많아 권고하지 않음; 혈압계의 주기적 점검을 권고
-* 측정 시각&#x20;
+* 측정 시각
   1. 아침 : 기상 후 1시간 이내, 배뇨 후, 식사 전, 혈압약 복용 전
   2. 저녁 : 취침 1시간 이내에 안정한 상태에서 측정
 * 측정 주기 : 적어도 5일 이상 측정; 처음 고혈압 진단 시에는 적어도 1주일 동안 측정; 치료 결과 평가 시에는 가능한 여러날(외래 방문 직전 5\~7일) 측정; 혈압이 안정된 경우 3일/주 측정
@@ -331,7 +331,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 #### <mark style="color:$primary;">활동 혈압 측정</mark>
 
-* 15\~30분 간격(야간 30\~60분 간격)으로 반복 측정하여 평균치를 계산; 통상 24시간 측정&#x20;
+* 15\~30분 간격(야간 30\~60분 간격)으로 반복 측정하여 평균치를 계산; 통상 24시간 측정
 * 대상 : 조절되지 않는 고혈압, 백의 또는 가면 고혈압 의심, 간헐적 고혈압, 자율 신경 장애, 혈압 변동성 평가, 심혈관 위험도 평가
 * 의의 : 표적 장기 손상, 심혈관 질환 사망률 예측에 진료실혈압보다 연관성이 높음
 
@@ -350,11 +350,11 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 {% hint style="info" %}
 **무증상 장기 손상 정의** \[대한고혈압학회]
 
-•  뇌 : 뇌실 주위 백질 고강도 신호, 미세 출혈, 무증상 뇌경색\
-•  심장 : 좌심실 비대\
-•  혈관 : 죽상경화반(경동맥초음파), 동맥-대퇴 동맥간 맥파 전달 속도 ＞10 m/sec, 위팔 동맥-발목 동맥 간 맥파 전달 속도 ＞18 m/sec\
-•  관상 동맥 석회화 점수 >400 (중증 석회화)\
-•  콩팥 : 알부민뇨, eGFR 감소
+• 뇌 : 뇌실 주위 백질 고강도 신호, 미세 출혈, 무증상 뇌경색\
+• 심장 : 좌심실 비대\
+• 혈관 : 죽상경화반(경동맥초음파), 동맥-대퇴 동맥간 맥파 전달 속도 ＞10 m/sec, 위팔 동맥-발목 동맥 간 맥파 전달 속도 ＞18 m/sec\
+• 관상 동맥 석회화 점수 >400 (중증 석회화)\
+• 콩팥 : 알부민뇨, eGFR 감소
 {% endhint %}
 
 ### <mark style="color:orange;">검사</mark>
@@ -392,7 +392,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 * 발목-위팔 혈압 지수
 * 맥파전달속도
 * 안저 검사 (당뇨병 환자에서는 필수)
-* 75 g 경구 당부하 검사 또는 당화혈색소 : 공복혈당 100 ㎎/㎗ 이상 시&#x20;
+* 75 g 경구 당부하 검사 또는 당화혈색소 : 공복혈당 100 ㎎/㎗ 이상 시
 * 24시간 소변 단백뇨 : 소변 시험지봉 검사에서 단백뇨(+) 시 고려
 * [cystatin C](../227_/109_.md#cystatin-c) : s-Cr으로 신 기능 평가가 어려운 경우; 근육량이 많은 젊은 환자 또는 근육량이 적은 노인 환자에서 유용
 
@@ -408,11 +408,11 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 {% hint style="info" %}
 **HMOD 외래 체크 리스트** : 아래 검사 결과 중 하나라도 이상 소견이 있으면 심혈관 위험도가 크게 상승
 
-•  EKG - LVH \
-•  eGFR ＜60, UACR(Urine Alb-Cr Ratio) ≥30 ㎎/g\
-•  경동맥 초음파 - 경동맥 플라크\
-•  ABI (고령/흡연자) - ＜0.9\
-•  안저 검사 - 고혈압망막병증
+• EKG - LVH\
+• eGFR ＜60, UACR(Urine Alb-Cr Ratio) ≥30 ㎎/g\
+• 경동맥 초음파 - 경동맥 플라크\
+• ABI (고령/흡연자) - ＜0.9\
+• 안저 검사 - 고혈압망막병증
 {% endhint %}
 
 ***
@@ -533,9 +533,9 @@ class S10,S12,S14 blue
 
 ***
 
-**혈압의 정도와 심뇌혈관 위험도에 따른 단일 또는 병용 약제 선택**&#x20;
+**혈압의 정도와 심뇌혈관 위험도에 따른 단일 또는 병용 약제 선택**
 
-<table><thead><tr><th width="215.4761962890625">구분</th><th width="154">고혈압전단계</th><th width="200.761962890625">1기 고혈압</th><th width="176.7939453125">2기 고혈압</th></tr></thead><tbody><tr><td>동반 위험 인자 0개</td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 1~2개</td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 ≥3개, <br>DM &#x26; 동반 위험 인자 ≥1개, <br>무증상 장기 손상</td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>심뇌혈관질환, 만성콩팥병</td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
+<table><thead><tr><th width="215.4761962890625">구분</th><th width="154">고혈압전단계</th><th width="200.761962890625">1기 고혈압</th><th width="176.7939453125">2기 고혈압</th></tr></thead><tbody><tr><td>동반 위험 인자 0개</td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 1~2개</td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 ≥3개,<br>DM &#x26; 동반 위험 인자 ≥1개,<br>무증상 장기 손상</td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>심뇌혈관질환, 만성콩팥병</td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
 
 ※ 10년간 CVD 발생률 기준 : <mark style="background-color:blue;">저위험: <5%</mark>, <mark style="color:orange;background-color:yellow;">중저위험: 5\~10%</mark>, <mark style="background-color:$warning;">중위험: 10\~15%</mark>, <mark style="background-color:$danger;">고위험: ≥15%</mark>
 
@@ -552,7 +552,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 　_³⁾ RM (repetition maximum): 정해진 횟수의 리프트를 할 수 있는 최대 무게_
 
 {% hint style="info" %}
-**칼륨 기반 소금 대체제**(예: KCl 혼합 저나트륨 소금) 사용이 고혈압 관리에 유용. 단, CKD 환자 또는 칼륨 배출을 억제하는 약제(ACEI/ARB/MRA) 복용 환자에서는 제외 \[2025 ACC/AHA]&#x20;
+**칼륨 기반 소금 대체제**(예: KCl 혼합 저나트륨 소금) 사용이 고혈압 관리에 유용. 단, CKD 환자 또는 칼륨 배출을 억제하는 약제(ACEI/ARB/MRA) 복용 환자에서는 제외 \[2025 ACC/AHA]
 {% endhint %}
 
 ### <mark style="color:orange;">운동 요법</mark>
@@ -571,7 +571,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 ### <mark style="color:orange;">마음 요법 (Mind-body Therapy)</mark>
 
 {% hint style="info" %}
-&#x20;스트레스 완화가 혈압 감소에 도움이 된다는 근거에 기반하여 비약물 치료 전략에 마음 요법을 추가 \[대한고혈압학회]
+스트레스 완화가 혈압 감소에 도움이 된다는 근거에 기반하여 비약물 치료 전략에 마음 요법을 추가 \[대한고혈압학회]
 {% endhint %}
 
 * 호흡 훈련 : 완서호흡(slow breathing) 연습; 기기 보조 호흡 훈련 포함
@@ -597,7 +597,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 저염 식이 방법
   1. 국물은 싱겁게 만들고 적게 먹는다 (다 마시지 않는다)
   2. 김치는 덜 짜게 먹는다
-  3. 음식을 먹을 때 추가로 소금이나 간장을 넣지 않는다&#x20;
+  3. 음식을 먹을 때 추가로 소금이나 간장을 넣지 않는다
      * '칼륨소금'을 일반 소금 대신 사용할 수 있음. 단, CKD 환자나 칼륨 배출 저해 약제를 사용하는 경우는 제외
   4. 피할 음식 : 라면, 햄, 소시지, 젓갈, 장아찌, 외식/패스트푸드
 * 소금 1 g (Na 400 ㎎)에 해당하는 조미료의 양 : 진간장 5 g(1 작은 술), 된장 10 g(½ 큰 술), 고추장 10 g(½ 큰 술), 토마토케첩 30 g(2 큰 술), 마요네즈 40 g(2.5 큰 술), 우스타 소스 40 g(2.5 큰 술), 마가린 50 g(3 큰 술), 버터 50 g(3 큰 술)
@@ -661,7 +661,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
   * chlorthalidone·indapamide : HCTZ보다 강압 효과가 우수하다고 알려져 있으나, 저나트륨혈증·저칼륨혈증 등 전해질 이상 발생 주의
     * 강압 효과는 chlorthalidone ≥ indapamide > HCTZ 순이라는 인식이 있으나, 실제 임상 결과(심혈관사건 감소) 면에서 우월성이 입증되지 않았고 부작용은 HCTZ보다 많다는 연구 결과가 나오면서 선호 제제를 지정할 근거가 없어짐
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 [1]</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 [1]</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스]</mark></td><td>1.25~5 [1]</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 [1]</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 [1]</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스]</mark></td><td>1.25~5 [1]</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Potassium-sparing agent</mark>
 
@@ -669,7 +669,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 대상 : thiazide 사용 시 저칼륨혈증을 예방하기 위해 병용
 * 주의/금기 : GFR ＜45, 고칼륨혈증
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>amiloride</td><td><mark style="color:blue;">[아미로]</mark></td><td>2.5~10 [1~2]</td></tr><tr><td>triamterene</td><td>—</td><td>25~100 [1~2]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amiloride</td><td><mark style="color:blue;">[아미로]</mark></td><td>2.5~10 [1~2]</td></tr><tr><td>triamterene</td><td>—</td><td>25~100 [1~2]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Loop diuretics</mark>
 
@@ -677,7 +677,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 혈압 강하를 위한 단독 선택은 안 함
 * furosemide : 작용 시간이 짧고 전해질/체액 고갈을 초래할 수 있음
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>bumetanide</td><td>—</td><td>0.5~4 [2~3]</td></tr><tr><td>furosemide</td><td><mark style="color:blue;">[라식스]</mark></td><td>40~80 [2~3]</td></tr><tr><td>torsemide</td><td><mark style="color:blue;">[토르세미드]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>bumetanide</td><td>—</td><td>0.5~4 [2~3]</td></tr><tr><td>furosemide</td><td><mark style="color:blue;">[라식스]</mark></td><td>40~80 [2~3]</td></tr><tr><td>torsemide</td><td><mark style="color:blue;">[토르세미드]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Mineralocorticoid receptor antagonist (MRA, Aldosterone antagonist)</mark>
 
@@ -686,7 +686,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 부작용 : K↑, 남성에서 여성형 유방, 발기 부전; 여성에서 월경불순
 * 주의/금기 : 신부전, 고칼륨혈증
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[알닥톤]</mark></td><td>25~50 [1~2]</td></tr><tr><td>eplerenone</td><td>—</td><td>25~100 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[알닥톤]</mark></td><td>25~50 [1~2]</td></tr><tr><td>eplerenone</td><td>—</td><td>25~100 [1]</td></tr></tbody></table>
 
 {% hint style="info" %}
 **Baxdrostat (Baxfendy)** - 최초의 aldosterone synthase inhibitor (ASI). MRA가 수용체에서 알도스테론을 차단하는 것과 달리, 부신에서 알도스테론 합성 자체를 억제함; Spironolactone을 포함한 4제 요법에도 조절되지 않는 저항성 또는 불응성 고혈압에서 추가 투여 고려; 국내 미출시
@@ -699,7 +699,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
   * 만성 콩팥병 환자에서 투여 전 및 투여 후 1\~2주/3개월/6개월에 칼륨 및 신 기능 검사 시행
   * 당뇨병 환자에서 투여 시 eGFR, s-K 모니터링
   * eGFR ＜30인 환자에서도 신질환의 추가 손상 없이 심혈관 이득을 얻을 수 있다는 보고가 있음
-* ACEI와 ARB의 병용은 피함
+  * ACEI와 ARB의 병용은 피함
 * 당뇨병을 동반한 고혈압 환자에서 ACEI 또는 ARB는 eGFR <60 또는 알부민뇨 ≥30 ㎎/g로 확인된 CKD가 있는 경우 권고; 경미한 알부민뇨 (<30 ㎎/g)가 있는 경우에도 당뇨병성 신장 질환의 진행 지연을 위해 고려
 * CKD를 동반한 고혈압 환자에서 eGFR <60 with 알부민뇨 ≥30 ㎎/g인 경우 ACEI 또는 ARB 사용을 권고
 
@@ -711,11 +711,11 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 **ACEI**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>alacepril</td><td><mark style="color:blue;">[세타프릴]</mark></td><td>25~75 [1 or 2]</td></tr><tr><td>captopril</td><td><mark style="color:blue;">[카프릴]</mark></td><td>25~200 [2]</td></tr><tr><td>cilazapril</td><td><mark style="color:blue;">[실라자프릴]</mark></td><td>1.25~5 [1]</td></tr><tr><td>enalapril</td><td><mark style="color:blue;">[레니프릴]</mark></td><td>5~40 [1 or 2]</td></tr><tr><td>fosinopril</td><td><mark style="color:blue;">[포시릴]</mark></td><td>10~40 [1 or 2]</td></tr><tr><td>imidapril</td><td><mark style="color:blue;">[타나트릴]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lisinopril</td><td><mark style="color:blue;">[제스트릴]</mark></td><td>5~40 [1]</td></tr><tr><td>perindopril</td><td><mark style="color:blue;">[아서틸]</mark></td><td>4~8 [1]</td></tr><tr><td>quinapril</td><td><mark style="color:blue;">[아큐프릴]</mark></td><td>5~80 [1 or 2]</td></tr><tr><td>ramipril</td><td><mark style="color:blue;">[트리테이스]</mark></td><td>2.5~20 [1 or 2]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>alacepril</td><td><mark style="color:blue;">[세타프릴]</mark></td><td>25~75 [1 or 2]</td></tr><tr><td>captopril</td><td><mark style="color:blue;">[카프릴]</mark></td><td>25~200 [2]</td></tr><tr><td>cilazapril</td><td><mark style="color:blue;">[실라자프릴]</mark></td><td>1.25~5 [1]</td></tr><tr><td>enalapril</td><td><mark style="color:blue;">[레니프릴]</mark></td><td>5~40 [1 or 2]</td></tr><tr><td>fosinopril</td><td><mark style="color:blue;">[포시릴]</mark></td><td>10~40 [1 or 2]</td></tr><tr><td>imidapril</td><td><mark style="color:blue;">[타나트릴]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lisinopril</td><td><mark style="color:blue;">[제스트릴]</mark></td><td>5~40 [1]</td></tr><tr><td>perindopril</td><td><mark style="color:blue;">[아서틸]</mark></td><td>4~8 [1]</td></tr><tr><td>quinapril</td><td><mark style="color:blue;">[아큐프릴]</mark></td><td>5~80 [1 or 2]</td></tr><tr><td>ramipril</td><td><mark style="color:blue;">[트리테이스]</mark></td><td>2.5~20 [1 or 2]</td></tr></tbody></table>
 
 **ARB**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>candesartan</td><td><mark style="color:blue;">[아타칸]</mark></td><td>8~32 [1 or 2]</td></tr><tr><td>eprosartan</td><td><mark style="color:blue;">[테베텐]</mark></td><td>600 [1]</td></tr><tr><td>fimasartan</td><td><mark style="color:blue;">[카나브]</mark></td><td>30~120 [1]</td></tr><tr><td>irbesartan</td><td><mark style="color:blue;">[아프로벨]</mark></td><td>150~300 [1]</td></tr><tr><td>losartan</td><td><mark style="color:blue;">[코자]</mark></td><td>25~100 [1 or 2]</td></tr><tr><td>olmesartan</td><td><mark style="color:blue;">[올메텍]</mark></td><td>20~40 [1]</td></tr><tr><td>telmisartan</td><td><mark style="color:blue;">[미카르디스]</mark></td><td>40~80 [1]</td></tr><tr><td>valsartan</td><td><mark style="color:blue;">[디오반]</mark></td><td>80~320 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>candesartan</td><td><mark style="color:blue;">[아타칸]</mark></td><td>8~32 [1 or 2]</td></tr><tr><td>eprosartan</td><td><mark style="color:blue;">[테베텐]</mark></td><td>600 [1]</td></tr><tr><td>fimasartan</td><td><mark style="color:blue;">[카나브]</mark></td><td>30~120 [1]</td></tr><tr><td>irbesartan</td><td><mark style="color:blue;">[아프로벨]</mark></td><td>150~300 [1]</td></tr><tr><td>losartan</td><td><mark style="color:blue;">[코자]</mark></td><td>25~100 [1 or 2]</td></tr><tr><td>olmesartan</td><td><mark style="color:blue;">[올메텍]</mark></td><td>20~40 [1]</td></tr><tr><td>telmisartan</td><td><mark style="color:blue;">[미카르디스]</mark></td><td>40~80 [1]</td></tr><tr><td>valsartan</td><td><mark style="color:blue;">[디오반]</mark></td><td>80~320 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">직접 레닌차단제 (Direct renin inhibitor)</mark>
 
@@ -723,13 +723,13 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 대상 : 당뇨병성 신장병증; 1차 선택제는 아니며 타 약제와 병합 사용
 * 임신 금기
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>aliskiren</td><td>—</td><td>150~300 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>aliskiren</td><td>—</td><td>150~300 [1]</td></tr></tbody></table>
 
 ### <mark style="color:orange;">칼슘차단제 (Calcium channel blocker, CCB)</mark>
 
 * 효과 : 말초혈관 확장
 * 대상 : 수축기 고혈압, 협심증, 편두통; 허혈성 심질환, 비후성 심근증, post-MI, 심실위 빈맥증
-* 속효성 차단제는 권하지 않음 (✽시판 제품은 대부분 장기 작용 약제임)
+* 속효성 차단제는 권하지 않음; 시판 제품은 대부분 장기 작용 약제임
 * non-DHP계 : 반사성 빈맥이 없고 심근경색 및 이완기 충만을 개선시켜 비후성 심근증에 적용; 2\~3도 전도 장애, 심부전증에 금기
 * 부작용
   * non-DHP계 : 변비, 심장 전도 장애, 서맥성 부정맥
@@ -737,11 +737,11 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 **DHP 계**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올메카]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>5~60 [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올메카]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>5~60 [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 [1]</td></tr></tbody></table>
 
 **non-DHP 계**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>diltiazem</td><td><mark style="color:blue;">[헤르벤]</mark></td><td>180~420 [1]</td></tr><tr><td>verapamil</td><td><mark style="color:blue;">[이솦틴]</mark></td><td>120~360 [1 or 2]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>diltiazem</td><td><mark style="color:blue;">[헤르벤]</mark></td><td>180~420 [1]</td></tr><tr><td>verapamil</td><td><mark style="color:blue;">[이솦틴]</mark></td><td>120~360 [1 or 2]</td></tr></tbody></table>
 
 ### <mark style="color:orange;">β-차단제 (β-adrenergic receptor blocker, BB)</mark>
 
@@ -752,25 +752,24 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 부작용 : 서맥, 전도 장애, 좌심실부전, 기관지 경련 악화, 레이노 현상, 파행 악화, 코 막힘, 발기부전, 피로, 우울, 악몽, 흥분; 지질/당 대사 영향
 * 주의/금기 : 고령, 당뇨병, 대사증후군, 천식, COPD, 2\~3도 전도 장애, 말초혈관 질환, sick sinus syndrome, 레이노병, 우울증
   * 갑작스런 중단 시 급성 관상동맥 질환과 혈압의 상승을 유발하므로 tapering 필요
-* ISA(+) 제제 : 낮은 교감 신경 활성 효과; β-차단제 치료 시 서맥증을 보이는 환자들에게 유용; 심근경색 환자에서는 금기
+* ISA(+) 제제(Intrinsic sympathomimetic activity) : 약간의 교감 신경 활성 효과; β-차단제 치료 시 서맥증을 보이는 환자들에게 유용; 심근경색 환자에서는 금기
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **\[2025 ACC/AHA]** Atenolol은 뇌졸중, LVH, MI 예방에 다른 BB보다 열등하다는 근거로 회피 권고. 불가피한 경우 cardioselective BB 중 bisoprolol, metoprolol succinate, nebivolol 선호. 특히 고령자·당뇨병·대사증후군 환자에서는 혈관 확장 효과가 있는 nebivolol 또는 carvedilol이 대사적으로 더 유리함.
 {% endhint %}
 
 **Cardioselective**
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>atenolol</td><td>-</td><td><mark style="color:blue;">[테놀민]</mark></td><td>25~100 [1]</td></tr><tr><td>betaxolol</td><td>-</td><td><mark style="color:blue;">[켈론]</mark></td><td>5~20 [1]</td></tr><tr><td>bevantolol</td><td>-</td><td><mark style="color:blue;">[칼반]</mark></td><td>100~200 [2]</td></tr><tr><td>bisoprolol</td><td>-</td><td><mark style="color:blue;">[콩코르]</mark></td><td>2.5~10 [1]</td></tr><tr><td>celiprolol</td><td>+</td><td><mark style="color:blue;">[셀렉틸]</mark></td><td>200~600 [1]</td></tr><tr><td>metoprolol</td><td>-</td><td><mark style="color:blue;">[베타록]</mark></td><td>25~400 [1 or 2]</td></tr><tr><td>nebivolol¹⁾</td><td>-</td><td><mark style="color:blue;">[네비레트]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>atenolol</td><td>-</td><td><mark style="color:blue;">[테놀민]</mark></td><td>25~100 [1]</td></tr><tr><td>betaxolol</td><td>-</td><td><mark style="color:blue;">[켈론]</mark></td><td>5~20 [1]</td></tr><tr><td>bevantolol</td><td>-</td><td><mark style="color:blue;">[칼반]</mark></td><td>100~200 [2]</td></tr><tr><td>bisoprolol</td><td>-</td><td><mark style="color:blue;">[콩코르]</mark></td><td>2.5~10 [1]</td></tr><tr><td>celiprolol</td><td>+</td><td><mark style="color:blue;">[셀렉틸]</mark></td><td>200~600 [1]</td></tr><tr><td>metoprolol</td><td>-</td><td><mark style="color:blue;">[베타록]</mark></td><td>25~400 [1 or 2]</td></tr><tr><td>nebivolol¹⁾</td><td>-</td><td><mark style="color:blue;">[네비레트]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
 
 **Non-cardioselective**
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>carteolol</td><td>+</td><td><mark style="color:blue;">[미케란]</mark></td><td>2.5~10 [1]</td></tr><tr><td>propranolol</td><td>-</td><td><mark style="color:blue;">[인데랄]</mark></td><td>40~160 [2]</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>carteolol</td><td>+</td><td><mark style="color:blue;">[미케란]</mark></td><td>2.5~10 [1]</td></tr><tr><td>propranolol</td><td>-</td><td><mark style="color:blue;">[인데랄]</mark></td><td>40~160 [2]</td></tr></tbody></table>
 
 **Combined α/β**²⁾
 
-<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>arotinolol</td><td>-</td><td><mark style="color:blue;">[알마]</mark></td><td>10~30 [1 or 2]</td></tr><tr><td>carvedilol</td><td>-</td><td><mark style="color:blue;">[딜라트렌]</mark></td><td>12.5~50 [1 or 2]</td></tr><tr><td>labetalol</td><td>-</td><td><mark style="color:blue;">[트라비]</mark></td><td>200~800 [2]</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="80">ISA</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>arotinolol</td><td>-</td><td><mark style="color:blue;">[알마]</mark></td><td>10~30 [1 or 2]</td></tr><tr><td>carvedilol</td><td>-</td><td><mark style="color:blue;">[딜라트렌]</mark></td><td>12.5~50 [1 or 2]</td></tr><tr><td>labetalol</td><td>-</td><td><mark style="color:blue;">[트라비]</mark></td><td>200~800 [2]</td></tr></tbody></table>
 
-　_ISA: Intrinsic sympathomimetic activity_\
 　_¹⁾ 파행 환자에서 적용 가능_\
 　_²⁾ α/β 차단 작용으로 말초혈관 저항을 줄여줌_
 
@@ -778,15 +777,15 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 * 효과 : 평활근 이완, 말초혈관 저항 감소; 당, 지질 대사 개선 (HDL↑)
 * 대상 : BPH, 갈색세포종
-* 부작용 : 기립성 저혈압 (✽부작용 방지를 위하여 초기에는 취침 시 투여), 심부전 악화, 두근거림, 두통, 신경과민
+* 부작용 : 기립성 저혈압 (부작용 방지를 위하여 초기에는 취침 시 투여), 심부전 악화, 두근거림, 두통, 신경과민
 
 **Selective α-blockers**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>doxazosin</td><td><mark style="color:blue;">[카두라]</mark></td><td>1~16 [1]</td></tr><tr><td>prazosin</td><td><mark style="color:blue;">[프라조신]</mark></td><td>2~20 [2 or 3]</td></tr><tr><td>terazosin</td><td><mark style="color:blue;">[하이트린]</mark></td><td>1~10 [1 or 2]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>doxazosin</td><td><mark style="color:blue;">[카두라]</mark></td><td>1~16 [1]</td></tr><tr><td>prazosin</td><td><mark style="color:blue;">[프라조신]</mark></td><td>2~20 [2 or 3]</td></tr><tr><td>terazosin</td><td><mark style="color:blue;">[하이트린]</mark></td><td>1~10 [1 or 2]</td></tr></tbody></table>
 
 **Nonselective α-blockers**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 (투여횟수)</th></tr></thead><tbody><tr><td>phenoxybenzamine</td><td><mark style="color:blue;">[디베닐린]</mark></td><td>20~120 [2 or 3]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>phenoxybenzamine</td><td><mark style="color:blue;">[디베닐린]</mark></td><td>20~120 [2 or 3]</td></tr></tbody></table>
 
 ### <mark style="color:orange;">중추성 교감 신경 작용제 (Central sympatholytic agent)</mark>
 
@@ -794,7 +793,8 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 대상 : 변동성이 심한 고혈압, autonomic neuropathy, 임신부 (methyldopa)
 * 부작용 : 졸음, 입마름, 반동성 혈압 상승, 기립성 저혈압, 성기능장애, 여러 약물 상호 작용
 * clonidine : 0.1\~0.6 ㎎/d #2 <mark style="color:blue;">\[켑베이]</mark>; weekly patch 0.1\~0.3 ㎎/d
-* guanfacine : 1\~3 ㎎ qd, methyldopa 250\~2,000 ㎎ bid
+* guanfacine : 1\~3 ㎎ qd
+* methyldopa : 250\~2,000 ㎎ bid
 
 ### <mark style="color:orange;">혈관 확장제 (Direct vasodilator)</mark>
 
@@ -807,25 +807,25 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 ### <mark style="color:orange;">안지오텐신수용체-네프릴리신억제제 (ARNI)</mark>
 
 {% hint style="info" %}
-**\[2026 대한고혈압학회]** 심부전이 동반된 고혈압 환자에서 ACEI 또는 ARB보다 우선 권고; 염분 감수성이 높은 고혈압 환자에서 사용 고려; 난치성(혹은 저항성) 고혈압 환자에서 ACEI/ARB를 ARNI로 변경하는 것 고려 가능
+심부전이 동반된 고혈압 환자에서 ACEI 또는 ARB보다 우선 권고; 염분 감수성이 높은 고혈압 환자에서 사용 고려; 난치성(혹은 저항성) 고혈압 환자에서 ACEI/ARB를 ARNI로 변경 고려 가능 \[2026 대한고혈압학회]&#x20;
 {% endhint %}
 
-* 성분명 : sacubitril/valsartan <mark style="color:blue;">\[엔트레스토 24/26 ㎎, 49/51 ㎎, 97/103 ㎎]</mark>
+* 성분명 : sacubitril/valsartan <mark style="color:blue;">\[엔트레스토]</mark>
 * Sacubitril : Neprilysin(중성 엔도펩티다제) 억제제
   * BNP, ANP(나트륨이뇨펩타이드), Bradykinin, Adrenomedullin, Substance P 분해/불활성화 → 이뇨·나트륨 배설↑, 혈관 확장, 심장 섬유화·비대 억제, 교감신경 억제
-  * Angiotensin II도 분해하므로 단독 사용 시 Angiotensin II가 축적되어 RAS가 오히려 활성화되기때문에 반드시 ARB와 병용
+  * Angiotensin II도 분해하므로 단독 사용 시 Angiotensin II가 축적되어 RAS가 오히려 활성화되기 때문에 반드시 ARB와 병용
 * 용법 : 49/51 ㎎ bid로 시작 → 2\~4주 간격으로 증량 → 최대 97/103 ㎎ bid
 * 주의/금기 : ACEI와 병용 금지(최소 36시간 간격), 임신, 혈관부종 병력
 
 ### <mark style="color:orange;">나트륨-포도당 공동수송체 2 억제제 (SGLT2 inhibitor)</mark>
 
 {% hint style="info" %}
-**\[2026 대한고혈압학회]** 심부전이 동반되었거나, 알부민뇨가 존재하거나, eGFR이 감소한 만성콩팥병 동반 고혈압 환자에서 사용 권고; 죽상동맥경화성 심혈관질환(ASCVD)이 동반된 당뇨병 환자에서 GLP-1 수용체작용제 또는 SGLT2 억제제를 포함한 치료 권고
+심부전이 동반되었거나, 알부민뇨가 존재하거나, eGFR이 감소한 CKD 동반 고혈압 환자에서 사용 권고; ASCVD이 동반된 당뇨병 환자에서 GLP-1 수용체작용제 또는 SGLT2 억제제를 포함한 치료 권고 \[2026 대한고혈압학회]&#x20;
 {% endhint %}
 
 * 부가 강압 효과 : 평균 SBP 3\~5 ㎜Hg 감소
-* empagliflozin <mark style="color:blue;">\[자디앙 10/25 ㎎]</mark>, dapagliflozin <mark style="color:blue;">\[포시가 10 ㎎]</mark>, canagliflozin <mark style="color:blue;">\[인보카나 100/300 ㎎]</mark>
-* 주의 : 요로감염, 생식기진균감염; eGFR <45에서 혈당강하 효과 감소 (심혈관·신장 보호 효과는 유지); 케톤산증 주의
+* empagliflozin <mark style="color:blue;">\[자디앙]</mark>, dapagliflozin <mark style="color:blue;">\[포시가]</mark>, canagliflozin <mark style="color:blue;">\[인보카나]</mark> (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
+* 주의 : 요로 감염, 생식기 진균 감염; eGFR <45에서 혈당 강하 효과 감소 (심혈관·신장 보호 효과는 유지); 케톤산증 주의
 
 ## <mark style="color:green;">항고혈압제 선택 Tips</mark>
 
@@ -863,8 +863,8 @@ graph LR
 <p align="center"><strong>항고혈압제 병용 요법</strong></p>
 
 _굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_\
-&#xNAN;_(1) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
-&#xNAN;_(2) thiazide+구세대 BB(atenolol 등) :_ _회피 (당뇨병·이상지질혈증 발생 위험 증가)_<br>
+\&#xNAN;_(1) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
+\&#xNAN;_(2) thiazide+구세대 BB(atenolol 등) :_ _회피 (당뇨병·이상지질혈증 발생 위험 증가)_<br>
 
 ***
 
@@ -962,8 +962,8 @@ style FU fill:#e8f8e8,stroke:#4caf50
 <p align="center"><strong>항고혈압제 단계적 치료 알고리듬</strong> <em><mark style="color:$info;">Ref. 2023 ESH Guidelines</mark></em></p>
 
 _¹⁾ BP 120/70\~139/89 ㎜Hg, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
-&#xNAN;_&#xB2;⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
-&#xNAN;_&#xB3;⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate control_
+\&#xNAN;_²⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
+\&#xNAN;_³⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate control_
 
 #### <mark style="color:$primary;">상황별 약제 선택</mark>
 
@@ -1196,9 +1196,9 @@ class S1,S2,Drugs1,Drugs2,Drugs3,Drugs4 sky
 <p align="center"><em><mark style="color:$info;">Ref. ADA. Standards of Medical Care in Diabetes 2024. Fig 10.2</mark></em></p>
 
 _CAD = coronary artery disease_\
-&#xNAN;_&#xB9;⁾ ACEi 또는 ARB : CAD 또는 u-Alb/Cr ratio 30\~299 ㎎/g 동반 환자에서 제안; u-Alb/Cr ratio ≥300 ㎎/g 환자에서 강력히 권고_\
-&#xNAN;_&#xB2;⁾ Thiazide-like diuretic : 장기 작용제 (예: chlorthalidone, indapamide)가 심혈관 질환을 감소시키는 효과가 있어 선호_\
-&#xNAN;_&#xB3;⁾Dihydropyridine calcium channel blocker_
+\&#xNAN;_¹⁾ ACEi 또는 ARB : CAD 또는 u-Alb/Cr ratio 30\~299 ㎎/g 동반 환자에서 제안; u-Alb/Cr ratio ≥300 ㎎/g 환자에서 강력히 권고_\
+\&#xNAN;_²⁾ Thiazide-like diuretic : 장기 작용제 (예: chlorthalidone, indapamide)가 심혈관 질환을 감소시키는 효과가 있어 선호_\
+\&#xNAN;_³⁾Dihydropyridine calcium channel blocker_
 
 ***
 
