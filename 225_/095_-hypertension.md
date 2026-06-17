@@ -916,32 +916,38 @@ graph LR
 
 ```mermaid
 graph TD
-    Start["<u>초기 치료</u> <br/>Monotherapy 선호 조건¹⁾"]
+    Start(["Monotherapy 조건¹⁾ 해당?"])
 style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    T1["<u>저용량 2제 요법</u><br/>ACEi/ARBs + CCBs/Diuretics"]  
-    T2["<u>저용량 3제 요법</u><br/>ACEi/ARBs + CCBs + Diuretics"]
-    T3["<u>고용량 3제 요법</u><br/>ACEi/ARBs + CCBs + Diuretics"]
+    T0["<u>단일제 치료</u><br/>ACEi/ARB, CCB, Diuretic"]  
+    T1["<u>저용량 2제 요법</u><br/>ACEi/ARB + CCB/Diuretic"]  
+    T2["<u>저용량 3제 요법*</u><br/>ACEi/ARB + CCB + Diuretic"]
+    T3["<u>고용량 3제 요법*</u><br/>ACEi/ARB + CCB + Diuretic"]
+style T0 fill:#e3f2ff,stroke:#2196f3
 style T1 fill:#e3f2ff,stroke:#2196f3
 style T2 fill:#daeaff,stroke:#1e80d9
 style T3 fill:#d0e8ff,stroke:#1a6abf
+    Check0["BP 조절됨?²⁾"]
     Check1["BP 조절됨?²⁾"]
     Check2["BP 조절됨?²⁾"]
     Check3["BP 조절됨?²⁾"]
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class Check1,Check2,Check3 yellow
-    Resistant["난치성 고혈압"]
+class Check0,Check1,Check2,Check3 yellow
+    Resistant["난치성 고혈압*"]
 style Resistant fill:#f8a0c0,stroke:#d01f5a
     Action1["의뢰"]
 style Action1 fill:#fdebd0,stroke:#e67e22
     Action2["복약 순응도 확인"]
 style Action2 fill:#fff3e0,stroke:#e65100
-    Action3["Spironolactone 추가"]
+    Action3["Spironolactone 추가 고려"]
 
-    Beta["어느 단계에서든<br/>적응증 시 BB 추가³⁾"]
-style Beta fill:#daeaff,stroke:#1e80d9
     FU["최소 연 1회 추적 관찰"]
 style FU fill:#e8f8e8,stroke:#4caf50
-    Start --> T1
+    Start --YES--> T0
+
+    T0 --> Check0
+    Check0 -- YES --> FU
+    Check0 -- NO --> T1
+    Start --NO--> T1    
     T1 --> Check1
     Check1 -- YES --> FU
     Check1 -- NO --> T2
@@ -956,18 +962,15 @@ style FU fill:#e8f8e8,stroke:#4caf50
     
     Resistant --> Action1
     Resistant --> Action2
-    Action1 --> Action3
     Action2 --> Action3
-    Beta --> T2
-    Beta --> T3
-    Beta --> Resistant
+
 ```
 
 <p align="center"><strong>항고혈압제 단계적 치료 알고리듬</strong> <em><mark style="color:$info;">Ref. 2023 ESH Guidelines</mark></em></p>
 
 &#x20; _¹⁾ BP 120/70\~139/89 ㎜Hg, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
 &#x20; _²⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
-&#x20; _³⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate control_
+&#x20; _\*어느 단계에서든 적응증(angina, post-myocardial infarction, systolic heart failure, or heart rate control) 해당 시 BB 추가_
 
 #### <mark style="color:$primary;">상황별 약제 선택</mark>
 
