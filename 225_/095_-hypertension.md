@@ -15,7 +15,7 @@
   * 고령자에서의 지나친 혈압 하강 조절은 어지럼, 실신, 낙상 위험을 높일 수 있음
   * DBP ＜70 ㎜Hg 시 심혈관 합병증의 위험이 증가할 수 있음 (J-curve phenomenon)
     * DBP 70\~80 ㎜Hg에서 위험이 가장 낮았고, DBP ＜60 ㎜Hg에서는 심혈관 사고 위험이 증가되었다는 보고가 있음
-  * 젊은 연령에서는 SBP와 DBP 상승 모두 CV event 위험 증가와 관련되고, ≥50세에서는 SBP와 맥압이 DBP보다 CV event에 대해 더 큰 예측력을 가짐
+  * 젊은 연령에서는 SBP와 DBP 상승 모두 CV event 위험 증가와 관련되고, ≥50세에서는 SBP와 맥압(SBP와 DBP의 차이)이 DBP보다 CV event에 대해 더 큰 예측력을 가짐
 * 증상
   * 이차성 및 장기 손상 이외에는 보통 무증상
   * 두통 : 중증 고혈압에서 뒤통수 부위에 국한; 주로 이른 아침 발생, 수 시간 후 자연 회복
@@ -974,13 +974,13 @@ style FU fill:#e8f8e8,stroke:#4caf50
 
 #### <mark style="color:$primary;">상황별 약제 선택</mark>
 
-<table><thead><tr><th width="167">상황</th><th width="116">ACEI/ARB</th><th width="106">베타차단제</th><th width="106">칼슘차단제</th><th width="88">이뇨제</th><th>기타</th></tr></thead><tbody><tr><td>심부전 (HFrEF)</td><td>○ (ARNI 불가 시)</td><td>○</td><td></td><td>○</td><td><strong>ARNI 우선</strong>★</td></tr><tr><td>좌심실비대</td><td>○</td><td></td><td>○</td><td></td><td></td></tr><tr><td>관상동맥질환</td><td>○</td><td>○</td><td>○</td><td></td><td></td></tr><tr><td>만성콩팥병</td><td>○</td><td></td><td></td><td></td><td>SGLT2i★</td></tr><tr><td>뇌졸중</td><td>○</td><td></td><td>○</td><td>○</td><td></td></tr><tr><td>노인 ISH</td><td>○</td><td></td><td>○</td><td>○</td><td></td></tr><tr><td>심근경색 후</td><td>○</td><td>○</td><td></td><td></td><td></td></tr><tr><td>심방세동 예방/조절</td><td>○</td><td>○</td><td></td><td></td><td></td></tr><tr><td>당뇨병 + 알부민뇨</td><td>○ (1차)</td><td></td><td>○</td><td>○</td><td>SGLT2i★</td></tr></tbody></table>
+<table><thead><tr><th width="167">상황</th><th width="116">ACEI/ARB</th><th width="106">베타차단제</th><th width="106">칼슘차단제</th><th width="88">이뇨제</th><th>기타</th></tr></thead><tbody><tr><td>심부전 (HFrEF)</td><td>○</td><td>○</td><td></td><td>○</td><td>ARNI 우선*</td></tr><tr><td>좌심실비대</td><td>○</td><td></td><td>○</td><td></td><td></td></tr><tr><td>관상동맥질환</td><td>○</td><td>○</td><td>○</td><td></td><td></td></tr><tr><td>만성콩팥병</td><td>○</td><td></td><td></td><td></td><td>SGLT2i*</td></tr><tr><td>뇌졸중</td><td>○</td><td></td><td>○</td><td>○</td><td></td></tr><tr><td>노인 ISH</td><td>○</td><td></td><td>○</td><td>○</td><td></td></tr><tr><td>심근경색 후</td><td>○</td><td>○</td><td></td><td></td><td></td></tr><tr><td>심방세동 예방/조절</td><td>○ (예방)</td><td>○ (조절)</td><td></td><td></td><td></td></tr><tr><td>당뇨병 + 알부민뇨</td><td>○ (1차)</td><td></td><td>○</td><td>○</td><td>SGLT2i*</td></tr></tbody></table>
 
-★ \[2026 대한고혈압학회] 신규·상향 권고: ARNI(심부전 동반 시 ACEI/ARB보다 우선, I/A), SGLT2i(CKD·심부전·알부민뇨, I/A)
+_\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알부민뇨) \[2026 대한고혈압학회]_
 
 #### <mark style="color:$primary;">고혈압 약제의 절대적/상대적 금기</mark>
 
-<table><thead><tr><th width="120">약제</th><th width="168">적극적 적응</th><th width="95">적용 가능</th><th width="156">주의</th><th>금기</th></tr></thead><tbody><tr><td>ACEI/ARB</td><td>심부전, 당뇨병신장병증, CKD</td><td></td><td>양측성 신동맥협착, 고칼륨혈증</td><td>임신, 혈관부종</td></tr><tr><td>베타차단제</td><td>협심증, 심근경색증</td><td>빈맥성 부정맥</td><td>혈당 이상 증가, 말초혈관질환</td><td>천식, 심한 서맥</td></tr><tr><td>칼슘차단제</td><td>노인 고혈압, ISH, 협심증</td><td></td><td>심부전</td><td>서맥(non-DHP)</td></tr><tr><td>이뇨제</td><td>심부전, 수축기 단독고혈압</td><td></td><td>혈당 이상 증가</td><td>통풍, 저칼륨혈증</td></tr></tbody></table>
+<table><thead><tr><th width="109.5238037109375">약제</th><th width="154.66668701171875">적극적 적응</th><th width="95">적용 가능</th><th width="152.19049072265625">주의</th><th width="140.84454345703125">금기</th></tr></thead><tbody><tr><td>ACEI/ARB</td><td>심부전, CKD</td><td></td><td>양측성 신동맥협착, 고칼륨혈증</td><td>임신, 혈관부종</td></tr><tr><td>베타차단제</td><td>협심증, 심근경색증</td><td>빈맥성 부정맥</td><td>혈당 이상 증가, 말초혈관질환</td><td>천식, 심한 서맥</td></tr><tr><td>칼슘차단제</td><td>노인 고혈압, ISH, 협심증</td><td></td><td>심부전</td><td>서맥(non-DHP)</td></tr><tr><td>이뇨제</td><td>심부전, ISH</td><td></td><td>혈당 이상 증가</td><td>통풍, 저칼륨혈증</td></tr></tbody></table>
 
 ### <mark style="color:orange;">고혈압 약제의 대표적 부작용</mark>
 
@@ -1017,43 +1017,42 @@ style FU fill:#e8f8e8,stroke:#4caf50
 ### <mark style="color:orange;">항콜레스테롤제</mark>
 
 * 대상 : 중등도 이상 위험도를 가진 고혈압 환자, 심혈관 질환이 있는 고혈압 환자
-* LDL-C 치료 시작과 목표 수치는 심혈관질환 발생 위험도와 기저 심혈관질환 유무에 따라 결정 \[2026 대한고혈압학회] (이전기준: CVD가 없는 경우 <130, CVD가 있는 경우 <70으로 고정]
-  * (☞ 이상지질혈증 위험도별 [LDL-C 목표](099_-dyslipidemia.md#ldl-1) 참조)
+*   LDL-C 치료 시작과 목표 수치는 심혈관질환 발생 위험도와 기저 심혈관질환 유무에 따라 결정 \[2026 대한고혈압학회] (이전기준: CVD가 없는 경우 <130, CVD가 있는 경우 <70으로 고정]
+
+    (☞ 이상지질혈증 [LDL-C 목표](099_-dyslipidemia.md#undefined-11))
 
 ## <mark style="color:green;">특별한 상황에서의 고혈압 관리</mark>
 
 ### <mark style="color:orange;">비만과 고혈압</mark>
 
-{% hint style="info" %}
-**\[2026 대한고혈압학회]** 비만 고혈압을 독립적인 핵심 관리 대상으로 강조
-{% endhint %}
-
+* 비만은 고혈압 환자에서 독립적인 핵심 관리 대상임 \[2026 대한고혈압학회]
 * 체중 감량 우선 : 과체중·비만 고혈압 환자에서 체중 감량을 통한 혈압 강하 권고
-  * 체중 5\~10% 감량 시 SBP 5\~20 ㎜Hg 감소 기대; 체중 1 kg 감량마다 SBP \~1 ㎜Hg 감소
-  * 목표 BMI <25 ㎏/㎡, 허리둘레 남 <90 ㎝, 여 <85 ㎝
-* 약제 선택 : 비만 고혈압에서 'RAS 차단제(ACEI/ARB) + CCB' 조합이 대사적으로 유리; β-차단제·thiazide는 인슐린 저항성 악화 가능성 주의
+  * 체중 5\~10% 감량 시 SBP 5\~20 ㎜Hg 감소 기대; 체중 1 ㎏ 감량마다 SBP \~1 ㎜Hg 감소
+  * 목표 BMI <25 ㎏/㎡, 허리둘레 남 <90 ㎝/여 <85 ㎝
+* 약제 선택 : 비만 고혈압에서 'RAS 차단제(ACEI/ARB) + CCB' 조합이 대사적으로 유리
+  * β-차단제·thiazide는 인슐린 저항성 악화 가능성 주의
 
-**당뇨병 동반 비만 고혈압** \[2026 대한고혈압학회]
+<mark style="color:cyan;">**당뇨병 동반 비만 고혈압**</mark> \[2026 대한고혈압학회]
 
-* GLP-1 수용체작용제 (semaglutide, liraglutide 등) : 체중 및 혈압 동시 감소 효과; ASCVD 동반 당뇨병에서 권고
-* SGLT2 억제제 : 체중 감량(약 2\~4 ㎏) + 혈압 강하(SBP 3\~5 ㎜Hg) + 심신장 보호 효과
+* [GLP-1 수용체작용제](../230_/191_-obesity.md#glp-1-receptor-agonist-glp-1-ra) : 체중 및 혈압 동시 감소 효과; ASCVD 동반 당뇨병에서 권고
+* [SGLT2 억제제](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor) : 체중 감량(약 2\~4 ㎏) + 혈압 강하(SBP 3\~5 ㎜Hg) + 심장·신장 보호 효과
 * 두 약제 병용 시 상가적 체중 감량 및 혈압 강하 효과 기대
 
 ### <mark style="color:orange;">고령자</mark>
 
 * 목표 혈압 : DBP가 지나치게 낮지 않은 수준(≥60 ㎜Hg)에서 SBP ＜140 ㎜Hg
-  * 초고령자나 노쇠한 고령자에 대해서는 추가 연구 필요
 * 건강한 ≥65세는 SBP 140 ㎜Hg 시, 노쇠 또는 ≥80세는 SBP ≥160 ㎜Hg 시 약물 치료 권고
+* 초고령자나 노쇠한 고령자에 대해서는 추가 연구 필요
 
-**고령자의 특징**
+<mark style="color:cyan;">**고령자의 특징**</mark>
 
-* 수축기 단독 고혈압이 많음, 맥압(SBP와 DBP의 차이) 증가함
+* 수축기 단독 고혈압이 많음, 맥압이 증가함
 * 혈압의 변동이 현저할 수 있음
 * 기립성 저혈압이 흔함
 * 백의 고혈압 및 가성 고혈압으로 인하여 과잉 치료가 될 수 있음
 * 적극적 강압은 다제약물 복용 및 약물 상호 작용과 관련되며 낙상과 신 기능 악화를 초래할 수 있음
 
-**치료**
+<mark style="color:cyan;">**치료**</mark>
 
 * 젊은 성인 용량의 ½로 시작하여 서서히 증량
 * β-차단제는 특별한 경우 외에는 1차 약제에서 제외
@@ -1061,35 +1060,35 @@ style FU fill:#e8f8e8,stroke:#4caf50
 
 ### <mark style="color:orange;">임신</mark>
 
-* 임신 중 만성 고혈압 : 임신 20주 이전에 이미 고혈압(SBP 140\~159 &/or DBP 90\~109)이 있거나 고혈압 약을 복용하고 있는 경우
+* 임신 중 만성 고혈압 : 임신 20주 이전에 이미 고혈압(SBP ≥140 &/or DBP ≥90)이 있거나 고혈압 약을 복용하고 있는 경우
 * 임신성 고혈압 : 임신 20주 이후에 새로운 고혈압이 진단되었으나 단백뇨가 없는 경우
 * 전자간증 : 임신 20주 이후 고혈압 진단 및 단백뇨(≥300 ㎎/d 또는 u-Prot/Cr ≥300 ㎎/g)를 동반한 경우
-* 약물 치료 대상 혈압 : 만성 고혈압 또는 임신성 고혈압이 있는 임신부에서 SBP ≥140 또는 DBP ≥90 시 약물 치료 시작 또는 강화
+* 약물 치료 대상 : 고혈압이 있는 임신부에서 SBP ≥140 또는 DBP ≥90 시 약물 치료 시작 또는 강화
   * 15분 내 반복 측정에서 SBP ≥160 또는 DBP ≥110 으로 확인된 임산부(중증 고혈압)는 즉각적인 입원 치료 권고
-* 목표 혈압 : ＜140/90 ㎜Hg \[2026 대한고혈압학회]
   * 수유기 : 혈압 ≥140/90 ㎜Hg 시 약물 치료 유지 또는 시작
+* 목표 혈압 : ＜140/90 ㎜Hg \[2026 대한고혈압학회]
 * 조기에 고혈압 치료 시작, 병용요법보다 단일요법 증량 우선 고려
 * 전자간증 위험이 중등도 이상인 고위험 임신부에서 저용량 아스피린 75\~150 ㎎/d 투여 권고
 
 #### <mark style="color:$primary;">약제 선택</mark>
 
 {% hint style="info" %}
-**\[2026 대한고혈압학회]** 임신 중 사용 가능한 항고혈압제 순서 및 국내 이용 가능성이 변경됨. 니페디핀 서방형과 암로디핀이 1차 선택제로 공식 추가됨
+임신 중 사용 가능한 항고혈압제 순서 및 국내 이용 가능성이 변경됨. 니페디핀 서방형과 암로디핀이 1차 선택제로 공식 추가됨 \[2026 대한고혈압학회]
 {% endhint %}
 
-<table><thead><tr><th width="155">약제</th><th width="120">국내 이용성</th><th width="103">수유 안전성</th><th>주요 사항</th></tr></thead><tbody><tr><td><strong>nifedipine ER</strong><br><mark style="color:blue;">\[아달라트 오로스]</mark></td><td>매우 원활<br>(1차 선택, 가장 많이 이용)</td><td>L2<br>(Safe)</td><td>임부금기 2등급(사유 입력 필요); 동물 기형 보고 있으나 임상에서 1차 치료제로 널리 사용; 모유 이행 극미량</td></tr><tr><td><strong>amlodipine</strong><br><mark style="color:blue;">\[노바스크]</mark></td><td>매우 원활<br>(접근성 최상)</td><td>L3<br>(Caution)</td><td>임부금기 2등급; 니페디핀 부작용 시 효과적 대안; 최근 임신 중 안전성 자료 축적; 반감기가 길지만 부작용 보고 드뭄</td></tr><tr><td><strong>labetalol</strong><br><mark style="color:blue;">\[라베신 주]</mark></td><td>제한적<br>주사제: 가능.<br>경구제: KOEDC 수입</td><td>L2<br>(Safe)</td><td>α/β 차단제; 임신성 고혈압 1차 권고 약제; 경구 제형은 국내 시판 안됨 → 한국희귀·필수의약품센터(KOEDC) 신청 필요</td></tr><tr><td><strong>methyldopa</strong></td><td>제한적<br>KOEDC 수입만 가능</td><td>—</td><td>중추성 α2 작용제; 국내 상업적 유통 중단; 긴급도입 의약품으로 KOEDC 신청 시 1~2주 내 도입 가능</td></tr><tr><td><strong>hydralazine</strong></td><td>제한적<br>주사제만 KOEDC 수입</td><td>—</td><td>혈관확장제; 경구제 2024년 국내 공급 중단·허가 자진 취하; 주사제도 상업적 유통 중단 → KOEDC 수입 필요; 응급 시 사용</td></tr></tbody></table>
+<table><thead><tr><th width="155">약제</th><th width="100">국내 이용성</th><th width="100.142822265625">수유 안전성</th><th>주요 사항</th></tr></thead><tbody><tr><td><strong>nifedipine ER</strong><br><mark style="color:blue;">[아달라트 오로스]</mark></td><td>매우 원활</td><td><p>L2</p><p>Safe</p></td><td>임부금기 2등급(사유 입력 필요); 동물 기형 보고 있으나 임상에서 1차 치료제로 널리 사용; 모유 이행 극미량</td></tr><tr><td><strong>amlodipine</strong><br><mark style="color:blue;">[노바스크]</mark></td><td>매우 원활</td><td><p>L3</p><p>Caution</p></td><td>임부금기 2등급; 니페디핀 부작용 시 효과적 대안; 최근 임신 중 안전성 자료 축적; 반감기가 길지만 부작용 보고 드뭄</td></tr><tr><td><strong>labetalol</strong><br><mark style="color:blue;">[라베신 주]</mark></td><td>제한적</td><td><p>L2</p><p>Safe</p></td><td>α/β 차단제; 임신성 고혈압 1차 권고 약제; 경구 제형은 국내 시판 안됨 → 한국희귀·필수의약품센터(KOEDC) 신청 필요</td></tr><tr><td><strong>methyldopa</strong></td><td>제한적</td><td>—</td><td>중추성 α2 작용제; 국내 상업적 유통 중단; 긴급도입 의약품으로 KOEDC 신청 시 1~2주 내 도입 가능</td></tr><tr><td><strong>hydralazine</strong></td><td>제한적</td><td>—</td><td>혈관확장제; 경구제 2024년 국내 공급 중단·허가 자진 취하; 주사제도 KOEDC 수입 필요; 응급 시 사용</td></tr></tbody></table>
 
-**금기**
+<mark style="color:cyan;">**금기**</mark>
 
-* 임신 전 또는 임신 확인 즉시 중단 : ACEI, ARB, MRA (스피로놀락톤), 직접레닌억제제, nitroprusside, atenolol (태아 기형·신독성 위험)
-* DBP <80 ㎜Hg까지 과도한 강압은 금지 (태아 혈류 감소·성장지연 위험; III, C)
+* 임신 전 또는 임신 확인 즉시 중단 : ACEI, ARB, MRA(스피로놀락톤), 직접레닌억제제, nitroprusside, atenolol
+* DBP <80 ㎜Hg까지 과도한 강압은 금지 (태아 혈류 감소·성장지연 위험)
 
-**응급 상황 (중증 고혈압 ≥160/110)**
+<mark style="color:cyan;">**응급 상황 (중증 고혈압 ≥160/110)**</mark>
 
 * labetalol 정주 또는 경구 nifedipine 즉시 투여; 목표 <160/<110 ㎜Hg (30\~60분 이내)
 * Magnesium sulphate : 전자간증·자간증 예방 및 경련 치료
 
-**수유기 약제 선택** \[2026 대한고혈압학회]
+<mark style="color:cyan;">**수유기 약제 선택**</mark> \[2026 대한고혈압학회]
 
 * 우선 권장 : nifedipine ER (L2, 모유 이행 극미량), enalapril (L2, 만삭아 수유 시 안전), amlodipine (L3), labetalol (L2)
 * 주의 : hydrochlorothiazide (L3, 모유량 감소 위험)
