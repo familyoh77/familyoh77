@@ -708,6 +708,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 대상 : 심근경색 후, 관상동맥병, 저박출에 의한 CHF, 신장병증
 * 부작용 : 마른기침 (20%; 특히 여성, 고령), 혈관부종; ARB는 기침 부작용은 드묾
 * 임신 금기 : ACEI, ARB, direct renin inhibitor는 임신 중 절대 금기. 태아 신독성·저혈압·사망 위험
+* ACEI+ARB는 효과가 미약하고 부작용이 증가하므로 선택 안함
 
 **ACEI**
 
@@ -798,10 +799,14 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 ### <mark style="color:orange;">혈관 확장제 (Direct vasodilator)</mark>
 
-* 대상 : 중등증\~중증 고혈압 환자에서 보조 요법으로 사용; 반드시 이뇨제나 β-차단제와 병용
+* 효과 : 수용체 차단이 아닌 평활근에 직접 작용하여  arteriole만 선택적으로 이완시킴
+  * 신체는 다음의 보상 기전을 작동시킴
+    * 반사성 빈맥 → 교감신경 활성화로 심박수·심박출량 증가; β-차단제 병용 필요
+    * 수분·나트륨 저류 → 혈관 확장에 대한 신장의 보상 반응으로 체액량 증가; 이뇨제 병용 필요
+* 대상 : 중등증\~중증 고혈압 환자에서 보조 요법으로 사용
 * 부작용 : hydralazine - 빈맥, 루프스양증후군; minoxidil - 안면부 발모, 심장막성 삼출
 * 주의/금기 : 심한 관상동맥병
-* hydralazine : 임신 중독에 의한 고혈압; 25\~50 ㎎/d #3\~4 <mark style="color:blue;">\[히드랄라진염산염]</mark>
+* hydralazine : 임신 중독에 의한 고혈압; 25\~50 ㎎/d #3\~4
 * minoxidil : 다른 모든 강압제에 저항을 보이는 신 기능 저하 환자; 5\~40 ㎎/d #1\~2 <mark style="color:blue;">\[미녹시딜]</mark>
 
 ### <mark style="color:orange;">안지오텐신수용체-네프릴리신억제제 (ARNI)</mark>
@@ -841,30 +846,29 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 1. 단일제 : 표적 장기 손상이 없고 평균 혈압이 목표보다 20/10 ㎜Hg 이내로 높은 경우에 단일제로 시작 → 2\~3개월 후 목표 이하로 조절되지 않으면 증량 또는 약제 추가
 2. 병용 요법 : HMOD이 있는 고혈압 또는 평균 혈압이 목표보다 ＞20/10 ㎜Hg 높은 경우에 저용량 2제 요법으로 시작 고려; 환자의 ＞70%에서 병용 요법 필요
-   * \[ADA] ≥160/100 ㎜Hg 시 2제 요법으로 시작
    * \[ESC/ESH] ＜150/95 ㎜Hg의 저위험 grade 1, 높은 CV risk가 있는 high normal, 허약, 고령에서 단일제로 시작; 그 외 대부분의 고혈압 환자에서 2제 요법 (ACEI/ARB + {CCB 또는 T/TL diuretic})으로 시작하는 것을 권고
-3. 3제 요법 : 2제 요법을 사용함에도 목표 이하로 조절이 되지 않는 경우; 예) 금기가 없으면 ARB + CCB + HCTZ
-   * 저용량 HCTZ로 조절이 안 되는 경우 증량 또는 chlorthalidone이나 indapamide 사용을 고려; 2제 요법을 증량하는 것보다 3제 요법이 효과적이라는 보고가 있음
-
-* 피해야 할 조합 : BB+thiazide (인슐린 저항성 증가, 이상지질혈증 발생 위험 증가), ACEI+ARB (효과 미약, 부작용 증가), ACEI/ARB+BB (혈압 강하 효과 미약), BB+non-DHP CCB (심장 전도 장애)
-
-***
+   * \[ADA] ≥160/100 ㎜Hg 시 2제 요법으로 시작
+3. 3제 요법 : 2제 요법을 사용함에도 목표 이하로 조절이 되지 않는 경우
+   * 예) 금기가 없으면 ARB + CCB + HCTZ
+   * 저용량 HCTZ로 조절이 안 되는 경우 증량 또는 chlorthalidone이나 indapamide 사용을 고려
+   * 2제 요법을 증량하는 것보다 3제 요법이 효과적이라는 보고가 있음
 
 ```mermaid
 graph LR
     A["ACEI or ARB"] <==> C[CCB]
     C <==> T
     A <==> T[Thiazide]
-    A -. 혈압강하 효과 열등 .- B[β-blocker]
-    C <--(1)--> B
-    T <--(2)--> B
+    A -. (1) .- B[β-blocker]
+    C <--(2)--> B
+    T <--(3)--> B
 ```
 
 <p align="center"><strong>항고혈압제 병용 요법</strong></p>
 
-_굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_\
-\&#xNAN;_(1) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
-\&#xNAN;_(2) thiazide+구세대 BB(atenolol 등) :_ _회피 (당뇨병·이상지질혈증 발생 위험 증가)_<br>
+&#x20; _굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_\
+&#x20;_(1)  ACEI/ARB+BB :_ 회피 (_혈압 강하 효과 미약)_\
+&#x20; _(2) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
+&#x20; _(3) thiazide+구세대 BB(atenolol 등) : 회피 (인슐린 저항성 증가, 이상지질혈증 발생 위험 증가)_<br>
 
 ***
 
@@ -901,10 +905,10 @@ _굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_\
 * olmesartan/amlodipine/HCTZ <mark style="color:blue;">\[세비카 에이치씨티]</mark>
 * telmisartan/amlodipine/chlorthalidone <mark style="color:blue;">\[트루셋]</mark>
 
-<mark style="color:cyan;">**단일제형복합제(SPC,**</mark> <mark style="color:cyan;">Single-Pill Combination</mark><mark style="color:cyan;">**) 분류 체계**</mark> \[대한고혈압학회]
+<mark style="color:cyan;">**단일제형복합제**</mark><mark style="color:cyan;">(SPC,</mark> <mark style="color:cyan;">Single-Pill Combination)</mark> <mark style="color:cyan;"></mark><mark style="color:cyan;">**분류 체계**</mark> \[대한고혈압학회]
 
 * 통상적인 시작 용량을 기준으로 4단계로 분류
-* 임상적 의의 : 초저·저용량 SPC가 부작용 증가 없이 우수한 혈압 조절 효과를 보일 수 있음, 단일제형으로 약물 개수·복용 횟수를 줄여 치료 지속성(adherence) 향상; 저용량 복합제로 치료시작 고려
+* 임상적 의의 : 초저·저용량 SPC가 부작용 증가 없이 우수한 혈압 조절 효과를 보일 수 있음, 단일제형으로 약물 개수·복용 횟수를 줄여 치료 지속성(adherence) 향상; 저용량 복합제로 치료 시작 고려
 
 <table><thead><tr><th width="140">분류</th><th width="200">특징</th><th>예시</th></tr></thead><tbody><tr><td><strong>초저용량 SPC</strong></td><td>각 성분의 최저 용량 이하 조합</td><td>amlodipine 2.5 ㎎ + olmesartan 10 ㎎ 등</td></tr><tr><td><strong>저용량 SPC</strong></td><td>각 성분의 최저 시작 용량 조합</td><td>amlodipine 5 ㎎ + ARB 저용량 등</td></tr><tr><td><strong>표준용량 SPC</strong></td><td>각 성분의 통상 시작 용량 조합</td><td>amlodipine 5 ㎎ + ARB 표준 용량 등</td></tr><tr><td><strong>고용량 SPC</strong></td><td>각 성분의 최대 또는 고용량 조합</td><td>amlodipine 10 ㎎ + ARB 고용량 등</td></tr></tbody></table>
 
@@ -912,11 +916,11 @@ _굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_\
 
 ```mermaid
 graph TD
-    Start["초기 치료 <br/>(Monotherapy 선호 조건¹⁾)"]
+    Start["<u>초기 치료</u> <br/>Monotherapy 선호 조건¹⁾"]
 style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    T1["저용량 2제 요법<br/>(ACEi/ARBs + CCBs/Diuretics)"]  
-    T2["저용량 3제 요법<br/>(ACEi/ARBs + CCBs + Diuretics)"]
-    T3["고용량 3제 요법<br/>ACEi/ARBs + CCBs + Diuretics"]
+    T1["<u>저용량 2제 요법</u><br/>ACEi/ARBs + CCBs/Diuretics"]  
+    T2["<u>저용량 3제 요법</u><br/>ACEi/ARBs + CCBs + Diuretics"]
+    T3["<u>고용량 3제 요법</u><br/>ACEi/ARBs + CCBs + Diuretics"]
 style T1 fill:#e3f2ff,stroke:#2196f3
 style T2 fill:#daeaff,stroke:#1e80d9
 style T3 fill:#d0e8ff,stroke:#1a6abf
@@ -961,9 +965,9 @@ style FU fill:#e8f8e8,stroke:#4caf50
 
 <p align="center"><strong>항고혈압제 단계적 치료 알고리듬</strong> <em><mark style="color:$info;">Ref. 2023 ESH Guidelines</mark></em></p>
 
-_¹⁾ BP 120/70\~139/89 ㎜Hg, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
-\&#xNAN;_²⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
-\&#xNAN;_³⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate control_
+&#x20; _¹⁾ BP 120/70\~139/89 ㎜Hg, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
+&#x20; _²⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
+&#x20; _³⁾ angina, post-myocardial infarction, systolic heart failure, or heart rate control_
 
 #### <mark style="color:$primary;">상황별 약제 선택</mark>
 
