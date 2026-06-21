@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 진단 기준 : 앙와위 또는 좌위에서 기립 후 3분 이내에 SBP ≥ 20 ㎜Hg 또는 DBP ≥ 10 ㎜Hg 감소; 증상 유무와 관계없이 진단 가능
+* 진단 기준 : 앙와위 또는 좌위에서 기립 후 3분 이내에 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg 감소; 증상 유무와 관계없이 진단 가능
 * 어지럼·실신·시야 흐림 등의 증상이 동반될 수 있음
 * 다른 이름 : 체위저혈압 (Postural hypotension)
 * 유병률 : 지역사회·일차 의료 기관 17\~19%, 요양 시설 입소자 약 31%; 고령자(65세 이상)의 최대 1/4에서 발생
@@ -12,14 +12,14 @@
 
 <mark style="color:cyan;">**Initial OH**</mark>
 
-* 기립 후 15초 이내에 SBP ≥ 40 ㎜Hg or DBP ≥ 20 ㎜Hg 급감 후 30\~60초 내 자연 회복되는 형태; 기립 직후(15\~30초) 측정으로만 포착 가능
+* 기립 후 15초 이내에 SBP ≥40 ㎜Hg or DBP ≥20 ㎜Hg 급감 후 30\~60초 내 자연 회복되는 형태; 기립 직후(15\~30초) 측정으로만 포착 가능
 * 청소년·젊은 성인에서 흔하나 임상적 의미는 제한적인 경우가 많음(대부분 양성 경과)
 * 진단 후 불필요한 추가 검사(자율신경 검사, 틸트 테이블 검사 등)로 이어지지 않도록 주의
 
 <mark style="color:cyan;">**Classical OH**</mark>
 
 * 기립 후 3분 이내에 OH 기준(SBP ≥20 or DBP ≥10 ㎜Hg 감소) 충족
-  * 앙와위 고혈압(SBP ≥160 ㎜Hg) 환자에서는 SBP ≥30 ㎜Hg 감소를 진단 기준으로 적용 권고 (자율신경학회 권고안; 과진단 방지 목적)
+* 앙와위 고혈압(SBP ≥160 ㎜Hg) 환자에서는 SBP ≥30 ㎜Hg 감소를 진단 기준으로 적용 권고 (자율신경학회 권고안; 과진단 방지 목적)
 
 <mark style="color:cyan;">**Delayed OH**</mark>
 
@@ -37,88 +37,57 @@
 
 ### <mark style="color:orange;">병인에 따른 분류</mark>
 
-#### <mark style="color:$primary;">Neurogenic OH (nOH)</mark>
+<mark style="color:cyan;">**Neurogenic OH (nOH)**</mark>
 
-* 원발성 또는 이차성 자율신경 부전에 의한 기립성 저혈압 — 압수용체 반사궁의 효과기 경로(efferent sympathetic) 자체가 손상되어 기립 시 보상성 혈관 수축이 일어나지 않음
-* 대표 원인 질환 : Parkinson병, 다발계통위축(MSA), 순수자율신경부전(PAF), Lewy소체 치매, 당뇨병성 신경병증
-* 약 50%에서 neurogenic supine hypertension 동반 - 5분 이상 앙와위 후 SBP ≥ 140 ㎜Hg 또는 DBP ≥ 90 ㎜Hg (Autonomic Society 기준); 기립성 저혈압과 야간 고혈압이 공존하는 치료적 딜레마
+* 원발성 또는 이차성 자율신경 부전에 의한 기립성 저혈압 - Baroreceptor reflex arc의 efferent sympathetic pathway가 손상되어 기립 시 보상성 혈관 수축이 일어나지 않음
+* 원인&#x20;
+  * 원발성 : 순수자율신경부전(PAF), 다발계통위축(MSA), Parkinson병 등 Lewy소체 질환
+  * 이차성 : 당뇨병성 신경병증, 아밀로이드증, 자가면역 신경병증
+* 약 50%에서 neurogenic supine hypertension 동반 - 5분 이상 앙와위 후 SBP ≥140 ㎜Hg 또는 DBP ≥90 ㎜Hg (Autonomic Society 기준); 기립성 저혈압과 야간 고혈압이 공존하는 치료적 딜레마 상태
 
-#### <mark style="color:$primary;">Non-neurogenic OH</mark>
+<mark style="color:cyan;">**Non-neurogenic OH**</mark>
 
 * 자율신경 반사궁 자체는 정상이나, 혈량·심박출량 부족 또는 정맥 저류 과다로 인해 정상적인 보상성 혈관 수축이 따라가지 못해 발생
-* 대표 원인 : 혈액량 감소(탈수, 출혈, 이뇨제), 정맥 저류 증가(식후·고온·장기 와상), 심장 기능 이상(서맥, 심부전, 판막 질환), 약물(항고혈압제, 항우울제 등) — 상세 내용은 ☞ [원인](#원인) 참조
+* 원인&#x20;
+  * 혈액량 감소 (Hypovolemia) : 수분 섭취 부족, 발열, 심한 설사·구토, 과도한 발한, 이뇨제 과다 사용; 배뇨·배변 후 일시적 혈압 하락
+  * 정맥 저류 증가 : 음주, 식사(→ 식후 저혈압), 격렬한 운동, 기온 상승, 장기간 와상·기립, 패혈증, 임신
+  * 심장 기능 이상 : 서맥(동기능 부전, 방실 차단), 심장 판막 질환, 심부전, 심근경색
+  * 약물 : 항고혈압제(특히 α-차단제, 이뇨제), 알코올, 발기부전치료제(PDE-5 억제제); 진정제·수면제, 항우울제(TCA, MAOI), 인슐린, 항파킨슨병제(levodopa, dopamine agonist); 항정신병제, 마약성 진통제
+  * 기타 : 노화 (Baroreceptor 반사 감소, 혈관 탄성 저하); 긴장, 무거운 것 들기, 탈수 상태에서의 운동
 * 임상에서 가장 흔한 유형이며, 원인 교정만으로 호전되는 경우가 많음
-* nOH와의 핵심 감별점 : 기립 시 보상성 빈맥이 뚜렷함(HR 증가 ≥ 15 bpm), supine hypertension 동반이 드묾 (상세 비교는 ☞ [진단 - Neurogenic vs. Non-neurogenic OH 감별](#neurogenic-vs-non-neurogenic-oh-감별) 표 참조)
-
-***
-
-## <mark style="color:green;">원인</mark>
-
-### <mark style="color:orange;">Non-neurogenic OH의 원인</mark>
-
-#### <mark style="color:$primary;">혈액량 감소 (Hypovolemia)</mark>
-
-* 수분 섭취 부족, 발열, 심한 설사·구토, 과도한 발한, 이뇨제 과다 사용
-* 배뇨·배변 후 일시적 혈압 하락
-
-#### <mark style="color:$primary;">정맥 저류 증가</mark>
-
-* 음주, 식사(→ 식후 저혈압), 격렬한 운동, 기온 상승, 장기간 와상·기립, 패혈증, 임신
-
-#### <mark style="color:$primary;">심장 기능 이상</mark>
-
-* 서맥(동기능 부전, 방실 차단), 심장 판막 질환, 심부전, 심근경색
-
-#### <mark style="color:$primary;">약물</mark>
-
-* 항고혈압제(특히 α-차단제, 이뇨제), 알코올, 발기부전치료제(PDE-5 억제제)
-* 진정제·수면제, 항우울제(TCA, MAOI), 인슐린, 항파킨슨병제(levodopa, dopamine agonist)
-* 항정신병제, 마약성 진통제
-
-#### <mark style="color:$primary;">기타</mark>
-
-* 노화 (압수용체 반사 감소, 혈관 탄성 저하)
-* 긴장, 무거운 것 들기, 탈수 상태에서의 운동
-
-### <mark style="color:orange;">Neurogenic OH의 원인</mark>
-
-* 원발성 : 순수자율신경부전(PAF), 다발계통위축(MSA), Parkinson병 등 Lewy소체 질환
-* 이차성 : 당뇨병성 신경병증, 아밀로이드증, 자가면역 신경병증
-* 상세 정의는 ☞ [일반 사항 - Neurogenic OH (nOH)](#neurogenic-oh-noh) 참조
+* nOH와의 핵심 감별점 : 기립 시 보상성 빈맥이 뚜렷함(HR 증가 ≥15 bpm), supine hypertension 동반이 드묾
 
 ### <mark style="color:orange;">식후 저혈압 (Postprandial Hypotension)</mark>
 
-* 식후 **15\~90분** 이내에 SBP **20 ㎜Hg 이상** 하락
+* 식후 15\~90분 이내에 SBP 20 ㎜Hg 이상 하락
 * 추정 기전 : 식후 내장 순환에 따른 blood pooling에 대한 부적절한 sympathetic compensation; insulin 또는 vasoactive gastrointestinal peptide에 의한 혈관 확장
 * 고령자, nOH 환자, 탄수화물 고함량 식사 후에 특히 흔함
 
-***
-
 ## <mark style="color:green;">임상 양상</mark>
 
-* **전형적 증상** : 기립 시 어지럼·현기증, 힘없음, 불안정감, 두근거림, 떨림, 구역
-* **자율신경 증상** : 축축한 느낌(냉한), 창백, 흐려 보임(시야 흐림), 이명
-* **중증 증상** : 인지 장애(일시적 혼돈), 실신 (fall risk↑, 골절 위험)
-* 증상은 **기상 직후 아침**에 가장 심하고, 식후·더운 환경·운동 후에 악화됨
+* 전형적 증상 : 기립 시 어지럼·현기증, 힘없음, 불안정감, 두근거림, 떨림, 구역
+* 자율신경 증상 : 축축한 느낌(냉한), 창백, 흐려 보임(시야 흐림), 이명
+* 중증 증상 : 인지 장애(일시적 혼돈), 실신(fall risk↑, 골절 위험)
+* 증상은 기상 직후 아침에 가장 심하고, 식후·더운 환경·운동 후에 악화됨
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
 
-* 실신과 함께 **흉통·호흡 곤란·심전도 이상** 동반 → 급성 관상동맥 증후군 또는 폐색전증 의심
-* 실신 후 **의식 회복 지연** 또는 **경련 동반** → 뇌졸중·경련성 질환과의 감별
-* **급성 출혈** 또는 **심각한 탈수** (패혈증, 급성 구토·설사)로 인한 쇼크 전 상태
+* 실신과 함께 흉통·호흡 곤란·심전도 이상 동반 → 급성 관상동맥 증후군, 폐색전증
+* 실신 후 의식 회복 지연 또는 경련 동반 → 뇌졸중, 경련성 질환
+* 급성 출혈 또는 심각한 탈수(패혈증, 급성 구토·설사)로 인한 쇼크 전 상태
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 새로 시작한 항고혈압제 투여 후 **반복 실신** 또는 낙상 발생
-* 기립성 저혈압과 함께 **파킨슨 증상**(보행 장애, 정지 떨림, 경직) 동반 → 신경과 의뢰
-* **ECG 이상** (서맥, 심블록, QT 연장) 동반
+* 새로 시작한 항고혈압제 투여 후 반복 실신 또는 낙상 발생
+* 기립성 저혈압과 함께 파킨슨 증상(보행 장애, 정지 떨림, 경직) 동반
+* ECG 이상 (서맥, 심블록, QT 연장) 동반
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">외래 추적 / 추가 평가 계획</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 비약물 치료 및 약물 조정에도 **4주 이상 증상 지속**되거나 낙상 반복
-* **젊은 환자** (< 40세)에서 원인 불명의 기립성 저혈압 → Initial OH 포함 드문 이차 원인 배제
+* 비약물 치료 및 약물 조정에도 4주 이상 증상 지속되거나 낙상 반복
+* 젊은 환자 (<40세)에서 원인 불명의 기립성 저혈압 → Initial OH 포함 드문 이차 원인 배제
 * 당뇨병 환자에서 nOH 의심 시 → 자율신경 기능 검사 및 당뇨 관리 재평가
 
 ***
@@ -127,65 +96,77 @@
 
 ### <mark style="color:orange;">Active Standing Test (기본 진단 방법)</mark>
 
-1. **앙와위 또는 좌위**에서 5분 이상 안정 후 혈압·맥박 측정 (필요시 배뇨 후 시행)
+1. 앙와위 또는 좌위에서 5분 이상 안정 후 혈압·맥박 측정 (필요시 배뇨 후 시행)
 2. 기립 후 아래 시점에서 혈압·맥박 반복 측정
 
-<table><thead><tr><th width="160">측정 시점</th><th width="200">임상적 의미</th><th>비고</th></tr></thead><tbody><tr><td>기립 즉시 (15~30초)</td><td>Initial OH 감지</td><td>SBP ≥40 또는 DBP ≥20 ㎜Hg 감소</td></tr><tr><td>1분</td><td>초기 혈압 적응 평가</td><td>Classical OH 조기 발견</td></tr><tr><td>3분</td><td>Classical OH 확인</td><td>SBP ≥20 또는 DBP ≥10 ㎜Hg 감소 시 진단</td></tr><tr><td>5~10분</td><td>Delayed OH 확인</td><td>3분 측정 정상이나 증상 지속 시 연장 측정</td></tr></tbody></table>
+<table><thead><tr><th width="167.6190185546875">측정 시점</th><th width="170.47625732421875">임상적 의미</th><th>비고</th></tr></thead><tbody><tr><td>기립 즉시 (15~30초)</td><td>Initial OH 감지</td><td>SBP ≥40 또는 DBP ≥20 감소</td></tr><tr><td>1분</td><td>초기 혈압 적응 평가</td><td>Classical OH 조기 발견</td></tr><tr><td>3분</td><td>Classical OH 확인</td><td>SBP ≥20 또는 DBP ≥10 감소 시 진단</td></tr><tr><td>5~10분</td><td>Delayed OH 확인</td><td>3분 측정 정상이나 증상 지속 시 연장 측정</td></tr></tbody></table>
 
 {% hint style="info" %}
-**진단 시 주의** : 고혈압 환자에서 기립성 저혈압은 강압 치료 강도와 독립적으로 평가해야 함. 증상성 OH가 있는 고혈압 환자의 경우 목표 SBP를 완화(< 140 ㎜Hg 고려)하여 강압 치료 강도를 조정 (2025 AHA/ACC 가이드라인; 2024 ESC 가이드라인).
+**진단 시 주의** : 고혈압 환자에서 기립성 저혈압은 강압 치료 강도와 독립적으로 평가해야 함. 증상성 OH가 있는 고혈압 환자의 경우 목표 SBP를 완화(< 140㎜Hg 고려)하여 강압 치료 강도를 조정 (2025 AHA/ACC 가이드라인; 2024 ESC 가이드라인).
 {% endhint %}
 
 ### <mark style="color:orange;">Neurogenic vs. Non-neurogenic OH 감별</mark>
 
-<table><thead><tr><th width="170">특징</th><th width="210">Neurogenic OH</th><th>Non-neurogenic OH</th></tr></thead><tbody><tr><td>기립 시 HR 증가</td><td>&#x3C; 15 bpm (미미)</td><td>≥ 15 bpm (뚜렷)</td></tr><tr><td>주요 원인</td><td>자율신경 부전(파킨슨병, MSA, PAF, 당뇨 신경병증)</td><td>탈수, 약물, 심장 질환</td></tr><tr><td>발한</td><td>감소 또는 소실</td><td>정상</td></tr><tr><td>Supine hypertension</td><td>흔함 (약 50%)</td><td>드묾</td></tr><tr><td>1차 약물</td><td>Midodrine, Droxidopa</td><td>원인 교정 후 Fludrocortisone</td></tr></tbody></table>
+<table><thead><tr><th width="187.142822265625">특징</th><th width="210">Neurogenic OH</th><th>Non-neurogenic OH</th></tr></thead><tbody><tr><td>기립 시 HR 증가</td><td>&#x3C;15 bpm (미미)</td><td>≥15 bpm (뚜렷)</td></tr><tr><td>주요 원인</td><td>자율신경 부전(파킨슨병, MSA, PAF, 당뇨 신경병증)</td><td>탈수, 약물, 심장 질환</td></tr><tr><td>발한</td><td>감소 또는 소실</td><td>정상</td></tr><tr><td>Supine hypertension</td><td>흔함 (약 50%)</td><td>드묾</td></tr><tr><td>1차 약물</td><td>Midodrine, Droxidopa</td><td>원인 교정 후 Fludrocortisone</td></tr></tbody></table>
 
 ### <mark style="color:orange;">검사</mark>
 
-* **기본 혈액 검사** : CBC (빈혈), 혈당, 전해질, BUN/Cr, TSH
-* **ECG** : 서맥, 심블록, QT 연장 확인; Holter monitor (간헐적 부정맥)
-* **심초음파** : 구조적 심장 질환 배제
-* **자율신경 반응 검사** (신경과 의뢰 시)
-  * Heart rate variability (HRV)
-  * Sudomotor function test (발한 기능)
+* 기본 혈액 검사 : CBC(빈혈), 혈당, 전해질, BUN/Cr, TSH
+* ECG : 서맥, 심블록, QT 연장 확인; Holter monitor (간헐적 부정맥)
+* 심초음파 : 구조적 심장 질환 배제
+* 자율신경 반응 검사
+  * Heart rate variability(HRV)
+  * Sudomotor function(발한 기능)
   * Tilt-table test
   * Valsalva response
 * 스트레스 검사 : 식사·온수 목욕·운동 등에 의한 증상 악화 또는 유발 관찰
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="180">감별 질환</th><th width="220">감별 포인트</th><th>조치</th></tr></thead><tbody><tr><td>반사성 실신 (미주신경성)</td><td>유발 자세 불특정; 전구증상(오심·발한) 동반; 기립 외 자극(통증·공포)에서도 발생</td><td>(☞ <a href="../221_/022_-reflex-syncope-neurally-mediated-syncope.md">반사성 실신</a>)</td></tr><tr><td>POTS</td><td>기립 10분 내 HR ≥ 30 bpm 상승이 <strong>지속적으로(sustained)</strong> 유지; 혈압 하강 미미; 주로 젊은 여성</td><td>신경과 협진</td></tr><tr><td>Initial OH</td><td>기립 15초 이내 급감 후 자연 회복; 일반 측정으로 놓칠 수 있음</td><td>즉시 측정 추가</td></tr><tr><td>심인성 어지럼·실신</td><td>서맥/빈맥, ECG 이상 동반</td><td>심장내과 의뢰</td></tr><tr><td>전정계 어지럼 (BPPV 등)</td><td>회전성 어지럼, 체위 변환 시 유발; 혈압 변화 없음</td><td>(☞ <a href="097_-dizziness.md">어지럼</a>)</td></tr><tr><td>저혈당</td><td>공복 또는 인슐린 사용 중; 혈당 측정으로 감별</td><td>혈당 측정</td></tr></tbody></table>
+<table><thead><tr><th width="196.19049072265625">감별 질환</th><th width="404.761962890625">감별 포인트</th><th>조치</th></tr></thead><tbody><tr><td>반사성 실신 (미주신경성)</td><td>유발 자세 불특정; 전구증상(오심·발한) 동반; 기립 외 자극(통증·공포)에서도 발생</td><td>(☞ <a href="../221_/022_-reflex-syncope-neurally-mediated-syncope.md">반사성 실신</a>)</td></tr><tr><td>POTS</td><td>기립 10분 내 HR ≥30 bpm 상승이 지속적으로 유지; 혈압 하강 미미; 주로 젊은 여성</td><td>신경과 협진</td></tr><tr><td>Initial OH</td><td>기립 15초 이내 급감 후 자연 회복; 일반적인 측정으로 놓칠 수 있음</td><td>즉시 측정 추가</td></tr><tr><td>심인성 어지럼·실신</td><td>서맥/빈맥, ECG 이상 동반</td><td>의뢰</td></tr><tr><td>전정계 어지럼 (BPPV 등)</td><td>회전성 어지럼, 체위 변환 시 유발; 혈압 변화 없음</td><td>(☞ <a href="097_-dizziness.md">어지럼</a>)</td></tr><tr><td>저혈당</td><td>공복 또는 인슐린 사용 중; 혈당 측정으로 감별</td><td>혈당 측정</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    classDef purple fill:#F3ECF7,stroke:#A381C6,stroke-width:1px,color:#333;
-    classDef yellow fill:#FFF9E6,stroke:#F4D068,stroke-width:1px,color:#333;
-    classDef gray fill:#F2F4F7,stroke:#D1D5DB,stroke-width:1px,color:#333;
-    classDef pink fill:#FCE8E6,stroke:#F3A9A3,stroke-width:1px,color:#333;
-    classDef blue fill:#EBF5FF,stroke:#A3CFFF,stroke-width:1px,color:#333;
-    classDef green fill:#EDFAF1,stroke:#82C99A,stroke-width:1px,color:#333;
 
-    Start([기립성 저혈압 의심]):::purple --> Timing{"측정 시점"}:::yellow
-
-    Timing --> T1["즉시(15~30초)\nInitial OH?"]:::gray
-    Timing --> T2["1분·3분\nClassical OH?"]:::yellow
-    Timing --> T3["5~10분\nDelayed OH?"]:::gray
-
-    T1 -- "SBP ≥40 or DBP ≥20" --> InitOH["Initial OH\n(젊은 환자, 자연 회복)"]:::pink
-    T2 -- "SBP ≥20 or DBP ≥10" --> HR{"HR 증가?"}:::yellow
-    T3 -- "새롭게 기준 충족" --> DelayOH["Delayed OH\n(경미한 자율신경부전)"]:::pink
-
-    HR -- "≥ 15 bpm" --> NonNeuro["Non-neurogenic OH\n(탈수·약물·심장)"]:::pink
-    HR -- "< 15 bpm" --> Neuro["Neurogenic OH\n(자율신경 부전)"]:::pink
-    HR -- "빈맥 단독\n(혈압 하강 미미)" --> POTS["POTS 의심"]:::gray
-
-    NonNeuro --> NonTx["원인 교정\n(탈수·약물·심장 치료)\n↓ 지속 시\nFludrocortisone"]:::blue
-
-    Neuro --> SupineHTN{"Supine HTN\n동반?"}:::yellow
-    SupineHTN -- "없음" --> NTx1["Midodrine\nDroxidopa"]:::blue
-    SupineHTN -- "있음" --> NTx2["Pyridostigmine\n(저용량 Midodrine 병용 가능)"]:::blue
+    Start([기립성 저혈압 의심])
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    T0["측정 시점"]
+style T0 fill:#e8f8e8,stroke:#4caf50
+    T1["즉시(15~30초)<br/>Initial OH?"]
+    T2["1분·3분<br/>Classical OH?"]
+    T3["5~10분<br/>Delayed OH?"]
+    InitOH["Initial OH<br/>(젊은 환자, 자연 회복)"]
+    HR["HR 증가?"]
+    DelayOH["Delayed OH<br/>(경미한 자율신경부전)"]
+    NonNeuro["Non-neurogenic OH<br/>(탈수·약물·심장)"]
+    Neuro["Neurogenic OH<br/>(자율신경 부전)"]
+    POTS["POTS 의심"]
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class InitOH,DelayOH,Neuro,POTS,NonNeuro pink
+    NonTx["원인 교정<br/>(탈수·약물·심장 치료)<br/>↓ 지속 시<br/>Fludrocortisone"]
+    SupineHTN["Supine HTN<br/>동반?"]
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class T1,T2,T3,HR,SupineHTN yellow
+    NTx1["Midodrine<br/>Droxidopa"]
+    NTx2["Pyridostigmine<br/>(저용량 Midodrine 병용 가능)"]
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class NTx1,NTx2,NonTx sky
+    Start --> T0
+    T0 --> T1
+    T0 --> T2
+    T0 --> T3
+    T1 -- "SBP ≥40 or DBP ≥20" --> InitOH
+    T2 -- "SBP ≥20 or DBP ≥10" --> HR
+    T3 -- "새롭게 기준 충족" --> DelayOH
+    HR -- "≥ 15 bpm" --> NonNeuro
+    HR -- "< 15 bpm" --> Neuro
+    HR -- "빈맥 단독<br/>(혈압 하강 미미)" --> POTS
+    NonNeuro --> NonTx
+    Neuro --> SupineHTN
+    SupineHTN -- "없음" --> NTx1
+    SupineHTN -- "있음" --> NTx2
 ```
 
 <p align="center"><strong>기립성 저혈압 진단 및 관리 알고리듬</strong></p>
