@@ -8,7 +8,7 @@
 * 유병률 : 지역사회·일차 의료 기관 17\~19%, 요양 시설 입소자 약 31%; 고령자(65세 이상)의 최대 1/4에서 발생
 * 무증상인 경우가 흔함; 증상 유무와 무관하게 독립적인 심혈관 위험 인자로, MI·뇌졸중·심부전·심방세동 빈도 증가 및 사망률 상승과 연관
 
-### <mark style="color:orange;">Subtype</mark>
+### <mark style="color:orange;">발생 시점에 따른 분류</mark>
 
 <mark style="color:cyan;">**Initial OH**</mark>
 
@@ -32,14 +32,16 @@
 
 • 혈압 하강 & ≥15 bpm HR 증가 → non-neurogenic OH 시사 (예: hypovolemia, 심장 pump 부전)\
 • 혈압 하강 & <15 bpm HR 증가 → neurogenic OH 시사 (예: 자율신경 부전)\
-• 혈압 하강 미미 & 기립성 빈맥 단독 (기립 후 10분 이내에 HR ≥30 bpm 상승이 지속적으로 유지) → POTS 의심
+• 혈압 하강 미미 & 기립성 빈맥 단독 (기립 후 10분 이내에 HR ≥30 bpm 상승이 지속적으로 유지) → [POTS](../221_/030_-autonomic-dysfunction.md#undefined-1)(Postural orthostatic tachycardia syndrome) 의심
 {% endhint %}
+
+### <mark style="color:orange;">병인에 따른 분류</mark>
 
 #### <mark style="color:$primary;">Neurogenic OH (nOH)</mark>
 
 * 원발성 또는 이차성 자율신경 부전에 의한 기립성 저혈압
 * 대표 원인 질환 : Parkinson병, 다발계통위축(MSA), 순수자율신경부전(PAF), Lewy소체 치매, 당뇨병성 신경병증
-* 약 50%에서 **neurogenic supine hypertension** 동반 - 5분 이상 앙와위 후 SBP ≥ 140 ㎜Hg 또는 DBP ≥ 90 ㎜Hg (Autonomic Society 기준); 기립성 저혈압과 야간 고혈압이 공존하는 치료적 딜레마
+* 약 50%에서 neurogenic supine hypertension 동반 - 5분 이상 앙와위 후 SBP ≥ 140 ㎜Hg 또는 DBP ≥ 90 ㎜Hg (Autonomic Society 기준); 기립성 저혈압과 야간 고혈압이 공존하는 치료적 딜레마
 
 ***
 
