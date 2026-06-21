@@ -9,7 +9,7 @@
 
 #### <mark style="color:$primary;">흉통 양상에 따른 허혈 가능성</mark>
 
-<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td></td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Stabbing</td></tr><tr><td></td><td>Right-sided, Tearing, Ripping, Burning</td></tr><tr><td><strong>낮음</strong></td><td>Sharp, Fleeting, Shifting, Pleuritic(흡기 시 발생), Positional</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td></td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Stabbing</td></tr><tr><td></td><td>Right-sided, Tearing, Ripping, Burning (단독 소견일 때)</td></tr><tr><td><strong>낮음</strong></td><td>Sharp, Fleeting, Shifting, Pleuritic(흡기 시 발생), Positional</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 2</mark></em></p>
 
@@ -32,7 +32,7 @@
 **허혈성**
 
 * ACS (불안정 협심증, NSTEMI, STEMI)
-* 안정 협심증
+* 안정 협심증 (☞ [협심증](../097_-angina-pectoris.md))
 * 관상동맥연축 (Prinzmetal 협심증)
 * INOCA (Ischemia with Non-Obstructive Coronary Arteries) : 미세혈관 기능장애, 관상동맥 내피기능 이상
 * 대동맥판 협착증, 비후성 심근병증에 의한 허혈
@@ -75,6 +75,7 @@
 * 잿빛 피부색, 발한, 차가운 피부 (심인성 쇼크 시사) `ACS`
 * 찢어지는(tearing)·칼로 베는 듯한(sharp/stabbing) 흉통이 갑자기 최대 강도로 시작되며 등·복부로 이동(migration)하는 경우 `대동맥 박리`
 * 찢어지는 흉통 + 양측 상지 혈압 차이 ≥20 ㎜Hg (≥15 ㎜Hg도 의심 신호로 주의 깊게 관찰) 또는 비대칭적 맥박 `대동맥 박리`
+* 흉통 + 새로 발생한 대동맥판 역류 잡음(흉골 우측 이완기 잡음) — 근위부(Stanford A) 박리가 대동맥 근부까지 침범했음을 시사하는 중요한 단서 `대동맥 박리`
 * 흉통 + 신경학적 결손 (경동맥·척추동맥 침범 시사) `대동맥 박리`
 * 연하 통증(odynophagia) 또는 반복되는 구토 `식도 파열`
 * 편측 호흡음 소실 + 저혈압·빈맥 + 기관 변위 (즉각 바늘 감압 필요) `긴장성 기흉`
@@ -85,13 +86,13 @@
 * 야간 흉통; 통증으로 잠에서 깨어남 `불안정 협심증`
 * 새로 발생한 심한 흉통 `ACS`
 * 과거에 비해 적은 활동에서 흉통 발생 (진행성 협심증) `ACS`
-* Pulsus paradoxus ＞10 ㎜Hg (≥12\~15 ㎜Hg에서 임상적 의미 증가) `심낭 압전`
+* Pulsus paradoxus ＞10 ㎜Hg (≥12\~15 ㎜Hg에서 임상적 의미 증가) `심낭 압전` — 쇼크·저혈압 등 혈역학적 불안정 동반 시 Tier 1(즉각 응급 이송) 기준 적용
 * 위장 출혈 동반 (특히 복부대동맥류/대동맥 수술 병력 시) `대동맥장누공`
 * 최근 1\~2주 이내 동일 증상으로 재내원 (진단되지 않은 ACS/AAS의 위험 신호)
 
 <mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
-* 걷거나 계단 오를 때 흉통 악화 (운동부하검사 고려) `안정형 협심증`
+* 걷거나 계단 오를 때 흉통 악화 (운동부하검사 고려) `안정형 협심증` (☞ [협심증](../097_-angina-pectoris.md))
 * 새로 발견된 심잡음 `판막 기능이상` `유두근 허혈`
 * 설명할 수 없는 체중 감소 `악성 종양` `만성 중증 질환`
 
@@ -161,13 +162,15 @@ flowchart TD
 * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
 * 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증, 심방세동, 격렬한 운동 후 등에서도 상승할 수 있으므로 baseline 대비 동적 변화(Rise and/or Fall, Δ)가 급성 MI 진단의 핵심임; 단독 수치만으로 과잉 진단하지 않도록 주의
 * 초기값이 검출 한계(LoD) 미만 또는 assay별 rule-out cut-off 이하이면 NSTEMI 배제 가능(rule-out); 중등도 이상 상승이면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 절대 변화량(Δ, absolute change)으로 판단 - 이를 신속 배제·확진 프로토콜(CDP)이라 함
-  * ESC 0/1h 알고리즘 : 가장 빠르고 광범위하게 검증됨 (validated). 0시간·1시간 hs-cTn 측정으로 rule-out/rule-in 결정
-  * AHA/ACC 0/2h 알고리즘 : 현실적 대안; 0시간·2시간 측정 후 임상 위험도(HEART score 등)와 병합하여 판단
+
+<table><thead><tr><th width="140">알고리즘</th><th width="140">재측정 시점</th><th>특징</th></tr></thead><tbody><tr><td>ESC 0/1h</td><td>0시간, 1시간</td><td>가장 빠르고 광범위하게 검증됨; 응급실 체류시간 단축에 유리; assay별 고유 cut-off 필요</td></tr><tr><td>ESC 0/2h (대안)</td><td>0시간, 2시간</td><td>0/1h 시행이 어려운 상황의 대안</td></tr><tr><td>AHA/ACC 0/2h</td><td>0시간, 2시간</td><td>현실적 대안; HEART score 등 임상 위험도와 병합 판단 권장</td></tr><tr><td>0/3h (전통적)</td><td>0시간, 3시간</td><td>모든 assay에 적용 가능한 보편적 접근; early presenter에서 특히 유용</td></tr></tbody></table>
 * Early presenter 주의 : 증상 발현 후 2–3시간 미만인 경우 단일 측정으로 rule-out 시 false negative 가능; 0/1h 또는 0/3h 프로토콜에서도 증상 시작 <2–3시간이면 반복 측정 필수
 * Assay별 cut-off 수치가 상이하므로 검사 기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 해당 제조사의 rule-out/rule-in 기준값을 반드시 확인하여 적용할 것
 * 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
 
 #### <mark style="color:$primary;">영상 검사</mark>
+
+✽ 아래는 증상 중증도/위험도를 축으로 한 분류임; CAD 기왕력 유무를 축으로 한 분류는 협심증 챕터의 "검사 전략" 표 참조(☞ [협심증](../097_-angina-pectoris.md)) — 두 표는 같은 결정을 다른 관점에서 보여주는 상호 보완 자료
 
 <table><thead><tr><th width="330.21051025390625">임상 상황</th><th width="261.26318359375">권고 검사</th></tr></thead><tbody><tr><td>중등도 위험 급성 흉통, CAD 기왕력(-)</td><td>CCTA(1차) or stress imaging*</td></tr><tr><td>중등도~고위험 안정형 흉통, CAD 기왕력 (-)</td><td>CCTA or stress imaging</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력 (-)</td><td>CAC score or 운동부하검사</td></tr><tr><td>고위험 / ACS 의심</td><td>침습적 관상동맥 조영술</td></tr><tr><td>CCTA에서 협착 확인 또는 판정 불가</td><td>FFR-CT (혈류예비분획-CT)</td></tr></tbody></table>
 
@@ -220,7 +223,7 @@ _<mark style="color:$info;">\*HEART score 원문의 "비전형적(atypical)" 표
 
 ### <mark style="color:orange;">Myocardial ischemia</mark>
 
-<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina: 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부<br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번</td></tr><tr><td><strong>동반 특징</strong></td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함 (2021 AHA/ACC Chest Pain Guideline)<br>※ 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요<br>※ Young patient trap: 젊고 위험인자가 없어도 ACS 가능 - ⓵ SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시기에 호발) ⓶ 심근염(myocarditis; 최근 바이러스 감염 후 흉통 + 트로포닌 상승 시 고려) ⓷ 코카인·암페타민 유발 연축 - 이들 세 상황에서 "젊으니까 괜찮다"는 판단은 위험한 인지 오류</td></tr></tbody></table>
+<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina(☞ [협심증](../097_-angina-pectoris.md)): 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: ≥30분 지속</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부<br>※ 여성·고령·당뇨에서 호흡곤란, 오심, 피로 등 비전형 증상 빈번</td></tr><tr><td><strong>동반 특징</strong></td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함 (2021 AHA/ACC Chest Pain Guideline)<br>※ 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요<br>※ Young patient trap: 젊고 위험인자가 없어도 ACS 가능 - ⓵ SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시기에 호발) ⓶ 심근염(myocarditis; 최근 바이러스 감염 후 흉통 + 트로포닌 상승 시 고려) ⓷ 코카인·암페타민 유발 연축 - 이들 세 상황에서 "젊으니까 괜찮다"는 판단은 위험한 인지 오류</td></tr></tbody></table>
 
 ### <mark style="color:orange;">Pericarditis</mark>
 
@@ -244,11 +247,15 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 #### <mark style="color:$primary;">급성 심근경색 가능성</mark>
 
-* 가능성 높음 : 활동과 관련, 어깨 및 팔 방사통, 발한, 구역/구토, 압박감, 과거에 경험했던 심근경색 증상과 유사하거나 더 심함
-* 가능성 낮음 : 압박에 의해 재현됨, 예리한 느낌, 위치가 명확, 흉막 통증 느낌, 통증 부위 감염(연조직염, 대상포진 등)
+* 가능성 높음 : Levine's sign(증상을 묘사할 때 가슴 위에 주먹을 얹음)¹⁾, 활동과 관련, 어깨 및 팔 방사통, 발한, 구역/구토, 압박감, 같은 자리에 같은 증상 반복 발생, 과거에 경험했던 심근경색 증상과 유사하거나 더 심함
+* 가능성 낮음 : 압박에 의해 재현됨, 예리한 느낌, 위치가 명확, 흉막 통증 느낌, 통증 부위 감염(연조직염, 대상포진 등), 왼쪽 유방 아래의 둔하고 지속되는 통증, 체위 변화에 영향받는 통증
 * 여성에서의 ACS 증상 : 여성은 전형적인 흉부 압박감 외에 다음 증상이 더 흔하게 나타남; 어지럼증, 실신, 오심, 구토, 턱·등 통증, 호흡곤란, 견갑골 사이 통증, 두근거림, 피로; 이러한 증상만 있어도 ACS를 배제하지 않도록 주의 (2023 ESC)
 
+_¹⁾ Levine's sign : 특이도는 비교적 높은 편(78\~86%)이나 민감도가 매우 낮음(≤38%)이고 양성 예측도도 55%를 넘지 않음 — 있으면 허혈 가능성을 높이는 보조 소견이지만, **없다고 해서 허혈을 배제할 수는 없음**_
+
 #### <mark style="color:$primary;">허혈성 심질환의 전형적인 흉통</mark>
+
+✽ 아래는 요약된 기준임; 방사통 우도비, 고령에서의 변형 등 상세 설명은 협심증 챕터 참조(☞ [협심증](../097_-angina-pectoris.md))
 
 * 징후
   1. 특징적인 증상 및 증상 발생 기간 동안 흉골 뒤 통증
@@ -439,6 +446,8 @@ flowchart TD
 ```
 
 _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</mark>_
+
+✽ `Z[안정형 흉통 평가]` 분지는 PTP(사전 검사 확률) 기반 검사 전략으로 이어짐 — 상세 알고리듬은 협심증 챕터 참조(☞ [협심증](../097_-angina-pectoris.md))
 
 ### <mark style="color:orange;">증상/병력에 따른 감별</mark>
 
