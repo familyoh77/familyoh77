@@ -39,13 +39,22 @@
 
 #### <mark style="color:$primary;">Neurogenic OH (nOH)</mark>
 
-* 원발성 또는 이차성 자율신경 부전에 의한 기립성 저혈압
+* 원발성 또는 이차성 자율신경 부전에 의한 기립성 저혈압 — 압수용체 반사궁의 효과기 경로(efferent sympathetic) 자체가 손상되어 기립 시 보상성 혈관 수축이 일어나지 않음
 * 대표 원인 질환 : Parkinson병, 다발계통위축(MSA), 순수자율신경부전(PAF), Lewy소체 치매, 당뇨병성 신경병증
 * 약 50%에서 neurogenic supine hypertension 동반 - 5분 이상 앙와위 후 SBP ≥ 140 ㎜Hg 또는 DBP ≥ 90 ㎜Hg (Autonomic Society 기준); 기립성 저혈압과 야간 고혈압이 공존하는 치료적 딜레마
+
+#### <mark style="color:$primary;">Non-neurogenic OH</mark>
+
+* 자율신경 반사궁 자체는 정상이나, 혈량·심박출량 부족 또는 정맥 저류 과다로 인해 정상적인 보상성 혈관 수축이 따라가지 못해 발생
+* 대표 원인 : 혈액량 감소(탈수, 출혈, 이뇨제), 정맥 저류 증가(식후·고온·장기 와상), 심장 기능 이상(서맥, 심부전, 판막 질환), 약물(항고혈압제, 항우울제 등) — 상세 내용은 ☞ [원인](#원인) 참조
+* 임상에서 가장 흔한 유형이며, 원인 교정만으로 호전되는 경우가 많음
+* nOH와의 핵심 감별점 : 기립 시 보상성 빈맥이 뚜렷함(HR 증가 ≥ 15 bpm), supine hypertension 동반이 드묾 (상세 비교는 ☞ [진단 - Neurogenic vs. Non-neurogenic OH 감별](#neurogenic-vs-non-neurogenic-oh-감별) 표 참조)
 
 ***
 
 ## <mark style="color:green;">원인</mark>
+
+### <mark style="color:orange;">Non-neurogenic OH의 원인</mark>
 
 #### <mark style="color:$primary;">혈액량 감소 (Hypovolemia)</mark>
 
@@ -60,11 +69,6 @@
 
 * 서맥(동기능 부전, 방실 차단), 심장 판막 질환, 심부전, 심근경색
 
-#### <mark style="color:$primary;">자율신경계 이상 (Neurogenic)</mark>
-
-* 원발성 : 순수자율신경부전(PAF), 다발계통위축(MSA), Parkinson병 등 Lewy소체 질환
-* 이차성 : 당뇨병성 신경병증, 아밀로이드증, 자가면역 신경병증
-
 #### <mark style="color:$primary;">약물</mark>
 
 * 항고혈압제(특히 α-차단제, 이뇨제), 알코올, 발기부전치료제(PDE-5 억제제)
@@ -75,6 +79,12 @@
 
 * 노화 (압수용체 반사 감소, 혈관 탄성 저하)
 * 긴장, 무거운 것 들기, 탈수 상태에서의 운동
+
+### <mark style="color:orange;">Neurogenic OH의 원인</mark>
+
+* 원발성 : 순수자율신경부전(PAF), 다발계통위축(MSA), Parkinson병 등 Lewy소체 질환
+* 이차성 : 당뇨병성 신경병증, 아밀로이드증, 자가면역 신경병증
+* 상세 정의는 ☞ [일반 사항 - Neurogenic OH (nOH)](#neurogenic-oh-noh) 참조
 
 ### <mark style="color:orange;">식후 저혈압 (Postprandial Hypotension)</mark>
 
