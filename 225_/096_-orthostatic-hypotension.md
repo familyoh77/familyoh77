@@ -90,8 +90,6 @@
 * 젊은 환자 (<40세)에서 원인 불명의 기립성 저혈압 → Initial OH 포함 드문 이차 원인 배제
 * 당뇨병 환자에서 nOH 의심 시 → 자율신경 기능 검사 및 당뇨 관리 재평가
 
-***
-
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">Active Standing Test (기본 진단 방법)</mark>
@@ -132,46 +130,49 @@ graph TD
 
     Start([기립성 저혈압 의심])
 style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    T0["측정 시점"]
-style T0 fill:#e8f8e8,stroke:#4caf50
-    T1["즉시(15~30초)<br/>Initial OH?"]
-    T2["1분·3분<br/>Classical OH?"]
-    T3["5~10분<br/>Delayed OH?"]
-    InitOH["Initial OH<br/>(젊은 환자, 자연 회복)"]
+    HR0["기립 시 HR·혈압 동시 평가"]
+style HR0 fill:#e8f8e8,stroke:#4caf50
+    POTS["POTS 의심<br/>(혈압 하강 미미 +<br/>HR≥30bpm 지속 상승)"]
+    T0["측정 시점?"]
+    T1["즉시(15~30초)<br/>SBP≥40 or DBP≥20"]
+    T2["1분·3분<br/>SBP≥20 or DBP≥10"]
+    T3["5~10분<br/>SBP≥20 or DBP≥10"]
+    InitOH["Initial OH<br/>(젊은 환자, 자연 회복)<br/>→ 과잉 검사 주의"]
     HR["HR 증가?"]
-    DelayOH["Delayed OH<br/>(경미한 자율신경부전)"]
     NonNeuro["Non-neurogenic OH<br/>(탈수·약물·심장)"]
     Neuro["Neurogenic OH<br/>(자율신경 부전)"]
-    POTS["POTS 의심"]
 classDef pink fill:#fde8f0,stroke:#e91e8c
-class InitOH,DelayOH,Neuro,POTS,NonNeuro pink
+class InitOH,Neuro,POTS,NonNeuro pink
     NonTx["원인 교정<br/>(탈수·약물·심장 치료)<br/>↓ 지속 시<br/>Fludrocortisone"]
     SupineHTN["Supine HTN<br/>동반?"]
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class T1,T2,T3,HR,SupineHTN yellow
+class T0,HR,SupineHTN yellow
+classDef white fill:#fff,stroke:#333
+class T1,T2,T3 white
     NTx1["Midodrine<br/>Droxidopa"]
     NTx2["Pyridostigmine<br/>(저용량 Midodrine 병용 가능)"]
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class NTx1,NTx2,NonTx sky
-    Start --> T0
+    Start --> HR0
+    HR0 -- "혈압 하강 미미 +<br/>빈맥 단독" --> POTS
+    HR0 -- "OH 기준 충족<br/>(측정 시점 확인)" ---> T0
     T0 --> T1
     T0 --> T2
     T0 --> T3
-    T1 -- "SBP ≥40 or DBP ≥20" --> InitOH
-    T2 -- "SBP ≥20 or DBP ≥10" --> HR
-    T3 -- "새롭게 기준 충족" --> DelayOH
-    HR -- "≥ 15 bpm" --> NonNeuro
-    HR -- "< 15 bpm" --> Neuro
-    HR -- "빈맥 단독<br/>(혈압 하강 미미)" --> POTS
+    T1 --> InitOH
+    T2 --> HR
+    T3 --> HR
+    HR -- "≥15 bpm" --> NonNeuro
+    HR -- "<15 bpm" --> Neuro
     NonNeuro --> NonTx
     Neuro --> SupineHTN
     SupineHTN -- "없음" --> NTx1
     SupineHTN -- "있음" --> NTx2
+    NTx1 -. "불충분 시 병용" .-> NonTx
+    NTx2 -. "불충분 시 병용" .-> NonTx
 ```
 
 <p align="center"><strong>기립성 저혈압 진단 및 관리 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. ACC/AHA/HRS Syncope Guideline 2017; AHA Scientific Statement on OH in Hypertension 2024; Consensus Panel for Neurogenic OH, J Neurol 2017</mark></em></p>
 
 ***
 
@@ -179,117 +180,108 @@ class NTx1,NTx2,NonTx sky
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-{% hint style="info" %}
-**치료 목표** : 혈압 정상화가 아닌 **증상 완화 및 낙상·장기 손상 예방**. 비약물 치료를 우선하고, 조절되지 않는 경우에만 약물을 추가. nOH에서는 Midodrine 또는 Droxidopa가 근거 수준이 가장 높은 1차 약물.
-{% endhint %}
-
-* 급성 증상 발생 시 : **즉시 앉거나 눕고**, 음료 500 ㎖ 섭취, 다리를 올린 자세로 5분 안정
+* 치료 목표 : 혈압 정상화가 아닌 증상 완화 및 낙상·장기 손상 예방. 비약물 치료를 우선하고, 조절되지 않는 경우에만 약물을 추가. nOH에서는 Midodrine 또는 Droxidopa가 근거 수준이 가장 높은 1차 약물.
+* 급성 증상 발생 시 : 즉시 앉거나 눕고 다리를 올린 자세로 5분 안정, 음료 500 ㎖ 섭취
 * 기저 질환 치료 : 당뇨병(혈당 조절), 파킨슨병, 심장 질환, 빈혈
-* **복용 중인 모든 약물 검토** - 유발 또는 악화 약물을 최소화하거나 대체
+* 복용 중인 모든 약물 검토 - 유발 또는 악화 약물을 최소화하거나 대체
 * 혈압 모니터링 : 앙와위·좌위·기립 자세, 식전 및 식후 1시간, 취침 전 등 다양한 상황에서 측정
-* **동반 고혈압 환자** : 증상성 OH가 있을 경우 목표 SBP를 < 130 ㎜Hg보다 완화(< 140 ㎜Hg 고려)하여 강압 치료 강도를 조정 (2025 AHA/ACC 가이드라인; 2024 ESC 가이드라인)
+* 고혈압 치료 환자 : 증상성 OH가 있을 경우 목표 SBP를 <130 ㎜Hg보다 완화(<140 ㎜Hg 고려)하여 강압 치료 강도를 조정
 
 ### <mark style="color:orange;">Supine Hypertension 관리 (nOH 환자)</mark>
 
-nOH 환자의 약 50%에서 동반. OH 치료와 상충되므로 개별화된 접근 필요. \*\*24시간 활동혈압 모니터링(ABPM)\*\*으로 야간 혈압 패턴을 평가하면 치료 조정에 유용.
+* nOH 환자의 약 50%에서 동반
+* OH 치료와 상충되므로 개별화된 접근 필요
+* 24시간 활동혈압 모니터링(ABPM)으로 야간 혈압 패턴을 평가하면 치료 조정에 유용
 
 <table><thead><tr><th width="210">앙와위 SBP</th><th>조치</th></tr></thead><tbody><tr><td>140~160 ㎜Hg</td><td>침상 머리 올림(20~30 ㎝), 경과 관찰</td></tr><tr><td>> 160 ㎜Hg</td><td>침상 머리 올림 강화; 저녁 약물 용량 재검토</td></tr><tr><td>> 180 ㎜Hg 또는 야간 증상</td><td>단기 항고혈압제 추가(취침 전 소량) 고려; 자율신경 전문의 의뢰</td></tr></tbody></table>
-
-***
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 ### <mark style="color:orange;">자세·행동 교정</mark>
 
-* **천천히 일어남** (특히 아침 기상 시) : 수 분간 앉아 있은 후 기립; 지지가 될 가구·벽체를 잡고 일어남; 누운 상태에서 가벼운 운동 후 기립
-* **Counter-pressure maneuver** (기립 직전·직후 시행) - 하지 정맥 환류를 증가시켜 즉각적 혈압 유지에 효과적 (☞ [반사성 실신 - counter-pressure maneuver](../221_/022_-reflex-syncope-neurally-mediated-syncope.md#counter-pressure-maneuver))
-  * 하지 등척성 수축 (isometric leg contraction)
-  * 발목 배굴 (feet dorsiflexion)
-  * 다리 꼬기·쪼그려 앉기 (leg crossing / squatting)
-  * 다리 올리기 (leg elevation)
-  * 악력 등척성 운동 (hand grip isometric)
-* 취침 시 **머리 부위를 20**~~**30 ㎝ (10**~~**20°) 상승** - 야간 앙와위 고혈압 완화에도 기여
+* 천천히 일어남 (특히 아침 기상 시) : 수 분간 앉아 있은 후 기립; 지지가 될 가구·벽체를 잡고 일어남; 누운 상태에서 가벼운 운동 후 기립
+* Counter-pressure maneuver (기립 직전·직후 시행) - 하지 정맥 환류를 증가시켜 즉각적 혈압 유지에 효과적 : 하지 등척성 수축 (isometric leg contraction), 발목 배굴 (feet dorsiflexion), 다리 꼬기·쪼그려 앉기 (leg crossing / squatting), 다리 올리기 (leg elevation), 악력 등척성 운동 (hand grip isometric) (☞ [반사성 실신](../221_/022_-reflex-syncope-neurally-mediated-syncope.md#counter-pressure-maneuver))
+* 취침 시 머리 부위를 20\~30 ㎝ (10\~20°) 상승 - 야간 앙와위 고혈압 완화에도 기여
 
 ### <mark style="color:orange;">환경·식이 관리</mark>
 
 * 더운 환경 회피 (목욕탕, 찜질방, 더운 날씨의 야외 운동)
-* 충분한 수분 섭취 **2 L/d** - 기립 30분 전 **물 500 ㎖** 급속 음용 시 즉각적 혈압 상승 효과
-* 염분 섭취 증량 (**8 g/d**) - 고혈압·심부전·CKD 등의 제한이 없는 경우
-* 과음 회피; **커피는 오전 이른 시간**에만 섭취
-* **압박 스타킹 / 복부 밴드** (abdominal binder) 착용 - 정맥 저류 감소, 하지 부종 방지
+* 충분한 수분 섭취 2 L/d - 기립 30분 전 물 500 ㎖ 급속 음용 시 즉각적 혈압 상승 효과
+* 염분 섭취 증량 (8 g/d) - 고혈압·심부전·CKD 등의 제한이 없는 경우
+* 과음 회피; 커피는 오전 이른 시간에만 섭취
+* 압박 스타킹 / 복부 밴드 (abdominal binder) 착용 - 정맥 저류 감소, 하지 부종 방지
 
 ### <mark style="color:orange;">운동</mark>
 
 * 종아리 근육 강화 운동 (발목 펌핑)
-* **비기립 유산소 운동 우선 권고** : 수중 운동(수영, 아쿠아로빅), recumbent bicycle, rowing - 기립 자세를 최소화하여 OH 증상 악화 위험 감소
+* 비기립 유산소 운동 우선 권고 : 수중 운동(수영, 아쿠아로빅), recumbent bicycle, rowing - 기립 자세를 최소화하여 OH 증상 악화 위험 감소
 * 지상 운동(달리기, 빠른 걷기)은 증상이 충분히 조절된 후 단계적으로 도입
 
 ### <mark style="color:orange;">식후 저혈압 예방</mark>
 
-* 식전 **물 350\~500 ㎖** 섭취
-* **저탄수화물**로 소량씩 자주 식사; 과식 회피
+* 식전 물 350\~500 ㎖ 섭취
+* 저탄수화물로 소량씩 자주 식사; 과식 회피
 * 음주 회피
-* 식후 **30\~60분은 앉아 있기** - 갑작스러운 기립 금지
-* 필요 시 소량의 **카페인** (오전 한정)
-* 중증 시 **octreotide** (식전 SC)
-
-***
+* 식후 30\~60분은 앉아 있기 - 갑작스러운 기립 금지
+* 필요 시 소량의 카페인 (오전 한정)
+* 중증 시 octreotide (식전 SC)
 
 ## <mark style="color:green;">약물 치료</mark>
 
-비약물 치료로 교정되지 않는 경우에 한하여 고려. **nOH에서는 Midodrine·Droxidopa가 1차 선택이며, Fludrocortisone은 특히 비신경성 OH 또는 병용 목적으로 사용.**
+* 비약물 치료로 교정되지 않는 경우에 한하여 고려
+* nOH에서는 Midodrine·Droxidopa가 1차 선택이며, Fludrocortisone은 특히 비신경성 OH 또는 병용 목적으로 사용
 
-#### <mark style="color:$primary;">Midodrine</mark> `LOE A`
+#### <mark style="color:$primary;">Midodrine</mark>
 
-* **nOH 1차 선택제** (비신경성 OH에도 사용)
-* 기전 : 말초 선택적 **α-1-adrenergic agonist** → 혈관 저항↑; BBB 통과 안 함
+* nOH 1차 선택제 (비신경성 OH에도 사용)
+* 기전 : 말초 선택적 α-1-adrenergic agonist → 혈관 저항↑; BBB 통과 안 함
 * 부작용 : supine hypertension, 소름(piloerection), 가려움, 요저류, 위장 장애
-* 금기 : 조절되지 않는 고혈압, 심한 심질환, 신부전, **요저류 (예: 심한 전립선 비대증)** - 방광 출구 저항을 높여 급성 요폐 유발 가능, 갑상선 중독증, 갈색세포종
-* 용법 : 시작 **2.5 ㎎ bid\~tid** → 주당 2.5 ㎎/d 증량 → 유지 **5\~10 ㎎ tid** <mark style="color:blue;">\[미드론]</mark>
-  * supine hypertension 예방 : **오후 6시 이후 및 취침 4시간 전** 복용 금지
+* 금기 : 조절되지 않는 고혈압, 심한 심질환, 신부전, 요저류 (예: 심한 전립선 비대증) - 방광 출구 저항을 높여 급성 요폐 유발 가능, 갑상선 중독증, 갈색세포종
+* 용법 : 시작 2.5 ㎎ bid\~tid → 주당 2.5 ㎎/d 증량 → 유지 5\~10 ㎎ tid <mark style="color:blue;">\[미드론]</mark>
+  * supine hypertension 예방 : 오후 6시 이후 및 취침 4시간 전 복용 금지
 
-#### <mark style="color:$primary;">Droxidopa</mark> `LOE A`
+#### <mark style="color:$primary;">Droxidopa</mark>
 
-* **nOH 1차 선택제** - 파킨슨병, MSA, PAF 등 신경퇴행성 질환에 동반된 OH
+* nOH 1차 선택제 - 파킨슨병, MSA, PAF 등 신경퇴행성 질환에 동반된 OH
 * 기전 : norepinephrine prodrug → 교감신경계 혈압 상승 작용
 * 주의 : 심질환, supine hypertension
-* 용법 : **최대 1,800 ㎎/d #3** (tid); **취침 3시간 전** 마지막 투여
+* 용법 : 최대 1,800 ㎎/d #3 (tid); 취침 3시간 전 마지막 투여
 
-#### <mark style="color:$primary;">Fludrocortisone</mark> `LOE B`
+#### <mark style="color:$primary;">Fludrocortisone</mark>
 
-* **비신경성 OH 1차 선택** 또는 nOH에서 Midodrine·Droxidopa와 병용
+* 비신경성 OH 1차 선택 또는 nOH에서 Midodrine·Droxidopa와 병용
 * 장기 근거 제한적; 부종·supine hypertension·심부전 악화 우려로 nOH 단독 1차제로서는 후순위
 * 기전 : 합성 mineralocorticoid → 신장 Na 재흡수 증가 → 혈장 용량 확장
 * 부작용 : supine hypertension, 저칼륨혈증, 부종, 두통, 심부전 악화
   * 저칼륨혈증 보정 : 과일·채소·육류 섭취 증량 또는 KCl 보충
-  * **체중 모니터링** : 1주 이내 2 kg 이상 급격한 체중 증가 시 심부전·부종 신호 - 용량 감량 또는 중단 검토
+  * 체중 모니터링 : 1주 이내 2 kg 이상 급격한 체중 증가 시 심부전·부종 신호 - 용량 감량 또는 중단 검토
 * 금기 : 전신적 진균 감염, 심부전, CKD (eGFR 감소 시 주의)
-* 용법 : 시작 **0.1 ㎎ qd** → 1주 후 0.1 ㎎/d 증량 → 유지 **0.1\~0.2 ㎎ qd** (**0.2 ㎎ 초과는 부작용 증가로 권장되지 않음**) <mark style="color:blue;">\[플로리네프]</mark>
+* 용법 : 시작 0.1 ㎎ qd → 1주 후 0.1 ㎎/d 증량 → 유지 0.1\~0.2 ㎎ qd (0.2 ㎎ 초과는 부작용 증가로 권장되지 않음) <mark style="color:blue;">\[플로리네프]</mark>
 
-#### <mark style="color:$primary;">Pyridostigmine</mark> `LOE B`
+#### <mark style="color:$primary;">Pyridostigmine</mark>
 
 * 기전 : acetylcholinesterase 억제 → postganglionic sympathetic 신경 norepinephrine 분비↑ → OH 개선
-* 특징 : **supine hypertension 유발 없음** - nOH + 앙와위 고혈압 동반 환자에서 특히 유용
+* 특징 : supine hypertension 유발 없음 - nOH + 앙와위 고혈압 동반 환자에서 특히 유용
 * 부작용 : 콜린 증상(과다 침 분비, 발한, 설사, 다발 수축, 복통)
 * 금기 : 기계적 장·요 폐쇄
-* 용법 : 시작 **30 ㎎ bid\~tid** → 유지 **60 ㎎ tid** <mark style="color:blue;">\[메스티논]</mark>
+* 용법 : 시작 30 ㎎ bid\~tid → 유지 60 ㎎ tid <mark style="color:blue;">\[메스티논]</mark>
 
-#### <mark style="color:$primary;">Octreotide</mark> `LOE B`
+#### <mark style="color:$primary;">Octreotide</mark>
 
 * 기전 : somatostatin analogue → gastrointestinal peptide 분비 억제 → 내장 혈관 확장 억제
-* **식후 저혈압에 특히 유용**
+* 식후 저혈압에 특히 유용
 * 부작용 : 구역, 복통, 서맥, 흉통, 고혈당, 관절병증
-* 용법 : 시작 **25\~50 ㎍** → 유지 **25\~150 ㎍**; 식전 30분 피하 투여 <mark style="color:blue;">\[산도스타틴]</mark>
+* 용법 : 시작 25\~50 ㎍ → 유지 25\~150 ㎍; 식전 30분 피하 투여 <mark style="color:blue;">\[산도스타틴 주]</mark>
 
-### <mark style="color:orange;">기타 약물</mark> `LOE C`
+### <mark style="color:orange;">기타 약물</mark>
 
-* **NSAID** : prostaglandin 혈관 확장 억제; 일부 난치성 환자; fludrocortisone 또는 sympathomimetic agent 병용
-* **Desmopressin (dDAVP)** : vasopressin receptor agonist → 야간 다뇨로 인한 아침 저혈량 환자에 제한적 사용; **저나트륨혈증 위험으로 routine use 권장되지 않음** <mark style="color:blue;">\[미니린]</mark>
-* **Caffeine** : 식후 저혈압 예방 보조; 오전에 한정
-* **Ephedrine / Pseudoephedrine** <mark style="color:blue;">\[슈다페드]</mark>
-* **Yohimbine** (α-2 차단제)
-* **Domperidone / Metoclopramide** : 식후 저혈압 동반 시 <mark style="color:blue;">\[모티리움 엠]</mark> <mark style="color:blue;">\[맥페란]</mark>
-* **Fluoxetine** : 일부 신경성 OH에서 보고 <mark style="color:blue;">\[푸로작]</mark>
+* NSAID : prostaglandin 혈관 확장 억제; 일부 난치성 환자; fludrocortisone 또는 sympathomimetic agent 병용
+* Desmopressin (dDAVP) : vasopressin receptor agonist → 야간 다뇨로 인한 아침 저혈량 환자에 제한적 사용; 저나트륨혈증 위험으로 routine use 권장되지 않음 <mark style="color:blue;">\[미니린]</mark>
+* Caffeine : 식후 저혈압 예방 보조; 오전에 한정
+* Ephedrine / Pseudoephedrine <mark style="color:blue;">\[슈다페드]</mark>
+* Yohimbine (α-2 차단제)
+* Domperidone / Metoclopramide : 식후 저혈압 동반 시 <mark style="color:blue;">\[모티리움 엠]</mark> <mark style="color:blue;">\[맥페란]</mark>
+* Fluoxetine : 일부 신경성 OH에서 보고 <mark style="color:blue;">\[푸로작]</mark>
 
 ***
 
