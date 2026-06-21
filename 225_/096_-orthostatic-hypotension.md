@@ -8,31 +8,31 @@
 * 유병률 : 지역사회·일차 의료 기관 17\~19%, 요양 시설 입소자 약 31%; 고령자(65세 이상)의 최대 1/4에서 발생
 * 무증상인 경우가 흔함; 증상 유무와 무관하게 독립적인 심혈관 위험 인자로, MI·뇌졸중·심부전·심방세동 빈도 증가 및 사망률 상승과 연관
 
-### <mark style="color:orange;">O아형</mark>
+### <mark style="color:orange;">Subtype</mark>
 
-**Initial OH**
+<mark style="color:cyan;">**Initial OH**</mark>
 
 * 기립 후 15초 이내에 SBP ≥ 40 ㎜Hg or DBP ≥ 20 ㎜Hg 급감 후 30\~60초 내 자연 회복되는 형태; 기립 직후(15\~30초) 측정으로만 포착 가능
 * 청소년·젊은 성인에서 흔하나 임상적 의미는 제한적인 경우가 많음(대부분 양성 경과)
 * 진단 후 불필요한 추가 검사(자율신경 검사, 틸트 테이블 검사 등)로 이어지지 않도록 주의
 
-**Classical OH**
+<mark style="color:cyan;">**Classical OH**</mark>
 
-* 기립 후 3분 이내에 OH 기준(SBP ≥ 20 or DBP ≥ 10 ㎜Hg 감소) 충족
-  * ※ 앙와위 고혈압(SBP ≥ 160 ㎜Hg) 동반 환자에서는 SBP ≥ 30 ㎜Hg 감소를 진단 기준으로 적용 권고 (자율신경학회 공통 권고안; 과진단 방지 목적)
+* 기립 후 3분 이내에 OH 기준(SBP ≥20 or DBP ≥10 ㎜Hg 감소) 충족
+  * 앙와위 고혈압(SBP ≥160 ㎜Hg) 환자에서는 SBP ≥30 ㎜Hg 감소를 진단 기준으로 적용 권고 (자율신경학회 권고안; 과진단 방지 목적)
 
-**Delayed OH**
+<mark style="color:cyan;">**Delayed OH**</mark>
 
-* 기립 후 3분 이후 최대 10분 사이에 새롭게 SBP ≥ 20 ㎜Hg 또는 DBP ≥ 10 ㎜Hg 감소가 발생하는 형태
+* 기립 후 3분\~10분 사이에 새롭게 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg 감소가 발생하는 형태
 * sympathetic adrenergic dysfunction의 경미하거나 초기 형태
-* 3분 측정 시 정상이지만 증상이 지속되는경우 5\~10분까지 연장 측정
+* 기립 3분 후 측정 시 정상이지만 증상이 지속되는 경우 5\~10분까지 연장 측정하여 진단
 
 {% hint style="info" %}
 **기립 시 맥박 반응으로 병인 추정**
 
-* 혈압 하강 + **HR 증가 ≥ 15 bpm** → non-neurogenic OH (hypovolemia, 심장 pump 부전) 시사
-* 혈압 하강 + **HR 증가 < 15 bpm** → neurogenic OH (자율신경 부전) 시사
-* 혈압 하강 미미 + **기립성 빈맥 단독** (기립 후 10분 이내에 HR ≥ 30 bpm 상승이 **지속적으로** 유지) → POTS 의심
+• 혈압 하강 & ≥15 bpm HR 증가 → non-neurogenic OH 시사 (예: hypovolemia, 심장 pump 부전)\
+• 혈압 하강 & <15 bpm HR 증가 → neurogenic OH 시사 (예: 자율신경 부전)\
+• 혈압 하강 미미 & 기립성 빈맥 단독 (기립 후 10분 이내에 HR ≥30 bpm 상승이 지속적으로 유지) → POTS 의심
 {% endhint %}
 
 #### <mark style="color:$primary;">Neurogenic OH (nOH)</mark>
