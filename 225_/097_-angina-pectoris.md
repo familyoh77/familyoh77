@@ -2,41 +2,55 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* **관상동맥병(coronary artery disease, CAD)** : 관상동맥의 죽상경화성 협소에 기인하는 심근 허혈 질환; stable angina, acute coronary syndrome 포함
-* **만성 관상동맥병(chronic coronary disease, CCD)** : 이전의 "stable ischemic heart disease(SIHD)" 개념을 대체하는 광의의 용어; 폐쇄성/비폐쇄성 CAD, 이전 MI/재관류술, 비침습적 검사로 진단된 허혈성 심장병, 만성 협심 증후군 등 포함 - ✽ ESC는 동일한 개념 범위를 "만성 관상동맥증후군(chronic coronary syndromes, CCS)"으로 명명함(2019년부터); CCD와 CCS는 각각 미국·유럽 학회가 쓰는 동의어에 가까운 용어로, 본 챕터에서는 AHA/ACC 표기를 기본으로 사용
-* **안정 협심증(stable angina)** : 특정 수준 이상의 활동(예: 계단 오르기, 성관계) 또는 감정적 스트레스, 추운 날씨, 과식 등의 상황에서 반복 발생하는 협심증; 이전 attack과 비슷한 강도; 관상동맥의 해부학적 협착 또는 기능적 허혈(FFR ≤0.80, iFR ≤0.89)에 의해 발생하며, 반드시 고도 협착(＞70%)이 존재하는 것은 아님; 안정 또는 nitroglycerin 투여로 호전
-* **불안정 협심증(unstable angina)** : 휴식 시 발생, 새롭게 발생, 또는 빈도/중증도/기간이 악화되는 협심증; MI 및 cardiac death 위험 증가 상태
-* **Prinzmetal angina(= variant angina, vasospastic angina)** : 휴식(흔히 추위 노출, 야간) 시 발생; 관상동맥 연축(coronary artery spasm)에 기인; ECG상 ST-segment elevation; 심실 부정맥 위험; 흔히 순환적(흉통과 무증상 기간이 교대로 반복)
-* **ANOCA/INOCA** : 폐쇄성 관상동맥 질환이 없는 협심증(Angina/Ischemia with No Obstructive Coronary Arteries); **과거 양성 질환으로 여겨졌으나 현재는 그렇지 않음** - MACE, HFpEF 위험 증가뿐 아니라 반복 입원, 삶의 질 저하와도 연관됨; 여성에서 상대적으로 흔함
+* **관상동맥병(coronary artery disease, CAD)** : 관상동맥의 죽상경화성 협소에 기인하는 심근 허혈 질환
+  * stable angina, acute coronary syndrome 포함
+* **만성 관상동맥병(chronic coronary disease, CCD)** : 이전의 "stable ischemic heart disease(SIHD)" 개념을 대체하는 광의의 용어 \[AHA/ACC]
+  * 폐쇄성/비폐쇄성 CAD, 이전 MI/재관류술, 비침습적 검사로 진단된 허혈성 심장병, 만성 협심 증후군 등 포함&#x20;
+  * ESC는 동일한 개념 범위를 "만성 관상동맥증후군(chronic coronary syndromes, CCS)"으로 명명
+* **안정 협심증(stable angina)** : 특정 수준 이상의 활동(예: 계단 오르기, 성관계) 또는 감정적 스트레스, 추운 날씨, 과식 등의 상황에서 반복 발생하는 협심증; 이전 attack과 비슷한 강도로 발생
+  * 관상동맥의 해부학적 협착 또는 기능적 허혈(FFR ≤0.80, iFR ≤0.89)에 의해 발생하며, 반드시 ＞70%의고도 협착이 존재하는 것은 아님
+  * 안정 또는 nitroglycerin 투여로 호전
+* **불안정 협심증(unstable angina)** : 휴식 시 발생, 새롭게 발생, 또는 빈도/중증도/기간이 악화되는 협심증
+  * MI 및 cardiac death 위험 증가 상태
+* **Prinzmetal angina(= variant angina, vasospastic angina)** : ECG상 ST-segment elevation
+  * 휴식(흔히 추위 노출, 야간) 시 발생; 관상동맥 연축(coronary artery spasm)에 기인
+  * 심실 부정맥 위험
+  * 흔히 순환적 - 흉통과 무증상 기간이 교대로 반복
+* **ANOCA/INOCA** : 폐쇄성 관상동맥 질환이 없는 협심증(Angina/Ischemia with No Obstructive Coronary Arteries)
+  * MACE, HFpEF 위험 증가; 반복 입원, 삶의 질 저하와 연관됨
+  * 여성에서 상대적으로 흔함
 
 {% hint style="info" %}
 **ANOCA/INOCA 구조**
 
-ANOCA (Angina with No Obstructive Coronary Artery Disease)\
-├─ **Vasospastic angina (Prinzmetal angina)** : 심외막 관상동맥의 연축에 의한 허혈; CCB 1차 선택, **β-차단제 금기**\
-├─ **INOCA** (Ischemia with No Obstructive Coronary Arteries; 미세혈관 기능장애)\
+ANOCA \
+├ **Vasospastic angina (Prinzmetal angina)** : 심외막 관상동맥의 연축에 의한 허혈; CCB 1차 선택, β-차단제 금기\
+├ **INOCA** : 미세혈관 기능장애\
 │ └─ **미세혈관 협심증(microvascular angina)** : 관상동맥 미세 순환의 endothelium 의존 확장 결함; coronary angiogram 정상; ACEi/statin 조기 치료 권고\
-└─ **비허혈성 협심증** : endothelial dysfunction, 내장 감각 과민 등
+└ **비허혈성 협심증** : endothelial dysfunction, 내장 감각 과민 등
 
 ✽ Vasospastic angina는 심외막 관상동맥의 연축이 기전으로, 미세혈관 기능장애를 주축으로 하는 INOCA와는 별개의 기전; 치료 접근이 다름
+
+&#x20;  Vasospastic angina 1차 치료 : CCB(DHP/non-DHP); β-차단제는금기(연축 악화 가능)
+
+&#x20; Microvascular angina 1차 치료 : β-차단제, ACEi/ARB, statin; 증상 지속 시 ranolazine 추가 고려(근거 축적 중, 효과는 일관되지 않음)
+
+&#x20; 혼합형/비허혈성 1차 치료 : 병태생리에 따라 병합 치료; 통증 클리닉·심리적 접근 병행 고려
+
+✽ 혼동 주의 : 두 표현형의 β-차단제 권고는 정반대임 - vasospastic angina에는 금기, microvascular angina에는 1차 치료. 진단을 확정하지 못한 ANOCA/INOCA 환자에 무조건 β-차단제를 피하거나 무조건 투여하지 않도록 기전 감별이 먼저 필요
 {% endhint %}
 
-<table><thead><tr><th width="160">표현형</th><th>1차 치료</th></tr></thead><tbody><tr><td>Vasospastic angina</td><td>CCB(DHP/non-DHP); β-차단제는 연축 악화 가능 → 금기</td></tr><tr><td>Microvascular angina</td><td>β-차단제, ACEi/ARB, statin; 증상 지속 시 ranolazine 추가 고려(근거 축적 중, 효과는 일관되지 않음)</td></tr><tr><td>혼합형/비허혈성</td><td>병태생리에 따라 병합 치료; 통증 클리닉·심리적 접근 병행 고려</td></tr></tbody></table>
-
-✽ **혼동 주의** : 두 표현형의 β-차단제 권고는 정반대임 - vasospastic angina에는 금기, microvascular angina에는 1차 치료. 진단을 확정하지 못한 ANOCA/INOCA 환자에 무조건 β-차단제를 피하거나 무조건 투여하지 않도록 기전 감별이 먼저 필요
-
-* **Acute coronary syndrome(ACS)** : 심근 산소 공급 부족으로 발생하는 증후군; STEMI, NSTEMI, unstable angina 포함
+* **Acute coronary syndrome(ACS)** : 심근 산소 공급 부족으로 발생하는 증후군
+  * STEMI, NSTEMI, unstable angina 포함
 * **전형적 협심증(typical angina)** : 아래 전형적 특징 3가지를 모두 충족
 * **Possibly cardiac angina(구 atypical angina)** : 전형적 특징 중 2가지 해당 - \[2021 AHA/ACC] 권고에 따라 "atypical" 대신 "possibly cardiac" 사용(☞ [흉통](../220_/002_-chest-pain.md))
 * **비심장성 흉통(non-cardiac chest pain)** : 전형적 특징이 없거나 1가지만 해당
 * **협심증 유사 증상(angina equivalent)** : 힘든 활동/스트레스와 관련하여 흉통 없이 호흡 곤란, 발한, 피로감, 구역, 소화불량, 복통 등의 비특이적 증상 발생; 여성, 고령, 당뇨병 환자에서 더 흔함 (☞ [흉통](../220_/002_-chest-pain.md))
-* **진료 현황\[우리나라]** : 2020년 협심증(I20) 진료 환자 약 66.9만 명(2016년 대비 7.0% 증가); 60대가 전체 환자의 32.9%로 가장 많음 \[HIRA, 2021]; 심장 질환은 우리나라 사망 원인 2위(1위 - 암) - ✽ 이전 판의 "유병률 27.9%(남 44.7%, 여 55.3%)" 수치는 정확한 출처를 재확인하지 못해 삭제함; 인구 대비 유병률로는 비현실적으로 높은 값으로 판단되어 통계 혼입 가능성을 의심함
+* **진료 현황\[우리나라]** : 2020년 협심증(I20) 진료 환자 약 66.9만 명(2016년 대비 7.0% 증가); 60대가 전체 환자의 32.9%로 가장 많음 \[HIRA, 2021]; 심장 질환은 우리나라 사망 원인 2위(1위 - 암)&#x20;
 
 ### <mark style="color:orange;">Angina 분류 \[Canadian Cardiovascular Society, CCS]</mark>
 
-<table><thead><tr><th width="90">Class</th><th width="430">증상 유발 활동 강도</th><th>일상생활 제한</th></tr></thead><tbody><tr><td><strong>I</strong></td><td>일상 활동(걷기, 계단 오르기)에서는 증상 없음; 힘들거나 빠르거나 오래 지속되는 작업·운동에서만 발생</td><td>제한 없음</td></tr><tr><td><strong>II</strong></td><td>빠르게 걷기/계단 오르기, 오르막길, 식후·추위·바람·정서적 스트레스 상황, 또는 기상 후 몇 시간 이내; 평지에서 2블록(약 340 m) 이상 걷거나 1개 층 이상 계단을 보통 속도로 오를 때 발생</td><td>약간 제한</td></tr><tr><td><strong>III</strong></td><td>평지에서 1~2블록 걷기 또는 1개 층 계단을 보통 속도·조건에서 오를 때 발생</td><td>상당한 제한</td></tr><tr><td><strong>IV</strong></td><td>어떤 신체 활동에도 불편감 없이 수행 불가능; 휴식 시에도 증상 발생 가능</td><td>모든 활동 제한</td></tr></tbody></table>
-
-✽ 원 분류(Campeau, 1976)는 활동 거리·층수 등 정성적 기준으로 정의되며 MET 수치는 포함하지 않음; 일부 2차 자료에 인용되는 MET 환산값은 출처가 불명확하여 표기하지 않음
+<table><thead><tr><th width="75.71429443359375">Class</th><th width="525.238037109375">증상 유발 활동 강도</th><th>일상생활 제한</th></tr></thead><tbody><tr><td><strong>I</strong></td><td>일상 활동(걷기, 계단 오르기)에서는 증상 없음; 힘들거나 빠르거나 오래 지속되는 작업·운동에서만 발생</td><td>제한 없음</td></tr><tr><td><strong>II</strong></td><td>빠르게 걷기/계단 오르기, 오르막길, 식후·추위·바람·정서적 스트레스 상황, 또는 기상 후 몇 시간 이내; 평지에서 2블록(약 340 m) 이상 걷거나 1개 층 이상 계단을 보통 속도로 오를 때 발생</td><td>약간 제한</td></tr><tr><td><strong>III</strong></td><td>평지에서 1~2블록 걷기 또는 1개 층 계단을 보통 속도·조건에서 오를 때 발생</td><td>상당한 제한</td></tr><tr><td><strong>IV</strong></td><td>어떤 신체 활동에도 불편감 없이 수행 불가능; 휴식 시에도 증상 발생 가능</td><td>모든 활동 제한</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -386,7 +400,7 @@ graph TD
 <table><thead><tr><th width="240">상태</th><th width="200">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>경도 심부전 (EF ＞40%)</td><td>BB</td><td></td></tr><tr><td>EF ＜40%</td><td>D-CCB²⁾ (nitrate)</td><td>n-CCB</td></tr><tr><td>경도 대동맥 판막 협착</td><td>BB</td><td></td></tr><tr><td>대동맥 판막 부전증</td><td>L-CCB</td><td></td></tr><tr><td>승모 판막 부전증</td><td>L-CCB</td><td></td></tr><tr><td>승모 판막 협착증</td><td>BB</td><td></td></tr><tr><td>비대 심근병증</td><td>BB, n-CCB</td><td>nitrate, D-CCB</td></tr></tbody></table>
 
 _BB=β-차단제, n-CCB=non-DHP CCB (verapamil, diltiazem), D-CCB=DHP CCB, L-CCB=long-acting CCB_\
-&#xNAN;_&#xB9;⁾ 반응성 저혈당 병력이 있는 경우. ²⁾ amlodipine, felodipine 사용 가능_
+\&#xNAN;_¹⁾ 반응성 저혈당 병력이 있는 경우. ²⁾ amlodipine, felodipine 사용 가능_
 
 _<mark style="color:$info;">Ref. 대한순환기학회, 허혈성심질환 표준진료권고안 (2007); AHA/ACC 2023 반영 수정</mark>_
 
@@ -719,7 +733,7 @@ I25.5 허혈성 심근병증
 > ```
 >
 > _✽β-차단제를 기반으로 지속형 nitrate 병용; 복용 시간을 고정하여 nitrate-free interval 확보._\
-> &#xNAN;_※ 모니터링 : 복용 초기 기립성 저혈압·서맥 증상(어지럼, 실신성 전조) 확인; 휴식 시 맥박 55\~60회/분 목표로 용량 조절_
+> \&#xNAN;_※ 모니터링 : 복용 초기 기립성 저혈압·서맥 증상(어지럼, 실신성 전조) 확인; 휴식 시 맥박 55\~60회/분 목표로 용량 조절_
 
 > **처방례 3. β-차단제 금기(활동성 천식, 중증 서맥 등) - Non-DHP CCB + 지속형 nitrate**
 >
@@ -729,7 +743,7 @@ I25.5 허혈성 심근병증
 > ```
 >
 > _✽활동성 천식, 중증 서맥 등 β-차단제 금기 시 diltiazem 선택(단순 COPD는 더 이상 금기로 보지 않음 - 심선택적 β-차단제 사용 가능). Non-DHP CCB + nitrate 병용 가능._\
-> &#xNAN;_※ 모니터링 : 서맥·방실차단 징후(맥박, 실신) 확인; β-차단제와의 중복 병용 시작하지 않음_
+> \&#xNAN;_※ 모니터링 : 서맥·방실차단 징후(맥박, 실신) 확인; β-차단제와의 중복 병용 시작하지 않음_
 
 > **처방례 4. β-차단제 금기 + 서맥 경향 (저혈압/서맥) - Ranolazine 추가**
 >
@@ -739,7 +753,7 @@ I25.5 허혈성 심근병증
 > ```
 >
 > _✽Ranolazine은 혈압·맥박에 영향 없어 저혈압 경향 또는 서맥 환자에서 DHP-CCB와 병용 시 유용. QT 연장 약제 병용 여부 확인._\
-> &#xNAN;_※ 모니터링 : 어지럼·변비 등 부작용, QTc 연장 여부(특히 CYP3A 억제제 병용 시)_
+> \&#xNAN;_※ 모니터링 : 어지럼·변비 등 부작용, QTc 연장 여부(특히 CYP3A 억제제 병용 시)_
 
 > **처방례 5. 이차 예방 - 표준 약물 조합**
 >
@@ -751,7 +765,7 @@ I25.5 허혈성 심근병증
 > ```
 >
 > _✽CAD 이차 예방 표준 요법: 항혈소판 + 고강도 스타틴 + β-차단제 + ACEi. LDL-C 목표 미달성 시 ezetimibe 추가._\
-> &#xNAN;_※ 모니터링 : 간기능·CK(statin), 기침/고칼륨혈증(ACEi), 위장 출혈 징후(aspirin); 3\~6개월 후 LDL-C 재평가_
+> \&#xNAN;_※ 모니터링 : 간기능·CK(statin), 기침/고칼륨혈증(ACEi), 위장 출혈 징후(aspirin); 3\~6개월 후 LDL-C 재평가_
 
 > **처방례 6. 이차 예방 + 당뇨병 동반 - SGLT2i 병용**
 >
@@ -764,7 +778,7 @@ I25.5 허혈성 심근병증
 > ```
 >
 > _✽당뇨병 동반 CCD에서 SGLT2i(empagliflozin) 추가: 심혈관 사망 및 심부전 입원 감소 (Class I). LVEF ≤40%이면 당뇨병 유무와 관계없이 SGLT2i 추가 권고. 신기능(eGFR) 확인 후 처방(eGFR ≥20 mL/min 이상에서 사용 가능)._\
-> &#xNAN;_※ 모니터링 : 생식기 진균감염·요로감염(SGLT2i), 탈수/체위성 저혈압 위험(이뇨제 병용 시), eGFR 추적_
+> \&#xNAN;_※ 모니터링 : 생식기 진균감염·요로감염(SGLT2i), 탈수/체위성 저혈압 위험(이뇨제 병용 시), eGFR 추적_
 
 ***
 
