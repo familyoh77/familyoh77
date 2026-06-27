@@ -203,7 +203,7 @@
 
 <table><thead><tr><th width="124">원인</th><th width="203">과거력</th><th width="123">신체 진찰</th><th>진단 검사</th></tr></thead><tbody><tr><td><strong>콩팥 실질병</strong></td><td>요로감염 또는 폐색 병력, 진통제 남용, 다낭콩팥병 가족력</td><td>복부 중앙 (다낭콩팥병)</td><td>•콩팥 초음파, 콩팥병에 대한 세부 검사<br>•소변 내 단백질·적혈구·백혈구 양성, eGFR 감소</td></tr><tr><td><strong>콩팥 동맥 협착</strong></td><td>섬유근육 형성이상·고혈압 조기 발현(여성), 죽상동맥경화증·갑자기 발현, 악화 및 치료 저항성·반복적 폐부종</td><td>복부 잡음</td><td>•양측 콩팥 크기 차이 >1.5 cm; Duplex 도플러 콩팥 초음파, CT, MR Angiography, 동맥 내 혈관 조영<br>•ACEI/ARB 투여 후 eGFR 급감</td></tr><tr><td><strong>원발성 알도스테론증</strong></td><td>근력 저하, 고혈압 조기 발병 ≤40세</td><td>—</td><td>•ARR 측정 (상승); 확진 검사: 부신 CT, 부신 정맥 혈액 채취<br>•저칼륨혈증</td></tr><tr><td><strong>갈색세포종</strong></td><td>발작 또는 지속적인 고혈압에 동반되는 두통, 발한, 심계항진; 가족력</td><td>신경섬유종증 징후 (café-au-lait 반점)</td><td>•24시간 소변 내 메타네프린 및 노르메타네프린 (상승); 복부·골반 CT 또는 MRI (부신 종양)</td></tr><tr><td><strong>쿠싱증후군</strong></td><td>빠른 체중 증가, 다모, 다낭성 난소 병력</td><td>중심성 비만, 달 얼굴, 복부 선홍색 선조, 근력 저하</td><td>•24시간 소변 내 유리 코티솔 (상승); 덱사메타손 억제 검사 (비억제); 심야 타액 코티솔 (상승)<br>•고혈당</td></tr></tbody></table>
 
-&#x20; _ARR=aldosterone-to-renin ratio_
+_ARR=aldosterone-to-renin ratio_
 
 #### <mark style="color:$primary;">연령별 이차성 고혈압 원인</mark>
 
@@ -740,7 +740,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 **DHP 계**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올메카]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>5~60 [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 [1]</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올메카]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>5~60 [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 [1]</td></tr></tbody></table>
 
 **non-DHP 계**
 
@@ -868,9 +868,9 @@ graph LR
 <p align="center"><strong>항고혈압제 병용 요법</strong></p>
 
 _굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_\
-&#xNAN;_(1) ACEI/ARB+BB :_ 회피 (_혈압 강하 효과 미약)_\
-&#xNAN;_(2) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
-&#xNAN;_(3) thiazide+구세대 BB(atenolol 등) : 회피 (인슐린 저항성 증가, 이상지질혈증 발생 위험 증가)_<br>
+\&#xNAN;_(1) ACEI/ARB+BB :_ 회피 (_혈압 강하 효과 미약)_\
+\&#xNAN;_(2) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
+\&#xNAN;_(3) thiazide+구세대 BB(atenolol 등) : 회피 (인슐린 저항성 증가, 이상지질혈증 발생 위험 증가)_<br>
 
 ***
 
@@ -965,8 +965,8 @@ style FU fill:#e8f8e8,stroke:#4caf50
 <p align="center"><strong>항고혈압제 단계적 치료 알고리듬</strong> <em><mark style="color:$info;">Ref. 2023 ESH Guidelines</mark></em></p>
 
 _¹⁾ BP 120/70\~139/89 ㎜Hg, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
-&#xNAN;_&#xB2;⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
-&#xNAN;_\*어느 단계에서든 적응증(angina, post-myocardial infarction, systolic heart failure, or heart rate control) 해당 시 BB 추가_
+\&#xNAN;_²⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
+\&#xNAN;_\*어느 단계에서든 적응증(angina, post-myocardial infarction, systolic heart failure, or heart rate control) 해당 시 BB 추가_
 
 #### <mark style="color:$primary;">상황별 약제 선택</mark>
 

@@ -346,107 +346,98 @@ class D,L blue
 * 휴식 시 맥박이 55\~60회/분이 되도록 용량 조절
 * 부작용 : 피로, 발기 부전, 수족냉증, 파행 악화, 서맥, 방실 전도 장애, 기관지 수축
 * 금기 : 2\~3도 전도 장애, 중증 심부전, 말초혈관 질환, 기관지 천식(특히 활동성/중증), 중증 기관지경련성 질환, sick sinus syndrome, 레이노병, 심한 우울증
-* cardioselective β₁-차단제 선호 (ISA 있는 약제 피함 - 예: celiprolol) (☞ [고혈압 약물 치료 - β-차단제](095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
+* β-차단제 갑작스런 중단 금지 : β-수용체 밀도 증가로 catecholamine에 대한 일시적 과민 상태 발생 → 허혈성 심질환 유발 위험. 중단 시 2주에 걸쳐 tapering
+* cardioselective β₁-차단제 선호 (ISA 있는 약제 피함 - 예: celiprolol) (☞ [β-차단제](095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
 * atenolol : 신기능 저하자 주의; 25\~200 ㎎/d <mark style="color:blue;">\[테놀민]</mark>
-* metoprolol succinate : 25\~400 ㎎/d <mark style="color:blue;">\[푸로롤 서방]</mark>
-* carvedilol : α-차단 작용도 있어 혈관 확장에 유리; 6.25\~50 ㎎/d <mark style="color:blue;">\[딜라트렌 에스알]</mark>
 * bisoprolol : 2.5\~10 ㎎/d <mark style="color:blue;">\[콩코르]</mark>
+* carvedilol : α-차단 작용도 있어 혈관 확장에 유리; 6.25\~50 ㎎/d <mark style="color:blue;">\[딜라트렌 에스알]</mark>
+* metoprolol succinate : 25\~400 ㎎/d <mark style="color:blue;">\[푸로롤 서방]</mark>
 
 {% hint style="info" %}
 **COPD는 β-차단제의 절대 금기가 아님** - bisoprolol, metoprolol succinate, nebivolol 등 심선택적(cardioselective) β₁-차단제는 COPD 환자에서도 비교적 안전하게 사용 가능하며, 심혈관 적응증이 있는 경우 오히려 사용이 권고됨(일부 연구에서는 COPD 급성 악화 감소와도 연관); 실제 주의가 필요한 대상은 활동성 기관지 천식이며, 이 경우에도 비선택적 제제만 확실히 피하면 전문의 감독 하에 저용량 심선택적 제제 사용을 고려할 수 있음. 저용량으로 시작하여 호흡 증상을 모니터링하며 천천히 증량
 {% endhint %}
 
-{% hint style="info" %}
-**β-차단제 갑작스런 중단 금지** : β-수용체 밀도 증가로 catecholamine에 대한 일시적 과민 상태 발생 → 허혈성 심질환 유발 위험. 중단 시 2주에 걸쳐 tapering
-{% endhint %}
-
-*
-
 ### <mark style="color:orange;">칼슘통로차단제 (CCB)</mark>
 
-* **작용** : 동맥 확장, 관상동맥 혈류 개선, 심근 산소 요구량↓
-* **적응증** : Prinzmetal/vasospastic angina, 증상이 있는 말초혈관 질환; β-차단제의 대체 또는 추가
-* **Long-acting 제제만 사용**
-
-{% hint style="danger" %}
-⚠️ **Prinzmetal angina(vasospastic angina)에서는 β-차단제 사용 금기** - β-차단제는 관상동맥 연축을 악화시킬 수 있음; CCB가 1차 선택제
-{% endhint %}
+* 작용 : 동맥 확장, 관상동맥 혈류 개선, 심근 산소 요구량↓
+* 적응증 : Prinzmetal/vasospastic angina, 증상이 있는 말초혈관 질환; β-차단제의 대체 또는 추가
+  * Prinzmetal angina(vasospastic angina)에서는 CCB가 1차 선택제; β-차단제는 관상동맥 연축을 악화시킬 수 있어음용 금기
+* Long-acting 제제만 사용
 
 #### <mark style="color:$primary;">DHP계 CCB</mark>
 
 * β-차단제 + nitrate로 효과 부족 시 β-차단제 + DHP계 CCB로 대체 고려
-* **부작용** : 안면 홍조, 두통, 말초 부종
-* amlodipine : 5\~10 mg/d <mark style="color:blue;">\[노바스크]</mark>
-* felodipine : 5\~10 mg/d <mark style="color:blue;">\[무노발]</mark>
-* nifedipine : 안정 협심증 치료 시 단독 사용 주의(MI 유발 가능성 보고); 30\~90 mg/d <mark style="color:blue;">\[아달라트]</mark>
+* 부작용 : 안면 홍조, 두통, 말초 부종
+* amlodipine : 5\~10 ㎎/d <mark style="color:blue;">\[노바스크]</mark>
+* felodipine : 5\~10 ㎎/d <mark style="color:blue;">\[무노발]</mark>
+* nifedipine : 안정 협심증 치료 시 단독 사용 주의(MI 유발 가능); 30\~90 ㎎/d <mark style="color:blue;">\[아달라트]</mark>
 
 #### <mark style="color:$primary;">Non-DHP계 CCB</mark>
 
-* **작용** : negative chronotropic & negative inotropic effect → 심근 산소 요구량 보다 낮춤
-* **부작용** : 전도 장애, 서맥성 부정맥, 변비, 말초 부종
-* **금기** : 방실 전도 장애, 울혈성 심부전, EF ＜40%
+* 작용 : negative chronotropic & negative inotropic effect → 심근 산소 요구량 보다 낮춤
+* 부작용 : 전도 장애, 서맥성 부정맥, 변비, 말초 부종
+* 금기 : 방실 전도 장애, 울혈성 심부전, EF ＜40%
+* diltiazem : 120\~480 ㎎/d <mark style="color:blue;">\[헤르벤 서방]</mark>
+* verapamil : 120\~480 ㎎/d <mark style="color:blue;">\[이솦틴 서방]</mark>
 
-{% hint style="danger" %}
-⚠️ **β-차단제와의 병용** - 두 약제 모두 negative chronotropic/dromotropic 효과가 있어 병용 시 심한 서맥·방실차단 위험이 더해짐. 일반적으로 일차의료에서는 **병용을 피하는 것이 원칙**이나, 순환기 전문의는 면밀한 모니터링 하에 제한적으로 병용하기도 함(예: metoprolol+diltiazem). 1차 진료에서는 병용을 시작하지 말고, 이미 병용 중인 환자를 처음 진료할 때는 서맥·전도 장애 여부를 확인
+{% hint style="info" %}
+**β-차단제와의 병용 회피** : 두 약제 모두 negative chronotropic/dromotropic 효과가 있어 병용 시 심한 서맥·방실차단 위험이 더해짐. 일반적으로 일차의료에서는 **병용을 피하는 것이 원칙**이나, 순환기 전문의는 면밀한 모니터링 하에 제한적으로 병용하기도 함(예: metoprolol+diltiazem); 1차 진료에서는 병용을 시작하지 말고, 이미 병용 중인 환자를 처음 진료할 때는 서맥·전도 장애 여부를 확인
 {% endhint %}
-
-* diltiazem : 120\~480 mg/d <mark style="color:blue;">\[헤르벤 서방]</mark>
-* verapamil : 120\~480 mg/d <mark style="color:blue;">\[이솦틴 서방]</mark>
 
 ### <mark style="color:orange;">동반 상태에 따른 β-차단제/CCB 선택</mark>
 
-**의학적 상태별**
+<mark style="color:cyan;">**의학적 상태별**</mark>
 
-<table><thead><tr><th width="240">상태</th><th width="200">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>전신성 고혈압</td><td>BB (CCB)</td><td></td></tr><tr><td>편두통 또는 혈관성 두통</td><td>BB (n-CCB)</td><td></td></tr><tr><td>활동성/중증 기관지 천식</td><td>n-CCB</td><td>BB(비선택적)</td></tr><tr><td>COPD (심혈관 적응증 동반)</td><td>심선택적 BB(bisoprolol 등), n-CCB</td><td></td></tr><tr><td>갑상선항진증</td><td>BB</td><td></td></tr><tr><td>레이노병</td><td>L-CCB</td><td>BB</td></tr><tr><td>인슐린 의존성 당뇨</td><td>BB¹⁾, L-CCB</td><td></td></tr><tr><td>인슐린 비의존성 당뇨</td><td>BB, L-CCB</td><td></td></tr><tr><td>우울증</td><td>L-CCB</td><td>BB</td></tr><tr><td>경도 말초혈관 질환</td><td>BB, CCB</td><td></td></tr><tr><td>중증 말초혈관 질환</td><td>CCB</td><td>BB</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="228">상태</th><th width="282">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>전신성 고혈압</td><td>BB (CCB)</td><td></td></tr><tr><td>편두통 또는 혈관성 두통</td><td>BB (n-CCB)</td><td></td></tr><tr><td>활동성/중증 기관지 천식</td><td>n-CCB</td><td>BB(비선택적)</td></tr><tr><td>COPD (심혈관 적응증 동반)</td><td>심선택적 BB(bisoprolol 등), n-CCB</td><td></td></tr><tr><td>갑상선항진증</td><td>BB</td><td></td></tr><tr><td>레이노병</td><td>L-CCB</td><td>BB</td></tr><tr><td>인슐린 의존성 당뇨</td><td>BB¹⁾, L-CCB</td><td></td></tr><tr><td>인슐린 비의존성 당뇨</td><td>BB, L-CCB</td><td></td></tr><tr><td>우울증</td><td>L-CCB</td><td>BB</td></tr><tr><td>경도 말초혈관 질환</td><td>BB, CCB</td><td></td></tr><tr><td>중증 말초혈관 질환</td><td>CCB</td><td>BB</td></tr></tbody></table>
 
-**심장 부정맥 및 전도 장애별**
+<mark style="color:cyan;">**심장 부정맥 및 전도 장애별**</mark>
 
 <table><thead><tr><th width="240">상태</th><th width="200">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>동성 서맥</td><td>L-CCB</td><td>BB, n-CCB</td></tr><tr><td>심부전과 무관한 동성빈맥</td><td>BB</td><td></td></tr><tr><td>상심실성 빈맥</td><td>n-CCB, BB</td><td></td></tr><tr><td>방실차단</td><td>L-CCB</td><td>n-CCB</td></tr><tr><td>심방세동 (디지탈리스 복용 중)</td><td>n-CCB, BB</td><td></td></tr><tr><td>심실 부정맥</td><td>BB</td><td></td></tr></tbody></table>
 
-**좌심실 기능 및 판막 질환별**
+<mark style="color:cyan;">**좌심실 기능 및 판막 질환별**</mark>
 
-<table><thead><tr><th width="240">상태</th><th width="200">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>경도 심부전 (EF ＞40%)</td><td>BB</td><td></td></tr><tr><td>EF ＜40%</td><td>D-CCB²⁾ (nitrate)</td><td>n-CCB</td></tr><tr><td>경도 대동맥 판막 협착</td><td>BB</td><td></td></tr><tr><td>대동맥 판막 부전증</td><td>L-CCB</td><td></td></tr><tr><td>승모 판막 부전증</td><td>L-CCB</td><td></td></tr><tr><td>승모 판막 협착증</td><td>BB</td><td></td></tr><tr><td>비대 심근병증</td><td>BB, n-CCB</td><td>nitrate, D-CCB</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="240">상태</th><th width="200">추천 (대체)</th><th>금기</th></tr></thead><tbody><tr><td>경도 심부전 (EF ＞40%)</td><td>BB</td><td></td></tr><tr><td>EF ＜40%</td><td>D-CCB²⁾ (nitrate)</td><td>n-CCB</td></tr><tr><td>경도 대동맥 판막 협착</td><td>BB</td><td></td></tr><tr><td>대동맥 판막 부전증</td><td>L-CCB</td><td></td></tr><tr><td>승모 판막 부전증</td><td>L-CCB</td><td></td></tr><tr><td>승모 판막 협착증</td><td>BB</td><td></td></tr><tr><td>비대 심근병증</td><td>BB, n-CCB</td><td>nitrate, D-CCB</td></tr></tbody></table>
 
 _BB=β-차단제, n-CCB=non-DHP CCB (verapamil, diltiazem), D-CCB=DHP CCB, L-CCB=long-acting CCB_\
-\&#xNAN;_¹⁾ 반응성 저혈당 병력이 있는 경우. ²⁾ amlodipine, felodipine 사용 가능_
+&#xNAN;_&#xB9;⁾ 반응성 저혈당 병력이 있는 경우. ²⁾ amlodipine, felodipine 사용 가능_
 
 _<mark style="color:$info;">Ref. 대한순환기학회, 허혈성심질환 표준진료권고안 (2007); AHA/ACC 2023 반영 수정</mark>_
 
 ### <mark style="color:orange;">ACE 차단제 / ARB</mark>
 
-* **작용** : 혈압↓, afterload↓, MI 후 cardiac remodeling 억제
-* **적응증** : 좌심실 수축기 기능 저하 동반, 당뇨병, 고혈압, CKD; CCD+고혈압에서 1차 선택 \[AHA/ACC 2023 Class I]
-* **부작용** : 기침(ACEi), 고칼륨혈증, 혈관부종; 기침 등 부작용 시 ARB 전환
-* enalapril : 5\~40 mg/d <mark style="color:blue;">\[레니프릴]</mark>
-* lisinopril : 5\~40 mg/d <mark style="color:blue;">\[제스트릴]</mark>
-* ramipril : 2.5\~10 mg/d <mark style="color:blue;">\[트리테이스]</mark>
+* 작용 : 혈압↓, afterload↓, MI 후 cardiac remodeling 억제
+* 적응증 : 좌심실 수축기 기능 저하 동반, 당뇨병, 고혈압, CKD; CCD+고혈압에서 1차 선택&#x20;
+* 부작용 : 기침(ACEi), 고칼륨혈증, 혈관부종; 기침 등 부작용 시 ARB 전환
+* enalapril : 5\~40 ㎎/d <mark style="color:blue;">\[레니프릴]</mark>
+* lisinopril : 5\~40 ㎎/d <mark style="color:blue;">\[제스트릴]</mark>
+* ramipril : 2.5\~10 ㎎/d <mark style="color:blue;">\[트리테이스]</mark>
 
 ### <mark style="color:orange;">Nitrate</mark>
 
-* **작용** : smooth muscle 이완 → 동맥/정맥 혈관 확장, preload↓, 혈압↓, 심근 산소 요구량↓ → 협심증 완화 및 예방
-* **부작용** : 두통, 어지럼, 저혈압(특히 고령), 홍조 - 지속 복용 시 완화; 충분한 수분 섭취 권고
-* **금기** : 비대 폐쇄성 심근병증, PDE5 억제제(sildenafil 등) 복용 환자 - 중증 저혈압 위험
+* 작용 : smooth muscle 이완 → 동맥/정맥 혈관 확장, preload↓, 혈압↓, 심근 산소 요구량↓ → 협심증 완화 및 예방
+* 부작용 : 두통, 어지럼, 저혈압(특히 고령), 홍조 - 지속 복용 시 완화; 충분한 수분 섭취 권고
+* 금기 : 비대 폐쇄성 심근병증, PDE5 억제제(sildenafil 등) 복용 환자 - 중증 저혈압 위험
 
 #### <mark style="color:$primary;">속효성 제제 (급성 발작 치료)</mark>
 
 * 증상 치료 또는 예방 (스트레스 발생 예상 5분 전 투여); 30\~40분간 유효
-* nitroglycerin : 0.3\~0.6 mg 설하 (입이 마른 경우 투여 전 물로 입을 축임); 흉통이 완화되지 않을 경우 5분 간격으로 추가 투여; 15분 이내 1.2 mg을 넘지 않음 <mark style="color:blue;">\[니트로글리세린]</mark>
+* nitroglycerin : 0.3\~0.6 ㎎ 설하 (입이 마른 경우 투여 전 물로 입을 축임); 흉통이 완화되지 않을 경우 5분 간격으로 추가 투여; 15분 이내 1.2 ㎎을 넘지 않음 <mark style="color:blue;">\[니트로글리세린]</mark>
   * 증상이 1회 투약으로 호전될 경우 5분 간격 최대 3회; 완전히 소실되지 않으면 즉시 119 연락
   * 개봉 후 수개월 내 교체 권장 (제조사 권고 보관 기간 준수); 빛과 열에 민감 - 차광 보관
 
 #### <mark style="color:$primary;">지속성 제제 (예방 목적)</mark>
 
 * 장기 사용 시 약제 내성 발생 - 예방법 : 최소 유효 용량, 1일 8시간 이상 nitrate-free interval 유지
-* isosorbide dinitrate : 40\~80 mg/d <mark style="color:blue;">\[이소켓 서방]</mark>
-* isosorbide-5-mononitrate : 30\~240 mg/d <mark style="color:blue;">\[임듈 지속]</mark>
+* isosorbide dinitrate : 40\~80 ㎎/d <mark style="color:blue;">\[이소켓 서방]</mark>
+* isosorbide-5-mononitrate : 30\~240 ㎎/d <mark style="color:blue;">\[임듈 지속]</mark>
 
 ### <mark style="color:orange;">콜레스테롤 저하제</mark>
 
-* **적응증** : 지질 수준에 관계없이 CAD 환자에서 **고강도 statin** 권고
-* **목표** : LDL-C ＜70 mg/dL (CAD 고위험; 초고위험군 ＜55 mg/dL)
-* **Statin 보조제 (add-on)** : 목표 미달성 시 ezetimibe 추가; 추가 미달성 시 PCSK9 억제제(evolocumab, alirocumab) 또는 inclisiran, bempedoic acid 순차 추가
-* **Lipoprotein(a) 상승** : PCSK9 억제제가 Lp(a)도 함께 낮추므로 복합 고위험군에 유리
-* **약물 상호작용** : **Atorvastatin, simvastatin 등 CYP3A4 대사 statin은 자몽주스(grapefruit juice)와 병용 금지** - statin 혈중 농도 상승으로 근병증 위험 증가
+* 적응증 : 지질 수준에 관계없이 CAD 환자에서 고강도 statin 권고
+* 목표 : LDL-C ＜70 mg/dL (CAD 고위험; 초고위험군 ＜55 mg/dL)
+* Statin 보조제 (add-on) : 목표 미달성 시 ezetimibe 추가; 추가 미달성 시 PCSK9 억제제(evolocumab, alirocumab) 또는 inclisiran, bempedoic acid 순차 추가
+* Lipoprotein(a) 상승 : PCSK9 억제제가 Lp(a)도 함께 낮추므로 복합 고위험군에 유리
+* 약물 상호작용 : Atorvastatin, simvastatin 등 CYP3A4 대사 statin은 자몽주스(grapefruit juice)와 병용 금지 - statin 혈중 농도 상승으로 근병증 위험 증가
 
 #### <mark style="color:$primary;">고강도 Statin</mark>
 
