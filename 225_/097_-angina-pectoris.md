@@ -91,33 +91,29 @@ ANOCA\
 
 * 호흡 곤란, 구역, 구토, 발한, 추운 느낌, 어지럼
 
-{% hint style="info" %}
-당뇨병 환자, 고령에서는 흉통 등 전형적 증상 없이 호흡 곤란, 피로, 식은땀 등만 있을 수 있음; 여성은 비전형적 흉통/불편감 호소가 남성보다 많음(65%에서 보고됨)
-{% endhint %}
-
 ### <mark style="color:orange;">고령에서의 특징</mark>
 
 * 비전형적 증상을 보임; 호흡 곤란 및 비특이적 증상만 나타날 수 있음
 * 육체 활동이 저하되어 있어 발견이 지연될 수 있음
 * 치료 약제에 대한 부작용이 민감하게 발생할 수 있음
 
-{% hint style="danger" %}
-⚠️ **흉통이 없다고 해서 협심증을 배제할 수 없다** - 고령, 당뇨병, 여성 환자에서는 전형적 흉통 없이 호흡 곤란, 피로, 소화불량 등 angina equivalent만 나타날 수 있음; 비전형 증상도 협심증으로서 적극 평가 필요
+{% hint style="info" %}
+**"흉통이 없다고 해서 협심증을 배제할 수 없다"** - 고령, 당뇨병, 여성 환자에서는 전형적 흉통 없이 호흡 곤란, 피로, 식은땀, 소화불량 등 angina equivalent만 나타날 수 있음; 비전형 증상도 협심증으로서 적극 평가 필요.\
+여성은 비전형적 흉통/불편감 호소가 남성보다 많음(65%에서 보고됨)
 {% endhint %}
-
-
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
 
-* 협심증 병력이 있는 환자에서 휴식 시 또는 이전보다 적은 활동 중에 증상 발생 (불안정 협심증 의심); 당뇨병·고령·여성 환자는 흉통 없이 **평소와 다른** 호흡 곤란, 피로감, 소화불량만으로 나타날 수 있음(angina equivalent의 급성 악화) - 동일하게 응급 평가
-* Nitroglycerin 2\~3회 설하 투여 또는 휴식으로도 흉통이 호전되지 않음 → **MI 가능성 높음, 즉시 119 호출 및 응급실 이송**
+* Nitroglycerin 2\~3회 설하 투여 또는 휴식으로도 흉통이 호전되지 않음
 * 잿빛 피부색, 급격한 발한, 청색증
 * 활력징후 이상 : 저혈압, 빈맥 또는 서맥, 빈호흡
 * 정신 상태 변화, 혼돈, 쇼크 징후
-* 새로 발견된 심잡음 (mechanical complication 의심)
-* Pulsus paradoxus (흡기 시 SBP ＞10 mmHg 감소; ≥12\~15 mmHg면 임상적 의미 증가 - 심낭 압전 시사)
+* Pulsus paradoxus (흡기 시 SBP ＞10 ㎜Hg 감소 특히 ≥12\~15 ㎜Hg 감소)  → 심낭 압전
+* 협심증 병력이 있는 환자에서 휴식 시 또는 이전보다 적은 활동 중에 증상 발생&#x20;
+* 협심증 병력이 있는 당뇨병·고령·여성 환자에서 흉통 없이 평소와 다른 호흡 곤란, 피로감, 식은땀
+* 새로 발견된 심잡음
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -131,18 +127,18 @@ ANOCA\
 
 * 협심증 위험 인자가 복수인 비전형 흉통
 * 운동 시 유발되는 흉통이 생활 습관 개선 후에도 지속
-* 여성 또는 고령 환자에서 반복되는 비특이적 증상 (angina equivalent 가능성)
+* 여성 또는 고령 환자에서 반복되는 비특이적 증상
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">Pre-test Probability (PTP) 평가</mark>
 
-흉통 환자에서 CAD 사전 검사 확률(PTP)을 먼저 추정하여 검사 전략을 결정 \[AHA/ACC 2021 Chest Pain Guideline]
+* 흉통 환자에서 CAD 사전 검사 확률(PTP)을 먼저 추정하여 검사 전략을 결정
 
-<table><thead><tr><th width="160">PTP</th><th width="220">해석</th><th>권장 전략</th></tr></thead><tbody><tr><td><strong>＜15%</strong></td><td>CAD 가능성 낮음</td><td>추가 검사 없이 임상 추적 가능; 위험 인자 관리에 집중</td></tr><tr><td><strong>15~85%</strong></td><td>중간 가능성</td><td>CCTA (CAD 미확진) 또는 기능 검사 (기존 CAD 있을 시)</td></tr><tr><td><strong>＞85%</strong></td><td>CAD 가능성 매우 높음</td><td>Stress imaging 또는 invasive coronary angiography 직접 고려</td></tr></tbody></table>
+<table><thead><tr><th width="98">PTP</th><th width="126">CAD 가능성</th><th>권장 전략</th></tr></thead><tbody><tr><td><strong>＜15%</strong></td><td>낮음</td><td>추가 검사 없이 임상 추적 가능; 위험 인자 관리에 집중</td></tr><tr><td><strong>15~85%</strong></td><td>중간</td><td>CCTA (CAD 미확진) 또는 기능 검사 (기존 CAD 있을 시)</td></tr><tr><td><strong>＞85%</strong></td><td>매우 높음</td><td>Stress imaging 또는 invasive coronary angiography 직접 고려</td></tr></tbody></table>
 
 {% hint style="info" %}
-PTP는 연령, 성별, 흉통 유형(전형적/비전형/비심장성)을 조합하여 추정함. 당뇨, 흡연, 이상지질혈증 등 위험 인자가 있으면 상향 보정. ESC 2024 CCS 가이드라인은 여기에 **위험 인자 개수**까지 반영하는 Risk Factor-weighted Clinical Likelihood(RF-CL) 모델을 권고하며, 이를 통해 ≤5%의 "매우 낮음" 군으로 더 많은 환자를 재분류하여 불필요한 검사를 줄임(추가 재분류가 필요하면 coronary artery calcium score 고려). ✽ ">85% → ICA 직접 고려"라는 고위험 임계값은 ESC 2024에서도 그대로 유지되고 있어 삭제하지 않음
+PTP는 연령, 성별, 흉통 유형(전형적/비전형/비심장성)을 조합하여 추정. 당뇨, 흡연, 이상지질혈증 등 위험 인자가 있으면 상향 보정. ESC 2024 CCS 가이드라인은 여기에 위험 인자 갯수까지 반영하는 Risk Factor-weighted Clinical Likelihood(RF-CL) 모델을 권고하며, 이를 통해 ≤5%의 "매우 낮음" 군으로 더 많은 환자를 재분류하여 불필요한 검사를 줄임(추가 재분류가 필요하면 coronary artery calcium score 고려). ✽ ">85% → ICA 직접 고려"라는 고위험 임계값은 ESC 2024에서도 그대로 유지되고 있어 삭제하지 않음
 {% endhint %}
 
 ### <mark style="color:orange;">검사 전략 - CCTA vs Stress Test</mark>
