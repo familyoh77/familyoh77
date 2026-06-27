@@ -336,32 +336,31 @@ class D,L blue
 
 <table data-search="false"><thead><tr><th width="220">상황</th><th>우선 선택</th></tr></thead><tbody><tr><td>빈맥 동반</td><td>β-차단제</td></tr><tr><td>서맥 동반</td><td>DHP-CCB (amlodipine 등)</td></tr><tr><td>고혈압 동반</td><td>β-차단제 또는 CCB</td></tr><tr><td>Vasospastic angina (Prinzmetal)</td><td>CCB (non-DHP 또는 DHP); β-차단제 금기</td></tr><tr><td>HFrEF (LVEF ↓)</td><td>β-차단제 (carvedilol, bisoprolol, metoprolol)</td></tr><tr><td>저혈압 경향, β-차단제 금기</td><td>Ranolazine (혈압/맥박 영향 없음)</td></tr><tr><td>활동성/중증 천식</td><td>Diltiazem (non-DHP CCB); 비선택적 β-차단제 회피</td></tr><tr><td>COPD (심혈관 적응증 있음)</td><td>심선택적 β-차단제 또는 Diltiazem 모두 가능</td></tr></tbody></table>
 
-✽ Ivabradine은 정상 LV 기능의 일반 협심증에 추가하는 용도로는 권장되지 않으므로(아래 Ivabradine 섹션 참조) 이 표에서 제외함
+✽ Ivabradine은 정상 LV 기능의 일반 협심증에 추가하는 용도로는 권장하지 않음
 
 ### <mark style="color:orange;">β-차단제</mark>
 
-(☞ [고혈압 약물 치료 - β-차단제](095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
-
-* **작용** : β-수용체에 대한 catecholamine 결합 방해 → negative inotropic effect (심박수/혈압/심장수축력↓) → 심근 산소 요구량↓
-* **적응증** : 운동/활동 중 증상 발생, 최근 MI 후, 심부전 동반, 심방세동
-* **β-차단제 장기 사용** : 과거에는 MI 후 광범위하게 권고되었으나, \[AHA/ACC 2023]에서는 최근 1년 이내 MI, LVEF ≤50%, 심부전/AF 등 다른 적응증이 없는 CCD 환자에서는 장기 지속 사용을 권고하지 않음 (**Class IIb - 선택적 사용**); 심박수 조절 및 증상 완화 정도를 기반으로 환자와 함께 지속 여부를 결정(Shared Decision Making) 권장 - 논의 요소 : ① 협심증 증상이 실제로 조절되고 있는가 ② 피로·성기능 장애 등 부작용으로 삶의 질이 저하되는가 ③ 서맥·기립성 저혈압 등 부작용 발생 여부 ④ 환자의 선호
+* 작용 : β-수용체에 대한 catecholamine 결합 방해 → negative inotropic effect (심박수/혈압/심장수축력↓) → 심근 산소 요구량↓
+* 적응증 : 운동/활동 중 증상 발생, 최근 MI 후, 심부전 동반, 심방세동
+* β-차단제 장기 사용 : 과거에는 MI 후 광범위하게 권고되었으나, AHA/ACC 2023에서는 최근 1년 이내 MI, LVEF ≤50%, 심부전/AF 등 다른 적응증이 없는 CCD 환자에서는 장기 지속 사용을 권고하지 않음(선택적 사용); 심박수 조절 및 증상 완화 정도를 기반으로 환자와 함께 지속 여부를 결정 권장 - 논의 요소 : ⓵ 협심증 증상이 실제로 조절되고 있는가, ⓶ 피로·성기능 장애 등 부작용으로 삶의 질이 저하되는가, ⓷ 서맥·기립성 저혈압 등 부작용 발생 여부, ⓸ 환자의 선호
 * 휴식 시 맥박이 55\~60회/분이 되도록 용량 조절
-* **부작용** : 피로, 발기 부전, 수족냉증, 파행 악화, 서맥, 방실 전도 장애, 기관지 수축
-* **금기** : 2\~3도 전도 장애, 중증 심부전, 말초혈관 질환, 기관지 천식(특히 활동성/중증), 중증 기관지경련성 질환, sick sinus syndrome, 레이노병, 심한 우울증
-* cardioselective β₁-차단제 선호 (ISA 있는 약제 피함 - 예: celiprolol)
+* 부작용 : 피로, 발기 부전, 수족냉증, 파행 악화, 서맥, 방실 전도 장애, 기관지 수축
+* 금기 : 2\~3도 전도 장애, 중증 심부전, 말초혈관 질환, 기관지 천식(특히 활동성/중증), 중증 기관지경련성 질환, sick sinus syndrome, 레이노병, 심한 우울증
+* cardioselective β₁-차단제 선호 (ISA 있는 약제 피함 - 예: celiprolol) (☞ [고혈압 약물 치료 - β-차단제](095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
+* atenolol : 신기능 저하자 주의; 25\~200 ㎎/d <mark style="color:blue;">\[테놀민]</mark>
+* metoprolol succinate : 25\~400 ㎎/d <mark style="color:blue;">\[푸로롤 서방]</mark>
+* carvedilol : α-차단 작용도 있어 혈관 확장에 유리; 6.25\~50 ㎎/d <mark style="color:blue;">\[딜라트렌 에스알]</mark>
+* bisoprolol : 2.5\~10 ㎎/d <mark style="color:blue;">\[콩코르]</mark>
 
 {% hint style="info" %}
-✽ **COPD는 β-차단제의 절대 금기가 아님** - bisoprolol, metoprolol succinate, nebivolol 등 심선택적(cardioselective) β₁-차단제는 COPD 환자에서도 비교적 안전하게 사용 가능하며, 심혈관 적응증이 있는 경우 오히려 사용이 권고됨(일부 연구에서는 COPD 급성 악화 감소와도 연관). 실제 주의가 필요한 대상은 **활동성 기관지 천식**이며, 이 경우에도 비선택적 제제만 확실히 피하면 전문의 감독 하에 저용량 심선택적 제제 사용을 고려할 수 있음. 저용량으로 시작하여 호흡 증상을 모니터링하며 천천히 증량
+**COPD는 β-차단제의 절대 금기가 아님** - bisoprolol, metoprolol succinate, nebivolol 등 심선택적(cardioselective) β₁-차단제는 COPD 환자에서도 비교적 안전하게 사용 가능하며, 심혈관 적응증이 있는 경우 오히려 사용이 권고됨(일부 연구에서는 COPD 급성 악화 감소와도 연관); 실제 주의가 필요한 대상은 활동성 기관지 천식이며, 이 경우에도 비선택적 제제만 확실히 피하면 전문의 감독 하에 저용량 심선택적 제제 사용을 고려할 수 있음. 저용량으로 시작하여 호흡 증상을 모니터링하며 천천히 증량
 {% endhint %}
 
-{% hint style="danger" %}
-⚠️ β-차단제 갑작스런 중단 금지 - β-수용체 밀도 증가로 catecholamine에 대한 일시적 과민 상태 발생 → 허혈성 심질환 유발 위험. 중단 시 2주에 걸쳐 tapering
+{% hint style="info" %}
+**β-차단제 갑작스런 중단 금지** : β-수용체 밀도 증가로 catecholamine에 대한 일시적 과민 상태 발생 → 허혈성 심질환 유발 위험. 중단 시 2주에 걸쳐 tapering
 {% endhint %}
 
-* atenolol : 신기능 저하자 주의; 25\~200 mg/d <mark style="color:blue;">\[테놀민]</mark>
-* metoprolol succinate : 25\~400 mg/d <mark style="color:blue;">\[푸로롤 서방]</mark>
-* carvedilol : α-차단 작용도 있어 혈관 확장에 유리; 6.25\~50 mg/d <mark style="color:blue;">\[딜라트렌 에스알]</mark>
-* bisoprolol : 2.5\~10 mg/d <mark style="color:blue;">\[콩코르]</mark>
+*
 
 ### <mark style="color:orange;">칼슘통로차단제 (CCB)</mark>
 
