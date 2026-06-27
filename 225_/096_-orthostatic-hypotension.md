@@ -40,7 +40,7 @@
 <mark style="color:cyan;">**Neurogenic OH (nOH)**</mark>
 
 * 원발성 또는 이차성 자율신경 부전에 의한 기립성 저혈압 - Baroreceptor reflex arc의 efferent sympathetic pathway가 손상되어 기립 시 보상성 혈관 수축이 일어나지 않음
-* 원인&#x20;
+* 원인
   * 원발성 : 순수자율신경부전(PAF), 다발계통위축(MSA), Parkinson병 등 Lewy소체 질환
   * 이차성 : 당뇨병성 신경병증, 아밀로이드증, 자가면역 신경병증
 * 약 50%에서 neurogenic supine hypertension 동반 - 5분 이상 앙와위 후 SBP ≥140 ㎜Hg 또는 DBP ≥90 ㎜Hg (Autonomic Society 기준); 기립성 저혈압과 야간 고혈압이 공존하는 치료적 딜레마 상태
@@ -48,7 +48,7 @@
 <mark style="color:cyan;">**Non-neurogenic OH**</mark>
 
 * 자율신경 반사궁 자체는 정상이나, 혈량·심박출량 부족 또는 정맥 저류 과다로 인해 정상적인 보상성 혈관 수축이 따라가지 못해 발생
-* 원인&#x20;
+* 원인
   * 혈액량 감소 (Hypovolemia) : 수분 섭취 부족, 발열, 심한 설사·구토, 과도한 발한, 이뇨제 과다 사용; 배뇨·배변 후 일시적 혈압 하락
   * 정맥 저류 증가 : 음주, 식사(→ 식후 저혈압), 격렬한 운동, 기온 상승, 장기간 와상·기립, 패혈증, 임신
   * 심장 기능 이상 : 서맥(동기능 부전, 방실 차단), 심장 판막 질환, 심부전, 심근경색
@@ -143,7 +143,7 @@ style HR0 fill:#e8f8e8,stroke:#4caf50
     Neuro["Neurogenic OH<br/>(자율신경 부전)"]
 classDef pink fill:#fde8f0,stroke:#e91e8c
 class InitOH,Neuro,POTS,NonNeuro pink
-    NonTx["원인 교정<br/>(탈수·약물·심장 치료)<br/>↓ 지속 시<br/>Fludrocortisone"]
+    NonTx["•원인 교정<br/>(탈수·약물·심장 치료)<br/>•혈압 저하 지속 시<br/>Fludrocortisone"]
     SupineHTN["Supine HTN<br/>동반?"]
 classDef yellow fill:#fff9c4,stroke:#ffe082
 class T0,HR,SupineHTN yellow
