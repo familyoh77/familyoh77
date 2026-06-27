@@ -134,18 +134,28 @@ ANOCA\
 ### <mark style="color:orange;">Pre-test Probability (PTP) 평가</mark>
 
 * 흉통 환자에서 CAD 사전 검사 확률(PTP)을 먼저 추정하여 검사 전략을 결정
+* **연령, 성별, 흉통 유형**(전형적/비전형/비심장성)을 조합하여 추정. **위험 인자**(예: 당뇨, 흡연, 이상지질혈증)가 있으면 상향 보정 (☞ [계산기](https://www.cvdapp.com/calculator/pre-test_probability_of_cad))
 
-<table><thead><tr><th width="98">PTP</th><th width="126">CAD 가능성</th><th>권장 전략</th></tr></thead><tbody><tr><td><strong>＜15%</strong></td><td>낮음</td><td>추가 검사 없이 임상 추적 가능; 위험 인자 관리에 집중</td></tr><tr><td><strong>15~85%</strong></td><td>중간</td><td>CCTA (CAD 미확진) 또는 기능 검사 (기존 CAD 있을 시)</td></tr><tr><td><strong>＞85%</strong></td><td>매우 높음</td><td>Stress imaging 또는 invasive coronary angiography 직접 고려</td></tr></tbody></table>
+<table><thead><tr><th width="98">PTP</th><th width="126">CAD 가능성</th><th>권장 전략</th></tr></thead><tbody><tr><td><strong>＜15%</strong></td><td>낮음</td><td>추가 검사 없이 임상 추적 가능; 위험 인자 관리에 집중</td></tr><tr><td><strong>15~85%</strong></td><td>중간</td><td>CAD 미확진 시 "CCTA"  /  기존 CAD 있을 때 "기능 검사"</td></tr><tr><td><strong>＞85%</strong></td><td>매우 높음</td><td>Stress imaging 또는 invasive coronary angiography 직접 고려</td></tr></tbody></table>
+
+_CCTA=Coronary CT angiography_
 
 {% hint style="info" %}
-PTP는 연령, 성별, 흉통 유형(전형적/비전형/비심장성)을 조합하여 추정. 당뇨, 흡연, 이상지질혈증 등 위험 인자가 있으면 상향 보정. ESC 2024 CCS 가이드라인은 여기에 위험 인자 갯수까지 반영하는 Risk Factor-weighted Clinical Likelihood(RF-CL) 모델을 권고하며, 이를 통해 ≤5%의 "매우 낮음" 군으로 더 많은 환자를 재분류하여 불필요한 검사를 줄임(추가 재분류가 필요하면 coronary artery calcium score 고려). ✽ ">85% → ICA 직접 고려"라는 고위험 임계값은 ESC 2024에서도 그대로 유지되고 있어 삭제하지 않음
+ESC 2024 CCS 가이드라인은 **위험 인자 갯수**까지 반영하는 Risk Factor-weighted Clinical Likelihood(RF-CL) 모델을 권고하며, 이를 통해 ≤5%의 "매우 낮음" 군으로 더 많은 환자를 재분류하여 불필요한 검사를 줄임(추가 재분류가 필요하면 coronary artery calcium score 고려)
 {% endhint %}
 
-### <mark style="color:orange;">검사 전략 - CCTA vs Stress Test</mark>
+### <mark style="color:orange;">검사 전략 - CCTA or Stress Test</mark>
 
-✽ 아래는 CAD 기왕력 유무를 축으로 한 전략임; 증상 중증도/위험도를 축으로 한 분류는 흉통 챕터의 "영상 검사" 표 참조(☞ [흉통](../220_/002_-chest-pain.md)) - 두 표는 같은 결정을 다른 관점에서 보여주는 상호 보완 자료
+1. CAD 병력이 있는가? → 아래 표로 판단
+2. 흉통을 처음 호소하는 환자에서 어떤 검사를 먼저 시행하는가? → [흉통 챕터 표참조](../220_/002_-chest-pain.md#undefined-5)
 
-<table><thead><tr><th width="220">상황</th><th>우선 고려 검사</th></tr></thead><tbody><tr><td>CAD 미확진, 중간 PTP (15~85%)</td><td>CCTA 선호 (음성 예측도 높음; 40세 이하에서는 PTP가 낮아 불필요한 경우 많음)</td></tr><tr><td>CAD 미확진, 비교적 젊은 성인 (40~60세)</td><td>CCTA (해부학적 확인에 유리)</td></tr><tr><td>기존 CAD 존재</td><td>Stress imaging (기능적 허혈 평가)</td></tr><tr><td>재협착 또는 이식 혈관 평가</td><td>Stress imaging</td></tr><tr><td>허혈 정도 정량화 필요</td><td>Stress imaging (MPI, stress echo)</td></tr><tr><td>비침습 검사 모호 → revascularization 고려</td><td>Invasive angiography ± FFR/iFR</td></tr></tbody></table>
+* 같은 환자에서 순서대로 적용될 수 있음
+
+<table><thead><tr><th width="346">상황</th><th>우선 고려 검사</th></tr></thead><tbody><tr><td>CAD 미확진, CAD 가능성 중간 (PTP 15~85%)</td><td>CCTA 선호 (음성 예측도 높음)</td></tr><tr><td>CAD 미확진, 비교적 젊은 성인 (40~60세)</td><td>CCTA (해부학적 확인에 유리)</td></tr><tr><td>기존 CAD 존재</td><td>Stress imaging (기능적 허혈 평가)</td></tr><tr><td>재협착 또는 이식 혈관 평가</td><td>Stress imaging</td></tr><tr><td>허혈 정도 정량화 필요</td><td>Stress imaging (MPI, stress echo)</td></tr><tr><td>비침습 검사 모호 → revascularization 고려</td><td>Invasive angiography ± FFR/iFR</td></tr></tbody></table>
+
+{% hint style="info" %}
+**Stress imaging 종류** : ⓵ 운동부하 심전도(단순 선별; 기저 ECG 이상 시 판독 제한), ⓶ 심근 관류 영상 MPI - SPECT/PET(방사성 추적자; 허혈 범위·생존능 평가; 운동 불가 시 약물 부하 가능), ⓷ 부하 심초음파(벽운동 평가; 방사선 無; 음향창 불량 시 제한), ⓸ 부하 심장 MRI(해상도 최우수; 생존능 평가; 접근성 제한) - 국내 1차 진료에서는 주로 ⓵⓶⓷ 활용
+{% endhint %}
 
 ### <mark style="color:orange;">신체 검사</mark>
 
@@ -154,74 +164,67 @@ PTP는 연령, 성별, 흉통 유형(전형적/비전형/비심장성)을 조합
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
-* **hs-Troponin** : 증상 발생 후 즉시 및 1\~3시간 후 재검사 (고감도 프로토콜); 불안정 협심증에서는 정상일 수 있음 - 음성이라도 ACS를 완전히 배제하지 못함
+* hs-Troponin : 증상 발생 후 즉시 및 1\~3시간 후 재검사 (고감도 프로토콜); 불안정 협심증에서는 정상일 수 있음 - 음성이라도 ACS를 완전히 배제하지 못함
 * CBC, lipid profile, HbA1c, 신기능(eGFR), 전해질
-* **Lipoprotein(a)** : 모든 CAD 환자에서 평생 1회 측정 권고 \[AHA/ACC 2023] - 독립적 심혈관 위험 인자; **Lp(a) ≥125 nmol/L(≈50 mg/dL)** 이상이면 위험 증가로 간주(EAS/ESC consensus); 상승 시 PCSK9i 치료 근거 강화. ✽ 국내에서는 Lp(a) 검사에 대한 별도 고시 급여기준이 없어 사례별로 의학적 판단·청구 상병에 따라 급여 인정 여부가 결정됨 - 처방 전 확인 필요
-* **선택적** : TFT, hs-CRP, fibrinogen, homocysteine, NT-proBNP / BNP
+* Lipoprotein(a) : 모든 CAD 환자에서 평생 1회 측정 권고 - 독립적 심혈관 위험 인자; Lp(a) ≥125 nmol/L(≈50 ㎎/㎗) 이상이면 위험 증가로 간주; 상승 시 PCSK9i 치료 근거 강화. ✽ 국내에서는 Lp(a) 검사에 대한 별도 급여 기준이 없어 사례별로 인정 여부가 결정됨 - 처방 전 확인 필요
+* 선택 : TFT, hs-CRP, fibrinogen, homocysteine, NT-proBNP / BNP
 
 {% hint style="info" %}
-**잔여 염증 위험(Residual Inflammatory Risk)** : LDL-C 목표 달성 후에도 hs-CRP ≥2 mg/L이면 잔여 염증 위험이 지속되는 것으로 판단; colchicine 추가 또는 생활 습관 집중 관리 고려
+**잔여 염증 위험(Residual Inflammatory Risk)** : LDL-C 목표 달성 후에도 hs-CRP ≥2 ㎎/L이면 잔여 염증 위험이 지속되는 것으로 판단; colchicine 추가 또는 생활 습관 집중 관리 고려
 {% endhint %}
 
 ### <mark style="color:orange;">심전도</mark>
 
-* **증상 발생 후 즉시 및 10\~30분 후 재검사** - 초기 ECG 정상이라도 반복 검사 필수
+* 증상 발생 후 즉시 및 10\~30분 후 재검사 - 초기 ECG 정상이라도 반복 검사 필수
 * 협심증 환자의 ＞50%에서 안정 시 정상 ECG를 보임
-* **선택적** : 부하 심전도 검사 (treadmill test)
+* 선택 : 부하 심전도 검사 (treadmill test)
 
 ### <mark style="color:orange;">영상 검사</mark>
 
 * 흉부 X선
-* **선택적** : Coronary CT angiography(CCTA), 심초음파, nuclear heart scanning(심근 관류 영상), 심장 MRI
+* 선택 : Coronary CT angiography(CCTA), 심초음파, nuclear heart scanning(심근 관류 영상), 심장 MRI
 
 ### <mark style="color:orange;">급성 심근경색 가능성 추정 인자</mark>
 
-(전체 목록 ☞ [흉통](../220_/002_-chest-pain.md#급성-심근경색-가능성)) - 협심증 환자에서 특히 주의할 소견:
+* **가능성 증가** : Levine's sign(증상을 묘사할 때 가슴 위에 주먹을 얹음), 같은 자리에 같은 증상 반복 발생, 과거 MI와 동일하거나 더 심한 증상 (☞ [흉통](../220_/002_-chest-pain.md#undefined-8))
+* **가능성 감소** : 왼쪽 유방 아래의 둔하고 지속되는 통증, 체위 변화에 영향을받는 통증
 
-* **가능성 증가** : Levine's sign(증상을 묘사할 때 가슴 위에 주먹을 얹음), 같은 자리에 같은 증상 반복 발생, 과거 MI와 동일하거나 더 심한 증상
-* **가능성 감소** : 왼쪽 유방 아래의 둔하고 지속되는 통증, 체위 변화에 영향받는 통증
+<mark style="color:cyan;">**흉통의 비심장성 원인**</mark>
 
-### <mark style="color:orange;">감별 진단 - 흉통의 비심장성 원인</mark>
-
-(☞ [흉통](../220_/002_-chest-pain.md))
+&#x20;   ☞ [흉통](../220_/002_-chest-pain.md#noncardiac)
 
 ***
 
 ```mermaid
 graph TD
     A([흉통 환자]) --> B[ACS 배제\nECG + hs-Troponin]
-    B --> C{PTP 추정}
-
-    C -- 낮음 < 15% --> D[추가 검사 불필요\n위험 인자 관리]
-    C -- 중간 15~85% --> E{CAD 기왕력?}
-    C -- 높음 > 85% --> F[Stress imaging\n또는 ICA 직접 고려]
-
+    B --> C[PTP 평가]
+    C -- 낮음 (<15%) --> D[추가 검사 불필요\n위험 인자 관리]
+    C -- 중간 (15~85%) --> E[CAD 기왕력?]
+    C -- 높음 (>85%) --> F[Stress imaging\n또는 ICA 직접 고려]
     E -- 없음 --> G[CCTA\n해부학적 평가]
     E -- 있음 --> H[Stress imaging\n기능적 허혈 평가]
-
-    G --> I{CAD 확인?}
+    G --> I[CAD 확인?]
     H --> I
     F --> I
-
     I -- 아니오 --> D
-    I -- 예 --> J[GDMT 시작\n항혈소판 + Statin + 항협심증제]
-    J --> K{증상 지속?}
+    I -- 예 --> J[GDMT 시작\n항혈소판+Statin+항협심증제]
+    J --> K[증상 지속?]
     K -- 아니오 --> L[4~6개월 간격 추적]
     K -- 예 --> M[ICA ± FFR/iFR\nPCI 또는 CABG 고려]
 
-    classDef decision fill:#fff9c4,stroke:#f9a825
-    classDef action fill:#e1f5fe,stroke:#0277bd
-    classDef start fill:#f9f9f9,stroke:#555
-    classDef safe fill:#e8f5e9,stroke:#388e3c
-    class C,E,I,K decision
-    class B,F,G,H,J,M action
-    class A start
-    class D,L safe
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class B,G,H,F lightGreen
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class C,E,I,K yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class J,M sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class D,L blue
 ```
 
 <p align="center"><strong>Stable Chest Pain 진단 및 치료 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. AHA/ACC 2021 Chest Pain Guideline; AHA/ACC 2023 CCD Guideline</mark></em></p>
 
 ***
 
