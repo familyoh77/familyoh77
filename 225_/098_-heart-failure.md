@@ -324,9 +324,7 @@ CRT-D = cardiac resynchronization therapy with defibrillation
 #### Angiotensin receptor neprilysin inhibitor (ARNi)
 
 * sacubitril(neprilysin inhibitor) & valsartan(ARB) 병용
-*   대상 : ① NYHA class Ⅱ or Ⅲ의 증상이 있으며 ARB에 안정적인 환자,
-
-    ② 급성 비-대상성 심부전으로 입원한 환자에서 혈역학적 안정 후 치료로서 고려
+* 대상 : ① NYHA class Ⅱ or Ⅲ의 증상이 있으며 ARB에 안정적인 환자, ② 급성 비-대상성 심부전으로 입원한 환자에서 혈역학적 안정 후 치료로서 고려
 * enalapril 단일 요법보다 유효하지만 저혈압 부작용이 보다 흔함
 
 ### 기타/증상 개선 약제
@@ -336,68 +334,45 @@ CRT-D = cardiac resynchronization therapy with defibrillation
 * 적용 : fluid overload acute HF 초기에 사용; 울혈 증상의 신속한 개선
 * 최소 유효 용량에서 시작, 고령자는 필요량이 적음
 * 경증 체액 저류 시 thiazide, 보다 심한 경우는 loop diuretics 적용
-*   다른 계열의 이뇨제를 병용하면 추가 효과를 얻을 수 있음.
-
-    예) thiazide + loop diuretics
-*   부작용 : Na↓, K↓(칼륨 보존 이뇨제 사용 시 K↑), Mg↓, Ca↓, 요산↑,
-
-    대사성알칼리혈증
-*   금기 : Mg ＜1.8 ㎎/㎗, K ＞5.0/＜3.5 mEq/㎗, Na ＜135 mEq/㎗,
-
-    Cr ＞3.0 ㎎/㎗, 산증
-*   metolazone는 GFR 20\~30까지 효과가 유지되며,
-
-    thiazide는 GFR ＜30에서는 유효하지 않음
-*   loop diuretics는 효과 발현이 빠르고 작용 기간이 짧음(분할 투여함);
-
-    torsemide가 흡수력과 긴 반감기로 furosemide보다 효과적일 수 있음
-*   potassium-sparing diuretics는 효과가 적으나 칼륨 보존 효과를 위하여
-
-    병용할 수 있음
+* 다른 계열의 이뇨제를 병용하면 추가 효과를 얻을 수 있음. 예) thiazide + loop diuretics
+* 부작용 : Na↓, K↓(칼륨 보존 이뇨제 사용 시 K↑), Mg↓, Ca↓, 요산↑, 대사성알칼리혈증
+* 금기 : Mg ＜1.8 ㎎/㎗, K ＞5.0/＜3.5 mEq/㎗, Na ＜135 mEq/㎗, Cr ＞3.0 ㎎/㎗, 산증
+* metolazone는 GFR 20\~30까지 효과가 유지되며, thiazide는 GFR ＜30에서는 유효하지 않음
+* loop diuretics는 효과 발현이 빠르고 작용 기간이 짧음(분할 투여함); torsemide가 흡수력과 긴 반감기로 furosemide보다 효과적일 수 있음
+* potassium-sparing diuretics는 효과가 적으나 칼륨 보존 효과를 위하여 병용할 수 있음
 
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Drug</strong></td><td><strong>시작 (mg)</strong></td><td><strong>최대 (mg)</strong></td></tr><tr><td><strong>Loop diuretics</strong></td><td></td><td></td></tr><tr><td>furosemide [라식스]</td><td>20–40 qd/bid</td><td>600</td></tr><tr><td>bumetanide</td><td>0.5–1.0 qd/bid</td><td>10</td></tr><tr><td>torsemide [토르세미드]</td><td>10–20 qd</td><td>200</td></tr><tr><td><strong>Thiazide diuretics</strong></td><td></td><td></td></tr><tr><td>chlorothiazide</td><td>250–500 qd/bid</td><td>1000</td></tr><tr><td>chlorthalidone [하이그로톤]</td><td>12.5–25 qd</td><td>100</td></tr><tr><td>hydrochlorothiazide [다이크로짇]</td><td>25 qd</td><td>200</td></tr><tr><td>indapamide [후루덱스]</td><td>2.5 qd</td><td>5</td></tr><tr><td>metolazone</td><td>2.5 qd</td><td>20</td></tr></tbody></table>
 
 #### Digoxin
 
 * 대상 : 이뇨제/ACEI 복용에도 증상이 남아 있음, 심방세동, 심박 속도 조절을 요함
-*   용법 : 최소 용량(0.125 ㎎/d)으로 시작; 반감기가 길어 격일로 복용할 수도 있음 \[디고신]
-
-    •신 기능 장애, 고령, 작은 lean body mass 환자는 필요 용량이 보다 낮음
+* 용법 : 최소 용량(0.125 ㎎/d)으로 시작; 반감기가 길어 격일로 복용할 수도 있음 \[디고신]
+  * 신 기능 장애, 고령, 작은 lean body mass 환자는 필요 용량이 보다 낮음
 * amiodarone, quinidine, propafenone, and verapamil 등 투여 시 약물 농도가 증가함
 * 부작용 : 구역, 식욕 부진, 혼란, 시각 이상, 부정맥
 * 저칼륨혈증, 심근허혈, 신 기능 장애 시 부작용이 증가하므로 적절한 Mg, K 농도 유지가 필요
-*   모니터링 : 7\~14일 후(마지막 투여 6시간 이후) 측정; 독성 반응이 의심되는 경우에 혈중 digoxin 농도 측정(연속적인
-
-    측정은 필요 없음)
+* 모니터링 : 7\~14일 후(마지막 투여 6시간 이후) 측정; 독성 반응이 의심되는 경우에 혈중 digoxin 농도 측정(연속적인 측정은 필요 없음)
 
 #### 항응고제
 
-*   경구용 항응고제를 새로 시작하는 경우 Vit K 대항제(warfarin)보다는, 금기가 아니라면 NOAC 권고; :
-
-    apixaban \[엘리퀴스], dabigatran \[프라닥사], edoxaban \[릭시아나], rivaroxaban \[자렐토]) (☞ p.1157)
-*   심방세동을 동반한 심부전 환자에서 추가적인 혈전의 위험 인자들이 없는 경우 개개인의 특성 및 환자의 선호도 등을
-
-    종합적으로 고려하여 항응고 치료 여부를 결정 (☞ p.109)
+* 경구용 항응고제를 새로 시작하는 경우 Vit K 대항제(warfarin)보다는, 금기가 아니라면 NOAC 권고
+  * apixaban \[엘리퀴스], dabigatran \[프라닥사], edoxaban \[릭시아나], rivaroxaban \[자렐토]) (☞ p.1157)
+* 심방세동을 동반한 심부전 환자에서 추가적인 혈전의 위험 인자들이 없는 경우 개개인의 특성 및 환자의 선호도 등을 종합적으로 고려하여 항응고 치료 여부를 결정 (☞ p.109)
 
 ## 비-약물 치료 및 예방
 
 * 금연, 금주
 * 소금 섭취 제한 : 경증 HF(NYHA I/II) 시 7.5 g/d, 중증 HF(NYHA III/IV) 시 5 g/d
-
-\*심부전 환자에서 엄격한 소금 섭취 제한은 이득이 없고 잠재적으로 해로울 수도 있다는 보고들이 있음
-
+  * \*심부전 환자에서 엄격한 소금 섭취 제한은 이득이 없고 잠재적으로 해로울 수도 있다는 보고들이 있음
 * 수분 섭취 제한 : 울혈이 있을 때 ＜2 L/d, s-Na ＜135 mEq/㎖ 시 ＜1.5 L/d
 * 비만 시 체중 감량; 매일 체중을 측정하여 ≥2 ㎏/d 증가 시 신속히 진료
-*   심장 재활 및 규칙적인 유산소 운동 : 걷기, 달리기, 춤, 자전거, 수영 등. 천천히 시작, 점차 증량
-
-    •예) 5분으로 시작 → 매일 1\~2분씩 증량, 천천히 걷기 → 점차 빨리 걷기
-
-    → 1회 또는 분할하여 매일 총 30분씩 주 5\~6일 시행; 시작 전 준비 운동, 종료 후 마무리 운동
-
-    •운동 전/중/후 맥박 측정, 휴식 시 대비 20회 이상 증가되지 않도록 운동 강도 조절
+* 심장 재활 및 규칙적인 유산소 운동 : 걷기, 달리기, 춤, 자전거, 수영 등. 천천히 시작, 점차 증량
+  * 예) 5분으로 시작 → 매일 1\~2분씩 증량, 천천히 걷기 → 점차 빨리 걷기 → 1회 또는 분할하여 매일 총 30분씩 주 5\~6일 시행; 시작 전 준비 운동, 종료 후 마무리 운동
+  * 운동 전/중/후 맥박 측정, 휴식 시 대비 20회 이상 증가되지 않도록 운동 강도 조절
 * 동반 질환 치료 : 고혈압, 부정맥, 수면무호흡증, 당뇨병, 이상지질혈증
 * 스트레스 관리, 우울증 치료
-*
+
+
 
 ### **질병코드**&#x20;
 
