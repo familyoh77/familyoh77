@@ -238,14 +238,14 @@ class D,L blue
 
 ### <mark style="color:orange;">치료 방침 \[AHA/ACC 2023 - ABCDEF 프레임워크]</mark>
 
-<table><thead><tr><th width="90">항목</th><th width="220">핵심 내용</th><th>주요 치료</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>Antiplatelet / Anticoagulation</td><td>Aspirin 81 mg 또는 clopidogrel 75 mg 단독(둘 다 합리적 선택; 출혈 고위험·PCI 후 장기 단독요법 시 clopidogrel 선호 근거 축적 중)</td></tr><tr><td><strong>B</strong></td><td>Blood pressure / Beta-blocker</td><td>목표 BP ＜130/80 mmHg; β-차단제 (MI 후 1년 이내, 심부전, AF 등 적응증 있을 때)</td></tr><tr><td><strong>C</strong></td><td>Cholesterol / Cigarette smoking</td><td>고강도 statin; LDL-C ＜70 mg/dL (초고위험 ＜55); 금연</td></tr><tr><td><strong>D</strong></td><td>Diet / Diabetes</td><td>지중해식 식이; SGLT2i or GLP-1RA (DM 동반 Class I; DM 없어도 LVEF ≤40% 시 SGLT2i)</td></tr><tr><td><strong>E</strong></td><td>Exercise / Education</td><td>심장재활(CR) 프로그램 참여 강력 권고 (Class I)</td></tr><tr><td><strong>F</strong></td><td>Follow-up / Flu vaccination</td><td>정기 외래 추적; 인플루엔자 예방 접종 매년 (Class I)</td></tr></tbody></table>
+<table><thead><tr><th width="73">항목</th><th width="186">핵심 내용</th><th>주요 치료</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>Antiplatelet / Anticoagulation</td><td>Aspirin 81 ㎎ 또는 clopidogrel 75 ㎎ 단독(둘 다 합리적 선택; 출혈 고위험·PCI 후 장기 단독요법 시 clopidogrel 선호 근거 축적 중)</td></tr><tr><td><strong>B</strong></td><td>Blood pressure / <br>Beta-blocker</td><td>목표 BP ＜130/80 ㎜Hg; β-차단제 (MI 후 1년 이내, 심부전, AF 등 적응증 있을 때)</td></tr><tr><td><strong>C</strong></td><td>Cholesterol / <br>Cigarette smoking</td><td>고강도 statin; LDL-C ＜70 ㎎/㎗ (초고위험 ＜55); 금연</td></tr><tr><td><strong>D</strong></td><td>Diet / Diabetes</td><td>지중해식 식이; SGLT2i or GLP-1RA (DM 동반; DM 없어도 LVEF ≤40% 시 SGLT2i)</td></tr><tr><td><strong>E</strong></td><td>Exercise / Education</td><td>심장재활(CR) 프로그램 참여 강력 권고</td></tr><tr><td><strong>F</strong></td><td>Follow-up / <br>Flu vaccination</td><td>정기 외래 추적; 인플루엔자 예방 접종 매년</td></tr></tbody></table>
 
 ### <mark style="color:orange;">CCD 이차 예방 목표 요약</mark>
 
-<table><thead><tr><th width="200">항목</th><th>목표</th></tr></thead><tbody><tr><td>LDL-C</td><td>＜70 mg/dL (초고위험 ＜55 mg/dL)</td></tr><tr><td>혈압</td><td>＜130/80 mmHg</td></tr><tr><td>HbA1c</td><td>개별화 (일반적으로 ＜7%)</td></tr><tr><td>운동</td><td>≥150분/주 (중등 강도 유산소)</td></tr><tr><td>금연</td><td>필수</td></tr><tr><td>Statin</td><td>고강도 (atorvastatin 40~80 mg 또는 rosuvastatin 20~40 mg)</td></tr><tr><td>항혈소판</td><td>Aspirin 81 mg 또는 clopidogrel 75 mg</td></tr><tr><td>예방 접종</td><td>Influenza 매년; Pneumococcal 적응증 확인</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="200">항목</th><th>목표</th></tr></thead><tbody><tr><td>LDL-C</td><td>＜70 ㎎/㎗ (초고위험 ＜55 ㎎/㎗)</td></tr><tr><td>혈압</td><td>＜130/80 ㎜Hg</td></tr><tr><td>HbA1c</td><td>개별화 (일반적으로 ＜7%)</td></tr><tr><td>운동</td><td>≥150분/주 (중등 강도 유산소)</td></tr><tr><td>금연</td><td>필수</td></tr><tr><td>Statin</td><td>고강도 (atorvastatin 40~80 ㎎ 또는 rosuvastatin 20~40 ㎎)</td></tr><tr><td>항혈소판</td><td>Aspirin 81 mg 또는 clopidogrel 75 ㎎</td></tr><tr><td>예방 접종</td><td>Influenza 매년; Pneumococcal 적응증 확인</td></tr></tbody></table>
 
 {% hint style="info" %}
-✽ ESC 2024 만성 관상동맥증후군(CCS) 가이드라인은 재발성 동맥혈전 사건이 있는 환자에서 더 엄격한 LDL-C ＜40 mg/dL(1.0 mmol/L) 목표도 고려할 수 있다고 제시함; 본 챕터는 AHA/ACC 2023을 기준으로 하되 재발 사건이 있는 초고위험군에서는 ESC 기준도 참고 가능
+ESC 2024 만성 관상동맥증후군(CCS) 가이드라인은 재발성 동맥혈전 사건이 있는 환자에서 더 엄격한 LDL-C ＜40 ㎎/㎗(1.0 mmol/L) 목표도 고려할 수 있다고 제시함; 본 챕터는 AHA/ACC 2023을 기준으로 하되 재발 사건이 있는 초고위험군에서는 ESC 기준도 참고 가능
 {% endhint %}
 
 ### <mark style="color:orange;">Stable Angina 접근 \[AHA/ACC 2023]</mark>
