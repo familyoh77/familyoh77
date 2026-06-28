@@ -43,22 +43,22 @@ _✽심부전 증상 : 피로, 두근거림, 호흡 곤란_
 <mark style="color:red;">**즉각 이송 또는 응급 평가**</mark>
 
 * 급성 호흡 곤란 (산소포화도 <90%, 호흡수 >25회/분)
-* 심인성 쇼크 의심 : SBP <90 ㎜Hg + 말초 냉증 + 의식 변화
-* 급성 폐부종 (좌위 호흡, 거품 가래, 청색증)
+* SBP <90 ㎜Hg + 말초 냉증 + 의식 변화 → 심인성 쇼크
+* 좌위 호흡, 거품 가래, 청색증 → 급성 폐부종
 * 원인 불명의 심각한 발한 + 흉통 + 실신
 
 <mark style="color:orange;">**당일 또는 긴급 평가**</mark>
 
 * SBP <100 ㎜Hg (증상 동반)
-* 기저치 대비 s-Cr 급격한 상승 또는 AKI 의심
-* s-Na <135 mEq/L (저나트륨혈증)
-* 판막성 심장 질환 의심 (새로운 심잡음)
-* 2\~3일 내 체중 ≥2 kg 급증
+* 기저치 대비 s-Cr 급격한 상승
+* s-Na <135 mEq/L
+* 새로운 심잡음
+* 2\~3일 내 체중 ≥2 ㎏ 급증
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * NYHA 기능 분류 악화 (I→II, II→III 등)
-* 원인 불명의 심부전 (비허혈성 심근병증 의심)
+* 원인 불명의 심부전
 * 유전성 심근병증이 있는 환자의 1대 가족
 * CRT 또는 ICD 삽입 여부 평가 필요
 
@@ -66,35 +66,32 @@ _✽심부전 증상 : 피로, 두근거림, 호흡 곤란_
 
 ### <mark style="color:orange;">Framingham 진단 기준</mark>
 
-* 심부전 진단은 임상적 판단이 우선이며, Framingham 기준은 보조적 도구로 활용. 증상·징후·검사 소견을 종합하여 판단하고, 단일 기준에 의존하지 않음
+* 심부전 진단은 임상적 판단이 우선이며, Framingham 기준은 보조적 도구로 활용; 증상·징후·검사 소견을 종합하여 판단하고, 단일 기준에 의존하지 않음
 
-<table data-search="false"><thead><tr><th width="280">Major criteria</th><th>Minor criteria</th></tr></thead><tbody><tr><td>발작성 야간 호흡 곤란</td><td>양측 발목 부종</td></tr><tr><td>경정맥 팽창</td><td>야간 기침</td></tr><tr><td>폐수포음</td><td>보통의 활동 중 호흡 곤란</td></tr><tr><td>심 비대 (흉부 X선상)</td><td>흉막 삼출</td></tr><tr><td>급성 폐부종</td><td>간 비대</td></tr><tr><td>S3 gallop</td><td>빈맥 (HR >120회/분)</td></tr><tr><td>Hepatojugular reflux</td><td>-</td></tr><tr><td>치료 반응으로 5일간 >4.5 kg 체중 감소</td><td>-</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="319">Major criteria</th><th>Minor criteria</th></tr></thead><tbody><tr><td>발작성 야간 호흡 곤란</td><td>양측 발목 부종</td></tr><tr><td>경정맥 팽창</td><td>야간 기침</td></tr><tr><td>폐수포음</td><td>보통의 활동 중 호흡 곤란</td></tr><tr><td>심 비대 (흉부 X선상)</td><td>흉막 삼출</td></tr><tr><td>급성 폐부종</td><td>간 비대</td></tr><tr><td>S3 gallop</td><td>빈맥 (HR >120회/분)</td></tr><tr><td>Hepatojugular reflux</td><td>-</td></tr><tr><td>치료 반응으로 5일간 >4.5 ㎏ 체중 감소</td><td>-</td></tr></tbody></table>
 
-**판정** : 2 Major 또는 1 Major + 2 Minor / **민감도** >95%, **특이도** 75\~80%
+* 판정 : '2 Major' 또는 '1 Major + 2 Minor' / 민감도 >95%, 특이도 75\~80%
 
 _Ref. The natural history of congestive heart failure: the Framingham study. NEJM 1971;285(26)_
 
 ### <mark style="color:orange;">환자 초기 평가</mark>
 
 * 문진, 진찰, 신장/체중(BMI), 기립성 혈압 변화; 심근병증 환자에서 3대 가족력 청취
-* **혈액검사** : CBC, 전해질(Ca, Mg), BUN/Cr, FBS/HbA1c, 지질, LFT, 철분(혈청 철·페리틴·TSAT), TSH
-* **Biomarkers** : BNP, NT-proBNP
+* 혈액검사 : CBC, 전해질(Ca, Mg), BUN/Cr, FBS/HbA1c, 지질, LFT, 철분(혈청 철·페리틴·TSAT), TSH
+* Biomarkers : BNP, NT-proBNP
+  * 연령·성별·신부전·비만·약물에 영향; 비만 시 BNP 위음성 가능
 
-<table><thead><tr><th width="160">상황</th><th width="200">BNP</th><th>NT-proBNP</th></tr></thead><tbody><tr><td>외래 / 만성 HF 의심</td><td>≥35 pg/㎖</td><td>>125 pg/㎖</td></tr><tr><td>급성 HF 의심</td><td>≥100 pg/㎖</td><td>≥300 pg/㎖</td></tr></tbody></table>
+<table><thead><tr><th width="178">상황</th><th width="200">BNP</th><th>NT-proBNP</th></tr></thead><tbody><tr><td>외래 / 만성 HF 의심</td><td>≥35 pg/㎖</td><td>>125 pg/㎖</td></tr><tr><td>급성 HF 의심</td><td>≥100 pg/㎖</td><td>≥300 pg/㎖</td></tr></tbody></table>
 
-_✽연령·성별·신부전·비만·약물에 영향; 비만 시 BNP 위음성 가능_
-
-* **12-Lead 심전도**, 흉부 X선
-* **심초음파 (최우선)** : 구조·기능 평가, LVEF 측정
-* **선택적 검사** : 심도자검사, 경식도초음파, 심장 MRI(심근염·침윤성 질환 의심 시), 유전자 검사
-* **6분보행검사** : ≥350 m 기능 제한 없음, <150 m 심한 제한
+* 12-Lead 심전도, 흉부 X선
+* 심초음파 (최우선) : 구조·기능 평가, LVEF 측정
+* 선택적 검사 : 심도자검사, 경식도초음파, 심장 MRI(심근염·침윤성 질환 의심 시), 유전자 검사
+* 6분보행검사 : ≥350 m 기능 제한 없음, <150 m 심한 제한
 
 ### <mark style="color:orange;">HFpEF 진단 - H2FPEF / HFA-PEFF Score</mark>
 
 {% hint style="info" %}
-**HFpEF는 LVEF ≥50% + 증상만으로 진단하지 않는다.**
-
-EF 보존 자체가 심부전 증거가 아니므로 충만압 상승 또는 구조적 이상의 객관적 증거가 필요하다. ESC HFA-PEFF 및 H2FPEF 점수가 진단 보조에 권고됨.
+**HFpEF는 LVEF ≥50%와 증상만으로 진단하지 않음;** EF 보존 자체가 심부전 증거가 아니므로 충만압 상승 또는 구조적 이상의 객관적 증거가 필요. ESC HFA-PEFF 및 H2FPEF 점수가 보조 진단으로 권고됨
 {% endhint %}
 
 **HFpEF 진단 단계**
@@ -699,7 +696,7 @@ Tirzepatide(GIP/GLP-1 이중 작용제) : SUMMIT 시험에서 비만 동반 HFpE
 * **금연, 금주**
 * **소금 섭취** : 과도한 나트륨 제한은 권고하지 않음 (개별화 접근 우선). 필요 시 일반적으로 <6 g/d 목표; 중증(NYHA III/IV)에서 <5 g/d
 * **수분 섭취 제한** : 울혈 시 <2 L/d; s-Na <135 mEq/L 시 <1.5 L/d
-* **체중 관리** : 비만 시 체중 감량; 매일 체중 측정 → 2\~3일 내 ≥2 kg 증가 시 신속 진료
+* **체중 관리** : 비만 시 체중 감량; 매일 체중 측정 → 2\~3일 내 ≥2 ㎏ 증가 시 신속 진료
 * **심장 재활 및 유산소 운동** : 걷기·자전거·수영 등; 5분으로 시작 → 총 30분/일, 주 5\~6일 목표
   * 운동 전·중·후 맥박 측정; 휴식 시 대비 20회 이상 증가하지 않도록 강도 조절
 * **동반 질환 치료** : 고혈압, 부정맥, 수면무호흡증, 당뇨병, 이상지질혈증
@@ -779,7 +776,7 @@ I50.9 상세불명의 심부전
 
 ✓ Quadruple therapy 시작 확인 (ARNi/ACEi + β-blocker + MRA + SGLT2i)\
 ✓ 이뇨제 최적화 및 울혈 해소 확인\
-✓ 체중 자가 모니터링 교육 (≥2 kg/2\~3일 → 신속 내원)\
+✓ 체중 자가 모니터링 교육 (≥2 ㎏/2\~3일 → 신속 내원)\
 ✓ BNP 또는 NT-proBNP 추적 기준치 확보\
 ✓ 심초음파 추적 일정 계획 (3개월 후)\
 ✓ Follow-up 외래 예약 (퇴원 후 1\~2주 이내)\
@@ -791,7 +788,7 @@ I50.9 상세불명의 심부전
 
 ### <mark style="color:green;">핵심 복약 지도</mark>
 
-1. **이뇨제(라식스 등)** : 아침에 복용하여 야간 빈뇨를 줄이세요. 체중이 2\~3일 내에 2 kg 이상 늘면 바로 연락하세요.
+1. **이뇨제(라식스 등)** : 아침에 복용하여 야간 빈뇨를 줄이세요. 체중이 2\~3일 내에 2 ㎏ 이상 늘면 바로 연락하세요.
 2. **β-차단제(콩코르 등)** : 처음에 어지럼·피로가 생길 수 있으나 수주 내에 적응됩니다. 임의로 중단하지 마세요.
 3. **ACEi/ARNi(제스트릴·엔트레스토 등)** : 마른 기침이 생기면 ARB로 교체 가능합니다. 혈압 저하·어지럼 발생 시 알려주세요.
 4. **MRA(알닥톤 등)** : 칼륨이 높아질 수 있어 정기 혈액 검사가 필요합니다. 바나나·오렌지·토마토 등 고칼륨 식품을 과다 섭취하지 마세요.
@@ -810,7 +807,7 @@ I50.9 상세불명의 심부전
 **이런 증상이 생기면 즉시 병원에 오세요**
 
 * 갑작스런 심한 호흡 곤란 또는 눕기 어려울 만큼 숨이 찰 때
-* 2\~3일 내에 체중이 2 kg 이상 갑자기 증가할 때
+* 2\~3일 내에 체중이 2 ㎏ 이상 갑자기 증가할 때
 * 발목이나 다리가 갑자기 많이 부을 때
 * 가슴 통증, 심한 어지럼, 실신할 것 같은 느낌이 들 때
 
