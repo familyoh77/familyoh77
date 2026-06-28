@@ -2,12 +2,10 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-
-
 * 심실의 혈액 충만 또는 심실의 혈액 박출의 구조적·기능적 장애로 인한 증상 및 징후가 있는 복합적 임상 증후군
 * 모든 HF 환자에서 GDMT(guideline-directed medical therapy)는 증상 호전·EF 회복 여부와 무관하게 임의 중단하지 않음
 
-### <mark style="color:orange;">분류</mark>&#x20;
+### <mark style="color:orange;">분류</mark>
 
 #### <mark style="color:$primary;">EF 기반 분류</mark>
 
@@ -31,7 +29,7 @@ _✽심부전 증상 : 피로, 두근거림, 호흡 곤란_
 
 ### <mark style="color:orange;">위험 인자</mark>
 
-* 비만, CKD, 심방세동(AF)&#x20;
+* 비만, CKD, 심방세동(AF)
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -57,24 +55,20 @@ _✽심부전 증상 : 피로, 두근거림, 호흡 곤란_
 * 판막성 심장 질환 의심 (새로운 심잡음)
 * 2\~3일 내 체중 ≥2 kg 급증
 
-<mark style="color:blue;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * NYHA 기능 분류 악화 (I→II, II→III 등)
 * 원인 불명의 심부전 (비허혈성 심근병증 의심)
 * 유전성 심근병증이 있는 환자의 1대 가족
 * CRT 또는 ICD 삽입 여부 평가 필요
 
-***
-
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">Framingham 진단 기준</mark>
 
-{% hint style="info" %}
-심부전 진단은 **임상적 판단이 우선**이며, Framingham 기준은 보조적 도구로 활용한다. 증상·징후·검사 소견을 종합하여 판단하고, 단일 기준에 의존하지 않도록 한다.
-{% endhint %}
+* 심부전 진단은 임상적 판단이 우선이며, Framingham 기준은 보조적 도구로 활용. 증상·징후·검사 소견을 종합하여 판단하고, 단일 기준에 의존하지 않음
 
-<table><thead><tr><th width="280">Major criteria</th><th>Minor criteria</th></tr></thead><tbody><tr><td>발작성 야간 호흡 곤란</td><td>양측 발목 부종</td></tr><tr><td>경정맥 팽창</td><td>야간 기침</td></tr><tr><td>폐수포음</td><td>보통의 활동 중 호흡 곤란</td></tr><tr><td>심 비대 (흉부 X선상)</td><td>흉막 삼출</td></tr><tr><td>급성 폐부종</td><td>간 비대</td></tr><tr><td>S3 gallop</td><td>빈맥 (HR >120회/분)</td></tr><tr><td>Hepatojugular reflux</td><td>-</td></tr><tr><td>치료 반응으로 5일간 >4.5 kg 체중 감소</td><td>-</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="280">Major criteria</th><th>Minor criteria</th></tr></thead><tbody><tr><td>발작성 야간 호흡 곤란</td><td>양측 발목 부종</td></tr><tr><td>경정맥 팽창</td><td>야간 기침</td></tr><tr><td>폐수포음</td><td>보통의 활동 중 호흡 곤란</td></tr><tr><td>심 비대 (흉부 X선상)</td><td>흉막 삼출</td></tr><tr><td>급성 폐부종</td><td>간 비대</td></tr><tr><td>S3 gallop</td><td>빈맥 (HR >120회/분)</td></tr><tr><td>Hepatojugular reflux</td><td>-</td></tr><tr><td>치료 반응으로 5일간 >4.5 kg 체중 감소</td><td>-</td></tr></tbody></table>
 
 **판정** : 2 Major 또는 1 Major + 2 Minor / **민감도** >95%, **특이도** 75\~80%
 
@@ -86,7 +80,7 @@ _Ref. The natural history of congestive heart failure: the Framingham study. NEJ
 * **혈액검사** : CBC, 전해질(Ca, Mg), BUN/Cr, FBS/HbA1c, 지질, LFT, 철분(혈청 철·페리틴·TSAT), TSH
 * **Biomarkers** : BNP, NT-proBNP
 
-<table><thead><tr><th width="160">상황</th><th width="200">BNP</th><th>NT-proBNP</th></tr></thead><tbody><tr><td>외래 / 만성 HF 의심</td><td>≥35 pg/mL</td><td>>125 pg/mL</td></tr><tr><td>급성 HF 의심</td><td>≥100 pg/mL</td><td>≥300 pg/mL</td></tr></tbody></table>
+<table><thead><tr><th width="160">상황</th><th width="200">BNP</th><th>NT-proBNP</th></tr></thead><tbody><tr><td>외래 / 만성 HF 의심</td><td>≥35 pg/㎖</td><td>>125 pg/㎖</td></tr><tr><td>급성 HF 의심</td><td>≥100 pg/㎖</td><td>≥300 pg/㎖</td></tr></tbody></table>
 
 _✽연령·성별·신부전·비만·약물에 영향; 비만 시 BNP 위음성 가능_
 
@@ -106,9 +100,9 @@ EF 보존 자체가 심부전 증거가 아니므로 충만압 상승 또는 구
 **HFpEF 진단 단계**
 
 1. **증상·징후** + **LVEF ≥50%**
-2. **BNP 상승** (NT-proBNP >125 pg/mL; 비만 시 위음성 주의)
-3. **구조적 이상** : LA volume index (LAVI) >34 mL/m², LVH (IVSd >11 ㎜)
-4. **이완기 기능 이상** : E/e' >14, e' 측벽 <10 또는 중격 <7 cm/s
+2. **BNP 상승** (NT-proBNP >125 pg/㎖; 비만 시 위음성 주의)
+3. **구조적 이상** : LA volume index (LAVI) >34 ㎖/㎡, LVH (IVSd >11 ㎜)
+4. **이완기 기능 이상** : E/e' >14, e' 측벽 <10 또는 중격 <7 ㎝/s
 5. **필요 시 점수 체계 활용**
 
 <table><thead><tr><th width="160">Score</th><th width="300">구성 요소</th><th>해석</th></tr></thead><tbody><tr><td><strong>H2FPEF score</strong></td><td>비만(BMI>30) 2점, 고혈압 1점, AF 3점, 폐고혈압(PASP>35) 1점, 고령(>60) 1점, 충만압↑(E/e'>9) 1점</td><td>0~1점: HFpEF 낮음; 6~9점: 높음; 중간은 부하 검사 고려</td></tr><tr><td><strong>HFA-PEFF score</strong></td><td>기능적(E/e'·GLS), 형태적(LAVI·LVH), 바이오마커(BNP/NT-proBNP), 운동부하 기준</td><td>≥5점: HFpEF 확진; 2~4점: 운동부하 검사; 0~1점: 비가능성</td></tr></tbody></table>
@@ -120,7 +114,7 @@ graph TD
     A("평가\n· 임상 병력 · 신체검사\n· ECG · 실험실 검사")
     style A fill:#e6f3e6,stroke:#8f8f8f,stroke-width:1px
 
-    B("Natriuretic peptide\n외래: NT-proBNP >125 pg/mL\n          BNP ≥35 pg/mL\n급성:  NT-proBNP ≥300 pg/mL\n          BNP ≥100 pg/mL")
+    B("Natriuretic peptide\n외래: NT-proBNP >125 pg/㎖\n          BNP ≥35 pg/㎖\n급성:  NT-proBNP ≥300 pg/㎖\n          BNP ≥100 pg/㎖")
     style B fill:#fff9e0,stroke:#c8a800,stroke-width:1px
 
     C("Transthoracic Echocardiography\n· 필요시 추가 검사")
@@ -398,7 +392,7 @@ flowchart TD
 
 <p align="center"><strong>Ejection fraction이 감소된 증상성 심부전 환자의 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">① NYHA II–IV. ② LVEF ≤40%. ③ ACEi 불내성 시 ARB. ④ MR antagonist 불내성 시 ARB. ⑤ 최근 6개월 HF 입원 또는 BNP >250/NT-proBNP >500·750 pg/mL. ⑥ BNP ≥150/NT-proBNP ≥600 pg/mL 또는 최근 12개월 HF 입원. ⑦ Enalapril 10 ㎎ bid 등가 용량. ⑧ 최근 1년 HF 입원력. ⑨ QRS ≥130 msec + LBBB(동성 리듬) → CRT 권고. ⑩ QRS ≥130 msec + non-LBBB 또는 AF → CRT 고려.</mark></em></p>
+<p align="center"><em><mark style="color:blue;">① NYHA II–IV. ② LVEF ≤40%. ③ ACEi 불내성 시 ARB. ④ MR antagonist 불내성 시 ARB. ⑤ 최근 6개월 HF 입원 또는 BNP >250/NT-proBNP >500·750 pg/</mark></em>㎖<em><mark style="color:blue;">. ⑥ BNP ≥150/NT-proBNP ≥600 pg/</mark></em>㎖ <em><mark style="color:blue;">또는 최근 12개월 HF 입원. ⑦ Enalapril 10 ㎎ bid 등가 용량. ⑧ 최근 1년 HF 입원력. ⑨ QRS ≥130 msec + LBBB(동성 리듬) → CRT 권고. ⑩ QRS ≥130 msec + non-LBBB 또는 AF → CRT 고려.</mark></em></p>
 
 <p align="center"><em><mark style="color:blue;">Ref. ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. 2016. Fig 7-1.</mark></em></p>
 
@@ -581,10 +575,10 @@ flowchart LR
 
 ### <mark style="color:orange;">EF 감소 HF(또는 급성 심근경색)에서의 Disease-modifying Drugs</mark>
 
-<table><thead><tr><th width="240">Drug</th><th width="160">시작 용량 (㎎)</th><th>목표 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>ACEi</strong></td><td></td><td></td></tr><tr><td>captopril <mark style="color:blue;">[카프릴]</mark></td><td>6.25 tid</td><td>50 tid</td></tr><tr><td>enalapril <mark style="color:blue;">[레니프릴]</mark></td><td>2.5 bid</td><td>10–20 bid</td></tr><tr><td>lisinopril <mark style="color:blue;">[제스트릴]</mark></td><td>2.5–5 qd</td><td>20–40 qd</td></tr><tr><td>perindopril <mark style="color:blue;">[아세틸]</mark></td><td>2 qd</td><td>8–16 qd</td></tr><tr><td>ramipril <mark style="color:blue;">[트리테이스]</mark></td><td>1.25–2.5 qd</td><td>10 qd</td></tr><tr><td>trandolapril</td><td>1 qd</td><td>4 qd</td></tr><tr><td><strong>ARB</strong></td><td></td><td></td></tr><tr><td>candesartan <mark style="color:blue;">[아타칸]</mark></td><td>4–8 qd</td><td>32 qd</td></tr><tr><td>losartan <mark style="color:blue;">[코자]</mark></td><td>25–50 qd</td><td>50–150 qd</td></tr><tr><td>valsartan <mark style="color:blue;">[디오반]</mark></td><td>20–40 bid</td><td>160 bid</td></tr><tr><td><strong>ARNi</strong></td><td></td><td></td></tr><tr><td>sacubitril/valsartan <mark style="color:blue;">[엔트레스토]</mark></td><td>24/26 bid 또는 49/51 bid</td><td>97/103 bid</td></tr><tr><td><strong>I</strong><sub><strong>f</strong></sub><strong> Channel inhibitor</strong></td><td></td><td></td></tr><tr><td>ivabradine <mark style="color:blue;">[프로코라란]</mark></td><td>5 bid</td><td>7.5 bid</td></tr><tr><td><strong>Beta-blockers</strong></td><td></td><td></td></tr><tr><td>bisoprolol <mark style="color:blue;">[콩코르]</mark></td><td>1.25 qd</td><td>10 qd</td></tr><tr><td>carvedilol <mark style="color:blue;">[딜라트렌]</mark></td><td>3.125 bid</td><td>25–50 bid</td></tr><tr><td>carvedilol CR</td><td>10 qd</td><td>80 qd</td></tr><tr><td>metoprolol succinate <mark style="color:blue;">[푸로롤서방]</mark></td><td>12.5–25 qd</td><td>200 qd</td></tr><tr><td>nebivolol</td><td>1.25 qd</td><td>10 qd</td></tr><tr><td><strong>MRA</strong></td><td></td><td></td></tr><tr><td>spironolactone <mark style="color:blue;">[알닥톤]</mark></td><td>12.5–25 qd</td><td>25–50 qd</td></tr><tr><td>eplerenone</td><td>25 qd</td><td>50 qd</td></tr><tr><td><strong>SGLT2i</strong></td><td></td><td></td></tr><tr><td>dapagliflozin <mark style="color:blue;">[포시가]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td>empagliflozin <mark style="color:blue;">[자디앙]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td><strong>Soluble guanylate cyclase stimulator</strong></td><td></td><td></td></tr><tr><td>vericiguat <mark style="color:blue;">[베르쿠보]</mark></td><td>2.5 qd</td><td>10 qd</td></tr><tr><td>digoxin <mark style="color:blue;">[디곡신]</mark></td><td>0.125–0.25 qd</td><td>목표 혈중 농도 0.5–0.9 ng/mL</td></tr><tr><td><strong>Isosorbide dinitrate &#x26; Hydralazine</strong></td><td></td><td></td></tr><tr><td>isosorbide dinitrate <mark style="color:blue;">[이소켓]</mark></td><td>20 tid</td><td>40 tid (120 ㎎/d)</td></tr><tr><td>hydralazine <mark style="color:blue;">[히드랄라진]</mark></td><td>25 tid</td><td>75 tid (225 ㎎/d)</td></tr></tbody></table>
+<table><thead><tr><th width="240">Drug</th><th width="160">시작 용량 (㎎)</th><th>목표 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>ACEi</strong></td><td></td><td></td></tr><tr><td>captopril <mark style="color:blue;">[카프릴]</mark></td><td>6.25 tid</td><td>50 tid</td></tr><tr><td>enalapril <mark style="color:blue;">[레니프릴]</mark></td><td>2.5 bid</td><td>10–20 bid</td></tr><tr><td>lisinopril <mark style="color:blue;">[제스트릴]</mark></td><td>2.5–5 qd</td><td>20–40 qd</td></tr><tr><td>perindopril <mark style="color:blue;">[아세틸]</mark></td><td>2 qd</td><td>8–16 qd</td></tr><tr><td>ramipril <mark style="color:blue;">[트리테이스]</mark></td><td>1.25–2.5 qd</td><td>10 qd</td></tr><tr><td>trandolapril</td><td>1 qd</td><td>4 qd</td></tr><tr><td><strong>ARB</strong></td><td></td><td></td></tr><tr><td>candesartan <mark style="color:blue;">[아타칸]</mark></td><td>4–8 qd</td><td>32 qd</td></tr><tr><td>losartan <mark style="color:blue;">[코자]</mark></td><td>25–50 qd</td><td>50–150 qd</td></tr><tr><td>valsartan <mark style="color:blue;">[디오반]</mark></td><td>20–40 bid</td><td>160 bid</td></tr><tr><td><strong>ARNi</strong></td><td></td><td></td></tr><tr><td>sacubitril/valsartan <mark style="color:blue;">[엔트레스토]</mark></td><td>24/26 bid 또는 49/51 bid</td><td>97/103 bid</td></tr><tr><td><strong>I</strong><sub><strong>f</strong></sub><strong> Channel inhibitor</strong></td><td></td><td></td></tr><tr><td>ivabradine <mark style="color:blue;">[프로코라란]</mark></td><td>5 bid</td><td>7.5 bid</td></tr><tr><td><strong>Beta-blockers</strong></td><td></td><td></td></tr><tr><td>bisoprolol <mark style="color:blue;">[콩코르]</mark></td><td>1.25 qd</td><td>10 qd</td></tr><tr><td>carvedilol <mark style="color:blue;">[딜라트렌]</mark></td><td>3.125 bid</td><td>25–50 bid</td></tr><tr><td>carvedilol CR</td><td>10 qd</td><td>80 qd</td></tr><tr><td>metoprolol succinate <mark style="color:blue;">[푸로롤서방]</mark></td><td>12.5–25 qd</td><td>200 qd</td></tr><tr><td>nebivolol</td><td>1.25 qd</td><td>10 qd</td></tr><tr><td><strong>MRA</strong></td><td></td><td></td></tr><tr><td>spironolactone <mark style="color:blue;">[알닥톤]</mark></td><td>12.5–25 qd</td><td>25–50 qd</td></tr><tr><td>eplerenone</td><td>25 qd</td><td>50 qd</td></tr><tr><td><strong>SGLT2i</strong></td><td></td><td></td></tr><tr><td>dapagliflozin <mark style="color:blue;">[포시가]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td>empagliflozin <mark style="color:blue;">[자디앙]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td><strong>Soluble guanylate cyclase stimulator</strong></td><td></td><td></td></tr><tr><td>vericiguat <mark style="color:blue;">[베르쿠보]</mark></td><td>2.5 qd</td><td>10 qd</td></tr><tr><td>digoxin <mark style="color:blue;">[디곡신]</mark></td><td>0.125–0.25 qd</td><td>목표 혈중 농도 0.5–0.9 ng/㎖</td></tr><tr><td><strong>Isosorbide dinitrate &#x26; Hydralazine</strong></td><td></td><td></td></tr><tr><td>isosorbide dinitrate <mark style="color:blue;">[이소켓]</mark></td><td>20 tid</td><td>40 tid (120 ㎎/d)</td></tr><tr><td>hydralazine <mark style="color:blue;">[히드랄라진]</mark></td><td>25 tid</td><td>75 tid (225 ㎎/d)</td></tr></tbody></table>
 
 _✽단기 제제 제외; serum digoxin 농도 유지_\
-&#xNAN;_&#x52;ef. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Table 14._
+\&#xNAN;_Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Table 14._
 
 ### <mark style="color:orange;">약제별 titration 체크리스트</mark>
 
@@ -654,7 +648,7 @@ _✽단기 제제 제외; serum digoxin 농도 유지_\
 * **대상** : 이뇨제/ACEi에도 증상 잔존; 심방세동 심박수 조절 필요 시 <mark style="color:blue;">\[디고신]</mark>
 * **용법** : 0.125 ㎎/d으로 시작; 신기능 장애·고령·낮은 lean body mass 시 감량; amiodarone·quinidine·verapamil 병용 시 농도 증가
 * **부작용** : 구역, 식욕 부진, 혼란, 시각 이상, 부정맥; 저칼륨혈증·신기능 장애 시 독성 증가
-* ✽**여성에서 독성 위험이 더 높음** - 혈중 농도를 낮은 범위(0.5\~0.8 ng/mL)로 유지하는 것이 바람직함
+* ✽**여성에서 독성 위험이 더 높음** - 혈중 농도를 낮은 범위(0.5\~0.8 ng/㎖)로 유지하는 것이 바람직함
 * **모니터링** : 마지막 투여 6시간 이후 측정
 
 #### <mark style="color:$primary;">항응고제</mark>
@@ -776,7 +770,7 @@ I50.9 상세불명의 심부전
 > 라식스           20 ㎎/T  1T  qd
 > ```
 >
-> _✽AF 동반 시 digoxin 혈중 농도 모니터링 (0.5\~0.9 ng/mL; 여성은 0.5\~0.8 ng/mL 권장). NOAC은 신기능·체중 기준 감량 확인._
+> _✽AF 동반 시 digoxin 혈중 농도 모니터링 (0.5\~0.9 ng/_㎖_; 여성은 0.5\~0.8 ng/_㎖ _권장). NOAC은 신기능·체중 기준 감량 확인._
 
 ***
 
