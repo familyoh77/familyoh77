@@ -118,33 +118,18 @@ class B,C,D lightGreen
 
 ```mermaid
 graph TD
-    A("평가\n· 임상 병력 · 신체검사\n· ECG · 실험실 검사")
-    style A fill:#e6f3e6,stroke:#8f8f8f,stroke-width:1px
-
-    B("Natriuretic peptide\n외래: NT-proBNP >125 pg/㎖\n          BNP ≥35 pg/㎖\n급성:  NT-proBNP ≥300 pg/㎖\n          BNP ≥100 pg/㎖")
-    style B fill:#fff9e0,stroke:#c8a800,stroke-width:1px
-
-    C("Transthoracic Echocardiography\n· 필요시 추가 검사")
-    style C fill:#e6f3e6,stroke:#8f8f8f,stroke-width:1px
-
-    D("HF 진단 확인\n· 원인 확인 및 분류")
-    style D fill:#fee2e2,stroke:#c04040,stroke-width:1px
-
-    G("HFrEF\nLVEF ≤ 40%")
-    style G fill:#f8bcbc,stroke:#c04040,stroke-width:1.5px
-
-    F("HFmrEF\nLVEF 41%~49%")
-    style F fill:#fcdede,stroke:#c04040,stroke-width:1px
-
-    E("HFpEF\nLVEF ≥ 50%")
-    style E fill:#fee8e8,stroke:#c04040,stroke-width:1px
-
-    HFPEF_DIAG("HFpEF 추가 확인\n① 구조 이상: LAVI>34, LVH\n② E/e' >14\n③ H2FPEF or HFA-PEFF score")
-    style HFPEF_DIAG fill:#fef9c3,stroke:#c8a800,stroke-width:1px
-
+    A("<u>평가</u>\n· 임상 병력 · 신체검사\n· ECG · 실험실 검사")
+    B("<u>Natriuretic peptide</u>\n· 외래: NT-proBNP >125 pg/㎖\nBNP ≥35 pg/㎖\n· 급성:  NT-proBNP ≥300 pg/㎖\nBNP ≥100 pg/㎖")
+    C("<u>Transthoracic Echocardiography</u>\n· 필요시 추가 검사")
+    D("<u>HF 진단 확인</u>\n· 원인 확인 및 분류")
+    G("<u>HFrEF</u>\nLVEF ≤ 40%")
+    F("<u>HFmrEF</u>\nLVEF 41%~49%")
+    E("<u>HFpEF</u>\nLVEF ≥ 50%")
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class G,F,E pink
+    HFPEF_DIAG("<u>HFpEF 추가 확인</u>\n① 구조 이상: LAVI>34, LVH\n② E/e' >14\n③ H2FPEF or HFA-PEFF score")
     H("· 유발 인자 평가\n· 치료 시작")
-    style H fill:#e0f2fe,stroke:#3b82f6,stroke-width:1px
-
+style H fill:#d0e8ff,stroke:#1a6abf
     A --> B
     A --> C
     B --> C
