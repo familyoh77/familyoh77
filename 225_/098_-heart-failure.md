@@ -64,16 +64,6 @@ _✽심부전 증상 : 피로, 두근거림, 호흡 곤란_
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">Framingham 진단 기준</mark>
-
-* 심부전 진단은 임상적 판단이 우선이며, Framingham 기준은 보조적 도구로 활용; 증상·징후·검사 소견을 종합하여 판단하고, 단일 기준에 의존하지 않음
-
-<table data-search="false"><thead><tr><th width="319">Major criteria</th><th>Minor criteria</th></tr></thead><tbody><tr><td>발작성 야간 호흡 곤란</td><td>양측 발목 부종</td></tr><tr><td>경정맥 팽창</td><td>야간 기침</td></tr><tr><td>폐수포음</td><td>보통의 활동 중 호흡 곤란</td></tr><tr><td>심 비대 (흉부 X선상)</td><td>흉막 삼출</td></tr><tr><td>급성 폐부종</td><td>간 비대</td></tr><tr><td>S3 gallop</td><td>빈맥 (HR >120회/분)</td></tr><tr><td>Hepatojugular reflux</td><td>-</td></tr><tr><td>치료 반응으로 5일간 >4.5 ㎏ 체중 감소</td><td>-</td></tr></tbody></table>
-
-* 판정 : '2 Major' 또는 '1 Major + 2 Minor' / 민감도 >95%, 특이도 75\~80%
-
-_Ref. The natural history of congestive heart failure: the Framingham study. NEJM 1971;285(26)_
-
 ### <mark style="color:orange;">환자 초기 평가</mark>
 
 * 문진, 진찰, 신장/체중(BMI), 기립성 혈압 변화; 심근병증 환자에서 3대 가족력 청취
@@ -88,21 +78,41 @@ _Ref. The natural history of congestive heart failure: the Framingham study. NEJ
 * 선택적 검사 : 심도자검사, 경식도초음파, 심장 MRI(심근염·침윤성 질환 의심 시), 유전자 검사
 * 6분보행검사 : ≥350 m 기능 제한 없음, <150 m 심한 제한
 
-### <mark style="color:orange;">HFpEF 진단 - H2FPEF / HFA-PEFF Score</mark>
+### <mark style="color:orange;">Framingham 진단 기준</mark>
+
+* 심부전 진단은 임상적 판단이 우선이며, Framingham 기준은 보조적 도구로 활용; 증상·징후·검사 소견을 종합하여 판단하고, 단일 기준에 의존하지 않음
+
+<table data-search="false"><thead><tr><th width="319">Major criteria</th><th>Minor criteria</th></tr></thead><tbody><tr><td>발작성 야간 호흡 곤란</td><td>양측 발목 부종</td></tr><tr><td>경정맥 팽창</td><td>야간 기침</td></tr><tr><td>폐수포음</td><td>보통의 활동 중 호흡 곤란</td></tr><tr><td>심 비대 (흉부 X선상)</td><td>흉막 삼출</td></tr><tr><td>급성 폐부종</td><td>간 비대</td></tr><tr><td>S3 gallop</td><td>빈맥 (HR >120회/분)</td></tr><tr><td>Hepatojugular reflux</td><td>-</td></tr><tr><td>치료 반응으로 5일간 >4.5 ㎏ 체중 감소</td><td>-</td></tr></tbody></table>
+
+* 판정 : '2 Major' 또는 '1 Major + 2 Minor' / 민감도 >95%, 특이도 75\~80%
+
+_Ref. The natural history of congestive heart failure: the Framingham study. NEJM 1971;285(26)_
+
+### <mark style="color:orange;">HFpEF 진단</mark>
 
 {% hint style="info" %}
 **HFpEF는 LVEF ≥50%와 증상만으로 진단하지 않음;** EF 보존 자체가 심부전 증거가 아니므로 충만압 상승 또는 구조적 이상의 객관적 증거가 필요. ESC HFA-PEFF 및 H2FPEF 점수가 보조 진단으로 권고됨
 {% endhint %}
 
-**HFpEF 진단 단계**
+<mark style="color:cyan;">**진단 단계**</mark>
 
-1. **증상·징후** + **LVEF ≥50%**
-2. **BNP 상승** (NT-proBNP >125 pg/㎖; 비만 시 위음성 주의)
-3. **구조적 이상** : LA volume index (LAVI) >34 ㎖/㎡, LVH (IVSd >11 ㎜)
-4. **이완기 기능 이상** : E/e' >14, e' 측벽 <10 또는 중격 <7 ㎝/s
-5. **필요 시 점수 체계 활용**
+```mermaid
+flowchart TD
+    A["증상·징후 & LVEF ≥50%"] --> B["<u>BNP 상승</u>\nNT-proBNP >125 pg/㎖\n(비만 시 위음성 주의)"]
+    A --> C["<u>구조적 이상</u>\nLAVI >34 ㎖/㎡\nLVH (IVSd >11 ㎜)"]
+    A --> D["<u>이완기 기능 이상</u>\n• E/e' >14\n• e' 측벽 <10 또는 중격 <7 ㎝/s"]
+    B --> E["<u>필요 시 점수 체계 활용</u>\n(HFA-PEFF, H₂FPEF)"]
+    C --> E
+    D --> E
 
-<table><thead><tr><th width="160">Score</th><th width="300">구성 요소</th><th>해석</th></tr></thead><tbody><tr><td><strong>H2FPEF score</strong></td><td>비만(BMI>30) 2점, 고혈압 1점, AF 3점, 폐고혈압(PASP>35) 1점, 고령(>60) 1점, 충만압↑(E/e'>9) 1점</td><td>0~1점: HFpEF 낮음; 6~9점: 높음; 중간은 부하 검사 고려</td></tr><tr><td><strong>HFA-PEFF score</strong></td><td>기능적(E/e'·GLS), 형태적(LAVI·LVH), 바이오마커(BNP/NT-proBNP), 운동부하 기준</td><td>≥5점: HFpEF 확진; 2~4점: 운동부하 검사; 0~1점: 비가능성</td></tr></tbody></table>
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class B,C,D lightGreen
+```
+
+<mark style="color:cyan;">H2FPEF / HFA-PEFF Score</mark>
+
+<table><thead><tr><th width="160">Score</th><th width="300">구성 요소</th><th>해석</th></tr></thead><tbody><tr><td><a href="https://www.cvdapp.com/calculator/hfa-peff_and_h2fpef_score"><strong>H2FPEF score</strong></a></td><td>BMI >30 kg/m² (2점), 항고혈압제 ≥2종 복용 (1점), paroxysmal 또는 persistent AF (3점), PASP >35 mmHg (1점), 연령 >60세 (1점), E/e' >9 (1점)</td><td>0~1점: HFpEF 낮음; 6~9점: 높음; 중간은 부하 검사 고려</td></tr><tr><td><a href="https://www.cvdapp.com/calculator/hfa-peff_and_h2fpef_score"><strong>HFA-PEFF score</strong></a></td><td>기능적(E/e'·GLS), 형태적(LAVI·LVH), 바이오마커(BNP/NT-proBNP), 운동부하 기준</td><td>≥5점: HFpEF 확진; 2~4점: 운동부하 검사; 0~1점: 비가능성</td></tr></tbody></table>
 
 ***
 
