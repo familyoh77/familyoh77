@@ -9,12 +9,12 @@
 
 #### <mark style="color:$primary;">EF 기반 분류</mark>
 
+* HFpEF (HF with preserved EF) : LVEF ≥50%
+  * 심실 이완 장애·충만압 증가(고혈압·비만·당뇨·노화) → 운동 내성 저하 및 폐정맥 울혈; 수축력은 보존되나 충만 이상
+* HFmrEF (HF with mildly reduced EF) : LVEF 41\~49%
 * HFrEF (HF with reduced ejection fraction) : LVEF ≤40%
   * 심근 수축력 저하(MI, 확장성·허혈성 심근병증) → CO 감소 → 신경호르몬 과활성화(RAAS, 교감신경) → 심실 리모델링 악화
 * HFimpEF (HF with improved EF) : 이전 LVEF ≤40% → 추적 측정 LVEF >40%
-* HFmrEF (HF with mildly reduced EF) : LVEF 41\~49%
-* HFpEF (HF with preserved EF) : LVEF ≥50%
-  * 심실 이완 장애·충만압 증가(고혈압·비만·당뇨·노화) → 운동 내성 저하 및 폐정맥 울혈; 수축력은 보존되나 충만 이상
 
 #### <mark style="color:$primary;">기능적 분류 (NYHA Functional Classification)</mark>
 
@@ -119,14 +119,18 @@ class B,C,D lightGreen
 ```mermaid
 graph TD
     A("<u>평가</u>\n· 임상 병력 · 신체검사\n· ECG · 실험실 검사")
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     B("<u>Natriuretic peptide</u>\n· 외래: NT-proBNP >125 pg/㎖\nBNP ≥35 pg/㎖\n· 급성:  NT-proBNP ≥300 pg/㎖\nBNP ≥100 pg/㎖")
     C("<u>Transthoracic Echocardiography</u>\n· 필요시 추가 검사")
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class B,C lightGreen
     D("<u>HF 진단 확인</u>\n· 원인 확인 및 분류")
     G("<u>HFrEF</u>\nLVEF ≤ 40%")
     F("<u>HFmrEF</u>\nLVEF 41%~49%")
     E("<u>HFpEF</u>\nLVEF ≥ 50%")
-classDef pink fill:#fde8f0,stroke:#e91e8c
-class G,F,E pink
+style E fill:#fef4f8,stroke:#f06baf
+style F fill:#fcd4e6,stroke:#e0448e
+style G fill:#f8a0c0,stroke:#d01f5a
     HFPEF_DIAG("<u>HFpEF 추가 확인</u>\n① 구조 이상: LAVI>34, LVH\n② E/e' >14\n③ H2FPEF or HFA-PEFF score")
     H("· 유발 인자 평가\n· 치료 시작")
 style H fill:#d0e8ff,stroke:#1a6abf
@@ -145,15 +149,15 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 <p align="center"><strong>HF 및 EF 기반 분류를 위한 진단 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Fig 4. / ESC HFA-PEFF algorithm 2019.</mark></em></p>
-
 ***
 
 ## <mark style="background-color:yellow;">Management</mark>
 
 ### <mark style="color:orange;">HF phenotype별 약물 치료 요약</mark>
 
-<table><thead><tr><th width="130">HF phenotype</th><th width="130">LVEF</th><th>우선 권고 약제</th><th>근거</th></tr></thead><tbody><tr><td><strong>HFrEF</strong></td><td>≤40%</td><td>ARNi/ACEi + β-차단제 + MRA + SGLT2i (4제 병용)</td><td>Class I (모두)</td></tr><tr><td><strong>HFmrEF</strong></td><td>41~49%</td><td>SGLT2i 우선(Class I); ACEi/ARB/ARNi · β-차단제 · MRA 모두 Class IIb - 단, 증상이 있는 경우 HFrEF에 준하여 적극 적용 권고 (ESC 2023)</td><td>SGLT2i Class I; 나머지 Class IIb</td></tr><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td>SGLT2i 우선; 원인 질환(고혈압·AF·비만) 집중 관리; 체액 과부하 시 이뇨제</td><td>SGLT2i Class I (ESC 2023)</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 ≤40%→>40%</td><td>GDMT 전면 유지 - 절대 중단 금지; EF 회복 후에도 재악화 위험 높음 → 추적 심초음파 및 장기 관리 필수</td><td>Class I</td></tr></tbody></table>
+
+
+<table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td>SGLT2i 우선 (ESC 2023); 원인 질환(고혈압·AF·비만) 집중 관리; 체액 과부하 시 이뇨제</td></tr><tr><td><strong>HFmrEF</strong></td><td>41~49%</td><td>SGLT2i 우선; ACEi/ARB/ARNi · β-차단제 · MRA - 증상 있는 경우 HFrEF에 준하여 적극 적용 권고 (ESC 2023)</td></tr><tr><td><strong>HFrEF</strong></td><td>≤40%</td><td>ARNi/ACEi + β-차단제 + MRA + SGLT2i 4제 병용</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 ≤40% <br>→ >40%</td><td>GDMT 전면 유지 — 절대 중단 금지; EF 회복 후에도 재악화 위험 높음 → 추적 심초음파 및 장기 관리 필수</td></tr></tbody></table>
 
 ### <mark style="color:orange;">급성 심부전 초기 관리</mark>
 
@@ -162,34 +166,29 @@ style H fill:#d0e8ff,stroke:#1a6abf
 ```mermaid
 flowchart TD
     START(["급성 심부전 의심 환자"])
-    style START fill:#e8e8f0,stroke:#9090b0,stroke-width:1.5px
-
-    subgraph URGENT["Urgent phase - 첫 번째 진료/평가"]
+    style START fill:#eeeeee,stroke:#888888,stroke-width:2px
+    subgraph URGENT["<b>Urgent phase - 첫 번째 진료/평가</b>"]
         direction TB
-        Q1{"1. Cardiogenic shock?"}
-        style Q1 fill:#fff9e0,stroke:#c8a800,stroke-width:1px
+        Q1["1. Cardiogenic shock?"]
         CIRC["Circulatory support\n· 약물\n· 기계적 장치"]
-        style CIRC fill:#fde8e8,stroke:#cc4444,stroke-width:1px
-        Q2{"2. Respiratory failure?"}
-        style Q2 fill:#fff9e0,stroke:#c8a800,stroke-width:1px
+        Q2["2. Respiratory failure?"]
         VENT["Ventilatory support\n· 산소\n· 비침습적 양압환기 (CPAP, BiPAP)\n· 기계 환기"]
-        style VENT fill:#fde8e8,stroke:#cc4444,stroke-width:1px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class Q1,Q2 lightGreen
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class CIRC,VENT sky
     end
-
     ICU["즉각적인 안정화 및\nICU / CCU로 환자 이동"]
     style ICU fill:#fbb,stroke:#c00,stroke-width:2px
-
-    subgraph IMMEDIATE["Immediate phase - 첫 평가 후 60~120분 이내"]
+    subgraph IMMEDIATE["<b>Immediate phase - 첫 평가 후 60~120분 이내</b>"]
         direction TB
-        CAUSE["급성 원인 평가 - CHAMP\n① acute Coronary syndrome?\n② Hypertension emergency?\n③ Arrhythmia?\n④ acute Mechanical cause?*\n⑤ Pulmonary embolism?"]
-        style CAUSE fill:#fff9e0,stroke:#c8a800,stroke-width:1px
+        CAUSE["급성 원인 평가 - CHAMP\n①acute Coronary syndrome?\n②Hypertension emergency?\n③Arrhythmia?\n④acute Mechanical cause?*\n⑤Pulmonary embolism?"]
+
         TREAT["원인에 대한 치료를 즉각 시행"]
-        style TREAT fill:#e8f4e8,stroke:#449944,stroke-width:1px
+        style TREAT fill:#e3f2ff,stroke:#2196f3
     end
-
-    WORKUP(["급성 심부전 확진을 위한 진단 작업,\n적절한 치료 선택을 위한 임상 평가"])
-    style WORKUP fill:#e8e8f0,stroke:#9090b0,stroke-width:1.5px
-
+    WORKUP["급성 심부전 확진을 위한 \n진단 작업,\n적절한 치료 선택을 위한 \n임상 평가"]
+    style WORKUP fill:#d0e8ff,stroke:#1a6abf
     START --> Q1
     Q1 -->|yes| CIRC
     Q1 -->|no| Q2
@@ -205,9 +204,52 @@ flowchart TD
 
 <p align="center"><strong>급성 심부전 환자의 초기 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">*Acute mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR), chest trauma, acute valve incompetence (endocarditis), aortic dissection</mark></em></p>
+<p align="center"><em><mark style="color:$info;">*Acute mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR), chest trauma, acute valve incompetence (endocarditis), aortic dissection</mark></em></p>
 
-<p align="center"><em><mark style="color:blue;">Ref. ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. 2016. Fig 12-2.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. 2016. Fig 12-2.</mark></em></p>
+
+```mermaid
+flowchart TD
+    START(["급성 심부전 의심 환자"])
+    style START fill:#eeeeee,stroke:#888888,stroke-width:2px
+
+    subgraph URGENT["<b>Urgent phase — 첫 번째 진료/평가"]
+        direction TB
+        Q1["Cardiogenic shock\nand/or Respiratory failure?"]
+        classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+        class Q1 lightGreen
+
+        SUPPORT["즉각 처치\n· Circulatory support (약물·기계적 장치)\n· Ventilatory support (산소·CPAP/BiPAP·기계 환기)"]
+        classDef sky fill:#e3f2ff,stroke:#2196f3
+        class SUPPORT sky
+    end
+
+    ICU["즉각적인 안정화 및\nICU / CCU로 환자 이동"]
+    style ICU fill:#fbb,stroke:#c00,stroke-width:2px
+
+    subgraph IMMEDIATE["<b>Immediate phase — 첫 평가 후 60~120분 이내"]
+        direction TB
+        CAUSE["급성 원인 평가 — CHAMPIT\n①acute Coronary syndrome?\n②Hypertension emergency?\n③Arrhythmia?\n④acute Mechanical cause?*\n⑤Pulmonary embolism?\n⑥Infections?\n⑦cardiac Tamponade?"]
+        TREAT["원인에 대한 치료를 즉각 시행"]
+        style TREAT fill:#e3f2ff,stroke:#2196f3
+    end
+
+    WORKUP["급성 심부전 확진을 위한\n진단 작업,\n적절한 치료 선택을 위한\n임상 평가"]
+    style WORKUP fill:#d0e8ff,stroke:#1a6abf
+
+    START --> Q1
+    Q1 -->|yes| SUPPORT
+    SUPPORT --> ICU
+    Q1 -->|no| IMMEDIATE
+    ICU --> IMMEDIATE
+    CAUSE -->|yes| TREAT
+    CAUSE -->|no| WORKUP
+    TREAT --> WORKUP
+
+```
+
+_\*Acute mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR),_\
+_chest trauma, acute valve incompetence (endocarditis), aortic dissection_
 
 ***
 
