@@ -149,6 +149,8 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 <p align="center"><strong>HF 및 EF 기반 분류를 위한 진단 알고리듬</strong></p>
 
+<p align="center"><em><mark style="color:$info;">Ref. AHA/ACC/HFSA Guideline for the management of heart failure. 2022. Fig 4.</mark></em></p>
+
 ***
 
 ## <mark style="background-color:yellow;">Management</mark>
@@ -161,6 +163,19 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 ### <mark style="color:orange;">급성 심부전 초기 관리</mark>
 
+* CHAMP 감별(초기 60\~120분 내 배제) + 임상 프로파일
+
+<mark style="color:cyan;">**CHAMP 감별**</mark>
+
+<table><thead><tr><th width="230">원인</th><th>주요 감별 방법</th></tr></thead><tbody><tr><td>acute <strong>C</strong>oronary syndrome</td><td>심전도, 트로포닌</td></tr><tr><td><strong>H</strong>ypertension emergency</td><td>혈압 측정</td></tr><tr><td><strong>A</strong>rrhythmia</td><td>심전도, 맥박</td></tr><tr><td>acute <strong>M</strong>echanical cause*</td><td>즉각 심초음파 (드물지만 치명적; 진단 지연 시 사망률 급등)</td></tr><tr><td><strong>P</strong>ulmonary embolism</td><td>D-dimer, CT-PA</td></tr></tbody></table>
+
+_\*Acute Mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR),_\
+_chest trauma, acute valve incompetence (endocarditis), aortic dissection_
+
+<mark style="color:cyan;">**임상 프로파일별 초기 치료 (Warm/Cold-Wet/Dry 분류)**</mark>
+
+<table><thead><tr><th width="126.84210205078125">Profile</th><th width="174.73681640625">특징</th><th>초기 치료 방향</th></tr></thead><tbody><tr><td><strong>Warm &#x26; Wet</strong></td><td>충분한 관류 + 울혈(+)</td><td>Loop diuretic ± vasodilator (가장 흔한 형태)</td></tr><tr><td><strong>Cold &#x26; Wet</strong></td><td>저관류 + 울혈(+)</td><td>Inotrope ± vasopressor → 안정 후 이뇨제; 기계적 보조 고려</td></tr><tr><td><strong>Warm &#x26; Dry</strong></td><td>충분한 관류 + 울혈(-)</td><td>유지 치료; 약물 최적화</td></tr><tr><td><strong>Cold &#x26; Dry</strong></td><td>저관류 + 울혈(-)</td><td>드물지만가장 위중;  Fluid challenge 신중히 고려. 기저 원인(tamponade·RV failure 등) 감별 </td></tr></tbody></table>
+
 ```mermaid
 flowchart TD
     START(["급성 심부전 의심 환자"])
@@ -168,10 +183,13 @@ flowchart TD
 
     subgraph URGENT["<b>Urgent phase — 첫 번째 진료/평가"]
         direction TB
-        Q1["Cardiogenic shock\nand/or Respiratory failure?"]
-        SUPPORT["즉각 처치\n· Circulatory support (약물·기계적 장치)\n· Ventilatory support (산소·CPAP/BiPAP·기계 환기)"]
+        Q1["Cardiogenic shock?"]
+        Q2["Respiratory failure?"]
+        Q1S["Circulatory support (약물·기계적 장치)"]
+        Q2S["Ventilatory support (산소·CPAP/BiPAP·기계 환기)"]
         classDef sky fill:#e3f2ff,stroke:#2196f3
-        class SUPPORT sky
+        class Q1S,Q2S sky
+
     end
 
     ICU["즉각적인 안정화 및\nICU / CCU로 환자 이동"]
@@ -188,9 +206,12 @@ flowchart TD
     style WORKUP fill:#d0e8ff,stroke:#1a6abf
 
     START --> Q1
-    Q1 -->|yes| SUPPORT
-    SUPPORT --> ICU
-    Q1 -->|no| IMMEDIATE
+    Q1 -->|yes| Q1S
+    Q1 -->|no| Q2
+    Q2 -->|yes| Q2S
+    Q1S --> ICU
+    Q2S --> ICU
+    Q2 -->|no| IMMEDIATE
     ICU --> IMMEDIATE
     CAUSE -->|yes| TREAT
     CAUSE -->|no| WORKUP
@@ -198,46 +219,39 @@ flowchart TD
 
 ```
 
-_\*Acute Mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR),_\
-_chest trauma, acute valve incompetence (endocarditis), aortic dissection_
-
 <p align="center"><strong>급성 심부전 환자의 초기 관리 알고리듬</strong></p>
 
-<table><thead><tr><th width="230">원인</th><th>주요 감별 방법</th></tr></thead><tbody><tr><td>acute <strong>C</strong>oronary syndrome</td><td>심전도, 트로포닌</td></tr><tr><td><strong>H</strong>ypertension emergency</td><td>혈압 측정</td></tr><tr><td><strong>A</strong>rrhythmia</td><td>심전도, 맥박</td></tr><tr><td>acute <strong>M</strong>echanical cause</td><td>즉각 심초음파 (드물지만 치명적; 진단 지연 시 사망률 급등)</td></tr><tr><td><strong>P</strong>ulmonary embolism</td><td>D-dimer, CT-PA</td></tr></tbody></table>
+<p align="center"><em><mark style="color:$info;">Ref. ESC guidelines for the diagnosis and treatment of acute and chronic heart failure. 2021. Fig 12.</mark></em></p>
 
 ***
-
-<mark style="color:cyan;">**급성 심부전 응급 처치**</mark>
-
-* CHAMP 감별(초기 60\~120분 내 배제) + 임상 프로파일
-
-**임상 프로파일별 초기 치료 (Warm/Cold-Wet/Dry 분류)**
-
-<table><thead><tr><th width="126.84210205078125">Profile</th><th width="174.73681640625">특징</th><th>초기 치료 방향</th></tr></thead><tbody><tr><td><strong>Warm &#x26; Wet</strong></td><td>충분한 관류 + 울혈(+)</td><td>Loop diuretic ± vasodilator (가장 흔한 형태)</td></tr><tr><td><strong>Cold &#x26; Wet</strong></td><td>저관류 + 울혈(+)</td><td>Inotrope ± vasopressor → 안정 후 이뇨제; 기계적 보조 고려</td></tr><tr><td><strong>Warm &#x26; Dry</strong></td><td>충분한 관류 + 울혈(-)</td><td>유지 치료; 약물 최적화</td></tr><tr><td><strong>Cold &#x26; Dry</strong></td><td>저관류 + 울혈(-)</td><td>드물지만가장 위중;  Fluid challenge 신중히 고려. 기저 원인(tamponade·RV failure 등) 감별 </td></tr></tbody></table>
 
 ### <mark style="color:orange;">ACCF/AHA 분류 및 치료 전략 (AHA/ACC/HFSA 2022)</mark>
 
 #### <mark style="color:$primary;">Stage A : HF 위험군 (Pre-HF 이전)</mark>
 
 * HF 위험 인자가 있으나 증상·구조적 심질환·비정상 biomarker 없음
-* **주요 위험 인자** : 고혈압, T2DM, CVD, 비만 **(BMI >30)**, **CKD**, **AF**, cardiotoxin 노출, 유전성 심근병증 가족력
-* **관리**
-  1. 고혈압 : 적절한 혈압 조절 (Class I)
-  2. **SGLT2i** : T2DM + CVD 또는 심혈관 고위험군 (Class I); T2DM + CKD (Class I)
-  3. 규칙적인 신체 활동, 정상 체중 유지, 건강한 식습관, 흡연 회피
-  4. HF 발병 위험 환자에서 natriuretic peptide 선별 검사 고려
-  5. 다변수 Risk score 평가 고려 (예: Framingham HF risk score, PCP-HF)
+* 주요 위험 인자 : 고혈압, T2DM, CVD, 비만 (BMI >30), CKD, AF, cardiotoxin 노출, 유전성 심근병증 가족력
+
+**관리**
+
+1. 고혈압 : 적절한 혈압 조절&#x20;
+2. SGLT2i : T2DM + CVD 또는 심혈관 고위험군; T2DM + CKD
+3. 규칙적인 신체 활동, 정상 체중 유지, 건강한 식습관, 흡연 회피
+4. HF 발병 위험 환자에서 natriuretic peptide 선별 검사 고려
+5. 다변수 Risk score 평가 고려 (예: Framingham HF risk score, PCP-HF)
 
 #### <mark style="color:$primary;">Stage B : Pre-HF</mark>
 
 * HF 증상·징후 없으나 구조적 심질환, filling pressure 증가 증거, 또는 위험 인자 + NP 상승·troponin 지속 상승 중 하나 존재
-* **관리**
-  1. **ACEi** : LVEF ≤40% (Class I)
-  2. **ARB** : ACEi 불내성 + recent MI & LVEF ≤40% (Class I)
-  3. **Beta-blocker** : MI/ACS 병력 + LVEF ≤40%; 또는 LVEF ≤40%인 모든 환자 (Class I)
-  4. **ICD** : LVEF ≤30%, post-MI ≥40일, NYHA class I, 기대 여명 >1년, **GDMT 최소 3개월 후에도 LVEF ≤35% 지속 시** (Class I)
-  5. **Statin** : MI/ACS 병력 (Class I)
-  6. **회피** : LVEF <50%에서 TZD, non-DHP CCB(verapamil·diltiazem)
+
+**관리**
+
+1. ACEi : LVEF ≤40%
+2. ARB : ACEi 불내성 + recent MI & LVEF ≤40%
+3. Beta-blocker : MI/ACS 병력 + LVEF ≤40%; 또는 LVEF ≤40%인 모든 환자
+4. ICD : LVEF ≤30%, post-MI ≥40일, NYHA class I, 기대 여명 >1년, GDMT 최소 3개월 후에도 LVEF ≤35% 지속 시
+5. Statin : MI/ACS 병력
+6. 회피 : LVEF <50%에서 TZD, non-DHP CCB(verapamil·diltiazem)
 
 ***
 
@@ -246,8 +260,8 @@ flowchart LR
     subgraph SA["HF 위험 (Stage A)"]
         direction TB
         A1["고혈압 환자"] -->|"혈압 관리"| SA_OUT
-        A2["T2DM & CVD\n또는 CVD 고위험군"] -->|"SGLT2i"| SA_OUT
-        A3["비만 / CKD / AF\n환자"] -->|"위험 인자 관리"| SA_OUT
+        A2["T2DM & CVD\n or CVD 고위험군"] -->|"SGLT2i"| SA_OUT
+        A3["비만/CKD/AF\n환자"] -->|"위험 인자 관리"| SA_OUT
         A4["CVD 환자"] -->|"CVD 관리"| SA_OUT
         A5["심장 독성물질\n노출 환자"] -->|"다학제 평가"| SA_OUT
         A6["유전성 심근병증\n(환자의 1대)"] -->|"유전자 선별\n& 상담"| SA_OUT
@@ -256,7 +270,7 @@ flowchart LR
         style SA_OUT fill:#aaa,stroke:#888,r:5px
     end
 
-    ARROW(["Stage A→B 생활 중재 및 관리 전략 지속"])
+    ARROW(["Stage A→B 생활 중재 <br/>및 관리 전략 지속"])
     style ARROW fill:#dbeafe,stroke:#3b82f6,stroke-width:1.5px
 
     subgraph SB["Pre-HF (Stage B)"]
@@ -275,17 +289,13 @@ flowchart LR
     SA_OUT --> ARROW
     ARROW --> SB_IN
 
-    classDef greenBox fill:#dcfce7,stroke:#4ade80,stroke-width:1px
-    classDef yellowBox fill:#fef9c3,stroke:#facc15,stroke-width:1px
-    class A1,A2,A3,A4,A5,A6,A7 greenBox
-    class B1,B2,B3,B4,B5 yellowBox
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class B1,B2,B3,B4,B5 sky
 ```
 
-<p align="center"><strong>HF 위험(Stage A) 및 Pre-HF(Stage B) 환자를 위한 권고 (Class I &#x26; IIa)</strong></p>
+<p align="center"><strong>HF 위험(Stage A) 및 Pre-HF(Stage B) 환자를 위한 권고</strong></p>
 
-<p align="center"><em><mark style="color:blue;">Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Fig 5.</mark></em></p>
-
-***
+<p align="center"><em><mark style="color:$info;">Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Fig 5.</mark></em></p>
 
 #### <mark style="color:$primary;">Stage C : 증상성 HF</mark>
 
@@ -299,90 +309,79 @@ flowchart LR
 
 **약물적 중재 (HFrEF) - Quadruple Therapy**
 
-{% hint style="info" %}
-**HFrEF 4대 기본 치료 (Quadruple Therapy)** - AHA/ACC/HFSA 2022, ESC 2023 Update
+1. ARNi (또는 ACEi/ARB) - RAAS 억제
+2. Beta-blocker - 신경호르몬 억제
+3. MRA - 알도스테론 억제
+4. SGLT2i - 심혈관·신장 보호
 
-1. **ARNi** (또는 ACEi/ARB) - RAAS 억제
-2. **Beta-blocker** - 신경호르몬 억제
-3. **MRA** - 알도스테론 억제
-4. **SGLT2i** - 심혈관·신장 보호
-
-4가지를 **조기에 동시 개시**, 목표 용량까지 신속히 titration 권고 (ESC 2023 Focused Update).
+* 4가지를 조기에 동시 개시, 목표 용량까지 신속히 titration
 
 **HFrEF 초기 약물 시작 및 titration 일정 (권고 흐름)**
-{% endhint %}
 
 <table><thead><tr><th width="160">시기</th><th>조치</th></tr></thead><tbody><tr><td>진단 즉시</td><td>ARNi/ACEi + β-차단제 + SGLT2i 동시 시작 (저용량)</td></tr><tr><td>1~2주</td><td>Cr · K · BP 확인; ARNi/ACEi 2배 증량</td></tr><tr><td>2~4주</td><td>β-차단제 증량; MRA 추가 (K &#x3C;5.0, eGFR >30 확인)</td></tr><tr><td>4~8주</td><td>전체 약제 용량 재평가; 목표 용량 도달 목표</td></tr><tr><td>3개월</td><td>심초음파 재평가; LVEF 호전 여부 확인 (HFimpEF 전환 여부)</td></tr><tr><td>6~12개월</td><td>심초음파 추적; CRT·ICD 적응증 재평가</td></tr></tbody></table>
 
-***
+
 
 ```mermaid
 flowchart TD
-    START(["HFrEF 증상이 있는 심부전 환자¹⁾²⁾"])
+    START(["증상성 HFrEF 환자\n(LVEF ≤ 40%)"])
     style START fill:#e8f4e8,stroke:#4a9a4a,stroke-width:1.5px
 
-    STEP1["ACEi & Beta-blocker 치료³⁾\n(최대 용량까지 titration)"]
-    style STEP1 fill:#dcfce7,stroke:#4ade80,stroke-width:1px
-
-    Q1{"증상 잔존 및\nLVEF ≤ 35%?"}
-    style Q1 fill:#fff9e0,stroke:#c8a800,stroke-width:1px
-
-    STEP2["MR antagonist 추가⁴⁾⁵⁾\n(최대 용량까지 titration)"]
-    style STEP2 fill:#dcfce7,stroke:#4ade80,stroke-width:1px
-
-    Q2{"증상 잔존 및\nLVEF ≤ 35%?"}
-    style Q2 fill:#fff9e0,stroke:#c8a800,stroke-width:1px
-
-    subgraph TRIPLE["병행 고려 (Class I / IIa)"]
+    subgraph QUAD["Class I — 4제 동시 시작 (목표 용량까지 titration)"]
         direction LR
-        OPT_A["ACEi(or ARB) 용인 가능⁶⁾⁷⁾\n→ ARNi로 ACEi 대체"]
-        style OPT_A fill:#dcfce7,stroke:#4ade80,stroke-width:1px
-        OPT_B["Sinus rhythm\nQRS ≥ 130 msec\n→ CRT 평가⁹⁾¹⁰⁾"]
-        style OPT_B fill:#dcfce7,stroke:#4ade80,stroke-width:1px
-        OPT_C["Sinus rhythm⁸⁾\nHR ≥ 70 bpm\n→ Ivabradine"]
-        style OPT_C fill:#fefce8,stroke:#facc15,stroke-width:1px
+        D1["ACEi\n(또는 ARNi᷾ 또는 ARB)"]
+        style D1 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
+        D2["Beta-blocker"]
+        style D2 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
+        D3["MRA"]
+        style D3 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
+        D4["SGLT2i"]
+        style D4 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
     end
 
-    COMBINE["필요시 상기 치료 병용"]
-    style COMBINE fill:#e8f4e8,stroke:#4a9a4a,stroke-width:1px
+    DIURETIC["증상 완화 목적\n이뇨제 추가 (필요 시)"]
+    style DIURETIC fill:#e0f2fe,stroke:#3b82f6,stroke-width:1px
 
-    Q3{"증상 지속?"}
-    style Q3 fill:#fff9e0,stroke:#c8a800,stroke-width:1px
+    ASSESS{"추적 평가\n(3개월)\nLVEF · 증상 재평가"}
+    style ASSESS fill:#fff9e0,stroke:#c8a800,stroke-width:1px
 
-    LAST["Digoxin or H-ISDN or LVAD\nor 심장 이식 고려"]
-    style LAST fill:#fde8e8,stroke:#cc4444,stroke-width:1px
+    subgraph DEVICE["Device therapy 평가 (Class I)"]
+        direction LR
+        DEV1["ICD\nLVEF ≤ 35%\nNYHA II–III\nGDMT ≥ 3개월"]
+        style DEV1 fill:#fef9c3,stroke:#facc15,stroke-width:1px
+        DEV2["CRT-D\nLVEF ≤ 35%\nNYHA II–IIIᵇ\nQRS ≥ 150 ms\nLBBB + 동성 리듬"]
+        style DEV2 fill:#fef9c3,stroke:#facc15,stroke-width:1px
+    end
 
-    REDUCE["추가 조치 필요 없음\n이뇨제 용량 감량 고려"]
-    style REDUCE fill:#e8f4e8,stroke:#4a9a4a,stroke-width:1px
+    subgraph SELECT["선택적 추가 치료 (Class IIa)"]
+        direction LR
+        SEL1["ARNi᷾\n(ACEi 대체)"]
+        style SEL1 fill:#fef9c3,stroke:#facc15,stroke-width:1px
+        SEL2["Ivabradine\nSR + HR ≥ 70 bpm"]
+        style SEL2 fill:#fef9c3,stroke:#facc15,stroke-width:1px
+        SEL3["H-ISDN\nAfrican American\nNYHA III–IV"]
+        style SEL3 fill:#fef9c3,stroke:#facc15,stroke-width:1px
+        SEL4["Vericiguat\n최근 악화 HFrEF"]
+        style SEL4 fill:#fef9c3,stroke:#facc15,stroke-width:1px
+    end
 
-    NOTE_L["증상 완화: 이뇨제 적용\nLVEF ≤35% or VT/VF 병력\n→ ICD 이식"]
-    style NOTE_L fill:#f0f9ff,stroke:#7dd3fc,stroke-width:1px,stroke-dasharray:4
+    ADVANCED["Advanced HF 평가\nLVAD · 심장 이식 · 완화의료"]
+    style ADVANCED fill:#fde8e8,stroke:#cc4444,stroke-width:1.5px
 
-    START --> STEP1
-    STEP1 --> Q1
-    Q1 -->|no| REDUCE
-    Q1 -->|yes| STEP2
-    STEP2 --> Q2
-    Q2 -->|no| REDUCE
-    Q2 -->|yes| TRIPLE
-    OPT_A --> COMBINE
-    OPT_B --> COMBINE
-    OPT_C --> COMBINE
-    COMBINE --> Q3
-    Q3 -->|yes| LAST
-    Q3 -->|no| REDUCE
-    NOTE_L -.-> STEP1
+    START --> QUAD
+    START --> DIURETIC
+    QUAD --> ASSESS
+    ASSESS -->|"LVEF ≤ 35% 지속"| DEVICE
+    ASSESS -->|"증상 지속"| SELECT
+    ASSESS -->|"GDMT 불응\n반복 입원"| ADVANCED
 ```
 
-<p align="center"><strong>Ejection fraction이 감소된 증상성 심부전 환자의 치료 알고리듬</strong></p>
+_<mark style="color:$info;">᷾ ARNi는 ACEi의 마지막 투약 36시간 이후 개시</mark>_\
+_<mark style="color:$info;">ᵇ 보행 가능한 NYHA IV 포함</mark>_
 
-<p align="center"><em><mark style="color:blue;">① NYHA II–IV. ② LVEF ≤40%. ③ ACEi 불내성 시 ARB. ④ MR antagonist 불내성 시 ARB. ⑤ 최근 6개월 HF 입원 또는 BNP >250/NT-proBNP >500·750 pg/</mark></em>㎖<em><mark style="color:blue;">. ⑥ BNP ≥150/NT-proBNP ≥600 pg/</mark></em>㎖ <em><mark style="color:blue;">또는 최근 12개월 HF 입원. ⑦ Enalapril 10 ㎎ bid 등가 용량. ⑧ 최근 1년 HF 입원력. ⑨ QRS ≥130 msec + LBBB(동성 리듬) → CRT 권고. ⑩ QRS ≥130 msec + non-LBBB 또는 AF → CRT 고려.</mark></em></p>
-
-<p align="center"><em><mark style="color:blue;">Ref. ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. 2016. Fig 7-1.</mark></em></p>
+<p align="center"><strong>Ejection fraction이 감소된(HFrEF) 심부전 환자의 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. ESC 2021 Guidelines for HF, Fig 2. ESC 2023 Focused Update 반영</mark></em></p>
 
 ***
-
-**HFpEF 치료 알고리듬**
 
 ```mermaid
 flowchart TD
@@ -437,7 +436,7 @@ flowchart TD
 
 <p align="center"><strong>HFpEF 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">Ref. ESC 2023 Focused Update; AHA/ACC/HFSA 2022; STEP-HFpEF 2023.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ESC 2023 Focused Update; AHA/ACC/HFSA 2022; STEP-HFpEF 2023.</mark></em></p>
 
 ***
 
