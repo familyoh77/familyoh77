@@ -149,7 +149,7 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 <p align="center"><strong>HF 및 EF 기반 분류를 위한 진단 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">Ref. AHA/ACC/HFSA Guideline for the management of heart failure. 2022. Fig 4.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. AHA/ACC/HFSA Guideline for the management of heart failure. 2022. Fig 4.</mark></em></p>
 
 ***
 
@@ -221,7 +221,7 @@ flowchart TD
 
 <p align="center"><strong>급성 심부전 환자의 초기 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">Ref. ESC guidelines for the diagnosis and treatment of acute and chronic heart failure. 2021. Fig 12.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ESC guidelines for the diagnosis and treatment of acute and chronic heart failure. 2021. Fig 12.</mark></em></p>
 
 ***
 
@@ -295,7 +295,7 @@ class B1,B2,B3,B4,B5 sky
 
 <p align="center"><strong>HF 위험(Stage A) 및 Pre-HF(Stage B) 환자를 위한 권고</strong></p>
 
-<p align="center"><em><mark style="color:blue;">Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Fig 5.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Fig 5.</mark></em></p>
 
 #### <mark style="color:$primary;">Stage C : 증상성 HF</mark>
 
@@ -378,10 +378,10 @@ flowchart TD
 
 <p align="center"><strong>Ejection fraction이 감소된(HFrEF) 심부전 환자의 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">저자 편집 (ESC 2021 Guidelines for HF, Fig 2 기반; ESC 2023 Focused Update 반영)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 편집 (ESC 2021 Guidelines for HF, Fig 2 기반; ESC 2023 Focused Update 반영)</mark></em></p>
 
-_<mark style="color:blue;">᷾ ARNi는 ACEi의 마지막 투약 36시간 이후 개시</mark>_\
-_<mark style="color:blue;">ᵇ 보행 가능한 NYHA IV 포함</mark>_
+_<mark style="color:$info;">᷾ ARNi는 ACEi의 마지막 투약 36시간 이후 개시</mark>_\
+_<mark style="color:$info;">ᵇ 보행 가능한 NYHA IV 포함</mark>_
 
 ***
 
@@ -440,7 +440,7 @@ flowchart TD
 
 <p align="center"><strong>HFpEF 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">저자 편집 (ESC 2023 Focused Update; AHA/ACC/HFSA 2022; STEP-HFpEF 2023 기반)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 편집 (ESC 2023 Focused Update; AHA/ACC/HFSA 2022; STEP-HFpEF 2023 기반)</mark></em></p>
 
 ***
 
@@ -552,9 +552,9 @@ flowchart LR
 
 <p align="center"><strong>HFrEF Stage C &#x26; D 환자 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:blue;">MRA=mineralocorticoid receptor antagonist; HFimpEF=HF with improved EF; ICD=implantable cardioverter defibrillator; MCS=mechanical circulatory support; CRT-D=cardiac resynchronization therapy with defibrillation; NSR=normal sinus rhythm; LBBB=left bundle branch block</mark></em></p>
+<p align="center"><em><mark style="color:$info;">MRA=mineralocorticoid receptor antagonist; HFimpEF=HF with improved EF; ICD=implantable cardioverter defibrillator; MCS=mechanical circulatory support; CRT-D=cardiac resynchronization therapy with defibrillation; NSR=normal sinus rhythm; LBBB=left bundle branch block</mark></em></p>
 
-<p align="center"><em><mark style="color:blue;">Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Fig 6.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Fig 6.</mark></em></p>
 
 ***
 
