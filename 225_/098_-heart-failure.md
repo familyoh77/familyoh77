@@ -161,53 +161,6 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 ### <mark style="color:orange;">급성 심부전 초기 관리</mark>
 
-***
-
-```mermaid
-flowchart TD
-    START(["급성 심부전 의심 환자"])
-    style START fill:#eeeeee,stroke:#888888,stroke-width:2px
-    subgraph URGENT["<b>Urgent phase - 첫 번째 진료/평가</b>"]
-        direction TB
-        Q1["1. Cardiogenic shock?"]
-        CIRC["Circulatory support\n· 약물\n· 기계적 장치"]
-        Q2["2. Respiratory failure?"]
-        VENT["Ventilatory support\n· 산소\n· 비침습적 양압환기 (CPAP, BiPAP)\n· 기계 환기"]
-classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class Q1,Q2 lightGreen
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class CIRC,VENT sky
-    end
-    ICU["즉각적인 안정화 및\nICU / CCU로 환자 이동"]
-    style ICU fill:#fbb,stroke:#c00,stroke-width:2px
-    subgraph IMMEDIATE["<b>Immediate phase - 첫 평가 후 60~120분 이내</b>"]
-        direction TB
-        CAUSE["급성 원인 평가 - CHAMP\n①acute Coronary syndrome?\n②Hypertension emergency?\n③Arrhythmia?\n④acute Mechanical cause?*\n⑤Pulmonary embolism?"]
-
-        TREAT["원인에 대한 치료를 즉각 시행"]
-        style TREAT fill:#e3f2ff,stroke:#2196f3
-    end
-    WORKUP["급성 심부전 확진을 위한 \n진단 작업,\n적절한 치료 선택을 위한 \n임상 평가"]
-    style WORKUP fill:#d0e8ff,stroke:#1a6abf
-    START --> Q1
-    Q1 -->|yes| CIRC
-    Q1 -->|no| Q2
-    CIRC --> ICU
-    Q2 -->|yes| VENT
-    Q2 -->|no| IMMEDIATE
-    VENT --> ICU
-    ICU --> IMMEDIATE
-    CAUSE -->|yes| TREAT
-    CAUSE -->|no| WORKUP
-    TREAT --> WORKUP
-```
-
-<p align="center"><strong>급성 심부전 환자의 초기 관리 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">*Acute mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR), chest trauma, acute valve incompetence (endocarditis), aortic dissection</mark></em></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. 2016. Fig 12-2.</mark></em></p>
-
 ```mermaid
 flowchart TD
     START(["급성 심부전 의심 환자"])
@@ -216,9 +169,6 @@ flowchart TD
     subgraph URGENT["<b>Urgent phase — 첫 번째 진료/평가"]
         direction TB
         Q1["Cardiogenic shock\nand/or Respiratory failure?"]
-        classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-        class Q1 lightGreen
-
         SUPPORT["즉각 처치\n· Circulatory support (약물·기계적 장치)\n· Ventilatory support (산소·CPAP/BiPAP·기계 환기)"]
         classDef sky fill:#e3f2ff,stroke:#2196f3
         class SUPPORT sky
@@ -248,22 +198,22 @@ flowchart TD
 
 ```
 
-_\*Acute mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR),_\
+_\*Acute Mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR),_\
 _chest trauma, acute valve incompetence (endocarditis), aortic dissection_
+
+<p align="center"><strong>급성 심부전 환자의 초기 관리 알고리듬</strong></p>
+
+<table><thead><tr><th width="230">원인</th><th>주요 감별 방법</th></tr></thead><tbody><tr><td>acute <strong>C</strong>oronary syndrome</td><td>심전도, 트로포닌</td></tr><tr><td><strong>H</strong>ypertension emergency</td><td>혈압 측정</td></tr><tr><td><strong>A</strong>rrhythmia</td><td>심전도, 맥박</td></tr><tr><td>acute <strong>M</strong>echanical cause</td><td>즉각 심초음파 (드물지만 치명적; 진단 지연 시 사망률 급등)</td></tr><tr><td><strong>P</strong>ulmonary embolism</td><td>D-dimer, CT-PA</td></tr></tbody></table>
 
 ***
 
-{% hint style="danger" %}
-⚠️ **급성 심부전 응급 처치 - CHAMP 감별 + 임상 프로파일**
+<mark style="color:cyan;">**급성 심부전 응급 처치**</mark>
 
-**CHAMP 원인 감별** (초기 60\~120분 내 배제)
+* CHAMP 감별(초기 60\~120분 내 배제) + 임상 프로파일
 
 **임상 프로파일별 초기 치료 (Warm/Cold-Wet/Dry 분류)**
-{% endhint %}
 
-<table><thead><tr><th width="130">Profile</th><th width="160">특징</th><th>초기 치료 방향</th></tr></thead><tbody><tr><td><strong>Warm &#x26; Wet</strong></td><td>충분한 관류 + 울혈</td><td>Loop diuretic ± vasodilator (가장 흔한 형태)</td></tr><tr><td><strong>Cold &#x26; Wet</strong></td><td>저관류 + 울혈</td><td>Inotrope ± vasopressor → 안정 후 이뇨제; 기계적 보조 고려</td></tr><tr><td><strong>Cold &#x26; Dry</strong></td><td>저관류 + 울혈 없음</td><td>Fluid challenge 신중히 고려; 기저 원인(tamponade 등) 감별</td></tr><tr><td><strong>Warm &#x26; Dry</strong></td><td>충분한 관류 + 울혈 없음</td><td>유지 치료; 약물 최적화</td></tr></tbody></table>
-
-<table><thead><tr><th width="230">원인</th><th>주요 감별 방법</th></tr></thead><tbody><tr><td>acute <strong>C</strong>oronary syndrome</td><td>심전도, 트로포닌</td></tr><tr><td><strong>H</strong>ypertension emergency</td><td>혈압 측정</td></tr><tr><td><strong>A</strong>rrhythmia</td><td>심전도, 맥박</td></tr><tr><td>⚠️ acute <strong>M</strong>echanical cause</td><td><strong>즉각 심초음파 필수</strong> - 드물지만 치명적 (심근 파열·VSD·급성 MR·급성 판막 부전·대동맥 박리); 진단 지연 시 사망률 급등</td></tr><tr><td><strong>P</strong>ulmonary embolism</td><td>D-dimer, CT-PA</td></tr></tbody></table>
+<table><thead><tr><th width="126.84210205078125">Profile</th><th width="174.73681640625">특징</th><th>초기 치료 방향</th></tr></thead><tbody><tr><td><strong>Warm &#x26; Wet</strong></td><td>충분한 관류 + 울혈(+)</td><td>Loop diuretic ± vasodilator (가장 흔한 형태)</td></tr><tr><td><strong>Cold &#x26; Wet</strong></td><td>저관류 + 울혈(+)</td><td>Inotrope ± vasopressor → 안정 후 이뇨제; 기계적 보조 고려</td></tr><tr><td><strong>Warm &#x26; Dry</strong></td><td>충분한 관류 + 울혈(-)</td><td>유지 치료; 약물 최적화</td></tr><tr><td><strong>Cold &#x26; Dry</strong></td><td>저관류 + 울혈(-)</td><td>드물지만가장 위중;  Fluid challenge 신중히 고려. 기저 원인(tamponade·RV failure 등) 감별 </td></tr></tbody></table>
 
 ### <mark style="color:orange;">ACCF/AHA 분류 및 치료 전략 (AHA/ACC/HFSA 2022)</mark>
 
