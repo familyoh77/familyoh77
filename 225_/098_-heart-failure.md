@@ -55,7 +55,7 @@ _✽심부전 증상 : 피로, 두근거림, 호흡 곤란_
 * 새로운 심잡음
 * 2\~3일 내 체중 ≥2 ㎏ 급증
 
-<mark style="color:blue;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:blue;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:blue;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * NYHA 기능 분류 악화 (I→II, II→III 등)
 * 원인 불명의 심부전
@@ -157,9 +157,7 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 ### <mark style="color:orange;">HF phenotype별 약물 치료 요약</mark>
 
-
-
-<table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td>SGLT2i 우선 (ESC 2023); 원인 질환(고혈압·AF·비만) 집중 관리; 체액 과부하 시 이뇨제</td></tr><tr><td><strong>HFmrEF</strong></td><td>41~49%</td><td>SGLT2i 우선; ACEi/ARB/ARNi · β-차단제 · MRA - 증상 있는 경우 HFrEF에 준하여 적극 적용 권고 (ESC 2023)</td></tr><tr><td><strong>HFrEF</strong></td><td>≤40%</td><td>ARNi/ACEi + β-차단제 + MRA + SGLT2i 4제 병용</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 ≤40% <br>→ >40%</td><td>GDMT 전면 유지 — 절대 중단 금지; EF 회복 후에도 재악화 위험 높음 → 추적 심초음파 및 장기 관리 필수</td></tr></tbody></table>
+<table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td>SGLT2i 우선 (ESC 2023); 원인 질환(고혈압·AF·비만) 집중 관리; 체액 과부하 시 이뇨제</td></tr><tr><td><strong>HFmrEF</strong></td><td>41~49%</td><td>SGLT2i 우선; ACEi/ARB/ARNi · β-차단제 · MRA - 증상 있는 경우 HFrEF에 준하여 적극 적용 권고 (ESC 2023)</td></tr><tr><td><strong>HFrEF</strong></td><td>≤40%</td><td>ARNi/ACEi + β-차단제 + MRA + SGLT2i 4제 병용</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 ≤40%<br>→ >40%</td><td>GDMT 전면 유지 — 절대 중단 금지; EF 회복 후에도 재악화 위험 높음 → 추적 심초음파 및 장기 관리 필수</td></tr></tbody></table>
 
 ### <mark style="color:orange;">급성 심부전 초기 관리</mark>
 
@@ -170,11 +168,11 @@ style H fill:#d0e8ff,stroke:#1a6abf
 <table><thead><tr><th width="230">원인</th><th>주요 감별 방법</th></tr></thead><tbody><tr><td>acute <strong>C</strong>oronary syndrome</td><td>심전도, 트로포닌</td></tr><tr><td><strong>H</strong>ypertension emergency</td><td>혈압 측정</td></tr><tr><td><strong>A</strong>rrhythmia</td><td>심전도, 맥박</td></tr><tr><td>acute <strong>M</strong>echanical cause*</td><td>즉각 심초음파 (드물지만 치명적; 진단 지연 시 사망률 급등)</td></tr><tr><td><strong>P</strong>ulmonary embolism</td><td>D-dimer, CT-PA</td></tr></tbody></table>
 
 _\*Acute Mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR),_\
-_chest trauma, acute valve incompetence (endocarditis), aortic dissection_
+&#xNAN;_&#x63;hest trauma, acute valve incompetence (endocarditis), aortic dissection_
 
 <mark style="color:cyan;">**임상 프로파일별 초기 치료 (Warm/Cold-Wet/Dry 분류)**</mark>
 
-<table><thead><tr><th width="126.84210205078125">Profile</th><th width="174.73681640625">특징</th><th>초기 치료 방향</th></tr></thead><tbody><tr><td><strong>Warm &#x26; Wet</strong></td><td>충분한 관류 + 울혈(+)</td><td>Loop diuretic ± vasodilator (가장 흔한 형태)</td></tr><tr><td><strong>Cold &#x26; Wet</strong></td><td>저관류 + 울혈(+)</td><td>Inotrope ± vasopressor → 안정 후 이뇨제; 기계적 보조 고려</td></tr><tr><td><strong>Warm &#x26; Dry</strong></td><td>충분한 관류 + 울혈(-)</td><td>유지 치료; 약물 최적화</td></tr><tr><td><strong>Cold &#x26; Dry</strong></td><td>저관류 + 울혈(-)</td><td>드물지만가장 위중;  Fluid challenge 신중히 고려. 기저 원인(tamponade·RV failure 등) 감별 </td></tr></tbody></table>
+<table><thead><tr><th width="126.84210205078125">Profile</th><th width="174.73681640625">특징</th><th>초기 치료 방향</th></tr></thead><tbody><tr><td><strong>Warm &#x26; Wet</strong></td><td>충분한 관류 + 울혈(+)</td><td>Loop diuretic ± vasodilator (가장 흔한 형태)</td></tr><tr><td><strong>Cold &#x26; Wet</strong></td><td>저관류 + 울혈(+)</td><td>Inotrope ± vasopressor → 안정 후 이뇨제; 기계적 보조 고려</td></tr><tr><td><strong>Warm &#x26; Dry</strong></td><td>충분한 관류 + 울혈(-)</td><td>유지 치료; 약물 최적화</td></tr><tr><td><strong>Cold &#x26; Dry</strong></td><td>저관류 + 울혈(-)</td><td>드물지만가장 위중; Fluid challenge 신중히 고려. 기저 원인(tamponade·RV failure 등) 감별</td></tr></tbody></table>
 
 ```mermaid
 flowchart TD
@@ -234,7 +232,7 @@ flowchart TD
 
 **관리**
 
-1. 고혈압 : 적절한 혈압 조절&#x20;
+1. 고혈압 : 적절한 혈압 조절
 2. SGLT2i : T2DM + CVD 또는 심혈관 고위험군; T2DM + CKD
 3. 규칙적인 신체 활동, 정상 체중 유지, 건강한 식습관, 흡연 회피
 4. HF 발병 위험 환자에서 natriuretic peptide 선별 검사 고려
@@ -320,32 +318,23 @@ class B1,B2,B3,B4,B5 sky
 
 <table><thead><tr><th width="160">시기</th><th>조치</th></tr></thead><tbody><tr><td>진단 즉시</td><td>ARNi/ACEi + β-차단제 + SGLT2i 동시 시작 (저용량)</td></tr><tr><td>1~2주</td><td>Cr · K · BP 확인; ARNi/ACEi 2배 증량</td></tr><tr><td>2~4주</td><td>β-차단제 증량; MRA 추가 (K &#x3C;5.0, eGFR >30 확인)</td></tr><tr><td>4~8주</td><td>전체 약제 용량 재평가; 목표 용량 도달 목표</td></tr><tr><td>3개월</td><td>심초음파 재평가; LVEF 호전 여부 확인 (HFimpEF 전환 여부)</td></tr><tr><td>6~12개월</td><td>심초음파 추적; CRT·ICD 적응증 재평가</td></tr></tbody></table>
 
-
-
 ```mermaid
 flowchart TD
     START(["증상성 HFrEF 환자\n(LVEF ≤ 40%)"])
-    style START fill:#e8f4e8,stroke:#4a9a4a,stroke-width:1.5px
-
-    subgraph QUAD["Class I — 4제 동시 시작 (목표 용량까지 titration)"]
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    subgraph QUAD["<b>Class I — 4제 동시 시작 (목표 용량까지 titration)</b>"]
         direction LR
-        D1["ACEi\n(또는 ARNi᷾ 또는 ARB)"]
-        style D1 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
-        D2["Beta-blocker"]
-        style D2 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
-        D3["MRA"]
-        style D3 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
-        D4["SGLT2i"]
-        style D4 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
+        D1["•ACEi\n(또는 ARNi᷾ 또는 ARB)
+•Beta-blocker
+•MRA
+•SGLT2i"]
     end
 
     DIURETIC["증상 완화 목적\n이뇨제 추가 (필요 시)"]
-    style DIURETIC fill:#e0f2fe,stroke:#3b82f6,stroke-width:1px
+    ASSESS["추적 평가\n(3개월)\nLVEF · 증상 재평가"]
+    style ASSESS fill:#e8f8e8,stroke:#4caf50
 
-    ASSESS{"추적 평가\n(3개월)\nLVEF · 증상 재평가"}
-    style ASSESS fill:#fff9e0,stroke:#c8a800,stroke-width:1px
-
-    subgraph DEVICE["Device therapy 평가 (Class I)"]
+    subgraph DEVICE["<b>Device therapy 평가</b>"]
         direction LR
         DEV1["ICD\nLVEF ≤ 35%\nNYHA II–III\nGDMT ≥ 3개월"]
         style DEV1 fill:#fef9c3,stroke:#facc15,stroke-width:1px
@@ -353,21 +342,18 @@ flowchart TD
         style DEV2 fill:#fef9c3,stroke:#facc15,stroke-width:1px
     end
 
-    subgraph SELECT["선택적 추가 치료 (Class IIa)"]
+    subgraph SELECT["<b>선택적 추가 치료</b>"]
         direction LR
-        SEL1["ARNi᷾\n(ACEi 대체)"]
-        style SEL1 fill:#fef9c3,stroke:#facc15,stroke-width:1px
-        SEL2["Ivabradine\nSR + HR ≥ 70 bpm"]
-        style SEL2 fill:#fef9c3,stroke:#facc15,stroke-width:1px
-        SEL3["H-ISDN\nAfrican American\nNYHA III–IV"]
-        style SEL3 fill:#fef9c3,stroke:#facc15,stroke-width:1px
-        SEL4["Vericiguat\n최근 악화 HFrEF"]
-        style SEL4 fill:#fef9c3,stroke:#facc15,stroke-width:1px
-    end
+        SEL1["•ARNi᷾\n(ACEi 대체)
+•Ivabradine\nSR + HR ≥ 70 bpm
+•H-ISDN\nAfrican American\nNYHA III–IV
+•Vericiguat\n최근 악화 HFrEF"]
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class D1,DIURETIC,SEL1 sky
 
+    end
     ADVANCED["Advanced HF 평가\nLVAD · 심장 이식 · 완화의료"]
     style ADVANCED fill:#fde8e8,stroke:#cc4444,stroke-width:1.5px
-
     START --> QUAD
     START --> DIURETIC
     QUAD --> ASSESS
@@ -381,7 +367,7 @@ flowchart TD
 <p align="center"><em><mark style="color:$info;">저자 편집 (ESC 2021 Guidelines for HF, Fig 2 기반; ESC 2023 Focused Update 반영)</mark></em></p>
 
 _<mark style="color:$info;">᷾ ARNi는 ACEi의 마지막 투약 36시간 이후 개시</mark>_\
-_<mark style="color:$info;">ᵇ 보행 가능한 NYHA IV 포함</mark>_
+&#xNAN;_<mark style="color:$info;">ᵇ 보행 가능한 NYHA IV 포함</mark>_
 
 ***
 
