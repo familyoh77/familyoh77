@@ -1,4 +1,4 @@
-# 심부전 Heart Failure (HF)
+# 심부전 Heart Failure
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -172,7 +172,7 @@ style H fill:#d0e8ff,stroke:#1a6abf
 <table><thead><tr><th width="230">원인</th><th>주요 감별 방법</th></tr></thead><tbody><tr><td>acute <strong>C</strong>oronary syndrome</td><td>심전도, 트로포닌</td></tr><tr><td><strong>H</strong>ypertension emergency</td><td>혈압 측정</td></tr><tr><td><strong>A</strong>rrhythmia</td><td>심전도, 맥박</td></tr><tr><td>acute <strong>M</strong>echanical cause*</td><td>즉각 심초음파 (드물지만 치명적; 진단 지연 시 사망률 급등)</td></tr><tr><td><strong>P</strong>ulmonary embolism</td><td>D-dimer, CT-PA</td></tr></tbody></table>
 
 _\*Acute Mechanical cause: myocardial rupture (free wall rupture, VSD, acute MR),_\
-&#x20;_Chest trauma, acute valve incompetence (endocarditis), aortic dissection_
+&#xNAN;_&#x43;hest trauma, acute valve incompetence (endocarditis), aortic dissection_
 
 <mark style="color:cyan;">**임상 프로파일별 초기 치료 (Warm/Cold-Wet/Dry 분류)**</mark>
 
@@ -309,7 +309,7 @@ _\*NP biomarker 선별 검사는 AHA/ACC/HFSA 2022에서 고려 가능하다고 
 
 **비약물적 중재**
 
-1. 호흡기 질환 예방 백신 (인플루엔자, 폐렴구균, COVID-19, RSV[60세 이상 고령 HF 환자에서 고려])
+1. 호흡기 질환 예방 백신 (인플루엔자, 폐렴구균, COVID-19, RSV\[60세 이상 고령 HF 환자에서 고려])
 2. 우울증·사회적 고립·허약·낮은 건강 관리 능력 선별
 3. 과도한 소금 섭취 회피; 규칙적 운동; 심장 재활 고려
 
@@ -363,8 +363,6 @@ _<mark style="color:$info;">ICD = implantable cardioverter-defibrillator; CRT-D=
 
 <p align="center"><em><mark style="color:$info;">Ref. ESC 2021 Guidelines for HF, Fig 2 기반; ESC 2023 Focused Update</mark></em></p>
 
-
-
 ***
 
 **약물적 중재 (HFpEF)**
@@ -417,9 +415,9 @@ class SGLT2,DIURETIC,RATE,WEIGHT,BPCTRL sky
 #### <mark style="color:$primary;">Stage D : Advanced HF</mark>
 
 * 적절한 치료에도 불구하고 일상생활을 방해하고 반복적인 입원이 요구되는 현저한 HF 증상
-* **전문센터 의뢰 기준** : ① 최근 12개월 내 HF 관련 입원 ≥2회, ② NYHA IV (최적 GDMT에도 불응), ③ GDMT 불내성으로 표준 치료 불가, ④ 지속적 이뇨제 의존·저나트륨혈증·저혈압 동반, ⑤ 심장 이식/LVAD/임상시험 적합성 평가 필요
+* **전문센터 의뢰 기준** : ⓵ 최근 12개월 내 HF 관련 입원 ≥2회, ⓶ NYHA IV (최적 GDMT에도 불응), ⓷ GDMT 불내성으로 표준 치료 불가, ⓸ 지속적 이뇨제 의존·저나트륨혈증·저혈압 동반, ⓹ 심장 이식/LVAD/임상시험 적합성 평가 필요
 
-<mark style="color:cyan;">**HFrEF Stage C & D 환자 치료**</mark>&#x20;
+<mark style="color:cyan;">**HFrEF Stage C & D 환자 치료**</mark>
 
 <table><thead><tr><th width="80">Step</th><th width="180">목표</th><th>내용</th></tr></thead><tbody><tr><td><strong>Step 1</strong></td><td>HFrEF 진단 수립<br>초기 치료 시작</td><td>· HFrEF (LVEF ≤40%, Stage C) 확인<br>· ARNi (NYHA II–IV) 또는 ACEi/ARB<br>· β-blocker<br>· MRA<br>· SGLT2i<br>· 필요 시 이뇨제</td></tr><tr><td><strong>Step 2</strong></td><td>내성·검사·LVEF에<br>맞춰 용량 조절</td><td>· LVEF ≤40% 지속 → HFrEF (Stage C) : GDMT 용량 최적화 계속<br>· LVEF >40% → HFimpEF : GDMT 반드시 유지 (중단 금지)</td></tr><tr><td><strong>Step 3</strong></td><td>환자별 특성 고려</td><td>· NYHA III–IV + African American → Hydralazine/ISDN 추가<br>· NYHA I + LVEF ≤30% + post-MI ≥40일 + GDMT 유지 + 기대여명 >1년 → ICD (Stage B, 1차예방)<br>· NYHA II–III + LVEF ≤35% + GDMT ≥3개월 지속 + 기대여명 >1년 → ICD (Stage C, 1차예방)<br>· NYHA II–III (ambulatory IV) + LVEF ≤35% + NSR + QRS ≥150 ms with LBBB → CRT-D</td></tr><tr><td><strong>Step 4</strong></td><td>적응증별<br>추가 치료</td><td>· Hydralazine/ISDN (African American, NYHA III–IV)<br>· ICD (급사 예방)<br>· CRT-D (심장재동기화)<br>· 기타 추가 치료 고려</td></tr><tr><td><strong>Step 5</strong></td><td>재평가</td><td>· 난치성 HF → Step 6으로<br>· 증상 호전 → 용량 유지 및 정기 추적</td></tr><tr><td><strong>Step 6</strong></td><td>전문센터 의뢰<br>(Stage D)</td><td>· 내구성 MCS (LVAD 등)<br>· 심장 이식<br>· 완화의료 (Stage D 이전부터 시작 가능)<br>· 임상시험 참여 고려</td></tr></tbody></table>
 
@@ -429,9 +427,7 @@ class SGLT2,DIURETIC,RATE,WEIGHT,BPCTRL sky
 
 ### <mark style="color:orange;">Stage별 관리 요약</mark>
 
-<table><thead><tr><th width="120">Stage</th><th width="158">특징</th><th>주요 관리 전략</th></tr></thead><tbody><tr><td><strong>Stage A</strong><br>(HF 위험군)</td><td>증상 없음<br>구조적 심질환 없음<br>위험 인자 존재</td><td>· 고혈압·당뇨·비만·CKD·AF·CVD·cardiotoxin 등 위험 인자 적극 관리<br>· SGLT2i : T2DM + CVD/CKD 환자에서 권고 <br>· 생활습관 교정 (운동·체중·식습관·금연)<br>· NP biomarker 선별 검사 고려(일부 가이드라인 제안)</td></tr><tr><td><strong>Stage B</strong><br>(Pre-HF)</td><td>증상 없음<br>구조적 심질환 또는<br>filling pressure 증가</td><td>· ACEi (LVEF ≤40%) / ARB (ACEi 불내성 + recent MI)<br>· β-blocker (MI 병력 또는 LVEF ≤40%)<br>· ICD : post-MI ≥40일, LVEF ≤30%, NYHA I, GDMT 유지 중 (1차예방)<br>· Statin (MI/ACS 병력)<br>· TZD · non-DHP CCB 회피</td></tr><tr><td><strong>Stage C</strong><br>(증상성 HF)</td><td>구조적 심질환<br>+ 현재/과거 증상</td><td>· 다학제 팀 관리; 백신 접종; 우울증·사회적 고립 선별<br>· HFrEF : Quadruple therapy (ARNi/ACEi + β-blocker + MRA + SGLT2i)<br>· HFmrEF : SGLT2i Class I; 나머지 GDMT(Class IIb) 고려 가능 (ESC 2023)<br>· HFpEF : SGLT2i + AF·비만·고혈압 동반 질환 집중 관리<br>· CRT/ICD 평가; 심장 재활; 생활습관 교정</td></tr><tr><td><strong>Stage D</strong><br>(Advanced HF)</td><td>반복 입원<br>GDMT 불응<br>일상생활 제한</td><td>· LVAD, 심장 이식 고려<br>· 완화의료 조기 병행 (Stage D 이전부터 시작 가능)<br>· <strong>전문센터 의뢰 기준</strong> : ⓵ 최근 12개월 내 입원 ≥2회, ⓶ NYHA IV 지속, ⓷ GDMT 불내성, ⓸ 이뇨제 의존·저나트륨혈증·저혈압, ⓹ 이식/LVAD/임상시험 적합성 평가 필요<br>· 임상시험 참여 가능성 검토</td></tr></tbody></table>
-
-
+<table><thead><tr><th width="120">Stage</th><th width="158">특징</th><th>주요 관리 전략</th></tr></thead><tbody><tr><td><strong>Stage A</strong><br>(HF 위험군)</td><td>증상 없음<br>구조적 심질환 없음<br>위험 인자 존재</td><td>· 고혈압·당뇨·비만·CKD·AF·CVD·cardiotoxin 등 위험 인자 적극 관리<br>· SGLT2i : T2DM + CVD/CKD 환자에서 권고<br>· 생활습관 교정 (운동·체중·식습관·금연)<br>· NP biomarker 선별 검사 고려(일부 가이드라인 제안)</td></tr><tr><td><strong>Stage B</strong><br>(Pre-HF)</td><td>증상 없음<br>구조적 심질환 또는<br>filling pressure 증가</td><td>· ACEi (LVEF ≤40%) / ARB (ACEi 불내성 + recent MI)<br>· β-blocker (MI 병력 또는 LVEF ≤40%)<br>· ICD : post-MI ≥40일, LVEF ≤30%, NYHA I, GDMT 유지 중 (1차예방)<br>· Statin (MI/ACS 병력)<br>· TZD · non-DHP CCB 회피</td></tr><tr><td><strong>Stage C</strong><br>(증상성 HF)</td><td>구조적 심질환<br>+ 현재/과거 증상</td><td>· 다학제 팀 관리; 백신 접종; 우울증·사회적 고립 선별<br>· HFrEF : Quadruple therapy (ARNi/ACEi + β-blocker + MRA + SGLT2i)<br>· HFmrEF : SGLT2i Class I; 나머지 GDMT(Class IIb) 고려 가능 (ESC 2023)<br>· HFpEF : SGLT2i + AF·비만·고혈압 동반 질환 집중 관리<br>· CRT/ICD 평가; 심장 재활; 생활습관 교정</td></tr><tr><td><strong>Stage D</strong><br>(Advanced HF)</td><td>반복 입원<br>GDMT 불응<br>일상생활 제한</td><td>· LVAD, 심장 이식 고려<br>· 완화의료 조기 병행 (Stage D 이전부터 시작 가능)<br>· <strong>전문센터 의뢰 기준</strong> : ⓵ 최근 12개월 내 입원 ≥2회, ⓶ NYHA IV 지속, ⓷ GDMT 불내성, ⓸ 이뇨제 의존·저나트륨혈증·저혈압, ⓹ 이식/LVAD/임상시험 적합성 평가 필요<br>· 임상시험 참여 가능성 검토</td></tr></tbody></table>
 
 ***
 
@@ -479,8 +475,8 @@ _✽단기 제제 제외; serum digoxin 농도 유지_\
 
 * 대상 : Stage B 이상; Q파 MI에서 필수; 울혈이 없는 안정 상태에서 시작
 * 용법 : 저용량 시작 → 1\~4주 간격으로 증량; 초기 일시적 울혈·무력감·피로 악화 가능
-* 증상 동반 저혈압 : ① 혈관 확장제와 2시간 간격, ② 혈관 확장제·이뇨제 감량, ③ β-차단제 감량
-* 증상 동반 서맥 : ① digoxin 농도 확인, ② 관련 약제(amiodarone 등) 감량, ③ diltiazem·verapamil 중단
+* 증상 동반 저혈압 : ⓵ 혈관 확장제와 2시간 간격, ⓶ 혈관 확장제·이뇨제 감량, ⓷ β-차단제 감량
+* 증상 동반 서맥 : ⓵ digoxin 농도 확인, ⓶ 관련 약제(amiodarone 등) 감량, ⓷ diltiazem·verapamil 중단
 
 #### <mark style="color:$primary;">Mineralocorticoid receptor antagonist (MRA)</mark>
 
@@ -532,7 +528,7 @@ NYHA II\~IV, LVEF ≤40% (또는 기준에 따라 상이) 증상성 HFrEF에서 
 * 부작용 : Na↓, K↓(또는 K↑), Mg↓, 요산↑; 사용 시 주의 : Na <135, K <3.5 또는 >5.0, Cr >3.0, Mg <1.8, 산증 — 중증 HF에서는 더 심한 저나트륨혈증·신기능 저하에서도 필요 시 loop diuretic을 사용하며, 절대 금기는 아님
 * torsemide : furosemide보다 흡수·반감기 우수
 
-<table data-search="false"><thead><tr><th width="280">Drug</th><th width="200">시작 용량 (㎎)</th><th>최대 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>Loop diuretics</strong></td><td></td><td></td></tr><tr><td>furosemide <mark style="color:blue;">[라식스]</mark></td><td>20–40 qd/bid</td><td>600</td></tr><tr><td>bumetanide <em>(국내 유통 확인 필요)</em></td><td>0.5–1.0 qd/bid</td><td>10</td></tr><tr><td>torsemide <mark style="color:blue;">[토르세미드]</mark></td><td>10–20 qd</td><td>200</td></tr><tr><td><strong>Thiazide diuretics</strong></td><td></td><td></td></tr><tr><td>chlorthalidone <mark style="color:blue;">[하이그로톤]</mark></td><td>12.5–25 qd</td><td>100</td></tr><tr><td>hydrochlorothiazide <mark style="color:blue;">[다이크로짇]</mark></td><td>25 qd</td><td>200</td></tr><tr><td>indapamide <mark style="color:blue;">[후루덱스]</mark></td><td>2.5 qd</td><td>5</td></tr><tr><td>metolazone <em>(국내 유통 확인 필요)</em></td><td>2.5 qd</td><td>20</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="280">Drug</th><th width="200">시작 용량 (㎎)</th><th>최대 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>Loop diuretics</strong></td><td></td><td></td></tr><tr><td>furosemide <mark style="color:blue;">[라식스]</mark></td><td>20–40 qd/bid</td><td>600</td></tr><tr><td>bumetanide </td><td>0.5–1.0 qd/bid</td><td>10</td></tr><tr><td>torsemide <mark style="color:blue;">[토르세미드]</mark></td><td>10–20 qd</td><td>200</td></tr><tr><td><strong>Thiazide diuretics</strong></td><td></td><td></td></tr><tr><td>chlorthalidone <mark style="color:blue;">[하이그로톤]</mark></td><td>12.5–25 qd</td><td>100</td></tr><tr><td>hydrochlorothiazide <mark style="color:blue;">[다이크로짇]</mark></td><td>25 qd</td><td>200</td></tr><tr><td>indapamide <mark style="color:blue;">[후루덱스]</mark></td><td>2.5 qd</td><td>5</td></tr><tr><td>metolazone </td><td>2.5 qd</td><td>20</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Digoxin</mark>
 
@@ -558,7 +554,7 @@ NYHA II\~IV, LVEF ≤40% (또는 기준에 따라 상이) 증상성 HFrEF에서 
 * 오메가-3 보충제 : NYHA II\~IV에서 보조 요법으로 고려
 
 {% hint style="info" %}
-**GLP-1 수용체 작용제 (GLP-1 RA) - 치료 옵션**&#x20;
+**GLP-1 수용체 작용제 (GLP-1 RA) - 치료 옵션**
 
 **비만 동반 HFpEF** 에서 semaglutide 2.4 ㎎/주 sc (STEP-HFpEF, STEP-HFpEF DM 통합 분석, Lancet 2024): 위약 대비 KCCQ 점수 +7.5점, 6분보행거리 +20 m, 체중 −9.8% 유의 개선. 체중 감량 자체가 심장 기계적 부하·심낭지방·좌심실 이완 기능 개선에 기여하는 것으로 해석됨.
 
@@ -578,8 +574,6 @@ Tirzepatide(GIP/GLP-1 이중 작용제) : SUMMIT 시험에서 비만 동반 HFpE
 * NSAID : HFrEF에서 HF 증상 악화 가능
 * 항응고제 : 특정 징후 없는 만성 HFrEF에서 권고하지 않음
 * 비타민·영양제·호르몬 치료 : 특정 결핍 교정 외 권고하지 않음
-
-***
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -658,7 +652,7 @@ I50.9 상세불명의 심부전
 ✓ BNP 또는 NT-proBNP 추적 기준치 확보\
 ✓ 심초음파 추적 일정 계획 (3개월 후)\
 ✓ Follow-up 외래 예약 (퇴원 후 1\~2주 이내)\
-✓ 예방접종 상태 확인 (인플루엔자, 폐렴구균, COVID-19, RSV[60세 이상 고령 HF 환자])\
+✓ 예방접종 상태 확인 (인플루엔자, 폐렴구균, COVID-19, RSV\[60세 이상 고령 HF 환자])\
 ✓ ICD/CRT 적응증 재평가 일정 확인 (GDMT 3개월 후)
 {% endhint %}
 
