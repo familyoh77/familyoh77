@@ -6,27 +6,9 @@
 * 유병률 : 성인의 약 1\~2%; 70세 이상에서 5\~10%; 국내 고령화로 유병률 지속 증가 추세
 * 핵심 위험 : 임상적으로 진단된 AF는 뇌졸중 위험을 약 5배 증가시킴(Framingham 코호트); 스마트워치·Holter 등으로 우연히 발견되는 기기 감지(무증상) AF는 위험 증가 폭이 상대적으로 작고(약 2.5배, ASSERT 연구) 항응고 여부는 위험도에 따라 개별화해야 함 (☞ 하단 A 섹션 참조)
 
-### <mark style="color:orange;">분류</mark>
+#### <mark style="color:$primary;">분류</mark>
 
-| 유형                                   | 정의                                |
-| ------------------------------------ | --------------------------------- |
-| **발작성(Paroxysmal)**                  | 7일 이내 자연 종료; 재발 가능                |
-| **지속성(Persistent)**                  | 7일 초과 지속; 자연 종료되지 않음              |
-| **장기 지속성(Long-standing persistent)** | 1년 이상 지속                          |
-| **영구성(Permanent)**                   | 리듬 조절 시도를 포기하고 rate control만 유지   |
-| **무증상(Subclinical/Silent, 기기 감지)**   | 증상 없이 발견; 스마트워치·Holter·삽입기기에서 우연 발견 증가; 임상적 AF와 뇌졸중 위험 정도가 다를 수 있음 |
-
-{% hint style="info" %}
-**이 챕터의 핵심 로드맵 - AF-CARE (2024 ESC/EACTS)**
-{% endhint %}
-
-<table><thead><tr><th width="70">단계</th><th width="220">핵심</th><th>1차 진료 포인트</th></tr></thead><tbody><tr><td><strong>C</strong></td><td>Comorbidity 관리</td><td>고혈압·비만·음주·OSA·당뇨 등 위험인자 및 AF burden 관리</td></tr><tr><td><strong>A</strong></td><td>Avoid stroke</td><td>CHA₂DS₂-VASc(VA) 평가 후 NOAC 등 항응고</td></tr><tr><td><strong>R</strong></td><td>Rate/Rhythm control</td><td>심박수 조절 우선, 조기/선택적 리듬 조절(항부정맥제·절제술) 고려</td></tr><tr><td><strong>E</strong></td><td>Evaluation</td><td>정기 재평가 — 신기능·순응도·재발·위험인자 목표 달성 여부</td></tr></tbody></table>
-
-{% hint style="info" %}
-**AF burden 개념**
-
-최근에는 AF를 "있다/없다"의 이분법이 아니라, 총 지속 시간의 비율인 **AF burden**(부담) 개념으로 접근하는 경향이 강화되고 있습니다. 위험인자 관리(C)를 통해 AF burden 자체를 줄이는 것이 뇌졸중·심부전 등 합병증 위험 감소와 연관된다는 근거가 축적되고 있습니다.
-{% endhint %}
+<table><thead><tr><th width="228">유형</th><th>정의</th></tr></thead><tbody><tr><td><strong>발작성(Paroxysmal)</strong></td><td>7일 이내 자연 종료; 재발 가능</td></tr><tr><td><strong>지속성(Persistent)</strong></td><td>7일 초과 지속; 자연 종료되지 않음</td></tr><tr><td><strong>장기 지속성(Long-standing persistent)</strong></td><td>1년 이상 지속</td></tr><tr><td><strong>영구성(Permanent)</strong></td><td>리듬 조절 시도를 포기하고 rate control만 유지</td></tr><tr><td><strong>무증상(Subclinical/Silent, 기기 감지)</strong></td><td>증상 없이 발견; 스마트워치·Holter·삽입기기에서 우연 발견 증가; 임상적 AF와 뇌졸중 위험 정도가 다를 수 있음</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -54,7 +36,7 @@
 * 급성 흉통 동반 (급성 관상동맥 증후군 감별)
 * 심한 호흡 곤란, 급성 폐부종
 * 빈맥(＞150회/분) 동반 실신 또는 실신 전구 증상
-* WPW 증후군 동반 AF&#x20;
+* WPW 증후군 동반 AF
 * 급성 허혈성 뇌졸중이 의심되는 AF(편측 마비, 언어 장애, 시야 장애 등 신경학적 결손 동반) → **Stroke Code 활성화** — 혈전용해술/혈전제거술이 가능한 뇌졸중 집중치료팀 보유 병원으로 골든타임 내 이송
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
@@ -90,7 +72,7 @@
   * TSH (갑상선 기능 항진증 배제 필수)
   * 혈당, 공복 지질
   * 흉부 X선
-* 심초음파 : 구조적 심장 질환(판막 질환, 심부전, 비후성 심근병증 등) 평가; 신규 AF에서 원칙적으로 시행&#x20;
+* 심초음파 : 구조적 심장 질환(판막 질환, 심부전, 비후성 심근병증 등) 평가; 신규 AF에서 원칙적으로 시행
 * EHRA 증상 점수 : 환자의 일상생활 제한 정도 파악 (1\~4등급)
 
 ### <mark style="color:orange;">감별 진단</mark>
@@ -132,10 +114,14 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
-**ABC 경로(2020 ESC) → AF-CARE 경로(2024 ESC/EACTS)로 개편**
+<mark style="color:cyan;">**AF-CARE**</mark> (2024 ESC/EACTS)
 
-2024년 ESC/EACTS 가이드라인은 기존 "ABC(Anticoagulation - Better symptom control - Cardiovascular risk)" 경로를 **AF-CARE**로 개편하여, 동반질환·위험인자 관리(Comorbidity)를 관리의 출발점으로 재배치했습니다. 아래는 이 순서(C→A→R→E)를 따릅니다 (☞ 요약표는 상단 일반 사항 참조).
+<table><thead><tr><th width="64"></th><th width="154">핵심</th><th>1차 진료 포인트</th></tr></thead><tbody><tr><td><strong>C</strong></td><td>Comorbidity 관리</td><td>고혈압·비만·음주·OSA·당뇨 등 위험 인자 및 AF burden 관리</td></tr><tr><td><strong>A</strong></td><td>Avoid stroke</td><td>CHA₂DS₂-VASc(VA) 평가 후 NOAC 등 항응고</td></tr><tr><td><strong>R</strong></td><td>Rate/Rhythm control</td><td>심박수 조절 우선, 조기/선택적 리듬 조절(항부정맥제·절제술) 고려</td></tr><tr><td><strong>E</strong></td><td>Evaluation</td><td>정기 재평가 - 신기능·순응도·재발·위험인자 목표 달성 여부</td></tr></tbody></table>
+
+{% hint style="info" %}
+**AF burden 개념**
+
+최근에는 AF를 "있다/없다"의 이분법이 아니라, 총 지속 시간의 비율인 **AF burden**(부담) 개념으로 접근하는 경향이 강화되고 있음. 위험 인자 관리(C)를 통해 AF burden 자체를 줄이는 것이 뇌졸중·심부전 등 합병증 위험 감소와 연관된다는 근거가 축적되고 있음
 {% endhint %}
 
 ### <mark style="color:orange;">C - Comorbidity and risk factor management : 동반질환·위험인자 관리</mark>
@@ -183,7 +169,7 @@ graph TD
 {% hint style="info" %}
 **무증상(기기 감지) AF/AHRE의 항응고 - 일률적 적용은 곤란**
 
-삽입기기로 발견된 무증상 심방고빈맥(AHRE)·기기 감지 AF에 대한 무작위 연구(NOAH-AFNET 6, ARTESiA, NEJM 2024)에서 항응고는 뇌졸중을 상대적으로 약 32% 감소시켰으나 주요 출혈을 약 62% 증가시켜, 대다수 환자에서 순이득이 불확실합니다. **저위험군에서는 일률적 항응고가 권장되지 않으며**, 뇌졸중 위험이 높은 환자군(CHA₂DS₂-VASc 고득점, 추가 위험인자 동반)에서만 **환자와의 공유의사결정(shared decision-making)**을 통해 개별화하여 결정합니다 → 순환기내과 협진 고려
+삽입기기로 발견된 무증상 심방고빈맥(AHRE)·기기 감지 AF에 대한 무작위 연구(NOAH-AFNET 6, ARTESiA, NEJM 2024)에서 항응고는 뇌졸중을 상대적으로 약 32% 감소시켰으나 주요 출혈을 약 62% 증가시켜, 대다수 환자에서 순이득이 불확실합니다. **저위험군에서는 일률적 항응고가 권장되지 않으며**, 뇌졸중 위험이 높은 환자군(CHA₂DS₂-VASc 고득점, 추가 위험인자 동반)에서만 \*\*환자와의 공유의사결정(shared decision-making)\*\*을 통해 개별화하여 결정합니다 → 순환기내과 협진 고려
 {% endhint %}
 
 * 경피적 좌심방이 폐쇄술(Left Atrial Appendage Occlusion, LAAO) : 항응고 절대 금기(NOAC/와파린 모두 불가)인 경우뿐 아니라, **반복적인 major bleeding**이나 **장기간 항응고 유지가 임상적으로 어려운 고위험 환자**에서도 대안으로 고려될 수 있음(2024 ESC 기준 약한 권고, Class IIb 수준) → 순환기내과(구조적 심장 중재) 의뢰
@@ -192,16 +178,16 @@ graph TD
 
 ### <mark style="color:orange;">R - Reduce symptoms by rate and rhythm control : 심박수·리듬 조절</mark>
 
-#### <mark style="color:$primary;">심박수 조절 (Rate Control)</mark>&#x20;
+#### <mark style="color:$primary;">심박수 조절 (Rate Control)</mark>
 
 * 대부분의 경우 우선 선택
 * 목표(RACE II) : lenient control - 안정 시 맥박수 ＜110회/분(대부분 우선 선택); 증상 지속 시 **strict control**(안정 시 ＜80회/분, 중등도 운동 시 ＜110회/분) 고려
 
 <mark style="color:cyan;">**1차 약제**</mark>
 
-<table><thead><tr><th width="146">약제</th><th>처방 예시</th><th>주의</th></tr></thead><tbody><tr><td>β-차단제</td><td>베타록 서방정 47.5 ㎎ #1 또는 <br>콩코르(비소프롤롤) 2.5~5 ㎎ #1</td><td>만성 AF rate control에는 비소프롤롤·메토프롤롤·카르베딜롤이 선호됨(인데놀 등 propranolol은 단시간 작용으로 상대적으로 덜 사용); 천식·COPD 주의; 심부전에서 카르베딜롤·비소프롤롤 선호</td></tr><tr><td>non-DHP CCB</td><td>헤르벤 서방정 90 ㎎ #2 또는 <br>이솦틴 서방정 240 ㎎ #1</td><td>심부전(EF 저하) 환자에게 금기</td></tr><tr><td>Digoxin</td><td>디곡신 0.125~0.25 ㎎ #1</td><td>미주신경 긴장도를 높이는 기전상 **좌심실 기능 저하(HFrEF) 또는 좌식 생활 환자**에서 특히 유용; 운동(교감신경 항진) 시에는 심박수 조절 효과가 떨어짐; 혈중 농도 모니터링 필요</td></tr></tbody></table>
+<table><thead><tr><th width="146">약제</th><th>처방 예시</th><th>주의</th></tr></thead><tbody><tr><td>β-차단제</td><td>베타록 서방정 47.5 ㎎ #1 또는<br>콩코르(비소프롤롤) 2.5~5 ㎎ #1</td><td>만성 AF rate control에는 비소프롤롤·메토프롤롤·카르베딜롤이 선호됨(인데놀 등 propranolol은 단시간 작용으로 상대적으로 덜 사용); 천식·COPD 주의; 심부전에서 카르베딜롤·비소프롤롤 선호</td></tr><tr><td>non-DHP CCB</td><td>헤르벤 서방정 90 ㎎ #2 또는<br>이솦틴 서방정 240 ㎎ #1</td><td>심부전(EF 저하) 환자에게 금기</td></tr><tr><td>Digoxin</td><td>디곡신 0.125~0.25 ㎎ #1</td><td>미주신경 긴장도를 높이는 기전상 **좌심실 기능 저하(HFrEF) 또는 좌식 생활 환자**에서 특히 유용; 운동(교감신경 항진) 시에는 심박수 조절 효과가 떨어짐; 혈중 농도 모니터링 필요</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">리듬 조절 (Rhythm Control)</mark>&#x20;
+#### <mark style="color:$primary;">리듬 조절 (Rhythm Control)</mark>
 
 * 심박수 조절 후에도 증상 지속, 젊은 연령, 빈맥 유발성 심근병증 우려 시 고려 - 의뢰
 * **리듬 조절의 목표 확장 - 증상 완화를 넘어 예후 개선** : 2024 ESC는 리듬 조절을 단순한 "증상 치료"가 아니라, 선택된 환자군(신규 진단·동반 위험인자 보유)에서는 심혈관 사망·뇌졸중·입원 등 예후 개선(prognosis improvement)까지 기대할 수 있는 전략으로 강조함
@@ -228,7 +214,7 @@ graph TD
 
 ## <mark style="color:red;">질병코드</mark>
 
-I48.0 발작성 심방세동 \
+I48.0 발작성 심방세동\
 I48.1 지속성 심방세동\
 I48.2 만성(영구성) 심방세동\
 I48.9 상세불명의 심방세동
