@@ -323,36 +323,31 @@ flowchart TD
     START(["증상성 HFrEF 환자\n(LVEF ≤ 40%)"])
     style START fill:#eeeeee,stroke:#888888,stroke-width:2px
 QUAD["<b>Class I — 4제 동시 시작\n(목표 용량까지 titration)</b>
-•ACEi\n(또는 ARNi᷾ 또는 ARB)\n•Beta-blocker\n•MRA\n•SGLT2i"]
-    DIURETIC["증상 완화 목적\n이뇨제 추가 (필요 시)"]
+•ACEi\n(또는 ARNi¹⁾ 또는 ARB)\n•Beta-blocker\n•MRA\n•SGLT2i
+\n*필요 시 이뇨제 추가\n(증상 완화 목적)"]
     ASSESS["추적 평가\n(3개월)\nLVEF · 증상 재평가"]
     style ASSESS fill:#e8f8e8,stroke:#4caf50
-
     subgraph DEVICE["<b>Device therapy 평가</b>"]
         direction LR
         DEV1["<u>ICD</u>\n•LVEF ≤35%\n•NYHA II–III\n•GDMT ≥3개월"]
         style DEV1 fill:#fef9c3,stroke:#facc15,stroke-width:1px
-        DEV2["<u>CRT-D</u>\n•LVEF ≤35%\n•NYHA II–IIIᵇ\n•QRS ≥150 ms\n•LBBB + 동성 리듬"]
+        DEV2["<u>CRT-D</u>\n•LVEF ≤35%\n•NYHA II–III²⁾\n•QRS ≥150 ms\n•LBBB + 동성 리듬"]
         style DEV2 fill:#fef9c3,stroke:#facc15,stroke-width:1px
     end
-
 SELECT["<b>선택적 추가 치료</b>
-•ARNi᷾\n(ACEi 대체)\n•Ivabradine\nSR + HR ≥70 bpm\n•H-ISDN\nAfrican American\nNYHA III–IV\n•Vericiguat\n최근 악화 HFrEF"]
+•ARNi¹⁾\n(ACEi 대체)\n•Ivabradine\nSR + HR ≥70 bpm\n•H-ISDN\nAfrican American\nNYHA III–IV\n•Vericiguat\n최근 악화 HFrEF"]
     ADVANCED["Advanced HF 평가\nLVAD · 심장 이식 · 완화의료"]
     style ADVANCED fill:#fde8e8,stroke:#cc4444,stroke-width:1.5px
-
 classDef sky fill:#e3f2ff,stroke:#2196f3
-class DIURETIC,QUAD,SELECT sky
-
+class QUAD,SELECT sky
     START --> QUAD
-    START --> DIURETIC
     QUAD --> ASSESS
     ASSESS -->|"LVEF ≤ 35% 지속"| DEVICE
     ASSESS -->|"증상 지속"| SELECT
     ASSESS -->|"GDMT 불응\n반복 입원"| ADVANCED
 ```
 
-_<mark style="color:$info;">᷾ ARNi는 ACEi의 마지막 투약 36시간 이후 개시;</mark> <mark style="color:$info;"></mark><mark style="color:$info;">ᵇ 보행 가능한 NYHA IV 포함</mark>_
+_<mark style="color:$info;">¹⁾ARNi는 ACEi의 마지막 투약 36시간 이후 개시; ²⁾보행 가능한 NYHA IV 포함</mark>_
 
 _<mark style="color:$info;">ICD = implantable cardioverter-defibrillator; CRT-D=cardiac resynchronization therapy with defibrillator</mark>_
 
