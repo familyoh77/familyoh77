@@ -37,30 +37,29 @@
 * 심한 호흡 곤란, 급성 폐부종
 * 빈맥(＞150회/분) 동반 실신 또는 실신 전구 증상
 * WPW 증후군 동반 AF
-* 급성 허혈성 뇌졸중이 의심되는 AF(편측 마비, 언어 장애, 시야 장애 등 신경학적 결손 동반) → **Stroke Code 활성화** — 혈전용해술/혈전제거술이 가능한 뇌졸중 집중치료팀 보유 병원으로 골든타임 내 이송
+* 편측 마비, 언어 장애, 시야 장애 등 신경학적 결손 동반 → 급성 허혈성 뇌졸중
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 신규 발생 AF (48시간 이내 여부 불확실 포함)
 * 심박수 조절 약물에도 맥박 ≥110회/분 지속
 * 심초음파가 필요한 경우 (구조적 심장 질환 배제)
-* 항응고 요법 시작 전 복잡한 출혈 위험 평가가 필요한 경우
-* 젊은 환자에서 리듬 조절(절제술) 고려 시
+* 항응고 요법 시작 전 복잡한 출혈 위험 평가가 필요
+* 젊은 환자에서 리듬 조절(절제술) 고려
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 심박수 조절 약제 조정 후에도 목표 심박수(＜110회/분) 미달 시 재평가
-* 기기·스마트워치에서 우연히 짧은 무증상 AHRE(atrial high-rate episode)가 반복 발견되는 경우 → 항응고 필요성 공유의사결정을 위한 순환기내과 협진
-* 리듬 조절(항부정맥제) 시작 후 정기적 QT/간·신기능 모니터링 계획
-* 위험인자(체중·혈압·음주·OSA) 관리 목표 미달로 AF 부담이 지속되는 경우
+* 심박수 조절 약제 조정 후에도 목표 심박수(＜110회/분) 미달
+* 기기·스마트워치에서 우연히 짧은 무증상 AHRE(atrial high-rate episode)가 반복 발견
+* 위험 인자(체중·혈압·음주·OSA) 관리 목표 미달
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">진단 기준</mark>
 
-* 12-유도 ECG 또는 **의료진이 확인한(physician-reviewed)** 30초 이상의 단일 유도 ECG rhythm strip에서 P파 소실 &/or 불규칙한 RR interval
+* 12-유도 ECG 또는 의료진이 확인한(physician-reviewed) 30초 이상의 단일 유도 ECG rhythm strip에서 P파 소실 &/or 불규칙한 RR interval
   * 스마트워치 등 wearable ECG로 포착한 데이터도 진단 참고 자료로 활용 가능; 단, 확진은 12-유도 ECG 또는 의료진이 판독한 단일 유도 30초 이상 rhythm strip으로 함
-  * 삽입기기에서 감지된 AHRE(atrial high-rate episode)는 기기가 정의한(device-defined) 심방빈맥 에피소드로, 12-유도 ECG로 확진된 임상적 AF와 동일하게 취급하지 않음; 구체적 duration 역치는 연구마다 상이(ASSERT 6분, NOAH ＞6분, ARTESiA 6분\~24시간 등)하므로 특정 분(分) 수를 진단 기준처럼 고정하지 않음(☞ A 섹션 hint 참조)
+  * 삽입기기에서 감지된 AHRE(atrial high-rate episode)는 기기가 정의한(device-defined) 심방빈맥 에피소드로, 12-유도 ECG로 확진된 임상적 AF와 동일하게 취급하지 않음; 구체적 duration 역치는 연구마다 상이(ASSERT 6분, NOAH ＞6분, ARTESiA 6분\~24시간 등)하므로 특정 분(分) 수를 진단 기준처럼 고정하지 않음)
 
 ### <mark style="color:orange;">초기 평가</mark>
 
@@ -75,40 +74,48 @@
 * 심초음파 : 구조적 심장 질환(판막 질환, 심부전, 비후성 심근병증 등) 평가; 신규 AF에서 원칙적으로 시행
 * EHRA 증상 점수 : 환자의 일상생활 제한 정도 파악 (1\~4등급)
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 불규칙한 맥박·두근거림으로 내원 시 아래 부정맥과 감별
 
-<table><thead><tr><th width="140">질환</th><th width="260">AF와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>심방조동(Atrial flutter)</td><td>규칙적인 톱니 모양(sawtooth) F파, RR interval이 대개 규칙적</td><td>ECG상 II·III·aVF 유도에서 sawtooth pattern; 치료 원칙은 AF와 유사하나 절제술 성공률이 더 높음</td></tr><tr><td>발작성 상심실성 빈맥(PSVT)</td><td>P파 소실이 아닌 역행성 P파 또는 P파 묻힘; 리듬 규칙적</td><td>갑작스런 시작·종료, 젊은 연령, adenosine 반응성으로 감별</td></tr><tr><td>빈번한 심실조기수축(PVC)/이단맥</td><td>불규칙하게 느껴지나 기저 리듬은 동율동; ECG에서 넓은 QRS 조기박동</td><td>Holter로 PVC burden 확인; P파 정상 존재</td></tr><tr><td>동성빈맥(Sinus tachycardia)</td><td>규칙적인 리듬, 정상 P파 선행</td><td>발열·빈혈·갑상선기능항진증·불안 등 이차 원인 확인</td></tr></tbody></table>
+<table><thead><tr><th width="140">질환</th><th width="238">AF와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>심방조동<br>(Atrial flutter)</td><td>규칙적인 톱니 모양(sawtooth) F파, RR interval이 대개 규칙적</td><td>ECG상 II·III·aVF 유도에서 sawtooth pattern; 치료 원칙은 AF와 유사하나 절제술 성공률이 더 높음</td></tr><tr><td>발작성 상심실성 빈맥 (PSVT)</td><td>P파 소실이 아닌 역행성 P파 또는 P파 묻힘; 리듬 규칙적</td><td>갑작스런 시작·종료, 젊은 연령, adenosine 반응성으로 감별</td></tr><tr><td>빈번한 심실조기수축 (PVC)</td><td>불규칙하게 느껴지나 기저 리듬은 동율동; ECG에서 넓은 QRS 조기박동</td><td>Holter로 PVC burden 확인; P파 정상 존재</td></tr><tr><td>동성빈맥 (Sinus tachycardia)</td><td>규칙적인 리듬, 정상 P파 선행</td><td>발열·빈혈·갑상선기능항진증·불안 등 이차 원인 확인</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    Start(["신규 AF 발견"]) --> Unstable{"혈역학적 불안정 또는<br/>Red Flag 동반?"}
-    Unstable -->|Yes| Emergency["응급 이송 · 즉각 의뢰"]
-    Unstable -->|No| Workup["병력·신체검진·기본검사<br/>ECG, TSH, 전해질, 심초음파"]
-    Workup --> Score{"CHA2DS2-VASc(또는 VA)<br/>평가"}
-    Score -->|"남 ≥2 / 여 ≥3"| OAC["NOAC 항응고 시작"]
-    Score -->|"남 1 / 여 2"| Consider["출혈위험·환자선호 고려<br/>항응고 개별화"]
-    Score -->|"0점(남) / 1점(여, 성별만)"| NoOAC["항응고 불필요"]
-    OAC --> Rate["심박수 조절<br/>β-차단제 · non-DHP CCB · Digoxin"]
+    Start(["신규 AF 발견"]) --> Unstable["혈역학적 불안정 또는<br/>Red Flag 동반?"]
+    Unstable -->|YES| Emergency["응급 이송·즉각 의뢰"]
+    Unstable -->|NO| Workup["<u>병력·신체검진·기본검사</u><br/>ECG, TSH, 전해질, 심초음파"]
+    Workup --> Score["CHA2DS2-VASc(또는 VA)<br/>평가"]
+    Score -->|"남 ≥2점/여 ≥3점"| OAC["NOAC 항응고 시작"]
+    Score -->|"남 1점/여 2점"| Consider["출혈위험·환자선호 고려<br/>항응고 개별화"]
+    Score -->|"남 0점/여 1점(성별만)"| NoOAC["항응고 불필요"]
+    OAC --> Rate["<u>심박수 조절</u><br/>β-차단제·non-DHP CCB·Digoxin"]
     Consider --> Rate
     NoOAC --> Rate
-    Rate --> Symptom{"증상 지속 또는<br/>젊은 연령 · HFrEF 동반?"}
-    Symptom -->|Yes| Rhythm["리듬 조절 논의<br/>항부정맥제 · 카테터 절제술 — 의뢰"]
-    Symptom -->|No| Followup["위험인자 관리 + 정기 재평가<br/>고혈압 · OSA · 비만 · 음주"]
-    Rhythm --> Duration{"AF 발생 48시간 이내<br/>확실한가?"}
-    Duration -->|"No / 불확실"| TEE["경식도초음파 또는<br/>3주 이상 선행 항응고 후 전환"]
-    Duration -->|Yes| Cardiovert["리듬 전환 고려"]
-    style Emergency fill:#f96,stroke:#e65100,stroke-width:2px
-    style OAC fill:#90caf9,stroke:#1565c0,stroke-width:2px
-    style Rhythm fill:#ce93d8,stroke:#6a1b9a,stroke-width:2px
+    Rate --> Symptom["증상 지속 또는<br/>젊은 연령·HFrEF 동반?"]
+    Symptom -->|YES| Rhythm["<u>리듬 조절 논의</u><br/>항부정맥제·카테터 절제술<br/> — 의뢰"]
+    Symptom -->|NO| Followup["<u>위험인자 관리+정기 재평가</u><br/>고혈압·OSA·비만·음주"]
+    Rhythm --> Duration["AF 발생 48시간 이내?"]
+        Duration -->|YES| Cardiovert["리듬 전환 고려"]
+    Duration -->|"NO / 불확실"| TEE["경식도초음파 또는<br/>3주 이상 선행 항응고 후 전환"]
+
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+style Emergency fill:#ffcdd2,stroke:#c62828
+style Rhythm fill:#fdebd0,stroke:#e67e22
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Unstable,Score,Symptom,Duration yellow
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class Workup lightGreen
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class OAC,Rate sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class Followup,Cardiovert,TEE blue
+
 ```
 
 <p align="center"><strong>신규 심방세동 초기 평가 및 치료 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. 2024 ESC/EACTS Guidelines for the management of atrial fibrillation (AF-CARE); 대한부정맥학회</mark></em></p>
 
 ***
 
@@ -124,7 +131,7 @@ graph TD
 최근에는 AF를 "있다/없다"의 이분법이 아니라, 총 지속 시간의 비율인 **AF burden**(부담) 개념으로 접근하는 경향이 강화되고 있음. 위험 인자 관리(C)를 통해 AF burden 자체를 줄이는 것이 뇌졸중·심부전 등 합병증 위험 감소와 연관된다는 근거가 축적되고 있음
 {% endhint %}
 
-### <mark style="color:orange;">C - Comorbidity and risk factor management : 동반질환·위험인자 관리</mark>
+### <mark style="color:orange;">C - Comorbidity and risk factor management</mark>&#x20;
 
 * 고혈압 : 목표 혈압 달성이 AF 재발 및 뇌졸중 위험 감소에 직결
 * 수면무호흡증 : CPAP 치료 시 AF 재발 및 부담 감소; STOP-BANG 등으로 선별 (☞ 수면무호흡증)
@@ -160,11 +167,11 @@ graph TD
 **주의 - 생체판막(Bioprosthetic valve)은 다름** : 생체 판막 치환술 후 또는 판막성형술(repair) 후 환자는 기계판막과 달리 NOAC 사용이 가능합니다(단, 수술 직후 초기 3개월 등 특정 시기는 제외하며 순환기내과 상의 필요). "판막 수술 이력 = 무조건 와파린"으로 오인하지 않도록 주의
 {% endhint %}
 
-<table><thead><tr><th width="177">약제</th><th>용량</th><th>비고</th></tr></thead><tbody><tr><td><strong>다비가트란(dabigatran)</strong> <mark style="color:blue;">[프라닥사]</mark></td><td>150 ㎎ 1T #2 (표준) / 110 ㎎ 1T #2 (80세 이상은 필수 감량; 75~79세는 병용 출혈위험인자 동반 시 감량 고려)</td><td>신기능 의존도 높음; eGFR ＜30 금기</td></tr><tr><td><strong>리바록사반(rivaroxaban)</strong> <mark style="color:blue;">[자렐토]</mark></td><td>20 ㎎ 1T #1 저녁 식사와 함께</td><td>eGFR 15~49 시 15 ㎎으로 감량; eGFR ＜15 금기</td></tr><tr><td><strong>아픽사반(apixaban)</strong> <mark style="color:blue;">[엘리퀴스]</mark></td><td>5 ㎎ 1T #2</td><td>다음 3가지 중 <strong>2가지 이상</strong> 해당 시 2.5 ㎎ #2로 감량 : ① 연령 ≥80세 ② 체중 ≤60 ㎏ ③ 혈청 크레아티닌 ≥1.5 ㎎/㎗</td></tr><tr><td><strong>에독사반(edoxaban)</strong> <mark style="color:blue;">[릭시아나]</mark></td><td>60 ㎎ 1T #1</td><td>eGFR 15~50, 체중 ≤60 ㎏, 또는 강력한 P-gp 억제제 병용 시 30 ㎎으로 감량; CrCl ＞95 ㎖/min에서는 효과 감소 가능성이 보고되어(ENGAGE AF-TIMI 48 사후분석, 미국 FDA 라벨 기준) 다른 NOAC을 우선 고려 — 국내 허가사항도 처방 전 확인 필요</td></tr></tbody></table>
+<table><thead><tr><th width="177">약제</th><th>용량</th><th>비고</th></tr></thead><tbody><tr><td>Dabigatran <mark style="color:blue;">[프라닥사]</mark></td><td>150 ㎎ 1T #2 (표준) / 110 ㎎ 1T #2 (80세 이상은 필수 감량; 75~79세는 병용 출혈위험인자 동반 시 감량 고려)</td><td>신기능 의존도 높음; eGFR ＜30 금기</td></tr><tr><td>Rivaroxaban <mark style="color:blue;">[자렐토]</mark></td><td>20 ㎎ 1T #1 저녁 식사와 함께</td><td>eGFR 15~49 시 15 ㎎으로 감량; eGFR ＜15 금기</td></tr><tr><td>Apixaban <mark style="color:blue;">[엘리퀴스]</mark></td><td>5 ㎎ 1T #2</td><td>다음 3가지 중 <strong>2가지 이상</strong> 해당 시 2.5 ㎎ #2로 감량 : ⓵ 연령 ≥80세, ⓶ 체중 ≤60 ㎏, ⓷ 혈청 크레아티닌 ≥1.5 ㎎/㎗</td></tr><tr><td>Edoxaban <mark style="color:blue;">[릭시아나]</mark></td><td>60 ㎎ 1T #1</td><td>eGFR 15~50, 체중 ≤60 ㎏, 또는 강력한 P-gp 억제제 병용 시 30 ㎎으로 감량; CrCl ＞95 ㎖/min에서는 효과 감소 가능성이 보고되어 다른 NOAC을 우선 고려 </td></tr></tbody></table>
 
 * 신기능(eGFR) 및 간기능 확인 후 약제 선택
 * 출혈 위험 평가(HAS-BLED) 참고하되, 출혈 위험이 높다는 이유만으로 항응고 치료를 중단해서는 안 됨 - 교정 가능한 출혈 위험인자(고혈압 조절, 약물 상호작용, 음주 중단)를 먼저 교정
-* **HAS-BLED는 항응고 여부를 결정하는 점수가 아니라, 교정 가능한 출혈 위험인자를 확인하기 위한 체크리스트**임 - 점수가 높다는 것 자체가 항응고 금기를 의미하지 않음
+* HAS-BLED는 항응고 여부를 결정하는 점수가 아니라, 교정 가능한 출혈 위험인자를 확인하기 위한 체크리스트임 - 점수가 높다는 것 자체가 항응고 금기를 의미하지 않음
 
 {% hint style="info" %}
 **무증상(기기 감지) AF/AHRE의 항응고 - 일률적 적용은 곤란**
@@ -172,16 +179,14 @@ graph TD
 삽입기기로 발견된 무증상 심방고빈맥(AHRE)·기기 감지 AF에 대한 무작위 연구(NOAH-AFNET 6, ARTESiA, NEJM 2024)에서 항응고는 뇌졸중을 상대적으로 약 32% 감소시켰으나 주요 출혈을 약 62% 증가시켜, 대다수 환자에서 순이득이 불확실합니다. **저위험군에서는 일률적 항응고가 권장되지 않으며**, 뇌졸중 위험이 높은 환자군(CHA₂DS₂-VASc 고득점, 추가 위험인자 동반)에서만 \*\*환자와의 공유의사결정(shared decision-making)\*\*을 통해 개별화하여 결정합니다 → 순환기내과 협진 고려
 {% endhint %}
 
-* 경피적 좌심방이 폐쇄술(Left Atrial Appendage Occlusion, LAAO) : 항응고 절대 금기(NOAC/와파린 모두 불가)인 경우뿐 아니라, **반복적인 major bleeding**이나 **장기간 항응고 유지가 임상적으로 어려운 고위험 환자**에서도 대안으로 고려될 수 있음(2024 ESC 기준 약한 권고, Class IIb 수준) → 순환기내과(구조적 심장 중재) 의뢰
+* 경피적 좌심방이 폐쇄술(Left Atrial Appendage Occlusion, LAAO) : 항응고 절대 금기(NOAC/와파린 모두 불가)인 경우뿐 아니라, 반복적인 major bleeding이나 장기간 항응고 유지가 임상적으로 어려운 고위험 환자에서도 대안으로 고려될 수 있음(2024 ESC 기준 약한 권고, Class IIb 수준) → 순환기내과(구조적 심장 중재) 의뢰
 
-***
-
-### <mark style="color:orange;">R - Reduce symptoms by rate and rhythm control : 심박수·리듬 조절</mark>
+### <mark style="color:orange;">R - Reduce symptoms by rate and rhythm control</mark>&#x20;
 
 #### <mark style="color:$primary;">심박수 조절 (Rate Control)</mark>
 
 * 대부분의 경우 우선 선택
-* 목표(RACE II) : lenient control - 안정 시 맥박수 ＜110회/분(대부분 우선 선택); 증상 지속 시 **strict control**(안정 시 ＜80회/분, 중등도 운동 시 ＜110회/분) 고려
+* 목표 : lenient control - 안정 시 맥박수 ＜110회/분(대부분 우선 선택); 증상 지속 시 strict control(안정 시 ＜80회/분, 중등도 운동 시 ＜110회/분) 고려
 
 <mark style="color:cyan;">**1차 약제**</mark>
 
@@ -190,19 +195,17 @@ graph TD
 #### <mark style="color:$primary;">리듬 조절 (Rhythm Control)</mark>
 
 * 심박수 조절 후에도 증상 지속, 젊은 연령, 빈맥 유발성 심근병증 우려 시 고려 - 의뢰
-* **리듬 조절의 목표 확장 - 증상 완화를 넘어 예후 개선** : 2024 ESC는 리듬 조절을 단순한 "증상 치료"가 아니라, 선택된 환자군(신규 진단·동반 위험인자 보유)에서는 심혈관 사망·뇌졸중·입원 등 예후 개선(prognosis improvement)까지 기대할 수 있는 전략으로 강조함
-* **조기 리듬 조절 근거 강화(EAST-AFNET 4, NEJM 2020; 2024 ESC 권고 등급 상향)** : 진단 후 1년 이내 조기에 리듬 조절을 시행한 군에서 심혈관 사망·뇌졸중·심부전 입원이 유의하게 감소함 — 특히 동반 위험인자가 있는 신규/조기 AF 환자에서는 "치료 실패 후"가 아니라 조기에 리듬 조절 여부를 논의 → 의뢰
-* **카테터 절제술의 지위 상향** : HFrEF 동반 AF(CASTLE-AF)나 젊은 발작성 AF 환자(EARLY-AF, CABANA)에서 항부정맥제보다 먼저 고려될 수 있는 1차 리듬조절 옵션으로 자리잡음; 최종 결정은 전기생리학 전문의 협진
+* 리듬 조절의 목표 확장 - 증상 완화를 넘어 예후 개선 : 2024 ESC는 리듬 조절을 단순한 "증상 치료"가 아니라, 선택된 환자군(신규 진단·동반 위험인자 보유)에서는 심혈관 사망·뇌졸중·입원 등 예후 개선(prognosis improvement)까지 기대할 수 있는 전략으로 강조함
+* 조기 리듬 조절 근거 강화(EAST-AFNET 4, NEJM 2020; 2024 ESC 권고 등급 상향) : 진단 후 1년 이내 조기에 리듬 조절을 시행한 군에서 심혈관 사망·뇌졸중·심부전 입원이 유의하게 감소함 — 특히 동반 위험인자가 있는 신규/조기 AF 환자에서는 "치료 실패 후"가 아니라 조기에 리듬 조절 여부를 논의 → 의뢰
+* 카테터 절제술의 지위 상향 : HFrEF 동반 AF(CASTLE-AF)나 젊은 발작성 AF 환자(EARLY-AF, CABANA)에서 항부정맥제보다 먼저 고려될 수 있는 1차 리듬조절 옵션으로 자리잡음; 최종 결정은 전기생리학 전문의 협진
 * 방법 : 항부정맥제(플레카이나이드·프로파페논·아미오다론 등), 전기적 심율동 전환, 카테터 절제술
 
 <table><thead><tr><th width="150">구조적 심질환/상황</th><th width="220">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>구조적 심질환 없음, 젊은 환자</td><td>플레카이나이드, 프로파페논</td><td>Class Ic제; 관상동맥질환·심부전에서는 금기(CAST 연구)</td></tr><tr><td>구조적 심질환·심부전(HFrEF) 동반</td><td>아미오다론</td><td>효과적이나 갑상선·폐·간 독성 등 장기 부작용 감시 필요; 장기 사용 시 정기 모니터링(TSH, 흉부 X선, 간기능)</td></tr><tr><td>치료 저항성 또는 재발성</td><td>카테터 절제술 — 의뢰</td><td>항부정맥제보다 먼저 고려되는 경우도 증가(HFrEF, 젊은 발작성 AF)</td></tr></tbody></table>
 
 * 리듬 조절 시도 전 혈전 확인 원칙 : AF 발생 48시간 이내 여부 불확실하거나 48시간 초과 시 → 경식도 초음파(혈전 배제) 또는 3주 이상 선행 항응고 요법 필수
-  * 단, **이미 3주 이상 적절한 치료 용량의 항응고가 유지되고 있던 환자**는 48시간 경과 여부와 무관하게 TEE 없이 리듬 전환 가능
+  * 단, 이미 3주 이상 적절한 치료 용량의 항응고가 유지되고 있던 환자는 48시간 경과 여부와 무관하게 TEE 없이 리듬 전환 가능
 
-***
-
-### <mark style="color:orange;">E - Evaluation and dynamic reassessment : 평가 및 동적 재평가</mark>
+### <mark style="color:orange;">E - Evaluation and dynamic reassessment</mark>&#x20;
 
 * NOAC 복용 환자 : 3\~6개월마다 신기능·간기능·혈압 확인; 복약 순응도 점검
 * 심박수 모니터링 : 맥박 측정 또는 ECG; 목표 달성 여부 확인
