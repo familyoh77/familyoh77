@@ -364,37 +364,27 @@ _<mark style="color:$info;">ICD = implantable cardioverter-defibrillator; CRT-D=
 ```mermaid
 flowchart TD
     START(["HFpEF (LVEF ≥50% + 증상)"])
-    style START fill:#fef9c3,stroke:#c8a800,stroke-width:1.5px
-
-    SGLT2["① SGLT2i (dapagliflozin or empagliflozin)\nClass I - 전체 HFpEF 환자에서 적용\n(ESC 2023 Focused Update)"]
-    style SGLT2 fill:#dcfce7,stroke:#4ade80,stroke-width:1.5px
-
-    VOLUME{"② Volume overload\n(부종, 체중 증가, 폐울혈)?"}
-    style VOLUME fill:#fff9e0,stroke:#c8a800,stroke-width:1px
-
+    style START fill:#eeeeee,stroke:#888888,stroke-width:2px
+    SGLT2["SGLT2i (dapagliflozin or empagliflozin)"]
+    VOLUME["Volume overload\n(부종, 체중 증가, 폐울혈)?"]
     DIURETIC["Loop diuretic 추가\n(최소 유효 용량; 과도한 탈수 주의)"]
-    style DIURETIC fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
 
-    AF{"③ AF 동반?"}
-    style AF fill:#fff9e0,stroke:#c8a800,stroke-width:1px
+    AF["AF 동반?"]
 
     RATE["심박수 조절\n(beta-blocker or CCB)\n+ NOAC 항응고"]
-    style RATE fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
-
-    OBESITY{"④ 비만 동반?\n(BMI ≥ 30)"}
-    style OBESITY fill:#fff9e0,stroke:#c8a800,stroke-width:1px
+    OBESITY["비만 동반?\n(BMI ≥ 30)"]
 
     WEIGHT["체중 감량\n식이 · 운동 · GLP-1 RA 고려\n(STEP-HFpEF 근거)"]
-    style WEIGHT fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
-
-    HTN{"⑤ 고혈압 동반?"}
-    style HTN fill:#fff9e0,stroke:#c8a800,stroke-width:1px
+    HTN["고혈압 동반?"]
 
     BPCTRL["엄격한 혈압 조절\n목표 <130/80 ㎜Hg"]
-    style BPCTRL fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
+    CONT["지속적 재평가\n증상·기능·동반 질환 최적화"]
+    style CONT fill:#d0e8ff,stroke:#1a6abf
 
-    CONT["지속적 재평가\n증상 · 기능 · 동반 질환 최적화"]
-    style CONT fill:#e8f4e8,stroke:#4a9a4a,stroke-width:1.5px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class VOLUME,AF,OBESITY,HTN yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class SGLT2,DIURETIC,RATE,WEIGHT,BPCTRL sky
 
     START --> SGLT2
     SGLT2 --> VOLUME
@@ -414,8 +404,6 @@ flowchart TD
 
 <p align="center"><strong>HFpEF 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 편집 (ESC 2023 Focused Update; AHA/ACC/HFSA 2022; STEP-HFpEF 2023 기반)</mark></em></p>
-
 ***
 
 #### <mark style="color:$primary;">Stage D : Advanced HF</mark>
@@ -423,112 +411,13 @@ flowchart TD
 * 적절한 치료에도 불구하고 일상생활을 방해하고 반복적인 입원이 요구되는 현저한 HF 증상
 * **전문센터 의뢰 기준** : ① 최근 12개월 내 HF 관련 입원 ≥2회, ② NYHA IV (최적 GDMT에도 불응), ③ GDMT 불내성으로 표준 치료 불가, ④ 지속적 이뇨제 의존·저나트륨혈증·저혈압 동반, ⑤ 심장 이식/LVAD/임상시험 적합성 평가 필요
 
-***
+<mark style="color:cyan;">**HFrEF Stage C & D 환자 치료**</mark>&#x20;
 
-```mermaid
-flowchart LR
-    subgraph S1["Step 1\nHFrEF 진단 수립\n초기 치료 시작"]
-        direction TB
-        P1A["HFrEF\nLVEF ≤ 40%\n(Stage C)"]
-        style P1A fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
-        P1B["ARNi (NYHA II–IV)\nor ACEi/ARB"]
-        style P1B fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
-        P1C["β-blocker"]
-        style P1C fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
-        P1D["MRA"]
-        style P1D fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
-        P1E["SGLT2i"]
-        style P1E fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
-        P1F["필요시\n이뇨제"]
-        style P1F fill:#dbeafe,stroke:#3b82f6,stroke-width:1px
-    end
+<table><thead><tr><th width="80">Step</th><th width="180">목표</th><th>내용</th></tr></thead><tbody><tr><td><strong>Step 1</strong></td><td>HFrEF 진단 수립<br>초기 치료 시작</td><td>· HFrEF (LVEF ≤40%, Stage C) 확인<br>· ARNi (NYHA II–IV) 또는 ACEi/ARB<br>· β-blocker<br>· MRA<br>· SGLT2i<br>· 필요 시 이뇨제</td></tr><tr><td><strong>Step 2</strong></td><td>내성·검사·LVEF에<br>맞춰 용량 조절</td><td>· LVEF ≤40% 지속 → HFrEF (Stage C) : GDMT 용량 최적화 계속<br>· LVEF >40% → HFimpEF : GDMT 반드시 유지 (중단 금지)</td></tr><tr><td><strong>Step 3</strong></td><td>환자별 특성 고려</td><td>· NYHA III–IV + African American → Hydralazine/ISDN 추가<br>· NYHA I–III + LVEF ≤35% + 기대여명 >1년 + GDMT ≥3개월 → ICD<br>· NYHA II–III (ambulatory IV) + LVEF ≤35% + NSR + QRS ≥150 ms with LBBB → CRT-D</td></tr><tr><td><strong>Step 4</strong></td><td>적응증별<br>추가 치료</td><td>· Hydralazine/ISDN (African American, NYHA III–IV)<br>· ICD (급사 예방)<br>· CRT-D (심장재동기화)<br>· 기타 추가 치료 고려</td></tr><tr><td><strong>Step 5</strong></td><td>재평가</td><td>· 난치성 HF → Step 6으로<br>· 증상 호전 → 용량 유지 및 정기 추적</td></tr><tr><td><strong>Step 6</strong></td><td>전문센터 의뢰<br>(Stage D)</td><td>· 내구성 MCS (LVAD 등)<br>· 심장 이식<br>· 완화의료 (Stage D 이전부터 시작 가능)<br>· 임상시험 참여 고려</td></tr></tbody></table>
 
-    subgraph S2["Step 2\n내성·검사·LVEF에\n맞춰 용량 조절"]
-        direction TB
-        P2A["LVEF ≤ 40%\nHFrEF 지속\n(Stage C)"]
-        style P2A fill:#dcfce7,stroke:#4ade80,stroke-width:1px
-        P2B["LVEF > 40%\nHFimpEF\n→ GDMT 유지"]
-        style P2B fill:#fef9c3,stroke:#facc15,stroke-width:1px
-    end
-
-    subgraph S3["Step 3\n환자별 특성 고려"]
-        direction TB
-        P3A["NYHA III–IV\nAfrican American"]
-        style P3A fill:#f0fdf4,stroke:#86efac,stroke-width:1px
-        P3B["NYHA I–III\nLVEF ≤ 35%\n기대여명 >1년\nGDMT ≥3개월"]
-        style P3B fill:#f0fdf4,stroke:#86efac,stroke-width:1px
-        P3C["NYHA II–III\nambulatory IV\nLVEF ≤ 35%\nNSR & QRS ≥150 ms\nwith LBBB"]
-        style P3C fill:#f0fdf4,stroke:#86efac,stroke-width:1px
-    end
-
-    subgraph S4["Step 4\n적응증별\n추가 치료"]
-        direction TB
-        P4A["Hydra-\nnitrates"]
-        style P4A fill:#fef3c7,stroke:#f59e0b,stroke-width:1px
-        P4B["ICD"]
-        style P4B fill:#fef3c7,stroke:#f59e0b,stroke-width:1px
-        P4C["CRT-D"]
-        style P4C fill:#fef3c7,stroke:#f59e0b,stroke-width:1px
-        P4D["추가 치료\n고려"]
-        style P4D fill:#fef3c7,stroke:#f59e0b,stroke-width:1px
-    end
-
-    subgraph S5["Step 5\n재평가"]
-        direction TB
-        P5A["난치성\nHF"]
-        style P5A fill:#fee2e2,stroke:#f87171,stroke-width:1px
-        P5B["증상\n호전"]
-        style P5B fill:#dcfce7,stroke:#4ade80,stroke-width:1px
-    end
-
-    subgraph S6["Step 6\n전문 의뢰"]
-        direction TB
-        P6A["내구성 MCS"]
-        style P6A fill:#ede9fe,stroke:#a78bfa,stroke-width:1px
-        P6B["심장 이식"]
-        style P6B fill:#ede9fe,stroke:#a78bfa,stroke-width:1px
-        P6C["완화의료\n(Stage D 전\n시작 가능)"]
-        style P6C fill:#ede9fe,stroke:#a78bfa,stroke-width:1px
-        P6D["조사 연구"]
-        style P6D fill:#ede9fe,stroke:#a78bfa,stroke-width:1px
-    end
-
-    BOTTOM(["일련의 재평가와 용량 최적화 - 지속적 약물 치료·이행·환자 교육·치료 목표 달성"])
-    style BOTTOM fill:#dbeafe,stroke:#3b82f6,stroke-width:1.5px
-
-    S1 --> S2
-    S2 --> S3
-    P2A --> P3A
-    P2A --> P3B
-    P2A --> P3C
-    P3A --> P4A
-    P3B --> P4B
-    P3C --> P4C
-    S4 --> S5
-    P4A --> P5A
-    P4A --> P5B
-    P4B --> P5A
-    P4B --> P5B
-    P4C --> P5A
-    P4C --> P5B
-    S5 --> S6
-    P5A --> P6A
-    P5A --> P6B
-    P5A --> P6C
-    P5A --> P6D
-    S1 --> BOTTOM
-    S2 --> BOTTOM
-    S3 --> BOTTOM
-    S4 --> BOTTOM
-    S5 --> BOTTOM
-    S6 --> BOTTOM
-```
-
-<p align="center"><strong>HFrEF Stage C &#x26; D 환자 치료 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">MRA=mineralocorticoid receptor antagonist; HFimpEF=HF with improved EF; ICD=implantable cardioverter defibrillator; MCS=mechanical circulatory support; CRT-D=cardiac resynchronization therapy with defibrillation; NSR=normal sinus rhythm; LBBB=left bundle branch block</mark></em></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Fig 6.</mark></em></p>
+{% hint style="info" %}
+일련의 재평가와 용량 최적화를 시행하며 지속적인 약물 치료·이행·환자 교육·치료 목표 달성
+{% endhint %}
 
 ***
 
@@ -536,31 +425,31 @@ flowchart LR
 
 ### <mark style="color:orange;">EF 감소 HF(또는 급성 심근경색)에서의 Disease-modifying Drugs</mark>
 
-<table><thead><tr><th width="240">Drug</th><th width="160">시작 용량 (㎎)</th><th>목표 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>ACEi</strong></td><td></td><td></td></tr><tr><td>captopril <mark style="color:blue;">[카프릴]</mark></td><td>6.25 tid</td><td>50 tid</td></tr><tr><td>enalapril <mark style="color:blue;">[레니프릴]</mark></td><td>2.5 bid</td><td>10–20 bid</td></tr><tr><td>lisinopril <mark style="color:blue;">[제스트릴]</mark></td><td>2.5–5 qd</td><td>20–40 qd</td></tr><tr><td>perindopril <mark style="color:blue;">[아세틸]</mark></td><td>2 qd</td><td>8–16 qd</td></tr><tr><td>ramipril <mark style="color:blue;">[트리테이스]</mark></td><td>1.25–2.5 qd</td><td>10 qd</td></tr><tr><td>trandolapril</td><td>1 qd</td><td>4 qd</td></tr><tr><td><strong>ARB</strong></td><td></td><td></td></tr><tr><td>candesartan <mark style="color:blue;">[아타칸]</mark></td><td>4–8 qd</td><td>32 qd</td></tr><tr><td>losartan <mark style="color:blue;">[코자]</mark></td><td>25–50 qd</td><td>50–150 qd</td></tr><tr><td>valsartan <mark style="color:blue;">[디오반]</mark></td><td>20–40 bid</td><td>160 bid</td></tr><tr><td><strong>ARNi</strong></td><td></td><td></td></tr><tr><td>sacubitril/valsartan <mark style="color:blue;">[엔트레스토]</mark></td><td>24/26 bid 또는 49/51 bid</td><td>97/103 bid</td></tr><tr><td><strong>I</strong><sub><strong>f</strong></sub><strong> Channel inhibitor</strong></td><td></td><td></td></tr><tr><td>ivabradine <mark style="color:blue;">[프로코라란]</mark></td><td>5 bid</td><td>7.5 bid</td></tr><tr><td><strong>Beta-blockers</strong></td><td></td><td></td></tr><tr><td>bisoprolol <mark style="color:blue;">[콩코르]</mark></td><td>1.25 qd</td><td>10 qd</td></tr><tr><td>carvedilol <mark style="color:blue;">[딜라트렌]</mark></td><td>3.125 bid</td><td>25–50 bid</td></tr><tr><td>carvedilol CR</td><td>10 qd</td><td>80 qd</td></tr><tr><td>metoprolol succinate <mark style="color:blue;">[푸로롤서방]</mark></td><td>12.5–25 qd</td><td>200 qd</td></tr><tr><td>nebivolol</td><td>1.25 qd</td><td>10 qd</td></tr><tr><td><strong>MRA</strong></td><td></td><td></td></tr><tr><td>spironolactone <mark style="color:blue;">[알닥톤]</mark></td><td>12.5–25 qd</td><td>25–50 qd</td></tr><tr><td>eplerenone</td><td>25 qd</td><td>50 qd</td></tr><tr><td><strong>SGLT2i</strong></td><td></td><td></td></tr><tr><td>dapagliflozin <mark style="color:blue;">[포시가]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td>empagliflozin <mark style="color:blue;">[자디앙]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td><strong>Soluble guanylate cyclase stimulator</strong></td><td></td><td></td></tr><tr><td>vericiguat <mark style="color:blue;">[베르쿠보]</mark></td><td>2.5 qd</td><td>10 qd</td></tr><tr><td>digoxin <mark style="color:blue;">[디곡신]</mark></td><td>0.125–0.25 qd</td><td>목표 혈중 농도 0.5–0.9 ng/㎖</td></tr><tr><td><strong>Isosorbide dinitrate &#x26; Hydralazine</strong></td><td></td><td></td></tr><tr><td>isosorbide dinitrate <mark style="color:blue;">[이소켓]</mark></td><td>20 tid</td><td>40 tid (120 ㎎/d)</td></tr><tr><td>hydralazine <mark style="color:blue;">[히드랄라진]</mark></td><td>25 tid</td><td>75 tid (225 ㎎/d)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="272">Drug</th><th width="212">시작 용량 (㎎)</th><th>목표 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>ACEi</strong></td><td></td><td></td></tr><tr><td>captopril <mark style="color:blue;">[카프릴]</mark></td><td>6.25 tid</td><td>50 tid</td></tr><tr><td>enalapril <mark style="color:blue;">[레니프릴]</mark></td><td>2.5 bid</td><td>10–20 bid</td></tr><tr><td>lisinopril <mark style="color:blue;">[제스트릴]</mark></td><td>2.5–5 qd</td><td>20–40 qd</td></tr><tr><td>perindopril <mark style="color:blue;">[아세틸]</mark></td><td>2 qd</td><td>8–16 qd</td></tr><tr><td>ramipril <mark style="color:blue;">[트리테이스]</mark></td><td>1.25–2.5 qd</td><td>10 qd</td></tr><tr><td>trandolapril</td><td>1 qd</td><td>4 qd</td></tr><tr><td><strong>ARB</strong></td><td></td><td></td></tr><tr><td>candesartan <mark style="color:blue;">[아타칸]</mark></td><td>4–8 qd</td><td>32 qd</td></tr><tr><td>losartan <mark style="color:blue;">[코자]</mark></td><td>25–50 qd</td><td>50–150 qd</td></tr><tr><td>valsartan <mark style="color:blue;">[디오반]</mark></td><td>20–40 bid</td><td>160 bid</td></tr><tr><td><strong>ARNi</strong></td><td></td><td></td></tr><tr><td>sacubitril/valsartan <mark style="color:blue;">[엔트레스토]</mark></td><td>24/26 bid 또는 49/51 bid</td><td>97/103 bid</td></tr><tr><td><strong>I</strong><sub><strong>f</strong></sub><strong> Channel inhibitor</strong></td><td></td><td></td></tr><tr><td>ivabradine <mark style="color:blue;">[프로코라란]</mark></td><td>5 bid</td><td>7.5 bid</td></tr><tr><td><strong>Beta-blockers</strong></td><td></td><td></td></tr><tr><td>bisoprolol <mark style="color:blue;">[콩코르]</mark></td><td>1.25 qd</td><td>10 qd</td></tr><tr><td>carvedilol <mark style="color:blue;">[딜라트렌]</mark></td><td>3.125 bid</td><td>25–50 bid</td></tr><tr><td>carvedilol CR</td><td>10 qd</td><td>80 qd</td></tr><tr><td>metoprolol succinate <mark style="color:blue;">[푸로롤서방]</mark></td><td>12.5–25 qd</td><td>200 qd</td></tr><tr><td>nebivolol</td><td>1.25 qd</td><td>10 qd</td></tr><tr><td><strong>MRA</strong></td><td></td><td></td></tr><tr><td>spironolactone <mark style="color:blue;">[알닥톤]</mark></td><td>12.5–25 qd</td><td>25–50 qd</td></tr><tr><td>eplerenone</td><td>25 qd</td><td>50 qd</td></tr><tr><td><strong>SGLT2i</strong></td><td></td><td></td></tr><tr><td>dapagliflozin <mark style="color:blue;">[포시가]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td>empagliflozin <mark style="color:blue;">[자디앙]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td><strong>Soluble guanylate cyclase stimulator</strong></td><td></td><td></td></tr><tr><td>vericiguat <mark style="color:blue;">[베르쿠보]</mark></td><td>2.5 qd</td><td>10 qd</td></tr><tr><td>digoxin <mark style="color:blue;">[디곡신]</mark></td><td>0.125–0.25 qd</td><td>목표 혈중 농도 0.5–0.9 ng/㎖</td></tr><tr><td><strong>Isosorbide dinitrate &#x26; Hydralazine</strong></td><td></td><td></td></tr><tr><td>isosorbide dinitrate <mark style="color:blue;">[이소켓]</mark></td><td>20 tid</td><td>40 tid (120 ㎎/d)</td></tr><tr><td>hydralazine <mark style="color:blue;">[히드랄라진]</mark></td><td>25 tid</td><td>75 tid (225 ㎎/d)</td></tr></tbody></table>
 
 _✽단기 제제 제외; serum digoxin 농도 유지_\
 \&#xNAN;_Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Table 14._
 
 ### <mark style="color:orange;">약제별 titration 체크리스트</mark>
 
-<table><thead><tr><th width="160">약제</th><th>증량 전 확인 항목</th><th width="200">목표 / 주의 기준</th></tr></thead><tbody><tr><td><strong>ACEi / ARNi</strong></td><td>BP · Cr · K</td><td>SBP >90; Cr 상승 &#x3C;30%; K &#x3C;5.5</td></tr><tr><td><strong>Beta-blocker</strong></td><td>HR · BP · 울혈 여부</td><td>HR >50; SBP >90; 체액 과부하 없음</td></tr><tr><td><strong>MRA</strong></td><td>Cr · K · eGFR</td><td>eGFR >30; K &#x3C;5.0 시작; K &#x3C;5.5 유지</td></tr><tr><td><strong>SGLT2i</strong></td><td>eGFR · 감염 여부</td><td>개별 약제 허가사항 참고 (약제마다 eGFR 기준 상이); 수술·금식 48h 전 중단</td></tr></tbody></table>
+<table><thead><tr><th width="149">약제</th><th width="176">증량 전 확인 항목</th><th width="304">목표 / 주의 기준</th></tr></thead><tbody><tr><td><strong>ACEi / ARNi</strong></td><td>BP · Cr · K</td><td>SBP >90; Cr 상승 &#x3C;30%; K &#x3C;5.5</td></tr><tr><td><strong>Beta-blocker</strong></td><td>HR · BP · 울혈 여부</td><td>HR >50; SBP >90; 체액 과부하 없음</td></tr><tr><td><strong>MRA</strong></td><td>Cr · K · eGFR</td><td>eGFR >30; K &#x3C;5.0 시작; K &#x3C;5.5 유지</td></tr><tr><td><strong>SGLT2i</strong></td><td>eGFR · 감염 여부</td><td>개별 약제 허가사항 참고 (약제마다 eGFR 기준 상이); 수술·금식 48h 전 중단</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">ACEi</mark>
 
-* **작용** : afterload 감소
-* **용법** : 저용량 시작 → 2주 후 2배 증량 → 1\~3개월에 걸쳐 titration; β-차단제 병용 시 추가 효과
-* **금기** : 혈관부종, 무뇨성 신부전, 임신
-* **주의** : SBP <80 ㎜Hg, 양측 신동맥 협착, s-Cr >3 ㎎/㎗, K >5.5 mEq/L
+* 작용 : afterload 감소
+* 용법 : 저용량 시작 → 2주 후 2배 증량 → 1\~3개월에 걸쳐 titration; β-차단제 병용 시 추가 효과
+* 금기 : 혈관부종, 무뇨성 신부전, 임신
+* 주의 : SBP <80 ㎜Hg, 양측 신동맥 협착, s-Cr >3 ㎎/㎗, K >5.5 mEq/L
 
 #### <mark style="color:$primary;">ARB</mark>
 
-* ACEi보다 효과 적음; **대상** : ACEi에 의한 혈관부종 발생 시 대체
+* ACEi보다 효과 적음; 대상 : ACEi에 의한 혈관부종 발생 시 대체
 * **주의** : ACEi와 동일 (✽ARB도 혈관부종 유발 가능)
 
 #### <mark style="color:$primary;">β-차단제</mark>
 
-* **대상** : Stage B 이상; Q파 MI에서 필수; 울혈이 없는 안정 상태에서 시작
-* **용법** : 저용량 시작 → 1\~4주 간격으로 증량; 초기 일시적 울혈·무력감·피로 악화 가능
+* 대상 : Stage B 이상; Q파 MI에서 필수; 울혈이 없는 안정 상태에서 시작
+* 용법 : 저용량 시작 → 1\~4주 간격으로 증량; 초기 일시적 울혈·무력감·피로 악화 가능
 * 증상 동반 저혈압 : ① 혈관 확장제와 2시간 간격, ② 혈관 확장제·이뇨제 감량, ③ β-차단제 감량
 * 증상 동반 서맥 : ① digoxin 농도 확인, ② 관련 약제(amiodarone 등) 감량, ③ diltiazem·verapamil 중단
 
@@ -570,109 +459,111 @@ _✽단기 제제 제외; serum digoxin 농도 유지_\
 **MRA 계열 구분**
 
 * **Spironolactone, Eplerenone** : HFrEF Quadruple Therapy의 표준 구성 약제 - NYHA II\~IV + LVEF ≤35\~40%에서 사망률·입원율 감소 (RALES, EMPHASIS-HF 근거)
-* **Finerenone** (비스테로이드성 선택적 MRA) : **T2DM + CKD 환자의 심혈관 사고 및 HF 입원 예방** 목적 - HFrEF의 표준 MRA를 대체하지 않음; 두 가지를 구분하여 처방 고려
+* **Finerenone** (비스테로이드성 선택적 MRA) : T2DM + CKD 환자의 심혈관 사고 및 HF 입원 예방 목적 - HFrEF의 표준 MRA를 대체하지 않음; 두 가지를 구분하여 처방 고려
 {% endhint %}
 
-* **대상 (Spironolactone/Eplerenone)** : NYHA class ≥Ⅱ; s-Cr <2.0 ㎎/㎗ & s-K <5.0 mEq/L
-* **부작용** : K↑(1주·4주 후 모니터링), 여성형유방증(spironolactone)
-* **Finerenone** : T2DM + CKD에서 ESC 2023 Class I, LOE A - 국내 적응증 확인 필요
+* 대상 (Spironolactone/Eplerenone) : NYHA class ≥Ⅱ; s-Cr <2.0 ㎎/㎗ & s-K <5.0 mEq/L
+* 부작용 : K↑(1주·4주 후 모니터링), 여성형유방증(spironolactone)
+* Finerenone : T2DM + CKD에서 ESC 2023 Class I, LOE A - 국내 적응증 확인 필요
 
 #### <mark style="color:$primary;">SGLT2i</mark>
 
 (☞ 당뇨병 챕터 참조)
 
-* **작용** : 혈압↓, 체중↓, ASCVD 위험↓, HF 입원↓, eGFR 저하 지연
-* **대상** : HFrEF (Class I), HFmrEF·HFpEF (Class I, ESC 2023), T2DM+CVD 고위험 (Class I), T2DM+CKD (Class I)
-* **eGFR 기준** : **⚠️ 개별 약제 허가사항을 반드시 최신 버전으로 재확인할 것** (empagliflozin과 dapagliflozin의 eGFR 하한선이 다르며, 허가 기준이 지속 업데이트됨)
-* **부작용** : 요로/생식기 감염, 케톤산증, LDL-C↑
+* 작용 : 혈압↓, 체중↓, ASCVD 위험↓, HF 입원↓, eGFR 저하 지연
+* 대상 : HFrEF (Class I), HFmrEF·HFpEF (Class I, ESC 2023), T2DM+CVD 고위험 (Class I), T2DM+CKD (Class I)
+* eGFR 기준 : 개별 약제 허가사항을 반드시 최신 버전으로 재확인할 것 (empagliflozin과 dapagliflozin의 eGFR 하한선이 다르며, 허가 기준이 지속 업데이트됨)
+* 부작용 : 요로/생식기 감염, 케톤산증, LDL-C↑
 
 #### <mark style="color:$primary;">ARNi (Angiotensin Receptor Neprilysin Inhibitor)</mark>
 
 * sacubitril + valsartan 복합제 <mark style="color:blue;">\[엔트레스토]</mark>
-* **대상** : 증상성 HFrEF **NYHA class II\~IV** 전체 (최신 권고; 기존 II\~III에서 확대)
+* 대상 : 증상성 HFrEF NYHA class II\~IV 전체 (최신 권고; 기존 II\~III에서 확대)
 * enalapril보다 유효하나 저혈압 부작용 빈도 높음
-* ⚠️ ACEi의 마지막 투약 **36시간 이내 투여 금지** (혈관부종 위험)
+* ACEi의 마지막 투약 36시간 이내 투여 금지 (혈관부종 위험)
 
 ### <mark style="color:orange;">기타 / 증상 개선 약제</mark>
 
 #### <mark style="color:$primary;">이뇨제</mark>
 
-* **적용** : fluid overload, 급성 HF 초기 울혈의 신속한 개선
+* 적용 : fluid overload, 급성 HF 초기 울혈의 신속한 개선
 * 최소 유효 용량 시작; 고령자 용량 적음; thiazide + loop diuretics 병용 시 추가 효과
-* **부작용** : Na↓, K↓(또는 K↑), Mg↓, 요산↑; **금기** : Na <135, K <3.5 또는 >5.0, Cr >3.0, Mg <1.8, 산증
+* 부작용 : Na↓, K↓(또는 K↑), Mg↓, 요산↑; 금기 : Na <135, K <3.5 또는 >5.0, Cr >3.0, Mg <1.8, 산증
 * torsemide : furosemide보다 흡수·반감기 우수
 
-<table><thead><tr><th width="220">Drug</th><th width="200">시작 용량 (㎎)</th><th>최대 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>Loop diuretics</strong></td><td></td><td></td></tr><tr><td>furosemide <mark style="color:blue;">[라식스]</mark></td><td>20–40 qd/bid</td><td>600</td></tr><tr><td>bumetanide</td><td>0.5–1.0 qd/bid</td><td>10</td></tr><tr><td>torsemide <mark style="color:blue;">[토르세미드]</mark></td><td>10–20 qd</td><td>200</td></tr><tr><td><strong>Thiazide diuretics</strong></td><td></td><td></td></tr><tr><td>chlorthalidone <mark style="color:blue;">[하이그로톤]</mark></td><td>12.5–25 qd</td><td>100</td></tr><tr><td>hydrochlorothiazide <mark style="color:blue;">[다이크로짇]</mark></td><td>25 qd</td><td>200</td></tr><tr><td>indapamide <mark style="color:blue;">[후루덱스]</mark></td><td>2.5 qd</td><td>5</td></tr><tr><td>metolazone</td><td>2.5 qd</td><td>20</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="280">Drug</th><th width="200">시작 용량 (㎎)</th><th>최대 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>Loop diuretics</strong></td><td></td><td></td></tr><tr><td>furosemide <mark style="color:blue;">[라식스]</mark></td><td>20–40 qd/bid</td><td>600</td></tr><tr><td>bumetanide</td><td>0.5–1.0 qd/bid</td><td>10</td></tr><tr><td>torsemide <mark style="color:blue;">[토르세미드]</mark></td><td>10–20 qd</td><td>200</td></tr><tr><td><strong>Thiazide diuretics</strong></td><td></td><td></td></tr><tr><td>chlorthalidone <mark style="color:blue;">[하이그로톤]</mark></td><td>12.5–25 qd</td><td>100</td></tr><tr><td>hydrochlorothiazide <mark style="color:blue;">[다이크로짇]</mark></td><td>25 qd</td><td>200</td></tr><tr><td>indapamide <mark style="color:blue;">[후루덱스]</mark></td><td>2.5 qd</td><td>5</td></tr><tr><td>metolazone</td><td>2.5 qd</td><td>20</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Digoxin</mark>
 
-* **대상** : 이뇨제/ACEi에도 증상 잔존; 심방세동 심박수 조절 필요 시 <mark style="color:blue;">\[디고신]</mark>
-* **용법** : 0.125 ㎎/d으로 시작; 신기능 장애·고령·낮은 lean body mass 시 감량; amiodarone·quinidine·verapamil 병용 시 농도 증가
-* **부작용** : 구역, 식욕 부진, 혼란, 시각 이상, 부정맥; 저칼륨혈증·신기능 장애 시 독성 증가
-* ✽**여성에서 독성 위험이 더 높음** - 혈중 농도를 낮은 범위(0.5\~0.8 ng/㎖)로 유지하는 것이 바람직함
-* **모니터링** : 마지막 투여 6시간 이후 측정
+* 대상 : 이뇨제/ACEi에도 증상 잔존; 심방세동 심박수 조절 필요 시 <mark style="color:blue;">\[디고신]</mark>
+* 용법 : 0.125 ㎎/d으로 시작; 신기능 장애·고령·낮은 lean body mass 시 감량; amiodarone·quinidine·verapamil 병용 시 농도 증가
+* 부작용 : 구역, 식욕 부진, 혼란, 시각 이상, 부정맥; 저칼륨혈증·신기능 장애 시 독성 증가
+* ✽여성에서 독성 위험이 더 높음 - 혈중 농도를 낮은 범위(0.5\~0.8 ng/㎖)로 유지하는 것이 바람직함
+* 모니터링 : 마지막 투여 6시간 이후 측정
 
 #### <mark style="color:$primary;">항응고제</mark>
 
-* 새로 시작 시 VKA보다 **NOAC** 우선
+* 새로 시작 시 VKA보다 NOAC 우선
   * apixaban <mark style="color:blue;">\[엘리퀴스]</mark>, dabigatran <mark style="color:blue;">\[프라닥사]</mark>, edoxaban <mark style="color:blue;">\[릭시아나]</mark>, rivaroxaban <mark style="color:blue;">\[자렐토]</mark>
 * AF 동반 HF : 추가 혈전 위험 인자 없는 경우 개별화 판단 (☞ 심방세동 챕터 참조)
 
 #### <mark style="color:$primary;">기타 약물</mark>
 
-* **Ivabradine** <mark style="color:blue;">\[프로코라란]</mark> : 최대 허용 β-blocker 포함 약물 치료 중 휴식 HR ≥70 bpm인 NYHA II\~III stable HFrEF (LVEF ≤35%)
-* **Vericiguat** <mark style="color:blue;">\[베르쿠보]</mark> : 적절한 치료 중 최근 악화된 고위험 HFrEF 환자
-* **정맥 내 철분 보충** : HFrEF/HFmrEF + 철결핍 시 권고 (ESC 2023, Class I)
-  * **철결핍 정의 (ESC 2023)** : 혈청 페리틴 <100 μg/L, **또는** 페리틴 100\~299 μg/L + **TSAT <20%**
-* **오메가-3 보충제** : NYHA II\~IV에서 보조 요법으로 고려
+* Ivabradine <mark style="color:blue;">\[프로코라란]</mark> : 최대 허용 β-blocker 포함 약물 치료 중 휴식 HR ≥70 bpm인 NYHA II\~III stable HFrEF (LVEF ≤35%)
+* Vericiguat <mark style="color:blue;">\[베르쿠보]</mark> : 적절한 치료 중 최근 악화된 고위험 HFrEF 환자
+* 정맥 내 철분 보충 : HFrEF/HFmrEF + 철결핍 시 권고 (ESC 2023, Class I)
+  * 철결핍 정의 (ESC 2023) : 혈청 페리틴 <100 μg/L, 또는 페리틴 100\~299 μg/L + TSAT <20%
+* 오메가-3 보충제 : NYHA II\~IV에서 보조 요법으로 고려
 
 {% hint style="info" %}
-**GLP-1 수용체 작용제 (GLP-1 RA) - 신흥 치료 옵션 (2024 근거)**
+**GLP-1 수용체 작용제 (GLP-1 RA) - 치료 옵션**&#x20;
 
 **비만 동반 HFpEF** 에서 semaglutide 2.4 ㎎/주 sc (STEP-HFpEF, STEP-HFpEF DM 통합 분석, Lancet 2024): 위약 대비 KCCQ 점수 +7.5점, 6분보행거리 +20 m, 체중 −9.8% 유의 개선. 체중 감량 자체가 심장 기계적 부하·심낭지방·좌심실 이완 기능 개선에 기여하는 것으로 해석됨.
 
-Tirzepatide(GIP/GLP-1 이중 작용제) : SUMMIT 시험에서 비만 동반 HFpEF에서 CV 사망 및 HF 악화 이벤트 유의 감소 - **GLP-1 RA 중 최초의 HF 하드 엔드포인트 감소 증거**.
+Tirzepatide(GIP/GLP-1 이중 작용제) : SUMMIT 시험에서 비만 동반 HFpEF에서 CV 사망 및 HF 악화 이벤트 유의 감소 - GLP-1 RA 중 최초의 HF 하드 엔드포인트 감소 증거.
 
-단, **HFrEF**에서의 효과는 불확실(일부 데이터에서 심박수 증가·부정맥 위험 가능). 현재 가이드라인 공식 권고 이전이나, 비만 동반 HFpEF에서 SGLT2i와 병용 고려 가능; 두 약제의 상가 효과는 추가 연구 진행 중.
+단, HFrEF에서의 효과는 불확실(일부 데이터에서 심박수 증가·부정맥 위험 가능). 현재 가이드라인 공식 권고 이전이나, 비만 동반 HFpEF에서 SGLT2i와 병용 고려 가능; 두 약제의 상가 효과는 추가 연구 진행 중.
 {% endhint %}
 
 **권고하지 않음 또는 회피**
 
-* **DHP CCB / non-DHP CCB** : HFrEF에서 권고하지 않음
-* **Class IC 항부정맥제** : HFrEF에서 사망 위험 증가
-* **TZD** : HFrEF에서 HF 증상 악화 및 입원 위험 증가
-* **DPP-4i (saxagliptin, alogliptin)** : T2DM + 심혈관 고위험에서 HF 입원 위험 증가
-* **NSAID** : HFrEF에서 HF 증상 악화 가능
-* **항응고제** : 특정 징후 없는 만성 HFrEF에서 권고하지 않음
-* **비타민·영양제·호르몬 치료** : 특정 결핍 교정 외 권고하지 않음
+* DHP CCB / non-DHP CCB : HFrEF에서 권고하지 않음
+* Class IC 항부정맥제 : HFrEF에서 사망 위험 증가
+* TZD : HFrEF에서 HF 증상 악화 및 입원 위험 증가
+* DPP-4i (saxagliptin, alogliptin) : T2DM + 심혈관 고위험에서 HF 입원 위험 증가
+* NSAID : HFrEF에서 HF 증상 악화 가능
+* 항응고제 : 특정 징후 없는 만성 HFrEF에서 권고하지 않음
+* 비타민·영양제·호르몬 치료 : 특정 결핍 교정 외 권고하지 않음
 
 ### <mark style="color:orange;">Device and Interventional Therapies</mark>
 
-* **ICD** : LVEF ≤35% + NYHA II\~III; 또는 LVEF ≤30% + post-MI - **단, GDMT 최소 3개월 후에도 LVEF ≤35% 지속 시 적용** (Class I)
-* **CRT-D** : NYHA II\~III(또는 보행 가능 IV) + LVEF ≤35% + 동성 리듬 + QRS ≥150 ms with LBBB
-* **LVAD** : Stage D에서 이식 대기(bridge) 또는 영구 치료(destination)
-* **심장 이식** : Stage D, 말기 HF, 금기 없는 적절한 후보자
+* ICD : LVEF ≤35% + NYHA II\~III; 또는 LVEF ≤30% + post-MI - 단, GDMT 최소 3개월 후에도 LVEF ≤35% 지속 시 적용 (Class I)
+* CRT-D : NYHA II\~III(또는 보행 가능 IV) + LVEF ≤35% + 동성 리듬 + QRS ≥150 ms with LBBB
+* LVAD : Stage D에서 이식 대기(bridge) 또는 영구 치료(destination)
+* 심장 이식 : Stage D, 말기 HF, 금기 없는 적절한 후보자
 
 ***
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* **금연, 금주**
-* **소금 섭취** : 과도한 나트륨 제한은 권고하지 않음 (개별화 접근 우선). 필요 시 일반적으로 <6 g/d 목표; 중증(NYHA III/IV)에서 <5 g/d
-* **수분 섭취 제한** : 울혈 시 <2 L/d; s-Na <135 mEq/L 시 <1.5 L/d
-* **체중 관리** : 비만 시 체중 감량; 매일 체중 측정 → 2\~3일 내 ≥2 ㎏ 증가 시 신속 진료
-* **심장 재활 및 유산소 운동** : 걷기·자전거·수영 등; 5분으로 시작 → 총 30분/일, 주 5\~6일 목표
+* 금연, 금주
+* 소금 섭취 : 과도한 나트륨 제한은 권고하지 않음 (개별화 접근 우선). 필요 시 일반적으로 <6 g/d 목표; 중증(NYHA III/IV)에서 <5 g/d
+* 수분 섭취 제한 : 울혈 시 <2 L/d; s-Na <135 mEq/L 시 <1.5 L/d
+* 체중 관리 : 비만 시 체중 감량; 매일 체중 측정 → 2\~3일 내 ≥2 ㎏ 증가 시 신속 진료
+* 심장 재활 및 유산소 운동 : 걷기·자전거·수영 등; 5분으로 시작 → 총 30분/일, 주 5\~6일 목표
   * 운동 전·중·후 맥박 측정; 휴식 시 대비 20회 이상 증가하지 않도록 강도 조절
-* **동반 질환 치료** : 고혈압, 부정맥, 수면무호흡증, 당뇨병, 이상지질혈증
-* **스트레스 관리, 우울증 치료** (우울증은 HF 예후 악화; 적극적 선별·치료)
-* **백신 접종** : 인플루엔자, 폐렴구균, COVID-19 (Stage C 이상)
-* **자가 모니터링 교육** : 증상 악화 시 신속 의료 접촉, 약물 순응도 강화
+* 동반 질환 치료 : 고혈압, 부정맥, 수면무호흡증, 당뇨병, 이상지질혈증
+* 스트레스 관리, 우울증 치료 (우울증은 HF 예후 악화; 적극적 선별·치료)
+* 백신 접종 : 인플루엔자, 폐렴구균, COVID-19 (Stage C 이상)
+* 자가 모니터링 교육 : 증상 악화 시 신속 의료 접촉, 약물 순응도 강화
 
 ***
 
 ## <mark style="color:green;">Stage별 관리 요약</mark>
 
-<table><thead><tr><th width="120">Stage</th><th width="230">특징</th><th>주요 관리 전략</th></tr></thead><tbody><tr><td><strong>Stage A</strong><br>(HF 위험군)</td><td>증상 없음<br>구조적 심질환 없음<br>위험 인자 존재</td><td>· 고혈압·당뇨·비만·CKD·AF·CVD·cardiotoxin 등 위험 인자 적극 관리<br>· SGLT2i : T2DM + CVD/CKD 환자에서 권고 (Class I)<br>· 생활습관 교정 (운동·체중·식습관·금연)<br>· NP biomarker 선별 검사 고려</td></tr><tr><td><strong>Stage B</strong><br>(Pre-HF)</td><td>증상 없음<br>구조적 심질환 또는<br>filling pressure 증가</td><td>· ACEi (LVEF ≤40%) / ARB (ACEi 불내성 + recent MI)<br>· β-blocker (MI 병력 또는 LVEF ≤40%)<br>· ICD : post-MI, LVEF ≤30%, GDMT ≥3개월에도 EF ≤35%<br>· Statin (MI/ACS 병력)<br>· TZD · non-DHP CCB 회피</td></tr><tr><td><strong>Stage C</strong><br>(증상성 HF)</td><td>구조적 심질환<br>+ 현재/과거 증상</td><td>· 다학제 팀 관리; 백신 접종; 우울증·사회적 고립 선별<br>· HFrEF : Quadruple therapy (ARNi/ACEi + β-blocker + MRA + SGLT2i)<br>· HFmrEF : SGLT2i Class I; 나머지 GDMT 적극 고려 (ESC 2023)<br>· HFpEF : SGLT2i + AF·비만·고혈압 동반 질환 집중 관리<br>· CRT/ICD 평가; 심장 재활; 생활습관 교정</td></tr><tr><td><strong>Stage D</strong><br>(Advanced HF)</td><td>반복 입원<br>GDMT 불응<br>일상생활 제한</td><td>· LVAD, 심장 이식 고려<br>· 완화의료 조기 병행 (Stage D 이전부터 시작 가능)<br>· <strong>전문센터 의뢰 기준</strong> : ① 최근 12개월 내 입원 ≥2회, ② NYHA IV 지속, ③ GDMT 불내성, ④ 이뇨제 의존·저나트륨혈증·저혈압, ⑤ 이식/LVAD/임상시험 적합성 평가 필요<br>· 임상시험 참여 가능성 검토</td></tr></tbody></table>
+<table><thead><tr><th width="120">Stage</th><th width="158">특징</th><th>주요 관리 전략</th></tr></thead><tbody><tr><td><strong>Stage A</strong><br>(HF 위험군)</td><td>증상 없음<br>구조적 심질환 없음<br>위험 인자 존재</td><td>· 고혈압·당뇨·비만·CKD·AF·CVD·cardiotoxin 등 위험 인자 적극 관리<br>· SGLT2i : T2DM + CVD/CKD 환자에서 권고 <br>· 생활습관 교정 (운동·체중·식습관·금연)<br>· NP biomarker 선별 검사 고려</td></tr><tr><td><strong>Stage B</strong><br>(Pre-HF)</td><td>증상 없음<br>구조적 심질환 또는<br>filling pressure 증가</td><td>· ACEi (LVEF ≤40%) / ARB (ACEi 불내성 + recent MI)<br>· β-blocker (MI 병력 또는 LVEF ≤40%)<br>· ICD : post-MI, LVEF ≤30%, GDMT ≥3개월에도 EF ≤35%<br>· Statin (MI/ACS 병력)<br>· TZD · non-DHP CCB 회피</td></tr><tr><td><strong>Stage C</strong><br>(증상성 HF)</td><td>구조적 심질환<br>+ 현재/과거 증상</td><td>· 다학제 팀 관리; 백신 접종; 우울증·사회적 고립 선별<br>· HFrEF : Quadruple therapy (ARNi/ACEi + β-blocker + MRA + SGLT2i)<br>· HFmrEF : SGLT2i Class I; 나머지 GDMT 적극 고려 (ESC 2023)<br>· HFpEF : SGLT2i + AF·비만·고혈압 동반 질환 집중 관리<br>· CRT/ICD 평가; 심장 재활; 생활습관 교정</td></tr><tr><td><strong>Stage D</strong><br>(Advanced HF)</td><td>반복 입원<br>GDMT 불응<br>일상생활 제한</td><td>· LVAD, 심장 이식 고려<br>· 완화의료 조기 병행 (Stage D 이전부터 시작 가능)<br>· <strong>전문센터 의뢰 기준</strong> : ⓵ 최근 12개월 내 입원 ≥2회, ⓶ NYHA IV 지속, ⓷ GDMT 불내성, ⓸ 이뇨제 의존·저나트륨혈증·저혈압, ⓹ 이식/LVAD/임상시험 적합성 평가 필요<br>· 임상시험 참여 가능성 검토</td></tr></tbody></table>
+
+
 
 ***
 
