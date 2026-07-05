@@ -4,30 +4,9 @@
 
 * 심방의 비조직적 전기 활동으로 인한 불규칙한 심방 수축; 가장 흔한 지속성 부정맥
 * 유병률 : 성인의 약 1\~2%; 70세 이상에서 5\~10%; 국내 고령화로 유병률 지속 증가 추세
-* 핵심 위험 : **무증상 AF에서도 뇌졸중 위험 5배 증가** - 조기 발견과 항응고 치료가 예후를 결정
-* test
+* 핵심 위험 : 무증상 AF에서도 뇌졸중 위험 5배 증가 - 조기 발견과 항응고 치료가 예후를 결정
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-### <mark style="color:$danger;">즉각 응급 의뢰(119)</mark>
-
-* 혈역학적 불안정 : 저혈압(SBP ＜90 mmHg), 의식 저하, 쇼크 징후
-* 급성 흉통 동반 (급성 관상동맥 증후군 감별)
-* 심한 호흡 곤란, 급성 폐부종
-* 빈맥(＞150회/분) 동반 실신 또는 실신 전구 증상
-* **WPW 증후군 동반 AF** : AV node 차단제(β-차단제·CCB·Digoxin) 절대 금기; 즉시 응급 의뢰
-
-### <mark style="color:$warning;">조기 의뢰 (당일\~수일 내)</mark>
-
-* 신규 발생 AF (48시간 이내 여부 불확실 포함)
-* 심박수 조절 약물에도 맥박 ≥110회/분 지속
-* 심초음파가 필요한 경우 (구조적 심장 질환 배제)
-* 항응고 요법 시작 전 복잡한 출혈 위험 평가가 필요한 경우
-* 젊은 환자에서 리듬 조절(절제술) 고려 시
-
-***
-
-## <mark style="color:green;">분류</mark>
+### <mark style="color:orange;">분류</mark>
 
 | 유형                                   | 정의                                |
 | ------------------------------------ | --------------------------------- |
@@ -37,68 +16,77 @@
 | **영구성(Permanent)**                   | 리듬 조절 시도를 포기하고 rate control만 유지   |
 | **무증상(Subclinical/Silent)**          | 증상 없이 발견; 스마트워치·Holter에서 우연 발견 증가 |
 
-***
+## <mark style="color:green;">원인 및 위험 인자</mark>
 
-## <mark style="color:green;">원인 및 위험인자</mark>
-
-* **고혈압** (가장 흔한 원인; AF 환자의 60\~80%)
-* **심부전**, 관상동맥 질환, 판막 질환 (특히 승모판 질환)
-* **갑상선 기능 항진증** : 신규 AF 발견 시 TSH 필수 확인
-* **수면무호흡증(OSA)** : 독립적 위험인자; CPAP 치료 시 AF 재발 감소
-* **과도한 음주** ("Holiday Heart" syndrome 포함)
+* 고혈압 (가장 흔한 원인; AF 환자의 60\~80%)
+* 심부전, 관상동맥 질환, 판막 질환 (특히 승모판 질환)
+* 갑상선 기능 항진증 : 신규 AF 발견 시 TSH 필수 확인
+* 수면무호흡증(OSA) : 독립적 위험인자; CPAP 치료 시 AF 재발 감소
+* 과도한 음주 ("Holiday Heart" syndrome 포함)
 * 비만, 당뇨, 만성 신장 질환
 * 고령, 남성
 
-***
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
+
+* 혈역학적 불안정 : 저혈압(SBP ＜90 ㎜Hg), 의식 저하, 쇼크 징후
+* 급성 흉통 동반 (급성 관상동맥 증후군 감별)
+* 심한 호흡 곤란, 급성 폐부종
+* 빈맥(＞150회/분) 동반 실신 또는 실신 전구 증상
+* WPW 증후군 동반 AF&#x20;
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 신규 발생 AF (48시간 이내 여부 불확실 포함)
+* 심박수 조절 약물에도 맥박 ≥110회/분 지속
+* 심초음파가 필요한 경우 (구조적 심장 질환 배제)
+* 항응고 요법 시작 전 복잡한 출혈 위험 평가가 필요한 경우
+* 젊은 환자에서 리듬 조절(절제술) 고려 시
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">진단 기준</mark>
 
-* 표준 12-유도 ECG **또는** 30초 이상의 단일 유도 ECG(스마트워치, 패치형 기록기 등)에서:
-  * **P파 소실**
-  * **불규칙한 RR 간격**
-* 스마트워치 ECG(Apple Watch, Samsung Galaxy Watch 등)로 포착한 데이터도 진단 참고 자료로 활용 가능; 단, 확진은 12-유도 ECG 또는 단일 유도 30초 이상 기록으로 함
+* 표준 12-유도 ECG 또는 30초 이상의 단일 유도 ECG(스마트워치, 패치형 기록기 등)에서 P파 소실 &/or 불규칙한 RR interval
+  * 스마트워치 ECG로 포착한 데이터도 진단 참고 자료로 활용 가능; 단, 확진은 12-유도 ECG 또는 단일 유도 30초 이상 기록으로 함
 
 ### <mark style="color:orange;">초기 평가</mark>
 
-* **병력** : 증상 시작 시점(48시간 기준 중요), 발작성 여부, 동반 증상(흉통·실신·호흡 곤란)
-* **신체 검진** : 맥박(불규칙성·맥박 결손), 혈압, 경정맥 확장, 폐 청진
-* **기본 검사**
+* 병력 : 증상 시작 시점(48시간 기준 중요), 발작성 여부, 동반 증상(흉통·실신·호흡 곤란)
+* 신체 검진 : 맥박(불규칙성·맥박 결손), 혈압, 경정맥 확장, 폐 청진
+* 기본 검사
   * 12-유도 ECG
   * CBC, 전해질(K, Mg), 신기능(BUN/Cr), 간기능
-  * **TSH** (갑상선 기능 항진증 배제 필수)
+  * TSH (갑상선 기능 항진증 배제 필수)
   * 혈당, 공복 지질
   * 흉부 X선
-* **심초음파** : 구조적 심장 질환(판막 질환, 심부전, 비후성 심근병증 등) 평가; 신규 AF에서 원칙적으로 시행 (상급병원 의뢰)
-* **EHRA 증상 점수** : 환자의 일상생활 제한 정도 파악 (1\~4등급)
+* 심초음파 : 구조적 심장 질환(판막 질환, 심부전, 비후성 심근병증 등) 평가; 신규 AF에서 원칙적으로 시행&#x20;
+* EHRA 증상 점수 : 환자의 일상생활 제한 정도 파악 (1\~4등급)
 
 ***
 
-## <mark style="color:green;">관리 - ABC 경로 (2020 ESC 가이드라인)</mark>
+## <mark style="background-color:$warning;">Management</mark>
+
+## <mark style="color:green;">ABC 경로 (2020 ESC 가이드라인)</mark>
 
 ### <mark style="color:orange;">A - Anticoagulation : 뇌졸중 예방</mark>
 
-#### CHA₂DS₂-VASc 점수 계산
+#### <mark style="color:$primary;">CHA₂DS₂-VASc 점수 계산</mark>
 
-<table data-header-hidden><thead><tr><th width="240"></th><th width="60"></th><th width="320"></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>점수</strong></td><td><strong>내용</strong></td></tr><tr><td><strong>C</strong> (Congestive Heart Failure)</td><td>1</td><td>심부전 또는 좌심실 기능 저하</td></tr><tr><td><strong>H</strong> (Hypertension)</td><td>1</td><td>고혈압</td></tr><tr><td><strong>A₂</strong> (Age ≥75)</td><td>2</td><td>75세 이상</td></tr><tr><td><strong>A</strong> (Age 65–74)</td><td>1</td><td>65–74세</td></tr><tr><td><strong>D</strong> (Diabetes Mellitus)</td><td>1</td><td>당뇨병</td></tr><tr><td><strong>S₂</strong> (Stroke/TIA)</td><td>2</td><td>뇌졸중, TIA, 혈전색전증 과거력</td></tr><tr><td><strong>V</strong> (Vascular disease)</td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 플라크</td></tr><tr><td><strong>Sc</strong> (Sex category)</td><td>1</td><td>여성 (단독으로는 항응고 적응증이 되지 않음)</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th width="214"></th><th width="60"></th><th width="326"></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>점수</strong></td><td><strong>내용</strong></td></tr><tr><td><strong>C</strong>ongestive Heart Failure</td><td>1</td><td>심부전 또는 좌심실 기능 저하</td></tr><tr><td><strong>H</strong>ypertension</td><td>1</td><td>고혈압</td></tr><tr><td><strong>A₂</strong> (Age ≥75)</td><td>2</td><td>75세 이상</td></tr><tr><td><strong>A</strong> (Age 65–74)</td><td>1</td><td>65~74세</td></tr><tr><td><strong>D</strong>iabetes Mellitus</td><td>1</td><td>당뇨병</td></tr><tr><td><strong>S₂</strong> (Stroke/TIA)</td><td>2</td><td>뇌졸중, TIA, 혈전색전증 과거력</td></tr><tr><td><strong>V</strong>ascular disease</td><td>1</td><td>심근경색, 말초동맥질환, 대동맥 플라크</td></tr><tr><td><strong>Sc</strong> (Sex category)</td><td>1</td><td>여성 (단독으로는 항응고 적응증이 되지 않음)</td></tr></tbody></table>
 
-* **남성 ≥2점, 여성 ≥3점** : 항응고 요법(NOAC) **강력 권고**
-* **남성 1점, 여성 2점** : 환자 상태에 따라 항응고 요법 고려
-* **0점(남성), 1점(여성, 성별 점수만)** : 항응고 요법 불필요
+* 남성 ≥2점, 여성 ≥3점 : 항응고 요법(NOAC) 강력 권고
+* 남성 1점, 여성 2점 : 환자 상태에 따라 항응고 요법 고려
+* 0점(남성), 1점(여성, 성별 점수만) : 항응고 요법 불필요
 
-#### NOAC 선택 및 처방
+#### <mark style="color:$primary;">NOAC 선택 및 처방</mark>
 
 {% hint style="warning" %}
-**판막성 AF(중등도\~중증 승모판 협착, 기계판막)** 에서는 NOAC 사용 불가 → 와파린 사용; 상급병원 의뢰
+판막성 AF(중등도\~중증 승모판 협착, 기계판막) 에서는 **NOAC 사용 불가** → 와파린 사용; 의뢰
 {% endhint %}
 
-| 약제               | 용량                                               | 비고                                   |
-| ---------------- | ------------------------------------------------ | ------------------------------------ |
-| **다비가트란** (프라닥사) | 150 ㎎ 1T #2 (고위험 시) / 110 ㎎ 1T #2 (75세↑, 출혈 고위험) | 신기능 의존도 높음; eGFR ＜30 금기              |
-| **리바록사반** (자렐토)  | 20 ㎎ 1T #1 저녁식사와 함께                              | eGFR 15\~49 시 15 ㎎으로 감량; eGFR ＜15 금기 |
-| **아픽사반** (엘리퀴스)  | 5 ㎎ 1T #2                                        | 고령·저체중·신기능 저하 2가지 이상 시 2.5 ㎎ #2로 감량  |
-| **에독사반** (릭시아나)  | 60 ㎎ 1T #1                                       | eGFR 15\~50 또는 체중 ≤60 ㎏ 시 30 ㎎으로 감량  |
+<table><thead><tr><th width="177">약제</th><th>용량</th><th>비고</th></tr></thead><tbody><tr><td><strong>다비가트란</strong> <mark style="color:blue;">[프라닥사]</mark></td><td>150 ㎎ 1T #2 (고위험 시) / 110 ㎎ 1T #2 (75세↑, 출혈 고위험)</td><td>신기능 의존도 높음; eGFR ＜30 금기</td></tr><tr><td><strong>리바록사반</strong> <mark style="color:blue;">[자렐토]</mark></td><td>20 ㎎ 1T #1 저녁 식사와 함께</td><td>eGFR 15~49 시 15 ㎎으로 감량; eGFR ＜15 금기</td></tr><tr><td><strong>아픽사반</strong> <mark style="color:blue;">[엘리퀴스]</mark></td><td>5 ㎎ 1T #2</td><td>고령·저체중·신기능 저하 2가지 이상 시 2.5 ㎎ #2로 감량</td></tr><tr><td><strong>에독사반</strong> <mark style="color:blue;">[릭시아나]</mark></td><td>60 ㎎ 1T #1</td><td>eGFR 15~50 또는 체중 ≤60 ㎏ 시 30 ㎎으로 감량</td></tr></tbody></table>
 
 * 신기능(eGFR) 및 간기능 확인 후 약제 선택
 * 출혈 위험 평가(HAS-BLED) 참고하되, 출혈 위험이 높다는 이유만으로 항응고 치료를 중단해서는 안 됨 - 교정 가능한 출혈 위험인자(고혈압 조절, 약물 상호작용, 음주 중단)를 먼저 교정
@@ -107,35 +95,30 @@
 
 ### <mark style="color:orange;">B - Better symptom management : 심박수·리듬 조절</mark>
 
-#### 심박수 조절 (Rate Control) - 대부분의 경우 우선 선택
+#### <mark style="color:$primary;">심박수 조절 (Rate Control)</mark>&#x20;
 
-* **목표** : 휴식 시 맥박수 ＜110회/분 (증상 지속 시 ＜80회/분 목표 고려)
-* **1차 약제**
+* 대부분의 경우 우선 선택
+* 목표 : 휴식 시 맥박수 ＜110회/분 (증상 지속 시 ＜80회/분 목표 고려)
 
-| 약제          | 처방 예시                                   | 주의                               |
-| ----------- | --------------------------------------- | -------------------------------- |
-| β-차단제       | 베타록 서방정 47.5 ㎎ #1 또는 인데놀 10~40 ㎎ #2~3 | 천식·COPD 주의; 심부전에서 카르베딜롤·비소프롤롤 선호 |
-| non-DHP CCB | 헤르벤 서방정 90 ㎎ #2 또는 이솦틴 서방정 240 ㎎ #1     | **심부전(EF 저하) 환자에게 금기**           |
-| Digoxin     | 디곡신 0.125\~0.25 ㎎ #1                    | 심부전 동반 시 병용 고려; 혈중 농도 모니터링 필요    |
+<mark style="color:cyan;">**1차 약제**</mark>
 
-#### 리듬 조절 (Rhythm Control) - 전문과 의뢰
+<table><thead><tr><th width="146">약제</th><th>처방 예시</th><th>주의</th></tr></thead><tbody><tr><td>β-차단제</td><td>베타록 서방정 47.5 ㎎ #1 또는 <br>인데놀 10~40 ㎎ #2~3</td><td>천식·COPD 주의; 심부전에서 카르베딜롤·비소프롤롤 선호</td></tr><tr><td>non-DHP CCB</td><td>헤르벤 서방정 90 ㎎ #2 또는 <br>이솦틴 서방정 240 ㎎ #1</td><td>심부전(EF 저하) 환자에게 금기</td></tr><tr><td>Digoxin</td><td>디곡신 0.125~0.25 ㎎ #1</td><td>심부전 동반 시 병용 고려; 혈중 농도 모니터링 필요</td></tr></tbody></table>
 
-* 심박수 조절 후에도 증상 지속, 젊은 연령, 빈맥 유발성 심근병증 우려 시 고려
+#### <mark style="color:$primary;">리듬 조절 (Rhythm Control)</mark>&#x20;
+
+* 심박수 조절 후에도 증상 지속, 젊은 연령, 빈맥 유발성 심근병증 우려 시 고려 - 의뢰
 * 방법 : 항부정맥제(플레카이나이드·프로파페논·아미오다론 등), 전기적 심율동 전환, 카테터 절제술
-* **리듬 조절 시도 전 혈전 확인 원칙** : AF 발생 48시간 이내 여부 불확실하거나 48시간 초과 시 → 경식도 초음파(혈전 배제) 또는 3주 이상 선행 항응고 요법 필수
+* 리듬 조절 시도 전 혈전 확인 원칙 : AF 발생 48시간 이내 여부 불확실하거나 48시간 초과 시 → 경식도 초음파(혈전 배제) 또는 3주 이상 선행 항응고 요법 필수
 
-***
+### <mark style="color:orange;">C - Cardiovascular risk & Comorbidity 관리</mark>
 
-### <mark style="color:orange;">C - Cardiovascular risk & Comorbidity : 기저 질환 및 위험인자 관리</mark>
-
-* **고혈압** : 목표 혈압 달성이 AF 재발 및 뇌졸중 위험 감소에 직결
-* **수면무호흡증(OSA)** : CPAP 치료 시 AF 재발 및 부담 감소; STOP-BANG 등으로 선별 (☞ 수면무호흡증)
-* **비만** : 체중의 10% 이상 감량 시 AF 부담 유의하게 감소
-* **음주** : 완전 금주 또는 최소화 권고; 음주량과 AF 부담은 용량-반응 관계
-* **갑상선 기능 항진증** 치료 후 AF 호전 여부 재평가
+* 기저 질환 및 위험인자 관리
+* 고혈압 : 목표 혈압 달성이 AF 재발 및 뇌졸중 위험 감소에 직결
+* 수면무호흡증 : CPAP 치료 시 AF 재발 및 부담 감소; STOP-BANG 등으로 선별 (☞ 수면무호흡증)
+* 비만 : 체중의 10% 이상 감량 시 AF 부담 유의하게 감소
+* 음주 : 완전 금주 또는 최소화 권고; 음주량과 AF 부담은 용량-반응 관계
+* 갑상선 기능 항진증 치료 후 AF 호전 여부 재평가
 * 당뇨, 심부전, 관상동맥 질환의 최적 관리
-
-***
 
 ## <mark style="color:green;">1차 진료에서의 추적 관찰</mark>
 
@@ -148,12 +131,10 @@
 
 ## <mark style="color:red;">질병코드</mark>
 
-| 코드    | 분류           |
-| ----- | ------------ |
-| I48.0 | 발작성 심방세동     |
-| I48.1 | 지속성 심방세동     |
-| I48.2 | 만성(영구성) 심방세동 |
-| I48.9 | 상세불명의 심방세동   |
+I48.0 발작성 심방세동 \
+I48.1 지속성 심방세동\
+I48.2 만성(영구성) 심방세동\
+I48.9 상세불명의 심방세동
 
 ***
 
