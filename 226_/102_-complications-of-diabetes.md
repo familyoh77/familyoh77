@@ -663,6 +663,20 @@ graph TD
 * 발기 부전: PDE5i <mark style="color:blue;">[비아그라]</mark>, <mark style="color:blue;">[시알리스]</mark> (☞ 발기부전)
 * 여성 성 기능 장애: 질 윤활제, 질 감염 치료, estrogen 대체 요법 (☞ 여성 성 기능 장애)
 
+### <mark style="color:orange;">T1DM 동반 자가면역질환</mark>
+
+* T1DM 환자는 다른 자가면역질환 동반 위험이 일반 인구보다 높음
+
+<table><thead><tr><th width="220">동반 질환</th><th width="110">유병률</th><th>선별 검사</th></tr></thead><tbody><tr><td>자가면역 갑상선질환</td><td>≈9.8%</td><td>TSH — 1~2년마다</td></tr><tr><td>셀리악병</td><td>≈5%</td><td>tissue transglutaminase Ab — 진단 시, 이후 2년·5년째</td></tr><tr><td>악성빈혈, 백반증, 부신기능부전, 자가면역간염, 조기난소부전</td><td>일반 인구 대비 ↑</td><td>임상 증상 발생 시 선별</td></tr></tbody></table>
+
+* 자가면역질환 선별로 임상 경과가 개선된다는 근거(RCT)는 부족하나, 관련 증상(피로, 체중 변화, 소화기 증상, 월경 이상 등) 발생 시 낮은 문턱으로 검사 고려 _\[JAMA 2026 Type 1 Diabetes Review]_
+
+### <mark style="color:orange;">췌장 또는 도세포 이식</mark>
+
+* 대상: T1DM + 말기신부전(동시 췌장-신장 이식 또는 신장 이식 후 췌장 이식), 또는 중증·불응성 저혈당·저혈당무감지증이 있는 경우 고려
+* 내인성 인슐린 생성을 회복시켜 외인성 인슐린 요구를 없앨 수 있으나, **평생 면역억제에 따른 중증/치명적 부작용 위험 증가**(10년 누적 사망률 약 8\~32%로 보고)를 동반하므로 3차 기관 이식 전문팀과의 협진이 필수
+* 1차 진료에서는 반복되는 중증 저혈당·저혈당무감지증이 조절되지 않는 T1DM 환자를 이식 가능 여부 평가를 위해 조기 의뢰하는 역할이 중요함 _\[JAMA 2026 Type 1 Diabetes Review]_
+
 ***
 
 ### <mark style="color:red;">질병코드</mark>
