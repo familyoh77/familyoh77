@@ -23,26 +23,15 @@
 
 **Latent autoimmune diabetes of adult onset (LADA)**&#x20;
 
-* 경계형/비전형 당뇨병Block controls\
-  ￼Comment on block\
-  다양한 genetic expression이 있고, 여러 subtype이 있음\
-  ​\
-  Latent autoimmune diabetes of adult onset (LADA) \
-  ​\
-  ￼\
-  ​\
-  ￼Insert block\
-  ￼Block controls\
-  ￼Comment on block\
-  경계형/비전형 당뇨병
-* : 자가면역 기전상 T1DM에 가까우나 진행이 느려 초기에 종종 T2DM으로 잘못 분류되며, 때로 T1.5DM으로 불림; T1DM의 경한 형태인지, T2DM인지, 독립된 형태인지는 아직 불명확함
-  * ✽위 1\~4번 분류 중 어느 하나에도 명확히 속하지 않는 경계성 질환으로, 별도 항목으로 서술함
+* 경계형/비전형 당뇨병
+* 자가면역 기전상 T1DM에 가까우나 진행이 느려 초기에 종종 T2DM으로 잘못 분류되며, 때로 T1.5DM으로 불림; T1DM의 경한 형태인지, T2DM인지, 독립된 형태인지는 아직 불명확함
+  * 당뇨병 분류 중 어느 하나에도 명확히 속하지 않는 경계성 질환으로, 별도 항목으로 서술함
 
-**감별 진단 — 당뇨병이 아님**
+**Nondiabetic glycosuria (Renal glycosuria)** :&#x20;
 
-* **Nondiabetic glycosuria (Renal glycosuria)** : 소변으로 당분이 배출되지만 혈당은 정상인 양성 무증상 뇨당증
-  * 원인 : SGLT2 gene 변이, 근위 세뇨관 이상(예: 판코니증후군, CKD), 임신(특히 3\~4개월째)
-  * ✽당뇨병의 하위 유형이 아니라 요당 양성 소견의 감별진단 대상이므로 별도 항목으로 서술함
+* 소변으로 당분이 배출되지만 혈당은 정상인 양성 무증상 뇨당증
+* 원인 : SGLT2 gene 변이, 근위 세뇨관 이상(예: 판코니증후군, CKD), 임신(특히 3\~4개월째)
+* 당뇨병의 하위 유형이 아니라 요당 양성 소견의 감별 진단 대상ㅇ
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
