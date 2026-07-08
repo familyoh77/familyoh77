@@ -10,28 +10,39 @@
 
 ### <mark style="color:orange;">분류</mark>
 
-1. 제1형 당뇨병 (T1DM) : 인슐린 결핍을 초래하는 자가 면역 β-cell 파괴
-2. 제2형 당뇨병 (T2DM) : β-cell 인슐린 분비 기능의 점진적 상실; 종종 인슐린 저항성 및 대사증후군이 있음
-3. 임신당뇨병 (GDM) : 이전에 명백한 당뇨병이 없던 임신부에서 임신 2, 3분기 중 진단된 당뇨병
-4. 기타 당뇨병 : monogenic diabetes syndrome(예: 신생아당뇨병, Maturity onset diabetes of youth (MODY)), 췌장외분비기능장애(예: pancreatitis, cystic fibrosis), 약물 or 화학 물질 관련 당뇨병(예: steroid, HIV/AIDS 치료, 장기 이식), 간질환(만성 간염, 간경화), 감염(풍진, CMV)
+1. 제1형 당뇨병 (T1DM) : 자가면역성 β-cell 파괴에 의해 절대적 인슐린 결핍이 발생하는 당뇨병
+   * 자가항체 음성이면서 원인 불명의 절대적 인슐린 결핍을 보이는 특발성(idiopathic) T1DM도 존재(성인 발병의 5\~10%)
+2. 제2형 당뇨병 (T2DM) : 인슐린 저항성을 배경으로 β-cell의 적절한 인슐린 분비 기능이 점진적으로 저하되는 당뇨병; 종종 대사증후군을 동반
+3. 임신당뇨병 (GDM) : 임신 전 명백한 당뇨병이 없던 여성에서 임신 2\~3분기에 처음 진단된 당뇨병
+4. 기타 특이 유형의 당뇨병
+   * Monogenic diabetes syndrome : 신생아당뇨병, Maturity onset diabetes of youth(MODY)
+   * 췌장외분비질환 : chronic pancreatitis, pancreatic cancer, cystic fibrosis, hemochromatosis
+   * 내분비질환 : Cushing 증후군, acromegaly, glucagonoma, 갈색세포종
+   * 약물·화학물질 유발 당뇨병 : glucocorticoid, calcineurin inhibitor, protease inhibitor, 비정형 항정신병제
+   * 감염 : congenital rubella, CMV
+   * 유전증후군 : Down 증후군, Turner 증후군, Wolfram 증후군
 
-<mark style="color:cyan;">**Latent autoimmune diabetes of adult onset (LADA)**</mark>&#x20;
+<mark style="color:cyan;">**Latent autoimmune diabetes of adult onset (LADA)**</mark>
 
-* 경계형/비전형 당뇨병
-* 자가면역 기전상 T1DM에 가까우나 진행이 느려 초기에 종종 T2DM으로 잘못 분류되며, 때로 T1.5DM으로 불림
-* T1DM의 경한 형태인지, T2DM인지, 독립된 형태인지는 불명확; 당뇨병 분류 중 어느 하나에도 명확히 속하지 않는 경계성 질환
+* WHO 정의 : 성인에서 발생하는 진행이 느린 자가면역성 당뇨병(slowly progressive autoimmune diabetes) - 초기에는 인슐린 비의존성이나 결국 대부분 인슐린 의존성이 됨
+* 초기에는 T2DM으로 오인되는 경우가 많으나 병태생리는 T1DM에 가까움; 일부에서는 비공식적으로 'T1.5DM'이라 부르기도 함
+* T1DM의 경한 형태인지, T2DM인지, 독립된 형태인지는 아직 불명확함 - 당뇨병 4대 분류 중 어느 하나에도 공식적으로 속하지 않는 별도 항목임
 
-<mark style="color:cyan;">**Nondiabetic glycosuria (Renal glycosuria)**</mark> <mark style="color:cyan;"></mark><mark style="color:cyan;">:</mark>&#x20;
+<mark style="color:cyan;">**Nondiabetic glycosuria (Renal glycosuria)**</mark>
 
 * 소변으로 당분이 배출되지만 혈당은 정상인 양성 무증상 뇨당증
-* 원인 : SGLT2 gene 변이, 근위 세뇨관 이상(예: 판코니증후군, CKD), 임신(특히 3\~4개월째)
-* 당뇨병의 하위 유형이 아니라 요당 양성 소견의 감별 진단 대상임
+* 원인 : SLC5A2(SGLT2) 유전자 변이, 근위 세뇨관 이상(예: Fanconi 증후군, Dent병, 약물 유발 세뇨관병증), 임신 중(특히 중기 이후 GFR 증가 시)
+* 당뇨병의 하위 유형이 아니라 정상 혈당에서 요당이 검출되는 경우의 중요한 감별 진단임
+
+<mark style="color:cyan;">**간질환 관련 당뇨병 (hepatogenous diabetes)**</mark>
+
+* ADA 공식 4대 분류에는 포함되지 않으나, 국내 임상에서 흔히 마주치는 secondary diabetes (예: 간경변 동반)
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* **공통** : 유전, 가족력(직계 가족)
-* **T1DM** : 바이러스 감염, Vit D 결핍, 자가 항체 존재, 태아 인자(산모 연령, 자간전증 병력), 조산아, 과체중 출생
-* **T2DM** : 비만/과체중(BMI ≥23)/복부비만, 공복혈당장애나 내당능장애 과거력, 비활동, 고령, 임신당뇨병, 거대아(≥4 ㎏) 출산력, 인슐린 저항성 관련 질환(예: 다낭난소증후군, 흑색극세포증), 고혈압, 심혈관 질환(예: 뇌졸중, 관상동맥병), 지질 이상(HDL-C ＜35 ㎎/㎗, TG ≥250 ㎎/㎗), 약물(예: thiazide, 2세대 항정신병제, steroid, 일부 statin)
+* 공통 : 유전, 가족력(직계 가족)
+* T1DM : 바이러스 감염, Vit D 결핍, 자가 항체 존재, 태아 인자(산모 연령, 자간전증 병력), 조산아, 과체중 출생
+* T2DM : 비만/과체중(BMI ≥23)/복부비만, 공복혈당장애나 내당능장애 과거력, 비활동, 고령, 임신당뇨병, 거대아(≥4 ㎏) 출산력, 인슐린 저항성 관련 질환(예: 다낭난소증후군, 흑색극세포증), 고혈압, 심혈관 질환(예: 뇌졸중, 관상동맥병), 지질 이상(HDL-C ＜35 ㎎/㎗, TG ≥250 ㎎/㎗), 약물(예: thiazide, 2세대 항정신병제, steroid, 일부 statin)
 
 ## <mark style="color:green;">임상 양상</mark>
 
