@@ -1,26 +1,48 @@
-# 당뇨병 Diabetes Mellitus (DM)
+# 당뇨병 Diabetes Mellitus
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 인슐린 분비 결핍 &/or 인슐린 저항성으로 인하여 고혈당이 발생한 대사 이상 증후군
-* 유병률(우리나라 ≥30세) : 16.7%(남 17.7%, 여 13.6%); 당뇨병전단계 44.3%(남 47.1%, 여 41.6%); T2DM이 전체 당뇨병의 90% 이상 차지 _\[Diabetes Fact Sheet in Korea 2022, 2020년 데이터 기준; 최신 수치는 대한당뇨병학회 Fact Sheet 2024 참조]_
+* 유병률 : 우리나라 ≥30세에서 당뇨병 15.5%(남 18.1%, 여 13.0%), 당뇨병전단계 41.1%(남 43.8%, 여 38.5%) \[당뇨병 fact sheet 2024]; T2DM이 전체 당뇨병의 90% 이상 차지 \[IDF 2025]
 * 호발 연령 : T1DM - 4\~6세, 10\~14세; T2DM - ＞40세
-  * 당뇨병전단계인 ≥65세의 9%가 6.5년 후, ≥60세의 13%가 12년 후 당뇨병으로 발전했다는 보고가 있음
-* T1DM 환자의 기대 여명은 일반 인구 대비 약 8\~10년 짧으며, 심혈관 질환이 주요 사인임 _\[JAMA 2026;Feb16 Type 1 Diabetes Review]_
+* 당뇨병전단계인 ≥65세의 9%가 6.5년 후, ≥60세의 13%가 12년 후 당뇨병으로 발전했다는 보고가 있음
+* T1DM 환자의 기대 여명은 일반 인구 대비 약 8\~10년 짧으며, 심혈관 질환이 주요 사인임&#x20;
+
+
 
 ### <mark style="color:orange;">분류</mark>
 
-1. **제1형 당뇨병 (T1DM)** : 인슐린 결핍을 초래하는 자가 면역 β-cell 파괴
-2. **제2형 당뇨병 (T2DM)** : β-cell 인슐린 분비 기능의 점진적 상실; 종종 인슐린 저항성 및 대사증후군이 있음
-3. **임신당뇨병 (GDM)** : 이전에 명백한 당뇨병이 없던 임신부에서 임신 2, 3분기 중 진단된 당뇨병
-4. **기타 당뇨병** : monogenic diabetes syndrome(예: 신생아당뇨병, maturity-onset diabetes of the young), 췌장외분비기능장애(예: pancreatitis, cystic fibrosis), 약물 or 화학 물질 관련 당뇨병(예: steroid, HIV/AIDS 치료, 장기 이식), 간질환(만성 간염, 간경화), 감염(풍진, CMV)
+1. 제1형 당뇨병 (T1DM) : 인슐린 결핍을 초래하는 자가 면역 β-cell 파괴
+2. 제2형 당뇨병 (T2DM) : β-cell 인슐린 분비 기능의 점진적 상실; 종종 인슐린 저항성 및 대사증후군이 있음
+3. 임신당뇨병 (GDM) : 이전에 명백한 당뇨병이 없던 임신부에서 임신 2, 3분기 중 진단된 당뇨병
+4. 기타 당뇨병 : monogenic diabetes syndrome(예: 신생아당뇨병, MODY - 아래 참고), 췌장외분비기능장애(예: pancreatitis, cystic fibrosis), 약물 or 화학 물질 관련 당뇨병(예: steroid, HIV/AIDS 치료, 장기 이식), 간질환(만성 간염, 간경화), 감염(풍진, CMV)
 
-#### <mark style="color:$primary;">추가 분류</mark>
+**Maturity onset diabetes of youth (MODY)**
 
-* **Latent autoimmune diabetes of adult onset (LADA)** : 초기에 종종 T2DM으로 잘못 분류되며, 때로 T1.5DM으로 불림
-* **Maturity onset diabetes of youth (MODY)** : 다양한 genetic expression이 있고, 여러 subtype이 있음
+* 다양한 genetic expression이 있고, 여러 subtype이 있음
+
+**Latent autoimmune diabetes of adult onset (LADA)**&#x20;
+
+* 경계형/비전형 당뇨병Block controls\
+  ￼Comment on block\
+  다양한 genetic expression이 있고, 여러 subtype이 있음\
+  ​\
+  Latent autoimmune diabetes of adult onset (LADA) \
+  ​\
+  ￼\
+  ​\
+  ￼Insert block\
+  ￼Block controls\
+  ￼Comment on block\
+  경계형/비전형 당뇨병
+* : 자가면역 기전상 T1DM에 가까우나 진행이 느려 초기에 종종 T2DM으로 잘못 분류되며, 때로 T1.5DM으로 불림; T1DM의 경한 형태인지, T2DM인지, 독립된 형태인지는 아직 불명확함
+  * ✽위 1\~4번 분류 중 어느 하나에도 명확히 속하지 않는 경계성 질환으로, 별도 항목으로 서술함
+
+**감별 진단 — 당뇨병이 아님**
+
 * **Nondiabetic glycosuria (Renal glycosuria)** : 소변으로 당분이 배출되지만 혈당은 정상인 양성 무증상 뇨당증
   * 원인 : SGLT2 gene 변이, 근위 세뇨관 이상(예: 판코니증후군, CKD), 임신(특히 3\~4개월째)
+  * ✽당뇨병의 하위 유형이 아니라 요당 양성 소견의 감별진단 대상이므로 별도 항목으로 서술함
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -89,7 +111,7 @@
 
 ### <mark style="color:orange;">당뇨병 위험도 체크 리스트</mark>
 
-<table><thead><tr><th width="125">질문</th><th width="97">문항</th><th width="98">점수</th><th width="100">질문</th><th width="95">문항</th><th width="78">점수</th></tr></thead><tbody><tr><td>나이</td><td>&lt;35세</td><td>0점</td><td>허리둘레/남</td><td>&lt;84 ㎝</td><td>0점</td></tr><tr><td></td><td>35~44세</td><td>2점</td><td></td><td>84~89.9 ㎝</td><td>2점</td></tr><tr><td></td><td>≥45세</td><td>3점</td><td></td><td>≥90 ㎝</td><td>3점</td></tr><tr><td>가족력</td><td>아니오</td><td>0점</td><td>허리둘레/여</td><td>&lt;77 ㎝</td><td>0점</td></tr><tr><td>(부모 형제 당뇨병력)</td><td>예</td><td>1점</td><td></td><td>77~83.9 ㎝</td><td>2점</td></tr><tr><td>고혈압</td><td>아니오</td><td>0점</td><td></td><td>≥84 ㎝</td><td>3점</td></tr><tr><td>(≥140/90 ㎜Hg or 치료 중)</td><td>예</td><td>1점</td><td>1일 음주량</td><td>≤1잔 또는 비음주</td><td>0점</td></tr><tr><td>현재 흡연</td><td>아니오</td><td>0점</td><td>(주종 무관)</td><td>1~4.9잔</td><td>1점</td></tr><tr><td></td><td>예</td><td>1점</td><td></td><td>≥5잔</td><td>2점</td></tr></tbody></table>
+<table><thead><tr><th width="125">질문</th><th width="97">문항</th><th width="98">점수</th><th width="100">질문</th><th width="95">문항</th><th width="78">점수</th></tr></thead><tbody><tr><td>나이</td><td>&#x3C;35세</td><td>0점</td><td>허리둘레/남</td><td>&#x3C;84 ㎝</td><td>0점</td></tr><tr><td></td><td>35~44세</td><td>2점</td><td></td><td>84~89.9 ㎝</td><td>2점</td></tr><tr><td></td><td>≥45세</td><td>3점</td><td></td><td>≥90 ㎝</td><td>3점</td></tr><tr><td>가족력</td><td>아니오</td><td>0점</td><td>허리둘레/여</td><td>&#x3C;77 ㎝</td><td>0점</td></tr><tr><td>(부모 형제 당뇨병력)</td><td>예</td><td>1점</td><td></td><td>77~83.9 ㎝</td><td>2점</td></tr><tr><td>고혈압</td><td>아니오</td><td>0점</td><td></td><td>≥84 ㎝</td><td>3점</td></tr><tr><td>(≥140/90 ㎜Hg or 치료 중)</td><td>예</td><td>1점</td><td>1일 음주량</td><td>≤1잔 또는 비음주</td><td>0점</td></tr><tr><td>현재 흡연</td><td>아니오</td><td>0점</td><td>(주종 무관)</td><td>1~4.9잔</td><td>1점</td></tr><tr><td></td><td>예</td><td>1점</td><td></td><td>≥5잔</td><td>2점</td></tr></tbody></table>
 
 _Ref. 대한당뇨병학회. 당뇨병 진료지침 제9판. 2025_
 
@@ -98,12 +120,12 @@ _Ref. 대한당뇨병학회. 당뇨병 진료지침 제9판. 2025_
 
 ## <mark style="color:green;">진단</mark>
 
-<table><thead><tr><th width="200">판정</th><th width="160">공복 혈당¹⁾</th><th width="200">75 g OGTT 2시간 후 혈당²⁾</th><th>A1C</th></tr></thead><tbody><tr><td>정상</td><td>&lt;100</td><td>&lt;140</td><td>&lt;5.7%</td></tr><tr><td>당뇨병전단계 (prediabetes)</td><td>100~125 [IFG]</td><td>140~199 [IGT]</td><td>5.7~6.4%</td></tr><tr><td>당뇨병³⁾ (어느 한 항목이라도 해당)</td><td>① ≥126</td><td>② ≥200</td><td>③ ≥6.5%</td></tr><tr><td></td><td colspan="3">④ 고혈당의 전형적인 증상(다뇨, 다음, 설명되지 않는 체중 감소) &amp; 무작위 혈장 포도당 ≥200 ㎎/㎗</td></tr></tbody></table>
+<table><thead><tr><th width="200">판정</th><th width="160">공복 혈당¹⁾</th><th width="200">75 g OGTT 2시간 후 혈당²⁾</th><th>A1C</th></tr></thead><tbody><tr><td>정상</td><td>&#x3C;100</td><td>&#x3C;140</td><td>&#x3C;5.7%</td></tr><tr><td>당뇨병전단계 (prediabetes)</td><td>100~125 [IFG]</td><td>140~199 [IGT]</td><td>5.7~6.4%</td></tr><tr><td>당뇨병³⁾ (어느 한 항목이라도 해당)</td><td>① ≥126</td><td>② ≥200</td><td>③ ≥6.5%</td></tr><tr><td></td><td>④ 고혈당의 전형적인 증상(다뇨, 다음, 설명되지 않는 체중 감소) &#x26; 무작위 혈장 포도당 ≥200 ㎎/㎗</td><td></td><td></td></tr></tbody></table>
 
 _**IFG** = impaired fasting glucose (공복혈당장애), **IGT** = impaired glucose tolerance (내당능장애)_\
-_¹⁾ 최소 8시간 공복(칼로리 섭취 중단)_\
-_²⁾ 75 g 경구 당 부하 2시간 후_\
-_³⁾ 당뇨병의 기준은 고혈당으로 인한 합병증이 발생할 수 있는 수준을 기반으로 정해짐; 공복 혈당 126 ㎎/㎗에 해당하는 식후 2시간 혈당은 200 ㎎/㎗정도이며, 이 수준으로 혈당이 유지될 경우 A1C는 6.5%가 됨_
+&#xNAN;_&#xB9;⁾ 최소 8시간 공복(칼로리 섭취 중단)_\
+&#xNAN;_&#xB2;⁾ 75 g 경구 당 부하 2시간 후_\
+&#xNAN;_&#xB3;⁾ 당뇨병의 기준은 고혈당으로 인한 합병증이 발생할 수 있는 수준을 기반으로 정해짐; 공복 혈당 126 ㎎/㎗에 해당하는 식후 2시간 혈당은 200 ㎎/㎗정도이며, 이 수준으로 혈당이 유지될 경우 A1C는 6.5%가 됨_
 
 * 명백한 고혈당 증상이 없는 경우에는 다른 날 검사를 반복해야 하지만, 동시에 시행한 검사들에서 두 가지 이상의 기준에 해당되면 바로 진단
 * portable glucose meter로 당뇨병을 진단해서는 안 됨 \[ADA]
@@ -178,7 +200,7 @@ graph TD
 
 ¹⁾ _T1DM을 진단하는 단일 임상 특징은 없음._\
 ²⁾ _1차로 GAD 항체를 측정하며, 음성인 경우 IA-2 or ZnT8 항체를 측정._\
-³⁾ _adult onset T1DM 환자의 5~10%가 음성._\
+³⁾ _adult onset T1DM 환자의 5\~10%가 음성._\
 ⁴⁾ _다음 중 하나 이상 해당 시 의심: 진단 시 A1C < 7.5%, 부모 당뇨 병력, 특정 monogenic 원인 특징(예: 신생아 당뇨, partial lipodystrophy, 모체 유전 남성, 비만이 아니면서 심한 인슐린 저항성), 단일형성 DM 예측 모형 확률 > 5%._\
 ⁵⁾ _인슐린 치료를 받는 사람과 받지 않는 사람 모두 적용._\
 ⁶⁾ _BMI ≥ 25, 체중 감소 없음, 케톤산증 없음, 발병 시 고령._\
@@ -195,7 +217,7 @@ graph TD
 
 * T1DM은 자가면역 β-cell 파괴가 시작된 시점부터 임상 발병까지 연속적인 병기로 진행하며, 자가항체가 확인된 무증상 단계에서도 조기 분류가 가능함
 
-<table><thead><tr><th width="100">병기</th><th width="260">특징</th><th>비고</th></tr></thead><tbody><tr><td>Stage 1</td><td>islet 자가항체 ≥2개 양성 + 정상혈당(공복 &lt;100, OGTT 2시간 &lt;140, A1C &lt;5.7%)</td><td>무증상; 평생 임상적 T1DM 발생 위험 거의 100%</td></tr><tr><td>Stage 2</td><td>islet 자가항체 ≥2개 양성 + 이상혈당(dysglycemia; 공복 100~125, OGTT 2시간 140~199, A1C 5.7~6.4% 또는 A1C 10% 이상 상승)</td><td>당뇨병전단계에 해당하나 자가항체 양성으로 T1DM 진행 확정적</td></tr><tr><td>Stage 3</td><td>고전적 T1DM — 고혈당 기준 충족(공복 ≥126, OGTT 2시간 ≥200, A1C ≥6.5%) + 증상(다뇨, 다음, 체중감소) 동반 가능</td><td>외인성 인슐린 치료 필요</td></tr></tbody></table>
+<table><thead><tr><th width="100">병기</th><th width="260">특징</th><th>비고</th></tr></thead><tbody><tr><td>Stage 1</td><td>islet 자가항체 ≥2개 양성 + 정상혈당(공복 &#x3C;100, OGTT 2시간 &#x3C;140, A1C &#x3C;5.7%)</td><td>무증상; 평생 임상적 T1DM 발생 위험 거의 100%</td></tr><tr><td>Stage 2</td><td>islet 자가항체 ≥2개 양성 + 이상혈당(dysglycemia; 공복 100~125, OGTT 2시간 140~199, A1C 5.7~6.4% 또는 A1C 10% 이상 상승)</td><td>당뇨병전단계에 해당하나 자가항체 양성으로 T1DM 진행 확정적</td></tr><tr><td>Stage 3</td><td>고전적 T1DM — 고혈당 기준 충족(공복 ≥126, OGTT 2시간 ≥200, A1C ≥6.5%) + 증상(다뇨, 다음, 체중감소) 동반 가능</td><td>외인성 인슐린 치료 필요</td></tr></tbody></table>
 
 _Ref. Jacobsen LM, Schatz DA. Type 1 Diabetes: A Review. JAMA 2026._
 
@@ -252,10 +274,10 @@ _\*다음의 경우에 교육 및 지원 필요 : 진단, 매년 &/or 목표 달
 
 ### <mark style="color:orange;">치료 목표</mark>
 
-<table><thead><tr><th width="230">[대한당뇨병학회] (2025)</th><th width="90">A1C 목표</th><th width="230">[미국당뇨병학회] (ADA 2025)</th><th>A1C 목표</th></tr></thead><tbody><tr><td>T2DM의 일반적 목표</td><td>&lt;6.5%</td><td>A1C 일반적 목표</td><td>&lt;7%</td></tr><tr><td>T2DM - 저혈당 위험 낮고 적극 치료 가능 시</td><td>&lt;6.0% 고려</td><td>저혈당 등 부작용이 없는 경우</td><td>&lt;6.5%</td></tr><tr><td>T1DM의 일반적 목표</td><td>&lt;7.0%</td><td>고령 - 일반적 경우</td><td>7.0~7.5%</td></tr><tr><td>고령(≥65세) 일반적 경우</td><td>&lt;7.5%</td><td>고령 - 저혈당 위험, 특별한 경우¹⁾</td><td>&lt;8%</td></tr><tr><td>소아청소년 T2DM</td><td>&lt;6.5% (KDA 2025 신규)</td><td>—</td><td>—</td></tr><tr><td colspan="4"><strong>혈당 목표</strong> [ADA] : 공복 80~130 ㎎/㎗, 식후²⁾ &lt;180 ㎎/㎗</td></tr></tbody></table>
+<table><thead><tr><th width="230">[대한당뇨병학회] (2025)</th><th width="90">A1C 목표</th><th width="230">[미국당뇨병학회] (ADA 2025)</th><th>A1C 목표</th></tr></thead><tbody><tr><td>T2DM의 일반적 목표</td><td>&#x3C;6.5%</td><td>A1C 일반적 목표</td><td>&#x3C;7%</td></tr><tr><td>T2DM - 저혈당 위험 낮고 적극 치료 가능 시</td><td>&#x3C;6.0% 고려</td><td>저혈당 등 부작용이 없는 경우</td><td>&#x3C;6.5%</td></tr><tr><td>T1DM의 일반적 목표</td><td>&#x3C;7.0%</td><td>고령 - 일반적 경우</td><td>7.0~7.5%</td></tr><tr><td>고령(≥65세) 일반적 경우</td><td>&#x3C;7.5%</td><td>고령 - 저혈당 위험, 특별한 경우¹⁾</td><td>&#x3C;8%</td></tr><tr><td>소아청소년 T2DM</td><td>&#x3C;6.5% (KDA 2025 신규)</td><td>—</td><td>—</td></tr><tr><td><strong>혈당 목표</strong> [ADA] : 공복 80~130 ㎎/㎗, 식후²⁾ &#x3C;180 ㎎/㎗</td><td></td><td></td><td></td></tr></tbody></table>
 
 _¹⁾ 제한된 기대 여명, 진행된 혈관 합병증, 심한 동반 질환, 복수의 만성 질환 동반, 인지 장애, 기능적 의존 상태, 적절한 치료(인슐린 포함)에도 불구하고 목표 도달이 어려운 오래된 당뇨병_\
-_²⁾ 일반적으로 당뇨병 환자에서 peak level인 식후 1\~2시간에 측정_
+&#xNAN;_&#xB2;⁾ 일반적으로 당뇨병 환자에서 peak level인 식후 1\~2시간에 측정_
 
 * 식전 포도당이 목표에 도달했음에도 A1C 목표가 달성되지 않을 경우 식후 포도당을 목표로 할 수 있음
 * 연속 혈당 측정 장치(CGM) 사용 시 : 목표 혈당 범위(70\~180 ㎎/㎗) 내 시간 ＞70%, 목표 혈당 범위 미만(＜70 ㎎/㎗) 시간 ＜4%, 특히 ＜54 ㎎/㎗ 저혈당 시간은 ＜1%
@@ -289,7 +311,7 @@ _²⁾ 일반적으로 당뇨병 환자에서 peak level인 식후 1\~2시간에
   * **간섬유화 평가**: MASLD 동반 T2DM 성인에서 간섬유화 확인을 위해 **vibration-controlled transient elastography(VCTE, FibroScan)를 고려** \[무작위대조군연구, 제한적권고] (✽KDA 2025는 FIB-4보다 VCTE를 직접 권고)
   * T2DM + MASLD/MASH 동반 시 : **GLP-1 RA 또는 GIP/GLP-1 이중작용제(tirzepatide)** 사용을 고려; 중등도 이상 섬유화가 있는 경우 thyroid hormone receptor-β agonist(resmetirom) 추가 고려 \[ADA 2025] (☞ [MASLD](../224_/093_-nafld.md))
 
-<table><thead><tr><th width="326">항목</th><th width="80">첫 방문</th><th width="80">매 방문</th><th width="80">매년</th></tr></thead><tbody><tr><td><strong>과거력·가족력: 당뇨병 병력</strong></td><td></td><td></td><td></td></tr><tr><td>• 발병 시 특징 (예: 나이, 증상)</td><td>○</td><td></td><td></td></tr><tr><td>• 이전 치료 방법 및 반응 검토</td><td>○</td><td></td><td></td></tr><tr><td>• 과거 입원 빈도/원인/중증도 평가</td><td>○</td><td></td><td></td></tr><tr><td><strong>과거력·가족력: 가족력</strong></td><td></td><td></td><td></td></tr><tr><td>• 1st-degree 당뇨병 가족력</td><td>○</td><td></td><td></td></tr><tr><td>• 자가면역 질환 가족력</td><td>○</td><td></td><td></td></tr><tr><td><strong>과거력·가족력: 합병증 및 동반 질환 병력</strong></td><td></td><td></td><td></td></tr><tr><td>• 동반 상태 (예: 비만, OSA, MASLD)</td><td>○</td><td></td><td></td></tr><tr><td>• 고혈압 or 이상지질혈증</td><td>○</td><td></td><td>○</td></tr><tr><td>• 대혈관 &amp; 미세혈관 합병증</td><td>○</td><td></td><td>○</td></tr><tr><td>• 저혈당: 상황, 빈도, 원인, 자각 여부</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• hemoglobinopathies or 빈혈</td><td>○</td><td></td><td>○</td></tr><tr><td>• 마지막 치과 진료</td><td>○</td><td></td><td>○</td></tr><tr><td>• 마지막 동공 확대 안과 검진</td><td></td><td></td><td>○</td></tr><tr><td>• visits to specialists</td><td></td><td></td><td>○</td></tr><tr><td>• 장애 평가 &amp; 보조 기기 사용¹⁾</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 자가면역 질환 병력</td><td>○</td><td></td><td></td></tr><tr><td><strong>과거력·가족력: Interval Hx</strong></td><td></td><td></td><td></td></tr><tr><td>• 이전 방문 후 질병/가족 변화</td><td></td><td>○</td><td>○</td></tr><tr><td><strong>생활 습관 인자</strong></td><td></td><td></td><td></td></tr><tr><td>• 식사 습관 &amp; 체중 변화력</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 탄수화물 계산 숙련도 평가</td><td>○</td><td></td><td>○</td></tr><tr><td>• 신체 활동, 수면 습관; OSA 평가</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 흡연, 음주, 약물 남용</td><td>○</td><td></td><td>○</td></tr><tr><td><strong>약물 및 예방접종 병력</strong></td><td></td><td></td><td></td></tr><tr><td>• 현재 투여 약물</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 약물 투여 행동(순응도)</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 약물 불내성 or 부작용</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 민간/대체 요법</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 예방접종 경력 및 필요성</td><td>○</td><td></td><td>○</td></tr><tr><td><strong>Technology use</strong></td><td></td><td></td><td></td></tr><tr><td>• 건강 앱, 온라인 교육, 환자 포털 이용</td><td>○</td><td></td><td>○</td></tr><tr><td>• 당 모니터링: 결과 및 데이터 활용</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 인슐린 펌프 셋팅 및 사용 검토</td><td>○</td><td>○</td><td>○</td></tr><tr><td><strong>사회 생활 평가: Social network</strong></td><td></td><td></td><td></td></tr><tr><td>• 사회적 지지 존재 확인</td><td>○</td><td></td><td>○</td></tr><tr><td>• 의사결정 대리인, 추가 관리계획 확인</td><td>○</td><td></td><td>○</td></tr><tr><td>• 건강의 사회적 요인 확인</td><td>○</td><td></td><td>○</td></tr><tr><td>• 일상 및 환경 평가</td><td>○</td><td>○</td><td>○</td></tr><tr><td><strong>신체검사</strong></td><td></td><td></td><td></td></tr><tr><td>• 신장, 체중, BMI; 혈압</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 기립 혈압(필요시)</td><td>○</td><td></td><td></td></tr><tr><td>• 안저검사(안과 전문의 의뢰)</td><td>○</td><td></td><td>○</td></tr><tr><td>• 갑상선 촉진</td><td>○</td><td></td><td>○</td></tr><tr><td>• 피부 검사(예: 인슐린 주사 부위)</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 포괄적 발 검사</td><td>○</td><td></td><td>○</td></tr><tr><td>　시진(예: 상처, 굳은살, 변형, 궤양, 발톱)</td><td>○</td><td>○</td><td>○</td></tr><tr><td>　말초동맥질환 선별(pedal pulses)²⁾</td><td>○</td><td></td><td>○</td></tr><tr><td>　감각 검사³⁾</td><td>○</td><td></td><td>○</td></tr><tr><td>• 우울, 불안, 저혈당공포, 식사장애 선별</td><td>○</td><td></td><td>○</td></tr><tr><td>• 인지 장애 평가 고려(≥65세)</td><td>○</td><td></td><td>○</td></tr><tr><td>• 기능 수행 평가 고려(≥65세)</td><td>○</td><td></td><td>○</td></tr><tr><td>• 골 통증 평가 고려</td><td>○</td><td></td><td>○</td></tr><tr><td><strong>검사실 검사</strong></td><td></td><td></td><td></td></tr><tr><td>• A1C (3개월 내 검사하지 않은 경우)</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 총/LDL/HDL-C, TG; LFT; Cr, eGFR⁴⁾</td><td>○</td><td></td><td>○</td></tr><tr><td>• T1DM에서 TSH; metformin 투여 시 Vit B12; CBC; ACEI/ARB/이뇨제 투여 시 혈청 K; 필요시 Ca, Vit D, P⁵⁾</td><td>○</td><td></td><td>○⁶⁾</td></tr><tr><td>• 소변 Alb/Cr ratio</td><td>○</td><td></td><td>○</td></tr></tbody></table>
+<table><thead><tr><th width="326">항목</th><th width="80">첫 방문</th><th width="80">매 방문</th><th width="80">매년</th></tr></thead><tbody><tr><td><strong>과거력·가족력: 당뇨병 병력</strong></td><td></td><td></td><td></td></tr><tr><td>• 발병 시 특징 (예: 나이, 증상)</td><td>○</td><td></td><td></td></tr><tr><td>• 이전 치료 방법 및 반응 검토</td><td>○</td><td></td><td></td></tr><tr><td>• 과거 입원 빈도/원인/중증도 평가</td><td>○</td><td></td><td></td></tr><tr><td><strong>과거력·가족력: 가족력</strong></td><td></td><td></td><td></td></tr><tr><td>• 1st-degree 당뇨병 가족력</td><td>○</td><td></td><td></td></tr><tr><td>• 자가면역 질환 가족력</td><td>○</td><td></td><td></td></tr><tr><td><strong>과거력·가족력: 합병증 및 동반 질환 병력</strong></td><td></td><td></td><td></td></tr><tr><td>• 동반 상태 (예: 비만, OSA, MASLD)</td><td>○</td><td></td><td></td></tr><tr><td>• 고혈압 or 이상지질혈증</td><td>○</td><td></td><td>○</td></tr><tr><td>• 대혈관 &#x26; 미세혈관 합병증</td><td>○</td><td></td><td>○</td></tr><tr><td>• 저혈당: 상황, 빈도, 원인, 자각 여부</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• hemoglobinopathies or 빈혈</td><td>○</td><td></td><td>○</td></tr><tr><td>• 마지막 치과 진료</td><td>○</td><td></td><td>○</td></tr><tr><td>• 마지막 동공 확대 안과 검진</td><td></td><td></td><td>○</td></tr><tr><td>• visits to specialists</td><td></td><td></td><td>○</td></tr><tr><td>• 장애 평가 &#x26; 보조 기기 사용¹⁾</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 자가면역 질환 병력</td><td>○</td><td></td><td></td></tr><tr><td><strong>과거력·가족력: Interval Hx</strong></td><td></td><td></td><td></td></tr><tr><td>• 이전 방문 후 질병/가족 변화</td><td></td><td>○</td><td>○</td></tr><tr><td><strong>생활 습관 인자</strong></td><td></td><td></td><td></td></tr><tr><td>• 식사 습관 &#x26; 체중 변화력</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 탄수화물 계산 숙련도 평가</td><td>○</td><td></td><td>○</td></tr><tr><td>• 신체 활동, 수면 습관; OSA 평가</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 흡연, 음주, 약물 남용</td><td>○</td><td></td><td>○</td></tr><tr><td><strong>약물 및 예방접종 병력</strong></td><td></td><td></td><td></td></tr><tr><td>• 현재 투여 약물</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 약물 투여 행동(순응도)</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 약물 불내성 or 부작용</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 민간/대체 요법</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 예방접종 경력 및 필요성</td><td>○</td><td></td><td>○</td></tr><tr><td><strong>Technology use</strong></td><td></td><td></td><td></td></tr><tr><td>• 건강 앱, 온라인 교육, 환자 포털 이용</td><td>○</td><td></td><td>○</td></tr><tr><td>• 당 모니터링: 결과 및 데이터 활용</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 인슐린 펌프 셋팅 및 사용 검토</td><td>○</td><td>○</td><td>○</td></tr><tr><td><strong>사회 생활 평가: Social network</strong></td><td></td><td></td><td></td></tr><tr><td>• 사회적 지지 존재 확인</td><td>○</td><td></td><td>○</td></tr><tr><td>• 의사결정 대리인, 추가 관리계획 확인</td><td>○</td><td></td><td>○</td></tr><tr><td>• 건강의 사회적 요인 확인</td><td>○</td><td></td><td>○</td></tr><tr><td>• 일상 및 환경 평가</td><td>○</td><td>○</td><td>○</td></tr><tr><td><strong>신체검사</strong></td><td></td><td></td><td></td></tr><tr><td>• 신장, 체중, BMI; 혈압</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 기립 혈압(필요시)</td><td>○</td><td></td><td></td></tr><tr><td>• 안저검사(안과 전문의 의뢰)</td><td>○</td><td></td><td>○</td></tr><tr><td>• 갑상선 촉진</td><td>○</td><td></td><td>○</td></tr><tr><td>• 피부 검사(예: 인슐린 주사 부위)</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 포괄적 발 검사</td><td>○</td><td></td><td>○</td></tr><tr><td>　시진(예: 상처, 굳은살, 변형, 궤양, 발톱)</td><td>○</td><td>○</td><td>○</td></tr><tr><td>　말초동맥질환 선별(pedal pulses)²⁾</td><td>○</td><td></td><td>○</td></tr><tr><td>　감각 검사³⁾</td><td>○</td><td></td><td>○</td></tr><tr><td>• 우울, 불안, 저혈당공포, 식사장애 선별</td><td>○</td><td></td><td>○</td></tr><tr><td>• 인지 장애 평가 고려(≥65세)</td><td>○</td><td></td><td>○</td></tr><tr><td>• 기능 수행 평가 고려(≥65세)</td><td>○</td><td></td><td>○</td></tr><tr><td>• 골 통증 평가 고려</td><td>○</td><td></td><td>○</td></tr><tr><td><strong>검사실 검사</strong></td><td></td><td></td><td></td></tr><tr><td>• A1C (3개월 내 검사하지 않은 경우)</td><td>○</td><td>○</td><td>○</td></tr><tr><td>• 총/LDL/HDL-C, TG; LFT; Cr, eGFR⁴⁾</td><td>○</td><td></td><td>○</td></tr><tr><td>• T1DM에서 TSH; metformin 투여 시 Vit B12; CBC; ACEI/ARB/이뇨제 투여 시 혈청 K; 필요시 Ca, Vit D, P⁵⁾</td><td>○</td><td></td><td>○⁶⁾</td></tr><tr><td>• 소변 Alb/Cr ratio</td><td>○</td><td></td><td>○</td></tr></tbody></table>
 
 ¹⁾ 예: 신체, 인지, 시각, 청각, 골격, 국부 보호 기기.\
 ²⁾ 감소 시 의뢰.\
@@ -322,11 +344,11 @@ _²⁾ 일반적으로 당뇨병 환자에서 peak level인 식후 1\~2시간에
 * 낮은 당지수(glycemic index) 및 당부하지수(glycemic load) 식품 권고
 * 정해진 용량의 인슐린 주사를 맞는 환자에서는 음식 섭취량과 시간을 일정하게 하도록 교육
 
-<table><thead><tr><th width="130">음식</th><th width="80">당지수</th><th width="90">칼로리/g</th><th width="130">음식</th><th width="80">당지수</th><th width="90">칼로리/g</th><th width="130">음식</th><th width="80">당지수</th><th>칼로리/g</th></tr></thead><tbody><tr><td>콘푸레이크</td><td>92</td><td>3.75</td><td>마카로니&amp;치즈</td><td>64</td><td>3</td><td>포도</td><td>46</td><td>0.4</td></tr><tr><td>흰쌀밥</td><td>91</td><td>1.5</td><td>아이스크림</td><td>61</td><td>1.5~2.5</td><td>강낭콩</td><td>46</td><td>3</td></tr><tr><td>통감자구이</td><td>85</td><td>3</td><td>피자</td><td>60</td><td>3</td><td>스파게티</td><td>41</td><td>2~3</td></tr><tr><td>도넛(케이크형)</td><td>76</td><td>6</td><td>땅콩샌드위치</td><td>59</td><td>3~3.5</td><td>사과</td><td>36</td><td>0.5</td></tr><tr><td>베이글</td><td>72</td><td>3</td><td>고구마</td><td>55</td><td>1.25</td><td>요구르트</td><td>36</td><td>0.7~1</td></tr><tr><td>당근</td><td>71</td><td>0.35</td><td>바나나</td><td>51</td><td>1</td><td>환우유</td><td>27</td><td>0.7</td></tr><tr><td>호밀빵</td><td>65</td><td>2.5</td><td>현미밥</td><td>50</td><td>1.5</td><td>땅콩</td><td>14</td><td>4~5</td></tr></tbody></table>
+<table><thead><tr><th width="130">음식</th><th width="80">당지수</th><th width="90">칼로리/g</th><th width="130">음식</th><th width="80">당지수</th><th width="90">칼로리/g</th><th width="130">음식</th><th width="80">당지수</th><th>칼로리/g</th></tr></thead><tbody><tr><td>콘푸레이크</td><td>92</td><td>3.75</td><td>마카로니&#x26;치즈</td><td>64</td><td>3</td><td>포도</td><td>46</td><td>0.4</td></tr><tr><td>흰쌀밥</td><td>91</td><td>1.5</td><td>아이스크림</td><td>61</td><td>1.5~2.5</td><td>강낭콩</td><td>46</td><td>3</td></tr><tr><td>통감자구이</td><td>85</td><td>3</td><td>피자</td><td>60</td><td>3</td><td>스파게티</td><td>41</td><td>2~3</td></tr><tr><td>도넛(케이크형)</td><td>76</td><td>6</td><td>땅콩샌드위치</td><td>59</td><td>3~3.5</td><td>사과</td><td>36</td><td>0.5</td></tr><tr><td>베이글</td><td>72</td><td>3</td><td>고구마</td><td>55</td><td>1.25</td><td>요구르트</td><td>36</td><td>0.7~1</td></tr><tr><td>당근</td><td>71</td><td>0.35</td><td>바나나</td><td>51</td><td>1</td><td>환우유</td><td>27</td><td>0.7</td></tr><tr><td>호밀빵</td><td>65</td><td>2.5</td><td>현미밥</td><td>50</td><td>1.5</td><td>땅콩</td><td>14</td><td>4~5</td></tr></tbody></table>
 
 _Ref. Ludwig DS. The glycemic index. JAMA 2002;287:2415._
 
-#### <mark style="color:$primary;">[식이 섬유](../231_/217_-nutritiondiet-guideline.md#undefined-14)</mark>
+#### [<mark style="color:$primary;">식이 섬유</mark>](../231_/217_-nutritiondiet-guideline.md#undefined-14)
 
 * **효과** : 당뇨병 발생 감소, 혈당 조절 개선, 심혈관 질환 감소
   * 대사에 있어서 수용성 식이 섬유의 효과에 대한 근거가 많으나 권장 섭취량은 일반적으로 수용성과 불용성을 구분하지 않음
@@ -348,7 +370,7 @@ _Ref. Ludwig DS. The glycemic index. JAMA 2002;287:2415._
 
 #### <mark style="color:$primary;">기타 식이</mark>
 
-* **[음주](../230_/189_-alcohol-use-disorder-aud.md)** : 금주 권고(특히 간질환, 고지혈증, 비만인 당뇨병 환자); 혈당 조절이 잘되는 경우에만 여 ≤1 SD/d, 남 ≤2 SD/d로 허용, 음주 후 당 모니터링 권고
+* [**음주**](../230_/189_-alcohol-use-disorder-aud.md) : 금주 권고(특히 간질환, 고지혈증, 비만인 당뇨병 환자); 혈당 조절이 잘되는 경우에만 여 ≤1 SD/d, 남 ≤2 SD/d로 허용, 음주 후 당 모니터링 권고
   * 음주는 저혈당 위험을 증가시킴(특히 인슐린 or 인슐린 분비 촉진제 투여 환자)
 * **항산화제, ω-3, Vit, 무기질 보충**: 혈당 개선 목적의 일상적 보충은 권고 안 함 \[무작위대조군연구, 일반적권고]; **불포화지방산 보충제의 일반적 투여는 권고하지 않는다는 기존 권고안은 KDA 2025에서 삭제됨**
   * 부족한 상태가 아닌 한 보충이 도움이 된다는 증거 없음; 결핍이나 제한적 식사 시 보충 고려
@@ -356,7 +378,7 @@ _Ref. Ludwig DS. The glycemic index. JAMA 2002;287:2415._
   * Vit D ≥1000 IU/d 보충이 T2DM의 위험을 줄인다는 보고가 있음
 * **Na** : ＜2.3 g/d(소금으로 6 g)으로 제한 (☞ [저염 식이](../225_/095_-hypertension.md#undefined-28))
 
-### <mark style="color:orange;">[운동](../231_/216_-physical-activity-guideline.md)</mark>
+### [<mark style="color:orange;">운동</mark>](../231_/216_-physical-activity-guideline.md)
 
 * **효과** : T2DM 발병 위험 감소, 인슐린 감수성 개선; 적은 운동이라도 도움이 됨
 * **유산소 운동** : 중등도 이상 강도로 ≥150분/주(가급적 매일 ≥30분), ≥3일/주; 연이어 ＞2일 쉬지 않음
@@ -370,7 +392,7 @@ _Ref. Ludwig DS. The glycemic index. JAMA 2002;287:2415._
 
 #### <mark style="color:$primary;">운동 전 혈당 수준에 따른 대처</mark>
 
-<table><thead><tr><th width="160">혈당 수준</th><th>대처 방법</th></tr></thead><tbody><tr><td>&lt;90 ㎎/㎗</td><td>운동 전 빠르게 흡수될 수 있는 15~30 g 탄수화물 섭취(예: 사탕 4~6개, 주스 120~200 ㎖); 중강도 장시간 운동 시 1시간마다 0.5~1 g/체중 ㎏ 추가 섭취 ※ &lt;30분의 운동, 웨이트 트레이닝 등의 고강도 운동에서는 불필요할 수 있음</td></tr><tr><td>90~150 ㎎/㎗</td><td>운동 시작 및 1시간마다 0.5~1 g/체중 ㎏의 탄수화물 섭취(운동 형태나 인슐린 작용 정도에 따름)</td></tr><tr><td>150~250 ㎎/㎗</td><td>운동 시작 후 &lt;150 ㎎/㎗이 될 때까지 탄수화물 섭취 보류</td></tr><tr><td>250~350 ㎎/㎗</td><td>케톤 검사 및 중간~많은 양의 케톤 시 운동 중지; 저~중강도 운동 가능, 고강도 운동은 &lt;250 ㎎/㎗이 될 때까지 연기</td></tr><tr><td>≥350 ㎎/㎗</td><td>케톤 검사 및 중간~많은 양의 케톤 시 운동 중지; 케톤 없다면 운동 전 인슐린 용량 조정(일반적으로 약 50% 감량); 저~중강도 운동 시작, 혈당이 내려갈 때까지 고강도 운동 자제</td></tr></tbody></table>
+<table><thead><tr><th width="160">혈당 수준</th><th>대처 방법</th></tr></thead><tbody><tr><td>&#x3C;90 ㎎/㎗</td><td>운동 전 빠르게 흡수될 수 있는 15~30 g 탄수화물 섭취(예: 사탕 4~6개, 주스 120~200 ㎖); 중강도 장시간 운동 시 1시간마다 0.5~1 g/체중 ㎏ 추가 섭취 ※ &#x3C;30분의 운동, 웨이트 트레이닝 등의 고강도 운동에서는 불필요할 수 있음</td></tr><tr><td>90~150 ㎎/㎗</td><td>운동 시작 및 1시간마다 0.5~1 g/체중 ㎏의 탄수화물 섭취(운동 형태나 인슐린 작용 정도에 따름)</td></tr><tr><td>150~250 ㎎/㎗</td><td>운동 시작 후 &#x3C;150 ㎎/㎗이 될 때까지 탄수화물 섭취 보류</td></tr><tr><td>250~350 ㎎/㎗</td><td>케톤 검사 및 중간~많은 양의 케톤 시 운동 중지; 저~중강도 운동 가능, 고강도 운동은 &#x3C;250 ㎎/㎗이 될 때까지 연기</td></tr><tr><td>≥350 ㎎/㎗</td><td>케톤 검사 및 중간~많은 양의 케톤 시 운동 중지; 케톤 없다면 운동 전 인슐린 용량 조정(일반적으로 약 50% 감량); 저~중강도 운동 시작, 혈당이 내려갈 때까지 고강도 운동 자제</td></tr></tbody></table>
 
 ### <mark style="color:orange;">체중 관리</mark>
 
@@ -460,7 +482,7 @@ _Ref. KDA 당뇨병 진료지침 제9판. 2025; ADA Standards of Medical Care in
 
 **CGM 치료 목표 (Time-in-Range, TIR)**
 
-<table><thead><tr><th width="240">지표</th><th width="200">목표</th><th>의미</th></tr></thead><tbody><tr><td>TIR (70~180 ㎎/㎗)</td><td><strong>&gt;70%</strong> (하루 약 17시간)</td><td>목표 혈당 범위 내 시간</td></tr><tr><td>TAR (>180 ㎎/㎗)</td><td>&lt;25%</td><td>고혈당 시간</td></tr><tr><td>TAR (>250 ㎎/㎗)</td><td>&lt;5%</td><td>심한 고혈당 시간</td></tr><tr><td>TBR (&lt;70 ㎎/㎗)</td><td><strong>&lt;4%</strong></td><td>저혈당 시간</td></tr><tr><td>TBR (&lt;54 ㎎/㎗)</td><td><strong>&lt;1%</strong></td><td>중증 저혈당 시간</td></tr></tbody></table>
+<table><thead><tr><th width="240">지표</th><th width="200">목표</th><th>의미</th></tr></thead><tbody><tr><td>TIR (70~180 ㎎/㎗)</td><td><strong>>70%</strong> (하루 약 17시간)</td><td>목표 혈당 범위 내 시간</td></tr><tr><td>TAR (>180 ㎎/㎗)</td><td>&#x3C;25%</td><td>고혈당 시간</td></tr><tr><td>TAR (>250 ㎎/㎗)</td><td>&#x3C;5%</td><td>심한 고혈당 시간</td></tr><tr><td>TBR (&#x3C;70 ㎎/㎗)</td><td><strong>&#x3C;4%</strong></td><td>저혈당 시간</td></tr><tr><td>TBR (&#x3C;54 ㎎/㎗)</td><td><strong>&#x3C;1%</strong></td><td>중증 저혈당 시간</td></tr></tbody></table>
 
 _Ref. ADA Standards of Medical Care. 2024 / Diabetes Care 2019;42:1593_
 
@@ -743,7 +765,7 @@ graph TD
 
 ### <mark style="color:orange;">고령 당뇨병 환자의 당, 혈압, 지질 목표</mark>
 
-<table><thead><tr><th width="220">건강 상태</th><th width="100">A1C 목표</th><th width="120">공복 혈당</th><th width="120">취침 혈당</th><th width="130">혈압</th><th>지질</th></tr></thead><tbody><tr><td><strong>Healthy</strong><br>(동반 만성 질환 거의 없음, 인지 및 신체 기능 양호)</td><td>&lt;7.0~7.5%</td><td>80~130 ㎎/㎗</td><td>80~180 ㎎/㎗</td><td>&lt;130/80 ㎜Hg</td><td>금기 등이 아니면 Statin 투여</td></tr><tr><td><strong>Complex / Intermediate</strong><br>(≥3개의 만성 질환 동반 or 2+ IADL 장애 or 경도 이상의 인지 장애)</td><td>&lt;8.0%</td><td>90~150 ㎎/㎗</td><td>100~180 ㎎/㎗</td><td>&lt;130/80 ㎜Hg</td><td>금기 등이 아니면 Statin 투여</td></tr><tr><td><strong>Very complex / Poor health</strong><br>(LTC or 말기 질환 or 중등도 이상의 인지 장애 or 2+ ADL 장애)</td><td>A1C 무관; 고혈당 및 저혈당이 발생하지 않는 수준으로 혈당 조절</td><td>100~180 ㎎/㎗</td><td>110~200 ㎎/㎗</td><td>&lt;140/90 ㎜Hg</td><td>이익을 고려하여 statin 결정</td></tr></tbody></table>
+<table><thead><tr><th width="220">건강 상태</th><th width="100">A1C 목표</th><th width="120">공복 혈당</th><th width="120">취침 혈당</th><th width="130">혈압</th><th>지질</th></tr></thead><tbody><tr><td><strong>Healthy</strong><br>(동반 만성 질환 거의 없음, 인지 및 신체 기능 양호)</td><td>&#x3C;7.0~7.5%</td><td>80~130 ㎎/㎗</td><td>80~180 ㎎/㎗</td><td>&#x3C;130/80 ㎜Hg</td><td>금기 등이 아니면 Statin 투여</td></tr><tr><td><strong>Complex / Intermediate</strong><br>(≥3개의 만성 질환 동반 or 2+ IADL 장애 or 경도 이상의 인지 장애)</td><td>&#x3C;8.0%</td><td>90~150 ㎎/㎗</td><td>100~180 ㎎/㎗</td><td>&#x3C;130/80 ㎜Hg</td><td>금기 등이 아니면 Statin 투여</td></tr><tr><td><strong>Very complex / Poor health</strong><br>(LTC or 말기 질환 or 중등도 이상의 인지 장애 or 2+ ADL 장애)</td><td>A1C 무관; 고혈당 및 저혈당이 발생하지 않는 수준으로 혈당 조절</td><td>100~180 ㎎/㎗</td><td>110~200 ㎎/㎗</td><td>&#x3C;140/90 ㎜Hg</td><td>이익을 고려하여 statin 결정</td></tr></tbody></table>
 
 {% hint style="info" %}
 **고령 당뇨 환자 분류 참고**
@@ -794,11 +816,11 @@ _Ref. ADA Guideline 2025. Table 13.1; KDA 당뇨병 진료지침 제9판. 2025. 
 
 #### <mark style="color:$primary;">영양</mark>
 
-* 영양 상태 평가
+*   영양 상태 평가
 
-  • [Mini nutritional assessment](https://www.mna-elderly.com/forms/MNA_korean.pdf)
+    • [Mini nutritional assessment](https://www.mna-elderly.com/forms/MNA_korean.pdf)
 
-  • Short nutritional assessment questionnaire (SNAQ) : 입원 환자 대상
+    • Short nutritional assessment questionnaire (SNAQ) : 입원 환자 대상
 
 <table><thead><tr><th width="494">SNAQ 문항</th><th width="160">점수</th></tr></thead><tbody><tr><td>① 의도하지 않은 체중 감소가 있는가?</td><td></td></tr><tr><td>지난 6개월간 >6 ㎏</td><td>3점</td></tr><tr><td>지난 1개월간 >3 ㎏</td><td>2점</td></tr><tr><td>② 지난 1개월간 식욕 저하를 경험했는가?</td><td>1점</td></tr><tr><td>③ 지난 1개월간 supplemental drink 또는 tube feeding을 했는가?</td><td>1점</td></tr></tbody></table>
 
@@ -829,7 +851,7 @@ _Ref. ADA Guideline 2025. Table 13.1; KDA 당뇨병 진료지침 제9판. 2025. 
   * 당뇨병 증상이 없고 A1C <8.5%인 경우 metformin 단독 요법으로 치료; 목표 미달 시 기저 인슐린 병용
 * 12세 이상 2형 당뇨병 소아청소년에서 2단계 이상 비만 동반 시 liraglutide 사용 가능 \[무작위대조군연구, 제한적권고]
 
-<table><thead><tr><th width="100">종류</th><th width="160">고령 영향</th><th width="260">Stages 3~5 CKD 동반 환자</th><th>CVD 동반 환자</th></tr></thead><tbody><tr><td>Insulin</td><td>저혈당</td><td>clearance↓, 저혈당 위험↑, gastroparesis; 용량 조절, 식후 속효성 인슐린 투여 고려</td><td>TZD 병용 시 체액 저류</td></tr><tr><td>Metformin</td><td>GI 불내성, Vit B12 결핍; 저혈당 없음</td><td>eGFR &lt;45 시 시작하지 않으며, 사용 중인 경우 1 g/d로 감량; eGFR &lt;30 시 중단; 급성 신 손상 위험 시 중단(조영제, 저혈압, sepsis, shock, hypoxia)</td><td>• 관상동맥질환 환자에서 유익<br>• 중증 CHF에서 회피 (lactic acidosis)</td></tr><tr><td>SU</td><td>저혈당, 체중 증가; glyburide 회피</td><td>• Glyburide: eGFR &lt;60 시 회피<br>• Glimepiride: eGFR &lt;30 시 회피<br>• Glipizide: eGFR &lt;30 시 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>TZD</td><td>골절 증가, 체액 저류, 체중 증가; 저혈당 없음</td><td>체액 저류, 골절 증가; 용량 조절 필요 없음</td><td>• 체액 저류(심부전 악화 위험)<br>• Pioglitazone: CVD mortality↓</td></tr><tr><td>DPP-4i</td><td>저혈당 없음</td><td>• Sitagliptin: eGFR >50 - 100 ㎎/d; eGFR 30~50 - 50 ㎎/d; eGFR &lt;30 - 25 ㎎/d<br>• Saxagliptin: eGFR >50 - 2.5~5 ㎎/d; eGFR ≤50 - 2.5 ㎎/d<br>• Alogliptin: eGFR >60 - 25 ㎎/d; eGFR 30~60 - 12.5 ㎎/d; eGFR &lt;30 - 6.25 ㎎/d<br>• Linagliptin: 용량 조절 필요 없음</td><td>• Saxagliptin: 심부전 위험↑</td></tr><tr><td>SGLT2i</td><td>탈수; 저혈당 없음; Empagliflozin: 심혈관 사고 및 CKD 진행↓; Canagliflozin: 골절 위험↑</td><td>• Canagliflozin: eGFR 45~60 - 100 ㎎/d; eGFR &lt;45 - 회피<br>• Dapagliflozin: eGFR &lt;45 - CKD/HF 적응증 시 유지 가능, 혈당 강하 목적은 eGFR &lt;45 회피<br>• Empagliflozin: eGFR &lt;45 - 회피<br>• Canagliflozin, Dapagliflozin: 급성 신 손상 관련<br>• Empagliflozin, Canagliflozin: CKD 진행↓</td><td>• Empagliflozin, Canagliflozin: 심혈관 사고 및 CHF↓</td></tr><tr><td>AGi</td><td>GI 부작용; 저혈당 없음</td><td>s-Cr >2 ㎎/㎗ 시 회피(연구 부족)</td><td>(AGi = α-Glucosidase inhibitors)</td></tr><tr><td>Glinide</td><td>저혈당; 끼니를 거르는 사람에게 유용</td><td>• Nateglinide: eGFR &lt;60 - 중단<br>• Repaglinide: eGFR &lt;30 - 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>GLP-1 RA</td><td>GI 부작용; 저혈당 없음</td><td>• Exenatide: eGFR &lt;30 - 회피<br>• Liraglutide, Dulaglutide, Semaglutide: 용량 조절 불필요<br>• Lixisenatide: eGFR &lt;15 - 회피</td><td>• Liraglutide, Semaglutide: CVD 사고↓</td></tr></tbody></table>
+<table><thead><tr><th width="100">종류</th><th width="160">고령 영향</th><th width="260">Stages 3~5 CKD 동반 환자</th><th>CVD 동반 환자</th></tr></thead><tbody><tr><td>Insulin</td><td>저혈당</td><td>clearance↓, 저혈당 위험↑, gastroparesis; 용량 조절, 식후 속효성 인슐린 투여 고려</td><td>TZD 병용 시 체액 저류</td></tr><tr><td>Metformin</td><td>GI 불내성, Vit B12 결핍; 저혈당 없음</td><td>eGFR &#x3C;45 시 시작하지 않으며, 사용 중인 경우 1 g/d로 감량; eGFR &#x3C;30 시 중단; 급성 신 손상 위험 시 중단(조영제, 저혈압, sepsis, shock, hypoxia)</td><td>• 관상동맥질환 환자에서 유익<br>• 중증 CHF에서 회피 (lactic acidosis)</td></tr><tr><td>SU</td><td>저혈당, 체중 증가; glyburide 회피</td><td>• Glyburide: eGFR &#x3C;60 시 회피<br>• Glimepiride: eGFR &#x3C;30 시 회피<br>• Glipizide: eGFR &#x3C;30 시 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>TZD</td><td>골절 증가, 체액 저류, 체중 증가; 저혈당 없음</td><td>체액 저류, 골절 증가; 용량 조절 필요 없음</td><td>• 체액 저류(심부전 악화 위험)<br>• Pioglitazone: CVD mortality↓</td></tr><tr><td>DPP-4i</td><td>저혈당 없음</td><td>• Sitagliptin: eGFR >50 - 100 ㎎/d; eGFR 30~50 - 50 ㎎/d; eGFR &#x3C;30 - 25 ㎎/d<br>• Saxagliptin: eGFR >50 - 2.5~5 ㎎/d; eGFR ≤50 - 2.5 ㎎/d<br>• Alogliptin: eGFR >60 - 25 ㎎/d; eGFR 30~60 - 12.5 ㎎/d; eGFR &#x3C;30 - 6.25 ㎎/d<br>• Linagliptin: 용량 조절 필요 없음</td><td>• Saxagliptin: 심부전 위험↑</td></tr><tr><td>SGLT2i</td><td>탈수; 저혈당 없음; Empagliflozin: 심혈관 사고 및 CKD 진행↓; Canagliflozin: 골절 위험↑</td><td>• Canagliflozin: eGFR 45~60 - 100 ㎎/d; eGFR &#x3C;45 - 회피<br>• Dapagliflozin: eGFR &#x3C;45 - CKD/HF 적응증 시 유지 가능, 혈당 강하 목적은 eGFR &#x3C;45 회피<br>• Empagliflozin: eGFR &#x3C;45 - 회피<br>• Canagliflozin, Dapagliflozin: 급성 신 손상 관련<br>• Empagliflozin, Canagliflozin: CKD 진행↓</td><td>• Empagliflozin, Canagliflozin: 심혈관 사고 및 CHF↓</td></tr><tr><td>AGi</td><td>GI 부작용; 저혈당 없음</td><td>s-Cr >2 ㎎/㎗ 시 회피(연구 부족)</td><td>(AGi = α-Glucosidase inhibitors)</td></tr><tr><td>Glinide</td><td>저혈당; 끼니를 거르는 사람에게 유용</td><td>• Nateglinide: eGFR &#x3C;60 - 중단<br>• Repaglinide: eGFR &#x3C;30 - 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>GLP-1 RA</td><td>GI 부작용; 저혈당 없음</td><td>• Exenatide: eGFR &#x3C;30 - 회피<br>• Liraglutide, Dulaglutide, Semaglutide: 용량 조절 불필요<br>• Lixisenatide: eGFR &#x3C;15 - 회피</td><td>• Liraglutide, Semaglutide: CVD 사고↓</td></tr></tbody></table>
 
 ### <mark style="color:orange;">CKD 또는 CVD가 있는 고령 당뇨병 환자에서의 약물 특성</mark>
 
