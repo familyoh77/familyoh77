@@ -8,30 +8,24 @@
 * 당뇨병전단계인 ≥65세의 9%가 6.5년 후, ≥60세의 13%가 12년 후 당뇨병으로 발전했다는 보고가 있음
 * T1DM 환자의 기대 여명은 일반 인구 대비 약 8\~10년 짧으며, 심혈관 질환이 주요 사인임&#x20;
 
-
-
 ### <mark style="color:orange;">분류</mark>
 
 1. 제1형 당뇨병 (T1DM) : 인슐린 결핍을 초래하는 자가 면역 β-cell 파괴
 2. 제2형 당뇨병 (T2DM) : β-cell 인슐린 분비 기능의 점진적 상실; 종종 인슐린 저항성 및 대사증후군이 있음
 3. 임신당뇨병 (GDM) : 이전에 명백한 당뇨병이 없던 임신부에서 임신 2, 3분기 중 진단된 당뇨병
-4. 기타 당뇨병 : monogenic diabetes syndrome(예: 신생아당뇨병, MODY - 아래 참고), 췌장외분비기능장애(예: pancreatitis, cystic fibrosis), 약물 or 화학 물질 관련 당뇨병(예: steroid, HIV/AIDS 치료, 장기 이식), 간질환(만성 간염, 간경화), 감염(풍진, CMV)
+4. 기타 당뇨병 : monogenic diabetes syndrome(예: 신생아당뇨병, Maturity onset diabetes of youth (MODY)), 췌장외분비기능장애(예: pancreatitis, cystic fibrosis), 약물 or 화학 물질 관련 당뇨병(예: steroid, HIV/AIDS 치료, 장기 이식), 간질환(만성 간염, 간경화), 감염(풍진, CMV)
 
-**Maturity onset diabetes of youth (MODY)**
-
-* 다양한 genetic expression이 있고, 여러 subtype이 있음
-
-**Latent autoimmune diabetes of adult onset (LADA)**&#x20;
+<mark style="color:cyan;">**Latent autoimmune diabetes of adult onset (LADA)**</mark>&#x20;
 
 * 경계형/비전형 당뇨병
-* 자가면역 기전상 T1DM에 가까우나 진행이 느려 초기에 종종 T2DM으로 잘못 분류되며, 때로 T1.5DM으로 불림; T1DM의 경한 형태인지, T2DM인지, 독립된 형태인지는 아직 불명확함
-  * 당뇨병 분류 중 어느 하나에도 명확히 속하지 않는 경계성 질환으로, 별도 항목으로 서술함
+* 자가면역 기전상 T1DM에 가까우나 진행이 느려 초기에 종종 T2DM으로 잘못 분류되며, 때로 T1.5DM으로 불림
+* T1DM의 경한 형태인지, T2DM인지, 독립된 형태인지는 불명확; 당뇨병 분류 중 어느 하나에도 명확히 속하지 않는 경계성 질환
 
-**Nondiabetic glycosuria (Renal glycosuria)** :&#x20;
+<mark style="color:cyan;">**Nondiabetic glycosuria (Renal glycosuria)**</mark> <mark style="color:cyan;"></mark><mark style="color:cyan;">:</mark>&#x20;
 
 * 소변으로 당분이 배출되지만 혈당은 정상인 양성 무증상 뇨당증
 * 원인 : SGLT2 gene 변이, 근위 세뇨관 이상(예: 판코니증후군, CKD), 임신(특히 3\~4개월째)
-* 당뇨병의 하위 유형이 아니라 요당 양성 소견의 감별 진단 대상ㅇ
+* 당뇨병의 하위 유형이 아니라 요당 양성 소견의 감별 진단 대상임
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
