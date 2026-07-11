@@ -64,7 +64,7 @@
 
 * 구역/구토, 복통, 깊고빠른 호흡(Kussmaul), 과일향 호흡, 의식 변화; 혈당 ≥250 ㎎/㎗ + 케톤뇨 → 당뇨병케톤산증(DKA)
   * 발열을 동반한 혈당 ≥350 ㎎/㎗ + 요중 케톤 강양성도 DKA 가능성이 높은 소견
-* 혈당 ≥600 ㎎/㎗, 심한 탈수, 의식 혼탁 → 고삼투압고혈당(HHS)&#x20;
+* 혈당 ≥600 ㎎/㎗, 심한 탈수, 의식 혼탁 → 고삼투압고혈당(HHS)
 * 의식 저하, 경련, 자가 처치 불가 → 중증 저혈당 (glucagon 즉시 투여 후 이송)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
@@ -153,6 +153,31 @@ _²⁾ 75 g OGTT 2시간 후 혈당_\
 * 고혈당 증상이 있는 T1DM의 급성 발병은 A1C보다 혈당으로 판단
 * 혈당과 A1C 수준 불일치 원인 : A1C 검사 간섭, 불규칙한 약물 복용/생활 요법
 
+### <mark style="color:orange;">검사 유의 사항</mark>
+
+#### <mark style="color:$primary;">혈당</mark>
+
+* 공복 : 8\~12시간 칼로리 섭취를 하지 않음 (✽ 짧은 공복(＜8시간)은 혈당이 낮아지지 않은 상태에서 측정될 수 있고, 지나친 공복(＞12시간)는 혈당이 단순히 계속 낮아지기만 하는 게 아니라 길항호르몬 반응으로 오히려 반등성 고혈당을 만들 수 있음)
+* 식후 2시간은 식사 개시부터 2시간째를 의미(경구 당 부하 검사도 마시기 시작부터)
+* 혈당 측정은 정맥 혈장 혈당을 이용하는 것을 원칙으로 함
+* 검체에 따른 차이 : 혈장 ＞ 전혈 (✽혈구 성분 영향으로 10\~15% 차이가 남)
+  * 동맥혈 ＞ 모세혈관혈 ＞ 정맥혈 (✽동정맥 차이 : 공복 시 ＞10 ㎎/㎗, 식후 20\~50 ㎎/㎗)
+  * 일반적으로 손끝 전혈을 측정하는 혈당계는 혈장 혈당 값으로 보정되어 표시됨
+* 신속 혈당 검사 영향 요인(실제 혈당보다 높게 측정) : 요산, acetaminophen, L-dopa, xylose, galactose, 비타민C(＞500 ㎎/d), alcohol
+* 당 부하 검사 : 검사 전 3일간 탄수화물 150\~200 g/d 섭취 → 전날 밤부터 금식 → 다음날 오전에 정해진 포도당(+물 300 ㎖)을 5분 내에 섭취하고 검사
+  * 당 부하 검사 위양성 유발 인자 : 영양실조, 병상 생활, 감염, 심한 정서적 스트레스
+
+#### <mark style="color:$primary;">당화혈색소(A1C)</mark>
+
+* A1C는 최근 2\~3개월의 혈당 상태를 반영; 특히 최근 1개월의 혈당 수준에 50%의 영향을 받음
+* **A1C false increase** : 철결핍/Vit B12/folate 결핍 빈혈, 신부전, uremia, 매우 고중성지방혈증(TG ＞1,750 ㎎/㎗), Bil ＞20 ㎎/㎗, 만성 음주, aspirin 과량 복용, 만성 opioid 복용, 납 중독, 고령
+* **A1C false decrease** : 급만성 실혈, 용혈성 빈혈, ribavirin/interferon-α(용혈성 빈혈 관련), splenomegaly, Vit E 섭취, 임신 2&3분기/산욕기, 채혈 또는 검사 지연에 의한 RBC 파괴
+* **A1C false variation** : 수혈, Hb variants, Vit C 복용
+
+<table data-search="false"><thead><tr><th width="111">A1C (%)</th><th width="191">평균 혈장 혈당 (㎎/㎗)</th></tr></thead><tbody><tr><td>5</td><td>97</td></tr><tr><td>6</td><td>126</td></tr><tr><td>7</td><td>154</td></tr><tr><td>8</td><td>183</td></tr><tr><td>9</td><td>212</td></tr><tr><td>10</td><td>240</td></tr><tr><td>11</td><td>269</td></tr><tr><td>12</td><td>298</td></tr></tbody></table>
+
+_Ref. ADA. Standards of Medical Care in Diabetes. 2024. Table 6-1._
+
 ### <mark style="color:orange;">T1DM vs T2DM 감별</mark>
 
 * 감별 검사 : islet auto-Ab(인슐린, glutamic acid decarboxylase(GAD), islet antigen 2(IA-2), zinc transporter 8(ZnT8)), 인슐린, c-peptide
@@ -207,25 +232,20 @@ style T2DM_Diag fill:#fef4f8,stroke:#f06baf
 
 <p align="center"><strong>T1DM 의심 환자의 진단 알고리듬</strong></p>
 
-_¹⁾ T1DM 의심 기준(다음 중 하나 이상) : <35세, BMI<25 또는 의도치 않은 체중감소, DKA 또는_\
-_혈당>360 ㎎/㎗, 급속한 인슐린 치료 전환, 당뇨병 유형에 대한 불확실성_\
-_²⁾ GAD 항체를 우선 검사; 음성 시 IA-2, ZnT8 추가 검사(가능한 경우)_\
-&#x20; _✽IAA(인슐린 자가항체)는 외인성 인슐린 치료 시작 전 검사에서만 해석 가능 - 치료 시작 후에는 자가면역 반응과 인슐린 노출에 의한 반응성 항체를 구별할 수 없음_\
+_¹⁾ T1DM 의심 기준(다음 중 하나 이상) : <35세, BMI<25 또는 의도치 않은 체중감소, DKA 또는 혈당>360 ㎎/㎗, 급속한 인슐린 치료 전환, 당뇨병 유형에 대한 불확실성_\
+_²⁾ GAD 항체를 우선 검사; 음성 시 IA-2, ZnT8 추가 검사(가능한 경우)_\
+  _✽IAA(인슐린 자가항체)는 외인성 인슐린 치료 시작 전 검사에서만 해석 가능 - 치료 시작 후에는 자가면역 반응과 인슐린 노출에 의한 반응성 항체를 구별할 수 없음_\
 _³⁾ 성인 발병 T1DM의 5\~10%는 자가항체 음성일 수 있음_\
-_⁴⁾ Monogenic diabetes 특징: 강한 가족력(다세대에 걸친 상염색체 우성 양상), 경미하고 안정적인_\
-_고혈당, 젊은 발병 연령, 상대적으로 적은 인슐린 요구량 등_\
-&#x20; _✽35세 기준은 절대적 진단 기준이 아니라 알고리듬상의 경험적 분기점임. 비유럽인종에서는 연령·임상양상만으로 T1DM/T2DM 감별이 어려울 수 있으므로 \[ADA], 한국인에게 적용 시 이 분기점을 기계적으로 적용하지 않도록 주의_\
-_⁵⁾ C-peptide 검사는 monogenic 특징이 있는 경우 초기 진단 워크업의 일부로 바로 시행._\
-&#x20; _✽검사 조건: 식후 5시간 이내, 혈당 ≥72 ㎎/㎗(4 mmol/L)일 때만 해석, DKA 회복 후 2주 이내 및_\
-_저혈당 후 12시간 이내는 검사 회피, 진행된 만성신질환(CKD)에서는 C-peptide 제거 감소로_\
-_수치가 실제보다 높게 측정될 수 있음_\
-&#x20; _✽한국인 기준값(국내연구) : 공복 C-peptide <0.6 ng/_㎖_(200 pmol/L) 시 T1DM, ≥1.0 ng/_㎖_(약 330 pmol/L) 시 T2DM으로 보고됨. 한국인은&#x20;서양인 대비 인슐린분비능이 상대적으로 낮은 경향이 있어, 이 값을 참고 기준으로 함께 고려할 수 있음 \[KDA]_\
+_⁴⁾ Monogenic diabetes 특징: 강한 가족력(다세대에 걸친 상염색체 우성 양상), 경미하고 안정적인 고혈당, 젊은 발병 연령, 상대적으로 적은 인슐린 요구량 등_\
+  _✽35세 기준은 절대적 진단 기준이 아니라 알고리듬상의 경험적 분기점임. 비유럽인종에서는 연령·임상양상만으로 T1DM/T2DM 감별이 어려울 수 있으므로 \[ADA], 한국인에게 적용 시 이 분기점을 기계적으로 적용하지 않도록 주의_\
+_⁵⁾ C-peptide 검사는 monogenic 특징이 있는 경우 초기 진단 워크업의 일부로 바로 시행._\
+  _✽검사 조건: 식후 5시간 이내, 혈당 ≥72 ㎎/㎗(4 mmol/L)일 때만 해석, DKA 회복 후 2주 이내 및 저혈당 후 12시간 이내는 검사 회피, 진행된 만성신질환(CKD)에서는 C-peptide 제거 감소로 수치가 실제보다 높게 측정될 수 있음_\
+  _✽한국인 기준값(국내연구) : 공복 C-peptide <0.6 ng/_㎖_(200 pmol/L) 시 T1DM, ≥1.0 ng/_㎖_(약 330 pmol/L) 시 T2DM으로 보고됨. 한국인은 서양인 대비 인슐린분비능이 상대적으로 낮은 경향이 있어, 이 값을 참고 기준으로 함께 고려할 수 있음 \[KDA]_\
 _⁶⁾ 국내에서 단일유전자 당뇨병(MODY 등) 유전자 검사가 가능한 경우 시행; 접근성이 제한적일 수 있음_\
 _⁷⁾ 분류 불명확(Unclear classification)_\
 _⁸⁾ 비인슐린 혈당강하제를 시험적으로 사용할 수 있음_\
-_⁹⁾ 진단 후  >3년 경과 시, 재검 시점에 인슐린 치료 중인 경우 C-peptide 재검 고려 -&#x20;진단 초기에는 잔존 베타세포 기능이 일시적으로 보존되는 관해기(honeymoon phase)로 인해&#x20;위양성(정상 범위)이 나올 수 있어, 분류가 불확실한 경우 수년 경과 후 재평가가 필요함_\
-&#x20; _✽한국인 기준값 적용 시 200\~330 pmol/L을 불확정 구간으로, 330 pmol/L 이상을 T2DM 시사_\
-_소견으로 참고할 수 있음(⁵⁾ 참고)_\
+_⁹⁾ 진단 후 >3년 경과 시, 재검 시점에 인슐린 치료 중인 경우 C-peptide 재검 고려 - 진단 초기에는 잔존 베타세포 기능이 일시적으로 보존되는 관해기(honeymoon phase)로 인해 위양성(정상 범위)이 나올 수 있어, 분류가 불확실한 경우 수년 경과 후 재평가가 필요함_\
+  _✽한국인 기준값 적용 시 200\~330 pmol/L을 불확정 구간으로, 330 pmol/L 이상을 T2DM 시사 소견으로 참고할 수 있음(⁵⁾ 참고)_\
 _¹⁰⁾ 불확정(Indeterminate) - >5년 경과 후 C-peptide 재검 및 재평가 고려_
 
 ***
@@ -241,31 +261,6 @@ _Ref. Jacobsen LM, Schatz DA. Type 1 Diabetes: A Review. JAMA 2026._
 {% hint style="info" %}
 **Teplizumab (anti-CD3 단클론항체)** — 미국 FDA 2022년 승인, Stage 2 T1DM 성인·소아(8\~45세)에서 Stage 3(임상적 발병)로의 진행을 지연시키는 질병 조절 면역치료제. 무작위대조군연구에서 Stage 3 진행까지 평균 48.4개월(위약군 24.4개월)로 지연 효과 확인. 국내 미도입(2026.07)
 {% endhint %}
-
-### <mark style="color:orange;">검사 유의 사항</mark>
-
-#### <mark style="color:$primary;">혈당</mark>
-
-* 공복 : 8\~12시간 칼로리 섭취를 하지 않음 (✽ 짧은 공복(＜8시간)은 혈당이 낮아지지 않은 상태에서 측정될 수 있고, 지나친 공복(＞12시간)는 혈당이 단순히 계속 낮아지기만 하는 게 아니라 길항호르몬 반응으로 오히려 반등성 고혈당을 만들 수 있음)
-* 식후 2시간은 식사 개시부터 2시간째를 의미(경구 당 부하 검사도 마시기 시작부터)
-* 혈당 측정은 정맥 혈장 혈당을 이용하는 것을 원칙으로 함
-* 검체에 따른 차이 : 혈장 ＞ 전혈 (✽혈구 성분 영향으로 10\~15% 차이가 남)
-  * 동맥혈 ＞ 모세혈관혈 ＞ 정맥혈 (✽동정맥 차이 : 공복 시 ＞10 ㎎/㎗, 식후 20\~50 ㎎/㎗)
-  * 일반적으로 손끝 전혈을 측정하는 혈당계는 혈장 혈당 값으로 보정되어 표시됨
-* 신속 혈당 검사 영향 요인(실제 혈당보다 높게 측정) : 요산, acetaminophen, L-dopa, xylose, galactose, 비타민C(＞500 ㎎/d), alcohol
-* 당 부하 검사 : 검사 전 3일간 탄수화물 150\~200 g/d 섭취 → 전날 밤부터 금식 → 다음날 오전에 정해진 포도당(+물 300 ㎖)을 5분 내에 섭취하고 검사
-  * 당 부하 검사 위양성 유발 인자 : 영양실조, 병상 생활, 감염, 심한 정서적 스트레스
-
-#### <mark style="color:$primary;">당화혈색소(A1C)</mark>
-
-* A1C는 최근 2\~3개월의 혈당 상태를 반영; 특히 최근 1개월의 혈당 수준에 50%의 영향을 받음
-* **A1C false increase** : 철결핍/Vit B12/folate 결핍 빈혈, 신부전, uremia, 매우 고중성지방혈증(TG ＞1,750 ㎎/㎗), Bil ＞20 ㎎/㎗, 만성 음주, aspirin 과량 복용, 만성 opioid 복용, 납 중독, 고령
-* **A1C false decrease** : 급만성 실혈, 용혈성 빈혈, ribavirin/interferon-α(용혈성 빈혈 관련), splenomegaly, Vit E 섭취, 임신 2&3분기/산욕기, 채혈 또는 검사 지연에 의한 RBC 파괴
-* **A1C false variation** : 수혈, Hb variants, Vit C 복용
-
-<table data-search="false"><thead><tr><th width="111">A1C (%)</th><th width="191">평균 혈장 혈당 (㎎/㎗)</th></tr></thead><tbody><tr><td>5</td><td>97</td></tr><tr><td>6</td><td>126</td></tr><tr><td>7</td><td>154</td></tr><tr><td>8</td><td>183</td></tr><tr><td>9</td><td>212</td></tr><tr><td>10</td><td>240</td></tr><tr><td>11</td><td>269</td></tr><tr><td>12</td><td>298</td></tr></tbody></table>
-
-_Ref. ADA. Standards of Medical Care in Diabetes. 2024. Table 6-1._
 
 ### <mark style="color:orange;">합병증</mark>
 
@@ -284,12 +279,12 @@ _Ref. ADA. Standards of Medical Care in Diabetes. 2024. Table 6-1._
 2. **치료 목표 설정** : A1C/혈당 목표, 혈압, 당뇨병 자가 관리 목표 설정
 3. **치료 계획 수립** : 생활 습관 중재, 항당뇨병제, 심혈관/신질환 관리, 혈당 측정 기기/인슐린 투여 기기 사용, (필요시) 의뢰\*
 
-&#x20;   _\*다음의 경우에 교육 및 지원 필요 : ⓵ 진단, ⓶ 매년 &/or 목표 달성 실패, ⓷ 합병증/위험 요소 발생(의료, 신체, 정신 사회적), ⓸ 삶/관리에 변화 발생_
+  _\*다음의 경우에 교육 및 지원 필요 : ⓵ 진단, ⓶ 매년 &/or 목표 달성 실패, ⓷ 합병증/위험 요소 발생(의료, 신체, 정신 사회적), ⓸ 삶/관리에 변화 발생_
 
 <mark style="color:cyan;">**당뇨병 자기 관리 교육**</mark>
 
-* 당뇨병 진단 후 '매년' 자기 관리 교육; 1년 이내라도 '치료 목표에 도달하지 못하거나 자기 관리에 영향을 주는 문제가 발생했을 때'는 자기 관리 교육의 필요성을 평가하고 반복 재교육&#x20;
-* 환자 중심의 자기 관리 교육을 위해 의료, 간호, 영양, 운동, 약물, 사회복지 각 분야의 자격을 갖춘 교육자가 참여해야 함&#x20;
+* 당뇨병 진단 후 '매년' 자기 관리 교육; 1년 이내라도 '치료 목표에 도달하지 못하거나 자기 관리에 영향을 주는 문제가 발생했을 때'는 자기 관리 교육의 필요성을 평가하고 반복 재교육
+* 환자 중심의 자기 관리 교육을 위해 의료, 간호, 영양, 운동, 약물, 사회복지 각 분야의 자격을 갖춘 교육자가 참여해야 함
 * 당뇨병 자기 관리 교육에 디지털 기기 활용을 적극 고려
 
 ### <mark style="color:orange;">치료 목표</mark>
@@ -364,7 +359,7 @@ _⁶⁾ 이상지질혈증이 없는 환자에서는 지질 패널을 보다 드
 #### <mark style="color:$primary;">탄수화물</mark>
 
 * 혈당 조절 및 관리를 위해 과도한 탄수화물 섭취는 제한하되, 치료 목표와 선호에 따라 개별화
-* 식이섬유가 풍부한 통곡류, 콩류, 채소, 생과일의 섭취를 통해 탄수화물의 질적 섭취를 충족해야 함&#x20;
+* 식이섬유가 풍부한 통곡류, 콩류, 채소, 생과일의 섭취를 통해 탄수화물의 질적 섭취를 충족해야 함
 * 첨가당 섭취를 최소화하기 위해 가당 음료 섭취를 줄임
 * 낮은 당지수(glycemic index) 및 당부하지수(glycemic load) 식품 권고
 * 정해진 용량의 인슐린 주사를 맞는 환자에서는 음식 섭취량과 시간을 일정하게 하도록 교육
@@ -375,9 +370,9 @@ _⁶⁾ 이상지질혈증이 없는 환자에서는 지질 패널을 보다 드
 
 <table data-search="false"><thead><tr><th width="141">음식</th><th width="77" align="right">당지수(GI)</th><th width="97" align="right">㎉/100g</th><th>권장 섭취 포인트</th></tr></thead><tbody><tr><td><strong>콘플레이크</strong></td><td align="right">92</td><td align="right">375</td><td>GI가 매우 높아 혈당을 빠르게 올림. 가능한 한 섭취를 제한.</td></tr><tr><td><strong>흰쌀밥</strong></td><td align="right">88~91</td><td align="right">150</td><td>정제 탄수화물로 혈당 상승이 빠름. 현미·보리·잡곡밥으로 대체 권장.</td></tr><tr><td><strong>떡(백설기·가래떡)</strong></td><td align="right">80~90</td><td align="right">230~250</td><td>혈당을 매우 빠르게 올리므로 소량만 섭취.</td></tr><tr><td><strong>통감자구이</strong></td><td align="right">85</td><td align="right">300</td><td>GI가 높아 양 조절이 필요. 삶은 감자가 상대적으로 유리.</td></tr><tr><td><strong>도넛</strong></td><td align="right">76</td><td align="right">450~500</td><td>고당·고지방 식품으로 가능한 한 피한다.</td></tr><tr><td><strong>수박</strong></td><td align="right">72~76</td><td align="right">30</td><td>GI는 높지만 실제 혈당부하(GL)는 낮아 1회 섭취량은 허용 가능.</td></tr><tr><td><strong>식빵(흰빵)</strong></td><td align="right">70~75</td><td align="right">260~280</td><td>혈당 상승이 빨라 통밀빵으로 대체 권장.</td></tr><tr><td><strong>당근(삶은 것)</strong></td><td align="right">70~71</td><td align="right">35</td><td>GI는 높지만 실제 혈당부하(GL)는 낮아 적당량은 제한할 필요 없음.</td></tr><tr><td><strong>잡곡밥</strong></td><td align="right">55~65</td><td align="right">150</td><td>흰쌀밥보다 혈당 상승이 적다.</td></tr><tr><td><strong>호밀·통밀빵</strong></td><td align="right">50~65</td><td align="right">240~260</td><td>식이섬유가 풍부하여 혈당 상승을 완화.</td></tr><tr><td><strong>귀리(오트밀)</strong></td><td align="right">50~55</td><td align="right">380</td><td>β-glucan이 풍부하여 식후 혈당과 LDL-C 감소에 도움.</td></tr><tr><td><strong>보리밥</strong></td><td align="right">50~55</td><td align="right">140</td><td>혈당 조절과 포만감 유지에 도움. ✽쌀 혼합 기준; 도정보리 단독은 GI가 더 낮게 보고됨</td></tr><tr><td><strong>현미밥</strong></td><td align="right">50</td><td align="right">150</td><td>혈당 상승이 완만하여 주식으로 권장.</td></tr><tr><td><strong>고구마</strong></td><td align="right">44~61</td><td align="right">125</td><td>삶거나 찐 형태가 구운 것보다 혈당 상승이 적다.</td></tr><tr><td><strong>바나나</strong></td><td align="right">47~55</td><td align="right">90</td><td>덜 익은 바나나가 완숙 바나나보다 GI가 낮다.</td></tr><tr><td><strong>옥수수</strong></td><td align="right">52~60</td><td align="right">100</td><td>비교적 무난하나 섭취량은 조절한다.</td></tr><tr><td><strong>메밀국수</strong></td><td align="right">50~60</td><td align="right">110~130</td><td>메밀 함량이 높을수록 혈당 상승이 적다.</td></tr><tr><td><strong>국수(소면)</strong></td><td align="right">45~55</td><td align="right">130~150</td><td>삶는 정도에 따라 GI가 달라질 수 있다.</td></tr><tr><td><strong>포도</strong></td><td align="right">43~46</td><td align="right">70</td><td>GI는 낮지만 당 함량이 높아 소량 섭취.</td></tr><tr><td><strong>강낭콩</strong></td><td align="right">45~46</td><td align="right">130</td><td>단백질과 식이섬유가 풍부하여 혈당 조절에 도움.</td></tr><tr><td><strong>스파게티(알덴테)</strong></td><td align="right">40~45</td><td align="right">150</td><td>알덴테로 조리하면 GI가 낮으며 통밀 제품을 권장.</td></tr><tr><td><strong>오렌지</strong></td><td align="right">40~45</td><td align="right">47</td><td>과일째 먹는 것이 주스보다 좋다.</td></tr><tr><td><strong>딸기</strong></td><td align="right">40</td><td align="right">32</td><td>GI와 GL 모두 낮아 좋은 간식.</td></tr><tr><td><strong>배</strong></td><td align="right">38</td><td align="right">50</td><td>적당량은 비교적 안전하다.</td></tr><tr><td><strong>사과</strong></td><td align="right">36</td><td align="right">52</td><td>식이섬유가 풍부하여 간식으로 적합.</td></tr><tr><td><strong>플레인 무가당</strong> <br><strong>요구르트</strong></td><td align="right">35~36</td><td align="right">60~70</td><td>무가당 제품을 선택한다.</td></tr><tr><td><strong>우유</strong></td><td align="right">30~35</td><td align="right">64</td><td>GI가 낮고 단백질 공급원이다.</td></tr><tr><td><strong>무가당 두유</strong></td><td align="right">30~35</td><td align="right">45</td><td>단백질 공급원으로 적합.</td></tr><tr><td><strong>귤</strong></td><td align="right">30~35</td><td align="right">39</td><td>GI가 낮아 과일 중 비교적 권장.</td></tr><tr><td><strong>땅콩</strong></td><td align="right">14</td><td align="right">570</td><td>GI가 매우 낮지만 칼로리가 높아 한 줌 정도 권장.</td></tr><tr><td><strong>호두</strong></td><td align="right">15</td><td align="right">650</td><td>불포화지방산이 풍부하며 적당량 섭취를 권장.</td></tr><tr><td><strong>아몬드</strong></td><td align="right">10~15</td><td align="right">580</td><td>불포화지방산과 식이섬유가 풍부하나 과량 섭취는 피한다.</td></tr></tbody></table>
 
-_✽ GI(glycemic index, 당지수)는 동일한 양의 탄수화물을 섭취했을 때 혈당이 상승하는 속도를 나타냄. 실제 식후 혈당은 섭취량(glycemic load, GL), 조리법, 식이섬유 함량, 단백질·지방의 동반 섭취 등에&#x20;따라 크게 달라질 수 있으므로 GI만으로 식품을 선택하지 말고 총 탄수화물 섭취량과 균형 잡힌 식사를 함께 고려_
+_✽ GI(glycemic index, 당지수)는 동일한 양의 탄수화물을 섭취했을 때 혈당이 상승하는 속도를 나타냄. 실제 식후 혈당은 섭취량(glycemic load, GL), 조리법, 식이섬유 함량, 단백질·지방의 동반 섭취 등에 따라 크게 달라질 수 있으므로 GI만으로 식품을 선택하지 말고 총 탄수화물 섭취량과 균형 잡힌 식사를 함께 고려_
 
-_✽ 표는 GI 내림차순으로 정렬함. GL = GI × 1회 섭취 탄수화물량(g) ÷ 100; 당근·수박처럼 GI는 높으나&#x20;1회 섭취 탄수화물량이 적어 GL이 낮은 식품은 예외적으로 허용 가능함으로 표시_
+_✽ 표는 GI 내림차순으로 정렬함. GL = GI × 1회 섭취 탄수화물량(g) ÷ 100; 당근·수박처럼 GI는 높으나 1회 섭취 탄수화물량이 적어 GL이 낮은 식품은 예외적으로 허용 가능함으로 표시_
 
 #### [<mark style="color:$primary;">식이 섬유</mark>](../231_/217_-nutritiondiet-guideline.md#undefined-14)
 
@@ -389,7 +384,7 @@ _✽ 표는 GI 내림차순으로 정렬함. GL = GI × 1회 섭취 탄수화물
 
 #### <mark style="color:$primary;">단백질</mark>
 
-* 단백질 섭취를 제한할 필요는 없으며, 신장 질환이 있는 경우에 과다 섭취나 엄격한 제한은 피함&#x20;
+* 단백질 섭취를 제한할 필요는 없으며, 신장 질환이 있는 경우에 과다 섭취나 엄격한 제한은 피함
   * 단백질 섭취를 <0.8 g/㎏/d로 낮추는 것은 당 조절, 심혈관 질환 위험, GFR에 유의미한 영향을 주지 못하며 영양실조 위험을 높일 수 있음
   - [ ] 기존 '신장 합병증 시 제한'을 '과다·엄격한 제한 모두 피함'으로 변경 \[KDA 2025]
 * T2DM 환자에서 단백질 섭취는 혈당 증가 없이 인슐린 반응을 높이므로 저혈당 발생에 대한 주의가 필요한 환자에서는 고단백 식품 섭취를 피함
@@ -405,14 +400,14 @@ _✽ 표는 GI 내림차순으로 정렬함. GL = GI × 1회 섭취 탄수화물
 
 * [**음주**](../230_/189_-alcohol-use-disorder-aud.md) : 금주 권고(특히 간질환, 고지혈증, 비만인 당뇨병 환자); 혈당 조절이 잘되는 경우에만 여 ≤1 SD/d, 남 ≤2 SD/d로 허용, 음주 후 당 모니터링 권고
   * 음주는 저혈당 위험을 증가시킴(특히 인슐린 or 인슐린 분비 촉진제 투여 환자)
-* 항산화제, ω-3, Vit, 무기질 보충 : 혈당 개선 목적의 일상적 보충은 권고 안 함&#x20;
+* 항산화제, ω-3, Vit, 무기질 보충 : 혈당 개선 목적의 일상적 보충은 권고 안 함
   * 부족한 상태가 아닌 한 보충이 도움이 된다는 증거 없음; 결핍이나 제한적 식사 시 보충 고려
   * β-carotene 보충제는 이득이 없고 일부에서 해롭다는 증거가 있어 사용하지 않도록 함
   * Vit D ≥1000 IU/d 보충이 T2DM의 위험을 줄인다는 보고가 있음
 * Na : ＜2.3 g/d(소금으로 5.75 g)으로 제한 (☞ [저염 식이](../225_/095_-hypertension.md#undefined-28))
 
 {% hint style="info" %}
-대한고혈압학회 "고혈압 진료지침 2026"에서는 **소금 섭취 권고를 6 g에서 5 g**(나트륨 2,000 ㎎)으로 하향 조정함. 고혈압을 동반한 당뇨병 환자에서는 이 강화된 기준을&#x20;참고할 수 있음.
+대한고혈압학회 "고혈압 진료지침 2026"에서는 **소금 섭취 권고를 6 g에서 5 g**(나트륨 2,000 ㎎)으로 하향 조정함. 고혈압을 동반한 당뇨병 환자에서는 이 강화된 기준을 참고할 수 있음.
 {% endhint %}
 
 ### [<mark style="color:orange;">운동</mark>](../231_/216_-physical-activity-guideline.md)
@@ -620,6 +615,7 @@ graph TD
 * 일상적인 병원 방문 때마다 혈압 측정; **가정혈압 또는 활동혈압 측정을 권고** \[무작위대조군연구, 일반적권고] (✽KDA 2025 신규 권고)
 * **목표 혈압**
   * \[대한당뇨병학회 2025] **130/80 ㎜Hg 미만** \[무작위대조군연구, 일반적권고] (✽KDA 2025: ESPRIT, BPROAD 연구 결과에 근거하여 심혈관 위험도에 따른 이중 기준 → **단일 목표 130/80 미만**으로 강화·단순화)
+    * ✽대한고혈압학회 "고혈압 진료지침 2026"(제6판)도 고위험 고혈압·당뇨병·심혈관질환·만성콩팥병(단백뇨 여부 무관)·뇌졸중 동반 환자의 목표혈압을 동일하게 130/80 ㎜Hg 미만으로 강화하여, 두 학회 권고가 일치함
   * \[ADA 2025] <130/80 ㎜Hg; 임신 시 110\~135/85 ㎜Hg
 * **선택 약제**: ACEI/ARB(1차 선택제)를 비롯한 모든 1차 항고혈압제 가능
   * 특히 알부민뇨, 소변 Alb/Cr 비 ≥30 ㎎/g, Cr ≥30\~299 ㎎/g, eGFR <60, 또는 관상동맥질환 동반 시: ACEI 또는 ARB 권고 \[무작위대조군연구, 일반적권고]
