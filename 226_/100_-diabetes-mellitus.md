@@ -2,13 +2,13 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 인슐린 분비 결핍 &/or 인슐린 저항성으로 인하여 고혈당이 발생한 대사 이상 증후군
-* 유병률 : 우리나라 ≥30세에서 당뇨병 15.5%(남 18.1%, 여 13.0%), 당뇨병전단계 41.1%(남 43.8%, 여 38.5%) \[당뇨병 fact sheet 2024]; T2DM이 전체 당뇨병의 90% 이상 차지 \[IDF 2025]
+* 인슐린 분비 결함, 인슐린 작용 이상(인슐린 저항성) 또는 둘 다에 의해 발생하는 만성 고혈당 상태를 특징으로 하는 대사질환군
+* 유병률 : 우리나라 ≥30세에서 당뇨병 15.5%(남 18.1%, 여 13.0%), 당뇨병전단계 41.1%(남 43.8%, 여 38.5%) _\[당뇨병 fact sheet 2024]_; T2DM이 전체 당뇨병의 90% 이상 차지 _\[IDF 2025]_
 * 호발 연령
-  * T1DM : 소아·청소년기(4\~6세, 10\~14세 이중 정점)에 호발하나, 성인 발병도 드물지 않음(진단 중앙연령 29세)
-  * T2DM : 전통적으로 ＞40세에 호발하나, 비만 동반 소아·청소년 발병이 증가 추세 (KDA는 10세 이상 또는 사춘기 시작 과체중 소아청소년부터 선별검사를 권고)
-* 당뇨병전단계인 ≥65세의 9%가 6.5년 후, ≥60세의 13%가 12년 후 당뇨병으로 발전했다는 보고가 있음
-* T1DM 환자의 기대 여명은 일반 인구 대비 약 8\~10년 짧으며, 심혈관 질환이 주요 사인임&#x20;
+  * T1DM : 소아·청소년기(4\~6세, 10\~14세 이중 정점)에 호발하나, 성인 발병도 드물지 않음
+  * T2DM : ＞40세에 호발하나, 비만이 있는 소아·청소년 발병이 증가 추세 (KDA는 10세 이상 또는 사춘기 시작 과체중 소아청소년부터 선별검사를 권고)
+* 당뇨병전단계인 ≥65세의 9%가 6.5년 후, ≥60세의 13%가 12년 후 당뇨병으로 발전했다는 보고가 있으나, 진행 위험은 비만도·HbA1c 수준·연령에 따라 크게 달라짐
+* T1DM 환자의 기대 여명은 일반 인구 대비 약 8\~10년 짧으며(과거보다 격차는 감소 추세), 심혈관 질환이 주요 사인임
 
 ### <mark style="color:orange;">분류</mark>
 
@@ -42,20 +42,21 @@
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* 공통 : 유전, 가족력(직계 가족)
-* T1DM : 바이러스 감염, Vit D 결핍, 자가 항체 존재, 태아 인자(산모 연령, 자간전증 병력), 조산아, 과체중 출생
-* T2DM&#x20;
+* **공통** : 유전, 1촌 가족(first-degree relative)
+* **T1DM** : 바이러스 감염(enterovirus/Coxsackie B, congenital rubella 등), Vit D 결핍(연관성), 췌도 자가항체(GAD65, IA-2, ZnT8, IAA) 양성, 태아 인자(산모 연령, 자간전증 병력), 조산아, 고출생체중(macrosomia, 출생체중 ≥4 ㎏)
+* **T2DM**
   * 체형/대사 : 비만/과체중(BMI ≥23)/복부비만, 인슐린 저항성 관련 질환(예: 다낭난소증후군, 흑색극세포증)
-  * 혈당·심혈관 병력 : 공복혈당장애나 내당능장애 과거력, 고혈압, 심혈관 질환(예: 뇌졸중, 관상동맥병), 지질 이상(HDL-C ＜35 ㎎/㎗, TG ≥250 ㎎/㎗)
+  * 혈당·심혈관 병력 : 공복혈당장애나 내당능장애 과거력, 고혈압, 심혈관 질환(예: 뇌졸중, 관상동맥병), 지질 이상(HDL-C ＜35 ㎎/㎗ 또는 TG ≥250 ㎎/㎗)
   * 산과력 : 임신당뇨병, 거대아(≥4 ㎏) 출산력
   * 생활습관·인구학적 요인 : 비활동, 고령
-  * 약물 : thiazide, 2세대 항정신병제, steroid, 일부 statin
+  * 약물 : glucocorticoid, 비정형 항정신병제, thiazide계 이뇨제, 일부 statin(당뇨병 발생 위험은 소폭 증가하나 심혈관 이득이 더 큼)
+  - [ ] MASLD(대사이상지방간질환)와는 양방향 연관성이 보고되며, KDA는 모든 T2DM 성인에게 MASLD 평가를 권고함
 
 ## <mark style="color:green;">임상 양상</mark>
 
 * 전형적 증상 : 다뇨/야뇨, 다음/갈증, 설명되지 않는 체중 감소
 * 기타 증상 : 다식, 피로, 무기력, 근육 경련, 복부 불편, 구역, 시력 변화(흐림), 잦은 감염(피부·요로·질 칸디다증 등)
-  * 과거에는 다뇨(polyuria)·다음(polydipsia)·다식(polyphagia)을 '3대 증상(3 Ps)'으로 설명하는 경우가 많았으나, 다식은 일관되게 나타나지 않으며 현재 진단 기준의 대표 증상에는 포함되지 않음
+  * [ ] 과거에는 다뇨(polyuria)·다음(polydipsia)·다식(polyphagia)을 '3대 증상(3 Ps)'으로 설명하는 경우가 많았으나, 다식은 일관되게 나타나지 않으며 현재 진단 기준의 대표 증상에는 포함되지 않음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -87,16 +88,10 @@
 
 <mark style="color:cyan;">**대한당뇨병학회**</mark> (2025)
 
-*
-
-
-
-**대한당뇨병학회 (2025)**
-
-* 35세 이상의 모든 성인, **다음 위험 인자 중 하나 이상이 있는 19세 이상 성인** \[기타연구, 일반적권고]
+* 35세 이상의 모든 성인 또는 다음 위험 인자 중 하나 이상이 있는 19세 이상
   1. 과체중 또는 비만(BMI ≥23)
   2. 복부비만(허리둘레 남 ≥90 ㎝, 여 ≥85 ㎝)
-  3. 직계가족(부모, 형제자매) 중 당뇨병력
+  3. 직계가족(부모, 형제자매) 중 당뇨 병력
   4. 공복혈당장애 또는 내당능장애 과거력
   5. 임신당뇨병 또는 거대아(≥4 ㎏) 출산력
   6. 고혈압(140/90 ㎜Hg 이상 또는 약물 복용)
@@ -104,21 +99,21 @@
   8. 인슐린저항성 관련 상태(다낭난소증후군, 흑색가시세포증 등)
   9. 심혈관질환(뇌졸중, 관상동맥질환 등)
   10. 약물(글루코코르티코이드, 비정형 항정신병약 등)
-* 하나의 선별검사 결과가 당뇨병전단계에 해당하는 성인이 당뇨병이 의심되는 경우 다른 방법으로 추가 검사 시행 \[전문가의견, 일반적권고]
-* 선별검사 결과 정상인 성인은 매년 재검사 \[전문가의견, 일반적권고] (기존 3년마다에서 매년으로 강화)
-* 임신당뇨병을 진단받았던 임신부는 출산 4\~12주 후 75 g OGTT 시행을 권고함 (기존 6\~12주→4\~12주로 변경)
+* 하나의 선별검사 결과가 당뇨병전단계에 해당하는 성인이 당뇨병이 의심되는 경우 다른 방법으로 추가 검사 시행
+* 선별검사 결과 정상인 성인은 매년 재검사 (\*기존 '3년마다'에서 '매년'으로 강화)
+* 임신당뇨병을 진단받았던 임신부는 출산 4\~12주 후 75 g OGTT 시행을 권고함 (\*기존 6\~12주)
 
 <mark style="color:cyan;">**미국당뇨병학회**</mark> (ADA 2025)
 
-1. 다음 중 하나 이상의 위험 인자가 있는 BMI ≥25 (Asian American ≥23)
+1. 다음 중 하나 이상의 위험 인자가 있는 BMI ≥25 (Asian American ≥23) - 연령 무관 검사 시행, 정상 시 최소 매 3년마다 재검사(위험 요인 변화 시 더 자주)
    1. 1세대(부모, 형제) 당뇨병 가족력
    2. 고위험 인종(예: Asian American)
    3. CVD 병력
-   4. 고혈압(≥140/90 ㎜Hg or 치료 중)
+   4. 고혈압(≥130/80 ㎜Hg or 치료 중)
    5. HDL-C ＜35 ㎎/㎗ or 중성지방 ＞250 ㎎/㎗
    6. 다낭성난소증후군 여성
    7. 비활동적 생활
-   8. 인슐린 저항성 관련 상태(예: 심한 비만)
+   8. 인슐린 저항성 관련 상태(예: 심한 비만, acanthosis nigricans)
 2. 당뇨병전단계 환자(A1C ≥5.7%) - 매년
 3. 임신당뇨병 병력자 - 최소 3년마다
 4. 위에 해당하지 않는 모든 사람 - 35세에 검사 시작, 정상 시 최소 매 3년마다
@@ -128,21 +123,30 @@
 
 ### <mark style="color:orange;">당뇨병 위험도 체크 리스트</mark>
 
-<table data-search="false"><thead><tr><th width="125">질문</th><th width="97">문항</th><th width="98">점수</th><th width="100">질문</th><th width="95">문항</th><th width="78">점수</th></tr></thead><tbody><tr><td>나이</td><td>&#x3C;35세</td><td>0점</td><td>허리둘레/남</td><td>&#x3C;84 ㎝</td><td>0점</td></tr><tr><td></td><td>35~44세</td><td>2점</td><td>남</td><td>84~89.9 ㎝</td><td>2점</td></tr><tr><td></td><td>≥45세</td><td>3점</td><td>남</td><td>≥90 ㎝</td><td>3점</td></tr><tr><td>가족력</td><td>아니오</td><td>0점</td><td>허리둘레/여</td><td>&#x3C;77 ㎝</td><td>0점</td></tr><tr><td>(부모 형제 당뇨병력)</td><td>예</td><td>1점</td><td>여</td><td>77~83.9 ㎝</td><td>2점</td></tr><tr><td>고혈압</td><td>아니오</td><td>0점</td><td>여</td><td>≥84 ㎝</td><td>3점</td></tr><tr><td>(≥140/90 ㎜Hg or 치료 중)</td><td>예</td><td>1점</td><td>1일 음주량</td><td>≤1잔 또는 비음주</td><td>0점</td></tr><tr><td>현재 흡연</td><td>아니오</td><td>0점</td><td>(주종 무관)</td><td>1~4.9잔</td><td>1점</td></tr><tr><td></td><td>예</td><td>1점</td><td></td><td>≥5잔</td><td>2점</td></tr></tbody></table>
+* 항목 및 점수 \[대한당뇨병학회. 2025]
+  * 나이 : ＜35세(0점), 35\~44세(2점), ≥45세(3점)
+  * 가족력(부모·형제 당뇨병력) : 아니오(0점), 예(1점)
+  * 고혈압(≥140/90 ㎜Hg 또는 치료 중) : 아니오(0점), 예(1점)
+  * 현재 흡연 : 아니오(0점), 예(1점)
+  * 허리둘레
+    * 남 : ＜84 ㎝(0점), 84\~89.9 ㎝(2점), ≥90 ㎝(3점)
+    * 여 : ＜77 ㎝(0점), 77\~83.9 ㎝(2점), ≥84 ㎝(3점)
+  * 1일 음주량(주종 무관) : ≤1잔 또는 비음주(0점), 1\~4.9잔(1점), ≥5잔(2점)
+* 평가 : 합계 점수가 높을수록 당뇨병 발생 위험 증가; 5\~7점 대비 8\~9점 시 2배, ≥10점 시 ≥3배
+  * 총점 ≥5점 시 혈당 검사(공복 혹은 식후 혈당)를 권고
 
-* 합계 점수가 높을수록 당뇨병 발생 위험 증가 : 5\~7점 대비 8\~9점 시 2배, ≥10점 시 ≥3배
-* 총점 ≥5점 시 혈당 검사(공복 혹은 식후 혈당)를 권고
-
-<p align="center"><em><mark style="color:$info;">Ref. 대한당뇨병학회. 당뇨병 진료지침 . 2025</mark></em></p>
+<p align="center"></p>
 
 ## <mark style="color:green;">진단</mark>
 
-<table><thead><tr><th width="200">판정</th><th width="160">공복 혈당¹⁾</th><th width="200">75 g OGTT 2시간 후 혈당²⁾</th><th>A1C</th></tr></thead><tbody><tr><td>정상</td><td>&#x3C;100</td><td>&#x3C;140</td><td>&#x3C;5.7%</td></tr><tr><td>당뇨병전단계 (prediabetes)</td><td>100~125 [IFG]</td><td>140~199 [IGT]</td><td>5.7~6.4%</td></tr><tr><td>당뇨병³⁾ (어느 한 항목이라도 해당)</td><td>① ≥126</td><td>② ≥200</td><td>③ ≥6.5%</td></tr><tr><td></td><td>④ 고혈당의 전형적인 증상(다뇨, 다음, 설명되지 않는 체중 감소) &#x26; 무작위 혈장 포도당 ≥200 ㎎/㎗</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="200">판정</th><th width="185">공복 혈당¹⁾</th><th width="191">당부하검사²⁾</th><th>A1C</th></tr></thead><tbody><tr><td><ol><li><strong>정상</strong></li></ol></td><td>&#x3C;100 ㎎/㎗</td><td>&#x3C;140 ㎎/㎗</td><td>&#x3C;5.7%</td></tr><tr><td><ol start="2"><li><strong>당뇨병전단계</strong> (prediabetes)</li></ol></td><td>100~125 ㎎/㎗ [IFG]</td><td>140~199 ㎎/㎗ [IGT]</td><td>5.7~6.4%</td></tr></tbody></table>
+
+3. **당뇨병**²⁾ (다음 어느 한 항목이라도 해당) ⓵ 공복 혈당 ≥126, ⓶ 당부하검사 혈당 ≥200, ⓷ A1C ≥6.5%, ⓸ 고혈당의 전형적인 증상(다뇨, 다음, 설명되지 않는 체중 감소) & 무작위 혈장 포도당 ≥200 ㎎/㎗
 
 _**IFG** = impaired fasting glucose (공복혈당장애), **IGT** = impaired glucose tolerance (내당능장애)_\
 &#xNAN;_&#xB9;⁾ 최소 8시간 공복(칼로리 섭취 중단)_\
-&#xNAN;_&#xB2;⁾ 75 g 경구 당 부하 2시간 후_\
-&#xNAN;_&#xB3;⁾ 당뇨병의 기준은 고혈당으로 인한 합병증이 발생할 수 있는 수준을 기반으로 정해짐; 공복 혈당 126 ㎎/㎗에 해당하는 식후 2시간 혈당은 200 ㎎/㎗정도이며, 이 수준으로 혈당이 유지될 경우 A1C는 6.5%가 됨_
+_²⁾ 75 g OGTT 2시간 후 혈당_\
+³⁾ _당뇨병의 기준은 고혈당으로 인한 합병증이 발생할 수 있는 수준을 기반으로 정해짐; 공복 혈당 126 ㎎/㎗에 해당하는 식후 2시간 혈당은 200 ㎎/㎗정도이며, 이 수준으로 혈당이 유지될 경우 A1C는 6.5%가 됨_
 
 * 명백한 고혈당 증상이 없는 경우에는 다른 날 검사를 반복해야 하지만, 동시에 시행한 검사들에서 두 가지 이상의 기준에 해당되면 바로 진단
 * portable glucose meter로 당뇨병을 진단해서는 안 됨 \[ADA]
@@ -151,84 +155,82 @@ _**IFG** = impaired fasting glucose (공복혈당장애), **IGT** = impaired glu
 
 ### <mark style="color:orange;">T1DM vs T2DM 감별</mark>
 
-* **감별 검사** : islet auto-Ab(인슐린, glutamic acid decarboxylase(GAD), islet antigen 2(IA-2), zinc transporter 8(ZnT8)), 인슐린, c-peptide
+* 감별 검사 : islet auto-Ab(인슐린, glutamic acid decarboxylase(GAD), islet antigen 2(IA-2), zinc transporter 8(ZnT8)), 인슐린, c-peptide
   * 공복 혈청 c-peptide : ＜0.6 ng/㎖(≈200 pmol/L) 시 T1DM, ≥1.0 ng/㎖(≈330 pmol/L) 시 T2DM 가능성; 경계 시 추후(5년 후) c-peptide 재검
-    * ✽단위 환산 참고 : 1 ng/㎖ ≒ 331 pmol/L; 0.6 ng/㎖ ≒ 200 pmol/L; 1.8 ng/㎖ ≒ 600 pmol/L
-    * ✽경계값 해석 시 인슐린 치료 여부, 유병 기간, 임상 맥락을 함께 고려해야 함; 단일 수치로 확정 진단은 위험
-  * 자가 항체 : 양성 시 면역 매개성 T1DM 가능성이 높으나 T2DM 진단 환자의 4\~25%에서도 항GAD Ab(+)이며, 이 경우 인슐린 치료를 받을 가능성이 높음; T1DM과 겹치는 phenotype 위험이 있는 성인 당뇨병 환자(예: 진단 시 젊은 연령, 의도하지 않은 체중 감소, 인슐린 치료까지 짧은 시간)에서 분류를 위해 표준화된 islet auto-Ab 검사를 권고
+    * [ ] 단위 환산 참고 : 1 ng/㎖ ≒ 331 pmol/L; 0.6 ng/㎖ ≒ 200 pmol/L; 1.8 ng/㎖ ≒ 600 pmol/L
+    * [ ] 경계값 해석 시 인슐린 치료 여부, 유병 기간, 임상 맥락을 함께 고려해야 함; 단일 수치로 확정 진단은 위험
+  * 자가 항체 : 양성 시 면역 매개성 T1DM 가능성이 높으나 T2DM 진단 환자의 4\~25%에서도 항GAD Ab(+)이며, 이 경우 인슐린 치료를 받아야 할 가능성이 높음; T1DM과 겹치는 phenotype 위험이 있는 성인 당뇨병 환자(예: 진단 시 젊은 연령, 의도하지 않은 체중 감소, 인슐린 치료까지 짧은 시간)에서 분류를 위해 표준화된 islet auto-Ab 검사를 권고
 * 대부분의 환자에서 islet autoantibodies, 인슐린, proinsulin, c-peptide의 일률적 검사는 권고하지 않음 \[ADA]
-
-***
 
 ```mermaid
 graph TD
-    Start([T1DM 의심 ¹⁾])
-    Islet[islet auto-antibodies 검사 ²⁾]
-    T1DM_Diag1([T1DM 진단])
-    Age{연령?}
-    MonoCheck{monogenic diabetes의 특징? ⁴⁾}
-    Cpep1[C-peptide 검사 ⁵⁾]
-    GeneTest([가능한 경우 단일원성 DM에<br>대한 유전자 검사 ⁷⁾])
-    T1DM_Diag2([T1DM 진단])
-    T2DMCheck{T2DM 특징? ⁶⁾}
-    Unclear[분류 불명확 ⁸⁾<br>당뇨병 치료에 대한 임상적 결정 ⁹⁾]
-    ReCpep1[3년 후 C-peptide 재검 고려 ⁵⁾]
-    T1DM_Diag3([T1DM 진단])
-    Uncertain[불확정 ¹⁰⁾<br>5년 후 C-pep. 재검 고려]
-    T2DM_Diag([T2DM 진단])
+Start([T1DM 의심 성인¹⁾])
+Islet[islet 자가항체 검사²⁾]
+T1DM_Diag1[T1DM 진단]
+Age[연령?]
+MonoCheck[monogenic diabetes의 특징?⁴⁾]
+Cpep1[C-peptide 검사⁵⁾]
+GeneTest[가능한 경우 단일유전자 DM에<br>대한 유전자 검사⁶⁾]
+T1DM_Diag2[T1DM 진단]
+T2DMCheck[T2DM 특징?⁴⁾]
+Unclear[분류 불명확⁷⁾<br>임상적 판단에 따라 치료⁸⁾]
+ReCpep1[C-peptide 재검 고려⁹⁾]
+T1DM_Diag3[T1DM 진단]
+Uncertain[불확정¹⁰⁾<br>재평가 고려]
+T2DM_Diag[T2DM 진단]
 
-    Start --> Islet
-    Islet -->|양성| T1DM_Diag1
-    Islet -->|음성 ³⁾| Age
-    Age -->|35세 미만| MonoCheck
-    Age -->|35세 이상| Unclear
-    MonoCheck -->|있음| Cpep1
-    MonoCheck -->|없음| T2DMCheck
-    Cpep1 -->|200 pmol/L 초과| GeneTest
-    Cpep1 -->|200 pmol/L 미만| T1DM_Diag2
-    T2DMCheck -->|No| T1DM_Diag2
-    T2DMCheck -->|Yes| Unclear
-    Unclear --> ReCpep1
-    ReCpep1 -->|200 pmol/L 미만| T1DM_Diag3
-    ReCpep1 -->|200 ~ 600| Uncertain
-    ReCpep1 -->|600 pmol/L 초과| T2DM_Diag
+Start --> Islet
+Islet -->|양성| T1DM_Diag1
+Islet -->|음성 ³⁾| Age
+Age -->|35세 미만| MonoCheck
+Age -->|35세 이상| Unclear
+MonoCheck -->|있음| Cpep1
+MonoCheck -->|없음| T2DMCheck
+Cpep1 -->|200 pmol/L 초과| GeneTest
+Cpep1 -->|200 pmol/L 미만| T1DM_Diag2
+T2DMCheck -->|없음| T1DM_Diag2
+T2DMCheck -->|있음| Unclear
+Unclear --> ReCpep1
+ReCpep1 -->|200 pmol/L 미만| T1DM_Diag3
+ReCpep1 -->|200~600 pmol/L| Uncertain
+ReCpep1 -->|600 pmol/L 초과| T2DM_Diag
 
-    style Start fill:#F3E8FF,stroke:#D8B4FE,stroke-width:1px
-    style Islet fill:#F0FDF4,stroke:#BBF7D0,stroke-width:1px
-    style Age fill:#FEF08A,stroke:#FEF08A,stroke-width:1px
-    style MonoCheck fill:#E5E7EB,stroke:#D1D5DB,stroke-width:1px
-    style T2DMCheck fill:#E5E7EB,stroke:#D1D5DB,stroke-width:1px
-    style Unclear fill:#E5E7EB,stroke:#D1D5DB,stroke-width:1px
-    style ReCpep1 fill:#F0FDF4,stroke:#BBF7D0,stroke-width:1px
-    style Cpep1 fill:#F0FDF4,stroke:#BBF7D0,stroke-width:1px
-    style T1DM_Diag1 fill:#FCE7F3,stroke:#FBCFE8,stroke-width:1px
-    style T1DM_Diag2 fill:#FCE7F3,stroke:#FBCFE8,stroke-width:1px
-    style T1DM_Diag3 fill:#FCE7F3,stroke:#FBCFE8,stroke-width:1px
-    style T2DM_Diag fill:#FCE7F3,stroke:#FBCFE8,stroke-width:1px
-    style GeneTest fill:#EFF6FF,stroke:#DBEAFE,stroke-width:1px
-    style Uncertain fill:#EFF6FF,stroke:#DBEAFE,stroke-width:1px
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class Islet,Cpep1,GeneTest,ReCpep1 lightGreen
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Age,MonoCheck,T2DMCheck yellow
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class T1DM_Diag1,T1DM_Diag2,T1DM_Diag3,T2DM_Diag pink
+style T2DM_Diag fill:#fef4f8,stroke:#f06baf
 ```
 
 <p align="center"><strong>T1DM 의심 환자의 진단 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ADA. Standards of Medical Care in Diabetes. 2024. Fig 2.1</mark></em></p>
+<p align="center"></p>
+
+_¹⁾ T1DM 의심 기준(다음 중 하나 이상) : <35세, BMI<25 또는 의도치 않은 체중감소, DKA 또는_\
+_혈당>360 ㎎/㎗, 급속한 인슐린 치료 전환, 당뇨병 유형에 대한 불확실성_\
+_²⁾ GAD 항체를 우선 검사; 음성 시 IA-2, ZnT8 추가 검사(가능한 경우)_\
+&#x20; _✽IAA(인슐린 자가항체)는 외인성 인슐린 치료 시작 전 검사에서만 해석 가능 - 치료 시작 후에는 자가면역 반응과 인슐린 노출에 의한 반응성 항체를 구별할 수 없음_\
+_³⁾ 성인 발병 T1DM의 5\~10%는 자가항체 음성일 수 있음_\
+_⁴⁾ Monogenic diabetes 특징: 강한 가족력(다세대에 걸친 상염색체 우성 양상), 경미하고 안정적인_\
+_고혈당, 젊은 발병 연령, 상대적으로 적은 인슐린 요구량 등_\
+&#x20; _✽35세 기준은 절대적 진단 기준이 아니라 알고리듬상의 경험적 분기점임. 비유럽인종에서는 연령·임상양상만으로 T1DM/T2DM 감별이 어려울 수 있으므로 \[ADA], 한국인에게 적용 시 이 분기점을 기계적으로 적용하지 않도록 주의_\
+_⁵⁾ C-peptide 검사는 monogenic 특징이 있는 경우 초기 진단 워크업의 일부로 바로 시행._\
+&#x20; _✽검사 조건: 식후 5시간 이내, 혈당 ≥72 ㎎/㎗(4 mmol/L)일 때만 해석, DKA 회복 후 2주 이내 및_\
+_저혈당 후 12시간 이내는 검사 회피, 진행된 만성신질환(CKD)에서는 C-peptide 제거 감소로_\
+_수치가 실제보다 높게 측정될 수 있음_\
+&#x20; _✽한국인 기준값(국내연구) : 공복 C-peptide <0.6 ng/_㎖_(200 pmol/L) 시 T1DM, ≥1.0 ng/_㎖_(약 330 pmol/L) 시 T2DM으로 보고됨. 한국인은&#x20;서양인 대비 인슐린분비능이 상대적으로 낮은 경향이 있어, 이 값을 참고 기준으로 함께 고려할 수 있음 \[KDA]_\
+_⁶⁾ 국내에서 단일유전자 당뇨병(MODY 등) 유전자 검사가 가능한 경우 시행; 접근성이 제한적일 수 있음_\
+_⁷⁾ 분류 불명확(Unclear classification)_\
+_⁸⁾ 비인슐린 혈당강하제를 시험적으로 사용할 수 있음_\
+_⁹⁾ 진단 후  >3년 경과 시, 재검 시점에 인슐린 치료 중인 경우 C-peptide 재검 고려 -&#x20;진단 초기에는 잔존 베타세포 기능이 일시적으로 보존되는 관해기(honeymoon phase)로 인해&#x20;위양성(정상 범위)이 나올 수 있어, 분류가 불확실한 경우 수년 경과 후 재평가가 필요함_\
+&#x20; _✽한국인 기준값 적용 시 200\~330 pmol/L을 불확정 구간으로, 330 pmol/L 이상을 T2DM 시사_\
+_소견으로 참고할 수 있음(⁵⁾ 참고)_\
+_¹⁰⁾ 불확정(Indeterminate) - >5년 경과 후 C-peptide 재검 및 재평가 고려_
 
 ***
-
-¹⁾ _T1DM을 진단하는 단일 임상 특징은 없음._\
-²⁾ _1차로 GAD 항체를 측정하며, 음성인 경우 IA-2 or ZnT8 항체를 측정._\
-³⁾ _adult onset T1DM 환자의 5\~10%가 음성._\
-⁴⁾ _다음 중 하나 이상 해당 시 의심: 진단 시 A1C < 7.5%, 부모 당뇨 병력, 특정 monogenic 원인 특징(예: 신생아 당뇨, partial lipodystrophy, 모체 유전 남성, 비만이 아니면서 심한 인슐린 저항성), 단일형성 DM 예측 모형 확률 > 5%._\
-⁵⁾ _인슐린 치료를 받는 사람과 받지 않는 사람 모두 적용._\
-⁶⁾ _BMI ≥ 25, 체중 감소 없음, 케톤산증 없음, 발병 시 고령._\
-⁷⁾ _유전자 검사에서 단일형성 DM이 확인되지 않는 경우 분류가 불확하며, 임상적으로 치료 결정._\
-⁸⁾ _고혈당에도 T2DM을 강하게 고려, 필요에 따라 다른 원인 조사도 고려._\
-⁹⁾ _비인슐린 치료가 적합할 수 있음._\
-¹⁰⁾ _T1DM이 의심되는 경우 혈당 악화 시 신속히 인슐린 치료를 시작할 수 있도록 교육 및 모니터링._
-
-{% hint style="info" %}
-**임상 주의** : 위 알고리듬에서 35세 이상은 islet auto-Ab 음성 시 'Unclear'로 분류되나, 실제 임상에서는 **성인 발병 T1DM이 적지 않음**. 자가항체 음성 T1DM(adult-onset T1DM)도 흔하므로, 비만하지 않은 성인에서 급격한 혈당 악화, 체중 감소, ketosis 경향이 있으면 T1DM을 적극 고려해야 한다.
-{% endhint %}
 
 ### <mark style="color:orange;">T1DM 병기(Staging)</mark>
 
