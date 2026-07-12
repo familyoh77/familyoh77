@@ -18,7 +18,7 @@
 3. 임신당뇨병 (GDM) : 임신 전 명백한 당뇨병이 없던 여성에서 임신 2\~3분기에 처음 진단된 당뇨병
 4. 기타 특이 유형의 당뇨병
    * Monogenic diabetes syndrome : 신생아당뇨병, Maturity onset diabetes of youth(MODY)
-   * **췌장질환 관련 당뇨병(Type 3c diabetes, pancreatic diabetes)** : chronic pancreatitis, pancreatic cancer, cystic fibrosis, pancreatectomy, hemochromatosis 등 — ADA 2026은 이를 별도의 주요 항목으로 강조함
+   * 췌장질환 관련 당뇨병(Type 3c diabetes, pancreatic diabetes) : chronic pancreatitis, pancreatic cancer, cystic fibrosis, pancreatectomy, hemochromatosis 등 - ADA 2026은 이를 별도의 주요 항목으로 강조함
    * 내분비질환 : Cushing 증후군, acromegaly, glucagonoma, 갈색세포종
    * 약물·화학물질 유발 당뇨병 : glucocorticoid, calcineurin inhibitor, protease inhibitor, 비정형 항정신병제
    * 감염 : congenital rubella, CMV
@@ -65,7 +65,7 @@
 <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
 
 * 구역/구토, 복통, 깊고빠른 호흡(Kussmaul), 과일향 호흡, 의식 변화; 혈당 ≥250 ㎎/㎗ + 케톤뇨 → 당뇨병케톤산증(DKA)
-  * **정상혈당 DKA(euglycemic DKA)**: 혈당이 250 ㎎/㎗ 미만이어도 DKA가 가능하며 위 증상이 있으면 반드시 케톤 검사를 시행할 것; SGLT2i 복용 중인 경우 특히 주의(국내에서 SGLT2i는 T1DM 정식 적응증이 아니며 오프라벨·제한적으로만 사용됨) (ADA 2026 지속 강조; ☞ [당뇨병 합병증](102_-complications-of-diabetes.md#당뇨병케토산증-diabetic-ketoacidosis-dka))
+  * 정상혈당 DKA(euglycemic DKA): 혈당이 250 ㎎/㎗ 미만이어도 DKA가 가능하며 위 증상이 있으면 반드시 케톤 검사를 시행할 것; SGLT2i 복용 중인 경우 특히 주의(국내에서 SGLT2i는 T1DM 정식 적응증이 아니며 오프라벨·제한적으로만 사용됨) (ADA 2026 지속 강조; ☞ [당뇨병 합병증](102_-complications-of-diabetes.md#당뇨병케토산증-diabetic-ketoacidosis-dka))
   * 발열을 동반한 혈당 ≥350 ㎎/㎗ + 요중 케톤 강양성도 DKA 가능성이 높은 소견
 * 혈당 ≥600 ㎎/㎗, 심한 탈수, 의식 혼탁 → 고삼투압고혈당(HHS)
 * 의식 저하, 경련, 자가 처치 불가 → 중증 저혈당 (glucagon 즉시 투여 후 이송)
@@ -465,7 +465,7 @@ _✽ GI(glycemic index, 당지수)는 동일한 양의 탄수화물을 섭취했
 
 ### <mark style="color:orange;">T2DM 임상 표현형(Phenotype)별 우선 선택 약제</mark>
 
-<table data-search="false"><thead><tr><th width="220">임상 상황 / Phenotype</th><th>우선 고려 약제</th></tr></thead><tbody><tr><td>비만 우세 (체중 감량 필요)</td><td>GLP-1 RA (semaglutide <mark style="color:blue;">[오젬픽]</mark>, liraglutide <mark style="color:blue;">[빅토자]</mark>), GIP+GLP-1 RA (tirzepatide <mark style="color:blue;">[마운자로]</mark>)</td></tr><tr><td>ASCVD 동반 또는 고위험</td><td>GLP-1 RA (liraglutide, semaglutide, dulaglutide <mark style="color:blue;">[트루리시티]</mark>) 또는 SGLT2i</td></tr><tr><td>심부전(HF) 동반</td><td>SGLT2i (empagliflozin <mark style="color:blue;">[자디앙]</mark>, dapagliflozin <mark style="color:blue;">[포시가]</mark>); A1C 무관하게 우선 사용<br>· <strong>증상성 HFpEF + 비만 동반 시</strong>: GLP-1/GIP 이중작용제(tirzepatide <mark style="color:blue;">[마운자로]</mark>) 또는 GLP-1 RA를 혈당 치료 계획에 포함(A1C 무관) — 심부전 증상·이벤트 감소 효과 입증 (ADA 2026 Recommendation 9.9a/9.9b 신규; ☞ [101_-antidiabetics.md])</td></tr><tr><td>CKD 동반 (알부민뇨·eGFR 감소)</td><td>SGLT2i (A1C 무관하게 우선 사용·유지); ± finerenone <mark style="color:blue;">[케렌디아]</mark>; GLP-1 RA 병용 고려</td></tr><tr><td>허혈성 뇌졸중 동반</td><td>GLP-1 RA 또는 TZD (pioglitazone) 고려 (KDA 2025 신규)</td></tr><tr><td>MASLD/MASH 동반</td><td><strong>생검 확인 MASH 또는 간섬유화 고위험군</strong>: MASH에 대한 이득이 입증된 GLP-1 RA를 혈당 관리 목적으로 우선 사용(ADA 2026 Recommendation 9.13a); pioglitazone <mark style="color:blue;">[액토스]</mark> 또는 GLP-1/GIP 이중작용제(tirzepatide)도 고려 가능. 중등도 이상 섬유화 시 resmetirom <mark style="color:blue;">[레즈디프라]</mark> 추가 고려</td></tr><tr><td>저혈당 위험 높음</td><td>DPP-4i, GLP-1 RA, SGLT2i (SU/glinide 회피)</td></tr><tr><td>비용 제한</td><td>Metformin, SU (glipizide <mark style="color:blue;">[글루코트롤]</mark> 등 단기 작용제 선호)</td></tr><tr><td>단순 혈당 강하 (합병증 없음)</td><td>Metformin <mark style="color:blue;">[다이아벡스]</mark> 기반 + 필요시 DPP-4i 또는 SGLT2i 추가</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="220">임상 상황 / Phenotype</th><th>우선 고려 약제</th></tr></thead><tbody><tr><td>비만 우세 (체중 감량 필요)</td><td>GLP-1 RA (semaglutide <mark style="color:blue;">[오젬픽]</mark>, liraglutide <mark style="color:blue;">[빅토자]</mark>), GIP+GLP-1 RA (tirzepatide <mark style="color:blue;">[마운자로]</mark>)</td></tr><tr><td>ASCVD 동반 또는 고위험</td><td>GLP-1 RA (liraglutide, semaglutide, dulaglutide <mark style="color:blue;">[트루리시티]</mark>) 또는 SGLT2i</td></tr><tr><td>심부전(HF) 동반</td><td>SGLT2i (empagliflozin <mark style="color:blue;">[자디앙]</mark>, dapagliflozin <mark style="color:blue;">[포시가]</mark>); A1C 무관하게 우선 사용<br>· 증상성 HFpEF + 비만 동반 시: GLP-1/GIP 이중작용제(tirzepatide <mark style="color:blue;">[마운자로]</mark>) 또는 GLP-1 RA를 혈당 치료 계획에 포함(A1C 무관) — 심부전 증상·이벤트 감소 효과 입증</td></tr><tr><td>CKD 동반 (알부민뇨·eGFR 감소)</td><td>SGLT2i (A1C 무관하게 우선 사용·유지); ± finerenone <mark style="color:blue;">[케렌디아]</mark>; GLP-1 RA 병용 고려</td></tr><tr><td>허혈성 뇌졸중 동반</td><td>GLP-1 RA 또는 TZD (pioglitazone) 고려 (KDA 2025 신규)</td></tr><tr><td>MASLD/MASH 동반</td><td>생검 확인 MASH 또는 간섬유화 고위험군: MASH에 대한 이득이 입증된 GLP-1 RA를 혈당 관리 목적으로 우선 사용; pioglitazone <mark style="color:blue;">[액토스]</mark> 또는 GLP-1/GIP 이중작용제(tirzepatide)도 고려 가능. 중등도 이상 섬유화 시 resmetirom <mark style="color:blue;">[레즈디프라]</mark> 추가 고려</td></tr><tr><td>저혈당 위험 높음</td><td>DPP-4i, GLP-1 RA, SGLT2i (SU/glinide 회피)</td></tr><tr><td>비용 제한</td><td>Metformin, SU (glipizide <mark style="color:blue;">[글루코트롤]</mark> 등 단기 작용제 선호)</td></tr><tr><td>단순 혈당 강하 (합병증 없음)</td><td>Metformin <mark style="color:blue;">[다이아벡스]</mark> 기반 + 필요시 DPP-4i 또는 SGLT2i 추가</td></tr></tbody></table>
 
 ## <mark style="color:green;">평가 및 모니터링</mark>
 
@@ -506,18 +506,13 @@ _✽ GI(glycemic index, 당지수)는 동일한 양의 탄수화물을 섭취했
 
 <mark style="color:cyan;">**연속 혈당 측정기**</mark> <mark style="color:cyan;">(CGM, Continuous Glucose Monitoring)</mark>
 
-* **대상 : 인슐린을 사용하거나, 저혈당을 유발할 수 있는 비인슐린 치료를 받거나, CGM이 관리에 도움이 되는 모든 당뇨병 환자에서 진단 시점부터 그 이후 언제든지 CGM 사용을 권고** \[일반적권고] — 소아·청소년·성인 모두에 적용되며, 연령·성별·교육 수준·소득·기저 당뇨병 특성과 무관하게 이득이 확인됨 (✽ADA 2026 Recommendation 7.15: 기존 '인슐린 사용/저혈당 위험군'에 국한하지 않고 진단 시점부터의 조기 사용으로 범위 확대)
+* 대상 : 인슐린을 사용하거나, 저혈당을 유발할 수 있는 비인슐린 치료를 받거나, CGM이 관리에 도움이 되는 모든 당뇨병 환자에서 진단 시점부터 그 이후 언제든지 CGM 사용을 권고 — 소아·청소년·성인 모두에 적용되며, 연령·성별·교육 수준·소득·기저 당뇨병 특성과 무관하게 이득이 확인됨&#x20;
   * \[고려] 비인슐린 치료 중인 T2DM 성인에서도 CGM 사용을 고려할 수 있음; 기저 인슐린만 사용하는 T2DM 환자에서도 CGM 고려 확대 (ADA 2026)
 * 저혈당이 문제가 되는 경우(예: 저혈당 무감지, 야간 저혈당)에는 간헐 스캔 연속 혈당 측정보다는 알람 기능이 있는 실시간 연속 혈당 측정을 권고
 * 비침습적 포도당 측정 시스템은 정확도가 부족하여 권고할 수 없음 (FDA 미승인)
-
-{% hint style="info" %}
-**CGM 기기 분류 갱신 (ADA 2026 Table 7.3)** — 간헐 스캔 CGM(isCGM)은 최신판에서 별도 범주로 다루지 않고 과거 옵션으로만 언급되며, 현재는 다음 3가지로 분류함: ① **실시간 CGM(rtCGM)** — 처방 필요, 자동 알람·경고 기능 포함; ② **일반의약품 CGM(OTC-CGM)** — 처방 없이 구매 가능하나 알람·경고 기능 없음; ③ **전문가용 CGM(professional CGM)** — 의료기관에서 단기간(맹검 또는 비맹검) 부착 후 회수하여 분석하는 방식.
-{% endhint %}
-
-* 인슐린 치료를 하는 T2DM 성인 환자에서 실시간 연속혈당측정장치 권고 (KDA 2025 업데이트)
-  1. 다회 인슐린 주사 또는 인슐린 펌프를 사용하는 T2DM 환자 — 실시간 CGM 상시적 사용 \[무작위대조군연구, 일반적권고] (✽KDA 2025: 제한적→일반적권고로 상향)
-  2. 기저 인슐린 치료를 하는 T2DM 환자 — 실시간 CGM 상시적 사용 \[무작위대조군연구, 제한적권고] (기존과 동일)
+* 인슐린 치료를 하는 T2DM 성인 환자에서 실시간 연속혈당측정장치 권고
+  1. 다회 인슐린 주사 또는 인슐린 펌프를 사용하는 T2DM 환자 — 실시간 CGM 상시적 사용
+  2. 기저 인슐린 치료를 하는 T2DM 환자 — 실시간 CGM 상시적 사용 \[제한적권고]&#x20;
 
 **CGM 치료 목표 (Time-in-Range, TIR)**
 
@@ -545,7 +540,7 @@ _✽ GI(glycemic index, 당지수)는 동일한 양의 탄수화물을 섭취했
 ### <mark style="color:orange;">Prediabetes (당뇨병전단계)</mark>
 
 * 적극적인 비-약물 치료 시행; 당뇨병 예방을 위해 주 150분 이상 중강도 이상 신체 활동, 과체중/비만 시 체중의 5% 이상 감량·유지
-* **당뇨병전단계 환자의 진행 모니터링은 T2DM뿐 아니라 모든 유형의 당뇨병(T1DM 포함)으로의 진행 가능성을 함께 고려** (ADA 2026 Recommendation 3.1 확대 — 자가항체 양성 등 T1DM 위험 요인이 있는 경우 별도 평가 고려)
+* 당뇨병전단계 환자의 진행 모니터링은 T2DM뿐 아니라 모든 유형의 당뇨병(T1DM 포함)으로의 진행 가능성을 함께 고려&#x20;
 * 과체중/비만인 당뇨병전단계 성인에게 당뇨병 예방을 위해 metformin 사용을 고려할 수 있음 \[제한적권고]
 * 고위험 비만 당뇨병전단계 환자에서는 GLP-1 RA 또는 tirzepatide가 체중 감량 및 T2DM 발생 예방 효과를 보임
 * 매년 당 상태 검사
