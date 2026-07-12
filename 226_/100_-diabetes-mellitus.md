@@ -673,11 +673,9 @@ style R fill:#fde8f0,stroke:#e91e8c
 
 ### <mark style="color:orange;">지질 관리</mark>
 
-#### <mark style="color:$primary;">T2DM 환자에서의 지질 치료 목표 \[대한당뇨병학회]</mark>
+#### <mark style="color:$primary;">T2DM 환자에서의 지질 치료 목표</mark>&#x20;
 
-(☞ 이상지질혈증)
-
-* DM 유병 기간 ＜10년 & 주요 심혈관 질환(CVD) 위험 인자 없음 : LDL-C ＜100 ㎎/㎗
+* DM 유병 기간 ＜10년 & 주요 심혈관 질환(CVD) 위험 인자 없음 : LDL-C ＜100 ㎎/㎗ (☞ [이상지질혈증](../225_/099_-dyslipidemia.md))
 * 심혈관 질환 동반 시 : LDL-C ＜55 ㎎/㎗ & 기저치보다 50% 이상 감소
 * 유병 기간 ≥10년 또는 주요 CVD 위험 인자 or 표적 장기 손상 동반 : LDL-C ＜70 ㎎/㎗
 * 표적 장기 손상 or 주요 CVD 위험 인자 ≥3개 동반 : LDL-C ＜55 ㎎/㎗
@@ -687,15 +685,15 @@ style R fill:#fde8f0,stroke:#e91e8c
 #### <mark style="color:$primary;">모니터링 및 치료</mark>
 
 * 당뇨병 진단 시 및 매년 1회 이상 지질 검사(총콜레스테롤, HDL-C, LDL-C, TG); 약물 치료 4\~12주 후 치료 반응 및 순응도 평가
-* **1차 선택**: statin; LDL-C 목표치 도달을 우선으로 치료
+* 1차 선택 : statin; LDL-C 목표치 도달을 우선으로 치료
 * 심혈관 질환 동반 환자에서 최대 내약 statin에도 목표 미달 시 ezetimibe 추가, 이후에도 미달 시 PCSK9i 병용 고려
-* **Inclisiran(인클리시란)**: PCSK9을 표적으로 하는 siRNA계 약물 — 6개월 간격 투여, LDL-C 49\~52% 감소 효과; 심혈관 질환 위험 감소에 대해서는 추가 근거 필요 (KDA 2025 본문 기술)
-* **statin 치료 중인 환자에서 fibrate, niacin, 또는 ω-3 지방산 보충제를 추가 심혈관 위험 감소 목적으로 병용하는 것은 권고하지 않음** — 추가적인 심혈관 이득이 확인되지 않음 (ADA 2026 Recommendation 10.32 개정; 단, 공복 TG ＞500 ㎎/㎗의 급성 췌장염 예방 목적 사용은 별개의 적응증으로 아래 참조)
+* Inclisiran : PCSK9을 표적으로 하는 siRNA계 약물; 6개월 간격 투여, LDL-C 49\~52% 감소 효과; 심혈관 질환 위험 감소에 대해서는 추가 근거 필요
+* statin 치료 중인 환자에서 fibrate, niacin, 또는 ω-3 지방산 보충제를 추가 심혈관 위험 감소 목적으로 병용하는 것은 권하지 않음 - 추가적인 심혈관 이득이 확인되지 않음 (단, 공복 TG ＞500 ㎎/㎗의 급성 췌장염 예방 목적 사용은 별개의 적응증으로 아래 참조)
 * TG ≥500 ㎎/㎗ 시 원인 검사 및 급성 췌장염 위험 감소를 위해 fenofibrate, ω-3 지방산 약물 치료
 
 #### <mark style="color:$primary;">ASCVD 예방 \[ADA]</mark>
 
-**ASCVD가 없는 당뇨병 환자에서의 1차 예방**
+<mark style="color:cyan;">**ASCVD가 없는 당뇨병 환자에서의 1차 예방**</mark>
 
 * ASCVD가 없는 40\~75세 : 생활 습관 중재에 추가하여 중강도 statin 치료
 * ASCVD 위험 인자가 있는 20\~39세 : 생활 습관 중재에 추가하여 statin 치료를 고려
@@ -703,12 +701,12 @@ style R fill:#fde8f0,stroke:#e91e8c
 * 40\~75세 ASCVD 고위험군(복수의 위험 인자 & LDL ≥70 ㎎/㎗) : 최대 내약 statin & ezetimibe or PCSK9i
 * ＞75세 : 이미 statin 복용 중인 경우 유지; 신규 시작은 이익-위해를 비교하여 결정
 
-**ASCVD 동반 당뇨병 환자에서의 2차 예방**
+<mark style="color:cyan;">**ASCVD 동반 당뇨병 환자에서의 2차 예방**</mark>
 
 * ASCVD와 당뇨병이 있는 모든 연령의 환자 : 생활 습관 중재 및 고강도 statin 치료
 * LDL ≥50% 줄임 & LDL ＜55 ㎎/㎗ 목표; 최대 내약 statin에도 목표 미달 시 ezetimibe or PCSK9i 추가
 
-#### <mark style="color:$primary;">항혈소판제 \[대한당뇨병학회]</mark>
+#### <mark style="color:$primary;">항혈소판제</mark>&#x20;
 
 * 심혈관 질환 동반 환자에서 2차 예방 목적으로 aspirin 100 ㎎/d 사용
 * aspirin 알레르기가 있는 경우 clopidogrel 75 ㎎/d 사용을 고려
@@ -717,16 +715,14 @@ style R fill:#fde8f0,stroke:#e91e8c
 
 ### <mark style="color:orange;">신장 질환 위험 관리</mark>
 
-(☞ [당뇨병 합병증](102_-complications-of-diabetes.md))
-
-* SGLT2i 치료를 시작한 경우 eGFR이 감소하더라도 신대체 요법을 시작하기 전까지 유지
-* 알부민뇨(+), eGFR↓, s-K 정상인 T2DM 환자에서, 당뇨병콩팥병증 진행 억제를 위해 심혈관 및 신장 이익이 입증된 nonsteroidal mineralocorticoid receptor antagonist(finerenone <mark style="color:blue;">\[케렌디아]</mark>)를 권고
+* SGLT2i 치료를 시작한 경우 eGFR이 감소하더라도 신대체 요법을 시작하기 전까지 유지 (☞ [당뇨병 합병증](102_-complications-of-diabetes.md))
+* 알부민뇨(+), eGFR↓, s-K 정상인 T2DM 환자에서, 당뇨병콩팥병증 진행 억제를 위해 심혈관 및 신장 이익이 입증된 nonsteroidal mineralocorticoid receptor antagonist(finerenone)를 권고
 * 심혈관 위험이 높은 T2DM 환자에서, 알부민뇨의 진행 억제를 위해 심혈관 및 신장 이익이 입증된 GLP-1 RA를 권고
-* **진행된 CKD(eGFR <30)** 환자에서는 저혈당 위험이 낮고 심혈관 이벤트 감소 효과가 있어 GLP-1 RA를 선호; 투석 환자에서도 신장 배설에 의존하지 않는 GLP-1 계열 약물은 안전하게 시작·유지 가능(심혈관 위험·사망률 감소 목적) (ADA 2026 Recommendation 9.11)
+* 진행된 CKD(eGFR <30) 환자에서는 저혈당 위험이 낮고 심혈관 이벤트 감소 효과가 있어 GLP-1 RA를 선호; 투석 환자에서도 신장 배설에 의존하지 않는 GLP-1 계열 약물은 안전하게 시작·유지 가능(심혈관 위험·사망률 감소 목적)
 
 ### <mark style="color:orange;">행동/정신 건강 상담</mark>
 
-* 다음의 경우가 확인되거나 의심 시 행동/정신 건강 전문가에게 의뢰를 고려
+* 다음의 경우가 확인되거나 의심 시 행동/정신 건강 전문가에게 의뢰 고려
   * 당뇨병 고통, 우울, 불안, 저혈당 공포, 인지 장애
   * 문란한 식사 행동 또는 식사 패턴, 섭식 장애
   * 약물 투약의 고의적인 누락
@@ -735,21 +731,21 @@ style R fill:#fde8f0,stroke:#e91e8c
   * 당뇨병 자가 관리 행동 수행 능력 저하 또는 장애
   * 조절 지원이 지속적으로 필요한 경우; 비만 또는 대사 수술 시행 전 및 수술 후
 
+***
+
 ## <mark style="color:green;">■ 임신당뇨병 Gestational Diabetes Mellitus (GDM)</mark>
 
 * 임신의 3\~14%에서 발생
-* **GDM의 영향** : 임신고혈압, 분만 시 손상, 난산, 임산부 당뇨병 발생과 관련; 거대아, 신생아 저혈당, 신생아 골절, 신경 손상 등 주산기 합병증 등 유발; 자녀의 비만 및 당뇨병 위험 증가
+* GDM의 영향 : 임신고혈압, 분만 시 손상, 난산, 임산부 당뇨병 발생과 관련; 거대아, 신생아 저혈당, 신생아 골절, 신경 손상 등 주산기 합병증 등 유발; 자녀의 비만 및 당뇨병 위험 증가
 
 ### <mark style="color:orange;">선별 검사 및 진단 기준</mark>
 
 #### <mark style="color:$primary;">첫 번째 산전 진찰</mark>
 
 * 모든 임신부를 대상으로 첫 산전 진찰 시 당뇨 검사(공복 혈당, 무작위 혈당, 또는 A1C) 시행
-* 당뇨병의 일반 기준 적용
+* 당뇨병의 일반 기준 적용&#x20;
 
-{% hint style="info" %}
-첫 산전 방문 검사에서 당뇨병으로 진단되면 임신 전부터 당뇨병이 있었던 것으로 규정한다.
-{% endhint %}
+- [ ] 첫 산전 방문 검사에서 당뇨병으로 진단되면 임신 전부터 당뇨병이 있었던 것으로 규정한다.
 
 #### <mark style="color:$primary;">임신 24\~28주 OGTT</mark>
 
@@ -760,16 +756,17 @@ style R fill:#fde8f0,stroke:#e91e8c
 
 ```mermaid
 graph TD
-    A["[1단계 접근법]<br/>공복 75 g OGTT"]
-    A --> F["다음 중 1가지 이상이면<br/>임신당뇨병 진단:<br/>• 공복: ≥92 ㎎/㎗<br/>• 1시간: ≥180 ㎎/㎗<br/>• 2시간: ≥153 ㎎/㎗"]
-
-    B["[2단계 접근법]<br/>비공복 50 g 포도당 부하 1시간 후"]
-    B -->|"<140 ㎎/㎗"| D(["정상"])
+    A["<u>1단계 접근법</u>]<br/>공복 75 g OGTT"]
+    A --> F["다음 중 1가지 이상이면<br/>임신당뇨병 진단:<br/>•공복: ≥92 ㎎/㎗<br/>•1시간: ≥180 ㎎/㎗<br/>•2시간: ≥153 ㎎/㎗"]
+    B["<u>2단계 접근법</u>]<br/>비공복 50 g 포도당 부하 <br/>1시간 후"]
+    B -->|"<140 ㎎/㎗"| D["정상"]
     B -->|"≥140 ㎎/㎗"| E["공복 100 g OGTT"]
-    E --> G["다음 중 2가지 이상이면<br/>임신당뇨병 진단:<br/>• 공복: ≥95 ㎎/㎗<br/>• 1시간: ≥180 ㎎/㎗<br/>• 2시간: ≥155 ㎎/㎗<br/>• 3시간: ≥140 ㎎/㎗"]
+    E --> G["다음 중 2가지 이상이면<br/>임신당뇨병 진단:<br/>•공복: ≥95 ㎎/㎗<br/>•1시간: ≥180 ㎎/㎗<br/>•2시간: ≥155 ㎎/㎗<br/>•3시간: ≥140 ㎎/㎗"]
+    
 
-    style D fill:#a8d5a2,stroke:#4a7a44
-    style G fill:#f9e4b7,stroke:#c47f00
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class F,G pink
+style D fill:#d0e8ff,stroke:#1a6abf
 ```
 
 <p align="center"><strong>임신당뇨병 진단 알고리듬 (임신 24~28주)</strong></p>
@@ -780,53 +777,53 @@ graph TD
 
 ### <mark style="color:orange;">조절 목표 및 치료</mark>
 
-* **목표 혈당** : 식전 70\~95 ㎎/㎗, 식후 1시간 110\~140 ㎎/㎗, 식후 2시간 100\~120 ㎎/㎗
+* 목표 혈당 : 식전 70\~95 ㎎/㎗, 식후 1시간 110\~140 ㎎/㎗, 식후 2시간 100\~120 ㎎/㎗
   * 공복 또는 식전 혈당보다 식후 혈당 조절에 비중을 둠
-* **목표 A1C** : ＜6% (✽RBC turnover 증가로 비임신 때보다 낮게 측정됨)
-* **저혈당 주의** : T1DM 시 임신 중(특히 1분기) 저혈당 위험이 증가하며, 저혈당 인지가 저하됨; 저혈당 예방을 위하여 필요시 ＜7%를 목표로 관리
-* **탄수화물 제한 식사** : 탄수화물 50%, 단백질 20%, 지방 30%를 고려; 식후 혈당 개선, 태아의 과도한 성장 예방 목적
-* **운동** : 금기 사항이 없는 경우 가벼운 운동 권고; 예) 1일 20\~30분씩 1\~2회 걷기
+* 목표 A1C : ＜6% (✽RBC turnover 증가로 비임신 때보다 낮게 측정됨)
+* 저혈당 주의 : T1DM 시 임신 중(특히 1분기) 저혈당 위험이 증가하며, 저혈당 인지가 저하됨; 저혈당 예방을 위하여 필요시 ＜7%를 목표로 관리
+* 탄수화물 제한 식사 : 탄수화물 50%, 단백질 20%, 지방 30%를 고려; 식후 혈당 개선, 태아의 과도한 성장 예방 목적
+* 운동 : 금기 사항이 없는 경우 가벼운 운동 권고; 예) 1일 20\~30분씩 1\~2회 걷기
   * 운동 금기 : 임신고혈압, 조기양막파열, 조기진통, 자궁경관무력증, 자궁출혈, 자궁내 성장 제한
-* **안저 검사** : 임신 전, 임신 매 석달, 출산 1년 후 안저 검사 권고
-* **항응고제** : 자간전증 예방을 위하여 12\~16주부터 aspirin 100\~150 ㎎/d 투여
+* 안저 검사 : 임신 전, 임신 매 석달, 출산 1년 후 안저 검사 권고
+* 항응고제 : 자간전증 예방을 위하여 12\~16주부터 aspirin 100\~150 ㎎/d 투여
 * prenatal vitamin(folic acid 400 ㎍), potassium iodide 150 ㎎ 권고
 
 #### <mark style="color:$primary;">항당뇨병제</mark>
 
-* **인슐린** : 생활 요법으로 목표 혈당에 도달하기 어려운 경우 인슐린 치료 시행
+* 인슐린 : 생활 요법으로 목표 혈당에 도달하기 어려운 경우 인슐린 치료 시행
   * 출산 직후 인슐린 저항성이 감소하므로 조절이 필요함; 보통 산욕기 첫 수일 동안 50% 감량
 * 임신 중 모든 경구 혈당 강하제는 원칙적으로 금기임; 비교적 새로운 인슐린은 연구 부족
 * 임신 중 metformin 사용의 안전성을 보여주는 증거들이 있으며, 인슐린과 선천성 기형 발생률의 차이가 없다는 보고들이 있음; 인슐린을 사용할 수 없는 경우 metformin을 고려할 수 있음
 
 #### <mark style="color:$primary;">출산 후 관리</mark>
 
-* 당뇨병 또는 당뇨병전단계 산모는 출산 **4\~12주** 후 75 g OGTT **시행을 권고함** \[무작위대조군연구, 일반적권고] (✽KDA 2025: 기존 6\~12주→4\~12주) → 정상인 경우 이후 매년 당뇨병 선별 검사 고려 (\[ADA] 1\~3년마다 검사)
-  * 소수에서 산후 OGTT를 견디지 못하거나 거부하는 경우, 출산 **6\~12개월** 시점의 A1C를 보조적 진단 정보로 고려할 수 있음 — 단, 산욕기 이후에도 RBC turnover 변화가 남아있을 수 있어 해석에 주의가 필요함 (ADA 2026 신규 서술)
+* 당뇨병 또는 당뇨병전단계 산모는 출산 4\~12주 후 75 g OGTT 시행을 권고 → 정상인 경우 이후 매년 당뇨병 선별 검사 고려 (\[ADA] 1\~3년마다 검사)
+  * 소수에서 산후 OGTT를 견디지 못하거나 거부하는 경우, 출산 6\~12개월 시점의 A1C를 보조적 진단 정보로 고려할 수 있음; 단, 산욕기 이후에도 RBC turnover 변화가 남아있을 수 있어 해석에 주의가 필요함
 * prediabetes가 있었던 GDM 병력의 여성은 출산 후 당뇨병 예방을 위하여 엄격한 생활 요법 중재 및 필요시 metformin 투여
 * GDM이 있었던 산모는 대사 위험 요인을 개선시키기 위해 출산 후 체중 조절 및 수유를 권고
+
+***
 
 ## <mark style="color:green;">■ 고령자(≥65세)의 당뇨 관리</mark>
 
 ### <mark style="color:orange;">고령 당뇨병 환자의 당, 혈압, 지질 목표</mark>
 
-<table><thead><tr><th width="220">건강 상태</th><th width="100">A1C 목표</th><th width="120">공복 혈당</th><th width="120">취침 혈당</th><th width="130">혈압</th><th>지질</th></tr></thead><tbody><tr><td><strong>Healthy</strong><br>(동반 만성 질환 거의 없음, 인지 및 신체 기능 양호)</td><td>&#x3C;7.0~7.5%</td><td>80~130 ㎎/㎗</td><td>80~180 ㎎/㎗</td><td>&#x3C;130/80 ㎜Hg</td><td>금기 등이 아니면 Statin 투여</td></tr><tr><td><strong>Complex / Intermediate</strong><br>(≥3개의 만성 질환 동반 or 2+ IADL 장애 or 경도 이상의 인지 장애)</td><td>&#x3C;8.0%</td><td>90~150 ㎎/㎗</td><td>100~180 ㎎/㎗</td><td>&#x3C;130/80 ㎜Hg</td><td>금기 등이 아니면 Statin 투여</td></tr><tr><td><strong>Very complex / Poor health</strong><br>(LTC or 말기 질환 or 중등도 이상의 인지 장애 or 2+ ADL 장애)</td><td>A1C 무관; 고혈당 및 저혈당이 발생하지 않는 수준으로 혈당 조절</td><td>100~180 ㎎/㎗</td><td>110~200 ㎎/㎗</td><td>&#x3C;140/90 ㎜Hg</td><td>이익을 고려하여 statin 결정</td></tr></tbody></table>
+<table><thead><tr><th width="152">건강 상태</th><th width="157">A1C 목표</th><th width="96">공복 혈당 ㎎/㎗</th><th width="100">취침 혈당 ㎎/㎗</th><th width="94">혈압 ㎜Hg</th><th>지질</th></tr></thead><tbody><tr><td><strong>Healthy</strong></td><td>&#x3C;7.0~7.5%</td><td>80~130 </td><td>80~180 </td><td>&#x3C;130/80 </td><td>금기 등이 아니면 Statin 투여</td></tr><tr><td><strong>Complex / Intermediate</strong></td><td>&#x3C;8.0%</td><td>90~150</td><td>100~180</td><td>&#x3C;130/80 </td><td>금기 등이 아니면 Statin 투여</td></tr><tr><td><strong>Very complex / Poor health</strong></td><td>A1C 무관; 고혈당 및 저혈당이 발생하지 않는 수준으로 혈당 조절</td><td>100~180</td><td>110~200</td><td>&#x3C;140/90</td><td>이익을 고려하여 statin 결정</td></tr></tbody></table>
+
+_Healthy : 동반 만성 질환 거의 없음, 인지 및 신체 기능 양호_\
+_Complex / Intermediate : ≥3개의 만성 질환 동반 or 2+ IADL 장애 or 경도 이상의 인지 장애_\
+_Very complex / Poor health : 장기요양 or 말기 질환 or 중등도 이상의 인지 장애 or 2+ ADL 장애_
 
 {% hint style="info" %}
-**고령 당뇨 환자 분류 참고**
+1\. 반복/유의미한 저혈당 또는 치료 부담이 높은 경우 더 낮은 목표를 설정할 수 있음
 
-1\) 반복/유의미한 저혈당 또는 치료 부담이 높은 경우 더 낮은 목표를 설정할 수 있음
+2\. 생활 습관/약물 관리가 필요한 상태 : 관절염, 암, CHF, 우울, 폐기종, 낙상, 고혈압, 요실금, stage 3 이상의 CKD, MI, stroke
 
-2\) 생활 습관/약물 관리가 필요한 상태 : 관절염, 암, CHF, 우울, 폐기종, 낙상, 고혈압, 요실금, stage 3 이상의 CKD, MI, stroke
+3\. ADL(activities of daily living) : 목욕, 옷 입기, 식사, 용변, 이동\
+　IADL(instrumental ADL) : 식사 준비, 장보기, 자금 관리, 전화기 사용, 약물 관리
 
-3\) ADL(activities of daily living) : 목욕, 옷 입기, 식사, 용변, 이동\
-　　IADL(instrumental ADL) : 식사 준비, 장보기, 자금 관리, 전화기 사용, 약물 관리
-
-4\) Stage 3\~4 CHF, 산소 의존 폐질환, 투석이 필요한 CKD, 조절되지 않는 전이성 암
-
-LTC = long term care; K-FRAIL scale 또는 Clinical Frailty Scale(CFS 1\~9)로 노쇠 정도 평가 (KDA 2025 부록 11)
+4\. Stage 3\~4 CHF, 산소 의존 폐질환, 투석이 필요한 CKD, 조절되지 않는 전이성 암
 {% endhint %}
-
-_Ref. ADA Guideline 2025. Table 13.1; KDA 당뇨병 진료지침 제9판. 2025. 표 11.2._
 
 ### <mark style="color:orange;">당뇨 선별 검사</mark>
 
@@ -860,13 +857,11 @@ _Ref. ADA Guideline 2025. Table 13.1; KDA 당뇨병 진료지침 제9판. 2025. 
 
 #### <mark style="color:$primary;">영양</mark>
 
-*   영양 상태 평가
+* 영양 상태 평가
+  * [Mini nutritional assessment](https://www.mna-elderly.com/forms/MNA_korean.pdf)
+  * Short nutritional assessment questionnaire (SNAQ) : 입원 환자 대상
 
-    • [Mini nutritional assessment](https://www.mna-elderly.com/forms/MNA_korean.pdf)
-
-    • Short nutritional assessment questionnaire (SNAQ) : 입원 환자 대상
-
-<table><thead><tr><th width="494">SNAQ 문항</th><th width="160">점수</th></tr></thead><tbody><tr><td>① 의도하지 않은 체중 감소가 있는가?</td><td></td></tr><tr><td>지난 6개월간 >6 ㎏</td><td>3점</td></tr><tr><td>지난 1개월간 >3 ㎏</td><td>2점</td></tr><tr><td>② 지난 1개월간 식욕 저하를 경험했는가?</td><td>1점</td></tr><tr><td>③ 지난 1개월간 supplemental drink 또는 tube feeding을 했는가?</td><td>1점</td></tr></tbody></table>
+<table><thead><tr><th width="494">SNAQ 문항</th><th width="160">점수</th></tr></thead><tbody><tr><td>⓵ 의도하지 않은 체중 감소가 있는가?</td><td></td></tr><tr><td>  지난 6개월간 >6 ㎏</td><td>3점</td></tr><tr><td>  지난 1개월간 >3 ㎏</td><td>2점</td></tr><tr><td>⓶ 지난 1개월간 식욕 저하를 경험했는가?</td><td>1점</td></tr><tr><td>⓷ 지난 1개월간 supplemental drink 또는 tube feeding을 했는가?</td><td>1점</td></tr></tbody></table>
 
 * 판정 : 1점 = 중재 필요 없음, 2점 = 중등도 영양실조; 영양 중재 필요, 3점 = 중증 영양실조; 영양 중재 및 영양사 치료
 * 생활 습관 교정으로 목표 혈당에 도달하지 못한 영양실조의 위험이 있는 환자에 대하여 단순 당의 섭취 제한을 고려
@@ -881,28 +876,28 @@ _Ref. ADA Guideline 2025. Table 13.1; KDA 당뇨병 진료지침 제9판. 2025. 
 * 가능한 한 단순한 요법 선택; 특히 인지 장애, 말기/중증 질환자의 경우 단순한 관리 전략 수립
 * 저혈당 위험이 높은 약제(예: SU, glinides) 사용을 피하며 인슐린은 저용량으로 조절; over-treatment 주의
 * ASCVD 고위험, 심부전, CKD 동반 시 이들 위험을 감소시키는 약제 선택(SGLT2i, GLP-1 RA)
-* **T1DM 고령 환자에서 저혈당을 줄이기 위해 연속 혈당 측정 장치(CGM) 사용을 권고** \[무작위대조군연구, 일반적권고] (KDA 2025)
-* **인슐린 치료를 하는 T2DM 고령 환자에서 혈당 조절을 향상시키고 혈당 변동성을 줄이기 위해 CGM을 고려** \[무작위대조군연구, 제한적권고] (KDA 2025)
-* 즉시 조치 대상: 혈당 <70 ㎎/㎗
-* 가능한 한 빠른 조치 대상: 혈당 70\~100 ㎎/㎗, 24시간 내 >250 ㎎/㎗, 2일 연속 >300 ㎎/㎗; 구토, 증상이 있는 고혈당, 구강 섭취 불량
+* T1DM 고령 환자에서 저혈당을 줄이기 위해 연속 혈당 측정 장치(CGM) 사용을 권고&#x20;
+* 인슐린 치료를 하는 T2DM 고령 환자에서 혈당 조절을 향상시키고 혈당 변동성을 줄이기 위해 CGM을 고려&#x20;
+* 즉시 조치 대상 : 혈당 <70 ㎎/㎗
+* 가능한 한 빠른 조치 대상 : 혈당 70\~100 ㎎/㎗, 24시간 내 >250 ㎎/㎗, 2일 연속 >300 ㎎/㎗; 구토, 증상이 있는 고혈당, 구강 섭취 불량
 
 ### <mark style="color:orange;">소아청소년 T2DM 스크리닝 및 약물 치료</mark>
 
-* **선별 검사 대상**: **10세 이상이거나 사춘기가 시작된 소아청소년이 과체중(BMI 85백분위수 이상)인 경우** 당뇨병 선별 검사 시행 \[전문가의견, 일반적권고] (✽KDA 2025: 기존 '과체중 이상이면서 위험 인자' → 'BMI 85백분위수 이상'으로 기준 구체화·단순화)
-* **혈당 조절 목표: A1C <6.5%** \[전문가의견, 일반적권고] (✽KDA 2025: 기존 <7.0%에서 **<6.5%로 하향**; 국외 주요 진료지침 변경사항과 일치)
-* **진단 즉시 약물 요법을 적극적으로 고려** \[전문가의견, 일반적권고] (✽KDA 2025 신규 강조 — 적극적 조기 약물 치료)
+* 선별 검사 대상 : 10세 이상이거나 사춘기가 시작된 소아청소년이 과체중(BMI 85백분위수 이상)인 경우 당뇨병 선별 검사 시행&#x20;
+* 혈당 조절 목표 : A1C <6.5%
+* 진단 즉시 약물 요법을 적극적으로 고려&#x20;
   * 케톤증/케톤뇨/케토산증이 있거나 A1C ≥8.5%이면 즉시 인슐린 치료
   * 당뇨병 증상이 없고 A1C <8.5%인 경우 metformin 단독 요법으로 치료; 목표 미달 시 기저 인슐린 병용
-* 12세 이상 2형 당뇨병 소아청소년에서 2단계 이상 비만 동반 시 liraglutide 사용 가능 \[무작위대조군연구, 제한적권고]
+* 12세 이상 2형 당뇨병 소아청소년에서 2단계 이상 비만 동반 시 liraglutide 사용 가능
 
-<table><thead><tr><th width="100">종류</th><th width="160">고령 영향</th><th width="260">Stages 3~5 CKD 동반 환자</th><th>CVD 동반 환자</th></tr></thead><tbody><tr><td>Insulin</td><td>저혈당</td><td>clearance↓, 저혈당 위험↑, gastroparesis; 용량 조절, 식후 속효성 인슐린 투여 고려</td><td>TZD 병용 시 체액 저류</td></tr><tr><td>Metformin</td><td>GI 불내성, Vit B12 결핍; 저혈당 없음</td><td>eGFR &#x3C;45 시 시작하지 않으며, 사용 중인 경우 1 g/d로 감량; eGFR &#x3C;30 시 중단; 급성 신 손상 위험 시 중단(조영제, 저혈압, sepsis, shock, hypoxia)</td><td>• 관상동맥질환 환자에서 유익<br>• 중증 CHF에서 회피 (lactic acidosis)</td></tr><tr><td>SU</td><td>저혈당, 체중 증가; glyburide 회피</td><td>• Glyburide: eGFR &#x3C;60 시 회피<br>• Glimepiride: eGFR &#x3C;30 시 회피<br>• Glipizide: eGFR &#x3C;30 시 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>TZD</td><td>골절 증가, 체액 저류, 체중 증가; 저혈당 없음</td><td>체액 저류, 골절 증가; 용량 조절 필요 없음</td><td>• 체액 저류(심부전 악화 위험)<br>• Pioglitazone: CVD mortality↓</td></tr><tr><td>DPP-4i</td><td>저혈당 없음</td><td>• Sitagliptin: eGFR >50 - 100 ㎎/d; eGFR 30~50 - 50 ㎎/d; eGFR &#x3C;30 - 25 ㎎/d<br>• Saxagliptin: eGFR >50 - 2.5~5 ㎎/d; eGFR ≤50 - 2.5 ㎎/d<br>• Alogliptin: eGFR >60 - 25 ㎎/d; eGFR 30~60 - 12.5 ㎎/d; eGFR &#x3C;30 - 6.25 ㎎/d<br>• Linagliptin: 용량 조절 필요 없음</td><td>• Saxagliptin: 심부전 위험↑</td></tr><tr><td>SGLT2i</td><td>탈수; 저혈당 없음; Empagliflozin: 심혈관 사고 및 CKD 진행↓; Canagliflozin: 골절 위험↑</td><td>• Canagliflozin: eGFR 45~60 - 100 ㎎/d; eGFR &#x3C;45 - 회피<br>• Dapagliflozin: eGFR &#x3C;45 - CKD/HF 적응증 시 유지 가능, 혈당 강하 목적은 eGFR &#x3C;45 회피<br>• Empagliflozin: eGFR &#x3C;45 - 회피<br>• Canagliflozin, Dapagliflozin: 급성 신 손상 관련<br>• Empagliflozin, Canagliflozin: CKD 진행↓</td><td>• Empagliflozin, Canagliflozin: 심혈관 사고 및 CHF↓</td></tr><tr><td>AGi</td><td>GI 부작용; 저혈당 없음</td><td>s-Cr >2 ㎎/㎗ 시 회피(연구 부족)</td><td>(AGi = α-Glucosidase inhibitors)</td></tr><tr><td>Glinide</td><td>저혈당; 끼니를 거르는 사람에게 유용</td><td>• Nateglinide: eGFR &#x3C;60 - 중단<br>• Repaglinide: eGFR &#x3C;30 - 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>GLP-1 RA</td><td>GI 부작용; 저혈당 없음</td><td>• Exenatide: eGFR &#x3C;30 - 회피<br>• Liraglutide, Dulaglutide, Semaglutide: 용량 조절 불필요<br>• Lixisenatide: eGFR &#x3C;15 - 회피</td><td>• Liraglutide, Semaglutide: CVD 사고↓</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="110">종류</th><th width="160">고령 영향</th><th width="260">Stages 3~5 CKD 동반 환자</th><th>CVD 동반 환자</th></tr></thead><tbody><tr><td>Insulin</td><td>저혈당</td><td>clearance↓, 저혈당 위험↑, gastroparesis; 용량 조절, 식후 속효성 인슐린 투여 고려</td><td>TZD 병용 시 체액 저류</td></tr><tr><td>Metformin</td><td>GI 불내성, Vit B12 결핍; 저혈당 없음</td><td>eGFR &#x3C;45 시 시작하지 않으며, 사용 중인 경우 1 g/d로 감량; eGFR &#x3C;30 시 중단; 급성 신 손상 위험 시 중단(조영제, 저혈압, sepsis, shock, hypoxia)</td><td>• 관상동맥질환 환자에서 유익<br>• 중증 CHF에서 회피 (lactic acidosis)</td></tr><tr><td>SU</td><td>저혈당, 체중 증가; glyburide 회피</td><td>• Glyburide: eGFR &#x3C;60 시 회피<br>• Glimepiride: eGFR &#x3C;30 시 회피<br>• Glipizide: eGFR &#x3C;30 시 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>TZD</td><td>골절 증가, 체액 저류, 체중 증가; 저혈당 없음</td><td>체액 저류, 골절 증가; 용량 조절 필요 없음</td><td>• 체액 저류(심부전 악화 위험)<br>• Pioglitazone: CVD mortality↓</td></tr><tr><td>DPP-4i</td><td>저혈당 없음</td><td>• Sitagliptin: eGFR >50 - 100 ㎎/d; eGFR 30~50 - 50 ㎎/d; eGFR &#x3C;30 - 25 ㎎/d<br>• Saxagliptin: eGFR >50 - 2.5~5 ㎎/d; eGFR ≤50 - 2.5 ㎎/d<br>• Alogliptin: eGFR >60 - 25 ㎎/d; eGFR 30~60 - 12.5 ㎎/d; eGFR &#x3C;30 - 6.25 ㎎/d<br>• Linagliptin: 용량 조절 필요 없음</td><td>• Saxagliptin: 심부전 위험↑</td></tr><tr><td>SGLT2i</td><td>탈수; 저혈당 없음; Empagliflozin: 심혈관 사고 및 CKD 진행↓; Canagliflozin: 골절 위험↑</td><td>• Canagliflozin: eGFR 45~60 - 100 ㎎/d; eGFR &#x3C;45 - 회피<br>• Dapagliflozin: eGFR &#x3C;45 - CKD/HF 적응증 시 유지 가능, 혈당 강하 목적은 eGFR &#x3C;45 회피<br>• Empagliflozin: eGFR &#x3C;45 - 회피<br>• Canagliflozin, Dapagliflozin: 급성 신 손상 관련<br>• Empagliflozin, Canagliflozin: CKD 진행↓</td><td>• Empagliflozin, Canagliflozin: 심혈관 사고 및 CHF↓</td></tr><tr><td>AGi</td><td>GI 부작용; 저혈당 없음</td><td>s-Cr >2 ㎎/㎗ 시 회피(연구 부족)</td><td>(AGi = α-Glucosidase inhibitors)</td></tr><tr><td>Glinide</td><td>저혈당; 끼니를 거르는 사람에게 유용</td><td>• Nateglinide: eGFR &#x3C;60 - 중단<br>• Repaglinide: eGFR &#x3C;30 - 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>GLP-1 RA</td><td>GI 부작용; 저혈당 없음</td><td>• Exenatide: eGFR &#x3C;30 - 회피<br>• Liraglutide, Dulaglutide, Semaglutide: 용량 조절 불필요<br>• Lixisenatide: eGFR &#x3C;15 - 회피</td><td>• Liraglutide, Semaglutide: CVD 사고↓</td></tr></tbody></table>
 
 ### <mark style="color:orange;">CKD 또는 CVD가 있는 고령 당뇨병 환자에서의 약물 특성</mark>
 
 #### <mark style="color:$primary;">고혈압</mark>
 
 * 1차 선택: ACEI, ARB
-* 고령 당뇨병 환자 목표 혈압: **130/80 ㎜Hg 미만** (KDA 2025 단일 목표로 통일)
+* 고령 당뇨병 환자 목표 혈압: 130/80 ㎜Hg 미만
 * Very complex/Poor health 상태: 혈압 목표 <140/90 ㎜Hg으로 완화 가능; 기립성 저혈압 세심한 모니터링
 
 #### <mark style="color:$primary;">고지혈증</mark>
@@ -917,10 +912,10 @@ _Ref. ADA Guideline 2025. Table 13.1; KDA 당뇨병 진료지침 제9판. 2025. 
 
 #### <mark style="color:$primary;">기타</mark>
 
-* **Congestive heart failure** : 심부전을 악화시킬 수 있는 약제 주의(예: glinides, rosiglitazone, pioglitazone, DPP-4i)
-* **ASCVD** : 출혈 위험에 대한 주의깊은 평가 후 CVD 2차 예방을 위한 저용량 aspirin(75\~162 ㎎/d) 투여 권고
-* **CKD** : 매년 eGFR 및 u-Alb/Cr ratio 검사; 약물 사용 주의
-* **Advanced chronic sensorimotor distal polyneuropathy** : 낙상 위험 주의; 진정, 기립성 저혈압, 저혈당 유발 약제 주의
+* Congestive heart failure : 심부전을 악화시킬 수 있는 약제 주의(예: glinides, rosiglitazone, pioglitazone, DPP-4i)
+* ASCVD : 출혈 위험에 대한 주의깊은 평가 후 CVD 2차 예방을 위한 저용량 aspirin(75\~162 ㎎/d) 투여 권고
+* CKD : 매년 eGFR 및 u-Alb/Cr ratio 검사; 약물 사용 주의
+* Advanced chronic sensorimotor distal polyneuropathy : 낙상 위험 주의; 진정, 기립성 저혈압, 저혈당 유발 약제 주의
 * 균형 및 보행 문제가 있는 peripheral neuropathy 환자 : 물리 치료, 낙상 관리 프로그램 권고
 * peripheral neuropathy &/or peripheral vascular disease 환자 : 의뢰
 * **눈 검진** : 매년 안과 전문의에 의한 포괄적 눈 검진 권고
@@ -929,7 +924,17 @@ _Ref. ADA Guideline 2025. Table 13.1; KDA 당뇨병 진료지침 제9판. 2025. 
 
 ### <mark style="color:red;">질병코드</mark>
 
-<table><thead><tr><th width="130">KCD 코드</th><th>진단명</th></tr></thead><tbody><tr><td>E10</td><td>인슐린-의존 당뇨병 (제1형 당뇨병)</td></tr><tr><td>E11</td><td>비인슐린-의존 당뇨병 (제2형 당뇨병)</td></tr><tr><td>E13</td><td>기타 명시된 당뇨병</td></tr><tr><td>E14</td><td>상세불명의 당뇨병</td></tr><tr><td>O24</td><td>임신 중 당뇨병</td></tr><tr><td>R73.0</td><td>공복혈당장애 / 내당능장애 (당뇨병전단계)</td></tr></tbody></table>
+E10 인슐린-의존 당뇨병 (제1형 당뇨병)
+
+E11 비인슐린-의존 당뇨병 (제2형 당뇨병)
+
+E13 기타 명시된 당뇨병
+
+E14 상세불명의 당뇨병
+
+O24 임신 중 당뇨병
+
+R73.0 공복혈당장애 / 내당능장애 (당뇨병전단계)
 
 ***
 
