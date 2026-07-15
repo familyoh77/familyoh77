@@ -28,7 +28,7 @@
 
 ## ■ 말초동맥질환 (Peripheral Artery Disease, PAD)
 
-### <mark style="color:orange;">임상 양상</mark>
+## <mark style="color:green;">임상 양상</mark>
 
 * 간헐적 파행, 사지 허혈
 * dependent 부위의 적색 피부 변화, 하지 거상 시 창백한 피부, 털 소실, 발톱 퇴행 위축
@@ -52,12 +52,12 @@
 * 간헐적 파행으로 일상생활 제한 시 혈관외과 협진
 * ABI 0.4\~0.9 : 생활습관 교정 후 호전 없으면 혈관 영상 검사
 
-### <mark style="color:orange;">진단</mark>
+## <mark style="color:green;">진단</mark>
 
 * ABI(ankle-brachial index) : 정상 1.0\~1.4, 경계 0.91\~0.99, 비정상 ≤0.9, 중증 <0.4
   * ABI >1.4는 혈관 석회화에 의한 위음성 가능 → 족지-상완지수(TBI) 또는 맥파 측정 추가 권장
 
-### <mark style="color:orange;">치료</mark>
+## <mark style="color:green;">치료</mark>
 
 **항혈소판제**&#x20;
 
@@ -212,13 +212,15 @@ graph TD
 
 ***
 
-## ■ 당뇨망막병증 Diabetic Retinopathy (DR)
+## ■ 당뇨병망막병증 (Diabetic Retinopathy, DR)
 
-* 당뇨와 관련된 비염증성 망막 미세혈관 이상; **성인 실명의 가장 흔한 원인**
-* **기전**: 지속 고혈당 → 망막 모세혈관 기저막 비후 → 혈관 주위 세포 손실 → blood-retina barrier 손상 → 모세혈관 폐쇄·허혈·혈청 누출 → VEGF·cytokine 증가 → 혈관 증식/신생
-* **분류**: 비증식성(NPDR) → 전증식성(preproliferative) → 증식성(PDR)
-* **유병률**: 유병 6\~10년 환자의 20.9%, >15년 환자의 66.7%; T2DM 진단 시 이미 \~20%에서 발생
-* **위험 인자**: 유병 기간, 불량한 혈당 조절(A1C 1% 증가 → 위험도 약 1.4배), 고혈압, 이상지질혈증, 흡연, 신질환, 임신
+
+
+* 당뇨와 관련된 비염증성 망막 미세혈관 이상; 성인 실명의 가장 흔한 원인
+* 기전 : 지속 고혈당 → 망막 모세혈관 기저막 비후 → 혈관 주위 세포 손실 → blood-retina barrier 손상 → 모세혈관 폐쇄·허혈·혈청 누출 → VEGF·cytokine 증가 → 혈관 증식/신생
+* 분류 : 비증식성(NPDR) → 전증식성(preproliferative) → 증식성(PDR)
+* 유병률 : 유병 6\~10년 환자의 20.9%, >15년 환자의 66.7%; T2DM 진단 시 이미 \~20%에서 발생
+* 위험 인자 : 유병 기간, 불량한 혈당 조절(A1C 1% 증가 → 위험도 약 1.4배), 고혈압, 이상지질혈증, 흡연, 신질환, 임신
 
 ### <mark style="color:orange;">선별 검사</mark>
 
@@ -226,21 +228,17 @@ graph TD
 
 #### <mark style="color:$primary;">검사 시작 시기 및 주기</mark>
 
-<table><thead><tr><th width="180">대상</th><th width="220">검사 시작</th><th>추적 주기</th></tr></thead><tbody><tr><td>T1DM</td><td>진단 후 5년 이내</td><td>망막병증(-) + 혈당 양호: <strong>1~2년</strong><br>망막병증(+): 최소 매년 또는 보다 자주</td></tr><tr><td>T2DM</td><td><strong>진단 즉시</strong> [전문가의견, 일반적권고]</td><td>동일</td></tr><tr><td>임신 예정/임신 중</td><td>임신 전 또는 임신 1기</td><td>임신 및 산후 1년간 매 3개월</td></tr></tbody></table>
-
-{% hint style="info" %}
-✽KDA 2025 확인: T2DM 진단 즉시 안저검사; T1DM은 진단 5년 이내. 망막병증 소견 없고 혈당 조절 잘 되면 1\~2년 간격으로 검사 가능 \\
-{% endhint %}
+<table><thead><tr><th width="180">대상</th><th width="220">검사 시작</th><th>추적 주기</th></tr></thead><tbody><tr><td>T1DM</td><td>진단 후 5년 이내</td><td>망막병증(-) + 혈당 양호: 1~2년<br>망막병증(+): 최소 매년 또는 보다 자주</td></tr><tr><td>T2DM</td><td>진단 즉시 </td><td>T1DM과 동일</td></tr><tr><td>임신 예정/임신 중</td><td>임신 전 또는 임신 1기</td><td>임신 및 산후 1년간 매 3개월</td></tr></tbody></table>
 
 ## <mark style="color:green;">치료</mark>
 
-* 최적의 **혈당·혈압·지질 통합 관리**; 금연, 규칙적 운동, 건강 식단 \\
-* **anti-VEGF 유리체내 주입** (center-involved 황반부종이 주 적응증) \[제한적권고]:
+* 최적의 혈당·혈압·지질 통합 관리; 금연, 규칙적 운동, 건강 식단 \\
+* anti-VEGF 유리체내 주입 (center-involved 황반부종이 주 적응증) \[제한적권고]:
   * bevacizumab(off-label), ranibizumab, aflibercept 2 ㎎/8 ㎎, brolucizumab, faricimab
   * faricimab <mark style="color:blue;">\[바이스모]</mark> · aflibercept 8 ㎎: VEGF + Ang-2 동시 억제 또는 고용량 설계 → 최장 16주 간격 투여 가능
-* **증식당뇨망막병증 → 범망막광응고(Pan-retinal photocoagulation)**: 안과 전문의에게 의뢰 \[전문가의견, 일반적권고]; 항-VEGF 유리체 주입술로 대체 가능 \[제한적권고]
-* **당뇨망막병증이 황반부종을 동반한 경우**: 항혈관내피성장인자 또는 덱사메타손 임플란트의 유리체 주입술 시행 \\
-* **Vitrectomy**: traction 망막박리, 유리체 출혈
+* 증식당뇨망막병증 → 범망막광응고(Pan-retinal photocoagulation): 안과 전문의에게 의뢰 \[전문가의견, 일반적권고]; 항-VEGF 유리체 주입술로 대체 가능 \[제한적권고]
+* 당뇨망막병증이 황반부종을 동반한 경우: 항혈관내피성장인자 또는 덱사메타손 임플란트의 유리체 주입술 시행 \\
+* Vitrectomy: traction 망막박리, 유리체 출혈
 * dobesilate: 효과 근거 부족; 250 ㎎ 2T qd\~bid <mark style="color:blue;">\[독시움]</mark>
 
 {% hint style="info" %}
