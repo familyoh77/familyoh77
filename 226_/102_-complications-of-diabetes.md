@@ -11,7 +11,7 @@
 
 ### <mark style="color:orange;">합병증 선별검사 요약</mark>
 
-<table><thead><tr><th width="190.4761962890625">합병증</th><th width="200">T1DM 시작 시기</th><th width="187.6190185546875">T2DM 시작 시기</th><th>추적 주기</th></tr></thead><tbody><tr><td>망막병증</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>1~2년 (이상 소견 시 매년 이상)</td></tr><tr><td>DKD (uACR + eGFR)</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>매년 (중등도 이상 시 연 2회)</td></tr><tr><td>신경병증</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>매년</td></tr><tr><td>발 검사</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>매년 (고위험 시 1~6개월)</td></tr><tr><td>PAD (ABI)</td><td>증상 발현 시; 또는 고위험군* 무증상 선별 고려</td><td>증상 발현 시; 또는 고위험군* 무증상 선별 고려</td><td>증상 변화 시; 고위험군은 정기 추적</td></tr><tr><td>심혈관자율신경병증</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>매년</td></tr></tbody></table>
+<table><thead><tr><th width="190.4761962890625">합병증</th><th width="200">T1DM</th><th width="187.6190185546875">T2DM</th><th>추적 주기</th></tr></thead><tbody><tr><td>망막병증</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>1~2년 (이상 소견 시 매년 이상)</td></tr><tr><td>DKD (uACR + eGFR)</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>매년 (중등도 이상 시 연 2회)</td></tr><tr><td>신경병증</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>매년</td></tr><tr><td>발 검사</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>매년 (고위험 시 1~6개월)</td></tr><tr><td>PAD (ABI)</td><td>증상 발현 시; 또는 고위험군* 무증상 선별 고려</td><td>증상 발현 시; 또는 고위험군* 무증상 선별 고려</td><td>증상 변화 시; 고위험군은 정기 추적</td></tr><tr><td>심혈관자율신경병증</td><td>진단 후 5년 이내</td><td>진단 즉시</td><td>매년</td></tr></tbody></table>
 
 {% hint style="info" %}
 T2DM은 진단 시 이미 수년간의 고혈당 노출이 있을 수 있어 진단 즉시 전반적인 합병증 선별검사를 시작함. T1DM은 발병 연령이 낮아 소아 및 청소년기에는 성인에 비해 일부 검사 시작 시기를 조정할 수 있음 \[KDA 2025].
@@ -37,27 +37,24 @@ T2DM은 진단 시 이미 수년간의 고혈당 노출이 있을 수 있어 진
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* 급성 사지 허혈 (acute limb ischemia): 갑자기 발생한 6P - pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia
+* 급성 사지 허혈 (acute limb ischemia) 증상 - 갑자기 발생한 6P(pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia)
 * 괴저(gangrene) 또는 급속히 진행하는 발 감염
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 안정 시 통증(rest pain), 비치유성 궤양
 * ABI <0.4 또는 측정 불가(중증 석회화)
-* 발목 수축기압 <50 mmHg 또는 족지 수축기압 <30 mmHg
+* 발목 수축기압 <50 ㎜Hg 또는 족지 수축기압 <30 ㎜Hg
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
 
 * 간헐적 파행으로 일상생활 제한 시 혈관외과 협진
-* ABI 0.4\~0.9: 생활습관 교정 후 호전 없으면 혈관 영상 검사
+* ABI 0.4\~0.9 : 생활습관 교정 후 호전 없으면 혈관 영상 검사
 
 ### <mark style="color:orange;">진단</mark>
 
-* **ABI(ankle-brachial index)** 시행: 정상 1.0~~1.4, 경계 0.91~~0.99, 비정상 ≤0.9, 중증 <0.4
-
-{% hint style="info" %}
-ABI >1.4는 혈관 석회화에 의한 위음성 가능 → 족지-상완지수(TBI) 또는 맥파 측정 추가 권장
-{% endhint %}
+* ABI(ankle-brachial index) : 정상 1.0\~1.4, 경계 0.91\~0.99, 비정상 ≤0.9, 중증 <0.4
+  * ABI >1.4는 혈관 석회화에 의한 위음성 가능 → 족지-상완지수(TBI) 또는 맥파 측정 추가 권장
 
 ### <mark style="color:orange;">치료</mark>
 
@@ -179,10 +176,10 @@ graph TD
 
 ### <mark style="color:orange;">고혈압 관리 (CKD 동반)</mark>
 
-* **목표**: **130/80 mmHg 미만** \[KDA 2025 단일 목표; ESPRIT·BPROAD 연구 근거] (✽이전 단백뇨 유무에 따른 이중 기준에서 단일 목표로 통일)
+* **목표**: **130/80** ㎜**Hg 미만** \[KDA 2025 단일 목표; ESPRIT·BPROAD 연구 근거] (✽이전 단백뇨 유무에 따른 이중 기준에서 단일 목표로 통일)
   * ✽대한고혈압학회 "고혈압 진료지침 2026"(제6판)도 만성콩팥병(단백뇨 여부 무관) 동반 환자의 목표혈압을 동일하게 130/80 ㎜Hg 미만으로 강화하여, 두 학회 권고가 일치함
   * 고령·노쇠 환자는 기립성 저혈압 위험 고려하여 개별화
-  * \[ADA 2026] 심혈관·신장 고위험 시 수축기 혈압 **<120 mmHg** 권장 - KDA 2025보다 더 엄격한 기준으로, 뇌졸중·심근경색 위험이 매우 높은 환자에서 적용 고려 (Recommendation 10.4)
+  * \[ADA 2026] 심혈관·신장 고위험 시 수축기 혈압 **<120** ㎜**Hg** 권장 - KDA 2025보다 더 엄격한 기준으로, 뇌졸중·심근경색 위험이 매우 높은 환자에서 적용 고려 (Recommendation 10.4)
 * **1차 약물**: ACEI 또는 ARB
   * 중등도 알부민뇨(uACR 30\~299 ㎎/g) → 권고; 심한 알부민뇨(≥300 ㎎/g) &/or eGFR <60 → 강력 권고
   * **정상 혈압이라도 알부민뇨(uACR ≥30 ㎎/g)가 있으면 신장 보호 목적으로 ACEI/ARB 사용 고려** \[KDA 2025]
