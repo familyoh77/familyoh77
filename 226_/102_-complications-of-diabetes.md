@@ -222,106 +222,113 @@ graph TD
 * 유병률 : 유병 6\~10년 환자의 20.9%, >15년 환자의 66.7%; T2DM 진단 시 이미 \~20%에서 발생
 * 위험 인자 : 유병 기간, 불량한 혈당 조절(A1C 1% 증가 → 위험도 약 1.4배), 고혈압, 이상지질혈증, 흡연, 신질환, 임신
 
-### <mark style="color:orange;">선별 검사</mark>
+## <mark style="color:green;">임상 양상</mark>
 
-안과 전문의에 의해 산동(동공 확대) 후 안저검사를 포함한 포괄적 검사 시행
-
-#### <mark style="color:$primary;">검사 시작 시기 및 주기</mark>
-
-<table><thead><tr><th width="180">대상</th><th width="220">검사 시작</th><th>추적 주기</th></tr></thead><tbody><tr><td>T1DM</td><td>진단 후 5년 이내</td><td>망막병증(-) + 혈당 양호: 1~2년<br>망막병증(+): 최소 매년 또는 보다 자주</td></tr><tr><td>T2DM</td><td>진단 즉시 </td><td>T1DM과 동일</td></tr><tr><td>임신 예정/임신 중</td><td>임신 전 또는 임신 1기</td><td>임신 및 산후 1년간 매 3개월</td></tr></tbody></table>
-
-## <mark style="color:green;">치료</mark>
-
-* 최적의 혈당·혈압·지질 통합 관리; 금연, 규칙적 운동, 건강 식단 \\
-* anti-VEGF 유리체내 주입 (center-involved 황반부종이 주 적응증) \[제한적권고]:
-  * bevacizumab(off-label), ranibizumab, aflibercept 2 ㎎/8 ㎎, brolucizumab, faricimab
-  * faricimab <mark style="color:blue;">\[바이스모]</mark> · aflibercept 8 ㎎: VEGF + Ang-2 동시 억제 또는 고용량 설계 → 최장 16주 간격 투여 가능
-* 증식당뇨망막병증 → 범망막광응고(Pan-retinal photocoagulation): 안과 전문의에게 의뢰 \[전문가의견, 일반적권고]; 항-VEGF 유리체 주입술로 대체 가능 \[제한적권고]
-* 당뇨망막병증이 황반부종을 동반한 경우: 항혈관내피성장인자 또는 덱사메타손 임플란트의 유리체 주입술 시행 \\
-* Vitrectomy: traction 망막박리, 유리체 출혈
-* dobesilate: 효과 근거 부족; 250 ㎎ 2T qd\~bid <mark style="color:blue;">\[독시움]</mark>
-
-{% hint style="info" %}
-✽ aspirin은 망막출혈 위험을 증가시키지 않으므로 당뇨망막병증은 aspirin 투여의 금기가 아님
-{% endhint %}
-
-{% hint style="warning" %}
-⚠️ **Early worsening (초기 악화 현상)**: 혈당이 급격히 개선되면(예: 인슐린 강화 요법 시작, GLP-1 RA 투여 초기) 처음 수개월 동안 망막병증이 일시적으로 악화될 수 있음. SUSTAIN-6, LEADER 시험에서 보고됨. GLP-1 RA 시작 또는 혈당 조절을 급격히 강화하기 전 안과 사전 평가를 권고하며, 시작 후 3\~6개월 내 추적 검사 계획 수립 \[ADA 2025].
-{% endhint %}
-
-{% hint style="info" %}
-**GLP-1 RA와 눈 건강 - 상반된 근거 (ADA 2026)**: liraglutide·semaglutide·dulaglutide는 무작위연구에서 당뇨망막병증의 경미한 악화와 연관되었다는 보고가 있는 한편, 비동맥염성 앞허혈시신경병증(NAION)·녹내장·신생혈관 나이관련황반변성(AMD)과의 연관성도 제기되었으나 연구 간 결과가 일치하지 않아 단정할 수 없음. GLP-1 RA 치료 전후 안과적 위험 요인을 개별화하여 평가할 것을 권고.
-
-**DCCT/EDIC 40년 추적 (ADA 2026 서문 신설)**: 40년째 추적한 DCCT/EDIC 연구는 초기 집중 혈당 관리가 이후 수십 년간의 망막병증·신장병증 진행을 지속적으로 낮추는 'metabolic memory(대사 기억)' 효과를 재확인함 - 진단 초기 적극적 혈당 관리의 장기적 근거로 활용 가능.
-{% endhint %}
+* 초기(경증\~중등도 NPDR)에는 대부분 무증상 - 자각 증상이 나타날 때는 이미 진행된 경우가 많아 정기 선별검사가 필수적
+* 진행 시 증상 : 비문증(floaters), 시야 흐림·왜곡(황반부종 동반 시), 야간 시력 저하
+* 진행성 병변(PDR, 유리체출혈, 망막박리)에서는 급격한 시력 저하·시야 결손 발생 가능
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* 갑작스러운 시력 소실 (유리체 출혈, 망막박리 의심)
+* 갑작스러운 시력 소실 → 유리체 출혈, 망막박리
 * 대량 유리체 출혈
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 신생혈관 발견(PDR), 황반부종 의심 시력 저하
-* 안압 상승 동반 (신생혈관 녹내장)
+* 안압 상승 동반 → 신생혈관 녹내장
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
 
-* 증식성 전단계(preproliferative DR) 발견 → 안과 조기 추적
-* 혈당·혈압 조절 악화 시 추적 주기 단축
+* 증식성 전단계(preproliferative DR) 발견
+* 혈당·혈압 조절 악화
+
+## <mark style="color:green;">진단 - 선별검사</mark>
+
+* 안과 전문의에 의한 산동(동공 확대) 후 안저검사를 포함한 포괄적 검사
+* 비산동(nondilated) 망막 사진 촬영 및 판독 - 안과 접근이 어려운 지역에서 적절한 대안적 선별 전략
+  * 사진 판독은 훈련된 안과 전문 인력, reading center 판독 기술자, 또는 FDA 등에서승인된 AI 프로그램으로 시행 가능. 단, 망막 사진 촬영 및 판독은 포괄적 산동 안과 검진의 완전한 대체가 아님 - 사진 품질이 불량하거나 이상 소견이 발견되면 반드시 포괄적 검진으로 의뢰
+
+#### <mark style="color:$primary;">검사 시작 시기 및 주기</mark>
+
+<table><thead><tr><th width="180">대상</th><th width="220">검사 시작</th><th>추적 주기</th></tr></thead><tbody><tr><td>T1DM</td><td>진단 후 5년 이내</td><td>망막병증(-) + 혈당 양호 : 1~2년<br>망막병증(+) : 최소 매년 또는 더 자주</td></tr><tr><td>T2DM</td><td>진단 즉시 </td><td>(상동)</td></tr><tr><td>임신 예정/임신 중</td><td>임신 전 또는 임신 1기</td><td>임신 및 산후 1년간 매 3개월</td></tr></tbody></table>
+
+## <mark style="color:green;">치료</mark>
+
+* 최적의 혈당·혈압·지질 통합 관리; 금연, 규칙적 운동, 건강 식단&#x20;
+* anti-VEGF 유리체내 주입 (center-involved 황반부종이 주 적응증) \[제한적권고]
+  * bevacizumab(off-label) <mark style="color:blue;">\[아바스틴]</mark>, ranibizumab <mark style="color:blue;">\[루센티스]</mark>, aflibercept <mark style="color:blue;">\[아일리아]</mark>, brolucizumab <mark style="color:blue;">\[비오뷰]</mark>, faricimab <mark style="color:blue;">\[바이스모]</mark>
+  * faricimab · aflibercept 8 ㎎ : VEGF + Ang-2 동시 억제 또는 고용량 설계 → 최장 16주 간격 투여 가능
+* 증식당뇨망막병증 : 범망막광응고(Pan-retinal photocoagulation) - 안과 전문의 의뢰; anti-VEGF 유리체 주입술로 대체 가능 \[제한적권고]
+* 당뇨망막병증 + 황반부종 : 항혈관내피성장인자 또는 덱사메타손 임플란트의 유리체 주입술 시행
+* Vitrectomy : traction 망막박리, 유리체 출혈
+* Dobesilate : 효과 근거 부족; 250 ㎎ 2T qd\~bid <mark style="color:blue;">\[독시움]</mark>
+
+{% hint style="info" %}
+Aspirin은 망막출혈 위험을 증가시키지 않으므로 당뇨망막병증은 aspirin 투여의 금기가 아님
+{% endhint %}
+
+{% hint style="warning" %}
+혈당이 급격히 개선되면(예: 인슐린 강화 요법 시작, GLP-1 RA 투여 초기) 처음 수개월 동안 망막병증이 일시적으로 악화될 수 있음(**Early worsening, 초기 악화 현상**).&#x20;
+
+GLP-1 RA 시작 또는 혈당 조절을 급격히 강화하기 전 안과 사전 평가를 권고하며, 시작 후 3\~6개월 내 추적 검사 계획 수립.
+{% endhint %}
+
+{% hint style="info" %}
+**GLP-1 RA와 눈 건강 - 상반된 근거** : liraglutide·semaglutide·dulaglutide는 무작위연구에서 당뇨망막병증의 경미한 악화와 연관되었다는 보고가 있는 한편, 비동맥염성 앞허혈시신경병증(NAION)·녹내장·신생혈관 나이관련황반변성(AMD)과의 연관성도 제기되었으나 연구 간 결과가 일치하지 않아 단정할 수 없음. GLP-1 RA 치료 전후 안과적 위험 요인을 개별화하여 평가할 것을 권고  \[ADA 2026].
+
+**DCCT/EDIC 40년 추적 연구**에서 초기 집중 혈당 관리가 이후 수십 년간의 망막병증·신장병증 진행을 지속적으로 낮추는 'metabolic memory(대사 기억)' 효과를 재확인함 - 진단 초기 적극적 혈당 관리의 장기적 근거로 활용 가능 \[ADA 2026].
+{% endhint %}
 
 ***
 
 ## ■ 당뇨병신경병증 Diabetic Neuropathy
 
-* **당뇨병의 가장 흔한 합병증**; T1DM >20년 환자의 >20%, T2DM 발병 10년 후 50%에서 발생
-* 통증·감각 이상, 부상·낙상 위험 증가, **발 궤양의 가장 중요한 원인**
-* 여러 아형 중 \*\*원위 대칭성 다발성신경병증(DSPN; 75%)\*\*과 자율신경병증이 가장 흔함; 통상 '당뇨병신경병증'은 DSPN 의미
-* 당뇨병 말초신경병증 환자의 \~50%는 **무증상** → 선별 검사와 예방적 발 관리 필수
-* **위험 인자**: 불량한 혈당 조절, 긴 유병 기간, 고혈압, 고지혈증, 흡연, 음주, 비만, 다약제
+
+
+* 당뇨병의 가장 흔한 합병증 - T1DM >20년 환자의 >20%, T2DM 발병 10년 후 50%에서 발생
+* 통증·감각 이상, 부상·낙상 위험 증가, 발 궤양의 가장 중요한 원인
+* 여러 아형 중 원위 대칭성 다발성신경병증(Distal symmetrical polyneuropathy, DSPN; 75%)과 자율신경병증이 가장 흔함; 통상 '당뇨병신경병증'은 DSPN을 의미
+* 당뇨병 말초신경병증 환자의 \~50%는 무증상 - 선별 검사와 예방적 발 관리 필수
+* 위험 인자 : 불량한 혈당 조절, 긴 유병 기간, 고혈압, 고지혈증, 흡연, 음주, 비만, 다약제
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* **소섬유 침범**: 통증(burning, lancinating, tingling, electric shock), 통각과민, 온도 감각 저하 → 특히 밤에 심화; 환자의 25%에서 초기 증상
-* **대섬유 침범**: numbness, 진동·고유 수용 감각 저하; "두꺼운 양말을 신고 걷는 것 같다"; 소섬유 증상 이후 발생
+* 소섬유 침범 : 통증(burning, lancinating, tingling, electric shock), 통각과민, 온도 감각 저하 - 특히 밤에 심화; 환자의 25%에서 초기 증상으로 나타남
+* 대섬유 침범 : numbness, 진동·고유 수용 감각 저하 - "두꺼운 양말을 신고 걷는 것 같다"; 소섬유 증상 이후 발현
 * 발에서 시작 → stocking-and-glove 패턴으로 근위부로 수개월\~수년에 걸쳐 진행
 
 ## <mark style="color:green;">진단</mark>
 
 다음 3단계로 접근; 당뇨병신경병증과 일치하는 특징 확인 + 다른 원인 배제
 
-**① 병력 청취**: MNSI 설문지, 증상 부위·성격·야간 악화 여부 확인
-
-**② 신경계 진찰**
-
-* 소섬유: 온도(냉/온) 감각, pinprick 감각
-* 대섬유: ankle reflex, 128 Hz tuning fork 진동 감각, 10-g monofilament, proprioception
-  * **Ipswich touch test**: 검사자가 검지 손가락 끝으로 양발 각 3부위(제1·3·5족지 끝, 엄지발가락 등)를 약 1\~2초씩 가볍게 접촉; 10-g monofilament에 준하는 감별력을 가지면서 별도 도구가 필요 없어 자원이 제한된 1차 진료 환경에서 유용함 (ADA 2026 - 신경계 진찰 및 발 관리 섹션 모두에서 monofilament의 대안으로 명시)
-
-**③ 보조 검사 (옵션)**
-
-* 혈액: 혈당/A1C, CBC, 전해질, 간 기능, Vit B9·**B12**, TFT, ANA, RF, HIV, Hepatitis B/C, cryoglobulin
+1. 병력 청취 : MNSI 설문지, 증상 부위·성격·야간 악화 여부 확인
+2. 신경계 진찰
+   * 소섬유 : 온도(냉/온) 감각, pinprick 감각
+   * 대섬유 : ankle reflex, 128 Hz tuning fork 진동 감각, 10-g monofilament, proprioception
+     * [ ] Ipswich touch test : 검사자가 검지 손가락 끝으로 양발 각 3부위(제1·3·5족지 끝, 엄지발가락 등)를 약 1\~2초씩 가볍게 접촉; 10-g monofilament에 준하는 감별력을 가지면서 별도 도구가 필요 없어 자원이 제한된 1차 진료에서 유용 - 신경계 진찰 및 발 관리에서 monofilament의 대안 \[ADA 2026]
+3. 보조 검사 (옵션)
+   * 혈액 : 혈당/A1C, CBC, 전해질, 간 기능, Vit B9·B12, TFT, ANA, RF, HIV, Hepatitis B/C, cryoglobulin
+   * 신경전도/근전도 : 진폭 감소, 전도 속도 지연 (소섬유만 침범 시 음성 가능)
+   * 자율신경 기능 검사(안정 빈맥, 기립성 저혈압, 위마비, 발한 이상 시), 요역동학 검사; 심혈관자율신경병증 검사, 위장관계자율신경기능검사, 발한 검사 등 해당 증상 동반 시 시행 \[제한적권고]
+     * [ ] 기립성 저혈압 확인 시 약물 유발 원인을 반드시 먼저 감별 - 항고혈압제(특히 이뇨제, α-차단제), 삼환계 항우울제 등도 기립 저혈압을 유발하거나 악화시킬 수 있으므로 복약력을 확인하고, 가능하면 원인 약물 조정 후 재평가 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
 
 {% hint style="info" %}
-**Metformin 장기 복용과 Vit B12 결핍**: Metformin은 장기 복용 시 회장에서 Vit B12 흡수를 억제하여 결핍을 유발할 수 있음. ADA 2025는 metformin 장기 복용 환자에서 Vit B12 결핍 선별검사를 권고함. 말초신경병증 증상이 있는 경우 반드시 확인; 결핍 시 경구 또는 근육 주사 보충 후 신경병증 증상이 일부 호전될 수 있음.
+**Metformin 장기 복용과 Vit B12 결핍** : Metformin은 장기 복용 시 회장에서 Vit B12 흡수를 억제하여 결핍을 유발할 수 있음. metformin 장기 복용 환자에서 Vit B12 결핍 선별검사를 권고. 말초신경병증 증상이 있는 경우 반드시 확인; 결핍 시 경구 또는 근육 주사 보충 후 신경병증 증상이 일부 호전될 수 있음.
 {% endhint %}
 
-* 신경전도/근전도: 진폭 감소, 전도 속도 지연 (소섬유만 침범 시 음성 가능)
-* 자율신경 기능 검사(안정 빈맥, 기립 저혈압, 위마비, 발한 이상 시), 요역동학 검사; **심혈관자율신경병증 검사, 위장관계자율신경기능검사, 발한 검사** 등 해당 증상 동반 시 시행 \[전문가의견, 제한적권고]
-  * **기립 저혈압 확인 시 약물 유발 원인을 반드시 먼저 감별**: 항고혈압제(특히 이뇨제, α-차단제), 삼환계 항우울제 등도 기립 저혈압을 유발하거나 악화시킬 수 있으므로 복약력을 확인하고, 가능하면 원인 약물 조정 후 재평가
+### <mark style="color:orange;">선별검사</mark>
 
-#### <mark style="color:$primary;">선별 검사 시기 및 방법 (KDA 2025)</mark>
-
-* T1DM: 진단 후 5년째부터 매년; T2DM: 진단 즉시 & 이후 매년 \[전문가의견, 일반적권고]
-* **선별 방법**: 당뇨병신경병증 설문(MNSIQ)과 신경계 진찰(진동 감각 검사, 발목 반사 검사, 10 g 모노필라멘트 검사 및 바늘찌름 검사, 온도 감각 검사) \[전문가의견, 일반적권고]
+* T1DM : 진단 후 5년째부터 매년; T2DM: 진단 즉시 & 이후 매년
+* 검사 방법 : 당뇨병신경병증 설문(MNSIQ)과 신경계 진찰(진동 감각 검사, 발목 반사 검사, 10 g 모노필라멘트 검사 및 바늘찌름 검사, 온도 감각 검사)
 
 #### <mark style="color:$primary;">Michigan Neuropathy Screening Instrument (MNSI)</mark>
 
-**1. 설문지 (Questionnaire)** - 총 13점 만점
+1\. 설문지 - 총 13점 만점
 
-<table><thead><tr><th width="40">번호</th><th>문항</th><th width="55">예</th><th width="65">아니오</th></tr></thead><tbody><tr><td>①</td><td>발 또는 다리에 저린 느낌이 있습니까?</td><td>예</td><td>아니오</td></tr><tr><td>②</td><td>발 또는 다리에 화끈거리는 통증을 느낀 적이 있습니까?</td><td>예</td><td>아니오</td></tr><tr><td>③</td><td>발에 무엇이 닿을 때 과민하게 느낍니까?</td><td>예</td><td>아니오</td></tr><tr><td>④</td><td>발 또는 다리에 갑자기 쥐가 납니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑤</td><td>발 또는 다리에 찌르는 듯한 느낌을 받은 적이 있습니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑥</td><td>피부에 이불이 닿을 때 아픔을 느낍니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑦</td><td>목욕할 때 뜨거운 물과 차가운 물을 구분할 수 있습니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑧</td><td>발에 까진 상처가 생긴 적이 있습니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑨</td><td>의사로부터 '당뇨병신경병증'이라는 진단을 받은 적이 있습니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑩</td><td>다리나 발에 마비가 있습니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑪</td><td>다리나 발의 증상이 밤에 더 심해집니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑫</td><td>걸을 때 다리가 아픕니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑬</td><td>걸을 때 발의 감각을 느낄 수 있습니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑭</td><td>발의 피부가 너무 건조해서 자주 갈라집니까?</td><td>예</td><td>아니오</td></tr><tr><td>⑮</td><td>발이나 발가락을 절단하는 수술을 받은 적이 있습니까?</td><td>예</td><td>아니오</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="552.71435546875">문항</th><th width="55"></th><th width="73.5714111328125"></th></tr></thead><tbody><tr><td><ol><li>발 또는 다리에 저린 느낌이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="2"><li>발 또는 다리에 화끈거리는 통증을 느낀 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="3"><li>발에 무엇이 닿을 때 과민하게 느낍니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="4"><li>발 또는 다리에 갑자기 쥐가 납니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="5"><li>발 또는 다리에 찌르는 듯한 느낌을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="6"><li>피부에 이불이 닿을 때 아픔을 느낍니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="7"><li>목욕할 때 뜨거운 물과 차가운 물을 구분할 수 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="8"><li>발에 까진 상처가 생긴 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="9"><li>의사로부터 '당뇨병신경병증'이라는 진단을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="10"><li>다리나 발에 마비가 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="11"><li>다리나 발의 증상이 밤에 더 심해집니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="12"><li>걸을 때 다리가 아픕니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="13"><li>걸을 때 발의 감각을 느낄 수 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="14"><li>발의 피부가 너무 건조해서 자주 갈라집니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="15"><li>발이나 발가락을 절단하는 수술을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr></tbody></table>
 
 {% hint style="info" %}
 **채점**: ⑦·⑬번 '아니오'=1점, 나머지 '예'=1점. ④·⑩번은 혈관계 증상에 해당하므로 **총점에서 제외** (실질 13점 만점).
