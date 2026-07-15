@@ -300,6 +300,23 @@ GLP-1 RA 시작 또는 혈당 조절을 급격히 강화하기 전 안과 사전
 * 대섬유 침범 : numbness, 진동·고유 수용 감각 저하 - "두꺼운 양말을 신고 걷는 것 같다"; 소섬유 증상 이후 발현
 * 발에서 시작 → stocking-and-glove 패턴으로 근위부로 수개월\~수년에 걸쳐 진행
 
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
+
+* 갑자기 발생한 비대칭 신경병증 → 뇌졸중, 혈관 손상
+* 급격한 체중 감소와 동반된 심한 통증 → 당뇨병 신경통증성 악액질
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 발 궤양 또는 감염 동반
+* 심한 기립 저혈압, 실신, 위마비 → 자율신경병증&#x20;
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+
+* 통증 조절 안 됨
+* 무증상 신경병증 발견&#x20;
+
 ## <mark style="color:green;">진단</mark>
 
 다음 3단계로 접근; 당뇨병신경병증과 일치하는 특징 확인 + 다른 원인 배제
@@ -324,60 +341,44 @@ GLP-1 RA 시작 또는 혈당 조절을 급격히 강화하기 전 안과 사전
 * T1DM : 진단 후 5년째부터 매년; T2DM: 진단 즉시 & 이후 매년
 * 검사 방법 : 당뇨병신경병증 설문(MNSIQ)과 신경계 진찰(진동 감각 검사, 발목 반사 검사, 10 g 모노필라멘트 검사 및 바늘찌름 검사, 온도 감각 검사)
 
-#### <mark style="color:$primary;">Michigan Neuropathy Screening Instrument (MNSI)</mark>
+#### <mark style="color:$primary;">Michigan Neuropathy Screening Instrument</mark>&#x20;
+
+1. <mark style="color:cyan;">**Questionnaire**</mark>
 
 <table data-header-hidden data-search="false"><thead><tr><th width="552.71435546875">문항</th><th width="55"></th><th width="73.5714111328125"></th></tr></thead><tbody><tr><td><ol><li>발 또는 다리에 저린 느낌이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="2"><li>발 또는 다리에 화끈거리는 통증을 느낀 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="3"><li>발에 무엇이 닿을 때 과민하게 느낍니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="4"><li>발 또는 다리에 갑자기 쥐가 납니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="5"><li>발 또는 다리에 찌르는 듯한 느낌을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="6"><li>피부에 이불이 닿을 때 아픔을 느낍니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="7"><li>목욕할 때 뜨거운 물과 차가운 물을 구분할 수 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="8"><li>발에 까진 상처가 생긴 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="9"><li>의사로부터 '당뇨병신경병증'이라는 진단을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="10"><li>다리나 발에 마비가 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="11"><li>다리나 발의 증상이 밤에 더 심해집니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="12"><li>걸을 때 다리가 아픕니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="13"><li>걸을 때 발의 감각을 느낄 수 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="14"><li>발의 피부가 너무 건조해서 자주 갈라집니까?</li></ol></td><td>예</td><td>아니오</td></tr><tr><td><ol start="15"><li>발이나 발가락을 절단하는 수술을 받은 적이 있습니까?</li></ol></td><td>예</td><td>아니오</td></tr></tbody></table>
 
-* 배점: 7\~13번 '아니오'=1점, 나머지 '예'=1점. 4번과10번은 혈관계 증상에 해당하므로 총점에서 제외 (실질 13점 만점)
-* 판정 : ≥2점 → 신경병증 의심; ≥7점 → 신경병증 시사 _(대한당뇨병학회 2023 진료지침에서는 ≥4점으로 기술)_
+* 배점 : 7번과 13번 '아니오'=1점, 나머지 '예'=1점; 4번(순환장애)과 10번(전신 쇠약감)은 신경병증과 무관하여 채점에서 제외 (13점 만점)
+* 판정 : 설문 ≥7점 → 신경병증 시사
 
-**2. 신체검사 (Examination)** - 총 10점 만점
+2. <mark style="color:cyan;">**신체검사 (Examination)**</mark>&#x20;
 
-<table><thead><tr><th width="200">검사 항목</th><th width="200">좌측</th><th>우측</th></tr></thead><tbody><tr><td>① 발의 외형 (변형/건조 피부/굳은살/감염/열창)</td><td>정상=0 / 비정상=1</td><td>정상=0 / 비정상=1</td></tr><tr><td>② 발 궤양</td><td>정상=0 / 비정상=1</td><td>정상=0 / 비정상=1</td></tr><tr><td>③ 발목 반사</td><td>있음=0 / 약함=0.5 / 없음=1</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr><tr><td>④ 엄지발가락 진동 감각*</td><td>있음=0 / 약함=0.5 / 없음=1</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr><tr><td>⑤ 10 g 모노필라멘트**</td><td>있음=0 / 약함=0.5 / 없음=1</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr></tbody></table>
+<table><thead><tr><th width="379.047607421875">검사 항목</th><th width="229.5238037109375">좌측/우측 각각</th></tr></thead><tbody><tr><td>1. 발의 외형 (변형/건조 피부/굳은살/감염/열창)</td><td>정상=0 / 비정상=1</td></tr><tr><td>2. 발 궤양</td><td>정상=0 / 비정상=1</td></tr><tr><td>3. 발목 반사</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr><tr><td>4. 엄지발가락 진동 감각¹⁾</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr><tr><td>5. 10 g 모노필라멘트²⁾</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr></tbody></table>
 
-**판정**: >2점(10점 만점) 시 신경병증 시사
+&#x20; _¹⁾ 엄지발가락 진동 감각 : 128 Hz tuning fork를 DIP 뼈 돌출부에 대고, 환자가 진동이 멈췄다고 할 때 즉시 검사자 손가락 관절에 대어 잔여 진동 시간이 ≤10초 시 '있음', >10초 시 '약함'; 환자가 처음부터 진동을 감지하지 못하면 '없음'._\
+&#x20; _²⁾ 10 g 모노필라멘트 : 눈을 감은 상태로 엄지발가락 dorsum nail fold\~DIP joint 사이에 수직으로 ≤1초 적용. 10번 시도 중 8번 이상 '예' → 정상, 1\~7번 → 감소, 0번 → 없음; 발 온도 >30℃ 상태에서 시행._
 
-{% hint style="info" %}
-\***엄지발가락 진동 감각**: 128 Hz tuning fork를 DIP 뼈 돌출부에 대고, 환자가 진동 멈췄다 하면 검사자 손가락 관절에 옮겨 대어 ≤10초 → '있음', >10초 → '약함', 처음부터 감지 못하면 '없음'.
-
-\*\***10 g 모노필라멘트**: 눈 감은 상태로 엄지발가락 dorsum nail fold~~DIP joint 사이에 수직으로 ≤1초 적용. 10번 시도 중 8번 이상 '예' → 정상; 1~~7번 → 감소; 0번 → 없음. 발 온도 >30℃ 상태에서 시행.
-{% endhint %}
-
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
-
-* 갑자기 발생한 비대칭 신경병증 (뇌졸중, 혈관 손상 배제)
-* 급격한 체중 감소와 동반된 심한 통증 (당뇨병 신경통증성 악액질 의심)
-
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
-
-* 발 궤양 또는 감염 동반 (당뇨 발 팀 의뢰)
-* 자율신경병증 – 심한 기립 저혈압, 실신, 위마비
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
-
-* 통증 조절 안 될 때 → 신경과/통증 전문가 의뢰
-* 무증상 신경병증 발견 시 발 관리 집중 교육 및 추적 단축
+* 판정 : >2점(10점 만점) 시 신경병증 시사
 
 ## <mark style="color:green;">치료</mark>
 
-* 철저한 **혈당 조절** (근본 치료; 신경 손상 진행 억제) - 1형 당뇨병에서 말초신경병증 및 심혈관자율신경병증의 발생을 예방하거나 진행을 지연시킴; 2형 당뇨병에서도 발생과 진행을 지연 \\
+* 철저한 혈당 조절 (근본 치료) - 1형 당뇨병에서 말초신경병증 및 심혈관자율신경병증의 발생을 예방하거나 진행을 지연시킴; 2형 당뇨병에서도 발생과 진행을 지연
 * 금연, 금주, 규칙적 운동, 균형 훈련, 발 보호(패드·양말·적절한 신발)
-* **당뇨병신경병증 통증이 있으면 통증을 평가하고 통증 조절 및 삶의 질 향상을 위해 약물 치료 시행** \\
-* 자율신경병증 동반 시 해당 장기별 관리 (위마비 → ☞ 당뇨병위마비)
+* 당뇨병신경병증 통증이 있으면 통증을 평가하고 통증 조절 및 삶의 질 향상을 위해 약물 치료 시행
+* 자율신경병증 동반 시 해당 장기별 관리 (예: 위마비)
 
 ### <mark style="color:orange;">약물 치료 - 통증 조절</mark>
 
-{% hint style="warning" %}
-⚠️ 통증성 DPN에 대한 약물 치료는 **증상(통증) 완화가 목적**이며, 이미 진행된 신경 손상을 되돌리거나 신경병증의 자연 경과 자체를 바꾸는 치료는 아님 - 근본적인 진행 억제는 위 철저한 혈당 조절을 통해서만 가능함을 환자에게 설명 (ADA 지속 강조)
-{% endhint %}
-
-{% hint style="info" %}
-**ADA 2025 권고**: 통증성 DPN의 1차 치료제는 **pregabalin** 또는 **duloxetine** (둘 다 FDA 승인, 근거 수준 高). Gabapentin은 근거는 있으나 FDA 미승인. TCA(amitriptyline 등)는 효과 있으나 고령·심혈관 환자에서 항콜린 부작용 주의.
-{% endhint %}
-
-***
+* 통증성 DPN에 대한 약물 치료는 증상(통증) 완화가 목적이며, 이미 진행된 신경 손상을 되돌리거나 신경병증의 자연 경과 자체를 바꾸는 치료는 아님 - 근본적인 진행 억제는 위 철저한 혈당 조절을 통해서만 가능함
+* 1차 치료제는  pregabalin 또는 duloxetine; gabapentin은 근거는 있으나 FDA 미승인; TCA(amitriptyline 등)는 효과 있으나 고령·심혈관 환자에서 항콜린 부작용 주의 (☞ [통증](../220_/001_-pain.md#undefined-8))
+* Gabapentinoid : 저용량 시작 → 점차 증량; 충분한 효과까지 2개월 이상 소요 가능; pregabalin이 보다 빠른 효과 발현; 부작용 – 어지럼·졸음·도취감 (고령에서 더 현저)
+* Duloxetine: 간 질환 시 주의; 오심 부작용은 저용량 시작으로 경감
+* TCA : 항콜린 부작용으로 ≥65세, 전립선 비대, 녹내장, 심혈관 질환에서 신중 사용
+* Na channel blocker : lamotrigine <mark style="color:blue;">\[라믹탈]</mark>, lacosamide <mark style="color:blue;">\[빔스크]</mark>, oxcarbazepine <mark style="color:blue;">\[트리렙탈]</mark>: 5개의 중간 질 연구에서 유효 \[ADA 2025]
+* α-lipoic acid <mark style="color:blue;">\[치옥타시드]</mark>, γ-linolenic acid <mark style="color:blue;">\[에보프림]</mark> : 일부 연구에서 산화 스트레스 억제 및 DPN 증상 완화 효과 보고 - 표준 통증 치료제를 대체하지 않음
+* Capsaicin 8% 패치 : 국소 적용 (FDA 승인)  <mark style="color:blue;">\[다이악센]</mark>
+* Vit B12, folate 보충 : 결핍 가능성이 있는 경우
+* 척수 자극술(SCS) : 약물 난치성 통증성 DPN에 고려
+* 병용 요법 : 단일 약제로 충분한 통증 조절이 어려운 경우, 서로 다른 기전의 약제(예: gabapentinoid + SNRI, gabapentinoid + TCA)를 병용하면 추가적인 통증 경감 효과를 기대할 수 있음 - 단일 약제 증량보다 병용을 통한 상호 보완적 접근을 우선 고려
 
 ```mermaid
 graph TD
@@ -417,19 +418,7 @@ graph TD
 
 <p align="center"><strong>당뇨병성 말초신경병증(DPN) 치료 알고리즘</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한당뇨병학회. 당뇨병 진료지침 제9판. 2025. 그림 8-2.2; ADA Standards of Care 2025</mark></em></p>
-
-***
-
-* **gabapentinoid**: 저용량 시작 → 점차 증량; 충분한 효과까지 2개월 이상 소요 가능; pregabalin이 보다 빠른 효과 발현; 부작용 – 어지럼·졸음·도취감 (고령에서 더 현저)
-* **duloxetine**: 간 질환 시 주의; 오심 부작용은 저용량 시작으로 경감
-* **TCA**: 항콜린 부작용으로 ≥65세, 전립선 비대, 녹내장, 심혈관 질환에서 신중 사용
-* **Na channel blocker** <mark style="color:blue;">\[라믹탈]</mark> <mark style="color:blue;">\[빔스크]</mark> <mark style="color:blue;">\[트리렙탈]</mark>: 5개의 중간 질 연구가 효과 지지 \[ADA 2025]
-* **α-lipoic acid** <mark style="color:blue;">\[치옥타시드]</mark>, **γ-linolenic acid** <mark style="color:blue;">\[에보프림]</mark>: 보조적 치료 (근거 수준 제한적); 일부 연구에서 산화 스트레스 억제 및 DPN 증상 완화 효과 보고 - 표준 통증 치료제를 대체하지 않음
-* **capsaicin 8% 패치**: FDA 승인; 국소 적용 (☞ p.15) <mark style="color:blue;">\[다이악센]</mark>
-* **Vit B12, folate** 보충: 결핍 가능성이 있는 경우
-* **척수 자극술(SCS)**: 약물 난치성 통증성 DPN에 FDA 승인 장치 있음 \[2024]
-* **병용 요법 강조 (ADA 2026)**: 단일 약제로 충분한 통증 조절이 어려운 경우, 서로 다른 기전의 약제(예: gabapentinoid + SNRI, gabapentinoid + TCA)를 병용하면 추가적인 통증 경감 효과를 기대할 수 있음 - 단일 약제 증량보다 병용을 통한 상호 보완적 접근을 우선 고려
+<p align="center"><em><mark style="color:$info;">Ref. 대한당뇨병학회. 당뇨병 진료지침 제9판. 2025. 그림 8-2.2;</mark></em> <br><em><mark style="color:$info;">ADA Standards of Care in Diabetes 2026, Recommendation 12.21–12.22</mark></em></p>
 
 ***
 
@@ -622,7 +611,7 @@ graph TD
 
 ***
 
-## <mark style="color:green;">기타 합병증</mark>
+## ■ 기타 합병증
 
 ### <mark style="color:orange;">비뇨기계 이상</mark>
 
