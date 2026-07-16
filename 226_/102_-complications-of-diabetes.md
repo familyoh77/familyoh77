@@ -422,59 +422,62 @@ graph TD
 
 ***
 
-## ■ 당뇨병성 발 감염 Diabetes-related Foot Infection (DFI)
+## ■ 당뇨병성 발 감염 (Diabetic Foot Infection, DFI)
 
-* 당뇨병 환자 입원의 가장 흔한 원인; 감염 환자 6\~7명 중 1명이 감염 후 1년 이내 사망
-* 발 궤양 유병률 4~~10%; 연간 발생률 2.2~~5.9%; 평생 발생률 15\~25%
-* 말초신경병증·외상에 의한 상처에서 발생; 골수염 유발 가능
-* **위험 인자**: 당뇨병 기간 >10년, 혈당 조절 불량, 시력 저하, 말초신경병증, PAD, 발 변형·굳은살·corn, 발 궤양 과거력, CKD(특히 투석)
+
+
+* 당뇨병 환자의 가장 흔한 입원 원인 중 하나
+* 유병률 : 4\~10%; 연간 발생률 - 2\~6%, 평생 발생률 - 19\~34% \[IWGDF]
+* 말초신경병증과 반복적 외상으로 발생한 궤양에 감염이 동반되며, 심부 연부조직 감염 및 골수염으로 진행할 수 있음
+* DFI 환자의 약 15\~16%(약 6\~7명 중 1명)는 발생 후 1년 이내 사망(입원이 필요한 중증 감염에서는사망률이 더 높을 수 있음)
+* 위험 인자 : 혈당 조절 불량, 말초신경병증, PAD, 발 변형·굳은살(callus)·티눈(corn), 발 궤양 또는 하지 절단 과거력, CKD(특히 투석), 시력 저하, 이전 하지 절단, 보호감각 소실, 적절하지 않은 신발, 흡연
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* **국소**: 홍반, 통증, 압통, 온감, 경화, 농성 분비물
-* **전신**: 식욕 저하, 오심/구토, 발열, 오한, 정신 상태 변화
+* 국소 : 홍반, 통증, 압통, 온감, 경화, 농성 분비물
+* 전신 : 식욕 저하, 오심/구토, 발열, 오한, 정신 상태 변화
 
 #### <mark style="color:$primary;">Wagner 당뇨병성 발 궤양 분류</mark>
 
-<table><thead><tr><th width="60">등급</th><th>소견</th></tr></thead><tbody><tr><td>G 0</td><td>궤양 없는 고위험 발 (기형, 굳은살, 감각 저하)</td></tr><tr><td>G 1</td><td>Superficial full-thickness ulcer</td></tr><tr><td>G 2</td><td>Deep ulcer, 힘줄 이환</td></tr><tr><td>G 3</td><td>Deep ulcer, 골 이환</td></tr><tr><td>G 4</td><td>Partial gangrene (발가락, 앞발)</td></tr><tr><td>G 5</td><td>Whole foot gangrene</td></tr></tbody></table>
+<table><thead><tr><th width="75.23809814453125">등급</th><th>소견</th></tr></thead><tbody><tr><td>G 0</td><td>궤양 없는 고위험 발 (기형, 굳은살, 감각 저하)</td></tr><tr><td>G 1</td><td>Superficial full-thickness ulcer</td></tr><tr><td>G 2</td><td>Deep ulcer, 힘줄 이환</td></tr><tr><td>G 3</td><td>Deep ulcer, 골 이환</td></tr><tr><td>G 4</td><td>Partial gangrene (발가락, 앞발)</td></tr><tr><td>G 5</td><td>Whole foot gangrene</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">IDSA/IWGDF 발 감염 중증도 분류</mark>
 
-<table><thead><tr><th width="120">등급</th><th>정의</th></tr></thead><tbody><tr><td>1 Uninfected</td><td>감염의 전신 또는 국소 징후 없음</td></tr><tr><td>2 Mild</td><td>피부/피하 조직 국소 감염*; 홍반 0.5~2 cm; 전신 반응 없음</td></tr><tr><td>3 Moderate</td><td>홍반 >2 cm 또는 심부 조직(농양·골수염·관절염·근막염) 이환; 전신 반응 없음</td></tr><tr><td>4 Severe</td><td>전신 염증 반응 징후† 동반</td></tr></tbody></table>
+<table><thead><tr><th width="120">등급</th><th>정의</th></tr></thead><tbody><tr><td>1 Uninfected</td><td>감염의 전신 또는 국소 징후 없음</td></tr><tr><td>2 Mild</td><td>피부/피하 조직 국소 감염¹⁾; 홍반 0.5~2 ㎝; 전신 반응 없음</td></tr><tr><td>3 Moderate</td><td>홍반 >2 ㎝ 또는 심부 조직(농양·골수염·관절염·근막염) 이환; 전신 반응 없음</td></tr><tr><td>4 Severe</td><td>전신 염증 반응 징후²⁾ 동반</td></tr></tbody></table>
 
-\*국소 감염: 부종/경화, 홍반 >0.5 cm, 압통/통증, 온감, 고름 중 ≥2개 †전신 염증 반응: 체온 ≥38℃ or <36℃, HR >90, RR >20, WBC >12,000/μL or <4,000/μL or ≥10% bands 중 ≥2개
+_¹⁾ 국소 감염 : 부종/경화, 홍반 >0.5 ㎝, 압통/통증, 온감, 고름 중 ≥2개. ²⁾ ⓵ 체온 ≥38℃ or <36℃, ⓶ HR >90, ⓷ RR >20 또는 PaCO₂ <32 ㎜Hg, ⓸ WBC >12,000/㎕ or <4,000/㎕ or bands(미성숙) ≥10% 중 ≥2개 시 SIRS(Systemic inflammatory response syndrome) 양성 및  DFI 중증 감염으로 분류_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* 전신 패혈증 징후 (SIRS 기준 충족 + 감염 병소)
+* 감염 병소 + SIRS 기준 충족 → 전신 패혈증
 * 급속히 진행하는 괴사성 근막염 (crepitus, 빠른 피부 변색)
 * 괴저 또는 대량 조직 소실
-* 신경병증 환자에서 발적·부종·피부 온도 상승이 있으나 통증이 경미한 경우 → **Charcot 신경관절병증(Charcot neuroarthropathy)** 의심; 즉시 정형외과/족부 전문의 의뢰 (봉와직염과 혼동 주의)
+* 신경병증 환자에서 통증은 경미하지만 발적·부종·피부 온도 상승이 있음 → Charcot 신경관절병증
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * Moderate 이상 감염 (심부 조직 이환 또는 빠른 진행)
-* 골수염 의심 (probe-to-bone 양성, X선 이상)
-* 심한 PAD 동반 (혈관외과 협진 필요)
+* probe-to-bone 양성, X선 이상 → 골수염
+* 심한 PAD 동반
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
 
-* Mild 감염 외래 항생제 치료 후 48\~72시간 내 재평가
-* 4주 치료 후 미해결 시 재평가 또는 치료 변경
+* Mild 감염 외래 - 항생제 치료 후 48\~72시간 내 재평가
+* 4주 치료에도 미해결 시
 
 ## <mark style="color:green;">진단</mark>
 
 * WBC, BUN/Cr, 혈당/A1C; prealbumin/albumin(영양 상태); CRP·ESR·procalcitonin(골수염 의심 시)
-* 깊은 조직 그람·배양 검사 (표재성 표본은 신뢰도 낮음); 골수염 시 뼈 조직 배양
-* X선, probe-to-bone 검사; 골수염 의심 시 **MRI**
+* 깊은 조직 그람·배양 검사 (표재성 표본은 신뢰도가 낮음); 골수염 시 뼈 조직 배양
+* X선, probe-to-bone 검사; 골수염 의심 시 MRI
 
 ## <mark style="color:green;">치료</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* **상처 관리**: 압박 제거, 괴사 조직 제거(debridement), 드레싱, 전신 항생제 (☞ 항생제 챕터)
+* 상처 관리 : 압박 제거, 괴사 조직 제거(debridement), 드레싱, 전신 항생제
 * 국소 항생제는 효과 제한적으로 일반적으로 권고하지 않음
 * Moderate 이상 → 입원 치료 고려
 * 철저한 혈당 관리, 적절한 영양 섭취
@@ -483,28 +486,28 @@ graph TD
 #### <mark style="color:$primary;">항생제 선택</mark>
 
 * 감염 징후 없는 발 궤양 → 항생제 불필요
-* **경증 (경험적)**: G(+) 균주 중심
+* 경증 (경험적) : G(+) 균주 중심
   * cephalexin <mark style="color:blue;">\[팔렉신]</mark>, clindamycin <mark style="color:blue;">\[훌그램]</mark>, levofloxacin <mark style="color:blue;">\[크라비트]</mark>, moxifloxacin <mark style="color:blue;">\[아벨록스]</mark>, TMP-SMX <mark style="color:blue;">\[셉트린]</mark>
-* **항생제 사용 과거력**: amoxicillin/clavulanate <mark style="color:blue;">\[오구멘틴]</mark>, ampicillin-sulbactam <mark style="color:blue;">\[유나신 주]</mark>
-* **MRSA 고위험**: linezolid <mark style="color:blue;">\[자이복스]</mark>, TMP-SMX, clindamycin, doxycycline
-* **투여 기간**: 피부/연조직 1~~2주; 광범위/지연 호전/PAD 심한 경우 3~~4주; 골 이환 6주
+* 항생제 사용 과거력 : amoxicillin/clavulanate <mark style="color:blue;">\[오구멘틴]</mark>, ampicillin-sulbactam <mark style="color:blue;">\[유나신 주]</mark>
+* MRSA 고위험 : linezolid <mark style="color:blue;">\[자이복스]</mark>, TMP-SMX, clindamycin, doxycycline
+* 투여 기간 : 피부/연조직 1\~2주; 광범위/지연 호전/PAD 심한 경우 3\~4주; 골 이환 6주
 
 ### <mark style="color:orange;">발 관리 교육</mark>
 
-* **모든 당뇨병 환자에게 족부 궤양과 절단의 위험 인자를 확인하기 위해 매년 포괄적인 발 평가를 하고, 발 관리를 교육** \[전문가의견, 일반적권고] (KDA 2025)
-  * LOPS(감각 저하) 확인 시 10-g monofilament 검사에 **Ipswich touch test**(별도 도구 없이 손가락으로 발 3부위를 가볍게 접촉하는 방법)를 대체 또는 보완적으로 사용 가능; 두 검사 중 하나 이상 이상 소견 + 다른 신경학적 검사(pinprick, 온도 감각, 128 Hz 진동 감각 등) 중 하나 이상 이상 소견이면 LOPS로 판정 (ADA 2026)
+* 모든 당뇨병 환자에게 족부 궤양과 절단의 위험 인자를 확인하기 위해 매년 포괄적인 발 평가를 하고, 발 관리를 교육&#x20;
+  * 10-g monofilament 검사(또는 Ipswich touch test) 이상 소견 + 다른 [신경학적 검사](102_-complications-of-diabetes.md#undefined-20)(pinprick, 온도 감각, 128 Hz 진동 감각 등) 중 하나 이상 이상 소견이면 LOPS( loss of protective sensation)로 판정
 * 매일 미지근한 물 + 중성 비누로 세족; 발가락 사이 완전히 건조
 * 건조 방지 보습제 도포 (발뒤꿈치 중점); 굳은살·티눈 자가 제거 금지
 * 발톱은 일자로 깎기; 맨발 금지 (실내에서도 양말·실내화 착용)
 * 꽉 끼거나 솔기가 있는 양말, 굽 높은/앞 좁은 신발 회피
 * 새 신발은 하루 1시간 이내로 시작; 매일 신발 내부 이물 확인
 * 매일 발 자가 점검; 발 손상·발적·부종·감각 이상 시 즉시 주치의 연락
-* **심하게 파행하거나, 발동맥의 맥박이 약하거나, 발목상완지수(ABI)가 0.9 이하인 경우 말초혈관조영검사 시행** \[제한적권고]
-* **당뇨병 족부 궤양은 다학제 접근 치료 시행** \[전문가의견, 일반적권고]
+* 심하게 파행하거나, 발동맥의 맥박이 약하거나, 발목상완지수(ABI)가 0.9 이하인 경우 말초혈관조영검사 시행 \[제한적권고]
+* 당뇨병 족부 궤양은 다학제 접근 치료 시행
 
 #### <mark style="color:$primary;">발 관리 추적 주기</mark>
 
-<table><thead><tr><th width="280">위험 분류</th><th>추적 주기</th></tr></thead><tbody><tr><td>매 방문</td><td>모든 당뇨병 환자 - 발 관찰</td></tr><tr><td>LOPS(-) &#x26; PAD(-)</td><td>매년</td></tr><tr><td>LOPS(+) or PAD(+)</td><td>6~12개월</td></tr><tr><td>LOPS+PAD, LOPS+발 변형, PAD+발 변형</td><td>3~6개월</td></tr><tr><td>LOPS 또는 PAD + 궤양 과거력/절단/말기 신부전</td><td>1~3개월</td></tr><tr><td>Charcot 신경관절병증 과거력</td><td>1~3개월 (급성기 해소 후 정형외과 공동 추적)</td></tr></tbody></table>
+<table><thead><tr><th width="357.1429443359375">위험 분류</th><th>추적 주기</th></tr></thead><tbody><tr><td>모든 당뇨병 환자 - 발 관찰</td><td>매 방문</td></tr><tr><td>LOPS(-) &#x26; PAD(-)</td><td>매년</td></tr><tr><td>LOPS(+) or PAD(+)</td><td>6~12개월</td></tr><tr><td>LOPS+PAD, LOPS+발 변형, PAD+발 변형</td><td>3~6개월</td></tr><tr><td>LOPS 또는 PAD + 궤양 과거력/절단/말기 신부전</td><td>1~3개월</td></tr><tr><td>Charcot 신경관절병증 과거력</td><td>1~3개월 (급성기 해소 후 정형외과 공동 추적)</td></tr></tbody></table>
 
 {% hint style="info" %}
 **WIfI 분류 (Wound, Ischemia, foot Infection) 및 신기술 (ADA 2026)**
@@ -516,7 +519,9 @@ graph TD
 
 ***
 
-## <mark style="color:green;">당뇨병위마비 Diabetic Gastroparesis</mark>
+## ■ 당뇨병위마비 Diabetic Gastroparesis
+
+
 
 * 기계적 폐색 없이 위 배출 지연; 자율신경병증의 한 형태
 * T1DM 10년 누적 발병률 5.2%, T2DM 1%; 여성, 오래된 당뇨, T1DM에서 많음
