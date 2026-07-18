@@ -4,21 +4,16 @@
 
 * 증상 유무와 관계없이 위해를 끼칠 수 있는 수준의 비정상적으로 낮은 혈당 상태
 * 저혈당 기전 : 당 섭취 또는 흡수 부족, 혈당에 대한 counter-regulatory mechanism 부전
-*   저혈당에 대한 정상 반응(단계적 계층 구조) : 혈당이 떨어지면 먼저 insulin 분비가 감소(약 80\~85 ㎎/㎗)하고, 이어서 glucagon·epinephrine 등 counter-regulatory hormone이 증가(약 65\~70 ㎎/㎗)하며, autonomic 증상(약 60\~70 ㎎/㎗)에 이어 neuroglycopenia(약 50\~55 ㎎/㎗)로 진행함
-
-    ✽정확한 역치는 개인·혈당 조절 상태에 따라 다르므로 참고값으로만 사용; ADA도 특정 수치보다는 "혈당이 감소하면 counter-regulatory response가 순차적으로 활성화된다" 정도로만 기술함
-
-    ✽긴 유병 기간의 1형당뇨병에서는 glucagon 반응이 소실되는 counter-regulatory failure가 흔히 동반되어, 위 계층 구조 중 glucagon·epinephrine 단계가 무력화되고 저혈당 불감증으로 더 쉽게 이어질 수 있음
+* 저혈당에 대한 정상 반응(단계적 계층 구조) : 혈당이 떨어지면 먼저 insulin 분비가 감소(약 80\~85 ㎎/㎗)하고, 이어서 glucagon·epinephrine 등 counter-regulatory hormone이 증가(약 65\~70 ㎎/㎗)하며, autonomic 증상(약 60\~70 ㎎/㎗)에 이어 neuroglycopenia(약 50\~55 ㎎/㎗)로 진행함
+  * 정확한 역치는 개인·혈당 조절 상태에 따라 다르므로 참고값으로만 사용; ADA도 특정 수치보다는 "혈당이 감소하면 counter-regulatory response가 순차적으로 활성화된다" 정도로만 기술함
+  * 긴 유병 기간의 1형당뇨병에서는 glucagon 반응이 소실되는 counter-regulatory failure가 흔히 동반되어, 위 계층 구조 중 glucagon·epinephrine 단계가 무력화되고 저혈당 불감증으로 더 쉽게 이어질 수 있음
 *   보통 ＜54 ㎎/㎗이면 임상적으로 유의미한 저혈당 증상이 발생함; 평소 높은 혈당에서 갑자기 떨어지면
 
     낮은 혈당이 아님에도 저혈당 증상이 발생할 수 있음 (☞ Pseudo-hypoglycemia)
-*   분류 (ADA Standards of Care in Diabetes, 2026 — Table 6.4)
-
-    •Level 1 : ＜70 ㎎/㎗ &≥54 ㎎/㎗; 주의가 필요한 저혈당. 증상이 있을 수도 없을 수도 있음
-
-    •Level 2 : ＜54 ㎎/㎗; 신경당결핍(neuroglycopenic) 증상이 발생하기 시작하는 역치이며 임상적으로 명백한 저혈당
-
-    •Level 3 : 혈당 수치와 무관하게 의식 변화 &/or 도움이 필요한 신체 상태를 특징으로 하는 중증 사건
+* 분류 (ADA Standards of Care in Diabetes, 2026 — Table 6.4)
+  * Level 1 : ＜70 ㎎/㎗ &≥54 ㎎/㎗; 주의가 필요한 저혈당. 증상이 있을 수도 없을 수도 있음
+  * Level 2 : ＜54 ㎎/㎗; 신경당결핍(neuroglycopenic) 증상이 발생하기 시작하는 역치이며 임상적으로 명백한 저혈당
+  * Level 3 : 혈당 수치와 무관하게 의식 변화 &/or 도움이 필요한 신체 상태를 특징으로 하는 중증 사건
 * CGM 연구에서는 야간 저혈당(nocturnal hypoglycemia)의 발생 빈도가 상대적으로 높은 것으로 보고됨; 다만 인슐린·SU 사용 여부, 1형/2형, CGM 사용 여부에 따라 편차가 커서 일률적인 유병률 수치는 현재 ADA/KDA 모두 제시하지 않음
 * 저혈당에 대한 과잉 치료는 반동성 고혈당 및 체중증가를 초래할 수 있음 (KDA 2025)
 * Level 2 또는 3 저혈당이 한 번이라도 발생하면 그 자체로 치료 계획(약제 감량·변경, 혈당 목표 상향)을 재평가해야 함 \[ADA 2026 Recommendation 6.19, Grade B]
@@ -35,20 +30,14 @@
 * 음주(지연 저혈당 위험), 다제약물 복용(polypharmacy)
 * β-blocker : adrenergic warning 증상(떨림, 두근거림 등)을 약화시켜 저혈당 인지를 어렵게 할 수 있으며, 특히 nonselective β-blocker에서 더 뚜렷함
 * 저혈당에 대한 행동 반응을 저해할 수 있는 신체 또는 지적 장애, 인지 기능 장애 — 인지기능 저하와 저혈당은 양방향 관계이므로 고령자에서 정기적 인지기능 평가 권고 \[ADA 2026 Recommendation 6.20, Grade B]
-*   간/신질환(특히 신부전), CHF, 갑상선저하증, 자율신경병증, 우울증·중증 정신질환, 섭식 장애, 급성 질환(illness), 스트레스, 장염(구토/설사),
-
-    저혈당 불감증, counterregulatory response 장애, 위마비(gastroparesis), 비만대사수술(특히 Roux-en-Y) 과거력
+* 간/신질환(특히 신부전), CHF, 갑상선저하증, 자율신경병증, 우울증·중증 정신질환, 섭식 장애, 급성 질환(illness), 스트레스, 장염(구토/설사), 저혈당 불감증, counterregulatory response 장애, 위마비(gastroparesis), 비만대사수술(특히 Roux-en-Y) 과거력
 * 사회경제적 위험 인자 : 식품 불안정, 저소득, 주거 불안정, 의료보장 미흡, 낮은 건강 문해력 \[ADA 2026 Table 6.5]
 * 여성이 독립적인 위험 인자로 보고되나 기전은 명확하지 않음 (ADA 2026)
 
 ## <mark style="color:green;">임상 양상</mark>
 
-*   Adrenergic Sx. : 배고픔, 두근거림, 구역, 떨림, 창백,
-
-    식은땀, 불안, 과민
-*   Neurologic(Neuroglycopenic) Sx. : 어지럼, 두통, 기력 약화, 감각 이상,
-
-    시각 이상, 말하기 힘듦, 협응 장애, 인지 장애, 혼돈, 섬망
+* Adrenergic Sx. : 배고픔, 두근거림, 구역, 떨림, 창백, 식은땀, 불안, 과민
+* Neurologic(Neuroglycopenic) Sx. : 어지럼, 두통, 기력 약화, 감각 이상, 시각 이상, 말하기 힘듦, 협응 장애, 인지 장애, 혼돈, 섬망
 * 증상 순서 : 대개 adrenergic Sx.이 neurologic Sx.보다 먼저 나타나 경고 신호 역할을 함; 저혈당 불감증에서는 이 순서가 소실되어 혼돈이 첫 증상으로 나타날 수 있음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -78,35 +67,29 @@
 ## <mark style="color:green;">진단</mark>
 
 * 혈당 검사 (※ 저혈당 여부는 반드시 혈당 검사를 하여 판단하여야 함)
-* Whipple triad : ① 저혈당 증상, ② 검사로 확인된 낮은 혈당치, ③ 당 공급/혈당 조절 후 증상 해소
+* Whipple triad : ⓵ 저혈당 증상, ⓶ 검사로 확인된 낮은 혈당치, ⓷ 당 공급/혈당 조절 후 증상 해소
 * 현장에서는 모세혈관(capillary) 혈당(자가혈당측정기)으로 신속히 확인하되, 진단이 애매하거나 정밀 평가가 필요한 경우(반응성 저혈당 정밀검사 등)에는 정맥(venous) 혈당이 더 정확함 — 두 값이 항상 일치하지는 않음에 유의
 * CT, MRI, 초음파 검사 : 당뇨병력이 없는 공복 저혈당 등 기질적 원인 감별을 위하여 고려
 
 ### <mark style="color:orange;">저혈당 위험 선별 (매 방문)</mark>
 
 * 인슐린, sulfonylurea, meglitinide 사용자는 매 진료 시 저혈당 병력(빈도·중증도·유발 요인)을 확인 \[ADA 2026 Recommendation 6.10]
-* 저혈당 불감증은 최소 매년 선별 — 단일 질문법 활용 : \*\*"혈당이 낮아지면 항상 느끼십니까?"\*\*에 "아니오"로 답하면 상세 평가(Gold score, Clarke 설문 등) 진행 \[ADA 2026 Recommendation 6.11]
+* 저혈당 불감증은 최소 매년 선별 — 단일 질문법 활용 : "혈당이 낮아지면 항상 느끼십니까?"에 "아니오"로 답하면 상세 평가(Gold score, Clarke 설문 등) 진행 \[ADA 2026 Recommendation 6.11]
 * 저혈당에 대한 두려움도 최소 매년 함께 선별 \[ADA 2026 Recommendation 6.12]
 
 ### <mark style="color:orange;">저혈당의 종류 (감별)</mark>
 
 #### <mark style="color:$primary;">Spontaneous (Fasting) hypoglycemia</mark>
 
-*   원인
+**원인**
 
-    •단식, 식욕 억제제 투여, 섭식 장애, 영양 결핍, 구토, 설사
-
-    •음주, 운동, 과활동, 발열, 임신
-
-    •약물 : 혈당 강하제(특히 인슐린, SU), β-차단제, pentamidine, salicylate, quinine, hydroxychloroquine, fluoroquinolone, doxycycline, sertraline, disopyramide
-
-    •식품 : 비터 멜론, 카페인, 계피, 호로파, 인삼, 과라나, 스테비아
-
-    •수술 : gastrectomy, Roux-en-Y
-
-    •종양 : insulinoma, extrapancreatic insulin-secreting tumor
-
-    •간질환, 신부전, 혈액 투석, 뇌하수체/갑상선/부신 저하, glucagon 결핍, catecholamine 결핍
+* 단식, 식욕 억제제 투여, 섭식 장애, 영양 결핍, 구토, 설사
+* 음주, 운동, 과활동, 발열, 임신
+* 약물 : 혈당 강하제(특히 인슐린, SU), β-차단제, pentamidine, salicylate, quinine, hydroxychloroquine, fluoroquinolone, doxycycline, sertraline, disopyramide
+* 식품 : 비터 멜론, 카페인, 계피, 호로파, 인삼, 과라나, 스테비아
+* 수술 : gastrectomy, Roux-en-Y
+* 종양 : insulinoma, extrapancreatic insulin-secreting tumor
+* 간질환, 신부전, 혈액 투석, 뇌하수체/갑상선/부신 저하, glucagon 결핍, catecholamine 결핍
 
 #### <mark style="color:$primary;">Pseudo-hypoglycemia</mark>
 
@@ -184,6 +167,7 @@ graph TD
 
     •우유(다른 탄수화물이 없을 때) 1\~2컵 — lactose는 흡수가 느려 다른 대안이 없을 때만 사용
 * 시판 요구르트는 제품별 당 함량 편차가 커서 예시에서 제외; 순수 포도당(글루코스)이 1차 선택이며, 지방·단백질이 많이 포함된 초콜렛, 아이스크림은 흡수가 지연되어 초기 치료에 적합하지 않음
+
 {% hint style="danger" %}
 **⚠️ Acarbose 등 α-glucosidase inhibitor 복용 중인 환자**\
 Acarbose가 sucrose(설탕) 분해를 억제하므로, 사탕·설탕이 아니라 **순수 포도당(글루코스) 정제**로만 치료해야 함 (ADA 2026)\
