@@ -4,31 +4,30 @@
 
 * 증상 유무와 관계없이 위해를 끼칠 수 있는 수준의 비정상적으로 낮은 혈당 상태
 * 저혈당 기전 : 당 섭취 또는 흡수 부족, 혈당에 대한 counter-regulatory mechanism 부전
-* 저혈당에 대한 정상 반응(단계적 계층 구조) : 혈당이 떨어지면 먼저 insulin 분비가 감소(약 80\~85 ㎎/㎗)하고, 이어서 glucagon·epinephrine 등 counter-regulatory hormone이 증가(약 65\~70 ㎎/㎗)하며, autonomic 증상(약 60\~70 ㎎/㎗)에 이어 neuroglycopenia(약 50\~55 ㎎/㎗)로 진행함
-  * 정확한 역치는 개인·혈당 조절 상태에 따라 다르므로 참고값으로만 사용; ADA도 특정 수치보다는 "혈당이 감소하면 counter-regulatory response가 순차적으로 활성화된다" 정도로만 기술함
-  * 긴 유병 기간의 1형당뇨병에서는 glucagon 반응이 소실되는 counter-regulatory failure가 흔히 동반되어, 위 계층 구조 중 glucagon·epinephrine 단계가 무력화되고 저혈당 불감증으로 더 쉽게 이어질 수 있음
-*   보통 ＜54 ㎎/㎗이면 임상적으로 유의미한 저혈당 증상이 발생함; 평소 높은 혈당에서 갑자기 떨어지면
-
-    낮은 혈당이 아님에도 저혈당 증상이 발생할 수 있음 (☞ Pseudo-hypoglycemia)
-* 분류 (ADA Standards of Care in Diabetes, 2026 - Table 6.4)
-  * Level 1 : ＜70 ㎎/㎗ &≥54 ㎎/㎗; 주의가 필요한 저혈당. 증상이 있을 수도 없을 수도 있음
+* 저혈당에 대한 정상 반응(단계적 계층 구조) : 80\~85 ㎎/㎗ 시 insulin 분비↓, 65\~70 ㎎/㎗ 시 glucagon·epinephrine 등 counter-regulatory hormone↑, 60\~70 ㎎/㎗ 시 autonomic 증상, 50\~55 ㎎/㎗ 시 neuroglycopenia; 단, 혈당 역치는 개개인 및 혈당 조절 상태에 따라 다름
+* 긴 유병 기간의 T1DM에서는 glucagon 반응이 소실되는 counter-regulatory failure가 흔히 동반되어, 이 단계가 무력화되고 저혈당 불감증으로 더 쉽게 이어질 수 있음
+* 보통 ＜54 ㎎/㎗이면 임상적으로 유의미한 저혈당 증상이 발생하지만, 평소 높은 혈당에서 갑자기 떨어지면 낮은 혈당이 아님에도 저혈당 증상이 발생할 수 있음 (☞ Pseudo-hypoglycemia)
+* 분류&#x20;
+  * Level 1 : ＜70 ㎎/㎗ & ≥54 ㎎/㎗; 주의가 필요한 저혈당. 증상이 있을 수도 없을 수도 있음
   * Level 2 : ＜54 ㎎/㎗; 신경당결핍(neuroglycopenic) 증상이 발생하기 시작하는 역치이며 임상적으로 명백한 저혈당
   * Level 3 : 혈당 수치와 무관하게 의식 변화 &/or 도움이 필요한 신체 상태를 특징으로 하는 중증 사건
-* CGM 연구에서는 야간 저혈당(nocturnal hypoglycemia)의 발생 빈도가 상대적으로 높은 것으로 보고됨; 다만 인슐린·SU 사용 여부, 1형/2형, CGM 사용 여부에 따라 편차가 커서 일률적인 유병률 수치는 현재 ADA/KDA 모두 제시하지 않음
-* 저혈당에 대한 과잉 치료는 반동성 고혈당 및 체중증가를 초래할 수 있음 (KDA 2025)
-* Level 2 또는 3 저혈당이 한 번이라도 발생하면 그 자체로 치료 계획(약제 감량·변경, 혈당 목표 상향)을 재평가해야 함 \[ADA 2026 Recommendation 6.19, Grade B]
-* 고령(≥75세) 2형당뇨병 환자와 소아·청소년 1형당뇨병 환자가 저혈당 고위험군으로 분류됨 (ADA 2026)
+* Level 2 또는 3 저혈당이 한 번이라도 발생하면 치료 계획을 재평가해야 함  - 약제 감량·변경, 혈당 목표 상향
+* 인슐린·SU 사용 여부, T1DM vs T2DM, CGM 사용 여부에 따라 저혈당 발생 편차가 큼
+* 야간 저혈당(nocturnal hypoglycemia)의 발생 빈도가 상대적으로 높은 것으로 보고됨
+* 저혈당에 대한 과잉 치료는 반동성 고혈당 및 체중 증가를 초래할 수 있음&#x20;
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* 인슐린 또는 인슐린 분비 촉진제(예: sulfonylurea, meglitinide) 사용 - 강도별 위험도 : 강화 인슐린요법(MDI/CSII/AID) ＞ 기저 인슐린 단독 ＞ sulfonylurea/meglitinide; 인슐린과 sulfonylurea 병용 시 위험 더 증가 \[ADA 2026 Table 6.5]
+* 인슐린 또는 인슐린 분비 촉진제(예: sulfonylurea, meglitinide) 사용&#x20;
+  * 강도별 위험도 : 강화 인슐린요법(MDI/CSII/AID) ＞ 기저 인슐린 단독 ＞ sulfonylurea/meglitinide
+  * 인슐린과 sulfonylurea 병용 시 위험 증가
 * 엄격한 혈당 조절, 최근 낮은 당화 혈색소 수준(＜6.0%), 갑작스런 혈당 강하, 큰 혈당 변동성(glycemic variability)
-* 긴 당뇨병 유병 기간 (특히 1형당뇨병은 유병 기간이 길지 않아도 위험이 높을 수 있음)
-* 중증 저혈당 과거력(최근 3\~6개월 내 Level 2/3 저혈당은 재발의 가장 강력한 예측 인자) \[ADA 2026]
-* 고령(≥75세), 쇠약, 저체중, 임신
-* 불규칙 식사/적은 식사/끼니 거름, 무계획적인 운동/과다한 활동, 종교·문화적 이유의 금식
-* 음주(지연 저혈당 위험), 다제약물 복용(polypharmacy)
-* β-blocker : adrenergic warning 증상(떨림, 두근거림 등)을 약화시켜 저혈당 인지를 어렵게 할 수 있으며, 특히 nonselective β-blocker에서 더 뚜렷함
+* 긴 당뇨병 유병 기간, 특히 T1DM은 유병 기간이 길지 않아도 위험이 높을 수 있음
+* 중증 저혈당 과거력 - 최근 3\~6개월 내 Level 2 or 3 저혈당은 재발의 가장 강력한 예측 인자
+* 고령(≥75세), 소아·청소년 T1DM, 쇠약, 저체중, 임신
+* 불규칙 식사·적은 식사·끼니 거름, 무계획적인 운동·과다한 활동, 종교·문화적 이유의 금식
+* 음주(지연 저혈당 위험), 다제약물 복용
+* β-blocker : adrenergic warning 증상(떨림, 두근거림 등)을 약화시켜 저혈당 인지를 어렵게 할 수 있으며, 특히 nonselective [β-blocker](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb)에서 더 뚜렷함
 * 저혈당에 대한 행동 반응을 저해할 수 있는 신체 또는 지적 장애, 인지 기능 장애 - 인지기능 저하와 저혈당은 양방향 관계이므로 고령자에서 정기적 인지기능 평가 권고 \[ADA 2026 Recommendation 6.20, Grade B]
 * 간/신질환(특히 신부전), CHF, 갑상선저하증, 자율신경병증, 우울증·중증 정신질환, 섭식 장애, 급성 질환(illness), 스트레스, 장염(구토/설사), 저혈당 불감증, counterregulatory response 장애, 위마비(gastroparesis), 비만대사수술(특히 Roux-en-Y) 과거력
 * 사회경제적 위험 인자 : 식품 불안정, 저소득, 주거 불안정, 의료보장 미흡, 낮은 건강 문해력 \[ADA 2026 Table 6.5]
