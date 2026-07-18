@@ -5,7 +5,6 @@
 •당뇨병 진료지침(제9판). 대한당뇨병학회 (2025)\
 •당뇨병 fact sheet. 대한당뇨병학회 (2024)\
 •Clinical Practice Guideline for the Evaluation and Management of CKD. KDIGO (2024)\
-•Type 1 Diabetes: A Review. Jacobsen LM, Schatz DA. JAMA (2026)\
 •고혈압 진료지침. 대한고혈압학회 (2026)\
 •IDF Diabetes Atlas. International Diabetes Federation (2025)\
 •Consensus Report: Definition and Interpretation of Remission in Type 2 Diabetes. ADA (2021)\
