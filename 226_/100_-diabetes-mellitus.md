@@ -64,15 +64,15 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
 
-* 구역/구토, 복통, 깊고빠른 호흡(Kussmaul), 과일향 호흡, 의식 변화; 혈당 ≥250 ㎎/㎗ + 케톤뇨 → 당뇨병케톤산증(DKA)
-  * 정상혈당 DKA(euglycemic DKA): 혈당이 250 ㎎/㎗ 미만이어도 DKA가 가능하며 위 증상이 있으면 반드시 케톤 검사를 시행할 것; SGLT2i 복용 중인 경우 특히 주의(국내에서 SGLT2i는 T1DM 정식 적응증이 아니며 오프라벨·제한적으로만 사용됨) (ADA 2026 지속 강조; ☞ [당뇨병 합병증](102_-complications-of-diabetes.md#당뇨병케토산증-diabetic-ketoacidosis-dka))
+* 구역/구토, 복통, 깊고빠른 호흡(Kussmaul), 과일향 호흡, 의식 변화; 혈당 ≥250 ㎎/㎗ + 케톤뇨 → 당뇨병케톤산증(DKA) - 상세 진단·치료·Red Flags 3단계는 (☞ [당뇨병 합병증 - DKA](102_-complications-of-diabetes.md#당뇨병케토산증-diabetic-ketoacidosis-dka))의 기준을 우선 적용
+  * 정상혈당 DKA(euglycemic DKA): 혈당이 **200 ㎎/㎗ 미만**이어도 DKA가 가능하며 위 증상이 있으면 반드시 케톤 검사를 시행할 것; SGLT2i 복용 중인 경우 특히 주의(국내에서 SGLT2i는 T1DM 정식 적응증이 아니며 오프라벨·제한적으로만 사용됨) (ADA 2026 지속 강조)
   * 발열을 동반한 혈당 ≥350 ㎎/㎗ + 요중 케톤 강양성도 DKA 가능성이 높은 소견
-* 혈당 ≥600 ㎎/㎗, 심한 탈수, 의식 혼탁 → 고삼투압고혈당(HHS)
-* 의식 저하, 경련, 자가 처치 불가 → 중증 저혈당 (glucagon 즉시 투여 후 이송)
+* 혈당 ≥600 ㎎/㎗, 심한 탈수, 의식 혼탁 → 고삼투압고혈당(HHS) (☞ [당뇨병 합병증 - HHS](102_-complications-of-diabetes.md#고삼투압고혈당상태-hyperosmolar-hyperglycemic-state-hhs))
+* 의식 저하, 경련, 자가 처치 불가 → 중증 저혈당 (glucagon 즉시 투여 후 이송; 상세 대처는 ☞ [저혈당, 당뇨병성](103_-hypoglycemia-diabetic.md))
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 혈당 ≥350 ㎎/㎗이나 위의 응급 기준 미해당
+* 혈당 >240 ㎎/㎗ + 소변/혈중 케톤 양성이나 위의 응급 기준(구토·호흡곤란·의식변화 등) 미해당 - 자세한 기준은 102번 DKA 챕터 참조
 * 원인 불명 혈당 급상승 또는 반복되는 저혈당 (≤54 ㎎/㎗)
 * 급성 발적 또는 감각 이상을 동반한 새로운 신경병증 증상
 * 당뇨발 : 궤양, 봉와직염, 심한 허혈성 통증
@@ -183,9 +183,10 @@ _Ref. ADA. Standards of Medical Care in Diabetes. 2024. Table 6-1._
 ### <mark style="color:orange;">T1DM vs T2DM 감별</mark>
 
 * 감별 검사 : islet auto-Ab(인슐린, glutamic acid decarboxylase(GAD), islet antigen 2(IA-2), zinc transporter 8(ZnT8)), 인슐린, c-peptide
-  * 공복 혈청 c-peptide : ＜0.6 ng/㎖(≈200 pmol/L) 시 T1DM, ≥1.0 ng/㎖(≈330 pmol/L) 시 T2DM 가능성; 경계 시 추후(5년 후) c-peptide 재검
+  * 공복 혈청 c-peptide : ＜0.6 ng/㎖(≈200 pmol/L) 시 T1DM, ≥1.0 ng/㎖(≈330 pmol/L) 시 T2DM 가능성(초기 선별용 실용적 기준); 경계 시 추후(5년 후) c-peptide 재검 — 재검 시 판정 기준은 아래 국제 알고리듬(200/600 pmol/L)을 기본으로 함
     * [ ] 단위 환산 참고 : 1 ng/㎖ ≒ 331 pmol/L; 0.6 ng/㎖ ≒ 200 pmol/L; 1.8 ng/㎖ ≒ 600 pmol/L
     * [ ] 경계값 해석 시 인슐린 치료 여부, 유병 기간, 임상 맥락을 함께 고려해야 함; 단일 수치로 확정 진단은 위험
+    * [ ] **판정 기준 우선순위(중요)** : 본문에는 T2DM 시사 기준으로 330 pmol/L(초기 실용적 선별)과 600 pmol/L(아래 국제 재검 알고리듬)이 함께 등장하여 혼동될 수 있음. 최초 평가 시에는 330 pmol/L 기준을 실용적 참고치로 사용하되, 5년 후 재검 등 공식적인 재분류 시점에는 아래 국제 알고리듬의 200/600 pmol/L 기준을 우선 적용하고, 한국인 200\~330 pmol/L 자료는 600 pmol/L 미만 "불확정(Uncertain)" 구간 내에서 보조적으로만 참고할 것
   * 자가 항체 : 양성 시 면역 매개성 T1DM 가능성이 높으나 T2DM 진단 환자의 4\~25%에서도 항GAD Ab(+)이며, 이 경우 인슐린 치료를 받아야 할 가능성이 높음; T1DM과 겹치는 phenotype 위험이 있는 성인 당뇨병 환자(예: 진단 시 젊은 연령, 의도하지 않은 체중 감소, 인슐린 치료까지 짧은 시간)에서 분류를 위해 표준화된 islet auto-Ab 검사를 권고
 * 대부분의 환자에서 islet autoantibodies, 인슐린, proinsulin, c-peptide의 일률적 검사는 권고하지 않음 \[ADA]
 
@@ -584,7 +585,7 @@ style F fill:#f3e5f5,stroke:#4a148c
 * 매 진료 시 저혈당 증상이 있었는지 확인
 * 중증 저혈당이 반복되는 환자에서 실시간 연속 혈당 측정 장치 권고; 저혈당무감지증 의심 환자에서 검증된 도구(GOLD 또는 Clark 점수표)를 사용하여 저혈당무감지증 평가
   * T1DM 추적 연구에서 중증 저혈당(의식소실/경련/혼수) 1회 이상 경험 시 인지·정신운동 기능 저하가 연령 4.6세 증가에 상응하는 정도로 관찰됨 - 반복 저혈당 예방 교육의 근거로 활용 가능
-* 인슐린을 사용하는 저혈당 위험이 높은 환자에게 glucagon을 처방하고, 가족·간병인·학교 직원 등 주변인들이 글루카곤의 보관 위치와 사용법을 숙지하도록 교육
+* **인슐린을 사용하는 모든 환자 또는 저혈당 고위험군**에게 glucagon을 처방(ADA 2026 Recommendation 6.16 - 기존 '고위험군'에서 대상 확대)하고, 가족·간병인·학교 직원 등 주변인들이 글루카곤의 보관 위치와 사용법을 숙지하도록 교육 (상세 용법·제품·처방례 ☞ [저혈당, 당뇨병성](103_-hypoglycemia-diabetic.md))
 * 저혈당 위험이 높은 모든 환자 및 인슐린을 사용하는 환자에 대하여 저혈당 예방과 관리에 대한 체계적 교육; 특히 저혈당을 경험한 사람은 지속적으로 저혈당 교육
 * 직장·학교·공공시설의 구급함에 포도당(oral glucose)을 비치하도록 권고
 
@@ -595,7 +596,7 @@ style F fill:#f3e5f5,stroke:#4a148c
 3. 혈당이 정상으로 회복되면 음식 섭취; 다음 식사까지 1시간 이상 남은 경우 복합탄수화물 + 단백질(예: 크래커 + 치즈, 우유) 추가 섭취
 
 {% hint style="danger" %}
-**중증 저혈당(의식 저하, 경련)** : 환자가 스스로 경구 섭취 불가 시 glucagon 투여 (코 분무형 또는 주사형) 후 119 이송. 가족/동거인에게 glucagon 사용법을 미리 교육할 것.
+**중증 저혈당(의식 저하, 경련)** : 환자가 스스로 경구 섭취 불가 시 glucagon 주사(1 mg IM/SC) 투여 후 119 이송(✽비강분무형은 해외에서 사용되나 2026년 현재 국내 미도입 - 국내는 분말을 희석하여 사용하는 주사형만 유통). 가족/동거인에게 glucagon 사용법을 미리 교육할 것.
 {% endhint %}
 
 ### <mark style="color:orange;">수술</mark>
@@ -750,9 +751,9 @@ style R fill:#fde8f0,stroke:#e91e8c
 
 ```mermaid
 graph TD
-    A["<u>1단계 접근법</u>]<br/>공복 75 g OGTT"]
+    A["<u>1단계 접근법</u><br/>공복 75 g OGTT"]
     A --> F["다음 중 1가지 이상이면<br/>임신당뇨병 진단:<br/>•공복: ≥92 ㎎/㎗<br/>•1시간: ≥180 ㎎/㎗<br/>•2시간: ≥153 ㎎/㎗"]
-    B["<u>2단계 접근법</u>]<br/>비공복 50 g 포도당 부하 <br/>1시간 후"]
+    B["<u>2단계 접근법</u><br/>비공복 50 g 포도당 부하 <br/>1시간 후"]
     B -->|"<140 ㎎/㎗"| D["정상"]
     B -->|"≥140 ㎎/㎗"| E["공복 100 g OGTT"]
     E --> G["다음 중 2가지 이상이면<br/>임신당뇨병 진단:<br/>•공복: ≥95 ㎎/㎗<br/>•1시간: ≥180 ㎎/㎗<br/>•2시간: ≥155 ㎎/㎗<br/>•3시간: ≥140 ㎎/㎗"]
@@ -884,7 +885,7 @@ _Healthy : 동반 만성 질환 거의 없음, 인지 및 신체 기능 양호_\
   * 당뇨병 증상이 없고 A1C <8.5%인 경우 metformin 단독 요법으로 치료; 목표 미달 시 기저 인슐린 병용
 * 12세 이상 2형 당뇨병 소아청소년에서 2단계 이상 비만 동반 시 liraglutide 사용 가능
 
-<table data-search="false"><thead><tr><th width="110">종류</th><th width="160">고령 영향</th><th width="260">Stages 3~5 CKD 동반 환자</th><th>CVD 동반 환자</th></tr></thead><tbody><tr><td>Insulin</td><td>저혈당</td><td>clearance↓, 저혈당 위험↑, gastroparesis; 용량 조절, 식후 속효성 인슐린 투여 고려</td><td>TZD 병용 시 체액 저류</td></tr><tr><td>Metformin</td><td>GI 불내성, Vit B12 결핍; 저혈당 없음</td><td>eGFR &#x3C;45 시 시작하지 않으며, 사용 중인 경우 1 g/d로 감량; eGFR &#x3C;30 시 중단; 급성 신 손상 위험 시 중단(조영제, 저혈압, sepsis, shock, hypoxia)</td><td>• 관상동맥질환 환자에서 유익<br>• 중증 CHF에서 회피 (lactic acidosis)</td></tr><tr><td>SU</td><td>저혈당, 체중 증가; glyburide 회피</td><td>• Glyburide: eGFR &#x3C;60 시 회피<br>• Glimepiride: eGFR &#x3C;30 시 회피<br>• Glipizide: eGFR &#x3C;30 시 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>TZD</td><td>골절 증가, 체액 저류, 체중 증가; 저혈당 없음</td><td>체액 저류, 골절 증가; 용량 조절 필요 없음</td><td>• 체액 저류(심부전 악화 위험)<br>• Pioglitazone: CVD mortality↓</td></tr><tr><td>DPP-4i</td><td>저혈당 없음</td><td>• Sitagliptin: eGFR >50 - 100 ㎎/d; eGFR 30~50 - 50 ㎎/d; eGFR &#x3C;30 - 25 ㎎/d<br>• Saxagliptin: eGFR >50 - 2.5~5 ㎎/d; eGFR ≤50 - 2.5 ㎎/d<br>• Alogliptin: eGFR >60 - 25 ㎎/d; eGFR 30~60 - 12.5 ㎎/d; eGFR &#x3C;30 - 6.25 ㎎/d<br>• Linagliptin: 용량 조절 필요 없음</td><td>• Saxagliptin: 심부전 위험↑</td></tr><tr><td>SGLT2i</td><td>탈수; 저혈당 없음; Empagliflozin: 심혈관 사고 및 CKD 진행↓; Canagliflozin: 골절 위험↑</td><td>• Canagliflozin: eGFR 45~60 - 100 ㎎/d; eGFR &#x3C;45 - 회피<br>• Dapagliflozin: eGFR &#x3C;45 - CKD/HF 적응증 시 유지 가능, 혈당 강하 목적은 eGFR &#x3C;45 회피<br>• Empagliflozin: eGFR &#x3C;45 - 회피<br>• Canagliflozin, Dapagliflozin: 급성 신 손상 관련<br>• Empagliflozin, Canagliflozin: CKD 진행↓</td><td>• Empagliflozin, Canagliflozin: 심혈관 사고 및 CHF↓</td></tr><tr><td>AGi</td><td>GI 부작용; 저혈당 없음</td><td>s-Cr >2 ㎎/㎗ 시 회피(연구 부족)</td><td>(AGi = α-Glucosidase inhibitors)</td></tr><tr><td>Glinide</td><td>저혈당; 끼니를 거르는 사람에게 유용</td><td>• Nateglinide: eGFR &#x3C;60 - 중단<br>• Repaglinide: eGFR &#x3C;30 - 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>GLP-1 RA</td><td>GI 부작용; 저혈당 없음</td><td>• Exenatide: eGFR &#x3C;30 - 회피<br>• Liraglutide, Dulaglutide, Semaglutide: 용량 조절 불필요<br>• Lixisenatide: eGFR &#x3C;15 - 회피</td><td>• Liraglutide, Semaglutide: CVD 사고↓</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="110">종류</th><th width="160">고령 영향</th><th width="260">Stages 3~5 CKD 동반 환자</th><th>CVD 동반 환자</th></tr></thead><tbody><tr><td>Insulin</td><td>저혈당</td><td>clearance↓, 저혈당 위험↑, gastroparesis; 용량 조절, 식후 속효성 인슐린 투여 고려</td><td>TZD 병용 시 체액 저류</td></tr><tr><td>Metformin</td><td>GI 불내성, Vit B12 결핍; 저혈당 없음</td><td>eGFR &#x3C;45 시 시작하지 않으며, 사용 중인 경우 1 g/d로 감량; eGFR &#x3C;30 시 중단; 급성 신 손상 위험 시 중단(조영제, 저혈압, sepsis, shock, hypoxia)</td><td>• 관상동맥질환 환자에서 유익<br>• 중증 CHF에서 회피 (lactic acidosis)</td></tr><tr><td>SU</td><td>저혈당, 체중 증가; glyburide 회피</td><td>• Glyburide: eGFR &#x3C;60 시 회피<br>• Glimepiride: eGFR &#x3C;30 시 회피<br>• Glipizide: eGFR &#x3C;30 시 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>TZD</td><td>골절 증가, 체액 저류, 체중 증가; 저혈당 없음</td><td>체액 저류, 골절 증가; 용량 조절 필요 없음</td><td>• 체액 저류(심부전 악화 위험)<br>• Pioglitazone: CVD mortality↓</td></tr><tr><td>DPP-4i</td><td>저혈당 없음</td><td>• Sitagliptin: eGFR >50 - 100 ㎎/d; eGFR 30~50 - 50 ㎎/d; eGFR &#x3C;30 - 25 ㎎/d<br>• Saxagliptin: eGFR >50 - 2.5~5 ㎎/d; eGFR ≤50 - 2.5 ㎎/d<br>• Alogliptin: eGFR >60 - 25 ㎎/d; eGFR 30~60 - 12.5 ㎎/d; eGFR &#x3C;30 - 6.25 ㎎/d<br>• Linagliptin: 용량 조절 필요 없음</td><td>• Saxagliptin: 심부전 위험↑</td></tr><tr><td>SGLT2i</td><td>탈수; 저혈당 없음; Empagliflozin: 심혈관 사고 및 CKD 진행↓; Canagliflozin: 골절 위험↑</td><td>• Canagliflozin: eGFR 45~60 - 100 ㎎/d; eGFR &#x3C;45 - 새로 시작하지 않음(CREDENCE 근거 기준 보수적 적용)<br>• Dapagliflozin: eGFR &#x3C;45 - CKD/HF 적응증 시 eGFR ≥25까지 유지 가능(DAPA-CKD), 혈당 강하 목적의 신규 투여는 eGFR &#x3C;45 회피<br>• Empagliflozin: eGFR &#x3C;45 - CKD/HF 적응증 시 eGFR ≥20까지 유지 가능(EMPA-KIDNEY, ☞ [당뇨병 약물 치료](101_-antidiabetics.md)), 혈당 강하 목적의 신규 투여는 eGFR &#x3C;45 회피<br>• Canagliflozin, Dapagliflozin: 급성 신 손상 관련<br>• Empagliflozin, Canagliflozin: CKD 진행↓ - 위 eGFR 하한 내에서는 회피 대상이 아니라 지속 유지 대상임에 주의</td><td>• Empagliflozin, Canagliflozin: 심혈관 사고 및 CHF↓</td></tr><tr><td>AGi</td><td>GI 부작용; 저혈당 없음</td><td>s-Cr >2 ㎎/㎗ 시 회피(연구 부족)</td><td>(AGi = α-Glucosidase inhibitors)</td></tr><tr><td>Glinide</td><td>저혈당; 끼니를 거르는 사람에게 유용</td><td>• Nateglinide: eGFR &#x3C;60 - 중단<br>• Repaglinide: eGFR &#x3C;30 - 주의</td><td>• 저혈당, 부정맥, 뇌졸중 유발 위험</td></tr><tr><td>GLP-1 RA</td><td>GI 부작용; 저혈당 없음</td><td>• Exenatide: eGFR &#x3C;30 - 회피<br>• Liraglutide, Dulaglutide, Semaglutide: 용량 조절 불필요<br>• Lixisenatide: eGFR &#x3C;15 - 회피</td><td>• Liraglutide, Semaglutide: CVD 사고↓</td></tr></tbody></table>
 
 ### <mark style="color:orange;">CKD 또는 CVD가 있는 고령 당뇨병 환자에서의 약물 특성</mark>
 
