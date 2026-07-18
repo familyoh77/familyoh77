@@ -1,8 +1,8 @@
 # 저혈당, 당뇨병성 Hypoglycemia, Diabetic
 
-![image](../.gitbook/assets/9a33850c-35b0-4a74-9439-9cdc4dc59895.JPG)
 
 ## <mark style="color:green;">일반 사항</mark>
+
 
 * 증상 유무와 관계없이 위해를 끼칠 수 있는 수준의 비정상적으로 낮은 혈당 상태
 * 저혈당 기전 : 당 섭취 또는 흡수 부족, 혈당에 대한 counter-regulatory mechanism 부전
@@ -17,7 +17,6 @@
 *   분류 (ADA Standards of Care in Diabetes, 2026 — Table 6.4)
 
     •Level 1 : ＜70 ㎎/㎗ &≥54 ㎎/㎗; 주의가 필요한 저혈당. 증상이 있을 수도 없을 수도 있음
-
     •Level 2 : ＜54 ㎎/㎗; 신경당결핍(neuroglycopenic) 증상이 발생하기 시작하는 역치이며 임상적으로 명백한 저혈당
 
     •Level 3 : 혈당 수치와 무관하게 의식 변화 &/or 도움이 필요한 신체 상태를 특징으로 하는 중증 사건
@@ -43,7 +42,11 @@
 * 사회경제적 위험 인자 : 식품 불안정, 저소득, 주거 불안정, 의료보장 미흡, 낮은 건강 문해력 [ADA 2026 Table 6.5]
 * 여성이 독립적인 위험 인자로 보고되나 기전은 명확하지 않음 (ADA 2026)
 
-![image](../.gitbook/assets/011d9b82-772c-4ef4-a5be-34f423a5800f.JPG)
+### RED FLAGS!
+
+* 경구제 투여 불가
+* 심한 증상 : 발한, 열감, 홍조, 빈맥, 떨림, 발작, 혼돈, 심한 저혈압
+* 원인 불명 또는 당분 섭취 후에도 증상 지속
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -96,7 +99,7 @@
 
 #### <mark style="color:$primary;">Spontaneous (Fasting) hypoglycemia</mark>
 
-*   원인
+**원인**
 
     •단식, 식욕 억제제 투여, 섭식 장애, 영양 결핍, 구토, 설사
 
@@ -128,6 +131,7 @@
 * 대처 : 당뇨병 환자에서 발생하는 경우 최소 2\~3주 동안 저혈당 재발을 철저히 방지하여 저혈당 인지능 회복을 도모(혈당 목표 일시 완화, 약제 강도 감량 포함); 실시간 연속혈당측정기(real-time CGM) 사용 고려, 특히 predictive low-glucose alert 기능을 활용하면 저혈당 발생 전 미리 대처 가능; 가능하면 구조화된 저혈당 인지능 회복 교육 프로그램 연계 [KDA 2025 권고 5, ADA 2026]
 
 #### <mark style="color:$primary;">반응성(식후) 저혈당</mark>
+
 
 * 인슐린/SU를 사용하지 않는 환자에서도 발생할 수 있는 독립적인 임상 문제로, 진단·관리가 당뇨병성 저혈당과 다름 → 상세 내용은 본 챕터 하단 「반응성 저혈당(식후 저혈당)」 참조
 
