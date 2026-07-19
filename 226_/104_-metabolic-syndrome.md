@@ -99,25 +99,40 @@
 
 ```mermaid
 graph TD
-    Start(["건강검진/내원 시 위험인자 평가"]) --> Criteria{"5개 기준 중 3개 이상?"}
-    Criteria -- "아니오" --> Monitor["생활습관 상담 + 정기 재평가"]
-    Criteria -- "예" --> Dx["대사증후군 진단"]
-    Dx --> Secondary{"2차성 원인 의심 소견?"}
-    Secondary -- "예" --> ReferEndo["내분비내과 등 전문과 의뢰"]
-    Secondary -- "아니오" --> Lifestyle["생활습관 중재: 체중 5~10% 이상 감량, 운동, 식이"]
-    Lifestyle --> Reassess{"3~6개월 후 재평가"}
-    Reassess -- "목표 달성" --> Maintain["유지 및 정기 모니터링"]
-    Reassess -- "미달성" --> Pharm["위험인자별 약물 치료 추가"]
-    Pharm --> HTNRx["고혈압 치료"]
-    Pharm --> LipidRx["이상지질혈증 치료"]
-    Pharm --> DMRx["당뇨병/공복혈당장애 치료"]
-    Pharm --> ObesityRx["비만 치료"]
-
-    style Dx fill:#f96,stroke:#e65100,stroke-width:2px
-    style Pharm fill:#fff3e0,stroke:#e65100
+    Start(["건강검진/내원 시 <br/>위험인자 평가"]) --> Criteria["5개 기준 중 3개 이상?"]
+    Criteria -- "NO" --> Monitor["생활습관 상담 + <br/>정기 재평가"]
+    Criteria -- "YES" --> Dx["대사증후군 진단"]
+    Dx --> Severity["Red Flag/중증 소견?*"]
+    Dx --> Secondary["2차성 원인 의심 소견?"]
+    Severity -- "YES" --> Urgent["해당 위험인자 <br/>즉시·조기 <br/>약물치료 시작"]
+    Severity -- "NO" --> Lifestyle["생활습관 중재 시작: <br/>체중 5~10% 이상 감량, <br/>운동, 식이"]
+    Secondary -- "YES" --> ReferEndo["의뢰<br/>(생활습관 중재는 결과 <br/>대기 중에도 병행)"]
+    Secondary -- "NO" --> Lifestyle
+    Urgent --> Reassess["3~6개월 후 재평가<br/>목표 달성?"]
+    Lifestyle --> Reassess
+    ReferEndo --> Reassess
+    Reassess -- "YES" --> Maintain["유지 및 정기 모니터링"]
+    Reassess -- "NO" --> Pharm["위험인자별 약물 치료 추가"]
+    Pharm --> HTNRx["고혈압 <br/>치료"]
+    Pharm --> LipidRx["이상지질혈증 <br/>치료"]
+    Pharm --> DMRx["당뇨병/공복혈당장애<br/> 치료"]
+    Pharm --> ObesityRx["비만 <br/>치료"]
+    HTNRx --> Maintain
+    LipidRx --> Maintain
+    DMRx --> Maintain
+    ObesityRx --> Maintain
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Criteria,Severity,Secondary,Reassess yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class Urgent,Lifestyle,HTNRx,LipidRx,DMRx,ObesityRx sky
+style Dx fill:#fde8f0,stroke:#e91e8c
+style ReferEndo fill:#fdebd0,stroke:#e67e22
 ```
 
 <p align="center"><strong>대사증후군 진단 및 치료 알고리듬</strong></p>
+
+\*혈압 ≥180/120, LDL-C ≥190, TG ≥500, 당뇨병 진단기준 충족 등
 
 <p align="center"><em><mark style="color:$info;">Ref. NCEP-ATP III 개정안; AHA/ACC/ADA/ASN CKM Syndrome Guideline (2026)</mark></em></p>
 
