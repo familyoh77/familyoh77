@@ -132,27 +132,31 @@
 
 ```mermaid
 graph TD
-    A([저혈당 의심 증상]) --> B{혈당 측정}
-    B --> C{혈당 70 미만?}
-    C -->|아니오, 증상 지속| D[Pseudo-hypoglycemia 등\n다른 원인 감별]
-    C -->|예| E{의식 명료한가?}
-    E -->|예: 의식 있음| F[포도당 15 g 섭취\nAID 펌프 사용자는 5~10 g]
-    F --> G{15분 후 혈당 70 이상?}
-    G -->|아니오| F
-    G -->|예| H[탄수화물 함유 식사·간식 섭취\n재발 방지]
-    E -->|아니오: 의식 저하/혼수/발작| I[응급 상황\n119 신고 및 즉시 진료]
-    I --> J{Glucagon 사용 가능?}
-    J -->|예| K[Glucagon 투여\n필요시 15분 후 추가]
-    J -->|아니오/의료기관| L[Glucose 10~25 g IV\n1~3분간, 필요시 5~10분마다 반복]
-    K --> M{반응 있음?}
-    M -->|아니오| L
-    M -->|예| N[혈당 80~100 이상 유지\n경구/IV dextrose 지속 공급]
+    A([저혈당 의심 증상]) --> B[혈당 측정]
+    B -->|≥70, 증상 지속| D[Pseudo-hypoglycemia 등\n다른 원인 감별]
+    B -->|<70| E[의식 명료한가?]
+    E -->|YES: 의식 있음| F[포도당 15 g 섭취\nAID 펌프 사용자는 5~10 g]
+    F --> G[15분 후 혈당 70 이상?]
+    G -->|NO| F
+    G -->|YES| H[탄수화물 함유 식사·간식 섭취\n재발 방지]
+    E -->|NO: 의식 저하/혼수/발작| I[응급 상황\n119 신고 및 즉시 진료]
+    I --> J[Glucagon 사용 가능?]
+    J -->|YES| K[Glucagon 투여]
+    K --> M[15분 후 반응 있음?]
+    M -->|NO, 재투여 가능| K
+    M -->|NO, 재투여 불가| L[Glucose 10~25 g IV\n1~3분간, 필요시 5~10분마다 반복]
+    J -->|NO| L
+    M -->|YES| N[혈당 80~100 이상 유지\n경구/IV dextrose 지속 공급]
     L --> N
     H --> O[24~48시간 재발 여부 관찰]
     N --> O
-    style I fill:#f96,stroke:#e65100,stroke-width:2px
-    style K fill:#e1f5fe,stroke:#01579b
-    style L fill:#fff3e0,stroke:#e65100
+
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class B,G,J,M,E yellow
+    style I fill:#ffcdd2,stroke:#c62828
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class K,F,L,N,H sky
 ```
 
 <p align="center"><strong>당뇨병성 저혈당 대처 알고리듬</strong></p>
