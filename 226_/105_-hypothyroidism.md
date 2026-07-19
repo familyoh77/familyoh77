@@ -5,12 +5,15 @@
 * 갑상선 호르몬 감소 또는 호르몬에 대한 말초 저항에 의해 발생하는 대사 이상 상태
 * 스펙트럼 : 무증상(무증상 갑상선저하증) \~ 경증/현성 저하증 \~ (치료하지 않으면) myxedema coma까지 다양한 수준의 증상을 보임
 * 유병률 : 일반 인구의 ＞1%; ＞60세의 5%
-* 경과 : Hashimoto 갑상선염에 의한 경증 저하증의 자연 회복률 11%; 치료 중단 후 재발할 수 있음; 대부분의 원발성 저하증(특히 만성 자가면역성, 갑상선 절제/방사성 요오드 후)은 영구적이며 평생 호르몬 보충이 필요함
+* 경과 : Hashimoto 갑상선염에 의한 경증 저하증의 자연 회복률 11%
+  * 치료 중단 후 재발할 수 있음
+  * 대부분의 원발성 저하증(특히 만성 자가면역성, 갑상선 절제/방사성 요오드 후)은 영구적이며 평생 호르몬 보충이 필요함
 
 ## <mark style="color:green;">원인</mark>
 
-#### <mark style="color:$primary;">원발성 (Primary) hypothyroidism (＞95%)</mark>
+#### <mark style="color:$primary;">원발성 (Primary) hypothyroidism</mark>&#x20;
 
+* ＞95% 차지
 * chronic autoimmune thyroiditis (Hashimoto thyroiditis) - 가장 흔함
 * 의인성 : 갑상선 절제, 방사성 요오드 치료
 * 요오드 결핍 또는 과잉
@@ -19,14 +22,13 @@
 * 일부 thyroiditis에서는 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음 : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis
 * 선천성 갑상선 무형성, 호르몬 합성 결핍
 
-#### <mark style="color:$primary;">중추성(Central) hypothyroidism (드묾)</mark>
+#### <mark style="color:$primary;">중추성(Central) hypothyroidism</mark>
 
-* hypothalamic-pituitary 질환에 의한 TRH/TSH 결핍
-* TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 - TSH만으로는 배제되지 않으므로 **free T4 저하를 기준으로 진단**(원발성처럼 TSH 상승을 기대해서는 안 됨)
+* hypothalamic-pituitary 질환에 의한 TRH/TSH 결핍; 드묾
+* TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 - TSH만으로는 배제되지 않으므로 free T4 저하를 기준으로 진단
 
 {% hint style="danger" %}
-**⚠️ 중추성 갑상선저하증에서는 부신부전 동반 여부를 반드시 확인**\
-뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
+**중추성 갑상선저하증에서는 부신부전 동반 여부를 반드시 확인** : 뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
 {% endhint %}
 
 #### <mark style="color:$primary;">Resistance to thyroid hormone β (RTHβ)</mark>
@@ -49,38 +51,38 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* Myxedema coma 의심 : 의식 저하/혼수, 저체온, 서맥, 저혈압, 저나트륨혈증, 저혈당이 갑상선저하증 환자에서 동반 → 즉시 응급실 이송(사망률 높음); 응급 처치 원칙은 동반 부신부전 가능성을 고려해 **IV hydrocortisone을 먼저(또는 동시에) 투여한 후 IV levothyroxine**을 시작하는 것(※ 국내 다수 의료기관에서 T4/T3 주사제 공급이 원활하지 않으므로, IV 제형을 구할 수 없는 경우 전문의 판단 하에 비위관을 통한 경구 levothyroxine 고용량 투여(예 : 300\~500 ㎍ loading 후 매일 50\~100 ㎍ 유지)를 차선책으로 고려)
+* 의식 저하/혼수, 저체온, 서맥, 저혈압, 저나트륨혈증, 저혈당 동반 → Myxedema coma
 * 갑상선제 투여 중 흉통, 협심증 악화, 급성 부정맥 발생
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 관상동맥질환·불안정 협심증이 동반된 환자에서 갑상선제 시작/증량이 필요한 경우 → 순환기내과 협진 하에 최저 용량으로 시작
-* 중추성 갑상선저하증 의심(뇌하수체/시상하부 질환 시사 소견, 다른 뇌하수체 호르몬 이상 동반) → 부신부전 동반 여부 확인 및 내분비내과 의뢰
-* 임신부에서 새로 진단된 갑상선저하증 → 즉시 치료 시작 및 산과·내분비내과 협진
-* TSH가 현저히 높으면서(예: ＞100 mIU/L) 증상이 심한 경우
+* 관상동맥질환·불안정 협심증이 동반된 환자에서 갑상선제 시작/증량이 필요
+* 뇌하수체/시상하부 질환 시사 소견, 다른 뇌하수체 호르몬 이상 동반 → 중추성 갑상선저하증
+* 임신부에서 새로 진단된 갑상선저하증
+* TSH가 현저히 높으면서(예: ＞100 mIU/L) 증상이 심함
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 치료에도 불구하고 TSH를 정상화시키지 못하거나 증상을 해결하지 못하는 경우
-* 시작 용량에서 2\~3차례 증량하거나 200 ㎍/d에도 조절되지 않는 경우 → 순응도·흡수 방해 요인 재평가 후 의뢰 고려
+* 치료에도 불구하고 TSH가 정상화되지 않거나 증상이 해결되지 않음
+* 시작 용량에서 2\~3차례 증량하거나 200 ㎍/d에도 조절되지 않음
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">갑상선 호르몬 검사</mark>
 
 * 기본 : TSH, free T4
-* 필요시 total T4, total T3, free T3 (✽free 또는 total T3만으로는 갑상선저하증을 진단하지 않음)
+* 필요시 total T4, total T3, free T3&#x20;
+  * [ ] free 또는 total T3만으로는 갑상선저하증을 진단하지 않음 - 갑상선 기능 저하 초기에는 T4→T3 전환이 보상적으로 증가해 T3가 정상으로 유지될 수 있고(민감도↓), 반대로 비갑상선질환증후군(sick euthyroid) 등 갑상선이 정상인 상태에서도 T3만 낮아질 수 있어(특이도↓) 진단 지표로는 부적합
 * 임신부를 포함하여 증상이 없는 사람에 대한 일률적인 선별 검사는 권하지 않음 (USPSTF : 무증상 성인 선별의 이득·위해 균형에 대한 근거 불충분)
 
 #### <mark style="color:$primary;">검사 결과에 영향을 주는 요인</mark>
 
-<table><thead><tr><th width="220">검사 소견</th><th>영향 요인</th></tr></thead><tbody><tr><td>TSH↑</td><td>비-갑상선 질환의 회복기, 약물(dopamine 대항제, amiodarone)</td></tr><tr><td>TSH↓</td><td>비갑상선 질환, chorionic gonadotropin↑(임신 초기, molar pregnancy, choriocarcinoma), TSH 분비 억제 약물(고용량 dopamine 또는 agonist, dobutamine, steroid, octreotide)</td></tr><tr><td>s-TBG↓ (total T4↓ 유발)</td><td>androgen, danazol, steroid, nicotinic acid</td></tr><tr><td>s-TBG↑ (total T4↑ 유발)</td><td>estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil</td></tr><tr><td>T4-TBG 결합 방해 (free T4↑)</td><td>salicylate, salsalate, furosemide, heparin, NSAID</td></tr><tr><td>TSH↓, free T4/T3↑ (위양성 가능)</td><td>biotin(비오틴) 복용 - 면역측정법(immunoassay) 간섭; 일반 함량(모발·피부 영양제 등) 복용 시 검사 최소 48시간(2일) 전 중단, 고용량(10 ㎎/일 이상) 복용 시에는 최소 7일 전 중단 권장</td></tr></tbody></table>
+<table><thead><tr><th width="240">검사 소견</th><th>영향 요인</th></tr></thead><tbody><tr><td>TSH↑</td><td>비-갑상선 질환의 회복기, 약물(dopamine 대항제, amiodarone)</td></tr><tr><td>TSH↓</td><td>비갑상선 질환, chorionic gonadotropin↑(임신 초기, molar pregnancy, choriocarcinoma), TSH 분비 억제 약물(고용량 dopamine 또는 agonist, dobutamine, steroid, octreotide)</td></tr><tr><td>s-TBG↓ (total T4↓ 유발)</td><td>androgen, danazol, steroid, nicotinic acid</td></tr><tr><td>s-TBG↑ (total T4↑ 유발)</td><td>estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil</td></tr><tr><td>T4-TBG 결합 방해 (free T4↑)</td><td>salicylate, salsalate, furosemide, heparin, NSAID</td></tr><tr><td>TSH↓, free T4/T3↑ (위양성 가능)</td><td>biotin(비오틴) 복용 - 면역측정법(immunoassay) 간섭; 일반 함량(모발·피부 영양제 등) 복용 시 검사 최소 48시간(2일) 전 중단, 고용량(10 ㎎/일 이상) 복용 시에는 최소 7일 전 중단 권장</td></tr></tbody></table>
 
 {% hint style="info" %}
-**TSH의 계절적 변이**\
-TSH는 계절에 따라 변동(1\~2월에 최고, 6\~8월에 최저)하므로, TSH가 약간 상승하면서 fT4가 정상 범위이면 바로 갑상선저하증으로 진단하여 약물을 처방하기보다 2\~3개월 후 추적 검사를 고려할 수 있음\
+**TSH의 계절적 변이** : TSH는 계절에 따라 변동하므로(1\~2월에 최고, 6\~8월에 최저), TSH가 약간 상승하면서 fT4가 정상 범위이면 바로 갑상선저하증으로 진단하여 약물을 처방하기보다 2\~3개월 후 추적 검사를 고려할 수 있음\
 ✽비순응도, 비갑상선질환 회복기 등 TSH 상승의 다른 원인을 먼저 배제한 경우에 한하여 참고 - "겨울이라서"로 안이하게 해석하지 않도록 주의
 {% endhint %}
 
@@ -90,7 +92,7 @@ TSH는 계절에 따라 변동(1\~2월에 최고, 6\~8월에 최저)하므로, T
 * 영상 검사 : 보통 불필요; 종괴가 만져질 때 고려
 * 동반 대사 이상 검사 고려 : 저혈당, 빈혈, Na↓, 이상지질혈증
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
 * TSH가 정상이지만 증상이 지속될 때의 감별 : 빈혈(Vit B12 또는 iron 결핍), 자가면역 질환, 신질환/간질환, 폐경기, 우울/불안, 감염
 
@@ -101,9 +103,9 @@ TSH는 계절에 따라 변동(1\~2월에 최고, 6\~8월에 최저)하므로, T
 ***
 
 ```mermaid
-flowchart LR
+flowchart TD
     %% Nodes
-    Start["갑상선 기능 이상<br>의심 증상"] --> TSH["TSH 측정"]
+    Start(["갑상선 기능 이상<br>의심 증상"]) --> TSH["TSH 측정"]
 
     %% TSH Branches
     TSH --> TSH_High["TSH<br>>4.5 mIU/L"]
@@ -125,28 +127,23 @@ flowchart LR
     TSH_Low --> Hyper_Consider["갑상선 항진<br>상태 고려"]
 
     %% Styling (Optional)
-    style Start fill:#f1ecf7,stroke:#d3c5e5,stroke-width:1px
-    style TSH fill:#edf7ed,stroke:#cce8cc,stroke-width:1px
-    style FT4_Meas fill:#edf7ed,stroke:#cce8cc,stroke-width:1px
-    style TSH_High fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
-    style TSH_Normal fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
-    style TSH_Low fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
-    style FT4_Low fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
-    style FT4_Normal fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
-    style FT4_High fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
-    style Euthyroid fill:#fde8e8,stroke:#fbc4c4,stroke-width:1px
-    style Hyper_Consider fill:#fde8e8,stroke:#fbc4c4,stroke-width:1px
-    style Primary_Hypo fill:#fde8e8,stroke:#fbc4c4,stroke-width:1px
-    style Sub_Hypo fill:#fde8e8,stroke:#fbc4c4,stroke-width:1px
-    style Not_Primary fill:#fde8e8,stroke:#fbc4c4,stroke-width:1px
-    style Tx fill:#edf4f9,stroke:#d0e1f9,stroke-width:1px
-    style Tx_Consider fill:#edf4f9,stroke:#d0e1f9,stroke-width:1px
-    style Referral fill:#edf4f9,stroke:#d0e1f9,stroke-width:1px
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class TSH,FT4_Meas lightGreen
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class TSH_High,TSH_Normal,TSH_Low,FT4_Low,FT4_Normal,FT4_High yellow
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class Primary_Hypo,Sub_Hypo,Not_Primary,Euthyroid pink
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class Tx,Tx_Consider sky
+style Referral fill:#fdebd0,stroke:#e67e22
 ```
 
 <p align="center"><strong>갑상선저하증 진단 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. AFP 2021;103(10):605-613, Fig. 1.</mark></em></p>
+
+\*TSH 컷오프(4.5, 0.4 mIU/L)는 일반적 국제 기준값임. 우리나라 TSH 참고치는 0.6\~6.8 mIU/L로 제시되고 있음
 
 ***
 
