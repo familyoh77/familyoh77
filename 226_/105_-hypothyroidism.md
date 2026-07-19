@@ -1,95 +1,104 @@
 # 갑상선저하증 Hypothyroidism
 
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
-* 갑상선 호르몬 감소 또는 호르몬에 대한 저항에 의해 발생하는 대사 이상 상태
-* 무증상\~(치료하지 않으면) myxedema coma까지 다양한 수준의 증상을 보임
-* 경과 : Hashimoto 갑상선염에 의한 경증 저하증의 회복률- 11%; 치료 중단 후 재발할 수 있음
-* 유병률 : 일반 인구의 ＞1%, ＞60세의 5%
+* 갑상선 호르몬 감소 또는 호르몬에 대한 말초 저항에 의해 발생하는 대사 이상 상태
+* 스펙트럼 : 무증상(무증상 갑상선저하증) \~ 경증/현성 저하증 \~ (치료하지 않으면) myxedema coma까지 다양한 수준의 증상을 보임
+* 유병률 : 일반 인구의 ＞1%; ＞60세의 5%
+* 경과 : Hashimoto 갑상선염에 의한 경증 저하증의 자연 회복률 11%; 치료 중단 후 재발할 수 있음; 대부분의 원발성 저하증(특히 만성 자가면역성, 갑상선 절제/방사성 요오드 후)은 영구적이며 평생 호르몬 보충이 필요함
 
-## 원인
+## <mark style="color:green;">원인</mark>
 
-1. 원발성(Primary) hypothyroidism : 대부분 해당(＞95%)
+#### <mark style="color:$primary;">원발성(Primary) hypothyroidism (＞95%)</mark>
 
-* chronic autoimmune hypothyroidism(Hashimoto’s thyroiditis; 가장 흔함)
-* 의인성 : 갑상선 절제, 방사선 요오드 치료
+* chronic autoimmune thyroiditis (Hashimoto thyroiditis) — 가장 흔함
+* 의인성 : 갑상선 절제, 방사성 요오드 치료
 * 요오드 결핍 또는 과잉
-*   약물 : 갑상선항진증 치료제(propylthiouracil, methimazole), lithium, amiodarone, tyrosine kinase inhibitor,
-
-    interleukin-2, interferon-α
+* 약물 : 갑상선항진증 치료제(propylthiouracil, methimazole), lithium, amiodarone, tyrosine kinase inhibitor, interleukin-2, interferon-α
 * 침윤성 질환 : fibrous thyroiditis, hemochromatosis, sarcoidosis
-*   thyroiditis : 항진증 후 저하증이 이어짐; subacute granulomatous thyroiditis, silent lymphocytic thyroiditis,
-
-    postpartum thyroiditis (☞ p.583)
+* 일부 thyroiditis에서는 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음 : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis
 * 선천성 갑상선 무형성, 호르몬 합성 결핍
 
-2. 중추성 hypothyroidism(드묾) : hypothalamic-pituitary 질환
+#### <mark style="color:$primary;">중추성(Central) hypothyroidism (드묾)</mark>
 
-* TSH deficiency, TRH deficiency
+* hypothalamic-pituitary 질환에 의한 TRH/TSH 결핍
+* TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 — TSH만으로는 배제되지 않으므로 **free T4 저하를 기준으로 진단**(원발성처럼 TSH 상승을 기대해서는 안 됨)
 
-3. Generalized thyroid hormone resistance
+{% hint style="danger" %}
+**⚠️ 중추성 갑상선저하증에서는 부신부전 동반 여부를 반드시 확인**\
+뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
+{% endhint %}
 
-### 위험 인자
+#### <mark style="color:$primary;">Resistance to thyroid hormone β (RTHβ)</mark>
+
+* 드묾; 대부분 THRB 유전자 이상에 의한 갑상선 호르몬 수용체 저항(과거 "generalized thyroid hormone resistance"로 불림)
+
+### <mark style="color:orange;">위험 인자</mark>
 
 * 여성(특히 ＞60세, 임신, 분만 후 갑상선염 병력), 고령
-*   자가면역 질환 병력/가족력; 1형 당뇨병, 셀리악병, 자가면역 위축성 위염,
-
-    multiple autoimmune endocrinopathies, RA
+* 자가면역 질환 병력/가족력 : 1형 당뇨병, 셀리악병, 자가면역 위축성 위염, multiple autoimmune endocrinopathies, RA
 * 두경부 방사선 치료, 갑상선 기능 이상, 갑상선 수술 등의 과거력
 * Down syndrome, Turner syndrome
 
-## 임상 양상
+## <mark style="color:green;">임상 양상</mark>
 
-* 피로, 무기력, 우울, 두통, 감각 이상, 추위 불내성, 운동 시 호흡 곤란, 관절통/근육통,
+* 피로, 무기력, 우울, 두통, 감각 이상, 추위 불내성, 운동 시 호흡 곤란, 관절통/근육통
 * 피부 건조, 얇은/부서지기 쉬운 손톱, 가늘어진 머리카락, 창백 또는 황색(carotenemia) 피부
 * 체중 증가, 말초 부종, 부운 얼굴/눈꺼풀, 월경 과다, 변비, 근육 경련, 목소리 변화
 * 서맥, 확장기 고혈압, 손목터널증후군, 레이노병, 심부 건반사 이완 반응 지연, 갑상선 비대(goiter)
 
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
-### Red Flags!
+* Myxedema coma 의심 : 의식 저하/혼수, 저체온, 서맥, 저혈압, 저나트륨혈증, 저혈당이 갑상선저하증 환자에서 동반 → 즉시 응급실 이송(사망률 높음); 응급 처치 원칙은 동반 부신부전 가능성을 고려해 **IV hydrocortisone을 먼저(또는 동시에) 투여한 후 IV levothyroxine**을 시작하는 것(※ 국내 다수 의료기관에서 T4/T3 주사제 공급이 원활하지 않으므로, IV 제형을 구할 수 없는 경우 전문의 판단 하에 비위관을 통한 경구 levothyroxine 고용량 투여(예 : 300\~500 ㎍ loading 후 매일 50\~100 ㎍ 유지)를 차선책으로 고려)
+* 갑상선제 투여 중 흉통, 협심증 악화, 급성 부정맥 발생
 
-* 치료에도 불구하고 TSH를 정상화시키지 못하거나 증상을 해결하지 못함
-* 갑상선제 투여가 필요한 관상동맥질환 환자
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-## 진단
+* 관상동맥질환·불안정 협심증이 동반된 환자에서 갑상선제 시작/증량이 필요한 경우 → 순환기내과 협진 하에 최저 용량으로 시작
+* 중추성 갑상선저하증 의심(뇌하수체/시상하부 질환 시사 소견, 다른 뇌하수체 호르몬 이상 동반) → 부신부전 동반 여부 확인 및 내분비내과 의뢰
+* 임신부에서 새로 진단된 갑상선저하증 → 즉시 치료 시작 및 산과·내분비내과 협진
+* TSH가 현저히 높으면서(예: ＞100 mIU/L) 증상이 심한 경우
 
-### 갑상선 호르몬 검사
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+
+* 치료에도 불구하고 TSH를 정상화시키지 못하거나 증상을 해결하지 못하는 경우
+* 시작 용량에서 2\~3차례 증량하거나 200 ㎍/d에도 조절되지 않는 경우 → 순응도·흡수 방해 요인 재평가 후 의뢰 고려
+
+## <mark style="color:green;">진단</mark>
+
+### <mark style="color:orange;">갑상선 호르몬 검사</mark>
 
 * 기본 : TSH, free T4
-* 필요시 total T4, total T3, free T3 (✽free or total T3로는 갑상선저하증을 진단하지 않음)
-* 임신부를 포함하여 증상이 없는 사람에 대한 일률적인 선별 검사는 권하지 않음
+* 필요시 total T4, total T3, free T3 (✽free 또는 total T3만으로는 갑상선저하증을 진단하지 않음)
+* 임신부를 포함하여 증상이 없는 사람에 대한 일률적인 선별 검사는 권하지 않음 (USPSTF : 무증상 성인 선별의 이득·위해 균형에 대한 근거 불충분)
 
-#### 검사 결과에 영향을 주는 요인
+#### <mark style="color:$primary;">검사 결과에 영향을 주는 요인</mark>
 
-* TSH↑ : 비-갑상선 질환의 회복기, 약물(예: dopamine 대항제, amiodarone)
-*   TSH↓: 비갑상선 질환, chorionic gonadotropin↑(예: 임신 초기, molar pregnancy, choriocarcinoma),
+<table><thead><tr><th width="220">검사 소견</th><th>영향 요인</th></tr></thead><tbody><tr><td>TSH↑</td><td>비-갑상선 질환의 회복기, 약물(dopamine 대항제, amiodarone)</td></tr><tr><td>TSH↓</td><td>비갑상선 질환, chorionic gonadotropin↑(임신 초기, molar pregnancy, choriocarcinoma), TSH 분비 억제 약물(고용량 dopamine 또는 agonist, dobutamine, steroid, octreotide)</td></tr><tr><td>s-TBG↓ (total T4↓ 유발)</td><td>androgen, danazol, steroid, nicotinic acid</td></tr><tr><td>s-TBG↑ (total T4↑ 유발)</td><td>estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil</td></tr><tr><td>T4-TBG 결합 방해 (free T4↑)</td><td>salicylate, salsalate, furosemide, heparin, NSAID</td></tr><tr><td>TSH↓, free T4/T3↑ (위양성 가능)</td><td>biotin(비오틴) 복용 — 면역측정법(immunoassay) 간섭; 일반 함량(모발·피부 영양제 등) 복용 시 검사 최소 48시간(2일) 전 중단, 고용량(10 ㎎/일 이상) 복용 시에는 최소 7일 전 중단 권장</td></tr></tbody></table>
 
-    TSH 분비 억제 약물(고용량 dopamine(또는 agonist), dobutamine, steroid, octreotide
-* s-TBG↓ 약물 (total T4↓ 유발) : androgen, danazol, steroid, nicotinic acid
-* s-TBG↑ 약물 (total T4↑ 유발) : estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil
-* T4-TBG 결합 방해 약물(free T4↑) : salicylate, salsalate, furosemide, heparin, NSAID
+{% hint style="info" %}
+**TSH의 계절적 변이**\
+TSH는 계절에 따라 변동(1\~2월에 최고, 6\~8월에 최저)하므로, TSH가 약간 상승하면서 fT4가 정상 범위이면 바로 갑상선저하증으로 진단하여 약물을 처방하기보다 2\~3개월 후 추적 검사를 고려할 수 있음\
+✽비순응도, 비갑상선질환 회복기 등 TSH 상승의 다른 원인을 먼저 배제한 경우에 한하여 참고 — "겨울이라서"로 안이하게 해석하지 않도록 주의
+{% endhint %}
 
-※TSH의 계절적 변이(1,2월에 최고,6\~8월에 최저)가 있으므로 TSH가 약간 상승하고 FT4가 정상 수준을 유지한다면 바로 갑상선저하증으로 진단하여 약물 처방하는 것을 보류하고 2\~3개월 후 추적 검사를 권고하는 연구 결과가 있음
+### <mark style="color:orange;">기타 검사</mark>
 
-### 기타
+* anti-thyroperoxidase Ab(TPO Ab), anti-thyroglobulin Ab : autoimmune thyroiditis에서 상승; TSH가 크게 높거나 치료 반응이 불량한 환자에서 고려; 반복 검사는 불필요; TSH receptor Ab(TRAb)는 갑상선저하증 평가에는 필요하지 않음(항진증·Graves병 감별에 사용)
+* 영상 검사 : 보통 불필요; 종괴가 만져질 때 고려
+* 동반 대사 이상 검사 고려 : 저혈당, 빈혈, Na↓, 이상지질혈증
 
-* anti-thyroperoxidase Ab(TPO Ab), anti-thyroglobulin Ab : autoimmune thyroiditis에서 높음; TSH가 크게 높거나 치료에 반응하지 않는 환자에 대하여 고려; 반복 검사는 필요 없음
-* 영상 검사 : 보통 필요 없음; 종괴가 있을 때 고려
-* 대사 이상 검사 : 동반될 수 있는 대사 이상에 대한 검사 고려; 저혈당, 빈혈, Na↓, 이상지질혈증
-*   TSH가 정상이지만 증상이 지속될 때의 감별 진단 : 빈혈(Vit B12 or iron 결핍), 자가면역 질환, 신/간 질환,
+### <mark style="color:orange;">감별 진단</mark>
 
-    폐경기, 우울/불안, 감염
+* TSH가 정상이지만 증상이 지속될 때의 감별 : 빈혈(Vit B12 또는 iron 결핍), 자가면역 질환, 신질환/간질환, 폐경기, 우울/불안, 감염
 
-## **Management**
+{% hint style="info" %}
+**아래 알고리듬의 TSH 컷오프(4.5, 0.4 mIU/L)는 원출처(AFP 2021)의 일반적 국제 기준값**입니다. 국내 참고치는 검사기관·집단에 따라 다르며, 무증상 갑상선저하증의 국내 세부 기준(경증/중증, 연령별 치료 여부)은 하단 "무증상 갑상선저하증" 섹션의 진료 흐름도를 따로 참고하십시오.
+{% endhint %}
 
-### 치료 방침
-
-* 치료 목표 : 1차적으로 TSH 정상 참고치 유지; 0.5\~5 mIU/L; 80세- 7.5 mIU/L
-  * ✽고령에서는 TSH가 상승하며, 약간의 상승이 항상 임상적 의미를 갖는 것은 아님
-* 식이 요법 : 권고하는 식이 요법은 없으며, 요오드 보충은 요오드 부족이 확인된 경우에만 고려
-
-
+***
 
 ```mermaid
 flowchart LR
@@ -135,150 +144,354 @@ flowchart LR
     style Referral fill:#edf4f9,stroke:#d0e1f9,stroke-width:1px
 ```
 
-갑상선저하증 진단 알고리듬&#x20;
+<p align="center"><strong>갑상선저하증 진단 알고리듬</strong></p>
 
-(Ref. AFP 2021:15;103(10) Fig. 1.)
+<p align="center"><em><mark style="color:$info;">Ref. AFP 2021;103(10):605-613, Fig. 1.</mark></em></p>
 
-## 약물 치료
+***
 
-* 약물 치료 : 1차 선택- levothyroxine(T4)
-  * T3 : T4 단독 투여로 조절되지 않는 환자에서 대체제로 선택 또는 병용
+## <mark style="background-color:$warning;">Management</mark>
 
-#### Levothyroxine (T4)
+### <mark style="color:orange;">치료 방침</mark>
 
-**용법**
+* 치료 목표 : TSH를 **검사실 참고치(reference range) 내로 유지**하는 것이 원칙 — 대부분의 성인에서 대략 0.4\~4.0 mIU/L(검사기관·assay에 따라 다를 수 있음); 특정 수치(예 : 5 mIU/L)를 일률적 목표로 고정하기보다 참고치 범위를 기준으로 함
+  * ✽**주의** : 이 titration 목표(0.4\~4.0 mIU/L)는 이미 약물 치료 중인 현성 갑상선저하증 환자의 적정 조절 기준이며, 아래 "무증상 갑상선저하증" 섹션의 한국인 진단 상한(6.8 mIU/L)과는 별개의 개념 — 미치료 상태에서 무증상 갑상선저하증을 "진단"하는 기준과, 이미 치료 중인 환자의 TSH를 "조절"하는 목표를 혼동하지 않도록 함
+  * ✽고령에서는 TSH가 생리적으로 상승하는 경향이 있어, ≥80세는 상한을 \~7.5 mIU/L까지 허용하는 것으로 해석되기도 함 — 약간의 상승이 항상 임상적 의미를 갖는 것은 아님
+* 식이 요법 : 별도로 권고되는 식이 요법은 없으며, 요오드 보충은 요오드 결핍이 확인된 경우에만 고려
 
-* 용량 : 저용량으로 시작(증상에 따라 결정)
-  * ＜60세 & 심장 질환(-) : 50~~100 ㎍ qd (1.5~~1.8 ㎍/㎏/d) \[씬지로이드]
-  * ≥60세 or 심장 질환(+) : 12.5\~50 ㎍ qd; 심장 질환이 있는 환자에 대해서는 TSH가 high-normal range로 유지되도록 낮은 용량으로 시작
-  * TSH를 기준으로 4~~6주마다 12.5~~25 ㎍/d 증량
-* 공복 및 일정한 시간에 투여. 예) 아침 식전 30\~60분 또는 취침 전(마지막 식사 2\~4시간 후)
-  * 취침 전 투여 시 아침 투여보다 T4는 약간 높고 TSH는 낮아짐
-* 갑상선제의 흡수를 방해하는 약제와는 4시간 분리하여 투여
-* T4 및 T3가 단백질과 결합하므로 혈중 단백질 수준에 영향 받음
-  * 혈중 단백질 수준이 낮은 경우에는 감량 : 간질환, 신증후군, 영양 결핍, 고령
-  * 혈중 단백질 수준이 증가하는 경우에는 증량
-  * ✽제조사마다 생물학적 동등성의 차이가 있을 수 있으므로 가능한 한 동일 제조사의 동일 제품을 사용
-*   치료를 통하여 TSH를 정상 수준으로 유지하더라도 fT4는 높고 fT3는 낮을 수 있으며 이때 환자는 저하 증상을
+## <mark style="color:green;">약물 치료</mark>
 
-    계속 느낄 수 있음. 이 경우 금기(예: 불안정 협심증)가 아니라면 fT3가 low-normal range에 도달하도록
+* 1차 선택 : levothyroxine (T4)
+  * liothyronine(T3) : levothyroxine 단독 투여로 조절되지 않는 환자에서 대체제 또는 병용 고려
 
-    갑상선제를 증량할 수 있음
-* 치료 중단 후 6주 이내 재개할 때에는 심장 문제 또는 체중 감소가 없으면 이전 용량으로 재개
+### <mark style="color:orange;">Levothyroxine (T4)</mark>
 
-**약제(T4) 요구량이 증가하는 상황**
+#### <mark style="color:$primary;">용법</mark>
 
-* 임신, 체중 증가, 신증후군, 지속되는 갑상선 이상, 식이 섬유 섭취, 위장관 질환(약제 흡수 감소)
-* 갑상선제 흡수 방해 : 두유, 셀리악병, IBD, 유당 불내증, H. pylori 감염, 위축성 위염, PPI, H2 차단제, sucralfate, Al, Mg, Ca, Fe, 종합 영양제, cholestyramine, colestipol, sertraline, resin, raloxifene, sevelamer, orlistat
-* T4→T3 전환 방해 : amiodarone, steroid, oral cholecystography 조영제(예: iopanoic acid), propylthiouracil, propranolol, nadolol
+* 용량 : 저용량으로 시작(연령·심장 질환 여부에 따라 결정)
+  * ＜60세 & 심장 질환(-) : 통상 50\~100 ㎍ qd로 시작 <mark style="color:blue;">\[씬지로이드]</mark> — 체중 기준 용량 산정 원칙은 1.6 ㎍/㎏/d(약 1.5\~1.8 ㎍/㎏/d)이며, 실제 임상에서는 이를 참고치로 삼아 정제 단위(25 ㎍ 단위)로 반올림하여 처방하는 경우가 많음
+  * ≥60세 또는 심장 질환(+) : 12.5\~50 ㎍ qd로 저용량 시작; 심장 질환 동반 환자는 TSH가 high-normal range로 유지되도록 낮은 용량으로 시작
+  * TSH를 기준으로 4\~6주마다 12.5\~25 ㎍/d씩 증량
+* 공복 및 일정한 시간에 투여 (예 : 아침 식전 30\~60분 또는 취침 전 — 마지막 식사 2\~4시간 후)
+  * 취침 전 투여 시 아침 투여보다 T4는 약간 높고 TSH는 낮아지는 경향
+* 흡수를 방해하는 약제와는 4시간 이상 분리하여 투여
+* T4 및 T3는 혈중 단백질과 결합하므로 단백질 수준에 영향 받음
+  * 혈중 단백질 저하 시 감량 고려 : 간질환, 신증후군, 영양 결핍, 고령
+  * 혈중 단백질 증가 시 증량 고려
+  * ✽제조사마다 생물학적 동등성 차이가 있을 수 있으므로 가능한 한 동일 제조사·동일 제품 유지; **제품을 변경한 경우 6주 후 TSH를 재확인**(국내에서는 약국 대체조제나 처방 변경 시 제품명이 바뀔 수 있어 특히 주의)
+* PPI 장기 복용, 위축성 위염, 위 절제/우회술 등 흡수 장애가 확인되거나 의심되는 환자에서는 액상(liquid) 또는 연질캡슐(soft-gel) 제형이 흡수에 도움이 될 수 있음(정제보다 부형제의 영향을 덜 받음) — 국내 유통 여부 확인 필요
+* 치료 중단 후 6주 이내 재개할 때는 심장 문제·체중 감소가 없으면 이전 용량으로 재개
+
+#### <mark style="color:$primary;">T4 요구량이 증가하는 상황</mark>
+
+* 임신, 체중 증가, 신증후군, 지속되는 갑상선 이상, 식이 섬유 섭취 증가, 위장관 질환(흡수 감소)
+* 흡수 방해 : 두유, 셀리악병, IBD, 유당 불내증, H. pylori 감염, 위축성 위염, PPI, H2 차단제, sucralfate, Al/Mg/Ca/Fe 제제, 종합 영양제, cholestyramine, colestipol, sertraline, resin, raloxifene, sevelamer, orlistat
+* T4→T3 전환 방해 : amiodarone, steroid, oral cholecystography 조영제(예 : iopanoic acid), propylthiouracil, propranolol, nadolol
 * s-TBG 증가 : estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil, clofibrate, heroin, mitotane
 * T4 clearance 증가 : phenytoin, carbamazepine, rifampin, phenobarbital
 
-**약제 요구량이 감소하는 상황**
+#### <mark style="color:$primary;">T4 요구량이 감소하는 상황</mark>
 
 * 출산, 양측 난소 절제, 폐경/HRT 중단, GnRH 작용제 투여
 
-**금기**
+{% hint style="danger" %}
+**⚠️ Levothyroxine 금기 · 주의**\
+급성 심근경색, thyrotoxic heart failure, 조절되지 않는 adrenocortical insufficiency에서는 투여하지 않음(또는 원인 교정 후 투여)
+{% endhint %}
 
-* 급성 MI, thyrotoxic heart failure, 조절되지 않는 adrenocortical insufficiency
+### <mark style="color:orange;">Triiodothyronine (T3)</mark>
 
-#### Triiodothyronine (T3)
+* levothyroxine에 비해 작용이 강하고 반감기가 짧아 용량 조절이 어려움; **일상적인 1차 치료로는 권고되지 않으며, 원칙적으로 내분비내과 전문의가 시작·감독**함 (2023 BTA/SfE 공동 합의 성명)
+* 16건 이상의 RCT와 이를 종합한 메타분석들에서 T4/T3 병용이 T4 단독보다 기분·삶의 질·인지기능 면에서 우월하다는 일관된 근거는 확인되지 않음 — 다만 개별 환자 수준에서 병용요법에 반응하는 경우가 보고되어, 아래 조건을 모두 만족하는 제한된 경우에 한해 전문의 감독 하 시도를 고려할 수 있음
 
-* T3는 효과가 강력한 반면 작용 시간이 짧아 용량 조절이 어려워 일반적으로 권고하지 않음
-* T4 단독 투여로 조절되지 않는 환자에서 대체제로 고려
-* liothyronine \[테트로닌], levothyroxine/liothyronine 복합제 \[콤지로이드]
+#### <mark style="color:$primary;">T3 병용을 고려하기 전 확인 순서</mark>
 
-### 모니터링
+1. **현성 갑상선저하증 진단이 확실한지 확인** — 과거 TSH ≥10 mIU/L 또는 치료 전 낮은 fT4가 문서로 확인되어야 함; 확인되지 않으면 T3 시도보다 levothyroxine을 6주간 중단 후 TSH를 재검하는 방안을 우선 고려
+2. **지속 증상을 설명할 수 있는 동반질환을 배제** — 갑상선저하증 증상은 비특이적이며, 정상 갑상선 기능인 사람의 60%도 유사 증상을 호소할 수 있음
+3. **levothyroxine 용량을 먼저 최적화** — TSH를 참고치 하한부(0.3\~2.0 mIU/L)로 3\~6개월간 유지한 후 반응을 평가; 증상이 좋아진다면 TSH 0.1\~0.3 mIU/L의 경도 저하도 허용 가능하나 TSH＜0.1 mIU/L(완전 억제)는 피함
 
-* 치료 경과 : 치료 시작 1~~2주 내 T4의 유의미한 증가, 2~~3주 후 증상 호전, 6주 후 TSH 안정
-  * TSH가 매우 높았거나 높은 상태에서 장기간 지속되었던 환자는 TSH 정상화에 6개월까지 소요될 수 있음
-*   검사 일정(TSH, fT4) : 진단 초기 및 용량 변경 6(±2)주 후 검사 → 3개월마다 검사 → 2회 연속 참고치 내
+{% hint style="info" %}
+**동반질환 배제를 위한 권장 검사 (BTA/SfE 2023)**\
+FBC, 전해질/신기능, 간기능, calcium, HbA1c, ferritin, B12, vitamin D, transglutaminase Ab(셀리악병); 체중 감소나 부신부전이 의심되면 오전 9시 cortisol; Epworth 척도로 수면무호흡 선별, HADS 등으로 우울 선별
+{% endhint %}
 
-    비슷한 수준으로 유지되면 → 6개월 후 및 매년
-* 시작 용량에서 2\~3차례의 증량 or 200 ㎍/d에도 조절되지 않는 경우 재평가 또는 의뢰 고려
-* 약물 복용 후에는 일시적으로 fT4가 상승하기 때문에 투약 중 추적 검사를 하는 경우에는 약물을 복용 전에 채혈함
-* TSH↑ & fT4 →/↑의 해석 : 평소 복용이 일정하지 않다가 검사 전 수일 동안에만 제대로 복용했을 가능성이 있음
-* TSH가 성공적으로 조절됨에도 불구하고 갑상선저하증 증상이 지속되는 경우 total T3 또는 fT3 검사 → s-T3가 낮은 경우 갑상선제(T4 또는 T4/T3 복합제) 투여량을 약간 늘린 후 F/U
-* 갑자기 조절되지 않는 경우의 원인 : 약 복용 순응도 저하, (약제의 흡수를 방해하는) 음식과 함께 복용, 약제 대사에 영향을 주는(T4 요구량이 증가하는) 상황 발생(예: 새로운 약물 복용 시작)
+* T3 병용을 고려할 수 있는 조건(모두 충족) : ① 현성 원발성 갑상선저하증 진단이 확실 ② levothyroxine 단독으로도 증상이 지속 ③ levothyroxine이 충분한 기간·용량·TSH 반응으로 적절히 투여됨 ④ 증상을 설명할 다른 동반질환이 배제됨 ⑤ 내분비내과 전문의가 시작·감독할 의사가 있음
+* 병용 시작 방법 : liothyronine을 현재 levothyroxine 용량의 약 1/17로 대체 투입하고, levothyroxine 용량은 liothyronine 용량의 3배만큼 감량(예 : 기존 levothyroxine 100 ㎍/d → levothyroxine 85 ㎍/d + liothyronine 5 ㎍/d)
+* TSH가 참고치 내에서 유지된 상태로 최소 3\~6개월간 병용 후 반응을 평가하며, 증상 호전이 없으면 levothyroxine 단독으로 복귀
+* 모니터링은 원칙적으로 TSH만으로 하되, TSH가 낮거나 억제된 경우 fT3/fT4를 추가 측정 — liothyronine 복용 사실을 검사 의뢰서에 기재
+* 반감기가 짧아 이론적으로는 1일 2회 분할 복용이 원칙(예 : 아침·오후로 나눔)이나, 국내 유통 liothyronine 정제(테트로닌정)는 5 ㎍ 단일 함량으로 분할이 어려워 실제로는 저용량(예 : 5 ㎍/d)에서 1일 1회(qd) 복용으로 처방되는 경우가 많음 — 처방 시 반감기·혈중 농도 변동을 환자에게 설명하고, 용량이 늘어나는 경우(10 ㎍/d 이상) BID 분할을 우선 고려
+* liothyronine <mark style="color:blue;">\[테트로닌]</mark>(국내 5 ㎍ 정제만 유통), levothyroxine/liothyronine 복합제 <mark style="color:blue;">\[콤지로이드]</mark> — 국내 건강보험 급여 인정 범위가 제한적일 수 있어 처방 전 급여 기준 확인 필요, 실제 처방 가능 여부도 원내 약제 수급 상황에 따라 다를 수 있음
 
-## 임신/수유 중 관리
+{% hint style="danger" %}
+**⚠️ Liothyronine 장기 사용의 안전성 우려**\
+과다 치료 시 부정맥, 골소실 가속, 뇌졸중 위험이 있어 장기 모니터링이 필요함. 국내 코호트 연구(Yi 등, Thyroid 2022)에서는 liothyronine을 levothyroxine과 함께 또는 단독으로 1년 이상 사용한 군에서 levothyroxine 단독 사용군 대비 뇌졸중·심부전 위험이 유의하게 높았음(특히 1년 이상 노출 시 뚜렷)
+{% endhint %}
 
-* 시작 용량 : 75\~100 ㎍/d or 1.6 ㎍/㎏/d
-* 임신 전부터 levothyroxine을 복용한 경우 20\~30% 증량을 고려 (✽임신 4\~5주째부터 levothyroxine 요구량이 증가함.&#x20;
-  * 증량 예) 평소 stable dose인 경우 주 2회 추가 복용하여 1주에 총 9회 복용)
-* TPO Ab 양성이면서 TSH ＞2.5 mIU/L인 산모는 조산, 유산 등의 위험이 높음
-* 모니터링 (TSH, total T4) : 임신 전반기 매달, 임신 26\~32주, 분만 6주 후
-* 조절 목표&#x20;
-  * TSH : 임신 1분기 2\~2.5 mIU/L, 2분기 ＜3.0 mIU/L, 3분기 ＜3.5 mIU/L
-  * total T4 : 정상 범위
+* **T3 단독요법은 원칙적으로 권고하지 않음** — levothyroxine 또는 그 부형제에 대한 알레르기·불내성이 확인된 경우에 한해 예외적으로 고려
+* **임신 중에는 liothyronine을 사용하지 않음**
+* desiccated thyroid extract(천연 갑상선 추출물)는 사용을 권고하지 않음
+* 감량/중단 시 : liothyronine 5 ㎍은 levothyroxine 약 15 ㎍(1:3 비율)로 대체; 용량 변경 6\~8주 후 TSH 재검; 안정적으로 병용 중이며 TSH가 정상인 환자를 일률적으로 감량할 필요는 없음
+* DIO2, MCT10 등 유전자 다형성이 T4/T3 병용요법 반응과 관련될 수 있다는 소규모 연구가 있으나, 근거가 충분하지 않아 **치료 반응 예측을 위한 유전자 검사는 현재 임상에서 권고되지 않음**(ETA/BTA 공통 입장)
+
+### <mark style="color:orange;">모니터링</mark>
+
+* 치료 경과 : 치료 시작 1\~2주 내 T4의 유의미한 증가, 2\~3주 후 증상 호전, 6주 후 TSH 안정
+  * TSH가 매우 높았거나 높은 상태로 장기간 지속되었던 환자는 TSH 정상화에 6개월까지 소요될 수 있음
+* 검사 일정(TSH, fT4) : 진단 초기 및 용량 변경 6(±2)주 후 검사 → 3개월마다 검사 → 2회 연속 참고치 내 비슷한 수준 유지되면 → 6개월 후 및 매년
+* 시작 용량에서 2\~3차례 증량하거나 200 ㎍/d에도 조절되지 않는 경우 재평가 또는 의뢰 고려
+* 복용 후 일시적으로 fT4가 상승하므로, 투약 중 추적 검사는 그날 약물 복용 전에 채혈
+* TSH↑ & fT4 →/↑의 해석 : 평소 복용이 일정하지 않다가 검사 전 수일 동안만 제대로 복용했을 가능성
+* **LT4 용량은 TSH를 기준으로 조절하며, fT3를 치료 목표로 삼아 용량을 조절하지 않음** — fT3를 low-normal range로 맞추기 위해 증량하는 것은 TSH 억제(과다 치료) 위험을 높이므로 권고되지 않음
+* TSH가 성공적으로 조절됨에도 저하 증상이 지속되는 경우 : 임의로 증량하기보다, 아래 "Triiodothyronine (T3)" 섹션의 확인 순서(진단 재확인 → 동반질환 배제 → TSH 0.3\~2.0으로 최적화)를 따르고 필요시 전문의 의뢰
+* 갑자기 조절되지 않는 원인 : 복용 순응도 저하, (흡수를 방해하는) 음식과 함께 복용, T4 요구량 증가 상황 발생(예 : 새로운 약물 복용 시작)
+
+### <mark style="color:orange;">임신/수유 중 관리</mark>
+
+* 시작 용량 : 75\~100 ㎍/d 또는 1.6 ㎍/㎏/d
+* 임신 전부터 levothyroxine을 복용한 경우 20\~30% 증량 고려 (✽임신 4\~5주부터 levothyroxine 요구량이 증가함; 증량 예 — 평소 stable dose인 경우 주 2회 추가 복용하여 1주에 총 9회 복용)
+* TPO Ab 양성이면서 TSH ＞2.5 mIU/L인 산모는 조산·유산 위험이 높음
+* 모니터링(TSH, total T4) : 임신 전반기 매달, 임신 26\~32주, 분만 6주 후
+* 조절 목표
+  * TSH : 검사기관의 **임신 3분기별(trimester-specific) 참고치**를 우선 사용; 국내 검사기관이 자체 임신 특이 참고치를 제공하지 않는 경우가 많으므로, 이 경우 국제 권고치(임신 1분기 2\~2.5 mIU/L, 2분기 ＜3.0 mIU/L, 3분기 ＜3.5 mIU/L)를 참고
+  * total T4 : 임신 중에는 estrogen에 의한 TBG 증가로 total T4가 자연히 상승하므로, 비임신 참고치를 그대로 적용하지 않고 **비임신 참고치의 약 1.5배**를 목표로 해석(비임신 참고치 범위를 그대로 적용하지 않음)
 * 수유 중에도 levothyroxine 투여를 중단하지 않음
-*   Postpartum thyroiditis : 출산 2\~6주 후에 갑상선 항진 증상 발생하여 2\~3개월 동안 지속된 후, 수개월 동안
+* Postpartum thyroiditis : 출산 2\~6주 후 갑상선 항진 증상이 발생하여 2\~3개월 지속된 후, 수개월간 갑상선 저하 증상이 이어질 수 있음 — **약 30%에서는 갑상선저하증이 영구적으로 지속**될 수 있어 해당 환자는 장기 추적이 필요
 
-    갑상선 저하 증상이 이어질 수 있음 (30%에서 갑상선저하증이 지속될 수 있음)
+***
 
+## <mark style="color:green;">무증상 갑상선저하증 Subclinical Hypothyroidism</mark>
 
+* TSH는 증가되었으나 fT4는 정상으로, 갑상선 호르몬 저하 관련 증상이 뚜렷하지 않거나 비특이적인 상태(건강검진에서 우연히 발견되는 경우가 흔함)
+* 소아·청소년, 임신부, 임신을 시도하는 여성은 이 섹션의 적용 대상에서 제외 — 별도의 임신 중 갑상선질환 지침을 따름
+* 유병률 : 국외 4\~20%; 국내는 측정법·연령·지역에 따라 0.2\~17.3%로 보고(40\~70세 지역사회 코호트 11.7%, 65세 이상 코호트 17.3%); 여성·고령에서 유병률 증가
+* 선별 검사 : 권고하지 않음 — 무증상 환자에 대한 선별 검사와 치료가 예후를 향상시킨다는 근거는 부족함
 
-## ￭ 무증상 갑상선저하증 Subclinical (Mild) Hypothyroidism
+{% hint style="info" %}
+**국내 진단 기준 및 중증도 분류 (2023 대한갑상선학회 무증상갑상선기능저하증 진료 권고안)**\
+2013\~2015년 국민건강영양조사 기준집단(갑상선질환·가족력 없음, 갑상선자가항체 음성, 비임신) 분석에 근거하여 한국인 TSH 참고치를 **0.6\~6.8 mIU/L**로 제시 — 국제적으로 흔히 쓰이는 4.0\~5.0 mIU/L 상한보다 높음(요오드 과잉 섭취와 연관)\
+✽경증(mild) : TSH 6.8\~10.0 mIU/L / 중증(severe) : TSH ＞10.0 mIU/L\
+✽연령 구분 : 성인(＜70세) / 고령(≥70세) — 연령에 따라 LT4 치료의 이득·위해가 다르므로 구분하여 접근\
+✽해외 문헌(TSH 상한 4.0\~5.0 기준)을 인용·비교할 때는 국내 기준과 컷오프가 다름을 반드시 감안 — 동일한 "무증상 갑상선저하증"이라도 포함되는 TSH 범위가 다를 수 있음
+{% endhint %}
 
-* TSH는 증가되었으나 fT4 및 hypothalamic-pituitary-thyroid axis는 정상으로, 갑상선 호르몬 저하 관련 증상이 발생하지 않은 상태
-* 피로, 우울증, 고지혈증 등의 징후가 나타날 수 있음
-* ≥65세에서 흔함(유병률 13%)
-* 선별 검사 : 권고 안 함; 무증상 환자에 대한 선별 검사와 치료가 예후를 향상시키는 근거가 없음
+### <mark style="color:orange;">원인</mark>
 
-### 원인
+* 갑상선 질환 : chronic autoimmune thyroiditis(하시모토 갑상선염, 가장 흔함), 침윤성 갑상선염(amyloidosis, sarcoidosis, primary thyroid lymphoma, Riedel's thyroiditis), 일과성 갑상선염(아급성, 무통성, 산후 갑상선염), 현성 갑상선저하증 환자의 불충분한 LT4 치료(용량 부족, 순응도 저하, 흡수 감소, 대사 증가), 갑상선 무형성증
+* 비갑상선 질환 : 비갑상선질환증후군(sick euthyroid) 회복기, 부신피질저하, 만성신부전, 두경부 악성종양, 고도비만(BMI ＞40), 중추갑상선기능이상, 갑상선호르몬저항증후군
+* 약물 : 요오드 조영제, amiodarone, lithium, tyrosine kinase inhibitor, interferon-α, 면역관문억제제(ipilimumab, pembrolizumab 등)
+* 요오드 섭취의 결핍 또는 과잉(국내는 고요오드 섭취 지역에 해당)
+* 기타 : 고령, 계절/일중 변동, 측정 방법에 따른 차이, TSH 측정 방해 요인(이종친화항체, 류마티스인자, 비오틴, macro-TSH, TSH 아형 이상)
 
-* chronic autoimmune thyroiditis, subacute thyroiditis, postpartum thyroiditis, painless thyroiditis
-* 갑상선 손상 : 부분 갑상선 절제, 경부 수술, 방사선 요오드 치료, 두경부 방사선 조사
-*   갑상선 기능 저해 약물 : 요오드 및 함유 약물(예: amiodarone, 방사선 조영제, interferon-α, ethionamide,
+### <mark style="color:orange;">경과 및 현성 갑상선저하증으로의 진행</mark>
 
-    sulfonamide, sulfonylurea)
-* 갑상선저하증의 불충분한/부적당한 치료
-*   갑상선 침윤 : amyloidosis, sarcoidosis, hemochromatosis, Riedel’s thyroiditis, cystinosis, HIV 감염,
+* 첫 발견 시 반드시 2\~3개월 후 TSH를 재검하여 지속 여부를 확인(일과성 상승 배제); 진행 예측을 위해 TPO Ab를 함께 측정(반복 측정은 불필요)
+* 진행률 : 무증상갑상선저하증 환자는 정상 갑상선기능 환자보다 5년 이내 현성 갑상선저하증이 될 확률이 약 10배 높음; 5년 추적 시 2.0\~3.4%, 10년 이상 추적 시 33\~55%가 현성으로 진행
+* 진행 위험 인자 : 진단 시 높은 TSH·낮은 fT4, TPO Ab 양성, 추적 검사에서 TSH 2배 이상 상승, 여성, 갑상선종대, 초음파상 에코 저하/염증 소견, 고령, 요오드 과잉 섭취, 고혈당·이상지질혈증·비만·고혈압, 심방세동, 신장질환, amiodarone 복용
 
-    primary thyroid lymphoma
-* 직업/환경 독성 물질
-* TSH 수용체 유전자 변이 : Gα gene mutation
+### <mark style="color:orange;">치료 선별 (2023 대한갑상선학회 권고)</mark>
 
-### 경과
+_✽아래 경증/중증 TSH 구간(6.8\~10 / ＞10 mIU/L)은 **대한갑상선학회 2023 기준**이며, 국제 가이드라인(주로 4.5\~5.0 / 10 mIU/L 기준 사용)과 다를 수 있으므로 혼동하지 않도록 주의_
 
-* 35%가 2년 내 정상화; antithyroid Ab가 없고 TSH 상승이 적은 경우에 정상화 가능성이 높음
-* 10%가 3년 내 임상적 갑상선저하증으로 진행됨
-* 50%가 anti-thyroid Ab(+)이며 이 경우에 추후 증상이 있는 갑상선저하증이 발생할 가능성이 보다 높음
+<table><thead><tr><th width="110">연령</th><th width="140">중증도</th><th>권고</th></tr></thead><tbody><tr><td>성인(＜70세)</td><td>경증(6.8\~10)</td><td>LT4 치료는 일반적으로 권고하지 않음 [Weak, Moderate]</td></tr><tr><td>성인(＜70세)</td><td>중증(＞10)</td><td>관상동맥질환·심부전 동반 시 치료 시행 [Strong, Moderate]; 이상지질혈증 동반 시 개선 목적으로 고려 가능 [Weak, Moderate]</td></tr><tr><td>고령(≥70세)</td><td>경증(6.8\~10)</td><td>치료하지 않음 [Strong, High]</td></tr><tr><td>고령(≥70세)</td><td>중증(＞10)</td><td>일반적으로 권고하지 않음 [Weak, Moderate]</td></tr></tbody></table>
 
-### 치료
+* 대사증후군·비만 개선 목적의 LT4 치료는 시행하지 않음 [Strong, Moderate]
+* 우울증 개선 목적(성인 ＜70세) 및 인지기능 개선 목적(고령 ≥70세)의 LT4 치료는 권고하지 않음 — 여러 RCT·메타분석에서 유의한 효과가 확인되지 않음
+* 갑상선저하 관련 증상 자체의 호전만을 목표로 한 LT4 치료도 일반적으로 권고하지 않음(성인 [Weak, Low], 고령 [Strong, Moderate]) — 다만 TSH ≥12 mIU/L인 하위군에서 일부 증상 호전을 시사한 **소규모 사후 분석(post-hoc subgroup analysis)** 결과가 있으나 근거 수준이 낮아 과잉 해석에 주의
+* T3/T4 복합제는 무증상갑상선저하증에 근거가 부족하여 권고하지 않음
 
-* 일률적 치료는 권고하지 않음
-  * 환자는 이미 적응된 상태이거나, TSH 상승이 연령 증가에 대한 보상 작용일 가능성이 있음
-  *   치료의 문제점 : 과잉 치료 시 심장 문제, 골다공증, 골절 위험을 증가시킬 수 있음. 고령에서는 치료가
+***
 
-      사망 위험을 높인다는 보고가 있음. 치료 시작 후에는 치료 종료 시점을 결정하기 어려움
-* 치료 고려 대상 : TSH ＞10 mIU/L(이 상태에서는 대부분 증상이 나타나기 시작함)
+```mermaid
+flowchart TD
+    Start["무증상갑상선기능저하증<br>(TSH↑, fT4 정상) 확인"] --> Retest["2~3개월 후<br>TSH + TPO Ab 재검"]
+    Retest --> Persist{"TSH 상승<br>지속?"}
+    Persist -->|아니오| Resolve["일과성 상승<br>추가 조치 불필요"]
+    Persist -->|예| Age{"연령 ≥70세?"}
 
-#### 치료제
+    Age -->|예 · 고령| ElderlyMild["경증<br>TSH 6.8~10"]
+    Age -->|예 · 고령| ElderlySevere["중증<br>TSH ＞10"]
+    ElderlyMild --> ElderlyMildTx["치료하지 않음<br>Strong"]
+    ElderlySevere --> ElderlySevereTx["일반적으로<br>치료 안 함 · Weak"]
 
-* levothyroxine : TSH 정도에 따라 25\~75 ㎍/d로 시작 \[씬지로이드]
+    Age -->|아니오 · 성인 ＜70세| AdultMild["경증<br>TSH 6.8~10"]
+    Age -->|아니오 · 성인 ＜70세| AdultSevere["중증<br>TSH ＞10"]
+    AdultMild --> AdultMildTx["원칙적으로 치료 안 함 · Weak<br>진행위험인자 시 추적 강화"]
+    AdultSevere --> CADHF{"관상동맥질환/<br>심부전 동반?"}
+    CADHF -->|예| TxYes["LT4 치료 시행<br>Strong"]
+    CADHF -->|아니오| Dyslip{"이상지질혈증<br>동반?"}
+    Dyslip -->|예| TxConsider["LT4 치료 고려<br>Weak"]
+    Dyslip -->|아니오| Observe["치료하지 않고<br>정기 추적(6개월~1년)"]
 
-### 모니터링
+    style Start fill:#f1ecf7,stroke:#d3c5e5,stroke-width:1px
+    style Retest fill:#edf7ed,stroke:#cce8cc,stroke-width:1px
+    style Persist fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
+    style Resolve fill:#edf4f9,stroke:#d0e1f9,stroke-width:1px
+    style Age fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
+    style ElderlyMild fill:#e1f5fe,stroke:#01579b,stroke-width:1px
+    style ElderlySevere fill:#e1f5fe,stroke:#01579b,stroke-width:1px
+    style ElderlyMildTx fill:#fde8e8,stroke:#fbc4c4,stroke-width:1px
+    style ElderlySevereTx fill:#fde8e8,stroke:#fbc4c4,stroke-width:1px
+    style AdultMild fill:#fff3e0,stroke:#e65100,stroke-width:1px
+    style AdultSevere fill:#fff3e0,stroke:#e65100,stroke-width:1px
+    style AdultMildTx fill:#fde8e8,stroke:#fbc4c4,stroke-width:1px
+    style CADHF fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
+    style Dyslip fill:#fff9e6,stroke:#ffeaa7,stroke-width:1px
+    style TxYes fill:#f96,stroke:#e65100,stroke-width:2px
+    style TxConsider fill:#edf4f9,stroke:#d0e1f9,stroke-width:1px
+    style Observe fill:#edf4f9,stroke:#d0e1f9,stroke-width:1px
+```
 
-* 치료하지 않는 경우 매년 TFT 검사 권고
-* anti-thyroid Ab의 일률적 검사는 권하지 않음
+<p align="center"><strong>무증상 갑상선저하증 진료 흐름도</strong></p>
 
+<p align="center"><em><mark style="color:$info;">Ref. 2023 대한갑상선학회 무증상갑상선기능저하증 진료 권고안 (Int J Thyroidol 2023;16(1):32-50)</mark></em></p>
 
+***
 
-### **질병코드**&#x20;
+#### <mark style="color:$primary;">치료제 및 용량 조정</mark>
+
+* 경구 LT4가 가장 적절한 치료 [Strong, High]
+* 초기 용량 12.5\~50 ㎍/d; 고령 또는 심혈관질환 위험을 동반한 환자는 12.5\~25 ㎍/d로 시작하여 1\~2개월 간격으로 갑상선 기능을 추적하며 TSH 정상화를 목표로 조정 <mark style="color:blue;">\[씬지로이드]</mark>
+* 치료 중 갑상선기능항진 상태로 전환되면 감량 또는 중단을 시도
+* 치료를 시작했더라도 경증이면서 TPO Ab 음성, 초음파상 정상 갑상선 실질 소견을 보이는 환자는 추후 중단을 시도해 볼 수 있음(중단 성공률 약 35.6%)
+
+### <mark style="color:orange;">모니터링</mark>
+
+* 치료하지 않는 경우 : 첫 확인 후 6개월 이내 재검, 이후 안정적이면 6개월\~1년 간격으로 추적(경증은 더 늦게, 중증은 더 일찍 고려 가능)
+* TPO Ab의 일률적 반복 검사는 권하지 않음
+
+### <mark style="color:orange;">환자 교육 (전문가 권고사항)</mark>
+
+* 지속적인 무증상갑상선저하증에서는 정기적인 갑상선 기능 검사가 필요함을 설명(미치료 시 현성 진행 여부 확인, 치료 중이면 용량 적절성 평가 목적)
+* 만성 자가면역갑상선염이 의심되면 저요오드 식이를 권장하고, 고요오드 함유 건강보조식품(다시마 진액 등)은 피하도록 교육
+* 모든 가임기 여성에게 임신 관련 주의사항을 교육 — 특히 LT4 치료 없이 경과 관찰 중인 여성은 계획 임신의 필요성과, 임신 확인 시 즉시 갑상선 기능 검사가 필요함을 설명
+
+***
+
+### <mark style="color:red;">질병코드</mark>
 
 E03 기타 갑상선기능저하증
 
-E06 갑상선염
+E03.5 점액수종 혼수 (Myxedema coma)
 
-E89.0 처치후 갑상선기능저하증 질병코드
+E03.8 기타 명시된 갑상선기능저하증
 
+E03.9 상세불명 갑상선기능저하증
 
+E06.3 만성 림프구성 갑상선염 (하시모토병)
 
-## 처방례
+E89.0 처치후 갑상선기능저하증
 
-씬지로이드 0.05 mg/T 1T qd → 유지 0.1 mg/T 1\~2T qd
+***
 
+## <mark style="color:purple;">처방례</mark>
 
+> **처방례 1. 표준 초회 용량 (60세 미만, 심장 질환 없음)**
+>
+> ```
+> 씬지로이드정 0.1 mg/T   1T   qd  아침 식전 30~60분
+> ```
+>
+> _✽통상 50\~100 ㎍/d로 시작(체중 기준 산정 원칙은 1.6 ㎍/㎏/d, 약 1.5\~1.8 ㎍/㎏/d); TSH 기준 4\~6주마다 12.5\~25 ㎍/d씩 증량하며 검사실 참고치(대략 0.4\~4.0 mIU/L) 내로 TSH가 들어올 때까지 조정_
 
-##
+> **처방례 2. 고령 또는 관상동맥질환 동반 환자 (저용량 시작)**
+>
+> ```
+> 씬지로이드정 0.025 mg/T   1T   qd  아침 식전 30~60분
+> ```
+>
+> _✽12.5\~50 ㎍/d로 최저 용량 시작; 협심증 유발 여부를 관찰하며 4\~6주 간격으로 12.5\~25 ㎍씩 서서히 증량; 불안정 협심증이 있으면 순환기내과 협진 후 조정_
+
+> **처방례 3. 임신 중 갑상선저하증**
+>
+> ```
+> 씬지로이드정 0.1 mg/T   1T   qd  아침 식전 30~60분
+> ```
+>
+> _✽75\~100 ㎍/d(또는 1.6 ㎍/㎏/d)로 시작; 기존 복용자는 확인 즉시 20\~30% 증량(예 : 주 2회 추가 복용); 임신 1분기 목표 TSH 2\~2.5 mIU/L; 매달 TSH·total T4 추적, 분만 6주 후 재평가_
+
+> **처방례 4. 무증상 갑상선저하증, 중증(TSH＞10) + 관상동맥질환/심부전 동반 (성인 ＜70세, 치료 대상)**
+>
+> ```
+> 씬지로이드정 0.025 mg/T   1T   qd  아침 식전 30~60분
+> ```
+>
+> _✽12.5\~25 ㎍/d로 시작하여 1\~2개월 간격으로 TSH를 추적하며 정상화까지 서서히 증량; 성인(＜70세) 경증(TSH 6.8\~10)은 원칙적으로 치료하지 않으며, 고령(≥70세)은 경증·중증 모두 일반적으로 치료하지 않음(2023 대한갑상선학회 권고) — 치료하지 않는 경우 6개월\~1년 간격 TFT 추적_
+
+> **처방례 5. Levothyroxine 최적화에도 증상이 지속되는 경우 (전문의 감독 하 T3 병용 트라이얼)**
+>
+> ```
+> 씬지로이드정 0.085 mg/T   1T   qd  아침 식전
+> 테트로닌정 5 mcg/T   1T   qd  아침 식전 (levothyroxine과 동시 복용)
+> ```
+>
+> _✽예시는 기존 levothyroxine 100 ㎍/d 복용자를 liothyronine 1/17 대체 원칙(BTA/SfE 2023)에 따라 levothyroxine 85 ㎍ + liothyronine 5 ㎍으로 전환한 것; 국내 유통 테트로닌정이 5 ㎍ 단일 함량이라 이 용량에서는 qd로 처방; **반드시 내분비내과 전문의 감독 하에서만 시작**하며 1차 의료 단독 개시는 권장하지 않음; 현성 갑상선저하증 진단이 확실하고, 동반질환을 배제했으며, levothyroxine을 TSH 0.3\~2.0 mIU/L로 3\~6개월 이상 최적화했음에도 증상이 지속되는 경우에 한해 시도; 최소 3\~6개월 트라이얼 후 무반응 시 levothyroxine 단독으로 복귀; 임신 중에는 사용하지 않음_
+
+***
+
+### <mark style="color:$success;">핵심 복약 지도</mark>
+
+> **복용 시간과 방법**
+>
+> * 공복에, 매일 같은 시간에 복용하도록 지도(아침 식전 30\~60분 또는 취침 전 — 마지막 식사 2\~4시간 후 중 하나를 선택해 일관되게 유지)
+> * 칼슘·철분제, 제산제, 종합 비타민 등 흡수를 방해하는 약제·음식과는 최소 4시간 간격을 두고 복용
+> * 커피는 흡수를 감소시킬 수 있으므로 복용 후 최소 30\~60분이 지난 뒤에 마시도록 안내
+> * 하루 복용을 깜빡한 경우 : 그날 안에 기억나면 즉시 복용; 다음 날까지 기억하지 못했다면 다음 날 평소 용량의 2배를 한 번에 복용해도 됨(단, 협심증 등 심장 질환이 있는 환자는 임의로 배수 복용하지 말고 병원에 문의하도록 안내)
+
+> **평생 복용 및 정기 검사의 필요성**
+>
+> * 대부분의 원발성 갑상선저하증은 영구적이므로 증상이 좋아졌다고 임의로 중단하지 않도록 설명
+> * 용량 변경 후 6주경 재검사가 필요하며, 그 사이 임의로 용량을 조절하지 않도록 지도
+> * 가능한 한 동일 제조사·동일 제품을 유지 — 제품을 변경한 경우 6주 후 재검사를 받도록 안내
+
+> **임신 계획 시**
+>
+> * 임신을 계획 중이거나 임신을 확인한 경우 즉시 알리도록 안내 — 임신 초기부터 요구량이 20\~30% 증가하므로 조기 증량과 빈번한 모니터링이 필요함
+
+> **Liothyronine(T3)을 함께 복용하는 경우**
+>
+> * levothyroxine만으로 충분한 기간 최적화했음에도 증상이 지속될 때 전문의 감독 하 제한적으로 병용하는 약이며, 일상적인 1차 약제가 아님을 설명
+> * 반감기가 짧아 이론적으로는 하루 2회 분할 복용이 원칙이나, 국내 정제(5 ㎍)는 분할이 어려워 저용량에서는 1일 1회로 처방되는 경우가 많음을 설명
+> * 두근거림, 손 떨림, 불면 등 과다 복용 징후를 스스로 관찰하도록 교육하고, 정기적인 TSH(필요시 fT3) 추적이 필요함을 안내
+> * 3\~6개월 트라이얼 후에도 증상 호전이 없으면 levothyroxine 단독으로 되돌아갈 수 있음을 미리 설명
+
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 새로운 흉통, 두근거림, 심한 불안·수면장애 등 과다 복용을 시사하는 증상이 생긴 경우
+> * 임신을 계획하거나 확인한 경우
+> * 다른 병원에서 새로운 약(철분제, 제산제, 골다공증약, 항경련제 등)을 처방받은 경우
+> * 처방된 용량을 꾸준히 복용했음에도 6주 후 검사에서 TSH가 정상화되지 않거나 증상이 지속되는 경우
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**갑상선저하증, 매일 같은 시간에 꾸준히 복용하는 것이 핵심입니다**
+
+갑상선저하증은 목 앞쪽의 갑상선에서 만드는 호르몬이 부족해 몸의 대사가 전반적으로 느려지는 상태입니다. 대부분 부족한 호르몬을 약으로 매일 보충하면 증상이 좋아지고 정상적인 생활이 가능합니다.
+{% endhint %}
+
+#### <mark style="color:$primary;">왜 갑상선저하증이 생기나요?</mark>
+
+* 가장 흔한 원인은 몸의 면역계가 자신의 갑상선을 서서히 공격하는 만성 자가면역성 갑상선염(하시모토병)입니다
+* 갑상선 수술이나 방사성 요오드 치료를 받은 뒤에도 생길 수 있습니다
+* 대부분은 평생 관리가 필요한 만성 질환이지만, 매일 약을 챙겨 드시면 정상적인 컨디션을 유지할 수 있습니다
+
+#### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
+
+* **매일 같은 시간, 빈속에 드십시오.** 아침 식사 30\~60분 전이나 잠들기 직전(마지막 식사 후 2\~4시간 뒤) 중 편한 시간을 정해 꾸준히 지키는 것이 중요합니다
+* **철분제, 칼슘제, 제산제, 종합 비타민과는 4시간 이상 간격**을 두고 드십시오. 함께 드시면 약효가 떨어질 수 있습니다
+* 증상이 좋아졌다고 **임의로 중단하거나 용량을 바꾸지 마십시오.** 대부분 평생 복용해야 하는 약이며, 용량 조절은 혈액 검사 결과를 보고 의사가 결정합니다
+* 처방받은 것과 **같은 제품을 계속 사용**하십시오. 다른 제품으로 바꾸면 흡수량이 달라질 수 있습니다
+
+#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+
+* 특별한 식이 제한은 없으나, 콩(두유) 제품이나 섬유질이 매우 많은 식사는 약 흡수를 낮출 수 있어 약 복용 시간과 겹치지 않게 하십시오
+* 정기적으로(초기에는 6주 간격, 안정되면 6개월\~1년 간격) 혈액 검사를 받으십시오
+* 임신을 계획하거나 임신 사실을 확인하면 **바로 병원에 알리십시오.** 임신 초기부터 필요한 약의 양이 늘어납니다
+
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+
+* 가슴 두근거림, 흉통, 손 떨림, 심한 불면 등 약이 과할 때 나타나는 증상이 생긴 경우
+* 원래 있던 갑상선저하증 환자가 갑자기 몸이 매우 차갑고 축 처지며 말이 어눌해지거나 의식이 흐려지는 경우 — 매우 드물지만 응급 상황(myxedema coma)일 수 있으므로 즉시 응급실로 가십시오
+* 약을 꾸준히 복용했는데도 증상이 나아지지 않거나 검사 수치가 계속 정상으로 돌아오지 않는 경우
