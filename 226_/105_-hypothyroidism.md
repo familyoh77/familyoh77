@@ -4,28 +4,30 @@
 
 * 갑상선 호르몬 감소 또는 호르몬에 대한 말초 저항에 의해 발생하는 대사 이상 상태
 * 스펙트럼 : 무증상(무증상 갑상선저하증) \~ 경증/현성 저하증 \~ (치료하지 않으면) myxedema coma까지 다양한 수준의 증상을 보임
-* 유병률 : 일반 인구의 ＞1%; ＞60세의 5%
-* 경과 : Hashimoto 갑상선염에 의한 경증 저하증의 자연 회복률 11%
+* 유병률 : 일반 인구의 ＞1%, ＞60세의 5%
+* 경과 : Hashimoto 갑상선염에 의한 경증 저하증의 자연 회복률 - 11%
   * 치료 중단 후 재발할 수 있음
-  * 대부분의 원발성 저하증(특히 만성 자가면역성, 갑상선 절제/방사성 요오드 후)은 영구적이며 평생 호르몬 보충이 필요함
+  * 대부분의 원발성 저하증(특히 만성 자가면역성, 갑상선 절제/방사성 요오드 치료)은 영구적이며 평생 호르몬 보충이 필요함
 
 ## <mark style="color:green;">원인</mark>
 
 #### <mark style="color:$primary;">원발성 (Primary) hypothyroidism</mark>&#x20;
 
-* ＞95% 차지
-* chronic autoimmune thyroiditis (Hashimoto thyroiditis) - 가장 흔함
-* 의인성 : 갑상선 절제, 방사성 요오드 치료
-* 요오드 결핍 또는 과잉
-* 약물 : 갑상선항진증 치료제(propylthiouracil, methimazole), lithium, amiodarone, tyrosine kinase inhibitor, interleukin-2, interferon-α
-* 침윤성 질환 : fibrous thyroiditis, hemochromatosis, sarcoidosis
-* 일부 thyroiditis에서는 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음 : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis
-* 선천성 갑상선 무형성, 호르몬 합성 결핍
+* [ ] 갑상선저하증의＞95% 차지
+
+- chronic autoimmune thyroiditis (Hashimoto thyroiditis) - 가장 흔함
+- 의인성 : 갑상선 절제, 방사성 요오드 치료
+- 요오드 결핍 또는 과잉
+- 약물 : 갑상선항진증 치료제(propylthiouracil, methimazole), lithium, amiodarone, tyrosine kinase inhibitor, interleukin-2, interferon-α
+- 침윤성 질환 : fibrous thyroiditis, hemochromatosis, sarcoidosis
+- 일부thyroiditis : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis - 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음
+- 선천성 갑상선 무형성, 호르몬 합성 결핍
 
 #### <mark style="color:$primary;">중추성(Central) hypothyroidism</mark>
 
 * hypothalamic-pituitary 질환에 의한 TRH/TSH 결핍; 드묾
-* TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 - TSH만으로는 배제되지 않으므로 free T4 저하를 기준으로 진단
+
+- [ ] TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 - TSH만으로는 배제되지 않으므로 free T4 저하를 기준으로 진단
 
 {% hint style="danger" %}
 **중추성 갑상선저하증에서는 부신부전 동반 여부를 반드시 확인** : 뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
@@ -33,7 +35,7 @@
 
 #### <mark style="color:$primary;">Resistance to thyroid hormone β (RTHβ)</mark>
 
-* 드묾; 대부분 THRB 유전자 이상에 의한 갑상선 호르몬 수용체 저항(과거 "generalized thyroid hormone resistance"로 불림)
+* 대부분 THRB 유전자 이상에 의한 갑상선 호르몬 수용체 저항(과거 "generalized thyroid hormone resistance"로 불림); 드묾
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -83,12 +85,13 @@
 
 {% hint style="info" %}
 **TSH의 계절적 변이** : TSH는 계절에 따라 변동하므로(1\~2월에 최고, 6\~8월에 최저), TSH가 약간 상승하면서 fT4가 정상 범위이면 바로 갑상선저하증으로 진단하여 약물을 처방하기보다 2\~3개월 후 추적 검사를 고려할 수 있음\
-✽비순응도, 비갑상선질환 회복기 등 TSH 상승의 다른 원인을 먼저 배제한 경우에 한하여 참고 - "겨울이라서"로 안이하게 해석하지 않도록 주의
+✽비순응도, 비갑상선질환 회복기 등 TSH 상승의 다른 원인을 먼저 배제한 경우에 한하여 참고 - 계절 요인으로 쉽게 해석하지 않도록 주의
 {% endhint %}
 
 ### <mark style="color:orange;">기타 검사</mark>
 
-* anti-thyroperoxidase Ab(TPO Ab), anti-thyroglobulin Ab : autoimmune thyroiditis에서 상승; TSH가 크게 높거나 치료 반응이 불량한 환자에서 고려; 반복 검사는 불필요; TSH receptor Ab(TRAb)는 갑상선저하증 평가에는 필요하지 않음(항진증·Graves병 감별에 사용)
+* anti-thyroperoxidase Ab(TPO Ab), anti-thyroglobulin Ab : autoimmune thyroiditis에서 상승. TSH가 크게 높거나 치료 반응이 불량한 환자에서 고려. 반복 검사는 불필요
+  * [ ] TSH receptor Ab(TRAb)는 갑상선저하증 평가에는 필요하지 않음(항진증·Graves병 감별에 사용)
 * 영상 검사 : 보통 불필요; 종괴가 만져질 때 고려
 * 동반 대사 이상 검사 고려 : 저혈당, 빈혈, Na↓, 이상지질혈증
 
@@ -147,8 +150,9 @@ style Referral fill:#fdebd0,stroke:#e67e22
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 치료 목표 : TSH를 검사실 참고치 내로 유지하는 것이 원칙 - 대부분의 성인에서 대략 0.4\~4.0 mIU/L(검사기관·측정법에 따라 다를 수 있음); 특정 수치를 일률적 목표로 고정하기보다 참고치 범위를 기준으로 함
-  * 주의 : 이 titration 목표(0.4\~4.0 mIU/L)는 이미 약물 치료 중인 현성 갑상선저하증 환자의 적정 조절 기준이며, 한국인 진단 상한(6.8 mIU/L)과는 별개의 개념임 - 미치료 상태에서 무증상 갑상선저하증을 "진단"하는 기준과, 이미 치료 중인 환자의 TSH를 "조절"하는 목표는 다를 수 있음
+* 치료 목표 : TSH를 검사실 참고치 내로 유지 - 특정 수치를 일률적 목표로 고정하기보다 참고치 범위를 기준으로 함
+  * 대부분의 성인에서 대략 0.4\~4.0 mIU/L (검사기관·측정법에 따라 다를 수 있음)
+  * 이 titration 목표(0.4\~4.0 mIU/L)는 이미 약물 치료 중인 현성 갑상선저하증 환자의 적정 조절 기준이며, 한국인 진단 상한(6.8 mIU/L)과는 별개의 개념임 - 미치료 상태에서 무증상 갑상선저하증을 "진단"하는 기준과, 이미 치료 중인 환자의 TSH를 "조절"하는 목표는 다를 수 있음
   * 고령에서는 TSH가 생리적으로 상승하는 경향이 있어, ≥80세는 상한을 \~7.5 mIU/L까지 허용하는 것으로 해석되기도 함 - 약간의 상승이 항상 임상적 의미를 갖는 것은 아님
 * 식이 요법 : 별도로 권고되는 식이 요법은 없으며, 요오드 보충은 요오드 결핍이 확인된 경우에만 고려
 
@@ -161,15 +165,17 @@ style Referral fill:#fdebd0,stroke:#e67e22
 
 #### <mark style="color:$primary;">용법</mark>
 
-* 용량 : 저용량으로 시작(연령·심장 질환 여부에 따라 결정)
-  * ＜60세 & 심장 질환(-) : 통상 50\~100 ㎍ qd로 시작 <mark style="color:blue;">\[씬지로이드]</mark> - 체중 기준 용량 산정 원칙은 1.6 ㎍/㎏/d(약 1.5\~1.8 ㎍/㎏/d)이며, 실제 임상에서는 이를 참고치로 삼아 정제 단위(25 ㎍ 단위)로 반올림하여 처방하는 경우가 많음
-  * ≥60세 또는 심장 질환(+) : 12.5\~50 ㎍ qd로 저용량 시작; 심장 질환 동반 환자는 TSH가 high-normal range로 유지되도록 낮은 용량으로 시작
+* 용량 : 저용량으로 시작 (연령·심장 질환 여부에 따라 결정)
+  * ＜60세 & 심장 질환(-) : 1.6 ㎍/㎏/d (약 1.5\~1.8 ㎍/㎏/d), 통상 50\~100 ㎍ qd로 시작 <mark style="color:blue;">\[씬지로이드]</mark>&#x20;
+    * [ ] 임상에서는 이를 참고하여 정제 단위(25 ㎍ 단위)로 반올림하여 처방하는 경우가 많음
+  * ≥60세 or 심장 질환(+) : 저용량(12.5\~50 ㎍ qd)으로 시작
+    * 심장 질환 동반 환자는 TSH가 high-normal range로 유지되도록 낮은 용량으로 시작
   * TSH를 기준으로 4\~6주마다 12.5\~25 ㎍/d씩 증량
-* 공복 및 일정한 시간에 투여 (예 : 아침 식전 30\~60분 또는 취침 전 - 마지막 식사 2\~4시간 후)
-  * 취침 전 투여 시 아침 투여보다 T4는 약간 높고 TSH는 낮아지는 경향
+* 공복 및 일정한 시간에 투여 : 예) 아침 식전 30\~60분 또는 취침 전(마지막 식사 2\~4시간 후)
+  * [ ] 취침 전 복용 시 아침 복용보다 T4가 약간 높고 TSH가 낮아지는 경향이 있는 것으로 보고됨 - 수면 중에는 공복 상태가 자연히 유지되어 커피·음식·칼슘제 등 흡수 저해 요인이 적고, 야간 위장관 운동 저하로 약물-점막 접촉 시간이 길어져 약물의흡수가 증가하기 때문으로 추정
 * 흡수를 방해하는 약제와는 4시간 이상 분리하여 투여
 * T4 및 T3는 혈중 단백질과 결합하므로 단백질 수준에 영향 받음
-  * 혈중 단백질 저하 시 감량 고려 : 간질환, 신증후군, 영양 결핍, 고령
+  * 혈중 단백질 저하(예: 간질환, 신증후군, 영양 결핍, 고령 등) 시 감량 고려
   * 혈중 단백질 증가 시 증량 고려
   * ✽제조사마다 생물학적 동등성 차이가 있을 수 있으므로 가능한 한 동일 제조사·동일 제품 유지; **제품을 변경한 경우 6주 후 TSH를 재확인**(국내에서는 약국 대체조제나 처방 변경 시 제품명이 바뀔 수 있어 특히 주의)
 * PPI 장기 복용, 위축성 위염, 위 절제/우회술 등 흡수 장애가 확인되거나 의심되는 환자에서는 액상(liquid) 또는 연질캡슐(soft-gel) 제형이 흡수에 도움이 될 수 있음(정제보다 부형제의 영향을 덜 받음) - 국내 유통 여부 확인 필요
