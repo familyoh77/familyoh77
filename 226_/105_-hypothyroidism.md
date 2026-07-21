@@ -73,6 +73,7 @@
 * 필요시 total T4, total T3, free T3
   * [ ] free 또는 total T3만으로는 갑상선저하증을 진단하지 않음 - 갑상선 기능 저하 초기에는 T4→T3 전환이 보상적으로 증가해 T3가 정상으로 유지될 수 있고(민감도↓), 반대로 비갑상선질환증후군(sick euthyroid) 등 갑상선이 정상인 상태에서도 T3만 낮아질 수 있어(특이도↓) 진단 지표로는 부적합
 * 임신부를 포함하여 증상이 없는 사람에 대한 일률적인 선별 검사는 권하지 않음 (USPSTF : 무증상 성인 선별의 이득·위해 균형에 대한 근거 불충분)
+  * [ ] 중추성 갑상선저하증 : TSH가 낮거나 정상, 드물게 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있어 TSH만으로는 배제되지 않음 → **free T4 저하를 기준으로 진단**; 두통·시야 결손 등 시상하부-뇌하수체 질환 시사 소견이나 다른 뇌하수체 호르몬 이상이 동반되면 의심 → 뇌하수체 MRI 및 타 뇌하수체 축(ACTH/cortisol, LH/FSH, prolactin, GH/IGF-1) 평가, 내분비내과 협진 고려(☞ 이차성 부신부전 동반 확인은 아래 hint 참고)
 
 #### <mark style="color:$primary;">검사 결과에 영향을 주는 요인</mark>
 
@@ -121,21 +122,29 @@ flowchart TD
     FT4_Normal --> Sub_Hypo["Subclinical<br>hypothyroidism"] --> Tx_Consider["치료 고려"]
     FT4_High --> Not_Primary["Not primary<br>hypothyroidism"] --> Referral["의뢰"]
 
-    %% TSH Normal & Low Paths
+    %% TSH Normal Path
     TSH_Normal --> Euthyroid["Euthyroid"]
-    TSH_Low --> Hyper_Consider["갑상선 항진<br>상태 고려"]
+
+    %% TSH Low Path
+    TSH_Low --> FT4_Meas2["fT4 측정"]
+    FT4_Meas2 --> FT4_Low2["fT4 ↓"]
+    FT4_Meas2 --> FT4_NotLow["fT4 정상/↑"]
+
+    FT4_Low2 --> Central_Hypo["중추성<br>갑상선저하증 의심"] --> Referral2["뇌하수체 평가<br>· 내분비내과 협진"]
+    FT4_NotLow --> Hyper_Consider["갑상선 항진<br>상태 고려"]
 
     %% Styling (Optional)
 style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class TSH,FT4_Meas lightGreen
+class TSH,FT4_Meas,FT4_Meas2 lightGreen
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class TSH_High,TSH_Normal,TSH_Low,FT4_Low,FT4_Normal,FT4_High yellow
+class TSH_High,TSH_Normal,TSH_Low,FT4_Low,FT4_Normal,FT4_High,FT4_Low2,FT4_NotLow yellow
 classDef pink fill:#fde8f0,stroke:#e91e8c
-class Primary_Hypo,Sub_Hypo,Not_Primary,Euthyroid pink
+class Primary_Hypo,Sub_Hypo,Not_Primary,Euthyroid,Central_Hypo pink
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class Tx,Tx_Consider sky
 style Referral fill:#fdebd0,stroke:#e67e22
+style Referral2 fill:#fdebd0,stroke:#e67e22
 ```
 
 <p align="center"><strong>갑상선저하증 진단 알고리듬</strong></p>
