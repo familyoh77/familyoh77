@@ -107,9 +107,9 @@ flowchart TD
     Start(["갑상선 기능 이상<br>의심 증상"]) --> TSH["TSH 측정"]
 
     %% TSH Branches
-    TSH --> TSH_High["TSH<br>>4.5 mIU/L"]
+    TSH --> TSH_High["TSH↑<br>>4.5 mIU/L"]
     TSH --> TSH_Normal["TSH 정상"]
-    TSH --> TSH_Low["TSH<br><0.4 mIU/L"]
+    TSH --> TSH_Low["TSH↓<br><0.4 mIU/L"]
 
     %% TSH High Path
     TSH_High --> FT4_Meas["fT4 측정"]
