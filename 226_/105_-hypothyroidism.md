@@ -173,27 +173,30 @@ _\*TSH 컷오프(4.5, 0.4 mIU/L)는 일반적 국제 기준값임. 우리나라 
   * ≥60세 or 심장 질환(+) : 저용량(12.5\~50 ㎍ qd)으로 시작
     * 심장 질환 동반 환자는 TSH가 high-normal range로 유지되도록 낮은 용량으로 시작
   * TSH를 기준으로 4\~6주마다 12.5\~25 ㎍/d씩 증량
+  * 치료 중단 후 6주 이내 재개할 때는 심장 문제·체중 감소가 없으면 이전 용량으로 재개
 * 공복 및 일정한 시간에 투여 : 예) 아침 식전 30\~60분 또는 취침 전(마지막 식사 2\~4시간 후)
   * [ ] 취침 전 복용 시 아침 복용보다 T4가 약간 높고 TSH가 낮아지는 경향이 있는 것으로 보고됨 - 수면 중에는 공복 상태가 자연히 유지되어 커피·음식·칼슘제 등 흡수 저해 요인이 적고, 야간 위장관 운동 저하로 약물-점막 접촉 시간이 길어져 약물 흡수가 증가하기 때문으로 추정
 * 흡수를 방해하는 약제와는 4시간 이상 분리하여 투여; 커피는 약제 복용 최소 30\~60분 경과 후 음용
+* 제조사마다 약효 차이가 있을 수 있으므로 가급적 동일 제조사·동일 제품 유지; 제품 변경 시 6주 후 TSH 재검
+* PPI 장기 복용, 위축성 위염, 위 절제/우회술 등 흡수 장애가 확인되거나 의심되는 환자에서는 액상(liquid) 또는 연질캡슐(soft-gel) 제형이 흡수에 도움이 될 수 있음(정제보다 부형제의 영향을 덜 받음) - 국내 유통 제품 없음
 * T4 및 T3는 혈중에서 TBG 등결합단백질과 결합한 상태로 순환하므로 TBG 농도 변화가 total T4/T3에 영향(free T4·TSH는 대개 보상되어 유지)
   * TBG를 저하시키는 상황에서 감량, TBG를 상승시키는 상황에서 증량 고려(☞ [진단 검사](105_-hypothyroidism.md#undefined-6))
-  * 고령에서의 감량 고려는 TBG 변화가 아니라 **약물 청소율(clearance) 감소 및 체표면적 감소**가 주된 기전 - 감량 필요성은 유효하나 원인은 다르므로 혼동하지 않음
-  * ✽제조사마다 생물학적 동등성 차이가 있을 수 있으므로 가능한 한 동일 제조사·동일 제품 유지; **제품을 변경한 경우 6주 후 TSH를 재확인**(국내에서는 약국 대체조제나 처방 변경 시 제품명이 바뀔 수 있어 특히 주의)
-* PPI 장기 복용, 위축성 위염, 위 절제/우회술 등 흡수 장애가 확인되거나 의심되는 환자에서는 액상(liquid) 또는 연질캡슐(soft-gel) 제형이 흡수에 도움이 될 수 있음(정제보다 부형제의 영향을 덜 받음) - 국내 유통 여부 확인 필요
-* 치료 중단 후 6주 이내 재개할 때는 심장 문제·체중 감소가 없으면 이전 용량으로 재개
+* 고령에서의 감량 고려는 TBG 변화가 아니라 약물 청소율(clearance) 감소 및 체표면적 감소가 주된 기전임
 
 <mark style="color:cyan;">**T4 요구량이 증가하는 상황**</mark>
 
 * 임신, 체중 증가, 신증후군, 지속되는 갑상선 이상, 식이 섬유 섭취 증가, 위장관 질환(흡수 감소)
 * 흡수 방해 : 두유, 셀리악병, IBD, 유당 불내증, H. pylori 감염, 위축성 위염, PPI, H2 차단제, sucralfate, Al/Mg/Ca/Fe 제제, 종합 영양제, cholestyramine, colestipol, sertraline, resin, raloxifene, sevelamer, orlistat
 * T4→T3 전환 방해 : amiodarone, steroid, oral cholecystography 조영제(예 : iopanoic acid), propylthiouracil, propranolol, nadolol
-* s-TBG 증가 : estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil, clofibrate, heroin, mitotane
+* s-TBG 증가 약제 : estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil, clofibrate, heroin, mitotane
 * T4 clearance 증가 : phenytoin, carbamazepine, rifampin, phenobarbital
 
 <mark style="color:cyan;">**T4 요구량이 감소하는 상황**</mark>
 
 * 출산, 양측 난소 절제, 폐경/HRT 중단, GnRH 작용제 투여
+*   TBG를 저하시키는 상황 : 만성 간질환(합성 저하), 신증후군(요 중 소실), 영양 결핍(합성 저하)
+
+    androgen, danazol, steroid, nicotinic acid
 
 {% hint style="danger" %}
 **⚠️ Levothyroxine 금기 · 주의**\
