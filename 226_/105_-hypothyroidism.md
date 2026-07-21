@@ -332,19 +332,21 @@ flowchart TD
     Start["무증상갑상선기능저하증<br>(TSH↑, fT4 정상) 확인"] --> Retest["2~3개월 후<br>TSH + TPO Ab 재검"]
     Retest --> Persist["TSH 상승<br>지속?"]
     Persist -->|NO| Resolve["일과성 상승<br>추가 조치 불필요"]
-    Persist -->|YES| Age["연령 ≥70세?"]
+    Persist --->|YES| Age["연령 ≥70세?"]
     Age -->|YES · 고령| ElderlyMild["경증<br>TSH 6.8~10"]
     Age -->|YES · 고령| ElderlySevere["중증<br>TSH ＞10"]
     ElderlyMild --> ElderlyMildTx["치료하지 않음"]
     ElderlySevere --> ElderlySevereTx["일반적으로<br>치료 안 함"]
     Age -->|NO · 성인 ＜70세| AdultMild["경증<br>TSH 6.8~10"]
     Age -->|NO · 성인 ＜70세| AdultSevere["중증<br>TSH ＞10"]
-    AdultMild --> AdultMildTx["원칙적으로 치료 안 함<br>진행위험인자 시 추적 강화"]
+    AdultMild --> AdultMildTx["원칙적으로 치료 안 함<br>진행위험인자 시
+     추적 강화"]
     AdultSevere --> CADHF["관상동맥질환/<br>심부전 동반?"]
     CADHF -->|YES| TxYes["LT4 치료 시행"]
     CADHF -->|NO| Dyslip["이상지질혈증<br>동반?"]
     Dyslip -->|YES| TxConsider["LT4 치료 고려"]
-    Dyslip -->|NO| Observe["치료하지 않고<br>정기 추적(6개월~1년)"]
+    Dyslip -->|NO| Observe["치료하지 않고<br>정기 추적
+    (6개월~1년)"]
 
 style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
