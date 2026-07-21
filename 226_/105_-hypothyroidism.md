@@ -64,21 +64,14 @@
   * [ ] free 또는 total T3만으로는 갑상선저하증을 진단하지 않음 - 갑상선 기능 저하 초기에는 T4→T3 전환이 보상적으로 증가해 T3가 정상으로 유지될 수 있고(민감도↓), 반대로 비갑상선질환증후군(sick euthyroid) 등 갑상선이 정상인 상태에서도 T3만 낮아질 수 있어(특이도↓) 진단 지표로는 부적합
 * 임신부를 포함하여 증상이 없는 사람에 대한 일률적인 선별 검사는 권하지 않음 (USPSTF : 무증상 성인 선별의 이득·위해 균형에 대한 근거 불충분)
 
-<mark style="color:cyan;">**중추성 갑상선저하증**</mark>
-
-* TSH가 낮거나 정상, 드물게 (생물학적 활성이 낮은 상태로) 약간 상승할 수도 있어 TSH만으로는 배제되지 않으며, free T4 저하를 기준으로 진단
-* 두통·시야 결손 등 시상하부-뇌하수체 질환 시사 소견이나 다른 뇌하수체 호르몬 이상이 동반되면 의심&#x20;
-* → 뇌하수체 MRI 및 타 뇌하수체 축(ACTH/cortisol, LH/FSH, prolactin, GH/IGF-1) 평가
-* 부신부전 동반 여부를 반드시 확인해야 함 : 뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
-
 #### <mark style="color:$primary;">검사 결과에 영향을 주는 요인</mark>
 
 <table><thead><tr><th width="240">검사 소견</th><th>영향 요인</th></tr></thead><tbody><tr><td>TSH↑</td><td>비-갑상선 질환의 회복기, 약물(dopamine 대항제, amiodarone)</td></tr><tr><td>TSH↓</td><td>비갑상선 질환, chorionic gonadotropin↑(임신 초기, molar pregnancy, choriocarcinoma), TSH 분비 억제 약물(고용량 dopamine 또는 agonist, dobutamine, steroid, octreotide)</td></tr><tr><td>s-TBG↓ (total T4↓ 유발)</td><td>androgen, danazol, steroid, nicotinic acid</td></tr><tr><td>s-TBG↑ (total T4↑ 유발)</td><td>estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil, clofibrate, heroin, mitotane</td></tr><tr><td>T4-TBG 결합 방해 (free T4↑)</td><td>salicylate, salsalate, furosemide, heparin, NSAID</td></tr><tr><td>TSH↓, free T4/T3↑ (위양성 가능)</td><td>biotin(비오틴) 복용 - 면역측정법(immunoassay) 간섭; 일반 함량(모발·피부 영양제 등) 복용 시 검사 최소 48시간(2일) 전 중단, 고용량(10 ㎎/일 이상) 복용 시에는 최소 7일 전 중단 권장</td></tr></tbody></table>
 
-* ✽TBG는 T4/T3 결합능의 약 70\~75%를 차지하는 주된 결합단백질로(transthyretin·albumin은 결합친화도가 낮아 total 수치에 미치는 영향이 미미함), 위 표의 약물 외에 **질환·생리 상태에 의해서도 변동**할 수 있음
+* TBG는 T4/T3 결합능의 약 70\~75%를 차지하는 주된 결합단백질로, 위 표의 약물 외에 질환·생리 상태에 의해서도 변동할 수 있음 (✽ transthyretin·albumin은 결합친화도가 낮아 total 수치에 미치는 영향이 미미함)
   * TBG 저하 : 만성 간질환(합성 저하), 신증후군(요 중 소실), 영양 결핍(합성 저하)
   * TBG 상승 : 임신·estrogen 노출(합성 증가), 급성 간염(일시적 분비 증가)
-  * 이 경우 total T4/T3는 변하지만 **free T4·TSH는 대개 정상으로 보상**되므로, 실제 갑상선 기능 이상이나 levothyroxine 용량 조정 필요성과는 구분해야 함
+  * 이 경우 total T4/T3는 변하지만 free T4·TSH는 대개 정상으로 보상되므로, 실제 갑상선 기능 이상이나 levothyroxine 용량 조정 필요성과는 구분해야 함
 
 {% hint style="info" %}
 **TSH의 계절적 변이** : TSH는 계절에 따라 변동하므로(1\~2월에 최고, 6\~8월에 최저), TSH가 약간 상승하면서 fT4가 정상 범위이면 바로 갑상선저하증으로 진단하여 약물을 처방하기보다 2\~3개월 후 추적 검사를 고려할 수 있음\
@@ -88,30 +81,19 @@
 ### <mark style="color:orange;">기타 검사</mark>
 
 * anti-thyroperoxidase Ab(TPO Ab), anti-thyroglobulin Ab : autoimmune thyroiditis에서 상승. TSH가 크게 높거나 치료 반응이 불량한 환자에서 고려. 반복 검사는 불필요
-  * [ ] TSH receptor Ab(TRAb)는 갑상선저하증 평가에는 필요하지 않음(항진증·Graves병 감별에 사용)
+  * [ ] TSH receptor Ab(TRAb)는 항진증·Graves병 감별에 활용하며 갑상선저하증 평가에는 필요하지 않음
 * 영상 검사 : 보통 불필요; 종괴가 만져질 때 고려
 * 동반 대사 이상 검사 고려 : 저혈당, 빈혈, Na↓, 이상지질혈증
-
-### <mark style="color:orange;">감별</mark>
-
-* TSH가 정상이지만 증상이 지속될 때의 감별 : 빈혈(Vit B12 또는 iron 결핍), 자가면역 질환, 신질환/간질환, 폐경기, 우울/불안, 감염
-*
-
-    **중추성 갑상선저하증 (Central hypothyroidism)**&#x20;
-
-    * [ ] TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 - TSH만으로는 배제되지 않으므로 free T4 저하를 기준으로 진단
-
-***
 
 ```mermaid
 flowchart TD
     %% Nodes
-    Start(["갑상선 기능 이상<br>의심 증상"]) --> TSH["TSH 측정"]
+    Start(["갑상선 이상<br>의심 증상"]) --> TSH["TSH 측정"]
 
     %% TSH Branches
-    TSH --> TSH_High["TSH↑<br>>4.5 mIU/L"]
+    TSH --> TSH_High["TSH↑<br>>4.5 mIU/L*"]
     TSH --> TSH_Normal["TSH 정상"]
-    TSH --> TSH_Low["TSH↓<br><0.4 mIU/L"]
+    TSH --> TSH_Low["TSH↓<br><0.4 mIU/L*"]
 
     %% TSH High Path
     TSH_High --> FT4_Meas["fT4 측정"]
@@ -131,7 +113,7 @@ flowchart TD
     FT4_Meas2 --> FT4_Low2["fT4 ↓"]
     FT4_Meas2 --> FT4_NotLow["fT4 정상/↑"]
 
-    FT4_Low2 --> Central_Hypo["중추성<br>갑상선저하증 의심"] --> Referral2["뇌하수체 평가<br>· 내분비내과 협진"]
+    FT4_Low2 --> Central_Hypo["중추성<br>갑상선저하증 의심"] --> Referral2["뇌하수체 평가"]
     FT4_NotLow --> Hyper_Consider["갑상선 항진<br>상태 고려"]
 
     %% Styling (Optional)
@@ -148,11 +130,23 @@ style Referral fill:#fdebd0,stroke:#e67e22
 style Referral2 fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>갑상선저하증 진단 알고리듬</strong></p>
+<p align="center"><strong>갑상선저하증 진단 알고리듬</strong> <em><mark style="color:$info;">(Ref. AFP 2021;103(10):605-613, Fig. 1.)</mark></em></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. AFP 2021;103(10):605-613, Fig. 1.</mark></em></p>
+_\*TSH 컷오프(4.5, 0.4 mIU/L)는 일반적 국제 기준값임. 우리나라 TSH 참고치는 0.6\~6.8 mIU/L로 제시되고 있음_
 
-\*TSH 컷오프(4.5, 0.4 mIU/L)는 일반적 국제 기준값임. 우리나라 TSH 참고치는 0.6\~6.8 mIU/L로 제시되고 있음
+### <mark style="color:orange;">감별</mark>
+
+* TSH가 정상이지만 증상이 지속될 때의 감별 : 빈혈(Vit B12 또는 iron 결핍), 자가면역 질환, 신질환/간질환, 폐경기, 우울/불안, 감염
+
+#### <mark style="color:$primary;">중추성 갑상선저하증</mark>
+
+* TSH가 낮거나 정상, 드물게 (생물학적 활성이 낮은 상태로) 약간 상승할 수도 있어 TSH만으로는 배제되지 않으며, free T4 저하를 기준으로 진단
+* 두통·시야 결손 등 시상하부-뇌하수체 질환 시사 소견이나 다른 뇌하수체 호르몬 이상이 동반되면 의심&#x20;
+* → 뇌하수체 MRI 및 타 뇌하수체 축(ACTH/cortisol, LH/FSH, prolactin, GH/IGF-1) 평가
+
+{% hint style="danger" %}
+**부신부전 동반 여부를 반드시 확인** : 뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
+{% endhint %}
 
 ***
 
@@ -160,10 +154,9 @@ style Referral2 fill:#fdebd0,stroke:#e67e22
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 치료 목표 : TSH를 검사실 참고범위(reference range) 원발성 갑상선저하증이 전체의 약 95% 이상 유지 - 특정 수치를 일률적 목표로 고정하기보다 참고치 범위를 기준으로 함
-  * 대부분의 성인에서 대략 0.4\~4.0 mIU/L (검사기관·측정법에 따라 다를 수 있음)
-  * 이 titration 목표(0.4\~4.0 mIU/L)는 이미 약물 치료 중인 현성 갑상선저하증 환자의 적정 조절 기준이며, 한국인 진단 상한(6.8 mIU/L)과는 별개의 개념임 - 미치료 상태에서 무증상 갑상선저하증을 "진단"하는 기준과, 이미 치료 중인 환자의 TSH를 "조절"하는 목표는 다를 수 있음
-  * 고령에서는 TSH가 생리적으로 상승하는 경향이 있어, ≥80세는 상한을 \~7.5 mIU/L까지 허용하는 것으로 해석되기도 함 - 약간의 상승이 항상 임상적 의미를 갖는 것은 아님
+* 치료 목표 : TSH를 검사실 참고범위(reference range)로 유지 (✽ 일률적으로 특정 수치를 목표로 고정하기보다 참고치 범위를 기준으로 함)
+  * 성인에서의 일반적인 목표치 : 대략 0.4\~4.0 mIU/L (검사기관·측정법에 따라 다를 수 있음); 이 titration 목표(0.4\~4.0 mIU/L)는 이미 약물 치료 중인 현성 갑상선저하증 환자의 적정 조절 기준이며, 한국인 진단 상한(6.8 mIU/L)과는 별개의 개념임 - 미치료 상태에서 무증상 갑상선저하증을 "진단"하는 기준과, 이미 치료 중인 환자의 TSH를 "조절"하는 목표는 다를 수 있음
+  * 고령에서는 TSH가 생리적으로 상승하는 경향이 있어, ≥80세는 상한을 \~7.5 mIU/L까지 허용하기도 함 (✽ 약간의 상승이 항상 임상적 의미를 갖는 것은 아님)
 * 식이 요법 : 별도로 권고되는 식이 요법은 없으며, 요오드 보충은 요오드 결핍이 확인된 경우에만 고려
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -171,13 +164,13 @@ style Referral2 fill:#fdebd0,stroke:#e67e22
 * 1차 선택 : levothyroxine (T4)
   * liothyronine(T3) : levothyroxine 단독 투여로 조절되지 않는 환자에서 대체제 또는 병용 고려
 
-### <mark style="color:orange;">Levothyroxine (T4)</mark>
+#### <mark style="color:$primary;">Levothyroxine (T4)</mark>
 
-#### <mark style="color:$primary;">용법</mark>
+<mark style="color:cyan;">**용법**</mark>
 
 * 용량 : 저용량으로 시작 (연령·심장 질환 여부에 따라 결정)
   * ＜60세 & 심장 질환(-) : 1.6 ㎍/㎏/d (약 1.5\~1.8 ㎍/㎏/d), 통상 50\~100 ㎍ qd로 시작 <mark style="color:blue;">\[씬지로이드]</mark>
-    * [ ] 임상에서는 이를 참고하여 정제 단위(25 ㎍ 단위)로 반올림하여 처방하는 경우가 많음
+    * [ ] 임상에서는 체중으로 용량를 계산하고 반올림하여 정제 단위(25 ㎍ 단위)로 처방하는 경우가 많음
   * ≥60세 or 심장 질환(+) : 저용량(12.5\~50 ㎍ qd)으로 시작
     * 심장 질환 동반 환자는 TSH가 high-normal range로 유지되도록 낮은 용량으로 시작
   * TSH를 기준으로 4\~6주마다 12.5\~25 ㎍/d씩 증량
@@ -192,7 +185,7 @@ style Referral2 fill:#fdebd0,stroke:#e67e22
 * PPI 장기 복용, 위축성 위염, 위 절제/우회술 등 흡수 장애가 확인되거나 의심되는 환자에서는 액상(liquid) 또는 연질캡슐(soft-gel) 제형이 흡수에 도움이 될 수 있음(정제보다 부형제의 영향을 덜 받음) - 국내 유통 여부 확인 필요
 * 치료 중단 후 6주 이내 재개할 때는 심장 문제·체중 감소가 없으면 이전 용량으로 재개
 
-#### <mark style="color:$primary;">T4 요구량이 증가하는 상황</mark>
+<mark style="color:cyan;">**T4 요구량이 증가하는 상황**</mark>
 
 * 임신, 체중 증가, 신증후군, 지속되는 갑상선 이상, 식이 섬유 섭취 증가, 위장관 질환(흡수 감소)
 * 흡수 방해 : 두유, 셀리악병, IBD, 유당 불내증, H. pylori 감염, 위축성 위염, PPI, H2 차단제, sucralfate, Al/Mg/Ca/Fe 제제, 종합 영양제, cholestyramine, colestipol, sertraline, resin, raloxifene, sevelamer, orlistat
@@ -200,7 +193,7 @@ style Referral2 fill:#fdebd0,stroke:#e67e22
 * s-TBG 증가 : estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil, clofibrate, heroin, mitotane
 * T4 clearance 증가 : phenytoin, carbamazepine, rifampin, phenobarbital
 
-#### <mark style="color:$primary;">T4 요구량이 감소하는 상황</mark>
+<mark style="color:cyan;">**T4 요구량이 감소하는 상황**</mark>
 
 * 출산, 양측 난소 절제, 폐경/HRT 중단, GnRH 작용제 투여
 
@@ -209,12 +202,12 @@ style Referral2 fill:#fdebd0,stroke:#e67e22
 급성 심근경색, thyrotoxic heart failure, 조절되지 않는 adrenocortical insufficiency에서는 투여하지 않음(또는 원인 교정 후 투여)
 {% endhint %}
 
-### <mark style="color:orange;">Triiodothyronine (T3)</mark>
+#### <mark style="color:$primary;">Triiodothyronine (T3)</mark>
 
 * levothyroxine에 비해 작용이 강하고 반감기가 짧아 용량 조절이 어려움; **일상적인 1차 치료로는 권고되지 않으며, 원칙적으로 내분비내과 전문의가 시작·감독**함 (2023 BTA/SfE 공동 합의 성명)
 * 16건 이상의 RCT와 이를 종합한 메타분석들에서 T4/T3 병용이 T4 단독보다 기분·삶의 질·인지기능 면에서 우월하다는 일관된 근거는 확인되지 않음 - 다만 개별 환자 수준에서 병용요법에 반응하는 경우가 보고되어, 아래 조건을 모두 만족하는 제한된 경우에 한해 전문의 감독 하 시도를 고려할 수 있음
 
-#### <mark style="color:$primary;">T3 병용을 고려하기 전 확인 순서</mark>
+<mark style="color:cyan;">**T3 병용을 고려하기 전 확인 순서**</mark>
 
 1. **현성 갑상선저하증 진단이 확실한지 확인** - 과거 TSH ≥10 mIU/L 또는 치료 전 낮은 fT4가 문서로 확인되어야 함; 확인되지 않으면 T3 시도보다 levothyroxine을 6주간 중단 후 TSH를 재검하는 방안을 우선 고려
 2. **지속 증상을 설명할 수 있는 동반질환을 배제** - 갑상선저하증 증상은 비특이적이며, 정상 갑상선 기능인 사람의 60%도 유사 증상을 호소할 수 있음
