@@ -22,7 +22,7 @@
 * 일부 thyroiditis : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis - 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음
 * 선천성 갑상선 무형성, 호르몬 합성 결핍
 
-**중추성(Central) hypothyroidism**
+**중추성 갑상선저하증 (Central hypothyroidism)**
 
 * hypothalamic-pituitary 질환에 의한 TRH/TSH 결핍; 드묾
 
