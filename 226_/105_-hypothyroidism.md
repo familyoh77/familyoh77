@@ -4,36 +4,31 @@
 
 * 갑상선 호르몬 감소 또는 호르몬에 대한 말초 저항에 의해 발생하는 대사 이상 상태
 * 스펙트럼 : 무증상(무증상 갑상선저하증) \~ 경증/현성 저하증 \~ (치료하지 않으면) myxedema coma까지 다양한 수준의 증상을 보임
-* 유병률 : 일반 인구의 ＞1%, ＞60세의 5%
+* 유병률 : 일반 인구의 ＞1%, 60세 이상의 5%
+* 원발성 갑상선저하증이 전체 갑상선저하증의 95% 이상 차지
 * 경과 : Hashimoto 갑상선염에 의한 경증 저하증의 자연 회복률 - 11%
   * 치료 중단 후 재발할 수 있음
-  * 대부분의 원발성 저하증(특히 만성 자가면역성, 갑상선 절제/방사성 요오드 치료)은 영구적이며 평생 호르몬 보충이 필요함
+  * 대부분의 원발성 저하증(특히 만성 자가면역성, 갑상선 절제/방사성 요오드 치료)은 영구적이며 평생 호르몬 보충이 필요
 
 ## <mark style="color:green;">원인</mark>
 
-#### <mark style="color:$primary;">원발성 (Primary) hypothyroidism</mark>
+**원발성 갑상선저하증 (Primary hypothyroidism)**
 
-* [ ] 원발성 갑상선저하증이 전체의 95% 이상 차지
+* chronic autoimmune thyroiditis (Hashimoto thyroiditis) - 가장 흔함
+* 의인성 : 갑상선 절제, 방사성 요오드 치료
+* 요오드 결핍 또는 과잉
+* 약물 : 갑상선항진증 치료제(propylthiouracil, methimazole), lithium, amiodarone, tyrosine kinase inhibitor, interleukin-2, interferon-α
+* 침윤성 질환 : fibrous thyroiditis, hemochromatosis, sarcoidosis
+* 일부 thyroiditis : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis - 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음
+* 선천성 갑상선 무형성, 호르몬 합성 결핍
 
-- chronic autoimmune thyroiditis (Hashimoto thyroiditis) - 가장 흔함
-- 의인성 : 갑상선 절제, 방사성 요오드 치료
-- 요오드 결핍 또는 과잉
-- 약물 : 갑상선항진증 치료제(propylthiouracil, methimazole), lithium, amiodarone, tyrosine kinase inhibitor, interleukin-2, interferon-α
-- 침윤성 질환 : fibrous thyroiditis, hemochromatosis, sarcoidosis
-- 일부 thyroiditis : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis - 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음
-- 선천성 갑상선 무형성, 호르몬 합성 결핍
-
-#### <mark style="color:$primary;">중추성(Central) hypothyroidism</mark>
+**중추성(Central) hypothyroidism**
 
 * hypothalamic-pituitary 질환에 의한 TRH/TSH 결핍; 드묾
 
 - [ ] TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 - TSH만으로는 배제되지 않으므로 free T4 저하를 기준으로 진단
 
-{% hint style="danger" %}
-**중추성 갑상선저하증에서는 부신부전 동반 여부를 반드시 확인** : 뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
-{% endhint %}
-
-#### <mark style="color:$primary;">Resistance to thyroid hormone β (RTHβ)</mark>
+**Resistance to thyroid hormone β (RTHβ)**
 
 * 대부분 THRB 유전자 이상에 의한 갑상선 호르몬 수용체 저항(과거 "generalized thyroid hormone resistance"로 불림); 드묾
 
@@ -148,6 +143,10 @@ style Referral fill:#fdebd0,stroke:#e67e22
 <p align="center"><em><mark style="color:$info;">Ref. AFP 2021;103(10):605-613, Fig. 1.</mark></em></p>
 
 \*TSH 컷오프(4.5, 0.4 mIU/L)는 일반적 국제 기준값임. 우리나라 TSH 참고치는 0.6\~6.8 mIU/L로 제시되고 있음
+
+{% hint style="danger" %}
+**중추성 갑상선저하증에서는 부신부전 동반 여부를 반드시 확인** : 뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
+{% endhint %}
 
 ***
 
