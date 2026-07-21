@@ -69,8 +69,9 @@
 <table><thead><tr><th width="240">검사 소견</th><th>영향 요인</th></tr></thead><tbody><tr><td>TSH↑</td><td>비-갑상선 질환의 회복기, 약물(dopamine 대항제, amiodarone)</td></tr><tr><td>TSH↓</td><td>비갑상선 질환, chorionic gonadotropin↑(임신 초기, molar pregnancy, choriocarcinoma), TSH 분비 억제 약물(고용량 dopamine 또는 agonist, dobutamine, steroid, octreotide)</td></tr><tr><td>s-TBG↓ (total T4↓ 유발)</td><td>androgen, danazol, steroid, nicotinic acid</td></tr><tr><td>s-TBG↑ (total T4↑ 유발)</td><td>estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil, clofibrate, heroin, mitotane</td></tr><tr><td>T4-TBG 결합 방해 (free T4↑)</td><td>salicylate, salsalate, furosemide, heparin, NSAID</td></tr><tr><td>TSH↓, free T4/T3↑ (위양성 가능)</td><td>biotin(비오틴) 복용 - 면역측정법(immunoassay) 간섭; 일반 함량(모발·피부 영양제 등) 복용 시 검사 최소 48시간(2일) 전 중단, 고용량(10 ㎎/일 이상) 복용 시에는 최소 7일 전 중단 권장</td></tr></tbody></table>
 
 * TBG는 T4/T3 결합능의 약 70\~75%를 차지하는 주된 결합단백질로, 위 표의 약물 외에 질환·생리 상태에 의해서도 변동할 수 있음 (✽ transthyretin·albumin은 결합친화도가 낮아 total 수치에 미치는 영향이 미미함)
-  * TBG를 저하시키는 상황 : 만성 간질환(합성 저하), 신증후군(요 중 소실), 영양 결핍(합성 저하)
+  * TBG를 저하시키는 상황(합성 감소) : 만성 간질환, 영양 결핍
   * TBG를 상승시키는 상황 : 임신·estrogen 노출(합성 증가), 급성 간염(일시적 분비 증가)
+  * ✽신증후군은 TBG **합성이 줄어드는 것이 아니라 소변으로 소실**되는 기전으로, 위 두 경우와 달리 오히려 요구량을 **늘리는** 방향으로 작용함(☞ 아래 "T4 요구량이 증가하는 상황" 참고)
 
 {% hint style="info" %}
 **TSH의 계절적 변이** : TSH는 계절에 따라 변동하므로(1\~2월에 최고, 6\~8월에 최저), TSH가 약간 상승하면서 fT4가 정상 범위이면 바로 갑상선저하증으로 진단하여 약물을 처방하기보다 2\~3개월 후 추적 검사를 고려할 수 있음\
@@ -193,10 +194,10 @@ _\*TSH 컷오프(4.5, 0.4 mIU/L)는 일반적 국제 기준값임. 우리나라 
 
 <mark style="color:cyan;">**T4 요구량이 감소하는 상황**</mark>
 
-* 출산, 양측 난소 절제, 폐경/HRT 중단, GnRH 작용제 투여
-*   TBG를 저하시키는 상황 : 만성 간질환(합성 저하), 신증후군(요 중 소실), 영양 결핍(합성 저하)
-
-    androgen, danazol, steroid, nicotinic acid
+* estrogen 감소 관련 : 출산, 양측 난소 절제, 폐경/HRT 중단, GnRH 작용제 투여
+* TBG 저하(합성 감소) : 만성 간질환, 영양 결핍
+* s-TBG 저하 약제 : androgen, danazol, nicotinic acid
+  * ✽steroid는 TBG를 낮추는 동시에 T4→T3 전환도 억제하는 상반된 기전을 함께 가져 순net effect가 개인차를 보임 - 위 "T4 요구량이 증가하는 상황"의 T4→T3 전환 방해 항목 참고, 임의로 감량하지 않고 TSH로 판단
 
 {% hint style="danger" %}
 **⚠️ Levothyroxine 금기 · 주의**\
