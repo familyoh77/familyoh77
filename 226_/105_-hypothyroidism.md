@@ -5,32 +5,22 @@
 * 갑상선 호르몬 감소 또는 호르몬에 대한 말초 저항에 의해 발생하는 대사 이상 상태
 * 스펙트럼 : 무증상(무증상 갑상선저하증) \~ 경증/현성 저하증 \~ (치료하지 않으면) myxedema coma까지 다양한 수준의 증상을 보임
 * 유병률 : 일반 인구의 ＞1%, 60세 이상의 5%
-* 원발성 갑상선저하증이 전체 갑상선저하증의 95% 이상 차지
 * 경과 : Hashimoto 갑상선염에 의한 경증 저하증의 자연 회복률 - 11%
   * 치료 중단 후 재발할 수 있음
   * 대부분의 원발성 저하증(특히 만성 자가면역성, 갑상선 절제/방사성 요오드 치료)은 영구적이며 평생 호르몬 보충이 필요
 
 ## <mark style="color:green;">원인</mark>
 
-**원발성 갑상선저하증 (Primary hypothyroidism)**
-
-* chronic autoimmune thyroiditis (Hashimoto thyroiditis) - 가장 흔함
-* 의인성 : 갑상선 절제, 방사성 요오드 치료
-* 요오드 결핍 또는 과잉
-* 약물 : 갑상선항진증 치료제(propylthiouracil, methimazole), lithium, amiodarone, tyrosine kinase inhibitor, interleukin-2, interferon-α
-* 침윤성 질환 : fibrous thyroiditis, hemochromatosis, sarcoidosis
-* 일부 thyroiditis : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis - 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음
-* 선천성 갑상선 무형성, 호르몬 합성 결핍
-
-**중추성 갑상선저하증 (Central hypothyroidism)**
-
-* hypothalamic-pituitary 질환에 의한 TRH/TSH 결핍; 드묾
-
-- [ ] TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 - TSH만으로는 배제되지 않으므로 free T4 저하를 기준으로 진단
-
-**Resistance to thyroid hormone β (RTHβ)**
-
-* 대부분 THRB 유전자 이상에 의한 갑상선 호르몬 수용체 저항(과거 "generalized thyroid hormone resistance"로 불림); 드묾
+* **원발성 갑상선저하증 (Primary hypothyroidism)** : 전체 갑상선저하증의 95% 이상 차지
+  * chronic autoimmune thyroiditis (Hashimoto thyroiditis) - 가장 흔함
+  * 의인성 : 갑상선 절제, 방사성 요오드 치료
+  * 요오드 결핍 또는 과잉
+  * 약물 : 갑상선항진증 치료제(propylthiouracil, methimazole), lithium, amiodarone, tyrosine kinase inhibitor, interleukin-2, interferon-α
+  * 침윤성 질환 : fibrous thyroiditis, hemochromatosis, sarcoidosis
+  * 일부 thyroiditis : subacute granulomatous thyroiditis, silent lymphocytic thyroiditis, postpartum thyroiditis - 일시적인 thyrotoxic phase 후 hypothyroid phase가 이어질 수 있음
+  * 선천성 갑상선 무형성, 호르몬 합성 결핍
+* **중추성 갑상선저하증 (Central hypothyroidism) :** hypothalamic-pituitary 질환에 의한 TRH/TSH 결핍; 드묾
+* **Resistance to thyroid hormone β (RTHβ) :** 대부분 THRB 유전자 이상에 의한 갑상선 호르몬 수용체 저항(과거 "generalized thyroid hormone resistance"로 불림); 드묾
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -73,7 +63,13 @@
 * 필요시 total T4, total T3, free T3
   * [ ] free 또는 total T3만으로는 갑상선저하증을 진단하지 않음 - 갑상선 기능 저하 초기에는 T4→T3 전환이 보상적으로 증가해 T3가 정상으로 유지될 수 있고(민감도↓), 반대로 비갑상선질환증후군(sick euthyroid) 등 갑상선이 정상인 상태에서도 T3만 낮아질 수 있어(특이도↓) 진단 지표로는 부적합
 * 임신부를 포함하여 증상이 없는 사람에 대한 일률적인 선별 검사는 권하지 않음 (USPSTF : 무증상 성인 선별의 이득·위해 균형에 대한 근거 불충분)
-  * [ ] 중추성 갑상선저하증 : TSH가 낮거나 정상, 드물게 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있어 TSH만으로는 배제되지 않음 → **free T4 저하를 기준으로 진단**; 두통·시야 결손 등 시상하부-뇌하수체 질환 시사 소견이나 다른 뇌하수체 호르몬 이상이 동반되면 의심 → 뇌하수체 MRI 및 타 뇌하수체 축(ACTH/cortisol, LH/FSH, prolactin, GH/IGF-1) 평가, 내분비내과 협진 고려(☞ 이차성 부신부전 동반 확인은 아래 hint 참고)
+
+<mark style="color:cyan;">**중추성 갑상선저하증**</mark>
+
+* TSH가 낮거나 정상, 드물게 (생물학적 활성이 낮은 상태로) 약간 상승할 수도 있어 TSH만으로는 배제되지 않으며, free T4 저하를 기준으로 진단
+* 두통·시야 결손 등 시상하부-뇌하수체 질환 시사 소견이나 다른 뇌하수체 호르몬 이상이 동반되면 의심&#x20;
+* → 뇌하수체 MRI 및 타 뇌하수체 축(ACTH/cortisol, LH/FSH, prolactin, GH/IGF-1) 평가
+* 부신부전 동반 여부를 반드시 확인해야 함 : 뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
 
 #### <mark style="color:$primary;">검사 결과에 영향을 주는 요인</mark>
 
@@ -99,6 +95,11 @@
 ### <mark style="color:orange;">감별</mark>
 
 * TSH가 정상이지만 증상이 지속될 때의 감별 : 빈혈(Vit B12 또는 iron 결핍), 자가면역 질환, 신질환/간질환, 폐경기, 우울/불안, 감염
+*
+
+    **중추성 갑상선저하증 (Central hypothyroidism)**&#x20;
+
+    * [ ] TSH는 낮거나 정상, 또는 생물학적 활성이 낮은 상태로 오히려 약간 상승할 수도 있음 - TSH만으로는 배제되지 않으므로 free T4 저하를 기준으로 진단
 
 ***
 
@@ -152,10 +153,6 @@ style Referral2 fill:#fdebd0,stroke:#e67e22
 <p align="center"><em><mark style="color:$info;">Ref. AFP 2021;103(10):605-613, Fig. 1.</mark></em></p>
 
 \*TSH 컷오프(4.5, 0.4 mIU/L)는 일반적 국제 기준값임. 우리나라 TSH 참고치는 0.6\~6.8 mIU/L로 제시되고 있음
-
-{% hint style="danger" %}
-**중추성 갑상선저하증에서는 부신부전 동반 여부를 반드시 확인** : 뇌하수체·시상하부 질환에 의한 중추성 갑상선저하증에서는 이차성 부신피질기능저하증이 동반될 수 있음. 부신부전을 배제하거나 먼저 교정하지 않고 levothyroxine을 단독으로 시작하면 대사율이 증가하면서 부신 위기(adrenal crisis)를 유발할 수 있음 → 필요시 glucocorticoid를 levothyroxine과 동시에 시작하거나 우선 투여; 부신부전 평가는 오전 8\~9시 cortisol 측정을 우선 시행하고, 애매한 경우 ACTH 자극검사(cosyntropin test)로 확인
-{% endhint %}
 
 ***
 
@@ -274,7 +271,7 @@ FBC, 전해질/신기능, 간기능, calcium, HbA1c, ferritin, B12, vitamin D, t
 * 시작 용량(임신 중 신규 진단) : 75\~100 ㎍/d 또는 1.6\~1.7 ㎍/㎏/d
 * 이미 LT4를 복용 중인 여성 : 임신 확인 즉시 약 25% 증량(예 : 평소 stable dose에서 주 2회 추가 복용) 후 적정; 이후 **임신 12주까지 약 25%, 20주까지 약 50%** 증량이 필요한 경우가 많음
   * ✽임신 전 TSH＜1.5 mIU/L, 임신 전 LT4 용량＞100 ㎍/d, 또는 주 2정 추가 방식으로 일괄 증량한 경우 과다치료(overtreatment) 위험이 다소 높으므로 증량 폭을 개별화
-* 모니터링(TSH, free/total T4) : **임신 전반기 4주마다 + 임신 3분기 중 최소 1회(약 30주 전후) + 용량 조정 후 4\~6주 후** + 분만 6주 후&#x20;
+* 모니터링(TSH, free/total T4) : **임신 전반기 4주마다 + 임신 3분기 중 최소 1회(약 30주 전후) + 용량 조정 후 4\~6주 후** + 분만 6주 후
 * 조절 목표
   * TSH : **검사실·삼분기별(trimester-specific) 참고구간**이 있으면 최우선 사용; 없는 경우 대안으로 **1·2분기 TSH 0.1\~4.0 mIU/L**을 사용(3분기는 비임신 참고치 적용 가능) - 과거 흔히 쓰이던 "비임신 상한에서 0.5 mIU/L 감산" 방식의 보정 공식은 현성 갑상선저하증의 최대 46%를 다른 범주(무증상/정상/저T4혈증)로 오분류할 수 있음이 확인되어 더 이상 권장되지 않음
   * **이미 LT4를 복용 중인 여성(임신 전·임신 중 공통)** : TSH를 **참고구간 내, 2.5 mIU/L 미만**으로 유지하는 것을 목표로 함(임신에 따른 요구량 증가에 대비한 안전역)
