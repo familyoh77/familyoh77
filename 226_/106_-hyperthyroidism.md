@@ -189,61 +189,56 @@ class Test,TRAb,US,Isotope lightGreen
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-**단계별 치료 전략 (Step-wise Approach)**
-
-<table><thead><tr><th width="90">단계</th><th width="230">핵심 치료</th><th>대상</th></tr></thead><tbody><tr><td>Step 1</td><td>β-차단제로 증상 완화</td><td>모든 유증상 환자(금기 없는 한)</td></tr><tr><td>Step 2</td><td>원인별 확정 치료 결정 - 항갑상선제 / RAIT / 수술</td><td>Graves' disease, TMNG, Toxic adenoma</td></tr><tr><td>Step 3</td><td>Graves' orbitopathy 동반 여부 평가 및 안과 협진</td><td>안구 증상이 있거나 위험 인자(흡연 등) 보유</td></tr><tr><td>Step 4</td><td>정기적 TFT 추적 및 치료 반응·부작용 모니터링</td><td>모든 환자</td></tr></tbody></table>
-
-**치료법별 추적 검사 주기 요약** - 각 섹션에 흩어져 있는 모니터링 간격을 한눈에 정리
-
-<table><thead><tr><th width="150">상황</th><th>추적 검사 주기</th></tr></thead><tbody><tr><td>항갑상선제 시작 직후</td><td>2\~6주 후 free T4·T3 확인(TSH는 수개월간 억제 상태 지속 가능하여 초기 판정에서 배제) → 정상화 후 4\~6주마다 → 안정 후 2\~3개월마다 → 18개월 이상 장기 치료 시 6개월마다</td></tr><tr><td>RAIT 이후</td><td>4\~6주 이내 첫 검사 → 정상화될 때까지(치료 후 6개월까지) 2\~3개월마다 → 정상 2회 확인 후 6개월\~1년마다</td></tr><tr><td>무증상 갑상선항진증 관찰</td><td>치료하지 않는 경우 정기적 재평가(대개 수개월 간격), 증상 발생 시 즉시 재검</td></tr><tr><td>임신 중(항갑상선제 복용)</td><td>임신 확인 즉시 → 이후 1분기 1\~2주마다 → 2\~3분기 2\~4주마다</td></tr><tr><td>임신 중(TRAb/TSI ≥3×ULN)</td><td>1분기, 18\~22주, 30\~34주 재검 + 18\~20주부터 매월 태아 초음파</td></tr><tr><td>산후 갑상선염</td><td>4\~8주 간격 관찰; 정상화 후 1년째 또는 증상 발생 시 재검</td></tr></tbody></table>
-
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 증상 완화 : β-차단제, (필요시) steroid
-* 갑상선 치료 : 항갑상선제, 131I therapy(RAIT), 갑상선 절제
+* 갑상선 치료 : 항갑상선제, ¹³¹I therapy(RAIT), 갑상선 절제
   * Thyroiditis 환자에서는 항갑상선제를 투여하지 않음(신규 합성이 항진된 상태가 아니므로 효과 없음)
 * 식이 요법 : 특이 방법은 없음; 체중 저하 예방을 위해 충분한 칼로리 섭취를 권고
-  * ✽L-carnitine이 갑상선 호르몬의 말초 작용을 길항하여 증상 완화 및 골 대사에 유효하다는 소규모 연구 보고가 있으나, 근거 수준이 낮은 소규모 연구에 국한되어 보조적 선택지 수준으로만 고려(대규모 RCT 근거 부족)
+  * L-carnitine이 갑상선 호르몬의 말초 작용을 길항하여 증상 완화 및 골 대사에 유효하다는 일부 보고가 있으나, 근거 수준이 낮은 소규모 연구에 국한되어 보조적 선택지 수준으로만 고려
+
+<mark style="color:cyan;">**단계별 치료 전략 (Step-wise Approach)**</mark>
+
+<table><thead><tr><th width="82.3809814453125">단계</th><th width="295.7142333984375">핵심 치료</th><th>대상</th></tr></thead><tbody><tr><td>Step 1</td><td>β-차단제로 증상 완화</td><td>모든 유증상 환자(금기 없는 한)</td></tr><tr><td>Step 2</td><td>원인별 확정 치료 결정 - 항갑상선제 / RAIT / 수술</td><td>Graves' disease, TMNG, Toxic adenoma</td></tr><tr><td>Step 3</td><td>Graves' orbitopathy 동반 여부 평가 및 안과 협진</td><td>안구 증상이 있거나 위험 인자(흡연 등) 보유</td></tr><tr><td>Step 4</td><td>정기적 TFT 추적 및 치료 반응·부작용 모니터링</td><td>모든 환자</td></tr></tbody></table>
+
+<mark style="color:cyan;">**치료법별 추적 검사 주기**</mark>&#x20;
+
+<table><thead><tr><th width="227.142822265625">상황</th><th>추적 검사 주기</th></tr></thead><tbody><tr><td>항갑상선제 시작 직후</td><td>2~6주 후 free T4·T3 확인(TSH는 수개월간 억제 상태 지속 가능하여 초기 판정에서 배제) → 정상화 후 4~6주마다 → 안정 후 2~3개월마다 → 18개월 이상 장기 치료 시 6개월마다</td></tr><tr><td>RAIT 이후</td><td>4~6주 이내 첫 검사 → 정상화될 때까지(치료 후 6개월까지) 2~3개월마다 → 정상 2회 확인 후 6개월~1년마다</td></tr><tr><td>무증상 갑상선항진증 관찰</td><td>치료하지 않는 경우 정기적 재평가(수개월 간격), 증상 발생 시 즉시 재검</td></tr><tr><td>임신 중(항갑상선제 복용)</td><td>임신 확인 즉시 → 이후 1분기 1~2주마다 → 2~3분기 2~4주마다</td></tr><tr><td>임신 중(TRAb/TSI ≥3×ULN)</td><td>1분기, 18~22주, 30~34주 재검 + 18~20주부터 매월 태아 초음파</td></tr><tr><td>산후 갑상선염</td><td>4~8주 간격 관찰; 정상화 후 1년째 또는 증상 발생 시 재검</td></tr></tbody></table>
+
+_TRAb=TSH Receptor Antibodies, TSI=Thyroid-Stimulating Immunoglobulin_
 
 ***
 
 ```mermaid
 flowchart TD
     %% [1] Untreated GD Flow
-    A1[Untreated GD] --> A2[Recent onset]
-    A2 --> A3[MMI 18개월]
-    A2 --> A4[Personal decision]
+A2[Untreated GD:<br/>Recent onset] --> A3[MMI 18개월]
+    A2 --> A4[Personal <br/>decision]
     A3 --> A5["• MMI 불내성<br>• 불순응"]
-    A5 --> A6[RAI or Thyroidectomy]
-
+    A5 --> A6[RAI or <br/>Thyroidectomy]
     %% [2] Persistent Hyperthyroidism Flow
-    B1[Persistent Hyperthyroidism] --> B2[18개월 후 TRAb 양성]
-    B2 --> B3[MMI 12개월 추가]
-    B2 -->|or| BC_Def[Definitive treatment]
+B2["Persistent <br/>Hyperthyroidism <br>(18개월 후 TRAb 양성)"] -->B3[MMI 12개월 추가]
+    B2 -->BC_Def[Definitive <br/>treatment]
     B3 --> B4[TRAb 측정]
     B4 -->|음성| B5[MMI 중단]
     B4 -->|양성| B6[RAI or 수술]
-
     %% [3] Relapse Flow
-    C1[Relapse] --> C2[MMI 중단 후]
-    C2 -->|or| BC_Def
-    C2 -->|or| C3[장기간 저용량 MMI]
-
+C2[MMI 중단 후<br/>Relapse:] -->BC_Def
+    C2 -->C3[장기간 <br/>저용량 MMI]
     %% Shared Output
-    BC_Def --> BC_Out[RAI or Thyroidectomy]
+    BC_Def --> BC_Out[RAI or <br/>Thyroidectomy]
 
     %% Style Definitions
-    classDef pink fill:#FDE8E8,stroke:#F8B4B4,stroke-width:1px;
-    classDef yellow fill:#FEF9E7,stroke:#F9E79F,stroke-width:1px;
-    classDef blue fill:#EBF5FB,stroke:#AED6F1,stroke-width:1px;
+classDef pink fill:#FDE8E8,stroke:#F8B4B4,stroke-width:1px;
+    class A2,B2,C2 pink
+classDef sky fill:#e3f2ff,stroke:#2196f3
+    class A3,B3,C3 sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+    class A4,A6,B5,B6,BC_Out, blue
 
-    %% Apply Styles Individually for Stability
-    class A1 pink; class B1 pink; class C1 pink;
-    class A2 yellow; class A5 yellow; class B2 yellow; class B4 yellow; class C2 yellow;
-    class A3 blue; class A4 blue; class A6 blue; class B3 blue; class B5 blue; class B6 blue; class BC_Def blue; class BC_Out blue; class C3 blue;
 ```
 
-<p align="center"><strong>Graves' hyperthyroidism 환자의 관리 알고리듬</strong></p>
+<p align="center"><strong>Graves' hyperthyroidism 관리 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. European Thyroid Association. Guideline for the management of Graves' hyperthyroidism. Eur Thyroid J. 2018.</mark></em></p>
 
