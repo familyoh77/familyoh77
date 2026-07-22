@@ -78,7 +78,7 @@
 * Schirmer's test : 5분 후 ＜5 ㎜ wetting → ADDE 시사
 * 눈물막 항상성 이상 확인 (아래 중 1가지 이상 이상 소견)
   * tear film breakup time (TBUT) : ＜10초 (이상 가능성; 민감도 높음) / ＜5초 (임상적으로 유의미한 감소; 특이도 높음)
-  * tear osmolarity : ≥308 mOsm/L (또는 양안 차이 >8 mOsm/L)
+  * tear osmolarity : ≥308 mOsm/L (또는 양안 차이 ＞8 mOsm/L)
   * 각결막 형광 염색(corneal/conjunctival staining) 이상
 * MGD 평가 : meibomian gland expressibility, 눈꺼풀 가장자리 관찰; Meibography(마이봄샘 촬영)로 선상 위축·구조적 손상 평가 가능
 * Sjögren syndrome 자가 항체 검사(anti-SSA/SSB), 갑상선 기능 검사

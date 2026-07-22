@@ -5,7 +5,7 @@
 * 정의 : 희발 배변(≤2회/주), 단단한 대변, 불완전한 배변감, 배변 시 과도한 힘주기, 항문 폐쇄감, 배변 유도를 위한 수지조작이 필요한 경우; 대변의 굳기, 배변 빈도와 어려움 등을 종합적으로 평가
 * 일반적인 성인의 대변량 : 150\~200 g/d
 * 대장 통과 시간 (normal colonic transit) : cecum까지 4시간, distal colon까지 12\~36시간
-* 유병률 : 성인의 16%, >60세 인구의 ⅓; 고령에서는 동반 질환, 운동 능력 감소, 식사량 감소, 복용 약물 등의 요인에 의해 증가
+* 유병률 : 성인의 16%, ＞60세 인구의 ⅓; 고령에서는 동반 질환, 운동 능력 감소, 식사량 감소, 복용 약물 등의 요인에 의해 증가
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -20,7 +20,7 @@
 #### <mark style="color:$primary;">Slow-transit constipation</mark>
 
 * 기전 : myenteric plexus, cholinergic innervation, noradrenergic 근신경 전달 계통 이상
-* 대장 통과 시간 >72시간; 골반저 기능은 정상
+* 대장 통과 시간 ＞72시간; 골반저 기능은 정상
 * 여성, 정신 질환(우울, 불안, 섭식 장애) 동반 시 더 흔함
 
 #### <mark style="color:$primary;">Pelvic floor (Anorectal) dysfunction</mark>
@@ -31,7 +31,7 @@
 
 ### <mark style="color:orange;">2차성</mark>
 
-<table><thead><tr><th width="132">범주</th><th>원인 질환 및 약물</th></tr></thead><tbody><tr><td>내분비/대사</td><td>당뇨병, 고칼슘혈증, 저칼륨혈증, 갑상선저하증, 부갑상선항진증, 요독증</td></tr><tr><td>근병증</td><td>amyloidosis, scleroderma, 근육긴장퇴행위축</td></tr><tr><td>신경 질환</td><td>자율신경병증, 뇌혈관질환, 파킨슨병, 척수 질환</td></tr><tr><td>정신 질환</td><td>불안증, 우울증, 신체화장애, 치매</td></tr><tr><td>구조 이상</td><td>항문열상, 협착, 치핵, 결장협착증, IBD, 결장 종괴, 직장탈출증, 직장류</td></tr><tr><td>약물</td><td>Al 또는 Ca 함유 제산제, 항콜린제, 항우울제(TCA > SSRI), 항히스타민제, CCB, clonidine, 이뇨제, 철분제, levodopa, opioid, NSAID, 항정신병제, 교감신경 약제</td></tr><tr><td>기타</td><td>IBS-C, 임신</td></tr></tbody></table>
+<table><thead><tr><th width="132">범주</th><th>원인 질환 및 약물</th></tr></thead><tbody><tr><td>내분비/대사</td><td>당뇨병, 고칼슘혈증, 저칼륨혈증, 갑상선저하증, 부갑상선항진증, 요독증</td></tr><tr><td>근병증</td><td>amyloidosis, scleroderma, 근육긴장퇴행위축</td></tr><tr><td>신경 질환</td><td>자율신경병증, 뇌혈관질환, 파킨슨병, 척수 질환</td></tr><tr><td>정신 질환</td><td>불안증, 우울증, 신체화장애, 치매</td></tr><tr><td>구조 이상</td><td>항문열상, 협착, 치핵, 결장협착증, IBD, 결장 종괴, 직장탈출증, 직장류</td></tr><tr><td>약물</td><td>Al 또는 Ca 함유 제산제, 항콜린제, 항우울제(TCA ＞ SSRI), 항히스타민제, CCB, clonidine, 이뇨제, 철분제, levodopa, opioid, NSAID, 항정신병제, 교감신경 약제</td></tr><tr><td>기타</td><td>IBS-C, 임신</td></tr></tbody></table>
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -77,11 +77,11 @@
 * 증상이 최소 6개월 이상 지속되고, 최근 3개월 동안 다음 기준 충족
 
 1. 다음 항목 중 ≥2개 해당
-   1. 배변 횟수의 >¼에서 힘을 주어야 함
-   2. 배변 횟수의 >¼에서 덩어리 또는 단단한 대변 (Bristol stool scale 1\~2)
-   3. 배변 횟수의 >¼에서 불완전한 배출감
-   4. 배변 횟수의 >¼에서 항문직장의 폐쇄 또는 막힌 느낌
-   5. 배변 횟수의 >¼에서 손가락 배출, 골반저 지지 등 수기 조작이 필요
+   1. 배변 횟수의 ＞¼에서 힘을 주어야 함
+   2. 배변 횟수의 ＞¼에서 덩어리 또는 단단한 대변 (Bristol stool scale 1\~2)
+   3. 배변 횟수의 ＞¼에서 불완전한 배출감
+   4. 배변 횟수의 ＞¼에서 항문직장의 폐쇄 또는 막힌 느낌
+   5. 배변 횟수의 ＞¼에서 손가락 배출, 골반저 지지 등 수기 조작이 필요
    6. 자발적인 배변이 주당 ≤2회
 2. 무른 변은 드묾 (하제 사용 시는 제외)
 3. 과민대장증후군 기준에 해당하지 않음
@@ -90,7 +90,7 @@
 
 * 임상 양상만으로 아형을 구분하는 것은 어려우나, 다음 특징이 있으면 생리 검사로 확인하고 치료 전략 수립
 
-<table><thead><tr><th width="170">항목</th><th width="130">Normal transit</th><th width="140">Slow-transit</th><th width="155">Dyssynergic defecation</th><th>IBS-C overlap</th></tr></thead><tbody><tr><td>핵심 병태생리</td><td>정상 통과 시간; 배변 인지 과민</td><td>대장 연동 운동 저하</td><td>골반저·항문 괄약근 협응 장애</td><td>Visceral hypersensitivity + 장-뇌 축 이상</td></tr><tr><td>흔한 환자</td><td>가장 흔함 (전체 ⅔)</td><td>젊은 여성; 정신 질환 동반</td><td>출산력·골반저 이상 여성</td><td>스트레스·불안 동반</td></tr><tr><td>항문 폐쇄감·수기 배변</td><td>드묾</td><td>드묾</td><td><strong>매우 특징적</strong></td><td>가능</td></tr><tr><td>Soft stool인데 배변 곤란</td><td>드묾</td><td>드묾</td><td><strong>강력 시사</strong></td><td>드묾</td></tr><tr><td>복부 팽만</td><td>흔함</td><td>매우 흔함</td><td>중등도</td><td>매우 흔함</td></tr><tr><td>복통·배변 후 완화</td><td>드묾</td><td>드묾</td><td>드묾</td><td><strong>특징적</strong></td></tr><tr><td>Colonic transit time</td><td>정상</td><td>지연 (>72h)</td><td>정상 또는 경도 지연</td><td>다양</td></tr><tr><td>Anorectal manometry</td><td>정상</td><td>정상</td><td>비정상 (dyssynergia)</td><td>다양</td></tr><tr><td>핵심 치료</td><td>Fiber + PEG</td><td>PEG + prucalopride</td><td><strong>Biofeedback 우선</strong></td><td>통합 접근 (복통 포함)</td></tr><tr><td>흔한 함정</td><td>심한 병으로 오해</td><td>Refractory constipation</td><td>하제만 계속 증량</td><td>단순 변비로 간과</td></tr></tbody></table>
+<table><thead><tr><th width="170">항목</th><th width="130">Normal transit</th><th width="140">Slow-transit</th><th width="155">Dyssynergic defecation</th><th>IBS-C overlap</th></tr></thead><tbody><tr><td>핵심 병태생리</td><td>정상 통과 시간; 배변 인지 과민</td><td>대장 연동 운동 저하</td><td>골반저·항문 괄약근 협응 장애</td><td>Visceral hypersensitivity + 장-뇌 축 이상</td></tr><tr><td>흔한 환자</td><td>가장 흔함 (전체 ⅔)</td><td>젊은 여성; 정신 질환 동반</td><td>출산력·골반저 이상 여성</td><td>스트레스·불안 동반</td></tr><tr><td>항문 폐쇄감·수기 배변</td><td>드묾</td><td>드묾</td><td><strong>매우 특징적</strong></td><td>가능</td></tr><tr><td>Soft stool인데 배변 곤란</td><td>드묾</td><td>드묾</td><td><strong>강력 시사</strong></td><td>드묾</td></tr><tr><td>복부 팽만</td><td>흔함</td><td>매우 흔함</td><td>중등도</td><td>매우 흔함</td></tr><tr><td>복통·배변 후 완화</td><td>드묾</td><td>드묾</td><td>드묾</td><td><strong>특징적</strong></td></tr><tr><td>Colonic transit time</td><td>정상</td><td>지연 (＞72h)</td><td>정상 또는 경도 지연</td><td>다양</td></tr><tr><td>Anorectal manometry</td><td>정상</td><td>정상</td><td>비정상 (dyssynergia)</td><td>다양</td></tr><tr><td>핵심 치료</td><td>Fiber + PEG</td><td>PEG + prucalopride</td><td><strong>Biofeedback 우선</strong></td><td>통합 접근 (복통 포함)</td></tr><tr><td>흔한 함정</td><td>심한 병으로 오해</td><td>Refractory constipation</td><td>하제만 계속 증량</td><td>단순 변비로 간과</td></tr></tbody></table>
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -104,7 +104,7 @@
 
 #### <mark style="color:$primary;">영상 및 기타 검사</mark>
 
-<table><thead><tr><th width="200">검사</th><th>적응 및 특징</th></tr></thead><tbody><tr><td>직장 수지 검사<br>(모든 변비 환자에서 필수)</td><td>2차성 변비(괄약근 긴장, 직장항문 종괴, 직장탈출, 직장류) 감별; dyssynergia 조기 시사에 유용; 배변 시뮬레이션(힘주기) 시 치골직장근(puborectalis)의 역설적 수축 또는 괄약근 이완 부전 관찰 → pelvic floor dysfunction 강력 시사</td></tr><tr><td>대장내시경</td><td>조직 검사·폴립 제거 동시 시행 가능; 경고 징후 있을 때 1차 선택</td></tr><tr><td>Barium enema</td><td>현재는 사용 빈도 감소 (대장내시경·CT colonography로 대체 추세); 대장 확장·협착 파악에는 유리하나 대부분의 환경에서 1차 선택이 아님</td></tr><tr><td>CT colonography</td><td>해부학적 이상, 종양 등 평가</td></tr><tr><td>Defecography</td><td>배변 활동 중 직장·주위 구조 형태 및 움직임 관찰; 직장류·직장탈출 평가에 유용</td></tr><tr><td>Colonic transit time</td><td>Radiopaque marker 섭취 후 120시간 뒤 X선 촬영; marker >20% 정체 시 delayed transit 진단</td></tr><tr><td>Anorectal manometry</td><td>직장 및 항문 괄약근의 기능 측정; pelvic floor dysfunction 진단에 필수</td></tr></tbody></table>
+<table><thead><tr><th width="200">검사</th><th>적응 및 특징</th></tr></thead><tbody><tr><td>직장 수지 검사<br>(모든 변비 환자에서 필수)</td><td>2차성 변비(괄약근 긴장, 직장항문 종괴, 직장탈출, 직장류) 감별; dyssynergia 조기 시사에 유용; 배변 시뮬레이션(힘주기) 시 치골직장근(puborectalis)의 역설적 수축 또는 괄약근 이완 부전 관찰 → pelvic floor dysfunction 강력 시사</td></tr><tr><td>대장내시경</td><td>조직 검사·폴립 제거 동시 시행 가능; 경고 징후 있을 때 1차 선택</td></tr><tr><td>Barium enema</td><td>현재는 사용 빈도 감소 (대장내시경·CT colonography로 대체 추세); 대장 확장·협착 파악에는 유리하나 대부분의 환경에서 1차 선택이 아님</td></tr><tr><td>CT colonography</td><td>해부학적 이상, 종양 등 평가</td></tr><tr><td>Defecography</td><td>배변 활동 중 직장·주위 구조 형태 및 움직임 관찰; 직장류·직장탈출 평가에 유용</td></tr><tr><td>Colonic transit time</td><td>Radiopaque marker 섭취 후 120시간 뒤 X선 촬영; marker ＞20% 정체 시 delayed transit 진단</td></tr><tr><td>Anorectal manometry</td><td>직장 및 항문 괄약근의 기능 측정; pelvic floor dysfunction 진단에 필수</td></tr></tbody></table>
 
 ***
 

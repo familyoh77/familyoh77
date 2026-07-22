@@ -95,7 +95,7 @@ class C1,C2,C3,C4,J,F pink
 
 <mark style="color:$warning;">**당일 또는 조기 재평가**</mark>
 
-* 혈종이 크거나(직경 >1 cm) 딱딱하게 굳기 시작한 경우 → 절개 배농 고려
+* 혈종이 크거나(직경 ＞1 cm) 딱딱하게 굳기 시작한 경우 → 절개 배농 고려
 * 흡인 후 24\~48시간 내 재발한 경우 → 압박 고정 드레싱 재시행 또는 절개 배농
 
 <mark style="color:$info;">**외래 추적**</mark>
@@ -167,7 +167,7 @@ class C1,C2,C3,C4,J,F pink
 * 주요 원인 : 구슬, 작은 돌, 휴지, 작은 장난감, 음식(팝콘 알갱이), 곤충
 * 반대쪽 귀 및 코의 이물 여부 함께 확인
 * 제거 후 고막·외이도 손상 여부 확인
-* 즉시 제거 필요 이물 : 원판 배터리(<4시간), 살아 있는 곤충, 귀 조직에 박힌 이물
+* 즉시 제거 필요 이물 : 원판 배터리(＜4시간), 살아 있는 곤충, 귀 조직에 박힌 이물
 
 ### <mark style="background-color:$warning;">Management</mark>
 
@@ -321,7 +321,7 @@ graph TD
 
 ### <mark style="color:orange;">Tuning Fork를 이용한 청력 감별</mark>
 
-<table><thead><tr><th width="166"></th><th width="200">Weber lateralization</th><th width="220">Rinne test</th></tr></thead><tbody><tr><td><strong>전음성 난청</strong></td><td></td><td></td></tr><tr><td>　건측</td><td></td><td>정상 (AC>BC)</td></tr><tr><td>　환측</td><td>병변 측(환측)으로 편위</td><td>비정상 (BC>AC)</td></tr><tr><td><strong>감각 신경성 난청</strong></td><td></td><td></td></tr><tr><td>　건측</td><td>건측(정상 측)으로 편위</td><td>정상 (AC>BC)</td></tr><tr><td>　환측</td><td></td><td>정상 (AC>BC)</td></tr></tbody></table>
+<table><thead><tr><th width="166"></th><th width="200">Weber lateralization</th><th width="220">Rinne test</th></tr></thead><tbody><tr><td><strong>전음성 난청</strong></td><td></td><td></td></tr><tr><td>　건측</td><td></td><td>정상 (AC＞BC)</td></tr><tr><td>　환측</td><td>병변 측(환측)으로 편위</td><td>비정상 (BC＞AC)</td></tr><tr><td><strong>감각 신경성 난청</strong></td><td></td><td></td></tr><tr><td>　건측</td><td>건측(정상 측)으로 편위</td><td>정상 (AC＞BC)</td></tr><tr><td>　환측</td><td></td><td>정상 (AC＞BC)</td></tr></tbody></table>
 
 _AC=air conduction, BC=bone conduction_
 
@@ -631,7 +631,7 @@ T70.0 이염성 압력 손상
 
 * 강한 소리에 노출되어 발생하는 청력 손상 (소음 유발성 청력 손실, NIHL)
 * 85\~140 ㏈(록 콘서트, 공장 소음) : 일시적 청력 감소(특히 4 ㎑ 영역), 이명; 지속 노출 시 영구 손상
-* 갑작스러운 >140 ㏈(폭음, 사격) : 짧은 노출에서도 영구 손상 가능
+* 갑작스러운 ＞140 ㏈(폭음, 사격) : 짧은 노출에서도 영구 손상 가능
 * 1일 허용 최대 평균 노출 수준 : 85 ㏈-8시간 / 88 ㏈-4시간 / 91 ㏈-2시간 / 94 ㏈-60분 / 97 ㏈-30분 / 100 ㏈-15분
   * 소음 노출 3 ㏈ 증가마다 허용 노출 시간이 절반으로 감소 (OSHA 기준)
 * 강한 소음에 노출 시 Audiometry 시행

@@ -197,7 +197,7 @@ flowchart TD
 ### <mark style="color:orange;">약물 치료</mark>
 
 * **1차 선택** : propranolol 또는 primidone
-  * propranolol 절대 금기 : 2\~3도 방실 차단(AV block), 중증 천식/기관지 경련, 중증 서맥(HR <50), 중증 저혈압
+  * propranolol 절대 금기 : 2\~3도 방실 차단(AV block), 중증 천식/기관지 경련, 중증 서맥(HR ＜50), 중증 저혈압
 * **2차 선택** : topiramate (근거 비교적 강함), gabapentin
 * **3차 선택** : alprazolam (다른 약제 불응 시 추가; 의존성 주의)
 * 환자의 30\~50%는 propranolol과 primidone에 반응하지 않음
@@ -223,7 +223,7 @@ flowchart TD
   * 상황성 떨림(예: 공연, 발표)에서는 이벤트 1\~2시간 전 1회성으로 투여하는 것을 고려
 * 증량 : 1\~2주 간격으로 천천히 증량
 * 목표 : 40\~320 ㎎/d (고령자에서는 낮게 유지 권장)
-* 주의/금기 : 서맥 (<60), 저혈압, fatigue, depression 악화, 당뇨 환자 저혈당 은폐, asthma / bronchospasm, AV block (2\~3도), acute HF
+* 주의/금기 : 서맥 (＜60), 저혈압, fatigue, depression 악화, 당뇨 환자 저혈당 은폐, asthma / bronchospasm, AV block (2\~3도), acute HF
 
 **primidone**
 

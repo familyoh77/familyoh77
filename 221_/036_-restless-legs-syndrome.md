@@ -114,7 +114,7 @@
 
 **Intermittent (간헐적)**
 
-* 주 <2회, 삶의 질 영향 적음
+* 주 ＜2회, 삶의 질 영향 적음
 * 치료 : 비약물 치료, 필요 시 PRN(levodopa, 저용량 opioid)
 
 **Chronic persistent**
@@ -168,19 +168,19 @@
 
 * ferritin ≤75 ng/mL → 경구 또는 IV 철분
 * ferritin 75\~100 ng/mL → IV 철분 고려
-* ferritin >100 ng/mL + TSAT <20% → IV 철분 고려
-* ferritin >100 ng/mL + TSAT ≥20% → 철분 보충 불필요
+* ferritin ＞100 ng/mL + TSAT ＜20% → IV 철분 고려
+* ferritin ＞100 ng/mL + TSAT ≥20% → 철분 보충 불필요
 * 목표: ferritin ≥100 ng/mL (가능하면 100\~150 ng/mL)
 * 아침 공복, 철분 보충제 24시간 중단 후 채혈
-* 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - 이 경우 TSAT < 20%가 철분 부족을 시사하는 더 강력한 지표가 됨
-* ferritin >75 ng/㎖에서는 체내hepcidin 호르몬의 상승으로 경구 철분 흡수가 억제됨 → IV 철분제 고려
+* 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - 이 경우 TSAT ＜ 20%가 철분 부족을 시사하는 더 강력한 지표가 됨
+* ferritin ＞75 ng/㎖에서는 체내hepcidin 호르몬의 상승으로 경구 철분 흡수가 억제됨 → IV 철분제 고려
 * 고령자에서는 경구제의 경우 GI 부작용을 감안하여 격일 복용할수있음; IV 제제가 빠르고 효과적이므로 적극 고려
-* IV ferric carboxymaltose <mark style="color:blue;">\[페린젝트주]</mark> : ferritin <100 ng/㎖ 또는 TSAT <20% 시 투여 (강력 권고)
+* IV ferric carboxymaltose <mark style="color:blue;">\[페린젝트주]</mark> : ferritin ＜100 ng/㎖ 또는 TSAT ＜20% 시 투여 (강력 권고)
   * 위장관 흡수에 의존하지 않아 hepcidin 억제의 영향을 받지 않음. 효과 빠르고 예측 가능
   * 경구 철분 대비 뇌 철분 보충 속도가 빠름. 적은 횟수 투여로 충분
-* 경구 ferrous sulfate : ferritin ≤75 ng/㎖ 또는 TSAT <20% 시 투여 (조건부 권고) (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
+* 경구 ferrous sulfate : ferritin ≤75 ng/㎖ 또는 TSAT ＜20% 시 투여 (조건부 권고) (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
   * 공복(식전 1시간) 복용, Vit C 병용으로 흡수 향상
-  * ferritin >75 ng/㎖이면 경구 흡수 불량(hepcidin 상승으로 십이지장 철분 흡수 억제) → IV 철분제 고려
+  * ferritin ＞75 ng/㎖이면 경구 흡수 불량(hepcidin 상승으로 십이지장 철분 흡수 억제) → IV 철분제 고려
   * 격일 복용(every other day) 권고 : 매일 복용보다 hepcidin 상승을 억제하여 전체 흡수율 향상, 위장 장애 감소
 * IV low molecular weight iron dextran, IV ferumoxytol : 조건부 권고
 
@@ -225,7 +225,7 @@
 * Augmentation 위험 인자
   * 도파민 작용제 고용량 또는 장기 사용
   * levodopa 사용 (dopamine agonist보다 augmentation 위험 높음)
-  * ferritin 낮음 (< 75 ng/mL)
+  * ferritin 낮음 (＜ 75 ng/mL)
   * 장기 사용 기간
 * 증상이 심해졌다고 증량하면 augmentation이 가속화됨. **Augmentation 의심 시 증량 금지** (초기 titration 시 용량 증량은 용법에 따라 허용)
 * 2024 AASM 가이드라인은 도파민 작용제에 대해 장기 사용 조건부 권고 반대 명시
@@ -317,7 +317,7 @@ G25.81 하지불안증후군
 > ※ 체중 증가, 어지럼, 부종 주의
 > ```
 
-> **처방례 3.** 경구 철분 보충 — ferritin ≤75 ng/mL 또는 transferrin saturation rate <20%
+> **처방례 3.** 경구 철분 보충 — ferritin ≤75 ng/mL 또는 transferrin saturation rate ＜20%
 >
 > ```
 > 훼로바-유 서방정 1T  격일(이틀에 한 번) 공복(식전 1시간)

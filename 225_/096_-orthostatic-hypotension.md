@@ -31,7 +31,7 @@
 **기립 시 맥박 반응으로 병인 추정**
 
 • 혈압 하강 & ≥15 bpm HR 증가 → non-neurogenic OH 시사 (예: hypovolemia, 심장 pump 부전)\
-• 혈압 하강 & <15 bpm HR 증가 → neurogenic OH 시사 (예: 자율신경 부전)\
+• 혈압 하강 & ＜15 bpm HR 증가 → neurogenic OH 시사 (예: 자율신경 부전)\
 • 혈압 하강 미미 & 기립성 빈맥 단독 (기립 후 10분 이내에 HR ≥30 bpm 상승이 지속적으로 유지) → [POTS](../221_/030_-autonomic-dysfunction.md#undefined-1)(Postural orthostatic tachycardia syndrome) 의심
 {% endhint %}
 
@@ -87,7 +87,7 @@
 <mark style="color:$info;">외래 추적 / 추가 평가 계획</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 비약물 치료 및 약물 조정에도 4주 이상 증상 지속되거나 낙상 반복
-* 젊은 환자 (<40세)에서 원인 불명의 기립성 저혈압 → Initial OH 포함 드문 이차 원인 배제
+* 젊은 환자 (＜40세)에서 원인 불명의 기립성 저혈압 → Initial OH 포함 드문 이차 원인 배제
 * 당뇨병 환자에서 nOH 의심 시 → 자율신경 기능 검사 및 당뇨 관리 재평가
 
 ## <mark style="color:green;">진단</mark>
@@ -100,7 +100,7 @@
 <table><thead><tr><th width="167.6190185546875">측정 시점</th><th width="170.47625732421875">임상적 의미</th><th>비고</th></tr></thead><tbody><tr><td>기립 즉시 (15~30초)</td><td>Initial OH 감지</td><td>SBP ≥40 또는 DBP ≥20 감소</td></tr><tr><td>1분</td><td>초기 혈압 적응 평가</td><td>Classical OH 조기 발견</td></tr><tr><td>3분</td><td>Classical OH 확인</td><td>SBP ≥20 또는 DBP ≥10 감소 시 진단</td></tr><tr><td>5~10분</td><td>Delayed OH 확인</td><td>3분 측정 정상이나 증상 지속 시 연장 측정</td></tr></tbody></table>
 
 {% hint style="info" %}
-**진단 시 주의** : 고혈압 환자에서 기립성 저혈압은 강압 치료 강도와 독립적으로 평가해야 함. 증상성 OH가 있는 고혈압 환자의 경우 목표 SBP를 완화(< 140㎜Hg 고려)하여 강압 치료 강도를 조정 (2025 AHA/ACC 가이드라인; 2024 ESC 가이드라인).
+**진단 시 주의** : 고혈압 환자에서 기립성 저혈압은 강압 치료 강도와 독립적으로 평가해야 함. 증상성 OH가 있는 고혈압 환자의 경우 목표 SBP를 완화(＜ 140㎜Hg 고려)하여 강압 치료 강도를 조정 (2025 AHA/ACC 가이드라인; 2024 ESC 가이드라인).
 {% endhint %}
 
 ### <mark style="color:orange;">Neurogenic vs. Non-neurogenic OH 감별</mark>
@@ -185,7 +185,7 @@ class NTx1,NTx2,NonTx sky
 * 기저 질환 치료 : 당뇨병(혈당 조절), 파킨슨병, 심장 질환, 빈혈
 * 복용 중인 모든 약물 검토 - 유발 또는 악화 약물을 최소화하거나 대체
 * 혈압 모니터링 : 앙와위·좌위·기립 자세, 식전 및 식후 1시간, 취침 전 등 다양한 상황에서 측정
-* 고혈압 치료 환자 : 증상성 OH가 있을 경우 목표 SBP를 <130 ㎜Hg보다 완화(<140 ㎜Hg 고려)하여 강압 치료 강도를 조정
+* 고혈압 치료 환자 : 증상성 OH가 있을 경우 목표 SBP를 ＜130 ㎜Hg보다 완화(＜140 ㎜Hg 고려)하여 강압 치료 강도를 조정
 
 ### <mark style="color:orange;">Supine Hypertension 관리 (nOH 환자)</mark>
 
@@ -193,7 +193,7 @@ class NTx1,NTx2,NonTx sky
 * OH 치료와 상충되므로 개별화된 접근 필요
 * 24시간 활동혈압 모니터링(ABPM)으로 야간 혈압 패턴을 평가하면 치료 조정에 유용
 
-<table><thead><tr><th width="210">앙와위 SBP</th><th>조치</th></tr></thead><tbody><tr><td>140~160 ㎜Hg</td><td>침상 머리 올림(20~30 ㎝), 경과 관찰</td></tr><tr><td>> 160 ㎜Hg</td><td>침상 머리 올림 강화; 저녁 약물 용량 재검토</td></tr><tr><td>> 180 ㎜Hg 또는 야간 증상</td><td>단기 항고혈압제 추가(취침 전 소량) 고려; 자율신경 전문의 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="210">앙와위 SBP</th><th>조치</th></tr></thead><tbody><tr><td>140~160 ㎜Hg</td><td>침상 머리 올림(20~30 ㎝), 경과 관찰</td></tr><tr><td>＞ 160 ㎜Hg</td><td>침상 머리 올림 강화; 저녁 약물 용량 재검토</td></tr><tr><td>＞ 180 ㎜Hg 또는 야간 증상</td><td>단기 항고혈압제 추가(취침 전 소량) 고려; 자율신경 전문의 의뢰</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 

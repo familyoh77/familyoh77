@@ -5,7 +5,7 @@
 * **관상동맥병 (coronary artery disease, CAD)** : 관상동맥의 죽상경화성 협소에 기인하는 심근 허혈 질환
   * stable angina, acute coronary syndrome 포함
   * **폐쇄성 CAD** : 직경 협착(diameter stenosis) ≥50%; 임상적으로는 non-LM 혈관 ≥70%를 기능적 유의 협착으로 보며, 40\~70% 경계 협착은 FFR/iFR로 판단 (\*비좌주관상동맥(non-left main)에서는 대략 70% 이상 협착부터 운동 시 혈류 제한이 발생할 가능성이 크게 증가)
-  * **비폐쇄성 CAD** : 협착 <50%; 동맥경화 플라크는 있으나 혈류 제한 없음
+  * **비폐쇄성 CAD** : 협착 ＜50%; 동맥경화 플라크는 있으나 혈류 제한 없음
 * **만성 관상동맥병 (chronic coronary disease, CCD)** : 이전의 stable ischemic heart disease(SIHD) 개념을 대체하는 광의의 용어 \[AHA/ACC]
   * CAD, 이전 MI/재관류술, 비침습적 검사로 진단된 허혈성 심장병, 만성 협심 증후군 등 포함
   * ESC는 동일한 개념 범위를 만성 관상동맥증후군(chronic coronary syndromes, CCS)으로 명명
@@ -537,7 +537,7 @@ class J,K blue
 * 5\~7.5 ㎎ bid <mark style="color:blue;">\[프로코라란]</mark>
 
 {% hint style="danger" %}
-**정상 LV 기능을 가진 협심증 환자에서 Ivabradine 추가는 권고되지 않음** - SIGNIFY trial(NEJM, 2014)에서 임상적 심부전이 없는 안정 CAD 환자(LVEF >40%)에 ivabradine을 추가했을 때 전체적으로 예후 개선이 없었고, 활동제한성 협심증(CCS ≥II) 하위군에서는 오히려 1차 종료점이 증가하는 위해 신호가 관찰됨. 이를 반영해 \[AHA/ACC 2023]은 정상 LV 기능 CCD 환자에서 표준 항협심증 치료에 ivabradine을 추가하는 것을 "potentially harmful"로 명시함. 즉 이 약은 HFrEF + 빈맥 적응증에서만 확립된 근거를 가지며, 단순히 "β-차단제 금기 + 동리듬 + HR ≥70"인 일반 협심증 환자에게 증상 완화 목적으로 추가하는 용도로는 권장되지 않음
+**정상 LV 기능을 가진 협심증 환자에서 Ivabradine 추가는 권고되지 않음** - SIGNIFY trial(NEJM, 2014)에서 임상적 심부전이 없는 안정 CAD 환자(LVEF ＞40%)에 ivabradine을 추가했을 때 전체적으로 예후 개선이 없었고, 활동제한성 협심증(CCS ≥II) 하위군에서는 오히려 1차 종료점이 증가하는 위해 신호가 관찰됨. 이를 반영해 \[AHA/ACC 2023]은 정상 LV 기능 CCD 환자에서 표준 항협심증 치료에 ivabradine을 추가하는 것을 "potentially harmful"로 명시함. 즉 이 약은 HFrEF + 빈맥 적응증에서만 확립된 근거를 가지며, 단순히 "β-차단제 금기 + 동리듬 + HR ≥70"인 일반 협심증 환자에게 증상 완화 목적으로 추가하는 용도로는 권장되지 않음
 {% endhint %}
 
 ### <mark style="color:orange;">GLP-1RA 및 SGLT2i</mark>

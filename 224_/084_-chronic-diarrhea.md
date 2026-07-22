@@ -118,7 +118,7 @@
 
 * 병력 : 기저 질환, 약물(최근 항생제 포함), 식이(음식 일기), 정신사회적 스트레스, 여행력, 가족력, 수술력(담낭절제술)
 * 기능성 설사 진단 기준 \[Rome Ⅳ]
-  1. 최소 6개월 전 발생, 최근 3개월간 통증이나 불편감 없는 죽/물 같은 변이 배변의 >¼에서 발생
+  1. 최소 6개월 전 발생, 최근 3개월간 통증이나 불편감 없는 죽/물 같은 변이 배변의 ＞¼에서 발생
   2. IBS-D 진단 기준에 해당되지 않음
 
 ### <mark style="color:orange;">검사</mark>
@@ -142,16 +142,16 @@
 * 전해질(Na, K), 삼투압
   * osmotic gap 계산 : 290 − 2×(Na + K) mOsm/kg stool water
 
-<table><thead><tr><th width="146">Osmotic gap</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 mOsm/㎏</td><td>분비성 설사 (secretory) - 식사와 무관, 금식해도 지속</td></tr><tr><td>50~100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>> 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
+<table><thead><tr><th width="146">Osmotic gap</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 mOsm/㎏</td><td>분비성 설사 (secretory) - 식사와 무관, 금식해도 지속</td></tr><tr><td>50~100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>＞ 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
 
 * Fecal calprotectin : 장 점막 염증 비침습 지표; IBD vs. 기능성 설사 감별에 적용
   * [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171229\&sno=3\&mtgMtrRegSno=91\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : IBD 의심 환자에서 시행 시 연 1\~2회 인정 (선별 급여); 단순 IBS 상병으로 청구 시 삭감 주의
 
-<table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 ㎍/g</td><td>장 염증 가능성 낮음 → 기능성 원인 우선 평가</td></tr><tr><td>50 ~ 150 ㎍/g</td><td>borderline → 임상 양상과 함께 판단; 추적 또는 내시경 고려</td></tr><tr><td>150 ~ 250 ㎍/g</td><td>기질적 염증 의심 → 내시경 적극 고려</td></tr><tr><td>> 250 ㎍/g</td><td>active IBD 가능성 높음 → 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 ㎍/g</td><td>장 염증 가능성 낮음 → 기능성 원인 우선 평가</td></tr><tr><td>50 ~ 150 ㎍/g</td><td>borderline → 임상 양상과 함께 판단; 추적 또는 내시경 고려</td></tr><tr><td>150 ~ 250 ㎍/g</td><td>기질적 염증 의심 → 내시경 적극 고려</td></tr><tr><td>＞ 250 ㎍/g</td><td>active IBD 가능성 높음 → 의뢰</td></tr></tbody></table>
 
-* **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전 비침습 평가; <200 ㎍/g → 췌장 기능 부전 의심
+* **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전 비침습 평가; ＜200 ㎍/g → 췌장 기능 부전 의심
   * 72시간 대변 지방 검사보다 간편; 설사 중에는 희석에 의한 위음성 주의
-* 대변 지방 (72시간, >7 g/d → 지방 흡수 장애)
+* 대변 지방 (72시간, ＞7 g/d → 지방 흡수 장애)
 * _C. difficile_ toxin PCR (항생제 복용력 있거나 중증 설사)
 
 **호기 검사 (Hydrogen breath test)**

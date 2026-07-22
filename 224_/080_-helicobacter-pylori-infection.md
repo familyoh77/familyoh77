@@ -10,7 +10,7 @@
   * 소화성 궤양 및 위 MALT 림프종의 예후 개선
   * 위암 예방 효과 : 2022년 이후 대규모 코호트 연구(한국 포함) 및 메타분석에서 제균 치료 시 위암 발생 위험 약 40\~60% 감소; 위암 절제 후 이시성(metachronous) 재발도 감소
   * Maastricht VI (2022) 및 ACG (2022) 가이드라인은 _H. pylori_ 감염 자체를 제균 치료 적응증으로 명시
-* 우리나라의 clarithromycin 내성 상황 : 국내 _H. pylori_ clarithromycin 내성률은 2020년대 기준 약 20\~30%로 증가 추세이며(일부 지역 30% 이상 보고); 내성률 >15% 지역을 '고내성 지역'으로 분류하며 우리나라는 고내성 지역에 해당, 내성 검사 없이 clarithromycin 포함 표준 3제 요법을 경험적으로 1차 선택하는 것은 더 이상 권장되지 않음. Bismuth 4제 요법 또는 동시 치료(concomitant therapy)를 우선 고려하는 방향으로 패러다임이 전환되고 있음
+* 우리나라의 clarithromycin 내성 상황 : 국내 _H. pylori_ clarithromycin 내성률은 2020년대 기준 약 20\~30%로 증가 추세이며(일부 지역 30% 이상 보고); 내성률 ＞15% 지역을 '고내성 지역'으로 분류하며 우리나라는 고내성 지역에 해당, 내성 검사 없이 clarithromycin 포함 표준 3제 요법을 경험적으로 1차 선택하는 것은 더 이상 권장되지 않음. Bismuth 4제 요법 또는 동시 치료(concomitant therapy)를 우선 고려하는 방향으로 패러다임이 전환되고 있음
 
 {% hint style="info" %}
 **H. pylori → 위암 발암 경로 (Correa Cascade)**
@@ -76,11 +76,11 @@ H. pylori 감염
 
 **비침습검사**
 
-<table><thead><tr><th width="160">검사명</th><th width="223">장점 (민감도/특이도)</th><th>단점</th></tr></thead><tbody><tr><td><strong>요소호기검사 (Urea Breath Test, UBT)</strong></td><td>가장 정확 (민감도·특이도 >90%); 편리·신속; 제균 후 추적 검사 시 국내 1차 선택</td><td>PPI, H2 차단제, 항생제, bismuth 복용 시 위음성 가능; 소량의 방사선 노출</td></tr><tr><td><strong>혈청 항체 검사 (ELISA)</strong></td><td>저렴·편리 (민감도 >80%, 특이도 >90%); 약제 영향 받지 않음; 초기 선별 검사에 유용</td><td>과거 감염과 현재 감염 구별 불가 → 제균 후 추적 검사에 부적합</td></tr><tr><td><strong>대변 항원 검사 (Stool Ag Test)</strong></td><td>저렴·편리 (민감도·특이도 >90%); 소아에서 선호; monoclonal 기반 제품은 국제 가이드라인에서 제균 확인에 UBT와 동등 수준으로 인정</td><td>냉장 보관 필요; 국내 가이드라인은 추적 검사에 UBT 우선 권고</td></tr></tbody></table>
+<table><thead><tr><th width="160">검사명</th><th width="223">장점 (민감도/특이도)</th><th>단점</th></tr></thead><tbody><tr><td><strong>요소호기검사 (Urea Breath Test, UBT)</strong></td><td>가장 정확 (민감도·특이도 ＞90%); 편리·신속; 제균 후 추적 검사 시 국내 1차 선택</td><td>PPI, H2 차단제, 항생제, bismuth 복용 시 위음성 가능; 소량의 방사선 노출</td></tr><tr><td><strong>혈청 항체 검사 (ELISA)</strong></td><td>저렴·편리 (민감도 ＞80%, 특이도 ＞90%); 약제 영향 받지 않음; 초기 선별 검사에 유용</td><td>과거 감염과 현재 감염 구별 불가 → 제균 후 추적 검사에 부적합</td></tr><tr><td><strong>대변 항원 검사 (Stool Ag Test)</strong></td><td>저렴·편리 (민감도·특이도 ＞90%); 소아에서 선호; monoclonal 기반 제품은 국제 가이드라인에서 제균 확인에 UBT와 동등 수준으로 인정</td><td>냉장 보관 필요; 국내 가이드라인은 추적 검사에 UBT 우선 권고</td></tr></tbody></table>
 
 **침습검사**
 
-<table><thead><tr><th width="143">검사명</th><th width="226">장점 (민감도/특이도)</th><th>단점</th></tr></thead><tbody><tr><td><strong>급속요소분해효소검사 (Rapid Urease Test)</strong></td><td>빠르고 간단 (민감도 80~95%, 특이도 95~100%)</td><td>PPI, H2 차단제, 항생제, bismuth 복용 시 위음성 가능; 활동성 출혈 급성기에는 위음성률 증가</td></tr><tr><td><strong>조직 검사</strong></td><td>민감도 80~90%, 특이도 >95%; 위염 중증도 및 장상피화생 동시 평가 가능</td><td>채취 부위에 따라 민감도 저하; 비용 높음; 활동성 출혈 급성기에는 민감도 저하</td></tr><tr><td><strong>배양 검사</strong></td><td>항생제 내성 패턴 직접 확인 가능 - 제균 실패 반복 시 핵심 검사</td><td>시간 소요(수 일), 복잡, 고비용; 균 생존 조건 엄격</td></tr><tr><td><strong>PCR 검사</strong><br><strong>(DPO-PCR)</strong></td><td>Clarithromycin 내성 유전자(23S rRNA 돌연변이) 신속 확인; 배양 없이 내성 판단 가능; 대학병원 중심으로 확대 중</td><td>상업적 키트 필요; 모든 내성 기전 검출 불가; 비용</td></tr></tbody></table>
+<table><thead><tr><th width="143">검사명</th><th width="226">장점 (민감도/특이도)</th><th>단점</th></tr></thead><tbody><tr><td><strong>급속요소분해효소검사 (Rapid Urease Test)</strong></td><td>빠르고 간단 (민감도 80~95%, 특이도 95~100%)</td><td>PPI, H2 차단제, 항생제, bismuth 복용 시 위음성 가능; 활동성 출혈 급성기에는 위음성률 증가</td></tr><tr><td><strong>조직 검사</strong></td><td>민감도 80~90%, 특이도 ＞95%; 위염 중증도 및 장상피화생 동시 평가 가능</td><td>채취 부위에 따라 민감도 저하; 비용 높음; 활동성 출혈 급성기에는 민감도 저하</td></tr><tr><td><strong>배양 검사</strong></td><td>항생제 내성 패턴 직접 확인 가능 - 제균 실패 반복 시 핵심 검사</td><td>시간 소요(수 일), 복잡, 고비용; 균 생존 조건 엄격</td></tr><tr><td><strong>PCR 검사</strong><br><strong>(DPO-PCR)</strong></td><td>Clarithromycin 내성 유전자(23S rRNA 돌연변이) 신속 확인; 배양 없이 내성 판단 가능; 대학병원 중심으로 확대 중</td><td>상업적 키트 필요; 모든 내성 기전 검출 불가; 비용</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">검사 유의점</mark>
 

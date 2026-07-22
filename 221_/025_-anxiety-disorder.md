@@ -189,7 +189,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 낮은 강도의 심리적 중재 : 개별적 또는 그룹 중재
 * 현저한 기능 장애가 있거나 낮은 강도의 심리적 중재로 호전되지 않는 경우 고강도 정신 치료(예: 인지행동 요법) &/or 약물 치료
 * 매 방문 때마다 불안 수준 정량화 모니터링(GAD-7) - Measurement-based care
-  * GAD-7 <5 (치료 중): 유지 또는 감량 검토
+  * GAD-7 ＜5 (치료 중): 유지 또는 감량 검토
   * GAD-7 5\~9 : watchful waiting, 비약물 치료 강화
   * GAD-7 ≥10 : 치료 시작 또는 강화 (SSRI/SNRI)
   * 삶의 질 평가 문항도 함께 확인 - 총점이 낮아도 기능 손상이 있으면 적극 개입
@@ -201,7 +201,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
  → 자살 사고, 급성 정신증, 타해 의도 → 즉각 이송/응급 평가
 
 **Step 2. 중증도 평가 및 초기 치료 선택 (GAD-7)**\
- GAD-7 <5 → 재보증(reassurance), 생활 습관 교육\
+ GAD-7 ＜5 → 재보증(reassurance), 생활 습관 교육\
  GAD-7 5\~9 → 심리교육 ± CBT; 4\~6주 후 재평가\
  GAD-7 ≥10 → SSRI/SNRI 시작 + CBT 병행 권고\
   \*약물 치료 단계 Step 1 해당
@@ -226,7 +226,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 ## <mark style="color:green;">비-약물 치료</mark>
 
 * 인지행동 요법(CBT), mindfulness-based therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
-* 카페인 섭취 제한(>400 ㎎/day 불안 악화), 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
+* 카페인 섭취 제한(＞400 ㎎/day 불안 악화), 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
 * Avoid list : 에너지음료, pseudoephedrine(코감기약), cannabis(불안 악화 가능), 고용량 카페인 음료
 * 신체 활동, 이완 요법 : 규칙적 운동, 요가, 태극권, 기공, 명상; 일부 연구에서 유효
 * 디지털 치료제(DTx) : 앱 기반 인지행동치료(CBT)를 경증\~중등도 불안장애의 보조 수단으로 활용 가능; FDA cleared CBT 기반 DTx 존재(2024\~2025); 경증\~중등도에서 보조치료로 권고 수준까지 근거 축적 - 단, 국내 건강보험 급여 미적용, 활용 시 보조적 역할임을 안내
@@ -293,7 +293,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 초기 불안 악화(jitteriness syndrome) : 투약 첫 1\~2주에 불안·초조가 일시 악화될 수 있음. 위험 인자 : 공황장애 동반, 기저 불안 수준 높음, 급격한 증량 → 저용량 시작 및 환자 사전 설명으로 예방
 * 성기능 장애 : 발생률 30\~50%; 주요 증상 — 성욕 저하, 불감증, 사정 지연. 관리 : 용량 감량, vortioxetine 또는 bupropion(우울 동반 시)으로 전환 고려
 * 세로토닌 증후군 주의 : SSRI/SNRI 처방 전 병용 약물 확인 필수 — tramadol(오피오이드계 진통제), triptans(편두통 치료제), linezolid(항생제), fentanyl, dextromethorphan(일반 감기약) 등 세로토닌 활성 약물과 병용 시 세로토닌 증후군(고열·근육 경직·진전·의식 변화) 위험; 다른 과 처방 여부 반드시 확인
-* QT 간격 연장 : escitalopram·citalopram은 SSRI 중 QT 연장 위험이 상대적으로 높음 (FDA 경고, 2012); 고용량(escitalopram >20 ㎎), QT 연장 위험 약물(항부정맥제·항생제·항정신병제 등) 병용 시 주의; 기저 심질환·저칼륨혈증 환자에서 투여 전 ECG 고려
+* QT 간격 연장 : escitalopram·citalopram은 SSRI 중 QT 연장 위험이 상대적으로 높음 (FDA 경고, 2012); 고용량(escitalopram ＞20 ㎎), QT 연장 위험 약물(항부정맥제·항생제·항정신병제 등) 병용 시 주의; 기저 심질환·저칼륨혈증 환자에서 투여 전 ECG 고려
 * SNRI 추가 주의 : 산동(mydriasis) 효과로 인한 안압 상승. 폐쇄각 녹내장(narrow-angle glaucoma) 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
 * 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 모니터링. 투약 초기 전해질 확인 권고
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고

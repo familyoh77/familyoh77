@@ -481,7 +481,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 * TCA에 비하여 효과 적음
 * 대상 : 다른 약물 요법으로 실패한 말초신경병증성 통증, 섬유근육통
-* 신기능 주의 : 중등도 이상 신기능 저하(eGFR < 30 ㎖/min/1.73㎡) 환자에게는 duloxetine을 포함한 SNRI 계열 권장하지 않음 (약물 축적 및 부작용 위험 증가)
+* 신기능 주의 : 중등도 이상 신기능 저하(eGFR ＜ 30 ㎖/min/1.73㎡) 환자에게는 duloxetine을 포함한 SNRI 계열 권장하지 않음 (약물 축적 및 부작용 위험 증가)
 * duloxetine : 섬유근육통, 골관절염; 30\~60 ㎎/d qd <mark style="color:blue;">\[심발타]</mark>
   * 무릎 골관절염에 대한 둘록세틴 처방은 'NSAIDs에 반응하지 않는 경우'에만 인정. NSAIDs를 일정 기간 먼저 사용한 기록이 차트에 반드시 선행되어야 함
 * fluoxetine : 섬유근육통; 20\~80 ㎎/d qd <mark style="color:blue;">\[푸로작]</mark>
@@ -496,7 +496,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">Benzodiazepines</mark>
 
-* 통증 자체 치료 목적으로는 권고되지 않으며, 특히 만성 통증에서는 harm > benefit으로 평가됨; 불안 또는 근육 긴장이 동반된 경우 단기(＜2주)·제한적으로만 고려 — 통증에 대한 사용은 off-label (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
+* 통증 자체 치료 목적으로는 권고되지 않으며, 특히 만성 통증에서는 harm ＞ benefit으로 평가됨; 불안 또는 근육 긴장이 동반된 경우 단기(＜2주)·제한적으로만 고려 — 통증에 대한 사용은 off-label (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
 * 중독 문제로 ＜2주의 단기 사용으로 제한하며, 만성 통증에 대하여 권고하지 않음
 * 부작용 : 졸음, 의존성
 * clonazepam : 0.25 ㎎ qd\~tid, 필요시 3일 간격 증량, 최대 3\~6 ㎎/d <mark style="color:blue;">\[리보트릴]</mark>
@@ -615,7 +615,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 혈소판 응고 저해(투약 종료 후 2일까지 영향)
 * 심혈관 질환, 간염(특히 sulindac, diclofenac), 신 독성/신부전, 천식 악화, 체액 저류(부종, 혈압↑)
   * 신 독성 위험 인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
-  * 장기 복용 환자에서 eGFR < 30 ㎖/min/1.73㎡ 시 NSAIDs 금기(신기능 저하 가속 및 급성 신손상 위험)
+  * 장기 복용 환자에서 eGFR ＜ 30 ㎖/min/1.73㎡ 시 NSAIDs 금기(신기능 저하 가속 및 급성 신손상 위험)
   * 고령자에서 10년 NSAID 사용 추적 조사에서 유의미한 신기능 저하가 관찰되지 않았다는 보고가 있음
   * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험을 30% 증가시킨다는 보고가 있음; 약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음 — 단, naproxen은 GI 출혈 위험이 ibuprofen보다 높으므로(GI 출혈 위험 비교표 참조) CV risk ↑ 환자에서 선택 시 PPI 병용을 함께 고려
 

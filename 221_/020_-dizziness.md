@@ -230,7 +230,7 @@
 
 * 중추/말초 vertigo 감별에 유용. **급성전정증후군(Acute Vestibular Syndrome, AVS)** 환자에서 적용 — AVS 정의: 지속 어지럼(≥24시간), spontaneous nystagmus, 구역/구토, 보행 불안정의 4가지 특징을 보이는 상태
 * 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
-* 말초성(Peripheral) 시사 소견 (적절히 훈련된 검사자에서 MRI에 준하는 높은 민감도를 보일 수 있음, >95%; 미훈련 검사자에서는 과신 금물)
+* 말초성(Peripheral) 시사 소견 (적절히 훈련된 검사자에서 MRI에 준하는 높은 민감도를 보일 수 있음, ＞95%; 미훈련 검사자에서는 과신 금물)
   * Head Impulse Test (+) : 환측으로 머리 회전 시 교정 가동(catch-up saccade) 관찰
   * Nystagmus : 단방향 수평 안진(Direction-fixed); 주시 방향을 바꿔도 안진의 방향이 변하지 않음
   * Test of Skew (-) : 수직 안구 편위 없음

@@ -36,8 +36,8 @@
 #### <mark style="color:$primary;">급성 편도염</mark>
 
 * 구강 증상 : 편도 비대, 삼출물(tonsillar exudate), 구개 점상 출혈, 삼킴 통증, 입마름
-* 전신 증상 : 발열(>38℃), 오한, 무기력, 두통, 근육통
-* 기타 : 귀 통증(방사통), 경부 림프절병증(압통·비대 >2 ㎝)
+* 전신 증상 : 발열(＞38℃), 오한, 무기력, 두통, 근육통
+* 기타 : 귀 통증(방사통), 경부 림프절병증(압통·비대 ＞2 ㎝)
 * 경과 : 보통 3\~4일 내 자연 호전; 세균성 미치료 시 1\~2주 지속 가능
 
 #### <mark style="color:$primary;">만성/재발성 편도염</mark>
@@ -82,7 +82,7 @@
 
 * 바이러스 시사 소견이 없을 때 적용
 
-<table><thead><tr><th width="290">항목</th><th width="80">점수</th></tr></thead><tbody><tr><td>편도 삼출물 또는 부종</td><td>+1</td></tr><tr><td>전경부 림프절 압통/비대</td><td>+1</td></tr><tr><td>발열 (>38℃)</td><td>+1</td></tr><tr><td>기침 없음</td><td>+1</td></tr><tr><td>나이 3~14세</td><td>+1</td></tr><tr><td>나이 15~44세</td><td>0</td></tr><tr><td>나이 ≥45세</td><td>-1</td></tr></tbody></table>
+<table><thead><tr><th width="290">항목</th><th width="80">점수</th></tr></thead><tbody><tr><td>편도 삼출물 또는 부종</td><td>+1</td></tr><tr><td>전경부 림프절 압통/비대</td><td>+1</td></tr><tr><td>발열 (＞38℃)</td><td>+1</td></tr><tr><td>기침 없음</td><td>+1</td></tr><tr><td>나이 3~14세</td><td>+1</td></tr><tr><td>나이 15~44세</td><td>0</td></tr><tr><td>나이 ≥45세</td><td>-1</td></tr></tbody></table>
 
 <table><thead><tr><th width="80">점수</th><th width="124.11767578125">GABHS 가능성</th><th width="262.941162109375">성인 권장 처치</th><th width="277.4117431640625">소아 권장 처치</th></tr></thead><tbody><tr><td>≤1</td><td>~2–5%</td><td>항생제 불필요; 대증 치료</td><td>항생제 불필요; 대증 치료</td></tr><tr><td>2–3</td><td>~11–28%</td><td>RADT 시행; 양성 시에만 항생제</td><td>RADT 시행; 음성 시 배양 고려</td></tr><tr><td>≥4</td><td>~51%</td><td>RADT 또는 경험적 항생제 (선택적)</td><td>RADT 시행; 음성 시 배양 고려</td></tr></tbody></table>
 
@@ -92,7 +92,7 @@
 
 * 신속 항원 검사(RADT) : 민감도 70\~90%, 특이도 95% 이상; 음성이어도 임상적 의심 높은 소아는 배양 추가 고려
 * 인후 배양 검사 : GABHS 진단 표준; 결과 24\~48시간 소요
-* CBC : 이형림프구(atypical lymphocyte) >10% → EBV 강력 시사
+* CBC : 이형림프구(atypical lymphocyte) ＞10% → EBV 강력 시사
 * Monospot 검사 또는 EBV IgM : EBV 전염성 단핵구증 의심 시
 
 ### <mark style="color:orange;">감별</mark>
@@ -105,7 +105,7 @@
 #### <mark style="color:$primary;">EBV 전염성 단핵구증</mark>
 
 * 특징적 임상 양상 : 삼출성 편도염 + 심한 피로(임상 중증도에 비례 이상으로 과도) + 후경부(posterior cervical) 림프절병증 + 비장비대
-* 검사 소견 : 이형림프구 >10%, 간효소(AST/ALT) 이상, Monospot 양성; 발병 초기 Monospot 위음성 가능 → EBV IgM으로 확인
+* 검사 소견 : 이형림프구 ＞10%, 간효소(AST/ALT) 이상, Monospot 양성; 발병 초기 Monospot 위음성 가능 → EBV IgM으로 확인
 * 감별 포인트 : amoxicillin 투여 후 전신 발진 발생 → EBV 강력 시사
 * 처치 : NSAID 대증 치료 중심; 중증 삼킴 장애 또는 기도 압박 시 steroid 단회 고려; amoxicillin/ampicillin 금기; 비장비대 시 증상 발생 후 최소 3\~4주간 접촉 스포츠·격렬한 신체 활동 금지 (비장 파열 예방)
 
@@ -291,7 +291,7 @@ style K fill:#fde8f0,stroke:#e91e8c
 2. 최근 2년 동안 매년 ≥5회, 또는
 3. 최근 3년 동안 매년 ≥3회
 
-* \*편도염 진단 기준 : 인후통 및 다음 중 하나 이상; ⓵ 경부 림프절병증, ⓶ 편도 삼출물, ⓷ GABHS 배양 검사 양성, ⓸ 체온 >38.3℃
+* \*편도염 진단 기준 : 인후통 및 다음 중 하나 이상; ⓵ 경부 림프절병증, ⓶ 편도 삼출물, ⓷ GABHS 배양 검사 양성, ⓸ 체온 ＞38.3℃
 
 **위 적응증에 해당하지 않더라도 다음 경우에는 절제술 검토**
 

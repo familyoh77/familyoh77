@@ -59,7 +59,7 @@
 * Toynbee maneuver : 코를 막은 채 침을 삼키는 동작으로 중이 내 음압을 유발; 고막 내측 움직임 및 후상방 retraction pocket 관찰
 * audiogram : 전음성 난청 패턴
 * Weber test : tuning fork(512 ㎐)를 이마 중앙에 대면 이환 귀 쪽에서 더 크게 들림
-* Rinne test : 유양돌기에서 귀 앞보다 크게 들림 (BC > AC; 전음성 난청 패턴)
+* Rinne test : 유양돌기에서 귀 앞보다 크게 들림 (BC ＞ AC; 전음성 난청 패턴)
 * tympanometry : type B(삼출액, 고막 움직임 소실) 또는 type C(음압 형성)
 * 전문 이관기능 검사 (의뢰 시 시행) : 개방형 임피던스 검사(wideband tympanometry 포함), 이관 부하 검사(pressure chamber test / Eustachian tube function test) — 1차 진료에서는 시행하지 않으나, ETD 확진·BET 적응증 평가 시 이비인후과 전문 클리닉에서 활용
 * 영상 검사 : 보통 불필요; 3개월 이상 지속·합병증 우려·편측 지속 시 CT 또는 MRI 고려 (비인두 종괴·진주종 배제)
@@ -69,7 +69,7 @@
 
 * 지난 1개월간 7개 항목에 대해 없음(1점)\~극심함(7점)으로 설문
 * 항목 : ⓵ 귀 압박감, ⓶ 귀 통증, ⓷ 귀가 막힌, 물속에 있는 느낌, ⓸ 감기 또는 부비동염이 있을 때 귀의 문제, ⓹ 귀에서 “딱딱” 또는 “펑” 소리, ⓺ 귀 울림, ⓻ 잘 들리지 않음
-* 총점 >14.5점 시 이관기능부전 가능성 높음 (원저 기준 높은 진단 정확도; 이후 외부 검증 연구마다 차이 있으므로 임상 판단과 병용)
+* 총점 ＞14.5점 시 이관기능부전 가능성 높음 (원저 기준 높은 진단 정확도; 이후 외부 검증 연구마다 차이 있으므로 임상 판단과 병용)
 
 #### <mark style="color:$primary;">증상에 따른 감별 진단</mark>
 
@@ -112,7 +112,7 @@
 
 ### <mark style="color:orange;">원인</mark>
 
-* 체중 감소 : 급격한 감량(>2.5\~3 ㎏); 만성 질환·영양 결핍·다이어트
+* 체중 감소 : 급격한 감량(＞2.5\~3 ㎏); 만성 질환·영양 결핍·다이어트
 * 점막 위축·섬유화 : 알레르기, 후두인두역류(LPR)·만성 위식도역류 - 위산이 이관 입구 점막에 반복 접촉하여 만성 염증·섬유화·점막 위축을 유발, 개방증의 원인이 된다는 보고 증가; 방사선 치료 후 mucosal atrophy, mucosal scarring
 * 신경근육 이상 : 뇌졸중, multiple sclerosis, poliomyelitis 등 근위축
 * 호르몬 : estrogen↑(임신, 경구 피임제)
@@ -168,7 +168,7 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 **비강 스테로이드와 경구 코 울혈 제거제 처방 전 확인사항**
 
 * 비강 스테로이드 : ETD 자체의 직접 치료제가 아님. 알레르기비염·부비동염 등 동반 기저 원인이 확인된 경우에만 기저 질환 치료 목적으로 사용
-* 경구 코 울혈 제거제(pseudoephedrine 등) : 무작위 대조 연구에서 ETD에 대한 직접 효과가 일관되게 입증되지 않음. 고혈압·관상동맥질환·부정맥·전립선 비대증·불면·노인 환자에서 risk > benefit인 경우가 흔하므로 routine 처방을 지양하고 단기 증상 완화 trial로만 제한
+* 경구 코 울혈 제거제(pseudoephedrine 등) : 무작위 대조 연구에서 ETD에 대한 직접 효과가 일관되게 입증되지 않음. 고혈압·관상동맥질환·부정맥·전립선 비대증·불면·노인 환자에서 risk ＞ benefit인 경우가 흔하므로 routine 처방을 지양하고 단기 증상 완화 trial로만 제한
 {% endhint %}
 
 **Step 3.** 대상 - Step 2 반응 불충분 또는 삼출성 중이염 동반
@@ -196,7 +196,7 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 #### <mark style="color:$primary;">전신 약제</mark>
 
 * 경구 코 울혈 제거제 : ETD에 대한 직접 근거 불충분; 단기 증상 완화 목적의 제한적 trial만 고려
-  * 다음 환자에서는 benefit < risk이므로 가급적 회피 : 고혈압, 관상동맥질환, 부정맥, 전립선 비대증, 갑상선 기능항진증, 불면, 노인
+  * 다음 환자에서는 benefit ＜ risk이므로 가급적 회피 : 고혈압, 관상동맥질환, 부정맥, 전립선 비대증, 갑상선 기능항진증, 불면, 노인
   * pseudoephedrine <mark style="color:blue;">\[슈다페드]</mark> : 60 ㎎ 필요시(q4\~6h); 5\~7일 이내 단기 사용; 고혈압·전립선 비대증 시 주의
   * phenylephrine <mark style="color:blue;">\[코미 복합제]</mark> : 10 ㎎ 필요시(q4h)
 * 항생제 : 급성 중이염 등 감염 동반 시 (☞ [중이염](048_-otitis-media.md#undefined-16))
@@ -207,7 +207,7 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 
 * Tympanostomy tube : 중이 환기관 삽입; 삼출성 중이염·재발성 급성 중이염 시
 * Balloon Eustachian Tuboplasty (BET) : 이관 연골부를 풍선 카테터로 확장; 만성 폐쇄증에서 increasingly accepted option (기관별 시행 현황 차이가 있으며 아직 universally established standard는 아님); 2023 Cochrane review에서 증상 및 이관 기능 개선에 유의한 결과 보고; 국내 일부 기관 시행 (비급여)
-  * **BET 의뢰 적응증** : ⓵ 증상 ≥3개월 지속, ⓶ tympanometry type B 또는 C, ⓷ ETDQ-7 >14.5점, ⓸ Step 1\~2 치료 실패
+  * **BET 의뢰 적응증** : ⓵ 증상 ≥3개월 지속, ⓶ tympanometry type B 또는 C, ⓷ ETDQ-7 ＞14.5점, ⓸ Step 1\~2 치료 실패
   * **BET 금기** : 이관 개방증(PET) — 확장 시 증상 악화
   * **BET 한계** : 이관 연골부 자체의 dilatory dysfunction에만 효과적; 아데노이드 비대·비인두 종양·점막하 종괴 등 기계적 외부 폐쇄가 원인인 경우에는 효과 없으므로, 의뢰 전 기계적 원인을 반드시 배제
 * Eustachian tuboplasty : 레이저·미세수술로 이관 점막 성형

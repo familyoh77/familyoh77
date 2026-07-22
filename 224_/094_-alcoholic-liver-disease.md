@@ -61,7 +61,7 @@
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
-<table><thead><tr><th width="144.21051025390625">검사 항목</th><th width="256.84210205078125">알코올 간염 특징</th><th>비고</th></tr></thead><tbody><tr><td>AST</td><td>↑, 보통 &#x3C;300 IU/L</td><td>알코올에 의한 미토콘드리아 손상</td></tr><tr><td>AST/ALT 비</td><td>≥1.5~2가 특징적; ≥2이면 특이도 더 높음</td><td>알코올 간염에 시사적 (단독 진단 기준은 아님)</td></tr><tr><td>GGT</td><td>>100 U/L (음주의 민감한 지표; 단, 특이도 낮음)</td><td>비만·약물·담즙정체에서도 상승; 금주 시 2~3주 내 감소</td></tr><tr><td>ALP</td><td>↑ (통상 정상치 3배 미만)</td><td>담즙정체성 표현형에서는 더 뚜렷하게 상승 가능</td></tr><tr><td>총 빌리루빈</td><td>↑ (>3~5 ㎎/㎗; 중증 시 ≥10)</td><td></td></tr><tr><td>Albumin</td><td>↓ (&#x3C;3.0 g/㎗)</td><td>간 합성 기능 저하</td></tr><tr><td>INR</td><td>>1.5 (중증 시 더 연장)</td><td></td></tr><tr><td>WBC</td><td>↑ (>12,000; 중증 시 left shift)</td><td>감염과 감별 필요</td></tr><tr><td>빈혈, 혈소판 감소</td><td>흔함</td><td>엽산↓, 비장 비대</td></tr></tbody></table>
+<table><thead><tr><th width="144.21051025390625">검사 항목</th><th width="256.84210205078125">알코올 간염 특징</th><th>비고</th></tr></thead><tbody><tr><td>AST</td><td>↑, 보통 &#x3C;300 IU/L</td><td>알코올에 의한 미토콘드리아 손상</td></tr><tr><td>AST/ALT 비</td><td>≥1.5~2가 특징적; ≥2이면 특이도 더 높음</td><td>알코올 간염에 시사적 (단독 진단 기준은 아님)</td></tr><tr><td>GGT</td><td>＞100 U/L (음주의 민감한 지표; 단, 특이도 낮음)</td><td>비만·약물·담즙정체에서도 상승; 금주 시 2~3주 내 감소</td></tr><tr><td>ALP</td><td>↑ (통상 정상치 3배 미만)</td><td>담즙정체성 표현형에서는 더 뚜렷하게 상승 가능</td></tr><tr><td>총 빌리루빈</td><td>↑ (＞3~5 ㎎/㎗; 중증 시 ≥10)</td><td></td></tr><tr><td>Albumin</td><td>↓ (&#x3C;3.0 g/㎗)</td><td>간 합성 기능 저하</td></tr><tr><td>INR</td><td>＞1.5 (중증 시 더 연장)</td><td></td></tr><tr><td>WBC</td><td>↑ (＞12,000; 중증 시 left shift)</td><td>감염과 감별 필요</td></tr><tr><td>빈혈, 혈소판 감소</td><td>흔함</td><td>엽산↓, 비장 비대</td></tr></tbody></table>
 
 * 타 간질환 감별 : HBsAg, HBcAb, HA Ab(IgM), HCV Ab/RNA, ANA(항핵항체), α-fetoprotein
 * AST가 500 IU/L 이상이면 단순 알코올 간염보다 허혈성 간염·독성 간염·바이러스 간염을 우선 감별할 것
@@ -77,7 +77,7 @@
 
 * (혈청 기반 섬유화 지수)
 * $$\text{FIB-4} = \frac{\text{연령(세)} \times \text{AST(U/L)}}{\text{혈소판(10}^9\text{/L)} \times \sqrt{\text{ALT(U/L)}}}$$<br>
-* <1.30 = 진행성 섬유화 가능성 낮음; ≥2.67 = 진행성 섬유화 가능성 높음
+* ＜1.30 = 진행성 섬유화 가능성 낮음; ≥2.67 = 진행성 섬유화 가능성 높음
 * MetALD(MASLD + 음주 동반) 환자는 섬유화 진행이 빠르므로 FIB-4 선별을 더 적극적으로 시행
 * FIB-4 중간값(1.30\~2.67)에서는 추가 평가(탄성도 검사 또는 간 생검) 고려
 * 급성 알코올 간염 시기에는 FIB-4 사용 주의 : AST·ALT 급상승으로 FIB-4가 위양성으로 매우 높게 나올 수 있어 섬유화 평가 지표로 직접 사용하지 않음. 염증 호전 후(4\~8주 뒤) 재평가 권장
@@ -90,7 +90,7 @@
 * [MELD score](https://www.konos.go.kr/popup/meldPeldPop.do) (ACG 2024 우선 권고)
   * ≥20 = 중증; 25\~39 범위에서 corticosteroid 최대 이득; ≥50에서 steroid 신중 사용
 * [Lille score](https://www.mdcalc.com/calc/2024/lille-model-alcoholic-hepatitis) (steroid 반응 예측)
-  * 7일 투여 후 빌리루빈 변화를 바탕으로 계산; >0.45 = 비반응 → steroid 중단
+  * 7일 투여 후 빌리루빈 변화를 바탕으로 계산; ＞0.45 = 비반응 → steroid 중단
   * 4일째 중간 평가도 가능 (ACG 2024)
 * 간 생검 : 진단 불확실 또는 임상시험 선별 시 고려
 
@@ -146,7 +146,7 @@ style O fill:#fde8f0,stroke:#e91e8c
 알코올 간질환은 단일 표현형이 아닌 다양한 phenotype으로 나타난다. 입원 시 우세한 표현형을 파악하면 초기 처치 우선순위를 정하는 데 도움이 된다.
 {% endhint %}
 
-<table><thead><tr><th width="161.73681640625">표현형</th><th width="192.3157958984375">주요 임상 단서</th><th width="172.894775390625">특징적 Lab/소견</th><th>우선 처치 방향</th></tr></thead><tbody><tr><td>염증성 (Inflammatory)</td><td>발열, WBC ↑, 황달, CRP ↑</td><td>bilirubin↑↑, AST/ALT ≥2</td><td>감염 배제 후 steroid 고려</td></tr><tr><td>담즙정체성 (Cholestatic)</td><td>황달 두드러짐, 회복 지연</td><td>direct bilirubin↑↑, ALP/GGT↑</td><td>장기 추적, 담도 질환 감별</td></tr><tr><td>비대상성 간경변증</td><td>복수, 간성 뇌병증, 정맥류 출혈</td><td>albumin↓, INR↑, Na↓</td><td>합병증 치료 + 간이식 평가</td></tr><tr><td>금단 증상 우세</td><td>진전, 불안, 발한, 빈맥</td><td>CIWA-Ar 상승</td><td>benzodiazepine + thiamine 우선</td></tr><tr><td>영양불량/Sarcopenia</td><td>근육 감소, 체중 감소, 쇠약</td><td>albumin↓, zinc↓</td><td>고단백·고칼로리 영양 집중</td></tr><tr><td>감염 동반</td><td>발열, 저혈압, 복통</td><td>procalcitonin↑, lactate↑</td><td>감염 치료 우선, steroid 보류</td></tr><tr><td>간신증후군 (HRS)</td><td>핍뇨, creatinine 상승</td><td>Cr↑, Na↓</td><td>AKI/HRS 교정; albumin + terlipressin (또는 norepinephrine) 투여</td></tr><tr><td>Steroid 비반응 중증</td><td>Lille >0.45, 다장기 부전</td><td>MELD↑↑</td><td>조기 간이식 또는 완화 치료</td></tr></tbody></table>
+<table><thead><tr><th width="161.73681640625">표현형</th><th width="192.3157958984375">주요 임상 단서</th><th width="172.894775390625">특징적 Lab/소견</th><th>우선 처치 방향</th></tr></thead><tbody><tr><td>염증성 (Inflammatory)</td><td>발열, WBC ↑, 황달, CRP ↑</td><td>bilirubin↑↑, AST/ALT ≥2</td><td>감염 배제 후 steroid 고려</td></tr><tr><td>담즙정체성 (Cholestatic)</td><td>황달 두드러짐, 회복 지연</td><td>direct bilirubin↑↑, ALP/GGT↑</td><td>장기 추적, 담도 질환 감별</td></tr><tr><td>비대상성 간경변증</td><td>복수, 간성 뇌병증, 정맥류 출혈</td><td>albumin↓, INR↑, Na↓</td><td>합병증 치료 + 간이식 평가</td></tr><tr><td>금단 증상 우세</td><td>진전, 불안, 발한, 빈맥</td><td>CIWA-Ar 상승</td><td>benzodiazepine + thiamine 우선</td></tr><tr><td>영양불량/Sarcopenia</td><td>근육 감소, 체중 감소, 쇠약</td><td>albumin↓, zinc↓</td><td>고단백·고칼로리 영양 집중</td></tr><tr><td>감염 동반</td><td>발열, 저혈압, 복통</td><td>procalcitonin↑, lactate↑</td><td>감염 치료 우선, steroid 보류</td></tr><tr><td>간신증후군 (HRS)</td><td>핍뇨, creatinine 상승</td><td>Cr↑, Na↓</td><td>AKI/HRS 교정; albumin + terlipressin (또는 norepinephrine) 투여</td></tr><tr><td>Steroid 비반응 중증</td><td>Lille ＞0.45, 다장기 부전</td><td>MELD↑↑</td><td>조기 간이식 또는 완화 치료</td></tr></tbody></table>
 
 ### <mark style="color:orange;">기본 치료</mark>
 
@@ -154,7 +154,7 @@ style O fill:#fde8f0,stroke:#e91e8c
 * 입원 기준 : mDF ≥32, MELD ≥20, Glasgow Coma Scale ≤8, 간성 뇌병증, 수분 공급 불가
 * 알코올 사용 장애(AUD) 치료 통합 : 행동 치료(동기 강화 면담) + 약물 치료 병행; 금주 유지가 장기 예후 결정
   * naltrexone : 1차 선택제; 간독성 모니터링(ALT/AST) 병행 권장 - compensated cirrhosis에서는 신중 사용 가능하나, decompensated cirrhosis에서는 일반적으로 피하거나 매우 신중히 사용
-  * acamprosate : 신장 배설, 간 대사 부담 없음 - CrCl <30 mL/min 금기; CrCl 30\~50 mL/min에서는 감량 필요
+  * acamprosate : 신장 배설, 간 대사 부담 없음 - CrCl ＜30 mL/min 금기; CrCl 30\~50 mL/min에서는 감량 필요
   * baclofen : 신장 배설로 간 대사에 독립적 - 간경변증 환자의 음주 갈망 조절 대안으로 활용 가능; 일부 RCT에서 안전성 및 금주 유지 효과 보고 (국내 허가 외 사용, 처방 전 상의 필요)
 * 약물 주의
   * NSAIDs : 사용 금기에 준하여 강력 회피 - 신기능 저하·위장관 출혈·HRS 위험 증가
@@ -184,11 +184,11 @@ style O fill:#fde8f0,stroke:#e91e8c
 **Steroid 시작 전 Sepsis Screen 완결 필수** : 혈액배양 × 2세트 · 소변배양 · 흉부 X선 · 복수천자(SBP 배제) 시행 후 시작. 투여 중 격일 이상 감염 징후 모니터링
 {% endhint %}
 
-<table><thead><tr><th width="402.42108154296875">임상 상황</th><th align="center">Prednisolone</th></tr></thead><tbody><tr><td>Severe AH (mDF ≥32 또는 MELD ≥20) + 감염 없음</td><td align="center">✅ 권장</td></tr><tr><td>감염 치료 완료 후 안정화</td><td align="center">⚠️ 신중 가능</td></tr><tr><td>조절되지 않는 패혈증</td><td align="center">❌ 보류</td></tr><tr><td>활동성 GI 출혈</td><td align="center">❌ 지혈 후 재평가</td></tr><tr><td>AKI / HRS 동반</td><td align="center">⚠️ 위험-이득 평가</td></tr><tr><td>MELD 25\~39</td><td align="center">✅ 최대 이득</td></tr><tr><td>MELD >50</td><td align="center">⚠️ 매우 신중</td></tr><tr><td>Lille ≤0.45 (7일 반응)</td><td align="center">✅ 4주 유지</td></tr><tr><td>Lille >0.45 (비반응)</td><td align="center">❌ 중단, 간이식 평가</td></tr></tbody></table>
+<table><thead><tr><th width="402.42108154296875">임상 상황</th><th align="center">Prednisolone</th></tr></thead><tbody><tr><td>Severe AH (mDF ≥32 또는 MELD ≥20) + 감염 없음</td><td align="center">✅ 권장</td></tr><tr><td>감염 치료 완료 후 안정화</td><td align="center">⚠️ 신중 가능</td></tr><tr><td>조절되지 않는 패혈증</td><td align="center">❌ 보류</td></tr><tr><td>활동성 GI 출혈</td><td align="center">❌ 지혈 후 재평가</td></tr><tr><td>AKI / HRS 동반</td><td align="center">⚠️ 위험-이득 평가</td></tr><tr><td>MELD 25\~39</td><td align="center">✅ 최대 이득</td></tr><tr><td>MELD ＞50</td><td align="center">⚠️ 매우 신중</td></tr><tr><td>Lille ≤0.45 (7일 반응)</td><td align="center">✅ 4주 유지</td></tr><tr><td>Lille ＞0.45 (비반응)</td><td align="center">❌ 중단, 간이식 평가</td></tr></tbody></table>
 
 * prednisolone : 40 ㎎/d po × 4주, 이후 2주간 점진적 감량 <mark style="color:blue;">\[소론도]</mark>
 * methylprednisolone : 32 ㎎/d IV × 4주 (경구 불가 시) <mark style="color:blue;">\[메치론]</mark>
-* 반응 평가 : 7일째 (또는 4일째) Lille score 계산 → Lille >0.45 시 지속 이득 가능성이 낮아 **steroid 중단 권고**
+* 반응 평가 : 7일째 (또는 4일째) Lille score 계산 → Lille ＞0.45 시 지속 이득 가능성이 낮아 **steroid 중단 권고**
   * 비반응 환자는 감염 및 AKI 발생 위험이 특히 높음 - 조기 완화 치료 및 간이식 평가 병행
 
 ### <mark style="color:orange;">N-Acetylcysteine (중증, Steroid 병용)</mark>
@@ -211,7 +211,7 @@ style O fill:#fde8f0,stroke:#e91e8c
   * 가족/사회적 지지 체계 확인 - 조기 이식 성패를 좌우하는 핵심 요소
   * 재발 위험성 평가 (AUD 중증도, 이전 금주 시도, 사회적 안정성)
   * 이식 후 지속적 금주 지원 계획 수립
-* 이식 제외 기준 : Lille >0.45 + 4개 이상 장기 부전 동반 시 이식 대상에서 제외 (다장기 부전이 심할수록 이식 후 예후 불량) → 이 경우 완화 치료가 적절
+* 이식 제외 기준 : Lille ＞0.45 + 4개 이상 장기 부전 동반 시 이식 대상에서 제외 (다장기 부전이 심할수록 이식 후 예후 불량) → 이 경우 완화 치료가 적절
 
 ### <mark style="color:orange;">신규·연구 단계 치료</mark>
 
@@ -250,7 +250,7 @@ K70.4 알코올성 간부전
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 알코올 간염 (경증, mDF <32)**
+> **처방례 1. 알코올 간염 (경증, mDF ＜32)**
 >
 > ```
 > 티아민(Vitamin B1) 100 ㎎/T  1T qd (식후)

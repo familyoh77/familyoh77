@@ -117,7 +117,7 @@ graph TD
 
 * CBC with differential (세균·바이러스 감별, 백혈구 수·분획)
 * CRP, ESR (염증 정도 반영; CRP는 세균 감염에서 현저히 상승)
-* Procalcitonin (PCT) : CRP보다 세균 감염에 대한 특이도가 높음; 항생제 시작 및 중단 결정의 보조 지표로 활용 (< 0.25 ng/㎖: 세균 감염 가능성 낮음 / ≥ 0.5 ng/㎖: 세균 감염 시사); 단일 수치보다 경과 중 변화 추세(trend)가 항생제 중단 판단 등 임상적 의사 결정에 더 중요; 단, 신기능 저하(eGFR < 30), 중증 외상·화상 환자에서는 세균 감염 없이도 위양성(false positive)으로 상승할 수 있으므로 임상 소견과 종합하여 해석
+* Procalcitonin (PCT) : CRP보다 세균 감염에 대한 특이도가 높음; 항생제 시작 및 중단 결정의 보조 지표로 활용 (＜ 0.25 ng/㎖: 세균 감염 가능성 낮음 / ≥ 0.5 ng/㎖: 세균 감염 시사); 단일 수치보다 경과 중 변화 추세(trend)가 항생제 중단 판단 등 임상적 의사 결정에 더 중요; 단, 신기능 저하(eGFR ＜ 30), 중증 외상·화상 환자에서는 세균 감염 없이도 위양성(false positive)으로 상승할 수 있으므로 임상 소견과 종합하여 해석
 * 혈당, BUN/Cr, 전해질 (대사 이상·탈수 평가)
 * LFT (간염, 패혈증 관련 간기능 저하 확인)
 
@@ -152,7 +152,7 @@ graph TD
 
 ## <mark style="color:green;">불명열 (Fever of Unknown Origin)</mark>
 
-<table><thead><tr><th width="94.631591796875"></th><th>고전적 불명열 (Classic)</th><th>병원성 불명열 (Nosocomial; Healthcare-associated)</th></tr></thead><tbody><tr><td><strong>정의</strong></td><td>체온 ≥38.3℃, 기간 ≥3주, ≥3회 외래 방문 또는 입원 3일 후에도 원인 불명</td><td>체온 ≥38.3℃, 기간 >3일, 입원 당시 발열 상태 또는 당시 잠복기 아님</td></tr><tr><td><strong>환자 위치</strong></td><td>지역 사회, 병원</td><td>급성 질환을 다루는 병원</td></tr><tr><td><strong>흔한 원인</strong></td><td>감염, 염증, 악성 종양, 인위적/습관성 고열(factitious fever)</td><td>원내 감염, 수술 후 합병증, drug fever</td></tr><tr><td><strong>병력</strong></td><td>여행, 접촉, 동물/벌레 노출, 약물, 예방접종, 가족력, 심장 판막 이상</td><td>수술, 시술, 장치 삽입, 해부학적 이상, 약물</td></tr></tbody></table>
+<table><thead><tr><th width="94.631591796875"></th><th>고전적 불명열 (Classic)</th><th>병원성 불명열 (Nosocomial; Healthcare-associated)</th></tr></thead><tbody><tr><td><strong>정의</strong></td><td>체온 ≥38.3℃, 기간 ≥3주, ≥3회 외래 방문 또는 입원 3일 후에도 원인 불명</td><td>체온 ≥38.3℃, 기간 ＞3일, 입원 당시 발열 상태 또는 당시 잠복기 아님</td></tr><tr><td><strong>환자 위치</strong></td><td>지역 사회, 병원</td><td>급성 질환을 다루는 병원</td></tr><tr><td><strong>흔한 원인</strong></td><td>감염, 염증, 악성 종양, 인위적/습관성 고열(factitious fever)</td><td>원내 감염, 수술 후 합병증, drug fever</td></tr><tr><td><strong>병력</strong></td><td>여행, 접촉, 동물/벌레 노출, 약물, 예방접종, 가족력, 심장 판막 이상</td><td>수술, 시술, 장치 삽입, 해부학적 이상, 약물</td></tr></tbody></table>
 
 ※ **고전적 불명열의 진단 기준 변화** : 전통적 정의(Petersdorf & Beeson, 1961)는 '≥3주, ≥3회 외래 또는 입원 3일 후 원인 불명'이나, 진단 기술의 발달(CT, PET-CT, 차세대 염기서열 분석 등)로 인해 최근에는 1주간의 집중 입원 검사 후에도 원인 불명인 경우를 대안적 기준으로 제시하는 경향이 있음. 임상에서는 전통적 3주 기준에 구애받지 않고 조기에 정밀 검사(영상, 배양, 자가면역 패널 등)를 적극 고려하는 것이 현실적임.
 

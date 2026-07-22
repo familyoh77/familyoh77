@@ -110,8 +110,8 @@
 * SpO₂, 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel
 * BNP 또는 NT-proBNP : 심부전 의심 시 시행
   * NT-proBNP 해석 기준 (ESC 2021)
-    * Acute setting (응급·입원) : : <300 pg/㎖ → 심부전 배제 가능; 심부전 강력 시사 : >450 pg/㎖ (＜50세), >900 pg/㎖ (50\~75세), >1,800 pg/㎖ (＞75세)
-    * Non-acute setting (외래·만성) : NT-proBNP <125 pg/㎖ 또는 BNP <35 pg/㎖ → 심부전 배제 가능; 외래 환자에서는 이 낮은 기준치를 적용해야 과소 진단을 방지할 수 있음
+    * Acute setting (응급·입원) : : ＜300 pg/㎖ → 심부전 배제 가능; 심부전 강력 시사 : ＞450 pg/㎖ (＜50세), ＞900 pg/㎖ (50\~75세), ＞1,800 pg/㎖ (＞75세)
+    * Non-acute setting (외래·만성) : NT-proBNP ＜125 pg/㎖ 또는 BNP ＜35 pg/㎖ → 심부전 배제 가능; 외래 환자에서는 이 낮은 기준치를 적용해야 과소 진단을 방지할 수 있음
   * BNP 해석 주의 : 비만 환자에서는 지방 조직의 BNP 분해 증가로 수치가 실제보다 낮게 측정될 수 있으므로(BNP deficiency) 심부전을 과소평가하지 않도록 주의; 반대로 고령·신부전·패혈증 환자에서는 기저치가 높아 위양성 가능성이 있음
 * D-dimer : 폐색전증 저위험군에서 배제 목적으로 시행; PERC rule 음성(저위험군) 시 D-dimer 없이 PE 배제 가능 (☞ [PE 배제](002_-chest-pain.md#perc-rule-for-pulmonary-embolism-pe))
   * 위양성 주의 : 고령·암·임신부에서 기저 D-dimer가 높아 위양성이 많음; 50세 이상에서는 연령 보정 D-dimer (age × 10 ㎍/L)를 기준치로 적용하여 불필요한 CTPA를 줄일 수 있음 ([MDCalc Age-adjusted D-dimer](https://www.mdcalc.com/calc/10138/age-adjusted-d-dimer))

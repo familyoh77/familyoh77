@@ -136,7 +136,7 @@
 
 <p align="center"><em><mark style="color:$info;">Ref. Fay M, Wolff A. Management of palpitations in primary care guideline. NICE 2018.</mark></em></p>
 
-※ HR>160은 vagal maneuver 후 지속 빈맥의 입원 기준이며, 일반 triage에서는 HR>150을 응급 기준으로 적용한다.
+※ HR＞160은 vagal maneuver 후 지속 빈맥의 입원 기준이며, 일반 triage에서는 HR＞150을 응급 기준으로 적용한다.
 
 ***
 

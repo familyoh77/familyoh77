@@ -180,14 +180,14 @@ graph TD
 * 주의 : 고령자·인지저하·신기능 저하 환자에서 용량 주의 (sedation, 섬망 위험)
 * baclofen : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark> ← 난치성 딸꾹질에서 근거가 가장 많음
   * 고령자·신기능 저하 환자 : 5 ㎎ qd 또는 bid로 낮게 시작하여 3\~5일 간격으로 점진적 증량(titration); 급격한 증량 시 의식 저하·혼수 위험
-  * 신장으로 배설되므로 eGFR <30 시 용량 감량 또는 회피; 일반 용량 투여 시 의식 저하·혼수 등 중증 부작용 발생 가능
+  * 신장으로 배설되므로 eGFR ＜30 시 용량 감량 또는 회피; 일반 용량 투여 시 의식 저하·혼수 등 중증 부작용 발생 가능
 * cyclobenzaprine : 15\~30 ㎎ qd 서방형 <mark style="color:blue;">\[본렉스 이알]</mark>
 
 #### <mark style="color:$primary;">항경련제</mark>
 
 * 1차 대안, 특히 신경인성 원인
 * gabapentin : 300 ㎎ hs → 300\~400 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>; 장기 사용 시 misuse 가능성 및 중단 시 반동 증상(반동성 불안, 불면, 통증) 주의
-  * eGFR <30 시 저용량(100\~300 ㎎)으로 시작
+  * eGFR ＜30 시 저용량(100\~300 ㎎)으로 시작
 * carbamazepine : 200 ㎎ tid\~qid <mark style="color:blue;">\[테그레톨]</mark>
 * phenytoin : 200\~300 ㎎ hs <mark style="color:blue;">\[히단토인]</mark>
 
@@ -206,7 +206,7 @@ graph TD
 
 #### <mark style="color:$primary;">위장 운동 촉진제</mark>
 
-* metoclopramide : 5\~10 ㎎ tid\~qid <mark style="color:blue;">\[맥페란]</mark>; 장기 사용 시 지연성 운동이상증(tardive dyskinesia) 위험 - 원칙적으로 12주 이하 사용; 항정신병제(chlorpromazine, haloperidol 등)와 병용 시 추체외로 증상(EPS) 위험 증가 - 병용 시 모니터링 필수; 고령자에서는 EPS 및 섬망 위험이 높아 가능한 단기간 사용 원칙; 신장으로 배설되므로 CrCl < 40 ㎖/min 시 용량 50% 감량
+* metoclopramide : 5\~10 ㎎ tid\~qid <mark style="color:blue;">\[맥페란]</mark>; 장기 사용 시 지연성 운동이상증(tardive dyskinesia) 위험 - 원칙적으로 12주 이하 사용; 항정신병제(chlorpromazine, haloperidol 등)와 병용 시 추체외로 증상(EPS) 위험 증가 - 병용 시 모니터링 필수; 고령자에서는 EPS 및 섬망 위험이 높아 가능한 단기간 사용 원칙; 신장으로 배설되므로 CrCl ＜ 40 ㎖/min 시 용량 50% 감량
 * domperidone : 10\~20 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark>
 
 #### <mark style="color:$primary;">PPI, 제산제</mark>

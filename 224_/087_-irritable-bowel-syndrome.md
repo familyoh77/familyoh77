@@ -110,10 +110,10 @@
 * Fecal calprotectin : IBD vs IBS 감별을 위한 비침습적 1차 triage 검사
   * calprotectin : neutrophil에서 분비되는 단백질. 염증이 있을 때 장 점막으로 유출되어 대변에 존재하게 됨. 대변에서의 농도는 염증 정도를 반영
 
-<table><thead><tr><th width="152">Calprotectin 수치</th><th>해석 및 처치</th></tr></thead><tbody><tr><td>&#x3C;50 μg/g</td><td>IBD 가능성 낮음; 임상 상황에 따라 추가검사 없이 관찰 가능</td></tr><tr><td>50~150 μg/g</td><td>IBD 배제 불충분; 2~4주 후 재검 또는 임상 상황에 따라 대장내시경 고려</td></tr><tr><td>>150 μg/g</td><td>IBD 강력 의심; 대장내시경 시행</td></tr></tbody></table>
+<table><thead><tr><th width="152">Calprotectin 수치</th><th>해석 및 처치</th></tr></thead><tbody><tr><td>&#x3C;50 μg/g</td><td>IBD 가능성 낮음; 임상 상황에 따라 추가검사 없이 관찰 가능</td></tr><tr><td>50~150 μg/g</td><td>IBD 배제 불충분; 2~4주 후 재검 또는 임상 상황에 따라 대장내시경 고려</td></tr><tr><td>＞150 μg/g</td><td>IBD 강력 의심; 대장내시경 시행</td></tr></tbody></table>
 
 * 대장내시경 : 연령별 국가 대장암 선별 권고에 따라 시행 고려 (한국 국가암검진: 만 50세부터 분변잠혈검사, 이상 시 대장내시경), 경고 징후 있거나 IBD 의심 시 시행.
-  * 변비 우세형이 아닌 IBS 환자에서 대장암은 관찰되지 않고 <2%에서 IBD가 발견된다는 보고
+  * 변비 우세형이 아닌 IBS 환자에서 대장암은 관찰되지 않고 ＜2%에서 IBD가 발견된다는 보고
 * GI 기능 평가 (선택적 시행)
   * 변비 : colon transit time, anorectal manometry, balloon expulsion test
   * 설사 : 대변 배양, serial colonic biopsy, 48-h fecal bile acid excretion, serum 7α-C4 (BAD 선별; FGF19와 함께 활용 증가), fecal calprotectin/lactoferrin, lactose/glucose breath test (SIBO)
@@ -122,7 +122,7 @@
 
 #### <mark style="color:$primary;">IBS vs IBD vs 대장암 감별</mark>
 
-<table><thead><tr><th width="165">감별 특징</th><th width="146" align="center">IBS</th><th width="146" align="center">IBD</th><th width="89" align="center">대장암</th></tr></thead><tbody><tr><td>야간 증상</td><td align="center">드묾</td><td align="center">흔함</td><td align="center">가능</td></tr><tr><td>체중 감소</td><td align="center">드묾</td><td align="center">흔함</td><td align="center">흔함</td></tr><tr><td>혈변</td><td align="center">없음</td><td align="center">흔함</td><td align="center">가능</td></tr><tr><td>CRP / ESR</td><td align="center">정상</td><td align="center">상승</td><td align="center">다양</td></tr><tr><td>Fecal calprotectin</td><td align="center">정상 (&#x3C;50 ㎍/g)</td><td align="center">상승 (>150 ㎍/g)</td><td align="center">다양</td></tr><tr><td>배변 후 통증</td><td align="center">호전</td><td align="center">다양</td><td align="center">다양</td></tr></tbody></table>
+<table><thead><tr><th width="165">감별 특징</th><th width="146" align="center">IBS</th><th width="146" align="center">IBD</th><th width="89" align="center">대장암</th></tr></thead><tbody><tr><td>야간 증상</td><td align="center">드묾</td><td align="center">흔함</td><td align="center">가능</td></tr><tr><td>체중 감소</td><td align="center">드묾</td><td align="center">흔함</td><td align="center">흔함</td></tr><tr><td>혈변</td><td align="center">없음</td><td align="center">흔함</td><td align="center">가능</td></tr><tr><td>CRP / ESR</td><td align="center">정상</td><td align="center">상승</td><td align="center">다양</td></tr><tr><td>Fecal calprotectin</td><td align="center">정상 (&#x3C;50 ㎍/g)</td><td align="center">상승 (＞150 ㎍/g)</td><td align="center">다양</td></tr><tr><td>배변 후 통증</td><td align="center">호전</td><td align="center">다양</td><td align="center">다양</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">기타 감별 질환</mark>
 

@@ -76,7 +76,7 @@
 
 ### <mark style="color:orange;">전방 vs 후방 출혈 감별</mark>
 
-<table data-header-hidden><thead><tr><th width="142"></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><strong>전방 출혈 (Anterior)</strong></td><td><strong>후방 출혈 (Posterior)</strong></td></tr><tr><td>출혈 부위</td><td>Kiesselbach's plexus</td><td>Woodruff's plexus</td></tr><tr><td>빈도</td><td>90~95%</td><td>5~10%</td></tr><tr><td>연령</td><td>소아·청소년</td><td>고령(>50세)</td></tr><tr><td>출혈 방향</td><td>전방(콧구멍으로)</td><td>후방(인후로 넘어감)</td></tr><tr><td>검사 소견</td><td>전방 비경으로 출혈점 확인 가능</td><td>비경 검사에서 출혈점 보이지 않고 인후로 혈액 지속 유입</td></tr><tr><td>혈역학적 영향</td><td>경미</td><td>다량, 흡인 위험</td></tr><tr><td>처치</td><td>압박·소작·전방 패킹</td><td>후방 패킹, 즉시 의뢰</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="142"></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><strong>전방 출혈 (Anterior)</strong></td><td><strong>후방 출혈 (Posterior)</strong></td></tr><tr><td>출혈 부위</td><td>Kiesselbach's plexus</td><td>Woodruff's plexus</td></tr><tr><td>빈도</td><td>90~95%</td><td>5~10%</td></tr><tr><td>연령</td><td>소아·청소년</td><td>고령(＞50세)</td></tr><tr><td>출혈 방향</td><td>전방(콧구멍으로)</td><td>후방(인후로 넘어감)</td></tr><tr><td>검사 소견</td><td>전방 비경으로 출혈점 확인 가능</td><td>비경 검사에서 출혈점 보이지 않고 인후로 혈액 지속 유입</td></tr><tr><td>혈역학적 영향</td><td>경미</td><td>다량, 흡인 위험</td></tr><tr><td>처치</td><td>압박·소작·전방 패킹</td><td>후방 패킹, 즉시 의뢰</td></tr></tbody></table>
 
 ※ **후방 출혈** : 실제 출혈량 과소 평가 주의; 후방 출혈은 겉으로 보이는 출혈보다 실제 출혈량이 훨씬 많을 수 있음. 혈액이 목 뒤로 넘어가 반복적으로 삼키게 되며, 반복적 혈액 삼킴·구역·구토·흑색변으로 발현될 수 있음. 고령·항응고제 복용자·흡인 위험 환자에서 특히 주의
 
@@ -216,7 +216,7 @@ graph TD
 
 ### <mark style="color:orange;">기저 원인별 관리</mark>
 
-<table><thead><tr><th width="228">원인</th><th>관리 방법</th></tr></thead><tbody><tr><td>항혈소판제 (aspirin, clopidogrel, NSAID)</td><td>가능 시 중단 (영향 최대 7~10일 지속); 필요 시 혈소판 수혈; ✽관상동맥 스텐트 삽입·ACS 후 이중 항혈소판 요법 중인 환자에서는 임의 중단 시 치명적 스텐트 혈전증이 발생할 수 있다 - 이 경우 투약을 유지하면서 국소 지혈에 집중하고 처방의와 반드시 협의한다</td></tr><tr><td>고혈압</td><td>지혈 처치와 병행하여 혈압 조절; SBP ≥160 mmHg가 지혈 후에도 지속되면 재출혈 위험이 높으므로 단기 강압 조치를 고려한다 - 단, 급성 코피 상황에서 혈압 상승은 스트레스 반응인 경우가 많아 지혈 후 자연 하강을 먼저 확인한다</td></tr><tr><td>항응고제 - warfarin</td><td>중단 + INR 확인; INR 현저 상승(특히 >4~5) + 출혈 지속 시 Vit K(경구/IV) 투여 고려; 경증 출혈에서 INR 3~5는 Vit K 없이 관찰 가능; 다량 출혈·혈역학 불안정 시 FFP 또는 4-factor PCC 고려</td></tr><tr><td>항응고제 - NOAC</td><td>투약 중단 후 신속 상급병원 전원이 일차 의원 원칙; reversal agent(idarucizumab, andexanet alfa)는 상급병원 응급실에서 평가; 재개는 지혈 확인 후 24~72시간(혈전 위험도에 따라 처방의 협의)</td></tr><tr><td>혈소판 감소증</td><td>활동성 출혈 지속 또는 시술이 필요한 경우, 혈소판 &#x3C;50,000/μL에서 혈소판 수혈 고려</td></tr><tr><td>Von Willebrand disease</td><td>desmopressin(DDAVP) 투여; factor VIII replacement 고려</td></tr><tr><td>혈우병</td><td>해당 factor replacement</td></tr><tr><td>간경변증</td><td>PT/INR 모니터링; FFP 투여 고려</td></tr><tr><td>신부전·요독증</td><td>desmopressin 투여; 혈액 투석 고려</td></tr><tr><td>허브·보완제 (생강·은행·인삼)</td><td>투여 중단</td></tr></tbody></table>
+<table><thead><tr><th width="228">원인</th><th>관리 방법</th></tr></thead><tbody><tr><td>항혈소판제 (aspirin, clopidogrel, NSAID)</td><td>가능 시 중단 (영향 최대 7~10일 지속); 필요 시 혈소판 수혈; ✽관상동맥 스텐트 삽입·ACS 후 이중 항혈소판 요법 중인 환자에서는 임의 중단 시 치명적 스텐트 혈전증이 발생할 수 있다 - 이 경우 투약을 유지하면서 국소 지혈에 집중하고 처방의와 반드시 협의한다</td></tr><tr><td>고혈압</td><td>지혈 처치와 병행하여 혈압 조절; SBP ≥160 mmHg가 지혈 후에도 지속되면 재출혈 위험이 높으므로 단기 강압 조치를 고려한다 - 단, 급성 코피 상황에서 혈압 상승은 스트레스 반응인 경우가 많아 지혈 후 자연 하강을 먼저 확인한다</td></tr><tr><td>항응고제 - warfarin</td><td>중단 + INR 확인; INR 현저 상승(특히 ＞4~5) + 출혈 지속 시 Vit K(경구/IV) 투여 고려; 경증 출혈에서 INR 3~5는 Vit K 없이 관찰 가능; 다량 출혈·혈역학 불안정 시 FFP 또는 4-factor PCC 고려</td></tr><tr><td>항응고제 - NOAC</td><td>투약 중단 후 신속 상급병원 전원이 일차 의원 원칙; reversal agent(idarucizumab, andexanet alfa)는 상급병원 응급실에서 평가; 재개는 지혈 확인 후 24~72시간(혈전 위험도에 따라 처방의 협의)</td></tr><tr><td>혈소판 감소증</td><td>활동성 출혈 지속 또는 시술이 필요한 경우, 혈소판 &#x3C;50,000/μL에서 혈소판 수혈 고려</td></tr><tr><td>Von Willebrand disease</td><td>desmopressin(DDAVP) 투여; factor VIII replacement 고려</td></tr><tr><td>혈우병</td><td>해당 factor replacement</td></tr><tr><td>간경변증</td><td>PT/INR 모니터링; FFP 투여 고려</td></tr><tr><td>신부전·요독증</td><td>desmopressin 투여; 혈액 투석 고려</td></tr><tr><td>허브·보완제 (생강·은행·인삼)</td><td>투여 중단</td></tr></tbody></table>
 
 ***
 
@@ -279,7 +279,7 @@ R04.0 코피
 > 비타민 K1 (피토나디온) 10 ㎎/㎖ 주사액   1앰플   경구 복용 (오프라벨)
 > ```
 >
-> _✽경증 epistaxis에서 INR 3\~5는 반드시 Vit K 투여가 필요한 것은 아니며 관찰 가능; INR 현저 상승(>4\~5) + 출혈 지속 시 투여를 고려한다. 국내에서 경구용 Vit K1 정제(phytonadione)는 처방이 어려운 경우가 많음 — 주사액(10 ㎎/㎖)을 경구로 복용시키는 오프라벨 방식이 현실적으로 사용됨; **흡수율을 높이기 위해 식후 또는 오렌지 주스·우유 등 지방 함유 음료와 함께 복용**하도록 안내한다(지용성 비타민). INR >5.0 또는 출혈 다량 시 즉시 응급 의뢰. Vit K 투여 후 24시간에 INR 재확인. NOAC 복용자는 Vit K 효과 없음 — 상급병원 전원_
+> _✽경증 epistaxis에서 INR 3\~5는 반드시 Vit K 투여가 필요한 것은 아니며 관찰 가능; INR 현저 상승(＞4\~5) + 출혈 지속 시 투여를 고려한다. 국내에서 경구용 Vit K1 정제(phytonadione)는 처방이 어려운 경우가 많음 — 주사액(10 ㎎/㎖)을 경구로 복용시키는 오프라벨 방식이 현실적으로 사용됨; **흡수율을 높이기 위해 식후 또는 오렌지 주스·우유 등 지방 함유 음료와 함께 복용**하도록 안내한다(지용성 비타민). INR ＞5.0 또는 출혈 다량 시 즉시 응급 의뢰. Vit K 투여 후 24시간에 INR 재확인. NOAC 복용자는 Vit K 효과 없음 — 상급병원 전원_
 
 ***
 

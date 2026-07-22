@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 정의 : 배변 횟수 ≥3회/일 또는 대변량 >200 g/일(성인 기준)의 액상·무른 변이 ≤14일 지속
+* 정의 : 배변 횟수 ≥3회/일 또는 대변량 ＞200 g/일(성인 기준)의 액상·무른 변이 ≤14일 지속
   * 횟수보다 대변 형태(묽기)가 더 중요; 단단한 성형변(formed stool)의 단순 빈도 증가는 설사로 정의하지 않음
   * 전통적으로 ≤14일을 급성 설사로 정의하나, 최근 일부 문헌에서는 14\~30일을 prolonged/persistent diarrhea로 별도 분류하기도 함
 * 부위와 대변량 : 소장 병변 → 대량, 수양성 설사; 대장 병변 → 소량, 혈액, 점액 혼재
@@ -66,7 +66,7 @@
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 2\~3일 후에도 호전되지 않는 경증 설사
-* 고령(>65세), 만성 기저질환 (당뇨·심부전·만성 신질환 CKD - 탈수 시 AKI 위험 높음)
+* 고령(＞65세), 만성 기저질환 (당뇨·심부전·만성 신질환 CKD - 탈수 시 AKI 위험 높음)
 * 최근 항생제 사용력 (CDI 위험 모니터링)
 * 설명할 수 없는 체중 감소
 * 만성 설사(≥4주)로 진행 (☞ [만성 설사](084_-chronic-diarrhea.md))
@@ -77,7 +77,7 @@
 ### <mark style="color:orange;">탈수 평가</mark>
 
 * 경증 : 갈증, 구강 건조, 겨드랑이 땀 감소, 소변량 감소, 약간의 체중 감소
-* 중등증 : 기립성 저혈압, 피부 장력 저하 (피부 텐트 현상), 함몰 안구, 모세혈관 재충혈 시간(CRT) >2초
+* 중등증 : 기립성 저혈압, 피부 장력 저하 (피부 텐트 현상), 함몰 안구, 모세혈관 재충혈 시간(CRT) ＞2초
 * 중증 : 처짐, 둔한 반응, 약한 맥박, 저혈압, 말초 청색증, 쇼크
 
 #### <mark style="color:$primary;">임상 탈수 척도 (Clinical Dehydration Scale, CDS)</mark>
@@ -91,7 +91,7 @@
 
 * 경증 탈수, 급성 분비성 설사 : 검사 결과 대부분 정상; 별도 검사 불필요
   * 단, 고령이나 만성 신질환(CKD)·당뇨 등 기저질환자에서는 경증이라도 기본 혈액 검사 고려
-* 중등증 이상 탈수 또는 >7일 지속 : 혈당, 전해질, BUN/Cr, U/A
+* 중등증 이상 탈수 또는 ＞7일 지속 : 혈당, 전해질, BUN/Cr, U/A
 * 경고 징후 (혈변·고열·전신 독성) : 대변 배양 검사, CBC, CRP 고려
   * CDI 의심 시 → 대변 _C. difficile_ 독소 검사 + NAAT(PCR); 단, 설사가 있는 환자에서만 시행(formal stool은 검사 대상 아님 ); NAAT 단독 양성 시 임상 증상과 함께 해석
 
@@ -275,7 +275,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
 * 육류·가금류 조리 내부 온도 : 갈은 쇠고기 71℃, 닭 77℃; 돼지(통살·스테이크) 63℃(3분 이상 유지), 갈은 돼지고기 71℃(유지 불필요)
 * 생선회 등 날생선 섭취 주의 (냉동으로 일부 균 사멸 가능)
 * 계란은 노른자가 굳을 때까지 완전히 익힘
-* 조리된 음식을 실온에 2시간 이상 (실온 >32℃인 경우 1시간 이상) 방치 금지
+* 조리된 음식을 실온에 2시간 이상 (실온 ＞32℃인 경우 1시간 이상) 방치 금지
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -314,7 +314,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
 ### <mark style="color:orange;">분비 억제제</mark>
 
 * racecadotril : enkephalinase 억제 → 장 점막 과분비 억제; 장 운동에는 영향 없음 (loperamide와 달리 마비성 장폐색·복부 팽만 위험 없음)
-  * 용법 : 1.5 ㎎/㎏ tid <mark style="color:blue;">\[하이드라섹]</mark> (국내 소아 <12세 정규 허가)
+  * 용법 : 1.5 ㎎/㎏ tid <mark style="color:blue;">\[하이드라섹]</mark> (국내 소아 ＜12세 정규 허가)
   * 성인 급성 수양성 설사에서 일부 연구 효과 보고 있으나, 국내에서 성인 사용은 적응외(off-label) 임을 고지 필요
 
 {% hint style="info" %}
@@ -348,7 +348,7 @@ _<mark style="color:$info;">Ref. Diagnosis and management of dehydration in chil
 * 용법 : 표준화된 용량·치료법 없음
   * _S. boulardii_ : ≥7일 또는 설사 소실 시까지; <mark style="color:blue;">\[비오플]</mark> 500 ㎎/일
   * _L. rhamnosus_ GG : ≥7일; <mark style="color:blue;">\[람노스]</mark> 1일 1\~4캡슐
-* [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0032) : <6세 급성 감염성 설사 또는 항생제 연관 설사, 괴사성 장염
+* [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0032) : ＜6세 급성 감염성 설사 또는 항생제 연관 설사, 괴사성 장염
 
 #### <mark style="color:$primary;">아연</mark>
 
@@ -376,7 +376,7 @@ E86 용적 고갈
 > 람노스 250 ㎎/C　　3C  #3  (보험 주의)
 > ```
 >
-> _✽장경련·복통을 동반한 경증 설사의 기본 처방. smectite(스타빅)는 독소·바이러스 흡착 효과. 람노스는 보험기준(<6세) 외 적용 시 비급여._
+> _✽장경련·복통을 동반한 경증 설사의 기본 처방. smectite(스타빅)는 독소·바이러스 흡착 효과. 람노스는 보험기준(＜6세) 외 적용 시 비급여._
 
 > **처방례 2. 경증\~중등증 급성 설사 (성인, 혈변·발열 없는 수양성 설사)**
 >
