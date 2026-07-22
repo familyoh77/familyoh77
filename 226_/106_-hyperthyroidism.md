@@ -464,25 +464,24 @@ classDef blue fill:#d0e8ff,stroke:#1a6abf
 
 ## ■ 무증상 갑상선항진증 (Subclinical Hyperthyroidism)
 
+
+
 * TSH는 저하되어 있으나 T3 및 free T4는 정상으로, 갑상선 호르몬 관련 증상이 발생하지 않은 상태
-* 원인 : TMNG, Graves' disease, solitary autonomously functioning nodule, thyroiditis, central hypothyroidism, non-thyroidal illness, 고령, 임신, 간질환, 약물(예: steroid) - estrogen은 TBG 증가로 총 T4를 높일 뿐 subclinical hyperthyroidism의 원인은 아님
+* 원인 : TMNG, Graves' disease, solitary autonomously functioning nodule, thyroiditis, central hypothyroidism, non-thyroidal illness, 고령, 임신, 간질환, 약물(예: steroid)&#x20;
+  * [ ] estrogen은 TBG 증가로 총 T4를 높일 뿐 subclinical hyperthyroidism의 원인은 아님
 * 증가되어 있는 T3·T4의 대부분은 단백질(예: thyroxine-binding globulin)에 결합되어 있고, 실제 임상 증상을 일으키는 free form은 정상임
-* 선별 검사 : 권고하지 않음 - 무증상 환자에 대한 선별 검사 및 치료가 예후를 향상시킨다는 근거가 없음
+* 선별 검사 : 권고하지 않음 (✽ 무증상 환자에 대한 선별 검사 및 치료가 예후를 향상시킨다는 근거가 없음)
 
 #### <mark style="color:$primary;">치료</mark>
 
 * 대부분의 환자는 치료가 필요 없으며 2년 내 자연 회복됨
-* 치료 근거 : 미치료 시 심방세동 위험 증가(특히 TSH ＜0.1 mIU/L에서 뚜렷) 및 골밀도 감소·골절 위험 증가와 연관되므로, 아래 표의 위험군에서는 치료를 고려 \[ATA 2016]
+* 치료 대상 : 아래 표의 위험군에서는 치료를 고려&#x20;
+  * [ ] 미치료 시 심방세동 위험 증가(특히 TSH ＜0.1 mIU/L에서 뚜렷) 및 골밀도 감소·골절 위험 증가 연관
 
-| **Factor**                        | **TSH < 0.1 mIU/L** | **TSH 0.1\\\~0.4**¹⁾²⁾ **mIU/L** |
-| --------------------------------- | ------------------- | -------------------------------- |
-| <65세, 동반 질환 없는 무증상                | 치료 고려               | 관찰                               |
-| <65세, 폐경²⁾·골다공증·심장 질환 또는 위험 인자 있음 | 치료                  | 치료 고려                            |
-| <65세, 갑상선 항진 증상 있음                | 치료                  | 치료 고려                            |
-| ≥65세                              | 치료                  | 치료 고려                            |
+<table data-header-hidden><thead><tr><th width="393.76202392578125"></th><th width="137"></th><th></th></tr></thead><tbody><tr><td><strong>Factor</strong></td><td><strong>TSH &#x3C; 0.1</strong> </td><td><strong>TSH 0.1~0.4</strong>¹⁾²⁾</td></tr><tr><td>&#x3C;65세, 동반 질환 없는 무증상</td><td>치료 고려</td><td>관찰</td></tr><tr><td>&#x3C;65세, 폐경²⁾·골다공증·심장 질환 또는 위험 인자(+)</td><td>치료</td><td>치료 고려</td></tr><tr><td>&#x3C;65세, 갑상선 항진 증상(+)</td><td>치료</td><td>치료 고려</td></tr><tr><td>≥65세</td><td>치료</td><td>치료 고려</td></tr></tbody></table>
 
-¹⁾ 정상 하한값이 0.5 mIU/L인 경우 0.4 mIU/L를 기준으로 함\
-²⁾ Estrogen 또는 bisphosphonate 치료를 하지 않는 폐경 여성
+_¹⁾ 정상 하한값이 0.5 mIU/L인 경우 0.4 mIU/L를 기준으로 함_\
+_²⁾ Estrogen 또는 bisphosphonate 치료를 하지 않는 폐경 여성_
 
 <p align="center"><em><mark style="color:$info;">Ref. American Thyroid Association. Guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. 2016.</mark></em></p>
 

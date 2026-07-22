@@ -11,7 +11,7 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* **원발성 갑상선저하증 (Primary hypothyroidism)**&#x20;
+* **원발성 갑상선저하증 (Primary hypothyroidism)**
   * chronic autoimmune thyroiditis (Hashimoto thyroiditis) - 가장 흔함
   * 의인성 : 갑상선 절제, 방사성 요오드 치료
   * 요오드 결핍 또는 과잉
@@ -264,8 +264,14 @@ _\*TSH 컷오프(4.5, 0.4 mIU/L)는 일반적 국제 기준값임. 우리나라 
   * total T4 : estrogen에 의한 TBG 증가로 자연히 상승 - 임신 7주부터 주당 5%씩 증가하여 16주경 최대 50% 증가로 정체(plateau)하므로, 비임신 참고치 상한에 이 증가율을 적용해 해석(비임신 참고치 그대로 적용하지 않음)
 * 임신 중에는 liothyronine을 사용하지 않음
 * ✽TPOAb/TgAb는 태반을 통과하나 Graves병의 TRAb와 달리 태아 갑상선을 직접 자극하지 않아, 태아 초음파 등 별도의 태아 모니터링은 필요하지 않음(☞ 항진증 챕터의 태아/신생아 모니터링과 대비되는 이유)
+
+<mark style="color:cyan;">**수유**</mark>&#x20;
+
 * 수유 중에도 levothyroxine 투여를 중단하지 않음; 분만 후에는 통상 임신 전 용량으로 감량하고 6주 후 TSH 재평가(단, 임신 전 용량이 최적이 아니었거나 임신 중 체중이 많이 증가한 경우 임신 전 용량보다 높은 용량이 필요할 수 있음)
-  * ✽Levothyroxine은 생리적 대체 호르몬으로 모유 이행량이 임상적으로 무의미하여, 항갑상선제(methimazole·PTU)와 달리 수유 중 용량 상한이나 영아 갑상선기능 모니터링이 필요하지 않음
+
+<mark style="color:cyan;">**영아 모니터링**</mark>
+
+* Levothyroxine은 생리적 대체 호르몬으로 모유 이행량이 임상적으로 무의미하여, 항갑상선제(MMI·PTU)와 달리 수유 중 용량 상한이나 영아 갑상선기능 모니터링이 필요하지 않음
 
 #### <mark style="color:$primary;">Euthyroid TPOAb 양성 여성 - LT4 치료 대상 아님</mark>
 
