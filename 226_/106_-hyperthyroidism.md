@@ -213,12 +213,12 @@ _TRAb=TSH Receptor Antibodies, TSI=Thyroid-Stimulating Immunoglobulin_
 flowchart TD
     %% [1] Untreated GD Flow
 A2[Untreated GD:<br/>Recent onset] --> A3[MMI 18개월]
-    A2 --> A4[Personal <br/>decision]
+    A2 --> A4[Personal <br/>decision¹⁾]
     A3 --> A5["• MMI 불내성<br>• 불순응"]
     A5 --> A6[RAI or <br/>Thyroidectomy]
     %% [2] Persistent Hyperthyroidism Flow
-B2["Persistent <br/>Hyperthyroidism <br>(18개월 후 TRAb 양성)"] -->B3[MMI 12개월 추가]
-    B2 -->BC_Def[Definitive <br/>treatment]
+B2["Persistent <br/>Hyperthyroidism <br>(18개월 후 TRAb 양성)"] -->B3[MMI 12개월<br/> 추가]
+    B2 -->BC_Def[Definitive <br/>treatment²⁾]
     B3 --> B4[TRAb 측정]
     B4 -->|음성| B5[MMI 중단]
     B4 -->|양성| B6[RAI or 수술]
@@ -234,11 +234,14 @@ classDef pink fill:#FDE8E8,stroke:#F8B4B4,stroke-width:1px;
 classDef sky fill:#e3f2ff,stroke:#2196f3
     class A3,B3,C3 sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
-    class A4,A6,B5,B6,BC_Out, blue
+    class A4,A6,B5,B6,BC_Out blue
 
 ```
 
 <p align="center"><strong>Graves' hyperthyroidism 관리 알고리듬</strong></p>
+
+¹⁾ _최초 진단된(recent-onset) Graves병 환자에서 MMI 18개월 표준 요법을 시도하는 대신, 환자의 선호나 여건에 따라 처음부터 다른 치료법(RAI, 수술, 또는 장기 저용량 MMI 등)을 선택하는 경우_\
+²⁾_약물치료를 계속·연장 투여하는 대신 완치 지향적 치료로 전환하기로 결정한 경우_
 
 <p align="center"><em><mark style="color:$info;">Ref. European Thyroid Association. Guideline for the management of Graves' hyperthyroidism. Eur Thyroid J. 2018.</mark></em></p>
 
@@ -246,14 +249,12 @@ classDef blue fill:#d0e8ff,stroke:#1a6abf
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* **금연** : 흡연은 Graves' orbitopathy의 발생 및 악화와 관련된 가장 강력한 교정 가능 위험 인자이므로, 안구 증상 유무와 무관하게 모든 환자에게 금연을 권고 \[EUGOGO 2021]
+* 금연 : 흡연은 Graves' orbitopathy의 발생 및 악화와 관련된 가장 강력한 교정 가능 위험 인자로, 안구 증상 유무와 무관하게 모든 환자에게 금연을 권고
 * 갑상선중독 급성기에는 무리한 운동·격렬한 신체활동 자제(부정맥·심부전 악화 위험)
 * 충분한 칼로리·단백질 섭취로 체중 감소 예방
 * 요오드 과다 섭취(다시마 등 해조류, 요오드 조영제, amiodarone 등) 회피 - 특히 자율기능성 결절(TMNG, toxic adenoma) 환자에서 요오드-유발 갑상선중독증(Jod-Basedow 현상) 위험
 * 카페인 등 교감신경 항진 유발 물질 최소화(심계항진·불안 증상 악화 가능)
 * 안구 증상이 있는 경우 인공눈물 사용, 선글라스 착용, 수면 시 머리를 높게 유지
-
-***
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -264,35 +265,17 @@ classDef blue fill:#d0e8ff,stroke:#1a6abf
 
 #### <mark style="color:$primary;">Methimazole (MMI)</mark>
 
-* 1차 선택제; 반감기는 짧으나 갑상선 내 체류시간이 길어 대부분 1일 1회 복용(초기 고용량에서만 분할 투여); 효과 발현이 빠르고 간 괴사 부작용이 적어 선호됨
-* 임신 1분기에는 회피 권고(기형 위험으로 PTU를 우선 선택); 다만 PTU에 중증 부작용이 있거나 구할 수 없는 등 대안이 없는 경우, 치료하지 않은 갑상선항진증 자체의 위험(유산·태아 사망 등)이 더 크므로 최소 유효 용량의 MMI 사용을 고려 \[ATA 2026]
-* 증상·TFT 호전에 따라 최소 유효 용량으로 감량 <mark style="color:blue;">\[메티마졸]</mark>
+* 1차 선택제; 반감기는 짧으나 갑상선 내 체류 시간이 길어 대부분 1일 1회 복용(초기 고용량에서만 분할 투여); 효과 발현이 빠르고 간 괴사 부작용이 적어 선호됨
+* 임신 1분기에는 회피 권고(기형 위험으로 PTU를 우선 선택); 다만 PTU에 중증 부작용이 있거나 대안이 없는 경우, 치료하지 않은 갑상선항진증 자체의 위험(유산·태아 사망 등)이 더 크므로 최소 유효 용량의 MMI 사용을 고려
+* 증상·TFT 호전에 따라 최소 유효 용량으로 감량
 
 #### <mark style="color:$primary;">Propylthiouracil (PTU)</mark>
 
 * 부가적으로 말초에서의 T4 → active T3 전환 차단 효과가 있음
-* 1일 2\~3회 복용 <mark style="color:blue;">\[안티로이드]</mark>
-* 드물게 중증 간독성 부작용이 있어 MMI보다 우선순위가 낮음
+* 드물게 중증 간독성 부작용이 있어 MMI보다 우선 순위가 낮음
 * 임신 1분기, thyroid storm에서는 1차 선택
 
-| **항목**           | **MMI (메티마졸)**                                   | **PTU (안티로이드)**                             |
-| ---------------- | ------------------------------------------------ | ------------------------------------------- |
-| 시작 용량            | 10\\\~30 ㎎/d, 1일 1회(중증 시 최대 40 ㎎/d까지, 이때는 분할 투여) | 100\\\~300 ㎎/d, 1일 2\\\~3회(중증 시 최대 400 ㎎/d) |
-| 유지 용량            | 5\\\~15 ㎎/d, 1일 1회                               | 100\\\~150 ㎎/d, 1일 2\\\~3회                  |
-| 흡수               | 빠름                                               | 빠름                                          |
-| Bioavailability  | \\\~100%                                         | \\\~100%                                    |
-| 최고혈중농도 도달        | 60\\\~120분                                       | 60분                                         |
-| 혈중 반감기           | 6\\\~8시간                                         | 90분                                         |
-| Thyroid turnover | Slow                                             | Moderate                                    |
-| 작용 기간            | >24시간                                            | 8\\\~12시간                                   |
-| 혈청 단백 결합         | 0                                                | >75%                                        |
-| 태반 통과            | ++                                               | +                                           |
-| 모유 전달            | +                                                | +                                           |
-| 배설               | 신장                                               | 신장                                          |
-| 역가(강도)           | ×10                                              | ×1                                          |
-| T3·T4 정상화까지      | 6주                                               | 12주                                         |
-| 부작용 발생률          | 15%                                              | 20%                                         |
-| 무과립구증            | 0.1\\\~0.5%                                      | 0.1\\\~0.5%(MMI 대비 상대적으로 더 흔함)              |
+<table data-header-hidden data-search="false"><thead><tr><th width="176.6190185546875"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>MMI</strong> <mark style="color:blue;">[메티마졸]</mark></td><td><strong>PTU</strong> <mark style="color:blue;">[안티로이드]</mark></td></tr><tr><td>시작 용량</td><td>10~30 ㎎/d, 1일 1회(최대 40 ㎎/d, 이때는 분할 투여)</td><td>100~300 ㎎/d, 1일 2~3회(최대 400 ㎎/d)</td></tr><tr><td>유지 용량</td><td>5~15 ㎎/d, 1일 1회</td><td>100~150 ㎎/d, 1일 2~3회</td></tr><tr><td>흡수</td><td>빠름</td><td>빠름</td></tr><tr><td>Bioavailability</td><td>~100%</td><td>~100%</td></tr><tr><td>최고혈중농도 도달</td><td>60~120분</td><td>60분</td></tr><tr><td>혈중 반감기</td><td>6~8시간</td><td>90분</td></tr><tr><td>Thyroid turnover</td><td>Slow</td><td>Moderate</td></tr><tr><td>작용 기간</td><td>>24시간</td><td>8~12시간</td></tr><tr><td>혈청 단백 결합</td><td>0</td><td>>75%</td></tr><tr><td>태반 통과</td><td>++</td><td>+</td></tr><tr><td>모유 전달</td><td>+</td><td>+</td></tr><tr><td>배설</td><td>신장</td><td>신장</td></tr><tr><td>역가(강도)</td><td>×10</td><td>×1</td></tr><tr><td>T3·T4 정상화까지</td><td>6주</td><td>12주</td></tr><tr><td>부작용 발생률</td><td>15%</td><td>20%</td></tr><tr><td>무과립구증</td><td>0.1~0.5%</td><td>0.1~0.5%(상대적으로 더 흔함)</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">부작용</mark>
 
@@ -301,25 +284,24 @@ classDef blue fill:#d0e8ff,stroke:#1a6abf
 * 간염 : 발생률 0.1\~0.2%, 복용 초기 3개월에 흔함, PTU에서 더 흔함(중증 간부전 보고 있음); 황달, 어두운색 소변, 밝은색 대변, 복통, 체중 감소, 구역 등 발생 시 복용 중단 및 LFT 시행
 
 {% hint style="danger" %}
-**⚠️ Propylthiouracil 중증 간독성 경고**\
-PTU는 드물게 급성 전격성 간부전을 유발할 수 있어(성인 10만 명당 약 1명), 소아·임신 1분기 이외에는 MMI를 1차로 우선 고려하고 PTU 사용 시 정기 LFT 모니터링이 필요합니다.
+**Propylthiouracil 중증 간독성 경고** : PTU는 드물게 급성 전격성 간부전을 유발할 수 있어(성인 10만 명당 약 1명), 소아·임신 1분기 이외에는 MMI를 1차로 우선 고려하고 PTU 사용 시 정기 LFT 모니터링이 필요함
 {% endhint %}
 
 #### <mark style="color:$primary;">모니터링</mark>
 
 * 치료 개시 후 2\~6주(증상에 따라)에 free T4 및 T3 검사; free T4가 정상이어도 T3는 증가 상태일 수 있으므로 T3를 함께 측정; 초기 치료 반응 평가에서 TSH는 배제
-  * ✽항갑상선제는 이미 방출된 갑상선 호르몬에는 작용하지 않고 신규 합성만 차단하므로, 혈중 T4/T3 수준을 낮추는 데 약 3주가 소요되며 TSH 정상화에는 더 긴 기간이 필요함
-  * ✽TSH는 치료 시작 후 수개월간 억제된 상태로 지속될 수 있어, 이 기간 동안은 TSH만으로 치료 반응이나 과다치료 여부를 판정하지 않음
+  * 항갑상선제는 이미 방출된 갑상선 호르몬에는 작용하지 않고 신규 합성만 차단하므로, 혈중 T4/T3 수준을 낮추는 데 약 3주가 소요되며 TSH 정상화에는 더 긴 기간이 필요함
+  * TSH는 치료 시작 후 수개월간 억제된 상태로 지속될 수 있어, 이 기간 동안은 TSH만으로 치료 반응이나 과다치료 여부를 판정하지 않음
 * 항진 증상이 해소되고 TFT가 정상화됨에 따라 약제 용량을 30\~50% 감량하고 4\~6주마다 TSH 및 T4 검사
-  * → 정상 TFT를 유지하는 최소 용량이 정해진 후에는 2\~3개월 간격으로 검사
-  * → 18개월 이상 장기 치료 중인 경우에는 6개월 간격으로 검사
-  * ✽일부 연구에서 TRAb 음성 전환 확인 후에도 일정 기간 항갑상선제를 추가 유지하는 것이 재발률 감소와 연관된다는 보고가 있으나, 표준화된 최적 유지 기간에 대한 확립된 지침은 아직 없음 \[ETA 2018]
+  * 정상 TFT를 유지하는 최소 용량이 정해진 후에는 2\~3개월 간격으로 검사
+  * 18개월 이상 장기 치료 중인 경우에는 6개월 간격으로 검사
+  * 일부 연구에서 TRAb 음성 전환 확인 후에도 일정 기간 항갑상선제를 추가 유지하는 것이 재발률 감소와 연관된다는 보고가 있으나, 표준화된 최적 유지 기간에 대한 확립된 지침은 아직 없음
 
 #### <mark style="color:$primary;">치료 종료</mark>
 
 * 성인에서는 12\~18개월 치료 후 TSH 및 TRAb가 정상이면 치료 중단 고려
 * 12\~18개월 치료 후에도 high TRAb가 지속되면 12개월간 항갑상선제 치료를 추가 지속하거나 RAIT 또는 thyroidectomy 고려
-  * ✽항갑상선제로 18개월 이상 치료 시 추가 완화 효과가 거의 나타나지 않음
+  * 항갑상선제로 18개월 이상 치료 시 추가 완화 효과가 거의 나타나지 않음
 * 치료 종료 후 TFT 추적 검사 일정 : 첫 6개월 동안 2\~3개월 간격 → 다음 6개월 동안 4\~6개월 간격 → 이후 6\~12개월마다 또는 이상 증상이 있을 때
 
 ### <mark style="color:orange;">β-차단제</mark>
@@ -329,18 +311,14 @@ PTU는 드물게 급성 전격성 간부전을 유발할 수 있어(성인 10만
 * 투여 기간 : 증상이 호전될 때까지, 보통 2\~3주
 * β-차단제를 사용할 수 없는 환자(중증 천식 등)에서는 CCB(예: diltiazem, verapamil)를 대체로 고려
 
-| **성분명 \[상품명]**                                      | **용법**                | **특징**                                                              |
-| --------------------------------------------------- | --------------------- | ------------------------------------------------------------------- |
-| propranolol <mark style="color:blue;">\[인데롤]</mark> | 10\\\~40 ㎎ tid\\\~qid | 고용량에서 T4→T3 전환 차단; blood-brain barrier 통과로 불안증 완화에 유리; 임신·수유부 투여 가능 |
-| metoprolol <mark style="color:blue;">\[베타록]</mark>  | 25\\\~50 ㎎ bid\\\~tid | 상대적 β1 선택차단제                                                        |
-| atenolol <mark style="color:blue;">\[테놀민]</mark>    | 25\\\~50 ㎎ qd\\\~bid  | 상대적 β1 선택차단제                                                        |
+<table data-header-hidden><thead><tr><th width="174.7142333984375"></th><th width="162.8095703125"></th><th></th></tr></thead><tbody><tr><td><strong>성분명</strong> <mark style="color:blue;">[상품명]</mark></td><td><strong>용법</strong></td><td><strong>특징</strong></td></tr><tr><td>propranolol <mark style="color:blue;">[인데롤]</mark></td><td>10~40 ㎎ tid~qid</td><td>고용량에서 T4→T3 전환 차단; blood-brain barrier 통과로 불안증 완화에 유리; 임신·수유부 투여 가능</td></tr><tr><td>metoprolol <mark style="color:blue;">[베타록]</mark></td><td>25~50 ㎎ bid~tid</td><td>상대적 β1 선택차단제</td></tr><tr><td>atenolol <mark style="color:blue;">[테놀민]</mark></td><td>25~50 ㎎ qd~bid</td><td>상대적 β1 선택차단제</td></tr></tbody></table>
 
 ### <mark style="color:orange;">기타</mark>
 
 #### <mark style="color:$primary;">Steroid</mark>
 
-* 작용 : T4의 T3로의 전환 억제(✽T3가 T4보다 3\~4배 효력이 강함)
-* 용법은 적용 상황에 따라 다름 : 중등도\~중증 활동성 Graves' orbitopathy - 정맥 methylprednisolone 프로토콜(☞ 아래 Graves' orbitopathy 치료 참고); 갑상선중독발작 - hydrocortisone 정맥 투여(☞ 처방례 4)
+* 작용 : T4의 T3로의 전환 억제 (✽T3가 T4보다 3\~4배 효력이 강함)
+* 용법은 적용 상황에 따라 다름 : 중등도\~중증 활동성 Graves' orbitopathy 시 methylprednisolone IV 적용; 갑상선중독발작 시 hydrocortisone IV 투여(☞ 처방례 4)
 * 외래에서 경구 prednisolone을 장기간 분할(tid) 투여하는 처방은 일반적이지 않음
 
 #### <mark style="color:$primary;">Cholestyramine</mark>
@@ -349,53 +327,51 @@ PTU는 드물게 급성 전격성 간부전을 유발할 수 있어(성인 10만
 * 적용 : 갑상선절제술 전 준비, 중증 갑상선중독증·갑상선중독발작의 보조 치료(장간순환 차단으로 호르몬 농도 하강을 가속)
 * 용법 : 4 g qid <mark style="color:blue;">\[퀘스트란]</mark>
 
-### <mark style="color:orange;">Graves' orbitopathy (안병증) 치료</mark>
+### <mark style="color:orange;">Graves' orbitopathy (안병증)</mark>
 
-* 원칙 : 활동성(activity)·중증도(severity) 평가에 따라 치료 방침을 결정 \[EUGOGO 2021]
-* **흡연은 Graves' orbitopathy 발생·악화의 가장 중요한 교정 가능(modifiable) 위험 인자이므로 모든 단계에서 금연이 우선됨**
-* 경증(mild) : 인공눈물 등 국소 치료 + 위험 인자(흡연, 갑상선기능 이상) 교정; 최근 발병한 활동성 경증에서는 6개월간 selenium 보충이 진행 방지 및 삶의 질 개선에 도움이 될 수 있음(근거는 셀레늄 결핍 지역에서 가장 강하며, 요오드·셀레늄이 충분한 지역에서는 효과가 제한적일 수 있음) \[EUGOGO 2021]
-* 중등도\~중증 활동성(moderate-to-severe active) : 정맥 methylprednisolone(IVMP) ± mycophenolate 병용이 1차 치료 \[EUGOGO 2021 Strong recommendation]; teprotumumab은 국내 미허가(2025년 기준)로 국내에서는 고용량 IVMP 요법이 중심(누적 용량 8 g/cycle 초과 금지 - 간독성 위험); IVMP 투여 중에는 정기적 LFT 모니터링 필요(드물게 중증 간손상 보고) \[EUGOGO 2021]
-* 시력 위협(sight-threatening, dysthyroid optic neuropathy 등) : 고용량 IVMP 즉시 투여, 48\~72시간 내 반응 없으면 안와 감압술(orbital decompression) 응급 시행 → 안과 응급 의뢰
+* 원칙 : 활동성(activity)·중증도(severity) 평가에 따라 치료 방침을 결정
+* 흡연은 Graves' orbitopathy 발생·악화의 가장 중요한 교정 가능(modifiable) 위험 인자이므로 모든 단계에서 금연이 우선됨
+* 경증(mild) : 인공눈물 등 국소 치료 + 위험 인자(흡연, 갑상선기능 이상) 교정; 최근 발병한 활동성 경증에서는 6개월간 selenium 보충이 진행 방지 및 삶의 질 개선에 도움이 될 수 있음(요오드·셀레늄이 충분한 지역에서는 효과가 제한적)
+* 중등도\~중증 활동성(moderate-to-severe active) : 정맥 methylprednisolone(IVMP) ± mycophenolate 병용이 1차 치료; teprotumumab은 국내 미허가(2025년 기준)로 국내에서는 고용량 IVMP 요법이 중심(누적 용량 8 g/cycle 초과 금지 - 간독성 위험); IVMP 투여 중에는 정기적 LFT 모니터링 필요(드물게 중증 간손상 보고)
+* 시력 위협(sight-threatening, dysthyroid optic neuropathy 등) : 고용량 IVMP 즉시 투여, 48\~72시간 내 반응 없으면 안와 감압술(orbital decompression) 응급 시행
 * 갑상선 기능은 정상으로 유지(과다·저하 모두 안병증 악화 요인); RAIT는 활동성 중등도\~중증 안병증에서는 상대적 금기이거나 예방적 스테로이드 병용을 고려
-
-***
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 ### <mark style="color:orange;">Radioactive iodine therapy (RAIT)</mark>
 
-* 작용 : 갑상선에 농축되어 갑상선 조직을 파괴; 갑상선기능항진증의 완치(정상 갑상선기능 또는 갑상선기능저하증 도달)를 목표로 함 \[대한갑상선학회(KTA) 2025]
-* 국내 자료 : 1차 RAIT 후 1년 성공률 62.8%, 2년 성공률 76.8%로 항갑상선제 2년 성공률(41%)보다 높은 관해율을 보임; 무과립구증 이후 시행한 RAIT의 성공률은 88.8%로 특히 높음 \[KTA 2025]
-* 전체 암 발생 위험은 RAIT를 받지 않은 군과 유의한 차이가 없음(국내 코호트 위험비 0.96); 오히려 갑상선기능을 신속히 정상화한 경우 심혈관 사망률 감소와 연관된다는 보고가 있음 \[KTA 2025]
+* 작용 : 갑상선에 농축되어 갑상선 조직을 파괴; 갑상선기능항진증의 완치(정상 갑상선기능 또는 갑상선기능저하증 도달)를 목표로 함
+* 1차 RAIT 후 1년 성공률 62.8%, 2년 성공률 76.8%로 항갑상선제 2년 성공률(41%)보다 높은 관해율을 보임; 무과립구증 이후 시행한 RAIT의 성공률은 88.8%로 특히 높음 \[KTA 2025]
+* 전체 암 발생 위험은 RAIT를 받지 않은 군과 유의한 차이가 없음; 오히려 갑상선 기능을 신속히 정상화한 경우 심혈관 사망률 감소와 연관된다는 보고가 있음 \[KTA 2025]
 
 #### <mark style="color:$primary;">적응증 (KTA 2025)</mark>
 
-<table><thead><tr><th width="150">권고 수준</th><th>해당 상황</th></tr></thead><tbody><tr><td>적극 고려</td><td>완치율이 높은 1차 치료를 원하는 경우; 항갑상선제로 중증 부작용(무과립구증, 간독성 등) 발생; 항갑상선제 완치 후 재발하여 높은 완치율을 원하는 경우; 충분한 항갑상선제 치료(12\~18개월)에도 조절되지 않는 경우</td></tr><tr><td>고려 가능</td><td>항갑상선제 복용 순응도가 낮은 경우; 조절되지 않는 부정맥·심부전 등 갑상선기능 변동에 취약한 기저질환 동반; 정상 기능 유지에 고용량 항갑상선제(메티마졸 ≥15\~20 ㎎/d 또는 PTU ≥150\~300 ㎎/d)가 지속적으로 필요한 경우(특히 6개월 이후 임신 계획 여성)</td></tr><tr><td>권고하지 않음</td><td>임신 중이거나 수유 중인 여성; 중등도 이상의 활동성 Graves' orbitopathy 동반; 갑상선암 동반</td></tr></tbody></table>
+<table><thead><tr><th width="127.14288330078125">권고 수준</th><th>해당 상황</th></tr></thead><tbody><tr><td>적극 고려</td><td>완치율이 높은 1차 치료를 원하는 경우; 항갑상선제로 중증 부작용(무과립구증, 간독성 등) 발생; 항갑상선제 완치 후 재발하여 높은 완치율을 원하는 경우; 충분한 항갑상선제 치료(12~18개월)에도 조절되지 않는 경우</td></tr><tr><td>고려 가능</td><td>항갑상선제 복용 순응도가 낮은 경우; 조절되지 않는 부정맥·심부전 등 갑상선기능 변동에 취약한 기저질환 동반; 정상 기능 유지에 고용량 항갑상선제(MMI ≥15~20 ㎎/d 또는 PTU ≥150~300 ㎎/d)가 지속적으로 필요한 경우(특히 6개월 이후 임신 계획 여성)</td></tr><tr><td>권고하지 않음</td><td>임신 중이거나 수유 중인 여성; 중등도 이상의 활동성 Graves' orbitopathy 동반; 갑상선암 동반</td></tr></tbody></table>
 
 * 절대 금기는 아니나 치료 실패율이 높을 것으로 예상되는 상황 : 큰 갑상선종, 높은 TRAb 농도(특히 ＞40 U/L) - 이런 경우 빠른 완치가 목표라면 수술을 우선 고려
 * 시행 전 최소 48시간 이내 임신 여부 확인 필수
 
 #### <mark style="color:$primary;">치료 전 준비</mark>
 
-* 용량 : 갑상선기능저하증을 유발할 만큼 충분한 고정 용량 10\~15 mCi 사용(국내 임상 여건상 개별 선량 측정 방식보다 고정 용량 방식을 권고); 큰 갑상선종에서는 15 mCi 초과 용량을 고려할 수 있으나 치료 후 일시적 갑상선염 발생 가능성을 감안한 관찰 필요 \[KTA 2025]
-* 저요오드 식이 : 일괄적인 저요오드 식이 처방은 권고하지 않으나, 해조류(김·미역·다시마) 등 요오드 함유량이 높은 식품과 고용량 요오드 보충제는 치료 최소 1주일 전부터 섭취 중단 권고; 요오드 조영제·아미오다론 등 사용 이력이 있으면 영향을 고려하고, 무기 요오드제는 최소 1\~2주 전 중단 \[KTA 2025]
-* 항갑상선제 중단 : RAIT 3\~7일 전 중단 권고(항갑상선제를 치료 시점까지 유지하면 치료 실패 위험이 유의하게 증가); 갑상선기능항진증 악화 시 위험이 큰 고령·심혈관질환 동반 환자 등에서는 RAIT 후 3\~7일 이내 항갑상선제 재투여를 고려 \[KTA 2025]
-* PTU는 방사성보호 효과로 RAIT 효과를 감소시킬 수 있어, PTU 복용 중이었다면 MMI보다 더 이른 시점에 중단을 고려
-* 임신 계획 시 주의 : 여성은 치료 후 최소 6개월간 임신을 연기; 남성 환자도 정자 생성 주기를 고려하여 치료 후 최소 3\~4개월간 임신 시도(피임)를 연기하도록 권고 \[KTA 2025]
+* 용량 : 갑상선기능저하증을 유발할 만큼 충분한 고정 용량 10\~15 mCi 사용(국내 임상 여건상 개별 선량 측정 방식보다 고정 용량 방식을 권고); 큰 갑상선종에서는 15 mCi 초과 용량을 고려할 수 있으나 치료 후 일시적 갑상선염 발생 가능성을 감안한 관찰 필요
+* 저요오드 식이 : 일괄적인 저요오드 식이 처방은 권고하지 않으나, 해조류(김·미역·다시마) 등 요오드 함유량이 높은 식품과 고용량 요오드 보충제는 치료 최소 1주일 전부터 섭취 중단 권고; 요오드 조영제·아미오다론 등 사용 이력이 있으면 영향을 고려하고, 무기 요오드제는 최소 1\~2주 전 중단&#x20;
+* 항갑상선제 중단 : RAIT 3\~7일 전 중단 권고(항갑상선제를 치료 시점까지 유지하면 치료 실패 위험이 유의하게 증가); 갑상선기능항진증 악화 시 위험이 큰 고령·심혈관질환 동반 환자 등에서는 RAIT 후 3\~7일 이내 항갑상선제 재투여를 고려&#x20;
+* PTU는 방사성 보호 효과로 RAIT 효과를 감소시킬 수 있어, PTU 복용 중이었다면 MMI보다 더 이른 시점에 중단을 고려
+* 임신 계획 시 주의 : 여성은 치료 후 최소 6개월간 임신을 연기; 남성 환자도 정자 생성 주기를 고려하여 치료 후 최소 3\~4개월간 임신 시도(피임)를 연기하도록 권고&#x20;
 
 #### <mark style="color:$primary;">Graves' orbitopathy 동반 시 예방적 스테로이드 (KTA 2025)</mark>
 
-<table><thead><tr><th width="110">활동성</th><th width="150">경증 · 위험인자 없음</th><th width="150">경증 · 위험인자 있음</th><th width="150">중등도-중증 · 위험인자 없음</th><th>중등도-중증 · 위험인자 있음</th></tr></thead><tbody><tr><td>비활동성</td><td>예방적 스테로이드 불필요</td><td>예방적 스테로이드 고려</td><td>예방적 스테로이드 불필요</td><td>예방적 스테로이드 권고</td></tr><tr><td>활동성</td><td>예방적 스테로이드 고려</td><td>예방적 스테로이드 권고</td><td>RAIT 금기</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="110">활동성</th><th width="150">경증 · 위험인자 없음</th><th width="150">경증 · 위험인자 있음</th><th width="150">중등도-중증 · 위험인자 없음</th><th>중등도-중증 · 위험인자 있음</th></tr></thead><tbody><tr><td>비활동성</td><td>불필요</td><td>고려</td><td>불필요</td><td>권고</td></tr><tr><td>활동성</td><td>고려</td><td>권고</td><td>RAIT 금기</td><td>RAIT 금기</td></tr></tbody></table>
 
 * 활동성 중등도\~중증 안병증에서는 원칙적으로 RAIT를 피하고 항갑상선제 또는 수술을 우선 고려 \[KTA 2025]; 다른 치료 옵션이 모두 불가능한 예외적 상황에서 부득이하게 RAIT가 필요하다면 고용량 스테로이드 예방요법 병용을 고려할 수 있으나, 이는 일반적 권고가 아닌 개별 사례별 판단 사항임
-* 위험인자 : 흡연, 높은 TRAb 농도
-* 예방적 스테로이드 요법 예 : 저용량 prednisone 0.1\~0.2 ㎎/㎏로 시작하여 6주간 점진적 감량(고용량 0.3\~0.5 ㎎/㎏ 요법과 효과 동등) \[KTA 2025]
+* 위험 인자 : 흡연, 높은 TRAb 농도
+* 예방적 스테로이드 요법 예 : 저용량 prednisone 0.1\~0.2 ㎎/㎏로 시작하여 6주간 점진적 감량(고용량 0.3\~0.5 ㎎/㎏ 요법과 효과 동등)
 
 #### <mark style="color:$primary;">부작용 및 추적 관찰</mark>
 
-* 부작용 : 영구적 갑상선기능저하증(치료 후 1년 24\~87%, 이후 매년 3\~5%씩 추가 발생; 10년 누적 59%, 25년 누적 82%로 보고됨), 경부 통증, 미각 저하, 홍조감, 방사성 갑상선염, Graves' orbitopathy 악화(위 표 참고) \[KTA 2025]
+* 부작용 : 영구적 갑상선기능저하증(치료 후 1년 24\~87%, 이후 매년 3\~5%씩 추가 발생; 10년 누적 59%, 25년 누적 82%로 보고됨), 경부 통증, 미각 저하, 홍조감, 방사성 갑상선염, Graves' orbitopathy 악화(위 표 참고)&#x20;
 * 갑상선 크기는 치료 6개월 후 평균 약 57\~73%, 12개월 후 약 71% 감소
-* 추적 검사 : RAIT 후 4\~6주 이내 TSH·free T4 시행(이 시기는 TSH가 지속적으로 억제되어 있을 수 있어 TSH만으로 판단하지 말 것) → 이후 갑상선기능이 정상화되거나 치료 후 6개월까지는 2\~3개월 간격 → 정상 기능이 2회 이상 확인되면 6개월\~1년 간격으로 전환 → 갑상선기능항진증·저하증 증상이 의심되면 즉시 재검 \[KTA 2025]
+* 추적 검사 : RAIT 후 4\~6주 이내 TSH·free T4 시행(이 시기는 TSH가 지속적으로 억제되어 있을 수 있어 TSH만으로 판단하지 말 것) → 이후 갑상선기능이 정상화되거나 치료 후 6개월까지는 2\~3개월 간격 → 정상 기능이 2회 이상 확인되면 6개월\~1년 간격으로 전환 → 갑상선기능항진증·저하증 증상이 의심되면 즉시 재검&#x20;
 
 ### <mark style="color:orange;">수술</mark>
 
