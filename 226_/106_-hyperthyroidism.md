@@ -25,7 +25,7 @@
 
 * 자가면역 질환으로 갑상선항진증의 가장 흔한 원인임(60\~80%)
 * 기전 : B 림프구에서 생성된 TSH receptor 자극항체(TRAb)가 갑상선의 TSH receptor에 결합 → receptor 활성화 → 갑상선 호르몬 합성·분비 자극(thyrotoxicosis), 갑상선 비대(goiter), 안와 돌출 유발
-  * 안와 증상 : 안와섬유아세포에도 TSH 수용체가 발현되어 있어 TRAb가 직접 작용 → 섬유아세포 증식, 글리코사미노글리칸 축적, 림프구 침윤성 염증 → 안구 돌출·외안근 비대(Graves' orbitopathy) 유발
+  * 안와 증상 : 안와섬유아세포에도 TSH 수용체가 발현되어 있어 TRAb가 직접 작용 → 섬유아세포 증식, 글리코사미노글리칸 축적, 림프구 침윤성 염증 → 안구돌출·외안근 비대(Graves' orbitopathy) 유발
 * 위험 인자 : 여성(남성의 8배), 20\~40세, 가족력(특히 모계), 흡연(특히 Graves' orbitopathy 위험을 높임)
 * 다른 자가면역질환 위험 증가와 관련 : Sjögren syndrome, 셀리악병, pernicious anemia, Addison disease, 원형탈모증, 백반증, 1형 당뇨병, 부갑상선저하증, myasthenia gravis, 심근증
 * 경과 : 항갑상선제 치료 시 약 40\~60%에서 관해
@@ -59,40 +59,36 @@
 * 심혈관 : 빈맥(두근거림), 수축기혈압 상승, 심방세동, 심장 비대, 심부전 악화
 * 내분비 : 열 불내성, 다한증, 갑상선종, 여성형유방증, 성 기능 저하, 불규칙 월경, 당뇨병 악화
 * 피부 : 따뜻하고 습한 피부, 가려움, 가는 모발(fine hair), onycholysis, pretibial myxedema(3%)
-* 눈 : 안구 돌출(20\~40%), 위 눈꺼풀 수축, 복시, 안구 건조, 안구 통증
+* 눈 : 안구돌출(20\~40%), 위 눈꺼풀 수축, 복시, 안구 건조, 안구 통증
 * 기타 : 피로, 체중 변화(보통 감소), 발열, 무른 변·빈변, 호흡 곤란
-* 갑상선 비대 : 미만성 갑상선비대(대개 압통 없음이 일반적; 압통이 뚜렷하면 subacute thyroiditis 등 다른 원인 고려); 화농성 갑상선염에서는 국소 압통·염증 반응
+* 갑상선 비대 : 미만성 갑상선 비대(대개 압통 없음이 일반적; 압통이 뚜렷하면 subacute thyroiditis 등 다른 원인 고려); 화농성 갑상선염에서는 국소 압통·염증 반응
 
-#### <mark style="color:$primary;">고령에서의 특징</mark>
+**고령에서의 특징**
 
 * 고령에서는 전형적 증상이 나타나지 않을 수 있음 (apathetic hyperthyroidism)
 * 피로, 쇠약, 체중 감소, 심방세동(TSH ＜0.1 mIU/L에서 흔함), 호흡 곤란이 주 증상일 수 있음
 
-***
-
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 갑상선중독발작(thyroid storm) 의심 소견 - 고열(≥38.9℃), 심한 빈맥(＞140/분) 또는 심방세동, 의식 변화(초조·섬망·혼수), 심한 오심·구토·황달 동반 (Burch-Wartofsky Point Scale ≥45점) → 즉시 응급실 이송
-* 급격한 시력 저하, 색각 이상, 구심동공반사이상 → dysthyroid optic neuropathy(갑상선 시신경병증) 의심 → 응급 안과 의뢰
+* 고열(≥38.9℃), 심한 빈맥(＞140/분) 또는 심방세동, 의식 변화(초조·섬망·혼수), 심한 오심·구토·황달 동반 (Burch-Wartofsky Point Scale ≥45점) → 갑상선중독발작
+* 급격한 시력 저하, 색각 이상, 구심동공반사 이상 → 갑상선 시신경병증
 * 심한 빈맥 또는 새로 발생한 심방세동 + 혈역학적 불안정(저혈압, 흉통, 호흡곤란)
-* 항갑상선제 복용 중 고열·심한 인후통 → 무과립구증 의심 → 즉시 약물 중단 및 응급 CBC 확인
+* 항갑상선제 복용 중 고열·심한 인후통 → 무과립구증
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 새로 진단된 심방세동 또는 심부전 악화 소견
-* 안구돌출의 급속 진행, 새로 발생한 복시, 결막 부종·충혈 심화 → 안과 조기 의뢰 (☞ 안과 검진 대상 참고)
-* 임신 중 갑상선항진증 신규 진단 또는 임신 중 TRAb 상승 → 산과·내분비 협진
-* 항갑상선제 복용 중 경미한 발열·인후통(무과립구증 완전 배제 안 됨) → 당일 CBC 확인
+* 안구돌출의 급속 진행, 새로 발생한 복시, 결막 부종·충혈 심화
+* 임신 중 갑상선항진증 신규 진단 또는 임신 중 TRAb 상승
+* 항갑상선제 복용 중 경미한 발열·인후통(무과립구증 완전 배제 안 됨)
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 항갑상선제 치료 4\~6주 후에도 TFT 호전 없음
 * 무증상 갑상선항진증 경과 관찰 중 증상 발생 또는 고위험군(65세 이상, 심질환·골다공증 동반)으로 재분류
 * 경증 Graves' orbitopathy의 활동성·진행 여부 정기 추적
-
-***
 
 ## <mark style="color:green;">진단</mark>
 
@@ -103,19 +99,14 @@
 ### <mark style="color:orange;">갑상선 호르몬 검사</mark>
 
 * 기본 : TSH, free T4(thyroxine)
-* 필요시 total T3(triiodothyronine) 추가 - free T3는 병원별로 측정 가능 여부가 달라 실제 임상에서는 total T3를 흔히 사용
-  * ✽free T4가 정상이더라도 T3만 단독으로 상승하는 경우(T3 toxicosis) 감별을 위해 T3 측정이 필요함
-  * ✽TSH ＜0.1 mIU/L을 기준으로 한 갑상선항진증 진단은 민감도 ＞98%, 특이도 92%
-  * ✽갑상선 호르몬의 반감기는 T3 = 1일, T4 = 1주일로, 갑상선염 등 갑상선 조직의 파괴에 의해 저장 호르몬이 일시적으로 유출되는 상태에서는 T3가 T4보다 일찍 감소하여 T4/T3 비가 커짐
-* 검사 결과에 영향을 주는 요인 (☞ p.579)
+* 필요시 free or total T3 추가 - 임상 환경상 free  T3 측정에 어려움이 있어 흔히 total T3를 검사
+  * free T4가 정상이더라도 T3만 단독으로 상승하는 경우(T3 toxicosis) 감별을 위해 T3 측정이 필요함
+  * TSH ＜0.1 mIU/L을 기준으로 한 갑상선항진증 진단은 민감도 ＞98%, 특이도 92%
+  * 갑상선 호르몬의 반감기는 T3 = 1일, T4 = 1주일로, 갑상선염 등 갑상선 조직의 파괴에 의해 저장 호르몬이 일시적으로 유출되는 상태에서는 T3가 T4보다 일찍 감소하여 T4/T3 비가 커짐
 
-| **TSH** | **free T4** | **해석**                                                      |
-| ------- | ----------- | ----------------------------------------------------------- |
-| ↓       | ↑           | 갑상선항진증, 자가 치유 중인 갑상선염                                       |
-| ↓       | →           | Subclinical hyperthyroidism, T3 toxicosis, thyroxine(T4) 섭취 |
-| ↓/→     | ↓           | 전신적인 병증(non-thyroidal illness), 최근 갑상선항진증 치료                |
-| ↑       | ↓           | 갑상선중독증 치료 후의 갑상선저하증                                         |
-| ↑/→     | ↑           | Pituitary tumor, 갑상선 호르몬 저항                                 |
+<table data-header-hidden><thead><tr><th width="82.33331298828125"></th><th width="102.47613525390625"></th><th></th></tr></thead><tbody><tr><td><strong>TSH</strong></td><td><strong>free T4</strong></td><td><strong>해석</strong></td></tr><tr><td>↓</td><td>↑</td><td>갑상선항진증, 자가 치유 중인 갑상선염</td></tr><tr><td>↓</td><td>→</td><td>Subclinical hyperthyroidism, T3 toxicosis, thyroxine(T4) 섭취</td></tr><tr><td>↓/→</td><td>↓</td><td>전신적인 병증(non-thyroidal illness), 최근 갑상선항진증 치료</td></tr><tr><td>↑</td><td>↓</td><td>갑상선중독증 치료 후의 갑상선저하증</td></tr><tr><td>↑/→</td><td>↑</td><td>Pituitary tumor, 갑상선 호르몬 저항</td></tr></tbody></table>
+
+* 검사 결과에 영향을 주는 요인 ☞ [갑상선저하증](105_-hypothyroidism.md#undefined-6)
 
 ### <mark style="color:orange;">기타 검사</mark>
 
@@ -129,92 +120,80 @@
 * (4주 이상 지속되는) 안구 뒤 통증, 눈을 움직일 때 통증
 * Caruncle 부종
 * 모든 방향의 안구 움직임 ≥5° 감소
-* 안구 돌출 ≥2 ㎜
+* 안구돌출 ≥2 ㎜
 * Snellen chart상 ≥1 line 시력 저하
 * 다음 소견은 시력 위협(sight-threatening) 징후로 응급 안과 의뢰가 필요 : 새로 발생한 복시, 색각 저하, 구심동공반사이상(RAPD)
-
-### <mark style="color:orange;">감별 진단</mark>
-
-* 열 불내성·심계항진·체중감소 등으로 내원 시 아래 질환과의 감별이 필요; TSH가 정상이면 갑상선 질환 가능성은 낮음
-
-<table><thead><tr><th width="150">질환</th><th width="230">감별 포인트</th><th>핵심 검사</th></tr></thead><tbody><tr><td>불안장애·공황장애</td><td>발한·심계항진은 유사하나 열 불내성·체중감소·안구 증상은 드묾</td><td>TSH 정상</td></tr><tr><td>갱년기(폐경) 증후군</td><td>안면홍조·발한은 있으나 빈맥·수전(手顫)은 덜함</td><td>TSH, FSH/LH</td></tr><tr><td>갈색세포종(Pheochromocytoma)</td><td>발작성 고혈압·심계항진·발한이 특징적; 갑상선종·안구 증상 없음</td><td>혈장 또는 소변 metanephrine</td></tr><tr><td>악성 종양(체중감소 동반)</td><td>식욕부진 동반 체중감소가 흔함(갑상선항진증은 식욕 증가에도 체중 감소)</td><td>영상 검사; TSH 정상</td></tr><tr><td>기타 원인의 심방세동</td><td>고령·구조적 심질환 동반이 흔함</td><td>TSH로 감별</td></tr></tbody></table>
-
-### <mark style="color:orange;">갑상선중독발작 중증도 평가 (Burch-Wartofsky Point Scale)</mark>
-
-* 갑상선중독발작이 임상적으로 의심되는 경우, 체온·심혈관계·중추신경계·위장관/간 증상과 유발 인자 유무를 점수화하여 위험도를 정량적으로 평가할 수 있음 \[Burch & Wartofsky, 1993]
-* 판정 : 총점 ≥45점 - 갑상선중독발작 강력 시사; 25\~44점 - 임박한 갑상선중독발작(impending storm) 시사; ＜25점 - 갑상선중독발작 가능성 낮음
-* 중추신경계 증상(초조, 섬망, 정신병, 극도의 무기력, 경련, 혼수)의 유무와 정도가 단순 중증 갑상선중독증과 실제 갑상선중독발작을 구분하는 가장 중요한 임상 소견임
-* 점수와 무관하게 임상적으로 갑상선중독발작이 강력히 의심되면 지체 없이 응급 이송 및 치료를 시작할 것 (☞ Red Flags, 처방례 4)
-
-<table><thead><tr><th width="220">항목</th><th width="180">소견</th><th>점수</th></tr></thead><tbody><tr><td>체온 조절 장애 (℃)</td><td>37.2\~37.7</td><td>5</td></tr><tr><td>37.8\~38.3</td><td>10</td><td></td></tr><tr><td>38.4\~38.8</td><td>15</td><td></td></tr><tr><td>38.9\~39.3</td><td>20</td><td></td></tr><tr><td>39.4\~39.9</td><td>25</td><td></td></tr><tr><td>≥40.0</td><td>30</td><td></td></tr><tr><td>빈맥 (회/분)</td><td>90\~109</td><td>5</td></tr><tr><td>110\~119</td><td>10</td><td></td></tr><tr><td>120\~129</td><td>15</td><td></td></tr><tr><td>130\~139</td><td>20</td><td></td></tr><tr><td>≥140</td><td>25</td><td></td></tr><tr><td>심방세동</td><td>있음</td><td>10</td></tr><tr><td>심부전</td><td>경증</td><td>5</td></tr><tr><td>중등도</td><td>10</td><td></td></tr><tr><td>중증</td><td>15</td><td></td></tr><tr><td>위장관·간 기능이상</td><td>중등도(설사, 복통, 오심/구토)</td><td>10</td></tr><tr><td>중증(황달)</td><td>20</td><td></td></tr><tr><td>중추신경계 증상</td><td>경증(초조)</td><td>10</td></tr><tr><td>중등도(섬망, 정신병, 극도의 무기력)</td><td>20</td><td></td></tr><tr><td>중증(경련, 혼수)</td><td>30</td><td></td></tr><tr><td>유발 인자</td><td>없음</td><td>0</td></tr><tr><td>있음(감염, 수술, 요오드 노출, 외상, 임의 중단 등)</td><td>10</td><td></td></tr></tbody></table>
-
-***
 
 ```mermaid
 flowchart TD
     %% 1. Biochemistry
-    subgraph Biochemistry ["1단계: 생화학적 확진"]
-        TSH[TSH 저하 확인] --> Test["fT4, fT3 검사 시행"]
-
-        Test --> R1["fT4 정상 / fT3 정상"]
-        Test --> R2["fT4 정상 / fT3 상승"]
-        Test --> R3["fT4 상승 / fT3 상승"]
-
+    subgraph Biochemistry ["<b>1단계: 생화학적 확진</b>"]
+        TSH[TSH 저하 확인] --> Test["fT4, fT3 검사"]
+        Test --> R1["fT4→ / fT3→"]
+        Test --> R2["fT4→ / fT3↑"]
+        Test --> R3["fT4↑ / fT3↑"]
         R1 --> Subclinical[Subclinical<br/>hyperthyroidism]
         R2 --> T3_tox[T3 toxicosis]
         R3 --> Overt[Overt<br/>hyperthyroidism]
     end
-
     %% 2. Serology Connection
     Subclinical --> TRAb
     T3_tox --> TRAb
     Overt --> TRAb
-
-    subgraph Serology ["2단계: 혈청학적 감별 (우선 권고)"]
-        TRAb{"TRAb 항체 검사"}
+    subgraph Serology ["<b>2단계: 혈청학적 감별 (우선 권고)</b>"]
+        TRAb["TRAb 항체 검사"]
         Graves["Graves' 병 확진<br>(치료 계획 수립)"]
-        Others["TRAb 음성<br>(다른 원인 감별 필요)"]
-
+        Others["TRAb(-)<br>(다른 원인 감별 필요)"]
         TRAb -->|양성| Graves
         TRAb -->|음성| Others
     end
-
     %% 3. Thyroid Imaging Connection
     Others --> US
-
-    subgraph Thyroid_Imaging ["3단계: 영상의학적 감별"]
-        US[갑상선 초음파 평가] --> Nodule{"2cm 초과 결절<br>동반 여부?"}
-        Nodule -->|Yes| Isotope[갑상선 동위원소 스캔<br>• Toxic Adenoma<br>• TMNG 감별]
-        Nodule -->|No| Destructive[파괴성 갑상선염 등<br>기타 원인 고려]
+    subgraph Thyroid_Imaging ["<b>3단계: 영상의학적 감별</b>"]
+        US[갑상선 초음파 검사] --> Nodule["2cm 초과 결절<br>동반 여부?"]
+        Nodule -->|YES| Isotope[갑상선 동위원소 스캔<br>• Toxic Adenoma<br>• TMNG 감별]
+        Nodule -->|NO| Destructive[파괴성 갑상선염 등<br>기타 원인 고려]
     end
-
     %% Style Definitions
-    classDef pink fill:#FDE8E8,stroke:#F8B4B4,stroke-width:1px;
-    classDef yellow fill:#FEF9E7,stroke:#F9E79F,stroke-width:1px;
-    classDef blue fill:#EBF5FB,stroke:#AED6F1,stroke-width:1px;
 
-    class Graves pink;
-    class Isotope yellow;
-    class Subclinical blue; class T3_tox blue; class Overt blue; class Destructive blue;
+style TSH fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Nodule yellow
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class Subclinical,T3_tox,Overt,Graves,Destructive pink
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class Test,TRAb,US,Isotope lightGreen
 ```
 
 <p align="center"><strong>Graves' hyperthyroidism 의심 환자의 진단 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. European Thyroid Association. Guideline for the management of Graves' hyperthyroidism. Eur Thyroid J. 2018.</mark></em></p>
 
+### <mark style="color:orange;">감별</mark>
+
+* 열 불내성·심계항진·체중 감소 등으로 내원 시 아래 질환과의 감별이 필요; TSH가 정상이면 갑상선 질환 가능성은 낮음
+
+<table><thead><tr><th width="169.047607421875">질환</th><th width="278.5714111328125">감별 포인트</th><th>핵심 검사</th></tr></thead><tbody><tr><td>불안장애·공황장애</td><td>발한·심계항진은 유사하나 열 불내성·체중감소·안구 증상은 드묾</td><td>TSH 정상</td></tr><tr><td>갱년기(폐경) 증후군</td><td>안면홍조·발한은 있으나 빈맥·손떨림은 덜함</td><td>TSH, FSH/LH</td></tr><tr><td>갈색세포종(Pheo-chromocytoma)</td><td>발작성 고혈압·심계항진·발한이 특징적; 갑상선종·안구 증상 없음</td><td>혈장 또는 소변 metanephrine</td></tr><tr><td>악성 종양(체중감소 동반)</td><td>식욕부진 동반 체중감소가 흔함(갑상선항진증은 식욕 증가에도 체중 감소)</td><td>영상 검사; TSH 정상</td></tr><tr><td>기타 원인의 심방세동</td><td>고령·구조적 심질환 동반이 흔함</td><td>TSH로 감별</td></tr></tbody></table>
+
+#### <mark style="color:$primary;">갑상선중독발작 중증도 평가 (Burch-Wartofsky Point Scale)</mark>
+
+* 갑상선중독발작이 임상적으로 의심되는 경우, 체온·심혈관계·중추신경계·위장관/간 증상과 유발 인자 유무를 점수화하여 위험도를 정량적으로 평가할 수 있음
+
+<table data-search="false"><thead><tr><th width="166.66668701171875">항목</th><th width="358.09521484375">소견</th><th>점수</th></tr></thead><tbody><tr><td>체온 조절 장애 (℃)</td><td>37.2~37.7</td><td>5</td></tr><tr><td></td><td>37.8~38.3</td><td>10</td></tr><tr><td></td><td>38.4~38.8</td><td>15</td></tr><tr><td></td><td>38.9~39.3</td><td>20</td></tr><tr><td></td><td>39.4~39.9</td><td>25</td></tr><tr><td></td><td>≥40.0</td><td>30</td></tr><tr><td>빈맥 (회/분)</td><td>90~109</td><td>5</td></tr><tr><td></td><td>110~119</td><td>10</td></tr><tr><td></td><td>120~129</td><td>15</td></tr><tr><td></td><td>130~139</td><td>20</td></tr><tr><td></td><td>≥140</td><td>25</td></tr><tr><td>심방세동</td><td>있음</td><td>10</td></tr><tr><td>심부전</td><td>경증</td><td>5</td></tr><tr><td></td><td>중등도</td><td>10</td></tr><tr><td></td><td>중증</td><td>15</td></tr><tr><td>위장관·간 기능이상</td><td>중등도(설사, 복통, 오심/구토)</td><td>10</td></tr><tr><td></td><td>중증(황달)</td><td>20</td></tr><tr><td>중추신경계 증상</td><td>경증(초조)</td><td>10</td></tr><tr><td></td><td>중등도(섬망, 정신병, 극도의 무기력)</td><td>20</td></tr><tr><td></td><td>중증(경련, 혼수)</td><td>30</td></tr><tr><td>유발 인자</td><td>없음</td><td>0</td></tr><tr><td></td><td>있음(감염, 수술, 요오드 노출, 외상, 임의 중단 등)</td><td>10</td></tr></tbody></table>
+
+* 판정 : 총점 ≥45점 - 갑상선중독발작 강력 시사; 25\~44점 - 임박한 갑상선중독발작(impending storm) 시사; ＜25점 - 갑상선중독발작 가능성 낮음
+* 중추신경계 증상(초조, 섬망, 정신병, 극도의 무기력, 경련, 혼수)의 유무와 정도가 단순 중증 갑상선중독증과 실제 갑상선중독발작을 구분하는 가장 중요한 임상 소견임
+* 점수와 무관하게 임상적으로 갑상선중독발작이 강력히 의심되면 지체 없이 응급 이송 및 치료를 시작할 것
+
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
 **단계별 치료 전략 (Step-wise Approach)**
-{% endhint %}
 
 <table><thead><tr><th width="90">단계</th><th width="230">핵심 치료</th><th>대상</th></tr></thead><tbody><tr><td>Step 1</td><td>β-차단제로 증상 완화</td><td>모든 유증상 환자(금기 없는 한)</td></tr><tr><td>Step 2</td><td>원인별 확정 치료 결정 - 항갑상선제 / RAIT / 수술</td><td>Graves' disease, TMNG, Toxic adenoma</td></tr><tr><td>Step 3</td><td>Graves' orbitopathy 동반 여부 평가 및 안과 협진</td><td>안구 증상이 있거나 위험 인자(흡연 등) 보유</td></tr><tr><td>Step 4</td><td>정기적 TFT 추적 및 치료 반응·부작용 모니터링</td><td>모든 환자</td></tr></tbody></table>
 
-{% hint style="info" %}
 **치료법별 추적 검사 주기 요약** - 각 섹션에 흩어져 있는 모니터링 간격을 한눈에 정리
-{% endhint %}
 
 <table><thead><tr><th width="150">상황</th><th>추적 검사 주기</th></tr></thead><tbody><tr><td>항갑상선제 시작 직후</td><td>2\~6주 후 free T4·T3 확인(TSH는 수개월간 억제 상태 지속 가능하여 초기 판정에서 배제) → 정상화 후 4\~6주마다 → 안정 후 2\~3개월마다 → 18개월 이상 장기 치료 시 6개월마다</td></tr><tr><td>RAIT 이후</td><td>4\~6주 이내 첫 검사 → 정상화될 때까지(치료 후 6개월까지) 2\~3개월마다 → 정상 2회 확인 후 6개월\~1년마다</td></tr><tr><td>무증상 갑상선항진증 관찰</td><td>치료하지 않는 경우 정기적 재평가(대개 수개월 간격), 증상 발생 시 즉시 재검</td></tr><tr><td>임신 중(항갑상선제 복용)</td><td>임신 확인 즉시 → 이후 1분기 1\~2주마다 → 2\~3분기 2\~4주마다</td></tr><tr><td>임신 중(TRAb/TSI ≥3×ULN)</td><td>1분기, 18\~22주, 30\~34주 재검 + 18\~20주부터 매월 태아 초음파</td></tr><tr><td>산후 갑상선염</td><td>4\~8주 간격 관찰; 정상화 후 1년째 또는 증상 발생 시 재검</td></tr></tbody></table>
 
@@ -647,7 +626,7 @@ E06.2 일과성 갑상선중독증을 동반한 만성 갑상선염
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
-* **담배를 끊으십시오.** 흡연은 갑상선 눈병증(안구 돌출, 복시 등)을 악화시키는 가장 중요한 원인입니다.
+* **담배를 끊으십시오.** 흡연은 갑상선 눈병증(안구돌출, 복시 등)을 악화시키는 가장 중요한 원인입니다.
 * **무리한 운동은 피하십시오.** 심장이 이미 빨리 뛰고 있는 상태이므로 격렬한 운동은 부정맥 위험을 높일 수 있습니다.
 * **충분히 먹고 쉬십시오.** 대사가 빨라져 체중이 줄고 쉽게 피로해질 수 있으므로 균형 잡힌 식사와 휴식이 필요합니다.
 * **카페인 섭취를 줄이십시오.** 두근거림, 불안감이 더 심해질 수 있습니다.
