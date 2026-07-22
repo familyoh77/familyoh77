@@ -339,8 +339,7 @@ flowchart TD
     ElderlySevere --> ElderlySevereTx["일반적으로<br>치료 안 함"]
     Age -->|NO · 성인 ＜70세| AdultMild["경증<br>TSH 6.8~10"]
     Age -->|NO · 성인 ＜70세| AdultSevere["중증<br>TSH ＞10"]
-    AdultMild --> AdultMildTx["원칙적으로 치료 안 함<br>진행위험인자 시
-     추적 강화"]
+    AdultMild --> AdultMildTx["원칙적으로 치료 안 함<br>진행 위험 인자(+) 시<br>추적 강화"]
     AdultSevere --> CADHF["관상동맥질환/<br>심부전 동반?"]
     CADHF -->|YES| TxYes["LT4 치료 시행"]
     CADHF -->|NO| Dyslip["이상지질혈증<br>동반?"]
