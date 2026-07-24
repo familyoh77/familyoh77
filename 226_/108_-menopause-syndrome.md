@@ -5,14 +5,17 @@
 * 폐경 : 병적 원인 없이 마지막 월경일로부터 12개월 이상 월경을 하지 않는 상태
 * 다른 이름 : 갱년기증후군, climacteric syndrome
 * 평균 폐경 연령 : 51세
-* 폐경은 생리적인 현상이지만 혈관운동 증상(vasomotor symptoms, VMS)에 의한 불편감과 심혈관 질환, 골다공증성 골절 등 의학적 문제를 증가시킴; 폐경기와 자녀들의 사춘기, 중년의 정체성 위기, 부부 갈등, 경제적 문제 등과 겹쳐지면 더욱 복잡한 문제를 일으킬 수 있음
+* 의의 : 폐경은 생리적인 현상이지만 혈관운동 증상(vasomotor symptoms, VMS)에 의한 불편감과 심혈관 질환, 골다공증성 골절 등 의학적 문제를 증가시킴; 폐경기와 자녀들의 사춘기, 중년의 정체성 위기, 부부 갈등, 경제적 문제 등과 겹쳐지면 더욱 복잡한 문제를 일으킬 수 있음
 * 조기 폐경 : ＜40세에서 불규칙 월경 또는 월경 중단; 모든 원인의 사망률 증가, 심혈관 질환, 당뇨병, 우울증, 골다공증과 연관; 원인 질환 감별 및 건강 관리를 요함
 
-#### <mark style="color:$primary;">STRAW (Staging of Reproductive Aging Workshop) staging system</mark>
+<mark style="color:cyan;">**STRAW (Staging of Reproductive Aging Workshop) staging system**</mark>
 
-<table><thead><tr><th width="150">STRAW 단계</th><th width="220">정의</th><th>대한폐경학회 용어 대응</th></tr></thead><tbody><tr><td>Menopausal transition, stage -2 (early)</td><td>월경 주기 변화(정상 주기에서 ＞7일 변동); 평균 4년 후 폐경</td><td>폐경이행기 (월경 주기의 변동 증가\~마지막 월경일 직전)</td></tr><tr><td>Menopausal transition, stage -1 (late)</td><td>≥2 주기 및 ≥60일 무월경</td><td></td></tr><tr><td>Postmenopause, stage +1 (early)</td><td>최종 월경부터 ＜5년</td><td>폐경주변기 (폐경이행기\~마지막 월경 후 1년, stage +1 early 일부와 중첩)</td></tr><tr><td>Postmenopause, stage +2 (late)</td><td>최종 월경부터 ≥5년</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="320.4761962890625">STRAW 단계</th><th width="429.5238037109375">정의</th></tr></thead><tbody><tr><td>Menopausal transition, stage -2 (early)</td><td>월경 주기 변화(정상 주기에서 ＞7일 변동); 평균 4년 후 폐경</td></tr><tr><td>Menopausal transition, stage -1 (late)</td><td>≥2 주기 및 ≥60일 무월경</td></tr><tr><td><em>— 마지막 월경일(FMP) —</em></td><td></td></tr><tr><td>Postmenopause, stage +1 (early)</td><td>최종 월경부터 ＜5년</td></tr><tr><td>Postmenopause, stage +2 (late)</td><td>최종 월경부터 ≥5년</td></tr></tbody></table>
 
-\[대한폐경학회]
+**\[대한폐경학회]**
+
+* 폐경이행기 : 월경 주기의 변동 증가\~마지막 월경일 직전
+* 폐경주변기 : 폐경이행기\~마지막 월경 후 1년
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -20,7 +23,7 @@
 * 난소 절제, 자궁 절제
 * 성염색체 이상(예: 터너증후군)
 
-### <mark style="color:orange;">조기 폐경 위험 인자</mark>
+#### <mark style="color:$primary;">조기 폐경 위험 인자</mark>
 
 * 조기 폐경 가족력, 유전적 소인(예: FMR1 premutation)
 * 흡연(비흡연의 경우보다 2년 단축), 음주
