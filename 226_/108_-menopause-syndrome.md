@@ -1,9 +1,4 @@
-# 폐경기증후군 (갱년기증후군) Menopause Syndrome
-
-{% hint style="info" %}
-**주요 참고 가이드라인**\
-JAMA Review(2023;329:405–420); The Menopause Society(구 NAMS) Nonhormone Therapy Position Statement(2023); ACOG Clinical Guidance; NICE NG23(2024\~2026 개정); 대한폐경학회 권고. 국내 처방 시에는 국내 허가사항 및 대한폐경학회 최신 지침을 우선 확인할 것
-{% endhint %}
+# 폐경기증후군 Menopause Syndrome
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -15,7 +10,7 @@ JAMA Review(2023;329:405–420); The Menopause Society(구 NAMS) Nonhormone Ther
 
 #### <mark style="color:$primary;">STRAW (Staging of Reproductive Aging Workshop) staging system</mark>
 
-<table><thead><tr><th width="150">STRAW 단계</th><th width="220">정의</th><th>대한폐경학회 용어 대응</th></tr></thead><tbody><tr><td>Menopausal transition, stage -2 (early)</td><td>월경 주기 변화(정상 주기에서 ＞7일 변동); 평균 4년 후 폐경</td><td rowspan="2">폐경이행기 (월경 주기의 변동 증가\~마지막 월경일 직전)</td></tr><tr><td>Menopausal transition, stage -1 (late)</td><td>≥2 주기 및 ≥60일 무월경</td></tr><tr><td>Postmenopause, stage +1 (early)</td><td>최종 월경부터 ＜5년</td><td rowspan="2">폐경주변기 (폐경이행기\~마지막 월경 후 1년, stage +1 early 일부와 중첩)</td></tr><tr><td>Postmenopause, stage +2 (late)</td><td>최종 월경부터 ≥5년</td></tr></tbody></table>
+<table><thead><tr><th width="150">STRAW 단계</th><th width="220">정의</th><th>대한폐경학회 용어 대응</th></tr></thead><tbody><tr><td>Menopausal transition, stage -2 (early)</td><td>월경 주기 변화(정상 주기에서 ＞7일 변동); 평균 4년 후 폐경</td><td>폐경이행기 (월경 주기의 변동 증가\~마지막 월경일 직전)</td></tr><tr><td>Menopausal transition, stage -1 (late)</td><td>≥2 주기 및 ≥60일 무월경</td><td></td></tr><tr><td>Postmenopause, stage +1 (early)</td><td>최종 월경부터 ＜5년</td><td>폐경주변기 (폐경이행기\~마지막 월경 후 1년, stage +1 early 일부와 중첩)</td></tr><tr><td>Postmenopause, stage +2 (late)</td><td>최종 월경부터 ≥5년</td><td></td></tr></tbody></table>
 
 \[대한폐경학회]
 
@@ -37,7 +32,7 @@ JAMA Review(2023;329:405–420); The Menopause Society(구 NAMS) Nonhormone Ther
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 불규칙 월경 : 기간 및 양의 불규칙, 과소 & 과다 월경 (☞ p.692 — *file-based cross-reference 확인 필요*)
+* 불규칙 월경 : 기간 및 양의 불규칙, 과소 & 과다 월경 (☞ p.692 — _file-based cross-reference 확인 필요_)
 * VMS : 돌발적 안면 홍조(hot flush, hot flash, 보통 2\~4분간 지속), 발한, 두근거림, 수면 장애; 중년 여성의 70%가 경험
   * stage -1\~+1 시기에 심하며 평균 4\~10년간 발생; ＞70세의 9%에서 지속
   * 폐경 전 난소 절제, 비만, 우울증, 낮은 경제/교육 수준, 흡연 여성에서 보다 심함
@@ -51,7 +46,7 @@ JAMA Review(2023;329:405–420); The Menopause Society(구 NAMS) Nonhormone Ther
 * 폐경기 estrogen 감소에 따른 외음부 및 방광-요도의 위축성 변화; 폐경 여성의 약 50\~80%가 경험(문헌마다 편차 있음)
 * 생식기 증상 : 건조, 작열, 가려움, 출혈, 질염; 성교통, 성욕 감퇴, 성 기능 저하
 * 비뇨기 증상 : 절박뇨, 배뇨통, 반복 요로 감염
-* 감별 : 외음부/요로 감염 (☞ p.622, p.658 — *file-based cross-reference 확인 필요*), 자극성 피부염(예: 향수, 탈취제, 비누, 윤활제, 패드, 팬티), 암, pelvic floor dysfunction
+* 감별 : 외음부/요로 감염 (☞ p.622, p.658 — _file-based cross-reference 확인 필요_), 자극성 피부염(예: 향수, 탈취제, 비누, 윤활제, 패드, 팬티), 암, pelvic floor dysfunction
 
 ***
 
@@ -95,7 +90,7 @@ JAMA Review(2023;329:405–420); The Menopause Society(구 NAMS) Nonhormone Ther
 * 기타
   * progesterone challenge test : medroxyprogesterone 10\~20 ㎎ PO or progesterone 100 ㎎ IM 후 withdrawal bleeding이 없으면 hypoestrogenic state 추정
   * 골반 초음파
-  * 골밀도(DXA) : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 — *file-based cross-reference 확인 필요*)
+  * 골밀도(DXA) : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 — _file-based cross-reference 확인 필요_)
   * mammogram : \[국가암검진] 40\~69세에서 2년마다; \[USPSTF] 50\~74세 여성에서 2년마다
   * 폐경기 관련 또는 연령에 따른 검사
 
@@ -103,7 +98,7 @@ JAMA Review(2023;329:405–420); The Menopause Society(구 NAMS) Nonhormone Ther
 
 * HRT 시행 전 및 시행 중 임상 증상과 위험 인자에 따라 1\~2년마다 시행
 * mammogram : 50\~74세 여성에서 2년마다 권고 \[USPSTF]
-* DXA 골밀도 검사 : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 — *file-based cross-reference 확인 필요*)
+* DXA 골밀도 검사 : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 — _file-based cross-reference 확인 필요_)
 * 대한폐경학회 권고 검사 항목
   * 기본 : 빈혈, 공복 혈당, LFT, RFT, 지질; mammography, BMD, Pap smear
   * 선택 : TFT, 유방 초음파, 자궁내막생검
@@ -228,7 +223,7 @@ graph TD
 
 #### <mark style="color:$primary;">수면 개선</mark>
 
-(☞ p.138 — *file-based cross-reference 확인 필요, 예: [불면증](029_-insomnia-sleep-disorder.md)*)
+(☞ p.138 — _file-based cross-reference 확인 필요, 예:_ [_불면증_](029_-insomnia-sleep-disorder.md))
 
 * 규칙적 식사, 과식을 피하고 식사를 거르지 않음
 * 늦은 밤 식사 또는 과한 스낵 섭취를 피함
@@ -241,7 +236,7 @@ graph TD
 * 금연, 음주 제한
 * 건강식, 적정 체중 유지
 * 이상지질혈증, 당뇨병, 고혈압 관리
-* 칼슘 섭취(800\~1,200 ㎎/d), Vit D 섭취(800\~1200 IU/d) (☞ p.806 — *file-based cross-reference 확인 필요*)
+* 칼슘 섭취(800\~1,200 ㎎/d), Vit D 섭취(800\~1200 IU/d) (☞ p.806 — _file-based cross-reference 확인 필요_)
   * ✽저용량 aspirin의 심혈관 1차 예방 목적 투여는 더 이상 일률적으로 권고되지 않음(USPSTF); 개별 심혈관 위험도에 따라 판단
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -286,7 +281,7 @@ graph TD
 
 #### <mark style="color:$primary;">약제 종류</mark>
 
-* 종류 : estrogen 및 progesterone 단독 또는 복합 (보험기준 ☞ p.1192 — *file-based cross-reference 확인 필요*)
+* 종류 : estrogen 및 progesterone 단독 또는 복합 (보험기준 ☞ p.1192 — _file-based cross-reference 확인 필요_)
   * body-identical 제제(예: estradiol, progesterone, testosterone)가 non-identical 제제(예: ethinyl estradiol, synthetic progestogen)보다 안전성이 더 우수할 가능성이 일부 연구에서 제시됨; 특히 micronized progesterone과 estradiol 조합이 합성 progestin에 비해 유방암 및 정맥혈전 위험이 낮을 가능성이 보고됨
 * 용량 : 저용량으로 시작하여 최소 유효 용량 투여 (✽저용량 사용 시 부작용 발생이 감소함)
 
@@ -306,7 +301,7 @@ graph TD
 ### <mark style="color:orange;">Estrogen</mark>
 
 * 부작용 : (호르몬 치료의 위험 외) 두통, 유방통, 자궁내막 증식, 자궁 출혈, 소화불량
-  * HRT 후 자궁 출혈 대처 : HRT 시작 후 첫 6개월 이내, 또는 용량·제제를 변경한 후 3개월 이내에 발생하는 소량의 출혈은 흔하며 그 자체로 자궁내막 조직검사가 필수적이지는 않음(NICE NG23, 2026년 개정); 이 기간을 벗어난 비정상 출혈은 즉시 평가 필요. 폐경 2년 이내에는 병합주기요법을 사용하다가 이후 병합지속요법으로 변경할 것을 권고; 자궁내막 sampling을 하지 못하거나 조직 검사상 불충분한 결과를 보였으나 초음파 검사로 확인이 안 되는 경우에는 자궁내막조직검사 등의 추가 검사 시행; 조직 검사에서 자궁내막의 병변을 배제하였으나 HRT 중 출혈이 지속되는 경우 저용량 estrogen 함유 제제를 사용하거나 tibolone 또는 TSEC 제제로의 변경 고려 \[폐경학회보](2021:30;76)
+  * HRT 후 자궁 출혈 대처 : HRT 시작 후 첫 6개월 이내, 또는 용량·제제를 변경한 후 3개월 이내에 발생하는 소량의 출혈은 흔하며 그 자체로 자궁내막 조직검사가 필수적이지는 않음(NICE NG23, 2026년 개정); 이 기간을 벗어난 비정상 출혈은 즉시 평가 필요. 폐경 2년 이내에는 병합주기요법을 사용하다가 이후 병합지속요법으로 변경할 것을 권고; 자궁내막 sampling을 하지 못하거나 조직 검사상 불충분한 결과를 보였으나 초음파 검사로 확인이 안 되는 경우에는 자궁내막조직검사 등의 추가 검사 시행; 조직 검사에서 자궁내막의 병변을 배제하였으나 HRT 중 출혈이 지속되는 경우 저용량 estrogen 함유 제제를 사용하거나 tibolone 또는 TSEC 제제로의 변경 고려 \[폐경학회보]\(2021:30;76)
 
 #### <mark style="color:$primary;">경구용</mark>
 
@@ -427,7 +422,7 @@ graph TD
 
 #### <mark style="color:$primary;">항우울제 : SSRI, SNRI</mark>
 
-(☞ p.1146 — *file-based cross-reference 확인 필요*)
+(☞ p.1146 — _file-based cross-reference 확인 필요_)
 
 * paroxetine : 7.5\~25 ㎎/d <mark style="color:blue;">\[세로자트]</mark> (✽VMS 치료에 대하여 FDA 승인)
 * venlafaxine : 37.5(시작)\~150 ㎎/d <mark style="color:blue;">\[이팩사]</mark>
@@ -444,7 +439,7 @@ graph TD
 
 #### <mark style="color:$primary;">항경련제</mark>
 
-* gabapentin : 100\~300 ㎎ 야간으로 시작, 900\~2400 ㎎/d #3 <mark style="color:blue;">\[뉴론틴]</mark> (☞ p.13 — *file-based cross-reference 확인 필요*)
+* gabapentin : 100\~300 ㎎ 야간으로 시작, 900\~2400 ㎎/d #3 <mark style="color:blue;">\[뉴론틴]</mark> (☞ p.13 — _file-based cross-reference 확인 필요_)
 
 #### <mark style="color:$primary;">도파민 대항제</mark>
 
