@@ -10,7 +10,7 @@
 
 <mark style="color:cyan;">**STRAW (Staging of Reproductive Aging Workshop) staging system**</mark>
 
-<table><thead><tr><th width="320.4761962890625">STRAW 단계</th><th width="429.5238037109375">정의</th></tr></thead><tbody><tr><td>Menopausal transition, stage -2 (early)</td><td>월경 주기 변화(정상 주기에서 ＞7일 변동); 평균 4년 후 폐경</td></tr><tr><td>Menopausal transition, stage -1 (late)</td><td>≥2 주기 및 ≥60일 무월경</td></tr><tr><td><em>— 마지막 월경일(FMP) —</em></td><td></td></tr><tr><td>Postmenopause, stage +1 (early)</td><td>최종 월경부터 ＜5년</td></tr><tr><td>Postmenopause, stage +2 (late)</td><td>최종 월경부터 ≥5년</td></tr></tbody></table>
+<table><thead><tr><th width="320.4761962890625">STRAW 단계</th><th width="429.5238037109375">정의</th></tr></thead><tbody><tr><td>Menopausal transition, stage -2 (early)</td><td>월경 주기 변화(정상 주기에서 ＞7일 변동); 평균 4년 후 폐경</td></tr><tr><td>Menopausal transition, stage -1 (late)</td><td>≥2 주기 및 ≥60일 무월경</td></tr><tr><td><em>- 마지막 월경일(FMP) -</em></td><td></td></tr><tr><td>Postmenopause, stage +1 (early)</td><td>최종 월경부터 ＜5년</td></tr><tr><td>Postmenopause, stage +2 (late)</td><td>최종 월경부터 ≥5년</td></tr></tbody></table>
 
 **\[대한폐경학회]**
 
@@ -35,7 +35,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 불규칙 월경 : 기간 및 양의 불규칙, 과소 & 과다 월경 (☞ p.692 — _file-based cross-reference 확인 필요_)
+* 불규칙 월경 : 기간 및 양의 불규칙, 과소 & 과다 월경 (☞ p.692 - _file-based cross-reference 확인 필요_)
 * VMS : 돌발적 안면 홍조(hot flush, hot flash, 보통 2\~4분간 지속), 발한, 두근거림, 수면 장애; 중년 여성의 70%가 경험
   * stage -1\~+1 시기에 심하며 평균 4\~10년간 발생; ＞70세의 9%에서 지속
   * 폐경 전 난소 절제, 비만, 우울증, 낮은 경제/교육 수준, 흡연 여성에서 보다 심함
@@ -49,7 +49,7 @@
 * 폐경기 estrogen 감소에 따른 외음부 및 방광-요도의 위축성 변화; 폐경 여성의 약 50\~80%가 경험(문헌마다 편차 있음)
 * 생식기 증상 : 건조, 작열, 가려움, 출혈, 질염; 성교통, 성욕 감퇴, 성 기능 저하
 * 비뇨기 증상 : 절박뇨, 배뇨통, 반복 요로 감염
-* 감별 : 외음부/요로 감염 (☞ p.622, p.658 — _file-based cross-reference 확인 필요_), 자극성 피부염(예: 향수, 탈취제, 비누, 윤활제, 패드, 팬티), 암, pelvic floor dysfunction
+* 감별 : 외음부/요로 감염 (☞ p.622, p.658 - _file-based cross-reference 확인 필요_), 자극성 피부염(예: 향수, 탈취제, 비누, 윤활제, 패드, 팬티), 암, pelvic floor dysfunction
 
 ***
 
@@ -93,7 +93,7 @@
 * 기타
   * progesterone challenge test : medroxyprogesterone 10\~20 ㎎ PO or progesterone 100 ㎎ IM 후 withdrawal bleeding이 없으면 hypoestrogenic state 추정
   * 골반 초음파
-  * 골밀도(DXA) : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 — _file-based cross-reference 확인 필요_)
+  * 골밀도(DXA) : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 - _file-based cross-reference 확인 필요_)
   * mammogram : \[국가암검진] 40\~69세에서 2년마다; \[USPSTF] 50\~74세 여성에서 2년마다
   * 폐경기 관련 또는 연령에 따른 검사
 
@@ -101,7 +101,7 @@
 
 * HRT 시행 전 및 시행 중 임상 증상과 위험 인자에 따라 1\~2년마다 시행
 * mammogram : 50\~74세 여성에서 2년마다 권고 \[USPSTF]
-* DXA 골밀도 검사 : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 — _file-based cross-reference 확인 필요_)
+* DXA 골밀도 검사 : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 - _file-based cross-reference 확인 필요_)
 * 대한폐경학회 권고 검사 항목
   * 기본 : 빈혈, 공복 혈당, LFT, RFT, 지질; mammography, BMD, Pap smear
   * 선택 : TFT, 유방 초음파, 자궁내막생검
@@ -203,7 +203,7 @@ graph TD
 국내 허가사항에는 자동으로 반영되지 않으므로, 실제 처방 시에는 국내 식약처 허가사항 및 대한폐경학회 최신 지침을 확인할 것
 {% endhint %}
 
-**※ Vasomotor symptoms(VMS)에 대한 치료 효과 비교 (역사적 비교 자료, 2011년 기준 — 아래 각주의 최신 권고와 함께 참고)**
+**※ Vasomotor symptoms(VMS)에 대한 치료 효과 비교 (역사적 비교 자료, 2011년 기준 - 아래 각주의 최신 권고와 함께 참고)**
 
 <table data-header-hidden data-search="false"><thead><tr><th width="255"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Method</strong></td><td><strong>용량</strong></td><td><strong>완화 정도</strong></td></tr><tr><td><strong>Estrogen</strong></td><td></td><td>80~90%</td></tr><tr><td><strong>Progestogen</strong></td><td></td><td></td></tr><tr><td>megestrol <mark style="color:blue;">\[메게이스]</mark></td><td>40 mg/d</td><td>85%</td></tr><tr><td>MPA <mark style="color:blue;">\[프로베라]</mark></td><td>20 mg/d</td><td>85%</td></tr><tr><td>MPA (q2wk IM)</td><td>500 mg</td><td>85%</td></tr><tr><td>경피 progesterone</td><td>20 mg/d</td><td>85%</td></tr><tr><td><strong>Phytoestrogen</strong></td><td></td><td></td></tr><tr><td>soy</td><td></td><td>일부*</td></tr><tr><td>black cohosh <mark style="color:blue;">\[지노큐에스]</mark></td><td>40 mg/d</td><td>일부*</td></tr><tr><td><strong>항우울제</strong></td><td></td><td></td></tr><tr><td>fluoxetine <mark style="color:blue;">\[프로작]</mark></td><td>20 mg/d</td><td>50%</td></tr><tr><td>paroxetine <mark style="color:blue;">\[세로자트]</mark></td><td>12.5~25 mg/d</td><td>60~65%</td></tr><tr><td>venlafaxine <mark style="color:blue;">\[이팩사]</mark></td><td>75 mg/d</td><td>60%</td></tr><tr><td><strong>기타</strong></td><td></td><td></td></tr><tr><td>clonidine</td><td>0.1 mg/d</td><td>38~78%</td></tr><tr><td>gabapentin <mark style="color:blue;">\[뉴론틴]</mark></td><td>900 mg/d</td><td>45%</td></tr><tr><td>Vit E</td><td>800 IU/d</td><td>일부*</td></tr><tr><td>위약</td><td></td><td>20~50%</td></tr></tbody></table>
 
@@ -226,7 +226,7 @@ graph TD
 
 #### <mark style="color:$primary;">수면 개선</mark>
 
-(☞ p.138 — _file-based cross-reference 확인 필요, 예:_ [_불면증_](029_-insomnia-sleep-disorder.md))
+(☞ p.138 - _file-based cross-reference 확인 필요, 예:_ [_불면증_](029_-insomnia-sleep-disorder.md))
 
 * 규칙적 식사, 과식을 피하고 식사를 거르지 않음
 * 늦은 밤 식사 또는 과한 스낵 섭취를 피함
@@ -239,7 +239,7 @@ graph TD
 * 금연, 음주 제한
 * 건강식, 적정 체중 유지
 * 이상지질혈증, 당뇨병, 고혈압 관리
-* 칼슘 섭취(800\~1,200 ㎎/d), Vit D 섭취(800\~1200 IU/d) (☞ p.806 — _file-based cross-reference 확인 필요_)
+* 칼슘 섭취(800\~1,200 ㎎/d), Vit D 섭취(800\~1200 IU/d) (☞ p.806 - _file-based cross-reference 확인 필요_)
   * ✽저용량 aspirin의 심혈관 1차 예방 목적 투여는 더 이상 일률적으로 권고되지 않음(USPSTF); 개별 심혈관 위험도에 따라 판단
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -284,7 +284,7 @@ graph TD
 
 #### <mark style="color:$primary;">약제 종류</mark>
 
-* 종류 : estrogen 및 progesterone 단독 또는 복합 (보험기준 ☞ p.1192 — _file-based cross-reference 확인 필요_)
+* 종류 : estrogen 및 progesterone 단독 또는 복합 (보험기준 ☞ p.1192 - _file-based cross-reference 확인 필요_)
   * body-identical 제제(예: estradiol, progesterone, testosterone)가 non-identical 제제(예: ethinyl estradiol, synthetic progestogen)보다 안전성이 더 우수할 가능성이 일부 연구에서 제시됨; 특히 micronized progesterone과 estradiol 조합이 합성 progestin에 비해 유방암 및 정맥혈전 위험이 낮을 가능성이 보고됨
 * 용량 : 저용량으로 시작하여 최소 유효 용량 투여 (✽저용량 사용 시 부작용 발생이 감소함)
 
@@ -327,7 +327,7 @@ graph TD
 * 유방암 환자에서 사용 시 주의 필요(유방암 병력자도 종양내과와 상의 후 사용 가능한 경우가 있다는 최근 견해가 늘고 있음)
 * 저용량 질 국소 estrogen은 전신 흡수가 미미하여 정기적인 자궁내막 검사(routine endometrial surveillance)가 권고되지 않음(NAMS, ACOG); 비정상 출혈 등 증상이 있을 때만 평가
 * 2025 AUA/SUFU/AUGS GSM 임상지침 역시 저용량 질 에스트로겐이 유방암·자궁내막암 위험 증가와 관련이 없는 것으로 평가하며, 질 건조감·성교통에 가장 강한 권고 등급을 부여(대한폐경학회 제65차 춘계연수강좌, 2026)
-* 자궁이 있는 경우에도 progesterone 병용은 필요 없음(NAMS/ACOG/AUA 공통 입장) — ✽다만 국내 임상에서는 병용을 고려하는 경우도 있어 개별 기관·의사의 판단 및 국내 지침을 함께 확인할 것
+* 자궁이 있는 경우에도 progesterone 병용은 필요 없음(NAMS/ACOG/AUA 공통 입장) - ✽다만 국내 임상에서는 병용을 고려하는 경우도 있어 개별 기관·의사의 판단 및 국내 지침을 함께 확인할 것
 * 제형 : emulsion, 겔, 스프레이, 크림, 질정, vaginal ring; 흡수의 차이로 도포제보다 링 선호
 * 용법 : 1\~2주간 매일 도포/삽입 → 이후 주 2회 지속
 * estriol 질좌제 0.5 ㎎ <mark style="color:blue;">\[오베스틴 질좌제]</mark> : 취침 시 질 내 깊숙이 삽입; 증상 완화까지 통상 1일 1회(보통 3주), 유지요법은 주 2회 1개
@@ -339,7 +339,7 @@ graph TD
 * VMS 완화에 유효
 * estrogen 투여 시 자궁 부작용 예방을 위해 병합
 * 부작용 : 성욕 감소, 월경 불순, 어지럼, 부종, 과민, 불면, 유방통, 유방암, 안면 홍조
-* micronized progesterone이 보다 안전한 것으로 알려짐 — 합성 progestin에 비해 유방암 및 정맥혈전 위험이 낮을 가능성이 제기됨
+* micronized progesterone이 보다 안전한 것으로 알려짐 - 합성 progestin에 비해 유방암 및 정맥혈전 위험이 낮을 가능성이 제기됨
 
 #### <mark style="color:$primary;">경구용</mark>
 
@@ -360,7 +360,7 @@ graph TD
 * estrogen 단독 투여보다 자궁내막증과 자궁암 발생을 예방
 * 자궁이 있는 여성은 estrogen 투여 시 반드시 progestogen을 함께 투여함
 
-#### <mark style="color:$primary;">경구용 — progesterone 지속 요법</mark>
+#### <mark style="color:$primary;">경구용 - progesterone 지속 요법</mark>
 
 * 저용량 progesterone 지속 병합 요법 : 질 출혈은 감소하나 progesterone 부작용(예: 유방암 위험) 증가 논란; 천연 progesterone 또는 국소제를 사용하는 경우 부작용이 감소될 수 있음
 * 초저용량 estradiol/progestogen 지속 요법 : 고용량 수준의 효과가 유지되며 부작용이 적음
@@ -368,7 +368,7 @@ graph TD
 * estradiol valerate/MPA <mark style="color:blue;">\[인디비나]</mark>
 * estradiol hemihydrate/norethisterone <mark style="color:blue;">\[에스디올 하프]</mark>, <mark style="color:blue;">\[크리안]</mark>
 
-#### <mark style="color:$primary;">경구용 — progesterone 간헐 요법</mark>
+#### <mark style="color:$primary;">경구용 - progesterone 간헐 요법</mark>
 
 * progesterone 간헐 병합 요법 : 자궁의 주기적 위축에 따른 질 출혈 발생
 * long-cycle therapy : 병합 요법에서 3개월마다 14일간 progestogen 투여로 유방에 대한 progestogen 노출을 줄임. 자궁에 대한 영향은 정보가 부족함
@@ -407,7 +407,7 @@ graph TD
 
 ### <mark style="color:orange;">Testosterone</mark>
 
-* 질 위축(GSM) 자체의 1차 치료제가 아님 — 국소 estrogen, 보습제/윤활제 등 표준 치료 우선
+* 질 위축(GSM) 자체의 1차 치료제가 아님 - 국소 estrogen, 보습제/윤활제 등 표준 치료 우선
 * 적응증은 폐경 후 hypoactive sexual desire disorder(HSDD)로 제한됨; 적절한 병력 청취와 타 원인(관계 문제, 우울, 약물 부작용 등) 배제 후 전문의 평가 하에 고려 (☞ ISSWSH/NAMS 2019 global consensus position statement)
 * 국내 여성용 허가 제제는 없으며 남성용 제제를 초저용량으로 오프라벨 사용하는 경우가 있어 신중한 용량 조절과 안드로겐 과다 부작용(다모증, 여드름, 남성형 탈모 등) 모니터링이 필요함
 * ISSWSH/NAMS 2019 global consensus : 혈중 testosterone 농도를 정상 폐경 전 여성 범위 이상으로 올리는 치료는 권고하지 않음; 치료 전·후 혈중 농도 모니터링 권장
@@ -425,7 +425,7 @@ graph TD
 
 #### <mark style="color:$primary;">항우울제 : SSRI, SNRI</mark>
 
-(☞ p.1146 — _file-based cross-reference 확인 필요_)
+(☞ p.1146 - _file-based cross-reference 확인 필요_)
 
 * paroxetine : 7.5\~25 ㎎/d <mark style="color:blue;">\[세로자트]</mark> (✽VMS 치료에 대하여 FDA 승인)
 * venlafaxine : 37.5(시작)\~150 ㎎/d <mark style="color:blue;">\[이팩사]</mark>
@@ -442,11 +442,11 @@ graph TD
 
 #### <mark style="color:$primary;">항경련제</mark>
 
-* gabapentin : 100\~300 ㎎ 야간으로 시작, 900\~2400 ㎎/d #3 <mark style="color:blue;">\[뉴론틴]</mark> (☞ p.13 — _file-based cross-reference 확인 필요_)
+* gabapentin : 100\~300 ㎎ 야간으로 시작, 900\~2400 ㎎/d #3 <mark style="color:blue;">\[뉴론틴]</mark> (☞ p.13 - _file-based cross-reference 확인 필요_)
 
 #### <mark style="color:$primary;">도파민 대항제</mark>
 
-* veralipride : 100 ㎎ qd ×20d/m — ✽지연성 운동장애 등 추체외로 부작용 및 우울증·자살 위험 문제로 유럽 등에서 시장 철수(Obsolete)된 약제; 국내 임상에서도 사실상 사용되지 않으며 처방을 권장하지 않음
+* veralipride : 100 ㎎ qd ×20d/m - ✽지연성 운동장애 등 추체외로 부작용 및 우울증·자살 위험 문제로 유럽 등에서 시장 철수(Obsolete)된 약제; 국내 임상에서도 사실상 사용되지 않으며 처방을 권장하지 않음
 
 #### <mark style="color:$primary;">Neurokinin 수용체 대항제</mark>
 
@@ -463,7 +463,7 @@ graph TD
 * estrogen 작용제 특성을 가짐; 폐경 증상 완화 및 골격/심혈관계에 약간의 도움이 될 것으로 보임
 * 장기적인 효과와 안전성이 확인되지 않음
 * 환자가 원하는 경우 음식으로 섭취 권고; 콩, 두부, 아마씨, 참깨, 산딸기, 귀리, 보리, 말린 콩, 렌즈콩, 쌀, 녹두, 사과, 당근, 밀
-* black cohosh(승마 추출물) <mark style="color:blue;">\[지노큐에스]</mark> — ✽2023년 The Menopause Society(구 NAMS) 비호르몬 치료 지침에서는 근거 부족으로 권고하지 않음(Level II/III); 처방 시 환자에게 근거 수준을 설명할 것
+* black cohosh(승마 추출물) <mark style="color:blue;">\[지노큐에스]</mark> - ✽2023년 The Menopause Society(구 NAMS) 비호르몬 치료 지침에서는 근거 부족으로 권고하지 않음(Level II/III); 처방 시 환자에게 근거 수준을 설명할 것
 
 #### <mark style="color:$primary;">위약 이상의 효과가 없는 것으로 연구된 대체 요법</mark>
 
@@ -532,7 +532,7 @@ M81.0 폐경후골다공증
 >
 > _✽tibolone(STEAR); 유방과 자궁내막 자극이 적어 불규칙 질 출혈 및 유방 통증이 적음; 유방암 병력자는 금기_
 
-> **처방례 4. GSM(질 위축)만 있는 경우 — 국소 요법**
+> **처방례 4. GSM(질 위축)만 있는 경우 - 국소 요법**
 >
 > ```
 > 오베스틴 질좌제 0.5 ㎎  취침 시 질내 삽입  매일 ×3주 → 이후 주 2회 유지
@@ -540,7 +540,7 @@ M81.0 폐경후골다공증
 >
 > _✽estriol 질좌제; 전신 흡수가 미미하여 자궁이 있는 경우에도 progesterone 병용이 필요하지 않으며, 정기적인 자궁내막 검사도 필요하지 않음(비정상 출혈 등 증상이 있을 때만 평가); estradiol hemihydrate 겔(에스트레바 겔 등)은 경피 흡수용 제제로 질 국소 치료에는 사용하지 않음_
 
-> **처방례 5. HRT를 사용할 수 없거나 원하지 않는 경우 — 비호르몬 요법**
+> **처방례 5. HRT를 사용할 수 없거나 원하지 않는 경우 - 비호르몬 요법**
 >
 > ```
 > 세로자트 20 ㎎/T  1T  qd  아침
@@ -552,7 +552,7 @@ M81.0 폐경후골다공증
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **HRT 복약 지도 — 복용 원칙**
+> **HRT 복약 지도 - 복용 원칙**
 >
 > * 자궁이 있는 환자에게는 estrogen 단독 투여 금지; 반드시 progestogen을 병합하여 자궁내막 보호
 > * 저용량으로 시작하여 최소 유효 용량을 유지하는 것이 부작용을 줄이는 원칙임을 설명
@@ -572,9 +572,9 @@ M81.0 폐경후골다공증
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 마지막 월경 후 12개월 이상 무월경 이후 새로 발생한 질 출혈 — 즉시 내원
-> * HRT 사용 중 한쪽 다리의 부종·통증, 갑작스런 흉통·호흡곤란, 편측 위약·언어장애 — 즉시 내원 또는 응급실
-> * 유방에서 새로 만져지는 종괴나 유두 분비물 — 즉시 내원
+> * 마지막 월경 후 12개월 이상 무월경 이후 새로 발생한 질 출혈 - 즉시 내원
+> * HRT 사용 중 한쪽 다리의 부종·통증, 갑작스런 흉통·호흡곤란, 편측 위약·언어장애 - 즉시 내원 또는 응급실
+> * 유방에서 새로 만져지는 종괴나 유두 분비물 - 즉시 내원
 > * 표준 치료 4\~8주 후에도 안면 홍조 등 증상이 호전되지 않는 경우
 
 ### <mark style="color:blue;">환자 안내서</mark>
