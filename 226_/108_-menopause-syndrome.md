@@ -100,7 +100,7 @@
 
 * HRT 시행 전 및 시행 중 임상 증상과 위험 인자에 따라 1\~2년마다 시행
 * Mammogram : 50\~74세 여성에서 2년마다 권고 \[USPSTF]
-* DXA 골밀도 검사 : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행&#x20;
+* DXA 골밀도 검사 : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행
 
 **대한폐경학회 권고 검사 항목**
 
@@ -197,35 +197,30 @@ graph TD
 
 {% hint style="info" %}
 **폐경호르몬치료(HT) 라벨링 업데이트** (2026년) : 2025년 11월 미국 FDA는 2003년부터 유지되어 온 전신 및 질 국소 **폐경호르몬치료제의 boxed warning(black box warning) 제거를 발표**함(2026년 2월 첫 제품군 라벨 개정 승인). 이는 WHI 연구 참가자의 평균 연령이 실제 초기 폐경 임상 대상보다 높았고 사용된 CEE+MPA 조합도 현재 임상과 차이가 있었다는 재평가에 따른 것으로, 폐경 후 10년 이내 또는 60세 이전에 치료를 시작하는 경우(timing hypothesis) 총사망률 및 관상동맥질환 위험이 오히려 감소할 가능성이 제시됨.\
-다만 NICE NG23(2026 개정)은 여전히 **HRT를 심혈관질환의 1차/2차 예방 목적, 또는 치매 예방 목적으로 사용하지 말 것**을 명시하고 있어, HT의 심혈관·인지 관련 이득은 증상 치료의 부수적 효과로 해석해야 하며 예방적 적응증으로 확대 해석하지 않도록 주의.&#x20;
+다만 NICE NG23(2026 개정)은 여전히 **HRT를 심혈관질환의 1차/2차 예방 목적, 또는 치매 예방 목적으로 사용하지 말 것**을 명시하고 있어, HT의 심혈관·인지 관련 이득은 증상 치료의 부수적 효과로 해석해야 하며 예방적 적응증으로 확대 해석하지 않도록 주의.
 {% endhint %}
 
 **Vasomotor symptoms(VMS)에 대한 치료 효과 비교**
 
-<table data-header-hidden data-search="false"><thead><tr><th width="255"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Method</strong></td><td><strong>용량</strong></td><td><strong>완화 정도</strong></td></tr><tr><td><strong>Estrogen</strong></td><td></td><td>80~90%</td></tr><tr><td><strong>Progestogen</strong></td><td></td><td></td></tr><tr><td>megestrol <mark style="color:blue;">\[메게이스]</mark></td><td>40 ㎎/d</td><td>85%</td></tr><tr><td>MPA <mark style="color:blue;">\[프로베라]</mark></td><td>20 ㎎/d</td><td>85%</td></tr><tr><td>MPA (q2wk IM)</td><td>500 ㎎</td><td>85%</td></tr><tr><td>경피 progesterone</td><td>20 ㎎/d</td><td>85%</td></tr><tr><td><strong>Phytoestrogen</strong></td><td></td><td></td></tr><tr><td>soy</td><td></td><td>일부*</td></tr><tr><td>black cohosh <mark style="color:blue;">\[지노큐에스]</mark></td><td>40 ㎎/d</td><td>일부*</td></tr><tr><td><strong>항우울제</strong></td><td></td><td></td></tr><tr><td>fluoxetine <mark style="color:blue;">\[프로작]</mark></td><td>20 ㎎/d</td><td>50%</td></tr><tr><td>paroxetine <mark style="color:blue;">\[세로자트]</mark></td><td>12.5~25 ㎎/d</td><td>60~65%</td></tr><tr><td>venlafaxine <mark style="color:blue;">\[이팩사]</mark></td><td>75 ㎎/d</td><td>60%</td></tr><tr><td><strong>기타</strong></td><td></td><td></td></tr><tr><td>clonidine</td><td>0.1 ㎎/d</td><td>38~78%</td></tr><tr><td>gabapentin <mark style="color:blue;">\[뉴론틴]</mark></td><td>900 ㎎/d</td><td>45%</td></tr><tr><td>Vit E</td><td>800 IU/d</td><td>일부*</td></tr><tr><td>위약</td><td></td><td>20~50%</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th width="255"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Method</strong></td><td><strong>용량</strong></td><td><strong>완화 정도</strong></td></tr><tr><td><strong>Estrogen</strong></td><td></td><td>80~90%</td></tr><tr><td><strong>Progestogen</strong></td><td></td><td></td></tr><tr><td>megestrol <mark style="color:blue;">[메게이스]</mark></td><td>40 ㎎/d</td><td>85%</td></tr><tr><td>MPA <mark style="color:blue;">[프로베라]</mark></td><td>20 ㎎/d</td><td>85%</td></tr><tr><td>MPA (q2wk IM)</td><td>500 ㎎</td><td>85%</td></tr><tr><td>경피 progesterone</td><td>20 ㎎/d</td><td>85%</td></tr><tr><td><strong>Phytoestrogen</strong></td><td></td><td></td></tr><tr><td>soy</td><td></td><td>일부¹⁾</td></tr><tr><td>black cohosh <mark style="color:blue;">[지노큐에스]</mark></td><td>40 ㎎/d</td><td>일부¹⁾</td></tr><tr><td><strong>항우울제</strong></td><td></td><td></td></tr><tr><td>fluoxetine <mark style="color:blue;">[프로작]</mark></td><td>20 ㎎/d</td><td>50%</td></tr><tr><td>paroxetine²⁾ <mark style="color:blue;">[세로자트]</mark></td><td>12.5~25 ㎎/d</td><td>60~65%</td></tr><tr><td>venlafaxine <mark style="color:blue;">[이팩사]</mark></td><td>75 ㎎/d</td><td>60%</td></tr><tr><td><strong>기타</strong></td><td></td><td></td></tr><tr><td>clonidine</td><td>0.1 ㎎/d</td><td>38~78%</td></tr><tr><td>gabapentin <mark style="color:blue;">[뉴론틴]</mark></td><td>900 ㎎/d</td><td>45%</td></tr><tr><td>Vit E</td><td>800 IU/d</td><td>일부¹⁾</td></tr><tr><td>위약</td><td></td><td>20~50%</td></tr></tbody></table>
 
-\*일부 환자에서 효과; 다만 2023년 The Menopause Society 비호르몬 치료 지침은 soy·black cohosh 등 phytoestrogen을 근거 부족으로 권고하지 않음(위 표는 2011년 자료로 병기 근거 수준이 이후 재평가되었음에 유의) Ref. AACE. Menopause guidelines, Endocr Pract. 2011;17(Suppl 6).
-
-✽paroxetine은 표에 제시된 항우울제 중 VMS 치료에 대하여 미국 FDA 승인을 받은 유일한 비호르몬 약제임(저용량 제제, 상품명 Brisdelle)
-
-***
+_¹⁾ 일부 환자에서 효과; 다만 2023 The Menopause Society 비호르몬 치료 지침은 soy·black cohosh 등 phytoestrogen을 근거 부족으로 권고하지 않음_\
+_²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 대하여 FDA 승인을 받은 유일한 비호르몬 약제임_
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 #### <mark style="color:$primary;">안면 홍조 개선</mark>
 
 * 충분한 수분 섭취, 홍조가 시작될 때 시원한 음료 섭취; 맵거나 뜨거운 음식 회피, 음주 회피
-* 덥지 않게 함. 서늘한 방에서 취침, 면제품 침대 시트
-* 면제품 옷 선택, 더울 때 적절히 옷을 벗을 수 있도록 여러 겹으로 착용; 조이는 옷 회피
+* 덥지 않게 함; 서늘한 방에서 취침, 면제품 침대 시트
+* 더울 때 적절히 옷을 벗을 수 있도록 여러 겹으로 착용; 면제품 옷 선택, 조이는 옷 회피
 * 평소 충분한 운동, 적절한 체중 유지, 명상
-  * 주위 온도를 낮춤, 선풍기 사용, 운동, 유발 인자(예: 음주, 매운 음식) 회피 등의 효과 증거는 없음
-* 폐경 특이적 인지행동치료(menopause-specific CBT) : HRT와 병용하거나, HRT가 금기이거나 원하지 않는 경우 VMS에 대한 근거 기반 치료 옵션으로 격상됨(NICE NG23, 2024년 개정; The Menopause Society 2023 Level I 근거)
+  * [ ] 위 생활습관 조언들은 경험적으로 권장되어 왔으나, 유발인자 회피·환경 온도 조절·선풍기 사용·운동 등의 효과가 무작위대조시험으로 입증된 바는 없음
+* 폐경 특이적 인지행동치료(menopause-specific CBT) : HRT와 병용하거나, HRT가 금기이거나 원하지 않는 경우 VMS에 대한 근거 기반 치료 옵션 (NICE NG23, 2024; The Menopause Society 2023)
 
 #### <mark style="color:$primary;">수면 개선</mark>
 
-(☞ p.138 - _file-based cross-reference 확인 필요, 예:_ [_불면증_](029_-insomnia-sleep-disorder.md))
-
-* 규칙적 식사, 과식을 피하고 식사를 거르지 않음
+* 규칙적 식사, 과식을 피하고 식사를 거르지 않음 (☞ [불면증](../221_/029_-insomnia-sleep-disorder.md))
 * 늦은 밤 식사 또는 과한 스낵 섭취를 피함
 * 카페인(커피, 차, 초콜릿, 콜라) 섭취 제한, 특히 오후 이후에는 피함
 * 술에 의지하여 수면하지 않음
@@ -236,8 +231,9 @@ graph TD
 * 금연, 음주 제한
 * 건강식, 적정 체중 유지
 * 이상지질혈증, 당뇨병, 고혈압 관리
-* 칼슘 섭취(800\~1,200 ㎎/d), Vit D 섭취(800\~1200 IU/d) (☞ p.806 - _file-based cross-reference 확인 필요_)
-  * ✽저용량 aspirin의 심혈관 1차 예방 목적 투여는 더 이상 일률적으로 권고되지 않음(USPSTF); 개별 심혈관 위험도에 따라 판단
+* 칼슘(800\~1,200 ㎎/d), Vit D(800\~1200 IU/d) 섭취(☞ [골다공증](../228_/149_-osteoporosis.md#ca-vit-d))
+
+- [ ] 저용량 aspirin의 심혈관 1차 예방 목적 투여는 더 이상 일률적으로 권고하지 않음 \[USPSTF]; 개별 심혈관 위험도에 따라 판단
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -245,13 +241,13 @@ graph TD
 
 #### <mark style="color:$primary;">적응증</mark>
 
-① VMS, ② 골 감소 예방, ③ estrogen 결핍(저에스트로겐 상태; 예: 조기 난소 부전), ④ GSM
+* ① VMS, ② 골 감소 예방, ③ estrogen 저하(예: 조기 난소 부전), ④ GSM
 
 #### <mark style="color:$primary;">위험과 이득</mark>
 
 * 관상동맥병 : 복합제 투여 또는 폐경 ＞10년 또는 고령자에 국한하여 가능성 제기
-  * estrogen 단독 투여 또는 ＜60세이나 폐경 10년 내 치료 시작 시 위험 증가 없음 (✽오히려 감소 가능성이 제기됨)
-* 뇌졸중 : ＜60세 또는 폐경 ＜10년에서는 위험 증가 없음; 저용량 또는 경피 투여 시 보다 안전함
+  * estrogen 단독 투여 또는 ＜60세이나 폐경 10년 내 치료 시작 시 위험 증가 없음; 오히려 감소 가능성이 제기됨
+* 뇌졸중 : ＜60세 또는 폐경 ＜10년에서는 위험 증가 없음; 저용량 또는 경피 투여 시 더 안전함
 * 정맥혈전증 : 폐경 ＞10년 또는 고령자에서 위험 증가; 치료 시작 1\~2년간 증가하고 이후 감소
   * 아시아인에서의 VTE 발병은 매우 낮음
 * 유방암
