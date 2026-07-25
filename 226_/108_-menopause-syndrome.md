@@ -86,7 +86,7 @@
 
 * ≥45세 : 일반적으로 필요 없음; 갑상선항진증 의심 시 TSH 검사, 필요시 s-hCG
 * 40\~45세 : s-hCG, prolactin, TSH, FSH
-  * Prolactin : ＞25 ng/㎖ 시 고프로락틴혈증에 의한 무월경 의심; 뇌하수체선종, 약물, 갑상선기능저하증 등 감별 필요
+  * Prolactin : ＞25 ng/㎖ 시 고프로락틴혈증에 의한 무월경 의심; 뇌하수체선종, 약물, 갑상선저하증 감별
   * FSH : ≥1개월 간격 2번 시행; ＞30 mIU/㎖ 시 난소 부전; 일부 여성에서는 폐경 이행기 중 정상 수준을 보이기도 함
 * ＜40세 : 난소 기능 평가
 * 기타
@@ -148,7 +148,7 @@ flowchart TD
     class E1,E2 blue;
 ```
 
-_\*2023 The Menopause Society은 pregabalin을 권고하지 않음_
+_\*2023 The Menopause Society(구 NAMS)는 pregabalin을 권고하지 않음_
 
 <p align="center"><strong>폐경기 VMS 치료 접근 알고리듬</strong><br><em><mark style="color:$info;">Ref. Management of Menopausal Symptoms: A Review. JAMA. 2023;329(5):405–420. Fig 1.</mark></em><br></p>
 
@@ -200,12 +200,12 @@ graph TD
 다만 NICE NG23(2026 개정)은 여전히 **HT를 심혈관질환의 1차/2차 예방 목적, 또는 치매 예방 목적으로 사용하지 말 것**을 명시하고 있어, HT의 심혈관·인지 관련 이득은 증상 치료의 부수적 효과로 해석해야 하며 예방적 적응증으로 확대 해석하지 않도록 주의.
 {% endhint %}
 
-**Vasomotor symptoms(VMS)에 대한 치료 효과 비교**
+<mark style="color:cyan;">**Vasomotor symptoms(VMS)에 대한 치료 효과 비교**</mark>
 
 <table data-header-hidden data-search="false"><thead><tr><th width="255"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Method</strong></td><td><strong>용량</strong></td><td><strong>완화 정도</strong></td></tr><tr><td><strong>Estrogen</strong></td><td></td><td>80~90%</td></tr><tr><td><strong>Progestogen</strong></td><td></td><td></td></tr><tr><td>megestrol <mark style="color:blue;">[메게이스]</mark></td><td>40 ㎎/d</td><td>85%</td></tr><tr><td>MPA <mark style="color:blue;">[프로베라]</mark></td><td>20 ㎎/d</td><td>85%</td></tr><tr><td>MPA (q2wk IM)</td><td>500 ㎎</td><td>85%</td></tr><tr><td>경피 progesterone</td><td>20 ㎎/d</td><td>85%</td></tr><tr><td><strong>Phytoestrogen</strong></td><td></td><td></td></tr><tr><td>soy</td><td></td><td>일부¹⁾</td></tr><tr><td>black cohosh <mark style="color:blue;">[지노큐에스]</mark></td><td>40 ㎎/d</td><td>일부¹⁾</td></tr><tr><td><strong>항우울제</strong></td><td></td><td></td></tr><tr><td>fluoxetine <mark style="color:blue;">[프로작]</mark></td><td>20 ㎎/d</td><td>50%</td></tr><tr><td>paroxetine²⁾ <mark style="color:blue;">[세로자트]</mark></td><td>12.5~25 ㎎/d</td><td>60~65%</td></tr><tr><td>venlafaxine <mark style="color:blue;">[이팩사]</mark></td><td>75 ㎎/d</td><td>60%</td></tr><tr><td><strong>기타</strong></td><td></td><td></td></tr><tr><td>clonidine</td><td>0.1 ㎎/d</td><td>38~78%</td></tr><tr><td>gabapentin <mark style="color:blue;">[뉴론틴]</mark></td><td>900 ㎎/d</td><td>45%</td></tr><tr><td>Vit E</td><td>800 IU/d</td><td>일부¹⁾</td></tr><tr><td>위약</td><td></td><td>20~50%</td></tr></tbody></table>
 
-_¹⁾ 일부 환자에서 효과; 다만 2023 The Menopause Society 비호르몬 치료 지침은 soy·black cohosh 등 phytoestrogen을 근거 부족으로 권고하지 않음_\
-_²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 대하여 FDA 승인을 받은 유일한 비호르몬 약제임_
+_¹⁾ 일부 환자에서 효과; 다만 2023 The Menopause Society 지침은 soy·black cohosh 등 phytoestrogen을 근거 부족으로 권고하지 않음_\
+&#xNAN;_&#xB2;⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 대하여 FDA 승인을 받은 유일한 비호르몬 약제임_
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -215,7 +215,7 @@ _²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 �
 * 덥지 않게 함; 서늘한 방에서 취침, 면제품 침대 시트
 * 더울 때 적절히 옷을 벗을 수 있도록 여러 겹으로 착용; 면제품 옷 선택, 조이는 옷 회피
 * 평소 충분한 운동, 적절한 체중 유지, 명상
-  * [ ] 위 생활습관 조언들은 경험적으로 권장되어 왔으나, 유발인자 회피·환경 온도 조절·선풍기 사용·운동 등의 효과가 무작위대조시험으로 입증된 바는 없음
+  * [ ] 위의 생활습관 조언들은 경험적으로 권장되어 왔으나, 대부분 무작위대조시험으로 입증되지 않음
 * 폐경 특이적 인지행동치료(menopause-specific CBT) : HT와 병용하거나, HT가 금기이거나 원하지 않는 경우 VMS에 대한 근거 기반 치료 옵션 (NICE NG23, 2024; The Menopause Society 2023)
 
 #### <mark style="color:$primary;">수면 개선</mark>
@@ -251,7 +251,7 @@ _²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 �
 * 정맥혈전증 : 폐경 ＞10년 또는 고령자에서 위험 증가; 치료 시작 1\~2년간 증가하고 이후 감소
   * 아시아인에서의 VTE 발병은 매우 낮음
 * 유방암
-  * conjugated estrogen/medroxyprogesterone acetate(MPA) : 5년 투여 시 천 명 당 3명 증가
+  * Conjugated estrogen/medroxyprogesterone acetate(MPA) : 5년 투여 시 천 명 당 3명 증가
   * 합성 progestin(예: MPA)에서 증가; 천연 progesterone에서는 증가되지 않았음
   * ＜4년 사용에 대하여 증가되지 않음; ＞10년 사용 시 증가 추정 . estrogen-progestogen을 1\~4년간 투여한 경우에도 유방암이 증가하였다는 보고가 있음
   * estrogen 단독 투여에서는 증가하지 않았음; WHI 20년 누적 추적 결과 오히려 유방암 발생 및 사망률이 유의하게 감소하였다는 보고가 있음(HR 0.78)
@@ -273,7 +273,8 @@ _²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 �
 * 심부정맥혈전증이나 폐색전증 등 정맥혈전증 병력
 * 조절되지 않는 중증 고혈압, 활동성 또는 최근의 동맥혈전증(예: 협심증, 심근경색)
 * 활동성 간질환, 호르몬 치료와 관련된 과민증, 지연 피부 포르피린증
-* 담낭 질환 : 주의; 경구 estrogen이 담석 위험을 높일 수 있어 담낭 질환 병력자는 경피 제형을 우선 고려; 고혈압의 경우 혈압 관리 하에 투여 가능
+* 담낭 질환 : 주의; 경구 estrogen이 담석 위험을 높일 수 있어 담낭 질환 병력자는 경피 제형을 우선 고려
+* 고혈압 : 주의; 목표혈압 관리 하에 투여 가능
 
 #### <mark style="color:$primary;">약제 종류</mark>
 
@@ -285,7 +286,8 @@ _²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 �
 
 * 자궁 적출 : estrogen 단독 요법
 * 자궁 비적출, 자궁내막증/종양 병력 : 1주기 중 ≥14일 progesterone 복합 요법
-* GSM만 있음 : 국소 estrogen, DHEA(dehydroepiandrosterone), ospemifene; 질 국소 호르몬제 사용 시 성 파트너의 흡수를 막기 위해 성 관계 12시간 이전에 적용
+* GSM만 있음 : 국소 estrogen, DHEA(dehydroepiandrosterone), ospemifene
+  * 질 국소 호르몬제 사용 시 성 파트너의 흡수를 막기 위해 성 관계 12시간 이전에 적용
 * 정맥혈전증 고위험, 고중성지방혈증, 비만, 흡연, 고혈압, ≥60세에서 시작 : 경피제
 
 #### <mark style="color:$primary;">치료 시기 및 기간</mark>
@@ -297,50 +299,53 @@ _²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 �
 ### <mark style="color:orange;">Estrogen</mark>
 
 * 부작용 : (호르몬 치료의 위험 외) 두통, 유방통, 자궁내막 증식, 자궁 출혈, 소화불량
-  * HT 후 자궁 출혈 대처 : HT 시작 후 첫 6개월 이내, 또는 용량·제제를 변경한 후 3개월 이내에 발생하는 소량의 출혈은 흔하며 그 자체로 자궁내막 조직검사가 필수적이지는 않음(NICE NG23, 2026년 개정); 이 기간을 벗어난 비정상 출혈은 즉시 평가 필요. 폐경 2년 이내에는 병합주기요법을 사용하다가 이후 병합지속요법으로 변경할 것을 권고; 자궁내막 sampling을 하지 못하거나 조직 검사상 불충분한 결과를 보였으나 초음파 검사로 확인이 안 되는 경우에는 자궁내막조직검사 등의 추가 검사 시행; 조직 검사에서 자궁내막의 병변을 배제하였으나 HT 중 출혈이 지속되는 경우 저용량 estrogen 함유 제제를 사용하거나 tibolone 또는 TSEC 제제로의 변경 고려 \[폐경학회보]\(2021:30;76)
+* HT 후 자궁 출혈 대처 : HT 시작 후 첫 6개월 이내, 또는 용량·제제를 변경한 후 3개월 이내에 발생하는 소량의 출혈은 흔하며 그 자체로 자궁내막 조직검사가 필수적이지는 않음(NICE NG23, 2026); 이 기간을 벗어난 비정상 출혈은 즉시 평가 필요
+  * 폐경 2년 이내에는 병합주기요법을 사용하다가 이후 병합지속요법으로 변경할 것을 권고
+  * 자궁내막 sampling을 하지 못하거나 조직 검사상 불충분한 결과를 보였으나 초음파 검사로 확인이 안 되는 경우에는 자궁내막조직검사 등의 추가 검사 시행
+  * 조직 검사에서 자궁내막의 병변을 배제하였으나 HT 중 출혈이 지속되는 경우 저용량 estrogen 함유 제제를 사용하거나 tibolone 또는 TSEC 제제로의 변경 고려
 
 #### <mark style="color:$primary;">경구용</mark>
 
 * 약제들 간의 효과 차이는 없음
-* ethinylestradiol : 0.01\~0.02 ㎎/d
-* conjugated equine estrogen(CEE) : 0.3 ㎎/d <mark style="color:blue;">\[프레미나]</mark>
+* Ethinylestradiol : 0.01\~0.02 ㎎/d
+* Conjugated equine estrogen(CEE) : 0.3 ㎎/d <mark style="color:blue;">\[프레미나]</mark>
 * 17-β-estradiol : 0.5\~1 ㎎/d
-* estradiol valerate : 1\~2 ㎎/d <mark style="color:blue;">\[프로기노바]</mark>
-* estradiol hemihydrate : 1\~2 ㎎/d <mark style="color:blue;">\[프레다]</mark>
+* Estradiol valerate : 1\~2 ㎎/d <mark style="color:blue;">\[프로기노바]</mark>
+* Estradiol hemihydrate : 1\~2 ㎎/d <mark style="color:blue;">\[프레다]</mark>
 
 #### <mark style="color:$primary;">경피용 (겔, 패취)</mark>
 
 * 경구 제제보다 경피 제제에서 정맥혈전색전증(VTE) 위험 증가가 낮은 것으로 알려짐
 * 고혈압, 고중성지방혈증, 담석증, 혈전색전증(뇌경색, 관상동맥병) 위험이 있을 때 선택
-* estradiol hemihydrate : 0.05\~0.1 ㎎/d 분비; 1매 주 1\~2회 부착
+* Estradiol hemihydrate : 0.05\~0.1 ㎎/d 분비; 1매 주 1\~2회 부착
 
 #### <mark style="color:$primary;">질 국소용</mark>
 
 * 질 위축에 효과; 비가역적 변화가 발생하기 전에 투여를 시작하는 것이 효과적임
-* 유방암 환자에서 사용 시 주의 필요(유방암 병력자도 종양내과와 상의 후 사용 가능한 경우가 있다는 최근 견해가 늘고 있음)
-* 저용량 질 국소 estrogen은 전신 흡수가 미미하여 정기적인 자궁내막 검사(routine endometrial surveillance)가 권고되지 않음(NAMS, ACOG); 비정상 출혈 등 증상이 있을 때만 평가
-* 2025 AUA/SUFU/AUGS GSM 임상지침 역시 저용량 질 에스트로겐이 유방암·자궁내막암 위험 증가와 관련이 없는 것으로 평가하며, 질 건조감·성교통에 가장 강한 권고 등급을 부여(대한폐경학회 제65차 춘계연수강좌, 2026)
-* 자궁이 있는 경우에도 progesterone 병용은 필요 없음(NAMS/ACOG/AUA 공통 입장) - ✽다만 국내 임상에서는 병용을 고려하는 경우도 있어 개별 기관·의사의 판단 및 국내 지침을 함께 확인할 것
+* 유방암 환자에서 사용 시 주의 필요; 유방암 병력자도 종양내과와 상의 후 사용 가능한 경우가 있다는 견해가 늘고 있음
+* 저용량 질 국소 estrogen : 유방암·자궁내막암 위험 증가와 관련이 없고\[AUA/SUFU/AUGS GSM], 전신 흡수가 미미하여 정기적인 자궁내막 검사를 권고하지 않으며\[NAMS, ACOG], 비정상 출혈 등 증상이 있을 때만 평가; 질 건조감·성교통에 가장 강한 권고 등급을 부여\[대한폐경학회 2026]
+* 자궁이 있는 경우에도 progesterone 병용은 필요 없음\[NAMS/ACOG/AUA]; 단, 국내 임상에서는 병용을 고려하는 경우가 있음
 * 제형 : emulsion, 겔, 스프레이, 크림, 질정, vaginal ring; 흡수의 차이로 도포제보다 링 선호
 * 용법 : 1\~2주간 매일 도포/삽입 → 이후 주 2회 지속
-* estriol 질좌제 0.5 ㎎ <mark style="color:blue;">\[오베스틴 질좌제]</mark> : 취침 시 질 내 깊숙이 삽입; 증상 완화까지 통상 1일 1회(보통 3주), 유지요법은 주 2회 1개
-* estradiol 질정 : 10 ㎍ 매일 ×2주, 이후 주 2회
-* ✽estradiol hemihydrate 겔(예: 에스트레바 겔)은 전신 흡수를 목적으로 하는 경피(피부 도포)용 제제이며 질 국소 치료 용도가 아니므로 GSM 처방 시 혼동하지 않도록 주의
+* Estriol 질좌제 0.5 ㎎ <mark style="color:blue;">\[오베스틴 질좌제]</mark> : 취침 시 질 내 깊숙이 삽입; 증상 완화까지 통상 1일 1회(보통 3주), 유지요법은 주 2회 1개
+* Estradiol 질정 : 10 ㎍ 매일 ×2주, 이후 주 2회
+
+- [ ] Estradiol hemihydrate 겔 <mark style="color:blue;">\[에스트레바 겔]</mark>은 전신 흡수를 목적으로 하는 경피(피부 도포)용 제제이며 질 국소 치료 용도가 아님
 
 ### <mark style="color:orange;">Progestogen</mark>
 
 * VMS 완화에 유효
-* estrogen 투여 시 자궁 부작용 예방을 위해 병합
+* Estrogen 투여 시 자궁 부작용 예방을 위해 병합
 * 부작용 : 성욕 감소, 월경 불순, 어지럼, 부종, 과민, 불면, 유방통, 유방암, 안면 홍조
-* micronized progesterone이 보다 안전한 것으로 알려짐 - 합성 progestin에 비해 유방암 및 정맥혈전 위험이 낮을 가능성이 제기됨
+* Micronized progesterone이 더 안전한 것으로 알려짐 - 합성 progestin에 비해 유방암 및 정맥혈전 위험이 낮을 가능성이 제기됨
 
 #### <mark style="color:$primary;">경구용</mark>
 
-* micronized progesterone : 100 ㎎\~200 ㎎/d ×10\~12d/m <mark style="color:blue;">\[유트로게스탄]</mark>
-* medroxyprogesterone acetate(MPA) : 2.5 ㎎/d \[지속 요법]; 5\~10 ㎎을 월경 주기 제1일 또는 제16일에 시작하여 연속적으로 12\~14일간 투여 \[주기 요법] <mark style="color:blue;">\[프로베라]</mark>
-* norethindrone acetate : 0.35 ㎎/d
-* levonorgestrel : 0.075 ㎎/d
-* drospirenone : 3 ㎎/d
+* Micronized progesterone : 100 ㎎\~200 ㎎/d ×10\~12d/m <mark style="color:blue;">\[유트로게스탄]</mark>
+* Medroxyprogesterone acetate(MPA) : 지속 요법 - 2.5 ㎎/d; 주기 요법 - 5\~10 ㎎을 월경 주기 제1일 또는 제16일에 시작하여 연속적으로 12\~14일간 투여 <mark style="color:blue;">\[프로베라]</mark>
+* Norethindrone acetate : 0.35 ㎎/d
+* Levonorgestrel : 0.075 ㎎/d
+* Drospirenone : 3 ㎎/d
 
 #### <mark style="color:$primary;">질 국소용</mark>
 
@@ -350,104 +355,101 @@ _²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 �
 
 ### <mark style="color:orange;">Estrogen & Progestogen 병합 요법</mark>
 
-* estrogen 단독 투여보다 자궁내막증과 자궁암 발생을 예방
+* Estrogen 단독 투여보다 자궁내막증과 자궁암 발생을 예방
 * 자궁이 있는 여성은 estrogen 투여 시 반드시 progestogen을 함께 투여함
 
 #### <mark style="color:$primary;">경구용 - progesterone 지속 요법</mark>
 
 * 저용량 progesterone 지속 병합 요법 : 질 출혈은 감소하나 progesterone 부작용(예: 유방암 위험) 증가 논란; 천연 progesterone 또는 국소제를 사용하는 경우 부작용이 감소될 수 있음
 * 초저용량 estradiol/progestogen 지속 요법 : 고용량 수준의 효과가 유지되며 부작용이 적음
-* estradiol hemihydrate/drospirenone <mark style="color:blue;">\[안젤릭]</mark>
-* estradiol valerate/MPA <mark style="color:blue;">\[인디비나]</mark>
-* estradiol hemihydrate/norethisterone <mark style="color:blue;">\[에스디올 하프]</mark>, <mark style="color:blue;">\[크리안]</mark>
+* Estradiol hemihydrate/drospirenone <mark style="color:blue;">\[안젤릭]</mark>
+* Estradiol valerate/MPA <mark style="color:blue;">\[인디비나]</mark>
+* Estradiol hemihydrate/norethisterone <mark style="color:blue;">\[에스디올 하프]</mark>, <mark style="color:blue;">\[크리안]</mark>
 
 #### <mark style="color:$primary;">경구용 - progesterone 간헐 요법</mark>
 
-* progesterone 간헐 병합 요법 : 자궁의 주기적 위축에 따른 질 출혈 발생
-* long-cycle therapy : 병합 요법에서 3개월마다 14일간 progestogen 투여로 유방에 대한 progestogen 노출을 줄임. 자궁에 대한 영향은 정보가 부족함
-* estradiol valerate/medroxyprogesterone acetate <mark style="color:blue;">\[디비나]</mark> (표시대로 21일간 복용 & 7일간 휴약)
-* estradiol hemihydrate/dydrogesterone <mark style="color:blue;">\[페모스톤]</mark> (월경 첫날부터 색깔별로 14일 & 14일 지속 복용)
+* Progesterone 간헐 병합 요법 : 자궁의 주기적 위축에 따른 질 출혈 발생
+* Long-cycle therapy : 병합 요법에서 3개월마다 14일간 progestogen 투여로 유방에 대한 progestogen 노출을 줄임. 자궁에 대한 영향은 정보가 부족함
+* Estradiol valerate/medroxyprogesterone acetate <mark style="color:blue;">\[디비나]</mark> (표시대로 21일간 복용 & 7일간 휴약)
+* Estradiol hemihydrate/dydrogesterone <mark style="color:blue;">\[페모스톤]</mark> (월경 첫날부터 색깔별로 14일 & 14일 지속 복용)
 
 #### <mark style="color:$primary;">경피용</mark>
 
-* estradiol/levonorgestrel, estradiol/norethindrone
+* Estradiol/levonorgestrel, estradiol/norethindrone
 
-### <mark style="color:orange;">Tibolone : Selective Tissue Estrogen Activity Regulator (STEAR)</mark>
+### <mark style="color:orange;">Tibolone : Selective tissue estrogen activity regulator (STEAR)</mark>
 
 * 체내 흡수되어 estrogen/progesterone/androgen 성질을 갖는 물질들로 전환
 * 작용 : 조직 특이적으로 estrogen 수용체에 작용, 유방과 자궁내막 조직은 자극하지 않음; 약한 androgen 작용이 있음; 뼈와 질에서 estrogen, 자궁내막에서 progesterone, 간과 뇌에서 androgen 효과
   * 폐경 관련 증상 감소, 골밀도 증가, 근육량 증가, 성 기능 장애 개선
-  * 일반 인구에서 심혈관 질환/자궁내막암/유방암의 위험 증가는 크지 않은 것으로 보고됨(estrogen/progesterone 복합체에 비하여 불규칙 질 출혈 및 유방 통증이 적음; 대장암 위험 감소 보고 있음); 다만 유방암 병력자에서는 재발 위험 증가가 명확히 확인되어 있음(LIBERATE 연구)
+  * 일반 인구에서 심혈관 질환/자궁내막암/유방암의 위험 증가는 크지 않은 것으로 보고됨(estrogen-progesterone 복합체에 비하여 불규칙 질 출혈 및 유방 통증이 적음; 대장암 위험 감소 보고 있음)
+  * 유방암 병력자에서는 재발 위험이 증가함
   * ≥60세에서 투여를 시작하는 경우 뇌졸중 증가 가능성이 있음
-* 금기 : 유방암 병력(✽LIFT/LIBERATE 연구에서 재발 위험 증가가 확인되어 절대 금기)
-* 용량 : 1.25\~2.5 ㎎/d <mark style="color:blue;">\[리비알]</mark> (국내 허가사항상 표준 유지 용량 2.5 ㎎/d; 저용량 요법 시 1.25 ㎎/d)
+* 금기 : 유방암 병력
+* 용량 : 1.25\~2.5 ㎎/d <mark style="color:blue;">\[리비알]</mark> (국내 허가사항상 표준 유지 용량 2.5 ㎎/d; 저용량 1.25 ㎎/d)
 
-### <mark style="color:orange;">Selective Estrogen Response Modulator (SERM)</mark>
+### <mark style="color:orange;">Selective estrogen response modulator (SERM)</mark>
 
 * 조직에서 선택적으로 estrogen 수용체를 자극하거나 억제
 * 안면 홍조 완화, 골다공증 예방을 위한 복합 HT 대체
-* raloxifene : 60 ㎎ qd <mark style="color:blue;">\[에비스타]</mark>
-* bazedoxifene : 20 ㎎ qd <mark style="color:blue;">\[비비안트]</mark>
-* ospemifene : 60 ㎎ qd (✽질 위축, 질 건조, 성교통 예방 및 치료에 대하여 FDA 승인; 유방암 병력자에서는 일반적으로 권고되지 않음)
-* ✽tamoxifen <mark style="color:blue;">\[놀바덱스]</mark>은 SERM 계열이나 유방암 치료·예방제이며 폐경 증상 자체의 치료 목적으로 사용하지 않음(오히려 안면 홍조를 유발하는 경우가 흔함)
+* Raloxifene : 60 ㎎ qd <mark style="color:blue;">\[에비스타]</mark>
+* Bazedoxifene : 20 ㎎ qd <mark style="color:blue;">\[비비안트]</mark>
+* Ospemifene : 60 ㎎ qd; 질 위축, 질 건조, 성교통 예방 및 치료에 대하여 FDA 승인; 유방암 병력자에게는 일반적으로 권고하지 않음
 
-#### <mark style="color:$primary;">Tissue Selective Estrogen Complex (TSEC)</mark>
+- [ ] Tamoxifen <mark style="color:blue;">\[놀바덱스]</mark>은 SERM 계열이지만, 유방암 치료·예방에 적용하며 폐경 증상 자체의 치료 목적으로 사용하지 않음(오히려 안면 홍조를 유발하는 경우가 흔함)
+
+#### <mark style="color:$primary;">Tissue selective estrogen complex (TSEC)</mark>
 
 * SERM인 bazedoxifene과 결합형 estrogen 복합제
 * estrogen 수용체에 대하여 뼈에서는 agonist로, 자궁 및 유방에서는 antagonist로 작용하는 bazedoxifene의 특성으로 폐경 증상 완화 및 골밀도 증가 효과가 있고, 유방통과 질 출혈의 빈도는 낮고 자궁내막에 대한 안전성이 있음 (✽충분한 연구는 부족)
 * 자궁을 절제하지 않은 여성에서 폐경과 관련된 VMS 치료 및 폐경 후 골다공증 예방
-* bazedoxifene 20 ㎎/CEE 0.45 ㎎ qd 식사 무관 복용 <mark style="color:blue;">\[듀아비브]</mark>
+* Bazedoxifene 20 ㎎ + CEE 0.45 ㎎ qd, 식사 무관 복용 <mark style="color:blue;">\[듀아비브]</mark>
 
 ### <mark style="color:orange;">Testosterone</mark>
 
-* 질 위축(GSM) 자체의 1차 치료제가 아님 - 국소 estrogen, 보습제/윤활제 등 표준 치료 우선
-* 적응증은 폐경 후 hypoactive sexual desire disorder(HSDD)로 제한됨; 적절한 병력 청취와 타 원인(관계 문제, 우울, 약물 부작용 등) 배제 후 전문의 평가 하에 고려 (☞ ISSWSH/NAMS 2019 global consensus position statement)
+* 질 위축(GSM) 자체의 1차 치료제는 아님 - 국소 estrogen, 보습제/윤활제 등이 우선 표준 치료
+* 적응증은 폐경 후 hypoactive sexual desire disorder(HSDD)로 제한됨; 적절한 병력 청취와 타 원인(관계 문제, 우울, 약물 부작용 등) 배제 후 전문의 평가 하에 고려
 * 국내 여성용 허가 제제는 없으며 남성용 제제를 초저용량으로 오프라벨 사용하는 경우가 있어 신중한 용량 조절과 안드로겐 과다 부작용(다모증, 여드름, 남성형 탈모 등) 모니터링이 필요함
-* ISSWSH/NAMS 2019 global consensus : 혈중 testosterone 농도를 정상 폐경 전 여성 범위 이상으로 올리는 치료는 권고하지 않음; 치료 전·후 혈중 농도 모니터링 권장
+* 혈중 testosterone 농도를 정상 폐경 전 여성 범위 이상으로 올리는 치료는 권고하지 않음 \[ISSWSH/NAMS 2019]; 치료 전·후 혈중 농도 모니터링 권고
 
 ### <mark style="color:orange;">수술로 인한 폐경 시 호르몬 보충 요법</mark>
 
 * 난소절제술로 인한 조기폐경 시 금기가 아니면 최소 자연 폐경 연령까지 estrogen 보충 요법 시행
-* conjugated estrogens 1.25 ㎎, estrone sulfate 1.25 ㎎, 또는 estradiol 2 ㎎을 매달 25일간 투여
+* Conjugated estrogens 1.25 ㎎, estrone sulfate 1.25 ㎎, 또는 estradiol 2 ㎎을 매달 25일간 투여
 * 45\~50세 이후 conjugated estrogen 0.625 ㎎ 또는 동등 용량 투여
 
 ### <mark style="color:orange;">비호르몬 약물 치료</mark>
 
 * 부작용 문제로 HT를 사용할 수 없는 환자에서 증상 완화를 위하여 비호르몬제 고려 (보험주의)
-* 1차로 선택하지 않음(NICE NG23: SSRI/SNRI/clonidine을 VMS 단독 증상의 1차 치료로 일률적으로 제공하지 말 것을 권고)
+* 1차로 선택하지 않음
+  * \[NICE NG23] SSRI/SNRI/clonidine을 VMS 단독 증상의 1차 치료로 일률적으로 제공하지 말 것을 권고
 
-#### <mark style="color:$primary;">항우울제 : SSRI, SNRI</mark>
+#### [<mark style="color:$primary;">항우울제</mark>](../231_/213_-antidepressants-and-anxiolytics.md) <mark style="color:$primary;">: SSRI, SNRI</mark>
 
-(☞ p.1146 - _file-based cross-reference 확인 필요_)
-
-* paroxetine : 7.5\~25 ㎎/d <mark style="color:blue;">\[세로자트]</mark> (✽VMS 치료에 대하여 FDA 승인)
-* venlafaxine : 37.5(시작)\~150 ㎎/d <mark style="color:blue;">\[이팩사]</mark>
-* desvenlafaxine : 시작 25\~50 ㎎/d, 유지 100\~150 ㎎/d <mark style="color:blue;">\[프리스틱]</mark>
-* escitalopram : 10(시작)\~20 ㎎/d (민감 or 고령에서는 5 ㎎/d으로 시작) <mark style="color:blue;">\[렉사프로]</mark>
+* Paroxetine : 7.5\~25 ㎎/d <mark style="color:blue;">\[세로자트]</mark> (✽VMS 치료에 대하여 FDA 승인)
+* Venlafaxine : 37.5(시작)\~150 ㎎/d <mark style="color:blue;">\[이팩사]</mark>
+* Desvenlafaxine : 시작 25\~50 ㎎/d, 유지 100\~150 ㎎/d <mark style="color:blue;">\[프리스틱]</mark>
+* Escitalopram : 10(시작)\~20 ㎎/d (민감 or 고령에서는 5 ㎎/d으로 시작) <mark style="color:blue;">\[렉사프로]</mark>
 
 #### <mark style="color:$primary;">Centrally acting α-adrenergic blocking agent</mark>
 
 * 안면 홍조 빈도를 줄일 수 있으나, 부작용 문제로 사용이 제한됨
-* clonidine 경구 : 0.05\~0.1 ㎎ bid (또는 0.1 ㎎/d)
-* clonidine 경피 패치 : 0.1\~0.3 ㎎/wk (주 1회 부착)
+* Clonidine 경구 : 0.05\~0.1 ㎎ bid (또는 0.1 ㎎/d)
+* Clonidine 경피 패치 : 0.1\~0.3 ㎎/wk (주 1회 부착)
 * NAMS에서는 권고 안 함
 * 부작용 : 입마름, 졸음, 저혈압
 
 #### <mark style="color:$primary;">항경련제</mark>
 
-* gabapentin : 100\~300 ㎎ 야간으로 시작, 900\~2400 ㎎/d #3 <mark style="color:blue;">\[뉴론틴]</mark> (☞ p.13 - _file-based cross-reference 확인 필요_)
-
-#### <mark style="color:$primary;">도파민 대항제</mark>
-
-* veralipride : 100 ㎎ qd ×20d/m - ✽지연성 운동장애 등 추체외로 부작용 및 우울증·자살 위험 문제로 유럽 등에서 시장 철수(Obsolete)된 약제; 국내 임상에서도 사실상 사용되지 않으며 처방을 권장하지 않음
+* Gabapentin : 100\~300 ㎎ 야간으로 시작, 900\~2400 ㎎/d #3 <mark style="color:blue;">\[뉴론틴]</mark> (☞ [항경련제](../220_/001_-pain.md#gabapentinoid-a2d-ligands))
 
 #### <mark style="color:$primary;">Neurokinin 수용체 대항제</mark>
 
 * 체온 조절 경로(KNDy neuron)에 작용하여 안면 홍조 및 수면 질 개선; HT를 할 수 없는 경우에 고려
-* fezolinetant : NK3 수용체 단독 대항제; 45 ㎎/d qd; VMS에 대하여 2023년 미국 FDA 승인(국내 허가·시판 현황은 확인 필요); 영국 NICE는 중등도\~중증 VMS에서 HT가 부적합한 경우의 치료 옵션으로 정식 채택(NICE TA1143, 2026)
+* Fezolinetant : NK3 수용체 단독 대항제; 45 ㎎/d qd; VMS에 대하여 FDA 승인; 영국 NICE는 중등도\~중증 VMS에서 HT가 부적합한 경우의 치료 옵션으로 정식 채택
   * 안면 홍조 60% 감소(위약 45%); 광범위한 근육 및 뼈 약화, 질 위축, 기분 변화에는 효과 없음
-  * 부작용 : 복통, 설사, 불면증, 요통, 안면 홍조, 간 효소 수치 상승; 투여 전 기저 간기능 검사 후 투여 3, 6, 9개월째 정기적인 간기능 모니터링, 이후에는 임상적으로 필요 시 추가 검사(미국 처방정보 기준)
-* elinzanetant : NK1/NK3 이중 수용체 대항제; 60 ㎎/d qd; 중등도\~중증 VMS에 대하여 2025년 10월 미국 FDA 승인(국내 미출시, 2026년 기준) (✽OASIS 1\~3 연구에서 12주째 VMS 빈도 약 74% 감소, 수면·기분·삶의 질 개선 효과 보고; 반감기가 길고 빠르게 흡수되는 약동학적 특징이 있으며 자궁내막·간 안전성에 대한 근거가 확보됨(대한폐경학회 제65차 춘계연수강좌, 2026); 유방암으로 내분비 치료 중인 환자에서의 사용은 현재 임상시험 단계이며 해당 적응증으로 승인된 것은 아님)
+  * 부작용 : 복통, 설사, 불면증, 요통, 안면 홍조, 간 효소 수치 상승; 정기적인 간기능 모니터링 등 필요
+* Elinzanetant : NK1/NK3 이중 수용체 대항제; 60 ㎎/d qd; 중등도\~중증 VMS에 대하여 FDA 승인 (✽OASIS 1\~3 연구에서 12주째 VMS 빈도 약 74% 감소, 수면·기분·삶의 질 개선 효과 보고; 반감기가 길고 빠르게 흡수되는 약동학적 특징이 있으며 자궁내막·간 안전성에 대한 근거가 확보됨
 
 ### <mark style="color:orange;">대체 요법</mark>
 
@@ -456,23 +458,25 @@ _²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 �
 * estrogen 작용제 특성을 가짐; 폐경 증상 완화 및 골격/심혈관계에 약간의 도움이 될 것으로 보임
 * 장기적인 효과와 안전성이 확인되지 않음
 * 환자가 원하는 경우 음식으로 섭취 권고; 콩, 두부, 아마씨, 참깨, 산딸기, 귀리, 보리, 말린 콩, 렌즈콩, 쌀, 녹두, 사과, 당근, 밀
-* black cohosh(승마 추출물) <mark style="color:blue;">\[지노큐에스]</mark> - ✽2023년 The Menopause Society(구 NAMS) 비호르몬 치료 지침에서는 근거 부족으로 권고하지 않음(Level II/III); 처방 시 환자에게 근거 수준을 설명할 것
+* black cohosh(승마 추출물) <mark style="color:blue;">\[지노큐에스]</mark> - 2023년 The Menopause Society 지침에서는 근거 부족으로 권고하지 않음; 처방 시 환자에게 근거 수준을 설명할 것
 
 #### <mark style="color:$primary;">위약 이상의 효과가 없는 것으로 연구된 대체 요법</mark>
 
 * 당귀, 달맞이꽃기름, 인삼, 야생 참마, 붉은 토끼풀
 
-**※ VMS에 대한 비호르몬 치료 권고**
+***
 
-<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Treatment</strong></td><td><strong>권고</strong></td><td><strong>권고 안함</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>생활 습관</strong></td><td></td><td></td><td></td></tr><tr><td>Cooling technique, Avoiding trigger, Exercise, Yoga</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Dietary modification</td><td></td><td>Level III</td><td>근거 부족</td></tr><tr><td>Weight loss</td><td>Level II/III</td><td></td><td></td></tr><tr><td><strong>Mind-body technique</strong></td><td></td><td></td><td></td></tr><tr><td>Cognitive-behavioral therapy</td><td>Level I</td><td></td><td></td></tr><tr><td>Mindfulness-based interventions</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Clinical hypnosis</td><td>Level I</td><td></td><td></td></tr><tr><td>Paced respiration</td><td></td><td>Level I</td><td>효과 없음</td></tr><tr><td>Relaxation</td><td></td><td>Level II</td><td>효과 없음</td></tr><tr><td><strong>약물 치료</strong></td><td></td><td></td><td></td></tr><tr><td>SSRIs/SNRIs</td><td>Level I</td><td></td><td></td></tr><tr><td>Gabapentin</td><td>Level I</td><td></td><td></td></tr><tr><td>Pregabalin</td><td></td><td>Level III</td><td>부작용¹</td></tr><tr><td>Clonidine</td><td></td><td>Level I/III</td><td>부작용, 효과 부족</td></tr><tr><td>Oxybutynin</td><td>Level I/II</td><td></td><td>인지 저하 부작용²</td></tr><tr><td>Suvorexant</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Fezolinetant</td><td>Level I</td><td></td><td></td></tr><tr><td><strong>식이, 보충제</strong></td><td></td><td></td><td></td></tr><tr><td>Soy foods, extracts, metabolite equol</td><td></td><td>Level II</td><td>효과 부족</td></tr><tr><td>Supplements/Herbal remedies³</td><td></td><td>Level I/III</td><td>근거 부족</td></tr><tr><td>Cannabinoids</td><td></td><td>Level II</td><td>부작용</td></tr><tr><td><strong>기타</strong></td><td></td><td></td><td></td></tr><tr><td>Acupuncture</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Stellate ganglion block</td><td>Level II/III</td><td></td><td>부작용 위험</td></tr><tr><td>Calibration of neural oscillation</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Chiropractic intervention</td><td></td><td>Level II</td><td>근거 부족</td></tr></tbody></table>
+<mark style="color:cyan;">**VMS에 대한 비호르몬 치료 권고**</mark>
 
-1. Pregabalin은 VMS 감소 효과가 있으나 어지러움, 인지 장애, 체중 증가 등의 문제로 권고하지 않음
-2. 노인에서 장기 사용 시 인지 기능 저하와 관련될 수 있음
-3. Pollen extract, Ammonium succinate, Lactobacillus acidophilus, Rhubarb, Black cohosh, Wild yam, Dong quai, Evening primrose, Ginseng, Labisia pumila/Eurycoma longifolia, Chasteberry, Milk thistle, Omega-3 fatty acid, Vit E
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Treatment</strong></td><td><strong>권고</strong></td><td><strong>권고 안함</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>생활 습관</strong></td><td></td><td></td><td></td></tr><tr><td>Cooling technique, Avoiding trigger, Exercise, Yoga</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Dietary modification</td><td></td><td>Level III</td><td>근거 부족</td></tr><tr><td>Weight loss</td><td>Level II/III</td><td></td><td></td></tr><tr><td><strong>Mind-body technique</strong></td><td></td><td></td><td></td></tr><tr><td>Cognitive-behavioral therapy</td><td>Level I</td><td></td><td></td></tr><tr><td>Mindfulness-based interventions</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Clinical hypnosis</td><td>Level I</td><td></td><td></td></tr><tr><td>Paced respiration</td><td></td><td>Level I</td><td>효과 없음</td></tr><tr><td>Relaxation</td><td></td><td>Level II</td><td>효과 없음</td></tr><tr><td><strong>약물 치료</strong></td><td></td><td></td><td></td></tr><tr><td>SSRIs/SNRIs</td><td>Level I</td><td></td><td></td></tr><tr><td>Gabapentin</td><td>Level I</td><td></td><td></td></tr><tr><td>Pregabalin</td><td></td><td>Level III</td><td>부작용¹⁾</td></tr><tr><td>Clonidine</td><td></td><td>Level I/III</td><td>부작용, 효과 부족</td></tr><tr><td>Oxybutynin</td><td>Level I/II</td><td></td><td>인지 저하 부작용²⁾</td></tr><tr><td>Suvorexant</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Fezolinetant</td><td>Level I</td><td></td><td></td></tr><tr><td><strong>식이, 보충제</strong></td><td></td><td></td><td></td></tr><tr><td>Soy foods, extracts, metabolite equol</td><td></td><td>Level II</td><td>효과 부족</td></tr><tr><td>Supplements/Herbal remedies³⁾</td><td></td><td>Level I/III</td><td>근거 부족</td></tr><tr><td>Cannabinoids</td><td></td><td>Level II</td><td>부작용</td></tr><tr><td><strong>기타</strong></td><td></td><td></td><td></td></tr><tr><td>Acupuncture</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Stellate ganglion block</td><td>Level II/III</td><td></td><td>부작용 위험</td></tr><tr><td>Calibration of neural oscillation</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Chiropractic intervention</td><td></td><td>Level II</td><td>근거 부족</td></tr></tbody></table>
 
-**Level I**: good and consistent scientific evidence **Level II**: limited or inconsistent scientific evidence **Level III**: consensus and expert opinion
+_¹⁾ Pregabalin은 VMS 감소 효과가 있으나 어지러움, 인지 장애, 체중 증가 등의 문제로 권고하지 않음_\
+_²⁾ 노인에서 장기 사용 시 인지 기능 저하와 관련될 수 있음_\
+_³⁾ Pollen extract, Ammonium succinate, Lactobacillus acidophilus, Rhubarb, Black cohosh, Wild yam, Dong quai, Evening primrose, Ginseng, Labisia pumila/Eurycoma longifolia, Chasteberry, Milk thistle, Omega-3 fatty acid, Vit E_
 
-Ref. _The 2023 nonhormone therapy position statement of The Menopause Society (구 NAMS)._ Table 2.
+_**Level I**: good and consistent scientific evidence **Level II**: limited or inconsistent scientific evidence **Level III**: consensus and expert opinion_
+
+<p align="center"><em><mark style="color:$info;">Ref. The 2023 nonhormone therapy position statement of The Menopause Society. Table 2.</mark></em></p>
 
 ### <mark style="color:orange;">모니터링</mark>
 
@@ -484,8 +488,9 @@ Ref. _The 2023 nonhormone therapy position statement of The Menopause Society (�
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-* GSM 외음부 위축 증상 : 질 레이저 시술(예: CO₂ fractional laser)은 소규모 연구에서 증상 개선이 보고되었으나, **NICE NG23(2024)은 임상시험(RCT)의 일환이 아닌 한 질 레이저 치료를 제공하지 말 것을 권고**하며, 미국 FDA도 GSM 치료 목적의 승인·인가를 하지 않은 상태(ACOG Clinical Consensus No. 2, 2021)
-  * ✽미용 목적의 "질 재생(vaginal rejuvenation)" 마케팅에 대해 FDA가 별도 안전성 경고를 발표한 바 있음; 표준 치료(국소 estrogen, 윤활제/보습제) 우선 시행 후에도 근거 수준이 낮은 선택지임을 환자에게 설명할 것
+* GSM 외음부 위축 증상에대하여 질 레이저 시술(예: CO₂ fractional laser)은 소규모 연구에서 증상 개선이 보고되었으나, NICE NG23(2024)은 임상시험의 일환이 아닌 한 질 레이저 치료를 제공하지 말 것을 권고하며, 미국 FDA도 GSM 치료 목적의 승인·인가를 하지 않은 상태임
+
+- [ ] 미용 목적의 "질 재생(vaginal rejuvenation)" 마케팅에 대해 FDA가 안전성 경고를 발표한 바 있음; 표준 치료(국소 estrogen, 윤활제/보습제) 우선 시행 후에도 근거 수준이 낮은 선택지임을 환자에게 설명할 것
 
 ***
 
