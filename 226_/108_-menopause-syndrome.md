@@ -99,11 +99,13 @@
 ### <mark style="color:orange;">HRT 관련 검사</mark>
 
 * HRT 시행 전 및 시행 중 임상 증상과 위험 인자에 따라 1\~2년마다 시행
-* mammogram : 50\~74세 여성에서 2년마다 권고 \[USPSTF]
-* DXA 골밀도 검사 : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행 (☞ p.803 - _file-based cross-reference 확인 필요_)
-* 대한폐경학회 권고 검사 항목
-  * 기본 : 빈혈, 공복 혈당, LFT, RFT, 지질; mammography, BMD, Pap smear
-  * 선택 : TFT, 유방 초음파, 자궁내막생검
+* Mammogram : 50\~74세 여성에서 2년마다 권고 \[USPSTF]
+* DXA 골밀도 검사 : ＞65세, 골다공증 위험 인자가 있는 ＜65세에서 시행&#x20;
+
+**대한폐경학회 권고 검사 항목**
+
+* 기본 : 빈혈, 공복 혈당, LFT, RFT, 지질; mammography, BMD, Pap smear
+* 선택 : TFT, 유방 초음파, 자궁내막생검
 
 ***
 
@@ -122,7 +124,7 @@ flowchart TD
 
     E1["<b>HT 제제 선택 (환자 선호 고려)</b><br/>• HT 개시의 최적 후보자 : &lt;60세, 폐경 시작 후 &lt;10년, 낮은 심혈관 질환/유방암 위험<br/>• Estrogen 단독 (자궁절제술을 받은 사람)<br/>• Estrogen + Progestogen or bazedoxifene<br/>• 경피 HT 사용 고려 사항 : 경구 HT보다 응고 인자에 대한 부작용(예: DVT)이 적을 수 있음; 심혈관 질환의 위험 인자를 가진 여성에게 더 안전할 수 있음<br/>• HT 사용에 따른 endometrial hyperplasia 발생률을 고려<br/>• HT 사용 중 질 출혈을 신속하게 평가"]
 
-    E2["<b>비호르몬 대체제 고려</b><br/>허가 사항은 아니지만 임상 시험 데이터에 의해 지원되는 옵션<br/>• 서방형 venlafaxine 37.5 mg/d ×1주 → 증량 75 mg/d<br/>• desvenlafaxine 100 mg/d<br/>• escitalopram 10(~20) mg/d<br/>• paroxetine mesylate 7.5 mg 취침 전<br/>• citalopram 10(~30) mg/d<br/>• gabapentin 900 mg/d 취침 전 또는 분할 투여<br/>• pregabalin 75(~150) mg bid<br/>• clonidine 경구 0.1~1 mg/d or 경피 0.1~0.3 mg/wk"]
+    E2["<b>비호르몬 대체제 고려</b><br/>허가 사항은 아니지만 임상 시험 데이터에 의해 지원되는 옵션<br/>• 서방형 venlafaxine 37.5 mg/d ×1주 → 증량 75 mg/d<br/>• desvenlafaxine 100 mg/d<br/>• escitalopram 10(~20) mg/d<br/>• paroxetine mesylate 7.5 mg 취침 전<br/>• citalopram 10(~30) mg/d<br/>• gabapentin 900 mg/d 취침 전 또는 분할 투여<br/>• pregabalin* 75(~150) mg bid<br/>• clonidine 경구 0.1~1 mg/d or 경피 0.1~0.3 mg/wk"]
 
     A --> B1
     A --> B2
@@ -146,15 +148,13 @@ flowchart TD
     class E1,E2 blue;
 ```
 
-<p align="center"><strong>폐경기 VMS 치료 접근 알고리듬</strong></p>
+_\*2023 The Menopause Society은 pregabalin을 권고하지 않음_
 
-<p align="center"><em><mark style="color:$info;">paroxetine은 VMS 치료에 대하여 FDA 승인. HT = hormone therapy, DVT = deep vein thrombosis. Ref. Management of Menopausal Symptoms: A Review. JAMA. 2023;329(5):405–420. Fig 1.</mark></em></p>
-
-<p align="center"><em><mark style="color:$info;">✽위 알고리듬은 원 출처(JAMA 2023) 그림을 그대로 옮긴 것으로 pregabalin이 포함되어 있으나, 2023년 The Menopause Society 비호르몬 치료 지침에서는 부작용(어지러움, 인지장애, 체중증가) 대비 근거 부족으로 pregabalin을 권고하지 않음에 유의</mark></em></p>
+<p align="center"><strong>폐경기 VMS 치료 접근 알고리듬</strong><br><em><mark style="color:$info;">Ref. Management of Menopausal Symptoms: A Review. JAMA. 2023;329(5):405–420. Fig 1.</mark></em><br></p>
 
 ```mermaid
 graph TD
-    A["<b>Genitourinary syndrome of menopause(GSM) 평가</b><br/>• 성교통, 질 건조, 질 자극"]
+    A["<b>GSM 평가</b><br/>• 성교통, 질 건조, 질 자극"]
 
     B["R/O 외상, 감염, lichen sclerosus, 악성 종양, 접촉성 또는 자극성 피부염"]
 
@@ -182,7 +182,7 @@ graph TD
     class C,E1 blue;
 ```
 
-<p align="center"><strong>GSM 치료 접근 알고리듬</strong></p>
+<p align="center"><strong>GSM</strong>(Genitourinary syndrome of menopause) <strong>치료 접근 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. Management of Menopausal Symptoms: A Review. JAMA. 2023;329(5):405–420. Fig 2.</mark></em></p>
 
@@ -196,13 +196,11 @@ graph TD
 * 호르몬 치료가 곤란한 경우 비호르몬 치료(예: paroxetine, venlafaxine, fezolinetant, elinzanetant)를 선택
 
 {% hint style="info" %}
-**폐경호르몬치료(HT) 라벨링 업데이트 (2025\~2026년 기준)**\
-2025년 11월 미국 FDA는 2003년부터 유지되어 온 전신 및 질 국소 폐경호르몬치료제의 boxed warning(black box warning) 제거를 발표함(2026년 2월 첫 제품군 라벨 개정 승인). 이는 WHI 연구 참가자의 평균 연령이 실제 초기 폐경 임상 대상보다 높았고 사용된 CEE+MPA 조합도 현재 임상과 차이가 있었다는 재평가에 따른 것으로, 폐경 후 10년 이내 또는 60세 이전에 치료를 시작하는 경우(timing hypothesis) 총사망률 및 관상동맥질환 위험이 오히려 감소할 가능성이 제시됨(대한폐경학회 제65차 춘계연수강좌, 2026)\
-✽다만 NICE NG23(2026 개정)은 여전히 **HRT를 심혈관질환의 1차/2차 예방 목적, 또는 치매 예방 목적으로 사용하지 말 것**을 명시하고 있어, HT의 심혈관·인지 관련 이득은 증상 치료의 부수적 효과로 해석해야 하며 예방적 적응증으로 확대 해석하지 않도록 주의\
-국내 허가사항에는 자동으로 반영되지 않으므로, 실제 처방 시에는 국내 식약처 허가사항 및 대한폐경학회 최신 지침을 확인할 것
+**폐경호르몬치료(HT) 라벨링 업데이트** (2026년) : 2025년 11월 미국 FDA는 2003년부터 유지되어 온 전신 및 질 국소 **폐경호르몬치료제의 boxed warning(black box warning) 제거를 발표**함(2026년 2월 첫 제품군 라벨 개정 승인). 이는 WHI 연구 참가자의 평균 연령이 실제 초기 폐경 임상 대상보다 높았고 사용된 CEE+MPA 조합도 현재 임상과 차이가 있었다는 재평가에 따른 것으로, 폐경 후 10년 이내 또는 60세 이전에 치료를 시작하는 경우(timing hypothesis) 총사망률 및 관상동맥질환 위험이 오히려 감소할 가능성이 제시됨.\
+다만 NICE NG23(2026 개정)은 여전히 **HRT를 심혈관질환의 1차/2차 예방 목적, 또는 치매 예방 목적으로 사용하지 말 것**을 명시하고 있어, HT의 심혈관·인지 관련 이득은 증상 치료의 부수적 효과로 해석해야 하며 예방적 적응증으로 확대 해석하지 않도록 주의.&#x20;
 {% endhint %}
 
-**※ Vasomotor symptoms(VMS)에 대한 치료 효과 비교 (역사적 비교 자료, 2011년 기준 - 아래 각주의 최신 권고와 함께 참고)**
+**Vasomotor symptoms(VMS)에 대한 치료 효과 비교**
 
 <table data-header-hidden data-search="false"><thead><tr><th width="255"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Method</strong></td><td><strong>용량</strong></td><td><strong>완화 정도</strong></td></tr><tr><td><strong>Estrogen</strong></td><td></td><td>80~90%</td></tr><tr><td><strong>Progestogen</strong></td><td></td><td></td></tr><tr><td>megestrol <mark style="color:blue;">\[메게이스]</mark></td><td>40 mg/d</td><td>85%</td></tr><tr><td>MPA <mark style="color:blue;">\[프로베라]</mark></td><td>20 mg/d</td><td>85%</td></tr><tr><td>MPA (q2wk IM)</td><td>500 mg</td><td>85%</td></tr><tr><td>경피 progesterone</td><td>20 mg/d</td><td>85%</td></tr><tr><td><strong>Phytoestrogen</strong></td><td></td><td></td></tr><tr><td>soy</td><td></td><td>일부*</td></tr><tr><td>black cohosh <mark style="color:blue;">\[지노큐에스]</mark></td><td>40 mg/d</td><td>일부*</td></tr><tr><td><strong>항우울제</strong></td><td></td><td></td></tr><tr><td>fluoxetine <mark style="color:blue;">\[프로작]</mark></td><td>20 mg/d</td><td>50%</td></tr><tr><td>paroxetine <mark style="color:blue;">\[세로자트]</mark></td><td>12.5~25 mg/d</td><td>60~65%</td></tr><tr><td>venlafaxine <mark style="color:blue;">\[이팩사]</mark></td><td>75 mg/d</td><td>60%</td></tr><tr><td><strong>기타</strong></td><td></td><td></td></tr><tr><td>clonidine</td><td>0.1 mg/d</td><td>38~78%</td></tr><tr><td>gabapentin <mark style="color:blue;">\[뉴론틴]</mark></td><td>900 mg/d</td><td>45%</td></tr><tr><td>Vit E</td><td>800 IU/d</td><td>일부*</td></tr><tr><td>위약</td><td></td><td>20~50%</td></tr></tbody></table>
 
@@ -286,6 +284,8 @@ graph TD
 * 종류 : estrogen 및 progesterone 단독 또는 복합 (보험기준 ☞ p.1192 - _file-based cross-reference 확인 필요_)
   * body-identical 제제(예: estradiol, progesterone, testosterone)가 non-identical 제제(예: ethinyl estradiol, synthetic progestogen)보다 안전성이 더 우수할 가능성이 일부 연구에서 제시됨; 특히 micronized progesterone과 estradiol 조합이 합성 progestin에 비해 유방암 및 정맥혈전 위험이 낮을 가능성이 보고됨
 * 용량 : 저용량으로 시작하여 최소 유효 용량 투여 (✽저용량 사용 시 부작용 발생이 감소함)
+
+- [ ] ☞ \[일반원칙] [폐경 후 호르몬요법 인정기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0023)
 
 #### <mark style="color:$primary;">상황에 따른 선택 약제</mark>
 
