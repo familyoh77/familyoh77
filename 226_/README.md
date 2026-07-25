@@ -13,16 +13,24 @@
 •대한민국 성인에서 대사증후군의 예방 및 치료. 대한가정의학회 (2015)\
 •Metabolic syndrome. IDF (2006)\
 •Diagnosis and management of the metabolic syndrome. AHA/NHLBI (2005)\
+•Advancing Cardiovascular-Kidney-Metabolic (CKM) Health Clinical Practice Guideline. AHA/ACC/ADA/ASN (2026)\
 •Thyroid disease: assessment and management. NICE (2020)\
 •Guidelines for the treatment of hypothyroidism. ATA (2014)\
 •Guideline: Management of subclinical hypothyroidism. ETA (2013)\
-•Guideline for the management of Graves’ hyperthyroidism. ETA (2018)\
+•무증상갑상선기능저하증 진료 권고안. 대한갑상선학회 (2023)\
+•Guidance for the use of combination levothyroxine/liothyronine treatment. BTA/SfE (2023)\
+•Guidelines for the Diagnosis and Management of Thyroid Disease during Pregnancy and Postpartum. ATA (2026)\
+•Guideline for the management of Graves' hyperthyroidism. ETA (2018)\
 •Guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. ATA (2016)\
 •Guidelines on diagnosis and treatment of endogenous subclinical hyperthyroidism. ETA (2015)\
+•갑상선기능항진증의 진단 및 치료 권고안. 대한갑상선학회 (2025)\
 •Guidelines for adult patients with thyroid nodules and differentiated thyroid cancer. ATA (2015)\
-•갑상선기능항진증의 진단 및 치료. 대한갑상선학회 (2013)\
+•갑상선결절 진료권고안. 대한갑상선학회 (2024)\
 •Korean Thyroid Imaging Reporting and Data System and Imaging-Based Management of Thyroid Nodules. 대한갑상선영상의학회 (2021)\
 •폐경호르몬요법 치료 지침(2019). The 2020 Menopausal Hormone Therapy Guidelines. 대한폐경학회\
-•Menopause: Diagnosis and management. NICE (2019)\
+•Menopause: Diagnosis and management. NICE NG23 (2019, 2024~2026 개정)\
+•Nonhormone Therapy Position Statement. The Menopause Society(구 NAMS) (2023)\
 •Position statement on menopause. AACE/ACE (2017)\
-•Management of menopausal symptoms. ACOG (2014)
+•Management of menopausal symptoms. ACOG (2014)\
+•Clinical Consensus No. 2: Genitourinary Syndrome of Menopause. ACOG (2021)\
+•Vasomotor Symptoms of Menopause: A Review. JAMA (2023)
