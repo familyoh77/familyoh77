@@ -27,9 +27,9 @@
 •Guidelines for adult patients with thyroid nodules and differentiated thyroid cancer. ATA (2015)\
 •갑상선결절 진료권고안. 대한갑상선학회 (2024)\
 •Korean Thyroid Imaging Reporting and Data System and Imaging-Based Management of Thyroid Nodules. 대한갑상선영상의학회 (2021)\
-•폐경호르몬요법 치료 지침(2019). The 2020 Menopausal Hormone Therapy Guidelines. 대한폐경학회\
-•Menopause: Diagnosis and management. NICE NG23 (2019, 2024~2026 개정)\
-•Nonhormone Therapy Position Statement. The Menopause Society(구 NAMS) (2023)\
+•The 2020 Menopausal Hormone Therapy Guidelines. 대한폐경학회 (2020)\
+•Menopause: Diagnosis and management. NICE NG23 (2026)\
+•Nonhormone Therapy Position Statement. The Menopause Society (2023)\
 •Position statement on menopause. AACE/ACE (2017)\
 •Management of menopausal symptoms. ACOG (2014)\
 •Clinical Consensus No. 2: Genitourinary Syndrome of Menopause. ACOG (2021)\
