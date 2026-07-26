@@ -2,14 +2,14 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 소변에 적혈구가 비정상적으로 섞여 나오는 상태 - 육안적 혈뇨(gross hematuria)와 무증상 현미경적 혈뇨(asymptomatic microhematuria, MH)로 구분
-* MH의 정의 (AUA/SUFU, 2020/2025) : 중간뇨(mid-stream clean-catch)로 적절히 채집한 **단일** 요검체의 현미경 검사에서, 다른 명백한 원인 없이 RBC ＞3/HPF \[Strong Recommendation; Grade C]
-  * 시험지봉(딥스틱) 검사 단독으로는 MH를 진단하지 않음; trace 이상의 시험지봉 양성 소견이 있으면 반드시 현미경 검사로 확인 \[Strong Recommendation; Grade C]
-  * ✽과거 국내에서 흔히 쓰이던 "3회 검사 중 시험지봉 양성 ≥2회" 기준은 현행 정의와 다름 - 원칙적으로 단일 요검체의 현미경 검사(RBC＞3/HPF)로 MH가 성립됨
-  * 다만 대한신장학회 2023 현미경혈뇨 진료지침은 처음 확인된 무증상 현미경혈뇨는 반복 현미경 검사로 재확인할 것을 권고(조건부 권고, 근거 수준 매우 낮음) - 첫 검사에서 혈뇨가 확인된 환자 중 30\~62%가 재검에서 음전되며, 이 경우 예후가 양호함
-  * 소아는 별도 기준 적용(관행적으로 RBC ≥5/HPF); 이 챕터의 위험도 분류는 성인 기준
-* 혈뇨는 원인이 입증될 때까지 비뇨기암 가능성을 염두에 두어야 하며, **육안혈뇨는 연령과 무관하게 적극적 평가가 필요**하고, 현미경혈뇨는 아래 위험도 분류에 따라 접근
-* 항혈소판제·항응고제 복용 중인 환자에서 혈뇨가 발견되어도 복용하지 않는 환자와 동일하게 평가 - 약물이 혈뇨의 원인이 아니라 암 등 기저 질환을 드러내는 계기일 수 있음
+* 소변에 적혈구가 비정상적으로 섞여 나오는 상태&#x20;
+  * 육안적 혈뇨(gross hematuria)와 무증상 현미경적 혈뇨(asymptomatic microhematuria, MH)로 구분
+* MH의 정의 : 중간뇨(mid-stream clean-catch)로 적절히 채집한 단일 요검체의 현미경 검사에서, 다른 명백한 원인 없이 RBC ＞3/HPF (AUA/SUFU, 2020/2025)
+  * 시험지봉(딥스틱) 검사 단독으로는 MH를 진단하지 않음; trace 이상의 시험지봉 양성 소견이 있으면 반드시 현미경 검사로 확인
+  * 예전의 "3회 검사 중 시험지봉 양성 ≥2회" 기준은 현행 정의와 다름 - 단일 요검체의 현미경 검사(RBC＞3/HPF)로 MH가 성립됨; 단, 대한신장학회 2023 현미경혈뇨 진료지침은 처음 확인된 무증상 현미경적 혈뇨는 반복 현미경 검사로 재확인할 것을 권고(조건부 권고, 근거 수준 매우 낮음) - 첫 검사에서 혈뇨가 확인된 환자 중 30\~62%가 재검에서 음전되며, 이 경우 예후가 양호함
+  * 소아는 별도 기준 적용 (관행적으로 RBC ≥5/HPF)
+* 혈뇨는 원인이 입증될 때까지 비뇨기암 가능성을 염두에 두어야 하며, 육안혈뇨는 연령과 무관하게 적극적 평가가 필요하고, 무증상현미경혈뇨는 [위험도](110_-hematuria.md#id-2023)에 따라 접근
+* 항혈소판제·항응고제 복용 중인 환자에서 혈뇨 발견 시 복용하지 않는 환자와 동일하게 평가 - 약물이 혈뇨의 원인이 아니라 암 등 기저 질환을 드러내는 계기일 수 있음
 
 ## <mark style="color:green;">원인</mark>
 
@@ -20,20 +20,22 @@
 
 #### <mark style="color:$primary;">비사구체성 혈뇨 (Non-glomerular hematuria)</mark>
 
-* 상부요로 : 요로 결석(☞ [요로결석](133_-urolithiasis.md)), 신우신염(☞ [급성 신우신염](119_-acute-pyelonephritis-uncomplicated.md)), 신세포암, 신우\~요관 이행세포암, 요로 폐쇄, 다낭신, 신경색
-* 하부요로 : 세균성 방광염(UTI)(☞ [급성 방광염](118_-acute-cystitis.md)), 방광암(이행세포암), 전립선비대증(BPH), 급성 전립선염, 요도염(☞ [요도염](115_-urethritis.md)), 심한 운동(마라톤 등), 요로 조작(카테터 삽입·최근 시술), 출혈성 방광염(cyclophosphamide·골반 방사선 치료·BK 바이러스 등), 응고장애 또는 항응고제·항혈소판제 복용
+* 상부요로 : [요로결석](133_-urolithiasis.md), [신우신염](119_-acute-pyelonephritis-uncomplicated.md), 신세포암, 신우\~요관 이행세포암, 요로 폐쇄, 다낭신, 신경색
+* 하부요로 : [세균성 방광염](118_-acute-cystitis.md)(UTI), 방광암(이행세포암), 전립선비대증(BPH), 급성 전립선염, [요도염](115_-urethritis.md), 심한 운동(마라톤 등), 요로 조작(카테터 삽입·최근 시술), 출혈성 방광염(cyclophosphamide·골반 방사선 치료·BK 바이러스 등), 응고장애 또는 항응고제·항혈소판제 복용
 * 양성 혈뇨 : 발열성 혈뇨, interstitial cystitis, trigonitis
 * 가짜 혈뇨(pseudohematuria) : 월경, 성관계 직후, 질 출혈(vaginal bleeding) 오염, 치핵 출혈(hemorrhoidal bleeding) 오염 - 외래에서 흔한 오염원이므로 병력상 반드시 확인
 
-#### <mark style="color:$primary;">Heme-negative red urine (적색뇨이나 혈뇨 아님)</mark>
+#### <mark style="color:$primary;">Heme-negative red urine</mark>&#x20;
 
-* 대사 산물 : porphyria(포르피린증), bile pigment, homogentisic acid, melanin, urate - methemoglobinuria는 상대적으로 드묾
-* 식품 : 비트(beeturia), 블랙베리, 식용 색소
-* 약물 : rifampin, phenazopyridine, doxorubicin, chloroquine, deferoxamine, ibuprofen, iron sorbitol, nitrofurantoin, phenolphthalein
+* [ ] 적색뇨이지만 혈뇨는 아님
+
+- 대사 산물 : porphyria(포르피린증), bile pigment, homogentisic acid, melanin, urate; methemoglobinuria는 상대적으로 드묾
+- 식품 : 비트(beeturia), 블랙베리, 식용 색소
+- 약물 : rifampin, phenazopyridine, doxorubicin, chloroquine, deferoxamine, ibuprofen, iron sorbitol, nitrofurantoin, phenolphthalein
 
 #### <mark style="color:$primary;">일시적 혈뇨</mark>
 
-* 발열, 감염, 외상, 심한 운동 - 유발 요인 소실 후 재검으로 확인
+* 발열, 감염, 외상, 심한 운동 → 유발 요인 소실 후 재검으로 확인
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -48,89 +50,86 @@
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 응괴에 의한 급성 요폐(clot retention) 또는 심한 출혈로 인한 혈역학적 불안정(빈맥·저혈압)
-* 급격한 s-Cr 상승 또는 핍뇨\~무뇨를 동반하는 혈뇨 → 급성 신손상 의심(단, 혈뇨 단독 소견만으로는 급성 신손상을 진단하지 않으며 s-Cr·요량 등 신기능 지표를 함께 확인)
-* 발열·심한 옆구리 통증을 동반하는 폐쇄성 요로 결석 → 폐쇄성 요로패혈증 의심, 즉시 비뇨기과 의뢰
+* 급격한 s-Cr 상승 또는 핍뇨\~무뇨를 동반하는 혈뇨 → 급성 신손상
+* 발열·심한 옆구리 통증을 동반하는 폐쇄성 요로 결석 → 폐쇄성 요로패혈증
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 새로 발생한 무통성 육안혈뇨 → 연령과 무관하게 비뇨기암 배제를 위한 비뇨기과 의뢰
-* 적혈구 원주 또는 dysmorphic RBC(특히 acanthocyte ≥5%), 유의한 알부민뇨(ACR ≥300 ㎎/g 또는 단백뇨 ≥0.3 g/day 상당), 새로 동반된 고혈압을 동반하는 혈뇨 → 사구체신염 의심, 신장내과 의뢰
-* 급성은 아니나 s-Cr 상승을 동반하는 경우 → 신장 평가 필요
+* 적혈구 원주 또는 dysmorphic RBC(특히 acanthocyte ≥5%), 유의한 알부민뇨(ACR ≥300 ㎎/g 또는 단백뇨 ≥0.3 g/d 상당), 새로 동반된 고혈압을 동반하는 혈뇨 → 사구체신염
+* 급성은 아니지만 s-Cr 상승을 동반
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 원인 미상의 무증상 현미경혈뇨가 지속되는 경우 → 위험도 분류에 따른 비뇨기과적 평가
-* 골반 방사선 치료 병력 또는 직업적 화학물질(벤젠, aromatic amine) 노출력 → 정기적 추적
-* 비뇨기암 위험 인자가 있는 성인에서 새로 발생한 무증상 현미경혈뇨 → 위험도 분류에 따른 선별 평가 계획
+* 원인 미상의 무증상 현미경혈뇨가 지속
+* 골반 방사선 치료 병력 또는 직업적 화학물질(벤젠, aromatic amine) 노출력
+* 비뇨기암 위험 인자가 있는 성인에서 새로 발생한 무증상 현미경혈뇨
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">검사</mark>
 
-{% hint style="info" %}
-**시험지봉·현미경·소변색으로 보는 3단계 감별**
+<mark style="color:cyan;">**시험지봉·현미경·소변색으로 보는 3단계 감별**</mark>
 
 1. 시험지봉(+) / 현미경 RBC(+) : 진성 혈뇨(true hematuria)
 2. 시험지봉(+) / 현미경 RBC(-) : heme 양성 비적혈구뇨(hemoglobinuria, myoglobinuria)
-3. 시험지봉(-) / 적색뇨 : heme 음성 적색뇨(비트, rifampin, phenazopyridine, porphyria 등)
-{% endhint %}
+3. 시험지봉(-) / 적색뇨 : heme 음성 적색뇨(비트, rifampin, phenazopyridine, porphyria)
 
 #### <mark style="color:$primary;">소변 시험지봉 검사</mark>
 
 * 민감도 91\~100%, 특이도 65\~99% (☞ [신장질환의진단](109_.md#undefined-2))
 * 위양성 : 탈수, 심한 운동, hemoglobinuria, myoglobinuria, 월경, semen, 산화제(소독액) 오염
 * 위음성 : 산성뇨(pH＜5.1), 단백뇨, 비중 증가, captopril 복용, Vit C 복용
-* trace 이상 양성이면 반드시 현미경 검사로 확인 - 시험지봉 단독으로 MH 진단 금지
+* trace 이상 양성이면 반드시 현미경 검사로 확인; 시험지봉 단독으로 MH 진단 금지
 
 #### <mark style="color:$primary;">소변 현미경 검사</mark>
 
-* 신선하지 않은 검체에서는 dysmorphic RBC가 관찰될 수 있어 위양성 해석에 주의(반드시 신선한 검체로 판정)
-* 시험지봉 검사(+) & 현미경 검사(-)인 경우, 진단이 애매하면 임상 판단에 따라 새 검체로 재검할 수 있음 - 처음 확인된 무증상 현미경혈뇨는 반복 현미경 검사로 재확인을 고려(대한신장학회 2023; 조건부 권고)
-* 전체 적혈구 중 dysmorphic RBC ＞50\~80%이거나 acanthocyte(고리 모양 세포막 돌출을 가진 적혈구) ≥5%이면 사구체성 혈뇨를 강하게 시사
+* 신선하지 않은 검체에서는 dysmorphic RBC가 관찰될 수 있으므로 위양성 해석에 주의(반드시 신선한 검체로 판정)
+* 시험지봉 검사(+) & 현미경 검사(-)인 경우, 진단이 애매하면 임상 판단에 따라 새 검체로 재검할 수 있음 - 처음 확인된 무증상 현미경혈뇨는 반복 현미경 검사로 재확인을 고려
+* 전체 적혈구 중 dysmorphic RBC가 ＞50\~80%이거나 acanthocyte(고리 모양 세포막 돌출을 가진 적혈구)가 ≥5%이면 사구체성 혈뇨를 강하게 시사
 
-<table><thead><tr><th width="100">구분</th><th width="150">색깔</th><th width="60">Clot</th><th width="120">단백뇨</th><th width="110">RBC 모양</th><th>RBC 원주</th></tr></thead><tbody><tr><td>사구체성</td><td>선홍색\~갈색(cola-colored)</td><td>-</td><td>있음(대개 ACR ≥300 ㎎/g)</td><td>dysmorphic</td><td>+</td></tr><tr><td>비사구체성</td><td>선홍색(red)\~분홍색(pink)</td><td>+</td><td>경미하거나 없음</td><td>isomorphic</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="100">구분</th><th width="205.23809814453125">색깔</th><th width="69.5238037109375">Clot</th><th width="133.333251953125">단백뇨</th><th width="114.7618408203125">RBC 모양</th><th width="92.7464599609375">RBC 원주</th></tr></thead><tbody><tr><td>사구체성</td><td>선홍색~갈색(cola-colored)</td><td>-</td><td>있음(대개 ACR ≥300 ㎎/g)</td><td>dysmorphic</td><td>+</td></tr><tr><td>비사구체성</td><td>선홍색(red)~분홍색(pink)</td><td>+</td><td>경미하거나 없음</td><td>isomorphic</td><td>-</td></tr></tbody></table>
 
-*✽전통적으로 24시간 요단백 ≥500 ㎎/day를 사구체성 혈뇨의 기준으로 인용해 왔으나, 외래에서는 24시간 소변 채집이 드물게 시행되므로 spot 요 알부민/크레아티닌 비(ACR) 또는 단백/크레아티닌 비(PCR)가 실제 활용도가 높음*
+_✽전통적으로 24시간 요단백 ≥500 ㎎/d를 사구체성 혈뇨의 기준으로 용해 왔으나, 외래에서는 24시간 소변 채집이 용이하지 않으므로, spot 요 알부민/크레아티닌 비(ACR) 또는 단백/크레아티닌 비(PCR)가 실제 활용도가 높음_
 
 #### <mark style="color:$primary;">기타 검사</mark>
 
-* 초기 검사(대한신장학회 2023; 전문가 합의 권고) : 혈압 측정을 포함한 신체검사, 요백혈구·질산염(감염 배제), dysmorphic RBC, 적혈구·백혈구 원주, 혈색소·혈소판, 혈청 알부민, s-Cr을 통한 eGFR, 요 ACR 또는 PCR
+* 초기 검사 : 혈압 측정을 포함한 신체검사, 요백혈구·질산염(감염 배제), dysmorphic RBC, 적혈구·백혈구 원주, 혈색소·혈소판, 혈청 알부민, s-Cr을 통한 eGFR, 요 ACR 또는 PCR
 * s-BUN/Cr, eGFR : 원인 감별 및 조영제 사용 검사 가능 여부 판단을 위해 시행
-* 원인이 불분명한 가임기 여성에서는 요 beta-hCG 검사 고려(임신 관련 출혈 감별 및 이후 영상검사 선택에 영향)
+* 원인이 불분명한 가임기 여성에서는 요 β-hCG 검사 고려
 * 소변 배양 검사 : 감염 증상이 있거나 농뇨(pyuria)가 동반될 때 시행
 * 방광경, CT urography : 특히 육안혈뇨 또는 고위험군에서 시행
 
 #### <mark style="color:$primary;">육안혈뇨의 평가 순서</mark>
 
-* ①시험지봉·현미경 검사로 확인(위양성 배제) → ②소변 현미경에서 RBC 형태(dysmorphic vs isomorphic)·원주 동반 여부로 사구체성/비사구체성 감별(위 표 참고) → ③사구체성 소견이면 신장내과 의뢰, 비사구체성이거나 감별이 불명확하면 방광경 + CT urography(고위험군과 동일한 영상 기준 적용)를 통한 비뇨기과 의뢰
-* 육안혈뇨는 위 순서와 무관하게 연령·위험인자에 상관없이 반드시 평가 대상이며, 무증상 현미경혈뇨의 위험도 분류표(저\~고위험)를 적용하지 않음
+* ① 시험지봉·현미경 검사로 확인(위양성 배제) → ② 소변 현미경에서 RBC 형태(dysmorphic vs isomorphic)·원주 동반 여부로 사구체성/비사구체성 감별(위 표 참고) → ③ 사구체성 소견이면 신장내과 의뢰, 비사구체성이거나 감별이 불명확하면 방광경 + CT urography (비뇨기과 의뢰)
+* 육안혈뇨는 연령·위험인자에 상관없이 반드시 평가 대상이며, 무증상 현미경혈뇨의 위험도 분류표(저\~고위험)를 적용하지 않음
 
 ### <mark style="color:orange;">무증상 현미경혈뇨의 위험도 분류 (대한신장학회 2023 진료지침)</mark>
 
 {% hint style="info" %}
-**국내 진료지침과 미국 최신판의 차이**
-대한신장학회·대한소아신장학회·대한비뇨의학회·대한비뇨생식영상의학회가 공동 제정한 2023년 현미경혈뇨 근거기반 진료지침(2023.12)은 2020년 AUA/SUFU 기준을 국내 상황에 맞게 수용개작한 것으로, 아래 표가 현재 국내에서 통용되는 기준입니다. 이후 미국에서는 2025년 AUA/SUFU 개정판(Amendment)이 발표되어 저위험군 명칭이 "저위험/무시할 수 있는 위험"으로 바뀌고 여성의 연령 기준이 ＜60세/≥60세로 상향되었으며(단, 여성은 연령만으로 고위험군에 분류하지 않음), 중등위험군에서 방광경 대신 요세포검사·요종양표지자로 의사결정을 보조하는 항목이 추가되었습니다. 국내 진료지침은 아직 이 2025년 개정 내용을 반영하지 않았으므로, 향후 개정판 발표 시 확인이 필요합니다.
+**국내 진료지침과 미국 최신판의 차이** : 대한신장학회·대한소아신장학회·대한비뇨의학회·대한비뇨생식영상의학회가 공동 제정한 2023년 현미경혈뇨 근거기반 진료지침은 2020년 AUA/SUFU 지침을가심으로 최신 근거를 반영하여 국내 실정에 맞게 개발되었음. 미국에서는 2025년 AUA/SUFU 개정판이 발표되어 저위험군 명칭이 "저위험/무시할 수 있는 위험"으로 바뀌고 저위험군에 해당하는 여성 연령 기준이 기존 50세 미만에서 60세 미만으로 상향되었으며(단, 60세 이상이라는 이유만으로 자동으로 고위험군에 분류하지는 않음), 중등위험군에서 방광경을 원하지 않는 환자에서는 요세포검사 또는 검증된 요종양표지자를 활용하여 방광경 시행 여부를 결정하 권고가 추가되었음.
 {% endhint %}
 
-<table><thead><tr><th width="150">위험군</th><th width="80">기준</th><th width="160">연령</th><th width="130">흡연력</th><th width="180">단일 현미경검사 소견</th><th>비뇨기암 추가 위험인자</th></tr></thead><tbody><tr><td>저위험<br>(다기관 코호트 기준 malignancy 0.4%)</td><td>모두 해당</td><td>여성 ＜50세<br>남성 ＜40세</td><td>비흡연 또는 ＜10갑년</td><td>3\~10 RBC/HPF (한 차례)</td><td>없음</td></tr><tr><td>중등도 위험<br>(malignancy 1.0%)</td><td>1개 이상 해당</td><td>여성 50\~59세<br>남성 40\~59세</td><td>10\~30갑년</td><td>11\~25 RBC/HPF (한 차례)</td><td>있음</td></tr><tr><td>고위험<br>(malignancy 6.3%)</td><td>1개 이상 해당</td><td>여성 또는 남성 ≥60세</td><td>＞30갑년</td><td>＞25 RBC/HPF (한 차례)<br>또는 육안혈뇨 병력</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="199.52386474609375">위험군</th><th width="80">기준</th><th width="124.7618408203125">연령</th><th width="103.3333740234375">흡연력</th><th width="140.952392578125">단일 현미경검사 소견</th><th width="97.50823974609375">비뇨기암 추가 위험인자</th></tr></thead><tbody><tr><td>저위험 (다기관 코호트 기준 malignancy 0.4%)</td><td>모두 해당</td><td>여성 ＜50세<br>남성 ＜40세</td><td>비흡연 또는 ＜10갑년</td><td>3~10 RBC/HPF (한 차례)</td><td>없음</td></tr><tr><td>중등도 위험<br>(malignancy 1.0%)</td><td>1개 이상 해당</td><td>여성 50~59세<br>남성 40~59세</td><td>10~30갑년</td><td>11~25 RBC/HPF (한 차례)</td><td>있음</td></tr><tr><td>고위험<br>(malignancy 6.3%)</td><td>1개 이상 해당</td><td>여성 또는 남성 ≥60세</td><td>＞30갑년</td><td>＞25 RBC/HPF (한 차례) 또는 육안혈뇨 병력</td><td>-</td></tr></tbody></table>
 
-*✽악성종양 발생률은 연구 코호트에 따라 편차가 크며(예: Woldu 등의 다기관 코호트는 저위험 0.4%·중등도 1.0%·고위험 6.3%), 위 수치는 대표값 예시임*
+_✽악성종양 발생률은 연구 코호트에 따라 편차가 크며(예: Woldu 등의 다기관 코호트는 저위험 0.4%·중등도 1.0%·고위험 6.3%), 위 수치는 대표값 예시임_
 
-*✽표의 "육안혈뇨 병력"은 과거에 육안혈뇨를 경험했던 병력을 위험인자로 반영한 것 - 현재 진행 중인 육안혈뇨는 이 위험도 분류를 적용하지 않고 아래 "육안혈뇨의 평가 순서"에 따라 즉시 평가*
+_✽표의 "육안혈뇨 병력"은 과거에 육안혈뇨를 경험했던 병력을 위험인자로 반영한 것 - 현재 진행 중인 육안혈뇨는 이 위험도 분류를 적용하지 않고 아래 "육안혈뇨의 평가 순서"에 따라 즉시 평가_
 
 * 비뇨기암 주요 위험 인자 : 연령, 남성, 흡연력, 현미경혈뇨의 정도, 육안혈뇨 병력
 * 추가 위험 인자 : 하부요로 자극 증상, 골반 방사선 치료 과거력, cyclophosphamide/ifosfamide 항암제 치료력, 요로암 가족력 또는 Lynch 증후군, 벤젠·방향족 아민 직업적 노출력, 만성 유치 이물 병력
-* 저위험군 : 공동의사결정을 거쳐 ①6개월 이내 소변검사 재검 또는 ②방광경+신장 초음파 중 선택 \[조건부 권고, 근거 수준 낮음]
+* 저위험군 : 공동의사결정을 거쳐 ① 6개월 이내 소변검사 재검 또는 ② 방광경+신장 초음파 중 선택 \[조건부 권고]
 * 중등도 위험군 : 방광경 + 신장 초음파 \[강한 권고]; 고위험군 : 방광경 + 요로 CT(CT urography) \[강한 권고]
   * 조영증강 CT 금기(만성콩팥병, 요오드 조영제 알레르기 등) → 요로조영 MR 시행
   * 조영증강 CT·MR 모두 금기 → 비조영 CT/MR 또는 신장 초음파 + 역행성 신우조영술(retrograde pyelography)
   * 임신 중인 환자 → 신장 초음파를 우선 시행하고, CT/MR은 출산 후로 연기
 * 신세포암 가족력, 유전성 신장 종양 증후군이 있는 경우 위험군과 무관하게 상부요로 영상 검사 시행을 고려
-* 소변세포검사(urine cytology)는 초기 선별검사로 일률 시행하지 않으며, 비뇨기암 위험 인자가 있거나 현미경혈뇨가 지속될 때 다른 진단 검사와 함께 선택적으로 고려 \[조건부 권고, 근거 수준 낮음]
+* 소변세포검사(urine cytology)는 초기 선별검사로 일률 시행하지 않으며, 비뇨기암 위험 인자가 있거나 현미경혈뇨가 지속될 때 다른 진단 검사와 함께 선택적으로 고려 \[조건부 권고]
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="150">단서</th><th>시사하는 질환</th></tr></thead><tbody><tr><td>작열감, 절박뇨, 빈뇨</td><td>UTI(☞ [요로감염](113_-urinary-tract-infection.md))</td></tr><tr><td>관절통, 관절염, 발진</td><td>루푸스, 혈관염, HS purpura</td></tr><tr><td>진한 콜라색 소변, 원주 동반</td><td>사구체성 혈뇨</td></tr><tr><td>옆구리 통증(산통성)</td><td>요로 결석, 신경색, 신우신염</td></tr><tr><td>피덩이(clot)</td><td>비사구체성 혈뇨</td></tr><tr><td>체중 감소, 전신 증상</td><td>비뇨기암</td></tr><tr><td>최근 여행력(유행 지역)</td><td>schistosomiasis(국내에서는 드묾, 해외 유행지역 여행력 시 고려)</td></tr><tr><td>상기도 감염과 거의 동시(synpharyngitic)에 발생하는 혈뇨</td><td>IgA 신증</td></tr><tr><td>상기도 감염 후 1\~3주 지나 발생하는 혈뇨(잠복기)</td><td>PSGN</td></tr><tr><td>풍토 지역 방문 후 발열·객혈 동반</td><td>결핵(국내에서도 발생률이 높아 배제 필요)</td></tr><tr><td>혈뇨 가족력</td><td>Alport 증후군, 겸상적혈구병, 다낭신, IgA 신증</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="355.71429443359375">단서</th><th>시사하는 질환</th></tr></thead><tbody><tr><td>작열감, 절박뇨, 빈뇨</td><td>UTI</td></tr><tr><td>관절통, 관절염, 발진</td><td>루푸스, 혈관염, HS purpura</td></tr><tr><td>진한 콜라색 소변, 원주 동반</td><td>사구체성 혈뇨</td></tr><tr><td>옆구리 통증(산통성)</td><td>요로 결석, 신경색, 신우신염</td></tr><tr><td>피덩이(clot)</td><td>비사구체성 혈뇨</td></tr><tr><td>체중 감소, 전신 증상</td><td>비뇨기암</td></tr><tr><td>최근 여행력(유행 지역)</td><td>schistosomiasis(국내에서는 드묾, 해외 유행지역 여행력 시 고려)</td></tr><tr><td>상기도 감염과 거의 동시(synpharyngitic)에 발생하는 혈뇨</td><td>IgA 신증</td></tr><tr><td>상기도 감염 후 1~3주 지나 발생하는 혈뇨(잠복기)</td><td>PSGN</td></tr><tr><td>풍토 지역 방문 후 발열·객혈 동반</td><td>결핵(국내에서도 발생률이 높아 배제 필요)</td></tr><tr><td>혈뇨 가족력</td><td>Alport 증후군, 겸상적혈구병, 다낭신, IgA 신증</td></tr></tbody></table>
 
 ### <mark style="color:orange;">추적 검사</mark>
 
@@ -185,13 +184,9 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
-**혈뇨 자체는 진단명이 아니라 소견입니다**
-원인 질환을 확인하고 그에 따라 치료하는 것이 원칙이며, 이 챕터는 원인 감별과 위험도 기반 평가·의뢰 기준을 제공합니다.
-{% endhint %}
-
 ### <mark style="color:orange;">치료 방침</mark>
 
+* 혈뇨 자체는 진단명이 아니라 소견이므로 원인 질환을 확인하고 그에 따라 치료하는 것이 원칙임
 * 육안혈뇨, 응괴에 의한 요폐, 혈역학적 불안정 → 즉시 비뇨기과 의뢰(방광 세척·유치 도뇨 등 응급 처치 필요할 수 있음)
 * 사구체성 혈뇨(적혈구 원주, dysmorphic RBC, 유의한 단백뇨 동반) → 신장내과 의뢰; 원인 질환별 치료(☞ [신장질환의진단](109_.md))
 * 비사구체성 혈뇨 중 원인이 명확한 경우(UTI(☞ [요로감염](113_-urinary-tract-infection.md)), 요로 결석(☞ [요로결석](133_-urolithiasis.md)) 등) → 해당 질환 치료 후 F/U 요검사로 확인
