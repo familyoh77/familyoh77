@@ -37,7 +37,7 @@
 ## <mark style="color:green;">임상 양상</mark>
 
 * 불규칙 월경 : 기간 및 양의 불규칙, 과소 & 과다 월경
-* VMS(Vasomotor symptom) : 돌발적 안면 홍조(hot flash, 보통 2\~4분간 지속), 발한, 두근거림, 수면 장애
+* VMS(Vasomotor symptom) : 돌발적 안면 홍조(hot flash, 보통 2\~4분간 지속), 야간발한, 두근거림, 수면 장애
   * 중년 여성의 70%가 경험, stage -1\~+1 시기에 심하며 평균 4\~10년간 발생, ＞70세의 9%에서 지속
   * 폐경 전 난소 절제, 비만, 우울증, 낮은 경제/교육 수준, 흡연 여성에서 더 심함
 * 정신적 증상 : 우울, 불안, 불안정, 집중력 저하, 월경성 편두통 악화
@@ -111,75 +111,80 @@
 
 ```mermaid
 flowchart TD
-    A["<b>Menopausal vasomotor symptoms(VMS) 평가</b><br/>• Hot flashes, night sweats, or both"]
-
-    B1["<b>중등증~중증 VMS</b><br/>삶의 질(수면, 주간 기능 등)을 낮추거나 성가신"]
-    B2["<b>경증 VMS</b><br/>삶의 질에 영향 없음"]
+    A["<u>VMS 평가</u><br/>안면홍조, 야간 발한"]
+    B1["<u>중등증~중증 VMS</u><br/>삶의 질(수면, 주간 기능 등)을<br/> 낮추거나 성가심"]
+    B2["<u>경증 VMS</u><br/>삶의 질에 영향 없음"]
     B3["HT 고려하지 않음"]
-
-    C["<b>HT 사용 금기 평가</b><br/>유방암, 간질환, 뇌졸중, 심근경색, DVT, estrogen 의존성 신생물, 폐색전증,<br/>thrombophilic disorder(예: protein C, protein S, or antithrombin deficiency)"]
-
+    C["HT 사용 금기 평가¹⁾"]
     D1["HT 금기 사항 없음"]
-    D2["HT에 대한 금기 사항이 있거나 관심이 없음"]
-
-    E1["<b>HT 제제 선택 (환자 선호 고려)</b><br/>• HT 개시의 최적 후보자 : &lt;60세, 폐경 시작 후 &lt;10년, 낮은 심혈관 질환/유방암 위험<br/>• Estrogen 단독 (자궁절제술을 받은 사람)<br/>• Estrogen + Progestogen or bazedoxifene<br/>• 경피 HT 사용 고려 사항 : 경구 HT보다 응고 인자에 대한 부작용(예: DVT)이 적을 수 있음; 심혈관 질환의 위험 인자를 가진 여성에게 더 안전할 수 있음<br/>• HT 사용에 따른 endometrial hyperplasia 발생률을 고려<br/>• HT 사용 중 질 출혈을 신속하게 평가"]
-
-    E2["<b>비호르몬 대체제 고려</b><br/>허가 사항은 아니지만 임상 시험 데이터에 의해 지원되는 옵션<br/>• 서방형 venlafaxine 37.5 ㎎/d ×1주 → 증량 75 ㎎/d<br/>• desvenlafaxine 100 ㎎/d<br/>• escitalopram 10(~20) ㎎/d<br/>• paroxetine mesylate 7.5 ㎎ 취침 전<br/>• citalopram 10(~30) ㎎/d<br/>• gabapentin 900 ㎎/d 취침 전 또는 분할 투여<br/>• pregabalin* 75(~150) ㎎ bid<br/>• clonidine 경구 0.1~1 ㎎/d or 경피 0.1~0.3 ㎎/wk"]
-
+    D2["HT에 대한 금기 사항이 있거나 <br/>관심이 없음"]
+    E1["HT 제제 선택²⁾ <br/>(환자 선호 고려)"]
+    E2["비호르몬 대체제 고려³⁾"]
     A --> B1
     A --> B2
     B2 --> B3
-
     B1 --> C
     C --> D1
     C --> D2
-
     D1 --> E1
     D2 --> E2
 
-    classDef purple fill:#ECE8FA,stroke:#B0A4E3,stroke-width:1px,color:#000000;
-    classDef yellow fill:#FFF9DC,stroke:#EAD880,stroke-width:1px,color:#000000;
-    classDef pink fill:#FDE8E8,stroke:#F5B7B7,stroke-width:1px,color:#000000;
-    classDef blue fill:#EAF2FD,stroke:#A3C6F1,stroke-width:1px,color:#000000;
-
-    class A,C purple;
-    class B1,B2,D1,D2 yellow;
-    class B3 pink;
-    class E1,E2 blue;
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+style B2 fill:#fef4f8,stroke:#f06baf
+style B1 fill:#fcd4e6,stroke:#e0448e
+style B3 fill:#d0e8ff,stroke:#1a6abf
+style C fill:#fff9c4,stroke:#ffe082
+style D2 fill:#fdebd0,stroke:#e67e22
+style D1 fill:#fff3e0,stroke:#e65100
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class E1,E2 sky
 ```
 
-_\*2023 The Menopause Society(구 NAMS)는 pregabalin을 권고하지 않음_
+_¹⁾ 유방암, 간질환, 뇌졸중, 심근경색, DVT, estrogen 의존성 신생물, 폐색전증, thrombophilic disorder(예: protein C, protein S, or antithrombin deficiency)_
+
+_²⁾• HT 개시의 최적 후보자 :_ ＜_60세, 폐경 시작 후_ ＜_10년, 낮은 심혈관 질환/유방암 위험_\
+_• Estrogen 단독 (자궁절제술을 받은 사람)_\
+_• Estrogen + Progestogen or bazedoxifene_\
+_• 경피 HT 사용 고려 사항 : 경구 HT보다 응고 인자에 대한 부작용(예: DVT)이 적을 수 있음; 심혈관 질환의 위험 인자를 가진 여성에게 더 안전할 수 있음_\
+_• HT 사용에 따른 endometrial hyperplasia 발생률을 고려_\
+_• HT 사용 중 질 출혈을 신속하게 평가_&#x20;
+
+_³⁾허가 사항은 아니지만 임상 시험 데이터에 의해 지원되는 옵션_\
+_• 서방형 venlafaxine 37.5 ㎎/d ×1주 → 증량 75 ㎎/d_\
+_• desvenlafaxine 100 ㎎/d_\
+_• escitalopram 10(\~20) ㎎/d_\
+_• paroxetine mesylate 7.5 ㎎ 취침 전_\
+_• citalopram 10(\~30) ㎎/d_\
+_• gabapentin 900 ㎎/d 취침 전 또는 분할 투여_\
+_• pregabalin\* 75(\~150) ㎎ bid (The Menopause Society는 권고 않함)_\
+_• clonidine 경구 0.1\~1 ㎎/d or 경피 0.1\~0.3 ㎎/wk_
 
 <p align="center"><strong>폐경기 VMS 치료 접근 알고리듬</strong><br><em><mark style="color:$info;">Ref. Management of Menopausal Symptoms: A Review. JAMA. 2023;329(5):405–420. Fig 1.</mark></em><br></p>
 
 ```mermaid
 graph TD
-    A["<b>GSM 평가</b><br/>• 성교통, 질 건조, 질 자극"]
-
-    B["R/O 외상, 감염, lichen sclerosus, 악성 종양, 접촉성 또는 자극성 피부염"]
-
-    C["<b>비호르몬 치료</b><br/><b>질 윤활제 or 습윤제 시도 : 효과 및 증상 중증도 평가</b>"]
-
+    A["<u>GSM 평가</u><br/>성교통, 질 건조, 질 자극"]
+    B["R/O 외상, 감염, 악성 종양,<br/>접촉성 또는 자극성 피부염, <br/>lichen sclerosus"]
+    C["<u>비호르몬 치료</u><br/>질 윤활제 or 습윤제 시도"]
+    C1[효과 및 증상 중증도 평가]
     D1["증상 호전이 없거나 불충분"]
     D2["충분한 증상 호전"]
-
-    E1["<b>다른 치료 고려 (환자 선호 고려)</b><br/>질내 저용량 estrogen or prasterone, 경구 ospemifene<br/>치료 금기 고려<br/>•공통 : 비정상적 생식기 출혈, 유방암, 뇌졸중, 심근경색, estrogen 의존성 신생물, DVT, 폐색전증<br/>•Vaginal estrogen & oral ospemifene 금기 : 간질환"]
+    E1["다른 치료 고려 <br/>(환자 선호 고려)"]
     E2["필요시 사용 지속"]
-
     A --> B
     B --> C
-    C --> D1
-    C --> D2
-    D1 --> E1
+    C --> C1
+    C1 --> D2
+ C1 --> D1
     D2 --> E2
-
-    classDef purple fill:#ECE8FA,stroke:#B0A4E3,stroke-width:1px,color:#000000;
-    classDef yellow fill:#FFF9DC,stroke:#EAD880,stroke-width:1px,color:#000000;
-    classDef blue fill:#EAF2FD,stroke:#A3C6F1,stroke-width:1px,color:#000000;
-
-    class A purple;
-    class B,D1,D2,E2 yellow;
-    class C,E1 blue;
+    D1 --> E1
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+style C1 fill:#fff9c4,stroke:#ffe082
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class C,E2 sky
+style E1 fill:#d0e8ff,stroke:#1a6abf
+style D1 fill:#fdebd0,stroke:#e67e22
+style D2 fill:#fff3e0,stroke:#e65100
 ```
 
 <p align="center"><strong>GSM</strong>(Genitourinary syndrome of menopause) <strong>치료 접근 알고리듬</strong></p>
@@ -205,7 +210,7 @@ graph TD
 <table data-header-hidden data-search="false"><thead><tr><th width="255"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Method</strong></td><td><strong>용량</strong></td><td><strong>완화 정도</strong></td></tr><tr><td><strong>Estrogen</strong></td><td></td><td>80~90%</td></tr><tr><td><strong>Progestogen</strong></td><td></td><td></td></tr><tr><td>megestrol <mark style="color:blue;">[메게이스]</mark></td><td>40 ㎎/d</td><td>85%</td></tr><tr><td>MPA <mark style="color:blue;">[프로베라]</mark></td><td>20 ㎎/d</td><td>85%</td></tr><tr><td>MPA (q2wk IM)</td><td>500 ㎎</td><td>85%</td></tr><tr><td>경피 progesterone</td><td>20 ㎎/d</td><td>85%</td></tr><tr><td><strong>Phytoestrogen</strong></td><td></td><td></td></tr><tr><td>soy</td><td></td><td>일부¹⁾</td></tr><tr><td>black cohosh <mark style="color:blue;">[지노큐에스]</mark></td><td>40 ㎎/d</td><td>일부¹⁾</td></tr><tr><td><strong>항우울제</strong></td><td></td><td></td></tr><tr><td>fluoxetine <mark style="color:blue;">[프로작]</mark></td><td>20 ㎎/d</td><td>50%</td></tr><tr><td>paroxetine²⁾ <mark style="color:blue;">[세로자트]</mark></td><td>12.5~25 ㎎/d</td><td>60~65%</td></tr><tr><td>venlafaxine <mark style="color:blue;">[이팩사]</mark></td><td>75 ㎎/d</td><td>60%</td></tr><tr><td><strong>기타</strong></td><td></td><td></td></tr><tr><td>clonidine</td><td>0.1 ㎎/d</td><td>38~78%</td></tr><tr><td>gabapentin <mark style="color:blue;">[뉴론틴]</mark></td><td>900 ㎎/d</td><td>45%</td></tr><tr><td>Vit E</td><td>800 IU/d</td><td>일부¹⁾</td></tr><tr><td>위약</td><td></td><td>20~50%</td></tr></tbody></table>
 
 _¹⁾ 일부 환자에서 효과; 다만 2023 The Menopause Society 지침은 soy·black cohosh 등 phytoestrogen을 근거 부족으로 권고하지 않음_\
-&#xNAN;_&#xB2;⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 대하여 FDA 승인을 받은 유일한 비호르몬 약제임_
+\&#xNAN;_²⁾ 저용량 paroxetine은 표에 제시된 항우울제 중 VMS 치료에 대하여 FDA 승인을 받은 유일한 비호르몬 약제임_
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -471,8 +476,8 @@ _¹⁾ 일부 환자에서 효과; 다만 2023 The Menopause Society 지침은 s
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Treatment</strong></td><td><strong>권고</strong></td><td><strong>권고 안함</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>생활 습관</strong></td><td></td><td></td><td></td></tr><tr><td>Cooling technique, Avoiding trigger, Exercise, Yoga</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Dietary modification</td><td></td><td>Level III</td><td>근거 부족</td></tr><tr><td>Weight loss</td><td>Level II/III</td><td></td><td></td></tr><tr><td><strong>Mind-body technique</strong></td><td></td><td></td><td></td></tr><tr><td>Cognitive-behavioral therapy</td><td>Level I</td><td></td><td></td></tr><tr><td>Mindfulness-based interventions</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Clinical hypnosis</td><td>Level I</td><td></td><td></td></tr><tr><td>Paced respiration</td><td></td><td>Level I</td><td>효과 없음</td></tr><tr><td>Relaxation</td><td></td><td>Level II</td><td>효과 없음</td></tr><tr><td><strong>약물 치료</strong></td><td></td><td></td><td></td></tr><tr><td>SSRIs/SNRIs</td><td>Level I</td><td></td><td></td></tr><tr><td>Gabapentin</td><td>Level I</td><td></td><td></td></tr><tr><td>Pregabalin</td><td></td><td>Level III</td><td>부작용¹⁾</td></tr><tr><td>Clonidine</td><td></td><td>Level I/III</td><td>부작용, 효과 부족</td></tr><tr><td>Oxybutynin</td><td>Level I/II</td><td></td><td>인지 저하 부작용²⁾</td></tr><tr><td>Suvorexant</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Fezolinetant</td><td>Level I</td><td></td><td></td></tr><tr><td><strong>식이, 보충제</strong></td><td></td><td></td><td></td></tr><tr><td>Soy foods, extracts, metabolite equol</td><td></td><td>Level II</td><td>효과 부족</td></tr><tr><td>Supplements/Herbal remedies³⁾</td><td></td><td>Level I/III</td><td>근거 부족</td></tr><tr><td>Cannabinoids</td><td></td><td>Level II</td><td>부작용</td></tr><tr><td><strong>기타</strong></td><td></td><td></td><td></td></tr><tr><td>Acupuncture</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Stellate ganglion block</td><td>Level II/III</td><td></td><td>부작용 위험</td></tr><tr><td>Calibration of neural oscillation</td><td></td><td>Level II</td><td>근거 부족</td></tr><tr><td>Chiropractic intervention</td><td></td><td>Level II</td><td>근거 부족</td></tr></tbody></table>
 
 _¹⁾ Pregabalin은 VMS 감소 효과가 있으나 어지러움, 인지 장애, 체중 증가 등의 문제로 권고하지 않음_\
-_²⁾ 노인에서 장기 사용 시 인지 기능 저하와 관련될 수 있음_\
-_³⁾ Pollen extract, Ammonium succinate, Lactobacillus acidophilus, Rhubarb, Black cohosh, Wild yam, Dong quai, Evening primrose, Maca, Ginseng, Labisia pumila/Eurycoma longifolia, Chasteberry, Milk thistle, Omega-3 fatty acid, Vit E_
+&#xNAN;_&#xB2;⁾ 노인에서 장기 사용 시 인지 기능 저하와 관련될 수 있음_\
+&#xNAN;_&#xB3;⁾ Pollen extract, Ammonium succinate, Lactobacillus acidophilus, Rhubarb, Black cohosh, Wild yam, Dong quai, Evening primrose, Maca, Ginseng, Labisia pumila/Eurycoma longifolia, Chasteberry, Milk thistle, Omega-3 fatty acid, Vit E_
 
 _**Level I**: good and consistent scientific evidence **Level II**: limited or inconsistent scientific evidence **Level III**: consensus and expert opinion_
 
