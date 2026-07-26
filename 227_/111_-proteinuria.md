@@ -1,7 +1,5 @@
 # 단백뇨 Proteinuria
 
-![image](../.gitbook/assets/50afda3e-7343-4b69-8d0f-673c5fc78906.JPG)
-
 ## 일반 사항
 
 ### 단백뇨 및 미세알부민뇨의 정의
