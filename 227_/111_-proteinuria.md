@@ -4,9 +4,15 @@
 
 ### 단백뇨 및 미세알부민뇨의 정의
 
-```
-![image](images/81cd3a1f-2321-4b97-b614-c3b97e9c016e.JPG)
-```
+| 구분             | 정상\~경도 증가  | 중등도 증가   | 고도 증가 |
+| -------------- | ---------- | -------- | ----- |
+| **ACR (mg/g)** | <30        | 30\~300  | >300  |
+| **PCR (mg/g)** | <150       | 150\~500 | >500  |
+| **요 시험지붕 검사**  | \~±(trace) | ±\~1+    | >1+   |
+
+_ACR=u/Alb/Cr ratio, PCR=u/Prot/Cr ratio_&#x20;
+
+<p align="center"><em><mark style="color:$info;">Ref. 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022, 표 2.</mark></em></p>
 
 #### 미세알부민뇨 (Microalbuminuria)
 
@@ -31,18 +37,15 @@
 ### 기능성 단백뇨 (Functional proteinuria)
 
 * 양성 경과의 일과성 단백뇨
-*   원인 : 급성 질환, 발열, 심한 활동/운동, 기립 자세, 탈수, 정신적 스트레스, 임신, 고열, 추위 노출, 염증 상태, 심부전,
-
-    고혈압, 약물
+* 원인 : 급성 질환, 발열, 심한 활동/운동, 기립 자세, 탈수, 정신적 스트레스, 임신, 고열, 추위 노출, 염증 상태, 심부전, 고혈압, 약물
 * 요단백 양 : ＜1 g/d (✽＞1 g/d의 요단백은 보통 사구체 질환에 의함)
 * 건강한 사람에서 검출되는 단백뇨는 추적 검사 시 대개 소실됨
 * 치료 : 필요 없음
 
 #### 기립성 또는 자세 단백뇨 (Orthostatic or Postural proteinuria)
 
-*   장시간 서서 활동한 후에 발생한 단백뇨
-
-    •누운 자세로 휴식 후에는 정상, 기립 자세 활동 후에는 요단백 양성
+* 장시간 서서 활동한 후에 발생한 단백뇨
+  * 누운 자세로 휴식 후에는 정상, 기립 자세 활동 후에는 요단백 양성
 * 요단백 양 : 아침 첫 소변에서 ＜50 ㎎
 * 보통 ＜30세에서 호발
 * 기전 : 불명; 기립 중의 혈류 역학 변화, 사구체 변화 등으로 추정
@@ -52,9 +55,7 @@
 #### 소아 및 청소년에서의 단백뇨
 
 * 원인 : 대부분 발열, 운동 등에 의한 일과성 단백뇨
-*   선별 검사 양성 시 채뇨 유의 사항을 지켜 재검
-
-    → 1주 간격으로 3회 검사에서 최소 2번 단백뇨 검출 시 신질환에 대한 추가 검사 시행
+* 선별 검사 양성 시 채뇨 유의 사항을 지켜 재검 → 1주 간격으로 3회 검사에서 최소 2번 단백뇨 검출 시 신질환에 대한 추가 검사 시행
 
 ### Overload proteinuria
 
@@ -64,9 +65,7 @@
 ### Glomerular proteinuria
 
 * 기전 : 사구체에서의 단백질 투과 증가
-*   1차성 : minimal change Dz, 선천성 신증후군, focal segmental glomerular sclerosis, IgA nephropathy(Berger’s Dz),
-
-    membranoproliferative glomerulonephritis, membranous nephropathy, Alport syndrome
+* 1차성 : minimal change Dz, 선천성 신증후군, focal segmental glomerular sclerosis, IgA nephropathy(Berger’s Dz), membranoproliferative glomerulonephritis, membranous nephropathy, Alport syndrome
 * 2차성 : PSGN, 당뇨병, SLE, Henoch-Schönlein purpura
 
 ### Tubular proteinuria
@@ -93,24 +92,21 @@
 
 * 채뇨 방법 : 검사일 전날 밤 취침 시 배뇨 후 아침 첫 소변 채취 (☞ p.604)
 
-#### 시험지봉 검사![image](../.gitbook/assets/37642a2c-a7df-409e-a36c-af77cf143fb9.JPG)
+#### 시험지봉 검사
 
 * 글로불린, Bence-Jones 단백은 검출할 수 없음
 * 위양성 : 육안혈뇨, 심한 농축뇨(SG ＞1.025), 알칼리 소변(pH＞8.0)
 
+<mark style="color:cyan;">**Urine stick 검사 결과에 따른 추정 단백량**</mark>
+
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>시험지봉 검사 결과</strong></td><td><strong>추정 요단백 농도 (mg/dL)</strong></td><td><strong>추정 1일 배출 단백량 (g/d)</strong></td></tr><tr><td><strong>Negative</strong></td><td>&#x3C;15</td><td>&#x3C;0.5</td></tr><tr><td><strong>Trace</strong></td><td>15~30</td><td>&#x3C;0.5</td></tr><tr><td><strong>1+</strong></td><td>30~100</td><td>0.5~1.5</td></tr><tr><td><strong>2+</strong></td><td>100~300</td><td>2~3</td></tr><tr><td><strong>3+</strong></td><td>300~1,000</td><td>2~3</td></tr><tr><td><strong>4+</strong></td><td>≥1,000</td><td>≥3.5</td></tr></tbody></table>
+
 #### 소변 단백 정량 검사
 
-*   임의뇨 Alb/Cr ratio 측정
-
-    •가능한 한 아침 첫 소변 또는 식사 2시간 후 소변 채취
-
-    •Alb/Cr ratio가 ＞500 ㎎/g 이면 Alb/Cr ratio 대신
-
-    임의뇨 Prot/Cr ratio 이용 가능
-
-    •24시간 단백 배설량과 상관관계가 있음; 근육량이
-
-    너무 많거나 적으면 부적당
+* 임의뇨 Alb/Cr ratio 측정
+  * 가능한 한 아침 첫 소변 또는 식사 2시간 후 소변 채취
+  * Alb/Cr ratio가 ＞500 ㎎/g 이면 Alb/Cr ratio 대신 임의뇨 Prot/Cr ratio 이용 가능
+  * 24시간 단백 배설량과 상관관계가 있음; 근육량이 너무 많거나 적으면 부적당
 * 24시간뇨 수집 (미세알부민 검사 보험기준 ☞ p.1192)
 
 ### 소변 외 검사
@@ -121,13 +117,10 @@
 
 ### 선별 검사
 
-*   시험지봉 검사상 단백뇨가 1+ 이상 : 3개월 내 단백뇨 정량 검사 실시 → 정량 검사에서 단백뇨 진단 시 1\~2주 간격으로 재검
-
-    → 연속적으로 양성 시 관리
+* 시험지봉 검사상 단백뇨가 1+ 이상 : 3개월 내 단백뇨 정량 검사 실시 → 정량 검사에서 단백뇨 진단 시 1\~2주 간격으로 재검 → 연속적으로 양성 시 관리
 * 시험지봉 검사상 단백뇨이면서 Prot/Cr ratio 정상 : 주기적 추적 관찰
 * 만성콩팥병 위험도가 높은 환자(예: 당뇨병) : 처음부터 단백뇨 정량 검사 실시 → 단백뇨 진단 시 만성 신질환에 대한 평가
-
-•필요시 사구체성, 세뇨관성, 또는 범람성 단백뇨 감별을 위한 소변 단백 전기영동검사 시행
+  * 필요시 사구체성, 세뇨관성, 또는 범람성 단백뇨 감별을 위한 소변 단백 전기영동검사 시행
 
 ***
 
@@ -139,12 +132,12 @@
 * 관리 목표 : 단백뇨 ＜0.5 g/d, 혈압 ≤140/90 ㎜Hg(연령, 상황에 따른 목표 설정) (☞ p.482)
 * 필요한 것 외의 약제 사용을 피함, 특히 신장 독성 약물 사용을 피함(예: NSAID, aminoglycoside)
 
-![image](../.gitbook/assets/f2875589-0bd6-4531-ad11-1d7ec7121aab.JPG)
+![단백뇨 관리 알고리듬](../.gitbook/assets/f2875589-0bd6-4531-ad11-1d7ec7121aab.JPG)
 
 ## 비-약물 치료
 
 * 단백질 섭취 제한 : eGFR ＜30 시 ≤0.8 g/㎏/d
-* Na 섭취 제한 : ＜2 g/d(소금으로 5 g/d) (☞ p.484)
+* Na 섭취 제한 : ＜2 g/d(소금으로 5 g/d) (☞ [고혈압](../225_/095_-hypertension.md#undefined-27))
 * 적당한 수분 섭취 : 목표 소변량 \~2 L/d
 * 금연, 적정 체중 유지
 * supine posture 권고
@@ -156,7 +149,9 @@
 * ACEI 또는 ARB : 1차 선택제; 정상 혈압이 유지되는 최대 용량 적용 (☞ p.486)
 * non-DHP CCB : diltiazem \[헤르벤], verapamil \[이솦틴]
 
-> **질병코드** N39.1 상세불명의 지속성 단백뇨
+### **질병코드**&#x20;
+
+N39.1 상세불명의 지속성 단백뇨
 
 N39.2 상세불명의 기립성 단백뇨
 
