@@ -121,7 +121,7 @@
   * [갑상선결절 Thyroid Nodule](226_/107_-thyroid-nodule.md)
   * [폐경기증후군 Menopause Syndrome](226_/108_-menopause-syndrome.md)
 * [Part 8. 신장비뇨생식기](227_/README.md)
-  * [신장 질환의 진단](227_/109_.md)
+  * [콩팥 질환의 진단](227_/109_.md)
   * [혈뇨 Hematuria](227_/110_-hematuria.md)
   * [단백뇨 Proteinuria](227_/111_-proteinuria.md)
   * [만성콩팥병 Chronic Kidney Disease, CKD](227_/112_-chronic-kidney-disease-ckd.md)
