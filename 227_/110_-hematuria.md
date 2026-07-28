@@ -96,7 +96,7 @@
 * 전체 적혈구 중 dysmorphic RBC가 ＞50\~80%이거나 acanthocyte(고리 모양 세포막 돌출을 가진 적혈구)가 ≥5%이면 사구체성 혈뇨를 강하게 시사
 * 응괴(clot)는 사구체 출혈보다는 요로 출혈 가능성이 높음
 
-<table><thead><tr><th width="100">구분</th><th width="134.7618408203125">색깔</th><th width="69.5238037109375">Clot</th><th width="133.333251953125">단백뇨</th><th width="114.7618408203125">RBC 모양</th><th width="92.7464599609375">RBC 원주</th></tr></thead><tbody><tr><td>사구체성</td><td>선홍색~갈색(cola-colored)</td><td>-</td><td><strong>있음</strong>(대개 ACR ≥300 ㎎/g)</td><td><strong>dysmorphic</strong></td><td><strong>+</strong></td></tr><tr><td>비사구체성</td><td>선홍색(red)~분홍색(pink)</td><td>+</td><td>경미하거나 없음</td><td>isomorphic</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="100">구분</th><th width="134.7618408203125">색깔</th><th width="69.5238037109375">Clot</th><th width="133.333251953125">단백뇨</th><th width="125.238037109375">RBC 모양</th><th width="92.7464599609375">RBC 원주</th></tr></thead><tbody><tr><td>사구체성</td><td>선홍색~갈색(cola-colored)</td><td>-</td><td><strong>있음</strong>(대개 ACR ≥300 ㎎/g)</td><td><strong>dysmorphic</strong></td><td><strong>+</strong></td></tr><tr><td>비사구체성</td><td>선홍색(red)~분홍색(pink)</td><td><strong>+</strong></td><td>경미하거나 없음</td><td>isomorphic</td><td>-</td></tr></tbody></table>
 
 _✽전통적으로 24시간 요단백 ≥500 ㎎/d를 사구체성 혈뇨의 기준으로 용해 왔으나, 외래에서는 24시간 소변 채집이 용이하지 않으므로, 임의뇨 알부민/크레아티닌 비(ACR) 또는 단백/크레아티닌 비(PCR)가 실제 활용도가 높음_
 
@@ -137,47 +137,54 @@ _✽전통적으로 24시간 요단백 ≥500 ㎎/d를 사구체성 혈뇨의 �
 * 외상 후 발생한 경우 손상 정도에 따라 수 주(대개 4\~6주)에 걸쳐 재검
 * 요로 감염이 원인이었던 경우 치료 2\~6주 후 재검 (☞ [요로감염](113_-urinary-tract-infection.md))
 * 요로 결석이 원인이었던 경우 결석 배출 후 재검 (☞ [요로결석](133_-urolithiasis.md))
-* 평가에서 특이 소견이 없었던 무증상 현미경혈뇨는 1년 이내 소변검사 재시행을 고려하고, 이때 혈압·단백뇨·eGFR을 함께 평가 - 2회 연속 음성이면 추적 종결을 고려하고, 지속·재발하면 재평가 필요성을 환자와 공유의사결정
+* 평가에서 특이 소견이 없었던 무증상 현미경혈뇨는 1년 이내 소변검사 재시행을 고려하고, 이때 혈압·단백뇨·eGFR을 함께 평가 - 2회 연속 음성이면 추적 종결을 고려하고, 지속·재발하면 재평가 필요성을 환자와 공동의사결정
 
 ***
 
 ```mermaid
 graph TD
     A([무증상 현미경혈뇨 확인<br>단일 검체 RBC＞3/HPF]) --> B[운동·외상·최근 비뇨의학과 시술·생리혈 오염·요로감염 등<br>배제 위한 병력청취·신체검사]
-    B --> C[처음 확인된 경우<br>반복 현미경검사로 재확인 고려]
+    B --> C[처음 확인된 경우<br>반복 현미경검사로 재확인]
     C -->|재검 음성| C1[추가 평가 불필요<br>양호한 예후]
     C -->|재검 양성 또는 확진| D0[최초 평가<br>요백혈구·질산염, dysmorphic RBC/원주,<br>혈색소·혈소판·알부민, eGFR, 요 ACR/PCR]
     D0 --> D[위험도 분류]
-
     D --> E[저위험]
     D --> F[중등도 위험]
     D --> G[고위험]
 
     E --> E1[공동의사결정]
-    E1 --> E2[6개월 내 U/A 재검]
-    E1 --> E3[방광경 + 콩팥 초음파]
-    E2 -->|음성| E4[관찰 종료 고려]
-    E2 -->|양성| G0[중등/고위험군으로 재분류]
-    E3 -->|양성| H1[해당 질환 치료]
-    E3 -->|음성| F2[1년 이내 U/A 재검]
+    E1 --> E2[6개월 내 <br>U/A 재검]
+    E1 --> CYS[방광경 + <br>콩팥 초음파]
+    E2 -->|음성| E4[관찰 종료 <br>고려]
+    E2 -->|양성| G0[중등/고위험군으로<br> 재분류]
+    F --> CYS
+    CYS -->|양성| H1[해당 질환 <br>치료]
+    CYS -->|음성| F2[1년 이내 <br>U/A 재검]
 
-    F --> F1[방광경 + 콩팥 초음파]
-    F1 -->|양성| H1
-    F1 -->|음성| F2
-
-    G --> G1[방광경 + 요로 CT<br>조영제 금기 시 MR, 둘 다 금기 시<br>비조영 CT/MR 또는 콩팥 초음파+역행성 신우조영술]
+    G --> G1[방광경 + <br>요로 CT*]
     G1 -->|양성| H1
-    G1 -->|음성이나 지속| F2
+    G1 -->|음성이지만 <br>지속| F2
 
-    style A fill:#f96,stroke:#e65100,stroke-width:2px
-    style E fill:#fff9c4,stroke:#f57f17,stroke-width:2px
-    style F fill:#fff9c4,stroke:#f57f17,stroke-width:2px
-    style G fill:#fff9c4,stroke:#f57f17,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class B,D0,E2,E4,CYS,G1 lightGreen
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class C1,E4,F2 blue
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class H1 sky
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class E1,D yellow
+style E fill:#fef4f8,stroke:#f06baf
+style F fill:#fcd4e6,stroke:#e0448e
+style G fill:#f8a0c0,stroke:#d01f5a
+style G0 fill:#f8a0c0,stroke:#d01f5a
 ```
+
+_\*CT 조영제 금기 시 MR; CT·MR 조영제 모두 금기 시 비조영 CT/MR 또는 콩팥 초음파+역행성 신우조영술_
 
 <p align="center"><strong>무증상 현미경혈뇨의 위험도 기반 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한신장학회 진료지침위원회. 2023 현미경혈뇨 근거기반 진료지침. (2020 AUA/SUFU 지침 수용개작)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 대한신장학회 진료지침위원회. 2023 현미경혈뇨 근거기반 진료지침.</mark></em></p>
 
 ***
 
