@@ -126,7 +126,7 @@ _uACR=소변 Alb/Cr ratio, uPCR=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 202
 
 ## <mark style="color:green;">진단</mark>
 
-* 단백뇨·혈뇨의 단계별 상세 접근(Dipstick → uACR → uPCR → 24시간 단백뇨의 정량 흐름, 및 혈뇨의 현미경 검사 → RBC morphology → 비뇨기과/신장내과 의뢰 흐름)는 (☞ [콩팥 질환의 진단](109_.md)) 챕터에서 총괄적으로 다루며, 본 챕터의 아래 진단 원칙 및 알고리듬은 단백뇨에 특화된 실전 접근을 정리한 것임 (☞ [혈뇨](110_-hematuria.md) 챕터도 함께 참조)
+* 단백뇨·혈뇨의 단계별 상세 접근(Dipstick → uACR/uPCR → 24시간 단백뇨의 정량 흐름 및 혈뇨의 현미경 검사 → RBC morphology → 의뢰)은 [콩팥 질환의 진단](109_.md), [혈뇨](110_-hematuria.md) 챕터에서 총괄적으로 다루며, 본 챕터의 아래 진단 원칙 및 알고리듬은 단백뇨에 특화된 실전 접근을 정리한 것임
 
 ### <mark style="color:orange;">신체검사</mark>
 
@@ -136,28 +136,29 @@ _uACR=소변 Alb/Cr ratio, uPCR=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 202
 
 ### <mark style="color:orange;">소변 검사</mark>
 
-* 채뇨 방법 : 검사일 전날 밤 취침 시 배뇨 후 아침 첫 소변 채취 (☞ [콩팥 질환의 진단](109_.md) 챕터의 "소변 채취 Tips" 참조)
+* 채뇨 방법 : 검사일 전날 밤 취침 시 배뇨 후 아침 첫 소변 채취 (☞ [소변 채취 Tips](109_.md#tips))
 
 #### <mark style="color:$primary;">시험지봉 검사</mark>
 
-* 글로불린, Bence-Jones 단백 등 알부민 외 단백질은 검출할 수 없음 → 세뇨관성 단백뇨(Tubular proteinuria), 범람성 단백뇨(Overload proteinuria, 예: myeloma의 Bence-Jones protein)에서는 실제 단백뇨가 상당함에도 위음성(Negative\~Trace)이 나올 수 있음 - 이런 임상 상황이 의심되면 dipstick 음성이어도 uACR/uPCR 정량 검사를 시행
+* 글로불린, Bence-Jones 단백 등 알부민 외 단백질은 검출할 수 없음
+* 세뇨관성 단백뇨(tubular proteinuria), 범람성 단백뇨(overload proteinuria, 예: myeloma의 Bence-Jones protein)에서는 실제 단백뇨가 상당함에도 위음성(Negative\~Trace)이 나올 수 있음 - 이런 임상 상황이 의심되면 dipstick 음성이어도 uACR/uPCR 정량 검사를 시행
 * 위양성 : 육안혈뇨, 심한 농축뇨(SG ＞1.025), 알칼리 소변(pH＞8.0)
 
 <mark style="color:cyan;">**Urine stick 검사 결과에 따른 추정 단백량**</mark>
 
-<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>시험지봉 검사 결과</strong></td><td><strong>추정 요단백 농도 (㎎/㎗)</strong></td><td><strong>추정 1일 배출 단백량 (g/d)</strong></td></tr><tr><td><strong>Negative</strong></td><td>＜15</td><td>＜0.5</td></tr><tr><td><strong>Trace</strong></td><td>15\~30</td><td>＜0.5</td></tr><tr><td><strong>1+</strong></td><td>30\~100</td><td>0.3\~1</td></tr><tr><td><strong>2+</strong></td><td>100\~300</td><td>1\~2</td></tr><tr><td><strong>3+</strong></td><td>300\~1,000</td><td>2\~5</td></tr><tr><td><strong>4+</strong></td><td>≥1,000</td><td>≥5</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>시험지봉 검사 결과</strong></td><td><strong>추정 요단백 농도 (㎎/㎗)</strong></td><td><strong>추정 1일 배출 단백량 (g/d)</strong></td></tr><tr><td><strong>Negative</strong></td><td>＜15</td><td>＜0.5</td></tr><tr><td><strong>Trace</strong></td><td>15~30</td><td>＜0.5</td></tr><tr><td><strong>1+</strong></td><td>30~100</td><td>0.3~1</td></tr><tr><td><strong>2+</strong></td><td>100~300</td><td>1~2</td></tr><tr><td><strong>3+</strong></td><td>300~1,000</td><td>2~5</td></tr><tr><td><strong>4+</strong></td><td>≥1,000</td><td>≥5</td></tr></tbody></table>
 
-_✽시험지봉 검사는 소변 농축도에 영향을 받는 반정량 선별검사이며, KDIGO 2024는 dipstick을 정량적 판단(A1\~A3 등급 확정)에 사용하지 말 것을 명시적으로 강조함(농축뇨에서는 A1임에도 1+가 나올 수 있고, 희석뇨에서는 A3임에도 trace로 나올 수 있음) - 위 추정치는 선별 목적의 대략적 참고값일 뿐이며, 등급 확정은 반드시 uACR로 함_
+_✽시험지봉 검사는 소변 농축도에 영향을 받는 반정량 선별검사이며, KDIGO 2024는 dipstick을 정량적 판단(A1\~A3 등급 확정)에 사용하지 말 것을 강조함(농축뇨에서는 A1임에도 1+가 나올 수 있고, 희석뇨에서는 A3임에도 trace로 나올 수 있음) - 위 추정치는 선별 목적의 대략적 참고값일 뿐이며, 등급 확정은 반드시 uACR로 함_
 
 #### <mark style="color:$primary;">소변 단백 정량 검사</mark>
 
 * 임의뇨 Alb/Cr ratio(uACR) 측정 - 알부민뇨 평가의 1차 검사
-  * 채뇨 우선순위(KDIGO 2024) : ① 아침 첫 소변(first morning void, 중간뇨) 우선 ② 여의치 않으면 무작위(random) 소변으로 초기 선별 후 uACR ≥30 ㎎/g이면 아침 첫 소변으로 확인 검사
+  * 채뇨 우선 순위 : ① 아침 첫 소변(중간뇨) 우선 ② 여의치 않으면 random 소변으로 초기 선별 후 uACR ≥30 ㎎/g이면 아침 첫 소변으로 확인 검사
   * uACR이 매우 높은 경우(예: ＞500 ㎎/g)에는 총 단백량 평가를 위해 uPCR을 함께 측정할 수 있음
   * 근육량이 너무 많거나 적으면 크레아티닌 보정에 오차 발생 가능
-  * KDIGO 2024는 검사 간 생물학적 변이를 고려해 eGFR ＞20% 변화 또는 uACR 2배 이상 변화가 있을 때만 유의한 변화로 해석할 것을 권고
-* 정량 검사 우선순위(KDIGO 2024) : uACR → (필요시) uPCR → 24시간뇨(특수한 경우) - 24시간 소변 수집은 임신, 극단적 근육량, 영양 평가처럼 정확한 시간당 배설량이 꼭 필요한 특수 상황에 한해 사용하며, 일상적인 알부민뇨 평가에는 권장하지 않음
-  * 24시간뇨 (미세알부민 검사 보험기준 ☞ p.1192)
+  * 검사 간 생물학적 변이를 고려해 eGFR ＞20% 변화 또는 uACR 2배 이상 변화가 있을 때만 유의한 변화로 해석할 것을 권고 \[KDIGO 2024]
+* 정량 검사 우선 순위 : uACR → (필요시) uPCR → 24시간뇨(특수한 경우) - 24시간 소변 수집은 임신, 극단적 근육량, 영양 평가처럼 정확한 시간당 배설량이 꼭 필요한 특수 상황에 한해 사용하며, 일상적인 알부민뇨 평가에는 권장하지 않음
+  * [ ] [미량알부민 검사의 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180531\&sno=5\&mtgMtrRegSno=0001)
 
 ### <mark style="color:orange;">소변 외 검사</mark>
 
