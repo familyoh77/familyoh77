@@ -144,7 +144,7 @@ _uACR=소변 Alb/Cr ratio, uPCR=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 202
 * 세뇨관성 단백뇨(tubular proteinuria), 범람성 단백뇨(overload proteinuria, 예: myeloma의 Bence-Jones protein)에서는 실제 단백뇨가 상당함에도 위음성(Negative\~Trace)이 나올 수 있음 - 이런 임상 상황이 의심되면 dipstick 음성이어도 uACR/uPCR 정량 검사를 시행
 * 위양성 : 육안혈뇨, 심한 농축뇨(SG ＞1.025), 알칼리 소변(pH＞8.0)
 
-<mark style="color:cyan;">**Urine stick 검사 결과에 따른 추정 단백량**</mark>
+**Urine stick 검사 결과에 따른 추정 단백량**
 
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>시험지봉 검사 결과</strong></td><td><strong>추정 요단백 농도 (㎎/㎗)</strong></td><td><strong>추정 1일 배출 단백량 (g/d)</strong></td></tr><tr><td><strong>Negative</strong></td><td>＜15</td><td>＜0.5</td></tr><tr><td><strong>Trace</strong></td><td>15~30</td><td>＜0.5</td></tr><tr><td><strong>1+</strong></td><td>30~100</td><td>0.3~1</td></tr><tr><td><strong>2+</strong></td><td>100~300</td><td>1~2</td></tr><tr><td><strong>3+</strong></td><td>300~1,000</td><td>2~5</td></tr><tr><td><strong>4+</strong></td><td>≥1,000</td><td>≥5</td></tr></tbody></table>
 
@@ -286,22 +286,23 @@ graph TD
 
 ### <mark style="color:orange;">SGLT2 억제제</mark>
 
-* 2형 당뇨병 동반 CKD, eGFR ≥20 환자에서 SGLT2 억제제 치료 권고; 단백뇨를 동반한 CKD는 당뇨병 동반 여부와 무관하게 병용 고려 (콩팥 기능·알부민뇨 감소, 심신 보호 효과)
-* 성분명 : dapagliflozin, empagliflozin - 국내 유통 상품명은 제네릭 출시·적응증 승계 등으로 계속 변동 중이므로, 처방 전 최신 허가·급여 정보를 확인하는 것을 원칙으로 함
-* 일단 시작 후에는 eGFR이 위 기준 아래로 떨어져도 투석 시작 전까지 유지 가능(practice point); 심한 탈수·수술·조영제 사용 등 급성 질환 시에는 일시 중단(sick day rule) 고려
-* 급여 기준은 당뇨병 동반 여부, 병용 약제 조합에 따라 상이하므로 처방 전 최신 HIRA 고시 확인 필요
+* 2형 당뇨병 동반 CKD, eGFR ≥20 환자에서 SGLT2 억제제 치료 권고
+  * 단백뇨 동반 CKD는 당뇨병 동반 여부와 무관하게 병용 고려(콩팥 기능 보호 및 알부민뇨 감소 효과, 심혈관·신장 보호 효과)
+* 종류 : dapagliflozin <mark style="color:blue;">\[다파론]</mark>, empagliflozin <mark style="color:blue;">\[자디앙]</mark> (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
+* 투여 시작 후에는 eGFR이 위 기준 아래로 떨어져도 투석 시작 전까지 유지 가능(practice point); 심한 탈수·수술·조영제 사용 등 급성 질환 시에는 일시 중단(sick day rule) 고려
+* 급여 기준 : [dapagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031), [empagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251024\&sno=1\&mtgMtrRegSno=0002)&#x20;
 
-### <mark style="color:orange;">비스테로이드성 무기질코르티코이드 수용체 길항제(ns-MRA)</mark>
+### <mark style="color:orange;">비스테로이드성 무기질코르티코이드 수용체 길항제 (ns-MRA)</mark>
 
-* finerenone <mark style="color:blue;">\[케렌디아]</mark> : 2형 당뇨병 동반 만성콩팥병에서 ACEI/ARB 병용 시 알부민뇨 감소 및 콩팥·심혈관 사건 위험 감소(FIDELIO-DKD, FIGARO-DKD, FIDELITY 통합분석)
-* 국내 허가·급여 : 2형 당뇨병을 동반한 성인 만성콩팥병 환자에서 ACEI 또는 ARB를 최대 내약 용량으로 4주 이상 안정적으로 투여 중이며, ① uACR ＞300 ㎎/g 또는 요 시험지봉 검사 1+ 이상, ② eGFR 25\~＜75 mL/min/1.73㎡ 조건을 모두 만족할 때 병용 급여
-* 주의 : 고칼륨혈증 발생률이 위약 대비 높음(FIDELITY 약 14% vs 7%) - 시작 전·후 혈청 칼륨, eGFR 모니터링 필수
-* ACEI/ARB, SGLT2 억제제와의 3제 병용(CONFIDENCE 연구 등) 효과가 보고되고 있으나 국내 급여 인정 여부는 처방 전 확인 필요
+* finerenone <mark style="color:blue;">\[케렌디아]</mark> : 2형 당뇨병 동반 만성콩팥병에서 ACEI/ARB 병용 시 알부민뇨 감소 및 콩팥·심혈관 사건 위험 감소
+* 주의 : 고칼륨혈증 - 시작 전·후 혈청 칼륨, eGFR 모니터링 필수
+* ACEI/ARB, SGLT2 억제제와의 3제 병용 효과가 보고되고 있음 (급여 주의)
+* [급여 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240201\&sno=4\&mtgMtrRegSno=0002) :  만성콩팥병 환자에서 ACEI/ARB을 투여 중이며, ① uACR ＞300 ㎎/g 또는 요 시험지봉 검사 1+ 이상, ② eGFR 25\~＜75 mL/min/1.73㎡ 조건을 모두 만족할 때 병용 급여
 
 ### <mark style="color:orange;">GLP-1 수용체 작용제</mark>
 
-* semaglutide : 2형 당뇨병 동반 만성콩팥병 환자에서 주요 콩팥 사건 위험 감소(FLOW trial, NEJM 2024) - eGFR slope 개선, 알부민뇨 감소 효과가 SGLT2 억제제 병용 여부와 무관하게 확인됨
-* 2형 당뇨병 동반 시 심신보호 효과가 입증된 GLP-1 수용체 작용제를 혈당 조절과 함께 신보호 목적으로 우선 고려 가능 (☞ 당뇨병 약물치료 챕터)
+* semaglutide : 2형 당뇨병 동반 만성콩팥병 환자에서 주요 콩팥 사건 위험 감소 - eGFR slope 개선, 알부민뇨 감소 효과가 SGLT2 억제제 병용 여부와 무관하게 확인됨
+* 2형 당뇨병 동반 시 심신 보호 효과가 입증된 GLP-1 수용체 작용제를 혈당 조절과 함께 신보호 목적으로 우선 고려 가능&#x20;
 
 ***
 
