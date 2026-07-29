@@ -22,7 +22,7 @@ _uACR=소변 Alb/Cr ratio, uPCR=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 202
 * 구용어 : microalbuminuria(미세알부민뇨) - KDIGO 2024, ADA 2026 지침에서는 사용하지 않으며, '중등도 증가 알부민뇨(A2)'로 통일; 다만 국내 일부 문헌과 법령에는 "미세알부민뇨" 표기가 아직 남아있음
 * 기준 : 임의뇨 Alb/Cr ratio 0.03\~0.3(30\~300 ㎎/g) 또는 24시간뇨 알부민 30\~300 ㎎
 * 진단 : 3\~6개월 간격으로 시행한 3번의 임의뇨 검사에서 ≥2번 A2 기준에 해당
-* 의의 : 당뇨병콩팥병증 조기 진단 및 신부전 예측 지표, 고혈압 환자의 심혈관 사망 위험 인자; KDIGO 2024는 eGFR 수준과 무관하게 알부민뇨 증가 자체가 심혈관·콩팥 예후 악화와 비례 관계임을 강조
+* 의의 : 당뇨병콩팥병증 조기 진단 및 신부전 예측 지표, 고혈압 환자의 심혈관 사망 위험 인자; KDIGO는 eGFR 수준과 무관하게 알부민뇨 증가 자체가 심혈관·콩팥 예후 악화와 비례 관계임을 강조
 
 #### <mark style="color:$primary;">고립성 단백뇨 (Isolated proteinuria)</mark>
 
@@ -148,7 +148,7 @@ _uACR=소변 Alb/Cr ratio, uPCR=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 202
 
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>시험지봉 검사 결과</strong></td><td><strong>추정 요단백 농도 (㎎/㎗)</strong></td><td><strong>추정 1일 배출 단백량 (g/d)</strong></td></tr><tr><td><strong>Negative</strong></td><td>＜15</td><td>＜0.5</td></tr><tr><td><strong>Trace</strong></td><td>15~30</td><td>＜0.5</td></tr><tr><td><strong>1+</strong></td><td>30~100</td><td>0.3~1</td></tr><tr><td><strong>2+</strong></td><td>100~300</td><td>1~2</td></tr><tr><td><strong>3+</strong></td><td>300~1,000</td><td>2~5</td></tr><tr><td><strong>4+</strong></td><td>≥1,000</td><td>≥5</td></tr></tbody></table>
 
-_✽시험지봉 검사는 소변 농축도에 영향을 받는 반정량 선별검사이며, KDIGO 2024는 dipstick을 정량적 판단(A1\~A3 등급 확정)에 사용하지 말 것을 강조함(농축뇨에서는 A1임에도 1+가 나올 수 있고, 희석뇨에서는 A3임에도 trace로 나올 수 있음) - 위 추정치는 선별 목적의 대략적 참고값일 뿐이며, 등급 확정은 반드시 uACR로 함_
+_✽시험지봉 검사는 소변 농축도에 영향을 받는 반정량 선별검사이며, KDIGO는 dipstick을 정량적 판단(A1\~A3 등급 확정)에 사용하지 말 것을 강조함(농축뇨에서는 A1임에도 1+가 나올 수 있고, 희석뇨에서는 A3임에도 trace로 나올 수 있음) - 위 추정치는 선별 목적의 대략적 참고값일 뿐이며, 등급 확정은 반드시 uACR로 함_
 
 #### <mark style="color:$primary;">소변 단백 정량 검사</mark>
 
@@ -156,7 +156,7 @@ _✽시험지봉 검사는 소변 농축도에 영향을 받는 반정량 선별
   * 채뇨 우선 순위 : ① 아침 첫 소변(중간뇨) 우선 ② 여의치 않으면 random 소변으로 초기 선별 후 uACR ≥30 ㎎/g이면 아침 첫 소변으로 확인 검사
   * uACR이 매우 높은 경우(예: ＞500 ㎎/g)에는 총 단백량 평가를 위해 uPCR을 함께 측정할 수 있음
   * 근육량이 너무 많거나 적으면 크레아티닌 보정에 오차 발생 가능
-  * 검사 간 생물학적 변이를 고려해 eGFR ＞20% 변화 또는 uACR 2배 이상 변화가 있을 때만 유의한 변화로 해석할 것을 권고 \[KDIGO 2024]
+  * 검사 간 생물학적 변이를 고려해 eGFR ＞20% 변화 또는 uACR 2배 이상 변화가 있을 때만 유의한 변화로 해석할 것을 권고 \[KDIGO]
 * 정량 검사 우선 순위 : uACR → (필요시) uPCR → 24시간뇨(특수한 경우) - 24시간 소변 수집은 임신, 극단적 근육량, 영양 평가처럼 정확한 시간당 배설량이 꼭 필요한 특수 상황에 한해 사용하며, 일상적인 알부민뇨 평가에는 권장하지 않음
   * [ ] [미량알부민 검사의 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180531\&sno=5\&mtgMtrRegSno=0001)
 
@@ -169,10 +169,10 @@ _✽시험지봉 검사는 소변 농축도에 영향을 받는 반정량 선별
 ### <mark style="color:orange;">선별 검사</mark>
 
 * 시험지봉 검사상 단백뇨가 1+ 이상 : 3개월 내 단백뇨 정량 검사 실시 → 정량 검사에서 단백뇨 진단 시 1\~2주 간격으로 재검 → 연속적으로 양성 시 관리
-* 시험지봉 검사상 단백뇨이면서 Prot/Cr ratio 정상 : 주기적 추적 관찰
+* 시험지봉 검사상 단백뇨이지만 uPCR(Prot/Cr ratio) 정상 : 주기적 추적 관찰
 * 만성콩팥병 위험도가 높은 환자(예: 당뇨병, 고혈압) : 처음부터 단백뇨 정량 검사(uACR) 실시 → 단백뇨 진단 시 만성 콩팥 질환에 대한 평가
-  * ✽이는 고위험군 대상 표적 선별검사이며, 무증상 저위험 일반 인구에서의 예방적 소변 검사는 권장하지 않음 (☞ [콩팥 질환의 진단](109_.md) 챕터의 "예방적 소변 검사의 한계" 참조)
   * 필요시 사구체성, 세뇨관성, 또는 범람성 단백뇨 감별을 위한 소변 단백 전기영동검사 시행
+  * 무증상 저위험 일반 인구에서의 예방적 소변 검사는 권장하지 않음 (☞ [예방적 소변 검사의 한계](109_.md#undefined-4))
 
 ***
 
@@ -230,14 +230,15 @@ graph TD
 graph TD
     D1[시험지봉 양성 또는 uACR 선별 지표] --> U1[uACR 측정]
     U1 -->|A1, ＜30 ㎎/g| Reassure3[정상 - 위험군은 매년 재선별]
-    U1 -->|A2\~A3, ≥30 ㎎/g| Persist{3\~6개월 내 재검하여 지속되는가?}
-    Persist -->|아니오, 1회성| Reassure4[일과성 알부민뇨 - 추가 조치 불필요]
-    Persist -->|예, 지속됨| CKDeval[CKD 평가: eGFR + uACR 위험도 분류(heat map)]
+    U1 -->|A2~A3, ≥30 ㎎/g| Persist[3~6개월 내 재검 시 지속되는가]
+    Persist -->|아니오 - 1회성| Reassure4[일과성 알부민뇨 - 추가 조치 불필요]
+    Persist -->|예 - 지속됨| CKDeval["CKD 평가: eGFR + uACR 위험도 분류(heat map)"]
     CKDeval --> Tx[치료: ACEI/ARB + SGLT2 억제제 ± ns-MRA/GLP-1RA + 위험인자 관리]
     Tx --> FU[정기 추적: uACR·eGFR로 치료 반응 평가]
 
     style U1 fill:#f96,stroke:#e65100,stroke-width:2px
     style CKDeval fill:#f96,stroke:#e65100,stroke-width:2px
+    style Persist fill:#fff9c4,stroke:#f57f17,stroke-width:2px
     style Reassure3 fill:#e1f5fe,stroke:#01579b
     style Reassure4 fill:#e1f5fe,stroke:#01579b
     style Tx fill:#fff3e0,stroke:#e65100,stroke-width:2px
@@ -254,18 +255,18 @@ graph TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 치료, 혈압/당뇨병 관리
-* 관리 목표 : 모든 환자에서 일률적인 절대치보다 "가능한 한 알부민뇨(uACR) 감소"가 원칙(KDIGO 2024); 단, IgA nephropathy 등 일부 사구체 질환에서는 단백뇨 ＜0.5\~1 g/d 같은 질환별 구체적 목표가 별도로 제시됨
-* 혈압 목표 : KDIGO 2024는 표준화된 진료실 혈압 측정을 전제로 수축기혈압(SBP) ＜120 ㎜Hg를 제시(2B); 실제 일차의료 현장에서는 표준화 측정이 어려운 경우가 많아 ≤140/90 ㎜Hg를 실질적 목표로 삼는 경우가 흔하며, 고령·허약·기립성 저혈압 위험군에서는 130\~139/80\~89 ㎜Hg 수준의 완화된 목표를 예시로 개별화함 (☞ [고혈압](../225_/095_-hypertension.md))
-* 필요한 것 외의 약제 사용을 피함, 특히 콩팥 독성 약물 사용을 피함(예: NSAID, aminoglycoside)
-* KDIGO 2024 원칙 : 알부민뇨 정도(A1\~A3)와 eGFR(G1\~G5)을 함께 고려한 위험도(heat map) 기반 치료 강도 결정; 알부민뇨 감소 자체를 치료 반응의 목표로 추적
+* 관리 목표 : 모든 환자에서 일률적인 절대치보다 "가능한 한 알부민뇨(uACR) 감소"가 원칙; 단, IgA nephropathy 등 일부 사구체 질환에서는 단백뇨 ＜0.5\~1 g/d 같은 질환별 구체적 목표가 별도로 제시됨
+  * \[KDIGO] 알부민뇨 정도(A1\~A3)와 eGFR(G1\~G5)을 함께 고려한 위험도(heat map) 기반 치료 강도 결정; 알부민뇨 감소 자체를 치료 반응의 목표로 추적
+* 혈압 목표 : KDIGO는 표준화된 진료실 혈압 측정을 전제로 수축기혈압(SBP) ＜120 ㎜Hg를 제시(2B); 실제 일차의료 현장에서는 표준화 측정이 어려운 경우가 많아 ≤140/90 ㎜Hg를 실질적 목표로 삼는 경우가 흔하며, 고령·허약·기립성 저혈압 위험군에서는 130\~139/80\~89 ㎜Hg 수준의 완화된 목표를 예시로 개별화함 (☞ [고혈압](../225_/095_-hypertension.md))
+* 필요한 것 외의 약제 사용을 피함, 특히 콩팥 독성 약물 사용을 피함 (예: NSAID, aminoglycoside)
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 단백질 섭취 제한 : CKD G3\~G5(eGFR ＜60) 시 단백질 섭취 0.8 g/㎏/d 유지 권고(KDIGO 2024, 2C); 진행 위험이 있는 경우 1.3 g/㎏/d 초과 섭취는 피함
+* 단백질 섭취 제한 : CKD G3 이상(eGFR ＜60) 시 단백질 섭취 0.8 g/㎏/d 유지 권고; 진행 위험이 있는 경우 1.3 g/㎏/d 초과 섭취는 피함
 * Na 섭취 제한 : ＜2 g/d(소금으로 5 g/d) (☞ [고혈압](../225_/095_-hypertension.md))
 * 적당한 수분 섭취 : 목표 소변량 \~2 L/d
 * 금연, 적정 체중 유지
-* 심한 부종·신증후군 동반 시 침상 휴식(supine posture) 고려 - 모든 환자에게 일률적으로 권고하는 항목은 아님
+* 심한 부종·신증후군 동반 시 침상 휴식(supine posture) 고려 (모든 환자에게 일률적으로 권고하는 것은 아님)
 * 심한 운동 삼가
 * 과도한 커피 섭취 삼가
 
@@ -273,19 +274,19 @@ graph TD
 
 ### <mark style="color:orange;">RAAS 억제제(ACEI/ARB) - 1차 선택제</mark>
 
-* ACEI 또는 ARB : 1차 선택제; 정상 혈압이 유지되는 최대 내약 용량 적용 (☞ p.486)
-* KDIGO 2024 권고 : 알부민뇨 A3(＞300 ㎎/g) 환자는 당뇨병 유무와 관계없이 ACEI/ARB 시작 권고(1B); A2(30\~300 ㎎/g)는 당뇨병 동반 시 시작 권고(1B), 비동반 시 시작 고려(2C)
-* ACEI, ARB, direct renin inhibitor(DRI)의 3제 병용은 피함(1B)
-* 정상 혈압이며 알부민뇨 A1인 환자에서는 예방 목적의 ACEI/ARB 시작을 권고하지 않음(고혈압·심부전 등 다른 적응증이 있으면 시작 가능)
+* ACEI 또는 ARB : 1차 선택제; 정상 혈압이 유지되는 최대 내약 용량 적용 (☞ [고혈압](../225_/095_-hypertension.md#renin-angiotensin))
+* 알부민뇨 A3(＞300 ㎎/g) 환자는 당뇨병 유무와 관계없이 ACEI/ARB 시작 권고; A2(30\~300 ㎎/g)는 당뇨병 동반 시 시작 권고, 비동반 시 시작 고려
+* ACEI, ARB, direct renin inhibitor(DRI)의 3제 병용은 피함
+* 정상 혈압이며 알부민뇨 A1인 환자에서는 예방 목적의 ACEI/ARB 시작을 권고하지 않음 (✽ 고혈압·심부전 등 다른 적응증이 있으면 시작 가능)
 * 시작·증량 후 2\~4주 이내 혈압, 혈청 크레아티닌, 칼륨 재확인
 
 ### <mark style="color:orange;">non-DHP CCB</mark>
 
-* diltiazem <mark style="color:blue;">\[헤르벤]</mark>, verapamil <mark style="color:blue;">\[이솦틴]</mark>
+* diltiazem <mark style="color:blue;">\[헤르벤]</mark>, verapamil <mark style="color:blue;">\[이솦틴]</mark> (☞ [고혈압](../225_/095_-hypertension.md#calcium-channel-blocker-ccb))
 
 ### <mark style="color:orange;">SGLT2 억제제</mark>
 
-* KDIGO 2024 권고 : 2형 당뇨병 동반 CKD, eGFR ≥20 mL/min/1.73㎡ 환자에서 SGLT2 억제제 치료 권고(1A); 단백뇨를 동반한 CKD는 당뇨병 동반 여부와 무관하게 병용 고려(콩팥 기능·알부민뇨 감소, 심신 보호 효과)
+* 2형 당뇨병 동반 CKD, eGFR ≥20 환자에서 SGLT2 억제제 치료 권고; 단백뇨를 동반한 CKD는 당뇨병 동반 여부와 무관하게 병용 고려 (콩팥 기능·알부민뇨 감소, 심신 보호 효과)
 * 성분명 : dapagliflozin, empagliflozin - 국내 유통 상품명은 제네릭 출시·적응증 승계 등으로 계속 변동 중이므로, 처방 전 최신 허가·급여 정보를 확인하는 것을 원칙으로 함
 * 일단 시작 후에는 eGFR이 위 기준 아래로 떨어져도 투석 시작 전까지 유지 가능(practice point); 심한 탈수·수술·조영제 사용 등 급성 질환 시에는 일시 중단(sick day rule) 고려
 * 급여 기준은 당뇨병 동반 여부, 병용 약제 조합에 따라 상이하므로 처방 전 최신 HIRA 고시 확인 필요
