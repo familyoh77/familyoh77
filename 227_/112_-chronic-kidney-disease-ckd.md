@@ -1,12 +1,12 @@
-# 만성콩팥병 (만성신부전) Chronic Kidney Disease (CKD)
+# 만성콩팥병 Chronic Kidney Disease, CKD
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 콩팥 질환의 원인과는 상관없이 콩팥 손상 또는 콩팥 기능의 감소가 ＞3개월 지속되는 상태
   * 콩팥 손상 : 사구체여과율에 관계없이 구조적 또는 기능적 이상을 포함하며 소변 검사 이상(알부민뇨 또는 적혈구, 백혈구 원주 등의 소변 침전물), 콩팥 조직 검사 이상(사구체, 세뇨관간질, 혈관의 병리 소견), 영상 검사 이상(초음파, CT 검사 등), 콩팥 이식 상태
-  * 콩팥 기능의 감소 : 사구체여과율(eGFR) ＜60 ㎖/분/1.73㎡가 3개월 이상 지속되는 상태
-* 신부전(kidney failure) : KDIGO에서는 G5(eGFR ＜15)와 동의어로 사용하되, 투석·이식 등 신대체요법(KRT)이 필요한지 여부는 별도로 명시함
-* 분류(KDIGO 2024) : 원인 질환(Cause) + 사구체여과율 병기(GFR category, G1\~G5) + 알부민뇨 병기(Albuminuria category, A1\~A3)의 **CGA 분류 체계**로 예후를 평가 (☞ 아래 예후 heat map 표)
+  * 콩팥 기능 저하 : 사구체여과율(eGFR) ＜60 ㎖/min/1.73㎡가 3개월 이상 지속되는 상태
+* 신부전 (kidney failure) : KDIGO에서는 G5(eGFR ＜15)와 동의어로 사용하되, 투석·이식 등 신대체요법(KRT)이 필요한지 여부는 별도로 명시함
+* 분류 \[KDIGO 2024] : 원인 질환(Cause) + 사구체여과율 병기(GFR category, G1\~G5) + 알부민뇨 병기(Albuminuria category, A1\~A3)의 CGA 분류 체계로 예후를 평가
 * 진행 기전 : nephron 파괴 → GFR 점진적 감소 및 s-Cr 상승 → 빈혈 발생(erythropoietin 생성 감소); eGFR가 감소할수록 hyperkalemia 위험이 증가하며, 특히 G4\~G5 또는 ACEI/ARB/MRA 등 RAAS 차단제 병용 시 흔함
 * 임상적 의의 : CKD는 서서히 진행되는 경우가 많아 GFR 감소에 대한 작은 치료 효과로도 말기 신질환 도달을 수 년 지연시킬 수 있음
 * 유병률(질병관리청, 국민건강영양조사 2023) : 19세 이상 연령표준화 유병률 5.5%; 70대 이상 25.1%로 고령에서 급격히 증가
@@ -227,14 +227,14 @@ graph TD
 * 이뇨제 : 필요시 ACEI 또는 ARB에 추가; mineralocorticoid 차단제(예: spironolactone)가 단백뇨 감소에 유효; thiazide는 eGFR ≥30 시 허용, loop diuretics는 eGFR ＜30 시 권고
 * (non-DHP) CCB : 혈압 조절되지 않는 경우, 지속적인 s-Cr 상승이 있는 경우 고려
 * 단백뇨(-) 및 당뇨(-) CKD 환자의 부종에 대하여 이뇨제 단독 투여 고려
-* 비당뇨병성 CKD의 **A3(중증 알부민뇨)**, 당뇨병성 CKD의 **A2 이상(중등도 알부민뇨 이상)**에서 ACEI or ARB 권고(KDIGO 2024)
+* 비당뇨병성 CKD의 **A3(중증 알부민뇨)**, 당뇨병성 CKD의 \*\*A2 이상(중등도 알부민뇨 이상)\*\*에서 ACEI or ARB 권고(KDIGO 2024)
 
 ### <mark style="color:orange;">SGLT2 억제제 - 병인과 무관한 신장 보호 (2025 급여 확대)</mark>
 
 * dapagliflozin <mark style="color:blue;">\[다파엔]</mark>, empagliflozin <mark style="color:blue;">\[자디앙]</mark> : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과 확인(DAPA-CKD, EMPA-KIDNEY)
-* KDIGO 2024는 개별 약제보다 **계열 효과(class effect)**로 접근할 것을 권고 - 허가 및 급여 범위 내에서는 계열 효과로 이해할 수 있음
+* KDIGO 2024는 개별 약제보다 \*\*계열 효과(class effect)\*\*로 접근할 것을 권고 - 허가 및 급여 범위 내에서는 계열 효과로 이해할 수 있음
 * (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031)) (보험기준 : ①ACEI 또는 ARB를 최대 내약 용량으로 4주 이상 안정적으로 투여 중, ②eGFR 25\~75 ㎖/분/1.73㎡, ③요 dipstick ≥1+ 또는 u-ACR ≥200 ㎎/g 중 하나를 만족하는 비당뇨성 만성 신장병 환자; 2025.7.1. 고시 기준 - 정확한 급여 기준은 HIRA 고시를 반드시 확인할 것(기준 변경 가능))
-* eGFR ＜20\~25 미만에서 **신규 시작(initiation)**은 일반적으로 권장되지 않음(제품별 허가사항 확인). 다만 **이미 투여 중인 경우**, 내약성이 양호하고 투석·이식(KRT)을 시작하기 전까지는 eGFR이 20 미만으로 떨어지더라도 중단 없이 **지속(continuation)** 투여를 권장(KDIGO 2024) - 시작 기준과 지속 기준을 구분할 것
+* eGFR ＜20\~25 미만에서 \*\*신규 시작(initiation)\*\*은 일반적으로 권장되지 않음(제품별 허가사항 확인). 다만 **이미 투여 중인 경우**, 내약성이 양호하고 투석·이식(KRT)을 시작하기 전까지는 eGFR이 20 미만으로 떨어지더라도 중단 없이 **지속(continuation)** 투여를 권장(KDIGO 2024) - 시작 기준과 지속 기준을 구분할 것
 * 부작용 : 생식기 진균 감염, 드물게 정상혈당 당뇨병성 케톤산증(euglycemic DKA) - 급성 질환·수술 전 sick-day rule 교육 필요
 
 ### <mark style="color:orange;">비스테로이드성 MRA - 당뇨병성 신장병</mark>
@@ -404,7 +404,7 @@ graph TD
 
 * CKD·투석·이식 환자 모두 죽상경화성 심혈관질환(ASCVD)의 고위험군이며, CKD 환자의 주된 사망 원인이 심혈관질환임
 * 흉통은 적극적으로 평가하고, 심부전(체액 과다)과의 감별이 필요
-* troponin은 만성적으로 상승되어 있는 경우가 많아 절대치보다 **추세(변화 양상)**로 급성 관동맥증후군 여부를 판단
+* troponin은 만성적으로 상승되어 있는 경우가 많아 절대치보다 \*\*추세(변화 양상)\*\*로 급성 관동맥증후군 여부를 판단
 
 **신장 이식·투석 관련 특이사항**
 
