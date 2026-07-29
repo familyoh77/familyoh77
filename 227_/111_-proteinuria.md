@@ -7,9 +7,9 @@
 
 ### <mark style="color:orange;">단백뇨 및 알부민뇨의 정의</mark>
 
-<table><thead><tr><th width="140">구분</th><th width="140">정상~경도 증가 (A1)</th><th width="140">중등도 증가 (A2)</th><th>고도 증가 (A3)</th></tr></thead><tbody><tr><td><strong>ACR (㎎/g)</strong></td><td>＜30</td><td>30~300</td><td>＞300</td></tr><tr><td><strong>PCR (㎎/g)</strong></td><td>＜150</td><td>150~500</td><td>＞500</td></tr><tr><td><strong>요 시험지봉 검사</strong></td><td>~±(trace)</td><td>±~1+</td><td>＞1+</td></tr></tbody></table>
+<table><thead><tr><th width="140">구분</th><th width="160">정상~경도 증가 (A1)</th><th width="160">중등도 증가 (A2)</th><th>고도 증가 (A3)</th></tr></thead><tbody><tr><td><strong>uACR (㎎/g)</strong></td><td>＜30</td><td>30~300</td><td>＞300</td></tr><tr><td><strong>uPCR (㎎/g)</strong></td><td>＜150</td><td>150~500</td><td>＞500</td></tr><tr><td><strong>요 시험지봉 검사</strong></td><td>~±(trace)</td><td>±~1+</td><td>＞1+</td></tr></tbody></table>
 
-_ACR(=uACR)=소변 Alb/Cr ratio, PCR(=uPCR)=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 2024 만성콩팥병(CKD) 진료지침의 알부민뇨(uACR) 분류와 동일한 구간을 따름. KDIGO는 A1\~A3를 ACR로만 공식 정의하며, 표의 PCR 구간은 KDIGO 공식 분류가 아니라 임상 대응을 위한 참고 기준임_
+_uACR=소변 Alb/Cr ratio, uPCR=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 2024 만성콩팥병(CKD) 진료지침의 알부민뇨(uACR) 분류와 동일한 구간을 따름. KDIGO는 A1\~A3를 uACR로만 공식 정의하며, 표의 uPCR 구간은 KDIGO 공식 분류가 아니라 임상 대응을 위한 참고 기준임_
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022, 표 2; KDIGO 2024 CKD Guideline.</mark></em></p>
 
