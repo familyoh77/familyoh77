@@ -2,14 +2,14 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 사구체 여과장벽 손상, 세뇨관 재흡수 장애, 또는 저분자 단백질의 과잉 생성으로 소변에 단백질이 비정상적으로 많이 배설되는 상태
-* 신용어로는 알부민뇨(albuminuria)가 단백뇨 중 알부민 성분만을 지칭하는 좁은 개념이며, KDIGO 2024 만성콩팥병 진료지침은 콩팥손상의 주된 표지자로 알부민뇨(UACR)를 우선 사용할 것을 권고함
+* 단백뇨 : 사구체 여과 장벽 손상, 세뇨관 재흡수 장애, 또는 저분자 단백질의 과잉 생성으로 소변에 단백질이 비정상적으로 많이 배설되는 상태
+* 알부민뇨(albuminuria) : 단백뇨 중 알부민 성분만을 지칭하는 좁은 개념; KDIGO 2024 지침은 콩팥 손상의 주된 표지자로 소변ACR(알부민뇨 수준)을 우선 사용할 것을 권고함
 
 ### <mark style="color:orange;">단백뇨 및 알부민뇨의 정의</mark>
 
-<table><thead><tr><th width="140">구분</th><th width="140">정상\~경도 증가 (A1)</th><th width="140">중등도 증가 (A2)</th><th>고도 증가 (A3)</th></tr></thead><tbody><tr><td><strong>ACR (㎎/g)</strong></td><td>＜30</td><td>30\~300</td><td>＞300</td></tr><tr><td><strong>PCR (㎎/g)</strong></td><td>＜150</td><td>150\~500</td><td>＞500</td></tr><tr><td><strong>요 시험지봉 검사</strong></td><td>\~±(trace)</td><td>±\~1+</td><td>＞1+</td></tr></tbody></table>
+<table><thead><tr><th width="140">구분</th><th width="140">정상~경도 증가 (A1)</th><th width="140">중등도 증가 (A2)</th><th>고도 증가 (A3)</th></tr></thead><tbody><tr><td><strong>ACR (㎎/g)</strong></td><td>＜30</td><td>30~300</td><td>＞300</td></tr><tr><td><strong>PCR (㎎/g)</strong></td><td>＜150</td><td>150~500</td><td>＞500</td></tr><tr><td><strong>요 시험지봉 검사</strong></td><td>~±(trace)</td><td>±~1+</td><td>＞1+</td></tr></tbody></table>
 
-_ACR=u/Alb/Cr ratio, PCR=u/Prot/Cr ratio; A1\~A3 등급은 KDIGO 2024 만성콩팥병(CKD) 진료지침의 알부민뇨(UACR) 분류와 동일한 구간을 따름. KDIGO는 A1\~A3를 ACR로만 공식 정의하며, 표의 PCR 구간은 KDIGO 공식 분류가 아니라 임상 대응을 위한 참고 기준임_
+_ACR=소변 Alb/Cr ratio, PCR=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 2024 만성콩팥병(CKD) 진료지침의 알부민뇨(UACR) 분류와 동일한 구간을 따름. KDIGO는 A1\~A3를 ACR로만 공식 정의하며, 표의 PCR 구간은 KDIGO 공식 분류가 아니라 임상 대응을 위한 참고 기준임_
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022, 표 2; KDIGO 2024 CKD Guideline.</mark></em></p>
 
@@ -48,7 +48,7 @@ _ACR=u/Alb/Cr ratio, PCR=u/Prot/Cr ratio; A1\~A3 등급은 KDIGO 2024 만성콩�
 격렬한 운동 직후에는 일시적 단백뇨가 흔하므로, 운동과 무관한 24\~48시간 후 아침 첫 소변으로 재검하는 것이 감별에 유용함
 {% endhint %}
 
-##### <mark style="color:$primary;">기립성 또는 자세 단백뇨 (Orthostatic or Postural proteinuria)</mark>
+<mark style="color:$primary;">**기립성 또는 자세 단백뇨 (Orthostatic or Postural proteinuria)**</mark>
 
 * 진단 원리 : 누운 자세로 밤새 휴식한 후의 아침 첫 소변에서는 단백뇨가 없거나 정상 범위이나, 기립 자세로 활동한 주간 소변에서는 단백뇨가 양성으로 나타남(split urine collection으로 확인)
 * 요단백 양 : 아침 첫 소변에서는 정상(대략 ＜50 ㎎ 수준)이며 주간 소변에서만 증가
@@ -57,7 +57,7 @@ _ACR=u/Alb/Cr ratio, PCR=u/Prot/Cr ratio; A1\~A3 등급은 KDIGO 2024 만성콩�
 * 경과 : 일과성 또는 지속 경과를 보이지만 콩팥 기능에 영향을 주지 않으며 대부분 자연 소실됨
 * 치료 : 필요 없음
 
-##### <mark style="color:$primary;">소아 및 청소년에서의 단백뇨</mark>
+<mark style="color:$primary;">**소아 및 청소년에서의 단백뇨**</mark>
 
 * 원인 : 대부분 발열, 운동 등에 의한 일과성 단백뇨
 * 선별 검사 양성 시 채뇨 유의 사항을 지켜 재검 → 1주 간격으로 3회 검사에서 최소 2번 단백뇨 검출 시 콩팥 질환에 대한 추가 검사 시행
