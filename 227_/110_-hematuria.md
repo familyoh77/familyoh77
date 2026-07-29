@@ -57,7 +57,7 @@
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 새로 발생한 무통성 육안혈뇨 → 연령과 무관하게 비뇨기암 배제를 위한 비뇨기과 의뢰
-* 적혈구 원주 또는 dysmorphic RBC(특히 acanthocyte ≥5%), 유의한 알부민뇨(ACR ≥300 ㎎/g 또는 단백뇨 ≥0.3 g/d 상당), 새로 동반된 고혈압을 동반하는 혈뇨 → 사구체신염
+* 적혈구 원주 또는 dysmorphic RBC(특히 acanthocyte ≥5%), 유의한 알부민뇨(uACR ≥300 ㎎/g 또는 단백뇨 ≥0.3 g/d 상당), 새로 동반된 고혈압을 동반하는 혈뇨 → 사구체신염
 * 급성은 아니지만 s-Cr 상승을 동반
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
@@ -96,13 +96,13 @@
 * 전체 적혈구 중 dysmorphic RBC가 ＞50\~80%이거나 acanthocyte(고리 모양 세포막 돌출을 가진 적혈구)가 ≥5%이면 사구체성 혈뇨를 강하게 시사
 * 응괴(clot)는 사구체 출혈보다는 요로 출혈 가능성이 높음
 
-<table><thead><tr><th width="100">구분</th><th width="134.7618408203125">색깔</th><th width="69.5238037109375">Clot</th><th width="133.333251953125">단백뇨</th><th width="125.238037109375">RBC 모양</th><th width="92.7464599609375">RBC 원주</th></tr></thead><tbody><tr><td>사구체성</td><td>선홍색~갈색(cola-colored)</td><td>-</td><td><strong>있음</strong>(대개 ACR ≥300 ㎎/g)</td><td><strong>dysmorphic</strong></td><td><strong>+</strong></td></tr><tr><td>비사구체성</td><td>선홍색(red)~분홍색(pink)</td><td><strong>+</strong></td><td>경미하거나 없음</td><td>isomorphic</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="100">구분</th><th width="134.7618408203125">색깔</th><th width="69.5238037109375">Clot</th><th width="133.333251953125">단백뇨</th><th width="125.238037109375">RBC 모양</th><th width="92.7464599609375">RBC 원주</th></tr></thead><tbody><tr><td>사구체성</td><td>선홍색~갈색(cola-colored)</td><td>-</td><td><strong>있음</strong>(대개 uACR ≥300 ㎎/g)</td><td><strong>dysmorphic</strong></td><td><strong>+</strong></td></tr><tr><td>비사구체성</td><td>선홍색(red)~분홍색(pink)</td><td><strong>+</strong></td><td>경미하거나 없음</td><td>isomorphic</td><td>-</td></tr></tbody></table>
 
-_✽전통적으로 24시간 요단백 ≥500 ㎎/d를 사구체성 혈뇨의 기준으로 용해 왔으나, 외래에서는 24시간 소변 채집이 용이하지 않으므로, 임의뇨 알부민/크레아티닌 비(ACR) 또는 단백/크레아티닌 비(PCR)가 실제 활용도가 높음_
+_✽전통적으로 24시간 요단백 ≥500 ㎎/d를 사구체성 혈뇨의 기준으로 용해 왔으나, 외래에서는 24시간 소변 채집이 용이하지 않으므로, 임의뇨 알부민/크레아티닌 비(uACR) 또는 단백/크레아티닌 비(uPCR)가 실제 활용도가 높음_
 
 #### <mark style="color:$primary;">기타 검사</mark>
 
-* 초기 검사 : 신체검사(혈압 포함), 요백혈구·질산염(감염 배제), dysmorphic RBC, 적혈구·백혈구 원주, 혈색소·혈소판, 혈청 알부민, s-Cr을 통한 eGFR, 소변 ACR 또는 PCR
+* 초기 검사 : 신체검사(혈압 포함), 요백혈구·질산염(감염 배제), dysmorphic RBC, 적혈구·백혈구 원주, 혈색소·혈소판, 혈청 알부민, s-Cr을 통한 eGFR, 소변 uACR 또는 uPCR
 * s-BUN/Cr, eGFR : 원인 감별 및 조영제 사용 검사 가능 여부 판단을 위해 시행
 * 원인이 불분명한 가임기 여성에서는 소변 β-hCG 검사 고려
 * 소변 배양 검사 : 감염 증상이 있거나 농뇨(pyuria)가 동반될 때 시행
@@ -146,7 +146,7 @@ graph TD
     A([무증상 현미경혈뇨 확인<br>단일 검체 RBC＞3/HPF]) --> B[운동·외상·최근 비뇨의학과 시술·생리혈 오염·요로감염 등<br>배제 위한 병력청취·신체검사]
     B --> C[처음 확인된 경우<br>반복 현미경검사로 재확인]
     C -->|재검 음성| C1[추가 평가 불필요<br>양호한 예후]
-    C -->|재검 양성 또는 확진| D0[최초 평가<br>요백혈구·질산염, dysmorphic RBC/원주,<br>혈색소·혈소판·알부민, eGFR, 요 ACR/PCR]
+    C -->|재검 양성 또는 확진| D0[최초 평가<br>요백혈구·질산염, dysmorphic RBC/원주,<br>혈색소·혈소판·알부민, eGFR, 요 uACR/uPCR]
     D0 --> D[위험도 분류]
     D --> E[저위험]
     D --> F[중등도 위험]
