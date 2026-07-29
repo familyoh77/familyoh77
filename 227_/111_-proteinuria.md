@@ -236,17 +236,19 @@ graph TD
     CKDeval --> Tx[치료: ACEI/ARB + SGLT2 억제제 ± ns-MRA/GLP-1RA + 위험인자 관리]
     Tx --> FU[정기 추적: uACR·eGFR로 치료 반응 평가]
 
-    style U1 fill:#f96,stroke:#e65100,stroke-width:2px
-    style CKDeval fill:#f96,stroke:#e65100,stroke-width:2px
-    style Persist fill:#fff9c4,stroke:#f57f17,stroke-width:2px
-    style Reassure3 fill:#e1f5fe,stroke:#01579b
-    style Reassure4 fill:#e1f5fe,stroke:#01579b
-    style Tx fill:#fff3e0,stroke:#e65100,stroke-width:2px
+style D1 fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class U1,CKDeval lightGreen
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Persist yellow
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class Reassure3,Reassure4,FU blue
+style Tx fill:#e3f2ff,stroke:#2196f3
 ```
 
-<p align="center"><strong>단백뇨(알부민뇨) 평가 알고리듬 (KDIGO 2024 기반, 현행)</strong></p>
+<p align="center"><strong>단백뇨(알부민뇨) 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD. 상세 단계별 흐름은 (☞ [콩팥 질환의 진단](109_.md)) 챕터 참조.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD.</mark></em> </p>
 
 ***
 
