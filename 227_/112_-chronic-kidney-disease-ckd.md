@@ -201,12 +201,12 @@ style F fill:#ffcdd2,stroke:#c62828
 * 정기적으로 소변 단백질과 혈액 크레아티닌을 검사한다.
 * 약물은 꼭 필요한 약만, 콩팥 기능에 맞게 조절하여 복용한다.
 
-### <mark style="color:orange;">저염식 및 수분 관리</mark>
+#### <mark style="color:$primary;">저염식 및 수분 관리</mark>
 
 * 저염식 : 금기가 아닌 한 Na ＜2 g/d (소금 5 g/d)로 섭취 제한
 * 수분 섭취 제한 : 부종, volume overload 시 시행
 
-### <mark style="color:orange;">단백질 섭취</mark>
+#### <mark style="color:$primary;">단백질 섭취</mark>
 
 * 목표 단백뇨 : ＜1 g/d
 * 단백질 섭취 제한 : 0.8 g/㎏/d
@@ -216,11 +216,11 @@ style F fill:#ffcdd2,stroke:#c62828
 * 위 수치는 일반적 기준이며, 고령·영양실조 위험군에서는 개별 영양 상태에 따라 더 유연하게 조정해야 함 (과도한 단백질 제한은 근감소·영양실조 위험을 높일 수 있음)
 * 당뇨병성신증 환자에서 초기부터 엄격한 단백질 제한은 필요치 않으나 많은 섭취 (＞1.5 g/㎏/d)는 피함. 투석 환자나 진행된 당뇨병성 신증 환자는 영양실조 위험이 있으므로 더 높은 수준의 단백질 섭취가 필요할 수 있음
 
-### <mark style="color:orange;">칼륨 섭취 관리</mark>
+#### <mark style="color:$primary;">칼륨 섭취 관리</mark>
 
 * 고칼륨혈증의 위험이 있는 경우에만 K 섭취 제한 (무증상 CKD에서 일률적 제한은 불필요)
 
-#### <mark style="color:$primary;">칼륨이 많은 음식</mark>
+**칼륨이 많은 음식**
 
 * 곡류군 : 현미, 흑미, 콩류, 팥, 감자, 고구마, 토란, 옥수수, 밤, 땅콩버터, 율무, 은행
 * 어육류군 : 참치살, 삼치, 명태, 방어, 잉어, 미꾸라지, 우럭, 새우, 굴, 생오징어, 갑오징어
@@ -229,9 +229,9 @@ style F fill:#ffcdd2,stroke:#c62828
 * 과일군 : 곶감, 앵두, 참외, 천도복숭아, 토마토, 키위, 멜론, 바나나, 말린 과일
 * 기타 : 커피, 코코아, 초콜릿, 흑설탕, 호두, 땅콩, 잣
 
-## <mark style="color:green;">약물 치료</mark>
+## <mark style="color:green;">약물 치료 및 상황에 따른 대처</mark>
 
-### <mark style="color:orange;">혈압 및 단백뇨 - RAAS 차단제</mark>
+#### <mark style="color:$primary;">혈압 및 단백뇨 - RAAS 차단제</mark>
 
 * 목표 혈압 : 내약 시 표준화된 진료실 혈압 측정 기준 수축기 혈압 ＜120 ㎜Hg 목표; 노쇠, 낙상 위험, 기대여명이 짧은 경우 등은 완화된 목표 적용 \[KDIGO]
   * "표준화된 진료실 혈압 측정"이란 환자가 진료실에서 5분 이상 안정을 취한 뒤 자동혈압계로 측정한 값을 의미하며, 일상 진료에서 흔히 재는 수동 혈압(전통적 기준 130/80 ㎜Hg에 해당)보다 낮게 측정되는 경향이 있어 단순 비교 시 혼란이 있을 수 있음 (☞ [혈압측정법](../225_/095_-hypertension.md#undefined-8))
@@ -245,7 +245,7 @@ style F fill:#ffcdd2,stroke:#c62828
   * loop diuretics : eGFR ＜30 시 권고
 * (non-DHP) [CCB ](../225_/095_-hypertension.md#calcium-channel-blocker-ccb): 혈압이 조절되지 않는 경우, 지속적인 s-Cr 상승이 있는 경우 고려
 
-### <mark style="color:orange;">SGLT2 억제제 - 병인과 무관한 신장 보호</mark>
+#### <mark style="color:$primary;">SGLT2 억제제 - 병인과 무관한 신장 보호</mark>
 
 * dapagliflozin, empagliflozin : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과 (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
 * KDIGO 2024는 개별 약제보다 계열 효과(class effect)로 접근할 것을 권고
@@ -253,67 +253,67 @@ style F fill:#ffcdd2,stroke:#c62828
 * 부작용 : 생식기 진균 감염, 드물게 정상혈당 당뇨병성 케톤산증(euglycemic DKA) - 급성 질환·수술 전 sick-day rule 교육 필요
 * 급여 기준 : [dapagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031)  <mark style="color:blue;">\[다파엔]</mark>, [empagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251024\&sno=1\&mtgMtrRegSno=0002)  <mark style="color:blue;">\[자디앙]</mark>
 
-### <mark style="color:orange;">비스테로이드성 MRA - 당뇨병성 신장병</mark>
+#### <mark style="color:$primary;">비스테로이드성 MRA - 당뇨병성 신장병</mark>
 
 * finerenone : 제2형 당뇨병을 동반한 성인 CKD 환자에서 ACEI/ARB 표준 치료에 추가 시 신장 및 심혈관 복합 사건 위험 감소 <mark style="color:blue;">\[케렌디아]</mark>
 * 용량 : 초기 용량은 eGFR에 따라 결정; 고칼륨혈증 및 eGFR 저하 여부를 정기 모니터링
 * SGLT2 억제제와 작용 기전이 달라(항염증·항섬유화) 병용 가능; CONFIDENCE trial(2025)에서 SGLT2 억제제와의 동시 병용이 각 단독 요법보다 알부민뇨를 더 크게 감소시켰고, 병용군의 고칼륨혈증 발생률이 finerenone 단독군보다 낮게 보고됨 - 다만 K 및 eGFR은 병용 시에도 정기 모니터링 필요
 * [급여 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240201\&sno=4\&mtgMtrRegSno=0002) : 만성콩팥병 환자에서 ACEI/ARB을 투여 중이며, ① uACR ＞300 ㎎/g 또는 요 시험지봉 검사 1+ 이상, ② eGFR 25\~＜75 mL/min/1.73㎡ 조건을 모두 만족할 때 병용 급여
 
-### <mark style="color:orange;">혈당 관리</mark>
+#### <mark style="color:$primary;">혈당 관리</mark>
 
 * 공복 혈당 90\~130 ㎎/㎗, 당화혈색소 ＜7% 유지 (개별화 가능)
 * [metformin](../226_/101_.md#metformin-mtf) : 현재는 eGFR 기반으로 용량을 조절하며, 혈청 creatinine 단독 기준은 사용하지 않음 (예: eGFR 30\~45에서 감량, eGFR ＜30에서 중단 고려)
 * SGLT2 억제제, GLP-1 수용체 작용제는 혈당 조절과 별개로 신장·심혈관 보호 효과가 있어 당뇨병 동반 CKD에서 우선 고려되는 계열임
 * [GLP-1 수용체 작용제](../226_/101_.md#glp-1-ra-glucagon-like-peptide-1-receptor-agonist)(특히 semaglutide)는 단순 혈당 조절제를 넘어, metformin + SGLT2 억제제 투여 후에도 목표 혈당에 도달하지 못하거나 알부민뇨가 지속될 때 심혈관·신장 보호를 목적으로 추가할 수 있는 약제로 위상이 격상됨 - 당뇨병 동반 CKD 환자에서 신장 및 심혈관 복합 사건 위험 감소
 
-### <mark style="color:orange;">고칼륨혈증 관리</mark>
+#### <mark style="color:$primary;">고칼륨혈증 관리</mark>
 
 * K, P : 정상 범위 유지
-* 저칼륨 식이, 이뇨제 조정이 1차 조치이나, RAAS 차단제·SGLT2 억제제·비스테로이드성 MRA 등 신장 보호 약물을 고칼륨혈증을 이유로 감량·중단하기보다 **칼륨 결합제 병용으로 최적 용량을 유지**하는 전략이 권고됨(KDIGO 2024; 대한신장학회 2025 고혈압·콩팥병 진료지침)
+* 저칼륨 식이, 이뇨제 조정이 1차 조치이나, RAAS 차단제·SGLT2 억제제·비스테로이드성 MRA 등 신장 보호 약물을 고칼륨혈증을 이유로 감량·중단하기보다 칼륨 결합제 병용으로 최적 용량을 유지하는 전략이 권고됨 \[KDIGO 2024; 대한신장학회 2025 고혈압·콩팥병 진료지침]
 * 칼륨 결합제
-  * calcium polystyrene sulfonate <mark style="color:blue;">\[카리메이트]</mark> : 국내에서 오래 사용되어 온 1차 선택; 변비 등 위장관 부작용
-  * sodium zirconium cyclosilicate(SZC) <mark style="color:blue;">\[로켈마]</mark> : 국내 신규 도입(2025년); 만성 관리 목적(RAAS 차단제 유지)에 우선 고려 가능하나 효과 발현까지 다소 시간이 걸려, 생명을 위협하는 **급성** 고칼륨혈증에는 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 **병용**해야 함(KDIGO)
+  * polystyrene sulfonate calcium : 국내에서 오래 사용되어 온 1차 선택; 경구 또는 직장 투여 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">카리메트</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0720A0460)<mark style="color:blue;">]</mark>
+  * sodium zirconium cyclosilicate(SZC) : 국내 신규 도입(2025년); 만성 관리 목적(RAAS 차단제 유지)에 우선 고려 가능하나 효과 발현까지 다소 시간이 걸려, 생명을 위협하는 급성 고칼륨혈증에는 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 병용해야 함 \[KDIGO] <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로켈마</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2025120100002)<mark style="color:blue;">]</mark>
 
-### <mark style="color:orange;">신성 빈혈</mark>
+#### <mark style="color:$primary;">신성 빈혈</mark>
 
 * CKD 초기에 발생할 수 있고, CKD가 진행할수록 심해짐
-* 빈혈(남 Hb ＜13 g/㎗, 여 ＜12 g/㎗) 시 다음 검사를 고려
-  1. CBC(Hb, RBC indices, WBC with diff, Plt)
-  2. 절대 망상적혈구 수
-  3. ferritin
-  4. transferrin saturation(TSAT)
-  5. Vit B12, folate
+* 빈혈 (남 Hb ＜13 g/㎗, 여 ＜12 g/㎗) 시 다음 검사를 고려
+  * CBC : Hb, RBC indices, WBC with diff, Plt
+  * 절대 망상적혈구 수
+  * ferritin
+  * transferrin saturation(TSAT)
+  * Vit B12, folate
 * 철분 : 철결핍빈혈로 진단된 경우, TSAT ≤30% & s-ferritin ≤500 ng/㎖ 시 투여 고려; 비투석 CKD 환자에서는 경구 철분제 투약을 우선 고려(1\~3개월간 시도)
 * erythropoietin-stimulating agent(ESA) : Hb ＜10 g/㎗ 시 투여 고려
   * 조절 목표 : Hb 10\~11.5 g/㎗ (11.5 g/㎗ 초과로 올리지 않음)
-  * ✽과도한 교정은 고혈압 악화, 위장관 장애(경구 철분제), 심부전/뇌졸중(ESA) 위험을 높일 수 있음
-* 제제 : ferrous sulfate, ESA(epoetin alfa, darbepoetin alfa 등)
+  * 과도한 교정은 고혈압 악화, 위장관 장애(경구 철분제), 심부전/뇌졸중(ESA) 위험을 높일 수 있음
+* 제제 : ferrous sulfate, ESA(epoetin alfa, darbepoetin alfa 등) (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
 
-### <mark style="color:orange;">요독증</mark>
+#### <mark style="color:$primary;">요독증</mark>
 
 * Spherical adsorptive carbon
   * 작용 : 장내 요독소(indole) 또는 요독소의 전구체를 흡착하여 대변으로 배출
   * 효과 : 요독증 증상 개선 및 투석 개시 지연
   * 부작용 : 변비, 식욕 감퇴, 구토, 설사, 복통, 가려움; 타 약제 흡수 장애 유발
   * 주의/금기 : 소화관 궤양, 식도성 정맥류, 소화관 통과 장애
-  * 용법 : 2 g tid <mark style="color:blue;">\[크레메진]</mark> (보험기준 : 투석 전 진행성 CKD 환자 중 s-Cr 2\~5 ㎎/㎗인 환자)
+  * 용법 : 2 g tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">크레메진</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AOOOOO5006)<mark style="color:blue;">]</mark> ([급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220601\&sno=5\&mtgMtrRegSno=0005) : 투석 전 진행성 CKD 환자 중 s-Cr 2\~5 ㎎/㎗인 환자)
 
-### <mark style="color:orange;">CKD-MBD(골, 미네랄 대사이상)</mark>
+#### <mark style="color:$primary;">CKD-MBD (mineral bone disorder)</mark>
 
 * PTH 상승 시 교정 가능한 인자(칼슘, 인, Vit D 부족) 우선 평가
-* 일반 Vit D(콜레칼시페롤 등) : 일반인과 동일한 방법으로 부족분 보충; 장에서의 인 흡수를 증가시킬 수 있으므로 인 조절이 안 되는 경우 주의
-* 활성형 Vit D(calcitriol 등) : KDIGO 2024는 **일률적(routine) 사용을 권장하지 않으며**, 중증·진행성 이차성 부갑상선기능항진증(SHPT)에서 선택적으로 고려
-* Calcimimetic(cinacalcet 등) : 활성형 Vit D로 조절되지 않는 SHPT에 추가 옵션이나, 국내외 허가·주된 사용 근거는 **투석 중인 환자(G5D)** 위주이며 비투석 CKD에서는 허가 외 사용에 해당하고 저칼슘혈증 위험이 있어 신장내과와 상의 후 사용
-* 골다공증 : 필요시 bisphosphonate 투여(eGFR에 따른 용량 조절 및 사용 가능 여부 확인 필요)
+* 일반 Vit D (cholecalciferol 등) : 일반인과 동일한 방법으로 부족분 보충; 장에서의 인 흡수를 증가시킬 수 있으므로 인 조절이 안 되는 경우 주의
+* 활성형 Vit D (calcitriol 등) : 일률적(routine) 사용을 권장하지 않으며, 중증·진행성 이차성 부갑상선기능항진증(SHPT)에서 선택적으로 고려 \[KDIGO]
+* Calcimimetic (cinacalcet 등) : 활성형 Vit D로 조절되지 않는 SHPT에 추가 옵션이나, 국내외 허가·주된 사용 근거는 투석 중인 환자(G5D) 위주이며 비투석 CKD에서는 허가 외 사용에 해당하고 저칼슘혈증 위험이 있어 신장내과와 상의 후 사용
+* 골다공증 : 필요시 bisphosphonate 투여 (eGFR에 따른 용량 조절 및 사용 가능 여부 확인 필요)
 
-### <mark style="color:orange;">이상지질혈증</mark>
+#### <mark style="color:$primary;">이상지질혈증</mark>
 
-* KDIGO는 CKD에서 특정 LDL-C 목표치를 제시하지 않으며, **심혈관 위험도에 기반한 statin 치료 여부 결정**을 원칙으로 함(구체적 목표 수치·약제 선택은 이상지질혈증 챕터 참조)
+* KDIGO는 CKD에서 특정 LDL-C 목표치를 제시하지 않으며, 심혈관 위험도에 기반한 statin 치료 여부 결정을 원칙으로 함 (☞ [이상지질혈증](../225_/099_-dyslipidemia.md))
 
-### <mark style="color:orange;">신장 독성 약물 회피</mark>
+#### <mark style="color:$primary;">신장 독성 약물 회피</mark>
 
-* 다른 약물 용량 조절 필요(신기능에 따른 용량 조정 원칙 적용)
+* 다른 약물 용량 조절 필요 (신기능에 따른 용량 조정 원칙 적용)
 * 한약제(감초, aristolochic acid 함유제 등), 안전성이 확인되지 않은 건강 식품 회피
 * 신장 독성 약제 주의
   * 항생제 : aminoglycosides, amphotericin B, cephalosporins, penicillins, beta-lactamase inhibitors, quinolones, rifampin, sulfonamides, vancomycin
@@ -323,14 +323,7 @@ style F fill:#ffcdd2,stroke:#c62828
 * 조영제 사용이 불가피한 경우 : 검사 전후 충분한 수액 공급, 최소 용량 사용, 신독성 약물 일시 중단 등 조영제 유발 급성 신손상 예방 조치 고려
 * 일반의약품(OTC, NSAID 포함)의 자가 복용을 피하도록 교육 - 처방전 없이 구입 가능한 진통제·감기약에도 신장에 부담을 줄 수 있는 성분이 포함될 수 있음
 
-### <mark style="color:orange;">기타</mark>
-
-* 금연, 적정 체중 유지, 음주 제한
-* 운동 : 유산소 운동과 저항성 운동 병행; eGFR, Cr, 혈압 개선 효과가 있음
-
-### <mark style="color:orange;">신대체요법(투석·이식) 환자가 다른 질환으로 내원했을 때의 고려사항</mark>
-
-* 투석·이식 등 신대체요법 자체의 시행과 관리는 전문 분야이므로 본서에서 다루지 않음. 다만 이미 신대체요법을 받고 있는 환자가 당뇨병, 고혈압, 수술 및 시술, 조영제 검사, 통증 관리, 호흡기 질환, 감염 등 **다른 문제로 1차 의료기관에 내원했을 때** 감별·처방에서 유의할 점을 정리함
+### <mark style="color:orange;">신대체요법(투석·이식) 환자 진료 시 유의사항</mark>
 
 #### <mark style="color:$primary;">공통 원칙</mark>
 
@@ -339,92 +332,88 @@ style F fill:#ffcdd2,stroke:#c62828
 * 요독증 및(이식의 경우) 면역억제로 인해 감염에 취약하고, 발열 등 전형적 징후가 약화되어 나타날 수 있음 - 통상보다 낮은 문턱으로 적극 평가
 * 상태가 애매하거나 처치가 신대체요법 자체에 영향을 줄 수 있는 경우 담당 신장내과·투석실·이식팀과 상시 소통
 
-#### <mark style="color:$primary;">혈액투석 환자</mark>
+<mark style="color:cyan;">**혈액투석 환자**</mark>
 
 * 혈관통로(AVF/AVG)가 있는 팔에서는 혈압 측정, 정맥주사, 채혈을 하지 않음
 * 체액 상태가 투석 전후로 크게 변동하므로, 혈압을 해석할 때는 진료 시점이 투석 전인지 후인지 함께 고려
 * 무뇨 환자에서는 이뇨제가 효과가 없을 수 있음
 
-#### <mark style="color:$primary;">복막투석 환자</mark>
+<mark style="color:cyan;">**복막투석 환자**</mark>
 
 * 복통, 투석액 혼탁 등이 있으면 복막염 가능성을 감별하고 즉시 담당 신장내과·투석실에 연락
 * 카테터 출구·터널 부위 감염을 통상적인 피부 연조직염과 감별
 
-#### <mark style="color:$primary;">신장 이식 환자</mark>
+<mark style="color:cyan;">**신장 이식 환자**</mark>
 
-* 면역억제제(calcineurin 억제제 : cyclosporine, tacrolimus)와의 약물 상호작용에 특히 주의
-  * 혈중 농도 **상승**(독성 위험) : azole계 항진균제(fluconazole, itraconazole), macrolide(clarithromycin, erythromycin) 등 - azithromycin은 상대적으로 영향이 적어 대안으로 고려 가능
-  * 혈중 농도 **저하**(거부반응 위험) : rifampin 등 CYP3A4 유도제
+* 면역억제제 (calcineurin 억제제 : cyclosporine, tacrolimus)와의 약물 상호작용에 특히 주의
+  * 혈중 농도 상승 (독성 위험) : azole계 항진균제 (fluconazole, itraconazole), macrolide (clarithromycin, erythromycin) 등 - azithromycin은 상대적으로 영향이 적어 대안으로 고려 가능
+  * 혈중 농도 저하 (거부반응 위험) : rifampin 등 CYP3A4 유도제
 * NSAID는 신독성 및 calcineurin 억제제와의 상승 작용으로 가능한 회피
-* 생백신(홍역·볼거리·풍진, 대상포진 생백신, 황열, 경구 소아마비 등)은 금기; 사백신(인플루엔자, 폐렴구균, 재조합 대상포진 백신 등)은 접종 권장
+* 생백신 (홍역·볼거리·풍진, 대상포진 생백신, 황열, 경구 소아마비 등)은 금기; 사백신(인플루엔자, 폐렴구균, 재조합 대상포진 백신 등)은 접종 권장
 * 피부암 등 악성종양 위험이 증가하므로 새로 생긴 피부 병변은 적극적으로 평가하고 자외선 차단을 교육
 * 불명열 등 감염이 의심되면 낮은 문턱으로 이식 코디네이터·이식내과에 연락
 
 #### <mark style="color:$primary;">동반 질환별 고려사항</mark>
 
-**당뇨병**
+<mark style="color:cyan;">**당뇨병**</mark>
 
-* HbA1c는 빈혈 및 적혈구 생존 기간 단축 등으로 신뢰도가 떨어질 수 있어 해석에 주의(필요시 glycated albumin 등 보조 지표 고려)
+* HbA1c는 빈혈 및 적혈구 생존 기간 단축 등으로 신뢰도가 떨어질 수 있어 해석에 주의 (필요시 glycated albumin 등 보조 지표 고려)
 * 인슐린의 신 배설 감소로 작용이 길어져 저혈당 위험이 증가 - 용량 조정 필요
 * metformin : 투석 환자에서는 금기
-* SGLT2 억제제 : 혈당 강하 효과보다 신장·심혈관 보호 효과가 더 크지만, 지속 여부의 기준은 **eGFR 수치 자체가 아니라 투석/이식(KRT) 개시 여부**임(☞ 약물 치료 - SGLT2 억제제 항목 참조) - 이미 투석을 시작한 환자는 여과할 신장 기능이 없어 일반적으로 중단함
+* SGLT2 억제제 : 혈당 강하 효과보다 신장·심혈관 보호 효과가 더 크지만, 지속 여부의 기준은 eGFR 수치 자체가 아니라 투석/이식(KRT) 개시 여부임 - 이미 투석을 시작한 환자는 여과할 신장 기능이 없어 일반적으로 중단함
 
-**고혈압**
+<mark style="color:cyan;">**고혈압**</mark>
 
 * 혈액투석 환자는 투석 전후 체액량에 따라 혈압 변동이 크므로, 혈압 상승이 항상 약물 조절 실패를 의미하지 않고 체액 과다(건체중 초과)의 신호일 수 있음 - 필요시 투석 처방(제거량) 조정을 위해 투석실에 문의
 * 무뇨 환자에서 이뇨제 추가는 효과가 없을 수 있음
-* ACEI/ARB를 새로 시작하거나 용량을 조정한 경우 2\~4주 내 K(잔여 신기능이 있다면 s-Cr도 함께)를 재검(KDIGO)
-* 난치성 고혈압, 반복되는 고칼륨혈증, 빠른 eGFR 감소(잔여 신기능이 있는 경우)는 신장내과 의뢰를 고려
+* ACEI/ARB를 새로 시작하거나 용량을 조정한 경우 2\~4주 내 K(잔여 신기능이 있다면 s-Cr도 함께)를 재검
+* 난치성 고혈압, 반복되는 고칼륨혈증, 빠른 eGFR 감소 (잔여 신기능이 있는 경우)는 신장내과 의뢰를 고려
 
-**수술 및 시술**
+<mark style="color:cyan;">**수술 및 시술**</mark>
 
-* 수술 전 eGFR을 확인하고 신독성 약물(NSAID, 조영제 등) 사용 여부를 검토
-* ACEI/ARB, SGLT2 억제제, metformin 등은 급성 질환·금식·수술 전후에 일시 중단 여부를 확인(이른바 "sick-day" 원칙)
-* **투석 환자는 수술 일정과 투석 일정을 함께 조정함** - 혈액투석 환자는 수술 전후 투석 일정을, 복막투석 환자는 수술 부위·종류에 따라 일시적 중단 및 대체 투석 필요 여부를 투석실·신장내과와 사전 협의
+* 수술 전 eGFR을 확인하고 신독성 약물 (NSAID, 조영제 등) 사용 여부를 검토
+* ACEI/ARB, SGLT2 억제제, metformin 등은 급성 질환·금식·수술 전후에 일시 중단 여부를 확인 ("sick-day" 원칙)
+* 투석 환자는 수술 일정과 투석 일정을 함께 조정함 - 혈액투석 환자는 수술 전후 투석 일정을, 복막투석 환자는 수술 부위·종류에 따라 일시적 중단 및 대체 투석 필요 여부를 투석실·신장내과와 사전 협의
 
-**조영제 검사**
+<mark style="color:cyan;">**조영제 검사**</mark>
 
-* **조영 CT가 반드시 필요한 경우, CKD가 있다는 이유만으로 검사를 포기하지 않음** - 위험도를 평가하고 예방적 조치를 함께 시행하는 것이 원칙
-* 잔여 신기능이 남아있는 경우 조영제 유발 급성 신손상 위험을 평가(무뇨 혈액투석 환자는 상대적으로 위험이 낮으나 여전히 주의)
+* 조영 CT가 반드시 필요한 경우, CKD가 있다는 이유만으로 검사를 포기하지 않음 - 위험도를 평가하고 예방적 조치를 함께 시행하는 것이 원칙
+* 잔여 신기능이 남아있는 경우 조영제 유발 급성 신손상 위험을 평가 (무뇨 혈액투석 환자는 상대적으로 위험이 낮으나 여전히 주의)
 * 필요한 경우 검사 전후 충분한 수액 공급, NSAID 등 신독성 약물의 일시 중단을 고려
 * metformin은 조영제 검사 전후 eGFR에 따라 일시 중단 여부 확인(투석 환자에서는 애초에 사용하지 않음)
 
-**통증 관리**
+<mark style="color:cyan;">**통증 관리**</mark>
 
 * acetaminophen을 1차로 고려
-* NSAID는 잔여 신기능 저하 및(이식의 경우) 이식신 손상 위험이 있어 가능한 회피
-* gabapentin, pregabalin은 신기능(투석 환자는 투석 제거율)에 따라 감량하고, 투석 스케줄에 맞추어 투여 시점을 조정(예: 투석 후 복용)
+* NSAID는 잔여 신기능 저하 및 (이식의 경우) 이식신 손상 위험이 있어 가능한 회피
+* gabapentin, pregabalin은 신기능 (투석 환자는 투석 제거율)에 따라 감량하고, 투석 스케줄에 맞추어 투여 시점을 조정 (예: 투석 후 복용)
 * opioid는 신기능에 따른 용량 조절이 필요 - morphine은 활성 대사산물이 축적될 수 있어 상대적으로 피하고 대안을 신중히 고려
 
-**호흡기 질환**
+<mark style="color:cyan;">**호흡기 질환**</mark>
 
 * 체액 과다로 인한 폐부종이 폐렴 등 감염성 질환과 임상적으로 혼동될 수 있어 흉부 영상과 체액 상태를 함께 평가
-* 요독증(및 이식 환자의 면역억제)으로 결핵 등 만성 감염 위험이 일반인보다 높음 - 의심 소견 시 적극적으로 검사
+* 요독증 (및 이식 환자의 면역억제)으로 결핵 등 만성 감염 위험이 일반인보다 높음 - 의심 소견 시 적극적으로 검사
 * 동반되는 탈수·급성 신손상 위험에 대해서는 아래 "감염" 항목의 sick-day 원칙을 함께 참조
 
-**감염(피부 감염 포함)**
+<mark style="color:cyan;">**감염 (피부 감염 포함)**</mark>
 
 * 항생제는 신기능(eGFR) 및 투석 여부에 맞게 용량·투여 시점을 조정 - aminoglycoside는 가능하면 회피, vancomycin은 혈중 농도(TDM) 모니터링 하에 용량·간격 조정
 * 피부·요로·호흡기 감염 모두 탈수와 급성 신손상을 악화시킬 수 있어 수분 상태를 함께 평가
 * 혈관통로 또는 복막투석 카테터 주변 감염은 전신 패혈증으로 진행할 수 있어 통상적인 연조직염보다 낮은 문턱으로 신장내과·투석실에 연락
 * 요독성 소양감(uremic pruritus)과 감염성 피부 질환을 감별
 * 이식 환자에서는 면역억제로 감염이 발열 없이 경미하게 나타날 수 있어 통상 기준보다 적극적으로 평가하고, 상처 치유가 지연될 수 있음을 고려
-* 탈수(발열, 구토, 설사 등)가 동반되면 sick-day medication 원칙에 따라 ACEI/ARB, SGLT2 억제제, 이뇨제, metformin 등의 일시 중단 여부를 확인
+* 탈수 (발열, 구토, 설사 등)가 동반되면 sick-day medication 원칙에 따라 ACEI/ARB, SGLT2 억제제, 이뇨제, metformin 등의 일시 중단 여부를 확인
 
-**예방접종**
+<mark style="color:cyan;">**예방접종**</mark>
 
-* Influenza(매년), pneumococcal, hepatitis B, COVID-19, 재조합 대상포진 백신(RZV)을 우선 고려 - 요독증 및(이식의 경우) 면역억제로 감염·백신 반응이 저하될 수 있어 시기를 놓치지 않는 것이 중요
-* 이식 환자는 생백신 금기 원칙 재확인(☞ 위 "신장 이식 환자" 항목 참조)
+* Influenza (매년), pneumococcal, hepatitis B, COVID-19, 재조합 대상포진 백신 (RZV)을 우선 고려 - 요독증 및 (이식의 경우) 면역억제로 감염·백신 반응이 저하될 수 있어 시기를 놓치지 않는 것이 중요
+* 이식 환자는 생백신 금기 원칙 재확인
 
-**심혈관질환**
+<mark style="color:cyan;">**심혈관질환**</mark>
 
-* CKD·투석·이식 환자 모두 죽상경화성 심혈관질환(ASCVD)의 고위험군이며, CKD 환자의 주된 사망 원인이 심혈관질환임
-* 흉통은 적극적으로 평가하고, 심부전(체액 과다)과의 감별이 필요
-* troponin은 만성적으로 상승되어 있는 경우가 많아 절대치보다 \*\*추세(변화 양상)\*\*로 급성 관동맥증후군 여부를 판단
-
-**신장 이식·투석 관련 특이사항**
-
-* ☞ 위 "혈액투석 환자", "복막투석 환자", "신장 이식 환자" 항목(혈관통로 보호, 약물 상호작용, 백신 등) 참조
+* CKD·투석·이식 환자 모두 죽상경화성 심혈관질환 (ASCVD)의 고위험군이며, CKD 환자의 주된 사망 원인이 심혈관질환임
+* 흉통은 적극적으로 평가하고, 심부전 (체액 과다)과의 감별이 필요
+* troponin은 만성적으로 상승되어 있는 경우가 많아 절대치보다 추세 (변화 양상)로 급성 관동맥증후군 여부를 판단
 
 ***
 
@@ -433,14 +422,6 @@ style F fill:#ffcdd2,stroke:#c62828
 N18 만성 신장병
 
 N18.1 만성 신장병, 1기
-
-N18.2 만성 신장병, 2기(경도)
-
-N18.3 만성 신장병, 3기(중등도)
-
-N18.4 만성 신장병, 4기(중증)
-
-N18.5 만성 신장병, 5기
 
 N18.6 말기 신질환
 
