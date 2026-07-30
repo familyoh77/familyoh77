@@ -3,101 +3,105 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 콩팥 질환의 원인과는 상관없이 콩팥 손상 또는 콩팥 기능의 감소가 ＞3개월 지속되는 상태
-  * 콩팥 손상 : 사구체여과율에 관계없이 구조적 또는 기능적 이상을 포함하며 소변 검사 이상(알부민뇨 또는 적혈구, 백혈구 원주 등의 소변 침전물), 콩팥 조직 검사 이상(사구체, 세뇨관간질, 혈관의 병리 소견), 영상 검사 이상(초음파, CT 검사 등), 콩팥 이식 상태
+  * 콩팥 손상 : 사구체여과율에 관계없이 구조적 또는 기능적 이상을 포함하며 ① 소변 검사 이상(알부민뇨 또는 적혈구, 백혈구 원주 등의 소변 침전물), ② 콩팥 조직 검사 이상(사구체, 세뇨관간질, 혈관의 병리 소견), ③ 영상 검사 이상(초음파, CT 검사 등), ④ 콩팥 이식 상태
   * 콩팥 기능 저하 : 사구체여과율(eGFR) ＜60 ㎖/min/1.73㎡가 3개월 이상 지속되는 상태
 * 신부전 (kidney failure) : KDIGO에서는 G5(eGFR ＜15)와 동의어로 사용하되, 투석·이식 등 신대체요법(KRT)이 필요한지 여부는 별도로 명시함
-* 분류 \[KDIGO 2024] : 원인 질환(Cause) + 사구체여과율 병기(GFR category, G1\~G5) + 알부민뇨 병기(Albuminuria category, A1\~A3)의 CGA 분류 체계로 예후를 평가
-* 진행 기전 : nephron 파괴 → GFR 점진적 감소 및 s-Cr 상승 → 빈혈 발생(erythropoietin 생성 감소); eGFR가 감소할수록 hyperkalemia 위험이 증가하며, 특히 G4\~G5 또는 ACEI/ARB/MRA 등 RAAS 차단제 병용 시 흔함
+* 분류 : 원인 질환(Cause) + 사구체여과율 병기(GFR category, G1\~G5) + 알부민뇨 병기(Albuminuria category, A1\~A3)의 CGA 분류 체계로 예후를 평가 \[KDIGO 2024]
+* 진행 기전 : nephron 파괴 → GFR↓ & s-Cr↑ → erythropoietin 생성↓(빈혈 발생)
+  * eGFR이 감소할수록 hyperkalemia 위험이 증가하며, 특히 G4\~G5 또는 ACEI/ARB/MRA 등 RAAS 차단제 병용 시 흔함
 * 임상적 의의 : CKD는 서서히 진행되는 경우가 많아 GFR 감소에 대한 작은 치료 효과로도 말기 신질환 도달을 수 년 지연시킬 수 있음
-* 유병률(질병관리청, 국민건강영양조사 2023) : 19세 이상 연령표준화 유병률 5.5%; 70대 이상 25.1%로 고령에서 급격히 증가
+* 유병률 \[질병관리청, 국민건강영양조사 2023] : 19세 이상 연령표준화 유병률 5.5%; 70대 이상 25.1%로 고령에서 급격히 증가
 
 #### <mark style="color:$primary;">CKD 예후 Heat Map (G × A 병기)</mark>
 
-<table><thead><tr><th width="130">G 단계 (eGFR, ㎖/분/1.73㎡)</th><th width="150">A1 (＜30 ㎎/g)</th><th width="150">A2 (30\~300 ㎎/g)</th><th>A3 (＞300 ㎎/g)</th></tr></thead><tbody><tr><td>G1 (≥90)</td><td>저위험</td><td>중등도위험</td><td>고위험</td></tr><tr><td>G2 (60\~89)</td><td>저위험</td><td>중등도위험</td><td>고위험</td></tr><tr><td>G3a (45\~59)</td><td>중등도위험</td><td>고위험</td><td>매우고위험</td></tr><tr><td>G3b (30\~44)</td><td>고위험</td><td>매우고위험</td><td>매우고위험</td></tr><tr><td>G4 (15\~29)</td><td>매우고위험</td><td>매우고위험</td><td>매우고위험</td></tr><tr><td>G5 (＜15)</td><td>매우고위험</td><td>매우고위험</td><td>매우고위험</td></tr></tbody></table>
+<table><thead><tr><th width="130">G 단계</th><th width="150">A1 (＜30 ㎎/g)</th><th width="164.2857666015625">A2 (30~300 ㎎/g)</th><th>A3 (＞300 ㎎/g)</th></tr></thead><tbody><tr><td>G1 (≥90)</td><td>🟢 저위험</td><td>🟡 중등도 위험</td><td>🟠 고위험</td></tr><tr><td>G2 (60~89)</td><td>🟢 저위험</td><td>🟡 중등도 위험</td><td>🟠 고위험</td></tr><tr><td>G3a (45~59)</td><td>🟡 중등도 위험</td><td>🟠 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G3b (30~44)</td><td>🟠 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G4 (15~29)</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G5 (＜15)</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD</mark></em></p>
 
-✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 **심혈관 질환 위험도 및 사망 위험도**까지 함께 반영한 것임(KDIGO 2024) - 색이 짙어질수록 신장·심혈관 예후 모두가 나쁨을 의미
+_✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심혈관 질환 위험도 및 사망 위험도까지 함께 반영한 것임 \[KDIGO 2024] - 색이 짙어질수록 신장·심혈관 예후 모두가 나쁨을 의미_
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* 고혈압, 당뇨병(가장 흔함), 심혈관 질환
-* 고령(특히 65세 이상)
-* 만성콩팥병의 가족력
+* 당뇨병(가장 흔함), 고혈압, 심혈관 질환
+* 고령 (특히 65세 이상)
+* 만성콩팥병 가족력
 * 콩팥 독성 약물 노출, 급성 콩팥 손상 병력
 * 요로 감염, 요로 결석, 요로 폐쇄, 저체중 출산, 전신 감염, 자가 면역 질환
 * 단일 콩팥 혹은 콩팥 실질 감소
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* nitrogen 대사 산물 축적(GFR 감소)
-* acidosis(ammonia 합성 감소, bicarbonate 재흡수 장애, acid 순 배설 감소)
-* Na 저류(renin 과다 생성, 핍뇨) 또는 Na 소모(Na diuresis, tubular damage)
-* 소변 농축 결손, 배뇨 횟수 변화(핍뇨 or 다뇨), 야뇨, 혈뇨(solute diuresis, tubular damage)
-* hyperkalemia(GFR 감소, 대사성 산증, K 과다 섭취, hyporeninemic hypoaldosteronism)
-* 신성 골형성장애(25(OH)D 생성 장애, hyperphosphatemia, hypocalcemia, 2ndary hyperparathyroidism)
-* 쇠약(열량 섭취 부족, renal osteodystrophy, 대사성 산증, 빈혈, 성장호르몬 저항성)
-* 빈혈(erythropoietin 생성 감소, 철 결핍, 엽산 결핍, Vit B12 결핍, 적혈구 생존률 감소)
-* 출혈 경향, 점상 출혈(혈소판 기능 결함)
-* 감염(granulocyte 기능 결함, 세포 면역 기능 장애, 투석 카테터 유치)
-* 신경학적 증상(예: 피로, 집중력/기억력 저하, 두통, 졸림, 발작, 말초신경병증, asterixis, claudication, restless legs)(요독증, Al 독성, 고혈압)
-* GI 증상(예: feeding intolerance, 복통, 구역/구토)(위장관 운동 저하 및 요독증, 전해질 불균형, 산도 이상, 중독 물질 누적, 체액 과부하)
-* 고혈압, 부종, 호흡 곤란(volume overload, renin 과다 생성)
-* 고지혈증(plasma lipoprotein lipase 활성 감소)
-* 심낭염, 심근병증(요독증, 고혈압, fluid overload)
-* 요독성 입 냄새(uremic fetor), 쇠맛, 가려움(요독증)
+* nitrogen 대사 산물 축적 (GFR↓)
+* acidosis (ammonia 합성 감소, bicarbonate 재흡수 장애, acid 순 배설 감소)
+* Na 저류 (renin 과다 생성, 핍뇨) 또는 Na 소모 (Na diuresis, tubular damage)
+* 소변 농축 결손, 배뇨 횟수 변화 (핍뇨 or 다뇨), 야뇨, 혈뇨 (solute diuresis, tubular damage)
+* hyperkalemia (GFR 감소, 대사성 산증, K 과다 섭취, hyporeninemic hypoaldosteronism)
+* 신성 골형성장애 (25(OH)D 생성 장애, hyperphosphatemia, hypocalcemia, 2ndary hyperparathyroidism)
+* 쇠약 (열량 섭취 부족, renal osteodystrophy, 대사성 산증, 빈혈, 성장호르몬 저항성)
+* 빈혈 (erythropoietin 생성 감소, 철 결핍, 엽산 결핍, Vit B12 결핍, 적혈구 생존률 감소)
+* 출혈 경향, 점상 출혈 (혈소판 기능 결함)
+* 감염 (granulocyte 기능 결함, 세포 면역 기능 장애, 투석 카테터 유치)
+* 신경학적 증상 (예: 피로, 집중력/기억력 저하, 두통, 졸림, 발작, 말초신경병증, asterixis, claudication, restless legs)(요독증, Al 독성, 고혈압)
+* GI 증상 (예: feeding intolerance, 복통, 구역/구토)(위장관 운동 저하 및 요독증, 전해질 불균형, 산도 이상, 중독 물질 누적, 체액 과부하)
+* 고혈압, 부종, 호흡 곤란 (volume overload, renin 과다 생성)
+* 고지혈증 (plasma lipoprotein lipase 활성 감소)
+* 심낭염, 심근병증 (요독증, 고혈압, fluid overload)
+* 요독성 입 냄새 (uremic fetor), 쇠맛, 가려움 (요독증)
 * 당 불내성 및 인슐린 저항성
 * 우울, 불안, 스트레스
 
-✽Stage 1\~3에서는 뚜렷한 증상 없이 비특이적이거나 경미한 소견(예: 미세 알부민뇨, 경도의 혈압 상승)만 있는 경우가 많으며, 위 증상들은 대개 stage 4\~5에서 뚜렷해짐 - 선별 검사 없이는 진행 후에야 발견되는 경우가 많음
+✽ Stage 1\~3에서는 뚜렷한 증상 없이 비특이적이거나 경미한 소견(예: A2 수준의 알부민뇨(중등도 증가), 경도의 혈압 상승)만 있는 경우가 많으며, 위 증상들은 대개 stage 4\~5에서 뚜렷해짐 - 선별 검사 없이는 진행 후에야 발견되는 경우가 많음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 수일\~수주 내 급격한 s-Cr 상승 또는 eGFR 감소 (→ 급성 신손상 의심, 만성 경과와 감별 필요)
+* 수일\~수주 내 급격한 s-Cr 상승 또는 eGFR 감소 → 급성 신손상
 * 중증 고칼륨혈증(K ≥6.5 mEq/L) 또는 심전도 이상(peaked T wave, widened QRS 등) 동반 고칼륨혈증
 * 체액 과다에 의한 급성 폐부종/호흡 곤란
-* 요독성 뇌증(의식 변화, 발작) 또는 요독성 심낭염 의심
-* 중증 대사성 산증
+* 의식 변화, 발작 → 요독성 뇌증
+* 흉막성 흉통(누우면 악화, 앉아서 앞으로 숙이면 완화) 또는 심낭 마찰음 → 요독성 심낭염
+* Kussmaul 호흡(깊고 빠른 호흡) 또는 원인 불명의 심한 무기력·구역 → 중증 대사성 산증
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* Stage 4, 5 신규 발견(eGFR ＜30)
-* 육안 혈뇨
+* Stage 4, 5 신규 발견 (eGFR ＜30)
+* 육안적 혈뇨
 * 단백뇨 ＞1 g/24시간 또는 임의뇨 Prot/Cr ratio ＞1
 * 약물 병용 요법에도 조절되지 않는 불응성 고혈압
-* 급격한 사구체여과율 감소(예: 이전 검사 대비 단기간 내 뚜렷한 저하 추세)
-* 전신 질환 또는 유전 질환이 의심되는 소견 동반(예: SLE, ANCA 관련 혈관염 시사 소견)
-* 갑자기 발생한 신증후군(nephrotic syndrome, 심한 단백뇨 + 저알부민혈증 + 부종)
+* 급격한 사구체여과율 감소 (예: 이전 검사 대비 단기간 내 뚜렷한 저하 추세)
+* 전신 질환 또는 유전 질환이 의심되는 소견 동반 (예: SLE, ANCA 관련 혈관염 시사 소견)
+* 갑자기 발생한 신증후군 (nephrotic syndrome, 심한 단백뇨 + 저알부민혈증 + 부종)
 * 산-염기 대사 및 전해질 이상
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * Stage 3 중 치료되지 않는 빈혈(Hb ＜11 g/㎗) 지속
-* Vit D 치료에도 지속되는 이차성 부갑상선기능항진증(iPTH ＞70 pg/㎖)
-* 현미경적 혈뇨 환자에서 콩팥 기능 저하(eGFR ＜60) 또는 단백뇨(＞0.5 g/d) 동반
+* Vit D 치료에도 지속되는 이차성 부갑상선기능항진증 (iPTH ＞70 pg/㎖)
+* 현미경적 혈뇨 환자에서 콩팥 기능 저하 (eGFR ＜60) 또는 단백뇨 (＞0.5 g/d) 동반
 
-✽신장 전문의 진료 이후 치료 계획이 수립된 환자는 1차 의료기관에서 정기적인 추적을 담당할 수 있음
+✽ 신장 전문의 진료 이후 치료 계획이 수립된 환자는 1차 의료기관에서 정기적인 추적을 담당할 수 있음
 
-✽정량적 위험 예측 도구인 **KFRE(Kidney Failure Risk Equation)** - 연령, 성별, eGFR, uACR로 산출 - 를 함께 활용하면 도움이 됨: 5년 신부전 위험도 3\~5% 이상을 위 기준과 함께 신장내과 의뢰 여부 판단에 참고할 수 있음(KDIGO 2024). Stage 3 이상에서 사용 가능하며, eGFR ＞60인 경우에는 적용하지 않음
+✽ 정량적 위험 예측 도구인 KFRE([Kidney Failure Risk Equation](https://www.mdcalc.com/calc/10045/kidney-failure-risk-calculator)) - 연령, 성별, eGFR, uACR로 산출 - 를 함께 활용하면 도움이 됨: 5년 신부전 위험도 3\~5% 이상을 위 기준과 함께 신장내과 의뢰 여부 판단에 참고할 수 있음\[KDIGO 2024]. Stage 3 이상에서 사용 가능하며, eGFR ＞60인 경우에는 적용하지 않음
 
 ## <mark style="color:green;">진단</mark>
 
 * 선별 검사 : 위험 인자가 있는 경우 혈압, eGFR, 소변 검사 시행
-  * 소변 검사 : 임의뇨 Alb/Cr ratio, 소변 침전물, 소변 시험지봉을 이용한 RBC 및 WBC 검사; u-Alb/Cr ratio 측정이 용이하지 않은 경우 u-Prot/Cr ratio 측정으로 대치
+  * 소변 검사 : 임의뇨 Alb/Cr ratio(필요시u-Prot/Cr ratio로 대치), 소변 침전물, 소변 시험지봉을 이용한 RBC 및 WBC 검사
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
-* BUN, Cr; eGFR 산출(CKD-EPI 공식 권장)
-* 소변 검사 : U/A(시험지봉), u-ACR을 우선 사용하며 다량의 단백뇨에서는 u-PCR을 함께 사용할 수 있음, 소변 침사 검사
+* BUN, Cr; eGFR 산출(CKD-EPI 공식 권장) (☞ [사구체여과율](109_.md#gfr))
+* 소변 검사 : U/A(시험지봉), u-ACR(다량의 단백뇨에서는 u-PCR을 병용할 수 있음), 소변 침사 검사
 * 혈청 전해질 : Na, K(↑), Cl, bicarbonate(↓), Ca(↓), P(↑), Glc(↑), uric acid(↑)
 * stage 3a 이상에서 Ca, P, PTH, ALP, 25(OH)D 검사 고려
 * 선택적 검사 : s-/u-immunoelectrophoresis(multiple myeloma), s-free light chains(monoclonal gammopathy), antinuclear Ab(SLE)
 
 #### <mark style="color:$primary;">CKD 표식자로서의 단백뇨 및 소변 침사 검사 이상의 해석</mark>
 
-<table data-header-hidden data-search="false"><thead><tr><th width="72"></th><th width="74"></th><th width="68"></th><th width="78"></th><th width="170"></th><th></th></tr></thead><tbody><tr><td><strong>RBC</strong></td><td><strong>RBC 원주</strong></td><td><strong>WBC</strong></td><td><strong>WBC 원주</strong></td><td><strong>임의뇨 Prot/Cr ratio</strong></td><td><strong>관련 신장병</strong></td></tr><tr><td>+(dysmorphic)</td><td>+</td><td></td><td></td><td></td><td>증식성 사구체신염 또는 유전성 신장병</td></tr><tr><td>+(dysmorphic)</td><td>-</td><td></td><td></td><td></td><td>유전성 신장병 또는 미세혈관병</td></tr><tr><td>±</td><td>-</td><td>+</td><td>+</td><td>200\~1,000 ㎎/g</td><td>세뇨관간질염</td></tr><tr><td>+(isomorphic)</td><td>-</td><td></td><td></td><td>＜200 ㎎/g</td><td>신장을 제외한 요로계 병변</td></tr><tr><td>-</td><td>-</td><td></td><td></td><td>＞1,000 ㎎/g</td><td>당뇨병콩팥병증, 비염증성 사구체 질환</td></tr><tr><td>-</td><td>-</td><td></td><td></td><td>200\~1,000 ㎎/g</td><td>비염증성 사구체 질환, 비염증성 세뇨관간질성 질환, 중간 크기 혈관을 침범하는 혈관염</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th width="92.00006103515625"></th><th width="66.3809814453125"></th><th width="66.09527587890625"></th><th width="65.6190185546875"></th><th width="83.333251953125"></th><th width="324.07965087890625"></th></tr></thead><tbody><tr><td><strong>RBC</strong></td><td><strong>RBC 원주</strong></td><td><strong>WBC</strong></td><td><strong>WBC 원주</strong></td><td><strong>uPCR*</strong></td><td><strong>관련 신장병</strong></td></tr><tr><td>+ (dys-morphic)</td><td>+</td><td></td><td></td><td></td><td>증식성 사구체신염 또는 유전성 신장병</td></tr><tr><td>+ (dys-morphic)</td><td>-</td><td></td><td></td><td></td><td>유전성 신장병 또는 미세혈관병</td></tr><tr><td>±</td><td>-</td><td>+</td><td>+</td><td>200~<br>1,000 </td><td>세뇨관간질염</td></tr><tr><td>+ (iso-morphic)</td><td>-</td><td></td><td></td><td>＜200</td><td>신장을 제외한 요로계 병변</td></tr><tr><td>-</td><td>-</td><td></td><td></td><td>＞1,000</td><td>당뇨병콩팥병증, 비염증성 사구체 질환</td></tr><tr><td>-</td><td>-</td><td></td><td></td><td>200~<br>1,000</td><td>비염증성 사구체 질환, 비염증성 세뇨관간질성 질환, 중간 크기 혈관을 침범하는 혈관염</td></tr></tbody></table>
+
+_\*임의뇨 Prot/Cr ratio (㎎/g)_
 
 ### <mark style="color:orange;">기타 검사</mark>
 
@@ -106,34 +110,35 @@
 * 골밀도 검사 : 골다공증 위험이 있는 stage 3 이상 환자에서 BMD 고려
 * 조직 검사 : 원인 미상의 급성 신 질환 시 고려
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 새로 발견된 신기능 저하는 만성(CKD) 여부를 확인하는 것이 우선 - 과거 검사 기록이 없다면 아래 소견으로 감별
 
-<table><thead><tr><th width="130">감별 포인트</th><th width="260">만성콩팥병(CKD) 시사</th><th>급성 신손상(AKI) 시사</th></tr></thead><tbody><tr><td>과거 검사 기록</td><td>3개월 이전부터 s-Cr 상승/eGFR 저하 확인됨</td><td>수일\~수주 전까지 정상 또는 기저치 확인됨</td></tr><tr><td>신장 초음파 크기</td><td>양측 신장 위축(다낭콩팥병 등 예외 있음)</td><td>정상 또는 증대된 크기</td></tr><tr><td>빈혈</td><td>정상적혈구성 빈혈 동반 흔함</td><td>초기에는 드물지만, 장기화되면 CKD와 유사하게 나타날 수 있음</td></tr><tr><td>이차성 부갑상선기능항진증</td><td>Ca↓, P↑, PTH↑ 동반 흔함</td><td>초기에는 드물지만, 장기화되면 CKD와 유사하게 나타날 수 있음</td></tr><tr><td>진행 속도</td><td>수개월\~수년에 걸친 완만한 저하</td><td>수시간\~수일의 급격한 저하</td></tr></tbody></table>
+<table><thead><tr><th width="140.4761962890625">감별 포인트</th><th width="295.2381591796875">만성콩팥병(CKD) 시사</th><th>급성 신손상(AKI) 시사</th></tr></thead><tbody><tr><td>과거 검사 기록</td><td>3개월 이전부터 s-Cr 상승/eGFR 저하 확인됨</td><td>수일~수주 전까지 정상 또는 기저치 확인됨</td></tr><tr><td>신장 초음파 크기</td><td>양측 신장 위축(다낭콩팥병 등 예외 있음)</td><td>정상 또는 증대된 크기</td></tr><tr><td>빈혈</td><td>정상적혈구성 빈혈 동반 흔함</td><td>초기에는 드물지만, 장기화되면 CKD와 유사하게 나타날 수 있음</td></tr><tr><td>이차성 부갑상선기능항진증</td><td>Ca↓, P↑, PTH↑ 동반 흔함</td><td>초기에는 드물지만, 장기화되면 CKD와 유사하게 나타날 수 있음</td></tr><tr><td>진행 속도</td><td>수개월~수년에 걸친 완만한 저하</td><td>수시간~수일의 급격한 저하</td></tr></tbody></table>
 
-* 감별이 불명확하거나 원인 미상의 급격한 악화 시 → 신장내과 의뢰 (☞ Red Flags 참조)
+* 감별이 불명확하거나 원인 미상의 급격한 악화 시 → 신장내과 의뢰
 
 ### <mark style="color:orange;">추적 관찰</mark>
 
 * 모든 CKD 환자에서 혈압, eGFR, 단백뇨 추적 관찰
 * Stage 1, 2에서는 CKD 원인 질환 조절 및 악화 요인 감시; stage 3 이후부터는 빈혈, 골대사(부갑상선호르몬, 칼슘, 인), 전해질 이상, 이상지질혈증 및 심혈관계 질환 등 합병증 관찰
-* 아래 표는 G 병기(eGFR) 기준이며, KDIGO 2024의 CGA 분류에서는 **A 병기(알부민뇨)도 함께 고려** - 같은 G 병기라도 알부민뇨가 많을수록(A2, A3) 더 자주 추적함(☞ 위 예후 heat map 참조)
+* 아래 표는 G 병기(eGFR) 기준이며, KDIGO 2024의 CGA 분류에서는 A 병기(알부민뇨)도 함께 고려 - 같은 G 병기라도 알부민뇨가 많을수록(A2, A3) 더 자주 추적함(☞ 위 예후 heat map 참조)
 
 #### <mark style="color:$primary;">CKD 단계 및 eGFR 측정 간격</mark>
 
-<table><thead><tr><th width="70">Stage</th><th width="110">eGFR</th><th width="140">설명</th><th width="220">치료 계획</th><th>측정 간격</th></tr></thead><tbody><tr><td>1</td><td>≥90</td><td>정상 또는 높음</td><td>동반 질환 치료, 심혈관 질환 및 위험 인자 관리</td><td>매년</td></tr><tr><td>2</td><td>60\~89</td><td>경도 감소</td><td>진행 정도 검사</td><td>매년</td></tr><tr><td>3a</td><td>45\~59</td><td>경도\~중등도 감소</td><td>합병증 평가 및 치료</td><td>3\~6개월</td></tr><tr><td>3b</td><td>30\~44</td><td>중등도\~고도 감소</td><td>합병증 평가 및 치료</td><td>3\~6개월</td></tr><tr><td>4</td><td>15\~29</td><td>고도 감소</td><td>신장 대체 요법 준비</td><td>1\~3개월</td></tr><tr><td>5</td><td>＜15 (or 투석)</td><td>신부전</td><td>신장 대체 요법(요독 증상 발생 시)</td><td>6주</td></tr></tbody></table>
+<table><thead><tr><th width="70">Stage</th><th width="123.33331298828125">eGFR</th><th width="146.66668701171875">설명</th><th width="253.3333740234375">치료 계획</th><th>측정 간격</th></tr></thead><tbody><tr><td>1</td><td>≥90</td><td>정상 또는 높음</td><td>동반 질환 치료, 심혈관 질환 및 위험 인자 관리</td><td>매년</td></tr><tr><td>2</td><td>60~89</td><td>경도 감소</td><td>진행 정도 검사</td><td>매년</td></tr><tr><td>3a</td><td>45~59</td><td>경도~중등도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>3b</td><td>30~44</td><td>중등도~고도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>4</td><td>15~29</td><td>고도 감소</td><td>신장 대체 요법 준비</td><td>1~3개월</td></tr><tr><td>5</td><td>＜15 (or 투석)</td><td>신부전</td><td>신장 대체 요법(요독 증상 발생 시)</td><td>6주</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. KDOQI Guidelines, 2017; 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
 #### <mark style="color:$primary;">CKD 단계에 따른 검사 종목별 추적 관찰 권고 기간</mark>
 
-<table><thead><tr><th width="90">CKD 단계</th><th width="130">Cr, Hb, 지질¹⁾</th><th width="170">임의뇨 Prot/Cr ratio²⁾</th><th width="110">iPTH</th><th>칼슘, 인</th></tr></thead><tbody><tr><td>stage 1, 2</td><td>매년</td><td>매년</td><td>-</td><td>-</td></tr><tr><td>stage 3</td><td>3\~6개월</td><td>3\~6개월</td><td>12개월</td><td>6\~12개월</td></tr><tr><td>stage 4</td><td>1\~3개월</td><td>1\~3개월</td><td>6\~12개월</td><td>3\~6개월</td></tr></tbody></table>
+<table><thead><tr><th width="104.2857666015625">CKD 단계</th><th width="130">Cr, Hb, 지질¹⁾</th><th width="127.142822265625">uPCR²⁾</th><th width="110">iPTH</th><th>칼슘, 인</th></tr></thead><tbody><tr><td>stage 1, 2</td><td>매년</td><td>매년</td><td>-</td><td>-</td></tr><tr><td>stage 3</td><td>3~6개월</td><td>3~6개월</td><td>12개월</td><td>6~12개월</td></tr><tr><td>stage 4</td><td>1~3개월</td><td>1~3개월</td><td>6~12개월</td><td>3~6개월</td></tr></tbody></table>
 
-* 모든 CKD 환자는 내원 시마다 **혈압 측정**
-* 추적 관찰 기간은 환자의 **동반 질환**이나 **개별 상태**에 따라 단축될 수 있음
-* ¹⁾ **지질 검사 항목**: 총콜레스테롤, LDL-C, HDL-C, 중성지방
-* ²⁾ **단백뇨 vs 알부민뇨**: 알부민뇨가 예후와 더 밀접하지만, 비용 문제로 단백뇨 측정이 더 흔함
+_¹⁾ 지질 검사 항목: 총콜레스테롤, LDL-C, HDL-C, 중성지방_\
+_²⁾ 단백뇨 vs 알부민뇨: 알부민뇨가 예후와 더 밀접하지만, 비용 문제로 단백뇨 측정이 더 흔함_
+
+* 모든 CKD 환자는 내원 시마다 혈압 측정
+* 추적 관찰 기간은 환자의 동반 질환이나 개별 상태에 따라 단축될 수 있음
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022. 표 3.</mark></em></p>
 
