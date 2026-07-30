@@ -236,36 +236,36 @@ style F fill:#ffcdd2,stroke:#c62828
 * 목표 혈압 : 내약 시 표준화된 진료실 혈압 측정 기준 수축기 혈압 ＜120 ㎜Hg 목표; 노쇠, 낙상 위험, 기대여명이 짧은 경우 등은 완화된 목표 적용 \[KDIGO]
   * "표준화된 진료실 혈압 측정"이란 환자가 진료실에서 5분 이상 안정을 취한 뒤 자동혈압계로 측정한 값을 의미하며, 일상 진료에서 흔히 재는 수동 혈압(전통적 기준 130/80 ㎜Hg에 해당)보다 낮게 측정되는 경향이 있어 단순 비교 시 혼란이 있을 수 있음 (☞ [혈압측정법](../225_/095_-hypertension.md#undefined-8))
   * 기존 국내 지침의 목표 단백뇨(-) 시＜140/90 ㎜Hg, 단백뇨(+) 시＜130/80 ㎜Hg에서 KDIGO 2024 개정으로 강화되었으므로, 개별 환자의 내약성·노쇠도를 함께 고려하여 적용
-* ACEI or ARB : 1차 선택제; 항고혈압, 단백뇨 감소, 콩팥 기능 보호 효과; \[KDIGO] 비당뇨병성 CKD의 A3(중증 알부민뇨), 당뇨병성 CKD의 A2 이상(중등도 알부민뇨 이상)에서 ACEI or ARB 권고
+* [ACEI or ARB](../225_/095_-hypertension.md#renin-angiotensin) : 1차 선택제; 항고혈압, 단백뇨 감소, 콩팥 기능 보호 효과; \[KDIGO] 비당뇨병성 CKD의 A3(중증 알부민뇨), 당뇨병성 CKD의 A2 이상(중등도 알부민뇨 이상)에서 ACEI or ARB 권고
   * 저용량으로 시작, 단계적 증량
   * 고칼륨혈증 주의; 급성 신 손상, 임신 시 삼가
-* 이뇨제 : 필요시 ACEI 또는 ARB에 추가; 단백뇨(-) 및 당뇨(-) CKD 부종에 대하여 이뇨제 단독 투여 고려
+* [이뇨제](../225_/095_-hypertension.md#diuretics) : 필요시 ACEI 또는 ARB에 추가; 단백뇨(-) 및 당뇨(-) CKD 부종에 대하여 이뇨제 단독 투여 고려
   * mineralocorticoid 차단제(예: spironolactone) : 단백뇨 감소에 유효
   * thiazide : eGFR ≥30 시 허용
   * loop diuretics : eGFR ＜30 시 권고
-* (non-DHP) CCB : 혈압이 조절되지 않는 경우, 지속적인 s-Cr 상승이 있는 경우 고려
+* (non-DHP) [CCB ](../225_/095_-hypertension.md#calcium-channel-blocker-ccb): 혈압이 조절되지 않는 경우, 지속적인 s-Cr 상승이 있는 경우 고려
 
 ### <mark style="color:orange;">SGLT2 억제제 - 병인과 무관한 신장 보호</mark>
 
-* dapagliflozin <mark style="color:blue;">\[다파엔]</mark>, empagliflozin <mark style="color:blue;">\[자디앙]</mark> : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과
+* dapagliflozin, empagliflozin : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과 (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
 * KDIGO 2024는 개별 약제보다 계열 효과(class effect)로 접근할 것을 권고
-* (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031)) (보험기준 : ①ACEI 또는 ARB를 최대 내약 용량으로 4주 이상 안정적으로 투여 중, ②eGFR 25\~75 ㎖/분/1.73㎡, ③요 dipstick ≥1+ 또는 u-ACR ≥200 ㎎/g 중 하나를 만족하는 비당뇨성 만성 신장병 환자; 2025.7.1. 고시 기준 - 정확한 급여 기준은 HIRA 고시를 반드시 확인할 것(기준 변경 가능))
-* eGFR ＜20\~25 미만에서 \*\*신규 시작(initiation)\*\*은 일반적으로 권장되지 않음(제품별 허가사항 확인). 다만 **이미 투여 중인 경우**, 내약성이 양호하고 투석·이식(KRT)을 시작하기 전까지는 eGFR이 20 미만으로 떨어지더라도 중단 없이 **지속(continuation)** 투여를 권장(KDIGO) - 시작 기준과 지속 기준을 구분할 것
+* eGFR ＜20\~25 미만에서 신규 시작(initiation)은 일반적으로 권장되지 않음(제품별 허가사항 확인). 단, 이미 투여 중인 경우, 내약성이 양호하고 투석·이식(KRT)을 시작하기 전까지는 eGFR이 20 미만으로 떨어지더라도 중단 없이 지속(continuation) 투여를 권장 \[KDIGO]&#x20;
 * 부작용 : 생식기 진균 감염, 드물게 정상혈당 당뇨병성 케톤산증(euglycemic DKA) - 급성 질환·수술 전 sick-day rule 교육 필요
+* 급여 기준 : [dapagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031)  <mark style="color:blue;">\[다파엔]</mark>, [empagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251024\&sno=1\&mtgMtrRegSno=0002)  <mark style="color:blue;">\[자디앙]</mark>
 
 ### <mark style="color:orange;">비스테로이드성 MRA - 당뇨병성 신장병</mark>
 
-* finerenone <mark style="color:blue;">\[케렌디아]</mark> : 제2형 당뇨병을 동반한 성인 CKD 환자에서 ACEI/ARB 표준 치료에 추가 시 신장 및 심혈관 복합 사건 위험 감소(FIDELIO-DKD, FIGARO-DKD)
-* 용량 : 초기 용량은 eGFR에 따라 결정(제품 허가사항 참조); 고칼륨혈증 및 eGFR 저하 여부를 정기 모니터링
-* (☞ 보험기준 : 제2형 당뇨병 동반 성인 CKD 환자로 ACEI 또는 ARB 표준 치료 병용 시 급여 인정, 2024.2.1. 고시 기준 - 정확한 급여 기준은 HIRA 고시 확인)
-* SGLT2 억제제와 작용 기전이 달라(항염증·항섬유화) 병용 가능; CONFIDENCE trial(2025)에서 SGLT2 억제제와의 동시 병용이 각 단독 요법보다 알부민뇨를 더 크게 감소시켰고, 병용군의 고칼륨혈증 발생률이 finerenone 단독군보다 오히려 낮게 보고됨 - 다만 K 및 eGFR은 병용 시에도 정기 모니터링 필요
+* finerenone : 제2형 당뇨병을 동반한 성인 CKD 환자에서 ACEI/ARB 표준 치료에 추가 시 신장 및 심혈관 복합 사건 위험 감소 <mark style="color:blue;">\[케렌디아]</mark>
+* 용량 : 초기 용량은 eGFR에 따라 결정; 고칼륨혈증 및 eGFR 저하 여부를 정기 모니터링
+* SGLT2 억제제와 작용 기전이 달라(항염증·항섬유화) 병용 가능; CONFIDENCE trial(2025)에서 SGLT2 억제제와의 동시 병용이 각 단독 요법보다 알부민뇨를 더 크게 감소시켰고, 병용군의 고칼륨혈증 발생률이 finerenone 단독군보다 낮게 보고됨 - 다만 K 및 eGFR은 병용 시에도 정기 모니터링 필요
+* [급여 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240201\&sno=4\&mtgMtrRegSno=0002) : 만성콩팥병 환자에서 ACEI/ARB을 투여 중이며, ① uACR ＞300 ㎎/g 또는 요 시험지봉 검사 1+ 이상, ② eGFR 25\~＜75 mL/min/1.73㎡ 조건을 모두 만족할 때 병용 급여
 
 ### <mark style="color:orange;">혈당 관리</mark>
 
-* 공복 혈당 90\~130 ㎎/㎗, 당화혈색소 ＜7% 유지(개별화 가능)
-* metformin : 현재는 eGFR 기반으로 용량을 조절하며, 혈청 creatinine 단독 기준은 사용하지 않음(예: eGFR 30\~45에서 감량, eGFR ＜30에서 중단 고려; 개별 제품 허가사항 확인)
+* 공복 혈당 90\~130 ㎎/㎗, 당화혈색소 ＜7% 유지 (개별화 가능)
+* [metformin](../226_/101_.md#metformin-mtf) : 현재는 eGFR 기반으로 용량을 조절하며, 혈청 creatinine 단독 기준은 사용하지 않음 (예: eGFR 30\~45에서 감량, eGFR ＜30에서 중단 고려)
 * SGLT2 억제제, GLP-1 수용체 작용제는 혈당 조절과 별개로 신장·심혈관 보호 효과가 있어 당뇨병 동반 CKD에서 우선 고려되는 계열임
-* GLP-1 수용체 작용제(특히 semaglutide)는 단순 혈당 조절제를 넘어, metformin + SGLT2 억제제 투여 후에도 목표 혈당에 도달하지 못하거나 알부민뇨가 지속될 때 심혈관·신장 보호를 목적으로 추가할 수 있는 약제로 위상이 격상됨 - 당뇨병 동반 CKD 환자에서 신장 및 심혈관 복합 사건 위험 감소 확인(FLOW trial, 2024)
+* [GLP-1 수용체 작용제](../226_/101_.md#glp-1-ra-glucagon-like-peptide-1-receptor-agonist)(특히 semaglutide)는 단순 혈당 조절제를 넘어, metformin + SGLT2 억제제 투여 후에도 목표 혈당에 도달하지 못하거나 알부민뇨가 지속될 때 심혈관·신장 보호를 목적으로 추가할 수 있는 약제로 위상이 격상됨 - 당뇨병 동반 CKD 환자에서 신장 및 심혈관 복합 사건 위험 감소
 
 ### <mark style="color:orange;">고칼륨혈증 관리</mark>
 
