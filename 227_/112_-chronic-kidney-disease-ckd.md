@@ -18,7 +18,7 @@
 
 <p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD</mark></em></p>
 
-_✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심혈관 질환 위험도 및 사망 위험도까지 함께 반영한 것임 \[KDIGO 2024] - 색이 짙어질수록 신장·심혈관 예후 모두가 나쁨을 의미_
+_✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심혈관 질환 위험도 및 사망 위험도까지 함께 반영한 것임 \[KDIGO] - 색이 짙어질수록 신장·심혈관 예후 모두가 나쁨을 의미_
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -82,7 +82,7 @@ _✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심�
 
 ✽ 신장 전문의 진료 이후 치료 계획이 수립된 환자는 1차 의료기관에서 정기적인 추적을 담당할 수 있음
 
-✽ 정량적 위험 예측 도구인 KFRE([Kidney Failure Risk Equation](https://www.mdcalc.com/calc/10045/kidney-failure-risk-calculator)) - 연령, 성별, eGFR, uACR로 산출 - 를 함께 활용하면 도움이 됨: 5년 신부전 위험도 3\~5% 이상을 위 기준과 함께 신장내과 의뢰 여부 판단에 참고할 수 있음\[KDIGO 2024]. Stage 3 이상에서 사용 가능하며, eGFR ＞60인 경우에는 적용하지 않음
+✽ 정량적 위험 예측 도구인 KFRE([Kidney Failure Risk Equation](https://www.mdcalc.com/calc/10045/kidney-failure-risk-calculator)) - 연령, 성별, eGFR, uACR로 산출 - 를 함께 활용하면 도움이 됨: 5년 신부전 위험도 3\~5% 이상을 위 기준과 함께 신장내과 의뢰 여부 판단에 참고할 수 있음\[KDIGO]. Stage 3 이상에서 사용 가능하며, eGFR ＞60인 경우에는 적용하지 않음
 
 ## <mark style="color:green;">진단</mark>
 
@@ -122,13 +122,13 @@ _\*임의뇨 Prot/Cr ratio (㎎/g)_
 
 * 모든 CKD 환자에서 혈압, eGFR, 단백뇨 추적 관찰
 * Stage 1, 2에서는 CKD 원인 질환 조절 및 악화 요인 감시; stage 3 이후부터는 빈혈, 골대사(부갑상선호르몬, 칼슘, 인), 전해질 이상, 이상지질혈증 및 심혈관계 질환 등 합병증 관찰
-* 아래 표는 G 병기(eGFR) 기준이며, KDIGO 2024의 CGA 분류에서는 A 병기(알부민뇨)도 함께 고려 - 같은 G 병기라도 알부민뇨가 많을수록(A2, A3) 더 자주 추적함(☞ 위 예후 heat map 참조)
+* 아래 표는 G 병기(eGFR) 기준이며, KDIGO의 CGA 분류에서는 A 병기(알부민뇨)도 함께 고려 - 같은 G 병기라도 알부민뇨가 많을수록(A2, A3) 더 자주 추적함(☞ 위 예후 heat map 참조)
 
 #### <mark style="color:$primary;">CKD 단계 및 eGFR 측정 간격</mark>
 
 <table><thead><tr><th width="70">Stage</th><th width="123.33331298828125">eGFR</th><th width="146.66668701171875">설명</th><th width="253.3333740234375">치료 계획</th><th>측정 간격</th></tr></thead><tbody><tr><td>1</td><td>≥90</td><td>정상 또는 높음</td><td>동반 질환 치료, 심혈관 질환 및 위험 인자 관리</td><td>매년</td></tr><tr><td>2</td><td>60~89</td><td>경도 감소</td><td>진행 정도 검사</td><td>매년</td></tr><tr><td>3a</td><td>45~59</td><td>경도~중등도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>3b</td><td>30~44</td><td>중등도~고도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>4</td><td>15~29</td><td>고도 감소</td><td>신장 대체 요법 준비</td><td>1~3개월</td></tr><tr><td>5</td><td>＜15 (or 투석)</td><td>신부전</td><td>신장 대체 요법(요독 증상 발생 시)</td><td>6주</td></tr></tbody></table>
 
-<p align="center"><em><mark style="color:$info;">Ref. KDOQI Guidelines, 2017; 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KDOQI Guidelines, 2017;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
 #### <mark style="color:$primary;">CKD 단계에 따른 검사 종목별 추적 관찰 권고 기간</mark>
 
@@ -146,24 +146,29 @@ _²⁾ 단백뇨 vs 알부민뇨: 알부민뇨가 예후와 더 밀접하지만,
 
 ```mermaid
 graph TD
-    A([eGFR 저하 또는 알부민뇨 확인]) --> B{3개월 이상 지속 확인됨?}
+    A([eGFR 저하 또는 <br/>알부민뇨 확인]) --> B[3개월 이상 지속 확인됨?]
     B -- 아니오/불확실 --> C[급성 신손상 평가로 전환]
     B -- 예 --> D[CKD 확진: G/A 병기 분류]
-    D --> E{Red Flag 해당?}
+    D --> E[Red Flag 해당?]
     E -- 예 --> F[응급 또는 조기 신장내과 의뢰]
-    E -- 아니오 --> G{Stage 4-5 또는 A3 고위험군?}
+    E -- 아니오 --> G[Stage 4-5 또는 A3 고위험군?]
     G -- 예 --> F
     G -- 아니오 --> H[1차 의료 관리: 원인 질환·혈압·혈당·단백뇨 조절]
-    H --> I{3-6개월 추적 후 진행 확인?}
+    H --> I[3-6개월 추적 후 진행 확인?]
     I -- 진행 --> F
     I -- 안정 --> H
 
-    style F fill:#f96,stroke:#e65100,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,E,G,I yellow
+style H fill:#e3f2ff,stroke:#2196f3
+style C fill:#fde8f0,stroke:#e91e8c
+style F fill:#ffcdd2,stroke:#c62828
 ```
 
 <p align="center"><strong>CKD 병기 분류 및 신장내과 의뢰 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline; 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
 ***
 
@@ -171,30 +176,34 @@ graph TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 관련 인자(특히 단백뇨) 및 동반 질환(특히 당뇨병, 고혈압) 관리가 핵심
-* RAAS 차단제 + SGLT2 억제제(± 비스테로이드성 MRA)의 **다각적 병용 요법**이 현재의 표준(KDIGO 2024) - 신장 보호 효과가 각각 상가적으로 작용
-* 약물 사용 주의 : 신장 독성이 입증되지 않은 약제라도 꼭 필요하지 않은 약물(특히 한약, 생약제)은 삼가
+* 관련 인자 (특히 단백뇨) 및 동반 질환 (특히 당뇨병, 고혈압) 관리가 핵심
+* RAAS 차단제 + SGLT2 억제제 (± 비스테로이드성 MRA)의 다각적 병용 요법이 현재의 표준\[KDIGO] - 신장 보호 효과가 각각 상가적으로 작용
+* 약물 사용 주의 : 불필요한 약물, 특히 한약·생약제는 신장 독성이 명확히 입증되지 않았더라도 삼가는 것이 안전함
 
-{% hint style="info" %}
-**단계별 접근**\
-① 원인 질환 및 위험 인자 조절 → ② RAAS 차단제로 혈압·단백뇨 관리 → ③ SGLT2 억제제 병용 고려(RAAS 차단제 이후 순차 추가가 아니라, 적응증을 만족하면 초기부터 병용을 적극 고려 - KDIGO 2024) → ④ (당뇨병성 CKD의 경우) 비스테로이드성 MRA 추가(SGLT2 억제제와 동시 병용도 가능) → ⑤ 합병증(빈혈, 골대사이상, 고칼륨혈증, 요독증)별 관리 → ⑥ Stage 4\~5에서 신장 대체 요법 준비
-{% endhint %}
+#### <mark style="color:$primary;">단계별 접근</mark>
+
+1. 원인 질환 및 위험 인자 조절
+2. RAAS 차단제로 혈압·단백뇨 관리
+3. SGLT2 억제제 병용 고려(RAAS 차단제 이후 순차 추가가 아니라, 적응증을 만족하면 초기부터 병용을 적극 고려
+4. (당뇨병성 CKD의 경우) 비스테로이드성 MRA 추가 (SGLT2 억제제와 동시 병용도 가능)
+5. 합병증 (빈혈, 골대사이상, 고칼륨혈증, 요독증) 관리
+6. Stage 4\~5에서 신장 대체 요법 준비
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-1. 싱겁게 먹고 단백질 섭취를 줄인다.
-2. 칼륨이 많은 음식의 지나친 섭취를 피한다(고칼륨혈증 위험이 있는 경우에 한함).
-3. 콩팥의 상태에 따라 수분을 적절히 섭취한다.
-4. 금연하며 술은 하루에 한두 잔 이하로 줄인다.
-5. 적정 체중을 유지한다.
-6. 주 3일 이상, 30분\~1시간/일 정도 운동한다(유산소 운동과 저항성 운동 병행 - eGFR, Cr, 혈압 개선 효과 확인).
-7. 고혈압, 당뇨병을 적절히 조절한다.
-8. 정기적으로 소변 단백질과 혈액 크레아티닌을 검사한다.
-9. 약물은 꼭 필요한 약만, 콩팥 기능에 맞게 조절하여 복용한다.
+* 싱겁게 먹고 단백질 섭취를 줄인다.
+* 칼륨이 많은 음식의 지나친 섭취를 피한다(고칼륨혈증 위험이 있는 경우에 한함).
+* 콩팥의 상태에 따라 수분을 적절히 섭취한다.
+* 금연하며 술은 하루에 한두 잔 이하로 줄인다.
+* 적정 체중을 유지한다.
+* 주 3일 이상, 30분\~1시간/일 정도 운동한다 (유산소 운동과 저항성 운동 병행 - eGFR, Cr, 혈압 개선 효과 확인).
+* 고혈압, 당뇨병을 적절히 조절한다.
+* 정기적으로 소변 단백질과 혈액 크레아티닌을 검사한다.
+* 약물은 꼭 필요한 약만, 콩팥 기능에 맞게 조절하여 복용한다.
 
 ### <mark style="color:orange;">저염식 및 수분 관리</mark>
 
-* 저염식 : 금기가 아닌 한 Na ＜2 g/d(소금 5 g/d)로 섭취 제한
+* 저염식 : 금기가 아닌 한 Na ＜2 g/d (소금 5 g/d)로 섭취 제한
 * 수분 섭취 제한 : 부종, volume overload 시 시행
 
 ### <mark style="color:orange;">단백질 섭취</mark>
@@ -203,14 +212,13 @@ graph TD
 * 단백질 섭취 제한 : 0.8 g/㎏/d
   * CKD 초기에서의 단백질 섭취 제한 필요성은 논란
   * stage 3, 4 시 0.6\~0.8 g/㎏/d, stage 5 또는 투석 시 1.2 g/㎏/d 섭취
-* 단백질 섭취의 50% 이상을 식물성 단백질(과일, 야채, 견과류, 콩류, 씨앗 등)로 섭취 권고
-* ✽위 수치는 일반적 기준이며, 고령·영양실조 위험군에서는 개별 영양 상태에 따라 더 유연하게 조정해야 함(과도한 단백질 제한은 근감소·영양실조 위험을 높일 수 있음)
-
-✽당뇨병성신증 환자에서 초기부터 엄격한 단백질 제한은 필요치 않으나 많은 섭취(＞1.5 g/㎏/d)는 피함. 투석 환자나 진행된 당뇨병성 신증 환자는 영양실조 위험이 있으므로 더 높은 수준의 단백질 섭취가 필요할 수 있음
+* 단백질 섭취의 50% 이상을 식물성 단백질 (과일, 야채, 견과류, 콩류, 씨앗 등)로 섭취 권고
+* 위 수치는 일반적 기준이며, 고령·영양실조 위험군에서는 개별 영양 상태에 따라 더 유연하게 조정해야 함 (과도한 단백질 제한은 근감소·영양실조 위험을 높일 수 있음)
+* 당뇨병성신증 환자에서 초기부터 엄격한 단백질 제한은 필요치 않으나 많은 섭취 (＞1.5 g/㎏/d)는 피함. 투석 환자나 진행된 당뇨병성 신증 환자는 영양실조 위험이 있으므로 더 높은 수준의 단백질 섭취가 필요할 수 있음
 
 ### <mark style="color:orange;">칼륨 섭취 관리</mark>
 
-* 고칼륨혈증의 위험이 있는 경우에만 K 섭취 제한(무증상 CKD에서 일률적 제한은 불필요)
+* 고칼륨혈증의 위험이 있는 경우에만 K 섭취 제한 (무증상 CKD에서 일률적 제한은 불필요)
 
 #### <mark style="color:$primary;">칼륨이 많은 음식</mark>
 
@@ -225,21 +233,24 @@ graph TD
 
 ### <mark style="color:orange;">혈압 및 단백뇨 - RAAS 차단제</mark>
 
-* 목표 혈압(KDIGO 2024) : 내약 시 **표준화된 진료실 혈압 측정(standardized office BP measurement)** 기준 **수축기 혈압 ＜120 ㎜Hg** 목표; 노쇠, 낙상 위험, 기대여명이 짧은 경우 등은 완화된 목표 적용
-  * ✽"표준화된 진료실 혈압 측정"이란 환자가 진료실에서 5분 이상 안정을 취한 뒤 자동혈압계로 측정한 값을 의미하며, 일상 진료에서 흔히 재는 수동 혈압(전통적 기준 130/80 ㎜Hg에 해당)보다 낮게 측정되는 경향이 있어 단순 비교 시 혼란이 있을 수 있음
-  * ✽기존 국내 지침(대한신장학회 등)의 CKD 단백뇨(-) ＜140/90 ㎜Hg, 단백뇨(+) ＜130/80 ㎜Hg 목표에서 KDIGO 2024 개정으로 강화되었으므로, 개별 환자의 내약성·노쇠도를 함께 고려하여 적용
-* ACEI or ARB : 1차 선택제; 항고혈압, 단백뇨 감소, 콩팥 기능 보호 효과; 고칼륨혈증 주의. 저용량으로 시작, 단계적 증량; 급성 신 손상, 임신 시 삼가
-* 이뇨제 : 필요시 ACEI 또는 ARB에 추가; mineralocorticoid 차단제(예: spironolactone)가 단백뇨 감소에 유효; thiazide는 eGFR ≥30 시 허용, loop diuretics는 eGFR ＜30 시 권고
-* (non-DHP) CCB : 혈압 조절되지 않는 경우, 지속적인 s-Cr 상승이 있는 경우 고려
-* 단백뇨(-) 및 당뇨(-) CKD 환자의 부종에 대하여 이뇨제 단독 투여 고려
-* 비당뇨병성 CKD의 **A3(중증 알부민뇨)**, 당뇨병성 CKD의 \*\*A2 이상(중등도 알부민뇨 이상)\*\*에서 ACEI or ARB 권고(KDIGO 2024)
+* 목표 혈압 : 내약 시 표준화된 진료실 혈압 측정 기준 수축기 혈압 ＜120 ㎜Hg 목표; 노쇠, 낙상 위험, 기대여명이 짧은 경우 등은 완화된 목표 적용 \[KDIGO]
+  * "표준화된 진료실 혈압 측정"이란 환자가 진료실에서 5분 이상 안정을 취한 뒤 자동혈압계로 측정한 값을 의미하며, 일상 진료에서 흔히 재는 수동 혈압(전통적 기준 130/80 ㎜Hg에 해당)보다 낮게 측정되는 경향이 있어 단순 비교 시 혼란이 있을 수 있음 (☞ [혈압측정법](../225_/095_-hypertension.md#undefined-8))
+  * 기존 국내 지침의 목표 단백뇨(-) 시＜140/90 ㎜Hg, 단백뇨(+) 시＜130/80 ㎜Hg에서 KDIGO 2024 개정으로 강화되었으므로, 개별 환자의 내약성·노쇠도를 함께 고려하여 적용
+* ACEI or ARB : 1차 선택제; 항고혈압, 단백뇨 감소, 콩팥 기능 보호 효과; \[KDIGO] 비당뇨병성 CKD의 A3(중증 알부민뇨), 당뇨병성 CKD의 A2 이상(중등도 알부민뇨 이상)에서 ACEI or ARB 권고
+  * 저용량으로 시작, 단계적 증량
+  * 고칼륨혈증 주의; 급성 신 손상, 임신 시 삼가
+* 이뇨제 : 필요시 ACEI 또는 ARB에 추가; 단백뇨(-) 및 당뇨(-) CKD 부종에 대하여 이뇨제 단독 투여 고려
+  * mineralocorticoid 차단제(예: spironolactone) : 단백뇨 감소에 유효
+  * thiazide : eGFR ≥30 시 허용
+  * loop diuretics : eGFR ＜30 시 권고
+* (non-DHP) CCB : 혈압이 조절되지 않는 경우, 지속적인 s-Cr 상승이 있는 경우 고려
 
-### <mark style="color:orange;">SGLT2 억제제 - 병인과 무관한 신장 보호 (2025 급여 확대)</mark>
+### <mark style="color:orange;">SGLT2 억제제 - 병인과 무관한 신장 보호</mark>
 
-* dapagliflozin <mark style="color:blue;">\[다파엔]</mark>, empagliflozin <mark style="color:blue;">\[자디앙]</mark> : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과 확인(DAPA-CKD, EMPA-KIDNEY)
-* KDIGO 2024는 개별 약제보다 \*\*계열 효과(class effect)\*\*로 접근할 것을 권고 - 허가 및 급여 범위 내에서는 계열 효과로 이해할 수 있음
+* dapagliflozin <mark style="color:blue;">\[다파엔]</mark>, empagliflozin <mark style="color:blue;">\[자디앙]</mark> : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과
+* KDIGO 2024는 개별 약제보다 계열 효과(class effect)로 접근할 것을 권고
 * (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031)) (보험기준 : ①ACEI 또는 ARB를 최대 내약 용량으로 4주 이상 안정적으로 투여 중, ②eGFR 25\~75 ㎖/분/1.73㎡, ③요 dipstick ≥1+ 또는 u-ACR ≥200 ㎎/g 중 하나를 만족하는 비당뇨성 만성 신장병 환자; 2025.7.1. 고시 기준 - 정확한 급여 기준은 HIRA 고시를 반드시 확인할 것(기준 변경 가능))
-* eGFR ＜20\~25 미만에서 \*\*신규 시작(initiation)\*\*은 일반적으로 권장되지 않음(제품별 허가사항 확인). 다만 **이미 투여 중인 경우**, 내약성이 양호하고 투석·이식(KRT)을 시작하기 전까지는 eGFR이 20 미만으로 떨어지더라도 중단 없이 **지속(continuation)** 투여를 권장(KDIGO 2024) - 시작 기준과 지속 기준을 구분할 것
+* eGFR ＜20\~25 미만에서 \*\*신규 시작(initiation)\*\*은 일반적으로 권장되지 않음(제품별 허가사항 확인). 다만 **이미 투여 중인 경우**, 내약성이 양호하고 투석·이식(KRT)을 시작하기 전까지는 eGFR이 20 미만으로 떨어지더라도 중단 없이 **지속(continuation)** 투여를 권장(KDIGO) - 시작 기준과 지속 기준을 구분할 것
 * 부작용 : 생식기 진균 감염, 드물게 정상혈당 당뇨병성 케톤산증(euglycemic DKA) - 급성 질환·수술 전 sick-day rule 교육 필요
 
 ### <mark style="color:orange;">비스테로이드성 MRA - 당뇨병성 신장병</mark>
@@ -262,7 +273,7 @@ graph TD
 * 저칼륨 식이, 이뇨제 조정이 1차 조치이나, RAAS 차단제·SGLT2 억제제·비스테로이드성 MRA 등 신장 보호 약물을 고칼륨혈증을 이유로 감량·중단하기보다 **칼륨 결합제 병용으로 최적 용량을 유지**하는 전략이 권고됨(KDIGO 2024; 대한신장학회 2025 고혈압·콩팥병 진료지침)
 * 칼륨 결합제
   * calcium polystyrene sulfonate <mark style="color:blue;">\[카리메이트]</mark> : 국내에서 오래 사용되어 온 1차 선택; 변비 등 위장관 부작용
-  * sodium zirconium cyclosilicate(SZC) <mark style="color:blue;">\[로켈마]</mark> : 국내 신규 도입(2025년); 만성 관리 목적(RAAS 차단제 유지)에 우선 고려 가능하나 효과 발현까지 다소 시간이 걸려, 생명을 위협하는 **급성** 고칼륨혈증에는 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 **병용**해야 함(KDIGO 2024)
+  * sodium zirconium cyclosilicate(SZC) <mark style="color:blue;">\[로켈마]</mark> : 국내 신규 도입(2025년); 만성 관리 목적(RAAS 차단제 유지)에 우선 고려 가능하나 효과 발현까지 다소 시간이 걸려, 생명을 위협하는 **급성** 고칼륨혈증에는 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 **병용**해야 함(KDIGO)
 
 ### <mark style="color:orange;">신성 빈혈</mark>
 
