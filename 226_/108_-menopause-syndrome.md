@@ -313,7 +313,7 @@ _¹⁾ 일부 환자에서 효과; 다만 2023 The Menopause Society 지침은 s
 
 * 약제들 간의 효과 차이는 없음
 * Ethinylestradiol : 0.01\~0.02 ㎎/d
-* Conjugated equine estrogen(CEE) : 0.3 ㎎/d <mark style="color:blue;">\[프레미나]</mark>
+* Conjugated equine estrogen(CEE) : 0.3 ㎎/d <mark style="color:blue;">\[프레미나정]</mark>
 * 17-β-estradiol : 0.5\~1 ㎎/d
 * Estradiol valerate : 1\~2 ㎎/d <mark style="color:blue;">\[프로기노바]</mark>
 * Estradiol hemihydrate : 1\~2 ㎎/d <mark style="color:blue;">\[프레다]</mark>
@@ -322,7 +322,8 @@ _¹⁾ 일부 환자에서 효과; 다만 2023 The Menopause Society 지침은 s
 
 * 경구 제제보다 경피 제제에서 정맥혈전색전증(VTE) 위험 증가가 낮은 것으로 알려짐
 * 고혈압, 고중성지방혈증, 담석증, 혈전색전증(뇌경색, 관상동맥병) 위험이 있을 때 선택
-* Estradiol hemihydrate : 0.05\~0.1 ㎎/d 분비; 1매 주 1\~2회 부착
+* Estradiol hemihydrate : 0.05\~0.1 ㎎/d 분비; 1매 주 1\~2회 부착 <mark style="color:blue;">\[에스트레바 겔]</mark>
+* Estradiol 0.1% 겔 <mark style="color:blue;">\[디비겔]</mark> : 1일 1회 도포
 
 #### <mark style="color:$primary;">질 국소용</mark>
 
@@ -333,9 +334,12 @@ _¹⁾ 일부 환자에서 효과; 다만 2023 The Menopause Society 지침은 s
 * 제형 : emulsion, 겔, 스프레이, 크림, 질정, vaginal ring; 흡수의 차이로 도포제보다 링 선호
 * 용법 : 1\~2주간 매일 도포/삽입 → 이후 주 2회 지속
 * Estriol 질좌제 0.5 ㎎ <mark style="color:blue;">\[오베스틴 질좌제]</mark> : 취침 시 질 내 깊숙이 삽입; 증상 완화까지 통상 1일 1회(보통 3주), 유지요법은 주 2회 1개
+* Estriol 질크림 0.5 ㎎ <mark style="color:blue;">\[유센스 질크림]</mark> : 1일 1회 2\~3주 질내 투여 후 주 2회 유지
+* Estriol 겔 <mark style="color:blue;">\[블리셀겔]</mark> : 저용량 국소 제형, 전신 흡수 미미
+* Conjugated estrogen 질크림 0.625 ㎎/g <mark style="color:blue;">\[프레미나 질크림]</mark>
 * Estradiol 질정 : 10 ㎍ 매일 ×2주, 이후 주 2회
 
-- [ ] Estradiol hemihydrate 겔 <mark style="color:blue;">\[에스트레바 겔]</mark>은 전신 흡수를 목적으로 하는 경피(피부 도포)용 제제이며 질 국소 치료 용도가 아님
+- [ ] Estradiol hemihydrate 겔 <mark style="color:blue;">\[에스트레바 겔]</mark>, Estradiol 겔 <mark style="color:blue;">\[디비겔]</mark>은 전신 흡수를 목적으로 하는 경피(피부 도포)용 제제이며 질 국소 치료 용도가 아님
 
 ### <mark style="color:orange;">Progestogen</mark>
 
@@ -541,7 +545,7 @@ M81.0 폐경후골다공증
 > 오베스틴 질좌제 0.5 ㎎  취침 시 질내 삽입  매일 ×3주 → 이후 주 2회 유지
 > ```
 >
-> _✽estriol 질좌제; 전신 흡수가 미미하여 자궁이 있는 경우에도 progesterone 병용이 필요하지 않으며, 정기적인 자궁내막 검사도 필요하지 않음(비정상 출혈 등 증상이 있을 때만 평가); estradiol hemihydrate 겔(에스트레바 겔 등)은 경피 흡수용 제제로 질 국소 치료에는 사용하지 않음_
+> _✽estriol 질좌제; 전신 흡수가 미미하여 자궁이 있는 경우에도 progesterone 병용이 필요하지 않으며, 정기적인 자궁내막 검사도 필요하지 않음(비정상 출혈 등 증상이 있을 때만 평가); estradiol 겔(에스트레바 겔, 디비겔 등)은 경피 흡수용 제제로 질 국소 치료에는 사용하지 않음_
 
 > **처방례 5. HT를 사용할 수 없거나 원하지 않는 경우 - 비호르몬 요법**
 >
