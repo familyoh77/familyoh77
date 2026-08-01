@@ -21,7 +21,8 @@
 #### <mark style="color:$primary;">여성 요도증후군 (Female urethral syndrome)</mark>
 
 * 비뇨기계 감염 또는 확인된 이상 없이 빈뇨, 배뇨통, 잔뇨감 등 전형적인 하부 요로 감염에서와 같은 증상이 발생하는 증후군
-* 원인 : 불명; 폐경 후 에스트로겐 감소, Skene gland dysfunction, pelvic floor dysfunction, 과민방광, 이전 UTI 병력, 환경 자극(예: 뒷물, 거품 목욕) 등이 추정됨
+* 원인 : 불명; 폐경 후 에스트로겐 감소, Skene gland dysfunction, pelvic floor dysfunction, 과민방광, 이전 UTI 병력, 환경 자극(예: 뒷물, 거품 목욕, 향이 강한 여성청결제) 등이 추정됨
+* 기능적 요인이 의심되면 배뇨일지, 요속검사(uroflowmetry) 등 평가를 고려
 * 종종 악화와 완화가 반복되어 비뇨기계 증상 뿐 아니라 불안 등의 심리적 증상을 초래함
 
 ## <mark style="color:green;">원인</mark>
@@ -31,7 +32,7 @@
 * 임균 : N. gonorrhoeae (☞ 임질 챕터 참조)
 *   비-임균 : Chlamydia trachomatis (가장 흔함), Mycoplasma genitalium (지속/재발 NGU의 가장 흔한 원인),
 
-    Trichomonas vaginalis, Ureaplasma spp.(일부 근거), HSV, Adenovirus(특히 구강성교 관련)
+    Trichomonas vaginalis, Ureaplasma urealyticum(일부 증례에서 원인균으로 보고되나 병원성은 제한적; U. parvum은 정상 상재균인 경우가 많아 제외), HSV, Adenovirus(특히 구강성교 관련)
 
 #### <mark style="color:$primary;">비-감염성</mark>
 
@@ -50,7 +51,7 @@
 * 흔히 무증상(남 \~40%, 여 \~75%)
 * 점진적 진행 : 7일 이상 된 증상은 방광염보다 요도염의 가능성이 높음
 * 빈뇨, 배뇨통(작열감)
-* 요도 가려움 : 인접 부위 Candida성 외음부염·귀두염이 동반된 경우 흔함(Candida 자체는 확립된 요도염 원인균은 아님)
+* 요도 가려움 : 요도구 주변의 Candida성 귀두염·외음부염이 동반되면 요도 가려움을 호소할 수 있음; Candida 자체는 확립된 요도염 원인균은 아님
 * 점액성\~농성 요도 분비물
 * 드물게 혈뇨
 * 여성에서는 질염 증상이 동반될 수 있음
@@ -93,10 +94,10 @@
 
 ### <mark style="color:orange;">STI 선별 검사 대상</mark>
 
-* 13\~64세 모든 사람 : 최소 1회 HIV 선별검사(이후 위험군은 매년, MSM은 3\~6개월마다 고려)
+* 13\~64세 모든 사람 : 최소 1회 HIV 선별검사(CDC 2021; 이후 위험군은 매년, MSM은 3\~6개월마다 고려 — CDC 권고; 국내 진료 현장에서는 현실적으로 연 1회가 주로 적용됨)
 *   성관계를 하는 ＜26세 여성, 새로운 또는 복수의 성 파트너가 있거나 콘돔을 사용하지 않은 ≥26세 여성 :
 
-    매년 Gonorrhea 및 Chlamydia
+    매년 Gonorrhea 및 Chlamydia(CDC 2021)
 * 일정하지 않은 파트너 또는 복수의 파트너가 있는 남녀 : HBV
 * 요도염이 있는 모든 남성 : Gonorrhea 및 Chlamydia
 * 모든 성인(18세 이상) : 평생 1회 HCV 선별검사(CDC 2020); 위험 인자(정맥 마약 사용, 투석, HIV 감염 등)가 있으면 반복 검사
@@ -145,7 +146,7 @@
 #### <mark style="color:$primary;">지속 또는 재발성 non-gonococcal urethritis(NGU)</mark>
 
 * M. genitalium에 대한 NAAT 검사 및 macrolide 저항성 검사 고려
-* 유행 지역이라면 Trichomonas vaginalis에 대한 NAAT 검사 고려
+* T. vaginalis 유병률이 높은 지역 또는 이성 파트너가 있는 남성에서는 NAAT 검사 및 경험적 치료 고려
 * 요도염에 대한 명확한 증상 또는 증거가 있는 경우에만 치료
 
 ***
@@ -161,7 +162,7 @@ flowchart TD
     C -- 양성 --> E["불완전 치료? 재노출 의심?"]
 
     D -- no --> F["T. vagin. 감염 의심<br>(위험 인자, 유행 지역)"]
-    D -- yes --> G["• if 이전에 doxycycline으로 치료<br>→ azithromycin 1 g PO<br><br>• if 이전에 azithromycin으로 치료<br>→ moxifloxacin 400 mg qd × 7d"]
+    D -- yes --> G["• doxycycline 치료 실패<br>→ macrolide 감수성 확인 시 azithromycin 확장요법(1g+500mg×3d)<br>→ 검사 불가/내성 시 moxifloxacin 400 mg qd × 7d"]
 
     F -- no --> H["다른 원인 감별"]
     F -- yes --> I["metronidazole<br>2 g × 1회"]
@@ -200,8 +201,8 @@ flowchart TD
 
 {% hint style="info" %}
 **Doxycycline 노출 후 예방요법 (Doxy-PEP, CDC 2024)**\
-최근 12개월 내 세균성 STI(매독, 클라미디아, 임질) 진단 병력이 있는 남성 동성애자(MSM) 및 트랜스젠더 여성(TGW)에서, 콘돔 없는 성관계 후 72시간 이내 doxycycline 200 ㎎ 1회 복용(24시간 내 200 ㎎ 초과 금지)이 매독·클라미디아 감염을 70% 이상, 임질 감염을 약 50% 감소시킴이 확인됨. Doxycycline 알레르기, 임신 중에는 사용하지 않음. 상담을 통한 공유 의사결정 후 처방을 고려하며, 처방 시 3\~6개월마다 노출 부위 STI 재평가가 필요함\
-✽국내 가이드라인에는 아직 정식 반영되지 않았으며, 항생제 내성 확산 우려가 있어 대상군 선정에 신중을 기할 것
+최근 12개월 내 세균성 STI(매독, 클라미디아, 임질) 진단 병력이 있는 남성 동성애자(MSM) 및 트랜스젠더 여성(TGW)에서, 콘돔 없는 성관계 후 72시간 이내 doxycycline 200 ㎎ 1회 복용(24시간 내 200 ㎎ 초과 금지)이 매독·클라미디아 감염을 70% 이상, 임질 감염을 약 50% 감소시킴이 확인됨. Doxycycline 알레르기, 임신 중에는 사용하지 않음. 기존 STI 예방법(콘돔, 정기 선별검사, HIV PrEP 등)을 대체하지 않으며 병행함을 원칙으로 함. 상담을 통한 공유 의사결정 후 처방을 고려하며, 처방 시 3\~6개월마다 노출 부위 STI 재평가가 필요함\
+✽국내 가이드라인에는 아직 정식 반영되지 않았고 관련 연구·임상 경험도 부족하며, 항생제 내성 확산 우려가 있어 대상군 선정에 신중을 기할 것
 {% endhint %}
 
 ***
@@ -214,12 +215,14 @@ flowchart TD
 
     plus (임균 감염이 배제되지 않은 경우)
 * ceftriaxone : 500 ㎎ ×1회 IM \[트리악손] ; 체중 ≥150 ㎏인 경우 1 g으로 증량(CDC 2021)
+  ✽국내 일부 진료 현장에서는 azithromycin 병용이 여전히 사용되나, CDC 2021 개정 이후로는 권장되지 않음
 
 ### <mark style="color:orange;">대체제</mark>
 
 * azithromycin : 500 ㎎ ×1d & 250 ㎎ qd ×4d OR 1 g 1회 \[지스로맥스]; 임신 위험 category B, 수유 중 투여 가능; doxycycline 대비 치료 실패 및 내성 보고 증가로 chlamydia 1차 선택에서 제외됨(CDC 2021)
 * levofloxacin : 500 ㎎ qd ×7d \[크라비트]
 * ofloxacin : 300 ㎎ bid ×7d \[오플록사신]
+  ✽플루오로퀴놀론계는 현재 NGU 1차/대체 요법으로 적극 권고되지 않으며, doxycycline·azithromycin을 사용할 수 없는 경우에 제한적으로 고려
 
 ### <mark style="color:orange;">재발성 및 지속성 요도염</mark>
 
@@ -228,6 +231,7 @@ flowchart TD
     •macrolide sensitive : doxy. 100 ㎎ bid ×7d 이어서 azith. 1 g 1회 & 500 ㎎ qd ×3d
 
     •macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d \[아벨록스]
+      ✽국내에서는 macrolide 내성 검사 상용화가 제한적이어서, 실제로는 검사 없이 moxifloxacin으로 넘어가는 경우가 많음
 *   T. vaginalis 유병률이 높은 지역 또는 이성 파트너가 있는 남성
 
     •metronidazole : 2 g ×1회. 복용 중 금주 \[후라시닐]
@@ -280,21 +284,13 @@ A64 상세불명의 성매개질환
 >
 > _✽2021년 CDC 개정 이후 임균 감염에 azithromycin을 통상적으로 병용하지 않으며, ceftriaxone 단독 500 ㎎(체중 ≥150 ㎏이면 1 g)이 표준 용량임. Chlamydia 동반이 배제되지 않으면 doxycycline을 병용_
 
-> **처방례 3-1. 재발성 및 지속성 요도염 (T. vaginalis 의심)**
+> **처방례 3. 재발성 및 지속성 요도염 (T. vaginalis 의심)**
 >
 > ```
 > 후라시닐 250 ㎎/T  8T  #1~2 ×1d
 > ```
 >
 > _✽metronidazole 2 g 1회(후라시닐 8T 분1\~2)로 T. vaginalis 치료. 복용 중·복용 후 최소 24시간 금주_
-
-> **처방례 3-2. 재발성 및 지속성 요도염 (M. genitalium, macrolide 감수성 재치료)**
->
-> ```
-> 지스로맥스 250 ㎎/T  4T  1회
-> ```
->
-> _✽doxycycline 실패 후 M. genitalium이 확인되고(가능하면 resistance test 선행) macrolide 감수성인 경우 재치료 약제; 검사 불가/내성 시에는 moxifloxacin을 사용함(약물 치료 섹션 참조)_
 
 > **처방례 4. 여성 요도증후군 (STI 배제 후)**
 >
@@ -303,7 +299,7 @@ A64 상세불명의 성매개질환
 > 부루펜 200 ㎎/T  6T  #3  (불편 증상 시)
 > ```
 >
-> _✽TMP/SMX 내성 가능성이 있거나 최근 3개월 내 UTI 치료로 사용한 경우 회피; 원인균 미확인 시 nitrofurantoin 고려_
+> _✽1회 2정씩 1일 2회(TMP/SMX 160/800 mg) 복용. 최근 3개월 내 UTI 치료 이력이 있거나 내성 의심 시 nitrofurantoin 고려_
 
 > **처방례 5. 지속성 요도염 (M. genitalium, macrolide 감수성 확인/추정)**
 >
@@ -367,6 +363,11 @@ A64 상세불명의 성매개질환
 * 콘돔을 일관되고 올바르게 사용하면 재감염 위험을 크게 줄일 수 있습니다.
 * 비누, 질 세정제, 살정자제 등 자극이 될 수 있는 제품 사용을 줄이십시오.
 * 물을 충분히 마시고 배뇨를 참지 마십시오.
+
+#### <mark style="color:$primary;">치료 후 언제 다시 검사받아야 하나요?</mark>
+
+* 클라미디아·임질에 감염되었던 경우, 재감염 여부 확인을 위해 치료 3개월 후 재검사를 받는 것이 좋습니다.
+* 항생제 복용 후 3주 이내에는 검사에서 위양성이 나올 수 있어 이 시기의 재검사는 권하지 않습니다.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
