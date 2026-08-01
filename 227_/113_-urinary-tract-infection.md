@@ -122,7 +122,6 @@ B["질 분비물·요도염-성관계 후·<br/>STI 병력·폐경비뇨생식�
     D --> E["2~3개 해당 <br/>→ UTI likely"]
     D --> F["1개 또는 0개 해당"]
     F --> G["추가 증상 확인 - 절박뇨·빈뇨·<br/>육안혈뇨·치골 상부 압통"]
-    G -->|없음| H["UTI less likely <br/>→ 다른 진단 고려"]
     G -->|있음| I["소변 시험지봉 검사"]
     I --> J["nitrite (+) 또는 <br/>WBC·RBC 동시 (+)<br/>→ UTI likely"]
     I --> K["nitrite (-), WBC (+) <br/>→ UTI 가능성 50%, <br/>재검 및 배양"]
@@ -134,7 +133,7 @@ B["질 분비물·요도염-성관계 후·<br/>STI 병력·폐경비뇨생식�
     H --> O
     L --> O
     N --> O
-
+    G -->|없음| H["UTI less likely <br/>→ 다른 진단 고려"]
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
 class B,C,D,G yellow
@@ -158,25 +157,31 @@ class N,M sky
 
 ```mermaid
 graph TD
-    A["배뇨 증상·비정상 체온·비특이적 감염 징후 - ＞65세"] --> B["패혈증 또는 신우신염 의심 징후"]
-    B -->|있음| B1["패혈증/신우신염 고려 - 배양 후 즉시 항생제, 도뇨관 유치 시 제거·교체 고려, 중증 시 의뢰"]
-    B -->|없음| C["새로운 UTI 기준 확인 - 새로 시작된 배뇨통만 있음, 또는 다음 중 2개 이상: 12시간 내 체온 1.5℃ 이상 상승 2회·새로 발생한 빈뇨/절박뇨·새로 발생한 요실금·새로 발생/악화한 섬망·쇠약·새로 발생한 치골 상부 통증·육안혈뇨"]
-    C -->|기준 충족| D["UTI likely - 배양 후 즉시 항생제, 7일 초과 도뇨관 유치 시 제거·교체 고려, 예방 교육"]
-    C -->|기준 미충족| E["섬망의 다른 원인 점검 - PINCH ME: Pain·Infection·Nutrition·Constipation·Hydration·Medication·Environment"]
-    E -->|해당 있음| E1["섬망 관리를 위한 다른 문제 우선 해결"]
-    E -->|없음| F["다른 국소 감염 징후 확인 - 호흡기·위장관·피부연조직 감염"]
+    A["배뇨 증상·비정상 체온<br/>·비특이적 감염 징후"] 
+--> B["패혈증 or 신우신염 의심 징후"]
+    B -->|있음| B1["<u>패혈증/신우신염 고려</u> <br/>- 배양 후 즉시 항생제, <br/>도뇨관 유치 시 제거·교체 고려, <br/>중증 시 의뢰"]
+    B --->|없음| C["새로운 UTI 기준 확인¹⁾"]
+    C -->|기준 충족| D["<u>UTI likely</u> <br/>- 배양 후 즉시 항생제, <br/>7일 초과 도뇨관 유치 시 제거·<br/>교체 고려, 예방 교육"]
+    C -->|기준 미충족| E["섬망의 다른 원인 점검 <br/>- PINCH ME²⁾"]
+    E -->|해당 있음| E1["섬망 관리를 위한 <br/>다른 문제 우선 해결"]
+    E -->|없음| F["다른 국소 감염 징후 확인 <br/>- 호흡기·위장관<br/>·피부연조직 감염"]
     F -->|2개 이상 해당| F1["원인에 따른 관리"]
-    F -->|없음| G["기타 원인에 대한 추가 조사 및 관찰"]
-    D --> H["치료 반응 불량, 신우신염/패혈증 징후 시 의뢰 고려"]
-    G --> I["악화 시 입원 또는 항생제 투여 시작·조정 고려"]
+    F -->|없음| G["기타 원인에 대한 <br/>추가 조사 및 관찰"]
+    D --> H["치료 반응 불량, <br/>신우신염/패혈증 징후 시 <br/>의뢰 고려"]
+    G --> I["악화 시 입원 또는 <br/>항생제 투여 시작·조정 고려"]
 
-    style B fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style C fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style E fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style F fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style B1 fill:#ffebee,stroke:#c62828,stroke-width:2px
-    style D fill:#fff3e0,stroke:#e65100,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,C,E,F yellow
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class B1,H,I pink
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class E1,F1 blue
+style D fill:#fdebd0,stroke:#e67e22
 ```
+
+_¹⁾ 새로 시작된 배뇨통만 있음, 또는 다음 중 2개 이상: 12시간 내 체온 1.5℃ 이상 상승 2회·새로 발생한 빈뇨/절박뇨·새로 발생한 요실금·새로 발생/악화한 섬망·쇠약·새로 발생한 치골 상부 통증·육안혈뇨_\
+_²⁾ Pain·Infection·Nutrition·Constipation·Hydration·Medication·Environment_
 
 <p align="center"><strong>UTI가 의심되는 ＞65세에서의 진단 및 관리 알고리듬</strong></p>
 
@@ -227,20 +232,26 @@ graph TD
 
 ```mermaid
 graph TD
-    A["도뇨관 유치 환자에서 발열·오한·의식 변화·옆구리 통증 발생"] --> B["소변 배양 검사"]
-    B --> C["증상 + 배양 양성 - CAUTI 진단"]
+    A["도뇨관 유치 환자에서 <br/>발열·오한·의식 변화<br/>·옆구리 통증 발생"] 
+--> B["소변 배양 검사"]
+    B --> C["증상 + 배양 양성 <br/>- CAUTI 진단"]
     B --> G["무증상 세균뇨만 있음"]
-    C --> D["광범위 항생제 시작, 배양 결과에 따라 조정"]
+    C --> D["광범위 항생제 시작, <br/>배양 결과에 따라 조정"]
     D --> E["도뇨관 제거 또는 교체 고려"]
-    E --> F["예방 교육 - 삽입 빈도·유치 기간 최소화"]
+    E --> F["예방 교육 - <br/>삽입 빈도·유치 기간 최소화"]
     G --> H["치료하지 않음"]
-
-    style D fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style E fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style H fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+style B fill:#e8f8e8,stroke:#4caf50
+style C fill:#fde8f0,stroke:#e91e8c
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class D,E sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class H,F blue
 ```
 
-<p align="center"><em><mark style="color:$info;">핵심 : 무증상 세균뇨는 치료하지 않음이 원칙이며, 예방적 항균 요법·방광 세척은 권고되지 않음</mark></em></p>
+_CAUTI=Catheter-Associated UTI)_
+
+_\*무증상 세균뇨는 치료하지 않음이 원칙이며, 예방적 항균 요법 또는 방광 세척은 권고하지 않음_
 
 ### <mark style="color:orange;">남성에서의 UTI</mark>
 
@@ -257,20 +268,24 @@ graph TD
 ```mermaid
 graph TD
     A["남성에서 요로 증상 발생"] --> B["소변 시험지봉 검사"]
-    B -->|nitrite·leucocyte 모두 음성| C["UTI 가능성 낮음 - 다른 진단 고려"]
+    B -->|nitrite·leucocyte 모두 음성| C["UTI 가능성 낮음 <br/>- 다른 진단 고려"]
     B -->|양성 또는 증상 지속| D["소변 배양 검사 시행"]
     D --> E["발열·전신 증상 동반 여부 확인"]
-    E -->|있음| F["전립선염/신우신염 의심 - 항생제 투여, 의뢰 고려"]
-    E -->|없음| G["방광염 가능 - 배양 결과에 따라 항생제 조정, 최소 7일 이상"]
-    F --> H["치료 반응 불량 시 비뇨의학과 의뢰"]
+    E -->|있음| F["전립선염/신우신염 의심 <br/>- 항생제 투여, 의뢰 고려"]
+    E -->|없음| G["방광염 가능 <br/>- 배양 결과에 따라 항생제 조정, <br/>최소 7일 이상"]
+    F --> H["치료 반응 불량 시 의뢰"]
     G --> H
 
-    style F fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style G fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style H fill:#ffebee,stroke:#c62828,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class B,D lightGreen
+style C fill:#fef4f8,stroke:#f06baf
+style G fill:#fef4f8,stroke:#f06baf
+style F fill:#fcd4e6,stroke:#e0448e
+style H fill:#f8a0c0,stroke:#d01f5a
 ```
 
-<p align="center"><em><mark style="color:$info;">핵심 : 남성은 첫 UTI라도 전립선 침범 가능성을 항상 고려해야 하며, 배양 검사 선행이 필수임</mark></em></p>
+_\*남성은 첫 UTI라도 전립선 침범 가능성을 항상 고려해야 하며, 배양 검사 선행이 필수임_
 
 ### <mark style="color:orange;">재발성 UTI</mark>
 
@@ -308,26 +323,63 @@ graph TD
 
 ```mermaid
 graph TD
-    A["진단 - 증상 + 검사 + 이전 acute UTI 치료 반응, 확실한 증상 시 검사 없이 진단 가능"] --> B["Recurrent UTI - 최근 6개월 내 2회 또는 12개월 내 3회 이상"]
-    B --> C["Uncomplicated recurrent UTI - 요로 구조·기능 이상 없음, 비임신 여성, 전형적 원인균"]
-    B --> D["Complicated recurrent UTI - 임신·남성·요로 구조 이상·비전형 감염·지속 세균뇨"]
-    B --> E["Red flag - 지속되는 혈뇨"]
+    A["진단 - 증상 + 검사 + <br/>이전 acute UTI 치료 반응, <br/>확실한 증상 시 검사 없이 진단 가능"] 
+--> B["<u>rUTI</u> <br/>- 최근 6개월 내 2회 또는 <br/>12개월 내 3회 이상"]
+    B --> C["<u>Uncomplicated rUTI</u> <br/>- 요로 구조·기능 이상 없음, <br/>비임신 여성, 전형적 원인균"]
+    B --> D["<u>Complicated rUTI</u> <br/>- 임신·남성·요로 구조 이상<br/>·비전형 감염·지속 세균뇨"]
+    
     D --> F["의뢰"]
-    E --> F
-    C --> G["생활 습관 교정 - 충분한 수분 섭취, 성관계 후 배뇨, 변비·설사 치료, 적절한 혈당 관리"]
-    G -->|증상 지속| H["치료 옵션 병합 적용 - 항생제 1차/2차 선택, 비항생제 약물, 비약물 요법"]
-    H --> I["성관계 후 단회 투여 또는 저용량 지속 예방"]
+    B --> |Red flag <br/>- 지속되는 혈뇨| F
+    C --> G["생활 습관 교정*"]
+    G -->|증상 지속| H["치료 옵션 병합 적용 <br/>- 항생제 1차/2차 선택, <br/>비항생제 약물, 비약물 요법"]
+    H --> I["성관계 후 단회 투여 또는 <br/>저용량 지속 예방"]
     I --> J["6개월 이내 치료 반응 재평가"]
-    J -->|3~6개월 내 증상·검사 호전| K["치료 중단 고려"]
-    J -->|증상 지속| L["치료 순응도 점검, 항생제 내성 확인"]
+    J -->|증상 지속| L["치료 순응도 점검, <br/>항생제 내성 확인"]
+    J -->|3~6개월 내 <br/>증상·검사 호전| K["치료 중단 고려"]
     K -->|증상 재발| H
     L --> F
-
-    style D fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style E fill:#ffebee,stroke:#c62828,stroke-width:2px
-    style F fill:#ffebee,stroke:#c62828,stroke-width:2px
-    style H fill:#fff3e0,stroke:#e65100,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef orange fill:#fdebd0,stroke:#e67e22
+class B,C,D orange
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class G,H,I sky
+style K fill:#d0e8ff,stroke:#1a6abf
+style J fill:#fff9c4,stroke:#ffe082
+style L fill:#e8f8e8,stroke:#4caf50
+style F fill:#ff9966,stroke:#cc5500
 ```
+
+```mermaid
+graph TD
+    A["진단 - 증상 + 검사 + <br/>이전 acute UTI 치료 반응, <br/>확실한 증상 시 검사 없이 진단 가능"] 
+--> B["<u>rUTI</u> <br/>- 최근 6개월 내 2회 또는 <br/>12개월 내 3회 이상"]
+    K -->|증상 재발| H
+    B --> C["<u>Uncomplicated rUTI</u> <br/>- 요로 구조·기능 이상 없음, <br/>비임신 여성, 전형적 원인균"]
+    B --> D["<u>Complicated rUTI</u> <br/>- 임신·남성·요로 구조 이상<br/>·비전형 감염·지속 세균뇨"]
+    D --> F["의뢰"]
+    B --> |Red flag <br/>- 지속되는 혈뇨| F
+    C --> G["생활 습관 교정*"]
+    G -->|증상 지속| H["치료 옵션 병합 적용 <br/>- 항생제 1차/2차 선택, <br/>비항생제 약물, 비약물 요법"]
+    H --> I["성관계 후 단회 투여 또는 <br/>저용량 지속 예방"]
+    I --> J["6개월 이내 치료 반응 재평가"]
+    J -->|3~6개월 내 <br/>증상·검사 호전| K["치료 중단 고려"]
+    J -->|증상 지속| L["치료 순응도 점검, <br/>항생제 내성 확인"]
+    L --> F
+
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef orange fill:#fdebd0,stroke:#e67e22
+class B,C,D orange
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class G,H,I sky
+style K fill:#d0e8ff,stroke:#1a6abf
+style J fill:#fff9c4,stroke:#ffe082
+style L fill:#e8f8e8,stroke:#4caf50
+style F fill:#ff9966,stroke:#cc5500
+```
+
+rUTi=Recurrent UTI
+
+\*충분한 수분 섭취, 성관계 후 배뇨, 변비·설사 치료, 적절한 혈당 관리
 
 <p align="center"><strong>재발성 UTI 환자의 진단 및 관리</strong></p>
 
