@@ -155,9 +155,48 @@
 * 유행 지역이라면 Trichomonas vaginalis 에 대한 NAAT 검사 고려
 * 요도염에 대한 명확한 증상 또는 증거가 있는 경우에만 치료
 
-![image](../.gitbook/assets/c5da4ef7-4e57-400b-ad61-5449b4599d58.JPG)
 
-질병코드
+
+```mermaid
+flowchart TD
+    Start["초치료 후 지속되는 요도염 증상"] --> A["신체검사 or 실험실 검사상 요도염 증거"]
+
+    A -- no --> B["다른 원인 감별"]
+    A -- yes --> C["첫 소변 임질 & 트라코마티스 (NAAT)"]
+
+    C -- 음성 --> D["M. genit. 감염 의심<br>(위험 인자, 유행 지역)"]
+    C -- 양성 --> E["불완전 치료? 재노출 의심?"]
+
+    D -- no --> F["T. vagin. 감염 의심<br>(위험 인자, 유행 지역)"]
+    D -- yes --> G["• if 이전에 doxycycline으로 치료<br>→ azithromycin 1 g PO<br><br>• if 이전에 azithromycin으로 치료<br>→ moxifloxacin 400 mg qd × 7d"]
+
+    F -- no --> H["다른 원인 감별"]
+    F -- yes --> I["metronidazole<br>2 g × 1회"]
+
+    E -- no --> J["cephalosporin<br>항생제 내성?"]
+    E -- yes --> K["재치료"]
+
+    J --> L["배양 검사, 항생제<br>감수성 검사"]
+
+    %% Styling
+    classDef start fill:#f0eeeb,stroke:#dcd8d0,color:#333;
+    classDef gray fill:#f1f3f5,stroke:#ced4da,color:#333;
+    classDef green fill:#eaf4eb,stroke:#c8e6ca,color:#333;
+    classDef yellow fill:#fffce8,stroke:#fbe8a6,color:#333;
+    classDef blue fill:#ebf5ff,stroke:#b3d8ff,color:#333;
+
+    class Start start;
+    class A,B,H gray;
+    class C,L green;
+    class D,E,F,J yellow;
+    class G,I,K blue;
+```
+
+<p align="center"><strong>Evaluation of patients with persistent urethritis symptoms after initial treatment</strong><br><em><mark style="color:$info;">Ref. AFP 2021;103(9) Fig. 1</mark></em></p>
+
+
+
+### 질병코드
 
 N34　요도염 및 요도증후군
 
@@ -167,4 +206,24 @@ A64　상세불명의 성매개질환
 
 A56　 기타 성행위로 전파되는 클라미디아질환
 
-![image](../.gitbook/assets/ce810d9a-ddaf-4b00-bf35-0a8bb4fd0321.JPG)
+
+
+## 처방례
+
+처방례 1. 비-임균성 요도염\
+독시사이클린 100 ㎎/C 2C #2 ×7d\
+부루펜 200 ㎎/T 6T #3 (불편 증상 시)
+
+\
+처방례 2. 미확정 요도염\
+트리악손 주 250 ㎎ IM 1회\
+지스로맥스 250 ㎎/T 4T 1회
+
+\
+처방례 3. 재발성 및 지속성 요도염\
+후라시닐 250 ㎎/T 8T #1\~2 ×1d\
+지스로맥스 250 ㎎/T 4T 1회<br>
+
+처방례 4. 여성 요도염\
+셉트린 80/400 ㎎ 4T #2 ×3d\
+부루펜 200 ㎎/T 6T #3 (불편 증상 시)
