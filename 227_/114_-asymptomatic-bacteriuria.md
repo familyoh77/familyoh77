@@ -23,7 +23,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 급성 요로 감염을 시사하는 국소·전신 증상(발열, 배뇨 곤란, 빈뇨/절박뇨, 치골상부·늑척추각 압통, 육안혈뇨 등)이 없음
+* 발열, 배뇨 곤란, 빈뇨/절박뇨, 치골상부·늑척추각 압통, 육안혈뇨 등 급성 요로 감염을 시사하는 국소 또는전신 증상이 없음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -45,29 +45,33 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* U/A : 농뇨, leukocyte esterase 및 nitrite 양성 소견이 동반될 수 있으나 그 자체로는 진단 기준이 아니며, 정량적 배양 검사로 확진함\[IDSA 2019]
+* U/A : 농뇨, leukocyte esterase 및 nitrite 양성 소견이 동반될 수 있으나 그 자체로는 진단 기준이 아니며, 정량적 배양 검사로 확진함 \[IDSA]
 
-<table><thead><tr><th width="230">검체 유형</th><th width="140">기준 균수</th><th>비고</th></tr></thead><tbody><tr><td>청결 채취 자연 배뇨, 여성</td><td>≥10⁵ cfu/㎖</td><td>연속 2회, 동일 균종</td></tr><tr><td>청결 채취 자연 배뇨, 남성</td><td>≥10⁵ cfu/㎖</td><td>1회로 진단(동일 균종)</td></tr><tr><td>단회 도뇨(in-and-out catheterization), 남녀 공통</td><td>≥10² cfu/㎖</td><td>1회로 진단</td></tr></tbody></table>
+<table><thead><tr><th width="230">검체 유형</th><th width="140">기준 균수</th><th>비고</th></tr></thead><tbody><tr><td>청결 채취 자연 배뇨, 여성</td><td>≥10⁵ cfu/㎖</td><td>연속 2회, 동일 균종</td></tr><tr><td>청결 채취 자연 배뇨, 남성</td><td>≥10⁵ cfu/㎖</td><td>1회로 진단</td></tr><tr><td>단회 도뇨, 남녀 공통</td><td>≥10² cfu/㎖</td><td>1회로 진단</td></tr></tbody></table>
 
-* 장기 유치 도뇨관 보유 환자는 세균뇨가 거의 보편적(\~100%)이므로, 무증상 상태에서는 선별 목적의 요배양 검사를 시행하지 않음(증상 발생 시 또는 침습적 시술 전 등 배양이 필요한 상황은 제외)\[IDSA 2019]
+* 장기 유치 도뇨관 보유 환자는 세균뇨가 거의 보편적(\~100%)이므로, 무증상 상태에서는 선별 목적의 요배양 검사를 시행하지 않음 (증상 발생 시 또는 침습적 시술 전 등 배양이 필요한 상황은 제외)
 
 ### <mark style="color:orange;">선별 검사</mark>
 
-* 증상이 없는 일반 인구에 대한 ASB 선별 검사는 권고하지 않음
-* 선별 검사 권고 대상 : 모든 임신부 - 임신 12\~16주 또는 첫 산전 방문 시(더 이른 시점)에 1회 소변배양검사를 시행; 점막 출혈이 예상되는 침습적 비뇨기과 시술 예정자\[IDSA 2019]
-* 다음 군은 선별·치료 모두 권고하지 않음(신장이식 후 1개월 이내는 예외 - 근거 불충분으로 개별 판단; 자세한 근거는 Management 참조) : 건강한 폐경 전/후 여성, 당뇨병, 혈액 투석, 고령/요양시설 거주자, 척수 손상·신경인성 방광, 단기·장기 도뇨관 유치(발거 예정 포함), 신장이식 후 1개월 이후 및 기타 고형 장기 이식, 비뇨기과가 아닌 수술(정형외과 관절 치환술 등) 예정자\[IDSA 2019]
+* 증상이 없는 일반 인구에 대한 ASB(Asymptomatic Bacteriuria) 선별 검사는 권고하지 않음
+* 선별 검사 권고 대상 : 모든 임신부 - 임신 12\~16주 또는 첫 산전 방문 시(더 이른 시점)에 1회 소변배양검사를 시행; 점막 출혈이 예상되는 침습적 비뇨기과 시술 예정자
 
 ***
 
 ```mermaid
 graph TD
-    A([요배양 양성, 증상 없음]) --> B{요로 감염을 시사하는<br>국소·전신 증상 있음?}
+    A([요배양 양성, 증상 없음]) --> B[요로 감염을 시사하는<br>국소·전신 증상 있음?]
     B -- 있음 --> C[증상성 요로 감염으로 접근]
-    B -- 없음 --> D{임신부 또는<br>침습적 비뇨기과 시술 예정?}
+    B -- 없음 --> D[임신부 또는<br>침습적 비뇨기과 시술 예정?]
     D -- 예 --> E[치료 대상 - 배양 기반<br>표적 항균제 치료]
     D -- 아니오 --> F[치료·추가 배양 불필요<br>경과 관찰]
-    style E fill:#f96,stroke:#e65100,stroke-width:2px
-    style F fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D yellow
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class C,F blue
+style E fill:#e3f2ff,stroke:#2196f3
 ```
 
 <p align="center"><strong>무증상 세균뇨 접근 알고리듬</strong></p>
@@ -78,48 +82,46 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
-**대부분의 환자에서 치료가 필요 없습니다**\
-무증상 세균뇨는 항균제 치료의 이득이 입증된 임신부와 침습적 비뇨기과 시술 예정자를 제외하고는 치료하지 않습니다. 불필요한 치료는 위장관 부작용, Clostridioides difficile 감염, 항균제 내성 유발 등 위해가 이득보다 크다는 것이 IDSA 2019 근거입니다.
-{% endhint %}
+
+
+* 대부분의 환자에서 치료 필요 없음 : 무증상 세균뇨는 항균제 치료의 이득이 입증된 임신부와 침습적 비뇨기과 시술 예정자를 제외하고는 치료하지 않음. 불필요한 치료는 위장관 부작용, _C. difficile_ 감염, 항균제 내성 유발 등 위해가 이득보다 큼 \[IDSA]
 
 ### <mark style="color:orange;">치료 대상</mark>
 
 * 임신부
 * 침습적 비뇨기과 시술(경요도 전립선절제술 등 점막 출혈이 예상되는 시술) 예정자
 
-- [ ] 요양시설 거주 고령자 등에서 섬망, 낙상, 정신상태 변화 등 비특이 증상만으로 ASB를 요로 감염으로 오인하여 항생제를 투여하지 않도록 주의 - 국소 요로 증상 없이는 항생제 치료의 근거가 부족함
+{% hint style="info" %}
+요양시설 거주 고령자 등에서 섬망, 낙상, 정신 상태 변화 등 비특이 증상만으로 ASB를 요로 감염으로 오인하여 항생제를 투여하지 않도록 주의 - 국소 요로 증상 없이는 항생제 치료의 근거가 부족함
+{% endhint %}
 
 ### <mark style="color:orange;">치료하지 않는 대상 (근거 기반)</mark>
 
-<table><thead><tr><th width="260">대상</th><th>권고</th></tr></thead><tbody><tr><td>건강한 폐경 전/후 여성</td><td>선별·치료 모두 권고 안 함 (강한 권고)</td></tr><tr><td>당뇨병 환자</td><td>선별·치료 모두 권고 안 함</td></tr><tr><td>혈액 투석 환자</td><td>선별·치료 모두 권고 안 함</td></tr><tr><td>고령/요양시설 거주자(기능 저하 동반 포함)</td><td>선별·치료 모두 권고 안 함</td></tr><tr><td>척수 손상, 신경인성 방광</td><td>선별·치료 모두 권고 안 함</td></tr><tr><td>단기 또는 장기 도뇨관 유치(발거 예정 포함)</td><td>선별·치료 모두 권고 안 함</td></tr><tr><td>신장이식 후 1개월 이내</td><td>근거 부족으로 권고 등급 없음(No recommendation) - 개별 판단 필요</td></tr><tr><td>신장이식 후 1개월 이후, 기타 고형 장기 이식</td><td>선별·치료 모두 권고 안 함</td></tr><tr><td>비뇨기과가 아닌 수술(관절 치환술 등) 예정자</td><td>수술 전 ASB 치료 권고 안 함</td></tr></tbody></table>
-
-_✽전체 근거·권고 강도는 IDSA 2019 Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria 참조_
-
-***
+* 다음에서는 선별 검사와 치료 모두 권고 안 함 : 건강한 폐경 전/후 여성, 당뇨병 환자, 혈액 투석 환자, 고령/요양시설 거주자(기능 저하 동반 포함), 척수 손상, 신경인성 방광, 단기 또는 장기 도뇨관 유치(발거 예정 포함), 신장이식 후 1개월 이후, 기타 고형 장기 이식
+* 신장이식 후 1개월 이내 : 근거 부족으로 권고 등급 없음(No recommendation) - 개별 판단 필요
+* 비뇨기과가 아닌 수술(관절 치환술 등) 예정자 : 수술 전 ASB 치료 권고 안 함
 
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">임신부</mark>
 
-* 치료 기간 : 4\~7일(약제에 따라 다름) \[IDSA 2019]
-* nitrofurantoin 100 ㎎ bid ×5\~7d <mark style="color:blue;">\[보령 니트로푸란토인 캡슐]</mark>
-  * 임신 후기에도 사용 가능하나, G6PD 결핍 환자 및 분만 임박 시점(38주 이후)에는 신생아 용혈 위험으로 회피; 최근 대규모 코호트 연구에서는 1삼분기 사용과 관련한 유의한 기형 위험이 확인되지 않았으며, ACOG는 1삼분기에도 다른 적절한 대안이 없다면 사용이 합리적이라고 명시\[ACOG 2023]
-* amoxicillin/clav. 500/125 ㎎ tid ×3\~7d <mark style="color:blue;">\[오구멘틴]</mark>
-* cephalexin 500 ㎎ qid ×3\~7d <mark style="color:blue;">\[팔렉신]</mark>
-* cefpodoxime 100 ㎎ bid ×3\~7d <mark style="color:blue;">\[바난]</mark>
-* fosfomycin 3 g ×1회 - ESBL 생성균 등 다제내성 Enterobacterales에서 고려; **임신 중 안전성 자료가 제한적이므로 1차 선택제가 아닌 대안으로만 사용** <mark style="color:blue;">\[모누롤]</mark> ✽1삼분기 안전성 자료가 제한적이므로 β-lactam 계열에 우선순위를 둠
+* 치료 기간 : 4\~7일 (약제에 따라 다름)
+* nitrofurantoin : 100 ㎎ bid ×5\~7d <mark style="color:blue;">\[보령 니트로푸란토인 캡슐]</mark>
+  * 임신 후기에도 사용 가능하나, G6PD 결핍 환자 및 분만 임박 시점(38주 이후)에는 신생아 용혈 위험으로 회피; 최근 대규모 코호트 연구에서는 1삼분기 사용과 관련한 유의한 기형 위험이 확인되지 않았으며, ACOG(2023)는 1삼분기에도 다른 적절한 대안이 없다면 사용이 합리적이라고 명시
+* amoxicillin/clav. : 500/125 ㎎ tid ×3\~7d <mark style="color:blue;">\[오구멘틴]</mark>
+* cephalexin : 500 ㎎ qid ×3\~7d <mark style="color:blue;">\[팔렉신]</mark>
+* cefpodoxime : 100 ㎎ bid ×3\~7d <mark style="color:blue;">\[바난]</mark>
+* fosfomycin : 3 g ×1회 - ESBL(Extended-spectrum beta-lactamases) 생성균 등 다제내성 Enterobacterales에서 고려; 임신 중 안전성 자료가 제한적이므로 1차 선택제가 아닌 대안으로만 사용 <mark style="color:blue;">\[모누롤]</mark>&#x20;
 
 {% hint style="danger" %}
-**⚠️ Trimethoprim-sulfamethoxazole은 대안이 있다면 피해야 함**\
-엽산 대사 길항 작용으로 인해 1삼분기 사용 시 심장 기형, 구순구개열 등 선천성 기형 위험이 β-lactam 대비 증가한다는 최근 대규모 코호트 연구 결과가 있어(JAMA Netw Open 2025) 권장하지 않으며, 만삭에 근접해서는 신생아 핵황달 위험으로도 회피함.
+**Trimethoprim-sulfamethoxazole은 대안이 있다면 피해야 함.** 엽산 대사 길항 작용으로 인해 1삼분기 사용 시 심장 기형, 구순구개열 등 선천성 기형 위험이 β-lactam 대비 증가한다는 최근 대규모 코호트 연구 결과가 있어 권장하지 않으며, 만삭에 근접해서는 신생아 핵황달 위험으로 회피.
 {% endhint %}
 
 ### <mark style="color:orange;">침습적 비뇨기과 시술 예정자</mark>
 
 * 소변 배양 검사 및 표적 항균제로 단회 또는 1\~2회 요법을 선택하며, 시술 30\~60분 전 초회 투여
-* 배양 결과가 확인되면 가장 좁은 스펙트럼의 항균제로 조정(narrowest-spectrum agent 우선)\[IDSA 2019]
-* 점막 출혈이 예상되지 않는 시술(단순 진단적 방광경 검사 등)은 치료 대상이 아님\[IDSA 2019]
+* 배양 결과가 확인되면 가장 좁은 스펙트럼의 항균제로 조정(narrowest-spectrum agent 우선)
+* 점막 출혈이 예상되지 않는 시술(단순 진단적 방광경 검사 등)은 치료 대상이 아님
 
 ***
 
