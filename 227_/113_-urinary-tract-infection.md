@@ -175,9 +175,9 @@ graph TD
 
 <p align="center"><strong>UTI가 의심되는 ＞65세에서의 진단 및 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Diagnosis of urinary tract infections. NICE, 2020.</mark></em> </p>
+<p align="center"><em><mark style="color:$info;">Ref. Diagnosis of urinary tract infections. NICE, 2020.</mark></em></p>
 
-<p align="center"><em><mark style="color:$info;">발열과 섬망/쇠약만 있는 경우 UTI 치료 전 다른 원인을 먼저 고려;</mark></em> <br><em><mark style="color:$info;">시험지봉 검사는 고령에서 신뢰도가 낮으므로 권고되지 않음</mark></em></p>
+<p align="center"><em><mark style="color:$info;">발열과 섬망/쇠약만 있는 경우 UTI 치료 전 다른 원인을 먼저 고려;</mark></em><br><em><mark style="color:$info;">시험지봉 검사는 고령에서 신뢰도가 낮으므로 권고되지 않음</mark></em></p>
 
 ***
 
@@ -332,7 +332,7 @@ graph TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 충분한 수분 섭취(특히 평소 수분 섭취가 적은 사람에서는 하루 약 1.5 L의 물을 추가로 마시는 것이 재발성 UTI 감소에 도움이 될 수 있음)
+* 충분한 수분 섭취 - 특히 평소 수분 섭취가 적은 사람은 하루 약 1.5 L의 물을 추가로 마시는 것이 재발성 UTI 감소에 도움이 될 수 있음
 * 방광을 자주 완전히 비움, 과도하게 소변을 참지 않음
 * 성관계 전/후 배뇨
 * 조이는 옷 회피
@@ -343,11 +343,9 @@ graph TD
 * 여성에서 성관계 시 질이 건조한 경우 윤활제 사용
 * 재발 시 살정자제/diaphragm 사용 회피
 
-***
-
 ## <mark style="color:green;">약물 치료</mark>
 
-> ☞ 무증상 세균뇨, 요도염, 급성 방광염, 급성 신우신염, 전립선염의 항생제 처방은 각 질환별 챕터 참조
+☞ 무증상 세균뇨, 요도염, 급성 방광염, 급성 신우신염, 전립선염의 항생제 처방은 각 질환별 챕터 참조
 
 ### <mark style="color:orange;">재발성 UTI의 예방적 약물 요법</mark>
 
@@ -357,7 +355,8 @@ graph TD
 
 #### <mark style="color:$primary;">비-항생제 예방 약물</mark>
 
-* estrogen : 폐경 여성에 대하여 금기가 아닌 경우 estrogen 질 크림 고려. 항생제 예방 투여에 앞서 고려; 0.5 g 취침 전 ×2주, 이후 2회/주
+* estrogen : 폐경 여성에 대하여 금기가 아닌 경우 estrogen 질 크림 고려. 항생제 예방 투여에 앞서 고려
+  * 0.5 g 취침 전 ×2주, 이후 2회/주
   * 국소 질 estrogen은 재발성 UTI 예방 효과가 있으나, 전신 estrogen 요법은 UTI 예방 목적으로는 권고되지 않음(EAU)
 * methenamine hippurate : 소변 산성화 및 직접적인 항균 작용 추정; 1 g bid, 6개월 사용 후 검토
   * 통풍, 중증 신/간 장애, 탈수 시 금기; 3개월마다 간 기능 검사
