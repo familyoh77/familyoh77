@@ -1,7 +1,5 @@
 # 요도염 Urethritis
 
-![image](../.gitbook/assets/14a68985-1719-41ee-a8a9-cc0c8c514b12.JPG)
-
 ## <mark style="color:green;">일반 사항</mark>
 
 * 요도의 감염성(보다 흔함) 또는 비-감염성 염증
@@ -121,11 +119,11 @@
 **단계별 치료 전략**
 {% endhint %}
 
-| 단계 | 핵심 치료 | 대상 |
-| --- | --- | --- |
-| Step 1 | 임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음) | 진단 기준을 충족하는 모든 환자 |
-| Step 2 | NAAT 결과에 따라 표적 항생제로 조정 | 검사 결과 확인된 환자 |
-| Step 3 | 7일 이상 증상 지속/재발 시 M. genitalium, T. vaginalis 평가 | 초치료 실패 환자 |
+| 단계     | 핵심 치료                                           | 대상                |
+| ------ | ----------------------------------------------- | ----------------- |
+| Step 1 | 임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음)             | 진단 기준을 충족하는 모든 환자 |
+| Step 2 | NAAT 결과에 따라 표적 항생제로 조정                          | 검사 결과 확인된 환자      |
+| Step 3 | 7일 이상 증상 지속/재발 시 M. genitalium, T. vaginalis 평가 | 초치료 실패 환자         |
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -214,15 +212,13 @@ flowchart TD
 *   doxycycline : 100 ㎎ bid ×7d \[독시사이클린]
 
     plus (임균 감염이 배제되지 않은 경우)
-* ceftriaxone : 500 ㎎ ×1회 IM \[트리악손] ; 체중 ≥150 ㎏인 경우 1 g으로 증량(CDC 2021)
-  ✽국내 일부 진료 현장에서는 azithromycin 병용이 여전히 사용되나, CDC 2021 개정 이후로는 권장되지 않음
+* ceftriaxone : 500 ㎎ ×1회 IM \[트리악손] ; 체중 ≥150 ㎏인 경우 1 g으로 증량(CDC 2021) ✽국내 일부 진료 현장에서는 azithromycin 병용이 여전히 사용되나, CDC 2021 개정 이후로는 권장되지 않음
 
 ### <mark style="color:orange;">대체제</mark>
 
 * azithromycin : 500 ㎎ ×1d & 250 ㎎ qd ×4d OR 1 g 1회 \[지스로맥스]; 임신 위험 category B, 수유 중 투여 가능; doxycycline 대비 치료 실패 및 내성 보고 증가로 chlamydia 1차 선택에서 제외됨(CDC 2021)
 * levofloxacin : 500 ㎎ qd ×7d \[크라비트]
-* ofloxacin : 300 ㎎ bid ×7d \[오플록사신]
-  ✽플루오로퀴놀론계는 현재 NGU 1차/대체 요법으로 적극 권고되지 않으며, doxycycline·azithromycin을 사용할 수 없는 경우에 제한적으로 고려
+* ofloxacin : 300 ㎎ bid ×7d \[오플록사신] ✽플루오로퀴놀론계는 현재 NGU 1차/대체 요법으로 적극 권고되지 않으며, doxycycline·azithromycin을 사용할 수 없는 경우에 제한적으로 고려
 
 ### <mark style="color:orange;">재발성 및 지속성 요도염</mark>
 
@@ -230,8 +226,7 @@ flowchart TD
 
     •macrolide sensitive : doxy. 100 ㎎ bid ×7d 이어서 azith. 1 g 1회 & 500 ㎎ qd ×3d
 
-    •macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d \[아벨록스]
-      ✽국내에서는 macrolide 내성 검사 상용화가 제한적이어서, 실제로는 검사 없이 moxifloxacin으로 넘어가는 경우가 많음
+    •macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d \[아벨록스] ✽국내에서는 macrolide 내성 검사 상용화가 제한적이어서, 실제로는 검사 없이 moxifloxacin으로 넘어가는 경우가 많음
 *   T. vaginalis 유병률이 높은 지역 또는 이성 파트너가 있는 남성
 
     •metronidazole : 2 g ×1회. 복용 중 금주 \[후라시닐]
@@ -242,7 +237,6 @@ flowchart TD
 ### <mark style="color:orange;">여성 요도증후군 (STI 및 단순 방광염 배제 후)</mark>
 
 * 여성의 감염성(STI) 요도염은 남성과 동일하게 doxycycline 등으로 치료함; 아래 약제는 STI가 배제된 요도증후군 또는 동반된 단순 방광염에 대한 치료임
-
 * nitrofurantoin : 100 ㎎ bid ×5d
 * TMP/SMX : 160/800 ㎎ bid ×3d; 내성 가능성이 있거나 3개월 내 UTI 치료로 사용된 적이 있으면 피함 \[셉트린]
 * fosfomycin : 다른 제제에 비하여 효과 떨어짐; 3 g ×1회 \[모누롤]

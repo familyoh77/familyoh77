@@ -1,21 +1,21 @@
-# 요로 감염 Urinary Tract Infection (UTI)
+# 요로 감염 Urinary Tract Infection
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 요로(신장, 요관, 방광, 요도)의 세균 감염
+* 요로-신장, 요관, 방광, 요도-의 세균 감염
 * 분류 : 신우신염, 방광염, 전립선염, 요도염, 무증상 세균뇨
-* 발생률 : 연간 여성의 12.6%, 남성의 3%에서 발생
+* 발생률 : 연간 여성의 12.6%, 남성의 3%에서 발생; 재발 또는 재감염이 흔함 (☞ [재발](113_-urinary-tract-infection.md#uti-3))
   * 전체 여성의 ½이 일생 동안 1회 이상의 UTI를 경험
 
 ### <mark style="color:orange;">전통적 분류</mark>
 
 * Uncomplicated UTI : 요로 폐쇄가 없고 도뇨관 삽입 등의 요로 조작 병력이 없는 일반적인 사람에서 발생한, 하부 요로에 국한된 감염 및 증상; 보통 적절한 항생제 치료에 반응함
-* Complicated UTI : 해부학적·기능적 이상, 면역 저하 등 치료 실패 위험 인자가 있는 환자에서 발생한 요로 감염; **신우신염 자체가 곧 complicated를 의미하는 것은 아님** - 예를 들어 요로 이상이 없는 젊은 여성의 급성 신우신염은 uncomplicated pyelonephritis로 분류되며, 위험 인자 유무로 판단함
+* Complicated UTI : 해부학적·기능적 이상, 면역 저하 등 치료 실패 위험 인자가 있는 환자에서 발생한 요로 감염; 신우신염 자체가 곧 complicated를 의미하는 것은 아님 - 예를 들어 요로 이상이 없는 젊은 여성의 급성 신우신염은 uncomplicated pyelonephritis로 분류되며, 위험 인자 유무로 판단함
 * Recurrent UTI(rUTI) : 6개월 동안 2회 또는 12개월 내 3회 이상 증상이 있는 UTI가 발생; 대부분 재감염에 의함
-* Asymptomatic bacteriuria(ASB) : 요로감염을 시사하는 증상 없이 유의한 세균뇨가 존재하는 상태; 농뇨가 동반될 수도 있으나 진단 기준은 아님
+* Asymptomatic bacteriuria(ASB) : 요로 감염을 시사하는 증상 없이 유의한 세균뇨가 존재하는 상태; 농뇨가 동반될 수도 있으나 진단 기준은 아님
 
 {% hint style="info" %}
-**EAU 2025~2026 새로운 UTI 분류 체계**\
+**EAU 2025\~2026 새로운 UTI 분류 체계**\
 EAU(European Association of Urology) 요로 감염 지침은 2025년부터 "uncomplicated/complicated" 대신 임상 징후 중심의 "localized(국소형)/systemic(전신형)" UTI 분류를 도입함; 전신 감염 징후(발열, 오한, 옆구리 통증, 전신 증상) 유무로 치료 강도를 결정하는 것이 핵심 취지임. 다만 1차 진료 현장에서는 전통적 분류가 여전히 널리 쓰이고 있어, 본 챕터는 전통적 분류를 기본으로 서술하되 두 체계가 병존하고 있음을 참고할 것
 {% endhint %}
 
