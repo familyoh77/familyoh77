@@ -2,9 +2,9 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 요로-신장, 요관, 방광, 요도-의 세균 감염
+* 신장, 요관, 방광, 요도 등 요로의 세균 감염
 * 분류 : 신우신염, 방광염, 전립선염, 요도염, 무증상 세균뇨
-* 발생률 : 연간 여성의 12.6%, 남성의 3%에서 발생; 재발 또는 재감염이 흔함 (☞ [재발](113_-urinary-tract-infection.md#uti-3))
+* 발생률 : 연간 여성의 12.6%, 남성의 3%에서 발생; 재발·재감염이 흔함 (☞ [재발](113_-urinary-tract-infection.md#uti-3))
   * 전체 여성의 ½이 일생 동안 1회 이상의 UTI를 경험
 
 ### <mark style="color:orange;">전통적 분류</mark>
@@ -15,24 +15,21 @@
 * Asymptomatic bacteriuria(ASB) : 요로 감염을 시사하는 증상 없이 유의한 세균뇨가 존재하는 상태; 농뇨가 동반될 수도 있으나 진단 기준은 아님
 
 {% hint style="info" %}
-**EAU 2025\~2026 새로운 UTI 분류 체계**\
-EAU(European Association of Urology) 요로 감염 지침은 2025년부터 "uncomplicated/complicated" 대신 임상 징후 중심의 "localized(국소형)/systemic(전신형)" UTI 분류를 도입함; 전신 감염 징후(발열, 오한, 옆구리 통증, 전신 증상) 유무로 치료 강도를 결정하는 것이 핵심 취지임. 다만 1차 진료 현장에서는 전통적 분류가 여전히 널리 쓰이고 있어, 본 챕터는 전통적 분류를 기본으로 서술하되 두 체계가 병존하고 있음을 참고할 것
+**EAU 2025\~2026 새로운 UTI 분류 체계** : European Association of Urology 요로 감염 지침은 2025년부터 "uncomplicated/complicated" 대신 임상 징후 중심의 "localized(국소형)/systemic(전신형)" UTI 분류를 도입함; 전신 감염 징후(발열, 오한, 옆구리 통증, 전신 증상) 유무로 치료 강도를 결정하는 것이 핵심 취지임. 다만 1차 진료 현장에서는 전통적 분류가 여전히 널리 쓰이고 있어, 본 챕터는 전통적 분류를 기본으로 서술하였음
 {% endhint %}
 
-***
-
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:green;">원인</mark>
 
 * 감염 경로 : 회음부 분변 균주의 상향 이동(대부분), 혈행성(간혹)
-* 원인균 : E. coli(uncomplicated cystitis의 80% 차지), S. saprophyticus, Klebsiella, Proteus, Enterobacter, Pseudomonas, Candida(장기간 도뇨관 유치, 면역 저하, 광범위 항생제 사용, 병원 내 감염에서 흔함)
+* 원인균 : _E. coli_(uncomplicated cystitis의 80% 차지), _S. saprophyticus_, _Klebsiella_, _Proteus_, _Enterobacter_, _Pseudomonas_, _Candida_(장기간 도뇨관 유치, 면역 저하, 광범위 항생제 사용, 병원 내 감염에서 흔함)
 
 ### <mark style="color:orange;">위험 인자</mark>
 
-* UTI 과거력(특히 15세 이전 발생)
+* UTI 과거력 (특히 15세 이전 발생)
 * 요로 감염 가족력
-* 여성, 임신, estrogen 결핍(폐경)
+* 여성, 임신, estrogen 결핍 (폐경)
 * ＞50세인 남성
-* 수분 섭취 부족(특히 재발성 UTI)
+* 수분 섭취 부족 (특히 재발성 UTI)
 * 당뇨병, 비만, 면역 저하
 * 최근 항생제 사용
 * 도뇨관 유치, 최근 비뇨기계 수술 병력
@@ -48,16 +45,12 @@ EAU(European Association of Urology) 요로 감염 지침은 2025년부터 "unco
 * 당뇨병 등 대사 질환 동반
 * 요로의 해부학적 또는 기능적 이상. 예) 결석, 스텐트, 도뇨관 유치, 신경원성 방광, 다낭신장병
 
-***
-
 ## <mark style="color:green;">임상 양상</mark>
 
 * 상부 UTI : 발열/늑골 척추각 압통
 * 하부 UTI : 배뇨통, 빈뇨, 치골 상부 압통, 절박뇨, 혈뇨; 잔뇨감, 야뇨, 요실금, 요도 통증, 하복부 통증, 요통, 성교통
 * 혈뇨, 소변 악취
-* 인지 장애가 있는 환자들은 증상 호소가 정확하지 않을 수 있음을 주의; 고령자에서는 국소 증상 없이 섬망·전신 쇠약만으로 나타날 수 있음(☞ 고령자에서의 UTI 참조)
-
-***
+* 인지 장애가 있는 환자들은 증상 호소가 정확하지 않을 수 있음을 주의; 고령자에서는 국소 증상 없이 섬망·전신 쇠약만으로 나타날 수 있음(☞ 고령자에서의 UTI)
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
