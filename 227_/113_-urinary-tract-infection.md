@@ -113,36 +113,41 @@
 
 ```mermaid
 graph TD
-    A["요로 증상 및 징후 - 비임신 여성, ＜65세"] --> B["질 분비물·요도염-성관계 후·STI 병력·폐경비뇨생식증후군 확인"]
+    A["요로 증상 및 징후 - <br/>비임신 여성, ＜65세"] --> 
+B["질 분비물·요도염-성관계 후·<br/>STI 병력·폐경비뇨생식증후군"]
     B -->|해당 있음| B1["관련 질환에 따라 관리"]
-    B -->|없음| C["패혈증 또는 신우신염 의심 징후"]
-    C -->|있음| C1["신우신염/패혈증 고려 - 배양 후 즉시 항생제, 중증 시 의뢰"]
-    C -->|없음| D["전형 증상 개수 확인 - 배뇨통·새로 발생한 야뇨·혼탁뇨"]
-    D --> E["2~3개 해당 - UTI likely"]
+    B -->|없음| C["패혈증 또는 신우신염 <br/>의심 징후"]
+    C -->|있음| C1["신우신염/패혈증 고려 - <br/>배양 후 즉시 항생제, <br/>중증 시 의뢰"]
+    C -->|없음| D["전형 증상 확인- ’배뇨통’, <br/>‘새로 발생한 야뇨’, ‘혼탁뇨’"]
+    D --> E["2~3개 해당 <br/>→ UTI likely"]
     D --> F["1개 또는 0개 해당"]
-    F --> G["추가 증상 확인 - 절박뇨·빈뇨·육안혈뇨·치골 상부 압통"]
-    G -->|없음| H["UTI less likely - 다른 진단 고려"]
+    F --> G["추가 증상 확인 - 절박뇨·빈뇨·<br/>육안혈뇨·치골 상부 압통"]
+    G -->|없음| H["UTI less likely <br/>→ 다른 진단 고려"]
     G -->|있음| I["소변 시험지봉 검사"]
-    I --> J["nitrite 양성 또는 WBC·RBC 동시 양성 - UTI likely"]
-    I --> K["nitrite 음성, WBC 양성 - UTI 가능성 1/2, 재검 및 배양"]
-    I --> L["모두 음성 - UTI less likely"]
-    E --> M["항생제 내성 위험 시 배양 검사, 경증은 관찰 또는 항생제 고려"]
+    I --> J["nitrite (+) 또는 <br/>WBC·RBC 동시 (+)<br/>→ UTI likely"]
+    I --> K["nitrite (-), WBC (+) <br/>→ UTI 가능성 50%, <br/>재검 및 배양"]
+    I --> L["모두 (-) →<br/>UTI less likely"]
+    E --> M["항생제 내성 위험 시 배양 검사, <br/>경증은 관찰 또는 항생제 고려"]
     J --> M
-    K --> N["증상에 따라 항생제 고려"]
-    M --> O["모든 환자에게 요로 감염 예방 자가 관리 교육"]
+    K --> N["증상에 따라 <br/>항생제 고려"]
+    M --> O["모든 환자에게 요로 감염 예방<br/> 자가 관리 교육"]
     H --> O
     L --> O
     N --> O
 
-    style C1 fill:#ffebee,stroke:#c62828,stroke-width:2px
-    style D fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style F fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style G fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style I fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    style E fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style J fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style H fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style L fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,C,D,G yellow
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class I lightGreen
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class B1,O blue
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class C1 pink
+classDef orange fill:#fdebd0,stroke:#e67e22
+class E,H,J,K,L orange
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class N,M sky
 ```
 
 <p align="center"><strong>UTI가 의심되는 ＜65세, 비임신 여성에서의 진단 및 관리 알고리듬</strong></p>
