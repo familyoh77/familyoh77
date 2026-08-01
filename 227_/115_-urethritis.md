@@ -2,49 +2,50 @@
 
 ![image](../.gitbook/assets/14a68985-1719-41ee-a8a9-cc0c8c514b12.JPG)
 
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
 * 요도의 감염성(보다 흔함) 또는 비-감염성 염증
 * 보통 균 노출 1\~3주 후 증상 발생; 임질은 1주 내 증상 발생
+* 분류 : 임균성 요도염(gonococcal urethritis, GU), 비임균성 요도염(nongonococcal urethritis, NGU)
 
-#### Chlamydia
+#### <mark style="color:$primary;">Chlamydia 감염</mark>
 
 * 세균성 STI(성매개감염) 중 가장 흔함
 * 전염 경로 : 성관계, 질식 분만 수직 감염
 * 대부분 무증상(특히 여성에서)으로 진단 받지 않은 감염자들이 적지 않을 것으로 사료됨
 * 유병률 : 0.5%(미국); 여성, 20\~24세에서 높음
-*   유발 질환 : \[여성] 자궁경부염, 요도중후군, 자궁내막염, PID → 자궁외임신, 불임, 만성골반통; \[남성] 부고환염, 전립선염;
+*   유발 질환 : \[여성] 자궁경부염, 요도증후군, 자궁내막염, PID → 자궁외임신, 불임, 만성골반통; \[남성] 부고환염, 전립선염;
 
     \[신생아] 결막염, 폐렴
 
-#### 여성요도증후군 (Female urethral syndrome)
+#### <mark style="color:$primary;">여성 요도증후군 (Female urethral syndrome)</mark>
 
 * 비뇨기계 감염 또는 확인된 이상 없이 빈뇨, 배뇨통, 잔뇨감 등 전형적인 하부 요로 감염에서와 같은 증상이 발생하는 증후군
 * 원인 : 불명; 호르몬 불균형, Skene gland 염증, 음식, 환경 자극(예: 뒷물, 거품 목욕), 요로 감염 후 과민 등 추정
 * 종종 악화와 완화가 반복되어 비뇨기계 증상 뿐 아니라 불안 등의 심리적 증상을 초래함
 
-## 원인
+## <mark style="color:green;">원인</mark>
 
-#### 감염성
+#### <mark style="color:$primary;">감염성</mark>
 
-* 임균 : N. gonorrhoeae (☞ p.636)
+* 임균 : N. gonorrhoeae (☞ 임질 챕터 참조)
 *   비-임균 : Chlamydia trachomatis (가장 흔함), Mycoplasma genitalium (지속/재발 NGU의 가장 흔한 원인),
 
-    Trichomonas vaginalis , Candida
+    Trichomonas vaginalis, Candida
 
-#### 비-감염성
+#### <mark style="color:$primary;">비-감염성</mark>
 
 * 화학적 자극 : 비누, 샴푸, 질 세척, 살정자제
 * 이물, 요도 기구
 
-### 위험 인자
+#### <mark style="color:$primary;">위험 인자</mark>
 
 * 불결한 성관계, 다수의 성 파트너
 * 성 매개 질환 병력
 * 부적절한 콘돔 사용
 * 여성, 동성애자 남성
 
-## 임상 양상
+## <mark style="color:green;">임상 양상</mark>
 
 * 흔히 무증상(남 \~40%, 여 \~75%)
 * 점진적 진행 : 7일 이상 된 증상은 방광염보다 요도염의 가능성이 높음
@@ -54,22 +55,43 @@
 * 혈뇨
 * 여성에서는 질염 증상이 동반될 수 있음
 
-## 진단
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-### 진단 기준
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+
+* 고열, 오한, 옆구리 통증 동반 → 상행 요로 감염(신우신염) 의심 → 응급 평가
+* 발열, 이동성 다발관절통, 건초염, 농포성 피부 병변 동반 → 파종성 임균 감염(disseminated gonococcal infection, DGI) 의심 → 응급 평가 및 입원 고려
+* 급성 음낭통·부종과 함께 고환 거상, cremasteric reflex 소실 → 고환 염전(testicular torsion) 감별 필요 → 즉시 비뇨의학과 응급 의뢰
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 음낭통·압통·부종(발열 없거나 경미) → 급성 부고환염 의심 → 비뇨의학과 당일 평가
+* 하복부 통증을 동반한 여성(본인 또는 파트너) → 골반염(PID) 의심 → 당일 산부인과 평가
+* 임신부 또는 임신 가능성이 있는 여성 파트너 노출 → 조기 검사 및 치료
+* 요도 협착·이물 등 해부학적 이상이 의심되는 경우 → urethrocystoscopy를 위한 비뇨의학과 의뢰
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+
+* 적절한 1차 치료 후에도 7일 이상 증상 지속 또는 재발 → 재감염/재노출, M. genitalium, T. vaginalis 감별
+* 파트너의 불완전한 치료 또는 재노출 병력
+* 반복적 요도염으로 만성 전립선염 등 기능적 원인 감별이 필요한 경우
+
+## <mark style="color:green;">진단</mark>
+
+### <mark style="color:orange;">진단 기준</mark>
 
 * 점액 농성 또는 농성 요도 분비물
 * urethral swab 그람염색 : WBC ≥2/HPF
 * 아침 첫 소변 WBC ≥10/HPF 또는 leukocyte esterase(+)
 
-### 추가 검사
+### <mark style="color:orange;">추가 검사</mark>
 
 * 배양 검사
 * 분비물/소변에 대한 NAAT(nucleic acid amplification test; PCR, TMA)
 * 다른 성매개질환에 대하여 검사 : 매독, HIV, HBV, HCV
 * urethrocystoscopy : 이물, 요도 협착 의심 시 고려
 
-### STI 선별 검사 대상
+### <mark style="color:orange;">STI 선별 검사 대상</mark>
 
 * 모든 성인(청소년 포함) : HIV
 *   성관계를 하는 ＜26세 여성, 새로운 또는 복수의 성 파트너가 있거나 콘돔을 사용하지 않은 ≥26세 여성 :
@@ -77,85 +99,56 @@
     매년 Gonorrhea 및 Chlamydia
 * 일정하지 않은 파트너 또는 복수의 파트너가 있는 남녀 : HBV
 * 요도염이 있는 모든 남성 : Gonorrhea 및 Chlamydia
-* 1945년\~1965년 사이에 태어난 모든 사람, C형 감염자와 성관계한 모든 사람 : HCV
-* 임신부 : 매독, Chlamydia , HIV, HBV
-* 동성애 남성 : 1년에 1회 이상 HAV, HBV, HCV, HIV, 매독, Chlamydia , Gonorrhea
-* HIV 감염자 : A, B, C형간염; 1년에 1회 이상 매독, Chlamydia , Gonorrhea
+* 모든 성인(18세 이상) : 평생 1회 HCV 선별검사(CDC 2020); 위험 인자(정맥 마약 사용, 투석, HIV 감염 등)가 있으면 반복 검사
+* 임신부 : 매독, Chlamydia, HIV, HBV
+* 동성애 남성 : 1년에 1회 이상 HAV, HBV, HCV, HIV, 매독, Chlamydia, Gonorrhea
+* HIV 감염자 : A, B, C형간염; 1년에 1회 이상 매독, Chlamydia, Gonorrhea
 * HIV 감염 여성 : 1년에 1회 이상 trichomonas
 * HIV 감염 남성과 성관계를 가진 남자 : 1년에 1회 이상 HCV
 
-### 감별
+### <mark style="color:orange;">감별 진단</mark>
 
-* 남성에서 증상은 지속되나 요도 감염의 증거가 없는 경우 → 만성 전립선염
-* 여성에서 배뇨통은 있으나 농뇨가 없는 경우 → 질염
-* 검사상 요도염의 증거는 없고 증상만 지속 또는 재발하는 경우 → 기능적 문제
-* 배뇨 곤란 증상만 존재 → Chlamydia
-* 통증성 생식기 궤양 → HSV
+* 흔한 배뇨통·요도 증상의 감별
+
+<table><thead><tr><th width="260">임상 상황</th><th>시사 질환</th></tr></thead><tbody><tr><td>남성에서 증상은 지속되나 요도 감염의 증거가 없는 경우</td><td>만성 전립선염</td></tr><tr><td>여성에서 배뇨통은 있으나 농뇨가 없는 경우</td><td>질염</td></tr><tr><td>검사상 요도염의 증거는 없고 증상만 지속 또는 재발하는 경우</td><td>기능적 문제(여성 요도증후군 등)</td></tr><tr><td>배뇨 곤란 증상만 존재</td><td>Chlamydia 감염 우선 고려</td></tr><tr><td>통증성 생식기 궤양 동반</td><td>HSV 감염</td></tr></tbody></table>
 
 ***
 
-## Management
+## <mark style="background-color:$warning;">Management</mark>
 
-### 치료 방침
+{% hint style="info" %}
+**단계별 치료 전략**
+{% endhint %}
+
+| 단계 | 핵심 치료 | 대상 |
+| --- | --- | --- |
+| Step 1 | 임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음) | 진단 기준을 충족하는 모든 환자 |
+| Step 2 | NAAT 결과에 따라 표적 항생제로 조정 | 검사 결과 확인된 환자 |
+| Step 3 | 7일 이상 증상 지속/재발 시 M. genitalium, T. vaginalis 평가 | 초치료 실패 환자 |
+
+### <mark style="color:orange;">치료 방침</mark>
 
 * 성관계 파트너 검사 : 증상 발생 또는 진단 60일 이내 관계한 성 파트너에 대하여 평가
-* 성관계 금지 : 1회 요법제 복용 후 7일간 또는 7일 요법제 복용 완료까지
+* 성관계 금지 : 1회 요법제 복용 후 7일간 또는 7일 요법제 복용 완료까지, 그리고 모든 파트너의 치료가 끝날 때까지
 *   항생제 치료 : 임균 감염이 배제되지 않거나 추적 평가를 할 수 없는 상태의 감염 또는 고위험 남성에서는
 
     Chlamydia 및 Gonorrhea 모두에 해당되는 약제 선택
-* 예방 (☞ p.625)
 
-## 약물 치료
+### <mark style="color:orange;">치료 후 모니터링</mark>
 
-#### 1차 선택제
-
-*   doxycycline : 100 ㎎ bid ×7d \[독시사이클린]
-
-    plus (임균 감염이 배제되지 않은 경우)
-* ceftriaxone : 500 ㎎ ×1회 IM \[트리악손]
-
-#### 대체제
-
-* azithromycin : 500 ㎎ ×1d & 250 ㎎ qd ×4d OR 1 g 1회 \[지스로맥스]; 임신 위험 category B, 수유 중 투여 가능
-* levofloxacin : 500 ㎎ qd ×7d \[크라비트]
-* ofloxacin : 300 ㎎ bid ×7d \[오플록사신]
-
-#### 재발성 및 지속성 요도염
-
-* doxycycline으로 치료 실패 → azithromycin 1 g ×1회 \[지스로맥스]
-*   M. genitalium
-
-    •macrolide sensitive : doxy. 100 ㎎ bid ×7d 이어서 azith. 1 g 1회 & 500 ㎎ qd ×3d
-
-    •macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d \[아벨록스]
-*   T. vaginalis 가 흔한 지역
-
-    •metronidazole : 2 g ×1회. 복용 중 금주 \[후라시닐]
-
-    •tinidazole : 2 g ×1회 \[티니다진]
-* 남성에서 불완전하게 치료했거나 치료하지 않은 파트너에 재노출 → 초치료법으로 재치료
-
-#### 여성 요도염, 요도증후군 (Urethritis & Urethral syndrome in women)
-
-* nitrofurantoin : 100 ㎎ bid ×5d
-* TMP/SMX : 160/800 ㎎ bid ×3d; 내성 가능성이 있거나 3개월 내 UTI 치료로 사용된 적이 있으면 피함 \[셉트린]
-* fosfomycin : 다른 제제에 비하여 효과 떨어짐; 3 g ×1회 \[모누롤]
-* pivmecillinam : 다른 제제에 비하여 효과 떨어짐; 400 ㎎ bid ×5d \[셀렉시드]
-
-## 모니터링
-
-* 치료 후 3주 이내에는 위양성 가능성이 있음
-* 완치 판정을 위한 일률적인 검사는 권하지 않음
+* 치료 후 3주 이내에는 NAAT 위양성 가능성이 있어 재검사를 권장하지 않음
+* 완치 판정을 위한 일률적인 test-of-cure는 권하지 않음
 * 다음의 경우 치료 3\~4주 후 추적 검사 : 임신, 증상 지속, 불완전한 치료, 재감염 의심
-* 다음의 경우 치료 3개월 후에 추적 검사 : STI(Chlamydia, Gonorrhea )
+* 다음의 경우 test-of-cure를 권고(CDC 2021) : 인두 임균 감염 전체, azithromycin으로 치료한 직장 클라미디아 감염
+* Chlamydia, Gonorrhea 감염자는 재감염 여부 확인을 위해 치료 3개월 후 재검사 권고
 
-### 지속 또는 재발성 non-gonococcal urethritis(NGU)
+#### <mark style="color:$primary;">지속 또는 재발성 non-gonococcal urethritis(NGU)</mark>
 
-* M. genitalium 에 대한 NAAT 검사 및 macrolide 저항성 검사 고려
-* 유행 지역이라면 Trichomonas vaginalis 에 대한 NAAT 검사 고려
+* M. genitalium에 대한 NAAT 검사 및 macrolide 저항성 검사 고려
+* 유행 지역이라면 Trichomonas vaginalis에 대한 NAAT 검사 고려
 * 요도염에 대한 명확한 증상 또는 증거가 있는 경우에만 치료
 
-
+***
 
 ```mermaid
 flowchart TD
@@ -192,38 +185,184 @@ flowchart TD
     class G,I,K blue;
 ```
 
-<p align="center"><strong>Evaluation of patients with persistent urethritis symptoms after initial treatment</strong><br><em><mark style="color:$info;">Ref. AFP 2021;103(9) Fig. 1</mark></em></p>
+<p align="center"><strong>초치료 후 지속되는 요도염 증상의 평가</strong></p>
 
+<p align="center"><em><mark style="color:$info;">Ref. AFP 2021;103(9) Fig. 1</mark></em></p>
 
+***
 
-### 질병코드
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-N34　요도염 및 요도증후군
+* 성 파트너 검사 및 치료 : 증상 발생 또는 진단 60일 이내 성 파트너 평가 및 경험적 치료(expedited partner therapy 고려)
+* 콘돔의 일관되고 올바른 사용 : 재감염 위험을 크게 낮춤
+* 화학적 자극 원인(비누, 질 세척, 살정자제 등) 회피 — 비감염성 요도염/여성 요도증후군에서 특히 중요
+* 모든 성인에서 HIV 선별검사 권고; 고위험군에서는 매독, B형/C형간염 동반 검사
 
-A54　임균감염
+{% hint style="info" %}
+**Doxycycline 노출 후 예방요법 (Doxy-PEP, CDC 2024)**\
+최근 12개월 내 세균성 STI(매독, 클라미디아, 임질) 진단 병력이 있는 남성 동성애자(MSM) 및 트랜스젠더 여성(TGW)에서, 콘돔 없는 성관계 후 72시간 이내 doxycycline 200 ㎎ 1회 복용(24시간 내 200 ㎎ 초과 금지)이 매독·클라미디아 감염을 70% 이상, 임질 감염을 약 50% 감소시킴이 확인됨. 상담을 통한 공유 의사결정 후 처방을 고려하며, 처방 시 3\~6개월마다 노출 부위 STI 재평가가 필요함\
+✽국내 가이드라인에는 아직 정식 반영되지 않았으며, 항생제 내성 확산 우려가 있어 대상군 선정에 신중을 기할 것
+{% endhint %}
 
-A64　상세불명의 성매개질환
+***
 
-A56　 기타 성행위로 전파되는 클라미디아질환
+## <mark style="color:green;">약물 치료</mark>
 
+### <mark style="color:orange;">1차 선택제</mark>
 
+*   doxycycline : 100 ㎎ bid ×7d \[독시사이클린]
 
-## 처방례
+    plus (임균 감염이 배제되지 않은 경우)
+* ceftriaxone : 500 ㎎ ×1회 IM \[트리악손] ; 체중 ≥150 ㎏인 경우 1 g으로 증량(CDC 2021)
 
-처방례 1. 비-임균성 요도염\
-독시사이클린 100 ㎎/C 2C #2 ×7d\
-부루펜 200 ㎎/T 6T #3 (불편 증상 시)
+### <mark style="color:orange;">대체제</mark>
 
-\
-처방례 2. 미확정 요도염\
-트리악손 주 250 ㎎ IM 1회\
-지스로맥스 250 ㎎/T 4T 1회
+* azithromycin : 500 ㎎ ×1d & 250 ㎎ qd ×4d OR 1 g 1회 \[지스로맥스]; 임신 위험 category B, 수유 중 투여 가능; doxycycline 대비 치료 실패 및 내성 보고 증가로 chlamydia 1차 선택에서 제외됨(CDC 2021)
+* levofloxacin : 500 ㎎ qd ×7d \[크라비트]
+* ofloxacin : 300 ㎎ bid ×7d \[오플록사신]
 
-\
-처방례 3. 재발성 및 지속성 요도염\
-후라시닐 250 ㎎/T 8T #1\~2 ×1d\
-지스로맥스 250 ㎎/T 4T 1회<br>
+### <mark style="color:orange;">재발성 및 지속성 요도염</mark>
 
-처방례 4. 여성 요도염\
-셉트린 80/400 ㎎ 4T #2 ×3d\
-부루펜 200 ㎎/T 6T #3 (불편 증상 시)
+* doxycycline으로 치료 실패 → azithromycin 1 g ×1회 \[지스로맥스]
+*   M. genitalium
+
+    •macrolide sensitive : doxy. 100 ㎎ bid ×7d 이어서 azith. 1 g 1회 & 500 ㎎ qd ×3d
+
+    •macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d \[아벨록스]
+*   T. vaginalis가 흔한 지역
+
+    •metronidazole : 2 g ×1회. 복용 중 금주 \[후라시닐]
+
+    •tinidazole : 2 g ×1회 \[티니다진]
+* 남성에서 불완전하게 치료했거나 치료하지 않은 파트너에 재노출 → 초치료법으로 재치료
+
+### <mark style="color:orange;">여성 요도염, 요도증후군 (Urethritis & Urethral syndrome in women)</mark>
+
+* nitrofurantoin : 100 ㎎ bid ×5d
+* TMP/SMX : 160/800 ㎎ bid ×3d; 내성 가능성이 있거나 3개월 내 UTI 치료로 사용된 적이 있으면 피함 \[셉트린]
+* fosfomycin : 다른 제제에 비하여 효과 떨어짐; 3 g ×1회 \[모누롤]
+* pivmecillinam : 다른 제제에 비하여 효과 떨어짐; 400 ㎎ bid ×5d \[셀렉시드]
+
+***
+
+### <mark style="color:red;">질병코드</mark>
+
+N34.1 비특이성 요도염
+
+A56.0 하부 비뇨생식기관의 클라미디아 감염
+
+A54.0 요도주위 및 부속선 농양을 동반하지 않은 하부 비뇨생식기관의 임균 감염
+
+A59.0 비뇨생식기 트리코모나스증
+
+A64 상세불명의 성매개질환
+
+***
+
+## <mark style="color:purple;">처방례</mark>
+
+> **처방례 1. 비-임균성 요도염**
+>
+> ```
+> 독시사이클린 100 ㎎/C  2C  #2 ×7d
+> 부루펜 200 ㎎/T  6T  #3  (불편 증상 시)
+> ```
+>
+> _✽Chlamydia 등 비임균성 원인에 대한 1차 선택제. 복용 완료까지 성관계 금지_
+
+> **처방례 2. 미확정 요도염 (임균 감염이 배제되지 않은 경우)**
+>
+> ```
+> 트리악손 주 500 ㎎  IM  1회
+> 독시사이클린 100 ㎎/C  2C  #2 ×7d  (Chlamydia 동반이 배제되지 않은 경우)
+> ```
+>
+> _✽2021년 CDC 개정 이후 임균 감염에 azithromycin을 통상적으로 병용하지 않으며, ceftriaxone 단독 500 ㎎(체중 ≥150 ㎏이면 1 g)이 표준 용량임. Chlamydia 동반이 배제되지 않으면 doxycycline을 병용_
+
+> **처방례 3. 재발성 및 지속성 요도염 (T. vaginalis 의심)**
+>
+> ```
+> 후라시닐 250 ㎎/T  8T  #1~2 ×1d
+> 지스로맥스 250 ㎎/T  4T  1회
+> ```
+>
+> _✽metronidazole 2 g 1회(후라시닐 8T 분1\~2)로 T. vaginalis 치료; doxycycline 치료 실패 후 재치료 시 azithromycin 1 g 1회 병용. metronidazole 복용 중·복용 후 최소 24시간 금주_
+
+> **처방례 4. 여성 요도염 / 요도증후군**
+>
+> ```
+> 셉트린 80/400 ㎎  4T  #2 ×3d
+> 부루펜 200 ㎎/T  6T  #3  (불편 증상 시)
+> ```
+>
+> _✽TMP/SMX 내성 가능성이 있거나 최근 3개월 내 UTI 치료로 사용한 경우 회피; 원인균 미확인 시 nitrofurantoin 고려_
+
+> **처방례 5. 지속성 요도염 (M. genitalium, macrolide 감수성 확인/추정)**
+>
+> ```
+> 독시사이클린 100 ㎎/C  2C  #2 ×7d  선행 투여
+> 지스로맥스 250 ㎎/T  4T  1회, 이후 250 ㎎/T  2T  #1 ×3d
+> ```
+>
+> _✽doxycycline 7일 선행 투여 후 azithromycin 1 g 1회 + 500 ㎎ qd ×3일 확장 요법이 단회 1 g 요법보다 치료 실패율을 낮춤(CDC 2021)_
+
+***
+
+### <mark style="color:$success;">핵심 복약 지도</mark>
+
+> **항생제 복용 및 성관계 제한**
+>
+> * 처방된 항생제는 증상이 빨리 좋아지더라도 처방된 기간까지 빠짐없이 복용하십시오.
+> * 1회 요법제(예: 트리악손 주사, 지스로맥스 1 g)는 복용 후 7일간, 7일 요법제(예: 독시사이클린)는 복용을 모두 마칠 때까지 성관계를 금지하십시오.
+> * 최근 60일 이내 성 파트너도 함께 검사·치료받아야 재감염을 막을 수 있습니다.
+
+> **doxycycline 복용 시 주의사항**
+>
+> * 유제품·제산제·철분제와는 2시간 이상 간격을 두고 복용하십시오(흡수 저하 가능).
+> * 복용 직후 눕지 말고 충분한 물과 함께 복용하십시오(식도 자극·궤양 예방).
+> * 복용 기간 중 광과민 반응이 있을 수 있어 과도한 자외선 노출을 피하십시오.
+
+> **metronidazole/tinidazole 복용 시 주의사항**
+>
+> * 복용 중 및 복용 후 최소 24시간(tinidazole은 72시간) 금주하십시오(disulfiram-like 반응 위험).
+
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 항생제 복용 완료 후에도 요도 분비물, 배뇨통이 지속되거나 재발하는 경우
+> * 고열, 심한 옆구리 통증, 음낭 통증·부종이 새로 발생하는 경우 — 즉시 내원
+> * 관절통, 피부 발진이 동반되는 경우 — 즉시 내원 (파종성 임균 감염 의심)
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**요도염, 성 파트너와 함께 치료해야 완치됩니다**
+
+요도염은 대부분 성 접촉으로 전염되는 세균 감염입니다. 본인뿐 아니라 최근 성 파트너도 함께 검사받고 치료해야 재감염을 막을 수 있습니다.
+{% endhint %}
+
+#### <mark style="color:$primary;">왜 요도염이 생기나요?</mark>
+
+* 대부분 성관계를 통해 옮는 세균(클라미디아, 임균 등)이 요도에 염증을 일으켜 발생합니다.
+* 비누, 세정제 등 화학적 자극으로도 감염 없이 비슷한 증상이 생길 수 있습니다.
+* 감염되어도 특히 여성에서는 증상이 없는 경우가 많아(약 75%), 본인도 모르게 파트너에게 옮길 수 있습니다.
+
+#### <mark style="color:$primary;">치료는 어떻게 하나요?</mark>
+
+* **처방받은 항생제를 증상이 없어져도 끝까지 복용하십시오.** 도중에 중단하면 균이 완전히 없어지지 않아 재발하거나 내성이 생길 수 있습니다.
+* **약을 모두 복용할 때까지(또는 1회 주사·복용 후 7일간) 성관계를 하지 마십시오.** 이 기간에 관계를 가지면 파트너에게 옮기거나 재감염될 수 있습니다.
+* **최근 성 파트너에게도 알리고 함께 검사·치료를 받으십시오.**
+
+#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+
+* 콘돔을 일관되고 올바르게 사용하면 재감염 위험을 크게 줄일 수 있습니다.
+* 비누, 질 세정제, 살정자제 등 자극이 될 수 있는 제품 사용을 줄이십시오.
+* 물을 충분히 마시고 배뇨를 참지 마십시오.
+
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+
+* 약을 다 먹었는데도 분비물이나 배뇨통이 계속되거나 다시 생기는 경우
+* 열이 나거나 옆구리, 아랫배가 심하게 아픈 경우
+* 고환이 붓고 아픈 경우
+* 관절이 아프거나 피부에 발진이 새로 생기는 경우
