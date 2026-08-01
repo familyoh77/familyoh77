@@ -31,24 +31,41 @@ _✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심�
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* nitrogen 대사 산물 축적 (GFR↓)
-* acidosis (ammonia 합성 감소, bicarbonate 재흡수 장애, acid 순 배설 감소)
-* Na 저류 (renin 과다 생성, 핍뇨) 또는 Na 소모 (Na diuresis, tubular damage)
-* 소변 농축 결손, 배뇨 횟수 변화 (핍뇨 or 다뇨), 야뇨, 혈뇨 (solute diuresis, tubular damage)
-* hyperkalemia (GFR 감소, 대사성 산증, K 과다 섭취, hyporeninemic hypoaldosteronism)
-* 신성 골형성장애 (25(OH)D 생성 장애, hyperphosphatemia, hypocalcemia, 2ndary hyperparathyroidism)
-* 쇠약 (열량 섭취 부족, renal osteodystrophy, 대사성 산증, 빈혈, 성장호르몬 저항성)
-* 빈혈 (erythropoietin 생성 감소, 철 결핍, 엽산 결핍, Vit B12 결핍, 적혈구 생존률 감소)
-* 출혈 경향, 점상 출혈 (혈소판 기능 결함)
-* 감염 (granulocyte 기능 결함, 세포 면역 기능 장애, 투석 카테터 유치)
-* 신경학적 증상 (예: 피로, 집중력/기억력 저하, 두통, 졸림, 발작, 말초신경병증, asterixis, claudication, restless legs)(요독증, Al 독성, 고혈압)
-* GI 증상 (예: feeding intolerance, 복통, 구역/구토)(위장관 운동 저하 및 요독증, 전해질 불균형, 산도 이상, 중독 물질 누적, 체액 과부하)
-* 고혈압, 부종, 호흡 곤란 (volume overload, renin 과다 생성)
-* 고지혈증 (plasma lipoprotein lipase 활성 감소)
-* 심낭염, 심근병증 (요독증, 고혈압, fluid overload)
-* 요독성 입 냄새 (uremic fetor), 쇠맛, 가려움 (요독증)
+**체액·전해질·산-염기 이상** - 가장 흔하며 임상적으로 우선 확인
+
+* Na 저류(renin 과다 생성, 핍뇨) 또는 Na 소모(Na diuresis, tubular damage)
+* 고혈압, 부종, 호흡 곤란(volume overload, renin 과다 생성)
+* hyperkalemia(GFR 감소, 대사성 산증, K 과다 섭취, hyporeninemic hypoaldosteronism)
+* acidosis(ammonia 합성 감소, bicarbonate 재흡수 장애, acid 순 배설 감소)
+* 소변 농축 결손, 배뇨 횟수 변화(핍뇨 or 다뇨), 야뇨, 혈뇨(solute diuresis, tubular damage)
+
+**요독증 및 전신 증상**
+
+* nitrogen 대사 산물 축적(GFR 감소)
+* 쇠약(열량 섭취 부족, renal osteodystrophy, 대사성 산증, 빈혈, 성장호르몬 저항성)
+* 요독성 입 냄새(uremic fetor), 쇠맛, 가려움(요독증)
+
+**혈액학적/심혈관계 이상**
+
+* 빈혈(erythropoietin 생성 감소, 철 결핍, 엽산 결핍, Vit B12 결핍, 적혈구 생존률 감소)
+* 출혈 경향, 점상 출혈(혈소판 기능 결함)
+* 감염(granulocyte 기능 결함, 세포 면역 기능 장애, 투석 카테터 유치)
+* 심낭염, 심근병증(요독증, 고혈압, fluid overload)
+
+**대사·내분비 이상**
+
+* 신성 골형성장애(25(OH)D 생성 장애, hyperphosphatemia, hypocalcemia, 2ndary hyperparathyroidism)
 * 당 불내성 및 인슐린 저항성
+* 고지혈증(plasma lipoprotein lipase 활성 감소)
+
+**신경·정신 증상**
+
+* 신경학적 증상(예: 피로, 집중력/기억력 저하, 두통, 졸림, 발작, 말초신경병증, asterixis, claudication, restless legs)(요독증, Al 독성, 고혈압)
 * 우울, 불안, 스트레스
+
+**소화기 증상**
+
+* GI 증상(예: feeding intolerance, 복통, 구역/구토)(위장관 운동 저하 및 요독증, 전해질 불균형, 산도 이상, 중독 물질 누적, 체액 과부하)
 
 ✽ Stage 1\~3에서는 뚜렷한 증상 없이 비특이적이거나 경미한 소견(예: A2 수준의 알부민뇨(중등도 증가), 경도의 혈압 상승)만 있는 경우가 많으며, 위 증상들은 대개 stage 4\~5에서 뚜렷해짐 - 선별 검사 없이는 진행 후에야 발견되는 경우가 많음
 
@@ -122,11 +139,11 @@ _\*임의뇨 Prot/Cr ratio (㎎/g)_
 
 * 모든 CKD 환자에서 혈압, eGFR, 단백뇨 추적 관찰
 * Stage 1, 2에서는 CKD 원인 질환 조절 및 악화 요인 감시; stage 3 이후부터는 빈혈, 골대사(부갑상선호르몬, 칼슘, 인), 전해질 이상, 이상지질혈증 및 심혈관계 질환 등 합병증 관찰
-* 아래 표는 G 병기(eGFR) 기준이며, KDIGO의 CGA 분류에서는 A 병기(알부민뇨)도 함께 고려 - 같은 G 병기라도 알부민뇨가 많을수록(A2, A3) 더 자주 추적함(☞ 위 예후 heat map 참조)
+* 아래 표는 G 병기(eGFR) 기준이며, KDIGO의 CGA 분류에서는 A 병기(알부민뇨)도 함께 고려 - 같은 G 병기라도 알부민뇨가 많을수록(A2, A3) 더 자주 추적함
 
 #### <mark style="color:$primary;">CKD 단계 및 eGFR 측정 간격</mark>
 
-<table><thead><tr><th width="70">Stage</th><th width="123.33331298828125">eGFR</th><th width="146.66668701171875">설명</th><th width="253.3333740234375">치료 계획</th><th>측정 간격</th></tr></thead><tbody><tr><td>1</td><td>≥90</td><td>정상 또는 높음</td><td>동반 질환 치료, 심혈관 질환 및 위험 인자 관리</td><td>매년</td></tr><tr><td>2</td><td>60~89</td><td>경도 감소</td><td>진행 정도 검사</td><td>매년</td></tr><tr><td>3a</td><td>45~59</td><td>경도~중등도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>3b</td><td>30~44</td><td>중등도~고도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>4</td><td>15~29</td><td>고도 감소</td><td>신장 대체 요법 준비</td><td>1~3개월</td></tr><tr><td>5</td><td>＜15 (or 투석)</td><td>신부전</td><td>신장 대체 요법(요독 증상 발생 시)</td><td>6주</td></tr></tbody></table>
+<table><thead><tr><th width="80.4761962890625">Stage</th><th width="123.33331298828125">eGFR</th><th width="146.66668701171875">설명</th><th width="253.3333740234375">치료 계획</th><th>측정 간격</th></tr></thead><tbody><tr><td>1</td><td>≥90</td><td>정상 또는 높음</td><td>동반 질환 치료, 심혈관 질환 및 위험 인자 관리</td><td>매년</td></tr><tr><td>2</td><td>60~89</td><td>경도 감소</td><td>진행 정도 검사</td><td>매년</td></tr><tr><td>3a</td><td>45~59</td><td>경도~중등도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>3b</td><td>30~44</td><td>중등도~고도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>4</td><td>15~29</td><td>고도 감소</td><td>신장 대체 요법 준비</td><td>1~3개월</td></tr><tr><td>5</td><td>＜15 (or 투석)</td><td>신부전</td><td>신장 대체 요법(요독 증상 발생 시)</td><td>6주</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. KDOQI Guidelines, 2017;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
@@ -231,7 +248,7 @@ style F fill:#ffcdd2,stroke:#c62828
 
 ## <mark style="color:green;">약물 치료 및 상황에 따른 대처</mark>
 
-#### <mark style="color:$primary;">혈압 및 단백뇨 - RAAS 차단제</mark>
+#### <mark style="color:$primary;">RAAS 차단제 - 고혈압, 단백뇨</mark>&#x20;
 
 * 목표 혈압 : 내약 시 표준화된 진료실 혈압 측정 기준 수축기 혈압 ＜120 ㎜Hg 목표; 노쇠, 낙상 위험, 기대여명이 짧은 경우 등은 완화된 목표 적용 \[KDIGO]
   * "표준화된 진료실 혈압 측정"이란 환자가 진료실에서 5분 이상 안정을 취한 뒤 자동혈압계로 측정한 값을 의미하며, 일상 진료에서 흔히 재는 수동 혈압(전통적 기준 130/80 ㎜Hg에 해당)보다 낮게 측정되는 경향이 있어 단순 비교 시 혼란이 있을 수 있음 (☞ [혈압측정법](../225_/095_-hypertension.md#undefined-8))
@@ -245,7 +262,7 @@ style F fill:#ffcdd2,stroke:#c62828
   * loop diuretics : eGFR ＜30 시 권고
 * (non-DHP) [CCB ](../225_/095_-hypertension.md#calcium-channel-blocker-ccb): 혈압이 조절되지 않는 경우, 지속적인 s-Cr 상승이 있는 경우 고려
 
-#### <mark style="color:$primary;">SGLT2 억제제 - 병인과 무관한 신장 보호</mark>
+#### <mark style="color:$primary;">SGLT2 억제제  - 신장 보호</mark>
 
 * dapagliflozin, empagliflozin : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과 (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
 * KDIGO 2024는 개별 약제보다 계열 효과(class effect)로 접근할 것을 권고
@@ -270,10 +287,10 @@ style F fill:#ffcdd2,stroke:#c62828
 #### <mark style="color:$primary;">고칼륨혈증 관리</mark>
 
 * K, P : 정상 범위 유지
-* 저칼륨 식이, 이뇨제 조정이 1차 조치이나, RAAS 차단제·SGLT2 억제제·비스테로이드성 MRA 등 신장 보호 약물을 고칼륨혈증을 이유로 감량·중단하기보다 칼륨 결합제 병용으로 최적 용량을 유지하는 전략이 권고됨 \[KDIGO 2024; 대한신장학회 2025 고혈압·콩팥병 진료지침]
+* 저칼륨 식이, 이뇨제 조정이 1차 조치이지만 RAAS 차단제·SGLT2 억제제·비스테로이드성 MRA 등 신장 보호 약물을 고칼륨혈증을 이유로 감량·중단하기보다 칼륨 결합제 병용으로 최적 용량을 유지하는 전략이 권고됨 \[KDIGO 2024; 대한신장학회 2025 고혈압·콩팥병 진료지침]
 * 칼륨 결합제
-  * polystyrene sulfonate calcium : 국내에서 오래 사용되어 온 1차 선택; 경구 또는 직장 투여 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">카리메트</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0720A0460)<mark style="color:blue;">]</mark>
-  * sodium zirconium cyclosilicate(SZC) : 국내 신규 도입(2025년); 만성 관리 목적(RAAS 차단제 유지)에 우선 고려 가능하나 효과 발현까지 다소 시간이 걸려, 생명을 위협하는 급성 고칼륨혈증에는 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 병용해야 함 \[KDIGO] <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로켈마</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2025120100002)<mark style="color:blue;">]</mark>
+  * polystyrene sulfonate calcium : 오래 사용되어 온 1차 선택제; 경구 또는 직장 투여 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">카리메트</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0720A0460)<mark style="color:blue;">]</mark>
+  * sodium zirconium cyclosilicate(SZC) : 국내 2025년 도입; 만성 관리 목적(RAAS 차단제 유지)에 우선 고려 가능하나 효과 발현까지 다소 시간이 걸려, 생명을 위협하는 급성 고칼륨혈증에는 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 병용해야 함 \[KDIGO] <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로켈마</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2025120100002)<mark style="color:blue;">]</mark>
 
 #### <mark style="color:$primary;">신성 빈혈</mark>
 
@@ -395,7 +412,7 @@ style F fill:#ffcdd2,stroke:#c62828
 * 요독증 (및 이식 환자의 면역억제)으로 결핵 등 만성 감염 위험이 일반인보다 높음 - 의심 소견 시 적극적으로 검사
 * 동반되는 탈수·급성 신손상 위험에 대해서는 아래 "감염" 항목의 sick-day 원칙을 함께 참조
 
-<mark style="color:cyan;">**감염 (피부 감염 포함)**</mark>
+<mark style="color:cyan;">**감염 / 피부 감염**</mark>
 
 * 항생제는 신기능(eGFR) 및 투석 여부에 맞게 용량·투여 시점을 조정 - aminoglycoside는 가능하면 회피, vancomycin은 혈중 농도(TDM) 모니터링 하에 용량·간격 조정
 * 피부·요로·호흡기 감염 모두 탈수와 급성 신손상을 악화시킬 수 있어 수분 상태를 함께 평가
