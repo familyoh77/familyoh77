@@ -3,7 +3,6 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * _Treponema pallidum_ 감염에 의한 만성 전신성 성매개질환
-* 다른 이름 : lues
 * 전염 경로 : 감염 병소에 대한 직접 접촉(성관계), 감염 산모의 출산 중 태아 감염(경태반·수직감염)
   * 수혈에 의한 전염은 극히 드묾 (✽공여자의 혈액을 24\~48시간 이상 저장하면 사멸됨)
 * 법정감염병 : 3급(전수감시)
@@ -59,63 +58,61 @@
 
 * 뇌/척수 이환 : 치매, general paresis, tabes dorsalis
 
-***
-
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 급성 시력 저하·안통(포도막염·망막염 의심), 급성 청력 소실 → 안과/이비인후과 응급 협진 + 신경매독 평가
-* 두통 + 발열 + 경부 강직, 또는 급성 신경학적 결손(뇌졸중 유사) → 조기 신경매독 의심 → 즉시 신경과 의뢰 및 CSF 검사
-* 임신부의 활동성 매독 확진 + 조기진통 또는 태아 이상 소견 → 즉시 산과 의뢰
-* 치료 시작 24시간 내 고열·저혈압(Jarisch-Herxheimer 반응)이 심한 경우, 특히 신경매독·임신부 → 즉시 관찰 및 대증치료
+* 급성 시력 저하·안통(포도막염·망막염 의심), 급성 청력 소실
+* 두통 + 발열 + 경부 강직, 또는 급성 신경학적 결손(뇌졸중 유사) → 조기 신경매독
+* 임신부의 활동성 매독 확진 + 조기진통 또는 태아 이상 소견
+* 치료 시작 24시간 내 고열·저혈압(Jarisch-Herxheimer 반응)이 심한 경우, 특히 신경매독·임신부
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 서서히 진행하는 시력·청력 변화 또는 인지기능 저하 → 신경매독/안매독/이과매독 의심 → 신경과 협진 및 CSF 검사 계획
-* HIV 선별검사 양성 → 감염내과 의뢰
-* 3기 매독 소견(심혈관계 증상, 고무종) → 관련 전문과 협진
-* 임신부에서 매독 확진(응급 소견 없어도) → 산과 협진 — 수직감염 예방을 위한 조기 치료 필요
+* 서서히 진행하는 시력·청력 변화 또는 인지기능 저하
+* HIV 양성
+* 3기 매독 소견(심혈관계 증상, 고무종)
+* 임신부에서 매독 확진
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 치료 후 6·12개월(late syphilis는 24개월까지) non-treponemal test 역가가 4배 이상 감소하지 않음 → 치료 실패 의심, 재치료 및 HIV 감염 감별
-* Serofast state(치료 후에도 낮은 역가로 지속 양성) — 정기 추적
+* 치료 후 6·12개월(late syphilis는 24개월까지) non-treponemal test 역가가 4배 이상 감소하지 않음
+* Serofast state(치료 후에도 낮은 역가로 지속 양성)
 
 ## <mark style="color:green;">진단</mark>
 
-* 단일 검사로 확진되지 않으며 non-treponemal test와 treponemal-specific test를 조합해 해석
+* 단일 검사로 확진되지 않으며 non-treponemal test와 treponemal-specific test를 조합하여 해석
 
-### <mark style="color:orange;">비-트레포네마 검사 (Non-treponemal test)</mark>
+#### <mark style="color:$primary;">비-트레포네마 검사 (Non-treponemal test)</mark>
 
 * RPR, VDRL
 * cardiolipin-lecithin-cholesterol Ag 복합체에 대한 IgG 및 IgM Ab 측정
 * 역가가 4배 이상 증가하면 감염으로, 4배 이상 감소하면 치료 반응으로 해석
 * 항체가와 질병 활성도에 상관관계가 있어 치료 반응 평가에 활용
 
-### <mark style="color:orange;">트레포네마 특이 검사 (Treponemal-specific test)</mark>
+#### <mark style="color:$primary;">트레포네마 특이 검사 (Treponemal-specific test)</mark>
 
 * FTA-ABS, TPPA, ICS, EIA
 * 항체가와 질병 활성도의 상관관계는 없음
 * 초기 위음성 및 치료 후에도 평생 양성으로 남는 위양성(과거감염) 문제 — 해석 시 임상 경과와 함께 판단
 
-### <mark style="color:orange;">암시야 현미경 검사</mark>
+#### <mark style="color:$primary;">암시야 현미경 검사</mark>
 
 * Darkfield microscopy of skin lesion : 병변에서 직접 균을 확인; 병변 초기 혈청검사 위음성 구간에서 유용
 
-### <mark style="color:orange;">단계별 검사 민감도</mark>
+#### **단계별 검사 민감도**
 
-<table><thead><tr><th width="140">병기</th><th width="150">Non-treponemal test</th><th width="150">Treponemal-specific test</th><th>Darkfield</th></tr></thead><tbody><tr><td>1기</td><td>78\~86%</td><td>76\~84%</td><td>80%</td></tr><tr><td>2기</td><td>100%</td><td>100%</td><td>80%</td></tr><tr><td>3기</td><td>71\~73%</td><td>94\~96%</td><td>—</td></tr><tr><td>잠복매독</td><td>95\~100%</td><td>97\~100%</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="140">병기</th><th width="154.76190185546875">Non-treponemal test</th><th width="154.761962890625">Treponemal-specific test</th><th>Darkfield</th></tr></thead><tbody><tr><td>1기</td><td>78~86%</td><td>76~84%</td><td>80%</td></tr><tr><td>2기</td><td>100%</td><td>100%</td><td>80%</td></tr><tr><td>3기</td><td>71~73%</td><td>94~96%</td><td>—</td></tr><tr><td>잠복매독</td><td>95~100%</td><td>97~100%</td><td>—</td></tr></tbody></table>
 
-### <mark style="color:orange;">CSF 검사 (신경매독 평가)</mark>
+#### <mark style="color:$primary;">CSF 검사 (신경매독 평가)</mark>
 
 * 검사 대상
-  * 신경 증상(청력 질환, 뇌신경 기능 이상, 수막염, 뇌졸중, 의식 변화, 진동 감각 상실)
-  * 안과 증상(홍채염, 포도막염)
-  * 활동성 3기 매독 증거(대동맥염, 고무종)
+  * 신경 증상 : 청력 질환, 뇌신경 기능 이상, 수막염, 뇌졸중, 의식 변화, 진동 감각 상실
+  * 안과 증상 : 홍채염, 포도막염
+  * 활동성 3기 매독 증거 : 대동맥염, 고무종
   * Serologic treatment failure
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 생식기 궤양·전신 발진을 일으키는 질환과의 감별
 
@@ -147,30 +144,27 @@ graph TD
 ## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="danger" %}
-**⚠️ Jarisch-Herxheimer 반응**\
-치료 시작 24시간 이내 발열, 오한, 근육통, 두통이 나타날 수 있으며 페니실린 알레르기 반응이 아닌 치료에 대한 급성 반응임. 특히 조기 매독·신경매독·임신부에서 흔하며, 임신부에서는 조기진통을 유발할 수 있어 사전 안내가 필요함.
+**Jarisch-Herxheimer 반응** : 치료 시작 24시간 이내 발열, 오한, 근육통, 두통이 나타날 수 있으며 페니실린 알레르기 반응이 아닌 치료에 대한 급성 반응임. 특히 조기 매독·신경매독·임신부에서 흔하며, 임신부에서는 조기진통을 유발할 수 있어 사전 안내가 필요함.
 {% endhint %}
 
 {% hint style="info" %}
-**페니실린이 모든 병기에서 1차 선택제**\
-Benzathine penicillin G가 표준 치료이며, 다른 항생제를 추가해도 효과가 더해지지 않음. 페니실린 알레르기·임신·신경매독 등 상황에 따라 대체 요법 또는 탈감작 후 페니실린 치료를 고려.
+**페니실린이 모든 병기에서 1차 선택제** : Benzathine penicillin G가 표준 치료이며, 다른 항생제를 추가해도 효과가 더해지지 않음. 페니실린 알레르기·임신·신경매독 등 상황에 따라 대체 요법 또는 탈감작 후 페니실린 치료를 고려.
 {% endhint %}
 
 ### <mark style="color:orange;">Early syphilis (1기·2기·조기 잠복매독)</mark>
 
 **1차 선택제**
 
-* benzathine penicillin G 240만 U IM 1회 (다른 항생제 추가 효과는 없음) <mark style="color:blue;">\[마이신 주]</mark>
+* benzathine penicillin G : 240만 U IM 1회 (다른 항생제 추가 효과는 없음) <mark style="color:blue;">\[마이신 주]</mark>
 
 **대체제** (페니실린 사용 불가 시; 비임신 환자에 한함)
 
-* doxycycline 100 ㎎ bid ×14일
-* tetracycline 500 ㎎ qid ×14일 (doxycycline 대비 위장관 부작용 많아 순응도 낮음)
-* ceftriaxone 1 g qd IM/IV ×10\~14일 (최적 용량·기간은 확립되지 않음)
+* doxycycline : 100 ㎎ bid ×14일
+* tetracycline : 500 ㎎ qid ×14일 (doxycycline 대비 위장관 부작용 많아 순응도 낮음)
+* ceftriaxone : 1 g qd IM/IV ×10\~14일 (최적 용량·기간은 확립되지 않음)
 
 {% hint style="danger" %}
-**⚠️ Azithromycin은 매독 치료에 권장되지 않음**\
-과거 azithromycin 2 g 단회 요법이 대체제로 쓰인 적이 있으나, _T. pallidu&#x6D;_&#xC758; macrolide 내성이 광범위하게 보고되어 CDC 2021 지침은 다른 대체제(doxycycline, ceftriaxone)를 모두 사용할 수 없는 극히 예외적 상황에서만 고려하도록 제한함. 사용 시 밀착 혈청 추적이 필수.
+**Azithromycin은 매독 치료에 권고하지 않음** : 과거 azithromycin 2 g 단회 요법이 대체제로 쓰인 적이 있으나, _T. pallidu&#x6D;_&#xC758; macrolide 내성이 광범위하게 보고되어 CDC 2021 지침은 다른 대체제(doxycycline, ceftriaxone)를 모두 사용할 수 없는 극히 예외적 상황에서만 고려하도록 제한함. 사용 시 밀착 혈청 추적이 필수.
 {% endhint %}
 
 **모니터링**
@@ -182,12 +176,12 @@ Benzathine penicillin G가 표준 치료이며, 다른 항생제를 추가해도
 
 **1차 선택제**
 
-* benzathine penicillin G 240만 U qwk IM ×3주 (총 720만 U) <mark style="color:blue;">\[마이신 주]</mark>
+* benzathine penicillin G : 240만 U qwk IM ×3주 (총 720만 U) <mark style="color:blue;">\[마이신 주]</mark>
 
 **대체제**
 
-* doxycycline 100 ㎎ bid ×4주
-* ceftriaxone 2 g qd IM/IV ×10\~14일
+* doxycycline : 100 ㎎ bid ×4주
+* ceftriaxone : 2 g qd IM/IV ×10\~14일
 
 **모니터링**
 
@@ -198,13 +192,9 @@ Benzathine penicillin G가 표준 치료이며, 다른 항생제를 추가해도
 
 **1차 선택제**
 
-* aqueous penicillin G 1,800\~2,400만 U/일 지속 점적, 또는 300\~400만 U q4hr IV ×10\~14일
-* procaine penicillin G 240만 U/일 IM + probenecid 500 ㎎ qid ×10\~14일
-
-{% hint style="danger" %}
-**⚠️ Procaine penicillin은 반드시 근육주사(IM)로 투여**\
-정맥으로 잘못 주입되면 급성 정신증·경련 등(Hoigne syndrome)을 유발할 수 있음.
-{% endhint %}
+* aqueous penicillin G : 1,800\~2,400만 U/일 지속 점적, 또는 300\~400만 U q4hr IV ×10\~14일
+* procaine penicillin G : 240만 U/일 IM + probenecid 500 ㎎ qid ×10\~14일
+  * Procaine penicillin은 반드시 근육주사로 투여 : 정맥으로 잘못 주입되면 급성 정신증·경련 등(Hoigne syndrome)을 유발할 수 있음.
 
 **대체제**
 
