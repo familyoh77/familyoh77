@@ -77,7 +77,7 @@
 
 ## <mark style="color:green;">진단</mark>
 
-### 검사
+### <mark style="color:orange;">검사</mark>
 
 * 소변, 자궁 경부/요도/인두/직장 분비물(swab)에 대하여 검사
 * 그람염색 : G(-) intracellular diplococci, WBC
@@ -135,6 +135,10 @@ graph TD
 
 ✽일부 국가에서는 파트너를 직접 진료하지 않고 처방하는 Expedited Partner Therapy(EPT)를 시행하나, 국내에서는 일반적으로 시행하지 않음
 
+{% hint style="info" %}
+**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](115-1_-sexually-transmitted-infections-overview.md)) 참조
+{% endhint %}
+
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">합병증이 없는 자궁경부·요도·직장 감염</mark>
@@ -167,7 +171,7 @@ graph TD
 
 ### <mark style="color:orange;">급성 부고환염</mark>
 
-* Chlamydia 및 Gonorrhea 감염에 대하여 치료 (☞ p.654)
+* Chlamydia 및 Gonorrhea 감염에 대하여 치료 (☞ [급성 부고환염](epididymitis.md))
 
 ### <mark style="color:orange;">파종성 임균 감염 (DGI)</mark>
 
@@ -179,7 +183,7 @@ graph TD
 * ceftriaxone 근육/정맥주사 및 생리식염수 세척; 안과 응급 의뢰
 * 안과 평가 전까지 반복적인 생리식염수 세척을 고려
 
-## 치료 후 검사
+### <mark style="color:orange;">치료 후 검사</mark>
 
 * 합병증이 없는 비뇨생식기, 직장 임균 감염의 경우 치료 후 확인 검사는 필요 없음
 * 인두 감염을 치료한 경우 사용 약제와 무관하게 치료 7\~14일 후 검사(NAAT 또는 배양) 시행
