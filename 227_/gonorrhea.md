@@ -2,12 +2,12 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 원인균 : _Neisseria gonorrhoeae_
+* 원인균 : Neisseria gonorrhoeae
 * 감염 시 남성에서는 요도염, 여성에서는 자궁경부염이 흔함
 * 국내 신고 현황상 20대 남성에서 발생 빈도가 높은 편
 * 성관계 금지 : 치료 시작 후 7일간, 그리고 환자와 파트너 모두 치료를 완료할 때까지 성관계를 피함
 * 파트너 검사 : 증상 발생 또는 진단 60일 이내 관계한 성 파트너에 대한 평가를 요함; 마지막 성접촉이 60일 이전이라도 가장 최근 파트너는 평가 및 치료
-* 성매개감염병 검사 : 임질이 진단된 환자는 다른 STI(HIV, 매독, 클라미디아 등)에 대한 검사를 요함
+* STI 검사 : 임질이 진단된 환자는 다른 성 매개 질환(HIV, 매독, 클라미디아 등)에 대한 검사를 요함
 * 합병증 : 부고환염, 골반염(PID), 파종성 임균 감염(DGI), 불임 등
 
 ## <mark style="color:green;">원인 및 위험 요인</mark>
@@ -52,24 +52,26 @@
 * 드묾; 생식기 분비물의 자가 접종 또는 산도를 통한 신생아 수직감염으로 발생
 * 심한 화농성 분비물, 결막 충혈; 각막 침범 시 실명 위험
 
+***
+
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 발열 + 피부 병변 + 건초염/이동성 다발 관절통 → 파종성 임균 감염(DGI)
-* 심한 하복부 통증 + 발열 + 복막자극징후 → 중증 PID, 골반 농양
-* 신생아 임균성 결막염(수직감염)&#x20;
+* 파종성 임균 감염(DGI) 의심 소견(발열 + 피부 병변 + 건초염/이동성 다발 관절통) → 입원, 정맥 항생제 치료
+* 심한 하복부 통증 + 발열 + 복막자극징후 → 중증 PID, 골반 농양 의심 → 응급 평가
+* 신생아 임균성 결막염(수직감염) → 실명 위험, 즉시 의뢰
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 편측 고환·부고환의 심한 압통 및 종창 + 발열 → 급성 부고환염, 고환염전
-* 임신부에서 발생
-* 결막 충혈 + 화농성 분비물 → 성인 임균성 결막염 의심
+* 편측 고환·부고환의 심한 압통 및 종창 + 발열 → 급성 부고환염, 고환염전 감별을 위해 비뇨의학과 당일 의뢰
+* 임신부에서 진단된 경우 → 산과 협진
+* 결막 충혈 + 화농성 분비물(성인 임균성 결막염 의심) → 안과 의뢰(실명 위험)
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 치료 후에도 증상이 지속
-* 파트너가 치료를 완료하지 못함
+* 치료 후에도 증상이 지속되는 경우 → 치료 실패 및 재감염 감별 위한 재검사
+* 파트너가 치료를 완료하지 못한 경우 → 재감염 위험, 치료 3개월 후 재검사
 
 ***
 
@@ -83,11 +85,15 @@
 * 배양 검사 : 항생제 내성 의심, 치료 실패, 내성 감시(surveillance) 목적으로 시행
 * 재감염이 흔하므로 치료 3개월 후 재검사 시행(증상 유무와 무관하게 시행)
 
-### <mark style="color:orange;">감별</mark>&#x20;
+### <mark style="color:orange;">치료 실패</mark>
+
+* 치료 후 3\~5일이 지나도 증상이 지속되거나 NAAT 양성이 확인되면 치료 실패 또는 재감염을 고려
+
+### <mark style="color:orange;">감별 진단</mark>
 
 * 요도염·자궁경부염·질염 증상을 일으킬 수 있는 다른 원인들과의 감별
 
-<table><thead><tr><th width="218.5714111328125">질환</th><th width="220">임질과의 차이</th><th>감별 포인트</th></tr></thead><tbody><tr><td>비임균성 요도염 (NGU, 클라미디아·마이코플라스마 등)</td><td>잠복기가 상대적으로 김(1\~3주)</td><td>그람염색에서 diplococci 미관찰; NAAT로 원인균 확인</td></tr><tr><td>트리코모나스 질염 / 세균성 질염</td><td>화농성보다는 악취 동반 분비물, 소양감 두드러짐</td><td>생리식염수 습식도말에서 편모충 관찰; 임질 배양·NAAT 음성</td></tr><tr><td>반응성 관절염 </td><td>결막염·요도염·관절염 triad</td><td>임균 배양·NAAT 음성; 최근 요도염/장염 병력</td></tr></tbody></table>
+<table><thead><tr><th width="150">질환</th><th width="220">임질과의 차이</th><th>감별 포인트</th></tr></thead><tbody><tr><td>비임균성 요도염(NGU, 클라미디아·마이코플라스마 등)</td><td>잠복기가 상대적으로 김(1\~3주)</td><td>그람염색에서 diplococci 미관찰; NAAT로 원인균 확인</td></tr><tr><td>트리코모나스 질염 / 세균성 질염</td><td>화농성보다는 악취 동반 분비물, 소양감 두드러짐</td><td>생리식염수 습식도말에서 편모충 관찰; 임질 배양·NAAT 음성</td></tr><tr><td>반응성 관절염(Reactive arthritis)</td><td>결막염·요도염·관절염 triad</td><td>임균 배양·NAAT 음성; 최근 요도염/장염 병력</td></tr></tbody></table>
 
 ***
 
@@ -115,23 +121,22 @@ graph TD
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-
-
-### <mark style="color:orange;">치료 원칙</mark>
-
-* 합병증이 없는 요도·자궁경부·직장·인두 감염은 ceftriaxone 단회 근육/정맥주사로 치료하며, 클라미디아 동반 여부가 확인되지 않은 경우 doxycycline을 추가
-* 치료 후 3\~5일이 지나도 증상이 지속되거나 NAAT 양성이 확인되면 치료 실패 또는 재감염을 고려
+{% hint style="info" %}
+**치료 원칙**\
+합병증이 없는 요도·자궁경부·직장·인두 감염은 ceftriaxone 단회 근육/정맥주사로 치료하며, 클라미디아 동반 여부가 확인되지 않은 경우 doxycycline을 추가한다.
+{% endhint %}
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 콘돔을 이용한 안전한 성관계
 * 최근 60일 이내 성 파트너에 대한 동시 검사 및 치료
-  * [ ] 일부 국가에서는 파트너를 직접 진료하지 않고 처방하는 Expedited Partner Therapy(EPT)를 시행 중
 * 치료 시작 후 7일간, 그리고 파트너 치료가 완료될 때까지 성관계 금지
 * 치료 3개월 후 재검사(증상 유무와 무관)
 
+✽일부 국가에서는 파트너를 직접 진료하지 않고 처방하는 Expedited Partner Therapy(EPT)를 시행하나, 국내에서는 일반적으로 시행하지 않음
+
 {% hint style="info" %}
-**Doxy-PEP(노출 후 예방요법)** - 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 고려 (☞ [성매개감염병](sexually-transmitted-infection-sti.md#undefined-4))
+**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](sexually-transmitted-infection-sti.md)) 참조
 {% endhint %}
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -141,22 +146,23 @@ graph TD
 #### <mark style="color:$primary;">1차 선택제 (합병증이 없는 인두 감염 포함)</mark>
 
 * ceftriaxone : 500 ㎎ ×1회 IM(체중 150 ㎏ 미만) <mark style="color:blue;">\[트리악손]</mark>
-* 체중 150 ㎏ 이상인 경우 : ceftriaxone 1 g ×1회 IV&#x20;
+* 체중 150 ㎏ 이상인 경우 : ceftriaxone 1 g ×1회 IV 권장(국내 성매개감염 진료지침 2023)
 
-- [ ] CDC 2021은 1 g 용량도 IM 투여를 권고하고 있어 국내 지침과 차이가 있음. 근육주사 시 통증 문제로 국내에서는 고용량에서 정맥주사를 권장함
+✽CDC 2021은 1 g 용량도 IM 투여를 권고하고 있어 국내 지침과 차이가 있음. 근육주사 시 통증 문제로 국내에서는 고용량에서 정맥주사를 권장함
 
 #### <mark style="color:$primary;">대체제</mark>
 
-* spectinomycin : 2 g IM ×1회 (✽ 국내 지침의 공식 대체요법이지만 실제 유통이 원활하지 않음)
-* gentamicin : 240 ㎎ IM ×1회 <mark style="color:blue;">\[겐타마이신 주]</mark> _plus_ azithromycin 2 g ×1회 <mark style="color:blue;">\[지스로맥스]</mark>
-* cefixime : 800 ㎎ ×1회 <mark style="color:blue;">\[슈프락스];</mark> 단독 투여는 효과가 상대적으로 낮음
-  * 클라미디아 배제가 안 된 경우 doxycycline을 추가(100 ㎎ bid ×7d <mark style="color:blue;">\[독시사이클린])</mark>
+* spectinomycin 2 g IM ×1회 (국내 지침의 공식 대체요법이나 실제 상용 유통이 거의 되지 않아 사용이 제한적; 인두 감염에는 효과가 낮음(치료 성공률 50% 내외로 보고)—인두 감염에는 권장되지 않음)
+* gentamicin 240 ㎎ IM ×1회 <mark style="color:blue;">\[겐타마이신 주]</mark> plus azithromycin 2 g ×1회 <mark style="color:blue;">\[지스로맥스]</mark>
+* cefixime : 800 ㎎ ×1회 <mark style="color:blue;">\[슈프락스]</mark> (ceftriaxone 투여가 어려운 경우; cefixime 단독은 항임균 효과가 상대적으로 낮으므로 클라미디아 배제가 안 된 경우 doxycycline을 추가 — azithromycin 병용을 일반적으로 권장하지 않음. 인두 감염 완치율이 낮아(약 92% 미만) 인두 감염에는 권장되지 않음)
+
+※ Chlamydia 감염이 배제되지 않은 경우 doxycycline 100 ㎎ bid ×7d 투여 <mark style="color:blue;">\[독시사이클린]</mark>
 
 ### <mark style="color:orange;">인두 감염</mark>
 
-* 1차 선택제와 동일
-* 신뢰할 만한 대체 요법이 없으므로 반드시 ceftriaxone으로 치료
-* 치료 후 확인 검사 시행
+* 1차 선택제와 동일 (☞ 위 1차 선택제 참고)
+* 신뢰할 만한 대체 요법이 없어 반드시 ceftriaxone으로 치료
+* 치료 후 확인 검사 시행 (☞ 아래 '치료 후 검사' 참고)
 
 ### <mark style="color:orange;">임신부 감염</mark>
 

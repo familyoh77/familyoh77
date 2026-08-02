@@ -198,7 +198,7 @@ flowchart TD
 * 모든 성인에서 HIV 선별검사 권고; 고위험군에서는 매독, B형/C형간염 동반 검사
 
 {% hint style="info" %}
-**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](115-1_-STD.md)) 참조
+**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](sexually-transmitted-infection-sti.md)) 참조
 {% endhint %}
 
 ***
@@ -206,7 +206,7 @@ flowchart TD
 ## <mark style="color:green;">약물 치료</mark>
 
 {% hint style="info" %}
-아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](115-4_-chlamydia.md), [임질](115-2_-gonorrhea.md) 챕터) 참조
+아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](chlamydia.md), [임질](gonorrhea.md) 챕터) 참조
 {% endhint %}
 
 ### <mark style="color:orange;">1차 선택제</mark>
