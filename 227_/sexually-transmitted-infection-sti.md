@@ -1,6 +1,6 @@
 # 성매개감염병 Sexually Transmitted Infection, STI
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 테스트</mark>
 
 * 성 접촉(질·항문·구강 성교, 피부 점막 접촉 포함)을 통해 전파되는 감염병의 총칭
 * 다른 이름 : 성병(성전파성 질환, STD, sexually transmitted disease)
