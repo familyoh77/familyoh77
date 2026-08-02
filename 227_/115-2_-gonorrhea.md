@@ -136,7 +136,7 @@ graph TD
 ✽일부 국가에서는 파트너를 직접 진료하지 않고 처방하는 Expedited Partner Therapy(EPT)를 시행하나, 국내에서는 일반적으로 시행하지 않음
 
 {% hint style="info" %}
-**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](115-1_-sexually-transmitted-infections-overview.md)) 참조
+**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](115-1_-STD.md)) 참조
 {% endhint %}
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -171,7 +171,7 @@ graph TD
 
 ### <mark style="color:orange;">급성 부고환염</mark>
 
-* Chlamydia 및 Gonorrhea 감염에 대하여 치료 (☞ [급성 부고환염](epididymitis.md))
+* Chlamydia 및 Gonorrhea 감염에 대하여 치료 (☞ [급성 부고환염](121_-acute-epididymitis.md))
 
 ### <mark style="color:orange;">파종성 임균 감염 (DGI)</mark>
 

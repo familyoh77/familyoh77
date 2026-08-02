@@ -192,13 +192,13 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 성 파트너 검사 및 치료 : 증상 발생 또는 진단 60일 이내 성 파트너 평가 및 경험적 치료(expedited partner therapy 고려)
+* 성 파트너 검사 및 치료 : 증상 발생 또는 진단 60일 이내 성 파트너 평가 및 경험적 치료 (해외 일부 국가의 expedited partner therapy, EPT와 달리 국내 의료법상 진찰 없는 대리 처방은 제한되므로, 파트너도 직접 내원하여 진찰·처방을 받도록 안내)
 * 콘돔의 일관되고 올바른 사용 : 재감염 위험을 크게 낮춤
 * 화학적 자극 원인(비누, 질 세척, 살정자제 등) 회피 — 비감염성 요도염/여성 요도증후군에서 특히 중요
 * 모든 성인에서 HIV 선별검사 권고; 고위험군에서는 매독, B형/C형간염 동반 검사
 
 {% hint style="info" %}
-**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](115-1_-sexually-transmitted-infections-overview.md)) 참조
+**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](115-1_-STD.md)) 참조
 {% endhint %}
 
 ***
@@ -206,7 +206,7 @@ flowchart TD
 ## <mark style="color:green;">약물 치료</mark>
 
 {% hint style="info" %}
-아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](115-4_-chlamydia.md), [임질](/broken/pages/NeQvTvkQxc2o914Wc7ry) 챕터) 참조
+아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](115-4_-chlamydia.md), [임질](115-2_-gonorrhea.md) 챕터) 참조
 {% endhint %}
 
 ### <mark style="color:orange;">1차 선택제</mark>
@@ -324,7 +324,7 @@ A64 상세불명의 성매개질환
 
 > **metronidazole/tinidazole 복용 시 주의사항**
 >
-> * 복용 중 및 복용 후 최소 24시간(tinidazole은 72시간) 금주하십시오(disulfiram-like 반응 위험).
+> * 복용 중 및 복용 후 최소 72시간(3일) 금주하십시오(disulfiram-like 반응 위험; 국내 후라시닐정 첨부문서 기준).
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
