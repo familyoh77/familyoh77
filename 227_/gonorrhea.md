@@ -136,7 +136,7 @@ graph TD
 ✽일부 국가에서는 파트너를 직접 진료하지 않고 처방하는 Expedited Partner Therapy(EPT)를 시행하나, 국내에서는 일반적으로 시행하지 않음
 
 {% hint style="info" %}
-**Doxy-PEP(노출 후 예방요법)** — 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](sexually-transmitted-infection-sti.md)) 참조
+**Doxy-PEP(노출 후 예방요법)** - 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](sexually-transmitted-infection-sti.md)) 참조
 {% endhint %}
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -152,9 +152,9 @@ graph TD
 
 #### <mark style="color:$primary;">대체제</mark>
 
-* spectinomycin 2 g IM ×1회 (국내 지침의 공식 대체요법이나 실제 상용 유통이 거의 되지 않아 사용이 제한적; 인두 감염에는 효과가 낮음(치료 성공률 50% 내외로 보고)—인두 감염에는 권장되지 않음)
+* spectinomycin 2 g IM ×1회 (국내 지침의 공식 대체요법이나 실제 상용 유통이 거의 되지 않아 사용이 제한적; 인두 감염에는 효과가 낮음(치료 성공률 50% 내외로 보고)-인두 감염에는 권장되지 않음)
 * gentamicin 240 ㎎ IM ×1회 <mark style="color:blue;">\[겐타마이신 주]</mark> plus azithromycin 2 g ×1회 <mark style="color:blue;">\[지스로맥스]</mark>
-* cefixime : 800 ㎎ ×1회 <mark style="color:blue;">\[슈프락스]</mark> (ceftriaxone 투여가 어려운 경우; cefixime 단독은 항임균 효과가 상대적으로 낮으므로 클라미디아 배제가 안 된 경우 doxycycline을 추가 — azithromycin 병용을 일반적으로 권장하지 않음. 인두 감염 완치율이 낮아(약 92% 미만) 인두 감염에는 권장되지 않음)
+* cefixime : 800 ㎎ ×1회 <mark style="color:blue;">\[슈프락스]</mark> (ceftriaxone 투여가 어려운 경우; cefixime 단독은 항임균 효과가 상대적으로 낮으므로 클라미디아 배제가 안 된 경우 doxycycline을 추가 - azithromycin 병용을 일반적으로 권장하지 않음. 인두 감염 완치율이 낮아(약 92% 미만) 인두 감염에는 권장되지 않음)
 
 ※ Chlamydia 감염이 배제되지 않은 경우 doxycycline 100 ㎎ bid ×7d 투여 <mark style="color:blue;">\[독시사이클린]</mark>
 
@@ -227,7 +227,7 @@ A54.9 상세불명 임균감염
 > 지스로맥스 250 ㎎/T  8T(총 2 g)  1회
 > ```
 >
-> _✽단순 발진·위장장애 정도는 ceftriaxone 사용이 가능한 경우가 많음 — 중증 알레르기(아나필락시스, Stevens-Johnson 등)로 확인된 경우에만 적용. gemifloxacin+azithromycin 병용요법은 가용성·비용·항생제 스튜어드십 문제로 더 이상 권장 대체요법이 아님(CDC 2021). Azithromycin 2 g 단회 복용 시 구토 등 위장관 불내성이 매우 흔해 필요시 진토제 병용을 고려할 수 있으며, 겐타마이신+아지스로마이신은 효과가 ceftriaxone보다 떨어지므로 가능하면 감염내과 협진을 권장_
+> _✽단순 발진·위장장애 정도는 ceftriaxone 사용이 가능한 경우가 많음 - 중증 알레르기(아나필락시스, Stevens-Johnson 등)로 확인된 경우에만 적용. gemifloxacin+azithromycin 병용요법은 가용성·비용·항생제 스튜어드십 문제로 더 이상 권장 대체요법이 아님(CDC 2021). Azithromycin 2 g 단회 복용 시 구토 등 위장관 불내성이 매우 흔해 필요시 진토제 병용을 고려할 수 있으며, 겐타마이신+아지스로마이신은 효과가 ceftriaxone보다 떨어지므로 가능하면 감염내과 협진을 권장_
 
 > **처방례 3. 인두 임질**
 >
@@ -251,8 +251,8 @@ A54.9 상세불명 임균감염
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 치료 후에도 분비물, 배뇨통 등 증상이 지속되는 경우
-> * 발열, 피부 발진, 관절통이 새로 발생하는 경우 — 파종성 임균 감염 감별 위해 즉시 내원
-> * 심한 하복부 통증 또는 발열이 동반되는 경우 — 즉시 내원
+> * 발열, 피부 발진, 관절통이 새로 발생하는 경우 - 파종성 임균 감염 감별 위해 즉시 내원
+> * 심한 하복부 통증 또는 발열이 동반되는 경우 - 즉시 내원
 > * 치료 3개월 후 재검사를 반드시 시행
 
 ***
