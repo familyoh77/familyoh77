@@ -58,22 +58,22 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 고열, 오한, 옆구리 통증 동반 → 상행 요로 감염(신우신염) 의심 → 응급 평가
-* 발열, 이동성 다발관절통, 건초염, 농포성 피부 병변 동반 → 파종성 임균 감염(disseminated gonococcal infection, DGI) 의심 → 응급 평가 및 입원 고려
-* 급성 음낭통·부종과 함께 고환 거상, cremasteric reflex 소실 → 고환 염전(testicular torsion) 감별 필요 → 즉시 비뇨의학과 응급 의뢰
+* 고열, 오한, 옆구리 통증 동반 → 상행 요로 감염(신우신염)
+* 발열, 이동성 다발관절통, 건초염, 농포성 피부 병변 동반 → 파종성 임균 감염(disseminated gonococcal infection, DGI) 의심
+* 급성 음낭통·부종과 함께 고환 거상, cremasteric reflex 소실 → 고환 염전(testicular torsion)&#x20;
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 음낭통·압통·부종(발열 없거나 경미) → 급성 부고환염 의심 → 비뇨의학과 당일 평가
-* 하복부 통증을 동반한 여성(본인 또는 파트너) → 골반염(PID) 의심 → 당일 산부인과 평가
-* 임신부 또는 임신 가능성이 있는 여성 파트너 노출 → 조기 검사 및 치료
-* 요도 협착·이물 등 해부학적 이상이 의심되는 경우 → urethrocystoscopy를 위한 비뇨의학과 의뢰
+* 음낭통·압통·부종(발열 없거나 경미) → 급성 부고환염
+* 하복부 통증을 동반한 여성(본인 또는 파트너) → 골반염(PID)
+* 임신부 또는 임신 가능성이 있는 여성 파트너 노출
+* 요도 협착·이물 등 해부학적 이상이 의심
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 적절한 1차 치료 후에도 7일 이상 증상 지속 또는 재발 → 재감염/재노출, M. genitalium, T. vaginalis 감별
+* 적절한 1차 치료 후에도 7일 이상 증상 지속 또는 재발
 * 파트너의 불완전한 치료 또는 재노출 병력
-* 반복적 요도염으로 만성 전립선염 등 기능적 원인 감별이 필요한 경우
+* 반복적 요도염
 
 ## <mark style="color:green;">진단</mark>
 
@@ -92,38 +92,28 @@
 
 ### <mark style="color:orange;">STI 선별 검사 대상</mark>
 
-* 13\~64세 모든 사람 : 최소 1회 HIV 선별검사(CDC 2021; 이후 위험군은 매년, MSM은 3\~6개월마다 고려 - CDC 권고; 국내 진료 현장에서는 현실적으로 연 1회가 주로 적용됨)
+* 13\~64세 모든 사람 : 최소 1회 HIV 선별검사 (이후 위험군은 매년, MSM은 3\~6개월마다 고려 \[CDC]; 국내 진료 현장에서는 현실적으로 연 1회가 주로 적용됨)
 *   성관계를 하는 ＜26세 여성, 새로운 또는 복수의 성 파트너가 있거나 콘돔을 사용하지 않은 ≥26세 여성 :
 
-    매년 Gonorrhea 및 Chlamydia(CDC 2021)
+    매년 Gonorrhea 및 Chlamydia
 * 일정하지 않은 파트너 또는 복수의 파트너가 있는 남녀 : HBV
 * 요도염이 있는 모든 남성 : Gonorrhea 및 Chlamydia
-* 모든 성인(18세 이상) : 평생 1회 HCV 선별검사(CDC 2020); 위험 인자(정맥 마약 사용, 투석, HIV 감염 등)가 있으면 반복 검사
+* 모든 18세 이상 : 평생 1회 HCV 선별검사; 위험 인자(정맥 마약 사용, 투석, HIV 감염 등)가 있으면 반복 검사
 * 임신부 : 매독, Chlamydia, HIV, HBV
 * 동성애 남성 : 1년에 1회 이상 HAV, HBV, HCV, HIV, 매독, Chlamydia, Gonorrhea
 * HIV 감염자 : A, B, C형간염; 1년에 1회 이상 매독, Chlamydia, Gonorrhea
 * HIV 감염 여성 : 1년에 1회 이상 trichomonas
 * HIV 감염 남성과 성관계를 가진 남자 : 1년에 1회 이상 HCV
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 흔한 배뇨통·요도 증상의 감별
 
-<table><thead><tr><th width="260">임상 상황</th><th>시사 질환</th></tr></thead><tbody><tr><td>남성에서 증상은 지속되나 요도 감염의 증거가 없는 경우</td><td>만성 전립선염</td></tr><tr><td>여성에서 배뇨통은 있으나 농뇨가 없는 경우</td><td>질염</td></tr><tr><td>검사상 요도염의 증거는 없고 증상만 지속 또는 재발하는 경우</td><td>기능적 문제(여성 요도증후군 등)</td></tr><tr><td>배뇨 곤란 증상만 존재</td><td>Chlamydia 감염 우선 고려</td></tr><tr><td>통증성 생식기 궤양 동반</td><td>HSV 감염</td></tr></tbody></table>
+<table><thead><tr><th width="448.57147216796875">임상 상황</th><th>시사 질환</th></tr></thead><tbody><tr><td>남성에서 증상은 지속되나 요도 감염의 증거가 없는 경우</td><td>만성 전립선염</td></tr><tr><td>여성에서 배뇨통은 있으나 농뇨가 없는 경우</td><td>질염</td></tr><tr><td>검사상 요도염의 증거는 없고 증상만 지속 또는 재발하는 경우</td><td>기능적 문제(여성 요도증후군 등)</td></tr><tr><td>배뇨 곤란 증상만 존재</td><td>Chlamydia 감염 우선 고려</td></tr><tr><td>통증성 생식기 궤양 동반</td><td>HSV 감염</td></tr></tbody></table>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
-
-{% hint style="info" %}
-**단계별 치료 전략**
-{% endhint %}
-
-| 단계     | 핵심 치료                                           | 대상                |
-| ------ | ----------------------------------------------- | ----------------- |
-| Step 1 | 임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음)             | 진단 기준을 충족하는 모든 환자 |
-| Step 2 | NAAT 결과에 따라 표적 항생제로 조정                          | 검사 결과 확인된 환자      |
-| Step 3 | 7일 이상 증상 지속/재발 시 M. genitalium, T. vaginalis 평가 | 초치료 실패 환자         |
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -133,12 +123,16 @@
 
     Chlamydia 및 Gonorrhea 모두에 해당되는 약제 선택
 
+<mark style="color:cyan;">**단계별 치료 전략**</mark>
+
+<table><thead><tr><th width="82.3333740234375">단계</th><th width="397.3809814453125">핵심 치료</th><th>대상</th></tr></thead><tbody><tr><td>Step 1</td><td>임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음)</td><td>진단 기준을 충족하는 모든 환자</td></tr><tr><td>Step 2</td><td>NAAT 결과에 따라 표적 항생제로 조정</td><td>검사 결과 확인된 환자</td></tr><tr><td>Step 3</td><td>7일 이상 증상 지속/재발 시 <em>M. genitalium, T. vaginalis</em> 평가</td><td>초치료 실패 환자</td></tr></tbody></table>
+
 ### <mark style="color:orange;">치료 후 모니터링</mark>
 
-* 치료 후 3주 이내에는 NAAT 위양성 가능성이 있어 재검사를 권장하지 않음; Chlamydia는 치료 후 4주 이전 test-of-cure를 피함
+* 치료 후 3주 이내에는 NAAT 위양성 가능성이 있어 재검사를 권장하지 않음; Chlamydia는 치료 후 4주 이전 치료 판정 검사(test-of-cure를 피함
 * 완치 판정을 위한 일률적인 test-of-cure는 권하지 않음
 * 다음의 경우 치료 3\~4주 후 추적 검사 : 임신, 증상 지속, 불완전한 치료, 재감염 의심
-* 다음의 경우 test-of-cure를 권고(CDC 2021) : 인두 임균 감염 전체, azithromycin으로 치료한 직장 클라미디아 감염
+* 다음의 경우 test-of-cure를 권고 : 인두 임균 감염 전체, azithromycin으로 치료한 직장 클라미디아 감염
 * Chlamydia, Gonorrhea 감염자는 재감염 여부 확인을 위해 치료 3개월 후 재검사 권고
 
 #### <mark style="color:$primary;">지속 또는 재발성 non-gonococcal urethritis(NGU)</mark>
