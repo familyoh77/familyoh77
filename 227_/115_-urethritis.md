@@ -206,7 +206,7 @@ flowchart TD
 ## <mark style="color:green;">약물 치료</mark>
 
 {% hint style="info" %}
-아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](115-4_-chlamydia.md), [임질](116_-gonorrhea.md) 챕터) 참조
+아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](115-4_-chlamydia.md), [임질](/broken/pages/NeQvTvkQxc2o914Wc7ry) 챕터) 참조
 {% endhint %}
 
 ### <mark style="color:orange;">1차 선택제</mark>
