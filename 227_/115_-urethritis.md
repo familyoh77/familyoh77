@@ -2,42 +2,39 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 요도의 감염성(보다 흔함) 또는 비-감염성 염증
-* 보통 균 노출 1\~3주 후 증상 발생; 임질은 1주 내 증상 발생
+* 요도의 감염성(더 흔함) 또는 비-감염성 염증
+* 감염성의 경우 보통 균 노출 1\~3주 후 증상 발생; 임질은 1주 내 증상 발생
+* 비-감염성 요도염은 대개 원인 노출 후 수 시간 내로 증상이 나타나거나 자극이 지속되는 동안 증상이 이어짐
 * 분류 : 임균성 요도염(gonococcal urethritis, GU), 비임균성 요도염(nongonococcal urethritis, NGU)
 
 #### <mark style="color:$primary;">Chlamydia 감염</mark>
 
 * 세균성 STI(성매개감염) 중 가장 흔함
 * 전염 경로 : 성관계, 질식 분만 수직 감염
-* 대부분 무증상(특히 여성에서)으로 진단 받지 않은 감염자들이 적지 않을 것으로 사료됨
+* 대부분 무증상(특히 여성에서)으로, 진단 받지 않은 감염자들이 적지 않을 것으로 사료됨
 * 유병률 : 0.5%(미국); 여성, 20\~24세에서 높음
-*   유발 질환 : \[여성] 자궁경부염, 요도증후군, 자궁내막염, PID → 자궁외임신, 불임, 만성골반통; \[남성] 부고환염, 전립선염;
-
-    \[신생아] 결막염, 폐렴
+* 유발 질환 : \[여성] 자궁경부염, 요도증후군, 자궁내막염, PID → 자궁외임신, 불임, 만성골반통; \[남성] 부고환염, 전립선염; \[신생아] 결막염, 폐렴
 
 #### <mark style="color:$primary;">여성 요도증후군 (Female urethral syndrome)</mark>
 
 * 비뇨기계 감염 또는 확인된 이상 없이 빈뇨, 배뇨통, 잔뇨감 등 전형적인 하부 요로 감염에서와 같은 증상이 발생하는 증후군
 * 원인 : 불명; 폐경 후 에스트로겐 감소, Skene gland dysfunction, pelvic floor dysfunction, 과민방광, 이전 UTI 병력, 환경 자극(예: 뒷물, 거품 목욕, 향이 강한 여성청결제) 등이 추정됨
-* 기능적 요인이 의심되면 배뇨일지, 요속검사(uroflowmetry) 등 평가를 고려
+* 기능적 요인이 의심되면 배뇨 일지, 요속 검사(uroflowmetry) 등 평가를 고려
 * 종종 악화와 완화가 반복되어 비뇨기계 증상 뿐 아니라 불안 등의 심리적 증상을 초래함
 
 ## <mark style="color:green;">원인</mark>
 
 #### <mark style="color:$primary;">감염성</mark>
 
-* 임균 : N. gonorrhoeae (☞ 임질 챕터 참조)
-*   비-임균 : Chlamydia trachomatis (가장 흔함), Mycoplasma genitalium (지속/재발 NGU의 가장 흔한 원인),
-
-    Trichomonas vaginalis, Ureaplasma urealyticum(일부 증례에서 원인균으로 보고되나 병원성은 제한적; U. parvum은 정상 상재균인 경우가 많아 제외), HSV, Adenovirus(특히 구강성교 관련)
+* 임균 : _N. gonorrhoeae_ (☞ 임질 챕터 참조)
+* 비-임균 : _Chlamydia trachomatis_ (가장 흔함), _Mycoplasma genitalium_ (지속/재발 NGU의 가장 흔한 원인), _Trichomonas vaginalis, Ureaplasma urealyticum_(일부 증례에서 원인균으로 보고되나 병원성은 제한적; _U. parvu&#x6D;_&#xC740; 정상 상재균인 경우가 많아 제외), HSV, Adenovirus(특히 구강성교 관련)
 
 #### <mark style="color:$primary;">비-감염성</mark>
 
 * 화학적 자극 : 비누, 샴푸, 질 세척, 살정자제
 * 이물, 요도 기구
 
-#### <mark style="color:$primary;">위험 인자</mark>
+### <mark style="color:orange;">위험 인자</mark>
 
 * 콘돔 없는 성관계, 다수의 성 파트너
 * 성 매개 질환 병력
@@ -46,7 +43,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 흔히 무증상(남 \~40%, 여 \~75%)
+* 흔히 무증상 (남 \~40%, 여 \~75%)
 * 점진적 진행 : 7일 이상 된 증상은 방광염보다 요도염의 가능성이 높음
 * 빈뇨, 배뇨통(작열감)
 * 요도 가려움 : 요도구 주변의 Candida성 귀두염·외음부염이 동반되면 요도 가려움을 호소할 수 있음; Candida 자체는 확립된 요도염 원인균은 아님
@@ -59,12 +56,12 @@
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 고열, 오한, 옆구리 통증 동반 → 상행 요로 감염(신우신염)
-* 발열, 이동성 다발관절통, 건초염, 농포성 피부 병변 동반 → 파종성 임균 감염(disseminated gonococcal infection, DGI) 의심
-* 급성 음낭통·부종과 함께 고환 거상, cremasteric reflex 소실 → 고환 염전(testicular torsion)&#x20;
+* 발열, 이동성 다발관절통, 건초염, 농포성 피부 병변 동반 → 파종성 임균 감염&#x20;
+* 급성 음낭통·부종과 함께 고환 거상, cremasteric reflex 소실 → 고환 염전
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 음낭통·압통·부종(발열 없거나 경미) → 급성 부고환염
+* 음낭통·압통·부종 (발열은 없거나 경미) → 급성 부고환염
 * 하복부 통증을 동반한 여성(본인 또는 파트너) → 골반염(PID)
 * 임신부 또는 임신 가능성이 있는 여성 파트너 노출
 * 요도 협착·이물 등 해부학적 이상이 의심
@@ -129,7 +126,7 @@
 
 ### <mark style="color:orange;">치료 후 모니터링</mark>
 
-* 치료 후 3주 이내에는 NAAT 위양성 가능성이 있어 재검사를 권장하지 않음; Chlamydia는 치료 후 4주 이전 치료 판정 검사(test-of-cure를 피함
+* 치료 후 3주 이내에는 NAAT 위양성 가능성이 있어 재검사를 권장하지 않음; Chlamydia는 치료 후 4주 이전 치료 판정 검사(test-of-cure)를 피함
 * 완치 판정을 위한 일률적인 test-of-cure는 권하지 않음
 * 다음의 경우 치료 3\~4주 후 추적 검사 : 임신, 증상 지속, 불완전한 치료, 재감염 의심
 * 다음의 경우 test-of-cure를 권고 : 인두 임균 감염 전체, azithromycin으로 치료한 직장 클라미디아 감염
@@ -140,8 +137,6 @@
 * M. genitalium에 대한 NAAT 검사 및 macrolide 저항성 검사 고려
 * T. vaginalis 유병률이 높은 지역 또는 이성 파트너가 있는 남성에서는 NAAT 검사 및 경험적 치료 고려
 * 요도염에 대한 명확한 증상 또는 증거가 있는 경우에만 치료
-
-***
 
 ```mermaid
 flowchart TD
