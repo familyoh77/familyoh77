@@ -130,6 +130,8 @@
   * [요도염 Urethritis](227_/115_-urethritis.md)
   * [성매개감염병 Sexually Transmitted Infection, STI](227_/sexually-transmitted-infection-sti.md)
   * [임질 Gonorrhea](227_/gonorrhea.md)
+  * [매독 Syphilis](227_/syphilis.md)
+  * [클라미디아 Chlamydia](227_/chlamydia.md)
   * [급성 방광염 Acute Cystitis](227_/118_-acute-cystitis.md)
   * [급성 신우신염 Acute Pyelonephritis, Uncomplicated](227_/119_-acute-pyelonephritis-uncomplicated.md)
   * [전립선염 Prostatitis](227_/120_-prostatitis.md)
