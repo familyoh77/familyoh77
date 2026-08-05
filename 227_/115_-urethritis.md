@@ -1,6 +1,6 @@
 # 요도염 Urethritis
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 테스트</mark>
 
 * 요도의 감염성(더 흔함) 또는 비-감염성 염증
 * 감염성의 경우 보통 균 노출 1\~3주 후 증상 발생; 임질은 1주 내 증상 발생
