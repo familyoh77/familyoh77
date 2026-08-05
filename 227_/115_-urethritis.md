@@ -47,7 +47,7 @@
 * 흔히 무증상 (남 \~40%, 여 \~75%)
 * 점진적 진행 : 7일 이상 된 증상은 방광염보다 요도염의 가능성이 높음
 * 빈뇨, 배뇨통(작열감)
-* 요도 가려움 : 요도구 주변의 <em>Candida</em>성 귀두염·외음부염이 동반되면 요도 가려움을 호소할 수 있음; <em>Candida</em> 자체는 확립된 요도염 원인균은 아님
+* 요도 가려움 : 요도구 주변의 Candida성 귀두염·외음부염이 동반되면 요도 가려움을 호소할 수 있음; Candida 자체는 확립된 요도염 원인균은 아님
 * 점액성\~농성 요도 분비물
 * 드물게 혈뇨
 * 여성에서는 질염 증상이 동반될 수 있음
@@ -142,7 +142,7 @@
 flowchart TD
     Start["초치료 후 지속되는 <br/>요도염 증상"] 
 --> A["신체검사 or 실험실 검사상 <br/>요도염 증거"]
-    A -- no --> B["항생제 치료 없음<br>다른 원인 감별"]
+    A -- no --> B["다른 원인 감별"]
     A -- yes --> C["첫 소변 임질 & <br/>트라코마티스 (NAAT)"]
     C -- 음성 --> D["M. genit. 감염 의심<br>(위험 인자, 유행 지역)"]
     C -- 양성 --> E["불완전 치료? 재노출 의심?"]
@@ -162,8 +162,6 @@ class G,I sky
 style L fill:#e8f8e8,stroke:#4caf50
 
 ```
-
-※ 지속 증상이 있는 모든 환자에서 다음을 고려 : 만성 전립선염/만성 골반통 증후군 평가; 헤르페스 배양을 위한 요도 검체 채취; 비뇨의학과·감염내과 전문의 또는 경험 많은 동료와 상담
 
 <p align="center"><strong>초치료 후 지속되는 요도염 증상의 평가</strong></p>
 
@@ -190,38 +188,38 @@ style L fill:#e8f8e8,stroke:#4caf50
 
 ### <mark style="color:orange;">1차 선택제</mark>
 
-* doxycycline : 100 ㎎ bid ×7d <mark style="color:blue;">\[독시사이클린]</mark>
+* doxycycline : 100 ㎎ bid ×7d \[독시사이클린]
 
 _plus (임균 감염이 배제되지 않은 경우)_
 
-* ceftriaxone : 500 ㎎ ×1회 IM <mark style="color:blue;">\[트리악손]</mark> ; 체중 ≥150 ㎏인 경우 1 g으로 증량 \[CDC 2021]&#x20;
+* ceftriaxone : 500 ㎎ ×1회 IM \[트리악손] ; 체중 ≥150 ㎏인 경우 1 g으로 증량 \[CDC 2021]&#x20;
   * 국내 일부 진료 현장에서는 azithromycin 병용이 여전히 사용되지만, CDC 개정 이후로는 권장되지 않음
 
 ### <mark style="color:orange;">대체제</mark>
 
-* azithromycin : 500 ㎎ ×1d & 250 ㎎ qd ×4d OR 1 g 1회 <mark style="color:blue;">\[지스로맥스]</mark>; 임신 위험 category B, 수유 중 투여 가능; doxycycline 대비 치료 실패 및 내성 보고 증가로 chlamydia 1차 선택에서 제외됨 \[CDC 2021]
-* levofloxacin : 500 ㎎ qd ×7d <mark style="color:blue;">\[크라비트]</mark>
-* ofloxacin : 300 ㎎ bid ×7d <mark style="color:blue;">\[오플록사신]</mark>&#x20;
+* azithromycin : 500 ㎎ ×1d & 250 ㎎ qd ×4d OR 1 g 1회 \[지스로맥스]; 임신 위험 category B, 수유 중 투여 가능; doxycycline 대비 치료 실패 및 내성 보고 증가로 chlamydia 1차 선택에서 제외됨 \[CDC 2021]
+* levofloxacin : 500 ㎎ qd ×7d \[크라비트]
+* ofloxacin : 300 ㎎ bid ×7d \[오플록사신]&#x20;
   * 플루오로퀴놀론계는 현재 NGU 1차/대체 요법으로 적극 권고되지 않으며, doxycycline·azithromycin을 사용할 수 없는 경우에 제한적으로 고려
 
 ### <mark style="color:orange;">재발성 및 지속성 요도염</mark>
 
-* _M. genitalium_ (가능하면 resistance test 선행)
+* M. genitalium (가능하면 resistance test 선행)
   * macrolide sensitive : doxy. 100 ㎎ bid ×7d 이어서 azith. 1 g 1회 & 500 ㎎ qd ×3d
-  * macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d <mark style="color:blue;">\[아벨록스]</mark>&#x20;
+  * macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d \[아벨록스]&#x20;
     * 국내에서는 macrolide 내성 검사 상용화가 제한적이어서, 실제로는 검사 없이 moxifloxacin으로 넘어가는 경우가 많음
-* _T. vaginalis_ 유병률이 높은 지역 또는 이성 파트너가 있는 남성
-  * metronidazole : 2 g ×1회. 복용 중 금주 <mark style="color:blue;">\[후라시닐]</mark>
-  * tinidazole : 2 g ×1회 <mark style="color:blue;">\[티니다진]</mark>
+* T. vaginalis 유병률이 높은 지역 또는 이성 파트너가 있는 남성
+  * metronidazole : 2 g ×1회. 복용 중 금주 \[후라시닐]
+  * tinidazole : 2 g ×1회 \[티니다진]
 * 남성에서 불완전하게 치료했거나 치료하지 않은 파트너에 재노출 → 초치료법으로 재치료
 
 ### <mark style="color:orange;">여성 요도증후군 (STI 및 단순 방광염 배제 후)</mark>
 
 * 여성의 감염성(STI) 요도염은 남성과 동일하게 doxycycline 등으로 치료함; 아래 약제는 STI가 배제된 요도증후군 또는 동반된 단순 방광염에 대한 치료임
 * nitrofurantoin : 100 ㎎ bid ×5d
-* TMP/SMX : 160/800 ㎎ bid ×3d; 내성 가능성이 있거나 3개월 내 UTI 치료로 사용된 적이 있으면 피함 <mark style="color:blue;">\[셉트린]</mark>
-* fosfomycin : 다른 제제에 비하여 효과 떨어짐; 3 g ×1회 <mark style="color:blue;">\[모누롤]</mark>
-* pivmecillinam : 다른 제제에 비하여 효과 떨어짐; 400 ㎎ bid ×5d <mark style="color:blue;">\[셀렉시드]</mark>
+* TMP/SMX : 160/800 ㎎ bid ×3d; 내성 가능성이 있거나 3개월 내 UTI 치료로 사용된 적이 있으면 피함 \[셉트린]
+* fosfomycin : 다른 제제에 비하여 효과 떨어짐; 3 g ×1회 \[모누롤]
+* pivmecillinam : 다른 제제에 비하여 효과 떨어짐; 400 ㎎ bid ×5d \[셀렉시드]
 
 ***
 
