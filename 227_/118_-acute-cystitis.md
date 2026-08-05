@@ -1,7 +1,5 @@
 # 급성 방광염 Acute Cystitis
 
-![image](../.gitbook/assets/6bcec5cc-996a-4c9c-945a-65a7de84fbd1.JPG)
-
 ## 일반 사항
 
 * 전염 경로 : 회음부/요도/항문으로부터의 상행 감염
@@ -11,9 +9,8 @@
 
 ## 원인
 
-*   원인균 : E. coli (가장 흔함), Staphylococcus saprophyticus
-
-    •기타 : Pseudomonas, Klebsiella, Proteus, Candida, Aspergillus, Cryptococcus
+* 원인균 : E. coli (가장 흔함), Staphylococcus saprophyticus
+  * 기타 : Pseudomonas, Klebsiella, Proteus, Candida, Aspergillus, Cryptococcus
 
 ### 위험 인자
 
@@ -36,13 +33,9 @@
 
 * U/A : 농뇨(WBC ≥10/HPF), 세균뇨; 증상의 중증도와 농뇨/세균뇨의 정도가 일치하지는 않음
 * 시험지봉 검사 : leukocyte esterase, nitrite; 두 가지 모두 양성 시 요로 감염 확률 \~80%
-*   배양 검사 : 보통 유용하지 않으며 필요 없음
-
-    •검사 대상 : 불확실한 진단, 신우신염 의심, 비전형적인 증상, 임신부, 남성 요로 감염 의심, 치료 종료 후
-
-    2-4주 이내에 증상이 호전되지 않거나 재발
-
-    •≥103 cfu/㎖ 시 진단(기준에 대하여 이견이 있음)
+* 배양 검사 : 보통 유용하지 않으며 필요 없음
+  * 검사 대상 : 불확실한 진단, 신우신염 의심, 비전형적인 증상, 임신부, 남성 요로 감염 의심, 치료 종료 후 2-4주 이내에 증상이 호전되지 않거나 재발
+  * ≥10³ cfu/㎖ 시 진단(기준에 대하여 이견이 있음)
 
 ### 영상 검사
 
@@ -57,9 +50,7 @@
 * 남성에서의 골반/음경 통증, 성기 끝까지 퍼지는 통증, 소변 저류 증상(배뇨 지연, dribbling) → 세균성 전립선염
 * 남성에서의 재발성 방광염 증상 → 만성 전립선염
 * 활발한 성관계 남성 → Chlamydia , Gonorrhea
-*   남성에서는 세균뇨 유무로 만성 골반통증후군(chronic pelvic pain syndrome)과 급만성 세균성 전립선염을 감별하며,
-
-    항생제 사용을 결정함
+* 남성에서는 세균뇨 유무로 만성 골반통증후군(chronic pelvic pain syndrome)과 급만성 세균성 전립선염을 감별하며, 항생제 사용을 결정함
 
 ***
 
@@ -115,8 +106,25 @@
 
 (☞ p.625)
 
-> **질병코드** N30 방광염
+
+
+### **질병코드**&#x20;
+
+N30 방광염
 
 N30.0 급성 방광염 질병코드
 
-![image](../.gitbook/assets/40fd51ed-f5b1-4aa0-bbf8-73f1d161f9a3.JPG)
+
+
+## 처방례
+
+처방례 1.\
+바난 100 ㎎/T 2T #2 ×5d\
+티로파 100 ㎎/T 2T #2\
+부루펜 200 ㎎/T 6T #2 (불편 증상이 없으면 필요 없음)
+
+\
+처방례 2.\
+셉트린 80/400 ㎎ 4T #2 ×3d\
+알기론 50 ㎎ 2T #2\
+애니펜 300 ㎎/T 2T #2 (불편 증상이 없으면 필요 없음)
