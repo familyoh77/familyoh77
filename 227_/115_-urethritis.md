@@ -17,8 +17,9 @@
 
 #### <mark style="color:$primary;">여성 요도증후군 (Female urethral syndrome)</mark>
 
-* 비뇨기계 감염 또는 확인된 이상 없이 빈뇨, 배뇨통, 잔뇨감 등 전형적인 하부 요로 감염에서와 같은 증상이 발생하는 증후군
-* 원인 : 불명; 폐경 후 에스트로겐 감소, Skene gland dysfunction, pelvic floor dysfunction, 과민방광, 이전 UTI 병력, 환경 자극(예: 뒷물, 거품 목욕, 향이 강한 여성청결제) 등이 추정됨
+* 비뇨기계 감염 또는 확인된 이상 없이 "빈뇨, 배뇨통, 잔뇨감" 등 전형적인 하부 요로 감염에서와 같은 증상이 발생하는 증후군
+* 원인 : 불명
+  * 폐경 후 에스트로겐 감소, Skene gland dysfunction, pelvic floor dysfunction, 과민방광, 이전 UTI 병력, 환경 자극(예: 뒷물, 거품 목욕, 향이 강한 여성청결제) 등이 추정됨
 * 기능적 요인이 의심되면 배뇨 일지, 요속 검사(uroflowmetry) 등 평가를 고려
 * 종종 악화와 완화가 반복되어 비뇨기계 증상 뿐 아니라 불안 등의 심리적 증상을 초래함
 
@@ -26,8 +27,8 @@
 
 #### <mark style="color:$primary;">감염성</mark>
 
-* 임균 : _N. gonorrhoeae_ (☞ 임질 챕터 참조)
-* 비-임균 : _Chlamydia trachomatis_ (가장 흔함), _Mycoplasma genitalium_ (지속/재발 NGU의 가장 흔한 원인), _Trichomonas vaginalis, Ureaplasma urealyticum_(일부 증례에서 원인균으로 보고되나 병원성은 제한적; _U. parvu&#x6D;_&#xC740; 정상 상재균인 경우가 많아 제외), HSV, Adenovirus(특히 구강성교 관련)
+* 임균 : _N. gonorrhoeae_ (☞ [임질](115_-2.gonorrhea.md))
+* 비-임균 : _Chlamydia trachomatis_(가장 흔함), _Mycoplasma genitalium_(지속/재발 NGU의 가장 흔한 원인), _Trichomonas vaginalis, Ureaplasma urealyticum_(일부 증례에서 원인균으로 보고되나 병원성은 제한적; _U. parvu&#x6D;_&#xC740; 정상 상재균인 경우가 많아 제외), HSV, Adenovirus(특히 구강성교 관련)
 
 #### <mark style="color:$primary;">비-감염성</mark>
 
@@ -187,7 +188,7 @@ flowchart TD
 * 모든 성인에서 HIV 선별검사 권고; 고위험군에서는 매독, B형/C형간염 동반 검사
 
 {% hint style="info" %}
-**Doxy-PEP(노출 후 예방요법)** - 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](sexually-transmitted-infection-sti.md)) 참조
+**Doxy-PEP(노출 후 예방요법)** - 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](115_-1.STI.md)) 참조
 {% endhint %}
 
 ***
@@ -195,7 +196,7 @@ flowchart TD
 ## <mark style="color:green;">약물 치료</mark>
 
 {% hint style="info" %}
-아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](chlamydia.md), [임질](gonorrhea.md) 챕터) 참조
+아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](115_-4.chlamydia.md), [임질](115_-2.gonorrhea.md) 챕터) 참조
 {% endhint %}
 
 ### <mark style="color:orange;">1차 선택제</mark>
