@@ -138,6 +138,12 @@
 * _T. vaginalis_ 유병률이 높은 지역 또는 이성 파트너가 있는 남성에서는 NAAT 검사 및 경험적 치료 고려
 * 요도염에 대한 명확한 증상 또는 증거가 있는 경우에만 치료
 
+{% hint style="info" %}
+**BASHH 2025 지속/재발성 NGU 대안 접근법 (영국, 컨설테이션 초안) :** 검사 결과를 기다리지 않고 1차 치료제를 교체하며 metronidazole을 경험적으로 병용하는 전략도 제시됨: doxycycline 1차 실패 시 → azithromycin 확장요법(1g+500mg×3d) + metronidazole 400\~500mg bid ×7d; azithromycin 1차 실패 시 → doxycycline 100mg bid ×7d + metronidazole 400\~500mg bid ×7d. M. genitalium 감수성 검사 접근성이 낮은 상황에서 대안이 될 수 있으나, 아직 정식 발간 전 초안(2025.6)이며 국내 macrolide 내성 양상과 다를 수 있어 신중히 적용
+{% endhint %}
+
+
+
 ```mermaid
 flowchart TD
     Start["초치료 후 지속되는 <br/>요도염 증상"] 
