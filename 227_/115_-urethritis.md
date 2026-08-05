@@ -166,7 +166,7 @@ style L fill:#e8f8e8,stroke:#4caf50
 
 <p align="center"><strong>초치료 후 지속되는 요도염 증상의 평가</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. AFP 2021;103(9) Fig. 1</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Urethritis: Rapid Evidence Review. AFP 2021;103(9) Fig. 1</mark></em></p>
 
 ***
 
