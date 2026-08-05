@@ -121,55 +121,46 @@
 
 <mark style="color:cyan;">**단계별 치료 전략**</mark>
 
-<table><thead><tr><th width="82.3333740234375">단계</th><th width="377.3809814453125">핵심 치료</th><th>대상</th></tr></thead><tbody><tr><td>Step 1</td><td>임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음)</td><td>진단 기준을 충족하는 모든 환자</td></tr><tr><td>Step 2</td><td>NAAT 결과에 따라 표적 항생제로 조정</td><td>검사 결과 확인된 환자</td></tr><tr><td>Step 3</td><td>7일 이상 증상 지속/재발 시 <em>M. genitalium, T. vaginalis</em> 평가</td><td>초치료 실패 환자</td></tr></tbody></table>
+<table><thead><tr><th width="237.90472412109375">대상</th><th width="88.047607421875">단계</th><th>핵심 치료</th></tr></thead><tbody><tr><td>진단 기준을 충족하는 모든 환자</td><td>Step 1</td><td>임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음)</td></tr><tr><td>검사 결과 확인된 환자</td><td>Step 2</td><td>NAAT 결과에 따라 표적 항생제로 조정</td></tr><tr><td>초치료 실패 환자</td><td>Step 3</td><td>7일 이상 증상 지속/재발 시 <em>M. genitalium, T. vaginalis</em> 평가</td></tr></tbody></table>
 
 ### <mark style="color:orange;">치료 후 모니터링</mark>
 
-* 치료 후 3주 이내에는 NAAT 위양성 가능성이 있어 재검사를 권장하지 않음; Chlamydia는 치료 후 4주 이전 치료 판정 검사(test-of-cure)를 피함
+* 치료 후 3주 이내에는 NAAT 위양성 가능성이 있어 재검사는 피함
+  * 특히Chlamydia는 치료 후 4주 이전 치료 판정 검사(test-of-cure)를 피함
 * 완치 판정을 위한 일률적인 test-of-cure는 권하지 않음
 * 다음의 경우 치료 3\~4주 후 추적 검사 : 임신, 증상 지속, 불완전한 치료, 재감염 의심
-* 다음의 경우 test-of-cure를 권고 : 인두 임균 감염 전체, azithromycin으로 치료한 직장 클라미디아 감염
+* 다음의 경우 test-of-cure를 권고 : 인두 임균 감염 전체, azithromycin으로 치료한 직장 Chlamydia 감염
 * Chlamydia, Gonorrhea 감염자는 재감염 여부 확인을 위해 치료 3개월 후 재검사 권고
 
 #### <mark style="color:$primary;">지속 또는 재발성 non-gonococcal urethritis(NGU)</mark>
 
-* M. genitalium에 대한 NAAT 검사 및 macrolide 저항성 검사 고려
-* T. vaginalis 유병률이 높은 지역 또는 이성 파트너가 있는 남성에서는 NAAT 검사 및 경험적 치료 고려
+* _M. genitaliu&#x6D;_&#xC5D0; 대한 NAAT 검사 및 macrolide 저항성 검사 고려
+* _T. vaginalis_ 유병률이 높은 지역 또는 이성 파트너가 있는 남성에서는 NAAT 검사 및 경험적 치료 고려
 * 요도염에 대한 명확한 증상 또는 증거가 있는 경우에만 치료
 
 ```mermaid
 flowchart TD
-    Start["초치료 후 지속되는 요도염 증상"] --> A["신체검사 or 실험실 검사상 요도염 증거"]
-
+    Start["초치료 후 지속되는 <br/>요도염 증상"] 
+--> A["신체검사 or 실험실 검사상 <br/>요도염 증거"]
     A -- no --> B["다른 원인 감별"]
-    A -- yes --> C["첫 소변 임질 & 트라코마티스 (NAAT)"]
-
+    A -- yes --> C["첫 소변 임질 & <br/>트라코마티스 (NAAT)"]
     C -- 음성 --> D["M. genit. 감염 의심<br>(위험 인자, 유행 지역)"]
     C -- 양성 --> E["불완전 치료? 재노출 의심?"]
-
     D -- no --> F["T. vagin. 감염 의심<br>(위험 인자, 유행 지역)"]
-    D -- yes --> G["• doxycycline 치료 실패<br>→ macrolide 감수성 확인 시 azithromycin 확장요법(1g+500mg×3d)<br>→ 검사 불가/내성 시 moxifloxacin 400 mg qd × 7d"]
-
+    D -- yes --> G["•doxycycline 치료 실패<br>→ macrolide 감수성 확인 시<br/>azithromycin 확장요법<br/>(1g+500mg×3d)<br>→ 검사 불가/내성 시 <br/>moxifloxacin 400 mg qd × 7d"]
     F -- no --> H["다른 원인 감별"]
     F -- yes --> I["metronidazole<br>2 g × 1회"]
-
     E -- no --> J["cephalosporin<br>항생제 내성?"]
     E -- yes --> K["재치료"]
-
     J --> L["배양 검사, 항생제<br>감수성 검사"]
 
-    %% Styling
-    classDef start fill:#f0eeeb,stroke:#dcd8d0,color:#333;
-    classDef gray fill:#f1f3f5,stroke:#ced4da,color:#333;
-    classDef green fill:#eaf4eb,stroke:#c8e6ca,color:#333;
-    classDef yellow fill:#fffce8,stroke:#fbe8a6,color:#333;
-    classDef blue fill:#ebf5ff,stroke:#b3d8ff,color:#333;
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class A,C,E,D,F,J yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class G,I sky
+style L fill:#e8f8e8,stroke:#4caf50
 
-    class Start start;
-    class A,B,H gray;
-    class C,L green;
-    class D,E,F,J yellow;
-    class G,I,K blue;
 ```
 
 <p align="center"><strong>초치료 후 지속되는 요도염 증상의 평가</strong></p>
@@ -186,42 +177,40 @@ flowchart TD
 * 모든 성인에서 HIV 선별검사 권고; 고위험군에서는 매독, B형/C형간염 동반 검사
 
 {% hint style="info" %}
-**Doxy-PEP(노출 후 예방요법)** - 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 (☞ [성매개질환 총론](115_-1.STI.md)) 참조
+**Doxy-PEP(노출 후 예방요법)** - 세균성 STI(매독·클라미디아·임질) 공통 예방 전략으로 고려(☞ [성매개감염병](115_-1.STI.md#undefined-6))
 {% endhint %}
-
-***
 
 ## <mark style="color:green;">약물 치료</mark>
 
 {% hint style="info" %}
-아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 (☞ [클라미디아감염증](115_-4.chlamydia.md), [임질](115_-2.gonorrhea.md) 챕터) 참조
+아래 용법은 병원체가 아직 확정되지 않은 상태에서의 경험적 치료 기준. 확진 후 상세 용법·대체 요법·모니터링·최신 개정 사항은 [클라미디아](115_-4.chlamydia.md), [임질](115_-2.gonorrhea.md) 챕터 참조
 {% endhint %}
 
 ### <mark style="color:orange;">1차 선택제</mark>
 
-*   doxycycline : 100 ㎎ bid ×7d \[독시사이클린]
+* doxycycline : 100 ㎎ bid ×7d \[독시사이클린]
 
-    plus (임균 감염이 배제되지 않은 경우)
-* ceftriaxone : 500 ㎎ ×1회 IM \[트리악손] ; 체중 ≥150 ㎏인 경우 1 g으로 증량(CDC 2021) ✽국내 일부 진료 현장에서는 azithromycin 병용이 여전히 사용되나, CDC 2021 개정 이후로는 권장되지 않음
+_plus (임균 감염이 배제되지 않은 경우)_
+
+* ceftriaxone : 500 ㎎ ×1회 IM \[트리악손] ; 체중 ≥150 ㎏인 경우 1 g으로 증량 \[CDC 2021]&#x20;
+  * 국내 일부 진료 현장에서는 azithromycin 병용이 여전히 사용되지만, CDC 개정 이후로는 권장되지 않음
 
 ### <mark style="color:orange;">대체제</mark>
 
-* azithromycin : 500 ㎎ ×1d & 250 ㎎ qd ×4d OR 1 g 1회 \[지스로맥스]; 임신 위험 category B, 수유 중 투여 가능; doxycycline 대비 치료 실패 및 내성 보고 증가로 chlamydia 1차 선택에서 제외됨(CDC 2021)
+* azithromycin : 500 ㎎ ×1d & 250 ㎎ qd ×4d OR 1 g 1회 \[지스로맥스]; 임신 위험 category B, 수유 중 투여 가능; doxycycline 대비 치료 실패 및 내성 보고 증가로 chlamydia 1차 선택에서 제외됨 \[CDC 2021]
 * levofloxacin : 500 ㎎ qd ×7d \[크라비트]
-* ofloxacin : 300 ㎎ bid ×7d \[오플록사신] ✽플루오로퀴놀론계는 현재 NGU 1차/대체 요법으로 적극 권고되지 않으며, doxycycline·azithromycin을 사용할 수 없는 경우에 제한적으로 고려
+* ofloxacin : 300 ㎎ bid ×7d \[오플록사신]&#x20;
+  * 플루오로퀴놀론계는 현재 NGU 1차/대체 요법으로 적극 권고되지 않으며, doxycycline·azithromycin을 사용할 수 없는 경우에 제한적으로 고려
 
 ### <mark style="color:orange;">재발성 및 지속성 요도염</mark>
 
-*   M. genitalium (가능하면 resistance test 선행)
-
-    •macrolide sensitive : doxy. 100 ㎎ bid ×7d 이어서 azith. 1 g 1회 & 500 ㎎ qd ×3d
-
-    •macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d \[아벨록스] ✽국내에서는 macrolide 내성 검사 상용화가 제한적이어서, 실제로는 검사 없이 moxifloxacin으로 넘어가는 경우가 많음
-*   T. vaginalis 유병률이 높은 지역 또는 이성 파트너가 있는 남성
-
-    •metronidazole : 2 g ×1회. 복용 중 금주 \[후라시닐]
-
-    •tinidazole : 2 g ×1회 \[티니다진]
+* M. genitalium (가능하면 resistance test 선행)
+  * macrolide sensitive : doxy. 100 ㎎ bid ×7d 이어서 azith. 1 g 1회 & 500 ㎎ qd ×3d
+  * macrolide 내성 또는 내성 검사 불가 : doxy. 100 ㎎ bid ×7d 이어서 moxifloxacin 400 ㎎ qd ×7d \[아벨록스]&#x20;
+    * 국내에서는 macrolide 내성 검사 상용화가 제한적이어서, 실제로는 검사 없이 moxifloxacin으로 넘어가는 경우가 많음
+* T. vaginalis 유병률이 높은 지역 또는 이성 파트너가 있는 남성
+  * metronidazole : 2 g ×1회. 복용 중 금주 \[후라시닐]
+  * tinidazole : 2 g ×1회 \[티니다진]
 * 남성에서 불완전하게 치료했거나 치료하지 않은 파트너에 재노출 → 초치료법으로 재치료
 
 ### <mark style="color:orange;">여성 요도증후군 (STI 및 단순 방광염 배제 후)</mark>
