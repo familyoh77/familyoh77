@@ -1,7 +1,5 @@
 # 급성 방광염 Acute Cystitis
 
-![image](../.gitbook/assets/6bcec5cc-996a-4c9c-945a-65a7de84fbd1.JPG)
-
 ## 일반 사항
 
 * 전염 경로 : 회음부/요도/항문으로부터의 상행 감염
@@ -11,9 +9,8 @@
 
 ## 원인
 
-*   원인균 : E. coli (가장 흔함), Staphylococcus saprophyticus
-
-    •기타 : Pseudomonas, Klebsiella, Proteus, Candida, Aspergillus, Cryptococcus
+* 원인균 : E. coli (가장 흔함), Staphylococcus saprophyticus
+  * 기타 : Pseudomonas, Klebsiella, Proteus, Candida, Aspergillus, Cryptococcus
 
 ### 위험 인자
 
@@ -36,13 +33,9 @@
 
 * U/A : 농뇨(WBC ≥10/HPF), 세균뇨; 증상의 중증도와 농뇨/세균뇨의 정도가 일치하지는 않음
 * 시험지봉 검사 : leukocyte esterase, nitrite; 두 가지 모두 양성 시 요로 감염 확률 \~80%
-*   배양 검사 : 보통 유용하지 않으며 필요 없음
-
-    •검사 대상 : 불확실한 진단, 신우신염 의심, 비전형적인 증상, 임신부, 남성 요로 감염 의심, 치료 종료 후
-
-    2-4주 이내에 증상이 호전되지 않거나 재발
-
-    •≥103 cfu/㎖ 시 진단(기준에 대하여 이견이 있음)
+* 배양 검사 : 보통 유용하지 않으며 필요 없음
+  * 검사 대상 : 불확실한 진단, 신우신염 의심, 비전형적인 증상, 임신부, 남성 요로 감염 의심, 치료 종료 후 2-4주 이내에 증상이 호전되지 않거나 재발
+  * ≥10³ cfu/㎖ 시 진단(기준에 대하여 이견이 있음)
 
 ### 영상 검사
 
@@ -57,9 +50,7 @@
 * 남성에서의 골반/음경 통증, 성기 끝까지 퍼지는 통증, 소변 저류 증상(배뇨 지연, dribbling) → 세균성 전립선염
 * 남성에서의 재발성 방광염 증상 → 만성 전립선염
 * 활발한 성관계 남성 → Chlamydia , Gonorrhea
-*   남성에서는 세균뇨 유무로 만성 골반통증후군(chronic pelvic pain syndrome)과 급만성 세균성 전립선염을 감별하며,
-
-    항생제 사용을 결정함
+* 남성에서는 세균뇨 유무로 만성 골반통증후군(chronic pelvic pain syndrome)과 급만성 세균성 전립선염을 감별하며, 항생제 사용을 결정함
 
 ***
 
@@ -69,40 +60,29 @@
 
 #### 항생제 (uncomplicated state)
 
-```
-![image](images/fa7b2998-6e3d-4488-b102-9522d286244c.JPG)
-```
+<table data-search="false"><thead><tr><th>성분명 [상품명]</th><th>용법</th><th>최소 투여 기간</th></tr></thead><tbody><tr><td>fosfomycin [모노롤]</td><td>3 g 1회</td><td>1일</td></tr><tr><td>ciprofloxacin* [씨프로바이]</td><td>500 mg bid 또는 250 mg bid</td><td>3일</td></tr><tr><td><strong>β-lactams</strong></td><td></td><td></td></tr><tr><td>cefpodoxime [바난]</td><td>100 mg bid</td><td>5일</td></tr><tr><td>cefdinir [옴니세프]</td><td>100 mg tid</td><td>5일</td></tr><tr><td>cefcapene pivoxil [후로록스]</td><td>100 mg tid</td><td>5일</td></tr><tr><td>cefditoren pivoxil [메이액트]</td><td>100 mg tid</td><td>5일</td></tr><tr><td>cefixime [슈프락스]</td><td>400 mg qd 또는 200 mg bid</td><td>3일</td></tr><tr><td>nitrofurantoin</td><td>100 mg bid</td><td>5일</td></tr><tr><td>pivmecillinam</td><td>400 mg tid</td><td>3일</td></tr><tr><td><strong>감수성 확인 후</strong></td><td></td><td></td></tr><tr><td>amoxicillin/clav. [오구멘틴]</td><td>500/125 mg bid</td><td>7일</td></tr><tr><td>TMP/SMX [셉트린]</td><td>160/800 mg bid</td><td>3일</td></tr></tbody></table>
+
+_\*FDA에서는 uncomplicated infection 시 fluoroquinolone 사용을 제한할 것을 권고_\
+_<mark style="color:$info;">Ref. 질병관리본부. 요로 감염 항생제 사용지침. 2018.</mark>_
 
 ### 기타
 
-*   항진균제 : 칸디다 감염 시
+* 항진균제 : 칸디다 감염 시
+  * fluconazole : 200 ㎎/d ×2주 \[푸루나졸] (☞ p.931)
+* 진경제 (☞ p.371)
+  * cimetropium : 50 ㎎ tid \[알기론]
+  * scopolamine : 10\~20 ㎎ tid\~qid \[부스코판]
+  * tiropramide : 100 ㎎ bid\~tid \[티로파]
+* 진통제
+  * ibuprofen : 400\~800 ㎎ tid \[부루펜]
+  * acetaminophen : 650\~1,300 ㎎ tid \[타이레놀]
+* 방광 마취제 : 항생제 치료 후 첫 24시간 내 투여 개시
+  * phenazopyridine : 200 ㎎ tid ×2d; 눈물, 소변이 오렌지색으로 변색될 수 있음
 
-    •fluconazole : 200 ㎎/d ×2주 \[푸루나졸] (☞ p.931)
-*   진경제 (☞ p.371)
+## 여성 recurrent uncomplicated UTI의 급성 episode \[AUA]
 
-    •cimetropium : 50 ㎎ tid \[알기론]
-
-    •scopolamine : 10~~20 ㎎ tid~~qid \[부스코판]
-
-    •tiropramide : 100 ㎎ bid\~tid \[티로파]
-*   진통제
-
-    •ibuprofen : 400\~800 ㎎ tid \[부루펜]
-
-    •acetaminophen : 650\~1,300 ㎎ tid \[타이레놀]
-*   방광 마취제 : 항생제 치료 후 첫 24시간 내 투여 개시
-
-    •phenazopyridine : 200 ㎎ tid ×2d; 눈물, 소변이 오렌지색으로 변색될 수 있음
-
-## 여성 recurrent uncomplicated UTI의 급성 episode
-
-```
-[AUA]
-```
-
-*   증상이 있는 급성 방광염 episode에 대하여 1차 치료 항생제 선택
-
-    •예) nitrofurantoin, TMP-SMX, fosfomycin
+* 증상이 있는 급성 방광염 episode에 대하여 1차 치료 항생제 선택
+  * 예) nitrofurantoin, TMP-SMX, fosfomycin
 * 급성 방광염 episode에 대한 항생제 치료는 단기간(≤7일) 시행
 * 배양 검사 결과 경구 항생제에 내성이 있는 경우 배양 검사에 따른 비경구 항생제 치료를 단기간(≤7일) 시행
 
@@ -113,10 +93,27 @@
 
 ## 예방
 
-(☞ p.625)
+(☞ [요로감염](113_-urinary-tract-infection.md#undefined-13))
 
-> **질병코드** N30 방광염
+
+
+### **질병코드**&#x20;
+
+N30 방광염
 
 N30.0 급성 방광염 질병코드
 
-![image](../.gitbook/assets/40fd51ed-f5b1-4aa0-bbf8-73f1d161f9a3.JPG)
+
+
+## 처방례
+
+처방례 1.\
+바난 100 ㎎/T 2T #2 ×5d\
+티로파 100 ㎎/T 2T #2\
+부루펜 200 ㎎/T 6T #2 (불편 증상이 없으면 필요 없음)
+
+\
+처방례 2.\
+셉트린 80/400 ㎎ 4T #2 ×3d\
+알기론 50 ㎎ 2T #2\
+애니펜 300 ㎎/T 2T #2 (불편 증상이 없으면 필요 없음)
