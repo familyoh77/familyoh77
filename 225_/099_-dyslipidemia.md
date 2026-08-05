@@ -170,6 +170,7 @@ _\*정량적으로 개수를 세는 위험 인자가 아니라, 경계/중등위
 • Risk enhancer 역치 : ≥50 ㎎/㎗ 또는 ≥125 nmol/L - 경계/중등위험군을 상위 위험군으로 재분류할지 판단하는 데 활용\
 • 매우 높은 유전적 ASCVD 위험 역치 : ＞180 ㎎/㎗ 또는 ＞425 nmol/L - 이 수준에서는 초고위험군으로의 재분류를 고려\
 • LDL이 목표에 도달한 상태에서도 Lp(a) 상승은 독립적인 잔여 위험 인자로 작용함\
+• 예시(기저 ASCVD 위험 5% 가정) : Lp(a) 50 ㎎/㎗에서 평생 위험 7%로, 100 ㎎/㎗에서 9.8%로 상승 - 환자 설명 시 구체적 수치로 제시하면 이해에 도움\
 • 특히 조기 CVD 가족력이 있거나 경계/중등위험군 재분류가 필요한 환자에서 우선 고려
 {% endhint %}
 
@@ -203,13 +204,9 @@ _\*정량적으로 개수를 세는 위험 인자가 아니라, 경계/중등위
 
 ### <mark style="color:orange;">선별 검사 대상 및 주기</mark>
 
-<table><thead><tr><th width="188">가이드라인</th><th width="321">대상</th><th>검사 주기</th></tr></thead><tbody><tr><td><strong>한국지질·동맥경화학회</strong> (2022)</td><td>≥40세 성인,<br>위험 인자 보유자</td><td>위험 인자 (−) 4~6년 / (+) 1~2년</td></tr><tr><td><strong>ESC/EAS</strong> (2025)</td><td>≥40세 남성, ≥50세 여성 (SCORE2/SCORE2-OP 적용)</td><td>위험 인자 평가 시 포함</td></tr><tr><td><strong>ACC/AHA</strong> (2026)</td><td>성인 전체(위험도 기반); 소아 9~11세 1회 선별 권고</td><td>저위험 4~6년 / 고위험 매년</td></tr></tbody></table>
+<table><thead><tr><th width="188">가이드라인</th><th width="321">대상</th><th>검사 주기</th></tr></thead><tbody><tr><td><strong>한국지질·동맥경화학회</strong> (2022)</td><td>≥40세 성인,<br>위험 인자 보유자</td><td>위험 인자 (−) 4~6년 / (+) 1~2년</td></tr><tr><td><strong>ESC/EAS</strong> (2025)</td><td>≥40세 남성, ≥50세 여성 (SCORE2/SCORE2-OP 적용)</td><td>위험 인자 평가 시 포함</td></tr><tr><td><strong>ACC/AHA</strong> (2026)</td><td>소아 9~11세 1회 선별; 19세부터 성인 선별 시작</td><td>19세 이후 기본 5년마다, 위험도에 따라 저위험 4~6년 / 고위험 매년</td></tr></tbody></table>
 
-{% hint style="info" %}
-**2026 ACC/AHA/Multisociety 이상지질혈증 가이드라인 - PREVENT-ASCVD 위험도 구간**\
-2018년 가이드라인의 Pooled Cohort Equations(PCE)를 대체하여 **PREVENT-ASCVD 방정식**을 1차예방 위험도 산출에 사용하도록 권고함(30\~79세 적용). PCE 대비 위험도가 40\~50% 낮게 산출되는 경향이 있어 위험 구간 자체를 하향 재조정함\
-• ＜3%- 저위험(Low); 3\~＜5% - 경계(Borderline); 5\~＜10% - 중등도(Intermediate); ≥10% - 고위험(High)
-{% endhint %}
+_✽ACC/AHA의 PREVENT-ASCVD 위험도 구간(저/경계/중등도/고위험)은 위 "심혈관 위험도 분류" 섹션 참조_
 
 ***
 
@@ -275,14 +272,15 @@ _✽_<sup>_\*_</sup>_LDL 콜레스테롤 기저치 대비 ≥50% 감소를 동�
 
 #### <mark style="color:$primary;">1차 예방 (30\~79세, ASCVD 병력 없음)</mark>
 
-* 위험 평가에 [PREVENT-ASCVD 방정식](https://professional.heart.org/en/guidelines-and-statements/prevent-calculator) 사용(30\~79세 적용); 결과가 애매한 경우(경계 위험) risk enhancer(조기 심혈관질환 가족력, 만성 염증질환, Lp(a) ≥125 nmol/L 또는 ≥50 ㎎/㎗, hs-CRP 연속 2회 ≥2 ㎎/L, ApoB ≥120 ㎎/㎗ 등) 또는 CAC score(30\~45세 [CAC](https://www.cac-tools.com/), 45세 이상 [MESA](https://mesa-nhlbi.org/researchers/tools/mesa-score-risk-calculator-nr))로 재평가
+* 위험 평가에 [PREVENT-ASCVD 방정식](https://professional.heart.org/en/guidelines-and-statements/prevent-calculator) 사용(30\~79세 적용); 결과가 애매한 경우(경계 위험) risk enhancer(조기 심혈관질환 가족력, 만성 염증질환, Lp(a) ≥125 nmol/L 또는 ≥50 ㎎/㎗, hs-CRP 연속 2회 ≥2 ㎎/L, ApoB ≥120 ㎎/㎗, **South Asian 혈통**, **임신 관련 위험 인자**(임신성 고혈압·전자간증·임신성 당뇨·조산) 등) 또는 CAC score(30\~45세 [CAC](https://www.cac-tools.com/), 45세 이상 [MESA](https://mesa-nhlbi.org/researchers/tools/mesa-score-risk-calculator-nr))로 재평가
 * LDL-C 70\~189 ㎎/㎗ 성인에서 위험도별 권고
-  * 저위험(＜3%) : 생활 습관 중재 우선
+  * 저위험(＜3%) : 생활 습관 중재 우선; 단 **LDL-C 160\~189 ㎎/㎗ 또는 30년 위험 ≥10%**인 경우 중강도 statin 고려(COR 2a) — 10년 위험은 낮아도 장기 누적 위험이 높은 30\~59세 젊은 환자에서 특히 중요
   * 경계위험(3\~＜5%) : 중강도 statin 고려, ≥30% LDL 감소 & ＜100 ㎎/㎗ 목표
   * 중등도위험(5\~＜10%) : 중강도 statin(≥30\~49% 감소) 권고, ＜100 ㎎/㎗ 목표
   * 고위험(≥10%) : 고강도 statin 권고, ＜70 ㎎/㎗ 목표
 * LDL-C ≥190 ㎎/㎗(중증 고콜레스테롤혈증) : 최대 내약 용량 statin 우선 투여 후 ezetimibe(COR 2a), PCSK9 억제제 또는 bempedoic acid 추가 고려; 임상 ASCVD 동반 시 목표 LDL-C ＜55 ㎎/㎗
-* 관상동맥석회화점수(CAC score)를 이미 시행한 경우 : CAC ≥1000 AU는 LDL-C ＜55 ㎎/㎗, CAC 300\~999 AU는 ＜70 ㎎/㎗(선택적으로 ＜55), CAC 100\~299 AU(또는 ≥75th percentile)는 ＜70 ㎎/㎗, CAC 1\~99 AU(＜75th percentile)는 중강도 statin으로 ＜100 ㎎/㎗ 목표
+* 관상동맥석회화점수(CAC score) : 10년 위험 ≥3%이면서 statin 시작 여부가 불확실한 경우 시행 권고(COR 1); CAC=0인 경우 10년 사건 발생률 약 1\~2%로 매우 낮아 **statin을 연기·보류하는 근거**로 사용 가능(다른 risk enhancer와 달리, "부재"가 실제로 치료 연기 근거가 되는 유일한 항목); CAC ≥100 또는 ≥75th percentile은 약 7.5\~10%로 치료 강화 근거가 됨(MESA 코호트 기준)
+  * 이미 CAC score를 시행한 경우 목표치 : CAC ≥1000 AU는 LDL-C ＜55 ㎎/㎗, CAC 300\~999 AU는 ＜70 ㎎/㎗(선택적으로 ＜55), CAC 100\~299 AU(또는 ≥75th percentile)는 ＜70 ㎎/㎗, CAC 1\~99 AU(＜75th percentile)는 중강도 statin으로 ＜100 ㎎/㎗ 목표
 * 40\~75세 당뇨병 성인 : 중강도 statin으로 LDL-C ＜100 ㎎/㎗ 목표(대부분 중등도\~고위험으로 간주); 다중 위험인자 동반 시 고강도 statin & ＜70 ㎎/㎗ 고려
 * 20\~39세 당뇨병 : 즉시 치료보다는 당뇨병 특이 risk enhancer(2형 유병기간 ≥10년, 1형 ≥20년 등) 평가 후 결정
 
@@ -308,6 +306,11 @@ _✽_<sup>_\*_</sup>_LDL 콜레스테롤 기저치 대비 ≥50% 감소를 동�
 
 * Lp(a) : 모든 성인에서 ASCVD 위험 평가를 위해 최소 1회 측정 권고; 100 ㎎/㎗에서 상대위험 약 2배, 180 ㎎/㎗에서 약 4배 이상 증가
 * ApoB : atherogenic lipid burden을 대표하는 지표로, 특히 고TG혈증·당뇨병·CKD 등 LDL-C와 실제 위험도가 불일치할 수 있는 상황에서 유용
+
+{% hint style="warning" %}
+**적용 확대에 대한 비판적 시각 (JAMA 2026)**\
+NHANES 자료 기반 분석(Anderson 등)에 따르면 2026 가이드라인 적용 시 미국 성인 중 statin 대상자가 기존보다 약 2,150만 명 늘어나며(전체의 56.6%가 대상), 새로 대상이 된 인구의 평균 10년 위험도는 3.1%로 기존 대상군(6.1%)보다 현저히 낮음. 저위험 기준을 3%로 정한 근거 자체가 **"중강도 statin이 ASCVD 1건을 예방하는 것과 당뇨병 1건을 유발하는 것이 균형을 이루는 지점"**이라는 계산에서 나온 것으로, 순이익이 근소한 경계선상의 기준임을 시사함. 국내에는 직접 적용되는 수치가 아니나, 저위험군에 대한 statin 확대 적용을 논의할 때 참고할 만한 시각임.
+{% endhint %}
 
 ### <mark style="color:orange;">ESC/EAS 권고안 (2025)</mark>
 
@@ -521,12 +524,25 @@ _Ref. 한국지질·동맥경화학회 제5판(2022), ACC/AHA_
 * 부작용 : 주사 부위 반응
 * alirocumab : 75\~150 ㎎ 2\~4주마다 피하주사
 * evolocumab : 140 ㎎ 격주 또는 420 ㎎ 매월 피하주사 <mark style="color:blue;">\[레파타 주]</mark> (보험기준 : 초고위험군 ASCVD 환자에서 최대 내약 용량의 statin+ezetimibe 병용에도 LDL ≥70 ㎎/㎗이거나 기저치 대비 50% 이상 감소하지 않는 경우 - ☞ 정확한 급여 기준은 HIRA 고시로 재확인)
+* **FOURIER 시험(NEJM 2017)** : statin 치료 중인 ASCVD 환자(LDL ≥70 ㎎/㎗) 27,564명을 evolocumab군과 위약군으로 무작위 배정; 심혈관 사망·심근경색·뇌졸중·불안정 협심증 입원·관상동맥 재관류술의 복합 발생률이 evolocumab군 9.8% vs 위약군 11.3%(HR 0.85, 95% CI 0.79\~0.92, P<0.001) — PCSK9 억제제 중 심혈관 사건 감소를 전향적으로 입증한 근거
+
+### <mark style="color:orange;">경구 PCSK9 억제제 (엔리시타이드)</mark>
+
+{% hint style="info" %}
+**국내 미도입 — 2026년 7월 미국 FDA 단독 승인**\
+MSD가 개발한 macrocyclic peptide 계열의 **경구용** PCSK9 억제제로, 2026년 7월 16일 FDA가 고콜레스테롤혈증 및 이형접합 가족성 고콜레스테롤혈증(HeFH) 성인의 식이·운동요법 보조제로 승인함(상품명 립펜드라, 성분명 enlicitide). 기존 PCSK9 억제제가 모두 주사제인 것과 달리 매일 아침 공복에 20 ㎎ 1정을 복용하고, 복용 후 최소 30분간 금식이 필요함.
+{% endhint %}
+
+* 효과(CORALreef Lipids, ASCVD/고위험 고콜레스테롤혈증 환자 대상, statin 병용) : 24주 LDL-C 위약 대비 55.8%p 감소(57.1%↓ vs 위약군 3.0%↑, P<0.001)
+* 효과(CORALreef HeFH, HeFH 성인 대상) : 24주 LDL-C 위약 대비 59.4%p 감소(58.2%↓ vs 위약군 2.6%↑, P<0.001)
+* 부작용 : 설사(7% vs 위약 2%), 어지럼증(9% vs 위약 4%); 이상반응에 따른 치료 중단율은 위약군과 유사
+* **심혈관 사건 감소 효과는 아직 입증되지 않음**(CORALreef Outcomes 연구 진행 중) — 장기 심혈관 이득이 확인된 evolocumab·alirocumab과는 근거 수준이 다르므로 이 점을 감안하여 참고할 것
 
 ### <mark style="color:orange;">Inclisiran (siRNA 기반 PCSK9 억제제)</mark>
 
 * 기전 : 간세포 ASGPR을 통해 흡수되어 RNA 간섭으로 PCSK9 mRNA를 분해 → PCSK9 단백질 생성 억제 → LDL 수용체 재활용 증가 → LDL-C 감소
 * 효과 : statin 병용 시 LDL 약 50% 감소, 1회 투여 후 효과가 수개월 지속
-* inclisiran : 첫 투여 후 3개월째 1회 추가, 이후 6개월마다 피하주사(의료기관 투여) <mark style="color:blue;">\[렉비오 주]</mark> (국내 미승인)
+* inclisiran : 첫 투여 후 3개월째 1회 추가, 이후 6개월마다 피하주사(의료기관 투여) <mark style="color:blue;">\[렉비오 주]</mark> (한국노바티스, 국내 식약처 허가됨; 급여 적용 여부는 유동적이므로 처방 전 확인 필요)
 
 ### <mark style="color:orange;">Bempedoic acid</mark>
 
