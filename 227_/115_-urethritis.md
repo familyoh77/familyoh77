@@ -78,7 +78,7 @@
 ### <mark style="color:orange;">진단 기준</mark>
 
 * 점액 농성 또는 농성 요도 분비물
-* urethral swab 그람염색 : ≥2 WBC/oil immersion field(고유병률 세팅) 또는 ≥5 WBC/oil immersion field(저유병률 세팅)
+* urethral swab 그람염색 : ≥2 WBC/oil immersion field(고유병률 세팅, 예: 성병클리닉) 또는 ≥5 WBC/oil immersion field(저유병률 세팅, 예: 일반 1차 진료)
 * 아침 첫 소변 WBC ≥10/HPF 또는 leukocyte esterase(+)
 
 ### <mark style="color:orange;">추가 검사</mark>
@@ -91,9 +91,7 @@
 ### <mark style="color:orange;">STI 선별 검사 대상</mark>
 
 * 13\~64세 모든 사람 : 최소 1회 HIV 선별검사 (이후 위험군은 매년, MSM은 3\~6개월마다 고려 \[CDC]; 국내 진료 현장에서는 현실적으로 연 1회가 주로 적용됨)
-*   성관계를 하는 ＜26세 여성, 새로운 또는 복수의 성 파트너가 있거나 콘돔을 사용하지 않은 ≥26세 여성 :
-
-    매년 Gonorrhea 및 Chlamydia
+* 성관계를 하는 ＜26세 여성, 새로운 또는 복수의 성 파트너가 있거나 콘돔을 사용하지 않은 ≥26세 여성 : 매년 Gonorrhea 및 Chlamydia
 * 일정하지 않은 파트너 또는 복수의 파트너가 있는 남녀 : HBV
 * 요도염이 있는 모든 남성 : Gonorrhea 및 Chlamydia
 * 모든 18세 이상 : 평생 1회 HCV 선별검사; 위험 인자(정맥 마약 사용, 투석, HIV 감염 등)가 있으면 반복 검사
@@ -101,13 +99,13 @@
 * 동성애 남성 : 1년에 1회 이상 HAV, HBV, HCV, HIV, 매독, Chlamydia, Gonorrhea
 * HIV 감염자 : A, B, C형간염; 1년에 1회 이상 매독, Chlamydia, Gonorrhea
 * HIV 감염 여성 : 1년에 1회 이상 trichomonas
-* HIV 감염 남성과 성관계를 가진 남자 : 1년에 1회 이상 HCV
+* HIV 감염 MSM : 1년에 1회 이상 HCV
 
 ### <mark style="color:orange;">감별</mark>
 
-* 흔한 배뇨통·요도 증상의 감별
+* 배뇨통·요도 증상의 감별
 
-<table><thead><tr><th width="448.57147216796875">임상 상황</th><th>시사 질환</th></tr></thead><tbody><tr><td>남성에서 증상은 지속되나 요도 감염의 증거가 없는 경우</td><td>만성 전립선염</td></tr><tr><td>여성에서 배뇨통은 있으나 농뇨가 없는 경우</td><td>질염</td></tr><tr><td>검사상 요도염의 증거는 없고 증상만 지속 또는 재발하는 경우</td><td>기능적 문제(여성 요도증후군 등)</td></tr><tr><td>배뇨 곤란 증상만 존재</td><td>Chlamydia 감염 우선 고려</td></tr><tr><td>통증성 생식기 궤양 동반</td><td>HSV 감염</td></tr></tbody></table>
+<table><thead><tr><th width="448.57147216796875">임상 상황</th><th>시사 질환</th></tr></thead><tbody><tr><td>남성에서 증상은 지속되나 요도 감염의 증거가 없는 경우</td><td>만성 전립선염</td></tr><tr><td>여성에서 배뇨통은 있으나 농뇨가 없는 경우</td><td>질염</td></tr><tr><td>검사상 요도염의 증거는 없고 증상만 지속 또는 재발하는 경우</td><td>기능적 문제 (여성 요도증후군 등)</td></tr><tr><td>배뇨 곤란 증상만 존재</td><td>Chlamydia 감염 우선 고려</td></tr><tr><td>통증성 생식기 궤양 동반</td><td>HSV 감염</td></tr></tbody></table>
 
 ***
 
@@ -123,7 +121,7 @@
 
 <mark style="color:cyan;">**단계별 치료 전략**</mark>
 
-<table><thead><tr><th width="82.3333740234375">단계</th><th width="397.3809814453125">핵심 치료</th><th>대상</th></tr></thead><tbody><tr><td>Step 1</td><td>임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음)</td><td>진단 기준을 충족하는 모든 환자</td></tr><tr><td>Step 2</td><td>NAAT 결과에 따라 표적 항생제로 조정</td><td>검사 결과 확인된 환자</td></tr><tr><td>Step 3</td><td>7일 이상 증상 지속/재발 시 <em>M. genitalium, T. vaginalis</em> 평가</td><td>초치료 실패 환자</td></tr></tbody></table>
+<table><thead><tr><th width="82.3333740234375">단계</th><th width="377.3809814453125">핵심 치료</th><th>대상</th></tr></thead><tbody><tr><td>Step 1</td><td>임상 진단 즉시 경험적 치료 시작 (검사 결과를 기다리지 않음)</td><td>진단 기준을 충족하는 모든 환자</td></tr><tr><td>Step 2</td><td>NAAT 결과에 따라 표적 항생제로 조정</td><td>검사 결과 확인된 환자</td></tr><tr><td>Step 3</td><td>7일 이상 증상 지속/재발 시 <em>M. genitalium, T. vaginalis</em> 평가</td><td>초치료 실패 환자</td></tr></tbody></table>
 
 ### <mark style="color:orange;">치료 후 모니터링</mark>
 
