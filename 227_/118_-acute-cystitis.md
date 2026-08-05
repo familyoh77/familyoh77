@@ -60,40 +60,29 @@
 
 #### 항생제 (uncomplicated state)
 
-```
-![image](images/fa7b2998-6e3d-4488-b102-9522d286244c.JPG)
-```
+<table data-search="false"><thead><tr><th>성분명 [상품명]</th><th>용법</th><th>최소 투여 기간</th></tr></thead><tbody><tr><td>fosfomycin [모노롤]</td><td>3 g 1회</td><td>1일</td></tr><tr><td>ciprofloxacin* [씨프로바이]</td><td>500 mg bid 또는 250 mg bid</td><td>3일</td></tr><tr><td><strong>β-lactams</strong></td><td></td><td></td></tr><tr><td>cefpodoxime [바난]</td><td>100 mg bid</td><td>5일</td></tr><tr><td>cefdinir [옴니세프]</td><td>100 mg tid</td><td>5일</td></tr><tr><td>cefcapene pivoxil [후로록스]</td><td>100 mg tid</td><td>5일</td></tr><tr><td>cefditoren pivoxil [메이액트]</td><td>100 mg tid</td><td>5일</td></tr><tr><td>cefixime [슈프락스]</td><td>400 mg qd 또는 200 mg bid</td><td>3일</td></tr><tr><td>nitrofurantoin</td><td>100 mg bid</td><td>5일</td></tr><tr><td>pivmecillinam</td><td>400 mg tid</td><td>3일</td></tr><tr><td><strong>감수성 확인 후</strong></td><td></td><td></td></tr><tr><td>amoxicillin/clav. [오구멘틴]</td><td>500/125 mg bid</td><td>7일</td></tr><tr><td>TMP/SMX [셉트린]</td><td>160/800 mg bid</td><td>3일</td></tr></tbody></table>
+
+_\*FDA에서는 uncomplicated infection 시 fluoroquinolone 사용을 제한할 것을 권고_\
+_<mark style="color:$info;">Ref. 질병관리본부. 요로 감염 항생제 사용지침. 2018.</mark>_
 
 ### 기타
 
-*   항진균제 : 칸디다 감염 시
+* 항진균제 : 칸디다 감염 시
+  * fluconazole : 200 ㎎/d ×2주 \[푸루나졸] (☞ p.931)
+* 진경제 (☞ p.371)
+  * cimetropium : 50 ㎎ tid \[알기론]
+  * scopolamine : 10\~20 ㎎ tid\~qid \[부스코판]
+  * tiropramide : 100 ㎎ bid\~tid \[티로파]
+* 진통제
+  * ibuprofen : 400\~800 ㎎ tid \[부루펜]
+  * acetaminophen : 650\~1,300 ㎎ tid \[타이레놀]
+* 방광 마취제 : 항생제 치료 후 첫 24시간 내 투여 개시
+  * phenazopyridine : 200 ㎎ tid ×2d; 눈물, 소변이 오렌지색으로 변색될 수 있음
 
-    •fluconazole : 200 ㎎/d ×2주 \[푸루나졸] (☞ p.931)
-*   진경제 (☞ p.371)
+## 여성 recurrent uncomplicated UTI의 급성 episode \[AUA]
 
-    •cimetropium : 50 ㎎ tid \[알기론]
-
-    •scopolamine : 10~~20 ㎎ tid~~qid \[부스코판]
-
-    •tiropramide : 100 ㎎ bid\~tid \[티로파]
-*   진통제
-
-    •ibuprofen : 400\~800 ㎎ tid \[부루펜]
-
-    •acetaminophen : 650\~1,300 ㎎ tid \[타이레놀]
-*   방광 마취제 : 항생제 치료 후 첫 24시간 내 투여 개시
-
-    •phenazopyridine : 200 ㎎ tid ×2d; 눈물, 소변이 오렌지색으로 변색될 수 있음
-
-## 여성 recurrent uncomplicated UTI의 급성 episode
-
-```
-[AUA]
-```
-
-*   증상이 있는 급성 방광염 episode에 대하여 1차 치료 항생제 선택
-
-    •예) nitrofurantoin, TMP-SMX, fosfomycin
+* 증상이 있는 급성 방광염 episode에 대하여 1차 치료 항생제 선택
+  * 예) nitrofurantoin, TMP-SMX, fosfomycin
 * 급성 방광염 episode에 대한 항생제 치료는 단기간(≤7일) 시행
 * 배양 검사 결과 경구 항생제에 내성이 있는 경우 배양 검사에 따른 비경구 항생제 치료를 단기간(≤7일) 시행
 
@@ -104,7 +93,7 @@
 
 ## 예방
 
-(☞ p.625)
+(☞ [요로감염](113_-urinary-tract-infection.md#undefined-13))
 
 
 
