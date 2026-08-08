@@ -65,7 +65,7 @@
 * 시험지봉 검사 : leukocyte esterase, nitrite; 두 가지 모두 양성 시 요로감염 확률 약 80%
 * 배양 검사 : 전형적인 국소 요로감염에서는 일반적으로 불필요
   * 검사 대상 : 진단이 불확실한 경우, 전신 요로감염(신우신염) 의심, 비전형적 증상, 임신부, 남성, 재발성 감염, 최근 항생제 치료 실패
-  * 진단 기준 : ≥10⁵ CFU/㎖&#x20;
+  * 진단 기준 : ≥10⁵ CFU/㎖
     * 과거 Kass 기준(≥10⁵ CFU/㎖)은 무증상 세균뇨 진단 기준에서 유래하였으며, 증상이 있는 여성에서는 ≥10³ CFU/㎖도 임상적으로 의미 있다고 간주됨\[IDSA]; 단, 국내 2025 지침상의 기준은 ≥10⁵ CFU/㎖임
 
 ### <mark style="color:orange;">영상 검사</mark>
@@ -87,38 +87,42 @@
 
 ```mermaid
 graph TD
-    A([급성 배뇨통·빈뇨·절박뇨]) --> B{발열·오한·옆구리 통증<br>혈역학적 불안정 동반?}
-    B -->|Yes| C[전신 요로감염/신우신염 의심<br>요배양·혈액배양 고려]
-    C --> D[전신 요로감염 경로로 관리<br>☞ 요로 감염 챕터]
-    B -->|No| E{임신부 / 남성 /<br>최근 요로시술·도뇨관?}
-    E -->|Yes| F[국소 요로감염이나<br>평가·추적 강화 필요]
-    E -->|No| G[국소 요로감염<br>전형적 여성 방광염]
-    G --> H[전형적 증상이면 경험적 치료 가능<br>요검사는 선택적]
+    A([급성 배뇨통·빈뇨·절박뇨]) --> B[발열·오한·옆구리 통증,<br>혈역학적 불안정 동반?]
+    B -->|Yes| C["전신 요로감염/신우신염 의심<br>(요배양·혈액배양 고려)"]
+    B -->|No| D[국소 요로감염]
+D --> E[임신부, 남성, <br>최근 요로시술·도뇨관?]
+    E -->|Yes| F[평가·추적 강화]
+    E -->|No| H[전형적 증상이면 경험적 <br>치료 가능. 요검사는 선택적]
     F --> H
-    H --> I[1차 경험적 항생제<br>nitrofurantoin 또는 fosfomycin]
-    I --> J{48-72시간 후<br>호전?}
+    H --> I[1차 경험적 항생제<br>nitrofurantoin<br> 또는 fosfomycin]
+    I --> J[48-72시간 후<br>호전?]
     J -->|Yes| K[치료 종료<br>치유 확인 검사 불필요]
-    J -->|No| L[배양·감수성 재확인<br>항생제 조정, 영상 검사 고려]
-    style C fill:#ffebee,stroke:#c62828,stroke-width:2px
-    style I fill:#f96,stroke:#e65100,stroke-width:2px
-    style L fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    J -->|No| L[배양·감수성 재확인,<br>항생제 조정, 영상 검사 고려]
+
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,E,J yellow
+style C fill:#f8a0c0,stroke:#d01f5a
+style D fill:#fcd4e6,stroke:#e0448e
+style I fill:#e3f2ff,stroke:#2196f3
+style K fill:#d0e8ff,stroke:#1a6abf
+style L fill:#fdebd0,stroke:#e67e22
+style F fill:#fff3e0,stroke:#e65100
 ```
 
 <p align="center"><strong>급성 방광염 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 질병관리청·대한항균요법학회. 요로감염 항생제 사용지침(2025); IDSA Complicated UTI Guideline(2025)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 질병관리청·대한항균요법학회. 요로감염 항생제 사용지침(2025);</mark></em> <br><em><mark style="color:$info;">IDSA Complicated UTI Guideline(2025)</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-
-
 * **5단계 경험적 항생제 선택 접근법** \[요로감염 항생제 사용지침, 2025]
-  * 0단계 증상에 따른 질환 분류(국소 vs 전신) \
-    → 1단계 중증도(패혈증 여부) 평가 \
-    → 2단계 내성균 위험 인자 평가(최근 6개월 내 항생제/입원력, 요양시설 거주, ESBL 분리력 등) \
-    → 3단계 환자별 고려사항(알레르기, 신기능, 약물 상호작용) \
+  * 0단계 증상에 따른 질환 분류(국소 vs 전신)\
+    → 1단계 중증도(패혈증 여부) 평가\
+    → 2단계 내성균 위험 인자 평가(최근 6개월 내 항생제/입원력, 요양시설 거주, ESBL 분리력 등)\
+    → 3단계 환자별 고려사항(알레르기, 신기능, 약물 상호작용)\
     → 4단계(패혈증 시) 기관 항생제 감수성 결과 활용
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -153,14 +157,14 @@ graph TD
 
 ### <mark style="color:orange;">항생제 (국소 요로감염 - 1차·대안)</mark>
 
-<table><thead><tr><th width="70">구분</th><th width="149.52374267578125">성분명 [상품명]</th><th width="158.09521484375">용법</th><th>최소 투여 기간·비고</th></tr></thead><tbody><tr><td>1차</td><td>nitrofurantoin <br>[<mark style="color:blue;">니트로푸란토인</mark>]</td><td>50~100 ㎎ qid¹⁾ (식후·취침 전)</td><td>5일; CrCl &#x3C;30 금기, 임신 38주 이후 금기, 신우신염에는 부적절</td></tr><tr><td>1차</td><td>fosfomycin <br>[<mark style="color:blue;">모노롤</mark>]</td><td>3 g 1회(공복 또는 취침 전)</td><td>1일; 대부분의 신기능에서 용량 조절 없이 사용 가능(중증 신부전 자료는 제한적), 신우신염에는부적절</td></tr><tr><td>대안</td><td>TMP/SMX <br>[<mark style="color:blue;">셉트린</mark>]</td><td>160/800 ㎎ bid</td><td>3일; 국내 내성률 약 30%(감수성 68.1%)로 가능하면 배양 확인 후 사용; CrCl &#x3C;30에서는 사용 금기(해외 일부 자료는 중증 신부전에서 감량 사용을 언급하나, 국내 기준으로는 회피 권장)</td></tr><tr><td>대안</td><td>ciprofloxacin²⁾ <br>[<mark style="color:blue;">씨프로바이</mark>]</td><td>250~500 ㎎ bid</td><td>3일; 1차 약제 치료 실패·알레르기 시에만(국내 급여기준상 1차 약제 사용 불가)</td></tr></tbody></table>
+<table><thead><tr><th width="70">구분</th><th width="149.52374267578125">성분명 [상품명]</th><th width="158.09521484375">용법</th><th>최소 투여 기간·비고</th></tr></thead><tbody><tr><td>1차</td><td>nitrofurantoin<br>[<mark style="color:blue;">니트로푸란토인</mark>]</td><td>50~100 ㎎ qid¹⁾ (식후·취침 전)</td><td>5일; CrCl &#x3C;30 금기, 임신 38주 이후 금기, 신우신염에는 부적절</td></tr><tr><td>1차</td><td>fosfomycin<br>[<mark style="color:blue;">모노롤</mark>]</td><td>3 g 1회(공복 또는 취침 전)</td><td>1일; 대부분의 신기능에서 용량 조절 없이 사용 가능(중증 신부전 자료는 제한적), 신우신염에는부적절</td></tr><tr><td>대안</td><td>TMP/SMX<br>[<mark style="color:blue;">셉트린</mark>]</td><td>160/800 ㎎ bid</td><td>3일; 국내 내성률 약 30%(감수성 68.1%)로 가능하면 배양 확인 후 사용; CrCl &#x3C;30에서는 사용 금기(해외 일부 자료는 중증 신부전에서 감량 사용을 언급하나, 국내 기준으로는 회피 권장)</td></tr><tr><td>대안</td><td>ciprofloxacin²⁾<br>[<mark style="color:blue;">씨프로바이</mark>]</td><td>250~500 ㎎ bid</td><td>3일; 1차 약제 치료 실패·알레르기 시에만(국내 급여기준상 1차 약제 사용 불가)</td></tr></tbody></table>
 
 ¹⁾_국내에는 macrocrystal/monohydrate 서방형 제형이 유통되지 않아, 국제 지침의 100 ㎎ bid×5일 대신 국내 허가 제형(immediate-release) 기준 50\~100 ㎎ qid×5일을 사용함; 1일 4회 복용은 순응도 저하의 흔한 원인이므로, 순응도가 우려되는 환자에서는 fosfomycin 단회 요법을 우선 고려할 수 있음_
 
 ²⁾ _FDA는 다른 치료 선택지가 있는 경우 uncomplicated infection에서 fluoroquinolone 사용 제한을 권고함(건염·건파열, 대동맥류/박리 위험, QT 연장, 저혈당, 말초신경병증 등)_
 
 {% hint style="info" %}
-**국소 요로감염에서 분리된 _E. coli_의 항생제 감수성** : nitrofurantoin 98.9%, fosfomycin 96.8%, cefotaxime 82.4%, ciprofloxacin 50.9%, TMP-SMX 68.1% (대한요로생식기감염학회, 2023년 전국 감시자료; Yu SH, et al. Investig Clin Urol 2025); ciprofloxacin은 감수성이 낮고(50.9%), TMP-SMX는 68.1%로 내성률이 약 30%대에 달해 경험적 1차 약제로는 권장되지 않음
+**국소 요로감염에서 분리된 \_E. coli\_의 항생제 감수성** : nitrofurantoin 98.9%, fosfomycin 96.8%, cefotaxime 82.4%, ciprofloxacin 50.9%, TMP-SMX 68.1% (대한요로생식기감염학회, 2023년 전국 감시자료; Yu SH, et al. Investig Clin Urol 2025); ciprofloxacin은 감수성이 낮고(50.9%), TMP-SMX는 68.1%로 내성률이 약 30%대에 달해 경험적 1차 약제로는 권장되지 않음
 {% endhint %}
 
 {% hint style="info" %}
