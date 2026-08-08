@@ -4,7 +4,7 @@
 
 **평가**
 
-* 통증에 대하여 다음 항목들을 최소 1년에 한 번 평가
+* 통증이 있는 환자에서는 초기 평가 후 통증 변화·기능·수면·정신사회적 영향을 주기적으로 평가; 다음 항목 포함
   * 병력, 신체검사, bio-psycho-social 평가, 통증 형태(neuropathic, nociceptive, or mixed), 중증도, 기능에 대한 영향
 * 통증 상태나 기저 질환이 변화할 때는 더 자주 평가
 
@@ -22,6 +22,10 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
+{% hint style="info" %}
+아래 항목은 주로 **척추/요통** 관련 red flag이다. 흉통·복통·두통 등 다른 부위 통증이 동반된 경우 해당 증상별 챕터의 red flag을 함께 참조한다.
+{% endhint %}
+
 <mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * 방광 또는 장 기능 이상 (실금 또는 저류; 마미 증후군 시사)
@@ -37,9 +41,9 @@
 <mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
 * 치료에 반응하지 않거나 점차 악화
-* 야간 또는 누운 자세에서 악화
+* 휴식·야간에도 지속되거나 점차 악화 (다른 red flag 동반 시 특히 주의)
 * 악성 종양 병력
-* ＞50세 또는 ＜20세에서 처음 시작된 통증
+* 고령에서 새로 시작된 통증 + 골절 위험 인자(골다공증, 외상력) 동반, 또는 20세 미만에서 처음 시작된 원인 불명 통증
 * 설명되지 않는 체중 감소, 야간 발한
 * 최근 세균 감염 병력 또는 정맥 주사제 사용 병력
 * 수일에 걸쳐 서서히 진행하는 근력 약화 또는 이상 감각 (신경 압박 의심)
@@ -64,6 +68,10 @@ ICD-11(2019)은 만성 통증을 두 범주로 구분한다.\
 
 #### <mark style="color:$primary;">**유형**</mark>
 
+{% hint style="info" %}
+아래는 서로 다른 두 축을 함께 제시한다. **① 통증 기전(mechanism)** — nociceptive / neuropathic / nociplastic / mixed : 약물 선택의 기준이 되는 분류. **② 임상 phenotype(원인·양상)** — 근육통·염증성·기계적/압박성 등 : 대부분 nociceptive mechanism에 속하는 하위 유형으로, 별도의 네 번째 기전이 아니다.
+{% endhint %}
+
 **침해수용성(nociceptive) 통증**
 
 * 실제 조직 손상에 의해 발생; 쑤심, 욱신거림, 국소적 압통
@@ -72,14 +80,15 @@ ICD-11(2019)은 만성 통증을 두 범주로 구분한다.\
 **신경병증성(neuropathic) 통증**
 
 * 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하
-* 예) sciatica, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
+* 예) radiculopathy/radicular pain with neuropathic features, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
 
 **노시플라스틱(nociplastic) 통증** _(IASP 2017 신규 분류)_
 
-* 조직 손상이나 신경 병변 없이 central sensitization(중추 감작)에 의해 발생
+* 정의(IASP) : 통증을 유발할 만한 실제 또는 잠재적 조직 손상의 명확한 증거가 없고, 체성감각계의 병변이나 질환으로 설명되지 않으면서, 통각 처리(nociceptive processing)의 변화 소견이 있는 통증
+* nociplastic mechanism은 nociceptive 또는 neuropathic mechanism과 동시에 존재할 수 있음(예: 만성 요통, 골관절염, 암성 통증 일부에서도 nociplastic component 동반 가능)
 * 특징 : 광범위한 통증, 이상통증(allodynia), 통각과민, 피로·수면 장애·인지 기능 저하 동반
 * 예) 섬유근통, 만성 원발성 요통, 과민성 장증후군(IBS), 만성 골반통
-* DN4/painDETECT로 구별되지 않으므로 임상 양상 및 병력으로 진단
+* DN4/painDETECT는 neuropathic pain 요소 평가 도구이며, nociplastic pain을 진단하거나 배제하는 도구는 아님 — 임상 양상 및 병력으로 진단
 
 **근육(muscle) 통증**
 
@@ -108,22 +117,19 @@ flowchart TD
     D --> D2[Neuropathic\n저림·화끈거림·전격통]
     D --> D3[Nociplastic\n광범위·allodynia·피로]
     D --> D4[Mixed]
-    D1 & D2 & D3 & D4 --> E[NRS 강도 평가]
-    E --> E1[경증 NRS 1–3]
-    E --> E2[중등증 NRS 4–6]
-    E --> E3[중증 NRS 7–10]
-    E1 --> F1[Acetaminophen\n또는 NSAID]
-    E2 --> F2[NSAID ±\nweak opioid 신중]
-    E3 --> F3[NSAID +\nshort-term opioid]
+    D1 & D2 & D3 & D4 --> E[통증 강도(NRS) + 기능 장애 평가]
+    E --> E0["⚠ NRS 단독으로 opioid 여부 자동 결정 안 함"]
+    D1 --> F1[Acetaminophen 또는 NSAID]
     D2 --> G1[Pregabalin/Gabapentin\n또는 Duloxetine]
     D3 --> G2[비약물 CBT·운동 우선\n+ SNRI]
-    F1 & F2 & F3 & G1 & G2 --> H[비약물 치료 병행]
+    D4 --> F2[NSAID +\nneuropathic agent 병용]
+    E0 & F1 & G1 & G2 & F2 --> H[비약물 치료 병행]
     H --> I{고위험 약물 체크}
-    I -->|Opioid+BZD ❌| J[처방 수정]
-    I -->|NSAID+항응고제 ⚠| J
-    I -->|Triple Whammy ⚠| J
-    I -->|Gabapentinoid+Opioid ⚠| J
-    I -->|이상 없음| K[재평가]
+    I -->|"Opioid+BZD ❌"| J[처방 수정]
+    I -->|"NSAID+항응고제 ⚠"| J
+    I -->|"Triple Whammy ⚠"| J
+    I -->|"Gabapentinoid+Opioid ⚠"| J
+    I -->|"이상 없음"| K[재평가]
     K -->|급성: 1–2주\n만성: 2–4주| L{치료 반응}
     L -->|Good ≥30% 감소| M[유지 → Taper 계획]
     L -->|Poor| N[통증 유형 재평가\n→ 다른 계열 전환\n→ 병용 요법]
@@ -132,11 +138,12 @@ flowchart TD
     style C fill:#f96,stroke:#e65100
     style P fill:#f96,stroke:#e65100
     style J fill:#fff3e0,stroke:#ff8f00
+    style E0 fill:#fff3e0,stroke:#e65100,stroke-width:2px
 ```
 
 <p align="center"><strong>통증 관리 알고리즘</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 편집. Ref. CDC 2022 / IASP Classification of Chronic Pain (Treede RD et al., Pain 2019) /</mark></em><br><em><mark style="color:$info;">WHO Analgesic Ladder / 대한통증학회 아편유사제 처방지침 2024</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 편집. Ref. CDC 2022 / IASP Classification of Chronic Pain (Treede RD et al., Pain 2019) / 대한통증학회 아편유사제 처방지침 2024</mark></em></p>
 
 ***
 
@@ -150,7 +157,7 @@ flowchart TD
     B1 & B2 -->|통과| D[치료 목표 문서화\n통증 ≥30% 감소\n기능 개선 구체화\n실패 시 중단 동의]
     D --> E[초기 처방\nIR 제제만 사용\n5–10 MME/회\n20–30 MME/d 이하]
     E --> F{MME 위험 분류}
-    F --> F1[< 20 MME/d → Low]
+    F --> F1["&lt; 20 MME/d → Low"]
     F --> F2[20–50 MME/d → Moderate]
     F --> F3[≥ 50 MME/d → Risk ↑]
     F --> F4[≥ 90 MME/d → High Risk 회피]
@@ -164,7 +171,7 @@ flowchart TD
     L --> L1[≥50 MME/day\n호흡기 질환\nBZD/gabapentinoid 병용\n과거 overdose]
     L1 --> M[Naloxone 공동 처방]
     I --> N{장기 사용 종료 → Tapering}
-    N --> N1[>1년: 월 10% 감량\n수주~수개월: 주 10% 감량\n단기<4주: 수일간 빠른 taper]
+    N --> N1[">1년: 월 10% 감량\n수주~수개월: 주 10% 감량\n단기&lt;4주: 수일간 빠른 taper"]
     N1 --> O[주의: Abrupt stop 금지\n Rapid taper 금지]
     style C fill:#f96,stroke:#e65100
     style O fill:#f96,stroke:#e65100
@@ -220,9 +227,10 @@ flowchart TD
 
 **노시플라스틱 통증 (Nociplastic)**
 
-* 조직 손상·신경 병변 없이 central sensitization(중추 감작)으로 발생; DN4/painDETECT 음성이나 통증 지속
+* 조직 손상·신경 병변의 명확한 증거 없이 통각 처리(nociceptive processing)의 변화로 발생; nociceptive/neuropathic mechanism과 동반될 수 있음
 * 특징 : 광범위한 통증, 이상통증, 피로·수면 장애 동반
 * 예 : 섬유근통, 만성 원발성 요통, IBS
+* DN4/painDETECT는 nociplastic pain 진단·배제 도구가 아님(neuropathic 요소 평가 도구)
 
 **복합성 통증 (Mixed) :**
 
@@ -247,29 +255,34 @@ flowchart TD
 | 위험 인자        | 우선 선택                   |
 | ------------ | ----------------------- |
 | GI risk ↑    | Celecoxib + PPI         |
-| CV risk ↑    | Naproxen (COX-2 억제제 주의) |
+| CV risk ↑    | NSAID 회피 우선; 불가피 시 naproxen을 상대적으로 고려 (최소 용량·최단 기간, COX-2 억제제 주의) |
 | Renal risk ↑ | 외용 NSAID 우선             |
 | 고령 / 다약제     | 외용 NSAID 우선 → 경구 최소 용량  |
 
-**침해수용성 통증** <mark style="color:$info;">(WHO analgesic ladder 참조)</mark>
+**침해수용성 통증**
 
-* 경증 (NRS 1\~3) : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
-* 경증\~중등증 (NRS 4\~6) : NSAID ± weak opioid (tramadol 포함 — opioid와 동일한 주의 적용) ± 보조 치료
-* 중등증\~중증 (NRS 7\~10) : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid (암성 통증에서는 적극 병용) ± 보조 치료
+{% hint style="danger" %}
+⚠️ **통증 강도(NRS)만으로 opioid를 자동 선택하지 않는다.** NRS ≥7이라고 곧바로 opioid를 선택하지 않으며, 원인·통증 기전·기능 장애·예후·약물 위험도를 종합하여 결정한다 (CDC 2022).
+{% endhint %}
+
+* 1차 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
+* 비-opioid 치료로 조절되지 않고 기능 장애가 명확한 경우 : NSAID ± weak opioid 신중 병용 (tramadol 포함 — opioid와 동일한 주의 적용)
+* 중증이거나 비-opioid 치료 실패, 기능 장애가 심각한 경우 : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid ± 보조 치료
+* <mark style="color:$info;">WHO analgesic ladder(3단계)는 원래 암성 통증(cancer pain)을 위한 체계이며, 일반 비암성 통증에 그대로 적용하지 않음. 암성 통증에서는 비마약성 진통제 → 약한 opioid → 중등도\~중증 opioid의 단계적 접근을 적용</mark>
 
 **신경병성 통증**
 
-* 1차 (1st line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선); 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
-* 반응 불충분 시 : 1차 약제 간 병용 (예: pregabalin + duloxetine), weak opioid (tramadol, codeine, 저용량 buprenorphine 패취) 추가
-* 중증/난치성 통증 : opioid (oxycodone, hydromorphone), 국소 lidocaine patch (대상포진 후 신경통, PHN에서 2nd-line), botulinum toxin (PHN·삼차신경통 등 일부 적응증에서 고려)
+* 1차 (1st line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선) 중 하나를 선택; 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
+* 반응 불충분 시 : 다른 1차 약제로 전환을 우선 고려; 부분 반응 시 신중한 병용 고려(예: pregabalin + duloxetine — 병용 근거는 아직 제한적이며 NICE도 병용요법의 근거 부족을 지적함); tramadol은 급성 rescue가 필요한 경우로 제한
+* opioid 장기 사용은 일반적으로 권장하지 않음; 중증/난치성 통증에서는 전문의(통증클리닉) 의뢰 고려. 국소 lidocaine patch (대상포진 후 신경통, PHN에서 2nd-line), botulinum toxin (PHN·삼차신경통 등 일부 적응증에서 고려)
 
 #### <mark style="color:$primary;">Step 3. 재평가 및 조정 (Re-evaluation)</mark>
 
-* 치료 시작 후 급성 2주, 만성 4주 이내에 목표 달성 여부를 평가
+* 일반 진통제(NSAID 등)는 급성 1\~2주, 만성 2\~4주 이내 반응 평가; gabapentinoid 등 titration이 필요한 약제는 충분한 적정 기간(수 주) 고려; opioid는 시작 또는 증량 후 1\~4주 이내 재평가(CDC 2022)
 * 목표 달성 (통증 30% 이상 감소 & 기능 개선) 시 : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
 * 목표 미달 (효과 부족 또는 부작용) 시
   1. 통증 유형 재검토 : 신경병성 요소가 간과되지 않았는가?
-  2. 약물 회전 : 동일 계열 내 다른 성분으로 교체 (MME의 50\~75% 적용)
+  2. Opioid 회전 : MME는 근사 참고값일 뿐 직접적인 등가 처방량으로 사용하지 않음; 불완전 교차내성을 고려하여 계산된 equianalgesic dose보다 감량하여 시작(대략 50\~75%)하고 약제별 특성에 따라 추가 감량·개별 titration
   3. 중재적 시술 고려 : 신경 차단술, IMS(근육 내 자극 치료) 등 비약물적 치료 병행
 
 ## <mark style="color:green;">비-약물 치료</mark>
@@ -278,7 +291,7 @@ flowchart TD
 * 적정 체중 관리
 * 가능한 한 활동 유지 또는 점차 활동량을 늘림, 규칙적인 적절한 운동 (☞ [운동 지침](../231_/216_-physical-activity-guideline.md))
 * 금연
-* 온/냉찜질, 물리 치료, chiropractic, 침, 근육 강화 및 이완 운동
+* 온/냉찜질, 물리 치료, chiropractic, 침, 근육 강화 및 이완 운동 (온/냉찜질·침·chiropractic은 근거 수준이 낮거나 논란이 있어 보조적 수단으로 활용)
 * 인지행동 요법, 요가, 심호흡, mindfulness
 * 비타민 D : 결핍(25(OH)D ＜20 ng/mL)과 근골격계 통증·섬유근통의 연관성이 보고되나, 결핍이 없는 환자에서 통증 목적의 routine supplementation은 효과가 입증되지 않아 권고하지 않음; 만성 통증 환자에서 혈중 25(OH)D 측정 후 결핍이 확인된 경우에만 보충 고려
 
@@ -287,6 +300,8 @@ flowchart TD
 * Central sensitization(중추 감작)이 진행하면 말초 자극이 없어도 통증이 지속·증폭된다. 파국화는 이를 심화시키는 심리적 증폭 반응이다.
 * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 상태를 교정함; 만성 통증은 신체 손상 신호가 아니라 '예민해진 신경계의 오작동'임을 설명
 * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
+
+<table><thead><tr><th width="150">Hurt (아픈 느낌)</th><th>Harm (실제 손상)</th></tr></thead><tbody><tr><td>예민해진 신경계가 보내는 신호</td><td>조직이 실제로 파괴되는 상태</td></tr><tr><td>움직여도 대개 안전함</td><td>red flag 동반 시에만 의심</td></tr><tr><td>활동을 점진적으로 늘려 완화 가능(pacing)</td><td>절대안정으로 오히려 악화될 수 있음</td></tr></tbody></table>
 * Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진적으로 늘려 자기 효능감을 회복시킴
 * \[예시]
   * Pt. "허리가 끊어질 것 같아요" - Dr. "허리 근육이 많이 긴장해서 예민한 상태군요."
@@ -300,7 +315,7 @@ flowchart TD
 * 대상 : 비염증성 통증
   * 엉덩이/무릎 관절염에 대해서는 지속 효과가 짧으며, 요통에 대해서는 효과가 적음
 * 주의 : 간/신 장애, 혈액 응고 장애, 알코올 남용, aspirin 과민성 천식
-* 부작용 : 발진, 간/신 독성; NSAID와 달리 COX 비선택적 억제 기전이 없어 임상적으로 의미 있는 GI ulcer risk는 거의 없으며, 고혈압은 고용량 장기 사용 시 일부 관찰 보고가 있으나 근거가 일관되지 않음(controversial); 간독성 위험은 NSAID보다 높음
+* 부작용 : 발진, 간/신 독성; NSAID와 달리 COX 비선택적 억제 기전이 없어 임상적으로 의미 있는 GI ulcer risk는 거의 없으며, 고혈압은 고용량 장기 사용 시 일부 관찰 보고가 있으나 근거가 일관되지 않음(controversial)
   * ＞2 g/d 연속 투여 시 간 효소 수치 상승 가능 (간독성을 의미하지 않으나 모니터링 권장)
   * 치료 용량 범위 내에서는 심각한 GI 부작용 위험은 거의 없음
 * 약물 상호 작용 : warfarin(INR 연장), isoniazid, CYP450 대사 약물
@@ -322,14 +337,16 @@ flowchart TD
   * 오피오이드 유발 변비(opioid-induced constipation) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 하제를 선제적으로 처방하는 것을 고려
     * [삼투성 하제](../224_/073_.md#hyperosmotics) 우선 : PEG 제제 <mark style="color:blue;">\[미랄락스]</mark> 또는 lactulose <mark style="color:blue;">\[듀파락]</mark> — 복통 부작용이 적어 만성 통증 환자에 적합
     * 반응 부족 시 [자극성 하제](../224_/073_.md#stimulant) 추가 : sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>
-* 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용, 수면무호흡증
+* 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용
+* 주의(상대적 위험 요인) : 중등도\~중증 수면무호흡증에서는 opioid 사용을 가급적 피하거나 최소화하고, 불가피하면 호흡억제 위험을 면밀히 평가·모니터링
 * 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함; 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
 * 단기 작용 약제를 선택하여 최소 유효 용량으로 시작, 시작 후 조기에 약물 반응을 평가
-* 투여 기간 : 아편성 물질- 급성 통증 시 3일 이하 권고, 7일 초과 금지(CDC 2022); tramadol- ＜2주
+* 투여 기간 : 급성 통증에서는 예상되는 중증 통증 지속기간을 고려하여 최소 필요량만 처방; 흔한 비수술성 급성통증은 수일 이하로 충분한 경우가 많으며, CDC 2022는 절대적인 3일/7일 상한을 제시하지 않음(단, 중증 외상 등에서는 7일을 초과할 수도 있음); tramadol- ＜2주
 
 ※ 약물 회전(opioid rotation) 시 다음의 이유로 MME의 50\~75%를 적용함
 
 1. 불완전 교차 내성 : 기존 약물에 내성이 생겼더라도 새 약물에 대한 내성은 완전히 이전되지 않으므로 새 약물은 계산된 MME보다 적은 용량으로도 동등한 효과를 냄
+   * 예) 기존 opioid 총 60 MME/day 복용 중 회전 시 → 새 약물의 계산된 등가 용량(60 MME 상당)의 50\~75%인 약 30\~45 MME/day로 시작 후 반응을 보며 조정
 2. 등가용량 환산표의 불확실성 : MME 환산비는 개인차가 크고 근사치이므로 안전 마진을 두고 시작하는 것이 원칙임
 
 ※ \[보험인정기준] [마약성진통제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001) (일반원칙)
@@ -367,20 +384,33 @@ flowchart TD
 
 * 용법 : 초회 10 ㎎ bid, 10\~80 ㎎/d <mark style="color:blue;">\[옥시콘틴 서방]</mark>
 
+#### <mark style="color:$primary;">Tapentadol</mark> _(Dual-mechanism opioid analgesic)_
+
+* 작용 : μ-opioid receptor agonist + norepinephrine reuptake inhibition의 이중 기전; 통상적 SNRI 항우울제와는 다른 별도 분류
+* 대상 : 중등증\~중증의 급성 및 만성 통증, 당뇨병신경병증
+* 장점 : 기존 opioid에 비하여 위장관 부작용(구역, 변비)이 적음
+* 부작용 : 어지럼, 구역, 두통, 졸음
+* 주의 : MAOI 병용 금기; SSRI/SNRI 병용 시 serotonin syndrome 위험
+* 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩 증량 <mark style="color:blue;">\[뉴신타 서방]</mark>
+
 #### <mark style="color:$primary;">Hydromorphone</mark>
 
-* 비서방형 : 2\~4 ㎎ q4\~6h <mark style="color:blue;">\[저니스타]</mark>
-* 서방형 : 저용량(4 ㎎)으로 시작. 1일 1회 <mark style="color:blue;">\[저니스타 서방]</mark>
+* 비서방형 : 2 ㎎ <mark style="color:blue;">\[딜리드정]</mark> — 국내 허가사항의 용법·용량에 따라 사용 (외국 문헌의 q4\~6h 용량을 그대로 적용하지 않음)
+* 서방형 : 국내 유통 제제 없음 — 저니스타서방정(및 저니스타아이알정)은 2021\~2023년 순차적으로 허가 취하되어 시장에서 완전히 철수됨; 서방형 hydromorphone이 필요한 경우 다른 서방형 opioid(oxycodone CR, morphine 서방정 등)로 대체
 
 #### <mark style="color:$primary;">Buprenorphine 패취제</mark>
 
 * μ·κ·δ 수용체 부분 작용제; 신경병성 통증에 일부 근거, 신기능 저하 환자에서 유리
-* 저용량(5\~10 ㎍/wk)으로 시작 → 효과 및 부작용을 관찰하며 증량; 1주 1매 <mark style="color:blue;">\[노스판 패취]</mark>
+* 저용량(5\~10 ㎍/h)으로 시작 → 효과 및 부작용을 관찰하며 증량; 1주 간격으로 교체 (국내 허가사항 기준) <mark style="color:blue;">\[노스판 패취]</mark>
 * 보험기준 : NSAID의 최대 용량에도 반응하지 않아 마약성 진통제를 필요로 하는 심한 통증에 1주 20㎍/h까지 인정. 1회 처방 당 최대 30일까지 인정
 
 #### <mark style="color:$primary;">Fentanyl 패취제</mark>
 
-* 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용 <mark style="color:blue;">\[듀로제식디트랜스 패취]</mark>
+{% hint style="danger" %}
+⚠️ **opioid-tolerant 환자에 한하여 사용.** opioid-naïve 환자 및 급성/간헐적 통증에는 사용하지 않음(FDA·국내 허가사항 공통 금기). 지속적인 중등도\~중증 만성 통증에 국한하여 적용.
+{% endhint %}
+
+* 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용 (국내 허가사항 기준) <mark style="color:blue;">\[듀로제식디트랜스 패취]</mark>
 
 #### <mark style="color:$success;">비암성 만성 통증에서 Opioid 처방 10대 원칙</mark>
 
@@ -412,12 +442,14 @@ flowchart TD
   * 하루 50 MME 이상 시 과다 복용·사망 위험이 유의하게 증가하므로, 50 MME/day 도달 전 반드시 재평가; 90 MME/day 이상은 가급적 회피
   * 치료 시작 또는 용량 증량 후 4주 이내에 이익과 위험을 재평가
 
-> **Naloxone 공동 처방 기준** (CDC 2022)\
-> 다음 중 하나라도 해당 시 naloxone 공동 처방 고려:\
+> **Naloxone 공동 처방 고려 기준**\
+> CDC 2022 기준(다음 중 하나라도 해당 시 고려):\
 > □ MME ≥ 50/day\
 > □ 호흡기 질환(COPD, 수면무호흡증) 동반\
-> □ Benzodiazepine 또는 gabapentinoid 병용\
+> □ Benzodiazepine 병용\
 > □ 과거 opioid overdose 병력\
+> 추가 위험요인(CNS depressant 병용에 따른 호흡억제 위험 증가) :\
+> □ Gabapentinoid 병용\
 > ※ 국내에서는 naloxone 비강 스프레이(날록손염산염) 처방이 가능하나 아직 일반화되어 있지 않으며, 고위험 환자를 중심으로 처방 고려
 
 **서방형/지속형 제제**
@@ -444,6 +476,10 @@ flowchart TD
 * 처음 처방 시 및 장기 처방 중 환자 처방 이력을 주기적으로 검토
 * 적절한 용량 투여 여부 및 과다 복용 위험 약물과의 병용 여부를 지속 확인
 
+{% hint style="danger" %}
+⚠️ 아래 MME 값은 **참고용 근사치**이며, opioid rotation 시 처방 전환의 직접적인 등가 계산식으로 사용하지 않는다. Fentanyl 등은 단순 비례 환산이 특히 위험하다.
+{% endhint %}
+
 **통증 관리를 위해 일반적으로 처방되는 아편유사제에 대한 모르핀 mg 등가 용량**
 
 <table data-full-width="true"><thead><tr><th width="188.631591796875">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">변환계수*</th></tr></thead><tbody><tr><td><strong>정맥 주사</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td></td><td>펜타닐 (Fentanyl)</td><td>100†</td></tr><tr><td><strong>정맥 주사를 경구로 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td></td><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td></td><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
@@ -457,7 +493,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">항우울제</mark>
 
-* 항우울제에는 항우울 작용과 별개의 진통 효과가 있으며 TCA 계열이 보다 우수함 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md))
+* 항우울제에는 항우울 작용과 별개의 진통 효과가 있음 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md))
 * 특히 우울증 환자에서 고려 (만성 통증 환자에서 흔히 우울증이 동반됨)
 * 우울증 치료 때보다 효과가 빠르게 나타나며(약 1주) 저용량에서도 효과가 있음
 * 투여 중 부작용 등 위해보다 효과와 필요성이 더 우월한지 여부를 정기적으로 평가
@@ -474,24 +510,18 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 주의/금기 : 고령, 심질환(특히 전도 장애), 심한 위장 기능 장애
 * 용량 : 저용량으로 시작(고령에서는 ½ 용량으로 시작); 1주 간격으로 증량
 * amitriptyline : 항콜린 작용이 가장 큼; 10\~25 ㎎ hs, 최대 125 ㎎/d <mark style="color:blue;">\[에트라빌]</mark>
-* nortriptyline : 10\~25 ㎎ tid, 최대 150 ㎎/d <mark style="color:blue;">\[센시발]</mark>
+* nortriptyline : 10\~25 ㎎ hs로 시작 → 1주 간격 증량, 최대 150 ㎎/d <mark style="color:blue;">\[센시발]</mark>
 * desipramine : 항콜린 작용이 가장 적음; 25 ㎎/d, 최대 300 ㎎/d
 
 #### <mark style="color:$primary;">SNRI, SSRI</mark>
 
-* TCA에 비하여 효과 적음
+* TCA와 SNRI(duloxetine)는 neuropathic pain의 대표적인 1차 치료제로, 두 약물군 모두 임상적으로 의미 있는 진통 효과가 있음. 약물군 간 우열은 일관되지 않으며, TCA는 항콜린성·심혈관계 부작용 및 과량복용 독성을, duloxetine은 오심·혈압 상승 및 간·신기능 등을 고려하여 환자 특성에 따라 선택(고령·심혈관질환 위험이 높으면 duloxetine 등 SNRI 우선 고려)
 * 대상 : 다른 약물 요법으로 실패한 말초신경병증성 통증, 섬유근육통
-* 신기능 주의 : 중등도 이상 신기능 저하(eGFR ＜ 30 ㎖/min/1.73㎡) 환자에게는 duloxetine을 포함한 SNRI 계열 권장하지 않음 (약물 축적 및 부작용 위험 증가)
+* 신기능 주의 : duloxetine은 eGFR ＜ 30 ㎖/min/1.73㎡ 환자에서 일반적으로 권장하지 않음 (약물 축적 및 부작용 위험 증가); 다른 SNRI/SSRI는 약제별 허가사항을 별도 확인
 * duloxetine : 섬유근육통, 골관절염; 30\~60 ㎎/d qd <mark style="color:blue;">\[심발타]</mark>
   * 무릎 골관절염에 대한 둘록세틴 처방은 'NSAIDs에 반응하지 않는 경우'에만 인정. NSAIDs를 일정 기간 먼저 사용한 기록이 차트에 반드시 선행되어야 함
 * fluoxetine : 섬유근육통; 20\~80 ㎎/d qd <mark style="color:blue;">\[푸로작]</mark>
-* tapentadol
-  * 작용 : opioid(μ 수용체 작용) + SNRI(norepinephrine 재흡수 억제) 이중 기전
-  * 대상 : 중등증\~중증의 급성 및 만성 통증, 당뇨병신경병증
-  * 장점 : 기존 opioid에 비하여 위장관 부작용(구역, 변비)이 적음
-  * 부작용 : 어지럼, 구역, 두통, 졸음
-  * 주의 : MAOI 병용 금기; SSRI/SNRI 병용 시 serotonin syndrome 위험
-  * 용법 : 서방형 50 ㎎ bid로 시작, 3일 간격으로 50 ㎎씩 증량 <mark style="color:blue;">\[뉴신타 서방]</mark>
+* tapentadol은 opioid계 이중기전 진통제(μ-opioid agonist + norepinephrine reuptake inhibition)로, 통상적 SNRI 항우울제와는 별도로 분류함 — ☞ 아래 [Opioids \> Tapentadol](#tapentadol) 참조
 * 항우울제 [보험 인정 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&sno=1\&mtgMtrRegSno=0004) : 우울 증상이 지속적으로 2주 이상 계속되는 경우에 상용량으로 60일 범위 내에서 인정함
 
 ### <mark style="color:orange;">Benzodiazepines</mark>
@@ -515,12 +545,20 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 부작용 : 어지럼/졸음(용량 의존; 저용량 시작 및 서서히 증량 시 완화), 말초 부종, 체중 증가, 도취감, 의존성/남용 가능성 (특히 pregabalin; 영국은 규제 약물로 지정)
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
   * opioid 병용 시 호흡억제로 인한 사망 위험 증가 (FDA Black Box Warning, 2019) - 병용이 불가피한 경우 각각의 용량을 최소화하고 호흡 억제 징후 면밀히 모니터링; 통증 외 다약제 처방 환자에서 inadvertent 병용에 주의
-* gabapentin : 100\~300 ㎎ hs → 100 ㎎/3d 씩 증량, 최대 1200 ㎎ tid <mark style="color:blue;">\[뉴론틴]</mark>
+* gabapentin : 100\~300 ㎎ hs로 시작(이상반응 감소 목적) → 이후 1일 3회 분할하여 100 ㎎/3d씩 증량; 신기능 정상 시 신경병증성 통증에서 1주 이내 1,800 ㎎/day까지 증량 가능하며 3,600 ㎎/day를 초과하지 않음; 신기능별 용량은 아래 표 참조 <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 75 ㎎ bid → 150 ㎎ bid, 최대 600 ㎎/d <mark style="color:blue;">\[리리카]</mark>
 
-**신기능별 용량 조절** (gabapentinoid는 100% 신장 배설하므로 주의)
+**신기능별 용량 조절** (gabapentinoid는 대부분 신장으로 배설되므로 신기능에 따른 용량 조절 필요)
 
-<table><thead><tr><th width="148">eGFR (mL/min)</th><th width="202">Gabapentin 최대 용량</th><th>Pregabalin 최대 용량</th></tr></thead><tbody><tr><td>≥60</td><td>1,200 ㎎ tid (표준)</td><td>600 ㎎/d (표준)</td></tr><tr><td>30~59</td><td>600 ㎎ bid</td><td>300 ㎎/d</td></tr><tr><td>15~29</td><td>700 ㎎ qd</td><td>150 ㎎/d</td></tr><tr><td>&#x3C;15 (투석 미시행)</td><td>300 ㎎ qd</td><td>75 ㎎/d</td></tr><tr><td>투석 환자</td><td>투석 후 125~350 ㎎ 보충</td><td>투석 후 25~50 ㎎ 보충</td></tr></tbody></table>
+<table><thead><tr><th width="140">CrCl (mL/min)</th><th width="230">Gabapentin 1일 총 투여량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥80</td><td>900~2,400 mg/day</td><td>3회 분할</td></tr><tr><td>50~79</td><td>600~1,800 mg/day</td><td>3회 분할</td></tr><tr><td>30~49</td><td>300~900 mg/day</td><td>3회 분할</td></tr><tr><td>15~29</td><td>150~600 mg/day</td><td>3회 분할*</td></tr><tr><td>&#x3C;15</td><td>150~300 mg/day</td><td>3회 분할*, CrCl에 비례하여 추가 감량</td></tr><tr><td>혈액투석</td><td>초기 300~400 mg</td><td>4시간 혈액투석 후 200~300 mg 투여; 비투석일 미투여</td></tr></tbody></table>
+
+\* 150 mg/day에 해당하는 경우 100 mg × 3을 2일마다 투여 (국내 뉴론틴캡슐 허가사항 기준)
+
+※ 신기능은 eGFR이 아닌 CrCl(Cockcroft-Gault)로 평가.
+
+<table><thead><tr><th width="140">CrCl (mL/min)</th><th width="150">Pregabalin 시작용량</th><th width="150">최대용량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥60</td><td>150 mg/day</td><td>600 mg/day</td><td>2\~3회 분할(BID or TID)</td></tr><tr><td>30~&#x3C;60</td><td>75 mg/day</td><td>300 mg/day</td><td>2\~3회 분할(BID or TID)</td></tr><tr><td>15~&#x3C;30</td><td>25\~50 mg/day</td><td>150 mg/day</td><td>1\~2회 분할(QD or BID)</td></tr><tr><td>&#x3C;15</td><td>25 mg/day</td><td>75 mg/day</td><td>1일 1회(QD)</td></tr><tr><td>혈액투석 후 추가</td><td colspan="2">25\~100 mg</td><td>단회 투여(혈액투석 4시간마다 시행 후 즉시 추가)</td></tr></tbody></table>
+
+※ Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위 1일 투여용량과 별도로 혈액투석 시행 후 보충 용량을 즉시 추가 투여 (국내 리리카 허가사항 기준)
 
 #### <mark style="color:$primary;">Others</mark>
 
@@ -528,13 +566,12 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 부작용 : WBC↓, PLT↓, 조절 장애(예: 시야 혼탁), 부종, 기면, 구토, 두통, 혼돈
 * lamotrigine : 50 ㎎/d, 증량 50 ㎎/2wk, 최대 400 ㎎/d <mark style="color:blue;">\[라믹탈]</mark>
   * gabapentinoid보다 효과적이지 않음. 2차 약제로 고려
-* topiramate : 요통에 효과 기대; 50\~400 ㎎ #1\~2 <mark style="color:blue;">\[토파맥스]</mark>
 
 ### <mark style="color:orange;">N-methyl-D-aspartate receptor antagonist (NMDA)</mark>
 
 * 대상 : 신경병증성 통증. 예) 당뇨병신경병증, 대상포진후신경통, phantom limb pain, 말초신경병증성 통증, 복합부위통증증후군
 * 일반적으로 내약성 양호하나 dizziness, confusion, 두통이 발생할 수 있음
-* memantine : 5 ㎎ qd, 2일마다 5 ㎎ 증량, 유지 10 ㎎ bid <mark style="color:blue;">\[에빅사]</mark> (통증에는 비급여)
+* memantine : 근거 제한적 — 전문 통증클리닉에서 일부 난치성(refractory) 통증에 off-label 고려; 5 ㎎ qd, 2일마다 5 ㎎ 증량, 유지 10 ㎎ bid <mark style="color:blue;">\[에빅사]</mark> (통증에는 비급여)
 
 ### <mark style="color:orange;">근이완제</mark>
 
@@ -548,18 +585,18 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * tizanidine : 1\~2 ㎎ tid <mark style="color:blue;">\[실다루드]</mark>
 * chlorphenesin : 250 ㎎ tid <mark style="color:blue;">\[릴렉시아]</mark>
 * methocarbamol : 1.5\~2.25 g #3 <mark style="color:blue;">\[메토카몰]</mark>
-* carisoprodol : 350 ㎎ tid (향정신성 의약품; 의존성 주의)
 * cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark> (장기 작용; 단기 사용 원칙의 예외적 적용)
 
 ### <mark style="color:orange;">Steroid</mark>
 
+* 전신 steroid는 일반적인 진통제가 아니며, 염증성 질환·신경 압박의 특정 상황·암성 통증·완화의료 등 원인 질환에 명확한 적응증이 있는 경우에 한하여 사용
 * 작용 : 항염, 진통
 * 부작용 : 혈압 상승, 체액 저류, 골다공증
 * dexamethasone : 다른 steroid에 비하여 mineralocorticoid 작용이 적음; 0.5\~8 ㎎/d <mark style="color:blue;">\[덱사메타손]</mark>
 
 ### <mark style="color:orange;">저용량 Naltrexone (LDN)</mark>
 
-* 만성 통증에 대한 저용량 naltrexone(1.5\~4.5 ㎎/d) : 소규모 연구에서 섬유근통, 중추 감작 관련 만성 통증에 긍정적 결과가 보고되고 있으나 대규모 RCT는 부족
+* 저용량 naltrexone(1.5\~4.5 ㎎/d) : 근거 제한적이며 routine treatment로 권고하지 않음; 소규모 연구에서 섬유근통, 중추 감작 관련 만성 통증에 긍정적 결과가 보고되나 대규모 RCT는 부족 — 전문의 판단하에 off-label 고려
 * 국내 허가 적응증 : 알코올 의존성 치료 및 외인성 아편류 효과 차단 (통증은 off-label 사용)
 * 국내 제품 : 환인날트렉손정 25/50 ㎎, 파마날트렉손정 50 ㎎ (저용량 분할 사용 시 off-label)
 
@@ -622,7 +659,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 #### <mark style="color:$primary;">부작용 대처</mark>
 
 * 최소 유효 용량을 최단 기간 투여
-* 저용량 아스피린을 병용해야 하는 경우 아스피린 복용 후 최소 2시간(ibuprofen은 8시간 이상) 경과 후 NSAID 투여; celecoxib는 아스피린의 COX-1 결합을 방해하지 않아 시간 간격 제한 없음
+* 아스피린의 심혈관 보호 효과 저해를 막기 위해, 저용량 아스피린을 ibuprofen보다 최소 30분\~2시간 전에 먼저 복용하거나, ibuprofen 복용 후에는 최소 8시간이 지난 후 아스피린을 복용하도록 지도; celecoxib·naproxen은 아스피린의 COX-1 결합을 방해하지 않아 시간 간격 제한 영향이 적음
 * 장기 복용 환자에서 CBC, RFT, LFT 최소 매년, 위험 인자가 있는 환자에서는 더 자주 평가
 * 다음의 경우 NSAID 투여 중단 : LFT 정상 상한치 ＞3배, s-albumin↓, PT 연장
 * 수술 전 중단 : 속효성 NSAID- 1\~2일 전, 지속성 NSAID- 3일 전, aspirin- 1주 전 중단
@@ -646,13 +683,13 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">외용제</mark>
 
-* 혈중 농도가 경구제의 1\~5% 수준으로 전신 부작용이 현저히 적음
+* 전신 노출이 경구 NSAID보다 현저히 낮아(제형·성분에 따라 편차 있음) 전신 부작용 위험이 상대적으로 적음
 * 허리 이외 부위의 근골격계 손상에 의한 급성 통증에 대하여 경구제와 동등한 효과
 * 만성 통증에 대한 효과는 급성 통증에 비하여 적음
 * 무릎 골관절염(knee OA)에서는 전신 부작용 최소화를 위해 경구 NSAID보다 외용 NSAID를 우선 권고 (AAOS 2021, ACR/AF 2019, EULAR 2019); 특히 고령·GI·심혈관·신장 위험 인자가 있는 경우 1차 선택제
 * 대상 : 작은 관절(예: 손), 무릎 OA(보험 주의)
   * 고관절 OA에는 효과 없음
-* 주의/금기 : 기관지 천식, 임부, 수유부, 소아
+* 주의/금기 : NSAID 과민반응/aspirin-induced asthma 병력, 임신·수유, 소아는 성분별 허가사항 확인
 * 투여 횟수 : 통상 플라스타/파스류 1\~2회/d, 크림/겔 1\~4회/d
 * ketoprofen <mark style="color:blue;">\\\[케토톱 플라스타/겔]</mark> (12시간, 24시간 적용 제품군) \* piroxicam <mark style="color:blue;">\\\[트라스트 패취/겔]</mark> (48시간 적용 제품군) \* indomethacin <mark style="color:blue;">\\\[바이겔 크림]</mark> \* diclofenac <mark style="color:blue;">\\\[볼타렌 에멀겔]</mark>
 
@@ -660,7 +697,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 
 
-<table><thead><tr><th width="201.73678588867188">성분명 [상품명]</th><th width="205.15786743164062">용량 (골관절염)</th><th width="73.31573486328125">GI 출혈 위험¹⁾</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin <mark style="color:blue;">[로날]</mark></td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 ㎎ qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid <mark style="color:blue;">[폰탈]</mark></td><td>250 ㎎ qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate <mark style="color:blue;">[모니플루]</mark></td><td>700 ㎎ bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac <mark style="color:blue;">[에어탈]</mark></td><td>100 ㎎ bid</td><td>1.43‡</td><td></td></tr><tr><td>diclofenac <mark style="color:blue;">[디페인]</mark></td><td>50 ㎎ tid</td><td>3.27</td><td>CYP2C9 대사</td></tr><tr><td>etodolac <mark style="color:blue;">[로딘]</mark></td><td>서방형 400~1,000 ㎎ qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac <mark style="color:blue;">[케토라신]</mark></td><td>10 ㎎ qid</td><td>20.67</td><td>GI 위험 가장 높음</td></tr><tr><td>sulindac <mark style="color:blue;">[크리돌]</mark></td><td>100~200 ㎎ bid</td><td>2.89‡</td><td>신 장애 시 선호; 간 독성 부작용</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen <mark style="color:blue;">[애니펜]</mark></td><td>300 ㎎ bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 ㎎ tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 ㎎ bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen <mark style="color:blue;">[부루펜]</mark></td><td>400 ㎎ qid~800 ㎎ tid</td><td>2.28</td><td>비선택적 NSAID 중 GI 위험 가장 낮음</td></tr><tr><td>ketoprofen</td><td>50 ㎎ qid~100 ㎎ bid</td><td>7.43</td><td></td></tr><tr><td>loxoprofen <mark style="color:blue;">[록소닌]</mark></td><td>60 ㎎ bid~tid</td><td></td><td></td></tr><tr><td>nabumetone <mark style="color:blue;">[프로닥]</mark></td><td>500 tid~1,000 ㎎ bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen <mark style="color:blue;">[낙센]</mark></td><td>250~500 ㎎ bid</td><td>4.05</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 ㎎ qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen <mark style="color:blue;">[솔레톤]</mark></td><td>80 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam <mark style="color:blue;">[제포]</mark></td><td>12 ㎎ #3</td><td></td><td></td></tr><tr><td>meloxicam <mark style="color:blue;">[모빅]</mark></td><td>7.5~15 ㎎ qd</td><td>6.85</td><td>상대적 COX-2 선택성, Plt 영향적음; GI 위험은 구형 연구보다 높게 재평가됨</td></tr><tr><td>piroxicam <mark style="color:blue;">[브렉신]</mark></td><td>10~20 ㎎ qd</td><td>9.24</td><td>20 ㎎ 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 ㎎ qd</td><td>4.10‡</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib<br><mark style="color:blue;">[쎄레브렉스]</mark></td><td>100 ㎎ bid, 200 ㎎ qd</td><td>1.16</td><td>GI 위험 가장 낮음; Plt 영향 없음</td></tr><tr><td>etoricoxib <mark style="color:blue;">[알콕시아]</mark></td><td>30~60 ㎎ qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide <mark style="color:blue;">[메수리드]</mark></td><td>50~100 ㎎ bid (최대 15d)</td><td>3.83²⁾</td><td></td></tr><tr><td>talniflumate <mark style="color:blue;">[소말겐]</mark></td><td>370 ㎎ tid</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="201.73678588867188">성분명 [상품명]</th><th width="205.15786743164062">용량 (골관절염)</th><th width="73.31573486328125">GI 출혈 위험¹⁾</th><th width="265.6842346191406">비고</th></tr></thead><tbody><tr><td><strong>Salicylates</strong></td><td></td><td></td><td></td></tr><tr><td>aspirin <mark style="color:blue;">[로날]</mark></td><td>0.5~1g bid~tid</td><td></td><td>Plt 응고 저해 (7~10일)</td></tr><tr><td><strong>Anthranilic acids</strong></td><td></td><td></td><td></td></tr><tr><td>meclofenamic acid</td><td>50~100 ㎎ qid</td><td></td><td>GI 장애</td></tr><tr><td>mefenamic acid <mark style="color:blue;">[폰탈]</mark></td><td>250 ㎎ qid (단기 사용)</td><td></td><td>월경통에 선호; 항염작용은 적음</td></tr><tr><td>morniflumate <mark style="color:blue;">[모니플루]</mark></td><td>700 ㎎ bid</td><td></td><td></td></tr><tr><td>tolfenamic acid</td><td>200 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Arylacetic acids</strong></td><td></td><td></td><td></td></tr><tr><td>aceclofenac <mark style="color:blue;">[에어탈]</mark></td><td>100 ㎎ bid</td><td>1.43‡</td><td></td></tr><tr><td>diclofenac <mark style="color:blue;">[디페인]</mark></td><td>50 ㎎ tid</td><td>3.27</td><td>CYP2C9 대사</td></tr><tr><td>etodolac <mark style="color:blue;">[로딘]</mark></td><td>서방형 400~1,000 ㎎ qd</td><td></td><td>상대적 COX-2 선택성</td></tr><tr><td>ketorolac <mark style="color:blue;">[케토라신]</mark></td><td>10 ㎎ qid</td><td>20.67</td><td>GI 위험 가장 높음</td></tr><tr><td>sulindac <mark style="color:blue;">[크리돌]</mark></td><td>100~200 ㎎ bid</td><td>2.89‡</td><td>간 독성 부작용 주의; "신 장애 시 선호"라는 과거 근거는 확립된 임상 권고가 아니며, CKD/신장 위험 환자는 NSAID 자체를 최소화</td></tr><tr><td><strong>Arylpropionic acids</strong></td><td></td><td></td><td></td></tr><tr><td>dexibuprofen <mark style="color:blue;">[애니펜]</mark></td><td>300 ㎎ bid~qid</td><td></td><td></td></tr><tr><td>fenoprofen</td><td>300~600 ㎎ tid~qid</td><td></td><td>신장애 시 금기</td></tr><tr><td>flurbiprofen</td><td>50~100 ㎎ bid~qid</td><td></td><td>Lozenge 제제가 있음</td></tr><tr><td>ibuprofen <mark style="color:blue;">[부루펜]</mark></td><td>400 ㎎ qid~800 ㎎ tid</td><td>2.28</td><td>비선택적 NSAID 중 GI 위험 가장 낮음</td></tr><tr><td>ketoprofen</td><td>50 ㎎ qid~100 ㎎ bid</td><td>7.43</td><td></td></tr><tr><td>loxoprofen <mark style="color:blue;">[록소닌]</mark></td><td>60 ㎎ bid~tid</td><td></td><td></td></tr><tr><td>nabumetone <mark style="color:blue;">[프로닥]</mark></td><td>500 tid~1,000 ㎎ bid</td><td></td><td>slow onset, Plt 영향적음</td></tr><tr><td>naproxen <mark style="color:blue;">[낙센]</mark></td><td>250~500 ㎎ bid</td><td>4.05</td><td>상대적으로 심혈관 독성이 적음</td></tr><tr><td>oxaprozin</td><td>1200 ㎎ qd</td><td></td><td>지속형</td></tr><tr><td>zaltoprofen <mark style="color:blue;">[솔레톤]</mark></td><td>80 ㎎ tid</td><td></td><td></td></tr><tr><td><strong>Oxicams</strong></td><td></td><td></td><td>드물게 Stevens Johnson 증후군</td></tr><tr><td>lornoxicam <mark style="color:blue;">[제포]</mark></td><td>12 ㎎ #3</td><td></td><td></td></tr><tr><td>meloxicam <mark style="color:blue;">[모빅]</mark></td><td>7.5~15 ㎎ qd</td><td>6.85</td><td>상대적 COX-2 선택성, Plt 영향적음; GI 위험은 구형 연구보다 높게 재평가됨</td></tr><tr><td>piroxicam <mark style="color:blue;">[브렉신]</mark></td><td>10~20 ㎎ qd</td><td>9.24</td><td>20 ㎎ 매일 복용 시 심한 GI 독성</td></tr><tr><td>tenoxicam</td><td>20 ㎎ qd</td><td>4.10‡</td><td></td></tr><tr><td><strong>Coxibs</strong></td><td></td><td></td><td></td></tr><tr><td>celecoxib<br><mark style="color:blue;">[쎄레브렉스]</mark></td><td>100 ㎎ bid, 200 ㎎ qd</td><td>1.16</td><td>GI 위험 가장 낮음; Plt 영향 없음</td></tr><tr><td>etoricoxib <mark style="color:blue;">[알콕시아]</mark></td><td>30~60 ㎎ qd</td><td></td><td>용량 관련 혈압 상승</td></tr><tr><td><strong>Others</strong></td><td></td><td></td><td></td></tr><tr><td>nimesulide <mark style="color:blue;">[메수리드]</mark></td><td>50~100 ㎎ bid (최대 15d)</td><td>3.83²⁾</td><td></td></tr><tr><td>talniflumate <mark style="color:blue;">[소말겐]</mark></td><td>370 ㎎ tid</td><td></td><td></td></tr></tbody></table>
 
 1\) GI 출혈에 대한 pooled OR (비사용 대비); 낮을수록 위험 적음\
 2\) 신규 메타분석(Tawfik 2026) 미포함 약제 -구형 메타분석(Castellsague 2012) 상대위험도(RR) 값
@@ -685,7 +722,7 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ### <mark style="color:orange;">질환별 NSAID 선택</mark>
 
-<table data-header-hidden><thead><tr><th width="116.21051025390625"></th><th width="166.15789794921875"></th><th></th></tr></thead><tbody><tr><td><strong>위험 요인</strong></td><td><strong>권장 사항 및 약제</strong></td><td><strong>주의 및 금기</strong></td></tr><tr><td>심혈관 위험</td><td>국소 외용제 우선,<br>불가피 시 naproxen</td><td>COX-2 억제제 용량에 무관하게 심혈관 위험 증가 주의 (절대 금기는 아니나 신중 사용; PRECISION trial 참고)</td></tr><tr><td>신장애 위험</td><td>국소 외용제 우선</td><td>fenoprofen 금기; eGFR &#x3C; 30 mL/min/1.73m² 시 모든 NSAIDs 금기; 이뇨제 병용 주의</td></tr><tr><td>위장관 위험</td><td>celecoxib, PPI 병용</td><td>ketorolac 피함, 고령자 주의</td></tr><tr><td>간 장애 위험</td><td>acetaminophen (≤2g/d)</td><td>sulindac 금기; diclofenac은 간독성 보고 빈도가 높아 주의 (간 장애 시 다른 NSAIDs도 원칙적으로 신중 사용)</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="116.21051025390625"></th><th width="166.15789794921875"></th><th></th></tr></thead><tbody><tr><td><strong>위험 요인</strong></td><td><strong>권장 사항 및 약제</strong></td><td><strong>주의 및 금기</strong></td></tr><tr><td>심혈관 위험</td><td>국소 외용제 우선,<br>불가피 시 naproxen</td><td>COX-2 억제제(celecoxib 등)는 용량에 무관하게 심혈관 위험 증가와 연관되므로, 기존 심혈관질환·심부전이 있는 고위험군에서는 사용을 피하고 불가피한 경우 최저 유효 용량으로 신중히 사용 (절대 금기는 아니나 신중 사용; PRECISION trial 참고)</td></tr><tr><td>신장애 위험</td><td>국소 외용제 우선</td><td>fenoprofen 금기; eGFR &#x3C; 30 mL/min/1.73m² 시 모든 NSAIDs 금기; 이뇨제 병용 주의</td></tr><tr><td>위장관 위험</td><td>celecoxib, PPI 병용</td><td>ketorolac 피함, 고령자 주의</td></tr><tr><td>간 장애 위험</td><td>acetaminophen (≤2g/d)</td><td>sulindac 금기; diclofenac은 간독성 보고 빈도가 높아 주의 (간 장애 시 다른 NSAIDs도 원칙적으로 신중 사용)</td></tr></tbody></table>
 
 ### <mark style="color:orange;">주요 통증 약물 병용 금기 및 주의 리스트 (DUR)</mark>
 
