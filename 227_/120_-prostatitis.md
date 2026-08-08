@@ -1,7 +1,5 @@
 # 전립선염 Prostatitis
 
-![image](../.gitbook/assets/de998ffe-065a-4a67-a9cc-6bb0a518a6ab.JPG)
-
 ## 일반 사항
 
 * 전립선의 세균성(＜10%) 또는 비-세균성 염증 상태
@@ -14,7 +12,7 @@
     사정관 폐쇄, 방광암, 전립선암
 *   치료 경과
 
-    •급성 세균성 전립선염의 발열 및 배뇨통 호전 : 2\~6일![image](../.gitbook/assets/ae880c54-511c-4b5e-961b-acb76dec2f51.JPG)
+    •급성 세균성 전립선염의 발열 및 배뇨통 호전 : 2\~6일
 
     •만성 세균성 전립선염 치료율 : 50%\~90%
 
@@ -28,11 +26,23 @@
 * 비뇨기계 조작 : 도뇨관, 전립선 조작, 방광경 검사
 * 외상 : 자전거, 승마
 
+### Red Flags!
+
+* 경구 섭취 곤란
+* 패혈증 증상 : 저혈압, 빈맥, 고열
+* 전립선 농양 의심(항생제 투여 　48시간 내 호전되지 않는 경우)
+* 요로 폐쇄 증상
+
 ### 분류 \[NIH]
 
-```
-![image](images/a307cb92-9817-43c7-9802-0026416f956b.JPG)
-```
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Class</strong></td><td><strong>특징</strong></td><td><strong>WBC (고배율)</strong></td><td><strong>VB1¹)</strong></td><td><strong>VB2²)</strong></td><td><strong>EPS³)</strong></td><td><strong>VB3⁴)</strong></td></tr><tr><td><strong>I. 급성 세균성 전립선염</strong></td><td>전립선의 급성 감염</td><td>>10</td><td>+</td><td>+</td><td>금기</td><td>+</td></tr><tr><td><strong>II. 만성 세균성 전립선염</strong></td><td>전립선의 만성/재발 감염</td><td>>10</td><td>-</td><td>-</td><td>+</td><td>+</td></tr><tr><td><strong>III. 만성 골반통증증후군 / 만성 비세균성 전립선염</strong></td><td>전립선 감염(-), 만성 골반 통증(+), EPS, VB3 또는 정액 검사에서 아래 해당</td><td>&#x3C;10</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>A. 염증 아형</strong></td><td>유의미한 백혈구 수치</td><td>>10</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>B. 비-염증 아형</strong></td><td>무의미한 백혈구 수치</td><td>&#x3C;10</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>IV. 무증상 염증성 전립선염</strong></td><td>무증상. 다른 진단적 검사에서 우연히 발견됨</td><td>>10</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+¹⁾First 10 ㎖ of voided urine (urethral specimen) \
+²⁾ Midstream urine specimen (bladder specimen)\
+³⁾ EPS=expressed prostatic secretion \
+⁴⁾ First 10 ㎖ of voided urine after EPS (prostatic specimen)\
+\*VB=voided bladder\
+Ref. Prostatitis: Diagnosis and Treatment. AFP 2010:82(4)
 
 ## Ⅰ. 급성 세균성 전립선염 (Acute bacterial prostatitis)
 
@@ -96,7 +106,7 @@
 #### 증상 평가 \[NIH-CPSI] (NIH chronic prostatitis symptom index)
 
 ```
-![image](images/3eed9598-fb0d-483e-93ba-82151cba4157.JPG)
+[image]
 ```
 
 ## Ⅲ. 만성 골반통증후군 (Chronic pelvic pain syndrome)
@@ -166,8 +176,14 @@
 *   다음의 경우 입원 및 비경구 항생제 치료 : 경고 증상, 발열 또는 전신 증상, 외래 치료 실패, 내성균 위험
 
     (최근 fluoroquinolone 사용, 하부 요로 조작)
+*
 
-    ![image](../.gitbook/assets/dd725993-de45-4c53-81a2-b67e6a617fb9.JPG)
+    ![급성 세균성 전립선염의 관리
+    Ref. Acute Bacterial Prostatitis: Diagnosis
+    and Management. AFP 2016;93(2) Fig. 1](../.gitbook/assets/dd725993-de45-4c53-81a2-b67e6a617fb9.JPG)
+
+급성 세균성 전립선염의 관리\
+Ref. Acute Bacterial Prostatitis: Diagnosis and Management. AFP 2016;93(2) Fig. 1
 
 ### Ⅱ. 만성 세균성 전립선염 (CBP)
 
@@ -220,8 +236,35 @@
     •quercetin(flavonoid) : 정맥압 및 림프 순환 호전 효과 기대; 500 ㎎ bid ×1개월 \[베니톨]
 *   치료 후 매 30일마다 소변 검사, 배양 검사
 
-    ![image](../.gitbook/assets/153d91da-aac0-474f-a00a-f8ec06730d97.JPG)
+    ![iCBP & CP/CPPS 진단 및 관리 알고리듬
+    Ref. NICE. Diagnosis and treatment of chronic bacterial prostatitis
+    and chronic prostatitis/chronic pelvic pain syndrome (2015)mage](../.gitbook/assets/153d91da-aac0-474f-a00a-f8ec06730d97.JPG)
 
-> **질병코드** N41 전립선의 염증성 질환
+CBP & CP/CPPS 진단 및 관리 알고리듬\
+Ref. NICE. Diagnosis and treatment of chronic bacterial prostatitis and chronic prostatitis/chronic pelvic pain syndrome (2015)
 
-![image](../.gitbook/assets/7b39acb5-76c9-4b58-b048-b7edb317e59a.JPG)
+
+
+### **질병코드**&#x20;
+
+N41 전립선의 염증성 질환
+
+
+
+## 처방례
+
+처방례 1. 급성 세균성 전립선염, STI 위험(+)\
+트리악손 250 ㎎ IM\
+독시사이클린 100 ㎎/C 2T #2 ×10d<br>
+
+처방례 2. 급성 세균성 전립선염, STI 위험(-)\
+씨프로바이 250 ㎎/T 4T #2 ×10\~14d
+
+처방례 3. 만성 세균성 전립선염\
+크라비트 500 ㎎/T 1T qd ×4\~6wk\
+부루펜 200 ㎎/T 6T #3
+
+\
+처방례 4. 만성 전립선증\
+하루날 디 0.2 ㎎ 2T qd (보험주의)\
+센시발 10 ㎎/T 1T qd 취침 시
