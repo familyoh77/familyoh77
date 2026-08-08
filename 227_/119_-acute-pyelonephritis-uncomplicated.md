@@ -1,4 +1,4 @@
-# 급성 신우신염 Acute Pyelonephritis (APN)
+# 급성 신우신염 Acute Pyelonephritis, Uncomplicated
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -97,23 +97,23 @@
 
 ```mermaid
 graph TD
-    Start([신우신염 의심<br>발열 + 옆구리 통증/CVA 압통 ± 방광 자극 증상]) --> UA[요검사 + 요배양<br>중증 의심 시 혈액검사·혈액배양]
-    UA --> Sev[활력징후·의식·장기기능 평가<br>qSOFA는 참고 지표로만 활용]
-    Sev --> Q1[패혈증·패혈증 쇼크 의심?]
+    Start(["신우신염 의심<br>발열 + 옆구리 통증/CVA 압통 ± 방광 자극 증상"]) --> UA["요검사 + 요배양<br>중증 의심 시 혈액검사·혈액배양"]
+    UA --> Sev["활력징후·의식·장기기능 평가<br>qSOFA는 참고 지표로만 활용"]
+    Sev --> Q1["패혈증·패혈증 쇼크 의심?"]
     style Q1 fill:#fff9c4,stroke:#f9a825,stroke-width:2px
     Q1 -->|Yes| Admit1["입원 · 정주 항생제<br>배양 이력·내성균 위험·기관별 antibiogram에 따라 선택 → source control 폐쇄 여부 평가"]
     Q1 -->|No| Q2["경구 섭취 가능 &<br>요로 구조/기능 이상·폐쇄·유치도뇨관·최근 요로기구 사용 등 고위험 요인 없음?"]
     style Q2 fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    Q2 -->|Yes| OP[외래 치료<br>경구 항생제 시작]
-    Q2 -->|No| Admit2[입원 고려<br>정주 항생제 시작 후 경구 전환]
-    OP --> FU[48~72시간 재평가]
+    Q2 -->|Yes| OP["외래 치료<br>경구 항생제 시작"]
+    Q2 -->|No| Admit2["입원 고려<br>정주 항생제 시작 후 경구 전환"]
+    OP --> FU["48~72시간 재평가"]
     Admit1 --> FU
     Admit2 --> FU
-    FU --> Q3[임상적 호전?]
+    FU --> Q3["임상적 호전?"]
     style Q3 fill:#fff9c4,stroke:#f9a825,stroke-width:2px
     Q3 -->|Yes| Complete["배양 결과·환자군에 따른 권장 치료기간 완료<br>FQ 5~7일 / 국내 지침상 non-FQ 7일<br>남성 발열성 UTI·전립선염 의심 시 10~14일 이상 고려"]
-    Q3 -->|No| Image[영상 검사(CT/US)<br>폐쇄·농양 확인]
-    Image --> Adjust[배양 결과에 따라 항생제 조정<br>필요시 배액·비뇨의학과 협진]
+    Q3 -->|No| Image["영상 검사 CT/US<br>폐쇄·농양 확인"]
+    Image --> Adjust["배양 결과에 따라 항생제 조정<br>필요시 배액·비뇨의학과 협진"]
     style Start fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
@@ -137,7 +137,7 @@ graph TD
 
 {% hint style="danger" %}
 **⚠️ 경험적 fluoroquinolone 사용 시 국내 내성률 고려**\
-국내 **국소 요로감염(단순 방광염)** 원인균 조사에서 *E. coli*의 항생제 감수성은 nitrofurantoin 98.9%, fosfomycin 96.8%, TMP/SMX 68.1%, **ciprofloxacin 50.9%**, cefotaxime 82.4%로 보고됨(대한요로생식기감염학회 2023년 전국 감시; Yu SH, et al. Investig Clin Urol 2025). 전신 요로감염(신우신염) 환자군에 대한 별도의 전국 감수성 자료는 제한적이나, 동일한 병원체 pool을 고려할 때 유사한 수준일 가능성이 있습니다. 패혈증/패혈성 쇼크 환자에서는 최근 배양 결과 및 기관별 antibiogram을 우선 참고하여 항생제를 선택하고, 자체 감수성 자료가 없다면 감수성이 확인되지 않은 fluoroquinolone 단독 경험적 사용은 신중히 하십시오. 최근 6개월 내 fluoroquinolone 사용력이 있는 환자에서는 경험적 fluoroquinolone 사용이 권장되지 않습니다. (3·4세대 cephalosporin, carbapenem, piperacillin/tazobactam, fluoroquinolone은 IDSA 2025 cUTI 지침에서 패혈증 동반 cUTI의 경험적 1차 옵션으로 모두 인정되며, "3세대 cephalosporin 단독 회피"가 일반 원칙은 아닙니다.)
+국내 **국소 요로감염(단순 방광염)** 원인균 조사에서 _E. col&#x69;_&#xC758; 항생제 감수성은 nitrofurantoin 98.9%, fosfomycin 96.8%, TMP/SMX 68.1%, **ciprofloxacin 50.9%**, cefotaxime 82.4%로 보고됨(대한요로생식기감염학회 2023년 전국 감시; Yu SH, et al. Investig Clin Urol 2025). 전신 요로감염(신우신염) 환자군에 대한 별도의 전국 감수성 자료는 제한적이나, 동일한 병원체 pool을 고려할 때 유사한 수준일 가능성이 있습니다. 패혈증/패혈성 쇼크 환자에서는 최근 배양 결과 및 기관별 antibiogram을 우선 참고하여 항생제를 선택하고, 자체 감수성 자료가 없다면 감수성이 확인되지 않은 fluoroquinolone 단독 경험적 사용은 신중히 하십시오. 최근 6개월 내 fluoroquinolone 사용력이 있는 환자에서는 경험적 fluoroquinolone 사용이 권장되지 않습니다. (3·4세대 cephalosporin, carbapenem, piperacillin/tazobactam, fluoroquinolone은 IDSA 2025 cUTI 지침에서 패혈증 동반 cUTI의 경험적 1차 옵션으로 모두 인정되며, "3세대 cephalosporin 단독 회피"가 일반 원칙은 아닙니다.)
 {% endhint %}
 
 **경구(외래) - 비중증, complicated PN 위험 인자 없음**
@@ -207,7 +207,7 @@ N12 급성 또는 만성으로 명시되지 않은 세뇨관-간질신장염
 > 센트린 160/800 ㎎/T  1T bid ×7일
 > ```
 >
-> _✽TMP/SMX의 국내 *E. coli* 감수성은 약 68%로 지역·기관별 편차가 있음. 요배양 및 감수성 결과를 확인할 수 있는 경우 우선 사용하며, 감수성 확인 전 경험적으로 사용하는 경우에는 초기 ceftriaxone 등 정주 항생제 병행을 함께 고려한다. 48\~72시간 내 반응을 반드시 확인_
+> _✽TMP/SMX의 국내 E. coli 감수성은 약 68%로 지역·기관별 편차가 있음. 요배양 및 감수성 결과를 확인할 수 있는 경우 우선 사용하며, 감수성 확인 전 경험적으로 사용하는 경우에는 초기 ceftriaxone 등 정주 항생제 병행을 함께 고려한다. 48\~72시간 내 반응을 반드시 확인_
 
 > **처방례 3. 내성균 위험 인자 동반 - 초기 정주 후 경구 전환**
 >
