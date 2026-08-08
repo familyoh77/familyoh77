@@ -547,11 +547,13 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 **신기능별 용량 조절** (gabapentinoid는 대부분 신장으로 배설되므로 신기능에 따른 용량 조절 필요)
 
+{% hint style="info" %}
+**왜 eGFR이 아닌 CrCl인가?** CKD 진단·병기 분류나 일반적인 신기능 모니터링에는 CKD-EPI 기반 **eGFR**이 표준이다. 그러나 gabapentin·pregabalin은 허가 당시 약동학 연구가 **Cockcroft-Gault CrCl**로 설계되어 있어, 허가사항의 신기능별 용량표도 CrCl 기준으로 되어 있다. CrCl(체중 반영, 체표면적 보정 없음)과 eGFR(체중 미반영, 1.73m² 표준화)은 저체중 고령자·근육량이 적은 환자에서 값이 크게 벌어질 수 있어, eGFR로 대입하면 신기능을 과대평가하여 과다 처방으로 이어질 위험이 있다. 이 두 약제의 용량 조절에는 반드시 CrCl(Cockcroft-Gault)을 별도로 계산한다.
+{% endhint %}
+
 <table><thead><tr><th width="140">CrCl (mL/min)</th><th width="230">Gabapentin 1일 총 투여량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥80</td><td>900~2,400 mg/day</td><td>3회 분할</td></tr><tr><td>50~79</td><td>600~1,800 mg/day</td><td>3회 분할</td></tr><tr><td>30~49</td><td>300~900 mg/day</td><td>3회 분할</td></tr><tr><td>15~29</td><td>150~600 mg/day</td><td>3회 분할*</td></tr><tr><td>&#x3C;15</td><td>150~300 mg/day</td><td>3회 분할*, CrCl에 비례하여 추가 감량</td></tr><tr><td>혈액투석</td><td>초기 300~400 mg</td><td>4시간 혈액투석 후 200~300 mg 투여; 비투석일 미투여</td></tr></tbody></table>
 
 \* 150 mg/day에 해당하는 경우 100 mg × 3을 2일마다 투여 (국내 뉴론틴캡슐 허가사항 기준)
-
-※ 신기능은 eGFR이 아닌 CrCl(Cockcroft-Gault)로 평가.
 
 <table><thead><tr><th width="140">CrCl (mL/min)</th><th width="150">Pregabalin 시작용량</th><th width="150">최대용량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥60</td><td>150 mg/day</td><td>600 mg/day</td><td>2\~3회 분할(BID or TID)</td></tr><tr><td>30~&#x3C;60</td><td>75 mg/day</td><td>300 mg/day</td><td>2\~3회 분할(BID or TID)</td></tr><tr><td>15~&#x3C;30</td><td>25\~50 mg/day</td><td>150 mg/day</td><td>1\~2회 분할(QD or BID)</td></tr><tr><td>&#x3C;15</td><td>25 mg/day</td><td>75 mg/day</td><td>1일 1회(QD)</td></tr><tr><td>혈액투석 후 추가</td><td>25\~100 mg</td><td>단회 투여(혈액투석 4시간마다 시행 후 즉시 추가)</td><td></td></tr></tbody></table>
 
