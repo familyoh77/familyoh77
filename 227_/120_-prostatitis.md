@@ -316,7 +316,8 @@ graph TD
 
 #### <mark style="color:$primary;">Ⅱ. 만성 세균성 전립선염 (CBP)</mark>
 
-* 치료가 어려운 편이며 적절한 항생제 치료 후에도 재발할 수 있음 - 재발 시 배양 및 감수성 결과에 따라 치료를 재조정(무분별한 반복 처방이 아니라 근거 기반 재선택이 원칙)
+* 치료가 어려운 편이며 적절한 항생제 치료 후에도 재발할 수 있음&#x20;
+* 재발 시 배양 및 감수성 결과에 따라 치료를 재조정(단순한 반복 처방이 아니라 근거 기반 재선택이 원칙)
 
 **1차 선택**
 
@@ -332,25 +333,25 @@ graph TD
 * azithromycin : \[대한감염학회] 1 g qwk ×4주; \[EAU 2025] 500 ㎎ qd 최대 3주 \[지스로맥스]
 * clarithromycin : 500 ㎎ bid \[클래리시드]
 
-#### <mark style="color:$primary;">Ⅲ. 만성 골반통증증후군(CP/CPPS)</mark>
+#### <mark style="color:$primary;">Ⅲ. 만성 골반통증증후군 (CP/CPPS)</mark>
 
-* 좋은 효과가 입증된 단일 치료법은 없으며, **증상 영역별 다면적(multimodal) 접근**이 권장됨(AUA 2025)
+* 좋은 효과가 입증된 단일 치료법은 없으며, 증상 영역별 다면적(multimodal) 접근이 권장됨 \[AUA 2025]
 * 대부분 감염에 의한 것이 아니므로 감염의 증거가 없거나 감염 관리의 명백한 이득이 없으면 항생제(특히 quinolone) 투여는 피해야 함
 * 협진/의뢰를 적극 고려(비뇨의학과, 골반저 물리치료, 통증클리닉, 정신건강의학과 등)
 
 **배뇨 증상**
 
-* α-차단제, 배뇨 증상이 있으면 투여를 권고(AUA 2025, Moderate Recommendation; Grade B); 통상 12주를 한 치료 주기로 삼되 4주 시점부터 효과를 평가할 수 있음
-  * tamsulosin 0.4 ㎎/day \[하루날 디] : 제품별 실제 허가 용량·제형(정 함량)을 확인 후 처방
+* α-차단제, 배뇨 증상이 있으면 투여를 권고 \[AUA 2025]; 통상 12주를 한 치료 주기로 삼되 4주 시점부터 효과를 평가할 수 있음
+  * tamsulosin : 0.4 ㎎/d \[하루날 디] (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0264))
   * alfuzosin : 10 ㎎ qd \[자트랄]
-* BPH 동반 시 : 전립선 비대·LUTS가 있는 경우 5ARI 고려(CP/CPPS 자체의 치료제가 아니라 동반된 BPH/LUTS를 겨냥한 것임에 유의); ×6개월 (☞ p.669) (AUA 2025, Expert Opinion)
+* BPH 동반 시 : 전립선 비대·LUTS가 있는 경우 5ARI 고려(CP/CPPS 자체의 치료제가 아니라 동반된 BPH/LUTS를 겨냥한 것임에 유의); ×6개월 (☞ [BPH](124_-benign-prostatic-hyperplasia-bph.md))
   * finasteride : 5 ㎎ qd \[프로스카]
   * dutasteride : 0.5 ㎎ qd \[아보다트]
 
 **통증**
 
-* NSAID 등 항염증제를 다면적 통증 관리의 일부로 사용(AUA 2025, Conditional Recommendation; Grade B)
-* 신경병증 phenotype(통증이 임상 소견에 비해 과도하거나 감각 이상을 동반)이면 신경병증성 통증 약제를 처방 가능(AUA 2025, Conditional Recommendation; Grade C); 신경병증성 통증 일반 진료에서는 SNRI(duloxetine)가 더 흔히 선호되며, TCA·gabapentinoid도 고려
+* NSAID 등 항염증제를 다면적 통증 관리의 일부로 사용
+* 신경병증 phenotype(통증이 임상 소견에 비해 과도하거나 감각 이상을 동반)이면 신경병증성 통증 약제를 처방 가능; 신경병증성 통증 일반 진료에서는 SNRI(duloxetine)가 더 흔히 선호되며, TCA·gabapentinoid도 고려
   * ✽AUA 2025 원문은 "TCA, SSRI, gabapentinoid" 계열로 명시. SSRI는 우울/불안 치료제로 더 널리 인식되므로, 처방 시 통증 목적임을 환자에게 분명히 설명
   * gabapentinoids : gabapentin 300 ㎎ qd\~tid \[뉴론틴], pregabalin 50\~100 ㎎ bid\~tid \[리리카]
   * TCA : amitriptyline or nortriptyline 10 ㎎ qd hs, 점차 증량 \[센시발]
