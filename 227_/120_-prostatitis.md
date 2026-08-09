@@ -6,7 +6,7 @@
 * 만성 : 다른 비뇨생식기 질환(예: 요도염, 방광염) 없이 최근 6개월 중 ≥3개월 지속 또는 재발하는 골반통
 * 유병률 : 남성의 2.2\~16%(중앙값 7.1%)에서 전립선염 유사 증상을 경험; 미국 성인 남성의 1.8%(약 200만 명)가 CP/CPPS(Chronic prostatitis/Chronic pelvic pain syndrome) 증상을 가짐 (RICE study)
 * 호발 연령 : 급성 세균성 전립선염 30\~50세, 만성 세균성 전립선염 ＞50세; CP/CPPS는 ＜50세 남성에서 가장 흔한 비뇨기 질환
-  - [ ] 만성 세균성 전립선염은 재발성 요로감염·BPH·전립선 결석 등 감염 위험 인자가 누적되는 고령층에서 주로 발생하는 반면, CP/CPPS는 감염이 아닌 기능적/신경병증적 기전이 중심이라 50세 미만에서 가장 흔한 비뇨기 질환으로 보고됨
+  * [ ] 만성 세균성 전립선염은 재발성 요로감염·BPH·전립선 결석 등 감염 위험 인자가 누적되는 고령층에서 주로 발생하는 반면, CP/CPPS는 감염이 아닌 기능적/신경병증적 기전이 중심이라 50세 미만에서 가장 흔한 비뇨기 질환으로 보고됨
 * 치료 경과
   * 일반적으로 적절한 항생제 치료 후 수일 내 발열·배뇨 증상이 호전되기 시작함; 48\~72시간 이내 임상적 호전이 없거나 악화되면 합병증 평가(혈역학적 불안정·패혈증 징후가 있으면 시간 기준과 무관하게 즉시 평가)
   * 만성 세균성 전립선염은 치료가 어려운 편이며 재발·재감염이 흔함
@@ -14,10 +14,10 @@
 
 ### <mark style="color:orange;">분류 \[NIH]</mark>
 
-<table><thead><tr><th width="141">Class</th><th width="184">특징</th><th width="111" align="center">WBC(고배율)</th><th width="72" align="center">VB1¹⁾</th><th width="72" align="center">VB2²⁾</th><th width="72" align="center">EPS</th><th width="72" align="center">VB3³⁾</th></tr></thead><tbody><tr><td><strong>Ⅰ. 급성 세균성 전립선염</strong></td><td>전립선의 급성 감염</td><td align="center">＞10</td><td align="center">+</td><td align="center">+</td><td align="center"><mark style="background-color:$warning;">금기</mark></td><td align="center">+</td></tr><tr><td><strong>Ⅱ. 만성 세균성 전립선염</strong></td><td>전립선의 만성/재발 감염</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">+</td><td align="center">+</td></tr><tr><td><strong>Ⅲ. 만성 골반통증증후군</strong></td><td>감염 증거가 없는, 최근 6개월 중 3개월 이상 지속되는 골반통⁴⁾ </td><td align="center">아형에 따라 상이</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr><tr><td><strong>Ⅳ. 무증상 염증성 전립선염</strong></td><td>무증상. 다른 진단적 검사에서 우연히 발견됨</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table>
+<table><thead><tr><th width="141">Class</th><th width="184">특징</th><th width="111" align="center">WBC(고배율)</th><th width="72" align="center">VB1¹⁾</th><th width="72" align="center">VB2²⁾</th><th width="72" align="center">EPS</th><th width="72" align="center">VB3³⁾</th></tr></thead><tbody><tr><td><strong>Ⅰ. 급성 세균성 전립선염</strong></td><td>전립선의 급성 감염</td><td align="center">＞10</td><td align="center">+</td><td align="center">+</td><td align="center"><mark style="background-color:$warning;">금기</mark></td><td align="center">+</td></tr><tr><td><strong>Ⅱ. 만성 세균성 전립선염</strong></td><td>전립선의 만성/재발 감염</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">+</td><td align="center">+</td></tr><tr><td><strong>Ⅲ. 만성 골반통증증후군</strong></td><td>감염 증거가 없는, 최근 6개월 중 3개월 이상 지속되는 골반통⁴⁾</td><td align="center">아형에 따라 상이</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr><tr><td><strong>Ⅳ. 무증상 염증성 전립선염</strong></td><td>무증상. 다른 진단적 검사에서 우연히 발견됨</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table>
 
-_¹⁾  First 10 ㎖ of voided urine(urethral specimen). ²⁾ Midstream urine specimen(bladder specimen)._\
-_³⁾ First 10 ㎖ of voided urine after EPS(prostatic specimen). ⁴⁾ ⅢA(염증형)/ⅢB(비염증형)로 세분._
+_¹⁾ First 10 ㎖ of voided urine(urethral specimen). ²⁾ Midstream urine specimen(bladder specimen)._\
+_&#xB3;⁾ First 10 ㎖ of voided urine after EPS(prostatic specimen). ⁴⁾ ⅢA(염증형)/ⅢB(비염증형)로 세분._
 
 _VB=voided bladder, EPS=expressed prostatic secretion_
 
@@ -78,7 +78,7 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 * 회음부/치골 상부/골반의 만성 통증이 가장 흔함
 * 음경통, 사정통, 배뇨통, 성기능 장애(발기부전)도 흔함
 * 방광 자극 증상, 요로 폐쇄 증상이 동반될 수 있음
-  - [ ] 방광 충만 시 악화되고 배뇨 후 완화되는 통증 양상은 남성 간질성 방광염/방광통증증후군(IC/BPS)에서도 나타날 수 있어 감별이 필요; 이런 양상이 두드러지거나 야간뇨·심한 절박뇨가 동반되면 IC/BPS 가능성을 고려하고 필요시 방광경 검사
+  * [ ] 방광 충만 시 악화되고 배뇨 후 완화되는 통증 양상은 남성 간질성 방광염/방광통증증후군(IC/BPS)에서도 나타날 수 있어 감별이 필요; 이런 양상이 두드러지거나 야간뇨·심한 절박뇨가 동반되면 IC/BPS 가능성을 고려하고 필요시 방광경 검사
 * 고환·서혜부·허리 통증이 동반될 수 있음
 * 전체 환자의 약 70%가 골반 이외 부위에도 통증을 호소하며, 이런 경우는 수면장애·우울·불안·삶의 질 저하가 더 심함
 * 골반저 근육 긴장 및 압통이 대조군보다 유의하게 흔함(MAPP 연구에서 CP/CPPS·IC/BPS 환자의 47%)
@@ -129,7 +129,7 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 
 * 소변 검사 : U/A(농뇨, 세균뇨, 혈뇨) 및 중간뇨 배양·감수성 검사; 소변 그람염색은 필요시 추가
 * 혈액 검사 : CBC(WBC↑ Lt shift), 배양 검사(전신 증상 시)
-  - [ ] PSA는 급성 염증기에 상승할 수 있어 급성 세균성 전립선염 진단 목적으로 시행하지 않음; 암 평가가 필요하면 염증 해소 후 약 4\~8주 뒤 재평가(단일 근거 기반 확정 시점은 아니며 임상적으로 흔히 쓰이는 범위)
+  * [ ] PSA는 급성 염증기에 상승할 수 있어 급성 세균성 전립선염 진단 목적으로 시행하지 않음; 암 평가가 필요하면 염증 해소 후 약 4\~8주 뒤 재평가(단일 근거 기반 확정 시점은 아니며 임상적으로 흔히 쓰이는 범위)
 * 경직장 초음파(TRUS)(필요시 CT/MRI) : 항생제 투여 48\~72시간에 임상 호전이 없는 경우 농양 감별을 위해 고려
 
 {% hint style="warning" %}
@@ -169,7 +169,7 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 
 **2. 배뇨 문제**\
 아래 두 항목에 대하여: 없다=0점, 1번=1, ＜절반=2, 절반=3, ＞절반=4, 거의 항상=5점\
-⑸ 배뇨 후에도 소변이 방광에 남아 있는 느낌의 빈도 \
+⑸ 배뇨 후에도 소변이 방광에 남아 있는 느낌의 빈도\
 ⑹ 배뇨 후 2시간 이내 재배뇨의 빈도
 
 **3. 증상으로 인한 영향**\
@@ -188,43 +188,46 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 
 * 만성 증상 시 감별 질환 : BPH, 배뇨 기능 장애, 전립선 또는 뮐러관 잔유물, 비감염성 방광염, 신경병증성 통증, 사정관 폐쇄, 방광암, 전립선암, 요도 협착, 신경인성 방광, 남성 간질성 방광염/방광통증증후군(IC/BPS)
 
-<table data-search="false"><thead><tr><th width="154">질환</th><th>CP/CPPS와의 감별 포인트</th></tr></thead><tbody><tr><td>BPH / <br>배뇨 기능 장애</td><td>골반통 없이 하부 요로 증상(LUTS)이 주된 호소; 골반통 유무가 핵심 감별점</td></tr><tr><td>과민성 방광(OAB)</td><td>절박뇨·빈뇨 위주이며 골반·방광통이 동반되지 않음</td></tr><tr><td>남성 간질성 방광염/방광통증증후군(IC/BPS)</td><td>방광 충만과 관련된 통증·불편감이 6주 이상 지속; 필요시 방광경에서 Hunner 병변 등을 평가(Hunner 병변이 없어도 IC/BPS는 배제되지 않음)</td></tr><tr><td>요도 협착 / <br>신경인성 방광</td><td>요류 검사·요역동학 검사로 감별; 배뇨 증상이 주 소견</td></tr><tr><td>골반저근 근육통</td><td>경직장 촉진에서 항문거근·폐쇄근 압통(+); CP/CPPS와 흔히 동반</td></tr><tr><td>사정관 폐쇄</td><td>정액량 감소, 사정통이 주 증상; 경직장 초음파·MRI로 확인</td></tr><tr><td>방광암 / 전립선암</td><td>육안적 혈뇨, 체중 감소, 전립선 결절 등 경고 증상 동반 시 감별; 방광경·PSA·조직검사</td></tr><tr><td>만성 골반 신경병증(음부신경 포착 등)</td><td>앉으면 악화되는 편측 작열통, 신경 분포를 따르는 통증</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="154">질환</th><th>CP/CPPS와의 감별 포인트</th></tr></thead><tbody><tr><td>BPH /<br>배뇨 기능 장애</td><td>골반통 없이 하부 요로 증상(LUTS)이 주된 호소; 골반통 유무가 핵심 감별점</td></tr><tr><td>과민성 방광(OAB)</td><td>절박뇨·빈뇨 위주이며 골반·방광통이 동반되지 않음</td></tr><tr><td>남성 간질성 방광염/방광통증증후군(IC/BPS)</td><td>방광 충만과 관련된 통증·불편감이 6주 이상 지속; 필요시 방광경에서 Hunner 병변 등을 평가(Hunner 병변이 없어도 IC/BPS는 배제되지 않음)</td></tr><tr><td>요도 협착 /<br>신경인성 방광</td><td>요류 검사·요역동학 검사로 감별; 배뇨 증상이 주 소견</td></tr><tr><td>골반저근 근육통</td><td>경직장 촉진에서 항문거근·폐쇄근 압통(+); CP/CPPS와 흔히 동반</td></tr><tr><td>사정관 폐쇄</td><td>정액량 감소, 사정통이 주 증상; 경직장 초음파·MRI로 확인</td></tr><tr><td>방광암 / 전립선암</td><td>육안적 혈뇨, 체중 감소, 전립선 결절 등 경고 증상 동반 시 감별; 방광경·PSA·조직검사</td></tr><tr><td>만성 골반 신경병증(음부신경 포착 등)</td><td>앉으면 악화되는 편측 작열통, 신경 분포를 따르는 통증</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    Start["급성 세균성 전립선염 의심"] --> UA["U/A 및 소변 배양검사; 요로폐쇄 의심 시 잔뇨량 검사"]
+    Start(["급성 세균성 전립선염 의심"]) --> UA["U/A 및 소변 배양검사; 요로폐쇄 의심 시 잔뇨량 검사"]
     UA --> AdmitQ["입원 적응증 평가"]
     AdmitQ --> OPD["외래 치료"]
     AdmitQ --> IPD["입원 치료 - 혈액배양 고려"]
-
     OPD --> STIQ["STI 위험 평가"]
     STIQ -->|"위험(+)"| Rx1["트리악손 500 ㎎ IM 1회(150kg 이상은 1 g) - C. trachomatis 배제 안 되면 독시사이클린 100 ㎎ bid 추가"]
     STIQ -->|"위험(-)"| Rx2["씨프로바이 500 ㎎ bid 또는 크라비트 500~750 ㎎ qd; 경증 10~14일, 총 치료기간은 임상반응에 따라 2~4주 고려"]
     Rx1 --> F1["임상반응·배양 결과에 따라 항생제 조정 및 기간 연장"]
     Rx2 --> F1
-
     IPD --> SevQ["중증도·내성위험 평가(패혈증 여부, ESBL/MDR 위험, 최근 배양·항생제 노출, 지역 내성률)"]
     SevQ -->|"경증~중등증, 내성 위험 낮음"| Rx3["씨프로바이 400 ㎎ IV q12h 또는 크라비트 500~750 ㎎ IV q24h"]
     SevQ -->|"중증 또는 내성 위험(+)"| Rx4["광범위 β-lactam 또는 3세대 cephalosporin ± 아미노글리코사이드(예시: 피페라실린/타조박탐); 실제 선택은 위험도·지역 내성률에 따라 조정"]
     Rx3 --> RespQ["48~72시간 내 임상적 호전 없음? (혈역학적 불안정 시 대기 없이 재평가)"]
     Rx4 --> RespQ
-    RespQ -->|"아니오"| Stable["임상 안정 후 경구 전환; 총 2~4주 치료 후 1주 뒤 소변배양 재검"]
+    RespQ -->|"아니오"| Stable["임상 안정 후 경구 전환; <br/>총 2~4주 치료 후 1주 뒤<br/> 소변배양 재검"]
     RespQ -->|"예"| Img["경직장 초음파 또는 CT/MRI"]
     Img --> AbsQ["전립선 농양 확인"]
-    AbsQ -->|"확인됨"| Drain["배농 시행 + 광범위 항생제 + 배양 재검"]
-    AbsQ -->|"확인 안 됨"| Broaden["광범위 항생제로 전환 및 감별진단 재검토"]
+    AbsQ -->|"확인됨"| Drain["배농 시행 + 광범위 <br/>항생제 + 배양 재검"]
+    AbsQ -->|"확인 안 됨"| Broaden["광범위 항생제로 전환<br/> 및 감별진단 재검토"]
     Drain --> Stable
     Broaden --> Stable
 
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style AdmitQ fill:#fff9c4,stroke:#ffe082
-    style STIQ fill:#fff9c4,stroke:#ffe082
-    style SevQ fill:#fff9c4,stroke:#ffe082
-    style RespQ fill:#fff9c4,stroke:#ffe082
-    style AbsQ fill:#fff9c4,stroke:#ffe082
-    style Drain fill:#ffebee,stroke:#c62828,stroke-width:2px
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class AdmitQ,STIQ,SevQ,RespQ,AbsQ yellow
+style OPD fill:#fef4f8,stroke:#f06baf
+style IPD fill:#fcd4e6,stroke:#e0448e
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class Rx1,Rx2,Rx3,Rx4 sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class F1,Stable blue
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class UA,Img lightGreen
+
 ```
 
 <p align="center"><strong>급성 세균성 전립선염의 진단 및 관리 알고리듬</strong></p>
@@ -235,35 +238,37 @@ graph TD
 
 ```mermaid
 graph TD
-    Start["CP/CPPS 의증 - 최근 6개월 중 3개월 이상 지속 골반통"] --> Eval["종합 평가 : 병력·배뇨/성기능·심리사회력, 신경·근골격 선별, 직장수지 및 골반저근 촉진"]
-    Eval --> Lab["U/A 및 중간뇨 배양검사; STI 위험 시 NAAT"]
+    Start(["CP/CPPS 의증 - 최근 6개월 중 3개월 이상 지속 골반통"]) --> Eval["종합 평가:<br/> 병력·배뇨/성기능·심리사회력<br/>, 신경·근골격 선별, 직장수지 <br/>및 골반저근 촉진"]
+    Eval --> Lab["U/A 및 중간뇨 배양검사; <br/>STI 위험 시 NAAT"]
     Lab --> ExclQ["감별 질환 배제"]
-    ExclQ -->|"확인된 질환 있음"| Confusable["BPH·요도협착·방광암·신경인성방광·전립선암 등 해당 질환 치료"]
-    ExclQ -->|"다른 질환 확인 안 됨: CP/CPPS 진단"| Domain["우세 증상 영역 파악"]
-
+    ExclQ -->|"확인된 질환 있음"| Confusable["BPH·요도협착·방광암·<br/>신경인성방광·전립선암 <br/>등 해당 질환 치료"]
+    ExclQ --->|"다른 질환 확인 안 됨:<br/> CP/CPPS 진단"| Domain["우세 증상 영역 파악"]
     Domain --> Voiding["배뇨 증상 우세"]
     Domain --> Pain["통증 우세"]
     Domain --> PFM["골반저근 압통"]
     Domain --> Psych["심리사회적 증상 우세"]
-
-    Voiding --> TxVoid["알파차단제; BPH 동반 시 5ARI 고려"]
-    Pain --> TxPain["NSAID·진통제 + phytotherapy(quercetin 등); 신경병증 phenotype이면 SNRI·TCA·gabapentinoid 고려"]
-    PFM --> TxPFM["골반저 물리치료(도수·근막이완) 및 바이오피드백"]
-    Psych --> TxPsych["인지행동치료 및 정신건강 자원 연계"]
-
-    TxVoid --> Adjunct["보조 요법 : 저강도 체외충격파(ESWT), TENS, 침, 일일 저용량 tadalafil"]
+    Voiding --> TxVoid["알파차단제; <br/>BPH 동반 시 5ARI 고려"]
+    Pain --> TxPain["NSAID·진통제 + <br/>phytotherapy; <br/>신경병증 phenotype이면 <br/>SNRI·TCA·gabapentinoid <br/>고려"]
+    PFM --> TxPFM["골반저 물리치료<br/>(도수·근막이완) 및 <br/>바이오피드백"]
+    Psych --> TxPsych["인지행동치료 및 <br/>정신건강 자원 연계"]
+    TxVoid --> Adjunct["보조 요법: <br/>저강도 체외충격파(ESWT), <br/>TENS, 침, <br/>일일 저용량 tadalafil"]
     TxPain --> Adjunct
     TxPFM --> Adjunct
     TxPsych --> Adjunct
-
     Adjunct --> Reassess["주기적 재평가"]
-    Reassess -->|"호전"| Continue["효과 있는 치료 유지, 무효 치료는 중단"]
-    Reassess -->|"무반응"| MDT["통증클리닉/다학제 의뢰; 진단 재검토"]
+    Reassess -->|"호전"| Continue["효과 있는 치료 유지, <br/>무효 치료는 중단"]
+    Reassess -->|"무반응"| MDT["통증클리닉/다학제 의뢰; <br/>진단 재검토"]
 
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style ExclQ fill:#fff9c4,stroke:#ffe082
-    style Reassess fill:#fff9c4,stroke:#ffe082
-    style MDT fill:#f3e5f5,stroke:#4a148c
+classDef yellow fill:#fff9c4,stroke:#ffe082
+	class ExclQ,Reassess,Domain yellow
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+	class Eval,Lab lightGreen
+classDef sky fill:#e3f2ff,stroke:#2196f3
+	class TxVoid,TxPain,TxPFM,TxPsych,Adjunct sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+	class Confusable,Continue blue
+style MDT fill:#fdebd0,stroke:#e67e22
 ```
 
 <p align="center"><strong>만성 세균성 전립선염 및 만성 골반통증증후군(CP/CPPS)의 진단·다면적 관리 알고리듬</strong></p>
@@ -303,7 +308,7 @@ graph TD
 
 #### <mark style="color:$primary;">Ⅰ. 급성 세균성 전립선염 (ABP)</mark>
 
-* 성매개질환 위험(+) : ceftriaxone 500 ㎎ IM <mark style="color:blue;">\[트리악손]</mark> 1회(체중 150 ㎏ 이상은 1 g); _C. trachomatis_가 배제되지 않은 경우 doxycycline <mark style="color:blue;">\[독시사이클린]</mark> 100 ㎎ bid 추가 (☞ [성매개감염증](115_-1.STI.md))
+* 성매개질환 위험(+) : ceftriaxone 500 ㎎ IM <mark style="color:blue;">\[트리악손]</mark> 1회(체중 150 ㎏ 이상은 1 g); \_C. trachomatis\_가 배제되지 않은 경우 doxycycline <mark style="color:blue;">\[독시사이클린]</mark> 100 ㎎ bid 추가 (☞ [성매개감염증](115_-1.STI.md))
   * ceftriaxone 투여가 불가능한 경우의 임질 대체요법으로 cefixime 800 ㎎ PO 1회가 사용될 수 있으나, 전립선 침범이 의심되는 ABP의 전체 치료는 이와 별도로 고려해야 함(단회 cefixime을 ABP 완결 치료로 간주하지 않음)
   * 성 파트너의 임질 치료가 필요한 경우 EPT(expedited partner therapy)는 파트너 본인에 대한 치료이며, index patient(본 환자)의 ABP 치료와는 별개로 다룸
   * 임질/클라미디아 동시치료 자체는 7일이면 충분하지만, 전립선 침범이 확인/의심되는 ABP는 이와 별개로 임상반응에 따라 전체 항생제 치료기간을 2\~4주로 잡는 것이 안전 \[EAU 2025]
@@ -354,7 +359,7 @@ graph TD
 * 신경병증 phenotype(통증이 임상 소견에 비해 과도하거나 감각 이상을 동반)이면 신경병증성 통증 약제 선택 고려(근거 수준 낮음 \[AUA 2025]); 신경병증성 통증 일반 진료에서는 SNRI(duloxetine)가 더 흔히 선호되며, TCA·gabapentinoid도 고려
   * gabapentinoids : gabapentin 300 ㎎ qd\~tid <mark style="color:blue;">\[뉴론틴]</mark>, pregabalin 50\~100 ㎎ bid\~tid <mark style="color:blue;">\[리리카]</mark>
   * TCA : amitriptyline or nortriptyline 10 ㎎ qd hs, 점차 증량 <mark style="color:blue;">\[센시발]</mark>
-* PDE5 억제제 : 발기부전 동반 여부와 무관하게 매일 저용량 tadalafil을 전립선염 증상 개선 목적으로 고려(근거 수준 낮음 \[AUA 2025]); tadalafil 5 ㎎ qd <mark style="color:blue;">\[시알리스]</mark>\(비급여)
+* PDE5 억제제 : 발기부전 동반 여부와 무관하게 매일 저용량 tadalafil을 전립선염 증상 개선 목적으로 고려(근거 수준 낮음 \[AUA 2025]); tadalafil 5 ㎎ qd <mark style="color:blue;">\[시알리스]</mark>(비급여)
 * Phytotherapeutics : saw palmetto(톱야자 추출물), quercetin, pollen extract가 통증·배뇨 증상·삶의 질 개선에 약간의 도움이 될 가능성이 있으나 권고 강도는 낮음 \[AUA 2025]
 
 **골반저근 근육통**
@@ -408,7 +413,7 @@ N41.9 상세불명의 전립선의 염증성 질환
 > 독시사이클린 100 ㎎/C 2T #2 ×7d(C. trachomatis 배제 안 된 경우)
 > ```
 >
-> _✽성매개질환 위험이 있는 젊은 연령에서는 *N. gonorrhoeae*, *C. trachomatis*를 함께 커버(CDC 2021 기준 500 ㎎/1 g; 국내·유럽/WHO 지침은 1 g을 표준으로 쓰는 경우가 많아 소속 기관 지침에 따름); 전립선 침범이 확인/의심되면 별도로 전체 항생제 치료기간을 임상반응에 따라 2\~4주로 연장; 성 파트너 동반 치료 및 성매개감염 추가 검사(HIV, 매독 등)를 함께 고려_
+> _✽성매개질환 위험이 있는 젊은 연령에서는 N. gonorrhoeae, C. trachomatis를 함께 커버(CDC 2021 기준 500 ㎎/1 g; 국내·유럽/WHO 지침은 1 g을 표준으로 쓰는 경우가 많아 소속 기관 지침에 따름); 전립선 침범이 확인/의심되면 별도로 전체 항생제 치료기간을 임상반응에 따라 2\~4주로 연장; 성 파트너 동반 치료 및 성매개감염 추가 검사(HIV, 매독 등)를 함께 고려_
 
 > **처방례 2. 급성 세균성 전립선염, STI 위험(-)**
 >
