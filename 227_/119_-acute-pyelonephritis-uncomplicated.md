@@ -148,7 +148,7 @@ _\*고위험요인: 경구 섭취 가능 & 요로 구조/기능 이상·폐쇄·
 
 ### <mark style="color:orange;">항생제</mark>
 
-* **경험적 fluoroquinolone 사용 시 국내 내성률 고려 :** 국내 **국소 요로감염(단순 방광염)** 원인균 조사에서 \_E. coli\_의 항생제 감수성은 nitrofurantoin 98.9%, fosfomycin 96.8%, TMP/SMX 68.1%, **ciprofloxacin 50.9%**, cefotaxime 82.4%로 보고됨(대한요로생식기감염학회 2023년 전국 감시; Yu SH, et al. Investig Clin Urol 2025). 전신 요로감염(신우신염) 환자군에 대한 별도의 전국 감수성 자료는 제한적이나, 동일한 병원체 pool을 고려할 때 유사한 수준일 가능성이 있음. 패혈증/패혈성 쇼크 환자에서는 최근 배양 결과 및 기관별 antibiogram을 우선 참고하여 항생제를 선택하고, 자체 감수성 자료가 없다면 감수성이 확인되지 않은 fluoroquinolone 단독 경험적 사용은 신중히 선택. 최근 6개월 내 fluoroquinolone 사용력이 있는 환자에서는 경험적 fluoroquinolone 사용이 권장하지 않음.\
+* **경험적 fluoroquinolone 사용 시 국내 내성률 고려 :** 국내 국소 요로감염(단순 방광염) 원인균 조사에서 \_E. coli\_의 항생제 감수성은 nitrofurantoin 98.9%, fosfomycin 96.8%, TMP/SMX 68.1%, ciprofloxacin 50.9%, cefotaxime 82.4%로 보고됨(대한요로생식기감염학회 2023년 전국 감시; Yu SH, et al. Investig Clin Urol 2025). 전신 요로감염(신우신염) 환자군에 대한 별도의 전국 감수성 자료는 제한적이나, 동일한 병원체 pool을 고려할 때 유사한 수준일 가능성이 있음. 패혈증/패혈성 쇼크 환자에서는 최근 배양 결과 및 기관별 antibiogram을 우선 참고하여 항생제를 선택하고, 자체 감수성 자료가 없다면 감수성이 확인되지 않은 fluoroquinolone 단독 경험적 사용은 신중히 선택. 최근 6개월 내 fluoroquinolone 사용력이 있는 환자에서는 경험적 fluoroquinolone 사용이 권장하지 않음.\
   ✽ 3·4세대 cephalosporin, carbapenem, piperacillin/tazobactam, fluoroquinolone은 IDSA 2025 cUTI 지침에서 패혈증 동반 cUTI의 경험적 1차 옵션으로 모두 인정됨
 
 <mark style="color:cyan;">**경구(외래) - 비중증, complicated PN 위험 인자 없음**</mark>
@@ -175,7 +175,7 @@ _✽본 챕터는 국내 2025 지침을 기준으로 기술함. IDSA 2025의 7�
 * 남성 환자의 치료 기간은 "치료 방침"의 별도 기준 참조(전립선 침범 가능성 고려, 통상 10\~14일 이상)
 
 {% hint style="info" %}
-**해외 지침과의 차이 - 참고용** : \[ACP] fluoroquinolone ×5\~7일 또는 TMP-SMX ×14일(감수성이 있는 경우)\
+**해외 지침과의 차이** : \[ACP] fluoroquinolone ×5\~7일 또는 TMP-SMX ×14일(감수성이 있는 경우)\
 \[NICE] cephalexin 500 ㎎ bid\~tid ×7\~10일(임신 여성 포함 1차 선택으로 명시), amoxicillin/clavulanate 500/125 ㎎ tid ×7\~10일 (배양 결과에 따라), trimethoprim 200 ㎎ bid ×14일, ciprofloxacin 500 ㎎ bid ×7일\
 ✽NICE는 cephalexin·amoxicillin/clavulanate를 1차 선택제로 명시하지만, 국내 2025 지침 및 EAU 2025는 이들 경구 베타락탐계를 경험적 단독 요법으로 권장하지 않음(배양 확인 후 표적 치료 시에는 사용 가능)
 {% endhint %}
