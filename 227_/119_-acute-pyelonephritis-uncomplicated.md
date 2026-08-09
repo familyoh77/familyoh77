@@ -12,7 +12,7 @@
 
 - [ ] 본 챕터는 요로의 구조적·기능적 이상, 요로 폐쇄, 유치 도뇨관, 최근 요로기구 사용, 면역 저하, 임신 등이 없는 성인의 급성 신우신염을 중심으로 기술함; 남성·고령·당뇨병은 그 자체만으로 일률적으로 complicated로 분류하기보다, 전립선 침범 가능성·요로 이상·중증도·내성균 위험을 함께 평가. uncomplicated/complicated 이분법은 IDSA 2025 cUTI 지침 등 최신 분류 체계에서 지침마다 정의가 달라 단순 적용이 부적절해짐
 
-&#x20;**2025 요로감염 항생제 사용지침 분류 체계** \[질병청]
+**2025 요로감염 항생제 사용지침 분류 체계** \[질병청]
 
 <table><thead><tr><th width="125.71429443359375">구분</th><th width="330.4761962890625">정의</th><th>비고</th></tr></thead><tbody><tr><td>국소 요로감염</td><td>방광에 국한된 급성 요로 증상(배뇨통·빈뇨·절박뇨·치골상부 압통 등) + 농뇨/세균뇨</td><td>기존 단순 방광염</td></tr><tr><td>전신 요로감염*</td><td>발열·오한·옆구리 통증·CVA 압통·혈역학적 불안정 등 전신 증상 ± 방광 증상</td><td>기존 단순/복잡 신우신염, 상부 요로감염 포함</td></tr></tbody></table>
 
@@ -34,7 +34,7 @@ _\*아래 항생제 감수성 수치는 국소 요로감염 대상이므로 전�
 * 당뇨병, 면역 저하
 * 고령, 임신
 
-### <mark style="color:orange;">내성균 위험 인자</mark>&#x20;
+### <mark style="color:orange;">내성균 위험 인자</mark>
 
 * 6개월 이내 항생제 투여력 또는 입원력
 * 요양시설 거주자
@@ -100,29 +100,38 @@ _\*아래 항생제 감수성 수치는 국소 요로감염 대상이므로 전�
 
 ```mermaid
 graph TD
-    Start(["신우신염 의심<br>발열 + 옆구리 통증/CVA 압통 ± 방광 자극 증상"]) --> UA["요검사 + 요배양<br>중증 의심 시 혈액검사·혈액배양"]
-    UA --> Sev["활력징후·의식·장기기능 평가<br>qSOFA는 참고 지표로만 활용"]
-    Sev --> Q1["패혈증·패혈증 쇼크 의심?"]
-    style Q1 fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    Q1 -->|Yes| Admit1["입원 · 정주 항생제<br>배양 이력·내성균 위험·기관별 antibiogram에 따라 선택 → source control 폐쇄 여부 평가"]
-    Q1 -->|No| Q2["경구 섭취 가능 &<br>요로 구조/기능 이상·폐쇄·유치도뇨관·최근 요로기구 사용 등 고위험 요인 없음?"]
-    style Q2 fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    Q2 -->|Yes| OP["외래 치료<br>경구 항생제 시작"]
-    Q2 -->|No| Admit2["입원 고려<br>정주 항생제 시작 후 경구 전환"]
+    Start(["신우신염 의심<br>발열 + 옆구리 통증/CVA 압통 <br>± 방광 자극 증상"]) --> UA["•기본: 요검사 + 요배양<br>중증 의심: 혈액검사·혈액배양<br>•활력징후·의식·장기기능 <br>평가 (참고 지표: qSOFA)"]
+    UA --> Q1["패혈증·패혈증 쇼크 의심?"]
+    Q1 -->|Yes| Admit1["입원·정주 항생제:<br>배양 이력·내성균 위험·기관별 antibiogram에 따라 선택 <br>→ source control 폐쇄 여부 평가"]
+    Q1 -->|No| Q2["고위험요인* 없음?"]
+    Q2 -->|Yes| OP["외래 치료:<br>경구 항생제 시작"]
+    Q2 -->|No| Admit2["입원 고려:<br>정주 항생제 시작 후 <br>경구 전환"]
     OP --> FU["48~72시간 재평가"]
     Admit1 --> FU
     Admit2 --> FU
     FU --> Q3["임상적 호전?"]
-    style Q3 fill:#fff9c4,stroke:#f9a825,stroke-width:2px
-    Q3 -->|Yes| Complete["배양 결과·환자군에 따른 권장 치료기간 완료<br>FQ 5~7일 / 국내 지침상 non-FQ 7일<br>남성 발열성 UTI·전립선염 의심 시 10~14일 이상 고려"]
+    Q3 -->|Yes| Complete["배양 결과·환자군에 따른 <br>권장 치료기간 완료<br>FQ 5~7일 / non-FQ 7일<br>남성 발열성 UTI·전립선염 <br>의심 시 10~14일 이상 고려"]
     Q3 -->|No| Image["영상 검사 CT/US<br>폐쇄·농양 확인"]
     Image --> Adjust["배양 결과에 따라 항생제 조정<br>필요시 배액·비뇨의학과 협진"]
-    style Start fill:#f96,stroke:#e65100,stroke-width:2px
+
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class UA,Image lightGreen
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Q1,Q2,Q3 yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class OP sky
+classDef orange fill:#fdebd0,stroke:#e67e22
+class Admit2,Admit1 orange
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class Complete,Adjust blue
 ```
+
+_\*고위험요인: 경구 섭취 가능 & 요로 구조/기능 이상·폐쇄·유치도뇨관·최근 요로기구 사용 등_
 
 <p align="center"><strong>급성 신우신염 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 2025 요로감염 항생제 사용지침(질병관리청·대한항균요법학회, 2026); EAU Guidelines on Urological Infections (2025/2026)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 2025 요로감염 항생제 사용지침(질병관리청·대한항균요법학회, 2026);</mark></em> <br><em><mark style="color:$info;">EAU Guidelines on Urological Infections (2025/2026)</mark></em></p>
 
 ***
 
@@ -139,12 +148,12 @@ graph TD
 
 ### <mark style="color:orange;">항생제</mark>
 
-* **경험적 fluoroquinolone 사용 시 국내 내성률 고려 :** 국내 **국소 요로감염(단순 방광염)** 원인균 조사에서 _E. coli_의 항생제 감수성은 nitrofurantoin 98.9%, fosfomycin 96.8%, TMP/SMX 68.1%, **ciprofloxacin 50.9%**, cefotaxime 82.4%로 보고됨(대한요로생식기감염학회 2023년 전국 감시; Yu SH, et al. Investig Clin Urol 2025). 전신 요로감염(신우신염) 환자군에 대한 별도의 전국 감수성 자료는 제한적이나, 동일한 병원체 pool을 고려할 때 유사한 수준일 가능성이 있음. 패혈증/패혈성 쇼크 환자에서는 최근 배양 결과 및 기관별 antibiogram을 우선 참고하여 항생제를 선택하고, 자체 감수성 자료가 없다면 감수성이 확인되지 않은 fluoroquinolone 단독 경험적 사용은 신중히 선택. 최근 6개월 내 fluoroquinolone 사용력이 있는 환자에서는 경험적 fluoroquinolone 사용이 권장하지 않음. \
+* **경험적 fluoroquinolone 사용 시 국내 내성률 고려 :** 국내 **국소 요로감염(단순 방광염)** 원인균 조사에서 \_E. coli\_의 항생제 감수성은 nitrofurantoin 98.9%, fosfomycin 96.8%, TMP/SMX 68.1%, **ciprofloxacin 50.9%**, cefotaxime 82.4%로 보고됨(대한요로생식기감염학회 2023년 전국 감시; Yu SH, et al. Investig Clin Urol 2025). 전신 요로감염(신우신염) 환자군에 대한 별도의 전국 감수성 자료는 제한적이나, 동일한 병원체 pool을 고려할 때 유사한 수준일 가능성이 있음. 패혈증/패혈성 쇼크 환자에서는 최근 배양 결과 및 기관별 antibiogram을 우선 참고하여 항생제를 선택하고, 자체 감수성 자료가 없다면 감수성이 확인되지 않은 fluoroquinolone 단독 경험적 사용은 신중히 선택. 최근 6개월 내 fluoroquinolone 사용력이 있는 환자에서는 경험적 fluoroquinolone 사용이 권장하지 않음.\
   ✽ 3·4세대 cephalosporin, carbapenem, piperacillin/tazobactam, fluoroquinolone은 IDSA 2025 cUTI 지침에서 패혈증 동반 cUTI의 경험적 1차 옵션으로 모두 인정됨
 
 <mark style="color:cyan;">**경구(외래) - 비중증, complicated PN 위험 인자 없음**</mark>
 
-<table data-search="false"><thead><tr><th width="170.952392578125">성분명 [상품명]</th><th width="180.47607421875">용법</th><th>비고</th></tr></thead><tbody><tr><td>ciprofloxacin <br><mark style="color:blue;">[씨프로바이]</mark></td><td>500 ㎎ bid ×5~7일</td><td>1차 선택; 기관별 fluoroquinolone 내성률이 낮고 최근 6개월 내 사용력이 없는 경우에 한함, 임신 시 회피</td></tr><tr><td>ciprofloxacin 서방형 <br><mark style="color:blue;">[씨프로유로]</mark></td><td>1,000 ㎎ qd ×5~7일</td><td>순응도 고려한 대안 제형(동일 조건)</td></tr><tr><td>levofloxacin <br><mark style="color:blue;">[크라비트]</mark></td><td>750 ㎎ qd ×5일</td><td>1차 선택(국내 지침 고용량 단기요법); 기관별 내성률·최근 사용력 확인</td></tr><tr><td>TMP/SMX <br><mark style="color:blue;">[센트린]</mark></td><td>160/800 ㎎ bid ×7일</td><td>1차 선택 중 하나이지만 <em>E. coli</em> 감수성이 국내 약 68%로 지역별 편차 큼. 가급적 배양 결과 확인 후 사용</td></tr><tr><td>cefpodoxime <br><mark style="color:blue;">[바난]</mark></td><td>200 ㎎ bid ×7일</td><td>대안(국내 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히</td></tr><tr><td>ceftibuten <br><mark style="color:blue;">[세프텀]</mark></td><td>400 ㎎ qd ×7일</td><td>대안(국내 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히</td></tr><tr><td>amoxicillin<br>/clavulanate <br><mark style="color:blue;">[오구멘틴]</mark></td><td>625 ㎎(500/125 ㎎) tid ×7일 또는 875/125 ㎎ bid ×7일</td><td>경험적 단독 요법으로는 권장되지 않음; 배양 결과 확인 후 표적 치료로 사용</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="170.952392578125">성분명 [상품명]</th><th width="180.47607421875">용법</th><th>비고</th></tr></thead><tbody><tr><td>ciprofloxacin<br><mark style="color:blue;">[씨프로바이]</mark></td><td>500 ㎎ bid ×5~7일</td><td>1차 선택; 기관별 fluoroquinolone 내성률이 낮고 최근 6개월 내 사용력이 없는 경우에 한함, 임신 시 회피</td></tr><tr><td>ciprofloxacin 서방형<br><mark style="color:blue;">[씨프로유로]</mark></td><td>1,000 ㎎ qd ×5~7일</td><td>순응도 고려한 대안 제형(동일 조건)</td></tr><tr><td>levofloxacin<br><mark style="color:blue;">[크라비트]</mark></td><td>750 ㎎ qd ×5일</td><td>1차 선택(국내 지침 고용량 단기요법); 기관별 내성률·최근 사용력 확인</td></tr><tr><td>TMP/SMX<br><mark style="color:blue;">[센트린]</mark></td><td>160/800 ㎎ bid ×7일</td><td>1차 선택 중 하나이지만 <em>E. coli</em> 감수성이 국내 약 68%로 지역별 편차 큼. 가급적 배양 결과 확인 후 사용</td></tr><tr><td>cefpodoxime<br><mark style="color:blue;">[바난]</mark></td><td>200 ㎎ bid ×7일</td><td>대안(국내 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히</td></tr><tr><td>ceftibuten<br><mark style="color:blue;">[세프텀]</mark></td><td>400 ㎎ qd ×7일</td><td>대안(국내 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히</td></tr><tr><td>amoxicillin<br>/clavulanate<br><mark style="color:blue;">[오구멘틴]</mark></td><td>625 ㎎(500/125 ㎎) tid ×7일 또는 875/125 ㎎ bid ×7일</td><td>경험적 단독 요법으로는 권장되지 않음; 배양 결과 확인 후 표적 치료로 사용</td></tr></tbody></table>
 
 <mark style="color:cyan;">**치료 기간 비교**</mark> (균혈증 없고 해부학적 요인 교정·합병증 없음을 전제, 효과적인 항생제 치료 첫날부터 산정)
 
@@ -168,7 +177,7 @@ _✽본 챕터는 국내 2025 지침을 기준으로 기술함. IDSA 2025의 7�
 {% hint style="info" %}
 **해외 지침과의 차이 - 참고용** : \[ACP] fluoroquinolone ×5\~7일 또는 TMP-SMX ×14일(감수성이 있는 경우)\
 \[NICE] cephalexin 500 ㎎ bid\~tid ×7\~10일(임신 여성 포함 1차 선택으로 명시), amoxicillin/clavulanate 500/125 ㎎ tid ×7\~10일 (배양 결과에 따라), trimethoprim 200 ㎎ bid ×14일, ciprofloxacin 500 ㎎ bid ×7일\
-✽NICE는 cephalexin·amoxicillin/clavulanate를 1차 선택제로 명시하지만, 국내 2025 지침 및 EAU 2025는 이들 경구 베타락탐계를 경험적 단독 요법으로 권장하지 않음(배양 확인 후 표적 치료 시에는 사용 가능)&#x20;
+✽NICE는 cephalexin·amoxicillin/clavulanate를 1차 선택제로 명시하지만, 국내 2025 지침 및 EAU 2025는 이들 경구 베타락탐계를 경험적 단독 요법으로 권장하지 않음(배양 확인 후 표적 치료 시에는 사용 가능)
 {% endhint %}
 
 ### <mark style="color:orange;">시술 및 기타 처치</mark>
@@ -205,7 +214,7 @@ N12 급성 또는 만성으로 명시되지 않은 세뇨관-간질신장염
 > 센트린 160/800 ㎎/T  1T bid ×7일
 > ```
 >
-> _✽TMP/SMX의 국내 *E. coli* 감수성은 약 68%로 지역·기관별 편차가 있음. 요배양 및 감수성 결과를 확인할 수 있는 경우 우선 사용하며, 감수성 확인 전 경험적으로 사용하는 경우에는 초기 ceftriaxone 등 정주 항생제 병행을 함께 고려한다. 48\~72시간 내 반응을 반드시 확인_
+> _✽TMP/SMX의 국내 E. coli 감수성은 약 68%로 지역·기관별 편차가 있음. 요배양 및 감수성 결과를 확인할 수 있는 경우 우선 사용하며, 감수성 확인 전 경험적으로 사용하는 경우에는 초기 ceftriaxone 등 정주 항생제 병행을 함께 고려한다. 48\~72시간 내 반응을 반드시 확인_
 
 > **처방례 3. 내성균 위험 인자 동반 - 초기 정주 후 경구 전환**
 >
