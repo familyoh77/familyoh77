@@ -350,40 +350,38 @@ graph TD
 
 **통증**
 
-* NSAID 등 항염증제를 다면적 통증 관리의 일부로 사용
-* 신경병증 phenotype(통증이 임상 소견에 비해 과도하거나 감각 이상을 동반)이면 신경병증성 통증 약제를 처방 가능; 신경병증성 통증 일반 진료에서는 SNRI(duloxetine)가 더 흔히 선호되며, TCA·gabapentinoid도 고려
-  * ✽AUA 2025 원문은 "TCA, SSRI, gabapentinoid" 계열로 명시. SSRI는 우울/불안 치료제로 더 널리 인식되므로, 처방 시 통증 목적임을 환자에게 분명히 설명
+* NSAID 등 항염증제를 다면적 통증 관리의 일부로 사용 (☞ [통증](../220_/001_-pain.md#undefined-6))
+* 신경병증 phenotype(통증이 임상 소견에 비해 과도하거나 감각 이상을 동반)이면 신경병증성 통증 약제 선택고려; 신경병증성 통증 일반 진료에서는 SNRI(duloxetine)가 더 흔히 선호되며, TCA·gabapentinoid도 고려&#x20;
   * gabapentinoids : gabapentin 300 ㎎ qd\~tid \[뉴론틴], pregabalin 50\~100 ㎎ bid\~tid \[리리카]
   * TCA : amitriptyline or nortriptyline 10 ㎎ qd hs, 점차 증량 \[센시발]
-* PDE5 억제제 : 발기부전 동반 여부와 무관하게 매일 저용량 tadalafil을 전립선염 증상 개선 목적으로 처방 가능(AUA 2025, Conditional Recommendation; Grade B); tadalafil 5 ㎎ qd \[시알리스]\(CPPS 단독 적응 시 비급여 - HIRA 급여 기준 확인 필요)
-* Phytotherapeutics : saw palmetto(톱야자 추출물), quercetin, pollen extract가 통증·배뇨 증상·삶의 질 개선에 도움(AUA 2025, Conditional Recommendation; Grade B)
-  * quercetin(bioflavonoid) : 항산화·항염증 기전에 근거한 phytotherapy로, 일부 소규모 임상시험에서 CP/CPPS 증상·삶의 질 개선 가능성이 보고됨; 국내에서는 순수 quercetin 성분의 전문/일반의약품이 마땅치 않고 대부분 건강기능식품 형태로 유통되므로, 처방보다는 성분·함량을 확인한 건기식 권유 형태가 됨
-  * 베니톨정(diosmin 450 ㎎ + hesperidin 50 ㎎, MPFF)은 정맥임파부전·치질에 허가된 약제로 CP/CPPS 임상시험에서 연구된 quercetin과는 **다른 플라보노이드**임; 항염증·미세순환 개선 기전이 있어 CP/CPPS에 오프라벨로 사용되는 경우가 있으나, quercetin의 근거를 그대로 적용할 수는 없으므로 처방 시 이 점을 감안
-  * saw palmetto, pollen extract : 국내 유통 제품은 건강기능식품 형태가 많아 처방 전 실제 성분 함량·가용성 확인 필요
+* PDE5 억제제 : 발기부전 동반 여부와 무관하게 매일 저용량 tadalafil을 전립선염 증상 개선 목적으로 고려; tadalafil 5 ㎎ qd \[시알리스]\(비급여)
+* Phytotherapeutics : saw palmetto(톱야자 추출물), quercetin, pollen extract가 통증·배뇨 증상·삶의 질 개선에 약간의 도움이 될 가능성이 있으나 권고 강도는 낮음 \[AUA 2025]
 
 **골반저근 근육통**
 
-* 도수 물리치료(내·외부 근막이완 등 개별화된 기법)를 제공 가능(AUA 2025, Conditional Recommendation; Grade C)
-* 근전도 바이오피드백으로 골반저근 안정 시 긴장도 및 이완 시간을 개선(AUA 2025, Expert Opinion)
-* 온열 요법, 좌욕 등도 보조적으로 고려; benzodiazepine은 의존성·진정 위험이 있어 골반저근 근육통의 일반적 치료제로 권고하지 않음
+* 도수 물리치료(내·외부 근막이완 등 개별화된 기법)를 제공 가능
+* 근전도 바이오피드백으로 골반저근 안정 시 긴장도 및 이완 시간을 개선
+* 온열 요법, 좌욕 등도 보조적으로 고려
+
+- [ ] benzodiazepine은 의존성·진정 위험이 있어 골반저근 근육통의 일반적 치료제로 권고하지 않음
 
 **심리사회적 개입**
 
-* 인지행동치료(CBT)를 다른 치료의 보조 요법으로 제공 가능(AUA 2025, Conditional Recommendation; Grade C)
+* 인지행동치료(CBT)를 다른 치료의 보조 요법으로 제공 가능
 * 정신적 문제 동반 시 항우울제, 항불안제 병용
 
 **추적 관찰**
 
 * 정기적인 소변검사·배양 재검을 routine으로 반복할 근거는 없음; 새로운 발열, 배뇨통 악화, 농뇨·세균뇨 등 감염을 시사하는 소견이 있을 때 재검
-* 증상 영역별 치료 효과를 NIH-CPSI 등으로 주기적으로 재평가하고, 효과 없는 치료는 중단; 여러 치료에도 호전이 없으면 진단 자체를 재고려(AUA 2025, Clinical Principle)
+* 증상 영역별 치료 효과를 NIH-CPSI 등으로 주기적으로 재평가하고, 효과 없는 치료는 중단; 여러 치료에도 호전이 없으면 진단 자체를 재고려
 
 ### <mark style="color:orange;">시술 및 기타 처치</mark>
 
-* **저강도 체외충격파 치료(low-intensity ESWT)** : 일부 환자에서 증상 개선을 위해 고려할 수 있으며, 논의를 권고할 정도로 근거 수준이 비교적 높음(AUA 2025, Moderate Recommendation; Evidence Level Grade A - 메타분석에서 NIH-CPSI 총점·통증·배뇨 점수 개선 확인); 치료 저항성 환자에 국한된 옵션은 아니며 국내 시행 가능 기관 확인 필요
-* **경피 신경 전기 자극(TENS)** : 통증 조절 목적으로 제공 가능(AUA 2025, Conditional Recommendation; Grade B)
-* **침(acupuncture)** : 제공 가능(AUA 2025, Conditional Recommendation; Grade B)
-* **골반저 물리치료 · 바이오피드백** : 골반저근 근육통 동반 시 우선 고려
-* 위 시술은 단독보다 알파차단제·진통제 등 표준 약물 치료와 **병행**할 때 근거가 더 명확함
+* 저강도 체외충격파 치료(low-intensity ESWT) : 일부 환자에서 증상 개선을 위해 고려할 수 있으며, 논의를 권고할 정도로 근거 수준이 비교적 높음
+* 경피 신경 전기 자극(TENS) : 통증 조절 목적으로 제공 가능
+* 침(acupuncture) : 제공 가능
+* 골반저 물리치료 · 바이오피드백 : 골반저근 근육통 동반 시 우선 고려
+* 위 시술은 단독보다 알파차단제·진통제 등 표준 약물 치료와 병행할 때 근거가 더 명확함
 
 ***
 
