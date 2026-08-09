@@ -153,7 +153,7 @@ GERD·위염(gastritis)·기능성 소화불량(functional dyspepsia)은 해부�
 
     B --> E[폐색전증 또는
     폐렴 고려]
-    E --> F{신체검사}
+    E --> F[신체검사]
     F --> G[빈호흡, 저산소증,
     또는 호흡기 소견]
     G --> H[흉부 X-선;
@@ -163,7 +163,7 @@ GERD·위염(gastritis)·기능성 소화불량(functional dyspepsia)은 해부�
 
     C --> I[요로 감염 또는
     신결석 고려]
-    I --> J{신체검사}
+    I --> J[신체검사]
     J --> K[늑척추 또는
     치골위 압통]
     K --> L[소변검사]
@@ -176,13 +176,15 @@ GERD·위염(gastritis)·기능성 소화불량(functional dyspepsia)은 해부�
 
     D --> R[간담도 질환 또는
     신결석 고려]
-    R --> S{신체검사}
+    R --> S[신체검사]
     S --> T[복부 초음파 시행]
     T --> U[진단되지 않으면
     신결석 고려]
     
 classDef redBox fill:#ffe6e6,stroke:#ff0000
 class U,E,I,R,O,P redBox
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class F,J,S yellow
 ```
 
 <p align="center"><strong>우상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">Ref. Evaluation of Acute Abdominal Pain in Adults. AFP 2008;77(7) Fig 2.</mark></em></p>
@@ -336,11 +338,11 @@ A2([좌하복부 복통의 <br/>평가 알고리듬]) --> Start2
 
 ```mermaid
 graph TD
-    A([복통 환자]) --> B{Vital 불안정?}
+    A([복통 환자]) --> B["Vital 불안정?"]
     B -- Yes --> C[즉각 응급 이송]
-    B -- No --> D{"Red flag 또는 <br/>고위험군?"}
+    B -- No --> D["Red flag 또는 <br/>고위험군?"]
     D -- Yes --> E["조기 영상 CT / 응급 평가"]
-    D -- No --> F{통증 패턴}
+    D -- No --> F["통증 패턴"]
     F --> G["갑작스러운 극심한 복통<br/>→ 혈관·천공 의심"]
     F --> H["산통 colicky <br/>→ 폐쇄·결석·담도"]
     F --> I["지속·점점 악화 <br/>→ 충수염·담낭염·췌장염"]
@@ -350,12 +352,14 @@ graph TD
     I --> L
     J --> L
     K --> L
-    L --> M{진단 확인?}
+    L --> M["진단 확인?"]
     M -- Yes --> N["원인별 치료 또는 의뢰"]
     M -- No --> O["6~12h 관찰 재평가"]
     style A fill:#e8f5e9,stroke:#388e3c
     style C fill:#ffcdd2,stroke:#c62828
     style K fill:#fff3e0,stroke:#e65100
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class B,D,F,M yellow
 ```
 
 <p align="center"><strong>복통 관리 알고리듬</strong></p>
