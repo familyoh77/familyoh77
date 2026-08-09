@@ -3,19 +3,23 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 전립선의 비-세균성 또는 세균성(＜10%) 염증 상태로, 비뇨생식계의 통증, 배뇨 장애, 성 기능 장애 등을 일으킴
-* 유병률 : 남성의 약 2.2\~16%(중앙값 약 7.1%)에서 전립선염 유사 증상을 경험; 미국 성인 남성의 약 1.8%(약 200만 명)가 CP/CPPS 증상을 가짐 (RICE study)
-* 호발 연령 : 급성 세균성 전립선염 30\~50세; 만성 세균성 전립선염 ＞50세; CP/CPPS는 50세 미만 남성에서 가장 흔한 비뇨기 질환
 * 만성 : 다른 비뇨생식기 질환(예: 요도염, 방광염) 없이 최근 6개월 중 ≥3개월 지속 또는 재발하는 골반통
+* 유병률 : 남성의 2.2\~16%(중앙값 7.1%)에서 전립선염 유사 증상을 경험; 미국 성인 남성의 1.8%(약 200만 명)가 CP/CPPS(Chronic prostatitis/Chronic pelvic pain syndrome) 증상을 가짐 (RICE study)
+* 호발 연령 : 급성 세균성 전립선염 30\~50세, 만성 세균성 전립선염 ＞50세; CP/CPPS는 ＜50세 남성에서 가장 흔한 비뇨기 질환
+  * [ ] cf. 만성 세균성 전립선염은 재발성 요로감염·BPH·전립선 결석 등 감염 위험 인자가 누적되는 고령층에서 주로 발생하는 반면, CP/CPPS는 감염이 아닌 기능적/신경병증적 기전이 중심이라 50세 미만에서 가장 흔한 비뇨기 질환으로 보고됨
 * 치료 경과
-  * 적절한 항생제 치료 후 수일 내 발열·배뇨 증상이 호전되기 시작하는 것이 일반적; 48\~72시간 이내 임상적 호전이 없거나 악화되면 합병증 평가(혈역학적 불안정·패혈증 징후가 있으면 시간 기준과 무관하게 즉시 평가)
+  * 일반적으로적절한 항생제 치료 후 수일 내 발열·배뇨 증상이 호전되기 시작하; 48\~72시간 이내 임상적 호전이 없거나 악화되면 합병증 평가(혈역학적 불안정·패혈증 징후가 있으면 시간 기준과 무관하게 즉시 평가)
   * 만성 세균성 전립선염은 치료가 어려운 편이며 재발·재감염이 흔함
-  * CP/CPPS는 뚜렷한 병인 없이 만성 경과를 밟는 경우가 많고, 완치보다는 증상 조절이 치료 목표
+  * CP/CPPS는 뚜렷한 병인 없이 만성 경과를 밟는 경우가 많으며, 완치보다는 증상 조절이 치료 목표
 
 ### <mark style="color:orange;">분류 \[NIH]</mark>
 
-<table><thead><tr><th width="60">Class</th><th width="170">특징</th><th width="90" align="center">WBC(고배율)</th><th width="55" align="center">VB1¹</th><th width="55" align="center">VB2²</th><th width="70" align="center">EPS³</th><th align="center">VB3⁴</th></tr></thead><tbody><tr><td><strong>Ⅰ. 급성 세균성 전립선염</strong></td><td>전립선의 급성 감염</td><td align="center">＞10</td><td align="center">+</td><td align="center">+</td><td align="center">금기</td><td align="center">+</td></tr><tr><td><strong>Ⅱ. 만성 세균성 전립선염</strong></td><td>전립선의 만성/재발 감염</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">+</td><td align="center">+</td></tr><tr><td><strong>Ⅲ. 만성 골반통증증후군</strong></td><td>감염 증거가 없는, 최근 6개월 중 3개월 이상 지속되는 골반통; ⅢA(염증형)/ⅢB(비염증형)로 세분하나 임상적 차이는 미미</td><td align="center">아형에 따라 상이</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr><tr><td><strong>Ⅳ. 무증상 염증성 전립선염</strong></td><td>무증상. 다른 진단적 검사에서 우연히 발견됨</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table>
+<table><thead><tr><th width="141">Class</th><th width="184">특징</th><th width="90" align="center">WBC(고배율)</th><th width="72" align="center">VB1¹⁾</th><th width="72" align="center">VB2²⁾</th><th width="72" align="center">EPS</th><th width="72" align="center">VB3⁴⁾</th></tr></thead><tbody><tr><td><strong>Ⅰ. 급성 세균성 전립선염</strong></td><td>전립선의 급성 감염</td><td align="center">＞10</td><td align="center">+</td><td align="center">+</td><td align="center">금기</td><td align="center">+</td></tr><tr><td><strong>Ⅱ. 만성 세균성 전립선염</strong></td><td>전립선의 만성/재발 감염</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">+</td><td align="center">+</td></tr><tr><td><strong>Ⅲ. 만성 골반통증증후군</strong></td><td>감염 증거가 없는, 최근 6개월 중 3개월 이상 지속되는 골반통³⁾</td><td align="center">아형에 따라 상이</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr><tr><td><strong>Ⅳ. 무증상 염증성 전립선염</strong></td><td>무증상. 다른 진단적 검사에서 우연히 발견됨</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table>
 
-¹First 10 ㎖ of voided urine(urethral specimen)　²Midstream urine specimen(bladder specimen)　³EPS = expressed prostatic secretion　⁴First 10 ㎖ of voided urine after EPS(prostatic specimen); VB = voided bladder
+_¹⁾  First 10 ㎖ of voided urine(urethral specimen). ²⁾ Midstream urine specimen(bladder specimen)._\
+_³⁾ ⅢA(염증형)/ⅢB(비염증형)로 세분하나 임상적 차이는 미미. ⁴⁾ First 10 ㎖ of voided urine after EPS(prostatic specimen)_
+
+_VB=voided bladder, EPS=expressed prostatic secretion_
 
 ✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 등 전립선 유래 검체에서 요도·방광 검체보다 유의하게 증가한 **동일 세균이 검출되는 localization**이며, WBC 수치나 세균 수 자체는 병의 중증도와 상관관계가 없음
 
