@@ -20,10 +20,10 @@ _\*아래 항생제 감수성 수치는 국소 요로감염 대상이므로 전�
 
 ## <mark style="color:green;">원인</mark>
 
-* 원인균 : E. coli(＞80%), Klebsiella pneumoniae, Proteus mirabilis, Enterococcus spp., Staphylococcus saprophyticus
-  * Candida spp. - 주로 면역 저하·도뇨관 유치·요로기구 등 위험 상황에서 발생하며, uncomplicated PN에서는 드묾
+* 원인균 : _E. coli_(＞80%), _Klebsiella pneumoniae_, _Proteus mirabilis_, _Enterococcus_ spp., _Staphylococcus saprophyticus_
+  * _Candida_ spp. - 주로 면역 저하·도뇨관 유치·요로기구 등 위험 상황에서 발생하며, uncomplicated PN에서는 드묾
 * 전염 경로 : 하부 요로에서의 상행 감염(대부분), 혈행 감염(드묾)
-* 기저질환·내성 위험 요인이 있을수록 Klebsiella, Proteus, Pseudomonas, Enterococcus 등 분리율이 높아지고 내성균 가능성도 높아짐
+* 기저질환·내성 위험 요인이 있을수록 _Klebsiella_, _Proteus_, _Pseudomonas_, _Enterococcus_ 등 분리율이 높아지고 내성균 가능성도 높아짐
 
 ### <mark style="color:orange;">감염 위험 인자</mark>
 
@@ -139,12 +139,12 @@ graph TD
 
 ### <mark style="color:orange;">항생제</mark>
 
-* **경험적 fluoroquinolone 사용 시 국내 내성률 고려 :** 국내 **국소 요로감염(단순 방광염)** 원인균 조사에서 _E. col&#x69;_&#xC758; 항생제 감수성은 nitrofurantoin 98.9%, fosfomycin 96.8%, TMP/SMX 68.1%, **ciprofloxacin 50.9%**, cefotaxime 82.4%로 보고됨(대한요로생식기감염학회 2023년 전국 감시; Yu SH, et al. Investig Clin Urol 2025). 전신 요로감염(신우신염) 환자군에 대한 별도의 전국 감수성 자료는 제한적이나, 동일한 병원체 pool을 고려할 때 유사한 수준일 가능성이 있음. 패혈증/패혈성 쇼크 환자에서는 최근 배양 결과 및 기관별 antibiogram을 우선 참고하여 항생제를 선택하고, 자체 감수성 자료가 없다면 감수성이 확인되지 않은 fluoroquinolone 단독 경험적 사용은 신중히 선택. 최근 6개월 내 fluoroquinolone 사용력이 있는 환자에서는 경험적 fluoroquinolone 사용이 권장하지 않음. \
+* **경험적 fluoroquinolone 사용 시 국내 내성률 고려 :** 국내 **국소 요로감염(단순 방광염)** 원인균 조사에서 _E. coli_의 항생제 감수성은 nitrofurantoin 98.9%, fosfomycin 96.8%, TMP/SMX 68.1%, **ciprofloxacin 50.9%**, cefotaxime 82.4%로 보고됨(대한요로생식기감염학회 2023년 전국 감시; Yu SH, et al. Investig Clin Urol 2025). 전신 요로감염(신우신염) 환자군에 대한 별도의 전국 감수성 자료는 제한적이나, 동일한 병원체 pool을 고려할 때 유사한 수준일 가능성이 있음. 패혈증/패혈성 쇼크 환자에서는 최근 배양 결과 및 기관별 antibiogram을 우선 참고하여 항생제를 선택하고, 자체 감수성 자료가 없다면 감수성이 확인되지 않은 fluoroquinolone 단독 경험적 사용은 신중히 선택. 최근 6개월 내 fluoroquinolone 사용력이 있는 환자에서는 경험적 fluoroquinolone 사용이 권장하지 않음. \
   ✽ 3·4세대 cephalosporin, carbapenem, piperacillin/tazobactam, fluoroquinolone은 IDSA 2025 cUTI 지침에서 패혈증 동반 cUTI의 경험적 1차 옵션으로 모두 인정됨
 
 <mark style="color:cyan;">**경구(외래) - 비중증, complicated PN 위험 인자 없음**</mark>
 
-<table data-search="false"><thead><tr><th width="170.952392578125">성분명 [상품명]</th><th width="180.47607421875">용법</th><th>비고</th></tr></thead><tbody><tr><td>ciprofloxacin <br><mark style="color:blue;">[씨프로바이]</mark></td><td>500 mg bid ×5~7일</td><td>1차 선택; 기관별 fluoroquinolone 내성률이 낮고 최근 6개월 내 사용력이 없는 경우에 한함, 임신 시 회피</td></tr><tr><td>ciprofloxacin 서방형 <br><mark style="color:blue;">[씨프로유로]</mark></td><td>1,000 mg qd ×5~7일</td><td>순응도 고려한 대안 제형(동일 조건)</td></tr><tr><td>levofloxacin <br><mark style="color:blue;">[크라비트]</mark></td><td>750 mg qd ×5일</td><td>1차 선택(국내 지침 고용량 단기요법); 기관별 내성률·최근 사용력 확인</td></tr><tr><td>TMP/SMX <br><mark style="color:blue;">[센트린]</mark></td><td>160/800 mg bid ×7일</td><td>1차 선택 중 하나이지만 E. coli 감수성이 국내 약 68%로 지역별 편차 큼. 가급적 배양 결과 확인 후 사용</td></tr><tr><td>cefpodoxime <br><mark style="color:blue;">[바난]</mark></td><td>200 mg bid ×7일</td><td>대안(국내 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히</td></tr><tr><td>ceftibuten <br><mark style="color:blue;">[세프텀]</mark></td><td>400 mg qd ×7일</td><td>대안(국내 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히</td></tr><tr><td>amoxicillin<br>/clavulanate <br><mark style="color:blue;">[오구멘틴]</mark></td><td>625 mg(500/125 mg) tid ×7일 또는 875/125 mg bid ×7일</td><td>경험적 단독 요법으로는 권장되지 않음; 배양 결과 확인 후 표적 치료로 사용</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="170.952392578125">성분명 [상품명]</th><th width="180.47607421875">용법</th><th>비고</th></tr></thead><tbody><tr><td>ciprofloxacin <br><mark style="color:blue;">[씨프로바이]</mark></td><td>500 ㎎ bid ×5~7일</td><td>1차 선택; 기관별 fluoroquinolone 내성률이 낮고 최근 6개월 내 사용력이 없는 경우에 한함, 임신 시 회피</td></tr><tr><td>ciprofloxacin 서방형 <br><mark style="color:blue;">[씨프로유로]</mark></td><td>1,000 ㎎ qd ×5~7일</td><td>순응도 고려한 대안 제형(동일 조건)</td></tr><tr><td>levofloxacin <br><mark style="color:blue;">[크라비트]</mark></td><td>750 ㎎ qd ×5일</td><td>1차 선택(국내 지침 고용량 단기요법); 기관별 내성률·최근 사용력 확인</td></tr><tr><td>TMP/SMX <br><mark style="color:blue;">[센트린]</mark></td><td>160/800 ㎎ bid ×7일</td><td>1차 선택 중 하나이지만 <em>E. coli</em> 감수성이 국내 약 68%로 지역별 편차 큼. 가급적 배양 결과 확인 후 사용</td></tr><tr><td>cefpodoxime <br><mark style="color:blue;">[바난]</mark></td><td>200 ㎎ bid ×7일</td><td>대안(국내 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히</td></tr><tr><td>ceftibuten <br><mark style="color:blue;">[세프텀]</mark></td><td>400 ㎎ qd ×7일</td><td>대안(국내 지침; EAU는 10일); 배양 결과에 따른 표적치료 시 사용 우선, 경험적 단독요법은 신중히</td></tr><tr><td>amoxicillin<br>/clavulanate <br><mark style="color:blue;">[오구멘틴]</mark></td><td>625 ㎎(500/125 ㎎) tid ×7일 또는 875/125 ㎎ bid ×7일</td><td>경험적 단독 요법으로는 권장되지 않음; 배양 결과 확인 후 표적 치료로 사용</td></tr></tbody></table>
 
 <mark style="color:cyan;">**치료 기간 비교**</mark> (균혈증 없고 해부학적 요인 교정·합병증 없음을 전제, 효과적인 항생제 치료 첫날부터 산정)
 
@@ -156,7 +156,7 @@ _✽본 챕터는 국내 2025 지침을 기준으로 기술함. IDSA 2025의 7�
 
 <mark style="color:cyan;">**정주(입원) - 중등도\~중증**</mark>
 
-<table data-search="false"><thead><tr><th width="226">성분명</th><th width="150">용법</th><th>비고</th></tr></thead><tbody><tr><td>ceftriaxone <mark style="color:blue;">[트리악손]</mark></td><td>2 g IV qd</td><td>신기능 무관 고정 용량; 1차 선택</td></tr><tr><td>cefotaxime [클래포란]</td><td>1~2 g IV q8h</td><td>1차 선택</td></tr><tr><td>cefepime [맥세핌]</td><td>1~2 g IV q8~12h</td><td>1차 선택; AmpC 생성균(Enterobacter, Citrobacter 등) 의심 시 고려</td></tr><tr><td>piperacillin/tazobactam<br>[타조신]</td><td>4.5 g IV q6~8h</td><td>1차 선택</td></tr><tr><td>ciprofloxacin [씨프로바이]</td><td>400 mg IV q12h</td><td>1차 선택; 기관별 내성률이 낮고 6개월 내 fluoroquinolone 사용력이 없는 경우, 임신 시 회피</td></tr><tr><td>amikacin [아미카신]</td><td>15 mg/kg IV qd</td><td>대안; older aminoglycoside로 1차 옵션보다 후순위(IDSA 2025), ESBL 등 다제내성 의심 시 감수성 확인 후 사용, 신독성·이독성 주의</td></tr><tr><td>carbapenem (ertapenem, meropenem 등)</td><td>-</td><td>ESBL 생성균 등 다제 내성균 조기 확인 시에만 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="226">성분명</th><th width="150">용법</th><th>비고</th></tr></thead><tbody><tr><td>ceftriaxone <mark style="color:blue;">[트리악손]</mark></td><td>2 g IV qd</td><td>신기능 무관 고정 용량; 1차 선택</td></tr><tr><td>cefotaxime <mark style="color:blue;">[클래포란]</mark></td><td>1~2 g IV q8h</td><td>1차 선택</td></tr><tr><td>cefepime <mark style="color:blue;">[맥세핌]</mark></td><td>1~2 g IV q8~12h</td><td>1차 선택; AmpC 생성균(<em>Enterobacter</em>, <em>Citrobacter</em> 등) 의심 시 고려</td></tr><tr><td>piperacillin/tazobactam<br><mark style="color:blue;">[타조신]</mark></td><td>4.5 g IV q6~8h</td><td>1차 선택</td></tr><tr><td>ciprofloxacin <mark style="color:blue;">[씨프로바이]</mark></td><td>400 ㎎ IV q12h</td><td>1차 선택; 기관별 내성률이 낮고 6개월 내 fluoroquinolone 사용력이 없는 경우, 임신 시 회피</td></tr><tr><td>amikacin <mark style="color:blue;">[아미카신]</mark></td><td>15 ㎎/㎏ IV qd</td><td>대안; older aminoglycoside로 1차 옵션보다 후순위(IDSA 2025), ESBL 등 다제내성 의심 시 감수성 확인 후 사용, 신독성·이독성 주의</td></tr><tr><td>carbapenem (ertapenem, meropenem 등)</td><td>-</td><td>ESBL 생성균 등 다제 내성균 조기 확인 시에만 고려</td></tr></tbody></table>
 
 ✽AKI 동반 등 신기능 저하 시 cefepime, ciprofloxacin, aminoglycoside(amikacin) 등은 CrCl/eGFR에 따른 용량 조절이 필요함(ceftriaxone은 예외적으로 신기능 무관 고정 용량이 장점)
 
@@ -167,7 +167,7 @@ _✽본 챕터는 국내 2025 지침을 기준으로 기술함. IDSA 2025의 7�
 
 {% hint style="info" %}
 **해외 지침과의 차이 - 참고용** : \[ACP] fluoroquinolone ×5\~7일 또는 TMP-SMX ×14일(감수성이 있는 경우)\
-\[NICE] cephalexin 500 mg bid\~tid ×7\~10일(임신 여성 포함 1차 선택으로 명시), amoxicillin/clavulanate 500/125 mg tid ×7\~10일 (배양 결과에 따라), trimethoprim 200 mg bid ×14일, ciprofloxacin 500 mg bid ×7일\
+\[NICE] cephalexin 500 ㎎ bid\~tid ×7\~10일(임신 여성 포함 1차 선택으로 명시), amoxicillin/clavulanate 500/125 ㎎ tid ×7\~10일 (배양 결과에 따라), trimethoprim 200 ㎎ bid ×14일, ciprofloxacin 500 ㎎ bid ×7일\
 ✽NICE는 cephalexin·amoxicillin/clavulanate를 1차 선택제로 명시하지만, 국내 2025 지침 및 EAU 2025는 이들 경구 베타락탐계를 경험적 단독 요법으로 권장하지 않음(배양 확인 후 표적 치료 시에는 사용 가능)&#x20;
 {% endhint %}
 
@@ -205,7 +205,7 @@ N12 급성 또는 만성으로 명시되지 않은 세뇨관-간질신장염
 > 센트린 160/800 ㎎/T  1T bid ×7일
 > ```
 >
-> _✽TMP/SMX의 국내 E. coli 감수성은 약 68%로 지역·기관별 편차가 있음. 요배양 및 감수성 결과를 확인할 수 있는 경우 우선 사용하며, 감수성 확인 전 경험적으로 사용하는 경우에는 초기 ceftriaxone 등 정주 항생제 병행을 함께 고려한다. 48\~72시간 내 반응을 반드시 확인_
+> _✽TMP/SMX의 국내 *E. coli* 감수성은 약 68%로 지역·기관별 편차가 있음. 요배양 및 감수성 결과를 확인할 수 있는 경우 우선 사용하며, 감수성 확인 전 경험적으로 사용하는 경우에는 초기 ceftriaxone 등 정주 항생제 병행을 함께 고려한다. 48\~72시간 내 반응을 반드시 확인_
 
 > **처방례 3. 내성균 위험 인자 동반 - 초기 정주 후 경구 전환**
 >
