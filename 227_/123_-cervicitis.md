@@ -1,7 +1,5 @@
 # 자궁경부염 Cervicitis
 
-![image](../.gitbook/assets/e84f84d4-ce30-4bab-97e5-8d9c788146d9.JPG)
-
 ## 일반 사항
 
 * uterine cervix의 염증; 1차적으로 endocervical gland의 columnar epithelial cell 이환
@@ -9,15 +7,13 @@
 * 만성 : 대부분 국소 자극 등 비감염에 의함
 * 위험군 : 성적 활동 연령, 콘돔 사용을 하지 않음, 복수의 성 파트너
 * 감염 합병증 : PID, endometritis, 임신/태아 합병증, 불임
-*   선별 검사 : 성관계를 하는 ＜26세 여성 및 새로운 또는 복수의 성 파트너가 있는 ≥26세 여성은 증상 유무에 관계없이
-
-    매년 Gonorrhea 및 Chlamydia 검사를 권고
+* 선별 검사 : 성관계를 하는 ＜26세 여성 및 새로운 또는 복수의 성 파트너가 있는 ≥26세 여성은 증상 유무에 관계없이 매년 Gonorrhea 및 Chlamydia 검사를 권고
 * 새롭게 발병한 경우 PID 감별이 필요함
 * 클라미디아 또는 임질로 진단된 경우 60일 내 성관계 파트너에 대한 평가 및 치료를 요함
 
 ## 원인
 
-*   원인균 : Chlamydia trachomatis , Neisseria gonorrhoeae , Trichomonas vaginalis , 세균성 질증 유발 균주(☞ p.658);
+*   원인균 : Chlamydia trachomatis , Neisseria gonorrhoeae , Trichomonas vaginalis , 세균성 질증 유발 균주(☞ [음문질감염증](122_-vulvovaginal-infections.md));
 
     대부분 검출 안 됨
 * 물리적 자극 : 이물(예: pessary, diaphragm, tampon, cervical cap)
@@ -82,7 +78,9 @@
 
 * Chlamydia 또는 Gonorrhea 감염 시 치료 3\~6개월 후 재검
 
-> **질병코드** N72 자궁경부의 염증성 질환
+### **질병코드**&#x20;
+
+N72 자궁경부의 염증성 질환
 
 A54 임균감염
 
@@ -90,4 +88,13 @@ A74.8 기타 클라미디아질환
 
 A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 
-![image](../.gitbook/assets/725f9d65-722c-4d22-bba8-f0aac7c009f1.png)
+
+
+## 처방례
+
+처방례 1.\
+지스로맥스 250 ㎎/T 4T 1회\
+처방례 2.
+
+\
+독시사이클린 100 ㎎/C 2C #2 ×7d
