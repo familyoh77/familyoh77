@@ -97,15 +97,17 @@ _Ref. Acute scrotal pain. Aust Fam Physician 2013;42(11)_
 
 ```mermaid
 graph TD
-    A([급성 편측 음낭통]) --> B{onset 및 동반 증상}
-    B -->|급성/수 시간 이내 · 심한 통증| D[[Testicular torsion 우선 배제 — 결과 대기 없이 즉시 비뇨의학과 의뢰 + 도플러 초음파]]
-    B -->|서서히 진행 · 발열/오한 · 하부요로 증상| F[Epididymitis 의심]
-    F --> C{보조 소견: cremasteric reflex, Prehn's sign, Blue dot sign}
-    C -->|epididymitis 소견에 부합, torsion 시사 소견 없음| J[[요검사·배양, STI 검사 후 경험적 항생제 시작]]
-    C -->|torsion 시사 소견 있음 또는 판단 애매| H[[도플러 초음파 · 비뇨의학과 의뢰]]
-    D --> I[[6시간 이내 정복/수술 목표]]
-    style D fill:#f96,stroke:#e65100,stroke-width:2px
-    style I fill:#f96,stroke:#e65100,stroke-width:2px
+    Start([급성 편측 음낭통]) --> Onset{onset 및 동반 증상}
+    Onset -->|급성/수 시간 이내 · 심한 통증| Torsion[Testicular torsion 우선 배제 — 결과 대기 없이 즉시 비뇨의학과 의뢰 + 도플러 초음파]
+    Onset -->|서서히 진행 · 발열/오한 · 하부요로 증상| Epi[Epididymitis 의심]
+    Epi --> Adjunct{보조 소견: cremasteric reflex, Prehn's sign, Blue dot sign}
+    Adjunct -->|epididymitis 소견에 부합, torsion 시사 소견 없음| Treat[요검사·배양, STI 검사 후 경험적 항생제 시작]
+    Adjunct -->|torsion 시사 소견 있음 또는 판단 애매| Refer[도플러 초음파 · 비뇨의학과 의뢰]
+    Torsion --> Surgery[6시간 이내 정복/수술 목표]
+    style Torsion fill:#f96,stroke:#e65100,stroke-width:2px
+    style Surgery fill:#f96,stroke:#e65100,stroke-width:2px
+    style Epi fill:#e1f5fe,stroke:#01579b
+    style Treat fill:#e1f5fe,stroke:#01579b
 ```
 
 <p align="center"><strong>급성 음낭통 감별 알고리듬</strong></p>
