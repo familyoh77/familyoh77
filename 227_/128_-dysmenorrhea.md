@@ -1,13 +1,9 @@
 # 월경통 Dysmenorrhea
 
-![image](../.gitbook/assets/0c87c28d-d41a-48b8-884d-eedab83aa421.JPG)
-
 ## 일반 사항
 
 * 다른 병리가 없는 상태에서 골반에서 기원하는, 월경 시작 시기에 시작되어 12\~72시간 동안 지속되는 하복부 통증
-*   여성 골반통의 가장 흔한 원인 중 하나; 월경 여성의 50%가 영향을 받으며, 10% 정도에서 심각한 증상 경험; 20\~24세에
-
-    가장 흔함
+* 여성 골반통의 가장 흔한 원인 중 하나; 월경 여성의 50%가 영향을 받으며, 10% 정도에서 심각한 증상 경험; 20\~24세에 가장 흔함
 * 원발성 : 기질적 질환 없이 사춘기(초경 후 6\~12개월째)에 시작. 나이가 들수록 완화, 통증 기간 감소
 * 2차성 : 기저 질환에 의해 발생. 초경 후 어느 연령에서나 발생 가능(보통 초경 수년 후에 발생); 2차성 월경통 의심 시 의뢰 고려
 
@@ -46,11 +42,8 @@
 
 ※ 원발성 월경통과 2차성 월경통은 같은 임상 양상을 보임
 
-*   하복부/치골 상부의 경련 또는 통증; 간혹 허리, 대퇴부 방사통
-
-    • 통증은 월경 출혈 직전 또는 시작과 함께 발생, 경증~~중증 강도로 간헐적으로 발생; 1~~3일에 걸쳐 점차 감소(3일 넘게
-
-    지속되는 경우는 드묾)
+* 하복부/치골 상부의 경련 또는 통증; 간혹 허리, 대퇴부 방사통
+  * 통증은 월경 출혈 직전 또는 시작과 함께 발생, 경증~~중증 강도로 간헐적으로 발생; 1~~3일에 걸쳐 점차 감소(3일 넘게 지속되는 경우는 드묾)
 * 구역, 설사, 복부 팽만감/복통
 * 불안, 피로감, 두통, 어지럼, 몸살
 
@@ -70,9 +63,7 @@
 
 ### 증상/병력에 따른 월경 주기 문제의 감별
 
-```
-![image](images/8312b2eb-3175-4b26-a757-50a41cbabded.JPG)
-```
+<figure><img src="../.gitbook/assets/월경통.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -85,9 +76,7 @@
 
 ## 약물 치료
 
-*   NSAID or 호르몬제 → 2\~3개월 내 반응하지 않으면 교체 또는 병용 투여 고려
-
-    → 병용 투여에도 반응하지 않으면 2차성 월경통 감별
+* NSAID or 호르몬제 → 2\~3개월 내 반응하지 않으면 교체 또는 병용 투여 고려 → 병용 투여에도 반응하지 않으면 2차성 월경통 감별
 
 ### NSAID
 
@@ -116,17 +105,66 @@
 
 ### 기타
 
-*   오메가-3 \[오마코], Mg \[마그네스], 저지방 채소 식이, 생강(750~~2,000 ㎎ 월경 첫 3~~4일), 호로파, fish oil, 쥐오줌풀,
-
-    Vit B1(100 ㎎), zataria, Zn : 일부에서 효과, 고품질의 증거는 불충분
+* 오메가-3 \[오마코], Mg \[마그네스], 저지방 채소 식이, 생강(750~~2,000 ㎎ 월경 첫 3~~4일), 호로파, fish oil, 쥐오줌풀, Vit B1(100 ㎎), zataria, Zn : 일부에서 효과, 고품질의 증거는 불충분
 
 ## 예방
 
 * 원발성 : 동물성 지방 섭취를 줄임
-*   2차성 : 성 매개 감염 주의
+* 2차성 : 성 매개 감염 주의
 
-    ![image](../.gitbook/assets/c550439e-7bad-41d0-84bb-abda02f75611.JPG)
+```mermaid
+graph TD
+    A["1차성 월경통에 해당하는 병력"] --> B["규칙적 운동, 온찜질, NSAID(표준 용량)"]
+    B --> C["피임제 희망 or NSAID 금기"]
+    B --> D["피임제 원하지 않음"]
+    C --> E["CHC or progestin 단독 피임제"]
+    E --> H["호르몬 피임제 효과 없음"]
+    E --> G["피임제 금기"]
+    G --> I
+    G --> F
+    D --> F["CAM"]
+    F --> J["CAM을 원치 않거나 효과 없음"]
+    H --> I["월경통의 2차성 원인 감별을 위한 조사<br/>1. 병력 재평가<br/>2. 신체검사<br/>3. 골반 초음파<br/>4. MRI, laparoscopy 고려"]
+    J --> I
+    I --> K["1차성 월경통에 해당하는 결과"]
+    K --> L["가임 능력 유지 희망"]
+    K --> M["가임 능력 원하지 않음"]
+    L --> N["Uterine N ablation or<br/>presacral neurectomy"]
+    M --> O["Endometrial ablation or<br/>hysterectomy"]
 
-> **질병코드** N94 여성생식기관 및 월경주기와 관련된 통증 및 기타 병태
+    classDef purple fill:#f3e0f7,stroke:#ab47bc,stroke-width:1px;
+    classDef blue fill:#e3f2fd,stroke:#64b5f6,stroke-width:1px;
+    classDef yellow fill:#fff9c4,stroke:#fbc02d,stroke-width:1px;
+    classDef gray fill:#f5f5f5,stroke:#bdbdbd,stroke-width:1px;
+    classDef green fill:#e8f5e9,stroke:#81c784,stroke-width:1px;
 
-![image](../.gitbook/assets/75c73dc5-e0c2-4d03-a783-e3c053cda2a0.JPG)
+    class A purple;
+    class B,E,F,N,O blue;
+    class C,D,H,J,L,M yellow;
+    class G,K gray;
+    class I green;
+```
+
+_CHC=combined hormonal contraceptive, CAM=complementary and_ \
+_alternative medicine_
+
+1차성 월경통 치료 알고리듬\
+Ref. SOGC. Primary Dysmenorrhea Consensus Guideline. 2017. Fig 1.
+
+
+
+### **질병코드**&#x20;
+
+N94 여성생식기관 및 월경주기와 관련된 통증 및 기타 병태
+
+
+
+## 처방례
+
+처방례 1. 급성 통증\
+폰탈 250 ㎎/C 초회 2C, 이후 6시간마다 1C\
+티로파 100 ㎎/T 3T #3 (하복부&#x20;장관 증상 동반 시)
+
+\
+처방례 2. 만성 원발 월경통\
+야즈 28T 1T qd
