@@ -1,7 +1,5 @@
 # 성기능장애 Sexual Dysfunction
 
-![image](../.gitbook/assets/8c2659fc-25d2-4d80-9814-11ac63a6775f.JPG)
-
 ## ￭ 발기기능장애 Erectile Dysfunction
 
 * 만족스런 성관계 수행을 위해 충분한 발기를 반복적 또는 지속적으로 달성 또는 유지할 수 없음
@@ -16,7 +14,7 @@
 * 혈액량 유지 실패 : 정맥 폐쇄 부전
 * 구조적 문제 : phimosis, lichen sclerosus
 
-### 위험 인자![image](../.gitbook/assets/b9a6997d-a79d-4999-8f5a-6fb65b97579d.JPG)
+### 위험 인자
 
 * 고령
 * 흡연, 음주
@@ -25,25 +23,26 @@
 * 우울, 불안, 분노, 스트레스
 * 비뇨기계/골반/혈관 수술, 신경계 질환 또는 손상
 * BPH, 심혈관 질환(예: 고혈압, 동맥 경화), 당뇨병, HDL 저하, 갑상선 질환
-*   약물
+* 약물
+  * 항고혈압제 : (발기 저하 정도) β-차단제/이뇨제(thiazide)＞CCB/ACEI＞α-차단제
+  * 심혈관제, 항이상지질혈증제 : digoxin, gemfibrozil, clofibrate
+  * 정신성 약물 : SSRI, TCA/heterocyclics, MAOI, benzodiazepine, phenothiazine
+  * H2-차단제 : cimetidine, ranitidine, famotidine
+  * 호르몬 : progesterone, estrogen, steroid, 5α-reductase inhibitor
+  * cytotoxic agent : cyclophosphamide, methotrexate, interferon α-2a
+  * 항콜린제 : disopyramide, oxybutynin, hyoscyamine
 
-    •항고혈압제 : (발기 저하 정도) β-차단제/이뇨제(thiazide)＞CCB/ACEI＞α-차단제
+### Red Flags!
 
-    •심혈관제, 항이상지질혈증제 : digoxin, gemfibrozil, clofibrate
-
-    •정신성 약물 : SSRI, TCA/heterocyclics, MAOI, benzodiazepine, phenothiazine
-
-    •H2-차단제 : cimetidine, ranitidine, famotidine
-
-•호르몬 : progesterone, estrogen, steroid, 5α-reductase inhibitor
-
-•cytotoxic agent : cyclophosphamide, methotrexate, interferon α-2a
-
-•항콜린제 : disopyramide, oxybutynin, hyoscyamine
+* 경구제에 반응 부족
+* 환자가 만족하지 못함
+* 음경 기형, 해부학적 이상
+* 골반/회음부 외상, 수술, 또는 방사선 조사 병력
+* Ischemic priapism
 
 ## 진단
 
-병력
+#### 병력
 
 * 증상 지속 기간
 * 이전의 발기 능력
@@ -57,7 +56,7 @@
 * 동반 증상, 동반/기저 질환, 약물 복용력
 * 이전 및 현재의 치료/대응 방법
 
-### 감별
+#### 감별
 
 * 야간 또는 이른 아침 발기 가능, 상황에 따라 다름 → 심인성
 * 건강염려증, 사별, 이혼, 불화, 경제적 문제가 있음 → 심인성
@@ -67,7 +66,7 @@
 * 당뇨병, 고혈압, 심혈관 질환, 이상지질혈증, 신경계 질환 및 약물 복용 → 기저 질환/약물
 * 장, 방광, 전립선 또는 혈관 수술 병력 → 수술 후유 장애, 신경 손상
 
-### 검사
+#### 검사
 
 *
   *   신체검사 : 혈압/맥박수, 하지 맥박, 복부 둘레, BMI, 직장수지검사(전립선, anal sphincter tone), genital reflex
@@ -77,11 +76,11 @@
 * 영상 검사 : doppler, angiogram, cavernosogram; 일반적으로 시행하지는 않음
 * prostaglandin E1의 intracorporeal injection : 정상 혈관 상태에서는 발기됨
 
-### 국제 발기 부전 지수 (International index of erectile function(IIEF-5) Questionnaire)
+#### 국제 발기 부전 지수 (International index of erectile function(IIEF-5) Questionnaire)
 
-```
-![image](images/05d9880c-3913-42aa-a084-216abeb2f534.JPG)
-```
+<table data-header-hidden><thead><tr><th width="247"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th><th width="100"></th></tr></thead><tbody><tr><td><a href="ca://s?q=%EB%B0%9C%EA%B8%B0%EA%B8%B0%EB%8A%A5_%EC%9E%90%EA%B8%B0%ED%8F%89%EA%B0%80_%EB%AC%B8%ED%95%AD"><strong>문항</strong></a></td><td><strong>1점</strong></td><td><strong>2점</strong></td><td><strong>3점</strong></td><td><strong>4점</strong></td><td><strong>5점</strong></td></tr><tr><td>① 발기가 되고 유지되는 것에 있어 당신의 자신감은 얼마나 되는가?</td><td>매우 낮다</td><td>낮다</td><td>그저 그렇다</td><td>높다</td><td>매우 높다</td></tr><tr><td>② 성적 자극으로 발기되었을 때 성교가 가능할 정도의 충분한 발기가 몇 번이나 있었는가?</td><td>거의 없거나 한 번도 없음</td><td>가끔씩(총 횟수의 ½에 훨씬 미달)</td><td>때때로(총 횟수의 ½ 정도)</td><td>대부분(총 횟수의 ½을 훨씬 넘음)</td><td>항상 또는 거의 항상</td></tr><tr><td>③ 성관계에서 삽입 후 발기 상태가 유지된 적이 몇 번이나 있었는가?</td><td>거의 없거나 한 번도 없음</td><td>가끔씩(총 횟수의 ½에 훨씬 미달)</td><td>때때로(총 횟수의 ½ 정도)</td><td>대부분(총 횟수의 ½을 훨씬 넘음)</td><td>항상 또는 거의 항상</td></tr><tr><td>④ 성관계를 마칠 때까지 발기 상태를 유지하는 것은 얼마나 어려웠는가?</td><td>극도로 어려움</td><td>매우 어려움</td><td>어려움</td><td>약간 어려움</td><td>전혀 어렵지 않음</td></tr><tr><td>⑤ 성관계에서 만족감을 느낀 적이 얼마나 되는가?</td><td>거의 없거나 한 번도 없음</td><td>가끔씩(총 횟수의 ½에 훨씬 미달)</td><td>때때로(총 횟수의 ½ 정도)</td><td>대부분(총 횟수의 ½을 훨씬 넘음)</td><td>항상 또는 거의 항상</td></tr></tbody></table>
+
+* 성관계를 한 적이 없는 경우 해당 항목 0점 배점 ▶판정 : 25\~22점=정상, 21\~17=경증, 16\~12점=경-중등증, 11\~8점= 중등증, 7\~1점=중증
 
 ***
 
@@ -100,13 +99,12 @@
 * 스트레스 관리, 심리적 문제 치료
 * 배우자 상담, 부부간의 소통/스킨십 향상
 
-> ✽지중해식 식단 등 건강 식이가 성 기능 저하를 예방해 준다는 보고가 있음
-
-> ✽30~~60분의 유산소 운동을 1주일에 3~~5회 시행하면 testosterone 이상의 효과가 있다는 메타분석 결과가 있음
+- [ ] 지중해식 식단 등 건강 식이가 성 기능 저하를 예방해 준다는 보고가 있음
+- [ ] 30\~60분의 유산소 운동을 1주일에 3\~5회 시행하면 testosterone 이상의 효과가 있다는 메타분석 결과가 있음
 
 ## 약물 치료
 
-### Phosphodiesterase-5 inhibitor (PDE5i)
+#### Phosphodiesterase-5 inhibitor (PDE5i)
 
 * 기전 : intracavernosal cyclic guanosine monophosphate↑→ NO-induced vasodilation 연장
 *   효과 : 원인에 관계없이 유효; 성욕에는 영향을 주지 않으므로 성적 자극이 필요하며 이 경우 55\~80%에서 유효;
@@ -122,11 +120,14 @@
 
     • PDE5i 복용 24시간 내 nitrate 복용 금지(tadalafil은 48시간)
 * 저용량 적용 대상 : 고령, 신부전, α-차단제 복용, CYP3A4 대사 약물 복용
-*   고지방식과 과량의 알코올이 효과를 저해할 수 있음(tadalafil은 영향을 적게 받음)
+* 고지방식과 과량의 알코올이 효과를 저해할 수 있음(tadalafil은 영향을 적게 받음)
 
-    ![image](../.gitbook/assets/fdf5f1f4-5c2a-4f92-a567-59f941f8150e.JPG)
+<table data-header-hidden data-search="false"><thead><tr><th></th><th width="106"></th><th width="96"></th><th width="97"></th><th width="95"></th><th width="97"></th><th width="105"></th></tr></thead><tbody><tr><td><strong>성분명</strong></td><td><strong>avanafil</strong></td><td><strong>sildenafil</strong></td><td><strong>vardenafil</strong></td><td><strong>tadalafil</strong></td><td><strong>mirodenafil</strong></td><td><strong>udenafil</strong></td></tr><tr><td><strong>상품명</strong></td><td>제피드</td><td>비아그라</td><td>레비트라</td><td>시알리스</td><td>엠빅스</td><td>자이데나</td></tr><tr><td><strong>제형(mg)</strong></td><td>200</td><td>50, 100</td><td>10, 20</td><td>5, 10, 20</td><td>50, 100</td><td>50, 75, 100</td></tr><tr><td><strong>작용 시작</strong></td><td>15~30분</td><td>30~60분</td><td>30~60분</td><td>60~120분</td><td>~60분</td><td>~60분</td></tr><tr><td><strong>최대 농도 도달 시간</strong></td><td>30분</td><td>1시간</td><td>1시간</td><td>2시간</td><td>1시간</td><td>1시간</td></tr><tr><td><strong>지속 시간</strong></td><td>6시간</td><td>12시간</td><td>10시간</td><td>36시간</td><td>8시간</td><td>24시간</td></tr><tr><td><strong>상용량(mg)</strong></td><td>50~200</td><td>25~100</td><td>10~20</td><td>5~20</td><td>50~100</td><td>50~100</td></tr><tr><td><strong>두통(%)</strong></td><td>9.3</td><td>12.8</td><td>16</td><td>14.5</td><td>—</td><td>—</td></tr><tr><td><strong>홍조(%)</strong></td><td>3.7</td><td>10.4</td><td>12</td><td>4.1</td><td>—</td><td>—</td></tr><tr><td><strong>소화불량(%)</strong></td><td>드묾</td><td>4.6</td><td>4</td><td>12.3</td><td>—</td><td>—</td></tr><tr><td><strong>코 울혈(%)</strong></td><td>1.9</td><td>1.1</td><td>10</td><td>4.3</td><td>—</td><td>—</td></tr><tr><td><strong>어지럼(%)</strong></td><td>0.6</td><td>1.2</td><td>2</td><td>2.3</td><td>—</td><td>—</td></tr></tbody></table>
 
-### Testosterone
+Ref. AUA. Guideline: Erectile dysfunction. 2018;\
+　EAU. Guidelines on erectile dysfunction, premature ejaculation, penile curvature and priapism. 2016
+
+#### Testosterone
 
 * hypogonadism 환자에서 적용; 정상 testosterone 상태에서는 효과 없음
 * PDE5i와 병용 시 이에 대한 효과를 향상시킬 가능성이 있음
@@ -142,19 +143,52 @@
 * 용법 : 패취/겔 등 비-경구 장기 작용 testosterone(예: enanthate, cypionate) 투여
 * \[테스토 겔] : 1% 50 ㎎/5g/p, 어깨, 팔, 복부 피부에 1일 1회 오전 5 g 도포
 
-> ✽경구제는 간 독성 문제로 사용 안 함
+- [ ] 경구제는 간 독성 문제로 사용 안 함
 
-### 기타
+#### 기타
 
 * trazodone : 일부 우울, 불안증 환자에서 효과
 * prostaglandin E2(alprostadil) penile injection : 드물게 priapism, 섬유화, 통증/감염 부작용
 * vacuum-assisted device : 효과적이나 사용상 불편함이 있음
 * 보형물 삽입 : 효과적; 드물게 감염, 기계 고장 부작용
-*   은행, 인삼, HCG, L-arginine : 증거 불충분으로 권하지 않음
+* 은행, 인삼, HCG, L-arginine : 증거 불충분으로 권하지 않음
 
-    ![image](../.gitbook/assets/3fb5eb13-161e-4322-8412-d530f2dbb893.JPG)
 
-> **질병코드** F52 기질성 장애나 질병에 의하지 않은 성기능장애
+
+```mermaid
+flowchart TD
+    A["상담 : 환자 및 배우자<br>•Psychosocial/Relationship 상담<br>•생활 습관 개선: 금연, 운동, 체중 관리<br>•치료제에 대하여 설명"] --> B["환자 및 배우자의 선호도를 반영하여<br>적당한 치료법 선택"]
+
+    B --> C1["PDE5i"]
+    B --> C2["Vacuum<br>device"]
+    B --> C3["Intraurethral<br>alprostadil"]
+    B --> C4["Intracavernosal<br>injection"]
+    B --> C5["음경보형물<br>시술"]
+
+    C1 --> D["결과, 부작용 및 만족도 평가"]
+    C2 --> D
+    C3 --> D
+    C4 --> D
+    C5 --> D
+
+    D --> E["미흡한 결과에 대한 조치<br>•사용 방법에 대한 재교육<br>•용량 조절<br>•선호도에 대하여 재평가<br>•정신사회적 또는 상호 관계에 대한 문제 상담<br>•치료 방법 변경 고려"]
+
+    %% 색상 및 스타일 지정
+    classDef purple fill:#EAE8F8,stroke:#B0A3E0,color:#333
+    classDef grey fill:#EFEFEF,stroke:#CCCCCC,color:#333
+    classDef blue fill:#DDEBF7,stroke:#9BC2E6,color:#333
+
+    class A purple
+    class B,D grey
+    class C1,C2,C3,C4,C5,E blue
+```
+
+발기기능장애 치료 알고리듬\
+Ref. AUA. Guideline: Erectile dysfunction. 2018
+
+### **질병코드**&#x20;
+
+F52 기질성 장애나 질병에 의하지 않은 성기능장애
 
 N48.4 기질적 원인에 의한 발기부전
 
