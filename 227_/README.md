@@ -38,17 +38,30 @@
 •Guidelines on assessment and nonsurgical management of urinary incontinence. EAU (2017)\
 •요실금 진료지침서. 대한배뇨장애요실금학회 (2012)\
 •Diagnosis, management, and referral of men with LUTS due to benign prostatic hyperplasia. NICE (2017)\
-•Diagnosis and Treatment of OverActive Bladder (Non-Neurogenic) in Adults: AUA/SUFU (2019)\
+•Diagnosis and Treatment of (Idiopathic) Overactive Bladder in Adults. AUA/SUFU (2024)\
 •과민성방광 지침서. 대한배뇨장애요실금학회 (2015)\
 •신경인성방광 지침서. 대한배뇨장애요실금학회 (2011)\
-•Primary dysmenorrhea consensus guideline. SOGC (2017)\
+•Management of Premenstrual Syndrome: Green-top Guideline No. 48. RCOG (2016/2017)\
+•Management of Premenstrual Disorders: Clinical Practice Guideline No. 7. ACOG (2023)\
+•Primary Dysmenorrhea: Guideline No. 345. SOGC (2025)\
 •Abnormal Uterine Bleeding in Pre-Menopausal Women. SOGC (2018)\
-•Heavy menstrual bleeding: assessment and management. NICE (2018)\
+•Heavy menstrual bleeding: assessment and management (NG88). NICE (2018)\
+•FIGO PALM-COEIN classification system for abnormal uterine bleeding. FIGO (2011, as updated)\
+•Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women. ACOG Practice Bulletin No. 128 (2012)\
+•Evaluation of Postmenopausal Bleeding. ACOG Clinical Practice Update (2026)\
+•International evidence-based guideline for the assessment and management of polycystic ovary syndrome. Monash University/ASRM/ESHRE 등 국제 컨소시엄 (2023)\
+•Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. Endocrine Society (2017)\
+•Evidence-based guideline: Premature Ovarian Insufficiency. ESHRE/ASRM/CRE-WHiRL/IMS (2024)\
 •Canadian Contraception Consensus. SOGC (2017)\
 •Medical eligibility criteria for contraceptive use. WHO (2015)\
+•U.S. Medical Eligibility Criteria for Contraceptive Use (US MEC). CDC (2024)\
+•U.S. Selected Practice Recommendations for Contraceptive Use (US SPR). CDC (2024)\
 •Erectile dysfunction. AUA (2018)\
 •A practical guide on managing erectile dysfunction. BSSM (2018)\
 •Guidelines on erectile dysfunction, premature ejaculation, penile curvature and priapism. EAU (2016)\
 •일차의료에서 발기부전 진료지침. 대한가정의학회 (2013)\
-•Guidelines on urolithiasis. EAU (2018)\
-•Medical management of kidney stones. AUA (2014)
+•Princeton IV Consensus: sexual dysfunction and cardiac risk stratification. Princeton Consensus Conference (2024)\
+•Disorders of Ejaculation: An AUA/SMSNA Guideline. AUA/SMSNA (2020; amended 2022)\
+•Global Consensus Position Statement on the Use of Testosterone Therapy for Women. ISSWSH 등 국제 학회 연합 (2019)\
+•Guidelines on urolithiasis. EAU (2026)\
+•Surgical Management of Kidney and Ureteral Stones. AUA/Endourological Society (2026)
