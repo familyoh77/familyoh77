@@ -1,14 +1,8 @@
 # 비정상 자궁 출혈 Abnormal Uterine Bleeding, AUB
 
-![image](../.gitbook/assets/f60e10dd-255e-43f1-a5da-5b47f1cf2aec.JPG)
-
 ## 일반 사항
 
-*   비정상 자궁 출혈 (AUB) : 비임신 여성에서 규칙성, 양, 빈도, 기간에 있어 비정상적인 자궁 출혈; 월경 이외의 출혈,
-
-    성교 후 출혈, 일반적(또는 평소) 월경보다 많거나 길어지는 출혈, 폐경 후 출혈;
-
-    이전의 Dysfunctional uterine bleeding(DUB)을 대체한 용어
+* 비정상 자궁 출혈 (AUB) : 비임신 여성에서 규칙성, 양, 빈도, 기간에 있어 비정상적인 자궁 출혈; 월경 이외의 출혈, 성교 후 출혈, 일반적(또는 평소) 월경보다 많거나 길어지는 출혈, 폐경 후 출혈; 이전의 Dysfunctional uterine bleeding(DUB)을 대체한 용어
 * 대부분 자궁의 structural pathology에 의함
 * 호발 시기 : 청소년, 폐경 이행기
 * 진단 및 치료 전 임신 여부를 반드시 확인해야 함
@@ -39,14 +33,9 @@
 
 ## 원인
 
-*   무배란성 출혈 : 주기적인 자궁내막 자극 소실, estrogen 증가, progesterone 소퇴성 출혈의 소실, 자궁내막 탈락,
-
-    다낭성난소증후군; AUB의 80\~90% 해당
+* 무배란성 출혈 : 주기적인 자궁내막 자극 소실, estrogen 증가, progesterone 소퇴성 출혈의 소실, 자궁내막 탈락, 다낭성난소증후군; AUB의 80\~90% 해당
 * 임신 : 자궁외임신, 유산 관련
-* 생식기계의 구조적 이상 또는 감염 : leiomyoma, endometritis, uterine hyperplasia, STI, salpingitis,
-
-기능성 난소낭종, 자궁경부염, 용종, 외상, 이물, 악성 종양
-
+* 생식기계의 구조적 이상 또는 감염 : leiomyoma, endometritis, uterine hyperplasia, STI, salpingitis, 기능성 난소낭종, 자궁경부염, 용종, 외상, 이물, 악성 종양
 * 전신 질환 : IBD, 출혈성 질환, 중증 간/신질환, hyper/hypo-thyroidism, prolactinoma, 당뇨병, 섭식 장애
 * 약물 : 항응고제, steroid, tamoxifen, SSRI, 항정신병제, 호르몬제(피임제)
 * 기타 : 자궁 내 장치, 비만, 심한 운동
@@ -54,13 +43,19 @@
 #### 연령별
 
 * 사춘기 이전 : 외상, 이물, 자극, 감염, 비뇨기계 문제
-*   사춘기 : hypothalamic-pituitary-ovarian axis 기능의 미성숙(대부분의 여성에서 초경 후 수개월 동안 불규칙 월경 발생),
-
-    임신, 감염
-*   가임기 : 임신, 배란 출혈(소량 출혈), 호르몬 피임제(대량 출혈), 감염, 응고 장애, 갑상선저하증, 간/신질환, uterine fibroid,
-
-    uterine adenomyosis, endometrial polyp, 생식기계 악성 종양
+* 사춘기 : hypothalamic-pituitary-ovarian axis 기능의 미성숙(대부분의 여성에서 초경 후 수개월 동안 불규칙 월경 발생), 임신, 감염
+* 가임기 : 임신, 배란 출혈(소량 출혈), 호르몬 피임제(대량 출혈), 감염, 응고 장애, 갑상선저하증, 간/신질환, uterine fibroid, uterine adenomyosis, endometrial polyp, 생식기계 악성 종양
 * 폐경기 : 생식기계 위축/퇴행 변화, 감염, 항응고제 투여, 섬유종, 용종, 악성 종양
+
+### 자궁내막암의 위험 인자
+
+* ＞40세
+* 비만, 당뇨병, 고혈압
+* 유방암, 자궁내막증, 다낭성난소증후군
+* tamoxifen 사용, unopposed estrogen 요법
+* 이른 초경, 늦은 폐경(＞55세)
+* 출산 경력 없음, 불임, 만성 무배란
+* 가족력 : 여성 생식기계 암, 유방암, 대장암
 
 ## 임상 양상
 
@@ -68,15 +63,15 @@
 * Ovulatory bleeding의 특징 : 규칙적 주기성 출혈, 월경 전 증상이 있음(예: 유방통, 감정 변화), midcycle pain이 있음(배란통)
 * 창백(빈혈)
 
-### 자궁내막암의 위험 인자
+### Red Flags!
 
-* ＞40세![image](../.gitbook/assets/98d8b26a-de02-4282-8251-2058ef222c18.JPG)
-* 비만, 당뇨병, 고혈압
-* 유방암, 자궁내막증, 다낭성난소증후군
-* tamoxifen 사용, unopposed estrogen 요법
-* 이른 초경, 늦은 폐경(＞55세)
-* 출산 경력 없음, 불임, 만성 무배란
-* 가족력 : 여성 생식기계 암, 유방암, 대장암
+* 심한 출혈
+* 치료에 반응하지 않는 지속되는 출혈
+* 혈역학적 불안정(예: 심한 빈혈)을 초래하는 많은 출혈
+* 성교 후 출혈
+* 이전 월경 3주 이내 발생하는 출혈
+* 폐경 1년 이후 발생한 출혈
+* 자궁내막암의 위험 인자가 있는 경우
 
 ## 진단
 
@@ -97,13 +92,10 @@
 * LFT, RFT, TSH(갑상선 질환이 의심되는 경우)
 * prolactin : 가급적 follicular phase에 시행; 증가되어 있는 경우 공복 시 재검
 * 소변 및 질 분비물 검사 : 외음부 감염 징후가 있는 경우 \*Chlamydia \*등 감별
-*   응고 장애 선별 검사 : PTT, PT, aPTT, fibrinogen
-
-    •심한 과다월경 환자의 18%에서 응고 장애가 있음
-
-    •출혈성 질환이 있는 경우 코피/잇몸 출혈/잦은 멍 발생의 동반, 출혈 가족력이 있을 수 있음
-
-    •대상 : 과다 질 출혈 청소년, 만성 질 출혈, 산욕기 출혈, 수술 관련 출혈, 월 1\~2회의 코피/멍, 잇몸 출혈, 출혈성 가족력
+* 응고 장애 선별 검사 : PTT, PT, aPTT, fibrinogen
+  * 심한 과다월경 환자의 18%에서 응고 장애가 있음
+  * 출혈성 질환이 있는 경우 코피/잇몸 출혈/잦은 멍 발생의 동반, 출혈 가족력이 있을 수 있음
+  * 대상 : 과다 질 출혈 청소년, 만성 질 출혈, 산욕기 출혈, 수술 관련 출혈, 월 1\~2회의 코피/멍, 잇몸 출혈, 출혈성 가족력
 
 #### 영상 검사
 
@@ -114,12 +106,65 @@
 #### 조직 검사 및 대상
 
 * pap smear : ＞21세
-*   endometrial biopsy : ＞40\~45세, 자궁내막암의 위험 인자, unopposed estrogen 노출력(예: 비만, PCOS), 치료에 반응하지
+* endometrial biopsy : ＞40\~45세, 자궁내막암의 위험 인자, unopposed estrogen 노출력(예: 비만, PCOS), 치료에 반응하지 않는 경우 고려
+* D\&C : 심한 출혈, 경구제 치료 실패 시, endometrial biopsy를 시행할 수 없는 경우
+*
 
-    않는 경우 고려
-*   D\&C : 심한 출혈, 경구제 치료 실패 시, endometrial biopsy를 시행할 수 없는 경우
+```mermaid
+flowchart TD
+    A["Uterine evaluation"] --> B["Hyperplasia &/or Neoplasia위험?"]
+    A --> C["구조적 이상 위험?"]
+    B -- no --> P["AUB-E or<br>AUB-O (추정)"]
+    %% Left Branch
+    B -- yes --> D["Endometrial biopsy"]
 
-    ![image](../.gitbook/assets/9c03a846-7586-4b39-b080-c66d618ff6d5.JPG)
+
+    D --> F["Adequate specimen?"]
+    F -- yes --> G["Atypical hyperplasia/<br>Carcinoma?"]
+    F -- no --> H["Hysteroscopy<br>+/- biopsy<br>"]
+
+    G -- yes --> I["AUB-M 치료"]
+    G -- no --> E["AUB-E or<br>AUB-O (추정)"]
+
+    %% Right Branch
+    C -- yes --> J["Transvaginal<br>Ultrasonography"]
+    C -- no --> Q["AUB-E or<br>AUB-O (추정)"]
+
+    J --> K["Normal cavity?"]
+    K -- yes --> E
+    K -- no --> H
+    K -- no --> L["Sonohysterography"]
+
+    H --> M["이상 병변?"]
+    L --> M
+
+    %% Results from 이상 병변?
+    M -- no --> E
+    M -- yes --> N["AUB-L<sub>SM</sub>,<br>AUB-P,<br>AUB-A"]
+    M -- 평가불능 --> O["MRI 검사 고려"]
+    O -.-> M
+
+    %% Styles
+    style A fill:#ECE0F8,stroke:#9B51E0,stroke-width:1px
+    style B fill:#FFFDE7,stroke:#F2C94C,stroke-width:1px
+    style C fill:#FFFDE7,stroke:#F2C94C,stroke-width:1px
+    style F fill:#FFFDE7,stroke:#F2C94C,stroke-width:1px
+    style G fill:#FFFDE7,stroke:#F2C94C,stroke-width:1px
+    style K fill:#FFFDE7,stroke:#F2C94C,stroke-width:1px
+    style M fill:#FFFDE7,stroke:#F2C94C,stroke-width:1px
+
+    style D fill:#E8F5E9,stroke:#6FCF97,stroke-width:1px
+    style H fill:#E8F5E9,stroke:#6FCF97,stroke-width:1px
+    style J fill:#E8F5E9,stroke:#6FCF97,stroke-width:1px
+    style L fill:#E8F5E9,stroke:#6FCF97,stroke-width:1px
+    style O fill:#E8F5E9,stroke:#6FCF97,stroke-width:1px
+
+    style E fill:#FFEBEE,stroke:#EB5757,stroke-width:1px
+    style N fill:#FFEBEE,stroke:#EB5757,stroke-width:1px
+    style I fill:#E1F5FE,stroke:#2F80ED,stroke-width:1px
+```
+
+*
 
 ***
 
@@ -127,8 +172,7 @@
 
 ## 비-약물 치료
 
-*
-  * 철분 섭취를 늘림 (☞ p.1027)
+* 철분 섭취를 늘림 (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
 * 생활 습관 중재 : 체중 관리, 운동
 
 ## 약물 치료
@@ -143,49 +187,35 @@
 
 ### 급성, 비응급, 무배란성
 
-*   복합 경구 피임제 고용량 투여 후 감량
+* 복합 경구 피임제 고용량 투여 후 감량
+  *   예 : ≥30 ㎍ estrogen 4 pills/d ×4d → 3 pills/d ×3d → 2 pills/d ×2d → 1 pill/d ×3wk
 
-    •예 : ≥30 ㎍ estrogen 4 pills/d ×4d → 3 pills/d ×3d → 2 pills/d ×2d → 1 pill/d ×3wk
-
-    → 1주간 중단 → 이후 경구 피임제 최소 3개월간 투여
-*   경구 estrogen 단독 또는 경구 progesterone 단독 : 급성 출혈 중단 목적
-
-    •medroxyprogesterone acetate(DMPA) : \~20 ㎎ tid ×7d \[프로베라]
+      → 1주간 중단 → 이후 경구 피임제 최소 3개월간 투여
+* 경구 estrogen 단독 또는 경구 progesterone 단독 : 급성 출혈 중단 목적
+  * medroxyprogesterone acetate(DMPA) : \~20 ㎎ tid ×7d \[프로베라]
 
 ### 비응급, 무배란성
 
 * 약제 선택 시 임신 희망 여부를 고려; 임신을 원하지 않는 경우 경구 피임제, IUD 선택 가능
-*   복합 경구 피임제 : 월경 주기 조절; 월경 첫날부터 복용 (☞ p.700)
-
-    •[야스민](../%EB%B9%84%EB%B3%B4%ED%97%98/) : ethinyl estradiol(EE) 30 ㎍, drospirenone 3 ㎎; 21일간 복용 → 7일간 휴약
-
-    •[야즈](../%EB%B9%84%EB%B3%B4%ED%97%98/) : EE 20 ㎍, drospirenone 3 ㎎; 24일간 연분홍색 → 4일간 흰색(위약) 복용
+* 복합 경구 피임제 : 월경 주기 조절; 월경 첫날부터 복용 (☞ p.700)
+  * [야스민](../%EB%B9%84%EB%B3%B4%ED%97%98/) : ethinyl estradiol(EE) 30 ㎍, drospirenone 3 ㎎; 21일간 복용 → 7일간 휴약
+  * [야즈](../%EB%B9%84%EB%B3%B4%ED%97%98/) : EE 20 ㎍, drospirenone 3 ㎎; 24일간 연분홍색 → 4일간 흰색(위약) 복용
 *   progesterone 단독 : 주기 투여 시 월경 주기 16\~21일째 복용 시작, 중단 후 소퇴성 출혈 발생;
 
     투여 용량과 기간은 배란 이상에 의존함
 
-    •medroxyprogesterone acetate(DMPA) : 10 ㎎/d ×12d/m \[프로베라]
+    * medroxyprogesterone acetate(DMPA) : 10 ㎎/d ×12d/m \[프로베라]
+    * norethindrone acetate : 주기(2.5\~10 ㎎ qd, 12d/m) 또는 지속(0.35 ㎎ qd) 투여
+    * levonorgestrel IUD : progesterone 공급에 가장 효과적 \[미레나]
+    * depot medroxyprogesterone acetate : 150 ㎎ IM q3m
+* clomiphene : 배란 유도
+  * progesterone 투여 시 출혈이 발생하는 정상 내인성 estrogen 불임증 환자에서의 배란 유도
+  * 용법 : 주기의 제5일부터 50 ㎎/d ×5d 투여 → 제1주기로서 효과가 없는 경우에 그 다음 주기에서 100 ㎎/d ×5d 투여 → 배란 유도에 실패한 경우 최대 250 ㎎/d 시도 \[클로미펜]
+  *   금기 : 다낭성난소증후군에 기인하지 않은 난소낭 또는 난소 증대, 간질환, 자궁내막증, 자궁내막종양,
 
-    •norethindrone acetate : 주기(2.5\~10 ㎎ qd, 12d/m) 또는 지속(0.35 ㎎ qd) 투여
+      원발성 난소부전에 의한 요중 성선자극호르몬 분비가 많은 자, 부신 또는 갑상선 기능 이상에 의한 무배란,
 
-    •levonorgestrel IUD : progesterone 공급에 가장 효과적 \[미레나]
-
-    •depot medroxyprogesterone acetate : 150 ㎎ IM q3m
-*   clomiphene : 배란 유도
-
-    •progesterone 투여 시 출혈이 발생하는 정상 내인성 estrogen 불임증 환자에서의 배란 유도
-
-    •용법 : 주기의 제5일부터 50 ㎎/d ×5d 투여 → 제1주기로서 효과가 없는 경우에 그 다음 주기에서 100 ㎎/d ×5d 투여
-
-    → 배란 유도에 실패한 경우 최대 250 ㎎/d 시도 \[클로미펜]
-
-    •금기 : 다낭성난소증후군에 기인하지 않은 난소낭 또는 난소 증대, 간질환, 자궁내막증, 자궁내막종양,
-
-    원발성 난소부전에 의한 요중 성선자극호르몬 분비가 많은 자, 부신 또는 갑상선 기능 이상에 의한 무배란,
-
-    두개 내 병변(예: 뇌하수체 종양), 무배란증 이외의 불임증, prolactin 분비 과다에 의한 난소 부전, 혈액 응고 장애,
-
-    담즙 대사 장애
+      두개 내 병변(예: 뇌하수체 종양), 무배란증 이외의 불임증, prolactin 분비 과다에 의한 난소 부전, 혈액 응고 장애, 담즙 대사 장애
 
 #### Menorrhagia
 
@@ -216,8 +246,16 @@
 * 급성 출혈이 안정되면 4\~6개월째에 추가 평가
 * 호르몬 치료를 받은 환자는 월경 일지를 기록하고 평가
 
-> **질병코드** N92 과다, 빈발 및 불규칙 월경
+### **질병코드**&#x20;
+
+N92 과다, 빈발 및 불규칙 월경
 
 N93 기타 이상 자궁 및 질 출혈 질병코드
 
-![image](../.gitbook/assets/92e4f0e2-387a-40fe-a2ac-5a0e4cf245d1.JPG)
+
+
+## 처방례
+
+처방례\
+야즈 28T 1T qd\
+부루펜 200 ㎎/T 2T 필요시
