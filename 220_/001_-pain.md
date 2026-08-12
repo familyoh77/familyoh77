@@ -36,18 +36,19 @@
 
 * 주요 외상 후 심한 통증 (척추 골절 의심)
 * 고령·골다공증 환자에서 경미한 외상(기침, 가벼운 물건 들기) 후 심한 통증
-* 발열, 오한 동반 (척추 감염/골수염 의심) - 면역 저하자 또는 면역억제제 복용 중인 경우 특히 주의
+* 발열, 오한, 전신 상태 저하와 함께 심한 지속성 척추 통증 (척추 감염/골수염 의심) — 최근 세균 감염·균혈증 병력, 정맥 주사제 사용, 면역 저하 동반 시 의심도 특히 높아짐
+* 새로 발생했거나 수일에 걸쳐 진행하는 객관적 근력 약화 또는 신경학적 결손 (척수 압박/신경 압박 시사; 단순 이상 감각만 있는 경우는 제외)
 
-<mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
+<mark style="color:$info;">**외래 조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 치료에 반응하지 않거나 점차 악화
 * 휴식·야간에도 지속되거나 점차 악화 (다른 red flag 동반 시 특히 주의)
 * 악성 종양 병력
 * 고령에서 새로 시작된 통증 + 골절 위험 인자(골다공증, 외상력) 동반, 또는 20세 미만에서 처음 시작된 원인 불명 통증
 * 설명되지 않는 체중 감소, 야간 발한
-* 최근 세균 감염 병력 또는 정맥 주사제 사용 병력
-* 수일에 걸쳐 서서히 진행하는 근력 약화 또는 이상 감각 (신경 압박 의심)
-* 면역 저하 또는 면역억제제 투여 중
+* 최근 세균 감염 병력 또는 정맥 주사제 사용 병력이 있으나 발열·전신 증상은 없는 경우 (척추 감염 위험 인자로서 조기 평가)
+* 지속 또는 악화하는 방사통·감각 이상 (객관적 근력 저하는 동반되지 않는 경우; 신경 압박 의심)
+* 면역 저하 또는 면역억제제 투여 중 (급성 감염 징후 없는 경우)
 
 ### <mark style="color:orange;">만성 통증</mark>
 
@@ -63,7 +64,7 @@ ICD-11(2019)은 만성 통증을 두 범주로 구분한다.\
 
 {% hint style="info" %}
 **Central sensitization (중추 감작)**\
-만성 통증의 핵심 병태생리. 말초 조직 손상이 없어도 척수·뇌의 통증 처리 시스템이 과활성화되어 통증이 지속·증폭된다. Fibromyalgia, 만성 요통, IBS, 편두통 등에서 핵심 기전으로 작용한다. 이 개념을 환자에게 설명하면 파국화 방지 및 비약물 치료(CBT·운동) 수용도를 높이는 데 도움이 된다.
+일부 만성 통증, 특히 nociplastic component가 큰 통증에서 중요한 병태생리 기전이다. 척수·뇌의 통각 처리 과정이 증폭되어 말초 자극에 비해 과도한 통증, 이상통증(allodynia), 통각과민(hyperalgesia) 등이 나타날 수 있다. Nociplastic pain과 central sensitization은 밀접하지만 동의어는 아니며, 모든 만성 통증을 중추 감작으로 설명할 수는 없다. 이 개념을 환자에게 적절히 설명하면 파국화 방지 및 비약물 치료(CBT·운동) 수용도를 높이는 데 도움이 된다.
 {% endhint %}
 
 #### <mark style="color:$primary;">**유형**</mark>
@@ -79,7 +80,8 @@ ICD-11(2019)은 만성 통증을 두 범주로 구분한다.\
 
 **신경병증성(neuropathic) 통증**
 
-* 신경계의 손상이나 기능 장애에 의해 발생하는 작열감, 찌르는 듯한 통증, 감각 저하 또는 과민, 피부 온도 저하
+* 체성감각신경계(somatosensory nervous system)의 병변(lesion) 또는 질환(disease)에 의해 발생; 작열감, 찌르는 듯한 통증, 전격통, 감각 저하 또는 과민 등이 나타날 수 있음
+  * CRPS 등 일부 신경병증성 통증에서는 피부 온도·색 변화 등 자율신경계 소견이 동반될 수 있음
 * 예) radiculopathy/radicular pain with neuropathic features, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
 
 **노시플라스틱(nociplastic) 통증** _(IASP 2017 신규 분류)_
@@ -131,7 +133,7 @@ flowchart TD
     I -->|"Gabapentinoid+Opioid ⚠"| J
     I -->|"이상 없음"| K[재평가]
     K -->|급성: 1–2주\n만성: 2–4주| L{치료 반응}
-    L -->|Good ≥30% 감소| M[유지 → Taper 계획]
+    L -->|Good: 임상적으로 의미 있는 통증 감소 및/또는 기능 개선| M[유지 → Taper 계획]
     L -->|Poor| N[통증 유형 재평가\n→ 다른 계열 전환\n→ 병용 요법]
     N --> O{2–3차 실패\nOpioid 필요 증가\n기능 저하 지속}
     O -->|YES| P[전문과 의뢰]
@@ -154,22 +156,20 @@ flowchart TD
     B --> B2{고위험 인자}
     B2 --> BH[OUD 병력 / BZD 사용\n수면무호흡 / 고령·낙상 위험\n간·신기능 저하]
     BH -->|HIGH RISK| C[회피 또는 전문의 의뢰]
-    B1 & B2 -->|통과| D[치료 목표 문서화\n통증 ≥30% 감소\n기능 개선 구체화\n실패 시 중단 동의]
+    B1 & B2 -->|통과| D[치료 목표 문서화\n임상적으로 의미 있는 통증 감소\n기능 개선 구체화\n실패 시 중단 계획]
     D --> E[초기 처방\nIR 제제만 사용\n5–10 MME/회\n20–30 MME/d 이하]
-    E --> F{MME 위험 분류}
-    F --> F1["&lt; 20 MME/d → Low"]
-    F --> F2[20–50 MME/d → Moderate]
-    F --> F3[≥ 50 MME/d → Risk ↑]
-    F --> F4[≥ 90 MME/d → High Risk 회피]
-    F3 & F4 -->|50 MME 도달 전 재평가 필수| G
-    F1 & F2 --> G[1–4주 후 재평가]
+    E --> F{MME 및 위험도 확인}
+    F --> F1["&lt; 50 MME/d → 최소 유효 용량 유지"]
+    F --> F2["≥ 50 MME/d 고려 → 증량 전 이득·위험 재평가"]
+    F --> F3["≥ 90 MME/d → 가급적 회피 (대한통증학회 2024)"]
+    F1 & F2 & F3 --> G[1–4주 후 재평가]
     G --> H{반응 평가}
     H -->|Good| I[유지 또는 Taper 고려]
     H -->|Partial| J[5–10 MME씩 소폭 증량]
     H -->|No response| K[중단 또는 계열 전환]
-    F3 --> L{Naloxone 처방 기준}
+    E --> L{Naloxone 제공 고려?}
     L --> L1[≥50 MME/day\n호흡기 질환\nBZD/gabapentinoid 병용\n과거 overdose]
-    L1 --> M[Naloxone 공동 처방]
+    L1 --> M[Naloxone 제공/처방 고려]
     I --> N{장기 사용 종료 → Tapering}
     N --> N1[">1년: 월 10% 감량\n수주~수개월: 주 10% 감량\n단기&lt;4주: 수일간 빠른 taper"]
     N1 --> O[주의: Abrupt stop 금지\n Rapid taper 금지]
@@ -208,7 +208,7 @@ flowchart TD
 
 * 통증의 성격(침해수용성 vs 신경병성)을 구분하고, 통증의 강도(NRS)에 따라 단계적으로 접근
 * "Start Low, Go Slow"
-  * 노인, 당뇨병 환자 등에서는 신기능(eGFR)을 확인하고, 일반 용량의 50% 수준에서 시작
+  * 고령, frailty, 신·간기능 저하, CNS depressant 병용 등 약물 부작용 위험이 높은 환자에서는 저용량으로 시작하여 서서히 증량; 신배설 약물은 신기능에 따라 용량 조절
   * 기능적 목표 설정 : 환자에게 "통증 때문에 못 하던 어떤 활동을 다시 하고 싶은지"를 물어 구체적 목표를 설정
   * 병용 금기 약제 주의 : 예) benzodiazepine 복용 여부를 확인하여 마약성 진통제 처방 시 호흡 억제 위험을 차단
 
@@ -242,7 +242,7 @@ flowchart TD
 
 | 유형                    | 1차 선택                               | 비고                      |
 | --------------------- | ----------------------------------- | ----------------------- |
-| Nociceptive (경증)      | Acetaminophen 또는 NSAID              | 염증 없으면 acetaminophen 우선 |
+| Nociceptive (경증)      | Acetaminophen, 외용 또는 경구 NSAID 등              | 원인·염증 여부·환자 위험도에 따라 선택 |
 | Nociceptive (중등증\~중증) | NSAID ± 단기 opioid (신중)              | opioid는 최후 수단           |
 | Neuropathic           | Pregabalin/gabapentin 또는 Duloxetine | 삼차신경통: carbamazepine    |
 | Nociplastic           | 비약물(CBT·운동) 우선 + SNRI(duloxetine)   | NSAID 단독 효과 제한적         |
@@ -279,13 +279,13 @@ flowchart TD
 #### <mark style="color:$primary;">Step 3. 재평가 및 조정 (Re-evaluation)</mark>
 
 * 일반 진통제(NSAID 등)는 급성 1\~2주, 만성 2\~4주 이내 반응 평가; gabapentinoid 등 titration이 필요한 약제는 충분한 적정 기간(수 주) 고려; opioid는 시작 또는 증량 후 1\~4주 이내 재평가(CDC 2022)
-* 목표 달성 (통증 30% 이상 감소 & 기능 개선) 시 : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
+* 목표 달성(약 30% 이상의 clinically meaningful pain reduction 및/또는 환자에게 중요한 기능 개선) 시 : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
 * 목표 미달 (효과 부족 또는 부작용) 시
   1. 통증 유형 재검토 : 신경병성 요소가 간과되지 않았는가?
-  2. Opioid 회전 : MME는 근사 참고값일 뿐 직접적인 등가 처방량으로 사용하지 않음; 불완전 교차내성을 고려하여 계산된 equianalgesic dose보다 감량하여 시작(대략 50\~75%)하고 약제별 특성에 따라 추가 감량·개별 titration
+  2. Opioid 회전 : MME는 근사 참고값일 뿐 직접적인 등가 처방량으로 사용하지 않음; 불완전 교차내성을 고려하여 계산된 equianalgesic dose에서 통상 25\~50% 감량하여(즉 계산 용량의 약 50\~75%로) 시작하고 약제별 특성에 따라 추가 감량·개별 titration. Fentanyl·methadone 등은 단순 MME 비례 환산을 피함
   3. 중재적 시술 고려 : 신경 차단술, IMS(근육 내 자극 치료) 등 비약물적 치료 병행
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료 및 재발 예방</mark>
 
 * 균형 잡힌 건강한 식사
 * 적정 체중 관리
@@ -311,36 +311,37 @@ flowchart TD
 
 * 대상 : 비염증성 통증
   * 엉덩이/무릎 관절염에 대해서는 지속 효과가 짧으며, 요통에 대해서는 효과가 적음
-* 주의 : 간/신 장애, 혈액 응고 장애, 알코올 남용, aspirin 과민성 천식
+* 주의 : 간/신 장애, 혈액 응고 장애, 알코올 남용; aspirin/NSAID 과민성 천식 환자에서는 고용량 acetaminophen에서도 교차반응 가능성이 있어 주의
 * 부작용 : 발진, 간/신 독성; NSAID와 달리 COX 비선택적 억제 기전이 없어 임상적으로 의미 있는 GI ulcer risk는 거의 없으며, 고혈압은 고용량 장기 사용 시 일부 관찰 보고가 있으나 근거가 일관되지 않음(controversial)
   * ＞2 g/d 연속 투여 시 간 효소 수치 상승 가능 (간독성을 의미하지 않으나 모니터링 권장)
   * 치료 용량 범위 내에서는 심각한 GI 부작용 위험은 거의 없음
 * 약물 상호 작용 : warfarin(INR 연장), isoniazid, CYP450 대사 약물
 * 용량
   * 325\~650 ㎎ q4\~6h, 1 g qid; 서방형 1,300 ㎎ q8h <mark style="color:blue;">\[타이레놀]</mark>
-  * 최대 용량 : 단기 사용(≤3일) 시 4 g/d; 최근 FDA 및 주요 가이드라인에서는 3 g/d 이하 권고 추세
+  * 최대 용량 : 건강한 성인의 절대 최대용량은 4 g/d(모든 acetaminophen 함유 제품 합산); 반복적·장기 사용에서는 안전 여유를 두어 3 g/d 이하로 제한하는 임상적 접근이 흔함
   * 고령, 영양 결핍, 간 독성 위험(규칙적 음주), 간/신 장애 시 2 g/d
   * 감기약·두통약·수면제 등에도 포함된 경우가 많으므로 주의 - 누적 용량 계산
 
 ### <mark style="color:orange;">NSAID</mark>
 
-☞ [아래](001_-pain.md#nsaid-1)
+상세 내용은 아래 「NSAIDs」 섹션 참조 (☞ [바로가기](001_-pain.md#nsaid-1))
 
 ### <mark style="color:orange;">Opioids</mark>
 
 * 대상 : non-opioid analgesics에 반응하지 않는 환자에서 opioid의 위험(예: 중독, 과용, 사망)에 비하여 이득이 더 큰 경우에 적용
-* 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 항콜린 부작용(입마름, 구역, 변비, 소변 저류)
+* 부작용 : 어지럼, 소양증, 낙상(특히 고령자), 진정, 구역, 위장관 운동 저하에 의한 변비, 소변 저류
   * 고령에서는 NSAID(GI·신장·심혈관 위험)와 opioid(낙상·섬망·호흡억제·사망 위험) 모두 고위험 약물이므로, 환자의 GI·renal·CV·낙상 위험을 종합 고려하여 상황별로 선택; 가능하면 외용 NSAID 또는 acetaminophen을 우선
   * 오피오이드 유발 변비(opioid-induced constipation) : 내성이 생기지 않으므로 오피오이드 시작과 동시에 하제를 선제적으로 처방하는 것을 고려
     * [삼투성 하제](../224_/073_.md#hyperosmotics) 우선 : PEG 제제 <mark style="color:blue;">\[미랄락스]</mark> 또는 lactulose <mark style="color:blue;">\[듀파락]</mark> — 복통 부작용이 적어 만성 통증 환자에 적합
     * 반응 부족 시 [자극성 하제](../224_/073_.md#stimulant) 추가 : sennoside <mark style="color:blue;">\[아락실]</mark>, bisacodyl <mark style="color:blue;">\[둘코락스]</mark>
-* 금기 : 중증 폐/간/신 장애, 중증 뇌 손상, 마비성 장 폐쇄, 알코올 남용
+* 주요 금기 : 유의한 호흡억제, 급성 또는 중증 기관지천식의 비감시 환경, 위장관 폐쇄/마비성 장폐색 등(약제별 허가사항 확인)
+* 고위험·주의 : 중증 간·신기능 저하, 수면무호흡, 고령, 중증 두부손상, CNS depressant 또는 알코올 병용 등 — 약제 선택·용량 조절 및 모니터링 필요
 * 주의(상대적 위험 요인) : 중등도\~중증 수면무호흡증에서는 opioid 사용을 가급적 피하거나 최소화하고, 불가피하면 호흡억제 위험을 면밀히 평가·모니터링
 * 주의 : benzodiazepine 병용 시 집중력 저하, 낙상 증가 등의 위험이 있으므로 피함; 치료 시작 전 예상되는 결과에 대하여 주의 깊은 설명을 요함
 * 단기 작용 약제를 선택하여 최소 유효 용량으로 시작, 시작 후 조기에 약물 반응을 평가
 * 투여 기간 : 급성 통증에서는 예상되는 중증 통증 지속기간을 고려하여 최소 필요량만 처방; 흔한 비수술성 급성통증은 수일 이하로 충분한 경우가 많으며, CDC 2022는 절대적인 3일/7일 상한을 제시하지 않음(단, 중증 외상 등에서는 7일을 초과할 수도 있음); tramadol- ＜2주
 
-※ 약물 회전(opioid rotation) 시 다음의 이유로 MME의 50\~75%를 적용함
+※ 약물 회전(opioid rotation) 시 계산된 equianalgesic dose에서 통상 25\~50%를 감량하여, 즉 계산 용량의 약 50\~75%로 시작함
 
 1. 불완전 교차 내성 : 기존 약물에 내성이 생겼더라도 새 약물에 대한 내성은 완전히 이전되지 않으므로 새 약물은 계산된 MME보다 적은 용량으로도 동등한 효과를 냄
    * 예) 기존 opioid 총 60 MME/day 복용 중 회전 시 → 새 약물의 계산된 등가 용량(60 MME 상당)의 50\~75%인 약 30\~45 MME/day로 시작 후 반응을 보며 조정
@@ -354,12 +355,12 @@ flowchart TD
 
 #### <mark style="color:$primary;">Tramadol</mark>
 
-> ※ Tramadol은 "약한 opioid"로 분류되지만, 2022 CDC 가이드라인 이후 중독·과다 복용·사망 위험 측면에서 다른 opioid와 동일한 위험 프로파일을 가진 약물로 간주됨. 처방 시 opioid와 동일한 주의가 필요. 우리나라에서는 마약류(향정신성의약품)로 분류되어 마약류 관리법의 적용을 받음
+> ※ Tramadol은 "약한 opioid"로 분류되지만 중독·의존, 과다 복용 및 호흡억제 위험이 있어 다른 opioid와 마찬가지로 주의가 필요함. 현재 우리나라에서는 「마약류 관리에 관한 법률」상 마약류로 분류되지 않은 전문의약품임.
 
 * 노르에피네프린·세로토닌 재흡수 억제 기전으로 신경병성 통증에 유리
 * 작용 : 약한 opioid, SNRI action
 * 대사 : CYP 2D6(major), 3A4(minor)
-* 다음 약제 병용 시 부작용 증가 : MAOI, SSRI, TCA, trimebutine (\*trimebutine이opioid 수용체에 작용)
+* 다음 약제 병용 시 부작용 증가 : MAOI, SSRI, SNRI, TCA 등 serotonergic 약물 — serotonin syndrome 및 발작 위험 주의
 * 발작 역치 저하·세로토닌 증후군 주의; 경련 발생 위험이 있으므로 고령이나 간/신기능 저하자에서는 감량
 * 용법 : 50 ㎎ → 필요시 증량 100 ㎎ bid\~qid <mark style="color:blue;">\[트리돌]</mark>
 * acetaminophen 또는 NSAID 병용으로 효과 상승
@@ -384,7 +385,7 @@ flowchart TD
 #### <mark style="color:$primary;">Tapentadol</mark> _(Dual-mechanism opioid analgesic)_
 
 * 작용 : μ-opioid receptor agonist + norepinephrine reuptake inhibition의 이중 기전; 통상적 SNRI 항우울제와는 다른 별도 분류
-* 대상 : 중등증\~중증의 급성 및 만성 통증, 당뇨병신경병증
+* 대상 : 지속적인 opioid 치료가 필요한 중등증\~중증 만성 통증; neuropathic component가 동반된 통증에서 고려 가능
 * 장점 : 기존 opioid에 비하여 위장관 부작용(구역, 변비)이 적음
 * 부작용 : 어지럼, 구역, 두통, 졸음
 * 주의 : MAOI 병용 금기; SSRI/SNRI 병용 시 serotonin syndrome 위험
@@ -397,7 +398,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">Buprenorphine 패취제</mark>
 
-* μ·κ·δ 수용체 부분 작용제; 신경병성 통증에 일부 근거, 신기능 저하 환자에서 유리
+* μ-opioid receptor partial agonist 및 κ-opioid receptor antagonist; 신경병성 통증에 일부 근거, 신기능 저하 환자에서 상대적으로 유리
 * 저용량(5\~10 ㎍/h)으로 시작 → 효과 및 부작용을 관찰하며 증량; 1주 간격으로 교체 (국내 허가사항 기준) <mark style="color:blue;">\[노스판 패취]</mark>
 * 보험기준 : NSAID의 최대 용량에도 반응하지 않아 마약성 진통제를 필요로 하는 심한 통증에 1주 20㎍/h까지 인정. 1회 처방 당 최대 30일까지 인정
 
@@ -415,7 +416,6 @@ flowchart TD
 
 > **Opioid 처방 전 고위험 환자 체크리스트**\
 > □ eGFR ＜ 30 mL/min\
-> □ 항응고제 복용 중\
 > □ 연령 ≥ 75세\
 > □ 낙상 위험 (이전 낙상 병력, 균형 장애)\
 > □ 우울증 또는 기타 정신질환\
@@ -447,7 +447,7 @@ flowchart TD
 > □ 과거 opioid overdose 병력\
 > 추가 위험요인(CNS depressant 병용에 따른 호흡억제 위험 증가) :\
 > □ Gabapentinoid 병용\
-> ※ 국내에서는 naloxone 비강 스프레이(날록손염산염) 처방이 가능하나 아직 일반화되어 있지 않으며, 고위험 환자를 중심으로 처방 고려
+> ※ 국내 naloxone 비강 스프레이의 일반 외래 가용성·공급 방식은 시점에 따라 확인이 필요함. 고위험 환자에서는 국내에서 실제 이용 가능한 제형과 접근 경로를 확인하여 naloxone 제공을 고려.
 
 **서방형/지속형 제제**
 
@@ -466,7 +466,7 @@ flowchart TD
 **Opioid 회전** (Opioid rotation)
 
 * 다음의 경우 고려 : 부작용 지속, 충분한 증량에도 효과 불충분, 신기능 저하로 졸음/신경 독성 발생
-* 현재 opioid 총량의 MME를 계산 후 대체 약물의 50\~75% MME에서 시작; 부작용 및 진통 효과를 관찰하며 용량 조정
+* 현재 opioid 총량을 바탕으로 대체 약물의 equianalgesic dose를 추정한 후 통상 25\~50%를 감량하여(즉 계산 용량의 약 50\~75%로) 시작; 부작용 및 진통 효과를 관찰하며 개별 titration. Fentanyl·methadone 등은 단순 MME 비례 환산을 피함
 
 **모니터링**
 
@@ -503,7 +503,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 통증에 대한 사용은 off-label
 * 부작용 : 졸음, 입마름, 기립성 저혈압, 변비, 소변 저류, 심장 전도 장애
   * 대처 : 저용량으로 시작, 취침 시 복용
-  * 투여 전 ECG 검사, 혈압/맥박 모니터링
+  * 고령, 심혈관질환·부정맥·전도장애 위험이 있는 환자에서는 투여 전 ECG를 고려하고 혈압/맥박을 모니터링
 * 주의/금기 : 고령, 심질환(특히 전도 장애), 심한 위장 기능 장애
 * 용량 : 저용량으로 시작(고령에서는 ½ 용량으로 시작); 1주 간격으로 증량
 * amitriptyline : 항콜린 작용이 가장 큼; 10\~25 ㎎ hs, 최대 125 ㎎/d <mark style="color:blue;">\[에트라빌]</mark>
@@ -628,12 +628,12 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 ### <mark style="color:orange;">경구제</mark>
 
-* 종류에 따른 일반적 효과 차이는 없으나 환자에 따른 차이는 있음; 2주 이상 투여 후 효과 판단
+* 종류에 따른 일반적 효과 차이는 크지 않으나 환자별 반응 차이가 있음; 급성 근골격계 통증은 수일 내 반응을 평가하고, 만성 통증에서는 필요 시 1\~2주 이상 충분히 사용한 후 효과·부작용을 재평가
 * 심혈관 및 위장 부작용 위험을 고려하여 선택
 * 대사 : 대부분 간 대사
 * short-acting 약제 (반감기 ＜6시간) : ibuprofen, diclofenac, ketoprofen, indomethacin
 * long-acting 약제 (반감기 ＞6시간) : naproxen, celecoxib, nabumetone, piroxicam
-* COX-2 선택 억제제 : 소화성 궤양 위험이 보다 적음, 혈소판 응고 저해 작용이 적음; 고용량에서 심혈관 위험 증가; celecoxib, meloxicam
+* COX-2 억제 정도에 따른 분류 : coxib(선택적 COX-2 억제제) — celecoxib; preferential COX-2 inhibitor — meloxicam. 선택성이 높을수록 일반적으로 위장관 궤양 위험과 혈소판 억제는 적지만 심혈관 위험은 약제·용량·환자 위험도에 따라 고려
 * prodrug : 흡수 후 hepatic biotransformation되어 활성화; GI 문제가 약간 적고 renal prostaglandin 억제가 덜함; sulindac, nabumetone
 
 #### <mark style="color:$primary;">주의/금기</mark>
@@ -658,13 +658,13 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 #### <mark style="color:$primary;">부작용 대처</mark>
 
 * 최소 유효 용량을 최단 기간 투여
-* 아스피린의 심혈관 보호 효과 저해를 막기 위해, 저용량 아스피린을 ibuprofen보다 최소 30분\~2시간 전에 먼저 복용하거나, ibuprofen 복용 후에는 최소 8시간이 지난 후 아스피린을 복용하도록 지도; celecoxib·naproxen은 아스피린의 COX-1 결합을 방해하지 않아 시간 간격 제한 영향이 적음
+* 아스피린의 심혈관 보호 효과 저해를 줄이기 위해, immediate-release 저용량 aspirin은 ibuprofen보다 최소 30분 전에 복용하거나, ibuprofen 복용 후 최소 8시간이 지난 뒤 복용하도록 지도. 다른 NSAID와의 상호작용 가능성도 약제별로 고려
 * 장기 복용 환자에서 CBC, RFT, LFT 최소 매년, 위험 인자가 있는 환자에서는 더 자주 평가
 * 다음의 경우 NSAID 투여 중단 : LFT 정상 상한치 ＞3배, s-albumin↓, PT 연장
 * 수술 전 중단 : 속효성 NSAID- 1\~2일 전, 지속성 NSAID- 3일 전, aspirin- 1주 전 중단
 * 소화성 궤양에 대한 대처
   * H. pylori 감염 치료
-  * COX-2 억제제 선택 (aspirin과 병용 시 COX-2 억제제의 위장 보호 효과는 소멸됨)
+  * COX-2 억제제 선택 (aspirin과 병용 시 COX-2 억제제의 위장관 보호 이점은 감소함)
   * misoprostol : 위궤양 예방 효과; 소화불량 발생 가능; 200 ㎍ qid <mark style="color:blue;">\[싸이토텍]</mark> (☞ [위점막보호제](../224_/073_.md#prostaglandin-e-analogue))
   * PPI : 다음 약제를 1일 1회 복용; omeprazole 20\~40 ㎎ <mark style="color:blue;">\[오엠피]</mark>, esomeprazole 40 ㎎ <mark style="color:blue;">\[넥시움]</mark>, lansoprazole 30 ㎎ <mark style="color:blue;">\[란스톤]</mark>, dexlansoprazole 30\~60 ㎎ <mark style="color:blue;">\[덱실란트 디알]</mark>, pantoprazole 40 ㎎ <mark style="color:blue;">\[판토록]</mark>, rabeprazole 20 ㎎ <mark style="color:blue;">\[파리에트]</mark> (☞ [PPI](../224_/073_.md#proton-pump-inhibitor-ppi)) <mark style="color:$info;">※</mark>[<mark style="color:$info;">보험 적용 주의</mark>](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201\&sno=8\&mtgMtrRegSno=0007)
   * H2-blocker : 고용량(상용량의 2배 용량)으로 NSAID에 의한 소화성 궤양 예방 효과 (☞ [H1RA](../224_/073_.md#h2-h2-receptor-antagonist))
@@ -723,11 +723,27 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ### <mark style="color:orange;">주요 통증 약물 병용 금기 및 주의 리스트 (DUR)</mark>
 
-<table><thead><tr><th width="104.7894287109375">약물군</th><th width="162.2105712890625">병용 주의/금기 약물</th><th width="153.842041015625">주요 위험</th><th>임상적 대처 방안</th></tr></thead><tbody><tr><td>Opioids*</td><td>Benzodiazepines</td><td>호흡 저하, 사망 위험</td><td>가급적 병용 금기. 최소 용량 처방</td></tr><tr><td>Tramadol</td><td>SSRIs, SNRIs, TCAs</td><td>세로토닌 증후군, 발작 위험 (TCAs는 경련 역치 저하 추가)</td><td>항우울제 병용 시 세로토닌 증상 및 경련 징후 관찰</td></tr><tr><td>Tramadol</td><td>MAOIs</td><td>세로토닌 증후군, 고혈압 위기</td><td>병용 금기. MAOI 중단 후 최소 14일 경과 후 사용</td></tr><tr><td>NSAIDs</td><td>Anticoagulants (warfarin, DOAC†)</td><td>위장관 출혈 위험</td><td>PPI 병용 및 응고 수치 추적</td></tr><tr><td>NSAIDs</td><td>Corticosteroids</td><td>위궤양/천공 위험</td><td>COX-2 선택적 억제제 전환 권장</td></tr><tr><td>NSAIDs</td><td>ACEI/ARB + Diuretics (Triple Whammy‡)</td><td>급성 신손상</td><td>신기능(eGFR) 및 혈압 모니터링 필수. 3제 병용은 가급적 회피</td></tr><tr><td>NSAIDs</td><td>저용량 Aspirin</td><td>심혈관 보호 효과 감소 (ibuprofen에서 특히 문제)</td><td>aspirin 복용 2시간 이후에 NSAID 투여; naproxen 또는 COX-2 억제제 전환 고려</td></tr><tr><td>Pregabalin</td><td>Opioids</td><td>과도한 진정, 호흡 억제</td><td>각각의 시작 용량을 평소보다 감량</td></tr></tbody></table>
+<table><thead><tr><th width="104.7894287109375">약물군</th><th width="162.2105712890625">병용 주의/금기 약물</th><th width="153.842041015625">주요 위험</th><th>임상적 대처 방안</th></tr></thead><tbody><tr><td>Opioids*</td><td>Benzodiazepines</td><td>호흡 저하, 사망 위험</td><td>가급적 병용 금기. 최소 용량 처방</td></tr><tr><td>Tramadol</td><td>SSRIs, SNRIs, TCAs</td><td>세로토닌 증후군, 발작 위험 (TCAs는 경련 역치 저하 추가)</td><td>항우울제 병용 시 세로토닌 증상 및 경련 징후 관찰</td></tr><tr><td>Tramadol</td><td>MAOIs</td><td>세로토닌 증후군, 고혈압 위기</td><td>병용 금기. MAOI 중단 후 최소 14일 경과 후 사용</td></tr><tr><td>NSAIDs</td><td>Anticoagulants (warfarin, DOAC†)</td><td>위장관 출혈 위험</td><td>PPI 병용 및 응고 수치 추적</td></tr><tr><td>NSAIDs</td><td>Corticosteroids</td><td>위궤양/천공 위험</td><td>COX-2 선택적 억제제 전환 권장</td></tr><tr><td>NSAIDs</td><td>ACEI/ARB + Diuretics (Triple Whammy‡)</td><td>급성 신손상</td><td>신기능(eGFR) 및 혈압 모니터링 필수. 3제 병용은 가급적 회피</td></tr><tr><td>NSAIDs</td><td>저용량 Aspirin</td><td>심혈관 보호 효과 감소 (ibuprofen에서 특히 문제)</td><td>immediate-release 저용량 aspirin은 ibuprofen보다 최소 30분 전에, 또는 ibuprofen 복용 후 최소 8시간 뒤 투여; 다른 NSAID는 약제별 상호작용을 고려</td></tr><tr><td>Pregabalin</td><td>Opioids</td><td>과도한 진정, 호흡 억제</td><td>각각의 시작 용량을 평소보다 감량</td></tr></tbody></table>
 
 **\***&#x4F;pioid + Benzodiazepine 조합은 중추신경계 억제를 심화시켜 치명적인 호흡 정지를 유발할 수 있음. 환자가 기존에 수면제나 불안 해소제를 복용 중인지 반드시 확인\
 † DOAC(rivaroxaban, apixaban, dabigatran 등 직접 경구항응고제) 포함\
 ‡ Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 신손상 위험이 특히 높음 — 불가피한 경우 신기능 주 1회 이상 모니터링
+
+***
+
+### <mark style="color:red;">질병코드</mark>
+
+R52 상세불명의 통증
+
+M54.5 요통
+
+M54.9 등통증, 상세불명
+
+M79.7 섬유근육통
+
+G89.4 만성 통증 증후군
+
+※ 통증은 단일 질환이 아닌 증상·기전을 다루는 총론 챕터이므로, 실제 처방·청구 시에는 원인 질환이 확인되면 해당 질환 코드(예: 대상포진후신경통 B02.2, 당뇨병성 신경병증 E10~E14 등)를 우선 사용. 위 코드는 국내 KCD-8 고시와 대조 후 최종 반영.
 
 ***
 
@@ -738,6 +754,8 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 > ```
 > 부루펜 200 ㎎/T 6T #3
 > ```
+>
+> _✽급성 근골격계 통증의 1차 선택; 위장관·심혈관·신장 위험 인자가 없는 경우 최소 유효 용량으로 단기(수일) 사용_
 >
 > **처방례 2. 우울증 동반**
 >
@@ -752,6 +770,8 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 > 쎄레브렉스 200 ㎎/C 1C qd 또는
 > 울트라셋 이알 세미 2T #2 (단기 사용)
 > ```
+>
+> _✽NSAID 단독으로 조절되지 않거나 GI 위험 인자가 있는 만성 통증에서 COX-2 선택제 우선 고려; opioid 복합제는 최후 수단으로 단기 사용에 제한_
 
 ### <mark style="color:purple;">약제별 보험 급여 인정 상병 코드 매칭표</mark>
 
@@ -765,13 +785,13 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 
 ***
 
-## <mark style="color:blue;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **진통제 공통 주의사항**
 >
 > * 통증이 심할 때만 복용하지 말고, 의사의 지시에 따라 규칙적으로 복용하면 더 적은 용량으로 더 잘 조절됩니다.
 > * 음주 중에는 진통제(특히 아세트아미노펜, NSAIDs) 복용을 피하십시오. 간 손상 및 위장관 출혈 위험이 높아집니다.
-> * 여러 종류의 진통제를 동시에 복용하지 마십시오. 효과가 향상되지 않고 부작용만 증가합니다.
+> * 의사의 지시 없이 여러 진통제를 임의로 함께 복용하지 마십시오. 같은 성분이 중복되거나 NSAID를 두 종류 이상 함께 복용하면 부작용 위험이 증가할 수 있습니다.
 
 > **NSAIDs (이부프로펜, 나프록센, 셀레콕시브 등)**
 >
@@ -792,9 +812,17 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 > * 의사 처방 없이 용량을 늘리거나 임의로 중단하지 마십시오.
 > * 호흡이 느려지거나 극도로 졸리면 즉시 병원을 방문하십시오.
 
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 새로 발생한 근력 약화·감각 저하
+> * 대소변 조절 장애 또는 안장 부위(saddle) 감각 이상
+> * 발열·오한과 함께 심한 척추 통증
+> * 진통제 복용 중 호흡이 느려지거나 심하게 졸린 경우
+> * 치료에도 불구하고 통증·기능이 지속적으로 악화되는 경우
+
 ***
 
-## <mark style="color:$success;">환자 안내서</mark>
+### <mark style="color:blue;">환자 안내서</mark>
 
 :smile: **통증은 참는 것이 능사가 아닙니다 — 올바른 관리가 회복을 앞당깁니다**
 
