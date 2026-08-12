@@ -24,10 +24,7 @@
 
 ## <mark style="color:green;">분류 및 원인</mark>
 
-### <mark style="color:orange;">Cardiac (심장성)</mark>
-
-* 심장 허혈 또는 심장 구조에서 직접 기인하는 흉통
-* 흉통 전체의 약 15% 차지 (※ 원인별 빈도는 진료 환경과 연구 집단에 따라 크게 달라짐)
+### <mark style="color:orange;">심장성</mark>
 
 **허혈성**
 
@@ -39,7 +36,6 @@
 
 **비허혈성 심장성**
 
-* 급성 대동맥 증후군(대동맥박리, 대동맥류, 벽내혈종)
 * 심막염 / 심근염 / 심근심막염
 * 심부전(급성 폐부종)
 * 판막질환(승모판 탈출증, 대동맥판 역류 등)
@@ -48,22 +44,33 @@
   * 비후성 심근병증(HCM): 좌심실 박출로 인한 거친 수축기 박출성 잡음(Valsalva/기립 시 증가)
 * Takotsubo 심근병증
 
-### <mark style="color:orange;">Possible Cardiac (심장성 가능)</mark>
+### <mark style="color:orange;">대혈관성</mark>
 
-* 심장 기원 가능성을 완전히 배제할 수 없는 상태. 추가 평가 필요
-* 흉통 특성이나 위험 인자가 허혈성이지만 검사에서 확인되지 않은 경우
-* 폐색전증(심장에 직접적 영향을 미치는 비허혈성 원인)
-* 비특이적 ECG 변화 동반 흉통
-* 심장 외 원인이 확인되기 전까지의 미분류 흉통
+* 급성 대동맥 증후군(Acute aortic syndrome, AAS): 대동맥 박리, 벽내혈종, 침투성 동맥경화 궤양
+* 대동맥류 파열
 
-### <mark style="color:orange;">Noncardiac (비심장성)</mark>
+### <mark style="color:orange;">폐·흉막성</mark>
 
-* 심장 질환이 의심되지 않는 흉통
-* 근골격 (\~50%, 진료 환경에 따라 차이) : 늑연골염, Tietze 증후군, 늑골 골절, 신경근병증, 섬유근통
-* 위장관 (\~20%, 진료 환경에 따라 차이) : 역류성 식도염, 식도연축, 식도천공, 위염, 소화성 궤양, 담석증
-* 호흡기 : 기흉, 흉막염, 폐렴, 폐암
+* 폐색전증
+* 기흉(특히 긴장성 기흉)
+* 흉막염, 폐렴, 폐암
   * 자연기흉 (Spontaneous pneumothorax): 키가 크고 마른 젊은 남성(10\~30대)에서 빈발; 별다른 외상 없이 갑자기 발생하는 편측 흉통 + 호흡곤란이 특징
-* 기타 : 공황장애, 불안장애, 대상포진
+
+### <mark style="color:orange;">위장관성</mark>
+
+* 역류성 식도염, 식도연축
+* 식도 파열
+* 위염, 소화성 궤양, 담석증
+
+### <mark style="color:orange;">근골격성</mark>
+
+* 늑연골염, Tietze 증후군, 늑골 골절, 신경근병증, 섬유근통
+* 1차 진료에서는 흔한 원인이지만, 흉벽 압박으로 통증이 재현되더라도 ACS를 완전히 배제할 수는 없음
+
+### <mark style="color:orange;">기타</mark>
+
+* 공황장애, 불안장애
+* 대상포진
   * 대상포진 (Herpes Zoster): 발진 출현 전(pre-eruptive) 수일\~1주간은 피부 분절 (dermatome)을 따르는 편측성 흉통만 나타나 ACS로 오인하기 쉬움; 통증 분포가 dermatome 패턴이면 감별이 필요; 피부 분절성 통증과 국소 allodynia(가벼운 접촉에도 심한 통증)는 대상포진 전구기를 시사할 수 있으나 특이적이지 않으며, 발진이 없으면 다른 원인을 배제할 수 없음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -97,7 +104,7 @@
 * 새로 발견된 심잡음 `판막 기능이상` `유두근 허혈`
 * 설명할 수 없는 체중 감소 `악성 종양` `만성 중증 질환`
 
-## <mark style="color:green;">검사</mark>
+## <mark style="color:green;">진단</mark>
 
 * 진찰, vital sign (pulse oximetry 포함), 병력 청취
 * 12-Lead ECG : 심장 허혈이 의심되는 모든 환자에서 시행
@@ -112,6 +119,8 @@
   * 정상 ECG에서도 ACS 환자의 최대 6%가 응급실에서 퇴원할 수 있음
   * 좌회선동맥·우관상동맥 폐색은 표준 12유도에서 '전기적 침묵' 가능 → 후벽 MI 의심 시 V7-V9 추가
   * 좌심실 비대, 각차단, 심실 페이싱은 허혈 소견을 가릴 수 있음
+
+***
 
 ```mermaid
 flowchart TD
@@ -144,20 +153,35 @@ flowchart TD
 
 <p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 4</mark></em></p>
 
-#### <mark style="color:$primary;">실험실 검사 (심장 기원 평가)</mark>
+***
 
-* 검사 항목 : CBC, 고감도 심장 트로포닌 (hs-cTn), CRP, fibrinogen, homocysteine, lipoprotein, triglyceride, brain natriuretic peptide, prothrombin
+#### <mark style="color:$primary;">실험실 검사</mark>
+
+**기본/핵심 검사**
+
+* 고감도 심장 트로포닌(hs-cTn): ACS가 의심되는 경우 serial 측정
+
+**임상 상황에 따라 선택**
+
+* CBC: 빈혈, 감염, 출혈 의심
+* 전해질, Cr/eGFR, glucose: 부정맥·대사 이상 평가, 신기능 및 조영제 검사 고려
+* BNP/NT-proBNP: 심부전 의심
+* D-dimer: 적절히 선별된 PE 또는 AAS 의심 환자
+* CRP/ESR: 심낭염·심근염 등 염증성 질환 의심
+* Coagulation profile: 항응고제 사용, 출혈 또는 시술 가능성 등에서 고려
 
 **hs-cTn**
 
 * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
 * hs-cTn의 99th percentile 상한치(URL)는 성별 특이적(sex-specific)이며, 여성이 남성보다 낮은 경향이 있음; 단일(남녀 통합) cut-off 적용 시 여성에서 NSTEMI 과소진단·진단 지연 위험이 있어 assay별 성별 특이 기준값 적용이 권고됨 (2021 AHA/ACC Chest Pain Guideline)
 * 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증, 심방세동, 격렬한 운동 후 등에서도 상승할 수 있으므로 baseline 대비 동적 변화(Rise and/or Fall, Δ)가 급성 MI 진단의 핵심임; **단독 수치만으로 과잉 진단하지 않도록 주의** — acute myocardial injury(rise/fall + ≥99th percentile)와 acute MI(injury + 허혈의 임상적 근거)는 구분되는 개념임
-* 초기값이 검출 한계(LoD) 미만 또는 assay별 rule-out cut-off 이하이면 NSTEMI 배제 가능(rule-out); assay-specific rule-in threshold 및 임상 맥락(허혈 증상·ECG 소견 등)을 충족하면 rule-in; 경계값이면 1시간 또는 3시간 후 재측정하여 절대 변화량(Δ, absolute change)으로 판단 - 이를 신속 배제·확진 프로토콜(CDP)이라 함
+* 초기값이 검출 한계(LoD) 미만 또는 assay별 rule-out cut-off 이하이면 임상 맥락과 증상 발현 시점을 함께 고려하여 NSTEMI 배제(rule-out)를 시도할 수 있음; assay-specific rule-in threshold 및 허혈 증상·ECG 소견 등을 충족하면 rule-in; 경계값이면 검증된 0/1h 또는 0/2h 등 assay-specific CDP에 따라 재측정하고 절대 변화량(Δ, absolute change)을 함께 판단
 
-<table><thead><tr><th width="140">알고리즘</th><th width="140">재측정 시점</th><th>특징</th></tr></thead><tbody><tr><td>ESC 0/1h</td><td>0시간, 1시간</td><td>가장 빠르고 광범위하게 검증됨; 응급실 체류시간 단축에 유리; assay별 고유 cut-off 필요</td></tr><tr><td>ESC 0/2h (대안)</td><td>0시간, 2시간</td><td>0/1h 시행이 어려운 상황의 대안</td></tr><tr><td>AHA/ACC 0/2h</td><td>0시간, 2시간</td><td>현실적 대안; HEART score 등 임상 위험도와 병합 판단 권장</td></tr><tr><td>0/3h (전통적)</td><td>0시간, 3시간</td><td>기존의 serial troponin 접근법; 현재는 검증된 hs-cTn 0/1h 또는 0/2h CDP가 선호되며, 0/3h는 일부 상황(예: early presenter, 검증된 0/1h·0/2h 프로토콜 부재 시)에서 사용 가능</td></tr></tbody></table>
+<table><thead><tr><th width="170">알고리즘</th><th width="140">재측정 시점</th><th>특징</th></tr></thead><tbody><tr><td>ESC 0/1h</td><td>0시간, 1시간</td><td>빠르고 광범위하게 검증됨; assay별 고유 cut-off와 절대 변화량 기준 필요</td></tr><tr><td>ESC 0/2h (대안)</td><td>0시간, 2시간</td><td>0/1h 시행이 어려운 상황의 검증된 대안; assay별 기준 적용</td></tr><tr><td>기타 검증된 hs-cTn CDP</td><td>기관·assay별</td><td>0/1h, 0/2h 등 검증된 프로토콜을 임상 위험도 평가와 함께 적용</td></tr><tr><td>0/3h (전통적)</td><td>0시간, 3시간</td><td>현재는 검증된 hs-cTn 신속 CDP가 선호되며, 해당 프로토콜을 사용할 수 없는 일부 상황에서 고려</td></tr></tbody></table>
 
-\* Early presenter 주의 : 증상 발현 후 2–3시간 미만인 경우 단일 측정으로 rule-out 시 false negative 가능; 0/1h 또는 0/3h 프로토콜에서도 증상 시작 ＜2–3시간이면 반복 측정 필수 \* Assay별 cut-off 수치가 상이하므로 검사 기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 해당 제조사의 rule-out/rule-in 기준값을 반드시 확인하여 적용할 것 \* 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
+_<mark style="color:$info;">AHA/ACC는 단일한 고정 0/2h 알고리듬을 지정하기보다 검사기관의 hs-cTn assay에 대해 검증된 clinical decision pathway(CDP)를 적용할 것을 권장함.</mark>_
+
+\* Early presenter 주의 : 증상 발현 후 2–3시간 미만인 경우 단일 측정으로 rule-out 시 false negative 가능; 0/1h 또는 0/2h 등 신속 CDP에서도 증상 시작 ＜2–3시간이면 반복 측정 필수 \* Assay별 cut-off 수치가 상이하므로 검사 기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 해당 제조사의 rule-out/rule-in 기준값을 반드시 확인하여 적용할 것 \* 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
 
 #### <mark style="color:$primary;">영상 검사</mark>
 
@@ -179,10 +203,7 @@ _\*CCTA 활용 추세: 저\~중등위험 급성 흉통(acute chest pain)에서 E
 
 ### <mark style="color:orange;">위험도 평가 도구</mark>
 
-| 상황                    | 권장 도구                       |
-| --------------------- | --------------------------- |
-| 1차 진료 (외래, 급성·비급성 모두) | MHS, INTERCHEST             |
-| 응급실 / 1차 진료 급성 흉통     | HEART Score + hs-cTn 기반 CDP |
+<table><thead><tr><th width="230">상황</th><th>권장 도구</th></tr></thead><tbody><tr><td>1차 진료 (외래, 급성·비급성 모두)</td><td>MHS, INTERCHEST</td></tr><tr><td>응급실 / 1차 진료 급성 흉통</td><td>HEART Score + hs-cTn 기반 CDP</td></tr></tbody></table>
 
 * _MHS/INTERCHEST: CAD 사전 확률 추정에 특화; 검사 전 단계에서 활용_
 * _HEART: 단기 MACE 예측(원 연구는 6주, 현재 임상 CDP는 흔히 30일 기준 사용); hs-cTn과 병합 시 disposition 결정에 유용_
@@ -204,13 +225,84 @@ _\*CCTA 활용 추세: 저\~중등위험 급성 흉통(acute chest pain)에서 E
 * History, ECG, Age, Risk factors, Troponin 5개 항목, 각 0–2점, 총 0–10점
 * ACS 단기 예후(원 연구: 6주 내 MACE; 현재 임상 CDP: 흔히 30일 기준) 예측 도구; AHA 권고 scoring tool
 
-<table><thead><tr><th width="101.57894897460938">항목</th><th width="48.4210205078125">점수</th><th width="507.0666809082031">기준</th></tr></thead><tbody><tr><td><strong>H</strong>istory</td><td>2</td><td>허혈성 심질환의 전형적 흉통 3가지 모두 해당</td></tr><tr><td></td><td>1</td><td>허혈 가능성이 중간 정도인 병력 (위 3가지 중 1~2가지만 해당)*</td></tr><tr><td></td><td>0</td><td>심장 기원 가능성이 낮은 병력</td></tr><tr><td><strong>E</strong>CG</td><td>2</td><td>LBBB·LVH·digoxin에 의하지 않은 유의한 ST 편위(하강 또는 상승)</td></tr><tr><td></td><td>1</td><td>ST 편위 없는 LBBB, LVH, digoxin 효과, 또는 기존의 재분극 이상</td></tr><tr><td></td><td>0</td><td>정상</td></tr><tr><td><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td></td><td>1</td><td>45~64세</td></tr><tr><td></td><td>0</td><td>&#x3C;45세</td></tr><tr><td><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험 인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI＞30, CAD 가족력) 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환) 병력</td></tr><tr><td></td><td>1</td><td>1~2개의 위험 인자</td></tr><tr><td></td><td>0</td><td>위험 인자 없음</td></tr><tr><td><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td></td><td>1</td><td>ULN의 1~3배 상승</td></tr><tr><td></td><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
+<table><thead><tr><th width="101.57894897460938">항목</th><th width="48.4210205078125">점수</th><th width="507.0666809082031">기준</th></tr></thead><tbody><tr><td><strong>H</strong>istory</td><td>2</td><td>ACS가 매우 의심되는 병력(highly suspicious)</td></tr><tr><td></td><td>1</td><td>ACS가 중등도로 의심되는 병력(moderately suspicious)</td></tr><tr><td></td><td>0</td><td>ACS가 거의 의심되지 않는 병력(slightly suspicious)</td></tr><tr><td><strong>E</strong>CG</td><td>2</td><td>LBBB·LVH·digoxin에 의하지 않은 유의한 ST 편위(하강 또는 상승)</td></tr><tr><td></td><td>1</td><td>ST 편위 없는 LBBB, LVH, digoxin 효과, 또는 기존의 재분극 이상</td></tr><tr><td></td><td>0</td><td>정상</td></tr><tr><td><strong>A</strong>ge</td><td>2</td><td>≥65세</td></tr><tr><td></td><td>1</td><td>45~64세</td></tr><tr><td></td><td>0</td><td>&#x3C;45세</td></tr><tr><td><strong>R</strong>isk factors</td><td>2</td><td>3개 이상의 심혈관 위험 인자(고혈압, 고지혈증, 당뇨, 흡연, 비만 BMI＞30, CAD 가족력) 또는 죽상동맥경화증(CAD, 뇌졸중, 말초혈관질환) 병력</td></tr><tr><td></td><td>1</td><td>1~2개의 위험 인자</td></tr><tr><td></td><td>0</td><td>위험 인자 없음</td></tr><tr><td><strong>T</strong>roponin</td><td>2</td><td>정상 상한치(ULN)의 3배 초과 상승</td></tr><tr><td></td><td>1</td><td>ULN의 1~3배 상승</td></tr><tr><td></td><td>0</td><td>정상 범위 이내</td></tr></tbody></table>
 
-▶판정 : 0\~3점 = 저위험(6주 내 MACE \~2%, 퇴원 고려) → 외래 추적, 4\~6점 = 중등위험(입원·추가 검사) → 관찰 입원, 7\~10점 = 고위험(적극적 처치) → 침습적 평가 고려; 저위험이더라도 임상 맥락(증상 지속, 변화 등)을 반드시 종합하여 최종 판단 ☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
+▶판정 : 0\~3점 = 낮은 위험을 시사, 4\~6점 = 중등도 위험, 7\~10점 = 높은 위험을 시사. **HEART score 단독으로 ACS 배제 또는 퇴원을 결정하지 않으며**, ECG와 serial hs-cTn을 포함한 검증된 CDP에서 30일 death/MACE 위험이 ＜1%인 저위험 환자에서 조기 퇴원 및 외래 추적을 고려함 ☞ [계산기](https://www.mdcalc.com/calc/1752/heart-score-major-cardiac-events)
 
-_<mark style="color:$info;">\*HEART score 원문의 "비전형적(atypical)" 표현은 scoring 도구 자체의 용어임. 2021 AHA/ACC는 임상 기술 시 "atypical" 대신 "possibly cardiac" 사용을 권고함.</mark>_
+_<mark style="color:$info;">HEART의 History 항목은 전형적 협심증 3요소의 단순 개수로 배점하지 않음. 통증 성상·유발/완화 인자·방사통·동반 증상 등을 종합한 임상적 판단(gestalt)으로 평가하며, 전형적 협심증 요소는 판단의 참고 자료로 활용할 수 있음.</mark>_
 
-_<mark style="color:$info;">HEART score는 단기 MACE 위험도 평가에 사용되며, 원 연구는 6주 MACE를 평가했으나 현재 임상 CDP(clinical decision pathway)에서는 30일 MACE 기준이 흔히 사용됨 (2021 AHA/ACC Chest Pain Guideline: 저위험 = 30일 death/MACE ＜1%).</mark>_
+_<mark style="color:$info;">HEART score 원문의 "비전형적(atypical)" 표현은 scoring 도구 자체의 용어임. 2021 AHA/ACC는 임상 기술 시 "atypical" 대신 "possibly cardiac" 사용을 권고함. HEART 원 연구는 6주 MACE를 평가했으나 현재 임상 CDP에서는 흔히 30일 MACE를 기준으로 위험도를 판단함.</mark>_
+
+***
+
+### <mark style="color:orange;">급성 흉통의 초기 접근 알고리듬</mark>
+
+{% hint style="danger" %}
+**🔴 1차 진료 Triage — 먼저 물어야 할 3가지**
+
+1. **생명 위협 가능한가?** — ACS / 대동맥 박리 / PE / 긴장성 기흉 / 식도 파열 / 심낭 압전 중 하나라도 해당 → **즉시 응급실 이송**
+2. **ECG에 이상이 있는가?** — 허혈성 ST 변화, 새로운 LBBB에서 급성 허혈 의심, 지속성 빈맥/서맥·혈역학적 이상 동반 부정맥 또는 임상적으로 유의한 신규 부정맥 → **즉시 응급실 이송**
+3. **트로포닌 상승 또는 고위험 병력이 있는가?** — 상승 또는 이전 CAD/다발 위험인자 → **즉시 응급실 이송**
+
+**위 3가지 중 하나라도 YES → ER**
+{% endhint %}
+
+{% hint style="warning" %}
+**⚠️ 흉통 진료 시 흔한 인지 오류 — 반드시 피할 것**
+
+* "젊으니까 → 심장 문제 아닐 것" ✕ (SCAD·심근염·약물 연축 가능)
+* "ECG 정상 → 안심" ✕ (정상 ECG에서도 ACS 약 6% 존재)
+* "압통 있음 → ACS 아님" ✕ (압통 재현은 ACS 가능성을 낮추지만 배제하지 못함)
+* "NTG 반응 → ACS 확진" ✕ (식도 연축도 NTG에 반응함)
+* "Burning pain → GERD만" ✕ (ACS에서도 burning 양상 가능)
+* "제산제 반응 → GERD" ✕ (ACS에서도 상복부 증상이 제산제로 일시 호전 가능)
+{% endhint %}
+
+```mermaid
+flowchart TD
+    A(["급성 흉통?"]) -->|예| B["병력 청취 + 신체 검진<br>활력징후 평가"]
+    A -->|아니오| Z["안정형 흉통 평가"]
+
+    B --> L{"혈역학적 불안정 또는<br>즉시 생명위협 원인 의심?"}
+    L -->|예| R["응급 처치와 이송 동시 진행<br>ACS / AAS / PE / 긴장성 기흉<br>심낭압전 / 식도 파열"]
+    L -->|아니오| C["ECG 시행 ± hs-cTn"]
+
+    C --> Q{"STEMI 또는<br>고위험 ACS 소견?"}
+    Q -->|예| D["ACS 가이드라인 따름<br>즉시 응급실/PCI 가능 병원 이송"]
+    Q -->|아니오| E["임상 위험도 + serial hs-cTn<br>원인별 평가"]
+
+    E --> G["NSTE-ACS"]
+    E --> H["급성 대동맥 증후군"]
+    E --> I["폐색전증"]
+    E --> J["급성 심근심막염"]
+    E --> K["기타 심폐/비심장 원인"]
+
+    style L fill:#fff9c4,stroke:#ffe082
+    style R fill:#b71c1c,color:#fff
+    style Q fill:#fff9c4,stroke:#ffe082
+    style D fill:#d32f2f,color:#fff
+    style G fill:#e65100,color:#fff
+    style H fill:#b71c1c,color:#fff
+    style I fill:#1565c0,color:#fff
+    style J fill:#4a148c,color:#fff
+    style K fill:#1b5e20,color:#fff
+```
+
+_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</mark>_
+
+✽ `Z[안정형 흉통 평가]` 분지는 PTP(사전 검사 확률) 기반 검사 전략으로 이어짐 — 상세 알고리듬은 협심증 챕터 참조(☞ [협심증](../097_-angina-pectoris.md))
+
+***
+
+### <mark style="color:orange;">증상/병력에 따른 감별</mark>
+
+#### <mark style="color:$primary;">급성 흉통</mark>
+
+<div align="left"><figure><img src="../.gitbook/assets/흉통10.JPG" alt="급성 흉통의 증상 및 병력에 따른 감별 흐름도"><figcaption>급성 흉통의 증상·병력에 따른 감별</figcaption></figure></div>
+
+#### <mark style="color:$primary;">만성 흉통</mark>
+
+<div align="left"><figure><img src="../.gitbook/assets/흉통11.JPG" alt="만성 흉통의 증상 및 병력에 따른 감별 흐름도"><figcaption>만성 흉통의 증상·병력에 따른 감별</figcaption></figure></div>
 
 ## <mark style="color:green;">심장 기원 흉통</mark>
 
@@ -220,11 +312,11 @@ _<mark style="color:$info;">HEART score는 단기 MACE 위험도 평가에 사�
 
 ### <mark style="color:orange;">Pericarditis</mark>
 
-<table><thead><tr><th width="106.05267333984375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>variable: 수 시간–수일; 급성·재발성·만성으로 분류</td></tr><tr><td><strong>증상</strong></td><td>pleuritic, sharp; 눕거나 심호흡·기침 시 악화</td></tr><tr><td><strong>부위</strong></td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge)</td></tr><tr><td><strong>동반 특징</strong></td><td>앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br>※ 진단: 흉통·friction rub·광범위 ST 상승/PR 하강·새로운 심낭 삼출(new pericardial effusion) 중 ≥2개 (2025 ESC Guidelines for the management of myocarditis and pericarditis)<br>※ Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>※ 고위험: 발열 ＞38°C, 대량 삼출, 심낭압전, NSAIDs 무반응</td></tr></tbody></table>
+<table><thead><tr><th width="106.05267333984375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>variable: 수 시간–수일; 급성·재발성·만성으로 분류</td></tr><tr><td><strong>증상</strong></td><td>pleuritic, sharp; 눕거나 심호흡·기침 시 악화</td></tr><tr><td><strong>부위</strong></td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge)</td></tr><tr><td><strong>동반 특징</strong></td><td>앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br>※ 진단: 흉통·friction rub·광범위 ST 상승/PR 하강·새로운 심낭 삼출(new pericardial effusion) 중 ≥2개 (2025 ESC Guidelines for the management of myocarditis and pericarditis)<br>※ Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>※ 주요 고위험 인자: 발열 ＞38°C, subacute onset, 대량 심낭삼출, 심낭압전, NSAIDs/항염증 치료에 반응하지 않음<br>※ 추가 위험인자: 면역억제 상태, 외상, 경구 항응고제 사용, myocarditis 동반</td></tr></tbody></table>
 
 ### <mark style="color:orange;">Acute aortic syndrome</mark>
 
-<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>HTN, 기저 결합조직 질환; 대동맥박동 의심 잡음; 말초 맥박 소실·비대칭<br>※ 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>※ 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>※ AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>※ 진단 전략 : ADD-RS 0–1점 + D-dimer ＜500 ng/mL → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline)</td></tr></tbody></table>
+<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>HTN, 기저 결합조직 질환; 대동맥박동 의심 잡음; 말초 맥박 소실·비대칭<br>※ 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>※ 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>※ 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>※ AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>※ 진단 전략 : ADD-RS 0–1점 + D-dimer ＜500 ng/mL → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline)</td></tr></tbody></table>
 
 \*등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨
 
@@ -234,8 +326,8 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 * 급성 심근 허혈로 인한 일련의 임상증후군
 * 분류 : unstable angina, ST elevation MI (STEMI), non–ST segment elevation MI (NSTEMI)
-* ACS 초기 평가의 핵심 원칙: **A**bnormal ECG(즉각 ECG 시행) → **C**linical context(임상 맥락 및 검사 결과 종합) → **S**table(혈역학적 안정 여부 확인)
-* ACS 의심 ECG 소견 : ST elevation, Q wave 존재, new T-wave inversions
+* ACS 의심 시 즉시 12-lead ECG를 시행하고 혈역학적 안정 여부, 임상 맥락, serial hs-cTn 결과를 함께 평가
+* ACS/급성 허혈을 시사하는 ECG 소견 : 새로운 또는 동적인 ST elevation/depression, 새로운 또는 동적인 T-wave inversion 등; pathologic Q wave는 이전 또는 진행된 MI를 시사할 수 있으므로 임상 맥락과 이전 ECG를 함께 비교
   * new LBBB 단독은 더 이상 STEMI equivalent로 보지 않음; LBBB 또는 우심실 페이싱(RV paced rhythm) 동반 시 Sgarbossa 기준(또는 modified Smith-Sgarbossa 기준) 적용 권장 — 두 경우 모두 표준 ST 편위 판독이 제약되므로 동일하게 적용
 
 #### <mark style="color:$primary;">급성 심근경색 가능성</mark>
@@ -303,19 +395,21 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 ▶ PE의 사전확률이 매우 낮은 환자에서 PERC 8가지 모두 음성이면 추가 PE 검사가 필요하지 않음 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 
-## <mark style="color:green;">의뢰 전 초기 처치</mark>
+## <mark style="background-color:$warning;">Management</mark>
+
+### <mark style="color:orange;">의뢰 전 초기 처치</mark>
 
  ※ STEMI·대동맥 박리 의심 시 처치와 이송을 동시에 진행
 
-#### <mark style="color:$primary;">4대 응급 흉통 감별 - ACS / 폐색전증 / 대동맥 박리 / 공황발작</mark>
+#### <mark style="color:$primary;">생명위협 급성 흉통 감별</mark>
 
-<table><thead><tr><th width="110">구분</th><th width="140">ACS</th><th width="155">Pulmonary Embolism</th><th width="160">Aortic Dissection</th><th>Panic Attack</th></tr></thead><tbody><tr><td><strong>시작</strong></td><td>점진적 ↑ (수분)</td><td>갑작스러움</td><td>순간 최대 강도</td><td>갑작스러움 (수분 내 peak)</td></tr><tr><td><strong>통증 성상</strong></td><td>압박, 조임, 무거움</td><td>흡기 시 악화 ± 압박감</td><td>찢어짐/칼로 베는 느낌</td><td>조임, 답답함, 비특이</td></tr><tr><td><strong>위치/방사</strong></td><td>흉골 뒤 → 팔/턱/등</td><td>편측 흉부, 측부</td><td>전흉부 → 등/복부 이동</td><td>비특이, 국소화 어려움</td></tr><tr><td><strong>유발</strong></td><td>운동, 스트레스</td><td>활동/휴식 무관</td><td>갑작스러운 발생</td><td>스트레스/특정 상황</td></tr><tr><td><strong>지속</strong></td><td>수분–30분+</td><td>수분–수시간</td><td>지속적, 감소 없음</td><td>보통 10–30분</td></tr><tr><td><strong>호흡곤란</strong></td><td>흔함</td><td>핵심 소견</td><td>가능</td><td>과호흡 동반</td></tr><tr><td><strong>활력징후</strong></td><td>정상~불안정</td><td>빈맥/저산소</td><td>BP 차이/저혈압 가능</td><td>대개 안정</td></tr><tr><td><strong>특징적 단서</strong></td><td>발한, 오심, 방사통</td><td>DVT 증상, 최근 수술/고정</td><td>pulse deficit, 양측 BP 차 ≥15–20 ㎜Hg</td><td>죽을 것 같은 공포, 재발성</td></tr><tr><td><strong>신체 진찰</strong></td><td>S4, MR murmur 가능</td><td>하지 부종/압통</td><td>AR murmur, pulse asymmetry</td><td>정상</td></tr><tr><td><strong>ECG</strong></td><td>ST 변화/비특이</td><td>S1Q3T3, sinus tachycardia (비특이)</td><td>비특이</td><td>정상</td></tr><tr><td><strong>Troponin</strong></td><td>↑ (동적 변화)</td><td>↑ 가능 (RV strain)</td><td>↑ 가능</td><td>정상</td></tr></tbody></table>
+<table><thead><tr><th width="120">질환</th><th width="150">통증/시작</th><th>주요 단서</th><th>초기 대응</th></tr></thead><tbody><tr><td><strong>ACS</strong></td><td>압박·조임·무거움; 수분에 걸쳐 증가 가능</td><td>팔·턱·등 방사, 발한, 오심, 호흡곤란; ECG 허혈 변화 또는 hs-cTn 동적 상승</td><td>ECG + serial hs-cTn; STEMI이면 즉시 재관류 가능한 병원으로 이송</td></tr><tr><td><strong>Acute aortic syndrome</strong></td><td>갑자기 최대 강도; 찢어지거나 칼로 베는 듯한 통증</td><td>등·복부로 이동, pulse/BP 비대칭, 새 AR 잡음, 신경학적 결손</td><td>즉각 이송; 고위험이면 D-dimer로 CTA를 지연하지 않음</td></tr><tr><td><strong>Pulmonary embolism</strong></td><td>갑작스러운 pleuritic pain ± pressure</td><td>호흡곤란, 빈맥, 저산소, DVT 소견, 최근 수술·고정</td><td>혈역학 평가; 사전확률에 따라 PERC/D-dimer/CTPA 전략</td></tr><tr><td><strong>Tension pneumothorax</strong></td><td>갑작스러운 편측 pleuritic pain</td><td>심한 호흡곤란, 편측 호흡음 감소/소실, 저혈압; 기관 변위는 후기 소견</td><td>임상적으로 의심되면 영상 기다리지 말고 즉시 감압 후 흉관 삽입으로 연결</td></tr><tr><td><strong>Cardiac tamponade</strong></td><td>흉통 또는 흉부 불편감 + 호흡곤란</td><td>저혈압·빈맥·JVP 상승, muffled heart sound, pulsus paradoxus, 심초음파 소견</td><td>즉각 응급 평가·이송; 혈역학적 불안정 시 긴급 배액 필요</td></tr><tr><td><strong>Esophageal rupture</strong></td><td>심한 구토/구역질 후 갑작스러운 흉통</td><td>피하기종, 호흡곤란, 발열/패혈증, 쇼크</td><td>금식, 즉각 응급 이송 및 외과적 평가</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">ACS 의심 시 처치</mark>
 
-* Aspirin 162\~325 mg을 즉시 씹어서 투여 (loading dose); 아스피린 알레르기 또는 활동성 소화관 출혈 시 금기
+* Aspirin 162\~325 ㎎을 즉시 씹어서 투여 (loading dose); 아스피린 알레르기 또는 활동성 소화관 출혈 시 금기
 * Nitroglycerin 0.4 ㎎ 설하 투여; 5분 간격 최대 3회
-  * 금기: 수축기 혈압 ＜90 ㎜Hg, 48시간 내 PDE-5 억제제(실데나필 등) 복용, 우심실 경색 의심
+  * 금기: 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), 우심실 경색 의심
 * **산소**: 저산소혈증(예: SpO₂ ＜90%)이 있는 경우 투여; 정상 산소포화도에서 routine oxygen은 권고하지 않음 (호흡곤란 증상만으로 투여 확대하지 않도록 주의)
 * STEMI 확인 또는 강력 의심 시 → 즉시 PCI 가능 병원으로 이송; first medical contact–device time 최소화, PCI 가능 병원에서는 door-to-device ≤90분 목표
 
@@ -323,7 +417,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 * 활력징후 안정 + Wells score 중등도 이상 → 즉시 응급실 이송
 * 활력징후 불안정(저혈압·저산소) → 즉각 이송; 이송 중 산소 투여
-* Anticoagulation 시작 여부는 진단 확인 후 결정이 원칙이나, 이송 지연 + 고위험 PE 의심 시 이송 전 항응고제 투여 고려
+* 1차 진료에서는 신속한 이송과 확진 검사를 우선하며 항응고제 투여로 이송을 지연하지 않음. 다만 임상적 PE 가능성이 높고 영상검사가 상당히 지연되며 출혈 위험이 낮은 경우에는 응급의학/전문의 판단하에 확진 전 경험적 항응고를 고려할 수 있음
 
 #### <mark style="color:$primary;">대동맥 박리 의심 시 처치</mark>
 
@@ -376,7 +470,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
  _※ **PPI 진단적 치료 시험 (PPI trial)** 심장 원인을 배제한 후 GERD가 의심되면 PPI trial을 고려할 수 있으나, PPI 반응만으로 GERD를 확진할 수 없음._
 
-<mark style="color:red;">**Alarm signs (즉시 추가 평가 필요)**</mark>
+<mark style="color:$danger;">**Alarm signs (즉시 추가 평가 필요)**</mark>
 
 * 연하 곤란(dysphagia) 또는 연하 통증(odynophagia)
 * 의도치 않은 체중 감소
@@ -392,78 +486,44 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ***
 
-### <mark style="color:orange;">급성 흉통의 초기 접근 알고리듬</mark>
+### <mark style="color:red;">질병코드</mark>
 
-{% hint style="danger" %}
-**🔴 1차 진료 Triage — 먼저 물어야 할 3가지**
+R07.1 숨쉴 때의 흉통
 
-1. **생명 위협 가능한가?** — ACS / 대동맥 박리 / PE / 긴장성 기흉 / 식도 파열 / 심낭 압전 중 하나라도 해당 → **즉시 응급실 이송**
-2. **ECG에 이상이 있는가?** — ST 변화·새로운 LBBB·부정맥 → **즉시 응급실 이송**
-3. **트로포닌 상승 또는 고위험 병력이 있는가?** — 상승 또는 이전 CAD/다발 위험인자 → **즉시 응급실 이송**
+R07.2 심장부의 통증
 
-**위 3가지 중 하나라도 YES → ER**
-{% endhint %}
+R07.3 기타 흉통
 
-{% hint style="warning" %}
-**⚠️ 흉통 진료 시 흔한 인지 오류 — 반드시 피할 것**
-
-* "젊으니까 → 심장 문제 아닐 것" ✕ (SCAD·심근염·약물 연축 가능)
-* "ECG 정상 → 안심" ✕ (정상 ECG에서도 ACS 약 6% 존재)
-* "압통 있음 → ACS 아님" ✕ (압통 재현은 ACS 가능성을 낮추지만 배제하지 못함)
-* "NTG 반응 → ACS 확진" ✕ (식도 연축도 NTG에 반응함)
-* "Burning pain → GERD만" ✕ (ACS에서도 burning 양상 가능)
-* "제산제 반응 → GERD" ✕ (ACS에서도 상복부 증상이 제산제로 일시 호전 가능)
-{% endhint %}
-
-```mermaid
-flowchart TD
-    A(["급성 흉통?"]) -->|예| B["병력 청취 + 신체 검진"]
-    A -->|아니오| Z["안정형 흉통 평가"]
-
-    B --> C["ECG 시행"]
-
-    C --> P["심장 원인 가능성?"]
-    P -->|아니오| F["비심장 원인 평가"]
-    P -->|예| Q["STEMI?"]
-
-    Q -->|예| D["STEMI 가이드라인 따름<br>☞ 초기처치 섹션 참조<br>Door-to-device ≤90분 목표"]
-    Q -->|아니오| E["의심 원인별 알고리듬"]
-
-    E --> G["ACS"]
-    E --> H["급성 대동맥 증후군"]
-    E --> I["폐색전증"]
-    E --> J["급성 심근심막염"]
-    E --> K["판막질환"]
-
-    style P fill:#fff9c4,stroke:#ffe082
-    style Q fill:#fff9c4,stroke:#ffe082
-    style D fill:#d32f2f,color:#fff
-    style G fill:#e65100,color:#fff
-    style H fill:#b71c1c,color:#fff
-    style I fill:#1565c0,color:#fff
-    style J fill:#4a148c,color:#fff
-    style K fill:#1b5e20,color:#fff
-```
-
-_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</mark>_
-
-✽ `Z[안정형 흉통 평가]` 분지는 PTP(사전 검사 확률) 기반 검사 전략으로 이어짐 — 상세 알고리듬은 협심증 챕터 참조(☞ [협심증](../097_-angina-pectoris.md))
-
-### <mark style="color:orange;">증상/병력에 따른 감별</mark>
-
-#### <mark style="color:$primary;">급성 흉통</mark>
-
-<div align="left"><figure><img src="../.gitbook/assets/흉통10.JPG" alt=""><figcaption></figcaption></figure></div>
-
-#### <mark style="color:$primary;">만성 흉통</mark>
-
-<div align="left"><figure><img src="../.gitbook/assets/흉통11.JPG" alt=""><figcaption></figcaption></figure></div>
+R07.4 상세불명의 흉통
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+### <mark style="color:purple;">처방례</mark>
 
-R07.4 상세불명의 흉통
+> **처방례 1. ACS 의심 — 응급 초기 처치 및 즉시 이송**
+>
+> ```
+> Aspirin 162~325 ㎎  1회 씹어서 복용 (loading dose)
+> Nitroglycerin 0.4 ㎎ 설하정  5분 간격 최대 3회
+> ```
+>
+> _✽ 이 처방은 외래 귀가 처방이 아니라 응급실 이송 전 초기 처치임 — ACS 의심 환자는 처방 후 귀가시키는 것이 아니라 즉시 이송 대상임. Aspirin은 알레르기·활동성 소화관 출혈 시 금기; NTG는 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), 우심실 경색 의심 시 금기. 기존에 협심증으로 NTG를 처방받은 환자가 아니라면 임의 투여하지 말고 119/의료진 지시에 따를 것_
+
+> **처방례 2. 응급질환을 배제한 GERD 의심 흉통**
+>
+> ```
+> Esomeprazole 40 ㎎/T  1T  qd  4주 (PPI trial)
+> ```
+>
+> _✽ ACS·PE·대동맥 박리 등 생명 위협 원인을 충분히 배제한 후에만 시행하는 진단적 치료 시험임. PPI 반응이 있다고 GERD가 확진되는 것은 아니며, 반응이 없거나 재발 시 재평가 필요_
+
+> **처방례 3. 응급질환을 배제한 근골격성 흉통**
+>
+> ```
+> Acetaminophen 500 ㎎/T  1~2T  q6~8h  필요시
+> ```
+>
+> _✽ 흉벽 압통으로 통증이 재현되고 다른 red flag가 없을 때 사용; NSAID 병용 시 위장관·신장·심혈관 위험을 고려해 개별 판단. 압통 재현은 ACS 가능성을 낮추지만 완전히 배제하지는 못하므로, 통증 양상이 변하거나 지속되면 재평가 필요_
 
 ***
 
@@ -508,30 +568,13 @@ R07.4 상세불명의 흉통
 * 호흡 곤란, 어지럼, 실신이 함께 발생하는 경우
 * 안정 시에도 흉통이 지속되거나 점점 심해지는 경우
 * 이전에 협심증을 진단받은 분이 니트로글리세린 3정 투여 후에도 흉통이 지속되는 경우
+* 고령자·당뇨 환자·여성은 통증 없이 호흡곤란, 메스꺼움, 극심한 피로만 나타나도 심장 응급일 수 있습니다
 
-#### <mark style="color:$primary;">흉통 시 이렇게 하세요</mark>
+#### <mark style="color:$primary;">흉통 자가 체크리스트</mark>
 
-* **즉시 안정** : 활동을 멈추고 편안한 자세로 쉬십시오
-* **니트로글리세린** : 협심증을 진단받은 분은 설하정 1정을 혀 아래에 놓고 녹이십시오. 5분 후에도 호전이 없으면 즉시 119에 신고하십시오. 신고 후 대기하면서 2정째를 복용할 수 있으며, 최대 3정까지 가능합니다
-* **아스피린** : 심근경색이 의심되면 119에 신고하고, 119 또는 의료진의 안내에 따라 아스피린 복용 여부와 용량을 결정하십시오
+이 체크리스트는 응급 상황 여부를 확인하고 의료진에게 증상을 정확히 전달하기 위한 도구입니다. **원인을 명확히 설명하기 어려운 새로운 흉통, 특히 갑자기 발생하거나 반복·지속되는 흉통은 아래 항목과 무관하게 반드시 진료를 받으십시오.**
 
-#### <mark style="color:$primary;">비심장성 흉통(역류성 식도염 등)의 관리</mark>
-
-* 과식·야식·기름진 음식·카페인·음주를 줄이십시오
-* 식후 바로 눕지 말고 최소 2\~3시간 후에 누우십시오
-* 체중 감량과 금연이 증상 완화에 도움이 됩니다
-
-***
-
-### <mark style="color:red;">흉통 자가 체크리스트 (Self-Checklist)</mark>
-
-{% hint style="warning" %}
-이 체크리스트는 응급 상황 여부를 확인하고 의료진에게 증상을 정확히 전달하기 위한 도구입니다.
-
-**원인을 명확히 설명하기 어려운 새로운 흉통, 특히 갑자기 발생하거나 반복·지속되는 흉통은 아래 항목과 무관하게 반드시 진료를 받으십시오.**
-{% endhint %}
-
-**1 단계: 통증의 양상 (복수 응답 가능)**
+**1. 통증의 양상 (복수 응답 가능)**
 
 * [ ] 가슴 중앙이나 왼쪽이 쥐어짜듯 아프다
 * [ ] 가슴에 무거운 돌을 올려놓은 것처럼 꽉 누르는 압박감이 든다
@@ -541,14 +584,14 @@ R07.4 상세불명의 흉통
 * [ ] 숨 쉴 때마다 콕콕 찌른다
 * [ ] 특정 부위를 누르면 더 아프다
 
-**2 단계: 통증의 퍼짐 (복수 응답 가능)**
+**2. 통증의 퍼짐 (복수 응답 가능)**
 
 * [ ] 통증이 왼쪽 팔이나 어깨로 퍼진다
 * [ ] 통증이 턱, 목, 또는 등으로 퍼진다
 * [ ] 통증이 명치(상복부) 쪽으로 느껴진다
 * [ ] 통증 부위가 계속 바뀐다 (이동한다) - _대동맥 박리 시 특징적 소견: 즉각 응급 평가 필요_
 
-**3 단계: 동반 증상 (가장 중요)**
+**3. 동반 증상 (가장 중요)**
 
 * [ ] 숨이 차서 호흡하기가 매우 힘들다 (호흡곤란)
 * [ ] 식은땀이 나거나 피부가 차갑고 창백해진다
@@ -556,52 +599,35 @@ R07.4 상세불명의 흉통
 * [ ] 심하게 어지럽거나 눈앞이 캄캄해진다 (실신 전조)
 * [ ] 극심한 피로감이나 불안감이 든다
 
-{% hint style="info" %}
-고령자·당뇨 환자·여성은 통증 없이 호흡곤란, 메스꺼움, 극심한 피로만 나타나도 심장 응급일 수 있습니다.
-{% endhint %}
-
-**4 단계: 통증의 유발 및 완화 요인**
+**4. 통증의 유발 및 완화 요인**
 
 * [ ] 유발: 걷거나 계단을 오를 때, 흥분했을 때 통증이 심해진다
 * [ ] 완화: 쉬거나 앉으면 통증이 수 분 내 좋아진다
 * [ ] 지속: 쉬어도 통증이 가라앉지 않고 20\~30분 이상 계속된다
 
-***
+#### <mark style="color:$primary;">흉통 발생 시 이렇게 대처하세요</mark>
 
-### <mark style="color:red;">응급 대처 요령</mark>
+**1단계. 즉시 안정 + 119 신고**
 
-{% hint style="danger" %}
-**아래 증상 중 하나라도 해당하면 즉시 119에 신고하십시오**
-
-* 쥐어짜거나 누르는 듯한 가슴 통증이 20분 이상 지속될 때
-* 통증이 팔·턱·등으로 퍼지거나 찢어지는 듯한 느낌이 들 때
-* 식은땀·호흡곤란·극심한 피로·어지러움이 함께 나타날 때
-* 고령자·당뇨 환자·여성에서 통증 없이 호흡곤란이나 메스꺼움만 있어도 응급일 수 있습니다
-{% endhint %}
-
-**STEP 1. 즉시 119 신고 후 절대 안정**
-
-* 활동을 멈추고 가장 편안한 자세로 앉거나 눕습니다
-* 침착하게 심호흡하며 119 연결 상태를 유지합니다
+* 활동을 멈추고 가장 편안한 자세로 앉거나 누워 안정을 취하십시오
+* 증상이 20분 이상 지속되거나 심하다면 즉시 119에 신고하십시오
 * **혼자 운전하여 병원에 가지 마십시오** (운전 중 의식 소실 위험)
 
-**STEP 2. 응급 약물 복용 (의사 처방이 있는 경우에만)**
+**2단계. 처방받은 약물이 있다면 복용**
 
-> **니트로글리세린 (협심증 환자)**
->
-> * 앉은 자세에서 1정을 혀 아래에 넣고 녹입니다. 삼키지 마십시오.
-> * **5분 후에도 호전이 없으면 즉시 119에 신고하십시오.** 신고 후 대기하면서 2정째를 복용할 수 있으며, 최대 3정까지 가능합니다.
-> * ⚠️ 발기부전 치료제를 복용 중이라면 절대 사용 금지 — 실데나필(비아그라 등) 복용 후 24시간 이내, 타달라필(시알리스 등) 복용 후 48시간 이내는 치명적 저혈압 유발 가능
-
-> **아스피린 (심근경색 의심 시)**
->
-> * 아스피린 알레르기·출혈 금기가 없다면 씹어서 삼키십시오. 정확한 용량은 119 또는 의료진의 안내에 따르십시오.
-> * 씹어서 삼켜야 흡수가 빠릅니다. 니트로글리세린과 달리 아스피린은 삼켜야 효과가 있습니다.
+* 협심증으로 니트로글리세린을 처방받은 분은 위 **핵심 복약 지도**에 따라 설하정을 사용하십시오
+* 심근경색이 의심되면 아스피린 복용 여부·용량은 119 또는 의료진의 안내에 따르십시오 (자세한 복용법은 위 핵심 복약 지도 참고)
 
 {% hint style="warning" %}
 **절대 금지**\
 통증이 사라질 때까지 기다리지 마십시오 — 심장 근육은 매 분마다 손상됩니다.\
 혼자 운전하여 병원에 가지 마십시오.
 {% endhint %}
+
+#### <mark style="color:$primary;">비심장성 흉통(역류성 식도염 등)의 관리</mark>
+
+* 과식·야식·기름진 음식·카페인·음주를 줄이십시오
+* 식후 바로 눕지 말고 최소 2\~3시간 후에 누우십시오
+* 체중 감량과 금연이 증상 완화에 도움이 됩니다
 
 _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain; 질병관리청</mark>_
