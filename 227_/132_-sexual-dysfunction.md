@@ -201,7 +201,7 @@ N48.4 기질적 원인에 의한 발기부전
 
     또는 pelvic MRI 고려
 
-### 치료 방침![image](../.gitbook/assets/3ff172be-6451-40a7-bae0-466950f26cfe.JPG)
+### 치료 방침
 
 * 원인, 기저 질환 치료
 * 복용 약물 확인 및 조정
@@ -209,9 +209,13 @@ N48.4 기질적 원인에 의한 발기부전
 * 환자 및 배우자 상담, 부부간의 소통/스킨십 향상
 * 안심시킴, 성공적 관계에 대한 강박감을 줄임
 
-## 종류
+### Red Flags!
 
-### 조기사정 (Premature ejaculation)
+* 사정관, 정관 또는 요도 폐쇄
+* 정낭 또는 전립선 결석
+* 지속되거나 심한 혈성 정액
+
+## 조기사정 (Premature ejaculation)
 
 * 정의 : 질 삽입 후 거의 항상 1분 이내에 사정이 되는 사정 반사 조절 능력 장애
 * 유병률 : 미국 20\~30%
@@ -254,7 +258,7 @@ N48.4 기질적 원인에 의한 발기부전
 * α1-adrenoceptor antagonist (☞ p. 1146)
 * PDE5 inhibitor
 
-### 지연사정 (Delayed ejaculation)
+## 지연사정 (Delayed ejaculation)
 
 * 정의 : 자극, 발기 및 사정을 원하는 상태에도 불구하고 사정까지 30분 이상 지연되는 상태
 *   원인 : 심인성, 성관계에 대한 불안, 약물(항우울제, α/β-차단제, thiazide, 항정신병제, opioid, 알코올),
@@ -267,7 +271,7 @@ N48.4 기질적 원인에 의한 발기부전
 * 항우울제 복용 환자에 대하여 bupropion, buspirone, yohimbine을 관계 전 복용
 * amantadine, cyproheptadine : 일부 연구에서 효과
 
-### 무사정 (Anejaculation)
+## 무사정 (Anejaculation)
 
 * 정의 : bulbospongiosus muscle의 수축 또는 정액 방출 결핍
 *   원인 : 후복막 림프절 절제, 척수 손상, 약물(α/β-차단제, benzodiazepine, 항우울제, 항정신병제, aminocaproic acid),
@@ -275,30 +279,34 @@ N48.4 기질적 원인에 의한 발기부전
     당뇨병신경병증, radical prostatectomy, 선천성 기형(Müllerian duct cyst, Wolffian abnormality)
 * 치료 : imipramine 25\~75 ㎎ bid \[이미프라민]
 
-### 정액 역류증 (Retrograde ejaculation)
+## 정액 역류증 (Retrograde ejaculation)
 
 * 정의 : 방광으로의 정액 역류
 *   원인 : (경요도)전립선 절제, 방광 경부 수술, 광범위 골반 수술, 후복막 림프절 절제, 당뇨병신경병증,
 
     약물(α-차단제, ganglion blocker, 항정신병제), 요도 협착
 
-### 통증성 사정 (Painful ejaculation)
+## 통증성 사정 (Painful ejaculation)
 
 * 정의 : 사정 후 또는 사정 중 생식기 또는 회음부 통증
 * 원인 : 감염/염증(예: 고환염, 부고환염, 전립선염, 요도염), 사정관 폐쇄, 정낭 결석, 정관 폐쇄, 심인성
 * 치료 : α-차단제(일부에서 효과) (☞ p.668)
 
-### 무쾌감증 (Ejaculatory anhedonia)
+## 무쾌감증 (Ejaculatory anhedonia)
 
 * 정의 : 오르가즘 또는 쾌감이 없는 정상 사정
 * 원인 : 약물, 심인성, 호르몬 불균형, 성욕 감퇴
 
-### 혈정액 (Hematospermia)
+## 혈정액 (Hematospermia)
 
 * 정의 : 사정액에 혈액이 존재
 * 원인 : 감염, 염증, 결석(요로, 정낭, 전립선), 외음부 외상, 폐쇄, 낭종, 종양, 혈관 기형
 
-> **질병코드** F52 기질성 장애나 질병에 의하지 않은 성기능장애
+
+
+### **질병코드**&#x20;
+
+F52 기질성 장애나 질병에 의하지 않은 성기능장애
 
 F53 달리 분류되지 않은 산후기의 정신 및 행동 장애
 
@@ -327,9 +335,7 @@ F53 달리 분류되지 않은 산후기의 정신 및 행동 장애
 * 국소 마취제 : 성교통 시 고려 (☞ p.710)
 * estrogen : 국소제 선호; estradiol hemihydrate 0.1% \[에스트레바 겔] (☞ p.599)
 * tibolone : estrogen/progesterone에 비해 성 기능 및 질 건조에 유효 \[리비알]
-*   testosteron : 임상적으로 진단되는 폐경 후 성욕 감퇴/기능저하에 대하여 고려; 용량 비례 남성화 부작용.
-
-    투여 중 주기적 s-testosterone 모니터링을 요함; 경피제로써 1회/월 적용
+* testosteron : 임상적으로 진단되는 폐경 후 성욕 감퇴/기능저하에 대하여 고려; 용량 비례 남성화 부작용. 투여 중 주기적 s-testosterone 모니터링을 요함; 경피제로써 1회/월 적용
 * TCA : amitriptyline 10 ㎎/d, 점차 증량
 * 진경제 : gabapentin 300 ㎎ tid 점차 증량
 * PDE5i : 일반적으로 효과 없음; 1형 당뇨병, 다발경화증, 척수 손상, 항우울제 관련 시 일부에서 유효
