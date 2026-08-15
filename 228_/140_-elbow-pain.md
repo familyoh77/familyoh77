@@ -110,79 +110,53 @@ Ref. Evaluation of elbow pain in adults. AFP 2014;89(8). Table 2.
 
 ```mermaid
 graph TD
-    A["병력/신체검사<br>R/O 어깨/목 연관통"]
-   
-
-
+    A["병력/신체검사<br/>R/O 어깨/목 연관통"]
+    A --> C["Red flags"]
     A --> D["압통점"]
-    A -----> C["Red flags"]
-        A ----> E["Swelling and stiffness"]
+    A --> E["Swelling and stiffness"]
 
-
-
-    %% 압통점 branch
-    D --> D1["Lat epicondyle에 국한, 35~50세,<br/>dominant arm, 남 = 여, 운동/작업 관련"]
-    D --> D2["Med epicondyle에 국한, 40~60세,<br/>남 = 여, 외상/스트레스/운동 관련"]
-
-    D1 --> R4["Lateral epicondylitis"]
-    D2 --> R5["Medial epicondylitis"]
-
-    R4 --> T1["activity/load modification,<br/>필요 시 counterforce bracing,<br/>progressive physiotherapy/exercise,<br/>단기 진통제"]
-    R5 --> T1
-
-    T1 --> T2["지속 시 진단 재평가<br/>수개월간 적절한 보존적 치료에도 난치성이면<br/>필요 시 US/MRI 및 전문의 의뢰"]
     %% Red flags branch
-    C --> C1["외상 병력,<br/>swelling/dislocation"]
-    C --> C2["Acute hot/swollen/tender joint,<br/>ROM 제한 ± 발열"]
-    C --> C3["빠르게 증가하는<br/>mass/swelling"]
-
-    C1 --> R1["골절, 탈구<br/>(pulled elbow)"]
-    C2 --> R2["Septic arthritis"]
+    C --> C1["외상 병력,<br/>swelling<br/>/dislocation"]
+    C --> C2["Acute hot<br/>/swollen<br/>/tender <br/>joint,<br/>ROM 제한<br/> ± 발열"]
+    C --> C3["빠르게 <br/>증가하는<br/>mass<br/>/swelling"]
+    C1 --> R1["골절, 탈구<br/>(pulled <br/>elbow)"]
+    C2 --> R2["Septic <br/>arthritis"]
     C3 --> R3["Malignancy"]
-
     R1 --> X["의뢰"]
     R2 --> X
     R3 --> X
+
+    %% 압통점 branch
+    D --> D1["Lat epicondyle<br/>국한, 35~50세,<br/>dominant arm, <br/>남=여, <br/>운동/작업 관련"]
+    D --> D2["Med epicondyle<br/>국한, 40~60세,<br/>남=여, 외상/스트레스<br/>/운동 관련"]
+    D1 --> R4["Lateral <br/>epicondylitis"]
+    D2 --> R5["Medial <br/>epicondylitis"]
+    R4 --> T1["activity/load modification,<br/>prn counterforce bracing,<br/>progressive physiotherapy<br/>/exercise,<br/>단기 진통제"]
+    R5 --> T1
+    T1 --> T2["지속 시 진단 재평가<br/>수개월간 적절한 보존적 <br/>치료에도 난치성이면<br/>필요 시 US/MRI 및 의뢰"]
+
     %% Swelling and stiffness branch
-    E --> E1["양측성, 여 > 남,<br/>full ROM 소실"]
-    E --> E2["중년 남성, end ROM 소실,<br/>clicking/catching/locking"]
-
-    E1 --> R6["Inflammatory arthritis"]
+    E --> E1["양측성, <br/>여>남,<br/>full ROM <br/>소실"]
+    E --> E2["중년 남성, <br/>end ROM 소실,<br/>clicking<br/>/catching<br/>/locking"]
+    E1 --> R6["Inflammatory <br/>arthritis"]
     E2 --> R7["Osteoarthritis"]
-
     R6 --> T3["자가 항체(inflammatory arthritis) 포함<br/>혈액 검사, X-ray"]
     R7 --> T3
-
-    T3 --> T4["원인질환별 치료<br/>activity modification,<br/>증상 조절 및 재활<br/>필요 시 류마티스/정형외과 의뢰"]
-
+    T3 --> T4["원인질환별 치료<br/>activity modification,<br/>증상 조절 및 재활<br/>필요 시 의뢰"]
     T4 --> T5["보전적 치료에 반응 없거나<br/>일상생활 제한, painful locking/catching 시 의뢰<br/>(DMARDs, surgery)"]
-
-    %% Direct Styling for Maximum Compatibility
-    style A fill:#EBE4F9,stroke:#333,stroke-width:1px
-    style B fill:#FFEDEB,stroke:#333,stroke-width:1px
-    style C fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style D fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style E fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style C1 fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style C2 fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style C3 fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style D1 fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style D2 fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style E1 fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style E2 fill:#FFF5EA,stroke:#333,stroke-width:1px
-    style R1 fill:#FFEDEB,stroke:#333,stroke-width:1px
-    style R2 fill:#FFEDEB,stroke:#333,stroke-width:1px
-    style R3 fill:#FFEDEB,stroke:#333,stroke-width:1px
-    style R4 fill:#FFEDEB,stroke:#333,stroke-width:1px
-    style R5 fill:#FFEDEB,stroke:#333,stroke-width:1px
-    style R6 fill:#FFEDEB,stroke:#333,stroke-width:1px
-    style R7 fill:#FFEDEB,stroke:#333,stroke-width:1px
-    style X fill:#E3F2FD,stroke:#333,stroke-width:1px
-    style T1 fill:#E3F2FD,stroke:#333,stroke-width:1px
-    style T2 fill:#E3F2FD,stroke:#333,stroke-width:1px
-    style T3 fill:#E8F5E9,stroke:#333,stroke-width:1px
-    style T4 fill:#E3F2FD,stroke:#333,stroke-width:1px
-    style T5 fill:#E3F2FD,stroke:#333,stroke-width:1px
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef redflags fill:#f8a0c0,stroke:#d01f5a
+class C,X redflags
+classDef cgroup fill:#fcd4e6,stroke:#e0448e
+class C1,C2,C3,R1,R2,R3 cgroup
+classDef green fill:#d5f5e3,stroke:#27ae60
+class D,T1,T2 green
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class D1,D2,R4,R5 lightGreen
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class E1,E2,R6,R7,T3 sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class E,T4,T5 blue
 ```
 
 <p align="center"><strong>팔꿈치 통증 관리 알고리듬</strong></p>
