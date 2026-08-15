@@ -1,7 +1,5 @@
 # 어깨 통증 Shoulder Pain
 
-![image](../.gitbook/assets/5e660158-a642-48fe-879c-3b43185a8b39.JPG)
-
 ## 원인
 
 * 외상 : 골절, 탈구, 인대/건 파열
@@ -15,12 +13,22 @@
 * ＞6개월 지속되는 경우(치료 무관)
 * 주요 원인 : RTC 이상, adhesive capsulitis, instability, OA
 
-### 위험 인자![image](../.gitbook/assets/2d9e060d-cdbf-410a-824b-440685132d2a.JPG)
+### 위험 인자
 
 * 반복적인 overhead activity, 어깨 부하 운동 : 배드민턴, 　테니스, 야구, 배구, 역도
 * 부적절한 운동 : 준비 운동 부족, 빠른 부하 증가, 잘못된 운동 방법
 * 근력 저하 또는 불균형
 * 동반 질환 : 당뇨병, 갑상선 질환
+
+### Ref Flags!
+
+* 보존적 치료에 반응하지 않음
+* 외상(특히 고령, 청소년)
+* 원인이 불확실한 통증
+* 발열
+* 휴식 시 통증 발생
+
+
 
 ## 진단
 
@@ -38,37 +46,60 @@
 
 ### 신체검사
 
-> ✽shoulder anatomy 1, shoulder anatomy 2, shoulder muscle(3D) Ref. Woodward TW, et al. The painful shoulder: part I. Clinical evaluation.. AFP 2000;15;61(10) 　　Burbank KM, et al. Chronic shoulder pain: part I. Evaluation and diagnosis. AFP 2008;15;77(4) ![image](../.gitbook/assets/8fcc38bf-d8ae-4f18-b443-b6c659d4bc03.JPG)
+> ✽shoulder anatomy 1, shoulder anatomy 2, shoulder muscle(3D) Ref. Woodward TW, et al. The painful shoulder: part I. Clinical evaluation.. AFP 2000;15;61(10) 　　Burbank KM, et al. Chronic shoulder pain: part I. Evaluation and diagnosis. AFP 2008;15;77(4)
 
-```
-![image](images/bdcce485-8c5c-4104-b1e8-d8381a6821d7.JPG)
+#### 어깨 관절 검사 (Shoulder Examination)
 
-※ 링크 
-```
+| 검사명                                                                                                    | 검사 방법 \[양성 소견]                                               | 의심 상태                               |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------- |
+| [Apley scratch test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-2)                              | 팔을 (머리/허리) 뒤로 돌려 반대편 scapula의 상/하 부위를 만지도록 함 \[운동 범위 감소]     | RTC 이상                              |
+| [Neer's test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-5)                                     | full pronation 후 팔을 수동 full flexion \[통증/약화]                 | Subacromial impingement             |
+| [Hawkins' test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-6)                                   | 팔꿈치 및 어깨 90° 굴곡 후 수동 내회전 \[통증/약화]                            | Supraspinatus impingement           |
+| [Empty can test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-3)                                  | 팔을 옆으로 뻗고 full pronation 후 검사자가 저항을 가하면서 팔을 올리게 함 \[건측보다 약화] | RTC 이상 (supraspinatus)              |
+| [External rotation / Infraspinatus strength test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-4) | 팔을 몸에 붙이고 팔꿈치 90° 굴곡 후 검사자가 저항을 가하면서 외회전 \[건측보다 약화]          | RTC 이상 (infraspinatus, teres minor) |
+| [Lift-off test](https://www.youtube.com/watch?v=t9dSDVRbjn0)                                           | 팔을 허리 뒤로 돌려 내회전 후 검사자가 저항을 가하면서 추가로 내회전 \[건측보다 약화]           | RTC 이상 (subscapularis)              |
+| [Drop-arm test](https://www.youtube.com/watch?v=qvwYEoeHPaA)                                           | 어깨를 수동적으로 들어 올린 후(160°) 천천히 능동 하강 \[팔이 몸통에 가까워지면 drop됨]      | RTC tear                            |
+| [Cross-body test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-7)                                 | 팔을 들어(90° 굴곡) 능동 내전 \[AC joint 부위 통증]                        | AC joint 관절염                        |
+| [Apprehension test](https://www.youtube.com/watch?v=qKqJRrms4u8)                                       | 누워서 어깨 90° 외전, 팔꿈치 90° 굴곡 상태에서 검사자가 어깨를 외회전 시킴 \[통증/불안정]     | Anterior GH 불안정                     |
+| [Relocation test](https://www.youtube.com/watch?v=qKqJRrms4u8)                                         | Apprehension test 양성 시, 그 자세에서 상완골 근위부에 후방 압력 \[통증/불안정 감소]   | Anterior GH 불안정                     |
+| [Sulcus test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-10)                                    | 중립 자세에서 검사자가 팔꿈치 또는 손목을 아래로 당김 \[acromion 측/하부 함몰]           | Inferior GH 불안정                     |
+| [Clunk test](https://www.youtube.com/watch?v=lAqg39HUV7I)                                              | 누워서 팔을 머리 위로 뻗어 올림. 검사자가 어깨 뒤 상완골두에 힘을 가하면서 외회전 \[덜컹 소리, 걸림] | Labrum 이상                           |
+| [Spurling's test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-15)                                | 고개를 아픈 어깨 쪽으로 돌리고 머리를 수직 방향 아래로 누름 \[통증/방사통]                 | Cervical nerve root 이상              |
 
-> ```
-> Apley scratch test - Fig.2
-> ```
+#### 이두근 검사 (Biceps Tendon Tests)
 
-```
-Neer’s test - Fig.5
-```
+| 검사명                                                                  | 검사 방법 \[양성 소견]                                                    | 의심 상태                   |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------- |
+| [Yergason test](https://www.aafp.org/afp/2000/0515/p3079.html#fig-9) | 팔꿈치 90° 굴곡 및 pronation 후 검사자가 손목을 잡고 저항을 가하면서 supination \[통증/약화] | Biceps tendon 불안정 또는 건염 |
+| [Speed's maneuver](https://www.youtube.com/watch?v=N00gA4Pvsbw)      | supination 및 어깨 60° 굴곡 후 검사자가 손목을 잡고 저항을 가하면서 팔을 올리도록 함 \[통증/약화]  | Biceps tendon 불안정 또는 건염 |
 
-```
-Hawkins’ test - Fig.6
-Empty can test - Fig.3
-External rotation/Infraspinatus strength test - Fig.4
-Lift-off test
-Drop-arm test
-Cross-body test - Fig.7
-Apprehension test
-Relocation test
-Sulcus test - Fig.10
-Clunk test
-Spurling’s test - Fig.15
-Yergason test - Fig.9
-Speed’s maneuver
-```
+#### 어깨 감별진단 (Shoulder Differential Diagnosis)
+
+| 구분       | 주요 단서                               | 의심 상태                                                       |
+| -------- | ----------------------------------- | ----------------------------------------------------------- |
+| 통증/압통 부위 | 어깨 위쪽 통증                            | AC joint 이상, trapezius strain                               |
+|          | 외측/deltoid 통증, subacromial 압통       | RTC 이상                                                      |
+|          | 뒤쪽(scapular) 통증                     | scapulothoracic dyskinesis                                  |
+|          | 광범위 통증                              | RTC 이상, adhesive capsulitis, GH OA                          |
+|          | 다발성 trigger points                  | Non-shoulder 이상 (예: fibromyalgia)                           |
+| 통증 유발    | 팔을 비틀거나 머리 위로 올릴 때, 관절 앞쪽 통증, 근력 약화 | RTC 이상                                                      |
+|          | 고개 돌릴 때 통증, 팔꿈치 아래로 방사통             | 경추 이상                                                       |
+|          | 무거운 물건 들 때 통증                       | AC 이상                                                       |
+|          | 야간 통증                               | RTC 이상, adhesive capsulitis, 중증 GH OA                       |
+|          | Cross-body 동작 시 통증                  | AC 이상                                                       |
+|          | 외전/외회전 시 통증                         | 불안정성                                                        |
+| 운동 범위    | 현저한 능동·수동 운동 범위 감소, 강직, 만성 경과       | Adhesive capsulitis                                         |
+|          | 약간의 능동·수동 운동 범위 감소                  | GH OA                                                       |
+|          | 능동 운동 범위 감소, 수동 운동 범위 유지            | RTC 이상                                                      |
+| 연령       | <30세                                | 불안정성 (아탈구, 탈구)                                              |
+|          | >30세                                | RTC 이상 (30~~50세: tendinopathy, 40~~60세: 부분 파열, >60세: 완전 파열) |
+|          | 40\~60세                             | Adhesive capsulitis                                         |
+|          | >60세                                | GH OA                                                       |
+|          | 외상 (+) <40세                         | 탈구                                                          |
+|          | 외상 (+) >40세                         | AC 손상, RTC tear                                             |
+| 기타       | 과사용                                 | RTC 이상, AC 이상, Labrum 이상                                    |
+|          | 약화                                  | RTC 이상, GH OA                                               |
+|          | 수술 병력                               | Adhesive capsulitis, GH OA                                  |
 
 ### 원인 질환별 특징
 
@@ -81,7 +112,7 @@ Speed’s maneuver
 
 ### 증상/병력에 따른 감별
 
-통증/압통 부위
+#### 통증/압통 부위
 
 * 어깨 위쪽 통증 → AC joint 이상, trapezius strain
 * 외측/deltoid 통증, subacromial 압통 → RTC 이상
@@ -116,9 +147,11 @@ Speed’s maneuver
 
 * 과사용 → RTC 이상, AC 이상, labrum 이상
 * 약화 → RTC 이상, GH OA
-*   수술 병력 → adhesive capsulitis, GH OA
+* 수술 병력 → adhesive capsulitis, GH OA
 
-    ![image](../.gitbook/assets/3cbbb6b7-c5c1-4b69-b94c-76f803ae8db9.JPG)
+
+
+<figure><img src="../.gitbook/assets/어깨1.png" alt=""><figcaption></figcaption></figure>
 
 ## 회전근개 이상 (Rotator cuff disorder)
 
@@ -130,9 +163,7 @@ Speed’s maneuver
 #### Rotator cuff tendinitis & bursitis
 
 * 원인 : 반복적으로 팔을 머리 위로 올리는 동작(운동선수)
-*   기전 : 어깨 관절 손상 → 염증 → 근육 및 힘줄이 움직일 수 있는 관절 내 공간 감소 → 움직일 때마다 자극(마찰)
-
-    → 힘줄 약화, 파열
+* 기전 : 어깨 관절 손상 → 염증 → 근육 및 힘줄이 움직일 수 있는 관절 내 공간 감소 → 움직일 때마다 자극(마찰) → 힘줄 약화, 파열
 * impingement syndrome : tendon 또는 bursa가 뼈 사이에 끼인 상태
 
 #### Tear
@@ -148,11 +179,10 @@ Speed’s maneuver
 ### 진단
 
 * RTC tear : empty-can, 외회전, Hawkins impingement test, lift-off test, drop-arm test 양성
-*   영상 검사 : arthrography, 초음파, MRI, CT; X선 검사에서는 흔히 정상
+* 영상 검사 : arthrography, 초음파, MRI, CT; X선 검사에서는 흔히 정상
+  * 상완골두 sclerosis/cyst, acromiohumeral 간격 감소, acromial spur
 
-    •상완골두 sclerosis/cyst, acromiohumeral 간격 감소, acromial spur
-
-> ✽＞60세 무증상 환자의 50%에서 MRI상 RTC의 파열이 있음
+- [ ] ＞60세 무증상 환자의 50%에서 MRI상 RTC의 파열이 있음
 
 ## 유착 관절낭염 (Adhesive capsulitis), 동결견 (Frozen shoulder)
 
@@ -166,32 +196,20 @@ Speed’s maneuver
 ### 원인 및 위험 인자
 
 * 원인 : 불확실; 만성 염증성 반응(fibroblastic proliferation) 추정
-*   위험 인자 : 외상, ≥40세, 앉아서 일하는 직업 또는 생활 습관, 장기간의 팔/어깨 활동 제한(예: 수술 후 팔 고정, 침대 생활,
-
-    잘 사용하지 않는 팔), 여성
-
-    • 관련 질환 : 당뇨병(가장 흔함; 기전 불명), 갑상선항진증/결절, Dupuytren contracture, 경추간판 질환, atherosclerosis,
-
-    neurologic Dz.(예: stroke, 파킨슨병), 자가 면역 질환
+* 위험 인자 : 외상, ≥40세, 앉아서 일하는 직업 또는 생활 습관, 장기간의 팔/어깨 활동 제한(예: 수술 후 팔 고정, 침대 생활, 잘 사용하지 않는 팔), 여성
+  * &#x20;관련 질환 : 당뇨병(가장 흔함; 기전 불명), 갑상선항진증/결절, Dupuytren contracture, 경추간판 질환, atherosclerosis, neurologic Dz.(예: stroke, 파킨슨병), 자가 면역 질환
 
 ### 임상 양상
 
-1.  painful freezing phase : 야간이나 환측으로 누울 때 악화되는 심한 어깨 통증의 점진적 진행. 운동 범위(ROM) 제한은 별로
-
-    없음; 1주\~10개월까지 지속
-
-    • poorly localized 어깨 통증, 압통, 강직, 근력 약화; 목과 등의 통증 동반
-2.  frozen or intermittent phase : 1년까지 지속되는 어깨 강직, ROM 제한(능동 및 수동 운동 모두 어깨 굴곡, 외전, 회전에
-
-    현저한 제한)). 보통 통증은 점차 완화되며 ROM의 마지막 부분 및 야간에 발생
+1. painful freezing phase : 야간이나 환측으로 누울 때 악화되는 심한 어깨 통증의 점진적 진행. 운동 범위(ROM) 제한은 별로 없음; 1주\~10개월까지 지속
+   * poorly localized 어깨 통증, 압통, 강직, 근력 약화; 목과 등의 통증 동반
+2. frozen or intermittent phase : 1년까지 지속되는 어깨 강직, ROM 제한(능동 및 수동 운동 모두 어깨 굴곡, 외전, 회전에 현저한 제한)). 보통 통증은 점차 완화되며 ROM의 마지막 부분 및 야간에 발생
 3. thawing or recovery phase : 1\~3년에 걸쳐 점차 호전; ROM 제한이 남을 수 있음(10%)
 
 ### 진단
 
 * 운동 범위 제한 등 임상 양상
-*   영상 검사 : 다른 질환 배제를 위해 선별적 시행;
-
-    X선상 보통 정상. MRI상 coracohumeral lig. 비후, inf joint capsule ＞5 ㎜, axillary pouch 소실
+* 영상 검사 : 다른 질환 배제를 위해 선별적 시행; X선상 보통 정상. MRI상 coracohumeral lig. 비후, inf joint capsule ＞5 ㎜, axillary pouch 소실
 * arthrography
 
 ## 상완견관절 골관절염 (Glenohumeral osteoarthritis)
@@ -262,17 +280,24 @@ Speed’s maneuver
 ### 치료 방침
 
 * 보존적 치료 : 행동 수정, 물리 치료, 약물 치료, 국소 steroid 주사
-*   회복까지 수개월 이상 소요되며 완전한 기능 회복이 불가능할 수도 있음
+* 회복까지 수개월 이상 소요되며 완전한 기능 회복이 불가능할 수도 있음
 
-    ![image](../.gitbook/assets/7eb5af53-5f15-4619-b6b0-b2d9caa60689.JPG)
+
+
+| 원인 질환                | 초기 선택                             | 추가 선택                       |
+| -------------------- | --------------------------------- | --------------------------- |
+| Acromioclavicular OA | 행동 수정; 물리 치료; 약물                  | AC 관절 국소 steroid/마취제 주사; 수술 |
+| Adhesive capsulitis  | 행동 수정; 물리 치료; 약물; 관절 내 steroid 주사 | 국소 steroid 주사; 수술           |
+| Glenohumeral 불안정증    | 행동 수정; 물리 치료                      | 수술                          |
+| Glenohumeral OA      | 행동 수정; 물리 치료; 약물                  | 국소 steroid 주사; 수술           |
+| RTC 부분 파열            | 행동 수정; 물리 치료; 약물                  | 국소 steroid 주사; 수술           |
+
+\*약물 : acetaminophen or NSAID\
+Ref. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam Physician. 2008 Feb 15;77(4). Table 1.
 
 ## 비-약물 치료
 
-### 행동 수정
-
-```
-(주의해야 하는 동작)
-```
+### 행동 수정 (주의해야 하는 동작)
 
 * bench pressing, 공 던지기 삼가
 * 머리 위로 팔 올리기 주의 : RTC 이상, GH OA
@@ -289,12 +314,8 @@ Speed’s maneuver
 
 #### Adhesive capsulitis exercise
 
-*   [Codman pendulum exercise](https://www.youtube.com/watch?v=dYQsTDnnCdQ) : 이환되지 않은 팔로 탁자를 짚고 상체를 앞으로 숙이고 이환된 팔을 늘어뜨림.
-
-    이환된 팔을 힘들이지 말고(몸을 흔들어) 천천히 좌우로 흔듦, 시계 방향 및 반시계 방향으로 작고 크게 원형 운동함
-*   [wall climbing ](https://www.youtube.com/watch?v=ocOJTXj8Xeo): 손으로 벽을 짚고 선 후 손가락으로 벽을 기어오르는 동작. 매 6 inch 오를 때마다 멈춰 유지(30초).
-
-    통증이 느껴지면 중단
+* [Codman pendulum exercise](https://www.youtube.com/watch?v=dYQsTDnnCdQ) : 이환되지 않은 팔로 탁자를 짚고 상체를 앞으로 숙이고 이환된 팔을 늘어뜨림. 이환된 팔을 힘들이지 말고(몸을 흔들어) 천천히 좌우로 흔듦, 시계 방향 및 반시계 방향으로 작고 크게 원형 운동함
+* [wall climbing ](https://www.youtube.com/watch?v=ocOJTXj8Xeo): 손으로 벽을 짚고 선 후 손가락으로 벽을 기어오르는 동작. 매 6 inch 오를 때마다 멈춰 유지(30초). 통증이 느껴지면 중단
 
 ### 기타
 
@@ -317,9 +338,8 @@ Speed’s maneuver
 
 #### Steroid 국소 주사
 
-*   대상 : 다른 보존적 요법에 반응이 부족할 때 고려
-
-    •\[미국정형외과학회] Glenohumeral OA에 대한 국소 steroid 주사는 권고하지 않음
+* 대상 : 다른 보존적 요법에 반응이 부족할 때 고려
+  * \[미국정형외과학회] Glenohumeral OA에 대한 국소 steroid 주사는 권고하지 않음
 * subacromial, glenohumeral, AC, subscapular bursa 등에 대하여 초음파 가이드 하에 시행
 * 질환 종류, 병변 부위에 따라 효과 차이가 있음; 규칙적인 NSAID 투여와 동등한 효과
 * 1년에 동일 관절에 ≤3회로 제한
@@ -331,11 +351,11 @@ Speed’s maneuver
 * suprascapular nerve block : 단기 통증 완화 효과
 * laser therapy : adhesive capsulitis에서 위약보다 효과
 * 보톡스, PRP(platelet rich plasma) : 증거 불충분
-*   수술 : 만성 질환에 대하여 4\~6개월의 적절한 보존적 치료에도 호전되지 않을 때, RTC의 기능에 중대한 변화가 있는 파열
+* 수술 : 만성 질환에 대하여 4\~6개월의 적절한 보존적 치료에도 호전되지 않을 때, RTC의 기능에 중대한 변화가 있는 파열 또는 전층 ＞1 ㎝ 파열(＜65세) 시 고려
 
-    또는 전층 ＞1 ㎝ 파열(＜65세) 시 고려
+### **질병코드**&#x20;
 
-> **질병코드** M19.01 기타 관절의 원발성 관절증, 어깨부분
+M19.01 기타 관절의 원발성 관절증, 어깨부분
 
 M25.51 관절통, 어깨부분
 
