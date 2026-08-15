@@ -110,27 +110,15 @@ Ref. Evaluation of elbow pain in adults. AFP 2014;89(8). Table 2.
 
 ```mermaid
 graph TD
-    A["병력/신체검사"]
-    B["R/O 어깨/목 연관통"]
+    A["병력/신체검사<br>R/O 어깨/목 연관통"]
+   
 
-    A --- B
 
-    A --> C["Red flags"]
     A --> D["압통점"]
-    A --> E["Swelling and stiffness"]
+    A -----> C["Red flags"]
+        A ----> E["Swelling and stiffness"]
 
-    %% Red flags branch
-    C --> C1["외상 병력,<br/>swelling/dislocation"]
-    C --> C2["Acute hot/swollen/tender joint,<br/>ROM 제한 ± 발열"]
-    C --> C3["빠르게 증가하는<br/>mass/swelling"]
 
-    C1 --> R1["골절, 탈구<br/>(pulled elbow)"]
-    C2 --> R2["Septic arthritis"]
-    C3 --> R3["Malignancy"]
-
-    R1 --> X["의뢰"]
-    R2 --> X
-    R3 --> X
 
     %% 압통점 branch
     D --> D1["Lat epicondyle에 국한, 35~50세,<br/>dominant arm, 남 = 여, 운동/작업 관련"]
@@ -143,7 +131,18 @@ graph TD
     R5 --> T1
 
     T1 --> T2["지속 시 진단 재평가<br/>수개월간 적절한 보존적 치료에도 난치성이면<br/>필요 시 US/MRI 및 전문의 의뢰"]
+    %% Red flags branch
+    C --> C1["외상 병력,<br/>swelling/dislocation"]
+    C --> C2["Acute hot/swollen/tender joint,<br/>ROM 제한 ± 발열"]
+    C --> C3["빠르게 증가하는<br/>mass/swelling"]
 
+    C1 --> R1["골절, 탈구<br/>(pulled elbow)"]
+    C2 --> R2["Septic arthritis"]
+    C3 --> R3["Malignancy"]
+
+    R1 --> X["의뢰"]
+    R2 --> X
+    R3 --> X
     %% Swelling and stiffness branch
     E --> E1["양측성, 여 > 남,<br/>full ROM 소실"]
     E --> E2["중년 남성, end ROM 소실,<br/>clicking/catching/locking"]
