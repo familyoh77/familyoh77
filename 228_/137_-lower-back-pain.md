@@ -1,39 +1,45 @@
-# 요통 Lower Back Pain
+# 요통 Low Back Pain (LBP)
 
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
-* lumbosacral spine 및 pelvic girdle의 통증
-* 대부분의 요통은 원인이 불분명한 비특이적인 것으로 수 주(4\~6주) 내 회복되며 재발이 흔함
+* 정의 : 하부 늑골연(lower rib margin)과 둔부 주름(gluteal fold) 사이에 발생하는 통증으로, 하지 방사통을 동반하거나 동반하지 않을 수 있음(WHO 기준과 정합)
+* lumbosacral spine 및 pelvic girdle의 통증을 포괄
+* 다른 이름 : lumbago
+* 대부분의 요통은 원인이 불분명한 비특이적(nonspecific) 요통(약 90%)으로, 수 주(4\~6주) 내 회복되나 재발이 흔함(1년 내 재발률 최대 50%)
+* 유병률 : 전 세계 장애(disability)의 단일 원인 1위(GBD); 평생 유병률 60\~80%
 * 급성 ＜6주(또는 4주), 아급성 6주\~12주, 만성 ＞12주(3개월)
 
-## 원인
+## <mark style="color:green;">원인</mark>
 
-* 국소/비특이적 mechanical LBP(87%) : lumbar strain/sprain(70%), disc/facet degeneration(10%), osteoporotic compression fracture(4%), spondylolisthesis(2%), 심한 scoliosis, kyphosis, asymmetric transitional vertebrae(＜1%), traumatic fracture(＜1%)
-* 하지 증상 동반 LBP(7%) : disc herniation(4%), spinal stenosis(3%)
-* 중증 전신성 원인(예: 암, 감염) ＜1%
+* 비특이적(nonspecific) 요통이 약 90%를 차지하며, 특정 병리(fracture, infection, malignancy, axial spondyloarthritis 등)가 확인되는 경우는 소수(5\~15%)
+* 전통적으로는 다음과 같이 세분하여 설명되어 왔음(Conn's Current Therapy 등) — 구조를 특정하기보다 비특이적 통증의 대략적인 구성비를 보여주는 참고 자료로 활용
+  * 국소/비특이적 mechanical LBP(87%) : lumbar strain/sprain(70%), disc/facet degeneration(10%), osteoporotic compression fracture(4%), spondylolisthesis(2%), 심한 scoliosis, kyphosis, asymmetric transitional vertebrae(＜1%), traumatic fracture(＜1%)
+  * 하지 증상 동반 LBP(7%) : disc herniation(4%), spinal stenosis(3%)
+  * 중증 전신성 원인(예: 암, 감염) ＜1%
+  * ✽이 전통적 분류의 'mechanical LBP'는 현대적 의미의 'nonspecific LBP'와 완전히 같은 개념은 아니며, compression fracture처럼 특정 구조적 원인도 일부 포함되어 있음에 유의
 
-#### 요통 유발 질환들
+#### <mark style="color:$primary;">요통 유발 질환들</mark>
 
 * Spondylosis (척추굳음증) : 척추의 관절염; disc space narrowing, facet joint의 염증성 변화
 * Anterolisthesis (전방전위) : 아래 척추에 비하여 vertebral body의 전방 전위
-* Spondylolisthesis (척추앞전위증) : spondylolysis에 의한 2차적인 anterolisthesis
+* Spondylolisthesis (척추전방전위증) : 한 척추체가 인접 척추체에 대해 전방으로 전위된 상태; 원인에 따라 퇴행성(가장 흔함, 특히 고령), 협부형(isthmic, spondylolysis에 의한 2차적 전위), 선천성/이형성, 외상성, 병적 원인 등으로 구분; Meyerding 분류(Grade I\~V, 하위 종판 대비 전위 정도)로 중증도 평가
 * Retrolisthesis (후방전위) : 바로 아래 척추에 비하여 vertebral body의 후방 전위
 * Spondylolysis (척추용해증) : pars interarticularis의 골절(보통 L5)
 * Spinal stenosis (척추관협착증) : 골 또는 연조직에 의한 vertebral canal의 narrowing; 주로 facet joints에서의 골의 비후 및 ligamentum flavum의 비후에 의함
 * Radiculopathy (신경근병증) : 신경근 장애; 해당 신경 지역의 방사통, 감각 둔화, 저림, 근육 약화
 * Sciatica (좌골신경통) : 좌골신경 지역의 통증, 감각 둔화, 저림, 하지 후방/측방으로의 방사통
-* Cauda equina syndrome (말총증후군) : 중증 요추 추간판 파열, 척추협착, 척수 감염/염증/출혈/골절, 척수의 종양, 기타 척수 손상 등에 의한 최하단 척수 신경근의 비정상적인 압박; 장 및 방광 조절 기능 상실, 서혜부 및 회음부의 감각 둔화(saddle anesthesia), 하지 약화
+* Cauda equina syndrome (말총증후군) : 중증 요추 추간판 파열, 척추협착, 척수 감염/염증/출혈/골절, 척수의 종양, 기타 척수 손상 등에 의한 최하단 척수 신경근의 비정상적인 압박; 장 및 방광 조절 기능 상실, 서혜부 및 회음부의 감각 둔화(saddle anesthesia), 하지 약화 — 신경외과적 응급
 
-### 위험 인자
+### <mark style="color:orange;">위험 인자</mark>
 
 * 연령, 유전, 낮은 유연성
 * 비만, 흡연
 * 나쁜 업무 자세, 하이힐 착용
 * 부족한 신체 활동
 * 활동 : 힘든 일, 장시간 앉거나 서 있기, 무거운 물건 들기, 허리 굽히기, 갑자기 비틀기
-* 심리적 요인 : 낮은 직무 만족도, 기분 장애(우울, 불안); 객관적 증거 없이 지속되는 경우에 의심
+* 심리사회적 요인(yellow flags) : 낮은 직무 만족도, 기분 장애(우울, 불안), 통증 관련 두려움-회피 신념(fear-avoidance belief), 낮은 자기효능감; 만성화의 가장 강력한 예측 인자 중 하나로, 객관적 이상 소견 없이 통증이 지속되는 경우 특히 고려
 
-## 임상 양상
+## <mark style="color:green;">임상 양상</mark>
 
 * 국소 통증, 척추 주위 근육 경련 및 압통
 * 관절 가동 범위 감소
@@ -41,85 +47,118 @@
 * spinal structure(근육, 인대, facet joint & disk) : 대퇴부로 방사(무릎 아래는 드묾)
 * facet : sacroiliac joint/ posterior superior iliac spine 부위로 방사
 * sacroiliac : 대퇴부, 무릎 아래로 방사
-* 요추 신경근 : 흔히 요통보다 하지통 발생; L1~~L3- hip &/or thigh, L4~~S1- knee 아래로 방사
+* 요추 신경근 : 흔히 요통보다 하지통이 더 두드러짐; L1\~L3 - hip &/or thigh, L4\~S1 - knee 아래로 방사
+* ✽구조별 방사통 위치는 서로 겹치는 경우가 많아, 통증 분포만으로 원인 구조(facet, SI joint, disk 등)를 단정할 수 없음 — 병력·신체검사·영상 소견을 종합하여 판단
 
-### Red Flags!
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-#### 급성 요통
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
-* 휴식으로 호전되지 않는 통증
-* 척추골 압통, 발열, 요로 감염
-* 신경학적 이상 소견 : 새로 발생한 요실금/변실금, 소변 정체, saddle anesthesia, 하지 약화
-* 설명할 수 없는 체중 감소
-* 심한 외상 관련(예: 교통사고, 추락)
-* 면역억제제, 정맥 투여 약물, steroid 사용
-* 고령, 당뇨, 골다공증, 악성 종양 병력&#x20;
+* Cauda equina syndrome 의심 소견 : 새로 발생한 배뇨 기능 변화(요저류, 배뇨곤란, 배뇨 감각 저하·hesitancy, 요실금 등 미묘한 초기 변화 포함), 변실금 또는 배변 기능 변화, saddle anesthesia, 양측 또는 진행하는 하지 위약·마비, 보행 장애 → 경미하거나 비전형적으로 보이더라도 CES 초기 소견일 수 있으므로 지체 없이 응급 MRI 및 즉시 신경외과/정형외과 의뢰; 진단·수술이 지연되면 영구적인 방광·직장·성기능 장애 및 하지 마비 위험이 있어 압박이 확인되면 지체 없이 감압 수술을 시행
+* 복부 대동맥류(AAA) 의심 : 고령·심혈관 위험 인자가 있는 환자의 급성 심한 요통·옆구리 통증이 박동성 복부 종괴, 좌우 맥박 차이, 찢어지는 듯한 통증과 동반되는 경우 → 파열/박리 가능성을 염두에 두고 응급 평가
+* 심한 외상 관련 발생(예: 교통사고, 고소 추락, 낙상) → 척추 골절·척수 손상 배제
+* 발열 또는 최근 감염력·균혈증 위험 요인(정맥 투여 약물 사용, 최근 시술) + 새로 발생한 심한 국소 요통·척추골 압통 → 척추 감염(척추골수염, 경막외농양) 의심 — 두 소견이 반드시 함께 있어야 하는 것은 아니며, 발열이 없어도 배제되지 않음
+* 급격히 진행하는 국소 신경학적 결손(근력 저하가 진행하는 경우)
 
-#### 만성 요통
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* 진행하는 신경학적 이상 : saddle anesthesia, 약화, 보행 장애
-* 흉통, 방광 또는 장관 기능 이상, 다른 질환 동반 또는 아픈 상태
-* 진행하는 통증, 야간 통증
-* ＜20세 또는 ＞55세에서 시작
-* 설명할 수 없는 체중 감소
-* 악성 종양 병력
+* 면역억제제, 정맥 투여 약물(마약류 등) 사용력, 최근 감염 또는 시술력 → 척추 감염 위험 증가
+* 악성 종양 병력, 설명할 수 없는 체중 감소 → 전이성 척추 종양 의심
+* 고령, 골다공증, 만성 steroid 사용 → 병적/압박 골절 위험
+* 지속적·진행성 야간통(누워도 완화되지 않음)이 암 병력, 체중 감소, 발열 등 전신 증상과 동반되는 경우
+* ＜20세 또는 ＞55세에서 새로 시작된 요통이면서, 외상·골다공증·악성종양 병력·발열 등 전신 증상·진행성 신경학적 이상 등 다른 위험 요인이 동반되는 경우(연령 단독은 특이도가 낮아 다른 소견과 함께 판단)
+* 당뇨병 또는 면역저하 환자에서 발열·균혈증 위험·심한 지속성 국소 척추통 등 척추 감염 의심 소견이 동반되는 경우; 발열·옆구리 통증·CVA tenderness·배뇨 증상이 동반되면 신우신염 등 비척추성 감염과의 감별도 함께 고려(당뇨·요로감염 자체만으로 모든 요통을 당일 의뢰할 필요는 없음)
+* 흉통이 새로 동반되는 경우 — 흉추 병변, 대동맥 질환 등 다른 원인 감별 필요
 
-## 진단
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-### 신체검사
+* 표준적 보존 치료(활동 유지, NSAID 등) 4\~6주 후에도 호전이 없는 경우
+* 다른 전신 질환이 동반되거나 전반적으로 아픈 상태(general malaise) — 단, 새로운 배뇨·배변 기능 변화가 있다면 아무리 경미해도 Tier 1(즉각 조치)로 접근
+* 심리사회적 위험 요인(우울, 불안, 낮은 직무 만족도, fear-avoidance belief) 동반 시 → 만성화 위험 평가(☞ 위험도 계층화) 및 필요시 개입
+
+## <mark style="color:green;">진단</mark>
+
+### <mark style="color:orange;">신체검사</mark>
 
 * 걸음걸이, 자세, 얼굴 표정
 * 운동 범위
 * 근육 압통, spasm, 위축
 * 반사, 강도, 감각
-* 맥박
+* 맥박(말초 혈관 질환 감별)
 * Disk herniation 평가
   * slump test : 구부정하게 앉은 자세에서 고개를 숙여 턱을 가슴에 붙이고 한쪽 다리를 올림
-  * straight leg test : 바로 누운 자세에서 다리를 쭉 펴고 ankle dorsiflex 상태로 다리를 올림
-* Saddle anesthesia 평가 : anal wink reflex(항문 주위 피부를 쓰다듬으면 항문 괄약근이 수축)
-* 고관절 평가 : FABER test, FADIR test (☞ p.773)
-* Gillet test or stork test : 반대쪽 다리를 올려 고관절과 무릎관절을 굴곡시킨 상태로 한쪽 다리로 서서 허리를 신전시킴; 요천추부 통증 시 spondylolisthesis 또는 facet OA 고려
-* Waddell sign : physical exam에 대하여 과잉 반응, 광범위한 압통; 정신적 문제 고려
+  * straight leg raise(SLR) test : 바로 누운 자세에서 다리를 쭉 펴고 ankle dorsiflex 상태로 다리를 올림; 30\~70° 사이에서 통증 재현 시 양성(민감도 高, 특이도 低)
+  * crossed(대측) SLR test : 반대측 다리 거상 시 환측 하지에 통증 재현 → 추간판탈출증에 대해 특이도 高(민감도는 낮음)
+* Cauda equina syndrome 의심 시
+  * saddle anesthesia 평가 : anal wink reflex(항문 주위 피부를 쓰다듬으면 항문 괄약근이 수축)
+  * post-void residual(PVR) bladder scan : 요저류 여부를 평가하는 보조 검사. PVR ≥200㎖이면 CES 가능성이 높아지나, 낮은 PVR만으로 CES를 배제할 수 없음 — 임상적으로 의심되면 PVR 결과와 무관하게 응급 MRI를 우선함
+  * digital rectal exam(항문 괄약근 tone)은 검사자 간 변이가 크고 민감도가 충분하지 않아, 정상이라는 이유만으로 CES를 배제해서는 안 됨
+* 고관절 평가 : FABER test, FADIR test
+* Stork test (single-leg hyperextension test) : 한쪽 다리로 서서 허리를 신전; 국소 통증 재현 시 spondylolysis(pars 결손) 시사하나 진단 정확도는 충분히 높지 않아 양성이어도 확진할 수 없으며, 임상적 의심 시 영상 검사와 함께 해석
+* Gillet test : 서 있는 자세에서 한쪽 고관절을 굴곡시키며 양측 posterior superior iliac spine(PSIS)의 움직임을 촉진 비교; 비대칭적 움직임 시 sacroiliac joint 기능 이상 시사(stork test와는 평가 대상이 다른 별개의 검사)
+* Waddell sign : 기질적 병변으로 설명되지 않는 비기질적(non-organic) 신체 징후(과도한 압통 반응, 부적절한 부위의 통증 호소 등) — 심리사회적 요인 평가의 단서로 활용하되, 꾀병의 근거로 단정하지 않음
 
-### 영상 검사
+### <mark style="color:orange;">위험도 계층화</mark>
+
+* STarT Back Screening Tool 등 검증된 위험도 계층화 도구를 초진 시 활용 고려(NICE NG59, 2020) — 신체적 요인(통증 부위·방사통 여부·기능 제한)과 심리사회적 요인(두려움-회피 신념, 우울·불안, 파국적 사고)을 함께 평가하여 저위험/중위험/고위험군으로 구분
+* 저위험군 : 안심 및 활동 유지 교육 위주의 최소 개입
+* 중위험군 : 운동·재활 프로그램 병행
+* 고위험군(심리사회적 위험 요인 뚜렷) : 다학제적 접근(운동+심리적 개입) 고려 — 조기 식별 시 만성화 예방에 도움이 될 수 있음
+
+### <mark style="color:orange;">영상 검사</mark>
 
 * 대부분 필요 없음
-  * 영상 검사가 주는 정보가 실제 통증의 원인과 무관한 경우가 많음 (✽40세 이상의 척추 촬영에서 대부분 해부학적 이상이 존재하지만 일반적으로 환자의 증상과 상관관계 없음)
+  * 영상 소견과 실제 증상 간의 상관관계는 약함(✽40세 이상의 척추 촬영에서 대부분 해부학적 이상이 존재하지만 일반적으로 환자의 증상과 상관관계 없음)
   * 대부분의 요통은 심각한 문제가 아니며 초기 치료가 동일함
   * 영상 검사 없이 환자의 증상/병력, 진찰 소견에 집중하는 것이 더 유익할 수 있음
-* 경고 증상이 있는 경우 시행
-  * CT/MRI 대상 : 신경학적 이상, 심한 신경근 증상이 동반된 운동 근육 약화, ＞6주 지속되는 신경근 증상
+* Red Flag가 있는 경우 시행
+  * MRI(1차 선택) : cauda equina syndrome, 진행하는 신경학적 결손, 감염, 종양, ＞6주 지속되는 신경근병증에서 시술·수술을 고려하는 경우 — 연부조직·신경근·경막외 공간 평가에 우수
+  * CT : 급성 외상 후 골절 평가에 특히 유용; MRI가 불가능하거나 금기인 경우의 대안
+  * 단순 비특이적 요통이나 합병되지 않은(uncomplicated) 신경근병증에서는 초기 영상 검사가 불필요
 
-### 실험실 검사
+### <mark style="color:orange;">실험실 검사</mark>
 
 * 감염, 골수 종양 의심 시 고려
 * CBC, ESR, CRP
 
-### 증상/병력에 따른 감별
+### <mark style="color:orange;">감별 진단</mark>
 
-<figure><img src="../.gitbook/assets/요통1.png" alt=""><figcaption></figcaption></figure>
+* 병력의 핵심 특징(발생 계기, 방사통 여부, 발열·전신 증상 동반, 연령, 임신 여부 등)에 따라 원인 질환을 감별
 
-### 물리적 요통 감별 진단
+***
 
-<table data-header-hidden><thead><tr><th width="105"></th><th width="96"></th><th width="93"></th><th width="89"></th><th width="97"></th><th width="93"></th><th width="83"></th></tr></thead><tbody><tr><td><strong>특징</strong></td><td><strong>근긴장</strong></td><td><strong>수핵탈출</strong></td><td><strong>골관절염</strong></td><td><strong>척추관협착</strong></td><td><strong>척추탈위증</strong></td><td><strong>척추측만증</strong></td></tr><tr><td><strong>부위</strong></td><td>허리, 편측</td><td>허리/다리, 편측</td><td>다리, 편측</td><td>다리, 양측</td><td>허리</td><td>허리</td></tr><tr><td><strong>시작</strong></td><td>급성</td><td>급성(과거력)</td><td>점진적</td><td>점진적</td><td>점진적</td><td>점진적</td></tr><tr><td><strong>Standing</strong></td><td>↑</td><td>↑</td><td>↑</td><td>↑</td><td>↑</td><td>↑</td></tr><tr><td><strong>Sitting</strong></td><td></td><td>↑</td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Bending</strong></td><td>↑</td><td>↑</td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Straight leg</strong></td><td>–</td><td>+</td><td>–</td><td>+ (stress)</td><td>–</td><td>–</td></tr><tr><td><strong>X선 이상</strong></td><td>–</td><td>–</td><td>+</td><td>+</td><td>+</td><td>+</td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/요통1.png" alt="병력 특징에 따른 요통 감별 흐름도: 낙상·손상 여부, 하지 감각저하, 연령·관절염력, 체위별 통증 양상, 발열·배뇨증상, 관절 강직, 임신 여부 등을 순차적으로 확인하여 추간판탈출증, 척추 골절, 척추앞전위증, 신우신염, 강직성 척추염, 임신 관련 요통 등을 감별"><figcaption><p>병력 기반 요통 감별 흐름도 (Ref. familydoctor.org)</p></figcaption></figure>
 
-↑=통증 증가, ↓=통증 감소, - =통증 변화 없음, +=검사상 이상 있음\
-Ref. Conn’s Current therapy 2017. Spine pain. Table 1.
+***
 
-### 만성 요통 환자에 대한 진단 및 관리 알고리듬
+### <mark style="color:orange;">물리적 요통 감별 진단</mark>
+
+<table><thead><tr><th width="140"><strong>양상</strong></th><th><strong>주요 단서</strong></th></tr></thead><tbody><tr><td>비특이적 mechanical LBP</td><td>자세·활동에 따라 변화, 국소 근육 압통·경직, 신경학적 결손 없음</td></tr><tr><td>Disc herniation / radiculopathy</td><td>하지 방사통 동반, 앉을 때 악화되는 경향, dermatomal sensory change, SLR(+)</td></tr><tr><td>Spinal stenosis</td><td>보행·신전(서 있거나 걸을 때) 시 악화(neurogenic claudication), 앉거나 앞으로 굽히면 호전 — 혈관성 파행과 감별 필요</td></tr><tr><td>Compression fracture</td><td>고령·골다공증·외상력, 국소 척추 압통, 급성 발생</td></tr><tr><td>Inflammatory back pain (예: 강직성 척추염)</td><td>젊은 연령, 아침 강직, 운동으로 호전, 휴식으로 악화</td></tr><tr><td>Infection / malignancy</td><td>발열·체중감소 등 전신 증상, 야간통, 위험 인자(면역억제, 암 병력 등) 동반</td></tr></tbody></table>
+
+✽개별 질환의 증상은 서로 겹치는 경우가 많아 이 표만으로 확진할 수 없으며, 병력·신체검사·필요시 영상 검사를 종합하여 판단\
+Ref. AAFP 2007;75(8):1181-1188; NICE NG59(2020); Conn's Current Therapy 2017(구성 참고)
+
+**신경성 파행 vs 혈관성 파행 감별 팁**
+
+* 자세 의존성 : 신경성(척추관협착)은 허리를 굽히거나 앉으면 즉시 호전(장바구니를 밀며 걷거나 자전거 타기는 편함); 혈관성은 자세와 무관하게 걷는 거리·강도에 비례해 악화
+* 정지 시 호전 속도 : 신경성은 앉거나 굽혀야 호전(단순히 서 있기만 해서는 잘 호전되지 않음); 혈관성은 그냥 멈춰 서 있기만 해도 수분 내 호전
+* 맥박 : 혈관성은 말초 맥박 감소/소실 동반 가능; 신경성은 맥박 정상
+* 급성 심한 요통·옆구리 통증에서 박동성 복부 종괴나 좌우 맥박 차이가 동반되면 파행 감별과 별개로 AAA를 우선 배제(☞ Red Flags)
+
+***
 
 ```mermaid
 flowchart TD
-    A["만성 요통"] --> B{"경고 증상? Cauda equina Synd.?"}
+    A["만성 요통"] --> B["경고 증상? Cauda equina Synd.?"]
     B -->|yes| C["의뢰"]
-    B -->|no| D{"골절 의심? (외상, 골다공증)"}
+    B -->|no| D["골절 의심? (외상, 골다공증)"]
     D -->|yes| E["X선 검사"]
-    D -->|no| F{"진행되는 신경학적 증상?<br/>or 병적 골절 위험 인자?"}
+    D -->|no| F["진행되는 신경학적 증상?<br/>or 병적 골절 위험 인자?"]
     F -->|yes| G["MRI / CT"]
     F -->|no| H["• 약물 치료 및 여러 치료 방법을 이용한 보존적 치료<br/>• 체중 관리, 운동, 스트레칭<br/>• 수술적 치료 필요성 검토"]
 
     classDef purple fill:#f0ebf8,stroke:#dcd3f0,color:#333
-    classDef yellow fill:#fffde6,stroke:#f8eeb4,color:#333
+    classDef yellow fill:#fff9c4,stroke:#ffe082,color:#333
     classDef pink fill:#fde8e8,stroke:#f8cece,color:#333
     classDef green fill:#eaf6ed,stroke:#ccebd4,color:#333
     classDef blue fill:#e8f4f8,stroke:#cee7f0,color:#333,text-align:left
@@ -131,117 +170,228 @@ flowchart TD
     class H blue
 ```
 
-Ref. Common Questions About Chronic Low Back Pain. AFP 2015;91(10). Fig 1.
+<p align="center"><strong>만성 요통 환자에 대한 진단 및 관리 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. Common Questions About Chronic Low Back Pain. AFP 2015;91(10). Fig 1.</mark></em></p>
+
+{% hint style="info" %}
+본 알고리듬은 red flag·골절·신경학적 증상 배제를 통한 기본 골격을 보여줌. WHO의 2023년 만성 원발성 요통(chronic primary low back pain) 가이드라인은 여기에 더해 생물심리사회적(biopsychosocial) 평가, 구조화된 운동 치료, 필요시 심리적 개입을 포함한 다학제적 접근을 강조함(☞ 위험도 계층화)
+{% endhint %}
 
 ***
 
-## Management
+## <mark style="background-color:$warning;">Management</mark>
 
-### 치료 방침
+### <mark style="color:orange;">치료 방침</mark>
 
 * 경고 징후가 없는 경우 환자를 안심시킴 : 대부분의 급성 요통은 특별한 치료에 관계없이 회복됨
 * 적당한 육체 활동 권고 : 대부분의 경우 침상 안정보다 활동이 효과적임
-* 약물 치료 : NSAID 또는 acetaminophen을 1차로 선택
+* 약물 치료 : 금기가 없으면 NSAID를 최소 유효 용량·최단 기간 사용을 1차로 선택; acetaminophen 단독은 효과 근거가 부족하며, NSAID 사용이 어렵거나 추가 진통이 필요한 경우 개별적으로 고려
+* 초진 시 위험도 계층화(☞ 위험도 계층화)를 통해 치료 강도를 조절
 * 4주 이상 지속되는 경우 재평가
 
-## 비-약물 치료 및 예방
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 정상 체중 유지
 * 운동, 활동 : 증상을 악화시키지 않는 수준에서의 적당한 규칙적 육체 활동
   * core strengthening exercise가 예방에 중요
-  * 주 1회의 간단한 스트레칭 운동, 하루 한 번의 허리 펴기도 증상 개선에 도움
+  * 획일적인 빈도·강도보다는 유산소 운동, 근력·코어 강화, 유연성 운동 등을 환자가 꾸준히 지속할 수 있는 형태로 개별화하여 시행하는 것이 권장됨; 가벼운 스트레칭조차 증상 개선에 도움이 될 수 있음
   * 가벼운 스트레칭으로 시작 → 수영, 수중에어로빅; 심하게 비틀기, 굽히기, 젖히기는 피함
   * 저강도 운동 : 몸통 신전근, 복근 또는 허리 강화 재활 운동, 유산소 운동, crunch exercise
-  * Mckenzie exercise : 추간판탈출증에 적용할 수 있으나 효과는 확실치 않음; 급성 손상, 척추 골절/추간판 파열 등에서는 금기; 통증 증가, 감각 저하, 이상 감각 시 중지
+  * McKenzie exercise : 추간판탈출증이 있는 일부 환자군에서 단기적 효과 가능성이 보고되나 전체 근거는 확립되어 있지 않음; 급성 손상, 척추 골절/추간판 파열 등에서는 금기; 통증 증가, 감각 저하, 이상 감각 시 중지
 * 스트레스 완화 : 우울증 등 동반된 심리적 문제 해결
 * 자세 교육 : 무거운 물건 드는 방법, 좋은 자세 교육
 * 금연
 * 찜질 : 급성 요통에 대하여 초기 수일(5일 정도) 시행; 냉/온찜질의 진통 효과는 비슷
-* 허리 지지대, 신발 깔창, 마사지, 카이로프랙틱, 척추 도수 교정 : 효과에 대한 증거 부족
+* 도수치료(manual therapy) : 운동을 포함한 치료 패키지의 일부로서만 고려(NICE NG59, 2020) — 단독 시행의 근거는 부족
+* 허리 지지대, 신발 깔창, rocker-sole 신발, 견인(traction), 침술, 초음파, TENS/PENS, 간섭파 치료 : 효과에 대한 근거가 부족하여 일상적으로 권장되지 않음(NICE NG59, 2020)
 
 - [ ] 만성 요통에서 물리 치료사에 의한 물리 치료가 보다 효과적이라는 보고가 있으나 증거는 부족
 
-## 약물 치료
+## <mark style="color:green;">약물 치료</mark>
 
-* 급성 통증 : NSAID 또는 acetaminophen으로 2\~4주 투여하면서 평가
-  * NSAID에 근육이완제를 추가하거나, NSAID와 acetaminophen을 병용할 수 있으나(NSAID 기본 투여+ acetaminophen 투여) 이에 대한 근거는 부족함
+* 급성 통증 : 금기가 없으면 NSAID를 1차로 2\~4주 투여하면서 평가; acetaminophen 단독은 근거가 약해 일상적으로 권장되지 않으나 NSAID 사용이 어렵거나 추가 진통이 필요할 때 개별적으로 고려(NICE NG59, 2020)
+  * NSAID에 근육이완제를 추가하거나, NSAID와 acetaminophen을 병용할 수 있으나(NSAID 기본 투여 + acetaminophen 투여) 이에 대한 근거는 부족함
 
-### NSAID
+### <mark style="color:orange;">NSAID</mark>
 
 (☞ [통증](../220_/001_-pain.md#nsaid))
 
-* 제제에 따른 일반적 효과 차이는 없으나 환자에 따른 차이는 있음; radicular Sx에는 효과 없음
+* 제제에 따른 일반적 효과 차이는 없으나 환자에 따른 차이는 있음; radicular Sx(좌골신경통)에는 근거가 제한적 — 사용 시 최소 유효 용량으로 최단 기간
 * 일부 연구에서 acetaminophen보다 NSAID가 효과적
 * ibuprofen : 400\~800 ㎎ tid, 최대 3,200 ㎎/d \[부루펜]
 * naproxen : 250 ㎎ tid\~500 ㎎ bid \[낙센]
 * aceclofenac : 100 ㎎ bid \[에어탈]
 * celecoxib : 200 ㎎ qd \[쎄레브렉스]
 
-### Acetaminophen
+### <mark style="color:orange;">Acetaminophen</mark>
 
-* 요통 증상 완화 효과에 대한 근거는 부족함
-* 용법 : 650\~1,300 ㎎ tid, 최대 4 g/d \[타이레놀]
+* 요통 증상 완화 효과에 대한 근거는 부족함(단독 사용은 권장되지 않음; NICE NG59 2020, WHO 2023 만성 원발성 요통 가이드라인 모두 단독 요법으로 권장하지 않음)
+* 용법 : 650\~1,300 ㎎ tid, 최대 4 g/d \[타이레놀]; 단, 고령·저체중·간질환·만성 음주자에서는 더 낮은 최대 용량 적용
 
-### 근이완제
+### <mark style="color:orange;">근이완제</mark>
 
 * 효과에 대하여 의문, 특히 만성 통증에서 효과 입증 안 됨
-* 대상 : 급만성 요통에 대하여 단기 사용 고려
+* 대상 : 근경직·근경련이 뚜렷한 급성(아급성 포함) 비특이적 요통에서 단기간 선택적으로 고려; 만성 요통에서는 일상적 사용 근거가 부족
 * 부작용 : 졸음, 어지럼, 구역
 * afloqualone : 20 ㎎ tid \[아로베스트]
-* cyclobenzaprine : 5~~10 ㎎ tid, 서방형 15~~30 ㎎ qd \[본렉스]
+* eperisone : 50 ㎎ tid \[에페신]
+* cyclobenzaprine : 5\~10 ㎎ tid, 서방형 15\~30 ㎎ qd \[본렉스]
 * tizanidine : 1\~2 ㎎ tid \[티자리드]
 
-### Benzodiazepine
+### <mark style="color:orange;">Benzodiazepine</mark>
 
 * 작용 : 근육 이완 효과
-* 주의 : 중독성 문제로 제한적 사용(단기 사용); 졸음 주의
+* 주의 : 중독성 문제로 제한적 사용(단기 사용); 졸음 주의; 급성 비특이적 요통 자체에서는 효과 근거가 매우 제한적이고, 좌골신경통에는 NICE NG59(2020)가 유효성 근거 부족·의존 위험을 이유로 명시적으로 사용하지 않도록 권고함 — 사용 시 기간을 명확히 제한하고 정기적으로 필요성을 재평가
 * diazepam : 2\~5 ㎎ tid \[디아제팜]
 
-### Opioid
+### <mark style="color:orange;">Opioid</mark>
 
-* 대상 : 심한 급성 통증에 대하여 단기 사용 또는 NSAID에 반응하지 않는 경우
-* 투여 기간 제한 : 아편성 물질- 3\~7일 이내, 트라마돌- 2주 이내
+* 대상 : NSAID가 금기이거나 내약성이 없거나 충분한 효과가 없고 다른 대안이 적절하지 않은 심한 급성 통증에 한하여, 매우 단기간 고려; 급성 좌골신경통에서 opioid의 효과에 대한 근거는 불충분함
+* 만성 요통 및 만성(＞12주) 좌골신경통에서는 장기적 이득에 대한 근거가 부족하고 의존·오남용 위험이 있어 사용을 권장하지 않음(NICE NG59 2020; WHO 2023 만성 원발성 요통 가이드라인도 만성 요통에서 opioid를 권장하지 않음)
+* 투여 기간 : 필요한 최소 기간만 사용하며 가능한 수일 이내로 제한(실무적으로 아편성 물질 3\~7일, 트라마돌 2주 이내가 참고 기준으로 흔히 제시되나 개별 guideline의 강한 근거를 가진 절대 기준은 아님); 지속이 필요하면 반드시 재평가
 *   tramadol : 100 ㎎ bid\~qid \[트리돌]
 
-    •acetaminophen 병용 \[울트라셋/세미] 또는 NSAID 병용으로 효과 상승
-* hydrocodone : 2.5~~10 ㎎ 필요시 q4~~6h
+    • acetaminophen 병용 \[울트라셋/세미] 또는 NSAID 병용으로 효과 상승
+* hydrocodone : 2.5\~10 ㎎ 필요시 q4\~6h
 
-### 항경련제 (Anticonvulsants)
+### <mark style="color:orange;">항경련제 (Anticonvulsants)</mark>
 
-* 대상 : 말초 신경병증성 통증, 신경근병증; 일부 환자에서 단기적 효과
-* topiramate : 50~~400 ㎎ #1~~2 \[토파맥스]
+{% hint style="info" %}
+gabapentin, pregabalin 등 gabapentinoid 계열 및 기타 항경련제는 최근 근거(NICE NG59 2020 개정, 다수의 체계적 문헌고찰)에서 좌골신경통·신경근병증에 대한 유의한 효과가 확인되지 않았고, 졸림·어지럼 등 이상반응 위험은 증가하는 것으로 나타나 요통·좌골신경통 치료 목적으로 일상적으로 권장하지 않음(NICE는 요통·좌골신경통 모두에서 항경련제 사용을 권장하지 않음).
+{% endhint %}
 
-### 항우울제
+* 항경련제(topiramate 등)를 요통·신경근병증에 사용하는 것에 대한 근거는 확립되어 있지 않음
+* 단, 요통·좌골신경통과는 별개로 확립된 말초 신경병증성 통증 적응증(예: 당뇨병성 신경병증)이 동반되어 있다면 해당 질환의 치료 지침에 따라 사용할 수 있음 — 요통·좌골신경통 자체의 치료를 위해 시범 투여하는 것과는 구분
+
+### <mark style="color:orange;">항우울제</mark>
 
 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md))
 
-* 항우울제에는 항우울 작용과 별개의 진통 효과가 있음; SNRI, TCA (☞ p.13)
-* 대상 : 만성 요통, 우울 동반 환자 (✽만성 통증 환자에서 흔히 우울증이 동반됨)
-* 우울증 치료 때보다 효과가 빠르게 나타나며(약 1주) 저용량에서도 효과가 있음
+* 항우울제에는 항우울 작용과 별개의 진통 효과가 있음; SNRI, TCA
+* 순수 비특이적 축성(axial) 요통 자체를 치료할 목적의 SSRI/SNRI/TCA 일상적 사용은 권장되지 않음(NICE NG59, 2020)
+* 대상 : 명확한 우울·불안 등 정신건강 적응증이 있거나, 별도의 신경병증성 통증 요소가 동반된 경우 해당 적응증에 따라 사용(✽만성 통증 환자에서 흔히 우울증이 동반됨); 신경병증성 통증 등 별도의 승인·근거가 있는 적응증에서의 진통 효과는 항우울 효과와 별개로 나타날 수 있음
 * 투여 중 부작용 등 위해보다 효과와 필요성이 더 우월한지 여부를 정기적으로 평가
 * duloxetine : 30\~60 ㎎ qd \[심발타]
 
-### 국소 Steroid 주사
+### <mark style="color:orange;">국소 Steroid 주사</mark>
 
+* 단순 축성 요통(방사통 없는 경우)에 대한 경막외/척추 주사는 근거가 부족하여 일상적으로 권장되지 않음(NICE NG59, 2020)
+* 급성의 심한(acute and severe) 좌골신경통에서는 경막외 국소마취제+스테로이드 주사를 보존적 치료 실패를 전제조건으로 하지 않고 단기 증상 완화 목적으로 고려할 수 있음(NICE NG59, 2020); 다만 중심성 척추관협착증에 의한 신경성 파행에는 사용하지 않음. 국내 실무에서는 보존적 치료에 반응하지 않는 지속성 신경근통에 한해 전문과 판단하에 시행하는 경우가 많으며, 급성 중증 좌골신경통에서는 이보다 조기에 고려할 수도 있음(☞ 시술 및 기타 처치) — 통증클리닉/척추 전문과 협진
 * triamcinolone
 
-### Herbal therapy
+### <mark style="color:orange;">Herbal therapy</mark>
 
-* Devil’s claw(악마의 발톱), Willow bark(버드나무 껍질), Capsicum : 일부 환자에서 유효
+* Devil's claw(악마의 발톱), Willow bark(버드나무 껍질), Capsicum : 일부 환자에서 유효; 근거 수준은 낮음
 
+## <mark style="color:green;">시술 및 기타 처치</mark>
 
+* 경막외 스테로이드 주사(ESI)/선택적 신경근 차단술 : 급성의 심한 좌골신경통에서는 조기에 고려할 수 있고(NICE NG59, 2020), 만성 신경근병증에서는 보존적 치료에 반응하지 않는 경우 단기적 증상 완화 목적으로 고려; 중심성 척추관협착증에 의한 신경성 파행에는 사용하지 않음; 장기적 기능 개선 효과는 제한적
+* Radiofrequency denervation : 만성 facet-mediated 요통에서 비수술적 치료 실패 + 진단적 medial branch block에 양성 반응을 보인 경우에 한해 고려(NICE NG59, 2020)
+* 골다공증성 압박골절에서의 vertebroplasty/kyphoplasty : sham-controlled 연구에서 위약 대비 뚜렷한 우위를 보이지 못한 경우가 있어 근거가 논란이 됨 — 통증클리닉/정형외과·신경외과와 개별 상담 후 결정
+* 수술적 치료 의뢰 기준(척추외과/신경외과) : cauda equina syndrome(응급), 진행하는 근력 저하, ＞6\~12주 보존적 치료에 반응하지 않는 심한 좌골신경통(특히 기능 제한이 심한 경우), 증상성 척추관협착증으로 삶의 질 저하가 뚜렷한 경우
 
-### **질병코드**&#x20;
+***
 
-M54.5 요통
+### <mark style="color:red;">질병코드</mark>
 
+M54.56 요통, 요추부
 
+M54.46 좌골신경통을 동반한 요통, 요추부(하지 방사통 동반 시)
 
-## 처방례
+M54.5, M54.4는 KCD-8(2021년 시행) 개정으로 부위별 세분류(M54.50\~M54.59, M54.40\~M54.49)로 세분화되었으며, 2026년 1월 1일부터는 KCD-9(2025년 7월 고시)가 시행 중 — 세분류 코드 자체는 KCD-9에서도 유지되나, 청구 프로그램의 상병마스터가 최신 KCD-9 기준으로 갱신되어 있는지 확인 필요. 임상 양상에 맞는 단일 코드 선택 필요(방사통이 뚜렷하면 M54.4x, 순수 축성 통증이면 M54.5x)
 
-처방례 1. 급성 통증\
-낙센 에프 500 ㎎/T 2T #2\
-아로베스트 정 20 ㎎/T 2T #2\
-처방례 2. 만성 통증\
-쎄레브렉스 200 ㎎/C 1C qd\
-센시발 25 ㎎/T 1T hs
+***
+
+## <mark style="color:purple;">처방례</mark>
+
+> **처방례 1. 급성 통증**
+>
+> ```
+> 낙센 에프 500 ㎎/T  2T #2
+> 아로베스트 정 20 ㎎/T  2T #2
+> ```
+>
+> _✽비특이적 급성 요통 1차 치료; NSAID 단독으로 반응이 불충분하거나 근경직이 뚜렷할 때 근이완제 단기 병용. 2\~4주 이내 재평가하고, 침상안정보다 일상 활동 유지를 권고_
+
+> **처방례 2. 만성 통증(우울·수면 장애 동반)**
+>
+> ```
+> 쎄레브렉스 200 ㎎/C  1C qd
+> 센시발 25 ㎎/T  1T hs
+> ```
+>
+> _✽만성 요통에 우울·수면장애 등이 동반된 경우의 예시. 순수 축성 통증만 있고 우울·신경병증성 요소가 없는 환자에서는 항우울제의 근거가 약하므로 일상적으로 추가하지 않음; 저용량 TCA는 취침 전 투여로 진정 작용을 수면에 활용_
+
+> **처방례 3. 급성 좌골신경통(중등도\~중증)**
+>
+> ```
+> 낙센 에프 500 ㎎/T  2T #2
+> 트리돌 50 ㎎/C  필요시 1C q6h (최대 2주)
+> ```
+>
+> _✽방사통이 뚜렷한 급성 좌골신경통에서 NSAID 단독으로 조절되지 않고 다른 대안이 마땅치 않을 때 매우 단기간 고려할 수 있는 예시이며, "표준 1차 치료"로 일상적으로 사용하는 처방은 아님(급성 좌골신경통에서 opioid의 효과 근거는 불충분함). gabapentinoid(pregabalin, gabapentin)는 유효성 근거가 부족하여 1차로 추가하지 않으며, 4\~6주 이상 지속되거나 진행하는 신경학적 증상이 있으면 영상 검사 및 전문과 의뢰_
+
+***
+
+### <mark style="color:$success;">핵심 복약 지도</mark>
+
+> **NSAID 복용 시 이렇게 안내하세요**
+>
+> 1. 가능한 최소 유효 용량으로 최단 기간만 사용하도록 안내합니다.
+> 2. 위장 장애, 신기능 저하, 심혈관 위험 인자(고혈압, 심부전, 신질환)가 있는 환자에서는 특히 주의하고, 필요시 위장보호제를 병용합니다.
+> 3. 복용 중 흑색변, 심한 속쓰림, 부종·소변량 감소가 있으면 즉시 중단하고 내원하도록 안내합니다.
+
+> **근이완제·benzodiazepine·opioid 사용 시**
+>
+> 1. 졸음, 어지럼을 유발할 수 있어 운전·기계 조작에 주의하도록 안내합니다.
+> 2. 정해진 기간(수일\~2주 이내)만 사용하며, 장기 복용 시 의존 위험이 있음을 설명합니다.
+> 3. 술과 함께 복용하지 않도록 안내합니다.
+
+> **활동에 대한 안내**
+>
+> 1. 침상 안정은 오히려 회복을 늦출 수 있으므로, 통증이 허용하는 범위 내에서 평소 활동을 유지하도록 권고합니다.
+> 2. "통증이 있다고 해서 반드시 손상이 진행되고 있는 것은 아니다"라는 점을 설명하여 불필요한 두려움-회피 행동을 줄입니다.
+
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 4\~6주 표준 치료에도 증상이 호전되지 않는 경우
+> * 새로 발생한 **소변·대변 조절 장애, 회음부 감각 저하**가 있는 경우 — 즉시 응급실 내원
+> * **하지 위약이 진행**하거나 걸음걸이에 문제가 생기는 경우 — 즉시 내원
+> * 발열과 함께 요통이 악화되는 경우
+> * 설명되지 않는 체중 감소가 동반되는 경우
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**요통, 대부분은 심각한 병이 아니며 저절로 좋아집니다**
+
+허리 통증은 매우 흔하며, 대부분 특별한 검사나 시술 없이 몇 주 안에 좋아집니다. 침상에 누워만 있기보다 일상생활을 유지하는 것이 회복에 더 도움이 됩니다.
+{% endhint %}
+
+#### <mark style="color:$primary;">왜 요통이 생기나요?</mark>
+
+* 대부분의 요통은 특정한 하나의 손상이 아니라 허리 근육·인대의 긴장, 디스크와 관절의 자연스러운 노화 변화 등이 복합적으로 작용하여 생깁니다.
+* 영상 검사(X선, MRI)에서 보이는 "이상 소견"이 반드시 통증의 원인은 아니며, 나이가 들면서 누구에게나 나타날 수 있는 변화인 경우가 많습니다.
+
+#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+
+* **평소 활동을 계속 유지하십시오.** 통증이 허락하는 범위 내에서 걷기 등 가벼운 움직임을 지속하는 것이 침상 안정보다 회복에 유리합니다.
+* 급성기 초기 며칠은 온찜질 또는 냉찜질(취향에 따라)이 도움이 될 수 있습니다.
+* 무거운 물건은 허리가 아니라 무릎을 굽혀 다리 힘으로 들어 올리십시오.
+* 통증이 줄어들면서 가벼운 스트레칭, 걷기, 수영 등으로 서서히 활동량을 늘려 가십시오.
+* 담배를 피우신다면 금연이 회복과 재발 방지에 도움이 됩니다.
+
+#### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
+
+* 소염진통제(NSAID)는 처방된 기간과 용량을 지켜 복용하십시오. 임의로 장기간 복용하지 않도록 합니다.
+* 근이완제나 진통제로 졸릴 수 있으니, 복용 중에는 운전이나 위험한 작업을 피하십시오.
+
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+
+* 소변이나 대변을 조절하기 어려워지거나, 사타구니·항문 주위 감각이 이상해질 때
+* 다리 힘이 눈에 띄게 빠지거나 걷기 힘들어질 때
+* 열이 나면서 허리 통증이 심해질 때
+* 교통사고나 낙상 등 큰 외상 이후 통증이 시작되었을 때
