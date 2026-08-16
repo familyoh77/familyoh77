@@ -1,4 +1,4 @@
-# 요통 Low Back Pain (LBP)
+# 요통 Lower Back Pain
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -80,6 +80,8 @@
 
 ### <mark style="color:orange;">신체검사</mark>
 
+✽[Low back muscle(3D)](https://www.innerbody.com/anatomy/muscular/lower-torso)
+
 * 걸음걸이, 자세, 얼굴 표정
 * 운동 범위
 * 근육 압통, spasm, 위축
@@ -133,7 +135,14 @@
 
 ### <mark style="color:orange;">물리적 요통 감별 진단</mark>
 
-<table><thead><tr><th width="140"><strong>양상</strong></th><th><strong>주요 단서</strong></th></tr></thead><tbody><tr><td>비특이적 mechanical LBP</td><td>자세·활동에 따라 변화, 국소 근육 압통·경직, 신경학적 결손 없음</td></tr><tr><td>Disc herniation / radiculopathy</td><td>하지 방사통 동반, 앉을 때 악화되는 경향, dermatomal sensory change, SLR(+)</td></tr><tr><td>Spinal stenosis</td><td>보행·신전(서 있거나 걸을 때) 시 악화(neurogenic claudication), 앉거나 앞으로 굽히면 호전 — 혈관성 파행과 감별 필요</td></tr><tr><td>Compression fracture</td><td>고령·골다공증·외상력, 국소 척추 압통, 급성 발생</td></tr><tr><td>Inflammatory back pain (예: 강직성 척추염)</td><td>젊은 연령, 아침 강직, 운동으로 호전, 휴식으로 악화</td></tr><tr><td>Infection / malignancy</td><td>발열·체중감소 등 전신 증상, 야간통, 위험 인자(면역억제, 암 병력 등) 동반</td></tr></tbody></table>
+| **양상**                              | **주요 단서**                                                                       |
+| ----------------------------------- | ------------------------------------------------------------------------------- |
+| 비특이적 mechanical LBP                 | 자세·활동에 따라 변화, 국소 근육 압통·경직, 신경학적 결손 없음                                           |
+| Disc herniation / radiculopathy     | 하지 방사통 동반, 앉을 때 악화되는 경향, dermatomal sensory change, SLR(+)                      |
+| Spinal stenosis                     | 보행·신전(서 있거나 걸을 때) 시 악화(neurogenic claudication), 앉거나 앞으로 굽히면 호전 — 혈관성 파행과 감별 필요 |
+| Compression fracture                | 고령·골다공증·외상력, 국소 척추 압통, 급성 발생                                                    |
+| Inflammatory back pain (예: 강직성 척추염) | 젊은 연령, 아침 강직, 운동으로 호전, 휴식으로 악화                                                  |
+| Infection / malignancy              | 발열·체중감소 등 전신 증상, 야간통, 위험 인자(면역억제, 암 병력 등) 동반                                    |
 
 ✽개별 질환의 증상은 서로 겹치는 경우가 많아 이 표만으로 확진할 수 없으며, 병력·신체검사·필요시 영상 검사를 종합하여 판단\
 Ref. AAFP 2007;75(8):1181-1188; NICE NG59(2020); Conn's Current Therapy 2017(구성 참고)

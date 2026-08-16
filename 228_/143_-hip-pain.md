@@ -86,7 +86,11 @@
 
 ### <mark style="color:orange;">신체검사</mark>
 
+<<<<<<< HEAD
 _✽[hip anatomy](https://emedicine.medscape.com/article/1898964-overview), [thigh anatomy \[3D\]](https://www.healthline.com/human-body-maps/thigh#1)_
+=======
+✽[Hip anatomy](https://emedicine.medscape.com/article/1898964-overview), [Hip muscle(3D)](https://www.innerbody.com/image/musc08.html), [Leg muscle](https://www.innerbody.com/anatomy/muscular/leg-foot)(3D)
+>>>>>>> f23daa96cdc1e969d343a9a0fa31e11cf96693bc
 
 * 양측을 비교 평가하는 것이 중요함
 * Normal Hip ROM Angles

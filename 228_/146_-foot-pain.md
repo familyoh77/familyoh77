@@ -8,6 +8,8 @@
 * 발의 통증은 삶의 질을 떨어뜨리고 우울과 관련되며 전체적인 건강을 악화시킴
 * 위험 인자 : 고령, 비만, 활발한 신체 활동, 운동선수, 무용수, 군인
 
+[Foot anatomy](https://www.orthopaedia.com/anatomy-of-the-foot-ankle/), [Foot muscle(3D)](https://www.innerbody.com/anatomy/muscular/leg-foot)
+
 ## 병력/증상에 따른 감별 진단
 
 \*\* 통증이 지속되는가 간헐적인가?\*\*

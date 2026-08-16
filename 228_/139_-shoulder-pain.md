@@ -57,7 +57,7 @@
 * 영상 검사 : 외상 여부, 경과(급성/만성), 의심 질환 및 검사 결과가 치료 방침을 변경하는지에 따라 선택
   * 급성 외상성 어깨 통증에서 골절·탈구 가능성이 있으면 X선 검사 우선
   * 급성·아급성 비외상성 어깨 통증에서 Red Flag가 없고 임상적으로 RTC tendinopathy 등이 명확하면 초기 영상 검사는 보통 필요 없음
-  * 만성 또는 지속성 어깨 통증(＞6개월 또는 원인 불명확)에서는 X선 검사를 기본 초기 영상검사로 고려 [ACR Appropriateness Criteria, Chronic Shoulder Pain 2022 Update]
+  * 만성 또는 지속성 어깨 통증(＞6개월 또는 원인 불명확)에서는 X선 검사를 기본 초기 영상검사로 고려 \[ACR Appropriateness Criteria, Chronic Shoulder Pain 2022 Update]
   * X선 음성이지만 occult fracture가 의심되면 CT 또는 MRI 고려
   * RTC tear 의심 : 초음파 또는 MRI; labral tear/불안정증 의심 : MRI 또는 MR arthrography 선택
 * electromyography(EMG) : 신경학적 이상(경추 신경근병증 등) 의심 시
@@ -66,63 +66,23 @@
 
 ### <mark style="color:orange;">신체검사</mark>
 
-_✽shoulder anatomy 1, shoulder anatomy 2, shoulder muscle(3D) Ref. Woodward TW, et al. The painful shoulder: part I. Clinical evaluation. AFP 2000;15;61(10); Burbank KM, et al. Chronic shoulder pain: part I. Evaluation and diagnosis. AFP 2008;15;77(4)_
+✽[Shoulder anatomy](https://emedicine.medscape.com/article/1899211-overview), [Shoulder muscle(3D)](https://www.innerbody.com/image/musc10.html)
+
+_<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part I. Clinical evaluation. AFP 2000;15;61(10); Burbank KM, et al. Chronic shoulder pain: part I. Evaluation and diagnosis. AFP 2008;15;77(4)</mark>_
 
 #### <mark style="color:$primary;">어깨 관절 검사 (Shoulder Examination)</mark>
 
-<table><thead><tr><th width="180">검사명</th><th width="330">검사 방법 [양성 소견]</th><th>의심 상태</th></tr></thead><tbody>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-2">Apley scratch test</a></td><td>팔을 (머리/허리) 뒤로 돌려 반대편 scapula의 상/하 부위를 만지도록 함 [운동 범위 감소 또는 좌우 차이]</td><td>Shoulder ROM screening</td></tr>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-5">Neer's test</a></td><td>full pronation 후 팔을 수동 full flexion [어깨 통증 재현]</td><td>Rotator cuff-related/subacromial pain</td></tr>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-6">Hawkins' test</a></td><td>팔꿈치 및 어깨 90° 굴곡 후 수동 내회전 [어깨 통증 재현]</td><td>Rotator cuff-related/subacromial pain</td></tr>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-3">Empty can test</a></td><td>팔을 scapular plane(관상면 앞 약 30°)에서 90° 정도 들어 올리고 엄지를 아래로 향하게 한 상태(full pronation)에서 검사자가 저항을 가하며 팔을 올리게 함 [건측보다 약화]</td><td>RTC 이상 (supraspinatus)</td></tr>
-<tr><td>Painful arc test</td><td>능동 외전 시 60\~120° 구간에서 통증 재현 (그 이전·이후 구간은 상대적으로 편안함) [해당 구간 통증]</td><td>RTC-related/subacromial pain</td></tr>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-4">External rotation / Infraspinatus strength test</a></td><td>팔을 몸에 붙이고 팔꿈치 90° 굴곡 후 검사자가 저항을 가하면서 외회전 [건측보다 약화]</td><td>RTC 이상 (infraspinatus, teres minor)</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=t9dSDVRbjn0">Lift-off test</a></td><td>손등을 허리 뒤(요추부)에 댄 상태에서 손을 등에서 뒤쪽으로 떼어내도록 함(능동 lift-off); 가능하면 그 자세에서 검사자가 저항을 추가 [손을 등에서 떼지 못하거나 건측보다 약화]. 통증·강직으로 자세 자체가 불가능하면 belly-press test(손바닥을 배에 대고 팔꿈치를 앞으로 빼며 누름) 또는 bear-hug test로 대체</td><td>RTC 이상 (subscapularis)</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=qvwYEoeHPaA">Drop-arm test</a></td><td>어깨를 수동적으로 들어 올린 후(160°) 천천히 능동 하강 [팔이 몸통에 가까워지면 drop됨]</td><td>RTC tear</td></tr>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-7">Cross-body test</a></td><td>팔을 들어(90° 굴곡) 능동 내전 [AC joint 부위 통증]</td><td>AC joint 관절염</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=qKqJRrms4u8">Apprehension test</a></td><td>누워서 어깨 90° 외전, 팔꿈치 90° 굴곡 상태에서 검사자가 어깨를 외회전 시킴 [탈구될 것 같은 apprehension/불안감 재현]</td><td>Anterior GH 불안정</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=qKqJRrms4u8">Relocation test</a></td><td>Apprehension test 양성 시, 그 자세에서 상완골 근위부에 후방 압력 [apprehension/불안감 감소 또는 소실]</td><td>Anterior GH 불안정</td></tr>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-10">Sulcus test</a></td><td>중립 자세에서 검사자가 팔꿈치 또는 손목을 아래로 당김 [acromion 측/하부 함몰]</td><td>Inferior GH 불안정</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=lAqg39HUV7I">Clunk test</a></td><td>누워서 팔을 머리 위로 뻗어 올림. 검사자가 어깨 뒤 상완골두에 힘을 가하면서 외회전 [덜컹 소리, 걸림]</td><td>Labrum 이상</td></tr>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-15">Spurling's test</a></td><td>고개를 아픈 어깨 쪽으로 돌리고 머리를 수직 방향 아래로 누름 [통증/방사통]</td><td>Cervical nerve root 이상</td></tr>
-</tbody></table>
+<table><thead><tr><th width="180">검사명</th><th width="330">검사 방법 [양성 소견]</th><th>의심 상태</th></tr></thead><tbody><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-2">Apley scratch test</a></td><td>팔을 (머리/허리) 뒤로 돌려 반대편 scapula의 상/하 부위를 만지도록 함 [운동 범위 감소 또는 좌우 차이]</td><td>Shoulder ROM screening</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-5">Neer's test</a></td><td>full pronation 후 팔을 수동 full flexion [어깨 통증 재현]</td><td>Rotator cuff-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-6">Hawkins' test</a></td><td>팔꿈치 및 어깨 90° 굴곡 후 수동 내회전 [어깨 통증 재현]</td><td>Rotator cuff-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-3">Empty can test</a></td><td>팔을 scapular plane(관상면 앞 약 30°)에서 90° 정도 들어 올리고 엄지를 아래로 향하게 한 상태(full pronation)에서 검사자가 저항을 가하며 팔을 올리게 함 [건측보다 약화]</td><td>RTC 이상 (supraspinatus)</td></tr><tr><td>Painful arc test</td><td>능동 외전 시 60\~120° 구간에서 통증 재현 (그 이전·이후 구간은 상대적으로 편안함) [해당 구간 통증]</td><td>RTC-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-4">External rotation / Infraspinatus strength test</a></td><td>팔을 몸에 붙이고 팔꿈치 90° 굴곡 후 검사자가 저항을 가하면서 외회전 [건측보다 약화]</td><td>RTC 이상 (infraspinatus, teres minor)</td></tr><tr><td><a href="https://www.youtube.com/watch?v=t9dSDVRbjn0">Lift-off test</a></td><td>손등을 허리 뒤(요추부)에 댄 상태에서 손을 등에서 뒤쪽으로 떼어내도록 함(능동 lift-off); 가능하면 그 자세에서 검사자가 저항을 추가 [손을 등에서 떼지 못하거나 건측보다 약화]. 통증·강직으로 자세 자체가 불가능하면 belly-press test(손바닥을 배에 대고 팔꿈치를 앞으로 빼며 누름) 또는 bear-hug test로 대체</td><td>RTC 이상 (subscapularis)</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qvwYEoeHPaA">Drop-arm test</a></td><td>어깨를 수동적으로 들어 올린 후(160°) 천천히 능동 하강 [팔이 몸통에 가까워지면 drop됨]</td><td>RTC tear</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-7">Cross-body test</a></td><td>팔을 들어(90° 굴곡) 능동 내전 [AC joint 부위 통증]</td><td>AC joint 관절염</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qKqJRrms4u8">Apprehension test</a></td><td>누워서 어깨 90° 외전, 팔꿈치 90° 굴곡 상태에서 검사자가 어깨를 외회전 시킴 [탈구될 것 같은 apprehension/불안감 재현]</td><td>Anterior GH 불안정</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qKqJRrms4u8">Relocation test</a></td><td>Apprehension test 양성 시, 그 자세에서 상완골 근위부에 후방 압력 [apprehension/불안감 감소 또는 소실]</td><td>Anterior GH 불안정</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-10">Sulcus test</a></td><td>중립 자세에서 검사자가 팔꿈치 또는 손목을 아래로 당김 [acromion 측/하부 함몰]</td><td>Inferior GH 불안정</td></tr><tr><td><a href="https://www.youtube.com/watch?v=lAqg39HUV7I">Clunk test</a></td><td>누워서 팔을 머리 위로 뻗어 올림. 검사자가 어깨 뒤 상완골두에 힘을 가하면서 외회전 [덜컹 소리, 걸림]</td><td>Labrum 이상</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-15">Spurling's test</a></td><td>고개를 아픈 어깨 쪽으로 돌리고 머리를 수직 방향 아래로 누름 [통증/방사통]</td><td>Cervical nerve root 이상</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">이두근 검사 (Biceps Tendon Tests)</mark>
 
-<table><thead><tr><th width="180">검사명</th><th width="330">검사 방법 [양성 소견]</th><th>의심 상태</th></tr></thead><tbody>
-<tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-9">Yergason test</a></td><td>팔꿈치 90° 굴곡 및 pronation 후 검사자가 손목을 잡고 저항을 가하면서 supination [통증/약화]</td><td>Biceps tendon 불안정 또는 건염</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=N00gA4Pvsbw">Speed's maneuver</a></td><td>supination 및 어깨 60° 굴곡 후 검사자가 손목을 잡고 저항을 가하면서 팔을 올리도록 함 [통증/약화]</td><td>Biceps tendon 불안정 또는 건염</td></tr>
-</tbody></table>
+<table><thead><tr><th width="180">검사명</th><th width="330">검사 방법 [양성 소견]</th><th>의심 상태</th></tr></thead><tbody><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-9">Yergason test</a></td><td>팔꿈치 90° 굴곡 및 pronation 후 검사자가 손목을 잡고 저항을 가하면서 supination [통증/약화]</td><td>Biceps tendon 불안정 또는 건염</td></tr><tr><td><a href="https://www.youtube.com/watch?v=N00gA4Pvsbw">Speed's maneuver</a></td><td>supination 및 어깨 60° 굴곡 후 검사자가 손목을 잡고 저항을 가하면서 팔을 올리도록 함 [통증/약화]</td><td>Biceps tendon 불안정 또는 건염</td></tr></tbody></table>
 
 ### <mark style="color:orange;">감별 진단</mark>
 
 * 통증 부위, 유발 동작, 운동 범위 제한 양상, 연령에 따라 원인 질환을 감별함
 
-<table><thead><tr><th width="100">구분</th><th width="260">주요 단서</th><th>의심 상태</th></tr></thead><tbody>
-<tr><td rowspan="5">통증/압통 부위</td><td>어깨 위쪽 통증</td><td>AC joint 이상, trapezius strain</td></tr>
-<tr><td>외측/deltoid 통증, subacromial 압통</td><td>RTC 이상</td></tr>
-<tr><td>뒤쪽(scapular) 통증</td><td>scapulothoracic dyskinesis</td></tr>
-<tr><td>광범위 통증</td><td>RTC 이상, adhesive capsulitis, GH OA</td></tr>
-<tr><td>다발성 trigger points</td><td>Non-shoulder 이상 (예: fibromyalgia)</td></tr>
-<tr><td rowspan="6">통증 유발</td><td>팔을 비틀거나 머리 위로 올릴 때, 관절 앞쪽 통증, 근력 약화</td><td>RTC 이상</td></tr>
-<tr><td>고개 돌릴 때 통증, 팔꿈치 아래로 방사통</td><td>경추 이상</td></tr>
-<tr><td>무거운 물건 들 때 통증</td><td>AC 이상</td></tr>
-<tr><td>야간 통증</td><td>RTC 이상, adhesive capsulitis, 중증 GH OA</td></tr>
-<tr><td>Cross-body 동작 시 통증</td><td>AC 이상</td></tr>
-<tr><td>외전/외회전 시 통증</td><td>불안정성</td></tr>
-<tr><td rowspan="3">운동 범위</td><td>현저한 능동·수동 운동 범위 감소, 강직, 만성 경과</td><td>Adhesive capsulitis</td></tr>
-<tr><td>약간의 능동·수동 운동 범위 감소</td><td>GH OA</td></tr>
-<tr><td>능동 운동 범위 감소, 수동 운동 범위 유지</td><td>RTC 이상</td></tr>
-<tr><td rowspan="6">연령</td><td>＜30세</td><td>불안정성 (아탈구, 탈구)</td></tr>
-<tr><td>＞30세</td><td>RTC 이상 (30\~50세: tendinopathy, 40\~60세: 부분 파열, ＞60세: 완전 파열)</td></tr>
-<tr><td>40\~60세</td><td>Adhesive capsulitis</td></tr>
-<tr><td>＞60세</td><td>GH OA</td></tr>
-<tr><td>외상 (+), ＜40세</td><td>탈구</td></tr>
-<tr><td>외상 (+), ＞40세</td><td>AC 손상, RTC tear</td></tr>
-<tr><td rowspan="3">기타</td><td>과사용</td><td>RTC 이상, AC 이상, Labrum 이상</td></tr>
-<tr><td>약화</td><td>RTC 이상, GH OA</td></tr>
-<tr><td>수술 병력</td><td>Adhesive capsulitis, GH OA</td></tr>
-</tbody></table>
+<table><thead><tr><th width="100">구분</th><th width="260">주요 단서</th><th>의심 상태</th></tr></thead><tbody><tr><td>통증/압통 부위</td><td>어깨 위쪽 통증</td><td>AC joint 이상, trapezius strain</td></tr><tr><td>외측/deltoid 통증, subacromial 압통</td><td>RTC 이상</td><td></td></tr><tr><td>뒤쪽(scapular) 통증</td><td>scapulothoracic dyskinesis</td><td></td></tr><tr><td>광범위 통증</td><td>RTC 이상, adhesive capsulitis, GH OA</td><td></td></tr><tr><td>다발성 trigger points</td><td>Non-shoulder 이상 (예: fibromyalgia)</td><td></td></tr><tr><td>통증 유발</td><td>팔을 비틀거나 머리 위로 올릴 때, 관절 앞쪽 통증, 근력 약화</td><td>RTC 이상</td></tr><tr><td>고개 돌릴 때 통증, 팔꿈치 아래로 방사통</td><td>경추 이상</td><td></td></tr><tr><td>무거운 물건 들 때 통증</td><td>AC 이상</td><td></td></tr><tr><td>야간 통증</td><td>RTC 이상, adhesive capsulitis, 중증 GH OA</td><td></td></tr><tr><td>Cross-body 동작 시 통증</td><td>AC 이상</td><td></td></tr><tr><td>외전/외회전 시 통증</td><td>불안정성</td><td></td></tr><tr><td>운동 범위</td><td>현저한 능동·수동 운동 범위 감소, 강직, 만성 경과</td><td>Adhesive capsulitis</td></tr><tr><td>약간의 능동·수동 운동 범위 감소</td><td>GH OA</td><td></td></tr><tr><td>능동 운동 범위 감소, 수동 운동 범위 유지</td><td>RTC 이상</td><td></td></tr><tr><td>연령</td><td>＜30세</td><td>불안정성 (아탈구, 탈구)</td></tr><tr><td>＞30세</td><td>RTC 이상 (30\~50세: tendinopathy, 40\~60세: 부분 파열, ＞60세: 완전 파열)</td><td></td></tr><tr><td>40\~60세</td><td>Adhesive capsulitis</td><td></td></tr><tr><td>＞60세</td><td>GH OA</td><td></td></tr><tr><td>외상 (+), ＜40세</td><td>탈구</td><td></td></tr><tr><td>외상 (+), ＞40세</td><td>AC 손상, RTC tear</td><td></td></tr><tr><td>기타</td><td>과사용</td><td>RTC 이상, AC 이상, Labrum 이상</td></tr><tr><td>약화</td><td>RTC 이상, GH OA</td><td></td></tr><tr><td>수술 병력</td><td>Adhesive capsulitis, GH OA</td><td></td></tr></tbody></table>
 
 ### <mark style="color:orange;">질환별 상세 소견</mark>
 
@@ -153,7 +113,7 @@ _✽shoulder anatomy 1, shoulder anatomy 2, shoulder muscle(3D) Ref. Woodward TW
 * 영상 검사 : 초음파 또는 MRI가 주로 사용되며, X선 검사는 동반 골성 병변 및 다른 원인 감별에 활용
   * 상완골두 sclerosis/cyst, acromiohumeral 간격 감소, acromial spur
 * 참고 : ＞60세 무증상 환자의 약 50%에서 MRI상 RTC 파열이 관찰됨 (Sher JS, et al. J Bone Joint Surg Am 1995)
-* 증상이 있는 소~중형 전층 파열은 비수술적 운동치료로도 증상·기능이 호전될 수 있으나, 장기적으로는 파열 크기·근위축·지방변성이 진행할 수 있어 수술 가능성이 있는 환자는 임상 경과 관찰 및 필요 시 영상 추적을 고려 [AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]
+* 증상이 있는 소\~중형 전층 파열은 비수술적 운동치료로도 증상·기능이 호전될 수 있으나, 장기적으로는 파열 크기·근위축·지방변성이 진행할 수 있어 수술 가능성이 있는 환자는 임상 경과 관찰 및 필요 시 영상 추적을 고려 \[AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]
 
 #### <mark style="color:$primary;">석회성 건염 (Calcific tendinitis)</mark>
 
@@ -177,7 +137,7 @@ _✽shoulder anatomy 1, shoulder anatomy 2, shoulder muscle(3D) Ref. Woodward TW
 **일반 사항**
 
 * 정의 : GH joint capsule의 진행성 섬유화/구축에 따른 어깨의 통증/강직, 운동 제한 (대한재활의학회 동결견 진료지침, 2025)
-* 진단은 원칙적으로 병력·신체검사에 기반한 임상 진단이며, 초음파·MRI는 확진이 아닌 보조적 도구로 활용 [대한재활의학회 2025]
+* 진단은 원칙적으로 병력·신체검사에 기반한 임상 진단이며, 초음파·MRI는 확진이 아닌 보조적 도구로 활용 \[대한재활의학회 2025]
 * 기전 : 관절낭과 coracohumeral ligament 등의 염증·섬유화 및 구축 → 관절 용적 감소, 움직임 제한, 경직
 * 유병률 : 2\~5%(당뇨병 환자에서는 10\~20%까지), 50대 중반에서 가장 많음, 약 10%에서 반대편도 이환
 * 경과 : 보통 수년에 걸쳐 자연 회복
@@ -305,16 +265,10 @@ graph TD
 * 보존적 치료 : 행동 수정, 물리 치료, 약물 치료, 국소 steroid 주사
 * 회복 기간은 원인에 따라 수주에서 수개월 이상까지 다양하며, 만성 RTC tear·진행성 GH OA 등 일부 질환에서는 잔여 증상이나 기능 제한이 남을 수 있음
 
-<table><thead><tr><th width="170">원인 질환</th><th width="230">초기 선택</th><th>추가 선택</th></tr></thead><tbody>
-<tr><td>Acromioclavicular OA</td><td>행동 수정; 물리 치료; 약물</td><td>AC 관절 국소 steroid/마취제 주사; 수술</td></tr>
-<tr><td>Adhesive capsulitis</td><td>행동 수정; 물리 치료; 약물; 관절 내 steroid 주사</td><td>국소 steroid 주사; 수술</td></tr>
-<tr><td>Glenohumeral 불안정증</td><td>행동 수정; 물리 치료</td><td>수술</td></tr>
-<tr><td>Glenohumeral OA</td><td>행동 수정; 물리 치료; 약물</td><td>국소 steroid 주사; 수술</td></tr>
-<tr><td>RTC 부분 파열</td><td>행동 수정; 물리 치료; 약물</td><td>국소 steroid 주사; 수술</td></tr>
-</tbody></table>
+<table><thead><tr><th width="170">원인 질환</th><th width="230">초기 선택</th><th>추가 선택</th></tr></thead><tbody><tr><td>Acromioclavicular OA</td><td>행동 수정; 물리 치료; 약물</td><td>AC 관절 국소 steroid/마취제 주사; 수술</td></tr><tr><td>Adhesive capsulitis</td><td>행동 수정; 물리 치료; 약물; 관절 내 steroid 주사</td><td>국소 steroid 주사; 수술</td></tr><tr><td>Glenohumeral 불안정증</td><td>행동 수정; 물리 치료</td><td>수술</td></tr><tr><td>Glenohumeral OA</td><td>행동 수정; 물리 치료; 약물</td><td>국소 steroid 주사; 수술</td></tr><tr><td>RTC 부분 파열</td><td>행동 수정; 물리 치료; 약물</td><td>국소 steroid 주사; 수술</td></tr></tbody></table>
 
-_✽약물 : acetaminophen or NSAID\
-Ref. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam Physician. 2008 Feb 15;77(4). Table 1._
+_✽약물 : acetaminophen or NSAID_\
+_&#x52;ef. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam Physician. 2008 Feb 15;77(4). Table 1._
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -359,10 +313,10 @@ Ref. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam Physic
 
 ### <mark style="color:orange;">Steroid 국소 주사</mark>
 
-* 대상 : 다른 보존적 요법에 반응이 부족할 때 단기 통증·기능 개선 목적으로 고려. RTC-related pain/tear에서는 국소 마취제를 병용한 1회 corticosteroid 주사가 단기 통증·기능 개선에 도움이 될 수 있음 [AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]
+* 대상 : 다른 보존적 요법에 반응이 부족할 때 단기 통증·기능 개선 목적으로 고려. RTC-related pain/tear에서는 국소 마취제를 병용한 1회 corticosteroid 주사가 단기 통증·기능 개선에 도움이 될 수 있음 \[AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]
 * subacromial-subdeltoid bursa, glenohumeral joint, AC joint 등 병변 부위에 따라 시행; 필요 시 초음파 유도
 * 질환 종류와 병변 부위에 따라 효과 차이가 있으며 장기 효과는 제한적일 수 있음
-* 반복 주사는 가급적 제한하며, 특히 rotator cuff tear가 있거나 수술을 고려하는 환자에서는 반복 corticosteroid injection이 회전근개 조직의 integrity를 저해하고 이후 봉합술 결과에 영향을 줄 수 있어 피하는 것이 바람직함 [AAOS 2025]
+* 반복 주사는 가급적 제한하며, 특히 rotator cuff tear가 있거나 수술을 고려하는 환자에서는 반복 corticosteroid injection이 회전근개 조직의 integrity를 저해하고 이후 봉합술 결과에 영향을 줄 수 있어 피하는 것이 바람직함 \[AAOS 2025]
 * AC joint 주사 시 주의 : AC joint는 피하 지방층이 얇은 표재성 부위이므로, 다른 관절강 내 주사보다 피부 위축(fat atrophy) 및 탈색(hypopigmentation) 위험이 상대적으로 높음 — 시술 전 환자에게 설명
 
 ### <mark style="color:orange;">기타, 수술</mark>
@@ -372,7 +326,7 @@ Ref. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam Physic
 * suprascapular nerve block : 단기 통증 완화 효과
 * low-level laser therapy : adhesive capsulitis에서 일부 단기 효과가 보고되었으나 근거 제한
 * 보톡스 : 증거 불충분
-* PRP(platelet rich plasma) : 회전근개 전층 파열의 비수술적 관리 및 봉합술 생물학적 증강 목적의 routine 사용은 지지되지 않음; 다만 liquid PRP는 제한적 맥락에서 일부 근거가 있음 [AAOS 2025]. 그 외 어깨 질환에서는 근거가 제한적
+* PRP(platelet rich plasma) : 회전근개 전층 파열의 비수술적 관리 및 봉합술 생물학적 증강 목적의 routine 사용은 지지되지 않음; 다만 liquid PRP는 제한적 맥락에서 일부 근거가 있음 \[AAOS 2025]. 그 외 어깨 질환에서는 근거가 제한적
 * 수술/정형외과 의뢰 : 급성 외상성 전층 RTC 파열, 유의한 기능·근력 저하, 큰/진행성 파열 또는 적절한 비수술 치료에도 증상이 지속되는 경우 고려. 수술 결정은 파열 크기뿐 아니라 외상 여부, 증상·기능, 활동 수준, 근위축·지방변성, 연령·동반질환 등을 종합하여 판단
 
 ***
