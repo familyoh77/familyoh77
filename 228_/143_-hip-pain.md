@@ -1,15 +1,11 @@
 # 고관절 통증 Hip Pain
 
-![image](../.gitbook/assets/946a407a-c4f6-46db-bf14-963e96992fa0.JPG)
-
 ## 원인
 
 #### 부위별 흔한 원인
 
 * anterior hip or groin : 관절 내 병변(예: OA, hip labral tear); 관절 외 병변(예: hip flexor injury); 복부 or 골반 기원 연관통
-*   lateral hip : greater trochanteric pain syndrome(gluteus medius tendinopathy or tear, bursitis, iliotibial band friction 포함);
-
-    방사통/연관통인 경우가 많음
+* lateral hip : greater trochanteric pain syndrome(gluteus medius tendinopathy or tear, bursitis, iliotibial band friction 포함); 방사통/연관통인 경우가 많음
 * posterior hip or buttock : piriformis syndrome, sacroiliac joint(SIJ) dysfunction, lumbar radiculopathy
 
 #### 연령별 흔한 원인
@@ -22,8 +18,6 @@
 
 * 고령, 골다공증, steroid 사용
 
-![image](../.gitbook/assets/baba822e-20a0-4e6f-9525-1d13e7dc9101.JPG)
-
 ## 임상 양상
 
 * 고관절 통증 및 약화
@@ -34,14 +28,22 @@
 * 하지 기형 또는 단축
 * 보행 장애
 
+### Red Flags!
+
+* 움직일 수 없음
+* 국소 발열 또는 홍반
+* 변형, 심한 멍/출혈
+* 전신 발열
+* 심한 사고 후 발생
+* 치료와 휴식에도 불구하고 1주일 이상 호전 안 됨
+* 의도하지 않은 체중 감소, 암 병력
+
 ## 진단
 
 ### 영상 검사
 
 * X선 검사 : 골절/탈구 의심 시
-*   MRI : X선 검사 등으로 진단이 되지 않을 때(특히 대퇴골두 osteonecrosis, labral tear); hip labral tear 진단에서는
-
-    MR arthrography가 보다 유효
+* MRI : X선 검사 등으로 진단이 되지 않을 때(특히 대퇴골두 osteonecrosis, labral tear); hip labral tear 진단에서는 MR arthrography가 보다 유효
 * 초음파 : tendon, bursa, joint effusion, functional 원인(예: snapping hip) 진단에 유효
 * bone scan : 다른 검사로 진단되지 않는 골절, osteonecrosis, arthritis, 암의 골 전이
 
@@ -52,57 +54,52 @@
 
 ### 신체검사
 
-✽[hip anatomy](https://emedicine.medscape.com/article/1898964-overview)
-
-✽[thigh anatomy \[3D\]](https://www.healthline.com/human-body-maps/thigh#1)
+✽[hip anatomy](https://emedicine.medscape.com/article/1898964-overview), [thigh anatomy \[3D\]](https://www.healthline.com/human-body-maps/thigh#1)
 
 * 양측을 비교 평가하는 것이 중요함
+* Normal Hip ROM Angles
+  * **Flexion (bending knee to chest) :** 110° to 120°
+  * **Extension (moving leg backward) :** 10° to 15°
+  * **Abduction (moving leg outward) :** 30° to 50°
+  * **Adduction (moving leg inward) :** 30°
+  * **Internal Rotation (turning foot outward) :** 30° to 40°
+  * **External Rotation (turning foot inward) :** 40° to 60°
 
 #### Trendelenburg test (= Single leg stance phase)
 
-* [방법](https://www.aafp.org/afp/2014/0101/hi-res/afp20140101p27-f1.jpg) : 선 자세로 한 다리를 들음; 올린 쪽 iliac crest가 ＞2 ㎝ 내려가면 양성(디딤 발 쪽 이상)
-*   관련 상태 : 반대쪽 gluteus medius 약화, Hip labral tear, transient synovitis, Legg-Calvé-Perthes(LCP) Dz,
-
-    slipped capital femoral epiphysis(SCFE)
+* [방법 ](https://www.aafp.org/afp/2021/0115/p81): 선 자세로 한 다리를 들음; 올린 쪽 iliac crest가 ＞2 ㎝ 내려가면 양성(디딤 발 쪽 이상)
+* 관련 상태 : 반대쪽 gluteus medius 약화, Hip labral tear, transient synovitis, Legg-Calvé-Perthes(LCP) Dz, slipped capital femoral epiphysis(SCFE)
 
 ※ Trendelenburg gait : 환측 고관절 쪽으로 상체가 기울어짐
 
 #### Hip ROM testing
 
-*   [방법](https://www.aafp.org/afp/2014/0101/hi-res/afp20140101p27-f2.jpg) : abduction. adduction. extension. internal & external rotation을 각각 시행; 운동 범위 제한, 수동적 움직임으로
-
-    (특히 운동 범위 끝에서) 통증 발생 시 양성
+* 방법 : abduction. adduction. extension. internal & external rotation을 각각 시행; 운동 범위 제한, 수동적 움직임으로 (특히 운동 범위 끝에서) 통증 발생 시 양성
 * 관련 상태 : synovitis, septic arthritis, loose body, chondral lesion, OA, LCP Dz, osteonecrosis
 
 #### FABER (flexion, abduction, external rotation) test (= Patrick’s test)
 
-*   [방법](https://www.aafp.org/afp/2014/0101/hi-res/afp20140101p27-f3.jpg) : 누운 자세에서 고관절과 무릎을 45°굴곡 시키고 외전/외회전시켜 발목이 반대 다리의 무릎 근위부에 놓이도록 함;
-
-    SIJ/요추/post hip 통증, groin pain 발생 시 양성
-*   관련 상태 : hip or SIJ 이상; OA, SIJ dysfunction, hip labral tear, loose body, chondral lesions,
-
-    femoral acetabular impingement, iliopsoas bursitis, iliopsoas spasm
+* [방법 ](https://www.aafp.org/afp/2021/0115/p81): 누운 자세에서 고관절과 무릎을 45°굴곡 시키고 외전/외회전시켜 발목이 반대 다리의 무릎 근위부에 놓이도록 함; SIJ/요추/post hip 통증, groin pain 발생 시 양성
+* 관련 상태 : hip or SIJ 이상; OA, SIJ dysfunction, hip labral tear, loose body, chondral lesions, femoral acetabular impingement, iliopsoas bursitis, iliopsoas spasm
 
 #### FADIR (flexion, adduction, internal rotation) test (= Impingement test)
 
-* [방법](https://www.aafp.org/afp/2014/0101/hi-res/afp20140101p27-f4.jpg) : 누운 자세에서 다리를 완전 굴곡 시키고 내전/내회전 시킴; 통증 발생 시 양성
+* [방법 ](https://www.aafp.org/afp/2021/0115/p81): 누운 자세에서 다리를 완전 굴곡 시키고 내전/내회전 시킴; 통증 발생 시 양성
 * 관련 상태 : hip labral tear, loose body, chondral lesion, femoral acetabular impingement
 
 #### Log roll test (= Freiberg test)
 
-*   [방법](https://www.aafp.org/afp/2014/0101/hi-res/afp20140101p27-f5.jpg) : 누운 자세에서 다리를 신전시켜 힘을 빼게 하고 하지를 통나무 굴리듯이 내회전 및 외회전시킴(log roll);
-
-    움직임 제한, 통증 발생 시 양성
+* [방법 ](https://www.aafp.org/afp/2014/0101/p27): 누운 자세에서 다리를 신전시켜 힘을 빼게 하고 하지를 통나무 굴리듯이 내회전 및 외회전시킴(log roll); 움직임 제한, 통증 발생 시 양성
 * 관련 상태 : piriformis syndrome, SCFE
 
 #### Straight leg raise against resistance test (= Stinchfield test)
 
-* [방법](https://www.aafp.org/afp/2014/0101/hi-res/afp20140101p27-f6.jpg) : 누운 자세에서 다리를 쭉 펴고 하지를 누르는 상태에서 45°들도록 함; 약화가 있으면 양성
+* [방법 ](143_-hip-pain.md#straight-leg-raise-against-resistance-test-stinchfield-test): 누운 자세에서 다리를 쭉 펴고 하지를 누르는 상태에서 45°들도록 함; 약화가 있으면 양성
 * 관련 상태 : Athletic pubalgia, SCFE, femoral acetabular impingement
 
 #### Straight leg raise(SLR) test
 
-*   방법 : 누운 자세에서 다리를 쭉 펴고 힘을 뺀 상태에서 하지 수동 거상: ＞60\~70o에서 통증 발생 시 양성
+*   [방법 ](https://www.aafp.org/afp/2014/0101/p27): 누운 자세에서 다리를 쭉 펴고 힘을 뺀 상태에서 하지 수동 거상: ＞60\~70o에서 통증 발생 시 양성
 
     (발목 신전 시 악화, 무릎/고관절 굴곡 시 완화)
 * 관련 상태 : hamstrings, gluteus maximus, or hip capsule, or hip or SIJ 이상
@@ -110,79 +107,90 @@
 
 #### Ober test (passive adduction)
 
-*   [방법](https://www.aafp.org/afp/2014/0101/hi-res/afp20140101p27-fb.jpg) : 건측을 아래로 하여 옆으로 눕히고 검사자는 환자의 등 뒤에 서서 수동적으로 시행; 움직임 제한,
+*   [방법 ](https://www.aafp.org/afp/2014/0101/p27): 건측을 아래로 하여 옆으로 눕히고 검사자는 환자의 등 뒤에 서서 수동적으로 시행; 움직임 제한,
 
     통증 발생 시 양성
 
-    •Tensor fasciae latae 검사 : 고관절과 무릎을 완전 신전하고 진찰대 밖으로 다리를 내어 놓아 중력에 의하여 다리가
-
-    내려가도록(내전되도록) 함
-
-•Gluteus medius : 고관절 완전 신전, 무릎 45\~90°굴곡 시킴
-
-•Gluteus maximus : 고관절 굴곡, 무릎 신전 시키고 상체를 어깨가 진찰대에 닿도록 돌리게 함(상체 supine)
-
+    * Tensor fasciae latae 검사 : 고관절과 무릎을 완전 신전하고 진찰대 밖으로 다리를 내어 놓아 중력에 의하여 다리가 내려가도록(내전되도록) 함
+    * Gluteus medius : 고관절 완전 신전, 무릎 45\~90°굴곡 시킴
+    * Gluteus maximus : 고관절 굴곡, 무릎 신전 시키고 상체를 어깨가 진찰대에 닿도록 돌리게 함(상체 supine)
 * 관련 상태 : external snapping hip, greater trochanteric pain syndrome
 
 #### 기타
 
-*   골반 기울어짐 : 시진상 양쪽 iliac crest 높이가 다름
-
-    •원인 : 다리 길이의 차이, 골반 골절, 측만증, 편측 척추 주위근 경직
-* 쪼그려 앉기 장애 •원인 : 중등증 이상의 관절염 또는 점액낭염, 관련 근육 장애
+* 골반 기울어짐 : 시진상 양쪽 iliac crest 높이가 다름
+  * 원인 : 다리 길이의 차이, 골반 골절, 측만증, 편측 척추 주위근 경직
+* 쪼그려 앉기 장애&#x20;
+  * 원인 : 중등증 이상의 관절염 또는 점액낭염, 관련 근육 장애
 
 ### 증상/병력에 따른 감별
 
-```
-![image](images/b7ea9960-0d8c-4ce9-b635-4b55a20c6b0b.JPG)
-```
+<figure><img src="../.gitbook/assets/고관절1.png" alt=""><figcaption></figcaption></figure>
 
-*   Lumbosacral spine or SIJ로부터의 연관통 : 요통 동반, 통증/감각 이상 증상이 원위부로 확장, 고관절 및 연조직의 이상이
-
-    명확하지 않음; lower lumbar root → gluteus & posterolateral thigh area, SIJ → gluteal area
+* Lumbosacral spine or SIJ로부터의 연관통 : 요통 동반, 통증/감각 이상 증상이 원위부로 확장, 고관절 및 연조직의 이상이 명확하지 않음; lower lumbar root → gluteus & posterolateral thigh area, SIJ → gluteal area
 
 #### 부위에 따른 감별
 
-> ```
-> (Ref. Evaluation of the Patient with Hip Pain. AFP 2014;89(1))
-> ```
+_<mark style="color:$info;">(Ref. Evaluation of the Patient with Hip Pain. AFP 2014;89(1))</mark>_
 
 #### Anterior thigh or groin pain
 
-```
-![image](images/e2aae2e3-fd4c-46ec-a1a6-9409b5e1d477.JPG)
-```
+| **진단**                                | **임상 양상**                                                                                                                                                                                               | **병력/위험 인자**             |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **Meralgia paresthetica**             | (외측대퇴피신경 압박에 의한) Anterior thigh hypesthesia, dysesthesia; 고관절 질환 또는 lumbar radiculopathy 증거 없음                                                                                                          | 복부 비만, 임신, 조이는 내의        |
+| **Athletic pubalgia (sports hernia)** | dull, diffuse, inner thigh 방사통, 외부 압박/복압 증가(예: 재채기, 윗몸일으키기, Valsalva maneuver) 시 통증; inguinal canal/pubictubercle 압통, adductor origin, resisted sit-up 또는 hip flexion 시 통증; 직접 압박 또는 고관절 굴곡에 의해 악화되지 않음 | 심한 운동(예: 축구, 럭비, 하키, 역도) |
 
 #### Anterolateral hip and groin pain
 
-```
-![image](images/7c21351d-2f3c-4858-a142-68b399b4a075.JPG)
-```
+| **진단**                                         | **임상 양상**                                                                                                                                            | **병력/위험 인자**                                       |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| **Osteoarthritis**¹⁾                           | 점차 악화, 깊은 쑤시는 일관된 통증(특히 체중 부하 시), 강직, 활동으로 악화/휴식으로 완화; ROM 감소                                                                                        | >50세                                               |
+| **Osteonecrosis**                              | deep groin, 체중 부하/움직임 시 통증, 휴식 시 통증, thigh/buttock 연관통; 잠행성 시작; 외상으로 급성 악화; log roll test(+), 점진적 ROM 제한                                             | SLE, sickle cell disease, HIV 감염, steroid, 흡연, 알코올 |
+| **Femoroacetabular impingement**               | deep groin, 장시간 앉은 후 일어설 때 통증, Lat hip/Ant thigh 방사통; FADIR/FABER tests(+)                                                                           | 장거리 운전                                             |
+| **Hip labral tear**                            | dull or sharp groin pain, lat hip/ant thigh/buttock 방사통, 체중 부하 시 통증; Trendelenburg or antalgic gait²⁾, mechanical Sx³⁾, 내회전 장애, FADIR/FABER tests(+) | hip 탈구 병력                                          |
+| **Femoral neck fracture**                      | deep, 연관통, 체중 부하 시 통증, GT 압통; painful ROM                                                                                                            | 여성, 운동선수, steroid, 흡연                              |
+| **Iliopsoas bursitis (internal snapping hip)** | deep, 연관통; 간헐적 catching, snapping, popping; 고관절 굴곡→신전 시 snapping                                                                                     | 발레, 달리기                                            |
+| **Loose body / Chondral lesion**               | deep, 연관통; mechanical Sx; ROM 제한, catching/grinding, FADIR/FABER test(+)                                                                             | 고관절 탈구/외상, Legg-Calvé-Perthes disease              |
+| **Septic arthritis**                           | 체중 부하 시 통증, 수동 움직임/휴식 중에도 통증                                                                                                                         | 고령, 당뇨병, RA, 최근 관절 수술, 인공 관절                       |
+
+_¹⁾ aseptic necrosis, avascular necrosis, ischemic necrosis, osteochondritis dissecans을 포함_\
+_²⁾ antalgic gait : 통증을 줄이기 위하여 환측 보행 시간(체중이 실리는 시간)을 보다 짧게 걸음_\
+_³⁾ mechanical symptoms : such as catching or painful clicking._\
+_GT=Greater trochanter, ROM=range of motion_
 
 #### Posterolateral pain
 
-```
-![image](images/906eef33-3aa5-43b4-9b6f-62fbfcc9a9f3.JPG)
-```
+| **진단**                                | **임상 양상**                                                                             | **병력/위험 인자**     |
+| ------------------------------------- | ------------------------------------------------------------------------------------- | ---------------- |
+| **Gluteal muscle tear or avulsion\*** | 압통, lat thigh/buttock 방사통, resisted external rotation 시 통증; 외전 약화, Trendelenburg gait | 중년 여성            |
+| **Iliac crest apophysis avulsion**    | iliac crest 압통 및/또는 ecchymosis                                                        | 외상, <25세(골격 미성숙) |
+
+_\*Conditions associated with Greater trochanter pain syndrome_
 
 #### Posterior pain
 
-```
-![image](images/2ab78d16-5030-45df-8db0-640225120eb3.JPG)
-```
+| **진단**                                  | **임상 양상**                                                                                    | **병력/위험 인자**                                  |
+| --------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Hamstring muscle strain or avulsion** | 엉덩이 통증, 압통, ischial tuberosity 압통; ecchymosis, 하지 굴곡 약화, palpable gap                        | 고관절 굴곡 & 하지 신전 시 eccentric muscle contraction |
+| **Ischial apophysis avulsion**          | 엉덩이 통증, 압통, ecchymosis                                                                       | 골격 미성숙, eccentric muscle contraction          |
+| **Ischiofemoral impingement**           | buttock/back pain, post thigh 방사통; sciatica 증상                                               | —                                             |
+| **Piriformis syndrome**                 | buttock pain, 앉거나 걸을 때 악화, post thigh 방사통, sciatic notch 위 압통; sciatica 증상, log roll test(+) | buttock 외상                                    |
+| **SIJ dysfunction**                     | 허리/엉덩이/서혜부 방사통, FABER test 시 국소 SIJ 통증, SIJ line 압통                                          | 여성(특히 임신), 경증 외상                              |
 
 #### Lateral pain
 
-```
-![image](images/23b83e76-e95b-4565-ae14-f6a785e04eed.JPG)
-```
+| **진단**                                 | **임상 양상**                                                                                | **병력/위험 인자**                          |
+| -------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------- |
+| **Greater trochanteric bursitis\***    | GT 후상방(1인치) 압통, lat thigh 방사통; ROM 정상                                                    | 달리기, 중년 여성; 보행 장애(무릎/발목 질환, 다리 길이 차이) |
+| **Greater trochanteric pain syndrome** | 압통, lat thigh 방사통, 근위 iliotibial band 압통; 경증 아침 강직, 이환 부위로 누워 자기 어려움; Trendelenburg gait | knee OA, 비만, 요통, 여성; 반복 작업            |
+| **External snapping hip**              | 압통, lat thigh 방사통; 보행 시 snapping or popping; Ober test(+), GT 위 통증                       | —                                     |
+
+_\*Conditions associated with Greater trochanter pain syndrome_
 
 ## Occult fracture
 
 * 원인 : 외상 또는 반복적 체중 부하 운동 관련
-*   임상 양상 : anterior hip or groin pain; 체중 부하/활동 시 통증(antalgic gait), 수동 움직임 시 통증(특히 ROM의 끝),
-
-    ant-lat hip 압통, SLRT/log roll/FABER test 양성
+* 임상 양상 : anterior hip or groin pain; 체중 부하/활동 시 통증(antalgic gait), 수동 움직임 시 통증(특히 ROM의 끝), ant-lat hip 압통, SLRT/log roll/FABER test 양성
 * 검사 : X선 검사에서 정상; MRI 등으로 진단
 
 ***
@@ -238,4 +246,6 @@
 * 운동량을 천천히 늘림
 * 피곤할 때는 운동하지 말 것, 추운 날씨에는 더욱 주의
 
-> **질병코드** M25.55 관절통, 골반 부분 및 대퇴
+### **질병코드**&#x20;
+
+M25.55 관절통, 골반 부분 및 대퇴
