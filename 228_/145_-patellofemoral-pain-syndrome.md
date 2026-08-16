@@ -155,6 +155,8 @@ _<mark style="color:$info;">Ref. Management of Patellofemoral Pain Syndrome. AFP
 
 - [ ] [Knee conditioning program](https://www.orthoinfo.org/recovery/knee-conditioning-program/): Stretching & Strengthening Exercises \[American Academy of Orthopaedic Surgeons]
 
+<figure><img src="../.gitbook/assets/무릎6.png" alt=""><figcaption></figcaption></figure>
+
 ### **질병코드**&#x20;
 
 M25.56　관절통, 아래다리
