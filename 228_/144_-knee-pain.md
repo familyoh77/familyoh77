@@ -1,7 +1,5 @@
 # 무릎 통증 Knee Pain
 
-![image](../.gitbook/assets/4e12ef24-3fea-4fcb-a74c-732051a7da45.JPG)
-
 ## 일반 사항
 
 * 외상, 과사용, 퇴행성 변화 등에 의한 관절 내(예: OA, RA) 또는 관절 주위(예: anserine bursitis,
@@ -25,7 +23,7 @@ collateral ligament strain)의 급만성 통증, 만성 질환의 급성 악화,
 
 ### 위험 인자
 
-* 비만![image](../.gitbook/assets/b20063af-70d6-48a4-9086-c6ba408bb4e3.JPG)
+* 비만
 * 여성
 * 낮은 유연성
 * malalignment
@@ -36,13 +34,18 @@ collateral ligament strain)의 급만성 통증, 만성 질환의 급성 악화,
 * 많거나 무리한 운동량, 빈도 증가
 * 무리한 활동 : 점프, 회전, 가속, 감속, 무릎 구부림
 
+### Red Flags!
+
+* 운동 중에 발생한 급성 외상
+* 관절 불안정
+* 보존적 치료로 호전되지 않음
+* 소아에서의 골절(특히 SalterHarris physeal fracture)
+
 ## 진단
 
 ### 신체검사
 
-> ✽knee anatomy 1, knee anatomy 2
-
-> ✽leg muscle(3D)
+✽[Knee anatomy](https://emedicine.medscape.com/article/1898986-overview), [Knee muscle(3D)](https://www.innerbody.com/image/musc09.html)
 
 * 보통 supine postion에서 hamstring muscles을 이완한 상태로 시행
 

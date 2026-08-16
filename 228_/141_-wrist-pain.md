@@ -56,7 +56,7 @@
 
 ### <mark style="color:orange;">손목의 해부학적 구조</mark>
 
-✽[wrist anatomy 1](https://emedicine.medscape.com/article/1899456-overview), [wrist anatomy 2](https://www.aafp.org/afp/2004/0415/p1941.htm) ✽[forearm muscle](https://www.healthline.com/human-body-maps/forearm#1)(3D) ✽[hand muscle](https://www.healthline.com/human-body-maps/ring-finger#1)(3D)
+✽[Wrist anatomy](https://emedicine.medscape.com/article/1899456-overview), [Hand muscle(3D)](https://www.innerbody.com/image_skel13/ligm27.html)
 
 <figure><img src="../.gitbook/assets/손목1.png" alt=""><figcaption><p>Rt hand dorsum (Ref. Hand and Wrist Injuries. AFP 2004;69(8). Fig 1)</p></figcaption></figure>
 
@@ -88,11 +88,11 @@ TFCC = triangular fibrocartilage complex(triangular fibrocartilage, ulnar collat
 ### <mark style="color:orange;">영상 검사</mark>
 
 * 일률적인 검사는 권하지 않음
-* X선 : 급성 외상에서 골절·탈구 평가의 초기 검사이며, 만성 지속성 손목 통증에서도 원인이 명확하지 않으면 우선 고려 [ACR 2023]
+* X선 : 급성 외상에서 골절·탈구 평가의 초기 검사이며, 만성 지속성 손목 통증에서도 원인이 명확하지 않으면 우선 고려 \[ACR 2023]
   * scaphoid Fx.에서 초기 X선 검사의 최대 20\~30%가 위음성일 수 있음; 임상적으로 골절이 의심되면 고정 후 조기 MRI(또는 CT)를 고려하고, 즉시 추가 영상이 어려우면 10\~14일 후 임상 재평가 및 X선 재촬영
 * CT : X선에서 보이지 않는 골절 또는 골성 병변 평가에 고려
 * MRI : occult fracture, 무혈관괴사 및 인대·건 등 연조직 병변 평가에 고려
-  * 만성 손목 통증에서 X선이 정상 또는 비특이적이고 인대·TFCC 병변이 의심되면 MRI 또는 MR arthrography 고려 [ACR 2023]
+  * 만성 손목 통증에서 X선이 정상 또는 비특이적이고 인대·TFCC 병변이 의심되면 MRI 또는 MR arthrography 고려 \[ACR 2023]
 * 초음파 : 인대 및 낭종 진단; 시술자에 따른 정확도의 편차가 있음, 복잡한 골격 구조를 평가하기 어려움
 * 기타 : bone scan, arthrography, arthroscopy
 
@@ -156,14 +156,14 @@ _Ref. Red flags for potential serious conditions in patients with elbow, wrist, 
 * 손목의 골과 인대 사이에서 median nerve entrapment에 의해 발생하는 지연형 정중신경 마비 (☞ [수근관증후군](142_-carpal-tunnel-syndrome-cts.md))
 * 관련 요인/위험 인자 : 여성, 비만, 당뇨병, 갑상선저하증, RA, 임신, 원위요골 골절 후 변형 등; 반복적인 강한 힘 사용이나 진동 노출은 직업성 CTS 위험과 관련될 수 있으나 일반적인 키보드 사용과의 인과관계는 명확하지 않음
 * 증상 : 엄지·검지·중지 및 약지의 요측 절반(median nerve distribution)의 저림·통증·감각 저하가 전형적이며 밤에 심함; 손 사용이나 손목 굴곡 시 악화될 수 있음. Palmar cutaneous branch는 carpal tunnel을 통과하지 않아 thenar eminence의 감각은 대개 보존됨
-* 검사 : Tinel test, Phalen test, reverse Phalen test, carpal compression test; 병력·이학적 소견에 기반한 CTS-6 임상 진단 도구로 대부분 충분하며, 신경전도/근전도·초음파의 일률적 시행은 권고되지 않음 [AAOS 2024 Strong evidence]
+* 검사 : Tinel test, Phalen test, reverse Phalen test, carpal compression test; 병력·이학적 소견에 기반한 CTS-6 임상 진단 도구로 대부분 충분하며, 신경전도/근전도·초음파의 일률적 시행은 권고되지 않음 \[AAOS 2024 Strong evidence]
   * CTS-6 구성 항목(6가지 소견에 가중치를 부여해 점수화) : 야간 저림·통증, 정중신경 분포의 저림, thenar 위약, Tinel sign 양성, Phalen test 양성, 정중신경 분포의 2-point discrimination 저하\
-  ✽AAOS 2024 지침은 일반적인 키보드 사용과 CTS 발생 사이에 명확한 연관성 근거가 없다고 명시함(작업 관련 CTS는 진동 노출, 강한 힘의 반복 사용 등과 더 관련)
+    ✽AAOS 2024 지침은 일반적인 키보드 사용과 CTS 발생 사이에 명확한 연관성 근거가 없다고 명시함(작업 관련 CTS는 진동 노출, 강한 힘의 반복 사용 등과 더 관련)
 
 #### <mark style="color:$primary;">de Quervain tenosynovitis (드퀘르뱅 건초염)</mark>
 
 * 엄지손가락과 손목을 연결하는 제1 신근구획 힘줄(장무지외전근건 및 단무지신전근건)의 협착성 건초염
-* 원인 : 반복적인 엄지·손목 사용(gripping or grabbing; 도구 사용, golf club, tennis racket 등)과 연관될 수 있으며, 임신·산후/수유기에 호발; 다만 반복적·강한 수작업과의 연관성은 보고되나 인과관계는 확립되지 않음 [Stahl et al. Plast Reconstr Surg 2013]
+* 원인 : 반복적인 엄지·손목 사용(gripping or grabbing; 도구 사용, golf club, tennis racket 등)과 연관될 수 있으며, 임신·산후/수유기에 호발; 다만 반복적·강한 수작업과의 연관성은 보고되나 인과관계는 확립되지 않음 \[Stahl et al. Plast Reconstr Surg 2013]
 * 증상 : 엄지손가락과 손목의 통증, 손목 부종, 주먹 또는 도구를 쥘 때 통증 또는 힘의 약화
 * 검사 : Finkelstein(Eichhoff) test
 
@@ -245,13 +245,13 @@ graph TD
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 * 스테로이드 국소 주사
-  * de Quervain 건초염 : 활동 조절과 함께 corticosteroid injection을 조기에 고려할 수 있으며, 3\~4주 thumb spica immobilization 병용이 효과적인 1차 치료 전략으로 제시됨 [Challoumas et al. JAMA Netw Open 2023]
-  * 손목터널증후군 : 단기 증상 완화 효과는 있으나 장기적 이득은 입증되지 않음 [AAOS 2024 Strong evidence]
+  * de Quervain 건초염 : 활동 조절과 함께 corticosteroid injection을 조기에 고려할 수 있으며, 3\~4주 thumb spica immobilization 병용이 효과적인 1차 치료 전략으로 제시됨 \[Challoumas et al. JAMA Netw Open 2023]
+  * 손목터널증후군 : 단기 증상 완화 효과는 있으나 장기적 이득은 입증되지 않음 \[AAOS 2024 Strong evidence]
   * 감염, 연골 손상, 피부 색소 탈실 등의 위험을 사전에 설명
-* PRP(platelet-rich plasma) 주사 : 손목터널증후군의 비수술적 치료에서 장기적 이득이 입증되지 않음 [AAOS 2024 Strong evidence]
-* 낭종(ganglion cyst) 흡인 : 증상이 있는 경우 고려하나 1년 내 50% 이상에서 재발할 수 있음 [AFP 2024]
+* PRP(platelet-rich plasma) 주사 : 손목터널증후군의 비수술적 치료에서 장기적 이득이 입증되지 않음 \[AAOS 2024 Strong evidence]
+* 낭종(ganglion cyst) 흡인 : 증상이 있는 경우 고려하나 1년 내 50% 이상에서 재발할 수 있음 \[AFP 2024]
 * 수술 : carpal tunnel syndrome, de Quervain 건초염 등에서 보존적 치료로 호전되지 않을 때 고려
-  * 손목터널증후군 : mini-open과 endoscopic release 간 장기 결과의 차이는 없음; 국소 마취만으로 시행 가능하며, 수술 후 정기적 재활치료나 부목 고정을 일률적으로 시행할 필요는 없음 [AAOS 2024]
+  * 손목터널증후군 : mini-open과 endoscopic release 간 장기 결과의 차이는 없음; 국소 마취만으로 시행 가능하며, 수술 후 정기적 재활치료나 부목 고정을 일률적으로 시행할 필요는 없음 \[AAOS 2024]
 
 ***
 
@@ -261,9 +261,9 @@ M25.53 관절통, 아래팔
 
 M25.54 관절통, 손
 
-M65.4 요골경상돌기건초염[드퀘르뱅]
+M65.4 요골경상돌기건초염\[드퀘르뱅]
 
-G56.0 정중신경의 병변[손목터널증후군]
+G56.0 정중신경의 병변\[손목터널증후군]
 
 M77.2 손목의 관절주위염
 
@@ -312,7 +312,7 @@ S66 손목 및 손 부위의 근육 및 힘줄의 손상
 > corticosteroid injection  조기에 고려
 > ```
 >
-> _✽Finkelstein(Eichhoff) test가 진단에 도움이 된다. Corticosteroid injection 후 3~4주 thumb spica immobilization을 병용하는 전략이 1차 치료로 제안된다. CSI 단독과 비교한 추가적인 기능·통증 개선은 통계적으로 유의했으나 임상적으로 의미 있는 차이에는 미치지 못했다(Challoumas et al. JAMA Netw Open 2023)._
+> _✽Finkelstein(Eichhoff) test가 진단에 도움이 된다. Corticosteroid injection 후 3\~4주 thumb spica immobilization을 병용하는 전략이 1차 치료로 제안된다. CSI 단독과 비교한 추가적인 기능·통증 개선은 통계적으로 유의했으나 임상적으로 의미 있는 차이에는 미치지 못했다(Challoumas et al. JAMA Netw Open 2023)._
 
 > **처방례 4. Scaphoid 골절 의심(임상적 의심, 초기 X선 음성)**
 >
@@ -322,7 +322,7 @@ S66 손목 및 손 부위의 근육 및 힘줄의 손상
 > 즉시 추가 영상이 어려우면 10~14일 후 임상 재평가 및 X선 재촬영
 > ```
 >
-> _✽초기 X선의 위음성률이 최대 20~30%로 높아, snuffbox 압통이 있으면 임상적으로 골절에 준하여 치료_
+> _✽초기 X선의 위음성률이 최대 20\~30%로 높아, snuffbox 압통이 있으면 임상적으로 골절에 준하여 치료_
 
 ***
 

@@ -19,13 +19,12 @@
 
 <table><thead><tr><th width="230">진단</th><th>병인 / 임상 양상 / 진단 검사</th><th width="250">치료</th></tr></thead><tbody><tr><td><strong>외측상과염 (Lateral epicondylitis, Tennis elbow)</strong></td><td>• 반복적인 팔꿈치/손목 움직임<sup>1)</sup><br>• 잠행성; 주로 쓰는 팔 이환; lateral epicondyle 압통<sup>2)</sup><br>• 손목 resisted extension 또는 radial deviation 시 통증, 악력 감소<br>• Cozen test, Mill test, book test, middle finger test; pain-free grip strength 평가<br>• 국소 마취 주사는 routine 진단검사가 아니며 비전형적이거나 진단이 불확실한 경우 선택적으로 고려</td><td>• 활동/부하 조절, Ice, 필요 시 counterforce brace<br>• 점진적 스트레칭 및 근력 강화 운동(PT)<br>• 단기간 NSAID 등 진통제<br>• corticosteroid 주사는 routine으로 권고하지 않음; PRP는 만성·난치성 사례에서 개별 검토 가능하나 placebo 대비 효과 미입증(근거 수준 매우 낮음)<br>• 충분한 보존적 치료에도 지속 시 재평가/정형외과 의뢰</td></tr><tr><td><strong>Posterior interosseous N. syndrome</strong></td><td>• 운동신경병증: finger/thumb extension weakness 또는 finger drop이 핵심<br>• wrist extension은 남을 수 있으나 radial deviation이 나타날 수 있음<br>• 일반적으로 감각 소실 없음</td><td>• 자극 활동 중지, 부목, PT<br>• 진행성 운동 약화 또는 보존적 치료 실패 시 전문의 평가/수술 고려</td></tr><tr><td><strong>Radial tunnel syndrome</strong></td><td>• 전완 외측부 통증<sup>3)</sup>; 뚜렷한 감각/운동 결손은 대개 없음<br>• radial tunnel 부위 압통<br>• 제3수지 resisted extension(Maudsley test) 또는 resisted supination 시 전완 근위부 신전근 통증 발생</td><td>• 자극 활동 회피, 부목, PT<br>• NSAID<br>• 무효 시 전문의 평가/수술 고려</td></tr></tbody></table>
 
-¹⁾ 초보 one-handed backhand stroke player에서 호발\
-²⁾ 손목 신전근 기시부, 특히 단요측수근신근(ECRB; Extensor Carpi Radialis Brevis) 기시부(lateral epicondyle의 원위 1 ㎝)\
-³⁾ 종종 tennis elbow로 오진하거나 이를 치료하다 실패하면 radial tunnel syndrome으로 진단하게 됨
+_¹⁾ 초보 one-handed backhand stroke player에서 호발_\
+_²⁾ 손목 신전근 기시부, 특히 단요측수근신근(ECRB; Extensor Carpi Radialis Brevis) 기시부(lateral epicondyle의 원위 1 ㎝)_\
+_³⁾ 종종 tennis elbow로 오진하거나 이를 치료하다 실패하면 radial tunnel syndrome으로 진단하게 됨_\
+_PT=physical therapy, PRP=platelet-rich plasma_
 
-PT=physical therapy, PRP=platelet-rich plasma
-
-Ref. Evaluation of elbow pain in adults. AFP 2014;89(8)
+_<mark style="color:$info;">Ref. Evaluation of elbow pain in adults. AFP 2014;89(8)</mark>_
 
 #### <mark style="color:$primary;">내측 팔꿈치 통증 (Medial elbow pain)</mark>
 
@@ -38,9 +37,9 @@ Ref. Evaluation of elbow pain in adults. AFP 2014;89(8)
 
 <table><thead><tr><th width="230">진단</th><th>병인 / 임상 양상 / 진단 검사</th><th width="250">치료</th></tr></thead><tbody><tr><td><strong>Distal biceps tendinopathy</strong></td><td>• 반복적인 팔꿈치 굴곡, 전완 회외/회내<br>• 애매한 통증(vague pain); antecubital fossa 전방 압통<br>• resisted supination 또는 굴곡 시 antecubital fossa 심부 통증 발생</td><td>• Rest, Ice; PT<br>• NSAID</td></tr><tr><td><strong>Distal biceps tendon rupture</strong></td><td>• 급격한 eccentric load 후 발생하는 "pop"음, ecchymosis, supination weakness<br>• hook test 양성(hooking 되지 않음)<sup>1)</sup></td><td>• Complete rupture 의심 시 조기 정형외과 의뢰 — 시간이 지나면 tendon retraction·scarring으로 일차 봉합이 어려워질 수 있으므로 수술 적응 환자에서는 진단·의뢰를 지연하지 않음<br>• Partial rupture는 개별 평가 후 보존적/수술적 치료 결정</td></tr><tr><td><strong>Olecranon bursitis (무균성)</strong></td><td>• minor trauma(예: 팔꿈치로 기댐), RA, gout<br>• olecranon의 boggy, cystic swelling; 만성 microtraumatic형에서는 대개 압통·홍반·열감이 뚜렷하지 않고 운동 범위 정상, 단 gout·RA 등 inflammatory aseptic bursitis에서는 국소 염증 소견이 나타날 수 있음<br>• 점액낭액 검사</td><td>• Ice, 압박 드레싱, 유발 동작 회피<br>• 지속적·증상성인 경우 선택적 흡인 고려; 감염을 충분히 배제한 난치성 사례에서 corticosteroid 주사를 제한적으로 고려할 수 있으나 피부 위축·감염 위험 설명<br>• 3개월 이상 충분한 보존적 치료에도 회복되지 않으면 bursectomy 고려<sup>3)</sup></td></tr><tr><td><strong>Olecranon bursitis (세균성)</strong></td><td>• abrasion, cellulitis 동반<br>• olecranon 부위 염증 소견; 전신 발열(약 50%에서 발생)<sup>2)</sup><br>• 점액낭액 검사(그람염색, 배양)</td><td>• 전신 항생제 신속 시작; 진단 확인 또는 배양이 필요한 경우 (가능하면 항생제 투여 전) 흡인 및 Gram stain/배양 시행; 전신독성, 광범위 cellulitis, 면역저하 등 중증 소견 시 입원/정주 항생제 평가</td></tr><tr><td><strong>Posterior impingement</strong></td><td>• 완전 신전 시 통증<br>• 영상 검사(연골골 검사)</td><td>• 불편한 동작 회피<br>• 무효 시 arthroscopic osteotomy</td></tr><tr><td><strong>Triceps tendinopathy</strong></td><td>• 반복적인 신전 동작(힘껏 미는 동작); resisted extension 시 통증<br>• triceps M. 부착부 압통</td><td>• Rest, Ice; PT<br>• NSAID</td></tr></tbody></table>
 
-¹⁾ hook test는 tendinopathy가 아닌 distal biceps tendon rupture(특히 complete rupture)를 평가하는 검사\
-²⁾ olecranon의 국소 홍반, 열감을 동반한 급성 부종에 대해 외상, 통풍 등도 감별 고려\
-³⁾ 3개월 이상 치료에 회복 안 되는 경우 고려
+_¹⁾ hook test는 tendinopathy가 아닌 distal biceps tendon rupture(특히 complete rupture)를 평가하는 검사_\
+_²⁾ olecranon의 국소 홍반, 열감을 동반한 급성 부종에 대해 외상, 통풍 등도 감별 고려_\
+_³⁾ 3개월 이상 치료에 회복 안 되는 경우 고려_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -67,7 +66,7 @@ Ref. Evaluation of elbow pain in adults. AFP 2014;89(8)
 
 ### <mark style="color:orange;">신체검사</mark>
 
-✽[elbow anatomy](https://emedicine.medscape.com/article/96758-overview), [elbow muscle](https://www.healthline.com/health/elbow-muscles-male#1)(3D)
+✽[Elbow anatomy](https://emedicine.medscape.com/article/96758-overview), [Elbow muscle(3D)](https://www.innerbody.com/image/musc07.html)
 
 * 팔꿈치 신전 및 굴곡 운동 범위가 완전히 정상이라면 주요 관절내 병변 가능성은 상대적으로 낮아짐
 
