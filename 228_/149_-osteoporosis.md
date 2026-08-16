@@ -288,22 +288,35 @@
 * 주사제 : 5 ㎎ 1년마다, 15분 이상 IV \[졸레드론산 주]
 * 부작용 : 심방세동, 발열, 두통, 관절통, 근육통; 초회 주사에서 보다 흔히 발생
 
+```mermaid
+graph TD
+    A["3~5년¹⁾ 치료<br/>(일반 약제 5년, zoledronate 3년)"]
 
+    A --> B1["재발성 골절, 척추 골절²⁾"]
+    A --> B2["골절 없음"]
 
-1. zoledronate는 3년,   \
-   다른 BP들은 5년
-2. 경구 BP 복용 환자 중   \
-   지속 투여 고려 대상 :   \
-   • ＞75세   \
-   • 고관절 골절력   \
-   • 현재 스테로이트 복용   \
-   Pred ≥7.5 mg/d
-3. FRAX에서 도출된 주요   \
-   골절 및 둔부 골절의 확률에   \
-   기초하여 작성.
+    B2 --> C["3~5년¹⁾ 후 FRAX & BMD"]
 
-[ https://www.sheffield.ac.uk/\
-NOGG/result-bmd.html](https://www.sheffield.ac.uk/NOGG/result-bmd.html)
+    C --> D1["역치³⁾보다 나쁨 or<br/>Hip T-score ≤ -2.5"]
+    C --> D2["역치보다 좋음 &<br/>Hip T-score > -2.5"]
+
+    B1 --> E1["원인 질환 배제,<br/>치료 방법들 재평가,<br/>치료 지속 고려"]
+    D1 --> E1
+    D2 --> E2["휴약 고려,<br/>FRAX & BMD 재검<br/>(1.5~3년 후)"]
+
+    style A fill:#ece0f8,stroke:#d1c4e9,stroke-width:1px
+    style B1 fill:#fef9e7,stroke:#fff59d,stroke-width:1px
+    style B2 fill:#fef9e7,stroke:#fff59d,stroke-width:1px
+    style C fill:#e8f5e9,stroke:#c8e6c9,stroke-width:1px
+    style D1 fill:#fef9e7,stroke:#fff59d,stroke-width:1px
+    style D2 fill:#fef9e7,stroke:#fff59d,stroke-width:1px
+    style E1 fill:#e1f5fe,stroke:#b3e5fc,stroke-width:1px
+    style E2 fill:#e1f5fe,stroke:#b3e5fc,stroke-width:1px
+```
+
+¹⁾ zoledronate는 3년, 다른 BP들은 5년\
+²⁾ 경구 BP 복용 환자 중 지속 투여 고려 대상 : ＞75세, 고관절 골절력, 현재 스테로이트 복용 Pred ≥7.5 mg/d\
+³⁾ FRAX에서 도출된 주요 골절 및 둔부 골절의 확률에 기초하여 작성.
 
 Bisphosphonate 장기 치료 모니터링 알고리듬\
 Ref. NOGG. Clinical guideline for the prevention and treatment of osteoporosis. 2017.
@@ -370,8 +383,6 @@ Ref. NOGG. Clinical guideline for the prevention and treatment of osteoporosis. 
 * 부작용 : 안면 홍조, 근육 경련, 졸음, 어지럼, 입마름, 말초 부종, 설사, 구역; 혈전색전증
 * 용법 : 20 ㎎ qd \[비비안트]; Vit D 복합제 \[바펜디]
 
-
-
 ### Menopausal hormone therapy & tibolone
 
 *   적용 : 골절 위험도가 높은, 아래 특성의 폐경 여성에서 ① 모든 종류의 골절을 예방하기 위하여 자궁적출술을 받은 여성에서는
@@ -397,6 +408,13 @@ Ref. NOGG. Clinical guideline for the prevention and treatment of osteoporosis. 
 * 부작용 : 하복부 통증, 비정상적 체모 증가, 질 분비물, 질 출혈, 유방 압통, 체중 증가
 * 용법 : 1.25\~5 ㎎/d \[리비알]
 
+
+
+\*HT(Hormonal therapy): uterus(-) 시 estrogen, uterus(+) 시 estrogen + progestin
+
+폐경 여성의 골다공증 치료 알고리듬\
+Ref. ESE. Pharmacological Management of Osteoporosis in Postmenopausal Women. 2019. Fig 2.
+
 ### 기타
 
 #### Testosterone
@@ -414,11 +432,7 @@ Ref. NOGG. Clinical guideline for the prevention and treatment of osteoporosis. 
 
 * 작용 : osteoclast 작용 억제
 * 효과 : 골 통증에 대한 약간의 진통 효과; 다른 제제보다 골 소실 예방/골절 감소 효과 적음
-*   적용 : 골절 위험도가 높은 골다공증이 있는 폐경 여성에서 다른 치료(예: raloxifene, bisphosphonates, estrogen,
-
-    denosumab, tibolone, abaloparatide, teriparatide)를 적용할 수 없는 경우 nasal spray calcitonin 투여를 고려;
-
-    남성, 다른 치료제를 사용할 수 없는 폐경 5년 이후 여성에 적용
+* 적용 : 골절 위험도가 높은 골다공증이 있는 폐경 여성에서 다른 치료(예: raloxifene, bisphosphonates, estrogen, denosumab, tibolone, abaloparatide, teriparatide)를 적용할 수 없는 경우 nasal spray calcitonin 투여를 고려; 남성, 다른 치료제를 사용할 수 없는 폐경 5년 이후 여성에 적용
 * 주의 : 장기간 사용 시 내성 발생; 6개월 이내 사용 후 수개월간의 휴약을 요함
 * 주사제 : 구역, 안면 홍조 부작용
 * 비강 분무제 : 200 IU/d
@@ -427,9 +441,7 @@ Ref. NOGG. Clinical guideline for the prevention and treatment of osteoporosis. 
 
 ### 모니터링
 
-```
-[대한골대사학회](2022)
-```
+\[대한골대사학회]\(2022)
 
 * 치료 목표 : 대퇴골 전체 골밀도 T-score -2.0 제안
 * 골다공증 치료제의 효과를 확인하기 위해 골밀도 및 생화학적 골표지자를 추적 평가
@@ -444,14 +456,25 @@ Ref. NOGG. Clinical guideline for the prevention and treatment of osteoporosis. 
 
 ### 약제별 효능 비교
 
-```
-![image](images/423c9e2d-d133-41eb-b7ee-0bedb19b6976.JPG)
-```
+<table><thead><tr><th width="176">성분명 [상품명]</th><th width="158">용량</th><th>척추1)</th><th>고관절1)</th><th>비척추1)</th></tr></thead><tbody><tr><td>alendronate²⁾ [포사맥스]</td><td>10 mg/d, 70 mg/wk PO</td><td>+</td><td>+</td><td>+</td></tr><tr><td>risedronate²⁾ [악토넬]</td><td>5 mg/d, 35 mg/wk PO</td><td>+</td><td>+</td><td>+</td></tr><tr><td>ibandronate [본비바]</td><td>150 mg/m PO, 3 mg/3m IV</td><td>+</td><td>-</td><td>+</td></tr><tr><td>zoledronate²⁾ [졸레드론산]</td><td>5 mg/y IV</td><td>+</td><td>+</td><td>+</td></tr><tr><td>raloxifene [에비스타]</td><td>60 mg/d PO</td><td>+</td><td>-</td><td>-</td></tr><tr><td>결합 estrogen [프레미나]</td><td>0.624 mg/d PO</td><td>+</td><td>+</td><td>NR</td></tr><tr><td>medroxyprogesterone [프로베라]</td><td>2.5 mg/d depot</td><td>+</td><td>-</td><td>NR</td></tr><tr><td>teriparatide²⁾ [포스테오]</td><td>20 µg/d SC</td><td>+</td><td>+</td><td>+</td></tr></tbody></table>
 
-> **질병코드** M80 병적 골절을 동반한 골다공증
+1\) 효능의 임상 근거 부위
+
+²⁾ 남성 골다공증에 대하여 허가. NR=not reported. Ref. Conn’s Current therapy 2017. Osteoporosis. Table 1.
+
+### **질병코드**&#x20;
+
+M80 병적 골절을 동반한 골다공증
 
 M81 병적 골절이 없는 골다공증
 
 M81.0 폐경후골다공증
 
-![image](../.gitbook/assets/f47bd2ae-283d-403a-bce2-d9a58f85c9c1.JPG)
+
+
+## 처방례
+
+처방례 1.\
+칼디텍 츄어블, 예방 1T qd, 치료 2T #2, 식사 시 또는 식사 직후 씹어서 복용\
+처방례 2.\
+포사맥스 플러스 1T 주 1회, 아침 식사 최소 30분 전 충분한 물로 복용
