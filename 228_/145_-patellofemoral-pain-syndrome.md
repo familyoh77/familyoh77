@@ -44,15 +44,21 @@ _<mark style="color:$info;">Ref. Management of Patellofemoral Pain Syndrome. AFP
 
 * 90°굴곡 상태에서 완전 신전시킬 때 슬개골이 상외측으로 이동하면 양성
 
+<div align="left"><figure><img src="../.gitbook/assets/무릎3.png" alt=""><figcaption></figcaption></figure></div>
+
 #### Patellar mobility testing
 
 * resting position에서 슬개골을 외측에서 내측으로 밀어 움직임
 * 슬개골 폭의 ¼ 이상 움직여지지 않으면 외측 구조물 tightness (✽¾ 이상 움직여지면 hypermobile)
 
+<div align="left"><figure><img src="../.gitbook/assets/무릎4.png" alt=""><figcaption></figcaption></figure></div>
+
 #### Patellar tilt test
 
 * 방법 : 똑바로 누워 무릎을 펴게 하고 엄지와 집게손가락으로 슬개골을 잡고 슬개골 내측을 누르고 외측 가장자리를 들어 올림
 * tilt up 되지 않으면 외측 구조물 tightness
+
+<div align="left"><figure><img src="../.gitbook/assets/무릎5.png" alt=""><figcaption></figcaption></figure></div>
 
 #### Patellar grind (or inhibition) test
 
