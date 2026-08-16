@@ -1,7 +1,5 @@
 # 슬개대퇴 통증증후군 Patellofemoral Pain Syndrome
 
-![image](../.gitbook/assets/0fad3696-5ba7-4a2b-920a-d80248a38a03.JPG)
-
 ## 일반 사항
 
 * 앞무릎 및 슬개골 주위의 통증 및 경직. 계단 오름, 무릎 꿇음, 오래 앉아 있은 후 악화
@@ -24,7 +22,7 @@
 * patellar hypermobility
 * 외상, 수술 병력
 
-> ✽연령, 체중, 신장, BMI, Q angle, 고관절 약화는 PFPS의 위험 인자가 아니라는 보고가 있음
+- [ ] 연령, 체중, 신장, BMI, Q angle, 고관절 약화는 PFPS의 위험 인자가 아니라는 보고가 있음
 
 ## 임상 양상
 
@@ -40,9 +38,7 @@
 
 ### 신체검사
 
-> ```
-> Ref. Management of Patellofemoral Pain Syndrome. AFP 2007;75(2). fig2~4
-> ```
+_<mark style="color:$info;">Ref. Management of Patellofemoral Pain Syndrome. AFP 2007;75(2). fig2\~4</mark>_
 
 #### J sign (Lat patellar tracking)
 
@@ -82,15 +78,35 @@
 
 ### 감별
 
-```
-(☞ p.781)
-```
+(☞ [무릎통증](144_-knee-pain.md#undefined-3))
 
 #### 앞쪽 무릎 통증의 원인
 
-```
-![image](images/3dd443bc-bcc3-4a5f-9f66-6105c84be73a.JPG)
-```
+| **원인**                                | **특징**                                             |
+| ------------------------------------- | -------------------------------------------------- |
+| **Articular cartilage injury**        | 외상력, 삼출액, 이환부 압통 (예: femoral condyle, patella)     |
+| **Bone tumor**                        | 잠행성 통증, 골의 압통                                      |
+| **Chondromalacia patellae**           | Retropatellar pain, 외상력, 삼출액                       |
+| **Hoffa’s disease**                   | infrapatellar fat pad의 통증 및 압통                     |
+| **Iliotibial band syndrome**          | 외측부 통증, lateral femoral epicondyle 압통              |
+| **Loose body**                        | 다양한 증상, intermittent sharp pain, locking, effusion |
+| **Osgood-Schlatter disease**          | 청소년에서 tibial tubercle의 patellar tendon 부착부 압통 및 부종 |
+| **Osteochondritis dissecans**         | 다양한 증상, intermittent pain, swelling, or locking    |
+| **Patellar instability/subluxation**  | 슬개골의 불안감과 함께 간헐적 통증, 부종, medial retinaculum 압통     |
+| **Patellar stress fracture**          | 슬개골 압통                                             |
+| **Patellar tendinopathy**             | tendon 압통, 만성인 경우 tendon 비후                        |
+| **Patellofemoral osteoarthritis**     | crepitus 또는 삼출액                                    |
+| **Patellofemoral pain syndrome**      | Ant knee pain(슬개골 주위 또는 뒷부분), 삼출액 없음               |
+| **Pes anserine bursitis**             | 무릎 내측 통증, pes anserine bursa 압통                    |
+| **Plica synovialis**                  | patella 내외측 압통                                     |
+| **Prepatellar bursitis**              | 외상 후 슬개골 전방의 부종                                    |
+| **Quadriceps tendinopathy**           | tendon 압통                                          |
+| **요추/고관절 연관통**                        | origin에 따라 다른 증상, 무릎 진찰 소견은 대부분 정상                 |
+| **Saphenous neuritis**                | 통증은 대부분 poorly localized, 수술 병력                    |
+| **Sinding-Larsen-Johansson Syndrome** | 청소년에서 슬개골 inferior pole의 patellar tendon 부착부 압통    |
+| **Symptomatic bipartite patella**     | 슬개골 위의 압통 및 특징적 영상 소견                              |
+
+_<mark style="color:$info;">Ref. Management of Patellofemoral Pain Syndrome. AFP 2007;75(2). Table 2</mark>_
 
 ***
 
@@ -108,11 +124,9 @@
 * Rest : 통증이 해소될 때까지 무릎 통증을 유발하는 활동 중단(cast immobilization 포함)
 * Ice : 1일 수회, 1회 20분(피부가 얼얼할 정도의 시간) 시행; 동상 주의(피부에 직접 얼음이 닿지 않도록 함)
 
-> ✽열 치료는 권하지 않음
+- [ ] 열 치료는 권하지 않음
 
-*   Compression : 압박 붕대 적용(부종 악화 방지 효과); kneecap 부위에는 hole이 있도록 하며 압박이 통증을 유발하지 않는
-
-    정도로 편안하게 적용
+* Compression : 압박 붕대 적용(부종 악화 방지 효과); kneecap 부위에는 hole이 있도록 하며 압박이 통증을 유발하지 않는 정도로 편안하게 적용
 * Elevation : 가능한 한 자주 무릎을 심장보다 높게 위치시킴
 * 기타 : taping, bracing; electrotherapy, 바이오피드백, foot orthoses, 수술
 
@@ -133,8 +147,17 @@
 * 과거 무릎을 손상시킨 모든 활동을 줄임
 * 하지 하중을 줄임, 과체중 시 체중 감량
 
-✽[Knee conditioning program](https://omgsd.com/wp-content/uploads/2017/09/Knee-conditioning-program.pdf): Stretching & Strengthening Exercises \[American Academy of Orthopaedic Surgeons]
+- [ ] [Knee conditioning program](https://www.orthoinfo.org/recovery/knee-conditioning-program/): Stretching & Strengthening Exercises \[American Academy of Orthopaedic Surgeons]
 
-> **질병코드** M25.56　관절통, 아래다리
+### **질병코드**&#x20;
 
-![image](../.gitbook/assets/bbd7be6b-86af-4397-9135-0c83330170dd.JPG)
+M25.56　관절통, 아래다리
+
+
+
+## 처방례
+
+처방례 1.\
+타이레놀 이알 650 ㎎/T 3T #3\
+처방례 2.\
+맥시부펜 이알 300 ㎎/T 3T #3
