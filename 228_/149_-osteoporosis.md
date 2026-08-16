@@ -288,6 +288,26 @@
 * 주사제 : 5 ㎎ 1년마다, 15분 이상 IV \[졸레드론산 주]
 * 부작용 : 심방세동, 발열, 두통, 관절통, 근육통; 초회 주사에서 보다 흔히 발생
 
+
+
+1. zoledronate는 3년,   \
+   다른 BP들은 5년
+2. 경구 BP 복용 환자 중   \
+   지속 투여 고려 대상 :   \
+   • ＞75세   \
+   • 고관절 골절력   \
+   • 현재 스테로이트 복용   \
+   Pred ≥7.5 mg/d
+3. FRAX에서 도출된 주요   \
+   골절 및 둔부 골절의 확률에   \
+   기초하여 작성.
+
+[ https://www.sheffield.ac.uk/\
+NOGG/result-bmd.html](https://www.sheffield.ac.uk/NOGG/result-bmd.html)
+
+Bisphosphonate 장기 치료 모니터링 알고리듬\
+Ref. NOGG. Clinical guideline for the prevention and treatment of osteoporosis. 2017.
+
 ### RANK ligand 억제제
 
 #### Denosumab
