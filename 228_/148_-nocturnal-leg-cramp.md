@@ -110,8 +110,16 @@ Ref. Navigate Health [Cramps in the Leg](https://patient.info/bones-joints-muscl
   * hydroxychloroquine sulfate : 200 ㎎/d ×2wk → 200 ㎎/wk \[할록신]
 * botulinum toxin 주사
 
+### **질병코드**&#x20;
 
+R25.2 경련 및 연축
 
-> **질병코드** R25.2 경련 및 연축
+## 처방례
 
-![image](../.gitbook/assets/8618721c-e980-4647-a6ff-955da52c16f2.JPG)
+처방례 1.\
+마그네스 4T #2 → 효과 발생 후 감량 조절 (비보험)\
+삐콤 2T #2 (비보험)\
+처방례 2.\
+타이레놀 이알 650 ㎎/T 1T 야간\
+스락신 25 ㎎ 8T #2 (보험주의)
+
