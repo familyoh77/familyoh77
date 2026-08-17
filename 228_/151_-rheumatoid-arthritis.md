@@ -1,7 +1,5 @@
 # 류마티스 관절염 Rheumatoid Arthritis
 
-![image](../.gitbook/assets/093ca44f-9178-4c0c-955f-b3bb443cb5b8.JPG)
-
 ## 일반 사항
 
 * 자신의 관절 조직을 공격하는 항체를 생성하는 자가면역 질환인 류마티스와 관련된 만성, 염증성, 대칭적, 다발성 관절염
@@ -31,9 +29,20 @@
 * 초기에는 하나의 작은 관절의 간헐적 통증
 * 통증, 부종, 압통, 동작 시 통증; 보통 대칭적 분포 (✽부종은 synovial 비대 또는 삼출에 기인함)
 * 강직 : 30분 이상 지속되고 신체 활동으로 호전, 특히 조조강직/경부 강직, 격렬한 활동 후 심함
-*   경추 외의 척추와 sacroiliac joint 이환은 드묾
+* 경추 외의 척추와 sacroiliac joint 이환은 드묾
 
-    ![image](../.gitbook/assets/df31658c-d39e-4c79-846c-3e3c8ff8b3c9.JPG)
+**작은 관절의 임상 양상**&#x20;
+
+* 손(MCP, PIP), 손목 → Swan neck 변형, Boutonniere 변형, MCP 관절 척골측 편위, 방아쇠 수지, 수근관증후군
+* 발(MTP, talonavicular), 발목 → 발바닥 작열감, 보행 장애
+* 최종적으로 모든 말초 관절 이환
+
+**큰 관절의 임상 양상**
+
+* 큰 관절의 가동 범위 감소
+* 팔꿈치 : 척골신경 압박증후군(4번째, 5번째, 손가락의 감각 이상, 약화)
+* 무릎 : Baker’s cyst
+* Axial & central joint 이환은 상대적으로 덜함 (환자의 20\~50%에서 발생)
 
 ### 관절 외 증상
 
@@ -50,18 +59,27 @@
 
 ## 진단
 
-```
-![image](images/9571d2a6-7a19-4738-bf2b-20dfb257d272.JPG)
-```
+<table><thead><tr><th width="213">구분</th><th width="365">항목</th><th>배점</th></tr></thead><tbody><tr><td><strong>A. 관절 이환</strong></td><td>‘큰 관절’1) 1개 이환</td><td>0</td></tr><tr><td></td><td>‘큰 관절’ 2~10개 이환</td><td>1</td></tr><tr><td></td><td>‘작은 관절’2) 1~3개 이환 (큰 관절 침범 여부 무관)</td><td>2</td></tr><tr><td></td><td>‘작은 관절’ 4~10개 이환 (큰 관절 침범 여부 무관)</td><td>3</td></tr><tr><td></td><td>‘관절’3) ≥11개 이환 (‘작은 관절’ 적어도 1개 이환)</td><td>5</td></tr><tr><td><strong>B. 혈청 검사</strong> </td><td>RF 음성 &#x26; ACPA 음성</td><td>0</td></tr><tr><td>(적어도 1개 검사 결과 필요)</td><td>‘낮은 양성’4) RF 또는 ‘낮은 양성’ ACPA</td><td>2</td></tr><tr><td></td><td>‘높은 양성’5) RF 또는 ‘높은 양성’ ACPA</td><td>3</td></tr><tr><td><strong>C. 급성기 반응 물질</strong></td><td>정상 CRP &#x26; 정상 ESR</td><td>0</td></tr><tr><td> (적어도 1개 검사 결과 필요)</td><td>비정상 CRP 또는 비정상 ESR</td><td>1</td></tr><tr><td><strong>D. 증상 지속 기간6)</strong></td><td>&#x3C;6주</td><td>0</td></tr><tr><td></td><td>≥6주</td><td>1</td></tr></tbody></table>
+
+_1) 큰 관절 : shoulder, elbow, hip, knee, ankle_\
+_2) 작은 관절 : MCPJ, PIPJ, thumb IPJ, 2nd-5th MTPJ, wrist_\
+_3) 턱관절 등 특별히 언급되지 않은 관절들도 해당될 수 있음._\
+_4)‘낮은 양성’= 정상 상한값의 ≤3배 상승; RF 정성 검사를 한 경우에는 ‘양성’을 ‘낮은 양성’으로 취급_\
+_5) ‘높은 양성’= 정상 상한값의 ＞3배_\
+_6) 증상 기간은 윤활막염의 소견(통증, 부종, 압통)에 대한 환자의 설명을 참조함_\
+_\*관절 이환은 진찰 소견상 관절의 부종 또는 압통으로 판단하며 X선 검사로 윤활막염을 확인할 수도 있음_\
+_\*류마티스 결절 또는 방사선학적 관절 손상은 초기 RA에서는 드물기 때문에 기준에서 제외 ‘큰 관절’_
+
+* _ACPA=Anti-citrullinated peptide/protein Ab_
+
+_Ref. 2010 ACR/EULAR. Rheumatoid arthritis classification criteria. Arthritis & Rheum 2010:62(9)_
 
 ### 영상 검사
 
 * 진단 검사 방법들 중 가장 특이적이지만 보통 증상 발생 후 6개월 동안은 정상 소견을 보임
-*   X선 : 진단 및 치료 반응 평가를 위해 시행; 초기 손, 손목, 발 촬영
-
-    •초기 : 연조직 swelling, juxta-articular demineralization.
-
-    •진행 : 관절 미란, 관절 간격 감소
+* X선 : 진단 및 치료 반응 평가를 위해 시행; 초기 손, 손목, 발 촬영
+  * 초기 : 연조직 swelling, juxta-articular demineralization.
+  * 진행 : 관절 미란, 관절 간격 감소
 * 초음파, MRI : 뼈와 연조직 변화 진단에 X선보다 민감하지만 조기 진단 가치는 명확하지 않음
 
 ### 실험실 검사
@@ -75,10 +93,7 @@
 
 #### Rheumatoid factor
 
-* RF 증가 상황 : 만성 감염(예: 아급성 세균성 심내막염, 결핵, 매독), 바이러스 감염(예: 감염성 단
-
-핵구증, 거대세포바이러스, 인플루엔자), 기생충 감염, 사르코이드병, 간질성 폐질환, 비감염성 간염
-
+* RF 증가 상황 : 만성 감염(예: 아급성 세균성 심내막염, 결핵, 매독), 바이러스 감염(예: 감염성 단핵구증, 거대세포바이러스, 인플루엔자), 기생충 감염, 사르코이드병, 간질성 폐질환, 비감염성 간염
 * 민감도 80\~90%
 * 역가와 진행 정도의 상관관계 없음
 * 양성 시 반복 검사 필요 없음
@@ -94,19 +109,30 @@
 
 #### RA 검사 항체들의 정확도
 
-```
-☞ p.813
-```
+☞ [류마티스질환](150_-rheumatoid-disease.md#undefined-6)
 
 ### 자가 진단 tool
 
-* [대한류마티스학회 류서치(rheusearch) 프로그램](http://www.rheusearch.com/survey/step1Form.do)
+*
 
 ### RA vs OA 비교
 
-```
-![image](images/f58e0e8b-0592-455e-b2d3-f863933b93a9.JPG)
-```
+| 구분         | **RA (Rheumatoid Arthritis)**                                                  | **OA (Osteoarthritis)**                                   |
+| ---------- | ------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| **Nature** | 자가면역 질환에 의한 관절의 염증                                                             | 관절 연골의 마모/찢어짐                                             |
+| **위험 인자**  | 유전, 환경, 호르몬, 흡연, 비만                                                            | 연령 증가(고령), 반복 동작(직업/운동), 오래된 손상, 적절히 치료되지 않은 손상, 유전       |
+| **이환 관절**  | 시작: MCPJ, PIPJ                                                                 | 시작: DIPJ, Carpometacarpal                                 |
+| **관절 증상**  | 반복성, 대칭성; 신체 모든 관절 이환 가능(예: 손, 손가락, 팔꿈치, 무릎, 엉덩이)                              | 신체 한 구역, 소수 관절; weight bearing 또는 반복 사용 관절(예: 손, 손가락, 무릎) |
+| **관절 강직**  | 통증/강직(휴식 후 악화); 부종; 조조강직 > 30분                                                 | 통증/강직(활동 후 악화); 조조강직 < 30분                                |
+| **관절 특징**  | soft, warm, tender                                                             | hard, bony                                                |
+| **동반 증상**  | 피로, 발열, 체중 감소, 식욕 감퇴                                                           | RA에서의 동반 증상 없음                                            |
+| **진단**     | 가족력, RF(+), ACPA(+), ESR↑, CRP↑, 영상 검사(관절 손상/염증)                               | 영상 검사(관절의 퇴행성 변화, 진행성 손상)                                 |
+| **치료**     | 질병 자체에 대한 치료 방법 없음. RA에서 면역 치료; 대증 치료, 관절 강직 예방 치료(운동, 체중 관리, 생활 습관 교정, NSAID) | 대증 치료, 관절 강직 예방 치료(운동, 체중 관리, 생활 습관 교정, NSAID)            |
+| **경과**     | 갑자기 악화(수 주 안에 악화될 수 있음)                                                        | 시간 경과에 따라 악화                                              |
+| **예후**     | 예측하기 어려움; 전신 류마티스 질환 발병 가능                                                     | 시간 경과에 따라 악화; 적절한 치료로 반응                                  |
+
+MCP=metacarpophalangeal, PIP=proximal interphalangeal, DIP= distal interphalangeal\
+✽압통 및 팽창된 관절이 많을수록, 신체 장애가 심할수록 RA 가능성이 높음
 
 ***
 
@@ -115,9 +141,8 @@
 ### 치료 방침
 
 * 빠른 진단, 빠른 활성 상태 파악, 빠른 염증 관리, 빠른 기저 질환 관리
-*   초기부터 적극적/공격적 치료; 가능한 한 초기부터 DMARD 투여
-
-    •DMARD에 반응이 나타날 때까지 증상 조절을 위하여 단기간 NSAID &/or steroid 병용
+* 초기부터 적극적/공격적 치료; 가능한 한 초기부터 DMARD 투여
+  * DMARD에 반응이 나타날 때까지 증상 조절을 위하여 단기간 NSAID &/or steroid 병용
 * 관절 외 질환 및 증상 관리 : 빈혈, ASCVD, 고지혈증, 고혈압, 흡연, 비활동 생활에 대하여 관리
 * 면역 조절제는 생백신 접종 2주 전\~6주 후 동안 투여 중단 (✽중단 필요에 대한 증거는 없음)
 
@@ -127,29 +152,23 @@
 
 #### Boolean-based definition
 
-*   언제나 다음 모두를 충족시킴
-
-    ① 압통 관절수 ≤1개
-
-    ② 팽창 관절수 ≤1개
-
-    ③ CRP ≤1 ㎎/㎗
-
-    ④ 환자의 주관적 증상 0\~10점 스케일에서 전반적 평가 ≤1점
+* 언제나 다음 모두를 충족시킴
+  1. 압통 관절수 ≤1개
+  2. 팽창 관절수 ≤1개
+  3. CRP ≤1 ㎎/㎗
+  4. 환자의 주관적 증상 0\~10점 스케일에서 전반적 평가 ≤1점
 
 #### Index-based definition : SDAI(simplified disease activity index)
 
 *   단순화된 질병 활성도 지표 점수(다음 항목)의 총점 ≤3.3
 
-    ① CRP 수치(㎎/㎗) ④ 0\~10점 스케일의 환자의 전반적 평가 점수
+    1. CRP 수치(㎎/㎗)
+    2. 28개 관절\* 중 압통 관절 수&#x20;
+    3. 28개 관절\* 중 팽창 관절 수&#x20;
+    4. 0\~10점 스케일의 환자의 전반적 평가 점수
+    5. 0\~10점 스케일의 의사의 전반적 평가 점수
 
-    ② 28개 관절\* 중 압통 관절 수 ⑤ 0\~10점 스케일의 의사의 전반적 평가 점수
-
-    ③ 28개 관절\* 중 팽창 관절 수
-
-> ```
-> *28개 관절 : MCP(10개), PIP(8개), thumb IP(2개), shoulder(2개), elbow(2개), wrist(2개), knee(2개)
-> ```
+    \*28개 관절 : MCP(10개), PIP(8개), thumb IP(2개), shoulder(2개), elbow(2개), wrist(2개), knee(2개)
 
 ## 비-약물 치료
 
@@ -157,9 +176,8 @@
 * 충분한 활동 및 적당한 휴식, 규칙적인 운동
 * 체중 조절
 * 정신적, 사회적으로 건강한 생활 유지
-*   음식, 허브, 기타 대체 치료 : 효과가 입증된 방법은 없음
-
-    •관련 질환 관리를 위하여 gluten-free diet, 채식 등을 권고
+* 음식, 허브, 기타 대체 치료 : 효과가 입증된 방법은 없음
+  * 관련 질환 관리를 위하여 gluten-free diet, 채식 등을 권고
 
 #### 운동
 
@@ -192,31 +210,19 @@
 
 * 1차 선택제
 * 장점 : 빠른 작용(2\~6주 후 효과 발현), 효과 및 장기 순응도 우수, 상대적으로 적은 독성
-*   용법 : 7.5~~10 ㎎ qwk ×4wk → 4주 단위로 2.5~~5 ㎎ qwk 증량 → 증상 완화 시 2\~3개월마다 2.5 ㎎씩 감량;
-
-    통상 유지 용량 15(7.5\~20) ㎎ qwk, 최대 25 ㎎/wk PO or SC \[메토트렉세이트]
-*   부작용 : 간 손상(LFT↑; 15%에서 발생), 위 자극(구역, 구토; 13%), 구내염(3%), 두통(1\~2%), 골수 억제(WBC↓/Plt↓;
-
-    발열, 림프 비대, 멍/출혈, 기회감염), 폐 손상
-
-    •간독성은 누적 사용량과 관련; pancytopenia는 c-Cr ＞2 ㎎/㎗ 시 보다 흔함
-
-    •folate 1 ㎎/d or 5 ㎎/wk \[폴산], 또는 leucovorin calcium 2.5\~5 ㎎(MTX 투여 24시간 후)을 공급하면 부작용이 감소됨
-*   MTX의 독성을 증가시키는 약제
-
-    •NSAID : salicylate, naproxen, ibuprofen, indomethacin, phenylbutazone
-
-    •항생제 : TMP/SMX, amoxicillin, sulfonamide, minocycline, ciprofloxacin
-
-    •기타 : 알코올, probenecid, barbiturate, colchicine, dipyridamole, sulfonylurea, thiazide
+* 용법 : 7.5~~10 ㎎ qwk ×4wk → 4주 단위로 2.5~~5 ㎎ qwk 증량 → 증상 완화 시 2\~3개월마다 2.5 ㎎씩 감량; 통상 유지 용량 15(7.5\~20) ㎎ qwk, 최대 25 ㎎/wk PO or SC \[메토트렉세이트]
+* 부작용 : 간 손상(LFT↑; 15%에서 발생), 위 자극(구역, 구토; 13%), 구내염(3%), 두통(1\~2%), 골수 억제(WBC↓/Plt↓; 발열, 림프 비대, 멍/출혈, 기회감염), 폐 손상
+  * 간독성은 누적 사용량과 관련; pancytopenia는 c-Cr ＞2 ㎎/㎗ 시 보다 흔함
+  * folate 1 ㎎/d or 5 ㎎/wk \[폴산], 또는 leucovorin calcium 2.5\~5 ㎎(MTX 투여 24시간 후)을 공급하면 부작용이 감소됨
+* MTX의 독성을 증가시키는 약제
+  * NSAID : salicylate, naproxen, ibuprofen, indomethacin, phenylbutazone
+  * 항생제 : TMP/SMX, amoxicillin, sulfonamide, minocycline, ciprofloxacin
+  * 기타 : 알코올, probenecid, barbiturate, colchicine, dipyridamole, sulfonylurea, thiazide
 * 금기 : 간/신질환, 알코올 남용, 급성 감염, 임신, 면역 저하, BMI ＞30, 당뇨, 최근 생백신 접종
-*   모니터링
-
-    •투여 전 흉부 X선 검사
-
-    •첫 3(\~6)개월간 매달 및 이후 3개월마다 CBC/LFT; 간헐적 U/A; 필요시 hCG
-
-    •LFT 정상 상한치의 2~~3배 증가 시 2~~4주마다 재검, 필요시 MTX 감량 → 지속되면 중단
+* 모니터링
+  * 투여 전 흉부 X선 검사
+  * 첫 3(\~6)개월간 매달 및 이후 3개월마다 CBC/LFT; 간헐적 U/A; 필요시 hCG
+  * LFT 정상 상한치의 2~~3배 증가 시 2~~4주마다 재검, 필요시 MTX 감량 → 지속되면 중단
 
 #### Leflunomide (LEF)
 
@@ -231,12 +237,10 @@
 * 부작용 : WBC↓/Plt↓(10\~25%), 구역/구토, 광과민, 발진, 두통, 가려움, oligospermia
 * 주의 : 오렌지색 소변/눈물/땀 발생, 옷과 콘택트렌즈에 착색될 수 있음
 * 금기 : sulfonamide 알레르기, aspirin 과민
-*   용법 : 1주차 0.5 qd → 매주 0.5 g/d 증량 → 4주차 1 g bid, 최대 3 g/d \[사라조피린]
-
-    •충분한 물과 함께 섭취; 공복 복용 또는 제산제와 함께 복용하지 않도록 함
+* 용법 : 1주차 0.5 qd → 매주 0.5 g/d 증량 → 4주차 1 g bid, 최대 3 g/d \[사라조피린]
+  * 충분한 물과 함께 섭취; 공복 복용 또는 제산제와 함께 복용하지 않도록 함
 * 모니터링 : 투여 전 G6PD 결핍 검사
-
-•CBC/U/A : 3개월간 매 2\~4주, 이후 3개월마다
+  * CBC/U/A : 3개월간 매 2\~4주, 이후 3개월마다
 
 #### Hydroxychloroquine (HCQ)
 
@@ -284,10 +288,7 @@
 
 #### 경구제
 
-* DMARD의 효과가 나타날 때까지의 질병 활동 감소(단기) 또는 DMARD 보조(장기) 목적으로
-
-prednisolone 저용량 고려: ＜7.5 ㎎ qd 아침 \[소론도]
-
+* DMARD의 효과가 나타날 때까지의 질병 활동 감소(단기) 또는 DMARD 보조(장기) 목적으로 prednisolone 저용량 고려: ＜7.5 ㎎ qd 아침 \[소론도]
 * 중증 또는 NSAID에 반응이 부족한 경우 prednisolone 중/저용량 단기 투여 고려: 15\~30 ㎎/d
 * ＞3개월 장기 투여 시 골다공증에 대한 예방을 요함
 
@@ -299,9 +300,7 @@ prednisolone 저용량 고려: ＜7.5 ㎎ qd 아침 \[소론도]
 
 ### 진통제
 
-```
-(☞ p.12)
-```
+☞ [통증](../220_/001_-pain.md#management)
 
 #### NSAID
 
@@ -318,17 +317,31 @@ prednisolone 저용량 고려: ＜7.5 ㎎ qd 아침 \[소론도]
 * tramadol : 50~~100 ㎎ bid~~tid \[트리돌]
 * capsaicin 크림 : 3~~4회/d; 효과 발현까지 2~~4주 소요, 초기 피부 작열감 \[다이악센]
 
-수술
+## 수술
 
 * 심한 관절 손상, 기능 장애에 대하여 고려
 * joint replacement
 * joint fusion
-*   tendon repair
+* tendon repair
 
-    ![image](../.gitbook/assets/060fdb72-88e7-405a-985a-f6007f3cfbf5.JPG)
 
-> **질병코드** M05 혈청검사양성 류마티스관절염
+
+![RA 관리 알고리듬
+Ref. EULAR. Management of RA with synthetic and biological DMARDs. 2019. Fig 1.](../.gitbook/assets/060fdb72-88e7-405a-985a-f6007f3cfbf5.JPG)
+
+### **질병코드**&#x20;
+
+M05 혈청검사양성 류마티스관절염
 
 M06 기타 류마티스관절염
 
-![image](../.gitbook/assets/aa3d45f6-1426-45e4-9afe-a7d0060d9038.JPG)
+
+
+## 처방례
+
+처방례 1.\
+쎄레브렉스 200 ㎎/C 1C qd\
+메토트렉세이트 2.5 ㎎/T 3T 주 1회\
+처방례 2.\
+사라조피린 EN 500 ㎎/T 1T qd\
+타이레놀 이알 650 ㎎/T 3T #3
