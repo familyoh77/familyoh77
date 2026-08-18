@@ -9,15 +9,27 @@
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
 * 조짐(aura) : 편두통 환자의 20%에서 발생; 보통 5\~60분 지속 후 두통 발생; 운동 관련 조짐은 최대 72시간까지 지속 가능
 
-※ **기존 편두통 환자라도 다음의 경우 2차 두통 감별이 필요**
-
-* 평소와 확연히 다른 두통 양상 또는 급격한 악화
-* 전조(aura)가 60분 이상 지속 → 뇌졸중·TIA 감별, 신경과 의뢰 고려
-* 운동 조짐(편마비 등)이 새로 발생하거나 이전보다 심해진 경우
-
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-☞ [두통 Red Flags 참조](015_-headache.md#red-flags)
+☞ 일반적인 두통의 경고 징후(SNOOP 등)는 [두통 Red Flags 참조](015_-headache.md#red-flags); 아래는 편두통에 특이적인 위험 신호
+
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+
+* 새로 발생한 운동 조짐(편마비 등) 또는 기존보다 악화된 운동 조짐 → 뇌졸중·hemiplegic migraine 감별 필요
+* 비운동성 조짐이 60분 이상 지속되거나 갑작스러운 음성 신경학적 증상(감각 소실, 실어증 등) 동반 → 뇌졸중·TIA 등 2차성 원인 감별
+* Status migrainosus(72시간 이상 지속) 중 탈수·전해질 불균형 동반 시
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 평소와 확연히 다른 두통 양상 또는 급격한 악화 (기존 편두통 환자라도 2차 두통 감별 필요)
+* 새로 발생하거나 평소와 다른 양상의 조짐
+* 뇌간조짐편두통(brainstem aura) 또는 반신마비편두통(hemiplegic migraine) 의심 소견 → **허가사항상 triptan·ergotamine 사용을 피해야 하므로** 진단 확정 및 전문의 협진 필요
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+
+* 적절한 급성기·예방 치료에도 반응이 미흡한 경우
+* 두통 빈도 증가로 약물과용두통(MOH) 위험이 있는 경우
+* 만성 편두통으로 진행하는 경우
 
 ### <mark style="color:orange;">분류 \[IHS classification ICHD-3]</mark>
 
@@ -41,7 +53,9 @@
    * 6.2 Benign paroxysmal vertigo
    * 6.3 Benign paroxysmal torticollis
 
-* 월경편두통(Menstrual migraine) : 월경 -2일\~+3일에 발생, 최소 3주기 중 2주기 발생; 월경 중 다른 날에는 발생 안 함
+* 월경 관련 편두통(Menstrual migraine) : 월경 시작일을 day 1로 할 때 day -2\~+3에 최소 3주기 중 2주기 이상 발생
+  * 순수 월경편두통(pure menstrual migraine) : 이 기간에만 편두통이 발생
+  * 월경 관련 편두통(menstrually-related migraine) : 이 기간 외에도 편두통이 발생
 * Status migrainosus : ＞72시간 지속되는 심한 편두통
 
 ### <mark style="color:orange;">만성 편두통</mark>
@@ -51,7 +65,8 @@
 
 ## <mark style="color:green;">원인</mark>
 
-* trigeminovascular hypothesis : 뇌간에서의 삼차신경 뉴런 과민 → 신경 전달 물질(substance P, CGRP) 분비 → 혈관 확장, 신경인성 염증
+* 편두통은 trigeminovascular system의 활성화와 CGRP 신호, 뇌간·시상·피질을 포함한 통증 조절 네트워크의 기능 이상이 관여하는 신경계 질환으로 이해됨
+* 조짐(aura)에는 cortical spreading depolarization이 중요한 기전으로 관여
 
 ✽ 1차적인 혈관 문제는 원인으로 고려되지 않음
 
@@ -158,8 +173,8 @@ C. 다음의 여섯 가지 특징 중 ≥3가지 해당
 D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 _¹⁾ 예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
-&#xNAN;_&#xB2;⁾ 실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
-&#xNAN;_&#xB3;⁾ 섬광암점과 따끔거림은 조짐의 양성 증상임_
+_²⁾ 실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
+_³⁾ 섬광암점과 따끔거림은 조짐의 양성 증상임_
 
 ### <mark style="color:orange;">Chronic migraine (만성 편두통)</mark>
 
@@ -175,12 +190,18 @@ C. 다음 중 어느 하나가 ＞3개월 동안 ≥8일/월 발생
 
 D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 
+### <mark style="color:orange;">감별 진단</mark>
+
+* 유사한 양상으로 내원할 수 있는 질환, 특히 놓치면 위험한 이차성 두통과의 감별이 중요
+
+<table><thead><tr><th width="150">질환</th><th width="260">편두통과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>긴장형두통</td><td>양측성·압박성, 일상 활동에 의한 악화 없음, 구역/구토 드묾</td><td>(☞ <a href="017_-tension-type-headache-ttha.md#vs">긴장형두통</a>) 통증 강도 경함, 오심 동반 적음</td></tr><tr><td>군발두통</td><td>편측 안와/측두부 극심한 통증, 자율신경 증상(눈물, 코막힘) 동반, 15\~180분의 짧은 발작</td><td>발작이 훨씬 짧고 반복적(1일 수회), 초조·안절부절 양상</td></tr><tr><td>지주막하출혈(SAH)</td><td>돌발적 "벼락두통"(thunderclap), 생애 최악의 두통</td><td>수 초\~수 분 내 최고 강도 도달 → 즉시 영상 검사</td></tr><tr><td>거대세포동맥염(GCA)</td><td>새로 발생한 두통(주로 50세 이상), 측두동맥 압통, 턱파행</td><td>ESR/CRP 상승, 시력 저하 위험 → 즉시 스테로이드 및 안과/류마티스내과 의뢰</td></tr><tr><td>뇌졸중/TIA</td><td>국소 신경학적 결손이 조짐과 유사하게 나타날 수 있음</td><td>비운동성 조짐 60분 이상 지속, 음성 신경학적 증상, 새로 발생한 운동 조짐 → 영상 검사</td></tr><tr><td>약물과용두통(MOH)</td><td>기존 편두통 환자에서 두통이 매일 또는 거의 매일 발생</td><td>진통제·트립탄 사용일수 증가 병력 (☞ 처방례 하단 참조)</td></tr></tbody></table>
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 생활 습관 개선
-* 필요시 약물 치료 : 급성 편두통 증상 완화, 만성 편두통 예방
+* 필요시 약물 치료 : 급성 편두통 증상 완화, 편두통 예방
   * 약물 과사용 예방을 위해 단일 성분 진통제는 ＜15일/월, 복합 진통제·triptan은 ＜10일/월 사용
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -216,14 +237,17 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 
 * 기전 : 5-HT1B/1D receptor 작용 → vasoactive neuropeptide(CGRP 등) 분비 억제 및 삼차신경 통증 전달 억제
 * 대상 : 중증 편두통 또는 다른 약제로 호전되지 않는 경증\~중등도 편두통
-* 보통 복용 2시간 내 통증 호전; 부분 반응 시 2시간 후 1회 추가 복용 가능 (동일 발작 내 최대 2회까지)
+* 보통 복용 2시간 내 통증 호전; 첫 투여 후 호전되었다가 재발하거나 부분 반응이 있는 경우 각 제제의 허가된 최소 재투여 간격 후 추가 투여 가능
+* 첫 투여에 충분한 반응이 없으면 동일 발작에서 반복 투여하기보다 다음 발작에서 용량·제형 또는 다른 triptan/다른 계열 치료로 변경을 고려
 * 종류별 유의한 효과 차이는 없으나 개인적인 차이는 있을 수 있음; 저렴한 triptan부터 선택
 * 부작용 : 흉부 압박감(triptan sensation - 심혈관 질환이 없어도 발생 가능하나, 심혈관 고위험군에서는 실제 혈관 수축 위험이 있으므로 구분 필요), 홍조, 더운 느낌, 쇠약, 어지럼증, 감각 이상(예: 팔/다리 저림)
-* 주의/금기 : 허혈성 심혈관 질환, 뇌혈관 질환, 말초혈관 질환, 조절되지 않는 고혈압, hemiplegic migraine, brainstem aura migraine, ergotamine과 병용 금지; SSRI/SNRI 병용 시 세로토닌 증후군 가능성은 매우 낮으나 증상 발생 시 주의 관찰
+* 주의/금기 : 허혈성 심혈관 질환, 뇌혈관 질환, 말초혈관 질환, 조절되지 않는 고혈압; **허가사항상 금기** : hemiplegic migraine, migraine with brainstem aura, ergotamine과 병용; SSRI/SNRI 병용 시 세로토닌 증후군 가능성은 매우 낮으나 증상 발생 시 주의 관찰
 
-<table><thead><tr><th width="202.3157958984375">성분명 [상품명]</th><th width="241.36846923828125">용법 [최대]</th><th width="108.52630615234375">반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan [이미그란]</td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan</td><td>5~10 ㎎ q2h [30 ㎎/d]</td><td>2~3</td></tr><tr><td>zolmitriptan [조믹]</td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan [알모그란]</td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan [나라믹]</td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan [미가드]</td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
+<table><thead><tr><th width="202">성분명 [상품명]</th><th width="241">용량·최소 재투여 간격 [최대]</th><th width="108">반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan [이미그란]</td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan²⁾</td><td>5~10 ㎎ q2h [30 ㎎/d]³⁾</td><td>2~3</td></tr><tr><td>zolmitriptan [조믹]</td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan [알모그란]</td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan²⁾</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan [나라믹]</td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan [미가드]</td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
 
-_¹⁾ 국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 200 ㎎/d_
+_¹⁾ **국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 최대 200 ㎎/d**_\
+_²⁾ 국내 미허가로 파악됨; 처방 전 최신 허가 현황 재확인 필요_\
+_³⁾ propranolol 병용 시 rizatriptan AUC 약 70% 상승 → 5 ㎎/회, 최대 15 ㎎/d로 용량 제한_
 
 _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
@@ -241,8 +265,8 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 약물과용두통([MOH](018_-chronic-headache.md#moh)) 위험이 낮은 것으로 알려져 있음 (장기 데이터는 제한적); 기존 진통제·triptan과 달리 자주 복용해도 MOH 위험이 낮아 MOH 위험군에서 특히 유리
 * 부작용 : 입마름, 어지럼증, 구역
 * rimegepant 75 ㎎ 붕해정 : 급성기 1정, 예방 목적 격일 복용 <mark style="color:blue;">\[엔유비티]</mark>(비급여)
-* atogepant 60 ㎎ : 예방 전용(급성기 치료 불가); 삽화·만성 편두통 모두 적응; 1정/d <mark style="color:blue;">\[아큅타정]</mark>(비급여)
 * ubrogepant 50\~100 ㎎ : 급성기 치료 (국내 미허가)
+* atogepant는 예방 전용(급성기 치료 적응증 없음) — 상세는 하단 「CGRP 수용체 길항제(경구 예방제)」 참조
 
 #### <mark style="color:$primary;">Ditans</mark>
 
@@ -257,7 +281,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 불확실한 효과 및 부작용으로 2차 선택; triptan 치료 실패 시 고려 (✽시판 단일제 없음)
 * 반동성 두통 위험 - ≤2일/주 사용 원칙, 이를 초과하면 약물과용두통 위험 증가
 * 부작용 : 구역, 혈관 수축
-* 주의/금기 : 고혈압, 심혈관 질환, 간/신 장애, 발열, 24시간 내 triptan 복용, [CYP3A4 억제제](/broken/pages/Xo2EAW1P08w37hc9YjrG#cyp3a4) 병용
+* 주의/금기 : 고혈압, 심혈관 질환, 간/신 장애, 발열, 24시간 내 triptan 복용, CYP3A4 억제제 병용 (☞ 위 「CYP3A4 상호작용 주의」 참조)
 * caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 30분마다 1정씩 4회 <mark style="color:blue;">\[크래밍]</mark>
 
 #### <mark style="color:$primary;">항구토제</mark>
@@ -265,7 +289,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * dopamine 수용체 차단제는 편두통 증상을 감소시키는 부가 효과를 지님
 * ✽acetaminophen + metoclopramide 병용이 triptan 수준의 효과가 있다는 보고가 있음
 * 구역/구토가 없더라도 급성기 치료 시 항구토제 추가를 고려 - metoclopramide 등은 위장관 운동을 촉진하여 함께 복용한 진통제의 흡수를 개선하는 효과도 있음
-* 부작용 : QT interval 연장 (특히 domperidone에서 위험이 더 큼; metoclopramide도 주의)
+* 부작용 : QT interval 연장 (특히 domperidone에서 위험이 더 큼; metoclopramide도 주의), 추체외로 증상(EPS; 급성 근긴장이상·정좌불능증 — 특히 고용량·젊은 여성에서; 장기 사용 시 지연성 운동장애 위험)
 * metoclopramide : 10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
 * domperidone : 10 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark> ⚠️ QT 연장 위험 주의; 심장 질환·QT 연장 소인 환자에서 신중 사용
 
@@ -280,7 +304,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 ***
 
-## <mark style="color:green;">만성 편두통의 예방적 약물 치료</mark>
+## <mark style="color:green;">편두통의 예방적 약물 치료</mark>
 
 #### <mark style="color:$primary;">예방 치료 대상</mark>
 
@@ -300,9 +324,10 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 적정 용량 또는 최대 내약 용량으로 2개월 이상 투여 후 반응이 없으면 치료 변경 고려; 완전한 효과를 얻기까지 6개월이 걸릴 수 있음
 * 예방 치료가 효과적인 경우 3개월 이상 지속 후 감량 또는 중단 고려 → 재발 시 증량 또는 재개
 
-### <mark style="color:orange;">1차 선택제</mark>
+### <mark style="color:orange;">기존 경구 예방약</mark>
 
-* 근거 수준이 높은 1차 선택제 : propranolol(β-차단제), topiramate(항경련제), amitriptyline(항우울제), valproate(항경련제; 단, 가임기 여성 사용 회피)
+* 근거 수준이 높은 기존 경구 예방약 : propranolol(β-차단제), topiramate(항경련제), amitriptyline(항우울제), valproate(항경련제)
+* ⚠️ **valproate는 강력한 기형 유발 위험으로 가임 가능 여성에서는 예방약 선택 시 원칙적으로 제외**하고, 다른 예방약 실패 시에도 우선 다른 계열로 대체를 고려
 
 #### <mark style="color:$primary;">β-차단제</mark>
 
@@ -314,7 +339,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 #### <mark style="color:$primary;">항경련제</mark>
 
 * topiramate : 12.5\~150 ㎎/d <mark style="color:blue;">\[토파맥스]</mark>; <mark style="color:blue;">\[부]</mark> 감각 이상(저림), 복통, 구역, 피로, 맛 변화, 설사, 체중 감소, 기억/집중력 장애, 신결석; \[주/금] 녹내장, 신결석, 임신
-  * 가임기 여성 주의 : 임신 중 기형 유발 위험(신경관 결손 포함) → 임신 중 또는 임신 계획 시 처방 회피 권장; 경구 피임약 효과 감소 가능(특히 ≥200 ㎎/d; 저용량에서도 주의), 피임 방법 재검토 필요
+  * 가임 가능 여성 주의 : 태아 주요 선천기형(특히 구강안면열), 태아 성장제한 및 잠재적 신경발달장애 위험 → **임신 중 편두통 예방 목적으로 사용 금기**; 임신 계획 여부를 확인하고 치료 중 신뢰도 높은 피임법 사용 및 임신 계획 시 다른 예방약으로 전환 고려
 * valproate : 500\~1,500 ㎎/d <mark style="color:blue;">\[오르필]</mark>; divalproex 250\~1,500 ㎎/d <mark style="color:blue;">\[데파코트]</mark>; <mark style="color:blue;">\[부]</mark> 구역, 체중 증가, 떨림, 탈모, 졸림; \[주/금] 간질환, 췌장염, 저혈소판증; **임신 시 강력한 기형 유발 위험(신경관 결손 등) → 가임기 여성 처방 회피 권장**
   * ✽다낭성 난소 증후군(PCOS) 병력이 있는 여성에서도 주의 : valproate가 안드로겐 과잉 및 배란 장애를 악화시킬 수 있음
 
@@ -324,7 +349,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
   * 대안 : nortriptyline 10\~75 ㎎/d hs <mark style="color:blue;">\[시나논]</mark> - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함 (보험주의)
 * venlafaxine XR : 37.5\~150 ㎎/d <mark style="color:blue;">\[이팩사 XR]</mark>; <mark style="color:blue;">\[부]</mark> 구역, 혈압 상승; \[주/금] 고혈압
 
-### <mark style="color:orange;">2차 선택제 및 기타 예방 치료</mark>
+### <mark style="color:orange;">CGRP 표적 예방치료 및 기타 예방 치료</mark>
 
 #### <mark style="color:$primary;">표적 치료제 (Anti-CGRP monoclonal antibody)</mark>
 
@@ -340,18 +365,21 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 또는 675 ㎎/분기 SC (조건부 급여); 체중 45 ㎏ 이상 6\~17세 소아·청소년 삽화성 편두통 예방 적응증 추가 (2026)
 * galcanezumab <mark style="color:blue;">\[엠겔러티]</mark> : 120 ㎎/월 SC (초회 240 ㎎) (조건부 급여); 군발두통 적응증 포함
 * erenumab <mark style="color:blue;">\[아이모빅]</mark> : 70\~140 ㎎/월 SC (수용체 결합형; 급여 미등재)
-* eptinezumab <mark style="color:blue;">\[바이엡티]</mark> : 100 ㎎ 또는 300 ㎎/분기 IV (단회 정맥주사, 연 4회); 국내 허가 완료 (2026); 국내 최초 CGRP 정맥주입 예방치료제; PROMISE-1(삽화성), PROMISE-2(만성), SUNRISE(아시아 만성 편두통) 임상 근거
+* eptinezumab <mark style="color:blue;">\[바이엡티]</mark> : 100 ㎎ 또는 300 ㎎/분기 IV (0.9% 생리식염수 100 ㎖ 희석 후 약 30분간 정맥 점적 주입, 연 4회); 국내 허가 완료 (2026); 국내 최초 CGRP 정맥주입 예방치료제; PROMISE-1(삽화성), PROMISE-2(만성), SUNRISE(아시아 만성 편두통) 임상 근거
 
 #### <mark style="color:$primary;">CGRP 수용체 길항제 (Gepant 계열, 경구 예방제)</mark>
 
 * 기전 : CGRP 수용체를 경쟁적으로 차단 (소분자 경구 제제)
 * 국내 유일 경구 CGRP 예방치료제 (2026 기준)
 * 기존 경구 예방약(propranolol, topiramate, valproate 등)에 실패한 환자에서 효과 입증 (ELEVATE 임상)
-* 부작용 : 구역, 변비, 졸음; 간독성(고용량; 일반 예방 용량에서는 드묾)
-* 금기 : 중증 간기능 장애, 강한 CYP3A4 억제제 병용
-* atogepant <mark style="color:blue;">\[아큅타]</mark> : 10\~60 ㎎/d qd (삽화성: 60 ㎎; 만성: 60 ㎎); 국내 허가 완료 (2026)
+* 부작용 : 구역, 변비, 졸림/피로; 드물게 간효소 상승
+* 금기 : 중증 간기능 장애, 성분 과민증
+* 용량 조절 : 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd; 중증 신장애 또는 ESRD에서도 10 ㎎ qd
+* atogepant <mark style="color:blue;">\[아큅타정]</mark> : **60 ㎎ qd** (삽화성·만성 편두통 모두 적응); 강력한 CYP3A4 억제제 또는 OATP 억제제 병용, 중증 신장애 또는 ESRD에서는 **10 ㎎ qd**로 감량; 국내 최초 경구 CGRP 예방치료제로 2023년 11월 식약처 허가(비급여)
 
-* 만성 편두통에서 위약 대비 편두통 발생 약 2일/월 감소 효과
+#### <mark style="color:$primary;">OnabotulinumtoxinA (Botox)</mark>
+
+* 만성 편두통 예방에 사용; 위약 대비 편두통 발생 약 2일/월 감소 효과
 * 155 U (5 U씩 31군데 근육 주사)
 * 부작용 : 안검하수(blepharoptosis), 팔 근육 약화, 경부 통증, 주사 부위 통증
 * 주의/금기 : 약물 과민, 신경 근육 질환(예: 중증 근무력증), 임신, 수유, 근이완제 병용
@@ -362,11 +390,11 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
   * 부작용 : 체중 증가, 졸림, 입마름, 어지럼증, 저혈압, 우울
   * 주의/금기 : 심한 우울, 파킨슨병, 추체외로 증상
 * candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[아타칸]</mark>
-  * 부작용 : 저혈압, CHF 악화
-  * 주의/금기 : 혈관 부종, 임신, 수유
+  * 부작용 : 저혈압, 고칼륨혈증, 신기능 악화
+  * 주의/금기 : 임신, 중증 신기능 저하 또는 고칼륨혈증 위험 환자에서 신중 사용
 * lisinopril : 10\~20 ㎎/d <mark style="color:blue;">\[제스트릴]</mark>
   * 부작용 : 어지럼증, 두통, 기침, 피로, 저혈압
-  * 주의/금기 : 혈관 부종, sulfonamide 과민
+  * 주의/금기 : 과거 ACE inhibitor 관련 혈관 부종, 유전성/특발성 혈관 부종, 임신
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>
 
@@ -397,7 +425,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * IV 수액 보충(hydration) : 탈수 교정 및 약물 투여 경로 확보를 위해 우선 시행; 0.9% 생리식염주사액, 5% 포도당주사액, 하트만액
 * IV/IM 항구토제(metoclopramide <mark style="color:blue;">\[맥페란주]</mark>, prochlorperazine <mark style="color:blue;">\[박메릴주]</mark>) : 1차 처치
 * IV ketorolac 15\~30 ㎎ : 진통 보조 <mark style="color:blue;">\[케토신주]</mark>
-* IV valproate 500\~1,000 ㎎ : 급성기 조절 <mark style="color:blue;">\[데파킨주]</mark>
+* IV valproate 500\~1,000 ㎎ : 난치성 또는 다른 1차 응급치료가 적절하지 않은 경우 대안으로 고려(근거 수준은 prochlorperazine·metoclopramide·ketorolac보다 낮음) <mark style="color:blue;">\[데파킨주]</mark>
   * 저혈압 유발 방지를 위해 20\~50 ㎎/분 속도로 서서히 점적 IV
 * dexamethasone 10 ㎎ IV : 재발 억제 목적으로 추가 <mark style="color:blue;">\[덱사메타손주]</mark>
 * dihydroergotamine IV : 난치성 경우 고려; triptan 복용 24시간 후 사용 가능
@@ -414,7 +442,7 @@ G43.1 전조(조짐) 있는 편두통
 
 G43.2 편두통 지속 상태 (Status migrainosus)
 
-G43.3 복잡 편두통
+G43.3 합병된 편두통
 
 G43.8 기타 편두통
 
@@ -430,6 +458,8 @@ G43.9 상세불명의 편두통
 > 부루펜 400 ㎎/T 2T (두통 발생 시 즉시; 필요시 6~8시간 후 반복, 최대 3회/d)
 > 맥페란 10 ㎎/T 1T (구역 동반 시)
 > ```
+>
+> _✽경증\~중등도에서 1차 선택; 두통 시작 초기에 충분한 용량을 한 번에 복용하는 것이 효과적. 단일 진통제는 월 15일 미만으로 사용(약물과용두통 예방)_
 
 > **처방례 2. 급성 편두통 (중등증\~중증, triptan)**
 >
@@ -437,8 +467,10 @@ G43.9 상세불명의 편두통
 > 이미그란 50 ㎎/T 1T (두통 발생 초기 즉시 복용; 2시간 후 재발 시 1T 추가, 최대 300 ㎎/d)
 > 맥페란 10 ㎎/T 1T (구역 동반 시)
 > ```
+>
+> _✽전조(aura) 단계가 아닌 두통이 실제로 시작되는 시점에 복용; 허혈성 심혈관·뇌혈관 질환, 조절되지 않는 고혈압, hemiplegic/brainstem aura migraine에서는 금기. 트립탄·복합진통제는 월 10일 미만으로 사용_
 
-> **처방례 3. 만성 편두통 예방 (β-차단제)**
+> **처방례 3. 편두통 예방 (β-차단제)**
 >
 > ```
 > 인데놀 10 ㎎/T 4T #2 (아침, 저녁)
@@ -446,13 +478,15 @@ G43.9 상세불명의 편두통
 >
 > _✽시작 용량(40 ㎎/d); 효과 및 내약성에 따라 2\~4주마다 평가하며 최대 160 ㎎/d까지 점진적 증량_
 
-> **처방례 4. 만성 편두통 예방 (항경련제)**
+> **처방례 4. 편두통 예방 (항경련제)**
 >
 > ```
 > 토파맥스 25 ㎎/T 1T hs × 2주 → 이후 증량 (목표 용량 50~100 ㎎/d)
 > ```
+>
+> _✽저용량으로 시작해 서서히 증량(신결석·인지기능 부작용 최소화 목적); 임신 중 사용 금기이므로 가임 가능 여성은 시작 전 임신 계획 여부 확인 및 신뢰도 높은 피임법 권고_
 
-> **처방례 5. 만성 편두통 예방 (항우울제)**
+> **처방례 5. 편두통 예방 (항우울제)**
 >
 > ```
 > 에트라빌 10 ㎎/T 1T hs (보험주의; 우울증 동반 시 급여)
@@ -466,27 +500,32 @@ G43.9 상세불명의 편두통
 >
 > * **두통 발생 초기에 즉시 복용**하십시오. 통증이 심해진 후에는 효과가 떨어집니다.
 > * ⚠️ 빛이 번쩍이거나 시야 변화 등의 **전조(aura) 증상이 나타나는 단계에서는 복용하지 마시고**, 실제 두통이 시작될 때 복용하십시오.
-> * 복용 후 2시간이 지나도 두통이 재발하면 1정을 추가로 복용할 수 있습니다.
+> * 첫 복용 후 호전되었다가 두통이 다시 생기거나 부분적으로만 호전된 경우에는 약마다 정해진 최소 간격 후 추가 복용할 수 있습니다. 첫 복용에 전혀 효과가 없으면 임의로 반복 복용하지 말고 의사와 치료 방법을 상의하십시오.
 > * 협심증, 심근경색, 뇌졸중 병력이 있거나 조절되지 않는 고혈압이 있는 경우 반드시 의사에게 알리십시오.
 > * SSRI 계열 항우울제(예: 렉사프로, 졸로푸트)를 함께 복용하는 경우 의사에게 알리십시오 (세로토닌 증후군 가능성은 매우 낮으나, 이상 증상 발생 시 즉시 보고).
+
+> **라스미디탄 (레이보우)**
+>
+> * 트립탄과 달리 혈관수축 작용이 없어 심혈관 질환으로 트립탄 사용이 어려운 환자에서 대안이 될 수 있습니다. 다만 심장질환·고혈압·서맥이 있으면 복용 전 의사와 상의하십시오.
+> * ⚠️ **복용 후 최소 8시간 동안 운전이나 기계 조작을 하지 마십시오.** 졸음을 느끼지 못하더라도 반드시 지켜야 합니다.
 
 > **편두통 예방약 (인데놀·토파맥스·에트라빌 등)**
 >
 > * 예방약은 효과가 나타나기까지 **4\~8주**가 걸립니다. 임의로 중단하지 마십시오.
 > * 토파맥스(topiramate)는 물을 충분히 마셔야 신결석 위험을 줄일 수 있습니다.
-> * 가임기 여성은 토파맥스 복용 중 피임약의 효과가 감소할 수 있으니 다른 피임 방법을 함께 사용하십시오.
+> * 가임 가능 여성은 토파맥스(topiramate) 치료 전 임신 계획 여부를 반드시 의사에게 알리고, 치료 중 신뢰도 높은 피임법을 사용하십시오.
 > * 인데놀(propranolol) 복용 중에는 갑자기 중단하지 마십시오.
 
 > **진통제 과다 사용 주의**
 >
-> * 트립탄 또는 복합 진통제는 **한 달에 10일을 초과하여** 복용하지 마십시오. 단순 진통제(NSAIDs, 아세트아미노펜)는 **한 달에 15일 이내**로 사용하십시오.
+> * 트립탄 또는 복합 진통제는 **한 달 10일 미만**, 단순 진통제(NSAIDs, 아세트아미노펜)는 **한 달 15일 미만**으로 사용하십시오.
 > * 기준을 넘으면 '약물과용두통'으로 두통이 매일 나타날 수 있습니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 편두통 발작이 72시간을 넘어 지속되는 경우
 > * 팔다리 마비·언어 장애·시야 장애 등 신경 증상이 60분 이상 지속되는 경우 — 즉시 응급실 방문
-> * 두통 빈도가 늘거나 진통제를 한 달 10일 이상 복용하게 되는 경우
+> * 두통 빈도가 늘거나 트립탄·복합진통제를 한 달 10일 이상, 또는 단순 진통제를 한 달 15일 이상 복용하게 되는 경우
 
 ***
 
@@ -512,14 +551,14 @@ G43.9 상세불명의 편두통
 #### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
 * **두통이 시작될 때 바로** 복용하세요. 늦게 먹을수록 효과가 줄어듭니다.
-* 트립탄·복합진통제는 **한 달 10일 이내**, 단순 진통제는 **한 달 15일 이내**로 사용하세요.
+* 트립탄·복합진통제는 **한 달 10일 미만**, 단순 진통제는 **한 달 15일 미만**으로 사용하세요.
 * 예방약은 임의로 중단하지 말고 의사와 상의하여 서서히 줄이십시오.
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **유발 요인 파악** : 두통 일기로 술·특정 음식·수면 변화·스트레스 등 나만의 유발 요인을 찾아보세요.
 * **규칙적인 생활** : 수면·식사·기상 시간을 일정하게 유지하고, 공복을 4시간 이상 넘기지 마세요.
-* **수분 섭취** : 탈수는 편두통을 유발할 수 있습니다. 하루 1.5\~2 L 물을 마시십시오.
+* **수분 섭취** : 탈수는 편두통을 유발할 수 있습니다. 수분 제한이 필요한 질환이 없다면 충분한 수분을 섭취해 탈수를 피하십시오.
 * **운동** : 규칙적인 유산소 운동이 예방에 도움이 됩니다. 발작 중에는 운동을 삼가십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
