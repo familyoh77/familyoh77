@@ -1,7 +1,5 @@
 # 섬유근육통 Fibromyalgia
 
-![image](../.gitbook/assets/8b734fba-61d2-42d9-9ee8-4239a3845979.JPG)
-
 ## 일반 사항
 
 * 최소 3개월 동안 거의 매일 지속되는 만성 전신성 비염증성 근골격계 통증 증후군
@@ -131,23 +129,21 @@
 
 2\. WPI(Widespread Pain Index)
 
-*   지난 7일 동안 다음 19곳 중 통증이 있었던 곳의 개수. 개당 1점 \[총 0\~19점]
+* 지난 7일 동안 다음 19곳 중 통증이 있었던 곳의 개수. 개당 1점 \[총 0\~19점]
+  * Left upper region (Region 1) : Jaw, left\* / Shoulder girdle, left / Upper arm, left / Lower arm, left&#x20;
+  * Right upper region (Region 2) : Jaw, right\* / Shoulder girdle, right / Upper arm, right / Lower arm, right&#x20;
+  * Axial region (Region 5) : Neck / Upper back / Lower back / Chest\* / Abdomen\*&#x20;
+  * Left lower region (region 3) : Hip (buttock, trochanter), left / Upper leg, left / Lower leg, left&#x20;
+  * Right lower region (Region 4) : Hip (buttock, trochanter), right / Upper leg, right / Lower leg, right
+  - [ ] _\*Not included in generalized pain definition_&#x20;
 
-    ![image](../.gitbook/assets/002192b0-413f-4b2a-9d96-14b0d1d6953a.JPG)
+판정 : 다음 3가지 모두를 충족하면 섬유근육통으로 진단
 
-▶판정 : 다음 3가지 모두를 충족하면 섬유근육통으로 진단
+* ① { WPI ≥7점 & SSS 점수 ≥5점 } 또는 { WPI 4\~6점 & SSS ≥9점 }
+* ② 5개 부위(left & right upper, left & right lower, axial region) 중 ≥4개 부위에 통증이 있는 것으로 정의하는 ‘generalized pain’이 존재
+* ③ ≥3개월 비슷한 수준으로 증상 존재
 
-① { WPI ≥7점 & SSS 점수 ≥5점 } 또는 { WPI 4\~6점 & SSS ≥9점 }
-
-② 5개 부위(left & right upper, left & right lower, axial region) 중 ≥4개 부위에 통증이 있는 것으로 정의하는
-
-```
-‘generalized pain’이 존재
-```
-
-③ ≥3개월 비슷한 수준으로 증상 존재
-
-* fibromyalgia 진단은 다른 진단 유무와 관계없이 붙여질 수 있으며 다른 임상적으로 중요한 질병의 존재를 배제하지 않음
+- fibromyalgia 진단은 다른 진단 유무와 관계없이 붙여질 수 있으며 다른 임상적으로 중요한 질병의 존재를 배제하지 않음
 
 ***
 
@@ -176,9 +172,7 @@
 
 ### 진통제
 
-```
-(☞ p.11)
-```
+(☞ [통증](../220_/001_-pain.md#undefined-8))
 
 * acetaminophen : 650\~1,300 ㎎ tid \[타이레놀]
 *   tramadol : 50\~100 ㎎ q6h \[트리돌]; acetaminophen 병용 시 보다 효과적 \[울트라셋]
@@ -192,9 +186,7 @@
 
 ### 항우울제
 
-```
-(☞ p.1146)
-```
+(☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md))
 
 * 작용 : 통증, 피로, 기분, 수면 개선(TCA)
 * TCA에 SSRI 또는 SNRI 병용 시 다소의 효과 상승 (보험기준 ☞ p.1177)
@@ -251,13 +243,66 @@
 * Mg 500 ㎎ \[마그네스] + malic acid 1200\~2400 ㎎ : 일부 연구에서 피로 감소
 * 일반적으로 효과적이지 않은 약제 : steroid, melatonin, opioid, benzodiazepines, Mg, DHEA
 
-## ![image](../.gitbook/assets/09950512-860b-415e-a9c7-f542d8290792.JPG)
+```mermaid
+flowchart TD
+    A["병력 및 신체 검사"] --> B["섬유근육통 진단"]
+    B --> C["필요시<br>실험실/영상 검사"]
+    B --> D["환자 교육"]
+    
+    D -->|"충분하지 않은 효과"| E["Physical therapy<br>(다른 비약물 치료 병행)"]
+    E -->|"충분하지 않은 효과"| F["맞춤형 치료를 위한 환자 재평가"]
+
+    F -.- G["개별화된 추가 치료"]
+
+    G --> H1["통증 관련 우울, 불안, 지나친<br>수동적 또는 적극적 대처"]
+    G --> H2["심한 통증/수면 장애"]
+    G --> H3["심한 기능 장애/<br>직장 근무 곤란"]
+
+    H1 --> I1["<b>정신적 치료</b><br>•인지행동 치료<br>•약물 치료"]
+
+    H2 --> I2["약물 치료"]
+    I2 -.- I2_A["<b>심한 통증</b><br>•duloxetine<br>•pregabalin<br>•tramadol"]
+    I2 -.- I2_B["<b>심한 수면 장애</b><br>•amitriptyline<br>(저용량)<br>•cyclobenzaprine<br>•pregabalin(야간)"]
+
+    H3 --> I3["다양한 재활 치료"]
+
+    %% 노드 스타일 지정 (원본 색상 반영)
+    style A fill:#EFE8FA,stroke:#D5C6E9,stroke-width:1px
+    style B fill:#FDE0E0,stroke:#F8B7B7,stroke-width:1px
+    style C fill:#E2F3E5,stroke:#B9E1C0,stroke-width:1px
+    style D fill:#F4F4F4,stroke:#DDD,stroke-width:1px
+    style E fill:#E1F0F8,stroke:#BBE0F1,stroke-width:1px
+    style F fill:#E1F0F8,stroke:#BBE0F1,stroke-width:1px
+    style G fill:#E1F0F8,stroke:#BBE0F1,stroke-width:1px
+    style H1 fill:#FFF3CD,stroke:#FFEEBA,stroke-width:1px
+    style H2 fill:#FFF3CD,stroke:#FFEEBA,stroke-width:1px
+    style H3 fill:#FFF3CD,stroke:#FFEEBA,stroke-width:1px
+    style I1 fill:#E8ECEF,stroke:#CED4DA,stroke-width:1px
+    style I2 fill:#E1F0F8,stroke:#BBE0F1,stroke-width:1px
+    style I2_A fill:#FFFFFF,stroke:#BBE0F1,stroke-width:1px
+    style I2_B fill:#FFFFFF,stroke:#BBE0F1,stroke-width:1px
+    style I3 fill:#E8ECEF,stroke:#CED4DA,stroke-width:1px
+```
+
+섬유근육통 관리 알고리듬\
+Ref. EULAR revised recommendations for the management of fibromyalgia. 2016. Fig 2.
 
 ## 대체 요법
 
 * 요가 : 수면, 피로, 삶의 질에 도움; 통증 완화 효과는 입증 안 됨
 * 침, 카이로프랙틱, 마사지, 전기 요법, 초음파, TPI : 효과 없음
 
-> **질병코드** M79.7 섬유근통
+### **질병코드**&#x20;
 
-![image](../.gitbook/assets/09b664f0-ddde-48dd-b29f-174a2cb02c63.JPG)
+M79.7 섬유근통
+
+
+
+## 처방례
+
+처방례 1.\
+에트라빌 25 ㎎/T 1T 취침 시\
+울트라셋 이알 세미 2T #2\
+처방례 2.\
+심발타 30 ㎎/C 1C\
+울트라셋 세미 2T #2
