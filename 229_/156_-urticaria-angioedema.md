@@ -1,7 +1,5 @@
 # 두드러기 Urticaria, 혈관부종 Angioedema
 
-![image](../.gitbook/assets/c54a0d6e-d55f-4fd4-9561-1c8b5afa891c.JPG)
-
 ## 일반 사항
 
 *   vasoactive mediator의 분비에 의해 야기되는 체액의 extravasation에 의해 피부(skin, mucosa, submucosa)에 발생한
@@ -37,8 +35,6 @@
 
     갑상선염, 류마티스, 루푸스, 피부 혈관염), 음식, 약물, 접촉
 
-![image](../.gitbook/assets/0d5aedd5-38a6-4b8c-a2a5-d3c16c3e539e.JPG)
-
 ## 임상 양상
 
 * 피부 증상 : 홍반, 부종, 통증
@@ -72,6 +68,15 @@
 > ✽점막에는 비만 세포와 감각 신경 말단이 적기 때문에 가려움이 적음
 
 * 경과 : 보통 72시간 내 회복(수시간\~수일)
+
+### Red Flags!
+
+* 혈압 강하, 실신
+* 얼굴, 입술, 혀, 또는 인두 부종
+* stridor, wheezing, 기타 호흡 곤란
+* 전신 질환 의심 증상 : 발열, 림프절병증, 황달, cachexia
+* 한랭 두드러기 환자에서 찬 것에 전신 노출(예: 찬물에서의 수영) 후 발생
+* 48시간 이상 지속
 
 ## 두드러기 종류
 
@@ -189,11 +194,7 @@
 
 ※ 증상 일지 작성이 도움이 됨
 
-※ 증상 정도 및 치료 반응 평가를 위하여 Sx scoring system을 사용할 수 있음; Dermatology life quality index(DLQI),
-
-```
-weekly Urticaria activity score 7(UAS7), Angioedema activity score (AAS), Urticaria control test (UCT)
-```
+※ 증상 정도 및 치료 반응 평가를 위하여 Sx scoring system을 사용할 수 있음; Dermatology life quality index(DLQI), weekly Urticaria activity score 7(UAS7), Angioedema activity score (AAS), Urticaria control test (UCT)
 
 ### 검사
 
@@ -250,7 +251,10 @@ weekly Urticaria activity score 7(UAS7), Angioedema activity score (AAS), Urtica
 
     권태감, 구역감, 발진) 동반, 두드러기를 동반하지 않는 부종 등이 있는 경우 의심
 
-    ![image](../.gitbook/assets/77c77f4c-3b2d-4784-80cd-94fcd32c90e6.JPG)
+
+
+두드러기 진단 알고리듬\
+Ref. EAACI/GA2LEN/EDF/WAO. Guideline for the definition, classification, diagnosis, and management of urticaria. 2016. Fig 1.
 
 ***
 
