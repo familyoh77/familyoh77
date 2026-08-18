@@ -2,16 +2,16 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* vasoactive mediator의 분비에 의해 야기되는 체액의 extravasation에 의해 피부(skin, mucosa, submucosa)에 발생한 non-pitting 국소 부종(wheal, angioedema, or both)
-* 기전 : mast cell & basophil에서 매개 물질(histamine, prostaglandin, leukotriene, bradykinin, cytokine, protease) 방출 → 혈관 팽창, 혈관 투과성 증가, 진피 부종
-* 두드러기와 혈관부종은 이환된 부위에 따른 구별이며 기본적인 발생 기전은 동일함
-  * 두드러기는 superficial dermis에서, 혈관부종은 deep dermis 또는 피하 조직에서 반응
-* 두드러기 환자의 40%가 혈관부종을 동반, 혈관부종 환자의 80%가 두드러기를 동반
-* 유병률 : 인구의 10\~25%가 일생 중 두드러기를 경험; 3%가 만성 두드러기를 가짐
+* 두드러기(urticaria)는 비만세포(mast cell)가 주도하는 질환으로, histamine을 비롯한 매개물질 방출에 의해 혈관 확장·투과성 증가가 일어나 superficial dermis에 일시적인 팽진(wheal)이 발생함
+* 혈관부종(angioedema)은 deep dermis·피하조직·점막의 non-pitting 부종으로, 발생 기전에 따라 **mast-cell/histamine-mediated** 또는 **bradykinin-mediated**로 구분
+  * mast-cell-mediated angioedema는 두드러기와 병태생리를 공유하며 팽진을 동반할 수 있음
+  * HAE/AAE 및 ACEI 유발 혈관부종은 주로 bradykinin-mediated이며 대개 팽진·가려움이 없고 항히스타민제·글루코코르티코이드·에피네프린 반응이 불량함
+* 따라서 두드러기와 혈관부종은 단순히 이환 깊이만 다른 동일 질환으로 보아서는 안 되며, **팽진 없는 혈관부종에서는 bradykinin 매개 원인을 우선 감별**해야 함
+* 유병률 : 두드러기는 흔한 질환으로 상당수가 일생 중 한 번 이상 경험하며, 만성 두드러기는 이보다 훨씬 드묾
 * 분류(경과에 따라)
-  * 급성 : <6주
-  * 만성 : ≥6주, 대부분 ≥주 3회 이상 발생(각 episode는 보통 빠르게 호전); 중년/여성에서 보다 흔함
-* 경과 : 만성으로 이행하는 경우가 약 ⅓; 이중 30\~50%가 1년 내 자연 치유, 20%는 5년 이후에도 지속
+  * 급성 : ＜6주
+  * 만성 : ≥6주 동안 반복 또는 지속되는 wheal, angioedema, 또는 둘 모두
+* 경과 : 자연 관해가 흔하지만 수년간 지속될 수 있으며 개인차가 큼
 * 합병증 : 만성 두드러기는 수면장애, 불안/우울, 등교·출근 지장 등 심리/일상 생활 문제를 유발할 수 있으며 이에 대한 평가와 관리가 필요함
 
 ## <mark style="color:green;">원인</mark>
@@ -29,7 +29,7 @@
 * 관련 인자 : 물리적 자극(예: 추위, 열, 진동, 압력), 만성 감염(예: 기생충, 곰팡이, 간염), 악성 종양, 자가면역 질환(예: Hashimoto 갑상선염, 류마티스, 루푸스, 피부 혈관염), 음식, 약물, 접촉
 
 {% hint style="info" %}
-**NSAID·ACEI는 급성·만성 두드러기 모두에서 흔한 악화 인자**\
+**NSAID는 두드러기의 악화 인자, ACEI는 팽진 없는 혈관부종의 중요 원인**\
 Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러기를 악화시킬 수 있고, ACEI는 bradykinin 축적을 통해 팽진 없는 혈관부종을 유발할 수 있음(투여 개시 1개월 내 흔하나 수년 후 지연 발생도 가능)
 {% endhint %}
 
@@ -44,8 +44,8 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * 피부 병변 형태 : blanchable rash, 뚜렷한 경계, wheal/flare; 간혹 상대적으로 창백한 중심부
   * 두드러기끼리 융합하여 polycyclic, serpiginous, annular pattern을 보일 수 있음
 * 부종 외 증상 : 가려움, 작열감
-* 경과 : 급속(보통 자극 후 수 분 내) 발생 → 보통 한 부위의 병소는 사라지고 다른 부위에 새로 발생, 개별 병변은 20분\~3시간 정도 지속 → 간혹 1\~2일간 지속, 드물게 3주까지 반복
-* 긁음에 의한 상처 외에는 흔적을 남기지 않음(24시간 이상 같은 자리에 남거나 색소·자반을 남기면 두드러기혈관염 의심 — 아래 감별 참조)
+* 경과 : 급속(보통 자극 후 수 분 내) 발생 → 한 부위의 병소는 사라지고 다른 부위에 새로 발생하는 양상이 흔하며, **개별 팽진은 대개 수십 분\~수 시간 지속하고 24시간 이내 흔적 없이 소실**
+* 같은 병변이 24시간 이상 지속하거나 통증·작열감이 두드러지고 자반·색소침착을 남기면 두드러기혈관염 등 다른 질환을 의심(아래 감별 참조)
 
 ### <mark style="color:orange;">혈관부종</mark>
 
@@ -75,7 +75,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 * 특정 물리적/환경적 자극에 의해 반복적으로 유발되는 아형들로, 유발 검사로 확진함.
 
-<table><thead><tr><th width="150">아형</th><th width="220">원인/기전</th><th>진단(유발 검사)</th></tr></thead><tbody><tr><td>피부 그림증(피부 묘기증, Dermographism)</td><td>긁힘·압력 자극 → 반사성 혈관 수축 후 2차 반응; 다른 물리 두드러기(콜린성·한랭)를 동반하기도 함</td><td>설압자·손톱 등으로 피부를 긁으면 6\~7분 내 가려운 홍반 발생(15\~30분 후 소실 시작)</td></tr><tr><td>지연 압박 두드러기(Delayed pressure urticaria)</td><td>조이는 옷·오래 앉기·보행 등 압력; 발열·오한·관절통 동반 가능, 가려움보다 통증/압통</td><td>5 ㎏ 추를 폭 3 ㎝ 끈으로 20분간 걸고 6시간 및 24시간 후 관찰</td></tr><tr><td>콜린성 두드러기(Cholinergic urticaria)</td><td>운동·땀·더운물 목욕·매운 음식·심리적 자극에 의한 체온 상승 → 콜린성 신경 매개 histamine 증가; 눈물·침흘림·쌕쌕거림·두통·복통·구토·설사·실신 동반 가능</td><td>운동으로 땀을 낸 후 15분 추가 운동 또는 42℃ 온수에 10분간 신체 일부 담근 후 관찰; 원인 소실 시 30\~60분 내 소멸</td></tr><tr><td>한랭 두드러기(Cold urticaria)</td><td>찬 것에 노출 후 재가온 시 발생; 전신 노출 시 혈관 허탈·실신 위험</td><td>4\~5분간 얼음을 피부에 올린 후 10분 뒤 관찰(ice cube test)</td></tr><tr><td>열 두드러기(Heat urticaria)</td><td>뜨거운 물질 직접 노출; 드묾</td><td>4\~5분간 45℃ 물/물체를 피부에 접촉</td></tr><tr><td>운동 유발 두드러기(Exercise-induced urticaria)</td><td>physical exertion; 드묾(음식 동반 시 food-dependent exercise-induced anaphylaxis 감별)</td><td>treadmill test</td></tr><tr><td>일광 두드러기(Solar urticaria)</td><td>햇빛 노출; 노출 30초\~수 분 후 가려움 → 국한 부종·주변 홍반 → 차단 후 1\~3시간 내 소멸; 드묾</td><td>부분 노출 후 UVA/UVB/가시광선 조사; erythropoietic protoporphyria(porphyrin 검사)와 감별</td></tr><tr><td>수인성 두드러기(Aquagenic urticaria)</td><td>물 온도와 무관하게 접촉으로 발생; 드묾</td><td>35℃ 물 30분 적용 후 관찰; polycythemia vera 등과 관련 있어 매년 CBC 권장</td></tr><tr><td>진동성 두드러기(Vibratory urticaria)</td><td>수년간의 진동 노출(오토바이·승마·산악자전거·진동기계) 또는 특발성; 드묾</td><td>진동 장치로 5\~10분간 자극 후 관찰</td></tr></tbody></table>
+<table><thead><tr><th width="150">아형</th><th width="220">원인/기전</th><th>진단(유발 검사)</th></tr></thead><tbody><tr><td>피부 그림증(피부 묘기증, Dermographism)</td><td>긁힘·압력 자극 → 반사성 혈관 수축 후 2차 반응; 다른 물리 두드러기(콜린성·한랭)를 동반하기도 함</td><td>설압자·손톱 등으로 피부를 긁으면 6\~7분 내 가려운 홍반 발생(15\~30분 후 소실 시작)</td></tr><tr><td>지연 압박 두드러기(Delayed pressure urticaria)</td><td>조이는 옷·오래 앉기·보행 등 압력; 발열·오한·관절통 동반 가능, 가려움보다 통증/압통</td><td>5 ㎏ 추를 폭 3 ㎝ 끈으로 20분간 걸고 6시간 및 24시간 후 관찰</td></tr><tr><td>콜린성 두드러기(Cholinergic urticaria)</td><td>운동·땀·더운물 목욕·매운 음식·심리적 자극에 의한 체온 상승 → 콜린성 신경 매개 histamine 증가; 눈물·침흘림·쌕쌕거림·두통·복통·구토·설사·실신 동반 가능</td><td>운동으로 땀을 낸 후 15분 추가 운동 또는 42℃ 온수에 10분간 신체 일부 담근 후 관찰; 원인 소실 시 30\~60분 내 소멸</td></tr><tr><td>한랭 두드러기(Cold urticaria)</td><td>찬 것에 노출 후 재가온 시 발생; 전신 노출 시 혈관 허탈·실신 위험</td><td>4\~5분간 얼음을 피부에 올린 후 10분 뒤 관찰(ice cube test)</td></tr><tr><td>열 두드러기(Heat urticaria)</td><td>뜨거운 물질 직접 노출; 드묾</td><td>4\~5분간 45℃ 물/물체를 피부에 접촉</td></tr><tr><td>운동 관련 두드러기/아나필락시스</td><td>운동 후 팽진 발생 시 cholinergic urticaria와 exercise-induced anaphylaxis를 구분하고, 음식 섭취와 연관되면 food-dependent exercise-induced anaphylaxis 감별</td><td>병력 중심; 필요시 전문의 감독하 운동 유발검사</td></tr><tr><td>일광 두드러기(Solar urticaria)</td><td>햇빛 노출; 노출 30초\~수 분 후 가려움 → 국한 부종·주변 홍반 → 차단 후 1\~3시간 내 소멸; 드묾</td><td>부분 노출 후 UVA/UVB/가시광선 조사; erythropoietic protoporphyria(porphyrin 검사)와 감별</td></tr><tr><td>수인성 두드러기(Aquagenic urticaria)</td><td>물 온도와 무관하게 접촉으로 팽진 발생; 드묾. 물 접촉 후 소양감만 있고 팽진이 없으면 aquagenic pruritus 감별</td><td>35℃ 물 30분 적용 후 관찰</td></tr><tr><td>진동성 혈관부종(Vibratory angioedema)</td><td>수년간의 진동 노출(오토바이·승마·산악자전거·진동기계) 또는 특발성; 드묾</td><td>진동 장치로 5\~10분간 자극 후 관찰</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -120,14 +120,28 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 증상 일지 작성이 진단·경과 파악에 도움이 됨. 증상 정도 및 치료 반응 평가를 위해 Dermatology Life Quality Index(DLQI), weekly Urticaria Activity Score(UAS7), Angioedema Activity Score(AAS), Urticaria Control Test(UCT) 등을 사용할 수 있음
 {% endhint %}
 
+#### <mark style="color:$primary;">UAS7 실사용 예시</mark>
+
+* UAS7은 **팽진 수(0\~3점) + 소양감 강도(0\~3점)**를 매일 기록하여 7일간 합산하는 척도(총 0\~42점)
+
+<table><thead><tr><th width="120">점수</th><th>팽진 수(24시간)</th><th>소양감 강도</th></tr></thead><tbody><tr><td>0</td><td>없음</td><td>없음</td></tr><tr><td>1</td><td>경증: ＜20개</td><td>경증: 있으나 불편하지 않음</td></tr><tr><td>2</td><td>중등도: 20\~50개</td><td>중등도: 불편하지만 일상생활·수면을 방해하지 않음</td></tr><tr><td>3</td><td>중증: ＞50개 또는 넓게 융합된 팽진</td><td>중증: 일상생활 또는 수면을 방해함</td></tr></tbody></table>
+
+* **UAS7 = 7일간 일일 점수 합계(0\~42점)**. 같은 환자에서 치료 전후 변화를 추적하는 데 특히 유용함
+
 ### <mark style="color:orange;">검사</mark>
 
-* (만성 환자에서) 선택적 시행; 혈관염·갑상선 질환 등이 의심될 때 고려
-* 검사 전 수일간 항히스타민제, steroid 등의 치료 중단이 필요할 수 있음
+* 급성 두드러기 및 전형적인 경증 CSU에서는 광범위한 검사가 필요하지 않음
+* CSU의 기본 평가는 병력·진찰을 중심으로 하며, 필요시 **CBC with differential 및 CRP/ESR** 정도의 제한적 기본 검사를 고려
+* 추가 검사는 병력·진찰·기본 검사에서 특정 원인이 의심될 때 선택적으로 시행
+  * 갑상선 질환/자가면역성 의심 : TSH, anti-TPO 등
+  * 두드러기혈관염/SLE 의심 : ANA, complement, 피부 생검 등
+  * 팽진 없는 반복적 혈관부종 : C4, C1-INH 항원량·기능(필요시 C1q)
+  * 감염·기생충·약물·식품 알레르기 검사 : 해당 병력 또는 노출 근거가 있을 때
+* skin-prick test 및 일부 CIndU provocation test 전에는 검사 종류에 따라 항히스타민제 중단이 필요할 수 있으므로 해당 검사 지침을 따름
 
-> _✽H. pylori 감염이 CSU 위험 증가와 관련이 있을 수 있다는 일부 증거가 있으나 이에 대한 검사는 권하지 않음_
+> _✽H. pylori 감염과 CSU의 연관성이 보고되었으나 일률적인 선별 검사는 권하지 않음_
 >
-> _✽만성 두드러기와 자가면역 질환의 관련성이 있어 보이나, 관련 소견이 없는 경우 선별 검사는 제안하지 않음_
+> _✽자가면역질환과의 연관성은 있으나 임상적 단서가 없는 환자에서 광범위한 자가면역 선별검사는 권하지 않음_
 
 #### <mark style="color:$primary;">skin-prick test (피부단자검사)</mark>
 
@@ -136,10 +150,10 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 #### <mark style="color:$primary;">실험실 검사</mark>
 
-* CBC(WBC diff count) : eosinophilia — 약물 유발, pemphigoid, 기생충 감염; leucocytosis — 감염, 혈관염, 자가염증 질환; leucopenia — SLE
-* ESR/CRP(혈관염, 자가염증 질환), TSH·antithyroglobulin & antimicrosomal Ab(자가면역성 관련), ANA, 혈청 특이 IgE Ab
-* C4 & C1 esterase inhibitor : angioedema 의심 시(특히 HAE/AAE 의심 시) 고려
-* folate, Vit B12, ferritin, LFT, B형·C형간염 검사
+* 기본 검사(필요시) : CBC with differential, CRP 및/또는 ESR
+* 선택 검사 : TSH·anti-TPO, ANA/complement, 혈청 특이 IgE 등은 임상적 의심 소견이 있을 때 시행
+* C4 & C1 esterase inhibitor 항원량·기능 : 팽진 없는 반복적 혈관부종, HAE/AAE 의심 시 시행(AAE 감별에는 C1q 추가 고려)
+* LFT, ferritin, Vit B12/folate, B형·C형간염, 기생충 검사 등은 병력·진찰 또는 기본 검사에서 적응증이 있을 때 선택적으로 시행
 
 #### <mark style="color:$primary;">피부 생검</mark>
 
@@ -147,13 +161,21 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-<table><thead><tr><th width="140">질환</th><th>두드러기와의 차이점</th></tr></thead><tbody><tr><td>벌레 물림</td><td>수일 지속, 벌레 노출 병력</td></tr><tr><td>아토피피부염</td><td>반구진, 비늘, 특징적 분포(굴측부 등)</td></tr><tr><td>접촉피부염</td><td>불분명한 경계, 구진</td></tr><tr><td>고정약진</td><td>약물 노출 병력, 가려움 없음, 과다 색소 침착</td></tr><tr><td>두드러기혈관염(urticarial vasculitis)</td><td>가려움보다 작열감; 색소침착 또는 자반(non-blanchable), 물집, 흉터; 24시간 이상 같은 부위 지속</td></tr><tr><td>Henoch-Schönlein 자반증</td><td>하지 분포, 자색반, 전신 증상</td></tr><tr><td>다형홍삼</td><td>수일 지속, 홍채 모양 구진, 표적판 모양, 발열 동반</td></tr><tr><td>장미색 잔비늘증</td><td>수 주간 지속, herald patch, Christmas tree pattern, 간혹 가려움</td></tr><tr><td>바이러스성 발진</td><td>가려움 없음, 전구 증상, 발열, 반구진, 수일간 지속</td></tr></tbody></table>
+<table><thead><tr><th width="140">질환</th><th>두드러기와의 차이점</th></tr></thead><tbody><tr><td>벌레 물림</td><td>수일 지속, 벌레 노출 병력</td></tr><tr><td>아토피피부염</td><td>반구진, 비늘, 특징적 분포(굴측부 등)</td></tr><tr><td>접촉피부염</td><td>불분명한 경계, 구진</td></tr><tr><td>고정약진</td><td>약물 노출 병력, 가려움 없음, 과다 색소 침착</td></tr><tr><td>두드러기혈관염(urticarial vasculitis)</td><td>가려움보다 작열감; 색소침착 또는 자반(non-blanchable), 물집, 흉터; 24시간 이상 같은 부위 지속</td></tr><tr><td>Henoch-Schönlein 자반증</td><td>하지 분포, 자색반, 전신 증상</td></tr><tr><td>다형홍반</td><td>수일 지속, 홍채 모양 구진, 표적판 모양, 발열 동반</td></tr><tr><td>장미색 잔비늘증</td><td>수 주간 지속, herald patch, Christmas tree pattern, 간혹 가려움</td></tr><tr><td>바이러스성 발진</td><td>가려움 없음, 전구 증상, 발열, 반구진, 수일간 지속</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">유전성 혈관부종(Hereditary angioedema, HAE) 및 후천성 혈관부종(AAE)</mark>
 
-* 정의 : C1 esterase inhibitor(C1-INH)의 양적 결핍 또는 기능 이상으로 bradykinin이 과잉 생성되어 발생하는 비-소양성 부종. 두드러기와 달리 histamine 매개가 아니므로 항히스타민제·글루코코르티코이드·에피네프린에 반응이 불량함
+* 정의 : HAE/AAE는 kallikrein–kinin system의 이상으로 bradykinin이 과잉 생성되어 발생하는 비-소양성 혈관부종. HAE type I/II 및 AAE에서는 C1-INH의 양적 결핍 또는 기능 이상이 핵심이며, 정상 C1-INH HAE도 존재함. histamine 매개가 아니므로 항히스타민제·글루코코르티코이드·에피네프린에 반응이 불량함
 * 증상 : 피부(사지·얼굴·생식기) 및 위장관(통증성 복부 경련 — 급성 복증으로 오인되기도 함), 상기도 점막 증상(후두 부종, 치명적 기도 폐쇄 가능)
 * 의심 소견 : 반복적인 피부 증상, 재발성 혈관부종 가족력(HAE는 75%에서 가족력 있음), ＜20세 발병, 원인 불명의 반복적 복통이나 상기도 부종, 통상적 혈관부종 치료(항히스타민제·글루코코르티코이드·에피네프린)에 반응하지 않는 부종, 전구 증상(erythema marginatum, 피로·권태감·구역감) 동반, 두드러기를 동반하지 않는 부종
+
+{% hint style="info" %}
+**HAE 발작 vs. 아나필락시스 — 초진 감별 포인트**
+
+<table><thead><tr><th width="150">항목</th><th>HAE/Bradykinin 매개 혈관부종</th><th>아나필락시스/Mast-cell 매개</th></tr></thead><tbody><tr><td>두드러기·소양감</td><td>대개 없음</td><td>흔함(단, 피부 소견이 없을 수도 있음)</td></tr><tr><td>복통</td><td>재발성·심한 복통이 흔할 수 있음</td><td>구역·구토·복통이 동반될 수 있음</td></tr><tr><td>기관지수축·저혈압</td><td>전형적이지 않음; 주된 위험은 상기도 부종</td><td>천명·저혈압·실신 등 전신 반응 가능</td></tr><tr><td>항히스타민제·epinephrine·steroid</td><td>반응 불량</td><td>epinephrine에 반응하며 IM epinephrine이 1차 치료</td></tr><tr><td>과거력/가족력</td><td>반복 발작·가족력, ACEI 노출 등이 단서</td><td>음식·약물·곤충 등 직전 알레르겐 노출이 단서</td></tr></tbody></table>
+
+기도부종이 진행하는 환자에서는 감별이 완전히 끝날 때까지 치료를 지연하지 않으며, 아나필락시스 가능성이 있으면 즉시 IM epinephrine을 투여하고 동시에 기도 확보에 대비함.
+{% endhint %}
 
 **분류**
 
@@ -244,30 +266,30 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-* CSU 환자의 절반이 표준 용량의 H1-항히스타민제에 반응하며, 나머지 절반의 \~⅔가 증량 치료에 반응
-* H1-항히스타민제에 반응하지 않는 환자의 ⅔가 omalizumab에 반응, ciclosporin에도 비슷한 정도로 반응
+* 치료 반응은 개인차가 크므로 표준 용량 2세대 H1AH → 최대 4배 증량 → add-on 표적치료 순으로 단계적으로 조정하고 UCT/UAS7 등으로 조절도를 평가
 
 ### <mark style="color:orange;">Epinephrine</mark>
 
 (☞ [아나필락시스](../230_/188_-anaphylaxis.md#management))
 
-* 대상 : 심한 급성 두드러기, 기도 폐쇄를 동반한 혈관부종, 아나필락시스
-* 용법 : 1:1,000 제제(1 ㎎/㎖), 0.01 ㎖/㎏, 최대 0.5 ㎖ IM(대퇴부 전외측 중간 부위)
+* 대상 : **아나필락시스 또는 상기도 폐쇄 위험이 있는 급속 진행 혈관부종**. 피부 증상만 있는 isolated urticaria는 epinephrine 적응증이 아님
+* 용법 : 1:1,000 제제(1 ㎎/㎖), 0.01 ㎖/㎏, 최대 0.5 ㎖ IM(대퇴부 전외측 중간 부위); 필요하면 임상 반응에 따라 반복(☞ 아나필락시스 챕터)
 
-#### <mark style="color:$primary;">호흡 곤란 동반 시</mark>
+#### <mark style="color:$primary;">호흡 곤란·아나필락시스 동반 시</mark>
 
-* epinephrine : 1:1,000 0.3 ㎖ IM
-* steroid : hydrocortisone 200 ㎎ IV <mark style="color:blue;">\[솔루 코테프 주]</mark>, methylprednisolone 40\~60 ㎎ IV <mark style="color:blue;">\[솔루메드롤 주]</mark>
-* diphenhydramine : 50 ㎎ IV
+* **epinephrine IM을 즉시 투여하고 ABC 평가·기도 확보 준비·산소·필요시 IV crystalloid 등 아나필락시스 처치를 우선**
+* 항히스타민제는 안정화 후 지속되는 피부 증상 완화를 위한 보조 치료이며 airway/breathing/circulation 이상을 치료하지 못함
+* 전신 steroid는 routine 1차 처치로 사용하지 않으며, refractory reaction 또는 동반 천식 등 선택적 상황에서 고려(☞ [아나필락시스](../230_/188_-anaphylaxis.md#management))
 
 ### <mark style="color:orange;">H1-항히스타민제 (H1AH)</mark>
 
-* 두드러기 치료의 1차 선택제; nonhereditary acute angioedema 환자의 >85%에서 증상 호전
+* 두드러기 치료의 1차 선택제; nonhereditary acute angioedema 환자의 ＞85%에서 증상 호전
 * 가려움에 대해서는 진정 작용이 있는 1세대 약제가 효과적이나, 부작용(진정, 인지·정신운동 기능 저하, anticholinergic burden)으로 인해 영국피부과학회(BAD) 등은 1세대 항히스타민제를 1차 선택제에서 제외
 * 장기 투여 또는 졸음 부작용을 피하고자 할 때 2세대 약제 선택
-* 증상 발생 후 일시적 사용보다는 mast cell을 안정화시키기 위하여 규칙적으로 지속 사용하는 것이 효과적. 특히 만성 두드러기에서는 지속 투여가 유익
-* 표준 용량으로 효과 부족 시 증량, 교체, 추가(특히 야간에 1세대 약제 추가) 또는 H2-항히스타민제 추가 고려
-* bradykinin-mediated angioedema(예: HAE)에는 효과적이지 않음
+* 증상이 생긴 뒤 간헐적으로 복용하는 것보다 **규칙적으로 투여하여 H1 receptor를 지속적으로 차단**하는 것이 효과적이며, 특히 만성 두드러기에서 권장
+* 표준 용량으로 조절되지 않으면 같은 2세대 H1AH를 표준 용량의 최대 4배까지 단계적으로 증량(제품별 허가범위를 초과할 수 있음). 반응 부족 또는 내약성 문제가 있으면 다른 2세대 H1AH로 교체 고려
+* 1세대 H1AH의 일상적 추가·증량 및 H2AH의 routine add-on은 근거와 안전성 한계 때문에 권장하지 않음
+* bradykinin-mediated angioedema(예: HAE/AAE, ACEI 유발 혈관부종)에는 효과적이지 않음
 
 #### <mark style="color:$primary;">2세대</mark>
 
@@ -289,12 +311,12 @@ graph TD
 
 #### <mark style="color:$primary;">H2-항히스타민제 (H2AH)</mark>
 
-* 효과 : H1AH에 병용 시 약간의 효과 증가; H2AH 단독 사용은 오히려 두드러기를 악화시킬 수 있음
-* cimetidine : 200 ㎎ tid\~qid <mark style="color:blue;">\[에취투비]</mark>
+* 효과 : CSU에서 H2AH의 routine add-on을 뒷받침하는 근거는 제한적이며 최신 단계치료의 핵심 옵션은 아님
+* cimetidine : 200 ㎎ tid\~qid <mark style="color:blue;">\[에취투비]</mark> — 소화기 적응증 등 별도 이유가 있을 때 병용 가능하나 두드러기 치료 목적으로 일률적으로 추가하지 않음
 
 ### <mark style="color:orange;">Steroid</mark>
 
-* 대상 : 혈관부종, 압박두드러기, 두드러기혈관염, 난치성 만성 두드러기의 급성 악화
+* 대상 : 심한 mast-cell/histamine-mediated 두드러기·혈관부종의 급성 악화에서 단기 고려. **HAE/AAE·ACEI 유발 등 bradykinin-mediated angioedema에는 효과가 없음**
 * 적용 : 심한 증상 또는 H1AH에 반응하지 않는 경우 H1AH에 단기 병용
 * 국소제는 효과 없음(✽전신 steroid 역시 만성 두드러기의 장기 증상 완화 효과는 불충분하다는 보고가 있어 급성 악화 시에만 단기 사용 원칙)
 
@@ -305,7 +327,7 @@ graph TD
 
 #### <mark style="color:$primary;">Parenteral</mark>
 
-* 대상 : 심한 혈관부종; IV 투여 후 경구제 단기 투여로 전환
+* 대상 : 심한 mast-cell/histamine-mediated 혈관부종의 급성 악화에서 선택적으로 고려; IV 투여 후 경구제 단기 투여로 전환
 * hydrocortisone : 200 ㎎ IV <mark style="color:blue;">\[솔루 코테프 주]</mark>
 * methylprednisolone : 40\~60 ㎎ IV <mark style="color:blue;">\[솔루메드롤 주]</mark>
 
@@ -327,16 +349,23 @@ graph TD
 
 #### <mark style="color:$primary;">시술 전 단기예방</mark>
 
-* 1차 : C1-inhibitor concentrate 1,000 IU IV, 시술 1시간 이내 <mark style="color:blue;">\[베리너트]</mark>(공급 여건에 따라 확보 어려울 수 있음)
-* 대체 : danazol 2.5\~10 ㎎/㎏/day(최대 600 ㎎/day), 시술 5일 전부터 시술 후 2\~3일까지
+* 1차 : plasma-derived C1-inhibitor concentrate IV를 시술 직전에 투여(용량은 제품·환자 특성 및 해당 지침에 따름) <mark style="color:blue;">\[베리너트]</mark>
+* 대체 : pdC1-INH를 사용할 수 없는 경우 danazol 등 대체 예방요법을 상황에 따라 고려
+* **단기예방을 시행해도 breakthrough attack이 발생할 수 있으므로 시술 현장에서 on-demand 치료제를 즉시 사용할 수 있도록 준비**
 
 #### <mark style="color:$primary;">장기예방</mark>
 
-* 대상 : 발작 빈도가 잦거나(예 : 월 평균 ≥1회), 후두부종 병력이 있거나, 삶의 질에 상당한 영향을 미치는 경우
-* lanadelumab(anti-plasma kallikrein monoclonal antibody) : 300 ㎎ SC 2주마다(조절되면 4주 간격 연장 고려) <mark style="color:blue;">\[탁자이로]</mark>; 국내 2021년 허가, 2026년 3월부터 급여 등재 — danazol 6개월 이상 사용 후 실패(최근 6개월 월평균 3회 이상 icatibant 필요) 또는 danazol 금기/부작용 시 급여 인정, 6개월 단위 재평가(발작 50% 이상 감소 시 지속); 급여기준은 변경될 수 있어 HIRA 고시 확인 필요
-* danazol(약화 안드로겐) : 200 ㎎/day로 시작, 최저 유효 용량으로 감량; 부작용(체중증가, 남성화, 월경이상, 간효소 상승, 드물게 간선종·간암, 지질이상)으로 6\~12개월마다 간기능·지질·복부초음파 모니터링 필요; 소아·임신부는 원칙적으로 회피 — 국내에서 안정적으로 사용 가능한 사실상 유일한 경구 장기예방제
-* tranexamic acid : 안드로겐 사용이 어려운 경우(소아, 임신 등)의 대안이나 예방 효과는 낮음
-* berotralstat(경구 kallikrein inhibitor) : 국내 미승인(2026년 기준)
+* 대상 : 고정된 발작 횟수 하나로 결정하지 않고 **발작 빈도·중증도, 후두부종 위험, 질병 부담·삶의 질, on-demand 치료 접근성 및 환자 선호**를 종합하여 매 방문마다 장기예방 필요성을 재평가
+* **국제 가이드라인상 확립된 1차 장기예방 옵션** : plasma-derived C1-INH, lanadelumab, berotralstat 중 가용성·선호도에 따라 선택
+* lanadelumab(anti-plasma kallikrein monoclonal antibody) : 300 ㎎ SC 2주마다, 잘 조절되면 4주 간격 연장 고려 <mark style="color:blue;">\[탁자이로]</mark>
+  * **국내에서는 2026년 3월부터 조건부 건강보험 급여가 적용됨.** 국제적 치료 순서와 국내 급여기준은 별개이므로, 대상 질환·기존 치료 실패/금기·발작 및 응급치료 요건·6개월 단위 재평가 등 세부 조건은 처방 시 최신 HIRA 고시 확인
+* berotralstat(경구 plasma kallikrein inhibitor) : 국제 가이드라인상 first-line LTP 옵션 <mark style="color:blue;">\[올라데요]</mark>(Orladeyo). **국내 정식 허가·시판 여부는 최신 식약처/공급 정보를 확인한 뒤 처방**
+* **최근 국제 승인 LTP 옵션**
+  * garadacimab(factor XIIa 억제 단클론항체) : 월 1회 SC <mark style="color:blue;">\[안뎀브리]</mark>(Andembry)
+  * donidalorsen(prekallikrein 표적 antisense oligonucleotide) : 80 ㎎ SC q4wk, 잘 조절되는 일부 환자에서 q8wk 고려 <mark style="color:blue;">\[던제라]</mark>(Dawnzera)
+  * 국내 허가·공급은 확인된 경우에만 국내 치료 옵션으로 적용
+* danazol(약화 안드로겐) : modern first-line LTP를 사용할 수 없는 경우 제한적으로 고려; 최저 유효 용량 사용. 체중증가, 남성화, 월경이상, 간효소 상승, 간선종·간암, 지질이상 등으로 정기적인 간기능·지질 및 간 영상 모니터링 필요; 소아·임신부는 원칙적으로 회피
+* tranexamic acid : 예방 효과가 상대적으로 낮아 다른 유효 치료를 사용할 수 없는 경우 제한적으로 고려
 
 ### <mark style="color:orange;">면역 조절제 및 표적 치료제 (CSU)</mark>
 
@@ -345,27 +374,28 @@ graph TD
 
 #### <mark style="color:$primary;">Omalizumab (anti-IgE)</mark>
 
-* H1AH 또는 다른 치료로 조절되지 않는 만성 두드러기의 2차 선택제(강한 권고)
-* 용법 : 150\~300 ㎎ 4주마다 SC <mark style="color:blue;">\[졸레어 주]</mark>(☞ 보험주의 — 급여기준은 변경될 수 있어 처방 전 HIRA 고시 확인 필요)
+* 고용량 2세대 H1AH에도 조절되지 않는 CSU의 **확립된 add-on 표적치료제(강한 권고)**
+* 대표 용법 : **300 ㎎ SC 4주마다** <mark style="color:blue;">\[졸레어 주]</mark>(국내 허가·급여 세부 기준은 처방 전 최신 HIRA 고시 확인)
 
 #### <mark style="color:$primary;">Dupilumab</mark>
 
-* 2025년 미국 FDA 승인에 이어 2026년 국내 식약처 허가(H1-항히스타민제로 적절히 조절되지 않는 만 12세 이상 만성 자발성 두드러기)
+* 2세대 H1AH 증량에도 조절되지 않는 CSU에서 **새로운 add-on 표적치료 옵션**으로 고려
 * 기전 : IL-4Rα 억제를 통한 IL-4/IL-13 signaling 차단(제2형 염증 표적)
-* 용법 : 300 ㎎ 2주마다 SC <mark style="color:blue;">\[듀피젠트]</mark>(성인 아토피피부염·천식 등과 동일 제형); _✽2026년 개정 국제 두드러기 가이드라인에서 omalizumab과 함께 2차 치료 표적치료제로 포함됨. 국내 급여 여부는 아직 확인 필요(2026년 기준 CSU 적응증은 최근 허가, 급여기준 미확정 가능)_
+* 용법 : 300 ㎎ 2주마다 SC <mark style="color:blue;">\[듀피젠트]</mark>
+* _✽2026 국제 두드러기 가이드라인에서는 omalizumab을 강하게 권고하는 확립된 add-on 치료로 두고, dupilumab은 임상 상황에 따라 고려할 수 있는 새로운 옵션으로 제시. 국내 허가·급여는 최신 식약처/HIRA 정보 확인_
 
 #### <mark style="color:$primary;">Remibrutinib (경구 BTK inhibitor)</mark>
 
-* 2025년 미국 FDA 승인, 2026년 4월 국내 식약처 허가(2세대 H1-항히스타민제로 적절히 조절되지 않는 성인 만성 자발성 두드러기)
-* 기전 : mast cell 내 Bruton's tyrosine kinase(BTK) 선택적 억제로 histamine 등 염증 매개물질의 방출을 사전 차단(경구, 정기 검사실 모니터링 불필요)
-* 용법 : 25 ㎎ bid <mark style="color:blue;">\[랩시도]</mark>; 국내 최초의 경구 CSU 표적치료제로, 주사 치료를 기피하는 환자에서 대안이 될 수 있음
-* _✽REMIX-1/2 3상 연구에서 12주째 UAS7 개선, 약 47\~50%에서 증상 조절(UAS7≤6), 28\~31%에서 완전 관해(UAS7=0)_
+* 2세대 H1AH 증량에도 조절되지 않는 성인 CSU에서 고려할 수 있는 **경구 BTK inhibitor add-on 옵션**
+* 기전 : mast cell·basophil의 BTK signaling을 선택적으로 억제하여 Fc receptor downstream activation 및 매개물질 방출을 감소
+* 용법 : 25 ㎎ bid <mark style="color:blue;">\[랩시도]</mark>
+* _✽신규 표적치료제의 정확한 국내 적응증·금기·급여 여부는 빠르게 변할 수 있으므로 처방 시 최신 식약처/HIRA 정보를 확인_
 
 #### <mark style="color:$primary;">Cyclosporine</mark>
 
-* 고용량 H1AH 또는 H1AH 병용에 반응하지 않는 환자에서 추가 고려(omalizumab과 유사한 반응률)
-* 부작용 : 고혈압, 신부전
-* 용법 : 2.5\~5 ㎎/㎏/d <mark style="color:blue;">\[산디문]</mark>(☞ p.871); 장기 투여는 회피
+* 고용량 2세대 H1AH 및 적절한 표적치료에도 조절되지 않거나 표적치료를 사용할 수 없는 중증 CSU에서 선택적으로 추가 고려
+* 효능은 있으나 고혈압·신독성·약물상호작용 등 safety burden 때문에 omalizumab과 동등한 우선순위로 보아서는 안 됨
+* 용법 : 2.5\~5 ㎎/㎏/d <mark style="color:blue;">\[산디문]</mark>(☞ p.871); 혈압·신기능 모니터링, 장기 투여는 회피
 
 #### <mark style="color:$primary;">기타 3차 면역조절제</mark>
 
@@ -399,9 +429,11 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 
 <table><thead><tr><th width="90">단계</th><th>치료 옵션</th></tr></thead><tbody><tr><td>1st line</td><td>Non-sedating(2세대) H1AH 규칙적 투여</td></tr><tr><td>2nd line</td><td>H1AH 증량(표준 용량의 \~4배) 또는 다른 H1AH 병용; H2AH 추가 고려; leukotriene receptor antagonist(LTRA) 추가 고려</td></tr><tr><td>3rd line</td><td>Omalizumab(강한 권고) / Cyclosporine(조건부 권고) / Phototherapy, methotrexate, dapsone(제한적 고려)</td></tr><tr><td>필요시</td><td>경구 스테로이드는 급성 발작 조절 목적으로만 단기 사용</td></tr></tbody></table>
 
-<p align="center"><em><mark style="color:$info;">Ref. KAAACI/KDA. Evidence-Based Practice Guidelines for Chronic Spontaneous Urticaria in Korean Adults and Children: Part 2. 2020. Fig. 5.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KAAACI/KDA. Evidence-Based Practice Guidelines for Chronic Spontaneous Urticaria in Korean Adults and Children: Part 2. 2020. Fig. 5. 국내 기존 권고를 보여 주는 표이며, 최신 단계치료는 아래 2026 International Urticaria Guideline 항목을 우선 참조.</mark></em></p>
 
-### <mark style="color:orange;">만성 두드러기 단계별 치료 \[BAD, 2021 / EAACI 계열 국제 가이드라인 준용]</mark>
+### <mark style="color:orange;">만성 두드러기 단계별 치료 \[International Urticaria Guideline, 2026]</mark>
+
+<p align="center"><em><mark style="color:$info;">Ref. Zuberbier T, et al. The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria. Allergy. 2026; doi:10.1111/all.70210.</mark></em></p>
 
 모든 경우에 공통으로
 
@@ -417,7 +449,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 **1st Line**
 
 * 2세대 H1AH 규칙적 투여
-* 표준 용량으로 조절되지 않으면 증량(허가 용량의 4배까지); 2\~4주마다(중증 난치성은 2주마다) 치료 옵션 조정
+* 표준 용량으로 조절되지 않으면 증량(표준 용량의 최대 4배; 제품별 허가범위를 초과할 수 있음); 2\~4주마다(중증 난치성은 2주마다) 치료 옵션 조정
 * 반응이 부족하거나 내약성이 없으면 다른 2세대 H1AH로 교체 고려; mizolastine 증량은 회피
 * 대체 항히스타민제가 있는 한 1세대 H1AH의 일상적 투여·증량은 회피(CNS 영향 고려)
 * 2가지 2세대 H1AH 병용에 대한 근거는 부족함
@@ -425,16 +457,17 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 * montelukast : 2세대 H1AH 증량에도 반응 부족 시 추가 고려
 * steroid : 심한 증상의 빠른 조절을 위해 단기간(수일) 고려(예: prednisolone 0.5 ㎎/㎏); 장기 전신 투여는 다른 옵션이 있는 한 회피
 
-**2nd Line**
+**2nd Line — add-on 표적치료**
 
-* omalizumab : 2세대 H1AH에 추가 투여
-* ciclosporin : 3\~6개월간 1차 치료에 반응 부족 시 2세대 H1AH에 추가; 장기 투여는 회피
-* ASST/APST는 일상적으로 시행하지 않음
-* 총 IgE, BHRA는 반응 예측 목적으로 고려 가능하나 모든 환자에서 실제 임상 반응을 반영하지는 않음
+* **omalizumab 300 ㎎ SC q4wk** : 고용량 2세대 H1AH 불응 CSU에서 확립된 add-on 치료(강한 권고)
+* dupilumab, remibrutinib : 환자 특성, 허가·가용성, 선호도 및 기존 치료 반응에 따라 새로운 add-on 옵션으로 고려
+* 치료 반응과 질병 조절도(UCT/UAS7)를 정기적으로 평가하고, 충분히 조절되면 단계적 감량/중단 가능성을 검토
 
-**3rd Line**
+**3rd Line / 난치성 CSU**
 
-* 1·2차 치료에 반응이 부족하거나 사용할 수 없는 경우 : azathioprine, dapsone, doxepin(CNS 영향 우려), hydroxychloroquine(특히 SLE 동반), IVIg, methotrexate, mycophenolate mofetil, narrowband UVB(통상 30회 코스, 필요시 12개월 후 반복), oral tacrolimus, sulfasalazine, tranexamic acid(혈관부종 우세 시)
+* ciclosporin : 위 치료에도 반응 부족하거나 사용할 수 없는 중증 환자에서 선택적으로 고려; 혈압·신기능 모니터링 필수, 장기 투여 회피
+* 기타 면역조절제·광선치료(azathioprine, dapsone, hydroxychloroquine, methotrexate, mycophenolate mofetil, NB-UVB 등)는 근거가 제한적이므로 전문의 관리하 개별적으로 고려
+* ASST/APST는 일상적으로 시행하지 않으며, total IgE·BHRA 등은 선택적으로 반응 예측에 활용할 수 있으나 절대적 지표는 아님
 
 #### <mark style="color:$primary;">만성 유발성 두드러기 (Inducible Urticaria)</mark>
 
@@ -454,10 +487,6 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 * 현저하거나 지속적인 전신 증상, 전신 상태 불량
 * 두드러기로 인해 우울, 불안, 수면장애, 등교/출근 지장 등 삶의 질에 상당한 영향
 * 1st line therapy로 조절되지 않는, 팽진 없는 혈관부종
-
-<p align="center"><em><mark style="color:$info;">AAS=Angioedema Activity Score; BHRA=basophil histamine release assay; DLQI=Dermatology Life Quality Index; IVIg=intravenous immunoglobulin; NB-UVB=narrowband ultraviolet B; PIL=patient information leaflet; PUVA=psoralen plus ultraviolet A; UAS7=Urticaria Activity Score summed over 7 days; UCT=Urticaria Control Test</mark></em></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. British Association of Dermatologists guidelines for the management of people with chronic urticaria, 2021</mark></em></p>
 
 ***
 
@@ -479,7 +508,7 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 >
 > ```
 > 세티리진 10 ㎎/T   1T   qd
-> ※ 야간 가려움이 심하면 취침 전 1세대 항히스타민제(예: hydroxyzine 25 ㎎) 단기 추가 고려
+> ※ 원칙적으로 2세대 H1AH를 우선 사용. 야간 증상이 매우 심해 1세대 약제를 예외적으로 단기 사용할 경우 진정·인지저하·낙상 위험을 고려
 > ※ 원인으로 의심되는 음식·약물 회피 안내
 > ```
 >
@@ -492,7 +521,7 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 > ↓ 2\~4주 후에도 미호전 시
 > 펙소페나딘 180 ㎎/T   2T   qd (2배 증량)
 > ↓ 재평가 후 필요시
-> 펙소페나딘 180 ㎎/T   4T   qd (허가 용량의 4배까지 증량)
+> 펙소페나딘 180 ㎎/T   4T   qd (가이드라인상 표준 용량의 최대 4배까지 증량; 허가범위 초과 여부 확인)
 > ```
 >
 > _✽mizolastine은 증량 대상에서 제외. 2\~4주 간격으로 단계적으로 조정하며, 심한 난치성인 경우 2주 간격도 가능_
@@ -518,13 +547,14 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 > **처방례 5. 아나필락시스·중증 기도 부종 동반 시 응급 처치**
 >
 > ```
-> 에피네프린 1:1,000   0.3 ㎖   IM (대퇴부 전외측)
-> 하이드로코르티손 200 ㎎   IV
-> 디펜히드라민 50 ㎎   IV
+> 에피네프린 1:1,000   0.3~0.5 ㎖   IM (대퇴부 전외측)   즉시
+> ※ 임상 반응 불충분 시 아나필락시스 프로토콜에 따라 반복 투여
 > ```
 >
-> ※ 투여 즉시 응급실 이송; 2상성 반응(biphasic reaction) 가능성으로 최소 4\~6시간 관찰 필요\
-> ※ 원인이 ACEI 유발 혈관부종으로 확인되면 ACEI 즉시 중단(에피네프린·항히스타민제 반응이 부족할 수 있음을 사전 인지)
+> ※ epinephrine이 1차 치료이며 ABC 평가·기도 확보 준비·산소·필요시 IV crystalloid를 병행하고 즉시 응급실 이송\
+> ※ 항히스타민제는 안정화 후 피부 증상에 보조적으로 사용; 전신 steroid는 routine 1차 처치가 아님\
+> ※ 관찰 시간은 반응 중증도·치료 횟수·위험인자에 따라 개별화(☞ 아나필락시스 챕터)\
+> ※ ACEI 유발 혈관부종으로 판단되면 ACEI 즉시 중단하며, bradykinin-mediated인 경우 epinephrine·항히스타민제·steroid 반응이 제한적일 수 있음
 
 > **처방례 6. HAE 급성 발작(자가주사 가능, 후두부종 없음)**
 >
@@ -535,14 +565,14 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 > ※ 6시간 후에도 증상 지속 시 추가 투여 가능(24시간 내 최대 3회)\
 > ※ 목 부위 증상(협착음, 쉰 목소리, 삼킴곤란) 동반 시에는 자가주사와 무관하게 즉시 응급실 내원
 
-> **처방례 7. HAE 장기예방 도입(Danazol 실패/금기 시 Lanadelumab 전환)**
+> **처방례 7. HAE 장기예방 — Lanadelumab (국제 가이드라인상 1차 LTP 옵션; 국내 급여요건 별도)**
 >
 > ```
 > 탁자이로 300 ㎎   SC   2주마다
 > ```
 >
-> ※ danazol 6개월 이상 사용에도 월평균 3회 이상 icatibant 필요, 또는 danazol 금기/부작용 시 급여 인정(급여기준 HIRA 고시 확인)\
-> ※ 6개월 후 재평가(발작 50% 이상 감소 시 지속); 반응 양호 시 4주 간격으로 연장 고려
+> ※ 국제 가이드라인에서는 lanadelumab을 first-line long-term prophylaxis 옵션으로 권고함. **국내에서는 2026년 3월부터 조건부 건강보험 급여가 적용**되며, 국제적 치료 순서와 국내 급여기준은 별개임\
+> ※ 대상 질환·기존 치료 실패/금기·발작 및 응급치료 요건·6개월 단위 재평가 등 세부 기준은 변경될 수 있으므로 처방 시 최신 HIRA 고시 확인; 임상적으로 잘 조절되면 4주 간격 연장 고려
 
 ***
 
@@ -550,7 +580,7 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 
 > **H1-항히스타민제, 왜 매일 규칙적으로 복용해야 하나요**
 >
-> * 증상이 있을 때만 먹는 것보다 매일 규칙적으로 복용하는 것이 mast cell을 안정시켜 두드러기 재발을 줄이는 데 더 효과적입니다(특히 만성 두드러기)
+> * 증상이 있을 때만 먹는 것보다 매일 규칙적으로 복용하여 **히스타민의 H1 수용체 작용을 지속적으로 차단**하는 것이 증상 조절과 재발 억제에 더 효과적입니다(특히 만성 두드러기)
 > * 표준 용량으로 조절되지 않는다고 임의로 자주 바꾸지 마시고, 2\~4주 간격으로 재평가 후 증량 여부를 결정합니다
 
 > **전신 스테로이드, 왜 장기 복용하면 안 되나요**
@@ -585,7 +615,7 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 {% hint style="info" %}
 **두드러기·혈관부종, 대부분은 며칠 안에 좋아지지만 원인 확인이 중요합니다**
 
-두드러기는 피부가 갑자기 부풀어 오르며 가려운 질환이고, 혈관부종은 눈꺼풀이나 입술처럼 더 깊은 조직이 붓는 것을 말합니다. 두 가지는 같은 기전에서 시작되며 함께 나타나기도 합니다. 대부분 며칠에서 몇 주 안에 좋아지지만, 6주 이상 반복되면 만성으로 분류되어 원인 파악과 꾸준한 관리가 필요합니다.
+두드러기는 피부가 갑자기 부풀어 오르며 가려운 질환이고, 혈관부종은 눈꺼풀이나 입술처럼 더 깊은 조직이 붓는 것을 말합니다. 혈관부종 중 상당수는 두드러기와 같은 히스타민 기전으로 생기지만, 유전성 혈관부종이나 ACE 억제제 관련 혈관부종처럼 **브래디키닌이라는 다른 기전**으로 생기는 유형도 있습니다. 대부분의 급성 두드러기는 며칠에서 몇 주 안에 좋아지지만, 6주 이상 반복되면 만성으로 분류되어 꾸준한 관리가 필요합니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">왜 두드러기·혈관부종이 생기나요?</mark>
