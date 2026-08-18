@@ -2,34 +2,9 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 4\~72시간 동안 지속되고 일상적 활동에 의해 악화되며 일상생활에 지장을 주는 심한 두통; 주로 편측성·박동성이나 양측성(30\~40%)·비박동성(40%)도 흔함
-* 동반 증상 : 구역, 구토, 빛/큰소리 공포, 어지럼증, 근육 압통, 수분 저류(부종), 감정 변화
-* 유병률 : 약 8\~17%(국내 기준); 여성 약 8\~10%, 남성 약 2\~4% (여성에서 2\~3배 흔함); 20\~50대 여성에서 가장 흔함
+* 국내 1년 유병률 : 약 5\~6% — 2009 Korean Headache Survey 6.1%(여성 9.2%, 남성 2.9%), 2018 Korean Sleep-Headache Survey 5.2%; 여성에서 약 3배 흔함 (Kim et al., J Clin Neurol 2012; Kim et al., J Clin Neurol 2021)
 * 1년에 1회\~1주에 수회 빈도로 재발
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
-* 조짐(aura) : 편두통 환자의 20%에서 발생; 보통 5\~60분 지속 후 두통 발생; 운동 관련 조짐은 최대 72시간까지 지속 가능
-
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-☞ 일반적인 두통의 경고 징후(SNOOP 등)는 [두통 Red Flags 참조](015_-headache.md#red-flags); 아래는 편두통에 특이적인 위험 신호
-
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
-
-* 새로 발생한 운동 조짐(편마비 등) 또는 기존보다 악화된 운동 조짐 → 뇌졸중·hemiplegic migraine 감별 필요
-* 비운동성 조짐이 60분 이상 지속되거나 갑작스러운 음성 신경학적 증상(감각 소실, 실어증 등) 동반 → 뇌졸중·TIA 등 2차성 원인 감별
-* Status migrainosus(72시간 이상 지속) 중 탈수·전해질 불균형 동반 시
-
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
-
-* 평소와 확연히 다른 두통 양상 또는 급격한 악화 (기존 편두통 환자라도 2차 두통 감별 필요)
-* 새로 발생하거나 평소와 다른 양상의 조짐
-* 뇌간조짐편두통(brainstem aura) 또는 반신마비편두통(hemiplegic migraine) 의심 소견 → **허가사항상 triptan·ergotamine 사용을 피해야 하므로** 진단 확정 및 전문의 협진 필요
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
-
-* 적절한 급성기·예방 치료에도 반응이 미흡한 경우
-* 두통 빈도 증가로 약물과용두통(MOH) 위험이 있는 경우
-* 만성 편두통으로 진행하는 경우
 
 ### <mark style="color:orange;">분류 \[IHS classification ICHD-3]</mark>
 
@@ -57,11 +32,6 @@
   * 순수 월경편두통(pure menstrual migraine) : 이 기간에만 편두통이 발생
   * 월경 관련 편두통(menstrually-related migraine) : 이 기간 외에도 편두통이 발생
 * Status migrainosus : ＞72시간 지속되는 심한 편두통
-
-### <mark style="color:orange;">만성 편두통</mark>
-
-* ＞3개월 동안 ≥15일/월의 두통 (그 중 ≥8일/월이 편두통 특성 충족)
-* 흔히 정신적 문제, 수면 문제, 피로, 다른 통증, 소화 장애, 뇌혈관/심혈관 질환 등을 동반
 
 ## <mark style="color:green;">원인</mark>
 
@@ -100,7 +70,40 @@
 * 음료 : 술(와인, 증류주), 카페인(＞200 ㎎/d 과다 섭취 또는 갑작스런 중단)
 * 첨가제 : MSG, 간장, 고기 연육제, 인공 감미료(아스파탐, sucralose)
 
-## <mark style="color:green;">임상 양상 및 진단</mark>
+## <mark style="color:green;">임상 양상</mark>
+
+* 두통 발작은 치료하지 않거나 치료가 제대로 되지 않았을 때 보통 4\~72시간 지속
+* 주로 편측성·박동성이고 중등도\~중증이며 일상적 신체 활동으로 악화되지만, 양측성(30\~40%)·비박동성(40%)도 흔함
+* 동반 증상 : 구역, 구토, 빛공포증, 소리공포증, 어지럼증, 근육 압통, 감정 변화 등
+* 편두통 발작은 **전구기(prodrome) → 조짐(aura; 일부 환자) → 두통기 → 후구기(postdrome)**의 시간적 단계로 나타날 수 있음
+  * **전구기(prodrome)** : 두통 발생 수 시간\~최대 48시간 전(조짐 편두통에서는 aura 이전)에 피로, 하품, 집중력 저하, 목 경직/통증, 기분 변화, 특정 음식에 대한 갈망 등이 나타날 수 있음
+  * **조짐(aura)** : 편두통 환자의 약 **20%**에서 발생; 시각·감각·언어 등 완전히 가역적인 국소 신경학적 증상으로 보통 5\~60분 지속하며, 운동 증상은 최대 72시간까지 지속 가능
+  * **후구기(postdrome)** : 두통이 소실된 뒤 최대 48시간 동안 피로, 집중력 저하, 기분 변화, 목 경직/통증 등이 지속될 수 있음
+  * ✽ 전구기(prodrome)는 aura와 다른 개념이며, aura는 일시적인 국소 신경학적 증상을 의미함
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+☞ 일반적인 두통의 경고 징후(SNOOP 등)는 [두통 Red Flags 참조](015_-headache.md#red-flags); 아래는 편두통에 특이적인 위험 신호
+
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+
+* 새로 발생한 운동 조짐(편마비 등) 또는 기존보다 악화된 운동 조짐 → 뇌졸중·hemiplegic migraine 감별 필요
+* 비운동성 조짐이 60분 이상 지속되거나 갑작스러운 음성 신경학적 증상(감각 소실, 실어증 등) 동반 → 뇌졸중·TIA 등 2차성 원인 감별
+* Status migrainosus(72시간 이상 지속) 중 탈수·전해질 불균형 동반 시
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 평소와 확연히 다른 두통 양상 또는 급격한 악화 (기존 편두통 환자라도 2차 두통 감별 필요)
+* 새로 발생하거나 평소와 다른 양상의 조짐
+* 뇌간조짐편두통(brainstem aura) 또는 반신마비편두통(hemiplegic migraine) 의심 소견 → **허가사항상 triptan·ergotamine 사용을 피해야 하므로** 진단 확정 및 전문의 협진 필요
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+
+* 적절한 급성기·예방 치료에도 반응이 미흡한 경우
+* 두통 빈도 증가로 약물과용두통(MOH) 위험이 있는 경우
+* 만성 편두통으로 진행하는 경우
+
+## <mark style="color:green;">진단</mark>
 
 * 편두통을 확진하는 검사 방법은 없음; 필요시 다른 질환 감별을 위한 검사 시행
 * 신경학적 검사 시행 : 보행, 대/소근육 운동 기능, mental status, 단기 기억력, papilledema
@@ -190,6 +193,33 @@ C. 다음 중 어느 하나가 ＞3개월 동안 ≥8일/월 발생
 
 D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 
+### <mark style="color:orange;">편두통 진단 알고리듬</mark>
+
+```mermaid
+flowchart TD
+    A["반복성 두통 환자"] --> B{"Red flags 또는 비전형적 신경학적 소견?"}
+    B -- "Yes" --> C["2차성 두통 평가<br/>응급평가·영상검사·의뢰"]
+    B -- "No" --> D{"4–72시간 지속 + 다음 중 ≥2<br/>편측성 / 박동성 / 중등도–중증 / 일상 활동으로 악화"}
+    D -- "No" --> E["긴장형두통 등 다른 두통 재평가"]
+    D -- "Yes" --> F{"구역·구토 또는<br/>빛공포증 + 소리공포증?"}
+    F -- "No" --> E
+    F -- "Yes" --> G["편두통 의심"]
+    G --> H{"완전히 가역적인 aura 증상?"}
+    H -- "Yes" --> I["Migraine with aura"]
+    H -- "No" --> J["Migraine without aura"]
+    I --> K{"두통 ≥15일/월이 3개월 초과 지속?"}
+    J --> K
+    K -- "No" --> L["Episodic migraine"]
+    K -- "Yes" --> M{"그중 ≥8일/월 편두통 특징?"}
+    M -- "Yes" --> N["Chronic migraine"]
+    M -- "No" --> O["다른 chronic headache 평가"]
+    L --> P["급성약 사용일수 확인"]
+    N --> P
+    P --> Q{"Triptan/복합진통제 ≥10일/월<br/>또는 단순진통제 ≥15일/월?"}
+    Q -- "Yes" --> R["MOH 동반 여부 평가"]
+    Q -- "No" --> S["치료 계획 수립"]
+```
+
 ### <mark style="color:orange;">감별 진단</mark>
 
 * 유사한 양상으로 내원할 수 있는 질환, 특히 놓치면 위험한 이차성 두통과의 감별이 중요
@@ -246,7 +276,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 <table><thead><tr><th width="202">성분명 [상품명]</th><th width="241">용량·최소 재투여 간격 [최대]</th><th width="108">반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan [이미그란]</td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan²⁾</td><td>5~10 ㎎ q2h [30 ㎎/d]³⁾</td><td>2~3</td></tr><tr><td>zolmitriptan [조믹]</td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan [알모그란]</td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan²⁾</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan [나라믹]</td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan [미가드]</td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
 
 _¹⁾ **국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 최대 200 ㎎/d**_\
-_²⁾ 국내 미허가로 파악됨; 처방 전 최신 허가 현황 재확인 필요_\
+_²⁾ rizatriptan, eletriptan : **현재 국내 미출시(시판 제품 없음)**_\
 _³⁾ propranolol 병용 시 rizatriptan AUC 약 70% 상승 → 5 ㎎/회, 최대 15 ㎎/d로 용량 제한_
 
 _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
@@ -300,7 +330,26 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 
 ***
 
-<figure><img src="../.gitbook/assets/4a893339-2626-473f-84b2-445786760a89.JPG" alt=""><figcaption></figcaption></figure>
+### <mark style="color:orange;">급성 편두통 약물 선택 알고리듬</mark>
+
+```mermaid
+flowchart TD
+    A["급성 편두통 발작"] --> B["가능한 발작 초기에 치료"]
+    B --> C{"구역·구토가 심한가?"}
+    C -- "Yes" --> D["항구토제 추가<br/>경구 외 제형 고려"]
+    C -- "No" --> E{"경증–중등도이고 기능장애가 크지 않은가?"}
+    D --> E
+    E -- "Yes" --> F["NSAID 또는 acetaminophen"]
+    F --> G{"충분한 반응?"}
+    G -- "Yes" --> H["동일 전략 유지"]
+    G -- "No" --> I{"Triptan 허가사항상 금기?"}
+    E -- "No" --> I
+    I -- "Yes" --> J["Gepant 또는 lasmiditan 고려"]
+    I -- "No" --> K["Triptan"]
+    K --> L{"부분 반응 또는 재발?"}
+    L -- "Yes" --> M["허가된 최소 간격 후 재투여<br/>± NSAID 병용"]
+    L -- "No" --> N["다음 발작에서 용량·제형 변경<br/>다른 triptan 또는 다른 계열 고려"]
+```
 
 ***
 
@@ -491,6 +540,8 @@ G43.9 상세불명의 편두통
 > ```
 > 에트라빌 10 ㎎/T 1T hs (보험주의; 우울증 동반 시 급여)
 > ```
+>
+> _✽저용량 취침 전 투여로 시작하며 졸림·입마름·변비·소변 저류 등 항콜린성 부작용에 주의. 고령자, BPH, 녹내장, 심장 전도장애 환자에서는 신중 사용; 우울증 동반 시 특히 유용할 수 있음._
 
 ***
 
