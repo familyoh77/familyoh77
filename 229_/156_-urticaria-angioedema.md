@@ -1,4 +1,4 @@
-# 두드러기 (담마진) Urticaria, 혈관부종 Angioedema
+# 두드러기 Urticaria, 혈관부종 Angioedema
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -9,12 +9,10 @@
 * 두드러기 환자의 40%가 혈관부종을 동반, 혈관부종 환자의 80%가 두드러기를 동반
 * 유병률 : 인구의 10\~25%가 일생 중 두드러기를 경험; 3%가 만성 두드러기를 가짐
 * 분류(경과에 따라)
-  * 급성 : \<6주
+  * 급성 : <6주
   * 만성 : ≥6주, 대부분 ≥주 3회 이상 발생(각 episode는 보통 빠르게 호전); 중년/여성에서 보다 흔함
 * 경과 : 만성으로 이행하는 경우가 약 ⅓; 이중 30\~50%가 1년 내 자연 치유, 20%는 5년 이후에도 지속
 * 합병증 : 만성 두드러기는 수면장애, 불안/우울, 등교·출근 지장 등 심리/일상 생활 문제를 유발할 수 있으며 이에 대한 평가와 관리가 필요함
-
-***
 
 ## <mark style="color:green;">원인</mark>
 
@@ -34,8 +32,6 @@
 **NSAID·ACEI는 급성·만성 두드러기 모두에서 흔한 악화 인자**\
 Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러기를 악화시킬 수 있고, ACEI는 bradykinin 축적을 통해 팽진 없는 혈관부종을 유발할 수 있음(투여 개시 1개월 내 흔하나 수년 후 지연 발생도 가능)
 {% endhint %}
-
-***
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -57,8 +53,6 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * 부종 외 증상 : 온감, 통증; 때로 호흡 곤란, 복통, 구역/구토, 설사; 가려움은 없거나 적음(점막에는 mast cell과 감각 신경 말단이 적기 때문)
 * 경과 : 보통 72시간 내 회복(수시간\~수일)
 
-***
-
 ## <mark style="color:green;">두드러기 아형 (유발 요인별 분류)</mark>
 
 ### <mark style="color:orange;">식품 또는 약물 알레르기</mark>
@@ -79,13 +73,11 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 ### <mark style="color:orange;">만성 유발성 두드러기 (Chronic Inducible Urticaria, CIndU)</mark>
 
-특정 물리적/환경적 자극에 의해 반복적으로 유발되는 아형들로, 유발 검사로 확진함.
+* 특정 물리적/환경적 자극에 의해 반복적으로 유발되는 아형들로, 유발 검사로 확진함.
 
 <table><thead><tr><th width="150">아형</th><th width="220">원인/기전</th><th>진단(유발 검사)</th></tr></thead><tbody><tr><td>피부 그림증(피부 묘기증, Dermographism)</td><td>긁힘·압력 자극 → 반사성 혈관 수축 후 2차 반응; 다른 물리 두드러기(콜린성·한랭)를 동반하기도 함</td><td>설압자·손톱 등으로 피부를 긁으면 6\~7분 내 가려운 홍반 발생(15\~30분 후 소실 시작)</td></tr><tr><td>지연 압박 두드러기(Delayed pressure urticaria)</td><td>조이는 옷·오래 앉기·보행 등 압력; 발열·오한·관절통 동반 가능, 가려움보다 통증/압통</td><td>5 ㎏ 추를 폭 3 ㎝ 끈으로 20분간 걸고 6시간 및 24시간 후 관찰</td></tr><tr><td>콜린성 두드러기(Cholinergic urticaria)</td><td>운동·땀·더운물 목욕·매운 음식·심리적 자극에 의한 체온 상승 → 콜린성 신경 매개 histamine 증가; 눈물·침흘림·쌕쌕거림·두통·복통·구토·설사·실신 동반 가능</td><td>운동으로 땀을 낸 후 15분 추가 운동 또는 42℃ 온수에 10분간 신체 일부 담근 후 관찰; 원인 소실 시 30\~60분 내 소멸</td></tr><tr><td>한랭 두드러기(Cold urticaria)</td><td>찬 것에 노출 후 재가온 시 발생; 전신 노출 시 혈관 허탈·실신 위험</td><td>4\~5분간 얼음을 피부에 올린 후 10분 뒤 관찰(ice cube test)</td></tr><tr><td>열 두드러기(Heat urticaria)</td><td>뜨거운 물질 직접 노출; 드묾</td><td>4\~5분간 45℃ 물/물체를 피부에 접촉</td></tr><tr><td>운동 유발 두드러기(Exercise-induced urticaria)</td><td>physical exertion; 드묾(음식 동반 시 food-dependent exercise-induced anaphylaxis 감별)</td><td>treadmill test</td></tr><tr><td>일광 두드러기(Solar urticaria)</td><td>햇빛 노출; 노출 30초\~수 분 후 가려움 → 국한 부종·주변 홍반 → 차단 후 1\~3시간 내 소멸; 드묾</td><td>부분 노출 후 UVA/UVB/가시광선 조사; erythropoietic protoporphyria(porphyrin 검사)와 감별</td></tr><tr><td>수인성 두드러기(Aquagenic urticaria)</td><td>물 온도와 무관하게 접촉으로 발생; 드묾</td><td>35℃ 물 30분 적용 후 관찰; polycythemia vera 등과 관련 있어 매년 CBC 권장</td></tr><tr><td>진동성 두드러기(Vibratory urticaria)</td><td>수년간의 진동 노출(오토바이·승마·산악자전거·진동기계) 또는 특발성; 드묾</td><td>진동 장치로 5\~10분간 자극 후 관찰</td></tr></tbody></table>
 
-***
-
-## <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 기도 폐쇄·아나필락시스 위험</mark>
 
@@ -107,8 +99,6 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * 두드러기·혈관부종으로 인한 수면장애, 불안/우울, 등교·출근 지장 등 삶의 질 저하가 뚜렷함
 * 유발 요인이 뚜렷한 만성 유발성 두드러기 중 일상생활 지장이 큰 경우 → 유발 검사 및 전문 관리 고려
 * NSAID 관련이 의심되나 확진되지 않은 경우 → 알레르기내과 유발 검사 고려
-
-***
 
 ## <mark style="color:green;">진단</mark>
 
@@ -192,7 +182,7 @@ graph TD
     A([팽진]) --> B{설명할 수 없는<br>재발성 발열?<br>관절/골 통증?<br>malaise?}
     A2([혈관부종]) --> C{ACEI 치료 중?}
 
-    B -->|yes| D[Autoinflammatory<br>disease 의심]
+
     B -->|no| E{평균 팽진 기간<br>&gt;24시간?}
 
     C -->|yes| F{중단 후<br>증상 완화?}
@@ -213,11 +203,11 @@ graph TD
     K -->|no| M[Spontaneous<br>urticaria]
     K -->|yes| N{provocation<br>test 양성?}
 
-    N -->|yes| O[Chronic inducible<br>urticaria]
+
     N -->|no| M
-
+    B -->|yes| D[Autoinflammatory<br>disease 의심]
     D -.자가면역/유전성<br>원인 확인 후.-> P[Acquired/hereditary<br>autoinflammatory disease]
-
+    N -->|yes| O[Chronic inducible<br>urticaria]
     style D fill:#fff3e0,stroke:#e65100,stroke-width:2px
     style I fill:#e1f5fe,stroke:#01579b,stroke-width:2px
     style H fill:#e1f5fe,stroke:#01579b,stroke-width:2px
@@ -243,8 +233,6 @@ graph TD
 * 필요시 불안, 우울증, 심리사회적 영향에 대한 평가 및 치료
 * 교육 : 두드러기·혈관부종에 대한 교육 자료 또는 환자 정보 리플릿 제공(☞ 환자 안내서)
 
-***
-
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 확인된 유발/악화 인자 회피(약물, 특정 식품, 물리적 자극 등) — 단, 만성 자발성 두드러기에서 일상적인 식이 배제는 권고하지 않으며 유의미한 영향이 확인된 경우에만 회피
@@ -254,8 +242,6 @@ graph TD
 * 유발성 두드러기 아형별 예방 : 조이는 옷 피하기(지연압박두드러기), 급격한 체온 상승 회피(콜린성), 방한(한랭두드러기), 자외선 차단(일광두드러기)
 * 만성 두드러기의 심리사회적 영향(수면, 불안/우울, 학업/직장) 평가 및 필요시 정신건강의학과 협진
 
-***
-
 ## <mark style="color:green;">약물 치료</mark>
 
 * CSU 환자의 절반이 표준 용량의 H1-항히스타민제에 반응하며, 나머지 절반의 \~⅔가 증량 치료에 반응
@@ -263,9 +249,7 @@ graph TD
 
 ### <mark style="color:orange;">Epinephrine</mark>
 
-```
-(☞ p.991)
-```
+(☞ [아나필락시스](../230_/188_-anaphylaxis.md#management))
 
 * 대상 : 심한 급성 두드러기, 기도 폐쇄를 동반한 혈관부종, 아나필락시스
 * 용법 : 1:1,000 제제(1 ㎎/㎖), 0.01 ㎖/㎏, 최대 0.5 ㎖ IM(대퇴부 전외측 중간 부위)
@@ -278,7 +262,7 @@ graph TD
 
 ### <mark style="color:orange;">H1-항히스타민제 (H1AH)</mark>
 
-* 두드러기 치료의 1차 선택제; nonhereditary acute angioedema 환자의 \>85%에서 증상 호전
+* 두드러기 치료의 1차 선택제; nonhereditary acute angioedema 환자의 >85%에서 증상 호전
 * 가려움에 대해서는 진정 작용이 있는 1세대 약제가 효과적이나, 부작용(진정, 인지·정신운동 기능 저하, anticholinergic burden)으로 인해 영국피부과학회(BAD) 등은 1세대 항히스타민제를 1차 선택제에서 제외
 * 장기 투여 또는 졸음 부작용을 피하고자 할 때 2세대 약제 선택
 * 증상 발생 후 일시적 사용보다는 mast cell을 안정화시키기 위하여 규칙적으로 지속 사용하는 것이 효과적. 특히 만성 두드러기에서는 지속 투여가 유익
@@ -411,13 +395,13 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 
 ***
 
-### <mark style="color:orange;">만성 두드러기 단계별 치료 [KAAACI/KDA, 2020]</mark>
+### <mark style="color:orange;">만성 두드러기 단계별 치료 \[KAAACI/KDA, 2020]</mark>
 
 <table><thead><tr><th width="90">단계</th><th>치료 옵션</th></tr></thead><tbody><tr><td>1st line</td><td>Non-sedating(2세대) H1AH 규칙적 투여</td></tr><tr><td>2nd line</td><td>H1AH 증량(표준 용량의 \~4배) 또는 다른 H1AH 병용; H2AH 추가 고려; leukotriene receptor antagonist(LTRA) 추가 고려</td></tr><tr><td>3rd line</td><td>Omalizumab(강한 권고) / Cyclosporine(조건부 권고) / Phototherapy, methotrexate, dapsone(제한적 고려)</td></tr><tr><td>필요시</td><td>경구 스테로이드는 급성 발작 조절 목적으로만 단기 사용</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. KAAACI/KDA. Evidence-Based Practice Guidelines for Chronic Spontaneous Urticaria in Korean Adults and Children: Part 2. 2020. Fig. 5.</mark></em></p>
 
-### <mark style="color:orange;">만성 두드러기 단계별 치료 [BAD, 2021 / EAACI 계열 국제 가이드라인 준용]</mark>
+### <mark style="color:orange;">만성 두드러기 단계별 치료 \[BAD, 2021 / EAACI 계열 국제 가이드라인 준용]</mark>
 
 모든 경우에 공통으로
 
