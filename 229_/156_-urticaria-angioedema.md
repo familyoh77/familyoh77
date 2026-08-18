@@ -457,7 +457,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 
 <p align="center"><em><mark style="color:$info;">AAS=Angioedema Activity Score; BHRA=basophil histamine release assay; DLQI=Dermatology Life Quality Index; IVIg=intravenous immunoglobulin; NB-UVB=narrowband ultraviolet B; PIL=patient information leaflet; PUVA=psoralen plus ultraviolet A; UAS7=Urticaria Activity Score summed over 7 days; UCT=Urticaria Control Test</mark></em></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. British Association of Dermatologists guidelines for the management of people with chronic urticaria, 2021; KAAACI/KDA Evidence-Based Practice Guidelines for CSU, 2020; 2025\~2026년 dupilumab·remibrutinib 승인 반영</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. British Association of Dermatologists guidelines for the management of people with chronic urticaria, 2021</mark></em></p>
 
 ***
 
