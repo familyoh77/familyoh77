@@ -1,21 +1,17 @@
 # 건선 Psoriasis
 
-![image](../.gitbook/assets/df444b4e-3d38-42bb-ae14-21b50398d18a.JPG)
-
 ## 일반 사항
 
 * 표피 각질 세포의 과증식에 의한 특징적인 은색 비늘을 가진 홍반성 반이 발생하는 만성 염증성 피부 질환
 * 분포 : 전신, 자극받기 쉬운 부분에 흔함; 팔꿈치, 무릎, 두피, 요천추부, 엉덩이 틈새, 손발바닥, 손발톱, 음경 귀두
 * 호발 연령 : 30대, 50\~60대
-*   경과 : 보통 평생 지속(증상의 변동은 있을 수 있음)
-
-    •치료에 반응이 있으면 1\~2달 내 호전
-
-    •오랜 기간 동안 진행되거나 국소 부위에서 갑작스럽게 악화
+* 경과 : 보통 평생 지속(증상의 변동은 있을 수 있음)
+  * 치료에 반응이 있으면 1\~2달 내 호전
+  * 오랜 기간 동안 진행되거나 국소 부위에서 갑작스럽게 악화
 
 ## 원인
 
-* 불명; 감염 또는 전염성 질환은 아님![image](../.gitbook/assets/2d6e0dc4-6e5e-4637-a896-844e993e3c6e.JPG)
+* 불명; 감염 또는 전염성 질환은 아님
 * 유전; 환자의 40%에서 가족력이 있음
 * 환경, 면역 관련
 
@@ -42,6 +38,13 @@
 * Auspitz’s sign : 건선 판을 긁어내면 기저부에서 점상 출혈 발생
 * Sebopsoriasis : 지루피부염에 건선이 병발하여 기름진 인설 형성; 두피, 눈썹, nasolabial fold, 귀뒤, 흉골 부위 이환
 
+### Red Flags!
+
+* BSA(체표면적) ＞90%의 erythema
+* 중증 또는 난치성 건선
+* 전신 농포성 건선
+* 전신 건강 상태가 좋지 않음
+
 ## 종류
 
 ### 판형건선 (Plaque psoriasis, Psoriasis vulgaris)
@@ -61,20 +64,14 @@
 
 * 빈도 : 1\~2% 해당
 * 모양 : 넓은 범위의 진한 홍반(fiery redness)
-*   증상 : 심한 가려움, 통증, 피부 벗겨짐, 탈모, 조갑 이상, 체온 오르내림(체온 유지 장애), 오한, 심부전, 탈수, 전해질 이상;
-
-    생명 위협
-*   유발 인자 : 심한 일광 화상, 알레르기, 전신적 건선 치료 중 갑작스런 중단, 전신 steroid 사용, 감염, 감정적 스트레스,
-
-    알코올 남용, 약물(예: lithium, 항말라리아제, coal tar)
+* 증상 : 심한 가려움, 통증, 피부 벗겨짐, 탈모, 조갑 이상, 체온 오르내림(체온 유지 장애), 오한, 심부전, 탈수, 전해질 이상; 생명 위협
+* 유발 인자 : 심한 일광 화상, 알레르기, 전신적 건선 치료 중 갑작스런 중단, 전신 steroid 사용, 감염, 감정적 스트레스, 알코올 남용, 약물(예: lithium, 항말라리아제, coal tar)
 
 ### 고름물집건선, 농포성 건선 (Pustular psoriasis)
 
 * 모양 : 흰색의 농포(비감염성 고름) 및 주위 발적
 * 부위 : 국소(손, 발) 또는 전신
-*   전신성 건선의 경과 : 전신적 무균성 농포 → 융합 → 마르면서 얇게 떨어져 나감 → 심한 홍반, 고열 동반(39\~40℃,
-
-    수일간 지속); 이 과정이 반복됨. 치료하지 않으면 위험
+* 전신성 건선의 경과 : 전신적 무균성 농포 → 융합 → 마르면서 얇게 떨어져 나감 → 심한 홍반, 고열 동반(39\~40℃, 수일간 지속); 이 과정이 반복됨. 치료하지 않으면 위험
 *   유발 인자 : 국소 자극, 임신, 약물, 감염, 감정적 스트레스, steroid 금단(예: 기존의 건선에 대하여 경구 또는
 
     고역가 국소 steroid 사용 후 중단), 과도한 자외선 조사
@@ -117,11 +114,9 @@
 
 * 치료 방법과 예상 경과(완치가 쉽지 않음)에 대하여 설명
 * 생활 습관 조정의 중요성에 대하여 강조 및 교육
-*   약물 치료
-
-    •경증(BSA(체표면적) ＜5% 이환 시 국소 치료(steroid, calcineurin inhibitor, Vit D analogue)
-
-    •중등증\~중증(BSA ＞5% 이환) 및 특별한 부위 이환, 난치성 건선 시 의뢰/전신 치료
+* 약물 치료
+  * 경증(BSA(체표면적) ＜5% 이환 시 국소 치료(steroid, calcineurin inhibitor, Vit D analogue)
+  * 중등증\~중증(BSA ＞5% 이환) 및 특별한 부위 이환, 난치성 건선 시 의뢰/전신 치료
 
 ## 비-약물 치료
 
@@ -135,11 +130,7 @@
 
 ### 국소 치료제
 
-#### 국소 Steroid
-
-```
-(☞ p.1139)
-```
+#### [국소 Steroid](163_-psoriasis.md#steroid)
 
 * 작용 : 항염, 각질 세포 증식 억제, 면역 억제, 혈관 수축
 *   고역가제 사용 후 증상 경과에 따라 pulse therapy(예: 주말 도포) 또는 저역가제로 전환
@@ -148,11 +139,7 @@
 * 소아, 얼굴, 겹친 부위는 처음부터 저역가제 선택
 * 조갑건선 : 2\~3개월간 nail fold에 도포, 야간 도포; 국소제로 치료 잘 안 됨
 
-#### Calcineurin 억제제
-
-```
-(☞ p.1143)
-```
+#### [Calcineurin 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor)
 
 * 국소 steroid 대체제로 선택. 얼굴, 겹친 부위에 적용; 판형건선에서는 효과 적음
 * 부작용 : 작열감, 가려움, 홍반
@@ -163,16 +150,11 @@
 * 작용 : 각질 세포 증식 억제, 항염
 * steroid보다 효과 발현이 늦지만(보통 4주 내 효과 발현) disease-free 기간은 길게 유지됨
 * 단독 또는 국소 steroid에 병합, 또는 국소 steroid 중단 기간 중 적용
-*   부작용 : 작열감, 가려움, 부종, 건조, 피부 벗겨짐, 홍반; 보통 사용하면서 호전되나 얼굴과 사타구니에는 도포하기 어려움
-
-    •광범위 도포 시 고칼슘혈증을 유발할 수 있으므로 최대 사용량을 제한함
-*   calcipotriene(=calcipotriol) : 고역가 steroid와 비슷한 수준의 효과
-
-    •0.005% qd\~bid, 1주 최대 50 g(청소년)\~100 g(성인) \[다이보넥스]
-
-    •국소 steroid와의 병용 시 효과 상승; 두 제제를 별도로 적용하는 경우 다른 시간(예: 각각 아침과 저녁)에 도포(halobetasol은
-
-    예외); \[다이보베트]\(calcipotriol+betamethasone 복합제, qd) (보험주의)
+* 부작용 : 작열감, 가려움, 부종, 건조, 피부 벗겨짐, 홍반; 보통 사용하면서 호전되나 얼굴과 사타구니에는 도포하기 어려움
+  * 광범위 도포 시 고칼슘혈증을 유발할 수 있으므로 최대 사용량을 제한함
+* calcipotriene(=calcipotriol) : 고역가 steroid와 비슷한 수준의 효과
+  * 0.005% qd\~bid, 1주 최대 50 g(청소년)\~100 g(성인) \[다이보넥스]
+  * 국소 steroid와의 병용 시 효과 상승; 두 제제를 별도로 적용하는 경우 다른 시간(예: 각각 아침과 저녁)에 도포(halobetasol은 예외); \[다이보베트]\(calcipotriol+betamethasone 복합제, qd) (보험주의)
 * calcitriol : 정상 피부에 대한 자극이 보다 적음; 0.0003% bid, 최대 200 g/wk [실키스](../%EB%B9%84%EB%B3%B4%ED%97%98/)
 * tacalcitol : 0.0002% bid, 최대 70 g/wk \[본알파 하이]
 * pH를 변화시키는 제제(예: lactic acid)와 병용하지 않음
@@ -209,102 +191,65 @@
 1. 국소 치료로 조절되지 않음 AND
 2. 환자에게 신체적, 정신적, 사회적 장애 초래 AND
 3. 다음 중 하나 이상 해당
+   1. 전체 체표면의 ≥10% 이환된 중증 또는 PASI score ≥10점 (http://pasi.corti.li/)
+   2. 중요한 기능 장애 ± 심한 괴로움
+   3. 광선 치료가 효과적이지 못함
 
-① 전체 체표면의 ≥10% 이환된 중증 또는 PASI score ≥10점 (http://pasi.corti.li/)
-
-② 중요한 기능 장애 ± 심한 괴로움
-
-③ 광선 치료가 효과적이지 못함
-
-#### 비생물학적 제제
-
-```
-(☞ p.820)
-```
+#### [비생물학적 제제](../228_/150_-rheumatoid-disease.md#undefined-10)
 
 * 작용 : DNA 합성 차단, 림프 조직 증식 억제
 * 대상 : 중증, 다른 치료로 호전되지 않는 경우에 단기 사용
 * 종류 : methotrexate, apremilast, acitretin, cyclosporine
-*   methotrexate : 면역억제제, DNA 합성 차단
+* methotrexate : 면역억제제, DNA 합성 차단
+  * 5 ㎎으로 테스트 → 7.5\~15 ㎎/wk → 매주 2.5 ㎎ 씩 증량 → 25 ㎎/wk \[메토트렉세이트]
+  * 부작용 예방을 위하여 folic acid 1 ㎎/d 병용
+  * 흉부 X선, LFT, RFT, CBC, 잠복 결핵 검사 및 모니터링
+  * 알코올, 엽산 대사 장애(TMP/SMX, NSAID, sulfamethoxazole), 간독성(retinoids) 약물 회피
+* cyclosporine : T-cell 활성 억제; steroid, acitretin, MTX 등의 대체제
+  * 2.5 ㎎/㎏/d → 4주 후 반응 부족 시 2주마다 0.5 ㎎/㎏/d 증량; 최대 5 ㎎/㎏/d \[산디문]
 
-    •5 ㎎으로 테스트 → 7.5\~15 ㎎/wk → 매주 2.5 ㎎ 씩 증량 → 25 ㎎/wk \[메토트렉세이트]
-
-    •부작용 예방을 위하여 folic acid 1 ㎎/d 병용
-
-    •흉부 X선, LFT, RFT, CBC, 잠복 결핵 검사 및 모니터링
-
-    •알코올, 엽산 대사 장애(TMP/SMX, NSAID, sulfamethoxazole), 간독성(retinoids) 약물 회피
-*   cyclosporine : T-cell 활성 억제; steroid, acitretin, MTX 등의 대체제
-
-    •2.5 ㎎/㎏/d → 4주 후 반응 부족 시 2주마다 0.5 ㎎/㎏/d 증량; 최대 5 ㎎/㎏/d \[산디문]
-
-#### 생물학적 제제
-
-```
-(☞ p.822)
-```
+#### [생물학적 제제](../228_/151_-rheumatoid-arthritis.md#undefined-13)
 
 * 대상 : 다른 치료에 반응하지 않는 경우에 단기 사용
 * 생물학적 제제를 사용해야하는 단계는 의뢰 고려
-*   종류
-
-    •Anti–TNF-α : etanercept, adalimumab, certolizumab pegol, infliximab
-
-    •Anti–IL-17 : secukinumab, ixekizumab, brodalumab
-
-    •Anti–IL-12/23 : ustekinumab
-
-    •Anti–IL-23 : guselkumab, tildrakizumab, risankizumab
+* 종류
+  * Anti–TNF-α : etanercept, adalimumab, certolizumab pegol, infliximab
+  * Anti–IL-17 : secukinumab, ixekizumab, brodalumab
+  * Anti–IL-12/23 : ustekinumab
+  * Anti–IL-23 : guselkumab, tildrakizumab, risankizumab
 
 ## 부위별 치료 방법 \[PCDS]
 
 \*\* 몸통, 사지\*\*
 
 * 병변 특징 : 대칭적(주로 신측부)으로 분포하는 다양한 크기의 경계가 명확한 scaly plaque
-*   치료
-
-    ① calcipotriol/betamethasone 복합제를 병변이 편평해질 때까지 1일 1회 도포
-
-    ② 8\~12주 치료에 반응이 충분하지 않으면 순응도 검토, 매우 두꺼운 비늘에는 각질 용해제(salicylic acid), or
-
-    기름진 연화제로 폐쇄 요법 고려, 타르 고려
-
-    ③ 호전 후 적극적인 국소 치료는 줄이고(예: 주 2회) 연화제 지속 사용
+* 치료
+  1. calcipotriol/betamethasone 복합제를 병변이 편평해질 때까지 1일 1회 도포
+  2. 8\~12주 치료에 반응이 충분하지 않으면 순응도 검토, 매우 두꺼운 비늘에는 각질 용해제(salicylic acid), or 기름진 연화제로 폐쇄 요법 고려, 타르 고려
+  3. 호전 후 적극적인 국소 치료는 줄이고(예: 주 2회) 연화제 지속 사용
 
 \*\* 두피\*\*
 
 * 병변 특징 : patchy, 비듬, hairline을 넘어 확장(목덜미에서 관찰됨)
-*   치료
-
-    •필요시 각질 용해제 또는 코코낫 기름으로 비늘 제거(비늘이 얇아질 때까지 지속)
-
-    •고역가 국소 steroid로 염증 치료
-
-    •주 1\~2회 타르 샴푸, 고역가 국소 steroid 등으로 유지 치료
+* 치료
+  * 필요시 각질 용해제 또는 코코낫 기름으로 비늘 제거(비늘이 얇아질 때까지 지속)
+  * 고역가 국소 steroid로 염증 치료
+  * 주 1\~2회 타르 샴푸, 고역가 국소 steroid 등으로 유지 치료
 
 \*\* 굴측부, 생식기\*\*
 
 * 병변 특징 : 홍반성 patch, 붉게 빛나는 scale; 종종 칸디다로 오인됨
-*   치료
-
-    •국소 steroid제 : 저역가/중간 역가로 qd 도포, 두꺼운 plaque에는 중간 역가로 1주간 도포 후 중등/저역가로 weaning;
-
-    호전 후 2회/wk 도포 유지
-
-    •국소 Vit D : 국소 steroid와 아침과 저녁에 각각 도포; 호전 후 국소 Vit D qd & steroid 2회/wk 도포
-
-    •굴측부에는 국소 calcineurin inhibitor를 steroid나 Vit D를 대신하여 사용할 수 있음(포경 남성에서는 주의)
+* 치료
+  * 국소 steroid제 : 저역가/중간 역가로 qd 도포, 두꺼운 plaque에는 중간 역가로 1주간 도포 후 중등/저역가로 weaning; 호전 후 2회/wk 도포 유지
+  * 국소 Vit D : 국소 steroid와 아침과 저녁에 각각 도포; 호전 후 국소 Vit D qd & steroid 2회/wk 도포
+  * 굴측부에는 국소 calcineurin inhibitor를 steroid나 Vit D를 대신하여 사용할 수 있음(포경 남성에서는 주의)
 
 \*\* 얼굴\*\*
 
 * 병변 특징 : 흔히 발생하는 부위는 아님, 종종 지루성 피부염과 유사
-*   치료
-
-    •중간 역가 steroid를 1주일간 도포 후 calcineurin inhibitor 0.1% qd/bid 도포 및 반응에 따라 감량, 또는 Vit D 주 2회 도포 후
-
-    자극 증상을 관찰하면서 qd 도포
-
-    •지루성 피부에 대하여 저역가 steroid qd\~bid 도포
+* 치료
+  * 중간 역가 steroid를 1주일간 도포 후 calcineurin inhibitor 0.1% qd/bid 도포 및 반응에 따라 감량, 또는 Vit D 주 2회 도포 후 자극 증상을 관찰하면서 qd 도포
+  * 지루성 피부에 대하여 저역가 steroid qd\~bid 도포
 
 \*\* 손발바닥\*\*
 
@@ -322,10 +267,47 @@
 \*\* 관절\*\*
 
 * 병변 특징 : inflammatory polyarthritis, spondyloarthritis, synovitis, dactylitis, tendinitis
-*   치료 : Rheumatology 의뢰
+* 치료 : Rheumatology 의뢰
 
-    ![image](../.gitbook/assets/44d9c2fd-8fad-490a-aeab-b05b113db857.JPG)
 
-> **질병코드** L40　건선
 
-![image](../.gitbook/assets/8906b43c-5485-41ec-b12c-df8ac140ec23.JPG)
+```mermaid
+graph TD
+    Start["판형 건선 진단"] --> Q1{"건선 관절염 존재?"}
+
+    Q1 -->|no| Mild["<b>경증 건선</b><br/>(&lt;3~5% of body surface area (BSA))"]
+    Q1 -->|no| ModSev["<b>중등증~중증 건선</b><br/>(&gt;5% of BSA, or 특별한 부위*,<br/>국소 치료로 실패)"]
+    Q1 -->|yes| PsA["<b>건선(중증도 무관) 및<br/>건선관절염에 대하여 치료</b>"]
+
+    Mild --> MildTx["• 국소 치료 &/or<br/>• 부분 광선 치료"]
+    ModSev --> ModSevTx["• 생물학적 제제 &/or<br/>• 경구 약물 &/or<br/>• UV-B/PUVA 광선 치료"]
+
+    MildTx -->|호전되지 않으면| ModSevTx
+
+    PsA --> PsATx["<b>전신 치료</b><br/>• 생물학적 제제 or<br/>• 경구 약물<br/><br/><b>필요시 부가 치료</b><br/>• 국소 치료 &/or<br/>• 광선 치료"]
+
+    classDef pinkNode fill:#fce4ec,stroke:#f8bbd0,stroke-width:1px
+    classDef yellowNode fill:#fffde7,stroke:#fff59d,stroke-width:1px
+    classDef blueNode fill:#e0f7fa,stroke:#b2ebf2,stroke-width:1px
+
+    class Start,Mild,ModSev,PsA pinkNode
+    class Q1 yellowNode
+    class MildTx,ModSevTx,PsATx blueNode
+```
+
+\*두피, 손/발바닥, 생식기, 조갑
+
+판형 건선의 치료 접근\
+Ref. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis. JAMA. 2020;323(19). Fig 3
+
+### **질병코드**&#x20;
+
+L40　건선
+
+## 처방례
+
+처방례 1. 판형건선\
+더모베이트 연고 10 g/tube bid\
+유리아 크림 50 g/tube bid\
+처방례 2. 심한 경우\
+다이보베트 연고 30 g/tube 1일 1\~2회
