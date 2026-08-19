@@ -1,7 +1,5 @@
 # 습진 Eczema
 
-![image](../.gitbook/assets/96adf924-fd84-424c-852c-0cedc40e011d.JPG)
-
 ## 일반 사항
 
 * 홍반, 가려움, 분비물, 딱지 등의 특징을 갖는 비전염성 염증성 피부 질환
