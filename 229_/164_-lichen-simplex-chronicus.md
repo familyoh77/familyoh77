@@ -1,7 +1,5 @@
 # 만성 단순태선 Lichen Simplex Chronicus
 
-![image](../.gitbook/assets/a229a876-0021-4d9f-ab08-a5eb7bed4990.JPG)
-
 ## 일반 사항
 
 * 반복적인 긁음 또는 문지름 등 물리적 자극에 의해 피부가 가죽처럼 변한 판
@@ -60,22 +58,16 @@
 
 #### 도포제
 
-```
-(☞ p.1139)
-```
+(☞ [국소스테로이드](../231_/211_-topical-corticosteroids.md))
 
 * 작용 : 항염, 가려움 완화
 * 1차 선택제
-*   작은 부위에 대하여 고역가 제제를 bid ×\~2주 적용 → 반응에 따라 낮은 역가로 교체
-
-    •clobetasol propionate 0.05% \[더모베이트]
-
-    •fluocinonide 0.05% \[나이드]
-*   얼굴, 항문/외음부, 겹치는 부위 : 중간 역가 제제를 단기 적용 → 낮은 역가로 교체
-
-    •methylprednisolone aceponate 0.1% \[아드반탄]
-
-    •mometasone furoate 0.1% \[모리코트]
+* 작은 부위에 대하여 고역가 제제를 bid ×\~2주 적용 → 반응에 따라 낮은 역가로 교체
+  * clobetasol propionate 0.05% \[더모베이트]
+  * fluocinonide 0.05% \[나이드]
+* 얼굴, 항문/외음부, 겹치는 부위 : 중간 역가 제제를 단기 적용 → 낮은 역가로 교체
+  * methylprednisolone aceponate 0.1% \[아드반탄]
+  * mometasone furoate 0.1% \[모리코트]
 
 #### 테이프
 
@@ -89,36 +81,24 @@
 
 #### 밀폐 요법
 
-```
-(☞ p.868)
-```
-
-* 대상 : 심한 가려움
+* 대상 : 심한 가려움 (☞  [wet dressing](158_-atopic-dermatitis-ad.md#wet-wrap-therapy))
 * 방법 : steroid 도포 후 plastic wrap으로 감싸거나 거즈로 덮음
 * 부작용 : 자극 증상, 모낭염
 
-#### Calcineurin 억제제
-
-```
-(☞ p.1143)
-```
+#### [Calcineurin 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor)
 
 * 대상 : 국소 steroid를 지속 사용해야 하는 경우의 대체제
 * pimecrolimus bid \[엘리델], tacrolimus bid \[프로토픽]
 
 ### 가려움 대증 치료
 
-#### 경구 항히스타민제
-
-```
-(☞ p.1144)
-```
+#### 경구 [항히스타민제](../231_/212_-antihistamines.md)
 
 * 졸음 효과가 있는 1세대 약제가 보다 유효
 * diphenhydramine : 25~~50 ㎎ q4~~6hr [디펙타민](../%EB%B9%84%EB%B3%B4%ED%97%98/)
 * hydroxyzine : 25~~50 ㎎ hs or 50~~100 ㎎/d #3\~4 \[아디팜]
 
-#### TCA
+#### [TCA](../231_/213_-antidepressants-and-anxiolytics.md#tricyclic-antidepressant-tca)
 
 * doxepin : 10\~25 ㎎ hs \[사일레노]
 * amitriptyline : 10\~25 ㎎ hs \[에트라빌]
@@ -127,11 +107,7 @@
 
 * clonazepam : 0.5\~1 ㎎ hs \[리보트릴]
 
-#### Gabapentinoid
-
-```
-(☞ p.13)
-```
+#### [Gabapentinoid](../220_/001_-pain.md#gabapentinoid-a2d-ligands)
 
 * 대상 : steroid에 반응하지 않는 경우의 증상 완화 목적
 * 저용량으로 시작하여 점차 증량
@@ -155,6 +131,22 @@
 
 * 다른 방법으로 치료 실패 시 고려
 
-> **질병코드** L28.0　만성 단순태선
 
-![image](../.gitbook/assets/16d5557e-9aa3-4773-80df-6b1f6bba0edb.JPG)
+
+**질병코드**&#x20;
+
+L28.0　만성 단순태선
+
+
+
+## 처방례
+
+처방례 1. 심한 부위, 팔꿈치\
+더모베이트 연고 10 g/tube bid ×2wk\
+아디팜 10 ㎎/T 3T #3 (졸음 주의)\
+프라렉신 크림 35 g/tube 가려움에\
+대하여 필요시\
+처방례 2. 겹치는 부위, 얼굴\
+아드반탄 연고 15 g/tube qd ×2wk\
+지르텍 10 ㎎/T 1T 아침\
+리보트릴 0.5 ㎎/T 1T 취침 시
