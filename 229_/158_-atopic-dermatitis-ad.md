@@ -1,5 +1,7 @@
 # 아토피 피부염 Atopic Dermatitis, AD
 
+![image](../.gitbook/assets/4a163b9f-7c7a-4bf0-89cc-ce336ab93c04.JPG)
+
 ## <mark style="color:green;">일반 사항</mark>
 
 * 만성·재발성 염증성 피부질환으로 **가려움증**, 연령에 따른 특징적인 병변 분포, 피부건조와 피부장벽 기능 이상이 핵심이다.
@@ -72,7 +74,7 @@
 #### <mark style="color:$primary;">SCORAD</mark>
 
 * 계산식 : (A÷5) + (B×3.5) + C
-* A : 병변 범위(%), B : 6개 객관적 징후, C : 주관적 증상 — 가려움과 수면 장애를 각각 0\~10점 VAS로 평가하여 합산(최대 20점)
+* A : 병변 범위(%), B : 6개 객관적 징후, C : 주관적 증상 — 가려움과 수면 장애를 각각 0~10점 VAS로 평가하여 합산(최대 20점)
 * 전통적 분류 : **<25 경증, 25\~50 중등증, >50 중증**
 
 {% hint style="info" %}
@@ -110,7 +112,7 @@
 * 즉시형 식품알레르기 또는 흡입 알레르겐과의 임상적 연관성이 뚜렷한 경우 선택적으로 skin-prick test 또는 특이 IgE를 고려한다.
 * 반복적으로 특정 국소제·화장품·금속 등에 노출되는 부위가 악화되거나 표준치료에 반응하지 않으면 **patch test**를 고려한다.
 
-### <mark style="color:orange;">한국인 아토피 피부염 진단 기준 \[대한아토피피부염학회 2023 Consensus]</mark>
+### <mark style="color:orange;">한국인 아토피 피부염 진단 기준 [대한아토피피부염학회 2023 Consensus]</mark>
 
 * 최신 한국인 진단 기준은 과거의 “주 진단 기준 ≥2 + 보조 진단 기준 ≥4” 점수식을 사용하지 않고, 아래 **3가지 필수 임상 특징을 모두 만족**하는 것을 기본으로 한다.
 
@@ -174,7 +176,7 @@ flowchart TD
 ## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="info" %}
-**치료 원칙** 모든 중증도에서 보습, 적절한 세정·목욕, 환자 교육을 시행한다. 활동성 병변에는 TCS/TCI를 중심으로 충분한 국소 항염증 치료를 하고, 재발이 잦은 부위는 proactive therapy를 고려한다. 중등증 이상이면서 충분한 국소치료로 조절되지 않거나 국소치료가 권장되지 않는 경우 피부과 의뢰를 통해 광선치료 또는 전신치료를 고려한다.
+**치료 원칙**  모든 중증도에서 보습, 적절한 세정·목욕, 환자 교육을 시행한다. 활동성 병변에는 TCS/TCI를 중심으로 충분한 국소 항염증 치료를 하고, 재발이 잦은 부위는 proactive therapy를 고려한다. 중등증 이상이면서 충분한 국소치료로 조절되지 않거나 국소치료가 권장되지 않는 경우 피부과 의뢰를 통해 광선치료 또는 전신치료를 고려한다.
 {% endhint %}
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -225,7 +227,7 @@ flowchart TD
 * 얼굴·눈꺼풀·목·굴곡부·서혜부 등 피부가 얇은 부위는 저역가를 짧게 사용하거나 TCI로 전환한다.
 * 두껍고 태선화된 병변에는 중등도\~고역가 제제를 제한된 기간 사용할 수 있다.
 * 급성 악화가 호전되면 도포 빈도를 줄이거나 낮은 역가로 전환할 수 있다. 재발이 잦은 부위는 proactive therapy를 고려한다.
-* 대표 제제 : 중등도 이하(lower-medium potency) hydrocortisone wbutyrate <mark style="color:blue;">\[로코이드 연고]</mark>, 중등도\~강한 역가 mometasone furoate <mark style="color:blue;">\[엘로콘 크림]</mark>, 매우 강한 역가 clobetasol propionate <mark style="color:blue;">\[더모베이트 연고]</mark> (TCS 역가 분류는 국가·분류체계에 따라 다소 차이가 있을 수 있으며, 실제 처방 시 국내 제품 허가사항과 적용 부위를 함께 확인)
+* 대표 제제 : 중등도 이하(lower-medium potency) hydrocortisone butyrate <mark style="color:blue;">\[로코이드 연고]</mark>, 중등도~강한 역가 mometasone furoate <mark style="color:blue;">\[엘로콘 크림]</mark>, 매우 강한 역가 clobetasol propionate <mark style="color:blue;">\[더모베이트 연고]</mark> (TCS 역가 분류는 국가·분류체계에 따라 다소 차이가 있을 수 있으며, 실제 처방 시 국내 제품 허가사항과 적용 부위를 함께 확인)
 
 {% hint style="warning" %}
 **TCS 부작용은 '역가 × 부위 × 사용량 × 기간'에 좌우된다.** 피부 위축, 모세혈관확장, striae, 여드름양 병변 등이 문제이며, 강한 제제를 눈꺼풀/안구 주위에 장기간 사용하는 것은 피한다. 반대로 과도한 steroid phobia로 필요한 치료를 지나치게 줄이면 질환 조절 실패가 흔하다.
@@ -284,15 +286,10 @@ flowchart TD
 #### <mark style="color:$primary;">생물학적 제제/생물의약품</mark>
 
 {% hint style="info" %}
-임상에서는 흔히 \*\*생물학적 제제(biologics)\*\*라고 부르지만, 식품의약품안전처의 의약품 분류상 dupilumab, tralokinumab, lebrikizumab, nemolizumab은 유전자재조합 **생물의약품**에 해당한다.
+임상에서는 흔히 **생물학적 제제(biologics)**라고 부르지만, 식품의약품안전처의 의약품 분류상 dupilumab, tralokinumab, lebrikizumab, nemolizumab은 유전자재조합 **생물의약품**에 해당한다.
 {% endhint %}
 
-| 약제                                                                               | 표적                     | 국내 사용 대상                                         | 대표 용법                                                                          | 주요 주의점                                    |
-| -------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------ | ----------------------------------------- |
-| <p><strong>Dupilumab</strong><br><mark style="color:blue;">\[듀피젠트]</mark></p>    | IL-4Rα → IL-4/IL-13 억제 | 6개월 이상 소아\\\~성인, 국소치료로 충분히 조절되지 않는 중등증 이상 AD     | 성인 : 600 mg loading → 300 mg SC q2wk. 소아·청소년은 체중별 용량                           | 결막염, 안구 건조, 두경부 홍반. 장기 안전성 자료가 가장 풍부      |
-| <p><strong>Tralokinumab</strong><br><mark style="color:blue;">\[아트랄자]</mark></p> | IL-13                  | 12세 이상 청소년·성인                                    | 600 mg loading → 300 mg SC q2wk; 반응 양호 시 16주 이후 q4wk 고려                        | 상기도 감염, 결막염, 주사부위 반응                      |
-| <p><strong>Lebrikizumab</strong><br><mark style="color:blue;">\[엡글리스]</mark></p> | IL-13                  | 12세 이상 청소년·성인                                    | 기저 및 2주차 500 mg → 16주까지 250 mg q2wk; 반응 달성 후 q4wk                              | 결막염, 주사부위 반응 등                            |
-| <p><strong>Nemolizumab</strong><br><mark style="color:blue;">\[넴루비오]</mark></p>  | IL-31Rα (가려움 신호 차단)    | 2026년 1월 국내 허가. 중등증\\\~중증 AD(TCS/TCI 병용), 결절성 양진 | 60 mg(30 mg×2) loading → 30 mg SC q4wk; 16주 이후 clear/almost clear 시 q8wk 확대 가능 | 결막염·아토피 각결막염, 주사부위 반응; 국내 급여·처방 경험 아직 제한적 |
+<table><thead><tr><th>약제</th><th>표적</th><th>국내 사용 대상</th><th>대표 용법</th><th>주요 주의점</th></tr></thead><tbody><tr><td><strong>Dupilumab</strong><br><mark style="color:blue;">\[듀피젠트]</mark></td><td>IL-4Rα → IL-4/IL-13 억제</td><td>6개월 이상 소아\~성인, 국소치료로 충분히 조절되지 않는 중등증 이상 AD</td><td>성인 : 600 mg loading → 300 mg SC q2wk. 소아·청소년은 체중별 용량</td><td>결막염, 안구 건조, 두경부 홍반. 장기 안전성 자료가 가장 풍부</td></tr><tr><td><strong>Tralokinumab</strong><br><mark style="color:blue;">\[아트랄자]</mark></td><td>IL-13</td><td>12세 이상 청소년·성인</td><td>600 mg loading → 300 mg SC q2wk; 반응 양호 시 16주 이후 q4wk 고려</td><td>상기도 감염, 결막염, 주사부위 반응</td></tr><tr><td><strong>Lebrikizumab</strong><br><mark style="color:blue;">\[엡글리스]</mark></td><td>IL-13</td><td>12세 이상 청소년·성인</td><td>기저 및 2주차 500 mg → 16주까지 250 mg q2wk; 반응 달성 후 q4wk</td><td>결막염, 주사부위 반응 등</td></tr><tr><td><strong>Nemolizumab</strong><br><mark style="color:blue;">\[넴루비오]</mark></td><td>IL-31Rα (가려움 신호 차단)</td><td>2026년 1월 국내 허가. 중등증\~중증 AD(TCS/TCI 병용), 결절성 양진</td><td>60 mg(30 mg×2) loading → 30 mg SC q4wk; 16주 이후 clear/almost clear 시 q8wk 확대 가능</td><td>결막염·아토피 각결막염, 주사부위 반응; 국내 급여·처방 경험 아직 제한적</td></tr></tbody></table>
 
 * **IL-4/IL-13 계열 biologic에서는 JAK inhibitor와 달리 일률적인 CBC·간기능·결핵/간염 정기 screening이 필수는 아니다.** 다만 감염 위험인자와 병력에 따라 치료 전 선별검사를 고려한다.
 * dupilumab, tralokinumab, lebrikizumab, nemolizumab 사용 중 지속되는 결막염·안구통·시력 변화는 안과 평가를 고려한다.
@@ -300,14 +297,7 @@ flowchart TD
 
 **Dupilumab 체중별 용량 요약**
 
-| 연령/체중                  | 초회     | 유지          |
-| ---------------------- | ------ | ----------- |
-| 성인                     | 600 mg | 300 mg q2wk |
-| 6\\\~17세 ≥60 kg        | 600 mg | 300 mg q2wk |
-| 6\\\~17세 30\\\~<60 kg  | 400 mg | 200 mg q2wk |
-| 6\\\~17세 15\\\~<30 kg  | 600 mg | 300 mg q4wk |
-| 6개월\\\~5세 15\\\~<30 kg | 300 mg | 300 mg q4wk |
-| 6개월\\\~5세 5\\\~<15 kg  | 200 mg | 200 mg q4wk |
+<table><thead><tr><th>연령/체중</th><th>초회</th><th>유지</th></tr></thead><tbody><tr><td>성인</td><td>600 mg</td><td>300 mg q2wk</td></tr><tr><td>6\~17세 ≥60 kg</td><td>600 mg</td><td>300 mg q2wk</td></tr><tr><td>6\~17세 30\~<60 kg</td><td>400 mg</td><td>200 mg q2wk</td></tr><tr><td>6\~17세 15\~<30 kg</td><td>600 mg</td><td>300 mg q4wk</td></tr><tr><td>6개월\~5세 15\~<30 kg</td><td>300 mg</td><td>300 mg q4wk</td></tr><tr><td>6개월\~5세 5\~<15 kg</td><td>200 mg</td><td>200 mg q4wk</td></tr></tbody></table>
 
 ※ 소아·청소년 용량은 연령·체중 및 자료 출처에 따라 다르게 기재되는 경우가 있으므로 실제 처방 시 최신 국내 허가사항을 확인한다.
 
@@ -317,11 +307,7 @@ flowchart TD
 * 반면 감염, 대상포진, 혈구·간기능·지질 변화, CPK 증가 및 고위험군에서 MACE/VTE/악성종양 위험을 고려해야 한다.
 * **65세 이상, 심혈관계 고위험군, 악성종양 위험이 높은 환자에서는 다른 치료에 반응하지 않거나 내약성이 없는 경우에 제한하여 신중히 선택**한다.
 
-| 약제                                                                               | 표적     | 국내 사용 대상(2025 KADA 자료)                                            | 대표 용량                                                                |
-| -------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <p><strong>Baricitinib</strong><br><mark style="color:blue;">\[올루미언트]</mark></p> | JAK1/2 | 2025년 후속 KADA 국내 약물자료에서 만 2세 이상으로 허가 확대가 소개됨 — 처방 전 최신 국내 허가사항 확인 | 성인 및 ≥30 kg : 4 mg qd; 65세 이상/고위험군 : 2 mg qd; 10\\\~<30 kg : 2 mg qd |
-| <p><strong>Upadacitinib</strong><br><mark style="color:blue;">\[린버크]</mark></p>  | JAK1   | 12세 이상 청소년(≥40 kg) 및 성인                                           | 15 mg qd; 성인은 질병 부담에 따라 30 mg qd 고려. ≥65세 : 15 mg qd                 |
-| <p><strong>Abrocitinib</strong><br><mark style="color:blue;">\[시빈코]</mark></p>   | JAK1   | 12세 이상 청소년(≥40 kg) 및 성인                                           | 200 mg qd; ≥65세/고위험 또는 내약성 낮으면 100 mg qd. 중증 신기능 저하에서는 감량            |
+<table><thead><tr><th>약제</th><th>표적</th><th>국내 사용 대상(2025 KADA 자료)</th><th>대표 용량</th></tr></thead><tbody><tr><td><strong>Baricitinib</strong><br><mark style="color:blue;">\[올루미언트]</mark></td><td>JAK1/2</td><td>2025년 후속 KADA 국내 약물자료에서 만 2세 이상으로 허가 확대가 소개됨 — 처방 전 최신 국내 허가사항 확인</td><td>성인 및 ≥30 kg : 4 mg qd; 65세 이상/고위험군 : 2 mg qd; 10\~<30 kg : 2 mg qd</td></tr><tr><td><strong>Upadacitinib</strong><br><mark style="color:blue;">\[린버크]</mark></td><td>JAK1</td><td>12세 이상 청소년(≥40 kg) 및 성인</td><td>15 mg qd; 성인은 질병 부담에 따라 30 mg qd 고려. ≥65세 : 15 mg qd</td></tr><tr><td><strong>Abrocitinib</strong><br><mark style="color:blue;">\[시빈코]</mark></td><td>JAK1</td><td>12세 이상 청소년(≥40 kg) 및 성인</td><td>200 mg qd; ≥65세/고위험 또는 내약성 낮으면 100 mg qd. 중증 신기능 저하에서는 감량</td></tr></tbody></table>
 
 **JAK inhibitor 시작 전/후 확인**
 
@@ -383,15 +369,21 @@ flowchart TD
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-### <mark style="color:orange;">Wet wrap therapy</mark>
+### <mark style="color:orange;">Wet wrap therapy (습포요법)</mark>
 
-* 급성으로 심한 병변, 광범위한 악화, 기존 국소치료 반응이 불충분한 경우 **단기간** 고려한다.
-* 목욕 후 보습제 또는 적절한 TCS를 도포하고 젖은 면/거즈를 감싼 뒤 마른 층으로 덮는다.
-* 감염이 있으면 먼저 평가·치료하며 장기간 또는 무분별한 밀폐는 피한다.
+* **적응증** : 급성으로 심한 flare, 광범위한 악화, 충분한 국소치료에도 반응이 불충분한 난치성 병변에서 **단기간** 고려한다.
+* **효과** : 피부를 재수화·냉각하고, 보습제/TCS의 피부 침투를 증가시키며, 긁기에 대한 물리적 장벽을 제공하여 itch-scratch cycle을 줄이는 데 도움이 된다.
+* **방법** : 목욕 후 보습제 또는 적절한 저~중등도 역가 TCS(필요 시 희석)를 도포한 뒤, 미지근한 물에 적신 면·거즈·tubular bandage를 안쪽 층으로 적용하고 그 위를 마른 층으로 덮는다. 넓은 부위에는 wet pajamas 또는 면 의복을 이용할 수 있다.
+* **적용 시간** : 한 번의 wet wrap은 수시간에서 최대 약 24시간까지 시행할 수 있다. 필요하면 급성기 동안 며칠간 반복할 수 있으나, **장기간·반복 시행, 특히 소아에서 TCS를 함께 사용하는 경우에는 피부과 전문의 감독하에 시행한다.**
+* **주의** : 감염이 의심되면 먼저 평가·치료한다. TCS를 wet wrap 또는 밀폐 상태로 사용할 경우 경피 흡수가 증가하므로 넓은 면적에 중·고역가 TCS를 장기간 사용하지 않는다.
+
+{% hint style="warning" %}
+**밀폐 요법(occlusive therapy)**은 plastic wrap 등으로 국소제를 밀폐하여 침투를 증가시키는 방법이지만, steroid 흡수 증가, 피부 자극·모낭염 및 감염 위험 때문에 일상적 자가요법으로 권하지 않는다. 필요한 경우 피부과 전문의의 지시에 따라 제한적으로 시행한다.
+{% endhint %}
 
 ### <mark style="color:orange;">광선 치료</mark>
 
-* \*\*NB-UVB(약 311 nm)\*\*가 가장 흔히 고려되며, 중등증\~중증 AD에서 국소치료가 충분하지 않을 때 선택할 수 있다.
+* **NB-UVB(약 311 nm)**가 가장 흔히 고려되며, 중등증\~중증 AD에서 국소치료가 충분하지 않을 때 선택할 수 있다.
 * UVA1도 선택적으로 사용할 수 있으나 국내 일차의료에서 보편적이지 않다.
 * 장점 : 비약물 전신치료 옵션, 가려움·염증 개선 가능.
 * 단점 : 주 2\~3회 내원 부담, 홍반/화상, 색소침착, 장기 누적 자외선 노출에 따른 광노화·피부암 위험 고려.
@@ -442,7 +434,7 @@ L20.9 상세불명의 아토피성 피부염
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 경증\~중등증 (몸통·사지 병변)**
+> **처방례 1. 경증~중등증 (몸통·사지 병변)**
 >
 > ```
 > 세라마이드 함유 보습제　　전신　1일 2회 이상
@@ -539,7 +531,7 @@ L20.9 상세불명의 아토피성 피부염
 
 * 피부 장벽이 약해져 수분이 쉽게 빠져나가고 자극·알레르겐이 쉽게 침투합니다.
 * 여기에 몸의 면역 반응이 더해져 가려움과 염증이 반복됩니다.
-* \*\*긁을수록 장벽이 더 손상되고 가려움이 심해지는 악순환(itch-scratch cycle)\*\*이 생기므로, 가려움 조절 자체가 치료의 일부입니다.
+* **긁을수록 장벽이 더 손상되고 가려움이 심해지는 악순환(itch-scratch cycle)**이 생기므로, 가려움 조절 자체가 치료의 일부입니다.
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
