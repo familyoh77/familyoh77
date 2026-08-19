@@ -1,7 +1,5 @@
 # 만성 가려움증 Chronic Pruritus
 
-![image](../.gitbook/assets/6c402064-fbe3-4b2f-9d78-12ff20b8de97.JPG)
-
 ## 일반 사항
 
 * ≥6주의 가려움증(긁고 싶은 충동을 일으키는 감각)
@@ -9,63 +7,41 @@
 * 유병률 : 고령 인구의 7\~60%
 * 위험 인자 : 천식, 피부건조증, 비만, 불안, 간질환
 * primary lesion : bulla, ichthyosis(건조, 비후, 비늘), macular erythema, papule, vesicle, wheal, xerosis
-*   2ndary skin change : atrophy, crusting, excoriation, hyper- or hypo-pigmentation, lichenification, necrosis, nodule, papule,
-
-    prurigo nodule, scar, ulceration
+* 2ndary skin change : atrophy, crusting, excoriation, hyper- or hypo-pigmentation, lichenification, necrosis, nodule, papule, prurigo nodule, scar, ulceration
 
 ### 원인에 따른 분류 \[International forum on the study of itch]
 
 1. Dermatological
-
-•건조증, 아토피, 건선, 태선, 접촉피부염, 모낭염, 옴, 진균 감염, 장미색 잔비늘증
-
+   * 건조증, 아토피, 건선, 태선, 접촉피부염, 모낭염, 옴, 진균 감염, 장미색 잔비늘증
 2. Systemic
-
-•간, 신장 : 담즙 정체, 원발성 쓸개관경화증, 임신, 경구 피임제, 간염, 만성콩팥병
-
-•혈액 : 진성 적혈구증가증, 철결핍빈혈
-
-•내분비 : 갑상선 질환, Carcinoid syndrome![image](../.gitbook/assets/095b1dfa-a1ca-4187-8b61-2bf52244ddc7.JPG)
-
-•감염 : HIV, 기생충(회충 등 장 기생충 포함)
-
-•악성 종양 : 고형 종양, 림프종, 백혈병
-
+   * 간, 신장 : 담즙 정체, 원발성 쓸개관경화증, 임신, 경구 피임제, 간염, 만성콩팥병
+   * 혈액 : 진성 적혈구증가증, 철결핍빈혈
+   * 내분비 : 갑상선 질환, Carcinoid syndrome
+   * 감염 : HIV, 기생충(회충 등 장 기생충 포함)
+   * 악성 종양 : 고형 종양, 림프종, 백혈병
 3. Neurological
-
-•multiple sclerosis, 뇌종양, notalgia paresthetica, brachioradial pruritus,
-
-```
-postzosteric neuralgia
-```
-
-4\. Somatoform
-
-•정신적 요인이 가려움 증상에 영향을 주는 경우
-
-•우울증, 정동장애, 환각증, obsessive compulsive & related disorders,
-
-```
-schizophrenia, eating disorder
-```
-
-5\. Mixed origin
-
+   * multiple sclerosis, 뇌종양, notalgia paresthetica, brachioradial pruritus, postzosteric neuralgia
+4. Somatoform
+   * 정신적 요인이 가려움 증상에 영향을 주는 경우
+   * 우울증, 정동장애, 환각증, obsessive compulsive & related disorders, schizophrenia, eating disorder
+5. Mixed origin
 6. Others
+   * 약물 : 항고혈압제, 항생제, 소염제 등 거의 모든 약제가 가려움의 원인이 될 수 있음
 
-•약물 : 항고혈압제, 항생제, 소염제 등 거의 모든 약제가 가려움의 원인이 될 수 있음
+### Red Flags!
+
+* 설명할 수 없는 체중 감소
+* 피로, 빈뇨, 과도한 갈증, 야간 발한
+* 복통, 황달
+* 증상 부위의 위축, 약화, 감각 둔화, 따끔거림
 
 ## 진단
 
 ### 검사
 
 * 기저 질환(예: 간질환, 신부전, polycythemia vera,갑상선저하증, HIV, lymphoma) 감별
-*   1st-step lab screening : CBC, Cr, urea, AST, ALT, ALP, γ-GT, LDH, TSH, 혈당, ferritin, CRP; 대변 잠혈(＞40세), 기생충;
-
-    흉부 X선
-*   추가 검사 : immunoelectrophoresis; hepatitis serology, 콜레스테롤, 중성지방; Ca, PTH; biopsy & immunofluorescence
-
-    (mastocytosis, pemphigoid 등); 칸디다; 소변(mast cell metabolites); 영상 검사 및 골수 검사(mastocytosis)
+* 1st-step lab screening : CBC, Cr, urea, AST, ALT, ALP, γ-GT, LDH, TSH, 혈당, ferritin, CRP; 대변 잠혈(＞40세), 기생충; 흉부 X선
+* 추가 검사 : immunoelectrophoresis; hepatitis serology, 콜레스테롤, 중성지방; Ca, PTH; biopsy & immunofluorescence (mastocytosis, pemphigoid 등); 칸디다; 소변(mast cell metabolites); 영상 검사 및 골수 검사(mastocytosis)
 
 ### 감별
 
@@ -78,7 +54,8 @@ schizophrenia, eating disorder
 * 피부 발진 없는 전신 가려움 → 전신 질환, 정신적 문제, 고령, 약물
 * 피부 발진 없는 국소 가려움 → 신경/정신적 문제
 
-![image](../.gitbook/assets/f5d54383-3fba-4259-a2a5-d1871c11c4d0.JPG)
+![만성 가려움증 진단 알고리듬
+Ref. EDF/EADV. European Guideline on Chronic pruritus. 2019. Fig](../.gitbook/assets/f5d54383-3fba-4259-a2a5-d1871c11c4d0.JPG)
 
 ***
 
@@ -90,21 +67,13 @@ schizophrenia, eating disorder
 * 증상에 대한 약물 치료
 * 기저 피부 질환이 있으면 이를 치료, 기저 피부 질환이 없으면 전신 질환 감별
 
-### 단계별 치료 방법 \[EDF]
-
-```
-(2019)
-```
+### 단계별 치료 방법 \[EDF] (2019)
 
 * Step 1. 증상 치료 : 경구 H1-항히스타민제, 국소 steroid
 * Step 2. 원인에 따른 치료
-*   Step 3. 원인 불명 또는 호전 실패 시 국소 &/or 전신 치료
-
-    •국소 : calcineurin inhibitors, cannabinoid agonists, capsaicin
-
-    •전신 : gabapentinoid, 항우울제(doxepin \[사일레노], mirtazapine \[레메론], paroxetine \[세로자트]), UV phototherapy,
-
-    naltrexone, 면역억제제(cyclosporine)
+* Step 3. 원인 불명 또는 호전 실패 시 국소 &/or 전신 치료
+  * 국소 : calcineurin inhibitors, cannabinoid agonists, capsaicin
+  * 전신 : gabapentinoid, 항우울제(doxepin \[사일레노], mirtazapine \[레메론], paroxetine \[세로자트]), UV phototherapy, naltrexone, 면역억제제(cyclosporine)
 
 #### 매 단계 동반 치료
 
@@ -133,19 +102,14 @@ schizophrenia, eating disorder
 * 손발톱을 짧게 깎음
 * 적절한 실내 습도 유지; 야간에 실내를 낮은 온도로 조절
 
-### 보습제
+### 보습제&#x20;
 
-```
-(☞ p.867)
-```
+(☞ [아토피피부염](158_-atopic-dermatitis-ad.md#undefined-19))
 
 * 도포 시점 : 샤워나 목욕 후(특히 피부 건조증 환자에서), 야간; 하루 한 번 이상 도포
 * 도포량 : 성인 250\~500 g/주; 충분한 양 도포 권고(일반적으로 도포량이 부족함)
-*   종류 : colloidal starch, oatmeal baths, ammonium lactate \[타로 암모늄락테이트], petroleum jelly \[바셀린], glycerol(20%),
-
-    hydrophilic base, urea(5\~10%) \[유리아]
-
-    •겨울철에는 기름기가 많은 제제 선택
+* 종류 : colloidal starch, oatmeal baths, ammonium lactate \[타로 암모늄락테이트], petroleum jelly \[바셀린], glycerol(20%), hydrophilic base, urea(5\~10%) \[유리아]
+  * 겨울철에는 기름기가 많은 제제 선택
 * steroid 외용제와 병용 시 도포 방법 : 크림 보습제는 steroid 사용 15분 전, 연고 보습제는 steroid 사용 15분 이후 도포
 
 ### 이완 요법
@@ -156,11 +120,7 @@ schizophrenia, eating disorder
 
 ### 국소 치료제
 
-#### Steroid
-
-```
-(☞ p.1139)
-```
+#### [Steroid](../231_/211_-topical-corticosteroids.md)
 
 * 대상 : 아토피, 접촉피부염, 건선, 태선 등에 의한 가려움
 * 태선화된 병변에 대하여 중등증 이상 역가의 외용제 도포 또는 국소 주사
@@ -182,11 +142,8 @@ schizophrenia, eating disorder
 #### 기타
 
 * doxepin 5% cream : 졸음 유발 주의
-*   마취제 : 단기, 부분적 사용; 1일 수회(≤5회/일) 도포
-
-    •xylocaine, benzocaine \[벤조카인], lidocaine, prilocaine [엠라](../lidocaine%EB%B3%B5%ED%95%A9%EC%A0%9C/), pramoxine(1%) \[프라렉신],
-
-    polidocanol(2%\~10%) [옵티덤](../urea%EB%B3%B5%ED%95%A9%EC%A0%9C/)
+* 마취제 : 단기, 부분적 사용; 1일 수회(≤5회/일) 도포
+  * xylocaine, benzocaine \[벤조카인], lidocaine, prilocaine [엠라](../lidocaine%EB%B3%B5%ED%95%A9%EC%A0%9C/), pramoxine(1%) \[프라렉신], polidocanol(2%\~10%) [옵티덤](../urea%EB%B3%B5%ED%95%A9%EC%A0%9C/)
 * Soaking : cool tap water, Burow’s solution(1:40 dilution), 식염수(소금 1 teaspoon/물 0.5 L)
 * calamine/zinc oxide [칼라민 로션](../%EB%B3%B5%ED%95%A9%EC%A0%9C/)(비급여)
 * camphor(2%), menthol(1%)
@@ -195,37 +152,28 @@ schizophrenia, eating disorder
 
 * 대상 : 비-약물 치료로 호전되지 않는 전신 소양증
 
-#### H1-항히스타민제
-
-```
-(☞ p.1144)
-```
+#### [H1-항히스타민제](../231_/212_-antihistamines.md)
 
 * 대상 : 히스타민 관련 가려움
-
-> ✽염증성 피부 질환 관련 가려움을 포함하여 대부분의 만성 가려움은 히스타민에 매개되지 않으므로 항히스타민제에 잘 반응하지 않음
-
+  * 염증성 피부 질환 관련 가려움을 포함하여 대부분의 만성 가려움은 히스타민에 매개되지 않으므로 항히스타민제에 잘 반응하지 않음
 * 수면 효과가 있는 1세대 제제가 보다 유효(졸음 주의)
 * H2-항히스타민제(예: 시메티딘) 병용 시 약간의 효과 증가
+  * H2-항히스타민제 단독 사용은 효과 없음&#x20;
 
-> ✽H2-항히스타민제 단독 사용은 효과 없음 \*\* 1세대\*\*
+<mark style="color:cyan;">**1세대**</mark>
 
 * hydroxyzine : 25~~50 ㎎ hs or 50~~100 ㎎/d #3\~4 \[아디팜]
 * chlorpheniramine : 4 ㎎ q4\~6hr, 최대 24 ㎎/d \[페니라민]
 * diphenhydramine : 25~~50 ㎎ q4~~6hr, 최대 300 ㎎/d [디펙타민](../%EB%B9%84%EB%B3%B4%ED%97%98/)
 
-\*\* 2세대\*\*
+<mark style="color:cyan;">**2세대**</mark>
 
 * loratadine : 10 ㎎ qd \[클라리틴]
 * fexofenadine : 180 ㎎ qd \[알레그라]
 * cetirizine : 10 ㎎ qd \[지르텍]
 * mequitazine : 5 ㎎ bid \[프리마란]
 
-#### 항우울제 (TCA, SSRI)
-
-```
-(☞ p.1146)
-```
+#### [항우울제 (TCA, SSRI)](../231_/213_-antidepressants-and-anxiolytics.md)
 
 * 대상 : 아토피, 접촉피부염, somatoform 가려움 (보험주의)
 * amitriptyline : 25\~50 ㎎/d \[에트라빌]
@@ -236,13 +184,12 @@ schizophrenia, eating disorder
 
 * 대상 : 다른 약제에 반응하지 않는 가려움 또는 중증 가려움
 * 단기(2주 내) 사용
-*   prednisolone : 2.5\~60 ㎎/d; 보통 30 ㎎/d로 시작하여 tapering \[소론도]
+* prednisolone : 2.5\~60 ㎎/d; 보통 30 ㎎/d로 시작하여 tapering \[소론도]
+  *   tapering 예 : 30 ㎎/d #3 ×5d → 20 ㎎ qd(아침) ×5d → 10 ㎎ qd(아침) ×5d;
 
-    •tapering 예 : 30 ㎎/d #3 ×5d → 20 ㎎ qd(아침) ×5d → 10 ㎎ qd(아침) ×5d;
+      60 ㎎/d ×5~~7d → 40 ㎎/d ×5~~7d → 20 ㎎ qd(아침) ×7d → 10 ㎎ qd(아침) ×7d
 
-    60 ㎎/d ×5~~7d → 40 ㎎/d ×5~~7d → 20 ㎎ qd(아침) ×7d → 10 ㎎ qd(아침) ×7d
-
-#### Gabapentinoid
+#### [Gabapentinoid](../220_/001_-pain.md#gabapentinoid-a2d-ligands)
 
 * 대상 : 신경병증성 가려움(특히 당뇨병) (보험주의)
 * 부작용 : 어지럼, 졸음, 두통, 구역, 설사, 말초 부종, 체중 증가, 착란
@@ -261,11 +208,7 @@ schizophrenia, eating disorder
 * montelukast : 10 ㎎ hs qd \[싱귤레어]
 * pranlukast : 225 ㎎ bid \[오논]
 
-#### 면역억제제 (Immunomodulator therapy): Cyclosporine
-
-```
-(☞ p.871)
-```
+#### [면역억제제](158_-atopic-dermatitis-ad.md#immunomodulator-therapy) (Immunomodulator therapy): Cyclosporine
 
 * 대상 : 다른 치료로 조절되지 않는 심한 아토피성 피부염
 * 작용 : T-lymphocyte 억제
@@ -279,10 +222,7 @@ schizophrenia, eating disorder
 ### Renal pruritus
 
 * activated charcoal 6 g/d
-* gabapentin 300 ㎎ ×3/주 투석 후,
-
-pregabalin 50 ㎎/격일
-
+* gabapentin 300 ㎎ ×3/주 투석 후, pregabalin 50 ㎎/격일
 * γ-linolenic acid 크림 ×3/d
 * capsaicin ×3\~5/d
 * UVB phototherapy
@@ -301,6 +241,19 @@ pregabalin 50 ㎎/격일
 * sertraline 75\~100 ㎎/d
 * thalidomide 100 ㎎/d
 
-> **질병코드** L29 가려움
+### **질병코드**&#x20;
 
-![image](../.gitbook/assets/7714b37f-4182-4e73-a73d-404475aa9005.JPG)
+L29 가려움
+
+## 처방례
+
+처방례 1.\
+모리코트 크림 10 g/tube bid\
+프리마란 5 ㎎/T 2T #2\
+에트라빌 25 ㎎/T 1T 취침 시\
+처방례 2. 심할 때\
+유리아 크림 50 g/tube bid\
+알레그라 180 ㎎/T 1T 아침\
+소론도 5 ㎎/T 6T #3\
+아디팜 10 ㎎ 2T 취침 시\
+(항히스타민제 병용 투여 보험주의)
