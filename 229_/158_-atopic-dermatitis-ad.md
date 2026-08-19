@@ -225,7 +225,7 @@ flowchart TD
 * 얼굴·눈꺼풀·목·굴곡부·서혜부 등 피부가 얇은 부위는 저역가를 짧게 사용하거나 TCI로 전환한다.
 * 두껍고 태선화된 병변에는 중등도\~고역가 제제를 제한된 기간 사용할 수 있다.
 * 급성 악화가 호전되면 도포 빈도를 줄이거나 낮은 역가로 전환할 수 있다. 재발이 잦은 부위는 proactive therapy를 고려한다.
-* 대표 제제 : 중등도 이하(lower-medium potency) hydrocortisone butyrate <mark style="color:blue;">\[로코이드 연고]</mark>, 중등도\~강한 역가 mometasone furoate <mark style="color:blue;">\[엘로콘 크림]</mark>, 매우 강한 역가 clobetasol propionate <mark style="color:blue;">\[더모베이트 연고]</mark> (TCS 역가 분류는 국가·분류체계에 따라 다소 차이가 있을 수 있으며, 실제 처방 시 국내 제품 허가사항과 적용 부위를 함께 확인)
+* 대표 제제 : 중등도 이하(lower-medium potency) hydrocortisone wbutyrate <mark style="color:blue;">\[로코이드 연고]</mark>, 중등도\~강한 역가 mometasone furoate <mark style="color:blue;">\[엘로콘 크림]</mark>, 매우 강한 역가 clobetasol propionate <mark style="color:blue;">\[더모베이트 연고]</mark> (TCS 역가 분류는 국가·분류체계에 따라 다소 차이가 있을 수 있으며, 실제 처방 시 국내 제품 허가사항과 적용 부위를 함께 확인)
 
 {% hint style="warning" %}
 **TCS 부작용은 '역가 × 부위 × 사용량 × 기간'에 좌우된다.** 피부 위축, 모세혈관확장, striae, 여드름양 병변 등이 문제이며, 강한 제제를 눈꺼풀/안구 주위에 장기간 사용하는 것은 피한다. 반대로 과도한 steroid phobia로 필요한 치료를 지나치게 줄이면 질환 조절 실패가 흔하다.

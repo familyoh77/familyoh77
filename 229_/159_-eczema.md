@@ -3,9 +3,9 @@
 ## 일반 사항
 
 * 홍반, 가려움, 분비물, 딱지 등의 특징을 갖는 비전염성 염증성 피부 질환
-*   홍반성 피부 상태의 일반 명사로도 사용되며 다음을 포함 : 아토피성 피부염(☞ p.862), 접촉피부염 (☞ p.881),
+*   홍반성 피부 상태의 일반 명사로도 사용되며 다음을 포함 : [아토피피부염](158_-atopic-dermatitis-ad.md), [접촉피부염](161_-contact-dermatitis.md),
 
-    건성 피부염, 지루성 습진(☞ p.886)
+    건성 피부염, [지루성 습진](162_-seborrheic-dermatitis.md)
 *   증상
 
     •원발 병소 : 홍반성 반점, 구진, 소수포, 반/판으로 융합, 진물, 갈라짐
@@ -17,13 +17,13 @@
 
     •감염의 증거가 있으면 경구 또는 국소 항생제 치료 (☞ p.904)
 
-##
+
 
 ## ￭ 손습진 Hand eczema
 
 ## 일반 사항
 
-* 자극 물질(예: 물, 세제, 화학 물질) 또는 알레르겐에 대한 만성적인 과도한 노출에 의해 발생 및 악화 (☞ p.881)
+* 자극 물질(예: 물, 세제, 화학 물질) 또는 알레르겐에 대한 만성적인 과도한 노출에 의해 발생 및 악화 (☞ [접촉피부염](161_-contact-dermatitis.md))
 
 ### 위험 인자
 
@@ -49,10 +49,8 @@
 * 피부 보습제 : 1일 수회 도포; glycerol, petrolatum \[바셀린], urea \[유리아] (☞ p.867)
 *   중/고역가 국소 steroid : qd~~bid ×2~~4주; mometasone \[모리코트] (☞ p.1139)
 
-    •필요시 저역가 steroid 밀폐 요법 : 도포 후 plastic wrap으로 감싸거나 거즈로 덮거나 petroleum jelly를 덧바름;
-
-    자극 증상, 모낭염, 감염 등의 부작용이 발생할 수 있음; hydrocortisone \[락티코트] (☞ p.868)
-* Calcineurin inhibitor : 국소 steroid 대체제; pimecrolimus \[엘리델], tacrolimus \[프로토픽] (☞ p.1143)
+    •필요시 저역가 steroid 밀폐 요법 : 도포 후 plastic wrap으로 감싸거나 거즈로 덮거나 petroleum jelly를 덧바름; 자극 증상, 모낭염, 감염 등의 부작용이 발생할 수 있음; hydrocortisone \[락티코트]&#x20;
+* [Calcineurin inhibitor](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor) : 국소 steroid 대체제; pimecrolimus \[엘리델], tacrolimus \[프로토픽]&#x20;
 * 2\~4주 후 평가 : 호전이 있으면 4주 후 재평가, 호전이 없으면 환자 순응도 확인 및 치료 방법 변경 고려
 
 ### 난치성 병변 : 전신 치료
@@ -65,7 +63,7 @@
 * 면역억제제 : methotrexate \[메토트렉세이트], azathioprine, cyclosporine (☞ p.820)
 * 기타 : bexarotene gel, Grenz ray, 보톡스 주사, 이온삼투요법
 
-##
+
 
 ## ￭ 손톱습진 Nail eczema
 
@@ -87,7 +85,7 @@
 * 중증도에 따라 국소 steroid 역가 선택 : clobetasol \[더모베이트] (☞ p.1139)
 * 조갑 주위염 등 감염 예방 및 치료
 
-##
+
 
 ## ￭ 건조습진 Asteatotic eczema, Xerotic eczema
 
@@ -101,19 +99,30 @@
 
 * 피부 자극 및 환부에 대한 비누 사용을 피함
 * 낮은 온도의 물로 짧게 샤워
-* 목욕 후 충분한 피부 보습제 도포 (☞ p.867)
+* 목욕 후 충분한 피부 보습제 도포 (☞ [아토피피부염](158_-atopic-dermatitis-ad.md#undefined-14))
 * 적정 습도 유지(40\~50%)
 *   국소 steroid
 
     •필요시 저역가 steroid 밀폐 요법 : 도포 후 plastic wrap으로 감싸거나 거즈로 덮거나 petroleum jelly를 덧바름;
 
     자극 증상, 모낭염, 감염 부작용 발생 가능; hydrocortisone \[락티케어 HC]
-* 필요시 가려움증 치료 (☞ p.857)
+* 필요시 가려움증 치료 (☞ [만성가려움증](157_-chronic-pruritus.md#management))
 
-> **질병코드** L30.8 기타 명시된 피부염
+
+
+### **질병코드**&#x20;
+
+L30.8 기타 명시된 피부염
 
 L60.8 기타 손발톱장애
 
 L85.3 피부건조증
 
-![image](../.gitbook/assets/f072f630-5fec-474e-a0be-96f1e3832cde.JPG)
+
+
+## 처방례
+
+처방례 1. 손습진 모리코트 크림 10 g/tube bid 유리아 크림 50 g/tube bid
+
+* 중증 시 취침 시 도포 후 장갑 착용 페니라민 6T #3 (가려움에 대하여)&#x20;
+* 처방례 2. 건조습진 락티케어 에취 씨 로션 1% 118 ㎖/병. 밀폐 요법(취침 시 도포 후 wrapping)
