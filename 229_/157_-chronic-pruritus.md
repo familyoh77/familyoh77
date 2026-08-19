@@ -1,6 +1,4 @@
-# 만성 가려움증 Chronic Pruritus (CP)
-
-![image](../.gitbook/assets/6c402064-fbe3-4b2f-9d78-12ff20b8de97.JPG)
+# 만성 가려움증 Chronic Pruritus
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -24,7 +22,7 @@
 
 * 간·신장 : 담즙 정체, 원발성 쓸개관경화증, 임신, 경구 피임제, 간염, 만성콩팥병
 * 혈액 : 진성 적혈구증가증, 철결핍빈혈
-* 내분비 : 갑상선 질환, carcinoid syndrome![image](../.gitbook/assets/095b1dfa-a1ca-4187-8b61-2bf52244ddc7.JPG)
+* 내분비 : 갑상선 질환, carcinoid syndrome
 * 감염 : HIV, 기생충(회충 등 장 기생충 포함)
 * 악성 종양 : 고형 종양, 림프종, 백혈병
 
@@ -64,7 +62,7 @@
 * 설명되지 않는 체중 감소, 야간 발한, 림프절병증 또는 비장비대 동반 → 혈액종양 질환(특히 Hodgkin's disease) 의심
 * 수포 발생 전 뚜렷한 원발 병변 없이 심한 가려움이 지속되는 고령 환자 → subtle/invisible dermatosis(예: bullous pemphigoid 전구기) 의심, 피부과 의뢰
 * 가족·동거인·시설 내 다수에서 동시 발생 → 옴(scabies) 의심, 접촉자 관리 및 피부과 의뢰
-* 만성 콩팥병 환자에서 중등도~중증의 가려움이 새로 발생하거나 악화되고, 신기능·투석 적절도·Ca/P/PTH 등 교정 가능한 요인 평가 후에도 지속되는 경우 → 신장내과 협진
+* 만성 콩팥병 환자에서 중등도\~중증의 가려움이 새로 발생하거나 악화되고, 신기능·투석 적절도·Ca/P/PTH 등 교정 가능한 요인 평가 후에도 지속되는 경우 → 신장내과 협진
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
@@ -171,11 +169,11 @@ flowchart TD
   * inflammatory dermatosis → topical corticosteroid 또는 topical calcineurin inhibitor
   * urticaria 등 histaminergic itch → 2세대 non-sedating H1-항히스타민제
   * 감염·기생충·약물 유발 원인이 확인되면 원인 치료/원인 약제 조정
-* **Step 2. 원인 치료에도 지속되는 중등도~중증 가려움**
+* **Step 2. 원인 치료에도 지속되는 중등도\~중증 가려움**
   * neuropathic itch 또는 CKD-associated pruritus → gabapentin/pregabalin
   * 선택된 난치성 CP → 항우울제, opioid-modulating therapy, NB-UVB 등 원인·phenotype에 맞는 치료
 * **Step 3. 난치성 또는 질환 특이 치료가 필요한 경우**
-  * chronic prurigo/prurigo nodularis, 중등도~중증 아토피피부염 → dupilumab, nemolizumab 등 생물학적제제 고려
+  * chronic prurigo/prurigo nodularis, 중등도\~중증 아토피피부염 → dupilumab, nemolizumab 등 생물학적제제 고려
   * 원인 불명 CPUO/PUO 또는 복합 원인 → 피부과/관련 전문과 협진 및 multimodal treatment
 
 #### <mark style="color:$primary;">매 단계 동반 치료</mark>
@@ -184,36 +182,11 @@ flowchart TD
 * 긁음으로 인한 이차성 피부 손상은 감염 여부를 평가하여 필요 시 국소 치료
 * 1세대 진정성 H1-항히스타민제는 야간 수면장애가 심한 선택된 환자에서만 단기간 고려하며, 특히 고령자에서는 항콜린성 부작용·낙상·인지저하에 주의
 
-<table>
-<thead>
-<tr>
-<th>단계</th>
-<th>임상 상황</th>
-<th>핵심 접근</th>
-<th>대표 옵션</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Step 1</td>
-<td>원인·phenotype 확인</td>
-<td>원인 치료 + 피부장벽 회복</td>
-<td>보습, topical steroid/TCI, 적응증이 있을 때 2세대 H1-AH</td>
-</tr>
-<tr>
-<td>Step 2</td>
-<td>중등도~중증 CP 지속</td>
-<td>phenotype-directed therapy</td>
-<td>gabapentinoid, 항우울제, opioid-modulating therapy, NB-UVB</td>
-</tr>
-<tr>
-<td>Step 3</td>
-<td>난치성/질환 특이 치료 필요</td>
-<td>전문치료 및 협진</td>
-<td>biologics, JAK inhibitor 등</td>
-</tr>
-</tbody>
-</table>
+| 단계     | 임상 상황           | 핵심 접근                      | 대표 옵션                                                  |
+| ------ | --------------- | -------------------------- | ------------------------------------------------------ |
+| Step 1 | 원인·phenotype 확인 | 원인 치료 + 피부장벽 회복            | 보습, topical steroid/TCI, 적응증이 있을 때 2세대 H1-AH           |
+| Step 2 | 중등도\~중증 CP 지속   | phenotype-directed therapy | gabapentinoid, 항우울제, opioid-modulating therapy, NB-UVB |
+| Step 3 | 난치성/질환 특이 치료 필요 | 전문치료 및 협진                  | biologics, JAK inhibitor 등                             |
 
 ***
 
@@ -377,17 +350,16 @@ flowchart TD
 
 #### <mark style="color:$primary;">JAK 억제제 (Small molecules)</mark>
 
-* 대상 : 국소·전신 1차 치료에 반응하지 않는 **중등도~중증 아토피피부염 동반 만성 가려움**에서 질환 특이 systemic therapy로 고려; 피부과 평가 후 도입
-* upadacitinib <mark style="color:blue;">[린버크]</mark>, abrocitinib <mark style="color:blue;">[시빈코]</mark> : 성인 및 만 12세 이상 청소년
-* baricitinib <mark style="color:blue;">[올루미언트]</mark> : 성인
+* 대상 : 국소·전신 1차 치료에 반응하지 않는 **중등도\~중증 아토피피부염 동반 만성 가려움**에서 질환 특이 systemic therapy로 고려; 피부과 평가 후 도입
+* upadacitinib <mark style="color:blue;">\[린버크]</mark>, abrocitinib <mark style="color:blue;">\[시빈코]</mark> : 성인 및 만 12세 이상 청소년
+* baricitinib <mark style="color:blue;">\[올루미언트]</mark> : 성인
 * 장점 : 비교적 빠른 itch reduction을 기대할 수 있음
 * 주요 부작용/경고 : 대상포진·중증 감염, 정맥혈전색전증(VTE), 주요 심혈관계 이상반응(MACE), 악성종양, 이상지질혈증 등; CBC, 간기능, 지질 등 정기 모니터링 필요
 * CPG/CPUO에서 JAK 억제제 사용은 제한된 연구 근거에 기반한 off-label 치료이며, **AD-associated CP에 대한 on-label 사용과 구분**해야 함
-
 * **NB-UVB phototherapy** : CKD-associated pruritus, 아토피피부염, chronic prurigo 및 일부 난치성 만성 가려움에서 고려할 수 있음
   * **장점** : 전신 약물을 추가하지 않고 가려움과 피부 염증을 줄일 수 있어 약물 부작용·상호작용이 우려되는 환자에서 유용
   * **단점** : 반복적인 병원 방문이 필요하고 효과가 즉시 나타나지 않을 수 있음; 일시적 홍반·화끈거림·피부건조가 생길 수 있으며 장기간 누적 UV 노출 시 광노화·피부암 위험 가능성을 고려
-  * **의뢰 기준** : 원인 치료와 적절한 국소·전신 치료에도 중등도~중증 가려움이 지속되거나, 전신약 사용이 제한되는 경우 피부과 의뢰 고려
+  * **의뢰 기준** : 원인 치료와 적절한 국소·전신 치료에도 중등도\~중증 가려움이 지속되거나, 전신약 사용이 제한되는 경우 피부과 의뢰 고려
 
 ### <mark style="color:orange;">특별한 경우의 치료 옵션</mark>
 
@@ -463,7 +435,7 @@ L29.9 상세불명의 소양증
 > 보습제  1일 2회 이상 충분히 전신 도포
 > ```
 >
-> _✽고령자·투석 환자에서는 어지럼·졸림·착란·낙상 위험을 고려하여 저용량으로 시작; 반응과 내약성에 따라 신중히 증량하고, 투석 적절도와 Ca/P/PTH 등 교정 가능한 요인을 함께 평가. 중등도~중증이 지속되면 신장내과 협진_
+> _✽고령자·투석 환자에서는 어지럼·졸림·착란·낙상 위험을 고려하여 저용량으로 시작; 반응과 내약성에 따라 신중히 증량하고, 투석 적절도와 Ca/P/PTH 등 교정 가능한 요인을 함께 평가. 중등도\~중증이 지속되면 신장내과 협진_
 
 > **처방례 4. 담즙정체성 가려움**
 >
@@ -550,7 +522,7 @@ L29.9 상세불명의 소양증
 * 일정한 파장의 자외선을 피부에 조사하여 가려움과 피부 염증을 줄이는 치료입니다.
 * 먹는 약을 추가하지 않고 증상을 줄일 수 있다는 장점이 있지만, 여러 차례 병원을 방문해야 하고 효과가 즉시 나타나지 않을 수 있습니다.
 * 치료 후 일시적으로 피부가 붉거나 화끈거리거나 건조해질 수 있으며, 장기간 반복 치료에서는 누적 자외선 노출도 고려합니다.
-* 일반적인 치료에도 중등도~중증 가려움이 지속되거나 먹는 약의 부작용·상호작용 때문에 치료가 제한되는 경우 피부과에서 상담할 수 있습니다.
+* 일반적인 치료에도 중등도\~중증 가려움이 지속되거나 먹는 약의 부작용·상호작용 때문에 치료가 제한되는 경우 피부과에서 상담할 수 있습니다.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
@@ -558,4 +530,3 @@ L29.9 상세불명의 소양증
 * 이유 없이 체중이 줄거나, 밤에 식은땀이 나는 경우
 * 두드러기와 함께 숨이 차거나 목이 붓는 경우
 * 가려움 때문에 잠을 거의 못 자고 우울하거나 힘든 마음이 심해지는 경우 — 혼자 참지 마시고 병원에 알려주십시오. 위급하다고 느껴지면 자살예방상담전화 109로도 도움을 받을 수 있습니다.
-
