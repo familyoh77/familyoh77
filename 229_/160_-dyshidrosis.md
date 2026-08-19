@@ -1,7 +1,5 @@
 # 땀흘림이상, 한포진 Dyshidrosis
 
-![image](../.gitbook/assets/83fab5c3-97fc-4342-a141-8705b2c2646e.JPG)
-
 ## 일반 사항
 
 * 땀과 관련된 손발의 질환으로 몇 가지의 상태를 포함함
@@ -10,12 +8,9 @@
 
 #### 땀흘림이상습진 (Dyshidrotic eczema)
 
-*   정의 : 손가락 측면 및 손발바닥에 발생하는 극심한 가려움을 수반하는 급/만성, 재발성, 대칭성, 비-홍반성 수포성 피부염;
-
-    일반적으로 한포진은 이 상태를 말함
-*   경과 : 초기 비염증성 소수포 → 긁음에 의한 2차 감염 → 두꺼워지고 갈라지는 판 형성
-
-    •2차 감염이 없으면 보통 수 주(2\~3주) 내 흉터 없이 자연 치유
+* 정의 : 손가락 측면 및 손발바닥에 발생하는 극심한 가려움을 수반하는 급/만성, 재발성, 대칭성, 비-홍반성 수포성 피부염; 일반적으로 한포진은 이 상태를 말함
+* 경과 : 초기 비염증성 소수포 → 긁음에 의한 2차 감염 → 두꺼워지고 갈라지는 판 형성
+  * 2차 감염이 없으면 보통 수 주(2\~3주) 내 흉터 없이 자연 치유
 
 #### Pompholyx
 
@@ -27,11 +22,7 @@
 
 ## 원인
 
-* 불명
-
-> ```
-> ✽항상 땀샘이 관련되지는 않음
-> ```
+* 불명 (✽항상 땀샘이 관련되지는 않음)
 
 ### 위험 인자
 
@@ -60,23 +51,21 @@
 
 ### 급성
 
-*   냉찜질 또는 찬물 soaking
+* 냉찜질 또는 찬물 soaking
+  * 진물이 있는 병변 : 1:10,000 KMnO4 qd~~bid(10~~15분/회) ×5일 이내
+* [보습제](158_-atopic-dermatitis-ad.md#undefined-14) : glycerine, petrolatum \[바셀린]
+* [국소 steroid ](../231_/211_-topical-corticosteroids.md): 고역가 제제, bid ×2\~4주; fluocinonide \[나이드], clobetasol \[더모베이트]
+* [국소 calcineurin 억제제 ](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor): 국소 steroid 대체제; pimecrolimus \[엘리델], tacrolimus \[프로토픽]&#x20;
+*   [항히스타민제](../231_/212_-antihistamines.md) : 가려움에 대하여 진정 작용이 있는 1세대 선택; diphenhydramine [디펙타민](../%EB%B9%84%EB%B3%B4%ED%97%98/),
 
-    •진물이 있는 병변 : 1:10,000 KMnO4 qd~~bid(10~~15분/회) ×5일 이내
-* 보습제 : glycerine, petrolatum \[바셀린] (☞ p.867)
-* 국소 steroid : 고역가 제제, bid ×2\~4주; fluocinonide \[나이드], clobetasol \[더모베이트] (☞ p.1139)
-* 국소 calcineurin 억제제 : 국소 steroid 대체제; pimecrolimus \[엘리델], tacrolimus \[프로토픽] (☞ p.1143)
-*   항히스타민제 : 가려움에 대하여 진정 작용이 있는 1세대 선택; diphenhydramine [디펙타민](../%EB%B9%84%EB%B3%B4%ED%97%98/),
-
-    hydroxyzine \[아디팜], chlorpheniramine \[페니라민] (☞ p.1144)
+    hydroxyzine \[아디팜], chlorpheniramine \[페니라민]
 
 #### 중증
 
-* wet dressing (☞ p.868)
+* [wet dressing](158_-atopic-dermatitis-ad.md#wet-wrap-therapy)
 * 국소 steroid : 고역가 제제로 밀폐 요법 고려
-*   경구 steroid : 다른 치료에 호전되지 않는 심한 병변
-
-    •prednisolone : 40~~60 ㎎/d ×3~~7d, 중단 시 tapering \[소론도]
+* 경구 steroid : 다른 치료에 호전되지 않는 심한 병변
+  * prednisolone : 40~~60 ㎎/d ×3~~7d, 중단 시 tapering \[소론도]
 * 광선 치료 : psoralen + PUVA
 
 ### 만성
@@ -89,9 +78,8 @@
 
 #### 재발성
 
-*   전구 증상(가려움) 발생 시 전신 steroid 단기 투여 고려
-
-    •prednisolone : 60 ㎎/d ×3\~4d \[소론도]
+* 전구 증상(가려움) 발생 시 전신 steroid 단기 투여 고려
+  * prednisolone : 60 ㎎/d ×3\~4d \[소론도]
 
 ## 예방
 
@@ -102,6 +90,17 @@
 * 원인이 되었던(known irritant) 물질 회피. 예: 가죽 또는 고무 신발/장갑
 * 피부 보호 : 면으로 된 장갑 또는 양말 착용, 젖은 작업 시 비닐장갑 착용, 보호 장갑 착용
 
-> **질병코드** L30.1 발한이상\[한포]
+### **질병코드**&#x20;
 
-![image](../.gitbook/assets/358ea111-aadf-4aa0-84ff-701f08bc7c85.JPG)
+L30.1 발한이상\[한포]
+
+
+
+## 처방례
+
+처방례 1. 급성\
+더모베이트 연고 10 g/tube bid\
+아디팜 10 ㎎/T 3T #3 (졸음 주의)\
+처방례 2. Steroid 대체\
+프로토픽 연고 0.1% 10 g/tube qd\
+지르텍 10 ㎎/T 1T 저녁
