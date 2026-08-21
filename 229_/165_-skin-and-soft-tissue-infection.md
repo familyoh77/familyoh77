@@ -1,5 +1,4 @@
-# 피부 및 연조직 감염 Skin and Soft-Tissue Infection (SSTI)
-
+# 피부 및 연조직 감염 Skin and Soft-Tissue Infection
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -38,7 +37,16 @@
 
 ### <mark style="color:orange;">원인균</mark>
 
-<table><thead><tr><th>임상형</th><th>주요 원인균</th><th>임상적 단서</th></tr></thead><tbody><tr><td>화농성 피부농양/종기/큰 종기</td><td><em>Staphylococcus aureus</em> (MSSA/MRSA)</td><td>농, fluctuation, purulent drainage</td></tr><tr><td>단독(Erysipelas)</td><td>주로 β-hemolytic streptococci</td><td>경계가 비교적 명확하고 융기된 홍반</td></tr><tr><td>연조직염(Cellulitis)</td><td>β-hemolytic streptococci, 일부 <em>S. aureus</em></td><td>경계가 불명확한 홍반·열감·종창·압통</td></tr><tr><td>당뇨병성 족부 감염</td><td>감염 중증도·만성도·선행 항생제 노출 등에 따라 원인균이 다양</td><td>일반 cellulitis와 별도로 평가하며 당뇨병성 족부궤양/감염 chapter 참조</td></tr><tr><td>괴사성 근막염</td><td>Polymicrobial 또는 <em>S. pyogenes</em>, <em>S. aureus</em>, <em>Clostridium</em> spp. 등</td><td>피부 소견에 비해 극심한 통증, 빠른 진행, 전신독성</td></tr><tr><td>따뜻한 해수/기수 노출, 해산물 섭취 + 간경화/만성 음주</td><td><em>Vibrio vulnificus</em></td><td>수포·출혈성 병변, 빠른 진행 시 응급질환으로 접근</td></tr><tr><td>담수 노출 창상 또는 민물회 관련</td><td><em>Aeromonas hydrophila</em></td><td>빠른 진행 또는 괴사성 감염 가능</td></tr><tr><td>동물/사람 교상</td><td>구강 flora를 포함한 polymicrobial infection</td><td>일반적인 cellulitis와 별도 항생제 선택 필요; 파상풍 예방접종력 확인</td></tr></tbody></table>
+| 임상형                              | 주요 원인균                                                            | 임상적 단서                                          |
+| -------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------- |
+| 화농성 피부농양/종기/큰 종기                 | _Staphylococcus aureus_ (MSSA/MRSA)                               | 농, fluctuation, purulent drainage               |
+| 단독(Erysipelas)                   | 주로 β-hemolytic streptococci                                       | 경계가 비교적 명확하고 융기된 홍반                             |
+| 연조직염(Cellulitis)                 | β-hemolytic streptococci, 일부 _S. aureus_                          | 경계가 불명확한 홍반·열감·종창·압통                            |
+| 당뇨병성 족부 감염                       | 감염 중증도·만성도·선행 항생제 노출 등에 따라 원인균이 다양                                | 일반 cellulitis와 별도로 평가하며 당뇨병성 족부궤양/감염 chapter 참조 |
+| 괴사성 근막염                          | Polymicrobial 또는 _S. pyogenes_, _S. aureus_, _Clostridium_ spp. 등 | 피부 소견에 비해 극심한 통증, 빠른 진행, 전신독성                   |
+| 따뜻한 해수/기수 노출, 해산물 섭취 + 간경화/만성 음주 | _Vibrio vulnificus_                                               | 수포·출혈성 병변, 빠른 진행 시 응급질환으로 접근                    |
+| 담수 노출 창상 또는 민물회 관련               | _Aeromonas hydrophila_                                            | 빠른 진행 또는 괴사성 감염 가능                              |
+| 동물/사람 교상                         | 구강 flora를 포함한 polymicrobial infection                             | 일반적인 cellulitis와 별도 항생제 선택 필요; 파상풍 예방접종력 확인     |
 
 _✽당뇨병성 족부 감염은 원인균 구성·항생제 선택·창상 관리가 일반 cellulitis와 다르므로, 궤양이 동반된 당뇨병 환자에서는 **IWGDF/IDSA 감염 중증도 분류** 등 별도 프로토콜로 접근하는 것을 권장_
 
@@ -59,6 +67,7 @@ _✽당뇨병성 족부 감염은 원인균 구성·항생제 선택·창상 관
 #### <mark style="color:$primary;">MRSA 위험인자</mark>
 
 **역학적 MRSA 감염/집락 위험**
+
 * 과거 MRSA 감염 또는 집락
 * 최근 의료기관 노출 또는 반복적 항생제 사용
 * 장기요양시설 거주
@@ -66,6 +75,7 @@ _✽당뇨병성 족부 감염은 원인균 구성·항생제 선택·창상 관
 * 면도기·수건·스포츠 장비 등의 공동 사용
 
 **현재 cellulitis에서 MRSA coverage를 직접 고려할 임상 단서**
+
 * 관통상(penetrating trauma)
 * 다른 부위의 동시 MRSA 감염
 * MRSA 비강 집락 또는 과거 MRSA 감염
@@ -92,7 +102,7 @@ MRSA-active therapy는 위 급성기 임상 단서, 중증 감염, 1차 치료 �
 * crepitus
 * 국소 피부 감각 저하
 * 저혈압, 의식 변화, 장기기능장애 등 혈역학적 불안정
-* 간경화/만성 음주 환자에서 해수·기수 노출 또는 해산물 섭취 후 빠르게 진행하는 수포성/괴사성 감염 — <em>V. vulnificus</em> 의심
+* 간경화/만성 음주 환자에서 해수·기수 노출 또는 해산물 섭취 후 빠르게 진행하는 수포성/괴사성 감염 — _V. vulnificus_ 의심
 
 → **괴사성 근막염이 의심되면 영상검사 결과를 기다리느라 수술을 지연하지 않는다.**\
 → 응급 외과 평가, 혈액/수술 검체 배양, 광범위 정주 항생제 및 신속한 수술적 탐색·변연절제를 시행한다.
@@ -123,7 +133,7 @@ MRSA-active therapy는 위 급성기 임상 단서, 중증 감염, 1차 치료 �
 
 * 피부의 발적, 열감, 부종, 압통의 범위와 진행 속도를 평가
 * 농양이 의심되면 fluctuation, spontaneous drainage를 확인
-* 임상적으로 농양과 cellulitis 감별이 애매한 경우 **point-of-care ultrasound(POCUS)**가 fluctuation 촉진보다 민감하게 고름 저류를 확인하는 데 도움이 될 수 있음 (가용한 경우)
+* 임상적으로 농양과 cellulitis 감별이 애매한 경우 \*\*point-of-care ultrasound(POCUS)\*\*가 fluctuation 촉진보다 민감하게 고름 저류를 확인하는 데 도움이 될 수 있음 (가용한 경우)
 * 하지 cellulitis에서는 발가락 사이의 tinea pedis, fissure, maceration을 확인
 * 초기 발적 경계를 피부에 표시하거나 사진으로 기록하면 치료 반응 추적에 도움이 됨
 * 피부 소견에 비해 통증이 심하거나 빠르게 악화하면 괴사성 근막염/화농성 근육염 등 심부 감염을 우선 배제
@@ -160,7 +170,7 @@ MRSA-active therapy는 위 급성기 임상 단서, 중증 감염, 1차 치료 �
 ***
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["피부 발적·열감·부종·통증<br/>± 농/배액"] --> B{"괴사성/심부 감염 또는<br/>패혈증·혈역학적 불안정?"}
 
     B -- "Yes" --> C["즉시 응급실/외과 협진<br/>혈액·수술 검체 배양<br/>광범위 IV 항생제"]
@@ -267,7 +277,7 @@ flowchart LR
 ### <mark style="color:orange;">반복성 S. aureus SSTI의 선택적 decolonization</mark>
 
 * 모든 SSTI 환자에서 routine하게 시행하지 않음
-* 반복성 <em>S. aureus</em> 감염에서 개인위생·상처관리·환경 관리에도 재발하면 선택적으로 고려
+* 반복성 _S. aureus_ 감염에서 개인위생·상처관리·환경 관리에도 재발하면 선택적으로 고려
   * intranasal mupirocin bid × 5일
   * chlorhexidine body wash를 함께 고려
   * 수건, 침구, 의류 및 자주 접촉하는 개인 물품 세척
@@ -300,7 +310,13 @@ flowchart LR
 
 ### <mark style="color:orange;">비화농성 연조직염의 경험적 항생제</mark>
 
-<table><thead><tr><th>상황</th><th>경구</th><th>정주/입원</th><th>비고</th></tr></thead><tbody><tr><td>경증 cellulitis</td><td>Cephalexin 500 ㎎ qid<br>또는 Cephradine 500 ㎎ qid<br>또는 Cefadroxil 1,000 ㎎ bid<br>또는 Amoxicillin-clavulanate 500/125 ㎎ tid</td><td>-</td><td>streptococci ± MSSA 표적</td></tr><tr><td>β-lactam 사용이 어려운 경우</td><td>Clindamycin 450 ㎎ qid</td><td>Clindamycin 600–900 ㎎ q8h IV</td><td><em>C. difficile</em> 관련 장염 등 주의; 배양에서 erythromycin-resistant/clindamycin-susceptible <em>S. aureus</em>가 확인되면 inducible clindamycin resistance(D-test) 여부 확인</td></tr><tr><td>중등증 또는 경구치료가 부적절</td><td>-</td><td>Cefazolin 2 g q8h IV<br>또는 Ampicillin-sulbactam 3 g q6h IV<br>또는 Nafcillin 2 g q4h IV</td><td>호전 시 조기 경구 전환 고려</td></tr><tr><td>중증 또는 중증 면역저하</td><td>-</td><td>Vancomycin 등 MRSA-active agent + 필요 시 Piperacillin-tazobactam 또는 carbapenem 등 broad-spectrum coverage</td><td>패혈증/괴사성 감염 가능성과 특수 노출을 함께 평가</td></tr><tr><td>최근 MRSA 감염/집락 등 MRSA 고위험</td><td>감염 부위·중증도 및 감수성에 따라 선택</td><td>Vancomycin 15 ㎎/kg q12h IV로 시작 후 TDM(AUC 기반)으로 조절<br>또는 Teicoplanin/Linezolid 등</td><td>routine cellulitis에 일률적으로 MRSA coverage를 추가하지 않음</td></tr></tbody></table>
+| 상황                       | 경구                                                                                                                              | 정주/입원                                                                                                 | 비고                                                                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 경증 cellulitis            | <p>Cephalexin 500 ㎎ qid<br>또는 Cephradine 500 ㎎ qid<br>또는 Cefadroxil 1,000 ㎎ bid<br>또는 Amoxicillin-clavulanate 500/125 ㎎ tid</p> | -                                                                                                     | streptococci ± MSSA 표적                                                                                                                                      |
+| β-lactam 사용이 어려운 경우      | Clindamycin 450 ㎎ qid                                                                                                           | Clindamycin 600–900 ㎎ q8h IV                                                                          | _C. difficile_ 관련 장염 등 주의; 배양에서 erythromycin-resistant/clindamycin-susceptible _S. aureu&#x73;_&#xAC00; 확인되면 inducible clindamycin resistance(D-test) 여부 확인 |
+| 중등증 또는 경구치료가 부적절         | -                                                                                                                               | <p>Cefazolin 2 g q8h IV<br>또는 Ampicillin-sulbactam 3 g q6h IV<br>또는 Nafcillin 2 g q4h IV</p>          | 호전 시 조기 경구 전환 고려                                                                                                                                            |
+| 중증 또는 중증 면역저하            | -                                                                                                                               | Vancomycin 등 MRSA-active agent + 필요 시 Piperacillin-tazobactam 또는 carbapenem 등 broad-spectrum coverage | 패혈증/괴사성 감염 가능성과 특수 노출을 함께 평가                                                                                                                                |
+| 최근 MRSA 감염/집락 등 MRSA 고위험 | 감염 부위·중증도 및 감수성에 따라 선택                                                                                                          | <p>Vancomycin 15 ㎎/kg q12h IV로 시작 후 TDM(AUC 기반)으로 조절<br>또는 Teicoplanin/Linezolid 등</p>                | routine cellulitis에 일률적으로 MRSA coverage를 추가하지 않음                                                                                                            |
 
 ### <mark style="color:orange;">단독(Erysipelas)</mark>
 
@@ -318,7 +334,7 @@ flowchart LR
 
 ### <mark style="color:orange;">배양 결과에 따른 주요 경구 선택지</mark>
 
-<table><thead><tr><th>원인균</th><th>주요 경구 선택지</th></tr></thead><tbody><tr><td>β-hemolytic streptococci</td><td>Amoxicillin 500 ㎎ tid; Cephalexin 500 ㎎ qid; Cefadroxil 1,000 ㎎ bid; Clindamycin 450 ㎎ qid</td></tr><tr><td>MSSA</td><td>Cephalexin 500 ㎎ qid; Cefadroxil 1,000 ㎎ bid; Clindamycin 450 ㎎ qid; 감수성에 따라 doxycycline 또는 TMP/SMX</td></tr><tr><td>MRSA</td><td>Linezolid 600 ㎎ bid; Clindamycin 450 ㎎ qid; Doxycycline 100 ㎎ bid; TMP/SMX 320/1,600 ㎎ bid(TMP/SMX 성분량 기준; 감수성·신기능에 따라 조정)</td></tr></tbody></table>
+<table><thead><tr><th width="251">원인균</th><th>주요 경구 선택지</th></tr></thead><tbody><tr><td>β-hemolytic streptococci</td><td>Amoxicillin 500 ㎎ tid; Cephalexin 500 ㎎ qid; Cefadroxil 1,000 ㎎ bid; Clindamycin 450 ㎎ qid</td></tr><tr><td>MSSA</td><td>Cephalexin 500 ㎎ qid; Cefadroxil 1,000 ㎎ bid; Clindamycin 450 ㎎ qid; 감수성에 따라 doxycycline 또는 TMP/SMX</td></tr><tr><td>MRSA</td><td>Linezolid 600 ㎎ bid; Clindamycin 450 ㎎ qid; Doxycycline 100 ㎎ bid; TMP/SMX 320/1,600 ㎎ bid(TMP/SMX 성분량 기준; 감수성·신기능에 따라 조정)</td></tr></tbody></table>
 
 {% hint style="warning" %}
 **Doxycycline 또는 TMP/SMX를 순수 비화농성 cellulitis의 단독 경험적 치료로 일률적으로 선택하지 않는다.** Streptococcal coverage가 필요한 임상상인지 확인한다. 농양 주변에 **광범위한 비화농성 cellulitis**가 동반되어 streptococcal coverage도 필요한 경우에는 **Cephalexin/Amoxicillin + TMP/SMX 또는 Doxycycline** 병합을 고려할 수 있다.
@@ -333,8 +349,8 @@ flowchart LR
   * 또는 **Linezolid + Piperacillin-tazobactam 또는 carbapenem**
   * Linezolid는 독소 억제 효과가 있어 사용하는 경우 **clindamycin을 통상 추가하지 않음**
 * 배양 결과에 따라 즉시 de-escalation
-* <em>S. pyogenes</em> 확인/강력 의심: **Penicillin G + Clindamycin** — clindamycin은 단백질 합성 억제를 통해 **streptococcal exotoxin 생성 억제(antitoxin effect)**를 기대하여 병용
-* <em>Clostridium</em> spp.: **Penicillin + Clindamycin**
+* _S. pyogenes_ 확인/강력 의심: **Penicillin G + Clindamycin** — clindamycin은 단백질 합성 억제를 통해 \*\*streptococcal exotoxin 생성 억제(antitoxin effect)\*\*를 기대하여 병용
+* _Clostridium_ spp.: **Penicillin + Clindamycin**
 * 항생제는 **추가적 변연절제술이 더 이상 필요하지 않고 임상적으로 안정될 때까지** 투여하며, **마지막 괴사조직 제거 수술 후 약 48시간까지 사용을 고려**할 수 있음. Clindamycin은 임상적으로 안정된 뒤 48–72시간 이내 중단을 고려
 
 #### <mark style="color:$primary;">특수 노출</mark>
@@ -383,7 +399,7 @@ M72.6 괴사성 근막염
 > 또는 오구멘틴 500/125 ㎎/T 1T tid × 5일
 > ```
 >
-> _✽streptococci ± MSSA를 표적으로 하는 경구 β-lactam이 1차 선택; 발적 경계는 5~7일째에도 완전히 없어지지 않을 수 있음을 사전 설명_
+> _✽streptococci ± MSSA를 표적으로 하는 경구 β-lactam이 1차 선택; 발적 경계는 5\~7일째에도 완전히 없어지지 않을 수 있음을 사전 설명_
 
 > **처방례 3. 단독(Erysipelas)**
 >
@@ -424,7 +440,7 @@ M72.6 괴사성 근막염
 >
 > * 처방된 항생제는 **정해진 용량과 기간을 지키고, 임의로 중단하거나 남은 항생제를 추가·연장 복용하지 않습니다.**
 > * 치료 시작 후 홍반이 바로 없어지지 않을 수 있으며, 보통 **48–72시간 내 진행이 멈추고 통증·열감·종창이 호전되는지** 확인합니다.
-> * clindamycin 복용 중 심한 설사가 생기면 즉시 알리도록 안내합니다(<em>C. difficile</em> 장염 가능성).
+> * clindamycin 복용 중 심한 설사가 생기면 즉시 알리도록 안내합니다(_C. difficile_ 장염 가능성).
 > * Doxycycline 복용 시 광과민 반응에 주의하도록 안내합니다.
 > * TMP/SMX 복용 중 새로 생긴 심한 발진·점막 병변이 있으면 즉시 진료받도록 하고, 고칼륨혈증·신기능 악화 위험(특히 ACEi/ARB 등 병용 시)을 확인합니다.
 
@@ -463,7 +479,7 @@ M72.6 괴사성 근막염
 
 #### <mark style="color:$primary;">항생제는 어떻게 복용하나요?</mark>
 
-* 처방된 용량과 기간(보통 5일, 필요 시 7~10일)을 지켜 복용합니다.
+* 처방된 용량과 기간(보통 5일, 필요 시 7\~10일)을 지켜 복용합니다.
 * 임의로 중단하거나 남은 항생제를 추가로 복용·연장하지 않습니다.
 * 남은 항생제를 보관했다가 다음 감염 때 임의로 재사용하지 않습니다.
 
@@ -474,6 +490,3 @@ M72.6 괴사성 근막염
 * 고열, 오한, 어지럼, 의식이 흐려지는 증상이 동반되는 경우 — 즉시 응급실
 
 ***
-
-
-<!-- 편집 점검: (☞ p.903), (☞ p.907), (☞ p.910), (☞ p.912), (☞ p.915), (☞ p.867) 등 페이지 참조 번호는 최종 합본/출판 단계에서 실제 페이지·하이퍼링크와 대조할 것. -->
