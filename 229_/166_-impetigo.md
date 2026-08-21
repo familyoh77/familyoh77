@@ -37,9 +37,7 @@
 * 임상 양상 : 가려움이 있을 수 있으며 국소 림프절병증이 동반될 수 있음. 대개 통증과 전신 증상은 경미하거나 없음
 * 경과 : 보통 흉터 없이 치유
 * 합병증 : 연조직염, 드물게 **post-streptococcal glomerulonephritis (PSGN)**
-* {% hint style="info" %}
-  **PSGN 예방에 대한 주의** : GAS 농가진의 항생제 치료는 감염 치료와 전파 감소에 중요하지만, **PSGN 발생을 확실히 예방한다는 근거는 불충분**합니다.
-  {% endhint %}
+* <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p><strong>PSGN 예방에 대한 주의</strong> : GAS 농가진의 항생제 치료는 감염 치료와 전파 감소에 중요하지만, <strong>PSGN 발생을 확실히 예방한다는 근거는 불충분</strong>합니다.</p></div>
 
 ### <mark style="color:orange;">수포성 농가진 (Bullous impetigo)</mark>
 
@@ -94,7 +92,7 @@
 ***
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["농가진 의심<br/>꿀색 가피 / 수포 / 얕은 미란"] --> B["Red Flag 또는<br/>중증 소견?"]
 
     B -->|Yes| C["SSSS·중증 cellulitis·심부감염·패혈증 평가<br/>즉시/당일 의뢰 또는 응급실"]
