@@ -1,7 +1,5 @@
 # 연조직염, 봉소염 Soft Tissue Infection, Cellulitis
 
-![image](../.gitbook/assets/6cf3b39f-5030-45b7-a688-c1860925f169.JPG)
-
 ## 일반 사항
 
 * 진피 및 피하 조직의 급성 세균 감염(= phlegmon)
@@ -33,7 +31,12 @@
 * 림프선을 따라 근위부로 림프관염, 림프절염
 * 전신 증상 : 발열, 오한, malaise
 
-![image](../.gitbook/assets/732c1d4f-d5f2-4974-b02c-78af5356aa44.JPG)
+### Red Flags!
+
+* 빠른 진행, 중증, 심부 감염 : 심한 통증, 보라색 물집, 피부 출혈, 조직 내 가스, 피부 융해
+* 전신 증상 : 발열 또는 저체온증, 빈맥(HR ＞100), 저혈압(＜90 ㎜Hg or 평소보다 ＞20 ㎜Hg↓)
+* 치료 후 24\~48시간에 반응하지 않음
+* 중증 기저 질환 동반&#x20;
 
 ## 진단
 
@@ -67,9 +70,8 @@
 ### 항생제
 
 * 경증 시 경구 항생제로 5~~10일간 투여 (ACP 권고- 5~~6d)
-*   24\~48시간의 치료에 반응하지 않으면 내성균 또는 심각한 질환 상태 고려
-
-    •보통 첫 24시간 동안에는 bacterial antigen 분비 등과 관련하여 악화됨
+* 24\~48시간의 치료에 반응하지 않으면 내성균 또는 심각한 질환 상태 고려
+  * 보통 첫 24시간 동안에는 bacterial antigen 분비 등과 관련하여 악화됨
 * 과거 MRSA 감염 또는 MSSA 치료 48시간 내 반응하지 않는 경우에는 MRSA 고려
 * 당뇨병 환자의 경우는 그람 양성/음성, 혐기성을 포함하는 광범위 항생제 선택
 * 중증 또는 빠른 악화 시 처음 2\~5일간 IV 치료; IV를 적용할 수 없는 경우 경구제 첫 투여 시 2배 용량 고려
@@ -80,9 +82,8 @@
 #### Nonpurulent cellulitis
 
 * 대상 균주 : β-hemolytic Streptococcus , MSSA
-*   보통 5\~10일간 투여, 필요시 연장
-
-    •합병증이 없는 경우에는 5일과 10일 치료 결과가 비슷함
+* 보통 5\~10일간 투여, 필요시 연장
+  * 합병증이 없는 경우에는 5일과 10일 치료 결과가 비슷함
 * cephalexin : 500 ㎎ qid \[팔렉신]
 * dicloxacillin : 500 ㎎ qid
 * clindamycin : 300\~450 ㎎ qid \[훌그램]
@@ -98,9 +99,7 @@
 * minocycline : 100 ㎎ bid \[미노씬]
 * linezolid : 600 ㎎ bid \[자이복스]
 * tedizolid : 200 ㎎ qd
-*   IV : vancomycin(15~~20 ㎎/㎏ q8~~12h), daptomycin(4 ㎎/㎏ qd), linezolid(600 ㎎ q12h), tedizolid(200 ㎎ qd),
-
-    ceftaroline(600 ㎎ q12h), tigecycline(50 ㎎ q12h)
+* IV : vancomycin(15~~20 ㎎/㎏ q8~~12h), daptomycin(4 ㎎/㎏ qd), linezolid(600 ㎎ q12h), tedizolid(200 ㎎ qd), ceftaroline(600 ㎎ q12h), tigecycline(50 ㎎ q12h)
 
 ### NSAID
 
@@ -113,7 +112,9 @@
 * 철저한 혈당 관리, 적절한 당뇨발 관리
 * 3\~4회/년 이상 재발 시 예방적 항생제 고려 : Pc-G 120만 단위/월 IM, Pc 250 ㎎ bid PO
 
-> **질병코드** L03　연조직염
+### **질병코드**&#x20;
+
+L03　연조직염
 
 H60.1 외이의 연조직염
 
@@ -121,4 +122,11 @@ N48.21 음경의 연조직염
 
 N73.0 급성 자궁주위조직염 및 골반연조직염
 
-![image](../.gitbook/assets/a19c1dcc-09aa-48fb-bdbd-20d00cf1db78.JPG)
+## 처방례
+
+처방례 1.\
+팔렉신 500 ㎎/C 4C #4\
+부루펜 200 ㎎/T 6T #3\
+처방례 2.\
+듀리세프 500 ㎎/C 2C #2\
+애니펜 300 ㎎/T 3T #3
