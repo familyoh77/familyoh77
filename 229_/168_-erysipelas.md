@@ -1,12 +1,9 @@
 # 단독, 얕은 연조직염 Erysipelas
 
-![image](../.gitbook/assets/27169310-bc8b-4ead-a72f-4552b2bcd2dc.JPG)
-
 ## 일반 사항
 
-*   손상된 피부의 superficial(upper dermis) infection; 피부 림프계 침범
-
-    ✽cellulitis는 deeper dermis, 피하 지방 침범; erysipelas는 cellulitis의 일종으로 취급되기도 함
+* 손상된 피부의 superficial(upper dermis) infection; 피부 림프계 침범
+  * cellulitis는 deeper dermis, 피하 지방 침범; erysipelas는 cellulitis의 일종으로 취급되기도 함
 * 호발 부위 : 다리(70~~80%), 얼굴(코, 귀, 뺨; 5~~20%)
 * 12\~29%에서 재발(주로 첫 6개월, 동일 부위)
 * 합병증 : 농양, necrotizing fasciitis, thrombophlebitis, gangrene, metastatic infection
@@ -72,15 +69,22 @@
 * 경과 : 적당한 항생제 치료로 24\~48시간 후 호전
 * 대수포 형성 시 S. aureus 고려(MRSA 해당 항생제 고려) (☞ p.901)
 * 얼굴은 MRSA 감염이 사지보다 흔함
-
-※ 적절한 항생제에 반응하지 않는 경우 피부 생검 고려
-
-※ 괴사성 근막염이 의심되는 경우 조기에 수술적 치료 고려
+* 적절한 항생제에 반응하지 않는 경우 피부 생검 고려
+* &#x20;괴사성 근막염이 의심되는 경우 조기에 수술적 치료 고려
 
 ## 예방
 
-* 피부 위생, 면도 주의 (☞ p.900)
+* 피부 위생, 면도 주의 (☞ [피부감염](165_-skin-and-soft-tissue-infection.md#undefined-10))
 
-> **질병코드** A46 단독
+### **질병코드**&#x20;
 
-![image](../.gitbook/assets/4729fc6e-1e88-4f06-a17a-a33ded361398.JPG)
+A46 단독
+
+## 처방례
+
+처방례 1. 경증\
+파목신 500 ㎎/C 3C #3\
+부루펜 200 ㎎/T 6T #3\
+처방례 2. 중증\
+오구멘틴 625 ㎎/T 3T #3\
+애니펜 300 ㎎/T 3T #3
