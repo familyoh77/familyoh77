@@ -1,23 +1,19 @@
 # 모낭염 Folliculitis
 
-![image](../.gitbook/assets/423aff5a-5c87-445f-9fbc-9e00db61adf6.JPG)
-
 ## 일반 사항
 
 * 모낭의 감염성 또는 비감염성 농성 염증
 * 호발 부위 : 두피, 엉덩이, 사지
-*   경과 : 보통 흉터 없이, 발모에 지장 없이 치유됨(7\~10일); 재발성, 중증인 경우 색소 침착
-
-    •furunculosis로 진행할 수 있음 (☞ p.915)
+* 경과 : 보통 흉터 없이, 발모에 지장 없이 치유됨(7\~10일); 재발성, 중증인 경우 색소 침착
+  * furunculosis로 진행할 수 있음 (☞ [종기](170_-abscess-furunculosis.md))
 * sycosis : 머리나 목에 깊숙이 만성적이고 난치성인 모낭염
 
 ## 원인
 
 #### 감염성
 
-*   세균 : S. aureus (대부분), P. aeruginosa (불결한 물), Aeromonas hydrophila (물놀이),
-
-    •면역저하자에서는 그람음성균주가 중요; Klebsiella , Enterobacter , Proteus
+* 세균 : S. aureus (대부분), P. aeruginosa (불결한 물), Aeromonas hydrophila (물놀이)
+  * 면역저하자에서는 그람음성균주가 중요; Klebsiella , Enterobacter , Proteus
 * 진균 : Pityrosporum (청소년 & 남자 호발, upper chest & back 호발), Candida
 * 바이러스 : VZV, HSV
 * 기생충 : Demodex , mites, schistosomes
@@ -39,9 +35,7 @@
 * 주변에 발적이 있는 작은(1\~5 ㎜) 돔 모양의 구진농포, 농포, 수포
 * 대부분 가려움 동반, 약간의 작열감, 압통(보통 통증은 없음)
 * Pseudomonas folliculitis : 오염된 물(예: 수영장) 노출 1\~4일 후 가려움, 압통, 농포성 병변
-*   steroid acne : 얼굴과 몸통에 동일한 형태의 papule, papulopustule; 국소 또는 전신 steroid 치료 중 발생하며
-
-    국소 benzoyl peroxide에 반응
+* steroid acne : 얼굴과 몸통에 동일한 형태의 papule, papulopustule; 국소 또는 전신 steroid 치료 중 발생하며 국소 benzoyl peroxide에 반응
 
 ## 진단
 
@@ -96,9 +90,7 @@
 
 ### 진균
 
-```
-(☞ p.925)
-```
+(☞ [피부백선증](172_-dermatophytosis-tinea.md#undefined-7))
 
 * ketoconazole 2% 샴푸 : 3~~5분간 유지, 2회/주 ×2~~4주, 이후 1\~2주마다 1회 \[니조랄]
 * selenium sulfide 2.5% 샴푸 : 2~~3분간 유지. 2회/주 ×2주, 이후 1~~2주마다 1회
@@ -113,9 +105,7 @@
 
 ### 헤르페스
 
-```
-(☞ p.962)
-```
+(☞ [단순포진](181_-herpes-simplex.md#management))
 
 * valaciclovir : 500 ㎎ tid ×5\~10d \[발트렉스]
 * famciclovir : 500 ㎎ tid ×5\~10d \[팜비어]
@@ -125,17 +115,21 @@
 
 * 마찰과 oil 사용을 피함
 * 털 방향으로 면도 및 면도 후 소독액(예: 알코올) 적용
-* 피부 위생 관리 (☞ p.900)
-*   지속되는 Staphylococcal folliculitis
+* 피부 위생 관리 (☞ [피부감염](165_-skin-and-soft-tissue-infection.md))
+* 지속되는 Staphylococcal folliculitis
+  * 코에 mupirocin 도포
+  * 경구 clindamycin(150~~300 ㎎/d ×4~~6주), 또는 TMP-SMX(1달에 1주 ×6개월)
+  * 알코올 + 6.25% aluminum chloride 매일\~격일 적용(특히 엉덩이 부위)
+  * 표백제 목욕 : 20 L당 ¼~~½컵, 15분, ×3~~5번/주
 
-    •코에 mupirocin 도포
+### **질병코드**&#x20;
 
-    •경구 clindamycin(150~~300 ㎎/d ×4~~6주), 또는 TMP-SMX(1달에 1주 ×6개월)
+L73　기타 모낭장애
 
-    •알코올 + 6.25% aluminum chloride 매일\~격일 적용(특히 엉덩이 부위)
+## 처방례
 
-    •표백제 목욕 : 20 L당 ¼~~½컵, 15분, ×3~~5번/주
-
-> **질병코드** L73　기타 모낭장애
-
-![image](../.gitbook/assets/cd41703d-3af6-4ef9-8410-4ef91db35767.JPG)
+처방례 1.\
+에스로반 연고 10 g/tube bid\
+처방례 2. 광범위\
+에스로반 연고 10 g/tube bid\
+팔렉신 500 ㎎/C 4C #4
