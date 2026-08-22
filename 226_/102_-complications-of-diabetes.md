@@ -44,18 +44,17 @@ _\* PAD 무증상 고위험군 (ABI 선별검사 적극 고려, ADA 2025) : ⓵ 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 안정 시 통증(rest pain), 비치유성 궤양
-* ABI ＜0.4 또는 측정 불가(중증 석회화)
-* 발목 수축기압 ＜50 ㎜Hg 또는 족지 수축기압 ＜30 ㎜Hg
+* ABI ＜0.4, 발목 수축기압 ＜50 ㎜Hg, 족지 수축기압 ＜30 ㎜Hg, TcPO₂ ＜30 ㎜Hg 또는 단상성·소실된 족부 Doppler 파형 — 중증 허혈을 시사하므로 긴급 혈관 전문 평가
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
 
 * 간헐적 파행으로 일상생활 제한 시 혈관외과 협진
-* ABI 0.4\~0.9 : 생활습관 교정 후 호전 없으면 혈관 영상 검사
+* 안정적 간헐적 파행 + ABI 0.4\~0.9 : 약물·운동·생활습관 치료 후에도 일상생활 제한이 지속되고 재혈관화를 고려할 때 혈관 영상검사
 
 ## <mark style="color:green;">진단</mark>
 
 * ABI(ankle-brachial index) : 정상 1.0\~1.4, 경계 0.91\~0.99, 비정상 ≤0.9, 중증 ＜0.4
-  * ABI ＞1.4는 혈관 석회화에 의한 위음성 가능 → 족지-상완지수(TBI) 또는 맥파 측정 추가 권장
+  * ABI ＞1.4 또는 측정 불가는 혈관 석회화에 의한 비압축성 혈관·위고값 가능 → 응급상태로 단정하지 말고 족지-상완지수(TBI), 족지압 및 족부 Doppler 파형 추가 평가
 
 ## <mark style="color:green;">치료</mark>
 
@@ -417,103 +416,9 @@ class Ctrl,3rd blue
 
 ## ■ 당뇨병성 발 감염 (Diabetic Foot Infection, DFI)
 
-* 당뇨병 환자의 가장 흔한 입원 원인 중 하나
-* 유병률 : 4\~10%; 연간 발생률 - 2\~6%, 평생 발생률 - 19\~34% \[IWGDF]
-* 말초신경병증과 반복적 외상으로 발생한 궤양에 감염이 동반되며, 심부 연부조직 감염 및 골수염으로 진행할 수 있음
-* DFI 환자의 약 15\~16%(약 6\~7명 중 1명)는 발생 후 1년 이내 사망(입원이 필요한 중증 감염에서는사망률이 더 높을 수 있음)
-* 위험 인자 : 혈당 조절 불량, 말초신경병증, PAD, 발 변형·굳은살(callus)·티눈(corn), 발 궤양 또는 하지 절단 과거력, CKD(특히 투석), 시력 저하, 이전 하지 절단, 보호감각 소실, 적절하지 않은 신발, 흡연
-
-## <mark style="color:green;">임상 양상</mark>
-
-* 국소 : 홍반, 통증, 압통, 온감, 경화, 농성 분비물
-* 전신 : 식욕 저하, 오심/구토, 발열, 오한, 정신 상태 변화
-
-#### <mark style="color:$primary;">Wagner 당뇨병성 발 궤양 분류</mark>
-
-<table><thead><tr><th width="75.23809814453125">등급</th><th>소견</th></tr></thead><tbody><tr><td>G 0</td><td>궤양 없는 고위험 발 (기형, 굳은살, 감각 저하)</td></tr><tr><td>G 1</td><td>Superficial full-thickness ulcer</td></tr><tr><td>G 2</td><td>Deep ulcer, 힘줄 이환</td></tr><tr><td>G 3</td><td>Deep ulcer, 골 이환</td></tr><tr><td>G 4</td><td>Partial gangrene (발가락, 앞발)</td></tr><tr><td>G 5</td><td>Whole foot gangrene</td></tr></tbody></table>
-
-#### <mark style="color:$primary;">IDSA/IWGDF 발 감염 중증도 분류</mark>
-
-<table><thead><tr><th width="120">등급</th><th>정의</th></tr></thead><tbody><tr><td>1 Uninfected</td><td>감염의 전신 또는 국소 징후 없음</td></tr><tr><td>2 Mild</td><td>피부/피하 조직 국소 감염¹⁾; 홍반 0.5~2 ㎝; 전신 반응 없음</td></tr><tr><td>3 Moderate</td><td>홍반 ＞2 ㎝ 또는 심부 조직(농양·골수염·관절염·근막염) 이환; 전신 반응 없음</td></tr><tr><td>4 Severe</td><td>전신 염증 반응 징후²⁾ 동반</td></tr></tbody></table>
-
-_¹⁾ 국소 감염 : 부종/경화, 홍반 ＞0.5 ㎝, 압통/통증, 온감, 고름 중 ≥2개. ²⁾ ⓵ 체온 ≥38℃ or ＜36℃, ⓶ HR ＞90, ⓷ RR ＞20 또는 PaCO₂ ＜32 ㎜Hg, ⓸ WBC ＞12,000/㎕ or ＜4,000/㎕ or bands(미성숙) ≥10% 중 ≥2개 시 SIRS(Systemic inflammatory response syndrome) 양성 및 DFI 중증 감염으로 분류_
-
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
-
-* 감염 병소 + SIRS 기준 충족 → 전신 패혈증
-* 급속히 진행하는 괴사성 근막염 (crepitus, 빠른 피부 변색)
-* 괴저 또는 대량 조직 소실
-* 신경병증 환자에서 통증은 경미하지만 발적·부종·피부 온도 상승이 있음 → Charcot 신경관절병증
-
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
-
-* Moderate 이상 감염 (심부 조직 이환 또는 빠른 진행)
-* probe-to-bone 양성, X선 이상 → 골수염
-* 심한 PAD 동반
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
-
-* Mild 감염 외래 - 항생제 치료 후 48\~72시간 내 재평가
-* 4주 치료에도 미해결 시
-
-## <mark style="color:green;">진단</mark>
-
-* WBC, BUN/Cr, 혈당/A1C; prealbumin/albumin(영양 상태); CRP·ESR·procalcitonin(골수염 의심 시)
-* 깊은 조직 그람·배양 검사 (표재성 면봉 검체는 신뢰도가 낮아 조직 또는 소파(curettage) 검체를 권장); 골수염 시 뼈 조직 배양
-* X선, probe-to-bone 검사; 골수염 의심 시 MRI
-
-## <mark style="color:green;">치료</mark>
-
-### <mark style="color:orange;">치료 방침</mark>
-
-* 상처 관리 : 압박 제거, 괴사 조직 제거(debridement), 드레싱, 전신 항생제
-* 국소 항생제는 효과 제한적으로 일반적으로 권고하지 않음
-* Moderate 이상 → 입원 치료 고려
-* 철저한 혈당 관리, 적절한 영양 섭취
-* 보조 요법(G-CSF, 고압 산소, 은/꿀 드레싱 등)은 일상적 권고 안 함
-
-#### <mark style="color:$primary;">항생제 선택</mark>
-
-* 감염 징후 없는 발 궤양 → 항생제 불필요(감염 예방 목적의 항생제 투여도 권고되지 않음) \[IWGDF]
-* 경증 (경험적) : G(+) 균주 중심
-  * 1차 : cephalexin 500 ㎎ qid <mark style="color:blue;">\[팔렉신]</mark>, amoxicillin/clavulanate 875/125 ㎎ bid <mark style="color:blue;">\[오구멘틴]</mark>
-  * β-lactam 알레르기 또는 G(-) 커버 필요 시 : levofloxacin 500\~750 ㎎ qd <mark style="color:blue;">\[크라비트]</mark>, moxifloxacin 400 ㎎ qd <mark style="color:blue;">\[아벨록스]</mark>, TMP-SMX 160/800 ㎎ bid <mark style="color:blue;">\[셉트린]</mark>, clindamycin 300\~450 ㎎ tid\~qid <mark style="color:blue;">\[훌그램]</mark>
-* 중등도 (경험적) : 혼합균(G+ 및 혐기균) 가능성 고려
-  * amoxicillin/clavulanate 875/125 ㎎ bid <mark style="color:blue;">\[오구멘틴]</mark>, ampicillin-sulbactam 1.5\~3 g IV q6h <mark style="color:blue;">\[유나신 주]</mark>
-  * 다음 상황에서는 Gram(-)·Pseudomonas까지 포괄하는 광범위 경험적 요법 고려 : 최근 항생제 사용, 최근 입원, 만성 감염, 이전 배양에서 Gram(-) 분리력
-  * Pseudomonas는 열대 지역 거주, 장기간 족부 침수, 이전 배양에서 분리력이 있는 경우 등을 제외하면 경험적 커버 대상이 아님
-* MRSA 고위험 : linezolid 600 ㎎ bid <mark style="color:blue;">\[자이복스]</mark>, TMP-SMX(상동), clindamycin(상동), doxycycline 100 ㎎ bid
-  * TMP-SMX·doxycycline은 Streptococcus 커버가 불충분할 수 있어 필요 시 β-lactam 병용 고려
-* 투여 기간 : 피부/연조직 1\~2주(호전이 느리거나 광범위 감염에서는 3\~4주까지 연장 고려); 골 이환 6주(절단으로 감염골을 완전히 제거한 경우 2\~3주로 단축 가능)
-* 경험적 치료 시작 후에는 배양 결과에 따라 de-escalation
-* ✽위 용량은 정상 신기능 기준임; **신기능 저하 시 용량 조절 필요(☞** [**당뇨병 약물 치료**](101_-antidiabetics.md) **또는 약제 정보 참조)** - 특히 TMP-SMX, levofloxacin은 신기능 저하 시 용량 조절이 흔히 필요함
-
-### <mark style="color:orange;">발 관리 교육</mark>
-
-* 모든 당뇨병 환자에게 족부 궤양과 절단의 위험 인자를 확인하기 위해 매년 포괄적인 발 평가를 하고, 발 관리를 교육
-  * 10-g monofilament 검사(또는 Ipswich touch test) 이상 소견 + 다른 [신경학적 검사](102_-complications-of-diabetes.md#undefined-20)(pinprick, 온도 감각, 128 Hz 진동 감각 등) 중 하나 이상 이상 소견이면 LOPS( loss of protective sensation)로 판정
-* 매일 미지근한 물 + 중성 비누로 세족; 발가락 사이 완전히 건조
-* 건조 방지 보습제 도포 (발뒤꿈치 중점); 굳은살·티눈 자가 제거 금지
-* 발톱은 일자로 깎기; 맨발 금지 (실내에서도 양말·실내화 착용)
-* 꽉 끼거나 솔기가 있는 양말, 굽 높은/앞 좁은 신발 회피
-* 새 신발은 하루 1시간 이내로 시작; 매일 신발 내부 이물 확인
-* 매일 발 자가 점검; 발 손상·발적·부종·감각 이상 시 즉시 주치의 연락
-* 심하게 파행하거나, 발동맥의 맥박이 약하거나, 발목상완지수(ABI)가 0.9 이하인 경우 말초혈관조영검사 시행 \[제한적권고]
-* 당뇨병 족부 궤양은 다학제 접근 치료 시행
-
-#### <mark style="color:$primary;">발 관리 추적 주기</mark>
-
-<table><thead><tr><th width="357.1429443359375">위험 분류</th><th>추적 주기</th></tr></thead><tbody><tr><td>모든 당뇨병 환자 - 발 관찰</td><td>매 방문</td></tr><tr><td>LOPS(-) &#x26; PAD(-)</td><td>매년</td></tr><tr><td>LOPS(+) or PAD(+)</td><td>6~12개월</td></tr><tr><td>LOPS+PAD, LOPS+발 변형, PAD+발 변형</td><td>3~6개월</td></tr><tr><td>LOPS 또는 PAD + 궤양 과거력/절단/말기 신부전</td><td>1~3개월</td></tr><tr><td>Charcot 신경관절병증 과거력</td><td>1~3개월 (급성기 해소 후 정형외과 공동 추적)</td></tr></tbody></table>
-
-{% hint style="info" %}
-**WIfI 분류 및 신기술** \[ADA 2026]
-
-* WIfI 병기 분류(Wound, Ischemia, foot Infection) : 상처(Wound), 허혈(Ischemia), 발 감염(foot Infection)을 각각 0\~3등급으로 평가하여 병기를 결정하는 분류 체계. 당뇨병성 발 궤양 및 만성 사지위협허혈(CLTI) 환자에서 절단 위험과 궤양 치유 가능성을 예측하고 혈관재건술(revascularization)의 필요성과 우선순위를 결정하는 데 활용
-* 자가 발 온도 모니터링 : 스마트 매트, 인솔(깔창), 양말 형태의 온도 감지 기기를 이용해 좌우 발의 국소 온도 차이를 조기에 감지 - 궤양 발생에 앞서 나타나는 염증 반응을 미리 포착하여 재발성 궤양의 조기 발견에 도움을 줄 수 있는 신기술로 소개됨
-* 표준 치료 또는 수술적 처치에 반응하지 않는 당뇨발 궤양에서는 보조적 첨단 치료(advanced adjunctive therapy)의 역할이 강조됨
-{% endhint %}
+* 당뇨병성 족부궤양의 평생 발생률은 19\~34%, 연간 발생률은 약 2%이며, 말초신경병증·PAD·발 변형 등으로 생긴 궤양에 감염이 동반되면 심부 조직 감염·골수염·하지 절단으로 진행할 수 있다. \[IWGDF 2023]
+* 당뇨병성 족부궤양은 모두 세균이 집락화되어 있으나, 배양 양성만으로 감염을 진단하지 않고 임상 소견(발적·열감·부종·통증·농성 분비물 중 2개 이상)으로 진단한다. 괴저, 빠른 진행, 전신 이상 또는 허혈이 동반되면 즉시 병원 평가가 필요하다.
+* 상세 중증도 분류(IWGDF/IDSA 2023), Red Flags, 진단·치료, 발 관리 교육, 처방례·복약지도·환자 안내서는 (☞ [당뇨병성 족부감염](171_-diabetic-foot-infection.md)) 참조
 
 ***
 
@@ -700,7 +605,7 @@ E11.0 고삼투압성 혼수를 동반한 2형 당뇨병 (HHS)
 
 H36.0 당뇨병성 망막병증
 
-L98.4 만성 피부 궤양 (당뇨발 궤양)
+L98.4 달리 분류되지 않은 피부의 만성 궤양 — 비특이적 궤양 코드이며, 당뇨병성 족부궤양에서는 E10/E11.70·71·72 및 병변의 위치·깊이·감염 관련 추가 코드를 함께 검토 (☞ [당뇨병성 족부감염](171_-diabetic-foot-infection.md#질병코드))
 
 ***
 
@@ -748,13 +653,7 @@ L98.4 만성 피부 궤양 (당뇨발 궤양)
 >
 > _✽망막 미세혈관 투과성 개선 목적. 효과 근거는 제한적; 항-VEGF 주사·레이저 치료의 대체가 아닌 보조적 사용._
 
-> **처방례 6. 당뇨발 감염 - 경증 (경험적, G+ 중심)**
->
-> ```
-> Cephalexin 500 ㎎/cap (팔렉신)  1cap  qid  po
-> ```
->
-> _✽경증(Mild, IDSA/IWGDF grade 2) - 전신 반응 없고 국소 소견(홍반 ＜2 ㎝, 부종/경화, 압통 중 ≥2개)만 있는 경우; 신기능 정상 기준 용량이며 신기능 저하 시 조절 필요(101번 참조). Cephalexin 대신 amoxicillin/clavulanate 875/125 ㎎ bid도 1차 선택으로 고려 가능. 48\~72시간 내 재평가하여 호전 없으면 Moderate 이상 감염 기준 재검토 및 조기 의뢰._
+**당뇨병성 족부감염 처방례**는 (☞ [당뇨병성 족부감염](171_-diabetic-foot-infection.md#처방례)) 참조
 
 ***
 
@@ -776,21 +675,7 @@ L98.4 만성 피부 궤양 (당뇨발 궤양)
 
 ### <mark style="color:blue;">환자 안내서</mark>
 
-**당뇨 발(발 궤양·발 감염) 예방 수칙**
-
-매일 발을 점검하세요. 거울로 발바닥까지 확인하고, 혼자 보기 어려우면 가족에게 부탁하세요. 상처·물집·발적·부종·감각 변화가 있으면 즉시 담당 의사에게 알리세요.
-
-세족은 미지근한 물(40℃ 이하)로 매일 하고, 발가락 사이를 꼼꼼히 건조시키세요. 피부가 건조하면 보습제를 바르되 발가락 사이에는 바르지 마세요.
-
-발톱은 일자로 깎고, 끝을 둥글게 하지 마세요. 굳은살·티눈을 직접 자르거나 화학 물질로 제거하지 마세요.
-
-맨발로 다니지 마세요. 신경 손상으로 감각이 줄어들 수 있어서 상처를 못 느낄 수 있습니다. 여름철 뜨거워진 아스팔트나 백사장을 맨발로 걸으면 화상을 입어도 알아차리지 못할 수 있으니 특히 주의하세요. 집 안에서도 항상 양말과 실내화를 신으세요.
-
-신발은 발가락이 눌리지 않도록 앞코가 넉넉하고, 뒤꿈치를 안정적으로 잡아주며, 미끄럽지 않은 밑창을 고르세요. 신기 전에는 신발 안쪽에 거친 봉제선이나 이물질이 없는지 손으로 확인하고, 발이 붓기 쉬운 오후 시간에 신어보고 구매하는 것이 좋습니다. 땀을 잘 흡수하는 양말을 함께 착용하세요. 얇은 슬리퍼·샌들이나 너무 조이는 신발, 굽이 높고 코가 뾰족한 신발은 피하세요. 새 신발은 처음에는 하루 1시간 이내로 착용하고 서서히 늘리세요.
-
-발에 열을 직접 가하지 마세요. 전기방석·핫팩 등은 화상의 위험이 있습니다.
-
-혈당 조절이 최선의 발 예방책입니다. 지시된 약을 빠짐없이 복용하고, 금연·금주를 지키세요.
+**당뇨 발(발 궤양·발 감염) 예방 수칙**은 (☞ [당뇨병성 족부감염](171_-diabetic-foot-infection.md#환자-안내서)) 참조
 
 **당뇨병케토산증(DKA) 경고 증상**
 
