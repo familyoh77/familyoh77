@@ -51,6 +51,6 @@
 •Guideline for the Treatment of Androgenetic Alopecia. EDF (2017)\
 •Guidelines for management of androgenetic alopecia based on BASP classification. Asian Con. Commit (2013)\
 •Guidelines for the management of alopecia areata. BAD (2012)\
-•British Association of Dermatologists living guideline for managing people with alopecia areata (2024\~2025)\
+•British Association of Dermatologists Living Guideline for Alopecia Areata. BAD (2024)\
 •Sexually transmitted diseases treatment guidelines. CDC (2015)\
 •Sexually Transmitted Infections Treatment Guidelines, 2021. CDC — Genital Herpes/Scabies/Pediculosis Pubis
