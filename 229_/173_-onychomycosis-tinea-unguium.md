@@ -1,21 +1,16 @@
 # 손발톱백선증 Onychomycosis, Tinea Unguium
 
-![image](../.gitbook/assets/d5287e28-c27a-4c35-aa3d-8b2451a1b391.JPG)
-
 ## 원인
 
 ### 원인균
 
 * dermatophytes : Trichophyton (대부분. 특히 발톱)
-*   non-dermatophytes : 드묾
+* non-dermatophytes : 드묾
+  * molds : 고령에서 보다 흔함. 주로 엄지발톱 이환; Aspergillus, Fusarium
+  * yeasts : 손톱에 보다 흔함; C. albicans
+  * non-dermatophytes는 직업/환경적 요인과 관련이 있기 때문에 보다 치료하기 어려움
 
-    •molds : 고령에서 보다 흔함. 주로 엄지발톱 이환; Aspergillus, Fusarium
-
-    •yeasts : 손톱에 보다 흔함; C. albicans
-
-    •non-dermatophytes는 직업/환경적 요인과 관련이 있기 때문에 보다 치료하기 어려움
-
-※ nail dystrophy 환자의 50%가 fungus에 의한 것이 아님
+- [ ] nail dystrophy 환자의 50%가 fungus에 의한 것이 아님
 
 ### 위험 인자
 
@@ -29,11 +24,7 @@
 ## 임상 양상
 
 * 주로 원위부 또는 원위측부 이환
-
-> ```
-> ✽근위부만 이환된 경우는 외상 또는 면역 저하 상태를 고려
-> ```
-
+  * 근위부만 이환된 경우는 외상 또는 면역 저하 상태를 고려
 * 손톱의 혼탁/비후/부스러짐(onycholysis)
 * nail bed와의 분리
 * subungual hyperkeratosis
@@ -53,7 +44,7 @@
 * 배양 검사(위음성 30%), 조직 검사, PCR, fluorescence microscopy
 * 주의 : 검사 1주 전 국소 치료제 사용 중지
 
-> ✽육안으로 관찰되는 nail dystrophy의 50%는 조갑 백선이 아님
+- [ ] 육안으로 관찰되는 nail dystrophy의 50%는 조갑 백선이 아님
 
 ## 예후
 
@@ -69,16 +60,20 @@
 * 조갑의 백색/황색/갈색 줄
 * 면역저하자, 말초 혈행 장애
 
-> **Management**
+## **Management**
 
 ### 치료 방침
 
 * 장기 치료가 필요하며 재발이 흔함을 설명
 * 손발톱을 최대한 짧게 깎음
 * 외용제는 치료율이 높지 않음을 감안하여 사용 시 최대한 조갑을 얇게 갈아내고 도포
-*   경구제 사용 시 반드시 복용하고 있는 다른 약제와의 상호 작용을 확인
+* 경구제 사용 시 반드시 복용하고 있는 다른 약제와의 상호 작용을 확인
 
-    ![image](../.gitbook/assets/cb2d3eab-e5ab-4bb1-94d4-bf3c5bdaa7e9.JPG)
+
+
+
+
+![image](../.gitbook/assets/cb2d3eab-e5ab-4bb1-94d4-bf3c5bdaa7e9.JPG)
 
 ## 약물 치료
 
@@ -98,13 +93,9 @@
 
 * 장점 : Candida 및 molds에 대하여 타 제제보다 효과적. fluconazole에 비하여 넓은 적응증
 * 음식/탄산음료와 함께 복용 시 흡수 증가 (✽산성에서 흡수 향상)
-*   약물 상호 작용 : CYP3A4 억제; 항부정맥제, 당뇨병제, statin, CCB, hydrochlorothiazide, steroid, 경구 피임제, warfarin,
-
-    ergot, benzodiazepine, zolpidem
+* 약물 상호 작용 : CYP3A4 억제; 항부정맥제, 당뇨병제, statin, CCB, hydrochlorothiazide, steroid, 경구 피임제, warfarin, ergot, benzodiazepine, zolpidem
 * 부작용 : 간 독성, 심부전, 부종, 비염
-*   주기 요법 : 200 ㎎ bid 1주 복용 후 3주 휴약하는 것을 1주기로 하여 손톱 2주기, 발톱 3(\~4)주기 치료;
-
-    지속 요법 대비 동등 이상 효과
+* 주기 요법 : 200 ㎎ bid 1주 복용 후 3주 휴약하는 것을 1주기로 하여 손톱 2주기, 발톱 3(\~4)주기 치료; 지속 요법 대비 동등 이상 효과
 * 지속 요법 : 200 ㎎ qd; 손톱 6\~8주, 발톱 12주 \[스포라녹스]
 
 #### Fluconazole
@@ -119,9 +110,7 @@
 ### 국소 항진균제 (네일라카)
 
 * 효과 : 단독 사용 시 효과 낮음; 경구제에 병용하여 약간(\~10%)의 치료율 상승을 기대
-*   대상 : 1\~2개 조갑판의 원위 ＜50% 이환, 경구제 복용이 곤란한 상태(예: 상호 작용이 있는 약물 복용 중),
-
-    경구제 치료 후 재발 예방
+* 대상 : 1\~2개 조갑판의 원위 ＜50% 이환, 경구제 복용이 곤란한 상태(예: 상호 작용이 있는 약물 복용 중), 경구제 치료 후 재발 예방
 * 주의 : (손상된) 피부에 대한 약물 접촉을 피함
 * 용법 : 1일 1회 ×\~48주; 7일마다 알코올로 약제 제거 및 두꺼워진 발톱의 윗면을 갈아내고 도포
 * ciclopirox 8% : 치료율 10%; qod\~2/wk \[로푸록스]
@@ -130,10 +119,17 @@
 
 ## 예방
 
-```
-(☞ p.927)
-```
+(☞ [피부백선증](172_-dermatophytosis-tinea.md#undefined-23))
 
-> **질병코드** B35.1 손발톱백선
+### **질병코드**&#x20;
 
-![image](../.gitbook/assets/95f56fc8-7c53-447f-be6c-5b90ccf83498.JPG)
+B35.1 손발톱백선
+
+## 처방례
+
+처방례 1. 발톱백선\
+이트라코나졸 100 ㎎/T 4T #2 ×1주 (3주기)\
+처방례 2. 손톱백선\
+스포라녹스 100 ㎎/C 4C #2 ×1주 (2주기)\
+처방례 3. 간 장애 시\
+푸루나졸 150 ㎎/T 1T 주 1회
