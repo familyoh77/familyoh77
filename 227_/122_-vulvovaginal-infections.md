@@ -108,7 +108,7 @@ _✽건강한 여성의 약 10\~20%에서 Candida가 무증상으로 colonizatio
 
 ### <mark style="color:orange;">검사</mark>
 
-* pH test : 칸디다증 4\~4.5(정상 질 pH 범위 내), 세균성 질증 ＞4.5, 편모충증 5\~6; 비특이적 소견으로 단독 진단에는 한계
+* pH test : 칸디다증은 대개 정상 질 pH 범위(<4.5), 세균성 질증 ＞4.5, 편모충증은 흔히 ＞4.5; pH 상승 시 BV·트리코모나스·혼합감염 등을 고려하되 비특이적 소견이므로 단독 진단에는 한계
 * 그람염색에 기초한 Nugent score(0\~10점, 표준 정량 채점법) : BV 진단의 참고표준(reference standard); Hay-Ison criteria(등급 분류법)는 유럽권에서 주로 사용되는 대안적 등급 분류법; Amsel's criteria는 임상에서 간편하게 사용할 수 있는 진단 기준
 * 배양 검사 : polymicrobial infection이 흔하므로 BV 진단을 위한 일상적 배양 검사는 권고하지 않음(단, 재발성 칸디다증에서 균종 확인 목적의 배양은 권고)
 * 질 분비물 saline-solution specimen 현미경 검사 : 움직이는 T. vaginalis 또는 clue cell 관찰
@@ -140,7 +140,7 @@ graph TD
     RedFlag -- "해당없음" --> Exam["질경 검사 + 분비물 현미경(saline/KOH)<br>± NAAT — pH는 보조 검사일 뿐<br>혼합 감염·경부염 동반 가능성 고려"]
     Exam --> pH["질 분비물 pH 및 KOH whiff test"]
     pH --> BVpath["pH＞4.5 + Amsel ≥3<br>(균질 분비물, clue cell,<br>fishy odor)"]
-    pH --> Candidapath["pH 4\~4.5(정상) +<br>치즈 모양 분비물,<br>KOH상 pseudohyphae"]
+    pH --> Candidapath["pH＜4.5(대개 정상) +<br>치즈 모양 분비물,<br>KOH상 pseudohyphae"]
     pH --> TVpath["pH＞4.5 + 거품성 분비물,<br>saline 검경 motile TV<br>또는 NAAT 양성"]
     pH --> Atrophypath["폐경/저에스트로겐 상태 +<br>건조·위축 소견,<br>악취 없음"]
     BVpath --> BVtx["세균성 질증 치료<br>(metronidazole/clindamycin)"]
@@ -216,7 +216,7 @@ graph TD
 
 ### <mark style="color:orange;">음문질 칸디다증(Vulvovaginal Candidiasis)</mark>
 
-* 무증상 여성 및 남성 파트너에 대한 치료는 권고하지 않음
+* 무증상 질 집락 및 무증상 성 파트너에 대한 치료는 권고하지 않음; 증상이 있는 남성 파트너는 칸디다 귀두포피염 여부를 평가·치료
 
 #### <mark style="color:$primary;">Uncomplicated</mark>
 
@@ -253,7 +253,7 @@ graph TD
 
 #### <mark style="color:$primary;">Recurrent VVC(RVVC)</mark>
 
-* 정의 : 1년 이내 증상성 VVC ≥3회(배양 검사를 통한 매 삽화 확진 권고) [CDC 2021]
+* 정의 : 1년 이내 증상성 VVC ≥3회 [CDC 2021]; RVVC 진단 시 vaginal culture 또는 PCR로 균종을 확인하고, 이후 비전형적 재발·치료 실패 시 재검사를 고려(모든 삽화에서 배양을 의무화하지 않음)
 * 유도 치료(mycologic remission 목표) : 국소 azole계 7\~14일, 또는 fluconazole 150 ㎎ PO 3일 간격 3회(1, 4, 7일)
 * 유지 치료(유도 치료 후 시작) : fluconazole 150 ㎎ PO 주 1회 ×6개월; 경구 유지가 어려운 경우 국소제 간헐 사용 고려; 약제 중단 후 재발이 흔함\
   ✽모든 환자에게 정기적 간기능 검사가 필수는 아니나, 간질환 병력이 있거나 간독성이 의심되는 증상(황달, 심한 피로감 등)이 발생하면 간기능 검사를 고려
@@ -297,7 +297,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+### <mark style="color:red;">질병코드 (KCD)</mark>
 
 A59.00 편모충성 외음질염
 
