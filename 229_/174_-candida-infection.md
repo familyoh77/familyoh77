@@ -1,7 +1,5 @@
 # 칸디다 감염 Candida Infection
 
-![image](../.gitbook/assets/550b89e5-1aea-4475-b0e6-8252987f4b1b.JPG)
-
 ## 일반 사항
 
 * 칸디다 균주들에 의한 heterogeneous infection
@@ -45,7 +43,7 @@
 
 ### 피부
 
-* 질환 : 모낭염, 피부 백선(☞ p.923), 기저귀 피부염, intertrigo, 조갑백선, 손발톱 주위염(☞ p.936)
+* 질환 : 모낭염, [피부백선](172_-dermatophytosis-tinea.md), 기저귀 피부염, intertrigo, [손발톱백선](173_-onychomycosis-tinea-unguium.md), [손발톱주위염](176_-paronychia.md)
 * 위험 인자 : 습함, 외상(긁기), 기저귀 교체 지연, 환자와의 접촉
 
 ### 외음부
@@ -57,12 +55,10 @@
 #### 귀두염 (Balanitis)
 
 * 귀두와 포피의 염증
-*   경증 : 약간의 발적, 미란
-
-    •치료 : 국소 nystatin 연고, Al acetate 희석액 soaking(15분 bid)
-*   중증 화농성 : 세균 의심(혐기성 균 포함)
-
-    •치료 : 경구 항생제
+* 경증 : 약간의 발적, 미란
+  * 치료 : 국소 nystatin 연고, Al acetate 희석액 soaking(15분 bid)
+* 중증 화농성 : 세균 의심(혐기성 균 포함)
+  * 치료 : 경구 항생제
 * 만성 재발성 : (특히 성 접촉 후 재발 시) 성 파트너로부터의 재감염 의심
 
 ## 예방
