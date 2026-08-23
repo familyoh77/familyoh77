@@ -116,29 +116,39 @@
 
 18. 교육 : anaphylaxis 인지 및 치료 방법에 대하여 환자 및 가족 교육
 19. 자가 주입 Epinephrine 준비 : anaphylaxis를 경험한 환자 또는 중증 anaphylaxis 위험이 있는 환자는 2회분의 자가 주사 epinephrine을 준비. 환자 및 가족은 사용법 숙지 \[젝스트 프리필드펜 주]\(300 ㎍-성인용, 150 ㎍-소아용)
-20. Anaphylaxis action plan : 환자에게 epinephrine 투여 시기와 방법에 대한 action plan을 제공
+20. Anaphylaxis action plan : 환자에게 epinephrine 투여 시기와 방법에 대한 action plan을 제공 ([자가주사에피네프린사용법](http://www.allergy.or.kr/mail/img/card_2017.pdf))
 
-    ([대한천식알레르기학회 교육자료](http://www.allergy.or.kr/mail/img/card_2017.pdf)[)](http://www.allergy.or.kr/mail/img/card_2017.pdf))
 
-    ![image](../.gitbook/assets/f18521b3-f407-48ac-aa80-ba906375466e.JPG)
+
+
+
+![Anaphylaxis의 Initial management](../.gitbook/assets/f18521b3-f407-48ac-aa80-ba906375466e.JPG)
 
 ## 예방
 
 * 약물 사용 주의 : 유사 계열 약물 사용 주의 (예: penicillin & cephalosporin)
-*   야외 활동 시 다음을 피함 : 맨발, 향기 나는 화장품, 곤충이 많은 지역에서의 식사, (보호 장구 없이) 울타리 또는 풀 제거,
-
-    과일 또는 쓰레기를 멀리 운반
+* 야외 활동 시 다음을 피함 : 맨발, 향기 나는 화장품, 곤충이 많은 지역에서의 식사, (보호 장구 없이) 울타리 또는 풀 제거, 과일 또는 쓰레기를 멀리 운반
 * 자신의 과민 반응 정보를 기록한 팔찌 착용, 휴대용 epinephrine 주사 준비
 * 유발 의심 물질 검사 : prick 또는 scratch skin test; IgE와 관련 없는 경우에는 유용하지 않음
-*   이전에 조영제에 반응이 있었던 사람들에게 이를 다시 시행해야 하는 경우나 화학요법 등을 시행할 때 관련 반응 또는
+* 이전에 조영제에 반응이 있었던 사람들에게 이를 다시 시행해야 하는 경우나 화학요법 등을 시행할 때 관련 반응 또는 아나필락시스를 예방하기 위하여 사전에 steroid &/or 항히스타민제를 투여할 수 있음
 
-    아나필락시스를 예방하기 위하여 사전에 steroid &/or 항히스타민제를 투여할 수 있음
+### **질병코드**&#x20;
 
-> **질병코드** T78.2 상세불명의 아나필락시스쇼크
+T78.2 상세불명의 아나필락시스쇼크
 
 T78.0 음식의 유해작용으로 인한 아나필락시스쇼크
 
-![image](../.gitbook/assets/aa596177-1529-44a0-9999-6cd472766012.JPG)
+
+
+## 처방례
+
+처방례\
+에피네프린 주 (1 ㎎/㎖) 0.5 ㎖ 대퇴부 전외측 중간 부위 주사, 필요시 반복\
+페니라민 주 4 ㎎/A 1A IV, (경구 섭취가 가능한 경우 지르텍 10 ㎎/T 1T PO)\
+벤토린 네뷸라이저 : 벤토린 1A(2.5 ㎎) + saline 3 ㎖ 고려; 필요시 15분마다 재투여\
+메치솔 주 125 ㎎/V 1V IV
+
+
 
 \[\*\*보험기준] Epinephrine bitartrate 주사제 \[젝스트 프리필드펜주] \*\*(2020-01-01)
 
