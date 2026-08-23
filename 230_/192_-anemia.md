@@ -1,7 +1,5 @@
 # 빈혈 Anemia
 
-![image](../.gitbook/assets/736a38a0-235b-4c9a-b861-213d9cae19f2.JPG)
-
 ## 일반 사항
 
 * WHO 진단 기준 \[Hb] : 성인 남 ＜13 g/㎗, 여 ＜12 g/㎗
@@ -37,9 +35,7 @@
 
 ## 임상 양상
 
-*   종종 무증상 : 서서히 진행되는 경우 심해지기 전까지는(Hb ＜7\~8 g/㎗) 자각 증상 없음(특히 젊은층); 지속되면 전신의
-
-    심각한 문제를 일으킴
+* 종종 무증상 : 서서히 진행되는 경우 심해지기 전까지는(Hb ＜7\~8 g/㎗) 자각 증상 없음(특히 젊은층); 지속되면 전신의 심각한 문제를 일으킴
 * 피로, 무기력, 운동 능력 저하, 빈호흡, 빈맥(특히 운동 시)
 * 어지럼(lightheadedness), 두통, 불안정, 집중력 장애
 * 입마름, 수족 냉증, 월경 이상
@@ -68,21 +64,29 @@
 
 ### Hypoproliferative Anemia 감별
 
-```
-![image](images/5d227c00-e0e6-4d3e-a44d-d91bda000ad9.JPG)
-```
+| 검사 항목           | 철 결핍              | 염증         | 신질환        | 대사 저하      |
+| --------------- | ----------------- | ---------- | ---------- | ---------- |
+| 빈혈 정도           | 경증\~중증            | 경증         | 경증\~중증     | 경증         |
+| MCV (fL)        | 60\~90            | 80\~90     | 90         | 90         |
+| 모양              | normo\~microcytic | normocytic | normocytic | normocytic |
+| s-Iron          | <30               | 50         | 정상         | 정상         |
+| TIBC            | >360              | <300       | 정상         | 정상         |
+| Saturation rate | <10               | 10\~20     | 정상         | 정상         |
+| s-Ferritin      | <15               | 30\~200    | 115\~150   | 정상         |
+
+_<mark style="color:$info;">Ref. Iron deficiency and other hypoproliferative anemias Table 93-6. In: Harrison Internal medicine 20th Ed.</mark>_
 
 ### RBC 용적에 따른 감별
 
-```
-![image](images/83e5d5a0-3dff-44ff-a7ec-c157b0a23bc4.JPG)
-```
+<table><thead><tr><th width="157">적혈구 크기</th><th>Normal RDW</th><th>High RDW</th></tr></thead><tbody><tr><td>Microcytosis <br>(MCV &#x3C;80 fL)</td><td>thalassemia, 만성 질환, 일부 혈색소병증</td><td>철결핍성, thalassemia, Hb H Dz, 일부 만성 질환, fragmentation hemolysis</td></tr><tr><td>Normocytosis <br>(MCV 80~100 fL)</td><td>만성 질환, 급성 출혈, hereditary spherocytosis, 일부 혈색소병증</td><td>부분 치료된 철 결핍 또는 Vit 결핍, sickle cell Dz</td></tr><tr><td>Macrocytosis <br>(MCV >100 fL)</td><td>aplastic anemia, 일부 myelodysplasias</td><td>알코올 남용, 간질환, Vit B12 or folate 결핍, 갑상선 질환, autoimmune hemolytic anemia, cold agglutinin Dz, 일부 myelodysplasias</td></tr></tbody></table>
+
+_RDW=red cell distribution width; MCV=mean corpuscular volume_\
+_<mark style="color:$info;">Ref. Practical diagnosis of hematologic disorders Table 1.4. American Society for Clinical Pathology. 2006.</mark>_
 
 ### 선별 검사
 
-*   청소년 및 가임기 여성 : 5\~10년마다 Hb 또는 Hct 검사
-
-    •다음의 경우 매년 검사 : 과다 월경, 적은 철분 섭취, 철분 결핍 병력
+* 청소년 및 가임기 여성 : 5\~10년마다 Hb 또는 Hct 검사
+  * 다음의 경우 매년 검사 : 과다 월경, 적은 철분 섭취, 철분 결핍 병력
 * 임신 여성 : 첫 방문 시 검사
 * 남성 및 폐경기 여성 : 규정된 선별 검사 일정 없음
 
@@ -90,18 +94,10 @@
 
 ## ￭ 철결핍빈혈 Iron Deficiency Anemia
 
-```
-(☞ p.1026)
-```
+(☞ [철결핍빈혈](193_-iron-deficiency-anemia.md))
 
 * hypochromic microcytic anemia; 가장 흔한 빈혈 형태
-*   혈청 ferritin ＜15 ng/㎖
-
-    TIBC ＞360 ㎍/㎗
-
-    혈청 Fe ＜30 ㎍/㎗
-
-    transferrin saturation rate(=혈청 철÷TIBC) ＜10%
+* 혈청 ferritin ＜15 ng/㎖, TIBC ＞360 ㎍/㎗, 혈청 Fe ＜30 ㎍/㎗, transferrin saturation rate(=혈청 철÷TIBC) ＜10%
 
 ##
 
@@ -119,9 +115,7 @@
 #### 기전
 
 * functional iron 결핍 → RBC 생산 감소
-*   proinflammatory cytokine(IL, TNF, BMP, INF; 만성 질환에서 출현) → iron homeostasis 변화, erythropoietin 생성 및 작용
-
-    억제, hepcidin 생성 증가(장내 철분 흡수 방해)
+* proinflammatory cytokine(IL, TNF, BMP, INF; 만성 질환에서 출현) → iron homeostasis 변화, erythropoietin 생성 및 작용 억제, hepcidin 생성 증가(장내 철분 흡수 방해)
 * inflammatory cytokine에 의한 erythrophagocytosis 증가, oxidative damage, RBC 수명 단축
 
 #### 원인 또는 위험 인자
@@ -142,7 +136,9 @@
 * Vit B12, folate : 감소(섭취/흡수 저하)
 * reticulocyte count : 감소(reticulocyte index ＜20,000\~25,000/㎕)
 
-Management
+***
+
+## **Management**
 
 #### Erythropoietin stimulating agent(ESA)
 
@@ -176,17 +172,13 @@ Management
 * CNS의 myelination 및 기능 유지에 필수 요소
 * 1일 요구량 3~~5 ㎍, 체내 저장량 2~~5 ㎎(약 3년 필요량에 해당)
 * 흡수 과정 : 위산에 의해 음식에서 분해되고 내인자에 결합되어 회장 말단부에서 흡수
-*   결핍 시 영향 : 빈혈(서서히 진행; megaloblastic anemia), methylmalonic acid↑(신경막에 영향을 미치는 fatty acid 합성
-
-    이상), homocysteine↑(신경 독성), 심한 경우 골수 기능 장애(WBC↓, 혈소판↓)
+* 결핍 시 영향 : 빈혈(서서히 진행; megaloblastic anemia), methylmalonic acid↑(신경막에 영향을 미치는 fatty acid 합성 이상), homocysteine↑(신경 독성), 심한 경우 골수 기능 장애(WBC↓, 혈소판↓)
 * 유병률 : 1~~2%; 고령- 10~~15%
 
 ### 원인
 
 * 섭취 부족 : 엄격한 채식주의자
-*   위장관 이상(흡수 장애 유발) : 내인자 결핍(pernicious anemia), 위축성 위염, 무위산증, 제산제/위산 분비 억제제 장기 복용,
-
-    전위 절제술, 회장 말단부 절제, 크론병, 췌장 이상, 기생충 감염
+* 위장관 이상(흡수 장애 유발) : 내인자 결핍(pernicious anemia), 위축성 위염, 무위산증, 제산제/위산 분비 억제제 장기 복용, 전위 절제술, 회장 말단부 절제, 크론병, 췌장 이상, 기생충 감염
 * 흡수를 저해하는 약물의 장기 투여 : PPI, H2 차단제, metformin, neomycin
 * 복합 : 음주, 고령
 
@@ -195,9 +187,8 @@ Management
 * 피로, 허약, 창백, 우울
 * 설염 : 혀가 밋밋해지고 붉어지며 통증, 미각 이상
 * 위장 장애 : 식욕 부진, 설사
-*   신경 장애 : 감각 이상, 조화 운동 불능/낙상, 반사 저하, 근육 긴장 저하, 신경정신 이상, 치매
-
-    •6개월 내 치료가 이루어지면 CNS 증상은 회복될 수 있음
+* 신경 장애 : 감각 이상, 조화 운동 불능/낙상, 반사 저하, 근육 긴장 저하, 신경정신 이상, 치매
+  * 6개월 내 치료가 이루어지면 CNS 증상은 회복될 수 있음
 
 ### 진단
 
@@ -218,15 +209,12 @@ Management
 ### Cobalamin
 
 * 경구제 : methylcobalamin 0.5 ㎎ tid \[메치코발]
-*   주사제 : 중증에서 고려; IM or deep SC (IV는 금지); cobamamide \[액티나마이드 주]
+* 주사제 : 중증에서 고려; IM or deep SC (IV는 금지); cobamamide \[액티나마이드 주]
+  *   1회 100~~1000 ㎍을 qd ×6~~7d → 임상적 호전 및 reticulocyte 반응이 있으면 격일 ×7회
 
-    •1회 100~~1000 ㎍을 qd ×6~~7d → 임상적 호전 및 reticulocyte 반응이 있으면 격일 ×7회
-
-    → 3~~4일 마다 ×2~~3wk (이 시기에 보통 hematologic value가 정상화됨) → 월 1회 유지
-
-    •또는 100\~1000 ㎍을 1주간 매일 → 1달간 매주 → 이후 매달 투여
-
-    •주사제로 교정 후 경구제로 이어갈 수 있음; mecobalamin 0.5 ㎎ bid
+      → 3~~4일 마다 ×2~~3wk (이 시기에 보통 hematologic value가 정상화됨) → 월 1회 유지
+  * 또는 100\~1000 ㎍을 1주간 매일 → 1달간 매주 → 이후 매달 투여
+  * 주사제로 교정 후 경구제로 이어갈 수 있음; mecobalamin 0.5 ㎎ bid
 
 ### 모니터링
 
@@ -247,9 +235,7 @@ Management
 ### 원인
 
 * 엽산 필요량↑/소실↑ : 임신, 수유, 건선, 암, 만성 용혈, IBD, homocystinuria, 소변 소실 과다(예: CHF, 활동성 간질환)
-*   엽산 섭취↓/흡수↓ : 고령, 알코올 남용, 너무 익힌 음식, gluten induced enteropathy, 셀리악병, IBD, short bowel syndrome;
-
-    Vit B12 결핍에 의한 위장 점막 megaloblastosis
+* 엽산 섭취↓/흡수↓ : 고령, 알코올 남용, 너무 익힌 음식, gluten induced enteropathy, 셀리악병, IBD, short bowel syndrome; Vit B12 결핍에 의한 위장 점막 megaloblastosis
 * 약물 : 항경련제(예: phenytoin, barbiturate), DMARD, nitrofurantoin, trimethoprim
 
 ### 임상 양상
@@ -276,11 +262,13 @@ Management
 *   확진이 되지 않은 경우 저용량 folate(0.1 ㎎/d)를 투여하고 72시간 후 혈액학적 반응을 평가;
 
     활발한 reticulocytosis는 5\~7일 후, 혈액학적 정상화는 2개월 후 이루어짐(Vit B12 교정 때와 유사)
-*   주의 : Vit B12 결핍 환자에서 folate 투여가 혈액학적 반응을 만들어 신경 손상의 진행을 차폐할 수 있으므로 엽산 투여 시
+* 주의 : Vit B12 결핍 환자에서 folate 투여가 혈액학적 반응을 만들어 신경 손상의 진행을 차폐할 수 있으므로 엽산 투여 시 Vit B12 검사가 필요(검사가 나올 때까지 Vit B12를 병용)
 
-    Vit B12 검사가 필요(검사가 나올 때까지 Vit B12를 병용)
 
-> **질병코드** D63 달리 분류된 만성 질환에서의 빈혈
+
+**질병코드**&#x20;
+
+D63 달리 분류된 만성 질환에서의 빈혈
 
 E53.8 기타 명시된 비타민 B군의 결핍증
 
