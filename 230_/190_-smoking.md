@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-<figure><img src="../.gitbook/assets/흡연2.jpg" alt=""><figcaption><p><a href="https://www.cancer.go.kr/lay1/S1T204C205/contents.do"><strong>국가암지식정보센터</strong></a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/흡연2.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">흡연의 영향</mark>
 
