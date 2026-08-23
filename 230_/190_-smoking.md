@@ -2,6 +2,8 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
+<figure><img src="../.gitbook/assets/흡연2.jpg" alt=""><figcaption><p><a href="https://www.cancer.go.kr/lay1/S1T204C205/contents.do"><strong>국가암지식정보센터</strong></a></p></figcaption></figure>
+
 ### <mark style="color:orange;">흡연의 영향</mark>
 
 * 지속 흡연은 기대수명을 약 10년 단축할 수 있으며, 금연은 연령과 관계없이 조기사망 위험을 낮춘다.
