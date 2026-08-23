@@ -1,7 +1,5 @@
 # 이하선염 Parotitis
 
-![image](../.gitbook/assets/a5b593af-de69-4520-afb0-95729303914a.JPG)
-
 ## 일반 사항
 
 * 여러 가지 원인에 의한 이하선의 염증
@@ -28,9 +26,7 @@
 #### 바이러스
 
 * 전신 감염으로 시작 → 이하선에 localize → 이하선 염증 및 부종 발생 → 직접 접촉, 공기 전염
-*   원인균 : paramyxovirus, parainfluenza virus types 1 & 3, influenza A, coxsackie virus, Epstein-Barr virus(EBV) ,
-
-    cytomegalovirus(CMV), adenovirus (☞ p.1042)
+* 원인균 : paramyxovirus, parainfluenza virus types 1 & 3, influenza A, coxsackie virus, Epstein-Barr virus(EBV), cytomegalovirus(CMV), adenovirus (☞ [볼거리](197_-mumps.md))
 * 소아 이하선염의 가장 흔한 원인
 * 전구 증상 : malaise, 식욕 부진, 두통, 근육관절통, 발열
 * 보통 양측 이환
@@ -74,9 +70,7 @@
 
 #### 약물
 
-*   항콜린제, 항히스타민제, 이뇨제, TCA, 요오드(조영제), 항정신병제(특히 phenylbutazone, thioridazine, clozapine),
-
-    L-asparaginase
+* 항콜린제, 항히스타민제, 이뇨제, TCA, 요오드(조영제), 항정신병제(특히 phenylbutazone, thioridazine, clozapine), L-asparaginase
 
 #### 기타
 
@@ -116,19 +110,12 @@
 
 ### 항생제
 
-1.  Staphylococcus 에 대한 경험적 선택으로 7\~10일간 치료; 적절한 수분 공급 및 항생제 치료 시 48시간 내 완화 시작
-
-    (☞ p.901)
-
-•dicloxacillin : 500 ㎎ qid
-
-•cephalexin : 500 ㎎ qid \[팔렉신]
-
-2. 5\~7일 내 호전되지 않으면 duct 분비물로 배양 검사, 결과가 나올 때까지 다른 항생제 투여
-
-•amoxicillin/clav. : amox 875 ㎎ bid \[아모크라 듀오]
-
-•clindamycin : 300\~450 ㎎ qid \[훌그램]
+1. Staphylococcus 에 대한 경험적 선택으로 7\~10일간 치료; 적절한 수분 공급 및 항생제 치료 시 48시간 내 완화 시작 (☞ [피부감염](../229_/165_-skin-and-soft-tissue-infection.md#undefined-14))
+   * dicloxacillin : 500 ㎎ qid
+   * cephalexin : 500 ㎎ qid \[팔렉신]
+2. 5\~7일 내 호전되지 않으면 duct 분비물로 배양 검사, 결과가 나올 때까지 다른 항생제 투
+   * amoxicillin/clav. : amox 875 ㎎ bid \[아모크라 듀오]
+   * clindamycin : 300\~450 ㎎ qid \[훌그램]
 
 * 화농성 이하선염에 대해서는 nafcillin, vancomycin 등의 주사제 치료(의뢰 고려)
 
@@ -139,6 +126,19 @@
 * cortisone irrigation : juvenile recurrent parotitis에서 sialendoscopy를 이용하여 시행
 * duct ligation, ductoplasty, parotidectomy, sclerotherapy : 만성, 재발성에서 고려
 
-> **질병코드** K11.2 타액선염
 
-![image](../.gitbook/assets/0fc29bbf-8a25-400a-a22a-87e2d5d03c5b.JPG)
+
+### 질병코드&#x20;
+
+K11.2 타액선염
+
+
+
+## 처방례
+
+처방례 1.\
+팔렉신 500 ㎎/C 4C #4\
+부루펜 200 ㎎/T 4T #4\
+처방례 2.\
+오구멘틴 625 ㎎/T 3T #3\
+애니펜 300 ㎎/T 3T #3
