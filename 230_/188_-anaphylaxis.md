@@ -6,11 +6,10 @@
 * IgE 매개 알레르기뿐 아니라 비-IgE 매개 기전으로도 발생할 수 있으므로, '감작된 사람에서 특정 항원에 노출된 경우'로 한정하지 않는다.
 * 치료의 핵심은 조기 인지와 신속한 대퇴부 근육주사 epinephrine이다. 진단기준을 완전히 충족할 때까지 투여를 미루지 않는다.
 * 평생 유병률은 미국 자료에서 약 1.6\~5.1%로 보고되지만, 연구 대상과 진단기준에 따라 차이가 크다.
-* **Biphasic anaphylaxis** : 초기 증상이 완전히 소실된 후 원인 물질에 재노출되지 않았는데 1\~48시간 이내 아나필락시스가 다시 발생하는 경우. 이 챕터의 기본 지침인 ASCIA 2026은 초기 아나필락시스의 **3\~20%**에서 48시간 이내 발생한다고 기술한다. 다른 체계적 문헌고찰과 진료지침에는 약 0.4\~20%, 중앙값 약 6.5%로 보고되어 연구 정의와 대상에 따른 차이가 크다. 중증 초기 반응과 2회 이상의 epinephrine 투여는 중요한 위험 인자이다.
+* **Biphasic anaphylaxis** : 초기 증상이 완전히 소실된 후 원인 물질에 재노출되지 않았는데 1\~48시간 이내 아나필락시스가 다시 발생하는 경우. 이 챕터의 기본 지침인 ASCIA 2026은 초기 아나필락시스의 \*\*3\~20%\*\*에서 48시간 이내 발생한다고 기술한다. 다른 체계적 문헌고찰과 진료지침에는 약 0.4\~20%, 중앙값 약 6.5%로 보고되어 연구 정의와 대상에 따른 차이가 크다. 중증 초기 반응과 2회 이상의 epinephrine 투여는 중요한 위험 인자이다.
 
 {% hint style="info" %}
-**이 챕터의 근거 틀**\
-급성치료와 의료기관용 알고리듬은 **ASCIA Guidelines for Acute Management of Anaphylaxis 2026**을 기본으로 하였다. 정의·진단·tryptase·자가주사기·응급의료체계 활성화는 WAO 2020 및 AAAAI/ACAAI 2023을, 항히스타민제·glucocorticoid·이중반응과 관찰은 AAAAI/ACAAI 2020 GRADE를 함께 반영하였다.
+**이 챕터의 근거 틀** : 급성치료 등은 [**ASCIA Guidelines for Acute Management of Anaphylaxis 2026**](https://www.allergy.org.au/hp/anaphylaxis/acute-management-guidelines)을 기본으로 하였음. 정의·진단·tryptase·자가주사기·응급의료체계 활성화는 WAO 2020 및 AAAAI/ACAAI 2023을, 항히스타민제·glucocorticoid·이중반응과 관찰은 AAAAI/ACAAI 2020 GRADE를 함께 반영하였음
 {% endhint %}
 
 ## <mark style="color:green;">원인</mark>
@@ -105,7 +104,7 @@
 ***
 
 ```mermaid
-flowchart LR
+flowchart TD
     subgraph I["초기 대응"]
         A["아나필락시스 의심<br/>피부 증상이 없어도 가능"] --> B["눕히기 · 원인 노출 중단<br/>도움 요청 및 119"]
         B --> C["Epinephrine IM<br/>0.01 mg/kg, 최대 0.5 mg"]
@@ -174,7 +173,7 @@ flowchart LR
 * epinephrine infusion이 시작될 때까지 생명을 위협하는 증상이 지속하면 epinephrine IM을 5분마다 반복한다.
 * **저용량 IV/IO epinephrine infusion 예시(ASCIA 2026)**
   * epinephrine 1 mg(1 mg/mL 1 mL) + NaCl 0.9% 100 mL, 즉 10 μg/mL로 조제
-  * **0.5 mL/kg/hr(약 0.083 μg/kg/min)**로 시작하여 임상반응에 따라 적정
+  * \*\*0.5 mL/kg/hr(약 0.083 μg/kg/min)\*\*로 시작하여 임상반응에 따라 적정
   * infusion pump와 전용 정맥로를 사용하고, 다른 수액에 piggyback하지 않는다. 혈압계 cuff와 같은 팔의 정맥로는 피한다.
   * 지속 ECG·SpO₂와 빈번한 혈압 측정이 필수이다. 빈맥, 부정맥, 고혈압, 심근허혈 및 혈관 외 유출을 감시한다.
 * **비-3차 의료기관용 대체 희석법(ASCIA 2026)**
@@ -225,7 +224,7 @@ flowchart LR
 * 안정화 후 지속되는 가려움·두드러기에는 cetirizine 10 ㎎ PO 등 비진정성 H1-antihistamine을 고려한다. 진정성 경구 항히스타민제는 졸림이 아나필락시스 진행 소견과 혼동될 수 있다.
 * 급속 IV chlorpheniramine은 저혈압을 악화시킬 수 있다. 피부증상 완화 이외의 목적으로 정기 투여하지 않는다.
 * **Corticosteroid의 급성 아나필락시스 치료효과와 이중반응 예방효과는 입증되지 않았다.** routine 투여나 퇴원 후 정기 처방을 권고하지 않는다.
-* 초기 소생술 후에도 지속되는 천식성 bronchospasm 또는 난치성 반응에서는 보조적으로 **prednisone/prednisolone PO 1 ㎎/kg(최대 50 ㎎)** 또는 **hydrocortisone IV 5 ㎎/kg(최대 200 ㎎)**을 고려할 수 있으나 epinephrine infusion과 수액보다 우선하지 않는다.
+* 초기 소생술 후에도 지속되는 천식성 bronchospasm 또는 난치성 반응에서는 보조적으로 **prednisone/prednisolone PO 1 ㎎/kg(최대 50 ㎎)** 또는 \*\*hydrocortisone IV 5 ㎎/kg(최대 200 ㎎)\*\*을 고려할 수 있으나 epinephrine infusion과 수액보다 우선하지 않는다.
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -304,7 +303,7 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 
 ### <mark style="color:orange;">보험기준</mark>
 
-**Epinephrine bitartrate 주사제 <mark style="color:blue;">\[젝스트 프리필드펜주]</mark>** (2020-01-01 고시 기준)
+**Epinephrine bitartrate 주사제&#x20;**<mark style="color:blue;">**\[젝스트 프리필드펜주]**</mark> (2020-01-01 고시 기준)
 
 * 다음 중 어느 하나에 해당하여 자가투여 목적으로 처방할 때 1회 처방당 최대 2개까지 요양급여를 인정한다.
   1. 아나필락시스 치료 후 퇴원 처방
@@ -383,8 +382,8 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 3. ASCIA. [Management of Refractory Anaphylaxis Flowchart 2026](https://www.allergy.org.au/images/ASCIA_HP_Refractory_Anaphylaxis_Management_Flowchart_2026_v2.pdf).
 4. Golden DBK, et al. [Anaphylaxis: A 2023 Practice Parameter Update](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Anaphylaxis-Practice-Paramaters-2023.pdf). Ann Allergy Asthma Immunol. 2024;132:124-176.
 5. Shaker MS, et al. [Anaphylaxis: A 2020 Practice Parameter Update and GRADE Analysis](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Anaphylaxis-2020-grade-document.pdf). J Allergy Clin Immunol. 2020;145:1082-1123.
-6. Cardona V, et al. [World Allergy Organization Anaphylaxis Guidance 2020](https://www.worldallergyorganizationjournal.org/article/S1939-4551%2820%2930375-6/fulltext). World Allergy Organ J. 2020;13:100472.
+6. Cardona V, et al. [World Allergy Organization Anaphylaxis Guidance 2020](https://www.worldallergyorganizationjournal.org/article/S1939-4551\(20\)30375-6/fulltext). World Allergy Organ J. 2020;13:100472.
 7. Resuscitation Council UK. [Emergency Treatment of Anaphylaxis: Guidelines for Healthcare Providers](https://www.resus.org.uk/sites/default/files/2021-05/Emergency%20Treatment%20of%20Anaphylaxis%20May%202021_0.pdf). 2021.
 8. 질병관리청 국가건강정보포털. [식품알레르기 관리하기·아나필락시스 응급대처](https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=81).
 9. 식품의약품안전처 의약품안전나라. [젝스트프리필드펜주150마이크로그램 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708377).
-10. 비씨월드제약. [젝스트 프리필드펜주 제품정보](https://www.bcwp.co.kr/product/1?it_id=1658112177&page=1&viewType=view).
+10. 비씨월드제약. [젝스트 프리필드펜주 제품정보](https://www.bcwp.co.kr/product/1?it_id=1658112177\&page=1\&viewType=view).
