@@ -1,275 +1,449 @@
 # 빈혈 Anemia
 
-## 일반 사항
+## <mark style="color:green;">일반 사항</mark>
 
-* WHO 진단 기준 \[Hb] : 성인 남 ＜13 g/㎗, 여 ＜12 g/㎗
-* 성별/연령의 참고치에서 2 표준편차 이하
+* 빈혈은 혈액의 산소 운반 능력이 연령·성별·생리 상태에 적절한 수준보다 감소한 상태이다. Hb는 이를 판단하는 대표 지표이지만, 수분 상태와 혈장량의 영향을 받으므로 임상 맥락과 함께 해석한다.
+* WHO 2024의 해수면 기준 성인 빈혈 절단값은 비임신 여성 Hb ＜12 g/㎗, 남성 Hb ＜13 g/㎗이다.
+* 임신 중에는 생리적 혈액희석을 고려하여 제1삼분기 Hb ＜11 g/㎗, 제2삼분기 Hb ＜10.5 g/㎗, 제3삼분기 Hb ＜11 g/㎗를 빈혈 기준으로 사용한다.
+* 검사실 참고범위, 연령, 임신, 고도, 흡연, 탈수·과수분 상태를 함께 고려한다. Hb 절단값만으로 원인이나 치료 필요성을 판단하지 않는다.
 
-#### Hg (g/㎗)/ Hct (%) 평균값
+{% hint style="info" %}
+**Hb 해석의 함정**
 
-* 청소년 : Hb 13/ Hct 40
-* 남성 : Hb 16(±2)/ Hct 47(±6)
-* 여성 : 월경기- 13(±2)/40(±6); 임신- 12(±2)/37(±6); 폐경기- 14(±2)/42(±6)
+* 임신·지구력 운동선수·과수분 상태에서는 혈장량 증가로 Hb/Hct가 낮아질 수 있다.
+* 탈수에서는 혈액농축으로 실제 빈혈이 가려질 수 있다.
+* 고지대 생활과 흡연에서는 Hb가 높아질 수 있다.
+* 빈혈 증상은 Hb 절대값보다 감소 속도, 연령 및 심폐질환에 크게 좌우된다. 급성 빈혈이나 심혈관질환 환자는 비교적 높은 Hb에서도 증상이 나타날 수 있다.
+{% endhint %}
 
-## 원인
+## <mark style="color:green;">원인</mark>
 
-* 영양 결핍 : 철(가장 흔함), Vit B9(엽산), Vit B12(코발라민)
-* 만성 질환 : 암, HIV 감염, RA, 신장 질환, 크론병
-* Aplastic anemia : 감염, 약물, 자가면역 질환, 독성 물질 노출
-* 백혈병, myelofibrosis, sickle cell anemia, thalassemia, malaria
-* 용혈, 출혈
+### <mark style="color:orange;">적혈구 생성 감소</mark>
 
-### 위험 인자
+* 영양 결핍: 철, vitamin B12(cobalamin), 엽산(folate)
+* 염증·만성질환: 만성 감염, 자가면역질환, 악성종양
+* 신장질환: erythropoietin 생성 감소, 철 이용 장애 등
+* 골수질환: 재생불량빈혈, 골수형성이상증후군, 백혈병, 골수섬유증, 골수침윤
+* 내분비·대사질환: 갑상선기능저하증, 중증 간질환, 영양실조
+* 약물·독성물질·알코올
 
-* 영양 섭취 부족, 편식, 채식주의자
-* 연령 : 급성장기, 고령
-* 여성 : 폐경 전, 임신/수유, 과다 월경
-* 가족력
-* 빈번한 헌혈
-* 시설/병원 입소자
-* 알코올 남용, 약물
-* 약물 상용 : NSAID, 제산제(특히 PPI)
-* 위장관 질환 : 소화성 궤양, IBD
-* 감염
-* 만성 질환 : 암, 신장 질환, 간질환, 혈액 질환, 면역 질환
+### <mark style="color:orange;">적혈구 소실 또는 파괴 증가</mark>
 
-## 임상 양상
+* 급성·만성 출혈
+* 면역성·비면역성 용혈
+* 유전성 적혈구질환 및 혈색소병증: thalassemia, hereditary spherocytosis, sickle cell disease 등
+* 감염: malaria 등
 
-* 종종 무증상 : 서서히 진행되는 경우 심해지기 전까지는(Hb ＜7\~8 g/㎗) 자각 증상 없음(특히 젊은층); 지속되면 전신의 심각한 문제를 일으킴
-* 피로, 무기력, 운동 능력 저하, 빈호흡, 빈맥(특히 운동 시)
-* 어지럼(lightheadedness), 두통, 불안정, 집중력 장애
-* 입마름, 수족 냉증, 월경 이상
-* 창백, 구각구순염, 혀 유두 위축, 숟가락 손톱(koilonychia), 부서지는 손톱, 탈모
-* 림프절증, 간비장 비대, 골 압통(특히 흉골, ant tibia)
+### <mark style="color:orange;">위험 인자</mark>
 
-## 진단
+* 편식, 엄격한 채식, 영양 섭취 부족, 알코올 사용장애
+* 급성장기, 임신·수유, 과다월경, 고령
+* 반복 헌혈 또는 반복 채혈
+* 위·소장 절제, bariatric surgery, 소화성 궤양, celiac disease, IBD
+* 만성 신장·간·염증성·감염성·악성 질환
+* 가족력 또는 혈색소병증 유행지역 출신
+* NSAID·항혈소판제·항응고제 사용, 장기간의 metformin·PPI 사용
+* 항암제, 면역억제제, 항경련제 및 기타 골수억제·용혈 유발 약물
 
-* 빈혈에 대한 다른 원인이 없으면서 Cr ＞2 ㎎/㎗인 경우에는 신장 문제에 의한 빈혈 고려
-* 손을 활짝 폈을 때 손바닥 손금 색조가 주변 피부색보다 창백하면 Hb ＜8 g/㎗ 추정
+## <mark style="color:green;">임상 양상</mark>
 
-### 검사
+* 서서히 진행하면 무증상일 수 있으나, 특정 Hb 수치까지 무증상이라고 단정할 수 없다.
+* 피로, 무기력, 운동능력 저하, 두통, 어지럼, 집중력 저하
+* 운동 시 호흡곤란·빈맥·심계항진; 중증이면 휴식 시 호흡곤란·흉통·실신
+* 결막·피부 창백: 피부색, 조명 및 말초관류에 영향을 받으므로 신체진찰만으로 Hb를 추정하거나 중증 빈혈을 배제하지 않는다.
+* 황달·진한 소변: 용혈 시사
+* 점상출혈·반상출혈, 반복 감염: 혈소판·백혈구 감소 동반 가능
+* 설염, 감각이상, 보행불안정, 인지·정신증상: vitamin B12 결핍 고려
+* 림프절병증, 간비장비대, 흉골 압통: 혈액종양·용혈·전신질환 고려
 
-* 빈혈 검사 : CBC(RBC, Hb, Hct, RDW, MCV, MCH, MCHC), 철, ferritin, TIBC
-* LFT, RFT, TSH
-* 대변 guaiac 검사, 기생충 검사
-* 위/대장 내시경 검사
-* 골수 생검 : 혈액 검사로 원인을 찾지 못함, 혈구 감소, 기저 골수 이상 의심 시 고려
+***
 
-#### Hb/Hct 정상 범위에 대한 고려 상황
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-* 임신부, 운동선수 : 혈장량의 증가로 산소 운반 능력이 정상 상태 임에도 Hb나 Hct가 정상치보다 낮게 나타날 수 있음
-* 탈수 상태 : 산소 운반 능력이 저하 상태임에도 혈장의 농축으로 Hb나 Hct가 정상으로 보일 수 있음
-* 고소 지역 생활자 : 낮은 고도 지역 생활자보다 Hb이나 Hct 값이 높음
-* 흡연자 : CO의 영향으로 Hct가 증가함(빈혈의 기준값을 보다 높게 설정해야 함)
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-### Hypoproliferative Anemia 감별
+* 활동성 대량출혈, 저혈압·쇼크, 의식 변화 또는 빠른 Hb 감소
+* 빈혈과 함께 흉통, 실신, 휴식 시 심한 호흡곤란, 저산소증 또는 급성 심부전 소견
+* 혈소판감소와 미세혈관병성 용혈빈혈이 동반되어 TTP/TMA가 의심되는 경우 — schistocyte, 신경학적 이상 또는 신장손상이 진단을 뒷받침하지만 이들 소견이 모두 있어야 하는 것은 아님
+* DIC 의심, 중증 출혈 또는 장기기능장애
+* 발열성 호중구감소 또는 blast와 급성 전신증상
+* 급성 용혈과 함께 Hb 급감, 혈색소뇨, AKI, 흉통·실신 또는 혈역학적 불안정
 
-| 검사 항목           | 철 결핍              | 염증         | 신질환        | 대사 저하      |
-| --------------- | ----------------- | ---------- | ---------- | ---------- |
-| 빈혈 정도           | 경증\~중증            | 경증         | 경증\~중증     | 경증         |
-| MCV (fL)        | 60\~90            | 80\~90     | 90         | 90         |
-| 모양              | normo\~microcytic | normocytic | normocytic | normocytic |
-| s-Iron          | <30               | 50         | 정상         | 정상         |
-| TIBC            | >360              | <300       | 정상         | 정상         |
-| Saturation rate | <10               | 10\~20     | 정상         | 정상         |
-| s-Ferritin      | <15               | 30\~200    | 115\~150   | 정상         |
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-_<mark style="color:$info;">Ref. Iron deficiency and other hypoproliferative anemias Table 93-6. In: Harrison Internal medicine 20th Ed.</mark>_
+* 안정적이지만 중증이거나 빠르게 진행하는 원인불명 빈혈
+* 범혈구감소, 두 계열 이상의 새 혈구감소 또는 비정상 말초도말
+* 안정적인 급성 용혈 의심: 황달, 혈색소뇨, LDH 상승, haptoglobin 감소 등
+* 새로운 중증 신경학적 이상을 동반한 vitamin B12 결핍 의심
+* 임신 중 중증 빈혈 또는 산과적 출혈 의심
 
-### RBC 용적에 따른 감별
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-<table><thead><tr><th width="157">적혈구 크기</th><th>Normal RDW</th><th>High RDW</th></tr></thead><tbody><tr><td>Microcytosis <br>(MCV &#x3C;80 fL)</td><td>thalassemia, 만성 질환, 일부 혈색소병증</td><td>철결핍성, thalassemia, Hb H Dz, 일부 만성 질환, fragmentation hemolysis</td></tr><tr><td>Normocytosis <br>(MCV 80~100 fL)</td><td>만성 질환, 급성 출혈, hereditary spherocytosis, 일부 혈색소병증</td><td>부분 치료된 철 결핍 또는 Vit 결핍, sickle cell Dz</td></tr><tr><td>Macrocytosis <br>(MCV >100 fL)</td><td>aplastic anemia, 일부 myelodysplasias</td><td>알코올 남용, 간질환, Vit B12 or folate 결핍, 갑상선 질환, autoimmune hemolytic anemia, cold agglutinin Dz, 일부 myelodysplasias</td></tr></tbody></table>
+* 초기검사 후에도 지속되는 원인불명 빈혈
+* MDS, 재생불량빈혈, 혈색소병증, 골수침윤 또는 만성 용혈 의심
+* 적절한 원인치료에도 Hb가 회복되지 않거나 반복 재발
+* 골수검사가 필요할 가능성이 있는 경우
 
-_RDW=red cell distribution width; MCV=mean corpuscular volume_\
-_<mark style="color:$info;">Ref. Practical diagnosis of hematologic disorders Table 1.4. American Society for Clinical Pathology. 2006.</mark>_
+***
 
-### 선별 검사
+## <mark style="color:green;">진단</mark>
 
-* 청소년 및 가임기 여성 : 5\~10년마다 Hb 또는 Hct 검사
-  * 다음의 경우 매년 검사 : 과다 월경, 적은 철분 섭취, 철분 결핍 병력
-* 임신 여성 : 첫 방문 시 검사
-* 남성 및 폐경기 여성 : 규정된 선별 검사 일정 없음
+### <mark style="color:orange;">병력 및 진찰</mark>
 
-##
+* 발병 시점과 진행 속도, 과거 CBC 및 기저 Hb
+* 월경·임신, 흑색변·혈변·혈뇨, 수술·외상·헌혈 등 출혈력
+* 식이, 음주, 위장관 수술·질환, 체중감소
+* 만성 신장·간·갑상선·염증성·감염성·악성 질환
+* 처방약·건강보조제·독성물질 및 nitrous oxide 노출
+* 가족력, 인종·출신 지역, 황달·담석·비장절제 병력
+* 활력징후, 결막·피부, 황달, 출혈 소견, 심폐진찰, 림프절·간비장, 신경학적 진찰
 
-## ￭ 철결핍빈혈 Iron Deficiency Anemia
+### <mark style="color:orange;">초기 검사</mark>
+
+* CBC with differential, Hb/Hct, RBC indices(MCV, MCH, MCHC), RDW, 혈소판
+* 절대 망상적혈구 수와 필요 시 corrected reticulocyte count 또는 reticulocyte production index(RPI)
+* 말초혈액도말
+* ferritin, serum iron, TIBC 또는 transferrin, transferrin saturation: 철결핍빈혈 챕터 참조
+* creatinine/eGFR, LFT, TSH, CRP/ESR
+* 임상상에 따라 vitamin B12, folate, LDH, total/indirect bilirubin, haptoglobin, DAT, 소변검사
+
+{% hint style="info" %}
+절대 망상적혈구 수와 RPI의 참고범위·절단값은 검사실과 계산법에 따라 다르다. 대략적인 계산은 RPI = (망상적혈구% × 환자 Hct／정상 Hct) ÷ 성숙보정계수(Hct에 따라 1\~3)로 하며, 자동화 장비의 절대 망상적혈구 수와 immature reticulocyte fraction을 함께 참고할 수 있다. 일반적으로 RPI ＜2이면 골수 생성 반응이 부적절함을 시사하고, RPI 약 2\~3 이상이면 출혈·용혈에 대한 적절한 반응을 시사하지만 검사실과 임상 맥락에 따라 해석한다. 단일 수치만으로 원인을 확정하지 않는다.
+{% endhint %}
+
+***
+
+```mermaid
+flowchart LR
+    subgraph A[초기 평가]
+        direction TB
+        S([Hb 감소 확인<br/>과거 CBC·감소 속도])
+        R{Red Flag?}
+        E[즉시 또는 당일<br/>응급평가·의뢰]
+        T[절대 망상적혈구/RPI<br/>+ 말초혈액도말]
+        S --> R
+        R -- 예 --> E
+        R -- 아니오 --> T
+    end
+
+    subgraph B[원인 분기]
+        direction TB
+        H{망상적혈구 반응이<br/>적절히 증가?}
+        L[출혈 평가 또는 용혈검사<br/>LDH·간접 bilirubin·haptoglobin·DAT]
+        M{MCV}
+        Mi[소구성<br/>철결핍·염증·thalassemia 등]
+        N[정구성<br/>CKD·염증·내분비·초기/혼합결핍·골수질환]
+        Ma[대구성<br/>B12/folate·알코올·간·갑상선·약물·MDS]
+        H -- 예 --> L
+        H -- 아니오/부적절 --> M
+        M -- ＜80 fL --> Mi
+        M -- 80~100 fL --> N
+        M -- ＞100 fL --> Ma
+    end
+
+    T --> H
+
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+    classDef decision fill:#fff9c4,stroke:#ffe082,color:#000,stroke-width:2px;
+    classDef urgent fill:#fadbd8,stroke:#c0392b,color:#000,stroke-width:1.5px;
+    classDef action fill:#d6eaf8,stroke:#2874a6,color:#000,stroke-width:1.5px;
+    classDef endpoint fill:#d5f5e3,stroke:#1e8449,color:#000,stroke-width:1.5px;
+    class S start;
+    class R,H,M decision;
+    class E urgent;
+    class T,L action;
+    class Mi,N,Ma endpoint;
+```
+
+<p align="center"><strong>빈혈 진단 알고리듬</strong></p>
+
+***
+
+### <mark style="color:orange;">MCV에 따른 주요 감별</mark>
+
+<table><thead><tr><th>분류</th><th>주요 원인</th><th>진단 단서</th></tr></thead><tbody><tr><td>소구성<br>(MCV ＜80 fL)</td><td>철결핍, 염증성 빈혈, thalassemia, 드물게 sideroblastic anemia·납중독</td><td>철검사, CRP/ESR, RBC 수·Mentzer index를 참고하되 필요 시 Hb electrophoresis 또는 유전검사</td></tr><tr><td>정구성<br>(MCV 80\~100 fL)</td><td>급성출혈, CKD, 염증성 빈혈, 용혈, 내분비질환, 초기 철/B12/folate 결핍, 혼합결핍, 골수질환</td><td>망상적혈구 반응이 가장 중요한 첫 분기</td></tr><tr><td>대구성<br>(MCV ＞100 fL)</td><td>B12·folate 결핍, 알코올, 간질환, 갑상선기능저하증, 약물, reticulocytosis, MDS</td><td>macro-ovalocyte와 hypersegmented neutrophil은 megaloblastic process 시사; reticulocytosis·cold agglutinin은 MCV를 높일 수 있음</td></tr></tbody></table>
+
+* RDW는 혼합된 적혈구 크기를 보여주는 보조지표이며 단독으로 철결핍, thalassemia, 용혈 또는 골수질환을 확진하지 않는다.
+* 철결핍과 B12/folate 결핍이 함께 있으면 MCV가 정상으로 보일 수 있다.
+
+{% hint style="info" %}
+**Mentzer index = MCV(fL)／RBC count(10⁶/㎕)** — 소구성 빈혈에서 철결핍과 thalassemia trait 감별에 참고하는 선별 보조지표. 13 미만이면 thalassemia trait, 13 이상이면 철결핍이 상대적으로 더 시사되지만 성인, 혼합결핍 및 염증 상황에서는 정확도가 낮아질 수 있어 단독으로 확진하지 않는다. 필요 시 ferritin과 Hb electrophoresis를 확인한다. 다만 α-thalassemia trait에서는 Hb electrophoresis가 정상일 수 있고, 철결핍이 동반되면 HbA₂가 낮아져 β-thalassemia trait가 가려질 수 있다.
+{% endhint %}
+
+### <mark style="color:orange;">선택적 검사</mark>
+
+* 출혈 또는 철결핍이 의심되면 성별·연령·월경력·위장관 증상·암 위험에 따라 상·하부위장관 평가를 결정한다. 대변잠혈검사 음성만으로 위장관 출혈을 배제하지 않는다.
+* 기생충검사는 거주·여행·노출 위험 및 호산구증가 등 역학적 단서가 있을 때 시행한다.
+* 골수검사는 범혈구감소, 비정상 도말, 설명되지 않는 지속적 빈혈 또는 MDS·재생불량빈혈·백혈병·골수침윤 의심 시 혈액내과와 상의하여 시행한다.
+
+### <mark style="color:orange;">선별검사</mark>
+
+* 무증상 일반 성인에서 일률적으로 적용할 빈혈 선별검사 간격은 확립되어 있지 않다. 증상과 위험인자 및 건강검진 결과에 따라 CBC를 시행한다.
+* 임신에서는 국내 산전진료 기준에 따라 초기 CBC를 시행하고 임신 경과 중 재평가한다.
+* USPSTF 2024는 무증상 임신부에서 철결핍 및 철결핍빈혈 선별 또는 일률적 철 보충이 임상결과를 개선하는지에 대해 근거 불충분(I statement)으로 판단하였다. 이는 국내 산전검사 관행을 부정하는 의미가 아니며 적용 환경을 구분한다.
+* 혈색소병증(thalassemia, sickle cell trait 등) 유병률이 높은 지역 출신이거나 가족력이 있는 경우, 특히 결혼·임신을 계획 중인 부부에서는 사전 상담 시 보인자 선별(Hb electrophoresis 등)을 고려한다. 국내 다문화 가정 증가를 고려할 때 실제 진료에서 놓치기 쉬운 부분이다.
+
+## <mark style="color:green;">철결핍빈혈 Iron Deficiency Anemia</mark>
 
 (☞ [철결핍빈혈](193_-iron-deficiency-anemia.md))
 
-* hypochromic microcytic anemia; 가장 흔한 빈혈 형태
-* 혈청 ferritin ＜15 ng/㎖, TIBC ＞360 ㎍/㎗, 혈청 Fe ＜30 ㎍/㎗, transferrin saturation rate(=혈청 철÷TIBC) ＜10%
+* 가장 흔한 빈혈 원인이며 초기 또는 혼합결핍에서는 정구성일 수 있다.
+* 빈혈이 없어도 철결핍 자체만으로 피로와 운동능력 저하 등이 나타날 수 있다(iron deficiency without anemia). 뚜렷한 위험인자와 증상이 있으면 Hb가 정상이어도 ferritin/TSAT 검사를 고려한다.
+* 진단 기준, 출혈원 평가, 경구·정맥 철분 치료는 별도 챕터를 참조한다.
 
-##
+## <mark style="color:green;">염증성 빈혈 Anemia of Inflammation (만성질환빈혈)</mark>
 
-## ￭ 만성 질환 빈혈 Anemia of Chronic Disease
+### <mark style="color:orange;">일반 사항</mark>
 
-### 일반 사항
+* 만성 감염, 자가면역·염증성 질환, 악성종양 등에 동반되는 저증식성 빈혈이다.
+* hepcidin 증가에 따른 철 이용 제한, erythropoietin 생성·반응 저하 및 적혈구 수명 단축이 복합적으로 작용한다.
+* 대부분 정구성·정색소성이지만 일부는 소구성일 수 있다.
+* CKD 빈혈은 erythropoietin 부족, 철 이용 장애, 염증, 출혈 등이 복합된 별도 임상 맥락으로 구분한다.
 
-* 만성 전신 감염, 염증, 악성 종양 중에 발생하는 빈혈
-* 두 번째로 흔한 빈혈 형태
-* normocytic, normochromic, hypoproliferative anemia
-* 증상 : 원인 질환에 의한 증상 및 빈혈의 일반적인 증상
+### <mark style="color:orange;">진단</mark>
 
-### 원인
+* 원인질환과 염증 소견이 있으면서 빈혈 정도에 비해 망상적혈구 반응이 부적절하다.
+* serum iron과 transferrin/TIBC는 흔히 감소하고 ferritin은 정상 또는 증가할 수 있다.
+* ferritin은 급성기 반응물질이므로 정상·상승 소견만으로 동반 철결핍을 배제하지 않는다. ferritin, TSAT, 염증 정도와 임상 맥락을 함께 해석한다.
+* Hb ＜8 g/㎗이거나 예상보다 심한 빈혈에서는 철결핍, 출혈, CKD, B12/folate 결핍, 용혈 및 골수질환 등 다른 원인을 적극적으로 찾는다.
+* B12 또는 folate 감소는 염증성 빈혈의 전형적인 검사소견이 아니라 동반 결핍을 의미한다.
 
-#### 기전
+### <mark style="color:orange;">치료</mark>
 
-* functional iron 결핍 → RBC 생산 감소
-* proinflammatory cytokine(IL, TNF, BMP, INF; 만성 질환에서 출현) → iron homeostasis 변화, erythropoietin 생성 및 작용 억제, hepcidin 생성 증가(장내 철분 흡수 방해)
-* inflammatory cytokine에 의한 erythrophagocytosis 증가, oxidative damage, RBC 수명 단축
+* 원인 감염·염증·악성질환의 치료가 기본이다.
+* 절대적 또는 기능적 철결핍이 동반되면 질환별 기준에 따라 철분 치료를 고려한다.
+* RA·IBD 등에서 Hb 수치만을 근거로 ESA를 일률적으로 사용하지 않는다.
+* 암 관련 ESA는 비근치적 항암화학요법 관련 빈혈 등 제한된 상황에서 종양·혈액 전문의가 혈전·종양 진행 및 수혈 위험을 비교하여 결정한다(ASCO/ASH 2019).
+* 수혈은 Hb 수치만으로 자동 결정하지 않으며 증상, 급성 출혈, 혈역학적 상태, 심혈관질환과 치료 목표를 함께 평가한다.
 
-#### 원인 또는 위험 인자
+## <mark style="color:green;">CKD 관련 빈혈 Anemia in Chronic Kidney Disease</mark>
 
-* 급만성 감염 : HIV, HCV, 농양, 결핵, 골수염, 진균 감염, 기생충 감염
-* 만성 질환 : RA, SLE, sarcoidosis, temporal arteritis, IBD, SIRS, 간/신/심장 질환
-* 악성 종양
-* 고령(cytokine dysregulation, 대사 저하)
-* 대사 저하 : 영양 결핍(단백질), 갑상선 질환, 당뇨병, Addison병
+### <mark style="color:orange;">진단 원칙</mark>
 
-### 진단
+* Cr의 절대값으로 진단하지 않고 eGFR, CKD 단계와 경과를 평가한다.
+* CKD가 있어도 철결핍, 출혈, 염증, B12/folate 결핍, 용혈, 갑상선질환 및 골수질환을 배제한다.
+* CBC, 절대 망상적혈구, ferritin, TSAT를 기본으로 하고 임상상에 따라 말초도말, B12/folate, CRP, LDH·haptoglobin 등을 추가한다.
 
-* Hb : 감소( ＜8 g/㎗는 드묾)
-* MCV : 80\~100 fL (normocytosis)
-* 혈청 철 : 감소(＜50)
-* ferritin : 정상 또는 증가(30\~200 ㎍/L)
-* TIBC : 감소(＜300)
-* Vit B12, folate : 감소(섭취/흡수 저하)
-* reticulocyte count : 감소(reticulocyte index ＜20,000\~25,000/㎕)
+### <mark style="color:orange;">ESA</mark>
+
+* 철 상태와 교정 가능한 원인을 먼저 평가·치료한다.
+* CKD G5D에서 혈액투석 또는 복막투석 중인 환자는 ESA 개시 역치를 Hb 9.0\~10.0 g/㎗ 범위에서 정하여 시작을 고려한다(KDIGO 2026 Recommendation 3.2.1, 2D).
+* 비투석 CKD에서는 빈혈 증상, 수혈 회피의 이익, ESA의 심혈관·혈전·암 관련 위해를 고려하여 시작 시점을 개별화한다. 대부분 Hb 8.5\~10.0 g/㎗ 범위에서 고려할 수 있으나 고정 역치는 아니다(KDIGO 2026 Recommendation 3.2.2, 2D).
+* 심혈관·혈전색전질환 또는 활동성 암, 특히 근치 치료 중인 암에서는 더 낮은 시작 역치 또는 ESA 회피를 고려한다. 신장이식 후보자나 증상이 뚜렷한 환자에서는 수혈에 따른 동종면역 위험을 고려할 수 있다.
+* 성인 ESA 치료 중 Hb는 11.5 g/㎗ 미만을 목표로 하며, 치료 목표를 달성하는 가장 낮은 Hb와 ESA 용량을 사용한다(KDIGO 2026 Recommendation 3.3.1, 1D).
+* 시작 또는 용량 변경 후 Hb를 2\~4주 간격으로 확인하고, 유지기에는 적어도 3개월마다 확인한다. 2\~4주에 Hb가 1 g/㎗를 초과하여 빠르게 상승하지 않도록 한다.
+* 고혈압, 뇌졸중, 혈전색전증, 혈관접근로 혈전 및 ESA 저반응을 모니터링한다.
+* 신장이식 후보자에서는 수혈에 따른 HLA 동종면역 위험을 고려하여, 수혈 회피의 이익과 ESA의 위해를 개별적으로 비교한다.
+
+## <mark style="color:green;">수혈 원칙 Red Blood Cell Transfusion</mark>
+
+* 안정적인 비출혈 성인에서는 제한적 수혈 전략을 사용하며 Hb ＜7 g/㎗는 흔히 사용하는 고려 역치이지 자동 수혈 지시가 아니다(AABB 2023).
+* 심장수술 환자에서는 7.5 g/㎗, 정형외과 수술 또는 기존 심혈관질환 환자에서는 8 g/㎗를 선택적 역치로 사용할 수 있다.
+* 활동성 출혈, 혈역학적 불안정, 급성 관상동맥증후군, 중증 저산소 증상에서는 위 숫자를 기계적으로 적용하지 않는다.
+* 수혈 여부는 증상, 출혈 속도, 심혈관질환, 치료 목표와 환자 선호를 함께 고려하여 결정한다.
+
+## <mark style="color:green;">Vitamin B12 결핍 Cobalamin Deficiency</mark>
+
+### <mark style="color:orange;">일반 사항</mark>
+
+* 성인 1일 권장섭취량은 2.4 ㎍이며 임신 2.6 ㎍, 수유 2.8 ㎍이다. 체내 저장량이 커서 결핍 증상은 수년에 걸쳐 나타날 수 있다.
+* 위산에 의해 음식에서 유리된 B12는 내인자와 결합하여 회장 말단부에서 흡수된다.
+* 결핍은 megaloblastic anemia, 범혈구감소, 설염 및 신경계 손상을 유발할 수 있다.
+* 빈혈이나 대구성증 없이 신경학적 증상만 나타날 수 있으므로 정상 MCV만으로 배제하지 않는다.
+
+### <mark style="color:orange;">원인 및 위험 인자</mark>
+
+* 섭취 부족: 엄격한 vegan diet, 영양실조; 동물성 식품 외에 B12 강화 시리얼·영양효모 등 강화식품도 공급원이 될 수 있다.
+* 자가면역성 위염에 의한 내인자 결핍(악성빈혈)
+* 위절제·bariatric surgery, 위축성 위염, 회장 말단 절제, Crohn disease, celiac disease, 췌장기능부전
+* 장기간의 metformin, PPI 또는 H2 blocker 사용
+* nitrous oxide 반복·과다 노출: 혈중 B12가 정상이어도 기능적 결핍 가능
+* 고령, 광절열두조충 감염 등
+
+### <mark style="color:orange;">임상 양상</mark>
+
+* 피로, 허약, 창백, 설염, 식욕저하, 체중감소, 설사
+* 손발 감각이상, 진동·위치감각 저하, 보행실조·낙상, 근력저하
+* 인지저하, 우울, 혼돈 등 신경정신 증상
+* 신경학적 회복은 수개월 이상 걸릴 수 있고 치료가 늦으면 불완전하거나 비가역적일 수 있다.
+
+### <mark style="color:orange;">진단</mark>
+
+* CBC, 망상적혈구, 말초도말: macro-ovalocyte, hypersegmented neutrophil, 백혈구·혈소판 감소가 나타날 수 있으나 모두 필수 소견은 아니다(NICE NG239, 2024).
+* serum total B12 또는 active B12를 우선 검사하고 검사실 참고범위를 적용한다.
+* 결과가 경계 또는 불명확하면서 임상적으로 의심되면 MMA를 고려한다. 신기능 저하에서는 MMA가 상승할 수 있다.
+* homocysteine은 B12와 folate 결핍 모두에서 증가하므로 특이도가 낮다.
+* nitrous oxide 관련 기능적 결핍은 serum B12가 정상일 수 있어 MMA 또는 homocysteine을 우선 고려한다.
+* 자가면역성 위염이 의심되면 anti-intrinsic factor antibody를 검사한다. 음성이라고 완전히 배제되지 않으며 필요 시 추가 검사 또는 소화기 평가를 고려한다.
+* Schilling test는 현재 임상에서 사용하지 않는다.
+
+{% hint style="danger" %}
+신경학적 이상 또는 중증 megaloblastic anemia가 의심되면 필요한 검체를 먼저 채취하되, 검사 결과를 기다리느라 B12 치료를 지연하지 않는다.
+{% endhint %}
+
+### <mark style="color:orange;">치료</mark>
+
+#### <mark style="color:$primary;">경구 B12</mark>
+
+* 식이성 또는 경증 결핍에서 경구 고용량 B12를 사용할 수 있다.
+* 흡수장애가 의심되나 경구 치료를 선택할 경우 총 B12 용량을 적어도 1 ㎎/day로 사용한다.
+* 국제 지침에서는 cyanocobalamin 등 경구 B12를 통상 1\~2 ㎎/day의 고용량으로 사용한다.
+* 국내 경구 mecobalamin 0.5 ㎎ 제제 <mark style="color:blue;">\[메치코발 등]</mark>의 허가 적응증은 일반적으로 말초성 신경장애이다. B12 결핍빈혈에 사용하는 경우 허가 외 사용에 해당하며, 정확한 급여 기준은 처방 전 HIRA 고시를 확인한다.
+
+#### <mark style="color:$primary;">주사 B12</mark>
+
+* 중증 빈혈, 신경학적 증상, 중증 흡수장애, 복약순응도 문제 또는 빠른 교정이 필요한 경우 주사 치료를 우선 고려한다.
+* 초기 집중 투여 후 혈액학적·신경학적 반응과 원인에 따라 유지 간격을 조정한다.
+* 자가면역성 위염, 전위절제 또는 비가역적 회장 흡수장애에서는 장기 또는 평생 유지치료가 필요할 수 있다.
+* 국내 주사제의 제품별 성분·용법과 실제 유통 여부는 처방 시 의약품안전나라 및 공급 현황을 확인한다. 유통이 확인되지 않은 특정 제품명을 표준 치료제로 고정하지 않는다.
+
+### <mark style="color:orange;">모니터링</mark>
+
+* 망상적혈구 반응은 대개 약 1주 이내 나타나며 Hb와 MCV는 수주에 걸쳐 회복한다.
+* 치료 1\~2개월 후 CBC 반응을 확인하고, 반응이 불충분하면 진단, 복약순응도, 흡수장애, 동반 철·folate 결핍 또는 골수질환을 재평가한다.
+* 신경증상은 수개월 이상 추적하며 완전 회복을 보장할 수 없다.
+* 중증 빈혈에서는 치료 초기에 potassium 저하가 나타날 수 있으므로 임상적으로 필요한 경우 확인한다.
+* 원인이 교정 가능하면 치료기간을 재평가하고, 비가역적 원인에서는 장기 유지계획을 세운다.
+
+## <mark style="color:green;">엽산 결핍 Folate Deficiency, Vitamin B9</mark>
+
+### <mark style="color:orange;">일반 사항</mark>
+
+* 성인 권장섭취량은 400 ㎍ DFE/day이며 임신 600 ㎍ DFE/day, 수유 500 ㎍ DFE/day이다.
+* 체내 저장량이 비교적 적어 섭취·흡수가 감소하면 수개월 안에 결핍이 나타날 수 있다.
+* DNA 합성 장애로 megaloblastic anemia를 유발하지만 엽산결핍 자체는 전형적인 신경학적 이상을 일으키지 않는다.
+
+### <mark style="color:orange;">원인</mark>
+
+* 섭취 부족: 영양실조, 알코올 사용장애, 과도하게 제한된 식사
+* 흡수장애: celiac disease, IBD, short bowel syndrome, bariatric surgery
+* 필요량 증가·소실: 임신·수유, 만성 용혈, 광범위 건선, 악성종양, 투석
+* 약물: methotrexate, trimethoprim, pyrimethamine, sulfasalazine, phenytoin 및 일부 항경련제
+
+### <mark style="color:orange;">임상 양상</mark>
+
+* 피로, 창백, 설염, 식욕저하, 체중감소, 설사
+* 중증에서는 백혈구·혈소판 감소가 동반될 수 있다.
+* 감각이상·보행장애 등 신경학적 증상이 있으면 B12 결핍 또는 다른 신경계 질환을 우선 고려한다.
+
+### <mark style="color:orange;">진단</mark>
+
+* CBC, 망상적혈구, 말초도말과 serum folate를 우선 평가하고 검사실 참고범위를 적용한다.
+* RBC folate는 일상적인 1차 검사가 아니며, 강한 임상적 의심에도 serum folate가 명확하지 않은 제한적 상황에서 고려한다.
+* homocysteine은 증가할 수 있지만 특이적이지 않으며 MMA는 순수 folate 결핍에서는 정상이다.
+* 치료 전에 vitamin B12 결핍을 반드시 평가한다. 신경학적 B12 결핍이 의심되면 B12 치료를 먼저 또는 동시에 시작한다.
+
+### <mark style="color:orange;">치료</mark>
+
+* 원인 교정과 함께 folic acid를 투여한다.
+* 예: folic acid 1 ㎎ qd <mark style="color:blue;">\[폴산]</mark> × 약 4개월 또는 혈액학적 회복과 원인 교정 시까지
+* 지속적 용혈·흡수장애·투석 등에서는 더 긴 치료가 필요할 수 있으며, 중증 흡수장애에서의 고용량 치료는 전문 진료 및 국내 허가사항에 따라 결정한다.
+* 확진되지 않은 상태에서 저용량 folate를 투여하고 혈액학적 반응으로 진단하는 방법은 사용하지 않는다.
+* 임신 전후 신경관결손 예방을 위한 folic acid 용량은 엽산결핍빈혈 치료와 목적·용량이 다르므로 산과 지침에 따른다.
+
+### <mark style="color:orange;">모니터링</mark>
+
+* 망상적혈구 반응은 약 1주 내 나타날 수 있으며 CBC는 수주에 걸쳐 정상화된다.
+* 반응이 없으면 복약순응도, 지속 원인, B12·철 동반결핍, 진단 오류 또는 골수질환을 재평가한다.
 
 ***
 
-## **Management**
+### <mark style="color:red;">질병코드</mark>
 
-#### Erythropoietin stimulating agent(ESA)
+D64.9 상세불명의 빈혈
 
-* 유전공학적으로 세포 배양을 통하여 만들어진 erythropoietin; 골수에서 RBC 생성을 자극
-* 종류 : epoetin alfa(Epogen, Procrit), darbepoetin alfa(Aranesp)
-* 대상 : Hb ＜10 g/㎗인 만성 신부전, RA, IBD, HIV, 일부 암(보험주의)
-* 부작용 : 심혈관계 합병증 증가, 혈전색전증 증가, 일부 암의 악화, 사망률 증가
+D63.1 달리 분류된 만성 신장병에서의 빈혈
 
-#### Iron
+D63.8 달리 분류된 기타 만성 질환에서의 빈혈
 
-* 대상 : 철분 결핍 동반, erythropoietin에 대하여 저항
-* 경구 철분제 : ferrous sulfate (✽철분의 장내 흡수율이 저하되어 있어 효과 저하) (☞ p.1028)
-* IV 철분제 : ferric gluconate. iron sucrose, iron dextran, ferumoxytol
+D51.0 내인자 결핍에 의한 vitamin B12 결핍빈혈
 
-#### 수혈
-
-* 대상 : 생명을 위협하는 심한 빈혈
-* ＜7 g/㎗인 경우 대부분 수혈 치료가 필요
-
-### 모니터링
-
-* Hb ＜12 g/㎗로 유지; Hb을 정상 수준으로 유지하면 사망률이 상승함
-* 3개월마다 transferrin saturation 및 ferritin을 모니터링
-
-##
-
-## ￭ Vit B12 결핍 Cobalamin Deficiency
-
-### 일반 사항
-
-* CNS의 myelination 및 기능 유지에 필수 요소
-* 1일 요구량 3~~5 ㎍, 체내 저장량 2~~5 ㎎(약 3년 필요량에 해당)
-* 흡수 과정 : 위산에 의해 음식에서 분해되고 내인자에 결합되어 회장 말단부에서 흡수
-* 결핍 시 영향 : 빈혈(서서히 진행; megaloblastic anemia), methylmalonic acid↑(신경막에 영향을 미치는 fatty acid 합성 이상), homocysteine↑(신경 독성), 심한 경우 골수 기능 장애(WBC↓, 혈소판↓)
-* 유병률 : 1~~2%; 고령- 10~~15%
-
-### 원인
-
-* 섭취 부족 : 엄격한 채식주의자
-* 위장관 이상(흡수 장애 유발) : 내인자 결핍(pernicious anemia), 위축성 위염, 무위산증, 제산제/위산 분비 억제제 장기 복용, 전위 절제술, 회장 말단부 절제, 크론병, 췌장 이상, 기생충 감염
-* 흡수를 저해하는 약물의 장기 투여 : PPI, H2 차단제, metformin, neomycin
-* 복합 : 음주, 고령
-
-### 임상 양상
-
-* 피로, 허약, 창백, 우울
-* 설염 : 혀가 밋밋해지고 붉어지며 통증, 미각 이상
-* 위장 장애 : 식욕 부진, 설사
-* 신경 장애 : 감각 이상, 조화 운동 불능/낙상, 반사 저하, 근육 긴장 저하, 신경정신 이상, 치매
-  * 6개월 내 치료가 이루어지면 CNS 증상은 회복될 수 있음
-
-### 진단
-
-* MCV ＞100 fL, RDW↑, reticulocyte↓
-* Vit B12 검사
-* Schilling test
-* 고령자 등 고위험군에서 매년 Vit B12 screening 고려
-
-***
-
-## Management
-
-### 치료 방침
-
-* 함유 식품 섭취 : 모든 동물성 식품(예: 소간, meats, 생선, 유제품, 계란) (✽채소/과일에는 없음)
-* 일부 환자에서는 장 점막 위축으로 인하여 엽산이 동시에 부족하므로 처음 수개월간 folic acid를 함께 투여; 1 ㎎ qd \[폴산]
-
-### Cobalamin
-
-* 경구제 : methylcobalamin 0.5 ㎎ tid \[메치코발]
-* 주사제 : 중증에서 고려; IM or deep SC (IV는 금지); cobamamide \[액티나마이드 주]
-  *   1회 100~~1000 ㎍을 qd ×6~~7d → 임상적 호전 및 reticulocyte 반응이 있으면 격일 ×7회
-
-      → 3~~4일 마다 ×2~~3wk (이 시기에 보통 hematologic value가 정상화됨) → 월 1회 유지
-  * 또는 100\~1000 ㎍을 1주간 매일 → 1달간 매주 → 이후 매달 투여
-  * 주사제로 교정 후 경구제로 이어갈 수 있음; mecobalamin 0.5 ㎎ bid
-
-### 모니터링
-
-* 치료 직후 증상 개선(well being)을 느낌
-* 저칼륨혈증이 치료 초기 수일간 발생할 수 있음(특히 심한 빈혈에서 발생)
-* 활발한 reticulocytosis가 5\~7일 후, 혈액학적 정상화는 2개월 후 이루어짐
-
-##
-
-## ￭ 엽산 결핍 Folate Deficiency, Vit B9
-
-### 일반 사항
-
-* DNA/RNA 합성, 단백질 대사, homocysteine 분해 작용, RBC 생성에 기여; 태아 성장에 필수
-* 1일 요구량 50~~100 ㎍, 체내 저장량 5 ㎎(2~~3개월 필요량에 해당)
-* 유병률 : 일반적인 식사를 하는 건강한 상태에서는 거의 발생하지 않음(예외: 임신부)
-
-### 원인
-
-* 엽산 필요량↑/소실↑ : 임신, 수유, 건선, 암, 만성 용혈, IBD, homocystinuria, 소변 소실 과다(예: CHF, 활동성 간질환)
-* 엽산 섭취↓/흡수↓ : 고령, 알코올 남용, 너무 익힌 음식, gluten induced enteropathy, 셀리악병, IBD, short bowel syndrome; Vit B12 결핍에 의한 위장 점막 megaloblastosis
-* 약물 : 항경련제(예: phenytoin, barbiturate), DMARD, nitrofurantoin, trimethoprim
-
-### 임상 양상
-
-* Vit B12 결핍 증상과 유사; 엽산 결핍만 있는 경우 신경학적 이상은 없음
-* 체중 증가 지연, 식욕 부진, 창백, 만성 설사, 호흡기 감염, 출혈 경향
-
-### 진단
-
-* megaloblastic anemia : MCV ＞100 fL, RDW↑, reticulocyte↓
-* RBC folic acid ＜150 ng/㎖
-
-***
-
-## Management
-
-### 함유 식품 섭취
-
-* 짙은 녹색 잎채소(예: 시금치, 상추, 아스파라거스, 브로콜리), 콩류, 해바라기 씨, 신선한 과일, 전곡류, 간, 해산물, 계란
-
-### Folic acid
-
-* 1(~~5) ㎎/d ×1~~4개월 또는 검사로 치료가 확인될 때까지 투여 \[폴산]
-*   확진이 되지 않은 경우 저용량 folate(0.1 ㎎/d)를 투여하고 72시간 후 혈액학적 반응을 평가;
-
-    활발한 reticulocytosis는 5\~7일 후, 혈액학적 정상화는 2개월 후 이루어짐(Vit B12 교정 때와 유사)
-* 주의 : Vit B12 결핍 환자에서 folate 투여가 혈액학적 반응을 만들어 신경 손상의 진행을 차폐할 수 있으므로 엽산 투여 시 Vit B12 검사가 필요(검사가 나올 때까지 Vit B12를 병용)
-
-
-
-**질병코드**&#x20;
-
-D63 달리 분류된 만성 질환에서의 빈혈
-
-E53.8 기타 명시된 비타민 B군의 결핍증
+D51.9 상세불명의 vitamin B12 결핍빈혈
 
 D52.9 상세불명의 엽산결핍빈혈
+
+E53.8 기타 명시된 비타민 B군의 결핍증 — 빈혈이 없는 vitamin B12 결핍 등에서 고려
+
+_✽D63.1과 D63.8은 달리 분류된 기저질환에 수반되는 빈혈 코드이므로 단독으로 사용하지 않고 기저질환 코드를 먼저 또는 함께 적용한다. 최신 KCD 코딩 지침을 확인한다._
+
+***
+
+## <mark style="color:purple;">처방례</mark>
+
+> **처방례 1. 경구 고용량 vitamin B12 치료**
+>
+> ```
+> 메치코발정 0.5 ㎎  1T tid  경구  (총 1.5 ㎎/day)
+> ```
+>
+> _✽국내 경구 mecobalamin의 허가 적응증은 말초성 신경장애이며, vitamin B12 결핍빈혈에는 허가 외 사용이다. 정확한 급여 기준은 처방 전 HIRA 고시를 확인한다. 흡수장애가 뚜렷하지 않은 경증·식이성 결핍 또는 경구 치료를 선택한 경우 고려하고, 치료 1\~2개월 후 CBC 반응을 확인한다. 중증 빈혈·신경학적 증상·중증 흡수장애에서는 주사 치료를 우선 고려한다._
+
+> **처방례 2. B12 결핍성 거대적아구성빈혈 (국내 주사제 허가 용법)**
+>
+> ```
+> Mecobalamin 주사 500 ㎍  1A  IM 또는 IV  주 3회
+> → 증상 소실 후 500 ㎍ IM 또는 IV, 1~3개월마다 유지
+> ```
+>
+> _✽신경학적 증상이 있으면 필요한 검체를 먼저 채취하되 검사 결과를 기다리느라 치료를 지연하지 않는다. 실제 유통 제품과 제품별 허가사항을 처방 시 확인한다. 자가면역성 위염·전위절제·비가역적 회장 흡수장애에서는 장기 또는 평생 유지치료가 필요할 수 있다. 중증 빈혈 또는 빠른 조혈반응이 예상되는 경우 치료 초기 potassium 확인을 고려한다._
+
+> **처방례 3. 엽산결핍빈혈**
+>
+> ```
+> 폴산정 1 ㎎  1T qd  경구  × 약 4개월 또는 원인 교정 시까지
+> ```
+>
+> _✽투여 전에 vitamin B12를 검사한다. B12 결핍을 배제할 수 없고 치료를 지연할 수 없는 경우에는 B12를 먼저 또는 동시에 투여한다. 지속 원인(용혈·흡수장애·투석)에서는 치료기간 연장을 고려한다._
+
+***
+
+### <mark style="color:$success;">핵심 복약 지도</mark>
+
+> **Vitamin B12·엽산 치료의 순서**
+>
+> * Vitamin B12 결핍에 신경학적 증상이 동반되면 검사 결과를 기다리지 않고 치료를 시작합니다.
+> * Folic acid 투여 전 vitamin B12 결핍 여부를 확인하고, 의심되거나 배제되지 않은 상태에서는 B12를 먼저 또는 동시에 투여합니다. Folate 단독 투여는 B12 결핍의 혈액학적 소견을 가려 신경학적 손상을 진행시킬 수 있습니다.
+> * 자가면역성 위염·전위절제·비가역적 회장질환에서는 B12 장기 또는 평생 유지치료가 필요할 수 있음을 설명합니다.
+
+> **ESA와 수혈은 Hb 수치만으로 결정하지 않습니다**
+>
+> * ESA는 CKD 단계, 증상, 철 상태, 수혈·혈전·심혈관·암 위험을 함께 판단하여 시작하며, 치료 중 Hb를 11.5 g/㎗ 이상으로 유지하지 않습니다.
+> * Hb ＜7 g/㎗은 자동 수혈 기준이 아닙니다. 증상, 급성 출혈 여부, 혈역학적 상태, 심혈관질환을 함께 평가합니다.
+
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 치료 시작 후 1\~2개월 이내에 CBC 반응이 없는 경우
+> * 신경학적 증상이 악화되거나 새로 발생하는 경우 — 즉시 내원
+> * 흉통, 실신, 휴식 시 심한 호흡곤란 등 Red Flag 소견이 나타나는 경우 — 즉시 내원
+
+***
+
+### <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**빈혈, 원인을 알아야 제대로 치료할 수 있습니다**
+
+빈혈은 철분 부족만이 아니라 출혈, 염증·신장 질환, 비타민 B12·엽산 부족, 용혈, 골수 질환 등 다양한 원인으로 생길 수 있습니다. 원인에 따라 치료법이 다르므로 원인이 확인되기 전에는 임의로 철분제나 영양제를 복용하지 마십시오.
+{% endhint %}
+
+#### <mark style="color:$primary;">왜 빈혈이 생기나요?</mark>
+
+* 우리 몸이 적혈구를 충분히 만들지 못하거나, 적혈구가 너무 빨리 없어지거나 손실될 때 빈혈이 생깁니다.
+* 철분, vitamin B12, 엽산과 같은 영양소 부족, 만성 신장·염증성 질환, 출혈, 용혈 등이 흔한 원인입니다.
+
+#### <mark style="color:$primary;">B12·엽산 치료는 어떻게 하나요?</mark>
+
+* **처방받은 용량과 기간을 지켜 복용하십시오.** 증상이 좋아졌다고 임의로 중단하면 재발하거나 신경 증상이 남을 수 있습니다.
+* **채식 위주 식사를 하신다면** B12 강화식품(강화 시리얼, 영양효모 등) 섭취나 보충 방법을 의료진과 상의하십시오.
+* 주사 치료가 필요한 경우 처음에는 자주, 이후에는 간격을 늘려 유지 투여합니다. 원인에 따라 평생 치료가 필요할 수 있습니다.
+
+#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+
+* **철분이 풍부한 음식**(육류, 생선, 콩류, 진한 녹색채소)과 **vitamin B12·엽산이 풍부한 음식**(육류, 생선, 유제품, 계란, 녹색채소, 콩류)을 균형 있게 섭취하십시오.
+* 검은변, 혈변, 과다월경, 혈뇨가 있거나 진통소염제·항혈소판제·항응고제를 복용 중이면 의료진에게 알리십시오.
+
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+
+* 흉통, 실신, 가만히 있어도 숨이 찬 증상, 의식 변화가 있을 때
+* 많은 양의 출혈, 검고 끈적한 타르변, 선홍색 또는 검붉은 혈변, 진한 갈색 소변, 갑작스러운 심한 황달이 있을 때
+* 손발 저림, 균형장애, 보행불안정, 기억·인지 변화가 있을 때 — 빈혈이 심하지 않아도 vitamin B12 결핍 평가가 필요할 수 있습니다
