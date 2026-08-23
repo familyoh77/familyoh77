@@ -1,7 +1,5 @@
 # 철결핍빈혈 Iron deficiency anemia
 
-![image](../.gitbook/assets/461da95a-d28b-4e17-a060-58e876ea6423.JPG)
-
 ## 일반 사항
 
 * 빈혈의 가장 흔한 형태; ＞50% 차지 (☞ p.1020)
@@ -22,9 +20,7 @@
 
 #### 우리나라 평균 1일 철분 섭취량
 
-> ```
-> (Ref. 2014년 국민영양통계. 한국보건산업진흥원)
-> ```
+(Ref. 2014년 국민영양통계. 한국보건산업진흥원)
 
 * 성별 : 남- 19.56 ㎎, 여- 14.97 ㎎
 * 연령대별 : 19~~29세- 15.73 ㎎, 30~~49세- 17.74 ㎎, 50\~64세- 21.28 ㎎, ＞65세- 15.99 ㎎
@@ -40,28 +36,25 @@
 
 * 철 요구량↑ : 급성장(소아청소년기), 임신, 수유, erythropoietin 치료
 * 철 소실↑ : 기생충, 소화성 궤양, IBD, 반복되는 코피, 과다월경, 운동선수, 외상, NSAID/aspirin 복용
-*   철 섭취↓/흡수↓ : 부적절한 식이, 채식주의, 위축성 위염, 제산제/PPI 복용, 위절제술, 만성 설사, 흡수 장애 질환(셀리악병,
-
-    크론병), Zn 결핍, 낮은 사회 경제적 상태
+* 철 섭취↓/흡수↓ : 부적절한 식이, 채식주의, 위축성 위염, 제산제/PPI 복용, 위절제술, 만성 설사, 흡수 장애 질환(셀리악병, 크론병), Zn 결핍, 낮은 사회 경제적 상태
 * 검사에도 불구하고 5%에서는 원인을 찾을 수 없음
-
-![image](../.gitbook/assets/4ed15cfe-2ef6-4deb-87a6-994e9e76dcf4.JPG)
 
 ## 임상 양상
 
 * 피로, 쇠약, 창백, 두통, 흥분, 혀의 통증, 운동 능력 저하(호흡 곤란, 빈맥)
 * 부서지는 손톱, 하지불안증후군, pica, pagophagia, cheilitis, koilonychia
 
+### Red Flags!
+
+* 임신 여성 Hb ＜9 g/㎗
+* 남성, 비-임신 여성 Hb ＜6 g/㎗
+* 4\~6주간의 철분 치료에 반응 없음
+* 종양 의심(대장암)
+
 ## 진단
 
 * hypochromic microcytic anemia
-*   혈청 ferritin : ＜15 ng/㎖
-
-    TIBC : ＞360 ㎍/㎗
-
-    혈청 Fe : ＜30 ㎍/㎗
-
-    transferrin saturation rate(Fe÷TIBC) : ＜10%
+* 혈청 ferritin : ＜15 ng/㎖, TIBC : ＞360 ㎍/㎗, 혈청 Fe : ＜30 ㎍/㎗, transferrin saturation rate(Fe÷TIBC) : ＜10%
 *   위장관 검사 : 다른 원인이 확인되지 않을 경우 위장관 출혈을 감별해야 함
 
     •무증상 폐경기 여성 및 남성 IDA 환자에서 (이전에 시행하지 않았다면) 위/대장 내시경 권고
@@ -73,9 +66,7 @@
 
 ### 감별
 
-```
-(☞ p.1021)
-```
+(☞ [빈혈](192_-anemia.md))
 
 ***
 
@@ -102,17 +93,16 @@
 
 * 1\~22%(평균 10%)
 * 철분 함유 음식 및 함께 섭취한 음식의 종류에 의하여 영향을 받음
-*   방해 : 유제품(생우유, 치즈), 섬유소(채소), 콩 단백질, 계란 노른자, 카페인(차, 커피), 미네랄(칼슘, 인), 약물(종합 비타민,
-
-    제산제, H2 차단제, PPI, tetracycline)
+* 방해 : 유제품(생우유, 치즈), 섬유소(채소), 콩 단백질, 계란 노른자, 카페인(차, 커피), 미네랄(칼슘, 인), 약물(종합 비타민, 제산제, H2 차단제, PPI, tetracycline)
 * 도움 : Vit C 및 Vit C 함유 과일(밀감류, 딸기류), 육류(meat), 생선
 * 주의 : allopurinol(간에서의 iron 저장을 증가시킴)
 
 ### 철분 함유 식품
 
-```
-![image](images/47d573d7-2c43-4ed0-9e69-7025266d6e1b.JPG)
-```
+<table data-header-hidden><thead><tr><th width="617"></th><th></th></tr></thead><tbody><tr><td><strong>식품</strong></td><td><strong>serving 당 철분 함량 (mg)</strong></td></tr><tr><td>철분 강화(DV 100%) 시리얼</td><td>18</td></tr><tr><td>조리된 굴 3온스(85g), 흰 콩 통조림 1컵</td><td>8</td></tr><tr><td>다크 초콜릿(45–69%) 3온스</td><td>7</td></tr><tr><td>쇠고기 간(pan fried) 3온스</td><td>5</td></tr><tr><td>렌즈콩 ½컵, 시금치 ½컵, 두부 ½컵</td><td>3</td></tr><tr><td>강낭콩 통조림 ½컵, 정어리(기름에 조리된) 3온스, 방어회 ½컵, 토마토 조림 통조림 ½컵, 쇠고기(지방 1/8" 이하) 3온스, 감자(중간 크기), 캐슈넛(기름에 구운) 1온스(18개)</td><td>2</td></tr></tbody></table>
+
+_boiled & drained. DV=Daily Value_ \
+_Ref. NIH Office of dietary supplements (https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)_
 
 ## 철분제 섭취
 
@@ -123,20 +113,25 @@
 * 3가염(ferric)보다 2가염(ferrous)이 용해도가 높아 보다 유용함 (보험기준 ☞ p.1196)
 * heme iron polypeptide, carbonyl iron, iron amino-acid chelate, polysaccharide iron; 2가/3가염보다 위장 부작용이 적음
 * 정제 : 1차 선택 (✽enteric coated 제제는 흡수가 저하될 가능성이 있음)
-*   액제 : 정제 복용이 어려운 경우나 위장 수술 시 고려 (✽위장 수술 시 위장 내 정제 용해가 저하됨)
+* 액제 : 정제 복용이 어려운 경우나 위장 수술 시 고려 (✽위장 수술 시 위장 내 정제 용해가 저하됨)
 
-    ![image](../.gitbook/assets/de1d6576-045e-47e3-a475-1ab65a52f491.JPG)
+| **성분명**                          | **상품명**                   | **원소철 함량**       |
+| -------------------------------- | ------------------------- | ---------------- |
+| Ferrous sulfate                  | 훼로바유 서방정 (256 mg)         | 80 mg (함유량 20%)  |
+| Ferrous fumarate                 | 복합제 (비분할)                 | 함유량 33%          |
+| Ferrous gluconate                | 훼리딘 (200 mg, 복합제·비분할)     | 24 mg (함유량 12%)  |
+| Ferric hydroxide                 | 헤모페온 에이 (357 mg, 복합제·비분할) | 100 mg (함유량 28%) |
+| Polysaccharide iron              | 헤모나우 캡셀 (326 mg)          | 150 mg           |
+| Iron protein succinylate         | 훼로바유 액 (800 mg)           | 40 mg (함유량 5%)   |
+| Iron acetyl transferrin          | 블러그 액/캡셀 (200 mg)         | 40 mg            |
+| Chondroitin sulfate-iron complex | 페리콘 캡셀 (300 mg, 복합제·비분할)  | 30 mg            |
 
 #### 용법
 
 * 1일 투여량 : 원소 철로서 60\~120 ㎎/d
 * 통상 3\~5일간 하루 1정/캡슐 공복(식간) 복용 후 부작용이 없으면 증량
-
-> ✽하루걸러 복용하는 것이 매일 복용하는 것보다 흡수가 증가하고 위장 부작용이 적다는 보고가 있음
-
-*   고령자에서는 저용량 투여(＞80세- 원소 철 15 ㎎/d); 고령자에서는 경구 철분제에 의한 독성이 더 클 수 있으며,
-
-    저용량 투여 시 효과는 통상 용량과 유의미한 차이가 없으면서 부작용은 줄어듦
+  * 하루걸러 복용하는 것이 매일 복용하는 것보다 흡수가 증가하고 위장 부작용이 적다는 보고가 있음
+* 고령자에서는 저용량 투여(＞80세- 원소 철 15 ㎎/d); 고령자에서는 경구 철분제에 의한 독성이 더 클 수 있으며, 저용량 투여 시 효과는 통상 용량과 유의미한 차이가 없으면서 부작용은 줄어듦
 * 월경량이 많은 여성은 매일 흡수 철분 3\~4 ㎎을 요하며 흔히 철분제 복용이 필요함
 * 흡수를 돕는 음식과 함께 복용 : Vit C 제제 또는 오렌지 주스와 함께 복용
 *   흡수 방해 음식이나 약물을 피하여 복용 : 흡수 방해 식품 섭취 2시간 이후 및 섭취 1시간 전 철분제 복용,
@@ -146,16 +141,13 @@
 
 #### 부작용
 
-*   구역, 변비(\~¼에서 발생), 복통, 치아 착색(액제 복용 시), 쇠 맛, 검은 변
-
-    •≥45 ㎎/d 투여 시 위장 부작용의 발생 가능성이 많음
+* 구역, 변비(\~¼에서 발생), 복통, 치아 착색(액제 복용 시), 쇠 맛, 검은 변
+  * ≥45 ㎎/d 투여 시 위장 부작용의 발생 가능성이 많음
 
 #### 대처
 
 * 약제 변경, 액제 선택, 원소 철 비율이 낮은 제제(예: ferrous gluconate) 선택
-
-> ✽mucoprotease를 함유한 서방형 ferrous sulfate가 복용이 편하다는 보고가 있음
-
+  * mucoprotease를 함유한 서방형 ferrous sulfate가 복용이 편하다는 보고가 있음
 * 저용량 복용, 분할 복용, 격일 복용, 음식과 함께 복용(단, 흡수가 감소됨)
 * 변비 발생 시 섬유질 섭취를 늘림
 * 액제 복용에 의한 치아 착색 예방을 위하여 빨대 이용 섭취 또는 복용 후 입안을 물로 헹굼
@@ -171,9 +163,7 @@
 #### 약제
 
 * 투여량 : 철 부족량을 계산식에 의해 구하여 공급
-*   ferric hydroxide sucrose complex \[베노훼럼 주], ferric carboxymaltose [페린젝트 주](../%EB%B9%84%EB%B3%B4%ED%97%98/), ferric gluconate, ferric
-
-    pyrophosphate citrate, ferumoxytol, iron dextran(✽중증 알레르기 부작용이 있음), iron isomaltoside [모노퍼 주](../%EB%B9%84%EB%B3%B4%ED%97%98/)
+* ferric hydroxide sucrose complex \[베노훼럼 주], ferric carboxymaltose [페린젝트 주](../%EB%B9%84%EB%B3%B4%ED%97%98/), ferric gluconate, ferric pyrophosphate citrate, ferumoxytol, iron dextran(✽중증 알레르기 부작용이 있음), iron isomaltoside [모노퍼 주](../%EB%B9%84%EB%B3%B4%ED%97%98/)
 
 #### 부작용
 
@@ -182,21 +172,15 @@
 #### 대처
 
 * 천천히 주입. 소량의 test dose 주입을 고려
-*   주사 전 처치 : 천식, 다제약물 알레르기, 또는 염증성 관절염이 있는 환자에 대하여 주입 전 methylprednisolone 투여
-
-    \[솔루메드롤 주] (✽anaphylaxis 예방을 위한 steroid와 항히스타민제 투여 효과에 대하여 논란;
-
-    AAAAI는 radiocontrast 제제의 전 처치로서 이들 투여에 반대함(2020))
+* 주사 전 처치 : 천식, 다제약물 알레르기, 또는 염증성 관절염이 있는 환자에 대하여 주입 전 methylprednisolone 투여 \[솔루메드롤 주] (✽anaphylaxis 예방을 위한 steroid와 항히스타민제 투여 효과에 대하여 논란; AAAAI는 radiocontrast 제제의 전 처치로서 이들 투여에 반대함(2020))
 * 진통제(NSAID) 투여 : 요통이나 관절통에 대하여 투여
 
 ### 임산부
 
 * 보충
-
-> ✽USPSTF에서는 일률적인 투여를 권고하지 않음 •임신 : 첫 번째 산전 진찰 때부터 저용량(원소 철 30 ㎎/d qd) 투여
-
-•수유 : 신생아 월령 6개월부터 원소 철 1 ㎎/㎏/d
-
+  * 임신 : 첫 번째 산전 진찰 때부터 저용량(원소 철 30 ㎎/d qd) 투여
+  * 수유 : 신생아 월령 6개월부터 원소 철 1 ㎎/㎏/d
+  - [ ] USPSTF에서는 일률적인 투여를 권고하지 않음&#x20;
 * 치료(Hb ＜9 g/㎗ 또는 HCT ＜27%인 경우) : 원소 철 60\~120 ㎎/d #2
 
 ## 모니터링
@@ -224,8 +208,16 @@
 * hypoproliferation : erythropoietin 감소, 신부전
 * 다른 빈혈 질환 : 만성 질환, thalassemia, 납 중독
 
-> **질병코드** D50 철결핍빈혈
 
-![image](../.gitbook/assets/9c272c68-43d5-4f1c-ae84-92d9e20ad98a.JPG)
+
+**질병코드**&#x20;
+
+D50 철결핍빈혈
 
 ### 처방례
+
+처방례 1.\
+훼로바-유 서방정 1T qd 공복 복용\
+처방례 2. 정제 복용이 어려운 경우\
+볼그레 액 1P bid 공복 복용
+
