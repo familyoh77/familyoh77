@@ -1,19 +1,17 @@
 # 압박 궤양/손상 Pressure Ulcer/Injury
 
-![image](../.gitbook/assets/6a34b023-1149-48f2-86dc-12618786b05f.JPG)
-
 ## 일반 사항
 
 * 피부 표면과 골(융기부) 사이에 압력이나 마찰이 가해져 발생한 국소 피부 &/or 연조직 손상
 * 압박되는 부위보다 피부 상태가 더 중요할 수 있음
 
-### International NPUAP/EPUAP pressure ulcer classification system
+### International NPUAP/EPUAP pressure ulcer classification system (2014)
 
-```
-(2014)
-```
+<h4 align="center"><img src="../.gitbook/assets/47f43cef-befc-4fba-9b76-e23ed69612a3.JPG" alt="image"></h4>
 
-#### stage Ⅰ: Non-blanchable erythema![image](../.gitbook/assets/47f43cef-befc-4fba-9b76-e23ed69612a3.JPG)
+
+
+#### stage Ⅰ: Non-blanchable erythema
 
 * 피부 유지, 국소 홍반(압박으로 옅어지지 않음)
 * 국소 통증, firm, soft, 온도 변화(따듯하거나 차가움)
@@ -62,7 +60,7 @@
 * Stages Ⅰ\~Ⅱ : 지속적인 압력, 습기, 전단력, 마찰; 강한 압박이나 저산소증이 없어도 발생할 수 있음
 * Stages Ⅲ\~Ⅳ : 압박 및 저산소증
 
-위험 인자
+### 위험 인자
 
 * 습한 피부, 체온 상승, 고령, 지각 감각 손상
 * 이동성/활동 제한, 감각 저하, 의식 저하, 요실금, 변실금
@@ -71,7 +69,15 @@
 * 관리자의 부적절한 관리
 * pressure injury 발생 병력
 
-※ 영양 결핍과 낮은 BMI는 나쁜 예후의 척도가 됨
+- [ ] 영양 결핍과 낮은 BMI는 나쁜 예후의 척도가 됨
+
+### Red Flags!
+
+* 치료에 반응하지 않음
+* stage Ⅲ\~Ⅳ 또는 비수술적 방법으로 제거할 수 없는 조직 괴사/공동
+* 난치성 연조직염, 패혈증, 골수염, 전신 감염, 혈관염
+* 지속되는 불량한 영양 상태
+* 수술적 혈류 개선이 요구되는 상황, 피부 이식이 필요한 상황
 
 ## 진단
 
@@ -85,8 +91,6 @@
 * CBC, 혈액 배양, X선, MRI : 전신 감염 또는 깊은 조직 감염 시 고려
 * 영양 평가 : 영양/칼로리 섭취량, 혈청 단백질/알부민, 빈혈
 * ankle-brachial index, 도플러 초음파 : 하지 상처에 대하여 고려
-
-![image](../.gitbook/assets/7ac0e96d-169c-458b-9963-952cd6096cfe.JPG)
 
 ***
 
@@ -108,33 +112,21 @@
 
 * stage Ⅰ : 예방(피부 보호); transparent thin film(polyurethane film) 드레싱
 * stage Ⅱ : 습윤 드레싱; transparent film(hydrocolloid)
-*   stages Ⅲ\~Ⅳ :
+* stages Ⅲ\~Ⅳ :
+  1. 괴사 조직 제거
+  2.  삼출성 병변에 대하여 흡수성 드레싱(Ca alginate, foam, hydrofiber), 건조 병변에 대하여
 
-    ① 괴사 조직 제거.
+      습윤 드레싱(hydrocolloid, hydrogel)
+  3. 감염 치료
 
-    ② 삼출성 병변에 대하여 흡수성 드레싱(Ca alginate, foam, hydrofiber), 건조 병변에 대하여
+### 치유 평가 (Pressure ulcer scale for healing) \[National Pressure Ulcer Advisory Panel]
 
-    습윤 드레싱(hydrocolloid, hydrogel),
+* 배점 (https://www.sralab.org/sites/default/files/2017-06/push3.pdf)
+  *   면적(가장 긴 길이×폭; ㎠) : 0=0점, ＜0.3=1점, \~0.6=2점, \~1.0=3점, \~2.0=4점, \~3.0=5점,
 
-    ③ 감염 치료
-
-### 치유 평가 (Pressure ulcer scale for healing)
-
-```
-[National Pressure Ulcer Advisory Panel]
-```
-
-*   배점 (https://www.sralab.org/sites/default/files/2017-06/push3.pdf)
-
-    •면적(가장 긴 길이×폭; ㎠) : 0=0점, ＜0.3=1점, \~0.6=2점, \~1.0=3점, \~2.0=4점, \~3.0=5점,
-
-    \~4.0=6점, \~8.0=7점, \~12=8점, \~24.0=9점, ＞24=10점
-
-    •삼출물 : none=0점, light=1점, moderate=2점, heavy=3점
-
-    •조직 형태 : sloughing 또는 necrosis 평가; closed=0점, epithelial tissue=1점, granulation tissue=2점, slough=3점,
-
-    necrotic tissue=4점
+      \~4.0=6점, \~8.0=7점, \~12=8점, \~24.0=9점, ＞24=10점
+  * 삼출물 : none=0점, light=1점, moderate=2점, heavy=3점
+  * 조직 형태 : sloughing 또는 necrosis 평가; closed=0점, epithelial tissue=1점, granulation tissue=2점, slough=3점, necrotic tissue=4점
 * 총점 감소는 회복, 증가는 악화를 의미
 
 ### 체위 변경, 압력 최소화
@@ -142,14 +134,8 @@
 #### 자세/체위 관리
 
 * 자주 체위 변경 : 2시간마다. 들어서 변경(끌지 않음)
-*   누운 자세 : 좌/우 30도 기울임 자세(90도 측면 누임보다 기울임이 유리), 필요에 따라 엎드린 자세(장시간 유지는 피함);
-
-    침대 머리 부분은 가능한 한 평평하게 함; 환자가 침대 레일과 닿지 않도록 충분히 넓은 침대 선택
-*   앉은 자세 : 제한된 시간 동안 적절한 의자/휠체어에 앉아 있음(침대를 벗어남), 다리는 받쳐 올리고 기울어진 의자(reclined
-
-    chair), 똑바로 앉을 때는 발바닥이 바닥/받침에 닿도록 함(무릎 각도는 ＜90도); 앞으로 미끄러지지 않도록 주의,
-
-    오래 앉아 있을 때는 압력이 완화되도록 움직임 교육
+* 누운 자세 : 좌/우 30도 기울임 자세(90도 측면 누임보다 기울임이 유리), 필요에 따라 엎드린 자세(장시간 유지는 피함); 침대 머리 부분은 가능한 한 평평하게 함; 환자가 침대 레일과 닿지 않도록 충분히 넓은 침대 선택
+* 앉은 자세 : 제한된 시간 동안 적절한 의자/휠체어에 앉아 있음(침대를 벗어남), 다리는 받쳐 올리고 기울어진 의자(reclined chair), 똑바로 앉을 때는 발바닥이 바닥/받침에 닿도록 함(무릎 각도는 ＜90도); 앞으로 미끄러지지 않도록 주의, 오래 앉아 있을 때는 압력이 완화되도록 움직임 교육
 
 #### 도구 사용
 
@@ -179,72 +165,53 @@
 ### 세척/소독
 
 * 생리 식염수로 매일 시행
-*   세포 독성이 있는 소독제 : fibroblast 및 상피 조직에 대한 독성 작용으로 치유를 방해할 수 있으므로 감염이 발생한 경우에
-
-    한하여 제한적으로 사용
-
-    •benzalkonium chloride, povidone, 과산화수소, acetic acid (☞ p.1056)
+* 세포 독성이 있는 소독제 : fibroblast 및 상피 조직에 대한 독성 작용으로 치유를 방해할 수 있으므로 감염이 발생한 경우에 한하여 제한적으로 사용
+  * benzalkonium chloride, povidone, 과산화수소, acetic acid (☞ p.1056)
 
 ### 괴사 조직 제거 또는 절제
 
-*   wet-to-dry 드레싱 : 적신 거즈 적용 → 건조해진 거즈를 제거할 때 괴사 조직이 함께 떨어져 나옴
-
-    •거즈 드레싱은 wet-to-dry 드레싱 때에만 적용함
-
-    •조직이 심하게 제거되면 회복이 지연될 수 있음
-
-    •교체 시 통증이 있거나 상처 바닥이 깨끗해지고 건조해지면 중단
-*   수치료(hydrotherapy) : 걸쭉한 삼출물 및 괴사 조직 제거 목적으로 적용
-
-    •19 G 바늘 또는 혈관 카테터 주사기, water-jet 등을 사용
-
-    •기구의 분출구가 상처에 너무 가까이 위치하지 않도록 주의
-*   자가용해법 : 밀폐 드레싱으로 상처 내에 존재하는 자가 용해를 일으키는 효소를 보존
-
-    •thin film, hydrocolloid 등을 사용하여 분비물이 적고 감염되지 않은 stage Ⅰ\~Ⅱ에 적용
-*   효소법 : papain, urea, collagenase 등으로 괴사 조직을 소화시킴
-
-    •정상 조직을 손상시킬 수 있음
-
-    •감염 시 금기
-*   dextranomer : highly dextran polymer 구슬
-
-    •삼출물, 세균, 오염 물질이 구슬에 흡수됨. 육아 조직 형성 및 상처 치유를 촉진
-
-    •1일 1회\~수회 상처에 도포하고 거즈로 덮음
-*   외과적 제거 : 두꺼운 딱지 및 괴사 조직을 외과적으로 제거
-
-    •발뒤꿈치 등에 있는 안정된(홍반이나 파동 없이 건조하고 붙어 있는) 가피는 제거하지 않음
+* wet-to-dry 드레싱 : 적신 거즈 적용 → 건조해진 거즈를 제거할 때 괴사 조직이 함께 떨어져 나옴
+  * 거즈 드레싱은 wet-to-dry 드레싱 때에만 적용함
+  * 조직이 심하게 제거되면 회복이 지연될 수 있음
+  * 교체 시 통증이 있거나 상처 바닥이 깨끗해지고 건조해지면 중단
+* 수치료(hydrotherapy) : 걸쭉한 삼출물 및 괴사 조직 제거 목적으로 적용
+  * 19 G 바늘 또는 혈관 카테터 주사기, water-jet 등을 사용
+  * 기구의 분출구가 상처에 너무 가까이 위치하지 않도록 주의
+* 자가용해법 : 밀폐 드레싱으로 상처 내에 존재하는 자가 용해를 일으키는 효소를 보존
+  * thin film, hydrocolloid 등을 사용하여 분비물이 적고 감염되지 않은 stage Ⅰ\~Ⅱ에 적용
+* 효소법 : papain, urea, collagenase 등으로 괴사 조직을 소화시킴
+  * 정상 조직을 손상시킬 수 있음
+  * 감염 시 금기
+* dextranomer : highly dextran polymer 구슬
+  * 삼출물, 세균, 오염 물질이 구슬에 흡수됨. 육아 조직 형성 및 상처 치유를 촉진
+  * 1일 1회\~수회 상처에 도포하고 거즈로 덮음
+* 외과적 제거 : 두꺼운 딱지 및 괴사 조직을 외과적으로 제거
+  * 발뒤꿈치 등에 있는 안정된(홍반이나 파동 없이 건조하고 붙어 있는) 가피는 제거하지 않음
 
 ### 습윤 드레싱
 
 * 효과 : 콜라겐 합성, 혈관 형성, 상처 치유 촉진
-*   깊은 욕창(stage Ⅲ, Ⅳ)의 경우 dead space가 없도록 주의하며 필요시 식염수로 적신 거즈 등으로 packing(거즈로 드레싱을
+* 깊은 욕창(stage Ⅲ, Ⅳ)의 경우 dead space가 없도록 주의하며 필요시 식염수로 적신 거즈 등으로 packing(거즈로 드레싱을 하는 경우 거즈가 마르지 않도록 주의해야 함)
+* 습윤 드레싱 소재
+  *
 
-    하는 경우 거즈가 마르지 않도록 주의해야 함)
-*   습윤 드레싱 소재
-
-    ![image](../.gitbook/assets/22d67bb0-72c2-49a6-a87f-82c0441a3a95.JPG)
+      <table data-header-hidden><thead><tr><th width="187"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Wound Dressing (상품명)</strong></td><td><strong>흡수력</strong></td><td><strong>가피제거</strong></td><td><strong>교체주기</strong></td><td><strong>Stage</strong></td></tr><tr><td><strong>polyurethane film [테가덤]</strong></td><td>none</td><td>none</td><td>1주 이내</td><td>I, II</td></tr><tr><td><strong>hydrogel sheets [Dermagauze]</strong></td><td>minimal</td><td>autolysis</td><td>1주 이내</td><td>II, III</td></tr><tr><td><strong>hydrocolloid [듀오덤]</strong></td><td>minimal</td><td>autolysis</td><td>1주 이내</td><td>II, III, IV</td></tr><tr><td><strong>alginate [SorbSan]</strong></td><td>minimal</td><td>autolysis</td><td>매일~3일</td><td>II, III, IV</td></tr><tr><td><strong>polyurethane foam [메디폼]</strong></td><td>moderate</td><td>none</td><td>1주 이내</td><td>II, III, IV</td></tr></tbody></table>
 
 ### 감염 관리
 
 * 필요시 조직 배양 검사 시행
-*   모든 욕창에는 피부 균주 또는 분변 균주가 존재하며 이것이 감염을 의미하는 것은 아니므로 상처 표면 배양 검사는 도움이
-
-    거의 되지 않음
+* 모든 욕창에는 피부 균주 또는 분변 균주가 존재하며 이것이 감염을 의미하는 것은 아니므로 상처 표면 배양 검사는 도움이 거의 되지 않음
 
 #### 항생제
 
 * 감염 소견이 있는 경우 선택
 * 국소 항생제 : 2주간 도포 : silver sulfadiazine \[실마진 크림], chlorhexidine [헥시딘 액](../%EC%86%8C%EB%8F%85%EC%95%A1/)
-* 전신적 항생제 (☞ p.901)
+* 전신적 항생제 (☞ [피부감염](../229_/165_-skin-and-soft-tissue-infection.md#undefined-14))
 
 #### 감염 의심 소견
 
 * 치유 지연, 2주간의 적절한 치료에도 불구하고 호전되지 않음
-*   큰 크기 &/or 깊은 병소, wound breakdown/dehiscence, 괴사 조직, friable granulation tissue, wound bed에 pocketing
-
-    or bridging
+* 큰 크기 &/or 깊은 병소, wound breakdown/dehiscence, 괴사 조직, friable granulation tissue, wound bed에 pocketing or bridging
 * 삼출물 증가 또는 성상 변화, 통증 증가, 악취, 주변 조직 온도 상승
 
 #### Biofilm 의심 소견
@@ -254,8 +221,7 @@
 * poor granulation or friable hypergranulation 증가
 * low level erythema &/or low level chronic inflammation
 * 2차 감염 징후
-
-> ✽biofilm : 세균 스스로 생성한 다당체를 매개로 인접한 세균이 응집하여 막을 형성한 상태
+  * biofilm : 세균 스스로 생성한 다당체를 매개로 인접한 세균이 응집하여 막을 형성한 상태
 
 #### 감염 확산 의심 소견
 
@@ -286,6 +252,19 @@
 * 필요시 뼈의 돌출부(예: 뒤꿈치, 천골부)에 polyurethane foam 적용 고려
 * 압박 손상 가능성이 있는 사람에 대하여 영양 평가 시행 및 관리(고칼로리, 고단백질, 영양제)
 
-> **질병코드** L89 욕창궤양 및 압박부위
+### **질병코드**&#x20;
 
-![image](../.gitbook/assets/f8cf8c3c-eec5-4c7f-bddb-5866c5627363.JPG)
+L89 욕창궤양 및 압박부위
+
+
+
+## 처방례&#x20;
+
+처방례 1.\
+파목신 500 ㎎/C 3C #3\
+애니펜 300 ㎎/T 3T #3\
+헥시딘 액 소독 bid\
+처방례 2.\
+팔렉신 500 ㎎/C 3C #3\
+부루펜 200 ㎎/T 6T #6\
+일바돈 크림 드레싱 1일 1\~2회
