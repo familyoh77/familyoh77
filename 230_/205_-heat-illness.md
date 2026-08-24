@@ -1,7 +1,5 @@
 # 열 질환 Heat Illness
 
-![image](../.gitbook/assets/7c49fdb5-530f-4374-8386-f7bb73de3032.JPG)
-
 ## 일반 사항
 
 * 체온의 지나친 상승에 의해 발생하는 질병 상태
@@ -11,9 +9,9 @@
 * 운동 관련 열사병 : 심한 운동 또는 활동과 관련된 열사병
 * 고전적 열사병(classic heat stroke) : 고령 또는 만성질환자에서 서서히 발생하는 열사병
 
-> ✽일사병은 sun stroke을 말함
+- [ ] 일사병은 sun stroke을 말함
 
-#### 중증 열 손상의 위험 인자![image](../.gitbook/assets/a221bbe2-fe99-4fbc-b443-4479bd5ac218.JPG)
+#### 중증 열 손상의 위험 인자
 
 * 고온, 고습, 공기 순환 저하 환경
 * 고령, 신체 건강 저하, 낮은 활동 능력
@@ -28,6 +26,13 @@
 
     neuroleptics, phenothiazine, benzodiazepine, TCA, 이뇨제, β-차단제, CCB, clopidogrel, 하제, thyroid 작용제
 * 과거 열 질환 병력
+
+### Red Flags!
+
+* CNS 이상 증상
+* 위장관 출혈, 지속되는 구토/설사
+* 지속되는 저혈압, 저혈당, 핍뇨, 근육통(rhabdomyolysis 의심), 전해질 이상, Cr ＞2 ㎎/㎗
+* 급성 신 손상 의심, myoglobinuria, DIC
 
 ## 열 질환의 종류 및 치료
 
@@ -109,12 +114,8 @@
 
 \*\* Cold water immersion에 대한 논란\*\*
 
-*   찬물에 몸을 담그면 말초혈관 수축이 발생할 수 있지만 신체를 냉각시키는 전도 및 대류 작용에 비하여 유의미한 영향은
-
-    없음
-*   Ice water immersion은 환자에게 불편을 주지만 치명적인 상태를 벗어나기 위해 시행할 수 있으며 적절히 관리하는 경우
-
-    환자에게 심각한 손상을 입히지는 않음
+* 찬물에 몸을 담그면 말초혈관 수축이 발생할 수 있지만 신체를 냉각시키는 전도 및 대류 작용에 비하여 유의미한 영향은 없음
+* Ice water immersion은 환자에게 불편을 주지만 치명적인 상태를 벗어나기 위해 시행할 수 있으며 적절히 관리하는 경우 환자에게 심각한 손상을 입히지는 않음
 * 2019 WMS 치침에서는 heat stroke에서 찬물에 담그는 것을 최적의 냉각 방법으로 권고
 
 ## 검사
@@ -122,9 +123,52 @@
 * 전해질 균형 및 말단 기관 손상 감별을 위한 검사 시행; 경증에서는 필요하지 않음
 * U/A, 뇨 비중
 * CBC, 전해질(Na, K, Cl, HCO3, Ca), BUN/Cr, 간 효소, 혈액 응고(PT, INR, aPTT), creatine kinase
-*   ECG
+* ECG
 
-    ![image](../.gitbook/assets/ae84fb93-85e1-4454-94d7-c1a2c6331c16.JPG)
+
+
+```mermaid
+flowchart TD
+    A(["열 질환의 증상/징후"]) --> B{"CNS 이상 증상/징후"}
+
+    %% 경증 열 질환 경로 (No)
+    B -- "no" --> C["Mild heat illness*<br/><small><i>*Heat exhaustion, Heat syncope, Heat cramps</i></small>"]
+    C --> D["• 냉각: 시원한 환경, 선풍기<br/>• 경구 hydration, 전해질, 짠 음식<br/>• 증상 관찰"]
+    D --> E{"증상 지속 또는 악화?"}
+    
+    E -- "yes" --> F["• 적극적인 냉각 조치<br/>• 다른 질환 고려<br/>• 이송"]
+    E -- "no" --> G["• 안정<br/>• 시원한 곳에서 체류<br/>• 열 질환의 증상 교육<br/>• 활동 복귀 보류 고려"]
+
+    %% 중증/신경계 이상 경로 (Yes)
+    B -- "yes" --> H{"≥ 40℃?"}
+    
+    H -- "yes" --> I["Heat stroke"]
+    I --> J["• airway, breathing & circulation 확보<br/>• 신속한 냉각 (immersion 등)<br/>• (가능하면) IV hydration<br/>• 응급실 이송"]
+    
+    H -- "no" --> K["<u><b>다른 질환 고려</b></u><br/>• 저혈당<br/>• 발작<br/>• 중증 저나트륨혈증<br/>• 고마그네슘혈증<br/>• CNS 질환<br/>• 고소 뇌부종<br/>• 감염<br/>• 내분비 문제<br/>• 독성 물질/약물"]
+
+    %% 스타일 정의
+    classDef header fill:#ede7f6,stroke:#7e57c2,color:#311b92,stroke-width:2px;
+    classDef decision fill:#fffde7,stroke:#fbc02d,color:#f57f17,stroke-width:2px;
+    classDef titleNode fill:#fbe9e7,stroke:#ff7043,color:#bf360c,stroke-width:2px;
+    classDef action fill:#e1f5fe,stroke:#29b6f6,color:#01579b,stroke-width:1px;
+    classDef diff fill:#ffebee,stroke:#ef5350,color:#b71c1c,stroke-width:1px;
+
+    class A header;
+    class B decision;
+    class E decision;
+    class H decision;
+    class C titleNode;
+    class I titleNode;
+    class D action;
+    class F action;
+    class G action;
+    class J action;
+    class K diff;
+```
+
+열 질환 치료 알고리듬\
+Ref. WMS. Practice Guidelines for the Prevention and Treatment of Heat Illness. 2019
 
 ## 예방
 
@@ -141,12 +185,13 @@
 * 실내라도 더운 곳에서 활동할 때는 갈증이 없더라도 물을 충분히 섭취
 * 땀을 많이 흘리는 운동 시 매 20분마다 수분 섭취 : 체중 40 ㎏- 150 ㎖, 60 ㎏- 270 ㎖, ＞60 ㎏- 300\~350 ㎖
 * 1시간 이상 운동을 하는 경우 전해질 및 탄수화물이 포함된 음료를 섭취
-*   소금 정제 : 고나트륨혈증 및 위 배출 지연을 일으킬 수 있으므로 사용을 제한
-
-    •섭취 대상 : 재발성 열경련, 특별히 많은 땀 분비, 지속적인 운동(예: 마라톤 선수)
+* 소금 정제 : 고나트륨혈증 및 위 배출 지연을 일으킬 수 있으므로 사용을 제한
+  * 섭취 대상 : 재발성 열경련, 특별히 많은 땀 분비, 지속적인 운동(예: 마라톤 선수)
 * 커피, 술 섭취는 삼가
 * heat risk를 평가하기 위하여 wet-bulb globe temperature index(WBGT)가 유용함
 
-> ✽WBGT : 건습구 온도를 이용하여 계산하며 ‘폭염지수’ 등의 명칭으로 발표되고 있음
+- [ ] WBGT : 건습구 온도를 이용하여 계산하며 ‘폭염지수’ 등의 명칭으로 발표되고 있음
 
-> **질병코드** T67 열 및 빛의 영향
+### **질병코드**&#x20;
+
+T67 열 및 빛의 영향
