@@ -161,7 +161,11 @@ flowchart LR
 
 ### <mark style="color:orange;">MCV에 따른 주요 감별</mark>
 
-<table><thead><tr><th>분류</th><th>주요 원인</th><th>진단 단서</th></tr></thead><tbody><tr><td>소구성<br>(MCV ＜80 fL)</td><td>철결핍, 염증성 빈혈, thalassemia, 드물게 sideroblastic anemia·납중독</td><td>철검사, CRP/ESR, RBC 수·Mentzer index를 참고하되 필요 시 Hb electrophoresis 또는 유전검사</td></tr><tr><td>정구성<br>(MCV 80\~100 fL)</td><td>급성출혈, CKD, 염증성 빈혈, 용혈, 내분비질환, 초기 철/B12/folate 결핍, 혼합결핍, 골수질환</td><td>망상적혈구 반응이 가장 중요한 첫 분기</td></tr><tr><td>대구성<br>(MCV ＞100 fL)</td><td>B12·folate 결핍, 알코올, 간질환, 갑상선기능저하증, 약물, reticulocytosis, MDS</td><td>macro-ovalocyte와 hypersegmented neutrophil은 megaloblastic process 시사; reticulocytosis·cold agglutinin은 MCV를 높일 수 있음</td></tr></tbody></table>
+| 분류                             | 주요 원인                                                        | 진단 단서                                                                                                               |
+| ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| <p>소구성<br>(MCV ＜80 fL)</p>     | 철결핍, 염증성 빈혈, thalassemia, 드물게 sideroblastic anemia·납중독       | 철검사, CRP/ESR, RBC 수·Mentzer index를 참고하되 필요 시 Hb electrophoresis 또는 유전검사                                             |
+| <p>정구성<br>(MCV 80\~100 fL)</p> | 급성출혈, CKD, 염증성 빈혈, 용혈, 내분비질환, 초기 철/B12/folate 결핍, 혼합결핍, 골수질환 | 망상적혈구 반응이 가장 중요한 첫 분기                                                                                               |
+| <p>대구성<br>(MCV ＞100 fL)</p>    | B12·folate 결핍, 알코올, 간질환, 갑상선기능저하증, 약물, reticulocytosis, MDS  | macro-ovalocyte와 hypersegmented neutrophil은 megaloblastic process 시사; reticulocytosis·cold agglutinin은 MCV를 높일 수 있음 |
 
 * RDW는 혼합된 적혈구 크기를 보여주는 보조지표이며 단독으로 철결핍, thalassemia, 용혈 또는 골수질환을 확진하지 않는다.
 * 철결핍과 B12/folate 결핍이 함께 있으면 MCV가 정상으로 보일 수 있다.
