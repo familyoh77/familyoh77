@@ -46,13 +46,11 @@
 * 깊은 상처(예: 욕창)의 경우 dead space가 없도록 주의하며 필요시 식염수에 적신 거즈 등으로 packing
 * 습윤 드레싱 : 콜라겐 합성과 혈관 형성, 상처 치유 촉진
 
-| **Wound Dressing \[상품명]**    | **흡수력**  | **가피 제거** |
-| ---------------------------- | -------- | --------- |
-| polyurethane film (테가덤)      | none     | none      |
-| hydrogel sheets (Dermagauze) | minimal  | autolysis |
-| hydrocolloid (듀오덤)           | minimal  | autolysis |
-| alginate (SorbSan)           | minimal  | autolysis |
-| polyurethane foam (메디폼)      | moderate | none      |
+| **Wound Dressing \[상품명]**                                                       | **흡수력**  | **가피 제거** |
+| ------------------------------------------------------------------------------- | -------- | --------- |
+| polyurethane film \[테가덤]                                                        | none     | none      |
+| <p>hydrogel sheets [Dermagauze]<br>hydrocolloid [듀오덤]<br>alginate [SorbSan]</p> | minimal  | autolysis |
+| polyurethane foam \[메디폼]                                                        | moderate | none      |
 
 Ref. Rakel Family medicine 9th ed. 2016. Table 4-10.
 
