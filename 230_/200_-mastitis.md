@@ -1,7 +1,5 @@
 # 유방염 Mastitis
 
-![image](../.gitbook/assets/57426e44-ff79-4e40-bf66-9a40ab5d5ecf.JPG)
-
 ## 일반 사항
 
 * milk duct 및 주위 조직(유방 실질 및 유두, 유륜, 피하 지방)으로의 염증 세포 침윤에 의한 유방 실질의 염증
@@ -12,9 +10,7 @@
 
 ## 원인
 
-*   원인균 : S. aureus (산욕기 감염 또는 유방 농양 시 MRSA 고려), anaerobic bacilli(bacteroides; 재발성 유방염에서 고려),
-
-    Candida
+* 원인균 : S. aureus (산욕기 감염 또는 유방 농양 시 MRSA 고려), anaerobic bacilli(bacteroides; 재발성 유방염에서 고려), Candida
 * 사춘기 유방염 : 피부 자극(shaving, nipple stimulation), 외상, 이물(piercing), 유선 이상(ductal ectasia), epidermal cyst 감염
 
 ### 위험 인자
@@ -23,19 +19,13 @@
 * 출생 1\~5주째 영아
 * 사춘기 여성
 * 손상된 유두
-*   수유부
-
-    •자주하지 않는 수유, 수유를 거름, 지나치게 정해진 일정에 따른 수유
-
-    •유방을 충분히 비우지 못하는 약하거나 불충분한 수유
-
-    •아기의 섭취에 비하여 많은 모유 생산
-
-    •조기 수유 중단
-
-    •산모 또는 아기의 질병 상태
-
-    •유두 꼭지 폐쇄 : milk blister, granular material, Candida 감염
+* 수유부
+  * 자주하지 않는 수유, 수유를 거름, 지나치게 정해진 일정에 따른 수유
+  * 유방을 충분히 비우지 못하는 약하거나 불충분한 수유
+  * 아기의 섭취에 비하여 많은 모유 생산
+  * 조기 수유 중단
+  * 산모 또는 아기의 질병 상태
+  * 유두 꼭지 폐쇄 : milk blister, granular material, Candida 감염
 * 유방 압박 : 조이는 브래지어, 자동차 안전벨트
 * 스트레스, 피로, 영양 부족, 당뇨
 
@@ -58,9 +48,9 @@
 
 ### 증상/병력에 따른 유방 문제의 감별
 
-```
-![image](images/2130faf1-dcf0-45ac-92c7-b243a2db0832.JPG)
-```
+
+
+<figure><img src="../.gitbook/assets/유방통1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -98,9 +88,7 @@
 
 ### 항생제
 
-```
-(☞ p.901)
-```
+(☞ [피부감염](../229_/165_-skin-and-soft-tissue-infection.md#undefined-14))
 
 * 항생제 치료를 지지할만한 근거는 부족함
 * 대상 : 중증, 다른 치료로 24시간 내 증상 호전되지 않음, 급성 악화 경과를 보임
@@ -122,8 +110,20 @@
 
 * 항생제 등 약물로 해결되지 않는 경우 고려
 
-> **질병코드** N61 유방의 염증성 장애
+
+
+### **질병코드**&#x20;
+
+N61 유방의 염증성 장애
 
 O91 출산과 관련된 유방의 감염
 
-![image](../.gitbook/assets/bf793551-75fe-41b1-afab-e281ca3c70c5.JPG)
+
+
+## 처방례&#x20;
+
+처방례 1.\
+부루펜 200 ㎎/T 6T #3\
+처방례 2. 24시간 내 호전되지 않음 또는 악화\
+팔렉신 500 ㎎/C 4C #4\
+애니펜 300 ㎎/T 3T #3
