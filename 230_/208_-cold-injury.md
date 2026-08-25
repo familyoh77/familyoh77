@@ -1,7 +1,5 @@
 # 냉 손상 Cold Injury
 
-![image](../.gitbook/assets/e936b89b-5123-4231-856f-0ef01fd3f2e1.JPG)
-
 ## ￭ 동상 Frostbite
 
 ## 일반 사항
@@ -17,11 +15,11 @@
 * 3rd-degree : deep 출혈성 물집, 진피 및 vascular plexus 이환
 * 4th-degree : 진피 및 피하 조직 이환, 괴사
 
-> ✽표재성=1도 & 2도, 심재성=3도 & 4도
+- [ ] 표재성=1도 & 2도, 심재성=3도 & 4도
 
 ## 원인
 
-* 낮은 온도, 습기 및 바람에 의한 냉각![image](../.gitbook/assets/ba021e98-b80a-4d89-b25c-bd222ba334e9.JPG)
+* 낮은 온도, 습기 및 바람에 의한 냉각
 * 압박 등에 의한 혈액 순환 장애
 
 ### 위험 인자
@@ -47,13 +45,19 @@
 * 물집(체액 또는 혈액)
 * 움직임 장애(예: 불편한 손가락 움직임)
 
+### Red Flags!
+
+* 여러 손/발가락 이환
+* 대수포 발생
+* compartment syndrome 의심: 이환부 및 그 원위부의 혈액 순환 장애(맥박 측정 안 됨)
+* 심한 저혈압
+* 의식 저하
+
 ## 진단
 
 * ECG : 저체온증, 서맥 등 심장 박동 이상이 있는 경우 시행
 * CBC, 포괄적 대사/전해질 검사, UA
-* 골스캔(Tc-99m) : 이환 조직의 생존 능력 감별, 혈전 용해 치료 여부 결정에 도움; rewarming 후
-
-cyanosis 또는 blister가 있으면 시행 권고
+* 골스캔(Tc-99m) : 이환 조직의 생존 능력 감별, 혈전 용해 치료 여부 결정에 도움; rewarming 후 cyanosis 또는 blister가 있으면 시행 권고
 
 ***
 
@@ -72,17 +76,64 @@ cyanosis 또는 blister가 있으면 시행 권고
 9. systemic hydration(경구 또는 IV 수액)
 10. 필요시 혈전 용해술, 수술 치료
 
-![image](../.gitbook/assets/38a4482a-45c3-4a93-921e-277d68d50e2d.JPG)
+
+
+```mermaid
+flowchart TD
+    ROOT["동상?"]
+
+    ROOT --> PRE["<b>병원 도착 전 조치</b><br/>• 손상 및 수분 소실에 대한 관리<br/>• 저체온인 경우 추가 열 소실 방지<br/>• 동결 상태이고 구조대가 가깝지만 따뜻하게<br/>유지할 수 없다면 동결 상태를 유지<sup>1)</sup><br/>• 이미 녹은 상태라면 재동결을 방지"]
+    ROOT --> ER["<b>응급실 조치</b><br/>• 병력 (예: 바람, 기온, 의복)<br/>• 다른 손상 평가"]
+
+    PRE --> HYPO["저체온 동반"]
+    ER --> HYPO
+    PRE --> FROST["동상만 있음"]
+    ER --> FROST
+
+    HYPO --> HYPO_TX["저체온을<br/>먼저 치료<sup>2)</sup>"]
+
+    FROST --> FASC["부종이 있다면<br/>fasciotomy 고려"]
+    FROST --> REWARM["따뜻한 물(37~39℃)로 20~45분 동안,<br/>또는 flushing이 발생할 때까지 재가온"]
+
+    REWARM --> CLASS["손상 분류"]
+
+    FASC --> DEEP
+
+    CLASS --> DEEP["<b><u>Deep</u></b><br/>출혈성 수포<br/>부종 없음/맥박 없음"]
+    CLASS --> DS["<b><u>Deep Superficial</u></b><br/>수포, 부종, 통증"]
+    CLASS --> SUP["<b><u>Superficial</u></b><br/>경증 피부 변화/발적"]
+
+    DEEP --> ADMIT["입원"]
+    DS --> HOME_ADMIT["Home care<br/>또는 입원"]
+    HOME_ADMIT --> ADMIT
+    SUP --> HOME["Home care"]
+
+    ADMIT --> THROMBO["필요시<br/>thrombolysis"]
+    THROMBO --> IMAGING["필요시<br/>영상 검사"]
+    IMAGING --> FINAL["• 창상 관리<br/>• 영양<br/>• 약물 치료<br/>• Sympathetic block 고려<br/>• 수술 고려"]
+
+    %% 색상 스타일 지정
+    classDef purple fill:#ECE6F2,stroke:#B8A7D4,stroke-width:1px;
+    classDef yellow fill:#FBF6D9,stroke:#D6C785,stroke-width:1px;
+    classDef blue fill:#E1ECF4,stroke:#A9C4D6,stroke-width:1px;
+    classDef pink fill:#F5D6D6,stroke:#D99B9B,stroke-width:1px;
+    classDef admit fill:#FCE8E8,stroke:#E09E9E,stroke-width:1px;
+    classDef cyan fill:#E1F2F7,stroke:#96C9D8,stroke-width:1px;
+
+    class ROOT purple;
+    class HYPO,FROST,CLASS yellow;
+    class PRE,ER,HYPO_TX,FASC,REWARM,HOME_ADMIT,HOME blue;
+    class DEEP,DS,SUP pink;
+    class ADMIT admit;
+    class THROMBO,IMAGING,FINAL cyan;
+```
 
 ## 비-약물 치료
 
 #### 가온/해동
 
-*   이환된 부위가 부드러워 질 때까지 37\~39℃의 따듯한 물(정상 신체를 담갔을 때 편안하게 따듯한 정도)에 담가 신속히 가온
-
-    •동상 자체는 감염이 아니지만 항균제(예: povidone \[베타딘 액], chlorhexidine \[헥시딘 액])를 물에 첨가하는 것이 이로울 수
-
-    있음(근거는 부족함)
+* 이환된 부위가 부드러워 질 때까지 37\~39℃의 따듯한 물(정상 신체를 담갔을 때 편안하게 따듯한 정도)에 담가 신속히 가온
+  * 동상 자체는 감염이 아니지만 항균제(예: povidone \[베타딘 액], chlorhexidine \[헥시딘 액])를 물에 첨가하는 것이 이로울 수 있음(근거는 부족함)
 * 귀의 경우는 온수를 적신 거즈로 감싸 보온; 15\~60분간 또는 피부색이 붉어질 때까지
 * 도구가 없는 경우에는 치료자의 체온으로 보온(예: 치료자의 겨드랑이에 환자의 손을 넣음)
 
@@ -104,9 +155,7 @@ cyanosis 또는 blister가 있으면 시행 권고
 
 ### Ibuprofen
 
-*   혈관 수축, 피부 허혈을 유발하는 arachidonic acid pathway 차단 및 prostaglandin, thromboxane 감소 작용을 기대하지만
-
-    이득에 대한 명확한 증거는 없음
+* 혈관 수축, 피부 허혈을 유발하는 arachidonic acid pathway 차단 및 prostaglandin, thromboxane 감소 작용을 기대하지만 이득에 대한 명확한 증거는 없음
 * 400\~800 ㎎ tid \[부루펜]
 
 ### 파상풍 예방 주사
@@ -115,9 +164,7 @@ cyanosis 또는 blister가 있으면 시행 권고
 
 ### 항생제
 
-```
-(☞ p.901)
-```
+(☞ [피부감염](../229_/165_-skin-and-soft-tissue-infection.md#undefined-14))
 
 * 2차 감염이 있는 경우 고려; 예방적 투여는 권하지 않음
 * amoxicillin : 500\~875 ㎎ bid \[파목신]
@@ -127,9 +174,7 @@ cyanosis 또는 blister가 있으면 시행 권고
 
 #### 경구 H1-항히스타민제
 
-```
-(☞ p.1144)
-```
+(☞ [항히스타민제](../231_/212_-antihistamines.md))
 
 * 수면 효과가 있는 1세대 제제가 보다 유효
 * chlorpheniramine : 4 ㎎ q4\~6hr, 최대 24 ㎎/d \[페니라민]
@@ -137,9 +182,7 @@ cyanosis 또는 blister가 있으면 시행 권고
 
 #### 국소 Steroid
 
-```
-(☞ p.1139)
-```
+(☞ [국소스테로이드](../231_/211_-topical-corticosteroids.md))
 
 * 중/고역가 steroid : methylprednisolone \[아드반탄 크림], diflorasone \[디프라 크림]
 
@@ -154,9 +197,7 @@ cyanosis 또는 blister가 있으면 시행 권고
 ### 대체 요법
 
 * Vit C, 항산화제, 국소 알로에 : 일부에서 효과
-*   고춧가루(capsicum), 포플러 싹(populus), 금잔화(calendula), 카밀레(matricaria recutita), 쇠뜨기(equisetum arvense) :
-
-    도움이 된다는 보고가 있음
+* 고춧가루(capsicum), 포플러 싹(populus), 금잔화(calendula), 카밀레(matricaria recutita), 쇠뜨기(equisetum arvense) : 도움이 된다는 보고가 있음
 
 ## 예방
 
@@ -180,50 +221,41 @@ cyanosis 또는 blister가 있으면 시행 권고
 
 * 동상에 걸릴 수 있는 환경을 피함
 * 바람, 외부 습기 차단; 모자/ski mask/선글라스/고글 등으로 노출 부위를 최소화
-*   차가운 금속 접촉 또는 착용 회피
-
-    •차가운 물건(예: ice pack) 사용 시 직접 접촉 차단(예: 수건 사용)
+* 차가운 금속 접촉 또는 착용 회피
+  * 차가운 물건(예: ice pack) 사용 시 직접 접촉 차단(예: 수건 사용)
 * 땀을 흘리거나 젖는 것을 피함
-*   장갑(특히 벙어리장갑), 방수 신발, 여러 겹의 옷 착용; 혈액 순환을 위하여 약간 헐렁하게 유지
-
-    •안쪽에는 polypropylene or polyester(습기를 배출하고 열을 보존함); 중간층으로 모직 or 털; 외피는 습기를 배출하는
-
-    소재 선호
-
-    •양말은 매일 또는 젖으면 갈아 신음
+* 장갑(특히 벙어리장갑), 방수 신발, 여러 겹의 옷 착용; 혈액 순환을 위하여 약간 헐렁하게 유지
+  * 안쪽에는 polypropylene or polyester(습기를 배출하고 열을 보존함); 중간층으로 모직 or 털; 외피는 습기를 배출하는 소재 선호
+  * 양말은 매일 또는 젖으면 갈아 신음
 * 손/발 온열 도구 사용(화상 주의)
 * 말단부 뿐 아니라 몸통 보온에도 유념
 * 환경 변화 인지에 장애를 주는 행동 또는 상황(예: 음주, 저산소증)을 피함
-*   규칙적으로 동상 증상 발생 여부를 확인
-
-    •초기 이상 증상 : 사지 말단의 감각 둔해짐, 움직임 불편, 창백해짐
+* 규칙적으로 동상 증상 발생 여부를 확인
+  * 초기 이상 증상 : 사지 말단의 감각 둔해짐, 움직임 불편, 창백해짐
 * 추위에 노출되는 시간을 최소화함; 찬 곳에서 작업 시 규칙적으로 따듯한 곳에서 가온, 쉬는 동안 따듯한 곳으로 이동
 
 ### 체감온도 산출표 (Wind chill chart)
 
-> ```
-> (Ref. 기상청)
-> ```
+(Ref. 기상청)
 
 ![image](../.gitbook/assets/aface746-c562-45e0-9c1d-9a822509ef9d.JPG)
 
-■ 동창 Pernio, Chilblains
+
+
+## **■ 동창 Pernio, Chilblains**
 
 ## 일반 사항
 
 * 얼지 않는 수준의 저온(＜15℃)에 대한 지속적 노출로 발생하는 cold-induced erythrocyanotic skin lesion
-*   경과 : 저온 노출 12~~24시간에 시작되고 따듯한 환경에서 1~~3주 내 회복; 더운 계절까지 수 주 이상 지속될 수 있음;
-
-    흉터 발생 가능
+* 경과 : 저온 노출 12~~24시간에 시작되고 따듯한 환경에서 1~~3주 내 회복; 더운 계절까지 수 주 이상 지속될 수 있음; 흉터 발생 가능
 * 재발 : 저온 노출 또는 추운 계절에 재발할 수 있음
 * 호발 부위 : 손발가락(특히 dorsum), 코, 귀, 종아리, 허벅지, 엉덩이
 
 ## 원인
 
 * 불명
-*   추정 기전 : 추위 노출에 대한 비정상적인 혈관 반응 → hypoxemia → 염증 반응 → 피부 병변
-
-    •자가 항체 관련 microvasculature의 endothelial damage 또는 hyperviscosity
+* 추정 기전 : 추위 노출에 대한 비정상적인 혈관 반응 → hypoxemia → 염증 반응 → 피부 병변
+  * 자가 항체 관련 microvasculature의 endothelial damage 또는 hyperviscosity
 
 ### 위험 인자
 
@@ -257,9 +289,7 @@ cyanosis 또는 blister가 있으면 시행 권고
 * 추위 또는 감정 자극에 대한 손가락 또는 피부 동맥에서의 지나친 혈관 수축 반응
 * 15\~20분에 걸친 일시적인 피부색 변화; 선명한 경계의 창백 → 청색 → 붉은색
 * 동창에서 발생하는 구진/판/결절은 없음
-*   위험 인자 : 가족력, estrogen 치료 여성, 한랭 노출/동상 병력, 교원혈관병 질환자, 혈관수축제 복용(예: β-차단제,
-
-    암페타민, 충혈완화제, 카페인)
+* 위험 인자 : 가족력, estrogen 치료 여성, 한랭 노출/동상 병력, 교원혈관병 질환자, 혈관수축제 복용(예: β-차단제, 암페타민, 충혈완화제, 카페인)
 
 #### Cryoglobulinemia, Cryofibrinogenemia
 
@@ -269,17 +299,12 @@ cyanosis 또는 blister가 있으면 시행 권고
 
 ## Management
 
-```
-(☞ p.1088)
-```
+(☞ [동상치료방침](208_-cold-injury.md#undefined-5))
 
 ## 비-약물 치료
 
-*   서서히 가온 (빠른 rewarming은 피함)
-
-    •rewarming은 염증 반응을 일으키고 thrombosis 및 reperfusion 손상을 증가시킬 수 있음; refreeze 시 이 과정이 더
-
-    악화될 수 있음
+* 서서히 가온 (빠른 rewarming은 피함)
+  * rewarming은 염증 반응을 일으키고 thrombosis 및 reperfusion 손상을 증가시킬 수 있음; refreeze 시 이 과정이 더 악화될 수 있음
 * 긁지 않도록 주의
 * 드레싱 : 물집 및 궤양에 대하여 적용
 
@@ -295,8 +320,23 @@ cyanosis 또는 blister가 있으면 시행 권고
 * 추위에 노출되지 않도록 보호
 * 금연
 
-> **질병코드** T33\~T35 동상
+
+
+### **질병코드**&#x20;
+
+T33\~T35 동상
 
 T69.1 동창
 
-![image](../.gitbook/assets/fb66a022-b8f8-410e-b007-2aafa638c9e7.JPG)
+## 처방례
+
+처방례 1. 동상\
+애니펜 300 ㎎/T 3T #3\
+아디팜 10 ㎎/T 3T #3 가려움에 대하여 (졸음 주의)\
+파목신 500 ㎎/C 3C #3 2차 감염 시\
+아드반탄 크림 15 g/tube bid\
+처방례 2. 동창\
+아달라트 오로스 30 ㎎/T 1T qd → 임상 양상에 따라 60 ㎎/T 1T qd 로 증량\
+페니라민 2 ㎎/T 8T #4 가려움에 대하여 (졸음 주의)\
+트리코드 크림 10 g/tube bid
+
