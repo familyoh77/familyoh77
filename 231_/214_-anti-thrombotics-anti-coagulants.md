@@ -1,14 +1,8 @@
 # 항혈전제, 항응고제 Anti-thrombotics, Anti-coagulants
 
-###
-
-![image](../.gitbook/assets/768333a1-74b7-47f5-8234-d88764c2c138.JPG)
-
 ## 항혈소판제 Antiplatelet
 
-```
-(보험기준 ☞ p.1187)
-```
+(☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250201\&sno=4\&mtgMtrRegSno=0001))
 
 ### Aspirin
 
@@ -18,11 +12,10 @@
 
 * 심장 마비의 위험 감소
 * 뇌졸중 발병 위험 및 심혈관 질환 사망 위험에 대한 영향 : 논란
-*   암에 대한 영향 : 논란
+* 암에 대한 영향 : 논란
+  *   aspirin이 암세포의 자기 파괴를 유도하거나 암을 촉진시키는 염증을 줄인다는 보고가 있는 반면,
 
-    •aspirin이 암세포의 자기 파괴를 유도하거나 암을 촉진시키는 염증을 줄인다는 보고가 있는 반면,
-
-    aspirin이 고령 암 환자의 전이 및 사망 등 later stage에 악영향을 미칠 수 있다는 보고가 있음
+      aspirin이 고령 암 환자의 전이 및 사망 등 later stage에 악영향을 미칠 수 있다는 보고가 있음
 
 #### 용량
 
@@ -37,44 +30,22 @@
 
 #### 금기
 
-*   출혈 위험이 높은 경우(소화성 궤양 병력, ≥65세, NSAID/steroid/항응고제 투여 중), 국소 출혈, 출혈성 소인,
-
-    aspirin 과민 반응
+* 출혈 위험이 높은 경우(소화성 궤양 병력, ≥65세, NSAID/steroid/항응고제 투여 중), 국소 출혈, 출혈성 소인, aspirin 과민 반응
 
 #### 예방적 투여 대상
 
-심혈관 질환 예방 목적의 Aspirin 투여 [USPSTF 권고안](../2022/)
+**심혈관 질환 예방 목적의 Aspirin 투여** [USPSTF 권고안](../2022/)
 
 * ≥60세에서의 CVD 일차 예방을 위한 저용량 aspirin 투여 개시는 권고하지 않음
-*   ASCVD 10년 위험도가 ≥10%인 40\~59세에서의 CVD 일차 예방을 위한 저용량 aspirin 투여 시작 결정은 개별적으로
+* ASCVD 10년 위험도가 ≥10%인 40\~59세에서의 CVD 일차 예방을 위한 저용량 aspirin 투여 시작 결정은 개별적으로 결정되어야 함(이득에 대한 증거가 적음. 출혈 위험이 높지 않고 매일 저용량 aspirin을 복용할 의사가 있는 사람들은 이득이 보다 많을 수 있음)
+* ✽ASCVD 10년 위험도 계산 툴 ✽\[CV/GI risk calculator]
 
-    결정되어야 함(이득에 대한 증거가 적음. 출혈 위험이 높지 않고 매일 저용량 aspirin을 복용할 의사가 있는 사람들은
-
-    이득이 보다 많을 수 있음)
-
-> ```
-> ✽ASCVD 10년 위험도 계산 툴
-> ```
-
-```
-✽[CV/GI risk calculator](https://asarisk.doctime.es/calculator/en) 
-```
-
-\*\* ADA 권고안\*\* (2022)
+**ADA 권고안** (2022)
 
 * 심혈관 질환 위험이 높은 당뇨병 환자\*에서 1차 예방 목적으로 득실을 검토하여 고려
-
-> ```
-> *최소 한 가지 주요 위험 인자(조기 죽상경화성 심혈관 질환 가족력, 고혈압, 이상지질혈증, 흡연, 알부민뇨)를 가진
-> ```
-
-> ```
-> ≥50세 당뇨 환자를 포함
-> ```
-
-*   당뇨 및 ASCVD 병력이 있는 환자에서 2차 예방을 위하여 투여
-
-    •aspirin에 알레르기가 있는 경우 clopidogrel 75 ㎎/d 투여 \[플라빅스]
+  * \*최소 한 가지 주요 위험 인자(조기 죽상경화성 심혈관 질환 가족력, 고혈압, 이상지질혈증, 흡연, 알부민뇨)를 가진 ≥50세 당뇨 환자를 포함
+* 당뇨 및 ASCVD 병력이 있는 환자에서 2차 예방을 위하여 투여
+  * aspirin에 알레르기가 있는 경우 clopidogrel 75 ㎎/d 투여 \[플라빅스]
 * 급성 관상동맥병 후 1년간(필요시 1년 이상) aspirin & P2Y12 억제제(ticagrelor) 병용
 *   관상동맥 중재 과거력, 높은 허혈 위험이 있고 출혈 위험이 낮은 환자에서 주요 심혈관 사고 예방을 위해
 
@@ -104,8 +75,7 @@
 * 단점 : 이 약제에 반응하지 않는 내성 환자가 존재함
 * 부작용 : 소화기, 혈액 부작용; 상대적으로 적음
 * 용법 : 75 ㎎ qd. 신속 효과 발현을 위하여 초회 300 ㎎ 투여 \[플라빅스]
-
-•복합제 : clopidogrel 75 ㎎ + aspirin 100 ㎎ \[클라빅신 듀오]
+  * 복합제 : clopidogrel 75 ㎎ + aspirin 100 ㎎ \[클라빅신 듀오]
 
 #### Prasugrel
 
@@ -144,27 +114,17 @@
 * 항응고제 사용 퇴원 환자에 대한 리뷰 : 투여 이유, 지속 필요 여부, 체중, 신 기능, 용량의 적절성, 순응도, 다른 약물 관계
 *   출혈 위험 평가 : HAS-BLED score(다음 각 항목 1점)
 
-    ① Hypertension(uncontrolled, SBP ＞160 ㎜Hg)
+    1. Hypertension(uncontrolled, SBP ＞160 ㎜Hg)
+    2. Abnormal renal function: dialysis, transplant, Cr ＞2.26 ㎎/㎗ or ＞200 μ㏖/L
+    3. Abnormal liver function: cirrhosis or bilirubin ＞2×ULN or AST/ALT/AP ＞3×ULN
+    4. Stroke: stroke 과거력
+    5. Bleeding: 주요 출혈 병력 또는 출혈 경향
+    6. Labile INR: unstable/high INR, time in therapeutic range ＜60%
+    7. Elderly: ＞65세
+    8. Drugs: 과음(≥ 8 SD/주)
+    9. Drugs: 출혈 경향 약물 사용(예: aspirin, clopidogrel, NSAID)
 
-    ② Abnormal renal function: dialysis, transplant, Cr ＞2.26 ㎎/㎗ or ＞200 μ㏖/L
-
-    ③ Abnormal liver function: cirrhosis or bilirubin ＞2×ULN or AST/ALT/AP ＞3×ULN
-
-    ④ Stroke: stroke 과거력
-
-    ⑤ Bleeding: 주요 출혈 병력 또는 출혈 경향
-
-    ⑥ Labile INR: unstable/high INR, time in therapeutic range ＜60%
-
-    ⑦ Elderly: ＞65세
-
-    ⑧ Drugs: 과음(≥ 8 SD/주)
-
-    ⑨ Drugs: 출혈 경향 약물 사용(예: aspirin, clopidogrel, NSAID)
-
-    ▶판정: 주요 출혈의 1년 위험도 0점-1%, 1점-3.4%, 2점-4.1%, 3점-5.8%, 4점-8.9%, 5점-9.1%, ≥6점-12\~15% per year
-
-    ☞ [온라인 계산기](https://www.mdcalc.com/has-bled-score-major-bleeding-risk#next-steps)
+    ▶판정: 주요 출혈의 1년 위험도 0점-1%, 1점-3.4%, 2점-4.1%, 3점-5.8%, 4점-8.9%, 5점-9.1%, ≥6점-12\~15% per year ☞ [온라인 계산기](https://www.mdcalc.com/has-bled-score-major-bleeding-risk#next-steps)
 
 ### 관리
 
@@ -176,13 +136,9 @@
 
 * 혈전 질환 고위험군에서의 표재성 시술 시 중단 없이 유지 가능
 * 항응고제, 지속성 NSAID(예: celecoxib)- 1주 전; NSAID- 3일 전; 속효성 NSAID(예: ibuprofen)- 1\~2일전 중단
-*   warfarin : 위험 정도에 따라 중단
-
-    ① 혈전증 과거력 없는 저위험 심방세동 환자 : 수술 3\~4일 전 중단
-
-    ② 폐색전증, 인공 판막, 심부정맥혈전증 병력의 고위험군 : warfarin 중단 중 대체 방법 사용
-
-    (low-molecular-weight heparin, regular heparin)
+* warfarin : 위험 정도에 따라 중단
+  1. 혈전증 과거력 없는 저위험 심방세동 환자 : 수술 3\~4일 전 중단
+  2. 폐색전증, 인공 판막, 심부정맥혈전증 병력의 고위험군 : warfarin 중단 중 대체 방법 사용 (low-molecular-weight heparin, regular heparin)
 
 ### 수술 후 항응고제 사용 재개
 
@@ -193,9 +149,8 @@
 ### Warfarin
 
 * 기전 : coumarin 유도체, Vit K 대항제; Vit K의 활성형 전환을 억제하여 항응고 작용을 발현
-*   응고 모니터링 : INR 2~~3 유지(인공심장판막환자- 2.5~~3.5)
-
-    •INR ＜1.7 시 심장색전성 뇌졸중 위험, ＞4.5 시 출혈 증가
+* 응고 모니터링 : INR 2~~3 유지(인공심장판막환자- 2.5~~3.5)
+  * INR ＜1.7 시 심장색전성 뇌졸중 위험, ＞4.5 시 출혈 증가
 * 5~~10 ㎎/d로 시작하여 매일 INR 검사, 용량 조절. 안정적인 경우 2~~3주마다 확인
 * 부작용 : 출혈; 특히 고령 환자에서 두개 내 출혈 위험
 
@@ -212,6 +167,44 @@
 
 * rivaroxaban : 10\~20 ㎎ qd \[자렐토]
 * apixaban : 2.5\~5 ㎎ bid \[엘리퀴스]
-*   edoxaban : 15 ㎎ \[릭시아나]
+* edoxaban : 15 ㎎ \[릭시아나]
 
-    ![image](../.gitbook/assets/281b7a22-4e3f-4a35-b27a-4ebc94d36007.JPG)
+
+
+```mermaid
+graph TD
+    A["경구<br>항응고제가<br>필요한<br>환자"] --> B["약제 선택 &<br>치료 시작<br>• 초기 평가<br>• 관리<br>• 교육"]
+
+    B --> C1["<b>Warfarin 단독</b><br>• Mechanical valve<br>• 중증 mitral stenosis<br>• Antiphospholipid<br>Synd."]
+    B --> C2["DOACs/<br>warfarin"]
+
+    C1 --> D["<b>치료 지속</b><br>• 재평가<br>• 관리<br>• 교육"]
+    C2 --> D
+
+    D --> Stop1["<b>바로 중단</b><br>Clinical event<br>(예: 출혈, 외상, 수술)<br>• specialist 협의"]
+    D --> Stop2["<b>환자와 협의하여<br>중단 결정</b><br>• risk-benefit 변동<br>• 심한 신 기능 저하<br>• end of life"]
+    D --> Stop3["<b>환자의 결정에<br>따른 중단</b><br>• 의도적/비의도적<br>adherence 부족<br>• 부작용<br>• 약으로 인한<br>신체적 어려움"]
+
+    Stop1 --> Restart["다시 시작"]
+    Stop1 --> StopAll["항응고제<br>중단"]
+    Stop2 --> StopAll
+    Stop3 --> Record["환자의 결정<br>기록"]
+
+    Record --> StopAll
+    StopAll --> Restart
+    Restart --> D
+
+    classDef purple fill:#f0eeff,stroke:#b8a9f7,color:#000
+    classDef blue fill:#e7f3fc,stroke:#9bd0f5,color:#000
+    classDef red fill:#fde8e8,stroke:#f8b4b4,color:#000
+    classDef yellow fill:#fffde7,stroke:#fff59d,color:#000
+
+    class A purple
+    class B,C1,C2,D,Restart blue
+    class Stop1,Stop2,Stop3,StopAll red
+    class Record yellow
+```
+
+항응고제 투여가 필요한 환자의 관리 알고리듬\
+Ref. NICE. Consensus guideline on the holistic management of\
+patients requiring anticoagulation. 2020. Fig 1.
