@@ -77,6 +77,7 @@
 * 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
 * 위험 인자 : 두부 외상, 내이 허혈, 전정신경염, 귀 수술, 우울, 움직이지 않는 생활
 * 발생 부위 : post. canal 60\~90%, lat.(horizontal) canal 10\~30%; ant.(sup.) canal rare; \[우리나라] lat canal 이환이 많음(30%)
+* 재발 : 1년 내 20\~30% 재발; 재발 고위험군 — 당뇨병, 비-후반고리관형(lat./ant. canal) 이환, Vit D 결핍, 고령, 편두통·불안·불면 동반, 폐경 후 여성(낮은 estradiol) <mark style="color:$info;">(Front Neurol 2024;15:1483233 / 2025;16:1595887 / 2026;17:1812718)</mark>
 
 #### <mark style="color:$primary;">임상 양상</mark>
 
@@ -494,6 +495,7 @@ _1) Triggered episodic : 수 초\~수 시간 지속._\
 **Epley maneuver**
 
 * post canal BPPV의 가장 효과적인 치료법; 치료 성공률 80%
+* ✽ 2026년 네트워크 메타분석(20개 RCT, 2,089명)에서도 Epley·Semont가 단기 유효성·완치율에서 다른 정복술 대비 우월하여 1차 치료로 재확인됨 <mark style="color:$info;">(Front Neurol 2026;17:1762375)</mark>
 * [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
   * 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다 30°더 내려가게 눕히고(lay back, 머리를 침대 밖으로 늘어뜨림) 1분간 유지\
     → 이 상태에서 고개를 건측으로 90°돌려 1분간 유지\
@@ -547,7 +549,15 @@ _1) Triggered episodic : 수 초\~수 시간 지속._\
 * 안정제 : 원칙적으로 권장하지 않음 (AAO-HNS 가이드라인); central compensation을 방해하고 낙상 위험을 증가시킴. 불가피한 경우 **3일 이내**로 제한하며 주의를 요함
 * 항구토제 : 구역/구토가 심한 경우 단기 사용
 * Vit D & Ca : 혈중 Vitamin D 농도가 낮은 경우(＜20 ng/mL) 보충 시 BPPV 재발률이 유의하게 감소함 (Neurology 2020); 정상 농도에서는 추가 효과 불분명
+  * ✽ 노인 대상 이중맹검 RCT(결핍자에서 13주 2,000 IU/d → 13주 1,000 IU/d 보충)에서 재발률 87% 감소, 인년당 임상 재발 0.75건 감소, 최초 재발까지 기간 유의하게 연장 — 관찰연구 수준을 넘어선 RCT 근거로 확인됨 <mark style="color:$info;">(Otolaryngol Head Neck Surg 2025)</mark>
   * Cholecalciferol 400 IU + Calcium carbonate 500 ㎎ bid
+
+#### <mark style="color:$primary;">잔여 어지럼 (Residual dizziness, BPPV-RD)</mark>
+
+* 정의 : 정복술 성공(체위유발 현훈·안진 소실) 후에도 남는 비특이적 어지럼·부동감(불안, 붕 뜬 느낌 등); 유병률 23\~70%로 보고됨 (연구간 편차 큼)
+* 병태생리 : 단일 기전으로 설명되지 않음 — 이석 일부 잔류, utricle(이석기관) 기능 저하, 전정 보상 지연, 심인성 요인 등이 복합적으로 작용 <mark style="color:$info;">(Front Neurol 2024;15:1382196)</mark>
+* 약물 치료 : betahistine, trimetazidine, ginkgo biloba extract 모두 잔여 어지럼 개선에 유의한 효과 없음이 RCT로 확인됨 — 일상적 약물 처방보다 **전정 재활 운동**이 핵심 치료 <mark style="color:$info;">(World J Otorhinolaryngol Head Neck Surg 2024)</mark>
+* 대개 수일\~수 주 내 자연 호전; 장기 지속 시 PPPD, 미인식 중추성 원인, 미해결 이석증(다른 반고리관) 등 감별 필요
 
 ### <mark style="color:orange;">급성단측전정병증 (AUV / 전정신경염)</mark>
 
@@ -712,7 +722,7 @@ H81.89 기타 명시된 전정기능 장애 (PPPD에 적용)
 
 #### <mark style="color:$primary;">어지럼증이란 무엇인가요?</mark>
 
-* **이석증(BPPV)** : 귀 속 작은 돌(이석)이 제자리를 벗어나 특정 머리 움직임 때마다 수 초\~수 분간 심한 회전감이 생기는 가장 흔한 어지럼증. 이석정복술(에플리 방법)로 대부분 빠르게 호전됩니다.
+* **이석증(BPPV)** : 귀 속 작은 돌(이석)이 제자리를 벗어나 특정 머리 움직임 때마다 수 초\~수 분간 심한 회전감이 생기는 가장 흔한 어지럼증. 이석정복술(에플리 방법)로 대부분 빠르게 호전됩니다. 시술 후에도 며칠\~몇 주간 붕 뜨는 듯한 가벼운 느낌(잔여 어지럼)이 남을 수 있는데, 이는 흔한 정상적 회복 과정이며 재발과는 다릅니다.
 * **전정신경염** : 전정신경의 바이러스 감염으로 수일간 심한 어지럼과 구역이 지속됩니다. 조기 재활 운동이 회복을 앞당깁니다.
 * **메니에르병** : 어지럼·이명·난청이 반복 발생합니다. 저염식과 수분 섭취 조절이 중요합니다.
 * **PPPD** : 급성 전정 질환 이후 수개월간 흔들림·불안정감이 지속되는 상태. 재활 운동과 인지행동치료가 핵심 치료입니다.
