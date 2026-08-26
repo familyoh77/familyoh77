@@ -132,10 +132,6 @@
 
 ### Benzodiazepine
 
-```
-![image](images/80fbc1d9-7297-45c5-b580-e9b4c4a56677.JPG)
-```
-
 * 적용 : 2차 약제 또는 타 약제의 약효가 발현될 때까지 보조 약제로 고려
 * 부작용 : 진정, 피로, 운동 실조, 발음 장애, 기억력 장애, 쇠약감, (호흡기 질환자에서) 호흡 억제
 *   의존/남용 위험 : 고용량, 장기 사용, 고령, 알코올 의존자에서 흔함; ≤4주로 사용 제한
@@ -150,16 +146,35 @@
     •중단 시 반동 현상 예방을 위하여 6~~12주에 걸쳐 1~~2주에 10%씩 감량
 * 대사 : 대부분 간 CYP(예외: lorazepam, oxazepam)
 
-### 항경련제
+| 성분명 \[상품명]              | 우울 (mg/d)           | 불안 (mg/d) | 최대 (mg/d) | 작용개시 (분) | 반감기 (h) | 대상/비고       |
+| ----------------------- | ------------------- | --------- | --------- | -------- | ------- | ----------- |
+| **Long Acting**         |                     |           |           |          |         |             |
+| chlordiazepoxide        | 10 tid              | 5 tid     | 100       | 60       | 5\~30   | -           |
+| clorazepate             | 15 bid              | 7.5 bid   | 60        | 30\~60   | 30\~200 | -           |
+| diazepam (디아제팜)         | 5 tid               | 2 tid     | 40        | 30       | 20\~70  | 진정 효과 큼     |
+| flurazepam (달마돔)        | -                   | -         | -         | 30\~60   | 30\~100 | 불면증 적용      |
+| **Intermediate Acting** |                     |           |           |          |         |             |
+| alprazolam (자낙스)        | 0.5 tid             | 0.25 tid  | 4         | 60       | 12\~15  | -           |
+| clonazepam (리보트릴)       | 0.5 tid             | 0.25 tid  | 6         | 30\~60   | 18\~50  | -           |
+| estazolam               | -                   | -         | -         | 30\~60   | 10\~24  | -           |
+| lorazepam (아티반)         | 1 tid               | 0.5 tid   | 6         | 30\~60   | 10\~20  | 간에서 비활성체 대사 |
+| oxazepam                | 15 tid              | 10 tid    | 90        | 60\~120  | 5\~15   | 50% 신배설     |
+| temazepam               | 7.5\~30             | 좌동        | -         | 30\~60   | 9\~12   | 불면증 적용      |
+| **Short Acting**        |                     |           |           |          |         |             |
+| triazolam (할시온)         | 0.125\~0.5          | 좌동        | -         | 15       | 1.5\~5  | 불면증 적용      |
+| etizolam (데파스)          | 0.25\~0.5 / 불면 1\~2 | 좌동        | -         | 15\~30   | 3.4     | -           |
 
-```
-![image](http://www.xn--o39a11of9fpsm6hg.kr/images/f3782272-7268-411b-98c6-0cb18a317c38.JPG)
-```
+### 항경련제
 
 * 1주 내 작용
 * 부작용 : 구역, 어지럼
 
-> ✽불안, 우울에 대하여 보험 적용 안 됨
+- [ ] 불안, 우울에 대하여 보험 적용 안 됨
+
+| 성분명 \[상품명]       | 우울 (mg/d) | 불안 (mg/d) | 최대 (mg/d) |
+| ---------------- | --------- | --------- | --------- |
+| gabapentin (뉴론틴) | -         | 300 qd    | 900       |
+| pregabalin (리리카) | -         | 75 bid    | 600       |
 
 ### 대체 요법
 
@@ -170,11 +185,25 @@
 
 ## 약물 특성
 
-```
-![image](images/59f4b302-f8db-4122-91c7-0e2dd7f016d3.png)
-```
+<table><thead><tr><th>성분명 [상품명]</th><th width="73">항콜린</th><th width="76">졸림</th><th width="81">불면/흥분</th><th width="76">기립저혈압</th><th width="77">QT 연장1)</th><th width="75">위장장애</th><th width="73">체중 증가</th><th width="66">성기능 저하</th></tr></thead><tbody><tr><td><strong>SSRIs2)</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>citalopram (시탈로프람)</td><td>0</td><td>0</td><td>1+</td><td>1+</td><td>1+3)</td><td>1+</td><td>1+</td><td>3+</td></tr><tr><td>escitalopram (렉사프로)</td><td>0</td><td>0</td><td>1+</td><td>1+</td><td>1+</td><td>1+</td><td>1+</td><td>3+</td></tr><tr><td>fluoxetine (푸로작)</td><td>0</td><td>0</td><td>2+</td><td>1+</td><td>1+</td><td>1+</td><td>1+</td><td>3+</td></tr><tr><td>fluvoxamine (듀미록스)</td><td>0</td><td>1+</td><td>1+</td><td>1+</td><td>0~1+</td><td>1+</td><td>1+</td><td>3+</td></tr><tr><td>paroxetine (세로자트)</td><td>1+</td><td>1+</td><td>1+</td><td>2+</td><td>0~1+</td><td>1+</td><td>2+</td><td>4+</td></tr><tr><td>sertraline (졸로푸트)</td><td>0</td><td>0</td><td>2+</td><td>1+</td><td>0~1+</td><td>2+4)</td><td>1+</td><td>3+</td></tr><tr><td><strong>Atypical agents</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>agomelatine5) (아고틴)</td><td>0</td><td>1+</td><td>1+</td><td>0</td><td>0</td><td>1+</td><td>0</td><td>0~1+</td></tr><tr><td>bupropion (웰부트린)</td><td>0</td><td>0</td><td>1+</td><td>0</td><td>1+</td><td>1+</td><td>0</td><td>0</td></tr><tr><td>mirtazapine (레메론)</td><td>1+</td><td>4+</td><td>0</td><td>0</td><td>1+</td><td>0</td><td>4+</td><td>1+</td></tr><tr><td><strong>SNRIs2),10)</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>desvenlafaxine6) (프리스틱)</td><td>0</td><td>0</td><td>1+</td><td>0</td><td>0</td><td>2+</td><td>모름</td><td>1+</td></tr><tr><td>duloxetine (심발타)</td><td>0</td><td>0</td><td>1+</td><td>0</td><td>0</td><td>2+2)</td><td>0~1+</td><td>1+</td></tr><tr><td>levomilnacipran6)</td><td>011)</td><td>0</td><td>0~1</td><td>0~1</td><td>0</td><td>2+2)</td><td>0</td><td>1+</td></tr><tr><td>milnacipran6) (익셀)</td><td>0</td><td>1+</td><td>0</td><td>0</td><td>0</td><td>2+2)</td><td>0</td><td>1+</td></tr><tr><td>venlafaxine6) (이팩사)</td><td>0</td><td>1+</td><td>1+</td><td>0</td><td>1+</td><td>2+</td><td>0~1+</td><td>3+</td></tr><tr><td><strong>Serotonin modulators</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>trazodone (트리티코)</td><td>0</td><td>4+</td><td>0</td><td>1+~3+8)</td><td>1+~2+8)</td><td>1+~3+8)</td><td>0~1+8)</td><td>1+7)</td></tr><tr><td>vortioxetine (브린텔릭스)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3+</td><td>0</td><td>1+</td></tr><tr><td><strong>TCAs9)</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>amitriptyline (에트라빌)</td><td>4+</td><td>4+</td><td>0</td><td>3+</td><td>3+</td><td>1+<strong>9)</strong></td><td>4+</td><td>3~4+</td></tr><tr><td>amoxapine (아디센)</td><td>2+</td><td>2+</td><td>2+</td><td>2+</td><td>2+</td><td>0</td><td>2+</td><td>ND</td></tr><tr><td>clomipramine (그로민)</td><td>4+</td><td>4+</td><td>1+</td><td>2+</td><td>2+</td><td>1+</td><td>4+</td><td>4+</td></tr><tr><td>desipramine</td><td>1+</td><td>2+</td><td>1+</td><td>2+</td><td>3+</td><td>0</td><td>1+</td><td>ND</td></tr><tr><td>doxepin (사일레노)</td><td>3+</td><td>3+</td><td>0</td><td>2+</td><td>3+</td><td>0</td><td>4+</td><td>3+</td></tr><tr><td>imipramine (이미프라민)</td><td>3+</td><td>3+</td><td>1+</td><td>4+</td><td>3+</td><td>1+</td><td>4+</td><td>3+</td></tr><tr><td>maprotiline</td><td>2+</td><td>3+</td><td>0</td><td>2+</td><td>3+</td><td>0</td><td>2+</td><td>ND</td></tr><tr><td>nortriptyline (센시발)</td><td>2+</td><td>2+</td><td>0</td><td>1+</td><td>3+</td><td>0</td><td>1+</td><td>ND</td></tr><tr><td>protriptyline</td><td>2+</td><td>1+</td><td>1+</td><td>2+</td><td>3+</td><td>1+</td><td>1+</td><td>3~4+</td></tr><tr><td>trimipramine</td><td>4+</td><td>4+</td><td>1+</td><td>3+</td><td>1+</td><td>0</td><td>4+</td><td>ND</td></tr></tbody></table>
 
-부작용 및 대처
+Scale: 0 = none; 1+ = slight; 2+ = low; 3+ = moderate; 4+ = high; ND = inadequate data.
+
+¹⁾QT 연장 위험: 고용량, 고령, 여성, 심질환, 저칼륨혈증, 저마그네슘혈증\
+²⁾모든 SSRI 및 SNRI는 투여 초기 또는 증량 시 일시적 위장 장애(구역)을 유발할 수 있음\
+³⁾QTc 연장 및 부정맥과 관련하여 위험 환자에서의 citalopram의 최대 용량은 20 ㎎\
+⁴⁾설사\
+⁵⁾간 독성; 간장애 시 금기　\
+⁶⁾용량 의존 맥박 수 및 혈압 상승\
+⁷⁾지속 발기(드묾)\
+⁸⁾용량 의존\
+⁹⁾항콜린 부작용: 입마름, 변비, 상복부 불편감, 위식도 긴장 감소\
+¹⁰⁾SNRI는 항콜린 작용이 없으나 noradrenergic 작용에 따른 항콜린 유사 작용이 있음(입마름, 변비, 녹내장)\
+¹¹⁾용량 의존 소변 주저
+
+Ref. Pharmacotherapy for generalized anxiety disorder in adults. UpToDate. 2018.
+
+### 부작용 및 대처
 
 ```
 ![image](images/38903a37-5265-4533-892c-1de01865dd63.JPG)
