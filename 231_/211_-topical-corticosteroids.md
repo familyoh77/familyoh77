@@ -1,94 +1,94 @@
 # 국소 스테로이드 Topical Corticosteroids
 
->
-
 ### 사용 빈도
 
-*   보통 하루 2회 도포; 일반적으로 도포 횟수를 늘려도 효과가 증가되지 않음
-
-    •손바닥 등 약제가 쉽게 닦여 나가는 부위는 도포 횟수를 늘리고 두피, 겹친 부위 등 약제가 닦여 나가지 않는 부위는 도포
-
-    횟수를 줄임
+* 보통 하루 2회 도포; 일반적으로 도포 횟수를 늘려도 효과가 증가되지 않음
+  * 손바닥 등 약제가 쉽게 닦여 나가는 부위는 도포 횟수를 늘리고 두피, 겹친 부위 등 약제가 닦여 나가지 않는 부위는 도포 횟수를 줄임
 * 같은 부위에 지속 사용해야 하는 경우에는 저역가 선택 또는 pulse therapy를 고려
 * 건조한 피부 또는 펄스 요법 사이에 피부 보습제을 사용하면 steroid 사용을 줄일 수 있음 (☞ p.867)
 
 \*\* Pulse therapy\*\*
 
-•적용 : 지속 사용이 필요한 병소(예: 도포하면 호전되고 중단하면 악화되는 병소)에 대한 간헐적 도포로 사용 횟수 및 양을
-
-```
-줄이면서 악화 또는 재발을 막을 수 있음
-```
-
-•용법 : 1주에 연속된 2일간(예: 주말) 또는 정해진 요일(예: 화 & 금요일)에 bid 도포; steroid 비사용 기간 중에는 보습 크림
-
-```
-적용
-```
-
-> ✽재발 예방을 위한 주 2일 도포 시 비 연속된 2일보다 연속된 2일 도포가 효과적이라는 보고가 있음 •중간 역가 선택 시 최소 20주간 안전하게 pulse therapy 적용 가능
+* 적용 : 지속 사용이 필요한 병소(예: 도포하면 호전되고 중단하면 악화되는 병소)에 대한 간헐적 도포로 사용 횟수 및 양을 줄이면서 악화 또는 재발을 막을 수 있음
+* 용법 : 1주에 연속된 2일간(예: 주말) 또는 정해진 요일(예: 화 & 금요일)에 bid 도포; steroid 비사용 기간 중에는 보습 크림 적용
+  * 재발 예방을 위한 주 2일 도포 시 비 연속된 2일보다 연속된 2일 도포가 효과적이라는 보고가 있음&#x20;
+* 중간 역가 선택 시 최소 20주간 안전하게 pulse therapy 적용 가능
 
 ### 사용량
 
 * 전신 부작용이 발생하지 않는 국소 steroid 한 달 사용량 : 영아 15 g, 소아 30 g, 성인 60\~90 g
 * 성인에서의 사용량 기준
+  * 0.5 FTU : 음부, 한쪽 손바닥(손가락 포함); 예) 1일 2회 1주 도포 시 7 FTU(= 3.5 g) 필요 1 FTU : 양손바닥, 한쪽 손 전체(손바닥 & 손등), 팔꿈치(안팎)
+  * 1.5 FTUs : 양발바닥(발가락포함), 한쪽 발전체, 무릎(안팎)
+  * 2.5 FTUs : 얼굴과 목
+  * 3 FTUs : 두피
+  * 4 FTUs : 엉덩이
+  - [ ] FTU(finger tip unit) : 출구 지름 5 ㎜ 튜브에서 성인 검지 끝부터 DIP finger crease까지 직선으로 짜낸 양; 1 FTU=약 0.5 g, 성인 체표면의 2% 도포
+* 연령별 부위별 Steroid 1회 도포량 (FTU)
 
-> 0.5 FTU : 음부, 한쪽 손바닥(손가락 포함); 예) 1일 2회 1주 도포 시 7 FTU(= 3.5 g) 필요 1 FTU : 양손바닥, 한쪽 손 전체(손바닥 & 손등), 팔꿈치(안팎)
-
-1.5 FTUs : 양발바닥(발가락포함), 한쪽 발전체, 무릎(안팎)
-
-2.5 FTUs : 얼굴과 목
-
-3 FTUs : 두피
-
-4 FTUs : 엉덩이
-
-> ✽FTU(finger tip unit) : 출구 지름 5 ㎜ 튜브에서 성인 검지 끝부터 DIP finger crease까지 직선으로 짜낸 양;
-
-> ```
-> 1 FTU=약 0.5 g, 성인 체표면의 2% 도포
-> ```
-
-*   연령별 부위별 Steroid 1회 도포량 (FTU)
-
-    ![image](../.gitbook/assets/962031f4-8655-4459-a6c4-02999ea61ebe.JPG)
+<table><thead><tr><th>부위</th><th width="110">3~6개월아</th><th width="98">1~2세</th><th width="98">3~5세</th><th width="98">6~10세</th><th>성인</th></tr></thead><tbody><tr><td>전체 얼굴과 목</td><td>1</td><td>1.5</td><td>1.5</td><td>2</td><td>2.5</td></tr><tr><td>한쪽 팔과 손</td><td>1</td><td>1.5</td><td>2</td><td>2.5</td><td>4</td></tr><tr><td>한쪽 다리와 발</td><td>1</td><td>2</td><td>3</td><td>4.5</td><td>8</td></tr><tr><td>가슴과 배 앞면</td><td>1</td><td>2</td><td>3</td><td>3.5</td><td>7~8</td></tr><tr><td>등과 엉덩이</td><td>1.5</td><td>3</td><td>3.5</td><td>5</td><td>7~8</td></tr></tbody></table>
 
 ### 강도에 따른 국소 Steroid의 분류
 
-```
-![image](images/8c8b1aef-fd03-482c-9993-f78032cafd3d.JPG)
-```
+| Class                              | 성분명                          | 제형 \[상품명]                                 |
+| ---------------------------------- | ---------------------------- | ----------------------------------------- |
+| **Class I (Super Potent)**         | clobetasol propionate        | 0.05% O/C/L/S/F \[더모베이트 액/연고, 베타베이트 크림]   |
+|                                    | diflucortolone valerate      | 0.3% O \[디푸코 연고]                          |
+|                                    | halobetasol propionate       | 0.05% O/C                                 |
+| **Class II (Potent)**              | betamethasone dipropionate   | 0.05% O                                   |
+|                                    | desoximetasone               | 0.25% O/C \[데라파손 로션], 0.05% G \[데속시원 겔]   |
+|                                    | diflorasone diacetate        | 0.05% C \[디프라 크림]                         |
+|                                    | fluocinonide                 | 0.05% O/C/G/S \[나이드 크림], \[스테파론 액]        |
+|                                    | halcinonide                  | 0.1% O/C/S \[베로단 연고]                      |
+| **Class III (Upper Mid-Strength)** | amcinonide                   | 0.1% C/L                                  |
+|                                    | betamethasone dipropionate   | 0.05% C \[실크론 지 크림] (gentamicin 복합제)      |
+|                                    | betamethasone valerate       | 0.1% O                                    |
+|                                    | mometasone furoate           | 0.1% O \[모리코트 연고]                         |
+| **Class IV (Mid-Strength)**        | clobetasone butyrate         | 0.05% O/C \[유모베이트 연고/크림]                  |
+|                                    | methylprednisolone aceponate | 0.1% C \[아드반탄 크림]                         |
+|                                    | mometasone furoate           | 0.1% C/L \[모리코트 크림, 로션]                   |
+|                                    | triamcinolone acetonide      | 0.1% O/C \[트리코트 크림, 리시놀 연고]               |
+| **Class V (Lower Mid-Strength)**   | betamethasone valerate       | 0.1% C, 0.05% O                           |
+|                                    | fluocinolone acetonide       | 0.025% C \[후루론 크림] (비보험)                  |
+|                                    | fluticasone propionate       | 0.05% C/L \[큐티베이트 크림]                     |
+|                                    | hydrocortisone probutate     | 0.1% C \[반델 크림]                           |
+|                                    | hydrocortisone valerate      | 0.2% C \[하이티손 크림]                         |
+|                                    | prednicarbate                | 0.1% C \[티티베 크림], 0.25% L \[락티케어 제마시스 로션] |
+| **Class VI (Mild Potent)**         | alclometasone dipropionate   | 0.05% C/O \[알타손 크림]                       |
+|                                    | betamethasone valerate       | 0.1% L \[에몰 액]                            |
+|                                    | desonide                     | 0.05% C \[데스오웬 로오션/크림]                    |
+|                                    | fluocinolone acetonide       | 0.01% C/S \[후루론 크림] (비보험)                 |
+|                                    | triamcinolone acetonide      | 0.025% C/L                                |
+| **Class VII (Least Potent)**       | hydrocortisone               | 1% or 2.5% O/C/L \[락티케어 hc 로션]            |
+|                                    | hydrocortisone acetate       | 0.5% C/L/O, 1% C/O/F \[락티코트 크림]           |
+|                                    | prednisolone valeroacetate   | 0.3% C/L \[보송 크림, 리도멕스 크림/로션]             |
+
+_O=ointment, C=cream, S=solution, L=lotion, G=gel, F=foam, A=augmented. 출처에 따라 분류가 다를 수 있음._\
+_\*Class Ⅴ로 분류한 자료도 있음 같은 class 내에서 성분 간의 효과 또는 부작용의 의미 있는 차이는 없음_\
+_Ref. Choosing Topical Corticosteroids. AFP. 2009:15:79(2). Principles of Topical Dermatologic Therapy. Merck manual._\
+_A Comprehensive Management Guide for Atopic Dermatitis. Dermatology Nursing 2006;18(6)_
 
 ### 국소 Steroid 선택 요소
 
 #### 질환
 
 * 최고역가 (ClassⅠ) : 다른 치료로 호전되지 않는 심한 병소에 대하여 단기 사용
-*   고역가 (ClassⅡ,Ⅲ) : 원형탈모증, 아토피, 원반모양 루푸스, 각화과다습진, 태선, 동전습진, 습한 접촉피부염, 건선,
-
-    심한 손습진
-*   중간 역가 (Class Ⅳ,Ⅴ) : 심한 항문 주위 염증, 건조 습진, 아토피, 태선(겹친 부위), 동전습진, 옴, 지루피부염, 심한 피부염,
-
-    심한 피부 스침(단기), 정체 피부염
+* 고역가 (ClassⅡ,Ⅲ) : 원형탈모증, 아토피, 원반모양 루푸스, 각화과다습진, 태선, 동전습진, 습한 접촉피부염, 건선, 심한 손습진
+* 중간 역가 (Class Ⅳ,Ⅴ) : 심한 항문 주위 염증, 건조 습진, 아토피, 태선(겹친 부위), 동전습진, 옴, 지루피부염, 심한 피부염, 심한 피부 스침(단기), 정체 피부염
 * 저역가 (Class Ⅵ,Ⅶ) : 기저귀 피부염, 얼굴 부위 피부염, 피부 스침, 항문 주위 염증
 
 #### 병소 부위/상태
 
-*   저역가 : 피부가 얇고 습기가 많고 위축이 빨리 오는 부위(예: 얼굴, 외음부, 겹치는 부위)
-
-    •영아, 소아(전신 흡수의 위험성이 큼) : 저역가
+* 저역가 : 피부가 얇고 습기가 많고 위축이 빨리 오는 부위(예: 얼굴, 외음부, 겹치는 부위)
+  * 영아, 소아(전신 흡수의 위험성이 큼) : 저역가
 * 고역가 : 두꺼운 피부(두피, 몸통, 사지, 손발바닥), 두꺼운 병변(건선플라크, 태선화), 중증
 
 #### 매개체/용매
 
 * 병변의 특성(예: 습한 정도, 부위), 환자의 선호도에 따라서 결정
-*   연고 : 기름 비율이 높고(80%) 윤활 및 밀폐 작용이 있음, 동일 성분에서 효과와 부작용이 가장 많음, 모낭염 발생 위험이
-
-    보다 많음; 연고 제품은 보통 방부제를 함유하고 있지 않으므로 손의 직접 접촉을 피함(예: 주걱 사용)
-
-    •적용 : 건성 및 과각화 병변
-
-    •회피 : 털이 있는 곳, 겹친 부위, 삼출성 병변
+* 연고 : 기름 비율이 높고(80%) 윤활 및 밀폐 작용이 있음, 동일 성분에서 효과와 부작용이 가장 많음, 모낭염 발생 위험이 보다 많음; 연고 제품은 보통 방부제를 함유하고 있지 않으므로 손의 직접 접촉을 피함(예: 주걱 사용)
+  * 적용 : 건성 및 과각화 병변
+  * 회피 : 털이 있는 곳, 겹친 부위, 삼출성 병변
 * Paste : 연고보다 덜 기름짐; protective barrier 작용
 * 크림 : oil:water=50:50의 반고체
 * 겔 : 젤리 같은 상태, 보통 alcohol-based
@@ -99,9 +99,10 @@
 
 #### 신체 부위에 따른 용매 선택
 
-```
-![image](images/5c44668e-9f73-4787-a0a5-c84071312a02.JPG)
-```
+<table><thead><tr><th width="98">용매</th><th>털 없는 피부·과각화 병변</th><th>털 있는 부위</th><th>손/발바닥</th><th>감염 부위</th><th>겹친 부위·습한 병변</th></tr></thead><tbody><tr><td>연고</td><td>+++</td><td>-</td><td>+++</td><td>-</td><td>-</td></tr><tr><td>크림</td><td>++</td><td>+</td><td>++</td><td>+</td><td>++</td></tr><tr><td>로션</td><td>-</td><td>++</td><td>-</td><td>++</td><td>++</td></tr><tr><td>용액</td><td>-</td><td>+++</td><td>-</td><td>+++</td><td>++</td></tr><tr><td>겔</td><td>-</td><td>++</td><td>-</td><td>+</td><td>+</td></tr><tr><td>폼</td><td>++</td><td>+++</td><td>++</td><td>++</td><td>++</td></tr></tbody></table>
+
+_-=보통 적용 안 함, +=드물게 허용, ++=보통 허용, +++=선호_\
+_Ref. Practical Dermatology 2nd ed, Mosby-Year Book, Inc, St. Louis, MO, 1997._
 
 ### 작용 시간
 
@@ -112,27 +113,17 @@
 ### 사용법에 따른 영향
 
 * hydration : 흡수 증가; 샤워 후 적용 시 효과 및 부작용 증가
-*   밀폐 요법 : 도포 후 plastic wrap으로 감쌈, 손은 도포 후 비닐장갑 착용; 흡수를 여러 배 증가시키지만 자극감과 모낭염
-
-    등이 발생할 수 있음
+* 밀폐 요법 : 도포 후 plastic wrap으로 감쌈, 손은 도포 후 비닐장갑 착용; 흡수를 여러 배 증가시키지만 자극감과 모낭염 등이 발생할 수 있음
 
 ### 부작용
 
 * 표피층 얇아짐, 모세혈관확장증, 피부 위축 : 회복 가능
 * 진피층까지 위축 시 선(striae) 발생 : 회복 안 됨
-*   부작용 호발 조건 : 겹친/밀폐 부위 또는 밀폐 요법, 얇은 피부(얼굴, 손등, 사타구니), 고령, 고역가, 장기 사용
-
-    •수 주\~수개월 이상 지속적으로 사용할 경우 국소 부작용 발생
-
-    •고역가 제제(특히 불소 함유 제제)로 2\~4주 이상 사용 시 국소 부작용 발생 가능
-
-    •저역가 제제로 1달 이내 사용 시 보통 국소 부작용은 발생하지 않음
-
-> ✽1일 1\~2회 도포 시 최대 연속 적용 기간 : 초고역가- 3주, 고/중등-12주, 저역가-제한 없음
-
-> ```
-> (Ref. Topical corticosteroids: Choice and Application. AFP 2021;103(6))
-> ```
+* 부작용 호발 조건 : 겹친/밀폐 부위 또는 밀폐 요법, 얇은 피부(얼굴, 손등, 사타구니), 고령, 고역가, 장기 사용
+  * 수 주\~수개월 이상 지속적으로 사용할 경우 국소 부작용 발생
+  * 고역가 제제(특히 불소 함유 제제)로 2\~4주 이상 사용 시 국소 부작용 발생 가능
+  * 저역가 제제로 1달 이내 사용 시 보통 국소 부작용은 발생하지 않음
+  - [ ] 1일 1\~2회 도포 시 최대 연속 적용 기간 : 초고역가- 3주, 고/중등-12주, 저역가-제한 없음 _(Ref. Topical corticosteroids: Choice and Application. AFP 2021;103(6))_
 
 ### 임신 중 국소 Steroid 사용
 
@@ -152,6 +143,8 @@
 
 * 크림 보습제 사용 15분 후, 연고 보습제 사용 15\~30분 전에 steroid 도포
 
+***
+
 ## ￭ Calcineurin Inhibitor
 
 ### 적용
@@ -164,7 +157,7 @@
 
 * 작열감, 가려움, 발적
 
-✽수개월 이상의 장기 사용에 따른 면역 관련 및 피부암 발생과 관련된 논란이 있으나 명확히 입증되지 않음
+- [ ] 수개월 이상의 장기 사용에 따른 면역 관련 및 피부암 발생과 관련된 논란이 있으나 명확히 입증되지 않음
 
 ### 용법
 
@@ -188,4 +181,4 @@
 * 0.03% 연고 : 저역가 steroid 상응 강도, ≥2세 허가
 * 0.1% 연고 : 중간 역가 steroid 상응 강도, ≥16세 허가
 
-> (✽ 보험기준: 엘리델은 경증-중등증, 프로토픽은 중등증\~중증 아토피 피부염의 2차치료제로 허가)
+- [ ] 보험기준: 엘리델은 경증-중등증, 프로토픽은 중등증\~중증 아토피 피부염의 2차치료제로 허가
