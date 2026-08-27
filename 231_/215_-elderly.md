@@ -1,6 +1,6 @@
 # 고령 환자 진료
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark> <mark style="color:green;">테스트</mark>
 
 * 고령 환자 진료에서는 연령 자체보다 생리적 예비능, 다중이환(multimorbidity), 기능상태, 허약(frailty), 인지·정서, 사회적 지지와 환자의 우선순위를 함께 평가함
 * 진료 목표는 질환별 치료와 함께 **기능·독립성·삶의 질 및 환자가 중요하게 생각하는 생활을 보존**하는 것

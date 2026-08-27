@@ -10,7 +10,7 @@
 한국보험청구심사협회-[청구심사자료실](http://hicra.or.kr/sub_asp/04_data03.html)
 ```
 
-## Part Ⅰ. 흔한 증상들 <mark style="color:green;">테스트</mark>
+## Part Ⅰ. 흔한 증상들
 
 #### Lidocaine HCl 주사제 (2020-08-01)
 
