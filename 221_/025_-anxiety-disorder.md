@@ -182,7 +182,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* GAD는 SSRI/SNRI + CBT + measurement-based follow-up이 표준 치료
+* GAD는 SSRI/SNRI와 인지행동요법(CBT)이 모두 효과적인 1차 치료이며, 환자 선호·중증도·접근성을 고려하여 단독 또는 병행하고 measurement-based follow-up을 시행
 * 자살 위험, 약물 남용, 다른 정신 질환 여부를 확인하고 관리
 * 자살 사고가 있는 경우 : 안전 계획(Safety Planning) 작성 권고 - 위기 상황에서 연락할 곳, 대처 방법, 주변 지지자를 환자 스스로 기록하게 함 \[Zero Suicide 프레임워크, 2022]
 * 불안증으로 진단되면 조기에 치료 시작
@@ -202,16 +202,13 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 **Step 2. 중증도 평가 및 초기 치료 선택 (GAD-7)**\
  GAD-7 ＜5 → 재보증(reassurance), 생활 습관 교육\
- GAD-7 5\~9 → 심리교육 ± CBT; 4\~6주 후 재평가\
- GAD-7 ≥10 → SSRI/SNRI 시작 + CBT 병행 권고\
-  \*약물 치료 단계 Step 1 해당
+ GAD-7 5\~9 → 심리교육 ± 정신치료(CBT 등); 4\~6주 후 재평가\
+ GAD-7 ≥10 또는 유의한 기능 손상 → SSRI/SNRI 및/또는 CBT 시작
 
 **Step 3. 치료 반응 평가 (치료 4\~6주 후)**\
  반응(≥50% 개선) → 현 치료 유지\
- 부분 반응 → 증량 또는 보조 약물 추가(BZD 단기, hydroxyzine, pregabalin 등)\
-  \*약물 치료 단계 Step 2\~3 해당\
- 무반응 → 약제 교체 (또는 보조 약물 추가)\
-  \*약물 치료 단계 Step 3\~5 해당
+ 부분 반응 → 순응도·용량 확인 후 증량 또는 정신치료 추가; 필요한 경우 보조 약물 검토\
+ 무반응 → 진단·공존질환·물질사용·치료 순응도 재평가 후 다른 계열 약제로 교체 또는 정신치료 추가\
 
 **Step 4. 의뢰**\
  2가지 이상 충분한 시도 후 미호전 → 정신건강의학과 의뢰
@@ -221,11 +218,20 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 0\~2주 : 초기 불안 일시 악화 가능(jitteriness); 환자에게 사전 안내
 * 2\~4주 : 수면·신체 증상부터 부분 반응 시작
 * 6\~8주 : 충분한 치료 반응 여부 평가 시점
-* 3\~6개월 : remission 도달 목표; 재발 방지를 위해 최소 12개월 유지
+* 3\~6개월 : 관해(remission) 도달 목표; 재발 방지를 위해 관해 후 최소 12개월 유지
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
-* 인지행동 요법(CBT), mindfulness-based therapy : 중등도 이상에서 약물 치료와 동등한 효과; 가능하면 병행 권고
+* 인지행동요법(CBT)은 근거가 가장 축적된 정신치료이며, 초기 치료 시기부터 시작할 수 있음
+* 국내 전문가 합의의 1차 선택 : 개인 CBT, 집단 CBT, 마음챙김기반 인지치료(MBCT), 수용전념치료(ACT), 응용이완법(applied relaxation)
+  * 개인 CBT가 상대적으로 가장 선호되었으나 집단 CBT도 1차 선택에 해당
+  * CBT와 MBCT가 동등한 효과·유용성을 보인다는 응답이 62.9%였으나, 이는 비교 임상시험의 동등성 입증이 아니라 국내 전문가 인식 조사 결과임
+* CBT 시행 방법
+  * 초기부터 시작하며, 주 1회 시행 시 8회기가 가장 많이 선호되고 다음이 12회기였음. 임상적으로 8\~12회기를 고려
+  * 종료 후 재발 예방과 기술 유지를 위한 강화 세션(booster session)을 고려. 다만 GAD 자체의 직접 근거는 아직 제한적
+  * 1차 기법 : 교육, 인지 재구성, 불확실성에 대한 인내력 학습, 걱정에 대한 역기능적 믿음 다루기, 걱정으로부터 주의 전환, 핵심 믿음 수정
+  * 실제 상황 노출과 사회기술훈련은 상위 2차 선택이며, 공황장애·사회불안장애보다 GAD에서 상대적 비중이 낮음
+* 정신치료와 약물치료는 모두 효과적인 선택이며 환자 선호와 중증도에 따라 단독 또는 병행. 단독치료 반응이 불충분하면 병행을 우선 고려
 * 카페인 섭취 제한(＞400 ㎎/day 불안 악화), 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
 * Avoid list : 에너지음료, pseudoephedrine(코감기약), cannabis(불안 악화 가능), 고용량 카페인 음료
 * 신체 활동, 이완 요법 : 규칙적 운동, 요가, 태극권, 기공, 명상; 일부 연구에서 유효
@@ -237,51 +243,56 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 저용량으로 시작
 * 1차 선택 : SSRI/SNRI
 * 항경련제, 마약성 진통제와의 병용 시 과도한 진정, 호흡 억제가 발생될 수 있으므로 주의
-* 항우울제 효과 발현까지 2\~4주 소요; 완화는 4\~6개월 후에 나타남
+* 항우울제의 부분 효과는 2\~4주부터 나타날 수 있으며 충분한 반응은 보통 4\~6주 이상 걸림. 관해까지는 수개월이 필요할 수 있음
 * 추적 관찰 : 첫 3개월 동안 2\~4주마다, 이후 3개월마다 약효와 부작용 평가
   * 새로운 약제 투여 시 2\~4주 내 F/U
 * 치료 유지 기간 : 재발 감소를 위하여 첫 삽화 후 최소 12개월 이상 유지; 재발력이 있는 경우 2년 이상 유지 권고 \[NICE 2023]
 * 약제 중단 시 tapering 하며(갑자기 중단하지 않음) 증상 재발, 약물 금단 증상 등 모니터링
 
-### <mark style="color:orange;">약물 치료 단계</mark>
+### <mark style="color:orange;">초기 약물치료 전략</mark>
 
-\[대한불안의학회]
+* 근거기반 1차 약물은 SSRI 또는 SNRI. 저용량으로 시작하여 4\~6주 이상 충분한 용량·기간을 확보
+* Buspirone은 BZD 의존 위험이 높거나 SSRI/SNRI를 사용할 수 없는 환자의 대안 또는 병용약으로 고려하되, 항우울제와 동등한 일반적 1차 단독약으로 보지는 않음
+* 급성 불안·불면·초기 jitteriness가 심하면 BZD를 단기간 병용할 수 있으나, 의존·낙상·인지저하·운전 위험을 평가하고 가능한 한 짧게 사용
 
-**Step 1. 1차 약물 선택**
+{% hint style="info" %}
+**KMAP-GAD 2024 국내 전문가 합의**
 
-* 1차 약물 : SSRI, SNRI 또는 buspirone 단독
-* 임상의의 판단에 따라 benzodiazepine 병용 가능(초기/단기)
+국내 전문가 설문에서는 초기 치료로 **항우울제+항불안제 병용**이 최우선 치료(평균 9.09), 항우울제 단독이 다음 1차 선택이었다. 여기서 항불안제에는 BZD와 azapirone(buspirone 등)이 모두 포함된다. 이는 무작위시험 기반 권고가 아니라 국내 전문가 합의이므로 환자별 위험과 국제 근거기반 지침을 함께 고려한다.
 
-**Step 2. 약물 교체 또는 추가**
+BZD 병합기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지속사용 등으로 응답이 분산되어 합의된 권장기간으로 볼 수 없다.
+{% endhint %}
 
-* Step 1에서 사용하지 않은 SSRI, SNRI 또는 buspirone 단독 사용
-* 임상의의 판단에 따라 benzodiazepine 병용 가능(초기/단기)
+* 국내 전문가가 선호한 초기 항우울제 : SSRI, milnacipran을 제외한 SNRI, mirtazapine
+  * vortioxetine은 상위 2차 선택
+  * mirtazapine은 국내 전문가 합의상 초기 1차 선택이나, GAD 허가·근거수준은 SSRI/SNRI와 구분하여 설명
+* 항우울제+비정형 항정신병약물은 국내 합의에서도 전체 초기전략상 상위 2차이고, 비정형 항정신병약물 단독은 하위 2차. Aripiprazole·quetiapine의 ‘1차’는 해당 약물군 안에서의 선호도이며 GAD 전체의 1차 치료라는 뜻이 아님
+* Propranolol 역시 ‘기타약물군 안에서’ 선호된 약물일 뿐 GAD 전체의 1차 약물은 아니며, 주로 자율신경계 신체증상·상황불안에 제한적으로 고려
 
-**Step 3. 병용 또는 부가 약물 추가**
+### <mark style="color:orange;">유지 약물치료 전략</mark>
 
-* 비전형 항정신병제
-  * quetiapine : 시작 25 ㎎/d → 매주 or 격주로 25\~50 ㎎ 증량, 최대 300 ㎎/d <mark style="color:blue;">\[쎄로켈]</mark>
-* 항히스타민제
-  * hydroxyzine : 25\~50 ㎎ tid\~qid (최대 200 ㎎/d) <mark style="color:blue;">\[아디팜]</mark>
+* 관해 후 항우울제 단독치료가 국내 전문가 합의상 최우선. 항우울제+항불안제도 1차 범주였으나 장기 병용의 필요성을 정기적으로 재평가
+* 선호 항우울제 : escitalopram, sertraline, venlafaxine이 1차이며 escitalopram이 최우선
+* 상위 2차 : fluoxetine, paroxetine, desvenlafaxine, duloxetine, mirtazapine
+* 유지단계의 항불안제 : buspirone·alprazolam·clonazepam·lorazepam은 하위 2차, bromazepam·diazepam은 3차. Buspirone의 낮은 순위는 의존성 때문이 아니라 장기효과 근거와 전문가 선호도를 반영한 것임
+* BZD는 관성적으로 지속하지 말고 감량 가능성, 의존·인지저하·낙상 위험을 매 방문 평가
 
-**Step 4. 다른 약물 병용**
+### <mark style="color:orange;">치료반응 불충분 시 전략</mark>
 
-* Step 3에서 사용되지 않은 약물로 병용 요법
-* SSRI, SNRI, NaSSA(Noradrenergic and specific serotonergic antidepressant) 또는 TCA 계열이 포함된 또 다른 병용 요법
-* TCA
-  * amitriptyline : 시작 25 ㎎/d → 유지 100\~300 ㎎/d; 편두통 적응 <mark style="color:blue;">\[에트라빌]</mark>
-  * imipramine : 시작 25 ㎎/d → 유지 100\~300 ㎎/d <mark style="color:blue;">\[이미프라민]</mark>
-  * nortriptyline : 시작 25 ㎎/d → 유지 50\~150 ㎎/d; 근골격 통증 적응 <mark style="color:blue;">\[센시발]</mark>
+* 먼저 진단, 공존 우울·양극성장애·다른 불안장애, 알코올·물질사용, 복약 순응도, 충분한 용량·기간, 정신치료의 회기·질을 재평가
+* 약물치료만 시행했다면 : 약물 조정+정신치료 추가가 가장 선호되며, 약물 유지+정신치료 추가도 1차 선택
+* 정신치료만 시행했다면 : 정신치료 유지+약물 추가가 가장 선호되며, 정신치료 조정+약물 추가도 1차 선택
+* 항우울제 조정 : 사용하지 않은 다른 계열의 SSRI, SNRI 또는 mirtazapine으로 교체하거나 추가하는 전략이 국내 합의상 1차
+* 비정형 항정신병약물 추가도 국내 합의상 1차였으나 해외지침과 차이가 크고 효과 근거가 제한적이며 대사·신경학적 부작용이 있으므로 정신건강의학과 협진하에 고려
+* Pregabalin 추가는 국내 합의상 2차였으나 일부 해외지침에서는 더 높은 순위로 권고됨. 국내 허가·급여, 신기능, 진정 및 남용 위험을 함께 확인
 
-**Step 5. 다른 약물 추가**
+### <mark style="color:orange;">공존질환이 있는 경우</mark>
 
-* Step 4에서 사용되지 않은 계열의 3번째 약물 추가
-* bupropion : 100\~450 ㎎ <mark style="color:blue;">\[웰부트린]</mark> ⚠️ 불안 우세 환자에서 초조·불안 악화 가능 — 선택적 사용(주로 우울 동반 시)
-* pregabalin : 150\~600 ㎎ <mark style="color:blue;">\[리리카]</mark> (☞ GABA-analogue 항목)
-
-**Step 6. 재평가**
-
-* 진단에 대한 재평가 및 공존 질환에 대한 평가
+* 우울장애, 다른 불안장애 또는 알코올·물질사용장애가 동반되면 약물치료+정신치료 병행이 국내 전문가 합의상 최우선
+* 범불안장애와 공존질환 중 임상적 중증도·자살 위험·기능 손상이 큰 질환을 우선하되 두 질환을 함께 치료
+* 공존질환에서 선호된 항우울제 : escitalopram, sertraline, venlafaxine, paroxetine, desvenlafaxine, duloxetine, fluoxetine, mirtazapine
+* 알코올·물질사용장애 동반 시 해당 장애를 적극적으로 함께 치료. BZD·pregabalin 등 남용 가능 약물은 가능한 한 피하거나 정신건강의학과·중독 전문진료하에 제한적으로 사용
+* 국내 설문에서는 물질사용장애 동반 시 항우울제+BZD 병용도 1차 범주였으나, 이는 중독 위험을 고려한 근거기반 일반 권고로 해석해서는 안 됨
 
 ### <mark style="color:orange;">약물 종류</mark>
 
@@ -289,7 +300,8 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 
 * SSRIs 사이의 효과 차이는 입증되지 않음(개인차는 있음) (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md))
 * 저용량으로 시작 → 4\~6주 후 평가하여 효과가 부족하면 1\~2주 간격으로 증량
-* 부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine); 자살 충동(＜30세에서 투여 첫 4주 동안 매주 자살 생각에 대하여 모니터링)
+* 부작용 : 위장 장애(예: 구역, 설사), 불면, 과민, 체중↑, 혈압↑(venlafaxine)
+* 자살 위험 모니터링 : 24세 이하(25세 미만)의 소아·청소년·젊은 성인은 투여 초기와 용량 변경 시 자살사고·행동 악화 여부를 면밀히 확인. 연령과 관계없이 임상적 악화·초조·자살사고가 나타나면 즉시 평가
 * 초기 불안 악화(jitteriness syndrome) : 투약 첫 1\~2주에 불안·초조가 일시 악화될 수 있음. 위험 인자 : 공황장애 동반, 기저 불안 수준 높음, 급격한 증량 → 저용량 시작 및 환자 사전 설명으로 예방
 * 성기능 장애 : 발생률 30\~50%; 주요 증상 — 성욕 저하, 불감증, 사정 지연. 관리 : 용량 감량, vortioxetine 또는 bupropion(우울 동반 시)으로 전환 고려
 * 세로토닌 증후군 주의 : SSRI/SNRI 처방 전 병용 약물 확인 필수 — tramadol(오피오이드계 진통제), triptans(편두통 치료제), linezolid(항생제), fentanyl, dextromethorphan(일반 감기약) 등 세로토닌 활성 약물과 병용 시 세로토닌 증후군(고열·근육 경직·진전·의식 변화) 위험; 다른 과 처방 여부 반드시 확인
@@ -298,20 +310,31 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 고령자 : SSRI 투여 시 저나트륨혈증(SIADH) 위험 모니터링. 투약 초기 전해질 확인 권고
 * 임산부 : SSRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려; 정신건강의학과 협진 권고
 * 약물 중단 시 반동 증상 : 어지럼, 이상 감각, 구역/구토, 두통, 발한, 불안, 수면 장애
-* Tapering 원칙 : 용량이 낮아질수록 더 천천히 감량(hyperbolic tapering); 최소 용량 도달 후 격일 복용으로 2\~4주 유지한 뒤 중단. 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 천천히 감량
+* Tapering 원칙 : 용량이 낮아질수록 더 작은 폭으로 천천히 감량(hyperbolic tapering). 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 천천히 감량
   * Hyperbolic Tapering 개념 : 뇌의 세로토닌 수용체 점유율은 약물 용량에 비례하지 않고 쌍곡선(hyperbolic) 관계로 변화한다. 즉 고용량 구간에서는 용량을 크게 줄여도 수용체 점유율 변화가 작지만, 저용량 구간에서는 조금만 줄여도 수용체 점유율이 급격히 변한다. 따라서 감량 후반부일수록 더 작은 폭으로, 더 천천히 줄여야 금단 증상을 최소화할 수 있다.\
-    예) escitalopram 감량 : 10 ㎎ → 7.5 ㎎ 2\~4주 → 5 ㎎ 2\~4주 → 2.5 ㎎ 4\~8주 → 격일 복용 4\~8주 → 중단; 개인차가 크며, 금단 증상 발생 시 이전 용량으로 되돌아가 더 천천히 감량
+    예) escitalopram 감량 : 10 ㎎ → 7.5 ㎎ → 5 ㎎ → 2.5 ㎎ → 필요 시 더 작은 용량 후 중단. 각 단계는 보통 2\~4주 이상 유지하되 치료기간·금단 증상에 따라 조절하고, 증상 발생 시 이전에 견딘 용량으로 돌아가 더 천천히 감량
+  * 격일 복용은 혈중농도 변동으로 금단 증상을 악화시킬 수 있어 일률적으로 권하지 않음. 가능한 경우 저함량 제제 또는 액상 제형 등을 활용하여 매일 복용 용량을 줄임
 
 <table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* <mark style="color:blue;">[렉사프로]</mark></td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* <mark style="color:blue;">[세로자트, 팍실CR]</mark></td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine <mark style="color:blue;">[듀미록스]</mark></td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* <mark style="color:blue;">[심발타]</mark></td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* <mark style="color:blue;">[이팩사 XR]</mark></td><td align="center">37.5</td><td align="center">75~225</td></tr><tr><td>vortioxetine† <mark style="color:blue;">[브린텔릭스]</mark></td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
 
 _\* GAD에 대하여 FDA 승인 (escitalopram, paroxetine, duloxetine, venlafaxine XR)_\
-&#xNAN;_† GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능(근거 축적 중)_
+_† GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능(근거 축적 중)_
+
+{% hint style="info" %}
+**국내 전문가 실사용 용량(KMAP-GAD 2024)**
+
+아래 수치는 국내 전문가 설문에서 가장 많이 응답한 **최빈값**이며 허가용량이나 권장 최대용량을 뜻하지 않는다. 국내 허가사항과 환자별 내약성을 우선하고, 설문에서 보고된 허가범위 초과 용량을 그대로 처방 근거로 사용하지 않는다.
+
+<table><thead><tr><th>성분명</th><th align="center">시작용량 최빈값</th><th align="center">유지용량 최빈값</th><th align="center">최대사용용량 최빈값</th></tr></thead><tbody><tr><td>escitalopram</td><td align="center">5 ㎎/d</td><td align="center">10 ㎎/d</td><td align="center">20 ㎎/d</td></tr><tr><td>sertraline</td><td align="center">25 ㎎/d</td><td align="center">100 ㎎/d</td><td align="center">200 ㎎/d</td></tr><tr><td>paroxetine</td><td align="center">10 ㎎/d</td><td align="center">20 ㎎/d</td><td align="center">40 ㎎/d</td></tr><tr><td>duloxetine</td><td align="center">30 ㎎/d</td><td align="center">60 ㎎/d</td><td align="center">120 ㎎/d</td></tr><tr><td>venlafaxine</td><td align="center">37.5 ㎎/d</td><td align="center">150 ㎎/d</td><td align="center">225 ㎎/d</td></tr><tr><td>mirtazapine</td><td align="center">7.5 ㎎/d</td><td align="center">15 ㎎/d</td><td align="center">30 ㎎/d</td></tr><tr><td>buspirone</td><td align="center">15 ㎎/d</td><td align="center">30 ㎎/d</td><td align="center">30 ㎎/d</td></tr></tbody></table>
+
+<table><thead><tr><th>보조약물</th><th align="center">시작용량 최빈값</th><th align="center">유지용량 최빈값</th><th align="center">최대사용용량 최빈값</th></tr></thead><tbody><tr><td>alprazolam</td><td align="center">0.25 ㎎/d</td><td align="center">0.5 ㎎/d</td><td align="center">1.5 ㎎/d</td></tr><tr><td>clonazepam</td><td align="center">0.25 ㎎/d</td><td align="center">0.5 ㎎/d</td><td align="center">1 ㎎/d</td></tr><tr><td>lorazepam</td><td align="center">0.5 ㎎/d</td><td align="center">1 ㎎/d</td><td align="center">3 ㎎/d</td></tr><tr><td>aripiprazole</td><td align="center">1 ㎎/d</td><td align="center">2 ㎎/d</td><td align="center">5 ㎎/d</td></tr><tr><td>quetiapine</td><td align="center">12.5 ㎎/d</td><td align="center">25 ㎎/d</td><td align="center">100 ㎎/d</td></tr><tr><td>pregabalin</td><td align="center">150 ㎎/d</td><td align="center">150 ㎎/d</td><td align="center">150 ㎎/d</td></tr><tr><td>propranolol</td><td align="center">10 ㎎/d</td><td align="center">40 ㎎/d</td><td align="center">60 ㎎/d</td></tr></tbody></table>
+{% endhint %}
 
 **GABA-analogue**
 
 * SSRI/SNRI를 사용할 수 없을 때 또는 보조 요법으로 고려
 * pregabalin : 150\~600 ㎎ <mark style="color:blue;">\[리리카]</mark>
-  * GAD에 대해 EMA(유럽) 허가; WFSBP 등 일부 국제 가이드라인에서 1차 선택 약제로 권고; 대한불안의학회 가이드라인에서는 Step 5에 위치 (국내 임상 관행 반영)
+  * GAD에 대해 EMA(유럽) 허가; WFSBP 등 일부 국제 가이드라인에서는 높은 순위로 권고하지만 국내 전문가 합의에서는 초기 기타약물군 내 2차, 치료반응 불충분 시 추가약물로 2차에 해당
   * 효과 발현이 SSRI보다 빠름(1\~2주); 수면 개선 효과도 있음
   * SSRI/SNRI의 성기능 부작용(성욕 저하, 불감증)을 피해야 하는 환자에게 유용한 대안
   * 주의 : 남용·의존 가능성(특히 약물 남용 과거력), 어지럼·진정 부작용; 신기능 저하 시 감량
@@ -340,8 +363,10 @@ _\* GAD에 대하여 FDA 승인 (escitalopram, paroxetine, duloxetine, venlafaxi
 
 **항정신병 약물**
 
-* 불응성 불안장애, benzodiazepine 등으로 조절되지 않는 경우 고려
-  * 일차의료에서는 사용하지 않을 것을 권고 \[NICE]
+* 항우울제와 충분한 정신치료에도 반응이 불충분한 경우에 한하여 정신건강의학과 협진하에 고려
+* 국내 전문가 합의에서는 aripiprazole·quetiapine이 이 약물군 내에서 선호되었으나, 전체 초기전략에서 항우울제+비정형 항정신병약물은 상위 2차이고 단독요법은 하위 2차임
+* NICE·RANZCP는 GAD에 비정형 항정신병약물을 권하지 않으며, 대사증후군·정좌불능·지연성 운동장애 등 위해를 고려하여 일차의료에서 일상적으로 시작하지 않음
+* aripiprazole : 저용량으로 시작하여 반응과 정좌불능 여부를 면밀히 평가 <mark style="color:blue;">\[아빌리파이]</mark>
 * olanzapine : 2.5\~7.5 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[자이프렉사]</mark>
 * quetiapine : 12.5\~100 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[쎄로켈]</mark>
 * risperidone : 0.5\~1 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[리스페달]</mark>
@@ -377,18 +402,18 @@ F41.9 상세불명의 불안장애
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** GAD — Step 1, SSRI 단독 (1차 선택)
+> **처방례 1.** GAD — 초기치료, SSRI 단독
 >
 > ```
 > 렉사프로 10 mg/T  0.5T  qd  조식 후  (첫 1~2주)
 > → 2주 후 1T qd로 증량; 4~6주 후 효과 평가
 > ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 — 저용량 시작 이유 설명
-> ※ 30세 미만: 투약 첫 4주간 매주 자살 사고 모니터링
+> ※ 24세 이하: 투여 초기와 용량 변경 시 자살사고·행동 악화 여부를 면밀히 확인
 > ※ 고령자: 투약 2~4주 후 전해질(Na) 확인 (SIADH 위험)
 > ※ QT 연장 주의: 고용량(>20 mg) 또는 QT 연장 유발 약물 병용 시 ECG 고려
 > ```
 
-> **처방례 2.** GAD — Step 1, SNRI 단독 (불안 + 통증 동반, 또는 SSRI 불내성)
+> **처방례 2.** GAD — 초기치료, SNRI 단독 (불안+통증 동반 또는 SSRI 불내성)
 >
 > ```
 > 이팩사 엑스알 서방 37.5 mg/C  1C  qd  조식 후  (첫 4주)
@@ -397,7 +422,7 @@ F41.9 상세불명의 불안장애
 > ※ 갑작스러운 중단 금지 (discontinuation syndrome 위험)
 > ```
 
-> **처방례 3.** GAD — Step 1, Buspirone 단독 (BZD 의존 위험 환자, SSRI 불내성)
+> **처방례 3.** GAD — Buspirone 대안요법 (BZD 의존 위험 또는 SSRI/SNRI 불내성)
 >
 > ```
 > 부스파 5 mg/T  1T  tid  식후  (첫 1~2주)
@@ -407,7 +432,7 @@ F41.9 상세불명의 불안장애
 > ※ MAO 억제제와 병용 금지
 > ```
 
-> **처방례 4.** GAD — Step 1 + 단기 BZD 병용 (급성 불안·수면 장애 동반)
+> **처방례 4.** GAD — 항우울제+단기 BZD 병용 (급성 불안·수면 장애 동반)
 >
 > ```
 > 렉사프로 10 mg/T  1T  qd  조식 후
@@ -417,7 +442,7 @@ F41.9 상세불명의 불안장애
 > ※ 중단 시 반드시 tapering (갑작스러운 중단 금지)
 > ```
 
-> **처방례 5.** GAD — Step 2 (1차 약제 변경, 수면 장애 뚜렷한 경우)
+> **처방례 5.** GAD — 항우울제 변경 (수면 장애가 뚜렷한 경우)
 >
 > ```
 > 팍실 CR 12.5 mg/T  1T  qd  조식 후  (4주 후 25 mg으로 증량 고려)
@@ -426,14 +451,14 @@ F41.9 상세불명의 불안장애
 > ※ 중단 시 discontinuation syndrome 발생 빈도 높음 — 반드시 서서히 감량
 > ```
 
-> **처방례 6.** GAD — Step 3, SSRI + 비전형 항정신병제 병용 (Step 1\~2 불충분)
+> **처방례 6.** GAD — 반응불충분, SSRI+비정형 항정신병약물 병용 (정신건강의학과 협진)
 >
 > ```
 > 졸로푸트 50 mg/T  1T  qd  조식 후
 > 쎄로켈 서방 50 mg/T  1T  qd  취침 시
 > ※ 쎄로켈은 25 mg에서 시작 → 매주 25~50 mg씩 증량 (최대 300 mg/d)
 > ※ 대사 증후군 모니터링 : 체중, 혈당, 지질 (3~6개월마다)
-> ※ 일차의료에서 항정신병제 추가 시 정신건강의학과 협진 권고 [NICE]
+> ※ 비정형 항정신병약물의 GAD 사용 근거는 제한적이며 대사·신경학적 부작용이 있으므로 정신건강의학과 협진하에 사용
 > ```
 
 ***
@@ -445,7 +470,7 @@ F41.9 상세불명의 불안장애
 > * 약 효과는 2\~4주 후 서서히 나타납니다. 처음 1\~2주는 오히려 불안이 약간 더 느껴질 수 있으나 곧 호전되므로 임의로 중단하지 마십시오.
 > * 반드시 담당 의사와 상의한 후 서서히 줄여야 합니다. 갑자기 끊으면 어지럼, 저림, 구역 등 \*\*중단 증상(discontinuation syndrome)\*\*이 생길 수 있습니다.
 > * 커피·에너지음료 등 카페인 음료와 술은 불안을 악화시킵니다.
-> * 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
+> * 24세 이하에서는 복용 초기와 용량 변경 시 자살 생각이나 행동이 드물게 증가할 수 있습니다. 연령과 관계없이 우울감·초조가 심해지거나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -472,22 +497,22 @@ F41.9 상세불명의 불안장애
 
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
-* **약물 치료** : 항우울제(SSRI/SNRI)가 가장 효과적인 1차 치료제입니다. 약 효과는 2\~4주에 걸쳐 서서히 나타납니다.
-* **비약물 치료** : 인지행동요법(CBT)·마음챙김 명상이 약물 치료만큼 효과적이며, 병행 시 효과가 더욱 높습니다.
+* **약물 치료** : 항우울제(SSRI/SNRI)가 대표적인 1차 치료제입니다. 일부 효과는 2\~4주부터 나타날 수 있으며 충분한 효과에는 보통 4\~6주 이상 걸립니다.
+* **비약물 치료** : 인지행동요법(CBT)·마음챙김기반 치료·수용전념치료·응용이완법도 효과적인 치료입니다. 증상과 선호에 따라 약물과 단독 또는 병행할 수 있습니다.
 * **치료 기간** : 증상이 좋아진 후에도 재발 방지를 위해 보통 12개월 이상 꾸준히 복용을 권장합니다.
 
 #### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
 * **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼·저림·구역 등 \*\*중단 증상(적응 과정에서 일시적으로 나타나는 반응)\*\*이 생길 수 있습니다. 반드시 의사와 상의하여 서서히 줄이십시오.
-* **초기 적응기** : 복용 첫 1\~2주 동안은 일시적으로 불안이 더 느껴질 수 있으나, 적응 과정이므로 안심하셔도 됩니다.
+* **초기 적응기** : 복용 첫 1\~2주 동안 불안이나 초조가 일시적으로 더 느껴질 수 있습니다. 증상이 심하거나 불면·충동성·자해 생각이 동반되면 기다리지 말고 즉시 담당 의사에게 연락하십시오.
 * **안정제(BZD) 주의** : 안정제는 의존성 예방을 위해 의사의 지시대로 단기간만 사용합니다.
-* 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
+* 24세 이하에서는 복용 초기와 용량 변경 시 자살 생각이나 행동이 드물게 증가할 수 있습니다. 연령과 관계없이 우울감·초조가 심해지거나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
 
 #### <mark style="color:$primary;">생활 속 실천 사항</mark>
 
 * **카페인·술 제한** : 커피·에너지음료·술은 불안을 악화시키는 주요 원인입니다.
 * **규칙적인 운동** : 주 3회 이상의 유산소 운동은 불안감을 낮추는 데 도움이 됩니다.
-* **이완 연습** : 숨이 가빠지거나 긴장될 때 천천히 복식 호흡(코로 4초 들이쉬고, 입으로 6초 내쉬기)을 시도해 보십시오.
+* **이완 연습** : 하루 1회, 복식호흡이나 점진적 근육이완을 3\~5분부터 시작하여 익숙해지면 10\~20분까지 늘리십시오. 긴장될 때에는 코로 4초 들이쉬고 입으로 6초 내쉬는 호흡을 시도할 수 있습니다.
 * **규칙적인 생활** : 수면 시간과 식사 시간을 일정하게 유지하십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 도움을 요청하세요</mark>
