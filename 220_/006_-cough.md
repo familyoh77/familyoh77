@@ -7,6 +7,7 @@
 * 만성 기침의 흔한 원인군: 천식(cough-variant asthma 포함), 상기도기침증후군(UACS), 비천식성 호산구성 기관지염(NAEB), 위식도역류질환(GERD). 위식도역류가 기침에 기여하는 환자가 있으나 인과관계 판단이 쉽지 않으며, 특히 전형적 역류 증상이 없는 환자에서는 PPI의 기침 개선 효과가 제한적임
 * 흡연 관련 만성 기침은 금연 후 대부분 호전하므로 금연 상담을 우선 시행
 * ACEI 복용 중인 환자에서는 약물 유발 기침을 항상 먼저 배제할 것
+* ACEI 외에도 opioid, 전립선 관련 및 안과용 prostanoid 점안액, statin, NSAID 등이 기침을 유발할 수 있으며, 비선택적 β차단제는 기침 수용체 자극이 아닌 직접적 기관지수축을 통해 기침을 악화시킬 수 있음 (WAO-ARIA consensus on chronic cough, 2025)
 * 급성 기침의 대부분은 바이러스 감염(감기, 급성 기관지염)이 원인으로, 항생제의 관습적·일상적 처방은 권장되지 않음; 화농성 객담을 동반한 경우에 한해 제한적으로 고려할 수 있으나, 가래 색깔만으로 세균 감염 여부를 확정할 수는 없음 (대한결핵 및 호흡기학회 기침진료지침, 2020)
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -62,6 +63,8 @@
 
 ※ 감염후기침 (post-infectious cough) : 호흡기 감염 후 지속되는 3\~8주의 아급성 기침. 8주를 초과하면 천식/CVA, UACS, NAEB, GERD 등 다른 만성 기침 원인을 재평가
 
+※ 다인성 기침(multifactorial cough) : 단일 원인 치료에 반응하지 않는 만성 기침에서는 두 가지 이상의 원인이 동시에 작용할 가능성을 고려. 소아에서는 CVA와 UACS의 조합이, 성인에서는 atopic cough와 GERD의 조합이 흔한 것으로 보고됨 (WAO-ARIA consensus on chronic cough, 2025)
+
 ## <mark style="color:green;">지속되는 기침의 원인 질환들</mark>
 
 #### <mark style="color:$primary;">상기도기침증후군 (Upper airway cough syndrome)</mark>
@@ -112,7 +115,15 @@
   * 인후부 이물감, 따끔거림, 간지러움(laryngeal hypersensitivity)
   * 중년 여성에서 호발; 상기도 감염 후 시작되는 경우 많음
 * 진단 : 다른 원인 및 치료 가능한 특성(treatable traits)을 충분히 평가·치료한 후에도 기침이 지속되는 경우 임상적으로 판단
-* 치료 : neuromodulator(gabapentin, pregabalin, amitriptyline 등; "원인 미상의 refractory cough" 항목 참조); 기침 억제 재활 치료(cough suppression therapy)를 병행하거나 단독으로 시행 가능
+* 치료 : neuromodulator(gabapentin, pregabalin, amitriptyline 등; "원인불명 만성기침(UCC)/난치성 만성기침(RCC)" 항목 참조); 기침 억제 재활 치료(cough suppression therapy)를 병행하거나 단독으로 시행 가능
+
+#### <mark style="color:$primary;">후두 과민반응 / 성대기능이상 (Laryngeal hyperresponsiveness, LHR)</mark>
+
+* 정의 : 역설적 성대 움직임(paradoxical vocal fold movement), 근긴장성 발성장애(muscle tension dysphonia), globus 등을 포괄하는 개념으로, 후두 감각신경의 과민반응이 공통 기전으로 추정됨
+* 천식 동반 여부와 무관하게 다양한 만성기침 표현형에서 높은 연관성을 보이며, 만성기침 환자의 상당수(최대 절반 가까이)에서 동반될 수 있음 (WAO-ARIA consensus on chronic cough, 2025)
+* 임상 양상 : 인후부 조임·이물감, 흡기 시 협착음(stridor) 유사음, 특정 유발 요인(향수, 웃음, 운동, 찬 공기, 강한 냄새) 노출 시 급성 악화
+* 진단 : 후두경검사(±스트로보스코피)로 확인; 진단이 모호하거나 치료 반응이 없으면 이비인후과 협진
+* 치료 : 발성/호흡 치료(음성언어치료사 협진), 유발 요인 회피 교육; 치료 원칙은 기침과민증후군의 기침 억제 재활 치료와 상당 부분 중복됨
 
 ## <mark style="color:green;">진단</mark>
 
@@ -312,6 +323,8 @@ graph TD
 * **감염후기침** : 대부분 자연 호전하므로 경과 관찰과 증상 완화가 기본. 백일해, 천식/CVA, UACS 등 다른 원인을 배제하며, 증상이 심하거나 지속되는 일부 환자에서는 ipratropium 또는 단기간 ICS trial을 고려할 수 있으나 근거는 제한적. 전신 steroid의 routine 사용은 권장하지 않음
 *   **GERD** : heartburn/regurgitation 등 전형적 역류 증상 또는 객관적인 acid reflux 근거가 있을 때 생활습관 교정과 함께 PPI를 고려. 기침 외 다른 증상이 없고 acid reflux의 근거도 없는 경우 PPI의 기침 개선 효과는 제한적이며 routine 투여를 권장하지 않음. 투여 시 상용량으로 8\~12주(2\~3개월) 치료 후 반응 평가; 1일 1회 요법에 반응이 불충분하면 1일 2회 분할 투여를 시도할 수 있음 (대한결핵 및 호흡기학회 기침진료지침, 2020) (☞ [위식도역류질환](../224_/081_-gerd.md))
 
+    ✽ WAO-ARIA consensus(2025)는 PPI 오·남용을 줄이기 위해 4\~8주의 짧은 경험적 치료 후 감량을 권고하고 있어, 국내 지침보다 짧은 기간을 제시함. 치료 기간은 환자의 반응과 부작용을 고려하여 개별화
+
     ✽ 식후 기침 악화(postprandial cough)가 뚜렷한 경우 역류성 기침 가능성이 높으며, PPI 반응 예측에 참고할 수 있음 (임상 관찰 근거)
 
     ✽ 생활습관 교정(야식·과식·기름진 음식 제한, 식후 눕지 않기, 취침 시 상체 거상)은 PPI 단독 투여보다 효과적일 수 있으며, 특히 식도 외 증상(기침)만 있는 경우에는 생활습관 교정을 우선 시행할 것
@@ -333,9 +346,11 @@ graph TD
 * 심리적 고통 또는 기능 저하가 있으면 인지행동치료(CBT), 상담·심리치료 등을 고려
 * 진해제나 benzodiazepine을 기침 자체의 routine 치료로 사용하지 않음
 
-#### <mark style="color:$primary;">원인 미상의 refractory cough</mark>
+#### <mark style="color:$primary;">원인불명 만성기침(UCC)/난치성 만성기침(RCC)</mark>
 
-* 기침 과민증후군을 의심하며 말초 및 중추성 cough reflex 과민에 대한 neuromodulator 치료 고려
+* **원인불명 만성기침(Unexplained chronic cough, UCC)** : 충분한 검사에도 불구하고 원인 질환을 찾지 못했으나 기침이 지속되는 경우
+* **난치성 만성기침(Refractory chronic cough, RCC)** : 원인 질환을 확인하여 지침에 따라 치료했음에도 기침이 지속되는 경우
+* 둘 다 전체 만성기침의 일부(소수)를 차지하며, 기침과민증후군을 의심하며 말초 및 중추성 cough reflex 과민에 대한 neuromodulator 치료 고려 (WAO-ARIA consensus on chronic cough, 2025)
 
 **Gabapentinoid (α2δ Ligands)**
 
