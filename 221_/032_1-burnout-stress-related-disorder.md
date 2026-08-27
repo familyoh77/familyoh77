@@ -1,6 +1,6 @@
 # 번아웃 / 스트레스 관련 장애 Burnout Stress related Disorder
 
-## <mark style="color:green;">일반 사항 테스트</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * **번아웃(Burnout)** : 만성적인 직업적 스트레스가 성공적으로 해소되지 못하여 발생하는 증후군; ICD-11에서 직업적 현상(occupational phenomenon)으로 분류 - 독립적 질병이 아님
 * **적응장애(Adjustment Disorder)** : 식별 가능한 스트레스 요인에 대한 반응으로 발생하는 감정적·행동적 증상; DSM-5 및 ICD-10 F43.2에 독립 진단으로 분류

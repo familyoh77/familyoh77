@@ -1,6 +1,6 @@
 # 안과계 약제 Ophthalmic Medications
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 테스트</mark>
 
 * 안과계 약제는 점안액(eye drops), 안연고(ointment), 안젤(gel), 경구제로 구분됨
 * 1차 진료에서 처방하는 안약제의 대부분은 점안액·안연고이며, 전신 흡수에 의한 부작용에 주의가 필요함
@@ -139,7 +139,7 @@ _SA=S. aureus, SP=S. pneumoniae, H=H. influenzae, P=P. aeruginosa, E=E. coli, N=
 
 ### <mark style="color:orange;">성분별 분류</mark>
 
-<table><thead><tr><th width="203">성분명 [상품명]</th><th width="76">역가</th><th>주요 사용</th></tr></thead><tbody><tr><td>fluorometholone 0.1% <mark style="color:blue;">[오큐메토론]</mark></td><td>저~중</td><td>알레르기 결막염, 안구건조증 염증, 안검염, 콩다래끼</td></tr><tr><td>loteprednol etabonate <mark style="color:blue;">[로테프로]</mark></td><td>저</td><td>안구건조증 염증, 안검염 <br>(안압 상승 위험 낮음)</td></tr><tr><td>rimexolone <mark style="color:blue;">[벡솔]</mark></td><td>중</td><td>안검염 중등증, 콩다래끼</td></tr><tr><td>dexamethasone</td><td>고</td><td>복합제 성분; 단독 처방 시 주의</td></tr><tr><td>prednisolone acetate</td><td>고</td><td>복합제 성분; 전문의 처방 원칙</td></tr></tbody></table>
+<table><thead><tr><th width="203">성분명 [상품명]</th><th width="76">역가</th><th>주요 사용</th></tr></thead><tbody><tr><td>fluorometholone 0.1% <mark style="color:blue;">[오큐메토론]</mark></td><td>저~중</td><td>알레르기 결막염, 안구건조증 염증, 안검염, 콩다래끼</td></tr><tr><td>loteprednol etabonate <mark style="color:blue;">[로테프로]</mark></td><td>저</td><td>안구건조증 염증, 안검염<br>(안압 상승 위험 낮음)</td></tr><tr><td>rimexolone <mark style="color:blue;">[벡솔]</mark></td><td>중</td><td>안검염 중등증, 콩다래끼</td></tr><tr><td>dexamethasone</td><td>고</td><td>복합제 성분; 단독 처방 시 주의</td></tr><tr><td>prednisolone acetate</td><td>고</td><td>복합제 성분; 전문의 처방 원칙</td></tr></tbody></table>
 
 * 사용 기간 : 4회/일 사용 시 2주 미만; 가끔 사용 시 수 주간 허용 (가능한 저역가 선택)
 * 장기 사용 부작용 : 안압 상승 → 스테로이드 유발 녹내장, 후낭하 백내장, 감염 악화
