@@ -1,6 +1,6 @@
 # 심방세동 Atrial Fibrillation
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 테스트</mark>
 
 * 심방의 비조직적 전기 활동으로 인한 불규칙한 심방 수축; 가장 흔한 지속성 부정맥
 * 유병률 : 성인의 약 1\~2%; 70세 이상에서 5\~10%; 국내 고령화로 유병률 지속 증가 추세
@@ -131,7 +131,7 @@ class Followup,Cardiovert,TEE blue
 최근에는 AF를 "있다/없다"의 이분법이 아니라, 총 지속 시간의 비율인 **AF burden**(부담) 개념으로 접근하는 경향이 강화되고 있음. 위험 인자 관리(C)를 통해 AF burden 자체를 줄이는 것이 뇌졸중·심부전 등 합병증 위험 감소와 연관된다는 근거가 축적되고 있음
 {% endhint %}
 
-### <mark style="color:orange;">C - Comorbidity and risk factor management</mark>&#x20;
+### <mark style="color:orange;">C - Comorbidity and risk factor management</mark>
 
 * 고혈압 : 목표 혈압 달성이 AF 재발 및 뇌졸중 위험 감소에 직결
 * 수면무호흡증 : CPAP 치료 시 AF 재발 및 부담 감소; STOP-BANG 등으로 선별 (☞ 수면무호흡증)
@@ -167,7 +167,7 @@ class Followup,Cardiovert,TEE blue
 **주의 - 생체판막(Bioprosthetic valve)은 다름** : 생체 판막 치환술 후 또는 판막성형술(repair) 후 환자는 기계판막과 달리 NOAC 사용이 가능합니다(단, 수술 직후 초기 3개월 등 특정 시기는 제외하며 순환기내과 상의 필요). "판막 수술 이력 = 무조건 와파린"으로 오인하지 않도록 주의
 {% endhint %}
 
-<table><thead><tr><th width="177">약제</th><th>용량</th><th>비고</th></tr></thead><tbody><tr><td>Dabigatran <mark style="color:blue;">[프라닥사]</mark></td><td>150 ㎎ 1T #2 (표준) / 110 ㎎ 1T #2 (80세 이상은 필수 감량; 75~79세는 병용 출혈위험인자 동반 시 감량 고려)</td><td>신기능 의존도 높음; eGFR ＜30 금기</td></tr><tr><td>Rivaroxaban <mark style="color:blue;">[자렐토]</mark></td><td>20 ㎎ 1T #1 저녁 식사와 함께</td><td>eGFR 15~49 시 15 ㎎으로 감량; eGFR ＜15 금기</td></tr><tr><td>Apixaban <mark style="color:blue;">[엘리퀴스]</mark></td><td>5 ㎎ 1T #2</td><td>다음 3가지 중 2가지 이상 해당 시 2.5 ㎎ #2로 감량 : ⓵ 연령 ≥80세, ⓶ 체중 ≤60 ㎏, ⓷ 혈청 크레아티닌 ≥1.5 ㎎/㎗</td></tr><tr><td>Edoxaban <mark style="color:blue;">[릭시아나]</mark></td><td>60 ㎎ 1T #1</td><td>eGFR 15~50, 체중 ≤60 ㎏, 또는 강력한 P-gp 억제제 병용 시 30 ㎎으로 감량; CrCl ＞95 ㎖/min에서는 효과 감소 가능성이 보고되어 다른 NOAC을 우선 고려 </td></tr></tbody></table>
+<table><thead><tr><th width="177">약제</th><th>용량</th><th>비고</th></tr></thead><tbody><tr><td>Dabigatran <mark style="color:blue;">[프라닥사]</mark></td><td>150 ㎎ 1T #2 (표준) / 110 ㎎ 1T #2 (80세 이상은 필수 감량; 75~79세는 병용 출혈위험인자 동반 시 감량 고려)</td><td>신기능 의존도 높음; eGFR ＜30 금기</td></tr><tr><td>Rivaroxaban <mark style="color:blue;">[자렐토]</mark></td><td>20 ㎎ 1T #1 저녁 식사와 함께</td><td>eGFR 15~49 시 15 ㎎으로 감량; eGFR ＜15 금기</td></tr><tr><td>Apixaban <mark style="color:blue;">[엘리퀴스]</mark></td><td>5 ㎎ 1T #2</td><td>다음 3가지 중 2가지 이상 해당 시 2.5 ㎎ #2로 감량 : ⓵ 연령 ≥80세, ⓶ 체중 ≤60 ㎏, ⓷ 혈청 크레아티닌 ≥1.5 ㎎/㎗</td></tr><tr><td>Edoxaban <mark style="color:blue;">[릭시아나]</mark></td><td>60 ㎎ 1T #1</td><td>eGFR 15~50, 체중 ≤60 ㎏, 또는 강력한 P-gp 억제제 병용 시 30 ㎎으로 감량; CrCl ＞95 ㎖/min에서는 효과 감소 가능성이 보고되어 다른 NOAC을 우선 고려</td></tr></tbody></table>
 
 * 신기능(eGFR) 및 간기능 확인 후 약제 선택
 * 출혈 위험 평가(HAS-BLED) 참고하되, 출혈 위험이 높다는 이유만으로 항응고 치료를 중단해서는 안 됨 - 교정 가능한 출혈 위험인자(고혈압 조절, 약물 상호작용, 음주 중단)를 먼저 교정
@@ -181,7 +181,7 @@ class Followup,Cardiovert,TEE blue
 
 * 경피적 좌심방이 폐쇄술(Left Atrial Appendage Occlusion, LAAO) : 항응고 절대 금기(NOAC/와파린 모두 불가)인 경우뿐 아니라, 반복적인 major bleeding이나 장기간 항응고 유지가 임상적으로 어려운 고위험 환자에서도 대안으로 고려될 수 있음(2024 ESC 기준 약한 권고, Class IIb 수준) → 순환기내과(구조적 심장 중재) 의뢰
 
-### <mark style="color:orange;">R - Reduce symptoms by rate and rhythm control</mark>&#x20;
+### <mark style="color:orange;">R - Reduce symptoms by rate and rhythm control</mark>
 
 #### <mark style="color:$primary;">심박수 조절 (Rate Control)</mark>
 
@@ -205,7 +205,7 @@ class Followup,Cardiovert,TEE blue
 * 리듬 조절 시도 전 혈전 확인 원칙 : AF 발생 48시간 이내 여부 불확실하거나 48시간 초과 시 → 경식도 초음파(혈전 배제) 또는 3주 이상 선행 항응고 요법 필수
   * 단, 이미 3주 이상 적절한 치료 용량의 항응고가 유지되고 있던 환자는 48시간 경과 여부와 무관하게 TEE 없이 리듬 전환 가능
 
-### <mark style="color:orange;">E - Evaluation and dynamic reassessment</mark>&#x20;
+### <mark style="color:orange;">E - Evaluation and dynamic reassessment</mark>
 
 * NOAC 복용 환자 : 3\~6개월마다 신기능·간기능·혈압 확인; 복약 순응도 점검
 * 심박수 모니터링 : 맥박 측정 또는 ECG; 목표 달성 여부 확인

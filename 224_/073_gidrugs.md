@@ -1,6 +1,6 @@
 # 소화기계 약제
 
-## <mark style="color:green;">처방 안전 요약  테스트</mark>
+## <mark style="color:green;">처방 안전 요약</mark>
 
 ### <mark style="color:orange;">위험군별 주의 약제</mark>
 
