@@ -58,6 +58,7 @@
   * 급성 외상성 어깨 통증에서 골절·탈구 가능성이 있으면 X선 검사 우선
   * 급성·아급성 비외상성 어깨 통증에서 Red Flag가 없고 임상적으로 RTC tendinopathy 등이 명확하면 초기 영상 검사는 보통 필요 없음
   * 만성 또는 지속성 어깨 통증(＞6개월 또는 원인 불명확)에서는 X선 검사를 기본 초기 영상검사로 고려 \[ACR Appropriateness Criteria, Chronic Shoulder Pain 2022 Update]
+  * ✽특정 증상 기간을 영상 검사의 획일적 기준으로 삼지 않으며, 회복 속도는 환자마다 상이함 — 감염/종양 의심, 주요 외상, 진행성 위약 등 소견이 영상 검사의 실질적 기준 [JAMA Intern Med 2026]
   * X선 음성이지만 occult fracture가 의심되면 CT 또는 MRI 고려
   * RTC tear 의심 : 초음파 또는 MRI; labral tear/불안정증 의심 : MRI 또는 MR arthrography 선택
 * electromyography(EMG) : 신경학적 이상(경추 신경근병증 등) 의심 시
@@ -112,6 +113,7 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 * RTC tear 의심 : 외상성 onset, 뚜렷한 근력 저하, 능동 ROM 감소에 비해 수동 ROM 보존 여부와 empty-can, external rotation strength, lift-off, drop-arm 등의 소견을 조합하여 판단. 단일 특수검사만으로 확진하지 않음
 * 영상 검사 : 초음파 또는 MRI가 주로 사용되며, X선 검사는 동반 골성 병변 및 다른 원인 감별에 활용
   * 상완골두 sclerosis/cyst, acromiohumeral 간격 감소, acromial spur
+  * ✽수술 전 평가에서 초음파와 MRI의 전층 파열 진단정확도는 유사하며, 초음파가 비용이 낮고 접근성이 좋으나 검사자 의존도가 높고 지방변성·관절내 구조 평가에는 제한적 — 치료 계획을 위한 상세 연조직 평가가 필요하면 MRI 선호 [JAMA Intern Med 2026]
 * 참고 : ＞60세 무증상 환자의 약 50%에서 MRI상 RTC 파열이 관찰됨 (Sher JS, et al. J Bone Joint Surg Am 1995)
 * 증상이 있는 소\~중형 전층 파열은 비수술적 운동치료로도 증상·기능이 호전될 수 있으나, 장기적으로는 파열 크기·근위축·지방변성이 진행할 수 있어 수술 가능성이 있는 환자는 임상 경과 관찰 및 필요 시 영상 추적을 고려 \[AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]
 
@@ -140,7 +142,7 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 * 진단은 원칙적으로 병력·신체검사에 기반한 임상 진단이며, 초음파·MRI는 확진이 아닌 보조적 도구로 활용 \[대한재활의학회 2025]
 * 기전 : 관절낭과 coracohumeral ligament 등의 염증·섬유화 및 구축 → 관절 용적 감소, 움직임 제한, 경직
 * 유병률 : 2\~5%(당뇨병 환자에서는 10\~20%까지), 50대 중반에서 가장 많음, 약 10%에서 반대편도 이환
-* 경과 : 보통 수년에 걸쳐 자연 회복
+* 경과 : 개입 없이도 94%에서 정상 기능을 회복하며 평균 이환 기간은 약 18개월 [JAMA Intern Med 2026]
 
 **원인 및 위험 인자**
 
@@ -160,6 +162,11 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 * 운동 범위 제한 등 임상 양상
 * 영상 검사 : 다른 질환 배제를 위해 선별적 시행; X선상 보통 정상. MRI상 coracohumeral lig. 비후, inf joint capsule ＞5 ㎜, axillary pouch 소실
 * 관절조영술은 현재 일반적인 진단 목적으로는 드물게 사용하며, 다른 질환 감별을 위한 영상 검사를 선택적으로 시행
+
+**치료**
+
+* 심한 통증에는 경구 corticosteroid 단기 요법 고려(예: prednisolone 30 ㎎/day 3주 투여 후 3일마다 5 ㎎씩 감량하여 반동 효과 예방); 필요시 재투여 가능; 관절강 내 주사보다 효과가 빠르나 지속 기간은 더 짧을 수 있음 [JAMA Intern Med 2026]
+* 적절한 비수술 치료에도 수동 운동 범위 제한이 약 18개월 이상 지속되면 전문과 의뢰 고려 — 마취 하 도수 조작(MUA)이 관절경 유리술보다 수술적 위험이 낮아 선호됨 [JAMA Intern Med 2026]
 
 #### <mark style="color:$primary;">상완견관절 골관절염 (Glenohumeral osteoarthritis)</mark>
 
@@ -306,6 +313,7 @@ _&#x52;ef. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam 
 * ibuprofen : 200\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * naproxen : 250\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
 * acetaminophen : 650\~1,300 ㎎ tid (1일 최대 4,000 ㎎ 이내) <mark style="color:blue;">\[타이레놀]</mark>
+* 국소 NSAID 겔/패치 : 금기(피부 손상, 알레르기)가 없다면 합리적인 1차 선택지 중 하나로 고려 가능; 경구 NSAID와 유사한 통증 완화 효과를 전신 노출은 낮은 수준으로 제공 — 특히 고령·신기능 저하 환자에서 유용 [JAMA Intern Med 2026]
 * tramadol : NSAID/acetaminophen 등으로 조절되지 않는 심한 급성 통증에서 예외적으로 매우 단기간 고려; 25\~100 ㎎ prn <mark style="color:blue;">\[트리돌]</mark>
   * ✽국내에서는 현재 마약류(향정신성의약품)로 지정되어 있지 않으나, 의존성·오남용 우려로 식약처 집중모니터링 대상이며 마약류 지정 여부가 지속 논의 중임(2022년 허가사항에서 "의존성이 낮으나" 문구 삭제, 경고 강화). 처방 시 최소 유효 용량·최단 기간 원칙 준수
 
@@ -315,6 +323,7 @@ _&#x52;ef. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam 
 
 * 대상 : 다른 보존적 요법에 반응이 부족할 때 단기 통증·기능 개선 목적으로 고려. RTC-related pain/tear에서는 국소 마취제를 병용한 1회 corticosteroid 주사가 단기 통증·기능 개선에 도움이 될 수 있음 \[AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]
 * subacromial-subdeltoid bursa, glenohumeral joint, AC joint 등 병변 부위에 따라 시행; 필요 시 초음파 유도
+* ✽landmark-guided 주사와 초음파 유도 주사는 효과 차이가 없음(Cochrane, 중등도 근거); 근육내 주사와 병변 부위 주사가 유사한 효과를 보인 연구도 있어 전신 효과가 상당 부분 기여할 가능성 시사 — 반드시 영상 유도가 필요한 것은 아님 [JAMA Intern Med 2026]
 * 질환 종류와 병변 부위에 따라 효과 차이가 있으며 장기 효과는 제한적일 수 있음
 * 반복 주사는 가급적 제한하며, 특히 rotator cuff tear가 있거나 수술을 고려하는 환자에서는 반복 corticosteroid injection이 회전근개 조직의 integrity를 저해하고 이후 봉합술 결과에 영향을 줄 수 있어 피하는 것이 바람직함 \[AAOS 2025]
 * AC joint 주사 시 주의 : AC joint는 피하 지방층이 얇은 표재성 부위이므로, 다른 관절강 내 주사보다 피부 위축(fat atrophy) 및 탈색(hypopigmentation) 위험이 상대적으로 높음 — 시술 전 환자에게 설명

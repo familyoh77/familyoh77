@@ -6,12 +6,12 @@
 * lumbosacral spine 및 pelvic girdle의 통증을 포괄
 * 다른 이름 : lumbago
 * 대부분의 요통은 원인이 불분명한 비특이적(nonspecific) 요통(약 90%)으로, 수 주(4\~6주) 내 회복되나 재발이 흔함(1년 내 재발률 최대 50%)
-* 유병률 : 전 세계 장애(disability)의 단일 원인 1위(GBD); 평생 유병률 60\~80%
+* 유병률 : 전 세계 장애(disability)의 단일 원인 1위(GBD); 평생 유병률 60\~80%; 연령표준화 유병률은 여성(인구 10만 명당 9,330명)이 남성(5,520명)보다 높고, 약 85세경 최고치에 이름 [JAMA 2026]
 * 급성 ＜6주(또는 4주), 아급성 6주\~12주, 만성 ＞12주(3개월)
 
 ## <mark style="color:green;">원인</mark>
 
-* 비특이적(nonspecific) 요통이 약 90%를 차지하며, 특정 병리(fracture, infection, malignancy, axial spondyloarthritis 등)가 확인되는 경우는 소수(5\~15%)
+* 비특이적(nonspecific) 요통이 약 90%를 차지하며, 신경근병증·척추관협착증이 초진의 5\~10%, 척추 골절·축성 척추관절염·척추 감염·악성종양·내장/혈관성 연관통은 각각 1% 미만을 차지함 [JAMA 2026]
 * 전통적으로는 다음과 같이 세분하여 설명되어 왔음(Conn's Current Therapy 등) — 구조를 특정하기보다 비특이적 통증의 대략적인 구성비를 보여주는 참고 자료로 활용
   * 국소/비특이적 mechanical LBP(87%) : lumbar strain/sprain(70%), disc/facet degeneration(10%), osteoporotic compression fracture(4%), spondylolisthesis(2%), 심한 scoliosis, kyphosis, asymmetric transitional vertebrae(＜1%), traumatic fracture(＜1%)
   * 하지 증상 동반 LBP(7%) : disc herniation(4%), spinal stenosis(3%)
@@ -70,6 +70,8 @@
 * 당뇨병 또는 면역저하 환자에서 발열·균혈증 위험·심한 지속성 국소 척추통 등 척추 감염 의심 소견이 동반되는 경우; 발열·옆구리 통증·CVA tenderness·배뇨 증상이 동반되면 신우신염 등 비척추성 감염과의 감별도 함께 고려(당뇨·요로감염 자체만으로 모든 요통을 당일 의뢰할 필요는 없음)
 * 흉통이 새로 동반되는 경우 — 흉추 병변, 대동맥 질환 등 다른 원인 감별 필요
 
+_✽개별 위험 인자의 척추 골절 posttest probability: 고령(≥70세) 9%, 심한 외상 11%, 6개월 이상 corticosteroid 사용 33%; 암 병력의 척추 전이 posttest probability 33% — 개별 소견의 진단적 가치는 제한적이며 복합 소견 시 의심을 높임 [JAMA 2026]_
+
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 표준적 보존 치료(활동 유지, NSAID 등) 4\~6주 후에도 호전이 없는 경우
@@ -103,6 +105,7 @@
 ### <mark style="color:orange;">위험도 계층화</mark>
 
 * STarT Back Screening Tool 등 검증된 위험도 계층화 도구를 초진 시 활용 고려(NICE NG59, 2020) — 신체적 요인(통증 부위·방사통 여부·기능 제한)과 심리사회적 요인(두려움-회피 신념, 우울·불안, 파국적 사고)을 함께 평가하여 저위험/중위험/고위험군으로 구분
+* 이러한 도구들의 판별력은 제한적(C statistic 0.59\~0.71 수준)이며, 단독으로 치료 결정을 내리기보다 임상적 판단을 보완하는 용도로 사용 [JAMA 2026]
 * 저위험군 : 안심 및 활동 유지 교육 위주의 최소 개입
 * 중위험군 : 운동·재활 프로그램 병행
 * 고위험군(심리사회적 위험 요인 뚜렷) : 다학제적 접근(운동+심리적 개입) 고려 — 조기 식별 시 만성화 예방에 도움이 될 수 있음
@@ -281,7 +284,7 @@ gabapentin, pregabalin 등 gabapentinoid 계열 및 기타 항경련제는 최�
 * 순수 비특이적 축성(axial) 요통 자체를 치료할 목적의 SSRI/SNRI/TCA 일상적 사용은 권장되지 않음(NICE NG59, 2020)
 * 대상 : 명확한 우울·불안 등 정신건강 적응증이 있거나, 별도의 신경병증성 통증 요소가 동반된 경우 해당 적응증에 따라 사용(✽만성 통증 환자에서 흔히 우울증이 동반됨); 신경병증성 통증 등 별도의 승인·근거가 있는 적응증에서의 진통 효과는 항우울 효과와 별개로 나타날 수 있음
 * 투여 중 부작용 등 위해보다 효과와 필요성이 더 우월한지 여부를 정기적으로 평가
-* duloxetine : 30\~60 ㎎ qd \[심발타]
+* duloxetine : 30 ㎎ qd로 시작, 내약성 양호 시 1주 후 60 ㎎ qd로 증량 \[심발타] [JAMA 2026]
 
 ### <mark style="color:orange;">국소 Steroid 주사</mark>
 
