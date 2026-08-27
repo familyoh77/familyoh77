@@ -1,20 +1,15 @@
 # 영양/식이 지침 Nutrition/Diet Guideline
 
-![image](../.gitbook/assets/3da72562-da80-4a97-b316-9f7262ef6238.JPG)
-
 ## 수분 섭취
-
-
-
-
-
-
 
 ## 건강 식품 피라미드
 
-```
-![image](images/55f56656-5549-45bc-9d95-19d2ac787254.JPG)
-```
+<figure><img src="../.gitbook/assets/영양1.png" alt=""><figcaption></figcaption></figure>
+
+앞바퀴: 매일 충분한 양의 물 섭취\
+뒷바퀴: 균형잡힌 식사; 유지·당류를 제외한 5가지 식품군을 매일 골고루 필요한 만큼 섭취\
+자전가: 충분한 양의 신체 활동\
+Ref. 보건복지부/한국영양학회. 한국인 영양소 섭취기준. 2015. 그림 7-26.
 
 ### 우리나라 영양소 섭취 비율(총 섭취 칼로리 대비)
 
@@ -25,36 +20,73 @@
 
 #### 간편 계산법
 
-> ```
-> (Ref. 비만관리를 위한 바른 식생활 가이드 [보건복지부])
-> ```
+(Ref. 비만관리를 위한 바른 식생활 가이드 \[보건복지부])
 
 *   1일 필요 열량 = 표준체중(㎏) × 활동량에 따른 열량( ㎉/㎏)
 
-    •표준체중 = 신장(㎡) × 21(여)/22(남)
+    * 표준체중 = 신장(㎡) × 21(여)/22(남)
+    * 활동량에 따른 열량 (㎉/㎏)
 
-    •활동량에 따른 열량 (㎉/㎏)
 
-    ![image](../.gitbook/assets/bdce5462-f505-42ab-8848-25d5b04e4d22.JPG)
+
+    <table><thead><tr><th width="106">활동 수준</th><th width="258">활동 예</th><th>저체중</th><th>정상</th><th>비만</th></tr></thead><tbody><tr><td><strong>가벼운 활동</strong></td><td>앉아서 하는 일, 사무직일, 타이핑</td><td>35</td><td>30</td><td>20~25</td></tr><tr><td><strong>보통 활동</strong></td><td>보통 속도로 걷기, 빨래, 청소, 아이보기, 경공업, 가사노동</td><td>40</td><td>35</td><td>30</td></tr><tr><td><strong>힘든 활동</strong></td><td>등산, 무거운 짐 운반, 빠르게 달리기, 농사/광산/철강공일, 운동선수</td><td>45</td><td>40</td><td>35</td></tr></tbody></table>
 
 #### BMR(Basal metabolic rate) 및 PAL(physical activity level)에 따른 1일 칼로리 요구량 계산법
 
-*   필요 칼로리 = 체중(㎏) × BMR × PAL value
+* 필요 칼로리 = 체중(㎏) × BMR × PAL value
+  * PAL value : 저 활동- 1.40~~1.69; 중등도 활동(1시간/일 달리기, 건설 노동자)- 1.70~~1.99
+  * 연령/성별/체중에 따른 BMR
+  * 남성
+  *
 
-    •PAL value : 저 활동- 1.40~~1.69; 중등도 활동(1시간/일 달리기, 건설 노동자)- 1.70~~1.99
+      | 체중(kg) | 18\~29세 | 30\~59세 |
+      | ------ | ------- | ------- |
+      | 50     | 29      | 29      |
+      | 55     | 28      | 27      |
+      | 60     | 27      | 26      |
+      | 65     | 26      | 25      |
+      | 70     | 25      | 24      |
+      | 75     | 24      | 23      |
+      | 80     | 24      | 22      |
+      | 85     | 23      | 22      |
+      | 90     | 23      | 21      |
+  * 여성
+  *
 
-    •연령/성별/체중에 따른 BMR
-
-    ![image](../.gitbook/assets/d349b6f0-2483-4573-8d68-efcba6894a98.JPG)
+      | 체중(kg) | 18\~29세 | 30\~59세 |
+      | ------ | ------- | ------- |
+      | 45     | 26      | 27      |
+      | 50     | 25      | 25      |
+      | 55     | 24      | 24      |
+      | 60     | 23      | 22      |
+      | 65     | 22      | 21      |
+      | 70     | 22      | 20      |
+      | 75     | 21      | 19      |
+      | 80     | 21      | 19      |
+      | 85     | 21      | 18      |
 *   1일 필요 열량 계산 예 : 운동을 하지 않는 70 ㎏ 사무직 40세 남성
 
     \= 체중 70 ㎏ × BMR 24 × PAL 1.5 = 2,520 ㎉
 
 #### 활동 수준에 따른 칼로리 요구량 예시
 
-```
-![image](images/80513960-8486-4f9b-b1d6-82932f70a231.JPG)
-```
+* 남성
+*
+
+    | 연령      | Sedentary | Moderate active | Active       |
+    | ------- | --------- | --------------- | ------------ |
+    | 19\~30세 | 2,400     | 2,600\~2,800    | 3,000        |
+    | 31\~50세 | 2,200     | 2,400\~2,600    | 2,800\~3,000 |
+    | ≥51세    | 2,000     | 2,200\~2,400    | 2,400\~2,800 |
+*   여성
+
+    | 연령      | Sedentary | Moderate active | Active       |
+    | ------- | --------- | --------------- | ------------ |
+    | 19\~30세 | 2,000     | 2,000\~2,200    | 2,400        |
+    | 31\~50세 | 1,800     | 2,000           | 2,200        |
+    | ≥51세    | 1,600     | 1,800           | 2,000\~2,200 |
+
+
 
 ## Serving size
 
@@ -83,12 +115,11 @@
 
 ## 지중해식 식단
 
-![image](../.gitbook/assets/75cb7ef4-a38d-4c98-a353-12ab165767ad.JPG)- 충분한 식물성 식품(채소, 콩/견과류,
+<figure><img src="../.gitbook/assets/영양2.png" alt=""><figcaption></figcaption></figure>
 
-```
-씨앗, 과일, 전곡류), 생선/해산물
-```
 
+
+* &#x20;충분한 식물성 식품(채소, 콩/견과류, 씨앗, 과일, 전곡류), 생선/해산물
 * 올리브유(지방 공급원)
 *   보통\~소량의 유제품(요구르트,
 
@@ -104,7 +135,7 @@
 * 전분(시리얼, 곡류) ¼
 * 과일 : 식간 섭취
 
-> Ref. European Practical and Patient- Centred Guidelines. 2019
+Ref. European Practical and Patient- Centred Guidelines. 2019
 
 ## DASH diet ([The Dietary Approaches to Stopping Hypertension](https://dashdiet.org/what-is-the-dash-diet.html))
 
@@ -116,38 +147,58 @@
 
     •대처: 몇 주에 걸쳐 과일, 채소, 곡물 식품의 양을 점차 늘려감
 * 유제품 소화에 어려움이 있는 경우 락타아제 효소 약제를 함께 복용하거나 유당이 없는 유제품을 선택
-*   견과류를 선호하지 않는 경우에는 콩류나 씨앗류를 선택함
+* 견과류를 선호하지 않는 경우에는 콩류나 씨앗류를 선택함
 
-    ![image](../.gitbook/assets/532f3c08-b8f9-44e9-8d8a-0d157d34f26d.JPG)
+<table><thead><tr><th width="103">식품 그룹</th><th width="73">1,600 kcal</th><th width="75">2,000 kcal</th><th width="68">2,600 kcal</th><th>Serving Sizes</th><th width="122">Examples &#x26; Notes</th><th width="117">중요성</th></tr></thead><tbody><tr><td>곡류1)</td><td>6</td><td>6~8</td><td>10~11</td><td>1 slice bread, 1 oz dry cereal2), 1/2 cup cooked rice/pasta/cereal</td><td>통밀빵, 통밀 파스타, 베이글, 시리얼, 오트밀, 현미, 무염 프레즐/팝콘</td><td>에너지와 섬유질의 주요 공급원</td></tr><tr><td>채소류</td><td>3~4</td><td>4~5</td><td>5~6</td><td>1 cup raw leafy veg, 1/2 cup cut-up veg, 1/2 cup veg juice</td><td>브로콜리, 당근, 케일, 감자, 시금치, 토마토 등</td><td>K, Mg, 섬유질 풍부</td></tr><tr><td>과일류</td><td>4</td><td>4~5</td><td>5~6</td><td>1 medium fruit, 1/4 cup dried fruit, 1/2 cup fresh/frozen/canned fruit, 1/2 cup juice</td><td>사과, 바나나, 포도, 오렌지, 망고, 복숭아, 딸기 등</td><td>K, Mg, 섬유질 공급원</td></tr><tr><td>유제품</td><td>2~3</td><td>2~3</td><td>3</td><td>1 cup milk/yogurt, 1.5 oz cheese</td><td>저지방 우유, 치즈, 요구르트</td><td>Ca, 단백질 주요 공급원</td></tr><tr><td>육류/생선류</td><td>3~6</td><td>≤6</td><td>6</td><td>1 oz cooked meat/fish, 1 egg3)</td><td>살코기, 껍질 제거 가금류</td><td>K, Mg 공급원</td></tr><tr><td>콩류/씨앗류/견과류</td><td>3/wk</td><td>4~5/wk</td><td>1</td><td>1/3 cup nuts, 2 TS peanut butter, 1/2 cup cooked legumes</td><td>아몬드, 호두, 렌즈콩, 완두콩 등</td><td>에너지, 단백질, Mg, 섬유질</td></tr><tr><td>지방/오일4)</td><td>2</td><td>2~3</td><td>3</td><td>1 ts margarine, 1 ts oil, 1 TS mayo, 2 TS dressing</td><td>카놀라, 올리브 오일, 저지방 드레싱</td><td>총 섭취 칼로리의 27%</td></tr><tr><td>당분</td><td>0</td><td>≤5/wk</td><td>≤2</td><td>1 TS sugar, 1 TS jam, 1/2 cup sorbet, 1 cup lemonade</td><td>젤리, 시럽, 사탕, 셔벗</td><td>지방이 적어야 함</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-> ```
-> Ref. NIH. Your Guide ToLowering Your Blood Pressure With DASH. 
-> ```
+*
+
+    1\) 통류는 섬유질과 영양소의 좋은 공급원으로서 곡류 음식으로 권장\
+    2\) 서빙 크기는 시리얼 유형에 따라 ½컵\~1¼컵으로 다양(제품의 영양 성분표 참조)\
+    3\) 계란은 콜레스테롤이 높기 때문에 계란 노른자 섭취량을 일주일에 4개 이하로 제한. 계란 흰자 2 개는 고기 1 온스와 단백질 함량이 동일함(✽콜레스테롤 관련하여 계란 노른자의 섭취 제한은 더 이상 권고하지 않음)\
+    4\) 지방은 지방과 oil 함량에 따라 serving 양을 변경합니다. 예: 일반 샐러드 드레싱 1 큰술 = 1 serving; 저지방 드레싱 1 큰술 = ½ serving; 무지방 드레싱 1 테이블 스푼 = 0 serving    \
+    TS = table-spoon; ts = tea-spoon    \
+    Ref. NIH. Your Guide ToLowering Your Blood Pressure With DASH. https://www.nhlbi.nih.gov/files/docs/public/heart/    \
+    dash\_brief.pdf
+
+    Ref. NIH. Your Guide ToLowering Your Blood Pressure With DASH.&#x20;
 
 ## 식품 중의 칼슘 함유량
 
-```
-[㎎/식품 100 g or 우유 100 ㎖] (Ref. National osteoporosis society.)
+\[㎎/식품 100 g or 우유 100 ㎖] (Ref. National osteoporosis society.)
 
-![image](images/08f76e8c-6607-4320-93a6-bdc0e8cc5932.JPG)
-```
+| 생선              | mg  | 곡물/시리얼             | mg  | 간편식         | mg  |
+| --------------- | --- | ------------------ | --- | ----------- | --- |
+| 정어리/토마토소스       | 250 | 흰 빵                | 177 | 치즈 오믈렛      | 287 |
+| 정어리기름           | 500 | 통밀 빵               | 106 | 치즈/계란 키시    | 262 |
+| 튀긴 새끼물고기        | 860 | Muesli Swiss style | 110 | 마카로니 치즈     | 170 |
+| 연어통조림           | 91  | 붉은 강낭콩(조리)         | 71  | 토마토 치즈 피자   | 210 |
+| 케일(조리)          | 150 | 두부                 | 510 | 전유          | 118 |
+| Okra stir fried | 220 | Baked beans        | 53  | 두유          | 89  |
+| 어린양배추잎(조리)      | 75  | Tahini             | 680 | 체더 치즈       | 739 |
+| 미나리             | 170 | 말린 살구              | 73  | 저지방 치즈      | 840 |
+| Green bean      | 56  | 말린 무화과             | 250 | 에담 치즈       | 795 |
+| 양배추(조리)         | 33  | 오렌지                | 47  | 저지방 과일 요구르트 | 140 |
+| 브로콜리(조리)        | 40  | -                  | -   | 우유 아이스크림    | 100 |
+| 냉동완두콩(조리)       | 35  | -                  | -   | 비우유 아이스크림   | 72  |
+| -               | -   | -                  | -   | 커스터드 가루     | 140 |
+| -               | -   | -                  | -   | 쌀가루 푸딩      | 88  |
 
 ## 식품 중의 Vit D 함유량 (㎍/100 g)
 
-![image](../.gitbook/assets/1e4d301f-8ea8-45c5-9d02-db9815c5857f.JPG)
+| 생선     | μg   | 지방               | μg  | 시리얼            | μg  |
+| ------ | ---- | ---------------- | --- | -------------- | --- |
+| 구운 청어  | 16.1 | 마아가린             | 7.9 | Bran flakes    | 4.2 |
+| 구운 연어  | 7.1  | Ghee butter      | 1.9 | Sultana bran   | 3.1 |
+| 정어리통조림 | 14   | 계란               | -   | 기타             | -   |
+| 생선 카레  | 2.7  | Boiled hen's egg | 1.8 | Complan powder | 4.4 |
 
 ## 항염증 식단 지침
 
-> ```
-> (Ref. Rakel Family medicine 9th ed. 2016. Table 12-7.)
-> ```
+(Ref. Rakel Family medicine 9th ed. 2016. Table 12-7.)
 
-*   항염증 식단은 다음 질환의 치료에 도움이 됨 : 심장 질환, 류마티스 질환, 자가면역 질환, 만성 통증; 효과가 나타날 때까지
-
-    \~6개월 소요될 수 있음
-*   Omega-3 지방산 보충 : 이상적인 ω-6:ω-3 = 4:1 이지만, 현재의 일반적인 식단은 20:1 이상으로 ω-3가 절대적으로
-
-    부족하므로 ω-3 보충이 필요
+* 항염증 식단은 다음 질환의 치료에 도움이 됨 : 심장 질환, 류마티스 질환, 자가면역 질환, 만성 통증; 효과가 나타날 때까지 \~6개월 소요될 수 있음
+* Omega-3 지방산 보충 : 이상적인 ω-6:ω-3 = 4:1 이지만, 현재의 일반적인 식단은 20:1 이상으로 ω-3가 절대적으로 부족하므로 ω-3 보충이 필요
 
 1. 붉은 고기, 가금류, 유제품 섭취를 줄임
 2. 한류 어류, 아마씨, 호두, 녹색 잎채소 같은 ω-3 함유 음식 섭취를 늘림
