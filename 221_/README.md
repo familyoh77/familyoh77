@@ -25,8 +25,7 @@
 •Motion Sickness. Travelers' Health. CDC (2019)\
 •Generalised anxiety disorder and panic disorder in adults: Management. NICE (2023)\
 •한국형 범불안장애 약물 치료 지침서. 대한불안의학회 (2009) 
-
-•한국형 범불안장애 치료 지침서. 대한불안의학회 (2024)\
+•한국형 범불안장애 치료 지침. 대한불안의학회 (2024)\
 •Screening for Anxiety Disorders in Adults. USPSTF (2023)\
 •한국형 공황장애 치료지침서. 대한불안의학회 (2018)\
 •Practice guideline for the treatment of patients with panic disorder. APA (2009)\
