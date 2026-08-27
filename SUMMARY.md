@@ -111,7 +111,7 @@
   * [이상지질혈증 Dyslipidemia](225_/099_-dyslipidemia.md)
 * [Part 7. 내분비계 질환](226_/README.md)
   * [당뇨병 Diabetes Mellitus](226_/100_-diabetes-mellitus.md)
-  * [당뇨병, 약물 치료](226_/101_.md)
+  * [당뇨병, 약물 치료](226_/101_dmdrugs.md)
   * [당뇨병 합병증 Complications of diabetes](226_/102_-complications-of-diabetes.md)
   * [저혈당, 당뇨병성 Hypoglycemia, Diabetic](226_/103_-hypoglycemia-diabetic.md)
   * [반응성 저혈당 (식후 저혈당) Reactive Hypoglycemia, Postprandial Hypoglycemia](226_/reactive-hypoglycemia-postprandial-hypoglycemia.md)
