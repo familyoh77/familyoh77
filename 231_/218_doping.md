@@ -1,6 +1,6 @@
-# 도핑 방지 가이드 Anti-Doping Guide (AD)
+# 도핑 방지 가이드
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 테스트</mark>
 
 * 도핑(doping) : 금지물질·금지방법의 사용·사용 시도뿐 아니라 검체 채취 회피·거부, 소재지정보 위반, 검체 변조, 소지, 거래, 선수에게 투여, 공모·방조, 금지된 연계 및 신고자 보복 등 세계도핑방지규약(World Anti-Doping Code, WADC)이 정한 도핑방지규정위반 전반
 * 근거 (한국도핑방지위원회, 2026 금지목록 국제표준) : 세계도핑방지기구(WADA)가 매년 9월 이전 공표하고 매년 1월 1일부터 시행하는 «금지목록 국제표준(Prohibited List)»이 근간이며, 국내에서는 한국도핑방지위원회(KADA)가 이를 그대로 반영해 시행
@@ -34,7 +34,7 @@
 
 ### <mark style="color:orange;">경기기간 중 추가 금지 약물</mark>
 
-상시 금지 목록(S0~S5, M1~M3)에 아래가 추가된다.
+상시 금지 목록(S0~~S5, M1~~M3)에 아래가 추가된다.
 
 <table><thead><tr><th width="70">코드</th><th width="230">계열</th><th>대표 예시 / 비고</th></tr></thead><tbody><tr><td>S6</td><td>흥분제</td><td>amphetamine, methylphenidate 등. 요중 기준은 cathine 5 µg/mL, ephedrine·methylephedrine 각각 10 µg/mL, pseudoephedrine 150 µg/mL 초과. Epinephrine은 비강·안과 등 국소 투여 또는 국소마취제와의 병용 시 금지되지 않음</td></tr><tr><td>S7</td><td>마약류</td><td>buprenorphine, fentanyl 및 유도체, morphine, oxycodone, methadone, tramadol 등. Codeine·dihydrocodeine·hydrocodone·tapentadol 등 일부 비금지 성분은 2026 모니터링 대상이며, dextromethorphan은 금지목록에 포함되지 않음</td></tr><tr><td>S8</td><td>카나비노이드류</td><td>천연·합성 카나비노이드는 경기기간 중 금지하며, THC 관련 요검사는 WADA 기술문서의 역치·판정기준에 따라 해석. CBD 자체는 금지되지 않지만 CBD 제품에 THC·다른 카나비노이드가 혼입될 수 있어 제품 사용의 안전을 보장하지 않음</td></tr><tr><td>S9</td><td>glucocorticoid</td><td>경기기간 중 경구(구강점막·협점막·치은·설하 포함), 직장 및 모든 주사 경로(정맥·근육·피하·관절강내·건주위·경막외 등) 금지. 허가용량·치료 적응증 내 흡입, 비강, 점안, 귀, 피부, 항문주위 및 치아 근관 내 투여는 금지되지 않음</td></tr></tbody></table>
 
@@ -51,7 +51,7 @@
 
 #### <mark style="color:$primary;">WADA glucocorticoid 휴약기간</mark>
 
-<table><thead><tr><th width="150">경로</th><th>성분</th><th width="100">휴약기간</th></tr></thead><tbody><tr><td rowspan="2">경구</td><td>대부분의 glucocorticoid</td><td>3일</td></tr><tr><td>Triamcinolone, triamcinolone acetonide</td><td>10일</td></tr><tr><td rowspan="3">근육주사</td><td>Betamethasone, dexamethasone, methylprednisolone</td><td>5일</td></tr><tr><td>Prednisolone, prednisone</td><td>10일</td></tr><tr><td>Triamcinolone acetonide</td><td><mark style="color:red;">60일</mark></td></tr><tr><td rowspan="2">국소주사<br>(관절강내·관절주위·건주위 등)</td><td>대부분의 glucocorticoid</td><td>3일</td></tr><tr><td>Prednisolone, prednisone, triamcinolone acetonide·hexacetonide</td><td>10일</td></tr><tr><td rowspan="2">직장</td><td>대부분의 glucocorticoid</td><td>3일</td></tr><tr><td>Triamcinolone diacetate·acetonide</td><td>10일</td></tr></tbody></table>
+<table><thead><tr><th width="150">경로</th><th>성분</th><th width="100">휴약기간</th></tr></thead><tbody><tr><td>경구</td><td>대부분의 glucocorticoid</td><td>3일</td></tr><tr><td>Triamcinolone, triamcinolone acetonide</td><td>10일</td><td></td></tr><tr><td>근육주사</td><td>Betamethasone, dexamethasone, methylprednisolone</td><td>5일</td></tr><tr><td>Prednisolone, prednisone</td><td>10일</td><td></td></tr><tr><td>Triamcinolone acetonide</td><td><mark style="color:red;">60일</mark></td><td></td></tr><tr><td>국소주사<br>(관절강내·관절주위·건주위 등)</td><td>대부분의 glucocorticoid</td><td>3일</td></tr><tr><td>Prednisolone, prednisone, triamcinolone acetonide·hexacetonide</td><td>10일</td><td></td></tr><tr><td>직장</td><td>대부분의 glucocorticoid</td><td>3일</td></tr><tr><td>Triamcinolone diacetate·acetonide</td><td>10일</td><td></td></tr></tbody></table>
 
 {% hint style="warning" %}
 **휴약기간 계산과 한계** : 마지막 투여 시점부터 **경기기간 시작 시점**까지 계산한다. 이는 일반적인 배설 예상기간으로 음성 결과를 보장하지 않는다. 서방형 제제는 휴약기간 이후에도 검출될 수 있고, 관절·건 주변 주사가 우발적으로 전신순환에 들어가면 근육주사 수준의 기간을 고려해야 할 수 있다. 성분·제형·용량·경로·주사 부위와 투여시각을 상세히 기록한다.
@@ -153,7 +153,12 @@ Pseudoephedrine의 24시간은 **경기 시작**이 아니라 통상 경기 전�
 
 ### <mark style="color:orange;">천식·기관지 경련</mark>
 
-<table><thead><tr><th>흡입 β-2 작용제</th><th>2026년 TUE 없이 허용되는 최대 용량</th></tr></thead><tbody><tr><td>Salbutamol</td><td>24시간 1,600 µg 이하, 임의의 8시간 동안 600 µg 이하</td></tr><tr><td>Formoterol</td><td><strong>전달용량</strong> 기준 24시간 54 µg 이하, 임의의 12시간 동안 36 µg 이하</td></tr><tr><td>Salmeterol</td><td>24시간 200 µg 이하, 임의의 8시간 동안 100 µg 이하(8시간 제한은 2026년 변경)</td></tr><tr><td>Vilanterol</td><td>24시간 25 µg 이하</td></tr></tbody></table>
+| 흡입 β-2 작용제 | 2026년 TUE 없이 허용되는 최대 용량                                |
+| ---------- | ------------------------------------------------------ |
+| Salbutamol | 24시간 1,600 µg 이하, 임의의 8시간 동안 600 µg 이하                 |
+| Formoterol | **전달용량** 기준 24시간 54 µg 이하, 임의의 12시간 동안 36 µg 이하        |
+| Salmeterol | 24시간 200 µg 이하, 임의의 8시간 동안 100 µg 이하(8시간 제한은 2026년 변경) |
+| Vilanterol | 24시간 25 µg 이하                                          |
 
 * 위 네 성분도 흡입 경로와 허용용량을 모두 충족해야 하며, arformoterol·levosalbutamol(levalbuterol)·terbutaline 등은 별도의 허용 흡입용량이 없어 상시 금지
 * 이뇨제·은폐제와 함께 사용하는 경우 위 β-2 작용제의 용량·요중농도 예외가 적용되지 않을 수 있으므로 두 약물 모두를 포괄하는 TUE 필요성 확인
