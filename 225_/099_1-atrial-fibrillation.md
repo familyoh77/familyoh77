@@ -1,6 +1,6 @@
 # 심방세동 Atrial Fibrillation
 
-## <mark style="color:green;">일반 사항 테스트</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 심방의 비조직적 전기 활동으로 인한 불규칙한 심방 수축; 가장 흔한 지속성 부정맥
 * 유병률 : 성인의 약 1\~2%; 70세 이상에서 5\~10%; 국내 고령화로 유병률 지속 증가 추세

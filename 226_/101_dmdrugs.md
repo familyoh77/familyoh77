@@ -1,6 +1,6 @@
 # 당뇨병, 약물 치료
 
-## <mark style="color:green;">치료 방침</mark>
+## <mark style="color:green;">치료 방침 테스트</mark>
 
 * 조절 목표 ☞ [당뇨병 관리](100_-diabetes-mellitus.md#undefined-12)
 * 약물 선택 시 동반 질환(심부전, 죽상경화심혈관질환, 만성신장질환)에 대한 이득, 혈당 강하 효과, 체중에 대한 효과, 저혈당 위험도, 부작용, 비용 등의 약물 특성과 치료 수용성 및 환자의 특성을 고려
@@ -150,7 +150,7 @@ class INS,P,MAINTAIN blue
 <table><thead><tr><th width="194">성분명 [상품명]</th><th width="118">1일 용량 (㎎)</th><th width="112">GFR 59~45</th><th width="107">GFR 44~30</th><th width="90">GFR 29~15</th><th width="100">&#x3C;15</th></tr></thead><tbody><tr><td>canagliflozin¹⁾</td><td>100~300 qd</td><td>100 qd</td><td>금지</td><td>금지</td><td>금지</td></tr><tr><td>dapagliflozin¹⁾²⁾<br><mark style="color:blue;">[다파론]</mark></td><td>10 qd</td><td>심부전·신장이득(≥25) 가능³⁾</td><td>심부전·신장이득(≥25) 가능³⁾</td><td>새로 시작하지 않음</td><td>새로 시작하지 않음</td></tr><tr><td>empagliflozin¹⁾²⁾<br><mark style="color:blue;">[자디앙]</mark></td><td>10~25 qd</td><td>심부전·신장이득(≥20) 가능³⁾⁴⁾</td><td>심부전·신장이득(≥20) 가능³⁾⁴⁾</td><td>새로 시작하지 않음</td><td>새로 시작하지 않음</td></tr><tr><td>ertugliflozin²⁾<br><mark style="color:blue;">[스테글라트로]</mark></td><td>5~15 qd</td><td>자료 없음</td><td>자료 없음</td><td>자료 없음</td><td>자료 없음</td></tr><tr><td>ipragliflozin <mark style="color:blue;">[슈글렛]</mark></td><td>50 qd</td><td>자료 없음</td><td>자료 없음</td><td>자료 없음</td><td>자료 없음</td></tr><tr><td>enavogliflozin <mark style="color:blue;">[엔블로]</mark></td><td>0.3 qd</td><td>자료 없음</td><td>자료 없음</td><td>자료 없음</td><td>자료 없음</td></tr></tbody></table>
 
 _¹⁾ ASCVD, CKD에 심혈관·신장 보호 효과 입증. ²⁾ 심부전에 적용._\
-&#xNAN;_&#xB3;⁾ 이 eGFR 범위에서는 혈당 강하 효과는 제한적임. ⁴⁾ 10 ㎎ 용량 사용._
+\&#xNAN;_³⁾ 이 eGFR 범위에서는 혈당 강하 효과는 제한적임. ⁴⁾ 10 ㎎ 용량 사용._
 
 {% hint style="danger" %}
 **Euglycemic DKA (정상 혈당 케톤산증)** : 혈당이 **200 ㎎/㎗ 미만**(정상\~경도 상승 수준)이어도 발생 가능하므로 혈당 정상=안전 으로 판단하지 말 것. 진단·Red Flags 상세 기준은 (☞ [당뇨병 합병증 - DKA](102_-complications-of-diabetes.md#당뇨병케토산증-diabetic-ketoacidosis-dka)) 참조.
@@ -172,7 +172,7 @@ _¹⁾ ASCVD, CKD에 심혈관·신장 보호 효과 입증. ²⁾ 심부전에 
 <table data-search="false"><thead><tr><th width="200">성분명 [상품명]</th><th width="128">1일 용량 (㎎)</th><th width="100">GFR 59~45</th><th width="100">GFR 44~30</th><th width="100">GFR 29~15</th><th>&#x3C;15</th></tr></thead><tbody><tr><td>alogliptin <mark style="color:blue;">[네시나]</mark></td><td>25 qd</td><td>12.5¹⁾</td><td>12.5¹⁾</td><td>6.25</td><td>6.25</td></tr><tr><td>anagliptin <mark style="color:blue;">[가드렛]</mark></td><td>100 bid</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>100</td><td>자료 없음</td></tr><tr><td>evogliptin <mark style="color:blue;">[슈가논]</mark></td><td>5 qd</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>gemigliptin <mark style="color:blue;">[제미글로]</mark></td><td>50 qd</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>linagliptin¹⁾ <mark style="color:blue;">[트라젠타]</mark></td><td>5 qd</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>saxagliptin <mark style="color:blue;">[온글라이자]</mark></td><td>2.5~5 qd</td><td>5 ㎎²⁾</td><td>2.5</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>sitagliptin <mark style="color:blue;">[자누비아]</mark></td><td>25~100 qd</td><td>100</td><td>50</td><td>25</td><td>(좌동)</td></tr><tr><td>teneligliptin <mark style="color:blue;">[테넬리아]</mark></td><td>20 qd</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>vildagliptin <mark style="color:blue;">[가브스]</mark></td><td>50 bid</td><td>100 ㎎³⁾</td><td>50</td><td>(좌동)</td><td>(좌동)</td></tr></tbody></table>
 
 _¹⁾ linagliptin은 신장 배설이 거의 없어 모든 CKD 단계에서 용량 조절 불필요; CKD 환자에서 선호._\
-&#xNAN;_&#xB2;⁾ eGFR ≥45에서 용량 조절 필요 없음. ³⁾ eGFR ≥50에서 용량 조절 필요 없음._
+\&#xNAN;_²⁾ eGFR ≥45에서 용량 조절 필요 없음. ³⁾ eGFR ≥50에서 용량 조절 필요 없음._
 
 ### <mark style="color:orange;">Thiazolidinedione (TZD)</mark>
 
@@ -371,7 +371,7 @@ _¹⁾ 심혈관 질환 예방 효과가 입증됨(ASCVD 동반 시 우선 선�
 <table data-search="false"><thead><tr><th width="268.09527587890625">성분명 [상품명]</th><th width="165">시작/최대/지속 (hr)</th><th width="130">투여일정</th><th>비고</th></tr></thead><tbody><tr><td><strong>Rapid-Acting (초단기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>aspart <mark style="color:blue;">[노보라피드]</mark>, lispro <mark style="color:blue;">[휴마로그]</mark>, glulisine <mark style="color:blue;">[에피드라]</mark></td><td>10~15분/1~2 hr/3~5 hr</td><td>식사 직전(15분 이내) 또는 식사 직후</td><td>식후 혈당 조절; 임신부 투여 가능</td></tr><tr><td><strong>Ultra-Rapid-Acting (초초단기)</strong>¹⁾</td><td></td><td></td><td></td></tr><tr><td>faster aspart <mark style="color:blue;">[피아스프]</mark>,<br>lispro Lyumjev <mark style="color:blue;">[룸제브]</mark></td><td>2~4분/1~1.5 hr/3~5 hr</td><td>식사 시작 2분 이내; 식후 20분 이내도 가능</td><td>식후 혈당 조절 개선; 임신부 투여 가능</td></tr><tr><td><strong>Short-Acting (단기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>regular <mark style="color:blue;">[휴물린알]</mark></td><td>30분/2~3 hr/6.5 hr</td><td>식사 30분 전</td><td>저렴; 야간 저혈당; 정맥 주사 가능</td></tr><tr><td><strong>Intermediate (중기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>NPH <mark style="color:blue;">[휴물린엔]</mark></td><td>1~3/5~8 hr/18 hr</td><td>밤 또는 q12h</td><td>저렴; 야간 저혈당</td></tr><tr><td><strong>Long-Acting (장기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>degludec <mark style="color:blue;">[트레시바]</mark></td><td>1 hr/없음/42 hr~</td><td>매일 같은 시간(±8 hr 여유)</td><td>저혈당 가장 적음; 고가</td></tr><tr><td>glargine U100 <mark style="color:blue;">[란투스]</mark></td><td>1.5 hr/없음/24 hr</td><td>매일 같은 시간</td><td>CVD 안전성 입증</td></tr><tr><td>glargine U300 <mark style="color:blue;">[투제오]</mark></td><td>6 hr/없음/24~36 hr</td><td>(상동)</td><td>glargine U100보다 저혈당 더 적음; 고가</td></tr><tr><td>detemir <mark style="color:blue;">[레버미어]</mark></td><td>3~4/6~8 hr/24 hr</td><td>(상동)</td><td>임신 중 고려 가능</td></tr><tr><td><strong>Premixed</strong></td><td></td><td></td><td></td></tr><tr><td>degludec/aspart 70/30²⁾<br><mark style="color:blue;">[리조덱]</mark></td><td>2분/이중/~42 hr</td><td>주된 식사 직전(식후 20분 이내 가능), 1~2회</td><td>장기 기저 + 초단기 식사 효과</td></tr><tr><td>lispro protamine 75/25<br><mark style="color:blue;">[휴마로그믹스25]</mark></td><td>15분/이중/16 hr</td><td>아침 &#x26; 저녁 식사 시</td><td>편리; 야간 저혈당</td></tr><tr><td>aspart protamine 70/30<br><mark style="color:blue;">[노보믹스30]</mark></td><td>15분/이중/16 hr</td><td>(상동)</td><td>(상동)</td></tr><tr><td>NPH70/regular30 <mark style="color:blue;">[휴물린70/30]</mark></td><td>30분/이중/16 hr</td><td>(상동)</td><td>(상동)</td></tr></tbody></table>
 
 _¹⁾ Ultra-Rapid-Acting 제제는 식후 즉시 투여 가능 - 식사 시간이 불규칙한 환자에서 유용._\
-&#xNAN;_&#xB2;⁾ degludec/aspart: 기저와 식사 인슐린 역할을 하나의 주사로 충족 - 혼합형 대안으로 활용._
+\&#xNAN;_²⁾ degludec/aspart: 기저와 식사 인슐린 역할을 하나의 주사로 충족 - 혼합형 대안으로 활용._
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한당뇨병학회. 당뇨병 진료지침 제9판. 2025. 표 6-2.4</mark></em></p>
 
