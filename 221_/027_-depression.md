@@ -205,17 +205,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 * 증상 : 무기력, 피로, 체중 증가, 과다 수면, 삽화적 탄수화물 갈망
 * 치료 : 광선 치료(Light therapy)가 1차 치료; 10,000 lux 광원을 매일 아침 20\~30분 노출; 항우울제(SSRI) 병행 가능
 
-#### <mark style="color:$primary;">주산기/산후 우울증 (Peripartum/Postpartum depression)</mark>
-
-* 산후 우울감(Postpartum blues)과 구별 필요 : 출산 후 2\~3일 내 발생하여 2주 내 자연 소실되는 경증 반응 ☞ [산후우울증](028_-postpartum-depression.md)
-* 선별 : Edinburgh Postnatal Depression Scale(EPDS)
-* 치료 : 정신건강의학과 협진 권고
-  * 약제 : sertraline, escitalopram - 모유 수유 중 안전 근거 비교적 충분
-
-> **DSM-5-TR 기준 vs 임상적 정의**
->
-> * DSM-5-TR : 주요우울장애의 specifier로 분류; 공식 기준은 임신 중 또는 출산 후 4주 이내 발생
-> * 임상적 정의 : 출산 후 12개월까지 발생하는 경우를 포함하여 산후우울증(postpartum depression)으로 통용됨; 대부분의 임상 지침에서 12개월 기준 적용
+※ 주산기(임신 중)·산후 우울증 진단·치료는 ☞ [주산기/산후우울증](028_-postpartum-depression.md) 참조
 
 ### <mark style="color:orange;">검사</mark>
 
