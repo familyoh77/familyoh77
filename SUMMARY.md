@@ -211,7 +211,7 @@
   * [비만 Obesity](230_/191_-obesity.md)
   * [빈혈 Anemia](230_/192_-anemia.md)
   * [철결핍빈혈 Iron deficiency anemia](230_/193_-iron-deficiency-anemia.md)
-  * [근육통성뇌척수염/만성피로증후군](230_/194_.md)
+  * [근육통성뇌척수염/만성피로증후군](230_/194_-cfs.md)
   * [홍역 Measles](230_/195_-measles.md)
   * [이하선염 Parotitis](230_/196_-parotitis.md)
   * [볼거리, 유행성이하선염 Mumps](230_/197_-mumps.md)
