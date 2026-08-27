@@ -289,7 +289,7 @@ Ref. AHA. 2021 Dietary Guidance to Improve Cardiovascular Health. Circulation. 2
 
 ## ￭ 식이 섬유
 
-(Ref. 이유나 외. 식품의 영양성분 DB 구축사업(식이섬유분석). 한국보건산업진흥원 2005)
+(Ref. 식품의 영양성분 DB 구축사업(식이섬유분석). 한국보건산업진흥원 2005)
 
 ## 종류
 
