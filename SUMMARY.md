@@ -237,5 +237,5 @@
   * [유의 약물](231_/220_-caution_drugs.md)
   * [운동 지침 Physical Activity Guideline](231_/216_-physical-activity-guideline.md)
   * [영양/식이 지침 Nutrition/Diet Guideline](231_/217_-nutritiondiet-guideline.md)
-  * [도핑 방지 가이드](231_/218_.md)
+  * [도핑 방지 가이드](231_/218_doping.md)
   * [요양급여 인정 기준](231_/219_.md)
