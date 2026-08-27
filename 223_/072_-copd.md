@@ -16,7 +16,7 @@
    1. COPD-C (cigarette smoking) : 흡연(간접 흡연, 태아 노출 포함), 전자 담배, 대마초
    2. COPD-P (biomass & pollution) : 가정 내 오염, 대기 오염, 산불 연기, 직업적 노출
 4. COPD-I (infection) : 소아 감염, 결핵, 산모의 HIV 감염
-5. COPD-A (COPD & asthma) : 특히 소아 천식 (☞ [천식 동반(Asthma Overlap)](072_-copd.md#asthma-overlap))
+5. COPD-A (COPD & asthma) : 특히 소아 천식 (☞ [천식 동반](072_-copd.md#asthma-overlap))
 6. COPD-U (COPD of unknown cause)
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -112,9 +112,13 @@ spirometry, 환자 증상(mMRC ≥2 또는 CAT ≥10), 악화 병력을 종합�
 {% hint style="info" %}
 GOLD 2023부터 Group C와 D가 통합되어 **Group E**(Exacerbation risk)로 개편됨. 악화 위험이 높은 군에서는 증상 수준에 관계없이 적극적 치료가 권장됨.
 
-* **Group A** : 호흡 곤란 낮음(mMRC 0–1, CAT ＜10) + 악화 적음(0–1회/년, 입원 없음) → SABD 필요시 단독
-* **Group B** : 호흡 곤란 높음(mMRC ≥2 또는 CAT ≥10) + 악화 적음 → LAMA 또는 LABA
-* **Group E** : 악화 ≥2회/년 또는 입원 악화 ≥1회/년 (증상 정도 무관) → LAMA+LABA; eos ≥300이면 LAMA+LABA+ICS
+* **Group A** : 호흡 곤란 낮음(mMRC 0–1, CAT ＜10) + 악화 없음(0회/년) → 기관지 확장제(단·장시간 무관; 이용 가능하고 부담 가능하다면 장시간 제제 선호, 매우 간헐적 호흡 곤란은 예외)
+* **Group B** : 호흡 곤란 높음(mMRC ≥2 또는 CAT ≥10) + 악화 없음(0회/년) → **LABA+LAMA**로 바로 시작(단일제보다 우수함이 RCT로 확인됨); 병용이 여의치 않으면 LAMA 또는 LABA 단독(계열 간 우열 근거 없음)
+* **Group E** : **중등도 또는 중증 악화 1회 이상**/년(입원 여부·증상 정도 무관) → LABA+LAMA; eos ≥300이면 LABA+LAMA+ICS 우선 고려
+{% endhint %}
+
+{% hint style="danger" %}
+**GOLD 2026 주요 개정** : Group E의 기준이 "중등도 이상 악화 2회 이상"에서 **"중등도 이상 악화 1회 이상"**으로 완화됨(치료 전 단 1회의 중등도/중증 악화만으로도 이후 사건 위험이 유의하게 증가한다는 관찰 연구 근거). 또한 Group B의 초기 치료가 LAMA/LABA 단독에서 **LABA+LAMA 병용**으로 상향됨(≤1회 중등도 악화 + CAT≥10 대상 RCT에서 LABA+LAMA가 LAMA 단독보다 우수). 모든 환자에게 즉각적 증상 완화를 위한 속효성 기관지 확장제(rescue SABA)를 함께 처방
 {% endhint %}
 
 #### <mark style="color:$primary;">기류 폐쇄 중증도 (GOLD Grade)</mark>
@@ -153,9 +157,13 @@ SABD = short-acting bronchodilator
 | 기류 제한   | 비가역적      | 가역적      | 없음 (제한성 가능) |
 | BNP     | 정상        | 정상       | 상승          |
 
-### <mark style="color:orange;">천식 동반 (Asthma Overlap)</mark> <a href="#asthma-overlap" id="asthma-overlap"></a>
+### <mark style="color:orange;">천식 동반</mark> <a href="#asthma-overlap" id="asthma-overlap"></a>
 
-다음 소견이 있으면 천식 동반 가능성을 고려하여 ICS 포함 치료를 우선 선택함:
+{% hint style="info" %}
+**GOLD 2026 용어 변경** : "천식-COPD 중복(Asthma-COPD Overlap)"이라는 용어를 더 이상 사용하지 않음. 천식과 COPD는 병태생리가 다른 별개의 질환이나(단, 호산구 증가·부분적 가역성 등 일부 treatable trait를 공유할 수 있음), 한 환자에서 두 질환이 공존할 수 있다는 개념으로 재정의됨
+{% endhint %}
+
+다음 소견이 있으면 천식 동반 가능성을 고려함:
 
 * 어린 시절 천식 또는 알레르기 병력
 * 증상의 현저한 변동성 (특히 야간·새벽 악화)
@@ -163,7 +171,7 @@ SABD = short-acting bronchodilator
 * 혈중 또는 객담 내 호산구 증가, 혈청 IgE 상승
 
 {% hint style="danger" %}
-천식 동반 특징이 뚜렷한 경우, LABA 단독 치료는 피함. 반드시 ICS와 병용
+천식 동반이 의심되면 약물 치료는 우선적으로 **천식 진료 지침을 따름**; 이 경우 ICS 병용은 필수이며 LABA 단독 치료는 피함 \[GOLD 2026]
 {% endhint %}
 
 #### <mark style="color:$primary;">COPD Management Cycle</mark>
@@ -187,11 +195,11 @@ SABD = short-acting bronchodilator
 
 **약물 치료 단계적 접근 (Escalation Ladder)**
 
-* SABD (prn)\
-  → LAMA 또는 LABA (Group B)\
-  → LAMA+LABA (Group E, eos ＜300)\
-  → Triple therapy (LABA+LAMA+ICS) (Group E, eos ≥300 또는 천식 동반)\
-  → Roflumilast 추가 (FEV1＜50% + 만성 기관지염) / Azithromycin 추가 (현재 비흡연자)\
+* **초치료(Initial)** : Group A - 기관지 확장제(단·장시간; 장시간 선호) / Group B - **LABA+LAMA** 병용 시작(병용 곤란 시 LAMA 또는 LABA 단독) / Group E - LABA+LAMA(eos ≥300이면 LABA+LAMA+ICS 우선 고려)\
+  → 모든 군에 rescue SABA 병용 처방
+* **추적(Follow-up)** - 지속되는 문제(호흡 곤란 or 악화)에 따라 경로 분리:
+  * 호흡 곤란 지속 : LABA 또는 LAMA(단독 사용 중이었다면) → LABA+LAMA → 흡입기 성분/기종 교체, 비약물 치료 강화, ensifentrine 추가 고려(국내 미도입), 호흡 곤란의 다른 원인 조사
+  * 악화 지속 : LABA 또는 LAMA → (eos ＜300) LABA+LAMA 또는 (eos ≥300) LABA+LAMA+ICS → 여전히 악화 시 Roflumilast(FEV1＜50%+만성 기관지염) / Azithromycin(비흡연자 우선) / 생물학적제제(중등도 ≥2회 또는 중증 ≥1회 악화 + eos ≥300 시 Dupilumab\[만성 기관지염 동반] 또는 Mepolizumab)\
   → NIV, 장기 O2, LVRS/BLVR, 폐 이식 (말기)
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -204,8 +212,9 @@ SABD = short-acting bronchodilator
 
 ### <mark style="color:orange;">예방접종</mark>
 
-* 인플루엔자 : 매년
+* 인플루엔자 : 매년; 고령자에서는 고용량 또는 면역증강 불활화 백신이 표준 백신보다 선호됨
 * 폐렴구균 : PCV15 또는 PCV20; 미접종자 또는 PCV13 접종자에게 권고
+* **RSV** : 60세 이상 COPD 환자에게 권고(1회 접종); 국내 2026년 8월 기준 아렉스비(GSK)·엠레스비아(모더나)·아브리스보(화이자) 3종 허가 \[GOLD 2026]
 * COVID-19, Tdap, 대상포진 : 표준 일정에 따라
 
 ### <mark style="color:orange;">호흡 재활 치료</mark>
@@ -298,7 +307,7 @@ SABD = short-acting bronchodilator
 #### <mark style="color:$primary;">흡입 Steroid (ICS)</mark>
 
 {% hint style="info" %}
-**COPD에서 ICS의 위상** : GOLD 2025에서 ICS+LABA 단독 조합은 COPD 단독 환자에서 LABA+LAMA에 비해 우선 권고되지 않음. ICS는 적응증이 있는 환자에서 Triple therapy(LABA+LAMA+ICS) 형태로 사용하는 것이 원칙이며, ICS+LABA 조합은 천식 동반(asthma overlap) 환자 또는 기존 ICS+LABA로 안정 유지 중인 환자에서만 지속 가능
+**COPD에서 ICS의 위상** : ICS+LABA 단독 조합은 COPD 단독 환자에서 LABA+LAMA에 비해 우선 권고되지 않음. ICS는 적응증이 있는 환자에서 Triple therapy(LABA+LAMA+ICS) 형태로 사용하는 것이 원칙이며, ICS+LABA 조합은 천식 동반 환자 또는 기존 ICS+LABA로 안정 유지 중인 환자에서만 지속 가능
 {% endhint %}
 
 * ICS 적용대상 : LABA 사용에도 불구하고 COPD 악화로 입원 병력 또는 ≥2회/1년 악화, 혈중 eosinophil ≥300 cells/μL, 천식 동반
@@ -347,6 +356,16 @@ SABD = short-acting bronchodilator
 * azithromycin : 250 ㎎ qd 또는 500 ㎎ 주 3회 장기(1년) 투여 시 악화 감소; 내성균 증가와 청력 장애 위험 있음
 * 현재 흡연자에서는 효과가 감소할 수 있어, 악화 빈도 높은 비흡연·금연자에서 선별적으로 고려; QTc 연장 주의
 
+### <mark style="color:orange;">생물학적 제제 (Biologic Therapy)</mark> <a href="#biologic-therapy" id="biologic-therapy"></a>
+
+{% hint style="info" %}
+**GOLD 2026 신설** : LABA+LAMA+ICS(triple therapy)로도 악화가 지속되는 Type 2 염증 표현형 COPD 환자에서 생물학적 제제를 추가 고려. 적용 대상 - 중등도 악화 ≥2회 또는 중증 악화 ≥1회/년 지속 + 혈중 호산구 ≥300 cells/μL
+{% endhint %}
+
+* **dupilumab** <mark style="color:blue;">\[듀피젠트]</mark> : IL-4/IL-13 수용체 공통 부위 차단; 만성 기관지염 동반 COPD(GOLD 2-3)에서 악화 감소·폐기능 개선·삶의 질 개선(52주) 확인; 2025년 3월 국내 COPD 적응증 허가(2026년 8월 기준 건강보험 급여 미적용 - 비급여)
+* **mepolizumab** <mark style="color:blue;">\[누칼라]</mark> : 항 IL-5 단클론항체; 만성 기관지염 동반 여부와 무관하게(GOLD 2-4) 악화 및 응급실 방문·입원 감소 확인; 국내 COPD 적응증 허가 여부 확인 필요(미국 2025년 5월 승인)
+* benralizumab(항 IL-5 수용체)은 COPD 악화 감소 효과가 RCT에서 확인되지 않아 권고하지 않음
+
 ### <mark style="color:orange;">Mucolytics</mark>
 
 * 규칙적 사용이 일부 환자에서 악화를 줄여주지만 일반적이지 않음; 선별적으로 고려
@@ -362,7 +381,15 @@ SABD = short-acting bronchodilator
 
 ### <mark style="color:orange;">초기 약물 치료 (Initial Pharmacological Treatment)</mark>
 
-<figure><img src="../.gitbook/assets/스크린샷 2026-05-09 222044.png" alt=""><figcaption><p>Initial Pharmacological Treatment (GOLD 2025)</p></figcaption></figure>
+{% hint style="danger" %}
+**GOLD 2026 개정** : 아래 그림은 GOLD 2025 기준이며 Group B 초치료가 "LAMA 또는 LABA"로 표기되어 있음. GOLD 2026부터 **Group B도 LABA+LAMA 병용이 우선 권고**로 상향되었으므로(위 ABE 평가 항목 참고), 최신 GOLD 2026 Figure 3.8로 교체 필요
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/스크린샷 2026-05-09 222044.png" alt=""><figcaption><p>Initial Pharmacological Treatment (GOLD 2025 → 2026 개정 필요)</p></figcaption></figure>
+
+<table><thead><tr><th width="120">GOLD Group</th><th width="220">기준 (치료 나이브 환자)</th><th>초치료</th></tr></thead><tbody><tr><td>Group A</td><td>악화 0회/년</td><td>기관지 확장제(단·장시간 무관, 장시간 선호)</td></tr><tr><td>Group B</td><td>악화 0회/년 + mMRC ≥2 또는 CAT ≥10</td><td><strong>LABA+LAMA</strong>(불가 시 LAMA 또는 LABA 단독)</td></tr><tr><td>Group E</td><td>중등도 또는 중증 악화 ≥1회/년</td><td>LABA+LAMA; eos ≥300이면 LABA+LAMA+ICS 우선 고려</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. GOLD 2026, Fig 3.8</mark></em></p>
 
 ### <mark style="color:orange;">유지 약물 치료 조정 (Follow-up Pharmacological Treatment)</mark>
 
@@ -382,9 +409,9 @@ graph TD
 %% DYSPNEA pathway
 D0[DYSPNEA] --> D1[LABA or LAMA]
     D1 --> D2["LABA+LAMA¹⁾"]
-    D2 --> D3["•흡입제 성분 or 장치 교체 고려<br/>•비약물 치료 시행 또는 강화<br/>•호흡 곤란의 다른 원인 조사 및 치료"]
+    D2 --> D3["•흡입제 성분 or 장치 교체 고려<br/>•비약물 치료 시행 또는 강화<br/>•ensifentrine²⁾ 추가 고려<br/>•호흡 곤란의 다른 원인 조사 및 치료"]
 
-%% EXACERBATION pathway
+%% EXACERBATION pathway (중등도 또는 중증 악화 ≥1회/년)
 E0[EXACERBATION] --> E1[LABA or LAMA]
 
     E2 -- "if eos ≥100" --> E3
@@ -397,7 +424,7 @@ E0[EXACERBATION] --> E1[LABA or LAMA]
     
     E4 --> E5["<u>Roflumilast</u><br/>FEV₁ <50% &<br/>chronic bronchitis"]
     E4 --> E6["<u>Azithromycin</u><br/>현재 비흡연자에서<br/>우선적으로"]
-    E3 -- "if eos ≥300"--> E7["<u>Dupilumab</u><br/>chronic bronchitis"]
+    E3 -- "중등도 ≥2회 or<br/>중증 ≥1회 악화<br/>AND eos ≥300"--> E7["<u>Biologic Therapy</u>³⁾<br/>Dupilumab (chronic bronchitis 동반 시)<br/>Mepolizumab"]
 
 style D0 fill:#eeeeee,stroke:#888888,stroke-width:2px
 style D1 fill:#fff,stroke:#ddd
@@ -414,9 +441,9 @@ linkStyle 6 stroke:green,stroke-width:2px;
 ```
 
 eos = blood eosinophil count (cells/μL)\
-¹⁾single inhaler 권고
+¹⁾single inhaler 권고 　²⁾PDE3/4 억제제, 흡입 분무형; 미국에서만 유통(국내 미도입) 　³⁾dupilumab 2025.3 국내 COPD 적응증 허가(2026.8 기준 건강보험 급여 미적용); mepolizumab은 국내 COPD 적응증 허가 여부 확인 필요
 
-<p align="center"><em><mark style="color:$info;">Ref. GOLD 2025, Fig 3.9</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. GOLD 2026, Fig 3.9</mark></em></p>
 
 ***
 
@@ -433,7 +460,7 @@ flowchart TD
     B --> C1["① <b>Dyspnea-predominant</b><br/>운동 시 호흡 곤란 중심"]
     C1 --> D1["LABA+LAMA<br/>호흡 재활 + 운동 프로그램<br/>흡입기 기종 최적화"]
 
-    B --> C2["② <b>Frequent exacerbator</b><br/>악화 ≥2회/년 또는 입원 ≥1회"]
+    B --> C2["② <b>Frequent exacerbator</b><br/>중등도 또는 중증 악화 ≥1회/년"]
     C2 --> E2["Blood eosinophil"]
     E2 -->|"≥300"| F2["Triple therapy<br/>(LABA+LAMA+ICS)"]
     E2 -->|"100–299"| G2["LABA+LAMA<br/>ICS 추가 고려"]
@@ -468,7 +495,7 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 <p align="center"><strong>COPD 표현형 기반 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. GOLD 2025</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. GOLD 2026</mark></em></p>
 
 ***
 
@@ -590,7 +617,7 @@ class Severe,Intubation red
 
 <p align="center"><strong>COPD 급성 악화 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. GOLD 2025</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. GOLD 2026</mark></em></p>
 
 ***
 
@@ -600,6 +627,10 @@ class Severe,Intubation red
 * 예방접종 (인플루엔자, 폐렴구균)
 
 ## <mark style="color:green;">예후 및 모니터링</mark>
+
+{% hint style="info" %}
+**Disease Activity (질병 활성도) - GOLD 2026 신설 개념** : COPD 관리의 핵심 목표를 "악화 없음 + 증상 악화 없음 + 폐기능의 가속화된 저하 없음"으로 정의되는 **저활성도(low disease activity)** 상태 달성으로 명시함. 여기에 증상 부담이 낮은 상태까지 더해지면 "질병 조절(disease control)", 구조적 손상이 커 증상 조절까지는 어려우나 악화·저하가 없는 상태는 "질병 안정(disease stability)"으로 구분. 조기 진단·조기 개입이 구조적 손상을 최소화하여 이후 활성도 조절을 용이하게 함 \[GOLD 2026]
+{% endhint %}
 
 * 안정될 때까지 매달, 안정 후 매 6개월마다 모니터링; 증상, 치료 효과, 흡입기 사용, 생활 습관 및 위험 요인 점검
 * 폐렴 악화 시 흉부 X선 또는 chest CT 시행
@@ -638,19 +669,9 @@ J44 기타 만성 폐색성 폐질환
 > salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
 > ```
 >
-> _✽ 증상이 간헐적인 Group A에서는 속효성 기관지 확장제(SABA 또는 SAMA)를 필요시 사용. 지속적 호흡 곤란으로 진행 시 LAMA 또는 LABA로 upgrade한다._
+> _✽ Group A는 단시간 또는 장시간 기관지 확장제 모두 가능하나, GOLD 2026은 이용 가능하고 비용 부담이 없다면 장시간 제제(LAMA 또는 LABA)를 선호하도록 권고(매우 간헐적인 호흡 곤란은 예외적으로 SABA prn 유지 가능). 위 처방은 매우 간헐적 증상의 예시이며, 규칙적 증상이면 장시간 제제로 시작을 고려한다._
 
-> **처방례 2. 중등도 (Group B - 지속적 호흡 곤란, 악화 적음)**
->
-> ```
-> tiotropium 흡입용캡슐 [스피리바]  18 μg/C  1C  qd
-> ─────────────────────────────────────────
-> salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
-> ```
->
-> _✽ Group B에서는 LAMA 또는 LABA로 시작. 지속적 증상에는 LAMA+LABA 병용 복합제로 upgrade. tiotropium은 운동 내성 개선에 특히 유효하다._
-
-> **처방례 3. 중등도-중증 (Group E - 빈번한 악화, eos ＜300)**
+> **처방례 2. 중등도 (Group B - 지속적 호흡 곤란, 악화 없음)**
 >
 > ```
 > vilanterol / umeclidinium 흡입제 [아노로 엘립타]  25/62.5 μg  1 puff  qd
@@ -658,9 +679,19 @@ J44 기타 만성 폐색성 폐질환
 > salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
 > ```
 >
-> _✽ Group E(빈번한 악화)에서는 LAMA+LABA 복합제가 1차 권고. eos ＜300이면 ICS 추가 없이 유지; 이후 악화 지속 시 roflumilast (FEV1＜50%, 만성 기관지염) 또는 azithromycin (현재 비흡연자) 추가 고려._
+> _✽ GOLD 2026부터 Group B도 LABA+LAMA 병용이 1차 권고(단일제보다 우수함이 RCT로 확인됨). 병용이 여의치 않은 경우(비용·부작용 등) LAMA 또는 LABA 단독(예: tiotropium)도 가능하며 계열 간 우열 근거는 없다._
 
-> **처방례 4. 중증 (Group E - 빈번한 악화, eos ≥300)**
+> **처방례 3. 중등도-중증 (Group E - 중등도 이상 악화 ≥1회/년, eos ＜300)**
+>
+> ```
+> vilanterol / umeclidinium 흡입제 [아노로 엘립타]  25/62.5 μg  1 puff  qd
+> ─────────────────────────────────────────────────────────────
+> salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  1~2 puffs  prn
+> ```
+>
+> _✽ Group E(중등도 또는 중증 악화 1회 이상/년 - GOLD 2026부터 기준 완화)에서는 LAMA+LABA 복합제가 1차 권고. eos ＜300이면 ICS 추가 없이 유지; 이후 악화 지속 시 roflumilast (FEV1＜50%, 만성 기관지염) 또는 azithromycin (현재 비흡연자) 추가 고려; 3제요법에도 악화 지속 시(중등도 ≥2회 또는 중증 ≥1회 + eos≥300) 생물학적 제제(dupilumab/mepolizumab) 고려._
+
+> **처방례 4. 중증 (Group E - 중등도 이상 악화 ≥1회/년, eos ≥300)**
 >
 > ```
 > fluticasone / umeclidinium / vilanterol [트렐리지 엘립타]  100/62.5/25 μg  1 puff  qd

@@ -23,10 +23,10 @@
 •Tuberculosis. NICE (2020)\
 •결핵진료지침 5판. 질병관리청, 대한결핵및호흡기학회 (2024)\
 •Clinical practice guidelines: Diagnosis of tuberculosis in adults and children. IDSA (2016)\
-•Global strategy for asthma management and prevention. GINA guideline (2025)\
+•Global strategy for asthma management and prevention. GINA guideline (2026)\
 •Asthma guideline: Diagnosis and monitoring. NICE (2020)\
 •천식 진료지침. 대한결핵및호흡기학회 (2022)\
 •일차의료용 근거기반 '성인천식'. 대한의학회 (2021)\
-•Global strategy for the diagnosis management and prevention of COPD. GOLD guideline (2025)\
+•Global strategy for the diagnosis management and prevention of COPD. GOLD guideline (2026)\
 •COPD 진료지침 개정판. 대한결핵및호흡기학회 (2024)\
 •일차의료용 근거기반 '만성폐쇄성폐질환(COPD)'. 대한의학회 (2019)
