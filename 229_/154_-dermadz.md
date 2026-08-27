@@ -1,6 +1,6 @@
 # 피부 병소의 표현
 
-## <mark style="color:green;">피부 병변의 기술 테스트</mark>
+## <mark style="color:green;">피부 병변의 기술</mark>
 
 ### <mark style="color:orange;">Primary (Basic) Lesion</mark>
 
