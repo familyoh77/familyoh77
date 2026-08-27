@@ -1,6 +1,6 @@
-# 고령 환자 진료 Care of the Older Patient
+# 고령 환자 진료
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 테스트</mark>
 
 * 고령 환자 진료에서는 연령 자체보다 생리적 예비능, 다중이환(multimorbidity), 기능상태, 허약(frailty), 인지·정서, 사회적 지지와 환자의 우선순위를 함께 평가함
 * 진료 목표는 질환별 치료와 함께 **기능·독립성·삶의 질 및 환자가 중요하게 생각하는 생활을 보존**하는 것
@@ -137,7 +137,15 @@
 * 팔을 사용해야 일어날 수 있으면 CDC STEADI 방식에서는 0회로 기록
 * 연령·성별 하한보다 낮으면 하지 근력 저하와 낙상 위험을 시사
 
-<table><thead><tr><th align="center">연령</th><th align="center">남성: 평균 미만</th><th align="center">여성: 평균 미만</th></tr></thead><tbody><tr><td align="center">60～64세</td><td align="center">&lt;14회</td><td align="center">&lt;12회</td></tr><tr><td align="center">65～69세</td><td align="center">&lt;12회</td><td align="center">&lt;11회</td></tr><tr><td align="center">70～74세</td><td align="center">&lt;12회</td><td align="center">&lt;10회</td></tr><tr><td align="center">75～79세</td><td align="center">&lt;11회</td><td align="center">&lt;10회</td></tr><tr><td align="center">80～84세</td><td align="center">&lt;10회</td><td align="center">&lt;9회</td></tr><tr><td align="center">85～89세</td><td align="center">&lt;8회</td><td align="center">&lt;8회</td></tr><tr><td align="center">90～94세</td><td align="center">&lt;7회</td><td align="center">&lt;4회</td></tr></tbody></table>
+|   연령   | 남성: 평균 미만 | 여성: 평균 미만 |
+| :----: | :-------: | :-------: |
+| 60～64세 |    <14회   |    <12회   |
+| 65～69세 |    <12회   |    <11회   |
+| 70～74세 |    <12회   |    <10회   |
+| 75～79세 |    <11회   |    <10회   |
+| 80～84세 |    <10회   |    <9회    |
+| 85～89세 |    <8회    |    <8회    |
+| 90～94세 |    <7회    |    <4회    |
 
 #### <mark style="color:$primary;">4-stage Balance Test</mark>
 
@@ -191,7 +199,7 @@ graph TD
 * 인지선별검사 한 가지 점수만으로 운전 가능 여부를 확정하지 않으며, 필요하면 전문 운전평가 또는 실제 도로주행평가를 의뢰
 
 {% hint style="info" %}
-**국내 고령 운전자 면허 관리 제도**  
+**국내 고령 운전자 면허 관리 제도**\
 만 75세 이상은 운전면허 갱신 주기가 3년이며 인지선별검사 등의 절차와 고령운전자 교통안전교육을 이수해야 합니다. 제2종 면허 소지자도 갱신기간에 70세 이상이면 정기 적성검사 대상입니다. 구체적인 검사·서류 절차는 한국도로교통공단의 최신 안내를 확인합니다.
 {% endhint %}
 
@@ -232,7 +240,7 @@ graph TD
 
 * 핵심 원칙: 적응증과 치료목표를 명확히 하고 신장·간기능, 허약, 인지·기능, 낙상, 기대되는 이득까지의 시간과 환자 선호를 반영
 * “Start low, go slow”를 적용하되 치료효과 없이 저용량만 장기간 지속하지 않고 효과·부작용을 정해진 시점에 재평가
-* 약 개수보다 적응증이 없거나 이득보다 위해가 큰 **문제성 다약제(problematic polypharmacy)**를 찾아내는 것이 중요
+* 약 개수보다 적응증이 없거나 이득보다 위해가 큰 \*\*문제성 다약제(problematic polypharmacy)\*\*를 찾아내는 것이 중요
 * 처방 추가 전에 새 증상이 기존 약물의 부작용인지 확인하여 처방연쇄(prescribing cascade)를 예방
 
 ### <mark style="color:orange;">약물 검토 절차</mark>
@@ -264,7 +272,7 @@ graph TD
 * 약물 허가사항이 요구하는 신기능 지표를 확인함. Cockcroft–Gault로 추정한 CrCl과 CKD-EPI/MDRD의 eGFR은 같은 값이 아니며 임의로 대체하지 않음
 * 근육량이 매우 적은 환자는 혈청 creatinine만으로 신기능이 좋아 보일 수 있으므로 체격, 추세 및 필요 시 대체 표지자를 함께 고려
 
-<table><thead><tr><th width="130">약물</th><th>조절 원칙</th></tr></thead><tbody><tr><td>Pregabalin</td><td>CrCl과 적응증별 국내 첨부문서의 1일 총용량·투여횟수 표에 따라 조절. 단순히 ‘50%/75% 감량’ 또는 임의 격일투여로 표준화하지 않음</td></tr><tr><td>Gabapentin</td><td>CrCl 구간별 1일 총용량과 투여횟수를 조절하고 졸림·어지럼·근간대성 경련을 관찰</td></tr><tr><td>Duloxetine</td><td>중증 신기능 저하(GFR &lt;30 mL/min)에서는 피함; 간질환·기립저혈압·낙상·저나트륨혈증도 고려</td></tr><tr><td>Tramadol</td><td>CrCl &lt;30 mL/min에서 속방형은 투여간격을 늘리고 1일 최대 200 mg, 서방형은 피함. 국내 제품 첨부문서와 환자 연령·병용약을 확인</td></tr><tr><td>NSAID</td><td>진행된 CKD에서는 원칙적으로 피하고, 사용이 불가피하면 최저용량·최단기간 및 신기능·칼륨·체액상태를 추적</td></tr><tr><td>Metformin</td><td>eGFR &lt;30 mL/min/1.73m²에서는 사용하지 않음. eGFR 30～44에서는 국제 지침상 새로 시작하지 않는 것이 일반적이며, 기존 투여 환자는 이득·위험을 재평가하여 감량 또는 중단. 국내 허가사항은 제품·제형 및 복합제에 따라 eGFR 45 미만을 금기 또는 중단 기준으로 정한 경우가 있으므로 해당 제품의 최신 허가사항을 반드시 확인</td></tr></tbody></table>
+<table><thead><tr><th width="130">약물</th><th>조절 원칙</th></tr></thead><tbody><tr><td>Pregabalin</td><td>CrCl과 적응증별 국내 첨부문서의 1일 총용량·투여횟수 표에 따라 조절. 단순히 ‘50%/75% 감량’ 또는 임의 격일투여로 표준화하지 않음</td></tr><tr><td>Gabapentin</td><td>CrCl 구간별 1일 총용량과 투여횟수를 조절하고 졸림·어지럼·근간대성 경련을 관찰</td></tr><tr><td>Duloxetine</td><td>중증 신기능 저하(GFR &#x3C;30 mL/min)에서는 피함; 간질환·기립저혈압·낙상·저나트륨혈증도 고려</td></tr><tr><td>Tramadol</td><td>CrCl &#x3C;30 mL/min에서 속방형은 투여간격을 늘리고 1일 최대 200 mg, 서방형은 피함. 국내 제품 첨부문서와 환자 연령·병용약을 확인</td></tr><tr><td>NSAID</td><td>진행된 CKD에서는 원칙적으로 피하고, 사용이 불가피하면 최저용량·최단기간 및 신기능·칼륨·체액상태를 추적</td></tr><tr><td>Metformin</td><td>eGFR &#x3C;30 mL/min/1.73m²에서는 사용하지 않음. eGFR 30～44에서는 국제 지침상 새로 시작하지 않는 것이 일반적이며, 기존 투여 환자는 이득·위험을 재평가하여 감량 또는 중단. 국내 허가사항은 제품·제형 및 복합제에 따라 eGFR 45 미만을 금기 또는 중단 기준으로 정한 경우가 있으므로 해당 제품의 최신 허가사항을 반드시 확인</td></tr></tbody></table>
 
 * NSAID + ACE inhibitor/ARB + 이뇨제의 병용은 급성신손상 위험을 높이므로 특히 탈수·급성질환 시 주의
 * Digoxin은 심부전·심방세동의 1차 선택으로 시작하지 않으며, 사용 시 대개 0.125 mg/day를 초과하지 않고 신기능·체중·상호작용을 반영
@@ -284,7 +292,14 @@ graph TD
   * 50～64세를 위한 별도 기준을 도입했으므로 기존 고령자 절단값을 그대로 적용하지 않음
 * 임상기록과 연구에서는 AWGS 2019, KWGS 2023 또는 AWGS 2025 중 어떤 기준을 적용했는지 명시
 
-<table><thead><tr><th rowspan="2">확진 지표</th><th colspan="2" align="center">50～64세</th><th colspan="2" align="center">65세 이상</th></tr><tr><th align="center">남성</th><th align="center">여성</th><th align="center">남성</th><th align="center">여성</th></tr></thead><tbody><tr><td>악력</td><td align="center">&lt;34 kg</td><td align="center">&lt;20 kg</td><td align="center">&lt;28 kg</td><td align="center">&lt;18 kg</td></tr><tr><td>DXA ASM/신장²</td><td align="center">&lt;7.2 kg/m²</td><td align="center">&lt;5.5 kg/m²</td><td align="center">&lt;7.0 kg/m²</td><td align="center">&lt;5.4 kg/m²</td></tr><tr><td>BIA ASM/신장²</td><td align="center">&lt;7.6 kg/m²</td><td align="center">&lt;5.7 kg/m²</td><td align="center">&lt;7.0 kg/m²</td><td align="center">&lt;5.7 kg/m²</td></tr><tr><td>DXA ASM/BMI</td><td align="center">&lt;0.80</td><td align="center">&lt;0.55</td><td align="center">&lt;0.73</td><td align="center">&lt;0.52</td></tr><tr><td>BIA ASM/BMI</td><td align="center">&lt;0.90</td><td align="center">&lt;0.63</td><td align="center">&lt;0.83</td><td align="center">&lt;0.57</td></tr></tbody></table>
+| 확진 지표       |   50～64세   |   65세 이상   |            |            |
+| ----------- | :--------: | :--------: | ---------- | ---------- |
+| 남성          |     여성     |     남성     | 여성         |            |
+| 악력          |   <34 kg   |   <20 kg   | <28 kg     | <18 kg     |
+| DXA ASM/신장² | <7.2 kg/m² | <5.5 kg/m² | <7.0 kg/m² | <5.4 kg/m² |
+| BIA ASM/신장² | <7.6 kg/m² | <5.7 kg/m² | <7.0 kg/m² | <5.7 kg/m² |
+| DXA ASM/BMI |    <0.80   |    <0.55   | <0.73      | <0.52      |
+| BIA ASM/BMI |    <0.90   |    <0.63   | <0.83      | <0.57      |
 
 _✽AWGS 2025에서 근감소증은 근육량 감소와 악력 저하가 함께 확인될 때 확진한다. 65세 이상의 ASM/신장² 및 악력 절단값은 AWGS 2019와 동일하게 유지되었고, ASM/BMI 기준이 진단 대안으로 추가되었다. ASM/신장²와 ASM/BMI는 체형에 따라 상호 보완적으로 해석하며, 측정장비·보정공식이 다른 값을 혼용하지 않는다._
 
@@ -383,7 +398,7 @@ M62.5 달리 분류되지 않은 근육의 소모 및 위축 — 국내에서 �
 > 증상이 지속되면 최저 유효용량으로 재개하고 진단·적응증을 다시 평가
 > ```
 >
-> _✽Barrett 식도, LA C/D 중증 미란성 식도염, 출혈성 소화성궤양 병력 또는 지속적인 위장관 출혈 고위험이 있으면 임의로 감량·중단하지 않는다. 활동성 소화성궤양 등 치료기간이 정해진 적응증은 치료 완료 후 지속 필요성을 재평가한다. [deprescribing.org의 PPI 알고리듬](https://deprescribing.org/resources/deprescribing-guidelines-algorithms/) 등 근거 기반 자료를 참고해 개별화한다._
+> _✽Barrett 식도, LA C/D 중증 미란성 식도염, 출혈성 소화성궤양 병력 또는 지속적인 위장관 출혈 고위험이 있으면 임의로 감량·중단하지 않는다. 활동성 소화성궤양 등 치료기간이 정해진 적응증은 치료 완료 후 지속 필요성을 재평가한다._ [_deprescribing.org의 PPI 알고리듬_](https://deprescribing.org/resources/deprescribing-guidelines-algorithms/) _등 근거 기반 자료를 참고해 개별화한다._
 
 ***
 
