@@ -28,7 +28,7 @@
 
 #### <mark style="color:orange;">위험 인자</mark>
 
-* 고령, 골다공증, steroid 사용, 비만, 이전 고관절 외상/수술력, 반복적·과사용성 스포츠 활동
+* 고령, 골다공증, steroid 사용, 비만, 이전 고관절 외상/수술력, 부위 무관 과거 골절력, 부모의 고관절 골절 가족력, 반복적·과사용성 스포츠 활동
 
 ***
 
@@ -46,7 +46,7 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 심한 외상 후 움직일 수 없음 / 체중 부하 불가 (→ 골절·탈구 의심)
+* 심한 외상 후 움직일 수 없음 / 체중 부하 불가, 患肢 외회전(externally rotated leg) 소견 (→ 골절·탈구 의심)
 * 뚜렷한 변형, 심한 멍/출혈
 * 급성 비외상성 심한 고관절 통증, 체중 부하 불가 또는 현저한 수동 ROM 통증/제한 ± 발열·국소 열감/홍반 → 화농성 관절염 의심; 고령, 당뇨병, 면역저하, 최근 관절 시술/인공관절 치환술 병력이 있는 환자는 발열이 없어도 배제하지 않음
   * 소아에서 **Kocher-Caird criteria**(발열 >38.5°C, 체중 부하 불가, ESR>40 mm/hr, WBC>12,000/mm³, CRP>20 mg/L 중 다수)는 화농성 관절염과 transient synovitis 감별의 보조 도구이며, 기준 미충족이 감염을 배제하지 않음 → 임상적 의심이 높으면 기준 개수와 관계없이 즉시 정형외과 평가 및 관절 천자를 포함한 추가 진단 고려
@@ -70,7 +70,7 @@
 
 #### <mark style="color:orange;">영상 검사</mark>
 
-* X선 검사 : 초기 검사
+* X선 검사 : 초기 검사; 고관절 골절에 대한 민감도는 90% 이상으로 보고됨 [JAMA 2026]; 임상적 의심이 높으나 X선이 음성이면 MRI(가장 민감) 또는 CT 추가 고려
   * 급성 외상 : AP pelvis + 증상측 hip lateral view
   * 만성/비외상성 통증 : standing AP pelvis ± lateral view로 OA·FAI·dysplasia 등 구조적 병변 평가; FAI(cam/pincer 병변) 감별이 필요하면 Dunn 45° view 또는 frog-leg lateral view 추가로 대퇴골두-경부 이행부 평가
   * 음성이나 occult fracture가 계속 의심되면 CT 또는 MRI 추가; 골수 병변(예: 불현성 골절, osteonecrosis) 평가에는 MRI가 가장 민감(☞ Red Flags)
@@ -172,12 +172,13 @@ _<mark style="color:$info;">(Ref. Evaluation of the Patient with Hip Pain. AFP 2
 
 <mark style="color:$primary;">**Anterolateral hip and groin pain**</mark>
 
-<table><thead><tr><th width="180">진단</th><th width="360">임상 양상</th><th>병력/위험 인자</th></tr></thead><tbody><tr><td><strong>Osteoarthritis</strong></td><td>점차 악화, 깊은 쑤시는 일관된 통증(특히 체중 부하 시), 강직, 활동으로 악화/휴식으로 완화; ROM 감소</td><td>>50세, 비만, 이전 관절 손상</td></tr><tr><td><strong>Osteonecrosis</strong>¹⁾</td><td>deep groin, 체중 부하/움직임 시 통증, 휴식 시 통증, thigh/buttock 연관통; 잠행성 시작; 외상으로 급성 악화; log roll test(+), 점진적 ROM 제한</td><td>고용량/장기간 glucocorticoid 사용, 과도한 음주, 외상성 femoral neck fracture/dislocation(우선 고려); SLE, sickle cell disease, HIV 감염, 흡연</td></tr><tr><td><strong>Femoroacetabular impingement</strong></td><td>deep groin, 장시간 앉은 후 일어설 때 통증, Lat hip/Ant thigh 방사통; FADIR/FABER tests(+)</td><td>장거리 운전</td></tr><tr><td><strong>Hip labral tear</strong></td><td>dull or sharp groin pain, lat hip/ant thigh/buttock 방사통, 체중 부하 시 통증; Trendelenburg or antalgic gait²⁾, mechanical Sx³⁾, 내회전 장애, FADIR/FABER tests(+)</td><td>hip 탈구 병력</td></tr><tr><td><strong>Femoral neck fracture</strong></td><td>deep, 연관통, 체중 부하 시 통증, GT 압통; painful ROM</td><td>여성, 운동선수(피로 골절), steroid, 흡연, 골다공증(고령, 저에너지 낙상)</td></tr><tr><td><strong>Iliopsoas bursitis (internal snapping hip)</strong></td><td>deep, 연관통; 간헐적 catching, snapping, popping; 고관절 굴곡→신전 시 snapping</td><td>발레, 달리기</td></tr><tr><td><strong>Loose body / Chondral lesion</strong></td><td>deep, 연관통; mechanical Sx; ROM 제한, catching/grinding, FADIR/FABER test(+)</td><td>고관절 탈구/외상, Legg-Calvé-Perthes disease</td></tr><tr><td><strong>Septic arthritis</strong></td><td>체중 부하 시 통증, 수동 움직임/휴식 중에도 통증; 소아에서는 발열 동반이 흔함</td><td>고령, 당뇨병, RA, 최근 관절 수술, 인공 관절; (소아) ☞ Red Flags</td></tr></tbody></table>
+<table><thead><tr><th width="180">진단</th><th width="360">임상 양상</th><th>병력/위험 인자</th></tr></thead><tbody><tr><td><strong>Osteoarthritis</strong></td><td>점차 악화, 깊은 쑤시는 일관된 통증(특히 체중 부하 시), 강직, 활동으로 악화/휴식으로 완화; ROM 감소</td><td>>50세, 비만, 이전 관절 손상</td></tr><tr><td><strong>Osteonecrosis</strong>¹⁾</td><td>deep groin, 체중 부하/움직임 시 통증, 휴식 시 통증, thigh/buttock 연관통; 잠행성 시작; 외상으로 급성 악화; log roll test(+), 점진적 ROM 제한</td><td>고용량/장기간 glucocorticoid 사용, 과도한 음주, 외상성 femoral neck fracture/dislocation(우선 고려); SLE, sickle cell disease, HIV 감염, 흡연</td></tr><tr><td><strong>Femoroacetabular impingement</strong></td><td>deep groin, 장시간 앉은 후 일어설 때 통증, Lat hip/Ant thigh 방사통; FADIR/FABER tests(+)</td><td>장거리 운전</td></tr><tr><td><strong>Hip labral tear</strong></td><td>dull or sharp groin pain, lat hip/ant thigh/buttock 방사통, 체중 부하 시 통증; Trendelenburg or antalgic gait²⁾, mechanical Sx³⁾, 내회전 장애, FADIR/FABER tests(+)</td><td>hip 탈구 병력</td></tr><tr><td><strong>Femoral neck fracture</strong>⁴⁾</td><td>deep, 연관통, 체중 부하 시 통증, GT 압통; painful ROM</td><td>여성, 운동선수(피로 골절), steroid, 흡연, 골다공증(고령, 저에너지 낙상)</td></tr><tr><td><strong>Iliopsoas bursitis (internal snapping hip)</strong></td><td>deep, 연관통; 간헐적 catching, snapping, popping; 고관절 굴곡→신전 시 snapping</td><td>발레, 달리기</td></tr><tr><td><strong>Loose body / Chondral lesion</strong></td><td>deep, 연관통; mechanical Sx; ROM 제한, catching/grinding, FADIR/FABER test(+)</td><td>고관절 탈구/외상, Legg-Calvé-Perthes disease</td></tr><tr><td><strong>Septic arthritis</strong></td><td>체중 부하 시 통증, 수동 움직임/휴식 중에도 통증; 소아에서는 발열 동반이 흔함</td><td>고령, 당뇨병, RA, 최근 관절 수술, 인공 관절; (소아) ☞ Red Flags</td></tr></tbody></table>
 
 _¹⁾ osteonecrosis는 aseptic necrosis, avascular necrosis, ischemic necrosis라고도 불림_\
 _&#xB2;⁾ antalgic gait : 통증을 줄이기 위하여 환측 보행 시간(체중이 실리는 시간)을 보다 짧게 걸음_\
 _&#xB3;⁾ mechanical symptoms : such as catching or painful clicking._\
-_&#x47;T=Greater trochanter, ROM=range of motion_
+_&#x47;T=Greater trochanter, ROM=range of motion_\
+_⁴⁾ 고관절 골절은 관절낭 기준 intracapsular(femoral neck 34%, femoral head 드묾)/extracapsular(intertrochanteric 48%, subtrochanteric 5.8%)로 분류됨 [JAMA 2026]_
 
 <mark style="color:$primary;">**Posterolateral pain**</mark>
 
