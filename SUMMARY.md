@@ -170,7 +170,7 @@
   * [통풍 Gout](228_/152_-gout.md)
   * [섬유근육통 Fibromyalgia](228_/153_-fibromyalgia.md)
 * [Part 10. 피부질환](229_/README.md)
-  * [피부 병소의 표현](229_/154_.md)
+  * [피부 병소의 표현](229_/154_-dermadz.md)
   * [발진 Rash](229_/155_-rash.md)
   * [두드러기 Urticaria, 혈관부종 Angioedema](229_/156_-urticaria-angioedema.md)
   * [만성 가려움증 Chronic Pruritus](229_/157_-chronic-pruritus.md)
