@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 정의 : 묽은 변([Bristol stool scale](082_-constipation.md#undefined-3) 6\~7형) 또는 빈번한 배변(≥3회/d)이 4주 이상 지속되는 상태
+* 정의 : 묽거나 수양성인 변([Bristol stool scale](082_-constipation.md#undefined-3) 6\~7형)이 4주 이상 반복되는 상태로, 배변 횟수 증가·절박변 또는 변실금이 동반될 수 있음
 * 급성 설사(≤2주)·지속성 설사(2\~4주)와 구분
 * 대부분 장 점막의 수분·전해질 흡수-분비 불균형이 핵심 기전
 * 기전상 삼투압성·분비성·염증성·흡수 장애·과운동성으로 분류되며 복합 기전이 흔함
@@ -26,7 +26,7 @@
 #### <mark style="color:$primary;">흡수 장애 (Malabsorption)</mark>
 
 * Whipple disease, giardiasis, 셀리악병(celiac disease), short bowel syndrome
-  * 셀리악병은 한국에서 유병률이 낮으나 원인 불명 흡수 장애·철 결핍 빈혈·만성 설사에서는 anti-tTG IgA 선별 고려
+  * 셀리악병은 한국에서 유병률이 낮으나 원인 불명 흡수 장애·철 결핍 빈혈·만성 설사에서는 anti-tTG IgA와 total IgA 선별 고려
 * 소장 세균 과증식 (SIBO)
 * 췌장 외분비 기능 부전 (만성 췌장염, pancreatic cystic fibrosis)
 
@@ -44,12 +44,12 @@
 
 #### <mark style="color:$primary;">약물 유발 설사</mark>
 
-* cholinesterase inhibitors, SSRI, ARB (특히 olmesartan), PPI, NSAID, metformin, allopurinol, orlistat
+* 마그네슘 함유 보충제·제산제, cholinesterase inhibitors, SSRI, ARB (특히 olmesartan), PPI, NSAID, metformin, colchicine, mycophenolate, 면역관문억제제, allopurinol, orlistat
   * olmesartan-associated enteropathy : olmesartan 복용 수개월\~수년 후 셀리악병과 유사한 중증 장병증 발생 가능; 심한 만성 설사·체중 감소·흡수 장애 → olmesartan 중단 후 호전
 * GLP-1 수용체 작용제 / GIP·GLP-1 이중 작용제 (semaglutide, liraglutide, tirzepatide 등) : 장 운동 변화 및 장 내 분비 변화로 오심·복부 팽만·설사 유발 가능
   * 설사보다 변비가 더 흔함; 설사는 일부 환자에서, 특히 초기 용량 증량 시 발생
 * 항생제 관련 장염 : _C. difficile_ 포함; 장내 dysbiosis로 인한 비특이적 설사 포함
-* 허브 : St. John's wort, echinacea, 마늘, 인삼, saw palmetto, cranberry, 알로에
+* 허브 : St. John's wort, echinacea, 마늘, 인삼, saw palmetto, cranberry, 알로에 및 senna·cascara 등이 든 완하성 허브차
 
 #### <mark style="color:$primary;">염증성·비감염성 설사 (Inflammatory)</mark>
 
@@ -81,10 +81,10 @@
 
 * 기능성 설사는 복통이 핵심 증상이 아니라는 점에서 IBS-D와 구분. 반복적 복통이 배변과 연관되어 발생하면 IBS-D를 우선 고려
 
-<table><thead><tr><th width="190">특징</th><th width="200">Functional diarrhea</th><th>IBS-D</th></tr></thead><tbody><tr><td>핵심 증상</td><td>묽은 변 (설사)</td><td>복통 + 설사</td></tr><tr><td>복통</td><td>거의 없음</td><td>반복적으로 존재</td></tr><tr><td>배변 후 통증 변화</td><td>없음</td><td>흔함 (배변 후 호전)</td></tr><tr><td>스트레스 연관</td><td>일부</td><td>흔함</td></tr><tr><td>야간 증상</td><td>드묾</td><td>드묾</td></tr><tr><td>치료 핵심</td><td>Stool form control</td><td>Gut-brain modulation</td></tr></tbody></table>
+<table><thead><tr><th width="190">특징</th><th width="200">Functional diarrhea</th><th>IBS-D</th></tr></thead><tbody><tr><td>핵심 증상</td><td>묽은 변 (설사)</td><td>복통 + 설사</td></tr><tr><td>복통</td><td>반복적이거나 주된 증상인 복통 없음</td><td>반복적으로 존재</td></tr><tr><td>배변과 통증의 관계</td><td>뚜렷하지 않음</td><td>배변과 관련되어 호전 또는 악화 가능</td></tr><tr><td>스트레스 연관</td><td>일부</td><td>흔함</td></tr><tr><td>야간 증상</td><td>드묾</td><td>드묾</td></tr><tr><td>치료 핵심</td><td>Stool form control</td><td>Gut-brain modulation</td></tr></tbody></table>
 
 {% hint style="danger" %}
-**Microscopic colitis :** 고령(특히 60대 이상) 여성의 만성 수양성·야간 설사에서 대장내시경이 정상이어도 microscopic colitis를 반드시 배제해야 함; 무작위 조직검사 (random biopsy, 상행·횡행·하행결장) 없이는 진단 불가. NSAID·PPI·SSRI 복용력 반드시 확인
+**Microscopic colitis :** 고령(특히 60대 이상) 여성의 만성 비혈성 수양성·야간 설사에서는 대장내시경이 정상이어도 microscopic colitis를 적극 고려해야 함; 좌·우측 결장의 무작위 조직검사(random biopsy) 없이는 진단 불가. NSAID·PPI·SSRI 복용력 반드시 확인
 {% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -103,6 +103,7 @@
 * 50세 이상 새로 발생한 만성 설사 → 대장암
 * 결직장암 가족력 동반 새 증상
 * 야간 설사 (수면 중 깨어날 정도) → 기질적 원인
+* 원인 불명의 철 결핍 빈혈 또는 저알부민혈증
 * 지속적 발열 + 복통
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
@@ -117,8 +118,9 @@
 ### <mark style="color:orange;">기초 평가</mark>
 
 * 병력 : 기저 질환, 약물(최근 항생제 포함), 식이(음식 일기), 정신사회적 스트레스, 여행력, 가족력, 수술력(담낭절제술)
+* 고령자·거동 저하자·오피오이드 복용자에서 변비 병력과 함께 소량의 묽은 변이나 변실금이 반복되면 분변 매복에 의한 범람성 설사(overflow diarrhea)를 고려하고 직장수지검사를 시행
 * 기능성 설사 진단 기준 \[Rome Ⅳ]
-  1. 최소 6개월 전 발생, 최근 3개월간 통증이나 불편감 없는 죽/물 같은 변이 배변의 ＞¼에서 발생
+  1. 최소 6개월 전 발생, 최근 3개월간 반복적이거나 주된 증상인 복통 없이 죽/물 같은 변이 배변의 ＞¼에서 발생
   2. IBS-D 진단 기준에 해당되지 않음
 
 ### <mark style="color:orange;">검사</mark>
@@ -133,7 +135,9 @@
 * CBC, ESR, CRP ← 염증 스크리닝
 * 전해질(Mg, P, Ca, Na), LFT, 알부민, INR ← 영양 상태·흡수 기능
 * TSH ← 갑상선 기능 이상
-* Anti-tissue transglutaminase IgA (anti-tTG IgA) ← 셀리악병 (한국에서 유병률 낮으나 원인 불명 흡수 장애·철 결핍 빈혈 동반 시 선별 고려)
+* Anti-tissue transglutaminase IgA (anti-tTG IgA) + total IgA ← 셀리악병 (한국에서 유병률 낮으나 원인 불명 흡수 장애·철 결핍 빈혈 동반 시 선별 고려)
+  * IgA 결핍이면 IgG deamidated gliadin peptide(DGP) 또는 IgG-tTG를 사용
+  * 검사 당시 최소 2\~4주 동안 글루텐을 섭취하고 있어야 하며, 성인에서 혈청검사 양성이면 상부위장관 내시경과 십이지장 조직검사로 확진
 * 빈혈 검사 : Fe/TIBC, B12, folate, Vit D ← 흡수 장애 동반 여부
 
 **대변 검사**
@@ -149,8 +153,8 @@
 
 <table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 ㎍/g</td><td>장 염증 가능성 낮음 → 기능성 원인 우선 평가</td></tr><tr><td>50 ~ 150 ㎍/g</td><td>borderline → 임상 양상과 함께 판단; 추적 또는 내시경 고려</td></tr><tr><td>150 ~ 250 ㎍/g</td><td>기질적 염증 의심 → 내시경 적극 고려</td></tr><tr><td>＞ 250 ㎍/g</td><td>active IBD 가능성 높음 → 의뢰</td></tr></tbody></table>
 
-* **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전 비침습 평가; ＜200 ㎍/g → 췌장 기능 부전 의심
-  * 72시간 대변 지방 검사보다 간편; 설사 중에는 희석에 의한 위음성 주의
+* **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전 비침습 평가; ＜200 ㎍/g은 비정상이며 ＜100 ㎍/g은 췌장 외분비 기능 부전에 더 특이적
+  * 72시간 대변 지방 검사보다 간편하며 가능하면 고형변에서 검사. 수양변에서는 희석으로 수치가 거짓으로 낮아져 췌장 외분비 기능 부전으로 오인하는 위양성이 발생할 수 있음
 * 대변 지방 (72시간, ＞7 g/d → 지방 흡수 장애)
 * _C. difficile_ toxin PCR (항생제 복용력 있거나 중증 설사)
 
@@ -164,9 +168,10 @@
 
 **영상·내시경**
 
-* 복부 X선, CT enterography (흡수 장애·염증 의심 시)
+* 복부 X선, CT/MR enterography : 지속적 심한 복통·체중 감소·철 결핍 빈혈·fecal calprotectin 상승이 있거나 내시경으로 원인이 밝혀지지 않고 소장 병변이 의심될 때 선택
 * 대장 내시경 + 조직검사 : 경고 징후·혈변·50세 이상 신규 발생
-  * Microscopic colitis : 내시경 정상이어도 무작위 조직검사 (상행·횡행·하행결장) 필수
+  * Microscopic colitis : 내시경 정상이어도 좌·우측 결장에서 무작위 조직검사 필수
+* 상부위장관 내시경 + 십이지장 조직검사 : 지방변·대량 설사·체중 감소·영양 결핍 등 소장성 흡수 장애가 의심되거나 대장내시경으로 원인이 밝혀지지 않을 때 고려
 * 소장 영상 (CT/MR enterography) : 크론병·소장 종양 의심 시
 
 **특수 검사 (2차 의뢰)**
@@ -180,9 +185,9 @@
 
 ```mermaid
 graph TD
-    Start(["만성 설사<br/>≥3회/d, ≥4주"])
+    Start(["만성 설사<br/>묽거나 수양성인 변 ≥4주"])
     Start --> RF["경고 징후?<br/>(혈변·체중감소·야간설사<br/>발열·50세↑ 신규 발생)"]
-    RF -- "있음" --> Scope["대장 내시경 + 조직검사<br/>CT enterography<br/>혈액·대변 검사"]
+    RF -- "있음" --> Scope["혈액·대변 검사<br/>대장내시경 + 조직검사<br/>소장 의심 시 상부내시경/영상검사"]
     RF -- "없음" --> Phenotype(["변 양상 분류"])
     Scope --> OrgDx["IBD, Microscopic colitis<br/>대장암, 감염성"]
 
@@ -197,7 +202,7 @@ style Phenotype fill:#d5f5e3,stroke:#27ae60
 
 ```mermaid
 graph TD
-    Phenotype(["변 양상"]) --> A["지방변·체중감소"] --> Malabs["흡수 장애 검사<br/>fecal elastase · fecal fat<br/>anti-tTG IgA · H2 breath test"]
+    Phenotype(["변 양상"]) --> A["지방변·체중감소"] --> Malabs["흡수 장애 검사<br/>fecal elastase · fecal fat<br/>anti-tTG IgA + total IgA<br/>H2 breath test"]
     Phenotype --> B["수양성·야간 지속"] --> WateryDD["대변 calprotectin<br/>+ 전해질/삼투압"]
     Phenotype --> C["식후 악화·가스·복통 없음"] --> OsmoDD["음식 일기<br/>lactose/FODMAP 제한 시도"]
     OsmoDD --> OsmoResult["2~4주 제한 후"]
@@ -240,7 +245,7 @@ class OsmoResult,OsmoGap,BAMFirst yellow
 * "담낭절제 후 지속 설사" → BAM 매우 흔함; cholestyramine trial 먼저
 * "복통 없는 만성 묽은 변" → functional diarrhea 가능 (IBS-D와 구분)
 * "반복 복통이 핵심" → IBS-D → gut-brain modulation 접근
-* "노인 여성 + 수양성 야간 설사 + 정상 내시경" → microscopic colitis until proven otherwise
+* "고령 여성 + 비혈성 수양성·야간 설사 + 정상 내시경" → microscopic colitis 적극 고려; 좌·우측 결장 조직검사
 * "olmesartan 복용 중 + 심한 흡수 장애" → olmesartan enteropathy 의심; 즉시 중단
 {% endhint %}
 
@@ -332,8 +337,8 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 ### <mark style="color:orange;">항생제 (SIBO 치료)</mark>
 
 * 대상 : 소장 세균 과증식
-* rifaximin : 1차 권고 (비흡수성 항생제; 전신 부작용 적음)
-  * 200 ㎎ 2T tid (1,200 ㎎/d) × 14일; 필요 시 3T tid (1,800 ㎎/d) <mark style="color:blue;">\[노르믹스]</mark>
+* rifaximin : 1차 권고 (비흡수성 항생제; 전신 부작용 적음). 근거의 질이 높지 않고 연구마다 용량·기간이 다양함
+  * 200 ㎎ 2T tid (1,200 ㎎/d) × 14일 <mark style="color:blue;">\[노르믹스]</mark>
   * [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=418\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : 급성장염 혹은 장내세균상의 이상으로 인한 설사에 타 약제 투여로 증상이 호전되지 않는 환자
   * 재발 시 반복 치료; 원인(장 운동 장애, 해부학적 이상) 교정이 재발 방지의 핵심
 * ciprofloxacin : 500 ㎎ bid × 7\~10일 <mark style="color:blue;">\[씨프로바이]</mark> (대체)
@@ -343,10 +348,10 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 
 * 대상 : 조직검사로 확진된 collagenous/lymphocytic colitis
 * 유발 약물(NSAID, PPI, SSRI) 중단이 치료의 핵심
-* budesonide : 1차 선택; 9 ㎎ qd × 8주 → tapering
+* budesonide : 1차 선택; 9 ㎎ qd × 6\~8주. 유도요법 후 일률적 감량은 필요하지 않으며, 재발 여부에 따라 유지요법을 결정
   * <mark style="color:blue;">\[엔토코트]</mark> 3 ㎎ × 3C qd (아침 식전)
   * <mark style="color:blue;">\[타미코트]</mark> 9 ㎎ × 1T qd (아침 식전) ([보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220701\&sno=3\&mtgMtrRegSno=5\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y))
-  * 재발률이 높아 장기 유지 요법이 필요한 경우가 많음 (저용량 3\~6 ㎎/d 유지 고려)
+  * 중단 후 재발이 흔하며(최대 약 70% 보고), 재발 환자는 최저 유효용량(예: 3 ㎎/d 또는 격일) 유지 고려
 * bismuth subsalicylate : 경증 또는 budesonide 전 시도; 장기 사용 안전성 주의; 현탁액 525 ㎎ (30 ㎖) 또는 정제 524 ㎎ (2정), 30분\~1시간마다, 1일 최대 8회; ≥3세 적용 <mark style="color:blue;">\[펩토무스현탁액]</mark>
 
 ### <mark style="color:orange;">Fiber supplement</mark>
@@ -433,9 +438,9 @@ K90.3 췌장 지방변증 (소장 외 흡수 장애)
 > ```
 > 엔토코트 서방캡슐 3 ㎎/캡  3캡  qd (아침 식전)  × 8주
 > 또는 타미코트 서방정 9 ㎎/T  1T  qd (아침 식전)  × 8주
-> ※ 증상 호전 후 6주에 걸쳐 3 ㎎/d → 중단 (tapering)
+> ※ 6~8주 유도요법 후 일률적 감량은 필요하지 않음
 > ※ NSAID·PPI·SSRI 동시 중단 필수
-> ※ 재발률 높음 → 저용량(3 mg/d) 장기 유지요법 필요 가능
+> ※ 중단 후 재발 시 최저 유효용량(예: 3 mg/d 또는 격일) 유지요법 고려
 > ```
 >
 > _✽budesonide는 초회통과 효과가 크고 전신 스테로이드 부작용 적음. 재발 시 저용량 유지 요법 고려. 조직검사 확진 후 투여._
