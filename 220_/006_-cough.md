@@ -280,7 +280,7 @@ graph TD
     style Maintain fill:#e1f5fe,stroke:#01579b
 ```
 
-<p align="center"><strong>만성기침의 진단과 치료 — treatable-traits 접근</strong><br><em><mark style="color:$info;">Ref. BTS Clinical Statement on chronic cough in adults. 2023; WAO-ARIA consensus on chronic cough. 2025.</mark></em></p>
+<p align="center"><strong>만성기침의 진단과 치료 - treatable-traits 접근</strong><br><em><mark style="color:$info;">Ref. BTS Clinical Statement on chronic cough in adults. 2023; WAO-ARIA consensus on chronic cough. 2025.</mark></em></p>
 
 ***
 
@@ -427,7 +427,7 @@ R05 기침
 >
 > _✽ Codeine 함유 제제는 상기도기침증후군의 적응에 해당하지 않으며, routine 기침에는 권장되지 않음. Refractory chronic cough에서만 단기 한정 고려. **18세 미만 소아·청소년에서는 호흡 억제/부전 위험 때문에 기침 억제 목적의 codeine 함유 약물 사용을 피할 것을 권고**함 (대한결핵 및 호흡기학회 기침진료지침, 2020)._
 >
-> **처방례 2. Tic cough / Somatic cough syndrome — 행동치료 중심**
+> **처방례 2. Tic cough / Somatic cough syndrome - 행동치료 중심**
 >
 > ```
 > ① 충분한 의학적 평가 후 tic cough 또는 somatic cough syndrome의 진단 근거를 설명
@@ -441,7 +441,7 @@ R05 기침
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **진해제 — codeine 함유 제제 (코데닝 등)**
+> **진해제 - codeine 함유 제제 (코데닝 등)**
 >
 > * **18세 미만 소아·청소년은 기침 치료 목적으로 이 약을 사용하지 않습니다.** 호흡이 억제되는 위험한 부작용이 생길 수 있습니다.
 > * 졸음, 어지럼이 생길 수 있으므로 운전이나 기계 조작을 삼가 주십시오.
@@ -471,7 +471,7 @@ R05 기침
 ### <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
-**기침은 기도를 보호하는 자연 반응입니다 — 원인을 파악하면 효과적으로 조절할 수 있습니다**
+**기침은 기도를 보호하는 자연 반응입니다 - 원인을 파악하면 효과적으로 조절할 수 있습니다**
 
 대부분의 감염성 기침은 3\~4주 이내 호전됩니다. 3\~4주가 지나도 호전되지 않거나 악화되는 경우에는 원인 평가가 필요합니다.
 {% endhint %}

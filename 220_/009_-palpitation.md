@@ -5,7 +5,7 @@
 * 심장의 강하고 빠르고 불규칙한, 불쾌한 기분의 박동
 * 다른 표현 : 심계항진(心悸亢進), palpitations
 * 원인은 크게 심장성(부정맥, 구조적 심장 질환), 정신과적(불안·공황·신체화), 대사/전신성(갑상선 기능 항진증, 빈혈, 전해질 이상 등), 약물/물질 관련, 생리적·특발성으로 분류됨
-* 상당수는 특발성으로 남으나, 예후는 기저 원인에 따라 크게 갈림 — 구조적 심장 질환이나 지속성 부정맥 동반 여부에 따라 위험도가 크게 달라지므로 초기 단계에서 고위험군을 선별하는 것이 핵심
+* 상당수는 특발성으로 남으나, 예후는 기저 원인에 따라 크게 갈림 - 구조적 심장 질환이나 지속성 부정맥 동반 여부에 따라 위험도가 크게 달라지므로 초기 단계에서 고위험군을 선별하는 것이 핵심
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -115,7 +115,7 @@
 
 증상 빈도에 따라 아래 표를 참고해 검사를 선택한다.
 
-<table><thead><tr><th width="200">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td>매일</td><td>24~48시간 Holter 검사</td></tr><tr><td>수일 ~ 수주</td><td>패치형 장기 심전도(예: 메모패치) — 수일~수주 연속 기록</td></tr><tr><td>수주 ~ 수개월</td><td>이벤트/외부 루프 기록기 또는 환자 작동형 휴대 ECG(예: KardiaMobile) — 증상 발생 시 기록</td></tr><tr><td>수개월에 1회 등 매우 드물고 실신·고위험 부정맥이 의심됨</td><td>이식형 루프 기록기(ILR) — 상급병원 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="200">증상 빈도</th><th>권장 검사</th></tr></thead><tbody><tr><td>매일</td><td>24~48시간 Holter 검사</td></tr><tr><td>수일 ~ 수주</td><td>패치형 장기 심전도(예: 메모패치) - 수일~수주 연속 기록</td></tr><tr><td>수주 ~ 수개월</td><td>이벤트/외부 루프 기록기 또는 환자 작동형 휴대 ECG(예: KardiaMobile) - 증상 발생 시 기록</td></tr><tr><td>수개월에 1회 등 매우 드물고 실신·고위험 부정맥이 의심됨</td><td>이식형 루프 기록기(ILR) - 상급병원 의뢰</td></tr></tbody></table>
 
 * 스마트워치 ECG (Apple Watch, Samsung Galaxy Watch 등) : 환자가 증상 발생 시 직접 기록한 데이터를 외래에서 참고 자료로 활용 가능; AF 검출 false positive 주의 - 임상 확인(clinician confirmation) 필수, 스마트워치 단독 진단은 권장하지 않음
 * 증상 기록지(Symptom Diary) : 심전도 데이터와 함께 당시의 활동(운동·식사·음주 등) 및 감정 상태(불안·스트레스 등)를 병기하도록 안내 - 진단 효율을 크게 높임
@@ -131,7 +131,7 @@
 
 ### <mark style="color:orange;">Pre-excitation 확인 시</mark>
 
-* ECG에서 **delta wave(ventricular pre-excitation pattern)** 확인 시 — 증상 유무와 관계없이 심장내과 의뢰
+* ECG에서 **delta wave(ventricular pre-excitation pattern)** 확인 시 - 증상 유무와 관계없이 심장내과 의뢰
 * pre-excitation과 관련된 빈맥 증상이 동반되면 WPW syndrome으로 평가; 전기생리학적 검사(EPS)는 부전도로(accessory pathway)의 전도 특성·돌연사 위험 평가 및 catheter ablation 계획을 위해 고려
 * pre-excited AF 동반 시 AV node 차단제 및 IV amiodarone은 금기 → 즉시 응급 이송 (☞ Management 항목 참조)
 
@@ -173,7 +173,7 @@ graph TD
     style Anxiety1 fill:#9b59b6,stroke:#7d3c98,color:#fff
 ```
 
-<p align="center"><strong>두근거림 — 확인된 리듬별 초기 관리 알고리듬</strong></p>
+<p align="center"><strong>두근거림 - 확인된 리듬별 초기 관리 알고리듬</strong></p>
 
 ※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 만성 rate control 상황에 한함; 급성 대상부전 심부전 동반 시에는 별도 접근이 필요하다.
 
@@ -210,24 +210,24 @@ graph TD
 ### <mark style="color:orange;">대증 치료</mark>
 
 * 심장 문제 등 원인 질환 배제 후 시행 (☞ [흉통](002_-chest-pain.md))
-* 항불안제 : alprazolam <mark style="color:blue;">\[자낙스]</mark>, lorazepam <mark style="color:blue;">\[아티반]</mark> — 단기 bridge 목적에 한함; 중장기 불안 관리는 (☞ [불안장애](../231_/anxiety-disorder.md)) 참조
-* β-차단제 : propranolol 10\~120 ㎎/d <mark style="color:blue;">\[인데놀]</mark>, bisoprolol 2.5\~10 ㎎/d <mark style="color:blue;">\[콩코르]</mark> — 1차 진료에서는 저용량(예: bisoprolol 2.5 ㎎/d)으로 시작해 반응·내약성에 따라 서서히 증량 (☞ [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
+* 항불안제 : alprazolam <mark style="color:blue;">\[자낙스]</mark>, lorazepam <mark style="color:blue;">\[아티반]</mark> - 단기 bridge 목적에 한함; 중장기 불안 관리는 (☞ [불안장애](../231_/anxiety-disorder.md)) 참조
+* β-차단제 : propranolol 10\~120 ㎎/d <mark style="color:blue;">\[인데놀]</mark>, bisoprolol 2.5\~10 ㎎/d <mark style="color:blue;">\[콩코르]</mark> - 1차 진료에서는 저용량(예: bisoprolol 2.5 ㎎/d)으로 시작해 반응·내약성에 따라 서서히 증량 (☞ [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
   * ✽metoprolol(베타록)은 제조사 계약 종료에 따라 2026년 상반기 국내 공급이 중단되어 처방 시 유통 여부 확인 필요
 * non-DHP계 CCB : diltiazem 120\~180 ㎎/d <mark style="color:blue;">\[헤르벤]</mark>, verapamil 120\~360 ㎎/d <mark style="color:blue;">\[이솦틴]</mark> (☞ [CCB](../225_/095_-hypertension.md#calcium-ca-channel-blocker-ccb))
 
 **β-차단제 금기·주의**
 
 * 안정 시 맥박 ＜55회/분, 2-3도 AV block
-* 중증 천식·COPD (기관지경련 위험 — 불가피 시 β₁-선택성 약물 저용량 사용)
+* 중증 천식·COPD (기관지경련 위험 - 불가피 시 β₁-선택성 약물 저용량 사용)
 * 증상성 저혈압
 
 **non-DHP CCB 금기·주의**
 
-* HFrEF (심수축 기능 저하 심부전) — 금기
+* HFrEF (심수축 기능 저하 심부전) - 금기
 * 2-3도 AV block
 * 중증 저혈압
 
-※ pre-excited AF — AV node 차단제 및 IV amiodarone 금기; pre-excitation이 동반된 AF 환자에게 β-차단제·non-DHP CCB·digoxin·adenosine 등 AV node 차단제 또는 IV amiodarone을 투여하면 부전도로(accessory pathway) 전도가 촉진되어 매우 빠른 심실 반응 및 심실세동(VF)으로 이행할 위험이 있음 → 즉시 응급 의뢰
+※ pre-excited AF - AV node 차단제 및 IV amiodarone 금기; pre-excitation이 동반된 AF 환자에게 β-차단제·non-DHP CCB·digoxin·adenosine 등 AV node 차단제 또는 IV amiodarone을 투여하면 부전도로(accessory pathway) 전도가 촉진되어 매우 빠른 심실 반응 및 심실세동(VF)으로 이행할 위험이 있음 → 즉시 응급 의뢰
 
 ***
 
@@ -239,7 +239,7 @@ R00.2 두근거림
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 기능성 두근거림 — 불안·스트레스 유발 (필요 시 단기 대증)**
+> **처방례 1. 기능성 두근거림 - 불안·스트레스 유발 (필요 시 단기 대증)**
 >
 > ```
 > 인데놀 10 ㎎/T 2T 필요시
@@ -250,7 +250,7 @@ R00.2 두근거림
 >
 > _✽항불안제는 가능한 최소 유효용량으로 가급적 1~2주 이내 단기 bridge 목적으로 사용하고 반복 처방을 피한다. 반복·만성 불안이 있으면_ (☞ [불안장애](../231_/anxiety-disorder.md)) _참조하여 SSRI/CBT 기반 치료로 전환하며, 중증·난치성 또는 진단이 불분명한 경우 정신건강의학과 협진을 고려_
 
-> **처방례 2. 재발성 AVNRT/orthodromic AVRT — ablation을 원하지 않거나 시행하기 어려운 경우의 약물 치료**
+> **처방례 2. 재발성 AVNRT/orthodromic AVRT - ablation을 원하지 않거나 시행하기 어려운 경우의 약물 치료**
 >
 > ```
 > 헤르벤 서방정 90 ㎎/T 2T #2
@@ -258,7 +258,7 @@ R00.2 두근거림
 >
 > _✽재발성·증상성 AVNRT/AVRT에서는 catheter ablation이 근치적 우선 치료이나, 환자가 시술을 원하지 않거나 접근이 어려운 경우 diltiazem 등으로 재발 빈도·심박수 조절을 고려. HFrEF에는 non-DHP CCB를 사용하지 않으며, 천식·COPD에서는 non-DHP CCB 또는 임상 상황에 따라 β₁-선택성 β-차단제를 고려할 수 있다. 독립적인 불안 증상이 뚜렷할 때만 항불안제(예: lorazepam 0.5 ㎎, 가급적 1~2주 이내 단기)를 조건부로 병용하며, SVT 자체에 대한 표준 병용요법은 아니다_
 
-> **처방례 3. 확인된 심방세동(AF), 혈역학적으로 안정 · LVEF 정상 — 심박수 조절**
+> **처방례 3. 확인된 심방세동(AF), 혈역학적으로 안정 · LVEF 정상 - 심박수 조절**
 >
 > ```
 > 콩코르정 2.5 ㎎/T 1T qd
@@ -268,7 +268,7 @@ R00.2 두근거림
 
 **인데놀(Propranolol) 처방 시 주의**
 
-* 비선택적 β-차단제로 기관지경련 위험 — 천식·COPD 환자에게는 원칙적으로 금기; 불가피하게 사용해야 하는 경우 [β₁-선택성 약물](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb)(예: bisoprolol)을 저용량부터 사용하고 호흡기 증상을 면밀히 모니터링
+* 비선택적 β-차단제로 기관지경련 위험 - 천식·COPD 환자에게는 원칙적으로 금기; 불가피하게 사용해야 하는 경우 [β₁-선택성 약물](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb)(예: bisoprolol)을 저용량부터 사용하고 호흡기 증상을 면밀히 모니터링
 * 투여 전 및 추적 시 맥박 확인 - 안정 시 맥박 ＜55회/분이면 용량 감량 또는 보류
 * 당뇨 환자 주의 : β-차단제(특히 비선택적 인데놀)는 저혈당 시 나타나는 두근거림·떨림 등의 경고 증상을 은폐할 수 있음 - 당뇨 환자에서 설명 필수
 * 임산부·수유부, 중증 말초혈관질환, Raynaud 현상에도 주의
@@ -277,21 +277,21 @@ R00.2 두근거림
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **propranolol (인데놀) · bisoprolol (콩코르) — β-차단제**
+> **propranolol (인데놀) · bisoprolol (콩코르) - β-차단제**
 >
 > * 약을 갑자기 끊으면 심박수가 급격히 빨라지거나 혈압이 오를 수 있습니다. 중단이 필요하면 반드시 의사와 상의하여 서서히 줄이십시오.
 > * 맥박이 분당 55회 미만으로 느려지거나 심한 어지럼, 호흡 곤란이 생기면 즉시 병원을 방문하십시오.
 > * 천식 또는 만성 폐쇄성 폐질환(COPD)이 있으신 분은 반드시 의사에게 알려 주십시오.
 > * **당뇨 환자** : 이 약은 저혈당 시 나타나는 두근거림·떨림 같은 경고 증상을 느끼지 못하게 할 수 있습니다. 혈당 측정을 더 자주 하시고, 식은땀·의식 변화 등 다른 저혈당 증상에 주의하십시오.
 
-> **diltiazem (헤르벤) · verapamil (이솝틴) — 칼슘채널차단제**
+> **diltiazem (헤르벤) · verapamil (이솝틴) - 칼슘채널차단제**
 >
 > * 어지럼, 저혈압 증상(갑자기 일어날 때 핑 도는 느낌)이 생길 수 있으므로 천천히 움직이십시오.
 > * 발목 부종이 새로 생기거나 심해지면 알려 주십시오.
 > * 자몽 주스는 약 농도를 높여 부작용을 악화시킬 수 있으므로 피하십시오.
-> * **심부전(좌심실 기능 저하)** 이 있으신 분은 반드시 의사에게 알려 주십시오 — 이 계열 약은 해당 상황에서 사용하지 않습니다.
+> * **심부전(좌심실 기능 저하)** 이 있으신 분은 반드시 의사에게 알려 주십시오 - 이 계열 약은 해당 상황에서 사용하지 않습니다.
 
-> **alprazolam (자낙스) · lorazepam (아티반) — 항불안제**
+> **alprazolam (자낙스) · lorazepam (아티반) - 항불안제**
 >
 > * 졸음, 집중력 저하가 생길 수 있으므로 운전이나 기계 조작을 삼가 주십시오.
 > * 의사 처방 없이 용량을 늘리거나 임의로 중단하지 마십시오. 장기 복용 시 의존성이 생길 수 있습니다.
