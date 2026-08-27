@@ -1,6 +1,6 @@
 # 안과계 약제 Ophthalmic Medications
 
-## <mark style="color:green;">일반 사항 테스트</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 * 안과계 약제는 점안액(eye drops), 안연고(ointment), 안젤(gel), 경구제로 구분됨
 * 1차 진료에서 처방하는 안약제의 대부분은 점안액·안연고이며, 전신 흡수에 의한 부작용에 주의가 필요함
