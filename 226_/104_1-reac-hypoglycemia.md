@@ -1,10 +1,10 @@
 # 반응성 저혈당 (식후 저혈당) Reactive Hypoglycemia, Postprandial Hypoglycemia
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 테스트</mark>
 
 * 정의 : 식사 후 과도한 인슐린 분비로 인하여 대개 식후 1\~4시간 사이에 발생하는 저혈당
 * 다른 이름 : postprandial hypoglycemia, alimentary hypoglycemia
-* 분류&#x20;
+* 분류
   1. 특발성 반응성 저혈당 - 가장 흔함
   2. 위 수술 후 반응성 저혈당 - dumping syndrome 관련
   3. 초기 2형당뇨병·내당능장애에 동반된 반응성 저혈당
@@ -35,7 +35,7 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 반응성 저혈당 중 의식 소실·경련 등 중증(Level 3) 증상 동반&#x20;
+* 반응성 저혈당 중 의식 소실·경련 등 중증(Level 3) 증상 동반
 * 공복 상태(식사와 무관)에서도 반복되는 심한 저혈당
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
