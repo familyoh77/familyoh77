@@ -182,6 +182,8 @@ graph TD
 
 <table><thead><tr><th width="190">약제</th><th width="230">2026년 8월 국내 허가 범위</th><th width="170">일반적 허가 용량</th><th>비고</th></tr></thead><tbody><tr><td>Baricitinib <mark style="color:blue;">\[올루미언트]</mark></td><td>중증 원형탈모증 : 성인 및 만 12세 이상이면서 체중 30 ㎏ 이상인 청소년</td><td>통상 4 ㎎ qd; 고령자·만성/재발성 감염 위험 등에서는 2 ㎎ 고려</td><td>King 등이 2건의 3상 임상시험(BRAVE-AA1·BRAVE-AA2)을 보고함(NEJM 2022). 성인 중증 원형탈모증은 2026-07-01부터 조건부 급여</td></tr><tr><td>Ritlecitinib <mark style="color:blue;">\[리트풀로캡슐 50 ㎎]</mark></td><td>성인 및 만 12세 이상 청소년의 중증 원형탈모증</td><td>50 ㎎ qd</td><td>2024년 9월 국내 허가. 효과·위험을 정기 재평가하며 36주까지 치료 이득이 없으면 중단 고려(국내 제품설명서, 2025-05-19 개정)</td></tr><tr><td>Deuruxolitinib(Leqselvi)</td><td>국내 미허가 (2026년 8월 기준)</td><td>—</td><td>미국·영국에서는 승인됨; CYP2C9 대사저하 환자는 투여 권장되지 않음</td></tr><tr><td>Tofacitinib, ruxolitinib 등</td><td>원형탈모증 국내 허가 치료제가 아님</td><td>—</td><td>off-label 사용; 허가된 JAK 억제제와 구분. 국소 JAK 억제제의 근거도 불충분</td></tr></tbody></table>
 
+* 리틀레시티닙 50 ㎎ qd의 공개 연장연구에서 36\~38개월 SALT ≤20 달성률은 관찰자료 65.1%, LOCF 47.1%였고 1년 반응자의 약 88\~90%가 3년에도 반응을 유지했으나, 연구 중단률이 높아 장기 효과는 이를 고려하여 해석한다(ALLEGRO-LT, 2026).
+
 {% hint style="info" %}
 **바리시티닙 성인 중증 원형탈모증 급여 기준 (2026-07-01 시행)**\
 전신 corticosteroid 또는 ciclosporin 등 기존 치료를 3개월 이상 시행했으나 SALT가 30% 이상 감소하지 않았거나 부작용 등으로 지속할 수 없고, ① SALT ≥50 또는 ② 20≤SALT<50이면서 눈썹 및 속눈썹 모두에 탈락 또는 명확한 단절이 있는 경우에 인정된다. 36주차에 SALT ≤20이어야 계속 투여가 인정되고 이후 6개월마다 평가하며 최대 2년까지 인정된다.\
