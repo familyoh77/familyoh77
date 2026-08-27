@@ -1,6 +1,6 @@
 # 위장 질환의 감별
 
-## <mark style="color:green;">위장관 증상 접근</mark>
+## <mark style="color:green;">위장관 증상 접근  테스트</mark>
 
 위장관 증상을 체계적으로 평가할 때는 다음 5단계 순서로 접근한다.
 

@@ -1,6 +1,6 @@
 # 소화기계 약제
 
-## <mark style="color:green;">처방 안전 요약</mark>
+## <mark style="color:green;">처방 안전 요약  테스트</mark>
 
 ### <mark style="color:orange;">위험군별 주의 약제</mark>
 
@@ -293,7 +293,7 @@
 ### <mark style="color:orange;">진경제 (항콜린제, 항무스카린제)</mark>
 
 * 작용 : 복통·복부 불편감 호전
-* 용법 : 통증 발생 전 또는 식전 30분 복용 (☞ [진경제](073_.md#gi-antispasmodic-agent))
+* 용법 : 통증 발생 전 또는 식전 30분 복용 (☞ [진경제](073_gidrugs.md#gi-antispasmodic-agent))
 
 ### <mark style="color:orange;">5-HT3 antagonist</mark>
 
@@ -303,7 +303,7 @@
 
 ### <mark style="color:orange;">Probiotics</mark>
 
-* 변비·설사 환자의 일부에서 효과; 신뢰할만한 연구 부족 (☞ [Probiotics](073_.md#probiotics))
+* 변비·설사 환자의 일부에서 효과; 신뢰할만한 연구 부족 (☞ [Probiotics](073_gidrugs.md#probiotics))
 
 ### <mark style="color:orange;">흡착제</mark>
 
