@@ -65,7 +65,7 @@
   * [혀 통증·구강 작열통 Glossodynia, Burning Mouth Syndrome](222_/057_-glossodynia-burning-mouth-syndrome.md)
   * [목쉼 Hoarseness, Dysphonia](222_/058_-hoarseness.md)
 * [Part 4. 호흡기계 질환](223_/README.md)
-  * [호흡기 질환의 임상적 진단](223_/059_.md)
+  * [호흡기 질환의 임상적 진단](223_/059_respdz.md)
   * [감기 Common Cold](223_/060_-common-cold.md)
   * [급성 인두염 Acute Pharyngitis](223_/061_-acute-pharyngitis.md)
   * [인후두역류 Laryngopharyngeal Reflux, LPR](223_/062_-laryngopharyngeal-reflux-lpr.md)
