@@ -1,6 +1,6 @@
 # 피부 병소의 표현
 
-## <mark style="color:green;">피부 병변의 기술</mark>
+## <mark style="color:green;">피부 병변의 기술 테스트</mark>
 
 ### <mark style="color:orange;">Primary (Basic) Lesion</mark>
 
@@ -12,7 +12,7 @@
 
 _✽병소의 크기 기준은 출처에 따라 다르며, 일부 교과서는 5 ㎜를 경계로 macule/patch, papule/plaque, vesicle/bulla를 구분한다. 여기서는 국제 피부병소 용어에서 흔히 사용하는 1 ㎝ 기준을 기본으로 기술하며, nodule의 하한 기준 역시 문헌에 따라 0.5\~2 ㎝로 다양하게 제시된다._\
 _✽'반(patch)'은 일부 국내 문헌에서 '반점'과 혼용되기도 하나, 본문에서는 macule(반점)과 구분되는 1 ㎝ 초과의 평면 병소를 지칭함._\
-_Ref. Rakel Family medicine 9th ed. 2016. Table 33-1._
+_&#x52;ef. Rakel Family medicine 9th ed. 2016. Table 33-1._
 
 * 모세혈관확장(telangiectasia) : 확장된 표재성 혈관
 * 자반(purpura) : 피부 또는 점막 내 출혈로 인한 비창백성 자색 병소를 포괄하는 용어
