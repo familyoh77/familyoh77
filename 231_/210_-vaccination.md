@@ -303,7 +303,7 @@
 
 ***
 
-## <mark style="color:green;">￭ 결핵 BCG</mark>
+## ■ 결핵 BCG
 
 * 생백신; <mark style="color:blue;">\[엑세스파마 피내용 건조BCG, 한국백신 경피용 건조BCG]</mark>
 
@@ -365,7 +365,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ B형간염 HepB</mark>
+## ■ B형간염 HepB
 
 * 불활성화 백신; <mark style="color:blue;">\[SK 헤파뮨, LG 유박스비]</mark>
 
@@ -446,7 +446,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ A형간염 HepA</mark>
+## ■ A형간염 HepA
 
 * 불활성화 백신; <mark style="color:blue;">\[GSK 하브릭스, MSD 박타, 보령 A형간염, 사노피 아박심]</mark>
 
@@ -507,7 +507,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 디프테리아 DTaP</mark>
+## ■ 디프테리아 DTaP
 
 * 불활성화 백신; <mark style="color:blue;">\[보령 DTaP]</mark>
   * DTaP-IPV <mark style="color:blue;">\[사노피 테트락심, GSK 인판릭스 IPV, 보령DTaP IPV]</mark>
@@ -580,7 +580,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 파상풍 DTaP</mark>
+## ■ 파상풍 DTaP
 
 * 불활성화 백신; Tdap <mark style="color:blue;">\[GSK 부스트릭스, 사노피 아다셀]</mark>, Td <mark style="color:blue;">\[녹십자 Td, 엑세스파마 Td부스터]</mark>
 
@@ -602,7 +602,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 백일해 DTaP</mark>
+## ■ 백일해 DTaP
 
 * 불활성화 백신
 
@@ -626,7 +626,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 로타바이러스 Rotavirus</mark>
+## ■ 로타바이러스 Rotavirus
 
 * 생백신; 5가(G1\~4, G9) <mark style="color:blue;">\[MSD 로타텍]</mark>, 1가(G1; 5가 백신 대상의 90% 해당) <mark style="color:blue;">\[GSK 로타릭스]</mark>
 
@@ -669,7 +669,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 폴리오 (주사용) IPV</mark>
+## ■ 폴리오 (주사용) IPV
 
 * 불활성화 백신; <mark style="color:blue;">\[보령 아이피박스]</mark>
   * DTaP-IPV <mark style="color:blue;">\[사노피 테트락심, GSK 인판릭스 IPV, 보령DTaP IPV]</mark>
@@ -723,7 +723,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ b형 헤모필루스 인플루엔자 Haemophilus influenzae type b</mark>
+## ■ b형 헤모필루스 인플루엔자 Haemophilus influenzae type b
 
 * 불활성화 백신; <mark style="color:blue;">\[LG 유히브]</mark>
   * DTaP/IPV/Hib <mark style="color:blue;">\[사노피 펜탁심, GSK 인판릭스 IPV Hib]</mark>, DTaP-IPV/Hib-hepB <mark style="color:blue;">\[사노피 헥사심]</mark>
@@ -772,7 +772,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 홍역 MMR</mark>
+## ■ 홍역 MMR
 
 * 생백신; <mark style="color:blue;">\[MSD 엠엠알Ⅱ, GSK 프리오릭스]</mark>
 
@@ -825,7 +825,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 유행성이하선염(볼거리) MMR</mark>
+## ■ 유행성이하선염(볼거리) MMR
 
 #### <mark style="color:$primary;">접종 대상, 접종 시기 및 방법, 금기 및 주의 사항, 이상 반응</mark>
 
@@ -849,7 +849,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 풍진 MMR</mark>
+## ■ 풍진 MMR
 
 #### <mark style="color:$primary;">접종 대상, 접종 시기 및 방법</mark>
 
@@ -875,7 +875,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 수두 Varicella</mark>
+## ■ 수두 Varicella
 
 * 생백신; <mark style="color:blue;">\[녹십자 배리셀라, 보란파마 바리-엘, SK 스카이바리셀라]</mark>
 
@@ -921,7 +921,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 대상포진 Herpes zoster</mark>
+## ■ 대상포진 Herpes zoster
 
 * ZVL : 약독화 생백신; <mark style="color:blue;">\[MSD 조스타박스, SK 스카이조스터]</mark>
 * RZV : 재조합 불활성화 백신; <mark style="color:blue;">\[GSK 싱그릭스]</mark>
@@ -983,7 +983,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 인플루엔자 Influenza</mark>
+## ■ 인플루엔자 Influenza
 
 * 생백신 또는 불활성화 백신
 
@@ -1094,7 +1094,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 일본뇌염 Japanese Encephalitis</mark>
+## ■ 일본뇌염 Japanese Encephalitis
 
 * 불활성화 백신(사백신); 베로세포 유래 <mark style="color:blue;">\[GC녹십자/보령 세포배양일본뇌염백신]</mark>
 * 약독화 생백신; 햄스터 신장세포 유래(SA14-14-2주) <mark style="color:blue;">\[한국백신 씨디제박스]</mark>
@@ -1156,7 +1156,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 폐렴구균 Pneumococcal Pneumonia</mark>
+## ■ 폐렴구균 Pneumococcal Pneumonia
 
 * 불활성화 백신; PCV13 <mark style="color:blue;">\[화이자 프리베나13]</mark>, PCV15 <mark style="color:blue;">\[MSD 박스뉴반스]</mark>, PCV20 <mark style="color:blue;">\[화이자 프리베나20]</mark>, PCV21 <mark style="color:blue;">\[MSD 캡바크시브]</mark> PPSV23 <mark style="color:blue;">\[MSD 프로디악스-23]</mark>
 * 국내 국가사업과 CDC 임상 권고의 백신 종류·대상·지원 범위가 다름
@@ -1194,7 +1194,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 사람유두종바이러스 HPV</mark>
+## ■ 사람유두종바이러스 HPV
 
 * 불활성화 백신; 2가 <mark style="color:blue;">\[GSK 서바릭스]</mark>, 4가 <mark style="color:blue;">\[MSD 가다실]</mark>, 9가 <mark style="color:blue;">\[가다실9]</mark>
 
@@ -1245,7 +1245,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 수막구균 감염증 Meningococcal disease</mark>
+## ■ 수막구균 감염증 Meningococcal disease
 
 * 수막구균 4가 단백접합백신(MenACWY: 혈청군 A, C, W, Y)
   * 국내 허가 제품: 멘비오(Menveo), 메낙트라(Menactra)
@@ -1311,7 +1311,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 장티푸스 (주사용) Typhoid</mark>
+## ■ 장티푸스 (주사용) Typhoid
 
 * 불활성화 백신; <mark style="color:blue;">\[보령 지로티프]</mark>
 * 생백신; <mark style="color:blue;">\[대웅 비보티프]</mark>
@@ -1352,7 +1352,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ RSV Respiratory syncytial virus</mark>
+## ■ RSV Respiratory syncytial virus
 
 * 영유아용 nirsevimab은 백신이 아니라 장기지속 단클론항체임. 성인·임신부용 RSV 백신과 구분해야 함
 
@@ -1393,7 +1393,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 ***
 
-## <mark style="color:green;">￭ 코로나19 COVID-19</mark>
+## ■ 코로나19 COVID-19
 
 * 2026\~2027절기 국내 국가예방접종사업은 **XFG 균주 백신**을 사용함
 * 질병관리청 조달계약에서 화이자·모더나 XFG 백신이 확인됨. 연령별 사용 제품·용량과 12세 미만 세부 일정은 후속 사업지침 및 제품별 국내 허가사항을 확인
@@ -1456,7 +1456,7 @@ _<mark style="color:$info;">2026\~2027절기 사업계획 기준. 대상·제품
 
 ***
 
-## <mark style="color:green;">￭ 말라리아 Malaria</mark>
+## ■ 말라리아 Malaria
 
 * 여행 지역의 말라리아 유행 및 항말라리아제 내성 해당 여부의 확인을 요함 (☞ \[질병관리청] [해외감염병정보](http://xn--now-po7lf48dlsm0ya109f.kr/nqs/oidnow/infect/precaution.do;jsessionid=bLCzlaThEH4kkhX-HrW5721vNqdbI98qMUdxu9Ze.nqs02))
 * 단기 여행자는 여행 전 및 여행 후 복용 기간이 짧은 약제가 유리하며, 장기 여행자는 주 1회 복용 약제가 유리함
@@ -1535,7 +1535,7 @@ _<mark style="color:$info;">2026\~2027절기 사업계획 기준. 대상·제품
 
 ***
 
-## <mark style="color:green;">￭ 황열 Yellow Fever</mark>
+## ■ 황열 Yellow Fever
 
 * 생백신
 
@@ -1565,7 +1565,7 @@ _<mark style="color:$info;">2026\~2027절기 사업계획 기준. 대상·제품
 
 ***
 
-## <mark style="color:green;">￭ 콜레라 Cholera</mark>
+## ■ 콜레라 Cholera
 
 * 경구용 불활성화 백신
 
@@ -1599,7 +1599,7 @@ _<mark style="color:$info;">2026\~2027절기 사업계획 기준. 대상·제품
 
 ***
 
-## <mark style="color:green;">￭ 신증후군출혈열 Hantavirus</mark>
+## ■ 신증후군출혈열 Hantavirus
 
 * 불활화 백신; <mark style="color:blue;">\[한타박스]</mark>
 
@@ -1633,7 +1633,7 @@ _<mark style="color:$info;">2026\~2027절기 사업계획 기준. 대상·제품
 
 ***
 
-## <mark style="color:green;">￭ 공수병 Rabies</mark>
+## ■ 공수병 Rabies
 
 * 불활화 백신; <mark style="color:blue;">\[베로랍]</mark>
 
