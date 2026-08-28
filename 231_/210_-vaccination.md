@@ -3,7 +3,32 @@
 > **적용 원칙** : 국내 진료와 국가예방접종 비용지원은 질병관리청의 「2026년 국가예방접종 지침」과 해당 절기 사업지침을 우선 참조. CDC 일정은 국내 지침에 세부 권고가 없거나 해외여행·국외 접종력 평가가 필요한 경우의 참조(국내 허가사항·유통 백신·급여/지원 범위와 다를 수 있음). 절기 백신(인플루엔자·코로나19)과 국가사업 대상은 매년 바뀔 수 있으므로 접종 당일 예방접종도우미에서 다시 확인할 것을 권장함. (본 내용은2026년 8월 기준임)
 
 [<mark style="color:violet;">**결핵**</mark>](210_-vaccination.md#bcg)\
-[<mark style="color:violet;">**B형간염**</mark>](210_-vaccination.md#b-hepb)
+[<mark style="color:violet;">**B형간염**</mark>](210_-vaccination.md#b-hepb)\
+[<mark style="color:violet;">**A형간염**</mark>](210_-vaccination.md#a-hepa)\
+[<mark style="color:violet;">**디프테리아**</mark>](210_-vaccination.md#dtap)\
+[<mark style="color:violet;">**파상풍**</mark>](210_-vaccination.md#dtap-1)\
+[<mark style="color:violet;">**백일해**</mark>](210_-vaccination.md#dtap-2)\
+[<mark style="color:violet;">**로타바이러스**</mark>](210_-vaccination.md#rotavirus)\
+[<mark style="color:violet;">**폴리오 (주사용)**</mark>](210_-vaccination.md#ipv)\
+[<mark style="color:violet;">**b형 헤모필루스 인플루엔자**</mark>](210_-vaccination.md#b-haemophilus-influenzae-type-b)\
+[<mark style="color:violet;">**홍역**</mark>](210_-vaccination.md#mmr)\
+[<mark style="color:violet;">**유행성이하선염(볼거리)**</mark>](210_-vaccination.md#mmr-1)\
+[<mark style="color:violet;">**풍진**</mark>](210_-vaccination.md#mmr-2)\
+[<mark style="color:violet;">**수두**</mark>](210_-vaccination.md#varicella)\
+[<mark style="color:violet;">**대상포진**</mark>](210_-vaccination.md#herpes-zoster)\
+[<mark style="color:violet;">**인플루엔자**</mark>](210_-vaccination.md#influenza)\
+[<mark style="color:violet;">**일본뇌염**</mark>](210_-vaccination.md#japanese-encephalitis)\
+[<mark style="color:violet;">**폐렴구균**</mark>](210_-vaccination.md#pneumococcal-pneumonia)\
+[<mark style="color:violet;">**사람유두종바이러스**</mark>](210_-vaccination.md#hpv)\
+[<mark style="color:violet;">**수막구균 감염증**</mark>](210_-vaccination.md#meningococcal-disease)\
+[<mark style="color:violet;">**장티푸스 (주사용)**</mark>](210_-vaccination.md#typhoid)\
+[<mark style="color:violet;">**RSV**</mark>](210_-vaccination.md#rsv-respiratory-syncytial-virus)\
+[<mark style="color:violet;">**코로나19**</mark>](210_-vaccination.md#19-covid-19)\
+[<mark style="color:violet;">**말라리아**</mark>](210_-vaccination.md#malaria)\
+[<mark style="color:violet;">**황열**</mark>](210_-vaccination.md#yellow-fever)\
+[<mark style="color:violet;">**콜레라**</mark>](210_-vaccination.md#cholera)\
+[<mark style="color:violet;">**신증후군출혈열**</mark>](210_-vaccination.md#hantavirus)\
+[<mark style="color:violet;">**공수병**</mark>](210_-vaccination.md#rabies)
 
 
 
