@@ -76,7 +76,7 @@
   * [만성 기관지염 Chronic Bronchitis](223_/067_-chronic-bronchitis.md)
   * [폐렴 Pneumonia](223_/068_-pneumonia.md)
   * [인플루엔자 Influenza](223_/069_-influenza.md)
-  * [코로나19 Covid-19 Infection](223_/19-covid-19-infection.md)
+  * [코로나19 Covid-19 Infection](223_/070_1_-covid-19.md)
   * [결핵 Tuberculosis](223_/070_-tuberculosis.md)
   * [천식 Asthma](223_/071_-asthma.md)
   * [만성 폐쇄성 폐질환 COPD](223_/072_-copd.md)
