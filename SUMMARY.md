@@ -206,6 +206,7 @@
   * [원형탈모증 Alopecia Areata](229_/187_-alopecia-areata.md)
 * [Part 11. 기타](230_/README.md)
   * [아나필락시스 Anaphylaxis](230_/188_-anaphylaxis.md)
+  * [심폐소생술 CPR](230_/cpr.md)
   * [음주, 알코올 사용 장애 Alcohol Use Disorder, AUD](230_/189_-alcohol-use-disorder-aud.md)
   * [흡연 Smoking](230_/190_-smoking.md)
   * [비만 Obesity](230_/191_-obesity.md)
