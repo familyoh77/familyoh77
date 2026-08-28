@@ -229,7 +229,7 @@
   * [고소증 High Altitude Sickness](230_/209_-high-altitude-sickness.md)
 * [Part 12. 부록](231_/README.md)
   * [예방접종 Vaccination](231_/210_-vaccination.md)
-  * [심폐소생술 CPR](231_/cpr.md)
+  * [심폐소생술 CPR](231_/211_1-cpr.md)
   * [국소 스테로이드 Topical Corticosteroids](231_/211_-topical-corticosteroids.md)
   * [항히스타민제 Antihistamines](231_/212_-antihistamines.md)
   * [항우울제, 항불안제 Antidepressants & Anxiolytics](231_/213_-antidepressants-and-anxiolytics.md)
