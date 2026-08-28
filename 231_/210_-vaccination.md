@@ -2,6 +2,13 @@
 
 > **적용 원칙** : 국내 진료와 국가예방접종 비용지원은 질병관리청의 「2026년 국가예방접종 지침」과 해당 절기 사업지침을 우선 참조. CDC 일정은 국내 지침에 세부 권고가 없거나 해외여행·국외 접종력 평가가 필요한 경우의 참조(국내 허가사항·유통 백신·급여/지원 범위와 다를 수 있음). 절기 백신(인플루엔자·코로나19)과 국가사업 대상은 매년 바뀔 수 있으므로 접종 당일 예방접종도우미에서 다시 확인할 것을 권장함. (본 내용은2026년 8월 기준임)
 
+[<mark style="color:violet;">**결핵**</mark>](210_-vaccination.md#bcg)\
+[<mark style="color:violet;">**B형간염**</mark>](210_-vaccination.md#b-hepb)
+
+
+
+
+
 #### <mark style="color:$primary;">예방접종 종합 일정표</mark>
 
 * \[질병관리청] [예방접종도우미](https://nip.kdca.go.kr/irhp/index.jsp) > 예방접종 정보 > 예방접종 알아보기 > [표준 예방접종 일정표](https://nip.kdca.go.kr/irhp/infm/goVcntInfo.do?menuLv=1\&menuCd=115)
