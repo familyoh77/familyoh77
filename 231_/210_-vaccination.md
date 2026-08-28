@@ -23,7 +23,7 @@
 
 ***
 
-## <mark style="color:green;">■ 일반 사항</mark>
+## <mark style="color:green;">일반 사항</mark>
 
 ### <mark style="color:orange;">제조 방법에 따른 백신의 분류</mark>
 
