@@ -21,7 +21,7 @@
   * [편두통 Migraine](221_/016_-migraine.md)
   * [긴장형두통 Tension Type Headache, TTHA](221_/017_-tension-type-headache-ttha.md)
   * [만성 두통 Chronic Headache](221_/018_-chronic-headache.md)
-  * [경부인성두통 Cervicogenic headache](221_/019_-cervicogenic-headache.md)
+  * [경추성두통 Cervicogenic headache](221_/019_-cervicogenic-headache.md)
   * [어지럼증 Dizziness](221_/020_-dizziness.md)
   * [실신 Syncope](221_/021_-syncope.md)
   * [반사성 실신 Reflex Syncope, Neurally mediated Syncope](221_/022_-reflex-syncope-neurally-mediated-syncope.md)
