@@ -193,45 +193,6 @@ flowchart TD
 
 ***
 
-```mermaid
-flowchart TD
-    A([비암성 통증 - Opioid 고려?]) --> B[시작 전 필수 확인]
-    B --> B1[·비약물 + \nnon-opioid 치료 실패\n·기능 저하 명확 ADL/work\n·통증 유형 재확인]
-    B --> B2[고위험 인자]
-    B2 --> BH[·OUD 병력/BZD 사용\n·수면무호흡/\n고령·낙상 위험\n·간·신기능 저하]
-    BH -->|HIGH RISK| C[회피 또는 \n전문의 의뢰]
-    B1 & B2 -->|통과| D[·치료 목표 문서화\n·임상적으로 \n의미 있는 통증 감소\n·기능 개선 구체화\n·실패 시 중단 계획]
-    D --> E[초기 처방\nIR 제제만 사용\n5–10 MME/회\n20–30 MME/d 이하]
-    E --> F[MME 및 위험도 확인]
-    F --> F1["&lt; 50 MME/d \n→ 최소 유효 용량 유지"]
-    F --> F2["≥ 50 MME/d 고려 \n→ 증량 전 이득·위험 재평가"]
-    F --> F3["≥ 90 MME/d \n→ 가급적 회피"]
-    F1 & F2 & F3 --> G[1–4주 후 재평가]
-    G --> H[반응 평가]
-    H -->|Good| I[유지 또는 Taper 고려]
-    H -->|Partial| J[5–10 MME씩 소폭 증량]
-    H -->|No response| K[중단 또는 계열 전환]
-    E --> L[Naloxone 제공 고려?]
-    L --> L1[≥50 MME/day\n호흡기 질환\nBZD/gabapentinoid 병용\n과거 overdose]
-    L1 --> M[Naloxone 제공/처방 고려]
-    I --> N[장기 사용 종료 → Tapering]
-    N --> N1[">1년: 월 10% 감량\n수주~수개월: 주 10% 감량\n단기&lt;4주: 수일간 빠른 taper"]
-    N1 --> O[주의: Abrupt stop 금지\n Rapid taper 금지]
-    style C fill:#f96,stroke:#e65100
-    style O fill:#f96,stroke:#e65100
-    style M fill:#e8f5e9,stroke:#388e3c
-    style B fill:#fff59d,stroke:#f9a825,stroke-width:2px
-    style B2 fill:#fff59d,stroke:#f9a825,stroke-width:2px
-    style F fill:#fff59d,stroke:#f9a825,stroke-width:2px
-    style H fill:#fff59d,stroke:#f9a825,stroke-width:2px
-    style L fill:#fff59d,stroke:#f9a825,stroke-width:2px
-    style N fill:#fff59d,stroke:#f9a825,stroke-width:2px
-```
-
-<p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜</strong></p>
-
-***
-
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -262,27 +223,9 @@ flowchart TD
 
 #### <mark style="color:$primary;">Step 1. 통증 유형 분류 (Pain Typing)</mark>
 
-**침해수용성 통증 (Nociceptive)**
-
-* Actual tissue damage에 의해 발생; 근육통, 관절염, 외상, 염증성 통증
-* 특징 : 쑤심, 욱신거림, 국소적 (부위가 비교적 명확함)
-
-**신경병성 통증 (Neuropathic)**
-
-* 예 : 대상포진 후 신경통, 당뇨병성 신경병증
-* 특징 : 저림, 화끈거림, 전격통(전기 오는 듯함), 감각 이상
-* 선별 도구 : DN4 (4점 이상 시 신경병성 가능성 높음), painDETECT
-
-**노시플라스틱 통증 (Nociplastic)**
-
-* 조직 손상·신경 병변의 명확한 증거 없이 통각 처리(nociceptive processing)의 변화로 발생; nociceptive/neuropathic mechanism과 동반될 수 있음
-* 특징 : 광범위한 통증, 이상통증, 피로·수면 장애 동반
-* 예 : 섬유근통, 만성 원발성 요통, IBS
-* DN4/painDETECT는 nociplastic pain 진단·배제 도구가 아님(neuropathic 요소 평가 도구)
-
-**복합성 통증 (Mixed) :**
-
-* 척추관 협착증, 만성 요통(radiculopathy 동반), 암성 통증
+* 통증 기전(mechanism)에 따라 nociceptive/neuropathic/nociplastic/mixed로 분류 (정의·특징·감별 요점은 ☞ 위 일반 사항 > 유형 참조)
+* 선별 도구 : neuropathic 요소는 DN4(4점 이상 시 가능성 높음)·painDETECT로 평가; nociplastic pain은 이 도구들로 진단·배제하지 않고 임상 양상·병력으로 판단
+* 분류 결과에 따라 Step 2의 약물 선택이 결정됨
 
 #### <mark style="color:$primary;">Step 2. 강도 및 유형별 약물 선택</mark>
 
@@ -316,7 +259,7 @@ flowchart TD
 * 1차 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
 * 비-opioid 치료로 조절되지 않고 기능 장애가 명확한 경우 : NSAID ± weak opioid 신중 병용 (tramadol 포함 - opioid와 동일한 주의 적용)
 * 중증이거나 비-opioid 치료 실패, 기능 장애가 심각한 경우 : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid ± 보조 치료
-* WHO analgesic ladder(3단계)는 원래 암성 통증(cancer pain)을 위한 체계이며, 일반 비암성 통증에 그대로 적용하지 않음. 암성 통증에서는 비마약성 진통제 → 약한 opioid → 중등도\~중증 opioid의 단계적 접근을 적용
+* WHO 3단계 진통 사다리(analgesic ladder) : 1단계 비마약성 진통제(± 보조제) → 2단계 약한 opioid(± 비마약성 진통제 ± 보조제) → 3단계 중등도~중증 opioid(± 비마약성 진통제 ± 보조제)로 상향하는 체계. 원래 WHO가 암성 통증(cancer pain) 완화를 위해 제시한 모델이며, 비암성 통증에는 그대로 적용하지 않음 - 비암성 통증은 통증 강도만이 아니라 원인·기전·기능 장애·약물 위험도를 함께 고려하는 개별화된 접근이 원칙
 
 **신경병성 통증**
 
@@ -459,6 +402,47 @@ flowchart TD
 
 * 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용 (국내 허가사항 기준) <mark style="color:blue;">\[듀로제식디트랜스 패취]</mark>
 
+***
+
+```mermaid
+flowchart TD
+    A([비암성 통증 - Opioid 고려?]) --> B[시작 전 필수 확인]
+    B --> B1[·비약물 + \nnon-opioid 치료 실패\n·기능 저하 명확 ADL/work\n·통증 유형 재확인]
+    B --> B2[고위험 인자]
+    B2 --> BH[·OUD 병력/BZD 사용\n·수면무호흡/\n고령·낙상 위험\n·간·신기능 저하]
+    BH -->|HIGH RISK| C[회피 또는 \n전문의 의뢰]
+    B1 & B2 -->|통과| D[·치료 목표 문서화\n·임상적으로 \n의미 있는 통증 감소\n·기능 개선 구체화\n·실패 시 중단 계획]
+    D --> E[초기 처방\nIR 제제만 사용\n5–10 MME/회\n20–30 MME/d 이하]
+    E --> F[MME 및 위험도 확인]
+    F --> F1["&lt; 50 MME/d \n→ 최소 유효 용량 유지"]
+    F --> F2["≥ 50 MME/d 고려 \n→ 증량 전 이득·위험 재평가"]
+    F --> F3["≥ 90 MME/d \n→ 가급적 회피"]
+    F1 & F2 & F3 --> G[1–4주 후 재평가]
+    G --> H[반응 평가]
+    H -->|Good| I[유지 또는 Taper 고려]
+    H -->|Partial| J[5–10 MME씩 소폭 증량]
+    H -->|No response| K[중단 또는 계열 전환]
+    E --> L[Naloxone 제공 고려?]
+    L --> L1[≥50 MME/day\n호흡기 질환\nBZD/gabapentinoid 병용\n과거 overdose]
+    L1 --> M[Naloxone 제공/처방 고려]
+    I --> N[장기 사용 종료 → Tapering]
+    N --> N1[">1년: 월 10% 감량\n수주~수개월: 주 10% 감량\n단기&lt;4주: 수일간 빠른 taper"]
+    N1 --> O[주의: Abrupt stop 금지\n Rapid taper 금지]
+    style C fill:#f96,stroke:#e65100
+    style O fill:#f96,stroke:#e65100
+    style M fill:#e8f5e9,stroke:#388e3c
+    style B fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style B2 fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style F fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style H fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style L fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style N fill:#fff59d,stroke:#f9a825,stroke-width:2px
+```
+
+<p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜</strong></p>
+
+***
+
 #### <mark style="color:$success;">비암성 만성 통증에서 Opioid 처방 10대 원칙</mark>
 
   (대한통증학회, 2024)
@@ -525,7 +509,7 @@ flowchart TD
 * 처음 처방 시 및 장기 처방 중 환자 처방 이력을 주기적으로 검토
 * 적절한 용량 투여 여부 및 과다 복용 위험 약물과의 병용 여부를 지속 확인
 
-**통증 관리를 위해 일반적으로 처방되는 아편유사제에 대한 모르핀 용량(mg) 등가 용량**
+**통증 관리를 위해 일반적으로 처방되는 아편유사제에 대한 모르핀 용량(㎎) 등가 용량**
 
 * 아래 MME 값은 참고용 근사치이며, opioid rotation 시 처방 전환의 직접적인 등가 계산식으로 사용하지 않음. Fentanyl 등은 단순 비례 환산이 특히 위험
 * MME 전환은 추정치로 아편유사제 회전이나 전환을 고려 시 MME에서 계산된 용량을 그대로 사용하면 안 되고 불완전한 교차 내성과 아편유사제 약동학의 개별 가변성 때문에 과다 복용을 피하기 위해 계산된 MME 용량보다 상당히 낮은 용량으로 투여
@@ -601,11 +585,11 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 **왜 eGFR이 아닌 CrCl인가?** CKD 진단·병기 분류나 일반적인 신기능 모니터링에는 CKD-EPI 기반 **eGFR**이 표준임. 그러나 gabapentin·pregabalin은 허가 당시 약동학 연구가 **Cockcroft-Gault CrCl**로 설계되어 있어, 허가사항의 신기능별 용량표도 CrCl 기준으로 되어 있음. CrCl(체중 반영, 체표면적 보정 없음)과 eGFR(체중 미반영, 1.73m² 표준화)은 저체중 고령자·근육량이 적은 환자에서 값이 크게 벌어질 수 있어, eGFR로 대입하면 신기능을 과대평가하여 과다 처방으로 이어질 위험이 있음. 이 두 약제의 용량 조절에는 반드시 CrCl(Cockcroft-Gault)을 별도로 계산함
 {% endhint %}
 
-<table><thead><tr><th width="140">CrCl (mL/min)</th><th width="230">Gabapentin 1일 총 투여량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥80</td><td>900~2,400 mg/day</td><td>3회 분할</td></tr><tr><td>50~79</td><td>600~1,800 mg/day</td><td>3회 분할</td></tr><tr><td>30~49</td><td>300~900 mg/day</td><td>3회 분할</td></tr><tr><td>15~29</td><td>150~600 mg/day</td><td>3회 분할*</td></tr><tr><td>&#x3C;15</td><td>150~300 mg/day</td><td>3회 분할*, CrCl에 비례하여 추가 감량</td></tr><tr><td>혈액투석</td><td>초기 300~400 mg</td><td>4시간 혈액투석 후 200~300 mg 투여; 비투석일 미투여</td></tr></tbody></table>
+<table><thead><tr><th width="140">CrCl (mL/min)</th><th width="230">Gabapentin 1일 총 투여량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥80</td><td>900~2,400 ㎎/day</td><td>3회 분할</td></tr><tr><td>50~79</td><td>600~1,800 ㎎/day</td><td>3회 분할</td></tr><tr><td>30~49</td><td>300~900 ㎎/day</td><td>3회 분할</td></tr><tr><td>15~29</td><td>150~600 ㎎/day</td><td>3회 분할*</td></tr><tr><td>&#x3C;15</td><td>150~300 ㎎/day</td><td>3회 분할*, CrCl에 비례하여 추가 감량</td></tr><tr><td>혈액투석</td><td>초기 300~400 ㎎</td><td>4시간 혈액투석 후 200~300 ㎎ 투여; 비투석일 미투여</td></tr></tbody></table>
 
-_\* 150 mg/day에 해당하는 경우 100 mg × 3을 2일마다 투여 (뉴론틴캡슐 허가 기준)_
+_\* 150 ㎎/day에 해당하는 경우 100 ㎎ × 3을 2일마다 투여 (뉴론틴캡슐 허가 기준)_
 
-<table><thead><tr><th width="140">CrCl (mL/min)</th><th width="150">Pregabalin 시작용량</th><th width="150">최대용량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥60</td><td>150 mg/day</td><td>600 mg/day</td><td>2\~3회 분할(BID or TID)</td></tr><tr><td>30~&#x3C;60</td><td>75 mg/day</td><td>300 mg/day</td><td>2\~3회 분할(BID or TID)</td></tr><tr><td>15~&#x3C;30</td><td>25\~50 mg/day</td><td>150 mg/day</td><td>1\~2회 분할(QD or BID)</td></tr><tr><td>&#x3C;15</td><td>25 mg/day</td><td>75 mg/day</td><td>1일 1회(QD)</td></tr><tr><td>혈액투석 후 추가</td><td>25\~100 mg</td><td>단회 투여(혈액투석 4시간마다 시행 후 즉시 추가)</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="140">CrCl (mL/min)</th><th width="150">Pregabalin 시작용량</th><th width="150">최대용량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥60</td><td>150 ㎎/day</td><td>600 ㎎/day</td><td>2~3회 분할(BID or TID)</td></tr><tr><td>30~&#x3C;60</td><td>75 ㎎/day</td><td>300 ㎎/day</td><td>2~3회 분할(BID or TID)</td></tr><tr><td>15~&#x3C;30</td><td>25~50 ㎎/day</td><td>150 ㎎/day</td><td>1~2회 분할(QD or BID)</td></tr><tr><td>&#x3C;15</td><td>25 ㎎/day</td><td>75 ㎎/day</td><td>1일 1회(QD)</td></tr><tr><td>혈액투석 후 추가</td><td>25~100 ㎎</td><td>단회 투여(혈액투석 4시간마다 시행 후 즉시 추가)</td><td></td></tr></tbody></table>
 
 * Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위 1일 투여용량과 별도로 혈액투석 시행 후 보충 용량을 즉시 추가 투여 (국내 리리카 허가사항 기준)
 
