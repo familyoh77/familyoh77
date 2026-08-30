@@ -752,6 +752,20 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 
 ***
 
+### <mark style="color:red;">질병코드</mark>
+
+R52 달리 분류되지 않은 통증 Pain, NEC
+
+R52.0 급성 통증 Acute pain
+
+R52.1 만성 난치성 통증 Chronic intractable pain
+
+R52.2 기타 만성 통증 Other chronic pain
+
+R52.9 상세불명의 통증 Pain, unspecified
+
+***
+
 ## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 급성 통증**
