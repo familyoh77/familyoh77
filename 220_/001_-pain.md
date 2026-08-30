@@ -2,6 +2,24 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
+**통증 발생의 기본 원리**
+
+* 급성 통증은 조직 손상 또는 손상 위협을 알리는 보호적 신호로, 다음 단계를 거쳐 발생함
+  * 전환(transduction) : 유해 자극(기계적·열적·화학적 손상)이 말초 nociceptor를 자극하여 전기 신호로 전환
+  * 전달(transmission) : Aδ섬유(날카롭고 국소적인 통증)와 C섬유(둔하고 지속적인 통증)를 통해 척수 후각으로 전달된 후, 척수시상로를 거쳐 뇌로 전달
+  * 조절(modulation) : 척수 및 하행 억제 경로(노르에피네프린·세로토닌 매개)에서 신호가 증폭되거나 억제됨
+  * 인지(perception) : 대뇌피질에서 비로소 '통증'으로 인식되며, 이 단계에서 불안·과거 경험·파국화 등 정서적·인지적 요소가 실제 통증 경험에 영향을 줌
+* 만성 통증은 이 경로 자체가 변화(중추 감작 등)하여, 원래의 유해 자극이 약하거나 사라져도 통증이 지속·증폭되는 상태 (☞ 아래 Central sensitization 참조)
+
+**진통제는 원인 치료가 아닌 통증 신호 차단**
+
+* 대부분의 진통제는 통증을 유발한 근본 원인(조직 손상, 감염, 종양, 신경 압박 등)을 제거하지 않으며, 위 통증 경로 중 한 단계를 차단하여 증상만 완화하는 대증치료(symptomatic treatment)임
+  * NSAID·acetaminophen : 말초·중추에서 prostaglandin 합성 억제 → nociceptor 민감화 감소 (전환 단계 차단)
+  * 국소마취제·일부 항경련제(gabapentinoid, carbamazepine) : 신경세포막 Na⁺/Ca²⁺ 채널 차단 → 신호 전달 억제 (전달 단계 차단)
+  * Opioid : 척수·뇌의 opioid 수용체에 결합하여 통증 신호 전달을 억제하고 통증에 대한 정서적 반응을 완화 (전달·인지 단계 차단)
+  * 항우울제(TCA, SNRI) : 하행 억제 경로의 노르에피네프린·세로토닌 재흡수 억제 → 내인성 통증 조절 기능 강화 (조절 단계 강화)
+* 따라서 진통제로 증상이 조절되더라도 근본 원인 질환에 대한 평가·치료는 별도로 이루어져야 하며, "진통제에 반응한다"는 사실만으로 심각한 원인 질환을 배제할 수는 없음 (☞ 아래 Red Flags 참조)
+
 **평가**
 
 * 통증이 있는 환자에서는 초기 평가 후 통증 변화·기능·수면·정신사회적 영향을 주기적으로 평가; 다음 항목 포함
@@ -112,7 +130,7 @@ ICD-11(2019)은 만성 통증을 두 범주로 구분한다.\
 
 ```mermaid
 flowchart TD
-    A([통증 호소 환자]) --> B{Red Flag 평가}
+    A([통증 호소 환자]) --> B[Red Flag 평가]
     B -->|YES| C[응급 평가 또는 의뢰]
     B -->|NO| D[Pain Typing]
     D --> D1[Nociceptive\n쑤심·욱신거림·국소 압통]
@@ -126,21 +144,25 @@ flowchart TD
     D3 --> G2[비약물 CBT·운동 우선\n+ SNRI]
     D4 --> F2[NSAID +\nneuropathic agent 병용]
     E0 & F1 & G1 & G2 & F2 --> H[비약물 치료 병행]
-    H --> I{고위험 약물 체크}
+    H --> I[고위험 약물 체크]
     I -->|"Opioid+BZD ❌"| J[처방 수정]
     I -->|"NSAID+항응고제 ⚠"| J
     I -->|"Triple Whammy ⚠"| J
     I -->|"Gabapentinoid+Opioid ⚠"| J
     I -->|"이상 없음"| K[재평가]
-    K -->|급성: 1–2주\n만성: 2–4주| L{치료 반응}
+    K -->|급성: 1–2주\n만성: 2–4주| L[치료 반응]
     L -->|Good: 임상적으로 의미 있는 통증 감소 및/또는 기능 개선| M[유지 → Taper 계획]
     L -->|Poor| N[통증 유형 재평가\n→ 다른 계열 전환\n→ 병용 요법]
-    N --> O{2–3차 실패\nOpioid 필요 증가\n기능 저하 지속}
+    N --> O[2–3차 실패\nOpioid 필요 증가\n기능 저하 지속]
     O -->|YES| P[전문과 의뢰]
     style C fill:#f96,stroke:#e65100
     style P fill:#f96,stroke:#e65100
     style J fill:#fff3e0,stroke:#ff8f00
     style E0 fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style B fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style I fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style L fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style O fill:#fff59d,stroke:#f9a825,stroke-width:2px
 ```
 
 <p align="center"><strong>통증 관리 알고리즘</strong></p>
@@ -151,31 +173,37 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A([비암성 통증 - Opioid 고려?]) --> B{시작 전 필수 확인}
+    A([비암성 통증 - Opioid 고려?]) --> B[시작 전 필수 확인]
     B --> B1[비약물 + non-opioid 치료 실패\n기능 저하 명확 ADL/work\n통증 유형 재확인]
-    B --> B2{고위험 인자}
+    B --> B2[고위험 인자]
     B2 --> BH[OUD 병력 / BZD 사용\n수면무호흡 / 고령·낙상 위험\n간·신기능 저하]
     BH -->|HIGH RISK| C[회피 또는 전문의 의뢰]
     B1 & B2 -->|통과| D[치료 목표 문서화\n임상적으로 의미 있는 통증 감소\n기능 개선 구체화\n실패 시 중단 계획]
     D --> E[초기 처방\nIR 제제만 사용\n5–10 MME/회\n20–30 MME/d 이하]
-    E --> F{MME 및 위험도 확인}
+    E --> F[MME 및 위험도 확인]
     F --> F1["&lt; 50 MME/d → 최소 유효 용량 유지"]
     F --> F2["≥ 50 MME/d 고려 → 증량 전 이득·위험 재평가"]
     F --> F3["≥ 90 MME/d → 가급적 회피 (대한통증학회 2024)"]
     F1 & F2 & F3 --> G[1–4주 후 재평가]
-    G --> H{반응 평가}
+    G --> H[반응 평가]
     H -->|Good| I[유지 또는 Taper 고려]
     H -->|Partial| J[5–10 MME씩 소폭 증량]
     H -->|No response| K[중단 또는 계열 전환]
-    E --> L{Naloxone 제공 고려?}
+    E --> L[Naloxone 제공 고려?]
     L --> L1[≥50 MME/day\n호흡기 질환\nBZD/gabapentinoid 병용\n과거 overdose]
     L1 --> M[Naloxone 제공/처방 고려]
-    I --> N{장기 사용 종료 → Tapering}
+    I --> N[장기 사용 종료 → Tapering]
     N --> N1[">1년: 월 10% 감량\n수주~수개월: 주 10% 감량\n단기&lt;4주: 수일간 빠른 taper"]
     N1 --> O[주의: Abrupt stop 금지\n Rapid taper 금지]
     style C fill:#f96,stroke:#e65100
     style O fill:#f96,stroke:#e65100
     style M fill:#e8f5e9,stroke:#388e3c
+    style B fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style B2 fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style F fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style H fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style L fill:#fff59d,stroke:#f9a825,stroke-width:2px
+    style N fill:#fff59d,stroke:#f9a825,stroke-width:2px
 ```
 
 <p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜</strong></p>
