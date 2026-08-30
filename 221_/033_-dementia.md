@@ -17,7 +17,7 @@
 
 <mark style="color:$danger;">**즉각 의뢰 또는 이송**</mark>
 
-* **급성(수 시간\~수 일) 인지 기능 저하** : 섬망(delirium)을 우선 배제 — 원인(감염, 약물, 대사 장애 등) 탐색 및 즉각 처치
+* **급성(수 시간\~수 일) 인지 기능 저하** : 섬망(delirium)을 우선 배제 - 원인(감염, 약물, 대사 장애 등) 탐색 및 즉각 처치
 * 수 주\~수 개월 이내 급속히 진행하는 인지 기능 저하(Rapidly Progressive Dementia, RPD) → 즉각 상급 병원 전원; 감별: CJD(크로이츠펠트-야콥병, 프리온병), 자가면역 뇌염(anti-NMDAR 등), 부종양 증후군, 대사 장애, 뇌종양 등
 * 심한 망상, 환청 등 정신병적 증상 동반
 * 조기 발생 치매(＜65세)
@@ -80,7 +80,7 @@
 * 수정 불가 인자 : 고령, 가족력
 * 인지·정신 관련 : 경도인지장애(MCI), 수면 장애(수면무호흡증, 수면 분절, 수면 시간 단축)
 * 대사·혈관 관련 : 심방세동, 뇌졸중(허혈성/출혈성), 만성콩팥병, 고호모시스테인혈증
-* 유전·약물 : APOE ε4 대립유전자 보유, 항콜린제 사용 — 항콜린 부담(anticholinergic burden) 누적은 인지 저하 및 치매 위험을 높임; 대표 약제: TCA, oxybutynin, 1세대 항히스타민(diphenhydramine 등) → 고령 환자에서 정기적 복용 약물 점검 필수
+* 유전·약물 : APOE ε4 대립유전자 보유, 항콜린제 사용 - 항콜린 부담(anticholinergic burden) 누적은 인지 저하 및 치매 위험을 높임; 대표 약제: TCA, oxybutynin, 1세대 항히스타민(diphenhydramine 등) → 고령 환자에서 정기적 복용 약물 점검 필수
 
 _<mark style="color:$info;">✽ 2024년 Lancet Commission 보고서에서 기존 12가지 위험 인자에 미교정 시력 저하와 고LDL 콜레스테롤을 추가하여 총 14가지로 확대. 이 14가지 가변적 위험 인자를 모두 교정하면 이론적으로 치매의 약 45%를 예방 또는 지연시킬 수 있는 것으로 추산됨</mark>_
 
@@ -614,7 +614,7 @@ _✽ 1차 진료에서 항아밀로이드 치료 중인 환자가 두통, 혼돈
 * **brexpiprazole : 0.5 ㎎/d로 시작 → 1~2주마다 증량 → 유지 2~3 ㎎/d** <mark style="color:blue;">\[렉설티]</mark>
   * FDA 2023년 AD 관련 초조(agitation) 최초 승인; 국내는 주요 우울 장애·조현병 허가(AD agitation은 현재 off-label)
   * 추체외로 부작용 및 진정 부작용이 기존 항정신병제 대비 적은 편; 대사 부작용도 비교적 경미
-  * 루이체 치매에서의 안전성 자료는 제한적 — 주의 사용
+  * 루이체 치매에서의 안전성 자료는 제한적 - 주의 사용
 * clozapine : 25\~50 ㎎/d hs <mark style="color:blue;">\[클로자릴]</mark>
 * olanzapine : 2.5\~10 ㎎/d hs <mark style="color:blue;">\[자이프렉사]</mark>
 * risperidone : 0.25\~2 ㎎/d hs <mark style="color:blue;">\[리스페달]</mark>
@@ -662,7 +662,7 @@ _✽ 1차 진료에서 항아밀로이드 치료 중인 환자가 두통, 혼돈
 * suvorexant : 치매 관련 수면 장애에 대해 허가된 유일한 DORA 계열; 10\~20 ㎎ hs <mark style="color:blue;">\[벨솜라]</mark>
 * trazodone : 다른 수면제에 비하여 효과와 부작용이 적음; 25\~100 ㎎ <mark style="color:blue;">\[트리티코]</mark>
 * mirtazapine : 저용량으로 유의미한 수면 향상을 보임; 7.5\~15 ㎎ <mark style="color:blue;">\[레메론]</mark>
-* zolpidem : 5\~10 ㎎ <mark style="color:blue;">\[스틸녹스]</mark> — 가능하면 더 안전한 대안(DORA, trazodone) 우선 고려
+* zolpidem : 5\~10 ㎎ <mark style="color:blue;">\[스틸녹스]</mark> - 가능하면 더 안전한 대안(DORA, trazodone) 우선 고려
 * benzodiazepine은 주간 진정, 내성, 반동성 불면, 인지저하, 낙상, 섬망 등의 위험이 있고 diphenhydramine은 인지 기능에 대한 나쁜 영향, 남성 배뇨 장애를 유발할 수 있으므로 회피
 
 ***

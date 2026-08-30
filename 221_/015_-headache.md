@@ -13,8 +13,8 @@
 
 * Migraine (편두통)
 * Tension-type headache (긴장형두통)
-* Trigeminal autonomic cephalalgias (삼차자율신경두통) — 군발두통(cluster headache), paroxysmal hemicrania, SUNCT/SUNA, hemicrania continua 등
-* Other primary headache disorders (기타 1차성 두통) — primary cough/exercise/sexual activity headache, primary thunderclap headache, hypnic headache, new daily persistent headache(NDPH) 등
+* Trigeminal autonomic cephalalgias (삼차자율신경두통) - 군발두통(cluster headache), paroxysmal hemicrania, SUNCT/SUNA, hemicrania continua 등
+* Other primary headache disorders (기타 1차성 두통) - primary cough/exercise/sexual activity headache, primary thunderclap headache, hypnic headache, new daily persistent headache(NDPH) 등
   * ✽primary thunderclap headache는 SAH, RCVS, CVST, 동맥박리 등 이차성 원인을 충분히 배제한 후에만 진단
 
 **2차성 두통(Secondary headache)**
@@ -125,7 +125,7 @@ _<mark style="color:$info;">Ref. 대한두통학회. 편두통 예방치료 약�
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th>두통 특성</th><th>우선 고려 진단</th></tr></thead><tbody><tr><td>양측·압박감, 경증\~중등도, 구역·구토 없음</td><td><a href="017_-tension-type-headache-ttha.md">긴장형두통</a></td></tr><tr><td>편측 또는 양측·박동성, 구역/빛·소리공포, 4\~72시간</td><td><a href="016_-migraine.md">편두통</a></td></tr><tr><td>≥15일/월, &gt;3개월 지속</td><td><a href="018_-chronic-headache.md">만성 두통</a> — 만성편두통·만성긴장형두통·MOH 감별</td></tr><tr><td>편측·극심, 눈 주변, 눈물/콧물, 15\~180분</td><td>군발두통</td></tr><tr><td>단측, 경부 움직임으로 유발, ROM 감소</td><td><a href="019_-cervicogenic-headache.md">경추성두통</a></td></tr><tr><td>갑작스럽게 시작하여 1분 미만에 최고조</td><td>벼락두통 → SAH/RCVS 등 즉각 응급 평가</td></tr><tr><td>발열·경부 강직·의식 변화</td><td>수막염·뇌염 → 즉각 응급</td></tr></tbody></table>
+<table><thead><tr><th>두통 특성</th><th>우선 고려 진단</th></tr></thead><tbody><tr><td>양측·압박감, 경증\~중등도, 구역·구토 없음</td><td><a href="017_-tension-type-headache-ttha.md">긴장형두통</a></td></tr><tr><td>편측 또는 양측·박동성, 구역/빛·소리공포, 4\~72시간</td><td><a href="016_-migraine.md">편두통</a></td></tr><tr><td>≥15일/월, &gt;3개월 지속</td><td><a href="018_-chronic-headache.md">만성 두통</a> - 만성편두통·만성긴장형두통·MOH 감별</td></tr><tr><td>편측·극심, 눈 주변, 눈물/콧물, 15\~180분</td><td>군발두통</td></tr><tr><td>단측, 경부 움직임으로 유발, ROM 감소</td><td><a href="019_-cervicogenic-headache.md">경추성두통</a></td></tr><tr><td>갑작스럽게 시작하여 1분 미만에 최고조</td><td>벼락두통 → SAH/RCVS 등 즉각 응급 평가</td></tr><tr><td>발열·경부 강직·의식 변화</td><td>수막염·뇌염 → 즉각 응급</td></tr></tbody></table>
 
 <table><thead><tr><th width="104">두통 특성</th><th width="155">긴장형두통</th><th>편두통</th><th>군발두통</th></tr></thead><tbody><tr><td><strong>통증 부위</strong>¹⁾</td><td>양측</td><td>편측 또는 양측</td><td>편측(눈 주변, 눈 위, 머리/얼굴의 옆을 따라)</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감/조임(비박동성)</td><td>박동성</td><td>극심한 piercing/burning; 초조(agitation) 동반</td></tr><tr><td><strong>통증 세기</strong></td><td>경증\~중등증</td><td>중등증 이상</td><td>중증 이상</td></tr><tr><td><strong>생활에 미치는 영향</strong></td><td>일상 신체 활동에 의해 악화되지 않음</td><td>일상 신체 활동에 의하여 악화되거나 활동을 회피하게 됨</td><td>초조 또는 동요</td></tr><tr><td><strong>기타 증상</strong></td><td>구역·구토 없음; photophobia 또는 phonophobia 중 하나는 동반 가능</td><td>빛 &#x26;/or 소리에 대한 과민, 구역 &#x26;/or 구토, 조짐(aura)²⁾: 두통과 함께 또는 두통 없이 나타나는 증상들로서 •완전히 가역적이며 •≥5분에 걸쳐 나타나며 •5\~60분 동안 지속됨; <strong>전형적인 조짐 증상</strong> •시각: 번쩍거림 &#x26;/or 부분적 시력 저하 •감각: 무감각 &#x26;/or 저릿저릿함 •&#x26;/or 언어 장애</td><td>두통이 발생한 쪽에서 •결막충혈 &#x26;/or 눈물 •코막힘 &#x26;/or 콧물 •눈꺼풀부종 •이마와 얼굴의 땀 •동공수축 &#x26;/or 눈꺼풀 처짐</td></tr><tr><td><strong>두통 지속 시간</strong></td><td>30분\~7일</td><td>4\~72시간</td><td>15\~180분</td></tr></tbody></table>
 

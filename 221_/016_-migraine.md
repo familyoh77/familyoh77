@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 국내 1년 유병률 : 약 5\~6% — 2009 Korean Headache Survey 6.1%(여성 9.2%, 남성 2.9%), 2018 Korean Sleep-Headache Survey 5.2%; 여성에서 약 3배 흔함 (Kim et al., J Clin Neurol 2012; Kim et al., J Clin Neurol 2021)
+* 국내 1년 유병률 : 약 5\~6% - 2009 Korean Headache Survey 6.1%(여성 9.2%, 남성 2.9%), 2018 Korean Sleep-Headache Survey 5.2%; 여성에서 약 3배 흔함 (Kim et al., J Clin Neurol 2012; Kim et al., J Clin Neurol 2021)
 * 1년에 1회\~1주에 수회 빈도로 재발
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
 
@@ -296,7 +296,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * 부작용 : 입마름, 어지럼증, 구역
 * rimegepant 75 ㎎ 붕해정 : 급성기 1정, 예방 목적 격일 복용 <mark style="color:blue;">\[엔유비티]</mark>(비급여)
 * ubrogepant 50\~100 ㎎ : 급성기 치료 (국내 미허가)
-* atogepant는 예방 전용(급성기 치료 적응증 없음) — 상세는 하단 「CGRP 수용체 길항제(경구 예방제)」 참조
+* atogepant는 예방 전용(급성기 치료 적응증 없음) - 상세는 하단 「CGRP 수용체 길항제(경구 예방제)」 참조
 
 #### <mark style="color:$primary;">Ditans</mark>
 
@@ -319,7 +319,7 @@ _Ref. Rakel Family medicine 9th ed. 2016. Table 41-2._
 * dopamine 수용체 차단제는 편두통 증상을 감소시키는 부가 효과를 지님
 * ✽acetaminophen + metoclopramide 병용이 triptan 수준의 효과가 있다는 보고가 있음
 * 구역/구토가 없더라도 급성기 치료 시 항구토제 추가를 고려 - metoclopramide 등은 위장관 운동을 촉진하여 함께 복용한 진통제의 흡수를 개선하는 효과도 있음
-* 부작용 : QT interval 연장 (특히 domperidone에서 위험이 더 큼; metoclopramide도 주의), 추체외로 증상(EPS; 급성 근긴장이상·정좌불능증 — 특히 고용량·젊은 여성에서; 장기 사용 시 지연성 운동장애 위험)
+* 부작용 : QT interval 연장 (특히 domperidone에서 위험이 더 큼; metoclopramide도 주의), 추체외로 증상(EPS; 급성 근긴장이상·정좌불능증 - 특히 고용량·젊은 여성에서; 장기 사용 시 지연성 운동장애 위험)
 * metoclopramide : 10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
 * domperidone : 10 ㎎ tid <mark style="color:blue;">\[모티리움 엠]</mark> ⚠️ QT 연장 위험 주의; 심장 질환·QT 연장 소인 환자에서 신중 사용
 
@@ -575,7 +575,7 @@ G43.9 상세불명의 편두통
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 편두통 발작이 72시간을 넘어 지속되는 경우
-> * 팔다리 마비·언어 장애·시야 장애 등 신경 증상이 60분 이상 지속되는 경우 — 즉시 응급실 방문
+> * 팔다리 마비·언어 장애·시야 장애 등 신경 증상이 60분 이상 지속되는 경우 - 즉시 응급실 방문
 > * 두통 빈도가 늘거나 트립탄·복합진통제를 한 달 10일 이상, 또는 단순 진통제를 한 달 15일 이상 복용하게 되는 경우
 
 ***

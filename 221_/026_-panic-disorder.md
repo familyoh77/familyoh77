@@ -189,7 +189,7 @@ B. 적어도 하나 이상의 공황발작 후 1개월 이상 다음 중 하나 
 
 #### <mark style="color:$primary;">항우울제 선택 가이드</mark>
 
-<table><thead><tr><th width="173">환자 특성</th><th width="272">권장 약제</th><th>주의/회피</th></tr></thead><tbody><tr><td>기본 1차 선택</td><td>escitalopram, sertraline (동급 1차)</td><td>—</td></tr><tr><td>우울증 동반 / 무기력</td><td>sertraline, escitalopram, venlafaxine</td><td>—</td></tr><tr><td>성기능 부작용 민감</td><td>sertraline, escitalopram</td><td>paroxetine (가장 높음)</td></tr><tr><td>체중 증가 우려</td><td>sertraline, escitalopram</td><td>paroxetine</td></tr><tr><td>복약 순응도 우려</td><td>fluoxetine (반감기 길어 discontinuation 적음)</td><td>—</td></tr><tr><td>고령자</td><td>escitalopram 저용량, sertraline</td><td>전해질(Na) 모니터링 필수</td></tr><tr><td>임신 고려</td><td>sertraline (preferred)</td><td>—</td></tr><tr><td>QT 연장 위험</td><td>—</td><td>citalopram 회피</td></tr><tr><td>Bipolar 의심</td><td>SSRI 단독 금기</td><td>정신건강의학과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="173">환자 특성</th><th width="272">권장 약제</th><th>주의/회피</th></tr></thead><tbody><tr><td>기본 1차 선택</td><td>escitalopram, sertraline (동급 1차)</td><td>-</td></tr><tr><td>우울증 동반 / 무기력</td><td>sertraline, escitalopram, venlafaxine</td><td>-</td></tr><tr><td>성기능 부작용 민감</td><td>sertraline, escitalopram</td><td>paroxetine (가장 높음)</td></tr><tr><td>체중 증가 우려</td><td>sertraline, escitalopram</td><td>paroxetine</td></tr><tr><td>복약 순응도 우려</td><td>fluoxetine (반감기 길어 discontinuation 적음)</td><td>-</td></tr><tr><td>고령자</td><td>escitalopram 저용량, sertraline</td><td>전해질(Na) 모니터링 필수</td></tr><tr><td>임신 고려</td><td>sertraline (preferred)</td><td>-</td></tr><tr><td>QT 연장 위험</td><td>-</td><td>citalopram 회피</td></tr><tr><td>Bipolar 의심</td><td>SSRI 단독 금기</td><td>정신건강의학과 의뢰</td></tr></tbody></table>
 
 > **Paroxetine** : 공황장애에 대한 적응증과 오랜 사용 근거가 있으나, 체중 증가·성기능 장애·discontinuation syndrome이 타 SSRI보다 현저히 높아 2차 선택으로 고려하는 것이 최신 트렌드임.
 >
@@ -238,13 +238,13 @@ F41.0 공황장애
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** 급성기 — 항우울제 + 단기 BZD 병용
+> **처방례 1.** 급성기 - 항우울제 + 단기 BZD 병용
 >
 > ```
 > 렉사프로 5 mg/T  1T  qd  조식 후  (첫 1~2주, 저용량 시작)
 > 디아제팜 2 mg/T  1T  bid  (최대 2~4주 단기; 이후 tapering 중단)
-> ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 — 저용량 시작 이유 설명
-> ※ 특히 paroxetine, sertraline 선택 시 초기 불안 악화가 상대적으로 흔함 — 사전 안내 필수
+> ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 - 저용량 시작 이유 설명
+> ※ 특히 paroxetine, sertraline 선택 시 초기 불안 악화가 상대적으로 흔함 - 사전 안내 필수
 > ※ BZD는 SSRI 효과 발현 전 브릿지 목적으로만 단기 사용 (가능한 최소 기간)
 > ※ BZD 중단 시 1~2주 간격으로 기존 용량의 25%씩 감량 (예: 4mg/d → 3mg → 2mg → 1mg → 중단)
 >   - 감량 중 불안 재발 시 이전 단계 용량으로 복귀 후 더 천천히 감량
@@ -253,7 +253,7 @@ F41.0 공황장애
 > ※ F/U: 2주 내 반드시 추적 (초기 불안 악화, 내약성, 자살 사고 확인)
 > ```
 
-> **처방례 2.** 유지기 — 항우울제 단독
+> **처방례 2.** 유지기 - 항우울제 단독
 >
 > ```
 > 렉사프로 10 mg/T  1T  qd  조식 후
@@ -266,8 +266,8 @@ F41.0 공황장애
 > ```
 > 이팩사 엑스알 서방 37.5 mg/C  1C  qd  조식 후  (첫 4주)
 > → 4주 후 75 mg으로 증량; 필요 시 최대 225 mg까지
-> ※ 용량 의존성 혈압 상승 가능 — 혈압 정기 모니터링
-> ※ discontinuation syndrome 위험 높음 — 갑작스러운 중단 금지, 반드시 서서히 감량
+> ※ 용량 의존성 혈압 상승 가능 - 혈압 정기 모니터링
+> ※ discontinuation syndrome 위험 높음 - 갑작스러운 중단 금지, 반드시 서서히 감량
 > ```
 
 > **처방례 4.** 복약 순응도 우려 또는 discontinuation 최소화
@@ -295,7 +295,7 @@ F41.0 공황장애
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 공황 발작이 악화되거나 빈도가 늘어나는 경우
-> * 자해나 자살에 대한 생각이 드는 경우 — 즉시 내원 또는 **자살예방 상담전화 109**
+> * 자해나 자살에 대한 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
 > * 약 복용 후 심한 위장 장애, 두근거림, 혈압 이상 등이 나타나는 경우
 > * 2\~4주 약 복용 후에도 증상 호전이 없는 경우
 
@@ -315,7 +315,7 @@ F41.0 공황장애
 * **공황장애** : 발작이 반복되고, 다시 일어날까 봐 계속 걱정하거나(예기불안), 발작을 피하려고 일상생활에 제약을 받는 상태
 * **광장공포증** : 발작이 반복되면 외출이나 혼자 있는 것이 두려워지는 광장공포증으로 이어질 수 있으며, 이 경우 별도 치료가 필요함
 
-#### <mark style="color:$primary;">공황은 왜 생기나요? — 오작동하는 경보장치</mark>
+#### <mark style="color:$primary;">공황은 왜 생기나요? - 오작동하는 경보장치</mark>
 
 공황발작은 뇌의 '위험 감지 경보장치'(편도체)가 실제 위험이 없는 상황에서 갑자기 오작동하는 것입니다.
 
@@ -324,7 +324,7 @@ F41.0 공황장애
 ```
 신체 감각 인식(두근거림, 어지럼)
         ↓
-'죽을 것 같다' '쓰러질 것 같다' — 위협으로 해석
+'죽을 것 같다' '쓰러질 것 같다' - 위협으로 해석
         ↓
 공포 반응 → 교감신경 활성화
         ↓
@@ -359,10 +359,10 @@ F41.0 공황장애
 {% hint style="success" %}
 **공황발작 즉시 대응 4단계**
 
-1. **"10분이면 절정"** — 지금 가장 힘들지만, 10분 안에 최고조에 달하고 반드시 지나갑니다
-2. **"심장 문제가 아닙니다"** — 이 증상은 뇌의 경보장치 오작동이며, 위험한 신체 질환이 아닙니다
-3. **호흡을 천천히, 얕게** — 코로 4초 들이쉬고, 입으로 6초 내쉬기. "깊게"가 아니라 "천천히, 얕게"가 핵심
-4. **그 자리를 피하지 마세요** — 도망치면 다음에 더 두려워집니다. 자극 상황을 유지하며 증상이 저절로 가라앉는 것을 경험하는 것이 회복에 도움이 됩니다
+1. **"10분이면 절정"** - 지금 가장 힘들지만, 10분 안에 최고조에 달하고 반드시 지나갑니다
+2. **"심장 문제가 아닙니다"** - 이 증상은 뇌의 경보장치 오작동이며, 위험한 신체 질환이 아닙니다
+3. **호흡을 천천히, 얕게** - 코로 4초 들이쉬고, 입으로 6초 내쉬기. "깊게"가 아니라 "천천히, 얕게"가 핵심
+4. **그 자리를 피하지 마세요** - 도망치면 다음에 더 두려워집니다. 자극 상황을 유지하며 증상이 저절로 가라앉는 것을 경험하는 것이 회복에 도움이 됩니다
 {% endhint %}
 
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
@@ -387,5 +387,5 @@ F41.0 공황장애
 #### <mark style="color:$primary;">이럴 때는 즉시 도움을 요청하세요</mark>
 
 * 공황 발작의 빈도가 갑자기 늘어나거나 일상생활이 불가능할 때
-* 우울감이 심해지거나 스스로를 해치고 싶은 생각이 들 때 — 즉시 내원 또는 **자살예방 상담전화 109**
+* 우울감이 심해지거나 스스로를 해치고 싶은 생각이 들 때 - 즉시 내원 또는 **자살예방 상담전화 109**
 * 약 복용 후 심한 부작용(혈압 이상, 심한 위장 장애 등)이 나타날 때

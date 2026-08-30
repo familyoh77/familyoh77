@@ -77,7 +77,7 @@
 * 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
 * 위험 인자 : 두부 외상, 내이 허혈, 전정신경염, 귀 수술, 우울, 움직이지 않는 생활
 * 발생 부위 : post. canal 60\~90%, lat.(horizontal) canal 10\~30%; ant.(sup.) canal rare; \[우리나라] lat canal 이환이 많음(30%)
-* 재발 : 1년 내 20\~30% 재발; 재발 고위험군 — 당뇨병, 비-후반고리관형(lat./ant. canal) 이환, Vit D 결핍, 고령, 편두통·불안·불면 동반, 폐경 후 여성(낮은 estradiol) <mark style="color:$info;">(Front Neurol 2024;15:1483233 / 2025;16:1595887 / 2026;17:1812718)</mark>
+* 재발 : 1년 내 20\~30% 재발; 재발 고위험군 - 당뇨병, 비-후반고리관형(lat./ant. canal) 이환, Vit D 결핍, 고령, 편두통·불안·불면 동반, 폐경 후 여성(낮은 estradiol) <mark style="color:$info;">(Front Neurol 2024;15:1483233 / 2025;16:1595887 / 2026;17:1812718)</mark>
 
 #### <mark style="color:$primary;">임상 양상</mark>
 
@@ -120,7 +120,7 @@
 
 ### <mark style="color:orange;">미로염 (내이염, Labyrinthitis)</mark>
 
-<mark style="color:$info;">※ 임상 구분 : vestibular neuritis(AUV) — vertigo only, 청력 정상 / labyrinthitis — vertigo + 청력 저하 동반; 급성 어지럼 + 새로운 청력 저하 → labyrinthitis 또는 AICA 경색 감별 필요</mark>
+<mark style="color:$info;">※ 임상 구분 : vestibular neuritis(AUV) - vertigo only, 청력 정상 / labyrinthitis - vertigo + 청력 저하 동반; 급성 어지럼 + 새로운 청력 저하 → labyrinthitis 또는 AICA 경색 감별 필요</mark>
 
 * 원인 : 감염(바이러스, 세균), 염증, 혈행 장애(경색), 자가면역 질환, 이독성 약물(예: aspirin, aminoglycoside, loop diuretics, cisplatin)
 * 위험 인자 : 상기도 감염, 중이염, 두부 외상, 알레르기 병력, 뇌막염, 뇌혈관 질환, 기저 자가면역질환, herpes zoster 감염, 음주, 알코올 남용, 흡연
@@ -229,7 +229,7 @@
 
 ※ [**HiNTS Plus Exam**](https://www.nuemblog.com/blog/hints)
 
-* 중추/말초 vertigo 감별에 유용. **급성전정증후군(Acute Vestibular Syndrome, AVS)** 환자에서 적용 — AVS 정의: 지속 어지럼(≥24시간), spontaneous nystagmus, 구역/구토, 보행 불안정의 4가지 특징을 보이는 상태
+* 중추/말초 vertigo 감별에 유용. **급성전정증후군(Acute Vestibular Syndrome, AVS)** 환자에서 적용 - AVS 정의: 지속 어지럼(≥24시간), spontaneous nystagmus, 구역/구토, 보행 불안정의 4가지 특징을 보이는 상태
 * 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
 * 말초성(Peripheral) 시사 소견 (적절히 훈련된 검사자에서 MRI에 준하는 높은 민감도를 보일 수 있음, ＞95%; 미훈련 검사자에서는 과신 금물)
   * Head Impulse Test (+) : 환측으로 머리 회전 시 교정 가동(catch-up saccade) 관찰
@@ -291,7 +291,7 @@ _<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). T
 
 _<mark style="color:$info;">Ref. Initial evaluation of vertigo AFP 2006:73(2). Table 6. (잠복기 항목 수정)</mark>_
 
-_<mark style="color:$info;">✽ 침상 감별에는 HINTS Plus(Head impulse test, Nystagmus, Test of Skew + New hearing loss) 활용 — 본문 HiNTS Plus Exam 참조</mark>_
+_<mark style="color:$info;">✽ 침상 감별에는 HINTS Plus(Head impulse test, Nystagmus, Test of Skew + New hearing loss) 활용 - 본문 HiNTS Plus Exam 참조</mark>_
 
 #### <mark style="color:$primary;">체위성 안진: 말초성 vs 중추성</mark>
 
@@ -464,7 +464,7 @@ _1) Triggered episodic : 수 초\~수 시간 지속._\
 ### <mark style="color:orange;">허혈 예방, 혈액 순환 개선</mark>
 
 * 필요시 혈압 조절, 지질 개선, 항혈전제
-* trimetazidine : 20 ㎎ tid <mark style="color:blue;">\[바스티난]</mark> — 어지럼증에 대한 근거 불충분; 일상적 처방(routine use)은 권장되지 않음
+* trimetazidine : 20 ㎎ tid <mark style="color:blue;">\[바스티난]</mark> - 어지럼증에 대한 근거 불충분; 일상적 처방(routine use)은 권장되지 않음
 * ginkgo biloba extract : 유효성에 대한 근거 부족; 일상적 처방 권장되지 않음; 40 ㎎ tid 또는 80 ㎎ bid <mark style="color:blue;">\[기넥신]</mark> ([보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250301\&sno=1\&mtgMtrRegSno=0008))
 * kallidinogenase : 유효성에 대한 근거 부족; 25\~50 IU tid <mark style="color:blue;">\[카레스]</mark>
 
@@ -527,7 +527,7 @@ _1) Triggered episodic : 수 초\~수 시간 지속._\
 **Gufoni maneuver**
 
 * lat canal BPPV 치료법; Lempert보다 시행이 간편하여 임상에서 선호도 높음
-* 방법 (canalith repositioning type — geotropic 안진 시)
+* 방법 (canalith repositioning type - geotropic 안진 시)
   * 환자를 건측으로 빠르게 눕힘 (2분 유지)\
     → 코가 바닥을 향하도록 고개를 45° 아래로 돌림 (2분 유지)\
     → 천천히 일어나 앉음
@@ -549,14 +549,14 @@ _1) Triggered episodic : 수 초\~수 시간 지속._\
 * 안정제 : 원칙적으로 권장하지 않음 (AAO-HNS 가이드라인); central compensation을 방해하고 낙상 위험을 증가시킴. 불가피한 경우 **3일 이내**로 제한하며 주의를 요함
 * 항구토제 : 구역/구토가 심한 경우 단기 사용
 * Vit D & Ca : 혈중 Vitamin D 농도가 낮은 경우(＜20 ng/mL) 보충 시 BPPV 재발률이 유의하게 감소함 (Neurology 2020); 정상 농도에서는 추가 효과 불분명
-  * ✽ 노인 대상 이중맹검 RCT(결핍자에서 13주 2,000 IU/d → 13주 1,000 IU/d 보충)에서 재발률 87% 감소, 인년당 임상 재발 0.75건 감소, 최초 재발까지 기간 유의하게 연장 — 관찰연구 수준을 넘어선 RCT 근거로 확인됨 <mark style="color:$info;">(Otolaryngol Head Neck Surg 2025)</mark>
+  * ✽ 노인 대상 이중맹검 RCT(결핍자에서 13주 2,000 IU/d → 13주 1,000 IU/d 보충)에서 재발률 87% 감소, 인년당 임상 재발 0.75건 감소, 최초 재발까지 기간 유의하게 연장 - 관찰연구 수준을 넘어선 RCT 근거로 확인됨 <mark style="color:$info;">(Otolaryngol Head Neck Surg 2025)</mark>
   * Cholecalciferol 400 IU + Calcium carbonate 500 ㎎ bid
 
 #### <mark style="color:$primary;">잔여 어지럼 (Residual dizziness, BPPV-RD)</mark>
 
 * 정의 : 정복술 성공(체위유발 현훈·안진 소실) 후에도 남는 비특이적 어지럼·부동감(불안, 붕 뜬 느낌 등); 유병률 23\~70%로 보고됨 (연구간 편차 큼)
-* 병태생리 : 단일 기전으로 설명되지 않음 — 이석 일부 잔류, utricle(이석기관) 기능 저하, 전정 보상 지연, 심인성 요인 등이 복합적으로 작용 <mark style="color:$info;">(Front Neurol 2024;15:1382196)</mark>
-* 약물 치료 : betahistine, trimetazidine, ginkgo biloba extract 모두 잔여 어지럼 개선에 유의한 효과 없음이 RCT로 확인됨 — 일상적 약물 처방보다 **전정 재활 운동**이 핵심 치료 <mark style="color:$info;">(World J Otorhinolaryngol Head Neck Surg 2024)</mark>
+* 병태생리 : 단일 기전으로 설명되지 않음 - 이석 일부 잔류, utricle(이석기관) 기능 저하, 전정 보상 지연, 심인성 요인 등이 복합적으로 작용 <mark style="color:$info;">(Front Neurol 2024;15:1382196)</mark>
+* 약물 치료 : betahistine, trimetazidine, ginkgo biloba extract 모두 잔여 어지럼 개선에 유의한 효과 없음이 RCT로 확인됨 - 일상적 약물 처방보다 **전정 재활 운동**이 핵심 치료 <mark style="color:$info;">(World J Otorhinolaryngol Head Neck Surg 2024)</mark>
 * 대개 수일\~수 주 내 자연 호전; 장기 지속 시 PPPD, 미인식 중추성 원인, 미해결 이석증(다른 반고리관) 등 감별 필요
 
 ### <mark style="color:orange;">급성단측전정병증 (AUV / 전정신경염)</mark>
@@ -568,7 +568,7 @@ _1) Triggered episodic : 수 초\~수 시간 지속._\
 * 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용 제한
 * steroid : 증상 발현 3일 이**내** 투여 시 전정 기능 단기 회복에 도움 가능; 장기 예후(어지럼 장애 지수) 개선 근거는 불충분
   * methylprednisolone : 100 ㎎/d → 10일에 걸쳐 점감, 총 3주 투여 <mark style="color:blue;">\[메치론]</mark>
-* betahistine : 증상 완화 목적; 16 ㎎ tid (48 ㎎/d) <mark style="color:blue;">\[메네스에스]</mark> — EAONO 권고
+* betahistine : 증상 완화 목적; 16 ㎎ tid (48 ㎎/d) <mark style="color:blue;">\[메네스에스]</mark> - EAONO 권고
 
 ### <mark style="color:orange;">미로염</mark>
 
@@ -636,21 +636,21 @@ H81.89 기타 명시된 전정기능 장애 (PPPD에 적용)
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** 급성 어지럼증 — 일반 (말초성, 원인 불명)
+> **처방례 1.** 급성 어지럼증 - 일반 (말초성, 원인 불명)
 >
 > ```
 > 보나링 에이 50 mg/T  1T  bid~tid  (BPH, 녹내장 주의)
 > 맥페란 5 mg/T  1T  tid  (구역/구토 동반 시; 단기 사용)
 > ```
 
-> **처방례 2.** BPPV — 재발 예방 (Vit D 결핍 환자)
+> **처방례 2.** BPPV - 재발 예방 (Vit D 결핍 환자)
 >
 > ```
 > 비타민 D3 400 IU  1캡슐  bid
 > 탄산칼슘 500 mg  1정  bid  (식후 복용)
 > ```
 
-> **처방례 3.** 전정신경염 — 급성기 (증상 발현 3일 이내)
+> **처방례 3.** 전정신경염 - 급성기 (증상 발현 3일 이내)
 >
 > ```
 > 메치론 주 500 mg/5 mL  1V(100 mg)  IV qd  (3주 tapering; 발현 3일 이내 시작)
@@ -658,7 +658,7 @@ H81.89 기타 명시된 전정기능 장애 (PPPD에 적용)
 > 메네스에스 16 ㎎/T  1T  tid  (증상 완화 목적)
 > ```
 
-> **처방례 4.** 메니에르병 — 예방 (발작 간기)
+> **처방례 4.** 메니에르병 - 예방 (발작 간기)
 >
 > ```
 > 메네스에스 16 ㎎/T  1T  tid  (48 ㎎/d; 최소 3개월 이상 유지)

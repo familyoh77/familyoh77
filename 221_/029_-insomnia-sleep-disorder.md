@@ -298,7 +298,7 @@ graph TD
 
 **※ 약물 선택 요약 (Decision Guide)**
 
-<table><thead><tr><th width="161">상황</th><th>우선 선택</th><th>대안</th></tr></thead><tbody><tr><td>입면 장애 (일반)</td><td><a href="029_-insomnia-sleep-disorder.md#z-class-drugs">Z-drug</a> (zolpidem, zaleplon)</td><td>DORA, eszopiclone</td></tr><tr><td>유지 장애</td><td><a href="029_-insomnia-sleep-disorder.md#orexin-dual-orexin-receptor-antagonist-dora">DORA</a>, doxepin 3~6 ㎎</td><td>zolpidem CR, eszopiclone</td></tr><tr><td>혼합형</td><td>DORA</td><td>eszopiclone, zolpidem CR</td></tr><tr><td>고령자</td><td>DORA, doxepin 3 ㎎, ramelteon</td><td>Z-drug 최저 용량 (단기)</td></tr><tr><td>OSA 동반</td><td>DORA, ramelteon</td><td>BZD·Z-drug 회피</td></tr><tr><td>우울증 동반</td><td>mirtazapine</td><td>trazodone (보조적)</td></tr><tr><td>일주기리듬 장애</td><td>melatonin + 광치료</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="161">상황</th><th>우선 선택</th><th>대안</th></tr></thead><tbody><tr><td>입면 장애 (일반)</td><td><a href="029_-insomnia-sleep-disorder.md#z-class-drugs">Z-drug</a> (zolpidem, zaleplon)</td><td>DORA, eszopiclone</td></tr><tr><td>유지 장애</td><td><a href="029_-insomnia-sleep-disorder.md#orexin-dual-orexin-receptor-antagonist-dora">DORA</a>, doxepin 3~6 ㎎</td><td>zolpidem CR, eszopiclone</td></tr><tr><td>혼합형</td><td>DORA</td><td>eszopiclone, zolpidem CR</td></tr><tr><td>고령자</td><td>DORA, doxepin 3 ㎎, ramelteon</td><td>Z-drug 최저 용량 (단기)</td></tr><tr><td>OSA 동반</td><td>DORA, ramelteon</td><td>BZD·Z-drug 회피</td></tr><tr><td>우울증 동반</td><td>mirtazapine</td><td>trazodone (보조적)</td></tr><tr><td>일주기리듬 장애</td><td>melatonin + 광치료</td><td>-</td></tr></tbody></table>
 
 ⚠️ 고령자·낙상 위험 → BZD/Z-drug 원칙적 회피\
 ⚠️ 자살 위험 → Z-drug 신중 사용\
@@ -325,7 +325,7 @@ graph TD
 
 * 기상 시간 고정 (취침 시간보다 기상 시간 일정화가 더 중요)
 * 낮잠 ≤30분, 오후 3시 이전
-* 저녁 광 노출↑ (circadian advance 교정 — 취침 시간 지연 효과)
+* 저녁 광 노출↑ (circadian advance 교정 - 취침 시간 지연 효과)
 * Sleep compression 권장 : 수면 제한법 대신 침대 시간을 수 주에 걸쳐 서서히 단축
 * 수면 압력 증가 전략 (낮잠 줄이기, 기상 시간 고정)
 
@@ -457,7 +457,7 @@ graph TD
 5. 약 5초간 천천히 숨을 끝까지 내쉼
 6. 한 번 시행 시 5분간, 하루 중에 자주 시행
 
-#### <mark style="color:$primary;">5. 인지 재구성 (Cognitive restructuring) — CBT-I 구성요소</mark>
+#### <mark style="color:$primary;">5. 인지 재구성 (Cognitive restructuring) - CBT-I 구성요소</mark>
 
  ※ 수면에 대한 역기능적 사고를 식별하고 수정 (단독 치료로는 근거 부족, 반드시 CBT-I 일부로 시행)
 
@@ -503,7 +503,7 @@ graph TD
 | 지표               | 계산식               | 정상 기준 |
 | ---------------- | ----------------- | ----- |
 | 총 수면시간 (TST)     | ⑩ − ⓺ − ⓻ − ⓽     | 개인차   |
-| 침상 시간 (TIB)      | ⑪ − ⓹             | —     |
+| 침상 시간 (TIB)      | ⑪ − ⓹             | -     |
 | 수면효율 (SE, %)     | (TST ÷ TIB) × 100 | ≥ 85% |
 | 입면 잠복기 (SOL)     | ⓻                 | ＜ 30분 |
 | 입면 후 각성시간 (WASO) | ⓽                 | ＜ 30분 |
@@ -584,7 +584,7 @@ CBT-I와는 별개의 비약물 치료법으로, 만성 불면증 단독 치료�
 * 복용 시간 : 취침 30분 전 복용; 복용 후 최소 7\~8시간 수면 시간 확보 (✽melatonin 계열 제외)
 * 약물 투여 중단 시 반동 현상과 내성이 발생하지 않도록 tapering
   * Tapering 예시 : 2주 간격으로 기존 용량의 25%씩 감량 (예: zolpidem 10 mg → 7.5 mg → 5 mg → 2.5 mg → 중단); 금단 증상 발생 시 감량 속도를 늦추고 환자와 상의하여 조정
-  * 반동 불면(rebound insomnia)은 반감기가 짧은 약제(예: triazolam, zaleplon)에서 더 흔함 — 중단 전 환자에게 반드시 설명
+  * 반동 불면(rebound insomnia)은 반감기가 짧은 약제(예: triazolam, zaleplon)에서 더 흔함 - 중단 전 환자에게 반드시 설명
 * 부작용 : 주간 졸음, 어지럼, 인지 장애, 내성, 반동 불면
   * 대처 방법 : 주간 졸음 발생 시 감량, 반감기가 짧은 약제 선택
 * 투여 주의/제한 : 고령, 알코올 남용, 자살 시도 병력, 수면무호흡증, 간/신/폐질환자, 운전자, 밤에 깨어나서 해야 할 일이 있는 사람
@@ -658,11 +658,11 @@ _<mark style="color:$info;">Ref. AASM. Clinical Practice Guideline for the Pharm
 
 #### <mark style="color:$primary;">입면 장애(Sleep onset insomnia)에 대한 권고 약제</mark>
 
-<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br><mark style="color:blue;">[할시온]</mark></td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br><mark style="color:blue;">[잘레딥]</mark></td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br><mark style="color:blue;">[스틸녹스]</mark></td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="128">성분명 [상품명]</th><th width="83.78948974609375" align="center">용량 (mg)</th><th width="83.78955078125" align="center">반감기 (hr)</th><th width="81.6842041015625" align="center">수면지연 단축</th><th width="76.842041015625" align="center">수면 질 향상</th><th width="191.381591796875">부작용</th></tr></thead><tbody><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">14분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) - 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>ramelteon¹⁾</td><td align="center">8</td><td align="center">2~5</td><td align="center">9분</td><td align="center">No</td><td>경증 피로, 두통, 현기증, 졸음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">7~11</td><td align="center">37분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>triazolam<br><mark style="color:blue;">[할시온]</mark></td><td align="center">0.25</td><td align="center">1.5~5.5</td><td align="center">9분</td><td align="center">중</td><td>speech disorder</td></tr><tr><td>zaleplon<br><mark style="color:blue;">[잘레딥]</mark></td><td align="center">5, 10</td><td align="center">1</td><td align="center">10분</td><td align="center">No</td><td>경증 두통, 졸음, 피로</td></tr><tr><td>zolpidem²⁾<br><mark style="color:blue;">[스틸녹스]</mark></td><td align="center">10</td><td align="center">2~3</td><td align="center">5~12분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">유지 장애(Sleep maintenance insomnia)에 대한 권고 약제</mark>
 
-<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br><mark style="color:blue;">[사일레노</mark>]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) — 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br><mark style="color:blue;">[스틸녹스]</mark></td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
+<table><thead><tr><th width="122.73681640625">성분명 [상품명]</th><th width="83.7894287109375" align="center">용량 (mg)</th><th width="83.78948974609375" align="center">반감기 (hr)</th><th width="98.5263671875" align="center">총 수면 시간 연장</th><th width="82.73681640625" align="center">수면 질 향상</th><th>부작용</th></tr></thead><tbody><tr><td>doxepin<br><mark style="color:blue;">[사일레노</mark>]</td><td align="center">3, 6</td><td align="center">8~24</td><td align="center">26~32분</td><td align="center">약~중</td><td>유의미한 부작용에 대한 증거 없음</td></tr><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td align="center">2, 3</td><td align="center">4~6</td><td align="center">28~57분</td><td align="center">중~강</td><td>쓴맛(dysgeusia) - 장기 사용 시 순응도 저하 주요 원인; 경증 어지럼, 입마름, 두통</td></tr><tr><td>suvorexant*</td><td align="center">10, 20</td><td align="center">9~13</td><td align="center">10분</td><td align="center">no data</td><td>유의미한 부작용 없음</td></tr><tr><td>temazepam<br><em>(국내 미허가)</em></td><td align="center">15</td><td align="center">3.5~18</td><td align="center">99분</td><td align="center">약</td><td>경증 주간 졸음, 두통, 시각 장애, 혼돈, 우울</td></tr><tr><td>zolpidem<br><mark style="color:blue;">[스틸녹스]</mark></td><td align="center">10</td><td align="center">2~3</td><td align="center">29분</td><td align="center">중</td><td>졸음, 경증기억상실, 어지럼, 두통, 구역, 불쾌한 맛</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">기타</mark>
 
@@ -716,7 +716,7 @@ G47 수면장애
 > ```
 > 사일레노 6 mg/T  1T  취침 30분 전
 > ※ 고령자·경증: 3 mg으로 시작
-> ※ 낙상 위험 낮음 — 고령자에서 상대적으로 안전
+> ※ 낙상 위험 낮음 - 고령자에서 상대적으로 안전
 > ※ 최소 7~8시간 수면 시간 확보 후 복용
 > ```
 
@@ -774,10 +774,10 @@ G47 수면장애
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 수면 보행(자다가 일어나 돌아다님), 수면 중 기억하지 못하는 행동이 생기는 경우 — 즉시 내원
+> * 수면 보행(자다가 일어나 돌아다님), 수면 중 기억하지 못하는 행동이 생기는 경우 - 즉시 내원
 > * 4주 복용 후에도 증상이 전혀 나아지지 않는 경우
 > * 코골이와 수면 중 숨막힘이 동반되는 경우 (수면무호흡증 의심)
-> * 우울감·자살에 대한 생각이 드는 경우 — 즉시 내원 또는 **자살예방 상담전화 109**
+> * 우울감·자살에 대한 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
 
 ***
 

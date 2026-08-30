@@ -87,7 +87,7 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="168">질환</th><th width="220">RLS와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>야간 다리 경련<br>(Nocturnal leg cramp)</td><td>근육의 물리적 수축(뭉침)이 눈에 보이거나 촉진됨; 극심한 국소 통증</td><td>스트레칭으로 즉시 완화; 움직임 <em>충동</em> 없음; 짧은 지속 시간; 일주기 패턴 없음</td></tr><tr><td>말초신경병증<br>(Peripheral neuropathy)</td><td>저림·통증이 지속적; 표면적(피부) 느낌; 주로 양말·장갑 분포</td><td>움직여도 호전 안 됨; 야간 악화 뚜렷하지 않음; 일주기 패턴 없음; 도파민 치료에 반응 안 함</td></tr><tr><td>정좌불능증<br>(Akathisia)</td><td>전신적 안절부절못함("body rocking"); 다리에 국한되지 않음</td><td>항정신병제·항구토제 복용력 확인; 국소 이상 감각 없음; 일주기 패턴 없음; 활동으로 호전 안 됨</td></tr><tr><td>PLMD<br>(Periodic limb movement disorder)</td><td>수면 중 주기적 사지 움직임(15~30초 간격); 주간 졸음·피로</td><td>깨어 있는 동안 움직임 충동·이상 감각 없음; RLS 환자의 80%에서 PLMS 동반 가능 — PLMD는 RLS 없이 PLMS만 있을 때 진단</td></tr><tr><td>하지정맥류<br>(Varicose veins)</td><td>하지 불편감·통증; 마사지·휴식으로 호전</td><td>일주기 패턴 없음; 육안으로 정맥 확장 확인 가능; 움직임 충동 없음</td></tr><tr><td>혈관성 파행<br>(Vascular claudication)</td><td>보행으로 악화, 휴식으로 호전</td><td>움직임 충동 없음; 일주기 패턴 없음; 수면 장애 없음; ABI 검사 이상</td></tr><tr><td>섬유근육통<br>(Fibromyalgia)</td><td>전신 증상; 종종 수면 장애</td><td>일주기 변동 없음; 움직임으로 호전 안 됨 (☞ <a href="../228_/153_-fibromyalgia.md">섬유근육통</a>)</td></tr><tr><td>Positional discomfort</td><td>같은 자세 장시간 유지 시 발생</td><td>자세 변경으로 즉시 호전; 일주기 패턴 없음; 움직임 충동 없음</td></tr></tbody></table>
+<table><thead><tr><th width="168">질환</th><th width="220">RLS와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>야간 다리 경련<br>(Nocturnal leg cramp)</td><td>근육의 물리적 수축(뭉침)이 눈에 보이거나 촉진됨; 극심한 국소 통증</td><td>스트레칭으로 즉시 완화; 움직임 <em>충동</em> 없음; 짧은 지속 시간; 일주기 패턴 없음</td></tr><tr><td>말초신경병증<br>(Peripheral neuropathy)</td><td>저림·통증이 지속적; 표면적(피부) 느낌; 주로 양말·장갑 분포</td><td>움직여도 호전 안 됨; 야간 악화 뚜렷하지 않음; 일주기 패턴 없음; 도파민 치료에 반응 안 함</td></tr><tr><td>정좌불능증<br>(Akathisia)</td><td>전신적 안절부절못함("body rocking"); 다리에 국한되지 않음</td><td>항정신병제·항구토제 복용력 확인; 국소 이상 감각 없음; 일주기 패턴 없음; 활동으로 호전 안 됨</td></tr><tr><td>PLMD<br>(Periodic limb movement disorder)</td><td>수면 중 주기적 사지 움직임(15~30초 간격); 주간 졸음·피로</td><td>깨어 있는 동안 움직임 충동·이상 감각 없음; RLS 환자의 80%에서 PLMS 동반 가능 - PLMD는 RLS 없이 PLMS만 있을 때 진단</td></tr><tr><td>하지정맥류<br>(Varicose veins)</td><td>하지 불편감·통증; 마사지·휴식으로 호전</td><td>일주기 패턴 없음; 육안으로 정맥 확장 확인 가능; 움직임 충동 없음</td></tr><tr><td>혈관성 파행<br>(Vascular claudication)</td><td>보행으로 악화, 휴식으로 호전</td><td>움직임 충동 없음; 일주기 패턴 없음; 수면 장애 없음; ABI 검사 이상</td></tr><tr><td>섬유근육통<br>(Fibromyalgia)</td><td>전신 증상; 종종 수면 장애</td><td>일주기 변동 없음; 움직임으로 호전 안 됨 (☞ <a href="../228_/153_-fibromyalgia.md">섬유근육통</a>)</td></tr><tr><td>Positional discomfort</td><td>같은 자세 장시간 유지 시 발생</td><td>자세 변경으로 즉시 호전; 일주기 패턴 없음; 움직임 충동 없음</td></tr></tbody></table>
 
 ***
 
@@ -186,7 +186,7 @@
 
 #### <mark style="color:$primary;">Gabapentinoids (Alpha-2-delta 칼슘 채널 길항제)</mark>
 
-* 1차 선택 — **국내 실무에서는 gabapentin(뉴론틴)·pregabalin(리리카)이 사실상 표준** (gabapentin enacarbil 국내 미발매)
+* 1차 선택 - **국내 실무에서는 gabapentin(뉴론틴)·pregabalin(리리카)이 사실상 표준** (gabapentin enacarbil 국내 미발매)
 * 장점 : augmentation 없음, 수면 개선, 불안/통증 동반 시 유리
 * 주의 : 어지럼 → 낙상; 졸림 → daytime sedation; 부종; 신기능 따라 감량 필수
 * 용법 : 증상 발생 1\~2시간 전 저녁 복용 (고령자에서는 low & slow)
@@ -205,7 +205,7 @@
 * gabapentin 계열 불내성/금기 시, 단기 사용(빠른 효과가 필요한 경우) 제한적 선택
 * Augmentation 발생 시 즉시 감량·중단 (용량 증량 금지)
 * pramipexole : 0.125 ㎎ qd(hs) → 4\~7일마다 0.125 ㎎/d 증량. 최대 0.5 ㎎ qd <mark style="color:blue;">\[미라펙스]</mark>\
-  &#xNAN;_✽ RLS 유효 용량(0.125–0.5 mg)은 파킨슨병(최대 4.5 mg/d)보다 훨씬 낮음 — 파킨슨병 용량 기준으로 처방하지 않도록 주의_
+  &#xNAN;_✽ RLS 유효 용량(0.125–0.5 mg)은 파킨슨병(최대 4.5 mg/d)보다 훨씬 낮음 - 파킨슨병 용량 기준으로 처방하지 않도록 주의_
 * ropinirole : 0.25 ㎎ qd(hs) → 1주마다 0.5 ㎎/d 증량. 최대 4 ㎎ qd <mark style="color:blue;">\[리큅]</mark>
 * rotigotine : 1 ㎎ qd → 1주마다 1 ㎎/d 증량. 최대 3 ㎎ qd <mark style="color:blue;">\[뉴프로 패취]</mark> (augmentation 기준 최대 용량 3 ㎎)
 * 호전 후 3일 간격으로 감량하여 최소 유효 용량 유지
@@ -232,7 +232,7 @@
 * Augmentation 발생 시 교체 전략 (Tapering + Overlapping)
   1. gabapentin 계열을 먼저 시작하고 최소 2주 이상 중복 투여 기간(overlapping) 확보
   2. 이후 도파민 작용제를 수 주에 걸쳐 서서히 감량 (급격한 중단 시 심한 반동 증상 발생)
-  3. 감량 중 일시적 증상 악화는 정상 반응 — 중단 과정임을 환자에게 미리 설명
+  3. 감량 중 일시적 증상 악화는 정상 반응 - 중단 과정임을 환자에게 미리 설명
   4. 필요 시 저용량 opioid를 tapering 기간 동안 보조 사용
 
 #### <mark style="color:$primary;">항파킨슨제</mark>
@@ -248,9 +248,9 @@
 {% hint style="danger" %}
 ⚠️ **Opioid 처방 시 주의**
 
-* 의존성·오남용 위험 — 복용 기간 최소화, 주기적 재평가 필요
+* 의존성·오남용 위험 - 복용 기간 최소화, 주기적 재평가 필요
 * 국내 마약성 진통제 처방 장벽(규제, 서류, 진료 기록) 고려
-* 중추성 수면무호흡증 위험 — 특히 고용량 또는 다른 진정제 병용 시
+* 중추성 수면무호흡증 위험 - 특히 고용량 또는 다른 진정제 병용 시
 {% endhint %}
 
 * 취침 시 저용량 투여
@@ -286,7 +286,7 @@ _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs 
 
 * 소아·청소년에서도 발생; 성인 RLS 기준 4가지를 충족해야 하며 소아 언어로 증상 확인 필요
 * **ADHD와 연관** : 소아 RLS의 상당수가 ADHD 증상을 동반; RLS로 인한 수면 장애가 주의력 저하·과잉행동으로 표현될 수 있음
-* **철분 결핍** : 소아 RLS의 가장 중요한 가역적 원인 — ferritin 검사 및 보충이 1차 조치
+* **철분 결핍** : 소아 RLS의 가장 중요한 가역적 원인 - ferritin 검사 및 보충이 1차 조치
 * 약물 치료 : 소아에서 RLS 적응증으로 허가된 약물 없음; 철분 보충 후에도 지속 시 소아신경과 의뢰
 
 ***
@@ -299,7 +299,7 @@ G25.81 하지불안증후군
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** 1차 선택 — gabapentin
+> **처방례 1.** 1차 선택 - gabapentin
 >
 > ```
 > 뉴론틴 300 ㎎/C  1C  저녁 식후 (증상 발생 1~2시간 전)
@@ -308,7 +308,7 @@ G25.81 하지불안증후군
 > ※ 어지럼, 졸음 부작용; 운전·고령자 주의
 > ```
 
-> **처방례 2.** 1차 선택 — pregabalin (gabapentin 불내성 또는 신경병증 동반)
+> **처방례 2.** 1차 선택 - pregabalin (gabapentin 불내성 또는 신경병증 동반)
 >
 > ```
 > 리리카 75 ㎎/C  1C  저녁 취침 전
@@ -317,7 +317,7 @@ G25.81 하지불안증후군
 > ※ 체중 증가, 어지럼, 부종 주의
 > ```
 
-> **처방례 3.** 경구 철분 보충 — ferritin ≤75 ng/mL 또는 transferrin saturation rate ＜20%
+> **처방례 3.** 경구 철분 보충 - ferritin ≤75 ng/mL 또는 transferrin saturation rate ＜20%
 >
 > ```
 > 훼로바-유 서방정 1T  격일(이틀에 한 번) 공복(식전 1시간)
@@ -327,14 +327,14 @@ G25.81 하지불안증후군
 > ※ ferritin 75~100 ng/mL 구간 또는 경구 불내성 시 → IV ferric carboxymaltose(페린젝트) 의뢰
 > ```
 
-> **처방례 4.** 도파민 작용제 단기 사용 — gabapentin 계열 불내성 또는 즉각적 증상 조절 필요 시
+> **처방례 4.** 도파민 작용제 단기 사용 - gabapentin 계열 불내성 또는 즉각적 증상 조절 필요 시
 >
 > ```
 > 미라펙스 0.125 ㎎/T  1T  저녁 (증상 발생 1~2시간 전)
-> ※ 장기 사용 시 augmentation 위험 (연간 7~10%) — 매 방문마다 모니터링 필수
-> ※ 충동조절장애(병적 도박, 과식, 충동구매 등) 발생 가능 — 매 방문마다 확인
+> ※ 장기 사용 시 augmentation 위험 (연간 7~10%) - 매 방문마다 모니터링 필수
+> ※ 충동조절장애(병적 도박, 과식, 충동구매 등) 발생 가능 - 매 방문마다 확인
 > ※ 증상이 낮 시간대로 앞당겨지거나 팔로 확산 시 즉시 내원
-> ※ Augmentation 의심 시 증량 금지 — 증량은 augmentation을 가속화함 (초기 titration 제외)
+> ※ Augmentation 의심 시 증량 금지 - 증량은 augmentation을 가속화함 (초기 titration 제외)
 > ※ 최대 0.5 ㎎/d 초과 금지
 > ```
 >
@@ -352,7 +352,7 @@ G25.81 하지불안증후군
 > * gabapentin(뉴론틴), pregabalin(리리카)은 저녁에 복용합니다. 어지럼, 졸음이 생길 수 있으므로 복용 후 운전은 삼가 주십시오.
 > * 신장 기능에 따라 용량 조절이 필요할 수 있습니다. 정기적인 혈액 검사를 받으십시오.
 > * 철분제는 공복(식전 1시간)에 복용하면 흡수가 더 잘 됩니다. 비타민 C와 함께 복용하면 도움이 됩니다. 변비, 속쓰림이 생길 수 있습니다.
-> * 도파민 작용제(미라펙스, 리큅 등)를 복용 중이라면 증상 발생 시각이 낮으로 앞당겨지거나 팔로 퍼지는지 주의 깊게 살피십시오 — 이런 경우 즉시 의사에게 알려 주십시오.
+> * 도파민 작용제(미라펙스, 리큅 등)를 복용 중이라면 증상 발생 시각이 낮으로 앞당겨지거나 팔로 퍼지는지 주의 깊게 살피십시오 - 이런 경우 즉시 의사에게 알려 주십시오.
 > * 도파민 작용제를 갑자기 중단하면 반동 증상이 심해질 수 있습니다. 반드시 의사와 상의하여 서서히 줄여 주십시오.
 > * 저녁 시간의 카페인, 알코올, 니코틴은 증상을 악화시킵니다.
 

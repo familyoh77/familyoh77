@@ -18,12 +18,12 @@
 
 * SSD, 섬유근육통, 만성 통증, 과민성 대장증후군, 만성 편두통 등이 공유하는 공통 기전
 * 중추 신경계의 과민화로 인해 **정상적인 신체 자극이 과도하게 증폭**되어 인식됨 (brain-based amplification)
-* 실제 조직 손상이 없거나 적음에도 환자가 느끼는 증상의 강도는 매우 클 수 있음 — "꾀병이 아니라 실제로 느낀다"
+* 실제 조직 손상이 없거나 적음에도 환자가 느끼는 증상의 강도는 매우 클 수 있음 - "꾀병이 아니라 실제로 느낀다"
 * 스트레스, 수면 부족, 트라우마, 불안·우울이 중추 감작을 악화시키며, 이들 치료가 증상 완화에 기여
 
-#### <mark style="color:$primary;">MUS · SSD · FNSD — 개념 구분</mark>
+#### <mark style="color:$primary;">MUS · SSD · FNSD - 개념 구분</mark>
 
-<table><thead><tr><th width="154">구분</th><th width="221">핵심 개념</th><th>진단의 초점</th></tr></thead><tbody><tr><td><strong>MUS</strong><br>(medically unexplained symptoms)</td><td>의학적으로 충분히 설명되지 않는 신체 증상 (상위 개념)</td><td>증상의 미설명성 자체 — 진단명이 아닌 서술적 범주</td></tr><tr><td><strong>SSD</strong><br>(신체증상장애)</td><td>신체 증상 + 증상에 대한 <strong>과도한 반응</strong> (생각·불안·행동)</td><td>반응의 과도성 (B criteria) — 기질적 질환 공존 가능</td></tr><tr><td><strong>FNSD</strong><br>(기능성 신경학적 증상 장애)</td><td>신경학적 증상(마비·감각 이상·발작 등) + 의학적 소견과의 <strong>불일치</strong></td><td>진찰에서 확인되는 양성 소견(Hoover's sign 등)</td></tr></tbody></table>
+<table><thead><tr><th width="154">구분</th><th width="221">핵심 개념</th><th>진단의 초점</th></tr></thead><tbody><tr><td><strong>MUS</strong><br>(medically unexplained symptoms)</td><td>의학적으로 충분히 설명되지 않는 신체 증상 (상위 개념)</td><td>증상의 미설명성 자체 - 진단명이 아닌 서술적 범주</td></tr><tr><td><strong>SSD</strong><br>(신체증상장애)</td><td>신체 증상 + 증상에 대한 <strong>과도한 반응</strong> (생각·불안·행동)</td><td>반응의 과도성 (B criteria) - 기질적 질환 공존 가능</td></tr><tr><td><strong>FNSD</strong><br>(기능성 신경학적 증상 장애)</td><td>신경학적 증상(마비·감각 이상·발작 등) + 의학적 소견과의 <strong>불일치</strong></td><td>진찰에서 확인되는 양성 소견(Hoover's sign 등)</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -52,8 +52,8 @@
 * 여성(남성의 약 1.5\~2배), 가족력
 * 스트레스, 상실(예: 직장, 가족, 친구 상실), 학대(특히 아동기)
 * 낮은 교육 수준, 낮은 사회 경제적 수준
-* 동반된 신체 질환 (IBS, 섬유근육통, 만성 편두통 등) — 중추 감작 기전 공유
-* Long COVID 이후 자율신경 기능 장애 및 지속 증상 — 최근 임상적 중요성 증가
+* 동반된 신체 질환 (IBS, 섬유근육통, 만성 편두통 등) - 중추 감작 기전 공유
+* Long COVID 이후 자율신경 기능 장애 및 지속 증상 - 최근 임상적 중요성 증가
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -87,9 +87,9 @@ DSM-5 이후 SSD는 기질적 질환을 모두 배제한 후 내리는 진단이
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-<table><thead><tr><th width="189">감별 질환</th><th>주요 단서</th></tr></thead><tbody><tr><td>갑상선 기능 이상</td><td>피로, 체중 변화, 한열 불내성, 두근거림</td></tr><tr><td>SLE</td><td>관절통, 발진, 광과민성, 다장기 증상</td></tr><tr><td>초기 다발성 경화증(MS)</td><td>일과성 신경학적 결손, 재발-완화 패턴</td></tr><tr><td>부갑상선기능항진증</td><td>피로, 우울, 근무력, 고칼슘혈증</td></tr><tr><td>당뇨병</td><td>피로, 다음, 다뇨, 말초 저림</td></tr><tr><td>체위성 빈맥 증후군 (POTS)</td><td>기립 시 어지럼·심계항진·피로·인지 저하(brain fog); 누운 상태에서 기립 후 10분 이내 맥박 ≥30 bpm 상승으로 선별(능동기립검사); <strong>불안 장애로 오진되기 쉬움</strong> — 빈맥에 대한 보상적 교감신경 항진이 두근거림·발한·떨림·과호흡을 유발하나 이는 심리적 기전이 아닌 자율신경계의 물리적 반응 (☞ <a href="030_-autonomic-dysfunction.md">자율신경기능장애</a>)</td></tr><tr><td>Long COVID 후유증</td><td>감염 후 지속되는 피로·브레인 포그·자율신경 증상; 최근 1차 진료에서 중요한 감별 대상</td></tr></tbody></table>
+<table><thead><tr><th width="189">감별 질환</th><th>주요 단서</th></tr></thead><tbody><tr><td>갑상선 기능 이상</td><td>피로, 체중 변화, 한열 불내성, 두근거림</td></tr><tr><td>SLE</td><td>관절통, 발진, 광과민성, 다장기 증상</td></tr><tr><td>초기 다발성 경화증(MS)</td><td>일과성 신경학적 결손, 재발-완화 패턴</td></tr><tr><td>부갑상선기능항진증</td><td>피로, 우울, 근무력, 고칼슘혈증</td></tr><tr><td>당뇨병</td><td>피로, 다음, 다뇨, 말초 저림</td></tr><tr><td>체위성 빈맥 증후군 (POTS)</td><td>기립 시 어지럼·심계항진·피로·인지 저하(brain fog); 누운 상태에서 기립 후 10분 이내 맥박 ≥30 bpm 상승으로 선별(능동기립검사); <strong>불안 장애로 오진되기 쉬움</strong> - 빈맥에 대한 보상적 교감신경 항진이 두근거림·발한·떨림·과호흡을 유발하나 이는 심리적 기전이 아닌 자율신경계의 물리적 반응 (☞ <a href="030_-autonomic-dysfunction.md">자율신경기능장애</a>)</td></tr><tr><td>Long COVID 후유증</td><td>감염 후 지속되는 피로·브레인 포그·자율신경 증상; 최근 1차 진료에서 중요한 감별 대상</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">SSD · FNSD · Panic · Dysautonomia — 1차 감별 (30초 triage)</mark>
+#### <mark style="color:$primary;">SSD · FNSD · Panic · Dysautonomia - 1차 감별 (30초 triage)</mark>
 
 진료 초기 다음 **3가지 질문**으로 약 70%를 1차 분류할 수 있다.
 
@@ -102,9 +102,9 @@ DSM-5 이후 SSD는 기질적 질환을 모두 배제한 후 내리는 진단이
 #### <mark style="color:$primary;">Bedside 감별 포인트</mark>
 
 * **Panic vs POTS** : 두 경우 모두 빈맥이 있으나 Panic은 **자세와 무관**하고 "공포"가 핵심; POTS는 **누웠다가 서면 HR ≥30 bpm 증가** + brain fog·피로
-* **FNSD vs SSD** : FNSD는 **신경학적 진찰에서 불일치(exam inconsistency)** — Hoover's sign 등 양성 소견; SSD는 증상은 실제로 존재하지만 신경학적 패턴을 보이지 않음
+* **FNSD vs SSD** : FNSD는 **신경학적 진찰에서 불일치(exam inconsistency)** - Hoover's sign 등 양성 소견; SSD는 증상은 실제로 존재하지만 신경학적 패턴을 보이지 않음
 * **SSD vs Panic** : SSD는 **만성적·지속적**인 걱정; Panic은 **발작적·파국적** 급증 (10\~30분 내 최고조)
-* **혼합형이 흔함** : SSD + Panic, SSD + POTS 등 — 하나만 찾고 끝내면 치료 실패
+* **혼합형이 흔함** : SSD + Panic, SSD + POTS 등 - 하나만 찾고 끝내면 치료 실패
 
 {% hint style="info" %}
 **혼합형을 놓치지 마세요**\
@@ -134,13 +134,13 @@ DSM-5 이후 SSD는 기질적 질환을 모두 배제한 후 내리는 진단이
 
 #### <mark style="color:$primary;">SSD-12 (Somatic Symptom Disorder-B Criteria Scale)</mark>
 
-* **PHQ-15의 한계** : PHQ-15는 신체 증상의 **심각도(A criteria)** 만 측정 — DSM-5 SSD 진단의 핵심인 **B criteria(과도한 인지·정서·행동 반응)** 는 평가하지 못함
+* **PHQ-15의 한계** : PHQ-15는 신체 증상의 **심각도(A criteria)** 만 측정 - DSM-5 SSD 진단의 핵심인 **B criteria(과도한 인지·정서·행동 반응)** 는 평가하지 못함
 * **SSD-12** (Toussaint 등, 2016) : B criteria를 평가하기 위해 개발된 12문항 자기보고식 도구; 인지(cognitive)·정서(affective)·행동(behavioral) 3영역 각 4문항
 * 평정 : 0점(전혀 없음) \~ 4점(매우 자주) → 총점 0\~48점
 * **판정**
-  * 일반 임상 cutoff : ≥23점 — SSD 고위험군
+  * 일반 임상 cutoff : ≥23점 - SSD 고위험군
   * **한국 임상 집단 최적 cutoff : ≥29점** (K-SSD-12 검증 연구, 2024)
-* 활용 : PHQ-15와 **함께 사용 권장** — PHQ-15로 신체 증상 부담을, SSD-12로 심리적 반응의 과도성을 측정하여 SSD 진단의 양 축(A + B)을 모두 평가
+* 활용 : PHQ-15와 **함께 사용 권장** - PHQ-15로 신체 증상 부담을, SSD-12로 심리적 반응의 과도성을 측정하여 SSD 진단의 양 축(A + B)을 모두 평가
 
 {% hint style="info" %}
 **PHQ-15와 SSD-12를 함께 쓰는 이유**\
@@ -153,9 +153,9 @@ PHQ-15 높음 + SSD-12 높음 = 전형적 SSD 양상
 
 #### <mark style="color:$primary;">DSM-5 신체증상 및 관련 장애 분류 요약</mark>
 
-<table><thead><tr><th width="217">진단</th><th width="323">핵심 특징</th><th width="79">기간</th></tr></thead><tbody><tr><td>신체증상장애</td><td>≥1개의 고통스러운 신체 증상 + 증상에 대한 과도한 생각·불안·행동</td><td>＞6개월</td></tr><tr><td>질병 불안 장애</td><td>신체 증상은 없거나 경미함 + 심각한 병에 걸렸다는 집착</td><td>＞6개월</td></tr><tr><td>기능성 신경학적 증상 장애/전환장애(FNSD)</td><td>신경학적 증상(마비, 실명 등) + 의학적 소견과 불일치</td><td>—</td></tr><tr><td>인위성 장애</td><td>환자 역할을 위해 증상을 의도적으로 조작; 명백한 외적 이득 없음</td><td>—</td></tr><tr><td>다른 건강 상태에 영향을 미치는 정신적 요소</td><td>기존 의학적 상태의 경과·치료에 심리·행동 요소가 악영향</td><td>—</td></tr><tr><td>기타 명시된/명시되지 않은 신체증상 및 관련 장애</td><td>위 기준 충족하지 않으나 임상적으로 유의한 고통·기능 장애</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="217">진단</th><th width="323">핵심 특징</th><th width="79">기간</th></tr></thead><tbody><tr><td>신체증상장애</td><td>≥1개의 고통스러운 신체 증상 + 증상에 대한 과도한 생각·불안·행동</td><td>＞6개월</td></tr><tr><td>질병 불안 장애</td><td>신체 증상은 없거나 경미함 + 심각한 병에 걸렸다는 집착</td><td>＞6개월</td></tr><tr><td>기능성 신경학적 증상 장애/전환장애(FNSD)</td><td>신경학적 증상(마비, 실명 등) + 의학적 소견과 불일치</td><td>-</td></tr><tr><td>인위성 장애</td><td>환자 역할을 위해 증상을 의도적으로 조작; 명백한 외적 이득 없음</td><td>-</td></tr><tr><td>다른 건강 상태에 영향을 미치는 정신적 요소</td><td>기존 의학적 상태의 경과·치료에 심리·행동 요소가 악영향</td><td>-</td></tr><tr><td>기타 명시된/명시되지 않은 신체증상 및 관련 장애</td><td>위 기준 충족하지 않으나 임상적으로 유의한 고통·기능 장애</td><td>-</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">신체증상장애 vs 질병 불안 장애 — 감별 요점</mark>
+#### <mark style="color:$primary;">신체증상장애 vs 질병 불안 장애 - 감별 요점</mark>
 
 <table><thead><tr><th width="109"></th><th width="246">신체증상장애</th><th>질병 불안 장애</th></tr></thead><tbody><tr><td><strong>고통의 중심</strong></td><td>실제로 경험하는 신체 증상 자체</td><td>심각한 병에 걸렸다는 생각과 불안</td></tr><tr><td><strong>신체 증상</strong></td><td>뚜렷하게 존재</td><td>없거나 경미함</td></tr><tr><td><strong>주된 호소</strong></td><td>"이 증상이 너무 힘들다"</td><td>"혹시 암(또는 심각한 병)이 아닐까"</td></tr><tr><td><strong>의료 이용</strong></td><td>증상 완화를 위해 병원 방문</td><td>검사·확인을 위해 반복 방문(추구형) 또는 회피(회피형)</td></tr><tr><td><strong>1차 약물</strong></td><td>SSRI, SNRI(통증 동반 시), TCA</td><td>SSRI</td></tr></tbody></table>
 
@@ -185,12 +185,12 @@ C. 증상 또는 결손은 다른 신체적 또는 정신적 질환으로 잘 �
 
 D. 증상 또는 결손은 사회적, 직업적, 또는 기능상 다른 중요한 영역에서 임상적으로 의미 있는 고통 또는 장애를 일으키거나 의학적 평가를 필요로 함
 
-#### <mark style="color:$primary;">진찰 팁 — 기능성 vs 기질적 감별</mark>
+#### <mark style="color:$primary;">진찰 팁 - 기능성 vs 기질적 감별</mark>
 
 * [**Hoover's sign**](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-limb-weakness/) : 교차 신전 반사(한 쪽 고관절 굴곡 시 반대측이 자동으로 신전)를 이용
   * 환자를 앙와위로 하고, 검사자는 **마비측 발뒤꿈치 아래**에 손을 둔 상태에서 환자에게 **반대측(정상측) 다리를 들어올리도록** 지시
-  * **정상/기질적 마비** : 마비측에서 불수의적 하방 압력(downward pressure)이 느껴짐 — 교차 신전 반사가 보존됨
-  * **기능성 마비** : 마비측에서 하방 압력이 느껴지지 않음 — 의식적 노력이 양측에 전달되지 않음을 시사
+  * **정상/기질적 마비** : 마비측에서 불수의적 하방 압력(downward pressure)이 느껴짐 - 교차 신전 반사가 보존됨
+  * **기능성 마비** : 마비측에서 하방 압력이 느껴지지 않음 - 의식적 노력이 양측에 전달되지 않음을 시사
 * [**Tremor entrainment test**](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-tremor/) : 떨림(tremor)이 있는 부위 반대편으로 일정한 리듬의 운동을 시켰을 때, 떨림의 리듬이 반대편 운동 리듬을 따라가거나(entrainment) 떨림이 멈추면 기능성(심인성) 떨림을 시사
 
 ### <mark style="color:orange;">신체 증상 장애 (Somatic symptom disorder)</mark>
@@ -434,8 +434,8 @@ SSD 환자의 치료에서 가장 중요한 단계는 **진단을 어떻게 전�
 
 항우울제 병용·증량 또는 다음 약물과 병용 시 발생 위험
 
-* **tramadol** : SSD 환자(특히 통증 우세형)에게 흔히 처방되는 진통제 — SNRI(duloxetine)·SSRI와 병용 시 특히 위험
-* **linezolid** : 항생제 (MAOI 작용) — 호흡기·요로 감염 치료 중 의도치 않은 병용 주의
+* **tramadol** : SSD 환자(특히 통증 우세형)에게 흔히 처방되는 진통제 - SNRI(duloxetine)·SSRI와 병용 시 특히 위험
+* **linezolid** : 항생제 (MAOI 작용) - 호흡기·요로 감염 치료 중 의도치 않은 병용 주의
 * St. John's wort(성요한풀), MAOI, dextromethorphan(감기약), metoclopramide, 5-HT1 agonist(triptan) 등
 
 다음 증상 출현 시 **즉각 투약 중단 후 응급 평가**
@@ -484,7 +484,7 @@ SSD 환자의 치료에서 가장 중요한 단계는 **진단을 어떻게 전�
 ### <mark style="color:orange;">보조 약물</mark>
 
 * 항정신병제 : 1차 진료에서 routinely 권장하지 않음 - 정신병적 증상 동반 또는 치료 저항성 시 정신건강의학과 협진 후 사용; 과거 typical antipsychotic(chlorpromazine, haloperidol)의 routine 사용은 EPS·QT 연장 위험 대비 근거가 약해 현대 practice에서 지양
-* opioid 또는 중독성 있는 약물 사용은 삼가 — SSD 환자는 의존 취약군
+* opioid 또는 중독성 있는 약물 사용은 삼가 - SSD 환자는 의존 취약군
 * St. John's wort(성요한풀) : 일부 경증 우울 동반 시 사용되나 근거 제한적; SSRI·TCA와 병용 시 세로토닌 증후군 위험 - 병용 금기 <mark style="color:blue;">\[페리시]</mark>
 * 신경병성 통증 양상 동반 시 보조 진통제 병용 고려
   * pregabalin : 75 ㎎/d, 150\~300 ㎎/d (분2) <mark style="color:blue;">\[리리카]</mark>; 어지럼, 졸림 주의
@@ -512,7 +512,7 @@ F68.1 인위성 장애 (자신에게 적용)
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1.** 기본 — SSRI 단독
+> **처방례 1.** 기본 - SSRI 단독
 >
 > ```
 > 렉사프로 10 ㎎/T  1T  qd  조식 후
@@ -532,9 +532,9 @@ F68.1 인위성 장애 (자신에게 적용)
 >
 > ```
 > 에트라빌 10 ㎎/T  1T  취침 시  (필요 시 25 ㎎까지 증량)
-> ※ 저용량(10 ㎎)에서 시작 — SSD의 수면·통증·중추 감작 조절은 우울증 단독 치료 용량보다 훨씬 낮은 용량에서 효과
+> ※ 저용량(10 ㎎)에서 시작 - SSD의 수면·통증·중추 감작 조절은 우울증 단독 치료 용량보다 훨씬 낮은 용량에서 효과
 > ※ 졸림, 입마름, 변비 등 항콜린성 부작용 사전 설명
-> ※ 고령자 사용 주의 — 기립성 저혈압 및 낙상 위험; 가능하면 대안 약제 우선 고려
+> ※ 고령자 사용 주의 - 기립성 저혈압 및 낙상 위험; 가능하면 대안 약제 우선 고려
 > ※ 취침 직전 복용하고 야간 기상 시 천천히 일어나도록 안내
 > ```
 
@@ -542,8 +542,8 @@ F68.1 인위성 장애 (자신에게 적용)
 >
 > ```
 > 심발타 30 ㎎/C  1C  qd  조식 직후  (2주 후 60 ㎎으로 증량 고려)
-> ※ 반드시 식사 직후 복용 — 공복 복용 시 구역 현저히 증가
-> ※ 고용량 시 혈압 상승 가능 — 혈압 모니터링
+> ※ 반드시 식사 직후 복용 - 공복 복용 시 구역 현저히 증가
+> ※ 고용량 시 혈압 상승 가능 - 혈압 모니터링
 > ※ 갑작스러운 중단 금지; 반드시 서서히 감량
 > ```
 
@@ -579,7 +579,7 @@ F68.1 인위성 장애 (자신에게 적용)
 > * 심한 위장 장애, 두근거림, 발진 등 부작용이 나타나는 경우
 > * 2\~4주 복용 후에도 증상이 전혀 나아지지 않는 경우
 > * 기분이 지나치게 고양되거나 잠이 전혀 없어지는 경우
-> * 자해나 자살에 대한 생각이 드는 경우 — 즉시 내원 또는 자살예방 상담전화 **109**
+> * 자해나 자살에 대한 생각이 드는 경우 - 즉시 내원 또는 자살예방 상담전화 **109**
 
 ***
 
@@ -595,7 +595,7 @@ F68.1 인위성 장애 (자신에게 적용)
 #### <mark style="color:$primary;">신체증상장애란 무엇인가요?</mark>
 
 * 검사에서 뚜렷한 이상이 없거나 이상이 있더라도 설명되는 정도보다 훨씬 더 심한 통증·소화 장애·두근거림·어지럼 등 다양한 신체 증상이 지속되는 상태
-* 최근 연구에 따르면 뇌와 신경계가 **과민해진 상태(중추 감작)** 가 되어, 정상적인 신체 신호를 실제보다 크게 느끼게 되는 것으로 이해됩니다 — "예민해진 화재경보기"가 작은 연기에도 크게 울리는 것과 비슷합니다
+* 최근 연구에 따르면 뇌와 신경계가 **과민해진 상태(중추 감작)** 가 되어, 정상적인 신체 신호를 실제보다 크게 느끼게 되는 것으로 이해됩니다 - "예민해진 화재경보기"가 작은 연기에도 크게 울리는 것과 비슷합니다
 * 불안, 우울, 스트레스 등 심리적 요인이 이러한 신경계 과민화를 촉발·악화시키며, 환자가 의도적으로 만들어 내는 것이 아닙니다
 * 적절한 치료를 받으면 50\~75%에서 호전됩니다
 

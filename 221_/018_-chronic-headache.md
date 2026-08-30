@@ -51,7 +51,7 @@ flowchart LR
 
 ## <mark style="color:green;">1차성 두통</mark>
 
-### <mark style="color:orange;">발작 지속시간에 따른 실용적 감별 — ＞4시간</mark>
+### <mark style="color:orange;">발작 지속시간에 따른 실용적 감별 - ＞4시간</mark>
 
 * 종류 : [Chronic migraine](016_-migraine.md#undefined-1), [Chronic tension type headache](017_-tension-type-headache-ttha.md#chronic-tension-type-headache), New daily persistent headache, Hemicrania continua
 
@@ -101,7 +101,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 _1) ICHD-3의 성인 치료 용량은 경구 indomethacin ≥150 ㎎/d이며 필요 시 225 ㎎/d까지 증량함. 실제 임상에서는 위장관·신장 부작용을 줄이기 위해 25 ㎎ tid에서 시작하여 단계적으로 증량할 수 있으나, 저용량에서의 불충분한 반응만으로 indomethacin 무반응으로 판단하지 않음. 완전 반응 확인 후 최소 유효 용량으로 감량_
 
-### <mark style="color:orange;">발작 지속시간에 따른 실용적 감별 — ＜4시간</mark>
+### <mark style="color:orange;">발작 지속시간에 따른 실용적 감별 - ＜4시간</mark>
 
 * 종류 : Chronic cluster headache, Chronic paroxysmal hemicrania, Hypnic headache, Primary stabbing headache, Short-lasting unilateral neuralgiform headache attacks
 
@@ -193,7 +193,7 @@ _1) 각 환자들은 과용한 약물들의 종류와 이에 대한 진단 기�
 
 #### <mark style="color:$primary;">수면두통 (Hypnic headache)</mark>
 
-* 1차 치료 : 취침 전 caffeine 40\~60 ㎎ (정량 복용 권장; 커피는 함량 편차가 크므로 정제 형태가 더 정확함) — 단순하고 효과적
+* 1차 치료 : 취침 전 caffeine 40\~60 ㎎ (정량 복용 권장; 커피는 함량 편차가 크므로 정제 형태가 더 정확함) - 단순하고 효과적
 * 대안
   * lithium carbonate 150\~300 ㎎ 취침 전 (혈중 농도 모니터링) <mark style="color:blue;">\[리튬]</mark>
   * indomethacin 25\~50 ㎎ 취침 전
@@ -250,9 +250,9 @@ G44.2 긴장형두통
 
 G44.3 만성 외상후 두통
 
-G44.4 달리 분류되지 않은 약물유발 두통 — 약물과용두통(MOH)에 적용
+G44.4 달리 분류되지 않은 약물유발 두통 - 약물과용두통(MOH)에 적용
 
-G44.8 기타 명시된 두통증후군 — 신생매일지속두통(NDPH), 지속반두통(Hemicrania continua), 수면두통(Hypnic headache) 등은 KCD에서 미국 ICD-10-CM의 G44.52/G44.51/G44.81과 같은 세분코드를 사용하지 않고 해당 KCD 범주로 분류
+G44.8 기타 명시된 두통증후군 - 신생매일지속두통(NDPH), 지속반두통(Hemicrania continua), 수면두통(Hypnic headache) 등은 KCD에서 미국 ICD-10-CM의 G44.52/G44.51/G44.81과 같은 세분코드를 사용하지 않고 해당 KCD 범주로 분류
 
 G93.2 양성 두개내고혈압/특발성 두개내고혈압
 
@@ -264,7 +264,7 @@ G93.2 양성 두개내고혈압/특발성 두개내고혈압
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 신생매일지속두통 — 편두통형**
+> **처방례 1. 신생매일지속두통 - 편두통형**
 >
 > ```
 > 에트라빌 10 ㎎/T 1T hs
@@ -272,7 +272,7 @@ G93.2 양성 두개내고혈압/특발성 두개내고혈압
 > 오르필서방정 250 ㎎/T 1T bid (필요 시 병용; 반응에 따라 500 ㎎ bid까지 증량)
 > ```
 
-> **처방례 2. 지속반두통 (Hemicrania continua) — 진단 및 1차 치료**
+> **처방례 2. 지속반두통 (Hemicrania continua) - 진단 및 1차 치료**
 >
 > ```
 > 인도메타신 25 ㎎/T 1T tid (식후)
@@ -294,19 +294,19 @@ G93.2 양성 두개내고혈압/특발성 두개내고혈압
 > 또는 인도메타신 25 ㎎/T 1T hs
 > ```
 
-> **처방례 4. 약물과용두통 (MOH) — 약물 중단 + 예방 치료**
+> **처방례 4. 약물과용두통 (MOH) - 약물 중단 + 예방 치료**
 >
 > ```
 > [과용 약물 중단]
 > 단순진통제·triptan 과용 → 원칙적으로 즉시 중단
 > opioid 과용 → 의존·금단 위험에 따라 점진적 감량 및 전문진료 고려
 >
-> [필요 시 단기 브릿지 — NSAID 과용이 아닌 경우]
+> [필요 시 단기 브릿지 - NSAID 과용이 아닌 경우]
 > 낙센에프 500 ㎎/T 1T bid × 5~7일
 >   → 증상에 따라 최단기간 사용, 반복·장기 사용 피함
 >   ※ corticosteroid 및 frovatriptan bridge는 근거가 제한적이므로 routine 처방례로 사용하지 않음
 >
-> [예방 치료 — 동시 또는 조기 시작]
+> [예방 치료 - 동시 또는 조기 시작]
 > 토파맥스 25 ㎎/T 1T hs → 2~4주 간격으로 단계적 증량 (목표 용량은 반응·내약성에 따라 조정)
 > 또는 에트라빌 10~25 ㎎/T 1T hs (긴장형두통 동반 시 고려)
 > ```
@@ -315,7 +315,7 @@ G93.2 양성 두개내고혈압/특발성 두개내고혈압
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **약물과용두통(MOH) — 진통제 중단 안내**
+> **약물과용두통(MOH) - 진통제 중단 안내**
 >
 > * 현재 두통이 매일 나타나고 진통제를 자주 복용하고 있다면, 진통제 자체가 두통의 원인일 수 있습니다.
 > * 특히 **약국에서 처방 없이 구입할 수 있는 카페인 함유 복합 진통제**(게보린, 펜잘 등)는 효과가 빠르게 느껴져 자주 복용하게 되지만, MOH를 일으키는 주요 원인입니다.
@@ -338,7 +338,7 @@ G93.2 양성 두개내고혈압/특발성 두개내고혈압
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 진통제를 줄인 뒤에도 두통이 지속되거나 악화되어 일상생활이 어려운 경우
-> * 두통 양상이 갑자기 변하거나 신경 증상이 새로 생긴 경우 — 즉시 응급실 방문
+> * 두통 양상이 갑자기 변하거나 신경 증상이 새로 생긴 경우 - 즉시 응급실 방문
 > * 예방약 복용 2개월 후에도 두통 빈도가 줄지 않는 경우
 
 ***
