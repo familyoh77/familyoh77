@@ -99,7 +99,7 @@
 
 #### <mark style="color:$primary;">**유형**</mark>
 
-<mark style="color:cyan;">**통증 기전(mechanism)에 따른 분류**</mark>&#x20;
+<mark style="color:cyan;">**통증 기전(mechanism)에 따른 분류**</mark>
 
 * nociceptive / neuropathic / nociplastic / mixed : 약물 선택의 기준이 되는 분류
 
@@ -114,7 +114,7 @@
   * CRPS 등 일부 신경병증성 통증에서는 피부 온도·색 변화 등 자율신경계 소견이 동반될 수 있음
 * 예) radiculopathy/radicular pain with neuropathic features, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
 
-**노시플라스틱(nociplastic) 통증**&#x20;
+**노시플라스틱(nociplastic) 통증**
 
 * 정의 : 통증을 유발할 만한 실제 또는 잠재적 조직 손상의 명확한 증거가 없고, 체성감각계의 병변이나 질환으로 설명되지 않으면서, 통각 처리(nociceptive processing)의 변화 소견이 있는 통증 \[IASP]
 * nociplastic mechanism은 nociceptive 또는 neuropathic mechanism과 동시에 존재할 수 있음(예: 만성 요통, 골관절염, 암성 통증 일부에서도 nociplastic component 동반 가능)
@@ -127,7 +127,7 @@
 * 둘 이상의 기전이 함께 작용; 예) 척추관 협착증(nociceptive + neuropathic), 만성 요통(nociceptive/neuropathic + nociplastic 동반 가능)
 * 약물 선택도 관여 기전에 따라 병용 조정 (☞ 아래 Management > 통증 양상별 약물 선택 참조)
 
-<mark style="color:cyan;">**임상 phenotype(원인·양상)에 따른 분류**</mark>&#x20;
+<mark style="color:cyan;">**임상 phenotype(원인·양상)에 따른 분류**</mark>
 
 * 근육통·염증성·기계적/압박성 등 : 대부분 nociceptive mechanism에 속하는 하위 유형
 
@@ -161,17 +161,16 @@ flowchart TD
     D --> D2[<u>Neuropathic</u>\n저림·화끈거림·\n전격통]
     D --> D3[<u>Nociplastic</u>\n광범위·\nallodynia·피로]
     D --> D4[<u>Mixed</u>]
-    D1 & D2 & D3 & D4 --> E["통증 강도(NRS) +\n 기능 장애 평가"]
-    E --> E0["⚠ NRS 단독으로 \nopioid 여부 자동 \n결정 안 함"]
     D1 --> F1[Acetaminophen \n또는 NSAID]
     D2 --> G1[Pregabalin/\nGabapentin\n또는 Duloxetine]
+    D1 & D2 & D3 & D4 --> E["통증 강도(NRS) +\n 기능 장애 평가"]
+    E --> E0["⚠ NRS 단독으로 \nopioid 여부 자동 \n결정 안 함"]
     D3 --> G2[비약물 CBT·\n운동 우선\n+ SNRI]
     D4 --> F2[NSAID +\nneuropathic \nagent 병용]
     E0 & F1 & G1 & G2 & F2 --> H[비약물 치료 병행]
     H --> I[고위험 약물 체크]
     I --> |"·Opioid+BZD ❌\n·NSAID+항응고제\n·Triple Whammy\n·Gabapentinoid+Opioid"| J[처방수정]
     I -->|"이상 없음"| K[재평가]
-
     K -->|급성: 1–2주\n만성: 2–4주| L[치료 반응]
     L -->|Good: 임상적으로 의미 있는 통증 감소 및/또는 기능 개선| M[유지 → Taper 계획]
     L -->|Poor| N[통증 유형 재평가\n→ 다른 계열 전환\n→ 병용 요법]
@@ -223,7 +222,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">Step 1. 통증 유형 분류 (Pain Typing)</mark>
 
-* 통증 기전(mechanism)에 따라 nociceptive/neuropathic/nociplastic/mixed로 분류 (정의·특징·감별 요점은 ☞ 위 일반 사항 > 유형 참조)
+* 통증 기전(mechanism)에 따라 nociceptive/neuropathic/nociplastic/mixed로 분류 (정의·특징·감별 요점 ☞ [일반 사항 > 유형](001_-pain.md#undefined-2))
 * 선별 도구 : neuropathic 요소는 DN4(4점 이상 시 가능성 높음)·painDETECT로 평가; nociplastic pain은 이 도구들로 진단·배제하지 않고 임상 양상·병력으로 판단
 * 분류 결과에 따라 Step 2의 약물 선택이 결정됨
 
@@ -231,24 +230,11 @@ flowchart TD
 
 **통증 유형별 처방**
 
-| 유형                    | 1차 선택                               | 비고                     |
-| --------------------- | ----------------------------------- | ---------------------- |
-| Nociceptive (경증)      | Acetaminophen, 외용 또는 경구 NSAID 등     | 원인·염증 여부·환자 위험도에 따라 선택 |
-| Nociceptive (중등증\~중증) | NSAID ± 단기 opioid (신중)              | opioid는 최후 수단          |
-| Neuropathic           | Pregabalin/gabapentin 또는 Duloxetine | 삼차신경통: carbamazepine   |
-| Nociplastic           | 비약물(CBT·운동) 우선 + SNRI(duloxetine)   | NSAID 단독 효과 제한적        |
-| Mixed                 | NSAID + neuropathic agent 병용        | 비율에 따라 조합 조정           |
-| 염증성                   | NSAID (선택제는 위험 인자 고려)               | -                      |
-| 근육통                   | NSAID ± 단기 근이완제                     | 2\~4주 이내 제한            |
+<table><thead><tr><th width="216">유형</th><th width="264">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>Nociceptive (경증)</td><td>Acetaminophen, 외용 또는 경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td>Nociceptive (중등증~중증)</td><td>NSAID ± 단기 opioid (신중)</td><td>opioid는 최후 수단</td></tr><tr><td>Neuropathic</td><td>Pregabalin/gabapentin 또는 Duloxetine</td><td>삼차신경통: carbamazepine</td></tr><tr><td>Nociplastic</td><td>비약물(CBT·운동) 우선 + SNRI(duloxetine)</td><td>NSAID 단독 효과 제한적</td></tr><tr><td>Mixed</td><td>NSAID + neuropathic agent 병용</td><td>비율에 따라 조합 조정</td></tr><tr><td>염증성</td><td>NSAID (선택제는 위험 인자 고려)</td><td>-</td></tr><tr><td>근육통</td><td>NSAID ± 단기 근이완제</td><td>2~4주 이내 제한</td></tr></tbody></table>
 
 **위험 인자별 NSAID 선택**
 
-| 위험 인자        | 우선 선택                                                             |
-| ------------ | ----------------------------------------------------------------- |
-| GI risk ↑    | Celecoxib + PPI                                                   |
-| CV risk ↑    | NSAID 회피 우선; 불가피 시 naproxen을 상대적으로 고려 (최소 용량·최단 기간, COX-2 억제제 주의) |
-| Renal risk ↑ | 외용 NSAID 우선                                                       |
-| 고령 / 다약제     | 외용 NSAID 우선 → 경구 최소 용량                                            |
+<table><thead><tr><th width="144">위험 인자</th><th>우선 선택</th></tr></thead><tbody><tr><td>GI risk ↑</td><td>Celecoxib + PPI</td></tr><tr><td>CV risk ↑</td><td>NSAID 회피 우선; 불가피 시 naproxen을 상대적으로 고려 (최소 용량·최단 기간, COX-2 억제제 주의)</td></tr><tr><td>Renal risk ↑</td><td>외용 NSAID 우선</td></tr><tr><td>고령 / 다약제</td><td>외용 NSAID 우선 → 경구 최소 용량</td></tr></tbody></table>
 
 **침해수용성 통증**
 
@@ -259,7 +245,7 @@ flowchart TD
 * 1차 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
 * 비-opioid 치료로 조절되지 않고 기능 장애가 명확한 경우 : NSAID ± weak opioid 신중 병용 (tramadol 포함 - opioid와 동일한 주의 적용)
 * 중증이거나 비-opioid 치료 실패, 기능 장애가 심각한 경우 : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid ± 보조 치료
-* WHO 3단계 진통 사다리(analgesic ladder) : 1단계 비마약성 진통제(± 보조제) → 2단계 약한 opioid(± 비마약성 진통제 ± 보조제) → 3단계 중등도~중증 opioid(± 비마약성 진통제 ± 보조제)로 상향하는 체계. 원래 WHO가 암성 통증(cancer pain) 완화를 위해 제시한 모델이며, 비암성 통증에는 그대로 적용하지 않음 - 비암성 통증은 통증 강도만이 아니라 원인·기전·기능 장애·약물 위험도를 함께 고려하는 개별화된 접근이 원칙
+* WHO 3단계 진통 사다리(analgesic ladder) : 1단계 비마약성 진통제(± 보조제) → 2단계 약한 opioid(± 비마약성 진통제 ± 보조제) → 3단계 중등도\~중증 opioid(± 비마약성 진통제 ± 보조제)로 상향하는 체계. 원래 WHO가 암성 통증(cancer pain) 완화를 위해 제시한 모델이며, 비암성 통증에는 그대로 적용하지 않음 - 비암성 통증은 통증 강도만이 아니라 원인·기전·기능 장애·약물 위험도를 함께 고려하는 개별화된 접근이 원칙
 
 **신경병성 통증**
 
@@ -292,11 +278,11 @@ flowchart TD
 * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 상태를 교정함; 만성 통증은 신체 손상 신호가 아니라 '예민해진 신경계의 오작동'임을 설명
 * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
 
-<table><thead><tr><th width="150">Hurt (아픈 느낌)</th><th>Harm (실제 손상)</th></tr></thead><tbody><tr><td>예민해진 신경계가 보내는 신호</td><td>조직이 실제로 파괴되는 상태</td></tr><tr><td>움직여도 대개 안전함</td><td>red flag 동반 시에만 의심</td></tr><tr><td>활동을 점진적으로 늘려 완화 가능(pacing)</td><td>절대안정으로 오히려 악화될 수 있음</td></tr></tbody></table>
+<table><thead><tr><th width="322">Hurt (아픈 느낌)</th><th>Harm (실제 손상)</th></tr></thead><tbody><tr><td>예민해진 신경계가 보내는 신호</td><td>조직이 실제로 파괴되는 상태</td></tr><tr><td>움직여도 대개 안전함</td><td>red flag 동반 시에만 의심</td></tr><tr><td>활동을 점진적으로 늘려 완화 가능(pacing)</td><td>절대안정으로 오히려 악화될 수 있음</td></tr></tbody></table>
 
-* Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진적으로 늘려 자기 효능감을 회복시킴&#x20;
-  1. \[예시] Pt. "허리가 끊어질 것 같아요" - Dr. "허리 근육이 많이 긴장해서 예민한 상태군요."&#x20;
-  2. Pt. "이러다 평생 못 걸으면 어쩌죠?" - Dr. "오늘은 컨디션이 좋지 않네요. 하지만 우리는 조금씩 움직임을 늘려갈 계획입니다."&#x20;
+* Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진적으로 늘려 자기 효능감을 회복시킴
+  1. \[예시] Pt. "허리가 끊어질 것 같아요" - Dr. "허리 근육이 많이 긴장해서 예민한 상태군요."
+  2. Pt. "이러다 평생 못 걸으면 어쩌죠?" - Dr. "오늘은 컨디션이 좋지 않네요. 하지만 우리는 조금씩 움직임을 늘려갈 계획입니다."
   3. Pt. "약 없이는 한순간도 못 버텨요." - Dr. "약은 통증 조절의 도구 중 하나입니다. 호흡과 이완 요법도 함께 사용해 봅시다."
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -339,11 +325,10 @@ flowchart TD
   2. 예) 기존 opioid 총 60 MME/day 복용 중 회전 시 → 새 약물의 계산된 등가 용량(60 MME 상당)의 50\~75%인 약 30\~45 MME/day로 시작 후 반응을 보며 조정
   3. 등가용량 환산표의 불확실성 : MME 환산비는 개인차가 크고 근사치이므로 안전 마진을 두고 시작하는 것이 원칙임
 
-※ \[급여기준] [마약성진통제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001) 일반원칙
-
-* 처방 일수 제한: 비암성 통증은 1회 처방당 최대 30일까지 급여 인정
-* 성분별 상한 용량 : 비암성 통증 시 아래 용량 초과분은 본인부담 100/100
-* 대상 약제 투여 용량 : oxycodone 60 ㎎/d, hydromorphone 24 ㎎/d, tapentadol 300 ㎎/d, fentanyl 패취제 37.5 ㎍/h/3d, morphine 경구제 90 ㎎/d
+- [ ] \[급여기준] [마약성진통제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001) 일반원칙
+  * 처방 일수 제한: 비암성 통증은 1회 처방당 최대 30일까지 급여 인정
+  * 성분별 상한 용량 : 비암성 통증 시 아래 용량 초과분은 본인부담 100/100
+  * 대상 약제 투여 용량 : oxycodone 60 ㎎/d, hydromorphone 24 ㎎/d, tapentadol 300 ㎎/d, fentanyl 패취제 37.5 ㎍/h/3d, morphine 경구제 90 ㎎/d
 
 #### <mark style="color:$primary;">Tramadol</mark>
 
@@ -374,7 +359,7 @@ flowchart TD
 
 * 용법 : 초회 10 ㎎ bid, 10\~80 ㎎/d <mark style="color:blue;">\[옥시콘틴 서방]</mark>
 
-#### <mark style="color:$primary;">Tapentadol</mark>&#x20;
+#### <mark style="color:$primary;">Tapentadol</mark>
 
 * 작용(Dual-mechanism opioid analgesic) : μ-opioid receptor agonist + norepinephrine reuptake inhibition의 이중 기전; 통상적 SNRI 항우울제와는 다른 별도 분류
 * 대상 : 지속적인 opioid 치료가 필요한 중등증\~중증 만성 통증; neuropathic component가 동반된 통증에서 고려 가능
@@ -480,7 +465,7 @@ flowchart TD
   * 호흡기 질환(COPD, 수면무호흡증) 동반
   * Benzodiazepine 병용
   * 과거 opioid overdose 병력
-* 추가 위험요인(CNS depressant 병용에 따른 호흡억제 위험 증가)&#x20;
+* 추가 위험요인(CNS depressant 병용에 따른 호흡억제 위험 증가)
   * Gabapentinoid 병용
 
 - [ ] 국내 naloxone 비강 스프레이의 일반 외래 가용성·공급 방식은 시점에 따라 확인이 필요함. 고위험 환자에서는 국내에서 실제 이용 가능한 제형과 접근 경로를 확인하여 naloxone 제공을 고려.
@@ -518,7 +503,7 @@ flowchart TD
 <table data-full-width="true"><thead><tr><th width="188.631591796875">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">변환계수¹⁾</th></tr></thead><tbody><tr><td><strong>정맥 주사</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td></td><td>펜타닐 (Fentanyl)</td><td>100²⁾</td></tr><tr><td><strong>정맥 주사를 경구로 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td></td><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td></td><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td></td><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
 
 _¹⁾MME 용량 = 아편유사제의 용량(㎎) × 변환계수. 예) 단일 정맥 투여 : 모르핀 10 ㎎ = 하이드로몰폰 1.5 ㎎ (1. 5 ㎎ × 6.6 = 10 MME) = 펜타닐 0.1 ㎎ (0.1 ㎎ × 100 = 10 MME). 모르핀 10 ㎎ 정맥 주사를 경구로 전환하면 경구 모르핀 30 ㎎ (☞_ [_계산기_](https://www.mdcalc.com/calc/10170/morphine-milligram-equivalents-mme-calculator)_)_\
-_²⁾단일 정맥 투여의 경우, 모르핀 10 ㎎은 펜타닐 0.1 ㎎ (100 mcg)과 유사하지만 만성적으로 펜타닐을 투여하는 경우 모르핀 10 ㎎은 펜타닐 0.25 ㎎ (250 mcg)과 유사_
+_&#xB2;⁾단일 정맥 투여의 경우, 모르핀 10 ㎎은 펜타닐 0.1 ㎎ (100 mcg)과 유사하지만 만성적으로 펜타닐을 투여하는 경우 모르핀 10 ㎎은 펜타닐 0.25 ㎎ (250 mcg)과 유사_
 
 _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침 2024. 표</mark>_
 
@@ -724,9 +709,9 @@ _\* 150 ㎎/day에 해당하는 경우 100 ㎎ × 3을 2일마다 투여 (뉴론
   * 고관절 OA에는 효과 없음
 * 주의/금기 : NSAID 과민반응/aspirin-induced asthma 병력, 임신·수유, 소아는 성분별 허가사항 확인
 * 투여 횟수 : 통상 플라스타/파스류 1\~2회/d, 크림/겔 1\~4회/d
-* ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark> (12시간, 24시간 적용 제품군)&#x20;
-* piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark> (48시간 적용 제품군)&#x20;
-* indomethacin <mark style="color:blue;">\[바이겔 크림]</mark>&#x20;
+* ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark> (12시간, 24시간 적용 제품군)
+* piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark> (48시간 적용 제품군)
+* indomethacin <mark style="color:blue;">\[바이겔 크림]</mark>
 * diclofenac <mark style="color:blue;">\[볼타렌 에멀겔]</mark>
 
 ### <mark style="color:orange;">NSAID 비교</mark>
@@ -762,8 +747,8 @@ _<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis o
 <table><thead><tr><th width="104.7894287109375">약물군</th><th width="162.2105712890625">병용 주의/금기 약물</th><th width="153.842041015625">주요 위험</th><th>임상적 대처 방안</th></tr></thead><tbody><tr><td>Opioids¹⁾</td><td>Benzodiazepines</td><td>호흡 저하, 사망 위험</td><td>가급적 병용 금기. 최소 용량 처방</td></tr><tr><td>Tramadol</td><td>SSRIs, SNRIs, TCAs</td><td>세로토닌 증후군, 발작 위험 (TCAs는 경련 역치 저하 추가)</td><td>항우울제 병용 시 세로토닌 증상 및 경련 징후 관찰</td></tr><tr><td>Tramadol</td><td>MAOIs</td><td>세로토닌 증후군, 고혈압 위기</td><td>병용 금기. MAOI 중단 후 최소 14일 경과 후 사용</td></tr><tr><td>NSAIDs</td><td>Anticoagulants (warfarin, DOAC²⁾)</td><td>위장관 출혈 위험</td><td>PPI 병용 및 응고 수치 추적</td></tr><tr><td>NSAIDs</td><td>Corticosteroids</td><td>위궤양/천공 위험</td><td>COX-2 선택적 억제제 전환 권장</td></tr><tr><td>NSAIDs</td><td>ACEI/ARB + Diuretics (Triple Whammy³⁾)</td><td>급성 신손상</td><td>신기능(eGFR) 및 혈압 모니터링 필수. 3제 병용은 가급적 회피</td></tr><tr><td>NSAIDs</td><td>저용량 Aspirin</td><td>심혈관 보호 효과 감소 (ibuprofen에서 특히 문제)</td><td>immediate-release 저용량 aspirin은 ibuprofen보다 최소 30분 전에, 또는 ibuprofen 복용 후 최소 8시간 뒤 투여; 다른 NSAID는 약제별 상호작용을 고려</td></tr><tr><td>Pregabalin</td><td>Opioids</td><td>과도한 진정, 호흡 억제</td><td>각각의 시작 용량을 평소보다 감량</td></tr></tbody></table>
 
 _¹⁾Opioid + Benzodiazepine 조합은 중추신경계 억제를 심화시켜 치명적인 호흡 정지를 유발할 수 있음. 환자가 기존에 수면제나 불안 해소제를 복용 중인지 반드시 확인_\
-_²⁾DOAC(rivaroxaban, apixaban, dabigatran 등 직접 경구항응고제) 포함_\
-_³⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 신손상 위험이 특히 높음 - 불가피한 경우 신기능 주 1회 이상 모니터링_
+_&#xB2;⁾DOAC(rivaroxaban, apixaban, dabigatran 등 직접 경구항응고제) 포함_\
+_&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 신손상 위험이 특히 높음 - 불가피한 경우 신기능 주 1회 이상 모니터링_
 
 ***
 
