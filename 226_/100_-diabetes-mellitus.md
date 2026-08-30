@@ -183,7 +183,7 @@ _Ref. ADA. Standards of Medical Care in Diabetes. 2024. Table 6-1._
 ### <mark style="color:orange;">T1DM vs T2DM 감별</mark>
 
 * 감별 검사 : islet auto-Ab(인슐린, glutamic acid decarboxylase(GAD), islet antigen 2(IA-2), zinc transporter 8(ZnT8)), 인슐린, c-peptide
-  * 공복 혈청 c-peptide : ＜0.6 ng/㎖(≈200 pmol/L) 시 T1DM, ≥1.0 ng/㎖(≈330 pmol/L) 시 T2DM 가능성(초기 선별용 실용적 기준); 경계 시 추후(5년 후) c-peptide 재검 — 재검 시 판정 기준은 아래 국제 알고리듬(200/600 pmol/L)을 기본으로 함
+  * 공복 혈청 c-peptide : ＜0.6 ng/㎖(≈200 pmol/L) 시 T1DM, ≥1.0 ng/㎖(≈330 pmol/L) 시 T2DM 가능성(초기 선별용 실용적 기준); 경계 시 추후(5년 후) c-peptide 재검 - 재검 시 판정 기준은 아래 국제 알고리듬(200/600 pmol/L)을 기본으로 함
     * [ ] 단위 환산 참고 : 1 ng/㎖ ≒ 331 pmol/L; 0.6 ng/㎖ ≒ 200 pmol/L; 1.8 ng/㎖ ≒ 600 pmol/L
     * [ ] 경계값 해석 시 인슐린 치료 여부, 유병 기간, 임상 맥락을 함께 고려해야 함; 단일 수치로 확정 진단은 위험
     * [ ] **판정 기준 우선순위(중요)** : 본문에는 T2DM 시사 기준으로 330 pmol/L(초기 실용적 선별)과 600 pmol/L(아래 국제 재검 알고리듬)이 함께 등장하여 혼동될 수 있음. 최초 평가 시에는 330 pmol/L 기준을 실용적 참고치로 사용하되, 5년 후 재검 등 공식적인 재분류 시점에는 아래 국제 알고리듬의 200/600 pmol/L 기준을 우선 적용하고, 한국인 200\~330 pmol/L 자료는 600 pmol/L 미만 "불확정(Uncertain)" 구간 내에서 보조적으로만 참고할 것

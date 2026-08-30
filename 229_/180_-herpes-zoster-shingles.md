@@ -90,7 +90,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**Tier 1 — 즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**Tier 1 - 즉각 조치 또는 의뢰**</mark>
 
 * 의식 변화, 경련, 수막자극징후, 급성 국소 신경학적 결손 또는 뇌졸중 의심
 * 호흡곤란, 저혈압, 심한 전신독성 또는 폐렴·간염 등 내장 침범 의심
@@ -99,7 +99,7 @@
 * 천수 대상포진에 요폐, 대소변 장애 또는 회음부 감각저하 동반
 * 중증 면역저하자에서 파종성·출혈괴사성 병변 또는 빠른 진행
 
-<mark style="color:$warning;">**Tier 2 — 당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**Tier 2 - 당일 또는 조기 의뢰**</mark>
 
 * V1 분포 발진과 안구 통증·충혈·눈부심·시력 변화 또는 각막 이상
 * 이개·외이도 수포와 안면마비, 청력저하 또는 현훈(Ramsay Hunt syndrome 의심)
@@ -107,7 +107,7 @@
 * 심한 통증, 광범위 발진, 얼굴·생식기 침범 또는 출혈괴사성 병변
 * 임신 중 중증·파종성 대상포진 또는 산과적 고위험 상태
 
-<mark style="color:$info;">**Tier 3 — 외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**Tier 3 - 외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 진단이 불확실하거나 반복 재발하여 HSV 등 감별이 필요한 경우
 * 치료 시작 후에도 새 수포가 계속 발생하거나 7일 이후에도 새 병변이 출현
@@ -229,7 +229,7 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
   * acetaminophen 500\~1,000 ㎎ q6\~8h 필요시 <mark style="color:blue;">\[타이레놀]</mark>
   * 일반 성인 최대 4,000 ㎎/day를 넘지 않으며, 고령·쇠약·저체중·간질환·과음 위험에서는 최대 3,000 ㎎/day 이하를 고려
 * NSAID가 적합한 환자
-  * ibuprofen 200\~400 ㎎ tid 필요시 <mark style="color:blue;">\[부루펜]</mark> — 가능한 최저 유효용량으로 단기간 사용
+  * ibuprofen 200\~400 ㎎ tid 필요시 <mark style="color:blue;">\[부루펜]</mark> - 가능한 최저 유효용량으로 단기간 사용
   * 신장질환, 심혈관질환, 소화성궤양, 항응고제 복용 또는 고령자에서 주의
 * 중등도\~중증의 신경병성 통증은 gabapentinoid 또는 저용량 TCA를 조기에 고려할 수 있으나 PHN 예방 효과가 입증된 것은 아님
 * 피부 관리 : 냉습포, calamine <mark style="color:blue;">\[칼라민]</mark>, aluminum acetate 습포 또는 colloidal oatmeal bath
@@ -300,7 +300,7 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
 * 면역저하 또는 향후 면역억제 치료 예정 환자는 재발 위험과 치료 일정을 고려하여 감염내과·접종 전문가와 시기를 개별 결정
 * 요약하면 국내에서는 면역정상자의 경우 발병 후 1\~2년 간격을 선호하지만 절대적인 최소 간격은 아니며, 면역저하 상태·재발 위험·향후 면역억제 치료 일정에 따라 급성기 종료 후 접종 시기를 앞당길 수 있음
 
-### <mark style="color:orange;">최신 지견 — 대상포진 백신과 치매 위험</mark>
+### <mark style="color:orange;">최신 지견 - 대상포진 백신과 치매 위험</mark>
 
 {% hint style="info" %}
 대상포진 백신 접종과 이후 치매 진단 위험 감소 사이의 연관성이 관찰연구와 자연실험에서 보고되었습니다. Taquet 등은 RZV 접종자를 ZVL 접종자와 비교했고(*Nat Med* 2024;30:2777), Eyting 등은 Wales의 생년월일 기준 접종정책을 이용하여 ZVL의 효과를 평가했습니다(*Nature* 2025;641:438).\
@@ -394,7 +394,7 @@ G53.0 대상포진후신경통(B02.2†)
 >
 > * 치료 시작 후에도 새 수포가 계속 발생하거나 7일 이후 새 병변이 나타나는 경우
 > * 발진이 나은 뒤에도 4주 이상 통증이 지속되거나 악화되는 경우
-> * PHN 약물치료에도 통증·수면장애가 지속되거나 부작용으로 복용이 어려운 경우 — 통증의학과 의뢰 고려
+> * PHN 약물치료에도 통증·수면장애가 지속되거나 부작용으로 복용이 어려운 경우 - 통증의학과 의뢰 고려
 
 ***
 

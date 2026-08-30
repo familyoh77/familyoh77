@@ -161,7 +161,7 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 ### <mark style="color:orange;">HF phenotype별 약물 치료 요약</mark>
 
-<table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td>SGLT2i 우선 (ESC 2023); 원인 질환(고혈압·AF·비만) 집중 관리; 체액 과부하 시 이뇨제</td></tr><tr><td><strong>HFmrEF</strong></td><td>41~49%</td><td>SGLT2i 우선(Class I); ACEi/ARB/ARNi · β-차단제 · MRA는 Class IIb - 증상 있는 경우 HFrEF 약제 고려 가능 (ESC 2023)</td></tr><tr><td><strong>HFrEF</strong></td><td>≤40%</td><td>ARNi/ACEi + β-차단제 + MRA + SGLT2i 4제 병용</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 ≤40%<br>→ ＞40%</td><td>GDMT 전면 유지 — 절대 중단 금지; EF 회복 후에도 재악화 위험 높음 → 추적 심초음파 및 장기 관리 필수</td></tr></tbody></table>
+<table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td>SGLT2i 우선 (ESC 2023); 원인 질환(고혈압·AF·비만) 집중 관리; 체액 과부하 시 이뇨제</td></tr><tr><td><strong>HFmrEF</strong></td><td>41~49%</td><td>SGLT2i 우선(Class I); ACEi/ARB/ARNi · β-차단제 · MRA는 Class IIb - 증상 있는 경우 HFrEF 약제 고려 가능 (ESC 2023)</td></tr><tr><td><strong>HFrEF</strong></td><td>≤40%</td><td>ARNi/ACEi + β-차단제 + MRA + SGLT2i 4제 병용</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 ≤40%<br>→ ＞40%</td><td>GDMT 전면 유지 - 절대 중단 금지; EF 회복 후에도 재악화 위험 높음 → 추적 심초음파 및 장기 관리 필수</td></tr></tbody></table>
 
 ### <mark style="color:orange;">급성 심부전 초기 관리</mark>
 
@@ -183,7 +183,7 @@ flowchart TD
     START(["급성 심부전 의심 환자"])
     style START fill:#eeeeee,stroke:#888888,stroke-width:2px
 
-    subgraph URGENT["<b>Urgent phase — 첫 번째 진료/평가"]
+    subgraph URGENT["<b>Urgent phase - 첫 번째 진료/평가"]
         direction TB
         Q1["Cardiogenic shock?"]
         Q2["Respiratory failure?"]
@@ -197,9 +197,9 @@ flowchart TD
     ICU["즉각적인 안정화 및\nICU / CCU로 환자 이동"]
     style ICU fill:#fbb,stroke:#c00,stroke-width:2px
 
-    subgraph IMMEDIATE["<b>Immediate phase — 첫 평가 후 60~120분 이내"]
+    subgraph IMMEDIATE["<b>Immediate phase - 첫 평가 후 60~120분 이내"]
         direction TB
-        CAUSE["급성 원인 평가 — CHAMPIT\n①acute Coronary syndrome?\n②Hypertension emergency?\n③Arrhythmia?\n④acute Mechanical cause?*\n⑤Pulmonary embolism?\n⑥Infections?\n⑦cardiac Tamponade?"]
+        CAUSE["급성 원인 평가 - CHAMPIT\n①acute Coronary syndrome?\n②Hypertension emergency?\n③Arrhythmia?\n④acute Mechanical cause?*\n⑤Pulmonary embolism?\n⑥Infections?\n⑦cardiac Tamponade?"]
         TREAT["원인에 대한 치료를 즉각 시행"]
         style TREAT fill:#e3f2ff,stroke:#2196f3
     end
@@ -239,7 +239,7 @@ flowchart TD
 1. 고혈압 : 적절한 혈압 조절
 2. SGLT2i : T2DM + CVD 또는 심혈관 고위험군; T2DM + CKD
 3. 규칙적인 신체 활동, 정상 체중 유지, 건강한 식습관, 흡연 회피
-4. HF 발병 위험 환자에서 natriuretic peptide 선별 검사 고려 — 일부 가이드라인(AHA/ACC/HFSA 2022)에서 제안; ESC 2021은 별도 권고 없음
+4. HF 발병 위험 환자에서 natriuretic peptide 선별 검사 고려 - 일부 가이드라인(AHA/ACC/HFSA 2022)에서 제안; ESC 2021은 별도 권고 없음
 5. 다변수 Risk score 평가 고려 (예: Framingham HF risk score, PCP-HF, PREVENT score)
 
 #### <mark style="color:$primary;">Stage B : Pre-HF</mark>
@@ -330,7 +330,7 @@ _\*NP biomarker 선별 검사는 AHA/ACC/HFSA 2022에서 고려 가능하다고 
 flowchart TD
     START(["증상성 HFrEF 환자\n(LVEF ≤ 40%)"])
     style START fill:#eeeeee,stroke:#888888,stroke-width:2px
-QUAD["<b>Class I — 4제 동시 시작\n(목표 용량까지 titration)</b>
+QUAD["<b>Class I - 4제 동시 시작\n(목표 용량까지 titration)</b>
 •ACEi\n(또는 ARNi¹⁾ 또는 ARB)\n•Beta-blocker\n•MRA\n•SGLT2i
 \n*필요 시 이뇨제 추가\n(증상 완화 목적)"]
     ASSESS["추적 평가\n(3개월)\nLVEF · 증상 재평가"]
@@ -525,7 +525,7 @@ NYHA II\~IV, LVEF ≤40% (또는 기준에 따라 상이) 증상성 HFrEF에서 
 
 * 적용 : fluid overload, 급성 HF 초기 울혈의 신속한 개선
 * 최소 유효 용량 시작; 고령자 용량 적음; thiazide + loop diuretics 병용 시 추가 효과
-* 부작용 : Na↓, K↓(또는 K↑), Mg↓, 요산↑; 사용 시 주의 : Na ＜135, K ＜3.5 또는 ＞5.0, Cr ＞3.0, Mg ＜1.8, 산증 — 중증 HF에서는 더 심한 저나트륨혈증·신기능 저하에서도 필요 시 loop diuretic을 사용하며, 절대 금기는 아님
+* 부작용 : Na↓, K↓(또는 K↑), Mg↓, 요산↑; 사용 시 주의 : Na ＜135, K ＜3.5 또는 ＞5.0, Cr ＞3.0, Mg ＜1.8, 산증 - 중증 HF에서는 더 심한 저나트륨혈증·신기능 저하에서도 필요 시 loop diuretic을 사용하며, 절대 금기는 아님
 * torsemide : furosemide보다 흡수·반감기 우수
 
 <table data-search="false"><thead><tr><th width="280">Drug</th><th width="200">시작 용량 (㎎)</th><th>최대 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>Loop diuretics</strong></td><td></td><td></td></tr><tr><td>furosemide <mark style="color:blue;">[라식스]</mark></td><td>20–40 qd/bid</td><td>600</td></tr><tr><td>bumetanide </td><td>0.5–1.0 qd/bid</td><td>10</td></tr><tr><td>torsemide <mark style="color:blue;">[토르세미드]</mark></td><td>10–20 qd</td><td>200</td></tr><tr><td><strong>Thiazide diuretics</strong></td><td></td><td></td></tr><tr><td>chlorthalidone <mark style="color:blue;">[하이그로톤]</mark></td><td>12.5–25 qd</td><td>100</td></tr><tr><td>hydrochlorothiazide <mark style="color:blue;">[다이크로짇]</mark></td><td>25 qd</td><td>200</td></tr><tr><td>indapamide <mark style="color:blue;">[후루덱스]</mark></td><td>2.5 qd</td><td>5</td></tr><tr><td>metolazone </td><td>2.5 qd</td><td>20</td></tr></tbody></table>

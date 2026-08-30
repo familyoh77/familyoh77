@@ -40,7 +40,7 @@
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* 과거 발목 염좌 병력(가장 강력한 위험 인자) — 불충분한 재활 후 조기 복귀 시 재발률 상승
+* 과거 발목 염좌 병력(가장 강력한 위험 인자) - 불충분한 재활 후 조기 복귀 시 재발률 상승
 * 고유수용감각(proprioception) 저하, 자세 불안정, 보행 이상
 * 근력 저하(비골근 등 외재근), 부적절한 준비운동
 * 지면·신발 요인 : 고르지 않은 지면, 부적절한 신발(단, 특정 신발이 예방 효과가 입증되지는 않음)
@@ -49,7 +49,7 @@
 ## <mark style="color:green;">임상 양상</mark>
 
 * 증상 : 부종, 혈종, 압통, 체중 부하 시 통증
-* 손상 초기에는 통증/부종/근육 경직으로 인하여 정확한 판정이 어려움 — 발생 4\~7일째의 지연 진찰이 손상 정도 평가에 더 정확할 수 있음 (AFP 2025;112(6):609)
+* 손상 초기에는 통증/부종/근육 경직으로 인하여 정확한 판정이 어려움 - 발생 4\~7일째의 지연 진찰이 손상 정도 평가에 더 정확할 수 있음 (AFP 2025;112(6):609)
 * 만성 불안정성(CAI) 시 : 반복적인 "giving-way"(꺾임) 감각, 운동 중 불안, 부종 재발
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -59,20 +59,20 @@
 * 명백한 변형/탈구 소견 (→ 골절-탈구 의심, 정복 및 정형외과 응급 의뢰)
 * 원위부 맥박 소실, 감각 이상, 창백·냉감 등 신경혈관 손상 징후
 * 손상 부위 대비 불균형하게 심한 통증 + 팽팽한 부종 + 수동 신전 시 극심한 통증 (→ 구획증후군 의심)
-* 개방골절이 의심되는 상처(골 노출, 깊은 창상, 심한 변형 동반 등) — 응급 창상 처치·항생제·파상풍 예방 및 정형외과 의뢰
+* 개방골절이 의심되는 상처(골 노출, 깊은 창상, 심한 변형 동반 등) - 응급 창상 처치·항생제·파상풍 예방 및 정형외과 의뢰
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * Ottawa ankle/foot rule 양성(해당 골 압통 또는 **손상 직후와 진료 시 모두 4걸음 체중부하 불가**) → 당일 X선 검사
 * 고에너지 외상(교통사고, 고소 낙상 등)을 동반한 손상
-* squeeze test/external rotation test 양성 등 syndesmotic(high ankle) sprain 의심 소견 — instability/diastasis 여부에 따라 치료가 달라지므로 조기 추가 평가 및 정형외과 협진 고려
-* 중족부 심한 통증·부종, plantar ecchymosis, tarsometatarsal joint 압통 또는 forefoot stress pain 등 Lisfranc injury 의심 소견 — weight-bearing X선 우선 고려, 의심이 높으면 CT/MRI 및 정형외과 평가
-* Achilles tendon rupture 의심 — 갑작스러운 후방 통증/파열감("뒤에서 차인 듯한" 느낌), plantar flexion 현저한 약화, single-leg heel raise 불가, Thompson test 양성 → 조기 정형외과 평가
-* 심한 부종·반상출혈과 현저한 기능 제한으로 체중부하가 거의 불가능한 경우 — 골절·중증 인대 손상 동반 여부 확인 및 초기 보호/고정 방침 결정
+* squeeze test/external rotation test 양성 등 syndesmotic(high ankle) sprain 의심 소견 - instability/diastasis 여부에 따라 치료가 달라지므로 조기 추가 평가 및 정형외과 협진 고려
+* 중족부 심한 통증·부종, plantar ecchymosis, tarsometatarsal joint 압통 또는 forefoot stress pain 등 Lisfranc injury 의심 소견 - weight-bearing X선 우선 고려, 의심이 높으면 CT/MRI 및 정형외과 평가
+* Achilles tendon rupture 의심 - 갑작스러운 후방 통증/파열감("뒤에서 차인 듯한" 느낌), plantar flexion 현저한 약화, single-leg heel raise 불가, Thompson test 양성 → 조기 정형외과 평가
+* 심한 부종·반상출혈과 현저한 기능 제한으로 체중부하가 거의 불가능한 경우 - 골절·중증 인대 손상 동반 여부 확인 및 초기 보호/고정 방침 결정
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 표준 치료 수주 후에도 통증·부종·기능 제한이 지속되면 진단을 재평가 — osteochondral lesion, **talar fracture**, peroneal tendon injury, syndesmotic injury, impingement, 중족부 증상 시 Lisfranc injury 등을 고려하고 의심 병변에 따라 MRI/CT/초음파 선택(예상 경과를 벗어나는 경우 특히 talar fracture·peroneal tendon injury 배제 목적의 MRI 고려, AFP 2025)
+* 표준 치료 수주 후에도 통증·부종·기능 제한이 지속되면 진단을 재평가 - osteochondral lesion, **talar fracture**, peroneal tendon injury, syndesmotic injury, impingement, 중족부 증상 시 Lisfranc injury 등을 고려하고 의심 병변에 따라 MRI/CT/초음파 선택(예상 경과를 벗어나는 경우 특히 talar fracture·peroneal tendon injury 배제 목적의 MRI 고려, AFP 2025)
 * 반복적인 "giving-way"·재발성 염좌 또는 불안정감이 지속되면 즉시 구조화된 균형·근력·고유수용감각 재활을 시행; 수개월의 적절한 재활에도 지속되면 CAI 평가 및 정형외과/스포츠의학 의뢰
 * 골다공증 위험이 있는 고령 환자의 반복 손상 (→ 골밀도 평가 고려)
 
@@ -82,27 +82,27 @@
 
 ### <mark style="color:orange;">유발 검사</mark>
 
-* anterior drawer test : 무릎 굴곡 및 발목을 약간(15°) plantar-flex한 자세에서 검사자는 한쪽 손으로 경골을 고정하고 다른 손으로 뒤꿈치를 잡고 앞으로 당김; 건측에 비하여 전방 이동(＞1 ㎝)이 있으면 양성 — ATFL 평가
-* talar tilt test : 검사대에 걸터앉아 발을 늘어뜨리고 약간 ankle plantar-flex 자세에서 검사자는 한쪽 손으로 경골을 고정하고 다른 손으로 calcaneus를 잡고 발목을 inversion시킴; 건측에 비하여 움직임이 크면(＞15°) 양성 — CFL 평가✽전통적으로 저굴 자세에서 시행하며 이 경우 ATFL을 1차적으로, CFL을 2차적으로 반영함; CFL을 보다 선택적으로 평가하려면 중립 또는 약간의 배굴(dorsiflexion) 자세가 이론적으로 더 적절함
-* manual squeeze test : supine position에서 검사자가 환자의 아래쪽에 위치하여 양손을 종아리 중간 ⅓ 측부에 놓고 압박; 경비골 원위부(발목 관절 바로 위)에서 통증 발생 시 양성 — ankle syndesmosis 평가
-* external rotation test : 무릎 90° 굴곡, 발목 중립 자세에서 발을 외회전; 경비골 원위부 통증 유발 시 양성 — syndesmosis 평가
-* crossed-leg test : 환자가 건측 무릎 위에 환측 종아리 중간 부위를 가로질러 얹고, 검사자가 환측 무릎 내측을 아래로 눌러 경비골 원위부 통증 유발 여부 확인 — syndesmosis 손상 평가
+* anterior drawer test : 무릎 굴곡 및 발목을 약간(15°) plantar-flex한 자세에서 검사자는 한쪽 손으로 경골을 고정하고 다른 손으로 뒤꿈치를 잡고 앞으로 당김; 건측에 비하여 전방 이동(＞1 ㎝)이 있으면 양성 - ATFL 평가
+* talar tilt test : 검사대에 걸터앉아 발을 늘어뜨리고 약간 ankle plantar-flex 자세에서 검사자는 한쪽 손으로 경골을 고정하고 다른 손으로 calcaneus를 잡고 발목을 inversion시킴; 건측에 비하여 움직임이 크면(＞15°) 양성 - CFL 평가✽전통적으로 저굴 자세에서 시행하며 이 경우 ATFL을 1차적으로, CFL을 2차적으로 반영함; CFL을 보다 선택적으로 평가하려면 중립 또는 약간의 배굴(dorsiflexion) 자세가 이론적으로 더 적절함
+* manual squeeze test : supine position에서 검사자가 환자의 아래쪽에 위치하여 양손을 종아리 중간 ⅓ 측부에 놓고 압박; 경비골 원위부(발목 관절 바로 위)에서 통증 발생 시 양성 - ankle syndesmosis 평가
+* external rotation test : 무릎 90° 굴곡, 발목 중립 자세에서 발을 외회전; 경비골 원위부 통증 유발 시 양성 - syndesmosis 평가
+* crossed-leg test : 환자가 건측 무릎 위에 환측 종아리 중간 부위를 가로질러 얹고, 검사자가 환측 무릎 내측을 아래로 눌러 경비골 원위부 통증 유발 여부 확인 - syndesmosis 손상 평가
 * **Maisonneuve fracture 스크리닝** : syndesmotic injury 또는 medial ankle injury(내측 압통·eversion 기전)가 의심되면 **근위 비골까지 반드시 촉진**한다. 근위 비골 자체의 통증은 경미할 수 있으므로 압통이 있으면 tibia/fibula 전체 영상 평가를 고려한다
 
 {% hint style="info" %}
 **International Ankle Consortium ROAST(2019)** 는 급성 외측 염좌 환자에서 손상 기전, 골·인대 촉진, 기능 평가를 포함한 표준화된 임상 평가를 권고하며, 만성 발목 불안정성 이행을 조기에 선별할 것을 강조함
 {% endhint %}
 
-### <mark style="color:orange;">만성 발목 불안정성(CAI) 선별 — CAIT</mark>
+### <mark style="color:orange;">만성 발목 불안정성(CAI) 선별 - CAIT</mark>
 
 * **CAIT(Cumberland Ankle Instability Tool)** : 반복적인 giving-way, 불안정감, 운동 중 자신감 저하를 겪는 환자에서 CAI 선별에 사용하는 검증된 자가 설문지(9문항, 총점 0\~30점)
-* 채점/판정 : 총점 **&lt;24점** — CAI를 시사하는 대표적 cut-off(International Ankle Consortium 연구 기준). 단, CAIT 단독으로 CAI를 확진하지 않으며 병력·giving-way·기능 제한과 함께 평가
+* 채점/판정 : 총점 **&lt;24점** - CAI를 시사하는 대표적 cut-off(International Ankle Consortium 연구 기준). 단, CAIT 단독으로 CAI를 확진하지 않으며 병력·giving-way·기능 제한과 함께 평가
 * 초기 급성 염좌에서는 필수 검사는 아니나, 반복 손상이나 지속되는 giving-way 호소 시 시행하여 구조화된 재활 필요성을 객관화하는 데 도움
 
 ### <mark style="color:orange;">영상 검사</mark>
 
 * X선, MRI, CT, 초음파
-* 일률적 검사는 권고하지 않음 — 검사 대상 : 골절 의심(Ottawa rule에서 골절 의심), 치료에 호전 없음, syndesmotic injury 의심(불안정성 평가)
+* 일률적 검사는 권고하지 않음 - 검사 대상 : 골절 의심(Ottawa rule에서 골절 의심), 치료에 호전 없음, syndesmotic injury 의심(불안정성 평가)
 * MRI는 ATFL/CFL 파열 확인에 유용하나 급성기 일률적 시행은 권장되지 않음; osteochondral lesion, 힘줄 손상, syndesmosis 손상이 의심될 때 고려; 충분한 재활에도 반응하지 않는 만성 발목 불안정성(CAI) 평가에서도 구조적 원인(인대 상태, 동반 병변) 확인 목적의 보조 검사로 사용 가능
 
 ### <mark style="color:orange;">골절 감별 : Ottawa ankle rules</mark>
@@ -204,7 +204,7 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support와 통�
 
 ### <mark style="color:orange;">아급성기 이후 (LOVE, 수일~수주)</mark>
 
-* Load(부하) : 통증이 허용하는 범위에서 조기 체중 부하·능동 운동 재개 — 통증 감소 및 회복에 유효
+* Load(부하) : 통증이 허용하는 범위에서 조기 체중 부하·능동 운동 재개 - 통증 감소 및 회복에 유효
 * Optimism(낙관) : 회복에 대한 긍정적 기대가 예후와 연관됨; catastrophizing·불안은 회복 지연과 관련
 * Vascularisation(혈류 증진) : 통증 없는 범위의 유산소 운동으로 혈류 촉진, 동기 부여 및 복귀 촉진
 * Exercise(운동) : 통증과 부종이 허용하는 범위에서 조기에 ROM 운동을 시작하고, 이후 균형·근력·고유수용감각 운동을 단계적으로 추가; 물리치료(physical therapy) 병행 고려
@@ -215,13 +215,13 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support와 통�
 * 근력 강화 : band 운동, 앞쪽 발로 낮은 계단 끝에 서서 뒤꿈치 올리고 내리기
 * Plyometrics : 쪼그려 앉았다 점프하기, 가위뛰기(앞뒤로 다리 벌리고 교차 뛰기), bounding(최대 속도의 50%로 큰 보폭으로 튀어 오르며 달리기)
 * 표적화된 신경근육 재활 프로그램은 통상 **8\~12주**간 시행 (AFP 2025)
-* 운동 시 발목 보호 장구(브레이스/테이핑) 적용 — 재발 방지에 근거 있음(특히 기존 손상력 있는 경우); 복귀 후에도 활동 시 **최대 12개월**까지 브레이스 착용을 지속하는 것이 재발 방지에 도움이 될 수 있음(Grade B, AFP 2025). 실제 착용 기간·강도는 활동 수준과 재발 위험에 따라 개별적으로 조정
+* 운동 시 발목 보호 장구(브레이스/테이핑) 적용 - 재발 방지에 근거 있음(특히 기존 손상력 있는 경우); 복귀 후에도 활동 시 **최대 12개월**까지 브레이스 착용을 지속하는 것이 재발 방지에 도움이 될 수 있음(Grade B, AFP 2025). 실제 착용 기간·강도는 활동 수준과 재발 위험에 따라 개별적으로 조정
 * 발목 인대 부상 또는 재발을 방지할 수 있는 효과가 입증된 신발 종류는 없음
 
-### <mark style="color:orange;">스포츠 복귀 Return to Sport — PAASS framework</mark>
+### <mark style="color:orange;">스포츠 복귀 Return to Sport - PAASS framework</mark>
 
 {% hint style="info" %}
-**PAASS framework (Smith et al., BJSM 2021)** — 급성 외측 발목 염좌 후 복귀는 단순한 경과 기간보다 다음 5개 영역의 회복을 종합하여 판단한다.
+**PAASS framework (Smith et al., BJSM 2021)** - 급성 외측 발목 염좌 후 복귀는 단순한 경과 기간보다 다음 5개 영역의 회복을 종합하여 판단한다.
 {% endhint %}
 
 <table><thead><tr><th width="180">영역</th><th>평가 항목</th></tr></thead><tbody><tr><td><strong>P</strong>ain</td><td>스포츠 중 및 최근 24시간의 통증</td></tr><tr><td><strong>A</strong>nkle impairments</td><td>발목 ROM, 근력, endurance, power</td></tr><tr><td><strong>A</strong>thlete perception</td><td>발목 안정감·자신감, 심리적 준비도</td></tr><tr><td><strong>S</strong>ensorimotor control</td><td>고유수용감각, 동적 균형, 자세 조절</td></tr><tr><td><strong>S</strong>port/functional performance</td><td>hop/jump/agility, sport-specific drill 수행 및 full training session 완료 능력</td></tr></tbody></table>
@@ -269,7 +269,7 @@ S93.4 발목의 염좌 및 긴장
 
 S93.6 발의 기타 및 상세불명 부위의 염좌 및 긴장
 
-S96 발목 및 발 부위의 근육 및 힘줄의 손상 — **동반 근·힘줄 손상 시**
+S96 발목 및 발 부위의 근육 및 힘줄의 손상 - **동반 근·힘줄 손상 시**
 
 ***
 
@@ -328,10 +328,10 @@ S96 발목 및 발 부위의 근육 및 힘줄의 손상 — **동반 근·힘�
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 감각 이상, 창백, 냉감, 극심한 통증이 동반되는 경우 — 즉시 내원
+> * 감각 이상, 창백, 냉감, 극심한 통증이 동반되는 경우 - 즉시 내원
 > * 48\~72시간 이상 보존적 치료에도 통증·부종이 악화되는 경우
 > * 4\~6주 후에도 호전이 없거나 정상적으로 걷기 어려운 경우
-> * "발목이 자꾸 꺾인다(giving-way)"는 느낌이 반복되는 경우 — 만성 발목 불안정성 평가 필요
+> * "발목이 자꾸 꺾인다(giving-way)"는 느낌이 반복되는 경우 - 만성 발목 불안정성 평가 필요
 
 ***
 
@@ -375,4 +375,4 @@ S96 발목 및 발 부위의 근육 및 힘줄의 손상 — **동반 근·힘�
 * 다친 직후부터 체중을 거의 실을 수 없거나, 통증·부종이 매우 심한 경우
 * 48시간 이상 통증과 부기가 오히려 심해지는 경우
 * 수주가 지나도 잘 낫지 않거나, 발목이 자꾸 "꺾이는" 느낌이 반복되는 경우
-* 발바닥 중간에 멍이 들거나 발등·중족부가 심하게 붓고 아픈 경우 — Lisfranc injury 등 중족부 손상 평가 필요
+* 발바닥 중간에 멍이 들거나 발등·중족부가 심하게 붓고 아픈 경우 - Lisfranc injury 등 중족부 손상 평가 필요

@@ -40,7 +40,7 @@
 
 #### <mark style="color:$primary;">질환별 특징</mark>
 
-<table><thead><tr><th width="112">질환</th><th width="270">증상 및 징후</th><th>원인</th></tr></thead><tbody><tr><td><a href="042_-dry-eye.md"><strong>안구건조증</strong></a></td><td>양측, 이물감을 동반한 가려움, 경증 통증, 간헐적 심한 눈물, 시력 유지</td><td>눈물 조성 이상, 생성 감소, 과도한 증발; 항콜린제, 항히스타민제, 경구 피임제; Sjögren 증후군</td></tr><tr><td><a href="039_-blepharitis.md"><strong>안검염</strong></a></td><td>깨어 있는 동안 악화, 속눈썹 위의 비듬 같은 비늘, 눈꺼풀 방향 이상, 눈꺼풀 부종</td><td>눈꺼풀의 만성 염증</td></tr><tr><td><strong>각막 찰과상,</strong> <a href="045_-foreign-body-in-the-eye.md"><strong>이물</strong></a></td><td>양측/편측 심한 안구통, 눈물, 눈부심, 이물감, 안검 경련, 반응성 축동, 각막 부종 또는 혼탁, (손상 부위에 따라) 시력 저하</td><td>직접 손상(예: 이물, 렌즈, 화장, 손)</td></tr><tr><td><a href="044_-subconjunctival-hemorrhage.md"><strong>결막하출혈</strong></a></td><td>시력 유지, 공막 부위의 뚜렷한 경계의 적색 반, 경미한 통증 또는 무통, 분비물 없음</td><td>자발적, 심한 기침, 운동, 고혈압, 혈액 질환, 외상(예: 충격, 문지름)</td></tr><tr><td><strong>상공막염</strong></td><td>시력 유지, 뚜렷한 충혈 반, 상공막 부종, 충혈 부위 압통, 경미한 통증 또는 무통, 약간의 눈물</td><td>특발성</td></tr><tr><td><strong>각막염</strong></td><td>시력 저하, 각막 혼탁, 눈부심, 눈꺼풀 부종, hypopyon, 통증, 점액농성 분비물, 이물감</td><td>이물, 렌즈, 세균(포도알균, 사슬알균), 바이러스(HSV, VZV, Adenovirus; EBV·CMV는 면역 저하자)</td></tr><tr><td><strong>홍채염</strong></td><td>시력 저하, 통증(주위 방사통), 눈물, 눈부심, 수 시간 동안 심해짐</td><td>외인성 감염, 자가면역 질환</td></tr><tr><td><strong>녹내장</strong></td><td>현저한 시력 저하, 동공 확장, 급성 악화, 압통, 눈물, 광륜(halo), 박동성 통증; 녹내장 편측</td><td>aqueous humor 유출로 폐쇄</td></tr><tr><td><strong>화학적 화상</strong></td><td>시력 저하, 심한 통증 및 충혈, 눈부심</td><td>—</td></tr><tr><td><strong>공막염</strong></td><td>광범위 충혈, 시력 저하, 압통, 공막 부종, 각막 개입(공막 주변), 심한 찌르는 듯한 통증(주위 방사통), 심한 야간 통증, 눈을 움직일 때 통증, 눈물, 눈부심</td><td>[전신 질환] RA, 반응성 관절염, Wegener granulomatosis, sarcoidosis, IBD, 매독, 결핵</td></tr></tbody></table>
+<table><thead><tr><th width="112">질환</th><th width="270">증상 및 징후</th><th>원인</th></tr></thead><tbody><tr><td><a href="042_-dry-eye.md"><strong>안구건조증</strong></a></td><td>양측, 이물감을 동반한 가려움, 경증 통증, 간헐적 심한 눈물, 시력 유지</td><td>눈물 조성 이상, 생성 감소, 과도한 증발; 항콜린제, 항히스타민제, 경구 피임제; Sjögren 증후군</td></tr><tr><td><a href="039_-blepharitis.md"><strong>안검염</strong></a></td><td>깨어 있는 동안 악화, 속눈썹 위의 비듬 같은 비늘, 눈꺼풀 방향 이상, 눈꺼풀 부종</td><td>눈꺼풀의 만성 염증</td></tr><tr><td><strong>각막 찰과상,</strong> <a href="045_-foreign-body-in-the-eye.md"><strong>이물</strong></a></td><td>양측/편측 심한 안구통, 눈물, 눈부심, 이물감, 안검 경련, 반응성 축동, 각막 부종 또는 혼탁, (손상 부위에 따라) 시력 저하</td><td>직접 손상(예: 이물, 렌즈, 화장, 손)</td></tr><tr><td><a href="044_-subconjunctival-hemorrhage.md"><strong>결막하출혈</strong></a></td><td>시력 유지, 공막 부위의 뚜렷한 경계의 적색 반, 경미한 통증 또는 무통, 분비물 없음</td><td>자발적, 심한 기침, 운동, 고혈압, 혈액 질환, 외상(예: 충격, 문지름)</td></tr><tr><td><strong>상공막염</strong></td><td>시력 유지, 뚜렷한 충혈 반, 상공막 부종, 충혈 부위 압통, 경미한 통증 또는 무통, 약간의 눈물</td><td>특발성</td></tr><tr><td><strong>각막염</strong></td><td>시력 저하, 각막 혼탁, 눈부심, 눈꺼풀 부종, hypopyon, 통증, 점액농성 분비물, 이물감</td><td>이물, 렌즈, 세균(포도알균, 사슬알균), 바이러스(HSV, VZV, Adenovirus; EBV·CMV는 면역 저하자)</td></tr><tr><td><strong>홍채염</strong></td><td>시력 저하, 통증(주위 방사통), 눈물, 눈부심, 수 시간 동안 심해짐</td><td>외인성 감염, 자가면역 질환</td></tr><tr><td><strong>녹내장</strong></td><td>현저한 시력 저하, 동공 확장, 급성 악화, 압통, 눈물, 광륜(halo), 박동성 통증; 녹내장 편측</td><td>aqueous humor 유출로 폐쇄</td></tr><tr><td><strong>화학적 화상</strong></td><td>시력 저하, 심한 통증 및 충혈, 눈부심</td><td>-</td></tr><tr><td><strong>공막염</strong></td><td>광범위 충혈, 시력 저하, 압통, 공막 부종, 각막 개입(공막 주변), 심한 찌르는 듯한 통증(주위 방사통), 심한 야간 통증, 눈을 움직일 때 통증, 눈물, 눈부심</td><td>[전신 질환] RA, 반응성 관절염, Wegener granulomatosis, sarcoidosis, IBD, 매독, 결핵</td></tr></tbody></table>
 
 _Ref. Diagnosis and management of red eye in primary care, Table 1. AFP. 2010:15;81(2)._
 
@@ -92,10 +92,10 @@ _\*_**스테로이드 점안액** : 각막 궤양, HSV 각막염이 의심되는
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 치료를 시작했는데도 5\~7일 내 증상이 호전되지 않는 경우
-> * 눈이 충혈되면서 **시력이 흐려지거나 떨어지는** 경우 — 즉시 내원
-> * **심한 눈의 통증** 또는 두통·구역이 동반되는 경우 — 즉시 내원
-> * 눈에 강한 빛을 보기 힘들 정도로 **눈부심이 심해지는** 경우 — 즉시 내원
-> * 눈에 화학물질이 튀었거나 날카로운 것에 찔린 경우 — **즉시 응급실**
+> * 눈이 충혈되면서 **시력이 흐려지거나 떨어지는** 경우 - 즉시 내원
+> * **심한 눈의 통증** 또는 두통·구역이 동반되는 경우 - 즉시 내원
+> * 눈에 강한 빛을 보기 힘들 정도로 **눈부심이 심해지는** 경우 - 즉시 내원
+> * 눈에 화학물질이 튀었거나 날카로운 것에 찔린 경우 - **즉시 응급실**
 
 ***
 
@@ -158,7 +158,7 @@ _\*_**스테로이드 점안액** : 각막 궤양, HSV 각막염이 의심되는
 * 눈의 충혈과 함께 **시력이 갑자기 떨어지거나 흐려지는** 경우
 * **심한 눈의 통증** 또는 박동성 두통·구역·구토가 동반되는 경우 (녹내장 의심)
 * 강한 빛을 보기 힘들 정도로 **눈부심이 심한** 경우
-* **화학물질이 눈에 들어간** 경우 — 세안 후 즉시
+* **화학물질이 눈에 들어간** 경우 - 세안 후 즉시
 * 눈에 **날카로운 물체가 박혔거나 심한 외상**을 입은 경우
 * 눈 충혈과 함께 얼굴·이마 부위에 **수포성 발진**이 생기는 경우 (대상포진 의심)
 * 결막염으로 치료 중인데 **5\~7일이 지나도 호전이 없는** 경우

@@ -10,7 +10,7 @@
   * 속발성 : 외상, 감염, 결정성 관절염, 내분비·대사 질환, 선천성 기형 등 명확한 선행 원인에 의해 이차적으로 발생
 * 호발 부위 : 무릎, 엉덩이, 손, 척추 관절
 * 유병률
-  * 국내 65세 이상 의사진단 유병률(2017\~2021년 국민건강영양조사) : 전체 30.2%, 여성 43.5%, 남성 13%; 고령일수록, 여성에서 증가 — 엉덩관절은 남성에서, 손·무릎관절은 여성에서 상대적으로 더 흔함
+  * 국내 65세 이상 의사진단 유병률(2017\~2021년 국민건강영양조사) : 전체 30.2%, 여성 43.5%, 남성 13%; 고령일수록, 여성에서 증가 - 엉덩관절은 남성에서, 손·무릎관절은 여성에서 상대적으로 더 흔함
   * 국내 50세 이상 무릎 골관절염 유병률 : 방사선학적 유병률 약 37\~38%, 증상 동반 유병률 약 14\~24% (질병관리청, 국민건강영양조사)
 * 합병증 : 관절 변형, 보행 장애 및 낙상 위험 증가, 만성 통증에 의한 우울·불안, 활동량 감소에 따른 심혈관 질환·대사증후군 위험 증가
 * 치료 목표 : 통증·염증 감소, 기능 유지, 삶의 질 향상
@@ -57,7 +57,7 @@
 #### <mark style="color:$primary;">고관절</mark>
 
 * 엉덩이 통증, 사타구니-앞쪽넓적다리 방사통
-* 관절가동범위 감소 — 특히 내회전(internal rotation) 감소가 비교적 초기부터 흔하며, 진행 시 굴곡·외전 등도 제한
+* 관절가동범위 감소 - 특히 내회전(internal rotation) 감소가 비교적 초기부터 흔하며, 진행 시 굴곡·외전 등도 제한
 
 #### <mark style="color:$primary;">발</mark>
 
@@ -68,7 +68,7 @@
 
 * 흔히 하부 경추 및 하부 요추의 apophyseal (facet) joint 이환
 * 경추 부위 퇴행성 변화가 신경근을 압박하면 목/어깨/상지 방사통, 상지 저림·위약감 동반 가능
-* 요추의 퇴행성 변화가 척추관협착증 또는 추간판탈출증에 의한 신경 압박을 동반하면 하지 방사통·감각 저하·근력 저하 및 neurogenic claudication(pseudoclaudication)이 발생할 수 있음 — 이는 facet OA 자체보다는 동반된 신경 압박 병변에 의한 소견임에 유의; 배뇨/배변 장애·안장마취 동반 시에는 마미증후군을 의심하여 즉시 의뢰
+* 요추의 퇴행성 변화가 척추관협착증 또는 추간판탈출증에 의한 신경 압박을 동반하면 하지 방사통·감각 저하·근력 저하 및 neurogenic claudication(pseudoclaudication)이 발생할 수 있음 - 이는 facet OA 자체보다는 동반된 신경 압박 병변에 의한 소견임에 유의; 배뇨/배변 장애·안장마취 동반 시에는 마미증후군을 의심하여 즉시 의뢰
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -149,7 +149,7 @@
 
 #### <mark style="color:$primary;">관절 질환별 특징</mark>
 
-<table><thead><tr><th width="95">항목</th><th width="150">RA (p.815)</th><th width="150">통풍 (p.825)</th><th width="160">결체조직질환 (p.834)</th><th width="150">섬유근육통 (p.834)</th><th>류마티스성 다발근통(PMR)</th></tr></thead><tbody><tr><td>진행 속도</td><td>급성/아급성</td><td>급성</td><td>아급성</td><td>만성</td><td>수주 이내</td></tr><tr><td>성별/연령</td><td>남:여=1:3, 모든 연령</td><td>남:여=3:1 (폐경 전 여성은 드묾)</td><td>남:여=1:10, 20\~40세</td><td>남:여=1:7, 30\~50세</td><td>≥50세, 남:여=1:2</td></tr><tr><td>관절 침범 양상</td><td>대칭적 양측 손발</td><td>단일 관절염, 주로 발허리발가락·발목·무릎</td><td>중증 대칭적</td><td>널리 퍼진 형태</td><td>양측 어깨·고관절대 통증·조조강직</td></tr><tr><td>기타</td><td>레이노병, 건조한 눈/입, 전신 이상</td><td>위험 인자: 비만, 음주, 이뇨제 치료</td><td>레이노병, 나비모양/혈관염 양상 발진, 전신 증상, 홍반성 홍통</td><td>수면 질 저하, 연조직 통증, 유발점, 다양한 증상</td><td>ESR/CRP 상승; 거대세포동맥염(GCA) 동반 가능 — 새 두통·턱파행·시각 증상 확인</td></tr></tbody></table>
+<table><thead><tr><th width="95">항목</th><th width="150">RA (p.815)</th><th width="150">통풍 (p.825)</th><th width="160">결체조직질환 (p.834)</th><th width="150">섬유근육통 (p.834)</th><th>류마티스성 다발근통(PMR)</th></tr></thead><tbody><tr><td>진행 속도</td><td>급성/아급성</td><td>급성</td><td>아급성</td><td>만성</td><td>수주 이내</td></tr><tr><td>성별/연령</td><td>남:여=1:3, 모든 연령</td><td>남:여=3:1 (폐경 전 여성은 드묾)</td><td>남:여=1:10, 20\~40세</td><td>남:여=1:7, 30\~50세</td><td>≥50세, 남:여=1:2</td></tr><tr><td>관절 침범 양상</td><td>대칭적 양측 손발</td><td>단일 관절염, 주로 발허리발가락·발목·무릎</td><td>중증 대칭적</td><td>널리 퍼진 형태</td><td>양측 어깨·고관절대 통증·조조강직</td></tr><tr><td>기타</td><td>레이노병, 건조한 눈/입, 전신 이상</td><td>위험 인자: 비만, 음주, 이뇨제 치료</td><td>레이노병, 나비모양/혈관염 양상 발진, 전신 증상, 홍반성 홍통</td><td>수면 질 저하, 연조직 통증, 유발점, 다양한 증상</td><td>ESR/CRP 상승; 거대세포동맥염(GCA) 동반 가능 - 새 두통·턱파행·시각 증상 확인</td></tr></tbody></table>
 
 ***
 
@@ -207,7 +207,7 @@ graph TD
 
 * 효과 : 통증↓, 관절 기능↑, 삶의 질↑; 통증 등 관절염 증상으로 운동을 하지 않으면 관절의 운동 기능은 더욱 감소하고 강직, 부종, 근육 약화, 관절 불안정은 악화됨
 * 규칙적 운동 : 거의 매일 30분씩(10분씩 하루 3\~4회로 분할 시행할 수 있음), "조금이라도 하는 것이 전혀 안하는 것보다 낫다."
-* 강도 : 통증을 완전히 피할 필요는 없으며 경도의 일시적 불편감은 허용됨 — 이는 관절 손상을 의미하지 않음. 운동 후 통증이 현저히 악화되거나 다음날까지 지속되면 강도·시간을 조절 [NICE, 2024 Australian Knee OA Standard]
+* 강도 : 통증을 완전히 피할 필요는 없으며 경도의 일시적 불편감은 허용됨 - 이는 관절 손상을 의미하지 않음. 운동 후 통증이 현저히 악화되거나 다음날까지 지속되면 강도·시간을 조절 [NICE, 2024 Australian Knee OA Standard]
 * 신체/관절 상태에 맞는 운동을 선택; 비정상적인 관절은 심하지 않은 운동의 반복에 의해서도 OA 위험이 증가함
 
 ✽신체 활동 및 운동 가이드 (☞ [운동지침](../231_/216_-physical-activity-guideline.md))
@@ -257,7 +257,7 @@ graph TD
 아래는 ACR/AF(2019) 가이드라인의 관절 부위별(HAND/KNEE/HIP) 권고 강도를 정리한 표. 강한 권고 항목은 모든 환자에게 우선 고려, 조건부 권고 항목은 환자의 상황·선호를 반영한 공동 의사결정(shared decision-making) 하에 고려
 {% endhint %}
 
-<table><thead><tr><th width="230">비-약물·물리/심리사회적 치료</th><th width="90" align="center">HAND</th><th width="90" align="center">KNEE</th><th width="90" align="center">HIP</th></tr></thead><tbody><tr><td>운동(걷기, 강화 운동, 수상 운동 등)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>자가 관리 프로그램(목표 설정·문제 해결·질병 교육 등)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>1st CMC Orthosis(HAND) / TF Knee Brace(KNEE)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center">—</td></tr><tr><td>체중 감량(과체중·비만 동반)</td><td align="center">—</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>태극권(Tai Chi)</td><td align="center">—</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>지팡이(보행에 의미 있는 영향이 있는 경우)</td><td align="center">—</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>온/냉 치료, 인지행동 요법, Acupuncture</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td></tr><tr><td>Kinesiotaping(1st CMC 대상)</td><td align="center">조건부 권고</td><td align="center">—</td><td align="center">—</td></tr><tr><td>Balance Training</td><td align="center">—</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td></tr><tr><td>다른 손 Orthoses(1st CMC 이외) / PF Knee Brace</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">—</td></tr><tr><td>Paraffin(HAND) / Yoga(KNEE)</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">—</td></tr><tr><td>RFA(genicular nerve, KNEE)</td><td align="center">—</td><td align="center">조건부 권고</td><td align="center">—</td></tr></tbody></table>
+<table><thead><tr><th width="230">비-약물·물리/심리사회적 치료</th><th width="90" align="center">HAND</th><th width="90" align="center">KNEE</th><th width="90" align="center">HIP</th></tr></thead><tbody><tr><td>운동(걷기, 강화 운동, 수상 운동 등)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>자가 관리 프로그램(목표 설정·문제 해결·질병 교육 등)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>1st CMC Orthosis(HAND) / TF Knee Brace(KNEE)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center">-</td></tr><tr><td>체중 감량(과체중·비만 동반)</td><td align="center">-</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>태극권(Tai Chi)</td><td align="center">-</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>지팡이(보행에 의미 있는 영향이 있는 경우)</td><td align="center">-</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>온/냉 치료, 인지행동 요법, Acupuncture</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td></tr><tr><td>Kinesiotaping(1st CMC 대상)</td><td align="center">조건부 권고</td><td align="center">-</td><td align="center">-</td></tr><tr><td>Balance Training</td><td align="center">-</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td></tr><tr><td>다른 손 Orthoses(1st CMC 이외) / PF Knee Brace</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">-</td></tr><tr><td>Paraffin(HAND) / Yoga(KNEE)</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">-</td></tr><tr><td>RFA(genicular nerve, KNEE)</td><td align="center">-</td><td align="center">조건부 권고</td><td align="center">-</td></tr></tbody></table>
 
 * 무릎과 고관절 OA를 위한 운동에는 걷기, 강화 운동, 수상 운동 등이 있으며 감독을 받으면 더 좋은 결과를 보임
 * multidisciplinary group-based program : skill-building(목표 설정, 문제 해결, 긍정적 사고), 질병/약효/부작용에 대한 교육, 관절 보호, fitness & exercise goals
@@ -266,7 +266,7 @@ graph TD
 
 ### <mark style="color:orange;">골관절염의 '권고하지 않음' 요법</mark>
 
-<table><thead><tr><th width="260">비-약물·물리/심리사회적 치료</th><th width="90" align="center">HAND</th><th width="90" align="center">KNEE</th><th width="90" align="center">HIP</th></tr></thead><tbody><tr><td>TENS</td><td align="center">—</td><td align="center"><mark style="color:$danger;">강한 권고 안함</mark></td><td align="center">—</td></tr><tr><td>Iontophoresis(HAND) / Manual Therapy ±exercise(KNEE)</td><td align="center">조건부 권고 안함</td><td align="center">조건부 권고 안함</td><td align="center">—</td></tr><tr><td>Massage Therapy</td><td align="center">—</td><td align="center">조건부 권고 안함</td><td align="center">—</td></tr><tr><td>Modified Shoes / Wedged Insoles</td><td align="center">—</td><td align="center">조건부 권고 안함</td><td align="center">—</td></tr><tr><td>Pulsed Vibration Therapy</td><td align="center">—</td><td align="center">조건부 권고 안함</td><td align="center">—</td></tr></tbody></table>
+<table><thead><tr><th width="260">비-약물·물리/심리사회적 치료</th><th width="90" align="center">HAND</th><th width="90" align="center">KNEE</th><th width="90" align="center">HIP</th></tr></thead><tbody><tr><td>TENS</td><td align="center">-</td><td align="center"><mark style="color:$danger;">강한 권고 안함</mark></td><td align="center">-</td></tr><tr><td>Iontophoresis(HAND) / Manual Therapy ±exercise(KNEE)</td><td align="center">조건부 권고 안함</td><td align="center">조건부 권고 안함</td><td align="center">-</td></tr><tr><td>Massage Therapy</td><td align="center">-</td><td align="center">조건부 권고 안함</td><td align="center">-</td></tr><tr><td>Modified Shoes / Wedged Insoles</td><td align="center">-</td><td align="center">조건부 권고 안함</td><td align="center">-</td></tr><tr><td>Pulsed Vibration Therapy</td><td align="center">-</td><td align="center">조건부 권고 안함</td><td align="center">-</td></tr></tbody></table>
 
 > ✽감별에 참고 : 관절경을 이용한 세정술(lavage) 및 변연절제술(debridement)은 기계적 증상(locking 등)이 뚜렷하지 않은 OA 자체의 통증 완화 목적으로는 권고되지 않음(ACR/AF, AAOS)
 
@@ -298,7 +298,7 @@ Ref. ACR/AF. Guideline for the management of OA of the Hand, Hip, & Knee. 2019
 #### <mark style="color:$primary;">Acetaminophen</mark>
 
 * OA에서 1차 치료제로 권고하지 않음; 통증 감소 효과에 대한 근거가 약하고 간독성 우려가 있어 NICE 등 최신 지침에서도 routine 사용을 반복적으로 배제함
-* 주의 : 간/신 기능 저하 환자, 고령, 저체중, 과도한 음주 — 이런 경우 최대 용량을 더 낮춰 고려
+* 주의 : 간/신 기능 저하 환자, 고령, 저체중, 과도한 음주 - 이런 경우 최대 용량을 더 낮춰 고려
 * 용법 : 650\~1,000 ㎎ q8h prn, 최대 3 g/day (이 챕터의 OA 권고 상한이며, 제품 허가상 최대 용량과는 별개이므로 초과 처방 시 유의) <mark style="color:blue;">\[타이레놀]</mark>
 
 #### <mark style="color:$primary;">Opioid</mark>
@@ -310,7 +310,7 @@ Ref. ACR/AF. Guideline for the management of OA of the Hand, Hip, & Knee. 2019
 
 #### <mark style="color:$primary;">항우울제</mark>
 
-* duloxetine : 30\~60 ㎎ qd <mark style="color:blue;">\[심발타]</mark> — **무릎 OA에 대한 ACR/AF(2019) 조건부 권고 약제**; ACR/AF가 OA 통증에 조건부 권고하는 중추작용 진통제는 duloxetine이 대표적
+* duloxetine : 30\~60 ㎎ qd <mark style="color:blue;">\[심발타]</mark> - **무릎 OA에 대한 ACR/AF(2019) 조건부 권고 약제**; ACR/AF가 OA 통증에 조건부 권고하는 중추작용 진통제는 duloxetine이 대표적
   * 우울증 치료 용량보다 적은 용량에도 반응; 오심 등 초기 부작용은 대개 일시적 (보험기준 ☞ p.1177)
   * [ ] 요통과 골관절염 통증에 대한 항우울제 효과는 전반적으로 미약하다는 메타분석 보고가 있음
 * nortriptyline, amitriptyline 등 삼환계 항우울제(TCA)는 OA 통증 자체에 대한 근거는 충분하지 않으며, neuropathic pain 등 별도 적응증이 동반된 경우에 한해 저용량 사용을 고려 (☞ p.1146); 특히 고령자에서는 항콜린성 부작용·기립성 저혈압·낙상 위험을 고려하여 OA의 1차 진통 목적 병용은 권장하지 않음
@@ -365,7 +365,7 @@ Ref. ACR/AF. Guideline for the management of OA of the Hand, Hip, & Knee. 2019
 * 작용 : 관절의 점탄성 회복, chondrocyte 보호, 항염 작용 기대 (보험기준 ☞ p.1192)
 
 {% hint style="danger" %}
-**⚠️ 가이드라인 간 입장 차이 — 상용화된 통념과의 괴리**\
+**⚠️ 가이드라인 간 입장 차이 - 상용화된 통념과의 괴리**\
 무릎·고관절 OA에서 관절내 HA는 ACR/AF(2019)에서 조건부 권고 안함(무릎) 및 강한 권고 안함(고관절)으로 분류됨. OARSI(2019) 역시 근거 수준이 낮고 제제 간 표준화가 부족함을 지적. 이후 발표된 가이드라인은 부정적 입장이 더 강화되는 추세로, NICE(2022)는 OA 전반에서 HA 주사를 제공하지 말 것을, AAOS(2024)는 고관절 OA에서 위약 대비 기능·통증 개선 이득이 없다는 이유로 강한 반대 권고를 명시함. 국내 임상에서는 널리 사용되고 있으나, steroid 대비 장기 효과가 있다는 일부 연구와 위약 대비 이득이 불확실하다는 메타분석이 공존하므로 환자와 공동 의사결정을 통해 신중히 적용
 {% endhint %}
 
@@ -389,7 +389,7 @@ Ref. ACR/AF. Guideline for the management of OA of the Hand, Hip, & Knee. 2019
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 * Prolotherapy(증식치료) : 무릎·고관절 OA에 조건부 권고 안함 [ACR/AF 2019]
-* 관절경 세정술/변연절제술 : locking 등 기계적 증상이 뚜렷하지 않은 통증 완화 목적으로는 권고되지 않음 — ACR/AF 및 AAOS 모두 방향은 일관되게 "권고하지 않음"이나, 근거 등급은 AAOS 2013년판의 Strong에서 2021년 개정판 Moderate로 다소 낮아짐
+* 관절경 세정술/변연절제술 : locking 등 기계적 증상이 뚜렷하지 않은 통증 완화 목적으로는 권고되지 않음 - ACR/AF 및 AAOS 모두 방향은 일관되게 "권고하지 않음"이나, 근거 등급은 AAOS 2013년판의 Strong에서 2021년 개정판 Moderate로 다소 낮아짐
 * 인공관절 치환술(TKA/THA) : 보존적 치료(비-약물 치료 + 약물 치료)에 반응하지 않는 중증 기능 제한·통증 지속 시 정형외과 의뢰
 
 ***
@@ -476,9 +476,9 @@ M19.9 상세불명의 관절증
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 표준 치료(운동+진통제) 4\~6주 이내에 증상이 호전되지 않는 경우
-> * 관절에 **열감·발적과 함께 급격히 통증이 심해지는** 경우 — 감염성 관절염 감별 위해 즉시 내원
+> * 관절에 **열감·발적과 함께 급격히 통증이 심해지는** 경우 - 감염성 관절염 감별 위해 즉시 내원
 > * 원인 불명의 **체중 감소**, 야간 통증이 새로 생기는 경우
-> * 요통 환자에서 **하지 감각 저하, 다리 힘 빠짐, 배뇨·배변 장애**가 동반되는 경우 — 즉시 내원
+> * 요통 환자에서 **하지 감각 저하, 다리 힘 빠짐, 배뇨·배변 장애**가 동반되는 경우 - 즉시 내원
 
 ***
 
@@ -501,7 +501,7 @@ M19.9 상세불명의 관절증
 * **체중을 줄이십시오.** 무릎에는 걸을 때 체중의 3\~5배에 이르는 하중이 실리므로, 체중을 조금만 줄여도 통증이 뚜렷하게 줄어듭니다.
 * **관절에 무리가 가는 자세나 동작(쪼그려 앉기, 무거운 물건 들기)을 피하십시오.**
 * **온찜질과 냉찜질을 상황에 맞게 활용하십시오.** 뻣뻣함에는 온찜질, 급성 부종·통증에는 냉찜질이 도움이 됩니다.
-* **필요하면 지팡이나 무릎 보호대를 사용하십시오.** 부끄러워하지 않아도 됩니다 — 관절을 보호해 더 오래 걸을 수 있게 해줍니다.
+* **필요하면 지팡이나 무릎 보호대를 사용하십시오.** 부끄러워하지 않아도 됩니다 - 관절을 보호해 더 오래 걸을 수 있게 해줍니다.
 
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 

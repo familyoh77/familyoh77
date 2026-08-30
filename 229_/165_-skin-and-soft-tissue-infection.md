@@ -93,7 +93,7 @@ MRSA-active therapy는 위 급성기 임상 단서, 중증 감염, 1차 치료 �
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 {% hint style="danger" %}
-**Tier 1 — 즉시 응급실/외과 평가**
+**Tier 1 - 즉시 응급실/외과 평가**
 
 * 피부 소견에 비해 **극심한 통증(pain out of proportion)**
 * 수시간 단위의 빠른 진행 또는 전신독성과 함께 급격한 악화
@@ -102,14 +102,14 @@ MRSA-active therapy는 위 급성기 임상 단서, 중증 감염, 1차 치료 �
 * crepitus
 * 국소 피부 감각 저하
 * 저혈압, 의식 변화, 장기기능장애 등 혈역학적 불안정
-* 간경화/만성 음주 환자에서 해수·기수 노출 또는 해산물 섭취 후 빠르게 진행하는 수포성/괴사성 감염 — _V. vulnificus_ 의심
+* 간경화/만성 음주 환자에서 해수·기수 노출 또는 해산물 섭취 후 빠르게 진행하는 수포성/괴사성 감염 - _V. vulnificus_ 의심
 
 → **괴사성 근막염이 의심되면 영상검사 결과를 기다리느라 수술을 지연하지 않는다.**\
 → 응급 외과 평가, 혈액/수술 검체 배양, 광범위 정주 항생제 및 신속한 수술적 탐색·변연절제를 시행한다.
 {% endhint %}
 
 {% hint style="warning" %}
-**Tier 2 — 당일 평가/입원 또는 전문진료 고려**
+**Tier 2 - 당일 평가/입원 또는 전문진료 고려**
 
 * 전신 증상이 심하거나 고열이 지속
 * 중등도–중증 면역저하, 항암화학요법, 호중구감소증
@@ -120,7 +120,7 @@ MRSA-active therapy는 위 급성기 임상 단서, 중증 감염, 1차 치료 �
 {% endhint %}
 
 {% hint style="info" %}
-**Tier 3 — 외래 추적 강화/재평가**
+**Tier 3 - 외래 추적 강화/재평가**
 
 * 치료 후 48–72시간 내 임상적 호전이 시작되지 않음
 * 반복성 cellulitis 또는 반복성 abscess
@@ -295,7 +295,7 @@ flowchart TD
 * 48–72시간 내 재평가하여 잔존 저류·봉와직염 진행 여부 확인
 * 반복성이거나 크기가 크고 접근이 어려운 농양(회음부, 유방, 안면 등)은 외과 의뢰 고려
 
-### <mark style="color:orange;">괴사성 근막염 — 수술적 처치</mark>
+### <mark style="color:orange;">괴사성 근막염 - 수술적 처치</mark>
 
 * **즉시 응급 외과 협진 및 source control**
 * 괴사성 근막염이 의심되면 영상검사는 보조적으로 사용하며, 임상적으로 강하게 의심되는 경우 수술을 지연해서는 안 됨
@@ -342,14 +342,14 @@ flowchart TD
 **TMP/SMX 용량은 TMP/SMX 성분량 기준으로 확인한다.** 제품별 1정 함량이 다를 수 있으므로 처방 시 반드시 실제 제형의 함량을 대조한다.
 {% endhint %}
 
-### <mark style="color:orange;">괴사성 근막염 — 경험적 항생제</mark>
+### <mark style="color:orange;">괴사성 근막염 - 경험적 항생제</mark>
 
 * 경험적 항생제는 MRSA, streptococci, gram-negative bacilli 및 anaerobes를 포함하는 광범위 정주요법
   * **Vancomycin 또는 teicoplanin + Piperacillin-tazobactam 또는 carbapenem + Clindamycin**
   * 또는 **Linezolid + Piperacillin-tazobactam 또는 carbapenem**
   * Linezolid는 독소 억제 효과가 있어 사용하는 경우 **clindamycin을 통상 추가하지 않음**
 * 배양 결과에 따라 즉시 de-escalation
-* _S. pyogenes_ 확인/강력 의심: **Penicillin G + Clindamycin** — clindamycin은 단백질 합성 억제를 통해 \*\*streptococcal exotoxin 생성 억제(antitoxin effect)\*\*를 기대하여 병용
+* _S. pyogenes_ 확인/강력 의심: **Penicillin G + Clindamycin** - clindamycin은 단백질 합성 억제를 통해 \*\*streptococcal exotoxin 생성 억제(antitoxin effect)\*\*를 기대하여 병용
 * _Clostridium_ spp.: **Penicillin + Clindamycin**
 * 항생제는 **추가적 변연절제술이 더 이상 필요하지 않고 임상적으로 안정될 때까지** 투여하며, **마지막 괴사조직 제거 수술 후 약 48시간까지 사용을 고려**할 수 있음. Clindamycin은 임상적으로 안정된 뒤 48–72시간 이내 중단을 고려
 
@@ -381,7 +381,7 @@ M72.6 괴사성 근막염
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 단순 피부농양 — 절개·배농만으로 충분한 경우**
+> **처방례 1. 단순 피부농양 - 절개·배농만으로 충분한 경우**
 >
 > ```
 > 절개·배농(I&D) 시행
@@ -419,7 +419,7 @@ M72.6 괴사성 근막염
 >
 > _✽과거 MRSA 감염/집락력, 화농성 삼출물, 1차 치료 실패 등 위험인자가 있을 때 선택; 신기능·임신 여부 확인(TMP/SMX), 광과민 반응 주의(doxycycline)_
 
-> **처방례 5. 괴사성 근막염 의심 — 응급 경험적 병합요법**
+> **처방례 5. 괴사성 근막염 의심 - 응급 경험적 병합요법**
 >
 > ```
 > [응급 외과 협진 + 즉시 전원/입원]
@@ -487,6 +487,6 @@ M72.6 괴사성 근막염
 
 * 피부색이 검거나 보라색으로 변하고 물집이 생기거나, 통증이 피부 모양에 비해 지나치게 심한 경우
 * 처방 후 2–3일이 지나도 호전이 시작되지 않거나 더 빠르게 퍼지는 경우
-* 고열, 오한, 어지럼, 의식이 흐려지는 증상이 동반되는 경우 — 즉시 응급실
+* 고열, 오한, 어지럼, 의식이 흐려지는 증상이 동반되는 경우 - 즉시 응급실
 
 ***

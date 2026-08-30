@@ -47,7 +47,7 @@ FIGO의 PALM-COEIN 체계는 **비임신 생식연령 여성의 AUB**를 PALM(�
 #### <mark style="color:$primary;">병인별 상세</mark>
 
 * 배란 장애(AUB-O) : 무배란 또는 불규칙 배란으로 progesterone의 주기적 작용이 소실되어 불규칙하고 때로는 과도한 출혈 발생; PCOS, 청소년기 HPO axis 미성숙, 폐경 이행기, 갑상선 질환, 고프로락틴혈증, 급격한 체중 변화, 섭식 장애, 과도한 운동 등
-* 임신 관련 출혈 : 자궁외임신, 유산, 임신성 융모성 질환 등 — PALM-COEIN 적용 전 우선 배제
+* 임신 관련 출혈 : 자궁외임신, 유산, 임신성 융모성 질환 등 - PALM-COEIN 적용 전 우선 배제
 * 구조적 원인(AUB-P/A/L/M) : endometrial polyp, adenomyosis, leiomyoma, endometrial hyperplasia/EIN, 악성 종양
 * 응고 장애(AUB-C) : von Willebrand disease, 혈소판 이상, 기타 선천/후천성 출혈 장애
 * 자궁내막 원인(AUB-E) : 배란은 정상이나 자궁내막의 국소 지혈 기전 이상으로 HMB 발생; 다른 원인을 배제한 후 진단
@@ -91,7 +91,7 @@ FIGO의 PALM-COEIN 체계는 **비임신 생식연령 여성의 AUB**를 PALM(�
 
 <mark style="color:$warning;">**당일 또는 조기 평가/의뢰**</mark>
 
-* 폐경 후 출혈 — 1회 또는 소량 spotting이라도 조기 평가
+* 폐경 후 출혈 - 1회 또는 소량 spotting이라도 조기 평가
 * 지속 또는 반복되는 성교 후 출혈, 육안적 자궁경부 병변
 * 자궁내막암 위험 인자가 있으면서 지속되는 AUB
 * 약물 치료에도 지속되는 HMB 또는 철결핍빈혈 악화
@@ -103,7 +103,7 @@ FIGO의 PALM-COEIN 체계는 **비임신 생식연령 여성의 AUB**를 PALM(�
 
 ## <mark style="color:green;">진단</mark>
 
-#### <mark style="color:$primary;">병력 및 신체검사 — 감별 단서</mark>
+#### <mark style="color:$primary;">병력 및 신체검사 - 감별 단서</mark>
 
 * 출혈의 빈도·규칙성·기간·양, intermenstrual/postcoital bleeding 여부
 * 임신 가능성, 피임법, HRT, tamoxifen, 항응고제 등 약물력
@@ -129,7 +129,7 @@ FIGO의 PALM-COEIN 체계는 **비임신 생식연령 여성의 AUB**를 PALM(�
 * sonohysterography 또는 hysteroscopy : endometrial polyp, submucosal fibroid 등 자궁강 내 병변 평가에 유용
 * MRI : adenomyosis, 큰/다발성 fibroid, 초음파로 해부학적 평가가 불충분한 경우 선택적으로 고려
 
-#### <mark style="color:$primary;">자궁내막 및 자궁경부 평가 — 생식연령</mark>
+#### <mark style="color:$primary;">자궁내막 및 자궁경부 평가 - 생식연령</mark>
 
 * endometrial biopsy
   * ＞45세 AUB : 1차 평가로 시행
@@ -207,7 +207,7 @@ flowchart TD
 * TVUS에서 endometrial thickness ≤4 ㎜는 자궁내막암 가능성이 매우 낮은 소견이지만, **지속 또는 재발 출혈이 있으면 두께와 관계없이 조직학적 평가 필요**
 * 미국 자료에서는 일부 인종/고위험군에서 얇은 자궁내막을 이용한 TVUS 단독 triage의 민감도가 낮다는 보고가 있으며, 이러한 자료도 2026 ACOG 권고 강화의 배경이 됨
 * 자궁내막이 충분히 보이지 않거나 ＞4 ㎜, 비균질/국소 병변, 조직검사 불충분, 또는 출혈 지속/재발 시 hysteroscopy ± directed biopsy/D\&C 고려
-* **1차 office endometrial biopsy(Pipelle 등) 결과가 음성 또는 비특이적이더라도, 출혈이 지속·재발하거나 초음파상 비균질/국소 병변이 있으면 병리 소견을 맹신하지 말고 hysteroscopy ± directed biopsy를 추가로 고려해야 함** — 검체 채취 오류로 인한 위음성 가능성이 있음
+* **1차 office endometrial biopsy(Pipelle 등) 결과가 음성 또는 비특이적이더라도, 출혈이 지속·재발하거나 초음파상 비균질/국소 병변이 있으면 병리 소견을 맹신하지 말고 hysteroscopy ± directed biopsy를 추가로 고려해야 함** - 검체 채취 오류로 인한 위음성 가능성이 있음
 * tamoxifen 사용 중 PMB에서는 자궁내막 두께만으로 triage하기 어렵기 때문에 조직학적 평가를 적극적으로 고려
 
 ```mermaid
@@ -250,7 +250,7 @@ flowchart TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">급성 AUB — 혈역학적 불안정 또는 중증 출혈</mark>
+### <mark style="color:orange;">급성 AUB - 혈역학적 불안정 또는 중증 출혈</mark>
 
 {% hint style="danger" %}
 ⚠️ 먼저 혈역학적 안정화와 응급 산부인과 협진이 우선입니다. 수술적 처치는 임상 안정성, 출혈 중증도, 원인, 약물 금기 및 반응, 향후 임신 계획에 따라 결정하며 **혈역학적 불안정 자체가 곧바로 D&C 단독 적응증을 의미하지는 않습니다.**
@@ -262,15 +262,15 @@ flowchart TD
   * 출혈 조절 후 COC 또는 progestin 유지요법으로 전환(구체적 taper protocol은 기관별 차이가 크므로 기관 프로토콜에 따름)
 * 약물 치료 실패, 약물 금기, 지속적 중증 출혈, 구조적 병변 등이 있으면 balloon tamponade, hysteroscopy/D\&C 또는 기타 수술적 지혈 고려
 
-### <mark style="color:orange;">급성 AUB — 혈역학적으로 안정</mark>
+### <mark style="color:orange;">급성 AUB - 혈역학적으로 안정</mark>
 
 * 고용량 복합 경구 피임제(COC) 또는 고용량 progestin을 1차 약물요법으로 고려
-* COC 예 : monophasic COC(EE 30\~35 ㎍ 함유) 1T tid ×7d 후 1T qd로 감량/유지 — 기관별 taper protocol이 다양하며 estrogen 금기 및 VTE 위험 확인
+* COC 예 : monophasic COC(EE 30\~35 ㎍ 함유) 1T tid ×7d 후 1T qd로 감량/유지 - 기관별 taper protocol이 다양하며 estrogen 금기 및 VTE 위험 확인
 * medroxyprogesterone acetate(MPA) : 20 ㎎ PO tid ×7d <mark style="color:blue;">\[프로베라]</mark>
   * estrogen 금기 또는 estrogen을 피하고 싶은 경우 유용
 * tranexamic acid는 estrogen 금기이거나 보조적 지혈이 필요한 경우 고려할 수 있음; 급성기 특정 고용량 경구 regimen은 근거가 확립되어 있지 않으므로 제형·신기능 및 제품 허가사항에 따라 용량을 결정
 
-### <mark style="color:orange;">만성/비응급 AUB — 배란 장애 및 HMB</mark>
+### <mark style="color:orange;">만성/비응급 AUB - 배란 장애 및 HMB</mark>
 
 * 원인, 임신 희망 여부, 피임 필요성, 동반 질환 및 환자 선호에 따라 선택
 * 복합 경구 피임제 : 주기 조절 및 출혈량 감소
@@ -278,7 +278,7 @@ flowchart TD
   * <mark style="color:blue;">\[야즈]</mark> : EE 20 ㎍ + drospirenone 3 ㎎; 24일 활성정 → 4일 위약
 * progestin 단독
   * medroxyprogesterone acetate(MPA) : 10 ㎎/d ×10\~14d/m <mark style="color:blue;">\[프로베라]</mark>
-  * depot medroxyprogesterone acetate(DMPA) : 150 ㎎ IM q3m — 초기 불규칙 출혈 가능
+  * depot medroxyprogesterone acetate(DMPA) : 150 ㎎ IM q3m - 초기 불규칙 출혈 가능
   * norethindrone/norethisterone 계열은 제형·성분별 용량이 다르므로 norethindrone acetate와 0.35 ㎎ norethindrone POP를 혼용하지 않도록 주의
 * levonorgestrel-releasing intrauterine system(LNG-IUS) : 자궁강 변형이 없는 HMB에서 가장 효과적인 장기 약물치료 중 하나이며 NICE 등에서 1차 치료로 우선 고려 <mark style="color:blue;">\[미레나]</mark>
 
@@ -348,7 +348,7 @@ N95.0 폐경 후 출혈
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 경증 HMB(비응급) — 비호르몬 치료**
+> **처방례 1. 경증 HMB(비응급) - 비호르몬 치료**
 >
 > ```
 > 부루펜 200 ㎎/T 2T tid  월경 시작부터 출혈이 많은 기간
@@ -357,7 +357,7 @@ N95.0 폐경 후 출혈
 >
 > _✽NSAID와 tranexamic acid는 HMB의 주요 비호르몬 치료. 신기능, 위장관 위험 및 혈전색전증 병력을 확인하고, 도란사민은 국내 허가 용법·용량을 확인하여 조정._
 
-> **처방례 2. 배란 장애 AUB — 주기 조절 및 피임 목적**
+> **처방례 2. 배란 장애 AUB - 주기 조절 및 피임 목적**
 >
 > ```
 > 야즈 28T 1T qd
@@ -365,7 +365,7 @@ N95.0 폐경 후 출혈
 >
 > _✽복합 호르몬 피임제 금기(VTE 고위험, 편두통 with aura, 흡연 고령 여성 등)를 확인. 초기 1~3개월 breakthrough bleeding이 있을 수 있으며 대개 3개월 전후 치료 반응을 평가._
 
-> **처방례 3. 급성, 비응급 AUB — progestin 고용량 요법**
+> **처방례 3. 급성, 비응급 AUB - progestin 고용량 요법**
 >
 > ```
 > 프로베라 10 ㎎/T 2T tid  ×7일
@@ -373,7 +373,7 @@ N95.0 폐경 후 출혈
 >
 > _✽Medroxyprogesterone acetate(MPA) 20 ㎎ tid ×7일. 출혈 조절 후 유지요법으로 전환하며, 지속되는 중증 출혈은 조기 산부인과 평가._
 
-> **처방례 4. 배란 장애 AUB — progestin 주기요법**
+> **처방례 4. 배란 장애 AUB - progestin 주기요법**
 >
 > ```
 > 프로베라 10 ㎎/T 1T qd  10~14일/월
@@ -405,10 +405,10 @@ N95.0 폐경 후 출혈
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 어지럼증, 실신/전실신, 흉통, 호흡곤란 등 심한 빈혈·혈역학적 불안정 소견 — 즉시 진료
-> * 1시간 이내에 패드가 흠뻑 젖는 심한 출혈이 반복되는 경우 — 조기 또는 응급 진료
-> * 치료에도 출혈이 지속 또는 악화되거나 수주\~3개월 내 뚜렷한 호전이 없는 경우 — 재평가
-> * 폐경 후 출혈이 처음 발생하거나 다시 발생한 경우 — 양이 적더라도 조기 평가
+> * 어지럼증, 실신/전실신, 흉통, 호흡곤란 등 심한 빈혈·혈역학적 불안정 소견 - 즉시 진료
+> * 1시간 이내에 패드가 흠뻑 젖는 심한 출혈이 반복되는 경우 - 조기 또는 응급 진료
+> * 치료에도 출혈이 지속 또는 악화되거나 수주\~3개월 내 뚜렷한 호전이 없는 경우 - 재평가
+> * 폐경 후 출혈이 처음 발생하거나 다시 발생한 경우 - 양이 적더라도 조기 평가
 
 ***
 

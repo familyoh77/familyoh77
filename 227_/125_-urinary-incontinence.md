@@ -200,7 +200,7 @@ AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 
   2. 수축 : 확인된 골반저근을 조여 10초간 유지(처음에는 3\~5초부터 시작해 점차 늘림); 복부·엉덩이·허벅지 근육은 힘을 주지 않고 골반저근만 사용
   3. 이완 : 10초간 완전히 이완; 수축과 이완 시간을 비슷하게 유지
   4. 반복 : 위 수축-이완을 8\~10회 1세트로, 1일 3회 시행
-  5. 지속 : 긴장/혼합 요실금의 PFMT는 최소 3개월 지속; 절박 요실금에서는 방광훈련과 PFMT를 병행할 수 있으며 방광훈련은 최소 6주 시행 — 조기에 효과를 판정하지 않도록 안내
+  5. 지속 : 긴장/혼합 요실금의 PFMT는 최소 3개월 지속; 절박 요실금에서는 방광훈련과 PFMT를 병행할 수 있으며 방광훈련은 최소 6주 시행 - 조기에 효과를 판정하지 않도록 안내
 * 주의 : 배뇨 도중에는 이 동작을 반복 훈련으로 시행하지 않음(요폐·불완전 배뇨 위험)
 
 #### <mark style="color:$primary;">주기적 배뇨 훈련 (timed & prompted voiding)</mark>
@@ -249,7 +249,7 @@ AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 
 ### <mark style="color:orange;">긴장 요실금 (Stress incontinence)</mark>
 
 * PFMT(최소 3개월) 및 continence pessary가 1차 치료; ✽긴장 요실금 자체에 대해 FDA 승인된 약물은 없음
-* SNRI : duloxetine — 국내 SUI 적응증 허가 외 사용. 증상 감소 효과는 있으나 완치율이 낮고 오심·어지럼 등 부작용 및 치료 중단률이 높음; 사용 시 저용량에서 시작하여 서서히 증량·감량 <mark style="color:blue;">\[심발타]</mark>
+* SNRI : duloxetine - 국내 SUI 적응증 허가 외 사용. 증상 감소 효과는 있으나 완치율이 낮고 오심·어지럼 등 부작용 및 치료 중단률이 높음; 사용 시 저용량에서 시작하여 서서히 증량·감량 <mark style="color:blue;">\[심발타]</mark>
 
 ### <mark style="color:orange;">혼합형 요실금 (Mixed incontinence)</mark>
 
@@ -259,14 +259,14 @@ AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 
 
 ### <mark style="color:orange;">범람 요실금 (Overflow incontinence)</mark>
 
-#### <mark style="color:$primary;">원인 질환 치료 — BPH/방광출구폐색(BOO)</mark>
+#### <mark style="color:$primary;">원인 질환 치료 - BPH/방광출구폐색(BOO)</mark>
 
 * α-차단제 ± 5α-reductase 억제제로 방광 출구 저항 완화 (☞ [전립선비대증](124_-benign-prostatic-hyperplasia-bph.md))
-* α-차단제 : smooth muscle, urethra, prostate capsule 이완(보험 급여 기준 확인 필요); 부작용 — 저혈압
+* α-차단제 : smooth muscle, urethra, prostate capsule 이완(보험 급여 기준 확인 필요); 부작용 - 저혈압
   * alfuzosin : 10 ㎎ qd <mark style="color:blue;">\[자트랄]</mark>
   * tamsulosin : 0.2 ㎎ qd (효과 불충분 시 0.4 ㎎ qd로 증량; 국내는 0.2 ㎎이 표준 시작 용량) <mark style="color:blue;">\[하루날 디]</mark>
   * silodosin : 8 ㎎ qd <mark style="color:blue;">\[트루패스]</mark>
-* 5α-reductase 억제제 : 전립선 크기 감소; 부작용 — 성욕 감소, 발기부전, 사정 장애, 여성형 유방/유방 압통
+* 5α-reductase 억제제 : 전립선 크기 감소; 부작용 - 성욕 감소, 발기부전, 사정 장애, 여성형 유방/유방 압통
   * finasteride : 5 ㎎ qd <mark style="color:blue;">\[프로스카]</mark>
   * dutasteride : 0.5 ㎎ qd <mark style="color:blue;">\[아보다트]</mark>
 * 유의한 요폐/고잔뇨 : 간헐적 도뇨 등 방광 배출 확보 우선
@@ -373,8 +373,8 @@ R32 상세불명의 요실금 Unspecified urinary incontinence
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 적절한 기간의 보존적 치료(SUI/MUI는 PFMT 최소 3개월, OAB/UUI는 방광훈련·약물치료 후 재평가)에도 증상이 호전되지 않는 경우
-> * 감염과 무관한 **혈뇨**가 발생한 경우 — 조기 내원
-> * 갑작스런 **배뇨 곤란/요폐**, 하지 위약, 회음부 감각 저하가 동반되는 경우 — 즉시 내원
+> * 감염과 무관한 **혈뇨**가 발생한 경우 - 조기 내원
+> * 갑작스런 **배뇨 곤란/요폐**, 하지 위약, 회음부 감각 저하가 동반되는 경우 - 즉시 내원
 > * 약물 복용 중 심한 입마름·변비·인지 변화 등 부작용이 발생한 경우
 
 ***
@@ -390,7 +390,7 @@ R32 상세불명의 요실금 Unspecified urinary incontinence
 #### <mark style="color:$primary;">왜 소변이 새나요?</mark>
 
 * 방광이 너무 예민해져서 참지 못하고 소변이 새는 경우(절박 요실금)
-* 기침·재채기·운동처럼 배에 힘이 들어갈 때 소변이 새는 경우(긴장 요실금) — 골반 근육 약화가 원인
+* 기침·재채기·운동처럼 배에 힘이 들어갈 때 소변이 새는 경우(긴장 요실금) - 골반 근육 약화가 원인
 * 방광이 다 비워지지 않고 조금씩 넘쳐 새는 경우(범람 요실금)
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>

@@ -8,15 +8,15 @@
 
 * 만족스런 성관계 수행을 위해 충분한 발기를 반복적 또는 지속적으로 달성 또는 유지할 수 없는 상태
 * 정의 (AUA, 2018) : 성적 활동을 위해 충분한 발기를 얻거나 유지하지 못하는 상태가 지속되는 것
-* 분류 : 기질성(organic), 심인성(psychogenic), 혼합성 — 실제로는 대부분 혼재
+* 분류 : 기질성(organic), 심인성(psychogenic), 혼합성 - 실제로는 대부분 혼재
 * 유병률 : 40\~70세 남성의 ½ 이상에서 어느 정도의 ED를 경험; 연령 증가에 따라 유병률 및 중증도 증가
-* 심혈관 질환의 clue sign일 수 있음 — 음경 동맥(1\~2 mm)이 관상동맥보다 가늘어 전신 죽상경화증이 먼저 증상화되는 경우가 많음(“**window of opportunity**” 개념); 특히 젊은 연령에서 새로 발생한 ED는 심장 문제 발생 가능성이 높음을 시사
+* 심혈관 질환의 clue sign일 수 있음 - 음경 동맥(1\~2 mm)이 관상동맥보다 가늘어 전신 죽상경화증이 먼저 증상화되는 경우가 많음(“**window of opportunity**” 개념); 특히 젊은 연령에서 새로 발생한 ED는 심장 문제 발생 가능성이 높음을 시사
 
 {% hint style="info" %}
-**Princeton IV Consensus (2024) — 성관계 관련 심혈관 위험도 분류**\
+**Princeton IV Consensus (2024) - 성관계 관련 심혈관 위험도 분류**\
 ① 저위험 : 재관류 후 안정 상태, 조절된 무증상 고혈압, 경증 판막질환, NYHA I–II이며 5 METs 수행 가능\
 ② 중간/불명확 위험 : 안정형 경·중등도 협심증, 중재술 없이 MI 후 2–8주, NYHA III, PAD 또는 뇌졸중/TIA 병력\
-③ 고위험 : 불안정/난치성 협심증, 조절되지 않는 고혈압, NYHA IV, 중재술 없이 MI 후 2주 미만, 고위험 부정맥 등 — 심장 상태 안정화 전까지 성행위 및 ED 치료 보류, 순환기내과 협진\
+③ 고위험 : 불안정/난치성 협심증, 조절되지 않는 고혈압, NYHA IV, 중재술 없이 MI 후 2주 미만, 고위험 부정맥 등 - 심장 상태 안정화 전까지 성행위 및 ED 치료 보류, 순환기내과 협진\
 명백한 심혈관질환이나 심혈관 증상이 없는 혈관성 ED에서는 10년 ASCVD 위험도를 평가하며, ED 자체를 risk-enhancing factor로 간주한다. 계산된 위험이 낮음~중등도인 경우에도 CAC score를 이용한 추가 위험 재분류를 고려한다.
 {% endhint %}
 
@@ -43,7 +43,7 @@
 
 ### <mark style="color:green;">임상 양상</mark>
 
-* 발기 개시 실패, 발기 유지 실패, 또는 발기 강도 저하 — 상황(아침/자위/파트너)에 따른 차이 유무를 확인하는 것이 심인성·기질성 감별에 중요
+* 발기 개시 실패, 발기 유지 실패, 또는 발기 강도 저하 - 상황(아침/자위/파트너)에 따른 차이 유무를 확인하는 것이 심인성·기질성 감별에 중요
 * 성욕 저하, 조루·지루 등 다른 사정 관련 증상이 동반될 수 있음
 * 새로 발생한 ED에서 흉통, 운동 시 호흡곤란 등 심혈관 증상 동반 여부 확인 필요(☞ Princeton IV)
 
@@ -53,7 +53,7 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* Ischemic priapism(허혈성 지속발기증) — 발기 4시간 이상 지속, 심한 음경통 동반 → 즉시 비뇨기과 응급 처치(허혈 시간이 길수록 해면체 조직 손상·영구적 발기부전 위험↑)
+* Ischemic priapism(허혈성 지속발기증) - 발기 4시간 이상 지속, 심한 음경통 동반 → 즉시 비뇨기과 응급 처치(허혈 시간이 길수록 해면체 조직 손상·영구적 발기부전 위험↑)
 * 급성 신경학적 결손을 동반한 새로운 발기 이상(척수 손상·뇌졸중 의심)
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
@@ -99,7 +99,7 @@
 
 * 신체검사 : 혈압/맥박수, 하지 맥박, 복부 둘레, BMI, 생식기 진찰; 직장수지검사 및 신경학적 진찰은 병력·증상에 따라 선택
 * 기본 검사 : 공복혈당 또는 HbA1c, 지질, 아침 공복 total testosterone(최근 12개월 내 미시행 시)
-* 선택 검사 : PSA, prolactin, LH/FSH, TFT, 혈청 크레아티닌, 간기능(AST/ALT) 등 — 병력·증상 및 testosterone 결과에 따라, 특히 PDE5i·testosterone 처방 전 신·간 기능 이상이 의심되면 확인
+* 선택 검사 : PSA, prolactin, LH/FSH, TFT, 혈청 크레아티닌, 간기능(AST/ALT) 등 - 병력·증상 및 testosterone 결과에 따라, 특히 PDE5i·testosterone 처방 전 신·간 기능 이상이 의심되면 확인
   * 아침 공복 total testosterone이 낮으면 별도의 날에 반복 측정하여 지속적 저하 여부를 확인
 * 영상 검사 : penile duplex Doppler, angiography, cavernosography 등은 일반적으로 일상적으로 시행하지 않으며, 진단이 불명확하거나 1차 치료 실패·혈관 재건술 등 전문 치료를 고려할 때 선택
 * prostaglandin E1 intracorporeal injection : 정상 혈관 상태에서는 발기됨(혈관성 원인 감별에 참고)
@@ -156,12 +156,12 @@ flowchart TD
 
 #### <mark style="color:$primary;">치료 방침</mark>
 
-* 성행위 관련 심혈관 위험도 우선 평가(☞ Princeton IV) — 고위험군은 심장 상태 안정화 전까지 치료 보류
+* 성행위 관련 심혈관 위험도 우선 평가(☞ Princeton IV) - 고위험군은 심장 상태 안정화 전까지 치료 보류
 * 생활 중재(금연, 절주, 체중 관리, 규칙적 운동)를 모든 환자에게 우선 권고
 * 당뇨병, 고혈압, 이상지질혈증 등 기저 질환 치료 및 원인 의심 약물 조정·교체 검토
-* 1차 약물 치료 : PDE5i — 원인에 관계없이 우선 고려
+* 1차 약물 치료 : PDE5i - 원인에 관계없이 우선 고려
 * 심리적 요인이 뚜렷한 경우 상담·부부치료 병행
-* ✽ PDE5i 무반응 판정 전 확인 : 최대 허용 용량, 적절한 timing/공복 조건, 충분한 성적 자극 하에 4\~8회 이상 시도했는지 확인 — 상당수는 복용법 재교육만으로 반응이 회복됨
+* ✽ PDE5i 무반응 판정 전 확인 : 최대 허용 용량, 적절한 timing/공복 조건, 충분한 성적 자극 하에 4\~8회 이상 시도했는지 확인 - 상당수는 복용법 재교육만으로 반응이 회복됨
 
 ***
 
@@ -192,7 +192,7 @@ PDE5i 복용 24시간 이내 nitrate/nitroglycerin 복용 금지(tadalafil은 �
 * 저용량 적용 대상 : 고령, 신부전, α-차단제 병용, CYP3A4 억제제 병용
 * 고지방식과 과량의 알코올이 흡수·효과를 저해할 수 있음(tadalafil은 영향을 적게 받음)
 
-<table data-header-hidden data-search="false"><thead><tr><th></th><th width="106"></th><th width="97"></th><th width="95"></th><th width="97"></th><th width="105"></th></tr></thead><tbody><tr><td><strong>성분명</strong></td><td><strong>sildenafil</strong></td><td><strong>vardenafil</strong></td><td><strong>tadalafil</strong></td><td><strong>mirodenafil</strong></td><td><strong>udenafil</strong></td></tr><tr><td><strong>상품명</strong></td><td><mark style="color:blue;">\[비아그라]</mark></td><td><mark style="color:blue;">\[레비트라]</mark></td><td><mark style="color:blue;">\[시알리스]</mark></td><td><mark style="color:blue;">\[엠빅스]</mark></td><td><mark style="color:blue;">\[자이데나]</mark></td></tr><tr><td><strong>제형(㎎)</strong></td><td>50, 100</td><td>10, 20</td><td>5, 10, 20</td><td>50, 100</td><td>50, 75, 100</td></tr><tr><td><strong>작용 시작</strong></td><td>30\~60분</td><td>30\~60분</td><td>60\~120분</td><td>\~60분</td><td>\~60분</td></tr><tr><td><strong>최대 농도 도달 시간</strong></td><td>1시간</td><td>1시간</td><td>2시간</td><td>1시간</td><td>1시간</td></tr><tr><td><strong>지속 시간</strong></td><td>12시간</td><td>10시간</td><td>36시간</td><td>8시간</td><td>24시간</td></tr><tr><td><strong>상용량(㎎)</strong></td><td>25\~100</td><td>10\~20</td><td>5\~20</td><td>50\~100</td><td>50\~100</td></tr><tr><td><strong>두통(%)</strong></td><td>12.8</td><td>16</td><td>14.5</td><td>—</td><td>—</td></tr><tr><td><strong>홍조(%)</strong></td><td>10.4</td><td>12</td><td>4.1</td><td>—</td><td>—</td></tr><tr><td><strong>소화불량(%)</strong></td><td>4.6</td><td>4</td><td>12.3</td><td>—</td><td>—</td></tr><tr><td><strong>코 울혈(%)</strong></td><td>1.1</td><td>10</td><td>4.3</td><td>—</td><td>—</td></tr><tr><td><strong>어지럼(%)</strong></td><td>1.2</td><td>2</td><td>2.3</td><td>—</td><td>—</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th></th><th width="106"></th><th width="97"></th><th width="95"></th><th width="97"></th><th width="105"></th></tr></thead><tbody><tr><td><strong>성분명</strong></td><td><strong>sildenafil</strong></td><td><strong>vardenafil</strong></td><td><strong>tadalafil</strong></td><td><strong>mirodenafil</strong></td><td><strong>udenafil</strong></td></tr><tr><td><strong>상품명</strong></td><td><mark style="color:blue;">\[비아그라]</mark></td><td><mark style="color:blue;">\[레비트라]</mark></td><td><mark style="color:blue;">\[시알리스]</mark></td><td><mark style="color:blue;">\[엠빅스]</mark></td><td><mark style="color:blue;">\[자이데나]</mark></td></tr><tr><td><strong>제형(㎎)</strong></td><td>50, 100</td><td>10, 20</td><td>5, 10, 20</td><td>50, 100</td><td>50, 75, 100</td></tr><tr><td><strong>작용 시작</strong></td><td>30\~60분</td><td>30\~60분</td><td>60\~120분</td><td>\~60분</td><td>\~60분</td></tr><tr><td><strong>최대 농도 도달 시간</strong></td><td>1시간</td><td>1시간</td><td>2시간</td><td>1시간</td><td>1시간</td></tr><tr><td><strong>지속 시간</strong></td><td>12시간</td><td>10시간</td><td>36시간</td><td>8시간</td><td>24시간</td></tr><tr><td><strong>상용량(㎎)</strong></td><td>25\~100</td><td>10\~20</td><td>5\~20</td><td>50\~100</td><td>50\~100</td></tr><tr><td><strong>두통(%)</strong></td><td>12.8</td><td>16</td><td>14.5</td><td>-</td><td>-</td></tr><tr><td><strong>홍조(%)</strong></td><td>10.4</td><td>12</td><td>4.1</td><td>-</td><td>-</td></tr><tr><td><strong>소화불량(%)</strong></td><td>4.6</td><td>4</td><td>12.3</td><td>-</td><td>-</td></tr><tr><td><strong>코 울혈(%)</strong></td><td>1.1</td><td>10</td><td>4.3</td><td>-</td><td>-</td></tr><tr><td><strong>어지럼(%)</strong></td><td>1.2</td><td>2</td><td>2.3</td><td>-</td><td>-</td></tr></tbody></table>
 
 ✽avanafil <mark style="color:blue;">\[제피드]</mark>은 2025년 국내 제조사가 원료 수급 문제로 품목허가를 자진취하하여 현재 국내에 유통되지 않음(2026년 기준)\
 ✽제네릭(성분명 처방) sildenafil·tadalafil이 다수 유통되어 저비용 대안으로 활용 가능; 정품·제네릭 간 생동성은 확인되어 있으나 환자에게 사전 설명 권장
@@ -214,7 +214,7 @@ PDE5i 복용 24시간 이내 nitrate/nitroglycerin 복용 금지(tadalafil은 �
 * 용법 : 국내에서는 비강 겔 제형과 근육 주사제(장기 작용형) 두 경로가 사용 가능; 경피 겔 제형(2%)은 제조사 사정으로 국내 공급이 중단되었고(2026년 기준), 패취 제형과 경구제도 부작용·간독성 문제 등으로 국내 생산이 중단됨
 * testosterone nasal gel <mark style="color:blue;">\[나테스토나잘겔]</mark> : 1회 분무 시 5.5 ㎎ 분출; 시작 용량 1일 2회, 양쪽 비공에 각 1회씩 분무(1일 총 22 ㎎); 치료 시작 후 혈청 testosterone이 300 ng/dL 미만이면 1일 3회(1일 총 33 ㎎)로 증량 가능; 반드시 펌프를 끝까지 눌러 정량이 분무되도록 교육
   * ✽ 1일 2회 투여 시 최소 6시간 간격, 1일 3회 투여 시 약 6\~8시간 간격으로 투여
-* testosterone undecanoate <mark style="color:blue;">\[네비도]</mark> : 근육 주사; 초회 투여 후 6주째 2회차 투여, 이후 10\~14주 간격 유지 — 비강 겔 사용이 번거롭거나 안정적 혈중 농도를 선호하는 경우 고려
+* testosterone undecanoate <mark style="color:blue;">\[네비도]</mark> : 근육 주사; 초회 투여 후 6주째 2회차 투여, 이후 10\~14주 간격 유지 - 비강 겔 사용이 번거롭거나 안정적 혈중 농도를 선호하는 경우 고려
 * ✽ testosterone 경피 겔(예: 2% 제형)은 국가에 따라 여전히 사용되는 경우가 있으나, 이는 국내 유통 현황과는 무관함
 
 #### <mark style="color:$primary;">기타</mark>
@@ -279,10 +279,10 @@ N48.4 기질적 원인에 의한 발기부전
 > * 성적 자극이 있어야 효과가 나타나는 약물임을 설명(약을 먹으면 저절로 발기되는 것이 아님)
 > * 하루 1회를 초과해서 복용하지 않도록 안내
 
-> **Nitrate 병용 금기 — 반드시 확인**
+> **Nitrate 병용 금기 - 반드시 확인**
 >
 > * 협심증으로 nitrate(니트로글리세린 설하정 포함)를 복용 중이거나 처방받을 가능성이 있는 환자에게는 처방하지 않음
-> * 이미 PDE5i를 복용한 경우 24시간(tadalafil 48시간) 이내 nitrate 사용 금지 — 응급실에서도 반드시 고지하도록 환자 교육
+> * 이미 PDE5i를 복용한 경우 24시간(tadalafil 48시간) 이내 nitrate 사용 금지 - 응급실에서도 반드시 고지하도록 환자 교육
 
 > **나테스토나잘겔(비강) 사용 시 주의**
 >
@@ -293,9 +293,9 @@ N48.4 기질적 원인에 의한 발기부전
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 발기가 **4시간 이상 지속**되는 경우(priapism 의심) — 즉시 응급실 내원
-> * PDE5i 복용 후 갑작스러운 시력 저하, 흉통이 발생하는 경우 — 즉시 내원
-> * PDE5i 복용 후 갑작스러운 청력 저하·이명이 발생하는 경우(돌발성 감각신경성 난청 의심) — 즉시 복용 중단 및 이비인후과 내원
+> * 발기가 **4시간 이상 지속**되는 경우(priapism 의심) - 즉시 응급실 내원
+> * PDE5i 복용 후 갑작스러운 시력 저하, 흉통이 발생하는 경우 - 즉시 내원
+> * PDE5i 복용 후 갑작스러운 청력 저하·이명이 발생하는 경우(돌발성 감각신경성 난청 의심) - 즉시 복용 중단 및 이비인후과 내원
 > * 적절한 용량으로 4\~8주 이상 사용해도 효과가 없는 경우
 
 ***
@@ -348,7 +348,7 @@ N48.4 기질적 원인에 의한 발기부전
 
 #### <mark style="color:$primary;">정의 및 역학</mark>
 
-* 정의 (AUA/SMSNA, 2022; ISSM 2014) : 선천성(lifelong) PE — 성경험 초기부터 삽입 후 약 1\~2분 이내 사정, 조절 능력 상실, 이로 인한 고통이 지속되는 상태; 후천성(acquired) PE — 이전에는 정상이었으나 사정 잠복시간이 뚜렷이 짧아지고(대개 2\~3분 이내 또는 50% 이상 단축) 고통을 동반
+* 정의 (AUA/SMSNA, 2022; ISSM 2014) : 선천성(lifelong) PE - 성경험 초기부터 삽입 후 약 1\~2분 이내 사정, 조절 능력 상실, 이로 인한 고통이 지속되는 상태; 후천성(acquired) PE - 이전에는 정상이었으나 사정 잠복시간이 뚜렷이 짧아지고(대개 2\~3분 이내 또는 50% 이상 단축) 고통을 동반
 * 유병률 : 자가 보고 기준 남성의 20\~30%(엄격한 임상 정의 적용 시 약 5% 내외로 낮아짐)
 * 신체 검사는 대개 정상; 진단을 위한 특이적 검사는 없음(병력 기반 진단)
 
@@ -366,8 +366,8 @@ N48.4 기질적 원인에 의한 발기부전
   * stop-start technique : 사정 욕구가 강해지면 자극을 중단, 욕구가 가라앉으면 재개
   * coronal squeeze technique : 사정 욕구가 사라질 때까지 glans penis(귀두관)를 꽉 쥠
   * 사정 전 여성 파트너의 움직임 중지
-* 골반저근 운동(pelvic floor exercise) — 일부 연구에서 사정 조절력 개선 보고
-* psychotherapy, 부부 상담 — 불안 기반 PE에 특히 유용
+* 골반저근 운동(pelvic floor exercise) - 일부 연구에서 사정 조절력 개선 보고
+* psychotherapy, 부부 상담 - 불안 기반 PE에 특히 유용
 
 #### <mark style="color:$primary;">약물 치료</mark>
 
@@ -380,8 +380,8 @@ N48.4 기질적 원인에 의한 발기부전
   * 부작용 : 어지럼, 졸음, 두통, 불면, 감정 이상, 성욕 변화, 소화불량, 진전, 다한증, 저혈압, 빈맥, 마비, 기억력 장애, 피부염, 배뇨 곤란, 시야 흐림
   * 금기 : 일반적인 TCA 금기증, 심근경색, 심한 심장 질환·중증 부정맥, 녹내장, 전립선비대(배뇨 장애 악화 가능), 감정 장애, 유당 장애, 심각한 저혈압, 최근 항우울제 복용력, 여성, ＜18세, ≥65세
 * SSRI(off-label) : sertraline, paroxetine, fluoxetine 등은 매일 투여(daily regimen)의 근거가 더 확립되어 있음; on-demand 투여도 가능하나 효과는 상대적으로 낮을 수 있음. 부작용은 성욕 저하, 발기부전, 체중 증가, 불면 등이며, 국내에서는 조루증에 대해 허가 외(off-label) 사용에 해당하므로 처방 전 환자 설명 및 동의가 필요 (☞ 항우울제)
-* α1-adrenoceptor antagonist (☞ 하부요로증상 약제) — 일부 병용 효과 보고
-* PDE5 inhibitor — 발기부전 동반 시 병용 고려
+* α1-adrenoceptor antagonist (☞ 하부요로증상 약제) - 일부 병용 효과 보고
+* PDE5 inhibitor - 발기부전 동반 시 병용 고려
 * tramadol : 일부 연구에서 사정 지연 효과가 보고되나, 오남용·의존 위험 및 다른 세로토닌성 약물과의 병용 시 세로토닌 증후군 위험이 있어 1차 치료로는 권장하지 않음
 
 {% hint style="info" %}
@@ -404,7 +404,7 @@ Dorsal neurectomy, 히알루론산을 이용한 glans penis augmentation(귀두 
 
 * 정의 : bulbospongiosus muscle 수축 또는 정액 방출 결핍으로 사정이 전혀 일어나지 않는 상태
 * 원인 : 후복막 림프절 절제술, 척수 손상, 약물(α/β-차단제, benzodiazepine, 항우울제, 항정신병제, aminocaproic acid), 당뇨병신경병증, radical prostatectomy, 선천성 기형(Müllerian duct cyst, Wolffian 이상)
-* 치료 : 약물 유발성인 경우 원인 약물 조정. 신경학적 무사정이거나 임신을 원하는 경우 비뇨의학과/남성난임 전문의 의뢰 — penile vibratory stimulation, electroejaculation, 또는 수술적 정자 채취 고려
+* 치료 : 약물 유발성인 경우 원인 약물 조정. 신경학적 무사정이거나 임신을 원하는 경우 비뇨의학과/남성난임 전문의 의뢰 - penile vibratory stimulation, electroejaculation, 또는 수술적 정자 채취 고려
 
 #### <mark style="color:$primary;">정액 역류증 (Retrograde Ejaculation)</mark>
 
@@ -421,13 +421,13 @@ Dorsal neurectomy, 히알루론산을 이용한 glans penis augmentation(귀두 
 #### <mark style="color:$primary;">무쾌감증 (Ejaculatory Anhedonia)</mark>
 
 * 정의 : 사정은 정상적으로 일어나나 오르가즘이나 쾌감이 동반되지 않는 상태
-* 원인 : 약물(항우울제 등), 심인성, 호르몬 불균형, 성욕 감퇴 — 원인 평가 후 해당 원인 치료
+* 원인 : 약물(항우울제 등), 심인성, 호르몬 불균형, 성욕 감퇴 - 원인 평가 후 해당 원인 치료
 
 #### <mark style="color:$primary;">혈정액 (Hematospermia)</mark>
 
 * 정의 : 사정액에 육안적 또는 현미경적 혈액이 존재
 * 원인 : 감염, 염증, 결석(요로·정낭·전립선), 외음부 외상, 폐쇄, 낭종, 종양, 혈관 기형; 40세 미만·단발성인 경우 대개 양성이며 자연 소실
-* 접근 : 요검사/배양 검사(감염 감별), 40세 이상이거나 반복·지속되는 경우, 육안적 혈뇨·통증 동반 시 transrectal ultrasonography 또는 pelvic MRI 고려 및 비뇨의학과 의뢰 — 특히 고령에서는 전립선암 등 종양성 원인 배제 필요
+* 접근 : 요검사/배양 검사(감염 감별), 40세 이상이거나 반복·지속되는 경우, 육안적 혈뇨·통증 동반 시 transrectal ultrasonography 또는 pelvic MRI 고려 및 비뇨의학과 의뢰 - 특히 고령에서는 전립선암 등 종양성 원인 배제 필요
 
 ***
 
@@ -502,7 +502,7 @@ R36.1 혈정액
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 약물 치료·행동 요법을 충분히 시도해도 증상이 지속되어 관계에 지장을 주는 경우
-> * 혈정액이 반복되거나 배뇨 증상, 체중 감소가 동반되는 경우 — 조기 내원
+> * 혈정액이 반복되거나 배뇨 증상, 체중 감소가 동반되는 경우 - 조기 내원
 
 ***
 
@@ -510,7 +510,7 @@ R36.1 혈정액
 
 ### <mark style="color:green;">일반 사항</mark>
 
-* 주요 문제 영역 : 성욕 저하(HSDD), 흥분 장애, 절정감 장애, 성교통(GPPD) — 여러 영역이 중복되는 경우가 흔함
+* 주요 문제 영역 : 성욕 저하(HSDD), 흥분 장애, 절정감 장애, 성교통(GPPD) - 여러 영역이 중복되는 경우가 흔함
 * 건강한 여성에서 androgen(테스토스테론) 검사는 일상적으로 권하지 않음(✽ androgen 수준과 증상이 일치하지 않는 경우가 많음)
 * 진료 시 개방형 질문으로 성 건강에 대해 먼저 물어보는 것(permission)이 진단의 시작
 
@@ -521,7 +521,7 @@ R36.1 혈정액
 * 정신적/육체적 스트레스, 흡연, 파트너 문제
 * 성관계 기법 문제(예: 전희 부족)
 * 원하지 않는 성관계
-* 과거 성 관련 트라우마(예: 성폭력 피해) — 민감하게 접근, 필요시 전문 상담 연계
+* 과거 성 관련 트라우마(예: 성폭력 피해) - 민감하게 접근, 필요시 전문 상담 연계
 
 ### <mark style="color:green;">치료</mark>
 
@@ -573,4 +573,4 @@ N95.2 폐경 후 위축성 질염
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 국소 치료 8\~12주 후에도 성교통·질건조가 호전되지 않는 경우
-> * 원하지 않는 성관계나 트라우마와 관련된 증상이 있는 경우 — 전문 상담 연계 필요
+> * 원하지 않는 성관계나 트라우마와 관련된 증상이 있는 경우 - 전문 상담 연계 필요

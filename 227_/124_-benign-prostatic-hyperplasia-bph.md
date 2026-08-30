@@ -2,17 +2,17 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* BPH(양성 전립선 증식) : 전립선 이행대의 평활근(smooth muscle), 상피(epithelium), 간질세포(stromal cell)의 양성 증식 — 본래 조직학적 진단명
+* BPH(양성 전립선 증식) : 전립선 이행대의 평활근(smooth muscle), 상피(epithelium), 간질세포(stromal cell)의 양성 증식 - 본래 조직학적 진단명
 *   관련 개념 구분 (BPH ≠ BPE ≠ BPO ≠ LUTS)
 
     * BPE(benign prostatic enlargement) : BPH에 의한 전립선의 해부학적 비대(육안적·영상학적 크기 증가)
     * BPO(benign prostatic obstruction) : BPE 등에 의한 방광출구폐색(요역동학적 진단)
-    * LUTS(하부요로증상) : 환자가 호소하는 저장·배뇨·배뇨 후 증상 — BPH/BPE/BPO는 남성 LUTS의 흔한 원인이지만 유일한 원인은 아님(☞ 하부 요로 증상과 BPH의 관계)
+    * LUTS(하부요로증상) : 환자가 호소하는 저장·배뇨·배뇨 후 증상 - BPH/BPE/BPO는 남성 LUTS의 흔한 원인이지만 유일한 원인은 아님(☞ 하부 요로 증상과 BPH의 관계)
 
 <table><thead><tr><th width="90">용어</th><th width="150">진단 성격</th><th>핵심 정의</th></tr></thead><tbody><tr><td>BPH</td><td>조직학적 진단</td><td>전립선 이행대의 양성 세포 증식</td></tr><tr><td>BPE</td><td>해부학적 진단</td><td>BPH에 의한 전립선의 육안적·영상학적 크기 증가</td></tr><tr><td>BPO</td><td>기능적(요역동학적) 진단</td><td>BPE 등에 의한 방광출구폐색</td></tr><tr><td>LUTS</td><td>증상 진단</td><td>환자가 호소하는 저장·배뇨·배뇨 후 증상(원인은 BPH 외에도 다양)</td></tr></tbody></table>
 * 유병률(조직학적 BPH 기준) : 40대 10\~20%, 50대 50%, 80대 80\~90%
 * 전립선 크기와 증상의 중증도는 비례하지 않으며, 자각 증상을 호소하는 환자 비율은 조직학적 유병률보다 낮음
-* BPH/BPO 수술(예: TURP) 검체에서 우연히 전립선암이 발견되는 경우가 있음(문헌마다 5\~30%로 보고 편차가 큼) — LUTS 자체가 전립선암을 강하게 시사하지는 않으나, 연령·위험 인자에 따라 전립선암 평가를 별도로 고려(PSA·DRE 등 일부 검사를 공유)
+* BPH/BPO 수술(예: TURP) 검체에서 우연히 전립선암이 발견되는 경우가 있음(문헌마다 5\~30%로 보고 편차가 큼) - LUTS 자체가 전립선암을 강하게 시사하지는 않으나, 연령·위험 인자에 따라 전립선암 평가를 별도로 고려(PSA·DRE 등 일부 검사를 공유)
 
 ***
 
@@ -97,8 +97,8 @@
 **국제 전립선 증상 점수 (International Prostate Symptom Score, IPSS)**
 
 * 지난 한 달 동안에 대하여 아래 7개 문항을 평가\
-  배점 : ①\~⑥ — 5번의 배뇨 중 없다=0점, 1번=1점, ＜절반=2점, 절반=3점, ＞절반=4점, 거의 항상=5점\
-  ⑦ — 없다=0점, 1번=1점, 2번=2점, 3번=3점, 4번=4점, 5번 이상=5점
+  배점 : ①\~⑥ - 5번의 배뇨 중 없다=0점, 1번=1점, ＜절반=2점, 절반=3점, ＞절반=4점, 거의 항상=5점\
+  ⑦ - 없다=0점, 1번=1점, 2번=2점, 3번=3점, 4번=4점, 5번 이상=5점
 
 &#x20;\[증상 문항]\
 &#x20;① 배뇨가 끝난 후에도 소변이 남아 있는 것처럼 느끼는 경우가 몇 번 있었습니까?\
@@ -156,7 +156,7 @@ graph TD
 * ≥70세 남성 : 선별 검사의 잠재적 이득이 위해를 상회하지 않는다고 판단하여 **정기적 PSA 선별 검사를 권고하지 않음**(Grade D)
 
 {% hint style="info" %}
-**선별(screening) 목적의 전립선 MRI — 아직 표준 진료 아님**\
+**선별(screening) 목적의 전립선 MRI - 아직 표준 진료 아님**\
 일부 건강검진에서 PSA 없이 또는 PSA와 함께 전립선 MRI를 선별검사로 제공하기 시작했으나, 이는 2026년 국제 전문가 합의안(PRISM)이 제시한 연구/시범사업용 프로토콜이며 공식 임상진료지침으로 채택된 것은 아님. 현재 표준은 여전히 PSA 기반 선별이며, MRI는 PSA 상승 시 생검 여부 판단을 위한 2차 검사로 사용(위 AUA/SUO 알고리듬 참조). 환자가 사설 선별 MRI 결과를 가져오면 PI-RADS 점수와 촬영 기관의 신뢰도를 확인하고 필요시 비뇨의학과 의뢰
 {% endhint %}
 
@@ -202,7 +202,7 @@ graph TD
 
 * 체중 관리, 규칙적 운동, 변비 관리
 * 이뇨 작용과 방광 자극 효과가 있는 음료 회피 : 카페인(커피, 녹차), 알코올, 인공 감미료
-* 과도한 수분 섭취를 피하고, 증상이 심한 경우 상황(외출 전 등)에 따라 시간대별로 수분 섭취를 조절 — 획일적으로 총 수분량을 제한하기보다 개인화된 조절을 권장(과도한 제한은 고령자에서 탈수·신기능 저하·변비 위험)
+* 과도한 수분 섭취를 피하고, 증상이 심한 경우 상황(외출 전 등)에 따라 시간대별로 수분 섭취를 조절 - 획일적으로 총 수분량을 제한하기보다 개인화된 조절을 권장(과도한 제한은 고령자에서 탈수·신기능 저하·변비 위험)
 * 야뇨가 불편한 경우 저녁 이후(취침 전 3\~4시간 이내)에는 수분 섭취를 줄이고, 특히 카페인·알코올 회피; 야뇨가 두드러지면 nocturnal polyuria 등 다른 원인 감별을 위해 배뇨 일지(bladder diary)를 활용
 * 장시간 배뇨할 수 없는 상황(장거리 버스 여행 등)을 피하고, 가능한 한 배뇨가 용이한 교통수단 이용
 * 배뇨를 악화시키는 약제 주의 : 이뇨제, 항콜린제, TCA, 감기약(항히스타민제, 코 울혈 제거제), opioid
@@ -222,23 +222,23 @@ graph TD
 
 <table><thead><tr><th width="150">선택성</th><th width="230">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>Non-uroselective</td><td>doxazosin <mark style="color:blue;">\[카두라 엑스엘]</mark></td><td>1\~8 ㎎ qd</td></tr><tr><td>Non-uroselective</td><td>terazosin <mark style="color:blue;">\[하이트린]</mark></td><td>1\~10 ㎎ qd</td></tr><tr><td>Uroselective</td><td>alfuzosin <mark style="color:blue;">\[자트랄]</mark></td><td>10 ㎎ qd</td></tr><tr><td>Uroselective</td><td>tamsulosin <mark style="color:blue;">\[하루날 디]</mark></td><td><strong>0.2 ㎎ qd로 시작</strong>(국내 보험기준 및 1차 진료 초회 용량), 필요시 0.4\~0.8 ㎎까지 증량</td></tr><tr><td>Uroselective</td><td>silodosin <mark style="color:blue;">\[트루패스]</mark></td><td>8 ㎎ qd</td></tr><tr><td>Uroselective(α1D)</td><td>naftopidil <mark style="color:blue;">\[플리바스]</mark></td><td>25\~75 ㎎ qd</td></tr></tbody></table>
 
-✽alfuzosin, tamsulosin, silodosin = uroselective(α1A 우세); doxazosin, terazosin = non-uroselective. Uroselective 제제는 혈압 영향이 상대적으로 적은 반면 사정 장애(abnormal ejaculation) 빈도는 tamsulosin·silodosin에서 alfuzosin보다 높다는 보고가 있음 — α1-차단제 선택은 연령·동반질환·혈압 영향·사정 기능에 대한 우려 등을 고려하여 개별화
+✽alfuzosin, tamsulosin, silodosin = uroselective(α1A 우세); doxazosin, terazosin = non-uroselective. Uroselective 제제는 혈압 영향이 상대적으로 적은 반면 사정 장애(abnormal ejaculation) 빈도는 tamsulosin·silodosin에서 alfuzosin보다 높다는 보고가 있음 - α1-차단제 선택은 연령·동반질환·혈압 영향·사정 기능에 대한 우려 등을 고려하여 개별화
 
 ✽doxazosin XL(서방정)의 초기 용량·적정법은 즉시방출형(IR) 제형과 다를 수 있음; 위 표의 용량은 처방 전 국내 허가사항(예: 카두라 엑스엘, 하루날 디)을 최종 확인할 것
 
-* 기전 : 하부 요로 평활근의 α1-adrenergic receptor 차단 → 방광 경부 및 전립선 평활근 이완(방광 출구 저항 감소), 요속 개선; **전립선 크기에는 영향 없음** — 증상은 빠르게 개선시키지만 전립선 용적을 줄이거나 급성 요폐·수술 등 장기적 진행 위험을 낮추지는 않음
+* 기전 : 하부 요로 평활근의 α1-adrenergic receptor 차단 → 방광 경부 및 전립선 평활근 이완(방광 출구 저항 감소), 요속 개선; **전립선 크기에는 영향 없음** - 증상은 빠르게 개선시키지만 전립선 용적을 줄이거나 급성 요폐·수술 등 장기적 진행 위험을 낮추지는 않음
 * 중등증\~중증의 bothersome LUTS(IPSS ≥8점)에서 1차 약물 치료로 고려; 5ARI보다 초기 증상 개선 효과가 빠름
 * 전립선 용적에 따른 적응증 제한은 없으며(5ARI와 달리 용적 기준으로 선택을 제한하지 않음), 전립선 용적이 크거나 진행 위험이 높은 경우 5ARI 병용을 고려
 * 병용 : 5ARI 또는 항콜린제와 병용 가능
   * 중증 또는 α1-차단제 최대 용량에 반응하지 않는 경우 5ARI와의 병용 고려
-* 부작용 : 기립성 저혈압, 어지럼, 무기력, 비염, 두통, 소화불량, 사정 장애(비정상 사정 — 역행성 사정보다는 정액량 감소·무정액이 주된 기전으로 알려짐)
+* 부작용 : 기립성 저혈압, 어지럼, 무기력, 비염, 두통, 소화불량, 사정 장애(비정상 사정 - 역행성 사정보다는 정액량 감소·무정액이 주된 기전으로 알려짐)
   * non-uroselective 제제(doxazosin, terazosin) : 혈압 강하 작용이 뚜렷하여 정상 혈압 환자에서도 사용 가능하나 혈압 모니터링 필요, 저용량부터 점진적 증량
   * doxazosin·terazosin처럼 혈압 강하가 두드러진 제제는 초기 취침 시 투여 후 천천히 일어나도록 교육; uroselective 제제는 반드시 취침 시 투여할 필요는 없음(국내 허가사항에 따른 복용 시점 준수)
   * PDE5i와 병용 시 혈압 강하 영향이 증가할 수 있으므로 증상 관찰
 * 투여 2\~4주 후 치료 반응 평가
 
 {% hint style="danger" %}
-**⚠️ 백내장 수술 예정 환자 안내 — Intraoperative Floppy Iris Syndrome(IFIS)**\
+**⚠️ 백내장 수술 예정 환자 안내 - Intraoperative Floppy Iris Syndrome(IFIS)**\
 α1-차단제(특히 tamsulosin) 복용자는 백내장 수술 중 IFIS 위험이 증가할 수 있습니다. 백내장 수술을 계획 중이거나 예정된 환자는 반드시 안과의사에게 α1-차단제 복용 사실을 알리도록 안내하십시오. 약제를 미리 중단해도 위험이 일정 기간 지속될 수 있습니다.
 {% endhint %}
 
@@ -264,7 +264,7 @@ graph TD
 
     ✽국내 건강보험 급여 기준은 별도로 PSA ≥1.4 ng/㎖ 등을 적용하므로(아래 hint 참조), 국제 가이드라인의 치료 고려 기준(1.5)과 국내 급여 기준(1.4)을 혼동하지 않도록 함
 *   효과 : 장기 치료 시 전립선 용적 약 20\~30% 감소; 증상 개선에는 수개월(최대 6\~12개월) 소요, 전립선 용적＞30 ㎤에서 최대 효과
-* 부작용 : 성욕 감소, 발기 부전, 사정 장애 등 성 기능 관련 부작용, 유방 팽창/압통(gynecomastia) — 5ARI의 대표적 부작용은 성 기능·유방 관련이며, 기립성 저혈압·어지럼은 주된 부작용이 아님(α1-차단제와 혼동 주의)
+* 부작용 : 성욕 감소, 발기 부전, 사정 장애 등 성 기능 관련 부작용, 유방 팽창/압통(gynecomastia) - 5ARI의 대표적 부작용은 성 기능·유방 관련이며, 기립성 저혈압·어지럼은 주된 부작용이 아님(α1-차단제와 혼동 주의)
 *   모니터링
 
     * 투여 3\~6개월 후 치료 반응 평가; PSA는 약 3\~6개월째 약 50% 감소하는 것이 일반적("50% rule")
@@ -277,12 +277,12 @@ graph TD
 * dutasteride : type 1, 2-5ARI 모두 억제하며 효과가 더 빠르고 강할 수 있음; 0.5 ㎎ qd <mark style="color:blue;">\[아보다트]</mark>
 
 {% hint style="danger" %}
-**⚠️ PSA 기준 — 국제 가이드라인 vs 국내 급여 기준을 혼동하지 마십시오**\
+**⚠️ PSA 기준 - 국제 가이드라인 vs 국내 급여 기준을 혼동하지 마십시오**\
 5ARI 치료 고려 기준(전립선 용적＞30 ㎖ 또는 PSA＞1.5 ng/㎖)은 AUA 2026 국제 가이드라인이며, 국내 건강보험 급여 기준(PSA ≥1.4 ng/㎖ 등, 아래)은 **서로 다른 문서에서 유래한 별개의 기준**입니다. 실제 처방 시 급여 인정 여부는 반드시 HIRA 고시를 확인하십시오.
 {% endhint %}
 
 {% hint style="info" %}
-**5ARI 보험기준 (예시 — 기관·시기별 확인 필요)**\
+**5ARI 보험기준 (예시 - 기관·시기별 확인 필요)**\
 ①IPSS 점수 ≥8점 & ②초음파검사상 전립선 크기 ≥30 ㎖ or 직장수지검사상 중등증 이상의 BPH 소견 or PSA ≥1.4 ng/㎖; 약제 투여 중 1회/12개월 이상 PSA 검사 시행\
 ✽정확한 급여 기준은 HIRA 고시를 반드시 확인할 것(기준 변경 가능)
 {% endhint %}
@@ -302,12 +302,12 @@ graph TD
 ### <mark style="color:orange;">병용 요법</mark>
 
 * α-차단제 + 5ARI 병용은 중등증\~중증 LUTS이면서 전립선 용적＞30 ㎤ 또는 PSA＞1.5 ng/㎖(국내 급여 기준은 1.4 ng/㎖)인 경우, 특히 진행(요폐·수술) 고위험군에서 단독 요법보다 장기적 증상 진행 억제 효과가 크다는 근거가 있음(MTOPS, CombAT 연구)
-* 병용 초기에는 α-차단제가 빠른 증상 조절을, 5ARI가 장기적인 전립선 용적 감소·진행 억제를 담당 — 환자에게 두 약제의 역할 차이를 설명
+* 병용 초기에는 α-차단제가 빠른 증상 조절을, 5ARI가 장기적인 전립선 용적 감소·진행 억제를 담당 - 환자에게 두 약제의 역할 차이를 설명
 
 ### <mark style="color:orange;">Phosphodiesterase Type 5 억제제 (PDE5i)</mark>
 
 * 발기 저하가 동반된 중등증 이하 증상에서 고려; 발기부전 없이 LUTS 단독 치료 목적이라도 tadalafil 5 ㎎ qd 단독 요법은 α1-차단제와 유사한 효과를 보임
-* AUA 2026 : 발기부전 동반 여부와 관계없이 daily tadalafil 5 ㎎과 **uroselective α1-차단제(alfuzosin, tamsulosin, silodosin)**의 병용을 고려할 수 있음(Conditional Recommendation, Grade C) — non-uroselective 제제(doxazosin, terazosin)와의 병용에 대한 근거는 상대적으로 부족하므로 동일하게 적용하지 않음
+* AUA 2026 : 발기부전 동반 여부와 관계없이 daily tadalafil 5 ㎎과 **uroselective α1-차단제(alfuzosin, tamsulosin, silodosin)**의 병용을 고려할 수 있음(Conditional Recommendation, Grade C) - non-uroselective 제제(doxazosin, terazosin)와의 병용에 대한 근거는 상대적으로 부족하므로 동일하게 적용하지 않음
 * 병용 시에도 어지럼·기립성 저혈압 가능성이 있어 환자별로 혈압과 기립성 증상을 평가
 * tadalafil : 5 ㎎ qd <mark style="color:blue;">\[시알리스]</mark> (✽BPH에 대하여 FDA 승인)
 
@@ -327,22 +327,22 @@ tadalafil을 포함한 모든 PDE5 억제제는 nitrate 제제(니트로글리�
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 * 절대적 수술 적응증 : 약물치료로 호전되지 않는 반복/불응성 요폐, 재발성 요로 감염, 재발성·불응성 육안혈뇨, 방광 결석, 큰 방광 게실, BPO에 기인한 만성 신질환(신기능 악화)
-* 상대적 적응증(shared decision-making) : 약물 치료에도 bothersome LUTS가 지속되거나 약물 치료를 원하지 않는 경우 — 반드시 일정 기간(예: 12개월) 비수술 치료를 선행해야 하는 것은 아니며, 증상·선호도·약물 부작용·진행 위험을 고려해 환자와 함께 결정
-* 전통적 수술 : TURP(경요도 전립선 절제술), TUIP(경요도 전립선 절개술), HoLEP(홀뮴 레이저 전립선 적출술), open/robotic prostatectomy — 전립선 용적이 매우 큰 경우 고려; ThuLEP(thulium 레이저 적출술)도 전립선 용적과 무관하게 시행 가능한 대표적 enucleation 술식
+* 상대적 적응증(shared decision-making) : 약물 치료에도 bothersome LUTS가 지속되거나 약물 치료를 원하지 않는 경우 - 반드시 일정 기간(예: 12개월) 비수술 치료를 선행해야 하는 것은 아니며, 증상·선호도·약물 부작용·진행 위험을 고려해 환자와 함께 결정
+* 전통적 수술 : TURP(경요도 전립선 절제술), TUIP(경요도 전립선 절개술), HoLEP(홀뮴 레이저 전립선 적출술), open/robotic prostatectomy - 전립선 용적이 매우 큰 경우 고려; ThuLEP(thulium 레이저 적출술)도 전립선 용적과 무관하게 시행 가능한 대표적 enucleation 술식
 * 하부 요로 증상이 있는 환자는 수술 후에도 약 25%에서 증상이 지속될 수 있음을 설명
 
 ✽TUNA(경요도 침 절제술), TUMT(경요도 미세파 열 치료)는 현재 AUA 가이드라인에서 더 이상 권고되지 않으며 legacy technology(가이드라인 권고 목록에서 제외됨)로 분류됨
 
 ### <mark style="color:orange;">최소 침습 시술 (Minimally Invasive Surgical Therapy, MIST)</mark>
 
-* AUA LUTS/BPH 가이드라인 Part III: Procedural/Surgical Management(2026)에서 전립선 용적 30\~80 ㎤ 범위를 중심으로 아래 최소 침습 옵션이 정리됨(숙련된 술자·적절한 환자에서는 더 큰 용적까지 적용을 고려하기도 함) — 사정·발기 기능 보존을 원하는 환자에게 특히 유용
+* AUA LUTS/BPH 가이드라인 Part III: Procedural/Surgical Management(2026)에서 전립선 용적 30\~80 ㎤ 범위를 중심으로 아래 최소 침습 옵션이 정리됨(숙련된 술자·적절한 환자에서는 더 큰 용적까지 적용을 고려하기도 함) - 사정·발기 기능 보존을 원하는 환자에게 특히 유용
   * Prostatic urethral lift(PUL, UroLift) : 클립으로 전립선 조직을 견인·고정하여 요도 개방; median lobe가 없는 경우 우선 고려
   * Water vapor thermal therapy(WVTT, Rezum) : 경요도 스팀 주입으로 조직 괴사 유도; median lobe 동반 시에도 적용 가능
   * Aquablation : 로봇 유도 고압 water-jet으로 조직 절제; 전신 마취 필요, 큰 전립선(최대 150 ㎤)에서도 적용 보고
   * iTind(temporary implantable nitinol device) : 경요도로 일시적 nitinol 장치를 삽입하였다가 일정 기간 후 제거하는 최소 침습적 옵션
 * 이들 시술은 비뇨의학과에서 시행하며, 1차 진료에서는 환자에게 전통적 수술 대비 회복이 빠르고 성 기능 부작용이 적을 수 있다는 선택지로 안내하고 의뢰
 
-✽급성 요폐로 도뇨한 경우 α1-차단제를 시작하고, 도뇨관 제거 후 배뇨 시도(trial without catheter, TWOC)를 고려 — 1차 진료에서 실제로 유용한 접근
+✽급성 요폐로 도뇨한 경우 α1-차단제를 시작하고, 도뇨관 제거 후 배뇨 시도(trial without catheter, TWOC)를 고려 - 1차 진료에서 실제로 유용한 접근
 
 ***
 
@@ -380,7 +380,7 @@ graph TD
 
 <p align="center"><em><mark style="color:$info;">Ref. Diagnosis, management, and referral of men with lower urinary tract symptoms due to benign prostatic hyperplasia. NICE 2017.</mark></em></p>
 
-✽위 알고리듬은 NICE(2017) 기준으로, 역사적 참고 자료로서의 가치를 위해 원문 그대로 유지함. 현재 AUA(2026)/EAU(2026) 가이드라인의 약물·시술 세부 권고와는 일부 차이가 있을 수 있음(예: PVR 기준, PSA 기준, MIST 옵션 등) — 아래 AUA 2026 기준 알고리듬 참조
+✽위 알고리듬은 NICE(2017) 기준으로, 역사적 참고 자료로서의 가치를 위해 원문 그대로 유지함. 현재 AUA(2026)/EAU(2026) 가이드라인의 약물·시술 세부 권고와는 일부 차이가 있을 수 있음(예: PVR 기준, PSA 기준, MIST 옵션 등) - 아래 AUA 2026 기준 알고리듬 참조
 
 ***
 
@@ -443,7 +443,7 @@ R39.8 비뇨계통의 기타 및 상세불명의 증상 및 징후
 > 베시케어 5 ㎎/T   1T  qd
 > ```
 >
-> _✽α-차단제에 충분히 반응하지 않는 저장 증상(빈뇨, 절박뇨) 동반 시 항콜린제 추가. 시작 전 배뇨 후 잔뇨량(PVR)＞150 ㎖ 여부를 반드시 확인(요폐 위험 — EAU 2026)_
+> _✽α-차단제에 충분히 반응하지 않는 저장 증상(빈뇨, 절박뇨) 동반 시 항콜린제 추가. 시작 전 배뇨 후 잔뇨량(PVR)＞150 ㎖ 여부를 반드시 확인(요폐 위험 - EAU 2026)_
 
 > **처방례 4. 발기부전 동반**
 >
@@ -451,7 +451,7 @@ R39.8 비뇨계통의 기타 및 상세불명의 증상 및 징후
 > 시알리스 5 ㎎/T  1T  qd
 > ```
 >
-> _✽중등증 이하 LUTS와 발기부전이 동반된 경우 tadalafil 단독으로 두 증상을 함께 조절 가능(FDA BPH 적응증 승인). AUA 2026은 uroselective α1-차단제(alfuzosin, tamsulosin, silodosin)와의 병용을 조건부로 허용(Grade C) — 병용 시 혈압·기립성 증상 관찰; nitrate 제제와의 병용은 절대 금기_
+> _✽중등증 이하 LUTS와 발기부전이 동반된 경우 tadalafil 단독으로 두 증상을 함께 조절 가능(FDA BPH 적응증 승인). AUA 2026은 uroselective α1-차단제(alfuzosin, tamsulosin, silodosin)와의 병용을 조건부로 허용(Grade C) - 병용 시 혈압·기립성 증상 관찰; nitrate 제제와의 병용은 절대 금기_
 
 ***
 
@@ -461,7 +461,7 @@ R39.8 비뇨계통의 기타 및 상세불명의 증상 및 징후
 >
 > 1. Non-uroselective 제제(doxazosin, terazosin)는 혈압 강하 효과가 뚜렷하므로 초기 취침 전 복용을 권장하고, 밤에 일어날 때는 천천히 일어나도록 안내; 정상 혈압 환자에서도 혈압 모니터링 필요
 > 2. Uroselective 제제(tamsulosin, silodosin, alfuzosin)는 전신 혈압 강하 효과가 적어 반드시 취침 시 복용해야 하는 것은 아니며, 국내 허가사항의 복용 시점을 따름
-> 3. Tadalafil과의 병용은 uroselective 제제(alfuzosin, tamsulosin, silodosin)에 한해 AUA 2026이 조건부로 허용(Grade C) — 병용 시 혈압·기립성 증상을 관찰; nitrate 병용은 절대 금기
+> 3. Tadalafil과의 병용은 uroselective 제제(alfuzosin, tamsulosin, silodosin)에 한해 AUA 2026이 조건부로 허용(Grade C) - 병용 시 혈압·기립성 증상을 관찰; nitrate 병용은 절대 금기
 > 4. 백내장 수술 예정 환자는 반드시 안과의사에게 복용 사실을 알리도록 안내(IFIS 위험)
 > 5. 투여 2\~4주 후 치료 반응을 평가
 
@@ -481,9 +481,9 @@ R39.8 비뇨계통의 기타 및 상세불명의 증상 및 징후
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 소변을 전혀 볼 수 없거나 하복부가 팽만하며 심한 통증이 있는 경우 — **즉시 응급실 방문**(급성 요폐)
+> * 소변을 전혀 볼 수 없거나 하복부가 팽만하며 심한 통증이 있는 경우 - **즉시 응급실 방문**(급성 요폐)
 > * 혈뇨가 육안으로 보이거나 반복되는 경우
-> * 발열, 오한을 동반한 배뇨통이 있는 경우 — 요로 감염/전립선염 의심
+> * 발열, 오한을 동반한 배뇨통이 있는 경우 - 요로 감염/전립선염 의심
 > * 표준 약물 치료 4\~6주 후에도 증상이 호전되지 않는 경우
 
 ***
@@ -517,7 +517,7 @@ R39.8 비뇨계통의 기타 및 상세불명의 증상 및 징후
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
-* 🚨 **소변이 전혀 나오지 않고 아랫배가 심하게 불러오는 경우** — 응급 상황입니다.
+* 🚨 **소변이 전혀 나오지 않고 아랫배가 심하게 불러오는 경우** - 응급 상황입니다.
 * 혈뇨(피 섞인 소변)가 보이는 경우
 * 열이 나면서 소변볼 때 아픈 경우
 * 치료 중인데도 4\~6주 이상 증상이 나아지지 않는 경우

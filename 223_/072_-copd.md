@@ -285,7 +285,7 @@ SABD = short-acting bronchodilator
 * SAMA : ipratropium, oxitropium
 * LAMA : aclidinium, glycopyrronium, tiotropium, umeclidinium
 
-<table><thead><tr><th width="92.941162109375">분류</th><th width="282.3529052734375">성분명 [상품명]</th><th width="132.941162109375">흡입제 용량</th><th width="139.4117431640625">네뷸라이저 용액</th><th>작용 시간(hr)</th></tr></thead><tbody><tr><td>SAMA</td><td>ipratropium <mark style="color:blue;">[아트로벤트]</mark></td><td>—</td><td>250 μg/mL, <br>1~2 mL/A</td><td>6–8</td></tr><tr><td>LAMA</td><td>aclidinium <mark style="color:blue;">[에클리라 제뉴에어]</mark></td><td>400 μg bid</td><td>—</td><td>12</td></tr><tr><td></td><td>glycopyrronium <mark style="color:blue;">[씨브리 흡입용캡슐]</mark></td><td>50 μg 1C qd</td><td>—</td><td>24</td></tr><tr><td></td><td>tiotropium <mark style="color:blue;">[스피리바 흡입용캡슐]</mark></td><td>18 μg 1C qd</td><td>—</td><td>24</td></tr><tr><td></td><td>umeclidinium <mark style="color:blue;">[인크루즈 엘립타]</mark></td><td>62.5 μg qd</td><td>—</td><td>24</td></tr></tbody></table>
+<table><thead><tr><th width="92.941162109375">분류</th><th width="282.3529052734375">성분명 [상품명]</th><th width="132.941162109375">흡입제 용량</th><th width="139.4117431640625">네뷸라이저 용액</th><th>작용 시간(hr)</th></tr></thead><tbody><tr><td>SAMA</td><td>ipratropium <mark style="color:blue;">[아트로벤트]</mark></td><td>-</td><td>250 μg/mL, <br>1~2 mL/A</td><td>6–8</td></tr><tr><td>LAMA</td><td>aclidinium <mark style="color:blue;">[에클리라 제뉴에어]</mark></td><td>400 μg bid</td><td>-</td><td>12</td></tr><tr><td></td><td>glycopyrronium <mark style="color:blue;">[씨브리 흡입용캡슐]</mark></td><td>50 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td></td><td>tiotropium <mark style="color:blue;">[스피리바 흡입용캡슐]</mark></td><td>18 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td></td><td>umeclidinium <mark style="color:blue;">[인크루즈 엘립타]</mark></td><td>62.5 μg qd</td><td>-</td><td>24</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">LAMA+LABA 흡입 복합제</mark>
 
@@ -320,7 +320,7 @@ SABD = short-acting bronchodilator
   * ICS 사용 중 폐렴이 반복되거나 mycobacterial 감염이 발생한 경우
   * 단, eos ≥300인 환자에서 ICS를 중단하면 악화 위험이 증가할 수 있으므로 신중히 결정한다.
 
-<table><thead><tr><th width="250">성분명 [상품명]</th><th width="200">흡입제</th><th>네불라이저 용액</th></tr></thead><tbody><tr><td>budesonide <mark style="color:blue;">[풀미코트]</mark></td><td>200 μg/puff bid</td><td>0.5 mg/2 mL/A bid</td></tr><tr><td>fluticasone <mark style="color:blue;">[후릭소타이드]</mark></td><td>100, 250 μg/puff bid</td><td>0.5 or 2 mg/2 mL/A bid</td></tr><tr><td>ciclesonide <mark style="color:blue;">[알베스코]</mark></td><td>80, 160 μg/puff qd</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="250">성분명 [상품명]</th><th width="200">흡입제</th><th>네불라이저 용액</th></tr></thead><tbody><tr><td>budesonide <mark style="color:blue;">[풀미코트]</mark></td><td>200 μg/puff bid</td><td>0.5 mg/2 mL/A bid</td></tr><tr><td>fluticasone <mark style="color:blue;">[후릭소타이드]</mark></td><td>100, 250 μg/puff bid</td><td>0.5 or 2 mg/2 mL/A bid</td></tr><tr><td>ciclesonide <mark style="color:blue;">[알베스코]</mark></td><td>80, 160 μg/puff qd</td><td>-</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">ICS+LABA 흡입 복합제</mark>
 

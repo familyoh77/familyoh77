@@ -151,7 +151,7 @@ flowchart TD
 * 경증 비화농성 연조직염 지침을 적용하여 **5일 치료를 기본**으로 하되, 5일째 임상적 호전이 불충분하면 7\~10일까지 연장한다.
 
 {% hint style="info" %}
-**Cephalexin 용법 — 국내 허가 용법과 국제 임상 관행을 구분해 적용**\
+**Cephalexin 용법 - 국내 허가 용법과 국제 임상 관행을 구분해 적용**\
 국내 허가의 통상 용법은 500 ㎎ bid\~tid이나, 국제 연조직염 지침·임상에서는 500 ㎎ qid도 흔히 사용된다. 아래 표의 용법은 국내 허가 기준이며, 중증도에 따라 qid 증량 여부를 별도로 판단한다.
 {% endhint %}
 
@@ -254,9 +254,9 @@ flowchart TD
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 24\~48시간 이내 예정된 재평가
-> * 48\~72시간에 호전이 없거나 악화되는 경우 — 즉시 재방문
-> * 고름, 물렁한 덩이가 만져지는 경우 — 배농 필요성 평가
-> * 손·얼굴 병변, 동물·사람 물림, 경구 섭취 불가 — 당일 재평가
+> * 48\~72시간에 호전이 없거나 악화되는 경우 - 즉시 재방문
+> * 고름, 물렁한 덩이가 만져지는 경우 - 배농 필요성 평가
+> * 손·얼굴 병변, 동물·사람 물림, 경구 섭취 불가 - 당일 재평가
 
 ***
 
@@ -300,11 +300,11 @@ flowchart TD
 
 1. Stevens DL, et al. [Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update by the Infectious Diseases Society of America](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/). *Clin Infect Dis*. 2014;59:e10-e52.
 2. Centers for Disease Control and Prevention. [Clinical Guidance for Group A Streptococcal Cellulitis](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/cellulitis.html). Updated 2025.
-3. Centers for Disease Control and Prevention. [Yellow Book: Post-Travel Dermatologic Conditions—Lymphocutaneous or Sporotrichoid Spread of Infection](https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html). 2025.
+3. Centers for Disease Control and Prevention. [Yellow Book: Post-Travel Dermatologic Conditions-Lymphocutaneous or Sporotrichoid Spread of Infection](https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html). 2025.
 4. World Health Organization. [ICD-10 Version 2019](https://icd.who.int/browse10/2019/en): L03 Cellulitis and Acute Lymphangitis; I89.1 Lymphangitis.
 5. 동화약품. [파목신캡슐 제품정보](https://www.dong-wha.co.kr/product/content.asp?b=10&s=11&t_idx=12); [팔렉신캡슐 500 mg 제품정보](https://dong-wha.co.kr/product/content.asp?b=10&s=11&t_idx=20).
 6. 대화제약. [Ceftriaxone 주사제 제품정보](https://www.dhpharm.co.kr/html/dh/DH_product_detail?idx=185): 성인 및 12세 이상 소아 1\~2 g IV/IM, 1일 1회.
-7. Centers for Disease Control and Prevention. [Clinical Overview of Vibriosis—Treating Wound Infection](https://www.cdc.gov/vibrio/hcp/clinical-overview/index.html).
+7. Centers for Disease Control and Prevention. [Clinical Overview of Vibriosis-Treating Wound Infection](https://www.cdc.gov/vibrio/hcp/clinical-overview/index.html).
 8. [국내 훌그램캡슐 150 ㎎ 제품정보](https://www.connectdi.com/cont/drug/?dl_idx=3391&pap=detail): clindamycin 성인 용법, β-용혈성연쇄구균 감염 치료 기간 및 임신·수유 주의사항.
-9. National Library of Medicine. [Clindamycin—Drugs and Lactation Database (LactMed®)](https://www.ncbi.nlm.nih.gov/books/NBK501208/).
+9. National Library of Medicine. [Clindamycin-Drugs and Lactation Database (LactMed®)](https://www.ncbi.nlm.nih.gov/books/NBK501208/).
 10. 질병관리청. [제2기(2020～2022년) 국가 항균제 내성균 조사(Kor-GLASS) 운영 결과](https://kdca.go.kr/bbs/kdca/263/306528/download.do). 국가 내성 추세의 참고자료이며 외래 피부연조직감염의 원인균 분포를 직접 나타내지는 않음.

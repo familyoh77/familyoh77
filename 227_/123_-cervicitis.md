@@ -19,8 +19,8 @@
 
 * Chlamydia trachomatis, Neisseria gonorrhoeae, Trichomonas vaginalis
 * 세균성 질증 유발 균주 (☞ [음문질감염증](122_-vulvovaginal-infections.md))
-* Herpes simplex virus (HSV-2) — 특히 궤양성 병변 동반 시 고려
-* Mycoplasma genitalium — 지속·재발성 자궁경부염에서 고려되는 원인균. Routine cervicitis에서 일률적 검사는 권고되지 않으며, 지속 증상이 있고 재노출·복약불이행 등이 배제된 경우 NAAT를 고려
+* Herpes simplex virus (HSV-2) - 특히 궤양성 병변 동반 시 고려
+* Mycoplasma genitalium - 지속·재발성 자궁경부염에서 고려되는 원인균. Routine cervicitis에서 일률적 검사는 권고되지 않으며, 지속 증상이 있고 재노출·복약불이행 등이 배제된 경우 NAAT를 고려
 * 특히 STI 위험이 낮은 여성에서는 상당수에서 특정 병원체가 확인되지 않음
 
 #### <mark style="color:$primary;">비감염성 원인</mark>
@@ -63,11 +63,11 @@
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
-* C. trachomatis, N. gonorrhoeae 검사 : 분비물 또는 소변 NAAT (☞ 실험실 검사 챕터 — 링크 연결 필요)\
+* C. trachomatis, N. gonorrhoeae 검사 : 분비물 또는 소변 NAAT (☞ 실험실 검사 챕터 - 링크 연결 필요)\
   ✽국내 의료기관별 NAAT 접근성에 차이가 있을 수 있어, 가능한 경우 시행하고 여건상 어려운 경우 임상적 위험도에 따라 경험적 치료를 고려
 * 세균성 질증, trichomoniasis 평가 (☞ [음문질감염증](122_-vulvovaginal-infections.md))\
   ✽Trichomonas는 wet mount의 민감도가 낮으므로(약 50%), 의심 증상이 있으면서 wet mount가 음성이면 NAAT 등 추가검사를 고려
-* 생식기 궤양 등 HSV 감염을 시사하는 병변이 있는 경우 병변 PCR 등으로 평가 (☞ 생식기 헤르페스 챕터 — 링크 연결 필요); 자궁경부염 소견만으로 HSV 검사를 routine하게 시행할 근거는 부족
+* 생식기 궤양 등 HSV 감염을 시사하는 병변이 있는 경우 병변 PCR 등으로 평가 (☞ 생식기 헤르페스 챕터 - 링크 연결 필요); 자궁경부염 소견만으로 HSV 검사를 routine하게 시행할 근거는 부족
 * 자궁경부염이 의심되는 환자에서 HIV 및 매독 검사 시행
 * 표준 치료 후에도 지속·재발하는 경우 M. genitalium NAAT 고려
 
@@ -127,28 +127,28 @@ graph TD
 
 * 원칙 (CDC STI Treatment Guidelines, 2021) : 추적관찰이 불확실하거나 NAAT 검사가 불가능한 경우, 또는 임균 감염 위험이 높은 경우에는 경험적 치료를 고려하여 시작. 저위험이면서 추적관찰이 확실하면 NAAT 결과 확인 후 치료를 보류할 수 있음\
   ✽2015년 가이드라인의 "모든 자궁경부염에 클라미디아·임균 동시 경험적 치료" 원칙은 항생제 스튜어드십 강화를 위해 2021년부터 위험도 기반 접근으로 개정됨
-* doxycycline 100 ㎎ bid ×7일 — 1차 선택제
+* doxycycline 100 ㎎ bid ×7일 - 1차 선택제
 * ceftriaxone 500 ㎎ IM 1회 병용 <mark style="color:blue;">\[트리악손]</mark> : 임균 감염 위험이 높은 경우(임균 감염 파트너, 최근 임균 노출 등) 또는 지역사회 임균 유병률이 높은 경우 (체중 150 ㎏ 미만 기준; 2015년 250 ㎎에서 2021년 500 ㎎으로 상향)
-* azithromycin 1 g 1회 <mark style="color:blue;">\[지스로맥스]</mark> — 항생제 내성 증가로 비임신 성인의 1차 선택에서는 후순위이며, 임신부 또는 doxycycline 복약순응도가 우려되는 경우의 대안
+* azithromycin 1 g 1회 <mark style="color:blue;">\[지스로맥스]</mark> - 항생제 내성 증가로 비임신 성인의 1차 선택에서는 후순위이며, 임신부 또는 doxycycline 복약순응도가 우려되는 경우의 대안
 
 #### <mark style="color:$primary;">임신부</mark>
 
-* azithromycin 1 g 1회 — 임신 중 Chlamydia 치료의 권장 대안이며, doxycycline은 임신 중 권장되지 않음
+* azithromycin 1 g 1회 - 임신 중 Chlamydia 치료의 권장 대안이며, doxycycline은 임신 중 권장되지 않음
 * 임신 중 Chlamydia 감염이 확인된 경우 치료 4주 후 NAAT로 test-of-cure 시행, 이후 3개월 후 재검. 재감염 위험이 지속되는 경우 임신 3분기에 재검
 
 ### <mark style="color:orange;">Trichomonas 동반</mark>
 
-* metronidazole 500 ㎎ bid ×7일 <mark style="color:blue;">\[후라시닐]</mark> — 여성에서는 단회 2 g 요법보다 치료 성공률이 높아 우선 권고
-* tinidazole 2 g 1회 <mark style="color:blue;">\[티니다진]</mark> — 대안 요법
+* metronidazole 500 ㎎ bid ×7일 <mark style="color:blue;">\[후라시닐]</mark> - 여성에서는 단회 2 g 요법보다 치료 성공률이 높아 우선 권고
+* tinidazole 2 g 1회 <mark style="color:blue;">\[티니다진]</mark> - 대안 요법
 
 ### <mark style="color:orange;">Herpes 동반</mark>
 
-* acyclovir, valacyclovir, famciclovir — 세부 용량은 생식기 헤르페스 챕터 참고(☞ 링크 연결 필요)
+* acyclovir, valacyclovir, famciclovir - 세부 용량은 생식기 헤르페스 챕터 참고(☞ 링크 연결 필요)
 
 ### <mark style="color:orange;">재발 및 지속성 자궁경부염</mark>
 
 * 성병 노출 등 재평가, 성 파트너 평가
-* **반복적인 항생제 치료에도 불구하고 재발하는 자궁경부염은 대부분 Chlamydia나 Gonorrhea에 의한 것이 아니며, 지속 항생제 복용의 유용성은 불확실함 — 불필요한 항생제 재처방을 지양하고 원인 재평가를 우선**
+* **반복적인 항생제 치료에도 불구하고 재발하는 자궁경부염은 대부분 Chlamydia나 Gonorrhea에 의한 것이 아니며, 지속 항생제 복용의 유용성은 불확실함 - 불필요한 항생제 재처방을 지양하고 원인 재평가를 우선**
 * 적절한 치료 후에도 지속되며 재노출·복약불이행·BV 등이 배제된 경우 M. genitalium NAAT 고려\
   * macrolide-susceptible 확인 시 : doxycycline 100 ㎎ bid ×7일 선행 후 azithromycin 1 g 1일차, 이후 500 ㎎ qd ×3일
   * macrolide resistance testing이 불가능하거나 내성이 확인된 경우 : doxycycline 100 ㎎ bid ×7일 선행 후 moxifloxacin 400 ㎎ qd ×7일 순차 치료 고려
@@ -179,7 +179,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 경험적 치료가 필요한 저위험 자궁경부염 — Doxycycline 단독**
+> **처방례 1. 경험적 치료가 필요한 저위험 자궁경부염 - Doxycycline 단독**
 >
 > ```
 > 독시사이클린 100 ㎎/C  2C #2  ×7d
@@ -187,7 +187,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 >
 > _✽저위험·추적 가능 환자는 NAAT 결과 확인 후 치료를 보류할 수 있으며, 본 처방례는 추적관찰이 불확실하거나 NAAT 시행이 어려워 경험적 치료가 필요한 경우이며 임균 동반 위험 요인(파트너 임균감염 확인, 지역사회 고유병률 등)은 없는 상황_
 
-> **처방례 2. 임균 동반 위험 높음 — 병용 요법**
+> **처방례 2. 임균 동반 위험 높음 - 병용 요법**
 >
 > ```
 > 트리악손 500 ㎎  IM  1회
@@ -196,7 +196,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 >
 > _✽체중 150 ㎏ 이상인 경우 ceftriaxone 1 g으로 증량_
 
-> **처방례 3. 임신부 Chlamydia 감염 — Azithromycin**
+> **처방례 3. 임신부 Chlamydia 감염 - Azithromycin**
 >
 > ```
 > 지스로맥스 250 ㎎/T  4T  1회
@@ -229,7 +229,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 >
 > * doxycycline은 충분한 물과 함께 복용하고, 복용 직후 눕지 않도록 안내(식도 자극·궤양 예방)
 > * doxycycline은 제산제·철분제·칼슘제·유제품 등 2가/3가 양이온 함유 제품과 동시 복용 시 흡수가 저하되므로 최소 2시간 이상 간격을 두고 복용
-> * 광과민 반응 가능 — 치료 기간 중 직사광선 노출을 최소화하고 자외선 차단제 사용 권고
+> * 광과민 반응 가능 - 치료 기간 중 직사광선 노출을 최소화하고 자외선 차단제 사용 권고
 > * 처방된 항생제를 임의로 중단하지 말고 전 기간 복용을 완료
 > * 본인 및 파트너 모두 치료를 완료하고, 7일 요법은 치료를 마칠 때까지, 단회요법은 투여 후 7일이 지나며 증상이 호전될 때까지 성관계를 금할 것
 
@@ -241,7 +241,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 치료 중 또는 치료 후 **발열, 심한 하복부 통증**이 발생하는 경우 — 즉시 내원(골반염 의심)
+> * 치료 중 또는 치료 후 **발열, 심한 하복부 통증**이 발생하는 경우 - 즉시 내원(골반염 의심)
 > * 임신 중인 경우 **복통 또는 질 출혈**이 동반되면 즉시 산과 평가
 > * 치료 완료 후에도 증상이 지속되거나 재발하는 경우
 

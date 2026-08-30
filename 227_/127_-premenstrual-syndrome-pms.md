@@ -6,13 +6,13 @@
 * 다른 이름 : premenstrual tension, 월경전긴장증후군
 * 정의 (RCOG Green-top Guideline No. 48, 2016/2017) : 기질적 질환이나 기존 정신 질환이 없는 상태에서, 매 월경(배란) 주기의 황체기에 규칙적으로 재발하고 월경 시작과 함께 소실 또는 뚜렷이 호전되는 고통스러운 신체적·행동적·정신적 증상
 * 월경전불쾌장애(premenstrual dysphoric disorder, PMDD) : 정서 증상이 주가 되어 기능 장애를 초래하는 중증의 월경전증후군; DSM-5(-TR) 진단 기준 충족 필요 (☞ 진단 참고)
-* 많은 여성들이 월경 전에 신체적, 정신적 증상을 보이지만 이들이 모두 PMS에 해당되지는 않음 — 가임기 여성의 최대 90%가 최소 1개 이상의 월경전 증상을 경험 \[ACOG 2023]
+* 많은 여성들이 월경 전에 신체적, 정신적 증상을 보이지만 이들이 모두 PMS에 해당되지는 않음 - 가임기 여성의 최대 90%가 최소 1개 이상의 월경전 증상을 경험 \[ACOG 2023]
 
 ### <mark style="color:orange;">분류</mark>
 
 * Core(핵심형) PMS : 배란 주기에 의존하는 전형적 PMS로 가장 흔한 형태
-* Variant(변이형) PMS \[ISPMD Consensus] — 아래 3가지는 core PMS와 감별이 필요
-  * PME(premenstrual exacerbation) : 기존 정신 질환(우울증, 불안장애 등) 또는 신체 질환(편두통, 천식, 과민대장증후군 등)이 황체기에 악화되는 경우 — core PMS와의 핵심 차이는 난포기(follicular phase) 동안 완전한 증상 소실 구간(symptom-free interval)이 없다는 점이며, 전향적 일일 증상 일지(DRSP 등) 판독 시 이 구간의 유무를 확인하는 것이 감별의 핵심
+* Variant(변이형) PMS \[ISPMD Consensus] - 아래 3가지는 core PMS와 감별이 필요
+  * PME(premenstrual exacerbation) : 기존 정신 질환(우울증, 불안장애 등) 또는 신체 질환(편두통, 천식, 과민대장증후군 등)이 황체기에 악화되는 경우 - core PMS와의 핵심 차이는 난포기(follicular phase) 동안 완전한 증상 소실 구간(symptom-free interval)이 없다는 점이며, 전향적 일일 증상 일지(DRSP 등) 판독 시 이 구간의 유무를 확인하는 것이 감별의 핵심
   * Progestogen-induced PMS : progestogen 함유 호르몬제(피임제, 호르몬 대체 요법 등) 복용 중 PMS 유사 증상 발생
   * Non-ovulatory PMS : 배란이 확인되지 않는 드문 형태
 
@@ -29,7 +29,7 @@
 
 * estrogen 및 progesterone 자체의 절대량 이상이 아니라, 정상 범위의 생리적 호르몬 변동에 대한 중추신경계의 비정상적 반응(민감도 증가)으로 이해됨
 * allopregnanolone(progesterone 대사물, GABA-A 수용체 조절물질)에 대한 개인별 민감도 차이가 핵심 기전으로 제시됨
-* 신경 전달 물질 이상 : 특히 serotonin 신호 체계의 조절 이상(단순 저하가 아닌 주기적 변동에 대한 반응성 이상) — SSRI가 신속하게 반응하는 근거
+* 신경 전달 물질 이상 : 특히 serotonin 신호 체계의 조절 이상(단순 저하가 아닌 주기적 변동에 대한 반응성 이상) - SSRI가 신속하게 반응하는 근거
 * aldosterone & renin 활성도↑, Vit B6 부족·당 대사 이상 관련 가설도 있으나 근거 수준 낮음
 
 #### <mark style="color:$primary;">위험 요인</mark>
@@ -43,7 +43,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* Core PMS에서는 증상이 황체기에 발생하고 월경 시작 후 수일 내 현저히 호전되며 난포기에는 최소화 또는 소실되는 주기적 패턴이 핵심 — 이 패턴이 확인되지 않으면 core PMS가 아님(☞ 진단; variant PMS는 분류 참고)
+* Core PMS에서는 증상이 황체기에 발생하고 월경 시작 후 수일 내 현저히 호전되며 난포기에는 최소화 또는 소실되는 주기적 패턴이 핵심 - 이 패턴이 확인되지 않으면 core PMS가 아님(☞ 진단; variant PMS는 분류 참고)
 * 신체적 변화 : 복부 팽만감/복통, 피로, 구역, 변비, 유방 팽만감/압통, 근육통, 두통, 어지럼, 사지 부종, 체중 증가, 여드름, 두근거림
 * 정서적 변화 : 과민, 감정 기복, 우울, 불안, 분노, 흥미 감소, 피로, 집중력 저하, 수면 장애, 식욕 변화, 성욕 변화, 활동 위축
 
@@ -73,7 +73,7 @@
 ## <mark style="color:green;">진단</mark>
 
 * PMS/PMDD는 병력에 근거한 임상 진단이며, 확진을 위한 단일 검사는 없음
-* 진단의 핵심은 **전향적(prospective)** 증상 기록 — 환자의 회상에 의존하는 후향적 병력 청취만으로는 과다 진단 또는 과소 진단의 위험이 있음 \[ACOG 2023]
+* 진단의 핵심은 **전향적(prospective)** 증상 기록 - 환자의 회상에 의존하는 후향적 병력 청취만으로는 과다 진단 또는 과소 진단의 위험이 있음 \[ACOG 2023]
 * PMS/PMDD 진단 자체를 위한 검사실 검사는 없으며, 병력상 감별진단이 필요한 경우에 한하여 선택적으로 시행
   * CBC/Hb(빈혈 의심), TSH(갑상선 질환 의심) 등
   * 25-OH Vit D는 결핍 위험 또는 임상적 의심이 있을 때 고려(월경전증후군 자체와의 관련성은 명확하지 않음)
@@ -167,24 +167,24 @@ graph TD
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 스트레스 관리 : 이완, 심호흡, 마사지, 음악, 따듯한 목욕
-* 규칙적인 유산소 운동(Aerobic, 요가, 필라테스 등) — Conditional recommendation, 근거 수준 낮음 \[ACOG 2023]
-* 인지행동치료(CBT) — Strong recommendation(근거 수준은 낮음\~중등도) \[ACOG 2023]; SSRI 단독과 비교해 열등하지 않다는 보고가 있어 병용 또는 대안으로 고려 가능
-* 침(acupuncture) — Conditional recommendation, 근거 수준 낮음 \[ACOG 2023]
+* 규칙적인 유산소 운동(Aerobic, 요가, 필라테스 등) - Conditional recommendation, 근거 수준 낮음 \[ACOG 2023]
+* 인지행동치료(CBT) - Strong recommendation(근거 수준은 낮음\~중등도) \[ACOG 2023]; SSRI 단독과 비교해 열등하지 않다는 보고가 있어 병용 또는 대안으로 고려 가능
+* 침(acupuncture) - Conditional recommendation, 근거 수준 낮음 \[ACOG 2023]
 * 균형 잡힌 건강 식이 : 전곡류, 과일, 채소 중심의 식단
-  * 과도한 소금·카페인·알코올 섭취 및 정제 탄수화물(설탕류) 과다 섭취를 줄이는 것을 권장 — 유제품 자체를 제한할 근거는 부족하며, 오히려 calcium 섭취 권장과 상충될 수 있어 제외함
+  * 과도한 소금·카페인·알코올 섭취 및 정제 탄수화물(설탕류) 과다 섭취를 줄이는 것을 권장 - 유제품 자체를 제한할 근거는 부족하며, 오히려 calcium 섭취 권장과 상충될 수 있어 제외함
 * 교육 자료 제공 자체도 도움이 될 수 있음(근거는 제한적이나 위해가 없음) \[ACOG 2023]
 
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">Serotonergic antidepressant</mark>
 
-* 정서 장애가 주요 증상일 때 SSRI를 1차 선택 — Strong recommendation \[ACOG 2023] (☞ p.1146)
-* 국내 PMDD 적응증은 성분이 아닌 제품·제형별로 확인이 필요함 — fluoxetine, sertraline은 국내 허가 제품이 있으며, paroxetine CR 등 일부 paroxetine 제형도 PMDD 적응증을 보유한 바 있음(제품별 최신 첨부문서 확인 필요); escitalopram·venlafaxine·desvenlafaxine 등은 임상 근거는 있으나 일반적으로 공식 적응증 외 사용에 해당함
+* 정서 장애가 주요 증상일 때 SSRI를 1차 선택 - Strong recommendation \[ACOG 2023] (☞ p.1146)
+* 국내 PMDD 적응증은 성분이 아닌 제품·제형별로 확인이 필요함 - fluoxetine, sertraline은 국내 허가 제품이 있으며, paroxetine CR 등 일부 paroxetine 제형도 PMDD 적응증을 보유한 바 있음(제품별 최신 첨부문서 확인 필요); escitalopram·venlafaxine·desvenlafaxine 등은 임상 근거는 있으나 일반적으로 공식 적응증 외 사용에 해당함
 * 용량 : 최소 유효 용량 유지
   * 이전 치료에서 효과가 있었던 용량을 이후에 적용; 이전 치료에서 반응이 적었던 경우 다음 치료에서는 증량 또는 다른 약제 선택
 * 투여 기간 : 아래 세 가지 방식 활용 가능
   * 지속 투여 또는 황체기 간헐 투여(월경 예정일 14일 전\~월경 시작 후 수일)의 근거가 가장 확립되어 있음
-  * 증상 발현 시 투여(symptom-onset dosing) : 매 주기에서 월경전 증상 시작을 비교적 명확하게 인지할 수 있는 환자에서 증상이 시작될 때부터 월경 시작 시까지 투여 — 일부 환자에서 효과적인 선택지가 될 수 있음
+  * 증상 발현 시 투여(symptom-onset dosing) : 매 주기에서 월경전 증상 시작을 비교적 명확하게 인지할 수 있는 환자에서 증상이 시작될 때부터 월경 시작 시까지 투여 - 일부 환자에서 효과적인 선택지가 될 수 있음
   * PMDD에서는 우울증 치료와 달리 SSRI 반응이 비교적 빠르게 나타나는 것이 특징이며, 이 때문에 간헐 투여 방식들이 가능함; 증상 양상·부작용·환자 선호에 따라 방식을 선택
 * 치료 효과와 내약성은 1\~2주기에 걸쳐 평가하여 용량·투여 방식 조정 또는 약제 변경 여부를 결정; 약제들 간의 효과 및 부작용에 차이가 있을 수 있음
 * 청소년·젊은 성인에서는 항우울제 전반에 적용되는 FDA Black Box Warning(자살 사고·행동 위험 증가 경고)에 따라 치료 초기 자살 사고·행동 악화 여부를 면밀히 모니터링. 새로 발생하거나 악화된 자살 사고가 있으면 즉시 안전성 평가 및 정신건강의학과 협진/의뢰하고, 약물의 지속·감량·중단 여부는 임의로 중단하지 말고 임상적으로 결정 \[ACOG 2023]
@@ -192,7 +192,7 @@ graph TD
   * 대부분 치료 초기에 나타나며 지속 투여 중 감소하는 경우가 많음
   * 대처 : 감량 또는 약물 교체
 * 아래 용량은 문헌상 대표적인 권장 범위이며, 교과서·연구에 따라 다소 차이가 있을 수 있어 참고치로 활용
-* fluoxetine 20 ㎎/d — 지속 투여 또는 황체기 투여 <mark style="color:blue;">\[푸로작]</mark>
+* fluoxetine 20 ㎎/d - 지속 투여 또는 황체기 투여 <mark style="color:blue;">\[푸로작]</mark>
 * escitalopram : 10\~20 ㎎/d <mark style="color:blue;">\[렉사프로]</mark>
 * sertraline : 50\~150 ㎎/d <mark style="color:blue;">\[졸로푸트]</mark>
 * paroxetine : 10\~20 ㎎/d <mark style="color:blue;">\[세로자트]</mark>; CR 12.5\~25 ㎎/d <mark style="color:blue;">\[팍실 CR]</mark>
@@ -210,18 +210,18 @@ graph TD
 #### <mark style="color:$primary;">경구제</mark>
 
 * 휴약 기간이 짧거나 없는 복합 호르몬 경구 피임제 선호; 일부 환자에서는 오히려 증상이 악화될 수 있음
-  * <mark style="color:blue;">\[야즈]</mark> (28T) : 24일간 연분홍색 → 4일간 흰색(위약) 복용 — drospirenone/EE 24+4 요법으로 PMDD에 대한 근거가 가장 확립된 조합
+  * <mark style="color:blue;">\[야즈]</mark> (28T) : 24일간 연분홍색 → 4일간 흰색(위약) 복용 - drospirenone/EE 24+4 요법으로 PMDD에 대한 근거가 가장 확립된 조합
   * 국내에서는 별도의 연속(extended-cycle) 전용 제품보다, 기존 COC를 위약 기간 없이 연속(back-to-back) 복용하는 방식으로 응용하는 경우가 많음
 * ✽고용량 progestin(medroxyprogesterone acetate 20\~30 ㎎ qd <mark style="color:blue;">\[프로베라]</mark>)은 배란 억제 목적으로 사용되어 왔으나, RCOG GTG48(2016)에 따르면 progestogen 단독 요법의 PMS 치료 근거는 부족하며 일부 progestogen(norethisterone, levonorgestrel 등)은 PMS 유사 증상을 유발하거나 악화시킬 수 있어 우선순위가 낮음
 
 #### <mark style="color:$primary;">비경구제</mark>
 
-* depot medroxyprogesterone acetate(DMPA) : 150 ㎎ IM 3개월마다 — 배란은 억제되나, 주기적 PMS 증상이 저강도의 만성 배경 증상으로 대체되는 경우가 흔해 1차 선택으로는 권장되지 않음 \[RCOG GTG48]
-* etonogestrel subdermal implant : 3년 마다 <mark style="color:blue;">\[임플라논 엔엑스티 이식제]</mark> — 배란 억제 효과가 일정하지 않아 PMS 목적의 1차 선택은 아님
+* depot medroxyprogesterone acetate(DMPA) : 150 ㎎ IM 3개월마다 - 배란은 억제되나, 주기적 PMS 증상이 저강도의 만성 배경 증상으로 대체되는 경우가 흔해 1차 선택으로는 권장되지 않음 \[RCOG GTG48]
+* etonogestrel subdermal implant : 3년 마다 <mark style="color:blue;">\[임플라논 엔엑스티 이식제]</mark> - 배란 억제 효과가 일정하지 않아 PMS 목적의 1차 선택은 아님
 
 ### <mark style="color:orange;">GnRH 작용제 및 경피 호르몬 요법</mark>
 
-* 대상 : SSRI 또는 경구 피임제로 조절되지 않는 심한 증상 — Conditional recommendation, 중등도 근거 수준 \[ACOG 2023]
+* 대상 : SSRI 또는 경구 피임제로 조절되지 않는 심한 증상 - Conditional recommendation, 중등도 근거 수준 \[ACOG 2023]
 * 작용 : 난소에서 일시적으로 estrogen 및 progesterone 생성을 중단시킴
 * 부작용 : 호르몬 보충(add-back) 없이 사용 시 low estrogen 증상(안면 홍조) 및 골밀도 감소 위험, 특히 장기 사용 시 두드러짐 → 장기 사용 시에는 저에스트로겐 증상과 골소실을 예방하기 위해 continuous combined estrogen-progestogen add-back 또는 tibolone 등을 사용; 주기적(sequential) progestogen 노출은 일부 환자에서 PMS 유사 증상을 재유발할 수 있어 지속 병합 요법이 선호됨 (☞ [폐경기증후군](../226_/108_-menopause-syndrome.md))
   * ✽Add-back 없이 GnRH 작용제 단독 치료는 일반적으로 6개월 이내로 제한하며, 치료 전후 골건강 및 호르몬 요법 금기 여부를 평가 \[RCOG GTG48]
@@ -231,13 +231,13 @@ graph TD
 
 ## <mark style="color:orange;">시술 및 기타 처치</mark>
 
-* 양측 난소절제술(±자궁절제술) : 다른 모든 치료에 반응하지 않는 극심한 난치성 PMDD에서 최후 수단으로 고려 — Good Practice Point(RCT 근거 없음, 배란 억제가 치료적이라는 간접 근거에 기반) \[ACOG 2023]
+* 양측 난소절제술(±자궁절제술) : 다른 모든 치료에 반응하지 않는 극심한 난치성 PMDD에서 최후 수단으로 고려 - Good Practice Point(RCT 근거 없음, 배란 억제가 치료적이라는 간접 근거에 기반) \[ACOG 2023]
   * 수술 전 GnRH 작용제 시험 투여로 배란 억제가 실제로 증상을 완화시키는지 확인 후 결정하는 것이 원칙
   * 조기 폐경에 준하는 장기적 영향(골밀도, 심혈관계 등)에 대한 상담 및 호르몬 대체 요법 계획이 필수적이므로 산부인과 전문의 의뢰
 
 ### <mark style="color:orange;">진통제</mark>
 
-* 통증에 대한 대증 치료 — NSAID는 통증뿐 아니라 정서 증상에도 도움이 된다는 보고가 있음(Conditional recommendation) \[ACOG 2023]
+* 통증에 대한 대증 치료 - NSAID는 통증뿐 아니라 정서 증상에도 도움이 된다는 보고가 있음(Conditional recommendation) \[ACOG 2023]
 * mefenamic acid : 500 ㎎ 1회 이후 250 ㎎ qid <mark style="color:blue;">\[폰탈]</mark>
 * ibuprofen : 400 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * naproxen : 275 ㎎ tid <mark style="color:blue;">\[아나프록스]</mark>
@@ -251,10 +251,10 @@ graph TD
 
 ### <mark style="color:orange;">기타</mark>
 
-* Vit B6 50\~100 ㎎/d, Ca 총 섭취량 1,000\~1,200 ㎎/d(식이+보충제 — Conditional recommendation \[ACOG 2023]) (☞ [골다공증](../228_/149_-osteoporosis.md#ca-vit-d))
+* Vit B6 50\~100 ㎎/d, Ca 총 섭취량 1,000\~1,200 ㎎/d(식이+보충제 - Conditional recommendation \[ACOG 2023]) (☞ [골다공증](../228_/149_-osteoporosis.md#ca-vit-d))
   * ✽Vit B6는 하루 100 ㎎을 넘겨 장기간 복용할 경우 말초신경병증이 발생할 수 있어 100 ㎎/d 이내로 제한하고 장기 사용을 피하는 것이 안전함
-* chasteberry(Vitex agnus-castus) 추출물 20\~40 ㎎/d : 작용 기전이 명확하지 않고, ACOG(2023)는 권고를 내리기에 앞서 추가 연구가 필요하다고 평가함 — 근거 수준이 확립된 치료는 아니며 환자가 원할 경우 보조적 선택지로 설명
-* omega-3 fatty acids : 일부 연구에서 증상 개선이 보고되었으나 근거가 제한적이어서 표준 치료로 권고하기에는 불충분 — 처방용 omega-3-acid ethyl esters(고중성지방혈증 치료제)를 PMS 목적으로 상품명까지 특정하여 처방하는 것은 적응증 외 사용에 해당하므로 주의
+* chasteberry(Vitex agnus-castus) 추출물 20\~40 ㎎/d : 작용 기전이 명확하지 않고, ACOG(2023)는 권고를 내리기에 앞서 추가 연구가 필요하다고 평가함 - 근거 수준이 확립된 치료는 아니며 환자가 원할 경우 보조적 선택지로 설명
+* omega-3 fatty acids : 일부 연구에서 증상 개선이 보고되었으나 근거가 제한적이어서 표준 치료로 권고하기에는 불충분 - 처방용 omega-3-acid ethyl esters(고중성지방혈증 치료제)를 PMS 목적으로 상품명까지 특정하여 처방하는 것은 적응증 외 사용에 해당하므로 주의
 * alprazolam 0.25 ㎎ tid\~qid ×황체기(월경 시작 후 tapering) <mark style="color:blue;">\[자낙스]</mark> : 일부 효과가 보고되었으나 의존·내성·인지기능 영향 위험 때문에 현재 치료 순위에서는 후순위이며, SSRI 등 근거가 확립된 치료가 우선
 * spironolactone 25\~100 ㎎/d ×황체기(5\~10d) <mark style="color:blue;">\[알닥톤]</mark> : 부종·복부 팽만 등 체액 저류 증상이 현저한 일부 환자에서 고려할 수 있으나 근거는 제한적
 * 입증되지 않은 방법들 : Mg(200\~400 ㎎), Vit D(2,000 IU/d), Vit E(400 IU), Mn(1.8 ㎎), St. John's wort(900 ㎎/d), soy(68 ㎎/d isoflavone), gingko(160\~320 ㎎/d), saffron(30 ㎎/d)
@@ -265,7 +265,7 @@ graph TD
 
 N94.3 월경전긴장증후군
 
-✽PMDD는 KCD-8에 별도 코드가 없어 N94.3으로 청구하는 경우가 일반적이나, 정신과적 진단 기준이 뚜렷한 경우 임상 상황에 따라 F32/F41 계열과의 코드 선택이 달라질 수 있음 — **실제 청구 기준은 기관마다 다를 수 있으므로 반드시 기관별로 확인**
+✽PMDD는 KCD-8에 별도 코드가 없어 N94.3으로 청구하는 경우가 일반적이나, 정신과적 진단 기준이 뚜렷한 경우 임상 상황에 따라 F32/F41 계열과의 코드 선택이 달라질 수 있음 - **실제 청구 기준은 기관마다 다를 수 있으므로 반드시 기관별로 확인**
 
 ***
 
@@ -312,7 +312,7 @@ N94.3 월경전긴장증후군
 > * 휴약 기간이 짧거나 없는 제형이 증상 재발을 줄이는 데 유리
 > * progestogen 단독 제제(고용량 progestin 경구, DMPA 등)는 근거가 약하고 일부 환자에서 증상을 악화시킬 수 있음을 처방 전 인지
 
-> **Vit B6, Ca, 오메가-3, chasteberry — 근거 수준을 정확히 설명하세요**
+> **Vit B6, Ca, 오메가-3, chasteberry - 근거 수준을 정확히 설명하세요**
 >
 > * Ca 총 섭취량 1,000\~1,200 ㎎/d(식이+보충제)은 근거 수준이 낮지만 권고되는 편이며, Vit B6는 100 ㎎/d를 넘기지 않도록 제한(말초신경병증 위험)
 > * chasteberry, 오메가-3는 확립된 근거가 부족한 보조적 선택지임을 환자에게 명확히 설명
@@ -320,8 +320,8 @@ N94.3 월경전긴장증후군
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * SSRI 1\~2주기에 걸친 평가 또는 1차 치료 4\~6주 후에도 증상 호전이 없는 경우
-> * 증상이 황체기에 국한되지 않고 한 달 내내 지속되는 경우 — 원발 정신 질환 감별 필요
-> * **자살 사고, 자해 생각**이 들거나 일상생활이 심하게 어려운 경우 — 즉시 내원 또는 자살예방상담전화 109(24시간) 안내
+> * 증상이 황체기에 국한되지 않고 한 달 내내 지속되는 경우 - 원발 정신 질환 감별 필요
+> * **자살 사고, 자해 생각**이 들거나 일상생활이 심하게 어려운 경우 - 즉시 내원 또는 자살예방상담전화 109(24시간) 안내
 
 ***
 
@@ -353,6 +353,6 @@ N94.3 월경전긴장증후군
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
-* **자해하거나 죽고 싶다는 생각**이 들 때 — 혼자 견디지 말고 바로 병원이나 자살예방상담전화 109(24시간)로 연락하세요.
+* **자해하거나 죽고 싶다는 생각**이 들 때 - 혼자 견디지 말고 바로 병원이나 자살예방상담전화 109(24시간)로 연락하세요.
 * 치료를 충분히 시도했는데도(약 4\~6주 이상) 증상이 나아지지 않을 때
 * 증상이 월경 전뿐 아니라 한 달 내내 계속될 때

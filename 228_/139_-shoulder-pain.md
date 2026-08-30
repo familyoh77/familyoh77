@@ -58,12 +58,12 @@
   * 급성 외상성 어깨 통증에서 골절·탈구 가능성이 있으면 X선 검사 우선
   * 급성·아급성 비외상성 어깨 통증에서 Red Flag가 없고 임상적으로 RTC tendinopathy 등이 명확하면 초기 영상 검사는 보통 필요 없음
   * 만성 또는 지속성 어깨 통증(＞6개월 또는 원인 불명확)에서는 X선 검사를 기본 초기 영상검사로 고려 \[ACR Appropriateness Criteria, Chronic Shoulder Pain 2022 Update]
-  * ✽특정 증상 기간을 영상 검사의 획일적 기준으로 삼지 않으며, 회복 속도는 환자마다 상이함 — 감염/종양 의심, 주요 외상, 진행성 위약 등 소견이 영상 검사의 실질적 기준 [JAMA Intern Med 2026]
+  * ✽특정 증상 기간을 영상 검사의 획일적 기준으로 삼지 않으며, 회복 속도는 환자마다 상이함 - 감염/종양 의심, 주요 외상, 진행성 위약 등 소견이 영상 검사의 실질적 기준 [JAMA Intern Med 2026]
   * X선 음성이지만 occult fracture가 의심되면 CT 또는 MRI 고려
   * RTC tear 의심 : 초음파 또는 MRI; labral tear/불안정증 의심 : MRI 또는 MR arthrography 선택
 * electromyography(EMG) : 신경학적 이상(경추 신경근병증 등) 의심 시
 * 감염 의심 (Red Flags 참조) : CBC, CRP/ESR ± blood culture 시행하되 혈액검사 결과만으로 감염을 배제하지 않으며, 화농성 관절염이 의심되면 관절천자 후 synovial fluid WBC/differential, Gram stain 및 배양 검사 시행
-* 실험실 검사 : RA 등 면역 질환 의심 시 시행 (☞ 관련 질환 챕터 — 파일 링크 업데이트 필요)
+* 실험실 검사 : RA 등 면역 질환 의심 시 시행 (☞ 관련 질환 챕터 - 파일 링크 업데이트 필요)
 
 ### <mark style="color:orange;">신체검사</mark>
 
@@ -113,7 +113,7 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 * RTC tear 의심 : 외상성 onset, 뚜렷한 근력 저하, 능동 ROM 감소에 비해 수동 ROM 보존 여부와 empty-can, external rotation strength, lift-off, drop-arm 등의 소견을 조합하여 판단. 단일 특수검사만으로 확진하지 않음
 * 영상 검사 : 초음파 또는 MRI가 주로 사용되며, X선 검사는 동반 골성 병변 및 다른 원인 감별에 활용
   * 상완골두 sclerosis/cyst, acromiohumeral 간격 감소, acromial spur
-  * ✽수술 전 평가에서 초음파와 MRI의 전층 파열 진단정확도는 유사하며, 초음파가 비용이 낮고 접근성이 좋으나 검사자 의존도가 높고 지방변성·관절내 구조 평가에는 제한적 — 치료 계획을 위한 상세 연조직 평가가 필요하면 MRI 선호 [JAMA Intern Med 2026]
+  * ✽수술 전 평가에서 초음파와 MRI의 전층 파열 진단정확도는 유사하며, 초음파가 비용이 낮고 접근성이 좋으나 검사자 의존도가 높고 지방변성·관절내 구조 평가에는 제한적 - 치료 계획을 위한 상세 연조직 평가가 필요하면 MRI 선호 [JAMA Intern Med 2026]
 * 참고 : ＞60세 무증상 환자의 약 50%에서 MRI상 RTC 파열이 관찰됨 (Sher JS, et al. J Bone Joint Surg Am 1995)
 * 증상이 있는 소\~중형 전층 파열은 비수술적 운동치료로도 증상·기능이 호전될 수 있으나, 장기적으로는 파열 크기·근위축·지방변성이 진행할 수 있어 수술 가능성이 있는 환자는 임상 경과 관찰 및 필요 시 영상 추적을 고려 \[AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]
 
@@ -166,7 +166,7 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 **치료**
 
 * 심한 통증에는 경구 corticosteroid 단기 요법 고려(예: prednisolone 30 ㎎/day 3주 투여 후 3일마다 5 ㎎씩 감량하여 반동 효과 예방); 필요시 재투여 가능; 관절강 내 주사보다 효과가 빠르나 지속 기간은 더 짧을 수 있음 [JAMA Intern Med 2026]
-* 적절한 비수술 치료에도 수동 운동 범위 제한이 약 18개월 이상 지속되면 전문과 의뢰 고려 — 마취 하 도수 조작(MUA)이 관절경 유리술보다 수술적 위험이 낮아 선호됨 [JAMA Intern Med 2026]
+* 적절한 비수술 치료에도 수동 운동 범위 제한이 약 18개월 이상 지속되면 전문과 의뢰 고려 - 마취 하 도수 조작(MUA)이 관절경 유리술보다 수술적 위험이 낮아 선호됨 [JAMA Intern Med 2026]
 
 #### <mark style="color:$primary;">상완견관절 골관절염 (Glenohumeral osteoarthritis)</mark>
 
@@ -306,14 +306,14 @@ _&#x52;ef. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam 
 
 ## <mark style="color:green;">약물 치료</mark>
 
-* 1차 선택 : acetaminophen or NSAID (☞ 관련 챕터 — 파일 링크 업데이트 필요)
+* 1차 선택 : acetaminophen or NSAID (☞ 관련 챕터 - 파일 링크 업데이트 필요)
 
 ### <mark style="color:orange;">항염증제, 진통제</mark>
 
 * ibuprofen : 200\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * naproxen : 250\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
 * acetaminophen : 650\~1,300 ㎎ tid (1일 최대 4,000 ㎎ 이내) <mark style="color:blue;">\[타이레놀]</mark>
-* 국소 NSAID 겔/패치 : 금기(피부 손상, 알레르기)가 없다면 합리적인 1차 선택지 중 하나로 고려 가능; 경구 NSAID와 유사한 통증 완화 효과를 전신 노출은 낮은 수준으로 제공 — 특히 고령·신기능 저하 환자에서 유용 [JAMA Intern Med 2026]
+* 국소 NSAID 겔/패치 : 금기(피부 손상, 알레르기)가 없다면 합리적인 1차 선택지 중 하나로 고려 가능; 경구 NSAID와 유사한 통증 완화 효과를 전신 노출은 낮은 수준으로 제공 - 특히 고령·신기능 저하 환자에서 유용 [JAMA Intern Med 2026]
 * tramadol : NSAID/acetaminophen 등으로 조절되지 않는 심한 급성 통증에서 예외적으로 매우 단기간 고려; 25\~100 ㎎ prn <mark style="color:blue;">\[트리돌]</mark>
   * ✽국내에서는 현재 마약류(향정신성의약품)로 지정되어 있지 않으나, 의존성·오남용 우려로 식약처 집중모니터링 대상이며 마약류 지정 여부가 지속 논의 중임(2022년 허가사항에서 "의존성이 낮으나" 문구 삭제, 경고 강화). 처방 시 최소 유효 용량·최단 기간 원칙 준수
 
@@ -323,10 +323,10 @@ _&#x52;ef. Burbank KM, et al. Chronic shoulder pain: part II. Treatment. Am Fam 
 
 * 대상 : 다른 보존적 요법에 반응이 부족할 때 단기 통증·기능 개선 목적으로 고려. RTC-related pain/tear에서는 국소 마취제를 병용한 1회 corticosteroid 주사가 단기 통증·기능 개선에 도움이 될 수 있음 \[AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]
 * subacromial-subdeltoid bursa, glenohumeral joint, AC joint 등 병변 부위에 따라 시행; 필요 시 초음파 유도
-* ✽landmark-guided 주사와 초음파 유도 주사는 효과 차이가 없음(Cochrane, 중등도 근거); 근육내 주사와 병변 부위 주사가 유사한 효과를 보인 연구도 있어 전신 효과가 상당 부분 기여할 가능성 시사 — 반드시 영상 유도가 필요한 것은 아님 [JAMA Intern Med 2026]
+* ✽landmark-guided 주사와 초음파 유도 주사는 효과 차이가 없음(Cochrane, 중등도 근거); 근육내 주사와 병변 부위 주사가 유사한 효과를 보인 연구도 있어 전신 효과가 상당 부분 기여할 가능성 시사 - 반드시 영상 유도가 필요한 것은 아님 [JAMA Intern Med 2026]
 * 질환 종류와 병변 부위에 따라 효과 차이가 있으며 장기 효과는 제한적일 수 있음
 * 반복 주사는 가급적 제한하며, 특히 rotator cuff tear가 있거나 수술을 고려하는 환자에서는 반복 corticosteroid injection이 회전근개 조직의 integrity를 저해하고 이후 봉합술 결과에 영향을 줄 수 있어 피하는 것이 바람직함 \[AAOS 2025]
-* AC joint 주사 시 주의 : AC joint는 피하 지방층이 얇은 표재성 부위이므로, 다른 관절강 내 주사보다 피부 위축(fat atrophy) 및 탈색(hypopigmentation) 위험이 상대적으로 높음 — 시술 전 환자에게 설명
+* AC joint 주사 시 주의 : AC joint는 피하 지방층이 얇은 표재성 부위이므로, 다른 관절강 내 주사보다 피부 위축(fat atrophy) 및 탈색(hypopigmentation) 위험이 상대적으로 높음 - 시술 전 환자에게 설명
 
 ### <mark style="color:orange;">기타, 수술</mark>
 
@@ -405,14 +405,14 @@ S43.4 어깨관절의 염좌 및 긴장
 > **NSAID 복용 시 주의 사항**
 >
 > * 위장 불편을 줄이기 위해 가능하면 음식과 함께 복용하도록 안내; 위장관 출혈 위험은 식사 여부와 별개로 환자 위험인자에 따라 평가
-> * 65세 이상, 소화성 궤양 병력, 항응고제/저용량 아스피린 병용 시 위장관 출혈 위험 증가 — 필요시 PPI 병용 고려
+> * 65세 이상, 소화성 궤양 병력, 항응고제/저용량 아스피린 병용 시 위장관 출혈 위험 증가 - 필요시 PPI 병용 고려
 > * 신기능 저하 환자, 이뇨제/ACE 억제제 병용 환자에서는 신독성 위험 설명
 > * 2\~4주 사용해도 호전이 없으면 재평가가 필요함을 안내
 
 > **Tramadol 처방 시 주의 사항**
 >
-> * 졸림, 어지럼 유발 가능 — 복용 초기 운전·기계 조작 주의
-> * SSRI, SNRI, TCA, triptan 등과 병용 시 세로토닌 증후군 위험 — 병용 약물 확인 필요
+> * 졸림, 어지럼 유발 가능 - 복용 초기 운전·기계 조작 주의
+> * SSRI, SNRI, TCA, triptan 등과 병용 시 세로토닌 증후군 위험 - 병용 약물 확인 필요
 > * 필요 최소 용량으로 가능한 짧게 사용; 의존·오남용 가능성이 있어 수일 이상 지속적으로 필요한 경우 원인 재평가 및 치료 방침 재검토
 
 > **관절강 내 steroid 주사 관련 안내**
@@ -425,10 +425,10 @@ S43.4 어깨관절의 염좌 및 긴장
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 4\~6주간의 보존적 치료(약물, 활동 조절, 물리 치료)에도 통증이 호전되지 않는 경우
-> * 발열, 어깨 주위의 급격한 발적·부종이 동반되는 경우 — 즉시 내원
-> * 외상 후 심한 변형, 팔의 감각 저하나 힘이 빠지는 증상이 동반되는 경우 — 즉시 내원
-> * 가슴 통증, 식은땀, 호흡곤란과 함께 어깨 통증이 발생하는 경우 — 즉시 응급실 방문
-> * 약물 복용 후 흑색변·혈변, 심한 위통, 피부 발진·두드러기·호흡곤란 등 알레르기 반응이 나타나는 경우 — 즉시 복용 중단 후 내원
+> * 발열, 어깨 주위의 급격한 발적·부종이 동반되는 경우 - 즉시 내원
+> * 외상 후 심한 변형, 팔의 감각 저하나 힘이 빠지는 증상이 동반되는 경우 - 즉시 내원
+> * 가슴 통증, 식은땀, 호흡곤란과 함께 어깨 통증이 발생하는 경우 - 즉시 응급실 방문
+> * 약물 복용 후 흑색변·혈변, 심한 위통, 피부 발진·두드러기·호흡곤란 등 알레르기 반응이 나타나는 경우 - 즉시 복용 중단 후 내원
 
 ***
 
@@ -462,5 +462,5 @@ S43.4 어깨관절의 염좌 및 긴장
 
 * 열이 나면서 어깨가 갑자기 붉게 붓고 뜨거워지는 경우
 * 넘어지거나 부딪힌 후 어깨 모양이 심하게 변형되거나, 팔에 힘이 빠지고 감각이 둔해지는 경우
-* 가슴 통증, 식은땀, 숨찬 증상과 함께 어깨 통증이 발생하는 경우 — 즉시 119 또는 응급실
+* 가슴 통증, 식은땀, 숨찬 증상과 함께 어깨 통증이 발생하는 경우 - 즉시 119 또는 응급실
 * 4\~6주 이상 치료해도 통증이 나아지지 않는 경우

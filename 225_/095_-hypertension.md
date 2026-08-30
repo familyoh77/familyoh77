@@ -201,7 +201,7 @@
 
 #### <mark style="color:$primary;">이차성 고혈압의 주요 원인과 진단 접근법</mark>
 
-<table><thead><tr><th width="124">원인</th><th width="203">과거력</th><th width="123">신체 진찰</th><th>진단 검사</th></tr></thead><tbody><tr><td><strong>콩팥 실질병</strong></td><td>요로감염 또는 폐색 병력, 진통제 남용, 다낭콩팥병 가족력</td><td>복부 중앙 (다낭콩팥병)</td><td>•콩팥 초음파, 콩팥병에 대한 세부 검사<br>•소변 내 단백질·적혈구·백혈구 양성, eGFR 감소</td></tr><tr><td><strong>콩팥 동맥 협착</strong></td><td>섬유근육 형성이상·고혈압 조기 발현(여성), 죽상동맥경화증·갑자기 발현, 악화 및 치료 저항성·반복적 폐부종</td><td>복부 잡음</td><td>•양측 콩팥 크기 차이 ＞1.5 cm; Duplex 도플러 콩팥 초음파, CT, MR Angiography, 동맥 내 혈관 조영<br>•ACEI/ARB 투여 후 eGFR 급감</td></tr><tr><td><strong>원발성 알도스테론증</strong></td><td>근력 저하, 고혈압 조기 발병 ≤40세</td><td>—</td><td>•ARR 측정 (상승); 확진 검사: 부신 CT, 부신 정맥 혈액 채취<br>•저칼륨혈증</td></tr><tr><td><strong>갈색세포종</strong></td><td>발작 또는 지속적인 고혈압에 동반되는 두통, 발한, 심계항진; 가족력</td><td>신경섬유종증 징후 (café-au-lait 반점)</td><td>•24시간 소변 내 메타네프린 및 노르메타네프린 (상승); 복부·골반 CT 또는 MRI (부신 종양)</td></tr><tr><td><strong>쿠싱증후군</strong></td><td>빠른 체중 증가, 다모, 다낭성 난소 병력</td><td>중심성 비만, 달 얼굴, 복부 선홍색 선조, 근력 저하</td><td>•24시간 소변 내 유리 코티솔 (상승); 덱사메타손 억제 검사 (비억제); 심야 타액 코티솔 (상승)<br>•고혈당</td></tr></tbody></table>
+<table><thead><tr><th width="124">원인</th><th width="203">과거력</th><th width="123">신체 진찰</th><th>진단 검사</th></tr></thead><tbody><tr><td><strong>콩팥 실질병</strong></td><td>요로감염 또는 폐색 병력, 진통제 남용, 다낭콩팥병 가족력</td><td>복부 중앙 (다낭콩팥병)</td><td>•콩팥 초음파, 콩팥병에 대한 세부 검사<br>•소변 내 단백질·적혈구·백혈구 양성, eGFR 감소</td></tr><tr><td><strong>콩팥 동맥 협착</strong></td><td>섬유근육 형성이상·고혈압 조기 발현(여성), 죽상동맥경화증·갑자기 발현, 악화 및 치료 저항성·반복적 폐부종</td><td>복부 잡음</td><td>•양측 콩팥 크기 차이 ＞1.5 cm; Duplex 도플러 콩팥 초음파, CT, MR Angiography, 동맥 내 혈관 조영<br>•ACEI/ARB 투여 후 eGFR 급감</td></tr><tr><td><strong>원발성 알도스테론증</strong></td><td>근력 저하, 고혈압 조기 발병 ≤40세</td><td>-</td><td>•ARR 측정 (상승); 확진 검사: 부신 CT, 부신 정맥 혈액 채취<br>•저칼륨혈증</td></tr><tr><td><strong>갈색세포종</strong></td><td>발작 또는 지속적인 고혈압에 동반되는 두통, 발한, 심계항진; 가족력</td><td>신경섬유종증 징후 (café-au-lait 반점)</td><td>•24시간 소변 내 메타네프린 및 노르메타네프린 (상승); 복부·골반 CT 또는 MRI (부신 종양)</td></tr><tr><td><strong>쿠싱증후군</strong></td><td>빠른 체중 증가, 다모, 다낭성 난소 병력</td><td>중심성 비만, 달 얼굴, 복부 선홍색 선조, 근력 저하</td><td>•24시간 소변 내 유리 코티솔 (상승); 덱사메타손 억제 검사 (비억제); 심야 타액 코티솔 (상승)<br>•고혈당</td></tr></tbody></table>
 
 _ARR=aldosterone-to-renin ratio_
 
@@ -446,7 +446,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 **대한고혈압학회** (2026)
 
-<table><thead><tr><th width="317.952392578125">대상</th><th width="116.666748046875">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>저위험군 및 중위험군 고혈압, 노인 고혈압</td><td>&#x3C;140/90</td><td>—</td></tr><tr><td>임신</td><td>&#x3C;140/90</td><td>nifedipine ER, amlodipine (1차); labetalol (주사제); methyldopa·hydralazine</td></tr><tr><td>고위험군 고혈압¹⁾, 당뇨병, 심혈관질환(관상동맥질환·말초혈관질환·복부대동맥류·심부전), 만성콩팥병, 뇌졸중</td><td>&#x3C;130/80²⁾</td><td>알부민뇨 동반 CKD/DM 시 ACEI/ARB; 만성콩팥병에 SGLT2 억제제</td></tr></tbody></table>
+<table><thead><tr><th width="317.952392578125">대상</th><th width="116.666748046875">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>저위험군 및 중위험군 고혈압, 노인 고혈압</td><td>&#x3C;140/90</td><td>-</td></tr><tr><td>임신</td><td>&#x3C;140/90</td><td>nifedipine ER, amlodipine (1차); labetalol (주사제); methyldopa·hydralazine</td></tr><tr><td>고위험군 고혈압¹⁾, 당뇨병, 심혈관질환(관상동맥질환·말초혈관질환·복부대동맥류·심부전), 만성콩팥병, 뇌졸중</td><td>&#x3C;130/80²⁾</td><td>알부민뇨 동반 CKD/DM 시 ACEI/ARB; 만성콩팥병에 SGLT2 억제제</td></tr></tbody></table>
 
 　_¹⁾ 고위험군: 무증상 장기 손상 또는 심뇌혈관질환 위험 인자 3개 이상 동반_\
 　_²⁾ 만성콩팥병에서 표준화된 측정법(AOBP)으로 혈압 측정 시 SBP ＜120_ ㎜_Hg 조절 고려 가능. 뇌졸중 중 두개내혈관협착 동반 뇌경색은 ＜140/90_ ㎜_Hg 권고_
@@ -460,14 +460,14 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 **ACC/AHA** (2025)
 
-<table><thead><tr><th width="338.90478515625">대상</th><th width="120">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General ≥65세</td><td>&#x3C;130</td><td>—</td></tr><tr><td>CVD(또는 10년 위험도¹⁾ ≥10%), 당뇨, CKD</td><td>&#x3C;130/80</td><td>thiazide diuretics, CCB, ACEI/ARB</td></tr><tr><td>Heart failure</td><td>&#x3C;130</td><td>diuretics</td></tr><tr><td>CKD</td><td>&#x3C;130/80</td><td>ACEI (알부민뇨 동반 시)</td></tr><tr><td>2차 stroke/TIA 예방</td><td>&#x3C;130/80²⁾</td><td>thiazide + (ACEI/ARB)</td></tr></tbody></table>
+<table><thead><tr><th width="338.90478515625">대상</th><th width="120">목표 혈압</th><th>1차 선택제</th></tr></thead><tbody><tr><td>General ≥65세</td><td>&#x3C;130</td><td>-</td></tr><tr><td>CVD(또는 10년 위험도¹⁾ ≥10%), 당뇨, CKD</td><td>&#x3C;130/80</td><td>thiazide diuretics, CCB, ACEI/ARB</td></tr><tr><td>Heart failure</td><td>&#x3C;130</td><td>diuretics</td></tr><tr><td>CKD</td><td>&#x3C;130/80</td><td>ACEI (알부민뇨 동반 시)</td></tr><tr><td>2차 stroke/TIA 예방</td><td>&#x3C;130/80²⁾</td><td>thiazide + (ACEI/ARB)</td></tr></tbody></table>
 
 　_¹⁾ PREVENT 위험도 계산기 사용 권고 (기존 ASCVD 계산기 대체)_\
 　_²⁾ 이전에 고혈압이 없었던 경우 ＜140/90에서는 약물 치료 권고 안 함_
 
 **ADA** (2024/2025)
 
-<table><thead><tr><th width="277.19049072265625">대상</th><th width="127.6190185546875">목표 혈압</th><th width="335.5557861328125">1차 선택제</th></tr></thead><tbody><tr><td>ASCVD(+) 또는 10년 위험도 ≥15%</td><td>&#x3C;130/80</td><td>알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB</td></tr><tr><td>고혈압이 있는 건강한 당뇨 환자</td><td>&#x3C;130/80</td><td>—</td></tr><tr><td>임신부</td><td>&#x3C;110~135/85</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="277.19049072265625">대상</th><th width="127.6190185546875">목표 혈압</th><th width="335.5557861328125">1차 선택제</th></tr></thead><tbody><tr><td>ASCVD(+) 또는 10년 위험도 ≥15%</td><td>&#x3C;130/80</td><td>알부민뇨 or 관상동맥질환이 있는 경우: ACEI/ARB</td></tr><tr><td>고혈압이 있는 건강한 당뇨 환자</td><td>&#x3C;130/80</td><td>-</td></tr><tr><td>임신부</td><td>&#x3C;110~135/85</td><td>-</td></tr></tbody></table>
 
 ***
 
@@ -671,7 +671,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 대상 : thiazide 사용 시 저칼륨혈증을 예방하기 위해 병용
 * 주의/금기 : GFR ＜45, 고칼륨혈증
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amiloride</td><td><mark style="color:blue;">[아미로]</mark></td><td>2.5~10 [1~2]</td></tr><tr><td>triamterene</td><td>—</td><td>25~100 [1~2]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amiloride</td><td><mark style="color:blue;">[아미로]</mark></td><td>2.5~10 [1~2]</td></tr><tr><td>triamterene</td><td>-</td><td>25~100 [1~2]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Loop diuretics</mark>
 
@@ -679,7 +679,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 혈압 강하를 위한 단독 선택은 안 함
 * furosemide : 작용 시간이 짧고 전해질/체액 고갈을 초래할 수 있음
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>bumetanide</td><td>—</td><td>0.5~4 [2~3]</td></tr><tr><td>furosemide</td><td><mark style="color:blue;">[라식스]</mark></td><td>40~80 [2~3]</td></tr><tr><td>torsemide</td><td><mark style="color:blue;">[토르세미드]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>bumetanide</td><td>-</td><td>0.5~4 [2~3]</td></tr><tr><td>furosemide</td><td><mark style="color:blue;">[라식스]</mark></td><td>40~80 [2~3]</td></tr><tr><td>torsemide</td><td><mark style="color:blue;">[토르세미드]</mark></td><td>2.5~5 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Mineralocorticoid receptor antagonist (MRA, Aldosterone antagonist)</mark>
 
@@ -688,7 +688,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 부작용 : K↑, 남성에서 여성형 유방, 발기 부전; 여성에서 월경불순
 * 주의/금기 : 신부전, 고칼륨혈증
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[알닥톤]</mark></td><td>25~50 [1~2]</td></tr><tr><td>eplerenone</td><td>—</td><td>25~100 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>spironolactone</td><td><mark style="color:blue;">[알닥톤]</mark></td><td>25~50 [1~2]</td></tr><tr><td>eplerenone</td><td>-</td><td>25~100 [1]</td></tr></tbody></table>
 
 {% hint style="info" %}
 **Baxdrostat (Baxfendy)** - 최초의 aldosterone synthase inhibitor (ASI). MRA가 수용체에서 알도스테론을 차단하는 것과 달리, 부신에서 알도스테론 합성 자체를 억제함; Spironolactone을 포함한 4제 요법에도 조절되지 않는 저항성 또는 불응성 고혈압에서 추가 투여 고려; 국내 미출시
@@ -726,7 +726,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 대상 : 당뇨병성 신장병증; 1차 선택제는 아니며 타 약제와 병합 사용
 * 임신 금기
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>aliskiren</td><td>—</td><td>150~300 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>aliskiren</td><td>-</td><td>150~300 [1]</td></tr></tbody></table>
 
 ### <mark style="color:orange;">칼슘차단제 (Calcium channel blocker, CCB)</mark>
 
@@ -1072,7 +1072,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 임신 중 사용 가능한 항고혈압제 순서 및 국내 이용 가능성이 변경됨. 니페디핀 서방형과 암로디핀이 1차 선택제로 공식 추가됨 \[2026 대한고혈압학회]
 {% endhint %}
 
-<table><thead><tr><th width="155">약제</th><th width="100">국내 이용성</th><th width="100.142822265625">수유 안전성</th><th>주요 사항</th></tr></thead><tbody><tr><td><strong>nifedipine ER</strong><br><mark style="color:blue;">[아달라트 오로스]</mark></td><td>매우 원활</td><td><p>L2</p><p>Safe</p></td><td>임부금기 2등급(사유 입력 필요); 동물 기형 보고 있으나 임상에서 1차 치료제로 널리 사용; 모유 이행 극미량</td></tr><tr><td><strong>amlodipine</strong><br><mark style="color:blue;">[노바스크]</mark></td><td>매우 원활</td><td><p>L3</p><p>Caution</p></td><td>임부금기 2등급; 니페디핀 부작용 시 효과적 대안; 최근 임신 중 안전성 자료 축적; 반감기가 길지만 부작용 보고 드뭄</td></tr><tr><td><strong>labetalol</strong><br><mark style="color:blue;">[라베신 주]</mark></td><td>제한적</td><td><p>L2</p><p>Safe</p></td><td>α/β 차단제; 임신성 고혈압 1차 권고 약제; 경구 제형은 국내 시판 안됨 → 한국희귀·필수의약품센터(KOEDC) 신청 필요</td></tr><tr><td><strong>methyldopa</strong></td><td>제한적</td><td>—</td><td>중추성 α2 작용제; 국내 상업적 유통 중단; 긴급도입 의약품으로 KOEDC 신청 시 1~2주 내 도입 가능</td></tr><tr><td><strong>hydralazine</strong></td><td>제한적</td><td>—</td><td>혈관확장제; 경구제 2024년 국내 공급 중단·허가 자진 취하; 주사제도 KOEDC 수입 필요; 응급 시 사용</td></tr></tbody></table>
+<table><thead><tr><th width="155">약제</th><th width="100">국내 이용성</th><th width="100.142822265625">수유 안전성</th><th>주요 사항</th></tr></thead><tbody><tr><td><strong>nifedipine ER</strong><br><mark style="color:blue;">[아달라트 오로스]</mark></td><td>매우 원활</td><td><p>L2</p><p>Safe</p></td><td>임부금기 2등급(사유 입력 필요); 동물 기형 보고 있으나 임상에서 1차 치료제로 널리 사용; 모유 이행 극미량</td></tr><tr><td><strong>amlodipine</strong><br><mark style="color:blue;">[노바스크]</mark></td><td>매우 원활</td><td><p>L3</p><p>Caution</p></td><td>임부금기 2등급; 니페디핀 부작용 시 효과적 대안; 최근 임신 중 안전성 자료 축적; 반감기가 길지만 부작용 보고 드뭄</td></tr><tr><td><strong>labetalol</strong><br><mark style="color:blue;">[라베신 주]</mark></td><td>제한적</td><td><p>L2</p><p>Safe</p></td><td>α/β 차단제; 임신성 고혈압 1차 권고 약제; 경구 제형은 국내 시판 안됨 → 한국희귀·필수의약품센터(KOEDC) 신청 필요</td></tr><tr><td><strong>methyldopa</strong></td><td>제한적</td><td>-</td><td>중추성 α2 작용제; 국내 상업적 유통 중단; 긴급도입 의약품으로 KOEDC 신청 시 1~2주 내 도입 가능</td></tr><tr><td><strong>hydralazine</strong></td><td>제한적</td><td>-</td><td>혈관확장제; 경구제 2024년 국내 공급 중단·허가 자진 취하; 주사제도 KOEDC 수입 필요; 응급 시 사용</td></tr></tbody></table>
 
 <mark style="color:cyan;">**금기**</mark>
 
@@ -1104,8 +1104,8 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 #### <mark style="color:$primary;">수술 후(Postoperative) 고혈압</mark>
 
 * 술후 고혈압은 흔함(입원 환자의 최대 72%까지 보고); 통증·불안·저체온·저산소증·수분 과다·항고혈압제 중단 등이 다인성으로 작용
-* 무증상 술후 고혈압에 대한 as-needed(PRN) 정맥/경구 항고혈압제 투여는 권장되지 않음 — 급성 신손상 위험 증가(VA 코호트, HR 1.23) 및 재원 기간 연장과 관련
-* 자동 혈압계 단회 측정은 SBP ±14\~33 ㎜Hg의 오차가 있을 수 있음 — 통증·방광팽만·체위 등 교란 요인 확인 없이 수치만으로 치료 결정을 내리지 않음
+* 무증상 술후 고혈압에 대한 as-needed(PRN) 정맥/경구 항고혈압제 투여는 권장되지 않음 - 급성 신손상 위험 증가(VA 코호트, HR 1.23) 및 재원 기간 연장과 관련
+* 자동 혈압계 단회 측정은 SBP ±14\~33 ㎜Hg의 오차가 있을 수 있음 - 통증·방광팽만·체위 등 교란 요인 확인 없이 수치만으로 치료 결정을 내리지 않음
 * 새로운 표적 장기 손상의 증거(뇌증, 급성 신손상, 심근허혈, 대동맥박리 등) 없으면 치료 적응증이 아니며, 증상 발생 시에만 평가·치료
 * ACEI/ARB 등 기존 항고혈압제는 임상적으로 가능한 한 조기에 재개 (재개 지연이 30일 사망률 증가와 연관된 관찰 연구 있음)
 * hydralazine은 반응 예측이 어렵고 작용 지속이 길어 급성 치료의 1차 약제로 권장되지 않음 \[2025 ACC/AHA]
@@ -1297,7 +1297,7 @@ _CAD = coronary artery disease_\
 
 <mark style="color:cyan;">**임상 양상별 정맥내 강압제 선택**</mark>
 
-<table><thead><tr><th>임상 양상</th><th width="187.619140625">Timeline/Target</th><th width="198.3809814453125">1차 선택제</th><th width="149.317626953125">대체제</th></tr></thead><tbody><tr><td>악성 고혈압 TMA or ARF</td><td>수 시간 / MAP −20~25%</td><td>labetalol, nicardipine</td><td>NP, urapidil</td></tr><tr><td>고혈압성 뇌증</td><td>즉시 / MAP −20~25%</td><td>labetalol, nicardipine</td><td>NP</td></tr><tr><td>급성 뇌경색 ≥220/120</td><td>1h / MAP −15%</td><td>labetalol, nicardipine</td><td>NP</td></tr><tr><td>급성 뇌출혈(혈전용해 적응) ≥185/110</td><td>1h / MAP −15%</td><td>labetalol, nicardipine</td><td>NP</td></tr><tr><td>급성 뇌출혈 &#x26; SBP ≥180</td><td>즉시 / 130&#x3C;SBP&#x3C;180</td><td>labetalol, nicardipine</td><td>urapidil</td></tr><tr><td>급성 관상동맥증후군</td><td>즉시 / SBP&#x3C;140</td><td>NTG, labetalol</td><td>urapidil</td></tr><tr><td>급성 심인성 폐부종</td><td>즉시 / SBP&#x3C;140</td><td>NP or NTG (+loop diuretic)</td><td>urapidil (+loop diuretic)</td></tr><tr><td>급성 대동맥 질환</td><td>즉시 / SBP&#x3C;120 &#x26; HR&#x3C;60</td><td>esmolol &#x26; NP/NTG/nicardipine</td><td>labetalol or metoprolol</td></tr><tr><td>Eclampsia &#x26; 중증 pre-eclampsia/HELLP</td><td>즉시 / &#x3C;160/105</td><td>labetalol or nicardipine &#x26; Mg sulphate</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th>임상 양상</th><th width="187.619140625">Timeline/Target</th><th width="198.3809814453125">1차 선택제</th><th width="149.317626953125">대체제</th></tr></thead><tbody><tr><td>악성 고혈압 TMA or ARF</td><td>수 시간 / MAP −20~25%</td><td>labetalol, nicardipine</td><td>NP, urapidil</td></tr><tr><td>고혈압성 뇌증</td><td>즉시 / MAP −20~25%</td><td>labetalol, nicardipine</td><td>NP</td></tr><tr><td>급성 뇌경색 ≥220/120</td><td>1h / MAP −15%</td><td>labetalol, nicardipine</td><td>NP</td></tr><tr><td>급성 뇌출혈(혈전용해 적응) ≥185/110</td><td>1h / MAP −15%</td><td>labetalol, nicardipine</td><td>NP</td></tr><tr><td>급성 뇌출혈 &#x26; SBP ≥180</td><td>즉시 / 130&#x3C;SBP&#x3C;180</td><td>labetalol, nicardipine</td><td>urapidil</td></tr><tr><td>급성 관상동맥증후군</td><td>즉시 / SBP&#x3C;140</td><td>NTG, labetalol</td><td>urapidil</td></tr><tr><td>급성 심인성 폐부종</td><td>즉시 / SBP&#x3C;140</td><td>NP or NTG (+loop diuretic)</td><td>urapidil (+loop diuretic)</td></tr><tr><td>급성 대동맥 질환</td><td>즉시 / SBP&#x3C;120 &#x26; HR&#x3C;60</td><td>esmolol &#x26; NP/NTG/nicardipine</td><td>labetalol or metoprolol</td></tr><tr><td>Eclampsia &#x26; 중증 pre-eclampsia/HELLP</td><td>즉시 / &#x3C;160/105</td><td>labetalol or nicardipine &#x26; Mg sulphate</td><td>-</td></tr></tbody></table>
 
 _TMA=thrombotic micro-angiopathy, ARF=acute renal failure, MAP=mean arterial pressure, NP=nitroprusside, NTG=Nitroglycerin_
 
@@ -1471,7 +1471,7 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 > telmisartan 40 mg  1T  qd (아침)
 > ```
 >
-> _✽2026년 대한고혈압학회 기준 — 당뇨병 동반 고혈압은 조건 없이 모두 목표 혈압 ＜130/80 mmHg. 알부민뇨 동반 시 ARB 또는 ACEI 1차 선택. 4주 후 eGFR, K 재확인. 목표 달성 실패 시 amlodipine 추가._
+> _✽2026년 대한고혈압학회 기준 - 당뇨병 동반 고혈압은 조건 없이 모두 목표 혈압 ＜130/80 mmHg. 알부민뇨 동반 시 ARB 또는 ACEI 1차 선택. 4주 후 eGFR, K 재확인. 목표 달성 실패 시 amlodipine 추가._
 
 > **처방례 3. 2기 고혈압, 2제 병용요법 (CCB + ARB)**
 >
@@ -1532,7 +1532,7 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 
 **혈압 목표는?**
 
-대부분의 경우 140/90 ㎜Hg 미만이 목표입니다. 당뇨병이나 심장·신장 질환이 있으면 130/80 ㎜Hg 미만을 목표로 합니다 (2026년 대한고혈압학회 기준 — 당뇨병은 조건 없이 모두 130/80 미만). 혈압약을 복용해도 가정 혈압이 135/85 ㎜Hg 이상이면 의사에게 알리세요.
+대부분의 경우 140/90 ㎜Hg 미만이 목표입니다. 당뇨병이나 심장·신장 질환이 있으면 130/80 ㎜Hg 미만을 목표로 합니다 (2026년 대한고혈압학회 기준 - 당뇨병은 조건 없이 모두 130/80 미만). 혈압약을 복용해도 가정 혈압이 135/85 ㎜Hg 이상이면 의사에게 알리세요.
 
 **가정 혈압 측정 방법**
 

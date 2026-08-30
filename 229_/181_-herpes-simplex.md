@@ -195,14 +195,14 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-### <mark style="color:orange;">구강·안면 감염 — 대증 치료</mark>
+### <mark style="color:orange;">구강·안면 감염 - 대증 치료</mark>
 
 * 충분한 수분 섭취, 부드럽고 자극이 적은 음식, 입술 보호제
 * 소아에서는 통증으로 인한 섭취량·소변량을 확인하고 탈수 위험을 재평가
 * 세균성 2차 감염이 임상적으로 확인된 경우에만 국소 또는 전신 항생제 고려
 * 구순포진 재발이 자외선으로 반복 유발되는 경우 입술과 입술 주변에 자외선차단제 사용 고려
 
-### <mark style="color:orange;">생식기 감염 — 대증 치료</mark>
+### <mark style="color:orange;">생식기 감염 - 대증 치료</mark>
 
 * 생리식염수 좌욕 또는 세척, petroleum jelly, 경구 진통제
 * 심한 배뇨통은 물 또는 생리식염수에 외음부를 담근 상태에서 배뇨하면 완화될 수 있음
@@ -227,14 +227,14 @@ flowchart TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">구강·안면 감염 — 국소 항바이러스제 (재발성 구순포진)</mark>
+### <mark style="color:orange;">구강·안면 감염 - 국소 항바이러스제 (재발성 구순포진)</mark>
 
 * 임상적 이득은 제한적이며 전구기 또는 병변 초기부터 사용해야 함
 * acyclovir 5% cream : 5회/d ×5\~10일 <mark style="color:blue;">\[바이버]</mark>
 * penciclovir 1% cream : 16세 이상, 깨어 있는 동안 q2h ×4일 <mark style="color:blue;">\[펜시비어]</mark>
 * docosanol 10% cream : 성인 및 12세 이상에서 5회/d(미국 일반의약품 허가 기준, 국내 제품 미확인)
 
-### <mark style="color:orange;">구강·안면 감염 — 경구 항바이러스제</mark>
+### <mark style="color:orange;">구강·안면 감염 - 경구 항바이러스제</mark>
 
 <table><thead><tr><th width="200">임상 상황</th><th width="230">예시 요법</th><th>비고</th></tr></thead><tbody><tr><td>중증 원발성 치은구내염</td><td>acyclovir 400 ㎎ tid 또는 200 ㎎ 5회/d ×7\~10일</td><td>가급적 증상 초기에 고려. 소아는 연령·체중별 용량과 탈수 여부 평가</td></tr><tr><td rowspan="3">재발성 구순포진 episodic therapy</td><td>valacyclovir 2 g bid ×1일</td><td rowspan="3">전구기 또는 최초 증상부터 즉시 시작</td></tr><tr><td>famciclovir 1,500 ㎎ 1회</td></tr><tr><td>acyclovir 400 ㎎ 5회/d ×5일</td></tr><tr><td>빈번하거나 중증인 재발의 억제치료</td><td>acyclovir 400 ㎎ bid 또는 valacyclovir 500 ㎎\~1 g qd</td><td>근거·허가 범위와 환자 선호를 확인하고 주기적으로 필요성 재평가</td></tr></tbody></table>
 
@@ -242,7 +242,7 @@ flowchart TD
 valacyclovir 2 g bid ×1일과 famciclovir 1,500 ㎎ 1회 요법은 **재발성 구순포진**의 episodic therapy이며, 원발성 헤르페스 치은구내염 용법이 아니다.
 {% endhint %}
 
-### <mark style="color:orange;">생식기 헤르페스 — 첫 임상 발현 (모든 환자 치료)</mark>
+### <mark style="color:orange;">생식기 헤르페스 - 첫 임상 발현 (모든 환자 치료)</mark>
 
 * 검사 결과를 기다리지 않고 임상적으로 의심되는 즉시 치료
 * 발병 5일 이내에 내원했거나 계속 새 병변이 생기면 특히 적극적으로 치료
@@ -250,13 +250,13 @@ valacyclovir 2 g bid ×1일과 famciclovir 1,500 ㎎ 1회 요법은 **재발성 
 
 <table><thead><tr><th width="170">성분명 [상품명]</th><th>CDC 2021 권장 요법</th></tr></thead><tbody><tr><td>acyclovir <mark style="color:blue;">\[메노바]</mark></td><td>400 ㎎ tid ×7\~10일 또는 200 ㎎ 5회/d ×7\~10일</td></tr><tr><td>famciclovir <mark style="color:blue;">\[팜비어]</mark></td><td>250 ㎎ tid ×7\~10일</td></tr><tr><td>valaciclovir <mark style="color:blue;">\[발트렉스]</mark></td><td>1 g bid ×7\~10일</td></tr></tbody></table>
 
-### <mark style="color:orange;">생식기 헤르페스 — 재발성 HSV-2 episodic therapy</mark>
+### <mark style="color:orange;">생식기 헤르페스 - 재발성 HSV-2 episodic therapy</mark>
 
 * 전구기 또는 병변 발생 24시간 이내 환자가 즉시 시작할 수 있도록 미리 처방하거나 약을 준비하도록 교육
 
 <table><thead><tr><th width="170">성분명 [상품명]</th><th>CDC 2021 권장 요법</th></tr></thead><tbody><tr><td>acyclovir <mark style="color:blue;">\[메노바]</mark></td><td>800 ㎎ bid ×5일 또는 800 ㎎ tid ×2일</td></tr><tr><td rowspan="3">famciclovir <mark style="color:blue;">\[팜비어]</mark></td><td>1 g bid ×1일</td></tr><tr><td>500 ㎎ 1회 → 250 ㎎ bid ×2일</td></tr><tr><td>125 ㎎ bid ×5일</td></tr><tr><td rowspan="2">valaciclovir <mark style="color:blue;">\[발트렉스]</mark></td><td>500 ㎎ bid ×3일</td></tr><tr><td>1 g qd ×5일</td></tr></tbody></table>
 
-### <mark style="color:orange;">생식기 헤르페스 — 재발 억제치료</mark>
+### <mark style="color:orange;">생식기 헤르페스 - 재발 억제치료</mark>
 
 * 재발 빈도·중증도, 삶의 질, 성생활, 전파 불안과 환자 선호를 바탕으로 공동 결정
 * 빈번한 재발에서 재발 횟수를 약 70\~80% 감소시킴
@@ -334,7 +334,7 @@ A60.9 상세불명의 항문생식기 헤르페스바이러스 감염
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 재발성 구순포진 — 전구기 또는 최초 증상 시**
+> **처방례 1. 재발성 구순포진 - 전구기 또는 최초 증상 시**
 >
 > ```
 > 발트렉스정 500 ㎎ 8T #2 ×1일
@@ -401,10 +401,10 @@ A60.9 상세불명의 항문생식기 헤르페스바이러스 감염
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 적절한 용량으로 치료했는데도 치료 완료 후 병변이 치유되지 않거나 진행하는 경우 — 순응도·신기능별 용량·대체 진단을 재평가하고, 특히 면역저하자에서는 내성을 고려
-> * 안구통·눈부심·시력저하가 새로 생긴 경우 — 즉시 안과 진료
-> * 심한 두통, 의식 변화, 경부강직이 동반되는 경우 — 즉시 응급 평가
-> * 임신 중 새로운 생식기 병변이 발생한 경우 — 즉시 산과 협진
+> * 적절한 용량으로 치료했는데도 치료 완료 후 병변이 치유되지 않거나 진행하는 경우 - 순응도·신기능별 용량·대체 진단을 재평가하고, 특히 면역저하자에서는 내성을 고려
+> * 안구통·눈부심·시력저하가 새로 생긴 경우 - 즉시 안과 진료
+> * 심한 두통, 의식 변화, 경부강직이 동반되는 경우 - 즉시 응급 평가
+> * 임신 중 새로운 생식기 병변이 발생한 경우 - 즉시 산과 협진
 
 ***
 

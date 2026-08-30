@@ -94,7 +94,7 @@ _JDM=juvenile dermatomyositis; JIA=juvenile idiopathic arthritis; PFAPA=periodic
 {% hint style="info" %}
 **일차진료에서 흔한 함정**
 
-* 자가항체 panel을 증상 없이 일괄 screening하지 않는다 — ANA, RF 등은 건강인·감염·다른 질환에서도 양성일 수 있으므로(예: ANA 양성만으로 SLE를 진단하지 않음) 임상 phenotype에 맞추어 선택하고 결과를 해석한다
+* 자가항체 panel을 증상 없이 일괄 screening하지 않는다 - ANA, RF 등은 건강인·감염·다른 질환에서도 양성일 수 있으므로(예: ANA 양성만으로 SLE를 진단하지 않음) 임상 phenotype에 맞추어 선택하고 결과를 해석한다
 * 정상 ESR/CRP가 류마티스 질환을 배제하지 않는다
 * Classification criteria(분류기준)는 연구·분류 목적으로 검증된 것으로 개별 환자의 진단기준과 동일하지 않다 (예: 2023 ACR/EULAR APS classification criteria, 2022 ACR/EULAR GCA classification criteria)
 * 객관적인 활막염이 확인되면 6주가 될 때까지 기다리지 말고 조기 의뢰한다

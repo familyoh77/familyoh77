@@ -4,7 +4,7 @@
 
 위장관 증상을 체계적으로 평가할 때는 다음 5단계 순서로 접근한다.
 
-### <mark style="color:orange;">Step 1 —</mark> <mark style="color:$danger;">🚩 Red Flags! 배제</mark>
+### <mark style="color:orange;">Step 1 -</mark> <mark style="color:$danger;">🚩 Red Flags! 배제</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
@@ -37,15 +37,15 @@
 * 위암·대장암 가족력이 있는 환자의 조기 발생 증상
 * 기능성 질환으로 의심되나 삶의 질 저하가 큰 경우
 
-### <mark style="color:orange;">Step 2 — 해부학적 위치 분류</mark>
+### <mark style="color:orange;">Step 2 - 해부학적 위치 분류</mark>
 
 <table><thead><tr><th width="200">부위</th><th>주요 감별 질환</th></tr></thead><tbody><tr><td>식도</td><td>GERD, 식도염, 식도 운동장애</td></tr><tr><td>상복부</td><td>기능성 소화불량, 위염, 소화성 궤양(PUD)</td></tr><tr><td>우상복부</td><td>담석증, 담낭염</td></tr><tr><td>등으로 방사되는 상복부</td><td>췌장염</td></tr><tr><td>우하복부</td><td>충수염, Crohn disease</td></tr><tr><td>좌하복부</td><td>게실염</td></tr><tr><td>전반적 복통</td><td>장염, 장허혈, 기능성 질환</td></tr></tbody></table>
 
-### <mark style="color:orange;">Step 3 — 시간 패턴 평가</mark>
+### <mark style="color:orange;">Step 3 - 시간 패턴 평가</mark>
 
 <table><thead><tr><th width="230">발생 양상</th><th>시사 진단</th></tr></thead><tbody><tr><td>급성 (수 시간 내)</td><td>급성 감염, 중독증, 장허혈</td></tr><tr><td>수 시간 내 급격히 악화</td><td>담낭 산통</td></tr><tr><td>급성 발현 후 수일 지속</td><td>급성 췌장염</td></tr><tr><td>만성, 수 주~수개월, 간헐적</td><td>소화성 궤양</td></tr><tr><td>만성 반복</td><td>기능성 질환, PUD</td></tr><tr><td>만성 지속</td><td>만성 염증, 기저 질환, 신생물, 기능성 이상</td></tr><tr><td>식사로 악화</td><td>위궤양, PDS, 과민성 장 증후군(IBS)</td></tr><tr><td>공복 시 악화, 식사로 호전</td><td>십이지장 궤양</td></tr><tr><td>식후 설사, 배변 후 호전</td><td>IBS, 염증성 장질환(IBD)</td></tr><tr><td>야간 증상</td><td>기질성 질환 가능성</td></tr><tr><td>만성 지속</td><td>만성 염증, 기저 질환, 신생물, 기능성 이상</td></tr></tbody></table>
 
-### <mark style="color:orange;">Step 4 — 기능성 vs 기질성 감별</mark>
+### <mark style="color:orange;">Step 4 - 기능성 vs 기질성 감별</mark>
 
 <table><thead><tr><th width="260">기능성 질환 시사</th><th>기질성 질환 시사</th></tr></thead><tbody><tr><td>스트레스 연관</td><td>체중 감소</td></tr><tr><td>검사 정상</td><td>빈혈</td></tr><tr><td>증상 변동성 큼</td><td>진행성 악화</td></tr><tr><td>배변 후 호전</td><td>야간 증상</td></tr><tr><td>젊은 연령</td><td>고령 신규 발생</td></tr><tr><td>식사·스트레스 연관</td><td>위장관 출혈</td></tr></tbody></table>
 
@@ -63,7 +63,7 @@
 * 복통 관련 : 중추매개 복통 증후군(CAPS)
 * 배변 기능 : 성기능성 배변장애
 
-### <mark style="color:orange;">Step 5 — 경험적 치료 vs 즉시 검사</mark>
+### <mark style="color:orange;">Step 5 - 경험적 치료 vs 즉시 검사</mark>
 
 <table><thead><tr><th width="260">상황</th><th>접근</th></tr></thead><tbody><tr><td>젊은 소화불량 + alarm feature 없음</td><td>PPI trial 4~8주</td></tr><tr><td><em>H. pylori</em> 유병 지역</td><td>test-and-treat 전략 고려</td></tr><tr><td>전형적 GERD 증상</td><td>경험적 PPI 치료 가능</td></tr><tr><td>Alarm feature 존재</td><td>조기 내시경</td></tr><tr><td>지속 구토 / 탈수</td><td>영상 검사 및 전해질 평가</td></tr><tr><td>만성 설사</td><td>대변 검사 ± 대장내시경</td></tr></tbody></table>
 
@@ -126,7 +126,7 @@ GLP-1 수용체 작용제 및 GLP-1/GIP 이중 작용제는 위배출 지연을 
 {% hint style="warning" %}
 ⚠️ GLP-1/GIP 작용제 복용 환자의 상부 위장관 내시경 전 관리 (명확한 국내외 가이드라인 미확립; 2026년 기준 전문가 권고)
 
-* **일상적인 약제 중단은 권장하지 않는다** — 장기 작용 제제는 1\~2주 휴약해도 위배출 지연 효과가 지속되며, 중단 시 혈당 조절 악화 위험이 크다 (2025년 ADS/GESA 및 SPAQI 다학제 합의)
+* **일상적인 약제 중단은 권장하지 않는다** - 장기 작용 제제는 1\~2주 휴약해도 위배출 지연 효과가 지속되며, 중단 시 혈당 조절 악화 위험이 크다 (2025년 ADS/GESA 및 SPAQI 다학제 합의)
 * **시술 24시간 전부터 맑은 유동식(clear liquid diet)** 섭취를 모든 복용 환자에게 기본 적용
 * 당뇨병 환자는 유동식 기간 중 혈당 모니터링 강화; 필요시 내분비내과 협진
 * 시술 전 구역·구토 등 위배출 지연 의심 증상 스크리닝 필수

@@ -208,7 +208,7 @@ graph TD
 * 약물치료를 중단하면 수개월에 걸쳐 효과가 소실되므로 효과와 내약성이 좋으면 장기 유지한다.
 * 국내에서 탈모 치료는 대체로 비급여이며, 제품별 허가 연령·성별·용법을 확인한다.
 
-### <mark style="color:orange;">국소 minoxidil — 남녀 일차 치료</mark>
+### <mark style="color:orange;">국소 minoxidil - 남녀 일차 치료</mark>
 
 * 작용: 성장기 연장, 휴지기 단축 및 소형화 모낭의 성장 촉진
 * 용액이나 스프레이가 모발에 묻을 수 있으나 약물이 **마른 두피의 탈모 부위에 직접 닿도록** 도포하고 사용 후 손을 씻는다.
@@ -220,7 +220,7 @@ graph TD
 * 이상반응: 자극·접촉피부염, 인설, 얼굴의 원치 않는 다모증. 용액의 propylene glycol에 자극이 있으면 적절한 foam 제형을 고려한다.
 * 임신·수유 중에는 사용을 피한다. 흉통·심계항진·어지럼·부종이 발생하면 중단하고 평가한다.
 
-### <mark style="color:orange;">경구 5α-reductase inhibitor — 성인 남성</mark>
+### <mark style="color:orange;">경구 5α-reductase inhibitor - 성인 남성</mark>
 
 * DHT 생성을 억제하며 androgen receptor를 직접 차단하지 않는다.
 * **finasteride**: 1 ㎎ qd, 식사 무관 <mark style="color:blue;">\[프로페시아]</mark>
@@ -235,7 +235,7 @@ graph TD
 * 여성에게 허가된 치료가 아니다. 임신 중 또는 임신 가능성이 있는 여성은 복용하지 않으며 부서진 finasteride 정제나 누출된 dutasteride 연질캡슐을 만지지 않는다.
 * 수혈받는 임신부를 통한 남성 태아의 외부생식기 발달 이상 위험을 방지하기 위해 복용 중에는 헌혈하지 않는다. 마지막 복용 후 헌혈 제한기간은 finasteride 4주, dutasteride 6개월이다.
 
-### <mark style="color:orange;">저용량 경구 minoxidil — 선별 환자의 비허가 치료</mark>
+### <mark style="color:orange;">저용량 경구 minoxidil - 선별 환자의 비허가 치료</mark>
 
 {% hint style="danger" %}
 경구 minoxidil 정제는 국내에서 중증·불응성 고혈압 치료제로 허가되어 있으며 탈모 치료는 **비허가(off-label)** 사용이다. 국소제 사용이 어렵거나 순응도가 낮은 선별 환자에서 불확실한 장기 안전성과 대안을 설명한 후 고려한다. 남성 대상 무작위시험에서 5 ㎎/day는 국소 5% bid보다 전체적으로 우월하지 않았다(Penha et al., JAMA Dermatol 2024).
@@ -250,7 +250,7 @@ graph TD
 * 기립성 어지럼이 있으면 취침 전 복용을 고려할 수 있다.
 * K·Mg 함유 음료나 전해질 보충을 일률적으로 권고하지 않는다. 특히 spironolactone, ACE inhibitor/ARB 또는 신장애가 있으면 고칼륨혈증 위험을 고려한다.
 
-### <mark style="color:orange;">spironolactone — 여성의 비허가 치료</mark>
+### <mark style="color:orange;">spironolactone - 여성의 비허가 치료</mark>
 
 * Androgen receptor 길항 및 항안드로겐 작용이 있으며 여성형 탈모, 특히 고안드로겐 소견이 동반된 경우 고려할 수 있다.
 * 예: 25\~50 ㎎ qd로 시작하여 혈압·내약성을 보며 50\~100 ㎎/day 전후로 증량한다. 선별 환자에서 최대 200 ㎎/day까지 연구되었으나 처음부터 100 ㎎ bid로 처방하지 않는다. <mark style="color:blue;">\[알닥톤]</mark>
@@ -258,7 +258,7 @@ graph TD
 * 신장애, 부신기능저하, 고칼륨혈증에서 피한다. ACE inhibitor/ARB, 칼륨보충제 등 병용약물을 확인하고 위험도에 따라 기저 및 증량 후 K·신기능을 평가한다.
 * 임신 중 금기이며 가임 여성에게 효과적인 피임과 임신 계획을 확인한다.
 
-### <mark style="color:orange;">여성의 경구 5α-reductase inhibitor — 제한적 비허가 치료</mark>
+### <mark style="color:orange;">여성의 경구 5α-reductase inhibitor - 제한적 비허가 치료</mark>
 
 * 폐경 후 여성에서 finasteride 1 ㎎/day는 유효성이 입증되지 않았다. 임신 가능성이 없는 폐경 후 여성의 치료 저항성 여성형 탈모에서 finasteride 2.5\~5 ㎎/day 또는 dutasteride 0.5 ㎎/day가 사용된 보고가 있으나, 근거는 주로 소규모 비무작위 연구이고 dutasteride 자료는 더욱 제한적이어서 여성형 탈모의 표준치료로 확립되지 않았다.
 * 여성에게 허가된 치료가 아니므로 국소 minoxidil 등 표준치료의 반응과 대안을 검토하고, 불확실한 효과·장기 안전성·이상반응을 설명한 후 전문적 평가 아래 선별적으로 고려한다.
@@ -353,7 +353,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 아래 용법은 성인 예시이다. 국내 제품별 허가사항, 연령·성별, 임신 가능성, 기저질환 및 병용약물을 확인한다. 경구 minoxidil과 spironolactone의 탈모 치료는 국내 비허가 사용이다.
 {% endhint %}
 
-> **처방례 1.** 남성형 탈모 — finasteride
+> **처방례 1.** 남성형 탈모 - finasteride
 >
 > ```
 > 프로페시아 1 ㎎/T  1T  qd
@@ -361,7 +361,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 >
 > _✽국내 허가 범위: 만 18\~41세 성인 남성. 성기능·기분 변화, 임신부의 분쇄정 접촉 금지, PSA 해석 주의를 설명한다._
 
-> **처방례 2.** 남성형 탈모 — dutasteride
+> **처방례 2.** 남성형 탈모 - dutasteride
 >
 > ```
 > 아보다트 0.5 ㎎/C  1C  qd
@@ -369,7 +369,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 >
 > _✽국내 허가 범위: 만 18\~50세 성인 남성. 캡슐을 씹거나 열지 않고 그대로 복용한다._
 
-> **처방례 3.** 남성형 탈모 — 국소 minoxidil
+> **처방례 3.** 남성형 탈모 - 국소 minoxidil
 >
 > ```
 > 마이녹실 5% 액  0.5\~1 mL  bid, 최대 2 mL/day
@@ -377,7 +377,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 >
 > _✽완전히 마른 두피의 탈모 부위에 도포한다. 성별 적응증과 정확한 용량은 선택 제품의 허가사항을 확인한다._
 
-> **처방례 4.** 여성형 탈모 — 국내 3% 액제 예
+> **처방례 4.** 여성형 탈모 - 국내 3% 액제 예
 >
 > ```
 > 마이녹실 3% 액  0.5 mL  bid, 최대 1.3 mL/day
@@ -385,7 +385,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 >
 > _✽임신·수유 중 사용을 피한다. 여성 5% foam qd를 선택할 때는 국내 해당 제품의 허가·유통과 용법을 확인한다._
 
-> **처방례 5.** 여성형 탈모 — spironolactone 선택 예
+> **처방례 5.** 여성형 탈모 - spironolactone 선택 예
 >
 > ```
 > 알닥톤 25 ㎎/T  1T  qd
@@ -427,8 +427,8 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 권장 기간(finasteride/dutasteride 6\~12개월, minoxidil 4\~6개월) 치료 후에도 호전이 없는 경우
-> * 위에 기술한 심혈관계·정신과적 이상반응이 나타나는 경우 — 즉시 내원
-> * 여성에서 다모증·목소리 변화 등 남성화 소견이 새로 나타나는 경우 — 즉시 내원
+> * 위에 기술한 심혈관계·정신과적 이상반응이 나타나는 경우 - 즉시 내원
+> * 여성에서 다모증·목소리 변화 등 남성화 소견이 새로 나타나는 경우 - 즉시 내원
 
 ***
 
@@ -468,7 +468,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 * 소아의 두피에 인설과 부러진 머리카락, 고름이 찬 종창이 생긴 경우
 * 여성에서 탈모가 매우 빠르게 진행하면서 털 증가, 목소리 변화 또는 월경 이상이 동반되는 경우
 * 치료제 복용 중 기분 변화나 우울감이 심해지는 경우
-* 탈모 때문에 심한 우울감·불안 또는 자해·자살 생각이 드는 경우 — 즉시 **자살예방상담전화 109**로 연락하거나 가까운 응급실을 방문하십시오.
+* 탈모 때문에 심한 우울감·불안 또는 자해·자살 생각이 드는 경우 - 즉시 **자살예방상담전화 109**로 연락하거나 가까운 응급실을 방문하십시오.
 
 ## 주요 참고 문헌
 

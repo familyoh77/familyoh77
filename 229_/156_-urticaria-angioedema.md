@@ -170,11 +170,11 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 #### <mark style="color:$primary;">유전성 혈관부종(Hereditary angioedema, HAE) 및 후천성 혈관부종(AAE)</mark>
 
 * 정의 : HAE/AAE는 kallikrein–kinin system의 이상으로 bradykinin이 과잉 생성되어 발생하는 비-소양성 혈관부종. HAE type I/II 및 AAE에서는 C1-INH의 양적 결핍 또는 기능 이상이 핵심이며, 정상 C1-INH HAE도 존재함. histamine 매개가 아니므로 항히스타민제·글루코코르티코이드·에피네프린에 반응이 불량함
-* 증상 : 피부(사지·얼굴·생식기) 및 위장관(통증성 복부 경련 — 급성 복증으로 오인되기도 함), 상기도 점막 증상(후두 부종, 치명적 기도 폐쇄 가능)
+* 증상 : 피부(사지·얼굴·생식기) 및 위장관(통증성 복부 경련 - 급성 복증으로 오인되기도 함), 상기도 점막 증상(후두 부종, 치명적 기도 폐쇄 가능)
 * 의심 소견 : 반복적인 피부 증상, 재발성 혈관부종 가족력(HAE는 75%에서 가족력 있음), ＜20세 발병, 원인 불명의 반복적 복통이나 상기도 부종, 통상적 혈관부종 치료(항히스타민제·글루코코르티코이드·에피네프린)에 반응하지 않는 부종, 전구 증상(erythema marginatum, 피로·권태감·구역감) 동반, 두드러기를 동반하지 않는 부종
 
 {% hint style="info" %}
-**HAE 발작 vs. 아나필락시스 — 초진 감별 포인트**
+**HAE 발작 vs. 아나필락시스 - 초진 감별 포인트**
 
 <table><thead><tr><th width="150">항목</th><th>HAE/Bradykinin 매개 혈관부종</th><th>아나필락시스/Mast-cell 매개</th></tr></thead><tbody><tr><td>두드러기·소양감</td><td>대개 없음</td><td>흔함(단, 피부 소견이 없을 수도 있음)</td></tr><tr><td>복통</td><td>재발성·심한 복통이 흔할 수 있음</td><td>구역·구토·복통이 동반될 수 있음</td></tr><tr><td>기관지수축·저혈압</td><td>전형적이지 않음; 주된 위험은 상기도 부종</td><td>천명·저혈압·실신 등 전신 반응 가능</td></tr><tr><td>항히스타민제·epinephrine·steroid</td><td>반응 불량</td><td>epinephrine에 반응하며 IM epinephrine이 1차 치료</td></tr><tr><td>과거력/가족력</td><td>반복 발작·가족력, ACEI 노출 등이 단서</td><td>음식·약물·곤충 등 직전 알레르겐 노출이 단서</td></tr></tbody></table>
 
@@ -190,7 +190,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 **진단 검사**
 
-<table><thead><tr><th width="150">아형</th><th width="90">C4</th><th width="130">C1-INH 항원량</th><th width="110">C1-INH 기능</th><th>비고</th></tr></thead><tbody><tr><td>HAE Type I</td><td>↓</td><td>↓</td><td>↓</td><td>선별 : C4(발작 간에도 대부분 저하) → 확진 : 항원량+기능</td></tr><tr><td>HAE Type II</td><td>↓</td><td>정상/↑</td><td>↓</td><td>항원량만으로는 놓칠 수 있어 기능 검사 필수</td></tr><tr><td>nl-C1INH-HAE</td><td>정상</td><td>정상</td><td>정상</td><td>임상적 의심이 강할 때 유전자 검사(F12, PLG 등) 고려</td></tr><tr><td>후천성(AAE)</td><td>↓</td><td>↓(또는 정상)</td><td>↓</td><td>C1q 대부분 저하(HAE에서는 C1q 정상 — 핵심 감별점)</td></tr></tbody></table>
+<table><thead><tr><th width="150">아형</th><th width="90">C4</th><th width="130">C1-INH 항원량</th><th width="110">C1-INH 기능</th><th>비고</th></tr></thead><tbody><tr><td>HAE Type I</td><td>↓</td><td>↓</td><td>↓</td><td>선별 : C4(발작 간에도 대부분 저하) → 확진 : 항원량+기능</td></tr><tr><td>HAE Type II</td><td>↓</td><td>정상/↑</td><td>↓</td><td>항원량만으로는 놓칠 수 있어 기능 검사 필수</td></tr><tr><td>nl-C1INH-HAE</td><td>정상</td><td>정상</td><td>정상</td><td>임상적 의심이 강할 때 유전자 검사(F12, PLG 등) 고려</td></tr><tr><td>후천성(AAE)</td><td>↓</td><td>↓(또는 정상)</td><td>↓</td><td>C1q 대부분 저하(HAE에서는 C1q 정상 - 핵심 감별점)</td></tr></tbody></table>
 
 * 생후 6개월 미만에서는 보체 수치가 불안정할 수 있어 확진 재검은 이후로 미루는 것이 권장됨
 * 유전자 검사(SERPING1 등) : 진단 확정, 무증상 가족 구성원 선별, 산전 상담에 유용
@@ -198,7 +198,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 **치료 원칙**
 
 * HAE/AAE 발작은 항히스타민제·스테로이드·에피네프린에 반응하지 않으므로 별도의 bradykinin 표적 치료제가 필요함(☞ 약물 치료 > HAE·AAE 치료)
-* ACEI는 HAE/AAE 환자에서 절대 금기(bradykinin 분해 억제로 발작을 중증화시킬 수 있음) — ARB 등 대체 강압제로 전환
+* ACEI는 HAE/AAE 환자에서 절대 금기(bradykinin 분해 억제로 발작을 중증화시킬 수 있음) - ARB 등 대체 강압제로 전환
 * 발치·내시경·삽관·수술 등 침습적 처치 전에는 반드시 단기예방 계획을 수립함
 
 ***
@@ -253,7 +253,7 @@ graph TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 호흡기 평가(anaphylaxis 배제) — Red Flags Tier 1 소견이 있으면 두드러기 치료보다 아나필락시스 처치 우선
+* 호흡기 평가(anaphylaxis 배제) - Red Flags Tier 1 소견이 있으면 두드러기 치료보다 아나필락시스 처치 우선
 * 원인/악화·유발 인자 회피 : 원인으로 의심되는 행위 회피; 음주, 급격한 온도 변화, 더운 환경 회피
 * 기저 감염·전신 질환 치료
 * 필요시 불안, 우울증, 심리사회적 영향에 대한 평가 및 치료
@@ -262,7 +262,7 @@ graph TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 확인된 유발/악화 인자 회피(약물, 특정 식품, 물리적 자극 등) — 단, 만성 자발성 두드러기에서 일상적인 식이 배제는 권고하지 않으며 유의미한 영향이 확인된 경우에만 회피
+* 확인된 유발/악화 인자 회피(약물, 특정 식품, 물리적 자극 등) - 단, 만성 자발성 두드러기에서 일상적인 식이 배제는 권고하지 않으며 유의미한 영향이 확인된 경우에만 회피
 * NSAID 관련이 의심되면 원인 약물 사용 회피; 금기가 아니라면 COX-2 selective inhibitor로 교체 고려
 * ACEI 복용 중이면서 팽진이 없는 반복적 혈관부종이 있는 환자는 ACEI 중지(대체 강압제로 전환)
 * 국소 항소양제(예: 멘톨 함유 연화제) 사용 고려
@@ -317,7 +317,7 @@ graph TD
 #### <mark style="color:$primary;">H2-항히스타민제 (H2AH)</mark>
 
 * 효과 : CSU에서 H2AH의 routine add-on을 뒷받침하는 근거는 제한적이며 최신 단계치료의 핵심 옵션은 아님
-* cimetidine : 200 ㎎ tid\~qid <mark style="color:blue;">\[에취투비]</mark> — 소화기 적응증 등 별도 이유가 있을 때 병용 가능하나 두드러기 치료 목적으로 일률적으로 추가하지 않음
+* cimetidine : 200 ㎎ tid\~qid <mark style="color:blue;">\[에취투비]</mark> - 소화기 적응증 등 별도 이유가 있을 때 병용 가능하나 두드러기 치료 목적으로 일률적으로 추가하지 않음
 
 ### <mark style="color:orange;">Steroid</mark>
 
@@ -337,7 +337,7 @@ graph TD
 * hydrocortisone : 200 ㎎ IV <mark style="color:blue;">\[솔루 코테프 주]</mark>
 * methylprednisolone : 40\~60 ㎎ IV <mark style="color:blue;">\[솔루메드롤 주]</mark>
 
-### <mark style="color:orange;">HAE·AAE 치료 (Bradykinin 매개 — 항히스타민제·스테로이드·에피네프린 반응 불량)</mark>
+### <mark style="color:orange;">HAE·AAE 치료 (Bradykinin 매개 - 항히스타민제·스테로이드·에피네프린 반응 불량)</mark>
 
 * 원칙 : 급성발작치료(on-demand), 시술 전 단기예방, 만성 장기예방의 세 축으로 구성; 발작 초기(전구증상 단계)에 투여할수록 효과적
 
@@ -405,8 +405,8 @@ graph TD
 
 #### <mark style="color:$primary;">기타 3차 면역조절제</mark>
 
-* methotrexate : 15 ㎎/wk <mark style="color:blue;">\[메토트렉세이트]</mark> — H1AH 단독/병용에 반응하지 않는 환자에서 제한적 고려
-* dapsone : 25\~100 ㎎/d <mark style="color:blue;">\[답손]</mark> — 압박두드러기 등에서 제한적 고려
+* methotrexate : 15 ㎎/wk <mark style="color:blue;">\[메토트렉세이트]</mark> - H1AH 단독/병용에 반응하지 않는 환자에서 제한적 고려
+* dapsone : 25\~100 ㎎/d <mark style="color:blue;">\[답손]</mark> - 압박두드러기 등에서 제한적 고려
 * tacrolimus : steroid-dependent chronic urticaria에 고려 <mark style="color:blue;">\[프로그랍]</mark>
 * azathioprine, hydroxychloroquine(특히 SLE 동반 두드러기), mycophenolate mofetil, sulfasalazine, IVIg : 1·2차 치료에 반응 없거나 사용 불가한 경우 제한적 고려
 * tranexamic acid : 혈관부종이 우세한 경우 고려
@@ -463,7 +463,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 * montelukast : 2세대 H1AH 증량에도 반응 부족 시 추가 고려
 * steroid : 심한 증상의 빠른 조절을 위해 단기간(수일) 고려(예: prednisolone 0.5 ㎎/㎏); 장기 전신 투여는 다른 옵션이 있는 한 회피
 
-**2nd Line — add-on 표적치료**
+**2nd Line - add-on 표적치료**
 
 * **omalizumab 300 ㎎ SC q4wk** : 고용량 2세대 H1AH 불응 CSU에서 확립된 add-on 치료(강한 권고)
 * dupilumab, remibrutinib : 환자 특성, 허가·가용성, 선호도 및 기존 치료 반응에 따라 새로운 add-on 옵션으로 고려
@@ -572,7 +572,7 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 > ※ 6시간 후에도 증상 지속 시 추가 투여 가능(24시간 내 최대 3회)\
 > ※ 목 부위 증상(협착음, 쉰 목소리, 삼킴곤란) 동반 시에는 자가주사와 무관하게 즉시 응급실 내원
 
-> **처방례 7. HAE 장기예방 — Lanadelumab (국제 가이드라인상 1차 LTP 옵션; 국내 급여요건 별도)**
+> **처방례 7. HAE 장기예방 - Lanadelumab (국제 가이드라인상 1차 LTP 옵션; 국내 급여요건 별도)**
 >
 > ```
 > 탁자이로 300 ㎎   SC   2주마다
@@ -601,7 +601,7 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 > * 효과 발현까지 수 주가 걸릴 수 있으므로 임의로 조기 중단하지 않도록 안내합니다
 > * 이상반응(주사부위 반응, 두통, 감염 징후 등) 발생 시 병원에 연락하도록 교육합니다
 
-> **HAE로 진단된 경우 — 자가주사, 왜 미루면 안 되나요**
+> **HAE로 진단된 경우 - 자가주사, 왜 미루면 안 되나요**
 >
 > * icatibant, C1-inhibitor concentrate는 발작 초기(전구증상 단계)에 투여할수록 효과가 좋습니다. "좀 더 지켜보다가" 미루면 후두까지 진행할 위험이 커집니다
 > * ACEI 계열 혈압약은 절대 금기입니다. 다른 병원에서 새로 약을 처방받을 때도 HAE 진단과 ACEI 금기 사실을 반드시 알리도록 안내합니다
@@ -610,8 +610,8 @@ D84.1 보체계통의 결함(유전성 혈관부종 의심 시)
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 2\~4주간의 표준 치료(항히스타민제 규칙 복용)에도 증상이 호전되지 않는 경우
-> * 호흡곤란, 쉰 목소리, 삼킴곤란, 입술·혀·목의 급격한 부종이 동반되는 경우 — **즉시 응급실 내원**
-> * 어지럼증, 실신, 전신 두드러기와 함께 속이 메스껍거나 배가 아픈 경우 — **즉시 응급실 내원(아나필락시스 의심)**
+> * 호흡곤란, 쉰 목소리, 삼킴곤란, 입술·혀·목의 급격한 부종이 동반되는 경우 - **즉시 응급실 내원**
+> * 어지럼증, 실신, 전신 두드러기와 함께 속이 메스껍거나 배가 아픈 경우 - **즉시 응급실 내원(아나필락시스 의심)**
 > * 개별 팽진이 하루 이상 같은 자리에 남거나 통증·색소침착을 남기는 경우
 > * 원인 불명의 발열, 관절통, 체중감소가 함께 있는 경우
 

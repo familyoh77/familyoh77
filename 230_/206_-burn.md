@@ -89,7 +89,7 @@ flowchart TB
 
 <p align="center"><strong>초기 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. American Burn Association. Guidelines for Burn Patient Referral (2022); Royal Children's Hospital Melbourne. Burns—Acute Management CPG (2026)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. American Burn Association. Guidelines for Burn Patient Referral (2022); Royal Children's Hospital Melbourne. Burns-Acute Management CPG (2026)</mark></em></p>
 
 ***
 
@@ -381,10 +381,10 @@ T32 부식 범위에 따라 분류된 부식
 
 * American Burn Association. Guidelines for Burn Patient Referral. 2022; current online version.
 * American Burn Association. Clinical Practice Guidelines on Burn Shock Resuscitation. 2024.
-* Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Burns—Acute Management. Updated 2026.
+* Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Burns-Acute Management. Updated 2026.
 * World Health Organization. Burns: Fact Sheet.
 * CDC. Clinical Guidance for Carbon Monoxide Poisoning.
 * CDC/NIOSH. Medical Management Guidelines for Hydrogen Fluoride, Phenol, and White Phosphorus.
 * CDC. Clinical Guidance for Wound Management to Prevent Tetanus.
 * SCCM/ASHP. Guideline for the Prevention of Stress-Related Upper Gastrointestinal Bleeding in Critically Ill Adults. 2024.
-* Arko-Boham E, et al. Effectiveness of Postburn Pruritus Treatment and Improvement of Insomnia—A Randomized Trial. J Burn Care Res. 2024.
+* Arko-Boham E, et al. Effectiveness of Postburn Pruritus Treatment and Improvement of Insomnia-A Randomized Trial. J Burn Care Res. 2024.

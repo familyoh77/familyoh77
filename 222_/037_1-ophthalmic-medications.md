@@ -73,7 +73,7 @@
 * 적응증 : 알레르기 결막염의 가려움, 충혈, 분비물 조절
 * 가려움이 핵심 증상; 대부분 스테로이드 병용 없이 충분히 효과적
 
-<table><thead><tr><th width="164">분류</th><th width="195">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>복합 기전</strong><br>(항히스타민 + 비만세포 안정제)<br>— <strong>1차 선택</strong></td><td>Olopatadine 0.1%<br><mark style="color:blue;">[파타놀]</mark></td><td>bid</td></tr><tr><td></td><td>Olopatadine 0.2%<br><mark style="color:blue;">[파타놀-S]</mark></td><td>qd</td></tr><tr><td></td><td>Ketotifen<br><mark style="color:blue;">[자디텐]</mark></td><td>bid</td></tr><tr><td></td><td>Alcaftadine 0.25%<br><mark style="color:blue;">[라스타카프트]</mark></td><td>qd; H1/H2/H4 복합 차단 + 비만세포 안정; 과다 점안(2회 이상) 시 결막충혈·분비물·안검부종 부작용</td></tr><tr><td></td><td>Epinastine 0.05%<br><mark style="color:blue;">[릴레스타트]</mark></td><td>bid; 항히스타민 + 비만세포 안정 복합 기전</td></tr><tr><td><strong>비만세포 안정제</strong></td><td>Sodium cromoglycate<br><mark style="color:blue;">[크로마이셀]</mark></td><td>qid</td></tr><tr><td></td><td>Nedocromil<br><mark style="color:blue;">[티라드]</mark></td><td>qid</td></tr><tr><td></td><td>Lodoxamide<br><mark style="color:blue;">[알로마이드]</mark></td><td>qid</td></tr><tr><td><strong>국소 NSAID</strong><br>(가려움·이물감 완화)</td><td>Ketorolac tromethamine 0.5%<br><mark style="color:blue;">[키톨락, 아큐베일]</mark></td><td>qid; 알레르기 결막염 소양증, 백내장 수술 후 염증</td></tr><tr><td></td><td>Diclofenac sodium 0.1%<br><mark style="color:blue;">[옵타닉, 클로페낙]</mark></td><td>qid; 수술 후 염증·통증, 알레르기 결막염 보조</td></tr><tr><td></td><td>Bromfenac sodium<br><mark style="color:blue;">[브로낙]</mark></td><td>bid; 바이러스 결막염·각막 찰과상에도 단기 적용 가능</td></tr><tr><td><strong>혈관수축제</strong><br>(충혈 완화)</td><td>Naphazoline, Tetrahydrozoline<br><mark style="color:blue;">[나조린]</mark></td><td>qid; 3~5일 이내 단기 사용 - 장기 사용 시 반동충혈 발생</td></tr><tr><td><strong>국소 면역조절제</strong><br>(중증)</td><td>Cyclosporine <mark style="color:blue;">[레스타시스]</mark>(☞ <a href="https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701&#x26;sno=1&#x26;mtgMtrRegSno=0009">보험기준</a>)</td><td>현탁액 - 사용 전 충분히 흔들 것</td></tr><tr><td></td><td>Tacrolimus</td><td>CsA 난치성 시 사용</td></tr></tbody></table>
+<table><thead><tr><th width="164">분류</th><th width="195">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>복합 기전</strong><br>(항히스타민 + 비만세포 안정제)<br>- <strong>1차 선택</strong></td><td>Olopatadine 0.1%<br><mark style="color:blue;">[파타놀]</mark></td><td>bid</td></tr><tr><td></td><td>Olopatadine 0.2%<br><mark style="color:blue;">[파타놀-S]</mark></td><td>qd</td></tr><tr><td></td><td>Ketotifen<br><mark style="color:blue;">[자디텐]</mark></td><td>bid</td></tr><tr><td></td><td>Alcaftadine 0.25%<br><mark style="color:blue;">[라스타카프트]</mark></td><td>qd; H1/H2/H4 복합 차단 + 비만세포 안정; 과다 점안(2회 이상) 시 결막충혈·분비물·안검부종 부작용</td></tr><tr><td></td><td>Epinastine 0.05%<br><mark style="color:blue;">[릴레스타트]</mark></td><td>bid; 항히스타민 + 비만세포 안정 복합 기전</td></tr><tr><td><strong>비만세포 안정제</strong></td><td>Sodium cromoglycate<br><mark style="color:blue;">[크로마이셀]</mark></td><td>qid</td></tr><tr><td></td><td>Nedocromil<br><mark style="color:blue;">[티라드]</mark></td><td>qid</td></tr><tr><td></td><td>Lodoxamide<br><mark style="color:blue;">[알로마이드]</mark></td><td>qid</td></tr><tr><td><strong>국소 NSAID</strong><br>(가려움·이물감 완화)</td><td>Ketorolac tromethamine 0.5%<br><mark style="color:blue;">[키톨락, 아큐베일]</mark></td><td>qid; 알레르기 결막염 소양증, 백내장 수술 후 염증</td></tr><tr><td></td><td>Diclofenac sodium 0.1%<br><mark style="color:blue;">[옵타닉, 클로페낙]</mark></td><td>qid; 수술 후 염증·통증, 알레르기 결막염 보조</td></tr><tr><td></td><td>Bromfenac sodium<br><mark style="color:blue;">[브로낙]</mark></td><td>bid; 바이러스 결막염·각막 찰과상에도 단기 적용 가능</td></tr><tr><td><strong>혈관수축제</strong><br>(충혈 완화)</td><td>Naphazoline, Tetrahydrozoline<br><mark style="color:blue;">[나조린]</mark></td><td>qid; 3~5일 이내 단기 사용 - 장기 사용 시 반동충혈 발생</td></tr><tr><td><strong>국소 면역조절제</strong><br>(중증)</td><td>Cyclosporine <mark style="color:blue;">[레스타시스]</mark>(☞ <a href="https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701&#x26;sno=1&#x26;mtgMtrRegSno=0009">보험기준</a>)</td><td>현탁액 - 사용 전 충분히 흔들 것</td></tr><tr><td></td><td>Tacrolimus</td><td>CsA 난치성 시 사용</td></tr></tbody></table>
 
 ## <mark style="color:green;">항생제 점안제</mark>
 
@@ -121,7 +121,7 @@ _SA=S. aureus, SP=S. pneumoniae, H=H. influenzae, P=P. aeruginosa, E=E. coli, N=
 ## <mark style="color:green;">스테로이드 점안제</mark>
 
 {% hint style="danger" %}
-**스테로이드 점안제 — 1차 진료에서의 금기·주의 원칙**
+**스테로이드 점안제 - 1차 진료에서의 금기·주의 원칙**
 
 **절대 금기 (1차 진료 기준)**
 
@@ -288,4 +288,4 @@ HSV 결막염 의심 시 스테로이드 점안액 절대 금기. 항바이러�
 * 안약을 사용 중인데 **시력이 갑자기 저하되거나 흐려지는** 경우
 * **심한 눈의 통증** 또는 강한 눈부심이 생기는 경우
 * 스테로이드 안약을 처방받아 사용 중인데 **증상이 오히려 악화되거나 시야가 흐려지는** 경우
-* 안약을 **처방 기간보다 오래 사용하게 되는** 경우 — 반드시 의사와 상의하십시오
+* 안약을 **처방 기간보다 오래 사용하게 되는** 경우 - 반드시 의사와 상의하십시오

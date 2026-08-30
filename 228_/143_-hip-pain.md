@@ -6,7 +6,7 @@
 
 * 고관절 자체(관절 내) 또는 고관절 주위 연부 조직(관절 외)의 통증, 또는 요추부·골반 등 인접 구조물로부터의 연관통을 포괄하는 증상
 * 통증 부위에 따라 anterior(전방 고관절/서혜부), lateral(외측 고관절), posterior(후방 고관절/둔부) 3영역으로 구분하는 것이 병력 청취와 감별 진단에 유용
-* 일차 진료에서 흔히 접하는 근골격계 주소 중 하나이며, 연령대에 따라 원인 분포가 크게 다름 (소아·청소년 — 선천/apophyseal 병변, 감염, 활막염; 청장년 — 과사용·염좌·FAI; 고령 — 퇴행성 관절염·골절)
+* 일차 진료에서 흔히 접하는 근골격계 주소 중 하나이며, 연령대에 따라 원인 분포가 크게 다름 (소아·청소년 - 선천/apophyseal 병변, 감염, 활막염; 청장년 - 과사용·염좌·FAI; 고령 - 퇴행성 관절염·골절)
 * 고관절 골관절염의 전 세계 유병률은 약 7.2%로 추정됨 (AAOS 2023)
 * 병력·신체검사만으로 원인별 접근이 가능한 경우가 많으나, 부위별로 다양한 감별 진단이 존재하여 체계적 접근이 필요
 
@@ -188,11 +188,11 @@ _\*Conditions associated with Greater trochanter pain syndrome_
 
 <mark style="color:$primary;">**Posterior pain**</mark>
 
-<table><thead><tr><th width="220">진단</th><th width="320">임상 양상</th><th>병력/위험 인자</th></tr></thead><tbody><tr><td><strong>Hamstring muscle strain or avulsion</strong></td><td>엉덩이 통증, 압통, ischial tuberosity 압통; ecchymosis, 하지 굴곡 약화, palpable gap</td><td>고관절 굴곡 &#x26; 하지 신전 시 eccentric muscle contraction</td></tr><tr><td><strong>Ischial apophysis avulsion</strong></td><td>엉덩이 통증, 압통, ecchymosis</td><td>골격 미성숙, eccentric muscle contraction</td></tr><tr><td><strong>Ischiofemoral impingement</strong></td><td>buttock/back pain, post thigh 방사통; sciatica 증상</td><td>—</td></tr><tr><td><strong>Piriformis syndrome</strong></td><td>buttock pain, 앉거나 걸을 때 악화, post thigh 방사통, sciatic notch 위 압통; sciatica 증상, log roll test(+)</td><td>buttock 외상</td></tr><tr><td><strong>SIJ dysfunction</strong></td><td>허리/엉덩이/서혜부 방사통, FABER test 시 국소 SIJ 통증, SIJ line 압통</td><td>여성(특히 임신), 경증 외상</td></tr></tbody></table>
+<table><thead><tr><th width="220">진단</th><th width="320">임상 양상</th><th>병력/위험 인자</th></tr></thead><tbody><tr><td><strong>Hamstring muscle strain or avulsion</strong></td><td>엉덩이 통증, 압통, ischial tuberosity 압통; ecchymosis, 하지 굴곡 약화, palpable gap</td><td>고관절 굴곡 &#x26; 하지 신전 시 eccentric muscle contraction</td></tr><tr><td><strong>Ischial apophysis avulsion</strong></td><td>엉덩이 통증, 압통, ecchymosis</td><td>골격 미성숙, eccentric muscle contraction</td></tr><tr><td><strong>Ischiofemoral impingement</strong></td><td>buttock/back pain, post thigh 방사통; sciatica 증상</td><td>-</td></tr><tr><td><strong>Piriformis syndrome</strong></td><td>buttock pain, 앉거나 걸을 때 악화, post thigh 방사통, sciatic notch 위 압통; sciatica 증상, log roll test(+)</td><td>buttock 외상</td></tr><tr><td><strong>SIJ dysfunction</strong></td><td>허리/엉덩이/서혜부 방사통, FABER test 시 국소 SIJ 통증, SIJ line 압통</td><td>여성(특히 임신), 경증 외상</td></tr></tbody></table>
 
 <mark style="color:$primary;">**Lateral pain**</mark>
 
-<table><thead><tr><th width="220">진단</th><th width="320">임상 양상</th><th>병력/위험 인자</th></tr></thead><tbody><tr><td><strong>Greater trochanteric bursitis</strong>*</td><td>GT 후상방(1인치) 압통, lat thigh 방사통; ROM 정상</td><td>달리기, 중년 여성; 보행 장애(무릎/발목 질환, 다리 길이 차이)</td></tr><tr><td><strong>Greater trochanteric pain syndrome</strong></td><td>압통, lat thigh 방사통, 근위 iliotibial band 압통; 경증 아침 강직, 이환 부위로 누워 자기 어려움; Trendelenburg gait</td><td>knee OA, 비만, 요통, 여성; 반복 작업</td></tr><tr><td><strong>External snapping hip</strong></td><td>압통, lat thigh 방사통; 보행 시 snapping or popping; Ober test(+), GT 위 통증</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="220">진단</th><th width="320">임상 양상</th><th>병력/위험 인자</th></tr></thead><tbody><tr><td><strong>Greater trochanteric bursitis</strong>*</td><td>GT 후상방(1인치) 압통, lat thigh 방사통; ROM 정상</td><td>달리기, 중년 여성; 보행 장애(무릎/발목 질환, 다리 길이 차이)</td></tr><tr><td><strong>Greater trochanteric pain syndrome</strong></td><td>압통, lat thigh 방사통, 근위 iliotibial band 압통; 경증 아침 강직, 이환 부위로 누워 자기 어려움; Trendelenburg gait</td><td>knee OA, 비만, 요통, 여성; 반복 작업</td></tr><tr><td><strong>External snapping hip</strong></td><td>압통, lat thigh 방사통; 보행 시 snapping or popping; Ober test(+), GT 위 통증</td><td>-</td></tr></tbody></table>
 
 _\*Conditions associated with Greater trochanter pain syndrome_
 
@@ -285,7 +285,7 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 #### <mark style="color:orange;">진통제</mark>
 
 * NSAID : ibuprofen 200\~400 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>, naproxen 250\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>; 필요 시 증상·위험도에 따라 증량 가능하나 고용량은 최소 기간만 사용 _✽국내 식약처 허가사항상 경증·중등도 동통에는 ibuprofen 1회 200\~400 ㎎, 1일 3\~4회이며, 관절염 등에는 1회 200\~600 ㎎까지(1일 최고 3,200 ㎎) 사용 가능_
-* acetaminophen : 650\~1,000 ㎎ tid <mark style="color:blue;">\[타이레놀]</mark>; 총 3 g/day 이내를 기본 안전 상한으로 하며, 간질환·과음 병력이 있으면 추가 감량 _✽AAOS 2023 hip OA 가이드라인에서 NSAID는 강력 권고(Strong)인 반면, acetaminophen은 근거 불충분으로 Option(Consensus) 수준에 그침 — 1차 선택제는 아니며, NSAID 금기·고령자 등에서 보조적으로 고려_
+* acetaminophen : 650\~1,000 ㎎ tid <mark style="color:blue;">\[타이레놀]</mark>; 총 3 g/day 이내를 기본 안전 상한으로 하며, 간질환·과음 병력이 있으면 추가 감량 _✽AAOS 2023 hip OA 가이드라인에서 NSAID는 강력 권고(Strong)인 반면, acetaminophen은 근거 불충분으로 Option(Consensus) 수준에 그침 - 1차 선택제는 아니며, NSAID 금기·고령자 등에서 보조적으로 고려_
 
 #### <mark style="color:orange;">스테로이드</mark>
 
@@ -363,7 +363,7 @@ S72 대퇴골 골절
 > **NSAID 복용 시 주의사항**
 >
 > * 공복 복용 시 위장 자극이 있을 수 있어 식후 복용 권장
-> * 항응고제·저용량 aspirin 병용 시 출혈 위험 증가 — 병용 여부 확인 필요
+> * 항응고제·저용량 aspirin 병용 시 출혈 위험 증가 - 병용 여부 확인 필요
 > * 고령자, 신기능 저하 환자에서는 신독성·체액 저류 위험으로 최소 용량·최단 기간 사용
 
 > **국소 스테로이드 주사 관련 안내**
@@ -380,9 +380,9 @@ S72 대퇴골 골절
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 보존적 치료 수 주 이내에도 증상이 호전되지 않는 경우
-> * 발열, 국소 발열감·홍반이 동반되는 경우 — 즉시 내원
-> * 갑자기 체중 부하가 불가능해지거나 변형이 발생하는 경우 — 즉시 내원
-> * 하지 위약, 감각 저하, 대소변 조절 이상이 동반되는 경우 — 즉시 내원
+> * 발열, 국소 발열감·홍반이 동반되는 경우 - 즉시 내원
+> * 갑자기 체중 부하가 불가능해지거나 변형이 발생하는 경우 - 즉시 내원
+> * 하지 위약, 감각 저하, 대소변 조절 이상이 동반되는 경우 - 즉시 내원
 
 ***
 

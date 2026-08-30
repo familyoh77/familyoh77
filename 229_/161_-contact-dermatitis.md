@@ -98,7 +98,7 @@
 * patch test가 필요한 경우
 * 적절한 항원/자극 회피와 국소 치료에도 지속·재발하거나, 초기부터 ACD·직업성 접촉피부염이 강하게 의심되는 경우
 * 중증 만성 손습진 또는 전신 치료를 고려해야 하는 경우
-* 반복적인 전신 corticosteroid 투여가 필요하거나 장기 전신치료가 고려되는 경우 — 피부과 조기 의뢰
+* 반복적인 전신 corticosteroid 투여가 필요하거나 장기 전신치료가 고려되는 경우 - 피부과 조기 의뢰
 
 ***
 
@@ -212,7 +212,7 @@ graph TD
   * hydrocortisone 1\~2.5% lotion <mark style="color:blue;">\[하티손로션1%, 하티손로션2.5%]</mark>
 * 몸통·사지 : 중간 역가
   * triamcinolone acetonide 0.1% <mark style="color:blue;">\[트리코트 등]</mark>
-  * mometasone furoate 0.1% <mark style="color:blue;">\[모리코트 등]</mark> — 제형·분류 체계에 따라 역가 분류가 다를 수 있음
+  * mometasone furoate 0.1% <mark style="color:blue;">\[모리코트 등]</mark> - 제형·분류 체계에 따라 역가 분류가 다를 수 있음
 * 손바닥·발바닥 또는 심한 태선화 병소 : 중\~고역가를 **단기간만** 고려
   * clobetasol propionate 0.05% <mark style="color:blue;">\[더모베이트]</mark>
   * 얼굴·간찰부에는 사용하지 않음
@@ -272,7 +272,7 @@ graph TD
 ### <mark style="color:orange;">난치성·만성 피부염</mark>
 
 * 원인 회피와 적절한 국소 치료에도 지속되는 중증 만성 손습진/광범위 피부염은 피부과 의뢰
-* delgocitinib cream(topical pan-JAK inhibitor) — 국소 corticosteroid에 반응이 불충분하거나 사용이 부적절한 성인의 중등증\~중증 **만성 손습진(chronic hand eczema; irritant, allergic, atopic 등 여러 원인·표현형이 포함될 수 있음)** 치료제. 2024년 EMA, 2025년 FDA 승인. **FDA 승인 용법: 2% cream을 손·손목 병변에 bid, 최대 30 g/2주 또는 60 g/월**. 국내 허가·유통·급여 여부는 처방 전 확인
+* delgocitinib cream(topical pan-JAK inhibitor) - 국소 corticosteroid에 반응이 불충분하거나 사용이 부적절한 성인의 중등증\~중증 **만성 손습진(chronic hand eczema; irritant, allergic, atopic 등 여러 원인·표현형이 포함될 수 있음)** 치료제. 2024년 EMA, 2025년 FDA 승인. **FDA 승인 용법: 2% cream을 손·손목 병변에 bid, 최대 30 g/2주 또는 60 g/월**. 국내 허가·유통·급여 여부는 처방 전 확인
 * dupilumab 등 생물학적제제는 표준 1차 치료가 아니며, 회피에도 반응하지 않는 **중증 난치성 ACD**에서 소규모 연구·증례 수준의 근거를 바탕으로 off-label 사용이 시도되고 있음(2026년 기준 대규모 RCT 근거는 부족)
 * phototherapy 또는 systemic therapy가 필요한 경우에는 원인·표현형·동반 아토피피부염 여부에 따라 전문적으로 선택
 * cyclosporine, methotrexate, azathioprine 등을 **단순 ACD/ICD의 일반적 단계상승 치료로 routine하게 사용하지 않음**
@@ -295,7 +295,7 @@ L25　상세불명의 접촉피부염
 >
 > ```
 > Hydrocortisone 2.5% lotion　[하티손로션2.5%]　환부에 얇게 도포  qd~bid ×5~7일
-> Cetirizine 10 ㎎/T　[지르텍]　1T  qd  prn — 의미 있는 가려움이 있는 경우
+> Cetirizine 10 ㎎/T　[지르텍]　1T  qd  prn - 의미 있는 가려움이 있는 경우
 > ```
 >
 > _✽경증 자극 접촉피부염은 원인 회피 및 보습만으로도 호전되는 경우가 많으며, 저역가 국소 steroid는 단기간만 사용_
@@ -346,7 +346,7 @@ L25　상세불명의 접촉피부염
 > **국소 corticosteroid, 부위·기간을 지켜 사용**
 >
 > * 처방된 역가와 기간을 초과하여 임의로 연장하지 않도록 안내
-> * 얼굴·눈꺼풀·간찰부는 저역가만, 짧은 기간만 사용 — 장기 사용 시 피부 위축, 모세혈관확장, 스테로이드 여드름 위험
+> * 얼굴·눈꺼풀·간찰부는 저역가만, 짧은 기간만 사용 - 장기 사용 시 피부 위축, 모세혈관확장, 스테로이드 여드름 위험
 > * 손바닥·발바닥 등 각질이 두꺼운 부위는 상대적으로 고역가가 필요할 수 있음을 설명
 
 > **원인 회피가 치료의 핵심**
@@ -370,9 +370,9 @@ L25　상세불명의 접촉피부염
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 적절한 회피·치료에도 증상이 지속·재발하거나, 초기부터 알레르기성·직업성 접촉피부염이 강하게 의심되는 경우
-> * 화농, 발열, 빠르게 번지는 홍반 등 이차 감염이 의심되는 경우 — 조기 내원
-> * 호흡곤란, 전신 두드러기 등 즉시형 알레르기 증상이 나타나는 경우 — 즉시 응급 평가
-> * 원인이 불분명한 채로 반복·재발하는 경우 — patch test를 위한 피부과 의뢰 논의
+> * 화농, 발열, 빠르게 번지는 홍반 등 이차 감염이 의심되는 경우 - 조기 내원
+> * 호흡곤란, 전신 두드러기 등 즉시형 알레르기 증상이 나타나는 경우 - 즉시 응급 평가
+> * 원인이 불분명한 채로 반복·재발하는 경우 - patch test를 위한 피부과 의뢰 논의
 
 ***
 
@@ -408,8 +408,8 @@ L25　상세불명의 접촉피부염
 * 숨쉬기가 힘들거나, 온몸에 두드러기가 퍼지거나, 어지러움을 느끼는 경우
 * 진물 부위가 노랗게 변하고 열이 나거나, 통증이 점점 심해지는 경우
 * 눈에 화학물질이 튄 경우
-* 치료에도 좋아지지 않거나 원인 모르게 반복되는 경우, 또는 직업·작업과 연관되어 반복되는 경우 — 알레르기 원인을 찾는 검사(patch test)를 상담하십시오.
-* 직업성 피부염 때문에 업무를 계속하기 어렵거나 보호조치만으로 노출을 피하기 어려운 경우 — 조기에 의료진과 작업 조정·전문의 의뢰를 상의하십시오.
+* 치료에도 좋아지지 않거나 원인 모르게 반복되는 경우, 또는 직업·작업과 연관되어 반복되는 경우 - 알레르기 원인을 찾는 검사(patch test)를 상담하십시오.
+* 직업성 피부염 때문에 업무를 계속하기 어렵거나 보호조치만으로 노출을 피하기 어려운 경우 - 조기에 의료진과 작업 조정·전문의 의뢰를 상의하십시오.
 
 ***
 
@@ -417,4 +417,4 @@ Ref. European Society of Contact Dermatitis (ESCD). Guideline for diagnostic pat
 Ref. European Society of Contact Dermatitis (ESCD). Guidelines for diagnosis, prevention and treatment of hand eczema. Contact Dermatitis. 2022.
 Ref. Diagnosis and management of contact dermatitis. American Family Physician. 2010;82(3).
 Ref. Contact dermatitis. Nature Reviews Disease Primers. 2021;7:38.
-Ref. Delgocitinib cream for chronic hand eczema — DELTA 1/2/3 trials; FDA approval, 2025; EMA approval, 2024.
+Ref. Delgocitinib cream for chronic hand eczema - DELTA 1/2/3 trials; FDA approval, 2025; EMA approval, 2024.

@@ -35,7 +35,7 @@ _<mark style="color:$info;">Ref. Evaluation of elbow pain in adults. AFP 2014;89
 
 #### <mark style="color:$primary;">기타 원인</mark>
 
-<table><thead><tr><th width="230">진단</th><th>병인 / 임상 양상 / 진단 검사</th><th width="250">치료</th></tr></thead><tbody><tr><td><strong>Distal biceps tendinopathy</strong></td><td>• 반복적인 팔꿈치 굴곡, 전완 회외/회내<br>• 애매한 통증(vague pain); antecubital fossa 전방 압통<br>• resisted supination 또는 굴곡 시 antecubital fossa 심부 통증 발생</td><td>• Rest, Ice; PT<br>• NSAID</td></tr><tr><td><strong>Distal biceps tendon rupture</strong></td><td>• 급격한 eccentric load 후 발생하는 "pop"음, ecchymosis, supination weakness<br>• hook test 양성(hooking 되지 않음)<sup>1)</sup></td><td>• Complete rupture 의심 시 조기 정형외과 의뢰 — 시간이 지나면 tendon retraction·scarring으로 일차 봉합이 어려워질 수 있으므로 수술 적응 환자에서는 진단·의뢰를 지연하지 않음<br>• Partial rupture는 개별 평가 후 보존적/수술적 치료 결정</td></tr><tr><td><strong>Olecranon bursitis (무균성)</strong></td><td>• minor trauma(예: 팔꿈치로 기댐), RA, gout<br>• olecranon의 boggy, cystic swelling; 만성 microtraumatic형에서는 대개 압통·홍반·열감이 뚜렷하지 않고 운동 범위 정상, 단 gout·RA 등 inflammatory aseptic bursitis에서는 국소 염증 소견이 나타날 수 있음<br>• 점액낭액 검사</td><td>• Ice, 압박 드레싱, 유발 동작 회피<br>• 지속적·증상성인 경우 선택적 흡인 고려; 감염을 충분히 배제한 난치성 사례에서 corticosteroid 주사를 제한적으로 고려할 수 있으나 피부 위축·감염 위험 설명<br>• 3개월 이상 충분한 보존적 치료에도 회복되지 않으면 bursectomy 고려<sup>3)</sup></td></tr><tr><td><strong>Olecranon bursitis (세균성)</strong></td><td>• abrasion, cellulitis 동반<br>• olecranon 부위 염증 소견; 전신 발열(약 50%에서 발생)<sup>2)</sup><br>• 점액낭액 검사(그람염색, 배양)</td><td>• 전신 항생제 신속 시작; 진단 확인 또는 배양이 필요한 경우 (가능하면 항생제 투여 전) 흡인 및 Gram stain/배양 시행; 전신독성, 광범위 cellulitis, 면역저하 등 중증 소견 시 입원/정주 항생제 평가</td></tr><tr><td><strong>Posterior impingement</strong></td><td>• 완전 신전 시 통증<br>• 영상 검사(연골골 검사)</td><td>• 불편한 동작 회피<br>• 무효 시 arthroscopic osteotomy</td></tr><tr><td><strong>Triceps tendinopathy</strong></td><td>• 반복적인 신전 동작(힘껏 미는 동작); resisted extension 시 통증<br>• triceps M. 부착부 압통</td><td>• Rest, Ice; PT<br>• NSAID</td></tr></tbody></table>
+<table><thead><tr><th width="230">진단</th><th>병인 / 임상 양상 / 진단 검사</th><th width="250">치료</th></tr></thead><tbody><tr><td><strong>Distal biceps tendinopathy</strong></td><td>• 반복적인 팔꿈치 굴곡, 전완 회외/회내<br>• 애매한 통증(vague pain); antecubital fossa 전방 압통<br>• resisted supination 또는 굴곡 시 antecubital fossa 심부 통증 발생</td><td>• Rest, Ice; PT<br>• NSAID</td></tr><tr><td><strong>Distal biceps tendon rupture</strong></td><td>• 급격한 eccentric load 후 발생하는 "pop"음, ecchymosis, supination weakness<br>• hook test 양성(hooking 되지 않음)<sup>1)</sup></td><td>• Complete rupture 의심 시 조기 정형외과 의뢰 - 시간이 지나면 tendon retraction·scarring으로 일차 봉합이 어려워질 수 있으므로 수술 적응 환자에서는 진단·의뢰를 지연하지 않음<br>• Partial rupture는 개별 평가 후 보존적/수술적 치료 결정</td></tr><tr><td><strong>Olecranon bursitis (무균성)</strong></td><td>• minor trauma(예: 팔꿈치로 기댐), RA, gout<br>• olecranon의 boggy, cystic swelling; 만성 microtraumatic형에서는 대개 압통·홍반·열감이 뚜렷하지 않고 운동 범위 정상, 단 gout·RA 등 inflammatory aseptic bursitis에서는 국소 염증 소견이 나타날 수 있음<br>• 점액낭액 검사</td><td>• Ice, 압박 드레싱, 유발 동작 회피<br>• 지속적·증상성인 경우 선택적 흡인 고려; 감염을 충분히 배제한 난치성 사례에서 corticosteroid 주사를 제한적으로 고려할 수 있으나 피부 위축·감염 위험 설명<br>• 3개월 이상 충분한 보존적 치료에도 회복되지 않으면 bursectomy 고려<sup>3)</sup></td></tr><tr><td><strong>Olecranon bursitis (세균성)</strong></td><td>• abrasion, cellulitis 동반<br>• olecranon 부위 염증 소견; 전신 발열(약 50%에서 발생)<sup>2)</sup><br>• 점액낭액 검사(그람염색, 배양)</td><td>• 전신 항생제 신속 시작; 진단 확인 또는 배양이 필요한 경우 (가능하면 항생제 투여 전) 흡인 및 Gram stain/배양 시행; 전신독성, 광범위 cellulitis, 면역저하 등 중증 소견 시 입원/정주 항생제 평가</td></tr><tr><td><strong>Posterior impingement</strong></td><td>• 완전 신전 시 통증<br>• 영상 검사(연골골 검사)</td><td>• 불편한 동작 회피<br>• 무효 시 arthroscopic osteotomy</td></tr><tr><td><strong>Triceps tendinopathy</strong></td><td>• 반복적인 신전 동작(힘껏 미는 동작); resisted extension 시 통증<br>• triceps M. 부착부 압통</td><td>• Rest, Ice; PT<br>• NSAID</td></tr></tbody></table>
 
 _¹⁾ hook test는 tendinopathy가 아닌 distal biceps tendon rupture(특히 complete rupture)를 평가하는 검사_\
 _²⁾ olecranon의 국소 홍반, 열감을 동반한 급성 부종에 대해 외상, 통풍 등도 감별 고려_\
@@ -291,10 +291,10 @@ G56.3 요골신경의 병변
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 수개월의 적절한 보존적 치료(활동 조절, 운동치료/PT, 필요 시 단기 진통제)에도 호전이 불충분한 경우 — 진단 재평가/의뢰 고려
-> * 관절이 갑자기 붓고 붉어지며 뜨겁고 심하게 아프거나 운동 범위가 제한되는 경우(발열 유무와 무관) — 당일 평가
+> * 수개월의 적절한 보존적 치료(활동 조절, 운동치료/PT, 필요 시 단기 진통제)에도 호전이 불충분한 경우 - 진단 재평가/의뢰 고려
+> * 관절이 갑자기 붓고 붉어지며 뜨겁고 심하게 아프거나 운동 범위가 제한되는 경우(발열 유무와 무관) - 당일 평가
 > * 손가락 저림, 감각 저하, 악력 약화가 진행하는 경우
-> * 외상 후 심한 변형, 움직일 수 없는 경우 — 즉시 내원
+> * 외상 후 심한 변형, 움직일 수 없는 경우 - 즉시 내원
 
 ***
 
@@ -326,7 +326,7 @@ G56.3 요골신경의 병변
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 팔꿈치가 심하게 붓거나 모양이 변한 경우 (특히 넘어지거나 다친 직후)
-* 팔꿈치가 갑자기 붓고 벌겋고 뜨거우면서 심하게 아프거나 잘 움직이지 못하는 경우 — 몸에 열이 없어도 평가가 필요합니다
+* 팔꿈치가 갑자기 붓고 벌겋고 뜨거우면서 심하게 아프거나 잘 움직이지 못하는 경우 - 몸에 열이 없어도 평가가 필요합니다
 * 손가락이 저리거나 힘이 빠지는 증상이 점점 심해지는 경우
 
 #### <mark style="color:$primary;">다시 진료를 받아야 하는 경우</mark>

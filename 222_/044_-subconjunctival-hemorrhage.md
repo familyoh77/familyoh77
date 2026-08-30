@@ -30,7 +30,7 @@
 "눈이 갑자기 빨개졌다"는 주소로 내원한 환자에서 아래 질환들의 감별이 필요\
 뚜렷한 통증, 시력 저하, 광과민이 있는 경우 다른 질환을 적극 감별; 경미한 이물감·자극감만 있는 경우는 SCH에서도 나타날 수 있음
 
-<table><thead><tr><th width="110">감별 질환</th><th width="155">충혈 양상</th><th width="170">SCH에는 없는 것</th><th>추가 감별 포인트</th></tr></thead><tbody><tr><td><strong>결막염</strong></td><td>전반적 미만성 충혈</td><td>분비물 없음, 가려움 없음</td><td>분비물·가려움 동반; 명확한 경계 없음</td></tr><tr><td><strong>상공막염</strong><br><strong>/공막염</strong></td><td>국소 자색(violet) 충혈</td><td>통증 없음</td><td>국소 압통; 공막염은 심한 안구통, 안구 운동 시 악화</td></tr><tr><td><strong>급성 폐쇄각</strong><br><strong>녹내장</strong></td><td>모양 충혈(ciliary flush)</td><td>두통 없음, 시력 저하 없음, 동공 이상 없음</td><td>심한 두통·구역, 동공 중등도 산대·반응 소실</td></tr><tr><td><strong>각막염</strong><br><strong>/포도막염</strong></td><td>모양 충혈(ciliary flush)</td><td>눈부심 없음, 시력 저하 없음</td><td>눈부심·눈물·시력 저하; 각막 혼탁 또는 전방 염증</td></tr><tr><td><strong>결막하 종양</strong><br><strong>/혈관종</strong></td><td>국소 융기성 병변</td><td>—</td><td>재발성; 경계 불규칙·융기; 항생제·경과 관찰에 무반응</td></tr></tbody></table>
+<table><thead><tr><th width="110">감별 질환</th><th width="155">충혈 양상</th><th width="170">SCH에는 없는 것</th><th>추가 감별 포인트</th></tr></thead><tbody><tr><td><strong>결막염</strong></td><td>전반적 미만성 충혈</td><td>분비물 없음, 가려움 없음</td><td>분비물·가려움 동반; 명확한 경계 없음</td></tr><tr><td><strong>상공막염</strong><br><strong>/공막염</strong></td><td>국소 자색(violet) 충혈</td><td>통증 없음</td><td>국소 압통; 공막염은 심한 안구통, 안구 운동 시 악화</td></tr><tr><td><strong>급성 폐쇄각</strong><br><strong>녹내장</strong></td><td>모양 충혈(ciliary flush)</td><td>두통 없음, 시력 저하 없음, 동공 이상 없음</td><td>심한 두통·구역, 동공 중등도 산대·반응 소실</td></tr><tr><td><strong>각막염</strong><br><strong>/포도막염</strong></td><td>모양 충혈(ciliary flush)</td><td>눈부심 없음, 시력 저하 없음</td><td>눈부심·눈물·시력 저하; 각막 혼탁 또는 전방 염증</td></tr><tr><td><strong>결막하 종양</strong><br><strong>/혈관종</strong></td><td>국소 융기성 병변</td><td>-</td><td>재발성; 경계 불규칙·융기; 항생제·경과 관찰에 무반응</td></tr></tbody></table>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -95,7 +95,7 @@ graph TD
 
 <p align="center">Sudden Red Eye 관리 알고리듬 </p>
 
-<p align="center"><em>경미한 이물감만 있는 경우는 SCH에서 가능 — 뚜렷한 통증·시력 저하·광과민이 없으면 의뢰 불필요</em><br><em>360° limbal 출혈, 심한 chemosis → 즉시 의뢰</em><br><em>수주~1개월 이내 재발 → 응고 검사 및 전신 원인 평가</em></p>
+<p align="center"><em>경미한 이물감만 있는 경우는 SCH에서 가능 - 뚜렷한 통증·시력 저하·광과민이 없으면 의뢰 불필요</em><br><em>360° limbal 출혈, 심한 chemosis → 즉시 의뢰</em><br><em>수주~1개월 이내 재발 → 응고 검사 및 전신 원인 평가</em></p>
 
 ***
 
@@ -139,10 +139,10 @@ S05.08 이물에 대한 언급이 없는 기타 결막찰과상 및 각막찰과
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 출혈과 함께 **눈의 통증** 또는 **시력 저하**가 동반되는 경우 — 즉시 내원
+> * 출혈과 함께 **눈의 통증** 또는 **시력 저하**가 동반되는 경우 - 즉시 내원
 > * 소량 출혈이 **1주, 대량 출혈이 3주가 지나도 흡수되지 않는** 경우
 > * 결막하출혈이 **반복적으로 재발**하는 경우 (특히 **수주\~1개월 이내 재발 시** 응고 검사 필요)
-> * 출혈 부위가 **결막 전체를 둘러싸거나 결막이 부풀어 오르는** 경우 — 즉시 내원
+> * 출혈 부위가 **결막 전체를 둘러싸거나 결막이 부풀어 오르는** 경우 - 즉시 내원
 
 ***
 

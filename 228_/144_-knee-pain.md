@@ -21,7 +21,7 @@
 #### <mark style="color:$primary;">위험 인자</mark>
 
 * 비만
-* 여성 — knee OA, patellofemoral pain, ACL injury 등 일부 질환에서 위험 증가
+* 여성 - knee OA, patellofemoral pain, ACL injury 등 일부 질환에서 위험 증가
 * 낮은 유연성
 * malalignment
 * 과거의 손상
@@ -30,7 +30,7 @@
 * 부적당한 운동 방법
 * 많거나 무리한 운동량, 빈도 증가
 * 무리한 활동 : 점프, 회전, 가속, 감속, 무릎 구부림\
-  ✽중등도의 규칙적 신체 활동군과 비활동군을 비교한 코호트에서 knee OA 발생 위험도에 유의한 차이가 없었다는 보고가 있음 — 적절한 강도의 운동 자체가 OA 위험을 높이지는 않음
+  ✽중등도의 규칙적 신체 활동군과 비활동군을 비교한 코호트에서 knee OA 발생 위험도에 유의한 차이가 없었다는 보고가 있음 - 적절한 강도의 운동 자체가 OA 위험을 높이지는 않음
 
 ***
 
@@ -47,10 +47,10 @@
 
 * 급성 외상 후 뚜렷한 관절 불안정성(인대 완전 파열 의심)
 * Ottawa knee rule 양성 소견(골절 배제를 위한 영상 검사 필요)
-* 소아·청소년의 외상 후 관절 통증 — Salter-Harris physeal fracture 배제 필요
-* 급속히 진행하는 큰 관절 혈종(hemarthrosis) — ACL 손상, 슬개골 탈구, 경골 고평부 골절 의심
+* 소아·청소년의 외상 후 관절 통증 - Salter-Harris physeal fracture 배제 필요
+* 급속히 진행하는 큰 관절 혈종(hemarthrosis) - ACL 손상, 슬개골 탈구, 경골 고평부 골절 의심
 * 급성 단측 하지 또는 종아리 부종·통증·열감/발적, DVT 위험 인자 동반(phlegmasia·폐색전증 시사 소견은 없음) → 심부정맥혈전증 의심; Wells score 저위험군은 D-dimer 음성으로 배제 가능하나, 중등도 이상 위험군에서는 D-dimer 단독으로 배제하지 않고 압박초음파 시행; Baker cyst 파열과 감별
-* 외상 후 지속적으로 완전 신전이 되지 않는 true locked knee(displaced meniscal tear·관절 유리체 등 의심) — 통증으로 인해 일시적으로 움직이지 못하는 pseudolocking과 감별 필요 → 조기 정형외과 평가
+* 외상 후 지속적으로 완전 신전이 되지 않는 true locked knee(displaced meniscal tear·관절 유리체 등 의심) - 통증으로 인해 일시적으로 움직이지 못하는 pseudolocking과 감별 필요 → 조기 정형외과 평가
 * 야간통·체중 감소 등 전신 증상을 동반한 지속적 통증 → 종양 의심
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
@@ -120,7 +120,7 @@
 #### <mark style="color:$primary;">Valgus\[Varus] stress test</mark>
 
 * 방법 : 한 손으로 tibia 원위부 안쪽\[바깥쪽]을 잡고, 다른 손으로 무릎 바깥쪽\[안쪽]을 잡아 무릎에 내측\[외측]으로 압력을 가함, 무릎 신전 및 30° 굴곡(unlocked) 상태에서 각각 시행; 정상보다 많이 움직이거나 명확한 endpoint 없이 움직이면 양성(반대쪽과 비교) ([valgus test](https://www.youtube.com/watch?v=GSFbttpxCuQ), [varus test](https://www.youtube.com/watch?v=sg1gk6QKARw))
-* 관련 상태 : valgus stress test 양성 — MCL 손상; varus stress test 양성 — LCL 손상
+* 관련 상태 : valgus stress test 양성 - MCL 손상; varus stress test 양성 - LCL 손상
 
 #### <mark style="color:$primary;">McMurray test</mark>
 
@@ -130,12 +130,12 @@
 #### <mark style="color:$primary;">Thessaly test</mark>
 
 * 방법 : 약 20° 무릎 굴곡 상태에서 환자가 한 발로 서서 몸통과 무릎을 내·외회전시킴; joint-line pain, catching, locking감이 재현되면 양성
-* 관련 상태 : meniscal tear 의심 — 초기 연구는 높은 정확도를 보고했으나 이후 독립적 검증 연구에서는 재현되지 않아(민감도 약 0.6\~0.66, 특이도 약 0.4\~0.53) McMurray test·관절선 압통과 함께 보조적으로 해석하며 단독으로 확진·배제하지 않음; 급성 통증·불안정이 심하면 시행이 어려울 수 있음
+* 관련 상태 : meniscal tear 의심 - 초기 연구는 높은 정확도를 보고했으나 이후 독립적 검증 연구에서는 재현되지 않아(민감도 약 0.6\~0.66, 특이도 약 0.4\~0.53) McMurray test·관절선 압통과 함께 보조적으로 해석하며 단독으로 확진·배제하지 않음; 급성 통증·불안정이 심하면 시행이 어려울 수 있음
 
 #### <mark style="color:$primary;">Clarke's test (Patellar grind test)</mark>
 
 * [방법](https://www.youtube.com/watch?v=Y3mKHgg6JoU) : 무릎을 펴게 하고 슬개골 바로 위에 손의 web space를 위치시켜 하방으로 약간의 압력을 가한 상태에서 환자가 quadriceps를 수축시킴; patellofemoral joint에 통증 발생 시 양성(양측 비교)
-* 관련 상태 : PFPS, OA — 단, PFPS를 단독으로 확진하거나 배제하기에는 진단 정확도가 낮아 보조적으로 해석
+* 관련 상태 : PFPS, OA - 단, PFPS를 단독으로 확진하거나 배제하기에는 진단 정확도가 낮아 보조적으로 해석
 
 #### <mark style="color:$primary;">Ober test</mark>
 
@@ -190,14 +190,14 @@
 #### <mark style="color:$primary;">발병 양상(Onset, Duration)</mark>
 
 * 급성 외상성 : 골절, 타박, 인대 손상, 반월연골 손상, 슬개골 탈구/아탈구
-* 급성 비외상성 염증성 단관절염 : septic arthritis, gout, CPPD, 골수염 — 발열·오한 등 전신 증상이 있으면 감염 가능성이 높아지지만, 없다고 septic arthritis를 배제할 수 없음
+* 급성 비외상성 염증성 단관절염 : septic arthritis, gout, CPPD, 골수염 - 발열·오한 등 전신 증상이 있으면 감염 가능성이 높아지지만, 없다고 septic arthritis를 배제할 수 없음
 * 잠행성 : OA, PFPS, chondromalacia, iliotibial band syndrome, RA, 점액낭염, tendinopathy, loose body, bipartite patella, 퇴행성 반월연골 파열, 종양
 
 #### <mark style="color:$primary;">손상 기전</mark>
 
 * 무릎 굴곡 상태에서 전방 근위 경골에 후방으로 향하는 힘이 가해져 tibia가 femur에 대해 posterior translation됨(예: 넘어짐, dashboard injury) : PCL 손상
 * 과신전 : ACL, PCL 손상
-* 측면 충격 : valgus load(예: 운동 중 외측면 가격) — MCL 손상; varus load — LCL 손상
+* 측면 충격 : valgus load(예: 운동 중 외측면 가격) - MCL 손상; varus load - LCL 손상
 * 서 있는 자세에서의 회전, 급작스러운 방향 전환 : 반월연골 손상
 * 급작스러운 감속, cutting, 회전 : ACL 손상
 
@@ -222,12 +222,12 @@
 
 #### <mark style="color:$primary;">질환별 특징</mark>
 
-<table><thead><tr><th width="180">질환</th><th width="230">병력</th><th width="260">신체검사</th><th>실험실 검사</th></tr></thead><tbody><tr><td>만성 염증성 관절염(예: RA)</td><td>지속적인 조조강직(흔히 30~60분 이상) 및 다관절성 염증 증상</td><td>여러 관절의 부종 또는 압통(다관절성)</td><td>ESR/CRP 상승, RF/anti-CCP 양성 가능</td></tr><tr><td>통풍 또는 가성통풍</td><td>급성 발생, 호발 관절(제1중족지, 무릎 등) 침범 과거력</td><td>관절의 심한 부종·발적·압통</td><td>관절액 결정 확인(요산나트륨/CPPD), 백혈구 증가</td></tr><tr><td>고관절염(연관통)</td><td>고관절 회전 시 무릎으로 방사되는 통증</td><td>고관절 회전 시 통증, 서혜부 압통</td><td>—</td></tr><tr><td>PFPS</td><td>상대적으로 젊은 나이, squatting·계단·오래 앉기 등에서 악화되는 retropatellar/peripatellar pain</td><td>슬개대퇴 관절 위 압통</td><td>—</td></tr><tr><td>Anserine bursitis</td><td>—</td><td>관절선보다 원위부인 관절선 하방 2~5 cm 근위 경골 내측 압통(관절선 자체의 압통과 감별)</td><td>—</td></tr><tr><td>Trochanteric bursitis</td><td>엉덩이 외측 통증</td><td>대퇴골 대전자 부위 압통</td><td>—</td></tr><tr><td>Iliotibial band syndrome</td><td>—</td><td>장경인대 부위 압통, Ober test 양성</td><td>—</td></tr><tr><td>골 병변(종양, 골수염 등)</td><td>야간통 또는 지속적 통증, 체중 감소 등 전신 증상 동반 가능</td><td>국소 압통, 종괴 촉지 가능</td><td>ESR/CRP 상승 가능, 영상 검사상 이상 소견</td></tr><tr><td>Meniscal tear</td><td>물리적 증상 우세(knee buckling 또는 locking)</td><td>무릎 관절선 압통, McMurray test 양성</td><td>MRI에서 반월연골 손상 소견</td></tr><tr><td>ACL tear</td><td>급격한 감속·착지·회전·직접 충격; 손상 당시 "펑" 소리</td><td>Lachman test 양성(가장 민감), anterior drawer test·pivot shift test 양성</td><td>MRI에서 전방십자인대 손상 소견</td></tr></tbody></table>
+<table><thead><tr><th width="180">질환</th><th width="230">병력</th><th width="260">신체검사</th><th>실험실 검사</th></tr></thead><tbody><tr><td>만성 염증성 관절염(예: RA)</td><td>지속적인 조조강직(흔히 30~60분 이상) 및 다관절성 염증 증상</td><td>여러 관절의 부종 또는 압통(다관절성)</td><td>ESR/CRP 상승, RF/anti-CCP 양성 가능</td></tr><tr><td>통풍 또는 가성통풍</td><td>급성 발생, 호발 관절(제1중족지, 무릎 등) 침범 과거력</td><td>관절의 심한 부종·발적·압통</td><td>관절액 결정 확인(요산나트륨/CPPD), 백혈구 증가</td></tr><tr><td>고관절염(연관통)</td><td>고관절 회전 시 무릎으로 방사되는 통증</td><td>고관절 회전 시 통증, 서혜부 압통</td><td>-</td></tr><tr><td>PFPS</td><td>상대적으로 젊은 나이, squatting·계단·오래 앉기 등에서 악화되는 retropatellar/peripatellar pain</td><td>슬개대퇴 관절 위 압통</td><td>-</td></tr><tr><td>Anserine bursitis</td><td>-</td><td>관절선보다 원위부인 관절선 하방 2~5 cm 근위 경골 내측 압통(관절선 자체의 압통과 감별)</td><td>-</td></tr><tr><td>Trochanteric bursitis</td><td>엉덩이 외측 통증</td><td>대퇴골 대전자 부위 압통</td><td>-</td></tr><tr><td>Iliotibial band syndrome</td><td>-</td><td>장경인대 부위 압통, Ober test 양성</td><td>-</td></tr><tr><td>골 병변(종양, 골수염 등)</td><td>야간통 또는 지속적 통증, 체중 감소 등 전신 증상 동반 가능</td><td>국소 압통, 종괴 촉지 가능</td><td>ESR/CRP 상승 가능, 영상 검사상 이상 소견</td></tr><tr><td>Meniscal tear</td><td>물리적 증상 우세(knee buckling 또는 locking)</td><td>무릎 관절선 압통, McMurray test 양성</td><td>MRI에서 반월연골 손상 소견</td></tr><tr><td>ACL tear</td><td>급격한 감속·착지·회전·직접 충격; 손상 당시 "펑" 소리</td><td>Lachman test 양성(가장 민감), anterior drawer test·pivot shift test 양성</td><td>MRI에서 전방십자인대 손상 소견</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Felson DT. Clinical practice. Osteoarthritis of the knee. N Engl J Med 2006;354:841-8.</mark>_
 
 {% hint style="info" %}
-**ACL tear — 대표적 급성 무릎 손상의 예**\
+**ACL tear - 대표적 급성 무릎 손상의 예**\
 급격한 감속·착지·회전이나 직접 충격으로 발생하며, 여성이 남성보다 약 3배 호발하고 16\~18세 청소년기에 특히 흔함. 급성기에는 심한 통증·부종과 함께 손상 당시 "펑" 소리를 느끼는 경우가 많고, 만성기에는 불안정감과 함께 고관절·슬관절을 완전히 펴지 않고 걷는 quadriceps avoidance gait가 나타날 수 있음. Lachman test가 가장 민감한 검사이며, 병력과 신체검사만으로도 임상적 진단이 가능함; 진단이 불확실하거나 동반 손상(반월연골·연골·다른 인대) 평가 및 수술 계획이 필요한 경우 MRI를 시행함. 치료는 활동 수준·연령·동반 손상에 따라 보존적 치료 또는 재건술을 고려하며, 수술적 재건 후 스포츠 복귀까지 보통 9\~12개월이 소요됨 (☞ 정형외과 의뢰).
 {% endhint %}
 
@@ -275,10 +275,10 @@ graph TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 환자 교육 및 self-management 지원 — 질환 경과와 치료 목표에 대한 이해를 높임
+* 환자 교육 및 self-management 지원 - 질환 경과와 치료 목표에 대한 이해를 높임
 * 규칙적인 운동 및 근력 강화 : OA 비약물 치료의 핵심 축[ACR/AF 2019, AAOS 2021]; 지나친 운동은 피하며 스트레칭, 요가, 필라테스, 수중운동 등 유연성·균형 운동 병행
 * 과체중·비만인 경우 체중 감량 : 5\~10% 이상 감량 시 통증·기능에 유의한 호전 보고(IDEA trial, JAMA 2013)
-* bracing(안정이 필요한 경우), 지팡이 사용 — 통증·기능 개선에 도움 [AAOS 2021]
+* bracing(안정이 필요한 경우), 지팡이 사용 - 통증·기능 개선에 도움 [AAOS 2021]
 * 생활 환경 조절 : 높은 의자, 변기 좌석 높이기 사용
 
 ***
@@ -289,7 +289,7 @@ _✽아래 용량은 대표적 예시이며, 실제 처방은 환자의 연령·
 
 ### <mark style="color:orange;">경구제</mark>
 
-* acetaminophen : 650\~1,000 ㎎ tid prn <mark style="color:blue;">\[타이레놀]</mark> — knee OA에서는 일반적으로 최대 3,000 ㎎/day; 간질환·과음·고령 등에서는 더 낮은 용량 고려; 8시간 지속형 서방정 사용 시 <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark> 650 ㎎/T 2T q8h(24시간 6T 초과 금지) 용법을 따름(2018년 허가사항 개정으로 제품명에 '8시간' 표기가 추가됨)
+* acetaminophen : 650\~1,000 ㎎ tid prn <mark style="color:blue;">\[타이레놀]</mark> - knee OA에서는 일반적으로 최대 3,000 ㎎/day; 간질환·과음·고령 등에서는 더 낮은 용량 고려; 8시간 지속형 서방정 사용 시 <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark> 650 ㎎/T 2T q8h(24시간 6T 초과 금지) 용법을 따름(2018년 허가사항 개정으로 제품명에 '8시간' 표기가 추가됨)
 * ibuprofen : 200\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * naproxen : 250 ㎎ tid\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
 * celecoxib : OA에 적용, 상대적으로 적은 GI 부작용; 200 ㎎ qd <mark style="color:blue;">\[쎄레브렉스]</mark>
@@ -298,7 +298,7 @@ _✽아래 용량은 대표적 예시이며, 실제 처방은 환자의 연령·
 
 {% hint style="info" %}
 **보조 요법(강황, 생강 추출물, glucosamine, chondroitin, Vit D)**\
-경도\~중등도 knee OA에서 통증 감소·기능 향상에 도움이 될 수 있다는 보고가 있으나 근거가 일관되지 않음. AAOS(2021)는 "도움이 될 수 있는 보조 옵션"으로 조건부 언급하는 반면, ACR/Arthritis Foundation(2019)은 glucosamine·chondroitin(단독 또는 병합)의 사용을 **강력히 권고하지 않음** — 가이드라인 간 근거·권고가 상반되므로, **사용 전 환자와 기대 효과·비용·근거의 한계에 대해 충분히 상의**한 후 결정
+경도\~중등도 knee OA에서 통증 감소·기능 향상에 도움이 될 수 있다는 보고가 있으나 근거가 일관되지 않음. AAOS(2021)는 "도움이 될 수 있는 보조 옵션"으로 조건부 언급하는 반면, ACR/Arthritis Foundation(2019)은 glucosamine·chondroitin(단독 또는 병합)의 사용을 **강력히 권고하지 않음** - 가이드라인 간 근거·권고가 상반되므로, **사용 전 환자와 기대 효과·비용·근거의 한계에 대해 충분히 상의**한 후 결정
 {% endhint %}
 
 {% hint style="warning" %}
@@ -322,9 +322,9 @@ _✽아래 용량은 대표적 예시이며, 실제 처방은 환자의 연령·
 (☞ [골관절염](135_-osteoarthritis-oa.md#undefined-32))
 
 * steroid 관절 내 주사 : 단기 통증 완화 효과. 반복 주사의 적정 횟수에 대한 확립된 근거는 없으며 잦은 장기 반복은 피함. 이 책에서는 **보수적 실무 기준으로 동일 관절 연 2회 이내**를 원칙으로 제시하되, 가이드라인에서 정한 절대적 상한은 아님 <mark style="color:blue;">\[트리암시놀론]</mark>
-* hyaluronic acid(HA) 관절 내 주사(viscosupplementation) : OA에서 통증 감소·기능 향상 보고가 있으나, knee OA 환자에서의 일률적 사용은 권고하지 않음 [AAOS 2021]; ACR/AF(2019)도 사용에 조건부 반대 — **표준 1차 치료로 확립된 것은 아니므로 개별 상담 후 선택** <mark style="color:blue;">\[히루안 플러스]</mark>(1회/주 ×3주), <mark style="color:blue;">\[시노비안 주]</mark>
+* hyaluronic acid(HA) 관절 내 주사(viscosupplementation) : OA에서 통증 감소·기능 향상 보고가 있으나, knee OA 환자에서의 일률적 사용은 권고하지 않음 [AAOS 2021]; ACR/AF(2019)도 사용에 조건부 반대 - **표준 1차 치료로 확립된 것은 아니므로 개별 상담 후 선택** <mark style="color:blue;">\[히루안 플러스]</mark>(1회/주 ×3주), <mark style="color:blue;">\[시노비안 주]</mark>
 * polynucleotide(PN) 관절 내 주사 : Kellgren-Lawrence grade I\~III의 슬관절 골관절염에 사용. 급여 인정 횟수, 타 관절강내 주사제·치료재료와의 동시 투여 제한 및 본인부담률은 관련 고시의 집행정지 등으로 변경될 수 있으므로 **처방 시 최신 HIRA 급여기준 확인** <mark style="color:blue;">\[콘쥬란]</mark>
-* platelet-rich plasma(PRP) 관절 내 주사 : symptomatic knee OA에서 통증·기능 개선에 도움이 될 수 있으나 제제(leukocyte-rich vs -poor)·제조법과 연구 간 이질성이 큼. **AAOS 2021은 제한적 근거(Limited recommendation)로 긍정적 권고**를 제시하나, ACR/AF 2019는 표준화 부족 등을 이유로 강하게 반대하여 가이드라인 간 견해가 상이함 — **표준 치료가 아니므로 시행 전 개별 상담 필요**
+* platelet-rich plasma(PRP) 관절 내 주사 : symptomatic knee OA에서 통증·기능 개선에 도움이 될 수 있으나 제제(leukocyte-rich vs -poor)·제조법과 연구 간 이질성이 큼. **AAOS 2021은 제한적 근거(Limited recommendation)로 긍정적 권고**를 제시하나, ACR/AF 2019는 표준화 부족 등을 이유로 강하게 반대하여 가이드라인 간 견해가 상이함 - **표준 치료가 아니므로 시행 전 개별 상담 필요**
 * botulinum toxin A 연조직 내 주사 : 일부 PFPS에서 유효 보고
 
 ### <mark style="color:orange;">무릎 OA 약물·시술에 대한 주요 가이드라인 권고 비교</mark>
@@ -369,7 +369,7 @@ S83 무릎의 관절 및 인대의 탈구, 염좌 및 긴장
 >
 > _✽큰 관절 삼출, 뚜렷한 불안정성 또는 수술적 치료가 필요한 인대·반월연골 손상이 의심되고 검사 결과가 치료 방침을 바꿀 경우 MRI 및 정형외과 의뢰를 고려; tramadol/opioid는 효과 대비 위해·의존 및 지속 사용 위험 때문에 일상적 1차 치료로 권고하지 않음_
 
-> **처방례 3. 만성 슬관절염(OA), 경도\~중등도 — 국소 치료 우선**
+> **처방례 3. 만성 슬관절염(OA), 경도\~중등도 - 국소 치료 우선**
 >
 > ```
 > 케토톱 엘 플라스타 7매/포  1일 1회 부착
@@ -423,9 +423,9 @@ S83 무릎의 관절 및 인대의 탈구, 염좌 및 긴장
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 발열 유무와 관계없이 갑자기 무릎이 심하게 붓고 아프며 움직이기 어렵거나 체중을 싣기 힘든 경우 — 즉시 내원
-> * 무릎을 완전히 펴거나 구부릴 수 없는 경우(감돈 의심) — 즉시 내원
-> * 다리에 힘이 빠지거나 감각이 이상해지는 경우, 발이 창백해지거나 맥박이 약해지는 경우 — 즉시 내원
+> * 발열 유무와 관계없이 갑자기 무릎이 심하게 붓고 아프며 움직이기 어렵거나 체중을 싣기 힘든 경우 - 즉시 내원
+> * 무릎을 완전히 펴거나 구부릴 수 없는 경우(감돈 의심) - 즉시 내원
+> * 다리에 힘이 빠지거나 감각이 이상해지는 경우, 발이 창백해지거나 맥박이 약해지는 경우 - 즉시 내원
 > * 보존적 치료 4\~6주 후에도 통증·기능 제한이 호전되지 않는 경우
 
 ***

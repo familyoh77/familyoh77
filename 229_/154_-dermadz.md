@@ -44,9 +44,9 @@ _✽Petechiae/purpura/ecchymosis의 크기 경계는 문헌에 따라 다르므�
 
 ## <mark style="color:green;">색소성 병변에서 melanoma를 의심하는 ABCDE</mark>
 
-* **A — Asymmetry** : 비대칭
-* **B — Border irregularity** : 불규칙하거나 불명확한 경계
-* **C — Color variation** : 하나의 병소 안에 여러 색조가 섞이거나 색이 불균일
-* **D — Diameter** : ＞6 ㎜이면 의심도가 증가하지만, ≤6 ㎜라고 melanoma가 배제되는 것은 아님
-* **E — Evolving** : 크기·모양·색·표면 또는 증상이 시간에 따라 변화
-* **Ugly duckling sign** : 환자의 다른 모반들과 형태·색조가 뚜렷이 달라 "튀어 보이는" 병소 — 개별 병소가 ABCDE 기준을 뚜렷이 충족하지 않아도 악성 감별을 위한 조직검사·전문의 의뢰를 고려할 근거가 됨
+* **A - Asymmetry** : 비대칭
+* **B - Border irregularity** : 불규칙하거나 불명확한 경계
+* **C - Color variation** : 하나의 병소 안에 여러 색조가 섞이거나 색이 불균일
+* **D - Diameter** : ＞6 ㎜이면 의심도가 증가하지만, ≤6 ㎜라고 melanoma가 배제되는 것은 아님
+* **E - Evolving** : 크기·모양·색·표면 또는 증상이 시간에 따라 변화
+* **Ugly duckling sign** : 환자의 다른 모반들과 형태·색조가 뚜렷이 달라 "튀어 보이는" 병소 - 개별 병소가 ABCDE 기준을 뚜렷이 충족하지 않아도 악성 감별을 위한 조직검사·전문의 의뢰를 고려할 근거가 됨

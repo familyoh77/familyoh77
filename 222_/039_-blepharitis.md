@@ -229,15 +229,15 @@ H01.0 안검염
 >
 > 📹 **참고 동영상 (AAO)**
 >
-> * [눈꺼풀 세척법 — What can I do about blepharitis? (AAO, 영어)](https://www.aao.org/eye-health/ask-ophthalmologist-q/what-can-i-do-about-blepharitis-video-answer)
-> * [안검염이란? — What Is Blepharitis? (AAO 환자교육 페이지, 영어)](https://www.aao.org/eye-health/diseases/what-is-blepharitis)
+> * [눈꺼풀 세척법 - What can I do about blepharitis? (AAO, 영어)](https://www.aao.org/eye-health/ask-ophthalmologist-q/what-can-i-do-about-blepharitis-video-answer)
+> * [안검염이란? - What Is Blepharitis? (AAO 환자교육 페이지, 영어)](https://www.aao.org/eye-health/diseases/what-is-blepharitis)
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 2주간 치료 후에도 증상이 호전되지 않는 경우
-> * 눈이 충혈되면서 **시력이 흐려지거나 떨어지는** 경우 — 즉시 내원
-> * **심한 눈의 통증** 또는 강한 눈부심이 동반되는 경우 — 즉시 내원
-> * 눈꺼풀 병변이 한쪽만 악화되거나, 궤양·출혈이 생기는 경우 — 조기 내원
+> * 눈이 충혈되면서 **시력이 흐려지거나 떨어지는** 경우 - 즉시 내원
+> * **심한 눈의 통증** 또는 강한 눈부심이 동반되는 경우 - 즉시 내원
+> * 눈꺼풀 병변이 한쪽만 악화되거나, 궤양·출혈이 생기는 경우 - 조기 내원
 
 ***
 
@@ -273,8 +273,8 @@ H01.0 안검염
 
 #### <mark style="color:$primary;">눈꺼풀 세척법을 영상으로 확인하세요</mark>
 
-* 📹 [What can I do about blepharitis? — AAO 안검염 치료 동영상 (영어)](https://www.aao.org/eye-health/ask-ophthalmologist-q/what-can-i-do-about-blepharitis-video-answer)
-* 📄 [What Is Blepharitis? — AAO 안검염 환자 교육 페이지 (영어)](https://www.aao.org/eye-health/diseases/what-is-blepharitis)
+* 📹 [What can I do about blepharitis? - AAO 안검염 치료 동영상 (영어)](https://www.aao.org/eye-health/ask-ophthalmologist-q/what-can-i-do-about-blepharitis-video-answer)
+* 📄 [What Is Blepharitis? - AAO 안검염 환자 교육 페이지 (영어)](https://www.aao.org/eye-health/diseases/what-is-blepharitis)
 
 #### <mark style="color:$primary;">약은 어떻게 사용하나요?</mark>
 

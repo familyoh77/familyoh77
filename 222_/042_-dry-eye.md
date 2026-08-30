@@ -251,7 +251,7 @@ graph TD
 ### <mark style="color:orange;">인공 눈물, 윤활제</mark>
 
 * 1차 선택제 (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0013))
-* 사용 빈도 : 경증 — 증상 시 필요에 따라 사용; 중등도 이상 — 규칙적 사용(qid 이상) 권장
+* 사용 빈도 : 경증 - 증상 시 필요에 따라 사용; 중등도 이상 - 규칙적 사용(qid 이상) 권장
 * 경증 눈마름증에 대하여 필요시 사용
 * 정확한 점안 시 한쪽 눈에 한 방울로 충분
 * 1일 6\~7회 이상 사용 또는 렌즈 착용 중에는 무방부제 제품 사용\
@@ -275,7 +275,7 @@ graph TD
 #### <mark style="color:$primary;">지질층 보충 / 증발 방지 (EDE/MGD에 특히 적합)</mark>
 
 * anhydrous liquid lanolin (취침 전 연고) <mark style="color:blue;">\[듀라티얼즈 안연고]</mark>
-* perfluorohexyloctane (PFHO) : 반불소화 알케인(semifluorinated alkane); tear film 지질층을 직접 보충하여 눈물 증발을 억제하는 최초 처방 기전; 수분·방부제 불포함, qid; phase 3 RCT(GOBI·MOJAVE)에서 증상·징후 모두 유의미한 개선; FDA 승인(2023); 제품명 <mark style="color:blue;">미에보</mark>(Miebo) — 국내 도입 진행 중 (보험·가용성 확인 필요)
+* perfluorohexyloctane (PFHO) : 반불소화 알케인(semifluorinated alkane); tear film 지질층을 직접 보충하여 눈물 증발을 억제하는 최초 처방 기전; 수분·방부제 불포함, qid; phase 3 RCT(GOBI·MOJAVE)에서 증상·징후 모두 유의미한 개선; FDA 승인(2023); 제품명 <mark style="color:blue;">미에보</mark>(Miebo) - 국내 도입 진행 중 (보험·가용성 확인 필요)
 
 #### <mark style="color:$primary;">Mucin Secretagogue</mark>
 
@@ -328,7 +328,7 @@ graph TD
 * 대상 : 2차 감염, MGD, rosacea, blepharitis
 * 국소 항생제 (☞ [안과계 약제](ophthalmic-medications.md#undefined-10))
 * 전신 항생제 : doxycycline 40\~50 ㎎ qd (sub-antimicrobial dose), 3\~4개월 <mark style="color:blue;">\[독시사이클린]</mark>\
-  ✽항염·항균 이중 작용; MGD 동반 rosacea/blepharitis에서 특히 유효; bid는 항균 용량으로 부작용 증가 가능 — MGD/rosacea에서는 qd 유지
+  ✽항염·항균 이중 작용; MGD 동반 rosacea/blepharitis에서 특히 유효; bid는 항균 용량으로 부작용 증가 가능 - MGD/rosacea에서는 qd 유지
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -407,7 +407,7 @@ H04.9 눈물계통의 상세불명 장애
 > * 개봉 후 4주가 지난 점안액은 오염 우려가 있으므로 사용하지 마십시오.
 > * 취침 전 안연고를 사용하는 경우, 소량(약 0.5 cm)을 아래 결막낭에 도포하십시오. 기상 직후 일시적인 시야 흐림이 있을 수 있으나 정상적인 반응입니다.
 
-> **MGD 동반 시 — 눈꺼풀 온찜질 방법**
+> **MGD 동반 시 - 눈꺼풀 온찜질 방법**
 >
 > 1. 깨끗한 수건을 40\~43°C 따뜻한 물(뜨겁지 않은 정도)에 적십니다.
 > 2. 눈을 감고 눈꺼풀 위에 5\~10분간 얹어 둡니다. 1일 1\~2회 시행합니다.
@@ -424,9 +424,9 @@ H04.9 눈물계통의 상세불명 장애
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 인공 눈물 사용에도 4\~6주 이내에 증상이 호전되지 않는 경우
-> * 눈의 충혈과 함께 **시력이 갑자기 저하되거나 흐려지는** 경우 — 즉시 내원
-> * **심한 눈의 통증**이 동반되는 경우 — 즉시 내원
-> * 스테로이드 안약 사용 중 증상이 오히려 악화되는 경우 — 즉시 내원
+> * 눈의 충혈과 함께 **시력이 갑자기 저하되거나 흐려지는** 경우 - 즉시 내원
+> * **심한 눈의 통증**이 동반되는 경우 - 즉시 내원
+> * 스테로이드 안약 사용 중 증상이 오히려 악화되는 경우 - 즉시 내원
 
 ***
 

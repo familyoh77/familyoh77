@@ -212,7 +212,7 @@ graph TD
 * 오염된 수영장·온수욕조 사용을 중단하고 냉·습포 등 대증치료
   * 희석 acetic acid compress는 증상 완화 목적으로 선택적으로 고려할 수 있음
 * 지속되거나 중증인 경우, 면역저하 또는 전신 증상이 동반되는 경우 배양검사 및 감수성에 따른 항녹농균 치료를 고려
-  * ciprofloxacin : 500\~750 ㎎ bid ×7\~14d <mark style="color:blue;">\[씨프로바이]</mark> — 선택적 사용
+  * ciprofloxacin : 500\~750 ㎎ bid ×7\~14d <mark style="color:blue;">\[씨프로바이]</mark> - 선택적 사용
 
 #### <mark style="color:$primary;">여드름 환자의 Gram-negative folliculitis</mark>
 
@@ -237,7 +237,7 @@ graph TD
 
 * 진단이 불확실하면 rosacea, perioral dermatitis 등과 감별
 * permethrin 5% : 이환부 도포 후 세척 <mark style="color:blue;">\[오메크린 크림]</mark>(../%EB%B9%84%EB%B3%B4%ED%97%98/)
-* topical ivermectin 1% <mark style="color:blue;">[수란트라크림]</mark>을 고려할 수 있음 — Demodex folliculitis에는 off-label
+* topical ivermectin 1% <mark style="color:blue;">[수란트라크림]</mark>을 고려할 수 있음 - Demodex folliculitis에는 off-label
 * 경구 ivermectin은 표준화된 단일 regimen이 확립되어 있지 않으므로 routine으로 제시하지 않으며, 중증·난치성 또는 진단이 불확실한 경우 피부과 진료를 권고
 
 ### <mark style="color:orange;">HSV/VZV folliculitis</mark>
@@ -253,7 +253,7 @@ L73　기타 모낭장애
 
 L73.1　수염 거짓모낭염(pseudofolliculitis barbae)
 
-L73.8　기타 명시된 모낭장애 — sycosis barbae 포함
+L73.8　기타 명시된 모낭장애 - sycosis barbae 포함
 
 L73.9　상세불명의 모낭장애
 
@@ -336,7 +336,7 @@ L73.9　상세불명의 모낭장애
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 치료에도 5\~7일 이상 호전이 없거나 오히려 악화되는 경우
-> * 발열, 광범위한 발적·부종 등 cellulitis가 의심되는 경우 — 즉시 내원
+> * 발열, 광범위한 발적·부종 등 cellulitis가 의심되는 경우 - 즉시 내원
 > * 두피 병변에서 탈모나 흉터가 진행되는 경우
 
 ***

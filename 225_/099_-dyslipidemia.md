@@ -275,7 +275,7 @@ _✽_<sup>_\*_</sup>_LDL 콜레스테롤 기저치 대비 ≥50% 감소를 동�
 
 * 위험 평가에 [PREVENT-ASCVD 방정식](https://professional.heart.org/en/guidelines-and-statements/prevent-calculator) 사용(30\~79세 적용); 결과가 애매한 경우(경계 위험) risk enhancer(조기 심혈관질환 가족력, 만성 염증질환, Lp(a) ≥125 nmol/L 또는 ≥50 ㎎/㎗, hs-CRP 연속 2회 ≥2 ㎎/L, ApoB ≥120 ㎎/㎗, **South Asian 혈통**, **임신 관련 위험 인자**(임신성 고혈압·전자간증·임신성 당뇨·조산) 등) 또는 CAC score(30\~45세 [CAC](https://www.cac-tools.com/), 45세 이상 [MESA](https://mesa-nhlbi.org/researchers/tools/mesa-score-risk-calculator-nr))로 재평가
 * LDL-C 70\~189 ㎎/㎗ 성인에서 위험도별 권고
-  * 저위험(＜3%) : 생활 습관 중재 우선; 단 **LDL-C 160\~189 ㎎/㎗ 또는 30년 위험 ≥10%**인 경우 중강도 statin 고려(COR 2a) — 10년 위험은 낮아도 장기 누적 위험이 높은 30\~59세 젊은 환자에서 특히 중요
+  * 저위험(＜3%) : 생활 습관 중재 우선; 단 **LDL-C 160\~189 ㎎/㎗ 또는 30년 위험 ≥10%**인 경우 중강도 statin 고려(COR 2a) - 10년 위험은 낮아도 장기 누적 위험이 높은 30\~59세 젊은 환자에서 특히 중요
   * 경계위험(3\~＜5%) : 중강도 statin 고려, ≥30% LDL 감소 & ＜100 ㎎/㎗ 목표
   * 중등도위험(5\~＜10%) : 중강도 statin(≥30\~49% 감소) 권고, ＜100 ㎎/㎗ 목표
   * 고위험(≥10%) : 고강도 statin 권고, ＜70 ㎎/㎗ 목표
@@ -525,19 +525,19 @@ _Ref. 한국지질·동맥경화학회 제5판(2022), ACC/AHA_
 * 부작용 : 주사 부위 반응
 * alirocumab : 75\~150 ㎎ 2\~4주마다 피하주사
 * evolocumab : 140 ㎎ 격주 또는 420 ㎎ 매월 피하주사 <mark style="color:blue;">\[레파타 주]</mark> (보험기준 : 초고위험군 ASCVD 환자에서 최대 내약 용량의 statin+ezetimibe 병용에도 LDL ≥70 ㎎/㎗이거나 기저치 대비 50% 이상 감소하지 않는 경우 - ☞ 정확한 급여 기준은 HIRA 고시로 재확인)
-* **FOURIER 시험(NEJM 2017)** : statin 치료 중인 ASCVD 환자(LDL ≥70 ㎎/㎗) 27,564명을 evolocumab군과 위약군으로 무작위 배정; 심혈관 사망·심근경색·뇌졸중·불안정 협심증 입원·관상동맥 재관류술의 복합 발생률이 evolocumab군 9.8% vs 위약군 11.3%(HR 0.85, 95% CI 0.79\~0.92, P<0.001) — PCSK9 억제제 중 심혈관 사건 감소를 전향적으로 입증한 근거
+* **FOURIER 시험(NEJM 2017)** : statin 치료 중인 ASCVD 환자(LDL ≥70 ㎎/㎗) 27,564명을 evolocumab군과 위약군으로 무작위 배정; 심혈관 사망·심근경색·뇌졸중·불안정 협심증 입원·관상동맥 재관류술의 복합 발생률이 evolocumab군 9.8% vs 위약군 11.3%(HR 0.85, 95% CI 0.79\~0.92, P<0.001) - PCSK9 억제제 중 심혈관 사건 감소를 전향적으로 입증한 근거
 
 ### <mark style="color:orange;">경구 PCSK9 억제제 (엔리시타이드)</mark>
 
 {% hint style="info" %}
-**국내 미도입 — 2026년 7월 미국 FDA 단독 승인**\
+**국내 미도입 - 2026년 7월 미국 FDA 단독 승인**\
 MSD가 개발한 macrocyclic peptide 계열의 **경구용** PCSK9 억제제로, 2026년 7월 16일 FDA가 고콜레스테롤혈증 및 이형접합 가족성 고콜레스테롤혈증(HeFH) 성인의 식이·운동요법 보조제로 승인함(상품명 립펜드라, 성분명 enlicitide). 기존 PCSK9 억제제가 모두 주사제인 것과 달리 매일 아침 공복에 20 ㎎ 1정을 복용하고, 복용 후 최소 30분간 금식이 필요함.
 {% endhint %}
 
 * 효과(CORALreef Lipids, ASCVD/고위험 고콜레스테롤혈증 환자 대상, statin 병용) : 24주 LDL-C 위약 대비 55.8%p 감소(57.1%↓ vs 위약군 3.0%↑, P<0.001)
 * 효과(CORALreef HeFH, HeFH 성인 대상) : 24주 LDL-C 위약 대비 59.4%p 감소(58.2%↓ vs 위약군 2.6%↑, P<0.001)
 * 부작용 : 설사(7% vs 위약 2%), 어지럼증(9% vs 위약 4%); 이상반응에 따른 치료 중단율은 위약군과 유사
-* **심혈관 사건 감소 효과는 아직 입증되지 않음**(CORALreef Outcomes 연구 진행 중) — 장기 심혈관 이득이 확인된 evolocumab·alirocumab과는 근거 수준이 다르므로 이 점을 감안하여 참고할 것
+* **심혈관 사건 감소 효과는 아직 입증되지 않음**(CORALreef Outcomes 연구 진행 중) - 장기 심혈관 이득이 확인된 evolocumab·alirocumab과는 근거 수준이 다르므로 이 점을 감안하여 참고할 것
 
 ### <mark style="color:orange;">Inclisiran (siRNA 기반 PCSK9 억제제)</mark>
 

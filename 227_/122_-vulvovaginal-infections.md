@@ -13,7 +13,7 @@
 * 위험 인자
   * 흡연
   * 새로운 또는 다수의 성 파트너, 콘돔 미사용
-  * 잦은 질 세척(douching) — ✽Lactobacillus 소실로 질 산도 유지 안 됨
+  * 잦은 질 세척(douching) - ✽Lactobacillus 소실로 질 산도 유지 안 됨
   * estrogen 감소(폐경, 난소 제거술, 수유기)
   * 물리적/화학적 자극 : 질 세정제, 향수 비누, 조이는 옷, 자궁 내 장치
 
@@ -38,7 +38,7 @@ _✽건강한 여성의 약 10\~20%에서 Candida가 무증상으로 colonizatio
 
 ### <mark style="color:orange;">Aerobic vaginitis</mark>
 
-* 기전 : Lactobacilli 감소 및 질 산도 저하와 함께 호기성 균(예: E. coli, group B Streptococcus, S. aureus)이 우세해지는 상태 — 염증성 질환으로 분류되지만 병태생리가 명확히 규명되지는 않음
+* 기전 : Lactobacilli 감소 및 질 산도 저하와 함께 호기성 균(예: E. coli, group B Streptococcus, S. aureus)이 우세해지는 상태 - 염증성 질환으로 분류되지만 병태생리가 명확히 규명되지는 않음
 * ✽국제적으로 통일된 진단 기준(CDC 등)이 아직 확립되어 있지 않으며, 유럽(특히 Donders 등)의 문헌에서 주로 사용되는 개념임에 유의
 * 증상 : 농성 분비물, 경도의 위축(atrophy) 소견, vaginitis; 장기간에 걸쳐 간헐적 악화를 보일 수 있고 치료 후 재발이 흔함
 
@@ -60,7 +60,7 @@ _✽건강한 여성의 약 10\~20%에서 Candida가 무증상으로 colonizatio
 #### <mark style="color:$primary;">Complicated VVC</mark>
 
 * 재발성(RVVC), 중증(심한 음문 발적·부종·찰상·열상), non-albicans 감염, 또는 조절되지 않는 당뇨병·면역저하 등 숙주 요인이 동반된 경우 [CDC 2021]
-* ✽임신은 complicated VVC의 구성 요소가 아니라 별도의 특수 상황(special population)으로 분류 — 치료는 국소 azole계로 제한
+* ✽임신은 complicated VVC의 구성 요소가 아니라 별도의 특수 상황(special population)으로 분류 - 치료는 국소 azole계로 제한
 
 ### <mark style="color:orange;">편모충 질염 (Trichomonal vaginitis)</mark>
 
@@ -112,11 +112,11 @@ _✽건강한 여성의 약 10\~20%에서 Candida가 무증상으로 colonizatio
 * 그람염색에 기초한 Nugent score(0\~10점, 표준 정량 채점법) : BV 진단의 참고표준(reference standard); Hay-Ison criteria(등급 분류법)는 유럽권에서 주로 사용되는 대안적 등급 분류법; Amsel's criteria는 임상에서 간편하게 사용할 수 있는 진단 기준
 * 배양 검사 : polymicrobial infection이 흔하므로 BV 진단을 위한 일상적 배양 검사는 권고하지 않음(단, 재발성 칸디다증에서 균종 확인 목적의 배양은 권고)
 * 질 분비물 saline-solution specimen 현미경 검사 : 움직이는 T. vaginalis 또는 clue cell 관찰
-* KOH 현미경 검사 : blastospore 또는 pseudohyphae 관찰 — 칸디다증 진단(민감도 약 50%로 낮아 임상적으로 의심되나 음성일 때 배양 검사 고려)
+* KOH 현미경 검사 : blastospore 또는 pseudohyphae 관찰 - 칸디다증 진단(민감도 약 50%로 낮아 임상적으로 의심되나 음성일 때 배양 검사 고려)
 * NAAT(핵산증폭검사) : 트리코모나스 진단에서 가장 민감도가 높은 검사로 권고 [CDC 2021]
 * OSOM® trichomonas rapid test 등 immunochromatographic capillary flow dipstick 검사, PCR assay : 편모충증 즉시 진단(민감도 ＞80%, 특이도 ＞95%)
 
-### <mark style="color:orange;">Amsel's criteria — 세균성 질증 감별</mark>
+### <mark style="color:orange;">Amsel's criteria - 세균성 질증 감별</mark>
 
 다음 4가지 중 ≥3가지이면 세균성 질증으로 진단 [CDC 2021]
 
@@ -137,7 +137,7 @@ _✽건강한 여성의 약 10\~20%에서 Candida가 무증상으로 colonizatio
 graph TD
     Start(["질 분비물/가려움/악취 호소"]) --> RedFlag["Red Flags 확인<br>(발열·복통·거통, 임신 중 출혈,<br>폐경 후 출혈, 궤양/종괴)"]
     RedFlag -- "해당" --> RF_pos["즉각/조기 의뢰"]
-    RedFlag -- "해당없음" --> Exam["질경 검사 + 분비물 현미경(saline/KOH)<br>± NAAT — pH는 보조 검사일 뿐<br>혼합 감염·경부염 동반 가능성 고려"]
+    RedFlag -- "해당없음" --> Exam["질경 검사 + 분비물 현미경(saline/KOH)<br>± NAAT - pH는 보조 검사일 뿐<br>혼합 감염·경부염 동반 가능성 고려"]
     Exam --> pH["질 분비물 pH 및 KOH whiff test"]
     pH --> BVpath["pH＞4.5 + Amsel ≥3<br>(균질 분비물, clue cell,<br>fishy odor)"]
     pH --> Candidapath["pH＜4.5(대개 정상) +<br>치즈 모양 분비물,<br>KOH상 pseudohyphae"]
@@ -170,7 +170,7 @@ graph TD
 ## <mark style="color:green;">약물 치료</mark>
 
 * 1일 1회 국소 적용 제제는 취침 시 적용
-* 항진균제 질 크림·좌제(oleaginous base 함유 제품)는 콘돔 및 질 diaphragm의 라텍스를 약화시킬 수 있음 — 사용 중 및 사용 후 3일(72시간)간 라텍스 제품 병용 자제
+* 항진균제 질 크림·좌제(oleaginous base 함유 제품)는 콘돔 및 질 diaphragm의 라텍스를 약화시킬 수 있음 - 사용 중 및 사용 후 3일(72시간)간 라텍스 제품 병용 자제
 
 {% hint style="info" %}
 **metronidazole·tinidazole 복용 중 금주 지침 업데이트**\
@@ -192,7 +192,7 @@ graph TD
 * clindamycin : 300 ㎎ bid ×7d <mark style="color:blue;">\[훌그램]</mark>
 * clindamycin 질정 : 100 ㎎ qd 취침 시 ×3d <mark style="color:blue;">\[훌그램]</mark>
 * tinidazole : 2 g qd ×2d, 또는 1 g qd ×5d(복용 종료 후 72시간 금주) <mark style="color:blue;">\[티니다진]</mark>
-* secnidazole 2 g 경구 과립 1회 요법(국내 미허가, 2026년 기준) — 비용이 높고 장기 성적 자료가 제한적이어서 대체제로 분류 [CDC 2021]
+* secnidazole 2 g 경구 과립 1회 요법(국내 미허가, 2026년 기준) - 비용이 높고 장기 성적 자료가 제한적이어서 대체제로 분류 [CDC 2021]
 
 #### <mark style="color:$primary;">빈번한 재발 시 예방 요법</mark>
 
@@ -205,7 +205,7 @@ graph TD
 
 * metronidazole : 500 ㎎ bid 또는 250 ㎎ tid ×7d\
   ✽임신 중 세균성 질증 치료는 증상을 개선하지만 조산 위험을 감소시키지는 못함
-* 대체제(metronidazole 알레르기·불내약 시) : clindamycin 300 ㎎ bid ×7d 경구, 또는 clindamycin 크림 2% 질 내 qd ×7d — 임신 중에도 CDC 2021 기준 비임신 여성과 동일한 권장 regimen 사용 가능 [CDC 2021]
+* 대체제(metronidazole 알레르기·불내약 시) : clindamycin 300 ㎎ bid ×7d 경구, 또는 clindamycin 크림 2% 질 내 qd ×7d - 임신 중에도 CDC 2021 기준 비임신 여성과 동일한 권장 regimen 사용 가능 [CDC 2021]
 * ✽secnidazole, metronidazole 1.3% 겔, 750 ㎎ 질정 등은 임신 중 자료 부족으로 사용을 피함
 
 ### <mark style="color:orange;">Aerobic vaginitis</mark>
@@ -231,16 +231,16 @@ graph TD
 #### <mark style="color:$primary;">Complicated VVC</mark>
 
 * 대상 범주 : 중증(severe), non-albicans 감염, 재발성(RVVC, 아래 별도 서술), 조절되지 않는 당뇨병·면역저하 등 숙주 요인 동반(임신은 별도 특수 상황으로 아래에서 다룸) [CDC 2021]
-* Complicated VVC가 의심되면 vaginal culture 또는 PCR로 균종을 확인 — C. glabrata는 pseudohyphae를 형성하지 않아 KOH 현미경에서 잘 관찰되지 않음 [CDC 2021]
+* Complicated VVC가 의심되면 vaginal culture 또는 PCR로 균종을 확인 - C. glabrata는 pseudohyphae를 형성하지 않아 KOH 현미경에서 잘 관찰되지 않음 [CDC 2021]
 
 **Severe VVC(중증)**
 
-* 국소 azole계 7\~14d, 또는 fluconazole 150 ㎎ PO 72시간 간격 2회(총 2회) — RVVC induction 요법(아래, 총 3회)과 용법이 다르므로 구분 필요 [CDC 2021]
+* 국소 azole계 7\~14d, 또는 fluconazole 150 ㎎ PO 72시간 간격 2회(총 2회) - RVVC induction 요법(아래, 총 3회)과 용법이 다르므로 구분 필요 [CDC 2021]
 
 **Non-albicans VVC**
 
 * 1차 : non-fluconazole azole 국소제 7\~14d
-* 반응 불량 시 : 붕산(boric acid) 600 ㎎(gelatin capsule) 질 내 qd ×3주 — 임상·진균학적 소실률 약 70% [CDC 2021]
+* 반응 불량 시 : 붕산(boric acid) 600 ㎎(gelatin capsule) 질 내 qd ×3주 - 임상·진균학적 소실률 약 70% [CDC 2021]
 
 {% hint style="danger" %}
 **⚠️ 붕산(Boric acid) 안전 경고**\
@@ -257,40 +257,40 @@ graph TD
 * 유도 치료(mycologic remission 목표) : 국소 azole계 7\~14일, 또는 fluconazole 150 ㎎ PO 3일 간격 3회(1, 4, 7일)
 * 유지 치료(유도 치료 후 시작) : fluconazole 150 ㎎ PO 주 1회 ×6개월; 경구 유지가 어려운 경우 국소제 간헐 사용 고려; 약제 중단 후 재발이 흔함\
   ✽모든 환자에게 정기적 간기능 검사가 필수는 아니나, 간질환 병력이 있거나 간독성이 의심되는 증상(황달, 심한 피로감 등)이 발생하면 간기능 검사를 고려
-* non-albicans 감염 재발 : 붕산 600 ㎎(gelatin capsule) 질 내 qd ×3주(경구 복용 금지, 임신 중 금기 — 위 경고 참조)
+* non-albicans 감염 재발 : 붕산 600 ㎎(gelatin capsule) 질 내 qd ×3주(경구 복용 금지, 임신 중 금기 - 위 경고 참조)
 * ✽국외에서는 폐경 후 또는 영구 불임 여성을 대상으로 한 경구 oteseconazole(RVVC 예방 목적, 배아독성으로 가임기 여성 금기)이 사용되고 있으나 국내 미허가(2026년 기준)
 
 #### <mark style="color:$primary;">임신</mark>
 
-* 국소 azole계만 사용(경구 azole계는 임신 중 금기 또는 신중 투여) — 7일 이상의 국소 치료 권고 [CDC 2021]
+* 국소 azole계만 사용(경구 azole계는 임신 중 금기 또는 신중 투여) - 7일 이상의 국소 치료 권고 [CDC 2021]
 
 ### <mark style="color:orange;">편모충 질염(Trichomonal vaginitis)</mark>
 
 * 성 파트너 동반 치료를 요함; 본인과 성 파트너가 모두 치료를 완료하고 증상이 소실될 때까지 성관계를 피함 [CDC 2021]
 * 추적 : 성적으로 활동적인 여성은 재감염률이 높으므로 증상·파트너 치료 여부와 무관하게 치료 후 약 3개월에 routine 재검사를 권고(재감염 선별 목적) [CDC 2021]
-* ✽치료 실패·지속/재발이 의심되어 조기에 NAAT로 확인하는 경우는 치료 종료 후 최소 3주 이후 시행 — 잔존 핵산으로 인한 위양성 가능성(위 3개월 routine 재검사와는 목적이 다름)
+* ✽치료 실패·지속/재발이 의심되어 조기에 NAAT로 확인하는 경우는 치료 종료 후 최소 3주 이후 시행 - 잔존 핵산으로 인한 위양성 가능성(위 3개월 routine 재검사와는 목적이 다름)
 
 #### <mark style="color:$primary;">1차 선택제</mark>
 
-* 여성 : metronidazole 500 ㎎ bid ×7d <mark style="color:blue;">\[후라시닐]</mark> — 2g 단회 요법 대비 치료 성공률이 높아 여성에서는 7일 요법이 권고됨 [CDC 2021]
+* 여성 : metronidazole 500 ㎎ bid ×7d <mark style="color:blue;">\[후라시닐]</mark> - 2g 단회 요법 대비 치료 성공률이 높아 여성에서는 7일 요법이 권고됨 [CDC 2021]
 * 남성 : metronidazole 2 g 1회
 * 대체(남, 여) : tinidazole 2 g 1회(복용 종료 후 72시간 금주) <mark style="color:blue;">\[티니다진]</mark>
 
 #### <mark style="color:$primary;">지속 또는 재발</mark>
 
-* 1단계 — 재노출 여부 확인이 핵심 [CDC 2021]
+* 1단계 - 재노출 여부 확인이 핵심 [CDC 2021]
   * 미치료 파트너와 재노출된 경우 → metronidazole 500 ㎎ bid ×7d로 재치료(파트너도 함께)
   * 재노출 없이 지속되거나 약물 내성이 의심되는 경우 → metronidazole 또는 tinidazole 2 g qd ×7d
-* 2단계 — 고용량 요법 실패 시 : tinidazole 2 g qd + tinidazole 질 내 500 ㎎ bid ×14d → 그래도 실패 시 tinidazole 1 g tid + paromomycin 6.25% 크림 질 내 4 g ×14d
+* 2단계 - 고용량 요법 실패 시 : tinidazole 2 g qd + tinidazole 질 내 500 ㎎ bid ×14d → 그래도 실패 시 tinidazole 1 g tid + paromomycin 6.25% 크림 질 내 4 g ×14d
 * 반복 실패 시 약제 감수성 검사(drug susceptibility testing) 및 전문기관 자문 고려
 * 부적절한 치료, 성 파트너 미치료, 재감염 여부를 매 단계에서 재확인
 
 ### <mark style="color:orange;">위축성 질염(Atrophic vaginitis)</mark>
 
 * ✽최근에는 폐경 관련 요로생식기 증상 전반을 포괄하는 Genitourinary Syndrome of Menopause(GSM)라는 용어가 함께 사용됨
-* 국소(질 내) estrogen — 위축성 질염/GSM의 표준 치료; 전신 흡수가 미미하여 경피·경구 제형과는 구분됨
+* 국소(질 내) estrogen - 위축성 질염/GSM의 표준 치료; 전신 흡수가 미미하여 경피·경구 제형과는 구분됨
   * estriol 0.5 ㎎ 질좌제 : 1일 1회 취침 시 질 내 삽입, 증상 호전까지 보통 3주 → 이후 유지 요법(주 2회) <mark style="color:blue;">\[오베스틴 질좌제]</mark>\
-    ✽가능한 최소 기간·최소 용량으로 투여; 유지 요법 지속 여부 판단을 위해 2\~3개월마다 4주간 휴약 후 재평가 — 오베스틴 질좌제 제품 첨부문서 상 용법(다른 vaginal estrogen 제제는 첨부문서 별도 확인)
+    ✽가능한 최소 기간·최소 용량으로 투여; 유지 요법 지속 여부 판단을 위해 2\~3개월마다 4주간 휴약 후 재평가 - 오베스틴 질좌제 제품 첨부문서 상 용법(다른 vaginal estrogen 제제는 첨부문서 별도 확인)
   * estradiol 0.03 ㎎ 질정 <mark style="color:blue;">\[지노프로 질정]</mark>, estriol 1 ㎎/g 질크림 <mark style="color:blue;">\[유센스 질크림]</mark> 등도 국내 유통
 * ospemifene : estrogen 유사 작용 경구제(선택적 에스트로겐 수용체 조절제)
 * prasterone(DHEA) 질정
@@ -351,7 +351,7 @@ N95.2 폐경후 위축성 질염
 > 후라시닐 250 ㎎/T  4T  #2  ×7d
 > ```
 >
-> _✽4T #2 ×7d = 1회 500 ㎎ bid, 1일 1,000 ㎎(여성 표준 용량); 여성에서는 2 g 단회 요법보다 7일 요법이 권고됨[CDC 2021]; T. vaginalis는 요도·Skene선까지 침범하므로 국소 질정/좌제만으로는 치료 농도에 도달하지 못함 — 경구 전신 치료가 핵심이며 국소 항균제 병용은 권고되지 않음[CDC 2021]; 본인과 성 파트너가 모두 치료를 완료하고 증상이 소실될 때까지 성관계를 피함_
+> _✽4T #2 ×7d = 1회 500 ㎎ bid, 1일 1,000 ㎎(여성 표준 용량); 여성에서는 2 g 단회 요법보다 7일 요법이 권고됨[CDC 2021]; T. vaginalis는 요도·Skene선까지 침범하므로 국소 질정/좌제만으로는 치료 농도에 도달하지 못함 - 경구 전신 치료가 핵심이며 국소 항균제 병용은 권고되지 않음[CDC 2021]; 본인과 성 파트너가 모두 치료를 완료하고 증상이 소실될 때까지 성관계를 피함_
 
 > **처방례 4. 위축성 질염(폐경 후)**
 >
@@ -359,7 +359,7 @@ N95.2 폐경후 위축성 질염
 > 오베스틴 질좌제 0.5 ㎎/T  1T  취침 시 질 내 삽입  매일 ×3주 → 이후 주 2회
 > ```
 >
-> _✽가능한 최소 기간·최소 용량으로 투여; 유지요법 지속 중에도 2\~3개월마다 4주간 휴약 후 계속 투여 필요성을 재평가 — 오베스틴 질좌제 제품 첨부문서 상 용법; 저용량 국소 질 estrogen은 전신 estrogen 요법과 동일한 금기로 취급하지 않음; 유방암 병력이 있는 경우 비호르몬 치료를 우선 고려하고 증상 지속 시 종양내과와 상의하여 개별화된 접근을 권고 [ACOG]; 4\~6주 내 호전 없으면 부인과 의뢰_
+> _✽가능한 최소 기간·최소 용량으로 투여; 유지요법 지속 중에도 2\~3개월마다 4주간 휴약 후 계속 투여 필요성을 재평가 - 오베스틴 질좌제 제품 첨부문서 상 용법; 저용량 국소 질 estrogen은 전신 estrogen 요법과 동일한 금기로 취급하지 않음; 유방암 병력이 있는 경우 비호르몬 치료를 우선 고려하고 증상 지속 시 종양내과와 상의하여 개별화된 접근을 권고 [ACOG]; 4\~6주 내 호전 없으면 부인과 의뢰_
 
 > **처방례 5. Aerobic vaginitis(1차 진료 시도 가능 옵션)**
 >
@@ -384,30 +384,30 @@ N95.2 폐경후 위축성 질염
 
 > **붕산(Boric acid) 처방 시 필수 안내**
 >
-> * 질 내 삽입 전용, 절대 경구 복용 금지(치명적 독성 가능) — 소아 접근 금지 보관
+> * 질 내 삽입 전용, 절대 경구 복용 금지(치명적 독성 가능) - 소아 접근 금지 보관
 > * 임신 중 절대 금기
 
-> **세균성 질증 — 파트너 치료 안내**
+> **세균성 질증 - 파트너 치료 안내**
 >
 > * 남성 파트너의 일상적 치료는 권고하지 않으며, 여성 파트너 동시 치료 역시 현재 routine 권고 사항은 아님(관련 연구 진행 중)
 
-> **트리코모나스 질염 — 파트너 동반 치료 필수**
+> **트리코모나스 질염 - 파트너 동반 치료 필수**
 >
 > * 본인만 치료할 경우 파트너로부터 재감염되어 치료가 실패한 것처럼 보일 수 있음을 설명
 > * 본인과 성 파트너가 모두 치료를 완료하고 증상이 소실될 때까지 성관계를 피함 [CDC 2021]
 
-> **위축성 질염(GSM) — 국소 estrogen 사용법**
+> **위축성 질염(GSM) - 국소 estrogen 사용법**
 >
 > * 초기 증상 호전까지(보통 3주)는 매일, 이후 유지 용법(주 2회)으로 감량
-> * 가능한 최소 기간·최소 용량 원칙; 유지요법 중에도 2\~3개월마다 4주간 휴약하여 계속 투여 필요성을 재평가 — 오베스틴 질좌제 제품 첨부문서 상 용법(다른 vaginal estrogen 제제 처방 시 해당 제품 첨부문서 확인)
+> * 가능한 최소 기간·최소 용량 원칙; 유지요법 중에도 2\~3개월마다 4주간 휴약하여 계속 투여 필요성을 재평가 - 오베스틴 질좌제 제품 첨부문서 상 용법(다른 vaginal estrogen 제제 처방 시 해당 제품 첨부문서 확인)
 > * 저용량 국소 질 estrogen은 전신 흡수가 미미하여 전신 호르몬요법과 동일한 금기 기준을 적용하지 않음; 유방암 병력이 있는 경우 비호르몬 치료를 먼저 고려하고 필요 시 종양내과와 상의
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 표준 치료 후에도 증상이 지속되거나 조기에 재발하는 경우
 > * 트리코모나스 질염 치료 후에는 증상이 없어도 약 3개월에 재검사
-> * 발열, 하복부 통증이 동반되는 경우 — 즉시 내원
-> * 치료 중 또는 치료 후 질 출혈이 새로 발생하는 경우(특히 폐경 후) — 즉시 내원
+> * 발열, 하복부 통증이 동반되는 경우 - 즉시 내원
+> * 치료 중 또는 치료 후 질 출혈이 새로 발생하는 경우(특히 폐경 후) - 즉시 내원
 > * 연 3회 이상 칸디다증이 반복되는 경우
 
 ***

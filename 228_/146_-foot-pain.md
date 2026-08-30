@@ -101,11 +101,11 @@
 
 #### <mark style="color:$primary;">Forefoot pain, Non-traumatic</mark>
 
-**국소 병소 — 엄지발가락**
+**국소 병소 - 엄지발가락**
 
 <table><thead><tr><th width="260">소견</th><th>의심 진단</th></tr></thead><tbody><tr><td>Valgus deviation</td><td>bunion (hallux valgus)</td></tr><tr><td>Varus deviation</td><td>hallux varus</td></tr><tr><td>1st MTP의 irregularity &amp; enlargement</td><td>골관절염, 통풍, 기타 퇴행성 질환</td></tr><tr><td>엄지발가락의 수동 신전 제한</td><td>hallux limitus, hallux rigidus</td></tr><tr><td>급성 통증·압통·부종·발적</td><td>gout, 드물게 pseudogout 또는 septic joint</td></tr></tbody></table>
 
-**국소 병소 — 엄지발가락 이외**
+**국소 병소 - 엄지발가락 이외**
 
 <table><thead><tr><th width="260">소견</th><th>의심 진단</th></tr></thead><tbody><tr><td>MTP dorsiflexion, PIP plantar flexion, neutral DIP</td><td>hammertoe</td></tr><tr><td>MTP dorsiflexion, PIP &amp; DIP plantar flexion</td><td>claw toe</td></tr><tr><td>5th toe의 rotation &amp; metatarsal bone prominence</td><td>bunionette</td></tr><tr><td>DIP joint plantar flexion</td><td>mallet toe</td></tr><tr><td>MTP, PIP, &amp; DIP joint plantar flexion</td><td>curly toes</td></tr><tr><td>다른 발가락 위 또는 아래로 꼬임</td><td>crossover toes</td></tr></tbody></table>
 
@@ -225,12 +225,12 @@ graph TD
 
 ***
 
-## <mark style="color:green;">족저근막염 Plantar Fasciitis — 발뒤꿈치 통증의 가장 흔한 원인</mark>
+## <mark style="color:green;">족저근막염 Plantar Fasciitis - 발뒤꿈치 통증의 가장 흔한 원인</mark>
 
 ### <mark style="color:orange;">정의 및 기전</mark>
 
 * 발뒤꿈치에서 발가락까지 이어지는 fibrous tissue인 족저근막의 통증성 병변
-* 추정 기전 : 발뒤꿈치 족저근막 부착부의 반복적 미세 손상(microtear)과 그 치유 과정에서 발생하는 콜라겐 변성 및 국소 염증성 변화 — 조직학적으로는 만성 퇴행성(fasciosis) 소견이 더 두드러진다는 보고가 많아 "-itis"보다 실제로는 만성 과사용 손상에 가깝다는 관점도 있음
+* 추정 기전 : 발뒤꿈치 족저근막 부착부의 반복적 미세 손상(microtear)과 그 치유 과정에서 발생하는 콜라겐 변성 및 국소 염증성 변화 - 조직학적으로는 만성 퇴행성(fasciosis) 소견이 더 두드러진다는 보고가 많아 "-itis"보다 실제로는 만성 과사용 손상에 가깝다는 관점도 있음
 * 자연 경과 : 대개 수개월의 보존적 치료로 호전되나 회복이 더딘 경우가 흔하며, 약 80%는 12개월 이내 증상이 소실됨
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -245,7 +245,7 @@ graph TD
 ### <mark style="color:orange;">임상 양상</mark>
 
 * proximal medioplantar surface(발뒤꿈치 바닥\~족부 내측)의 찌르는 듯한, 방사되지 않는 통증
-* anteromedial calcaneus의 족저근막 부착부 압통, 발가락(특히 엄지) 신전 시 통증 악화(windlass test 양성 — 엄지발가락을 수동으로 배굴시켜 통증이 재현되는 소견)
+* anteromedial calcaneus의 족저근막 부착부 압통, 발가락(특히 엄지) 신전 시 통증 악화(windlass test 양성 - 엄지발가락을 수동으로 배굴시켜 통증이 재현되는 소견)
 * 통상 감각 저하는 동반하지 않음
 * 보행 시작 시, 특히 아침 첫 걸음이나 장시간 앉았다 일어난 직후 심하고 활동하면서 일부 완화되나, 장시간 걷거나 서 있으면 다시 악화되고 앉아 쉬면 호전되는 경과가 특징적
 
@@ -253,7 +253,7 @@ graph TD
 
 * 전형적 병력(아침 첫 걸음 통증)과 anteromedial calcaneus 압통이라는 이학적 소견이 있고, 과사용·신발 교체·딱딱한 바닥 운동·갑작스런 활동 증가 등의 유발 병력이 부합하면 임상적으로 진단 가능하며 일상적 영상검사는 불필요 [ACFAS 2017]
 * 초음파 : 진단이 모호하거나 표준 치료에도 3개월 이상 지속 시 고려(족저근막 두께 비후 소견이 참고됨)
-* X선 : 골극(calcaneal spur) 확인 목적보다는 스트레스 골절 등 다른 골격 원인 감별을 위해 고려 — 골극 유무는 증상 중증도와 상관성이 낮음
+* X선 : 골극(calcaneal spur) 확인 목적보다는 스트레스 골절 등 다른 골격 원인 감별을 위해 고려 - 골극 유무는 증상 중증도와 상관성이 낮음
 
 #### <mark style="color:$primary;">흔한 발뒤꿈치 통증의 감별</mark>
 
@@ -381,9 +381,9 @@ M77.3 종골극(calcaneal spur)
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 표준 보존치료(신발 교정, 스트레칭, NSAID) 4\~6주 이내에 호전이 없는 경우
-> * 발뒤꿈치 통증과 함께 발적·부종·발열이 동반되는 경우 — 감염 감별 위해 조기 내원
-> * 갑작스런 심한 통증과 함께 부종(파열 의심) — 즉시 내원
-> * 당뇨병 환자에서 통증 양상이 변하거나 감각 저하가 동반되는 경우 — 즉시 내원
+> * 발뒤꿈치 통증과 함께 발적·부종·발열이 동반되는 경우 - 감염 감별 위해 조기 내원
+> * 갑작스런 심한 통증과 함께 부종(파열 의심) - 즉시 내원
+> * 당뇨병 환자에서 통증 양상이 변하거나 감각 저하가 동반되는 경우 - 즉시 내원
 
 ***
 
@@ -414,5 +414,5 @@ M77.3 종골극(calcaneal spur)
 
 #### <mark style="color:$primary;">다음과 같은 경우 다시 진료를 받으세요</mark>
 
-* **즉시 병원을 방문하세요** — 발뒤꿈치가 갑자기 붓고 열이 나거나 색이 변할 때, 갑작스럽게 통증이 심해지며 붓는 경우
-* **예약하여 재평가를 받으세요** — 4\~6주 이상 꾸준히 관리했는데도 통증이 나아지지 않을 때
+* **즉시 병원을 방문하세요** - 발뒤꿈치가 갑자기 붓고 열이 나거나 색이 변할 때, 갑작스럽게 통증이 심해지며 붓는 경우
+* **예약하여 재평가를 받으세요** - 4\~6주 이상 꾸준히 관리했는데도 통증이 나아지지 않을 때

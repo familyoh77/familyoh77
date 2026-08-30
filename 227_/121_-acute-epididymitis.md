@@ -22,7 +22,7 @@
 #### <mark style="color:$primary;">비-감염성 (Sterile epididymitis)</mark>
 
 * 기전 : 비감염성 염증이 발생하는 경우도 있으나 흔하지 않음. Sterile urine의 역류(예: 심한 육체 활동, 배뇨 지연)나 심한 신체 활동 등이 관련될 수 있다는 보고가 있음
-* 약물성 : amiodarone(고용량·장기 복용) — 부고환 두부에 축적되어 무균성 염증 유발; 의심 시 amiodarone 용량 조정/중단 고려(일부 증례에서는 자연 호전이 없어 중단이 필요했음)
+* 약물성 : amiodarone(고용량·장기 복용) - 부고환 두부에 축적되어 무균성 염증 유발; 의심 시 amiodarone 용량 조정/중단 고려(일부 증례에서는 자연 호전이 없어 중단이 필요했음)
 * ✽감염 원인이 배제된 비-감염성 부고환염으로 판단되면 항생제는 필요하지 않으며 대증치료(안정, NSAID, 냉찜질)로 관리; 다만 비-감염성 진단은 감염을 배제한 후에 내리는 진단임에 유의
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -70,7 +70,7 @@
 
 * CBC : WBC↑ Lt shift
 * 요검사 : pyuria 또는 leukocyte esterase 양성 등 요로 염증 소견(WBC ≥10/HPF)
-* 요도 분비물 Gram stain : WBC ≥2/oil immersion field — 동반 요도염의 객관적 증거(부고환염 자체의 필수 진단기준은 아님)
+* 요도 분비물 Gram stain : WBC ≥2/oil immersion field - 동반 요도염의 객관적 증거(부고환염 자체의 필수 진단기준은 아님)
 * 소변 현미경검사, 배양 검사, PCR
 * STI 위험이 있으면 N. gonorrhoeae, C. trachomatis NAAT 시행; 매독 혈청검사 및 HIV 검사도 모든 의심 환자에서 고려/권고
 
@@ -81,12 +81,12 @@
 * radionuclide scanning : 이론적으로 가장 정확하나 신속한 시행이 어려워 1차 진료에서 실용성은 낮음
 * 결핵균 감염 의심 시 소변 결핵검사(AFB smear/culture 및 NAAT 등) 및 필요 시 흉부 X선
 
-### <mark style="color:orange;">감별 — Acute Scrotal Pain</mark>
+### <mark style="color:orange;">감별 - Acute Scrotal Pain</mark>
 
 <table><thead><tr><th width="156">질환</th><th>증상</th><th>징후</th></tr></thead><tbody><tr><td><strong>Epididymitis</strong></td><td>• insidious onset • fevers &#x26; rigors • 관련된 성관계 경력 • 하부 요로 증상</td><td>• indurated epididymis • 고환 상부 압통 • Prehn's sign(+) • cremasteric reflex 유지</td></tr><tr><td><strong>Testicular torsion</strong></td><td>• sudden onset • 중증 통증 • 외상 관련 • 구역, 구토, 복통</td><td>• 무증상, high-riding testis • Prehn's sign(-) • cremasteric reflex(-)</td></tr><tr><td><strong>Torsion of the appendix testis</strong></td><td>• gradual onset • 중등증–중증 통증 • 구역, 구토</td><td>• 고환 상극 압통(upper pole tenderness) • 'Blue dot' sign</td></tr></tbody></table>
 
 _\*Prehn's sign : 고환을 손으로 밑에서 받쳐 올리면 통증 감소_\
-_✽Prehn's sign은 torsion을 신뢰성 있게 배제하지 못함(양성이어도 torsion 환자의 상당수에서 관찰될 수 있음) — 임상적으로 torsion이 의심되면 Prehn's sign이나 초음파 결과와 무관하게 즉시 비뇨의학과 의뢰_\
+_✽Prehn's sign은 torsion을 신뢰성 있게 배제하지 못함(양성이어도 torsion 환자의 상당수에서 관찰될 수 있음) - 임상적으로 torsion이 의심되면 Prehn's sign이나 초음파 결과와 무관하게 즉시 비뇨의학과 의뢰_\
 _Ref. Acute scrotal pain. Aust Fam Physician 2013;42(11)_
 
 ### <mark style="color:orange;">증상/병력에 따른 남성 Genital problem의 감별</mark>
@@ -98,7 +98,7 @@ _Ref. Acute scrotal pain. Aust Fam Physician 2013;42(11)_
 ```mermaid
 graph TD
     Start([급성 편측 음낭통]) --> Onset[onset 및 동반 증상]
-    Onset -->|급성/수 시간 이내 · 심한 통증| Torsion[Testicular torsion 우선 배제 — 결과 대기 없이 즉시 비뇨의학과 의뢰 + 도플러 초음파]
+    Onset -->|급성/수 시간 이내 · 심한 통증| Torsion[Testicular torsion 우선 배제 - 결과 대기 없이 즉시 비뇨의학과 의뢰 + 도플러 초음파]
     Onset -->|서서히 진행 · 발열/오한 · 하부요로 증상| Epi[Epididymitis 의심]
     Epi --> Adjunct[보조 소견: cremasteric reflex, Prehn's sign, Blue dot sign]
     Adjunct -->|epididymitis 소견에 부합, torsion 시사 소견 없음| Treat[요검사·배양, STI 검사 후 경험적 항생제 시작]
@@ -142,7 +142,7 @@ graph TD
 ### <mark style="color:orange;">항생제 \[CDC/IUSTI]</mark>
 
 {% hint style="info" %}
-**Ceftriaxone 용량 — 지침별 차이**\
+**Ceftriaxone 용량 - 지침별 차이**\
 CDC 2021(미국) : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 kg인 경우 1 g IM) + doxycycline 100 ㎎ bid ×10일\
 2024 European(BASHH/IUSTI) guideline : ceftriaxone 1 g IM ×1회 + doxycycline 100 ㎎ bid ×10일(azithromycin 병용은 원칙적으로 제외)\
 → 국내 진료에서는 최신 국내 지침 및 임균 내성 동향을 함께 고려하여 용량 선택
@@ -151,7 +151,7 @@ CDC 2021(미국) : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 kg인 경우 1 g 
 * STI(Chlamydia or Gonorrhea) 의심 : ceftriaxone 500 ㎎ IM ×1회 <mark style="color:blue;">\[트리악손]</mark> plus doxycycline 100 ㎎ bid ×10d <mark style="color:blue;">\[독시사이클린]</mark>
 * Insertive anal sex 등으로 STI와 장내 균주가 모두 의심 : ceftriaxone 500 ㎎ IM ×1회 plus levofloxacin 500 ㎎ qd ×10d
 * 장내 균주만 의심(임균 감염 가능성 낮음, gram stain 등으로 배제) : levofloxacin 500 ㎎ qd ×10d <mark style="color:blue;">\[크라비트]</mark> 단독
-* Mycoplasma genitalium 확인 : moxifloxacin 400 ㎎ qd ×14d <mark style="color:blue;">\[아벨록스]</mark> (✽부고환염과의 인과관계 근거는 제한적이나, complicated infection에 대한 IUSTI 2021 권고, Grade 1C — 다른 원인(임균/클라미디아/장내균 등) 배제 후 치료 고려; levofloxacin/ofloxacin은 M. genitalium에 대한 감수성이 낮아 대체제로 권장되지 않음)
+* Mycoplasma genitalium 확인 : moxifloxacin 400 ㎎ qd ×14d <mark style="color:blue;">\[아벨록스]</mark> (✽부고환염과의 인과관계 근거는 제한적이나, complicated infection에 대한 IUSTI 2021 권고, Grade 1C - 다른 원인(임균/클라미디아/장내균 등) 배제 후 치료 고려; levofloxacin/ofloxacin은 M. genitalium에 대한 감수성이 낮아 대체제로 권장되지 않음)
 * 내성 균주 증가에 따라 ofloxacin은 N. gonorrhoeae 에 대하여 1차 선택하지 않음
 * ✽CDC 2021 지침 이후 임균 치료에서 azithromycin 병용은 더 이상 routine 권고되지 않음(doxycycline 단독 병용으로 대체)
 
@@ -166,7 +166,7 @@ CDC 2021(미국) : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 kg인 경우 1 g 
 * 치료 개시 후 72시간(3일) 이내 증상 호전 여부 평가
 * 호전 없음 : 진단 및 항생제 선택 재평가; torsion, abscess, 종양 등 다른 원인 반드시 배제
 * 표준 치료 기간 종료 후에도 부종·압통이 지속되는 경우 : abscess, tumor, infarction, TB 등 감별 및 비뇨의학과 의뢰
-* 임균 또는 클라미디아 양성이었던 경우 : 재감염 탐지를 위해 치료 완료 3개월 후 재검사(CDC) — 치료 실패 확인용 test-of-cure와는 별개의 개념
+* 임균 또는 클라미디아 양성이었던 경우 : 재감염 탐지를 위해 치료 완료 3개월 후 재검사(CDC) - 치료 실패 확인용 test-of-cure와는 별개의 개념
 * 임균/클라미디아 등 개별 STI의 test-of-cure 적응증은 해당 STI 챕터 기준을 따름
 
 ***
@@ -238,7 +238,7 @@ N45 고환염 및 부고환염
 >
 > * 3일 이내 증상이 호전되지 않는 경우
 > * 표준 치료 기간 종료 후에도 부종·압통이 지속되는 경우
-> * **갑자기 통증이 심해지거나 고환이 위로 당겨 올라간 느낌**, 발열·오한이 동반되는 경우 — 즉시 응급실 방문(testicular torsion, abscess 감별)
+> * **갑자기 통증이 심해지거나 고환이 위로 당겨 올라간 느낌**, 발열·오한이 동반되는 경우 - 즉시 응급실 방문(testicular torsion, abscess 감별)
 > * 항생제 복용 중 심한 설사, 발진 등 약물 이상반응이 생긴 경우
 
 ***

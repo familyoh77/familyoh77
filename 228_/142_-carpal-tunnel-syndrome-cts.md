@@ -75,13 +75,13 @@
 * reverse Phalen test : 2분간 손목 완전 신전 시(양 손바닥을 붙이고 있음) 증상 유발
 * two-point discrimination 저하 : 정중신경 지배 손가락에서 5 ㎜ 간격의 두 점을 구별하지 못하는 경우
 * thenar 위축 : 오랜 기간 지속된 환자들에서 thumb abduction \& opposition의 약화; CTS를 rule-in하는 데는 강한 연관성이 있으나, 위축이 없다고 CTS를 배제할 수는 없음 \[AAOS 2024 Strong evidence]
-* ✽ Phalen test, Tinel test, Flick sign은 단독 소견만으로는 CTS를 rule-in/out하는 근거가 약함 \[AAOS 2024 Strong evidence] — CTS-6 등 여러 소견을 종합한 도구 사용을 권장; APTA/JOSPT 2026도 Phalen test, Tinel sign, Durkan(carpal compression) test를 CTS 의심 환자 진단에 함께 사용하도록(should use) 권고
+* ✽ Phalen test, Tinel test, Flick sign은 단독 소견만으로는 CTS를 rule-in/out하는 근거가 약함 \[AAOS 2024 Strong evidence] - CTS-6 등 여러 소견을 종합한 도구 사용을 권장; APTA/JOSPT 2026도 Phalen test, Tinel sign, Durkan(carpal compression) test를 CTS 의심 환자 진단에 함께 사용하도록(should use) 권고
 
 ### <mark style="color:orange;">검사실 검사</mark>
 
 * 신경전도/근전도 검사 : 검사 방법과 기준에 따라 진단 정확도가 달라지며, 일반적으로 특이도는 높은 편이나 민감도는 검사법에 따라 차이가 큼. 진단이 불확실하거나 다른 신경병증과의 감별이 필요한 경우, 또는 중증도·예후 평가 결과가 치료 결정에 영향을 줄 것으로 판단되는 경우 시행; 전형적 임상 양상에서는 CTS-6를 이용한 임상진단이 가능 \[AAOS 2024 Strong evidence]
 * 초음파 검사 : carpal tunnel inlet에서 정중신경 cross-sectional area(CSA) 증가가 진단을 지지함. 측정 위치·방법과 연구에 따라 diagnostic cutoff가 달라 단일 CSA 수치를 절대 진단 기준으로 사용하지 않음
-* MRI, upper limb neurodynamic test(ULNT) : 통상적인 CTS 진단 목적의 사용은 권장되지 않음 \[AAOS 2024 Moderate evidence] — 다른 원인 배제가 필요한 경우에 한해 고려
+* MRI, upper limb neurodynamic test(ULNT) : 통상적인 CTS 진단 목적의 사용은 권장되지 않음 \[AAOS 2024 Moderate evidence] - 다른 원인 배제가 필요한 경우에 한해 고려
 * 실험실 검사 : routine panel로 시행하지 않으며, 병력·진찰상 이차성 원인이 의심될 때 선택적으로 시행(예: glucose/HbA1c, TSH, pregnancy test, RA 관련 검사 등)
 
 ### <mark style="color:orange;">CTS-6</mark>
@@ -189,21 +189,21 @@ graph TD
 
 ### <mark style="color:orange;">NSAID</mark>
 
-* CTS 자체에 대한 치료 효과는 입증되지 않았으며, 위약 대비 우월성도 확인되지 않음 \[AAOS 2024 Limited option (downgraded)] — routine treatment로 권장하지 않으며, 동반된 비특이적 손목·근골격계 통증의 단기 진통 목적으로만 제한적으로 사용
+* CTS 자체에 대한 치료 효과는 입증되지 않았으며, 위약 대비 우월성도 확인되지 않음 \[AAOS 2024 Limited option (downgraded)] - routine treatment로 권장하지 않으며, 동반된 비특이적 손목·근골격계 통증의 단기 진통 목적으로만 제한적으로 사용
 * ibuprofen : 200\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * naproxen : 250 ㎎ tid\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
 
 ### <mark style="color:orange;">Steroid 터널 내 주사</mark>
 
 * landmark technique에서는 proximal wrist crease의 palmaris longus tendon ulnar side 접근이 사용됨. Palmaris longus가 선천적으로 없을 수 있고 median nerve 또는 tendon 내 주입 위험이 있으므로 해부학적 landmark를 정확히 확인하며, 숙련도가 낮거나 해부학이 불명확하면 초음파 유도하 주사를 고려
-* 단기(수 주\~수개월) 증상 완화 목적으로 사용하며, 장기적인 patient-reported outcome 개선 효과는 입증되지 않음 \[AAOS 2024 Strong evidence] — 반복 주사보다는 반응 평가 후 수술적 치료 여부를 조기에 결정하는 데 활용하고, 반응이 없으면 수술적 치료를 미루지 않음
+* 단기(수 주\~수개월) 증상 완화 목적으로 사용하며, 장기적인 patient-reported outcome 개선 효과는 입증되지 않음 \[AAOS 2024 Strong evidence] - 반복 주사보다는 반응 평가 후 수술적 치료 여부를 조기에 결정하는 데 활용하고, 반응이 없으면 수술적 치료를 미루지 않음
 * 금기 : 감염 소견, 터널 내 종괴, 출혈 경향
 * hydrocortisone 20 ㎎, methylprednisolone 15\~40 ㎎, triamcinolone 20 ㎎
   * 보통 2% lidocaine 0.15\~0.5 ㎖(or 1% 용액 1 ㎖)를 혼합하여 주사
 
 ### <mark style="color:orange;">Platelet-rich plasma (PRP) Injections</mark>
 
-* 통증 감소와 신경전도 향상 효과가 있다는 예비 연구 수준의 보고가 있었으나, AAOS 2024 지침에서는 leukocyte-rich/leukocyte-poor PRP 모두 비수술 치료로서 장기적 이득에 대한 근거가 없다고 명시함 \[Strong evidence] — 일상적 사용은 권장하지 않음
+* 통증 감소와 신경전도 향상 효과가 있다는 예비 연구 수준의 보고가 있었으나, AAOS 2024 지침에서는 leukocyte-rich/leukocyte-poor PRP 모두 비수술 치료로서 장기적 이득에 대한 근거가 없다고 명시함 \[Strong evidence] - 일상적 사용은 권장하지 않음
 
 ### <mark style="color:orange;">경구 Steroid</mark>
 
@@ -293,7 +293,7 @@ G56.0 손목터널증후군
 >
 > * 4\~8주 보존 치료 후에도 호전이 없는 경우
 > * thenar 위축, 객관적인 엄지 벌림/맞섬 근력 저하(thumb abduction/opposition weakness)가 새로 발생한 경우
-> * 외상 후 손저림·부종이 급격히 악화되는 경우 — 즉시 내원
+> * 외상 후 손저림·부종이 급격히 악화되는 경우 - 즉시 내원
 
 ***
 

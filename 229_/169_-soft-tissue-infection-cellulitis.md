@@ -105,7 +105,7 @@ Soft tissue infection은 농양, 괴사근막염, 근육염 등을 포함하는 
 * 골수염이 의심되면 단순촬영을 시작으로 임상 상황에 따라 MRI 등 추가 영상검사 고려
 
 {% hint style="info" %}
-**ALT-70 — 성인 하지 연조직염 진단 보조**\
+**ALT-70 - 성인 하지 연조직염 진단 보조**\
 급성 하지 발적에서 pseudocellulitis 감별을 위한 참고용 보조 도구로 활용할 수 있으나 국내 인구에서 별도 검증되지 않았습니다(Asymmetry 3점, Leukocytosis ≥10,000/µL 1점, Tachycardia ≥90/min 1점, Age ≥70세 2점). 0\~2점이면 다른 진단을 적극 재평가하고, 3\~4점이면 진단이 불확실하므로 전문의 협의 또는 조기 재평가를 고려합니다. 5\~7점도 연조직염을 확진하지 않으며(전문가 판정 기준 위양성 상당수 보고), 경증 외래 환자에게 점수 계산만을 목적으로 CBC를 일률적으로 시행할 근거는 부족합니다. 물림, 최근 외상·수술, 인공물, 농양·복잡창상 등은 주요 검증연구에서 제외되었으므로 적용 근거가 부족합니다.
 {% endhint %}
 
@@ -185,23 +185,23 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">비화농성 연조직염 — 성인, 정상 신기능</mark>
+### <mark style="color:orange;">비화농성 연조직염 - 성인, 정상 신기능</mark>
 
 #### <mark style="color:$primary;">경증 경구 치료</mark>
 
-* Cephalexin 500 mg qid <mark style="color:blue;">\[팔렉신]</mark> — 1차 선택
-* Cefadroxil 500 mg bid <mark style="color:blue;">\[듀리세프]</mark> — 1차 선택
-* Cephradine 500 mg qid <mark style="color:blue;">\[세프라딘]</mark> — 1차 선택(동급 대안)
-* Clindamycin 300\~450 mg qid <mark style="color:blue;">\[훌그램]</mark> — 대체 선택
+* Cephalexin 500 mg qid <mark style="color:blue;">\[팔렉신]</mark> - 1차 선택
+* Cefadroxil 500 mg bid <mark style="color:blue;">\[듀리세프]</mark> - 1차 선택
+* Cephradine 500 mg qid <mark style="color:blue;">\[세프라딘]</mark> - 1차 선택(동급 대안)
+* Clindamycin 300\~450 mg qid <mark style="color:blue;">\[훌그램]</mark> - 대체 선택
   * 즉시형 β-lactam 과민반응 등 대체제가 필요한 경우 고려
-  * 설사·C. difficile 감염 위험 및 지역 내 감수성 고려 — 배양균이 erythromycin 내성·clindamycin 감수성으로 보고되면 inducible resistance 확인을 위한 D-test 결과를 확인
+  * 설사·C. difficile 감염 위험 및 지역 내 감수성 고려 - 배양균이 erythromycin 내성·clindamycin 감수성으로 보고되면 inducible resistance 확인을 위한 D-test 결과를 확인
 
 > Cephalexin, cefadroxil, cephradine은 병용하지 않고 환자 상태와 복약 편의, 신기능을 고려하여 하나를 선택한다. 해외 지침에 제시되는 dicloxacillin은 국내 미유통(2026년 8월 기준)이다.
 
 #### <mark style="color:$primary;">중등도·중증 또는 경구 투여 곤란</mark>
 
 * Cefazolin 1\~2 g IV q8h
-* Clindamycin 600\~900 mg IV q8h — β-lactam 사용이 곤란하고 감수성이 적절한 경우 대체
+* Clindamycin 600\~900 mg IV q8h - β-lactam 사용이 곤란하고 감수성이 적절한 경우 대체
 * 중증 전신감염 또는 MRSA 위험이 높으면 vancomycin 기반 치료와 입원 평가
 
 ### <mark style="color:orange;">MRSA 치료를 고려할 상황</mark>
@@ -226,12 +226,12 @@ graph TD
   * 심한 면역저하, 다발성 병변, 치료하기 어려운 부위
   * 배농 후에도 악화하거나 재발
 
-#### <mark style="color:$primary;">경구 항-MRSA 선택지 — 성인, 정상 신기능</mark>
+#### <mark style="color:$primary;">경구 항-MRSA 선택지 - 성인, 정상 신기능</mark>
 
 * TMP/SMX 160/800 mg 1\~2T bid <mark style="color:blue;">\[셉트린]</mark>
 * Doxycycline 100 mg bid <mark style="color:blue;">\[독시사이클린]</mark>
 * Minocycline 100 mg bid <mark style="color:blue;">\[미노씬]</mark>
-* Clindamycin 300\~450 mg qid <mark style="color:blue;">\[훌그램]</mark> — 대체 선택(감수성 확인 시)
+* Clindamycin 300\~450 mg qid <mark style="color:blue;">\[훌그램]</mark> - 대체 선택(감수성 확인 시)
 
 {% hint style="info" %}
 TMP/SMX와 doxycycline의 β-용혈성 사슬알균 치료 신뢰도는 충분하지 않습니다. MRSA와 streptococci를 모두 치료해야 하면 clindamycin 단독(감수성 확인 시) 또는 TMP/SMX·doxycycline 중 하나에 cephalexin·amoxicillin 등 β-lactam을 병용합니다. Linezolid 등은 중증 β-lactam 알레르기, 다제내성 또는 전문의 치료 영역으로 국한합니다. 최근 미국 일부 기관에서는 침습성 GAS·GBS 및 지역 *S. aureus* 분리주의 clindamycin 내성 증가와 C. difficile 감염 위험을 이유로 경험적 치료에서 clindamycin 사용을 줄이고 있습니다. 이 수치를 국내 연조직염에 직접 적용할 수는 없으므로 지역별 감수성과 배양 결과를 우선합니다.
@@ -289,7 +289,7 @@ TMP/SMX와 doxycycline의 β-용혈성 사슬알균 치료 신뢰도는 충분�
 
 ### <mark style="color:red;">질병코드</mark>
 
-L03 연조직염(봉와직염) 및 급성 림프관염 — 병변 부위에 따라 가장 구체적인 하위 코드를 선택
+L03 연조직염(봉와직염) 및 급성 림프관염 - 병변 부위에 따라 가장 구체적인 하위 코드를 선택
 
 H60.1 외이의 연조직염
 

@@ -31,7 +31,7 @@
 
 ***
 
-## <mark style="color:green;">원인 — 결석의 종류</mark>
+## <mark style="color:green;">원인 - 결석의 종류</mark>
 
 * Ca oxalate, Ca phosphate, struvite, uric acid, cystine; mixed stone
 
@@ -134,7 +134,7 @@
 * Non-contrast CT(NCCT) : 급성 요관결석의 가장 정확한 확진검사
   * 결석의 위치·크기·밀도, 폐쇄 정도 및 다른 급성 복통 원인 평가
 * 복부 X선(KUB) : radiopaque stone의 위치 확인 및 선택적 추적에 이용
-  * radiopaque : Ca stone, struvite stone, cystine stone(비교적 약한 음영, faint radiopaque/ground-glass appearance — sulfur 함유로 인해 순수 radiolucent인 uric acid stone과는 구분됨)
+  * radiopaque : Ca stone, struvite stone, cystine stone(비교적 약한 음영, faint radiopaque/ground-glass appearance - sulfur 함유로 인해 순수 radiolucent인 uric acid stone과는 구분됨)
   * radiolucent : uric acid stone(Ca이 혼합되면 radiopaque)
 * ✽ IVP는 현재 routine 진단검사로 선호하지 않음
 * 육안으로 결석 배출이 확인되지 않거나 증상이 지속되면 임상 상황에 따라 추적 영상검사 고려
@@ -267,7 +267,7 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">배출 촉진 — Medical Expulsive Therapy(MET)</mark>
+### <mark style="color:orange;">배출 촉진 - Medical Expulsive Therapy(MET)</mark>
 
 * α-blocker는 요관 평활근을 이완하여 적절한 환자에서 결석 배출을 촉진할 수 있음
 * EAU : 5\~10 ㎜ 원위부 요관결석에서 이득이 가장 뚜렷하며, 적극적 제거술 적응증이 없는 환자에서 고려
@@ -283,7 +283,7 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 
 ### <mark style="color:orange;">통증 완화</mark>
 
-#### <mark style="color:$primary;">NSAID — 1차 선택</mark>
+#### <mark style="color:$primary;">NSAID - 1차 선택</mark>
 
 * ibuprofen : 400\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * dexibuprofen : 300 ㎎ tid <mark style="color:blue;">\[애니펜]</mark>
@@ -362,7 +362,7 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 * 충분한 수분 섭취 및 purine 과다 섭취 제한
 * 지속적인 산성뇨 교정을 위해 alkaline citrate 사용
 * hyperuricosuria가 있는 경우 allopurinol 고려
-  * allopurinol : 100\~300 ㎎/d <mark style="color:blue;">\[자이로릭]</mark> — 신기능에 따라 용량 조절
+  * allopurinol : 100\~300 ㎎/d <mark style="color:blue;">\[자이로릭]</mark> - 신기능에 따라 용량 조절
 
 #### <mark style="color:$primary;">Cystine stone</mark>
 
@@ -392,7 +392,7 @@ EAU는 특히 **5\~10 ㎜ 원위부 요관결석**에서 α-blocker의 이득이
 
 * 신결석 및 일부 요관결석에 적용
 * 성공률은 결석 크기·위치·밀도 및 환자 해부학 등에 따라 달라짐
-* 성공률이 낮아지는 상황 : 비만(피부-결석 거리 증가), 큰 결석, 하부 신배·하부 요관 결석 등 — 이런 경우 URS/PCNL을 우선 고려
+* 성공률이 낮아지는 상황 : 비만(피부-결석 거리 증가), 큰 결석, 하부 신배·하부 요관 결석 등 - 이런 경우 URS/PCNL을 우선 고려
 * 금기/부적합 : 임신, 교정되지 않은 출혈성 질환, 조절되지 않은 UTI, 결석 원위부의 해부학적 폐쇄 등
 * 잔류 결석이 있는 경우 임상적 의미에 따라 추적 관리
 
@@ -479,7 +479,7 @@ N21.0 방광의 결석
 >
 > _✽재발성 calcium stone에서 장기(수개월 이상) 예방 목적으로 사용; 급성 통증기의 약제가 아님. 저칼륨혈증·통풍 악화 여부를 정기적으로 확인_
 
-> **처방례 5. Uric acid stone — 경구 알칼리화(oral chemolysis)**
+> **처방례 5. Uric acid stone - 경구 알칼리화(oral chemolysis)**
 >
 > ```
 > 유로시트라-케이 10 mEq/포  2~3포 bid~tid  urine pH 7.0~7.2 목표로 용량 조절
@@ -513,10 +513,10 @@ N21.0 방광의 결석
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 38℃ 이상의 발열 또는 오한이 동반되는 경우 — 즉시 내원
-> * 진통제로 조절되지 않는 극심한 통증 또는 반복되는 구토 — 즉시 내원
-> * 소변량이 급격히 줄거나 없는 경우 — 즉시 내원
-> * 약 30일(4주) 이내에 결석 배출이 확인되지 않는 경우 — 예약 재내원
+> * 38℃ 이상의 발열 또는 오한이 동반되는 경우 - 즉시 내원
+> * 진통제로 조절되지 않는 극심한 통증 또는 반복되는 구토 - 즉시 내원
+> * 소변량이 급격히 줄거나 없는 경우 - 즉시 내원
+> * 약 30일(4주) 이내에 결석 배출이 확인되지 않는 경우 - 예약 재내원
 
 ***
 
@@ -554,4 +554,4 @@ N21.0 방광의 결석
 * **38℃ 이상의 열이나 오한**이 함께 있는 경우
 * 진통제를 먹어도 **참기 힘든 통증**이거나 **구토가 반복**되는 경우
 * 소변이 거의 나오지 않는 경우
-* 약 한 달(30일)이 지나도 결석이 나온 것을 확인하지 못한 경우 — 예약된 날짜에 꼭 재검사를 받으십시오
+* 약 한 달(30일)이 지나도 결석이 나온 것을 확인하지 못한 경우 - 예약된 날짜에 꼭 재검사를 받으십시오

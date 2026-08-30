@@ -39,7 +39,7 @@
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
-* Scaphoid 골절 의심(낙상력 + anatomic snuffbox 압통) — 초기 X선이 정상이어도 임상적 의심 시 고정하고, 가능한 경우 조기 MRI(또는 CT) 고려; 즉시 추가 영상이 어려우면 10\~14일 후 임상 재평가 및 X선 재촬영
+* Scaphoid 골절 의심(낙상력 + anatomic snuffbox 압통) - 초기 X선이 정상이어도 임상적 의심 시 고정하고, 가능한 경우 조기 MRI(또는 CT) 고려; 즉시 추가 영상이 어려우면 10\~14일 후 임상 재평가 및 X선 재촬영
 * 건 열상 의심(능동 굴곡·신전 상실, 개방성 상처)
 * 진행하는 신경학적 결손(근력 약화 진행, 감각 저하 확대)
 * 급성 비외상성 hot swollen wrist(심한 관절통·종창·열감·홍반, 능동/수동 ROM 제한 ± 발열), 특히 면역저하·당뇨·최근 감염/관절 시술 환자 → septic arthritis 우선 배제; 배제 후에는 고령에서 손목이 호발 부위인 CPPD(가성통풍)도 감별; 필요시 즉시 관절천자 및 전문의뢰
@@ -127,7 +127,7 @@ _Ref. Mirabelli MH, et al. AFP 2013;87(8):568-573. Table 2; Forman TA, et al. AF
 
 ### <mark style="color:orange;">부위/구조물에 따른 주요 질환의 특징</mark>
 
-<table><thead><tr><th width="220">원인</th><th width="220">특징</th><th>검사</th></tr></thead><tbody><tr><td>TFCC</td><td>pisiform과 ulnar styloid 사이의 압통</td><td>MRI; 필요시 arthroscopy</td></tr><tr><td>Distal radioulnar joint subluxation</td><td>통증, radioulnar grind test 양성</td><td>X선; 필요시 MRI, arthroscopy, cineroentgenography</td></tr><tr><td>Carpal instability</td><td>midcarpal 압통, ulnar deviation 시 clunk</td><td>cineroentgenography</td></tr><tr><td>Scapholunate dissociation</td><td>scapholunate interval 압통</td><td>X선</td></tr><tr><td>De Quervain tenosynovitis</td><td>distal radius의 radial aspect 압통</td><td>초음파</td></tr><tr><td>Intersection syndrome</td><td>distal radius의 dorsum 압통 및 crepitus</td><td>—</td></tr><tr><td>Neoplasm or ganglion</td><td>덩어리, 압통</td><td>초음파</td></tr></tbody></table>
+<table><thead><tr><th width="220">원인</th><th width="220">특징</th><th>검사</th></tr></thead><tbody><tr><td>TFCC</td><td>pisiform과 ulnar styloid 사이의 압통</td><td>MRI; 필요시 arthroscopy</td></tr><tr><td>Distal radioulnar joint subluxation</td><td>통증, radioulnar grind test 양성</td><td>X선; 필요시 MRI, arthroscopy, cineroentgenography</td></tr><tr><td>Carpal instability</td><td>midcarpal 압통, ulnar deviation 시 clunk</td><td>cineroentgenography</td></tr><tr><td>Scapholunate dissociation</td><td>scapholunate interval 압통</td><td>X선</td></tr><tr><td>De Quervain tenosynovitis</td><td>distal radius의 radial aspect 압통</td><td>초음파</td></tr><tr><td>Intersection syndrome</td><td>distal radius의 dorsum 압통 및 crepitus</td><td>-</td></tr><tr><td>Neoplasm or ganglion</td><td>덩어리, 압통</td><td>초음파</td></tr></tbody></table>
 
 _Ref. Forman TA, et al. A Clinical Approach to Diagnosing Wrist Pain. AFP 2005;72(9):1753-1758. Table 1._
 
@@ -236,7 +236,7 @@ graph TD
 ## <mark style="color:green;">약물 치료</mark>
 
 * 비특이적·과사용성 손목 통증에서 증상 조절 목적으로 acetaminophen 또는 NSAID를 단기간 사용할 수 있음
-  * acetaminophen 500\~1,000 ㎎ q6\~8h PRN <mark style="color:blue;">\[타이레놀]</mark> — 일반적으로 총 3,000\~4,000 ㎎/day를 넘지 않도록 하며, 고령·간질환·과음 등 위험 요인에서는 더 낮은 최대 용량을 적용
+  * acetaminophen 500\~1,000 ㎎ q6\~8h PRN <mark style="color:blue;">\[타이레놀]</mark> - 일반적으로 총 3,000\~4,000 ㎎/day를 넘지 않도록 하며, 고령·간질환·과음 등 위험 요인에서는 더 낮은 최대 용량을 적용
   * ibuprofen 200\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
   * naproxen 250 ㎎ tid\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
 * 국소(topical) NSAID : 경증 건초염·염좌에서 전신 부작용을 줄이면서 국소 통증을 조절할 수 있는 선택지; 고령, 위장관 질환, 신기능 저하 환자에서 경구제 대안으로 고려
@@ -348,9 +348,9 @@ S66 손목 및 손 부위의 근육 및 힘줄의 손상
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 보존적 치료 4\~6주 후에도 증상이 호전되지 않는 경우
-> * 손·손목의 급격한 부종, 감각 저하, 창백, 맥박 소실 등 신경·혈관 증상이 발생하는 경우 — 즉시 내원
-> * 국소 열감, 홍반, 심한 압통 등 감염 징후가 발생하는 경우 — 즉시 내원
-> * 외상 후 심한 통증이 지속되거나 변형이 관찰되는 경우 — 즉시 내원
+> * 손·손목의 급격한 부종, 감각 저하, 창백, 맥박 소실 등 신경·혈관 증상이 발생하는 경우 - 즉시 내원
+> * 국소 열감, 홍반, 심한 압통 등 감염 징후가 발생하는 경우 - 즉시 내원
+> * 외상 후 심한 통증이 지속되거나 변형이 관찰되는 경우 - 즉시 내원
 
 ***
 
