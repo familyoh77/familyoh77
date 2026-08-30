@@ -194,7 +194,7 @@ graph TD
 
 ### <mark style="color:orange;">감별</mark>
 
-<mark style="color:$info;">※ 실신 아형 간 감별(혈관미주신경성/상황/기립성 저혈압/심장성)은 본 섹션 하단의 **실신 아형 감별표**와 위의 **초기 평가 알고리듬** 참조. 본 섹션은 실신과 혼동되는 **비실신성 TLOC** 감별에 집중.</mark>
+<mark style="color:$info;">※ 실신 아형 간 감별(혈관미주신경성/상황/기립성 저혈압/심장성)은 본 섹션 하단의</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**실신 아형 감별표**</mark><mark style="color:$info;">와 위의</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**초기 평가 알고리듬**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">참조. 본 섹션은 실신과 혼동되는</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**비실신성 TLOC**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">감별에 집중.</mark>
 
 **Non-syncope TLOC (의식 소실이 뇌 저관류에 의하지 않는 경우)**
 
