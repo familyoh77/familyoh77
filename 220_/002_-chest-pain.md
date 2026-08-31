@@ -2,19 +2,19 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 흉통의 정의 : 가슴의 통증 뿐 아니라 가슴, 어깨, 팔, 목, 상복부, 턱의 압박감, 조임, 무거움, 작열감을 포함(2021 AHA/ACC)
-  * 여성에서도 흉통은 ACS의 가장 흔한 증상이며 남성과 비슷한 빈도로 나타남. 다만 오심, 호흡곤란, 피로 등의 동반 증상이 더 흔할 수 있으므로 이를 비심장성으로 오인하지 않음
-  * 고령자·당뇨병 환자에서는 호흡곤란, 실신, 메스꺼움, 심한 피로감 등 협심증 동등 증상(anginal equivalents)이 두드러질 수 있음. 특히 75세 초과 환자에서 호흡곤란, 실신, 급성 섬망 또는 설명되지 않는 낙상이 있으면 뚜렷한 흉통이 없어도 ACS를 고려
-* 흉통 환자 진단의 관건은 Red flags 및 Acute coronary syndrome(ACS) 등 응급 의뢰 필요 여부를 판단하는 것임; 심장 기원 가능성이 낮으면 다른 원인 감별
-* 흉통의 분류에서 '비전형적(atypical)'이라는 표현은 오해를 유발하므로 사용하지 않으며, '심장성', '심장성 가능', '비심장성'으로 분류 (2021 AHA/ACC)
+* 흉통의 정의 : 가슴의 통증 뿐 아니라 가슴, 어깨, 팔, 목, 상복부, 턱의 압박감, 조임, 무거움, 작열감을 포함&#x20;
+  * 여성에서도 흉통은 ACS의 가장 흔한 증상이며 남성과 비슷한 빈도로 나타나지만, 오심, 호흡곤란, 피로 등의 동반 증상이 더 흔할 수 있으므로 이를 비심장성으로 오인하지 않도록 주의
+  * 고령자·당뇨병 환자에서는 호흡곤란, 실신, 메스꺼움, 심한 피로감 등 협심증 동등 증상(anginal equivalents)이 두드러질 수 있음. 특히 75세 초과 환자에서 호흡곤란, 실신, 급성 섬망 또는 설명되지 않는 낙상이 있으면 뚜렷한 흉통이 없어도 ACS(acute coronary syndrome)를 고려
+* 흉통 환자 진단의 관건은 Red flags 및 ACS 등 응급 의뢰 필요 여부를 판단하는 것임; 심장 기원 가능성이 낮으면 다른 원인 감별
+* 흉통의 분류에서 '비전형적(atypical)'이라는 표현은 오해를 유발하므로 사용하지 않으며, '심장성', '심장성 가능', '비심장성'으로 분류 \[AHA/ACC 2021]
 
 #### <mark style="color:$primary;">흉통 양상에 따른 허혈 가능성</mark>
 
-<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td></td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Right-sided, Tearing, Ripping, Burning (단독 소견일 때)</td></tr><tr><td><strong>낮음</strong></td><td>Stabbing, Sharp, Fleeting, Shifting, Pleuritic(흡기 시 발생), Positional</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="84"></th><th></th></tr></thead><tbody><tr><td><strong>높음</strong></td><td>Central, Pressure, Squeezing, Gripping, Heaviness, Tightness, 운동/스트레스 관련, Retrosternal</td></tr><tr><td>↓</td><td>Left-sided, Dull, Aching</td></tr><tr><td>↓</td><td>Right-sided, Tearing, Ripping, Burning (단독 소견일 때)</td></tr><tr><td><strong>낮음</strong></td><td>Stabbing, Sharp, Fleeting, Shifting, Pleuritic(흡기 시 발생), Positional</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 2</mark></em></p>
 
-**임상 적용 포인트**
+<mark style="color:cyan;">**임상 적용 포인트**</mark>
 
 * 압박·조임·무거움·쥐어짜는 느낌 → 허혈 가능성 높음; 즉각 ECG 및 트로포닌 평가
 * 찌르는·예리한·흡기 관련·자세 의존성 → 허혈 가능성 낮음 (심낭염, 근골격, 흉막 원인 고려)
@@ -313,11 +313,11 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
 
 #### <mark style="color:$primary;">급성 흉통</mark>
 
-<div align="left"><figure><img src="../.gitbook/assets/흉통10.JPG" alt="급성 흉통의 증상 및 병력에 따른 감별 흐름도"><figcaption>급성 흉통의 증상·병력에 따른 감별</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/흉통10.JPG" alt="급성 흉통의 증상 및 병력에 따른 감별 흐름도"><figcaption><p>급성 흉통의 증상·병력에 따른 감별</p></figcaption></figure></div>
 
 #### <mark style="color:$primary;">만성 흉통</mark>
 
-<div align="left"><figure><img src="../.gitbook/assets/흉통11.JPG" alt="만성 흉통의 증상 및 병력에 따른 감별 흐름도"><figcaption>만성 흉통의 증상·병력에 따른 감별</figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/흉통11.JPG" alt="만성 흉통의 증상 및 병력에 따른 감별 흐름도"><figcaption><p>만성 흉통의 증상·병력에 따른 감별</p></figcaption></figure></div>
 
 ## <mark style="color:green;">심장 기원 흉통</mark>
 
@@ -361,7 +361,7 @@ _¹⁾ Levine's sign : 특이도는 비교적 높은 편(78\~86%)이나 민감�
   1. 특징적인 증상 및 증상 발생 기간 동안 흉골 뒤 통증
   2. 운동 또는 정신적 스트레스에 의해 유발
   3. 휴식 또는 nitroglycerin에 의해 수 분 내 완화
-* 판정 : 3가지 모두 해당하면 전형적 협심증 양상을 시사하고, 2가지는 심장성 가능(possibly cardiac)을 시사함. 0~1개이면 전형적 협심증 양상은 아니지만, 요소의 개수만으로 ACS 또는 다른 심장 원인을 배제하거나 '비심장성'으로 확정하지 않음. 20분 이상 지속되는 흉통은 ACS 가능성을 높이는 별도 경고 소견으로 평가
+* 판정 : 3가지 모두 해당하면 전형적 협심증 양상을 시사하고, 2가지는 심장성 가능(possibly cardiac)을 시사함. 0\~1개이면 전형적 협심증 양상은 아니지만, 요소의 개수만으로 ACS 또는 다른 심장 원인을 배제하거나 '비심장성'으로 확정하지 않음. 20분 이상 지속되는 흉통은 ACS 가능성을 높이는 별도 경고 소견으로 평가
 
 ### <mark style="color:orange;">흉통 양상에 따른 허혈성 감별</mark>
 
@@ -386,7 +386,7 @@ _※ **병력청취 핵심 원칙 (2021 AHA/ACC)** 흉통의 특성은 반드시
 ▶판정 : 폐색전증 가능성 : ＞6점=가능성 높음, 2\~6점=중등도, ＜2점=낮음 ☞ [계산기](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
 
 * **2단계 분류(현재 진단 알고리즘에서 주로 사용)**: Wells ≤4점 = PE unlikely → D-dimer로 배제 시도, Wells ＞4점 = PE likely → 즉시 영상검사(CTPA)
-  * ※ 위 3단계 분류(＜2, 2–6, ＞6)는 원 연구에서 사용된 방식이나, 실제 진단 알고리즘에서는 2단계 분류가 더 널리 쓰이며, ＞6점만 "고위험"으로 강조할 경우 4~6점 환자에서 평가가 지연될 수 있음
+  * ※ 위 3단계 분류(＜2, 2–6, ＞6)는 원 연구에서 사용된 방식이나, 실제 진단 알고리즘에서는 2단계 분류가 더 널리 쓰이며, ＞6점만 "고위험"으로 강조할 경우 4\~6점 환자에서 평가가 지연될 수 있음
 
 {% hint style="info" %}
 **PESI / sPESI - PE 중증도 및 예후 분류**

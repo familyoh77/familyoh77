@@ -100,49 +100,37 @@
 
 * nociceptive / neuropathic / nociplastic / mixed : 약물 선택의 기준이 되는 분류
 
-**침해수용성(nociceptive) 통증**
-
-* 실제 조직 손상에 의해 발생; 쑤심, 욱신거림, 국소적 압통
-* 예) 관절염, 근육통, 외상, 수술 후 통증
-
-**신경병증성(neuropathic) 통증**
-
-* 체성감각신경계(somatosensory nervous system)의 병변(lesion) 또는 질환(disease)에 의해 발생; 작열감, 찌르는 듯한 통증, 전격통, 감각 저하 또는 과민 등이 나타날 수 있음
-  * CRPS 등 일부 신경병증성 통증에서는 피부 온도·색 변화 등 자율신경계 소견이 동반될 수 있음
-* 예) radiculopathy/radicular pain with neuropathic features, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
-
-**노시플라스틱(nociplastic) 통증**
-
-* 정의 : 통증을 유발할 만한 실제 또는 잠재적 조직 손상의 명확한 증거가 없고, 체성감각계의 병변이나 질환으로 설명되지 않으면서, 통각 처리(nociceptive processing)의 변화 소견이 있는 통증 \[IASP]
-* nociplastic mechanism은 nociceptive 또는 neuropathic mechanism과 동시에 존재할 수 있음(예: 만성 요통, 골관절염, 암성 통증 일부에서도 nociplastic component 동반 가능)
-* 특징 : 광범위한 통증, 이상통증(allodynia), 통각과민, 피로·수면 장애·인지 기능 저하 동반
-* 예) 섬유근통, 만성 원발성 요통, 과민성 장증후군(IBS), 만성 골반통
-* 임상 양상 및 병력으로 진단 (DN4/painDETECT는 neuropathic pain 요소 평가 도구이며, nociplastic pain을 진단하거나 배제하는 도구는 아님)
-
-**복합성(mixed) 통증**
-
-* 둘 이상의 기전이 함께 작용; 예) 척추관 협착증(nociceptive + neuropathic), 만성 요통(nociceptive/neuropathic + nociplastic 동반 가능)
-* 약물 선택도 관여 기전에 따라 병용 조정 (☞ 아래 Management > 통증 양상별 약물 선택 참조)
+1. **침해수용성(nociceptive) 통증**
+   * 실제 조직 손상에 의해 발생; 쑤심, 욱신거림, 국소적 압통
+   * 예) 관절염, 근육통, 외상, 수술 후 통증
+2. **신경병증성(neuropathic) 통증**
+   * 체성감각신경계(somatosensory nervous system)의 병변(lesion) 또는 질환(disease)에 의해 발생; 작열감, 찌르는 듯한 통증, 전격통, 감각 저하 또는 과민 등이 나타날 수 있음
+   * CRPS 등 일부 신경병증성 통증에서는 피부 온도·색 변화 등 자율신경계 소견이 동반될 수 있음
+   * 예) radiculopathy/radicular pain with neuropathic features, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
+3. **노시플라스틱(nociplastic) 통증**
+   * 정의 : 통증을 유발할 만한 실제 또는 잠재적 조직 손상의 명확한 증거가 없고, 체성감각계의 병변이나 질환으로 설명되지 않으면서, 통각 처리(nociceptive processing)의 변화 소견이 있는 통증 \[IASP]
+   * nociplastic mechanism은 nociceptive 또는 neuropathic mechanism과 동시에 존재할 수 있음(예: 만성 요통, 골관절염, 암성 통증 일부에서도 nociplastic component 동반 가능)
+   * 특징 : 광범위한 통증, 이상통증(allodynia), 통각과민, 피로·수면 장애·인지 기능 저하 동반
+   * 예) 섬유근통, 만성 원발성 요통, 과민성 장증후군(IBS), 만성 골반통
+   * 임상 양상 및 병력으로 진단 (DN4/painDETECT는 neuropathic pain 요소 평가 도구이며, nociplastic pain을 진단하거나 배제하는 도구는 아님)
+4. **복합성(mixed) 통증**
+   * 둘 이상의 기전이 함께 작용; 예) 척추관 협착증(nociceptive + neuropathic), 만성 요통(nociceptive/neuropathic + nociplastic 동반 가능)
+   * 약물 선택도 관여 기전에 따라 병용 조정 (☞ 아래 Management > 통증 양상별 약물 선택 참조)
 
 <mark style="color:cyan;">**임상 phenotype(원인·양상)에 따른 분류**</mark>
 
 * 근육통·염증성·기계적/압박성 등 : 대부분 nociceptive mechanism에 속하는 하위 유형
 
-**근육(muscle) 통증**
-
-* 근육 조직의 긴장, 손상 또는 염증으로 인해 발생하는 둔하고 쑤시는 통증
-* 압통, 활동 시 악화, 휴식 시 호전
-* 예) 긴장성 근육통, myofascial pain syndrome, 경추·요추 주변 근육통
-
-**염증성(inflammatory) 통증**
-
-* 통증 부위의 발열, 발적, 부종
-* 예) 관절염, 감염, 손상, 수술 후 통증
-
-**기계적/압박성(mechanical/compressive) 통증**
-
-* 활동 중 악화, 휴식 시 호전
-* 예) 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압축 골절
+1. **근육(muscle) 통증**
+   * 근육 조직의 긴장, 손상 또는 염증으로 인해 발생하는 둔하고 쑤시는 통증
+   * 압통, 활동 시 악화, 휴식 시 호전
+   * 예) 긴장성 근육통, myofascial pain syndrome, 경추·요추 주변 근육통
+2. **염증성(inflammatory) 통증**
+   * 통증 부위의 발열, 발적, 부종
+   * 예) 관절염, 감염, 손상, 수술 후 통증
+3. **기계적/압박성(mechanical/compressive) 통증**
+   * 활동 중 악화, 휴식 시 호전
+   * 예) 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압축 골절
 
 ***
 
