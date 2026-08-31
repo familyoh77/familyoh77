@@ -4,15 +4,18 @@
 **관련 챕터** : 불안장애 · [공황장애](026_-panic-disorder.md) · [우울증](027_-depression.md) · [산후우울증](028_-postpartum-depression.md) 동반 이환이 매우 흔하며, SSRI/SNRI가 공통 1차 치료제임. 감별 및 연계 평가 시 해당 챕터 참조
 {% endhint %}
 
+{% hint style="info" %}
+이 챕터는 불안장애 총론 중 **범불안장애(Generalized Anxiety Disorder, GAD)의 진단과 치료**를 중심으로 다룬다. 공황장애 등 개별 불안장애는 관련 챕터를 함께 참조한다.
+{% endhint %}
+
 ## <mark style="color:green;">일반 사항</mark>
 
 * 실제 발생한 위험에 비하여 과도하고 지속되며 조절하기 어려운, 불편하고 일상생활에 지장을 주는 걱정; 일상적인 상황에 대하여 과도한 불안감
 * 불안감을 유발하는 실체나 상황을 피하기 위해 부적절한 행동을 취하기도 함
-* 흔히 주요우울증, 기분 저하, 사회공포증을 동반
-* 대부분 의학적 상태와 정신적 상태가 결합되어 있음
-* 유병률 : 범불안장애 평생 유병률 여성 7%, 남성 4%; 50%가 18세 이전에 발생, 중간 연령 30세
-* 1차 의료기관 내 유병률(JAMA Intern Med 2026) : GAD 7.6%, 전체 불안장애 19.5%; 불안장애 환자의 57%가 다른 불안장애를 추가로 동반, 약 2/3가 주요우울증 동반
-* 동반 만성질환 : 만성통증 50.4%, 심혈관질환 32.5\~53.1%, 천식 11.8\~51.5%, COPD 16\~30%, 류마티스관절염 25.9\~58%, 위장관질환 28%, 암 6.5\~30% - 신체질환과의 상호 악화 관계를 항상 고려
+* 흔히 주요우울증, 지속적인 기분 저하, 사회불안장애 등을 동반
+* 유병률 : 미국의 평생 유병률 조사에서 범불안장애는 여성 약 7%, 남성 약 4%로 보고됨. 발병연령은 연구와 정의에 따라 차이가 있으나, GAD는 특정공포증·분리불안장애 등 일부 불안장애보다 상대적으로 늦게 발병할 수 있음
+* **2007년 미국 일차의료 연구**에서 GAD 7.6%, 전체 불안장애 19.5%로 보고되었고 불안장애 간 동반 이환도 흔했음. 이는 2026년 신규 역학조사 결과가 아니라, 2026년 JAMA Internal Medicine 일차진료 리뷰에서 인용한 기존 연구 결과임
+* 만성통증, 심혈관·호흡기·위장관질환 등 만성 신체질환과 흔히 동반되며, 신체질환과 불안 증상이 서로 악화시킬 수 있음
 * 만성적인 신체적 건강 문제가 있거나, 신체적 건강 문제는 없지만 이에 대한 확신을 갖고자 하거나, 여러 다른 문제들에 대하여 반복적으로 걱정을 하고 있는 경우 불안증 감별을 요함
 
 ## <mark style="color:green;">원인</mark>
@@ -32,26 +35,6 @@
 * 급만성 질환 또는 통증
 * 정신적 문제가 있는 가족력
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
-
-* 자살 사고 또는 자해 계획이 구체적으로 있는 경우
-* 타인에 대한 위해 의도
-* 급성 정신증(환청, 망상, 심한 와해 행동) 동반
-
-<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가**</mark>
-
-* 자살 사고가 있으나 구체적 계획은 없는 경우 ([PHQ-9](027_-depression.md#phq-9) 9번 항목 양성)
-* 유의미한 동반 질환 (예: 약물·알코올 남용, 인격장애)
-* 심한 기능 저하 (직장·학업·일상생활 수행 불가)
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
-
-* 치료에 반응하지 않는 경우 (2가지 이상 약제 충분한 용량·기간 사용 후에도 미호전)
-* 반복되는 공황 발작 또는 증상 악화
-* 50세 이후 새로 발생한 불안 (기질적 원인 배제 필요)
-
 ## <mark style="color:green;">임상 양상</mark>
 
 * 걱정, 두려움, 예기 불안, 집중력 저하, 불안 유발 상황에 대한 경계, 대인 접촉 기피
@@ -61,15 +44,37 @@
 
  ※ 공황장애에 비하여 갑작스럽고 최고조에 도달하는 양상은 덜함; 자율신경 증상 자체는 GAD에서도 나타날 수 있음
 
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+
+* 현재 자살 또는 자해 의도, 구체적 계획, 수단 접근성이 있거나 충동을 통제하기 어려운 경우
+* 타인에 대한 위해 의도
+* 급성 정신증(환청, 망상, 심한 와해 행동), 조증·혼재성 삽화 또는 섬망·급성 의식 변화
+* 중증 알코올·benzodiazepine 금단 또는 급성 중독이 의심되는 경우
+* 흉통, 실신, 저산소증, 중증 부정맥, 갑상선중독증 등 불안처럼 보이는 응급 신체질환이 의심되는 경우
+
+<mark style="color:$warning;">**당일 의뢰 또는 긴급 평가**</mark>
+
+* 자살사고가 있으나 현재 구체적 계획·의도가 확인되지 않은 경우: ([PHQ-9](027_-depression.md#phq-9) 9번 항목 양성 포함) 즉시 구조화된 자살위험 평가를 시행하고, 의도·수단 접근성·과거 시도·충동성·물질사용·보호요인과 안전한 귀가 가능성에 따라 이송 또는 당일 전문평가 여부 결정
+* 유의미한 약물·알코올 사용장애 또는 중증 정신질환 동반
+* 심한 기능 저하로 직장·학업·기본적인 일상생활을 수행하기 어려운 경우
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 - 단독 시 즉각 위험 낮으나 경과 관찰 필요**</mark>
+
+* 2가지 이상 근거기반 치료를 충분한 용량·기간 시행했음에도 호전되지 않는 경우
+* 증상이 악화되거나 새로운 공황발작·우울·물질사용 증상이 나타나는 경우
+* 50세 이후 새로 발생한 불안 또는 비전형적·급격한 발병 (기질적 원인 평가)
+
 ## <mark style="color:green;">진단</mark>
 
-#### <mark style="color:$primary;">범불안장애 진단 기준 (Generalized anxiety disorder. GAD) \[DSM-5]</mark>
+#### <mark style="color:$primary;">범불안장애 진단 기준 (Generalized anxiety disorder, GAD) \[DSM-5-TR]</mark>
 
 A. 최소 6개월 동안 많은 사건이나 활동(예: 직장이나 학교생활 수행)에 대하여 과도한 걱정과 불안감(예기 불안)이 발생한 날이 그렇지 않은 날보다 많음
 
 B. 환자 스스로 걱정을 조절하는 것이 어렵다는 것을 알고 있음
 
-C. 불안감과 걱정은 다음 6가지 중 ≥3가지와 관련 있음; 복수의 증상이 과거 6개월 동안 발생한 날이 그렇지 않은 날보다 많음
+C. 불안감과 걱정은 다음 6가지 중 성인은 ≥3가지, 소아는 ≥1가지와 관련 있음; 복수의 증상이 과거 6개월 동안 발생한 날이 그렇지 않은 날보다 많음
 
 1. 차분하지 못함, 또는 안절부절
 2. 쉽게 피로
@@ -86,20 +91,22 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 ### <mark style="color:orange;">선별 검사</mark>
 
-※ USPSTF(2023) : 증상 유무와 관계없이 65세 미만의 모든 성인에게 불안장애 선별 검사 시행 권고 (B등급). 일차의료에서 예방적 선별의 근거로 활용 가능
+※ USPSTF(2023) : 이미 불안장애를 진단받았거나 인지된 증상이 없는 19\~64세 성인(임신부·산후 여성 포함)에게 불안장애 선별을 권고(B등급). 65세 이상은 선별을 권고하지 않는다는 뜻이 아니라 이익과 위해를 판단할 근거가 불충분함(I statement). 양성 결과는 확진이 아니며 진단평가와 근거기반 치료·의뢰 체계로 연결해야 함. 최적 선별 간격은 확립되지 않음
 
 #### <mark style="color:$primary;">Generalized anxiety disorder 7-item</mark> [<mark style="color:$primary;">(GAD-7)</mark>](http://www.phqscreeners.com)
 
 ▶ 질문 : 지난 2주일 동안 당신은 다음의 문제들로 인하여 지장을 받았던 날들이 얼마나 됩니까?
 
-<table><thead><tr><th width="369.68414306640625">항목</th><th width="79.57891845703125" align="center">없음 (0~1일)</th><th width="79.5789794921875" align="center">수일 (2~6일)</th><th width="79.578857421875" align="center">절반 이상 (7~11일)</th><th width="85.894775390625" align="center">거의 매일 (12~14일)</th></tr></thead><tbody><tr><td><ol><li>초조하거나 불안하거나 조마조마하게 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>걱정하는 것을 멈추거나 조절할 수 없다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="3"><li>여러 가지 것들에 대해 걱정을 너무 많이 한다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="4"><li>편안하게 있기 어렵다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="5"><li>너무 안절부절못해서 가만히 있기 힘들다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="6"><li>쉽게 짜증이 나거나 쉽게 화를 내게 된다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="7"><li>마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
+<table><thead><tr><th width="369.68414306640625">항목</th><th width="79.57891845703125" align="center">전혀 없음</th><th width="79.5789794921875" align="center">수일</th><th width="79.578857421875" align="center">절반 이상</th><th width="85.894775390625" align="center">거의 매일</th></tr></thead><tbody><tr><td><ol><li>초조하거나 불안하거나 조마조마하게 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="2"><li>걱정하는 것을 멈추거나 조절할 수 없다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="3"><li>여러 가지 것들에 대해 걱정을 너무 많이 한다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="4"><li>편안하게 있기 어렵다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="5"><li>너무 안절부절못해서 가만히 있기 힘들다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="6"><li>쉽게 짜증이 나거나 쉽게 화를 내게 된다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr><tr><td><ol start="7"><li>마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.</li></ol></td><td align="center">0</td><td align="center">1</td><td align="center">2</td><td align="center">3</td></tr></tbody></table>
 
 ▶ 판정 : 0\~4점 = minimal / 5\~9점 = mild / 10\~14점 = moderate / 15\~21점 = severe
 
 <mark style="color:red;">**\[삶의 질 평가]**</mark> (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
 ☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다.
 
-※ **삶의 질 평가** : 이 문항은 DSM-5 진단기준 D(기능 손상)에 직접 대응함. '매우 힘들다' 이상의 응답은 GAD-7 총점이 낮더라도(mild 범위) 적극적 개입의 근거가 되며, 치료 반응 평가 시에도 증상 점수와 함께 반드시 확인해야 함
+※ **기능 평가** : 이 문항은 기능 손상 정도를 파악하는 참고문항임. GAD-7 점수와 함께 해석하되, 특정 응답만으로 진단하거나 약물치료 시작·변경 여부를 결정하지 않음
+
+※ **해석 원칙** : GAD-7은 선별·중증도·치료 경과 측정 도구이며 확진 도구가 아님. 10점 이상이면 추가 진단평가가 필요하지만, 치료 시작·증량·감량은 진단, 기능 손상, 자살 위험, 공존질환, 치료 경과, 환자 선호와 관해 후 유지기간을 함께 고려하여 결정
 
 #### <mark style="color:$primary;">GAD-2 screening</mark>
 
@@ -109,39 +116,24 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">Penn State Worry Questionnaire (PSWQ)</mark>
 
-* 선별 도구로서 특정 점수가 정신건강 질환을 확진하지는 않으며, cutoff 점수는 연구 대상 집단에 따라 달라질 수 있음; 1차 진료에서 GAD 선별 목적으로는 ≥62점을, 사회불안장애와의 감별에는 ≥65점을 기준으로 사용하는 경우가 많음
-* 의미 있는 변화로 판정하려면 6점 이상의 변화가 필요하며, 그보다 작은 변화는 치료 효과보다 정상 변동을 반영할 가능성이 높음
-* 배점 : 자신의 현재 상태와 전혀 맞지 않는다=1점, 약간 맞다=2점, 웬만큼 맞다=3점, 꽤 맞다=4점, 매우 맞다=5점; 최대 80점
-  * 1, 3, 8, 10, 11번은 역채점 문항, 응답 점수를 반대로 배점 : 전혀 맞지 않는다=5점, 매우 맞다=1점
-
-1. 나는 일을 다 끝낼 만큼 시간이 충분치 않아도 걱정하지 않는다.
-2. 걱정이 나를 누른다.
-3. 나는 그리 걱정하는 사람이 아니다.
-4. 나는 여러 가지 일에 대해서 걱정한다.
-5. 나는 걱정하지 않아도 된다는 것을 알면서도 어쩔 수가 없다.
-6. 뭔가에 압박을 받으면 상당히 걱정하게 된다.
-7. 나는 늘 뭔가에 대해 걱정하고 있다.
-8. 걱정스러운 생각을 떨쳐버리는 것이 어렵지 않다.
-9. 무슨 일 하나를 끝내면 곧바로 해야 할 다른 일에 대한 걱정이 시작된다.
-10. 나는 어떤 일에 대해서도 전혀 걱정하지 않는다.
-11. 걱정거리에 대해 내가 할 수 있는 일이 없다면 더 이상 걱정하지 않는다.
-12. 나는 지금까지 늘 걱정이 많은 사람이었다.
-13. 얼마 전에도 어떤 것에 대해서 걱정하고 있었다.
-14. 일단 걱정이 시작되면 멈출 수가 없다.
-15. 나는 내내 걱정하고 지낸다.
-16. 나는 어떤 일을 다 끝마칠 때까지는 그 일에 대해 계속 걱정한다.
+* 병적 걱정의 정도와 치료 경과를 평가하는 16문항 보조척도. 일차진료 선별에는 GAD-2/GAD-7이 더 간편함
+* 총점은 16\~80점. 원판의 1·3·8·10·11번은 역채점(1↔5점, 2↔4점)하되, 사용 중인 검증 한국어판의 문항 순서와 채점지침을 반드시 확인
+* cutoff와 의미 있는 변화량은 연구 대상 집단에 따라 다르므로 특정 점수만으로 GAD를 확진하거나 사회불안장애와 감별하지 않음
+* 전문 평가 또는 연구에서 사용할 때에는 검증된 한국어판 문항과 채점법을 확인하여 사용
 
 ### <mark style="color:orange;">검사</mark>
 
-* 기질적 원인 배제를 위하여 시행
-* CBC, TSH, 혈당, 전해질, urine toxicology, ECG
-  * Urine drug screen : 물질 사용에 의한 불안 증상 또는 금단 증상 배제 목적으로 amphetamines, methamphetamine, cannabis, benzodiazepines, opioids 등 검사; 국내에서는 methamphetamine 및 cannabis 검사가 가장 유의미
+* 불안장애는 임상진단이며 모든 환자에게 정해진 검사 패널을 일률적으로 시행하지 않음
+* 병력, 진찰, 발병 연령·속도와 의심되는 원인에 따라 CBC, TSH, 혈당, 전해질, ECG, 임신반응검사 등을 선택
+* 갑작스러운 발병, 비전형적 증상, 50세 이후 신규 발병 또는 물질사용·금단이 의심될 때 표적 검사를 고려
+  * Urine drug screen은 위양성·위음성과 검출기간 차이가 있으며, cannabis 양성 등 단일 결과가 증상의 원인을 확정하지는 않음. 복용약·노출력과 함께 해석
 
 ### <mark style="color:orange;">감별</mark>
 
 * 스트레스, 갑상선항진증, 심장 질환, 심한 신체 질환, 알코올/항불안제 금단 증상
-* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine), 교감 신경 흥분제(예: β2-작용제), 일부 항고혈압제(예: hydralazine, calcium channel blocker - 반사적 교감 활성); pseudoephedrine; cannabis(불안 악화 가능)
-* 다른 정신 질환 : 우울증, 공황장애, 강박장애, 외상 후 스트레스, 신체화장애, 조현병, 망상장애
+* 약물 : 정신 자극제(예: 카페인, amphetamine, cocaine, methamphetamine), 교감 신경 흥분제(예: β2-작용제), pseudoephedrine, corticosteroid; cannabis(불안 악화 가능)
+* 다른 정신 질환 : 우울증, 공황장애, 양극성장애, 강박장애, 외상후스트레스장애, 신체증상장애, 질병불안장애, 조현병, 망상장애
+  * DSM-5-TR에서 강박장애와 외상후스트레스장애는 불안장애와 별도 범주이지만 증상이 중첩될 수 있어 감별 필요
 
 #### <mark style="color:$primary;">우울증</mark>
 
@@ -155,11 +147,11 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * 근육 긴장, 신체 긴장감, 미래 걱정 → GAD 우세
 * 갑작스러운 공포 발작, 회피 행동 → 공황장애
 
-#### <mark style="color:$primary;">건강염려증</mark>
+#### <mark style="color:$primary;">질병불안장애 Illness anxiety disorder</mark>
 
-* 건강염려증은 보통 질병에 대한 걱정인 반면, GAD는 질병 이외의 다른 것들에 대해서도 걱정함
+* 질병불안장애(과거 건강염려증)는 주로 중대한 질병에 걸렸거나 걸릴 것이라는 걱정이 중심인 반면, GAD는 건강 이외의 여러 영역을 지속적으로 걱정함
 
-#### <mark style="color:$primary;">Social anxiety disorder</mark>
+#### <mark style="color:$primary;">사회불안장애 Social anxiety disorder</mark>
 
 * 미팅, 발표, 낯선 사람들과의 대화 등 다른 사람에 의해 평가될 수 있는 상황에 대하여 과도한 두려움을 느끼는 상태
 * 사람들이 부정적인 태도(예: 거절, 어색함, 비웃음, 불쾌함)를 갖는 것에 대하여 과도하게 걱정
@@ -174,7 +166,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">범불안장애, 공황장애, 특정공포증 비교</mark>
 
-<table><thead><tr><th width="100.52630615234375"></th><th>GAD</th><th>Panic Disorder</th><th>Specific Phobia</th></tr></thead><tbody><tr><td><strong>유병률</strong><br><strong>/역학</strong></td><td>2~4%; 사춘기 이후 여성 우세. 원인에서 약간의 유전적 요인</td><td>0.2~10%; 가족력이 있는 경우 더 흔하고(8배) 조기 발병</td><td>소아 5%, 청소년 16%; 여:남 = 2:1, 가족력 영향(+)</td></tr><tr><td><strong>시작 연령</strong></td><td>평균 10세</td><td>평균 20~24세. 14세 전 &#x3C;0.4%</td><td>다양</td></tr><tr><td><strong>감별 질환</strong></td><td>기타 불안장애, 강박장애, PTSD, 우울증, 양극성, 정신병성 장애, 약물 관련(카페인, 진정제 금단)</td><td>통상적인 질병 상태에 기인하는 불안장애; 약물 관련 불안장애(카페인, 기타 자극제)</td><td>광장공포증, 공황장애, 강박장애, PTSD</td></tr><tr><td><strong>동반 질환</strong></td><td>단극성 우울증, 기타 불안장애</td><td>분리 불안 장애(흔함), 광장공포증, 약물 사용, 주요 우울증, OCD, 기타 불안장애; 천식</td><td>우울증, 기타 불안장애</td></tr></tbody></table>
+<table><thead><tr><th width="100.52630615234375"></th><th>GAD</th><th>Panic Disorder</th><th>Specific Phobia</th></tr></thead><tbody><tr><td><strong>유병률</strong><br><strong>/역학</strong></td><td>12개월 유병률은 조사에 따라 약 2~4%; 사춘기 이후 여성 우세, 유전·환경 요인이 함께 작용</td><td>연구별 차이가 크며 가족력이 있는 경우 더 흔함</td><td>소아·청소년기에 흔하고 여성에서 더 흔함</td></tr><tr><td><strong>시작 연령</strong></td><td>어느 연령에서나 시작할 수 있으나 특정공포증·분리불안장애보다 상대적으로 늦게 발병하는 경향</td><td>청소년 후기~성인 초기에 흔함</td><td>소아기에 흔하나 연령별 차이 있음</td></tr><tr><td><strong>감별 질환</strong></td><td>기타 불안장애, 강박장애, PTSD, 우울증, 양극성장애, 정신병성 장애, 약물 관련(카페인, 진정제 금단)</td><td>의학적 상태에 의한 불안장애; 약물 관련 불안장애(카페인, 기타 자극제)</td><td>광장공포증, 공황장애, 강박장애, PTSD</td></tr><tr><td><strong>동반 질환</strong></td><td>단극성 우울증, 기타 불안장애</td><td>광장공포증, 물질사용장애, 주요우울증, 기타 불안장애; 천식</td><td>우울증, 기타 불안장애</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>_
 
@@ -185,33 +177,38 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 ### <mark style="color:orange;">치료 방침</mark>
 
 * GAD는 SSRI/SNRI와 인지행동요법(CBT)이 모두 효과적인 1차 치료이며, 환자 선호·중증도·접근성을 고려하여 단독 또는 병행하고 measurement-based follow-up을 시행
-* 역치하 불안(subthreshold anxiety) : 진단기준(예: 6개월 지속)에 못 미치지만 임상적으로 유의한 증상군; 자가관리·행동치료부터 시작하며 약물치료의 근거는 약함 - GAD-7 5\~9점 구간(경도) 접근과 부합
+* 역치하 불안(subthreshold anxiety) : 진단기준(예: 6개월 지속)에 못 미치지만 임상적으로 유의한 증상군; 자가관리·행동치료부터 시작하며 약물치료의 근거는 약함. GAD-7 점수만으로 역치하 불안을 정의하지 않음
 * 공유의사결정(shared decision-making) : 환자가 선호하는 치료를 받을 때 치료 만족도·순응도·예후가 더 좋음 - 약물·정신치료·병행 중 환자의 선호를 적극 반영
-* 예후 : 치료하지 않거나 통상 진료만 받은 경우 2\~5년 내 완전 회복은 40%에 불과; 반면 환자가 선호하는 치료(CBT·약물·병행)를 받은 경우 반응률(≥50% 개선) 64%(통상 진료 45%), 1년 내 관해율 51%(통상 진료 33%)로 크게 개선 (JAMA Intern Med 2026) - 적극적 치료의 근거로 환자에게 설명 가능
+* 예후 : 불안장애는 만성·재발성 경과를 보일 수 있으나 근거기반 정신치료와 약물치료로 호전 가능. 2026년 JAMA Internal Medicine 리뷰가 인용한 기존 일차진료 협력진료 연구에서는 통상 진료보다 반응·관해가 개선되었음
 * 자살 위험, 약물 남용, 다른 정신 질환 여부를 확인하고 관리
-* 자살 사고가 있는 경우 : 안전 계획(Safety Planning) 작성 권고 - 위기 상황에서 연락할 곳, 대처 방법, 주변 지지자를 환자 스스로 기록하게 함 \[Zero Suicide 프레임워크, 2022]
-* 불안증으로 진단되면 조기에 치료 시작
+* 자살 사고가 있는 경우 : 구조화된 위험평가 후 환자와 함께 안전 계획(Safety Planning)을 작성. 경고신호, 혼자 시행할 대처법, 도움을 받을 사람·장소, 가족·지지자, 진료기관·자살예방 상담전화 109·112/119, 치명적 수단 제한과 단기 재평가 계획을 기록함 \[Stanley-Brown Safety Planning Intervention, 2012]
+  * 현재 구체적 의도·계획·수단 접근성이 있거나 안전한 귀가를 보장할 수 없으면 안전 계획만으로 대체하지 말고 즉시 응급 평가·이송
+* 불안증으로 진단되면 조기에 치료 시작. SSRI/SNRI 시작 전 과거 조증·경조증, 수면욕 감소, 과대감·충동적 행동, 항우울제 유발 활성화와 양극성장애 가족력을 확인
 * 낮은 강도의 심리적 중재 : 개별적 또는 그룹 중재
 * 현저한 기능 장애가 있거나 낮은 강도의 심리적 중재로 호전되지 않는 경우 고강도 정신 치료(예: 인지행동 요법) &/or 약물 치료
-* 매 방문 때마다 불안 수준 정량화 모니터링(GAD-7) - Measurement-based care
-  * GAD-7 ＜5 (치료 중): 유지 또는 감량 검토
-  * GAD-7 5\~9 : watchful waiting, 비약물 치료 강화
-  * GAD-7 ≥10 : 치료 시작 또는 강화 (SSRI/SNRI)
-  * 삶의 질 평가 문항도 함께 확인 - 총점이 낮아도 기능 손상이 있으면 적극 개입
+
+{% hint style="warning" %}
+**Measurement-based care - GAD-7 점수만으로 치료를 결정하지 않는다**
+
+정기적으로 GAD-7과 기능 수준을 함께 측정하여 경과를 추적한다. 5·10·15점은 중증도 구간이고 10점 이상은 추가 진단평가가 필요한 선별 기준이지만, 치료 시작·강화·유지·감량을 한 번의 점수로 자동 결정하지 않는다. 증상 변화, 기능 손상, 자살 위험, 공존질환, 부작용, 환자 선호, 재발력과 관해 후 유지기간을 함께 판단한다.
+{% endhint %}
+
 * GAD는 만성 상태이므로 갑작스런 악화는 공황장애, 갑상선 질환 등 다른 질환이나 악화 요인 확인이 필요함
+* 가능한 기관에서는 일차진료의사, care manager와 정신건강의학과 자문이 측정기반 추적과 치료 조정을 함께하는 통합협력진료(Collaborative Care Management)를 고려
 
 #### <mark style="color:$primary;">일차 진료 단계별 접근 알고리즘</mark>
 
 **Step 1. 응급 선별 (Red flags)**\
- → 자살 사고, 급성 정신증, 타해 의도 → 즉각 이송/응급 평가
+ → 현재 자살·타해 의도/계획, 급성 정신증·조증·섬망, 중증 금단·중독 또는 응급 신체질환 의심 → 즉각 이송/응급 평가
 
-**Step 2. 중증도 평가 및 초기 치료 선택 (GAD-7)**\
- GAD-7 ＜5 → 재보증(reassurance), 생활 습관 교육\
- GAD-7 5\~9 → 심리교육 ± 정신치료(CBT 등); 4\~6주 후 재평가\
- GAD-7 ≥10 또는 유의한 기능 손상 → SSRI/SNRI 및/또는 CBT 시작
+**Step 2. 진단·중증도·기능 평가 및 초기 치료 선택**\
+ GAD-7은 선별·중증도 참고자료로 사용하고 임상면담으로 GAD를 확진\
+ 경도·역치하 증상, 기능 손상 경미 → 심리교육, 자가관리·저강도 심리중재 후 재평가\
+ 확진된 GAD에서 중등도 이상 증상 또는 유의한 기능 손상 → 환자 선호에 따라 CBT 또는 SSRI/SNRI, 필요 시 병행
 
-**Step 3. 치료 반응 평가 (치료 4\~6주 후)**\
- 반응(≥50% 개선) → 현 치료 유지\
+**Step 3. 치료 반응 평가**\
+ 초기 내약성·안전성은 2\~4주 내 확인하고, 충분한 치료용량에서 대개 6\~8주 후 반응 평가\
+ 의미 있는 증상·기능 개선 → 현 치료 유지\
  부분 반응 → 순응도·용량 확인 후 증량 또는 정신치료 추가; 필요한 경우 보조 약물 검토\
  무반응 → 진단·공존질환·물질사용·치료 순응도 재평가 후 다른 계열 약제로 교체 또는 정신치료 추가\
 
@@ -225,9 +222,9 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 6\~8주 : 충분한 치료 반응 여부 평가 시점
 * 3\~6개월 : 관해(remission) 도달 목표; 재발 방지를 위해 관해 후 최소 12개월 유지
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 인지행동요법(CBT)은 근거가 가장 축적된 정신치료이며, 초기 치료 시기부터 시작할 수 있음
+* 인지행동요법(CBT)은 단기 및 장기 효과 근거가 가장 축적된 정신치료이며, 초기 치료 시기부터 시작할 수 있음
 * 국내 전문가 합의의 1차 선택 : 개인 CBT, 집단 CBT, 마음챙김기반 인지치료(MBCT), 수용전념치료(ACT), 응용이완법(applied relaxation)
   * 개인 CBT가 상대적으로 가장 선호되었으나 집단 CBT도 1차 선택에 해당
   * CBT와 MBCT가 동등한 효과·유용성을 보인다는 응답이 62.9%였으나, 이는 비교 임상시험의 동등성 입증이 아니라 국내 전문가 인식 조사 결과임
@@ -239,8 +236,8 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 정신치료와 약물치료는 모두 효과적인 선택이며 환자 선호와 중증도에 따라 단독 또는 병행. 단독치료 반응이 불충분하면 병행을 우선 고려
 * 카페인 섭취 제한(＞400 ㎎/day 불안 악화), 금연, 금주(술로 문제를 해결하게 해서는 안 됨)
 * Avoid list : 에너지음료, pseudoephedrine(코감기약), cannabis(불안 악화 가능), 고용량 카페인 음료
-* 신체 활동, 이완 요법 : 규칙적 운동, 요가, 태극권, 기공, 명상; 일부 연구에서 유효
-* 디지털 치료제(DTx) : 앱 기반 인지행동치료(CBT)를 경증\~중등도 불안장애의 보조 수단으로 활용 가능; FDA cleared CBT 기반 DTx 존재(2024\~2025); 경증\~중등도에서 보조치료로 권고 수준까지 근거 축적 - 단, 국내 건강보험 급여 미적용, 활용 시 보조적 역할임을 안내
+* 신체 활동, 이완 요법 : 규칙적 운동을 권장. 요가, 태극권, 기공, 명상은 보조적으로 고려할 수 있으나 연구의 이질성이 크고 근거 확실성은 제한적
+* 디지털 중재 : 인터넷·앱 기반 CBT는 접근성을 보완하는 보조 수단으로 활용할 수 있으나 제품별 임상근거, 규제기관 허가 대상·사용조건과 국내 허가·급여 여부를 확인. 대면 평가와 필요한 치료를 대체하지 않음
 * 허브(근거 부족) : St. John's wort(hyperici), Sympathyl, 시계풀(passionflower), 쥐오줌풀(valerian)
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -251,7 +248,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 * 항우울제의 부분 효과는 2\~4주부터 나타날 수 있으며 충분한 반응은 보통 4\~6주 이상 걸림. 관해까지는 수개월이 필요할 수 있음
 * 추적 관찰 : 첫 3개월 동안 2\~4주마다, 이후 3개월마다 약효와 부작용 평가
   * 새로운 약제 투여 시 2\~4주 내 F/U
-* 치료 유지 기간 : 재발 감소를 위하여 첫 삽화 후 최소 12개월 이상 유지; 재발력이 있는 경우 2년 이상 유지 권고 \[NICE 2023]
+* 치료 유지 기간 : 효과가 있으면 관해 후 최소 12개월 유지하며, 재발력·잔여증상·중증 공존질환이 있으면 2년 이상을 개별적으로 고려 \[NICE CG113]
 * 약제 중단 시 tapering 하며(갑자기 중단하지 않음) 증상 재발, 약물 금단 증상 등 모니터링
 
 ### <mark style="color:orange;">초기 약물치료 전략</mark>
@@ -263,7 +260,7 @@ _<mark style="color:$info;">Ref. Ferri's clinical advisor 2024. Table E2.</mark>
 {% hint style="info" %}
 **KMAP-GAD 2024 국내 전문가 합의**
 
-국내 전문가 설문에서는 초기 치료로 **항우울제+항불안제 병용**이 최우선 치료(평균 9.09), 항우울제 단독이 다음 1차 선택이었다. 여기서 항불안제에는 BZD와 azapirone(buspirone 등)이 모두 포함된다. 이는 무작위시험 기반 권고가 아니라 국내 전문가 합의이므로 환자별 위험과 국제 근거기반 지침을 함께 고려한다.
+국내 전문가 설문에서는 초기 치료로 **항우울제+항불안제 병용**이 최우선 치료(평균 9.09), 항우울제 단독이 다음 1차 선택이었다. 여기서 항불안제에는 BZD와 azapirone(buspirone 등)이 모두 포함된다. 이는 무작위시험 기반 권고가 아니라 국내 전문가 합의이다. NICE 등 다수의 국제 근거기반 지침은 SSRI/SNRI 또는 CBT 단독을 우선 권고하며 BZD 병용을 일률적인 1차 전략으로 권고하지 않으므로, 환자별 위험·선호와 총 약물 노출을 함께 고려한다.
 
 BZD 병합기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지속사용 등으로 응답이 분산되어 합의된 권장기간으로 볼 수 없다.
 {% endhint %}
@@ -310,21 +307,22 @@ BZD 병합기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지속
 * 초기 불안 악화(jitteriness syndrome) : 투약 첫 1\~2주에 불안·초조가 일시 악화될 수 있음. 위험 인자 : 공황장애 동반, 기저 불안 수준 높음, 급격한 증량 → 저용량 시작 및 환자 사전 설명으로 예방
 * 성기능 장애 : 발생률 30\~50%; 주요 증상 - 성욕 저하, 불감증, 사정 지연. 관리 : 용량 감량, vortioxetine 또는 bupropion(우울 동반 시)으로 전환 고려; buspirone 병용도 SSRI 유발 성기능 부작용 완화에 도움될 수 있음
 * 세로토닌 증후군 주의 : SSRI/SNRI 처방 전 병용 약물 확인 필수 - tramadol(오피오이드계 진통제), triptans(편두통 치료제), linezolid(항생제), fentanyl, dextromethorphan(일반 감기약) 등 세로토닌 활성 약물과 병용 시 세로토닌 증후군(고열·근육 경직·진전·의식 변화) 위험; 다른 과 처방 여부 반드시 확인
-* QT 간격 연장 : escitalopram·citalopram은 SSRI 중 QT 연장 위험이 상대적으로 높음 (FDA 경고, 2012); 고용량(escitalopram ＞20 ㎎), QT 연장 위험 약물(항부정맥제·항생제·항정신병제 등) 병용 시 주의; 기저 심질환·저칼륨혈증 환자에서 투여 전 ECG 고려
+* QT 간격 연장 : citalopram·escitalopram은 용량 의존적으로 QT가 연장될 수 있음. escitalopram은 권장 최대 20 ㎎/d를 초과하지 않으며, QT 연장 약물 병용·기저 심질환·저칼륨혈증 등 위험이 있으면 ECG와 전해질 확인 고려
 * SNRI 추가 주의 : 산동(mydriasis) 효과로 인한 안압 상승. 폐쇄각 녹내장(narrow-angle glaucoma) 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
-* 고령자 : SSRI/SNRI 투여 시 저나트륨혈증(SIADH) 위험 모니터링. 투약 초기 전해질 확인 권고; duloxetine은 위장관 이상반응 위험으로 Beers Criteria(2023)상 고령자에서 회피 권고 약물에 포함됨
+* 고령자 : SSRI/SNRI 투여 시 저나트륨혈증(SIADH) 위험을 고려하여 고위험군에서 기저 및 투약 초기 전해질 확인. Duloxetine은 모든 고령자에서 회피하는 약물이 아니라 CrCl ＜30 mL/min에서 위장관 이상반응과 대사산물 축적 우려로 회피
 * Fluvoxamine : CYP1A2·CYP2C19 억제 작용이 있어 diazepam 등 이 경로로 대사되는 benzodiazepine과 병용 시 혈중농도 상승 위험 - FDA 라벨에서도 특히 diazepam 병용에 주의를 명시
-* 임산부 : SSRI/SNRI 사용 시 신생아 지속성 폐고혈압(PPHN) 및 신생아 금단 증상 위험 고려(임신 3분기 노출 시); 정신건강의학과 협진 권고
+* 임신·수유 : 임신 후기 노출 시 신생아 적응증후군과 PPHN 가능성을 고려하되 절대위험, 치료하지 않은 중증 불안·우울의 위험, 기존 치료반응과 수유 계획을 함께 평가. 치료력이 없는 임신·임신 계획 환자에서 새로 시작할 때에는 sertraline 또는 escitalopram을 우선 고려할 수 있음
+  * Paroxetine은 임신 1삼분기 노출과 심혈관 기형 위험 증가의 연관성이 보고되어 대안이 있으면 새로 시작하지 않는 편이 합리적임. 다만 이미 안정적으로 복용 중인 환자는 재발·금단 위험을 포함해 개별적으로 판단하며 임의 중단·일률적 변경을 피하고 산부인과·정신건강의학과와 협의
 * 약물 중단 시 반동 증상 : 어지럼, 이상 감각, 구역/구토, 두통, 발한, 불안, 수면 장애
 * Tapering 원칙 : 용량이 낮아질수록 더 작은 폭으로 천천히 감량(hyperbolic tapering). 특히 paroxetine, venlafaxine은 discontinuation syndrome 위험이 높아 더욱 천천히 감량
   * Hyperbolic Tapering 개념 : 뇌의 세로토닌 수용체 점유율은 약물 용량에 비례하지 않고 쌍곡선(hyperbolic) 관계로 변화한다. 즉 고용량 구간에서는 용량을 크게 줄여도 수용체 점유율 변화가 작지만, 저용량 구간에서는 조금만 줄여도 수용체 점유율이 급격히 변한다. 따라서 감량 후반부일수록 더 작은 폭으로, 더 천천히 줄여야 금단 증상을 최소화할 수 있다.\
     예) escitalopram 감량 : 10 ㎎ → 7.5 ㎎ → 5 ㎎ → 2.5 ㎎ → 필요 시 더 작은 용량 후 중단. 각 단계는 보통 2\~4주 이상 유지하되 치료기간·금단 증상에 따라 조절하고, 증상 발생 시 이전에 견딘 용량으로 돌아가 더 천천히 감량
   * 격일 복용은 혈중농도 변동으로 금단 증상을 악화시킬 수 있어 일률적으로 권하지 않음. 가능한 경우 저함량 제제 또는 액상 제형 등을 활용하여 매일 복용 용량을 줄임
 
-<table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* <mark style="color:blue;">[렉사프로]</mark></td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td align="center">25~50</td><td align="center">50~150</td></tr><tr><td>paroxetine* <mark style="color:blue;">[세로자트, 팍실CR]</mark></td><td align="center">20</td><td align="center">20~50</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td align="center">20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine <mark style="color:blue;">[듀미록스]</mark></td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* <mark style="color:blue;">[심발타]</mark></td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* <mark style="color:blue;">[이팩사 XR]</mark></td><td align="center">37.5</td><td align="center">75~225</td></tr><tr><td>vortioxetine† <mark style="color:blue;">[브린텔릭스]</mark></td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
+<table><thead><tr><th width="270.15789794921875">성분명 [상품명]</th><th width="119.73681640625" align="center">시작 (mg/d)</th><th width="119.8076171875" align="center">유지 (mg/d)</th></tr></thead><tbody><tr><td>citalopram <mark style="color:blue;">[시탈로프람]</mark></td><td align="center">10</td><td align="center">10~40</td></tr><tr><td>escitalopram* <mark style="color:blue;">[렉사프로]</mark></td><td align="center">5~10</td><td align="center">10~20</td></tr><tr><td>sertraline <mark style="color:blue;">[졸로푸트]</mark></td><td align="center">25~50</td><td align="center">50~200</td></tr><tr><td>paroxetine IR* <mark style="color:blue;">[세로자트]</mark></td><td align="center">10~20</td><td align="center">20~50</td></tr><tr><td>fluoxetine <mark style="color:blue;">[푸로작]</mark></td><td align="center">10~20</td><td align="center">20~60</td></tr><tr><td>fluvoxamine <mark style="color:blue;">[듀미록스]</mark></td><td align="center">50</td><td align="center">100~300</td></tr><tr><td>duloxetine* <mark style="color:blue;">[심발타]</mark></td><td align="center">30</td><td align="center">60~120</td></tr><tr><td>venlafaxine* <mark style="color:blue;">[이팩사 XR]</mark></td><td align="center">37.5</td><td align="center">75~225</td></tr><tr><td>vortioxetine† <mark style="color:blue;">[브린텔릭스]</mark></td><td align="center">10</td><td align="center">10~20</td></tr></tbody></table>
 
-_\* GAD에 대하여 FDA 승인 (escitalopram, paroxetine, duloxetine, venlafaxine XR)_\
-_† GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 고려 가능(근거 축적 중)_
+_\* GAD에 대하여 FDA 승인 (escitalopram, paroxetine IR, duloxetine, venlafaxine XR). Paroxetine CR은 FDA GAD 적응증이 없으며, 제형별 국내 허가사항을 별도로 확인_\
+_† GAD FDA 미승인; 주요우울장애 적응증 약물이며 GAD의 일반적 치료제로 권고하지 않음_
 
 {% hint style="info" %}
 **국내 전문가 실사용 용량(KMAP-GAD 2024)**
@@ -339,62 +337,61 @@ _† GAD FDA 미승인; 인지 기능 저하 동반 불안(특히 고령)에서 
 **GABA-analogue**
 
 * SSRI/SNRI를 사용할 수 없을 때 또는 보조 요법으로 고려
-* pregabalin : 150\~600 ㎎ <mark style="color:blue;">\[리리카]</mark>
-  * GAD에 대해 EMA(유럽) 허가; WFSBP 등 일부 국제 가이드라인에서는 높은 순위로 권고하지만 국내 전문가 합의에서는 초기 기타약물군 내 2차, 치료반응 불충분 시 추가약물로 2차에 해당
+* pregabalin : 150\~600 ㎎/d, 2\~3회 분할 <mark style="color:blue;">\[리리카]</mark>
+  * GAD에 대해 EMA(유럽) 허가. **국내에서는 신경병증성 통증·섬유근육통·부분발작 보조요법 등에 허가되어 있으나 GAD 적응증은 미승인**
+  * WFSBP 등 일부 국제 가이드라인에서는 높은 순위로 권고하지만 국내 전문가 합의에서는 초기 기타약물군 내 2차, 치료반응 불충분 시 추가약물로 2차에 해당
   * 효과 발현이 SSRI보다 빠름(1\~2주); 수면 개선 효과도 있음
   * SSRI/SNRI의 성기능 부작용(성욕 저하, 불감증)을 피해야 하는 환자에게 유용한 대안
   * 주의 : 남용·의존 가능성(특히 약물 남용 과거력), 어지럼·진정 부작용; 신기능 저하 시 감량
-  * 고령자 : Beers Criteria(2023)상 회피 권고 약물에 포함(단, opioid에서 전환하는 경우는 예외로 허용)
+  * 고령자 : 일률적 회피 약물은 아니나 신기능에 따라 감량. Opioid와 병용하면 중증 진정·호흡억제 위험이 증가하므로, opioid에서 pregabalin으로 전환하는 경우를 제외하고 병용 회피
 
 **Azapirone**
 
-* 5-HT1A autoreceptor 방해에 의한 serotonergic system 작용
-* benzodiazepine보다 의존 위험은 적음; 효과 크기는 SSRI보다 작고 onset이 느림(2\~4주)
+* 5-HT1A 수용체 부분작용제(partial agonist)로 serotonergic system에 작용
+* benzodiazepine보다 남용·신체의존 위험이 낮음; 효과 크기는 SSRI보다 작고 onset이 느림(2\~4주)
 * 주요우울증에는 효과 불충분 (경도 우울 동반 시 일부 효과 보고는 있으나 신뢰도 제한적)
 * 부작용 : 불면, 흥분, 구역
 * buspirone : 10\~60 ㎎/d <mark style="color:blue;">\[부스파]</mark>
+  * CYP3A4로 대사됨. 강력한 CYP3A4 억제제(itraconazole, ketoconazole, ritonavir, erythromycin 등)와 병용하면 혈중농도와 어지럼·진정이 증가할 수 있어 저용량 투여·용량조절이 필요하고, rifampin·carbamazepine 등 유도제 병용 시 효과가 감소할 수 있음. 다량의 자몽주스는 피하도록 안내
 
 **Benzodiazepine**
 
-* 상당한 위해 위험(의존·인지저하·낙상 등)을 지니므로 단기 완화 목적으로만 사용; hydroxyzine 등 상대적으로 위험이 낮은 대안을 먼저 고려하고, 이것으로 불충분한 경우에 한하여 사용 (JAMA Intern Med 2026)
+* 의존·인지저하·낙상·교통사고 등 위해 위험을 지니므로 위기 상황의 단기 완화 목적으로만 제한적으로 사용. 대체약 선택 시에도 hydroxyzine의 항콜린·진정·QT 위험 등 환자별 위해를 함께 비교
 * SSRI/SNRI의 효과가 나타날 때까지 위기 동안 단기 투여
 * 장기적 경과를 개선시키지는 못함
 * 동반된 우울증에 대해서는 효과 없음
 * 저용량으로 시작 (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
-* 투여 방식 : PRN보다 단기 scheduled 투여(예: 1\~2주 정해진 용량)가 내성·의존 형성 면에서 더 안전한 경우가 많음
+* 투여 방식 : PRN과 단기 scheduled 투여 모두 장단점이 있으므로 증상 양상과 총 노출을 고려하고, 최소 유효용량·최단기간 사용
 * 마약성 진통제(opioid) 병용 최소화 : 호흡 억제 위험 증가 (특히 고령, COPD 환자)
 * 고령에서는 내성 및 낙상 등의 사고 위험으로 감량 투여 (특히 long-acting 제제 주의)
-* 불안, 불쾌감, 진전 등의 반동 현상을 피하기 위하여 중단 시 중간 반감기 약제(예: clonazepam)가 선호되며 중단 시 tapering
+* 수주 이상 규칙적으로 사용했거나 신체의존 가능성이 있으면 갑자기 중단하지 않음. ASAM 2025는 일반적으로 초기 5\~10% 감량을 2\~4주 간격으로 고려하고 2주에 25%를 넘지 않도록 하되, 복용기간·용량·금단증상에 따라 개별화하도록 권고
+  * 장시간 작용 약제(clonazepam, diazepam 등)로 전환할 수 있으나 일률적으로 선호하지 않으며 간기능·병용약을 고려. 고령자에서는 장시간형 전환이 오히려 부적절할 수 있음
 * 역설적 탈억제(Paradoxical disinhibition) : 드물게 고령자, 기질적 뇌질환(치매·뇌손상) 환자, 소아에서 BZD 복용 후 오히려 불안·흥분·공격성이 심해지는 반응이 나타날 수 있음; 이 경우 즉시 중단
 
 <table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (mg/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam <mark style="color:blue;">[자낙스]</mark></td><td align="center">0.5~6</td><td align="center">11~15</td></tr><tr><td>lorazepam <mark style="color:blue;">[아티반]</mark></td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide <mark style="color:blue;">[리버티]</mark></td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>clorazepate</td><td align="center">15~60</td><td align="center">36~200</td></tr><tr><td>diazepam <mark style="color:blue;">[디아제팜]</mark></td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
 
 **항정신병 약물**
 
-* 항우울제와 충분한 정신치료에도 반응이 불충분한 경우에 한하여 정신건강의학과 협진하에 고려
+* GAD 적응증이 아니며 일차진료에서 시작하지 않음. 항우울제와 충분한 정신치료에도 반응이 불충분하고 다른 진단·공존질환을 재평가한 뒤 정신건강의학과 협진하에 예외적으로 고려
 * 국내 전문가 합의에서는 aripiprazole·quetiapine이 이 약물군 내에서 선호되었으나, 전체 초기전략에서 항우울제+비정형 항정신병약물은 상위 2차이고 단독요법은 하위 2차임
 * NICE·RANZCP는 GAD에 비정형 항정신병약물을 권하지 않으며, 대사증후군·정좌불능·지연성 운동장애 등 위해를 고려하여 일차의료에서 일상적으로 시작하지 않음
-* aripiprazole : 저용량으로 시작하여 반응과 정좌불능 여부를 면밀히 평가 <mark style="color:blue;">\[아빌리파이]</mark>
-* olanzapine : 2.5\~7.5 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[자이프렉사]</mark>
-* quetiapine : 12.5\~100 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[쎄로켈]</mark>
-* risperidone : 0.5\~1 ㎎/d qd(hs)\~bid <mark style="color:blue;">\[리스페달]</mark>
+* 사용 시에는 적응증 외 사용임을 설명하고 체중·허리둘레·혈압·혈당/HbA1c·지질, 추체외로증상과 정좌불능 등을 기저 및 치료 중 모니터링
 
 **항히스타민계 항불안제**
 
-* hydroxyzine : H1 길항 + 항콜린 작용; 의존성 없음; 효과 발현 빠름(30\~60분) - 급성 불안 완화에 유용
+* hydroxyzine : H1 길항 + 항콜린 작용; BZD와 달리 남용·신체의존 위험이 낮고 효과 발현이 빠름(30\~60분) - 단기 급성 불안 완화에 고려
 * 진정 작용으로 수면 장애 동반 시 유리
-* 주의 : 졸음, 입마름; 고령자 낙상 주의(Beers Criteria 2023상 회피 권고 약물); QT 연장 가능성
-* hydroxyzine : 25\~50 ㎎ tid\~qid (최대 200 ㎎/d) <mark style="color:blue;">\[아디팜]</mark>
+* 주의 : 졸음, 입마름, 요저류, 낙상; 고령자에서는 Beers Criteria상 회피 권고. QT 연장·torsades 위험이 있으므로 기존 QT 연장, 유의한 서맥·심혈관질환·전해질 이상 또는 QT 연장 약물 병용 시 피함
+* 국내 기존 허가사항에는 정신과 영역 75\~150 ㎎/d 분할 용량이 있으나, EMA 안전성 제한은 성인 최대 100 ㎎/d(고령자는 가능하면 피하고 불가피하면 최대 50 ㎎/d)를 권고함. 국내 허가사항을 확인하면서 최소 유효용량을 최단기간 사용 <mark style="color:blue;">\[아디팜]</mark>
 
 **β-차단제**
 
 * 발한, 심박수 증가 등 불안에 따른 증상 억제 효과; 불안 자체에는 효과 없음
 * propranolol : 10\~40 ㎎ PRN (상황불안·performance anxiety 기준; GAD 일반 치료 고용량 사용은 근거 제한적) <mark style="color:blue;">\[인데놀]</mark>
-* metoprolol : 25\~100 ㎎ PRN <mark style="color:blue;">\[베타록]</mark> (☞ [고혈압](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
 
 #### <mark style="color:$primary;">환자 유형별 약제 선택</mark>
 
-<table><thead><tr><th width="167">환자 유형</th><th>추천 약제</th></tr></thead><tbody><tr><td>불면 심함</td><td>paroxetine, mirtazapine</td></tr><tr><td>통증 동반</td><td>duloxetine</td></tr><tr><td>성기능 중요</td><td>pregabalin, vortioxetine, buspirone 병용 (우울 동반 시 bupropion)</td></tr><tr><td>고령</td><td>sertraline, escitalopram (저용량 시작); duloxetine·pregabalin·hydroxyzine·BZD는 Beers Criteria상 회피 권고 약물이므로 신중</td></tr><tr><td>급성 불안</td><td>hydroxyzine을 우선 고려, 불충분 시 단기 BZD</td></tr><tr><td>BZD 의존 위험</td><td>buspirone, SSRI/SNRI 단독</td></tr></tbody></table>
+<table><thead><tr><th width="167">환자 유형</th><th>고려할 약제와 주의사항</th></tr></thead><tbody><tr><td>불면 심함</td><td>mirtazapine 또는 진정성이 있는 약제를 고려하되 체중 증가·주간 졸림 평가</td></tr><tr><td>통증 동반</td><td>duloxetine 고려; CrCl ＜30 mL/min에서는 회피</td></tr><tr><td>성기능 중요</td><td>pregabalin 또는 buspirone 등을 고려하되 GAD 허가·근거와 신기능·남용 위험 확인; vortioxetine은 GAD 미승인</td></tr><tr><td>고령</td><td>sertraline, escitalopram을 저용량으로 시작할 수 있음. Hydroxyzine·BZD는 Beers Criteria상 회피; pregabalin은 신기능에 따라 감량하고 opioid 병용 회피; duloxetine은 CrCl ＜30 mL/min에서 회피</td></tr><tr><td>급성 불안</td><td>원인·응급상황을 먼저 평가하고, 비약물적 안정화와 함께 환자별 QT·항콜린·의존 위험을 비교하여 단기 약제 선택</td></tr><tr><td>BZD 의존 위험</td><td>SSRI/SNRI, buspirone 또는 정신치료를 우선 고려</td></tr></tbody></table>
 
 ***
 
@@ -413,19 +410,19 @@ F41.9 상세불명의 불안장애
 > **처방례 1.** GAD - 초기치료, SSRI 단독
 >
 > ```
-> 렉사프로 10 mg/T  0.5T  qd  조식 후  (첫 1~2주)
-> → 2주 후 1T qd로 증량; 4~6주 후 효과 평가
+> 렉사프로 5 mg/T  1T  qd  조식 후  (첫 1~2주)
+> → 2주 후 10 mg qd로 증량; 4~6주 후 효과 평가
 > ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 - 저용량 시작 이유 설명
 > ※ 24세 이하: 투여 초기와 용량 변경 시 자살사고·행동 악화 여부를 면밀히 확인
 > ※ 고령자: 투약 2~4주 후 전해질(Na) 확인 (SIADH 위험)
-> ※ QT 연장 주의: 고용량(>20 mg) 또는 QT 연장 유발 약물 병용 시 ECG 고려
+> ※ 권장 최대 20 mg/d를 초과하지 않음. 심질환·전해질 이상 또는 QT 연장 유발 약물 병용 시 ECG 고려
 > ```
 
 > **처방례 2.** GAD - 초기치료, SNRI 단독 (불안+통증 동반 또는 SSRI 불내성)
 >
 > ```
-> 이팩사 엑스알 서방 37.5 mg/C  1C  qd  조식 후  (첫 4주)
-> → 4주 후 75 mg으로 증량; 필요 시 최대 225 mg까지
+> 이팩사 엑스알 서방 37.5 mg/C  1C  qd  조식 후  (첫 4~7일)
+> → 내약성 확인 후 75 mg qd로 증량; 이후 반응과 내약성에 따라 1주 이상 간격으로 조절(최대 225 mg/d)
 > ※ 투약 초기 혈압 상승 가능 - 혈압 모니터링
 > ※ 갑작스러운 중단 금지 (discontinuation syndrome 위험)
 > ```
@@ -436,7 +433,7 @@ F41.9 상세불명의 불안장애
 > 부스파 5 mg/T  1T  tid  식후  (첫 1~2주)
 > → 1~2주 간격으로 5 mg씩 증량, 목표 용량 20~30 mg/d (최대 60 mg/d)
 > ※ 효과 발현까지 2~4주 소요 - 즉각 효과를 기대하지 않도록 설명
-> ※ 의존성 없음; BZD 남용·의존 과거력 환자에 특히 유용
+> ※ BZD보다 남용·신체의존 위험이 낮아 BZD 남용·의존 위험이 큰 환자에서 고려
 > ※ MAO 억제제와 병용 금지
 > ```
 
@@ -450,23 +447,16 @@ F41.9 상세불명의 불안장애
 > ※ 중단 시 반드시 tapering (갑작스러운 중단 금지)
 > ```
 
-> **처방례 5.** GAD - 항우울제 변경 (수면 장애가 뚜렷한 경우)
+> **처방례 5.** GAD - Paroxetine IR 대안 (다른 1차 약물 불내성 또는 기존 치료반응이 확인된 경우)
 >
 > ```
-> 팍실 CR 12.5 mg/T  1T  qd  조식 후  (4주 후 25 mg으로 증량 고려)
+> 세로자트 20 mg/T  0.5T  qd  조식 후  (첫 1~2주)
+> → 내약성 확인 후 20 mg qd로 증량; 반응에 따라 조절(최대 50 mg/d)
 > ※ 항콜린 부작용(변비, 구갈, 요저류) 주의
-> ※ 임신 중 가능하면 회피 권고 (임신 1기 태아 심장기형, 말기 PPHN·신생아 금단 증상 위험; 불가피한 경우 정신건강의학과 협진)
+> ※ 항콜린·진정 작용이 상대적으로 뚜렷하여 불안+수면 장애가 뚜렷한 환자에서 고려할 수 있음
+> ※ Paxil CR은 FDA GAD 적응증이 없음. IR·CR의 허가 적응증과 용량을 혼용하지 않음
+> ※ 임신 계획·임신 중 새로 시작할 때에는 대안을 우선 고려. 이미 안정적으로 복용 중이면 임의 중단·일률적 변경을 피하고, 심혈관 기형 관련 관찰자료와 신생아 적응증후군·PPHN 가능성, 치료하지 않은 질환의 위험 및 기존 치료반응을 함께 평가하여 산부인과·정신건강의학과와 협의
 > ※ 중단 시 discontinuation syndrome 발생 빈도 높음 - 반드시 서서히 감량
-> ```
-
-> **처방례 6.** GAD - 반응불충분, SSRI+비정형 항정신병약물 병용 (정신건강의학과 협진)
->
-> ```
-> 졸로푸트 50 mg/T  1T  qd  조식 후
-> 쎄로켈 서방 50 mg/T  1T  qd  취침 시
-> ※ 쎄로켈은 25 mg에서 시작 → 매주 25~50 mg씩 증량 (최대 300 mg/d)
-> ※ 대사 증후군 모니터링 : 체중, 혈당, 지질 (3~6개월마다)
-> ※ 비정형 항정신병약물의 GAD 사용 근거는 제한적이며 대사·신경학적 부작용이 있으므로 정신건강의학과 협진하에 사용
 > ```
 
 ***
