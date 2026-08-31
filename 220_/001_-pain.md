@@ -81,7 +81,7 @@
 
 ### <mark style="color:orange;">만성 통증</mark>
 
-* ＞3개월 지속 또는 재발하는 통증 (ICD-11)
+* ＞3개월 지속 또는 재발하는 통증 \[ICD-11]
 
 {% hint style="info" %}
 **ICD-11 만성 통증 분류** : ICD-11(2019)은 만성 통증을 두 범주로 구분하며, 이 구분은 "통증 = 증상"이 아닌 "통증 = 독립 질환" 으로 인식의 전환을 반영.\
@@ -215,7 +215,7 @@ flowchart TD
 
 <mark style="color:cyan;">**통증 유형별 처방**</mark>
 
-<table><thead><tr><th width="216">유형</th><th width="264">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>Nociceptive (경증)</td><td>Acetaminophen, 외용 또는 경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td>Nociceptive (중등증~중증)</td><td>NSAID ± 단기 opioid (신중)</td><td>opioid는 최후 수단</td></tr><tr><td>Neuropathic</td><td>Pregabalin/gabapentin 또는 Duloxetine</td><td>삼차신경통: carbamazepine</td></tr><tr><td>Nociplastic</td><td>비약물(CBT·운동) 우선 + SNRI(duloxetine)</td><td>NSAID 단독 효과 제한적</td></tr><tr><td>Mixed</td><td>NSAID + neuropathic agent 병용</td><td>비율에 따라 조합 조정</td></tr><tr><td>염증성</td><td>NSAID (선택제는 위험 인자 고려)</td><td>-</td></tr><tr><td>근육통</td><td>NSAID ± 단기 근이완제</td><td>2~4주 이내 제한</td></tr></tbody></table>
+<table><thead><tr><th width="216">유형</th><th width="264">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>Nociceptive (경증)</td><td>Acetaminophen, 외용 또는 경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td>Nociceptive (중등증~중증)</td><td>NSAID ± 단기 opioid (신중)</td><td>opioid는 최후 수단</td></tr><tr><td>Neuropathic</td><td>Pregabalin/gabapentin 또는 Duloxetine</td><td>삼차신경통: carbamazepine</td></tr><tr><td>Nociplastic</td><td>비약물(CBT·운동) 우선 <br>+ SNRI(duloxetine)</td><td>NSAID 단독 효과 제한적</td></tr><tr><td>Mixed</td><td>NSAID + neuropathic agent 병용</td><td>비율에 따라 조합 조정</td></tr><tr><td>염증성</td><td>NSAID (선택제는 위험 인자 고려)</td><td>-</td></tr><tr><td>근육통</td><td>NSAID ± 단기 근이완제</td><td>2~4주 이내 제한</td></tr></tbody></table>
 
 <mark style="color:cyan;">**위험 인자별 NSAID 선택**</mark>
 
@@ -310,7 +310,7 @@ flowchart TD
   2. 예) 기존 opioid 총 60 MME/day 복용 중 회전 시 → 새 약물의 계산된 등가 용량(60 MME 상당)의 50\~75%인 약 30\~45 MME/day로 시작 후 반응을 보며 조정
   3. 등가용량 환산표의 불확실성 : MME 환산비는 개인차가 크고 근사치이므로 안전 마진을 두고 시작하는 것이 원칙임
 
-- [ ] \[급여기준] [마약성진통제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001) 일반원칙
+- [ ] \[급여기준-일반원칙] [마약성진통제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901\&sno=1\&mtgMtrRegSno=0001)&#x20;
   * 처방 일수 제한: 비암성 통증은 1회 처방당 최대 30일까지 급여 인정
   * 성분별 상한 용량 : 비암성 통증 시 아래 용량 초과분은 본인부담 100/100
   * 대상 약제 투여 용량 : oxycodone 60 ㎎/d, hydromorphone 24 ㎎/d, tapentadol 300 ㎎/d, fentanyl 패취제 37.5 ㎍/h/3d, morphine 경구제 90 ㎎/d
@@ -417,14 +417,14 @@ flowchart TD
 
   (대한통증학회, 2024)
 
-**기본 원칙**
+<mark style="color:cyan;">**기본 원칙**</mark>
 
 * 병력 청취, 이학적 검사, 다양한 평가 도구로 환자 상태를 파악한 이후 꼭 필요한 경우에만 고려
 * 치료 전 통증·기능·삶의 질에 대한 구체적·측정 가능한 목표를 설정
 * 목표 미달 시 중단 고려 - 효과가 입증되지 않은 아편유사제의 관성적 지속 처방 방지
 * 펜타닐 포함 마약류 처방 시 마약류 통합관리시스템([NIMS](https://www.nims.or.kr/)) 투약 이력을 반드시 확인해야 함(의무)
 
-**Opioid 처방 전 고위험 환자 체크리스트**
+<mark style="color:cyan;">**Opioid 처방 전 고위험 환자 체크리스트**</mark>
 
 * 다음 중 하나라도 해당 시 → 처방 재검토 또는 전문의 협진
   * eGFR ＜ 30 mL/min
@@ -435,7 +435,7 @@ flowchart TD
   * Benzodiazepine 또는 gabapentinoid 병용
   * 과거 opioid use disorder(OUD) 또는 약물 남용 병력
 
-**처방 시작**
+<mark style="color:cyan;">**처방 시작**</mark>
 
 * 심한 급성 통증(＜1개월) : 속효성 제제를 최소 유효 용량으로 처방; 최소 2주마다 평가
 * 아급성(1\~3개월) 및 만성(＞3개월) 통증 : 비아편유사제를 우선 고려. 불가피한 경우에만 사용
@@ -443,7 +443,7 @@ flowchart TD
   * 하루 50 MME 이상 시 과다 복용·사망 위험이 유의하게 증가하므로, 50 MME/day 도달 전 반드시 재평가; 90 MME/day 이상은 가급적 회피
   * 치료 시작 또는 용량 증량 후 4주 이내에 이익과 위험을 재평가
 
-**Naloxone 공동 처방 고려 기준**
+<mark style="color:cyan;">**Naloxone 공동 처방 고려 기준**</mark>
 
 * CDC 2022 기준(다음 중 하나라도 해당 시 고려)
   * MME ≥ 50/day
@@ -455,12 +455,12 @@ flowchart TD
 
 - [ ] 국내 naloxone 비강 스프레이의 일반 외래 가용성·공급 방식은 시점에 따라 확인이 필요함. 고위험 환자에서는 국내에서 실제 이용 가능한 제형과 접근 경로를 확인하여 naloxone 제공을 고려.
 
-**서방형/지속형 제제**
+<mark style="color:cyan;">**서방형/지속형 제제**</mark>
 
 * 최소 1주일 동안 매일 일정 용량의 속효성 경구 opioid를 투여받은 환자에게만 고려
 * 이익보다 위험이 큰 경우 감량 또는 중단을 고려. 갑작스러운 중단이나 급격한 감량은 피함
 
-**감량/중단**
+<mark style="color:cyan;">**감량/중단**</mark>
 
 * 감량 속도는 환자의 임상 상황에 따라 개별화
   * 1년 이상 복용 : 월 10%씩 감량
@@ -469,17 +469,17 @@ flowchart TD
   * 1주 이상\~1개월 미만 : 2일마다 약 20%씩 감량
   * 3일 이상\~1주 미만 : 2일간 일일 용량을 50%로 감량 후 중단
 
-**Opioid 회전** (Opioid rotation)
+<mark style="color:cyan;">**Opioid 회전**</mark> (Opioid rotation)
 
 * 다음의 경우 고려 : 부작용 지속, 충분한 증량에도 효과 불충분, 신기능 저하로 졸음/신경 독성 발생
 * 현재 opioid 총량을 바탕으로 대체 약물의 equianalgesic dose를 추정한 후 통상 25\~50%를 감량하여(즉 계산 용량의 약 50\~75%로) 시작; 부작용 및 진통 효과를 관찰하며 개별 titration. Fentanyl·methadone 등은 단순 MME 비례 환산을 피함
 
-**모니터링**
+<mark style="color:cyan;">**모니터링**</mark>
 
 * 처음 처방 시 및 장기 처방 중 환자 처방 이력을 주기적으로 검토
 * 적절한 용량 투여 여부 및 과다 복용 위험 약물과의 병용 여부를 지속 확인
 
-**통증 관리를 위해 일반적으로 처방되는 아편유사제에 대한 모르핀 용량(㎎) 등가 용량**
+<mark style="color:cyan;">**통증 관리를 위해 일반적으로 처방되는 아편유사제에 대한 모르핀 용량(㎎) 등가 용량**</mark>
 
 * 아래 MME 값은 참고용 근사치이며, opioid rotation 시 처방 전환의 직접적인 등가 계산식으로 사용하지 않음. Fentanyl 등은 단순 비례 환산이 특히 위험
 * MME 전환은 추정치로 아편유사제 회전이나 전환을 고려 시 MME에서 계산된 용량을 그대로 사용하면 안 되고 불완전한 교차 내성과 아편유사제 약동학의 개별 가변성 때문에 과다 복용을 피하기 위해 계산된 MME 용량보다 상당히 낮은 용량으로 투여
@@ -559,7 +559,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 
 _\* 150 ㎎/day에 해당하는 경우 100 ㎎ × 3을 2일마다 투여 (뉴론틴캡슐 허가 기준)_
 
-<table><thead><tr><th width="140">CrCl (mL/min)</th><th width="150">Pregabalin 시작용량</th><th width="150">최대용량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥60</td><td>150 ㎎/day</td><td>600 ㎎/day</td><td>2~3회 분할(BID or TID)</td></tr><tr><td>30~&#x3C;60</td><td>75 ㎎/day</td><td>300 ㎎/day</td><td>2~3회 분할(BID or TID)</td></tr><tr><td>15~&#x3C;30</td><td>25~50 ㎎/day</td><td>150 ㎎/day</td><td>1~2회 분할(QD or BID)</td></tr><tr><td>&#x3C;15</td><td>25 ㎎/day</td><td>75 ㎎/day</td><td>1일 1회(QD)</td></tr><tr><td>혈액투석 후 추가</td><td>25~100 ㎎</td><td>단회 투여(혈액투석 4시간마다 시행 후 즉시 추가)</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="140">CrCl (mL/min)</th><th width="169">Pregabalin 시작용량</th><th width="150">최대용량</th><th>투여 방법</th></tr></thead><tbody><tr><td>≥60</td><td>150 ㎎/day</td><td>600 ㎎/day</td><td>2~3회 분할(BID or TID)</td></tr><tr><td>30~&#x3C;60</td><td>75 ㎎/day</td><td>300 ㎎/day</td><td>2~3회 분할(BID or TID)</td></tr><tr><td>15~&#x3C;30</td><td>25~50 ㎎/day</td><td>150 ㎎/day</td><td>1~2회 분할(QD or BID)</td></tr><tr><td>&#x3C;15</td><td>25 ㎎/day</td><td>75 ㎎/day</td><td>1일 1회(QD)</td></tr><tr><td>혈액투석 후 추가</td><td>25~100 ㎎</td><td>단회 투여(혈액투석 4시간마다 시행 후 즉시 추가)</td><td></td></tr></tbody></table>
 
 * Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위 1일 투여용량과 별도로 혈액투석 시행 후 보충 용량을 즉시 추가 투여 (국내 리리카 허가사항 기준)
 
