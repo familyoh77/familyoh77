@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-**통증 발생의 기본 원리**
+#### <mark style="color:$primary;">통증 발생의 기본 원리</mark>
 
 * 급성 통증은 조직 손상 또는 손상 위협을 알리는 보호적 신호로, 다음 단계를 거쳐 발생함
   * 전환(transduction) : 유해 자극(기계적·열적·화학적 손상)이 말초 nociceptor를 자극하여 전기 신호로 전환
@@ -11,7 +11,7 @@
   * 인지(perception) : 대뇌피질에서 비로소 '통증'으로 인식되며, 이 단계에서 불안·과거 경험·파국화 등 정서적·인지적 요소가 실제 통증 경험에 영향을 줌
 * 만성 통증은 이 경로 자체가 변화(중추 감작 등)하여, 원래의 유해 자극이 약하거나 사라져도 통증이 지속·증폭되는 상태 (☞ 아래 Central sensitization 참조)
 
-**진통제는 원인 치료가 아닌 통증 신호 차단**
+<mark style="color:cyan;">**진통제는 원인 치료가 아닌 통증 신호 차단**</mark>
 
 * 대부분의 진통제는 통증을 유발한 근본 원인(조직 손상, 감염, 종양, 신경 압박 등)을 제거하지 않으며, 위 통증 경로 중 한 단계를 차단하여 증상만 완화하는 대증치료(symptomatic treatment)임
   * NSAID·acetaminophen : 말초·중추에서 prostaglandin 합성 억제 → nociceptor 민감화 감소 (전환 단계 차단)
@@ -20,17 +20,14 @@
   * 항우울제(TCA, SNRI) : 하행 억제 경로의 노르에피네프린·세로토닌 재흡수 억제 → 내인성 통증 조절 기능 강화 (조절 단계 강화)
 * 따라서 진통제로 증상이 조절되더라도 근본 원인 질환에 대한 평가·치료는 별도로 이루어져야 하며, "진통제에 반응한다"는 사실만으로 심각한 원인 질환을 배제할 수는 없음 (☞ 아래 Red Flags 참조)
 
-**평가**
+#### <mark style="color:$primary;">평가 및 검사</mark>
 
 * 통증이 있는 환자에서는 초기 평가 후 통증 변화·기능·수면·정신사회적 영향을 주기적으로 평가; 다음 항목 포함
   * 병력, 신체검사, bio-psycho-social 평가, 통증 형태(neuropathic, nociceptive, or mixed), 중증도, 기능에 대한 영향
-* 통증 상태나 기저 질환이 변화할 때는 더 자주 평가
+  * 통증 상태나 기저 질환이 변화할 때는 더 자주 평가
+* 검사 : 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
 
-**검사**
-
-* 통증 자체를 진단하는 검사 방법은 없으나 원인 및 심각한 문제 감별을 위하여 영상 검사 등을 고려
-
-**통증 강도 평가 기술 방법**
+<mark style="color:cyan;">**통증 강도 평가 기술 방법**</mark>
 
 * 환자로 하여금 통증 정도를 표현하도록 함
 * 수치 평가 척도(numeric rating scale, NRS) : 0\~10 숫자 중 현재 통증 강도를 선택; 0=통증 없음 \~ 10=상상할 수 없는 극심한 통증; 구두로 즉시 측정 가능하여 임상에서 가장 널리 사용됨
@@ -228,15 +225,15 @@ flowchart TD
 
 #### <mark style="color:$primary;">Step 2. 강도 및 유형별 약물 선택</mark>
 
-**통증 유형별 처방**
+<mark style="color:cyan;">**통증 유형별 처방**</mark>
 
 <table><thead><tr><th width="216">유형</th><th width="264">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>Nociceptive (경증)</td><td>Acetaminophen, 외용 또는 경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td>Nociceptive (중등증~중증)</td><td>NSAID ± 단기 opioid (신중)</td><td>opioid는 최후 수단</td></tr><tr><td>Neuropathic</td><td>Pregabalin/gabapentin 또는 Duloxetine</td><td>삼차신경통: carbamazepine</td></tr><tr><td>Nociplastic</td><td>비약물(CBT·운동) 우선 + SNRI(duloxetine)</td><td>NSAID 단독 효과 제한적</td></tr><tr><td>Mixed</td><td>NSAID + neuropathic agent 병용</td><td>비율에 따라 조합 조정</td></tr><tr><td>염증성</td><td>NSAID (선택제는 위험 인자 고려)</td><td>-</td></tr><tr><td>근육통</td><td>NSAID ± 단기 근이완제</td><td>2~4주 이내 제한</td></tr></tbody></table>
 
-**위험 인자별 NSAID 선택**
+<mark style="color:cyan;">**위험 인자별 NSAID 선택**</mark>
 
 <table><thead><tr><th width="144">위험 인자</th><th>우선 선택</th></tr></thead><tbody><tr><td>GI risk ↑</td><td>Celecoxib + PPI</td></tr><tr><td>CV risk ↑</td><td>NSAID 회피 우선; 불가피 시 naproxen을 상대적으로 고려 (최소 용량·최단 기간, COX-2 억제제 주의)</td></tr><tr><td>Renal risk ↑</td><td>외용 NSAID 우선</td></tr><tr><td>고령 / 다약제</td><td>외용 NSAID 우선 → 경구 최소 용량</td></tr></tbody></table>
 
-**침해수용성 통증**
+<mark style="color:cyan;">**침해수용성 통증**</mark>
 
 {% hint style="danger" %}
 **통증 강도(NRS)만으로 opioid를 자동 선택하지 않음.** NRS ≥7이라고 곧바로 opioid를 선택하지 않으며, 원인·통증 기전·기능 장애·예후·약물 위험도를 종합하여 결정함.
@@ -247,7 +244,7 @@ flowchart TD
 * 중증이거나 비-opioid 치료 실패, 기능 장애가 심각한 경우 : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid ± 보조 치료
 * WHO 3단계 진통 사다리(analgesic ladder) : 1단계 비마약성 진통제(± 보조제) → 2단계 약한 opioid(± 비마약성 진통제 ± 보조제) → 3단계 중등도\~중증 opioid(± 비마약성 진통제 ± 보조제)로 상향하는 체계. 원래 WHO가 암성 통증(cancer pain) 완화를 위해 제시한 모델이며, 비암성 통증에는 그대로 적용하지 않음 - 비암성 통증은 통증 강도만이 아니라 원인·기전·기능 장애·약물 위험도를 함께 고려하는 개별화된 접근이 원칙
 
-**신경병성 통증**
+<mark style="color:cyan;">**신경병성 통증**</mark>
 
 * 1차 (1st line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선) 중 하나를 선택; 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
 * 반응 불충분 시 : 다른 1차 약제로 전환을 우선 고려; 부분 반응 시 신중한 병용 고려(예: pregabalin + duloxetine - 병용 근거는 아직 제한적이며 NICE도 병용요법의 근거 부족을 지적함); tramadol은 급성 rescue가 필요한 경우로 제한
@@ -272,7 +269,7 @@ flowchart TD
 * 인지행동 요법, 요가, 심호흡, mindfulness
 * 비타민 D : 결핍(25(OH)D ＜20 ng/mL)과 근골격계 통증·섬유근통의 연관성이 보고되나, 결핍이 없는 환자에서 통증 목적의 routine supplementation은 효과가 입증되지 않아 권고하지 않음; 만성 통증 환자에서 혈중 25(OH)D 측정 후 결핍이 확인된 경우에만 보충 고려
 
-**통증의 파국화 방지**
+<mark style="color:cyan;">**통증의 파국화 방지**</mark>
 
 * Central sensitization(중추 감작)이 진행하면 말초 자극이 없어도 통증이 지속·증폭됨. 파국화는 이를 심화시키는 심리적 증폭 반응임
 * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 상태를 교정함; 만성 통증은 신체 손상 신호가 아니라 '예민해진 신경계의 오작동'임을 설명
@@ -696,7 +693,7 @@ _\* 150 ㎎/day에 해당하는 경우 100 ㎎ × 3을 2일마다 투여 (뉴론
 □ 고용량 NSAID 또는 2종 이상 NSAID\
 □ Corticosteroid 또는 항응고제·항혈소판제(aspirin 포함) 병용\
 □ H. pylori 감염 (치료 우선)\
-✔ PPI: omeprazole 20 ㎎, esomeprazole 20\~40 ㎎, lansoprazole 15\~30 ㎎ qd
+✔ [PPI](../224_/073_-gidrugs.md#proton-pump-inhibitor-ppi) : omeprazole 20 ㎎, esomeprazole 20\~40 ㎎, lansoprazole 15\~30 ㎎ qd
 {% endhint %}
 
 ### <mark style="color:orange;">외용제</mark>
