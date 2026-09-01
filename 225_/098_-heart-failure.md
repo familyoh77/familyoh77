@@ -2,19 +2,35 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 심실의 혈액 충만 또는 심실의 혈액 박출의 구조적·기능적 장애로 인한 증상 및 징후가 있는 복합적 임상 증후군
-* 모든 HF 환자에서 GDMT(guideline-directed medical therapy)는 증상 호전·EF 회복 여부와 무관하게 임의 중단하지 않음
+* 심부전은 다양한 원인에 의해 발생하는 임상 증후군으로, 전형적인 증상 또는 징후와 함께 기저 구조적·기능적 심장 이상에 기인한 폐·전신 울혈 또는 심박출량 변화의 검사실·영상학적 증거가 존재하는 상태이다. 단일 검사로 진단하지 않고 임상 소견, 바이오마커, 영상을 종합하여 판단하며, 나트륨이뇨펩타이드(natriuretic peptide, NP) 상승이 진단의 필수조건은 아님 - 특히 HFpEF에서는 침습적 혈역학 이상이 명확해도 NP가 정상일 수 있음
+* HFrEF에서 효과적인 GDMT(guideline-directed medical therapy)는 LVEF와 증상이 호전되어 HFimpEF 또는 remission 상태가 되더라도 원칙적으로 유지하며, 장기 추적함
 
 ### <mark style="color:orange;">분류</mark>
 
-#### <mark style="color:$primary;">EF 기반 분류</mark>
+#### <mark style="color:$primary;">2026 보편적 표현형 분류</mark>
+
+* **HF with reduced EF (HFrEF)**
+* **HF with preserved EF (HFpEF)**
+* **HF with improved EF (HFimpEF)** : 이전에 감소했던 LVEF가 이후 증가하거나 정상화된 상태
+* 2026 Second Universal Definition of HF는 성별·연령·인종·영상기법에 따른 정상 LVEF 하한과 측정 변동성을 고려하여 고정된 절단값 대신 위의 임상적으로 활용 가능한 세 표현형을 제시함
+* HFmrEF는 2026 보편적 표현형의 독립 범주에는 포함되지 않지만, 치료 근거와 임상시험은 여전히 절단값 기반 4분류를 사용하므로 실무에서는 계속 사용함
+
+#### <mark style="color:$primary;">현행 진료지침 및 임상시험상 실무 분류</mark>
+
+_ESC 2023 및 AHA/ACC/HFSA 2022 기준_
 
 * HFpEF (HF with preserved EF) : LVEF ≥50%
   * 심실 이완 장애·충만압 증가(고혈압·비만·당뇨·노화) → 운동 내성 저하 및 폐정맥 울혈; 수축력은 보존되나 충만 이상
 * HFmrEF (HF with mildly reduced EF) : LVEF 41\~49%
 * HFrEF (HF with reduced ejection fraction) : LVEF ≤40%
   * 심근 수축력 저하(MI, 확장성·허혈성 심근병증) → CO 감소 → 신경호르몬 과활성화(RAAS, 교감신경) → 심실 리모델링 악화
-* HFimpEF (HF with improved EF) : baseline LVEF ≤40% → 절대 10%p 이상 증가 → 추적 측정 LVEF ＞40% (Universal Definition of HF, 2021)
+* HFimpEF (HF with improved EF) : baseline LVEF ≤40% → 절대 10%p 이상 증가 → 추적 측정 LVEF ＞40% (AHA/ACC/ESC/WHF Second Universal Definition of HF, 2026)
+
+#### <mark style="color:$primary;">HF의 동적 경과</mark>
+
+<table><thead><tr><th width="130">경과</th><th>정의</th></tr></thead><tbody><tr><td><strong>Improvement</strong></td><td>LVEF가 호전되었지만 구조적 이상, 바이오마커 상승 또는 임상적 이상이 남아 있는 상태</td></tr><tr><td><strong>Remission</strong></td><td>LVEF가 정상화되고 증상이 거의 없으며 바이오마커도 안정적이지만 재발 가능성이 남아 있는 상태</td></tr><tr><td><strong>Recovery</strong></td><td>심장 구조·기능·바이오마커·증상이 장기간 정상화된 상태로, 소수의 환자만 도달</td></tr></tbody></table>
+
+_✽Improvement, remission, recovery는 HFimpEF뿐 아니라 모든 HF 표현형에 적용 가능한 경과 개념임. LVEF 호전만으로 질환이 소실되었다고 판단하지 않으며, 지속적인 임상 감시와 개별화된 치료가 필요함_
 
 #### <mark style="color:$primary;">기능적 분류 (NYHA Functional Classification)</mark>
 
@@ -24,8 +40,11 @@ _✽심부전 증상 : 호흡 곤란(dyspnea), 피로(fatigue), 운동 내성 �
 
 ## <mark style="color:green;">원인</mark>
 
-* 주요 원인 : 허혈성 심질환, 심근경색, 판막성 심질환
-* 비허혈성 원인 : 죽상경화성 CVD, 고혈압(조절 안 됨), cardiotoxin 노출(항암제·알코올), 류마티스/자가면역 질환, 내분비/대사 질환(갑상선·당뇨·비만·대사증후군·철분 과다), 가족성 심근병증, 유전성 심질환, 빈맥/PVC, 침윤성 심질환(amyloid·sarcoid), 심근염, 산후 심근병증, 스트레스 심근병증
+심부전의 원인을 단순히 허혈성·비허혈성으로만 구분하지 않고, 교정 가능하거나 표적 치료가 가능한 구체적 병인을 확인함.
+
+<table><thead><tr><th width="180">병인군</th><th>대표 질환·상태</th></tr></thead><tbody><tr><td><strong>허혈성 심근병증</strong></td><td>허혈성 심질환, 심근경색, 관상동맥질환</td></tr><tr><td><strong>고혈압성 심근병증</strong></td><td>고혈압성 심장질환</td></tr><tr><td><strong>판막성 심근병증</strong></td><td>석회화 대동맥판질환, 퇴행성 승모판질환, 류마티스성·선천성 판막질환</td></tr><tr><td><strong>부정맥 관련 심근병증</strong></td><td>조절되지 않는 AF, 빈맥·PVC·심실비동기·우심실 조율 유발 심근병증</td></tr><tr><td><strong>침윤성 심근병증</strong></td><td>심장 아밀로이드증, 혈색소침착증, Fabry병, 당원축적병, 종양 침윤</td></tr><tr><td><strong>감염성 심근병증</strong></td><td>바이러스성 심근염, Chagas병, HIV, Lyme병</td></tr><tr><td><strong>염증성 심근병증</strong></td><td>자가면역질환, sarcoidosis, 과민반응</td></tr><tr><td><strong>독성 심근병증</strong></td><td>약제 유발 심장독성, 알코올·코카인·암페타민 등 물질 사용</td></tr><tr><td><strong>유전성 심근병증</strong></td><td>비대성·확장성·제한성·부정맥유발성 심근병증, 비확장성 좌심실 심근병증</td></tr><tr><td><strong>심낭질환</strong></td><td>수축성·제한성 심낭염</td></tr><tr><td><strong>대사·영양결핍 관련</strong></td><td>비만, 당뇨병, 갑상선질환, thiamine·selenium 결핍, 선천성 대사 이상</td></tr><tr><td><strong>임신 관련 심근병증</strong></td><td>주산기 심근병증</td></tr><tr><td><strong>스트레스 유발 심근병증</strong></td><td>Takotsubo 심근병증</td></tr><tr><td><strong>폐질환·우심부전 관련</strong></td><td>COPD, 간질성 폐질환, 진폐증, 폐동맥고혈압</td></tr><tr><td><strong>선천성 심근병증</strong></td><td>체순환 우심실 부전, Fontan 순환, 교정된 Fallot 4징</td></tr><tr><td><strong>고박출성 심근병증</strong></td><td>혈색소병증·용혈성 빈혈, 동정맥기형, pheochromocytoma 등 내분비 원인</td></tr><tr><td><strong>기타</strong></td><td>신경근육질환, 심내막심근섬유증, Löffler 심내막염 등</td></tr><tr><td><strong>특발성</strong></td><td>원인을 확인하지 못한 심근병증</td></tr></tbody></table>
+
+* 심부전의 원인과 유병 양상은 지역·이주·의료 접근성·사회경제적 환경에 따라 달라질 수 있으므로 환자의 출신 지역과 노출력도 함께 고려함
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -161,7 +180,7 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 ### <mark style="color:orange;">HF phenotype별 약물 치료 요약</mark>
 
-<table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td>SGLT2i 우선 (ESC 2023); 원인 질환(고혈압·AF·비만) 집중 관리; 체액 과부하 시 이뇨제</td></tr><tr><td><strong>HFmrEF</strong></td><td>41~49%</td><td>SGLT2i 우선(Class I); ACEi/ARB/ARNi · β-차단제 · MRA는 Class IIb - 증상 있는 경우 HFrEF 약제 고려 가능 (ESC 2023)</td></tr><tr><td><strong>HFrEF</strong></td><td>≤40%</td><td>ARNi/ACEi + β-차단제 + MRA + SGLT2i 4제 병용</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 ≤40%<br>→ ＞40%</td><td>GDMT 전면 유지 - 절대 중단 금지; EF 회복 후에도 재악화 위험 높음 → 추적 심초음파 및 장기 관리 필수</td></tr></tbody></table>
+<table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td>SGLT2i 우선 (ESC 2023); 원인 질환(고혈압·AF·비만) 집중 관리; 체액 과부하 시 이뇨제</td></tr><tr><td><strong>HFmrEF</strong></td><td>41~49%</td><td>SGLT2i 우선(Class I); ACEi/ARB/ARNi · β-차단제 · MRA는 Class IIb - 증상 있는 경우 HFrEF 약제 고려 가능 (ESC 2023)</td></tr><tr><td><strong>HFrEF</strong></td><td>≤40%</td><td>ARNi/ACEi + β-차단제 + MRA + SGLT2i 4제 병용</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 ≤40%<br>→ ＞40%</td><td>GDMT는 전문의의 개별화된 판단 없이 임의 중단하지 않음; EF 회복 후에도 재악화 위험 높음 → 추적 심초음파 및 장기 관리 필수</td></tr></tbody></table>
 
 ### <mark style="color:orange;">급성 심부전 초기 관리</mark>
 
@@ -231,8 +250,8 @@ flowchart TD
 
 #### <mark style="color:$primary;">Stage A : HF 위험군 (Pre-HF 이전)</mark>
 
-* HF 위험 인자가 있으나 증상·구조적 심질환·비정상 biomarker 없음
-* 주요 위험 인자 : 고혈압, T2DM, CVD, 비만 (BMI ＞30), CKD, AF, cardiotoxin 노출, 유전성 심근병증 가족력
+* HF 발생 위험이 있지만 현재 또는 과거의 HF 증상·징후, 구조적 심장 변화 또는 심장질환 바이오마커 상승이 없는 상태
+* 주요 위험 인자 : 고혈압, 죽상경화성 CVD, 선천성 심질환, T2DM, 비만(BMI ＞30), CKD, AF, cardiotoxin 노출, 심근병증 가족력 또는 cardiomyopathy 위험 유전자 보인자
 
 **관리**
 
@@ -244,7 +263,10 @@ flowchart TD
 
 #### <mark style="color:$primary;">Stage B : Pre-HF</mark>
 
-* HF 증상·징후 없으나 구조적 심질환, filling pressure 증가 증거, 또는 위험 인자 + NP 상승·troponin 지속 상승 중 하나 존재
+* HF 증상·징후가 현재 또는 과거에 없으면서, 다음 중 하나가 있는 경우
+  1. 구조적 이상 : LVH, 심장방 확장, 국소벽운동 이상, 심근 부종·반흔·섬유화, 판막질환
+  2. 기능적 이상 : 좌/우심실 수축기능 저하, 이완기기능 이상, 충만압 상승
+  3. NP 또는 cardiac troponin 상승(특히 심장독성 물질 노출 시)
 
 **관리**
 
@@ -305,7 +327,7 @@ _\*NP biomarker 선별 검사는 AHA/ACC/HFSA 2022에서 고려 가능하다고 
 
 #### <mark style="color:$primary;">Stage C : 증상성 HF</mark>
 
-* 현재/이전에 HF 증상을 가진 구조적 심질환; 다학제 팀 관리 권고
+* 구조적 또는 기능적 심장 이상으로 인한 현재 또는 과거의 HF 증상·징후가 있는 상태; 다학제 팀 관리 권고
 
 **비약물적 중재**
 
@@ -414,12 +436,12 @@ class SGLT2,DIURETIC,RATE,WEIGHT,BPCTRL sky
 
 #### <mark style="color:$primary;">Stage D : Advanced HF</mark>
 
-* 적절한 치료에도 불구하고 일상생활을 방해하고 반복적인 입원이 요구되는 현저한 HF 증상
+* 휴식 또는 최소 활동 시 중증 증상·징후, GDMT에도 반복 입원, GDMT 불응 또는 불내성, 강심제 등 고도 치료 및 심장이식·기계순환보조·완화의료 고려가 필요한 상태
 * **전문센터 의뢰 기준** : ⓵ 최근 12개월 내 HF 관련 입원 ≥2회, ⓶ NYHA IV (최적 GDMT에도 불응), ⓷ GDMT 불내성으로 표준 치료 불가, ⓸ 지속적 이뇨제 의존·저나트륨혈증·저혈압 동반, ⓹ 심장 이식/LVAD/임상시험 적합성 평가 필요
 
 <mark style="color:cyan;">**HFrEF Stage C & D 환자 치료**</mark>
 
-<table><thead><tr><th width="80">Step</th><th width="180">목표</th><th>내용</th></tr></thead><tbody><tr><td><strong>Step 1</strong></td><td>HFrEF 진단 수립<br>초기 치료 시작</td><td>· HFrEF (LVEF ≤40%, Stage C) 확인<br>· ARNi (NYHA II–IV) 또는 ACEi/ARB<br>· β-blocker<br>· MRA<br>· SGLT2i<br>· 필요 시 이뇨제</td></tr><tr><td><strong>Step 2</strong></td><td>내성·검사·LVEF에<br>맞춰 용량 조절</td><td>· LVEF ≤40% 지속 → HFrEF (Stage C) : GDMT 용량 최적화 계속<br>· LVEF ＞40% → HFimpEF : GDMT 반드시 유지 (중단 금지)</td></tr><tr><td><strong>Step 3</strong></td><td>환자별 특성 고려</td><td>· NYHA III–IV + African American → Hydralazine/ISDN 추가<br>· NYHA I + LVEF ≤30% + post-MI ≥40일 + GDMT 유지 + 기대여명 ＞1년 → ICD (Stage B, 1차예방)<br>· NYHA II–III + LVEF ≤35% + GDMT ≥3개월 지속 + 기대여명 ＞1년 → ICD (Stage C, 1차예방)<br>· NYHA II–III (ambulatory IV) + LVEF ≤35% + NSR + QRS ≥150 ms with LBBB → CRT-D</td></tr><tr><td><strong>Step 4</strong></td><td>적응증별<br>추가 치료</td><td>· Hydralazine/ISDN (African American, NYHA III–IV)<br>· ICD (급사 예방)<br>· CRT-D (심장재동기화)<br>· 기타 추가 치료 고려</td></tr><tr><td><strong>Step 5</strong></td><td>재평가</td><td>· 난치성 HF → Step 6으로<br>· 증상 호전 → 용량 유지 및 정기 추적</td></tr><tr><td><strong>Step 6</strong></td><td>전문센터 의뢰<br>(Stage D)</td><td>· 내구성 MCS (LVAD 등)<br>· 심장 이식<br>· 완화의료 (Stage D 이전부터 시작 가능)<br>· 임상시험 참여 고려</td></tr></tbody></table>
+<table><thead><tr><th width="80">Step</th><th width="180">목표</th><th>내용</th></tr></thead><tbody><tr><td><strong>Step 1</strong></td><td>HFrEF 진단 수립<br>초기 치료 시작</td><td>· HFrEF (LVEF ≤40%, Stage C) 확인<br>· ARNi (NYHA II–IV) 또는 ACEi/ARB<br>· β-blocker<br>· MRA<br>· SGLT2i<br>· 필요 시 이뇨제</td></tr><tr><td><strong>Step 2</strong></td><td>내성·검사·LVEF에<br>맞춰 용량 조절</td><td>· LVEF ≤40% 지속 → HFrEF (Stage C) : GDMT 용량 최적화 계속<br>· LVEF ＞40% → HFimpEF : GDMT는 전문의의 개별화된 판단 없이 임의 중단하지 않음</td></tr><tr><td><strong>Step 3</strong></td><td>환자별 특성 고려</td><td>· NYHA III–IV + African American → Hydralazine/ISDN 추가<br>· NYHA I + LVEF ≤30% + post-MI ≥40일 + GDMT 유지 + 기대여명 ＞1년 → ICD (Stage B, 1차예방)<br>· NYHA II–III + LVEF ≤35% + GDMT ≥3개월 지속 + 기대여명 ＞1년 → ICD (Stage C, 1차예방)<br>· NYHA II–III (ambulatory IV) + LVEF ≤35% + NSR + QRS ≥150 ms with LBBB → CRT-D</td></tr><tr><td><strong>Step 4</strong></td><td>적응증별<br>추가 치료</td><td>· Hydralazine/ISDN (African American, NYHA III–IV)<br>· ICD (급사 예방)<br>· CRT-D (심장재동기화)<br>· 기타 추가 치료 고려</td></tr><tr><td><strong>Step 5</strong></td><td>재평가</td><td>· 난치성 HF → Step 6으로<br>· 증상 호전 → 용량 유지 및 정기 추적</td></tr><tr><td><strong>Step 6</strong></td><td>전문센터 의뢰<br>(Stage D)</td><td>· 내구성 MCS (LVAD 등)<br>· 심장 이식<br>· 완화의료 (Stage D 이전부터 시작 가능)<br>· 임상시험 참여 고려</td></tr></tbody></table>
 
 {% hint style="info" %}
 일련의 재평가와 용량 최적화를 시행하며 지속적인 약물 치료·이행·환자 교육·치료 목표 달성
@@ -427,7 +449,7 @@ class SGLT2,DIURETIC,RATE,WEIGHT,BPCTRL sky
 
 ### <mark style="color:orange;">Stage별 관리 요약</mark>
 
-<table><thead><tr><th width="120">Stage</th><th width="158">특징</th><th>주요 관리 전략</th></tr></thead><tbody><tr><td><strong>Stage A</strong><br>(HF 위험군)</td><td>증상 없음<br>구조적 심질환 없음<br>위험 인자 존재</td><td>· 고혈압·당뇨·비만·CKD·AF·CVD·cardiotoxin 등 위험 인자 적극 관리<br>· SGLT2i : T2DM + CVD/CKD 환자에서 권고<br>· 생활습관 교정 (운동·체중·식습관·금연)<br>· NP biomarker 선별 검사 고려(일부 가이드라인 제안)</td></tr><tr><td><strong>Stage B</strong><br>(Pre-HF)</td><td>증상 없음<br>구조적 심질환 또는<br>filling pressure 증가</td><td>· ACEi (LVEF ≤40%) / ARB (ACEi 불내성 + recent MI)<br>· β-blocker (MI 병력 또는 LVEF ≤40%)<br>· ICD : post-MI ≥40일, LVEF ≤30%, NYHA I, GDMT 유지 중 (1차예방)<br>· Statin (MI/ACS 병력)<br>· TZD · non-DHP CCB 회피</td></tr><tr><td><strong>Stage C</strong><br>(증상성 HF)</td><td>구조적 심질환<br>+ 현재/과거 증상</td><td>· 다학제 팀 관리; 백신 접종; 우울증·사회적 고립 선별<br>· HFrEF : Quadruple therapy (ARNi/ACEi + β-blocker + MRA + SGLT2i)<br>· HFmrEF : SGLT2i Class I; 나머지 GDMT(Class IIb) 고려 가능 (ESC 2023)<br>· HFpEF : SGLT2i + AF·비만·고혈압 동반 질환 집중 관리<br>· CRT/ICD 평가; 심장 재활; 생활습관 교정</td></tr><tr><td><strong>Stage D</strong><br>(Advanced HF)</td><td>반복 입원<br>GDMT 불응<br>일상생활 제한</td><td>· LVAD, 심장 이식 고려<br>· 완화의료 조기 병행 (Stage D 이전부터 시작 가능)<br>· <strong>전문센터 의뢰 기준</strong> : ⓵ 최근 12개월 내 입원 ≥2회, ⓶ NYHA IV 지속, ⓷ GDMT 불내성, ⓸ 이뇨제 의존·저나트륨혈증·저혈압, ⓹ 이식/LVAD/임상시험 적합성 평가 필요<br>· 임상시험 참여 가능성 검토</td></tr></tbody></table>
+<table><thead><tr><th width="120">Stage</th><th width="158">특징</th><th>주요 관리 전략</th></tr></thead><tbody><tr><td><strong>Stage A</strong><br>(HF 위험군)</td><td>현재·과거 증상/징후 없음<br>구조적 변화·심장 바이오마커 상승 없음<br>위험 인자 존재</td><td>· 고혈압·당뇨·비만·CKD·AF·CVD·선천성 심질환·cardiotoxin·심근병증 가족력/위험 유전자 등 위험 인자 적극 관리<br>· SGLT2i : T2DM + CVD/CKD 환자에서 권고<br>· 생활습관 교정 (운동·체중·식습관·금연)<br>· NP biomarker 선별 검사 고려(일부 가이드라인 제안)</td></tr><tr><td><strong>Stage B</strong><br>(Pre-HF)</td><td>현재·과거 증상/징후 없음<br>구조적·기능적 이상 또는<br>NP/cardiac troponin 상승</td><td>· ACEi (LVEF ≤40%) / ARB (ACEi 불내성 + recent MI)<br>· β-blocker (MI 병력 또는 LVEF ≤40%)<br>· ICD : post-MI ≥40일, LVEF ≤30%, NYHA I, GDMT 유지 중 (1차예방)<br>· Statin (MI/ACS 병력)<br>· TZD · non-DHP CCB 회피</td></tr><tr><td><strong>Stage C</strong><br>(증상성 HF)</td><td>구조적 또는 기능적 심장 이상<br>+ 현재/과거 증상·징후</td><td>· 다학제 팀 관리; 백신 접종; 우울증·사회적 고립 선별<br>· HFrEF : Quadruple therapy (ARNi/ACEi + β-blocker + MRA + SGLT2i)<br>· HFmrEF : SGLT2i Class I; 나머지 GDMT(Class IIb) 고려 가능 (ESC 2023)<br>· HFpEF : SGLT2i + AF·비만·고혈압 동반 질환 집중 관리<br>· CRT/ICD 평가; 심장 재활; 생활습관 교정</td></tr><tr><td><strong>Stage D</strong><br>(Advanced HF)</td><td>휴식/최소 활동 시 중증 증상·징후<br>반복 입원<br>GDMT 불응·불내성</td><td>· LVAD, 심장 이식 고려<br>· 완화의료 조기 병행 (Stage D 이전부터 시작 가능)<br>· <strong>전문센터 의뢰 기준</strong> : ⓵ 최근 12개월 내 입원 ≥2회, ⓶ NYHA IV 지속, ⓷ GDMT 불내성, ⓸ 이뇨제 의존·저나트륨혈증·저혈압, ⓹ 이식/LVAD/임상시험 적합성 평가 필요<br>· 임상시험 참여 가능성 검토</td></tr></tbody></table>
 
 ***
 
