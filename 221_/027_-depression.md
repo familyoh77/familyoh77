@@ -11,14 +11,15 @@
 * 종종 동반 질환이 있으며(불안이 가장 흔함), 환자의 ＞⅔가 두통 등 통증, 소화기 장애를 호소함
 * 노인 우울증에 대해서는 노화, 다른 내과 질환, 기억력 장애/치매 초기 증상 가능성 고려; 우울 감정을 부정하면서 두통·소화기 증상·만성 통증 등 신체 증상만 호소하는 경우가 흔함
 
-**가면 우울증** (Masked Depression)
+**신체증상 중심의 우울증 표현** (Somatic presentations of depression; 전통적 용어: masked depression)
 
-* 일차 의료 기관을 방문하는 우울증 환자의 상당수는 우울한 기분보다 두통, 만성 통증, 소화불량, 피로감, 기력 저하 등 신체 증상을 주 호소로 먼저 제시함(특히노인 우울증에서 흔함)
+* 일차 의료 기관을 방문하는 우울증 환자의 상당수는 우울한 기분보다 두통, 만성 통증, 소화불량, 피로감, 기력 저하 등 신체 증상을 주 호소로 먼저 제시함(특히 노인 우울증에서 흔함)
 * 신체 증상이 반복되고 기질적 원인이 불명확한 경우 우울증을 적극적으로 감별해야 함
+* masked depression은 DSM-5-TR의 공식 진단명이 아니며, 신체증상만으로 우울증을 진단하지 않고 전체 우울 증상과 기능 손상을 평가함
 
 ## <mark style="color:green;">원인</mark>
 
-* 유전(예: 신경 전달 기능 이상)
+* 유전적 취약성
 * 발달 문제(예: 인성, 유년기 사건)
 * 정신적 스트레스(예: 이혼, 실직)
 
@@ -27,7 +28,8 @@
 
 ### <mark style="color:orange;">기전</mark>
 
-* monoamine-deficiency hypothesis : norepinephrine↓(멍함, 무기력), serotonin↓(불안정, 적대감, 자살 충동), neurotransmitter(dopamine, acetylcholine, GABA, glutamate) 관련
+* 우울증은 특정 신경전달물질 하나의 결핍만으로 설명되지 않음. 유전적 취약성, 신경회로·신경가소성, 스트레스 반응, 수면·일주기, 염증·면역 및 심리사회적 요인이 상호 작용하는 생물-심리-사회적 질환으로 이해함
+* serotonin, norepinephrine, dopamine, glutamate 및 GABA 등 여러 신경전달계와 흥분-억제 조절이 관련되지만, 이들의 변화는 원인·결과와 치료 반응이 복합적으로 얽혀 있어 단순한 ‘화학적 불균형’으로 설명하지 않음
 * stress 중에 hypothalamic-pituitary-adrenal axis 활성도 증가 : cortisol 상승에 의한 영향
 * inflammatory process, 비정상적 일주기 리듬 : 신경 전달 물질 생성 및 대사에 영향
 * 염증/면역 가설 : CRP 등 염증 지표 상승이 항우울제 치료 반응 저하와 연관; anti-inflammatory adjunct(예: celecoxib, omega-3) 병용 연구 진행 중&#x20;
@@ -41,7 +43,7 @@
 
 **인구학적 특성**
 
-* 여성 (남성의 2배)
+* 여성에서 남성보다 약 2배 흔하며, 성별 격차는 사춘기 이후 뚜렷해지고 연령·지역·조사방법에 따라 크기가 달라짐
 * 고령 : 활동 장애, 나쁜 건강 상태, 복합적인 슬픔, 만성 수면 장애, 외로움
 
 **심리·성격적 요인**
@@ -97,20 +99,21 @@
 
 * 슬픔, 불안, 짜증, 걱정, 집중력 부족, 좌절
 * 불면, 거식증, 성욕 저하, 체중 감소, 신체적 불편
-* 정신 운동성 동요나 지체, 망상, 활동 저하
+* 정신운동성 동요나 지체, 활동 저하; 중증 삽화에서는 망상·환각 등 정신병적 증상이 동반될 수 있음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
-* 자살 사고가 구체적(방법, 시기, 계획 등)이거나 자살 시도 직후인 경우
+* 현재 실행 의도가 있거나 수단에 접근할 수 있는 구체적 자살사고, 최근 자살 시도·중단된 시도, 스스로 안전을 유지하기 어려운 경우
 * 타인에 대한 위해 의도
 * 급성 정신증(환청, 망상, 심한 와해 행동) 동반
+  * 조증·혼재성 증상, 물질·약물 유발 상태 및 일차성 정신병적 장애를 함께 감별하되 응급 평가를 지연하지 않음
 * 음식/수분 거부로 인한 신체 상태 급격히 악화
 
 <mark style="color:$warning;">**당일 의뢰 또는 긴급 평가 권고**</mark>
 
-* 자살 사고가 있으나 구체적 계획은 없는 경우 (PHQ-9 9번 항목 양성)
+* 자살·자해 사고 또는 수동적 죽음 소망이 확인되었으나 즉각적 위해가 명확하지 않은 경우: 당일 구조화 평가 후 위험도와 보호요인에 따라 의뢰 시급성을 결정
 * 과거 조증/경조증 삽화 → 양극성 장애 의심
 * 우울증을 호소하면서 동시에 초조, 과민성, 사고 빠름, 수면 감소, 과대성 등이 동반 → 혼재성 의심&#x20;
 * 약물·알코올 남용 동반, 인격장애 동반
@@ -125,16 +128,18 @@
 
 **선별 검사** \[USPSTF]
 
-* 대상 : 이전에 검사한 적이 없는 모든 성인
+* 대상 : 선별 양성 후 정확한 진단, 효과적인 치료 및 적절한 추적관찰을 보장할 체계가 갖춰진 진료환경의 성인. 선별검사는 임상적 평가를 대신하지 않음
 * 검사 주기 : 정해지지 않음. 임상적으로 결정
 * 검사 도구 : 특정하지 않음; 일반 인구- PHQ, 고령- GDS, 임신- [에든버러 척도](028_-postpartum-depression.md#edinburgh-postnatal-depression-scale-epds)
 * 선별 검사에서 양성 시 다른 정신 질환(예: 불안, 공황장애)에 대해서도 검사 시행
 
 ### <mark style="color:orange;">진단 기준 \[DSM-5-TR]</mark>
 
-#### <mark style="color:$primary;">주요우울증 (Major depressive episode)</mark>
+#### <mark style="color:$primary;">주요우울장애 (Major depressive disorder)</mark>
 
-A. 다음 중 ≥5개의 증상이(1.과 2.중 최소 하나는 반드시 포함) ≥2주 지속되며 예전 기능에 변화가 발생; 일반적인 의학적 상태에 의한 증상 또는 기분에 합당하지 않는 망상이나 환각으로 인한 증상은 해당되지 않음
+_※ 아래 A\~C는 주요우울 삽화 기준이며, 주요우울장애 진단에는 D와 E까지 확인해야 함._
+
+A. 다음 중 ≥5개의 증상이(1.과 2.중 최소 하나는 반드시 포함) 같은 2주 동안 지속되고 이전 기능에 변화가 발생함
 
 \[Depression]
 
@@ -146,7 +151,7 @@ A. 다음 중 ≥5개의 증상이(1.과 2.중 최소 하나는 반드시 포함
 
 \[Physical Sx]
 
-3. 체중 조절을 하고 있지 않는 상태에서 의미 있는 체중 감소나 증가(예: 1개월 동안 ＞5% 변화), 또는 거의 매일 식욕의 증가나 감소가 있음 \[appetitie/weight change]
+3. 체중 조절을 하고 있지 않는 상태에서 의미 있는 체중 감소나 증가(예: 1개월 동안 ＞5% 변화), 또는 거의 매일 식욕의 증가나 감소가 있음 \[appetite/weight change]
 4. 거의 매일 나타나는 불면 또는 과다 수면 \[sleep disturbance]
 5. 거의 매일 나타나는 정신 운동성 동요 또는 지체(주관적 감정 뿐 아니라 객관적으로 관찰되는 안절부절 또는 느려짐) \[psychomotor disorder]
 6. 거의 매일 나타나는 피로 또는 무기력함 \[fatigue]
@@ -161,11 +166,15 @@ B. 증상이 사회적, 직업적, 또는 기타 중요한 기능 영역에서 �
 
 C. 증상은 물질(예: 약물) 또는 일반적인 의학적 상태(예: 갑상선저하증)의 직접적인 생리학적 영향에 의한 것이 아님
 
+D. 주요우울 삽화가 조현정동장애, 조현병, 조현양상장애, 망상장애 또는 기타 명시되거나 명시되지 않은 조현병 스펙트럼 및 정신병적 장애로 더 잘 설명되지 않음
+
+E. 조증 삽화 또는 경조증 삽화가 있었던 적이 없음. 단, 물질이나 다른 의학적 상태의 생리적 영향에 의한 삽화는 제외함
+
 #### <mark style="color:$primary;">DSM-5-TR Specifiers</mark>
 
-<table><thead><tr><th width="178">Specifiers</th><th width="260">특징</th><th>약제 선택 유의점</th></tr></thead><tbody><tr><td>Anxious distress <br>(불안형)</td><td>긴장, 안절부절, 집중 곤란, 파국적 사고</td><td>SSRI 우선; benzodiazepine 단기 병용 가능</td></tr><tr><td>Mixed features <br>(혼재성)*</td><td>우울 삽화 중 ≥3가지 조증/경조증 증상 동반</td><td>항우울제 단독 금기; 기분조절제·항정신병제 병용 필수; 양극성 감별</td></tr><tr><td>Melancholic features (멜랑꼴리아)</td><td>쾌감 소실, 아침 악화, 조기 각성, 죄책감, 정신운동 변화</td><td>escitalopram 최우선; TCA 2차</td></tr><tr><td>Atypical features <br>(비전형적)</td><td>기분 반응성 유지, 과식, 과수면, 납 마비, 거절 예민성</td><td>SSRI·bupropion 우선; MAOI는 국내 사용 제한</td></tr><tr><td>Peripartum onset <br>(주산기)</td><td>임신 중 또는 출산 후 발생</td><td>sertraline·escitalopram 모유 수유 중 안전</td></tr><tr><td>Seasonal pattern <br>(계절성)</td><td>가을-겨울 발병, 봄 관해</td><td>광선 치료 1차; SSRI 병행 가능</td></tr></tbody></table>
+<table><thead><tr><th width="178">Specifiers</th><th width="260">특징</th><th>치료 시 유의점</th></tr></thead><tbody><tr><td>Anxious distress <br>(불안 고통 동반)</td><td>긴장, 안절부절, 집중 곤란, 파국적 사고</td><td>불안의 중증도와 자살위험을 함께 평가; 초기 활성화 부작용을 고려해 저용량 시작</td></tr><tr><td>Mixed features <br>(혼재성)*</td><td>우울 삽화 중 ≥3가지 조증/경조증 증상 동반</td><td>혼재성 양상 자체가 양극성 장애를 확정하지는 않음. 양극성 장애를 재평가하고 항우울제 단독 사용은 신중히 결정</td></tr><tr><td>With psychotic features <br>(정신병적 양상)</td><td>우울 삽화 중 망상 또는 환각 동반; 기분 일치성·불일치성으로 세분</td><td>중증도·자살위험·영양 및 수분 섭취를 평가하고 항우울제+항정신병약물 또는 ECT 고려; 정신건강의학과 협진</td></tr><tr><td>Melancholic features (멜랑꼴리아)</td><td>쾌감 소실, 아침 악화, 조기 각성, 죄책감, 정신운동 변화</td><td>중증도·정신병적 증상·영양상태와 ECT 필요성을 함께 평가</td></tr><tr><td>Atypical features <br>(비전형적)</td><td>기분 반응성 유지, 과식, 과수면, 납 마비, 거절 예민성</td><td>양극성 장애와 수면·섭식 문제를 함께 평가</td></tr><tr><td>Peripartum onset <br>(주산기)</td><td>임신 중 또는 출산 후 발생</td><td>태아·영아 노출, 과거 치료 반응 및 치료하지 않은 우울증의 위험을 개별적으로 비교</td></tr><tr><td>Seasonal pattern <br>(계절성)</td><td>특정 계절과 삽화·관해 사이에 반복적 시간 관계</td><td>광선치료, 정신치료 및 항우울제를 중증도와 선호에 따라 선택</td></tr></tbody></table>
 
-_\*조증 전환 위험↑, 항우울제 단독 투여 시 삽화 악화 가능; 양극성 장애 감별 및 기분조절제 병용 고려 필요_
+_\*조증 전환 가능성을 관찰하고 양극성 장애를 면밀히 감별함. 혼재성 양상이 있다는 이유만으로 양극성 장애로 확진하거나 모든 환자에게 병용치료를 의무화하지 않음._
 
 #### <mark style="color:$primary;">역치하 우울증 (Subthreshold depression / Other specified depressive disorder)</mark>
 
@@ -209,10 +218,9 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 ### <mark style="color:orange;">검사</mark>
 
-* 신체 질환의 양상이 없는 경우 권고하지 않음
-* 검사 대상 : 새로 진단, 심한 증상, 치료에 반응하지 않음
-* 기본 검사 : CBC, 전해질, U/A, TSH
-* 선택 : Vit B12(cobalamin), B9(folate), Vit D, ECG; EEG·brain MRI는 routine 권고 아님 - 비전형적 증상, 신경학적 이상, 인지저하 동반 시에 한하여 고려
+* 모든 신환에게 동일한 검사를 일률적으로 시행하지 않으며, 병력·진찰·연령·복용약물과 감별진단에 따라 표적 검사를 선택함
+* TSH, CBC, 전해질, 간·신장기능, 혈당, 임신검사, vitamin B12/folate 등은 갑상선질환·빈혈·대사질환·영양결핍·약물 부작용 가능성 또는 치료 전 기초치가 필요한 경우 고려
+* ECG는 심혈관 위험, QT 연장 약물 또는 TCA 사용 시 고려함. EEG·뇌영상은 일상적으로 시행하지 않고 신경학적 이상, 비전형적 경과, 인지저하 또는 다른 신경계 질환이 의심될 때 시행함
 
 ### <mark style="color:orange;">우울 척도 문진표</mark>
 
@@ -226,7 +234,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 #### [<mark style="color:$primary;">PHQ-9</mark>](http://www.phqscreeners.com)
 
-* 민감도/특이도 : ≥10점 기준 - 성인 88%/88%, 청소년 90%/78%
+* 민감도/특이도 : 성인에서 ≥10점 기준 약 85%/85%(개별 환자자료 메타분석); 대상군과 진단 면담 방식에 따라 달라질 수 있음
   * ✽cut-off를 ≥15점으로 높이면 민감도↓/특이도↑
 * 지난 2주일 동안 당신은 다음의 문제들로 인하여 지장을 받았던 날들이 얼마나 됩니까?
   1. 일 또는 여가 활동을 하는데 흥미나 즐거움이 거의 없다.
@@ -247,11 +255,15 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 **PHQ-9 점수별 권장 조치**
 
-<table><thead><tr><th width="120">점수</th><th width="160">중증도</th><th>권장 조치</th></tr></thead><tbody><tr><td>0~4점</td><td>없음 (None)</td><td>경과 관찰; 필요 시 재검</td></tr><tr><td>5~9점</td><td>경증 (Mild)</td><td>경과 관찰, PHQ-9 추적; 심리 교육, 생활 습관 중재; 증상 지속 시 치료 고려</td></tr><tr><td>10~14점</td><td>중등증 (Moderate)</td><td>상담 치료(CBT 등) 적극 권고; 항우울제 병용 고려; 2~4주 내 추적</td></tr><tr><td>15~19점</td><td>중등증-중증 (Mod-severe)</td><td>항우울제 즉시 시작; 정신 요법 병행; 2주 내 추적</td></tr><tr><td>20~27점</td><td>중증 (Severe)</td><td>항우울제 즉시 시작; 정신건강의학과 의뢰 고려; PHQ-9 9번 항목 확인 필수</td></tr></tbody></table>
+<table><thead><tr><th width="120">점수</th><th width="160">증상 범위</th><th>임상적 활용</th></tr></thead><tbody><tr><td>0~4점</td><td>최소</td><td>임상적으로 필요하면 경과 관찰·재평가</td></tr><tr><td>5~9점</td><td>경도</td><td>기능 손상·지속 기간·환자 선호를 평가하고 심리교육·생활중재·적극적 관찰을 고려</td></tr><tr><td>10~14점</td><td>중등도</td><td>진단 면담 후 정신치료 및 약물치료 필요성을 개별 결정</td></tr><tr><td>15~19점</td><td>중등도-중증</td><td>진단·기능 손상·양극성 및 자살위험을 평가하고 적극적 치료 고려</td></tr><tr><td>20~27점</td><td>중증</td><td>신속한 임상평가와 적극적 치료·전문의뢰 고려</td></tr></tbody></table>
 
-※ **PHQ-9 9번 항목 양성**(자해/자살 사고) 시 총점과 무관하게 → 자살 위험 구조화 평가 및 즉각 대응
+※ **PHQ-9 9번 항목 양성**은 수동적 죽음 소망부터 적극적 자살사고까지 포함함. 총점과 무관하게 즉시 추가 질문을 시행하되, 일괄 응급이송하지 않고 현재 의도·계획·수단 접근성·과거 시도·급성 악화요인·보호요인을 종합하여 조치함
 
-※ **삶의 질 평가** : 이 문항은 DSM-5 진단기준 B(기능 손상)에 직접 대응함. '매우 힘들다' 이상의 응답은 PHQ-9 총점이 낮더라도(mild 범위) 적극적 개입의 근거가 되며, 치료 반응 평가 시에도 증상 점수와 함께 반드시 확인해야 함
+{% hint style="info" %}
+**기능 손상을 반드시 함께 확인**
+
+PHQ-9의 기능 문항은 DSM-5-TR 진단기준 B의 기능 손상 평가에 대응함. ‘매우 힘들다’ 이상의 응답은 총점이 낮더라도 적극적인 임상평가의 근거가 되며, 치료 반응을 평가할 때에도 증상 점수와 함께 확인함.
+{% endhint %}
 
 #### <mark style="color:$primary;">WHO-5 Well-being index</mark>
 
@@ -265,19 +277,16 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 * 5개 항목에 각각 배점 : 항상=5점, 대부분=4점, 절반=3점, ＜절반=2점, 약간=1점, 없음=0점
 * 판정 : 총점으로 ＜13점이거나 어느 한 항목이 1점 이하인 경우 주요우울증 의심
 
-#### <mark style="color:$primary;">Beck Depression Inventory (BDI)</mark>
+#### <mark style="color:$primary;">Beck Depression Inventory-II (BDI-II)</mark>
 
-<table><thead><tr><th width="45.263153076171875" align="center">번호</th><th width="89.47369384765625">영역</th><th align="center">0점</th><th align="center">1점</th><th align="center">2점</th><th align="center">3점</th></tr></thead><tbody><tr><td align="center">1</td><td>슬픔</td><td align="center">슬프지 않다</td><td align="center">슬프다</td><td align="center">항상 슬프고 기운을 낼 수 없다</td><td align="center">너무나 슬프고 불행해서 도저히 견딜 수 없다</td></tr><tr><td align="center">2</td><td>비관</td><td align="center">미래에 대해 낙심하지 않는다</td><td align="center">미래에 대해 낙담하고 있다</td><td align="center">기대할 것이 아무것도 없다고 느낀다</td><td align="center">미래가 절망적이고 나아질 가망이 없다고 느낀다</td></tr><tr><td align="center">3</td><td>실패감</td><td align="center">실패자라고 느끼지 않는다</td><td align="center">보통 사람들보다 더 많이 실패한 것 같다</td><td align="center">내 삶을 뒤돌아볼 때 많은 실패만 보인다</td><td align="center">완전한 실패자라고 느낀다</td></tr><tr><td align="center">4</td><td>불만족</td><td align="center">일상생활에 만족하고 있다</td><td align="center">일상생활이 전처럼 즐겁지 않다</td><td align="center">어떤 것에서도 만족을 얻지 못한다</td><td align="center">모든 것이 불만스럽거나 싫증난다</td></tr><tr><td align="center">5</td><td>죄책감</td><td align="center">특별히 죄책감을 느끼지 않는다</td><td align="center">죄책감을 느낄 때가 많다</td><td align="center">죄책감을 느낄 때가 아주 많다</td><td align="center">항상 죄책감을 느낀다</td></tr><tr><td align="center">6</td><td>처벌감</td><td align="center">벌을 받고 있다고 느끼지 않는다</td><td align="center">벌을 받을지도 모른다는 느낌이 든다</td><td align="center">벌을 받을 것 같다</td><td align="center">지금 벌을 받고 있다고 느낀다</td></tr><tr><td align="center">7</td><td>자기혐오</td><td align="center">자신에게 실망하지 않는다</td><td align="center">자신에게 실망하고 있다</td><td align="center">자신에게 화가 난다</td><td align="center">자신을 증오한다</td></tr><tr><td align="center">8</td><td>자기비난</td><td align="center">다른 사람보다 못한 것 같지는 않다</td><td align="center">약점이나 실수에 대해 자신을 탓하는 편이다</td><td align="center">내 잘못을 항상 자책한다</td><td align="center">모든 나쁜 일에 대해 자신을 탓한다</td></tr><tr><td align="center">9</td><td>자살 사고</td><td align="center">자살을 생각하지 않는다</td><td align="center">가끔 자살을 생각하지만 실행하지는 않을 것이다</td><td align="center">자살하고 싶다</td><td align="center">기회만 있으면 자살하겠다</td></tr><tr><td align="center">10</td><td>울음</td><td align="center">평소보다 더 울지는 않는다</td><td align="center">전보다 더 많이 운다</td><td align="center">요즘 항상 운다</td><td align="center">울고 싶어도 울 수가 없다</td></tr><tr><td align="center">11</td><td>초조감</td><td align="center">평소보다 더 짜증을 내는 편은 아니다</td><td align="center">평소보다 조금 더 짜증이 난다</td><td align="center">꽤 많은 시간 동안 짜증이 난다</td><td align="center">항상 짜증이 난다</td></tr><tr><td align="center">12</td><td>대인관심</td><td align="center">다른 사람들에 대한 관심을 잃지 않고 있다</td><td align="center">전보다 다른 사람들에 대한 관심이 줄었다</td><td align="center">다른 사람들에 대한 관심을 거의 잃었다</td><td align="center">다른 사람들에 대한 관심을 완전히 잃었다</td></tr><tr><td align="center">13</td><td>결정력</td><td align="center">평소처럼 결정을 잘 내린다</td><td align="center">결정하는 것을 전보다 많이 미룬다</td><td align="center">결정하는 데 전보다 큰 어려움을 느낀다</td><td align="center">더 이상 결정을 내릴 수 없다</td></tr><tr><td align="center">14</td><td>신체상</td><td align="center">전보다 내 모습이 나빠졌다고 느끼지 않는다</td><td align="center">나이 들어 보이거나 매력 없어 보일까 봐 걱정한다</td><td align="center">외모가 영구히 매력 없게 변했다고 느낀다</td><td align="center">내가 추하게 보인다고 믿는다</td></tr><tr><td align="center">15</td><td>업무능력</td><td align="center">전처럼 일을 잘할 수 있다</td><td align="center">일을 시작하는 데 전보다 많은 노력이 필요하다</td><td align="center">무슨 일이든 하려면 자신을 매우 심하게 push해야 한다</td><td align="center">전혀 아무 일도 할 수가 없다</td></tr><tr><td align="center">16</td><td>수면</td><td align="center">평소처럼 잠을 잘 수 있다</td><td align="center">예전처럼 잠을 자지는 못한다</td><td align="center">전보다 1~2시간 일찍 깨며 다시 잠들기 어렵다</td><td align="center">평소보다 몇 시간이나 일찍 깨며 다시 잠들 수 없다</td></tr><tr><td align="center">17</td><td>피로감</td><td align="center">평소보다 더 피곤하지는 않다</td><td align="center">전보다 쉽게 피곤해진다</td><td align="center">무엇을 해도 피곤해진다</td><td align="center">너무 피곤해서 아무 일도 할 수 없다</td></tr><tr><td align="center">18</td><td>식욕</td><td align="center">식욕은 평소와 다름없다</td><td align="center">식욕이 예전만 못하다</td><td align="center">식욕이 많이 떨어졌다</td><td align="center">식욕이 전혀 없다</td></tr><tr><td align="center">19</td><td>체중</td><td align="center">체중 감소는 없다</td><td align="center">2 ㎏ 이상 줄었다</td><td align="center">4.5 ㎏ 이상 줄었다</td><td align="center">7 ㎏ 이상 줄었다</td></tr><tr><td align="center">20</td><td>건강염려</td><td align="center">건강에 대해 전보다 더 염려하지 않는다</td><td align="center">통증, 소화불량, 변비 등의 건강 문제를 걱정한다</td><td align="center">건강이 염려되어 다른 일을 생각하기 힘들다</td><td align="center">건강이 너무 염려되어 다른 아무것도 생각할 수 없다</td></tr><tr><td align="center">21</td><td>성욕</td><td align="center">성에 대한 관심에 별다른 변화가 없다</td><td align="center">전보다 성에 대한 관심이 줄었다</td><td align="center">성에 거의 관심이 없다</td><td align="center">성에 대한 관심을 완전히 잃었다</td></tr></tbody></table>
-
-* 각 항목에서 해당하는 문항의 점수를 선택하여 합산
-* 판정 : 1\~10점=정상, 11\~16점=경증 기분 장애, 17\~20점=경계, 21\~30점=중등도 우울, 31\~40점=중증 우울, ＞40=극도의 우울
+* BDI-II는 저작권이 있는 상용 심리검사이므로 전체 문항을 무단 수록하지 않음. 필요한 경우 허가된 한국판 검사지를 구입·사용하고, 결과는 임상 면담과 함께 해석함
 
 #### <mark style="color:$primary;">노인 우울 척도 : GDS-SF-K (Geriatric Depression Scale-한국판 단축형)</mark>
 
 <table><thead><tr><th width="425.47369384765625">문항</th><th align="center">예</th><th align="center">아니오</th></tr></thead><tbody><tr><td>1. 평소 자신의 생활에 만족합니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>2.* 활동과 흥미가 많이 저하되었습니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>3. 앞날에 대해서 희망적입니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>4. 대부분의 시간을 맑은 정신으로 지냅니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>5. 대부분의 시간이 행복하다고 느낍니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>6. 지금 살아있다는 것이 아름답다고 생각합니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>7.* 가끔 낙담하고 우울하다고 느낍니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>8.* 지금 자신의 인생이 가치가 없다고 느낍니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>9. 인생이 흥미롭다고 느낍니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>10. 활력이 충만하다고 느낍니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>11.* 사소한 일에 자주 감정의 동요를 느낍니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>12.* 자주 울고 싶다고 느낍니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>13. 아침에 일어나는 것이 즐겁습니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>14. 결정을 내리는 것이 수월합니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>15. 당신의 마음은 이전처럼 편안합니까?</td><td align="center">0</td><td align="center">1</td></tr></tbody></table>
 
 * 배점 : '아니오'에 1점; \*2, 7, 8, 11, 12번은 '예'에 1점
-* 판정 : ≤5점=정상, 6\~9점=중등도 우울, ≥10=우울증
+* 판정 : 선별도구이며 진단이나 중증도 분류를 대신하지 않음. 국내 검증연구에서는 ≥8점을 흔히 양성 선별 기준으로 사용하며, 특이도를 중시할 때 ≥10점을 사용할 수 있음. 양성 시 임상적 진단평가 시행
 
 _<mark style="color:$info;">Ref. 기백석. 한국판 노인 우울 척도 단축형의 표준화 예비연구. 신경정신의학 1996;35(2);298- 307</mark>_
 
@@ -286,7 +295,7 @@ _<mark style="color:$info;">Ref. 기백석. 한국판 노인 우울 척도 단�
 #### <mark style="color:$primary;">양극성 장애 평가</mark>
 
 * 양극성 장애 환자에서 항우울제 단독 투여 시 조증 전환(manic switch) 위험이 있음
-* 항우울제 투여 전 반드시 과거 조증/경조증 삽화(기분이 지나치게 고양되거나, 수면이 현저히 줄었는데도 기운이 넘쳤던 경험) 유무를 확인하고, 의심 시 기분조절제 병용 또는 정신건강의학과 협진을 고려
+* 항우울제 투여 전 과거 조증/경조증 삽화(기분이 지나치게 고양되거나, 수면이 현저히 줄었는데도 기운이 넘쳤던 경험) 유무를 확인하고, 의심 시 정신건강의학과 협진과 치료전략 재평가를 고려
 
 **MDQ (Mood Disorder Questionnaire)** - 양극성 장애 감별 설문
 
@@ -309,11 +318,11 @@ _<mark style="color:$info;">Ref. 기백석. 한국판 노인 우울 척도 단�
 * **질문 2.** 위 항목 중 여러 개가 동시에 나타난 적이 있습니까? (예/아니오)
 * **질문 3.** 위와 같은 문제들로 인해 어느 정도 지장을 받았습니까? ☐ 전혀 없음 ☐ 경미함 ☐ 중등도 ☐ 심각함
 
-▶(질문 1. 13개 항목 중 ≥7개 양성) & (질문 2. "예") & ("중등도" 또는 "심각함") → MDQ 양성 → 항우울제 단독 투여 금기, 정신건강의학과 협진 후 기분조절제 병용 결정
+▶(질문 1. 13개 항목 중 ≥7개 양성) & (질문 2. "예") & ("중등도" 또는 "심각함") → MDQ 양성. MDQ는 선별도구이므로 양극성 장애를 확진하지 않으며, 임상 면담으로 과거 조증·경조증 삽화와 물질·약물 영향을 확인한 뒤 항우울제 사용과 전문의뢰 여부를 결정
 
 #### <mark style="color:$primary;">자살 위험 구조화 평가</mark>&#x20;
 
-* 즉각 조치 알고리즘 : SI 확인 → Plan/Intent 평가 → Means 접근 차단 → 과거력(Past attempt) 확인 → 고위험 시 즉시 응급 의뢰
+* 평가 흐름 : 자살사고와 수동적 죽음 소망 확인 → 현재 의도·계획·수단 접근성·과거 시도·급성 악화요인·보호요인 평가 → 즉각 위험 시 혼자 두지 않고 수단을 차단하며 응급 평가
 
 <table><thead><tr><th width="187">평가 요소</th><th width="322">확인 질문</th><th>고위험 소견</th></tr></thead><tbody><tr><td><strong>Suicidal Ideation</strong> <br>(자살사고)</td><td>죽고 싶거나 자해하고 싶은 생각이 드나요?</td><td>빈번하고 강렬한 사고</td></tr><tr><td><strong>Plan</strong> (계획)</td><td>구체적인 방법이나 시기를 생각해 두었나요?</td><td>구체적 방법·시기 있음</td></tr><tr><td><strong>Intent</strong> (의도)</td><td>실제로 실행할 생각이 있나요?</td><td>실행 의도 있음</td></tr><tr><td><strong>Means</strong> (수단)</td><td>그 방법에 필요한 수단(약물, 흉기 등)이 있나요?</td><td>수단 접근 가능</td></tr><tr><td><strong>Past attempt</strong> (과거력)</td><td>이전에 자해나 자살을 시도한 적이 있나요?</td><td>과거 시도 있음</td></tr></tbody></table>
 
@@ -328,31 +337,27 @@ _<mark style="color:$info;">Ref. 기백석. 한국판 노인 우울 척도 단�
 ### <mark style="color:orange;">1차 진료 알고리즘</mark>
 
 ```
-PHQ-2 시행 (모든 성인 대상)
+선별이 필요한 성인에서 PHQ-2 시행
     │
     ├─ 음성 (< 3점) → 경과 관찰, 필요 시 재검
     │
     └─ 양성 (≥ 3점) → PHQ-9 시행
                             │
-              ┌─────────────┼─────────────┐
-           5~9점           10~19점        20~27점
-          (경증)          (중등도)         (중증)
-              │               │               │
-         심리교육          SSRI 시작       SSRI 즉시 시작
-         생활중재        + 정신요법        + 정신건강의학과
-         추적관찰            추적             의뢰 고려
-              │               │               │
-              └───────────────┴───────────────┘
-                                │
-                    PHQ-9 9번 항목 양성?
-                                │
-                    자살 위험 구조화 평가
-                  (SI→Plan→Intent→Means→Past Hx)
-                                │
-                    고위험 → 즉시 응급 의뢰
+              진단 면담·기능 손상·기간 평가
+              양극성·물질·신체질환 감별
+                            │
+                  자살·자해 문항 양성?
+                     ┌──────┴──────┐
+                    예             아니오
+                     │               │
+          의도·계획·수단·과거 시도   중증도·선호·과거 반응에 따라
+          악화요인·보호요인 평가      심리·약물·병합치료 결정
+                     │
+          즉각 위험 → 혼자 두지 않고
+          수단 차단 및 응급 평가
 ```
 
-_※ 항우울제 시작 전 반드시 MDQ로 양극성 장애 스크리닝_
+_※ 항우울제 시작 전 과거 조증·경조증 삽화를 임상적으로 확인하고, 의심될 때 MDQ 등 선별도구를 보조적으로 사용함._
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -366,7 +371,7 @@ _※ 항우울제 시작 전 반드시 MDQ로 양극성 장애 스크리닝_
 
 * 식이 : 가공 식품 섭취를 줄이고 채소, 과일, 전곡류, 건강 단백질(예: 살코기, 생선, 치즈), 무가당 유제품, 올리브유, 강황, 계피 등의 섭취를 늘리는 것이 우울 및 불안, 스트레스 증상 완화에 도움이 된다는 보고가 있음
 * 운동 : 중등 강도 이상의 신체 활동, 유산소/근력 운동이 우울 증상과 삶의 질을 개선 (☞ [운동 지침](../231_/216_-physical-activity-guideline.md) )
-* 디지털 치료제(DTx) : CBT 기반 앱을 경증\~중등도 우울증의 보조 수단으로 활용 가능; 일부 국가(미국 등)에서 처방 기반 DTx 허가 진행 중(예: Rejoyn - FDA 허가); 한국도 디지털치료제 허가 절차 시작; 국내 보험 적용은 미확정 (근거 축적 중, 2023 APA update)
+* 디지털 치료제(DTx) : CBT 기반 디지털 중재는 경증\~중등도 우울증에서 보조적으로 활용할 수 있으나, 제품별 근거와 국내 허가 적응증을 확인해야 함. 국내 우울증 치료에서의 급여·제도화는 진행 중임
 
 ### <mark style="color:orange;">정신 치료</mark>
 
@@ -381,7 +386,7 @@ _※ 항우울제 시작 전 반드시 MDQ로 양극성 장애 스크리닝_
 * clinician-guided self-help : 의사의 지시 하에 영상 자료 등을 이용하여 자가 치료 시도
 * relaxation & positive activity : 근육 이완, 평화로운 장면 등 이완 이미지 회상, autogenic training(전신의 따듯함과 평온함의 상태를 유도/시각화)
 * exercise : 우울 증상 완화 및 건강상 이익을 제공
-* music therapy : 도파민 활성↑, HPA axis↓, 부교감신경계 자극 작용; 음악을 듣거나 직접 연주
+* music therapy : 일부 환자에서 우울 증상 완화를 위한 보조적 중재로 고려할 수 있으나, 연구의 중재 방식과 근거가 이질적임
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -395,8 +400,16 @@ _※ 항우울제 시작 전 반드시 MDQ로 양극성 장애 스크리닝_
 * 부작용 : 성 기능 저하, 구역, 복통, 어지럼, 불면증, 두통; 특히 복용 첫 주에 많음
 * 성기능 장애 : SSRI/SNRI 장기 복용 시 성기능 장애(약 30\~60%)가 흔한 중단 원인; 투약 전 미리 안내하고, 부작용이 현저한 경우 bupropion 또는 mirtazapine으로 교체하거나 용량 감량 시도
 * 세로토닌 증후군 주의 : SSRI/SNRI를 트라마돌, 트립탄계 편두통 약, MAOI 등과 병용 시 발생 위험↑; 증상 - 근육 경직/간대성 경련, 빈맥, 고열, 발한, 의식 변화; 발생 즉시 약물 중단 후 응급 평가
-* fluoxetine, paroxetine은 강력한 CYP2D6 억제 작용이 있음 - 일부 베타차단제(메토프롤롤), 탐스로신, codeine, TCA 등의 혈중 농도를 유의하게 높일 수 있어 다약제 복용 환자에서 주의; 고령자에서 poorly tolerated
-* 고령자 SSRI 복용 시 SIADH에 의한 저나트륨혈증 주의 : 투여 초기(특히 첫 2\~4주) 전해질(Na) 확인 권고; 증상(오심, 두통, 의식 혼탁) 발생 시 즉시 중단 및 평가
+
+{% hint style="warning" %}
+**세로토닌증후군(SS)과 신경이완제 악성증후군(NMS) 감별**
+
+<table><thead><tr><th>구분</th><th>세로토닌증후군</th><th>신경이완제 악성증후군</th></tr></thead><tbody><tr><td>신경근육</td><td>clonus, 반사항진, 진전</td><td>lead-pipe rigidity, 반사 저하 또는 정상</td></tr><tr><td>위장관</td><td>설사·장음 증가가 흔함</td><td>상대적으로 덜 흔함</td></tr><tr><td>경과</td><td>대개 원인약 시작·증량·상호작용 후 수시간 이내</td><td>보통 1\~3일에 걸쳐 진행</td></tr><tr><td>검사</td><td>CK 상승 가능</td><td>CK의 현저한 상승이 흔함</td></tr></tbody></table>
+
+두 질환 모두 고열·의식 변화·자율신경 불안정을 보일 수 있고 CK만으로 구분할 수 없음. 의심 시 원인약을 중단하고 응급 평가함.
+{% endhint %}
+* fluoxetine, paroxetine은 강력한 CYP2D6 억제 작용이 있음. metoprolol·일부 TCA 등의 노출을 증가시킬 수 있으며, codeine은 morphine으로의 전환이 감소하여 진통 효과가 떨어질 수 있음. 다약제 복용 환자와 고령자에서 상호작용·내약성에 주의
+* 고령자 SSRI 복용 시 SIADH에 의한 저나트륨혈증 주의 : 고령, 여성, 저체중, 낮은 기초 Na·과거 저나트륨혈증, thiazide 등 이뇨제, carbamazepine·oxcarbazepine 또는 다른 SIADH 유발약물 병용 시 위험이 증가함. 고위험 환자는 투약 전 Na를 확인하고 시작·증량 후 1\~2주경 재검을 고려; 오심, 두통, 의식 혼탁, 보행 불안정 등이 발생하면 즉시 평가
 * 고령 및 청소년, 간질환/불안증/공황장애 동반 시 저용량으로 시작
 * escitalopram, sertraline : 약물 상호 작용이 적음
 * escitalopram : 10 ㎎/d, 10\~20 ㎎/d <mark style="color:blue;">\[렉사프로]</mark>
@@ -420,20 +433,18 @@ _※ 항우울제 시작 전 반드시 MDQ로 양극성 장애 스크리닝_
 * 부작용 및 과용 시 치명적 손상 위험을 고려하여 2차 선택
 * 주의 : 고령(부작용 증가), 녹내장, BPH, 갑상선항진증, 심혈관 질환, 부정맥, 간질환, 당뇨병(혈당 상승), MAOI 투여
 * 부작용 : 입마름, 시야 흐림, 변비, 요 정체, 빈맥, 혼돈
-* amitriptyline : 25\~50 ㎎/d, 100\~300 ㎎/d <mark style="color:blue;">\[에트라빌]</mark>; 편두통 적응
+* amitriptyline : 국내 허가용법은 30\~75 ㎎/d를 2\~3회 분할 투여하고 필요 시 150 ㎎/d까지 점진 증량하며, 드물게 300 ㎎/d까지 증량 <mark style="color:blue;">\[에트라빌]</mark>; 국내 허가 적응증은 우울증·우울상태 및 야뇨증이며, 편두통 예방은 off-label
 * imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d <mark style="color:blue;">\[이미프라민]</mark>
-* nortriptyline : 25 ㎎/d, 50\~150 ㎎/d <mark style="color:blue;">\[센시발]</mark>; 근골격 통증 적응
+* nortriptyline : 25 ㎎/d, 50\~150 ㎎/d <mark style="color:blue;">\[센시발]</mark>; 통증에 사용되기도 하나 국내 허가 적응증과 구분하여 off-label 여부를 확인
 
 #### <mark style="color:$primary;">기타 항우울제</mark>
 
-* trazodone : 시작 25 ㎎ qd 저녁, 최대 600 ㎎/d <mark style="color:blue;">\[트리티코]</mark>; 불면증 적응
-*   bupropion : 정신 운동 지체, 피로감, 집중력 저하 개선; 고용량에서 경련;
-
-    150\~450 ㎎/d <mark style="color:blue;">\[웰부트린]</mark> (300 ㎎/d 까지 보험 인정); 흡연 적응
+* trazodone : 우울증의 국내 허가용량은 보통 150 ㎎/d에서 시작하여 분할 투여하며, 외래 최대 400 ㎎/d·입원 최대 600 ㎎/d <mark style="color:blue;">\[트리티코]</mark>; 저용량 불면증 치료는 off-label
+* bupropion XL : 정신운동 지체, 피로감, 집중력 저하에 유용할 수 있음. 국내 허가용법은 150 ㎎ qd로 시작하여 필요 시 300 ㎎ qd로 증량 <mark style="color:blue;">\[웰부트린 XL]</mark>; 뇌전증 또는 현재·과거 신경성 식욕부진증·폭식증 환자에게 금기. 금연용 제제·용법과 구분
 * vilazodone : serotonin partial agonist & reuptake inhibitor(SPARI); 10\~40 ㎎/d
 * vortioxetine : serotonin 수용체 조절/자극; 인지 기능 보존/향상; 5\~20 ㎎/d <mark style="color:blue;">\[브린텔릭스]</mark>
-* mirtazapine : tetracyclic계; α2-adrenergic 작용제, 5-HT2 대항제; 수면 시간/질 향상, 불안 감소, 식욕 증가 및 체중 증가 효과; \[부작용] 진정/졸림, 체중 증가, 어지럼; 15\~45 ㎎/d <mark style="color:blue;">\[레메론]</mark>
-* agomelatine : 멜라토닌 작용제, 5-HT2C 수용체 대항제; 전두 피질에서 norepinephrine 및 dopamine 방출↑; \[부작용] 어지럼, 위장관계, 간 기능 이상; 25\~50 ㎎ qd(취침시) <mark style="color:blue;">\[아고틴]</mark>
+* mirtazapine : tetracyclic계 NaSSA; 중추 시냅스전 α2-adrenergic 수용체 길항 및 5-HT2·5-HT3 수용체 길항 작용. 진정·졸림, 식욕 및 체중 증가, 어지럼에 주의; 15\~45 ㎎/d <mark style="color:blue;">\[레메론]</mark>
+* agomelatine : melatonin MT1/MT2 수용체 작용제, 5-HT2C 수용체 길항제; 25\~50 ㎎ qd 취침 전 <mark style="color:blue;">\[아고틴]</mark>. 모든 환자에서 시작 전 ALT/AST를 포함한 간기능검사를 하고 약 3·6·12·24주 및 임상적으로 필요할 때 재검; 증량 후 같은 일정 반복. transaminase 상승 시 48시간 이내 재검하고 ALT/AST ＞정상 상한의 3배이면 중단. 비만·과체중·비알코올성 지방간, 당뇨병, 알코올사용장애·상당량 음주 또는 간손상 위험 약물 병용 시 이익과 위험을 주의 깊게 평가함. 간장애·간경변·활동성 간질환 및 강력한 CYP1A2 억제제(fluvoxamine, ciprofloxacin) 병용 금기이며 75세 이상에는 투여하지 않음
 
 #### <mark style="color:$primary;">대체 요법</mark>
 
@@ -444,25 +455,24 @@ _※ 항우울제 시작 전 반드시 MDQ로 양극성 장애 스크리닝_
 
 #### <mark style="color:$primary;">1단계 (초기) 치료 전략</mark>
 
-<table><thead><tr><th width="166.52630615234375">임상 삽화</th><th width="195">1차 선택</th><th>2차 선택</th></tr></thead><tbody><tr><td>경증 및 중등증 삽화</td><td>항우울제 단독¹⁾</td><td>• 항우울제+항우울제<br>• 항우울제+비정형 항정신병제²⁾</td></tr><tr><td>중증 삽화/<br>정신병적 양상(-)</td><td>• 항우울제 단독<br>• 항우울제+비정형 항정신병제</td><td>• 항우울제+항우울제<br>• 항우울제+기분조절제<br>• 비정형 항정신병제 단독</td></tr><tr><td>중증 삽화/<br>정신병적 양상(+)</td><td>항우울제+비정형 항정신병제¹⁾</td><td>• 비정형 항정신병제 단독<br>• 항우울제+기분조절제<br>• 항우울제+항우울제²⁾<br>• 항우울제 단독²⁾</td></tr></tbody></table>
+<table><thead><tr><th width="166.52630615234375">임상 삽화</th><th width="195">1차 선택</th><th>2차 선택</th></tr></thead><tbody><tr><td>경증 및 중등증 삽화</td><td>항우울제 단독¹⁾</td><td>• 항우울제+항우울제<br>• 항우울제+비정형 항정신병제<br>• 항우울제+기분조절제</td></tr><tr><td>중증 삽화/<br>정신병적 양상(-)</td><td>• 항우울제 단독<br>• 항우울제+비정형 항정신병제<br>• 항우울제+항우울제</td><td>• 항우울제+기분조절제<br>• 비정형 항정신병제 단독²⁾</td></tr><tr><td>중증 삽화/<br>정신병적 양상(+)</td><td>항우울제+비정형 항정신병제¹⁾</td><td>• 비정형 항정신병제 단독<br>• 항우울제+항우울제<br>• 항우울제+기분조절제<br>• 항우울제 단독</td></tr></tbody></table>
 
-_<mark style="color:$info;">1) 최우선 선택. 2) 컨센서스 없음</mark>_
+_<mark style="color:$info;">1) 최우선 선택(TOC). 2) 전문가 합의 없음. 이 표는 KMAP-DD 2025 전문가 설문·합의 결과이며 근거기반 지침의 권고등급과 동일하게 해석하지 않음.</mark>_
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한우울·조울병학회, 대한정신약물학회. 한국형 우울장애 약물치료 지침서 2025.</mark></em></p>
 
 **항우울제**
 
-* 1차 약물 : 각 삽화의 심각도에 관계없이 escitalopram(최우선 선택) 및 대부분의 항우울제
-* 2차 약물 : milnacipran, agomelatine, bupropion, tianeptine, vortioxetine, TCA(중증 시)
+* 구체적인 약물 우선순위는 삽화의 중증도와 임상 아형에 따라 달라지며, 아래 목록은 KMAP-DD 2025의 전문가 합의 결과임
 
 **항정신병제** (☞ [치매](033_-dementia.md#undefined-20))
 
 * 정신병적 양상(-)
   * 1차 약물 : aripiprazole <mark style="color:blue;">\[아빌리파이]</mark>, quetiapine <mark style="color:blue;">\[쎄로켈]</mark>
-  * 2차 약물 : olanzapine <mark style="color:blue;">\[자이프렉사]</mark>, risperidone, ziprasidone, amisulpride
+  * 2차 약물 : olanzapine <mark style="color:blue;">\[자이프렉사]</mark>, risperidone, ziprasidone
 * 정신병적 양상(+)
-  * 1차 약물 : aripiprazole(최우선), quetiapine, olanzapine
-  * 2차 약물 : risperidone, paliperidone, blonanserin, ziprasidone, amisulpride, clozapine
+  * 1차 약물 : aripiprazole, quetiapine(최우선), olanzapine
+  * 2차 약물 : risperidone, paliperidone, blonanserin, ziprasidone, amisulpride
 
 #### <mark style="color:$primary;">2단계 치료 전략</mark>
 
@@ -498,13 +508,15 @@ _<mark style="color:$info;">1) 최우선 선택. 2) 컨센서스 없음</mark>_
 
 **비전형적 양상**
 
-* 1차 약물 : escitalopram, sertraline, fluoxetine, desvenlafaxine, venlafaxine, bupropion, duloxetine, paroxetine, vortioxetine, mirtazapine, agomelatine, milnacipran
-* 2차 약물 : tianeptine, TCA
+* 1차 약물 : escitalopram, sertraline, fluoxetine, desvenlafaxine, venlafaxine, bupropion, duloxetine, paroxetine
+* 2차 약물 : mirtazapine, agomelatine, milnacipran, tianeptine
+* 3차 약물 : TCA, esketamine
 
 **계절성 양상**
 
-* 1차 약물 : escitalopram, sertraline, fluoxetine, desvenlafaxine, venlafaxine, bupropion, duloxetine, paroxetine, mirtazapine, agomelatine, vortioxetine, milnacipran
-* 2차 약물 : tianeptine, TCA
+* 1차 약물 : escitalopram, sertraline, fluoxetine, desvenlafaxine, venlafaxine, duloxetine, bupropion, paroxetine, mirtazapine, agomelatine
+* 2차 약물 : vortioxetine, milnacipran, tianeptine, TCA
+* 3차 약물 : esketamine
 
 **혼재성 양상 (Mixed features)**
 
@@ -537,7 +549,7 @@ _<mark style="color:$info;">1) 최우선 선택. 2) 컨센서스 없음</mark>_
 
 **임상 표현형(Phenotype)에 따른 항우울제 선택**
 
-<table><thead><tr><th width="200">임상 표현형</th><th width="200">1차 선택</th><th>근거/특징</th></tr></thead><tbody><tr><td>불면 동반 (Insomnia dominant)</td><td>mirtazapine</td><td>즉각적 수면 개선; 15 mg에서 진정 효과 최강; 체중 증가 사전 설명</td></tr><tr><td>무기력/무쾌감 (Fatigue/Apathy dominant)</td><td>bupropion</td><td>도파민/노르에피네프린 작용; 진정 효과 없음; 체중 중립적</td></tr><tr><td>불안 동반 (Anxiety dominant)</td><td>escitalopram, sertraline</td><td>SSRI 우선; 초기 불안 악화 가능 → 저용량 시작</td></tr><tr><td>만성 통증 동반 (Pain dominant)</td><td>duloxetine</td><td>SNRI; 신경병증성 통증 적응; milnacipran(섬유근육통) 대안</td></tr><tr><td>체중 증가 우려</td><td>bupropion, fluoxetine</td><td>체중 중립적<br>(bupropion은 오히려 감소 가능)</td></tr><tr><td>성기능 장애 우려</td><td>bupropion, vortioxetine</td><td>성기능 부작용 가장 낮음</td></tr><tr><td>인지 기능 저하 동반</td><td>vortioxetine</td><td>인지 기능 보존/향상 효과; 고령 우울증에 유리</td></tr></tbody></table>
+<table><thead><tr><th width="200">임상 표현형</th><th width="200">고려 약물</th><th>근거/특징</th></tr></thead><tbody><tr><td>불면 동반 (Insomnia dominant)</td><td>mirtazapine</td><td>진정·졸림과 체중 증가 가능성을 사전 설명. 저용량에서 진정이 두드러질 수 있으나 개인차가 크며 증량 시 반드시 감소한다고 단정하지 않음</td></tr><tr><td>무기력/무쾌감 (Fatigue/Apathy dominant)</td><td>bupropion</td><td>도파민/노르에피네프린 작용; 진정과 체중 증가 부담이 상대적으로 낮음</td></tr><tr><td>불안 동반 (Anxiety dominant)</td><td>escitalopram, sertraline</td><td>SSRI 고려; 초기 불안 악화 가능 → 저용량 시작</td></tr><tr><td>만성 통증 동반 (Pain dominant)</td><td>duloxetine</td><td>SNRI; 신경병증성 통증 적응; milnacipran(섬유근육통) 대안</td></tr><tr><td>체중 증가 우려</td><td>bupropion, fluoxetine</td><td>체중 증가 부담이 상대적으로 낮음<br>(bupropion은 체중 감소 가능)</td></tr><tr><td>성기능 장애 우려</td><td>bupropion, vortioxetine</td><td>SSRI/SNRI보다 성기능 부작용 부담이 상대적으로 낮음</td></tr><tr><td>인지 기능 저하 동반</td><td>vortioxetine</td><td>인지 증상 개선 근거가 있으나 원인 감별과 기능 평가를 병행</td></tr></tbody></table>
 
 **동반 질환에 따른 항우울제의 선택**
 
@@ -557,18 +569,12 @@ _<mark style="color:$info;">1) 최우선 선택. 2) 컨센서스 없음</mark>_
 **SSRI 표준 처방 흐름 (Start → Titrate → Evaluate → Switch)**
 {% endhint %}
 
-| 단계           | 시점      | 조치                                                                        |
-| ------------ | ------- | ------------------------------------------------------------------------- |
-| **Start**    | 처방 시작   | 저용량 시작 (escitalopram 5 mg 또는 sertraline 25 mg); 부작용·중단 교육; MDQ 스크리닝 완료 확인 |
-| **Titrate**  | 1\~2주 후 | 표준 용량으로 증량 (escitalopram 10 mg, sertraline 50 mg); 초기 부작용 확인              |
-| **Evaluate** | 4\~6주 후 | 반응 평가 (PHQ-9 재시행); 25% 미만 호전 시 용량 증량 또는 교체 검토                             |
-| **Decision** | 8주 후    | 충분한 반응 → 유지 치료; 반응 부족 → 교체(다른 계열) 또는 병용 전략                                |
-| **Maintain** | 관해 후    | episode 횟수에 따라 6개월\~평생 유지 (치료 기간 표 참고)                                    |
+<table><thead><tr><th>단계</th><th>시점</th><th>조치</th></tr></thead><tbody><tr><td><strong>Start</strong></td><td>처방 시작</td><td>저용량 시작(escitalopram 5 ㎎ 또는 sertraline 25 ㎎); 부작용·중단 교육; 과거 조증·경조증 및 자살위험 평가</td></tr><tr><td><strong>Titrate</strong></td><td>1\~2주 후</td><td>내약성과 반응에 따라 표준 용량으로 증량(escitalopram 10 ㎎, sertraline 50 ㎎)</td></tr><tr><td><strong>Evaluate</strong></td><td>4\~6주 후</td><td>PHQ-9와 기능을 함께 재평가; 반응 부족 시 순응도·진단·용량을 점검하고 증량 또는 교체 검토</td></tr><tr><td><strong>Decision</strong></td><td>6\~8주 후</td><td>충분한 반응이면 지속; 반응 부족이면 교체·병용·강화 또는 전문의뢰</td></tr><tr><td><strong>Maintain</strong></td><td>관해 후</td><td>재발 위험, 삽화 횟수, 잔류 증상 및 환자 선호에 따라 유지 기간 결정</td></tr></tbody></table>
 
 ### <mark style="color:orange;">용량 조절</mark>
 
-* 저용량으로 시작하고 호전까지 매 2주, 이후 매달 방문 및 조절(첫 3개월 동안 ≥6회 방문)
-* 젊은 연령(＜30세) 및 자살 위험이 높은 경우에는 치료 개시 후 **첫 4주간 매주** 자살 사고 모니터링, 매주 용량 조절
+* 저용량으로 시작하고 초기 내약성·자살위험·임상적 필요에 따라 추적 간격을 정함
+* 18\~25세 또는 자살위험이 높은 환자는 항우울제 시작·증량 후 **1주 이내** 대면 또는 원격으로 검토하고, 이후 위험이 안정될 때까지 필요에 따라 자주 평가함. 그 외 성인은 보통 **2주 이내** 첫 검토를 시행
 * 고령자에서는 ½ 용량으로 시작, 2\~4주마다 용량 조절
 * 불안증이 동반되어 있는 경우 불안증 용량으로 시작할 수 있음 (✽보통 불안증 치료 용량은 우울증에 대한 용량보다 저용량임)
 
@@ -577,22 +583,22 @@ _<mark style="color:$info;">1) 최우선 선택. 2) 컨센서스 없음</mark>_
 * 치료 목표는 반응(Response)이 아닌 관해(Remission) : 단순한 증상 감소에 그치지 않고 우울 증상이 거의 없는 상태까지 도달하는 것이 장기 예후와 재발 방지에 결정적
   * Response : 증상의 ≥50% 호전 (충분한 목표가 아님)
   * Remission : 우울 척도상 진단 기준치 이하로 호전 - 최종 치료 목표
-* 적절한 치료 시 1\~2주 내 증상이 개선되며, 충분한 효과까지 4\~6주 소요됨 (✽약물에 대한 반응이 빠른 환자가 완화 가능성이 많음)
+* 일부 초기 변화는 1\~2주 내 나타날 수 있으나, 충분한 효과를 평가하려면 일반적으로 수 주가 필요하며 개인차가 큼
 * 6\~12주(8주) 치료 후 충분한 효과 여부를 판정 → 안정 시 3\~6개월마다 방문 평가
 * 4\~6주 치료로 증상의 25% 이상 감소되지 않으면 치료 방법 변경 고려
 
 **항우울제 효과 발현 타임라인**
 
-* 투약 1\~2주 : 수면 개선, 식욕 회복, 피로감·신체 증상 완화 (가장 먼저 나타남)
-* 투약 2\~4주 : 불안·초조 감소, 집중력·기억력 개선, 의욕 일부 회복
-* 투약 4\~6주 : 기분 호전, 흥미·즐거움 회복, 전반적 기능 개선
-* 투약 6\~12주 : 충분한 관해 여부 판정 시점
+* 투약 1\~2주 : 초기 부작용·활성화와 함께 수면·식욕·불안 등 일부 증상 변화가 나타날 수 있음
+* 투약 2\~4주 : 기분·흥미·집중력과 기능의 변화를 추적하되, 반응이 없으면 순응도·용량·진단을 재평가
+* 투약 4\~8주 : 충분한 용량과 복용을 전제로 반응을 종합 평가하고 치료 조정을 고려
+* 투약 6\~12주 : 환자와 치료법에 따라 관해 여부를 평가
 
-✽ 신체 증상이 기분 회복보다 먼저 호전되는 경우가 많으므로, 기분이 아직 나아지지 않더라도 임의 중단하지 않도록 미리 안내하는 것이 순응도 향상에 중요하다.
+✽ 증상별 호전 순서는 개인차가 크다. 일부 증상이 먼저 좋아졌거나 아직 충분히 호전되지 않았더라도 임의로 중단하지 않고 경과와 부작용을 함께 평가한다.
 
 #### <mark style="color:$primary;">초기 4주 관리 체크리스트</mark>
 
-<table><thead><tr><th width="100">시점</th><th>확인 사항</th></tr></thead><tbody><tr><td><strong>Week 1</strong></td><td>부작용 확인 (오심, 불안 악화, 불면, 두근거림); 30세 미만 → 자살 사고 모니터링; 증상 악화 시 재내원 안내</td></tr><tr><td><strong>Week 2</strong></td><td>복약 순응도 확인; 증량 여부 결정; discontinuation syndrome 예방 교육 (임의 중단 금지 재강조)</td></tr><tr><td><strong>Week 4</strong></td><td>PHQ-9 재시행; 치료 반응 1차 평가; 수면·식욕·기력 개선 여부 확인; 기분 호전 없어도 신체 증상 개선이 선행할 수 있음을 안내</td></tr></tbody></table>
+<table><thead><tr><th width="100">시점</th><th>확인 사항</th></tr></thead><tbody><tr><td><strong>Week 1</strong></td><td>18\~25세 또는 자살위험이 높은 환자: 자살사고·초조·활성화, 부작용, 순응도 확인</td></tr><tr><td><strong>Week 2</strong></td><td>그 외 성인의 첫 검토; 복약 순응도·부작용·자살위험 확인, 증량 여부 결정, 임의 중단 금지 교육</td></tr><tr><td><strong>Week 4</strong></td><td>PHQ-9와 기능을 함께 재평가; 수면·식욕·기력 및 전반적 반응 확인</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">반응 부족에 대한 대처</mark>
 
@@ -604,15 +610,16 @@ _<mark style="color:$info;">1) 최우선 선택. 2) 컨센서스 없음</mark>_
 
 **약제 조정(2차 약제) 또는 의뢰**
 
-* 약물 교체 시 이전 사용 약물과의 상호 작용 주의, 특히 긴 반감기 약제 주의 (✽fluoxetine은 active metabolite인 norfluoxetine 포함 시 중단 후 2\~3주 이상 약효가 지속될 수 있음 → 약물 전환 시 wash-out 생략 가능하나 약물 상호 작용 주의)
+* 약물 교체 시 이전 약물의 반감기와 전환 대상에 따른 감량·교차감량·휴약기간을 확인함. fluoxetine은 norfluoxetine을 포함해 중단 후에도 수 주간 상호작용 가능성이 있으므로 washout을 일률적으로 생략하지 않으며, 특히 MAOI로 전환할 때는 충분한 휴약기간이 필요함
 * SSRI에서 TCA로 교체 시 TCA 저용량으로 시작 (✽잔류 SSRI의 영향으로 TCA의 대사가 억제됨)
+* paroxetine·venlafaxine을 매우 느리게 감량해도 중단증상이 반복되는 일부 환자에서는 상호작용과 금기를 검토한 뒤 저용량 fluoxetine으로 치환하여 감량하는 fluoxetine bridge를 전문적으로 고려할 수 있음. 일상적인 전환법은 아님
 
 ### <mark style="color:orange;">치료 기간</mark>
 
 <table><thead><tr><th width="200">삽화 횟수</th><th width="200">권장 유지 기간</th><th>비고</th></tr></thead><tbody><tr><td>첫 번째 episode</td><td>6~12개월</td><td>증상 완전 관해 후부터 기산</td></tr><tr><td>두 번째 episode</td><td>≥2년</td><td>재발 위험 현저히 증가</td></tr><tr><td>세 번째 이상 episode</td><td>평생 유지 고려</td><td>재발 시 치료 난이도 증가; 환자와 충분한 상의 필요</td></tr></tbody></table>
 
 * 급성기 치료 후에 유지 치료를 하지 않는 경우 주요우울장애 환자의 50\~80%가 재발; 항우울제 치료의 조기 중단은 재발을 높이며, 재발 횟수가 증가할수록 치료가 더 어려워짐
-* 다음의 경우 장기 유지 치료 고려 : 첫 번째 episode가 ＜20세 또는 ＞50세에서 발생, ＞40세에서 2 episodes 발생(그중 한 번은 ＞50세 발생), 3회 이상의 episodes 경험
+* 장기 유지 치료는 반복 삽화, 잔류 증상, 중증·정신병적 삽화, 자살위험, 만성 경과, 동반질환 및 중단 후 재발 병력을 종합하여 결정함. 출처가 불분명한 연령 조합만으로 기간을 정하지 않음
 
 #### <mark style="color:$primary;">약제 중단 방법</mark>
 
@@ -635,28 +642,12 @@ _<mark style="color:$info;">1) 최우선 선택. 2) 컨센서스 없음</mark>_
 
 ***
 
-![](../.gitbook/assets/acbf375f-362c-4673-9b65-97ebbad8d7ae.JPG)
-
-_※ 경증~중등증에서 AD+AAP 병용은 전문가 합의가 충분하지 않으며, 임상의 판단에 따라 선택적으로 고려함 \[KMAP-DD 2025]_
-
 ### <mark style="color:orange;">치료 저항성 우울증 (Treatment resistant depression)</mark>
 
 {% hint style="info" %}
-**TRD Escalation Ladder**
+**TRD 치료 선택 원칙**
 
-```
-1단계 SSRI/SNRI (적정 용량·기간)
-    ↓ 반응 부족
-2단계 다른 계열로 교체 또는 병용 (비정형 항정신병제 추가)
-    ↓ 반응 부족
-3단계 강화 요법 (lithium, 갑상선 호르몬, 정신자극제)
-    ↓ 반응 부족
-4단계 rTMS (약물 불내성 시 earlier 고려 가능)
-    ↓ 반응 부족
-5단계 esketamine (TRD 또는 급성 자살 위기)
-    ↓ 반응 부족
-6단계 ECT (중증·정신병적 양상·급성 자살 위기)
-```
+충분한 용량·기간과 순응도, 진단 및 동반질환을 먼저 재평가한 뒤 교체·병용·강화요법, rTMS, esketamine 또는 ECT를 임상 상황에 따라 선택함. 이는 고정된 6단계 사다리가 아니며, ECT는 중증 정신병적 우울증, 긴장증, 급성 자살위험, 음식·수분 거부 또는 신속한 반응이 필요한 경우 앞 단계의 반복 실패를 기다리지 않고 조기에 고려함.
 {% endhint %}
 
 * \[KMAP-DD 2025] 두 가지 항우울제와 하나의 비정형 항정신병약물 병합 치료에도 반응이 없는 경우 (가장 많은 전문가 합의, 42.9%); 서로 다른 계열의 항우울제 2가지 이상을 적절한 용량·기간 치료 후에도 반응 부족 (20.9%)
@@ -673,12 +664,12 @@ _※ 경증~중등증에서 AD+AAP 병용은 전문가 합의가 충분하지 �
 
 * 다른 계열 약물 추가; 약물 상호작용 주의
 * 비정형 항정신병제(예: aripiprazole, quetiapine), lithium, 정신자극제(예: methylphenidate, modafinil), 갑상선 호르몬, esketamine(항우울제)
-* esketamine : Rapid-acting antidepressant; NMDA수용체 길항 → glutamate/AMPA 수용체 경로를 통한 빠른 항우울 작용 (기존 항우울제와 기전 상이); 치료저항성 우울증(TRD) 및 급성 자살 위기가 동반된 우울증에서 고려 - 급성 자살 사고(acute suicidal ideation)에서도 사용 근거 축적(ASPIRE 연구); 주 2회 비강 분무 ×1\~4주, 이후 증량; 투여 후 최소 2시간 의료기관 모니터링 필수(해리, 혈압 변동 관찰); \[부작용] 오심, 어지럼증, 해리, 두통, 미각 이상; 국내 정신건강의학과 전문의 처방 및 급여 기준 제한적; \[KMAP-DD 2025] 정신병적 양상 없는 중증 삽화에서 전문가 합의 미도달 수준의 2차 선택 - 정신건강의학과 협진 후 처방 <mark style="color:blue;">\[스프라바토 나잘 스프레이]</mark>
+* esketamine : NMDA 수용체 길항을 통해 빠른 항우울 효과를 나타내는 비강분무제. 미국에서는 2025년 성인 TRD에 단독요법 또는 경구 항우울제 병용요법으로 허가됨. TRD는 첫날 56 ㎎, 이후 1\~4주 56 또는 84 ㎎ 주 2회, 5\~8주 주 1회, 9주부터 주 1회 또는 2주 1회로 개별화함. 자살사고·행동이 있는 주요우울장애의 급성 치료 적응증에서는 경구 항우울제와 함께 84 ㎎을 4주간 주 2회 투여하며 내약성에 따라 56 ㎎으로 감량할 수 있음. **자살을 예방하거나 자살사고·행동을 감소시키는 효과는 입증되지 않았으며 입원이 필요할 때 이를 대신하지 않음**. 투여 후 최소 2시간 의료기관에서 진정·해리·혈압 변화를 관찰함. 국내 허가·급여 기준을 확인하고 정신건강의학과에서 시행 <mark style="color:blue;">\[스프라바토 나잘 스프레이]</mark>
 
 **비약물학 요법**
 
 * 생물학적 치료 : 전기경련치료(ECT), 신경조절술(Neuromodulation)
-  * 반복적 경두개 자기자극술(rTMS) : 좌측 배외측 전전두엽(DLPFC) 자극; 약물 불내성 또는 2가지 이상 항우울제 실패 시 적응; 최근 first-line adjunct로 격상 추세(특히 약물 부작용·불내성 환자); 국내 급여 등재(2022); 일 1회, 4\~6주 시행; 효과 크기는 ECT보다 작으나 인지 부작용 없음; \[부작용] 두통, 두피 불편감(경미, 일시적)
+  * 반복적 경두개 자기자극술(rTMS) : 주로 좌측 배외측 전전두엽(DLPFC)을 자극하며 약물 불내성 또는 충분한 항우울제 치료에 반응이 부족할 때 고려. 국내 허가·급여 기준을 확인하며, 일반적으로 ECT보다 효과 크기는 작지만 전신마취가 필요 없고 인지 부작용 부담이 낮음; \[부작용] 두통, 두피 불편감, 드문 경련
   * 경두개 직류자극술(tDCS) : 약한 직류 전류로 피질 흥분성 조절; 근거 축적 중 - 단독 사용보다 항우울제 병용 시 효과 보고; 아직 표준 치료로 권고되지 않음 (근거 수준 낮음)
   * ECT : 중증·치료저항성·정신병적 양상·급성 자살 위기 시 가장 효과적; 전신마취 필요
 * 심리 사회적 치료 : 인지행동 치료, 마음챙김(mindfulness) 치료, 변증법적 행동 치료, 행동 활성화 치료
@@ -687,7 +678,12 @@ _※ 경증~중등증에서 AD+AAP 병용은 전문가 합의가 충분하지 �
 
 ### <mark style="color:red;">질병코드</mark>
 
-F32 우울에피소드
+* F32 우울에피소드
+* F32.20 정신병적 증상이 없는 중증의 우울에피소드, 치료저항성으로 명시되지 않은 경우
+* F32.21 정신병적 증상이 없는 중증의 우울에피소드, 치료저항성
+* F33 재발성 우울장애
+
+_※ F32.20·F32.21은 2026년 1월 1일 시행된 KCD-9 세세분류임._
 
 ***
 
@@ -696,19 +692,19 @@ F32 우울에피소드
 > **처방례 1.** 기본 - SSRI 단독
 >
 > ```
-> 렉사프로 10 mg/T  1T  qd  조식 후
-> ※ 저용량(5 mg)으로 시작하여 1~2주 후 10 mg으로 증량 가능
+> 렉사프로 10 ㎎/T  1T  qd  조식 후
+> ※ 저용량(5 ㎎)으로 시작하여 1~2주 후 10 ㎎으로 증량 가능
 > ※ 효과 판정은 4~6주 후; 충분한 효과까지 최대 8주 소요
-> ※ 30세 미만: 투약 첫 4주간 매주 자살 사고 모니터링
-> ※ 고령자: 투약 2~4주 후 전해질(Na) 확인 (SIADH 위험)
+> ※ 18~25세 또는 자살위험이 높은 환자: 시작·증량 1주 이내 검토 후 필요에 따라 자주 모니터링
+> ※ 고령자 중 저체중, 낮은 기초 Na·과거 저나트륨혈증, 이뇨제 등 위험약물 병용 시 투약 전 Na 확인 및 시작·증량 1~2주 후 재검 고려
 > ※ 치료 반응 시 최소 6~12개월 유지; 중단 시 4주에 걸쳐 서서히 감량
 > ```
 
 > **처방례 2.** SNRI 선택 (통증 동반 또는 SSRI 불내성)
 >
 > ```
-> 이팩사 XR 서방 37.5 mg/C  1C  qd  조식 후  (첫 1~2주)
-> → 2주 후 75 mg으로 증량; 필요 시 최대 225 mg까지
+> 이팩사 XR 서방 37.5 ㎎/C  1C  qd  조식 후  (첫 1~2주)
+> → 2주 후 75 ㎎으로 증량; 필요 시 최대 225 ㎎까지
 > ※ 고용량 시 용량 의존적 혈압 상승 가능(특히 venlafaxine) - 혈압 모니터링
 > ※ discontinuation syndrome 위험 높음 - 갑작스러운 중단 금지, 반드시 서서히 감량
 > ```
@@ -716,17 +712,18 @@ F32 우울에피소드
 > **처방례 3.** 수면 장애 동반
 >
 > ```
-> 레메론 15 mg/T  1T  hs
+> 레메론 15 ㎎/T  1T  hs
 > ※ 졸림, 체중 증가 부작용 사전 설명
 > ※ 수면 개선 효과는 즉각적이나 항우울 효과는 2~4주 소요
-> ※ 역설적 용량-반응: 15 mg에서 진정 효과가 가장 강함; 용량 증량(30~45 mg) 시 진정 효과 감소 - 수면 목적으로 저용량 유지 권장
+> ※ 저용량에서 진정이 두드러질 수 있으나 개인차가 크며, 증량하면 진정이 반드시 감소한다고 단정하지 않음
 > ```
 
-> **처방례 4.** 폭식 동반
+> **처방례 4.** 신경성 폭식증 동반
 >
 > ```
-> 푸로작 확산정 20 mg/T  1T  qd  아침
-> ※ 폭식증 적응증; 반감기 길어 discontinuation syndrome 위험 낮음
+> 푸로작 확산정 20 ㎎/T  1T  qd  아침
+> → 내약성을 보며 60 ㎎ qd로 증량
+> ※ 신경성 폭식증의 근거·허가 용량은 60 ㎎/d이며, 20 ㎎/d를 치료용량으로 유지하지 않음
 > ※ 다른 약물과의 상호 작용(CYP2D6 억제) 주의
 > ```
 
@@ -740,7 +737,7 @@ F32 우울에피소드
 > * 복용 초기(특히 첫 1\~2주) 일시적으로 불안, 초조감, 불면이 생길 수 있습니다. 이는 약이 적응되는 과정이므로 계속 복용하시되 심하면 담당 의사에게 알려 주십시오.
 > * 증상이 좋아졌더라도 **담당 의사와 상의 없이 임의로 중단하지 마십시오.** 갑자기 끊으면 어지럼, 저림, 구역 등 금단 증상이 생길 수 있습니다.
 > * 술은 우울 증상을 악화시키고 약물 효과를 방해합니다. 음주를 피해 주십시오.
-> * 30세 미만이신 경우 복용 초기 우울감이나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
+> * 25세 이하이거나 자살위험이 있는 경우에는 복용 초기와 용량 변경 후 더 이른 추적이 필요합니다. 연령과 관계없이 우울감 악화나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -756,13 +753,13 @@ F32 우울에피소드
 {% hint style="info" %}
 **우울증, 혼자 견디지 않아도 됩니다**
 
-우울증은 의지 부족이나 성격의 문제가 아닙니다. 뇌의 신경전달 물질 불균형에서 비롯된 질환이며, 적절한 치료를 통해 충분히 회복될 수 있습니다.
+우울증은 의지 부족이나 성격의 문제가 아닙니다. 생물학적 취약성, 스트레스와 생활환경, 심리적·사회적 요인이 복합적으로 작용하는 질환이며, 적절한 치료를 통해 충분히 회복될 수 있습니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">우울증이란 무엇인가요?</mark>
 
 * **우울증** : 단순한 우울감과 달리 거의 매일, 하루 종일 지속되는 기분 저하, 흥미·의욕 소실, 수면·식욕 변화, 집중력 저하 등이 2주 이상 지속되는 상태
-* 뇌의 세로토닌·노르에피네프린 등 신경전달 물질의 불균형과 관련이 있으며, 의지만으로 극복하기 어려운 질환임
+* 뇌 기능과 신경회로, 스트레스 반응, 수면, 신체 건강 및 심리사회적 요인이 함께 관련되며 의지만으로 극복하기 어려운 질환임
 * 적절히 치료하지 않으면 반복적으로 재발할 수 있음
 
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
@@ -789,7 +786,7 @@ F32 우울에피소드
 {% hint style="info" %}
 **"약 효과가 왜 이렇게 늦게 나타나나요?"**
 
-항우울제는 뇌의 신경전달 물질 수용체 수와 민감도가 서서히 변하면서 효과가 나타납니다. 혈당을 내리는 약처럼 즉각적인 효과가 아니라, 뇌 회로 자체를 재조정하는 과정이기 때문에 2~~4주가 걸립니다. 처음 1~~2주는 수면·식욕부터 먼저 좋아지고, 기분 호전은 그 이후에 따라옵니다. 이 시기에 "약이 안 듣는 것 같다"고 임의로 중단하시면 치료가 처음부터 다시 시작됩니다.
+항우울제의 초기 변화는 비교적 일찍 시작될 수 있지만, 기분·흥미와 일상 기능의 충분한 회복을 평가하려면 보통 수 주가 필요합니다. 처음에는 수면·식욕이나 불안이 먼저 변할 수 있으며 개인차가 큽니다. 효과가 늦다고 임의로 중단하지 말고 부작용이나 악화가 있으면 담당 의사와 상의하십시오.
 {% endhint %}
 
 {% hint style="info" %}
