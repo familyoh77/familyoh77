@@ -19,20 +19,19 @@
 * 압박·조임·무거움·쥐어짜는 느낌 → 허혈 가능성 높음; 즉각 ECG 및 트로포닌 평가
 * 찌르는·예리한·흡기 관련·자세 의존성 → 허혈 가능성 낮음 → 심낭염, 근골격, 흉막 원인 고려
 * Burning 및 right-sided pain은 단독 소견만으로 ACS를 배제하는 근거가 되지 않으며, 전체 임상 맥락과 함께 판단
-*
 * 니트로글리세린으로 호전된다는 사실만으로 허혈을 진단하면 안 됨 (식도 연축도 반응함)
 
 ## <mark style="color:green;">분류 및 원인</mark>
 
 ### <mark style="color:orange;">심장성</mark>
 
-<mark style="color:cyan;">**허혈성**</mark> (☞ [협심증](../097_-angina-pectoris.md))
+<mark style="color:cyan;">**허혈성**</mark> (☞ [협심증](../225_/097_-angina-pectoris.md))
 
 * ACS (불안정 협심증, NSTEMI, STEMI)
 * 안정 협심증
 * 관상동맥연축 (Prinzmetal 협심증)
 * INOCA (Ischemia with Non-Obstructive Coronary Arteries) : 미세혈관 기능장애, 관상동맥 내피기능 이상
-  * 비폐쇄성 CAD가 확인되었으나 안정형 흉통이 지속되고 심근허혈이 의심되면 PET 또는 CMR의 myocardial blood flow reserve 평가를 고려하며, 지속 증상과 영상상 허혈이 있는 경우 침습적 관상동맥 기능검사가 진단과 치료 전략 결정에 도움이 될 수 있음
+  * 비폐쇄성 CAD가 확인되었으나 안정형 흉통이 지속되고 심근허혈이 의심되면(INOCA 의심) PET 또는 CMR의 myocardial blood flow reserve 평가를 고려하며, 지속 증상과 영상상 허혈이 있는 경우 침습적 관상동맥 기능 검사를 고려
 * 대동맥판 협착증, 비후성 심근병증에 의한 허혈
 
 <mark style="color:cyan;">**비허혈성 심장성**</mark>
