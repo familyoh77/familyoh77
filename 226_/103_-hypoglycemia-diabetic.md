@@ -241,7 +241,7 @@ _✽ADA 2026 Table 6.7을 재구성; 제시된 주기는 최소 권고이며 임
 * 의료 전문가가 아니어도 안전하게 투여 가능한 약물임을 주변인에게 안내
 * 간 글리코겐 고갈 상태(기아, 만성 저혈당, 알코올성 저혈당, 일부 당원 축적증)에서는 효과가 제한적 → 이 경우 IV glucose가 우선
 
-- [ ] 비강분무형(Baqsimi), ready-to-use 사전충전형 pen/syringe(Gvoke), dasiglucagon(Zegalogue) 등은 재구성이 필요 없어 해외 지침에서 우선 권고되는 추세이나 2026년 현재 국내는 분말을 직접 녹여 사용하는 주사형만 유통됨
+* 비강분무형(Baqsimi), ready-to-use 사전충전형 pen/syringe(Gvoke), dasiglucagon(Zegalogue) 등 재구성이 필요 없는 제형은, 중증 저혈당 외래 환자에서 재구성이 필요한 제형(분말+희석액)보다 우선 사용하도록 권고됨 \[ES 2022]; 다만 2026년 현재 국내는 분말을 직접 녹여 사용하는 주사형만 유통됨
 
 #### <mark style="color:$primary;">Dextrose (정맥 투여)</mark>
 
