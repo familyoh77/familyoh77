@@ -26,7 +26,7 @@
 
 ### <mark style="color:orange;">심장성</mark>
 
-<mark style="color:cyan;">**허혈성**</mark> (☞ [협심증](../225_/097_-angina-pectoris.md))
+<mark style="color:cyan;">**허혈성**</mark> (☞ [협심증](../097_-angina-pectoris.md))
 
 * ACS (불안정 협심증, NSTEMI, STEMI)
 * 안정 협심증
@@ -125,23 +125,20 @@
 ```mermaid
 flowchart TD
     A["흉통 환자<br>병력 청취 + 신체 검진"] --> B["ECG 시행<br>도착 10분 이내"]
-    B --> C["광범위 ST 상승 <br>± PR 하강<br>심낭염 시사 소견"]
-    B --> D["ST 하강<br>새로운 T파 역전"]
-    B --> E["비진단적 또는 정상 ECG"]
-    B --> F["새로운 부정맥"]
-    C ---> G["STEMI 우선 감별<br>이전·serial ECG<br> + hs-cTn<br> ± TTE"]
-    G -->|STEMI 확인| O
-    G -->|심낭염·심근심막염<br> 확인| P["해당 지침에 <br>따라 처치"]
-    D --> H["NSTE-ACS<br>가이드라인 따름"]
-    E --> I["증상 지속 또는<br>트로포닌 양성 시<br>ECG 반복 시행"]
-    E --> K["후벽 MI 의심 시<br>Leads V7-V9"]
-    F --> M["부정맥별<br>가이드라인 따름"]
-    B --> N["STEMI"]
-    N --> O["STEMI<br>가이드라인 따름"]
+    B --> C["ECG 소견은?"]
+    C -->|"STEMI 소견"| N["STEMI<br>가이드라인 따름"]
+    C -->|"광범위 ST 상승<br>± PR 하강<br>심낭염 시사 소견"| G["STEMI 우선 감별<br>이전·serial ECG<br>+ hs-cTn ± TTE"]
+    C -->|"ST 하강<br>새로운 T파 역전"| H["NSTE-ACS<br>가이드라인 따름"]
+    C -->|"비진단적 또는<br>정상 ECG"| E["증상 지속 또는<br>트로포닌 양성 시<br>ECG 반복 시행<br>(후벽 MI 의심 시 V7-V9)"]
+    C -->|"새로운 부정맥"| M["부정맥별<br>가이드라인 따름"]
+    G --> Q["STEMI 확인?"]
+    Q -->|"예"| N
+    Q -->|"아니오<br>(심낭염·심근심막염 확인)"| P["해당 지침에<br>따라 처치"]
     style N fill:#d32f2f,color:#fff
-    style O fill:#d32f2f,color:#fff
+    style Q fill:#fff9c4,stroke:#ffe082
+    style C fill:#fff9c4,stroke:#ffe082
     style H fill:#e65100,color:#fff
-    style G fill:#fff9c4,stroke:#ffe082
+    style G fill:#fff3e0,stroke:#e65100
     style P fill:#1565c0,color:#fff
     style M fill:#4a148c,color:#fff
 
@@ -185,7 +182,7 @@ _<mark style="color:$info;">AHA/ACC는 단일한 고정 0/2h 알고리듬을 지
 
 #### <mark style="color:$primary;">영상 검사</mark>
 
-✽ 아래는 CAD 병력이 없는 환자에서 증상 중증도/위험도를 축으로 한 분류임 (CAD 기왕력 유무를 축으로 한 분류는 협심증 챕터의 [검사전략](../225_/097_-angina-pectoris.md#ccta-or-stress-test) 표 참조)
+✽ 아래는 CAD 병력이 없는 환자에서 증상 중증도/위험도를 축으로 한 분류임 (CAD 기왕력 유무를 축으로 한 분류는 협심증 챕터의 [검사전략](../097_-angina-pectoris.md#ccta-or-stress-test) 표 참조 - 경로·앵커는 실제 저장소 구조 확인 후 필요시 수정)
 
 <table data-search="false"><thead><tr><th width="201.21051025390625">임상 상황</th><th width="545.26318359375">권고 검사</th></tr></thead><tbody><tr><td>급성 흉통</td><td>흉부 X선: 폐렴, 기흉, 흉수, 폐울혈, 늑골 골절 및 종격동 이상 등 다른 심폐·흉곽 원인 평가에 유용. 단, 정상 소견으로 AAS 또는 PE를 배제할 수 없음</td></tr><tr><td>저위험 급성 흉통</td><td>검증된 CDP에서 30일 사망/MACE 위험 ＜1%이면 입원 또는 긴급 심장검사 없이 퇴원 및 외래 추적 고려</td></tr><tr><td>중등도 위험 급성 흉통*</td><td>TTE로 심실 기능, 국소벽운동 이상, 판막 기능 및 심낭삼출 평가; CAD 기왕력이 없고 ACS 평가가 음성 또는 불확실한 경우 CCTA 또는 적절한 부하검사</td></tr><tr><td>중등도~고위험 안정형 흉통, CAD 기왕력(-)</td><td>CCTA 또는 부하영상검사</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력(-)</td><td>검사 없이 임상 추적 가능; 검사 필요 시 CAC score 또는 운동부하 ECG 고려</td></tr><tr><td>고위험 급성 흉통</td><td>새 허혈성 ECG 변화, troponin으로 확인된 급성 심근손상, 혈역학적 불안정, 새 중등도~중증 좌심실 기능저하, 중등도~중증 허혈 또는 고위험 CDP 소견이 있으면 침습적 관상동맥 조영술 권고</td></tr><tr><td>CCTA에서 중등도/경계성 협착이 확인된 경우</td><td>FFR-CT (혈류예비분획-CT) 또는 부하영상검사 고려</td></tr></tbody></table>
 
@@ -214,6 +211,8 @@ _\*검사 선택은 연령, 운동 가능 여부, 안정시 ECG 판독 가능성
 <table><thead><tr><th width="359.52630615234375">소견</th><th width="82.803466796875">배점</th></tr></thead><tbody><tr><td>≥55세 남성 또는 ≥65세 여성</td><td>1</td></tr><tr><td>CAD, 뇌혈관 질환 또는 말초혈관 질환 병력</td><td>1</td></tr><tr><td>압박에 의해 통증 재현 안 됨</td><td>1</td></tr><tr><td>운동 시 통증 악화</td><td>1</td></tr><tr><td>환자 스스로 심장에 의한 통증으로 생각함</td><td>1</td></tr></tbody></table>
 
 ▶CAD 예측 : 0\~1점=0.6% (저위험), 2\~3점=12.1%(중등위험), 4\~5점=62.7%(고위험) ☞ [계산기](https://www.mdcalc.com/calc/4022/marburg-heart-score-mhs)
+
+_✽ 위 확률은 원 코호트 연구에서 관찰된 값으로 모집단에 따라 달라질 수 있음. 문헌·임상 적용에 따라 ≤2점/≥3점의 이분법 또는 0\~2점/3점/4\~5점의 3단계 분류도 함께 사용되므로, MHS는 응급 ACS 배제 도구가 아니라 **안정적인 외래 환자**의 CAD 가능성 평가 보조 도구로만 사용_
 
 #### <mark style="color:$primary;">INTERCHEST Rule (CAD 예측)</mark>
 
@@ -266,16 +265,16 @@ flowchart TD
     A(["급성 흉통?"]) -->|예| B["병력 청취 + 신체 검진<br>활력징후 평가"]
     A -->|아니오| Z["안정형 흉통 평가"]
 
-    B --> L{"혈역학적 불안정 또는<br>즉시 생명위협 원인 의심?"}
+    B --> L["혈역학적 불안정 또는<br>즉시 생명위협 원인 의심?"]
     L -->|예| R["응급 처치와 이송 동시 진행<br>ACS / AAS / PE / 긴장성 기흉<br>심낭압전 / 식도 파열"]
-    L -->|아니오| C{"진료 장소?"}
+    L -->|아니오| C["진료 장소?"]
 
-    C -->|외래| O{"10분 이내 ECG 가능 시 시행<br>ACS·생명위협 원인 의심?"}
+    C -->|외래| O["10분 이내 ECG 가능 시 시행<br>ACS·생명위협 원인 의심?"]
     C -->|응급실| T["ECG + hs-cTn 기반 CDP"]
 
     O -->|예| R
     O -->|아니오| K
-    T --> Q{"STEMI 또는<br>고위험 ACS 소견?"}
+    T --> Q["STEMI 또는<br>고위험 ACS 소견?"]
     Q -->|예| D["ACS 가이드라인 따름<br>즉시 응급실/PCI 가능 병원 이송"]
     Q -->|아니오| E["임상 위험도 + serial hs-cTn<br>원인별 평가"]
 
@@ -287,6 +286,7 @@ flowchart TD
 
     style L fill:#fff9c4,stroke:#ffe082
     style R fill:#b71c1c,color:#fff
+    style C fill:#fff9c4,stroke:#ffe082
     style Q fill:#fff9c4,stroke:#ffe082
     style O fill:#fff9c4,stroke:#ffe082
     style D fill:#d32f2f,color:#fff
@@ -416,11 +416,19 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 #### <mark style="color:$primary;">ACS 의심 시 처치</mark>
 
-* Aspirin 162\~325 ㎎을 즉시 씹어서 투여 (loading dose); 아스피린 알레르기 또는 활동성 소화관 출혈 시 금기
-* Nitroglycerin 0.4 ㎎ 설하 투여; 5분 간격 최대 3회
+* aspirin 162\~325 ㎎을 즉시 씹어서 투여 (loading dose; **비장용정**이어야 함 - 장용정은 흡수가 지연되어 응급 시 효과가 떨어짐); 아스피린 알레르기 또는 활동성 소화관 출혈 시 금기
+  * ✽국내 유통되는 저용량 아스피린은 대부분 100 ㎎ 장용정(예: 아스피린프로텍트정)이므로 응급 loading 목적에는 부적합; 비장용 제제 구비 여부를 사전에 확인해 둘 것
+* nitroglycerin 설하 투여; 5분 간격 최대 3회
+  * ✽국내 설하정은 <mark style="color:blue;">\[명문니트로글리세린설하정 0.3 ㎎/0.6 ㎎]</mark>으로 유통되며 0.4 ㎎ 설하정은 없음(0.4 ㎎은 <mark style="color:blue;">\[니트로링구알스프레이]</mark>의 1회 분무량). 설하정을 사용한다면 0.6 ㎎, 스프레이라면 1회 분무(0.4 ㎎)로 처방
+  * ✽국내 첨부문서상 급성 심근경색은 금기로 기재되어 있어 허가사항과 국제 ACS 지침상 응급 사용 간 차이가 있음 - 협심증으로 기존 처방받은 환자의 자가 사용과, 의료진이 혈역학·PDE-5 억제제·우심실 경색 여부를 평가하며 사용하는 응급 상황을 구분해서 적용
   * 금기: 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), 우심실 경색 의심
 * **산소**: 저산소혈증(예: SpO₂ ＜90%)이 있는 경우 투여; 정상 산소포화도에서 routine oxygen은 권고하지 않음 (호흡곤란 증상만으로 투여 확대하지 않도록 주의)
 * STEMI 확인 또는 강력 의심 시 → 즉시 PCI 가능 병원으로 이송; first medical contact–device time 최소화, PCI 가능 병원에서는 door-to-device ≤90분 목표
+
+{% hint style="warning" %}
+**⚠️ 코카인·암페타민 급성 중독이 동반된 흉통**\
+빈맥·고혈압·흥분 등 급성 중독 징후가 있는 상태에서는 관상동맥 연축이 악화될 수 있어 혈관확장제 병용 없이 β차단제를 단독 투여하지 않음. Benzodiazepine과 nitroglycerin 등으로 교감신경 항진·연축을 우선 치료 \[2014 AHA/ACC NSTE-ACS Guideline]. 단, 급성 중독 징후가 없는 최근 사용력만 있는 경우는 일반 ACS 처치를 따름
+{% endhint %}
 
 #### <mark style="color:$primary;">PE 의심 시 처치</mark>
 
@@ -431,7 +439,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 #### <mark style="color:$primary;">대동맥 박리 의심 시 처치</mark>
 
 * 통증 조절 + 즉각 이송이 우선
-* 혈압·심박수 조절: Beta-blocker (목표: HR ＜60 bpm, SBP 100\~120 ㎜Hg)
+* 혈압·심박수 조절: Beta-blocker (목표: HR 60\~80 bpm, SBP ＜120 ㎜Hg 또는 장기 관류를 유지하는 최저 혈압) \[2022 ACC/AHA Aortic Disease Guideline]
   * Labetalol IV 또는 Esmolol IV - 혈역학적 모니터링이 가능한 응급환경에서 사용; 약물 투여 때문에 응급 이송이 지연되어서는 안 됨
 * 니트로글리세린 단독 사용 금지 (반사성 빈맥으로 대동맥 벽 전단력 증가)
 * CT angiography 가능 병원으로 즉시 이송
@@ -511,24 +519,24 @@ R07.4 상세불명의 흉통
 > **처방례 1. ACS 의심 - 응급 초기 처치 및 즉시 이송**
 >
 > ```
-> Aspirin 162~325 ㎎  1회 씹어서 복용 (loading dose)
-> Nitroglycerin 0.4 ㎎ 설하정  5분 간격 최대 3회
+> aspirin 162~325 ㎎ (비장용정)  1회 씹어서 복용 (loading dose)
+> nitroglycerin 설하정 0.6 ㎎  5분 간격 최대 3회
 > ```
 >
-> _✽ 이 처방은 외래 귀가 처방이 아니라 응급실 이송 전 초기 처치임 - ACS 의심 환자는 처방 후 귀가시키는 것이 아니라 즉시 이송 대상임. Aspirin은 알레르기·활동성 소화관 출혈 시 금기; NTG는 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), 우심실 경색 의심 시 금기. 기존에 협심증으로 NTG를 처방받은 환자가 아니라면 임의 투여하지 말고 119/의료진 지시에 따를 것_
+> _✽ 이 처방은 외래 귀가 처방이 아니라 응급실 이송 전 초기 처치임 - ACS 의심 환자는 처방 후 귀가시키는 것이 아니라 즉시 이송 대상임. aspirin은 반드시 비장용정 사용(국내 유통 저용량 제품은 대부분 100 ㎎ 장용정이므로 응급 loading에는 부적합); 알레르기·활동성 소화관 출혈 시 금기. nitroglycerin은 국내 설하정 규격(0.3/0.6 ㎎)에 맞춰 0.6 ㎎으로 처방하며(스프레이 사용 시 1회 분무 = 0.4 ㎎), 국내 첨부문서상 급성 심근경색이 금기로 기재되어 있어 협심증 기왕 처방자의 자가 사용과 의료진 감독하 응급 사용을 구분함; 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), 우심실 경색 의심 시 금기. 기존에 협심증으로 NTG를 처방받은 환자가 아니라면 임의 투여하지 말고 119/의료진 지시에 따를 것_
 
-> **처방례 2. 응급질환을 배제한 GERD 의심 흉통**
+> **처방례 2. 응급질환을 배제한 GERD 의심 흉통 (전형적 가슴쓰림·산 역류 동반 시)**
 >
 > ```
-> Esomeprazole 40 ㎎/T  1T  qd  4주 (PPI trial)
+> esomeprazole 40 ㎎/T  <mark style="color:blue;">\[넥시움정 40 ㎎]</mark>  1T  qd  식전  8주 (PPI trial)
 > ```
 >
-> _✽ ACS·PE·대동맥 박리 등 생명 위협 원인을 충분히 배제한 후에만 시행하는 진단적 치료 시험임. PPI 반응이 있다고 GERD가 확진되는 것은 아니며, 반응이 없거나 재발 시 재평가 필요_
+> _✽ ACS·PE·대동맥 박리 등 생명 위협 원인을 충분히 배제한 후, 전형적인 가슴쓰림·산 역류가 동반된 경우에만 시행하는 진단적 치료 시험임(ACG GERD Guideline). PPI 반응이 있다고 GERD가 확진되는 것은 아니며, 반응이 없거나 재발 시 재평가 필요. **가슴쓰림·산 역류 없이 흉통만 있는 경우**에는 PPI trial 반응만으로 GERD를 추정하지 말고 내시경·역류 검사 등 객관적 평가를 우선 고려 (☞ 역류성 식도염 챕터 - 실제 파일명 확인 후 링크 추가 필요)_
 
 > **처방례 3. 응급질환을 배제한 근골격성 흉통**
 >
 > ```
-> Acetaminophen 500 ㎎/T  1~2T  q6~8h  필요시
+> acetaminophen 500 ㎎/T  <mark style="color:blue;">\[타이레놀정 500 ㎎]</mark>  1~2T  q6~8h  필요시
 > ```
 >
 > _✽ 흉벽 압통으로 통증이 재현되고 다른 red flag가 없을 때 사용; NSAID 병용 시 위장관·신장·심혈관 위험을 고려해 개별 판단. 압통 재현은 ACS 가능성을 낮추지만 완전히 배제하지는 못하므로, 통증 양상이 변하거나 지속되면 재평가 필요_
@@ -539,7 +547,7 @@ R07.4 상세불명의 흉통
 
 > **니트로글리세린 설하정 - 협심증 흉통**
 >
-> * 흉통 발생 시 앉거나 누운 상태에서 혀 아래에 1정을 녹이십시오. 삼키지 마십시오.
+> * 흉통 발생 시 앉거나 누운 상태에서 혀 아래에 1정(0.6 ㎎)을 녹이십시오. 삼키지 마십시오. (스프레이 제형은 1회 분무가 0.4 ㎎에 해당하며, 처방받은 제형의 용법을 따르십시오)
 > * 5분 후에도 증상이 지속되면 즉시 119에 신고하십시오. 2·3번째 투여 때문에 신고를 늦추지 마십시오. 신고 후 대기하면서 5분 간격으로 추가 복용할 수 있으며, 최대 3정까지 가능합니다.
 > * 기립성 저혈압(갑자기 일어날 때 어지럼)이 생길 수 있으므로 복용 중에는 앉거나 누운 자세를 유지하십시오.
 > * 발기부전 치료제를 복용 중인 경우 절대 함께 사용하지 마십시오 - 실데나필(비아그라 등)은 복용 후 24시간 이내, 타다라필(시알리스 등)은 복용 후 48시간 이내 니트로글리세린 사용 금기. 심각한 저혈압이 발생할 수 있습니다.
@@ -638,4 +646,4 @@ R07.4 상세불명의 흉통
 * 식후 바로 눕지 말고 최소 2\~3시간 후에 누우십시오
 * 체중 감량과 금연이 증상 완화에 도움이 됩니다
 
-_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain; AHA/ACC 원칙 및 표준 응급 대응; 질병관리청</mark>_
+_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain; 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Acute Coronary Syndromes; 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease; 질병관리청</mark>_
