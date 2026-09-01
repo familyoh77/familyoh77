@@ -23,7 +23,7 @@
 
 ## <mark style="color:green;">분류 및 원인</mark>
 
-### <mark style="color:orange;">심장성</mark>
+#### <mark style="color:$primary;">심장성</mark>
 
 <mark style="color:cyan;">**허혈성**</mark> (☞ [협심증](../225_/097_-angina-pectoris.md))
 
@@ -31,7 +31,7 @@
 * 안정 협심증
 * 관상동맥연축 (Prinzmetal 협심증)
 * INOCA (Ischemia with Non-Obstructive Coronary Arteries) : 미세혈관 기능장애, 관상동맥 내피기능 이상
-  * 비폐쇄성 CAD가 확인되었으나 안정형 흉통이 지속되고 심근허혈이 의심되면(INOCA 의심) PET 또는 CMR의 myocardial blood flow reserve 평가를 고려하며, 지속 증상과 영상상 허혈이 있는 경우 침습적 관상동맥 기능 검사를 고려
+  * [ ] INOCA가 의심(비폐쇄성 CAD 확인, 안정형 흉통 지속, 심근허혈 의심)되면 PET 또는 CMR의 myocardial blood flow reserve 평가를 고려하며, 지속 증상과 영상상 허혈이 있는 경우 침습적 관상동맥 기능 검사를 고려
 * 대동맥판 협착증, 비후성 심근병증에 의한 허혈
 
 <mark style="color:cyan;">**비허혈성 심장성**</mark>
@@ -39,35 +39,35 @@
 * 심막염 / 심근염 / 심근심막염
 * 심부전(급성 폐부종)
 * 판막질환(승모판 탈출증, 대동맥판 역류 등)
-  * 대동맥판 협착증: 특징적 수축기 잡음, 지연·소맥(tardus et parvus)
-  * 대동맥판 역류: 좌측 흉골연(left sternal border)의 고음성 이완기 감소성 잡음, 급속 상승 맥박
-  * 비후성 심근병증(HCM): 좌심실 박출로 인한 거친 수축기 박출성 잡음(Valsalva/기립 시 증가)
-* Takotsubo 심근병증
+  * 대동맥판 협착증 : 특징적 수축기 잡음, 지연·소맥(tardus et parvus)
+  * 대동맥판 역류 : 좌측 흉골연(left sternal border)의 고음성 이완기 감소성 잡음, 급속 상승 맥박
+  * 비후성 심근병증(HCM) : 좌심실 박출로 인한 거친 수축기 박출성 잡음(Valsalva/기립 시 증가)
+* Takotsubo 심근병증 : 극심한 정신적·신체적 스트레스로 인해 심장 근육이 일시적으로 약화
 
-### <mark style="color:orange;">대혈관성</mark>
+#### <mark style="color:$primary;">대혈관성</mark>
 
-* 급성 대동맥 증후군(Acute aortic syndrome, AAS): 대동맥 박리, 벽내혈종, 침투성 동맥경화 궤양
+* 급성 대동맥 증후군(Acute aortic syndrome, AAS) : 대동맥 박리, 벽내혈종, 침투성 동맥경화 궤양
 * 대동맥류 파열
 
-### <mark style="color:orange;">폐·흉막성</mark>
+#### <mark style="color:$primary;">폐·흉막성</mark>
 
 * 폐색전증
 * 기흉(특히 긴장성 기흉)
 * 흉막염, 폐렴, 폐암
-  * 자연기흉 (Spontaneous pneumothorax): 키가 크고 마른 젊은 남성(10\~30대)에서 빈발; 별다른 외상 없이 갑자기 발생하는 편측 흉통 + 호흡곤란이 특징
 
-### <mark style="color:orange;">위장관성</mark>
+#### <mark style="color:$primary;">위장관성</mark>
 
 * 역류성 식도염, 식도연축
 * 식도 파열
 * 위염, 소화성 궤양, 담석증
 
-### <mark style="color:orange;">근골격성</mark>
+#### <mark style="color:$primary;">근골격성</mark>
 
 * 늑연골염, Tietze 증후군, 늑골 골절, 신경근병증, 섬유근통
-* 1차 진료에서는 흔한 원인이지만, 흉벽 압박으로 통증이 재현되더라도 ACS를 완전히 배제할 수는 없음
 
-### <mark style="color:orange;">기타</mark>
+- [ ] 1차 진료에서는 흔한 원인이지만, 흉벽 압박으로 통증이 재현되더라도 ACS를 완전히 배제할 수는 없음
+
+#### <mark style="color:$primary;">기타</mark>
 
 * 공황장애, 불안장애
 * 대상포진
@@ -77,9 +77,9 @@
 
 <mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
-* 쇼크(저혈압·빈맥) 또는 정신 상태 변화 (순환 붕괴 시사) `ACS` `PE` `대동맥 박리`
+* 쇼크(저혈압·빈맥) 또는 정신 상태 변화 - 순환 붕괴 시사 `ACS` `PE` `대동맥 박리`
 * 심한 호흡 곤란, 빠른 호흡 `ACS` `PE` `기흉`
-* 잿빛 피부색, 발한, 차가운 피부 (심인성 쇼크 시사) `ACS`
+* 잿빛 피부색, 발한, 차가운 피부 - 심인성 쇼크 시사 `ACS`
 * 심낭압전이 의심되는 혈역학적 이상(저혈압·빈맥·경정맥 팽창·muffled heart sound·심초음파상 tamponade 소견) ± pulsus paradoxus `심낭 압전`
 * 찢어지는(tearing)·칼로 베는 듯한(sharp/stabbing) 흉통이 갑자기 최대 강도로 시작되며 등·복부로 이동(migration)하는 경우 `대동맥 박리`
 * 찢어지는 흉통 + 양측 상지 혈압 차이 ≥20 ㎜Hg (≥15 ㎜Hg도 의심 신호로 주의 깊게 관찰) 또는 비대칭적 맥박 `대동맥 박리` - 단, 민감도가 낮아 혈압 차이·맥박 비대칭이 없다고 박리를 배제할 수는 없음
@@ -90,19 +90,21 @@
 
 <mark style="color:$warning;">**수 시간 내 긴급 평가 (응급실 방문)**</mark>
 
-* 휴식 시 흉통 발생 `불안정 협심증` `NSTEMI`
-* 새로 발생하거나 악화된 야간·휴식 시 흉통, 특히 지속성 또는 진행성인 경우 `ACS` (야간 흉통 단독은 GERD·관상동맥연축 등에서도 발생할 수 있으므로 전체 임상 맥락과 함께 판단)
-* 새로 발생한 심한 흉통 `ACS`
-* 과거에 비해 적은 활동에서 흉통 발생 (진행성 협심증) `ACS`
-* 흉통·호흡곤란과 함께 pulsus paradoxus가 확인되거나 심낭삼출 위험인자가 있는 경우 `심낭 압전 의심` - 천식·COPD 등에서도 나타날 수 있어 단독 소견만으로 진단하지 않으며, 혈역학적 불안정이 동반되면 Tier 1 기준 적용
-* 위장 출혈 동반 (특히 복부대동맥류/대동맥 수술 병력 시) `대동맥장누공`
+* 휴식 시 흉통 발생  `불안정 협심증` `NSTEMI`
+* 새로 발생하거나 악화된 야간·휴식 시 흉통, 특히 지속성 또는 진행성인 경우  `ACS`&#x20;
+  * 야간 흉통 단독은 GERD·관상동맥연축 등에서도 발생할 수 있으므로 전체 임상 맥락과 함께 판단
+* 새로 발생한 심한 흉통  `ACS`
+* 과거에 비해 적은 활동에서 흉통 발생 - 진행성 협심증 시사  `ACS`
+* 흉통·호흡곤란과 함께 pulsus paradoxus가 확인되거나 심낭삼출 위험 인자가 있는 경우  `심낭 압전`&#x20;
+  * 천식·COPD 등에서도 나타날 수 있어 단독 소견만으로 판단하지 않으며, 혈역학적 불안정이 동반되면 즉각이송
+* 위장 출혈 동반 (특히 복부대동맥류/대동맥 수술 병력 시)  `대동맥장누공`
 * 최근 평가 후에도 원인이 규명되지 않은 흉통이 반복·악화되거나 양상이 변한 경우 (미진단 ACS/AAS 등 생명위협 원인 재평가)
 
 <mark style="color:$info;">**당일 \~ 수일 내 조기 평가 (외래 진료)**</mark>
 
-* 걷거나 계단 오를 때 흉통 악화 (운동부하검사 고려) `안정형 협심증`
-* 새로 발견된 심잡음 `판막 기능이상` `유두근 허혈`
-* 설명할 수 없는 체중 감소 `악성 종양` `만성 중증 질환`
+* 걷거나 계단 오를 때 흉통 악화  `안정형 협심증`
+* 새로 발견된 심잡음  `판막 기능이상` `유두근 허혈`
+* 설명할 수 없는 체중 감소  `악성 종양` `만성 중증 질환`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -115,7 +117,7 @@
 * 급성 흉통 환자에서 ECG는 처치 방향을 결정하는 핵심 도구임
 * STEMI 확인 시 즉각 재관류 치료. First medical contact–device time을 최소화하며, PCI 가능 병원에서는 door-to-device ≤90분을 목표로 함 \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline]
 * 정상 ECG라도 ACS를 배제할 수 없으므로 반드시 트로포닌 등 추가 평가를 병행해야 함
-  * 진행 중인 ACS 환자가 초기 ECG가 정상이라는 이유로 응급실에서 잘못 퇴원하는 경우가 최대 6%까지 보고됨. 이는 정상 ECG 환자 중 ACS 유병률이 6%라는 의미가 아님
+  * 진행 중인 ACS 환자가 초기 ECG가 정상이라는 이유로 응급실에서 잘못 퇴원하는 경우가 최대 6%까지 보고됨
   * 좌회선동맥·우관상동맥 폐색은 표준 12유도에서 '전기적 침묵' 가능 → 후벽 MI 의심 시 V7-V9 추가
   * 좌심실 비대, 각차단, 심실 페이싱은 허혈 소견을 가릴 수 있음
 
@@ -165,23 +167,23 @@ flowchart TD
 <mark style="color:cyan;">**hs-cTn**</mark>
 
 * 급성 MI 진단의 현 표준 바이오마커; 기존 CK-MB·myoglobin은 1차 검사로 권고되지 않음
-* hs-cTn의 99th percentile 상한치(URL)는 검사법에 따라 다르며 성별 특이 기준값이 제시되는 경우가 있음. 여성이 남성보다 낮은 경향이 있으므로, 검사법이 성별 특이 URL을 제공하면 해당 기준을 적용하고 기관에서 사용하는 assay의 분석 특성·99th percentile URL을 확인
-* 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증, 심방세동, 격렬한 운동 후 등에서도 상승할 수 있으므로 baseline 대비 동적 변화(Rise and/or Fall, Δ)가 급성 MI 진단의 핵심임; 단독 수치만으로 과잉 진단하지 않도록 주의 - acute myocardial injury(rise/fall + ≥99th percentile)와 acute MI(injury + 허혈의 임상적 근거)는 구분되는 개념임
-* 다음 ① 정상 ECG, ② ACS를 시사하는 증상 존재, ③ 증상이 응급실 도착 최소 3시간 전에 시작, ④ 초기 hs-cTn이 해당 assay의 검출한계(LoD) 미만 - 이 네 조건을 모두 충족하는 경우, 단일 측정으로 심근 손상 배제를 고려할 수 있음. 네 조건 중 하나라도 충족하지 않으면 단일 측정으로 배제하지 않음
+* hs-cTn의 99th percentile 상한치(URL)는 검사법에 따라 다르며 성별 특이 기준값이 제시되는 경우가 있음. 여성이 남성보다 낮은 경향이 있으므로, 검사법이 성별 특이 URL을 제공하면 해당 기준을 적용하고, 기관에서 사용하는 assay의 분석 특성·99th percentile URL을 확인
+* 트로포닌은 허혈성 질환 외에 만성 신부전, 심부전, 폐색전증, 패혈증, 심방세동, 격렬한 운동 후 등에서도 상승할 수 있으므로 baseline 대비 동적 변화(Rise &/or Fall, Δ)가 급성 MI 진단의 핵심임
+  * 단독 수치만으로 과잉 진단하지 않도록 주의 - acute myocardial injury(rise/fall + ≥99th percentile)와 acute MI(injury + 허혈의 임상적 근거)는 구분되는 개념임
+* ① 정상 ECG, ② ACS를 시사하는 증상 존재, ③ 증상이 응급실 도착 최소 3시간 전에 시작, ④ 초기 hs-cTn이 해당 assay의 검출한계(LoD) 미만 - 이 네 조건을 모두 충족하는 경우, 단일 측정으로 심근 손상 배제를 고려할 수 있음. 네 조건 중 하나라도 충족하지 않으면 단일 측정으로 배제하지 않음
 * assay-specific rule-in threshold 및 허혈 증상·ECG 소견 등을 충족하면 rule-in
   * 경계값이면 검증된 0/1h 또는 0/2h 등 assay-specific CDP에 따라 재측정하고 절대 변화량(Δ, absolute change)을 함께 판단
 
 <table><thead><tr><th width="200">알고리즘</th><th width="160">재측정 시점</th><th>특징</th></tr></thead><tbody><tr><td>AHA/ACC 권고 간격</td><td>hs-cTn: 1~3시간<br>기존 cTn: 3~6시간</td><td>최초 채혈(time zero) 후 권고되는 반복 측정 간격; 기관 assay에 맞춘 CDP 적용</td></tr><tr><td>ESC 0/1h</td><td>0시간, 1시간</td><td>빠르고 광범위하게 검증됨; assay별 고유 cut-off와 절대 변화량 기준 필요</td></tr><tr><td>ESC 0/2h (대안)</td><td>0시간, 2시간</td><td>0/1h 시행이 어려운 상황의 검증된 대안; assay별 기준 적용</td></tr><tr><td>기타 검증된 hs-cTn CDP</td><td>기관·assay별</td><td>0/1h, 0/2h 등 검증된 프로토콜을 임상 위험도 평가와 함께 적용</td></tr><tr><td>0/3h (전통적)</td><td>0시간, 3시간</td><td>현재는 검증된 hs-cTn 신속 CDP가 선호되며, 해당 프로토콜을 사용할 수 없는 일부 상황에서 고려</td></tr></tbody></table>
 
-_<mark style="color:$info;">AHA/ACC는 단일한 고정 0/2h 알고리듬을 지정하기보다 검사기관의 hs-cTn assay에 대해 검증된 clinical decision pathway(CDP)를 적용할 것을 권장함.</mark>_
-
+* AHA/ACC는 단일한 고정 0/2h 알고리듬을 지정하기보다 검사기관의 hs-cTn assay에 대해 검증된 CDP(clinical decision pathway)를 적용할 것을 권장함
 * Early presenter 주의 : 증상 발생 후 응급실 도착까지 3시간 미만이면 단일 hs-cTn으로 배제하지 않고 검증된 CDP에 따라 반복 측정
 * Assay별 cut-off 수치가 상이하므로 검사 기관의 assay 종류(예: hs-cTnI, hs-cTnT)와 해당 제조사의 rule-out/rule-in 기준값을 반드시 확인하여 적용할 것
 * 만성 신부전·심부전 등으로 트로포닌이 기저치부터 상승해 있는 환자에서는 이전 측정값과의 비교(Δ) 및 임상 소견을 병행하여 급성 MI를 판단
 
 #### <mark style="color:$primary;">영상 검사</mark>
 
-✽ 아래는 CAD 병력이 없는 환자에서 증상 중증도/위험도를 축으로 한 분류임 (CAD 기왕력 유무를 축으로 한 분류는 협심증 챕터의 [검사전략](../097_-angina-pectoris.md#ccta-or-stress-test) 표 참조 - 경로·앵커는 실제 저장소 구조 확인 후 필요시 수정)
+* 아래는 CAD 병력이 없는 환자에서 증상 중증도/위험도를 축으로 한 분류임 (CAD 기왕력 유무를 축으로 한 분류는 협심증 챕터의 [검사전략](../225_/097_-angina-pectoris.md#ccta-or-stress-test) 표 참조 - 경로·앵커는 실제 저장소 구조 확인 후 필요시 수정)
 
 <table data-search="false"><thead><tr><th width="201.21051025390625">임상 상황</th><th width="545.26318359375">권고 검사</th></tr></thead><tbody><tr><td>급성 흉통</td><td>흉부 X선: 폐렴, 기흉, 흉수, 폐울혈, 늑골 골절 및 종격동 이상 등 다른 심폐·흉곽 원인 평가에 유용. 단, 정상 소견으로 AAS 또는 PE를 배제할 수 없음</td></tr><tr><td>저위험 급성 흉통</td><td>검증된 CDP에서 30일 사망/MACE 위험 ＜1%이면 입원 또는 긴급 심장검사 없이 퇴원 및 외래 추적 고려</td></tr><tr><td>중등도 위험 급성 흉통*</td><td>TTE로 심실 기능, 국소벽운동 이상, 판막 기능 및 심낭삼출 평가; CAD 기왕력이 없고 ACS 평가가 음성 또는 불확실한 경우 CCTA 또는 적절한 부하검사</td></tr><tr><td>중등도~고위험 안정형 흉통, CAD 기왕력(-)</td><td>CCTA 또는 부하영상검사</td></tr><tr><td>저위험 안정형 흉통, CAD 기왕력(-)</td><td>검사 없이 임상 추적 가능; 검사 필요 시 CAC score 또는 운동부하 ECG 고려</td></tr><tr><td>고위험 급성 흉통</td><td>새 허혈성 ECG 변화, troponin으로 확인된 급성 심근손상, 혈역학적 불안정, 새 중등도~중증 좌심실 기능저하, 중등도~중증 허혈 또는 고위험 CDP 소견이 있으면 침습적 관상동맥 조영술 권고</td></tr><tr><td>CCTA에서 중등도/경계성 협착이 확인된 경우</td><td>FFR-CT (혈류예비분획-CT) 또는 부하영상검사 고려</td></tr></tbody></table>
 
