@@ -738,15 +738,21 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 
 ### <mark style="color:red;">질병코드</mark>
 
-R52 달리 분류되지 않은 통증 Pain, NEC
+* R52 달리 분류되지 않은 통증 Pain, NEC
+* R52.0 급성 통증 Acute pain
+* R52.1 만성 난치성 통증 Chronic intractable pain
+* R52.2 기타 만성 통증 Other chronic pain
+* R52.9 상세불명의 통증 Pain, unspecified
 
-R52.0 급성 통증 Acute pain
+#### <mark style="color:$primary;">약제별 보험 급여 인정 상병 코드 매칭표</mark>
 
-R52.1 만성 난치성 통증 Chronic intractable pain
+<table><thead><tr><th width="151.631591796875">약물 분류</th><th width="212.3157958984375">권장 상병 코드 (KCD-8)</th><th>급여 핵심 기준 및 주의사항</th></tr></thead><tbody><tr><td><strong>COX-2 저해제</strong><br>Celecoxib</td><td>M15~M19 (골관절염)<br>M05~M06 (류마티스)</td><td>60세 이상: 별도 사유 기재 없이 급여 인정. ▶ 60세 미만 삭감 주의: 다음 중 하나를 차트에 명기해야 급여 인정 - ① NSAIDs 투여 금기인 활동성 소화성 궤양 또는 출혈 병력 ② 60세 이상의 고령(해당 없음) ③ 스테로이드·항응고제 병용으로 GI 출혈 위험 높은 경우. 기재 예시: "60세 미만이나 소화성 궤양 기왕력 있어 COX-2 선택제 처방함." ※ HIRA 현행 고시 반드시 확인</td></tr><tr><td><strong>가바펜티노이드</strong><br>Pregabalin</td><td>E10~E14 (당뇨병성 신경병증)<br>B02.2 (대상포진 후 신경통)<br>M54.1 (신경뿌리병증)<br>G54.4 (요추 신경뿌리 장애)<br>G57.x / M54.3~M54.4 (원인별 신경병증)</td><td>단순 M54.5 (요통) 단독 코드는 삭감 위험 높음 - 방사통·전격통 등 신경병성 증상이 있을 경우 M54.1 또는 G54.4 병기 권장. 차트에 "방사통, NRS ○점, 저림 증상" 등 신경병성 근거 기재 필수. G63은 신경병성 통증 범용 코드로 부적합</td></tr><tr><td><strong>SNRI 항우울제</strong><br>Duloxetine</td><td>M79.7 (섬유근통)<br>M17 (무릎 골관절염)</td><td>무릎 골관절염은 NSAIDs에 반응하지 않는 경우에만 인정. ※ 정확한 고시 문구 HIRA 확인 필요</td></tr><tr><td><strong>마약성 진통제</strong><br>Oxycodone 등</td><td>M54.5 (만성 하부요통)<br>M15~M19 (심한 골관절염)</td><td>NSAIDs 최대 용량 투여 후 효과 없을 시 인정 (차트 기재 필수). ※ HIRA 원문 확인 권고</td></tr><tr><td><strong>프로스타글란딘</strong><br>Limaprost</td><td>M48.0 (척추관 협착증)<br>I73.1 (Buerger병)</td><td>척추관 협착증(M48.0) 또는 Buerger병(I73.1) 코드 필수</td></tr><tr><td><strong>Lidocaine patch</strong></td><td>B02.2 (대상포진 후 신경통)</td><td>PHN 외 상병은 전액 본인부담</td></tr></tbody></table>
 
-R52.2 기타 만성 통증 Other chronic pain
+※ **삭감 예방을 위한 차트 기재 가이드**
 
-R52.9 상세불명의 통증 Pain, unspecified
+* NSAID&#x73;**:** "60세 미만이나 상부 위장관 질환 병력 있어 COX-2 선택 처방함"
+* Neuropathic agents: "VAS 7점 이상의 전격통 및 저림 증상으로 기능 저하 심해 투여 시작"
+* Opioids: "기존 비마약성 진통제(NSAIDs 등) 최대 용량으로 조절되지 않는 만성 통증으로 단계적 증량"
 
 ***
 
@@ -775,16 +781,6 @@ R52.9 상세불명의 통증 Pain, unspecified
 > ```
 >
 > _✽NSAID 단독으로 조절되지 않거나 GI 위험 인자가 있는 만성 통증에서 COX-2 선택제 우선 고려; opioid 복합제는 최후 수단으로 단기 사용에 제한_
-
-### <mark style="color:purple;">약제별 보험 급여 인정 상병 코드 매칭표</mark>
-
-<table><thead><tr><th width="151.631591796875">약물 분류</th><th width="212.3157958984375">권장 상병 코드 (KCD-8)</th><th>급여 핵심 기준 및 주의사항</th></tr></thead><tbody><tr><td><strong>COX-2 저해제</strong><br>Celecoxib</td><td>M15~M19 (골관절염)<br>M05~M06 (류마티스)</td><td>60세 이상: 별도 사유 기재 없이 급여 인정. ▶ 60세 미만 삭감 주의: 다음 중 하나를 차트에 명기해야 급여 인정 - ① NSAIDs 투여 금기인 활동성 소화성 궤양 또는 출혈 병력 ② 60세 이상의 고령(해당 없음) ③ 스테로이드·항응고제 병용으로 GI 출혈 위험 높은 경우. 기재 예시: "60세 미만이나 소화성 궤양 기왕력 있어 COX-2 선택제 처방함." ※ HIRA 현행 고시 반드시 확인</td></tr><tr><td><strong>가바펜티노이드</strong><br>Pregabalin</td><td>E10~E14 (당뇨병성 신경병증)<br>B02.2 (대상포진 후 신경통)<br>M54.1 (신경뿌리병증)<br>G54.4 (요추 신경뿌리 장애)<br>G57.x / M54.3~M54.4 (원인별 신경병증)</td><td>단순 M54.5 (요통) 단독 코드는 삭감 위험 높음 - 방사통·전격통 등 신경병성 증상이 있을 경우 M54.1 또는 G54.4 병기 권장. 차트에 "방사통, NRS ○점, 저림 증상" 등 신경병성 근거 기재 필수. G63은 신경병성 통증 범용 코드로 부적합</td></tr><tr><td><strong>SNRI 항우울제</strong><br>Duloxetine</td><td>M79.7 (섬유근통)<br>M17 (무릎 골관절염)</td><td>무릎 골관절염은 NSAIDs에 반응하지 않는 경우에만 인정. ※ 정확한 고시 문구 HIRA 확인 필요</td></tr><tr><td><strong>마약성 진통제</strong><br>Oxycodone 등</td><td>M54.5 (만성 하부요통)<br>M15~M19 (심한 골관절염)</td><td>NSAIDs 최대 용량 투여 후 효과 없을 시 인정 (차트 기재 필수). ※ HIRA 원문 확인 권고</td></tr><tr><td><strong>프로스타글란딘</strong><br>Limaprost</td><td>M48.0 (척추관 협착증)<br>I73.1 (Buerger병)</td><td>척추관 협착증(M48.0) 또는 Buerger병(I73.1) 코드 필수</td></tr><tr><td><strong>Lidocaine patch</strong></td><td>B02.2 (대상포진 후 신경통)</td><td>PHN 외 상병은 전액 본인부담</td></tr></tbody></table>
-
-※ **삭감 예방을 위한 차트 기재 가이드**
-
-* NSAID&#x73;**:** "60세 미만이나 상부 위장관 질환 병력 있어 COX-2 선택 처방함"
-* Neuropathic agents: "VAS 7점 이상의 전격통 및 저림 증상으로 기능 저하 심해 투여 시작"
-* Opioids: "기존 비마약성 진통제(NSAIDs 등) 최대 용량으로 조절되지 않는 만성 통증으로 단계적 증량"
 
 ***
 
