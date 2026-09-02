@@ -207,7 +207,7 @@ graph TD
 
 #### <mark style="color:$primary;">**1차 진료에서 흔한 진단 오류**</mark>
 
-* **불안으로 성급히 단정** : 정상 SpO₂ + 젊은 환자여도 위험 원인을 임상적으로 충분히 배제한 뒤 진단; SpO₂·활력징후를 확인하고 흉통·심계항진·PE 위험인자·비정상 진찰 소견 등에 따라 ECG, CXR, D-dimer 등을 선택
+* **불안으로 성급히 단정** : 정상 SpO₂ + 젊은 환자여도 위험 원인을 임상적으로 충분히 배제한 뒤 진단; SpO₂·활력징후를 확인하고 흉통·심계항진·PE 위험 인자·비정상 진찰 소견 등에 따라 ECG, CXR, D-dimer 등을 선택
 * **정상 SpO₂에 안심** : SpO₂는 산소화 지표이지 환기 상태가 아님; PE 초기·대사성 산증은 SpO₂ 정상 가능. RR(호흡수)를 더 중요하게 본다
 * **Cardiac asthma 오진** : wheeze → 천식으로만 해석하지 말 것; orthopnea·leg edema 동반 시 BNP 또는 폐 초음파(B-line) 확인
 * **신경근육 원인 간과** : GBS·MG·ALS는 초기 폐 청진·SpO₂가 정상일 수 있음 → shallow breathing + 사지 위약을 놓치지 말고 FVC/NIF(MIP)를 조기에 평가; 악화 시 즉시 전원
