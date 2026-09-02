@@ -33,15 +33,15 @@
 * INOCA(Ischemia with Non-Obstructive Coronary Arteries) : 미세혈관 기능장애, 관상동맥 내피기능 이상
   * 비폐쇄성 CAD 확인, 안정형 흉통 지속, 그리고 심근허혈이 의심되면(=INOCA 의심) PET 또는 CMR의 myocardial blood flow reserve 평가를 고려하며, 지속 증상과 영상상 허혈이 있는 경우 침습적 관상동맥 기능 검사를 고려
 * 대동맥판 협착증, 비후성 심근병증에 의한 허혈
+  * 대동맥판 협착증 : 특징적 수축기 잡음, 지연·소맥(tardus et parvus)
+  * 비후성 심근병증(HCM) : 좌심실 박출로 인한 거친 수축기 박출성 잡음(Valsalva/기립 시 증가)
 
 <mark style="color:cyan;">**비허혈성 심장성**</mark>
 
 * 심막염 / 심근염 / 심근심막염
 * 심부전(급성 폐부종)
 * 판막질환(승모판 탈출증, 대동맥판 역류 등)
-  * 대동맥판 협착증 : 특징적 수축기 잡음, 지연·소맥(tardus et parvus)
   * 대동맥판 역류 : 좌측 흉골연(left sternal border)의 고음성 이완기 감소성 잡음, 급속 상승 맥박
-  * 비후성 심근병증(HCM) : 좌심실 박출로 인한 거친 수축기 박출성 잡음(Valsalva/기립 시 증가)
 * Takotsubo 심근병증 : 극심한 정신적·신체적 스트레스로 인해 심장 근육이 일시적으로 약화
 
 #### <mark style="color:$primary;">대혈관성</mark>
@@ -317,7 +317,7 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
 
 #### <mark style="color:$primary;">Myocardial ischemia</mark>
 
-<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina(☞ [협심증](../097_-angina-pectoris.md)): 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: 흔히 20분 이상 지속되는 흉통이지만, 지속시간만으로 MI를 배제하거나 확진할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부<br>※ 여성에서도 흉통은 가장 흔한 ACS 증상이며, 오심·호흡곤란·피로 등의 동반 증상이 더 흔할 수 있음. 고령자·당뇨병 환자에서는 흉통이 뚜렷하지 않을 수 있음</td></tr><tr><td><strong>동반 특징</strong></td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함 (2021 AHA/ACC Chest Pain Guideline)<br>※ 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요<br>※ Young patient trap: 젊고 위험인자가 없어도 ACS 가능 - ⓵ SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시기에 호발) ⓶ 심근염(myocarditis; 최근 바이러스 감염 후 흉통 + 트로포닌 상승 시 고려) ⓷ 코카인·암페타민 유발 연축 - 이들 세 상황에서 "젊으니까 괜찮다"는 판단은 위험한 인지 오류</td></tr></tbody></table>
+<table><thead><tr><th width="109.52630615234375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>• Stable angina(☞ [협심증](../097_-angina-pectoris.md)): 운동, 추위, 스트레스에 의해 유발; 2~10분<br>• Unstable angina: 휴식 시 발생 또는 이전보다 적은 활동에서 유발<br>• MI: 흔히 20분 이상 지속되는 흉통이지만, 지속시간만으로 MI를 배제하거나 확진할 수 없음</td></tr><tr><td><strong>증상</strong></td><td>pressure, tightness, squeezing, heaviness, burning</td></tr><tr><td><strong>부위</strong></td><td>retrosternal; 종종 방사통 (neck, jaw, shoulder, arm); 때때로 상복부</td></tr><tr><td><strong>동반 특징</strong></td><td>통증 중 드물게 S4 gallop or mitral regurgitation murmur; 경색 시 S3 or rale<br>※ MINOCA(폐색 없는 MI): 여성·젊은 환자에 더 흔함; 관상동맥 연축·미세혈관기능장애 포함 (2021 AHA/ACC Chest Pain Guideline)<br>※ 젊은 연령 + 심혈관 위험인자 없는 ACS: 코카인·암페타민 등 교감신경자극제에 의한 관상동맥 연축 감별 요<br>※ Young patient trap: 젊고 위험인자가 없어도 ACS 가능 - ⓵ SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시기에 호발) ⓶ 심근염(myocarditis; 최근 바이러스 감염 후 흉통 + 트로포닌 상승 시 고려) ⓷ 코카인·암페타민 유발 연축 - 이들 세 상황에서 "젊으니까 괜찮다"는 판단은 위험한 인지 오류</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Pericarditis</mark>
 
