@@ -9,7 +9,7 @@
   * 전달(transmission) : Aδ섬유(날카롭고 국소적인 통증)와 C섬유(둔하고 지속적인 통증)를 통해 척수 후각으로 전달된 후, 척수시상로를 거쳐 뇌로 전달
   * 조절(modulation) : 척수 및 하행 억제 경로(노르에피네프린·세로토닌 매개)에서 신호가 증폭되거나 억제됨
   * 인지(perception) : 대뇌피질에서 비로소 '통증'으로 인식되며, 이 단계에서 불안·과거 경험·파국화 등 정서적·인지적 요소가 실제 통증 경험에 영향을 줌
-* 만성 통증은 이 경로 자체가 변화(중추 감작 등)하여, 원래의 유해 자극이 약하거나 사라져도 통증이 지속·증폭되는 상태 (☞ 아래 Central sensitization 참조)
+* 만성 통증은 이 경로 자체가 변화(중추 감작 등)하여, 원래의 유해 자극이 약하거나 사라져도 통증이 지속·증폭되는 상태 (☞ 아래 [Central sensitization](001_-pain.md#undefined-3) 참조)
 
 <mark style="color:cyan;">**진통제의 작용 원리**</mark>
 
@@ -30,8 +30,8 @@
 <mark style="color:cyan;">**통증 강도 평가 기술 방법**</mark>
 
 * 환자로 하여금 통증 정도를 표현하도록 함
-* 수치 평가 척도(numeric rating scale, NRS) : 0\~10 숫자 중 현재 통증 강도를 선택; 0=통증 없음 \~ 10=상상할 수 없는 극심한 통증; 구두로 즉시 측정 가능하여 임상에서 가장 널리 사용됨
-* 시각적 아날로그 통증 스케일(visual analogue scale, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
+* 수치 평가 척도(Numeric Rating Scale, NRS) : 0("통증 없음")\~10("상상할 수 없는 극심한 통증") 숫자 중 현재 통증 강도를 선택; 구두로 즉시 측정 가능하여 임상에서 가장 널리 사용됨
+* 시각적 아날로그 통증 스케일(Visual Analogue Scale, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
 
 <figure><img src="../.gitbook/assets/통증2 (2).png" alt=""><figcaption><p><strong>시각적 아날로그 통증 스케일(visual analogue scale, VAS)</strong></p></figcaption></figure>
 
@@ -197,56 +197,6 @@ flowchart TD
 * 생물심리사회적 모델 : 신체, 심리(우울, 불안, 파국화), 사회적 요인(직업, 가족 환경, 보상 문제)을 통합 고려
 * 다학제 접근 : 복잡한 만성 통증이나 치료에 반응이 불충분한 경우 협진(마취과·신경과·정신건강의학과·재활의학과 협진) 고려
 
-### <mark style="color:orange;">통증 양상별 약물 선택</mark>
-
-* 통증의 성격(침해수용성 vs 신경병성)을 구분하고, 통증의 강도(NRS)에 따라 단계적으로 접근
-* "Start Low, Go Slow"
-  * 고령, frailty, 신·간기능 저하, CNS depressant 병용 등 약물 부작용 위험이 높은 환자에서는 저용량으로 시작하여 서서히 증량; 신배설 약물은 신기능에 따라 용량 조절
-  * 기능적 목표 설정 : 환자에게 "통증 때문에 못 하던 어떤 활동을 다시 하고 싶은지"를 물어 구체적 목표를 설정
-  * 병용 금기 약제 주의 : 예) benzodiazepine 복용 여부를 확인하여 마약성 진통제 처방 시 호흡 억제 위험을 차단
-
-#### <mark style="color:$primary;">Step 1. 통증 유형 분류 (Pain Typing)</mark>
-
-* 통증 기전(mechanism)에 따라 nociceptive/neuropathic/nociplastic/mixed로 분류 (정의·특징·감별 요점 ☞ [일반 사항 > 유형](001_-pain.md#undefined-2))
-* 선별 도구 : neuropathic 요소는 DN4(4점 이상 시 가능성 높음)·painDETECT로 평가; nociplastic pain은 이 도구들로 진단·배제하지 않고 임상 양상·병력으로 판단
-* 분류 결과에 따라 Step 2의 약물 선택이 결정됨
-
-#### <mark style="color:$primary;">Step 2. 강도 및 유형별 약물 선택</mark>
-
-<mark style="color:cyan;">**통증 유형별 처방**</mark>
-
-<table data-search="false"><thead><tr><th width="216">유형</th><th width="264">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>Nociceptive (경증)</td><td>Acetaminophen, 외용 또는 경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td>Nociceptive (중등증~중증)</td><td>NSAID ± 단기 opioid (신중)</td><td>opioid는 최후 수단</td></tr><tr><td>Neuropathic</td><td>Pregabalin/gabapentin 또는 Duloxetine</td><td>삼차신경통: carbamazepine</td></tr><tr><td>Nociplastic</td><td>비약물(CBT·운동) 우선<br>+ SNRI(duloxetine)</td><td>NSAID 단독 효과 제한적</td></tr><tr><td>Mixed</td><td>NSAID + neuropathic agent 병용</td><td>비율에 따라 조합 조정</td></tr><tr><td>염증성</td><td>NSAID (선택제는 위험 인자 고려)</td><td>-</td></tr><tr><td>근육통</td><td>NSAID ± 단기 근이완제</td><td>2~4주 이내 제한</td></tr></tbody></table>
-
-<mark style="color:cyan;">**위험 인자별 NSAID 선택**</mark>
-
-<table><thead><tr><th width="144">위험 인자</th><th>우선 선택</th></tr></thead><tbody><tr><td>GI risk ↑</td><td>Celecoxib + PPI</td></tr><tr><td>CV risk ↑</td><td>NSAID 회피 우선; 불가피 시 naproxen을 상대적으로 고려 (최소 용량·최단 기간, COX-2 억제제 주의)</td></tr><tr><td>Renal risk ↑</td><td>외용 NSAID 우선</td></tr><tr><td>고령 / 다약제</td><td>외용 NSAID 우선 → 경구 최소 용량</td></tr></tbody></table>
-
-<mark style="color:cyan;">**침해수용성 통증**</mark>
-
-{% hint style="danger" %}
-**통증 강도(NRS)만으로 opioid를 자동 선택하지 않음.** NRS ≥7이라고 곧바로 opioid를 선택하지 않으며, 원인·통증 기전·기능 장애·예후·약물 위험도를 종합하여 결정함.
-{% endhint %}
-
-* 1차 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
-* 비-opioid 치료로 조절되지 않고 기능 장애가 명확한 경우 : NSAID ± weak opioid 신중 병용 (tramadol 포함 - opioid와 동일한 주의 적용)
-* 중증이거나 비-opioid 치료 실패, 기능 장애가 심각한 경우 : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid ± 보조 치료
-* WHO 3단계 진통 사다리(analgesic ladder) : 1단계 비마약성 진통제(± 보조제) → 2단계 약한 opioid(± 비마약성 진통제 ± 보조제) → 3단계 중등도\~중증 opioid(± 비마약성 진통제 ± 보조제)로 상향하는 체계. 원래 WHO가 암성 통증(cancer pain) 완화를 위해 제시한 모델이며, 비암성 통증에는 그대로 적용하지 않음 - 비암성 통증은 통증 강도만이 아니라 원인·기전·기능 장애·약물 위험도를 함께 고려하는 개별화된 접근이 원칙
-
-<mark style="color:cyan;">**신경병성 통증**</mark>
-
-* 1차 (1st line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선) 중 하나를 선택; 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
-* 반응 불충분 시 : 다른 1차 약제로 전환을 우선 고려; 부분 반응 시 신중한 병용 고려(예: pregabalin + duloxetine - 병용 근거는 아직 제한적이며 NICE도 병용요법의 근거 부족을 지적함); tramadol은 급성 rescue가 필요한 경우로 제한
-* opioid 장기 사용은 일반적으로 권장하지 않음; 중증/난치성 통증에서는 전문의(통증클리닉) 의뢰 고려. 국소 lidocaine patch (대상포진 후 신경통, PHN에서 2nd-line), botulinum toxin (PHN·삼차신경통 등 일부 적응증에서 고려)
-
-#### <mark style="color:$primary;">Step 3. 재평가 및 조정 (Re-evaluation)</mark>
-
-* 일반 진통제(NSAID 등)는 급성 1\~2주, 만성 2\~4주 이내 반응 평가; gabapentinoid 등 titration이 필요한 약제는 충분한 적정 기간(수 주) 고려; opioid는 시작 또는 증량 후 1\~4주 이내 재평가(CDC 2022)
-* 목표 달성(약 30% 이상의 clinically meaningful pain reduction 및/또는 환자에게 중요한 기능 개선) 시 : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
-* 목표 미달 (효과 부족 또는 부작용) 시
-  1. 통증 유형 재검토 : 신경병성 요소가 간과되지 않았는가?
-  2. Opioid 회전 : MME는 근사 참고값일 뿐 직접적인 등가 처방량으로 사용하지 않음; 불완전 교차내성을 고려하여 계산된 equianalgesic dose에서 통상 25\~50% 감량하여(즉 계산 용량의 약 50\~75%로) 시작하고 약제별 특성에 따라 추가 감량·개별 titration. Fentanyl·methadone 등은 단순 MME 비례 환산을 피함
-  3. 중재적 시술 고려 : 신경 차단술, IMS(근육 내 자극 치료) 등 비약물적 치료 병행
-
 ## <mark style="color:green;">비-약물 치료 및 재발 예방</mark>
 
 * 균형 잡힌 건강한 식사
@@ -255,13 +205,12 @@ flowchart TD
 * 금연
 * 온/냉찜질, 물리 치료, chiropractic, 침, 근육 강화 및 이완 운동 (온/냉찜질·침·chiropractic은 근거 수준이 낮거나 논란이 있어 보조적 수단으로 활용)
 * 인지행동 요법, 요가, 심호흡, mindfulness
-* 비타민 D : 결핍(25(OH)D ＜20 ng/mL)과 근골격계 통증·섬유근통의 연관성이 보고되나, 결핍이 없는 환자에서 통증 목적의 routine supplementation은 효과가 입증되지 않아 권고하지 않음; 만성 통증 환자에서 혈중 25(OH)D 측정 후 결핍이 확인된 경우에만 보충 고려
 
-<mark style="color:cyan;">**통증의 파국화 방지**</mark>
+- [ ] 비타민 D : 결핍(25(OH)D ＜20 ng/㎖)과 근골격계 통증·섬유근통의 연관성이 보고되나, 결핍이 없는 환자에서 통증 목적의 routine supplementation은 효과가 입증되지 않아 권고하지 않음; 만성 통증 환자에서 혈중 25(OH)D 측정 후 결핍이 확인된 경우에만 보충 고려
 
-* Central sensitization(중추 감작)이 진행하면 말초 자극이 없어도 통증이 지속·증폭됨. 파국화는 이를 심화시키는 심리적 증폭 반응임
-* 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 상태를 교정함; 만성 통증은 신체 손상 신호가 아니라 '예민해진 신경계의 오작동'임을 설명
-* Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
+* 통증의 파국화(catastrophizing) 방지를 위한 상담
+  * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 파국화를 교정함; 만성 통증은 신체 손상 신호가 아니라 예민해진 신경계의 오작동(central sensitization)임을 설명 (☞ 위 일반 사항 > Central sensitization 참조)
+  * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
 
 <table><thead><tr><th width="322">Hurt (아픈 느낌)</th><th>Harm (실제 손상)</th></tr></thead><tbody><tr><td>예민해진 신경계가 보내는 신호</td><td>조직이 실제로 파괴되는 상태</td></tr><tr><td>움직여도 대개 안전함</td><td>red flag 동반 시에만 의심</td></tr><tr><td>활동을 점진적으로 늘려 완화 가능(pacing)</td><td>절대안정으로 오히려 악화될 수 있음</td></tr></tbody></table>
 
@@ -271,6 +220,56 @@ flowchart TD
   3. Pt. "약 없이는 한순간도 못 버텨요." - Dr. "약은 통증 조절의 도구 중 하나입니다. 호흡과 이완 요법도 함께 사용해 봅시다."
 
 ## <mark style="color:green;">약물 치료</mark>
+
+#### <mark style="color:$primary;">통증 양상별 약물 선택</mark>
+
+* 통증의 성격(침해수용성 vs 신경병성)을 구분하고, 통증의 강도(NRS)에 따라 단계적으로 접근
+* "Start Low, Go Slow"
+  * 고령, frailty, 신·간기능 저하, CNS depressant 병용 등 약물 부작용 위험이 높은 환자에서는 저용량으로 시작하여 서서히 증량; 신배설 약물은 신기능에 따라 용량 조절
+  * 기능적 목표 설정 : 환자에게 "통증 때문에 못 하던 어떤 활동을 다시 하고 싶은지"를 물어 구체적 목표를 설정
+  * 병용 금기 약제 주의 : 예) benzodiazepine 복용 여부를 확인하여 마약성 진통제 처방 시 호흡 억제 위험을 차단
+
+<mark style="color:cyan;">**Step 1. 통증 유형 분류 (Pain Typing)**</mark>
+
+* 통증 기전(mechanism)에 따라 nociceptive/neuropathic/nociplastic/mixed로 분류 (정의·특징·감별 요점 ☞ [일반 사항 > 유형](001_-pain.md#undefined-2))
+* 선별 도구 : neuropathic 요소는 DN4(4점 이상 시 가능성 높음)·painDETECT로 평가; nociplastic pain은 이 도구들로 진단·배제하지 않고 임상 양상·병력으로 판단
+* 분류 결과에 따라 Step 2의 약물 선택이 결정됨
+
+<mark style="color:cyan;">**Step 2. 강도 및 유형별 약물 선택**</mark>
+
+**통증 유형별 처방**
+
+<table data-search="false"><thead><tr><th width="216">유형</th><th width="264">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>Nociceptive (경증)</td><td>Acetaminophen, 외용 또는 경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td>Nociceptive (중등증~중증)</td><td>NSAID ± 단기 opioid (신중)</td><td>opioid는 최후 수단</td></tr><tr><td>Neuropathic</td><td>Pregabalin/gabapentin 또는 Duloxetine</td><td>삼차신경통: carbamazepine</td></tr><tr><td>Nociplastic</td><td>비약물(CBT·운동) 우선<br>+ SNRI(duloxetine)</td><td>NSAID 단독 효과 제한적</td></tr><tr><td>Mixed</td><td>NSAID + neuropathic agent 병용</td><td>비율에 따라 조합 조정</td></tr><tr><td>염증성</td><td>NSAID (선택제는 위험 인자 고려)</td><td>-</td></tr><tr><td>근육통</td><td>NSAID ± 단기 근이완제</td><td>2~4주 이내 제한</td></tr></tbody></table>
+
+**위험 인자별 NSAID 선택**
+
+<table><thead><tr><th width="144">위험 인자</th><th>우선 선택</th></tr></thead><tbody><tr><td>GI risk ↑</td><td>Celecoxib + PPI</td></tr><tr><td>CV risk ↑</td><td>NSAID 회피 우선; 불가피 시 naproxen을 상대적으로 고려 (최소 용량·최단 기간, COX-2 억제제 주의)</td></tr><tr><td>Renal risk ↑</td><td>외용 NSAID 우선</td></tr><tr><td>고령 / 다약제</td><td>외용 NSAID 우선 → 경구 최소 용량</td></tr></tbody></table>
+
+**침해수용성 통증**
+
+{% hint style="danger" %}
+통증 강도(NRS)만으로 opioid를 자동 선택하지 않음. NRS ≥7이라고 곧바로 opioid를 선택하지 않으며, 원인·통증 기전·기능 장애·예후·약물 위험도를 종합하여 결정함.
+{% endhint %}
+
+* 1차 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
+* 비-opioid 치료로 조절되지 않고 기능 장애가 명확한 경우 : NSAID ± weak opioid 신중 병용 (tramadol 포함 - opioid와 동일한 주의 적용)
+* 중증이거나 비-opioid 치료 실패, 기능 장애가 심각한 경우 : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid ± 보조 치료
+* WHO 3단계 진통 사다리(analgesic ladder) : 1단계 비마약성 진통제(± 보조제) → 2단계 약한 opioid(± 비마약성 진통제 ± 보조제) → 3단계 중등도\~중증 opioid(± 비마약성 진통제 ± 보조제)로 상향하는 체계. 원래 WHO가 암성 통증(cancer pain) 완화를 위해 제시한 모델이며, 비암성 통증에는 그대로 적용하지 않음 - 비암성 통증은 통증 강도만이 아니라 원인·기전·기능 장애·약물 위험도를 함께 고려하는 개별화된 접근이 원칙
+
+**신경병성 통증**
+
+* 1차 (1st line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선) 중 하나를 선택; 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
+* 반응 불충분 시 : 다른 1차 약제로 전환을 우선 고려; 부분 반응 시 신중한 병용 고려(예: pregabalin + duloxetine - 병용 근거는 아직 제한적이며 NICE도 병용요법의 근거 부족을 지적함); tramadol은 급성 rescue가 필요한 경우로 제한
+* opioid 장기 사용은 일반적으로 권장하지 않음; 중증/난치성 통증에서는 전문의(통증클리닉) 의뢰 고려. 국소 lidocaine patch (대상포진 후 신경통, PHN에서 2nd-line), botulinum toxin (PHN·삼차신경통 등 일부 적응증에서 고려)
+
+<mark style="color:cyan;">**Step 3. 재평가 및 조정 (Re-evaluation)**</mark>
+
+* 일반 진통제(NSAID 등)는 급성 1\~2주, 만성 2\~4주 이내 반응 평가; gabapentinoid 등 titration이 필요한 약제는 충분한 적정 기간(수 주) 고려; opioid는 시작 또는 증량 후 1\~4주 이내 재평가(CDC 2022)
+* 목표 달성(약 30% 이상의 clinically meaningful pain reduction 및/또는 환자에게 중요한 기능 개선) 시 : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
+* 목표 미달 (효과 부족 또는 부작용) 시
+  1. 통증 유형 재검토 : 신경병성 요소가 간과되지 않았는가?
+  2. Opioid 회전 : MME는 근사 참고값일 뿐 직접적인 등가 처방량으로 사용하지 않음; 불완전 교차내성을 고려하여 계산된 equianalgesic dose에서 통상 25\~50% 감량하여(즉 계산 용량의 약 50\~75%로) 시작하고 약제별 특성에 따라 추가 감량·개별 titration. Fentanyl·methadone 등은 단순 MME 비례 환산을 피함
+  3. 중재적 시술 고려 : 신경 차단술, IMS(근육 내 자극 치료) 등 비약물적 치료 병행
 
 ### <mark style="color:orange;">Acetaminophen</mark>
 
@@ -523,7 +522,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
   * 무릎 골관절염에 대한 둘록세틴 처방은 'NSAIDs에 반응하지 않는 경우'에만 인정. NSAIDs를 일정 기간 먼저 사용한 기록이 차트에 반드시 선행되어야 함
 * fluoxetine : 섬유근육통; 20\~80 ㎎/d qd <mark style="color:blue;">\[푸로작]</mark>
 * tapentadol은 opioid계 이중기전 진통제(μ-opioid agonist + norepinephrine reuptake inhibition)로, 통상적 SNRI 항우울제와는 별도로 분류함 - ☞ 아래 [Opioids > Tapentadol](001_-pain.md#tapentadol) 참조
-* 항우울제 [보험 인정 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&sno=1\&mtgMtrRegSno=0004) : 우울 증상이 지속적으로 2주 이상 계속되는 경우에 상용량으로 60일 범위 내에서 인정함
+* 항우울제 [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101\&sno=1\&mtgMtrRegSno=0004) : 우울 증상이 지속적으로 2주 이상 계속되는 경우에 상용량으로 60일 범위 내에서 인정함
 
 ### <mark style="color:orange;">Benzodiazepines</mark>
 
