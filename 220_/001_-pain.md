@@ -33,7 +33,7 @@
 * 수치 평가 척도(numeric rating scale, NRS) : 0\~10 숫자 중 현재 통증 강도를 선택; 0=통증 없음 \~ 10=상상할 수 없는 극심한 통증; 구두로 즉시 측정 가능하여 임상에서 가장 널리 사용됨
 * 시각적 아날로그 통증 스케일(visual analogue scale, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
 
-<figure><img src="../.gitbook/assets/통증1.png" alt="" width="563"><figcaption><p><strong>시각적 아날로그 통증 스케일(visual analogue scale, VAS)</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/통증2 (2).png" alt=""><figcaption><p><strong>시각적 아날로그 통증 스케일(visual analogue scale, VAS)</strong></p></figcaption></figure>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
