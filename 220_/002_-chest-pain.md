@@ -509,13 +509,10 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ### <mark style="color:red;">질병코드</mark>
 
-R07.1 숨쉴 때의 흉통
-
-R07.2 심장부의 통증
-
-R07.3 기타 흉통
-
-R07.4 상세불명의 흉통
+* R07.1 숨쉴 때의 흉통
+* R07.2 심장부의 통증
+* R07.3 기타 흉통
+* R07.4 상세불명의 흉통
 
 ***
 
