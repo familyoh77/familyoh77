@@ -2,11 +2,11 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 후각 및 미각은 소화액 분비를 촉진하므로 이 기능의 장애는 소화 장애, 식욕 감퇴, 체중 감소, 영양실조, 삶의 질 저하 및 사망률 증가와 연관됨
+* 후각 및 미각은 소화액 분비를 촉진하는 등 섭식과 밀접하게 연관되며, 이 기능의 장애는 식욕 감퇴·체중 감소·영양실조와 연관되고 삶의 질 저하, 정신건강 문제, 사망률 증가와도 연관성이 보고됨(인과관계가 확립된 것이라기보다는 역학적 연관성 수준)
 * 다른 이름 : 후각 저하/소실(Hyposmia/Anosmia), 미각 저하/소실(Hypogeusia/Ageusia), 미각 왜곡(Dysgeusia), 이취증(Parosmia), 환각취(Phantosmia)
-* 분류 (ICAR:O, 2022) : 후각 장애는 기전에 따라 Conductive(전도성)와 Sensorineural(신경감각성)로 구분하며, 미각 장애는 구강·신경계·전신 원인으로 구분함
+* 분류 (ICAR:O 2022, Position Paper on Olfactory Dysfunction 2023) : 공식 분류는 기능 양상(정량적 장애 - anosmia/hyposmia; 정성적 장애 - parosmia/phantosmia)과 원인(비부비동성, 감염 후, 외상 후, 신경계 질환, 선천성, 약물·독소, 의인성, 노화 관련, 특발성 등)을 우선 축으로 함; Conductive(전도성)/Sensorineural(신경감각성) 구분은 해부학적 관점의 실용적 구분으로 1차 진료에서 치료 방향을 잡는 데 유용하나 공식 주분류는 아니며, 신경퇴행성 질환처럼 중추성 요소가 큰 경우 단순히 sensorineural로 묶기에는 한계가 있음; 미각 장애는 구강·신경계·전신 원인으로 구분함
 * 후각 및 미각 기능 저하는 고령에서 흔하며 연령 증가에 따라 유병률이 증가함; 자가보고와 객관적 기능검사 등 측정 방법에 따라 보고되는 유병률에는 상당한 차이가 있음
-* 후각 저하가 미각 저하보다 흔하며, 상당수의 경우 환자가 "맛을 못 느낀다"고 호소할 때 실제로는 코 뒤로 넘어가는 향(Retronasal olfaction)의 문제임 - 이는 엄밀히 '미각(Taste)'이 아닌 '풍미(Flavor)'의 소실이며, 코 문제 해결 후 미각 회복까지는 시간이 필요함
+* 후각 저하가 미각 저하보다 흔하며, 상당수의 경우 환자가 "맛을 못 느낀다"고 호소할 때 실제로는 코 뒤로 넘어가는 향(Retronasal olfaction)의 문제임 - 이는 엄밀히 '미각(Taste)'이 아닌 '풍미(Flavor)'의 소실이며, 코 문제(후각)가 회복되면 풍미도 함께 호전될 수 있음
 * 후각 상실은 알츠하이머병·파킨슨병 등 뇌 퇴행성 질환의 조기 증상일 수 있음
 * 후각 장애의 자연 회복률은 원인에 따라 크게 다름
   * Post-viral (바이러스 감염 후) : 장기 추적에서 상당수가 부분적으로 호전되지만 회복률은 평가 방법·추적 기간에 따라 크게 다름(주관적 호전은 60\~80% 이상 보고되기도 함)
@@ -19,7 +19,7 @@
   * Conductive (전도성) : 비용종, 비중격 만곡, 비염 등 기류(Airflow) 장애가 원인 - 비강 치료에 반응 가능
   * Sensorineural (신경감각성) : 바이러스 감염, 두부 외상, 신경퇴행성 질환 등 - 후각 훈련 중심 치료
 
-## <mark style="color:green;">원인 및 관련 인자</mark>
+## <mark style="color:green;">원인 및 위험 인자</mark>
 
 #### <mark style="color:$primary;">후각 장애 - Conductive (전도성)</mark>
 
@@ -62,6 +62,7 @@
 * 기전 : 후각 신경 재생 과정의 비정상적 신호 전달과 후각구·중추 후각 회로의 처리 변화 등이 관여하는 것으로 추정됨; 바이러스 감염 후 회복 과정에서 흔히 나타날 수 있으나 단순한 말초 신경의 ‘miswiring’만으로 설명되지는 않음
 * 증상 : "커피에서 타는 고무 냄새", "음식에서 하수구·썩은 냄새" 등 특정 냄새 유발 물질에 의해 유발됨; 증상이 불쾌하여 식욕 저하·체중 감소로 이어질 수 있음
 * 환자에게 바이러스 감염 후 후각이 회복되는 과정에서 흔히 나타날 수 있으며 반드시 나쁜 예후를 의미하지 않는다고 설명하면 불안감 완화에 도움
+* 치료 : 후각 훈련이 1차 접근이며(☞ 비-약물 치료 참조); theophylline, sodium citrate, 비강 내 인슐린, 성상신경절차단술(Stellate Ganglion Block) 등은 위약대조 임상시험에서 뚜렷한 효과가 확인되지 않아(2025년 기준) 표준 치료로 권고되지 않음; 후각 틈새 혈소판 풍부 혈장(PRP) 주사는 일부 대조 연구에서 유망한 결과가 보고되고 있으나 연구 수가 적고 프로토콜이 표준화되지 않아 아직 일상적 치료로 권고하지 않음; 비급여로 시행되는 시술을 문의하는 환자에게는 현재 근거 수준을 설명
 
 **환각취(Phantosmia)**&#x20;
 
@@ -73,21 +74,21 @@
 
 ※ 약물 관련 후각·미각 장애의 근거 수준은 약제마다 차이가 크며 일부는 증례보고 또는 약물감시 자료에 근거함. 증상 발생 시 투약 시작·용량 변경과의 시간적 연관성, 다른 원인 가능성, 중단 또는 변경 후 회복 여부를 함께 평가
 
-1. **항생제 및 항균제**
+1\. **항생제 및 항균제**
 
-<table data-header-hidden><thead><tr><th width="159"></th><th width="257"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>마크롤라이드계</td><td>Clarithromycin, Azithromycin</td><td>쓴맛 또는 금속성 맛 유발이 흔함</td></tr><tr><td>퀴놀론계</td><td>Ciprofloxacin, Ofloxacin</td><td>미각 변화 보고</td></tr><tr><td>테트라사이클린계</td><td>Doxycycline, Tetracycline</td><td>설태 침착 및 미각 이상, Black hairy tongue 가능성</td></tr><tr><td>기타 항균제</td><td>Metronidazole</td><td>금속성 맛의 대표적 원인 약물; Black hairy tongue 보고가 있음</td></tr><tr><td>아미노글리코사이드</td><td>Amikacin</td><td>가역적 후각 소실(일과성 무후각증)이 드물게 보고됨</td></tr><tr><td>페니실린</td><td>Ampicillin</td><td>일시적 후각 저하가 드물게 보고됨</td></tr><tr><td>β-lactam 억제제</td><td>Amoxicillin-clavulanate 등</td><td>Black hairy tongue 유발 보고</td></tr><tr><td>항진균제</td><td>Terbinafine</td><td>드물게 장기적인 미각 상실 유발 가능; 복용 중단 후에도 수개월간 지속될 수 있으므로 처방 전 환자에게 고지 필요</td></tr><tr><td>구강 세정제</td><td>Chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
+<table><thead><tr><th width="159">세부 분류</th><th width="257">약물 명칭</th><th>특징 및 비고</th></tr></thead><tbody><tr><td>마크롤라이드계</td><td>Clarithromycin, Azithromycin</td><td>쓴맛 또는 금속성 맛 유발이 흔함</td></tr><tr><td>퀴놀론계</td><td>Ciprofloxacin, Ofloxacin</td><td>미각 변화 보고</td></tr><tr><td>테트라사이클린계</td><td>Doxycycline, Tetracycline</td><td>설태 침착 및 미각 이상, Black hairy tongue 가능성</td></tr><tr><td>기타 항균제</td><td>Metronidazole</td><td>금속성 맛의 대표적 원인 약물; Black hairy tongue 보고가 있음</td></tr><tr><td>아미노글리코사이드</td><td>Amikacin</td><td>가역적 후각 소실(일과성 무후각증)이 드물게 보고됨</td></tr><tr><td>페니실린</td><td>Ampicillin</td><td>일시적 후각 저하가 드물게 보고됨</td></tr><tr><td>β-lactam 억제제</td><td>Amoxicillin-clavulanate 등</td><td>Black hairy tongue 유발 보고</td></tr><tr><td>항진균제</td><td>Terbinafine</td><td>드물게 장기적인 미각 상실 유발 가능; 복용 중단 후에도 수개월간 지속될 수 있으므로 처방 전 환자에게 고지 필요</td></tr><tr><td>구강 세정제</td><td>Chlorhexidine</td><td>장기 사용 시 치아 착색 및 미각 저하</td></tr></tbody></table>
 
 2\. **항고혈압제 및 심혈관계 약물** : 미각 이상과 연관될 수 있으며 일부 약물은 구강건조 또는 아연 대사 변화가 관여할 수 있음
 
-<table data-header-hidden><thead><tr><th width="159"></th><th width="257"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>ACE 억제제</td><td>Captopril, Enalapril</td><td>미각상실증(Ageusia)·미각 왜곡의 대표적 원인 계열; captopril이 가장 잘 알려짐; 아연 킬레이션 기전</td></tr><tr><td>ARB</td><td>Losartan</td><td>미각 이상 보고; ACE 억제제에 비해 빈도 낮으나 주의</td></tr><tr><td>칼슘채널차단제</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진으로 인한 미각 저하</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td>미각 저하 및 구강 건조 보고</td></tr></tbody></table>
+<table><thead><tr><th width="159">세부 분류</th><th width="257">약물 명칭</th><th>특징 및 비고</th></tr></thead><tbody><tr><td>ACE 억제제</td><td>Captopril, Enalapril</td><td>미각상실증(Ageusia)·미각 왜곡의 대표적 원인 계열; captopril이 가장 잘 알려짐; 아연 킬레이션이 기전으로 제시되나 확립된 것은 아님</td></tr><tr><td>ARB</td><td>Losartan</td><td>미각 이상 보고; ACE 억제제에 비해 빈도 낮으나 주의</td></tr><tr><td>칼슘채널차단제</td><td>Diltiazem, Nifedipine</td><td>구강 건조 및 잇몸 증식 동반 가능</td></tr><tr><td>이뇨제</td><td>Hydrochlorothiazide, Spironolactone, Amiloride, Acetazolamide</td><td>아연 배설 촉진이 관여할 것으로 추정되는 미각 저하 보고</td></tr><tr><td>베타차단제</td><td>Propranolol</td><td>미각 저하 및 구강 건조 보고</td></tr></tbody></table>
 
 3\. **신경정신과 약물** (항우울제/항경련제/기타)
 
-<table data-header-hidden><thead><tr><th width="159"></th><th width="257"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>SSRI</td><td>Paroxetine (기타 SSRI 포함)</td><td>미각 이상, 구강 건조 보고; paroxetine에서 상대적으로 흔하게 보고됨</td></tr><tr><td>삼환계 항우울제</td><td>Amitriptyline, Nortriptyline, Doxepin, Imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td>항경련제</td><td>Carbamazepine</td><td>쓴 맛의 환각미각(Bitter phantogeusia) 보고; 드물게 미각 소실 가능</td></tr><tr><td>항경련제</td><td>Phenytoin</td><td>미각 저하(Hypogeusia) 또는 미각 소실 보고; 특히 정맥 투여 시</td></tr><tr><td>조울증 치료제</td><td>Lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
+<table><thead><tr><th width="159">세부 분류</th><th width="257">약물 명칭</th><th>특징 및 비고</th></tr></thead><tbody><tr><td>SSRI</td><td>Paroxetine (기타 SSRI 포함)</td><td>미각 이상, 구강 건조 보고; paroxetine에서 상대적으로 흔하게 보고됨</td></tr><tr><td>삼환계 항우울제</td><td>Amitriptyline, Nortriptyline, Doxepin, Imipramine</td><td>강력한 항콜린 작용으로 구강 건조 유발</td></tr><tr><td>항경련제</td><td>Carbamazepine</td><td>쓴 맛의 환각미각(Bitter phantogeusia) 보고; 드물게 미각 소실 가능</td></tr><tr><td>항경련제</td><td>Phenytoin</td><td>미각 저하(Hypogeusia) 또는 미각 소실 보고(정맥 투여 시 보고가 더 많음)</td></tr><tr><td>조울증 치료제</td><td>Lithium</td><td>금속성 맛 유발 가능</td></tr></tbody></table>
 
 4\. **기타 약물** (내분비/항암제/파킨슨)
 
-<table data-header-hidden><thead><tr><th width="159"></th><th width="257"></th><th></th></tr></thead><tbody><tr><td>세부 분류</td><td>약물 명칭</td><td>특징 및 비고</td></tr><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td>미각 이상 보고; 일부에서 금속성 환각 미각</td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병제</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>Platinum 계열 (Cisplatin, Oxaliplatin), 기타 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡; platinum 계열에서 특히 빈도 높음; 치료 시작 전 환자에게 미리 안내 권장</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
+<table><thead><tr><th width="159">세부 분류</th><th width="257">약물 명칭</th><th>특징 및 비고</th></tr></thead><tbody><tr><td>항이상지질혈증</td><td>Statin (Atorvastatin 등)</td><td>미각 이상 보고; 일부에서 금속성 환각 미각</td></tr><tr><td>항갑상선제</td><td>Methimazole, Propylthiouracil</td><td>미각 및 후각 기능 저하 보고</td></tr><tr><td>항파킨슨병제</td><td>Levodopa, Carbidopa</td><td>파킨슨병 자체가 후각 저하를 유발하므로 질환과 약물 효과를 구분하기 어려움</td></tr><tr><td>항암제</td><td>Platinum 계열 (Cisplatin, Oxaliplatin), 기타 세포독성 항암제</td><td>미뢰 세포 손상으로 인한 심한 미각 왜곡; platinum 계열에서 특히 빈도 높음; 치료 시작 전 환자에게 미리 안내 권장</td></tr><tr><td>항당뇨병제</td><td>Metformin</td><td>금속성 맛 유발; 비교적 흔함</td></tr><tr><td>항류마티스제</td><td>Penicillamine</td><td>아연 길항 작용으로 미각 소실 잘 알려짐</td></tr></tbody></table>
 
 ※ 대표적인 금속성 맛(Metallic taste) : metronidazole, clarithromycin, metformin, lithium - 해당 약물 복용 중 금속 맛 호소 시 우선 확인
 
@@ -105,7 +106,7 @@
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 급성 중추신경계·두개저 손상 시사</mark>
 
 * 갑작스러운 후각 소실과 함께 새로 발생한 국소 신경학적 결손, 심한 두통, 의식 변화, 시야 이상 등이 동반 → 뇌졸중 등 급성 중추신경계 병변 감별
-* 두부 외상 후 후각 소실 + 일측성 맑은 수양성 비루(간헐적 또는 지속적이며, 고개를 앞으로 숙일 때 증가하거나 짠맛·단맛의 후비루를 동반) → CSF leak/두개저 골절 의심, 의식 변화·국소 신경학적 이상 동반 시 응급 평가
+* 두부 외상 후 후각 소실 + 일측성 맑은 수양성 비루(간헐적 또는 지속적; 고개를 앞으로 숙일 때 증가하거나 짠맛·단맛의 후비루는 시사 소견일 뿐 확진 소견은 아님) → CSF leak/두개저 골절 의심; 신경학적 이상이 동반되지 않아도 비루 자체가 신속한 응급·전문 평가 사유이며, 비루 검체의 β2-transferrin 또는 β-trace protein, 고해상도 CT 등으로 확인
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
@@ -115,7 +116,7 @@
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 지속·진행 시 의뢰</mark>
 
-* 비부비동 치료 후에도 4주 이상 지속되거나 원인이 불명확한 후각 장애
+* 명확한 감염 후 원인의 양측성 후각 장애가 예상된 경과 없이 객관적으로 지속되는 경우 - 절대적 기간보다 임상 경과로 판단하며, 통상 3개월을 재평가·ENT 의뢰 시점의 기준으로 삼음 (편측성·진행성·구조적 병변 의심 등은 기간과 무관하게 조기 의뢰 - Tier 2 참조)
 * 후각 소실 + 파킨슨 징후(서동, 경직), REM 수면 행동 장애 또는 인지 저하 → 계획된 신경과 평가 고려
 * 후각·미각 소실 + 설명되지 않는 체중 감소 또는 영양 섭취 장애
 
@@ -123,13 +124,27 @@
 
 ### <mark style="color:orange;">후각 장애 분류 - Conductive vs Sensorineural</mark>
 
-<table><thead><tr><th width="140">구분</th><th width="210">주요 원인</th><th width="190">임상 특징</th><th>치료 방향</th></tr></thead><tbody><tr><td>Conductive (전도성)</td><td>비용종, 만성 비부비동염(CRS), 비염, 비중격 만곡증</td><td>코막힘·콧물 동반; 간헐적 변동 가능</td><td>INCS, 비염 치료, 비용종 치료(FESS); 치료 반응 가능성 높음</td></tr><tr><td>Sensorineural (신경감각성)</td><td>바이러스 감염 후, 두부 외상, 신경퇴행성 질환, COVID-19</td><td>코막힘 없이 발생; 급성 발병 또는 서서히 진행</td><td>후각 훈련 중심; 전신 스테로이드 routine X; 지속 시 ENT·신경과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="140">구분</th><th width="210">주요 원인</th><th width="190">임상 특징</th><th>치료 방향</th></tr></thead><tbody><tr><td>Conductive (전도성)</td><td>비용종, 만성 비부비동염(CRS), 비염, 비중격 만곡증</td><td>코막힘·콧물 동반; 간헐적 변동 가능</td><td>INCS, 비염 치료, 비용종 치료(ESS, Endoscopic Sinus Surgery); 치료 반응 가능성 높음</td></tr><tr><td>Sensorineural (신경감각성)</td><td>바이러스 감염 후, 두부 외상, 신경퇴행성 질환, COVID-19</td><td>코막힘 없이 발생; 급성 발병 또는 서서히 진행</td><td>후각 훈련 중심; 전신 스테로이드 routine X; 지속 시 ENT·신경과 의뢰</td></tr></tbody></table>
+
+### <mark style="color:orange;">병력 청취</mark>
+
+* 발생 시점 및 경과 : 급성/점진적 발생, 이후 호전·변동 여부
+* 편측성 여부 : 양측성 vs 편측성
+* 정량적 저하(hyposmia/anosmia)와 정성적 이상(parosmia/phantosmia) 동반 여부
+* 선행 요인 : URI/COVID-19, 두부 외상, 비강·부비동·두개저 수술 병력
+* 동반 비증상 : 코막힘, 비루, 안면통, 비출혈
+* 약물력·노출력 : 최근 시작·증량된 약물, 흡연, 직업성 독성물질 노출
+* 소아·청소년에서는 선천성 가능성 및 사춘기 지연 여부 확인
+* 신경퇴행성 질환 관련 : 파킨슨 징후(서동, 경직), 인지 저하, REM 수면 행동 장애, 발작 의심 증상
+* 영양·정신 상태 : 체중 감소, 섭취 제한, 우울·불안
+* 미각 장애가 주 호소인 경우 : 구강 점막·치아·보철물·구강 칸디다증·타액 분비 확인, CN VII(chorda tympani)·CN IX 중심 뇌신경 진찰
 
 ### <mark style="color:orange;">검사</mark>
 
-* 보통 필요 없음; 감별을 위하여 선별적으로 고려
+* 모든 환자에게 일률적인 혈액검사나 영상검사가 필요한 것은 아니나, 지속성·원인 불명 후각 장애는 비내시경과 검증된 객관적 후각기능검사를 고려함(Position Paper 2023: 포괄적 평가에 병력, ENT 진찰·비내시경, 심리물리학적 후각검사, 필요 시 영상을 포함하도록 권고); 자가보고식 문진만으로는 객관적 후각기능과 잘 일치하지 않으므로 단독으로 의존하지 않음
 * 혈액 검사 : 모든 환자에게 routine 검사가 필요한 것은 아니며 병력·진찰에 따라 선택 - CBC, 혈당, Cr, TSH, Vit B12, 혈청 아연 등을 의심 원인에 따라 고려; 알레르기 질환이 의심되면 관련 검사를 선택적으로 고려
-* 영상 검사 : 비경/비내시경으로 비중격 만곡, 비용종, 비강·후각 틈새 병변을 평가; CT sinus는 CRS·비용종·후각 틈새 폐쇄 등 sinonasal disease 평가에, brain MRI는 원인 불명 또는 편측성 후각 장애, 신경학적 이상, 두개내 병변 의심 시 선택적으로 고려
+* 신체진찰 및 비내시경 : 비강·구강·혀·치아·타액분비·뇌신경 진찰; 비내시경으로 비중격 만곡, 비용종, 비강·후각 틈새 병변을 평가(전문 평가에서 후각 틈새를 포함한 비내시경이 중요)
+* 영상 검사 : CT sinus는 CRS·비용종·후각 틈새 폐쇄 등 sinonasal disease 평가에 사용; brain/olfactory pathway MRI는 명확한 감염 후·비부비동성 원인이 없고 객관적으로 지속되는 원인 불명 후각 장애, 편측성 장애, 진행성 경과, 신경학적 소견에서 ENT 평가 후 고려하며 '특발성'으로 확정하기 전 구조적 원인을 배제하는 목적으로 사용; 다만 고립성 후각장애에서 MRI로 치료 가능한 병변이 발견되는 진단수율은 낮으므로 모든 감염 후 후각장애에 일률적으로 시행하지 않음
 * 후각 기능 검사 : KVSS II (Korean Version of Sniffin' Sticks II) 또는 YOF test (YSK Olfactory Function Test, 한국 문화 친화적 후각검사) - 이비인후과 의뢰
   * Threshold (역치) : 가장 낮은 감지 가능 농도 측정
   * Discrimination (변별) : 서로 다른 냄새를 구분하는 능력
@@ -137,7 +152,7 @@
   * KVSS II : Threshold/Discrimination/Identification 3항목 합산, TDI 최고 48점
   * YOF test : 동일 3항목 구성이나 TDI 최고 36점; 무후각증 cut-off ≤14.5점, 저후각증 14.5\<TDI≤21.0점 - KVSS II와 점수 체계·cut-off가 다르므로 서로 바꿔 적용하지 않음
   * 두 검사 모두 연령 및 검사실 정상 참고범위를 함께 고려하여 판정하며, 국내 연구에서 제시된 cut-off는 연구·대상에 따라 차이가 있어 단일 수치를 모든 환자에게 일률적으로 적용하지 않음
-* 미각 기능 검사 : 이비인후과 의뢰
+* 미각 기능 검사 : 1차 진료에서 단맛·짠맛·신맛·쓴맛(필요 시 감칠맛)의 양측 또는 부위별 인지를 간단히 확인할 수 있음; 이상이 확인되거나 정량적 평가가 필요하면 taste strips, 전기미각검사 등 전문 검사를 위해 이비인후과 의뢰
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -186,7 +201,7 @@ graph TD
 * 금연
 * 독성 물질 노출 회피&#x20;
 
- ※ **후각 소실과 신경퇴행성 질환** : 후각 소실은 파킨슨병의 전구 증상(Prodrome)으로 진단 수년 전부터 나타날 수 있으며, 알츠하이머병에서도 조기에 관찰됨. 후각 소실 + REM 수면 행동 장애(RBD) 조합은 파킨슨 스펙트럼 질환의 고위험 신호 → 신경과 의뢰 고려
+ ※ **후각 소실과 신경퇴행성 질환** : 후각 소실은 파킨슨병의 전구 증상(Prodrome)으로 진단 수년 전부터 나타날 수 있으며, 알츠하이머병에서도 조기에 관찰됨. 후각 소실 + REM 수면 행동 장애(RBD) 조합은 파킨슨 스펙트럼 질환의 고위험 신호 → 신경과 의뢰 고려; 다만 고립된 후각 저하 소견만으로 파킨슨병·알츠하이머병을 예측하거나 선별진단하지 않으며, 다른 위험 신호(RBD, 인지저하, 파킨슨 징후)가 동반될 때 의뢰를 고려함
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -196,7 +211,7 @@ graph TD
 * 기간 : 최소 12주 이상 꾸준히 시행하고 임상 반응에 따라 24주 이상 연장 고려
 * 기본 방법 : 하루 2회, 각 향을 약 10\~20초씩 맡는 방식으로 시행
   * 장미(Rose), 유칼립투스(Eucalyptus), 레몬(Lemon), 정향(Clove) 4가지 향
-  * 깊게 들이마시는 것보다 짧게 킁킁거리는 방식(Sniffing)이 후각 수용체 자극에 효과적
+  * 무리하게 깊이 흡입하기보다 부드럽게 짧게 냄새를 맡는 방식(Sniffing)이 후각 수용체 자극에 유리하다는 생리학적 근거가 있으나, 이 방식 자체의 우월성을 직접 비교한 임상시험 근거는 부족함
   * 냄새를 맡을 때 해당 냄새를 의식적으로 인지하고 해당 사물을 떠올리며 집중하도록 지도할 수 있음
   * ✽오리지널 4종 향이 없는 경우, 환자에게 친숙한 향(예: 한약재, 원두커피, 참기름, 된장 등)으로 대체하여 훈련하는 것도 임상적으로 실용적임; 단, 이 대체 접근은 공식 가이드라인 권고 수준은 아님
 * Modified Olfactory Training : 총 36주 동안 12주마다 향 세트를 변경하는 방법이 연구됨; 일부 후각 지표의 추가 개선 가능성이 보고되었으나 표준 4종 향 훈련보다 일관되게 우월하다고 확정된 것은 아님
@@ -223,8 +238,8 @@ graph TD
 * 비염·CRS 등 염증성 비부비동 질환에 의한 후각 장애에서 사용
 * 적응증 : 비부비동 질환(비염, CRS, 비용종) 원인의 Conductive 후각 장애
 * 투여 방법 : 후각 틈새(Olfactory cleft)로 약물 전달을 증가시키기 위한 다양한 투여 자세·제형이 연구되었으나 특정 자세를 표준으로 권고할 근거는 충분하지 않음; 비강 분무제는 올바른 일반 사용법을 교육하고, CRS 등에서는 전문의 판단에 따라 점적액 또는 irrigation 제형을 고려
-* Fluticasone furoate <mark style="color:blue;">\[아바미스 나잘 스프레이]</mark> 각 비공 1\~2회 qd
-* Mometasone furoate <mark style="color:blue;">\[나조넥스 나잘 스프레이]</mark> 각 비공 2회 qd
+* fluticasone furoate <mark style="color:blue;">\[아바미스 나잘 스프레이]</mark> 각 비공 1\~2회 qd
+* mometasone furoate <mark style="color:blue;">\[나조넥스 나잘 스프레이]</mark> 각 비공 2회 qd
 * 효과 판정 : 원인 질환과 치료 반응에 따라 수주 후 재평가; 지속되거나 구조적 병변·CRS가 의심되면 ENT 의뢰 고려
 * Budesonide nasal irrigation : CRS 동반 중증 후각 장애에서 ENT 전문의 지도 하에 사용 가능(off-label); 1차 진료에서는 선택적 사용 또는 ENT 의뢰 후 지속
 
@@ -234,7 +249,7 @@ graph TD
 * 비특이적 후각 장애(post-viral 포함)에서 전신 스테로이드는 일상적(Routine) 사용 권고되지 않음
 * 선택적 사용 가능 상황 : 비용종 동반 CRS, 급성 심한 염증성 비부비동 질환 (단기 처방 후 ENT 의뢰)
 * 비용종 동반 CRS에서 단기 경구 스테로이드를 고려할 수 있으나 용량·기간은 질환 중증도와 환자 위험을 평가하여 결정; 반복 투여를 피하고 당뇨·고혈압·골다공증 등 동반 질환 시 특히 신중 사용
-* 적절한 국소 치료(INCS 등)에도 조절되지 않거나 전신 스테로이드가 반복적으로 필요한 중증 CRSwNP → ENT 의뢰하여 수술(FESS) 및 생물학적 제제 등 추가 치료를 평가 (1차 진료에서 생물학적 제제를 직접 결정하지 않음)
+* 적절한 국소 치료(INCS 등)에도 조절되지 않거나 전신 스테로이드가 반복적으로 필요한 중증 CRSwNP → ENT 의뢰하여 수술(ESS) 및 생물학적 제제 등 추가 치료를 평가 (1차 진료에서 생물학적 제제를 직접 결정하지 않음)
 
 ### <mark style="color:orange;">아연 보충</mark>&#x20;
 
@@ -258,9 +273,9 @@ R43 후각 및 미각 장애
 
 R43.0 무후각증 (Anosmia)
 
-R43.1 이취증 (Parosmia)
+R43.1 이상후각 (Parosmia)
 
-R43.2 이미각증 (Parageusia)
+R43.2 이상미각 (Parageusia)
 
 R43.8 기타 및 상세불명의 후각 및 미각 장애
 
@@ -274,24 +289,25 @@ R43.8 기타 및 상세불명의 후각 및 미각 장애
 > 나조넥스 나잘 스프레이 50 ㎍/spray   각 비공 2회 qd
 > ※ 올바른 비강 분무법을 교육; 특정 두부 자세를 표준으로 권고할 근거는 충분하지 않음
 > ※ 최소 4~8주 사용 후 효과 판정; 무반응 시 ENT 의뢰
-> ※ 비용종 동반 CRS는 내과적 치료 반응 불충분 시 FESS 고려 (ENT 협진)
+> ※ 비용종 동반 CRS는 내과적 치료 반응 불충분 시 ESS(내시경 부비동 수술) 고려 (ENT 협진)
 > ```
 
 > **처방례 2.** 비용종 동반 만성 비부비동염(CRSwNP)의 심한 증상 - 단기 경구 스테로이드 + INCS (선택적 사용)
 >
 > ```
-> Prednisolone   25 ㎎   qd   14일
+> prednisolone   25 ㎎   qd   14일
 > 나조넥스 나잘 스프레이   각 비공 2회 qd   지속
 > ※ 위 prednisolone 용량은 CRSwNP 무작위시험에서 사용된 대표 short-course 예시이며, 실제 용량·기간은 중증도와 환자 위험에 따라 조정
 > ※ 전신 스테로이드는 CRSwNP에서 선택적으로 단기간 사용하며, post-viral/idiopathic 후각 장애 자체를 목적으로 routine 투여하지 않음
 > ※ 당뇨·고혈압·골다공증·녹내장 등 기저 질환 및 반복 투여에 따른 누적 위험을 평가
-> ※ 치료 반응이 불충분하거나 반복적으로 전신 스테로이드가 필요한 경우 ENT 의뢰 - FESS/생물학적 제제 등 추가 치료 평가
+> ※ 치료 반응이 불충분하거나 반복적으로 전신 스테로이드가 필요한 경우 ENT 의뢰 - ESS/생물학적 제제 등 추가 치료 평가
 > ```
 
 > **처방례 3.** 혈청 아연 결핍 확인된 미각 장애
 >
 > ```
 > 아연황산 제제 (원소 아연 25~40 ㎎/일 범위의 예)   qd~bid   pc   8~12주
+> ※ 제품마다 아연염 종류(황산아연, 글루콘산아연 등)에 따라 정제당 원소 아연 함량이 다르므로, 실제 처방·권고 시 사용 제품의 원소 아연 함량을 확인; 전문의약품인지 건강기능식품인지 구분하여 안내
 > ※ 혈청 아연은 채혈 조건과 검사실 참고범위에 따라 해석하고, 임상적 결핍 위험을 함께 평가
 > ※ 미각 장애에 대한 단일 표준 용량은 확립되지 않았으므로 결핍 정도·제제·환자 상태에 따라 조정
 > ※ 2020 한국인 영양소 섭취기준상 성인 아연 UL은 35 ㎎/d(일반 영양섭취 기준)이나, 치료 목적으로 이를 초과하는 용량을 장기간 사용할 경우 구리 결핍(빈혈, 신경병증) 위험을 고려하여 모니터링
@@ -350,8 +366,8 @@ R43.8 기타 및 상세불명의 후각 및 미각 장애
 #### <mark style="color:$primary;">후각 훈련 방법 (하루 2회, 최소 12주 이상)</mark>
 
 * 장미, 유칼립투스, 레몬, 정향(Clove) 등 **4가지 향을 각각 20초씩** 맡으십시오
-* 깊게 들이마시는 것보다 **짧게 킁킁거리는 방식(Sniffing)**이 더 효과적입니다
-* 냄새를 맡을 때 해당 사물(예: 장미꽃)을 **머릿속으로 떠올리면서 집중**하십시오 - 훈련 효과가 향상됩니다
+* 무리하게 깊이 들이마시기보다 **부드럽게 짧게 냄새를 맡는 것**이 도움이 된다고 알려져 있습니다
+* 냄새를 맡을 때 해당 사물(예: 장미꽃)을 **머릿속으로 떠올리면서 집중**하면 도움이 될 수 있습니다
 * **최소 12주 이상** 꾸준히 시행하고, 필요에 따라 더 장기간 지속할 수 있습니다
 * 12주마다 사용하는 향의 조합을 바꾸는 modified olfactory training도 연구되어 있습니다. 다만 표준 4종 향 훈련보다 확실히 더 효과적이라고 단정할 근거는 아직 충분하지 않습니다
 
@@ -359,8 +375,8 @@ R43.8 기타 및 상세불명의 후각 및 미각 장애
 
 * COVID-19 등 바이러스 감염 후 회복 과정에서 음식에서 **타는 고무 냄새, 하수구 냄새** 등 불쾌한 냄새가 나는 경우가 있습니다. 이를 이취증(Parosmia)이라고 합니다.
 * 이 증상은 후각 신경 재생 과정의 비정상적 신호 전달과 중추 후각 처리 변화 등이 관여하는 것으로 추정됩니다. 바이러스 감염 후 회복 과정에서 흔히 나타날 수 있으며, 반드시 나쁜 예후를 의미하지는 않습니다.
-* 증상 유발 음식(커피, 고기류, 양파 등)을 일시적으로 피하고, 이취증 유발이 적은 음식(쌀밥, 감자, 달걀 등 담백한 식품)을 위주로 드시면 식사를 유지하는 데 도움이 됩니다.
-* 대부분 수개월\~1년 이내에 개선되지만, 이 기간 동안 식욕 저하와 체중 감소가 생길 수 있으므로 주치의와 정기적으로 상담하십시오.
+* 증상 유발 음식(커피, 고기류, 양파, 달걀 등)을 일시적으로 피하고, 이취증 유발이 적은 담백한 음식(쌀밥, 감자 등)이나 차갑거나 미지근한 음식을 위주로 드시면 식사를 유지하는 데 도움이 됩니다. 유발 식품은 개인차가 크므로 본인에게 맞는 음식을 기록해 두는 것이 도움이 됩니다.
+* 대부분 수개월에서 길게는 1년 이상에 걸쳐 서서히 호전되며, 일부는 더 오래 지속될 수 있습니다. 이 기간 동안 식욕 저하와 체중 감소가 생길 수 있으므로 주치의와 정기적으로 상담하십시오.
 * 미각이 저하된 경우 **감각에 의존하지 말고** 계량 스푼이나 레시피의 정해진 양으로 간을 맞추십시오. 과도한 소금·설탕·조미료 사용은 고혈압·당뇨 등 다른 건강 문제로 이어질 수 있습니다.
 * 신맛(레몬즙, 식초)이나 허브·향신료를 활용하면 후각을 통한 풍미를 보완할 수 있습니다. 바삭하거나 부드러운 식감, 다채로운 색감도 먹는 즐거움을 되찾는 데 도움이 됩니다.
 * **후각이 저하된 경우 상한 음식을 감지하는 능력이 떨어집니다** - 식품의 소비기한과 보관 상태를 자주 확인하십시오.
