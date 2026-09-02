@@ -296,7 +296,7 @@ flowchart TD
     style K1 fill:#1b5e20,color:#fff
 ```
 
-_<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</mark></em></p>
 
 ✽ `Z[안정형 흉통 평가]` 분지는 PTP(사전 검사 확률) 기반 검사 전략으로 이어짐 - 상세 알고리듬은 협심증 챕터 참조(☞ [협심증](../097_-angina-pectoris.md))
 
