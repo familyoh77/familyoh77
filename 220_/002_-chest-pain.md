@@ -370,7 +370,7 @@ _※ 병력청취 핵심 원칙 : 흉통의 특성은 반드시 환자로부터 
 
 ### <mark style="color:orange;">폐 기원 흉통</mark>
 
-<table><thead><tr><th width="139.42108154296875"></th><th width="134.89471435546875">시작 / 기간</th><th width="193.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
+<table><thead><tr><th width="139.42108154296875">질환</th><th width="134.89471435546875">시작 / 기간</th><th width="193.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark></em></p>
 
@@ -384,9 +384,9 @@ _※ 병력청취 핵심 원칙 : 흉통의 특성은 반드시 환자로부터 
 * 위 3단계 분류(＜2, 2–6, ＞6)는 원 연구에서 사용된 방식이나, 실제 진단 알고리즘에서는 2단계 분류가 더 널리 쓰이며, ＞6점만 "고위험"으로 강조할 경우 4\~6점 환자에서 평가가 지연될 수 있음
 
 {% hint style="info" %}
-**PESI / sPESI - PE 중증도 및 예후 분류**
+**PE 중증도 및 예후 평가 도구 - PESI / sPESI**
 
-Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Severity Index) / sPESI(simplified PESI)는 PE 확진 후 중증도 분류 및 입원·외래 처치 결정에 사용하는 도구임.
+Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Severity Index) / sPESI(simplified PESI)는 PE 확진 후 중증도 분류 및 입원·외래 처치 결정에 사용하는 도구임
 
 * sPESI 0점: 저위험(30일 사망률 약 1%) → 다른 조건을 충족하면 외래 치료 또는 조기 퇴원 고려 가능
 * sPESI ≥1점: 저위험군으로 분류되지 않음 → 입원 및 추가 위험도 평가 고려
@@ -403,7 +403,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 <table data-search="false"><thead><tr><th width="209">항목</th><th width="208.06658935546875">기준</th></tr></thead><tbody><tr><td>나이</td><td>&#x3C;50세</td></tr><tr><td>심박수</td><td>&#x3C;100회/분</td></tr><tr><td>SpO₂</td><td>≥95%</td></tr><tr><td>하지 부종</td><td>편측 하지 부종 없음</td></tr><tr><td>객혈</td><td>없음</td></tr><tr><td>최근 수술/외상</td><td>없음 (4주 이내)</td></tr><tr><td>DVT/PE 기왕력</td><td>없음</td></tr><tr><td>에스트로겐 투여</td><td>없음</td></tr></tbody></table>
 
-▶ PE의 사전확률이 매우 낮은 환자에서 PERC 8가지 모두 음성이면 추가 PE 검사가 필요하지 않음 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
+* PE의 가능성이 매우 낮은 환자에서 PERC 8가지 모두 음성이면 추가 PE 검사가 필요하지 않음 ☞ [계산기](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 
 ### <mark style="color:orange;">비-심폐 기원 흉통</mark>
 
@@ -425,7 +425,6 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 * squeezing 또는 oppressive 통증이 아님
 * 국소 압통; 압박으로 증상이 재현됨
-  * [ ] 흉벽 압박으로 통증이 재현되더라도 ACS를 완전히 배제할 수는 없음
 * 자세 또는 움직임에 의해 영향 받음
 
 <mark style="color:cyan;">**질환별 특징**</mark>
@@ -445,20 +444,19 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 <table data-search="false"><thead><tr><th width="120">구분</th><th width="200">ACS (심근허혈)</th><th width="190">GERD</th><th>근골격</th></tr></thead><tbody><tr><td><strong>통증 성상</strong></td><td>압박감, 조임, 무거움</td><td>작열감(burning), 쓰림</td><td>쑤심, 찌름, 국소 통증</td></tr><tr><td><strong>위치</strong></td><td>흉골 뒤 (retrosternal)</td><td>흉골 뒤/상복부</td><td>국소 (손가락으로 짚음)</td></tr><tr><td><strong>방사</strong></td><td>팔, 턱, 등</td><td>드묾</td><td>없음</td></tr><tr><td><strong>유발</strong></td><td>운동, 스트레스</td><td>식후, 눕기</td><td>움직임, 자세</td></tr><tr><td><strong>완화</strong></td><td>휴식, NTG</td><td>제산제, 직립</td><td>휴식, 자세 변경</td></tr><tr><td><strong>지속 시간</strong></td><td>수분~30분+</td><td>수분~수시간</td><td>수초~수시간</td></tr><tr><td><strong>동반 증상</strong></td><td>발한, 호흡곤란, 오심</td><td>신물, 트림</td><td>압통, 근육통</td></tr></tbody></table>
 
- _※ **감별 시 주의**: Burning pain은 허혈에서도 나타날 수 있으며, 제산제·NTG 반응만으로 원인을 확정할 수 없음. 압통 재현은 ACS 가능성을 낮추지만 배제하지 못함._
-
- _※ **PPI 진단적 치료 시험 (PPI trial)** 심장 원인을 배제한 후 GERD가 의심되면 PPI trial을 고려할 수 있으나, PPI 반응만으로 GERD를 확진할 수 없음._
-
-<mark style="color:$danger;">**Alarm signs (즉시 추가 평가 필요)**</mark>
-
-* 연하 곤란(dysphagia) 또는 연하 통증(odynophagia)
-* 의도치 않은 체중 감소
-* 반복되는 구토 또는 토혈(hematemesis)
-* 빈혈 또는 흑색변(melena)
+* 감별 시 주의&#x20;
+  * Burning pain은 허혈에서도 나타날 수 있으며, 제산제·NTG 반응만으로 원인을 확정할 수 없음
+    * PPI 진단적 치료 시험 (PPI trial) : 심장 원인을 배제한 후 GERD가 의심되면 PPI trial을 고려할 수 있으나, PPI 반응만으로 GERD를 확진할 수 없음
+  * 압통 재현은 ACS 가능성을 낮추지만 배제하지 못함
+* <mark style="color:$danger;">Alarm signs (즉시 추가 평가 필요)</mark>
+  * 연하 곤란(dysphagia) 또는 연하 통증(odynophagia)
+  * 의도치 않은 체중 감소
+  * 반복되는 구토 또는 토혈(hematemesis)
+  * 빈혈 또는 흑색변(melena)
 
 <mark style="color:cyan;">**질환별 감별**</mark>
 
-<table data-search="false"><thead><tr><th width="149.9473876953125"></th><th>시작 / 기간</th><th width="121.68426513671875">증상</th><th width="122.73687744140625">부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Esophageal reflux</strong></td><td>10–60분</td><td>burning</td><td>substernal, 상복부</td><td>식후 누웠을 때 악화; 제산제로 호전</td></tr><tr><td><strong>Esophageal spasm</strong></td><td>2~30분</td><td>pressure, tightness, burning</td><td>retrosternal</td><td>angina 유사, dysphagia</td></tr><tr><td><strong>Peptic ulcer</strong></td><td>장시간; 식후 60~90분</td><td>burning</td><td>상복부, substernal</td><td>음식/제산제로 호전</td></tr><tr><td><strong>Gallbladder disease</strong></td><td>장시간</td><td>aching or colicky</td><td>상복부, RUQ, 때때로 back</td><td>식후 발생 가능</td></tr><tr><td><strong>Costochondritis</strong></td><td>variable</td><td>aching</td><td>sternal</td><td>때때로 관절 위 부종/압통/열감; 이환부 압박으로 증상 재현</td></tr><tr><td><strong>Cervical disk disease</strong></td><td>variable; 갑자기</td><td>aching; numbness 포함</td><td>팔, 어깨</td><td>목 움직임으로 악화</td></tr><tr><td><strong>Trauma or strain</strong></td><td>보통 일정함</td><td>aching</td><td>이환부</td><td>움직임/촉지로 증상 재현</td></tr><tr><td><strong>Herpes zoster</strong></td><td>보통 장기간</td><td>sharp or burning</td><td>피부 분절 분포</td><td>통증부 수포성 발적</td></tr><tr><td><strong>Emotional &#x26; psychiatric conditions</strong></td><td>variable; 순식간 또는 장시간</td><td>variable; 종종 공포가 있는 호흡곤란/조임</td><td>variable; substernal</td><td>증상을 유발하는 상황 요인이 있음; 공황/우울 병력</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="142">질</th><th width="150">시작 / 기간</th><th width="150">증상</th><th width="134">부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Esophageal reflux</strong></td><td>10–60분</td><td>burning</td><td>substernal, 상복부</td><td>식후 누웠을 때 악화; 제산제로 호전</td></tr><tr><td><strong>Esophageal spasm</strong></td><td>2~30분</td><td>pressure, tightness, burning</td><td>retrosternal</td><td>angina 유사, dysphagia</td></tr><tr><td><strong>Peptic ulcer</strong></td><td>장시간; 식후 60~90분</td><td>burning</td><td>상복부, substernal</td><td>음식/제산제로 호전</td></tr><tr><td><strong>Gallbladder disease</strong></td><td>장시간</td><td>aching or colicky</td><td>상복부, RUQ, 때때로 back</td><td>식후 발생 가능</td></tr><tr><td><strong>Costo-chondritis</strong></td><td>variable</td><td>aching</td><td>sternal</td><td>때때로 관절 위 부종/압통/열감; 이환부 압박으로 증상 재현</td></tr><tr><td><strong>Cervical disk disease</strong></td><td>variable; 갑자기</td><td>aching; numbness 포함</td><td>팔, 어깨</td><td>목 움직임으로 악화</td></tr><tr><td><strong>Trauma or strain</strong></td><td>보통 일정함</td><td>aching</td><td>이환부</td><td>움직임/촉지로 증상 재현</td></tr><tr><td><strong>Herpes zoster</strong></td><td>보통 장기간</td><td>sharp or burning</td><td>피부 분절 분포</td><td>통증부 수포성 발적</td></tr><tr><td><strong>Emotional &#x26; psychiatric conditions</strong></td><td>variable; 순식간 또는 장시간</td><td>variable; 종종 공포가 있는 호흡곤란/조임</td><td>variable; substernal</td><td>증상을 유발하는 상황 요인이 있음; 공황/우울 병력</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark>_
 
@@ -468,26 +466,29 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ### <mark style="color:orange;">의뢰 전 초기 처치</mark>
 
- ※ STEMI·대동맥 박리 의심 시 처치와 이송을 동시에 진행
+* STEMI·대동맥 박리 의심 시 처치와 이송을 동시에 진행
 
-#### <mark style="color:$primary;">생명위협 급성 흉통 감별</mark>
+#### <mark style="color:$primary;">생명 위협 급성 흉통 감별</mark>
 
-<table><thead><tr><th width="120">질환</th><th width="150">통증/시작</th><th>주요 단서</th><th>초기 대응</th></tr></thead><tbody><tr><td><strong>ACS</strong></td><td>압박·조임·무거움; 수분에 걸쳐 증가 가능</td><td>팔·턱·등 방사, 발한, 오심, 호흡곤란; ECG 허혈 변화 또는 hs-cTn 동적 상승</td><td>ECG + serial hs-cTn; STEMI이면 즉시 재관류 가능한 병원으로 이송</td></tr><tr><td><strong>Acute aortic syndrome</strong></td><td>갑자기 최대 강도; 찢어지거나 칼로 베는 듯한 통증</td><td>등·복부로 이동, pulse/BP 비대칭, 새 AR 잡음, 신경학적 결손</td><td>즉각 이송; 고위험이면 D-dimer로 CTA를 지연하지 않음</td></tr><tr><td><strong>Pulmonary embolism</strong></td><td>갑작스러운 pleuritic pain ± pressure</td><td>호흡곤란, 빈맥, 저산소, DVT 소견, 최근 수술·고정</td><td>혈역학 평가; 사전확률에 따라 PERC/D-dimer/CTPA 전략</td></tr><tr><td><strong>Tension pneumothorax</strong></td><td>갑작스러운 편측 pleuritic pain</td><td>심한 호흡곤란, 편측 호흡음 감소/소실, 저혈압; 기관 변위는 후기 소견</td><td>임상적으로 의심되면 영상 기다리지 말고 즉시 감압 후 흉관 삽입으로 연결</td></tr><tr><td><strong>Cardiac tamponade</strong></td><td>흉통 또는 흉부 불편감 + 호흡곤란</td><td>저혈압·빈맥·JVP 상승, muffled heart sound, pulsus paradoxus, 심초음파 소견</td><td>즉각 응급 평가·이송; 혈역학적 불안정 시 긴급 배액 필요</td></tr><tr><td><strong>Esophageal rupture</strong></td><td>심한 구토/구역질 후 갑작스러운 흉통</td><td>피하기종, 호흡곤란, 발열/패혈증, 쇼크</td><td>금식, 즉각 응급 이송 및 외과적 평가</td></tr></tbody></table>
+<table><thead><tr><th width="144">질환</th><th width="172">통증/시작</th><th>주요 단서</th><th>초기 대응</th></tr></thead><tbody><tr><td><strong>ACS</strong></td><td>압박·조임·무거움; 수분에 걸쳐 증가 가능</td><td>팔·턱·등 방사, 발한, 오심, 호흡곤란; ECG 허혈 변화 또는 hs-cTn 동적 상승</td><td>ECG + serial hs-cTn; STEMI이면 즉시 재관류 가능한 병원으로 이송</td></tr><tr><td><strong>Acute aortic syndrome</strong></td><td>갑자기 최대 강도; 찢어지거나 칼로 베는 듯한 통증</td><td>등·복부로 이동, pulse/BP 비대칭, 새 AR 잡음, 신경학적 결손</td><td>즉각 이송; 고위험이면 D-dimer로 CTA를 지연하지 않음</td></tr><tr><td><strong>Pulmonary embolism</strong></td><td>갑작스러운 pleuritic pain ± pressure</td><td>호흡곤란, 빈맥, 저산소, DVT 소견, 최근 수술·고정</td><td>혈역학 평가; 사전확률에 따라 PERC/D-dimer/CTPA 전략</td></tr><tr><td><strong>Tension pneumothorax</strong></td><td>갑작스러운 편측 pleuritic pain</td><td>심한 호흡곤란, 편측 호흡음 감소/소실, 저혈압; 기관 변위는 후기 소견</td><td>임상적으로 의심되면 즉시 감압 후 흉관 삽입으로 연결</td></tr><tr><td><strong>Cardiac tamponade</strong></td><td>흉통 또는 흉부 불편감 + 호흡곤란</td><td>저혈압·빈맥·JVP 상승, muffled heart sound, pulsus paradoxus, 심초음파 소견</td><td>즉각 응급 평가·이송; 혈역학적 불안정 시 긴급 배액 필요</td></tr><tr><td><strong>Esophageal rupture</strong></td><td>심한 구토/구역질 후 갑작스러운 흉통</td><td>피하기종, 호흡곤란, 발열/패혈증, 쇼크</td><td>금식, 즉각 응급 이송 및 외과적 평가</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">ACS 의심 시 처치</mark>
 
-* aspirin 162\~325 ㎎을 즉시 씹어서 투여 (loading dose; **비장용정**이어야 함 - 장용정은 흡수가 지연되어 응급 시 효과가 떨어짐); 아스피린 알레르기 또는 활동성 소화관 출혈 시 금기
+* aspirin 162\~325 ㎎을 즉시 씹어서 투여 (loading dose)
+  * 비장용정이어야 함. 장용정은 흡수가 지연되어 응급 시 효과가 떨어짐
   * 국내 유통되는 저용량 아스피린은 대부분 100 ㎎ 장용정(예: 아스피린프로텍트정)이므로 응급 loading 목적에는 부적합; 비장용 제제 구비 여부를 사전에 확인해 둘 것
+  * 아스피린 알레르기 또는 활동성 소화관 출혈 시 금기
 * nitroglycerin 설하 투여; 5분 간격 최대 3회
-  * 국내 설하정은 <mark style="color:blue;">\[명문니트로글리세린설하정 0.3 ㎎/0.6 ㎎]</mark>으로 유통되며 0.4 ㎎ 설하정은 없음(0.4 ㎎은 <mark style="color:blue;">\[니트로링구알스프레이]</mark>의 1회 분무량). 설하정을 사용한다면 0.6 ㎎, 스프레이라면 1회 분무(0.4 ㎎)로 처방
-  * 국내 첨부문서상 급성 심근경색은 금기로 기재되어 있어 허가사항과 국제 ACS 지침상 응급 사용 간 차이가 있음 - 협심증으로 기존 처방받은 환자의 자가 사용과, 의료진이 혈역학·PDE-5 억제제·우심실 경색 여부를 평가하며 사용하는 응급 상황을 구분해서 적용
+  * 국내 설하정은 <mark style="color:blue;">\[명문니트로글리세린설하정 0.3 ㎎/0.6 ㎎]</mark>이 유통되므로 표준 용량인 0.4 ㎎ 대신 0.6 ㎎으로 처방
+  * 스프레이 제형은 <mark style="color:blue;">\[니트로링구알스프레이]</mark>가 유통되며 1회 분무량이 0.4 ㎎임
   * 금기: 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), 우심실 경색 의심
-* **산소**: 저산소혈증(예: SpO₂ ＜90%)이 있는 경우 투여; 정상 산소포화도에서 routine oxygen은 권고하지 않음 (호흡곤란 증상만으로 투여 확대하지 않도록 주의)
+  * 설하정의 국내 허가사항은 급성 심근경색이 금기로, 국제 ACS 지침상의 응급 사용과 차이가 있음.  반면 주사제는 급성 심근경색, 협심증이 모두 적응증임
+    * [ ] 설하정은 병원 밖 비모니터링 환경에서 자가 투여되는 제형이라, 우심실 경색 여부나 혈압을 확인하지 못한 상태에서의 급격한 혈압 저하·심장성 쇼크 위험을 고려해 보수적으로 금기 처리한 것으로 추정됨
+* 산소 : 저산소혈증(예: SpO₂ ＜90%)이 있는 경우 투여; 정상 산소포화도에서 routine oxygen은 권고하지 않음 (호흡곤란 증상만으로 투여 확대하지 않도록 주의)
 * STEMI 확인 또는 강력 의심 시 → 즉시 PCI 가능 병원으로 이송; first medical contact–device time 최소화, PCI 가능 병원에서는 door-to-device ≤90분 목표
 
 {% hint style="warning" %}
-**⚠️ 코카인·암페타민 급성 중독이 동반된 흉통**\
-빈맥·고혈압·흥분 등 급성 중독 징후가 있는 상태에서는 관상동맥 연축이 악화될 수 있어 혈관확장제 병용 없이 β차단제를 단독 투여하지 않음. Benzodiazepine과 nitroglycerin 등으로 교감신경 항진·연축을 우선 치료 \[2014 AHA/ACC NSTE-ACS Guideline]. 단, 급성 중독 징후가 없는 최근 사용력만 있는 경우는 일반 ACS 처치를 따름
+**코카인·암페타민 급성 중독이 동반된 흉통** : 빈맥·고혈압·흥분 등 급성 중독 징후가 있는 상태에서는 관상동맥 연축이 악화될 수 있어 혈관확장제 병용 없이 β차단제를 단독 투여하지 않음. Benzodiazepine과 nitroglycerin 등으로 교감신경 항진·연축을 우선 치료 \[2014 AHA/ACC NSTE-ACS Guideline]. 단, 급성 중독 징후가 없는 최근 사용력만 있는 경우는 일반 ACS 처치를 따름
 {% endhint %}
 
 #### <mark style="color:$primary;">PE 의심 시 처치</mark>
@@ -501,7 +502,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 * 통증 조절 + 즉각 이송이 우선
 * 혈압·심박수 조절: Beta-blocker (목표: HR 60\~80 bpm, SBP ＜120 ㎜Hg 또는 장기 관류를 유지하는 최저 혈압) \[2022 ACC/AHA Aortic Disease Guideline]
   * Labetalol IV 또는 Esmolol IV - 혈역학적 모니터링이 가능한 응급환경에서 사용; 약물 투여 때문에 응급 이송이 지연되어서는 안 됨
-* 니트로글리세린 단독 사용 금지 (반사성 빈맥으로 대동맥 벽 전단력 증가)
+* nitroglycerin 단독 사용 금지 (반사성 빈맥으로 대동맥 벽 전단력 증가)
 * CT angiography 가능 병원으로 즉시 이송
 
 ***
