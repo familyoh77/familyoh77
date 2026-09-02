@@ -204,7 +204,7 @@ _\*검사 선택은 연령, 운동 가능 여부, 안정시 ECG 판독 가능성
 
 <table><thead><tr><th width="230">상황</th><th>권장 도구</th></tr></thead><tbody><tr><td>1차 진료의 안정형 흉통</td><td>MHS, INTERCHEST를 CAD 가능성 추정의 보조 도구로 사용 가능</td></tr><tr><td>응급실의 급성 흉통</td><td>HEART Pathway 등 ECG·serial hs-cTn을 포함한 검증된 CDP</td></tr></tbody></table>
 
-* MHS/INTERCHEST  : CAD 사전 확률 추정에 특화; 검사 전 단계에서 활용
+* MHS/INTERCHEST : CAD 사전 확률 추정에 특화; 검사 전 단계에서 활용
 * HEART : 단기 MACE 예측(원 연구는 6주, 현재 임상 CDP는 흔히 30일 기준 사용); hs-cTn과 병합 시 disposition 결정에 유용
 * 어떤 점수 도구도 생명 위협 원인이 임상적으로 의심되는 환자의 응급 이송을 지연시키거나 ACS를 단독 배제하는 용도로 사용해서는 안 됨
 
@@ -444,7 +444,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 <table data-search="false"><thead><tr><th width="120">구분</th><th width="200">ACS (심근허혈)</th><th width="190">GERD</th><th>근골격</th></tr></thead><tbody><tr><td><strong>통증 성상</strong></td><td>압박감, 조임, 무거움</td><td>작열감(burning), 쓰림</td><td>쑤심, 찌름, 국소 통증</td></tr><tr><td><strong>위치</strong></td><td>흉골 뒤 (retrosternal)</td><td>흉골 뒤/상복부</td><td>국소 (손가락으로 짚음)</td></tr><tr><td><strong>방사</strong></td><td>팔, 턱, 등</td><td>드묾</td><td>없음</td></tr><tr><td><strong>유발</strong></td><td>운동, 스트레스</td><td>식후, 눕기</td><td>움직임, 자세</td></tr><tr><td><strong>완화</strong></td><td>휴식, NTG</td><td>제산제, 직립</td><td>휴식, 자세 변경</td></tr><tr><td><strong>지속 시간</strong></td><td>수분~30분+</td><td>수분~수시간</td><td>수초~수시간</td></tr><tr><td><strong>동반 증상</strong></td><td>발한, 호흡곤란, 오심</td><td>신물, 트림</td><td>압통, 근육통</td></tr></tbody></table>
 
-* 감별 시 주의&#x20;
+* 감별 시 주의
   * Burning pain은 허혈에서도 나타날 수 있으며, 제산제·NTG 반응만으로 원인을 확정할 수 없음
     * PPI 진단적 치료 시험 (PPI trial) : 심장 원인을 배제한 후 GERD가 의심되면 PPI trial을 고려할 수 있으나, PPI 반응만으로 GERD를 확진할 수 없음
   * 압통 재현은 ACS 가능성을 낮추지만 배제하지 못함
@@ -482,7 +482,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
   * 국내 설하정은 <mark style="color:blue;">\[명문니트로글리세린설하정 0.3 ㎎/0.6 ㎎]</mark>이 유통되므로 표준 용량인 0.4 ㎎ 대신 0.6 ㎎으로 처방
   * 스프레이 제형은 <mark style="color:blue;">\[니트로링구알스프레이]</mark>가 유통되며 1회 분무량이 0.4 ㎎임
   * 금기: 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), 우심실 경색 의심
-  * 설하정의 국내 허가사항은 급성 심근경색이 금기로, 국제 ACS 지침상의 응급 사용과 차이가 있음.  반면 주사제는 급성 심근경색, 협심증이 모두 적응증임
+  * 설하정의 국내 허가사항은 급성 심근경색이 금기로, 국제 ACS 지침상의 응급 사용과 차이가 있음. 반면 주사제는 급성 심근경색, 협심증이 모두 적응증임
     * [ ] 설하정은 병원 밖 비모니터링 환경에서 자가 투여되는 제형이라, 우심실 경색 여부나 혈압을 확인하지 못한 상태에서의 급격한 혈압 저하·심장성 쇼크 위험을 고려해 보수적으로 금기 처리한 것으로 추정됨
 * 산소 : 저산소혈증(예: SpO₂ ＜90%)이 있는 경우 투여; 정상 산소포화도에서 routine oxygen은 권고하지 않음 (호흡곤란 증상만으로 투여 확대하지 않도록 주의)
 * STEMI 확인 또는 강력 의심 시 → 즉시 PCI 가능 병원으로 이송; first medical contact–device time 최소화, PCI 가능 병원에서는 door-to-device ≤90분 목표
@@ -545,7 +545,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 
 ***
 
-## <mark style="color:$success;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **니트로글리세린 설하정 - 협심증 흉통**
 >
@@ -579,7 +579,7 @@ _<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th
 * 원인은 심장(협심증, 심근경색), 폐(폐색전증, 기흉), 소화기(역류성 식도염, 위경련), 근골격계, 불안 등 다양합니다
 * 심장 원인 흉통은 생명과 직결될 수 있으므로 즉각적인 평가가 필요합니다
 
-#### <mark style="color:$primary;">이럴 때는 즉시 119를 부르세요</mark>
+#### <mark style="color:$primary;">이럴 때는 즉시 119에 연락하세요</mark>
 
 * 가슴을 쥐어짜거나 압박하는 듯한 통증이 왼쪽 팔·턱·등으로 퍼지는 경우
 * 흉통과 함께 식은땀, 구역, 극심한 피로감이 동반되는 경우
