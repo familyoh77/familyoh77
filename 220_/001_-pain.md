@@ -61,13 +61,13 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
 
 <mark style="color:$warning;">**당일 긴급 평가 또는 응급실 의뢰**</mark>
 
-* 발열·오한·전신 상태 저하와 함께 발생한 새롭거나 심한 국소 통증 `중증 감염` `패혈증`
-* 급성 단관절 발적·열감·부종, 빠르게 확산하는 피부·연조직 염증 또는 괴사성 감염 의심 `화농성 관절염` `괴사성 근막염` `봉와직염`
+* 발열·오한·전신 상태 저하와 함께 발생한 새롭거나 심한 국소 통증 `중증 감염` `패혈증`&#x20;
+* 단관절의 급성 발적·열감·부종, 빠르게 확산하는 피부·연조직 염증 또는 괴사성 감염 의심 `화농성 관절염` `괴사성 근막염` `봉와직염`&#x20;
 * 새로 발생하거나 진행하는 객관적 근력 저하, 보행 장애 또는 신경학적 결손 `신경학적 결손` `척수/신경근 압박`
 * 지속적인 구토, 경구 섭취 불가, 탈수, 소변·대변·가스 배출 장애 `장 폐색` `탈수/전해질 이상`
 * 임신 또는 산후 기간에 발생한 새롭고 심한 두통·흉통·복통·골반통 `자간전증` `폐색전증` `자궁외 임신` `산과적 응급`
 * 항응고제 복용 중 발생한 새롭고 심한 원인 불명 통증 또는 경미한 외상 후 지속되는 통증 `출혈` `혈종`
-* 면역저하, 활동성 암, 정맥주사 약물 사용, 최근 수술·침습적 시술·균혈증이 있는 환자의 새롭고 지속적인 통증 `기회감염` `농양` `암 전이/재발`
+* 면역저하, 활동성 암, 정맥 주사 약물 사용, 최근 수술·침습적 시술·균혈증이 있는 환자의 새롭고 지속적인 통증 `기회감염` `농양` `암 전이/재발`
 * 고령·골다공증 환자의 외상 후 심한 통증 또는 체중 부하 불능 `골다공증성 골절`
 
 <mark style="color:$info;">**조기 원인 평가 및 면밀한 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
@@ -84,14 +84,17 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
 * ＞3개월 지속 또는 재발하는 통증 \[ICD-11]
 
 {% hint style="info" %}
-**ICD-11 만성 통증 분류** : ICD-11(2019)은 만성 통증을 두 범주로 구분하며, 이 구분은 "통증 = 증상"이 아닌 "통증 = 독립 질환" 으로 인식의 전환을 반영.\
-• **Chronic primary pain** : 통증 자체가 독립적 질환 - 다른 질환으로 설명되지 않는 통증 (예: 섬유근통, 만성 원발성 요통, 복합부위통증증후군)\
-• **Chronic secondary pain** : 다른 기저 질환에 의해 발생하는 통증 (예: 암성 통증, 수술 후 만성 통증, 신경병증성 통증)
+ICD-11은 만성 통증을 다음의 두 범주로 구분하며, 이 구분은 "통증=증상"이 아닌 "통증=독립 질환"으로 인식의 전환을 반영.\
+• **Chronic primary pain** : 다른 질환으로 설명되지 않는 통증, 통증 자체가 독립적 질환. 예: 섬유근통, 만성 원발성 요통, 복합부위통증증후군\
+• **Chronic secondary pain** : 다른 기저 질환에 의해 발생하는 통증. 예: 암성 통증, 수술 후 만성 통증, 신경병증성 통증
 {% endhint %}
 
 {% hint style="info" %}
 **Central sensitization (중추 감작)**\
-일부 만성 통증, 특히 nociplastic component가 큰 통증에서 중요한 병태생리 기전. 척수·뇌의 통각 처리 과정이 증폭되어 말초 자극에 비해 과도한 통증, 이상통증(allodynia), 통각과민(hyperalgesia) 등이 나타날 수 있음. Nociplastic pain과 central sensitization은 밀접하지만 동의어는 아니며, 모든 만성 통증을 중추 감작으로 설명할 수는 없음. 이 개념을 환자에게 적절히 설명하면 파국화 방지 및 비약물 치료(CBT·운동) 수용도를 높이는 데 도움이 될 수 있음
+척수·뇌의 통각 처리 과정이 증폭되어 말초 자극에 비해 과도한 통증, 이상통증(allodynia), 통각과민(hyperalgesia) 등이 나타날 수 있음. \
+일부 만성 통증, 특히 nociplastic component가 큰 통증에서 중요한 병태생리 기전임.\
+이 개념을 환자에게 적절히 설명하면 파국화 방지 및 비약물 치료(CBT·운동) 수용도를 높이는 데 도움이 될 수 있음.\
+단, 모든 만성 통증을 중추 감작으로 설명할 수는 없음.&#x20;
 {% endhint %}
 
 #### <mark style="color:$primary;">**유형**</mark>
@@ -101,21 +104,23 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
 * nociceptive / neuropathic / nociplastic / mixed : 약물 선택의 기준이 되는 분류
 
 1. **침해수용성(nociceptive) 통증**
-   * 실제 조직 손상에 의해 발생; 쑤심, 욱신거림, 국소적 압통
+   * 실제 조직 손상에 의해 발생
+   * 쑤심, 욱신거림, 국소적 압통
    * 예) 관절염, 근육통, 외상, 수술 후 통증
 2. **신경병증성(neuropathic) 통증**
-   * 체성감각신경계(somatosensory nervous system)의 병변(lesion) 또는 질환(disease)에 의해 발생; 작열감, 찌르는 듯한 통증, 전격통, 감각 저하 또는 과민 등이 나타날 수 있음
-   * CRPS 등 일부 신경병증성 통증에서는 피부 온도·색 변화 등 자율신경계 소견이 동반될 수 있음
+   * 체성감각신경계(somatosensory nervous system)의 병변 또는 질환에 의해 발생
+   * 작열감, 찌르는 듯한 통증, 전격통, 감각 저하 또는 과민; CRPS 등 일부 신경병증성 통증에서는 피부 온도·색 변화 등 자율신경계 소견이 동반될 수 있음
    * 예) radiculopathy/radicular pain with neuropathic features, diabetic peripheral neuropathy, 대상포진후신경통, 삼차신경통
 3. **노시플라스틱(nociplastic) 통증**
-   * 정의 : 통증을 유발할 만한 실제 또는 잠재적 조직 손상의 명확한 증거가 없고, 체성감각계의 병변이나 질환으로 설명되지 않으면서, 통각 처리(nociceptive processing)의 변화 소견이 있는 통증 \[IASP]
+   * 통증을 유발할 만한 실제 또는 잠재적 조직 손상의 명확한 증거가 없고, 체성감각계의 병변이나 질환으로 설명되지 않으면서, 통각 처리(nociceptive processing)의 변화 소견이 있는 통증
    * nociplastic mechanism은 nociceptive 또는 neuropathic mechanism과 동시에 존재할 수 있음(예: 만성 요통, 골관절염, 암성 통증 일부에서도 nociplastic component 동반 가능)
-   * 특징 : 광범위한 통증, 이상통증(allodynia), 통각과민, 피로·수면 장애·인지 기능 저하 동반
+   * 광범위한 통증, 이상통증(allodynia), 통각과민, 피로·수면 장애·인지 기능 저하 동반
    * 예) 섬유근통, 만성 원발성 요통, 과민성 장증후군(IBS), 만성 골반통
-   * 임상 양상 및 병력으로 진단 (DN4/painDETECT는 neuropathic pain 요소 평가 도구이며, nociplastic pain을 진단하거나 배제하는 도구는 아님)
+   * 임상 양상 및 병력으로 진단 (✽DN4/painDETECT는 neuropathic pain 요소 평가 도구이며, nociplastic pain을 진단하거나 배제하는 도구는 아님)
 4. **복합성(mixed) 통증**
-   * 둘 이상의 기전이 함께 작용; 예) 척추관 협착증(nociceptive + neuropathic), 만성 요통(nociceptive/neuropathic + nociplastic 동반 가능)
-   * 약물 선택도 관여 기전에 따라 병용 조정 (☞ 아래 Management > 통증 양상별 약물 선택 참조)
+   * 둘 이상의 기전이 함께 작용
+   * 예) 척추관 협착증 = nociceptive + neuropathic, 만성 요통 = nociceptive/neuropathic + nociplastic 동반 가능
+   * 약물도 관여 기전에 따라 병용
 
 <mark style="color:cyan;">**임상 phenotype(원인·양상)에 따른 분류**</mark>
 
@@ -130,7 +135,7 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
    * 예) 관절염, 감염, 손상, 수술 후 통증
 3. **기계적/압박성(mechanical/compressive) 통증**
    * 활동 중 악화, 휴식 시 호전
-   * 예) 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압축 골절
+   * 예) 목/허리의 근육·인대의 strain or sprain, disks or facet의 변성, 압박 골절
 
 ***
 
@@ -149,17 +154,17 @@ flowchart TD
     D1 --> F1[Acetaminophen \n또는 NSAID]
     D2 --> G1[Pregabalin/\nGabapentin\n또는 Duloxetine]
     D1 & D2 & D3 & D4 --> E["통증 강도(NRS) +\n 기능 장애 평가"]
-    E --> E0["⚠ NRS 단독으로 \nopioid 여부 자동 \n결정 안 함"]
+    E --> E0["NRS 단독으로 \nopioid 여부 자동 \n결정 안 함"]
     D3 --> G2[비약물 CBT·\n운동 우선\n+ SNRI]
     D4 --> F2[NSAID +\nneuropathic \nagent 병용]
     E0 & F1 & G1 & G2 & F2 --> H[비약물 치료 병행]
     H --> I[고위험 약물 체크]
-    I --> |"·Opioid+BZD ❌\n·NSAID+항응고제\n·Triple Whammy\n·Gabapentinoid+Opioid"| J[처방수정]
-    I -->|"이상 없음"| K[재평가]
-    K -->|급성: 1–2주\n만성: 2–4주| L[치료 반응]
-    L -->|Good: 임상적으로 의미 있는 통증 감소 및/또는 기능 개선| M[유지 → Taper 계획]
+    I --> |"·Opioid+BZD\n·NSAID+항응고제\n·Triple Whammy\n·Gabapentinoid+Opioid"| J[처방수정]
+    I -->|"이상 없음"| K[재평가\n•급성: 1–2주\n•만성: 2–4주]
+    K --> L[치료 반응]
+    L -->|Good: 임상적으로 의미 있는 통증 감소 및/또는 기능 개선| M[유지 \n→ Taper 계획]
     L -->|Poor| N[통증 유형 재평가\n→ 다른 계열 전환\n→ 병용 요법]
-    N --> O[2–3차 실패\nOpioid 필요 증가\n기능 저하 지속]
+    N --> O[·2–3차 실패\n·Opioid 필요 증가\n·기능 저하 지속]
     O -->|YES| P[전문과 의뢰]
     style C fill:#f96,stroke:#e65100
     style C2 fill:#fff3e0,stroke:#ff8f00
@@ -193,7 +198,7 @@ flowchart TD
 
 * 통증의 완전 제거보다 일상 기능 회복(보행, 수면, 사회 활동, 직업 복귀)을 치료 목표로 설정
 * 비약물 치료 우선 : 운동, CBT(인지행동치료), 교육, 물리치료
-* 오피오이드 : 비암성 통증에서는 신중히 선택. 다른 치료 먼저 시도. 시작 전 충분한 평가, 최소 유효 용량, 최단 기간 적용; 암성 통증에서는 오피오이드의 적극적 사용 권장
+* 적절한 오피오이드 사용 : 암성 통증에서는 적극적 사용 권장. 비암성 통증에서는 신중히 선택, 다른 치료 먼저 시도; 시작 전 충분한 평가, 최소 유효 용량, 최단 기간 적용
 * 생물심리사회적 모델 : 신체, 심리(우울, 불안, 파국화), 사회적 요인(직업, 가족 환경, 보상 문제)을 통합 고려
 * 다학제 접근 : 복잡한 만성 통증이나 치료에 반응이 불충분한 경우 협진(마취과·신경과·정신건강의학과·재활의학과 협진) 고려
 
@@ -203,36 +208,39 @@ flowchart TD
 * 적정 체중 관리
 * 가능한 한 활동 유지 또는 점차 활동량을 늘림, 규칙적인 적절한 운동 (☞ [운동 지침](../231_/216_-physical-activity-guideline.md))
 * 금연
-* 온/냉찜질, 물리 치료, chiropractic, 침, 근육 강화 및 이완 운동 (온/냉찜질·침·chiropractic은 근거 수준이 낮거나 논란이 있어 보조적 수단으로 활용)
+* 온/냉찜질, 물리 치료, chiropractic, 침, 근육 강화 및 이완 운동&#x20;
+  * 온/냉찜질·chiropractic·침은 근거 수준이 낮거나 논란이 있음(보조적 수단으로 활용)
 * 인지행동 요법, 요가, 심호흡, mindfulness
 
 - [ ] 비타민 D : 결핍(25(OH)D ＜20 ng/㎖)과 근골격계 통증·섬유근통의 연관성이 보고되나, 결핍이 없는 환자에서 통증 목적의 routine supplementation은 효과가 입증되지 않아 권고하지 않음; 만성 통증 환자에서 혈중 25(OH)D 측정 후 결핍이 확인된 경우에만 보충 고려
 
 * 통증의 파국화(catastrophizing) 방지를 위한 상담
-  * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 파국화를 교정함; 만성 통증은 신체 손상 신호가 아니라 예민해진 신경계의 오작동(central sensitization)임을 설명 (☞ 위 일반 사항 > Central sensitization 참조)
+  * 통증을 실제보다 더 위협적인 것으로 과장하고(magnification), 반복적으로 되새기며(rumination), 스스로 조절할 수 없다고 믿는(helplessness) 파국화를 교정함
+  * 만성 통증은 신체 손상 신호가 아니라 예민해진 신경계의 오작동(central sensitization)임을 설명&#x20;
   * Hurt vs Harm : "아픈 것(hurt)이 곧 몸이 손상(harm)되는 것은 아니다"라는 인식을 심어 주어 공포-회피 반응(fear-avoidance response) 차단, 과장된 표현 교정
 
-<table><thead><tr><th width="322">Hurt (아픈 느낌)</th><th>Harm (실제 손상)</th></tr></thead><tbody><tr><td>예민해진 신경계가 보내는 신호</td><td>조직이 실제로 파괴되는 상태</td></tr><tr><td>움직여도 대개 안전함</td><td>red flag 동반 시에만 의심</td></tr><tr><td>활동을 점진적으로 늘려 완화 가능(pacing)</td><td>절대안정으로 오히려 악화될 수 있음</td></tr></tbody></table>
+<table><thead><tr><th width="322">Hurt (아픈 느낌)</th><th>Harm (실제 손상)</th></tr></thead><tbody><tr><td>예민해진 신경계가 보내는 신호</td><td>조직이 실제로 파괴되는 상태</td></tr><tr><td>움직여도 대개 안전함</td><td>red flag 동반 시에만 의심</td></tr><tr><td>활동을 점진적으로 늘려 완화 가능(pacing*)</td><td>'절대안정'으로 오히려 악화될 수 있음</td></tr></tbody></table>
 
-* Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진적으로 늘려 자기 효능감을 회복시킴
-  1. \[예시] Pt. "허리가 끊어질 것 같아요" - Dr. "허리 근육이 많이 긴장해서 예민한 상태군요."
-  2. Pt. "이러다 평생 못 걸으면 어쩌죠?" - Dr. "오늘은 컨디션이 좋지 않네요. 하지만 우리는 조금씩 움직임을 늘려갈 계획입니다."
-  3. Pt. "약 없이는 한순간도 못 버텨요." - Dr. "약은 통증 조절의 도구 중 하나입니다. 호흡과 이완 요법도 함께 사용해 봅시다."
+_\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진적으로 늘려 자기 효능감을 회복시킴_
+
+1. _Pt. "허리가 끊어질 것 같아요" - Dr. "허리 근육이 많이 긴장해서 예민한 상태군요."_
+2. _Pt. "이러다 평생 못 걸으면 어쩌죠?" - Dr. "오늘은 컨디션이 좋지 않네요. 하지만 우리는 조금씩 움직임을 늘려갈 계획입니다."_
+3. _Pt. "약 없이는 한순간도 못 버텨요." - Dr. "약은 통증 조절의 도구 중 하나입니다. 호흡과 이완 요법도 함께 사용해 봅시다."_
 
 ## <mark style="color:green;">약물 치료</mark>
 
 #### <mark style="color:$primary;">통증 양상별 약물 선택</mark>
 
-* 통증의 성격(침해수용성 vs 신경병성)을 구분하고, 통증의 강도(NRS)에 따라 단계적으로 접근
+* 통증의 성격(침해수용성 vs 신경병성)을 구분하고, 통증의 강도(10점 척도)에 따라 단계적으로 접근
 * "Start Low, Go Slow"
-  * 고령, frailty, 신·간기능 저하, CNS depressant 병용 등 약물 부작용 위험이 높은 환자에서는 저용량으로 시작하여 서서히 증량; 신배설 약물은 신기능에 따라 용량 조절
+  * 고령, frailty, 신·간기능 저하, CNS depressant 병용 등 약물 부작용 위험이 높은 환자에서는 저용량으로 시작하여 서서히 증량; 신장 배설 약물은 신기능에 따라 용량 조절
   * 기능적 목표 설정 : 환자에게 "통증 때문에 못 하던 어떤 활동을 다시 하고 싶은지"를 물어 구체적 목표를 설정
   * 병용 금기 약제 주의 : 예) benzodiazepine 복용 여부를 확인하여 마약성 진통제 처방 시 호흡 억제 위험을 차단
 
 <mark style="color:cyan;">**Step 1. 통증 유형 분류 (Pain Typing)**</mark>
 
-* 통증 기전(mechanism)에 따라 nociceptive/neuropathic/nociplastic/mixed로 분류 (정의·특징·감별 요점 ☞ [일반 사항 > 유형](001_-pain.md#undefined-2))
-* 선별 도구 : neuropathic 요소는 DN4(4점 이상 시 가능성 높음)·painDETECT로 평가; nociplastic pain은 이 도구들로 진단·배제하지 않고 임상 양상·병력으로 판단
+* 통증 기전(mechanism)에 따라 nociceptive/neuropathic/nociplastic/mixed로 분류&#x20;
+* 선별 도구 : neuropathic 요소는 [DN4](https://pmc.ncbi.nlm.nih.gov/articles/PMC4740539/)(4점 이상 시 가능성 높음)·[painDETECT](https://www.jkna.org/upload/pdf/jkna-39-2Suppl-24.pdf)로 평가; nociplastic pain은 이 도구들로 진단 또는 배제하지 않고 임상 양상·병력으로 판단
 * 분류 결과에 따라 Step 2의 약물 선택이 결정됨
 
 <mark style="color:cyan;">**Step 2. 강도 및 유형별 약물 선택**</mark>
@@ -248,43 +256,54 @@ flowchart TD
 **침해수용성 통증**
 
 {% hint style="danger" %}
-통증 강도(NRS)만으로 opioid를 자동 선택하지 않음. NRS ≥7이라고 곧바로 opioid를 선택하지 않으며, 원인·통증 기전·기능 장애·예후·약물 위험도를 종합하여 결정함.
+통증 강도만으로 opioid를 자동 선택하지 않음. NRS(10점 척도) ≥7이라고 곧바로 opioid를 선택하지 않으며, 원인·통증 기전·기능 장애·예후·약물 위험도를 종합하여 결정함.
 {% endhint %}
 
 * 1차 : non-opioid(acetaminophen, aspirin, NSAID) ± 보조 치료
 * 비-opioid 치료로 조절되지 않고 기능 장애가 명확한 경우 : NSAID ± weak opioid 신중 병용 (tramadol 포함 - opioid와 동일한 주의 적용)
 * 중증이거나 비-opioid 치료 실패, 기능 장애가 심각한 경우 : opioid(oxycodone, hydromorphone, tapentadol(신경병성 혼합 시 유리)) ± non-opioid ± 보조 치료
-* WHO 3단계 진통 사다리(analgesic ladder) : 1단계 비마약성 진통제(± 보조제) → 2단계 약한 opioid(± 비마약성 진통제 ± 보조제) → 3단계 중등도\~중증 opioid(± 비마약성 진통제 ± 보조제)로 상향하는 체계. 원래 WHO가 암성 통증(cancer pain) 완화를 위해 제시한 모델이며, 비암성 통증에는 그대로 적용하지 않음 - 비암성 통증은 통증 강도만이 아니라 원인·기전·기능 장애·약물 위험도를 함께 고려하는 개별화된 접근이 원칙
+* WHO 3단계 진통 사다리(analgesic ladder)
+  * \[1단계] 비마약성 진통제(± 보조제) → \[2단계] 약한 opioid(± 비마약성 진통제 ± 보조제) → \[3단계] 중등도\~중증 opioid(± 비마약성 진통제 ± 보조제)
+  * WHO가 암성 통증(cancer pain) 완화를 위해 제시한 모델이며, 비암성 통증에는 그대로 적용하지 않음 - 비암성 통증은 통증 강도만이 아니라 원인·기전·기능 장애·약물 위험도를 함께 고려하는 개별화된 접근이 원칙
 
 **신경병성 통증**
 
-* 1차 (1st line) : 가바펜티노이드 (pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선) 중 하나를 선택; 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
-* 반응 불충분 시 : 다른 1차 약제로 전환을 우선 고려; 부분 반응 시 신중한 병용 고려(예: pregabalin + duloxetine - 병용 근거는 아직 제한적이며 NICE도 병용요법의 근거 부족을 지적함); tramadol은 급성 rescue가 필요한 경우로 제한
-* opioid 장기 사용은 일반적으로 권장하지 않음; 중증/난치성 통증에서는 전문의(통증클리닉) 의뢰 고려. 국소 lidocaine patch (대상포진 후 신경통, PHN에서 2nd-line), botulinum toxin (PHN·삼차신경통 등 일부 적응증에서 고려)
+* 1차 (1st line) : gabapentinoid(pregabalin, gabapentin) 또는 항우울제 (SNRI: duloxetine / TCA: amitriptyline - 고령에서는 SNRI 우선) 중 하나를 선택
+  * 삼차신경통(trigeminal neuralgia)에서는 carbamazepine, oxcarbazepine이 1차 선택제
+* 반응 불충분 시 : 다른 1차 약제로 전환을 우선 고려
+  * 부분 반응 시 신중한 병용 고려 : 예) pregabalin + duloxetine - 병용 근거는 아직 제한적
+  * tramadol은 급성 rescue가 필요한 경우로 제한
+* opioid 장기 사용은 일반적으로 권장하지 않음
+* 중증/난치성 통증에서는 전문의(통증클리닉) 의뢰 고려
+* 국소 lidocaine patch : 대상포진 후 신경통, PHN에서 2nd-line
+* botulinum toxin : PHN·삼차신경통 등 일부 적응증에서 고려
 
 <mark style="color:cyan;">**Step 3. 재평가 및 조정 (Re-evaluation)**</mark>
 
-* 일반 진통제(NSAID 등)는 급성 1\~2주, 만성 2\~4주 이내 반응 평가; gabapentinoid 등 titration이 필요한 약제는 충분한 적정 기간(수 주) 고려; opioid는 시작 또는 증량 후 1\~4주 이내 재평가(CDC 2022)
-* 목표 달성(약 30% 이상의 clinically meaningful pain reduction 및/또는 환자에게 중요한 기능 개선) 시 : 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
+* 일반 진통제(NSAID 등)는 급성 1\~2주, 만성 2\~4주 이내 반응 평가
+* gabapentinoid 등 titration이 필요한 약제는 충분한 적정 기간(수 주) 고려
+* opioid는 시작 또는 증량 후 1\~4주 이내 재평가
+* 목표 달성(약 30% 이상의 clinically meaningful pain reduction 및/또는 환자에게 중요한 기능 개선) 시 최소 유효 용량 유지 및 점진적 감량(tapering) 계획
 * 목표 미달 (효과 부족 또는 부작용) 시
   1. 통증 유형 재검토 : 신경병성 요소가 간과되지 않았는가?
-  2. Opioid 회전 : MME는 근사 참고값일 뿐 직접적인 등가 처방량으로 사용하지 않음; 불완전 교차내성을 고려하여 계산된 equianalgesic dose에서 통상 25\~50% 감량하여(즉 계산 용량의 약 50\~75%로) 시작하고 약제별 특성에 따라 추가 감량·개별 titration. Fentanyl·methadone 등은 단순 MME 비례 환산을 피함
+  2. Opioid 회전 : 불완전 교차내성을 고려하여 계산된 equianalgesic dose에서 통상 25\~50% 감량하여, 즉 계산 용량의 약 50\~75%로 시작하고 약제별 특성에 따라 추가 감량·개별 titration;  fentanyl·methadone 등은 단순 MME 비례 환산을 피함
   3. 중재적 시술 고려 : 신경 차단술, IMS(근육 내 자극 치료) 등 비약물적 치료 병행
 
 ### <mark style="color:orange;">Acetaminophen</mark>
 
 * 대상 : 비염증성 통증
   * 엉덩이/무릎 관절염에 대해서는 지속 효과가 짧으며, 요통에 대해서는 효과가 적음
-* 주의 : 간/신 장애, 혈액 응고 장애, 알코올 남용; aspirin/NSAID 과민성 천식 환자에서는 고용량 acetaminophen에서도 교차반응 가능성이 있어 주의
-* 부작용 : 발진, 간/신 독성; NSAID와 달리 COX 비선택적 억제 기전이 없어 임상적으로 의미 있는 GI ulcer risk는 거의 없으며, 고혈압은 고용량 장기 사용 시 일부 관찰 보고가 있으나 근거가 일관되지 않음(controversial)
+* 주의 : 간/신 장애, 혈액 응고 장애, 알코올 남용
+  * aspirin/NSAID 과민성 천식 환자에서는 고용량 acetaminophen에서도 교차반응 가능성이 있어 주의
+* 부작용 : 발진, 간/신 독성
   * ＞2 g/d 연속 투여 시 간 효소 수치 상승 가능 (간독성을 의미하지 않으나 모니터링 권장)
-  * 치료 용량 범위 내에서는 심각한 GI 부작용 위험은 거의 없음
+  * NSAID와 달리 COX 비선택적 억제 기전이 없어 임상적으로 의미 있는 GI ulcer risk는 거의 없으며, 고혈압은 고용량 장기 사용 시 일부 관찰 보고가 있으나 근거가 일관되지 않음
 * 약물 상호 작용 : warfarin(INR 연장), isoniazid, CYP450 대사 약물
 * 용량
   * 325\~650 ㎎ q4\~6h, 1 g qid; 서방형 1,300 ㎎ q8h <mark style="color:blue;">\[타이레놀]</mark>
-  * 최대 용량 : 건강한 성인의 절대 최대용량은 4 g/d(모든 acetaminophen 함유 제품 합산); 반복적·장기 사용에서는 안전 여유를 두어 3 g/d 이하로 제한하는 임상적 접근이 흔함
+  * 최대 용량 : 건강한 성인의 절대 최대용량은 4 g/d; 반복적·장기 사용에서는 안전 여유를 두어 3 g/d 이하로 제한하는 임상적 접근이 흔함
   * 고령, 영양 결핍, 간 독성 위험(규칙적 음주), 간/신 장애 시 2 g/d
-  * 감기약·두통약·수면제 등에도 포함된 경우가 많으므로 주의 - 누적 용량 계산
+  * 감기약·두통약·수면제 등에도 포함된 경우가 많으므로 주의 - 누적 용량으로 계산
 
 ### <mark style="color:orange;">NSAID</mark>
 
