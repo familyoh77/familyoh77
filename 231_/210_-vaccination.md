@@ -1517,7 +1517,7 @@ _\*목/겨드랑이의 림프절이 비대해 질 수 있으나(단순 비화농
 
 <table><thead><tr><th width="157">예방수단</th><th width="237">국내 허가 대상</th><th>국내 적용 원칙</th></tr></thead><tbody><tr><td>장기지속 단클론항체<br><mark style="color:blue;">[베이포투스]</mark></td><td><ul><li>첫 RSV 유행철의 모든 신생아·영아</li><li>두 번째 유행철의 생후 24개월 이하 고위험 소아</li></ul></td><td>첫 유행철에는 1회 투여. ＜5 kg은 50 mg, ≥5 kg은 100 mg IM. 두 번째 유행철 고위험 소아는 200 mg을 100 mg씩 서로 다른 두 부위에 IM</td></tr><tr><td>임신부용 백신<br><mark style="color:blue;">[아브리스보]</mark></td><td>임신 28~36주 임신부</td><td>0.5 mL IM 1회. 모체 접종을 통해 생후 6개월까지 영아의 RSV 하기도질환 예방을 목적으로 함</td></tr><tr><td>성인용 백신<br><mark style="color:blue;">[아렉스비]</mark><br><mark style="color:blue;">[아브리스보]</mark><br><mark style="color:blue;">[엠레스비아]</mark></td><td><ul><li>60세 이상 성인</li><li>18~59세 중 RSV 하기도질환 위험이 높은 성인</li></ul></td><td>0.5 mL IM 1회. 대한감염학회는 75세 이상 전체와 50~74세 고위험군을 우선 권고하며, 국내 유행 전 늦여름~초가을 접종을 고려</td></tr></tbody></table>
 
-\*\*\*
+***
 
 ## ■ 코로나19 COVID-19
 
