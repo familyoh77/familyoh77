@@ -360,7 +360,9 @@ flowchart TD
 
 **Step 4. 통증 패턴 + 위치 기반 감별 → 검사 선택**
 
+
 * [통증 패턴 인식](003_-abdominal-pain.md#통증-패턴-인식), [영상검사](003_-abdominal-pain.md#영상검사) 참조
+
 
 **Step 5. Disposition 결정**
 
