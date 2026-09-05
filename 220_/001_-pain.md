@@ -163,7 +163,7 @@ flowchart TD
     D4 --> F2[NSAID +\nneuropathic \nagent 병용]
     E0 & F1 & G1 & G2 & F2 --> H[비약물 치료 병행]
     H --> I[고위험 약물 체크]
-    I --> |"·Opioid+BZD\n·NSAID+항응고제\n·Triple Whammy\n·Gabapentinoid+Opioid"| J[처방수정]
+    I --> |"·Opioid+BZD\n·NSAID+항응고제\n·Triple Whammy\n·Gabapentinoid+Opioid"| J[처방 수정]
     I -->|"이상 없음"| K[재평가\n•급성: 1–2주\n•만성: 2–4주]
     K --> L[치료 반응]
     L -->|Good: 임상적으로 의미 있는 통증 감소 및/또는 기능 개선| M[유지 \n→ Taper 계획]
@@ -380,7 +380,7 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 #### <mark style="color:$primary;">Hydromorphone</mark>
 
 * 비서방형 : 초기 2 ㎎을 통증 정도에 따라 4\~6시간마다 경구 투여; 환자 반응·체구에 따라 조절하며, 더 심한 통증에는 4 ㎎ 이상을 4\~6시간마다 투여; 내성이 생기거나 통증이 더 심해지면 점진적 증량 고려; 즉각적인 통증 조절이 필요한 심한 통증에서는 초기에 주사제 사용 <mark style="color:blue;">\[딜리드정/주]</mark>
-* 서방형 : 국내 유통 제제 없음&#x20;
+* 서방형 : 국내 유통 제제 없음
 
 #### <mark style="color:$primary;">Buprenorphine 패취제</mark>
 
@@ -393,7 +393,7 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 
 * 지속적인 중등도\~중증 만성 통증에 국한하여 적용. opioid-tolerant 환자에 한하여 사용
   * opioid-naïve 환자 및 급성/간헐적 통증에는 사용하지 않음
-* 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용  <mark style="color:blue;">\[듀로제식디트랜스 패취]</mark>
+* 용법 : 12, 25, 50, 100 ㎍/h 1매를 3일간 적용 <mark style="color:blue;">\[듀로제식디트랜스 패취]</mark>
 
 ***
 
@@ -504,7 +504,7 @@ class B,B1,B2,F,H,L,N yellow
 * 처음 처방 시 및 장기 처방 중 환자 처방 이력을 주기적으로 검토
 * 적절한 용량 투여 여부 및 과다 복용 위험 약물과의 병용 여부를 지속 확인
 
-<mark style="color:cyan;">**단회 투여 등가진통 환산표 (opioid rotation 참고용)**</mark>&#x20;
+<mark style="color:cyan;">**단회 투여 등가진통 환산표 (opioid rotation 참고용)**</mark>
 
 * 아래 표는 **단회 투여 기준 등가진통 환산계수**이며, 위에서 언급한 만성 통증의 위험도 지표인 **경구 MME(1일 총 투여량 기준)와는 별개의 개념**임 - 정맥·경구·패치 등 투여경로가 섞여 있으므로 혼동하지 않음
 * opioid rotation 시 처방 전환의 직접적인 등가 계산식으로 그대로 사용하지 않음. fentanyl 등은 단순 비례 환산이 특히 위험
@@ -621,7 +621,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 * methocarbamol : 1.5\~2.25 g #3 <mark style="color:blue;">\[메토카몰]</mark>
 * cyclobenzaprine : 15\~30 ㎎ qd(서방형) <mark style="color:blue;">\[본렉스 이알]</mark> (장기 작용; 단기 사용 원칙의 예외적 적용)
 
-### <mark style="color:orange;">Steroid</mark>&#x20;
+### <mark style="color:orange;">Steroid</mark>
 
 * 전신 스테로이드는 일반적인 진통제가 아니며, 염증성 질환·신경 압박의 특정 상황·암성 통증·완화의료 등 원인 질환에 명확한 적응증이 있는 경우에 한하여 사용
 * 작용 : 항염, 진통
@@ -689,14 +689,14 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
   * 신 독성 위험 인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
   * 장기 복용 환자에서 eGFR ＜30 시 NSAIDs 금기(신기능 저하 가속 및 급성 신손상 위험)
   * 고령자에서 10년 NSAID 사용 추적 조사에서 유의미한 신기능 저하가 관찰되지 않았다는 보고가 있음
-  * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험성  - NSAID가 이를 30% 증가시킨다는 보고가 있음
-    * 약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음. 단, naproxen은 GI 출혈 위험이 ibuprofen보다 높음(GI 출혈 위험 비교표 참조)&#x20;
+  * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험성 - NSAID가 이를 30% 증가시킨다는 보고가 있음
+    * 약제 종류 및 용량에 따라 차이가 있으며, naproxen이 상대적으로 심혈관 위험이 낮음. 단, naproxen은 GI 출혈 위험이 ibuprofen보다 높음(GI 출혈 위험 비교표 참조)
 
 #### <mark style="color:$primary;">부작용 대처</mark>
 
 * 최소 유효 용량을 최단 기간 투여
 * 저용량 aspirin과 ibuprofen 병용 시 aspirin을 ibuprofen보다 최소 30분 전에 복용하거나, ibuprofen 복용 후 최소 8시간이 지난 뒤 복용
-  * Aspirin은 COX-1을 비가역적으로 아세틸화하여 혈소판 수명(7\~10일) 동안 항혈소판 효과가 지속되는 반면, ibuprofen은 같은 COX-1 부위에 가역적·경쟁적으로 결합함 - ibuprofen이 aspirin보다 먼저 그 부위를 차지하면 aspirin의 비가역적 아세틸화(=심혈관 보호 효과)가 방해 받을 수 있음&#x20;
+  * Aspirin은 COX-1을 비가역적으로 아세틸화하여 혈소판 수명(7\~10일) 동안 항혈소판 효과가 지속되는 반면, ibuprofen은 같은 COX-1 부위에 가역적·경쟁적으로 결합함 - ibuprofen이 aspirin보다 먼저 그 부위를 차지하면 aspirin의 비가역적 아세틸화(=심혈관 보호 효과)가 방해 받을 수 있음
   * 다른 NSAID와의 상호작용 가능성도 약제별로 고려
 * 장기 복용 환자에서 CBC, RFT, LFT를 최소 매년, 위험 인자가 있는 환자에서는 더 자주 평가
 * 다음의 경우 NSAID 투여 중단 : LFT 정상 상한치 ＞3배, s-albumin↓, PT 연장
@@ -730,7 +730,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 * 투여 횟수 : 통상 플라스타/파스류 1\~2회/d, 크림/겔 1\~4회/d
 * [보험 적용 주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20120824\&sno=501\&mtgMtrRegSno=0001) : 경구투여가 가능함에도 불구하고 진통·진양·수렴·소염제인 외용제제를 처방·조제받은 경우 그 외용제제에 대해서는 비용의 100분의 100 본인 부담함
 * ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark> (12시간 적용), <mark style="color:blue;">\[케토톱 엘플라스타]</mark> (24시간 적용)
-* piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark> (48시간 적용)&#x20;
+* piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark> (48시간 적용)
 * indomethacin <mark style="color:blue;">\[바이겔 크림]</mark>
 * diclofenac <mark style="color:blue;">\[볼타렌 에멀겔]</mark>
 
@@ -791,9 +791,7 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 **상병코드를 병기했다는 사실만으로 급여가 자동 인정되지는 않음** - 실제 진단과 임상 소견(통증 양상, 이전 치료 이력 등)을 진료기록에 남기는 것이 원칙이며, 급여 인정을 목적으로 실제와 다른 상병코드나 소견을 기재하지 않음
 {% endhint %}
 
-
-
-<table data-search="false"><thead><tr><th>약제 분류 (주요 성분 / 대표 상품명 포함)</th><th>KCD 급여 인정 상병 코드</th><th>심평원 인정 기준 및 삭감 방지 핵심 포인트</th></tr></thead><tbody><tr><td><strong>α2δ Ligand계 항경련제 –</strong> Pregabalin <mark style="color:blue;">[리리카]</mark></td><td>• <strong>E10.4~E14.4</strong>: 당뇨병성 말초신경병증 • <strong>G53.0</strong>: 대상포진 후 신경통 • <strong>G54.0~G54.9</strong>: 신경뿌리장애 • <strong>M79.2</strong>: 상세불명의 신경통 및 신경염 • <strong>M79.7</strong>: 섬유근육통 • <strong>G80~G83, I60~I69</strong>: 중추성 신경병성 통증</td><td> • 1차 약제 인정. 차트에 통증 양상 기록 권장. • 서방제는 1일 1회 복용 기준 준수.</td></tr><tr><td><strong>α2δ Ligand계 항경련제 –</strong> Gabapentin <mark style="color:blue;">[뉴론틴]</mark></td><td>• <strong>G53.0</strong>: 대상포진 후 신경통 • <strong>E10.4~E14.4</strong>: 당뇨병성 말초신경병증 • <strong>M79.2</strong>: 상세불명의 신경통 및 신경염 • <strong>G54.0~G54.9</strong>: 신경뿌리장애</td><td>• Pregabalin과 동일하게 신경병성 통증 상병 필수. • 1,800 ㎎/d 이상 투여 시 단계적 증량 기록 필요. • 신기능 저하 환자: CrCl &#x3C; 60, &#x3C; 30, &#x3C; 15 ㎖/min 기준에 따라 감량.</td></tr><tr><td><strong>SNRI 항우울제 –</strong> Duloxetine <mark style="color:blue;">[심발타 캡슐]</mark></td><td>• <strong>E10.4~E14.4</strong>: 당뇨병성 말초신경병성 통증 • <strong>M79.7</strong>: 섬유근육통 • <strong>M17.0~M17.9</strong>: 무릎 골관절염 • <strong>F32 / F33</strong>: 주요 우울장애</td><td>• 무릎 골관절염(<code>M17</code>) 주의: NSAIDs 불응/금기 시에만 인정. • EMR에 NSAIDs 사용 이력 및 부작용/금기 사유 기록 필수.</td></tr><tr><td><strong>선택적 COX-2 억제제 –</strong> Celecoxib <mark style="color:blue;">[쎄레브렉스]</mark></td><td>• <strong>M15~M19</strong>: 골관절염 • <strong>M05~M06</strong>: 류마티스 관절염 • <strong>M45</strong>: 강직성 척추염</td><td>• 급성 통증·원발월경통은 급여 제외. • CABG 전후 통증 치료에는 사용 금지. • 위장관·심혈관계 위험 환자에서는 최저 유효용량·최단기간 사용 권장.</td></tr><tr><td><strong>약한 마약성 진통제 –</strong> Tramadol / AAP 복합제 <mark style="color:blue;">[울트라셋, 트리돌]</mark></td><td>• <strong>M54.5</strong>: 요통 / <strong>M54.2</strong>: 경추통 • <strong>M15~M19</strong>: 골관절염 • <strong>M05~M06</strong>: 류마티스 관절염 • <strong>G50~G59</strong>: 신경장애 / 급성·만성 중등도 통증</td><td>• NSAIDs 등 비마약성 진통제 불충분 시 인정. • Acetaminophen 중복 및 4g/d 초과 주의. • Tramadol 단일제는 중등도 이상 통증 상병 필요.</td></tr><tr><td><strong>강한 마약성 진통제 –</strong> Oxycodone / Hydromorphone / Tapentadol <mark style="color:blue;">[옥시콘틴, 뉴신타]</mark></td><td>• <strong>C00~C97</strong>: 암성 통증 • <strong>M54 / M15~M19 / G50~G59</strong>: 비암성 중증 만성 통증</td><td>• 비암성 통증: 1회 30일 초과 처방 금지. • 속효제(IR) 포함 성분별 1일 총 투여량(Total Daily Dose) 기준 초과 시 100/100 본인부담 전환 및 삭감. • 기준: Oxycodone 60 ㎎/d, Hydromorphone 24 ㎎/d, Tapentadol 300 ㎎/d.</td></tr><tr><td><strong>경피흡수제(Opioid Patch) –</strong> Buprenorphine <mark style="color:blue;">[노스판 패취]</mark></td><td>• <strong>M15~M19</strong>: 중증 관절통 • <strong>M54.0~M54.9</strong>: 중증 척추통증 등 비암성 만성 통증</td><td>• NSAIDs 최대 용량에도 반응하지 않는 중증 만성 통증. • 1주당 최대 20 ㎍/h, 1회 처방 최대 30일. • 투여 전 NSAIDs 사용 이력 기록 필요.</td></tr><tr><td><strong>TCA 삼환계 항우울제 –</strong> Amitriptyline / Nortriptyline <mark style="color:blue;">[에나폰, 에트라빌]</mark></td><td>• <strong>G50.0</strong>: 삼차신경통 • <strong>G53.0</strong>: 대상포진 후 신경통 • <strong>E10.4~E14.4</strong>: 당뇨병성 신경병증 • <strong>F32 / F33</strong>: 우울병</td><td>• 신경병성 통증 보조제로 저용량(5~25 ㎎) 투여 시 상병 부합 필요. • 고령 환자 항콜린성 부작용 및 QT 연장 위험 주의. • 소량 적정 기재.</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>약제 분류 (주요 성분 / 대표 상품명 포함)</th><th>KCD 급여 인정 상병 코드</th><th>심평원 인정 기준 및 삭감 방지 핵심 포인트</th></tr></thead><tbody><tr><td><strong>α2δ Ligand계 항경련제 –</strong> Pregabalin <mark style="color:blue;">[리리카]</mark></td><td>• <strong>E10.4~E14.4</strong>: 당뇨병성 말초신경병증 • <strong>G53.0</strong>: 대상포진 후 신경통 • <strong>G54.0~G54.9</strong>: 신경뿌리장애 • <strong>M79.2</strong>: 상세불명의 신경통 및 신경염 • <strong>M79.7</strong>: 섬유근육통 • <strong>G80~G83, I60~I69</strong>: 중추성 신경병성 통증</td><td>• 1차 약제 인정. 차트에 통증 양상 기록 권장. • 서방제는 1일 1회 복용 기준 준수.</td></tr><tr><td><strong>α2δ Ligand계 항경련제 –</strong> Gabapentin <mark style="color:blue;">[뉴론틴]</mark></td><td>• <strong>G53.0</strong>: 대상포진 후 신경통 • <strong>E10.4~E14.4</strong>: 당뇨병성 말초신경병증 • <strong>M79.2</strong>: 상세불명의 신경통 및 신경염 • <strong>G54.0~G54.9</strong>: 신경뿌리장애</td><td>• Pregabalin과 동일하게 신경병성 통증 상병 필수. • 1,800 ㎎/d 이상 투여 시 단계적 증량 기록 필요. • 신기능 저하 환자: CrCl &#x3C; 60, &#x3C; 30, &#x3C; 15 ㎖/min 기준에 따라 감량.</td></tr><tr><td><strong>SNRI 항우울제 –</strong> Duloxetine <mark style="color:blue;">[심발타 캡슐]</mark></td><td>• <strong>E10.4~E14.4</strong>: 당뇨병성 말초신경병성 통증 • <strong>M79.7</strong>: 섬유근육통 • <strong>M17.0~M17.9</strong>: 무릎 골관절염 • <strong>F32 / F33</strong>: 주요 우울장애</td><td>• 무릎 골관절염(<code>M17</code>) 주의: NSAIDs 불응/금기 시에만 인정. • EMR에 NSAIDs 사용 이력 및 부작용/금기 사유 기록 필수.</td></tr><tr><td><strong>선택적 COX-2 억제제 –</strong> Celecoxib <mark style="color:blue;">[쎄레브렉스]</mark></td><td>• <strong>M15~M19</strong>: 골관절염 • <strong>M05~M06</strong>: 류마티스 관절염 • <strong>M45</strong>: 강직성 척추염</td><td>• 급성 통증·원발월경통은 급여 제외. • CABG 전후 통증 치료에는 사용 금지. • 위장관·심혈관계 위험 환자에서는 최저 유효용량·최단기간 사용 권장.</td></tr><tr><td><strong>약한 마약성 진통제 –</strong> Tramadol / AAP 복합제 <mark style="color:blue;">[울트라셋, 트리돌]</mark></td><td>• <strong>M54.5</strong>: 요통 / <strong>M54.2</strong>: 경추통 • <strong>M15~M19</strong>: 골관절염 • <strong>M05~M06</strong>: 류마티스 관절염 • <strong>G50~G59</strong>: 신경장애 / 급성·만성 중등도 통증</td><td>• NSAIDs 등 비마약성 진통제 불충분 시 인정. • Acetaminophen 중복 및 4g/d 초과 주의. • Tramadol 단일제는 중등도 이상 통증 상병 필요.</td></tr><tr><td><strong>강한 마약성 진통제 –</strong> Oxycodone / Hydromorphone / Tapentadol <mark style="color:blue;">[옥시콘틴, 뉴신타]</mark></td><td>• <strong>C00~C97</strong>: 암성 통증 • <strong>M54 / M15~M19 / G50~G59</strong>: 비암성 중증 만성 통증</td><td>• 비암성 통증: 1회 30일 초과 처방 금지. • 속효제(IR) 포함 성분별 1일 총 투여량(Total Daily Dose) 기준 초과 시 100/100 본인부담 전환 및 삭감. • 기준: Oxycodone 60 ㎎/d, Hydromorphone 24 ㎎/d, Tapentadol 300 ㎎/d.</td></tr><tr><td><strong>경피흡수제(Opioid Patch) –</strong> Buprenorphine <mark style="color:blue;">[노스판 패취]</mark></td><td>• <strong>M15~M19</strong>: 중증 관절통 • <strong>M54.0~M54.9</strong>: 중증 척추통증 등 비암성 만성 통증</td><td>• NSAIDs 최대 용량에도 반응하지 않는 중증 만성 통증. • 1주당 최대 20 ㎍/h, 1회 처방 최대 30일. • 투여 전 NSAIDs 사용 이력 기록 필요.</td></tr><tr><td><strong>TCA 삼환계 항우울제 –</strong> Amitriptyline / Nortriptyline <mark style="color:blue;">[에나폰, 에트라빌]</mark></td><td>• <strong>G50.0</strong>: 삼차신경통 • <strong>G53.0</strong>: 대상포진 후 신경통 • <strong>E10.4~E14.4</strong>: 당뇨병성 신경병증 • <strong>F32 / F33</strong>: 우울병</td><td>• 신경병성 통증 보조제로 저용량(5~25 ㎎) 투여 시 상병 부합 필요. • 고령 환자 항콜린성 부작용 및 QT 연장 위험 주의. • 소량 적정 기재.</td></tr></tbody></table>
 
 ※ **차트 기재 시 참고 예시** (아래 문구 자체가 급여를 보장하지 않으며, 실제 환자 상태와 일치하는 경우에만 기재)
 
