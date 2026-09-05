@@ -22,24 +22,6 @@
 * 기타 피부 염증
 * 콘택트렌즈, 눈 화장, 외상/독성, 약물(isotretinoin, 항히스타민제, 항콜린제), 흡연
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
-
-* 안구의 심한 충혈, 통증, 광과민 동반
-* 시각 장애 또는 급격한 시력 저하
-
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
-
-* 눈꺼풀 병변이 궤양, 비대칭, 지속 출혈 → 악성 종양 배제 필요
-* 속눈썹 탈락(madarosis)이 국소적·비대칭으로 진행
-* 단순포진·대상포진 피부 수포 동반 안구 충혈
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
-
-* 2주간의 비-약물 치료로 해결되지 않는 증상
-* 치료에 반응하지 않거나 재발 반복
-
 ## <mark style="color:green;">종류</mark>
 
 #### <mark style="color:$primary;">지루눈꺼풀염 (Seborrheic blepharitis)</mark>
@@ -47,7 +29,7 @@
 * 속눈썹 주위 피지샘(Zeis샘·Moll샘)의 과도한 분비 및 지루피부염과 연관된 앞쪽 눈꺼풀 염증
 * 증상 : 눈꺼풀 홍반, 기름진 딱지, 기름진 모습; 속눈썹 뿌리에 oily scales
 
-#### <mark style="color:$primary;">Contact dermatitis/blepharitis, Eczematoid blepharitis</mark>
+#### <mark style="color:$primary;">접촉피부염성 안검염 (Contact dermatitis/Eczematoid blepharitis)</mark>
 
 * 원인 : 안약, 화장품 등에 대한 과민 반응 및 2차적 포도알균 감염
 
@@ -78,8 +60,26 @@
 
 <table><thead><tr><th width="136">특징</th><th width="192">Anterior Eyelid – Staphylococcal</th><th width="155">Anterior Eyelid – Seborrheic</th><th width="192">Posterior Eyelid – MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>엉킨, 단단한 비늘/잔여물</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증~중등증 충혈</td><td>경증 충혈</td><td>경증~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>tear film 불안정·dry eye 동반 가능</td><td>tear film 불안정·dry eye 동반 가능</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, (드물게) phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
 
- _MGD = meibomian gland dysfunction_\
- _Ref. AAO. Blepharitis PPP guideline. 2018. Table 2._
+ _MGD = meibomian gland dysfunction_\
+ _Ref. AAO Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86 (2018년판 Table 2 기반 구성; 최신판 대조 확인 권장)._
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+
+* 안구의 심한 충혈, 통증, 광과민 동반 (→ 각막궤양·공막염·안와봉와직염 의심)
+* 시각 장애 또는 급격한 시력 저하
+
+<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+
+* 눈꺼풀 병변이 궤양, 비대칭, 지속 출혈 → 악성 종양 배제 필요
+* 속눈썹 탈락(madarosis)이 국소적·비대칭으로 진행
+* 단순포진·대상포진 피부 수포 동반 안구 충혈
+
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+
+* 2주간의 비-약물 치료로 해결되지 않는 증상
+* 치료에 반응하지 않거나 재발 반복
 
 ## <mark style="color:green;">진단</mark>
 
@@ -103,6 +103,40 @@
 
 ***
 
+```mermaid
+graph TD
+    Start([양측성 눈꺼풀 증상]) --> Chronic{만성 경과 + 아침 악화?}
+    Chronic -- No --> OtherDx[다른 질환 감별 - 결막염, Hordeolum 등]
+    Chronic -- Yes --> Crust{가장자리 딱지/비늘?}
+    Crust -- No --> OtherDx
+    Crust -- Yes --> Type{유형 감별}
+    Type -- 기름진 딱지 + 지루피부염 --> Seb[Seborrheic blepharitis]
+    Type -- 아침 심한 딱지 + 궤양/탈모 --> Staph[Staphylococcal blepharitis]
+    Type -- 반복 다래끼 + Rosacea --> MGD[MGD]
+    Type -- Collarette --> Demo[Demodex blepharitis]
+    Seb --> Step1[Step 1. 눈꺼풀 위생 2주]
+    Staph --> Step1
+    MGD --> Step1
+    Demo --> Step1
+    Step1 --> Resp1{반응 충분?}
+    Resp1 -- Yes --> Maint[유지 관리 지속]
+    Resp1 -- No --> Step2[Step 2. 국소 항생제 ± 단기 스테로이드]
+    Step2 --> Resp2{반응 충분?}
+    Resp2 -- Yes --> Maint
+    Resp2 -- No --> Step3[Step 3. 경구 항생제 ± 국소 steroid]
+    Step3 --> Resp3{반응 충분?}
+    Resp3 -- Yes --> Maint
+    Resp3 -- No --> Step4[Step 4. 난치성 치료 - 안과 의뢰]
+    style Start fill:#f96,stroke:#e65100,stroke-width:2px
+    style Step4 fill:#f3e5f5,stroke:#4a148c
+```
+
+<p align="center"><strong>안검염 진단 및 치료 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. AAO Blepharitis PPP (2024) 단계별 관리 원칙에 기반해 저자 재구성</mark></em></p>
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -114,7 +148,7 @@
 
 <table><thead><tr><th width="80">단계</th><th width="200">대상</th><th>치료</th></tr></thead><tbody><tr><td><strong>Step 1</strong></td><td>모든 안검염</td><td>눈꺼풀 위생 (온찜질·마사지·세척) - 2주 시행</td></tr><tr><td><strong>Step 2</strong></td><td>Step 1 반응 불충분</td><td>국소 항생제 연고(erythromycin, bacitracin) 추가; 염증 동반 시 항생제/스테로이드 복합제(2주 이내)</td></tr><tr><td><strong>Step 3</strong></td><td>Step 2 반응 불충분 또는 MGD 우세형</td><td>경구 항생제(doxycycline·minocycline) 중심 치료; 염증 소견 지속 시 단기 국소 steroid 병용 가능</td></tr><tr><td><strong>Step 4</strong></td><td>난치성·재발성</td><td>cyclosporine 점안액; IPL(Intense Pulsed Light) 시술(비급여, 안과 전문의 시행) - 안과 의뢰 후 고려; Demodex형은 lotilaner 점안액(Demodex 안검염 전용 치료제로 현재 가장 근거 확립; 국내 미도입) 고려</td></tr></tbody></table>
 
-## <mark style="color:green;">비-약물 치료</mark>
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 온찜질(따뜻한 물수건) : 눈꺼풀 테두리 세정 보조 및 MGD 지질층 개선; 1일 2\~4회, 매회 5\~10분 적용
   * 온도 유지 : 40\~43℃. 매일 유지 가능한 현실적 시간으로 설정; 아이마스크형 팩 활용 시 편의성 향상
@@ -157,7 +191,7 @@
 
 ### <mark style="color:orange;">Demodex 구제</mark>
 
-* lotilaner 0.25% 점안액 <mark style="color:blue;">\[Xdemvy]</mark> : bid ×6주; FDA 승인, Demodex 안검염 최초 전용 치료제; TTO 대비 자극 적고 순응도 높음 (✽현재 국내 미도입)
+* lotilaner 0.25% 점안액 <mark style="color:blue;">\[Xdemvy]</mark> : bid ×6주; FDA 승인, Demodex 안검염 최초 전용 치료제; TTO 대비 자극 적고 순응도 높음 (✽2026년 기준 중국 NMPA 승인, 일본은 허가 경로 논의 중; 국내는 아직 미도입)
 * ivermectin : 200 ㎍/㎏ PO, 1주 후 반복 (✽일부 연구에서 보고되나 표준 치료로 권고되지 않음; 국내 안검염 적응증 미승인)
 * tea tree oil : 저농도(5–10%) TTO 기반 lid scrub을 매일 시행; 고농도는 자극성이 강해 전문 시술에서만 사용 (✽효과 입증 불충분; 자극성·낮은 순응도 단점)
 * 유아용 샴푸로 매일 눈꺼풀 가장자리 세척
@@ -165,6 +199,14 @@
 ### <mark style="color:orange;">영양</mark>
 
 * 오메가-3 : 1\~2 g qd\~bid <mark style="color:blue;">\[오마코]</mark> (✽DREAM Study 2018: 건성안 환자에서 위약 대비 유의미한 증상 개선 효과 미입증; 안검염/MGD 특이적 근거도 불충분. 효과를 보려면 6\~12개월 복용이 필요할 수 있음)
+
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+* IPL(Intense Pulsed Light) : meibomian gland 기능 개선 및 염증 완화 목적; 4\~6주 간격 3\~4회 시행; 비급여, 안과 전문의 시행; Step 4(난치성) 단계에서 고려
+* Thermal pulsation(예: LipiFlow 등 기기) : meibomian gland 가온·압출을 통한 개형; 국내 도입 시설 제한적, 비급여
+* Meibomian gland probing : 폐쇄가 뚜렷한 경우 탐침을 이용한 물리적 개통; 안과 전문의 시행
+* BlephEx 등 기계적 눈꺼풀 가장자리 디브리망 : 딱지·biofilm 제거 목적의 전문 시술; 근거 수준은 아직 제한적
+* 대부분 안과 전문의 의뢰 후 시행; 1차 진료에서는 시술 적응증 해당 여부 판단 및 의뢰가 핵심 역할
 
 ***
 
