@@ -238,8 +238,8 @@ graph TD
 
 ### <mark style="color:orange;">인공 눈물, 윤활제</mark>
 
-* 1차 선택제 (☞ [보험기준](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12124\&brdScnBltNo=4\&pgmid=HIRAA020002000100))
-  * 보험기준 요약(2026.7.1. 시행) : 건성안증후군에 사용하는 일회용 인공누액제는 동일 기전 내 1종만 급여 인정. sodium hyaluronate 일회용 제제는 내인성 질환에 의한 각결막상피장애 등 인정 범위에서 원칙적으로 1일 최대 6관이며, Sjögren syndrome·Stevens-Johnson syndrome·이식편대숙주병으로 인한 건성안증후군은 용량 제한의 예외
+* 1차 선택제
+  * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701\&sno=1\&mtgMtrRegSno=0003) (2026.7.1.) : 건성안증후군에 사용하는 일회용 인공누액제는 동일 기전 내 1종만 급여 인정. sodium hyaluronate 일회용 제제는 내인성 질환에 의한 각결막상피장애 등 인정 범위에서 원칙적으로 1일 최대 6관이며, Sjögren syndrome·Stevens-Johnson syndrome·이식편대숙주병으로 인한 건성안증후군은 용량 제한의 예외
 * 사용 빈도 : 경증 - 증상 시 필요에 따라 사용; 중등도 이상 - 규칙적 사용(qid 이상) 권장
 * 경증 눈마름증에 대하여 필요시 사용
 * 정확한 점안 시 한쪽 눈에 한 방울로 충분
