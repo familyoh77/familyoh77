@@ -164,12 +164,12 @@
 
 ```mermaid
 graph TD
-    A([후각·미각 이상 호소]) --> B{"기본 맛(단·짠·신·쓴)<br/>자체가 저하되었는가?"}
+    A([후각·미각 이상 호소]) --> B["기본 맛(단·짠·신·쓴)<br/>자체가 저하되었는가?"]
     B -->|"YES"| C["구강건조·구강질환·약물<br/>CN VII/IX/X 등 원인 확인<br/>(진짜 미각 장애 평가)"]
-    B -->|"NO<br/>(풍미·후각 문제 의심)"| D{"Tier 1 Red Flag?<br/>급성 신경학적 결손·의식 변화<br/>외상 후 맑은 수양성 비루"}
+    B -->|"NO<br/>(풍미·후각 문제 의심)"| D["Tier 1 Red Flag?<br/>급성 신경학적 결손·의식 변화<br/>외상 후 맑은 수양성 비루"]
     C --> D
     D -->|"YES"| E1["즉각 영상검사(MRI/CT)<br/>신경과·ENT 응급 평가"]
-    D -->|"NO"| D2{"Tier 2 Red Flag?<br/>진행성 편측 후각장애·비출혈<br/>원인불명 Phantosmia·고립성 뇌신경 이상"}
+    D -->|"NO"| D2["Tier 2 Red Flag?<br/>진행성 편측 후각장애·비출혈<br/>원인불명 Phantosmia·고립성 뇌신경 이상"]
     D2 -->|"YES"| E2["당일~조기 ENT·신경과 의뢰<br/>필요 시 영상검사"]
     D2 -->|"NO"| F["발병 양상 및 동반 증상에 따른 분류"]
     F --> G["급성 + URI·COVID 선행<br/>→ Post-viral Sensorineural"]
@@ -184,6 +184,9 @@ graph TD
     P --> P2["원인 약물 검토<br/>가능하면 중단 또는 대체"]
     K --> N["Sensorineural 치료<br/>후각 훈련 ≥12주<br/>전신 스테로이드 routine X<br/>Zinc: 결핍 확인 시만 보충<br/>3개월 지속 → ENT 의뢰"]
     H2 --> N
+    style B fill:#fff9c4,stroke:#ffe082,stroke-width:2px
+    style D fill:#fff9c4,stroke:#ffe082,stroke-width:2px
+    style D2 fill:#fff9c4,stroke:#ffe082,stroke-width:2px
     style E1 fill:#f44336,stroke:#b71c1c,color:#fff,stroke-width:2px
     style E2 fill:#ffb74d,stroke:#e65100,stroke-width:2px
     style F fill:#fff9c4,stroke:#ffe082,stroke-width:2px
