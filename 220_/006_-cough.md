@@ -200,13 +200,11 @@
 ```mermaid
 graph TD
     %% 텍스트 양옆에 &emsp;를 추가하여 가로 길이를 강제로 늘립니다.
-    Start["배제 증상/징후"]
-    Start -.-> FOOTNOTE
+    Start["배제 증상/징후✽"]
     Start -- "해당사항 없음" --> Symptomatic["대증 치료"]
-    FOOTNOTE["<u>배제 증상/징후</u><br/>• 객혈, 호흡곤란, 쉰 목소리, <br/>구토, 연하곤란<br/>• 전신증상(발열, 체중감소,<br/> 사지부종 동반 체중 증가)<br/>• 비정상 호흡음, <br/>부잡음(악설음, 천명, 협착음)<br/>• 기저 폐질환 및 <br/>심질환 악화 소견<br/>• 잦은 흡인성 폐렴, 섭식장애<br/>• 55세 이상 30갑년 이상 <br/>흡연자, 또는 45세 이상 <br/>흡연자의 새 기침·양상 변화<br/>• >2주 지속"]
+    FOOTNOTE["✽<u>배제 증상/징후</u><br/>• 객혈, 호흡곤란, 쉰 목소리, <br/>구토, 연하곤란<br/>• 전신증상(발열, 체중감소,<br/> 사지부종 동반 체중 증가)<br/>• 비정상 호흡음, <br/>부잡음(악설음, 천명, 협착음)<br/>• 기저 폐질환 및 <br/>심질환 악화 소견<br/>• 잦은 흡인성 폐렴, 섭식장애<br/>• 55세 이상 30갑년 이상 <br/>흡연자, 또는 45세 이상 <br/>흡연자의 새 기침·양상 변화<br/>• >2주 지속"]
     Symptomatic -- "호전" --> Maintain["대증 치료 유지 및 <br/>추적 관찰¹⁾"]
-    Symptomatic -- "호전 안됨" --> Xray
-    
+    Symptomatic -- "호전 안됨" --> Xray  
     Start -- "해당사항 있음" --> Xray["흉부 X선 촬영"]
     Xray -- "정상" --> RedFlags["객혈, 일측성 천명음/협착음,<br/>쉰 목소리, 전신증상"]
     Xray -- "비정상 또는 기저 질환의 <br/>급성 악화 의심" --> TreatCause["원인 질환 및 악화 요인 치료, <br/>추가 검사"]
@@ -215,14 +213,12 @@ graph TD
     CT -- "정상" --> Maintain
     PFT -- "정상" --> Maintain
     PFT -- "비정상" --> TreatBase["기저/원인 질환에 대한 <br/>평가 및 치료¹⁾"]
-
 style Start fill:#f5f5f5,stroke:#333
 style FOOTNOTE fill:#f5f5f5,stroke:#333
 classDef yellow fill:#fff9c4,stroke:#ffe082
 class RedFlags yellow
 classDef lightGreen fill:#e8f8e8,stroke:#4caf50
 class Xray,CT,PFT lightGreen
-
     style Maintain fill:#e1f5fe,stroke:#01579b
     style TreatCause fill:#e1f5fe,stroke:#01579b
     style TreatBase fill:#e1f5fe,stroke:#01579b
@@ -298,7 +294,7 @@ graph TD
     style Maintain fill:#e1f5fe,stroke:#01579b
 ```
 
-<p align="center"><strong>만성기침의 진단과 치료 - treatable-traits 접근</strong><br><em><mark style="color:$info;">저자 재구성 (관련 문헌 : BTS Clinical Statement on chronic cough in adults. 2023;</mark></em> <br><em><mark style="color:$info;">WAO-ARIA consensus on chronic cough. 2025)</mark></em></p>
+<p align="center"><strong>만성기침의 진단과 치료 - treatable-traits 접근</strong><br><em><mark style="color:$info;">저자 재구성 (관련 문헌 : BTS Clinical Statement on chronic cough in adults. 2023;</mark></em><br><em><mark style="color:$info;">WAO-ARIA consensus on chronic cough. 2025)</mark></em></p>
 
 ***
 
@@ -447,8 +443,6 @@ graph TD
 > _✽ 프리비투스 8 ㎖ 현탁액 포는 공급 중단되어 500 ㎖ 병 제품으로 조제; 포 단위 처방이 필요한 경우 다른 진해거담제를 별도 선택_
 >
 > _✽ Codeine 함유 제제는 상기도기침증후군의 적응에 해당하지 않으며, routine 기침에는 권장되지 않음. 난치성 만성기침(RCC)에 대한 근거는 codeine이 아니라 저용량 서방형 morphine에서 확립되어 있음(☞ "원인불명 만성기침(UCC)/난치성 만성기침(RCC)" 항목 참조); codeine을 RCC 치료 목적으로 권장하지 않음. 18세 미만 소아·청소년에서는 호흡 억제/부전 위험 때문에 기침 억제 목적의 codeine 함유 약물 사용을 피할 것을 권고함 (대한결핵 및 호흡기학회 기침진료지침, 2020)._
-
-
 
 > **처방례 2. Tic cough / Somatic cough syndrome - 행동치료 중심**
 >
