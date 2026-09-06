@@ -198,6 +198,34 @@
 ***
 
 ```mermaid
+graph TD
+    %% 텍스트 양옆에 &emsp;를 추가하여 가로 길이를 강제로 늘립니다.
+    Start["배제 증상/징후"]
+    Start -- "해당사항 없음" --> Symptomatic["대증 치료"]
+    FOOTNOTE["<u>배제 증상/징후</u><br/>• 객혈, 호흡곤란, 쉰 목소리, <br/>구토, 연하곤란<br/>• 전신증상(발열, 체중감소,<br/> 사지부종 동반 체중 증가)<br/>• 비정상 호흡음, <br/>부잡음(악설음, 천명, 협착음)<br/>• 기저 폐질환 및 <br/>심질환 악화 소견<br/>• 잦은 흡인성 폐렴, 섭식장애<br/>• 55세 이상 30갑년 이상 <br/>흡연자, 또는 45세 이상 <br/>흡연자의 새 기침·양상 변화<br/>• >2주 지속"]
+    Symptomatic -- "호전" --> Maintain["대증 치료 유지 및 <br/>추적 관찰¹⁾"]
+    Symptomatic -- "호전 안됨" --> Xray
+    
+    Start -- "해당사항 있음" --> Xray["흉부 X선 촬영"]
+    Xray -- "정상" --> RedFlags["객혈, 일측성 천명음/협착음,<br/>쉰 목소리, 전신증상"]
+    Xray -- "비정상 또는 기저 질환의 <br/>급성 악화 의심" --> TreatCause["원인 질환 및 악화 요인 치료, <br/>추가 검사"]
+    RedFlags -- "있음" --> CT["흉부 CT 촬영, <br/>기관지 내시경검사"]
+    RedFlags -- "없음" --> PFT["폐 기능검사(기관지확장제 <br/>반응 포함) ±기관지 유발 검사²⁾"]
+    CT -- "정상" --> Maintain
+    PFT -- "정상" --> Maintain
+    PFT -- "비정상" --> TreatBase["기저/원인 질환에 대한 <br/>평가 및 치료¹⁾"]
+
+style Start fill:#f5f5f5,stroke:#333
+style FOOTNOTE fill:#f5f5f5,stroke:#333
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class RedFlags yellow
+classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+class Xray,CT,PFT lightGreen
+
+    style Maintain fill:#e1f5fe,stroke:#01579b
+    style TreatCause fill:#e1f5fe,stroke:#01579b
+    style TreatBase fill:#e1f5fe,stroke:#01579b
+
 ```
 
 ¹⁾ _증상 지속 시 아급성 및 만성 기침 알고리듬에 따름_\
@@ -208,6 +236,33 @@
 ***
 
 ```mermaid
+graph TD
+    Start["3~8주의 기침"] --> Xray["병력청취, 신체진찰<br/>흉부 X선 ± 부비동 촬영"]
+    
+    Xray -- "비정상" --> TreatCause["원인 질환 치료 및 <br/>추가 검사"]
+    
+    Xray -- "정상" --> RedFlags["객혈, 일측성 천명음/협착음, 쉰 목소리,<br/>전신증상, 흡인위험(구토·연하곤란·잦은 폐렴·섭식장애),<br/>55세 이상 30갑년 이상 또는<br/>45세 이상 흡연자의 새 기침·양상 변화"]
+    RedFlags -- "있음" --> CT["흉부 CT 촬영 ±<br/>기관지내시경 검사"]
+    RedFlags -- "없음" --> PostInfectious["기침 시작 전 혹은 기침 <br/>+ 상기도 감염 증상"]
+    CT -- "비정상" --> TreatCause
+    CT -- "정상" --> PFT["폐 기능검사와<br/>기관지유발 검사"]
+    PFT -- "비정상" --> TreatCause
+    PFT -- "정상" --> Chronic["만성 기침에 준한 <br/>평가와 치료"]
+    PostInfectious -- "있음" --> Symptomatic["대증 치료*"]
+    PostInfectious -- "없음" --> Chronic
+    
+    Symptomatic -- "호전" --> FollowUp["대증요법 지속 및 <br/>추적 평가"]
+    Symptomatic -- "호전 없음" --> Chronic
+    
+    FollowUp -- "악화 및 재발" --> Chronic
+    %% 스타일 설정
+    style Start fill:#f5f5f5,stroke:#333
+    style RedFlags fill:#ffebee,stroke:#c62828
+    style PostInfectious fill:#fff9c4,stroke:#fbc02d
+    style FollowUp fill:#e1f5fe,stroke:#01579b
+    style TreatCause fill:#e1f5fe,stroke:#01579b
+    style Chronic fill:#e1f5fe,stroke:#01579b
+
 ```
 
 _\*임상적 특성을 고려하여 Pertussis 또는 Mycoplasma 감염이 의심되면 이에 대한 검사 및 치료를 시행할 수 있음_
@@ -217,6 +272,29 @@ _\*임상적 특성을 고려하여 Pertussis 또는 Mycoplasma 감염이 의심
 ***
 
 ```mermaid
+graph TD
+    Start["성인 만성기침 ≥8주<br/>• 병력 및 신체검사<br/>• Red flag 확인<br/>• ACEI/흡연/직업·환경 노출 확인"]
+    Start --> Basic["기본 평가<br/>• 흉부 X선<br/>• 폐 기능검사<br/>• ± FeNO / 혈중 eosinophils"]
+    Basic --> Abnormal["이상 소견 또는<br/>특이적 임상 단서?"]
+    Abnormal -- "있음" --> Specific["추정 질환에 대한 <br/>표적 검사·치료<br/>• 감염/결핵/<br/>기관지확장증<br/>• 악성질환/심부전 등<br/>• 필요 시 CT<br/>·기관지내시경"]
+    Abnormal -- "없음" --> Traits["치료 가능한 특성<br/>(treatable traits) 평가"]
+    Traits --> Eos["T2/eosinophilic <br/>airway disease 의심<br/>CVA/NAEB <br/>→ ICS 중심 치료"]
+    Traits --> Upper["비염/비부비동염 소견<br/>→ 비강 steroid ±<br/> 항히스타민제 등"]
+    Traits --> Reflux["Heartburn/<br/>regurgitation 또는<br/>객관적 acid reflux 근거<br/>→ 생활습관 교정 ± PPI"]
+    Traits --> Productive["만성 productive <br/>cough<br/>→ 감염·<br/> 기관지확장증 등 평가"]
+    Eos --> FU["치료 반응 평가"]
+    Upper --> FU
+    Reflux --> FU
+    Productive --> FU
+    Specific --> FU
+    FU -- "호전" --> Maintain["필요 기간 치료 후 <br/> 단계적 감량·추적"]
+    FU -- "지속" --> Add["추가 평가<br/>• Methacholine challenge<br/>• 유도객담 eosinophils<br/>• Chest CT<br/>• ENT/후두 평가<br/>• 식도 생리검사 등 선택"]
+    Add --> RCC["RCC/UCC 또는 <br/> 기침과민증후군<br/>→ cough control therapy<br/>± neuromodulator"]
+    style Start fill:#f5f5f5,stroke:#333
+    style Traits fill:#fff9c4,stroke:#fbc02d
+    style FU fill:#f5f5f5,stroke:#333
+    style RCC fill:#ffebee,stroke:#ef5350
+    style Maintain fill:#e1f5fe,stroke:#01579b
 ```
 
 <p align="center"><strong>만성기침의 진단과 치료 - treatable-traits 접근</strong><br><em><mark style="color:$info;">저자 재구성 (관련 문헌 : BTS Clinical Statement on chronic cough in adults. 2023;</mark></em> <br><em><mark style="color:$info;">WAO-ARIA consensus on chronic cough. 2025)</mark></em></p>
@@ -410,7 +488,7 @@ _\*임상적 특성을 고려하여 Pertussis 또는 Mycoplasma 감염이 의심
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **기침은 기도를 보호하는 자연 반응입니다 - 원인을 파악하면 효과적으로 조절할 수 있습니다**
