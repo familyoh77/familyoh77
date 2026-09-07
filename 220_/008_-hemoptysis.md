@@ -175,7 +175,7 @@ graph TD
 
 <table><thead><tr><th width="80">위험도</th><th>기준</th><th>처치</th></tr></thead><tbody><tr><td><strong>고위험</strong></td><td>life-threatening hemoptysis, 기도 위협, 호흡·혈역학적 불안정, 활동성 출혈 지속</td><td>즉시 응급실 의뢰, 기도 확보; CTA/기관지내시경 및 BAE 가능 기관으로 전원</td></tr><tr><td><strong>중위험</strong></td><td>암·결핵 의심, 반복 객혈, 흉부 X선 이상, 항응고제 복용 + 지속·반복 출혈 또는 Hb 감소</td><td>수일 내 전문과 의뢰 및 CT 등 추가 평가</td></tr><tr><td><strong>저위험</strong></td><td>젊은 비흡연자, 단발성 극소량, 명확한 URI 상황, 위험 인자 없음</td><td>제한적 평가와 외래 경과 관찰; 지속·반복 시 영상검사</td></tr></tbody></table>
 
-_<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemoptysis (2020), Society of Chest Imaging and Interventions Consensus Guidelines (2023), ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants (2020) 참조.</mark>_
+_<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemoptysis (2020), Society of Chest Imaging and Interventions Consensus Guidelines (2023), ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants (2020), FDA Safety Communication on Andexxa (2025) 참조.</mark>_
 
 #### <mark style="color:$primary;">전원 기준</mark>
 
@@ -187,10 +187,11 @@ _<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemopt
   * 항응고제(와파린, DOAC, 헤파린/저분자헤파린 등) 복용 중이면서 지속·반복 출혈, Hb 감소, 과량 항응고 의심, 신기능 저하 또는 호흡·혈역학 이상이 있는 경우
     * 마지막 복용 시간·신기능·출혈 중증도·혈전색전 위험을 평가하고 적절한 기관으로 신속 전원
     * 항응고제 ↔ 역전제(해독제)
-      * dabigatran <mark style="color:blue;">\[프라닥사]</mark> ↔ <mark style="color:blue;">\[프락스바인드]</mark>; 사용 불가능하면 4F-PCC/aPCC 고려
-      * rivaroxaban <mark style="color:blue;">\[자렐토]</mark>·apixaban <mark style="color:blue;">\[엘리퀴스]</mark> ↔ andexanet alfa(안전성 문제로 사용 중단); 4F-PCC를 기관 protocol에 따라 고려
-      * edoxaban <mark style="color:blue;">\[릭시아나]</mark> ↔ 승인된 특이 역전제 없음; 4F-PCC 고려
-      * Warfarin ↔ 4F-PCC + IV vitamin K; 4F-PCC 사용 불가능 시 FFP 고려
+      * ※ 국내에는 현재 시판되는 4F-PCC가 없음. aPCC인 FEIBA는 국내 허가·공급되지만 허가 적응증은 응고인자 억제인자를 보유한 혈우병 환자의 출혈 관리이며, DOAC 역전 목적 사용은 허가 외 사용이므로 혈액학·수혈의학 전문의 및 기관 protocol에 따름
+      * dabigatran <mark style="color:blue;">\[프라닥사]</mark> ↔ idarucizumab <mark style="color:blue;">\[프락스바인드]</mark>
+      * rivaroxaban <mark style="color:blue;">\[자렐토]</mark>·apixaban <mark style="color:blue;">\[엘리퀴스]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음(andexanet alfa는 안전성 문제로 미국 판매 중단, 국내 미공급); FFP와 vitamin K는 역전제로 사용하지 않으며 비특이적 지혈제 사용 여부는 전문의 및 기관 protocol에 따라 결정
+      * edoxaban <mark style="color:blue;">\[릭시아나]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음; FFP와 vitamin K는 역전제로 사용하지 않으며 비특이적 지혈제 사용 여부는 전문의 및 기관 protocol에 따라 결정
+      * warfarin ↔ 4F-PCC + IV vitamin K가 우선이나, 국내에서 4F-PCC를 사용할 수 없으면 FFP + IV vitamin K
       * UFH/LMWH 복용 중인 경우 → protamine 고려 (LMWH는 부분적 중화만 가능)
 
 ***
@@ -242,18 +243,18 @@ R04.2 객혈
 > [와파린]
 > ※ 판단 기준 : 출혈 중증도, INR, 혈전색전 위험을 함께 평가
 > → 비중증 소량 객혈 : warfarin 일시 중단 여부를 개별 결정하고 INR 확인; routine vitamin K는 일반적으로 필요하지 않음
-> → major/life-threatening bleeding : 즉시 warfarin 중단 + 4F-PCC + IV vitamin K, 응급 전원
->    ※ 4F-PCC 사용 불가능 시 FFP 고려
+> → major/life-threatening bleeding : 즉시 warfarin 중단 + FFP + IV vitamin K, 응급 전원
+>    ※ 4F-PCC + IV vitamin K가 우선 권고되나 국내에는 시판되는 4F-PCC가 없어, FFP + IV vitamin K가 국내에서 사용 가능한 대안임
 >
 > [DOAC]
 > ※ 판단 기준 : 마지막 복용 시간 및 eGFR 확인 (신기능 저하 시 약물 축적 가능)
 > → 비중증 출혈 : 일시 중단 여부를 출혈 정도와 혈전색전 위험에 따라 결정
-> → major/life-threatening bleeding : 즉시 중단하고 reversal agent 투여 가능 기관으로 응급 전원
->    Dabigatran → idarucizumab [프락스바인드]; 사용 불가능하면 4F-PCC/aPCC 고려
->    리바록사반·아픽사반 → andexanet alfa
->       ※ 미국은 안전성 문제(혈전색전증·혈전 관련 사망 증가)로 2025년 12월 판매 중단; EU·영국은 조건부 허가 유지 중; 국내 허가·공급 여부는 별도 확인 필요
->       사용 불가하거나 확보되지 않으면 4F-PCC 고려
->    에독사반 → 승인된 특이 역전제 없음; 4F-PCC 고려
+> → major/life-threatening bleeding : 즉시 중단하고 응급 전원
+>    Dabigatran → idarucizumab [프락스바인드] 투여
+>    리바록사반·아픽사반·에독사반 → 국내에 승인된 특이 역전제 없음(andexanet alfa는 안전성 문제로 미국 판매 중단, 국내 미공급)
+>       FFP와 vitamin K는 factor Xa 억제제의 역전제로 사용하지 않으며 상급기관 응급 전원
+>       ※ 해외 지침에서는 andexanet alfa를 사용할 수 없을 때 4F-PCC 등 비특이적 지혈제를 고려하나 국내에는 시판되는 4F-PCC가 없음
+>       ※ aPCC인 FEIBA는 국내 허가·공급되지만 DOAC 역전 목적 사용은 허가 외 사용이므로 혈액학·수혈의학 전문의 및 기관 protocol에 따름
 >
 > [UFH/LMWH]
 > → protamine 고려 (LMWH는 부분적 중화만 가능)
@@ -292,7 +293,7 @@ R04.2 객혈
 > **항응고제 복용 중 객혈**
 >
 > * 출혈 중증도와 혈전색전 위험을 함께 평가하여 중단 여부를 개별 결정; 임의로 자가 중단하지 않도록 안내
-> * Major/life-threatening bleeding이면 즉시 중단 + reversal 가능 기관으로 응급 전원 (andexanet alfa는 미국에서 안전성 문제로 판매가 중단되었으며, 국내 허가·공급 여부는 확인이 필요함에 유의)
+> * Major/life-threatening bleeding이면 즉시 중단 + reversal 가능 기관으로 응급 전원 (andexanet alfa는 미국에서 안전성 문제로 판매가 중단되었으며 국내에는 승인·공급되지 않음)
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
