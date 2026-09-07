@@ -3,9 +3,9 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 사회적으로 받아들여지는 정도를 넘어선, 일상생활에 지장을 줄 수 있는 구강 악취
-* 분류&#x20;
+* 분류
   1. 진성 구취(genuine halitosis) : 구강내성(intraoral halitosis) vs 구외성(extraoral halitosis - 혈액매개·비혈액매개)
-  2. 가성 구취(pseudo-halitosis)&#x20;
+  2. 가성 구취(pseudo-halitosis)
   3. Olfactory reference disorder(ORD)
 * 구취의 약 85\~90%는 구강 내 원인이며, 비강·호흡기·소화기·전신 질환에 의한 경우는 상대적으로 드묾
 * 유병률 : 약 30% (연구 간 차이가 큼)
@@ -84,12 +84,12 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
-* 당뇨병 환자에서 아세톤·과일 냄새 + 구역/구토, 복통, 빠른 호흡, 의식 변화  `DKA`
+* 당뇨병 환자에서 아세톤·과일 냄새 + 구역/구토, 복통, 빠른 호흡, 의식 변화 `DKA`
 * 의식 변화가 동반된 황달·간부전 또는 진행된 신부전/요독증
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일 평가 또는 조기 의뢰**</mark>
 
 * 지속성 구강 궤양·종괴 또는 경부 종괴
 * 연하 곤란, 설명되지 않는 체중 감소
@@ -97,7 +97,7 @@
 * 객혈 또는 반복적인 폐렴
 * 신부전 환자에서 암모니아·소변과 유사한 냄새(요독증) + 소변량 감소·부종 등 신기능 악화 소견 (생선 비린내가 겹칠 수 있으나, 신기능이 정상이면 트리메틸아민뇨증 등 다른 원인 고려)
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>&#x20;
+<mark style="color:$info;">**조기 원인 평가 및 면밀한 추적**</mark>
 
 * 치과 치료 및 구강 위생 관리 후에도 객관적 구취가 2\~4주 이상 지속
 
@@ -196,8 +196,6 @@ class C,D2,K yellow
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
-
-
 
 * 금연
 * 원인 치료, 입냄새 유발 음식 회피
