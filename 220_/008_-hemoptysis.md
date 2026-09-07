@@ -27,13 +27,13 @@
 * Hb ＜8 g/㎗ (객혈과 관련된 급성 저하가 아니거나 혈역학적으로 안정된 경우)
   * 급성 저하·혈역학적 불안정이 동반되면 위 Tier 1 적용
 * 폐동맥류/가성동맥류(예: 결핵성 Rasmussen aneurysm), 폐동정맥기형(PAVM), aspergilloma 또는 병변의 폐동맥 침범 등 고위험 혈관성 원인 의심
-* 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡 곤란  `심부전`
+* 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡 곤란 `심부전`
 
 <mark style="color:$info;">**조기 원인 평가 및 면밀한 추적**</mark>
 
 * 체중 감소, 피로, malaise
 * 과도한 흡연력
-* 소량이라도 반복되는 객혈  `폐암`
+* 소량이라도 반복되는 객혈 `폐암`
 
 ※ 기도 폐쇄(asphyxia) 위험 시 즉각 대응; 소량의 객혈이라도 기도를 막으면 질식사 가능. 호흡 곤란·호흡음 감소·산소포화도 저하가 있으면 즉시 기도 확보 및 응급 의뢰
 
@@ -52,7 +52,7 @@
 * 폐색전증 : 갑자기 시작되는 흉막염성 흉통, 호흡 곤란 후 객혈; 객혈이 동반되면 폐경색을 시사
 * 미만성 폐포출혈(diffuse alveolar hemorrhage, DAH)/폐-신 증후군 : ANCA 연관 혈관염(GPA, MPA), anti-GBM disease 등이 대표 원인; 양측성 폐침윤 또는 ground-glass opacity + Hb 감소 + 저산소혈증 ± 혈뇨·단백뇨·신기능 악화가 동반되면 의심; 일부 환자에서는 객혈이 없을 수 있으므로 객혈 부재만으로 배제하지 않음
 * 심장 질환 : 활동 시 또는 야간 발작 호흡 곤란, 기좌 호흡, 피로, 거품이 있는 분홍색 가래
-  * 승모판 협착증 :  좌심방 압력 상승 → 폐정맥 고혈압으로 객혈 유발
+  * 승모판 협착증 : 좌심방 압력 상승 → 폐정맥 고혈압으로 객혈 유발
 * 약제 유발
   * 항응고제(와파린, DOAC, 헤파린/저분자헤파린) : 용량 과다 또는 상호작용
   * 항혈관신생제(Bevacizumab) : 특히 편평세포폐암에서 치명적 대량 출혈 위험
@@ -140,7 +140,7 @@ graph TD
 
 <p align="center"><strong>객혈 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria® Hemoptysis 2020, Society of Chest Imaging and Interventions Consensus Guidelines 2023,</mark></em> <br><em><mark style="color:$info;">2018 Korean Clinical Imaging Guideline for Hemoptysis 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria® Hemoptysis 2020,</mark></em> <br><em><mark style="color:$info;">Society of Chest Imaging and Interventions Consensus Guidelines 2023,</mark></em><br><em><mark style="color:$info;">2018 Korean Clinical Imaging Guideline for Hemoptysis 등)</mark></em></p>
 
 ***
 
@@ -158,14 +158,14 @@ graph TD
 * 원인 치료
   * 감염(폐렴, 결핵, 폐농양) : 적절한 항균제 투여
   * 항응고제 관련 : 마지막 복용 시간·신기능·출혈 중증도·혈전색전 위험을 함께 평가하여 중단 및 reversal 필요성 결정 (☞ 처방례 3 참조)
-  * 심부전 : 임상적 울혈이 확인된 경우 이뇨제, nitrate (☞ [호흡 곤란](007_-dyspnea.md#management))
+  * 심부전 : 임상적 울혈이 확인된 경우 이뇨제, nitrate (☞ [호흡곤란](007_-dyspnea.md#management))
 * 소량\~중등도 객혈 지혈 보조
   * tranexamic acid 경구 : 국내 대표 경구 제제 허가사항 기준 보통 성인 1일 750\~2,000 ㎎을 3\~4회 분할 투여(예 500 ㎎ tid); 단기 사용 고려
     * 금기 : 활동성 혈전색전증, 중증 신부전(허가사항상 투여 금기)
     * 신중 투여 : 혈전증 병력 또는 고위험 상태(DVT·PE 병력 등), 신부전(혈중농도 상승 가능)
     * 혈뇨, 특히 상부요로 출혈 : 혈괴에 의한 요로폐쇄 가능성 고려
   * tranexamic acid 흡입 : 주사용 제제(500 ㎎/5 ㎖)를 그대로 nebulizer로 흡입, q8h; 투여 기간은 기관 protocol에 따름 (객혈에 대한 흡입 투여는 off-label; 최적 용량·장기 안전성 및 일반화에는 근거가 제한적)
-* [기침 억제](../223_/066_-acute-bronchitis.md#undefined-13) : codeine, dextromethorphan
+* [기침 억제](../223_/060_-common-cold.md#antitussive) : codeine, dextromethorphan
   * 객담 배출을 위한 productive cough의 완전 억제 금지
   * 생명을 위협하거나 다량의 객혈 시에는 사용하지 않음 (기도 내 혈액 저류 → 질식 위험이 기침 자체보다 큼)
   * 소량 객혈 시에는 객담 배출이 원활한지 먼저 확인한 후 제한적으로 고려
@@ -186,11 +186,11 @@ _<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemopt
   * 적절한 치료에도 객혈 지속 또는 반복
   * 항응고제(와파린, DOAC, 헤파린/저분자헤파린 등) 복용 중이면서 지속·반복 출혈, Hb 감소, 과량 항응고 의심, 신기능 저하 또는 호흡·혈역학 이상이 있는 경우
     * 마지막 복용 시간·신기능·출혈 중증도·혈전색전 위험을 평가하고 적절한 기관으로 신속 전원
-    * 항응고제 - 역전제(해독제)
-      * dabigatran <mark style="color:blue;">\[프라닥사]</mark> - idarucizumab <mark style="color:blue;">\[프락스바인드]</mark>; 사용 불가능하면 4F-PCC/aPCC 고려
-      * rivaroxaban <mark style="color:blue;">\[자렐토]</mark>·apixaban <mark style="color:blue;">\[엘리퀴스]</mark> - andexanet alfa(안전성 문제로 사용 중단); 4F-PCC를 기관 protocol에 따라 고려
-      * edoxaban <mark style="color:blue;">\[릭시아나]</mark> → 승인된 특이 역전제 없음; 4F-PCC 고려
-      * Warfarin → 4F-PCC + IV vitamin K; 4F-PCC 사용 불가능 시 FFP 고려
+    * 항응고제 ↔ 역전제(해독제)
+      * dabigatran <mark style="color:blue;">\[프라닥사]</mark> ↔ <mark style="color:blue;">\[프락스바인드]</mark>; 사용 불가능하면 4F-PCC/aPCC 고려
+      * rivaroxaban <mark style="color:blue;">\[자렐토]</mark>·apixaban <mark style="color:blue;">\[엘리퀴스]</mark> ↔ andexanet alfa(안전성 문제로 사용 중단); 4F-PCC를 기관 protocol에 따라 고려
+      * edoxaban <mark style="color:blue;">\[릭시아나]</mark> ↔ 승인된 특이 역전제 없음; 4F-PCC 고려
+      * Warfarin ↔ 4F-PCC + IV vitamin K; 4F-PCC 사용 불가능 시 FFP 고려
       * UFH/LMWH 복용 중인 경우 → protamine 고려 (LMWH는 부분적 중화만 가능)
 
 ***
