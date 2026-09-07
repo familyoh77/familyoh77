@@ -140,7 +140,7 @@ graph TD
 
 <p align="center"><strong>객혈 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria® Hemoptysis 2020,</mark></em> <br><em><mark style="color:$info;">Society of Chest Imaging and Interventions Consensus Guidelines 2023,</mark></em><br><em><mark style="color:$info;">2018 Korean Clinical Imaging Guideline for Hemoptysis 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria® Hemoptysis 2020,</mark></em><br><em><mark style="color:$info;">Society of Chest Imaging and Interventions Consensus Guidelines 2023,</mark></em><br><em><mark style="color:$info;">2018 Korean Clinical Imaging Guideline for Hemoptysis 등)</mark></em></p>
 
 ***
 
@@ -186,13 +186,18 @@ _<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemopt
   * 적절한 치료에도 객혈 지속 또는 반복
   * 항응고제(와파린, DOAC, 헤파린/저분자헤파린 등) 복용 중이면서 지속·반복 출혈, Hb 감소, 과량 항응고 의심, 신기능 저하 또는 호흡·혈역학 이상이 있는 경우
     * 마지막 복용 시간·신기능·출혈 중증도·혈전색전 위험을 평가하고 적절한 기관으로 신속 전원
-    * 항응고제 ↔ 역전제(해독제)
-      * ※ 국내에는 현재 시판되는 4F-PCC가 없음. aPCC인 FEIBA는 국내 허가·공급되지만 허가 적응증은 응고인자 억제인자를 보유한 혈우병 환자의 출혈 관리이며, DOAC 역전 목적 사용은 허가 외 사용이므로 혈액학·수혈의학 전문의 및 기관 protocol에 따름
-      * dabigatran <mark style="color:blue;">\[프라닥사]</mark> ↔ idarucizumab <mark style="color:blue;">\[프락스바인드]</mark>
-      * rivaroxaban <mark style="color:blue;">\[자렐토]</mark>·apixaban <mark style="color:blue;">\[엘리퀴스]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음(andexanet alfa는 안전성 문제로 미국 판매 중단, 국내 미공급); FFP와 vitamin K는 역전제로 사용하지 않으며 비특이적 지혈제 사용 여부는 전문의 및 기관 protocol에 따라 결정
-      * edoxaban <mark style="color:blue;">\[릭시아나]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음; FFP와 vitamin K는 역전제로 사용하지 않으며 비특이적 지혈제 사용 여부는 전문의 및 기관 protocol에 따라 결정
-      * warfarin ↔ 4F-PCC + IV vitamin K가 우선이나, 국내에서 4F-PCC를 사용할 수 없으면 FFP + IV vitamin K
-      * UFH/LMWH 복용 중인 경우 → protamine 고려 (LMWH는 부분적 중화만 가능)
+
+**항응고제 ↔ 역전제(해독제)**
+
+* 국내에는 현재 시판되는 4F-PCC가 없음. aPCC인 <mark style="color:blue;">\[훼이바]</mark>는 국내 허가·공급되지만 허가 적응증은 응고인자 억제인자를 보유한 혈우병 환자의 출혈 관리이며, DOAC 역전 목적 사용은 허가 외 사용이므로 혈액학·수혈의학 전문의 및 기관 protocol에 따름
+* dabigatran <mark style="color:blue;">\[프라닥사]</mark> ↔ idarucizumab <mark style="color:blue;">\[프락스바인드]</mark>
+* rivaroxaban <mark style="color:blue;">\[자렐토]</mark>·apixaban <mark style="color:blue;">\[엘리퀴스]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음
+  * andexanet alfa는 안전성 문제로 미국 판매 중단, 국내 미공급
+  * FFP와 vitamin K는 역전제로 사용하지 않으며 비특이적 지혈제 사용 여부는 전문의 및 기관 protocol에 따라 결정
+* edoxaban <mark style="color:blue;">\[릭시아나]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음
+  * FFP와 vitamin K는 역전제로 사용하지 않으며 비특이적 지혈제 사용 여부는 전문의 및 기관 protocol에 따라 결정
+* warfarin ↔ 4F-PCC + IV vitamin K가 우선이나, 국내에서 4F-PCC를 사용할 수 없으면 FFP + IV vitamin K
+* UFH(미분획 헤파린)/LMWH(저분자량 헤파린) 복용 중인 경우 → protamine 고려 (LMWH는 부분적 중화만 가능)
 
 ***
 
@@ -211,8 +216,8 @@ R04.2 객혈
 > **처방례 1. 소량 객혈 - 지역사회획득폐렴(CAP)이 임상적으로 의심되는 경우**
 >
 > ```
-> Amoxicillin/Clavulanate 625 mg 1T tid × 7일   (CAP 치료; 중증도·기저질환에 따라 항생제 선택 조정)
-> Tranexamic acid 500 mg 1T tid × 3~5일          (지혈 보조)
+> Amoxicillin/Clavulanate 625 mg 1T tid × 7일 (CAP 치료; 중증도·기저질환에 따라 항생제 선택 조정)
+> Tranexamic acid 500 mg 1T tid × 3~5일 (지혈 보조)
 >   ※ 활동성 혈전색전증에는 금기; DVT·PE 병력 시 신중 투여
 >   ※ 객혈 자체는 항생제 적응증이 아니며, 세균성 감염이 임상적으로 확인된 경우에 한해 해당 질환의 표준 처방을 따름
 >   ※ 단순 급성 기관지염에서는 일률적인 항생제 투여를 권고하지 않음
@@ -303,7 +308,7 @@ R04.2 객혈
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **피가 섞인 가래나 기침은 반드시 원인을 확인해야 합니다**
