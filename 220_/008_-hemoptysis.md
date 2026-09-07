@@ -203,14 +203,14 @@ _<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemopt
 
 ### <mark style="color:red;">질병코드</mark>
 
-R04.2 객혈
+* R04.2 객혈
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
 {% hint style="warning" %}
-**TXA는 지혈 보조제입니다.** 활동성 결핵·종양 등 근본 원인에 대한 평가가 TXA 투여로 인해 지연되어서는 안 됩니다.
+**TXA는 지혈 보조제임.** 활동성 결핵·종양 등 근본 원인에 대한 평가가 TXA 투여로 인해 지연되어서는 안 됨.
 {% endhint %}
 
 > **처방례 1. 소량 객혈 - 지역사회획득폐렴(CAP)이 임상적으로 의심되는 경우**
