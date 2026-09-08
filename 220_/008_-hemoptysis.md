@@ -11,7 +11,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
 
 * 기도 폐쇄(asphyxia) 위험, 가스교환을 위협하거나 혈역학적 불안정을 초래하는, 생명을 위협하는 객혈 (출혈량 무관)
 * 빠른 속도의 다량 출혈 (＞150 ㎖/24h 또는 약 ＞100 ㎖/h - 통일된 기준은 없음)
@@ -22,14 +22,14 @@
 * 즉각적인 수혈이 필요한 출혈
 * 활동성 출혈과 동반된 급성 Hb 저하(기저치에서 ＞2 g/㎗ 하락) 또는 혈역학적 불안정을 동반한 경우
 
-<mark style="color:$warning;">**당일 평가 또는 응급실 의뢰**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * Hb ＜8 g/㎗ (객혈과 관련된 급성 저하가 아니거나 혈역학적으로 안정된 경우)
   * 급성 저하·혈역학적 불안정이 동반되면 위 Tier 1 적용
 * 폐동맥류/가성동맥류(예: 결핵성 Rasmussen aneurysm), 폐동정맥기형(PAVM), aspergilloma 또는 병변의 폐동맥 침범 등 고위험 혈관성 원인 의심
 * 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡 곤란 `심부전`
 
-<mark style="color:$info;">**조기 원인 평가 및 면밀한 추적**</mark>
+<mark style="color:$info;">**외래 추적 관찰**</mark>
 
 * 체중 감소, 피로, malaise
 * 과도한 흡연력

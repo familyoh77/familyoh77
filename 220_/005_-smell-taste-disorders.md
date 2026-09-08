@@ -111,18 +111,18 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 및 이송**</mark> <mark style="color:$danger;">- 급성 중추신경계·두개저 손상 시사</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark> <mark style="color:$danger;">- 급성 중추신경계·두개저 손상 시사</mark>
 
 * 갑작스러운 후각 소실과 함께 새로 발생한 국소 신경학적 결손, 심한 두통, 의식 변화, 시야 이상 등이 동반 `급성 중추신경계 병변(뇌졸중)`
 * 두부 외상 후 후각 소실 + 일측성 맑은 수양성 비루(간헐적 또는 지속적) `CSF leak` `두개저 골절`
 
-<mark style="color:$warning;">**당일 평가  또는 응급실 의뢰**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 진행성 또는 지속성 편측 후각 장애, 비출혈·비강 종괴
 * 미각 이상 + 새로 발생한 안면 편측 마비·감각 저하 `뇌신경 이상`
 * 새로 발생하거나 지속되는 원인 불명의 phantosmia
 
-<mark style="color:$info;">**조기 원인 평가 및 면밀한 추적**</mark>
+<mark style="color:$info;">**외래 추적 관찰**</mark>
 
 * 명확한 감염 후 원인의 양측성 후각 장애가 예상된 경과 없이 객관적으로 지속되는 경우
   * 절대적 기간보다 임상 경과로 판단하며, 통상 3개월을 재평가·ENT 의뢰 시점의 기준으로 삼음 (편측성·진행성·구조적 병변 의심 등은 기간과 무관하게 조기 의뢰 - Tier 2 참조)
