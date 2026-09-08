@@ -3,8 +3,11 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 횡격막 등 흡기 근육의 갑작스런 반복적인 불수의적 수축과 뒤이은 갑작스러운 성문(glottis) 폐쇄로 인하여 특징적인 "딸꾹" 소리가 발생하는 상태
-* 유병률 : 성별·연령과 무관하게 흔히 발생하며 대부분 수 분 내 자연 소실; 지속성·난치성 딸꾹질은 드물고 남성에서 상대적으로 더 흔한 것으로 알려짐
-* 합병증 : 지속 시 피로, 수면 장애, 체중 감소·탈수, 우울·불안 등 삶의 질 저하; 수술 후 환자에서는 상처 파열 위험; 드물게 흡인·부정맥 유발 가능
+* 유병률 : 성별·연령과 무관하게 흔히 발생하며 대부분 수 분 내 자연 소실
+  * 지속성·난치성 딸꾹질은 드물고 남성에서 상대적으로 더 흔한 것으로 알려짐
+* 합병증 : 지속 시 피로, 수면 장애, 체중 감소·탈수, 우울·불안 등 삶의 질 저하
+  * 드물게 흡인·부정맥 유발 가능
+  * 수술 후 환자에서는 상처 파열 위험
 
 ### <mark style="color:orange;">분류</mark>
 
@@ -15,40 +18,40 @@
 ## <mark style="color:green;">원인</mark>
 
 * 불명. 흔히 명백한 유발 요인 없이 발생
-* 과식, 탄산음료 등 위장 팽창을 일으키는 음식; GERD(위식도역류질환)는 지속성 딸꾹질의 흔한 원인 중 하나
-* ＞48시간 지속되는 딸꾹질은 간혹 기저 질환(중추신경계, 종격동, 위장관, 대사 이상 등) 또는 약물 관련
-* 수면 중에도 지속되는 딸꾹질은 기질적 원인 가능성을 높이는 단서이나 특정 병변 위치를 단독으로 진단하지는 못함
-* 신경학적 증상(심한 두통, 복시, 구음장애, 보행실조, 국소 신경학적 결손, 의식 변화 등)이 동반되는 경우 뇌간 병변을 포함한 중추신경계 질환 평가
+* 과식, 탄산음료 등 위장 팽창을 일으키는 음식
+* GERD(위식도역류질환) - 지속성 딸꾹질의 흔한 원인 중 하나
+* ＞48시간 지속되는 딸꾹질 - 간혹 기저 질환(중추신경계, 종격동, 위장관, 대사 이상 등) 또는 약물 관련
+* 수면 중에도 지속되는 딸꾹질 - 기질적 원인 가능성을 높이는 단서이나 특정 병변 위치를 단독으로 진단하지는 못함
+* 신경학적 증상(심한 두통, 복시, 구음장애, 보행실조, 국소 신경학적 결손, 의식 변화 등) 동반 - 뇌간 병변을 포함한 중추신경계 질환 의심
 
-**관련 약물**
+<mark style="color:cyan;">**관련 약물**</mark>
 
 * benzodiazepine, barbiturate, steroid(특히 dexamethasone), α-methyldopa, propofol
 * azithromycin, dopamine agonist, opioid(morphine, hydromorphone 등)에서도 드물게 보고됨
 * aprepitant/fosaprepitant 등 NK1 수용체 길항제 : 항암 항구토 요법에서 흔히 보고되는 이상반응(약 10% 이상); dexamethasone 등과 병용 투여되는 경우가 많아 개별 원인을 단정하기 어려움
 
 {% hint style="info" %}
-**Dexamethasone 역설**
-
-항암 화학요법에서 항구토 목적으로 사용한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 항암치료 관련 dexamethasone-induced hiccup에서는 methylprednisolone으로 steroid rotation을 고려할 수 있음 (용량 환산 참고: dexamethasone 0.75 ㎎ ≈ methylprednisolone 4 ㎎). 단, 임의로 중단하지 말고 반드시 항암치료 담당의와 상의하여 다음 항암 주기의 항구토 regimen에서 동등 항염증 용량 및 항구토 효과를 고려해 조정할 것.
+**Dexamethasone 역설** : 항암 화학요법에서 항구토 목적으로 사용한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 항암치료 관련 dexamethasone-induced hiccup에서는 methylprednisolone으로 steroid rotation을 고려할 수 있음 (용량 환산 참고: dexamethasone 0.75 ㎎ ≈ methylprednisolone 4 ㎎). 단, 임의로 중단하지 말고 반드시 항암치료 담당의와 상의하여 다음 항암 주기의 항구토 regimen에서 동등 항염증 용량 및 항구토 효과를 고려해 조정할 것.
 {% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
 
-* 갑작스럽거나 심한 두통, 복시·구음장애·보행실조, 국소 신경학적 결손 또는 의식 변화 동반 (급성 뇌혈관질환을 포함한 중추신경계 병변 의심)
-* 흉통·호흡 곤란·발한 동반 (심근경색·대동맥 박리 등 심혈관 응급질환 의심)
+* 갑작스럽거나 심한 두통, 복시·구음장애·보행실조, 국소 신경학적 결손 또는 의식 변화 동반  `중추신경계 질환`
+* 흉통·호흡 곤란·발한 동반  `심혈관 응급 질환`
 
-<mark style="color:$warning;">**조기 평가 (당일 \~ 수일 내)**</mark>
+<mark style="color:$warning;">**당일 \~ 수일 내 평가**</mark>
 
-* 48시간 이상 지속 (그 자체가 응급 경고징후는 아니나, 지속성 딸꾹질로서 기저 질환 배제를 위한 평가가 필요한 기준)
-* 수면 중에도 지속하거나 수면을 심하게 방해하는 경우 (기질적 원인 가능성을 높이는 단서)
+* 48시간 이상 지속&#x20;
+  * 그 자체가 응급 경고징후는 아니나, 지속성 딸꾹질로서 기저 질환 배제를 위한 평가가 필요한 기준
+* 수면 중에도 지속하거나 수면을 심하게 방해하는 경우  `기질적 원인`
 * 발열, 복통, 황달 동반
 * 지속적 구토, 경구 섭취 곤란, 탈수·쇠약 또는 흡인 위험
 
-<mark style="color:$info;">**계획적 정밀 검사**</mark>
+<mark style="color:$info;">**외래 추적 관찰**</mark>
 
-* 1개월 이상 지속되는 난치성 딸꾹질 (악성 종양, 중추신경계(CNS) 병변 등 체계적 검사 필요)
+* 1개월 이상 지속되는 난치성 딸꾹질  `악성 종양` `중추신경계`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -58,7 +61,7 @@
 
 ### <mark style="color:orange;">임상 단서에 따른 원인 접근</mark>
 
-<table><thead><tr><th>임상 범주</th><th width="135">핵심 단서</th><th width="120">동반 증상</th><th>주요 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>위장관</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>복부 팽만, 구역</td><td>GERD, gastric distension, 위배출 지연</td><td>생활 교정 ± PPI; 위배출 지연·구역 시 metoclopramide 고려</td></tr><tr><td><strong>신경계</strong></td><td>지속적 딸꾹질 + 신경학적 단서</td><td>심한 두통, 복시, 구음장애, 보행실조, 국소 신경학적 결손, 의식 변화</td><td>brainstem lesion, stroke, 기타 CNS disease</td><td>신경계 원인 평가(Brain MRI 등) + 필요 시 대증치료</td></tr><tr><td><strong>약물 관련</strong></td><td>약물 시작·증량·변경·재투여와 시간적 연관</td><td>대개 비특이</td><td>steroid, benzodiazepine, propofol, opioid 등</td><td>원인 약물 확인 후 중단·감량·교체 가능성 검토</td></tr><tr><td><strong>흉부</strong></td><td>기침, 흉통, 호흡곤란</td><td>발열 가능</td><td>pneumonia, MI, mediastinal/other mass</td><td>CXR ± ECG/CT 등 원인 평가</td></tr><tr><td><strong>대사/전신</strong></td><td>전신 상태 변화</td><td>쇠약, confusion, 탈수</td><td>uremia, electrolyte imbalance, metabolic disorder</td><td>기본 혈액검사 및 원인 교정</td></tr><tr><td><strong>수술/시술 관련</strong></td><td>수술·내시경·마취 직후 발생</td><td>원인 시술에 따라 다양</td><td>vagal/phrenic irritation, 마취 관련 약물</td><td>원인 확인 + 대증치료</td></tr><tr><td><strong>기능성/심인성 가능성</strong></td><td>기질적 원인을 충분히 배제한 뒤 스트레스와 명확한 시간적 연관</td><td>불안, 스트레스</td><td>functional/psychogenic</td><td>reassurance; 필요한 경우 제한적 단기 보조치료</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="104">임상 범주</th><th>핵심 단서</th><th>동반 증상</th><th>주요 원인</th><th>1차 접근</th></tr></thead><tbody><tr><td><strong>위장관</strong></td><td>식후 악화, 트림, 속쓰림, 과식</td><td>복부 팽만, 구역</td><td>GERD, gastric distension, 위배출 지연</td><td>생활 교정 ± PPI; 위배출 지연·구역 시 metoclopramide 고려</td></tr><tr><td><strong>신경계</strong></td><td>지속적 딸꾹질 + 신경학적 단서</td><td>심한 두통, 복시, 구음장애, 보행실조, 국소 신경학적 결손, 의식 변화</td><td>brainstem lesion, stroke, 기타 CNS disease</td><td>신경계 원인 평가(Brain MRI 등) + 필요 시 대증치료</td></tr><tr><td><strong>약물 관련</strong></td><td>약물 시작·증량·변경·재투여와 시간적 연관</td><td>대개 비특이</td><td>steroid, benzodiazepine, propofol, opioid 등</td><td>원인 약물 확인 후 중단·감량·교체 가능성 검토</td></tr><tr><td><strong>흉부</strong></td><td>기침, 흉통, 호흡곤란</td><td>발열 가능</td><td>pneumonia, MI, mediastinal/other mass</td><td>CXR ± ECG/CT 등 원인 평가</td></tr><tr><td><strong>대사/전신</strong></td><td>전신 상태 변화</td><td>쇠약, confusion, 탈수</td><td>uremia, electrolyte imbalance, metabolic disorder</td><td>기본 혈액검사 및 원인 교정</td></tr><tr><td><strong>수술/시술 관련</strong></td><td>수술·내시경·마취 직후 발생</td><td>원인 시술에 따라 다양</td><td>vagal/phrenic irritation, 마취 관련 약물</td><td>원인 확인 + 대증치료</td></tr><tr><td><strong>기능성/심인성 가능성</strong></td><td>기질적 원인을 충분히 배제한 뒤 스트레스와 명확한 시간적 연관</td><td>불안, 스트레스</td><td>functional/psychogenic</td><td>reassurance; 필요한 경우 제한적 단기 보조치료</td></tr></tbody></table>
 
 * 수면 중 지속 여부는 기질적 원인 가능성을 판단하는 보조 단서이며, 단독으로 중추성 원인을 진단하거나 병변 위치를 특정하지는 못함
 * 식후 악화·속쓰림 → 위장관 원인 평가
@@ -109,42 +112,39 @@
 
 ```mermaid
 graph TD
-    A([딸꾹질 환자]) --> Z{Red Flags?}
-    Z -->|있음| G["기간과 무관하게<br/>응급 원인에 맞춘 즉시 평가·이송<br/>(신경계·심혈관·호흡기 등)"]
-    Z -->|없음| B{기간?}
-
+    A([딸꾹질 환자]) --> Z[Red Flags?]
+    Z -->|있음| G["기간과 무관하게<br/>응급 원인에 맞춘 <br/>즉시 평가·이송<br/>(신경계·심혈관·호흡기 등)"]
+    Z -->|없음| B[기간?]
     B -->|"< 48시간"| C["대부분 양성 (급성)"]
-    C --> D["안전한 비약물 치료 + 생활 교정<br/>reassurance"]
-    D --> E([종료 / 필요 시 추적])
-
-    B -->|"≥ 48시간"| H["외래 기본 평가<br/>병력·진찰 + medication review<br/>CBC·전해질·혈당·BUN/Cr ± LFT<br/>CXR + ECG"]
-
-    H --> I{임상 단서?}
-    I -->|GI| J["GERD/위팽창/위배출 이상 평가<br/>생활 교정 ± PPI<br/>필요 시 metoclopramide"]
+    C --> D["안전한 비약물 치료 <br/>+ 생활 교정<br/>reassurance"]
+    D --> E[종료 / 필요 시 추적]
+    B -->|"≥ 48시간"| H["<u>외래 기본 평가</u><br/>병력·진찰 + medication review<br/>CBC·전해질·혈당·BUN/Cr <br/>± LFT<br/>CXR + ECG"]
+    H ----> I[임상 단서?]
+    I -->|GI| J["GERD/위팽창<br/>/위배출 이상 평가<br/>생활 교정 ± PPI<br/>필요 시 <br/>metoclopramide"]
     I -->|신경계| K["CNS 병변 평가<br/>Brain MRI 등<br/>+ 필요 시 대증치료"]
-    I -->|약물 관련| L["원인 약물 중단·감량·교체 검토"]
-    I -->|흉부/대사/기타| M["원인별 추가 검사 및 치료"]
-    I -->|뚜렷한 단서 없음| N["경험적 대증치료 고려<br/>baclofen 또는 gabapentin"]
-
-    J --> O{반응?}
+    I -->|약물 관련| L["원인 약물 <br/>중단·감량<br/>·교체 검토"]
+    I -->|흉부/대사/기타| M["원인별 추가 <br/>검사 및 치료"]
+    I -->|뚜렷한 단서 없음| N["경험적 <br/>대증치료 고려<br/>baclofen 또는<br/> gabapentin"]
+    J --> O[반응?]
     K --> O
     L --> O
     M --> O
     N --> O
-
-    O -->|호전| P([종료 / 추적])
+    O -->|호전| P[종료 / 추적]
     O -->|불충분| Q["원인 재평가<br/>약물 용량·내약성 검토<br/>대안 약제 고려"]
-    Q --> R{"≥ 1개월 지속<br/>또는 반복 치료 실패?"}
+    Q --> R["≥ 1개월 지속<br/>또는 반복 치료 실패?"]
     R -->|Yes| S["전문과 의뢰<br/>구조적 원인 재평가<br/>침습적 치료는 선택적 고려"]
     R -->|No| O
-
     style G fill:#ff6b6b,stroke:#c0392b,color:#fff
     style S fill:#f39c12,stroke:#e67e22,color:#fff
+
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class I,O,R,Z,B yellow
 ```
 
 <p align="center"><strong>딸꾹질 진단 및 치료 알고리즘</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 저자 재작성 (관련 문헌 : Steger M et al. Aliment Pharmacol Ther 2015; ESMO Clinical Practice Guidelines for orphan symptoms, 2020; Adam E. 등 baclofen 체계적 문헌고찰, 2020; 딸꾹질 지속성/난치성 치료 체계적 문헌고찰, JPTCP 2024 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재작성 (관련 문헌 : 딸꾹질 지속성/난치성 치료 체계적 문헌고찰 JPTCP 2024,</mark></em> <br><em><mark style="color:$info;">ESMO Clinical Practice Guidelines for orphan symptoms 2020,</mark></em><br> <em><mark style="color:$info;">Adam E. 등 baclofen 체계적 문헌고찰 2020, Steger M et al. Aliment Pharmacol Ther 2015  등)</mark></em></p>
 
 ***
 
@@ -179,52 +179,65 @@ graph TD
 * 혀를 가볍게 당기기
 
 {% hint style="danger" %}
-**⚠️ 안구 압박, carotid sinus massage, 직장 수지 마사지, 비인두 카테터 자극 등 침습적 방법 주의**\
-서맥·실신 등의 위험이 있어 일상적인 1차 진료 비약물 치료로 권하지 않으며, 극히 선택된 난치성 상황에서 전문 환경의 증례 수준으로만 보고되어 있음.
+**안구 압박, carotid sinus massage, 직장 수지 마사지, 비인두 카테터 자극 등 침습적 방법 주의** : 서맥·실신 등의 위험이 있어 일상적인 1차 진료 비약물 치료로 권하지 않으며, 극히 선택된 난치성 상황에서 전문 환경의 증례 수준으로만 보고되어 있음.
 {% endhint %}
 
 ## <mark style="color:green;">약물 치료</mark>
 
 * 딸꾹질 약물 치료의 근거는 제한적이며, 비교적 사용 경험과 근거가 많은 baclofen 또는 gabapentin을 우선 고려
 * metoclopramide는 위장관 유발 요인이 의심되거나 위배출 지연·구역이 동반된 경우 대안으로 고려
-* chlorpromazine은 미국 FDA 및 국내 허가사항에 딸꾹질 적응증이 포함된 유일한 약제이며, baclofen·gabapentin·metoclopramide·domperidone의 딸꾹질 치료는 모두 국내 허가 외(off-label) 사용임을 처방 시 설명
-* 가능한 최소 유효 기간 사용. 원인과 반응에 따라 치료 기간을 개별화하며, 장기간 사용한 baclofen·gabapentin은 갑작스러운 중단을 피함
+* chlorpromazine은 미국 FDA 및 국내 허가사항에 딸꾹질 적응증이 포함된 유일한 약제이며, baclofen, gabapentin, metoclopramide, domperidone의 딸꾹질 처방은 모두 off-label(비급여) 임을 처방 시 설명
+* 가능한 최소 유효 기간 사용. 원인과 반응에 따라 치료 기간을 개별화하며, 장기간 사용한 baclofen, gabapentin은 갑작스러운 중단을 피함
 * 근이완제, 항경련제, 항정신병제의 졸음, 어지럼, 저혈압, 낙상 위험 등에 주의
 
 #### <mark style="color:$primary;">선호 약제</mark>
 
-* **baclofen** : 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark>
-  * 고령자·인지저하·신기능 저하 환자 : 5 ㎎ qd 또는 bid 등 저용량으로 시작하여 3\~5일 간격으로 점진적 증량
-  * 신기능 저하에서는 축적에 따른 신경독성 위험이 있으므로 매우 신중히 투여
-  * 중증 CKD(eGFR ＜30 ㎖/min/1.73㎡), 특히 투석 환자에서는 가능한 한 회피를 고려
-  * 반응이 불충분한 불응성 사례에서는 최대 20 ㎎ tid(60 ㎎/day)까지 증량을 고려할 수 있음(ESMO orphan symptom guideline, 근거 수준 IV/C); 진정·어지럼 등 부작용을 면밀히 관찰. 국내 경직 적응증의 통상 유지량(30\~80 ㎎/day)과 혼동하지 않음
-  * 장기간 사용 후에는 갑작스러운 중단을 피하고 서서히 감량
+**Baclofen**&#x20;
 
-* **gabapentin** : 300 ㎎ hs → 반응과 내약성에 따라 300\~400 ㎎ tid까지 증량 <mark style="color:blue;">\[뉴론틴]</mark>
-  * 고령자에서는 더 낮은 용량으로 시작 가능
-  * 신기능 저하 시 CrCl에 따라 감량 및 투여 간격 조정
-  * 장기간 사용 후에는 갑작스러운 중단을 피함
+* 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark>
+* 고령자·인지저하·신기능 저하 환자 : 5 ㎎ qd 또는 bid 등 저용량으로 시작하여 3\~5일 간격으로 점진적 증량
+* 신기능 저하에서는 축적에 따른 신경독성 위험이 있으므로 매우 신중히 투여
+* 중증 CKD(eGFR ＜30 ㎖/min/1.73㎡), 특히 투석 환자에서는 가능한 한 회피를 고려
+* 반응이 불충분한 불응성 사례에서는 최대 20 ㎎ tid(60 ㎎/day)까지 증량을 고려할 수 있음(ESMO orphan symptom guideline, 근거 수준 IV/C); 진정·어지럼 등 부작용을 면밀히 관찰
+  * 국내 경직 적응증의 통상 유지량(30\~80 ㎎/day)과 혼동하지 않음
+* 장기간 사용 후에는 갑작스러운 중단을 피하고 서서히 감량
+
+**Gabapentin**&#x20;
+
+* 300 ㎎ hs → 반응과 내약성에 따라 300\~400 ㎎ tid까지 증량 <mark style="color:blue;">\[뉴론틴]</mark>
+* 고령자에서는 더 낮은 용량으로 시작 가능
+* 신기능 저하 시 CrCl에 따라 감량 및 투여 간격 조정
+* 장기간 사용 후에는 갑작스러운 중단을 피함
 
 #### <mark style="color:$primary;">위장관 원인에서 고려</mark>
 
-* **metoclopramide** : 5\~10 ㎎ tid, 국내 허가 상한인 최대 30 ㎎/day를 넘지 않도록 함 <mark style="color:blue;">\[맥페란]</mark>
-  * 딸꾹질에서는 원칙적으로 단기간(가능한 5일 이내) 사용
-  * 지연성 운동이상증(tardive dyskinesia), 급성 dystonia 등 EPS 위험 주의
-  * chlorpromazine, haloperidol 등 다른 dopamine antagonist와 병용은 EPS·NMS 위험 증가로 가능하면 피함
-  * 고령자에서는 EPS 및 섬망 위험이 높아 더욱 신중히 사용
-  * 신기능 저하 시 용량 조절 필요
+**Metoclopramide**&#x20;
 
-* **domperidone** : baclofen·gabapentin·metoclopramide보다 딸꾹질에 대한 근거가 훨씬 부족하여 metoclopramide 사용이 어렵거나 금기인 경우에 한해 제한적으로 고려; 필요한 경우 10 ㎎ tid 이하, 최대 30 ㎎/day <mark style="color:blue;">\[모티리움 엠]</mark>
-  * QTc 연장 및 심실성 부정맥 위험에 주의
-  * 유럽의약품청(EMA) 권고에 따라 최대 30 ㎎/day, 가능한 짧게(원칙적으로 7일 이내) 사용
-  * 고령자, 심장질환, 전해질 이상, QT 연장 약물 또는 강력한 CYP3A4 억제제(예: chlorpromazine 등 다른 QT 연장 약물) 병용 시 특히 신중히 사용
+* 5\~10 ㎎ tid, 국내 허가 상한인 최대 30 ㎎/day를 넘지 않도록 함 <mark style="color:blue;">\[맥페란]</mark>
+* 딸꾹질에서는 원칙적으로 단기간(가능한 5일 이내) 사용
+* 지연성 운동이상증(tardive dyskinesia), 급성 dystonia 등 EPS 위험 주의
+* chlorpromazine, haloperidol 등 다른 dopamine antagonist와 병용은 EPS·NMS 위험 증가로 가능하면 피함
+* 고령자에서는 EPS 및 섬망 위험이 높아 더욱 신중히 사용
+* 신기능 저하 시 용량 조절 필요
+
+**Domperidone**&#x20;
+
+* baclofen, gabapentin, metoclopramide보다 딸꾹질에 대한 근거가 훨씬 부족하여 metoclopramide 사용이 어렵거나 금기인 경우에 한해 제한적으로 고려
+* 필요한 경우 10 ㎎ tid 이하, 최대 30 ㎎/day <mark style="color:blue;">\[모티리움 엠]</mark>
+* 유럽의약품청(EMA) 권고에 따라 최대 30 ㎎/day, 가능한 짧게(원칙적으로 7일 이내) 사용
+* QTc 연장 및 심실성 부정맥 위험에 주의
+* 고령자, 심장질환, 전해질 이상, QT 연장 약물 또는 강력한 CYP3A4 억제제(예: chlorpromazine 등 다른 QT 연장 약물) 병용 시 특히 신중히 사용
 
 #### <mark style="color:$primary;">후순위 약제</mark>
 
-* **chlorpromazine** : 미국 FDA 및 국내 허가사항에 딸꾹질 적응증이 포함된 유일한 약제; 국내 허가 용량은 비정신과 영역 기준 1일 30\~100 ㎎ 분할 투여이며, 미국에서는 25\~50 ㎎ tid\~qid(최대 200 ㎎/day)까지 보고되나 국내 일반 허가 용량을 초과할 수 있으므로 국내 처방 시 상한에 유의 <mark style="color:blue;">\[클로르프로마진]</mark>
-  * 부작용 : 저혈압/기립성 저혈압, 과도한 진정, 추체외로 증상, QT 연장 및 부정맥, 항콜린성 이상반응, 드물게 신경이완제악성증후군(NMS)
-  * 노인·저혈압·낙상 위험 환자에서 특히 주의; 파킨슨병·Lewy body dementia 환자에서는 증상 악화 가능성으로 신중히 사용
-  * metoclopramide, haloperidol, domperidone 등 다른 dopamine antagonist 또는 QT 연장 약물과의 병용은 가능하면 피함
+**Chlorpromazine**&#x20;
+
+* 미국 FDA 및 국내 허가사항에 딸꾹질 적응증이 포함된 유일한 약제
+* 국내 허가 용량은 비정신과 영역 기준 1일 30\~100 ㎎ 분할 투여이며, 미국에서는 25\~50 ㎎ tid\~qid(최대 200 ㎎/day)까지 보고되나 국내 일반 허가 용량을 초과할 수 있으므로 처방 시 상한에 유의 <mark style="color:blue;">\[클로르프로마진]</mark>
+* 부작용 : 저혈압/기립성 저혈압, 과도한 진정, 추체외로 증상, QT 연장 및 부정맥, 항콜린성 이상반응, 드물게 신경이완제악성증후군(NMS)
+* 노인·저혈압·낙상 위험 환자에서 특히 주의
+* 파킨슨병·Lewy body dementia 환자에서는 증상 악화 가능성으로 신중히 사용
+* metoclopramide, haloperidol, domperidone 등 다른 dopamine antagonist 또는 QT 연장 약물과의 병용은 가능하면 피함
 
 #### <mark style="color:$primary;">제한적·저근거 대안</mark>
 
@@ -260,7 +273,7 @@ graph TD
 
 ### <mark style="color:red;">질병코드</mark>
 
-R06.6 딸꾹질
+* R06.6 딸꾹질
 
 ***
 
@@ -324,7 +337,7 @@ R06.6 딸꾹질
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **딸꾹질은 대부분 수 분 내 저절로 멈추지만, 48시간 이상 지속되면 원인 평가가 필요합니다**
