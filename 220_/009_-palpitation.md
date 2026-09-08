@@ -17,13 +17,13 @@
 * 지속성 빈맥, 특히 HR ＞150회/분이면서 저혈압·의식 변화·허혈성 흉통·급성 심부전 등 혈역학적 불안정 동반
 * [Syncope](../221_/021_-syncope.md) or near-syncope 동반, 특히 지속성 빈맥·비정상 ECG·구조적 심장 질환이 함께 있는 경우
 * High degree AV block, 지속성 심실빈맥, pre-excited AF(WPW pattern을 동반한 AF)
-* 갑작스러운 편측 마비·안면 마비·언어 장애 등 새로운 국소 신경학적 증상  `뇌졸중` `색전증`
+* 갑작스러운 편측 마비·안면 마비·언어 장애 등 새로운 국소 신경학적 증상 `뇌졸중` `색전증`
 
 {% hint style="info" %}
 HR ＞150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준이지만, 이보다 낮은 심박수에서도 저혈압·실신/의식 변화·허혈성 흉통·급성 심부전 또는 고위험 기저 심질환이 동반되면 응급 평가가 필요
 {% endhint %}
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 증상과 연관된 비정상 ECG나 구조적 심장 질환 의심 또는 확인
 * 반복되는 지속성(30초 이상, 다만 리듬 종류·심박수·혈역학적 영향이 실제 위험도를 결정) tachyarrhythmia가 의심되는 병력
@@ -230,7 +230,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 
 <p align="center"><strong>두근거림 - 확인된 리듬별 초기 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC SVT Guideline 2019, ACC/AHA/ACCP/HRS AF Guideline 2023, ESC Ventricular Arrhythmia Guideline 2022, ESC AF Guideline 2024,</mark></em> <br><em><mark style="color:$info;">REVERT trial 2015, AHA Adult Advanced Life Support 2025 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AHA Adult Advanced Life Support 2025, ESC AF Guideline 2024,</mark></em><br><em><mark style="color:$info;">ACC/AHA/ACCP/HRS AF Guideline 2023, ESC Ventricular Arrhythmia Guideline 2022,</mark></em> <br><em><mark style="color:$info;">ESC SVT Guideline 2019, REVERT trial 2015 등)</mark></em></p>
 
 ***
 
@@ -321,7 +321,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 > 자낙스 0.25 ㎎/T  1T  필요시 (1일 최대 2회, 최소 6시간 간격)
 > ```
 >
-> _✽alprazolam은 두근거림 자체의 치료제가 아니라 불안장애·공황장애가 별도로 진단된 경우의 단기 bridge 치료다. β-차단제와 동시 병용을 원칙으로 하지 않으며, 최소 유효용량으로 가급적 1\~2주 이내 단기 사용에 한한다. 반복·만성 불안이 있으면_ (☞ [불안장애](../231_/anxiety-disorder.md)) _참조하여 SSRI/CBT 기반 치료로 전환하고, 중증·난치성 또는 진단이 불분명한 경우 정신건강의학과 협진을 고려한다. 실제 진단이 성립한 경우에만 해당 진단코드를 사용하며 최신 급여기준을 확인한다_
+> _✽alprazolam은 두근거림 자체의 치료제가 아니라 불안장애·공황장애가 별도로 진단된 경우의 단기 bridge 치료다. β-차단제와 동시 병용을 원칙으로 하지 않으며, 최소 유효용량으로 가급적 1\~2주 이내 단기 사용에 한한다. 반복·만성 불안이 있으면_ [_불안장애_](../221_/025_-anxiety-disorder.md) _챕터를 참조하여 SSRI/CBT 기반 치료로 전환하고, 중증·난치성 또는 진단이 불분명한 경우 정신건강의학과 협진을 고려한다. 실제 진단이 성립한 경우에만 해당 진단코드를 사용하며 최신 급여기준을 확인한다_
 
 > **처방례 3. 재발성 AVNRT/orthodromic AVRT (안정 시 ECG에 pre-excitation 없음) - ablation을 원하지 않거나 시행하기 어려운 경우의 약물 치료**
 >
@@ -337,7 +337,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 > 콩코르정 2.5 ㎎/T 1T qd
 > ```
 >
-> _✽혈역학적으로 안정되고 LVEF ＞40%인 AF 환자에서 β1-선택성 β-차단제로 심박수 조절 시작; 목표 심박수는 증상에 따라 개별화하되 안정 시 대개 100\~110회/분 미만을 목표로 함. 다만 이는 주로 심부전이 없는 환자에 적용되는 목표이며, 심부전·tachycardia-induced cardiomyopathy·증상 지속 환자에게 일률 적용하지 않는다(2023 ACC/AHA/ACCP/HRS AF Guideline). 국내 허가사항상 이 약(콩코르정 2.5 ㎎)의 적응증은 좌심실 수축기능이 저하된 안정형 만성 심부전이며, AF 심박수 조절 목적의 사용은 허가 외 사용(off-label)임을 환자에게 설명하고 처방을 결정한다. 뇌졸중 위험도(CHA₂DS₂-VASc 등) 평가 및 항응고 여부는_ (☞ [심방세동](../225_/atrial-fibrillation.md)) _참조; 새로 진단된 AF는 심박수 조절만으로 종결하지 않는다_
+> _✽혈역학적으로 안정되고 LVEF ＞40%인 AF 환자에서 β1-선택성 β-차단제로 심박수 조절 시작; 목표 심박수는 증상에 따라 개별화하되 안정 시 대개 100\~110회/분 미만을 목표로 함. 다만 이는 주로 심부전이 없는 환자에 적용되는 목표이며, 심부전·tachycardia-induced cardiomyopathy·증상 지속 환자에게 일률 적용하지 않는다(2023 ACC/AHA/ACCP/HRS AF Guideline). 국내 허가사항상 이 약(콩코르정 2.5 ㎎)의 적응증은 좌심실 수축기능이 저하된 안정형 만성 심부전이며, AF 심박수 조절 목적의 사용은 허가 외 사용(off-label)임을 환자에게 설명하고 처방을 결정한다. 뇌졸중 위험도(CHA₂DS₂-VASc 등) 평가 및 항응고 여부는_ [_심방세동_ ](../225_/099_1-atrial-fibrillation.md)_챕터_ _참조; 새로 진단된 AF는 심박수 조절만으로 종결하지 않는다_
 
 **인데놀(Propranolol) 처방 시 주의**
 
