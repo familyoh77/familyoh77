@@ -68,7 +68,8 @@
 
 #### <mark style="color:$primary;">약물 유발열 (Drug fever)</mark>
 
-* 약물 투여 중 다른 원인으로 설명되지 않는 발열이 발생하고 원인 약물 중단 후 호전되는 임상 진단으로, 감염·염증질환 등 다른 원인을 배제해야 함; 약물 중단 후 대개 48\~72시간 내 소실되지만 약물·기전에 따라 더 오래 지속될 수 있음
+* 약물 투여 중 다른 원인으로 설명되지 않는 발열이 발생하고 원인 약물 중단 후 호전되는 임상 진단으로, 감염·염증질환 등 다른 원인을 배제해야 함
+* 약물 중단 후 대개 48\~72시간 내 소실되지만 약물·기전에 따라 더 오래 지속될 수 있음
 * 발열에도 불구하고 환자 컨디션이 비교적 양호한 경우가 있으나 항상 나타나는 특징은 아님
   * 발열 정도에 비해 심박수 증가가 적은 '상대적 서맥'(Faget sign)이 관찰되기도 함. 다만 정의가 일정하지 않고 진단적 민감도·특이도가 확립되지 않았으며, 장티푸스·브루셀라·레지오넬라 등 일부 감염병에서도 나타나므로 보조적 단서로만 해석
 * 백혈구는 정상·증가·감소 모두 가능하며 호산구 증가증이 동반될 수 있으나 빈도와 정의가 연구마다 다양함
@@ -76,8 +77,10 @@
 * 발현 시점과 기전은 다양함
   * 과민 반응 : 투여 1\~3주 후; 동일 약물 재노출 시에는 수 시간\~수일 내로 단축될 수 있음; penicillin, cephalosporin, sulfonamides, nitrofurantoin, phenytoin, quinidine 등
   * 주입반응·사이토카인 방출 : 투여 직후\~수일; amphotericin B, 일부 항암제·생물학적 제제 등
-  * 체온조절 또는 약리작용에 의한 고체온 : 항콜린제, sympathomimetic, serotonin syndrome·neuroleptic malignant syndrome 유발 약물 등. 이는 시상하부 set-point 상승에 의한 전형적 약물열과 구분하여 평가
-  * 약물유발 자가면역질환 : 수주\~수개월 이상 후; hydralazine, procainamide 등에 의한 drug-induced lupus. 단순한 '누적 독성'이 아니라 면역매개성 약물유발질환으로 분류
+  * 체온 조절 또는 약리 작용에 의한 고체온 : 항콜린제, sympathomimetic, serotonin syndrome, neuroleptic malignant syndrome 유발 약물 등
+    * 이는 시상하부 set-point 상승에 의한 전형적 약물열과 구분하여 평가
+  * 약물유발 자가면역질환 : 수주\~수개월 이상 후; hydralazine, procainamide 등에 의한 drug-induced lupus.&#x20;
+    * 단순한 '누적 독성'이 아니라 면역매개성 약물유발질환으로 분류
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
