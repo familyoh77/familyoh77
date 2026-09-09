@@ -119,14 +119,14 @@
 
 ```mermaid
 graph TD
-    A([발열 환자]) --> B{임상 불안정<br/>또는 고위험군?}
+    A([발열 환자]) --> B["임상 불안정<br/>또는 고위험군?"]
     B -->|<b>Yes</b>| C["즉시 원인 평가<br/>필요 시 응급실·입원<br/>패혈증/중증감염 우선 배제"]
-    B --->|<b>No</b>| D{명확한 감염 초점?<br/>(폐·요로·복부 외 피부·CNS·ENT·<br/>관절·심내막염 등도 포함 가능)}
+    B --->|<b>No</b>| D["명확한 감염 초점?<br/>(폐·요로·복부 외 피부·CNS·ENT·<br/>관절·심내막염 등도 포함 가능)"]
     D -->|<b>폐렴·LRTI 의심</b>| E["필요 시 CXR<br/>·바이러스 검사<br/>± CBC/CRP"]
     D -->|<b>요로</b>| F["U/A + 소변 배양<br/>필요 시 CBC/Cr"]
     D -->|<b>급성 복부질환 의심</b>| G["필요 시 CBC/CRP·LFT/Lipase<br/>초음파 또는 CT"]
     D -->|<b>기타 부위별 초점</b>| G2["해당 질환별 챕터·<br/>지침에 따라 평가"]
-    D -->|<b>없음</b>| H{경과와 기간?}
+    D -->|<b>없음</b>| H["경과와 기간?"]
     H -->|"<b>급성·경증<br/>바이러스 임상상</b>"| I["검사 없이 <br/>경과 관찰 가능<br/>안전망 안내"]
     H -->|"<b>지속·비전형<br/>또는 악화</b>"| J["병력·진찰 반복<br/>CBC/CRP, U/A 등<br/>임상 단서에 따라 <br/>검사 확대"]
     J -->|"<b>≥3주 +<br/>적절한 최소 표준 평가 후에도<br/>원인 불명</b>"| K["FUO 평가"]
@@ -136,9 +136,12 @@ graph TD
     class A green
     class C red
     class B,D,H yellow
+
 ```
 
-_저자 재작성 (관련 문헌 : [NICE NG143](https://www.nice.org.uk/guidance/ng143/chapter/recommendations), [Canadian Paediatric Society 영아 발열 지침](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days), [SCCM/IDSA 2023](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/), [Surviving Sepsis Campaign 2026](https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026), [Wright et al., Clin Infect Dis 2026](https://www.idsociety.org/journals/fever-of-unknown-origin/) 등). 본 알고리듬은 단일 가이드라인을 그대로 전재한 것이 아니라 여러 지침을 종합한 편집자 구성이며, 위 분기는 대표적 예시로 연령·임상상황 및 감염 초점별 세부 검사는 해당 질환별 지침을 따른다._
+<p align="center"><em><mark style="color:$info;">저자 재작성 (관련 문헌 : NICE NG143, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
+
+***
 
 ### <mark style="color:orange;">초기 평가 검사</mark>
 
@@ -250,16 +253,16 @@ _저자 재작성 (관련 문헌 : [NICE NG143](https://www.nice.org.uk/guidance
 
 ```mermaid
 graph TD
-    A([발열 환자]) --> B{쇼크·패혈증성 저관류<br/>또는 중증 세균감염 의심?}
+    A([발열 환자]) --> B[쇼크·패혈증성 저관류<br/>또는 중증 세균감염 의심?]
     B -->|<b>Yes</b>| C["sepsis protocol<br/>가능한 한 배양 채취 후 <br/>신속한 항생제<br/>필요 시 IV crystalloid·입원"]
-    B -->|<b>No</b>| D{Hyperthermia<br/>열사병 의심?}
+    B -->|<b>No</b>| D[Hyperthermia<br/>열사병 의심?]
     D -->|<b>Yes</b>| E["신속한 active cooling<br/>응급 처치·이송"]
-    D --->|<b>No</b>| F{원인 파악?}
+    D --->|<b>No</b>| F[원인 파악?]
     F -->|<b>세균 감염</b>| G["감염 초점·원인균에 <br/>맞춘 항생제"]
     F -->|<b>바이러스 감염</b>| H["대증 치료·안전망 안내<br/>위험군·발병시점에 따라<br/>항바이러스 치료 평가"]
     F -->|<b>약물열</b>| I["의심 약물 중단 여부 평가<br/>(항경련제·스테로이드 등은<br/>임의 급중단 금지)<br/>경과 관찰"]
     F -->|"<b>비감염성</b><br/>(염증·종양·자가면역)"| J["원인 평가<br/>필요 시 전문과 의뢰"]
-    F -->|<b>원인 불명</b>| K["지속성 발열 재평가<br/>≥3주 지속되고 적절한 최소 표준<br/>평가 후에도 원인 불명이면 FUO 평가"]
+    F -->|<b>원인 불명</b>| K["지속성 발열 재평가<br/>≥3주 지속되고 적절한 <br/>최소 표준<br/>평가 후에도 원인 불명이면 <br/>FUO 평가"]
     classDef red    fill:#ff6b6b,stroke:#c0392b,color:#fff
     classDef green  fill:#d5f5e3,stroke:#27ae60
     classDef yellow fill:#fff9c4,stroke:#ffe082
@@ -270,7 +273,9 @@ graph TD
     class J,K orange
 ```
 
-_저자 재작성 (관련 문헌 : [Surviving Sepsis Campaign 2026](https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026), [SCCM Heat Stroke Guideline 2025](https://www.sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke), [SCCM/IDSA 2023](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/) 등)_
+<p align="center"><em><mark style="color:$info;">저자 재작성 (관련 문헌 : Surviving Sepsis Campaign 2026,</mark></em> <br><em><mark style="color:$info;">SCCM Heat Stroke Guideline 2025, SCCM/IDSA 2023 등)</mark></em></p>
+
+***
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
