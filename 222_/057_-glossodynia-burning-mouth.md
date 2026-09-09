@@ -1,6 +1,6 @@
 # 혀 통증·구강 작열통 Glossodynia, Burning Mouth Syndrome
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 test</mark>
 
 * 혀 통증·구강 작열감은 증상이며, 국소·전신 원인을 확인할 수 없고 진단 기준을 충족할 때 구강작열감증후군(Burning Mouth Syndrome, BMS)으로 진단
 * BMS : 원인을 설명할 만한 구강 점막 병변이나 국소·전신 질환 없이 발생하는 만성 구강 내 작열감 또는 이상감각
