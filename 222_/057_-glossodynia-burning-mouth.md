@@ -1,6 +1,6 @@
 # 혀 통증·구강 작열통 Glossodynia, Burning Mouth Syndrome
 
-## <mark style="color:green;">일반 사항</mark>
+## <mark style="color:green;">일반 사항 = 구</mark>
 
 * 구강 점막의 명확한 기질적 병변 없이 발생하는 만성 구강 내 작열감·통증
 * 다른 이름 : glossodynia(혀통증에 국한), stomatodynia, oral dysaesthesia
