@@ -26,9 +26,9 @@
 
 <mark style="color:cyan;">**관련 약물**</mark>
 
-* benzodiazepine, barbiturate, steroid(특히 dexamethasone), α-methyldopa, propofol
+* benzodiazepine(드물게 역설적으로 유발 가능), barbiturate, steroid(특히 dexamethasone), α-methyldopa, propofol
 * azithromycin, dopamine agonist, opioid(morphine, hydromorphone 등)에서도 드물게 보고됨
-* aprepitant/fosaprepitant 등 NK1 수용체 길항제 : 항암 항구토 요법에서 흔히 보고되는 이상반응(약 10% 이상); dexamethasone 등과 병용 투여되는 경우가 많아 개별 원인을 단정하기 어려움
+* aprepitant/fosaprepitant 등 NK1 수용체 길항제 : 딸꾹질이 알려진 이상반응이나 보고 빈도는 항암 regimen과 환자군에 따라 다양함; dexamethasone 등과 병용 투여되는 경우가 많아 개별 원인을 단정하기 어려움
 
 {% hint style="info" %}
 **Dexamethasone 역설** : 항암 화학요법에서 항구토 목적으로 사용한 dexamethasone이 딸꾹질의 원인이 될 수 있음. 항암치료 관련 dexamethasone-induced hiccup에서는 methylprednisolone으로 steroid rotation을 고려할 수 있음 (용량 환산 참고: dexamethasone 0.75 ㎎ ≈ methylprednisolone 4 ㎎). 단, 임의로 중단하지 말고 반드시 항암치료 담당의와 상의하여 다음 항암 주기의 항구토 regimen에서 동등 항염증 용량 및 항구토 효과를 고려해 조정할 것.
@@ -51,7 +51,7 @@
 
 <mark style="color:$info;">**외래 추적 관찰**</mark>
 
-* 1개월 이상 지속되는 난치성 딸꾹질  `악성 종양` `중추신경계`
+* 이미 적절한 원인 평가와 치료를 받았고 상위 위험징후가 없는 상태에서 1개월 이상 지속되는 난치성 딸꾹질 → 전문과 의뢰 및 구조적 원인 재평가  `원인 재평가` `전문과 의뢰`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -76,7 +76,7 @@
 * medication review : 최근 시작·증량·변경·간헐 투여된 약물, 항암제·steroid·마취 관련 약물 포함
 * 기본 검사 : CBC, 전해질(Na, K, Ca ± Mg, HCO₃), 혈당, BUN/Cr ± LFT
 * 흉부 X선(CXR) : 원인 불명 지속성 딸꾹질의 기본 검사
-* ECG : 심혈관 증상 동반 시, QT 연장 위험 평가, dopamine antagonist(metoclopramide, chlorpromazine 등) 사용 예정 시 특히 중요
+* ECG : 원인 불명 지속성 딸꾹질의 기본 검사; 심혈관 증상 동반, QT 연장 위험 평가, dopamine antagonist(metoclopramide, chlorpromazine 등) 사용 예정 시 특히 중요
 * 기본 평가에서 원인이 불명확하거나 임상 단서가 있는 경우 선택적 추가 검사
   * Brain MRI : 신경학적 소견이 있거나 기본 평가 후에도 설명되지 않는 지속성·난치성 사례
   * 흉부/복부 CT : 흉부·복부 증상 또는 종격동·복강 내 병변 의심 시
@@ -186,7 +186,7 @@ class I,O,R,Z,B yellow
 
 * 딸꾹질 약물 치료의 근거는 제한적이며, 비교적 사용 경험과 근거가 많은 baclofen 또는 gabapentin을 우선 고려
 * metoclopramide는 위장관 유발 요인이 의심되거나 위배출 지연·구역이 동반된 경우 대안으로 고려
-* chlorpromazine은 미국 FDA 및 국내 허가사항에 딸꾹질 적응증이 포함된 유일한 약제이며, baclofen, gabapentin, metoclopramide, domperidone의 딸꾹질 처방은 모두 off-label(비급여) 임을 처방 시 설명
+* chlorpromazine은 미국 FDA 및 국내 허가사항에 딸꾹질 적응증이 포함된 유일한 약제이며, baclofen, gabapentin, metoclopramide, domperidone은 딸꾹질 적응증이 국내 미승인(허가 외 사용)임을 처방 시 설명
 * 가능한 최소 유효 기간 사용. 원인과 반응에 따라 치료 기간을 개별화하며, 장기간 사용한 baclofen, gabapentin은 갑작스러운 중단을 피함
 * 근이완제, 항경련제, 항정신병제의 졸음, 어지럼, 저혈압, 낙상 위험 등에 주의
 
@@ -226,7 +226,7 @@ class I,O,R,Z,B yellow
 * 필요한 경우 10 ㎎ tid 이하, 최대 30 ㎎/day <mark style="color:blue;">\[모티리움 엠]</mark>
 * 유럽의약품청(EMA) 권고에 따라 최대 30 ㎎/day, 가능한 짧게(원칙적으로 7일 이내) 사용
 * QTc 연장 및 심실성 부정맥 위험에 주의
-* 고령자, 심장질환, 전해질 이상, QT 연장 약물 또는 강력한 CYP3A4 억제제(예: chlorpromazine 등 다른 QT 연장 약물) 병용 시 특히 신중히 사용
+* 고령자, 심장질환, 전해질 이상, QT 연장 약물(예: chlorpromazine) 또는 강력한 CYP3A4 억제제(예: clarithromycin, ketoconazole·itraconazole, ritonavir) 병용 시 특히 신중히 사용
 
 #### <mark style="color:$primary;">후순위 약제</mark>
 
@@ -301,7 +301,7 @@ class I,O,R,Z,B yellow
 > 맥페란 5 ㎎/T 1~2T tid
 > ```
 >
-> _✽ 원칙적으로 단기간 사용. 다른 dopamine antagonist와의 병용은 가능하면 피함_
+> _✽ 원칙적으로 단기간 사용. 최대 30 ㎎/day, 가능한 5일 이내, 투여 간격 최소 6시간을 지킬 것. 다른 dopamine antagonist와의 병용은 가능하면 피함_
 
 > **처방례 4.** _(후순위 - persistent/intractable hiccup에서 선호 약제가 불충분하거나 사용하기 어려운 경우)_
 >
@@ -335,6 +335,14 @@ class I,O,R,Z,B yellow
 > * 손 떨림, 근육 뻣뻣함, 비정상적인 움직임 등이 생기면 즉시 알려 주십시오.
 > * 딸꾹질이 멈추면 의사와 상의하여 복용을 중단합니다 (장기 복용 목적 약물이 아닙니다).
 
+> **언제 다시 병원을 방문해야 하나요?**
+>
+> * 약을 충분한 용량과 기간 사용했는데도 딸꾹질이 호전되지 않는 경우
+> * 심한 어지럼·실신, 걷기 힘들 정도의 보행 장애가 생긴 경우
+> * 손 떨림, 근육 뻣뻣함, 고열, 의식 변화 등이 함께 나타나는 경우 — 즉시 내원
+> * 갑작스러운 심한 두통, 시야 이상, 말이 어눌해짐, 팔다리 힘 빠짐이 동반되는 경우 — 즉시 내원
+> * 새로운 흉통이나 호흡곤란이 생긴 경우 — 즉시 내원
+
 ***
 
 ## <mark style="color:blue;">환자 안내서</mark>
@@ -360,9 +368,16 @@ class I,O,R,Z,B yellow
 
 #### <mark style="color:$primary;">이럴 때는 병원을 방문하세요</mark>
 
+**일반 진료 (외래 방문)**
+
 * 딸꾹질이 48시간 이상 지속되는 경우
 * 수면을 방해할 정도로 심하거나 반복되는 경우
 * 지속적인 구토, 음식이나 물을 먹기 어려움, 탈수·심한 쇠약이 있는 경우
-* 체중 감소, 연하 곤란(삼키기 어려움), 흉통·호흡곤란이 동반되는 경우
-* 심한 두통, 복시·시야 이상, 말이 어눌해짐, 한쪽 팔다리 힘 빠짐, 보행 이상 또는 의식 변화가 동반되는 경우에는 즉시 진료
+* 체중 감소, 연하 곤란(삼키기 어려움)이 동반되는 경우
 * 처방약을 복용 중에도 딸꾹질이 멈추지 않는 경우
+
+**즉시 119 또는 응급실 방문**
+
+* 심하거나 지속되는 흉통·호흡곤란·식은땀이 동반되는 경우
+* 갑작스러운 의식 변화가 있는 경우
+* 심한 두통, 복시·시야 이상, 말이 어눌해짐, 한쪽 팔다리 힘 빠짐, 보행 이상이 동반되는 경우
