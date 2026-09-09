@@ -3,11 +3,12 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 부종 : capillary hemodynamics 변화(모세혈관 정수압↑, 혈장 교질삼투압↓, 투과성↑), 림프 배액 장애 또는 신장의 Na·수분 정체 증가에 의해 간질(interstitium)에 체액이 과잉 축적된 상태
-* 전신 부종은 심장(정맥 울혈)·간(문맥압항진, 유효동맥혈량 감소 및 Na 정체)·신장(Na 정체)·저알부민 상태를 먼저 감별하고, 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 고려
+* 전신 부종은 심장(정맥 울혈)·간(문맥압항진, 유효동맥혈량 감소 및 Na 정체)·신장(Na 정체)·저알부민 상태 등을 우선 감별
+* 국소 부종은 DVT·정맥 부전·림프부종·봉와직염 등을 우선 감별
 * 부종의 발생 부위, 좌우 대칭 여부, 발생 속도, pitting 여부, 동반 증상(호흡 곤란, 복수, 황달 등)이 원인 감별의 핵심
-* 새로 발생한 원인 불명의 편측 하지 부종에서는 통증·압통 여부와 관계없이 DVT 가능성을 평가하며, Wells score를 이용해 D-dimer 및 압박 초음파 시행 여부를 결정
-  * 활성 암은 중요한 DVT 위험 인자이며 Wells score에서 +1점으로 반영한다. 암 환자에서 임상적 의심이 높거나 D-dimer 해석이 어려운 경우에는 영상검사의 문턱을 낮춘다.
-* 안정된 말초 부종만으로 이뇨제를 서둘러 투여하지 않으며, 만성 정맥부전·림프부종·lipedema 등 전신 volume overload가 없는 경우에는 권장되지 않음
+* 새로 발생한 원인 불명의 편측 하지 부종에서는 통증·압통 여부와 관계없이 DVT 가능성을 평가하며, [Wells score](002_-chest-pain.md#wells-score)를 이용해 D-dimer 및 압박 초음파 시행 여부를 결정
+  * 활성 암은 중요한 DVT 위험 인자이며 Wells score에서 +1점으로 반영. 암 환자에서 임상적 의심이 높거나 D-dimer 해석이 어려운 경우에는 영상검사를 고려
+* 안정된 말초 부종만으로는 이뇨제를 서둘러 투여하지 않으며, 만성 정맥부전·림프부종·lipedema 등 전신 volume overload가 없는 경우에는 권장되지 않음
 
 ## <mark style="color:green;">원인</mark>
 
@@ -84,7 +85,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2015. Table 27-23
 * 통증이 피부 소견에 비해 현저하거나 빠르게 확산하는 부종·발적과 수포, 피부 괴사, 염발음 또는 전신 독성 소견 (괴사성 연조직감염 의심)
 * 임신 20주 이후 또는 산후 6주 이내 수축기 BP ≥160 mmHg 또는 이완기 BP ≥110 mmHg, 경련, 의식 변화, 호흡 곤란·폐부종 등 중증 자간전증/자간증 소견
 
-<mark style="color:$warning;">**당일 긴급 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 새로 발생한 원인 불명의 편측 하지 부종, 특히 전체 하지 부종·종아리 둘레 차이·통증·압통·열감 또는 DVT 위험 인자 동반 (당일 CUS가 가능한 의료기관에서 평가)
 * 황달 또는 새로 발생하거나 급격히 증가한 복수 (비대상성 간질환 의심)
@@ -143,7 +144,7 @@ _<mark style="color:$info;">Ref. Rakel Family medicine 9th ed. 2015. Table 27-23
 
 <table><thead><tr><th width="79.3157958984375">등급</th><th width="122.26312255859375">함몰 깊이</th><th width="108.89471435546875">회복 시간</th><th>임상 소견</th></tr></thead><tbody><tr><td>1+</td><td>2 ㎜ 이하</td><td>즉시</td><td>경미한 부종</td></tr><tr><td>2+</td><td>2~4 ㎜</td><td>15초 이내</td><td>중등도; 하지 윤곽 유지</td></tr><tr><td>3+</td><td>4~6 ㎜</td><td>1분 이내</td><td>심한 부종; 하지 윤곽 변형</td></tr><tr><td>4+</td><td>6~8 ㎜ 이상</td><td>2분 이상</td><td>매우 심한 부종; 현저한 하지 변형</td></tr></tbody></table>
 
-_<mark style="color:$info;">※ 위 수치는 임상에서 사용하는 여러 관행 중 하나이며 보편적으로 표준화된 절단값은 아니다. Pitting edema 1+~4+ 등급은 관찰자 간 재현성이 제한적이므로 추적 시 동일한 부위·자세·압박시간으로 평가하고, 같은 조건의 체중·발목/종아리 둘레와 피부 상태를 함께 기록하는 것이 좋다.</mark>_
+_<mark style="color:$info;">※ 위 수치는 임상에서 사용하는 여러 관행 중 하나이며 보편적으로 표준화된 절단값은 아니다. Pitting edema 1+\~4+ 등급은 관찰자 간 재현성이 제한적이므로 추적 시 동일한 부위·자세·압박시간으로 평가하고, 같은 조건의 체중·발목/종아리 둘레와 피부 상태를 함께 기록하는 것이 좋다.</mark>_
 
 * non-pitting edema : 림프부종 후기(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
 * Stemmer sign : 2nd toe(또는 2nd finger) 근위부 등쪽 피부가 집어 올려지지 않으면 양성으로 림프부종을 지지하나 단독 확진 소견은 아님; 비만 등에서 위양성이 가능하고 음성이라도 초기 림프부종을 배제할 수 없음 (Goss & Greene, Plast Reconstr Surg Glob Open 2019 : 민감도 92%, 특이도 57%)
@@ -176,79 +177,14 @@ _<mark style="color:$info;">※ 위 수치는 임상에서 사용하는 여러 �
 ***
 
 ```mermaid
-graph TD
-SG1["🔷 새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells score 평가"]
-        B -- "DVT unlikely ≤1" --> C["고감도 D-dimer<br/>결과 가능하면 4시간 이내"]
-        C -- "음성" --> E["DVT 가능성 낮음<br/>다른 원인 평가"]
-        C -- "양성" --> D1["Proximal CUS<br/>가능하면 4시간 이내"]
-        C -. "D-dimer 결과 4시간 내 불가" .-> I1["금기 평가 후 임시 치료용량 항응고<br/>D-dimer 결과 확보 후 경로 적용"]
-        B -- "DVT likely ≥2" --> D2["Proximal CUS<br/>가능하면 4시간 이내"]
-        D1 -- "양성" --> G["DVT 진단<br/>항응고 치료"]
-        D1 -- "음성" --> E
-        D1 -. "CUS 결과 4시간 내 불가" .-> I3["금기 평가 후 임시 치료용량 항응고"]
-        I3 --> D4["Proximal CUS<br/>24시간 이내"]
-        D4 -- "양성" --> G
-        D4 -- "음성" --> E
-        D2 -- "양성" --> G
-        D2 -- "음성" --> DD["D-dimer"]
-        D2 -. "CUS 결과 4시간 내 불가" .-> I2["D-dimer 채혈 + 금기 평가 후<br/>임시 치료용량 항응고"]
-        I2 --> D3["Proximal CUS<br/>24시간 이내"]
-        D3 -- "양성" --> G
-        D3 -- "음성" --> DD
-        DD -- "음성" --> E
-        DD -- "양성" --> R["임시 항응고 중이었다면 중단<br/>6~8일 후 proximal CUS 반복"]
-        R -- "양성" --> G
-        R -- "음성" --> E
-        E -. "gross swelling 또는<br/>iliac/pelvic obstruction 의심" .-> H["CT/MR venography 고려"]
-
-    style SG1 fill:#d5f5e3,stroke:#27ae60,stroke-width:2px
-    style B fill:#fff3cd,stroke:#f39c12
-    style I1 fill:#fadbd8,stroke:#e74c3c
-    style I2 fill:#fadbd8,stroke:#e74c3c
-    style I3 fill:#fadbd8,stroke:#e74c3c
-    style E fill:#fdebd0,stroke:#e67e22
-    style G fill:#fdebd0,stroke:#e67e22
 ```
 
 _<mark style="color:$info;">※ 임시 치료용량 항응고 전 CBC, 신·간기능, PT, aPTT를 채혈하되 결과를 기다리느라 치료를 지연하지 않는다. 출혈 위험·금기와 임신 여부를 확인하고, 국내 진료 환경과 환자별 위험에 따라 적용한다.</mark>_
 
-
-
 ```mermaid
-graph TD
-SG2["🔷 지속성·만성 편측 하지 부종"] --> B2["병력·진찰<br/>피부 변화·발등 침범·Stemmer sign"]
-        B2 --> C2{"우선 의심 원인"}
-        C2 -- "만성 정맥부전" --> D2["Venous duplex US<br/>reflux·obstruction 평가"]
-        C2 -- "림프부종" --> E2["대부분 임상진단<br/>CDT·압박치료 평가"]
-        C2 -- "근위부 폐쇄·종괴 의심" --> F2["복부·골반 CT/MR venography"]
-        C2 -- "그 밖의 원인" --> G2["종양·외상·감염·CRPS<br/>Baker cyst 등 평가"]
-        E2 -. "진단 불확실 또는<br/>수술 계획" .-> H2["Lymphoscintigraphy 또는<br/>전문 림프영상 고려"]
-
-    style SG2 fill:#d5f5e3,stroke:#27ae60,stroke-width:2px
-    style B2 fill:#eaf4fb,stroke:#2980b9
-    style C2 fill:#fff3cd,stroke:#f39c12
-    style F2 fill:#fdebd0,stroke:#e67e22
 ```
 
 ```mermaid
-graph TD
-SG3["🔷 양측 하지 부종 또는 <br/>전신 부종"]
-        SG3 --> A3["발생 속도·체중 변화·약물<br/>심폐·간·신장 증상 평가"]
-        A3 --> B3["기본검사<br/>Cr/eGFR·전해질·LFT/albumin·TSH<br/>UA+단백뇨·BNP/NT-proBNP"]
-        B3 --> C3{"주요 임상 양상"}
-        C3 -- "호흡곤란·orthopnea<br/>JVP 상승" --> D3a["심부전·폐부종 평가<br/>ECG·CXR·심초음파"]
-        C3 -- "거품뇨·안면 부종<br/>단백뇨" --> D3b["신장질환·신증후군 평가"]
-        C3 -- "복수·황달<br/>만성 간질환" --> D3c["간질환 평가<br/>신규 복수는 진단적 복수천자"]
-        C3 -- "전신 울혈 없음" --> D3d["약물·정맥부전·림프부종<br/>lipedema·의존성 부종 평가"]
-        D3d -. "비만·코골이·주간졸림<br/>폐고혈압/우심부전 의심" .-> E3["OSA 및 심폐 평가 고려"]
-
-    style SG3 fill:#d5f5e3,stroke:#27ae60,stroke-width:2px
-    style A3 fill:#eaf4fb,stroke:#2980b9
-    style C3 fill:#fff3cd,stroke:#f39c12
-    style D3a fill:#fdebd0,stroke:#e67e22
-    style D3b fill:#fdebd0,stroke:#e67e22
-    style D3c fill:#fdebd0,stroke:#e67e22
-    style D3d fill:#fdebd0,stroke:#e67e22
 ```
 
 <p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong><br><em><mark style="color:$info;">CUS=compression ultrasonography, DVT=deep venous thrombosis, CDT=complete decongestive therapy</mark></em><br><em><mark style="color:$info;">Ref. 급성 DVT 경로는 NICE NG158의 2-level Wells strategy 및 검사 지연 시 interim therapeutic anticoagulation 권고를 반영하여 수정.</mark></em></p>
@@ -283,7 +219,7 @@ SG3["🔷 양측 하지 부종 또는 <br/>전신 부종"]
   * EASL은 첫 발생 grade 2 복수에서 spironolactone 단독 시작 후 반응 불충분 또는 고K혈증 시 furosemide 추가를 권고하며, 재발성 복수에는 병합요법 권고
   * 긴장성/grade 3 복수에서는 단순 이뇨제 증량보다 large-volume paracentesis와 적응증에 따른 albumin 투여를 우선 고려
   * 이뇨 중 체중 감소는 일반적으로 말초 부종이 없으면 ≤0.5 kg/d, 말초 부종이 있으면 ≤1 kg/d를 목표로 하며 저Na혈증·AKI·저혈압·간성뇌증 발생 시 감량·중단하고 재평가
-  * 5 L를 초과하여 복수를 제거하는 large-volume paracentesis에서는 일반적으로 제거한 복수 1 L당 albumin 6~8 g 투여
+  * 5 L를 초과하여 복수를 제거하는 large-volume paracentesis에서는 일반적으로 제거한 복수 1 L당 albumin 6\~8 g 투여
 * furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ <mark style="color:blue;">\[라식스]</mark>
   * 반응 불충분 시 원인, 복약순응도, Na 섭취, 신기능 및 흡수 장애를 재평가한 뒤 용량을 조절
   * 허가사항상 중증 부종에서 PO 600 ㎎/d까지 기술되어 있으나 일반적인 외래 상한이 아니며, 80 ㎎/d를 장기간 초과하면 면밀한 임상·검사실 모니터링이 필요함. 고용량 경구 또는 정주 치료는 전문의·급성기 관리 영역으로 봄
@@ -299,36 +235,6 @@ SG3["🔷 양측 하지 부종 또는 <br/>전신 부종"]
 ***
 
 ```mermaid
-graph TD
-    A{"이뇨제가<br/>필요한가?"}
-    A -- "<b>폐부종 또는 전신 울혈이 확인된</b><br/>volume overload" --> B["이뇨제 사용"]
-    A -- "<b>정맥부전·림프부종</b><br/>lipedema" --> Z["비약물 치료<br/>원인에 따른 압박·거상·운동"]
-
-    B --> C{"원인 분류"}
-    C --> HF["심부전 HF"]
-    C --> CI["간경화 + 복수"]
-    C --> NS["신증후군"]
-
-    HF --> HF1["Loop diuretic<br/>furosemide 20~40 ㎎ PO에서 개별화<br/>목표: 울혈 해소·euvolemia"]
-    HF1 -- "반응 불충분" --> HF2["원인·복약·Na 섭취·신기능 재평가<br/>loop 용량 조절 또는<br/>면밀한 모니터링하 thiazide계 병용"]
-    HF2 -- "SGLT2i 시작/병용" --> HF3["용적 상태 재평가<br/>euvolemia·저혈압·용적고갈 위험 시<br/>loop 감량 고려"]
-
-    CI --> CI1["첫 grade 2 복수: spironolactone 단독 가능<br/>재발성/신속한 이뇨 필요:<br/>spironolactone 100 + furosemide 40 ㎎"]
-    CI1 -- "긴장성 복수" --> CI2["Large-volume paracentesis<br/>+ 적응증에 따른 albumin"]
-    CI1 -- "spironolactone 불내성" --> CI3["Amiloride 대체"]
-
-    NS --> NS1["Loop diuretic 용량 개별화<br/>저알부민혈증·흡수 저하·신기능에 따라<br/>고용량이 필요할 수 있음"]
-    NS1 -- "반응 불충분" --> NS2["IV loop 전환<br/>또는 Sequential blockade"]
-    NS2 -. "선별된 중증 저알부민혈증 환자<br/>전문의 판단; routine use 아님" .-> NS3["Albumin + loop 고려"]
-    NS1 -. "intravascular depletion <br/>주의" .-> NS_w["겉 부종 vs 속 hypovolemia<br/>→ AKI 위험 모니터링"]
-
-    style A fill:#d5f5e3,stroke:#27ae60
-    style Z fill:#fdebd0,stroke:#e67e22
-    style HF2 fill:#fef9e7,stroke:#f39c12
-    style CI2 fill:#fef9e7,stroke:#f39c12
-    style NS2 fill:#fef9e7,stroke:#f39c12
-    style NS3 fill:#fef9e7,stroke:#f39c12
-    style NS_w fill:#fadbd8,stroke:#e74c3c
 ```
 
 <p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong></p>
@@ -339,9 +245,9 @@ graph TD
 
 * 이뇨제는 울혈 증상을 완화하지만, 장기 예후는 심부전 표현형에 맞는 foundational medical therapy(FMT)와 동반 질환 치료가 결정함
 * 2026 ESC 분류
-  * HFrEF : LVEF ＜50% (기존 HFmrEF 41~49%를 별도 표현형으로 구분하지 않고 포함)
+  * HFrEF : LVEF ＜50% (기존 HFmrEF 41\~49%를 별도 표현형으로 구분하지 않고 포함)
   * HFpEF : LVEF ≥50%
-  * 기존 임상시험 및 ACC/AHA 지침의 ≤40%, 41~49%, ≥50% 분류와 다르므로 근거를 인용할 때 사용된 분류 기준을 함께 확인
+  * 기존 임상시험 및 ACC/AHA 지침의 ≤40%, 41\~49%, ≥50% 분류와 다르므로 근거를 인용할 때 사용된 분류 기준을 함께 확인
 * HFrEF의 FMT는 가능한 한 조기에 병용하고 최대 내약 용량으로 조절
   * renin-angiotensin system 억제: 적응되는 환자에서 ARNI를 우선 고려하고, ARNI 사용이 어렵거나 부적절하면 ACE 억제제, ACE 억제제 불내성 시 ARB 고려
   * 근거 기반 베타차단제, MRA(spironolactone/eplerenone), SGLT2 억제제
@@ -403,15 +309,11 @@ _<mark style="color:$info;">※ 포도씨 OPC, 민들레 등은 부종 치료 �
 
 ### <mark style="color:red;">질병코드</mark>
 
-R60.0 국소부종
-
-R60.1 전신부종
-
-R60.9 상세불명의 부종
-
-E87.7 체액과부하
-
-I89.0 림프 부종
+* R60.0 국소부종
+* R60.1 전신부종
+* R60.9 상세불명의 부종
+* E87.7 체액과부하
+* I89.0 림프 부종
 
 ***
 
@@ -476,7 +378,7 @@ I89.0 림프 부종
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **부종은 원인이 다양합니다 - 몸의 신호를 무시하지 마세요**
