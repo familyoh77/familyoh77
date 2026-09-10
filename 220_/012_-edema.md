@@ -26,9 +26,9 @@
 * 원인 간질환 병력(예: MASLD, 바이러스성 간염, 알코올 관련 간질환 등)을 확인
 * 동반 소견 : 간질환 소견(예: 복수, 황달, 손바닥 홍반, Dupuytren's contracture, spider angioma, 여성형유방증)
   * 진행된 비대상성 간경화에서는 저혈압이 동반될 수 있음
-* 복수가 발생한 경우 이외에는 호흡 곤란은 드묾
+* 말초 부종 자체로 호흡 곤란이 발생하는 경우는 드물며, 호흡 곤란이 있으면 대량 복수·hepatic hydrothorax뿐 아니라 hepatopulmonary syndrome, portopulmonary hypertension 및 동반 심폐질환을 평가
 * 검사 : CBC, AST/ALT, ALP/GGT, bilirubin, albumin, PT/INR, Cr/eGFR 및 Na/K를 평가
-  * 진행된 간질환에서는 저알부민혈증·응고 이상·저Na혈증 등이 동반될 수 있으며, K은 질환 상태와 이뇨제에 따라 감소하거나 증가할 수 있음
+  * 진행된 간질환에서는 저알부민혈증·응고 이상·저Na혈증 등이 동반될 수 있으며, K는 질환 상태와 이뇨제에 따라 감소하거나 증가할 수 있음
 
 #### <mark style="color:$primary;">Renal - CKD / AKI</mark>
 
@@ -72,8 +72,8 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 ### <mark style="color:orange;">특발성 부종증후군 (Idiopathic edema syndrome)</mark>
 
 * 기전 : 기립 시 모세혈관 여과 증가, 이차성 RAAS 활성화 및 Na 정체 등이 관여할 수 있음
-  * re-feeding(급속한 다이어트 후 식사 증량), 만성 이뇨제 사용 및  중단도 부종을 유발하거나 악화시킬 수 있음
-* 얼굴, 손, 사지 부종&#x20;
+  * re-feeding(급속한 다이어트 후 식사 증량), 만성 이뇨제 사용 및 중단도 부종을 유발하거나 악화시킬 수 있음
+* 얼굴, 손, 사지 부종
 * 활동 후 저녁에 악화되고 취침 후 아침에 호전되는 것이 전형적 (아침 안면 부종이 심한 경우는 신성 부종을 먼저 감별)
 * 주로 가임기 여성에서 흔하며 남성에서는 드묾; 월경 전에 악화될 수 있으나 월경 주기와 무관하게 지속되는 것이 특징
 * 관련 인자 : 비만, 섭식 장애, 반복적인 체중 감량, 만성 이뇨제·하제 사용 등
@@ -87,20 +87,20 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 
 * 갑자기 발생하거나 안정 시에도 심한 호흡 곤란, 저산소증 또는 분홍빛 거품 가래  `폐부종`
 * 편측 하지 부종과 함께 갑작스러운 호흡 곤란, 흉통, 객혈, 실신·저혈압 또는 설명되지 않는 빈맥이 있는 경우  `PE`
-* 입술·혀·목 부종과 쉰 목소리, 연하곤란, 천명 또는 호흡 곤란  `기도 침범 혈관부종`&#x20;
+* 입술·혀·목 부종과 쉰 목소리, 연하곤란, 천명 또는 호흡 곤란  `기도 침범 혈관부종`
 * 간경화·문맥압항진이 의심되는 환자의 토혈·흑변 또는 활동성 위장관 출혈, 특히 저혈압·빈맥·실신/의식 변화 동반
-* 전체 하지의 급격하고 심한 종창과 심한 통증·청색증, 감각저하 또는 운동 이상  `phlegmasia cerulea dolens` `사지 허혈`&#x20;
+* 전체 하지의 급격하고 심한 종창과 심한 통증·청색증, 감각저하 또는 운동 이상  `phlegmasia cerulea dolens` `사지 허혈`
 * 통증이 피부 소견에 비해 현저하거나 빠르게 확산하는 부종·발적과 수포, 피부 괴사, 염발음 또는 전신 독성 소견  `괴사성 연조직감염`
 * 임신 20주 이후 또는 산후 6주 이내 수축기 BP ≥160 ㎜Hg 또는 이완기 BP ≥110 ㎜Hg, 경련, 의식 변화, 호흡 곤란·폐부종 등 중증 자간전증/자간증 소견
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 새로 발생한 원인 불명의 편측 하지 부종, 특히 전체 하지 부종·종아리 둘레 차이·통증·압통·열감 또는 DVT 위험 인자 동반
-* 황달 또는 새로 발생하거나 급격히 증가한 복수  `비대상성 간질환`&#x20;
+* 황달 또는 새로 발생하거나 급격히 증가한 복수  `비대상성 간질환`
 * 심장 질환 병력 + 급격히 악화되는 부종
-* 임신 20주 이후 또는 산후 6주 이내 얼굴·손 부종과 고혈압, 지속 두통, 시야 변화, 우상복부/심와부 통증 중 하나 이상 동반하되 위의 중증 소견은 없음   `간전증`
+* 임신 20주 이후 또는 산후 6주 이내 얼굴·손 부종과 고혈압, 지속 두통, 시야 변화, 우상복부/심와부 통증 중 하나 이상 동반하되 위의 중증 소견은 없음   `자간전증`
 * 급격한 소변량 감소와 빠른 체중 증가, 전신 부종 또는 신기능 악화 의심 소견
-* 발열 또는 국소 발적·열감·압통을 동반한 급성 부종  `봉와직염` `감염성 원인`&#x20;
+* 발열 또는 국소 발적·열감·압통을 동반한 급성 부종  `봉와직염` `감염성 원인`
 
 <mark style="color:$info;">**외래 추적 관찰**</mark>
 
@@ -136,7 +136,7 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 
 <mark style="color:cyan;">**Bilateral predominance**</mark>
 
-* 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema), 약물
+* 원인 : 전신 질환(심장/간/신장 부전, 영양실조), lipedema, medication-induced edema, 폐쇄수면무호흡증, 고령(피부 탄력/근력 약화), Graves Dz(pretibial myxedema)
 * 말초 pitting edema 유발 약물 : CCB(특히 dihydropyridine계; pre-capillary dilation에 의한 ankle edema), pregabalin/gabapentin, NSAID(Na 재흡수 증가), 호르몬제(예: steroid, estrogen, progesterone, testosterone), thiazolidinedione(Na 재흡수 증가), α-차단제, 항암제, minoxidil(혈관 확장), 인슐린(초기 투여 시 Na 정체 유발)
 * 혈관부종(angioedema) 유발 약물: ACE inhibitor가 대표적 원인이며, ARB에서도 드물게 발생 가능
   * 얼굴·입술·혀 부종이 발생하면 기도 침범 여부를 즉시 평가
@@ -146,7 +146,7 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 
 #### <mark style="color:$primary;">원인별 부종의 특징 비교</mark>
 
-<table><thead><tr><th width="96">구분</th><th>심부전</th><th>신증후군</th><th>간경화</th><th>특발성 부종</th></tr></thead><tbody><tr><td>주요 부위</td><td>하지(심장보다 낮은 위치); ascending edema</td><td>안면(눈가) 및 전신; periorbital edema</td><td>복수 + 하지</td><td>안면, 손, 하지</td></tr><tr><td>심화 시간</td><td>저녁(활동 후)</td><td>아침(기상 직후)</td><td>비교적 일정</td><td>저녁(체중 일중 변동 심함)</td></tr><tr><td>동반 증상</td><td>호흡 곤란, 경정맥 확장, orthopnea</td><td>거품뇨, 단백뇨, 저알부민혈증</td><td>황달, 복수, 여성형 유방</td><td>정서적 스트레스, 월경 전 악화</td></tr></tbody></table>
+<table><thead><tr><th width="96">구분</th><th>심부전</th><th>신증후군</th><th>간경화</th><th>특발성 부종</th></tr></thead><tbody><tr><td>주요 부위</td><td>하지(심장보다 낮은 위치); ascending edema</td><td>안면(눈가) 및 전신; periorbital edema</td><td>복수 + 하지</td><td>안면, 손, 하지</td></tr><tr><td>심화 시간</td><td>저녁(활동 후)</td><td>아침(기상 직후)</td><td>비교적 일정</td><td>저녁(체중 일중 변동 심함)</td></tr><tr><td>동반 증상</td><td>호흡 곤란, 경정맥 확장, orthopnea</td><td>거품뇨, 단백뇨, 저알부민혈증</td><td>황달, 복수, 여성형 유방</td><td>일중 체중 변동, 기립 후 악화, 월경 전 악화 가능</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">국소 상태</mark>
 
@@ -160,11 +160,11 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 > _위 수치는 임상에서 사용하는 여러 관행 중 하나이며 보편적으로 표준화된 절단값은 아님. Pitting edema 1+\~4+ 등급은 관찰자 간 재현성이 제한적이므로 추적 시 동일한 부위·자세·압박시간으로 평가하고, 같은 조건의 체중·발목/종아리 둘레와 피부 상태를 함께 기록하는 것이 좋음_
 
 * non-pitting edema : 림프부종 후기(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
-* Stemmer sign : 2nd toe(또는 2nd finger) 근위부 등쪽 피부가 집어 올려지지 않으면 양성으로, 림프부종을 지지하나 단독 확진 소견은 아님; 비만 등에서 위양성이 가능하고 음성이라도 초기 림프부종을 배제할 수 없음 (민감도 92%, 특이도 57%)
+* Stemmer sign : 2nd toe(또는 2nd finger) 근위부 등쪽 피부가 집어 올려지지 않으면 양성으로, 림프부종을 지지하나 단독 확진 소견은 아님; 비만 등에서 위양성이 가능하고 음성이라도 초기 림프부종을 배제할 수 없음 (Goss & Greene, *Plast Reconstr Surg Glob Open* 2019: 민감도 92%, 특이도 57%)
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
 * 작고 깊고 심한 통증성 궤양 → 동맥 부전, 혈관염, 감염
 * 신경병증성 당뇨발 궤양 → 발바닥 등 압박 부위에 흔하며 감각 저하로 통증이 적을 수 있음; 동맥성·정맥성 궤양과 감별
-* 다른 쪽보다 종아리가 ≥3 ㎝ 굵음 → 심부 정맥 폐쇄 의심
+* 반대측보다 종아리 둘레가 ≥3 ㎝ 크면 DVT Wells score +1점에 해당하나, 단독으로 DVT를 진단하지 않음
   * tibial tuberosity의 10 ㎝ 하방에서 양측을 동일한 자세로 측정
 * 피부 과각화(hyperkeratosis), 경결(dermal fibrosis) → 만성 림프 부종
 * 갈색 피부, hemosiderin 침착 → 정맥 부전
@@ -179,10 +179,10 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 * 초음파, D-dimer 검사: 새로 발생한 원인 불명의 편측 하지 부종에서 DVT 감별을 위하여 시행
   * Wells score ≤1 (DVT unlikely)에서는 고감도 D-dimer를 이용한 배제 전략을 적용할 수 있음
   * Wells ≥2 (DVT likely)에서는 pretest probability가 높으므로 D-dimer 단독 배제 전략을 사용하지 않고 proximal CUS를 우선 시행
-  * 50세 초과에서는 검사법에 적합한 age-adjusted D-dimer cutoff 값사용을 고려
+  * 50세 초과에서는 검사법에 적합한 age-adjusted D-dimer cutoff 사용을 고려
 * Ankle-brachial pressure index : 만성 정맥 부전과 동맥 질환 감별
   * 고령 및 당뇨병 환자에서는 동맥의 compressibility가 감소되어 있으므로 해석에 주의를 요함
-  * 혈관 석회화로 ABI가 위양성으로 높게 측정될 수 있어 이 경우 toe-brachial index(TBI ＜0.7 시 이상) 또는 발등동맥·후경골동맥 맥박 촉진으로 보완
+  * 혈관 석회화로 ABI가 비압박성(noncompressible) 또는 높게 측정되면 toe-brachial index(TBI; ≤0.70 시 이상)와 파형검사로 보완하고, 필요 시 추가 혈관검사 또는 혈관 전문 평가를 고려. 발등동맥·후경골동맥 맥박 촉진만으로 PAD를 배제하거나 압박치료의 안전성을 판단하지 않음
 * 원인 불명의 양측 하지 또는 전신 부종에서는 병력·진찰과 임상 가능성에 따라 BMP/electrolytes, BUN/Cr/eGFR, LFT + serum albumin, TSH, BNP 또는 NT-proBNP, urinalysis + urine protein/Cr ratio(또는 uACR)를 선택하여 시행하고, 임상 상황에 따라 CBC 추가
   * BNP/NT-proBNP는 비만에서 예상보다 낮고 CKD·고령·AF에서는 높을 수 있으므로 임상 소견과 함께 해석
 * [Wells score](https://www.mdcalc.com/calc/362/wells-criteria-dvt) : DVT 임상 가능성 평가
@@ -202,11 +202,11 @@ SG1["새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells s
         B -- "DVT likely ≥2" --> D2["Proximal CUS<br/>가능하면 4시간 이내"]
         D1 -- "음성" --> E
         D1 -. "CUS 결과 4시간 내 불가" .-> I3["금기 평가 후 <br/>임시 치료용량 항응고"]
-        I3 --> D4["d4 Proximal CUS<br/>24시간 이내"]
-        D4 -- "양성" --> G0
+        I3 --> D4["Proximal CUS<br/>24시간 이내"]
+        D4 -- "양성" --> G
         D4 -- "음성" --> E
-        D1 -- "양성" --> G0["DVT 진단<br/>항응고 치료"]
-        D2 -- "양성" --> G["DVT 진단<br/>항응고 치료"]
+        D1 -- "양성" --> G["DVT 진단<br/>항응고 치료"]
+        D2 -- "양성" --> G
         D2 -. "CUS 결과 4시간 내 불가" .-> I2["D-dimer 채혈 <br/>+ 금기 평가 후<br/>임시 치료용량 항응고"]
         I2 --> D3["Proximal CUS<br/>24시간 이내"]
         D3 -- "양성" --> G
@@ -214,22 +214,24 @@ SG1["새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells s
         D2 -- "음성" --> DD
         DD -- "양성" --> R["임시 항응고 중이었다면 중단<br/>6~8일 후 proximal CUS 반복"]
         R -- "양성" --> G
-        R -- "음성" --> E0
+        R -- "음성" --> E
         E -. "gross swelling 또는<br/>iliac/pelvic obstruction 의심" .-> H["CT/MR venography 고려"]
-        DD -- "음성" --> E0["DVT 가능성 낮음<br/>다른 원인 평가"]
+        DD -- "음성" --> E
     style SG1 fill:#d5f5e3,stroke:#27ae60,stroke-width:2px
     style B fill:#fff3cd,stroke:#f39c12
     style I1 fill:#fadbd8,stroke:#e74c3c
     style I2 fill:#fadbd8,stroke:#e74c3c
     style I3 fill:#fadbd8,stroke:#e74c3c
 
-classDef orange50 fill:#fff3e0,stroke:#e65100
-class E,E0 orange50
-classDef orange fill:#fdebd0,stroke:#e67e22
-class G,G0 orange
+    style E fill:#fff3e0,stroke:#e65100
+    style G fill:#fdebd0,stroke:#e67e22
 ```
 
+<p align="center"><strong>편측 하지 부종에서 DVT 감별 알고리듬</strong></p>
+
 _※ 임시 치료 용량 항응고 전 CBC, 신·간기능, PT, aPTT를 채혈하되 결과를 기다리느라 치료를 지연하지 않음. 출혈 위험·금기와 임신 여부를 확인하고, 국내 진료 환경과 환자별 위험에 따라 적용_
+
+<p align="center"><em><mark style="color:$info;">CUS=compression ultrasonography, DVT=deep venous thrombosis</mark></em><br><em><mark style="color:$info;">NICE NG158의 2-level Wells strategy 및 검사 지연 시 interim therapeutic anticoagulation 권고를 반영하여 수정.</mark></em></p>
 
 ```mermaid
 graph TD
@@ -245,6 +247,10 @@ SG2["<b>지속성·만성 편측 하지 부종</b>"] --> B2["병력·진찰<br/>
     style C2 fill:#fff9c4,stroke:#ffe082
     style F2 fill:#fdebd0,stroke:#e67e22
 ```
+
+<p align="center"><strong>지속성·만성 편측 하지 부종의 감별 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">CDT=complete decongestive therapy</mark></em><br><em><mark style="color:$info;">저자 구성 (특정 단일 가이드라인 인용 아님)</mark></em></p>
 
 ```mermaid
 graph TD
@@ -266,7 +272,9 @@ SG3["<b>양측 하지 부종 또는 <br/>전신 부종</b>"]
     style D3d fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>편측 또는 양측 하지, 전신 부종의 진단 알고리듬</strong><br><em><mark style="color:$info;">CUS=compression ultrasonography, DVT=deep venous thrombosis, CDT=complete decongestive therapy</mark></em><br><em><mark style="color:$info;">급성 DVT 경로는 NICE NG158의 2-level Wells strategy 및 검사 지연 시 interim therapeutic anticoagulation 권고를 반영하여 수정.</mark></em></p>
+<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">저자 구성 (특정 단일 가이드라인 인용 아님)</mark></em></p>
 
 ***
 
@@ -304,10 +312,10 @@ SG3["<b>양측 하지 부종 또는 <br/>전신 부종</b>"]
   * 허가사항상 중증 부종에서 PO 600 ㎎/d까지 기술되어 있으나 일반적인 외래 상한이 아니며, 80 ㎎/d를 장기간 초과하면 면밀한 임상·검사실 모니터링이 필요함. 고용량 경구 또는 정주 치료는 전문의·급성기 관리 영역으로 봄
   * 신부전 또는 신증후군 시 고용량 필요
   * 심부전 시 hypo-perfusion 증상을 모니터링하면서 사용
-* 이뇨제 저항성 시 순차적 nephron 차단 전략&#x20;
+* 이뇨제 저항성 시 순차적 nephron 차단 전략
   * loop 이뇨제 단독으로 반응이 불충분한 저항성 울혈에서 thiazide계 이뇨제 등을 병용할 수 있음
   * 투여 시점과 용량은 환자별로 조절하며, 저Na·저K·저Mg혈증, 저혈압 및 신기능 악화 위험이 크므로 전문의 판단 또는 단기간 내 검사실 추적이 가능한 상황에서 시행
-* 저알부민 상태에서의 이뇨제 저항성&#x20;
+* 저알부민 상태에서의 이뇨제 저항성
   * 중증 저알부민혈증 및 유효 순환혈액량 감소가 있는 일부 입원 환자에서 전문의 판단하에 albumin 정주 + loop 이뇨제를 고려할 수 있으나 routine use는 권장되지 않음
   * 간경화에서는 단순 저알부민혈증 자체가 albumin 투여 적응증은 아니며, large-volume paracentesis 등 별도 적응증에 따라 사용
 * 신증후군성 부종은 신기능·유효순환혈액량·저알부민혈증 정도에 따라 이뇨제 용량·전략이 크게 달라지므로, 일률적인 외래 처방례를 제시하지 않고 개별화하여 접근함
@@ -324,7 +332,7 @@ graph TD
     C --> CI["간경화 + 복수"]
     C --> NS["신증후군"]
     HF --> HF1["Loop diuretic<br/>furosemide 20~40 ㎎ <br/>PO에서 개별화<br/>목표: 울혈 해소·euvolemia"]
-    HF1 -- "반응 불충분" --> HF2["원인·복약·Na 섭취<br/>·신기능 재평가<br/>loop 용량 조절 또는<br/>면밀한 모니터링하 <br/>thiazide계 병용"]
+    HF1 -- "반응 불충분" --> HF2["원인·복약·Na 섭취<br/>·신기능 재평가<br/>loop 용량 조절 또는<br/>면밀한 모니터링하에 <br/>thiazide계 병용"]
     HF2 -- "SGLT2i 시작/병용" --> HF3["용적 상태 재평가<br/> euvolemia·저혈압<br/>·용적고갈 위험 시<br/>loop 감량 고려"]
     CI --> CI1["첫 grade 2 복수: <br/>spironolactone 단독 가능<br/>재발성/신속한 이뇨 필요:<br/>spironolactone 100 <br/>+ furosemide 40 ㎎"]
     CI1 -- "긴장성 복수" --> CI2["Large-volume <br/>paracentesis<br/>+ 적응증에 따른 <br/>albumin"]
@@ -340,7 +348,7 @@ graph TD
     style NS2 fill:#fef9e7,stroke:#f39c12
     style NS3 fill:#fef9e7,stroke:#f39c12
     style NS_w fill:#fadbd8,stroke:#e74c3c
-style C fill:#fff9c4,stroke:#ffe082
+    style C fill:#fff9c4,stroke:#ffe082
 ```
 
 <p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong></p>
@@ -371,7 +379,7 @@ style C fill:#fff9c4,stroke:#ffe082
 
 #### <mark style="color:$primary;">이뇨제</mark>
 
-* [이뇨제](../225_/095_-hypertension.md#diuretics)가 필요한 경우 최소 유효 용량으로, 단기 사용을 원칙으로 투여&#x20;
+* [이뇨제](../225_/095_-hypertension.md#diuretics)가 필요한 경우 최소 유효 용량으로, 단기 사용을 원칙으로 투여
 * 야간뇨를 피하기 위해 아침 또는 이른 오후에 투여
 * spironolactone 50\~100 ㎎/d에서 시작하여 최소 유효 용량 사용 <mark style="color:blue;">\[알닥톤]</mark> (특발성 부종에 대한 근거가 제한적인 경험적 사용이며 장기 투여를 피함)
   * 시작 전 K, Cr/eGFR 및 혈압을 확인하고, 시작 또는 증량 후 통상 1주 이내 재검한 뒤 환자 위험도에 따라 주기적으로 추적
@@ -405,7 +413,7 @@ style C fill:#fff9c4,stroke:#ffe082
 
 ### <mark style="color:orange;">부종 관련 건강보조제 및 정맥순환개선제</mark>
 
-* 아래 성분들은 정맥 기능 부전(CVI)에 의한 경한 부종에 제한된 근거이며, 심부전·신부전·간경화·저알부민혈증에 의한 부종에는 효과 없음
+* 아래 성분들은 정맥 기능 부전(CVI)에 의한 경한 부종에 제한된 근거이며, 심부전·신부전·간경화·저알부민혈증에 의한 부종에는 치료 효과가 입증되지 않았고 권장되지 않음
 * 부종의 원인 감별 없이 건강보조제를 복용하면 근본 치료가 지연될 수 있음
 
 <table><thead><tr><th width="158">성분</th><th width="148">적용 부종 유형</th><th>근거 수준</th><th>국내 시판 현황 및 주요 주의사항</th></tr></thead><tbody><tr><td>MPFF (micronized purified flavonoid fraction)</td><td>증상이 있는 만성 정맥질환</td><td>조건부·중등도 (SVS/AVF/AVLS 2023: Grade 2B); ESVS 2022는 개별 약제의 근거를 전제로 venoactive drugs를 Class IIa, Level A로 고려</td><td>국내 일반의약품으로 유통. 단순 diosmin과 동일 성분군으로 묶지 말고 제품별 조성·허가사항 확인</td></tr><tr><td>Diosmin 단일성분</td><td>정맥성 증상</td><td>제제별 근거가 이질적이며 MPFF의 Grade 2B를 그대로 적용할 수 없음</td><td>국내 일반의약품 다수; 증상 완화의 보조요법이며 압박·운동 및 원인 치료를 대체하지 않음</td></tr><tr><td>Red vine leaf extract<br>(포도엽 건조엑스)</td><td>정맥 관련 통증·무거움·부종감</td><td>조건부·낮음~매우 낮음 (SVS/AVF/AVLS 2023: Grade 2C)</td><td>국내 허가 제품의 용법·금기 및 최신 유통 상태 확인</td></tr><tr><td>HCSE (horse chestnut seed extract)</td><td>정맥 관련 증상</td><td>조건부·낮음~매우 낮음 (SVS/AVF/AVLS 2023: Grade 2C)</td><td>표준화된 경구 추출물에 한한 근거이며 생종자·비표준화 제품은 독성 우려; 국내 경구 허가·유통 여부를 제품별 확인</td></tr></tbody></table>
@@ -485,7 +493,7 @@ style C fill:#fff9c4,stroke:#ffe082
 
 ***
 
-## <mark style="color:blue;">환자 안내서</mark>
+### <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **부종은 원인이 다양합니다 - 몸의 신호를 무시하지 마세요**
@@ -514,7 +522,7 @@ style C fill:#fff9c4,stroke:#ffe082
 * 호흡 곤란과 함께 누우면 더 숨이 차거나 분홍빛 거품 가래가 나오는 경우
 * 한쪽 다리 전체가 갑자기 심하게 붓고 극심한 통증, 푸르스름한 변색, 감각저하 또는 움직이기 어려운 증상이 있는 경우
 * 붓고 붉어진 부위의 통증이 매우 심하거나 빠르게 번지면서 물집·피부 변색, 의식 저하 또는 심한 전신 쇠약이 있는 경우
-* 임신 20주 이후 또는 출산 후 수축기 혈압이 160 mmHg 이상이거나 이완기 혈압이 110 mmHg 이상, 경련, 의식 변화 또는 호흡 곤란이 있는 경우
+* 임신 20주 이후 또는 출산 후 수축기 혈압이 160 ㎜Hg 이상이거나 이완기 혈압이 110 ㎜Hg 이상, 경련, 의식 변화 또는 호흡 곤란이 있는 경우
 
 #### <mark style="color:$primary;">이럴 때는 당일 진료받으세요</mark>
 
