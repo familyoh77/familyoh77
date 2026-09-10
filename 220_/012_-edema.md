@@ -85,22 +85,22 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 
 <mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
 
-* 갑자기 발생하거나 안정 시에도 심한 호흡 곤란, 저산소증 또는 분홍빛 거품 가래  `폐부종`
-* 편측 하지 부종과 함께 갑작스러운 호흡 곤란, 흉통, 객혈, 실신·저혈압 또는 설명되지 않는 빈맥이 있는 경우  `PE`
-* 입술·혀·목 부종과 쉰 목소리, 연하곤란, 천명 또는 호흡 곤란  `기도 침범 혈관부종`
+* 갑자기 발생하거나 안정 시에도 심한 호흡 곤란, 저산소증 또는 분홍빛 거품 가래 `폐부종`
+* 편측 하지 부종과 함께 갑작스러운 호흡 곤란, 흉통, 객혈, 실신·저혈압 또는 설명되지 않는 빈맥이 있는 경우 `PE`
+* 입술·혀·목 부종과 쉰 목소리, 연하곤란, 천명 또는 호흡 곤란 `기도 침범 혈관부종`
 * 간경화·문맥압항진이 의심되는 환자의 토혈·흑변 또는 활동성 위장관 출혈, 특히 저혈압·빈맥·실신/의식 변화 동반
-* 전체 하지의 급격하고 심한 종창과 심한 통증·청색증, 감각저하 또는 운동 이상  `phlegmasia cerulea dolens` `사지 허혈`
-* 통증이 피부 소견에 비해 현저하거나 빠르게 확산하는 부종·발적과 수포, 피부 괴사, 염발음 또는 전신 독성 소견  `괴사성 연조직감염`
+* 전체 하지의 급격하고 심한 종창과 심한 통증·청색증, 감각저하 또는 운동 이상 `phlegmasia cerulea dolens` `사지 허혈`
+* 통증이 피부 소견에 비해 현저하거나 빠르게 확산하는 부종·발적과 수포, 피부 괴사, 염발음 또는 전신 독성 소견 `괴사성 연조직감염`
 * 임신 20주 이후 또는 산후 6주 이내 수축기 BP ≥160 ㎜Hg 또는 이완기 BP ≥110 ㎜Hg, 경련, 의식 변화, 호흡 곤란·폐부종 등 중증 자간전증/자간증 소견
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 새로 발생한 원인 불명의 편측 하지 부종, 특히 전체 하지 부종·종아리 둘레 차이·통증·압통·열감 또는 DVT 위험 인자 동반
-* 황달 또는 새로 발생하거나 급격히 증가한 복수  `비대상성 간질환`
+* 황달 또는 새로 발생하거나 급격히 증가한 복수 `비대상성 간질환`
 * 심장 질환 병력 + 급격히 악화되는 부종
-* 임신 20주 이후 또는 산후 6주 이내 얼굴·손 부종과 고혈압, 지속 두통, 시야 변화, 우상복부/심와부 통증 중 하나 이상 동반하되 위의 중증 소견은 없음   `자간전증`
+* 임신 20주 이후 또는 산후 6주 이내 얼굴·손 부종과 고혈압, 지속 두통, 시야 변화, 우상복부/심와부 통증 중 하나 이상 동반하되 위의 중증 소견은 없음 `자간전증`
 * 급격한 소변량 감소와 빠른 체중 증가, 전신 부종 또는 신기능 악화 의심 소견
-* 발열 또는 국소 발적·열감·압통을 동반한 급성 부종  `봉와직염` `감염성 원인`
+* 발열 또는 국소 발적·열감·압통을 동반한 급성 부종 `봉와직염` `감염성 원인`
 
 <mark style="color:$info;">**외래 추적 관찰**</mark>
 
@@ -160,7 +160,7 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 > _위 수치는 임상에서 사용하는 여러 관행 중 하나이며 보편적으로 표준화된 절단값은 아님. Pitting edema 1+\~4+ 등급은 관찰자 간 재현성이 제한적이므로 추적 시 동일한 부위·자세·압박시간으로 평가하고, 같은 조건의 체중·발목/종아리 둘레와 피부 상태를 함께 기록하는 것이 좋음_
 
 * non-pitting edema : 림프부종 후기(약한 pitting은 발생 가능), pretibial myxedema(갑상선 질환)
-* Stemmer sign : 2nd toe(또는 2nd finger) 근위부 등쪽 피부가 집어 올려지지 않으면 양성으로, 림프부종을 지지하나 단독 확진 소견은 아님; 비만 등에서 위양성이 가능하고 음성이라도 초기 림프부종을 배제할 수 없음 (Goss & Greene, *Plast Reconstr Surg Glob Open* 2019: 민감도 92%, 특이도 57%)
+* Stemmer sign : 2nd toe(또는 2nd finger) 근위부 등쪽 피부가 집어 올려지지 않으면 양성으로, 림프부종을 지지하나 단독 확진 소견은 아님; 비만 등에서 위양성이 가능하고 음성이라도 초기 림프부종을 배제할 수 없음 (Goss & Greene, _Plast Reconstr Surg Glob Open_ 2019: 민감도 92%, 특이도 57%)
 * medial malleolus 부위의 크고 얕고 중등도 이하의 통증성 궤양 → 만성 정맥 부전
 * 작고 깊고 심한 통증성 궤양 → 동맥 부전, 혈관염, 감염
 * 신경병증성 당뇨발 궤양 → 발바닥 등 압박 부위에 흔하며 감각 저하로 통증이 적을 수 있음; 동맥성·정맥성 궤양과 감별
@@ -203,10 +203,10 @@ SG1["새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells s
         D1 -- "음성" --> E
         D1 -. "CUS 결과 4시간 내 불가" .-> I3["금기 평가 후 <br/>임시 치료용량 항응고"]
         I3 --> D4["Proximal CUS<br/>24시간 이내"]
-        D4 -- "양성" --> G
+        D4 -- "양성" --> G0
         D4 -- "음성" --> E
-        D1 -- "양성" --> G["DVT 진단<br/>항응고 치료"]
-        D2 -- "양성" --> G
+        D1 -- "양성" --> G0["DVT 진단<br/>항응고 치료"]
+        D2 -- "양성" --> G["DVT 진단<br/>항응고 치료"]
         D2 -. "CUS 결과 4시간 내 불가" .-> I2["D-dimer 채혈 <br/>+ 금기 평가 후<br/>임시 치료용량 항응고"]
         I2 --> D3["Proximal CUS<br/>24시간 이내"]
         D3 -- "양성" --> G
@@ -214,24 +214,28 @@ SG1["새로 발생한 원인 불명의<br/>편측 하지 부종"] --> B["Wells s
         D2 -- "음성" --> DD
         DD -- "양성" --> R["임시 항응고 중이었다면 중단<br/>6~8일 후 proximal CUS 반복"]
         R -- "양성" --> G
-        R -- "음성" --> E
+        R -- "음성" --> E0
         E -. "gross swelling 또는<br/>iliac/pelvic obstruction 의심" .-> H["CT/MR venography 고려"]
-        DD -- "음성" --> E
+        DD -- "음성" --> E0["DVT 가능성 낮음<br/>다른 원인 평가"]
     style SG1 fill:#d5f5e3,stroke:#27ae60,stroke-width:2px
     style B fill:#fff3cd,stroke:#f39c12
     style I1 fill:#fadbd8,stroke:#e74c3c
     style I2 fill:#fadbd8,stroke:#e74c3c
     style I3 fill:#fadbd8,stroke:#e74c3c
 
-    style E fill:#fff3e0,stroke:#e65100
-    style G fill:#fdebd0,stroke:#e67e22
+classDef orange50 fill:#fff3e0,stroke:#e65100
+class E,E0 orange50
+classDef orange fill:#fdebd0,stroke:#e67e22
+class G,G0 orange
 ```
 
 <p align="center"><strong>편측 하지 부종에서 DVT 감별 알고리듬</strong></p>
 
 _※ 임시 치료 용량 항응고 전 CBC, 신·간기능, PT, aPTT를 채혈하되 결과를 기다리느라 치료를 지연하지 않음. 출혈 위험·금기와 임신 여부를 확인하고, 국내 진료 환경과 환자별 위험에 따라 적용_
 
-<p align="center"><em><mark style="color:$info;">CUS=compression ultrasonography, DVT=deep venous thrombosis</mark></em><br><em><mark style="color:$info;">NICE NG158의 2-level Wells strategy 및 검사 지연 시 interim therapeutic anticoagulation 권고를 반영하여 수정.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">CUS=compression ultrasonography, DVT=deep venous thrombosis</mark></em></p>
+
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG158, 2020(2023년 개정) - 2-level Wells strategy 및</mark></em> <br><em><mark style="color:$info;">검사 지연 시 interim therapeutic anticoagulation 권고)</mark></em></p>
 
 ```mermaid
 graph TD
@@ -248,9 +252,9 @@ SG2["<b>지속성·만성 편측 하지 부종</b>"] --> B2["병력·진찰<br/>
     style F2 fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>지속성·만성 편측 하지 부종의 감별 알고리듬</strong></p>
+<p align="center"><strong>지속성·만성 편측 하지 부종의 감별 알고리듬</strong> <em><mark style="color:$info;">(저자 구성 )</mark></em></p>
 
-<p align="center"><em><mark style="color:$info;">CDT=complete decongestive therapy</mark></em><br><em><mark style="color:$info;">저자 구성 (특정 단일 가이드라인 인용 아님)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">CDT=complete decongestive therapy</mark></em></p>
 
 ```mermaid
 graph TD
@@ -272,9 +276,7 @@ SG3["<b>양측 하지 부종 또는 <br/>전신 부종</b>"]
     style D3d fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 구성 (특정 단일 가이드라인 인용 아님)</mark></em></p>
+<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong> <em><mark style="color:$info;">(저자 구성)</mark></em></p>
 
 ***
 
@@ -336,11 +338,11 @@ graph TD
     HF2 -- "SGLT2i 시작/병용" --> HF3["용적 상태 재평가<br/> euvolemia·저혈압<br/>·용적고갈 위험 시<br/>loop 감량 고려"]
     CI --> CI1["첫 grade 2 복수: <br/>spironolactone 단독 가능<br/>재발성/신속한 이뇨 필요:<br/>spironolactone 100 <br/>+ furosemide 40 ㎎"]
     CI1 -- "긴장성 복수" --> CI2["Large-volume <br/>paracentesis<br/>+ 적응증에 따른 <br/>albumin"]
-    CI1 -- "spironolactone 불내성" --> CI3["Amiloride 대체"]
+    CI1 -- "spironolactone <br/>불내성" --> CI3["Amiloride <br/>대체"]
     NS --> NS1["Loop diuretic 용량 개별화<br/>저알부민혈증·흡수 저하<br/>·신기능에 따라 고용량이<br/> 필요할 수 있음"]
-    NS1 -- "반응 불충분" --> NS2["IV loop 전환 또는<br/> Sequential blockade"]
-    NS2 -. "선별된 중증 저알부민혈증<br/>전문의 판단; <br/>routine use 아님" .-> NS3["Albumin + loop 고려"]
-    NS1 -. "intravascular depletion <br/>주의" .-> NS_w["겉 부종 vs<br/> 속 hypovolemia<br/>→ AKI 위험 모니터링"]
+    NS1 -- "반응 불충분" --> NS2["IV loop 전환 또는<br/> Sequential <br/>blockade"]
+    NS2 -. "선별된 중증 저알부민혈증<br/>전문의 판단; <br/>routine use 아님" .-> NS3["Albumin + <br/>loop 고려"]
+    NS1 -. "intravascular <br/>depletion <br/>주의" .-> NS_w["겉 부종 vs<br/> 속 hypovolemia<br/>→ AKI 위험 모니터링"]
     style A fill:#d5f5e3,stroke:#27ae60
     style Z fill:#fdebd0,stroke:#e67e22
     style HF2 fill:#fef9e7,stroke:#f39c12
@@ -352,6 +354,8 @@ graph TD
 ```
 
 <p align="center"><strong>이뇨제 선택 및 저항성 대응 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">저자 재구성 (AASLD·EASL 복수 관리 지침 및 심부전 이뇨제 관리 원칙 참조)</mark></em></p>
 
 ***
 
