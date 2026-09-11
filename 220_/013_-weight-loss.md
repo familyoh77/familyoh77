@@ -126,12 +126,12 @@
 
 <table data-search="false"><thead><tr><th width="120.3157958984375">D</th><th width="130.94732666015625">항목</th><th>확인 내용</th></tr></thead><tbody><tr><td>Dentition</td><td>치아/구강 문제</td><td>틀니 불량, 충치, 구강 통증 → 섭취량 감소</td></tr><tr><td>Dysphagia</td><td>삼킴 장애</td><td>사레, 음식물 걸림, 연하 통증</td></tr><tr><td>Dysgeusia</td><td>미각/후각 변화</td><td>약물(ACEI, 항생제 등) 포함 원인 확인</td></tr><tr><td>Diarrhea</td><td>설사/흡수 장애</td><td>만성 설사, 지방변, 췌장 부전</td></tr><tr><td>Depression</td><td>우울증</td><td>식욕 저하, 무기력, 고립감</td></tr><tr><td>Disease</td><td>기저 질환</td><td>암, 심부전, 당뇨, 갑상선, 만성 감염 등</td></tr><tr><td>Dementia</td><td>인지 장애</td><td>식사 잊음, 식사 거부, 조리 불가</td></tr><tr><td>Dysfunction</td><td>기능 저하</td><td>ADL 저하 → 장보기·조리·식사 동작 불가</td></tr><tr><td>Drugs</td><td>약물</td><td>식욕 저하·미각 변화·소화 장애 유발 약물 (위 목록 참조)</td></tr></tbody></table>
 
-**사회적 고립(Social Isolation)**
+**사회적 고립**
 
-* 혼자 식사하는 환경은 고령자의 섭취량 감소 및 영양불량과 연관될 수 있음
+* 고령자의 혼자 식사하는 환경은 섭취량 감소 및 영양불량과 연관될 수 있음
 * 9 Ds 항목 외에 식사 동반자 유무, 가족·지역사회 연결 여부 확인 필요
 
-**고령 환자 영양·기능 평가 보조 도구**
+<mark style="color:cyan;">**고령 환자 영양·기능 평가 보조 도구**</mark>
 
 * 종아리 둘레 : 남성 ＜34 ㎝, 여성 ＜33 ㎝이면 근감소증 위험 선별 양성; 외래에서 case-finding에 활용 가능
 * 악력(Grip Strength) : ≥65세에서 남성 ＜28 ㎏, 여성 ＜18 ㎏이면 낮은 근력으로 평가
@@ -144,7 +144,7 @@
 **체중 감소에서는 근감소증 동반 평가가 중요** : 체중 감소에 근감소증(sarcopenia)이 동반되면 불량한 예후와 연관될 수 있음. 체중 측정과 함께 종아리 둘레·악력으로 위험과 근력을 선별하고, 양성이면 BIA·DXA 등 근육량 평가를 고려
 {% endhint %}
 
-**고령 환자 빠른 선별 (Quick Screen) - 5가지 질문**
+<mark style="color:cyan;">**고령 환자 빠른 선별 (Quick Screen) - 5가지 질문**</mark>
 
 * 하나라도 '예'이면 해당 항목 집중 평가
   * Eat? 식사량이 줄었나요?
@@ -190,57 +190,64 @@
 
 ## <mark style="color:green;">약물 치료</mark>
 
-**약물 투여 전제 조건**
+<mark style="color:cyan;">**약물 투여 전제 조건**</mark>
 
 * 일반적인 원인 불명 체중 감소에서는 가역적 원인 교정과 원인 평가가 우선이며, 식욕촉진제가 평가를 대신하지 않음
-* **고령자의 원인 불명 비의도적 체중 감소 자체를 적응증으로 처방 식욕촉진제를 일상적으로 사용하지 않음**
+* 고령자의 원인 불명 비의도적 체중 감소 자체를 적응증으로 처방 식욕촉진제를 일상적으로 사용하지 않음
 * 진행암·완화의료에서는 원인 평가와 동시에 증상 완화 목적의 약물을 고려할 수 있음
 * 영양·운동·식사 환경 중재는 환자의 기능, 기저 질환과 치료 목표에 따라 가능한 범위에서 병행
 
 #### <mark style="color:$primary;">A. 식욕 저하 + 우울증 치료가 필요한 경우</mark>
 
-**mirtazapine 고려** <mark style="color:blue;">\[레메론]</mark>
+<mark style="color:cyan;">**Mirtazapine**</mark>
 
-* **우울증 치료 적응증이 있으면서** 식욕 저하·체중 감소 또는 불면이 동반된 환자에서 고려할 수 있음
-* 용량 : 일반적으로 15 ㎎ hs에서 시작하여 임상 반응과 내약성에 따라 우울증 치료 용량으로 조정; 고령·frailty 환자는 더 낮은 시작 용량을 고려할 수 있음
-* 저용량에서 진정 효과가 상대적으로 두드러질 수 있다고 알려져 있으나, 용량 증가에 따라 진정·식욕 촉진 효과가 일관되게 감소한다는 **역용량 효과는 확립된 원칙이 아님**
-* 주의 : daytime sedation, 어지럼, 낙상, 고령에서 혼돈 위험. **단순 식욕촉진 목적으로 routine 사용하지 않음**
+* 우울증 치료 적응증이 있으면서 식욕 저하·체중 감소 또는 불면이 동반된 환자에서 고려할 수 있음
+* 용량 : 일반적으로 15 ㎎ hs에서 시작하여 임상 반응과 내약성에 따라 우울증 치료 용량으로 조정 <mark style="color:blue;">\[레메론]</mark>
+  * 고령·frailty 환자는 더 낮은 시작 용량을 고려할 수 있음
+* 저용량에서 진정 효과가 상대적으로 두드러질 수 있다고 알려져 있음
+  * 용량 증가에 따라 진정·식욕 촉진 효과가 일관되게 감소한다는 역용량 효과는 확립된 원칙이 아님
+* 주의 : daytime sedation, 어지럼, 낙상, 고령에서 혼돈 위험
+  * 단순 식욕촉진 목적으로 routine 사용하지 않음
 * 국내 급여/허가 : 우울증 치료 적응증에 따라 사용하며, 단순 식욕촉진 목적 사용은 적응증 외 사용이 될 수 있으므로 최신 허가·급여 기준 확인
 
-#### <mark style="color:$primary;">B. Cancer cachexia / 불응성 식욕부진</mark>
+#### <mark style="color:$primary;">B. 암성 악액질 / 불응성 식욕부진</mark>
 
-* 암성 악액질은 염증·대사 이상을 동반하여 영양 공급만으로 완전히 회복되지 않을 수 있으므로, 단순 영양불량과 구분하여 다학제적으로 관리
+* 암성 악액질(cancer cachexia)은 염증·대사 이상을 동반하여 영양 공급만으로 완전히 회복되지 않을 수 있으므로, 단순 영양불량과 구분하여 다학제적으로 관리
 
-**Low-dose olanzapine 고려**
+<mark style="color:cyan;">**Low-dose olanzapine**</mark>
 
-* 진행암 환자의 식욕 및 체중 개선을 위해 **저용량 olanzapine 1일 1회**를 고려할 수 있음 (ASCO 2023: evidence quality intermediate, recommendation strength moderate)
-* 근거 연구에서는 2.5 ㎎/day가 사용되었으며, 진정·대사 이상·고혈당·기립성 저혈압 등 부작용을 고려하여 개별화
-* 국내에서는 암성 악액질·식욕부진 목적 사용이 허가 외 사용임을 설명하고 최신 허가·급여 기준 확인
-* olanzapine을 사용하지 않거나 내약성이 없는 경우 **progesterone analog(megestrol acetate 등) 또는 corticosteroid의 단기 사용**을 고려할 수 있음
+* 진행암 환자의 식욕 및 체중 개선을 위해 저용량(2.5 ㎎/d) olanzapine 1일 1회를 고려할 수 있음 <mark style="color:blue;">\[자이프렉사]</mark>
+  * 진정·대사 이상·고혈당·기립성 저혈압 등 부작용을 고려하여 용량개별화
+* 처방 시 암성 악액질·식욕부진 목적 사용이 허가 외 사용임을 설명 (최신 허가·급여 기준 확인)
+* olanzapine을 사용하지 않거나 내약성이 없는 경우 progesterone analog(megestrol acetate 등) 또는 corticosteroid의 단기 사용을 고려할 수 있음
 
-**Megestrol acetate** <mark style="color:blue;">\[메게이스]</mark>
+<mark style="color:cyan;">**Megestrol acetate**</mark>
 
-* 식욕 ↑, 체지방 ↑; lean mass 증가 효과는 제한적
-* 용량 : 160\~800 ㎎/d (흔히 400\~800 ㎎/d 범위에서 사용)
-* 제한 : 혈전 위험 ↑, fluid retention, adrenal suppression; 생존 개선 효과는 입증되지 않음
+* 효과 : 식욕 ↑, 체지방 ↑
+  * lean mass 증가 효과는 제한적. 생존 개선 효과는 입증되지 않음
+* 용량 : 160\~800 ㎎/d (흔히 400\~800 ㎎/d 범위에서 사용) <mark style="color:blue;">\[메게이스]</mark>
 * 사용 기준 : 진행암·AIDS 등 제한된 적응증에서 증상 완화를 목적으로 사용하고 치료 목표·평가 시점·중단 기준을 사전에 설정
-* **고령자의 일반적인 체중 감소·frailty에는 사용하지 않음** : 체중 증가 효과는 제한적인 반면 혈전색전증·체액저류 및 사망 위험이 증가할 수 있어 AGS Beers Criteria에서 회피 권고
-* 국내 허가사항과 암·AIDS 관련 건강보험 세부 인정기준을 확인하여 적용
+* [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0373) : 재발성·전이성 암 환자 대상으로 식욕부진, 악액질, 체중감소에 대하여 인정
+* 고령자의 일반적인 체중 감소·frailty에는 사용하지 않음 : 체중 증가 효과는 제한적인 반면 혈전색전증·체액저류 및 사망 위험이 증가할 수 있어 AGS Beers Criteria에서 회피 권고
 * 당뇨 환자 : 고혈당 악화 가능 → 혈당 모니터링 강화
 * 장기 복용 시 쿠싱 증후군·약물 유발 부신부전 가능; 장기 사용 후 임의로 갑자기 중단하지 않음
 
 #### <mark style="color:$primary;">C. 약물 유발 체중 감소 의심</mark>
 
-* 원칙 : 약물 추가보다 약물 제거가 치료
-* **GLP-1 agonist** : 치료 적응증, 혈당 조절, 심혈관·신장 이득, 영양 상태를 재평가한 뒤 감량 또는 중단 고려
-* **Metformin** : 위장관 부작용·식욕저하와의 시간적 연관성을 확인하고 필요 시 용량 감량 또는 대체 고려
-* **SSRI 등** : 약물 시작/증량과 체중 감소의 시간적 연관성을 확인하고 대체 약물의 적응증과 부작용을 비교하여 조정
-* digoxin, theophylline, 일부 항경련제·항생제·opioid 등도 식욕 저하·오심·미각 변화의 원인이 될 수 있으므로 전체 약물 목록을 검토
+* 원칙 : 약물 추가가 아닌 약물 제거
+* 복용 중인 약물 전체에 대하여 재검토
+
+<mark style="color:cyan;">**원인 약물과 대처 방법**</mark>
+
+* GLP-1 agonist : 치료 적응증, 혈당 조절, 심혈관·신장 이득, 영양 상태를 재평가한 뒤 감량 또는 중단 고려
+* metformin : 위장관 부작용·식욕저하와의 시간적 연관성을 확인하고 필요 시 용량 감량 또는 대체 고려
+* SSRI : 약물 시작/증량과 체중 감소의 시간적 연관성을 확인하고 대체 약물의 적응증과 부작용을 비교하여 조정
+* digoxin, theophylline, 일부 항경련제·항생제·opioid 등도 식욕 저하·오심·미각 변화의 원인이 될 수 있음
 
 #### <mark style="color:$primary;">D. 식욕 유지형 체중 감소</mark>
 
-* 식욕촉진제 사용 금지 - 원인(당뇨·갑상선기능항진증·흡수장애 등) 치료가 우선
-* 식욕촉진제를 투여해도 근본 원인이 교정되지 않으면 체중이 회복되지 않음
+* 식욕촉진제 사용 금지 및 원인(당뇨·갑상선기능항진증·흡수장애 등) 치료 우선
+  * 식욕촉진제를 투여해도 근본 원인이 교정되지 않으면 체중이 회복되지 않음
 
 #### <mark style="color:$primary;">E. Frailty / 근감소증 중심</mark>
 
@@ -249,16 +256,20 @@
 
 #### <mark style="color:$primary;">2차 선택 (제한적)</mark>
 
-* **Cyproheptadine 함유 복합제** <mark style="color:blue;">\[트레스탄캡슐]</mark> (비급여) : cyproheptadine orotate 1.5 ㎎ + DL-carnitine HCl 150 ㎎ + L-lysine HCl 150 ㎎ + cyanocobalamin 1 ㎎/캡슐; 일부 환자에서 식욕 촉진 효과. Cyproheptadine은 강한 항콜린성 1세대 항히스타민제로 **고령자에서는 원칙적으로 피하고, 특별한 사유가 있을 때만 제한적으로 고려** (Beers Criteria 해당 성분); confusion, 소변 저류 risk; 젊은 환자에서만 제한적 고려
-* **Dronabinol** : 식욕 개선 가능성은 있으나 CNS 부작용과 근거가 제한적이며, **2026년 9월 기준 국내 미허가·일반 유통되지 않아 일반적인 처방 선택지로 제시하지 않음**; 필요한 경우 국내 의료용 대마 관련 최신 접근 절차 확인
-* **Steroid** : 진행암·완화의료에서 단기간 식욕 개선 목적으로 제한적으로 고려; 장기 사용은 근손실·고혈당·감염·부신억제 위험 때문에 피함
-* **오메가-3 (EPA)** : 암 관련 악액질에서 연구되었으나 체중·근육량·삶의 질 개선 효과가 일관되지 않아 표준 식욕촉진 치료로 권장하기에는 근거가 제한적
+* cyproheptadine 함유 복합제 :  <mark style="color:blue;">\[트레스탄캡슐]</mark> - cyproheptadine orotate 1.5 ㎎ + DL-carnitine HCl 150 ㎎ + L-lysine HCl 150 ㎎ + cyanocobalamin 1 ㎎/캡슐 (비급여)
+  * 일부 환자에서 식욕 촉진 효과
+  * cyproheptadine : 강한 항콜린성 1세대 항히스타민제로 고령자에서는 원칙적으로 피하고, 특별한 사유가 있을 때만 제한적으로 고려 (Beers Criteria 해당 성분); confusion, 소변 저류 위험
+  * 젊은 환자에서만 제한적 고려
+* Dronabinol : 식욕 개선 가능성은 있으나 CNS 부작용과 근거가 제한적이며 (2026년 9월 기준 국내 미허가)
+* 스테로이드 : 진행암·완화의료에서 단기간 식욕 개선 목적으로 제한적으로 고려
+  * 장기 사용은 근손실·고혈당·감염·부신억제 위험 때문에 피함
+* 오메가-3 (EPA) : 암 관련 악액질에서 연구되었으나 체중·근육량·삶의 질 개선 효과가 일관되지 않아 표준 식욕촉진 치료로 권장하기에는 근거가 제한적
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-R63.4 이상체중감소
+* R63.4 이상체중감소
 
 ***
 
@@ -319,7 +330,7 @@ R63.4 이상체중감소
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **의도하지 않은 체중 감소는 몸의 중요한 신호입니다**
