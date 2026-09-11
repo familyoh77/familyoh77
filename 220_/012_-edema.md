@@ -83,7 +83,7 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 갑자기 발생하거나 안정 시에도 심한 호흡 곤란, 저산소증 또는 분홍빛 거품 가래 `폐부종`
 * 편측 하지 부종과 함께 갑작스러운 호흡 곤란, 흉통, 객혈, 실신·저혈압 또는 설명되지 않는 빈맥이 있는 경우 `PE`
@@ -102,7 +102,7 @@ _※ Systemic/dependent edema에는 심장성 등 전신 volume overload와 장�
 * 급격한 소변량 감소와 빠른 체중 증가, 전신 부종 또는 신기능 악화 의심 소견
 * 발열 또는 국소 발적·열감·압통을 동반한 급성 부종 `봉와직염` `감염성 원인`
 
-<mark style="color:$info;">**외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 심잡음, 부정맥 등 심장 이상 소견
 * 만성으로 원인이 확인된 정맥부전·림프부종·근골격계 질환 등에서 새 위험 징후 없이 지속되는 통증성 부종
@@ -252,7 +252,9 @@ SG2["<b>지속성·만성 편측 하지 부종</b>"] --> B2["병력·진찰<br/>
     style F2 fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>지속성·만성 편측 하지 부종의 감별 알고리듬</strong> <em><mark style="color:$info;">(저자 구성 )</mark></em></p>
+<p align="center"><strong>지속성·만성 편측 하지 부종의 감별 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">저자 재구성</mark></em></p>
 
 <p align="center"><em><mark style="color:$info;">CDT=complete decongestive therapy</mark></em></p>
 
@@ -276,7 +278,9 @@ SG3["<b>양측 하지 부종 또는 <br/>전신 부종</b>"]
     style D3d fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong> <em><mark style="color:$info;">(저자 구성)</mark></em></p>
+<p align="center"><strong>양측 하지 부종 또는 전신 부종의 평가 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">저자 재구성</mark></em></p>
 
 ***
 
@@ -307,7 +311,7 @@ SG3["<b>양측 하지 부종 또는 <br/>전신 부종</b>"]
   * AASLD는 spironolactone 100 ㎎ + furosemide 40 ㎎ 병합 시작을 선호
   * EASL은 첫 발생 grade 2 복수에서 spironolactone 단독 시작 후 반응 불충분 또는 고K혈증 시 furosemide 추가를 권고하며, 재발성 복수에는 병합요법 권고
   * 긴장성/grade 3 복수에서는 단순 이뇨제 증량보다 large-volume paracentesis와 적응증에 따른 albumin 투여를 우선 고려
-  * 이뇨 중 체중 감소는 일반적으로 말초 부종이 없으면 ≤0.5 kg/d, 말초 부종이 있으면 ≤1 kg/d를 목표로 하며 저Na혈증·AKI·저혈압·간성뇌증 발생 시 감량·중단하고 재평가
+  * 이뇨 중 체중 감소는 일반적으로 말초 부종이 없으면 ≤0.5 ㎏/d, 말초 부종이 있으면 ≤1 ㎏/d를 목표로 하며 저Na혈증·AKI·저혈압·간성뇌증 발생 시 감량·중단하고 재평가
   * 5 L를 초과하여 복수를 제거하는 large-volume paracentesis에서는 일반적으로 제거한 복수 1 L당 albumin 6\~8 g 투여
 * furosemide : 야간 투여 시 수면 장애 초래 가능; PO 20\~40 ㎎, IV 10\~40 ㎎ <mark style="color:blue;">\[라식스]</mark>
   * 반응 불충분 시 원인, 복약 순응도, Na 섭취, 신기능 및 흡수 장애를 재평가한 뒤 용량을 조절
@@ -441,7 +445,7 @@ graph TD
 > **처방례 1. 심부전에 의한 volume overload - 안정된 외래 환자**
 >
 > ```
-> 라식스 40 ㎎/T 0.5\~1 T qd 아침
+> 라식스 40 ㎎/T 0.5~1 T qd 아침
 > ※ 체중·혈압·Cr/eGFR·Na/K를 추적하며 euvolemia 도달 후 최소 유효 용량으로 조절
 > ※ 급성 악화 또는 신규 발생 심부전은 외래 단독 처방 대상이 아니며 전문의 의뢰를 고려
 > ```
@@ -452,7 +456,7 @@ graph TD
 > 알닥톤 필름코팅정 25 ㎎/T 4T qd 아침 (총 100 ㎎/d)
 > 라식스 40 ㎎/T 1T qd 아침 (spironolactone : furosemide = 100 : 40 비율)
 > ※ Na/K/Cr, 혈압, 체중을 모니터링하며 저나트륨혈증·AKI·간성뇌증 발생 시 재평가
-> ※ 체중 감소는 일반적으로 말초 부종이 없으면 ≤0.5 kg/d, 말초 부종이 있으면 ≤1 kg/d를 목표로 조절
+> ※ 체중 감소는 일반적으로 말초 부종이 없으면 ≤0.5 ㎏/d, 말초 부종이 있으면 ≤1 ㎏/d를 목표로 조절
 > ※ 신규 발생 복수는 진단적 복수천자 등 원인 평가가 선행되어야 하며, 첫 grade 2 복수에서는 spironolactone 단독 시작 전략도 가능
 > ※ 5 L 초과 large-volume paracentesis 시 일반적으로 제거한 복수 1 L당 albumin 6~8 g 투여
 > ```
@@ -497,7 +501,7 @@ graph TD
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **부종은 원인이 다양합니다 - 몸의 신호를 무시하지 마세요**
@@ -517,7 +521,7 @@ graph TD
 * **수분 섭취** : 의사의 지시에 따르십시오. 심장·신장 질환이 있는 경우 과도한 수분 섭취가 오히려 부종을 악화시킬 수 있습니다
 * **다리 올리기** : 쉬거나 누울 때 다리를 심장보다 높게 올리면 부종 완화에 도움이 됩니다
 * **압박 스타킹** : 의사 처방에 따라 착용하고, 아침 일어나자마자 신고 취침 전에 벗으십시오
-* **매일 체중 측정** : 아침 식전·소변 후 같은 조건에서 측정하여 부종 변화를 확인하십시오. 하루 1 kg 이상 증가하면 병원에 연락하십시오
+* **매일 체중 측정** : 아침 식전·소변 후 같은 조건에서 측정하여 부종 변화를 확인하십시오. 하루 1 ㎏ 이상 증가하면 병원에 연락하십시오
 
 #### <mark style="color:$primary;">이럴 때는 즉시 119 또는 응급실을 이용하세요</mark>
 
@@ -530,7 +534,7 @@ graph TD
 
 #### <mark style="color:$primary;">이럴 때는 당일 진료받으세요</mark>
 
-* 원인 없이 새로 한쪽 다리만 부은 경우 — 통증이나 열감이 없어도 심부정맥혈전증 가능성이 있습니다
+* 원인 없이 새로 한쪽 다리만 부은 경우 - 통증이나 열감이 없어도 심부정맥혈전증 가능성이 있습니다
 * 소변량이 줄거나 얼굴·복부까지 빠르게 붓고 체중이 급격히 증가하는 경우
 * 붓는 부위에 발열, 발적, 열감 또는 압통이 있는 경우
 * 임신 20주 이후 또는 출산 후 얼굴·손 부종과 고혈압, 지속 두통, 시야 변화 또는 명치·우상복부 통증이 있으나 위의 즉시 응급실 이용 기준에는 해당하지 않는 경우
