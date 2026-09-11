@@ -1,4 +1,4 @@
-# 두근거림 Palpitations
+# 두근거림 Palpitation
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -9,7 +9,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 지속적이거나 허혈성이 의심되는 심한 흉통
 * 저혈압(SBP ＜90 ㎜Hg), 쇼크 징후 또는 의식 변화
@@ -33,7 +33,7 @@ HR ＞150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
 * 하지 부종 등 심부전 가능성을 시사하는 소견
 * 박동기 또는 심장 제세동기 삽입 환자에서 새로운 두근거림 - 기기 오작동 감별 필요
 
-<mark style="color:$info;">**외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 짧게 지속되는 빠르거나 쿵거리는 느낌, short fluttering이 있으나 상위 Red flag가 없는 경우
 * 단독 PAC/PVC가 의심되고 정상 ECG이며 구조적 심장 질환·고위험 가족력이 없고, 빈번하지 않으며 다형성·couplet·NSVT 양상이 아닌 경우
@@ -193,7 +193,7 @@ _✽위 심박수·양상 범위는 흔한 경향이며 절대적 진단 기준�
 
 ```mermaid
 graph TD
-    Start["전제: Red flag 없음/<br/>구조적 심질환·치명적 부정맥 <br/>우선 배제<br/>ECG 또는 모니터링으로 리듬 <br/>표현형 확인"] --> Rhythm{확인된 리듬/표현형}
+    Start["전제: Red flag 없음/<br/>구조적 심질환·치명적 부정맥 <br/>우선 배제<br/>ECG 또는 모니터링으로 리듬 <br/>표현형 확인"] --> Rhythm[확인된 리듬/표현형]
     Rhythm -->|"빠르고 규칙적<br/>갑작스럽게 시작·종료"| SVT["A. SVT"]
     Rhythm ---->|"완전 불규칙"| AF["B. AF"]
     Rhythm ---->|"건너뜀·쿵 느낌"| PVC["C. PAC/PVC"]
@@ -202,15 +202,15 @@ graph TD
     SVT --> Vagal["혈역학적으로 안정<br/>→ Modified Valsalva"]
     Vagal -->|"실패·지속"| ER1["ECG monitoring·<br/>adenosine 가능한<br/>의료기관으로 <br/>의뢰/이송"]
     SVT -->|"반복성 symptomatic SVT"| SVTref["심장내과 의뢰<br/>catheter ablation 포함 <br/>장기 전략 평가"]
-    AF --> PreEx{"Pre-excitation?"}
+    AF --> PreEx["Pre-excitation?"]
     PreEx -->|"YES"| WPW["AV node 차단제<br/>·IV amiodarone 금기<br/>→ 즉시 응급 이송"]
-    PreEx -->|"NO"| EF{"LVEF"}
+    PreEx -->|"NO"| EF["LVEF"]
     EF -->|"HFrEF / LVEF ≤40%"| AFhf["β-차단제 ± digoxin (안정 시)<br/>non-DHP CCB 금기"]
-    EF --->|"LVEF >40%"| Resp{"천식·COPD?"}
+    EF --->|"LVEF >40%"| Resp["천식·COPD?"]
     Resp -->|"NO"| AFnormal["β-차단제 또는<br/>diltiazem<br/>/verapamil"]
     Resp -->|"YES"| AFcopd["non-DHP CCB 또는<br/>상태에 따라 <br/>β₁-선택성 β-차단제"]
     AF --> Stroke["뇌졸중 위험<br/>·항응고 여부 평가<br/>☞ 심방세동"]
-    PVC --> PVCBurden{"빈번·다형성·couplet<br/>/NSVT 또는<br/> 구조적 심질환<br/>·EF 저하 동반?"}
+    PVC --> PVCBurden["빈번·다형성·couplet<br/>/NSVT 또는<br/> 구조적 심질환<br/>·EF 저하 동반?"]
     PVCBurden -->|"NO"| PVC1["Reassurance<br/>유발 인자 제거<br/>(과량 카페인·알코올·스트레스,<br/>개별 반응에 따라 조정)"]
     PVC1 -->|"증상 지속 시"| BB3["구조적 심질환 배제 후<br/>β-차단제 저용량 고려"]
     PVCBurden -->|"YES"| PVCref["Holter로 burden 정량화<br/>심초음파·심장내과 의뢰"]
@@ -230,7 +230,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 
 <p align="center"><strong>두근거림 - 확인된 리듬별 초기 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AHA Adult Advanced Life Support 2025, ESC AF Guideline 2024,</mark></em><br><em><mark style="color:$info;">ACC/AHA/ACCP/HRS AF Guideline 2023, ESC Ventricular Arrhythmia Guideline 2022,</mark></em> <br><em><mark style="color:$info;">ESC SVT Guideline 2019, REVERT trial 2015 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AHA Adult Advanced Life Support 2025, ESC AF Guideline 2024,</mark></em><br><em><mark style="color:$info;">ACC/AHA/ACCP/HRS AF Guideline 2023, ESC Ventricular Arrhythmia Guideline 2022,</mark></em><br><em><mark style="color:$info;">ESC SVT Guideline 2019, REVERT trial 2015 등)</mark></em></p>
 
 ***
 
@@ -309,7 +309,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 > **처방례 1. 이차 원인이 배제되었거나 충분히 교정된 뒤에도 지속되는 증상성 동빈맥 또는 PAC/PVC - 구조적 심질환 배제 후 저용량 β-차단제**
 >
 > ```
-> 인데놀 10 ㎎/T  1T  bid
+> 인데놀 10 ㎎/T 1T bid
 > ※ 안정 시 맥박 55회/분 미만이면 감량 또는 보류
 > ※ 반응·내약성에 따라 서서히 증량
 > ```
@@ -319,7 +319,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 > **처방례 2. 불안장애·공황장애로 진단된 환자에서 두근거림 증상 동반 시 단기 항불안제**
 >
 > ```
-> 자낙스 0.25 ㎎/T  1T  필요시 (1일 최대 2회, 최소 6시간 간격)
+> 자낙스 0.25 ㎎/T 1T 필요시 (1일 최대 2회, 최소 6시간 간격)
 > ```
 >
 > _✽alprazolam은 두근거림 자체의 치료제가 아니라 불안장애·공황장애가 별도로 진단된 경우의 단기 bridge 치료다. β-차단제와 동시 병용을 원칙으로 하지 않으며, 최소 유효용량으로 가급적 1\~2주 이내 단기 사용에 한한다. 반복·만성 불안이 있으면_ [_불안장애_](../221_/025_-anxiety-disorder.md) _챕터를 참조하여 SSRI/CBT 기반 치료로 전환하고, 중증·난치성 또는 진단이 불분명한 경우 정신건강의학과 협진을 고려한다. 실제 진단이 성립한 경우에만 해당 진단코드를 사용하며 최신 급여기준을 확인한다_
@@ -338,7 +338,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 > 콩코르정 2.5 ㎎/T 1T qd
 > ```
 >
-> _✽혈역학적으로 안정된 AF 환자에서 β1-선택성 β-차단제로 심박수 조절 시작; β-차단제는 LVEF와 관계없이 사용할 수 있으나 심부전 상태·혈압·서맥 및 전도장애를 함께 고려한다. 목표 심박수는 증상에 따라 개별화하되 안정 시 대개 100\~110회/분 미만을 목표로 함. 다만 이는 주로 심부전이 없는 환자에 적용되는 목표이며, 심부전·tachycardia-induced cardiomyopathy·증상 지속 환자에게 일률 적용하지 않는다(2023 ACC/AHA/ACCP/HRS AF Guideline). 국내 허가사항상 이 약(콩코르정 2.5 ㎎)의 적응증은 좌심실 수축기능이 저하된 안정형 만성 심부전이며, AF 심박수 조절 목적의 사용은 허가 외 사용(off-label)임을 환자에게 설명하고 처방을 결정한다. 뇌졸중 위험도(CHA₂DS₂-VASc 등) 평가 및 항응고 여부는 [심방세동](../225_/099_1-atrial-fibrillation.md) 챕터 참조; 새로 진단된 AF는 심박수 조절만으로 종결하지 않는다_
+> _✽혈역학적으로 안정된 AF 환자에서 β1-선택성 β-차단제로 심박수 조절 시작; β-차단제는 LVEF와 관계없이 사용할 수 있으나 심부전 상태·혈압·서맥 및 전도장애를 함께 고려한다. 목표 심박수는 증상에 따라 개별화하되 안정 시 대개 100\~110회/분 미만을 목표로 함. 다만 이는 주로 심부전이 없는 환자에 적용되는 목표이며, 심부전·tachycardia-induced cardiomyopathy·증상 지속 환자에게 일률 적용하지 않는다(2023 ACC/AHA/ACCP/HRS AF Guideline). 국내 허가사항상 이 약(콩코르정 2.5 ㎎)의 적응증은 좌심실 수축기능이 저하된 안정형 만성 심부전이며, AF 심박수 조절 목적의 사용은 허가 외 사용(off-label)임을 환자에게 설명하고 처방을 결정한다. 뇌졸중 위험도(CHA₂DS₂-VASc 등) 평가 및 항응고 여부는_ [_심방세동_](../225_/099_1-atrial-fibrillation.md) _챕터 참조; 새로 진단된 AF는 심박수 조절만으로 종결하지 않는다_
 
 **인데놀(Propranolol) 처방 시 주의**
 
