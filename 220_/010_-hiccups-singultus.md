@@ -36,22 +36,22 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 갑작스럽거나 심한 두통, 복시·구음장애·보행실조, 국소 신경학적 결손 또는 의식 변화 동반  `중추신경계 질환`
-* 흉통·호흡 곤란·발한 동반  `심혈관 응급 질환`
+* 갑작스럽거나 심한 두통, 복시·구음장애·보행실조, 국소 신경학적 결손 또는 의식 변화 동반 `중추신경계 질환`
+* 흉통·호흡 곤란·발한 동반 `심혈관 응급 질환`
 
-<mark style="color:$warning;">**당일 \~ 수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 48시간 이상 지속&#x20;
+* 48시간 이상 지속
   * 그 자체가 응급 경고징후는 아니나, 지속성 딸꾹질로서 기저 질환 배제를 위한 평가가 필요한 기준
-* 수면 중에도 지속하거나 수면을 심하게 방해하는 경우  `기질적 원인`
+* 수면 중에도 지속하거나 수면을 심하게 방해하는 경우 `기질적 원인`
 * 발열, 복통, 황달 동반
 * 지속적 구토, 경구 섭취 곤란, 탈수·쇠약 또는 흡인 위험
 
-<mark style="color:$info;">**외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 이미 적절한 원인 평가와 치료를 받았고 상위 위험징후가 없는 상태에서 1개월 이상 지속되는 난치성 딸꾹질 → 전문과 의뢰 및 구조적 원인 재평가  `원인 재평가` `전문과 의뢰`
+* 이미 적절한 원인 평가와 치료를 받았고 상위 위험징후가 없는 상태에서 1개월 이상 지속되는 난치성 딸꾹질 → 전문과 의뢰 및 구조적 원인 재평가 `원인 재평가` `전문과 의뢰`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -142,9 +142,9 @@ classDef yellow fill:#fff9c4,stroke:#ffe082
 class I,O,R,Z,B yellow
 ```
 
-<p align="center"><strong>딸꾹질 진단 및 치료 알고리즘</strong></p>
+<p align="center"><strong>딸꾹질 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재작성 (관련 문헌 : 딸꾹질 지속성/난치성 치료 체계적 문헌고찰 JPTCP 2024,</mark></em> <br><em><mark style="color:$info;">ESMO Clinical Practice Guidelines for orphan symptoms 2020,</mark></em><br> <em><mark style="color:$info;">Adam E. 등 baclofen 체계적 문헌고찰 2020, Steger M et al. Aliment Pharmacol Ther 2015  등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 딸꾹질 지속성/난치성 치료 체계적 문헌고찰 JPTCP 2024,</mark></em><br><em><mark style="color:$info;">ESMO Clinical Practice Guidelines for orphan symptoms 2020,</mark></em><br><em><mark style="color:$info;">Adam E. 등 baclofen 체계적 문헌고찰 2020, Steger M et al. Aliment Pharmacol Ther 2015 등)</mark></em></p>
 
 ***
 
@@ -192,7 +192,7 @@ class I,O,R,Z,B yellow
 
 #### <mark style="color:$primary;">선호 약제</mark>
 
-**Baclofen**&#x20;
+**Baclofen**
 
 * 5\~10 ㎎ tid <mark style="color:blue;">\[바크론]</mark>
 * 고령자·인지저하·신기능 저하 환자 : 5 ㎎ qd 또는 bid 등 저용량으로 시작하여 3\~5일 간격으로 점진적 증량
@@ -202,7 +202,7 @@ class I,O,R,Z,B yellow
   * 국내 경직 적응증의 통상 유지량(30\~80 ㎎/day)과 혼동하지 않음
 * 장기간 사용 후에는 갑작스러운 중단을 피하고 서서히 감량
 
-**Gabapentin**&#x20;
+**Gabapentin**
 
 * 300 ㎎ hs → 반응과 내약성에 따라 300\~400 ㎎ tid까지 증량 <mark style="color:blue;">\[뉴론틴]</mark>
 * 고령자에서는 더 낮은 용량으로 시작 가능
@@ -211,7 +211,7 @@ class I,O,R,Z,B yellow
 
 #### <mark style="color:$primary;">위장관 원인에서 고려</mark>
 
-**Metoclopramide**&#x20;
+**Metoclopramide**
 
 * 5\~10 ㎎ tid, 국내 허가 상한인 최대 30 ㎎/day를 넘지 않도록 함 <mark style="color:blue;">\[맥페란]</mark>
 * 딸꾹질에서는 원칙적으로 단기간(가능한 5일 이내) 사용
@@ -220,7 +220,7 @@ class I,O,R,Z,B yellow
 * 고령자에서는 EPS 및 섬망 위험이 높아 더욱 신중히 사용
 * 신기능 저하 시 용량 조절 필요
 
-**Domperidone**&#x20;
+**Domperidone**
 
 * baclofen, gabapentin, metoclopramide보다 딸꾹질에 대한 근거가 훨씬 부족하여 metoclopramide 사용이 어렵거나 금기인 경우에 한해 제한적으로 고려
 * 필요한 경우 10 ㎎ tid 이하, 최대 30 ㎎/day <mark style="color:blue;">\[모티리움 엠]</mark>
@@ -230,7 +230,7 @@ class I,O,R,Z,B yellow
 
 #### <mark style="color:$primary;">후순위 약제</mark>
 
-**Chlorpromazine**&#x20;
+**Chlorpromazine**
 
 * 미국 FDA 및 국내 허가사항에 딸꾹질 적응증이 포함된 유일한 약제
 * 국내 허가 용량은 비정신과 영역 기준 1일 30\~100 ㎎ 분할 투여이며, 미국에서는 25\~50 ㎎ tid\~qid(최대 200 ㎎/day)까지 보고되나 국내 일반 허가 용량을 초과할 수 있으므로 처방 시 상한에 유의 <mark style="color:blue;">\[클로르프로마진]</mark>
@@ -282,7 +282,7 @@ class I,O,R,Z,B yellow
 > **처방례 1.** _(선호 약제 - 신기능 정상, CNS 부작용 위험 낮은 경우)_
 >
 > ```
-> 바크론 5 ㎎/T 3T #3  → 3~5일 후 반응과 내약성을 보며 10 ㎎ tid까지 증량 가능
+> 바크론 5 ㎎/T 3T #3 → 3~5일 후 반응과 내약성을 보며 10 ㎎ tid까지 증량 가능
 > ```
 >
 > _✽ baclofen 단독 투여. 고령자·신기능 저하 환자에서는 더 낮은 용량으로 시작하며, 중증 CKD에서는 가능하면 회피를 고려_
@@ -339,9 +339,9 @@ class I,O,R,Z,B yellow
 >
 > * 약을 충분한 용량과 기간 사용했는데도 딸꾹질이 호전되지 않는 경우
 > * 심한 어지럼·실신, 걷기 힘들 정도의 보행 장애가 생긴 경우
-> * 손 떨림, 근육 뻣뻣함, 고열, 의식 변화 등이 함께 나타나는 경우 — 즉시 내원
-> * 갑작스러운 심한 두통, 시야 이상, 말이 어눌해짐, 팔다리 힘 빠짐이 동반되는 경우 — 즉시 내원
-> * 새로운 흉통이나 호흡곤란이 생긴 경우 — 즉시 내원
+> * 손 떨림, 근육 뻣뻣함, 고열, 의식 변화 등이 함께 나타나는 경우 - 즉시 내원
+> * 갑작스러운 심한 두통, 시야 이상, 말이 어눌해짐, 팔다리 힘 빠짐이 동반되는 경우 - 즉시 내원
+> * 새로운 흉통이나 호흡곤란이 생긴 경우 - 즉시 내원
 
 ***
 
