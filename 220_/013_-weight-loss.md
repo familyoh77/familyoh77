@@ -35,11 +35,11 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 심한 영양실조와 의식 변화·실신 또는 활력징후 불안정(저혈압, 심한 서맥/빈맥, 저체온)
 * 중증 저혈당, 중증 K·P·Mg 이상, 부정맥 또는 심부전·호흡부전
-* 심한 탈수 또는 음식·수분을 거의 섭취할 수 없는 상태&#x20;
+* 심한 탈수 또는 음식·수분을 거의 섭취할 수 없는 상태
 * 섭식장애 등 정신질환에 의한 진행성 체중 감소와 의학적 불안정, 자살 위험 또는 급성 정신과적 위험
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
@@ -47,7 +47,7 @@
 * 최근 1개월 내 평소 체중의 ≥5% 비의도적 감소 또는 최근 수주 내 ADL/IADL 저하·보행 불안정·반복 낙상 등 명확한 기능 저하
 * 저혈압·의식 변화·부정맥 등 즉각 이송 기준은 없으나 새로 확인된 저Na·저K·저P·저Mg·고Ca 또는 저혈당 등의 대사 이상
 
-<mark style="color:$info;">**외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 단백질·에너지 영양실조
 
@@ -79,7 +79,7 @@
   * 대장암 평가가 필요한 경우 일반적인 정성 대변잠혈검사보다 정량적 FIT를 사용하고 연령·철결핍빈혈·복통·직장출혈·배변 습관 변화 및 국내 진료 기준에 따라 해석
 * 영상 검사 : 흉부 X선
   * 복부 초음파 : 증상·진찰 소견 또는 복부 질환 의심 시 고려
-  * 위내시경, UGI : 연하곤란, 철결핍빈혈, 상복부 통증·조기 포만감 등 증상이 있는 경우에 한해 시행&#x20;
+  * 위내시경, UGI : 연하곤란, 철결핍빈혈, 상복부 통증·조기 포만감 등 증상이 있는 경우에 한해 시행
     * 일상적 1단계 검사로는 권장하지 않음
   * 호흡곤란, orthopnea, 부종, 경정맥압 상승, 심질환 병력 등 심부전 의심 소견이 있으면 ECG, BNP/NT-proBNP ± echocardiography를 선택적으로 시행
 * 1단계 검사에서 특이점이 없는 경우 → 아래 안정형 vs 진행형 기준으로 관찰 또는 확장 검사 결정
@@ -142,6 +142,7 @@
   * 종아리 둘레는 위험 선별, 악력은 근력 평가이며 어느 하나만으로 근감소증을 확진하지 않음
   * AWGS 2025에서는 **낮은 근육량과 낮은 근력이 함께 있을 때 근감소증으로 진단**하며, 신체수행능력은 진단 필수 기준이 아니라 결과·기능 평가에 활용
 * MNA-SF : 고령 환자의 영양 상태 선별 도구(총 14점). **12–14점 정상 영양 상태, 8–11점 영양불량 위험, 0–7점 영양불량**으로 해석하며, 선별 결과가 11점 이하이면 종합 영양평가를 시행하거나 의뢰
+  * MNA-SF의 전체 문항과 시행 방법은 원문 서식을 그대로 사용해야 하므로, 본문에서는 문항표를 재현하지 않고 **[MNA® 공식 서식(Nestlé, 건강의료인용)](https://www.mna-elderly.com/mna-forms)**을 참조한다
 
 {% hint style="danger" %}
 **체중 감소에서는 근감소증 동반 평가가 중요** : 체중 감소에 근감소증(sarcopenia)이 동반되면 불량한 예후와 연관될 수 있음. 체중 측정과 함께 종아리 둘레·악력으로 위험과 근력을 선별하고, 양성이면 BIA·DXA 등 근육량 평가를 고려
@@ -194,7 +195,7 @@ class B,W,E,G,I,L,O yellow
 
 <p align="center"><strong>체중 감소 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재작성 (참고 문헌 : Gaddey HL &#x26; Holder KK. Am Fam Physician 2021;104(1):34-40;</mark></em><br><em><mark style="color:$info;">NICE NG12. Suspected cancer: recognition and referral. Updated 15 April 2026. 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Gaddey HL &#x26; Holder KK. Am Fam Physician 2021;104(1):34-40;</mark></em><br><em><mark style="color:$info;">NICE NG12. Suspected cancer: recognition and referral. Updated 15 April 2026. 등)</mark></em></p>
 
 ***
 
@@ -259,7 +260,7 @@ class B,W,E,G,I,L,O yellow
 
 * 효과 : 식욕 ↑, 체지방 ↑
   * lean mass 증가 효과는 제한적. 생존 개선 효과는 입증되지 않음
-* 용량 : 국내 40 ㎎/mL 현탁액은 허가 용법·용량이 800 ㎎/d(20 mL)이며, 임상시험에서 400\~800 ㎎/d가 사용됨 <mark style="color:blue;">\[메게이스]</mark>
+* 용량 : 국내 40 ㎎/㎖ 현탁액은 허가 용법·용량이 800 ㎎/d(20 ㎖)이며, 임상시험에서 400\~800 ㎎/d가 사용됨 <mark style="color:blue;">\[메게이스]</mark>
 * 사용 기준 : 진행암·AIDS 등 제한된 적응증에서 증상 완화를 목적으로 사용하고 치료 목표·평가 시점·중단 기준을 사전에 설정
 * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=0373) : 재발성·전이성 암 환자 대상으로 식욕부진, 악액질, 체중감소에 대하여 인정
 * 고령자의 일반적인 체중 감소·frailty에는 사용하지 않음 : 체중 증가 효과는 제한적인 반면 혈전색전증·체액저류 및 사망 위험이 증가할 수 있어 AGS Beers Criteria에서 회피 권고
@@ -290,7 +291,7 @@ class B,W,E,G,I,L,O yellow
 
 #### <mark style="color:$primary;">2차 선택 (제한적)</mark>
 
-* cyproheptadine 함유 복합제 :  <mark style="color:blue;">\[트레스탄캡슐]</mark> - cyproheptadine orotate 1.5 ㎎ + DL-carnitine HCl 150 ㎎ + L-lysine HCl 150 ㎎ + cyanocobalamin 1 ㎎/캡슐 (비급여)
+* cyproheptadine 함유 복합제 : <mark style="color:blue;">\[트레스탄캡슐]</mark> - cyproheptadine orotate 1.5 ㎎ + DL-carnitine HCl 150 ㎎ + L-lysine HCl 150 ㎎ + cyanocobalamin 1 ㎎/캡슐 (비급여)
   * 일부 환자에서 식욕 촉진 효과
   * cyproheptadine : 강한 항콜린성 1세대 항히스타민제로 고령자에서는 원칙적으로 피하고, 특별한 사유가 있을 때만 제한적으로 고려 (Beers Criteria 해당 성분); confusion, 소변 저류 위험
   * 비고령 성인에서도 근거가 제한적이므로 routine 사용은 피하고, 다른 선택지가 없을 때 위험·이득을 개별적으로 검토
@@ -375,7 +376,7 @@ class B,W,E,G,I,L,O yellow
 #### <mark style="color:$primary;">의도하지 않은 체중 감소란 무엇인가요?</mark>
 
 * 식사를 줄이거나 운동을 늘리지 않았는데도 체중이 줄어드는 현상입니다
-* 6개월 이내에 평소 체중의 5% 이상(예: 60 kg인 분이 3 kg 이상) 감소하면 임상적으로 의미 있는 체중 감소로 간주합니다
+* 6개월 이내에 평소 체중의 5% 이상(예: 60 ㎏인 분이 3 ㎏ 이상) 감소하면 임상적으로 의미 있는 체중 감소로 간주합니다
 * 원인은 갑상선 기능 항진증, 당뇨병, 소화기 질환, 우울증, 악성 종양 등 다양합니다
 
 #### <mark style="color:$primary;">체중 유지를 위해 이렇게 하세요</mark>
@@ -399,19 +400,3 @@ class B,W,E,G,I,L,O yellow
 * 의식이 흐려지거나 실신한 경우
 * 물도 마시기 어려울 정도의 심한 탈수 또는 반복 구토가 있는 경우
 * 갑작스러운 흉통·호흡곤란, 많은 양의 출혈, 심한 쇠약이 동반되는 경우
-
-***
-
-### <mark style="color:orange;">간이영양평가 단축형 (MNA-SF)</mark>
-
-고령 환자(≥65세)의 영양 상태를 신속하게 **선별**하기 위한 도구입니다. 지난 3개월간의 변화를 기준으로 점수를 합산하며, 선별 양성이면 종합 영양평가를 통해 확인합니다.
-
-MNA-SF의 전체 문항과 시행 방법은 원문 서식을 그대로 사용해야 하므로, 본문에서는 문항표를 재현하지 않고 **[MNA® 공식 서식(Nestlé, 건강의료인용)](https://www.mna-elderly.com/mna-forms)**을 참조한다.
-
-{% hint style="info" %}
-**판정 기준 (총점 14점)**
-
-* **12–14점** : 정상 영양 상태 (Normal nutritional status)
-* **8–11점** : 영양불량 위험 (At risk of malnutrition) → 종합 영양평가 및 영양 중재 고려
-* **0–7점** : 영양불량 (Malnourished) → 종합 영양평가 및 적극적인 영양 중재 필요
-{% endhint %}
