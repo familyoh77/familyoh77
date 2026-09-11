@@ -82,7 +82,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 의식 변화
 * 쇼크 - 저혈압·빈맥; 구토·설사 등 원인 불문
@@ -107,7 +107,7 @@
 * 최근 12개월 이내 말라리아 유행 지역 여행 후 발열 - 당일 긴급 평가 및 malaria 검사(후도말·박도말 ± 신속항원검사); _P. falciparum_ 의심, 전신 상태 불량 또는 중증 소견 시 즉시 응급실 평가
 * 진드기 노출·야외 활동 후 발열 - 당일 평가; 저혈압, 의식 변화, 출혈, 호흡곤란 등 중증 소견이 있으면 즉시 응급 평가
 
-<mark style="color:$info;">**외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 예상 경과보다 호전 없이 지속 또는 악화되는 열, 해열 후 다시 발생한 열, 새로운 국소 증상이 동반되거나 경미한 수분 섭취 저하·소변량 감소가 있는 경우. 수분 섭취나 소변량 감소가 현저하거나 진행하면 당일 평가하고, 의식 변화·심한 호흡 곤란 등 불안정 소견은 위 즉각 응급 조치 항목 참조
 * ≥3주 지속되며 원인이 밝혀지지 않는 경우 → 불명열(FUO)로 재평가
@@ -139,7 +139,9 @@ graph TD
 
 ```
 
-<p align="center"><em><mark style="color:$info;">저자 재작성 (관련 문헌 : NICE NG143, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
+<p align="center"><strong>발열의 초기 평가 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG143, Canadian Paediatric Society 영아 발열 지침, SCCM/IDSA 2023, Surviving Sepsis Campaign 2026, Wright et al., Clin Infect Dis 2026 등)</mark></em></p>
 
 ***
 
@@ -273,7 +275,7 @@ graph TD
     class J,K orange
 ```
 
-<p align="center"><em><mark style="color:$info;">저자 재작성 (관련 문헌 : Surviving Sepsis Campaign 2026,</mark></em> <br><em><mark style="color:$info;">SCCM Heat Stroke Guideline 2025, SCCM/IDSA 2023 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Surviving Sepsis Campaign 2026,</mark></em><br><em><mark style="color:$info;">SCCM Heat Stroke Guideline 2025, SCCM/IDSA 2023 등)</mark></em></p>
 
 ***
 
@@ -334,6 +336,33 @@ graph TD
 
 ***
 
+## <mark style="color:purple;">처방례</mark>
+
+> **처방례 1. 성인 감염성 발열 - acetaminophen 서방정**
+>
+> ```
+> 타이레놀8시간이알서방정 650 ㎎/T 2T q8h (최대 6T/d)
+> ※ 반드시 통째로 삼키고 씹거나 쪼개지 말 것; 효과가 늦게 느껴져도 추가 복용하지 않음
+> ```
+>
+> _✽ 목표는 해열 자체가 아니라 불편감(distress) 완화; 다른 acetaminophen 함유 제품과 중복 시 1일 총량이 4 g을 넘지 않도록 확인. 간질환·만성 과음·영양불량·저체중 등이 있으면 3 g/d 이하로 더 보수적으로 사용_
+>
+> **처방례 2. 소아 발열 (체중 20 ㎏ 기준) - acetaminophen 또는 ibuprofen**
+>
+> ```
+> 어린이타이레놀현탁액 32 ㎎/㎖ 8 ㎖ (256 ㎎, 약 12.8 ㎎/㎏) q4~6h, 1일 최대 4회
+> 또는
+> 부루펜시럽 20 ㎎/㎖ 7 ㎖ (140 ㎎, 약 7 ㎎/㎏) tid
+> ```
+>
+> _✽ 두 약 중 하나를 선택하여 사용하며, 동시 투여는 하지 않음; 한 약제로 불편감이 충분히 완화되지 않을 때만 다른 약제로 변경을 고려하고, routine 교대 투여는 권장하지 않음_
+>
+> _✽ acetaminophen 10\~15 ㎎/㎏ q4\~6h(1일 최대 5회, 75 ㎎/㎏/d), ibuprofen 5\~10 ㎎/㎏ q6\~8h(최대 40 ㎎/㎏/d) 범위 내에서 제품 농도·체중에 맞게 조정; 탈수·섭취 저하 또는 신장질환이 있으면 ibuprofen은 급성 신손상 위험에 주의_
+>
+> _✽ 뎅기열이 의심되거나 배제되지 않은 여행 후 발열에는 출혈 위험 때문에 ibuprofen 대신 acetaminophen을 우선 사용_
+
+***
+
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **아세트아미노펜 (타이레놀)**
@@ -360,7 +389,7 @@ graph TD
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **열이 날 때 당황하지 마세요 - 올바른 대처법을 알려드립니다**
