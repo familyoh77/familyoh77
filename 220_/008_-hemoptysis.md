@@ -11,7 +11,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 기도 폐쇄(asphyxia) 위험, 가스교환을 위협하거나 혈역학적 불안정을 초래하는, 생명을 위협하는 객혈 (출혈량 무관)
 * 빠른 속도의 다량 출혈 (＞150 ㎖/24h 또는 약 ＞100 ㎖/h - 통일된 기준은 없음)
@@ -29,7 +29,7 @@
 * 폐동맥류/가성동맥류(예: 결핵성 Rasmussen aneurysm), 폐동정맥기형(PAVM), aspergilloma 또는 병변의 폐동맥 침범 등 고위험 혈관성 원인 의심
 * 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡 곤란 `심부전`
 
-<mark style="color:$info;">**외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 체중 감소, 피로, malaise
 * 과도한 흡연력
@@ -175,7 +175,7 @@ graph TD
 
 <table><thead><tr><th width="80">위험도</th><th>기준</th><th>처치</th></tr></thead><tbody><tr><td><strong>고위험</strong></td><td>life-threatening hemoptysis, 기도 위협, 호흡·혈역학적 불안정, 활동성 출혈 지속</td><td>즉시 응급실 의뢰, 기도 확보; CTA/기관지내시경 및 BAE 가능 기관으로 전원</td></tr><tr><td><strong>중위험</strong></td><td>암·결핵 의심, 반복 객혈, 흉부 X선 이상, 항응고제 복용 + 지속·반복 출혈 또는 Hb 감소</td><td>수일 내 전문과 의뢰 및 CT 등 추가 평가</td></tr><tr><td><strong>저위험</strong></td><td>젊은 비흡연자, 단발성 극소량, 명확한 URI 상황, 위험 인자 없음</td><td>제한적 평가와 외래 경과 관찰; 지속·반복 시 영상검사</td></tr></tbody></table>
 
-_<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemoptysis (2020), Society of Chest Imaging and Interventions Consensus Guidelines (2023), ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants (2020), FDA Safety Communication on Andexxa (2025) 참조.</mark>_
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria® Hemoptysis 2020,</mark></em> <br><em><mark style="color:$info;">Society of Chest Imaging and Interventions Consensus Guidelines 2023,</mark></em> <br><em><mark style="color:$info;">ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants 2020, FDA Safety Communication on Andexxa 2025 등)</mark></em></p>
 
 #### <mark style="color:$primary;">전원 기준</mark>
 
@@ -216,8 +216,8 @@ _<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemopt
 > **처방례 1. 소량 객혈 - 지역사회획득폐렴(CAP)이 임상적으로 의심되는 경우**
 >
 > ```
-> Amoxicillin/Clavulanate 625 mg 1T tid × 7일 (CAP 치료; 중증도·기저질환에 따라 항생제 선택 조정)
-> Tranexamic acid 500 mg 1T tid × 3~5일 (지혈 보조)
+> Amoxicillin/Clavulanate 625 ㎎ 1T tid × 7일 (CAP 치료; 중증도·기저질환에 따라 항생제 선택 조정)
+> Tranexamic acid 500 ㎎ 1T tid × 3~5일 (지혈 보조)
 > ```
 >
 > _✽ 객혈 자체는 항생제 적응증이 아니며, 세균성 감염이 임상적으로 확인된 경우에 한해 해당 질환의 표준 처방을 따름; 단순 급성 기관지염에서는 일률적인 항생제 투여를 권고하지 않음. 기관지확장증의 감염성 악화가 의심되는 경우 가능하면 항생제 투여 전 객담 배양검사를 시행하고, 이전 배양 결과·지역 내성 양상·임상적 중증도를 고려하여 항생제를 선택(중증 환자에서는 배양 결과를 기다리느라 치료를 지연하지 않음); Pseudomonas 과거 배양력이 있으면 해당 감수성 결과에 따른 항녹농균 항생제 고려_
@@ -227,14 +227,14 @@ _<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemopt
 > **처방례 2. 소량 객혈 - 기침 억제 병용**
 >
 > ```
-> Tranexamic acid 500 mg 1T tid × 3~5일
-> Codeine phosphate 20 mg 1T bid~tid
-> 또는 Dextromethorphan 15 mg 1T tid
+> Tranexamic acid 500 ㎎ 1T tid × 3~5일
+> Codeine phosphate 20 ㎎ 1T bid~tid
+> 또는 Dextromethorphan 15 ㎎ 1T tid
 > ```
 >
 > _✽ Tranexamic acid는 활동성 혈전색전증에 금기이며, DVT·PE 병력이 있으면 신중 투여_
 >
-> _✽ 진해제는 소량 객혈에서 객담 배출이 원활함을 확인한 후 단기·제한적으로 사용; 생명을 위협하거나 다량의 객혈 시에는 원칙적으로 사용하지 않음(기침 억제 → 기도 내 혈액 저류 → 질식 위험), productive cough의 완전 억제는 금지. Codeine 함유 제제는 국내 제품별 마약류/한외마약 분류 및 처방·관리 요건을 처방 전 확인 (☞ [진해제](../223_/060_-common-cold.md#antitussive))_
+> _✽ 진해제는 소량 객혈에서 객담 배출이 원활함을 확인한 후 단기·제한적으로 사용; 생명을 위협하거나 다량의 객혈 시에는 원칙적으로 사용하지 않음(기침 억제 → 기도 내 혈액 저류 → 질식 위험), productive cough의 완전 억제는 금지. Codeine 함유 제제는 국내 제품별 마약류/한외마약 분류 및 처방·관리 요건을 처방 전 확인 (☞_ [_진해제_](../223_/060_-common-cold.md#antitussive)_)_
 >
 > **처방례 3. 항응고제 복용 중 객혈**
 >
@@ -263,7 +263,7 @@ _<mark style="color:$info;">저자 편집. ACR Appropriateness Criteria® Hemopt
 > **처방례 4. Tranexamic acid 흡입 (nebulizer)**
 >
 > ```
-> Tranexamic acid 500 mg/5 mL (주사용 제제 원액) nebulizer 흡입 q8h
+> Tranexamic acid 500 ㎎/5 ㎖ (주사용 제제 원액) nebulizer 흡입 q8h
 > 투여 기간은 기관 protocol에 따름
 >   ※ 희석 여부(NS 혼합 등)는 제품 농도 및 기관별 protocol에 따름
 > ```

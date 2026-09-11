@@ -25,7 +25,7 @@
 
 * SpO₂는 절대값 단독보다 평소 기저치 대비 저하, 측정 신뢰도(말초 관류·움직임·매니큐어 등), 호흡노력·임상상과의 일치 여부를 함께 고려하여 판단함
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 쇼크 소견 : SBP ＜90 ㎜Hg 또는 말초 저관류·의식 변화를 동반하는 저혈압(DBP 단독 저하만으로는 판단하지 않음)
 * 청색증
@@ -48,7 +48,7 @@
 * ≥65세에서 급성 발생 + 전신 쇠약·의식 변화 동반
 * 활동 저하가 뚜렷하고 빠르게 진행하는 경우
 
-<mark style="color:$info;">**외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 설명할 수 없는 체중 감소
 * 치료에도 호전 없거나 원인 불명의 만성 호흡곤란
@@ -270,7 +270,7 @@ class B,D,G yellow
 
 <p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재작성 (관련 문헌 ESC 2021/2026 Heart Failure Guideline; BTS Emergency Oxygen Guideline (2017); GOLD/GINA 2026 Exacerbation Management; 2026 AHA/ACC Acute PE Guideline 등; NT-proBNP 절단치는 ESC 2021 기준 유지)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (관련 문헌 : ESC 2021/2026 Heart Failure Guideline; BTS Emergency Oxygen Guideline (2017); GOLD/GINA 2026 Exacerbation Management; 2026 AHA/ACC Acute PE Guideline 등; NT-proBNP 절단치는 ESC 2021 기준 유지)</mark></em></p>
 
 #### <mark style="color:$primary;">**1차 진료에서 흔한 진단 오류**</mark>
 
@@ -348,8 +348,8 @@ class B,D,G yellow
 > **처방례 2. 천식/COPD 급성 악화**
 >
 > ```
-> 벤토린 에보할러(MDI) 100 mcg/puff 2~4 puff(spacer 사용) 필요시 반복
-> 아트로벤트 에보할러(MDI) 20 mcg/puff 2 puff 살부타몰과 병용(중증 천식 악화 또는 COPD 악화 시)
+> 벤토린 에보할러(MDI) 100 ㎍/puff 2~4 puff(spacer 사용) 필요시 반복
+> 아트로벤트 에보할러(MDI) 20 ㎍/puff 2 puff 살부타몰과 병용(중증 천식 악화 또는 COPD 악화 시)
 > ```
 >
 > _✽기관지 확장제에 반응이 없거나 저산소혈증이 동반되면 즉시 재평가; steroid 병용 여부 및 상세 반복 간격·용량은_ [_천식_](../223_/071_-asthma.md)_/_[_COPD_](../223_/072_-copd.md) _챕터 참조; 네뷸라이저가 필요한 중증 상황이라면 해당 제형·용량으로 대체_
