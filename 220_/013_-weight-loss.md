@@ -156,6 +156,35 @@
 ***
 
 ```mermaid
+graph TD
+    A([의도하지 않은 체중 감소<br/>6개월 내 ≥5%]) --> B[Red Flags 확인]
+    B -->|즉각 조치/평가 필요| C[응급 조치/의뢰]
+    B -->|해당 없음| W["초기 문진, 고위험 기준 해당?<br/>≥60세 원인 불명 >5%/6개월<br/>또는 원인 불명 식욕부진"]
+    W -->|해당| X["추가 증상·징후 평가<br/>긴급 검사 또는 <br/>암 의심 경로 고려"]
+    W -->|해당 없음| E[식욕 상태]
+    E -->|유지·증가형<br/>먹어도 빠진다| F["<u>당뇨·갑상선항진증<br/>·흡수장애 등</u><br/>glucose·HbA1c·TSH<br/>증상 기반 선택검사"]
+    F --> K
+    E -->|저하형<br/>못 먹어서 빠진다| G[약물 원인?]
+    G -->|해당 있음| H["적응증·혈당·영양상태 재평가<br/>약물 감량·교체·중단 고려"]
+    G -->|해당 없음| I[정신·사회적 문제?]
+    I -->|우울·고립·경제 문제| J[원인별 치료]
+    I -->|해당 없음| K["<u>1단계 기본 평가</u><br/>CBC·LFT·RFT/전해질·TSH·glucose·HbA1c<br/>Ca·CRP·albumin·urinalysis·CXR<br/>단서에 따라 <br/>ESR·ferritin·LDH·정량 FIT"]
+    K --> L[결과]
+    L -->|원인 확인| M[원인별 치료]
+    L -->|정상| N["<u>근감소증 위험·근력 선별</u><br/>종아리둘레 남&lt;34/여&lt;33 cm<br/>악력 남&lt;28/여&lt;18 kg"]
+    N -->|위험/근력저하| R["가능하면 BIA·DXA로 <br/>근육량 평가<br/>개별화 영양 + 저항 운동"]
+    R --> O[경과 재평가]
+    N -->|선별 음성| O
+    O -->|안정형<br/>완만·경증·경고증상 없음| P["<u>1~3개월 내 우선 재평가</u><br/>이후 경과에 따라 <br/>3~6개월 관찰<br/>매주 체중 측정"]
+    O -->|진행형·고위험<br/>지속감소·기능저하| Q["<u>2단계 확장 검사</u><br/>증상 기반 CT·내시경<br/>SPEP/면역고정<br/>·free light chain 등"]
+classDef green fill:#66bb6a,stroke:#388e3c,color:#fff,stroke-width:2px
+class H,J,M,R green
+    style C fill:#f44336,stroke:#c62828,color:#fff,stroke-width:2px
+    style X fill:#ffa726,stroke:#e65100,color:#fff,stroke-width:2px
+    style P fill:#42a5f5,stroke:#1565c0,color:#fff,stroke-width:2px
+    style Q fill:#ffa726,stroke:#e65100,color:#fff,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,W,E,G,I,L,O yellow
 ```
 
 <p align="center"><strong>체중 감소 진단 및 치료 알고리듬</strong></p>
