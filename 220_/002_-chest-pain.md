@@ -75,7 +75,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 쇼크(저혈압·빈맥) 또는 정신 상태 변화 - 순환 붕괴 시사 `ACS` `PE` `대동맥 박리`
 * 심한 호흡 곤란, 빠른 호흡 `ACS` `PE` `기흉`
@@ -101,7 +101,7 @@
 * 흉통 + 새로 발생한 수축기 잡음 + 급성 호흡곤란/폐부종 또는 저혈압 - 유두근 기능부전/파열에 의한 급성 승모판 역류 시사 `급성 MR` `유두근 파열`
 * 최근 평가 후에도 원인이 규명되지 않은 흉통이 반복·악화되거나 양상이 변한 경우 (미진단 ACS/AAS 등 생명위협 원인 재평가)
 
-<mark style="color:$info;">**외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 걷거나 계단 오를 때 흉통 악화 `안정형 협심증`
 * 혈역학적으로 안정적이고 우연히 발견된 심잡음 (급성 MR 시사 소견 없음) `판막 기능이상`
@@ -192,7 +192,7 @@ flowchart TD
 
 _\*검사 선택은 연령, 운동 가능 여부, 안정시 ECG 판독 가능성, 신기능, 조영제 금기, 이전 검사 및 기관 전문성·가용성에 따라 결정. 일반적으로 65세 미만에서는 CCTA를, 65세 이상에서는 부하검사를 선호할 수 있으나 절대 기준은 아님._
 
-_✽ 위 표는 CAD 병력이 없는 환자에서 증상 중증도/위험도를 축으로 한 것임 (CAD 기왕력 유무를 축으로 한 분류는 협심증 챕터의_ [_검사전략_](../225_/097_-angina-pectoris.md#ccta-or-stress-test) _표 참조 - 경로·앵커는 실제 저장소 구조 확인 후 필요시 수정)_
+_✽ 위 표는 CAD 병력이 없는 환자에서 증상 중증도/위험도를 축으로 한 것임 (CAD 기왕력 유무를 축으로 한 분류는 협심증 챕터의_ [_검사전략_](../225_/097_-angina-pectoris.md#ccta-or-stress-test) _표 참조)_
 
 _✽ CCTA와 부하검사는 모두 적절한 초기 검사 선택지가 될 수 있으며, CCTA를 일률적인 1차 검사로 고정하지 않음._
 
@@ -329,11 +329,11 @@ _\* ① SCAD(자연 관상동맥 박리; 특히 젊은 여성, 임신/산후 시
 
 #### <mark style="color:$primary;">Pericarditis</mark>
 
-<table><thead><tr><th width="106.05267333984375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>variable: 수 시간–수일; 급성·재발성·만성으로 분류</td></tr><tr><td><strong>증상</strong></td><td>pleuritic, sharp; 눕거나 심호흡·기침 시 악화</td></tr><tr><td><strong>부위</strong></td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge)</td></tr><tr><td><strong>동반 특징</strong></td><td>• 앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br>• 진단(2015 ESC 심낭질환 가이드라인 기준) : 흉통·friction rub·광범위 ST 상승/PR 하강·새로운 심낭 삼출(new pericardial effusion) 중 ≥2개 - 2025 ESC는 심근염·심막염을 통합한 IMPS(Inflammatory Myopericardial Syndrome) 가이드라인을 새로 발표했으며 CMR 소견을 포함한 진단체계로 개편되었으므로, 상세 진단은 별도 확인 필요<br>• Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>• 주요 고위험 인자: 발열 ＞38°C, subacute onset, 대량 심낭삼출, 심낭압전, NSAIDs/항염증 치료에 반응하지 않음<br>• 추가 위험 인자: 면역억제 상태, 외상, 경구 항응고제 사용, myocarditis 동반</td></tr></tbody></table>
+<table><thead><tr><th width="106.05267333984375">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>variable: 수 시간–수일; 급성·재발성·만성으로 분류</td></tr><tr><td><strong>증상</strong></td><td>pleuritic, sharp; 눕거나 심호흡·기침 시 악화</td></tr><tr><td><strong>부위</strong></td><td>retrosternal 또는 cardiac apex 방향; 방사통 (Lt shoulder, trapezius ridge)</td></tr><tr><td><strong>동반 특징</strong></td><td>• 앉거나 앞으로 기울이면 호전; pericardial friction rub (≤33%)<br>• 진단(2025 ESC IMPS 가이드라인 Table 4 기준) : 임상 소견(흉통 등) + 추가 기준 항목 수로 판정 - **Definite** : 추가 기준 &gt;1개 충족; **Possible** : 추가 기준 1개 충족; **Unlikely** : 임상 소견만 있고 추가 기준 없음. 추가 기준 4개 항목 - ① 임상 : pericardial rub, ② ECG : PR 하강 또는 광범위 ST 상승, ③ 검사실 : CRP 상승, ④ 영상 : 새로운/악화된 심낭 삼출 또는 CMR상 심낭 부종·지연조영증강(LGE)<br>• Troponin 상승 시 myopericarditis 의심; CRP 상승은 질환 활성도 지표<br>• 주요 고위험 인자: 발열 ＞38°C, subacute onset, 대량 심낭삼출, 심낭압전, NSAIDs/항염증 치료에 반응하지 않음<br>• 추가 위험 인자: 면역억제 상태, 외상, 경구 항응고제 사용, myocarditis 동반</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Acute Aortic Syndrome (AAS)</mark>
 
-<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 대동맥박동 의심 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0–1점 + D-dimer ＜500 ng/mL → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline)</td></tr></tbody></table>
+<table><thead><tr><th width="120.0526123046875">항목</th><th>내용</th></tr></thead><tbody><tr><td><strong>시작 / 기간</strong></td><td>통증이 갑자기 시작되어 줄어들지 않음; 최대 강도 즉시 도달</td></tr><tr><td><strong>증상</strong></td><td>찢어지는, 칼로 찌르는 느낌</td></tr><tr><td><strong>부위</strong></td><td>ant chest; 종종 방사통 (back, 양 견골 사이)</td></tr><tr><td><strong>동반 특징</strong></td><td>• HTN, 기저 결합조직 질환; 대동맥박동 의심 잡음; 말초 맥박 소실·비대칭<br>• 사지 맥박 비대칭: 환자의 약 30% (Type A ＞ B); 심한 통증 + 급성 발생 + 맥박 차이 + 흉부 X선 종격동 확장 → 박리 가능성 ＞80%<br>• 실신 빈도 ＞10%; 대동맥판 역류 40~75% (Type A)<br>• 위 신체소견 및 흉부 X선 소견은 민감도가 제한적이므로, 정상이라고 AAS를 배제할 수 없음<br>• AAS = 대동맥 박리(AD) + 벽내혈종(IMH) + 침투성 동맥경화 궤양(PAU)<br>• 진단 전략 : ADD-RS 0–1점 + D-dimer ＜500 ng/㎖ → 저위험 환자에서 AAS 배제를 보조할 수 있음 (단, ADD-RS ≥2 또는 고위험 임상 소견에서는 D-dimer로 CT 시행을 지연하지 않고 즉시 CT); 확진 영상은 CTA chest/abdomen/pelvis를 기본으로 하되 병변 범위 및 기관 프로토콜에 따라 결정 (CT/MRI/TEE 모두 정확한 진단 영상법으로 인정됨, 2022 ACC/AHA Aortic Disease Guideline)</td></tr></tbody></table>
 
 _✽ Stanford 분류 : Type A = 상행대동맥 침범(응급 수술 대상), Type B = 상행대동맥 침범 없음(좌쇄골하동맥 원위부). 합병증 없는 급성 Type B는 초기 약물치료(혈압·심박수 조절)가 원칙이나, 파열·장기 관류장애(malperfusion)·박리 진행·대동맥 급속 확장·조절되지 않는 통증 또는 고혈압이 동반되면 긴급 중재술(TEVAR 등) 대상 (2022 ACC/AHA Aortic Disease Guideline)_
 
@@ -545,9 +545,9 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 >
 > _✽ 이 처방은 외래 귀가 처방이 아니라 응급실 이송 전 초기 처치임 - ACS 의심 환자는 처방 후 귀가시키는 것이 아니라 즉시 이송 대상임_
 >
-> _✽ Aspirin : 아스피린/살리실산제 중증 과민반응, AERD(아스피린-악화 호흡기질환) 병력, 활동성 중대 출혈 시 금기(단순 천식·비강폴립 병력만으로는 절대금기 아님); 바이엘아스피린정 500 ㎎의 이 용도 사용은 국내 허가사항 외(off-label) 사용에 해당함_
+> _✽ Aspirin·Nitroglycerin의 금기 사유, off-label 근거, 국내 허가사항과 국제 지침의 차이는 ☞ 위 `ACS 의심 시 처치` 참조_
 >
-> _✽ Nitroglycerin : 국내 첨부문서상 급성 심근경색이 금기로 기재되어 있어 협심증 기왕 처방자의 자가 사용과 의료진 감독하 응급 사용을 구분함; 수축기 혈압 ＜90 ㎜Hg, 최근 PDE-5 억제제 복용(실데나필·바르데나필 24시간 이내, 타다라필 48시간 이내), 우심실 경색 의심 시 금기_
+> _✽ Aspirin 용량 250 ㎎(0.5T)은 국제 지침 권장 범위인 162\~325 ㎎ 안에 들지만 정확히 일치하지는 않음 - 국내에는 이 범위에 맞는 비장용 단일 제제가 없어, 실제 비치·처방 가능한 바이엘아스피린정 500 ㎎(비장용)을 분할하는 방식을 채택함; 0.5T가 어려우면 1T(500 ㎎)도 무방하며, 정확한 절반 분할이 되지 않더라도 범위를 벗어나는 것이 지연 투여보다 더 큰 문제이므로 용량 정밀도에 얽매이지 않음_
 
 > **처방례 2. 응급 질환을 배제한 GERD 의심 흉통 (전형적 가슴쓰림·산 역류 동반 시)**
 >
@@ -560,7 +560,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 > **처방례 3. 응급 질환을 배제한 근골격성 흉통**
 >
 > ```
-> 타이레놀 이알 650 ㎎/T q6~8h prn
+> 타이레놀 이알 650 ㎎/T q6~8h 필요시
 > ```
 >
 > _✽ 흉벽 압통으로 통증이 재현되고 다른 red flags가 없을 때 사용; NSAID 병용 시 위장관·신장·심혈관 위험을 고려해 개별 판단. 압통 재현은 ACS 가능성을 낮추지만 완전히 배제하지는 못하므로, 통증 양상이 변하거나 지속되면 재평가 필요_
