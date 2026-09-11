@@ -207,7 +207,7 @@ flowchart TD
     class B,D,I,M,O yellow
 ```
 
-<p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (관련 문헌: ACR Appropriateness Criteria 등)</mark></em></p>
+<p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria 등)</mark></em></p>
 
 ***
 
@@ -265,7 +265,7 @@ flowchart TD
     class B,G,H,J,O,S,C yellow
 ```
 
-<p align="center"><strong>하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (관련 문헌: ACR Appropriateness Criteria 등)</mark></em></p>
+<p align="center"><strong>하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria 등)</mark></em></p>
 
 ***
 

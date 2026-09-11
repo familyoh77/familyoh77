@@ -294,7 +294,7 @@ graph TD
     style Maintain fill:#e1f5fe,stroke:#01579b
 ```
 
-<p align="center"><strong>만성기침의 진단과 치료 - treatable-traits 접근</strong><br><em><mark style="color:$info;">저자 재구성 (관련 문헌 : BTS Clinical Statement on chronic cough in adults. 2023;</mark></em><br><em><mark style="color:$info;">WAO-ARIA consensus on chronic cough. 2025)</mark></em></p>
+<p align="center"><strong>만성기침의 진단과 치료 - treatable-traits 접근</strong><br><em><mark style="color:$info;">저자 재구성 (참n 문헌 : BTS Clinical Statement on chronic cough in adults. 2023;</mark></em><br><em><mark style="color:$info;">WAO-ARIA consensus on chronic cough. 2025)</mark></em></p>
 
 ***
 

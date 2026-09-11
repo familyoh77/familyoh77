@@ -270,7 +270,7 @@ class B,D,G yellow
 
 <p align="center"><strong>호흡곤란 진단·처치 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (관련 문헌 : ESC 2021/2026 Heart Failure Guideline; BTS Emergency Oxygen Guideline (2017); GOLD/GINA 2026 Exacerbation Management; 2026 AHA/ACC Acute PE Guideline 등; NT-proBNP 절단치는 ESC 2021 기준 유지)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ESC 2021/2026 Heart Failure Guideline,</mark></em> <br><em><mark style="color:$info;">BTS Emergency Oxygen Guideline 2017, GOLD/GINA 2026 Exacerbation Management,</mark></em><br><em><mark style="color:$info;">2026 AHA/ACC Acute PE Guideline 등; NT-proBNP 절단치는 ESC 2021 기준 유지)</mark></em></p>
 
 #### <mark style="color:$primary;">**1차 진료에서 흔한 진단 오류**</mark>
 

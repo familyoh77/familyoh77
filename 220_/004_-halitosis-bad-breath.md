@@ -191,7 +191,7 @@ class C,D2,K yellow
 
 <p align="center"><strong>구취증 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (관련 문헌: Seemann R, et al. J Breath Res. 2014;8(1):017101 국제 컨센서스 원칙 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: Seemann R, et al. J Breath Res. 2014;8(1):017101 국제 컨센서스 원칙 등)</mark></em></p>
 
 ***
 

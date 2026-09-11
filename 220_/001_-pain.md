@@ -431,7 +431,7 @@ class B,B1,B2,F,H,L,N yellow
 
 <p align="center"><strong>비암성 통증 Opioid 시작·중단 프로토콜</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (관련 문헌: CDC Clinical Practice Guideline for Prescribing Opioids for Pain 2022, 대한통증학회 아편유사제 처방지침 2024 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: CDC Clinical Practice Guideline for Prescribing Opioids for Pain 2022, 대한통증학회 아편유사제 처방지침 2024 등)</mark></em></p>
 
 ***
 
