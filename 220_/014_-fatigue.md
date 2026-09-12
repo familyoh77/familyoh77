@@ -31,22 +31,28 @@
 * 내분비/대사 : 갑상선저하증/항진증, 부신피질기능저하증(Addison's disease; Na↓·K↑·색소침착 동반 시 의심), 당뇨병(조절되지 않는 고혈당, 저혈당 반복), 만성 신/간질환, Na↓, Ca↑
 * 혈액/종양 : 빈혈(철결핍성·만성 질환성·거대적아구성), 악성 종양
 * 감염 : 단핵구증후군, 바이러스 간염, HIV 감염, 아급성 심내막염, 결핵, Long COVID\*
-  * _\*Post-COVID condition : SARS-CoV-2 감염 후 통상 3개월 이내 발생하여 적어도 2개월 지속되고 다른 진단으로 설명되지 않는 증상군으로, 피로·PEM·인지 저하·호흡곤란·수면장애·기립성 증상 등이 흔함(WHO 임상 증례 정의)_
-  * _Ref. [WHO, A clinical case definition of post COVID-19 condition](https://www.who.int/publications/i/item/WHO-2019-nCoV-Post-COVID-19-condition-Clinical-case-definition-2021.1)._
+  * _\*Post-COVID condition : SARS-CoV-2 감염 후 통상 3개월 이내 발생하여 적어도 2개월 지속되고 다른 진단으로 설명되지 않는 증상군; 피로·PEM·인지 저하·호흡곤란·수면장애·기립성 증상 등이 흔함(_[_WHO_](https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition)_)_
 * 자율신경 이상([POTS](../221_/021_-syncope.md#postural-orthostatic-tachycardia-syndrome-pots)) : 기립 후 10분 이내 지속적 심박수 증가 ≥30 bpm(12\~19세 ≥40 bpm), 유의한 기립성 저혈압 없이 기립 시 악화되는 증상이 통상 ≥3개월 지속되고 빈혈·탈수·발열·갑상선항진증·약물 등 다른 빈맥 원인이 배제될 때 의심; Long COVID 이후 기립성 증상 동반 시 유념해야 함
 * 류마티스 : 섬유근육통, polymyalgia rheumatica
 * 정신 : 우울, 불안, 신체화장애
-* 약물/치료 : 항우울제, 항불안제, 항정신병제, 근이완제, 항경련제, 1세대 항히스타민제, β-차단제, 마약성 진통제(opioids), 항콜린성 약물, statin(근육통 동반 여부 확인), 이뇨제(탈수·기립성 저혈압·저Na/저K), PPI 장기 복용(Vit B12·Mg 결핍), metformin(Vit B12 결핍), 세포독성 항암제·일부 표적치료제·면역관문억제제
-  * 면역관문억제제 치료 중 새 피로는 단순 약물 부작용뿐 아니라 갑상선기능장애·뇌하수체염·부신기능저하증 등 immune-related adverse event 가능성도 평가
+* 약물/치료&#x20;
+  * 중추신경 진정/억제 : 항우울제, 항불안제, 항정신병제, 근이완제, 항경련제, 1세대 항히스타민제, 마약성 진통제(opioids), 항콜린성 약물
+  * 심혈관/체액·전해질 : β-차단제, 이뇨제(탈수·기립성 저혈압·저Na/저K)
+  * 대사·영양소 결핍 유발 : statin(근육통 동반 여부 확인), PPI 장기 복용(Vit B12·Mg 결핍), metformin(Vit B12 결핍)
+  * 항암 치료 관련 : 세포독성 항암제·일부 표적치료제·면역관문억제제
+
+{% hint style="info" %}
+면역관문억제제 치료 중 새로운 피로는 단순 약물 부작용뿐 아니라 갑상선기능장애·뇌하수체염·부신기능저하증 등 immune-related adverse event 가능성도 평가
+{% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 새로 발생한 국소 신경학적 결손 또는 의식 변화 : 마비·감각 저하·언어장애·보행 장애 등
+* 새로 발생한 국소 신경학적 결손 또는 의식 변화 - 마비·감각 저하·언어장애·보행 장애 등
 * 지속되는 심한 흉통 또는 중증 호흡곤란, 실신·저혈압 등 혈역학적 불안정
-* 활동성 중증 출혈 : 대량 토혈·혈변/흑색변·객혈과 함께 어지럼·실신·빈맥·저혈압 등 순환기 불안정 소견
-* 자살 사고가 구체적이거나 자살 시도 직후인 경우 : 즉시 정신건강의학과 응급 평가; 자살예방상담전화 109 안내
+* 활동성 중증 출혈 - 대량 토혈·혈변/흑색변·객혈과 함께 어지럼·실신·빈맥·저혈압 등 순환기 불안정 소견
+* 자살 사고가 구체적이거나 자살 시도 직후인 경우 (자살예방상담전화 109 안내)
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
@@ -63,53 +69,37 @@
 * 진행성 연하곤란 또는 지속·악화되는 소화기 증상
 * 폐경 후 질 출혈
 
-※ 충분한 휴식 후에도 회복되지 않는 피로, 기상 시 심한 피로, 사회적·직업적 기능 저하는 중요한 임상 단서(clinical clue)이지만 그 자체로 응급 Red Flag는 아니며, ME/CFS·수면장애·우울증 및 기질질환 평가의 근거로 활용한다.
+{% hint style="info" %}
+충분한 휴식 후에도 회복되지 않는 피로, 기상 시 심한 피로, 사회적·직업적 기능 저하는 중요한 임상 단서(clinical clue)이지만 그 자체로 응급 Red Flag는 아니며, ME/CFS·수면장애·우울증 및 기질질환 평가의 근거로 활용
+{% endhint %}
 
 ## <mark style="color:green;">진단</mark>
 
 #### <mark style="color:$primary;">진단 단계</mark>
 
-* Step 1: Red flags 확인
-* Step 2: Fatigue vs Sleepiness vs Weakness 감별
-  * Fatigue-피곤한가요? (에너지 부족, 활동을 시작·유지하기 어려움)
-  * Sleepiness-졸려서 잠들 것 같은가요? (수면 부족·수면 장애·진정성 약물 등)
-  * Weakness-힘을 주어도 실제로 힘이 빠지나요? (객관적 근력 저하)
-* Step 3: Sleep / Mood / Medications? Fatigue phenotype 분류
-  * Sleep-driven fatigue → OSA / insomnia
-  * Mood-driven fatigue → depression / anxiety
-  * Medical fatigue → anemia / thyroid / chronic disease
-  * Post-exertional fatigue → ME/CFS / Long COVID
-  * Lifestyle fatigue → stress / overwork / inactivity
-* Step 4: 병력·진찰과 임상 단서에 따라 표적 검사 ± 선택적 baseline 검사
-* Step 5: 중증도·기능 저하에 따라 2\~4주 내 추적
+**Step 1 : Red flags 확인**
+
+**Step 2 : Fatigue vs Sleepiness vs Weakness 감별**
+
+* Fatigue-피곤한가요? (에너지 부족, 활동을 시작·유지하기 어려움)
+* Sleepiness-졸려서 잠들 것 같은가요? (수면 부족·수면 장애·진정성 약물 등)
+* Weakness-힘을 주어도 실제로 힘이 빠지나요? (객관적 근력 저하)
+
+**Step 3 : Sleep / Mood / Medications? Fatigue phenotype 분류**
+
+* Sleep-driven fatigue → OSA / insomnia
+* Mood-driven fatigue → depression / anxiety
+* Medical fatigue → anemia / thyroid / chronic disease
+* Post-exertional fatigue → ME/CFS / Long COVID
+* Lifestyle fatigue → stress / overwork / inactivity
+
+**Step 4 : 병력·진찰과 임상 단서에 따라 표적 검사 ± 선택적 baseline 검사**
+
+**Step 5 : 중증도·기능 저하에 따라 2\~4주 내 추적**
 
 ***
 
 ```mermaid
-flowchart TD
-    A[피로] --> B[Red Flag?]
-    B -->|Yes| C[응급도 Tier에 따라 <br/>즉각/당일/조기 평가]
-    B -->|No| D[<b>Fatigue vs sleepiness<br/>vs true weakness</b>]
-    D -->|Weakness| E[신경근육 질환 평가]
-    D -->|Sleepiness| G
-    D -->|Fatigue| F[주된 phenotype]
-    F --> G[Sleep: <br/>OSA <br/>/ insomnia]
-    F --> H[Mood: <br/>depression <br/>/ anxiety]
-    F --> I[Medication <br/>/ lifestyle]
-    F --> J[Medical clues: <br/>anemia / thyroid <br/>/ chronic disease]
-    F --> K[Post-exertional: <br/>PEM / Long COVID]
-    G --> L[표적 평가 ± 선택적 baseline 검사]
-    H --> L
-    I --> L
-    J --> L
-    K --> M[PEM + 기능저하 지속?]
-    M -->|Yes| N[ME/CFS <br/>/ Long COVID pathway]
-    M -->|No| L
-    L --> O[2~4주 내 추적 및 <br/>missed diagnosis 재평가]
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style N fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,F,M yellow
 ```
 
 <p align="center"><strong>피로 평가 알고리듬</strong></p>
@@ -120,7 +110,8 @@ class B,D,F,M yellow
 
 #### <mark style="color:$primary;">감별 항목 : 'DEAD, TIRED'</mark>
 
-<table><tbody><tr><td><p><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)</p></td><td><p><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</p></td></tr></tbody></table>
+| <p><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)</p> | <p><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</p> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 * **언제 가장 피곤합니까?**
   * 아침부터 피곤 → 우울, 수면장애, OSA
@@ -130,7 +121,6 @@ class B,D,F,M yellow
 * **복용하는 약물이 있나요?**
   * 항히스타민, BZD, opioid, β-blocker, statin
   * PPI / metformin → B12 결핍
-
 * **병력과 진찰의 핵심**
   * 발병 시점·기간·일중 변동, 수면·기분·PEM, 식사·체중 변화, 감염·여행·직업 노출, 음주·물질 사용 및 모든 처방약·일반약·보충제를 확인
   * 활력징후와 필요 시 기립성 HR/BP를 측정하고, 심폐·신경계(객관적 근력 포함), 갑상선, 림프절, 피부·점막을 진찰
@@ -141,69 +131,63 @@ class B,D,F,M yellow
 * 무분별한 실험실 검사는 도움이 되지 않으며, 검사 순서와 범위는 병력·진찰 및 흔한 원인에 따라 결정
 * 경미한 급성 피로에 명확한 생활 습관적·일과성 원인이 있고 Red Flag가 없다면 즉시 광범위한 검사를 시행하지 않고 경과를 볼 수 있음
 * 원인이 불명확하거나 증상이 지속되고 기능 저하가 있으면 초기 최소검사를 선택적으로 시행하며, 초기 결과가 정상이면 동일 검사의 반복은 최소화
+* 피로 환자의 대부분은 검사상 근육 약화가 없으며, 근육 약화가 있는 경우 신경계 질환 등을 고려
 
-_Ref. Latimer K et al. [Fatigue in Adults: Evaluation and Management](https://www.aafp.org/pubs/afp/issues/2023/0700/fatigue-adults.html). Am Fam Physician. 2023._
+<mark style="color:cyan;">**초기 검사**</mark>&#x20;
 
-> **초진 시 선택적 검사를 고려할 상황**
->
-> 다음 중 하나 이상이면 증상 기간과 관계없이 임상 단서에 맞는 검사를 고려
->
-> * 기능 저하 동반 (일상·업무 영향)
-> * 만성질환 위험군 (당뇨, CKD 등)
-> * 병력·진찰상 기질 질환의 단서가 있거나 원인이 불명확함
-> * 추적 관찰이 어렵거나 검사 결과가 즉시 치료·처방 결정에 영향을 줌
+* CBC, 혈당 또는 HbA1c, creatinine/eGFR, 전해질·Ca, LFT, TSH, U/A - 병력·진찰과 동반질환에 따라 선택하며 모든 항목이 필수인 것은 아님
+* 임신 가능성·월경 지연이 있거나 임신 여부가 검사·치료 결정에 영향을 주는 경우 소변 hCG 검사 시행
+* 선택적 검사 고려 상황 : 다음 중 하나 이상이면 증상 기간과 관계없이 임상 단서에 맞는 검사를 고려
+  * 일상·업무에 영향을 주는 기능 저하 동반
+  * 당뇨, CKD 등 만성질환 위험군 동반
+  * 병력·진찰상 기질 질환의 단서가 있거나 원인이 불명확함
+  * 추적 관찰이 어렵거나 검사 결과가 즉시 치료·처방 결정에 영향을 줌
 
-* 피로 환자의 대부분은 검사에서 근육 약화가 없으며, 근육 약화가 있는 경우 신경계 질환 등을 고려
+<mark style="color:cyan;">**지속적·설명되지 않는 피로 또는 ME/CFS 의심 시 추가 고려**</mark>
 
-**초기 최소검사—임상상에 따라 선택**
+* CBC with differential, ESR/CRP, 전해질·Ca·P, 혈당, 신·간기능, TSH ± free T4, iron studies(ferritin/serum iron/TIBC 또는 transferrin/TSAT), U/A를 임상상에 따라 추가 고려
+* 위장관 증상, 철결핍 또는 위험 인자가 있으면 celiac disease 선별검사를 고려
+* Vit B12, 엽산, Vit D(25(OH)D), 8\~9 AM cortisol ± ACTH, 이종항체검사(감염단핵구증 의심 시), ANA, 흉부 X선, 분변 잠혈 검사, 수면검사(HSAT/PSG), 복부 초음파 등은 해당 임상 단서가 있을 때 시행
+* CBC에서 빈혈이 확인되면 MCV·reticulocyte와 iron studies를 우선 해석하고, 거대적아구성 빈혈에서는 Vit B12·엽산을 평가
+* ESR·CRP는 염증 여부를 판단하는 보조지표이며 만성질환빈혈을 단독으로 진단하지 못함
+* [철결핍](../230_/193_-iron-deficiency-anemia.md) 평가 : ferritin ＜30 ng/㎖이면 철결핍을 강하게 시사
+  * Ferritin은 급성기 반응물질이므로 염증 시 정상 또는 상승할 수 있어 CRP와 TSAT를 함께 해석하며, CKD·심부전·IBD 등에서는 질환별 기준을 적용
+* IDWA(빈혈 없는 철결핍) : Hb가 정상이어도 ferritin ＜30 ng/㎖이면 철결핍을 고려
+  * Ferritin 30\~50 ng/㎖의 경계영역에서는 월경/출혈 위험, 식이, TSAT 및 염증 여부를 함께 판단하며 이를 독립적인 확정 cutoff로 사용하지 않음
+* 갑상선 : 뇌하수체 질환(두통·시야장애 등) 또는 이차성 갑상선기능저하증이 의심되면 TSH가 정상이어도 free T4를 함께 측정
+  * 정상 TSH의 비특이적 피로만을 이유로 Anti-TPO Ab를 일률적으로 추가하지 않음
+* 부신기능저하증 의심 시 : 체중 감소, 저혈압/기립성 증상, 식욕저하·구역, 저Na/고K, 색소침착, 최근 장기간 glucocorticoid 사용·중단 등의 단서가 있으면 8\~9 AM serum cortisol ± ACTH 시행
+* Vit D : 골질환·흡수장애·저칼슘혈증 등 결핍 위험 또는 임상적 적응증이 있을 때 선택적으로 측정하고 확인된 결핍은 교정
+  * 피로 개선만을 목적으로 특정 25(OH)D 목표농도(예: ≥30 ng/㎖)를 설정하지 않음
 
-* **CBC, 혈당 또는 HbA1c, creatinine/eGFR, 전해질·Ca, LFT, TSH, U/A** 중 병력·진찰과 동반질환에 따라 선택하며 모든 항목이 필수인 것은 아님
-* 임신 가능성·월경 지연이 있거나 임신 여부가 검사·치료 결정에 영향을 주는 경우 UPT(소변 임신 반응 검사) 시행
+<mark style="color:cyan;">**수면 무호흡 선별**</mark>
 
-**지속적·설명되지 않는 피로 또는 ME/CFS 의심 시 추가 고려**
+* 코골이·주간 졸림·무호흡 목격이 동반되면 아래 'STOP-BANG' 설문시행
+* 주간 졸림의 정도는 'Epworth Sleepiness Scale(ESS)'을 병행해 정량화할 수 있음
 
-* CBC with differential, ESR/CRP, 전해질·Ca·P, 혈당, 신·간기능, TSH ± free T4, iron studies(ferritin/serum iron/TIBC 또는 transferrin/TSAT), U/A를 임상상에 따라 추가 고려. 위장관 증상, 철결핍 또는 위험 인자가 있으면 celiac disease 선별검사를 고려하며, 모든 검사를 초기에 동시에 시행할 필요는 없음
-* **그 밖의 선택 검사** : Vit B12, 엽산, Vit D(25(OH)D), 8\~9 AM cortisol ± ACTH, 이종항체검사(감염단핵구증 의심 시), ANA, 흉부 X선, 분변 잠혈 검사, 수면검사(HSAT/PSG), 복부 초음파 등은 해당 임상 단서가 있을 때 시행
-  * _Ref. [CDC, Evaluation of ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis-testing/evaluation-of-me-cfs.html), 2026. ME/CFS 평가에 특화된 참고 자료이며 연방 지침이나 치료 권고를 대표하지 않음._
-* CBC에서 빈혈이 확인되면 MCV·reticulocyte와 iron studies를 우선 해석하고, 거대적아구성 빈혈에서는 Vit B12·엽산을 평가. ESR·CRP는 염증 여부를 판단하는 보조지표이며 만성질환빈혈을 단독으로 진단하지 못함
-* **철결핍 평가** : ferritin ＜30 ng/㎖이면 철결핍을 강하게 시사. Ferritin은 급성기 반응물질이므로 염증 시 정상 또는 상승할 수 있어 CRP와 TSAT를 함께 해석하며, CKD·심부전·IBD 등에서는 질환별 기준을 적용
-* **IDWA(빈혈 없는 철결핍)** : Hb가 정상이어도 ferritin ＜30 ng/㎖이면 철결핍을 고려. Ferritin 30\~50 ng/㎖의 경계영역에서는 월경/출혈 위험, 식이, TSAT 및 염증 여부를 함께 판단하며 이를 독립적인 확정 cutoff로 사용하지 않음
-* **갑상선** : 뇌하수체 질환(두통·시야장애 등) 또는 이차성 갑상선기능저하증이 의심되면 TSH가 정상이어도 free T4를 함께 측정. 정상 TSH의 비특이적 피로만을 이유로 Anti-TPO Ab를 일률적으로 추가하지 않음
-* **부신기능저하증 의심 시** : 체중 감소, 저혈압/기립성 증상, 식욕저하·구역, 저Na/고K, 색소침착, 최근 장기간 glucocorticoid 사용·중단 등의 단서가 있으면 8\~9 AM serum cortisol ± ACTH 시행
-* **Vit D** : 골질환·흡수장애·저칼슘혈증 등 결핍 위험 또는 임상적 적응증이 있을 때 선택적으로 측정하고 확인된 결핍은 교정. 피로 개선만을 목적으로 특정 25(OH)D 목표농도(예: ≥30 ng/㎖)를 설정하지 않음
-  * _Ref. Endocrine Society Clinical Practice Guideline, 2024. 이 지침은 주로 질병 예방을 위한 선별·보충을 다루며, 확립된 결핍증의 구체적 치료지침은 아님._
+<mark style="color:cyan;">**우울증 감별**</mark>
 
-**수면 무호흡 선별**
-
-* 코골이·주간 졸림·무호흡 목격이 동반되면 **STOP-BANG** 시행 (☞ 하단 설문 및 판정 기준 참조)
-* 주간 졸림의 정도는 Epworth Sleepiness Scale (ESS)을 병행해 정량화할 수 있음
-
-**우울증 감별**
-
-* 'DEAD, TIRED' 항목 중 우울/불안(Depression/Anxiety) 비중이 높다면 초기부터 PHQ-9 시행
-* PHQ-9 ≥10은 우울증 가능성을 시사하는 양성 선별 결과이지 진단이나 약물치료 기준이 아님. 임상 면담으로 증상 기간·기능 저하·주요우울장애 진단 기준을 확인하고 양극성장애, 물질·약물 및 신체질환을 감별한 뒤 중증도와 환자 선호에 따라 상담·정신치료·약물치료 등을 결정 (☞ [우울증](../221_/027_-depression.md#phq-9))
+* 'DEAD, TIRED' 항목 중 우울/불안(Depression/Anxiety) 비중이 높다면 초기부터 [PHQ-9](../221_/027_-depression.md#phq-9) 시행
+* PHQ-9 점수 ≥10은 우울증 가능성을 시사하는 양성 선별 결과이지 진단이나 약물치료 기준이 아님
+  * 임상 면담으로 증상 기간·기능 저하·주요우울장애 진단 기준을 확인하고 양극성장애, 물질·약물 및 신체질환을 감별한 뒤 중증도와 환자 선호에 따라 상담·정신치료·약물치료 등을 결정
 * PHQ-9 9번 문항이 양성이면 총점과 관계없이 자살 사고의 구체성·계획·수단·의도와 보호 요인을 평가
 
 #### <mark style="color:$primary;">피로 증상 척도 (Fatigue Severity Scale, FSS)</mark>
 
-* 피로 상태를 평가하고 치료 효과를 추적하는 데 활용 (Krupp et al. 1989)
-* 9개 항목에 대해 지난 1주간의 상태를 1점(전혀 동의하지 않음)\~7점(매우 동의함)으로 평가하고 평균을 계산
+* 피로 상태를 평가하고 치료 효과를 추적하는 데 활용
+* 9개 항목에 대해 지난 1주간의 상태를 1점(전혀 동의하지 않음)\~7점(매우 동의함)으로 평가하고 평균을 계산 (☞  [계산기](https://www.mdapp.co/fatigue-severity-scale-fss-calculator-372/)) (FSS는 저작권이 있는 척도로 본문에서는 점수 해석만 요약함)
 * 평균 ≥4점은 연구와 일부 임상에서 흔히 사용하는 참고 기준이지만 질환·집단에 따라 최적 cutoff가 다르며, FSS만으로 원인 질환을 진단하지 않음
-* FSS는 저작권이 있는 척도이므로 문항 전문은 사용 허가와 검증된 한국어판 여부를 확인하고, 본문에서는 점수 해석만 요약함 (☞ [FSS 사용 정보](https://site.thoracic.org/assemblies/srn/sleep-related-questionnaires/fss))
 
-※ **전반적 피로 강도 평가**
+**전반적 피로 강도 평가**
 
 * FSS와 별도로, 지난 2주간 전반적인 피로 강도를 "없음=0점 \~ 10=상상할 수 있는 최악의 피로" 사이의 한 숫자로 표시하도록 함; 치료 전후 단일 수치 비교에 유용
 
 #### <mark style="color:$primary;">STOP-BANG 수면 무호흡 선별 설문</mark>
 
-  _<mark style="color:$info;">Ref. Chung F et al. Anesthesiology 2008;108:812–821.</mark>_
-
 * 피로를 주소로 내원한 환자에서 코골이·주간 졸음·무호흡 목격이 동반될 때 시행
-* 8개 항목(Snoring, Tiredness, Observed apnea, high blood Pressure, BMI, Age, Neck circumference, Gender)에 대하여 해당하면 각 1점
-* 판정 : 0\~2점=저위험; 3\~4점=중간 위험으로 증상·동반 위험 인자를 이용해 추가 분류하고 객관적 수면검사 여부를 결정; ≥5점=고위험으로 HSAT/PSG 등 객관적 검사 적극 고려 ※ S·T·O·P 4개 항목 중 2개 이상 + 남성 또는 BMI ＞35 또는 목둘레 ＞40 ㎝에 해당하는 경우에도 고위험으로 분류할 수 있음. 목둘레 항목 자체의 표준 기준은 성별 구분 없이 ＞40 ㎝임.
-* **ESS** : 주간 졸림의 정도를 정량화하는 보조 척도로 병행 가능. 단, STOP-BANG/ESS는 선별 도구이며 확진 검사가 아님.
-* STOP-BANG은 저작권이 있는 도구이므로 문항 전문의 재수록·번역·출판에는 사용 조건을 확인하고 공식 도구를 이용 (☞ [STOP-BANG 공식 사이트](https://www.stopbang.ca/))
+* 8개 항목(Snoring, Tiredness, Observed apnea, high blood Pressure, BMI, Age, Neck circumference, Gender)에 대하여 해당하면 각 1점  (☞  [계산기](https://www.mdcalc.com/calc/3992/stop-bang-score-obstructive-sleep-apnea))&#x20;
+* 판정 : 0\~2점=저위험; 3\~4점=중간 위험으로 증상·동반 위험 인자를 이용해 추가 분류하고 객관적 수면검사 여부를 결정; ≥5점=고위험으로 HSAT/PSG 등 객관적 검사 적극 고려 ※ S·T·O·P 4개 항목 중 2개 이상 + 남성 또는 BMI ＞35 또는 목둘레 ＞40 ㎝에 해당하는 경우에도 고위험으로 분류할 수 있음. 목둘레 항목 자체의 표준 기준은 성별 구분 없이 ＞40 ㎝임
+* ESS(엡워스졸림척도) : 주간 졸림의 정도를 정량화하는 보조 척도로 병행 가능(☞ [한국형 자가평가](https://www.sleep.or.kr/html/?pmode=sleepiness));  단, STOP-BANG/ESS는 선별 도구이며 확진 검사가 아님
 
 #### <mark style="color:$primary;">만성피로증후군(ME/CFS) 감별</mark>
 
@@ -284,7 +268,7 @@ _Ref. Institute of Medicine/National Academy of Medicine, 2015; CDC ME/CFS._
 * **Vit B12** : PPI 장기 복용자·metformin 복용자·고령·비건 식이 환자에서 결핍을 확인한 뒤 원인·중증도와 흡수장애 여부에 따라 경구 또는 주사 보충을 선택 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
 * **ME/CFS** : 현재 승인된 질병 특이 약물치료는 없음. 통증·수면장애·기립불내성 등 가장 부담이 큰 증상을 우선하여 개별적으로 치료하되 약물 과민성과 PEM을 고려
 * **methylphenidate** : 암 관련 피로 또는 ME/CFS에서 일관된 효과가 입증되지 않아 routine 사용하지 않음. 암 관련 피로에서도 ASCO-SIO 2024 지침은 psychostimulant의 일률적 사용을 권하지 않으며, 선택된 완화의료 상황 등에서 전문가 판단으로 제한적으로 고려. 국내에서 암 관련 피로·ME/CFS 치료는 허가 외 사용이며 보험 급여가 인정되지 않음
-  * _Ref. [ASCO-SIO Guideline Update, 2024](https://pubmed.ncbi.nlm.nih.gov/38754041/); [CDC ME/CFS](https://www.cdc.gov/me-cfs/about/index.html)._
+  * _Ref._ [_ASCO-SIO Guideline Update, 2024_](https://pubmed.ncbi.nlm.nih.gov/38754041/)_;_ [_CDC ME/CFS_](https://www.cdc.gov/me-cfs/about/index.html)_._
 * **CoQ10, L-carnitine** : 비특이적 피로·ME/CFS에 대한 근거가 불충분하여 routine으로 권하지 않음
 * **식욕 자극제** : 원인 불명의 체중 감소나 피로 자체에는 사용하지 않음. 원인 평가와 영양 중재를 우선하고, 암 악액질이나 특정 완화의료 상황 등 명확한 적응증에서 기대효과와 혈전·부종·부신억제 등의 위해를 비교하여 선택 (☞ [체중 감소](013_-weight-loss.md))
 
@@ -342,7 +326,7 @@ _Ref. Institute of Medicine/National Academy of Medicine, 2015; CDC ME/CFS._
 > * 과다 복용 시 고칼슘혈증(구역, 구토, 변비, 피로 악화)이 생길 수 있으므로 임의로 용량을 늘리지 마십시오.
 > * 재검 시점은 제제·용량과 임상상황에 따라 조정하며, 고용량을 임의로 추가 복용하지 마십시오.
 
-> **철분제 (<mark style="color:blue;">\[훼로바]</mark> 등)**
+> **철분제 (**<mark style="color:blue;">**\[훼로바]**</mark>**&#x20;등)**
 >
 > * 철분은 제제별 허가 용법을 따르십시오. 일반적으로 위장 장애가 없으면 흡수를 고려해 식사와 떨어뜨려 복용할 수 있으나, 훼로바-유서방정은 국내 허가상 식후 복용입니다.
 > * 비타민 C를 일률적으로 함께 복용할 필요는 없습니다. 칼슘제·제산제·차/커피 등은 철분 흡수를 방해할 수 있으므로 가능한 시간 간격을 두십시오.
