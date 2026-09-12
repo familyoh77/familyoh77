@@ -2,6 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
+* 편두통은 전 세계 질병부담연구에서 장애생존연수(years lived with disability, YLD) 기준 주요 원인 중 하나로, 1차 진료에서 저평가·저치료되는 경향이 있음
 * 국내 1년 유병률 : 약 5\~6% - 2009 Korean Headache Survey 6.1%(여성 9.2%, 남성 2.9%), 2018 Korean Sleep-Headache Survey 5.2%; 여성에서 약 3배 흔함 (Kim et al., J Clin Neurol 2012; Kim et al., J Clin Neurol 2021)
 * 1년에 1회\~1주에 수회 빈도로 재발
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
@@ -70,9 +71,9 @@
 * 두통 발작은 치료하지 않거나 치료가 제대로 되지 않았을 때 보통 4\~72시간 지속
 * 주로 편측성·박동성이고 중등도\~중증이며 일상적 신체 활동으로 악화되지만, 양측성(30\~40%)·비박동성(40%)도 흔함
 * 동반 증상 : 구역, 구토, 빛공포증, 소리공포증, 어지럼증, 근육 압통, 감정 변화 등
-* 편두통 발작은 **전구기(prodrome) → 조짐(aura; 일부 환자) → 두통기 → 후구기(postdrome)**의 시간적 단계로 나타날 수 있음
+* 편두통 발작은 \*\*전구기(prodrome) → 조짐(aura; 일부 환자) → 두통기 → 후구기(postdrome)\*\*의 시간적 단계로 나타날 수 있음
   * **전구기(prodrome)** : 두통 발생 수 시간\~최대 48시간 전(조짐 편두통에서는 aura 이전)에 피로, 하품, 집중력 저하, 목 경직/통증, 기분 변화, 특정 음식에 대한 갈망 등이 나타날 수 있음
-  * **조짐(aura)** : 편두통 환자의 약 **20%**에서 발생; 시각·감각·언어 등 완전히 가역적인 국소 신경학적 증상으로 보통 5\~60분 지속하며, 운동 증상은 최대 72시간까지 지속 가능
+  * **조짐(aura)** : 편두통 환자의 약 \*\*20%\*\*에서 발생; 시각·감각·언어 등 완전히 가역적인 국소 신경학적 증상으로 보통 5\~60분 지속하며, 운동 증상은 최대 72시간까지 지속 가능
   * **후구기(postdrome)** : 두통이 소실된 뒤 최대 48시간 동안 피로, 집중력 저하, 기분 변화, 목 경직/통증 등이 지속될 수 있음
   * ✽ 전구기(prodrome)는 aura와 다른 개념이며, aura는 일시적인 국소 신경학적 증상을 의미함
 
@@ -86,7 +87,7 @@
 * 비운동성 조짐이 60분 이상 지속되거나 갑작스러운 음성 신경학적 증상(감각 소실, 실어증 등) 동반 → 뇌졸중·TIA 등 2차성 원인 감별
 * Status migrainosus(72시간 이상 지속) 중 탈수·전해질 불균형 동반 시
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 평소와 확연히 다른 두통 양상 또는 급격한 악화 (기존 편두통 환자라도 2차 두통 감별 필요)
 * 새로 발생하거나 평소와 다른 양상의 조짐
@@ -161,8 +162,8 @@ C. 다음의 여섯 가지 특징 중 ≥3가지 해당
 D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 _¹⁾ 예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
-_²⁾ 실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
-_³⁾ 섬광암점과 따끔거림은 조짐의 양성 증상임_
+_&#xB2;⁾ 실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
+_&#xB3;⁾ 섬광암점과 따끔거림은 조짐의 양성 증상임_
 
 #### <mark style="color:$primary;">Chronic migraine (만성 편두통)</mark>
 
@@ -279,8 +280,8 @@ flowchart TD
 <table><thead><tr><th width="202">성분명 [상품명]</th><th width="241">용량·최소 재투여 간격 [최대]</th><th width="108">반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan [이미그란]</td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan²⁾</td><td>5~10 ㎎ q2h [30 ㎎/d]³⁾</td><td>2~3</td></tr><tr><td>zolmitriptan [조믹]</td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan [알모그란]</td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan²⁾</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan [나라믹]</td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan [미가드]</td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
 
 _¹⁾ **국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 최대 200 ㎎/d**_\
-_²⁾ rizatriptan, eletriptan : **현재 국내 미출시(시판 제품 없음)**_\
-_³⁾ propranolol 병용 시 rizatriptan AUC 약 70% 상승 → 5 ㎎/회, 최대 15 ㎎/d로 용량 제한_
+_&#xB2;⁾ rizatriptan, eletriptan : **현재 국내 미출시(시판 제품 없음)**_\
+_&#xB3;⁾ propranolol 병용 시 rizatriptan AUC 약 70% 상승 → 5 ㎎/회, 최대 15 ㎎/d로 용량 제한_
 
 _✽ 용량과 재투여 간격은 국내 허가사항을 우선 확인_
 
@@ -427,7 +428,7 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 * 주의 : 임신·수유 중 안전성 자료가 제한적이므로 사용을 피하거나 위험-편익을 개별 평가; 고혈압 및 Raynaud 현상 발생 여부를 모니터링
 * fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 또는 675 ㎎/분기 SC (조건부 급여); 체중 45 ㎏ 이상 6\~17세 소아·청소년 삽화성 편두통 예방 적응증 추가 (2026)
 * galcanezumab <mark style="color:blue;">\[엠겔러티]</mark> : 120 ㎎/월 SC (초회 240 ㎎) (조건부 급여); 국내 군발두통용 100 ㎎ 품목은 2024년 허가 취하되어 현재 편두통 예방 적응증으로 사용
-* erenumab [에이모빅] : 70\~140 ㎎/월 SC (수용체 결합형; 2026년 9월 기준 국내 미허가·미출시)
+* erenumab \[에이모빅] : 70\~140 ㎎/월 SC (수용체 결합형; 2026년 9월 기준 국내 미허가·미출시)
 * eptinezumab <mark style="color:blue;">\[바이엡티]</mark> : 100 ㎎ 또는 300 ㎎/분기 IV (0.9% 생리식염수 100 ㎖ 희석 후 약 30분간 정맥 점적 주입, 연 4회); 2026년 5월 국내 허가, 출시·급여 여부는 처방 시 확인; 국내 최초 CGRP 정맥주입 예방치료제
 
 #### <mark style="color:$primary;">CGRP 수용체 길항제 (Gepant 계열, 경구 예방제)</mark>
@@ -452,7 +453,6 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 #### <mark style="color:$primary;">항고혈압제</mark>
 
 * ✽2026 AAN·AHS 체계적 문헌고찰에서는 삽화성 편두통 예방에 telmisartan·nifedipine·enalapril의 근거를 낮은 확실성으로 평가했으며, 널리 사용되는 candesartan은 해당 지침의 분석 기준상 근거가 불충분하다고 평가함; 국내외 다른 지침과 환자의 동반 고혈압을 함께 고려하여 개별 선택
-
 * flunarizine : 5\~10 ㎎/d <mark style="color:blue;">\[씨베리움]</mark>
   * 부작용 : 체중 증가, 졸림, 입마름, 어지럼증, 저혈압, 우울
   * 주의/금기 : 심한 우울, 파킨슨병, 추체외로 증상
@@ -473,7 +473,6 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 #### <mark style="color:$primary;">기타</mark>
 
 * 아래 약제는 편두통 예방에 대한 근거가 제한적이고 대부분 국내 허가 외 사용이므로 routine으로 권고하지 않음
-
 * tizanidine(근이완) : 4\~24 ㎎/d <mark style="color:blue;">\[실다루드]</mark>
 * memantine(신경 보호) : 5\~20 ㎎/d <mark style="color:blue;">\[에빅사]</mark>
 * cyproheptadine(항히스타민) : 4\~8 ㎎ tid
