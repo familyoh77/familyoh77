@@ -472,11 +472,11 @@ flowchart TD
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R10.0 급성 복증
-* R10.1 상복부 통증
-* R10.2 골반 및 회음부 통증
-* R10.3 하복부의 다른 국소 통증
-* R10.4 기타 및 상세불명의 복통
+* R10.0 급성 복증 Acute abdomen
+* R10.1 상복부에 국한된 통증 Pain localized to upper abdomen
+* R10.2 골반 및 회음부 통증 Pelvic and perineal pain
+* R10.3 기타 하복부에 국한된 통증 Pain localized to other parts of lower abdomen
+* R10.4 기타 및 상세불명의 복통 Other and unspecified abdominal pain
 
 ***
 
