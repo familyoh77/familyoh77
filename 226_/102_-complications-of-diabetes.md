@@ -36,17 +36,17 @@ _\* PAD 무증상 고위험군 (ABI 선별검사 적극 고려, ADA 2025) : ⓵ 
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 급성 사지 허혈 (acute limb ischemia) 증상 - 갑자기 발생한 6P(pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia)
 * 괴저(gangrene) 또는 급속히 진행하는 발 감염
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 안정 시 통증(rest pain), 비치유성 궤양
 * ABI ＜0.4, 발목 수축기압 ＜50 ㎜Hg, 족지 수축기압 ＜30 ㎜Hg, TcPO₂ ＜30 ㎜Hg 또는 단상성·소실된 족부 Doppler 파형 - 중증 허혈을 시사하므로 긴급 혈관 전문 평가
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 간헐적 파행으로 일상생활 제한 시 혈관외과 협진
 * 안정적 간헐적 파행 + ABI 0.4\~0.9 : 약물·운동·생활습관 치료 후에도 일상생활 제한이 지속되고 재혈관화를 고려할 때 혈관 영상검사
@@ -231,17 +231,17 @@ graph LR
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 갑작스러운 시력 소실 → 유리체 출혈, 망막박리
 * 대량 유리체 출혈
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 신생혈관 발견(PDR), 황반부종 의심 시력 저하
 * 안압 상승 동반 → 신생혈관 녹내장
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 증식성 전단계(preproliferative DR) 발견
 * 혈당·혈압 조절 악화
@@ -301,17 +301,17 @@ GLP-1 RA 시작 또는 혈당 조절을 급격히 강화하기 전 안과 사전
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 갑자기 발생한 비대칭 신경병증 → 뇌졸중, 혈관 손상
 * 급격한 체중 감소와 동반된 심한 통증 → 당뇨병 신경통증성 악액질
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 발 궤양 또는 감염 동반
 * 심한 기립 저혈압, 실신, 위마비 → 자율신경병증
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 통증 조절 안 됨
 * 무증상 신경병증 발견
@@ -354,7 +354,7 @@ GLP-1 RA 시작 또는 혈당 조절을 급격히 강화하기 전 안과 사전
 <table><thead><tr><th width="379.047607421875">검사 항목</th><th width="229.5238037109375">좌측/우측 각각</th></tr></thead><tbody><tr><td>1. 발의 외형 (변형/건조 피부/굳은살/감염/열창)</td><td>정상=0 / 비정상=1</td></tr><tr><td>2. 발 궤양</td><td>정상=0 / 비정상=1</td></tr><tr><td>3. 발목 반사</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr><tr><td>4. 엄지발가락 진동 감각¹⁾</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr><tr><td>5. 10 g 모노필라멘트²⁾</td><td>있음=0 / 약함=0.5 / 없음=1</td></tr></tbody></table>
 
 _¹⁾ 엄지발가락 진동 감각 : 128 Hz tuning fork를 DIP 뼈 돌출부에 대고, 환자가 진동이 멈췄다고 할 때 즉시 검사자 손가락 관절에 대어 잔여 진동 시간이 ≤10초 시 '있음', ＞10초 시 '약함'; 환자가 처음부터 진동을 감지하지 못하면 '없음'._\
-\&#xNAN;_²⁾ 10 g 모노필라멘트 : 눈을 감은 상태로 엄지발가락 dorsum nail fold\~DIP joint 사이에 수직으로 ≤1초 적용. 10번 시도 중 8번 이상 '예' → 정상, 1\~7번 → 감소, 0번 → 없음; 발 온도 ＞30℃ 상태에서 시행._
+_²⁾ 10 g 모노필라멘트 : 눈을 감은 상태로 엄지발가락 dorsum nail fold\~DIP joint 사이에 수직으로 ≤1초 적용. 10번 시도 중 8번 이상 '예' → 정상, 1\~7번 → 감소, 0번 → 없음; 발 온도 ＞30℃ 상태에서 시행._
 
 * 판정 : ＞2점(10점 만점) 시 신경병증 시사
 
@@ -469,17 +469,17 @@ class Ctrl,3rd blue
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 혈당 ≥300 ㎎/㎗ + 과일향 날숨 + 구토/호흡 곤란/의식 변화
 * SGLT2i 사용 중 구역·구토·복통
 
-<mark style="color:$warning;">**당일 또는 조기 평가**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 혈당 ＞240 ㎎/㎗ + 소변 케톤 양성 + 복통
 * 구역/구토로 경구 섭취 불가능한 당뇨 환자
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * DKA 회복 후 인슐린 요법 재교육, 유발 요인 분석
 
@@ -532,18 +532,18 @@ class Ctrl,3rd blue
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 혈당 ≥600 ㎎/㎗ + 의식 변화 또는 신경학적 증상 + 심한 탈수 징후
 * 유효 혈장 삼투압 ≥320 mOsm/㎏ 추정 소견(심한 고나트륨혈증·고혈당 동반 혼돈)
 * 쇼크 징후(저혈압·빈맥 지속) 동반
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 혈당 ≥600 ㎎/㎗이나 의식은 명료하고 활력 징후 안정적인 경우 - 수액 치료 및 유발 원인 평가 위해 당일 의뢰
 * 요양시설 거주 고령자에서 원인 불명의 급성 기능 저하 + 고혈당
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * HHS 회복 후 유발 요인(감염, 약물, 수분 섭취 제한 요인) 교정 여부 확인
 * 향후 재발 방지를 위한 수분 섭취·간병 계획 재점검(특히 요양시설·독거 고령자)
