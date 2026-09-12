@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 두통은 1차 진료에서 가장 흔한 주소 중 하나로, 병력 청취 및 신체검사를 통해 경고 징후를 먼저 배제한 후 원인을 추정하고 관리
-* 재발성 두통의 가장 흔한 형태는 [편두통](016_-migraine.md)과 [긴장형두통](017_-tension-type-headache.md)이며, 종종 [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)도 해당됨
+* 재발성 두통의 가장 흔한 형태는 [편두통](016_-migraine.md)과 [긴장형두통](017_-tension-type-headache-ttha.md)이며, 종종 [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)도 해당됨
 * 편두통은 전 세계 질병부담연구(GBD)에서 장애생존연수(years lived with disability, YLD) 기준 주요 원인 중 하나로, 1차 진료에서 저평가·저치료되는 경향이 있음
 * 두통 평가 시 SNNOOP10 계열의 경고 징후를 활용하여 2차 두통을 체계적으로 배제할 것을 권고
 
@@ -163,6 +163,8 @@ _<mark style="color:$info;">HIT-6™ © 2001 QualityMetric Incorporated and the 
 * 유두부종(Papilledema) : funduscopy에서 시신경 유두 경계 불명확·융기 확인 시 뇌압 상승 시사; 특발성 두개 내 고혈압(IIH), 두개 내 종양, 뇌수두증 감별 → 즉시 영상검사로 종괴·폐쇄성 수두증 등을 먼저 배제한 뒤 필요 시 LP 시행
 
 #### <mark style="color:$primary;">두통의 2차 원인 감별을 위한 SNNOOP10 계열 Red Flags</mark>
+
+<table><thead><tr><th width="60">기호</th><th>경고 징후</th><th>특징</th><th>감별 진단</th></tr></thead><tbody><tr><td>S</td><td>Systemic symptoms</td><td>발열, 오한, 야간 발한, 체중 감소 등 전신 증상</td><td>감염(CNS, 전신), 전신 염증성 질환</td></tr><tr><td>N1</td><td>Neoplasm history</td><td>활동성 또는 과거 악성종양 병력</td><td>뇌전이, 암성수막염(leptomeningeal metastasis)</td></tr><tr><td>N2</td><td>Neurologic deficit/dysfunction</td><td>의식 저하를 포함한 국소 신경학적 이상</td><td>뇌졸중, 종괴 병변, 뇌염</td></tr><tr><td>O1</td><td>Onset sudden or abrupt</td><td>벼락두통(1분 미만에 최고조 도달)</td><td>SAH, RCVS, CVST, 동맥박리, pituitary apoplexy</td></tr><tr><td>O2</td><td>Older age</td><td>고령에 새로이 발생한 두통</td><td>거대세포동맥염(GCA), 종괴 병변</td></tr><tr><td>P1</td><td>Pattern change</td><td>기존과 다른 양상으로 변화 또는 새로 발생</td><td>종괴 병변, 감염(CNS, 전신)</td></tr><tr><td>P2</td><td>Positional</td><td>기립 시 악화 또는 누울 때 악화</td><td>저뇌척수압(CSF leak), CVST, 종괴 병변</td></tr><tr><td>P3</td><td>Precipitated by Valsalva</td><td>기침, 재채기, 힘주기로 유발</td><td>두개 내/후두와 종괴, Chiari malformation</td></tr><tr><td>P4</td><td>Papilledema</td><td>안저검사에서 시신경유두 경계 불명확·융기</td><td>IIH, 두개 내 종양, 수두증</td></tr><tr><td>P5</td><td>Progressive, atypical presentation</td><td>점진적 악화 또는 비전형적 양상</td><td>종괴 병변</td></tr><tr><td>P6</td><td>Pregnancy/postpartum</td><td>임신 중 또는 산후 새로 발생</td><td>CVST, 자간전증/자간증, RCVS, pituitary 병변</td></tr><tr><td>P7</td><td>Painful eye with autonomic features</td><td>눈 통증과 함께 결막충혈·눈물 등 자율신경 증상</td><td>급성 폐쇄각녹내장, 삼차자율신경두통(TACs)</td></tr><tr><td>P8</td><td>Post-traumatic onset</td><td>두부·경부 외상 후 발생</td><td>급·만성 경막하출혈, 경막외출혈</td></tr><tr><td>P9</td><td>Pathology of immune system</td><td>HIV, 면역억제제 장기 복용 등</td><td>기회감염, 중추신경계 림프종</td></tr><tr><td>P10</td><td>Painkiller overuse/new drug</td><td>진통제 과용 또는 새로운 약물 시작과 시점이 일치</td><td>약물과용두통(MOH), 약물유발두통</td></tr></tbody></table>
 
 _<mark style="color:$info;">RCVS=reversible cerebral vasoconstriction syndrome; CVST=cerebral venous sinus thrombosis; IIH=idiopathic intracranial hypertension; MOH=medication overuse headache; TACs=trigeminal autonomic cephalalgias</mark>_
 
