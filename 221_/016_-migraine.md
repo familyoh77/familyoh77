@@ -183,38 +183,36 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 
 ```mermaid
 flowchart TD
-    A["반복성 두통 환자"] --> B["Red flags 또는 비전형적<br/>신경학적 소견?"]
+    A["반복성 두통 환자"] --> B["Red flags 또는 <br/>비전형적 신경학적 소견?"]
     B -- "Yes" --> C["2차성 두통 평가<br/>응급평가·영상검사·의뢰"]
-    B -- "No" --> D["4–72시간 지속 + 다음 중 ≥2<br/>편측성 / 박동성 / 중등도–중증 / 일상 활동으로 악화"]
-    D -- "No" --> E["긴장형두통 등 다른 두통 재평가"]
+    B -- "No" --> D["4–72시간 지속 + 다음 중 ≥2<br/>·편측성/박동성/중등도–중증<br/>/일상 활동으로 악화"]
+    D -- "No" --> E["긴장형두통 등 <br/>다른 두통 재평가"]
     D -- "Yes" --> F["구역·구토 또는<br/>빛공포증 + 소리공포증?"]
     F -- "No" --> E
     F -- "Yes" --> G["편두통 의심"]
-    G --> H["완전히 가역적인 aura 증상?"]
+    G --> H["완전히 가역적인 aura?"]
     H -- "Yes" --> I0["해당 발작이 ≥2회?"]
-    I0 -- "Yes" --> I["Migraine with aura"]
-    I0 -- "No" --> T["Probable migraine 평가"]
+    I0 -- "Yes" --> I["Migraine <br/>with aura"]
+    I0 -- "No" --> T["Probable migraine<br/>평가"]
     H -- "No" --> J0["해당 발작이 ≥5회?"]
-    J0 -- "Yes" --> J["Migraine without aura"]
+    J0 -- "Yes" --> J["Migraine <br/>without aura"]
     J0 -- "No" --> T
-    I --> K["두통 ≥15일/월이 3개월 초과 지속?"]
+    I --> K["두통 ≥15일/월이 <br/>3개월 초과 지속?"]
     J --> K
-    K -- "No" --> L["Episodic migraine"]
+    K -- "No" --> L["Episodic <br/>migraine"]
     K -- "Yes" --> M["그중 ≥8일/월 편두통 특징?"]
-    M -- "Yes" --> N["Chronic migraine"]
-    M -- "No" --> O["다른 chronic headache 평가"]
+    M -- "Yes" --> N["Chronic <br/>migraine"]
+    M -- "No" --> O["다른 chronic <br/>headache 평가"]
     L --> P["급성약 사용일수 확인"]
     N --> P
-    P --> Q["Triptan/복합진통제 ≥10일/월<br/>또는 단순진통제 ≥15일/월이<br/>3개월 초과 지속?"]
+    P --> Q["·Triptan/복합진통제 <br/>≥10일/월 또는 <br/>·단순진통제 ≥15일/월이<br/>3개월 초과 지속?"]
     Q -- "Yes" --> R0["두통 ≥15일/월?"]
     R0 -- "Yes" --> R["MOH 동반 여부 평가"]
-    R0 -- "No" --> U["약물과용 및 예방치료 필요성 평가"]
+    R0 -- "No" --> U["약물과용 및 예방치료 <br/>필요성 평가"]
     Q -- "No" --> S["치료 계획 수립"]
-
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef diagnosis fill:#f96,stroke:#e65100,stroke-width:2px
     classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
-
     class A startNode
     class B,D,F,H,I0,J0,K,M,Q,R0 question
     class I,J,L,N,T diagnosis
