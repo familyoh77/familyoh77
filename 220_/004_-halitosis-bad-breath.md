@@ -242,7 +242,7 @@ class C,D2,K yellow
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R19.6 구취증
+* R19.6 구취증 Halitosis
 
 ***
 

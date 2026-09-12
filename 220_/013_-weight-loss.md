@@ -303,7 +303,7 @@ class B,W,E,G,I,L,O yellow
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R63.4 이상체중감소
+* R63.4 이상체중감소 Abnormal weight loss
 
 ***
 

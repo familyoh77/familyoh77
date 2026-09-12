@@ -306,10 +306,10 @@ class B,D,D2,F,P yellow
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R43 후각 및 미각 장애
-* R43.0 무후각증 (Anosmia)
-* R43.1 이상후각 (Parosmia)
-* R43.2 이상미각 (Parageusia)
+* R43 후각 및 미각 장애 Disturbances of smell and taste
+* R43.0 무후각증 Anosmia
+* R43.1 이상후각 Parosmia
+* R43.2 이상미각 Parageusia
 * R43.8 후각 및 미각의 기타 및 상세불명의 장애 Other and unspecified disturbances of smell and taste
 
 ***

@@ -328,11 +328,11 @@ graph TD
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R50 기타 및 원인 미상의 열
-* R50.2 약물유발 열
-* R50.8 기타 명시된 열
-* R50.90 불명열(FUO)
-* R50.99 상세불명의 열
+* R50 기타 및 원인미상의 열 Fever of other and unknown origin
+* R50.2 약물유발 열 Drug-induced fever
+* R50.8 기타 명시된 열 Other specified fever
+* R50.90 불명열\[FUO] Fever of unknown origin
+* R50.99 상세불명의 열 Fever, unspecified
 
 ***
 

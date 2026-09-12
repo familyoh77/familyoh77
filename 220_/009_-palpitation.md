@@ -300,7 +300,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R00.2 두근거림
+* R00.2 두근거림 Palpitations
 
 ***
 

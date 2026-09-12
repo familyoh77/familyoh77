@@ -235,7 +235,7 @@ _※ 임시 치료 용량 항응고 전 CBC, 신·간기능, PT, aPTT를 채혈�
 
 <p align="center"><em><mark style="color:$info;">CUS=compression ultrasonography, DVT=deep venous thrombosis</mark></em></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG158, 2020(2023년 개정) - 2-level Wells strategy 및</mark></em> <br><em><mark style="color:$info;">검사 지연 시 interim therapeutic anticoagulation 권고)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : NICE NG158, 2020(2023년 개정) - 2-level Wells strategy 및</mark></em><br><em><mark style="color:$info;">검사 지연 시 interim therapeutic anticoagulation 권고)</mark></em></p>
 
 ```mermaid
 graph TD
@@ -432,11 +432,11 @@ graph TD
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R60.0 국소부종
-* R60.1 전신부종
-* R60.9 상세불명의 부종
-* E87.7 체액과부하
-* I89.0 림프 부종
+* R60.0 국소부종 Localized edema
+* R60.1 전신부종 Generalized edema
+* R60.9 상세불명의 부종 Edema, unspecified
+* E87.7 체액과부하 Fluid overload
+* I89.0 달리 분류되지 않은 림프부종 Lymphoedema, NEC
 
 ***
 

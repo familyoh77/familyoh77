@@ -203,7 +203,7 @@ graph TD
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R04.2 객혈
+* R04.2 객혈 Hemoptysis
 
 ***
 
