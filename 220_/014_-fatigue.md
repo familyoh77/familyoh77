@@ -53,7 +53,7 @@
 * 반복되는 실신 전조/실신 또는 심한 기립성 증상
 * 의미 있는 객혈 또는 급격히 악화되는 호흡기 증상
 
-<mark style="color:$info;">**Tier 3 - 수일~수주 내 원인 평가 (외래/전문진료)**</mark>
+<mark style="color:$info;">**Tier 3 - 수일\~수주 내 원인 평가 (외래/전문진료)**</mark>
 
 * 설명할 수 없는 체중 감소 : 식단 변화나 운동 없이 6\~12개월 이내 평소 체중의 5% 이상 감소
 * 원인 불명의 발열·야간 발한 또는 비정상적 림프절병증
@@ -61,7 +61,7 @@
 * 진행성 연하곤란 또는 지속·악화되는 소화기 증상
 * 폐경 후 질 출혈
 
-※ 충분한 휴식 후에도 회복되지 않는 피로, 기상 시 심한 피로, 사회적·직업적 기능 저하는 중요한 **임상 단서(clinical clue)**이지만 그 자체로 응급 Red Flag는 아니며, ME/CFS·수면장애·우울증 및 기질질환 평가의 근거로 활용한다.
+※ 충분한 휴식 후에도 회복되지 않는 피로, 기상 시 심한 피로, 사회적·직업적 기능 저하는 중요한 \*\*임상 단서(clinical clue)\*\*이지만 그 자체로 응급 Red Flag는 아니며, ME/CFS·수면장애·우울증 및 기질질환 평가의 근거로 활용한다.
 
 ## <mark style="color:green;">진단</mark>
 
@@ -83,27 +83,6 @@
 ***
 
 ```mermaid
-flowchart LR
-    A[피로] --> B{Red Flag?}
-    B -->|Yes| C[응급도 Tier에 따라 즉각/당일/조기 평가]
-    B -->|No| D{Fatigue vs true Weakness}
-    D -->|Weakness| E[신경근육 질환 평가]
-    D -->|Fatigue| F{주된 phenotype}
-    F --> G[Sleep: OSA / insomnia]
-    F --> H[Mood: depression / anxiety]
-    F --> I[Medication / lifestyle]
-    F --> J[Medical clues: anemia / thyroid / chronic disease]
-    F --> K[Post-exertional: PEM / Long COVID]
-    G --> L[표적 평가 ± baseline 검사]
-    H --> L
-    I --> L
-    J --> L
-    K --> M{PEM + 기능저하 지속?}
-    M -->|Yes| N[ME/CFS / Long COVID pathway]
-    M -->|No| L
-    L --> O[4주 추적 및 missed diagnosis 재평가]
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style N fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
 ```
 
 <p align="center"><strong>피로 평가 알고리듬</strong></p>
@@ -114,7 +93,8 @@ flowchart LR
 
 #### <mark style="color:$primary;">감별 항목 : 'DEAD, TIRED'</mark>
 
-<table><tbody><tr><td><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)</td><td><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</td></tr></tbody></table>
+| <p><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)</p> | <p><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</p> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 * **언제 가장 피곤합니까?**
   * 아침부터 피곤 → 우울, 수면장애, OSA
@@ -142,12 +122,12 @@ flowchart LR
 
 * 피로 환자의 대부분은 검사에서 근육 약화가 없으며, 근육 약화가 있는 경우 신경계 질환 등을 고려
 
-**기본 검사**&#x20;
+**기본 검사**
 
 * **CBC, 혈당/HbA1c, LFT, RFT, TSH, 전해질, U/A**
 * 가임기 여성에서는 UPT(소변 임신 반응 검사)를 기본 검사에 포함
 
-**선택 검사**&#x20;
+**선택 검사**
 
 * **ESR, CRP, ferritin/TSAT, Vit B12, 엽산, Vit D(25(OH)D), free T4, 8\~9 AM cortisol ± ACTH, monospot, ANA, 흉부 X선, 분변 잠혈 검사, 수면검사(HSAT/PSG)**; 복부 초음파 등은 임상적으로 필요할 때 선택
 * CBC에서 빈혈 확인 → ferritin(철결핍성), Vit B12·엽산(거대적아구성), ESR·CRP(만성 질환 빈혈) 순으로 감별
@@ -158,12 +138,12 @@ flowchart LR
 * **Vit D** : 골질환·흡수장애·저칼슘혈증 등 결핍 위험 또는 임상적 적응증이 있을 때 선택적으로 측정하고 확인된 결핍은 교정. 피로 개선만을 목적으로 특정 25(OH)D 목표농도(예: ≥30 ng/㎖)를 설정하지 않음
   * _Ref. Endocrine Society Clinical Practice Guideline, 2024._
 
-**수면 무호흡 선별**&#x20;
+**수면 무호흡 선별**
 
 * 코골이·주간 졸림·무호흡 목격이 동반되면 **STOP-BANG** 시행 (☞ 하단 설문 및 판정 기준 참조)
-* 주간 졸림의 정도는 **Epworth Sleepiness Scale (ESS)**을 병행해 정량화할 수 있음
+* 주간 졸림의 정도는 \*\*Epworth Sleepiness Scale (ESS)\*\*을 병행해 정량화할 수 있음
 
-**우울증 감별**&#x20;
+**우울증 감별**
 
 * 'DEAD, TIRED' 항목 중 우울/불안(Depression/Anxiety) 비중이 높다면 초기부터 PHQ-9 시행
 * PHQ-9 ≥10 → 치료 적극 고려, 5–9 → watchful waiting + 생활 습관 지도 (☞ [우울증](../221_/027_-depression.md#phq-9))
@@ -194,8 +174,7 @@ flowchart LR
 
 * 피로를 주소로 내원한 환자에서 코골이·주간 졸음·무호흡 목격이 동반될 때 시행
 * 8개 항목에 대하여 해당하면 각1점
-* 판정 : 0\~2점=저위험; 3\~4점=중간 위험으로 증상·동반 위험 인자를 이용해 추가 분류하고 객관적 수면검사 여부를 결정; ≥5점=고위험으로 HSAT/PSG 등 객관적 검사 적극 고려
-  ※ S·T·O·P 4개 항목 중 2개 이상 + 남성 또는 BMI ＞35 또는 목둘레 ＞40 ㎝에 해당하는 경우에도 고위험으로 분류할 수 있음. 목둘레 항목 자체의 표준 기준은 성별 구분 없이 ＞40 ㎝임.
+* 판정 : 0\~2점=저위험; 3\~4점=중간 위험으로 증상·동반 위험 인자를 이용해 추가 분류하고 객관적 수면검사 여부를 결정; ≥5점=고위험으로 HSAT/PSG 등 객관적 검사 적극 고려 ※ S·T·O·P 4개 항목 중 2개 이상 + 남성 또는 BMI ＞35 또는 목둘레 ＞40 ㎝에 해당하는 경우에도 고위험으로 분류할 수 있음. 목둘레 항목 자체의 표준 기준은 성별 구분 없이 ＞40 ㎝임.
 * **ESS** : 주간 졸림의 정도를 정량화하는 보조 척도로 병행 가능. 단, STOP-BANG/ESS는 선별 도구이며 확진 검사가 아님.
 
 <table><thead><tr><th width="100">항목</th><th>질문</th></tr></thead><tbody><tr><td><strong>S</strong>noring</td><td>큰 소리로 코를 고십니까? (옆방에서 들릴 정도, 또는 동침자가 팔꿈치로 찌를 정도)</td></tr><tr><td><strong>T</strong>ired</td><td>낮에 자주 피곤하거나 졸리십니까?</td></tr><tr><td><strong>O</strong>bserved</td><td>수면 중 숨이 멎는 것을 다른 사람이 목격한 적이 있습니까?</td></tr><tr><td><strong>P</strong>ressure</td><td>고혈압이 있거나 고혈압 치료를 받고 계십니까?</td></tr><tr><td><strong>B</strong>MI</td><td>BMI가 35를 초과합니까?</td></tr><tr><td><strong>A</strong>ge</td><td>나이가 50세를 초과합니까?</td></tr><tr><td><strong>N</strong>eck</td><td>목둘레가 40 ㎝를 초과합니까?</td></tr><tr><td><strong>G</strong>ender</td><td>남성입니까?</td></tr></tbody></table>
@@ -219,8 +198,7 @@ _Ref. Institute of Medicine/National Academy of Medicine, 2015; CDC ME/CFS._
 
 <table data-header-hidden><thead><tr><th width="127.15789794921875"></th><th width="218.78948974609375"></th><th></th><th></th></tr></thead><tbody><tr><td>항목</td><td><strong>ME/CFS</strong></td><td><strong>우울증</strong></td><td><strong>OSA</strong></td></tr><tr><td>핵심 특징</td><td>PEM (운동 후 지연 악화)</td><td>흥미/의욕 저하</td><td>주간 졸림 + 코골이</td></tr><tr><td>피로 패턴</td><td>활동 후 수시간~수일 뒤 악화</td><td>하루 종일 지속</td><td>아침 피곤 + 낮 졸림</td></tr><tr><td>휴식 후 회복</td><td>없음 (비회복성)</td><td>약간 호전 가능</td><td>없음</td></tr><tr><td>수면</td><td>잤는데도 개운하지 않음</td><td>불면/과다수면 혼재</td><td>수면 질 나쁨 (무호흡)</td></tr><tr><td>주간 졸림</td><td>흔치 않음</td><td>경우에 따라</td><td>매우 흔함</td></tr><tr><td>운동 반응</td><td>하면 악화 (PEM)</td><td>하면 기분 개선 가능</td><td>큰 변화 없음</td></tr><tr><td>기분 증상</td><td>2차적 우울 가능</td><td><strong>핵심 증상</strong></td><td>2차적 우울 가능</td></tr><tr><td>인지 기능</td><td>brain fog 흔함</td><td>집중력 저하</td><td>졸림으로 인한 저하</td></tr><tr><td>자율신경 증상</td><td>Orthostatic intolerance 흔함; 일부에서 POTS 동반</td><td>드묾</td><td>드묾</td></tr><tr><td>동반 힌트</td><td>Long COVID</td><td>스트레스, 삶의 사건</td><td>비만, 큰 목둘레</td></tr></tbody></table>
 
-※ **진료실 POTS 선별(Active Stand Test)** : 5\~10분 앙와위(supine) 안정 후 HR/BP 측정 → 기립 후 1, 3, 5, 8, 10분에 HR/BP 측정. 성인에서 HR이 지속적으로 ≥30 bpm 상승(12\~19세 ≥40 bpm)하고 유의한 기립성 저혈압이 없으면 POTS 가능성을 평가한다. 단, 기립 시 악화되는 증상의 만성 지속(통상 ≥3개월)과 다른 빈맥 원인 배제가 필요함.
-Long COVID 이후 피로·brain fog·어지럼·두근거림이 기립 시 악화되는 환자에서 적극 시행 고려.
+※ **진료실 POTS 선별(Active Stand Test)** : 5\~10분 앙와위(supine) 안정 후 HR/BP 측정 → 기립 후 1, 3, 5, 8, 10분에 HR/BP 측정. 성인에서 HR이 지속적으로 ≥30 bpm 상승(12\~19세 ≥40 bpm)하고 유의한 기립성 저혈압이 없으면 POTS 가능성을 평가한다. 단, 기립 시 악화되는 증상의 만성 지속(통상 ≥3개월)과 다른 빈맥 원인 배제가 필요함. Long COVID 이후 피로·brain fog·어지럼·두근거림이 기립 시 악화되는 환자에서 적극 시행 고려.
 
 {% hint style="danger" %}
 **흔한 진단 오류 (Pitfalls)**
@@ -347,7 +325,7 @@ Long COVID 이후 피로·brain fog·어지럼·두근거림이 기립 시 악�
 >
 > * 충분히 쉬어도 피로가 4주 이상 지속되는 경우
 > * 피로와 함께 체중 감소, 발열, 식은땀, 림프절 비대가 동반되는 경우
-> * 가벼운 신체적·인지적 활동 후 수 시간~수일 뒤 증상이 비정상적으로 악화되고 회복이 지연되는 경우(PEM)
+> * 가벼운 신체적·인지적 활동 후 수 시간\~수일 뒤 증상이 비정상적으로 악화되고 회복이 지연되는 경우(PEM)
 > * 원인에 맞는 치료를 시행했는데도 피로가 지속되거나 악화되는 경우
 
 ***
@@ -403,5 +381,5 @@ Long COVID 이후 피로·brain fog·어지럼·두근거림이 기립 시 악�
 * 충분히 쉬어도 피로가 4주 이상 지속되는 경우
 * 피로와 함께 체중 감소, 발열, 식은땀, 림프절 비대가 동반되는 경우
 * 우울감, 무기력감, 의욕 저하가 함께 오는 경우
-* 가벼운 신체적·인지적 활동 후 수 시간~수일 뒤 증상이 비정상적으로 악화되고 회복이 지연되는 경우(PEM)
+* 가벼운 신체적·인지적 활동 후 수 시간\~수일 뒤 증상이 비정상적으로 악화되고 회복이 지연되는 경우(PEM)
 {% endhint %}
