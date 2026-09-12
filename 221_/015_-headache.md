@@ -47,7 +47,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치**</mark>
+<mark style="color:$danger;">**즉각 응급 조치 및 이송**</mark>
 
 * **벼락두통(thunderclap headache)** : 갑작스럽게 시작하여 **1분 미만에 최대 강도에 도달**하는 심한 두통 → SAH뿐 아니라 RCVS, CVST, 뇌동맥박리, 뇌내출혈, pituitary apoplexy 등 이차성 원인 긴급 배제
 * 발열과 함께 경부 강직, 의식 변화, 점상·자반성 발진, 면역저하 등이 동반되는 경우 → 수막염·뇌염 의심
@@ -57,7 +57,7 @@
 * 임신 중 또는 산후 새로 발생한 심한 두통에 혈압 상승, 시각 증상, 경련, 의식 변화 또는 국소 신경학적 결손이 동반 → 자간전증/자간증, CVST, RCVS 등 즉시 감별
 * ＞50세의 새 두통에 일시적 시력상실·복시 등 시각 증상이 동반 → 거대세포동맥염(GCA) 의심; 즉시 안과/신경과 평가하며 검사 결과를 기다리느라 스테로이드 치료를 지연하지 않음
 
-<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일 또는 조기 긴급 평가**</mark>
 
 * ＞50세의 새 두통에 **jaw claudication, 두피/측두동맥 압통 등**이 동반 → 거대세포동맥염(GCA) 우선 배제 및 ESR/CRP 측정; 임상적으로 강하게 의심되면 검사 결과를 기다리느라 스테로이드 치료를 지연하지 않음
 * 기침·발살바 조작·운동·성행위로 새로 유발되는 두통
@@ -67,7 +67,7 @@
 * 임신 중 또는 산후 새로 발생한 두통(상기 응급 위험 징후가 없는 경우) → 자간전증, CVST, RCVS, pituitary 병변 등 감별
 * 새로 발생하거나 기존과 다른 국소 신경학적 증상, 처음부터 최대 강도로 시작하는 신경학적 증상, 완전히 회복되지 않는 결손, 또는 비전형적으로 장시간 지속되는 조짐(운동마비·단안 시력소실·의식 변화 등 포함) → 뇌졸중/TIA 등 이차성 원인 우선 감별
 
-<mark style="color:$info;">**조기 평가 및 추적**</mark>
+<mark style="color:$info;">**외래 추적 / 추가 평가 계획 (수일 내 외래)**</mark>
 
 * 두통 양상의 상당한 변화 또는 점진적 악화
 * ＞50세에서 새로 발생한 두통(상기 GCA/신경학적 위험 징후가 없는 경우) → 가능한 조기에 진찰하고 ESR/CRP 등 평가 계획
@@ -117,19 +117,11 @@
 
 _<mark style="color:$info;">Ref. 대한두통학회. 편두통 예방치료 약제 진료지침. 2021. 부록</mark>_
 
-_<mark style="color:$info;">HIT-6™ © 2001 QualityMetric Incorporated and the GlaxoSmithKline Group of Companies. 공식 사용권 정보:</mark>_ [_<mark style="color:$info;">ePROVIDE</mark>_](https://eprovide.mapi-trust.org/instruments/headache-impact-test)
+_<mark style="color:$info;">HIT-6™ © 2001 QualityMetric Incorporated and the GlaxoSmithKline Group of Companies. 공식 사용권 정보: [ePROVIDE](https://eprovide.mapi-trust.org/instruments/headache-impact-test)</mark>_
 
 ### <mark style="color:orange;">감별</mark>
 
-| 두통 특성                              | 우선 고려 진단                                                 |
-| ---------------------------------- | -------------------------------------------------------- |
-| 양측·압박감, 경증\\\~중등도, 구역·구토 없음        | [긴장형두통](017_-tension-type-headache-ttha.md)              |
-| 편측 또는 양측·박동성, 구역/빛·소리공포, 4\\\~72시간 | [편두통](016_-migraine.md)                                  |
-| ≥15일/월, >3개월 지속                    | [만성 두통](018_-chronic-headache.md) - 만성편두통·만성긴장형두통·MOH 감별 |
-| 편측·극심, 눈 주변, 눈물/콧물, 15\\\~180분     | 군발두통                                                     |
-| 단측, 경부 움직임으로 유발, ROM 감소            | [경추성두통](019_-cervicogenic-headache.md)                   |
-| 갑작스럽게 시작하여 1분 미만에 최고조              | 벼락두통 → SAH/RCVS 등 즉각 응급 평가                               |
-| 발열과 경부 강직·의식 변화·점상 또는 자반성 발진 등     | 수막염·뇌염 → 즉각 응급                                           |
+<table><thead><tr><th>두통 특성</th><th>우선 고려 진단</th></tr></thead><tbody><tr><td>양측·압박감, 경증\~중등도, 구역·구토 없음</td><td><a href="017_-tension-type-headache-ttha.md">긴장형두통</a></td></tr><tr><td>편측 또는 양측·박동성, 구역/빛·소리공포, 4\~72시간</td><td><a href="016_-migraine.md">편두통</a></td></tr><tr><td>≥15일/월, &gt;3개월 지속</td><td><a href="018_-chronic-headache.md">만성 두통</a> - 만성편두통·만성긴장형두통·MOH 감별</td></tr><tr><td>편측·극심, 눈 주변, 눈물/콧물, 15\~180분</td><td>군발두통</td></tr><tr><td>단측, 경부 움직임으로 유발, ROM 감소</td><td><a href="019_-cervicogenic-headache.md">경추성두통</a></td></tr><tr><td>갑작스럽게 시작하여 1분 미만에 최고조</td><td>벼락두통 → SAH/RCVS 등 즉각 응급 평가</td></tr><tr><td>발열과 경부 강직·의식 변화·점상 또는 자반성 발진 등</td><td>수막염·뇌염 → 즉각 응급</td></tr></tbody></table>
 
 <table><thead><tr><th width="104">두통 특성</th><th width="155">긴장형두통</th><th>편두통</th><th>군발두통</th></tr></thead><tbody><tr><td><strong>통증 부위</strong>¹⁾</td><td>양측</td><td>편측 또는 양측</td><td>엄격한 편측 안와·안와상부 및/또는 측두부</td></tr><tr><td><strong>통증 양상</strong></td><td>압박감/조임(비박동성)</td><td>박동성</td><td>극심한 piercing/burning; 초조(agitation) 동반</td></tr><tr><td><strong>통증 세기</strong></td><td>경증\~중등증</td><td>중등증 이상</td><td>중증 이상</td></tr><tr><td><strong>생활에 미치는 영향</strong></td><td>일상 신체 활동에 의해 악화되지 않음</td><td>일상 신체 활동에 의하여 악화되거나 활동을 회피하게 됨</td><td>초조 또는 동요</td></tr><tr><td><strong>기타 증상</strong></td><td>구역·구토 없음; photophobia 또는 phonophobia 중 하나는 동반 가능</td><td>빛 &#x26;/or 소리에 대한 과민, 구역 &#x26;/or 구토, 조짐(aura)²⁾: 완전히 가역적인 시각·감각·언어 등의 증상으로, 대개 점진적으로 발생하며 각 비운동 조짐 증상은 보통 5\~60분 지속됨</td><td>두통이 발생한 쪽에서 •결막충혈 &#x26;/or 눈물 •코막힘 &#x26;/or 콧물 •눈꺼풀부종 •이마와 얼굴의 땀 •동공수축 &#x26;/or 눈꺼풀 처짐</td></tr><tr><td><strong>두통 지속 시간</strong></td><td>30분\~7일</td><td>4\~72시간</td><td>치료하지 않았을 때 15\~180분</td></tr></tbody></table>
 
@@ -187,7 +179,7 @@ _<mark style="color:$info;">Ref. Dodick. Diagnosing secondary and primary headac
 
 ***
 
-<figure><img src="../.gitbook/assets/두통3.JPG" alt="두통 진단 알고리듬"><figcaption><p>두통 진단 알고리듬</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/두통3.JPG" alt="두통 진단 알고리듬"><figcaption>두통 진단 알고리듬</figcaption></figure>
 
 ***
 
@@ -210,7 +202,7 @@ _<mark style="color:$info;">Ref. Dodick. Diagnosing secondary and primary headac
 
 * 군발두통은 통증이 매우 심하고 발작 빈도가 높아 진단 시 신경과/두통 전문진료를 고려
 * 급성 발작 : **100% 산소**(비재호흡 마스크, ≥12 L/min, 15\~20분) 또는 **sumatriptan 6 ㎎ SC** 중 하나를 1차 치료로 선택. Sumatriptan 피하주사 제형은 2026년 기준 국내 미출시
-* 예방 : \*\*verapamil <mark style="color:blue;">\[이솦틴]</mark>\*\*이 대표적 1차 예방약(국내 허가 외 사용; 급여 여부 별도 확인); 심전도 모니터링과 단계적 증량이 필요하므로 전문진료 권장 (☞ 처방례 참조)
+* 예방 : **verapamil <mark style="color:blue;">\[이솦틴]</mark>**이 대표적 1차 예방약(국내 허가 외 사용; 급여 여부 별도 확인); 심전도 모니터링과 단계적 증량이 필요하므로 전문진료 권장 (☞ 처방례 참조)
 * 예방약 효과가 나타나기 전(대개 1\~2주)에는 후두하 스테로이드 주사 또는 단기 경구 스테로이드(prednisolone 등)를 이행기 치료로 병행할 수 있음
 * 세부 치료는 환자 특성·금기·국내 허가/급여를 확인하여 결정
 
