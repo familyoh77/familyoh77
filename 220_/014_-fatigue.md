@@ -4,8 +4,9 @@
 
 * 피로 : 육체적·정신적 활력 저하, 힘듦, 기진맥진 상태로, 활동을 시작하거나 유지하기 어렵고 쉽게 처지는 증상
 * 1차 진료에서 매우 흔한 증상이지만 원인이 명확하지 않은 경우가 많으며, 심리적·생활 습관적 요인부터 내과적 기질 질환까지 원인 범위가 넓음
-* 지속 기간에 따라 급성(＜1개월), 아급성(1\~6개월), 만성(＞6개월)으로 구분하며, 아급성·만성 피로에서는 우울·불안, 갑상선 질환, 빈혈, 수면 장애, 악성 종양 등을 체계적으로 감별 ('DEAD, TIRED' 항목 참조)
-* 대부분의 경우 무분별한 실험실 검사는 진단적 가치가 낮으나, 병력·진찰상 명확한 원인이 없을 경우 최소한의 baseline 검사(CBC, TSH, 혈당 등)를 초기에 1회 시행하는 것이 안전하며, 이후 반복 검사는 최소화한다
+* 지속 기간에 따라 급성(＜1개월), 아급성(1\~6개월), 만성(＞6개월)으로 구분
+  * 아급성·만성 피로에서는 우울·불안, 갑상선 질환, 빈혈, 수면 장애, 악성 종양 등을 감별해야 함
+* 대부분의 경우 실험실 검사는 진단적 가치가 낮음. 단, 병력·진찰상 명확한 원인이 없을 경우 최소한의 baseline 검사(CBC, TSH, 혈당 등)를 초기에 1회 시행하는 것이 안전하며, 이후 반복 검사는 최소화함
 * 충분한 휴식 후에도 회복되지 않는 피로, 아침 기상 시부터 느끼는 심한 피로감, 사회적·직업적 기능 장애를 동반한 피로는 만성피로증후군 또는 기질 질환의 가능성을 시사
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -22,38 +23,37 @@
 
 #### <mark style="color:$primary;">아급성 (1\~6개월), 만성 (＞6개월)</mark>
 
-* **인구학적 위험 인자** : 고령, 여성
-* **생활 습관/환경** : 지나친 활동 또는 비활동, 비만, 영양 결핍(비건·채식 식이의 경우 Vit B12 결핍 위험), 만성적 수면 부족, 음주, 흡연
-* **임신** : 가임기 여성에서 피로의 가장 흔하고 중요한 원인 중 하나; 초기 임신에서 특히 두드러짐
-* **만성피로증후군(ME/CFS)**
-* **심장/호흡기** : CHF, COPD, 폐쇄수면무호흡증
-* **내분비/대사** : 갑상선저하증/항진증, 부신피질기능저하증(Addison's disease; Na↓·K↑·색소침착 동반 시 의심), 만성 신/간질환, Na↓, Ca↑
-* **혈액/종양** : 빈혈(철결핍성·만성 질환성·거대적아구성), 악성 종양
-* **감염** : 단핵구증후군, 바이러스 간염, HIV 감염, 아급성 심내막염, 결핵, Long COVID(Post-COVID condition; SARS-CoV-2 감염 후 발생·지속하며 약 3개월 이상 이어지는 증상군으로 피로·PEM·인지 저하·호흡곤란·수면장애·기립성 증상 등이 흔함)
-  * _Ref. National Academies of Sciences, Engineering, and Medicine (NASEM), 2024; CDC Long COVID Clinical Overview._
-* **자율신경 이상(POTS)** : 기립 후 10분 이내 지속적 심박수 증가 ≥30 bpm(12\~19세 ≥40 bpm), 유의한 기립성 저혈압 없이 기립 시 악화되는 증상이 통상 ≥3개월 지속되고 빈혈·탈수·발열·갑상선항진증·약물 등 다른 빈맥 원인이 배제될 때 의심; Long COVID 이후 기립성 증상 동반 시 간과하지 않음
-  * _Ref. Sheldon RS et al. Heart Rhythm 2015; Raj SR et al. Can J Cardiol 2020. 과거 일부 연구 기준에서는 증상 지속 ≥6개월을 사용함._
-* **류마티스** : 섬유근육통, polymyalgia rheumatica
-* **정신** : 우울, 불안, 신체화장애
-* **약물/치료** : 항우울제, 항불안제, 항정신병제, 근이완제, 항경련제, 1세대 항히스타민제, β-차단제, 마약성 진통제(opioids), 항콜린성 약물, statin(근육통 동반 여부 확인), 이뇨제(탈수·기립성 저혈압·저Na/저K), PPI 장기 복용(Vit B12·Mg 결핍), metformin(Vit B12 결핍), 세포독성 항암제·일부 표적치료제·면역관문억제제
+* 인구학적 위험 인자 : 고령, 여성
+* 생활 습관/환경 : 지나친 활동 또는 비활동, 비만, 영양 결핍(비건·채식 식이의 경우 Vit B12 결핍 위험), 만성적 수면 부족, 음주, 흡연
+* 임신 : 가임기 여성에서 피로의 가장 흔하고 중요한 원인 중 하나; 초기 임신에서 특히 두드러짐
+* 만성피로증후군(ME/CFS)
+* 심장/호흡기 : CHF, COPD, 폐쇄수면무호흡증
+* 내분비/대사 : 갑상선저하증/항진증, 부신피질기능저하증(Addison's disease; Na↓·K↑·색소침착 동반 시 의심), 만성 신/간질환, Na↓, Ca↑
+* 혈액/종양 : 빈혈(철결핍성·만성 질환성·거대적아구성), 악성 종양
+* 감염 : 단핵구증후군, 바이러스 간염, HIV 감염, 아급성 심내막염, 결핵, Long COVID\*
+  * _\*Post-COVID condition : SARS-CoV-2 감염 후 발생·지속하며 약 3개월 이상 이어지는 증상군으로 피로·PEM·인지 저하·호흡곤란·수면장애·기립성 증상 등이 흔함_
+* 자율신경 이상([POTS](../221_/021_-syncope.md#postural-orthostatic-tachycardia-syndrome-pots)) : 기립 후 10분 이내 지속적 심박수 증가 ≥30 bpm(12\~19세 ≥40 bpm), 유의한 기립성 저혈압 없이 기립 시 악화되는 증상이 통상 ≥3개월 지속되고 빈혈·탈수·발열·갑상선항진증·약물 등 다른 빈맥 원인이 배제될 때 의심; Long COVID 이후 기립성 증상 동반 시 유념해야 함
+* 류마티스 : 섬유근육통, polymyalgia rheumatica
+* 정신 : 우울, 불안, 신체화장애
+* 약물/치료 : 항우울제, 항불안제, 항정신병제, 근이완제, 항경련제, 1세대 항히스타민제, β-차단제, 마약성 진통제(opioids), 항콜린성 약물, statin(근육통 동반 여부 확인), 이뇨제(탈수·기립성 저혈압·저Na/저K), PPI 장기 복용(Vit B12·Mg 결핍), metformin(Vit B12 결핍), 세포독성 항암제·일부 표적치료제·면역관문억제제
   * 면역관문억제제 치료 중 새 피로는 단순 약물 부작용뿐 아니라 갑상선기능장애·뇌하수체염·부신기능저하증 등 immune-related adverse event 가능성도 평가
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**Tier 1 - 즉각 응급 조치 및 이송**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 새로 발생한 국소 신경학적 결손 또는 의식 변화 : 마비·감각 저하·언어장애·보행 장애 등
 * 지속되는 심한 흉통 또는 중증 호흡곤란, 실신·저혈압 등 혈역학적 불안정
 * 활동성 중증 출혈 : 대량 토혈·혈변/흑색변·객혈과 함께 어지럼·실신·빈맥·저혈압 등 순환기 불안정 소견
 
-<mark style="color:$warning;">**Tier 2 - 당일 또는 수 시간 내 긴급 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 새로 발생하거나 빠르게 악화되는 운동성 흉통·호흡곤란, 저산소증 또는 심폐 질환이 의심되는 증상
 * 병색이 뚜렷하거나 지속성 고열 등 중증 감염·전신질환이 의심되는 경우
 * 반복되는 실신 전조/실신 또는 심한 기립성 증상
 * 의미 있는 객혈 또는 급격히 악화되는 호흡기 증상
 
-<mark style="color:$info;">**Tier 3 - 수일\~수주 내 원인 평가 (외래/전문진료)**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 설명할 수 없는 체중 감소 : 식단 변화나 운동 없이 6\~12개월 이내 평소 체중의 5% 이상 감소
 * 원인 불명의 발열·야간 발한 또는 비정상적 림프절병증
@@ -61,7 +61,7 @@
 * 진행성 연하곤란 또는 지속·악화되는 소화기 증상
 * 폐경 후 질 출혈
 
-※ 충분한 휴식 후에도 회복되지 않는 피로, 기상 시 심한 피로, 사회적·직업적 기능 저하는 중요한 \*\*임상 단서(clinical clue)\*\*이지만 그 자체로 응급 Red Flag는 아니며, ME/CFS·수면장애·우울증 및 기질질환 평가의 근거로 활용한다.
+※ 충분한 휴식 후에도 회복되지 않는 피로, 기상 시 심한 피로, 사회적·직업적 기능 저하는 중요한 임상 단서(clinical clue)이지만 그 자체로 응급 Red Flag는 아니며, ME/CFS·수면장애·우울증 및 기질질환 평가의 근거로 활용한다.
 
 ## <mark style="color:green;">진단</mark>
 
@@ -83,11 +83,34 @@
 ***
 
 ```mermaid
+flowchart TD
+    A[피로] --> B[Red Flag?]
+    B -->|Yes| C[응급도 Tier에 따라 <br/>즉각/당일/조기 평가]
+    B -->|No| D[<b>Fatigue vs true Weakness</b>]
+    D -->|Weakness| E[신경근육 질환 평가]
+    D --->|Fatigue| F[주된 phenotype]
+    F --> G[Sleep: <br/>OSA <br/>/ insomnia]
+    F --> H[Mood: <br/>depression <br/>/ anxiety]
+    F --> I[Medication <br/>/ lifestyle]
+    F --> J[Medical clues: <br/>anemia / thyroid <br/>/ chronic disease]
+    F --> K[Post-exertional: <br/>PEM / Long COVID]
+    G --> L[표적 평가 ± baseline 검사]
+    H --> L
+    I --> L
+    J --> L
+    K --> M[PEM + 기능저하 지속?]
+    M -->|Yes| N[ME/CFS <br/>/ Long COVID pathway]
+    M -->|No| L
+    L --> O[4주 추적 및 <br/>missed diagnosis 재평가]
+    style C fill:#f96,stroke:#e65100,stroke-width:2px
+    style N fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D,F,M yellow
 ```
 
 <p align="center"><strong>피로 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 저자 정리 (진단 단계 Step 1\~5 기준)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성</mark></em></p>
 
 ***
 
@@ -141,7 +164,7 @@
 **수면 무호흡 선별**
 
 * 코골이·주간 졸림·무호흡 목격이 동반되면 **STOP-BANG** 시행 (☞ 하단 설문 및 판정 기준 참조)
-* 주간 졸림의 정도는 \*\*Epworth Sleepiness Scale (ESS)\*\*을 병행해 정량화할 수 있음
+* 주간 졸림의 정도는 Epworth Sleepiness Scale (ESS)을 병행해 정량화할 수 있음
 
 **우울증 감별**
 
