@@ -36,7 +36,7 @@
 * 류마티스 : 섬유근육통, polymyalgia rheumatica
 * 정신 : 우울, 불안, 신체화장애
 * 약물/치료&#x20;
-  * 중추신경 진정/억제 : 항우울제, 항불안제, 항정신병제, 근이완제, 항경련제, 1세대 항히스타민제, 마약성 진통제(opioids), 항콜린성 약물
+  * 중추신경 진정/억제 : 항우울제, 항불안제, 항정신병제, 근이완제, 항경련제, 1세대 항히스타민제, 마약성 진통제(opioids), 항콜린제
   * 심혈관/체액·전해질 : β-차단제, 이뇨제(탈수·기립성 저혈압·저Na/저K)
   * 대사·영양소 결핍 유발 : statin(근육통 동반 여부 확인), PPI 장기 복용(Vit B12·Mg 결핍), metformin(Vit B12 결핍)
   * 항암 치료 관련 : 세포독성 항암제·일부 표적치료제·면역관문억제제
@@ -99,8 +99,7 @@
 
 #### <mark style="color:$primary;">감별 항목 : 'DEAD, TIRED'</mark>
 
-| <p><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)</p> | <p><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</p> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table data-header-hidden><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>D</strong>epression<br><strong>E</strong>nvironment/Lifestyle<br><strong>A</strong>nxiety, Anemia<br><strong>D</strong>rugs (Alcohol)</td><td><strong>T</strong>hyroid, Tumors<br><strong>I</strong>nfection, Insomnia<br><strong>R</strong>heumatologic<br><strong>E</strong>ndocarditis/Cardiovascular<br><strong>D</strong>iabetes/Endocrine</td></tr></tbody></table>
 
 * **언제 가장 피곤합니까?**
   * 아침부터 피곤 → 우울, 수면장애, OSA
@@ -151,7 +150,7 @@
 
 <mark style="color:cyan;">**수면 무호흡 선별**</mark>
 
-* 코골이·주간 졸림·무호흡 목격이 동반되면 아래 'STOP-BANG' 설문시행
+* 코골이·주간 졸림·무호흡 목격이 동반되면 아래 'STOP-BANG' 설문 시행
 * 주간 졸림의 정도는 'Epworth Sleepiness Scale(ESS)'을 병행해 정량화할 수 있음
 
 <mark style="color:cyan;">**우울증 감별**</mark>
@@ -183,7 +182,7 @@
 <mark style="color:cyan;">**ESS (엡워스졸림척도)**</mark>&#x20;
 
 * 주간 졸림의 정도를 정량화하는 보조 척도로 병행 가능(☞ [한국형 자가평가](https://www.sleep.or.kr/html/?pmode=sleepiness))
-* STOP-BANG와ESS는 선별 도구이며 확진 검사가 아님
+* STOP-BANG와 ESS는 선별 도구이며 확진 검사가 아님
 
 #### <mark style="color:$primary;">만성피로증후군(ME/CFS) 감별</mark>
 
@@ -249,10 +248,6 @@ class B,D,F,M yellow
 
 ***
 
-
-
-
-
 ## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -301,7 +296,7 @@ class B,D,F,M yellow
 ### <mark style="color:red;">질병코드</mark>
 
 * R53 병감 및 피로 Malaise and fatigue
-* G93.3 바이러스후피로증후군 Postviral fatigue syndrome&#x20;
+* G93.3 바이러스후피로증후군 Postviral fatigue syndrome (근통성 뇌척수염 포함; ME/CFS 진단 시 참고)
 
 ***
 
@@ -314,7 +309,7 @@ class B,D,F,M yellow
 > (결핍 치료 후 유지: 25,000 IU 1T q4wk; 결핍 위험이 높으면 환자별 조정)
 > ```
 >
-> ※ 국내 허가사항 기준 성인 비타민 D 결핍치료 용량. 유지요법 시작 후 약 3\~4개월에 25(OH)D를 확인하여 조정. 피로 개선만을 위한 특정 목표농도 설정은 권하지 않음.
+> _✽국내 허가사항 기준 성인 비타민 D 결핍치료 용량. 유지요법 시작 후 약 3\~4개월에 25(OH)D를 확인하여 조정. 피로 개선만을 위한 특정 목표농도 설정은 권하지 않음._
 
 > **처방례 2.** Vit D 결핍 - 흡수장애 등으로 주사제가 필요한 성인
 >
@@ -322,7 +317,7 @@ class B,D,F,M yellow
 > 바이타디주300,000IU 1앰플 IM 1회
 > ```
 >
-> ※ 국내 허가상 흡수장애가 있는 비타민 D 결핍증 위험이 높은 성인의 예방·치료에 사용. 25(OH)D와 혈청 칼슘을 확인하여 투여하며 연간 총 투여량은 600,000 IU를 넘지 않도록 함.
+> _✽국내 허가상 흡수장애가 있는 비타민 D 결핍증 위험이 높은 성인의 예방·치료에 사용. 25(OH)D와 혈청 칼슘을 확인하여 투여하며 연간 총 투여량은 600,000 IU를 넘지 않도록 함._
 
 > **처방례 3.** 철결핍성 빈혈 동반 피로 (☞ 철결핍빈혈 [처방례](../230_/193_-iron-deficiency-anemia.md) 참조)
 >
@@ -335,7 +330,7 @@ class B,D,F,M yellow
 >
 > B12 결핍의 원인·중증도와 흡수장애 여부에 따라 경구 또는 주사 보충을 선택한다. 구체적인 교정 요법은 ☞ [빈혈 - Vit B12 결핍](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency) 처방례를 따른다.
 >
-> ※ 국내 mecobalamin 500 μg 제제는 제품별 허가 효능이 B12 결핍 치료와 일치하지 않을 수 있으므로, 피로 챕터에서는 특정 상품명 처방을 제시하지 않고 원인 질환 챕터의 표준 보충요법을 적용한다.
+> _✽국내 mecobalamin 500 μg 제제는 제품별 허가 효능이 B12 결핍 치료와 일치하지 않을 수 있으므로, 피로 챕터에서는 특정 상품명 처방을 제시하지 않고 원인 질환 챕터의 표준 보충요법을 적용한다._
 
 > **처방례 5.** 우울 동반 피로 (☞ 우울증 [처방례](../221_/027_-depression.md) 참조)
 
