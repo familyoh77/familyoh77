@@ -26,6 +26,22 @@
 * 두통의 2차 원인 감별을 위한 [SNNOOP10](015_-headache.md#id-2-snnoop10-red-flags)
 
 ```mermaid
+flowchart TD
+    A["두통 ≥15일/월<br/>≥3개월"] --> B{"Red flag 또는<br/>최근 발생·양상 변화?"}
+    B -- "예" --> C["2차성 두통 우선 평가<br/>필요 시 영상·검사·의뢰"]
+    B -- "아니오" --> D{"급성기/대증 두통약<br/>과용 기준 충족?"}
+    D -- "예" --> E["MOH 진단<br/>기저 원발두통도 함께 평가"]
+    D -- "아니오" --> F{"시작 시점 명확 +<br/>24시간 이내 지속·중단 없는 두통?"}
+    E --> E1{"매일두통 시작이<br/>약물과용보다 명확히 선행?"}
+    E1 -- "예" --> G["NDPH + MOH 병존 진단<br/>2차 원인 배제"]
+    E1 -- "아니오" --> H{"항상 편측 지속통 +<br/>동측 자율신경 증상/초조?"}
+    F -- "예" --> G1["NDPH 고려<br/>2차 원인 배제"]
+    F -- "아니오" --> H
+    H -- "예" --> I["Hemicrania continua 고려<br/>indomethacin 완전반응 확인"]
+    H -- "아니오" --> J{"수면 중에만 발생하여<br/>잠에서 깨게 함?"}
+    J -- "예" --> K["Hypnic headache 고려<br/>이차성 야간두통 원인 배제"]
+    J -- "아니오" --> L["Chronic migraine vs<br/>Chronic tension-type headache"]
+
 ```
 
 <p align="center"><strong>만성 두통 감별 알고리듬</strong></p>
@@ -71,27 +87,27 @@ B. ＞3개월 지속되며, 중등도 이상의 악화기(exacerbation)를 동�
 
 C. 다음 중 하나 이상 해당
 
-⑴ 두통과 동측으로 다음 중 ≥1가지 존재
+1. 두통과 동측으로 다음 중 ≥1가지 존재
+   1. 결막 충혈 &/or 눈물
+   2. 코 막힘 &/or 콧물
+   3. 눈꺼풀 부종
+   4. 이마 및 안면 발한
+   5. 동공 축소 &/or 눈꺼풀 처짐
+2. 안절부절, 초조, 또는 움직임에 의해 통증 악화
 
-⓵ 결막 충혈 &/or 눈물\
-⓶ 코 막힘 &/or 콧물\
-⓷ 눈꺼풀 부종\
-⓸ 이마 및 안면 발한\
-⓹동공 축소 &/or 눈꺼풀 처짐
-
-⑵ 안절부절, 초조, 또는 움직임에 의해 통증 악화
-
-D. 치료 용량의 indomethacin에 절대적으로 반응함<sup>1)</sup>
+D. 치료 용량의 indomethacin에 절대적으로 반응함<sup>\*</sup>
 
 E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
-> ¹⁾_ICHD-3의 성인 치료 용량은 경구 indomethacin ≥150 ㎎/d이며 필요 시 225 ㎎/d까지 증량함. 실제 임상에서는 위장관·신장 부작용을 줄이기 위해 25 ㎎ tid에서 시작하여 단계적으로 증량할 수 있으나, 저용량에서의 불충분한 반응만으로 indomethacin 무반응으로 판단하지 않음. 완전 반응 확인 후 최소 유효 용량으로 감량_
+> \*_ICHD-3의 성인 치료 용량은 경구 indomethacin ≥150 ㎎/d이며 필요 시 225 ㎎/d까지 증량함. 실제 임상에서는 위장관·신장 부작용을 줄이기 위해 25 ㎎ tid에서 시작하여 단계적으로 증량할 수 있으나, 저용량에서의 불충분한 반응만으로 indomethacin 무반응으로 판단하지 않음. 완전 반응 확인 후 최소 유효 용량으로 감량_
 
 ### <mark style="color:orange;">발작 지속시간에 따른 감별 - ＜4시간</mark>
 
 * 종류 : Chronic cluster headache, Chronic paroxysmal hemicrania, Hypnic headache, Primary stabbing headache, Short-lasting unilateral neuralgiform headache attacks
 
-_※ 만성 군발두통과 만성 발작성반두통에서 ‘만성’은 이 챕터의 ≥15일/월·＞3개월 기준과 다름. 각 질환의 발작이 관해기간 없이, 또는 관해기간이 ＜3개월인 상태로 최소 1년간 지속되는 경우를 의미 \[ICHD-3]_
+{% hint style="info" %}
+만성 군발두통과 만성 발작성반두통에서 '만성'은 이 챕터가 쓰는 빈도·기간 기준(≥15일/월, ＞3개월)과는 다른 개념. 두 질환은 발작기(bout)와 관해기가 반복되는 구조이며, 발작기 중에는 하루 수 회 발작이 나타나 오히려 ≥15일/월 기준을 쉽게 넘길 수 있음. 따라서 만성형 여부는 한 달 발생일수가 아니라 관해기의 유무·길이로 정의됨 - 관해기가 전혀 없거나 있어도 ＜3개월인 상태가 최소 1년간 지속되면 만성형(반대로 관해기가 ≥3개월이면 삽화성)\[ICHD-3]
+{% endhint %}
 
 #### <mark style="color:$primary;">수면두통 (Hypnic headache)</mark>
 
@@ -117,7 +133,9 @@ F. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1,2)</sup>
 > ¹⁾_효과적인 치료를 위하여 삼차자율신경두통들(군발두통)과의 감별이 필요_\
 > ²⁾_수면 중 발생하여 잠에서 깨어나게 하는 두통의 다른 가능한 원인들(예: 수면무호흡증, 야간 고혈압, 저혈당, 약물과용, 두개내질환)을 감별. 폐쇄수면무호흡증이 병존한다는 사실만으로 수면두통이 배제되지는 않으며 두통과의 인과관계를 평가_
 
-※ **주의 - 이차성 원인 배제 후 진단 :** 50세 이후 처음 발생하는 수면 중 두통은 두개내종양, 폐쇄수면무호흡증(OSA), 야간 고혈압, 저혈당, 약물과용 등을 우선 평가. 새로 발생한 야간 두통에서는 이차성 두개내병변 배제를 위해 뇌 MRI를 적극 고려
+{% hint style="warning" %}
+**주의 - 이차성 원인 배제 후 진단 :** 50세 이후 처음 발생하는 수면 중 두통은 두개내종양, 폐쇄수면무호흡증(OSA), 야간 고혈압, 저혈당, 약물과용 등을 우선 평가. 새로 발생한 야간 두통에서는 이차성 두개내병변 배제를 위해 뇌 MRI를 적극 고려
+{% endhint %}
 
 ## <mark style="color:green;">2차성 두통</mark>
 
@@ -133,10 +151,10 @@ F. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1,2)</sup>
 ### <mark style="color:orange;">약물과용두통 (Medication overuse headache, MOH)</mark>
 
 * 기존 원발두통 환자에서 ≥15일/월 두통이 있으면서, 급성기·대증 치료 약제를 ＞3개월 동안 다음 기준 이상 과용하면 약물과용두통을 고려
-  * 한 달에 ≥10일 : triptan, opioid, ergotamine, 복합진통제
-  * 한 달에 ≥15일 : acetaminophen, aspirin, NSAID 등 단순진통제
+  * 다음 약제를 한 달에 ≥10일 복용 : triptan, opioid, ergotamine, 복합진통제
+  * 다음 약제를 한 달에 ≥15일 복용: acetaminophen, aspirin, NSAID 등 단순진통제
   * 한 달에 합계 ≥10일 : 여러 약물군을 번갈아 사용하여 개별 약물군은 과용 기준에 미달하더라도 전체 급성기·대증 약물 사용일수가 기준을 충족하는 경우
-* MOH는 기저 원발두통을 대체하는 진단이 아니며, 만성 편두통·긴장형두통 등과 각각의 기준을 충족하면 함께 진단
+* MOH는 기저 원발두통을 대체하는 개념이 아니며, 만성 편두통·긴장형두통 등과 각각의 기준을 충족하면 함께 진단
 
 #### <mark style="color:$primary;">진단 기준</mark>
 
@@ -157,7 +175,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 생활 치료 : 수면 개선, 규칙적 유산소 운동, 스트레스 관리, 두통 일지 작성
-* 유발 요인 제거, [만성 편두통](016_-migraine.md#management) 또는 만성 [긴장형두통](017_-tension-type-headache-ttha.md#management) 치료
+* 유발 요인 제거, 만성 편두통 또는 만성 긴장형두통 치료
 * 불안·우울 등 정신건강 문제 동반 시 병행 치료
 * 스테로이드 사용 주의
   * 만성 두통에서 low cortisol에 근거한 장기 steroid 대체 요법은 근거 수준이 낮으며 EHF·AAN 가이드라인의 일반적 권고가 아님
@@ -165,19 +183,21 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">신생매일지속두통 (NDPH)</mark>
 
-* 양질의 무작위시험 근거가 부족하고 치료 반응이 제한적인 경우가 많음; 편두통형 또는 긴장형 양상에 따라 해당 예방치료를 준용하는 phenotype-guided 치료가 일반적임
+* 양질의 무작위시험 근거가 부족하고 치료 반응이 제한적인 경우가 많음
+* 편두통형 또는 긴장형 양상에 따라 해당 예방치료를 준용하는 phenotype-guided 치료가 일반적임
 * 편두통형 : amitriptyline, topiramate, valproate 등
 * 긴장형 : amitriptyline, nortriptyline, mirtazapine 등
 * 위 약제의 NDPH 치료는 국내 허가 외 사용이며, valproate·topiramate는 임신 가능성이 있는 환자에서 태아 위해를 고려하여 가급적 피하고 피임·임신 계획을 확인
 * doxycycline, mexiletine, naltrexone 등이 증례 수준에서 보고되었으나 근거가 매우 제한적이므로 표준 치료로 권고하지 않음
-* ※ Self-limiting subtype은 수개월 내 자연 소실 가능; refractory subtype은 수년간 지속되며 예후가 다름
-* ※ 진단 시 2차 원인 배제가 필요하고 난치성이 많으므로 신경과 의뢰를 적극 고려
+* Self-limiting subtype은 수개월 내 자연 소실 가능
+* Refractory subtype은 수년간 지속되며 예후가 다름
+* 진단 시 2차 원인 배제가 필요하고 난치성이 많으므로 신경과 의뢰를 적극 고려
 
 #### <mark style="color:$primary;">지속반두통 (Hemicrania continua)</mark>
 
 * 1차 치료 : indomethacin - 진단 기준(criterion D)에 포함될 만큼 완전 반응이 중요함(진단적 치료). 실제 임상에서는 25 ㎎ tid부터 시작하여 내약성을 확인하며 증량하되, 진단적 충분 용량에 도달하기 전에 무반응으로 판단하지 않음 <mark style="color:blue;">\[인도메타캡슐]</mark>
 * 투여 전후 위장관 출혈·궤양, 신기능, 혈압·심혈관 위험 및 병용약을 평가. PPI는 위장관 위험을 줄이지만 신장·심혈관 위험을 예방하지 않음
-* indomethacin 불내성 시 대안(모두 근거가 제한된 허가 외 사용) :
+* indomethacin 불내성 시 대안(모두 근거가 제한된 허가 외 사용)&#x20;
   * celecoxib : 200 ㎎ bid <mark style="color:blue;">\[쎄레브렉스]</mark> - 심혈관·신장 위험 평가
   * topiramate : 50\~100 ㎎/d <mark style="color:blue;">\[토파맥스]</mark>
   * melatonin : 3\~10 ㎎ 취침 전 - 국내 처방용 제품은 주로 2 ㎎ 서방형이므로 문헌의 용량·제형과 직접 대응하지 않음
@@ -187,68 +207,68 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 * 1차 치료 : 취침 전 caffeine 40\~60 ㎎ 또는 진한 커피 1잔 - 불면·야간뇨 악화 가능성을 고려하며 근거는 주로 증례·관찰연구 수준
 * 대안
-  * lithium carbonate 150\~300 ㎎ 취침 전 <mark style="color:blue;">\[탄산리튬정]</mark> - 치료 전 신기능·갑상선기능·전해질·칼슘, 고령자에서 필요 시 ECG 확인; 혈중 농도와 독성 증상을 추적하고 NSAID·ACE 억제제·ARB·thiazide 병용에 주의
-  * indomethacin 25\~50 ㎎ 취침 전
-  * melatonin 3\~5 ㎎ 취침 전
+  * lithium carbonate : 150\~300 ㎎ 취침 전 <mark style="color:blue;">\[탄산리튬정]</mark>&#x20;
+    * 투여 전 신기능·갑상선기능·전해질·칼슘, 고령자에서 필요 시 ECG 확인
+    * 혈중 농도와 독성 증상을 추적하고 NSAID·ACE 억제제·ARB·thiazide 병용에 주의
+  * indomethacin : 25\~50 ㎎ 취침 전
+  * melatonin : 3\~5 ㎎ 취침 전
 * 위 치료는 모두 수면두통에 대한 국내 허가 외 사용이며, 특히 lithium은 고령자에서 내약성과 상호작용을 면밀히 평가
 
 #### <mark style="color:$primary;">약물과용두통 (MOH)</mark>
 
-* 치료의 핵심은 **환자 교육 + 과용 약물 중단/감량 + 기저 두통의 예방 치료**임
+* 치료의 핵심은 환자 교육 + 과용 약물 중단/감량 + 기저 두통의 예방 치료임
 * 단순진통제·triptan·ergotamine 과용은 대부분 외래에서 즉시 중단(abrupt withdrawal) 가능
 * opioid 과용은 의존·금단 위험을 평가하여 점진적 감량을 고려하며, 외래 중단이 어렵거나 고용량·복합 의존이 있으면 신경과/중독 전문진료 또는 입원 치료를 고려
 * benzodiazepine은 ICHD-3의 MOH 원인 약제군은 아니지만, 병용·의존이 있으면 급격히 중단하지 말고 MOH와 별개로 점진적 감량 계획을 세움
 * 비오피오이드 약물과용을 동반한 편두통에서는 예방치료 단독도 예방치료와 급성기 약물 중단을 병행한 전략과 유사한 효과를 보일 수 있음. 따라서 일률적인 중단만을 강조하기보다 환자 상황에 맞추어 예방치료를 조기에 시작하고 과용 약물을 감량·중단 \[AAN/AHS 2026]
 
-**▶ 브릿지 요법 (선별적 사용)**
+<mark style="color:cyan;">**브릿지 요법 (선별적 사용)**</mark>
 
 * 약물 중단 후 초기 수일간 반동 두통·오심·수면장애 등이 악화될 수 있음을 사전에 설명
 * bridge therapy 전반의 근거는 제한적이며 모든 환자에게 일상적으로 필요하지 않음
-  * **Naproxen** 250\~500 ㎎ bid를 단기간(대개 수일\~1주, 필요 시 최대 1\~2주) 고려할 수 있음. 단, NSAID 과용 환자에서는 동일 계열이므로 일반적으로 피함
-  * **Corticosteroid** : 일부 연구에서 사용되었으나 효과가 일관되지 않아 routine bridge로 권고하지 않음
-* MOH 재발 예방을 위해 급성기 두통약은 가급적 **주 2일 이하**로 제한
+  * naproxen : 250\~500 ㎎ bid를 단기간(대개 수일\~1주, 필요 시 최대 1\~2주) 고려할 수 있음
+    * NSAID 과용 환자에서는 동일 계열이므로 피함
+  * corticosteroid : 일부 연구에서 사용되었으나 효과가 일관되지 않아 routine bridge로 권고하지 않음
+* MOH 재발 예방을 위해 급성기 두통약은 가급적 주 2일 이하로 제한
 * ICHD-3의 과용 기준은 약제군에 따라 ≥10일/월 또는 ≥15일/월이므로 환자 교육 시 두 기준을 구분
 
-**▶ 예방 치료 (약물 중단과 동시에 또는 조기에 시작)**
+<mark style="color:cyan;">**예방 치료**</mark>&#x20;
 
-* 편두통형 : topiramate, valproate, amitriptyline 등; 임신 가능성이 있는 환자에서는 valproate·topiramate의 태아 위해를 고려
+* 약물 중단과 동시 또는 조기에 시작
+* 편두통형 : topiramate, valproate, amitriptyline 등
+  * 임신 가능성이 있는 환자에서는 valproate·topiramate의 태아 위해를 고려
 * 긴장형 : amitriptyline (1차), nortriptyline, mirtazapine
 * 만성 편두통 동반 시 OnabotulinumtoxinA(PREEMPT protocol 기반, 155\~195 units), CGRP 단클론항체, atogepant 또는 topiramate를 우선 고려할 수 있으며 국내 허가·급여 기준 확인 \[AAN/AHS 2026]
 
-**▶ 추적 관찰**
+<mark style="color:cyan;">**추적 관찰**</mark>
 
-* **2주** : 금단 증상, 약물 사용일수 및 순응도 확인
-* **4\~8주** : 두통 빈도·강도, 급성기 약물 사용일수, 예방치료 반응 재평가
-* **8주 전후** : 치료 전략을 재조정하는 시점이며, ICHD-3상 MOH의 '진단 확정 시점'을 의미하지 않음
+* 2주 : 금단 증상, 약물 사용일수 및 순응도 확인
+* 4\~8주 : 두통 빈도·강도, 급성기 약물 사용일수, 예방치료 반응 재평가
+* 8주 전후 : 치료 전략을 재조정하는 시점이며, ICHD-3상 MOH의 '진단 확정 시점'을 의미하지 않음
 * 중단 후에도 만성 두통이 지속되면 기저 원발두통의 예방 치료를 강화
 
 #### <mark style="color:$primary;">CGRP 표적 치료제 (편두통 예방; MOH 동반 환자 포함)</mark>
 
-* AAN/AHS 2026 공동지침은 만성 편두통에서 atogepant, eptinezumab, erenumab, fremanezumab, galcanezumab, onabotulinumtoxinA, topiramate, valproate를 근거 신뢰도가 높은 또는 중등도인 선택지로 제시
+* 만성 편두통에서 atogepant, eptinezumab, erenumab, fremanezumab, galcanezumab, onabotulinumtoxinA, topiramate, valproate 고려 \[AAN/AHS 2026]
 * MOH 동반 편두통에서도 예방치료를 제공하며, 근거가 있는 CGRP 단클론항체, atogepant, onabotulinumtoxinA, topiramate를 우선 고려 \[AAN/AHS 2026]
-* 다만 국내 실제 사용 순서는 각 성분의 허가사항과 보험 급여 기준에 따라 달라질 수 있음
+* 단, 국내 실제 사용 순서는 각 성분의 허가사항과 보험 급여 기준에 따라 달라질 수 있음
 
-<table><thead><tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 국내 현황</th></tr></thead><tbody><tr><td>항체 주사제 (SC)</td><td>Galcanezumab <mark style="color:blue;">\[앰겔러티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎); 기준 충족 시 급여</td></tr><tr><td></td><td>Fremanezumab <mark style="color:blue;">\[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC; 기준 충족 시 급여</td></tr><tr><td></td><td>Erenumab (Aimovig)</td><td>70\~140 ㎎/월 SC; <em>국내 미도입</em></td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab <mark style="color:blue;">\[바이엡티]</mark></td><td>100 ㎎/12주 IV, 일부 환자 300 ㎎/12주; <em>2026년 5월 국내 허가, 출시·급여 여부 최신 확인</em></td></tr><tr><td rowspan="2">경구용 Gepant</td><td>Rimegepant <mark style="color:blue;">\[너텍구강붕해정]</mark></td><td>75 ㎎; 급성기 치료 + <strong>삽화성</strong> 편두통 예방(격일 복용); 만성 편두통 예방 적응증 없음; 2026년 9월 국내 출시, 비급여</td></tr><tr><td>Atogepant <mark style="color:blue;">\[아큅타]</mark></td><td>60 ㎎ qd; 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd; <strong>삽화성·만성 편두통 예방</strong>; 비급여</td></tr></tbody></table>
+<table><thead><tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 국내 현황</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제 (SC)</td><td>Galcanezumab <mark style="color:blue;">[앰겔러티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎); 기준 충족 시 급여</td></tr><tr><td>Fremanezumab <mark style="color:blue;">[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC; 기준 충족 시 급여</td></tr><tr><td>Erenumab (Aimovig)</td><td>70~140 ㎎/월 SC; <em>국내 미도입</em></td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab <mark style="color:blue;">[바이엡티]</mark></td><td>100 ㎎/12주 IV, 일부 환자 300 ㎎/12주; <em>2026년 5월 국내 허가, 출시·급여 여부 최신 확인</em></td></tr><tr><td rowspan="2">경구용 Gepant*</td><td>Rimegepant <mark style="color:blue;">[너텍구강붕해정]</mark></td><td>75 ㎎; 급성기 치료 + 삽화성 편두통 예방(격일 복용); 만성 편두통 예방 적응증 없음; 2026년 9월 국내 출시, 비급여</td></tr><tr><td>Atogepant <mark style="color:blue;">[아큅타]</mark></td><td>60 ㎎ qd; 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd; 삽화성·만성 편두통 예방; 비급여</td></tr></tbody></table>
 
-_※ Gepant는 현재까지 기존 단순진통제·triptan과 같은 MOH 유발 신호가 확립되지 않았으나 장기 자료는 제한적임. 기존 진통제·triptan 과용 환자에서 유용할 수 있음_
-
-※ [보험 급여 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701\&sno=4\&mtgMtrRegSno=0005) : galcanezumab·fremanezumab은 ICHD-3에 부합하는 만 18세 이상 만성 편두통 환자 중 ① 최소 1년 이상 편두통 병력 및 투여 전 최소 6개월간 월 두통일수 ≥15일(그중 편두통형 두통 ≥8일), ② MIDAS ≥21점 또는 HIT-6 ≥60점, ③ 최근 1년 이내 3종 이상의 편두통 예방약 치료 실패를 모두 충족할 때 급여 인정. 투여 후 3개월마다 반응을 평가하며 월 편두통일수가 기저치 대비 50% 이상 감소한 경우 지속 투여를 인정하고 최대 투여기간은 12개월. 경구 gepant는 비급여. 급여 기준은 변경될 수 있으므로 최신 HIRA 고시 확인
+> _\* Gepant는 현재까지 기존 단순진통제·triptan과 같은 MOH 유발 신호가 확립되지 않았으나 장기 자료는 제한적임. 기존 진통제·triptan 과용 환자에서 유용할 수 있음_
+>
+> ※ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701\&sno=4\&mtgMtrRegSno=0005) : galcanezumab·fremanezumab은 ICHD-3에 부합하는 만 18세 이상 만성 편두통 환자 중 ① 최소 1년 이상 편두통 병력 및 투여 전 최소 6개월간 월 두통일수 ≥15일(그중 편두통형 두통 ≥8일), ② MIDAS ≥21점 또는 HIT-6 ≥60점, ③ 최근 1년 이내 3종 이상의 편두통 예방약 치료 실패를 모두 충족할 때 급여 인정. 투여 후 3개월마다 반응을 평가하며 월 편두통일수가 기저치 대비 50% 이상 감소한 경우 지속 투여를 인정하고 최대 투여기간은 12개월. 경구 gepant는 비급여. 급여 기준은 변경될 수 있으므로 최신 HIRA 고시 확인
 
 ***
 
 ### 질병코드
 
-G44.2 긴장형두통
-
-G44.3 만성 외상후 두통
-
-G44.4 달리 분류되지 않은 약물유발 두통 - 약물과용두통(MOH)에 적용
-
-G44.8 기타 명시된 두통증후군 - 신생매일지속두통(NDPH), 지속반두통(Hemicrania continua), 수면두통(Hypnic headache) 등은 KCD에서 미국 ICD-10-CM의 G44.52/G44.51/G44.81과 같은 세분코드를 사용하지 않고 해당 KCD 범주로 분류
-
-G93.2 양성 두개내고혈압/특발성 두개내고혈압
-
-※ 편두통(G43 계열)은 별도 [편두통](016_-migraine.md) 챕터의 질병코드 참조
+* G44.2 긴장형두통
+* G44.3 만성 외상후 두통
+* G44.4 달리 분류되지 않은 약물유발 두통
+* G44.8 기타 명시된 두통증후군
+* G93.2 양성 두개내고혈압/특발성 두개내고혈압
+* 편두통(G43 계열)은 별도 편두통 챕터의 질병코드 참조
 
 ***
 
