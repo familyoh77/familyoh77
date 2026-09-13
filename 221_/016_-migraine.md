@@ -88,16 +88,16 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 새로 발생한 운동 조짐(편마비 등) 또는 기존보다 악화된 운동 조짐  `뇌졸중`  `hemiplegic migraine`
-* 비운동성 조짐이 60분 이상 지속되거나 갑작스러운 음성 신경학적 증상(감각 소실, 실어증 등) 동반  `뇌졸중` `TIA`
-* 처음 발생한 구음장애, 현훈, 이명, 청력저하, 복시, 운동실조, 의식저하 등 뇌간 증상 (뇌졸중 배제 전까지)  `뇌졸중`  `뇌간조짐`
+* 새로 발생한 운동 조짐(편마비 등) 또는 기존보다 악화된 운동 조짐 `뇌졸중` `hemiplegic migraine`
+* 비운동성 조짐이 60분 이상 지속되거나 갑작스러운 음성 신경학적 증상(감각 소실, 실어증 등) 동반 `뇌졸중` `TIA`
+* 처음 발생한 구음장애, 현훈, 이명, 청력저하, 복시, 운동실조, 의식저하 등 뇌간 증상 (뇌졸중 배제 전까지) `뇌졸중` `뇌간조짐`
 * Status migrainosus(72시간 이상 지속) 중 탈수·전해질 불균형 동반
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 평소와 확연히 다른 두통 양상 또는 급격한 악화
 * 새로 발생하거나 평소와 다른 양상의 조짐
-* 이미 진단된 뇌간조짐편두통 또는 반신마비편두통의 전형적·반복적 발작 패턴  `뇌간조짐`  `반신마비편두통`
+* 이미 진단된 뇌간조짐편두통 또는 반신마비편두통의 전형적·반복적 발작 패턴 `뇌간조짐` `반신마비편두통`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -137,7 +137,7 @@ D. 두통이 있는 동안 다음 중 ≥1가지 해당
 E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 > _¹⁾ 무조짐편두통의 모든 진단 기준을 충족하지만 ＜5번의 발작만 있었으면 개연무조짐편두통(Probable migraine without aura)으로 분류_\
-> _²⁾ 편두통 상태에서 잠이 들었다가 잠에서 깰 때 두통이 없었다면 깨어날 때까지의 시간을 발작 시간으로 간주_
+> _&#xB2;⁾ 편두통 상태에서 잠이 들었다가 잠에서 깰 때 두통이 없었다면 깨어날 때까지의 시간을 발작 시간으로 간주_
 
 #### <mark style="color:$primary;">Migraine with aura (조짐 편두통)</mark>
 
@@ -164,8 +164,8 @@ C. 다음의 여섯 가지 특징 중 ≥3가지 해당
 D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 > _¹⁾ 예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
-> _²⁾ 실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
-> _³⁾ 섬광암점과 따끔거림은 조짐의 양성 증상임_
+> _&#xB2;⁾ 실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
+> _&#xB3;⁾ 섬광암점과 따끔거림은 조짐의 양성 증상임_
 
 #### <mark style="color:$primary;">Chronic migraine (만성 편두통)</mark>
 
@@ -285,8 +285,8 @@ flowchart TD
 <table data-search="false"><thead><tr><th width="202">성분명 [상품명]</th><th width="241">용량·최소 재투여 간격 [최대]</th><th width="108">반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan <mark style="color:blue;">[이미그란]</mark></td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan²⁾</td><td>5~10 ㎎ q2h [30 ㎎/d]³⁾</td><td>2~3</td></tr><tr><td>zolmitriptan <mark style="color:blue;">[조믹]</mark></td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan <mark style="color:blue;">[알모그란]</mark></td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan²⁾</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan <mark style="color:blue;">[나라믹]</mark></td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan <mark style="color:blue;">[미가드]</mark></td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
 
 > _¹⁾ 국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 최대 200 ㎎/d_\
-> _²⁾ rizatriptan, eletriptan : 현재 국내 미출시(시판 제품 없음)_\
-> _³⁾ propranolol 병용 시 rizatriptan AUC 약 70% 상승 → 5 ㎎/회, 최대 15 ㎎/d로 용량 제한_
+> _&#xB2;⁾ rizatriptan, eletriptan : 현재 국내 미출시(시판 제품 없음)_\
+> _&#xB3;⁾ propranolol 병용 시 rizatriptan AUC 약 70% 상승 → 5 ㎎/회, 최대 15 ㎎/d로 용량 제한_
 >
 > _✽ 용량과 재투여 간격은 국내 허가사항을 우선 확인_
 
@@ -520,7 +520,7 @@ flowchart TD
 * 흡연, 고혈압, 고령 등 혈관 위험 인자가 있으면 위험이 더욱 증가할 수 있음
 * Progestin-only 또는 비호르몬 피임법을 고려하고, 호르몬 피임 중 새 조짐이 발생하거나 양상이 변하면 즉시 재평가
 
-## <mark style="color:green;">Status Migrainosus</mark>
+## <mark style="color:green;">Status Migrainosus의 약물 치료</mark>
 
 * ＞72시간 지속되는 심한 편두통; 탈수·전해질 불균형 동반 가능
 * 응급실 의뢰 고려
