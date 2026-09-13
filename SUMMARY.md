@@ -19,7 +19,7 @@
 * [Part 2. 신경정신 질환](221_/README.md)
   * [두통 Headache](221_/015_-headache.md)
   * [편두통 Migraine](221_/016_-migraine.md)
-  * [긴장형두통 Tension Type Headache, TTHA](221_/017_-tension-type-headache.md)
+  * [긴장형두통 Tension Type Headache, TTH](221_/017_-tension-type-headache.md)
   * [만성 두통 Chronic Headache](221_/018_-chronic-headache.md)
   * [경추성두통 Cervicogenic headache](221_/019_-cervicogenic-headache.md)
   * [어지럼증 Dizziness](221_/020_-dizziness.md)
