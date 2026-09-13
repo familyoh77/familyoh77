@@ -27,20 +27,32 @@
 
 ```mermaid
 flowchart TD
-    A["두통 ≥15일/월<br/>≥3개월"] --> B{"Red flag 또는<br/>최근 발생·양상 변화?"}
+    A(["두통 ≥15일/월<br/>≥3개월"]) --> B["Red flag 또는<br/>최근 발생·양상 변화?"]
     B -- "예" --> C["2차성 두통 우선 평가<br/>필요 시 영상·검사·의뢰"]
-    B -- "아니오" --> D{"급성기/대증 두통약<br/>과용 기준 충족?"}
+    B -- "아니오" --> D["급성기/대증 두통약<br/>과용 기준 충족?"]
     D -- "예" --> E["MOH 진단<br/>기저 원발두통도 함께 평가"]
-    D -- "아니오" --> F{"시작 시점 명확 +<br/>24시간 이내 지속·중단 없는 두통?"}
-    E --> E1{"매일두통 시작이<br/>약물과용보다 명확히 선행?"}
+    D -- "아니오" --> F["시작 시점 명확 +<br/>24시간 이내 지속<br/>·중단 없는 두통?"]
+    E --> E1["매일두통 시작이<br/>약물과용보다 명확히 선행?"]
     E1 -- "예" --> G["NDPH + MOH 병존 진단<br/>2차 원인 배제"]
-    E1 -- "아니오" --> H{"항상 편측 지속통 +<br/>동측 자율신경 증상/초조?"}
+    E1 -- "아니오" --> H["항상 편측 지속통 +<br/>동측 자율신경 증상/초조?"]
     F -- "예" --> G1["NDPH 고려<br/>2차 원인 배제"]
     F -- "아니오" --> H
     H -- "예" --> I["Hemicrania continua 고려<br/>indomethacin 완전반응 확인"]
-    H -- "아니오" --> J{"수면 중에만 발생하여<br/>잠에서 깨게 함?"}
-    J -- "예" --> K["Hypnic headache 고려<br/>이차성 야간두통 원인 배제"]
-    J -- "아니오" --> L["Chronic migraine vs<br/>Chronic tension-type headache"]
+    H -- "아니오" --> J["수면 중에만 발생하여<br/>잠에서 깨게 함?"]
+    J -- "예" --> K["Hypnic headache 고려<br/>이차성 야간두통 원인 확인"]
+    J -- "아니오" --> L["Chronic migraine vs<br/>Chronic tension-type <br/>headache"]
+
+    style A fill:#eceff1,stroke:#455a64,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D,F,E1,H,J yellow
+
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style E fill:#ffe0b2,stroke:#ef6c00,stroke-width:2px
+    style G fill:#ffe0b2,stroke:#ef6c00,stroke-width:2px
+    style G1 fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style I fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style K fill:#b2dfdb,stroke:#00695c,stroke-width:2px
+    style L fill:#dcedc8,stroke:#33691e,stroke-width:2px
 
 ```
 
