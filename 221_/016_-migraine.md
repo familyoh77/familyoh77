@@ -115,7 +115,7 @@
 
 **MIDAS (Migraine Disability Assessment Test, 편두통 장애 평가 검사)**
 
-* 지난 3개월 동안 두통으로 인해 학교·직장, 가사, 가족·사회·여가 활동에서 상실되거나 생산성이 절반 이하로 감소한 일수를 합산하는 5문항 자가평가 도구 (☞ [MIDAS 공식 서식](https://headaches.org/wp-content/uploads/midas.pdf))
+* 지난 3개월 동안 두통으로 인해 학교·직장, 가사, 가족·사회·여가 활동에서 상실되거나 생산성이 절반 이하로 감소한 일수를 합산하는 5문항 자가평가 도구 (☞ [MIDAS 영문서식](https://headaches.org/wp-content/uploads/midas.pdf),[한국인 연구결과](https://www.jkna.org/upload/pdf/200003005.pdf))
 * 판정 : 0\~5점(MIDAS Ⅰ)=장애가 없거나 미약; 6\~10점(MIDAS Ⅱ)=경도 장애; 11\~20점(MIDAS Ⅲ)=중등도 장애; ≥21점(MIDAS Ⅳ)=중증 장애
 *
 
