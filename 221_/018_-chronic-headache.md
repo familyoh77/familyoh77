@@ -107,11 +107,11 @@ C. 다음 중 하나 이상 해당
    5. 동공 축소 &/or 눈꺼풀 처짐
 2. 안절부절, 초조, 또는 움직임에 의해 통증 악화
 
-D. 치료 용량의 indomethacin에 절대적으로 반응함<sup>\*</sup>
+D. 치료 용량의 indomethacin에 절대적으로 반응함¹⁾
 
 E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
-> \*_ICHD-3의 성인 치료 용량은 경구 indomethacin ≥150 ㎎/d이며 필요 시 225 ㎎/d까지 증량함. 실제 임상에서는 위장관·신장 부작용을 줄이기 위해 25 ㎎ tid에서 시작하여 단계적으로 증량할 수 있으나, 저용량에서의 불충분한 반응만으로 indomethacin 무반응으로 판단하지 않음. 완전 반응 확인 후 최소 유효 용량으로 감량_
+> ¹⁾_ICHD-3의 성인 치료 용량은 경구 indomethacin ≥150 ㎎/d이며 필요 시 225 ㎎/d까지 증량함. 실제 임상에서는 위장관·신장 부작용을 줄이기 위해 25 ㎎ tid에서 시작하여 단계적으로 증량할 수 있으나, 저용량에서의 불충분한 반응만으로 indomethacin 무반응으로 판단하지 않음. 완전 반응 확인 후 최소 유효 용량으로 감량_
 
 ### <mark style="color:orange;">발작 지속시간에 따른 감별 - ＜4시간</mark>
 
@@ -265,9 +265,9 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * MOH 동반 편두통에서도 예방치료를 제공하며, 근거가 있는 CGRP 단클론항체, atogepant, onabotulinumtoxinA, topiramate를 우선 고려 \[AAN/AHS 2026]
 * 단, 국내 실제 사용 순서는 각 성분의 허가사항과 보험 급여 기준에 따라 달라질 수 있음
 
-<table><thead><tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 국내 현황</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제 (SC)</td><td>Galcanezumab <mark style="color:blue;">[앰겔러티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎); 기준 충족 시 급여</td></tr><tr><td>Fremanezumab <mark style="color:blue;">[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC; 기준 충족 시 급여</td></tr><tr><td>Erenumab (Aimovig)</td><td>70~140 ㎎/월 SC; <em>국내 미도입</em></td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab <mark style="color:blue;">[바이엡티]</mark></td><td>100 ㎎/12주 IV, 일부 환자 300 ㎎/12주; <em>2026년 5월 국내 허가, 출시·급여 여부 최신 확인</em></td></tr><tr><td rowspan="2">경구용 Gepant*</td><td>Rimegepant <mark style="color:blue;">[너텍구강붕해정]</mark></td><td>75 ㎎; 급성기 치료 + 삽화성 편두통 예방(격일 복용); 만성 편두통 예방 적응증 없음; 2026년 9월 국내 출시, 비급여</td></tr><tr><td>Atogepant <mark style="color:blue;">[아큅타]</mark></td><td>60 ㎎ qd; 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd; 삽화성·만성 편두통 예방; 비급여</td></tr></tbody></table>
+<table><thead><tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 국내 현황</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제 (SC)</td><td>Galcanezumab <mark style="color:blue;">[앰겔러티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎); 기준 충족 시 급여</td></tr><tr><td>Fremanezumab <mark style="color:blue;">[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC; 기준 충족 시 급여</td></tr><tr><td>Erenumab (Aimovig)</td><td>70~140 ㎎/월 SC; <em>국내 미도입</em></td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab <mark style="color:blue;">[바이엡티]</mark></td><td>100 ㎎/12주 IV, 일부 환자 300 ㎎/12주; <em>2026년 5월 국내 허가, 출시·급여 여부 최신 확인</em></td></tr><tr><td rowspan="2">경구용 Gepant¹⁾</td><td>Rimegepant <mark style="color:blue;">[너텍구강붕해정]</mark></td><td>75 ㎎; 급성기 치료 + 삽화성 편두통 예방(격일 복용); 만성 편두통 예방 적응증 없음; 2026년 9월 국내 출시, 비급여</td></tr><tr><td>Atogepant <mark style="color:blue;">[아큅타]</mark></td><td>60 ㎎ qd; 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd; 삽화성·만성 편두통 예방; 비급여</td></tr></tbody></table>
 
-> _\* Gepant는 현재까지 기존 단순진통제·triptan과 같은 MOH 유발 신호가 확립되지 않았으나 장기 자료는 제한적임. 기존 진통제·triptan 과용 환자에서 유용할 수 있음_
+> ¹⁾_Gepant는 현재까지 기존 단순진통제·triptan과 같은 MOH 유발 신호가 확립되지 않았으나 장기 자료는 제한적임. 기존 진통제·triptan 과용 환자에서 유용할 수 있음_
 >
 > ※ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701\&sno=4\&mtgMtrRegSno=0005) : galcanezumab·fremanezumab은 ICHD-3에 부합하는 만 18세 이상 만성 편두통 환자 중 ① 최소 1년 이상 편두통 병력 및 투여 전 최소 6개월간 월 두통일수 ≥15일(그중 편두통형 두통 ≥8일), ② MIDAS ≥21점 또는 HIT-6 ≥60점, ③ 3종 이상의 편두통 예방약 치료 실패(각 약제를 최대 내약 용량으로 8주 이상 투여해도 월 편두통일수가 50% 이상 감소하지 않았거나, 부작용 또는 금기로 사용할 수 없는 경우)를 모두 충족할 때 급여 인정. 투여 후 3개월마다 반응을 평가하며 월 편두통일수가 기저치 대비 50% 이상 감소한 경우 지속 투여를 인정하고 최대 투여기간은 12개월. 경구 gepant는 비급여. 급여 기준은 변경될 수 있으므로 최신 HIRA 고시 확인
 
