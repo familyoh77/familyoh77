@@ -3,8 +3,8 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 만성 두통은 일반적으로 ≥15일/월, ＞3개월 지속되는 두통을 가리키는 임상적 포괄 용어이며, 그 자체가 하나의 ICHD-3 진단명은 아님
-* 원발두통의 만성형, 신생매일지속두통·지속반두통 등의 기타 원발두통, 약물과용두통을 포함한 2차두통으로 감별
-* 1차 진료에서는 위험 신호(Red flag)를 확인하여 2차두통을 조기에 감별하는 것이 중요
+* 원발두통의 만성형, 신생매일지속두통·지속반두통 등의 기타 원발두통, 약물과용두통을 포함한 2차두통 등이 만성 두통의 범주에 해당
+* 1차 진료에서는 위험 신호를 확인하여 생명을 위협하는 원인 질환을 조기에 감별하는 것이 중요
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -15,32 +15,30 @@
 * 최근 시작, 최근 변화, 증상 진행 → 2차성 두통
 * 발열, 체중 감소, 악성 종양 과거력 → 전신적 질환, 2차성 두통
 * ≥15일/월 중 ≥8일/월 편두통형 두통 → [만성 편두통](016_-migraine.md#chronic-migraine)
-* ≥15일/월이면서 만성 편두통 기준을 충족하지 않고 긴장형두통 양상이 우세 → [만성 긴장형두통](017_-tension-type-headache-ttha.md#chronic-tension-type-headache)
+* ≥15일/월이면서 만성 편두통 기준을 충족하지 않고 긴장형두통 양상이 우세 → [긴장형두통](017_-tension-type-headache.md)의 만성형
 * 시작 시점을 명확히 기억하고, 발생 후 24시간 이내에 지속적이고 중단 없는 매일두통으로 전환 → 신생매일지속두통
 * 급성기·대증 두통약을 약제군별 기준 이상으로 ＞3개월 사용 → 약물과용두통
-* 심한 두통, 편측, 눈물/콧물, 시계 같은 규칙성, 군집성 발생, 4시간 이내 → [군발 두통](015_-headache.md#undefined-6)
+* 심한 두통, 편측, 눈물/콧물, 시계 같은 규칙성, 군집성 발생, 4시간 이내 → [군발두통](015_-headache.md#undefined-5)
 * 경부 외상력, 목 움직임으로 유발 → [경추성두통](019_-cervicogenic-headache.md)
 * 일시적 시각장애, 박동성 이명, 복시, 유두부종 → 특발성 두개내고혈압; 안저·시야평가 필요(비만 여성에서 흔하지만 인구학적 특징만으로 판단하지 않음)
 * 불안, 우울 동반 → 정신과적 동반질환(comorbidity)으로 병행 관리; 2차성 두통 가능성도 배제
 * 경추/턱관절 움직임 제한 또는 통증 → 경추성두통, 턱관절 이상
-* 두통의 2차 원인 감별을 위한 [SNOOP4](015_-headache.md#id-2-snoop4)
-
-### <mark style="color:orange;">만성 두통 초고속 감별 알고리듬</mark>
+* 두통의 2차 원인 감별을 위한 [SNNOOP10](015_-headache.md#id-2-snnoop10-red-flags)
 
 ```mermaid
 ```
 
-_출처 : ICHD-3 진단 기준에 따라 구성_
+<p align="center"><strong>만성 두통 감별 알고리듬</strong></p>
 
-{% hint style="info" %}
-**MOH는 기저 원발두통을 대체하는 진단이 아닙니다.** 만성 편두통·긴장형두통 등과 약물과용두통의 진단 기준을 각각 충족하면 두 진단을 함께 붙입니다.
-{% endhint %}
+<p align="center"><em><mark style="color:$info;">ICHD-3 진단 기준에 따라 저자 재구성</mark></em></p>
+
+***
 
 ## <mark style="color:green;">1차성 두통</mark>
 
-### <mark style="color:orange;">발작 지속시간에 따른 실용적 감별 - ＞4시간</mark>
+### <mark style="color:orange;">발작 지속시간에 따른 감별 - ＞4시간</mark>
 
-* 종류 : [Chronic migraine](016_-migraine.md#undefined-1), [Chronic tension type headache](017_-tension-type-headache-ttha.md#chronic-tension-type-headache), New daily persistent headache, Hemicrania continua
+* 종류 : Chronic migraine, Chronic tension type headache, New daily persistent headache, Hemicrania continua
 
 #### <mark style="color:$primary;">신생매일지속두통 (New daily persistent headache, NDPH)</mark>
 
@@ -56,10 +54,12 @@ C. ＞3개월 존재
 
 D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~4)</sup>
 
-_1) 전형적으로 과거 두통의 병력이 없는 사람에서 발생하여 시작부터 매일 중단 없이 지속함. 과거 편두통 또는 긴장형두통 병력이 있어도 배제되지는 않지만, NDPH 발생 전에 두통 빈도가 점차 증가했거나 약물과용과 함께 악화된 경과여서는 안 됨. 환자가 시작 시점을 기억하여 정확히 묘사할 수 없다면 다른 진단을 고려_\
-_&#x32;) 두통이 만성 편두통 또는 만성 긴장형두통의 진단 기준을 충족하더라도 NDPH 기준에 맞으면 NDPH로 진단함. NDPH와 지속반두통의 기준을 모두 충족하면 지속반두통으로 진단_\
-_&#x33;) 약물과용 기준을 초과하더라도 매일두통의 발생이 약물과용보다 명확하게 선행한 경우에만 NDPH를 진단할 수 있으며, 이때 NDPH와 약물과용두통을 함께 진단_\
-_&#x34;) 모든 경우에서 2차두통(예: 두부외상 후 두통, 뇌척수액 고압·저압 두통)을 적절한 검사로 배제해야 함 \[ICHD-3]_
+> ¹⁾_전형적으로 과거 두통의 병력이 없는 사람에서 발생하여 시작부터 매일 중단 없이 지속함. 과거 편두통 또는 긴장형두통 병력이 있어도 배제되지는 않지만, NDPH 발생 전에 두통 빈도가 점차 증가했거나 약물과용과 함께 악화된 경과여서는 안 됨. 환자가 시작 시점을 기억하여 정확히 묘사할 수 없다면 다른 진단을 고려_\
+> _&#x32;) 두통이 만성 편두통 또는 만성 긴장형두통의 진단 기준을 충족하더라도 NDPH 기준에 맞으면 NDPH로 진단함. NDPH와 지속반두통의 기준을 모두 충족하면 지속반두통으로 진단_\
+> _&#x33;) 약물과용 기준을 초과하더라도 매일두통의 발생이 약물과용보다 명확하게 선행한 경우에만 NDPH를 진단할 수 있으며, 이때 NDPH와 약물과용두통을 함께 진단_\
+> _&#x34;) 모든 경우에서 2차두통(예: 두부외상 후 두통, 뇌척수액 고압·저압 두통)을 적절한 검사로 배제해야 함 \[ICHD-3]_
+
+
 
 #### <mark style="color:$primary;">지속반두통 (Hemicrania continua)</mark>
 
@@ -89,7 +89,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 _1) ICHD-3의 성인 치료 용량은 경구 indomethacin ≥150 ㎎/d이며 필요 시 225 ㎎/d까지 증량함. 실제 임상에서는 위장관·신장 부작용을 줄이기 위해 25 ㎎ tid에서 시작하여 단계적으로 증량할 수 있으나, 저용량에서의 불충분한 반응만으로 indomethacin 무반응으로 판단하지 않음. 완전 반응 확인 후 최소 유효 용량으로 감량_
 
-### <mark style="color:orange;">발작 지속시간에 따른 실용적 감별 - ＜4시간</mark>
+### <mark style="color:orange;">발작 지속시간에 따른 감별 - ＜4시간</mark>
 
 * 종류 : Chronic cluster headache, Chronic paroxysmal hemicrania, Hypnic headache, Primary stabbing headache, Short-lasting unilateral neuralgiform headache attacks
 
