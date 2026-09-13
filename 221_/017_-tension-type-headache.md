@@ -13,9 +13,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치**</mark>
-
-* ☞ [두통](015_-headache.md#red-flags) 참조
+☞ [두통 Red Flags](015_-headache.md#red-flags) 참조
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
