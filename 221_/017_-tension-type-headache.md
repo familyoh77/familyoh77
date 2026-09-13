@@ -6,34 +6,37 @@
   * 중등도 이하의 강도
   * 스트레스, 수면 장애, 두개·경부 근육의 통증 자극 등과 연관되어 유발·악화될 수 있음
   * 동반 소견 : 두부/경부/어깨 근육 경직·압통, 피로, 과민, 집중력 저하가 나타날 수 있음
-  * 성인 유병률 약 26%; 질병부담(years lived with disability, YLD)은 15\~49세에서 최고. 연령 증가에 따라 episodic type은 감소, chronic type은 증가
-* 원발성 두통의 가장 흔한 형태임.
-* 두통 일기(headache diary) : 진단 분류와 치료 반응 평가에 가장 유용한 도구. 초진 시 작성을 권고하고, 1개월 후 재평가에 활용
+  * 성인 유병률 약 26%; 질병부담(years lived with disability, YLD)은 15\~49세에서 최고
+    * 연령 증가에 따라 episodic type은 감소, chronic type은 증가
+* 원발성 두통의 가장 흔한 형태임
+* 진단 분류와 치료 반응 평가에 가장 유용한 도구로서 두통 일기(headache diary) 작성을 초진 시 권고하고, 1개월 후 재평가에 활용
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-(☞ [두통](015_-headache.md#red-flags) 참조)
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+* ☞ [두통](015_-headache.md#red-flags) 참조
 
-* 급성기 진통제가 **주 2일을 넘겨 반복적으로 필요하거나 사용일수가 증가하는 경우 → 약물과용두통(MOH), 두통의 만성화 및 진단 재평가**
-* **예방 치료를 충분한 유지용량으로 약 1\~2개월** 사용했음에도 의미 있는 호전이 없는 경우 → 진단, 복약 순응도, MOH, 동반질환을 재평가하고 필요 시 신경과 의뢰 고려
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 급성기 진통제가 주 2일을 넘겨 반복적으로 필요하거나 사용 일수가 증가하는 경우
+* 예방 치료를 충분한 유지용량으로 약 1\~2개월 사용했음에도 의미 있는 호전이 없는 경우
 
 ### <mark style="color:orange;">분류 \[IHS classification ICHD-3]</mark>
 
-1. **2.1 Infrequent episodic TTH**
-   1. **2.1.1** associated with pericranial tenderness
-   2. **2.1.2** not associated with pericranial tenderness
-2. **2.2 Frequent episodic TTH**
-   1. **2.2.1** associated with pericranial tenderness
-   2. **2.2.2** not associated with pericranial tenderness
-3. **2.3 Chronic TTH**
-   1. **2.3.1** associated with pericranial tenderness
-   2. **2.3.2** not associated with pericranial tenderness
-4. **2.4 Probable TTH**
-   1. **2.4.1** probable infrequent episodic tension-type headache
-   2. **2.4.2** probable frequent episodic tension-type headache
-   3. **2.4.3** probable chronic tension-type headache
+1. 2.1 Infrequent episodic TTH
+   1. 2.1.1 associated with pericranial tenderness
+   2. 2.1.2 not associated with pericranial tenderness
+2. 2.2 Frequent episodic TTH
+   1. 2.2.1 associated with pericranial tenderness
+   2. 2.2.2 not associated with pericranial tenderness
+3. 2.3 Chronic TTH
+   1. 2.3.1 associated with pericranial tenderness
+   2. 2.3.2 not associated with pericranial tenderness
+4. 2.4 Probable TTH
+   1. 2.4.1 probable infrequent episodic tension-type headache
+   2. 2.4.2 probable frequent episodic tension-type headache
+   3. 2.4.3 probable chronic tension-type headache
 
 ## <mark style="color:green;">원인</mark>
 
@@ -68,19 +71,19 @@ B. 지속 시간 : 30분\~7일
 
 C. 다음 네 가지 두통 특성 중 ≥2가지 해당
 
-⓵ 양측\
-⓶ 압박 또는 조임(비-박동성)\
-⓷ 경증\~중등증 강도\
-⓸ 걷기, 계단 오르기 등 일상적 신체 활동에 의해 악화되지 않음
+1. 양측
+2. 압박 또는 조임(비-박동성)
+3. 경증\~중등증 강도
+4. 걷기, 계단 오르기 등 일상적 신체 활동에 의해 악화되지 않음
 
 D. 다음 모두에 해당
 
-⓵ 구역 또는 구토 없음\
-⓶ 빛공포증 또는 소리공포증 모두 없거나 하나만 존재
+1. 구역 또는 구토 없음
+2. 빛공포증 또는 소리공포증 모두 없거나 하나만 존재
 
 E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1)</sup>
 
-> ¹⁾ _개연편두통과 저빈도삽화긴장형두통의 진단 기준 모두를 만족하는 두통은 저빈도삽화긴장형두통으로 진단_
+> ¹⁾_개연편두통과 저빈도삽화긴장형두통의 진단 기준 모두를 만족하는 두통은 저빈도삽화긴장형두통으로 진단_
 
 ### <mark style="color:orange;">Chronic tension-type headache (만성긴장형두통)</mark>
 
@@ -102,28 +105,29 @@ D. 다음 모두에 해당
 
 E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
-> ¹⁾ _한 달에 25일간 두통이 있는 어떤 환자에서 8일은 편두통에 부합되고 17일은 긴장형두통에 부합된다면 이 환자는 두 진단 기준 모두에 해당되지만 만성편두통으로만 진단함_\
-> ²⁾ _진단 기준 A\~E를 만족하는 두통이 처음 발생 시점 24시간 이내부터 매일 지속된 것이 명백하다면 신생매일지속두통으로 분류하며, 두통 발생시점을 기억하지 못하거나 불확실하다면 만성긴장형두통으로 분류_\
-> ³⁾ _약물과용두통과 만성긴장형두통의 진단 기준을 모두 충족하는 경우 둘 다 진단함. 약물 과용을 중단한 후에도 만성 두통이 지속되면 약물과용두통 진단은 철회될 수 있음_
+> ¹⁾_한 달에 25일간 두통이 있는 어떤 환자에서 8일은 편두통에 부합되고 17일은 긴장형두통에 부합된다면 이 환자는 두 진단 기준 모두에 해당되지만 만성편두통으로만 진단함_\
+> ²⁾_진단 기준 A\~E를 만족하는 두통이 처음 발생 시점 24시간 이내부터 매일 지속된 것이 명백하다면 신생매일지속두통으로 분류하며, 두통 발생시점을 기억하지 못하거나 불확실하다면 만성긴장형두통으로 분류_\
+> ³⁾_약물과용두통과 만성긴장형두통의 진단 기준을 모두 충족하는 경우 둘 다 진단함. 약물 과용을 중단한 후에도 만성 두통이 지속되면 약물과용두통 진단은 철회될 수 있음_
 
 #### <mark style="color:$primary;">두개 주위 근육 촉진(Pericranial Palpation)</mark>
 
-* ICHD-3는 긴장형두통을 두개 주위 근육 압통 유무에 따라 하위 분류함. 촉진은 진단의 객관성을 높이고 치료 전후 비교에 활용; 단, 압통이 있다고 해서 진단의 필수 조건은 아님
+* ICHD-3는 긴장형두통을 두개 주위 근육 압통 유무에 따라 하위 분류함
+  * 촉진은 진단의 객관성을 높이고 치료 전후 비교에 활용. 단, 압통 여부가 진단의 필수 조건은 아님
 * 검사 부위 : 전두근(Frontal), 측두근(Temporal), 교근(Masseter), 흉쇄유돌근(SCM), 두판상근(Splenius), 승모근(Trapezius)
 * 검사 방법 : 둘째·셋째 손가락으로 작은 원을 그리듯 회전하며 일정한 압력으로 촉진
-* 점수화 : 각 부위를 좌우 각각 0\~3점의 Local tenderness score로 기록하고, 각 부위 점수를 합산하여 Total Tenderness Score(TTS)로 기록
+* 점수화 : 각 부위를 좌우 각각 0\~3점의 Local tenderness score로 기록하고, 각 부위 점수를 합산하여 Total tenderness score(TTS)로 기록
   * 동일 환자를 추적할 때는 가능한 한 같은 부위·같은 순서·유사한 압력으로 반복 측정하여 치료 전후 변화를 비교
   * ICHD-3는 0\~3점 점수 사용과 합산을 제시하지만 각 점수의 세부 행동 기준(예: 표정·회피 반응)은 명시하지 않으므로, 별도 검증된 평가척도를 사용하는 경우가 아니면 임의 기준을 추가하지 않음
 
 ### <mark style="color:orange;">긴장형두통 vs 경추성두통(CGH) 감별</mark>
 
-<table><thead><tr><th width="106">구분</th><th>긴장형두통(TTH)</th><th>경추성두통(CGH)</th></tr></thead><tbody><tr><td>분류</td><td>원발성 두통</td><td>2차성 두통(경추 또는 경부 연부조직 병변과 인과관계)</td></tr><tr><td>통증 부위</td><td>대개 양측성(전두부·측두부·후두부)</td><td>단측·side-locked 경향이 흔하나 반드시 단측성인 것은 아님</td></tr><tr><td>통증 양상</td><td>압박감, 조이는 느낌(Band-like)</td><td>대개 비박동성; 후두·경부에서 전두·안와부로 방사 가능</td></tr><tr><td>발생 기전</td><td>말초 근막성 통각 자극과 중추 통증 조절 변화가 관여</td><td>경추/경부 구조에서 발생한 통증의 연관통(Referred pain)</td></tr><tr><td>유발 요인</td><td>스트레스, 피로, 수면 장애 등이 흔한 연관 요인</td><td>목의 움직임, 지속 자세, 경추 유발 검사로 악화</td></tr><tr><td>경추 가동 범위</td><td>대개 보존(근육 경직·압통은 있을 수 있음)</td><td>ROM 감소가 흔하며 통증 유발 가능</td></tr><tr><td>동반 증상</td><td>빛/소리 공포는 모두 없거나 하나만; 삽화형에서는 구역·구토 없음</td><td>동측 경부·어깨·상지 통증이 동반될 수 있음</td></tr><tr><td>진찰 소견</td><td>두개 주위 근육 압통이 있을 수 있음</td><td>상부 경추/경부 구조의 압통·가동성 저하 및 유발 검사 양성</td></tr><tr><td>진단 단서</td><td>ICHD-3 임상 기준에 따른 진단</td><td>경부 병변과 두통의 시간적 연관, 경부 병변 호전에 따른 두통 호전, ROM 제한/유발 검사 등이 인과관계를 지지; diagnostic blockade로 통증이 소실되면 인과관계를 강하게 지지</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="124">구분</th><th>긴장형두통(TTH)</th><th>경추성두통(CGH)</th></tr></thead><tbody><tr><td>분류</td><td>원발성 두통</td><td>2차성 두통(경추 또는 경부 연부조직 병변과 인과관계)</td></tr><tr><td>통증 부위</td><td>대개 양측성(전두부·측두부·후두부)</td><td>단측·side-locked 경향이 흔하나 반드시 단측성인 것은 아님</td></tr><tr><td>통증 양상</td><td>압박감, 조이는 느낌(Band-like)</td><td>대개 비박동성; 후두·경부에서 전두·안와부로 방사 가능</td></tr><tr><td>발생 기전</td><td>말초 근막성 통각 자극과 중추 통증 조절 변화가 관여</td><td>경추/경부 구조에서 발생한 통증의 연관통(Referred pain)</td></tr><tr><td>유발 요인</td><td>스트레스, 피로, 수면 장애 등이 흔한 연관 요인</td><td>목의 움직임, 지속 자세, 경추 유발 검사로 악화</td></tr><tr><td>경추 가동 범위</td><td>대개 보존(근육 경직·압통은 있을 수 있음)</td><td>ROM 감소가 흔하며 통증 유발 가능</td></tr><tr><td>동반 증상</td><td>빛/소리 공포는 모두 없거나 하나만; 삽화형에서는 구역·구토 없음</td><td>동측 경부·어깨·상지 통증이 동반될 수 있음</td></tr><tr><td>진찰 소견</td><td>두개 주위 근육 압통이 있을 수 있음</td><td>상부 경추/경부 구조의 압통·가동성 저하 및 유발 검사 양성</td></tr><tr><td>진단 단서</td><td>ICHD-3 임상 기준에 따른 진단</td><td>경부 병변과 두통의 시간적 연관, 경부 병변 호전에 따른 두통 호전, ROM 제한/유발 검사 등이 인과관계를 지지; diagnostic blockade로 통증이 소실되면 인과관계를 강하게 지지</td></tr></tbody></table>
 
 ### <mark style="color:orange;">긴장형두통 vs 편두통 감별</mark>
 
-<table><thead><tr><th width="120">구분</th><th>긴장형두통(TTH)</th><th>편두통(Migraine)</th></tr></thead><tbody><tr><td>통증 부위</td><td>대개 양측성</td><td>편측성이 흔하나 양측도 가능</td></tr><tr><td>통증 양상</td><td>압박감, 조이는 느낌(Band-like, 비박동성)</td><td>박동성이 흔함</td></tr><tr><td>통증 강도</td><td>경증~중등증</td><td>중등증~중증이 흔함</td></tr><tr><td>신체 활동</td><td>일상적 신체 활동으로 악화되지 않음</td><td>일상적 신체 활동으로 악화되는 경우가 흔함</td></tr><tr><td>구역/구토</td><td>삽화형에서는 없음; 만성형은 경미한 구역이 하나의 동반 증상으로 가능</td><td>구역 및/또는 구토가 흔함</td></tr><tr><td>빛·소리 공포</td><td>둘 다 없거나 하나만 존재</td><td>빛공포증과 소리공포증이 함께 흔함</td></tr><tr><td>전조 증상</td><td>없음</td><td>일부 환자에서 시각·감각·언어 전조 동반</td></tr><tr><td>지속 시간</td><td>삽화형 30분~7일; 만성형은 수시간~수일 또는 지속</td><td>치료하지 않거나 치료가 실패한 성인에서 대개 4~72시간</td></tr><tr><td>흔한 유발·악화 요인</td><td>스트레스, 수면 장애, 지속 자세 부담 등과 연관 가능</td><td>호르몬 변화, 수면 변화, 스트레스, 감각 자극 등 개인별 유발 요인</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="120">구분</th><th>긴장형두통(TTH)</th><th>편두통(Migraine)</th></tr></thead><tbody><tr><td>통증 부위</td><td>대개 양측성</td><td>편측성이 흔하나 양측도 가능</td></tr><tr><td>통증 양상</td><td>압박감, 조이는 느낌(Band-like, 비박동성)</td><td>박동성이 흔함</td></tr><tr><td>통증 강도</td><td>경증~중등증</td><td>중등증~중증이 흔함</td></tr><tr><td>신체 활동</td><td>일상적 신체 활동으로 악화되지 않음</td><td>일상적 신체 활동으로 악화되는 경우가 흔함</td></tr><tr><td>구역/구토</td><td>삽화형에서는 없음; 만성형은 경미한 구역이 하나의 동반 증상으로 가능</td><td>구역 및/또는 구토가 흔함</td></tr><tr><td>빛·소리 공포</td><td>둘 다 없거나 하나만 존재</td><td>빛공포증과 소리공포증이 함께 흔함</td></tr><tr><td>전조 증상</td><td>없음</td><td>일부 환자에서 시각·감각·언어 전조 동반</td></tr><tr><td>지속 시간</td><td>삽화형 30분~7일; 만성형은 수시간~수일 또는 지속</td><td>치료하지 않거나 치료가 실패한 성인에서 대개 4~72시간</td></tr><tr><td>흔한 유발·악화 요인</td><td>스트레스, 수면 장애, 지속 자세 부담 등과 연관 가능</td><td>호르몬 변화, 수면 변화, 스트레스, 감각 자극 등 개인별 유발 요인</td></tr></tbody></table>
 
-_✽혼합형 주의 : 긴장형두통과 편두통은 동일 환자에서 공존할 수 있으므로, 두통 일기로 각각의 두통 양상과 빈도를 구분하여 진단_
+* 혼합형 주의 : 긴장형두통과 편두통은 동일 환자에서 공존할 수 있으므로, 두통 일기로 각각의 두통 양상과 빈도를 구분하여 진단
 
 ***
 
@@ -137,18 +141,18 @@ _✽혼합형 주의 : 긴장형두통과 편두통은 동일 환자에서 공�
 
 * 삽화형 : 급성기 진통제 투여 + 유발 인자 교정
 * 만성형 : 예방 약물(항우울제) + 비약물 치료 병행; 급성기 진통제 병용 가능
-* 약물과용두통(MOH) 주의
-  * ⚠️ 잦은 급성기 약물 사용은 두통의 만성화 및 MOH와 연관될 수 있음
-  * ICHD-3 MOH : 기존 두통 환자에서 **두통 ≥15일/월**이 있으면서, 급성/대증 약물을 **>3개월** 과용하고 다른 ICHD-3 진단으로 더 잘 설명되지 않을 때 진단
+* [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)(MOH) 주의
+  * 잦은 급성기 약물 사용은 두통의 만성화 및 MOH와 연관될 수 있음
+  * ICHD-3 MOH : 기존 두통 환자에서 두통 ≥15일/월이 있으면서, 급성/대증 약물을 >3개월 과용하고 다른 ICHD-3 진단으로 더 잘 설명되지 않을 때 진단
   * 약물 과용 기준 : acetaminophen·NSAIDs 등 단순진통제 ≥15일/월, 복합진통제·opioid·triptan 등 ≥10일/월을 >3개월 사용
-  * 예방을 위해 급성기 약물은 가능하면 **주 2일 이하**로 제한하고, 더 자주 필요하면 예방치료 적응증과 진단을 재평가
+  * 예방을 위해 급성기 약물은 가능하면 주 2일 이하로 제한하고, 더 자주 필요하면 예방치료 적응증과 진단을 재평가
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 두통 일기 : 두통 일수, 강도, 급성기 약물 사용일수, 수면·스트레스·활동과의 연관성을 기록
+* 두통 일기 : 두통 일수, 강도, 급성기 약물 사용 일수, 수면·스트레스·활동과의 연관성을 기록
 * 규칙적 식사와 수면, 충분한 수분 섭취; 개인별 유발·악화 요인을 확인하여 교정
 * 규칙적 유산소 운동 및 점진적 근력 강화 운동을 환자의 체력과 동반 질환에 맞추어 시행
-* 경부·어깨 통증 및 자세 부담이 동반되면 스트레칭, 운동치료 및 물리치료(physical therapy) 고려
+* 경부·어깨 통증 및 자세 부담이 동반되면 스트레칭, 운동치료 및 물리치료 고려
 * 장시간 고정 자세를 피하고 작업 환경을 조정하며, 일정 간격으로 자세를 바꾸고 가볍게 움직임
 * 스트레스 관리 및 행동치료 : 이완 요법, 명상, 인지행동치료(CBT), 바이오피드백 등
 * 온·냉찜질, 마사지 등은 증상 완화를 위해 개인별로 시도 가능
@@ -157,18 +161,19 @@ _✽혼합형 주의 : 긴장형두통과 편두통은 동일 환자에서 공�
 
 ## <mark style="color:green;">약물 치료</mark>
 
-_✽편두통 특이 치료제는 순수 TTH의 표준 치료가 아님_
-
-* CGRP 표적 치료제(항CGRP 단클론항체, gepant 계열) : 편두통 치료제로 사용되며 순수 긴장형두통에는 효과가 입증되지 않음
-* Triptan : 긴장형두통의 급성 치료로 권장되지 않음. 두통 양상이 편두통 기준에 부합하는지 임상 특징과 두통 일기로 별도 평가
+* 편두통 특이 치료제는 순수 TTH의 표준 치료가 아님
+  * CGRP 표적 치료제(항CGRP 단클론항체, gepant 계열) : 편두통 치료제로 사용되며 순수 긴장형두통에는 효과가 입증되지 않음
+  * Triptan : 긴장형두통의 급성 치료로 권장되지 않음. 두통 양상이 편두통 기준에 부합하는지 임상 특징과 두통 일기로 별도 평가
 
 ### <mark style="color:orange;">1차 선택 - 급성기 진통제</mark>
 
-* ibuprofen : **400 ㎎** 두통 시작 시 필요시 복용 <mark style="color:blue;">\[부루펜]</mark>
+* ibuprofen : 400 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[부루펜]</mark>
   * VA/DoD 2023은 급성 TTH에 ibuprofen 400 ㎎을 제안(weak for); 반복 복용 시 NSAID의 최소 유효용량·최단기간 원칙 적용
 * naproxen : 275\~500 ㎎ 필요시 <mark style="color:blue;">\[낙센, 아나프록스]</mark>
-* acetaminophen : **1,000 ㎎** 두통 시작 시 필요시 복용 <mark style="color:blue;">\[타이레놀]</mark>
-  * VA/DoD 2023은 급성 TTH에 acetaminophen 1,000 ㎎을 제안(weak for); 총 1일 용량은 연령, 체중, 간질환, 음주 여부 및 병용제의 acetaminophen 함량을 고려
+* acetaminophen : 1,000 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[타이레놀]</mark>
+  * VA/DoD 2023은 급성 TTH에 acetaminophen 1,000 ㎎을 제안(weak for)
+  * 급여용 제품은 대부분 서방형 650  ㎎ 제형임 <mark style="color:blue;">\[타이레놀 ER]</mark>
+  * 총 1일 용량은 연령, 체중, 간질환, 음주 여부 및 병용제의 acetaminophen 함량을 고려
 * aspirin : 500\~1,000 ㎎ 필요시 <mark style="color:blue;">\[바이엘아스피린정500㎎]</mark>
 
 ### <mark style="color:orange;">2차 선택 - 급성기</mark>
@@ -176,44 +181,46 @@ _✽편두통 특이 치료제는 순수 TTH의 표준 치료가 아님_
 #### <mark style="color:$primary;">Caffeine 복합제</mark>
 
 * caffeine 130/acetaminophen 500/aspirin 500 ㎎ 필요시
-  * ⚠️ 효과는 있으나 **1차로 권장되지 않음**; 단순진통제보다 약물과용 위험이 높으므로 사용을 최소화
-  * 복합진통제를 ≥10일/월, >3개월 사용하면서 두통이 ≥15일/월이면 MOH 진단을 고려
+  * 효과는 있으나 1차로 권장되지 않음; 단순진통제보다 약물과용 위험이 높으므로 사용을 최소화
+  * 복합 진통제를 ≥10일/월, >3개월 사용하면서 두통이 ≥15일/월이면 MOH 진단을 고려
 
 #### <mark style="color:$primary;">Opioid / tramadol</mark>
 
-* ⚠️ **긴장형두통의 급성 치료에 권장하지 않음** - 효과 대비 약물과용두통, 의존 및 두통 만성화 위험이 있어 사용하지 않음
+* 긴장형두통의 급성 치료에 권장하지 않음 - 효과 대비 약물과용두통, 의존 및 두통 만성화 위험이 있어 사용하지 않음
 
 ### <mark style="color:orange;">예방 치료 - 만성긴장형두통</mark>
 
-**다음 중 하나에 해당할 때 예방 치료 고려**
-
-* 만성긴장형두통(월 ≥15일, >3개월)
-* frequent episodic TTH 중 두통 빈도·장애가 크고 비약물치료와 적절한 급성기 치료만으로 조절되지 않는 경우
-* 급성기 약물 사용 빈도가 증가하여 약물과용 위험이 높은 경우
-* 충분한 유지용량에 도달한 뒤 **약 1\~2개월** 동안 두통 일수·강도·급성기 약물 사용일수로 효과를 평가
-* 효과가 안정적으로 유지되면 **6\~12개월마다** 감량 또는 중단 가능성을 재평가
+* 다음 중 하나에 해당할 때 예방 치료 고려
+  * 만성긴장형두통(월 ≥15일, >3개월)
+  * frequent episodic TTH 중 두통 빈도·장애가 크고 비약물치료와 적절한 급성기 치료만으로 조절되지 않음
+  * 급성기 약물 사용 빈도가 증가하여 약물과용 위험이 높음
+* 충분한 유지용량에 도달한 뒤 약 1\~2개월 동안 두통 일수·강도·급성기 약물 사용 일수로 효과를 평가
+* 효과가 안정적으로 유지되면 6\~12개월마다 감량 또는 중단 가능성을 재평가
 
 #### <mark style="color:$primary;">1차 - 항우울제</mark>
 
 * TTH 예방약 중 amitriptyline의 근거가 가장 확립되어 있으나, VA/DoD 2023 권고 강도는 weak for임
 * amitriptyline : 10 ㎎/d 취침 시 시작 → 25\~75 ㎎/d까지 내약성에 따라 점진 증량 <mark style="color:blue;">\[에트라빌]</mark> ← 만성 TTH 예방 1차 선택
+  * 충분한 용량(25\~75 ㎎/d)으로 6\~8주 이상 사용했음에도 반응이 불충분한 경우에 네트워크 메타분석(2025\~2026년)에서는 amitriptyline 100 ㎎/d이 위약 대비 월간 두통일수를 가장 크게 감소시켰다는 보고가 있음; 다만 근거 확실성이 낮고 이상반응 발생률도 함께 증가하므로, 증량은 신경과 의뢰 하에 신중히 고려
   * 부작용 : 구갈, 졸림, 변비, 체중증가 등 항콜린 작용; 고령자에서는 섬망·낙상·요폐 위험도 고려
-  * 항콜린 부작용이 문제되면 nortriptyline으로 전환 고려 : 10\~50 ㎎/d 취침 시 <mark style="color:blue;">\[센시발]</mark> (TTH 직접 근거는 amitriptyline보다 제한적이며 항콜린 부작용이 완전히 없어지는 것은 아님)
-  * ✽충분한 용량(25\~75 ㎎/d)으로 6\~8주 이상 사용했음에도 반응이 불충분한 경우, 최근(2025\~2026년) 네트워크 메타분석에서는 amitriptyline 100 ㎎/d이 위약 대비 월간 두통일수를 가장 크게 감소시켰다는 보고가 있음; 다만 근거 확실성이 낮고 이상반응 발생률도 함께 증가하므로, 증량은 신경과 의뢰 하에 신중히 고려
+  * 항콜린 부작용이 문제되면 nortriptyline으로 전환 고려&#x20;
+    * nortriptyline 10\~50 ㎎/d 취침 시 <mark style="color:blue;">\[센시발]</mark> (TTH 직접 근거는 amitriptyline보다 제한적이며 항콜린 부작용이 완전히 없어지는 것은 아님)
 * mirtazapine : 15 ㎎/d 취침 시 시작 → 필요 시 30 ㎎/d <mark style="color:blue;">\[레메론]</mark>
-  * amitriptyline 내약성이 좋지 않은 경우 대안; TTH 예방 효과 근거는 주로 30 ㎎/d 연구에 기반
+  * amitriptyline 내약성이 좋지 않은 경우 대안
+  * TTH 예방 효과 근거는 주로 30 ㎎/d 연구에 기반
 * venlafaxine XR : 37.5\~75 ㎎/d로 시작 → 내약성에 따라 점진 증량 <mark style="color:blue;">\[이팩사 XR]</mark>
-  * TTH 예방 효과 근거는 주로 150 ㎎/d 연구에 기반; 우울·불안 동반 시 선택을 고려하며 혈압 모니터링
-* ✽SSRI는 TCA에 비해 TTH 예방 근거가 부족하며, 동반 우울·불안 치료 목적으로는 활용 가능
+  * TTH 예방 효과 근거는 주로 150 ㎎/d 연구에 기반
+  * 우울·불안 동반 시 선택을 고려하며 혈압 모니터링
+* SSRI는 TCA에 비해 TTH 예방 근거가 부족하며, 동반 우울·불안 치료 목적으로는 활용 가능
 
 #### <mark style="color:$primary;">근거가 제한되거나 권장되지 않는 치료</mark>
 
 * Trigger-point injection(lidocaine ± corticosteroid) : 근막통 치료로 선택적으로 시행되기도 하나 TTH 자체의 표준 예방치료로 확립되지 않음
 * Botulinum toxin : 일부 연구에서 효과 신호가 있으나 근거의 질과 결과의 일관성이 부족하며, VA/DoD 2023은 chronic TTH 예방 목적으로 사용하지 않을 것을 권고(weak against)
 * 근이완제(cyclobenzaprine, tizanidine 등) : TTH의 표준 예방치료로 권장되지 않음
-  * 국내 1차 진료에서 **eperisone, afloqualone** 등이 경부·어깨 근긴장을 이유로 병용되는 경우가 있으나, **긴장형두통 자체의 치료 효과를 뒷받침하는 근거는 부족하며 표준 치료로 권장되지 않음**
+  * 국내 1차 진료에서 eperisone, afloqualone 등이 경부·어깨 근긴장을 이유로 병용되는 경우가 있으나, 긴장형두통 자체의 치료 효과를 뒷받침하는 근거는 부족하며 표준 치료로 권장되지 않음
   * 동반된 별도의 경부 근골격계 질환에 대한 적응증과 TTH 치료 적응증을 구분하여 처방
-* topiramate, valproate, riboflavin 등은 순수 TTH의 표준 예방치료가 아님. **편두통이 별도로 공존하는 경우에는 편두통 적응증에 따라 해당 챕터에서 선택**
+* topiramate, valproate, riboflavin 등은 순수 TTH의 표준 예방치료가 아님. 편두통이 별도로 공존하는 경우에는 편두통 적응증에 따라 해당 챕터에서 선택
 
 ### <mark style="color:orange;">동반 질환 고려</mark>
 
@@ -225,7 +232,7 @@ _✽편두통 특이 치료제는 순수 TTH의 표준 치료가 아님_
 
 ### <mark style="color:red;">질병코드</mark>
 
-G44.2 긴장형두통
+* G44.2 긴장형두통
 
 ***
 
@@ -295,7 +302,7 @@ G44.2 긴장형두통
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 두통 빈도나 강도가 점점 심해지는 경우
-> * 진통제가 **주 2일을 넘겨 자주 필요하거나** 사용일수가 점점 늘어나는 경우
+> * 진통제가 **주 2일을 넘겨 자주 필요하거나** 사용 일수가 점점 늘어나는 경우
 > * 두통과 함께 팔다리 힘 빠짐·언어 장애·시야 이상이 나타난 경우 - 즉시 응급실 방문
 
 ***
@@ -332,6 +339,6 @@ G44.2 긴장형두통
 #### <mark style="color:$primary;">진통제 복용 시 꼭 지켜주세요</mark>
 
 * 진통제는 가능하면 **주 2일 이내**로 사용하십시오. 너무 자주 사용하면 오히려 두통이 잦아질 수 있습니다.
-* 진통제가 그보다 자주 필요하거나 사용일수가 점점 늘어나면 예방 치료가 필요한지 의사와 상의하십시오.
+* 진통제가 그보다 자주 필요하거나 사용 일수가 점점 늘어나면 예방 치료가 필요한지 의사와 상의하십시오.
 
 ***
