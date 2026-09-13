@@ -331,7 +331,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">급성 복통</mark>
 
-<figure><img src="../.gitbook/assets/복통7.JPG" alt="급성 복통 감별 알고리듬"><figcaption><p>급성 복통 감별 알고리듬 - Ref. familydoctor.org</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/복통7.JPG" alt="급성 복통 감별 알고리듬"><figcaption><p>급성 복통 감별 알고리듬</p></figcaption></figure>
 
 #### <mark style="color:$primary;">만성 복통</mark>
 
