@@ -184,7 +184,7 @@ flowchart TD
 
 <p align="center"><strong>통증 관리 알고리즘</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (관련 문헌: WHO Analgesic Ladder, CDC Clinical Practice Guideline for Prescribing Opioids for Pain 2022, 대한통증학회 아편유사제 처방지침 2024 등)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: WHO Analgesic Ladder, CDC Clinical Practice Guideline for Prescribing Opioids for Pain 2022, 대한통증학회 아편유사제 처방지침 2024 등)</mark></em></p>
 
 ***
 
