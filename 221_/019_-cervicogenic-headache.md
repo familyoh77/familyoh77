@@ -22,7 +22,7 @@
 #### <mark style="color:$primary;">주요 원인 구조물</mark>
 
 * C2\~3 후관절(zygapophyseal joint) 및 그 신경지배인 제3후두신경(third occipital nerve)
-  * 선택된 만성 편타손상((whiplash injury)) 환자의 중재 연구에서는 C2\~3 후관절이 흔한 통증원으로 보고되었으나 일반 외래 환자에게 해당 비율을 그대로 적용할 수 없음
+  * 선택된 만성 편타손상(whiplash injury) 환자의 중재 연구에서는 C2\~3 후관절이 흔한 통증원으로 보고되었으나 일반 외래 환자에게 해당 비율을 그대로 적용할 수 없음
 * 환축관절(atlanto-axial joint, C1\~2), 환후두관절(atlanto-occipital joint, C0\~1)
 * 상부 경추 추간판 및 기타 경추 구조물
 * 상부 경추 신경근병증 기인 두통은 해부학적으로 가능한 원인이지만 근거가 충분하지 않아 ICHD-3에서는 부록 진단(A11.2.4)으로 분류
@@ -143,6 +143,40 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 ***
 
 ```mermaid
+flowchart TD
+    A([경부통 동반 두통]) --> B[Red Flag 평가]
+    B -->|즉각 조치| C[즉시 응급실 <br/>이송·응급 평가]
+    B -->|당일~수일 내 평가| D[당일~수일 내 <br/>평가·신속 의뢰]
+    B -->|없음 또는 외래 추적| E[두통 유형·신경학적 진찰<br/>·ICHD-3 평가]
+    E --> F[병변 증거·인과관계 2개 이상<br/>·타 진단 배제?]
+    F -->|아니오| G[편두통·긴장형두통<br/>·후두신경통 등 재평가]
+    F -->|예| H[교육·운동 및 <br/>필요 시 관절가동술]
+    H --> I[개별화한 보존치료 후 반응]
+    I -->|호전| J[단계적 운동<br/>·생활관리 유지]
+    I -->|지속·악화| K[진단·순응도<br/>·Red Flag 재평가]
+    K --> L[지속적 기능장애와 <br/>후관절성 통증 의심?]
+    L -->|아니오| G
+    L -->|예| M[전문의 의뢰 및 <br/>영상유도 TON 또는 MBB]
+    M --> N[기관별 양성 차단 기준 <br/>충족?]
+    N -->|예| O[이익·위험을 상의하여 <br/>RF 고려]
+    N -->|아니오| K
+
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,F,I,L,N yellow
+
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style D fill:#ffe0b2,stroke:#e65100,stroke-width:2px
+    style E fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+
+    style G fill:#eceff1,stroke:#455a64,stroke-width:2px
+    style K fill:#eceff1,stroke:#455a64,stroke-width:2px
+
+    style H fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style J fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+
+    style M fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style O fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+
 ```
 
 <p align="center"><strong>경추성 두통의 진단 및 관리 알고리듬</strong></p>
@@ -206,10 +240,10 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 * 통증성 근연축이 뚜렷할 때 단기간 선택
 * eperisone : 50 ㎎ tid <mark style="color:blue;">\[에릭슨정 등]</mark>; 드물게 쇼크·아나필락시스 및 중증피부반응 가능
-* tizanidine : 2 ㎎ hs부터 시작 <mark style="color:blue;">\[실다루드]</mark>; 졸음·저혈압·서맥·간기능 이상에 주의. ciprofloxacin,  fluvoxamine과 병용 금기
+* tizanidine : 2 ㎎ hs부터 시작 <mark style="color:blue;">\[실다루드]</mark>; 졸음·저혈압·서맥·간기능 이상에 주의. ciprofloxacin, fluvoxamine과 병용 금기
 * cyclobenzaprine : 급성 동통성 근골격계 질환의 근연축에 한해 2\~3주 이내 사용
   * 속방정 10 ㎎ tid <mark style="color:blue;">\[시클펜정]</mark>
-  * ER 15 ㎎  qd, 필요 시 최대 30 ㎎ qd <mark style="color:blue;">\[본렉스이알캡슐]</mark>
+  * ER 15 ㎎ qd, 필요 시 최대 30 ㎎ qd <mark style="color:blue;">\[본렉스이알캡슐]</mark>
   * 국내 허가사항상 고령자·간장애 환자는 투여 금기 (혈장 농도·반감기가 유의하게 상승함)
 * MAO억제제 투여 중 또는 중단 후 14일 이내, 심근경색 회복기, 부정맥·심차단·심전도장애, 울혈성심부전, 갑상선기능항진증에서도 금기
 * 졸음·어지럼·항콜린 부작용에 주의하고 자동차 운전·기계 조작을 피하도록 안내
@@ -222,7 +256,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 **국소 NSAID 또는 lidocaine 패치**
 
-* &#x20;국소 경부통에 선택적으로 고려할 수 있으나 경추성 두통 자체의 근거는 부족하고 일부 사용은 허가 외일 수 있음
+* 국소 경부통에 선택적으로 고려할 수 있으나 경추성 두통 자체의 근거는 부족하고 일부 사용은 허가 외일 수 있음
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -284,10 +318,10 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 > **처방례 1-1. NSAID 사용이 적절하지 않은 경우**
 >
 > ```
-> 타이레놀500 ㎎/T 1~2T tid prn
+> 타이레놀 500 ㎎/T 1~2T tid prn
 > ```
 >
-> _✽다른 단일제·복합제에 포함된 acetaminophen을 모두 합산하여 성인 총량 4,000 ㎎/d를 초과하지 않도록 하며, 간질환·과음·저체중·고령·영양불량 등 위험요인이 있으면 더 낮게 설정한다. Warfarin 복용 환자가 수일간 반복 복용하는 경우 INR 변화를 고려한다._
+> _✽다른 단일제·복합제에 포함된 acetaminophen을 모두 합산하여 성인 총량 4 g/d를 초과하지 않도록 하며, 간질환·과음·저체중·고령·영양불량 등 위험요인이 있으면 더 낮게 설정한다. Warfarin 복용 환자가 수일간 반복 복용하는 경우 INR 변화를 고려한다._
 
 > **처방례 2. Cyclobenzaprine을 선택하는 경우**
 >
