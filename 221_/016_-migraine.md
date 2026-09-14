@@ -451,7 +451,7 @@ flowchart TD
   * 체중 45 ㎏ 이상 6\~17세 소아·청소년 삽화성 편두통 예방 적응증 추가 (2026)
 * galcanezumab <mark style="color:blue;">\[엠겔러티]</mark> : 120 ㎎/월 SC (초회 240 ㎎) (조건부 급여)
   * 국내 군발두통용 100 ㎎ 품목은 2024년 허가 취하되어 현재 편두통 예방 적응증으로 사용
-* erenumab \[에이모빅] : 70\~140 ㎎/월 SC (수용체 결합형; 2026년 9월 기준 국내 미허가·미출시)
+* erenumab <mark style="color:blue;">\[에이모빅]</mark> : 70\~140 ㎎/월 SC (수용체 결합형; 2026년 9월 기준 국내 미허가·미출시)
 * eptinezumab <mark style="color:blue;">\[바이엡티]</mark> : 100 ㎎ 또는 300 ㎎/분기 IV (0.9% 생리식염수 100 ㎖ 희석 후 약 30분간 정맥 점적 주입, 연 4회); 국내 최초 CGRP 정맥주입 예방치료제 (2026년 5월 국내 허가 - 출시 예정)
 
 #### <mark style="color:$primary;">CGRP 수용체 길항제 (Gepant 계열, 경구 예방제)</mark>
