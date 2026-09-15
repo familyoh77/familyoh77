@@ -117,7 +117,7 @@
 
 #### <mark style="color:$primary;">임상 양상</mark>
 
-* **Definite Ménière disease 진단기준**
+* Definite Ménière disease 진단기준
   * 20분\~12시간 지속되는 자발성 현훈 발작 2회 이상
   * 발작 전·중 또는 후 적어도 한 번의 청력검사에서 확인된 환측 저\~중주파수 감각신경성 난청
   * 환측의 변동성 청각 증상(난청, 이명 또는 귀 충만감)
@@ -341,32 +341,20 @@ AUV(Acute unilateral vestibulopathy) : vestibular neuritis를 대체하는 용�
 
 <table><thead><tr><th width="165">소견</th><th>말초성 패턴</th><th>중추성 위험 소견</th></tr></thead><tbody><tr><td>자발안진</td><td>방향고정성 수평-회선성</td><td>주시 방향에 따른 방향변환성, 수직 또는 순수 회선성</td></tr><tr><td>Head impulse</td><td>병변 측 교정성 단속운동</td><td>AVS에서 정상 반응. 단, 비정상 반응도 AICA 경색을 배제하지 못함</td></tr><tr><td>Skew</td><td>없음</td><td>수직 안구 재정렬</td></tr><tr><td>보행·체간</td><td>불안정할 수 있으나 대개 보조하여 보행 가능</td><td>부축 없이 앉거나 서기 어렵거나 보행 불가</td></tr><tr><td>청각</td><td>질환에 따라 난청·이명 동반 가능</td><td>AVS와 새 일측성 청력 저하가 동반되면 AICA 경색 위험 증가</td></tr><tr><td>기타 신경학적 소견</td><td>없음</td><td>복시, 구음·연하 장애, 편측 위약·감각저하, 사지실조 등</td></tr></tbody></table>
 
-_<mark style="color:$info;">✽ 증상 강도·구역·청각 증상만으로 중추성과 말초성을 구분하지 않음. HINTS Plus는 현재 자발안진이 있는 AVS에서 훈련된 검사자가 시행.</mark>_
+> _<mark style="color:$info;">증상 강도·구역·청각 증상만으로 중추성과 말초성을 구분하지 않음.</mark>_\
+> _<mark style="color:$info;">HINTS Plus는 현재 자발안진이 있는 AVS에서 훈련된 검사자가 시행.</mark>_
 
 #### <mark style="color:$primary;">체위성 안진: 말초성 vs 중추성</mark>
 
-| 특징    | 전형적 canalolithiasis BPPV | 중추성 체위안진 의심                            |
-| ----- | ------------------------ | -------------------------------------- |
-| 잠복기   | 짧은 잠복기 후 발생할 수 있음        | 즉시 발생할 수 있음                            |
-| 방향    | 해당 반고리관 평면에 맞는 특징적 안진    | 순수 수직·순수 회선성 또는 반고리관 평면과 맞지 않는 비전형적 안진 |
-| 지속·경과 | 대개 1분 미만이고 감소            | 지속성, 반복해도 감소하지 않거나 정복술에 반응하지 않음        |
-| 동반 소견 | 국소 신경학적 이상 없음            | 새 신경학적 소견, 심한 체간실조 등이 동반될 수 있음         |
+<table><thead><tr><th width="100">특징</th><th>전형적 canalolithiasis BPPV</th><th>중추성 체위안진 의심</th></tr></thead><tbody><tr><td>잠복기</td><td>짧은 잠복기 후 발생할 수 있음</td><td>즉시 발생할 수 있음</td></tr><tr><td>방향</td><td>해당 반고리관 평면에 맞는 특징적 안진</td><td>순수 수직·순수 회선성 또는 반고리관 평면과 맞지 않는 비전형적 안진</td></tr><tr><td>지속·경과</td><td>대개 1분 미만이고 감소</td><td>지속성, 반복해도 감소하지 않거나 정복술에 반응하지 않음</td></tr><tr><td>동반 소견</td><td>국소 신경학적 이상 없음</td><td>새 신경학적 소견, 심한 체간실조 등이 동반될 수 있음</td></tr></tbody></table>
 
-_<mark style="color:$info;">Ref. Bárány Society BPPV diagnostic criteria; AAO-HNS BPPV guideline.</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. Bárány Society BPPV diagnostic criteria; AAO-HNS BPPV guideline.</mark></em></p>
 
 #### <mark style="color:$primary;">Vertigo 원인별 특징</mark>
 
-| 원인                      | Timing·trigger               | 핵심 소견                                            | 주요 검사·조치                              |
-| ----------------------- | ---------------------------- | ------------------------------------------------ | ------------------------------------- |
-| **BPPV**                | 자세로 유발되는 반복성 짧은 발작(대개 1분 미만) | 청각·신경학적 이상 없음                                    | Dix-Hallpike 또는 supine roll test; 정복술 |
-| **AUV**                 | 24시간 이상 지속되는 급성 현훈           | 방향고정성 수평-회선성 안진, 일측 VOR 저하; 새 청각·중추성 소견 없음       | 적절한 대상에서 HINTS Plus; 조기 전정재활          |
-| **Ménière disease**     | 20분\\\~12시간 자발성 발작           | 변동성 환측 난청·이명·귀 충만감                               | 청력검사; 전정편두통 감별                        |
-| **Vestibular migraine** | 5분\\\~72시간 반복 발작             | 50% 이상 발작에서 편두통 특징; 이명·귀 충만감 가능                  | 임상 진단·다른 원인 배제                        |
-| **PPPD**                | 3개월 이상 대부분의 날                | 직립·움직임·복잡한 시각 자극으로 악화                            | 전정재활·CBT; 약물은 개별화                     |
-| **후순환 TIA**             | 유발 요인 없는 일과성 반복 발작           | 혈관 위험, 신경·보행·안구운동 이상이 일시적일 수 있음                  | 응급 신경학적 평가; 필요 시 CTA/MRA              |
-| **뇌간·소뇌 뇌졸중**           | 급성 지속성 증상                    | 중추성 HINTS, 심한 체간실조, 국소 신경학적 소견; AICA 경색은 새 난청 가능 | 응급 MRI/MRA; 초기 DWI 위음성 주의             |
+<table data-search="false"><thead><tr><th width="127">원인</th><th>Timing·trigger</th><th>핵심 소견</th><th>주요 검사·조치</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>자세로 유발되는 반복성 짧은 발작(대개 1분 미만)</td><td>청각·신경학적 이상 없음</td><td>Dix-Hallpike 또는 supine roll test; 정복술</td></tr><tr><td><strong>AUV</strong></td><td>24시간 이상 지속되는 급성 현훈</td><td>방향고정성 수평-회선성 안진, 일측 VOR 저하; 새 청각·중추성 소견 없음</td><td>적절한 대상에서 HINTS Plus; 조기 전정재활</td></tr><tr><td><strong>Ménière disease</strong></td><td>20분~12시간 자발성 발작</td><td>변동성 환측 난청·이명·귀 충만감</td><td>청력검사; 전정편두통 감별</td></tr><tr><td><strong>Vestibular migraine</strong></td><td>5분~72시간 반복 발작</td><td>50% 이상 발작에서 편두통 특징; 이명·귀 충만감 가능</td><td>임상 진단·다른 원인 배제</td></tr><tr><td><strong>PPPD</strong></td><td>3개월 이상 대부분의 날</td><td>직립·움직임·복잡한 시각 자극으로 악화</td><td>전정재활·CBT; 약물은 개별화</td></tr><tr><td><strong>후순환 TIA</strong></td><td>유발 요인 없는 일과성 반복 발작</td><td>혈관 위험, 신경·보행·안구운동 이상이 일시적일 수 있음</td><td>응급 신경학적 평가; 필요 시 CTA/MRA</td></tr><tr><td><strong>뇌간·소뇌 뇌졸중</strong></td><td>급성 지속성 증상</td><td>중추성 HINTS, 심한 체간실조, 국소 신경학적 소견; AICA 경색은 새 난청 가능</td><td>응급 MRI/MRA; 초기 DWI 위음성 주의</td></tr></tbody></table>
 
-_<mark style="color:$info;">Ref. Bárány Society ICVD criteria; GRACE-3 acute dizziness guideline.</mark>_
+<p align="center"><em><mark style="color:$info;">Ref. Bárány Society ICVD criteria; GRACE-3 acute dizziness guideline.</mark></em></p>
 
 ***
 
@@ -418,7 +406,7 @@ flowchart TD
 
 ```
 
-<p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">TiTrATE 및 GRACE-3 timing-and-triggers 접근법 기반</mark></em></p>
+<p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 구성</mark></em> - <em><mark style="color:$info;">TiTrATE 및 GRACE-3 timing-and-triggers 접근법 기반</mark></em></p>
 
 ***
 
@@ -468,7 +456,8 @@ flowchart TD
   * 멀미에 의한 구역·구토·어지러움 : 25\~50 ㎎을 승차 1시간 전에 1회 투여하고, 여행 중 필요 시 24시간마다 반복
   * 미로염·메니에르증후군·방사선·숙취에 의한 구역·구토·어지러움 : 1회 25 ㎎, 1일 2\~3회; 최대 75 ㎎/d
   * BPPV·AUV 등 허가사항에 명시되지 않은 원인의 어지럼에 사용하는 경우에는 적응증과 근거를 별도로 검토
-* dimenhydrinate : 임상적 단기 대증치료 시 25\~50 ㎎ bid\~qid <mark style="color:blue;">\[보나링 에이]</mark>
+* dimenhydrinate <mark style="color:blue;">\[보나링 에이]</mark>
+  * 임상적 단기 대증치료 시 25\~50 ㎎ bid\~qid&#x20;
   * 국내 허가 용법은 성인 1회 50 ㎎, 1일 3\~4회이며 원칙적으로 1일 200 ㎎을 초과하지 않음
   * 녹내장·전립선비대 등 하부요로폐색성 질환 환자에는 투여 금기
 
@@ -476,11 +465,12 @@ flowchart TD
 
 * scopolamine 경피제 : 멀미에 적용
   * 출발 4시간 이전에 귀 뒤에 1매 부착(72시간 동안 효과) <mark style="color:blue;">\[키미테 패취]</mark>
-  * 성인용 제품은 만 16세 이상에서 사용. 과거 8\~15세용 어린이키미테패취는 2020년 허가 취소되었으므로 소아에게 성인용 패취를 분할·대체 사용하지 않으며 최신 제품 허가사항을 확인
+  * 성인용 제품은 만 16세 이상에서 사용. 과거 8\~15세용 어린이키미테패취는 2020년 허가 취소되었으므로 소아에게 성인용 패취를 분할·대체 사용하지 않음
 
 ### <mark style="color:orange;">항구토제</mark>
 
-* metoclopramide : 단기 사용; 5\~10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
+* metoclopramide&#x20;
+  * 단기 사용; 5\~10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
   * 고령 환자와 파킨슨병 환자에서 추체외로 증상(파킨슨 유사 증상, 급성 근긴장이상, 지연성 이상운동증) 위험이 증가하므로 피하거나 가능한 단기간(5일 이내) 사용
   * 다른 진정성 전정억제제와의 불필요한 병용을 피함
 
@@ -673,7 +663,7 @@ flowchart TD
 ### <mark style="color:red;">질병코드</mark>
 
 * R42 어지럼증 및 어지럼 Dizziness and giddiness
-  * _실무 팁 : 확정 진단 전에는 R42를 사용할 수 있으며, 원인 질환이 확인되면 실제 진료기록과 진단에 맞는 질병코드를 사용함. 의심만으로 특정 질환 코드를 삭감 방지 목적으로 병기하지 않음_
+  * 실무 팁 : 확정 진단 전에는 R42를 사용할 수 있으며, 원인 질환이 확인되면 실제 진료기록과 진단에 맞는 질병코드를 사용함. 의심만으로 특정 질환 코드를 삭감 방지 목적으로 병기하지 않음
 * H81.0 메니에르병 Meniere’s disease
 * H81.1 양성 발작성 현기증 Benign paroxysmal vertigo
 * H81.2 전정신경세포염 Vestibular neuronitis
