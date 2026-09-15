@@ -186,22 +186,22 @@ style K fill:#fde8f0,stroke:#e91e8c
 
 * 충분한 수분 섭취 : 연하 통증이 있어도 차가운 음료·아이스크림 등으로 수분 유지
 * 충분한 휴식 : 특히 발열 기간 중 안정
-* 소금물 가글 : 따뜻한 생리식염수 또는 소금물(물 1컵 + 소금 ¼ 티스푼)로 자주 가글
+* 소금물 가글 : 따뜻한 생리식염수 또는 소금물(물 1컵\[약 250 ㎖]에 소금 ½ 작은술\[약 3 g])로 가글한 뒤 삼키지 말고 뱉음; 인후통을 일시적으로 완화할 수 있음
 * 부드러운 음식 : 연하 통증 기간 중 죽·두부·요거트 등 자극이 적은 음식
 * 금연 : 흡연은 편도 점막 손상 및 면역 기능 저하
 * 격리 : GABHS 확인 시 적절한 항생제 시작 후 최소 12\~24시간이 지나고 발열이 없어질 때까지 등교·출근 자제
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">대증 치료</mark>&#x20;
+### <mark style="color:orange;">대증 치료</mark>
 
 #### <mark style="color:$primary;">해열진통제</mark>
 
-**NSAID**&#x20;
+**NSAID**
 
 * 통증·발열 완화에 효과적; 최소 유효용량을 최단기간 사용하고 위장 불편이 있으면 음식과 함께 복용
 * 탈수·섭취 불량, 소화성 궤양, 신기능 저하, 항응고제 복용 또는 임신 후기에는 사용을 피하거나 신중히 판단
-* ibuprofen <mark style="color:blue;">\[부루펜]</mark>&#x20;
+* ibuprofen <mark style="color:blue;">\[부루펜]</mark>
   * 성인 : 200\~400 ㎎ q6\~8hr 필요 시 복용 <mark style="color:blue;">\[부루펜]</mark>
   * 소아 : 5\~10 ㎎/㎏ q6\~8hr, 최대 40 ㎎/㎏/d; ≥6개월 연령 허가
     * <mark style="color:blue;">\[부루펜 시럽]</mark>(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
@@ -217,7 +217,7 @@ style K fill:#fde8f0,stroke:#e91e8c
 
 #### <mark style="color:$primary;">Corticosteroid (routine 사용하지 않음)</mark>
 
-**Dexamethasone**&#x20;
+**Dexamethasone**
 
 * 표준 해열진통제에 비해 추가 이득은 제한적이며 지침별 권고가 일치하지 않음; routine으로 처방하지 않음
 * 진통제로 조절되지 않는 매우 심한 인후통에서 농양·심부경부감염·기도 위험을 배제한 후 단회 투여를 선택적으로 고려
@@ -234,7 +234,7 @@ style K fill:#fde8f0,stroke:#e91e8c
 * EBV (전염성 단핵구증) 의심 시 불필요한 amoxicillin·ampicillin 투여를 피함 : 반구진 발진이 나타날 수 있으나 발생률은 과거 알려진 80\~100%보다 낮고 연구마다 차이가 큼. 발진은 EBV 확진 소견이나 영구적인 penicillin 알레르기의 증거가 아님
 * '검사 기반 처방' 원칙 : 성인에서 McIsaac ≥3점은 RADT를 시행하여 양성이면 처방. 경험적 항생제는 McIsaac ≥3점이면서 RADT 시행이 불가능한 경우에만 제한적으로 고려
 
-#### <mark style="color:$primary;">GABHS 급성 편도염</mark>&#x20;
+#### <mark style="color:$primary;">GABHS 급성 편도염</mark>
 
 **1차 선택**
 
