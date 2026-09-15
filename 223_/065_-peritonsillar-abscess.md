@@ -13,7 +13,7 @@
 * 대부분 호기성·혐기성 균주의 복합 감염
 * 호기성 균주 : Group A β-hemolytic Streptococcus (GABHS), _S. aureus_, _H. influenzae_
 * 혐기성 균주 : _Fusobacterium necrophorum_, _Peptostreptococcus_ spp., _Prevotella_ spp.
-* 임상 포인트 : 특히 15\~30세 젊은 성인에서는 _Fusobacterium necrophorum_이 중요한 병원균임. PTA는 다균성 감염이 흔하여 국내 외래에서는 β-lactam/β-lactamase inhibitor가 널리 사용되지만, 충분히 배농된 면역 정상 환자에서 β-lactam 단독요법이 반드시 열등하다는 근거는 없음
+* 임상 포인트 : 특히 15\~30세 젊은 성인에서는 \_Fusobacterium necrophorum\_이 중요한 병원균임. PTA는 다균성 감염이 흔하여 국내 외래에서는 β-lactam/β-lactamase inhibitor가 널리 사용되지만, 충분히 배농된 면역 정상 환자에서 β-lactam 단독요법이 반드시 열등하다는 근거는 없음
   * _F. necrophorum_ 감염은 Lemierre syndrome(경정맥 패혈성 혈전정맥염 + 혐기성 패혈 전이)의 주요 원인균임을 항상 기억할 것
 * MRSA는 routine coverage 불필요 - 치료 실패 또는 위험 인자(피부 반복 감염, 교정시설 등) 있을 때만 고려
 
@@ -42,14 +42,14 @@
 * 악하 공간 부종, 혀 거상, 경부 경결 동반 → Ludwig's angina
 * 경부 강직, 경추 굴곡 제한 동반 → 후인두 농양
 * 인후통 이후 수일 내 고열 지속 + 경정맥 주행부(흉쇄유돌근 전연) 압통 + 폐 전이 병변(흉통·기침·혈담) 동반 → Lemierre syndrome (15\~30세에서 특히 경계)
-* 저혈압, 빈맥, 의식 변화 → 패혈증 또는 쇼크&#x20;
+* 저혈압, 빈맥, 의식 변화 → 패혈증 또는 쇼크
 
 <mark style="color:$warning;">**당일 긴급 평가 또는 의뢰 (이비인후과)**</mark>
 
 * 소아 또는 면역 저하 환자(면역억제제 복용, 조절되지 않는 당뇨병, HIV 등)
 * 개구 장애가 심하여 구강 내 시술이 불가능한 경우
 * 심한 탈수로 경구 수분 섭취 불가; 경구 항생제 복용 곤란
-* 양측성 편도 주위 농양&#x20;
+* 양측성 편도 주위 농양
 * 초음파 또는 CT에서 심부 경부 감염 확산이 의심되는 경우 → 기도·전신 상태에 따라 즉시 응급 이송
 * 치료 후 다시 발생한 급성 PTA 의심(특히 동측 2회 이상)
 
@@ -69,18 +69,18 @@
 
 #### <mark style="color:$primary;">비전형적 소견</mark>
 
-**구강 내 초음파 (Intraoral ultrasound)**&#x20;
+**구강 내 초음파 (Intraoral ultrasound)**
 
 * 농양 vs 봉와직염 감별 시 우선 고려할 수 있는 영상; 시술자 숙련도와 장비 접근성을 고려
 * 2023년 메타분석 : 전체 초음파 민감도 86%, 특이도 76%; 구강 내 초음파 민감도 91%, 특이도 75%로 배제에 비교적 유용하나 확진 특이도는 중등도
 * 심한 trismus로 구강 내 초음파가 어려우면 경부 초음파 또는 CT 고려
 * 농양 cavity 확인 및 needle aspiration 유도에 유용
 
-**고름 흡인**&#x20;
+**고름 흡인**
 
 * 진단 겸 치료법. 고름이 흡인되지 않아도 봉와직염으로 단정하지 말고, 부정확한 위치·작은 또는 다방성 농양·하극/후방 농양을 고려하여 초음파·CT 또는 이비인후과 평가
 
-#### <mark style="color:$primary;">CT (조영 증강)</mark>&#x20;
+#### <mark style="color:$primary;">CT (조영 증강)</mark>
 
 * 진단이 불확실하거나 심한 trismus로 구강 내 평가가 어렵고 초음파를 시행할 수 없는 경우, 초기 흡인 실패, 하극/후방 농양 또는 후인두 농양·Ludwig's angina 등 심부 확산이 의심될 때 시행
 * 기도 불안정 환자에서는 영상검사를 위해 기도 처치를 지연하지 않음
@@ -89,7 +89,7 @@
 
 #### <mark style="color:$primary;">PTA vs 중증 편도염 vs 급성 후두개염 감별</mark>
 
-<table><thead><tr><th width="155">항목</th><th width="189.11767578125">편도 주위 농양 (PTA)</th><th width="155.00006103515625">중증 편도염</th><th>급성 후두개염</th></tr></thead><tbody><tr><td>발병 양상</td><td>점진적 (수일)</td><td>급성</td><td>급격할 수 있음</td></tr><tr><td>통증 부위</td><td>편측, 매우 심함</td><td>대개 양측</td><td>구강 소견에 비해 연하통이 매우 심함</td></tr><tr><td>Trismus</td><td><strong>흔함</strong></td><td>드묾</td><td>대개 없음</td></tr><tr><td>음성 변화</td><td>Muffled “hot potato” voice</td><td>경미할 수 있음</td><td>먹먹하거나 쉰 음성</td></tr><tr><td>침흘림</td><td>가능</td><td>드묾</td><td>분비물 처리 곤란 시 발생</td></tr><tr><td>호흡 곤란</td><td>드묾 (진행 시 발생)</td><td>대개 없음</td><td><strong>기도 폐쇄 위험</strong></td></tr><tr><td>Stridor</td><td>비전형적</td><td>비전형적</td><td>나타나면 중증 기도 폐쇄 시사</td></tr><tr><td>자세</td><td>특별한 자세 없음</td><td>정상</td><td>Tripod position 가능</td></tr><tr><td>구강 시진</td><td>연구개 부종 + anterior pillar bulging + uvula 반대측 편위</td><td>양측 편도 비대 ± <br>삼출물</td><td>구강 소견이 정상 또는 경미할 수 있음</td></tr><tr><td>기도 위험도</td><td>진행 정도에 따라 다름</td><td>대개 낮음</td><td>🚨 매우 높음 - 즉시 대응</td></tr><tr><td>진단 확인</td><td>Aspiration / 초음파; 필요 시 조영 증강 CT</td><td>임상 진단</td><td>기도가 안정적이면 ENT의 flexible nasolaryngoscopy; X-ray/CT는 보조 검사</td></tr></tbody></table>
+<table><thead><tr><th width="155">항목</th><th width="189.11767578125">편도 주위 농양 (PTA)</th><th width="155.00006103515625">중증 편도염</th><th>급성 후두개염</th></tr></thead><tbody><tr><td>발병 양상</td><td>점진적 (수일)</td><td>급성</td><td>급격할 수 있음</td></tr><tr><td>통증 부위</td><td>편측, 매우 심함</td><td>대개 양측</td><td>구강 소견에 비해 연하통이 매우 심함</td></tr><tr><td>Trismus</td><td><strong>흔함</strong></td><td>드묾</td><td>대개 없음</td></tr><tr><td>음성 변화</td><td>Muffled “hot potato” voice</td><td>경미할 수 있음</td><td>먹먹하거나 쉰 음성</td></tr><tr><td>침흘림</td><td>가능</td><td>드묾</td><td>분비물 처리 곤란 시 발생</td></tr><tr><td>호흡 곤란</td><td>드묾 (진행 시 발생)</td><td>대개 없음</td><td><strong>기도 폐쇄 위험</strong></td></tr><tr><td>Stridor</td><td>비전형적</td><td>비전형적</td><td>나타나면 중증 기도 폐쇄 시사</td></tr><tr><td>자세</td><td>특별한 자세 없음</td><td>정상</td><td>Tripod position 가능</td></tr><tr><td>구강 시진</td><td>연구개 부종 + anterior pillar bulging + uvula 반대측 편위</td><td>양측 편도 비대 ±<br>삼출물</td><td>구강 소견이 정상 또는 경미할 수 있음</td></tr><tr><td>기도 위험도</td><td>진행 정도에 따라 다름</td><td>대개 낮음</td><td>🚨 매우 높음 - 즉시 대응</td></tr><tr><td>진단 확인</td><td>Aspiration / 초음파; 필요 시 조영 증강 CT</td><td>임상 진단</td><td>기도가 안정적이면 ENT의 flexible nasolaryngoscopy; X-ray/CT는 보조 검사</td></tr></tbody></table>
 
 {% hint style="danger" %}
 **급성 후두개염(epiglottitis)은 성인에서도 발생하며, 구강 소견이 정상에 가까워 PTA로 오인될 수 있음.** 구강 소견에 비해 심한 연하통, 분비물 처리 곤란, 호흡 곤란 또는 협착음이 있으면 즉시 기도 평가와 이비인후과 협진이 필요함. 기도 불안정 시 영상이나 무리한 인두 검사를 위해 기도 확보를 지연하지 않음
@@ -97,10 +97,10 @@
 
 #### <mark style="color:$primary;">기타 감별 질환</mark>
 
-<table><thead><tr><th width="139.58819580078125">질환</th><th width="318.11767578125">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td>편도 주위 <br>봉와직염</td><td>PTA와 소견이 중복될 수 있음; 초음파에서 명확한 농양 cavity 없음</td><td>항생제 치료 후 24~48시간 재평가</td></tr><tr><td>전염성 단핵구증 <br>(EBV)</td><td>양측성 심한 편도 비대, 후경부 림프절병증, 비장비대; CBC 및 필요 시 EBV 특이 항체</td><td>Aminopenicillin 투여 후 반구진성 발진 위험 증가; PTA와 공존 가능</td></tr><tr><td>후인두 농양</td><td>경부 강직, 경부 굴곡 제한, 인두후벽 팽윤</td><td>기도가 안정적이면 조영 증강 CT; 즉시 이비인후과 의뢰</td></tr><tr><td>Ludwig's <br>angina</td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험</td><td>응급 기도 평가·확보</td></tr><tr><td>편도 종양</td><td>무통성; 항생제 무반응; 편측 편도 비대 지속</td><td>악성 종양 배제 위해 이비인후과 평가·조직검사</td></tr></tbody></table>
+<table><thead><tr><th width="139.58819580078125">질환</th><th width="318.11767578125">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td>편도 주위<br>봉와직염</td><td>PTA와 소견이 중복될 수 있음; 초음파에서 명확한 농양 cavity 없음</td><td>항생제 치료 후 24~48시간 재평가</td></tr><tr><td>전염성 단핵구증<br>(EBV)</td><td>양측성 심한 편도 비대, 후경부 림프절병증, 비장비대; CBC 및 필요 시 EBV 특이 항체</td><td>Aminopenicillin 투여 후 반구진성 발진 위험 증가; PTA와 공존 가능</td></tr><tr><td>후인두 농양</td><td>경부 강직, 경부 굴곡 제한, 인두후벽 팽윤</td><td>기도가 안정적이면 조영 증강 CT; 즉시 이비인후과 의뢰</td></tr><tr><td>Ludwig's<br>angina</td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험</td><td>응급 기도 평가·확보</td></tr><tr><td>편도 종양</td><td>무통성; 항생제 무반응; 편측 편도 비대 지속</td><td>악성 종양 배제 위해 이비인후과 평가·조직검사</td></tr></tbody></table>
 
 {% hint style="warning" %}
-외래에서 절대 놓치면 안 되는 3가지 : \
+외래에서 절대 놓치면 안 되는 3가지 :\
 **기도 폐쇄** (Airway compromise) : 협착음, 호흡 곤란, 저산소증 또는 분비물을 전혀 처리하지 못하는 심한 침흘림이 있으면 즉시 응급 이송\
 **심부 경부 감염** (Deep neck infection) : 후인두 농양, Ludwig's angina 배제\
 **Lemierre syndrome** : 특히 젊은 성인에서 고열 지속 + 경정맥 압통 + 폐 증상 동반 시 의심
@@ -146,7 +146,7 @@ class G,E,O lightGreen
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:orange;">치료 원칙</mark>&#x20;
+### <mark style="color:orange;">치료 원칙</mark>
 
 * 치료 원칙 : 기도 평가 + 감염원 조절(source control) + 항생제 + 수분·통증 조절
   * 임상적으로 의미 있는 농양에는 needle aspiration 또는 I\&D와 항생제 병행이 전통적인 표준 치료
@@ -304,14 +304,14 @@ J39.0 인두뒤 및 인두옆 농양 — 해당 심부 경부 농양이 실제�
 >
 > _✽Clindamycin은 중증 즉시형 β-lactam 알레르기의 대체제로 사용할 수 있으나 지역 내성률을 고려. 위장 장애(구역·설사)가 흔하며 C. difficile 장염 가능성을 안내. 비중증 지연형 알레르기는 병력을 재평가하여 cephalosporin 사용 가능 여부를 판단._
 
-> **처방례 3. 봉와직염(배농 불필요) 단계 - 초기 경구 치료, 24~48시간 내 재평가 예정**
+> **처방례 3. 봉와직염(배농 불필요) 단계 - 초기 경구 치료, 24\~48시간 내 재평가 예정**
 >
 > ```
 > 오구멘틴 625 ㎎/T   3T   #3   (tid × 5일, 재평가 후 연장)
 > 부루펜 400 ㎎/T   3T   #3   (tid pc)
 > ```
 >
-> _✽통증이 심할 경우 타이레놀 ER 추가 가능(NSAIDs 2종 중복 투여는 피할 것). 24~48시간 내 농양 진행 여부를 반드시 재평가. EBV가 의심되면 임상 시점에 맞춰 EBV 특이 항체검사를 고려하며 Monospot 결과만으로 확진·배제하지 않음._
+> _✽통증이 심할 경우 타이레놀 ER 추가 가능(NSAIDs 2종 중복 투여는 피할 것). 24\~48시간 내 농양 진행 여부를 반드시 재평가. EBV가 의심되면 임상 시점에 맞춰 EBV 특이 항체검사를 고려하며 Monospot 결과만으로 확진·배제하지 않음._
 
 ***
 
@@ -373,7 +373,7 @@ J39.0 인두뒤 및 인두옆 농양 — 해당 심부 경부 농양이 실제�
 #### <mark style="color:$primary;">집에서 어떻게 관리하나요?</mark>
 
 * 충분한 수분 섭취 : 물, 보리차, 이온 음료 등을 자주 마셔 탈수를 예방하십시오.
-* 배농 부위에서 피가 나지 않고 의료진이 허용한 경우, **따뜻한 소금물로 가볍게 가글**하면 인후 불편감 완화에 도움이 될 수 있습니다.
+* 배농 부위에서 피가 나지 않고 의료진이 허용한 경우, **따뜻한 소금물**(물 1컵\[약 250 ㎖]에 소금 ½ 작은술\[약 3 g])**로 가볍게 가글**하면 인후 불편감 완화에 도움이 될 수 있습니다.
 * 부드럽고 삼키기 쉬운 음식 위주로 드십시오 (죽, 요구르트, 부드러운 면류 등).
 * **충분한 휴식**을 취하십시오. 고열이 있는 동안은 무리한 활동을 삼가십시오.
 * 흡연은 PTA 발생과 연관되어 있으므로 금연하십시오.

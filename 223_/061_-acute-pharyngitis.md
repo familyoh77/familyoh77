@@ -10,10 +10,10 @@
 * 항생제의 합병증 예방 효과 : 류마티스열 예방 가능 (발병 9일 이내 투여 시); 편도주위농양 등 화농성 합병증 발생 빈도 감소; PSGN(사구체신염) 예방 효과는 없음
 * 생활 복귀 : 적절한 항생제 시작 후 최소 12\~24시간이 경과하고 해열제를 사용하지 않아도 발열이 없으며 전신 상태가 양호하면 직장·학교 복귀 가능; 의료인·집단 유행 상황에서는 24시간 기준 적용
 
-## <mark style="color:green;">원인</mark>&#x20;
+## <mark style="color:green;">원인</mark>
 
 * 바이러스 (감염의 대부분) : rhinovirus, adenovirus, EBV, CMV, influenza, parainfluenza, SARS-CoV-2 등
-* 세균 : 성인 약 5\~15%, 소아 20\~30%; 주로 group A Streptococcus (GAS, GABHS = *S. pyogenes*); 그 외 group C/G Streptococcus, 청소년·젊은 성인의 *Fusobacterium necrophorum*, 성접촉 관련 *Neisseria gonorrhoeae*, 예방접종 미비자·해외 노출자의 *Corynebacterium diphtheriae* 등
+* 세균 : 성인 약 5\~15%, 소아 20\~30%; 주로 group A Streptococcus (GAS, GABHS = _S. pyogenes_); 그 외 group C/G Streptococcus, 청소년·젊은 성인의 _Fusobacterium necrophorum_, 성접촉 관련 _Neisseria gonorrhoeae_, 예방접종 미비자·해외 노출자의 _Corynebacterium diphtheriae_ 등
 * 비감염성 : 물리적·화학적 손상, 위산 역류, 건조한 공기
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -70,7 +70,7 @@
 * 기도 폐쇄 소견 : stridor, 청색증·저산소증, 심한 호흡곤란·흉부 함몰, 침도 삼키지 못하고 흘림, sniffing/tripod position → 급성 후두개염 또는 심경부 감염
 * "hot potato" voice 또는 심한 개구 장애(trismus)에 위 기도 폐쇄 소견이 동반됨 → 편도주위농양 또는 deep neck space infection
 * 고열(≥39℃) + 빈맥 + 의식 변화 → 패혈증 소견
-* 인두염이 잠시 호전된 뒤 오한·고열이 재발하면서 편측 경부 통증·부종 또는 호흡곤란·흉막성 흉통 발생 → Lemierre's syndrome&#x20;
+* 인두염이 잠시 호전된 뒤 오한·고열이 재발하면서 편측 경부 통증·부종 또는 호흡곤란·흉막성 흉통 발생 → Lemierre's syndrome
 
 {% hint style="danger" %}
 **후두개염 의심 시 주의** : 환자를 눕히거나 불필요하게 자극하지 않고 즉각 이송. 특히 소아에서 설압자를 이용한 무리한 인두 시진은 급성 기도 폐쇄를 촉발할 수 있음. 영상 검사는 안정된 환자에서만 보조적으로 고려하며 기도 확보를 지연해서는 안 됨
@@ -107,14 +107,14 @@
 ### <mark style="color:orange;">감별</mark>
 
 {% hint style="info" %}
-**점수 체계 사용 전 전제** : FeverPAIN과 Centor Score는 GAS 감염 가능성을 평가하기 위한 도구로서 바이러스성 인두염을 진단하거나 GAS 감염을 확진하는 검사가 아님. 기침·콧물 등 바이러스 의심 증상이 뚜렷한 환자에게는 점수 산정 없이 대증 치료로 진행&#x20;
+**점수 체계 사용 전 전제** : FeverPAIN과 Centor Score는 GAS 감염 가능성을 평가하기 위한 도구로서 바이러스성 인두염을 진단하거나 GAS 감염을 확진하는 검사가 아님. 기침·콧물 등 바이러스 의심 증상이 뚜렷한 환자에게는 점수 산정 없이 대증 치료로 진행
 {% endhint %}
 
 #### <mark style="color:$primary;">FeverPAIN scoring</mark>
 
 <table><thead><tr><th width="357">기준 항목</th><th width="108">해당 시</th></tr></thead><tbody><tr><td><strong>F</strong>ever - 최근 24시간 이내 발열</td><td>1점</td></tr><tr><td><strong>P</strong>urulence - 편도 삼출물</td><td>1점</td></tr><tr><td><strong>A</strong>ttend rapidly - 증상 발생 후 3일 이내 내원</td><td>1점</td></tr><tr><td>severely <strong>I</strong>nflamed tonsils - 심한 편도 염증</td><td>1점</td></tr><tr><td><strong>N</strong>o cough or coryza - 기침·콧물 없음</td><td>1점</td></tr></tbody></table>
 
-* NICE의 검사 비의존적 대안 전략&#x20;
+* NICE의 검사 비의존적 대안 전략
   * 0\~1점 → 항생제 투여하지 않음
   * 2\~3점 → 원칙적으로 항생제를 투여하지 않거나 임상 경과에 따라 지연 처방 고려
   * 4\~5점 → 즉시 또는 지연 항생제 처방 고려
@@ -122,9 +122,9 @@
 
 #### <mark style="color:$primary;">Centor Score (Modified McIsaac)</mark>
 
-<table><thead><tr><th width="198">기준 항목</th><th>점수</th></tr></thead><tbody><tr><td>발열 (≥38℃)</td><td>+1점</td></tr><tr><td>기침 없음</td><td>+1점</td></tr><tr><td>전경부 림프절 비대·압통</td><td>+1점</td></tr><tr><td>편도 부종 또는 삼출물</td><td>+1점</td></tr><tr><td>연령 : 3~14세 </td><td>+1점</td></tr><tr><td>　　15~44세</td><td>0점</td></tr><tr><td>　　≥45세</td><td>-1점 (노인층에서는 세균성 GAS 인두염 확률 매우 낮음)</td></tr></tbody></table>
+<table><thead><tr><th width="198">기준 항목</th><th>점수</th></tr></thead><tbody><tr><td>발열 (≥38℃)</td><td>+1점</td></tr><tr><td>기침 없음</td><td>+1점</td></tr><tr><td>전경부 림프절 비대·압통</td><td>+1점</td></tr><tr><td>편도 부종 또는 삼출물</td><td>+1점</td></tr><tr><td>연령 : 3~14세</td><td>+1점</td></tr><tr><td>　　15~44세</td><td>0점</td></tr><tr><td>　　≥45세</td><td>-1점 (노인층에서는 세균성 GAS 인두염 확률 매우 낮음)</td></tr></tbody></table>
 
-* 국내 최신 급성 상기도 감염 항생제 사용지침에 따른 판정 및 처치&#x20;
+* 국내 최신 급성 상기도 감염 항생제 사용지침에 따른 판정 및 처치
   * <3점 → GAS 가능성이 낮아 일반적으로 검사·항생제 불필요; 다른 진단 및 대증 치료 고려
   * ≥3점 → RADT 시행; 양성이면 항생제 치료
   * ≥3점이지만 RADT를 시행할 수 없는 경우 → 경험적 항생제 치료 고려
@@ -132,7 +132,7 @@
 
 #### <mark style="color:$primary;">증상·병력에 따른 감별</mark>
 
-<table><thead><tr><th width="141">원인·상태</th><th>특징적 소견</th><th>감별점 및 처치</th></tr></thead><tbody><tr><td>바이러스성 <br>인두염</td><td>기침·콧물·쉰 소리 동반, 경미한 발열</td><td>가장 흔함; 항생제 불필요; 대증 치료</td></tr><tr><td>GAS 인두염</td><td>삼출성 편도, 전경부 림프절 비대·압통, 고열; 기침 없음</td><td>변형 Centor 점수로 검사 대상 선별; RADT 양성이면 amoxicillin 10일</td></tr><tr><td>EBV 단핵구증</td><td>심한 편도 비대·삼출, 후경부 림프절, 비장비대, 극심한 피로; 주로 청소년·청년</td><td>heterophile Ab 검사; amoxicillin/ampicillin 투여 시 발진 가능. 발진이 곧 영구적 페니실린 알레르기를 뜻하지는 않으나 진성 지연성 과민반응도 가능하므로 추후 알레르기 평가 고려</td></tr><tr><td>급성 HIV 감염</td><td>성 위험 노출 후 발열, 인후통, 발진, 전신 림프절병증, 점막 궤양 등 단핵구증 유사 증상</td><td>HIV Ag/Ab 검사; 초기 감염이 강하게 의심되나 음성이면 HIV RNA 검사 고려</td></tr><tr><td>편도주위농양</td><td>편측 편도 돌출, 구개수 편위, trismus, "hot potato" voice</td><td>즉각 이비인후과 의뢰; 흡인 또는 배농 여부 평가</td></tr><tr><td>급성 후두개염</td><td>연하 장애·침 흘림, 경부 과신전 체위, stridor; 성인에서도 발생</td><td>즉각 이송 및 기도 평가; 안정된 경우에만 영상 검사를 보조적으로 고려</td></tr><tr><td>COVID-19·인플루엔자</td><td>인후통, 발열, 기침, 근육통 등; 증상만으로 감별 어려움</td><td>유행 상황, 고위험군 여부 및 항바이러스제 치료 가능 기간을 고려하여 검사</td></tr><tr><td>디프테리아</td><td>회백색 위막(편도·인두), bull neck, 저음 쉰 소리</td><td>예방접종 미비·해외 노출 시 고려; 위막을 억지로 떼지 않고 비말격리, 즉시 이송·신고. 가능하면 투약 전 검체 채취하되 결과를 기다리지 않고 항독소·항생제 치료</td></tr><tr><td>임균성 인두염</td><td>구강성교 병력; 무증상이기도 함</td><td>인두 NAAT/배양 및 동반 STI 검사; 국내 STI 지침에 따라 ceftriaxone 치료 후 완치판정 검사</td></tr><tr><td><em>F. necrophorum</em></td><td>주로 청소년·젊은 성인; 심한 인두염 후 일시 호전 뒤 고열·오한, 편측 경부 통증</td><td>Lemierre 증후군 의심 시 즉각 이송, 혈액배양 및 경부 영상 평가</td></tr><tr><td><em>A. haemolyticum</em></td><td>10~20대 청소년·청년; GAS 유사 인후통 + 성홍열 모양 발진; GAS RADT 음성</td><td>배양 등으로 확인; 감수성 및 임상 상황에 따라 항생제 선택</td></tr></tbody></table>
+<table><thead><tr><th width="141">원인·상태</th><th>특징적 소견</th><th>감별점 및 처치</th></tr></thead><tbody><tr><td>바이러스성<br>인두염</td><td>기침·콧물·쉰 소리 동반, 경미한 발열</td><td>가장 흔함; 항생제 불필요; 대증 치료</td></tr><tr><td>GAS 인두염</td><td>삼출성 편도, 전경부 림프절 비대·압통, 고열; 기침 없음</td><td>변형 Centor 점수로 검사 대상 선별; RADT 양성이면 amoxicillin 10일</td></tr><tr><td>EBV 단핵구증</td><td>심한 편도 비대·삼출, 후경부 림프절, 비장비대, 극심한 피로; 주로 청소년·청년</td><td>heterophile Ab 검사; amoxicillin/ampicillin 투여 시 발진 가능. 발진이 곧 영구적 페니실린 알레르기를 뜻하지는 않으나 진성 지연성 과민반응도 가능하므로 추후 알레르기 평가 고려</td></tr><tr><td>급성 HIV 감염</td><td>성 위험 노출 후 발열, 인후통, 발진, 전신 림프절병증, 점막 궤양 등 단핵구증 유사 증상</td><td>HIV Ag/Ab 검사; 초기 감염이 강하게 의심되나 음성이면 HIV RNA 검사 고려</td></tr><tr><td>편도주위농양</td><td>편측 편도 돌출, 구개수 편위, trismus, "hot potato" voice</td><td>즉각 이비인후과 의뢰; 흡인 또는 배농 여부 평가</td></tr><tr><td>급성 후두개염</td><td>연하 장애·침 흘림, 경부 과신전 체위, stridor; 성인에서도 발생</td><td>즉각 이송 및 기도 평가; 안정된 경우에만 영상 검사를 보조적으로 고려</td></tr><tr><td>COVID-19·인플루엔자</td><td>인후통, 발열, 기침, 근육통 등; 증상만으로 감별 어려움</td><td>유행 상황, 고위험군 여부 및 항바이러스제 치료 가능 기간을 고려하여 검사</td></tr><tr><td>디프테리아</td><td>회백색 위막(편도·인두), bull neck, 저음 쉰 소리</td><td>예방접종 미비·해외 노출 시 고려; 위막을 억지로 떼지 않고 비말격리, 즉시 이송·신고. 가능하면 투약 전 검체 채취하되 결과를 기다리지 않고 항독소·항생제 치료</td></tr><tr><td>임균성 인두염</td><td>구강성교 병력; 무증상이기도 함</td><td>인두 NAAT/배양 및 동반 STI 검사; 국내 STI 지침에 따라 ceftriaxone 치료 후 완치판정 검사</td></tr><tr><td><em>F. necrophorum</em></td><td>주로 청소년·젊은 성인; 심한 인두염 후 일시 호전 뒤 고열·오한, 편측 경부 통증</td><td>Lemierre 증후군 의심 시 즉각 이송, 혈액배양 및 경부 영상 평가</td></tr><tr><td><em>A. haemolyticum</em></td><td>10~20대 청소년·청년; GAS 유사 인후통 + 성홍열 모양 발진; GAS RADT 음성</td><td>배양 등으로 확인; 감수성 및 임상 상황에 따라 항생제 선택</td></tr></tbody></table>
 
 ***
 
@@ -183,7 +183,7 @@ class E,I,H sky
 * 충분한 수분 섭취 (따뜻한 음료 권장)
 * 사탕 또는 throat lozenge 물고 있기
   * 박하·멘톨 등의 제품이 도움이 될 수 있으나 일부에서는 증상을 악화시킬 수 있음
-* 소금물 가글 : 물 1컵(250 ㎖) + 소금 ¼\~½ tsp (1.5\~3 g); 일부에서 증상 완화
+* 소금물 가글 : 물 1컵(250 ㎖) + 소금 ½ 작은술(약3 g); 일부에서 증상 완화(삼키지 말고 뱉음)
 * 흡연·간접 흡연 회피
 * 건조한 환경에서 공기 가습
 
@@ -199,7 +199,7 @@ class E,I,H sky
 ### <mark style="color:$primary;">항생제</mark>
 
 * 투여 기간 : 약제에 따라 5\~10일; 증상 완화 후에도 처방된 과정을 끝까지 완료
-* 지속·재발 감염 시 복약 순응도, 재감염, GAS 보균 상태, EBV·*F. necrophorum* 등 다른 원인 및 화농성 합병증을 재평가하고 필요 시 배양 검사 후 치료
+* 지속·재발 감염 시 복약 순응도, 재감염, GAS 보균 상태, EBV·_F. necrophorum_ 등 다른 원인 및 화농성 합병증을 재평가하고 필요 시 배양 검사 후 치료
 * 무증상 가족·밀접 접촉자의 routine 검사·치료는 시행하지 않음
 
 **GAS 급성 인두편도염 권고 항생제** \[질병관리청, 2025 급성 상기도 감염 항생제 사용 지침]
@@ -213,10 +213,10 @@ class E,I,H sky
 1\) 소아 : 50 ㎎/㎏ qd(최대 1,000 ㎎) 또는 25 ㎎/㎏/회 bid(1회 최대 500 ㎎); 10일\
 2\) 단순한 비중증 지연성 발진에 한함. 즉시형 반응 또는 중증 지연성 과민반응 병력에서는 사용하지 않음\
 3\) 두드러기·혈관부종·기관지경련·아나필락시스 등 즉시형 반응에서는 cephalexin·cefadroxil 회피. SJS/TEN, DRESS, AGEP 또는 장기 침범 등 중증 지연성 반응은 관련 β-lactam을 피하고 전문 평가\
-4\) 국내 GAS macrolide 내성률이 40\~50%까지 보고되며 clindamycin 내성도 지역·시기에 따라 달라질 수 있음. 치료 반응을 주의 깊게 관찰하고 이전 감수성 결과가 있으면 참고; clindamycin은 *C. difficile* 감염 위험 고려
+4\) 국내 GAS macrolide 내성률이 40\~50%까지 보고되며 clindamycin 내성도 지역·시기에 따라 달라질 수 있음. 치료 반응을 주의 깊게 관찰하고 이전 감수성 결과가 있으면 참고; clindamycin은 _C. difficile_ 감염 위험 고려
 
 {% hint style="info" %}
-**페니실린 치료 무반응·재발 시** : GAS는 penicillin 내성이 보고되지 않았으므로 약제를 바로 변경하기보다 복약 순응도, 재감염, GAS 보균자에서의 바이러스 동시감염, EBV·*F. necrophorum* 등 다른 원인과 편도주위농양 등 화농성 합병증을 먼저 평가. 진성 치료 실패로 판단되면 배양·임상 상황에 따라 amoxicillin/clavulanate <mark style="color:blue;">[오구멘틴]</mark> 500/125 ㎎ tid ×10일, 1세대 세팔로스포린 또는 clindamycin <mark style="color:blue;">[훌그램]</mark> 등을 고려. 단순 GAS 인두염 1차 치료에는 광범위 항생제를 사용하지 않음.
+**페니실린 치료 무반응·재발 시** : GAS는 penicillin 내성이 보고되지 않았으므로 약제를 바로 변경하기보다 복약 순응도, 재감염, GAS 보균자에서의 바이러스 동시감염, EBV·_F. necrophorum_ 등 다른 원인과 편도주위농양 등 화농성 합병증을 먼저 평가. 진성 치료 실패로 판단되면 배양·임상 상황에 따라 amoxicillin/clavulanate <mark style="color:blue;">\[오구멘틴]</mark> 500/125 ㎎ tid ×10일, 1세대 세팔로스포린 또는 clindamycin <mark style="color:blue;">\[훌그램]</mark> 등을 고려. 단순 GAS 인두염 1차 치료에는 광범위 항생제를 사용하지 않음.
 {% endhint %}
 
 {% hint style="info" %}
@@ -231,7 +231,7 @@ class E,I,H sky
   * 기도 폐쇄·심경부 감염을 배제한 성인의 매우 심한 인후통에서 대안의 효과·위험을 설명한 뒤 선택적으로 단회 고려
   * 당뇨·면역저하 환자에서는 특히 신중하고 반복 투여는 권하지 않음
 * 국소 진통 가글 : 심한 인후통에서 단기간 보조적으로 고려(비급여); 구강점막용 마취 겔을 인두에 직접 도포하지 않음
-  * diclofenac <mark style="color:blue;">[아프니벤큐 액]</mark> 등 — 제품별 허가사항의 적용 연령·용법 확인
+  * diclofenac <mark style="color:blue;">\[아프니벤큐 액]</mark> 등 — 제품별 허가사항의 적용 연령·용법 확인
 
 ***
 
@@ -270,7 +270,7 @@ class E,I,H sky
 > 맥시부펜 이알 300 ㎎/T  2T  #2  (식후)
 > ```
 >
-> _✽ 국내 최신 지침의 azithromycin 500 ㎎ qd ×5일 요법. **국내 GAS macrolide 내성률이 40\~50%까지 보고**되므로 치료 반응을 주의 깊게 관찰. clindamycin도 내성 및 *C. difficile* 감염 위험이 있어 일률적인 우선 대체제로 사용하지 않음._
+> _✽ 국내 최신 지침의 azithromycin 500 ㎎ qd ×5일 요법. **국내 GAS macrolide 내성률이 40\~50%까지 보고**되므로 치료 반응을 주의 깊게 관찰. clindamycin도 내성 및 C. difficile 감염 위험이 있어 일률적인 우선 대체제로 사용하지 않음._
 
 ***
 
@@ -291,7 +291,7 @@ class E,I,H sky
 **일상 관리**
 
 * 충분히 쉬고 따뜻한 물·차를 자주 마십시오.
-* 소금물 가글(물 한 컵 + 소금 한 꼬집)을 하루 수 회 하면 불편감이 줄어들 수 있습니다.
+* 소금물 가글(물 1컵(250 ㎖) + 소금 ½ 작은술(약3 g)을 하루 수 회 하면 불편감이 줄어들 수 있습니다(삼키지 말고 뱉음).
 * 흡연, 연기, 자극적인 음식을 피하십시오.
 
 **항생제를 처방받으셨다면**
