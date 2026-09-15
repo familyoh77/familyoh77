@@ -13,7 +13,7 @@
 
 * 증상 : 회전감(“방이 돈다”), 실제 움직임이 없는데 움직이는 듯한 느낌
 * 원인
-  * 말초성 : 대부분 차지; BPPV, AUV(전정신경염), 미로염, Ménière Dz
+  * 말초성 : 대부분 차지; BPPV, AUV(과거전정신경염), 미로염, Ménière Dz
   * 중추성 : 소뇌종양, 뇌졸중/TIA, 편두통
 
 #### <mark style="color:$primary;">Disequilibrium</mark>
@@ -41,9 +41,9 @@
 
 * 어지럼의 여러 형태가 혼재되어 있고 표현의 불확실성 때문에 증상의 성격만으로 원인을 감별하기 어려움; 환자는 회전감·붕뜸·기절할 것 같음을 정확히 구분해서 말하지 못하는 경우가 많고, 같은 환자도 질문 방식에 따라 다르게 답함(질적 증상 표현의 신뢰도가 낮음)
 * "언제 시작됐고, 얼마나 지속되며, 무엇이 유발했는가"는 환자가 비교적 정확하게 기억하고 재현성도 높으므로  증상이 아니라 시간 패턴을 1차 분류축으로 하는 TiTrATE(Timing, Triggers, Targeted Examination)를 도입
-* "Vertigo인가 Disequilibrium인가"를 아는 것보다 "지금 처음 보는 급성 지속 증상인가, 반복되는 발작인가, 자세로 유발되는가"를 아는 것이 다음에 무슨 검사를 할지·무슨 치료를 시작할지를 결정하는데 유용
+* "vertigo인가 disequilibrium인가"를 아는 것보다 "지금 처음 보는 급성 지속 증상인가, 반복되는 발작인가, 자세로 유발되는가"를 아는 것이 다음에 무슨 검사를 할지·무슨 치료를 시작할지를 결정하는데 유용
 
-<table><thead><tr><th width="86">분류</th><th>핵심 특징</th><th>감별진단이 좁혀지는 이유</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>t-EVS</strong> <br></td><td>특정 동작/자세가 매번 새 발작을 유발, 유발 전엔 무증상</td><td>원인이 "자세 의존적 기전"으로 제한됨; <strong>BPPV, 기립성 저혈압</strong></td><td>Dix-Hallpike, supine roll test, 기립혈압 측정으로 바로 확진 가능 → 정복술 같은 즉시 시행 가능한 치료로 연결</td></tr><tr><td><strong>s-EVS</strong> </td><td>뚜렷한 유발요인 없이 반복되는 발작, 발작 사이는 정상</td><td>혈류·전기적·화학적으로 간헐적인 이상을 시사; <strong>TIA, 부정맥, 전정 편두통, 메니에르, 저혈당, 공황발작</strong></td><td>발작 당시를 못 보므로 진찰만으로 확진 어려움 → 발작일지, 심전도/홀터, 청력검사, 혈당 등 발작 간 검사와 병력 패턴(지속시간·동반증상)으로 감별</td></tr><tr><td><strong>AVS</strong> </td><td>급성 발생, 지속적(보통 24시간 이상), 진찰 시점에도 증상 존재</td><td>지금 안진·HIT를 볼 수 있음</td><td>HINTS Plus를 바로 적용할 수 있는 유일한 범주</td></tr></tbody></table>
+<table><thead><tr><th width="86">분류</th><th>특징</th><th>감별 요점; 의심 질환</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>t-EVS</strong> <br></td><td>특정 동작/자세가 매번 새 발작을 유발, 유발 전엔 무증상</td><td>원인이 "자세 의존적 기전"으로 제한됨; <strong>BPPV, 기립성 저혈압</strong></td><td>Dix-Hallpike, supine roll test, 기립혈압 측정으로 바로 확진 가능 → 정복술 같은 즉시 시행 가능한 치료로 연결</td></tr><tr><td><strong>s-EVS</strong> </td><td>뚜렷한 유발요인 없이 반복되는 발작, 발작 사이는 정상</td><td>혈류·전기적·화학적으로 간헐적인 이상을 시사; <strong>TIA, 부정맥, 전정 편두통, 메니에르, 저혈당, 공황발작</strong></td><td>발작 당시를 못 보므로 진찰만으로 확진 어려움 → 발작일지, 심전도/홀터, 청력검사, 혈당 등 발작 간 검사와 병력 패턴(지속시간·동반증상)으로 감별</td></tr><tr><td><strong>AVS</strong> </td><td>급성 발생, 지속적(보통 24시간 이상), 진찰 시점에도 증상 존재</td><td>진찰 시 안진·HIT를 볼 수 있음</td><td>HINTS Plus를 바로 적용할 수 있는 유일한 범주</td></tr></tbody></table>
 
 > _**t-EVS** = Triggered Episodic Vestibular Syndrome (유발성 삽화성 전정 증후군)_\
 > _**s-EVS** = Spontaneous Episodic Vestibular Syndrome (자발성 삽화성 전정 증후군)_\
@@ -63,23 +63,26 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 두부 직접 충격 후 새 어지럼이 발생했으며 의식소실·기억상실·지속되는 두통/구토, 항응고제 복용 또는 신경학적 이상이 있는 경우 → 두개내출혈 감별; 불안정하거나 신경학적 이상이 있으면 즉각 응급으로 격상
-* 새로 발생한 청력 저하가 주 증상이고 지속성 AVS가 뚜렷하지 않은 경우 → 돌발성 감각신경성 난청 감별을 위해 당일 이비인후과 평가·청력검사; 치료를 지연하지 않음
-* 과거 뇌졸중 병력이 있는 환자에서 새로 발생한 급성 지속성 또는 자발성 발작성 어지럼이 반복되거나 혈관 위험·신경/안구운동/보행 이상이 동반되는 경우 → TIA·뇌졸중 재발 평가
-* 원인 미상의 발열(＞38℃) → 당일 평가; 경부 강직·의식 변화·새 심한 두통·패혈증 소견 동반 시 즉각 응급으로 격상
+* 두부 직접 충격 후 새 어지럼이 발생했으며 의식소실·기억상실·지속되는 두통/구토, 항응고제 복용 또는 신경학적 이상이 있는 경우  `두개내출혈`&#x20;
+* 새로 발생한 청력 저하가 주 증상이고 지속성 AVS가 뚜렷하지 않은 경우  `돌발성 감각신경성 난청`
+* 과거 뇌졸중 병력이 있는 환자에서 새로 발생한 급성 지속성 또는 자발성 발작성 어지럼이 반복되거나 혈관 위험·신경/안구운동/보행 이상이 동반되는 경우  `TIA` `뇌졸중 재발`&#x20;
+* 원인 미상의 발열(＞38℃); 경부 강직·의식 변화·새 심한 두통·패혈증 소견 동반 시 즉각 응급으로 격상
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 진단이 불확실하거나 예상 경과와 달리 악화·지속되는 경우 → 조기 재평가. AUV는 수일간 지속될 수 있으므로 단순히 48시간 지속만으로 중추성으로 판단하지 않음
+* 진단이 불확실하거나 예상 경과와 달리 악화·지속되는 경우&#x20;
 
 ## <mark style="color:green;">원인</mark>
 
-* Central : 편두통, 소뇌 종양, 뇌졸중/TIA, vestibular ischemia 등. 중추성 원인의 비율은 진료 환경과 대상군에 따라 크게 달라 고정된 수치로 일반화하기 어려움
-* Peripheral : BPPV, AUV(전정신경염), Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
+* Central : 편두통, 소뇌 종양, 뇌졸중/TIA, vestibular ischemia 등
+  * 중추성 원인의 비율은 진료 환경과 대상군에 따라 크게 달라 고정된 수치로 일반화하기 어려움
+* Peripheral : BPPV, AUV, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
 * 기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
 * 고령 : 불안/우울, 균형 감각 손상, 심뇌혈관질환 과거력, 청력·시력 저하, 기립성 저혈압, 다제약물 등 여러 요인이 복합적으로 작용
 
-<mark style="color:$info;">※ 우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%, vestibular neuritis 5.4%였으며 19\~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음. (J Neurol 2020 Aug;267(8):2252-2259.)</mark>
+{% hint style="info" %}
+우리나라 referral-based dizziness clinic을 대상으로 한 연구에서는 BPPV 24.1%, psychiatric or persistent postural perceptual dizziness(PPPD) 20.8%, vascular disorder 12.9%, vestibular migraine 10.2%, Meniere’s disease 7.2%, vestibular neuritis 5.4%였으며 19\~64세에서는 PPPD 26.3%, ≥65세에서는 BPPV 28.2%로 가장 흔한 원인으로 보고되었음. (J Neurol 2020 Aug;267(8):2252-2259.)
+{% endhint %}
 
 ## <mark style="color:green;">말초성 질환</mark>
 
@@ -88,38 +91,24 @@
 * 다른 이름 : 이석증, 돌발성체위성현훈증
 * vertigo의 가장 흔한 원인
 * 말초성 vertigo
-* 50\~70대, 여성(2배)
+* 호발 : 50\~70대, 여성(2배)
 * 기전 : calcium carbonate crystals(otoconia)이 떨어져 나와 세반고리관 내에 부유. 머리를 움직이면 otoconia가 움직이게 되고, 다시 놓여 질 때까지 motion sense를 일으킴
 * 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
-* 위험 인자 : 두부 외상, 내이 허혈, AUV(전정신경염), 귀 수술, 우울, 움직이지 않는 생활
-* 발생 부위 : post. canal 60\~90%, lat.(horizontal) canal 10\~30%; ant.(sup.) canal rare; \[우리나라] lat canal 이환이 많음(30%)
-* 재발 : 1년 내 20\~30% 재발. 관찰연구에서 당뇨병, 비-후반고리관형(lat./ant. canal) 이환, Vit D 결핍, 고령, 편두통·불안·불면 동반, 폐경 후 여성의 낮은 estradiol 등이 재발 관련 요인으로 보고되었으나 인과관계와 개별 환자에서의 예측력은 제한적임 <mark style="color:$info;">(Front Neurol 2024;15:1483233 / 2025;16:1595887 / 2026;17:1812718)</mark>
+* 위험 인자 : 두부 외상, 내이 허혈, AUV, 귀 수술, 우울, 움직이지 않는 생활
+* 발생 부위 : post. canal 60\~90%, lat.(horizontal) canal 10\~30%; ant.(sup.) canal rare
+  * 우리나라는 lat canal 이환이 많음(30%)
+* 재발 : 1년 내 20\~30% 재발
+  * 관찰연구에서 당뇨병, 비-후반고리관형(lat./ant. canal) 이환, Vit D 결핍, 고령, 편두통·불안·불면 동반, 폐경 후 여성의 낮은 estradiol 등이 재발 관련 요인으로 보고되었으나 인과관계와 개별 환자에서의 예측력은 제한적임 <mark style="color:$info;">(Front Neurol 2024;15:1483233 / 2025;16:1595887 / 2026;17:1812718)</mark>
 
 #### <mark style="color:$primary;">임상 양상</mark>
 
 * 특정 자세나 머리 움직임에 따라 심한 회전감 발생
-* 경과 : 돌발적 발생 → 자세를 바꾸고 안정하면 수 초\~1분 이내 호전 (대개 10\~30초), 1주일 이상 반복 발생
+* 경과 : 돌발적 발생 → 자세를 바꾸고 안정하면 수 초\~1분 이내 호전 (대개 10\~30초)
+  * 1주일 이상 반복 발생
 * 동반 증상 : 구역
   * 청력이나 신경학적 이상은 없음
 * 안진 : 말초성
 * 검사 : Dix-Hallpike test(post canal), Supine roll test(lat canal)
-
-### <mark style="color:orange;">급성단측전정병증 (Acute Unilateral Vestibulopathy, AUV; 전정신경염)</mark>
-
-* vertigo의 두 번째 흔한 원인
-* 30\~50세 호발
-* 원인 : 불명; 바이러스 재활성화 또는 염증성 기전 등이 가설로 제시되지만 확정되지 않음
-* 국제 전정장애 분류(ICVD)에서 최신 선호 용어는 Acute Unilateral Vestibulopathy(AUV)
-
-#### <mark style="color:$primary;">임상 양상</mark>
-
-* 경과 : 급성 또는 아급성으로 발생하여 24시간 이상 지속 → 1\~2일째 가장 심함 → 수일\~수 주 동안 점차 완화
-  * 불안정성은 수개월 동안 지속될 수 있음; 발병 후 15%에서 BPPV가 발생할 수 있음
-* 동반 증상 : 구역/구토(처음 수일 동안 심함)
-  * 청력 이상은 보통 없음
-* 안진 : 급성기에 방향고정성 수평-회선성 자발안진; 시고정을 제거하면 증가
-* 신경학적 이상 : 병변 측으로 치우치거나 넘어질 수 있으나 중추성 신경·안구운동 소견은 없어야 함
-* 검사 : 병변 측 vestibulo-ocular reflex 저하(침상 Head impulse test 또는 vHIT 등). 새 청각 증상이나 중추성 소견이 있으면 AUV로 단정하지 않음
 
 ### <mark style="color:orange;">메니에르병 (Ménière Dz)</mark>
 
@@ -138,12 +127,30 @@
   * 신경학적 이상은 없음
 * 안진 : 발작 중 주로 수평-회선성 안진이 관찰되지만 질병 단계와 발작 경과에 따라 방향이 변할 수 있으므로 단일한 방향으로 고정되지 않음
 
+### <mark style="color:orange;">급성단측전정병증 (Acute unilateral vestibulopathy, AUV)</mark>
+
+* vertigo의 두 번째 흔한 원인
+* 30\~50세 호발
+* 원인 : 불명; 바이러스 재활성화 또는 염증성 기전 등이 가설로 제시되지만 확정되지 않음
+
+{% hint style="info" %}
+AUV(Acute unilateral vestibulopathy) : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현이 실제로는 염증이 조직학적으로 확인되지 않은 경우가 많고 원인이 바이러스성 신경염 외에도 다양할 수 있다는 점 때문에, 더 중립적인 "vestibulopathy(전정병증)"라는 표현을 씀 \[국제 전정장애 분류(ICVD)]
+{% endhint %}
+
+#### <mark style="color:$primary;">임상 양상</mark>
+
+* 경과 : 급성 또는 아급성으로 발생하여 24시간 이상 지속 → 1\~2일째 가장 심함 → 수일\~수 주 동안 점차 완화
+  * 불안정성은 수개월 동안 지속될 수 있음; 발병 후 15%에서 BPPV가 발생할 수 있음
+* 동반 증상 : 구역/구토(처음 수일 동안 심함)
+  * 청력 이상은 보통 없음
+* 안진 : 급성기에 방향고정성 수평-회선성 자발안진; 시고정을 제거하면 증가
+* 신경학적 이상 : 병변 측으로 치우치거나 넘어질 수 있으나 중추성 신경·안구운동 소견은 없어야 함
+* 검사 : 병변 측 vestibulo-ocular reflex 저하(침상 Head impulse test 또는 vHIT 등). 새 청각 증상이나 중추성 소견이 있으면 AUV로 단정하지 않음
+
 ### <mark style="color:orange;">미로염 (내이염, Labyrinthitis)</mark>
 
-<mark style="color:$info;">※ 임상 구분 : AUV(전정신경염) - vertigo only, 청력 정상 / labyrinthitis - vertigo + 청력 저하 동반; 급성 어지럼 + 새로운 청력 저하 → labyrinthitis 또는 AICA 경색 감별 필요</mark>
-
-* 원인 : 바이러스성 또는 세균성 내이 염증. 중이염·유양돌기염·뇌막염에 속발한 세균성 미로염은 응급 전문치료가 필요
-* 급성 어지럼과 새 감각신경성 난청은 미로염 외에도 AICA 경색과 돌발성 감각신경성 난청을 감별
+* 원인 : 바이러스성 또는 세균성 내이 염증
+  * 중이염·유양돌기염·뇌막염에 속발한 세균성 미로염은 응급 전문 치료가 필요
 
 #### <mark style="color:$primary;">임상 양상</mark>
 
@@ -154,6 +161,12 @@
   * 신경학적 이상은 없음(뇌막염 제외)
 * 안진 : spontaneous, fine horizontal nystagmus. horizon-torsion 병합도 가능
 
+{% hint style="info" %}
+- labyrinthitis : vertigo + 청력 저하 동반
+- AUV : vertigo only, 청력 정상
+- 급성 어지럼 + 새로운 청력 저하 → labyrinthitis, AICA(anterior inferior cerebellar artery) 경색, 돌발성 감각신경성 난청, 외림프누공 감별
+{% endhint %}
+
 ### <mark style="color:orange;">외림프누공 (Perilymphatic fistula)</mark>
 
 * 기전 : 두개 내 또는 압력 변화로 인하여 외림프액이 내이로부터 중이로 갑자기 이동하면서 발생
@@ -162,25 +175,31 @@
 
 ### <mark style="color:orange;">기타</mark>
 
-* Cholesteatoma : 각질화 편평상피가 중이·유양돌기에 증식하는 병변; 미로누공 등 합병증이 발생하면 현훈이 동반될 수 있음
-* Herpes zoster oticus (Ramsay Hunt syndrome) : 심한 이통과 외이도·귓바퀴 수포, 급성 말초성 안면마비가 핵심이며 난청·이명·현훈이 동반될 수 있음
-* Otosclerosis : otic capsule의 비정상적 골재형성으로 등골 고정이 발생하는 질환; 전형적으로 전음성 난청과 이명이 주 증상이며 일부에서 어지럼 동반
+* Cholesteatoma : 각질화 편평상피가 중이·유양돌기에 증식하는 병변
+  * 미로누공 등 합병증이 발생하면 현훈이 동반될 수 있음
+* Herpes zoster oticus (Ramsay Hunt syndrome) : 심한 이통과 외이도·귓바퀴 수포, 급성 말초성 안면마비가 핵심
+  * 난청·이명·현훈이 동반될 수 있음
+* Otosclerosis : otic capsule의 비정상적 골재형성으로 등골 고정이 발생하는 질환
+  * 전형적으로 전음성 난청과 이명이 주 증상이며 일부에서 어지럼 동반
 * 말초신경병증 : disequilibrium; 하지(특히 발) 감각 저하
 
 ## <mark style="color:green;">중추성 질환</mark>
 
 ### <mark style="color:orange;">편두통성 어지럼증 (Vestibular migraine)</mark>
 
-* 편두통과 관련하여 발생하는 어지럼증; 발작 중 두통이 없을 수 있으므로 두통 동반 여부만으로 배제하지 않음
-* **진단기준 (Bárány Society/IHS 2022)**
-  * 중등도\~중증 전정 증상이 5분\~72시간 지속되는 발작 5회 이상
+* 편두통과 관련하여 발생하는 어지럼증
+  * 발작 중 두통이 없을 수 있으므로 두통 동반 여부만으로 배제하지 않음
+* 진단기준 (Bárány Society/IHS 2022)
+  * 중등도\~중증 전정 증상이 5분\~72시간 지속되는 발작이 5회 이상
   * 현재 또는 과거의 전조성/무전조성 편두통 병력
-  * 전정 발작의 50% 이상에서 다음 중 하나 이상 동반: 편두통성 두통, 빛공포와 소리공포, 시각조짐
+  * 전정 발작의 50% 이상에서 다음 중 하나 이상 동반
+    * 편두통성 두통, 빛공포와 소리공포, 시각조짐
   * 다른 전정질환 또는 ICHD 진단으로 더 잘 설명되지 않음
 * 증상 : 두부 압박감, 시각/청각 과민; 구역, 구토, 빛/소리 과민
-  * 이명·귀 충만감·변동성 청각 증상이 동반될 수 있음. 뚜렷한 진행성 일측 난청은 메니에르병 등 다른 질환을 우선 감별
+  * 이명·귀 충만감·변동성 청각 증상이 동반될 수 있음
+  * 뚜렷한 진행성 일측 난청은 메니에르병 등 다른 질환을 우선 감별
 * 유발 요인 : 카페인, 알코올, 수면 부족, 호르몬 변화, 특정 음식(티라민 함유 식품), 시각적 자극(복잡한 패턴, 대형 스크린, 스크롤)
-* 치료 : 편두통 치료 (☞ [편두통](016_-migraine.md#management))
+* 치료 : [편두통](016_-migraine.md#management) 치료
 
 ### <mark style="color:orange;">기타</mark>
 
@@ -193,7 +212,7 @@
 
 ### <mark style="color:orange;">멀미 (Motion sickness)</mark>
 
-* 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군
+* 실제 또는 감지된 움직임에 반응하여 발생하는, 위장 및 신경 증상을 포함하는 증후군 (☞ [멀미](024_-motion-sickness.md))
 * 원인 : 불명
 * 기전 : 신체 움직임에 대한 visual receptor, vestibular receptor 및 body proprioceptor 사이의 불일치에 따른 생리적 반응으로 추정
 * 회전, 상하, 낮은 주파수 움직임에서 흔히 발생; 직선, 수평, 높은 주파수 움직임에서는 적게 발생
@@ -202,20 +221,45 @@
 
 ### <mark style="color:orange;">기타</mark>
 
-* Cervical dizziness : 경부 병변과 현훈 사이의 인과관계 및 보편적 진단기준은 확립되지 않았으므로 배제진단으로만 고려. 목 움직임으로 유발되면 BPPV·전정편두통 등 흔한 원인을 먼저 평가하고, 드문 회전성 척추동맥증후군은 신경학적 증상·혈관 위험에 따라 전문 평가
-* 약물 유발성 : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
-* Psychological : 기분, 불안, 신체화 증상
-* 기립성 저혈압 : presyncope; 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg 또는 이완기 혈압 ≥10 ㎜Hg 감소. 맥박 반응은 원인에 따라 다르며 신경성 기립저혈압에서는 증가가 미미할 수 있음 (☞ [기립성 저혈압](../225_/096_-orthostatic-hypotension.md))
-* 과호흡 : lightheadedness, 불안, 맥박 증가. 원인 질환과 위험 징후를 먼저 평가하고 천천히 규칙적으로 호흡하도록 안내; 종이봉투 재호흡은 저산소증 위험 때문에 시행하지 않음
+<mark style="color:cyan;">**Cervical dizziness**</mark>
+
+* 경부 병변과 현훈 사이의 인과관계 및 보편적 진단기준은 확립되지 않았으므로 배제진단으로만 고려
+* 목 움직임으로 유발되면 BPPV·전정편두통 등 흔한 원인을 먼저 평가하고, 드문 회전성 척추동맥증후군은 신경학적 증상·혈관 위험에 따라 전문 평가
+
+<mark style="color:cyan;">**약물 유발성**</mark>&#x20;
+
+* 원인 약물 : 향정신성 약물, 항경련제, aspirin, aminoglycosides, α-/β-blockers, furosemide, nitrates, amiodarone, 항콜린제, 근이완제, 발기부전치료제(PDE5i), 인슐린 과다, 알코올
+
+<mark style="color:cyan;">**Psychological**</mark>&#x20;
+
+* 기분, 불안, 신체화 증상
+
+[<mark style="color:cyan;">**기립성 저혈압**</mark>](../225_/096_-orthostatic-hypotension.md)
+
+* presyncope
+* 기립 후 3분 이내 수축기 혈압 ≥20 ㎜Hg 또는 이완기 혈압 ≥10 ㎜Hg 감소. 맥박 반응은 원인에 따라 다르며 신경성 기립저혈압에서는 증가가 미미할 수 있음
+
+<mark style="color:cyan;">**과호흡**</mark>&#x20;
+
+* lightheadedness, 불안, 맥박 증가
+* 원인 질환과 위험 징후를 먼저 평가하고 천천히 규칙적으로 호흡하도록 안내
+* 종이봉투 재호흡은 저산소증 위험 때문에 시행하지 않음
 
 ## <mark style="color:green;">진단</mark>
 
 * 혈압 : 5분간 누운 뒤 혈압·맥박을 측정하고 기립 1분·3분에 재측정
-* 신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진; electronystagmography, vestibular-evoked myogenic potentials
+* 신경학적 검사, 귀 검사 : 청력 검사, Rinne test, Weber test, 안진
+  * electronystagmography, vestibular-evoked myogenic potentials
 * 수기 검사 : Dix-Hallpike test, Supine roll test, Test of skew
-* 영상 검사 : 비조영 뇌 CT는 후순환 허혈성 뇌졸중 진단 민감도가 낮음. 중추성 HINTS, 애매한 검사 또는 중추성 원인 의심 시 MRI(DWI)±MRA 시행; 초기 DWI 음성도 후순환 소경색을 완전히 배제하지 못하므로 임상 의심이 지속되면 신경과 평가·반복 영상 고려. 전형적 BPPV 등 명확한 말초성 어지럼에서는 routine 촬영 불필요
-* 실험실 검사 : 일률적인 실험실 검사는 필요 없음; 당뇨 환자에서 혈당 등 검사 고려
-* 심장 질환 의심 시 ECG, 필요에 따라 ambulatory ECG monitoring 고려. 후순환 TIA·동맥박리 또는 대혈관 병변이 의심되면 두개내·경부 후순환을 포함한 CTA/MRA 고려; carotid Doppler는 후순환성 어지럼의 일반 선별검사가 아님
+* 영상 검사 : 비조영 뇌 CT는 후순환 허혈성 뇌졸중 진단 민감도가 낮음
+  * 중추성 HINTS, 애매한 검사 또는 중추성 원인 의심 시 MRI(DWI)±MRA 시행
+  * 초기 DWI 음성도 후순환 소경색을 완전히 배제하지 못하므로 임상 의심이 지속되면 신경과 평가·반복 영상 고려
+  * 전형적 BPPV 등 명확한 말초성 어지럼에서는 routine 촬영 불필요
+  * 후순환 TIA·동맥박리 또는 대혈관 병변이 의심되면 두개내·경부 후순환을 포함한 CTA/MRA 고려
+  * carotid Doppler는 후순환성 어지럼의 일반 선별검사가 아님
+* 실험실 검사 : 일률적인 실험실 검사는 필요 없음
+  * 당뇨 환자에서 혈당 등 검사 고려
+* 심장 질환 의심 시 ECG, 필요에 따라 ambulatory ECG monitoring 고려
 
 #### <mark style="color:$primary;">Dix-Hallpike test</mark>
 
@@ -245,7 +289,9 @@
   * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측 하지 못한 상태에서) 한쪽으로 빠르게 15°돌림\
     → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행
 * 음성 (정상) : 시선이 표적에 고정됨. AVS에서는 정상 HIT가 중추성 원인을 시사할 수 있음
-* 양성 (비정상) : 시선이 머리 회전을 따라간 뒤 교정성 단속운동으로 표적에 돌아옴; 회전시킨 쪽의 vestibulo-ocular reflex 결손을 시사. 단, AICA 경색 등 중추성 병변에서도 비정상일 수 있으므로 HIT 단독으로 말초성 확정 불가
+* 양성 (비정상) : 시선이 머리 회전을 따라간 뒤 교정성 단속운동으로 표적에 돌아옴
+  * 회전시킨 쪽의 vestibulo-ocular reflex 결손을 시사
+  * 단, AICA 경색 등 중추성 병변에서도 비정상일 수 있으므로 HIT 단독으로 말초성 확정 불가
 
 #### <mark style="color:$primary;">기타</mark>
 
@@ -254,19 +300,21 @@
 * 누공 검사 : 통기 이경으로 고막에 음압/양압을 가해 안진과 현훈 유발
   * 양성 (증상 발생) : 외림프누공 의심
 * Vestibular function testing : 진단이 불확실하거나 치료에 반응하지 않을 때 시행
-  * **vHIT(video Head Impulse Test)** : 각 반고리관의 고주파수 vestibulo-ocular reflex gain과 교정성 단속운동을 정량화하여 AUV·양측전정기능저하의 확인과 추적에 유용. 저주파수 수평반고리관 기능을 주로 평가하는 caloric test와 결과가 불일치할 수 있으며, HINTS 전체나 뇌영상의 대체검사는 아님
+* vHIT(video Head Impulse Test) : 각 반고리관의 고주파수 vestibulo-ocular reflex gain과 교정성 단속운동을 정량화하여 AUV·양측전정기능저하의 확인과 추적에 유용. 저주파수 수평반고리관 기능을 주로 평가하는 caloric test와 결과가 불일치할 수 있으며, HINTS 전체나 뇌영상의 대체검사는 아님
 
-※ **HINTS Plus Exam** (GRACE-3, 2023 권고 맥락)
+#### <mark style="color:$primary;">HINTS Plus Exam</mark>&#x20;
 
-* **현재 자발안진이 있는 급성전정증후군(AVS)** 환자에서, 적절히 훈련된 검사자가 시행. 발작성·체위성 어지럼, 자발안진이 없는 환자 또는 검사 협조가 어려운 환자에게 적용하지 않음
 * 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
+* 현재 자발안진이 있는 급성전정증후군(AVS) 환자에서, 적절히 훈련된 검사자가 시행
+  * 발작성·체위성 어지럼, 자발안진이 없는 환자 또는 검사 협조가 어려운 환자에게 적용하지 않음
 * 말초성(Peripheral) 패턴 : 아래 소견이 모두 충족될 때 AUV를 시사
   * Head Impulse Test (+) : 환측으로 머리 회전 시 교정성 단속운동(catch-up saccade) 관찰
   * Nystagmus : 단방향 수평 안진(Direction-fixed); 주시 방향을 바꿔도 안진의 방향이 변하지 않음
   * Test of Skew (-) : 수직 안구 편위 없음
   * New hearing loss (-) : 양측을 비교한 finger rub 등 침상 청력 선별검사에서 새 일측성 청력 저하 없음 → 말초성 판정 유지. 이상이 있으면 정식 청력검사를 병행
-* **중추성 또는 equivocal 패턴** : 정상 Head impulse test, 주시 방향에 따라 방향이 바뀌는 안진, skew deviation 또는 새 일측성 청력 저하 중 하나라도 있으면 뇌졸중 가능성을 평가하고 MRI/MRA 시행
-* 새 일측성 청력 저하는 AICA 경색의 민감도를 높이는 위험 신호이지만 단독 확진 소견은 아님. 미로염·돌발성 감각신경성 난청 등 말초성 원인도 가능하므로 응급 뇌졸중 평가와 청각 평가를 병행
+* 중추성 또는 equivocal 패턴 : 정상 Head impulse test, 주시 방향에 따라 방향이 바뀌는 안진, skew deviation 또는 새 일측성 청력 저하 중 하나라도 있으면 뇌졸중 가능성을 평가하고 MRI/MRA 시행
+* 새 일측성 청력 저하는 AICA 경색의 민감도를 높이는 위험 신호이지만 단독 확진 소견은 아님
+  * 미로염·돌발성 감각신경성 난청 등 말초성 원인도 가능하므로 응급 뇌졸중 평가와 청각 평가를 병행
 * 자발안진이 없는 AVS에서는 HINTS 대신 보행·체간 불안정 정도와 신경학적 진찰을 중점 평가
 
 ### <mark style="color:orange;">감별</mark>
@@ -274,13 +322,15 @@
 **Sudden-onset dizziness with 국소 신경학적 이상 또는 중추성 위험 소견**
 
 * 예: 수직·순수 회선성·주시 방향변환성 안진, 새 국소 신경학적 이상, 심한 체간 불안정, AVS에 동반된 새 일측성 청력 저하
-* 당뇨가 있으면 저혈당 확인; 당뇨가 없거나 저혈당 치료 후에도 증상 지속, BPPV 또는 기립성 저혈압에 해당되지 않으면 즉시 의뢰(stroke 감별을 요함)
+* 당뇨가 있으면 저혈당 확인
+* 당뇨가 없거나 저혈당 치료 후에도 증상 지속, BPPV 또는 기립성 저혈압에 해당되지 않으면 즉시 의뢰(stroke 감별을 요함)
 
 **Sudden-onset vestibular 증상**
 
 * 예: 어지럼, 구역/구토, 보행 불안정
 * 자발안진이 있으면 훈련된 검사자가 HINTS Plus 시행 : head impulse test 정상, 주시 방향에 따른 방향변환성 안진, skew deviation 또는 새 일측성 청력 저하 중 하나라도 있으면 즉시 의뢰(중추성 또는 equivocal)
-* 자발안진이 없으면 보행·체간 불안정 정도를 평가. HINTS를 적절히 수행·판독할 수 없고 BPPV 또는 기립성 저혈압으로 명확히 설명되지 않으면 즉시 의뢰
+* 자발안진이 없으면 보행·체간 불안정 정도를 평가
+* HINTS를 적절히 수행·판독할 수 없고 BPPV 또는 기립성 저혈압으로 명확히 설명되지 않으면 즉시 의뢰
 
 **재발성 어지럼 with 기능적 신경학적 이상**
 
@@ -289,14 +339,7 @@
 
 #### <mark style="color:$primary;">중추성 vs 말초성 감별</mark>
 
-| 소견           | 말초성 패턴                   | 중추성 위험 소견                                |
-| ------------ | ------------------------ | ---------------------------------------- |
-| 자발안진         | 방향고정성 수평-회선성             | 주시 방향에 따른 방향변환성, 수직 또는 순수 회선성            |
-| Head impulse | 병변 측 교정성 단속운동            | AVS에서 정상 반응. 단, 비정상 반응도 AICA 경색을 배제하지 못함 |
-| Skew         | 없음                       | 수직 안구 재정렬                                |
-| 보행·체간        | 불안정할 수 있으나 대개 보조하여 보행 가능 | 부축 없이 앉거나 서기 어렵거나 보행 불가                  |
-| 청각           | 질환에 따라 난청·이명 동반 가능       | AVS와 새 일측성 청력 저하가 동반되면 AICA 경색 위험 증가     |
-| 기타 신경학적 소견   | 없음                       | 복시, 구음·연하 장애, 편측 위약·감각저하, 사지실조 등         |
+<table><thead><tr><th width="165">소견</th><th>말초성 패턴</th><th>중추성 위험 소견</th></tr></thead><tbody><tr><td>자발안진</td><td>방향고정성 수평-회선성</td><td>주시 방향에 따른 방향변환성, 수직 또는 순수 회선성</td></tr><tr><td>Head impulse</td><td>병변 측 교정성 단속운동</td><td>AVS에서 정상 반응. 단, 비정상 반응도 AICA 경색을 배제하지 못함</td></tr><tr><td>Skew</td><td>없음</td><td>수직 안구 재정렬</td></tr><tr><td>보행·체간</td><td>불안정할 수 있으나 대개 보조하여 보행 가능</td><td>부축 없이 앉거나 서기 어렵거나 보행 불가</td></tr><tr><td>청각</td><td>질환에 따라 난청·이명 동반 가능</td><td>AVS와 새 일측성 청력 저하가 동반되면 AICA 경색 위험 증가</td></tr><tr><td>기타 신경학적 소견</td><td>없음</td><td>복시, 구음·연하 장애, 편측 위약·감각저하, 사지실조 등</td></tr></tbody></table>
 
 _<mark style="color:$info;">✽ 증상 강도·구역·청각 증상만으로 중추성과 말초성을 구분하지 않음. HINTS Plus는 현재 자발안진이 있는 AVS에서 훈련된 검사자가 시행.</mark>_
 
@@ -329,47 +372,53 @@ _<mark style="color:$info;">Ref. Bárány Society ICVD criteria; GRACE-3 acute d
 
 ```mermaid
 flowchart TD
-    A["급성 어지럼·현훈"] --> B{"Timing·Triggers"}
-    B --> C["Triggered episodic<br/>특정 자세·동작으로 새 발작"]
-    B --> D["Spontaneous episodic<br/>뚜렷한 유발 요인 없음"]
-    B --> E["Acute vestibular syndrome<br/>급성 지속성 증상"]
+    A["급성 어지럼·현훈"] --> B["Timing·Triggers"]
+    B --> C["t-EVS<br/>특정 동작 유발"]
+    B --> D["s-EVS<br/>유발요인 없음"]
+    B --> E["AVS<br/>급성 지속성"]
 
-    C --> C1["Dix-Hallpike + 기립혈압"]
-    C1 -->|"전형적 torsional-upbeating 안진"| C2["Posterior canal BPPV<br/>Epley maneuver"]
-    C1 -->|"Dix-Hallpike 음성·BPPV 의심"| C3["Supine roll test<br/>Horizontal canal BPPV 평가"]
-    C1 -->|"기립 시 혈압저하·증상 재현"| C4["기립성 저혈압"]
-    C1 -->|"비전형적·지속성 안진"| X["중추성 원인 평가"]
+    C --> C1["Dix-Hallpike <br/>+ 기립혈압"]
+    C1 -->|"전형적 안진"| C2["Posterior BPPV<br/>Epley maneuver"]
+    C1 -->|"DH 음성"| C3["Supine roll test<br/>Horizontal BPPV"]
+    C1 -->|"기립 시 혈압저하"| C4["기립성 <br/>저혈압"]
+    C1 --->|"비전형적·지속성"| X["중추성 원인 평가"]
 
-    D --> D1["신경·안구운동·보행·청각·심혈관 평가"]
-    D1 --> D2["전정편두통·메니에르병"]
-    D1 --> D3["후순환 TIA·부정맥·저혈당"]
-    D1 --> D4["공황발작 등 기타 원인"]
+    D --> D1["신경·안구운동<br/>·청각·심혈관 평가"]
+    D1 --> D2["전정편두통<br/>·메니에르병"]
+    D1 --> D3["후순환 TIA<br/>·부정맥·저혈당"]
+    D1 --> D4["공황발작 등"]
 
-    E --> E1{"현재 자발안진?"}
-    E1 -->|"있음"| E2["훈련된 검사자의 HINTS Plus"]
-    E2 -->|"모든 소견이 말초성"| E3["AUV 가능<br/>조기 전정재활"]
-    E2 -->|"중추성 소견 하나 이상 또는 애매"| X
-    E1 -->|"없음"| E4["보행·체간 불안정과 신경진찰"]
-    E4 -->|"심한 불안정·중추성 의심"| X
-    E4 -->|"뚜렷한 중추성 소견 없음"| E5["약물·독소·대사·심혈관·말초전정 원인 평가<br/>중추성 원인을 충분히 배제하지 못하면 신경학적 평가·MRI/MRA 고려"]
+    E --> E1["자발안진 있음?"]
+    E1 -->|"있음"| E2["HINTS Plus<br/>(숙련자)"]
+    E2 --->|"모두 말초성"| E3["AUV 가능<br/>조기 전정재활"]
+    E2 -->|"중추성 소견/애매"| X1["중추성 원인 평가"]
+    E1 -->|"없음"| E4["보행·체간·신경진찰"]
+    E4 -->|"심한 불안정"| X1
+    E4 -->|"뚜렷한 이상 없음"| E5["약물·독소·대사·심혈관<br/>말초전정 원인 평가"]
+    E5 -.->|"배제 불충분"| X1
 
-    X --> Y["응급실 의뢰<br/>MRI/MRA 등 뇌졸중 평가"]
+    X --> Y["응급실 의뢰<br/>MRI/MRA·뇌졸중 평가"]
+    X1 --> Y1["응급실 의뢰<br/>MRI/MRA·뇌졸중 평가"]
 
-    style A fill:#f3e5f5,stroke:#9c27b0
-    style B fill:#fff9c4,stroke:#fbc02d
-    style C fill:#fff9c4,stroke:#fbc02d
-    style D fill:#fff9c4,stroke:#fbc02d
-    style E fill:#fff9c4,stroke:#fbc02d
-    style C1 fill:#e0f2f1,stroke:#00897b
-    style D1 fill:#e0f2f1,stroke:#00897b
-    style E1 fill:#e0f2f1,stroke:#00897b
-    style E2 fill:#e0f2f1,stroke:#00897b
-    style E4 fill:#e0f2f1,stroke:#00897b
-    style X fill:#ffebee,stroke:#ef5350
-    style Y fill:#ffebee,stroke:#ef5350
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef branch fill:#fff9c4,stroke:#ffe082
+    classDef category fill:#ede7f6,stroke:#9575cd
+    classDef process fill:#e0f2f1,stroke:#00897b
+    classDef outcome fill:#e8f5e9,stroke:#66bb6a
+    classDef urgent fill:#ffebee,stroke:#ef5350
+
+    class A start
+    class B,E1 branch
+    class C,D,E category
+    class C1,D1,E2,E4 process
+    class C2,C3,C4,D2,D3,D4,E3,E5 outcome
+    class X,Y,X1,Y1 urgent
+
 ```
 
 <p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">TiTrATE 및 GRACE-3 timing-and-triggers 접근법 기반</mark></em></p>
+
+<p align="center"></p>
 
 ***
 
@@ -379,9 +428,10 @@ flowchart TD
 
 * 금연
 
-**전정 재활 운동**
+<mark style="color:cyan;">**전정 재활 운동**</mark>
 
-* AUV·말초전정기능저하·PPPD 등 진단과 기능장애에 맞추어 시선 안정화, 습관화, 균형·보행 운동을 개별화함. 심한 증상 악화나 낙상을 유발하지 않는 범위에서 시행하고 고령자·보행 불안정 환자는 치료사 지도 또는 보호자·고정 지지물 등 안전 대책을 마련
+* AUV·말초전정기능저하·PPPD 등 진단과 기능장애에 맞추어 시선 안정화, 습관화, 균형·보행 운동을 개별화함
+* 심한 증상 악화나 낙상을 유발하지 않는 범위에서 시행하고 고령자·보행 불안정 환자는 치료사 지도 또는 보호자·고정 지지물 등 안전 대책을 마련
 * [예](https://youtu.be/KkKAoHZdUnI)
   1. 고개를 양 옆으로 움직임,
   2. 정면을 보고 위 아래로 움직임,
@@ -389,18 +439,18 @@ flowchart TD
   * 시선 안정화 운동은 눈을 뜨고 정면의 표적을 선명하게 유지하면서 머리를 움직임. 천천히 시작하여 표적이 흐려지지 않고 경미한 증상 범위에서 점차 속도·시간을 늘림
   * 운동 종류·횟수·기간은 전정기능과 증상에 따라 조절하며, 일률적으로 눈을 감는 단계로 진행하지 않음
 
-**Balance exercise**
+<mark style="color:cyan;">**Balance exercise**</mark>
 
 * [예](https://www.uofmhealth.org/health-library/ug1239)
   1. 앞에는 의자 등, 뒤에는 벽을 두고(필요하면 이를 지지) 팔을 붙이고 발을 모으고 30초간 서 있음 (Romberg exercise)
   2. 어깨 넓이로 발을 벌리고 서서 앞-뒤로, 좌-우로 기울임, 20번 반복
   3. 제자리 걷기(가급적 무릎을 높게 올림)
-  4. 발을 약간 벌리고 서서 180도 turn
+  4. 발을 약간 벌리고 서서 180° turn
   * 처음에는 눈을 뜨고 고정 지지물 가까이에서 시행. 눈 감기, 좁은 지지면, 회전 등 난이도 증가는 개인별 낙상 위험을 평가한 뒤 필요한 환자에게만 보호자 또는 치료사 감독하에 적용
 
 ## <mark style="color:green;">약물 치료</mark>
 
-✽일부 약제는 어지럼증 상병으로는 보험 적용 안 됨
+* 일부 약제는 어지럼증 상병으로는 보험 적용 안 됨
 
 ### <mark style="color:orange;">전정 안정제</mark>
 
@@ -414,31 +464,36 @@ flowchart TD
 
 #### <mark style="color:$primary;">Antihistamine</mark>
 
-* meclizine : 국내 허가 용법은 멀미 예방·완화를 위해 25\~50 ㎎을 승차 1시간 전에 1회 투여하고 필요 시 24시간마다 반복 <mark style="color:blue;">\[파비스염산메클리진정]</mark>. 급성 현훈에 bid\~tid로 사용하는 용법은 국내 허가 외 사용
+* meclizine : 국내 허가 용법은 멀미 예방·완화를 위해 25\~50 ㎎을 승차 1시간 전에 1회 투여하고 필요 시 24시간마다 반복 <mark style="color:blue;">\[파비스염산메클리진정]</mark>
+  * 급성 현훈에 bid\~tid로 사용하는 용법은 국내 허가 외 사용
 * dimenhydrinate : 25\~50 ㎎ bid\~qid <mark style="color:blue;">\[보나링 에이]</mark>; BPH, 녹내장 주의
 
 #### <mark style="color:$primary;">항콜린제</mark>
 
-*   scopolamine 경피제 : 멀미에 적용; 출발 4시간 이전에 귀 뒤에 1매 부착(72시간 동안 효과) <mark style="color:blue;">\[키미테 패취]</mark>
-
-    * 성인용 제품은 만 16세 이상에서 사용. 과거 8\~15세용 어린이키미테패취는 2020년 허가 취소되었으므로 소아에게 성인용 패취를 분할·대체 사용하지 않으며 최신 제품 허가사항을 확인
-
-    (☞ [항콜린제](../224_/073_.md#gi-antispasmodic-agent))
+* scopolamine 경피제 : 멀미에 적용
+  * 출발 4시간 이전에 귀 뒤에 1매 부착(72시간 동안 효과) <mark style="color:blue;">\[키미테 패취]</mark>
+  * 성인용 제품은 만 16세 이상에서 사용. 과거 8\~15세용 어린이키미테패취는 2020년 허가 취소되었으므로 소아에게 성인용 패취를 분할·대체 사용하지 않으며 최신 제품 허가사항을 확인
 
 ### <mark style="color:orange;">항구토제</mark>
 
 * metoclopramide : 단기 사용; 5\~10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
-  * 고령 환자와 파킨슨병 환자에서 추체외로 증상(extrapyramidal symptoms; 파킨슨 유사 증상, 급성 근긴장이상, 지연성 이상운동증) 위험이 증가하므로 피하거나 가능한 단기간(5일 이내) 사용. 다른 진정성 전정억제제와의 불필요한 병용을 피함
+  * 고령 환자와 파킨슨병 환자에서 추체외로 증상(파킨슨 유사 증상, 급성 근긴장이상, 지연성 이상운동증) 위험이 증가하므로 피하거나 가능한 단기간(5일 이내) 사용
+  * 다른 진정성 전정억제제와의 불필요한 병용을 피함
 
 ### <mark style="color:orange;">이뇨제</mark>
 
-* hydrochlorothiazide : 메니에르병에서 선택적으로 고려; 12.5\~25 ㎎ qd\~bid <mark style="color:blue;">\[다이크로짇]</mark>. 예방 효과의 근거는 제한적이며 혈압·신기능·Na/K를 모니터링
+* hydrochlorothiazide : 메니에르병에서 선택적으로 고려
+  * 12.5\~25 ㎎ qd\~bid <mark style="color:blue;">\[다이크로짇]</mark>
+  * 예방 효과의 근거는 제한적이며 혈압·신기능·Na/K를 모니터링
 
 ### <mark style="color:orange;">혈관 위험인자 관리 및 근거 불충분 약제</mark>
 
-* TIA·뇌졸중 등 혈관성 진단 또는 별도 적응증이 확인되면 해당 지침에 따라 혈압·지질을 관리하고 항혈전제를 사용. 어지럼증만을 이유로 항혈전제를 경험적으로 시작하지 않음
-* ginkgo biloba extract : 유효성에 대한 근거 부족; 일상적 처방 권장되지 않음; 40 ㎎ tid 또는 80 ㎎ bid <mark style="color:blue;">\[기넥신]</mark> ([보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250301\&sno=1\&mtgMtrRegSno=0008))
-* kallidinogenase : 유효성에 대한 근거 부족; 25\~50 IU tid <mark style="color:blue;">\[카레스]</mark>
+* TIA·뇌졸중 등 혈관성 진단 또는 별도 적응증이 확인되면 해당 지침에 따라 혈압·지질을 관리하고 항혈전제를 사용
+* 어지럼증만을 이유로 항혈전제를 경험적으로 시작하지 않음
+* ginkgo biloba extract : 유효성에 대한 근거 부족; 일상적 처방 권장되지 않음
+  * 40 ㎎ tid 또는 80 ㎎ bid <mark style="color:blue;">\[기넥신]</mark> ([급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250301\&sno=1\&mtgMtrRegSno=0008))
+* kallidinogenase : 유효성에 대한 근거 부족
+  * 25\~50 IU tid <mark style="color:blue;">\[카레스]</mark>
 
 {% hint style="danger" %}
 **Trimetazidine은 어지럼증에 사용하지 않음.** 국내에서 혈관성 어지럼·메니에르병성 어지럼·이명 적응증이 삭제되었으며 안정형 협심증의 2차 추가요법으로 제한됨. 파킨슨병·파킨슨증상·진전·하지불안증후군 등 운동장애와 중증 신장애에서는 금기이며, 복용 중 운동장애가 새로 나타나면 중단하고 재평가함.
@@ -448,10 +503,11 @@ flowchart TD
 
 * 국내 허가 적응증 : 메니에르병에 의한 어지럼, 이명, 청력 소실
 * 기전 : 전정 핵의 흥분성 조절 (H1 효현제 + H3 길항제), 내이 혈류 개선
-* 용량 : 초기 16 ㎎ tid, 유지 24\~48 ㎎/d <mark style="color:blue;">\[메네스에스]</mark>; 일정 기간 시험적으로 투여하고 임상적 이득이 없으면 지속하지 않음
+* 용량 : 초기 16 ㎎ tid, 유지 24\~48 ㎎/d <mark style="color:blue;">\[메네스에스]</mark>
+  * 일정 기간 시험적으로 투여하고 임상적 이득이 없으면 지속하지 않음
 * 고용량 144 ㎎/d까지 연구되었으나 BEMED 위약대조시험에서 48 ㎎/d와 144 ㎎/d 모두 발작 빈도·중증도·삶의 질을 유의하게 개선하지 못했으므로 일상적 고용량 증량은 권장하지 않음
 * BPPV에는 효과 없음; 중추성 어지럼증에 대한 근거 불충분
-* ※ NICE CKS·AAO-HNS 등은 유지치료의 선택지 또는 시험적 투여로 제시하지만, 위약대조시험과 체계적 문헌고찰에서 확실한 예방 효과가 입증되지 않아 근거는 불확실함
+* NICE CKS·AAO-HNS 등은 유지치료의 선택지 또는 시험적 투여로 제시하지만, 위약대조시험과 체계적 문헌고찰에서 확실한 예방 효과가 입증되지 않아 근거는 불확실함
 
 ### <mark style="color:orange;">기타</mark>
 
@@ -463,16 +519,18 @@ flowchart TD
 
 ### <mark style="color:orange;">BPPV</mark>
 
-* 대부분 수주 내 자연 회복할 수 있으나 재발이 흔함. 이석정복술은 현재 발작의 현훈과 안진을 빠르게 소실시키는 1차 치료이며 장기 재발 자체를 예방한다고 단정하지 않음
+* 대부분 수주 내 자연 회복할 수 있으나 재발이 흔함
+* 이석정복술은 현재 발작의 현훈과 안진을 빠르게 소실시키는 1차 치료이며 장기 재발 자체를 예방한다고 단정하지 않음
 
 #### <mark style="color:$primary;">이석정복술 (Canalith repositioning maneuver)</mark>
 
-* 정복술 도중 또는 이후 안진이 수평성으로 변하거나 증상 양상이 달라지면 반고리관 전환(canal conversion)을 고려. 증상이 지속되거나 안진 양상이 변한 경우 Dix-Hallpike 및 supine roll test로 재평가하고, 확인된 아형에 맞는 정복술을 시행
+* 정복술 도중 또는 이후 안진이 수평성으로 변하거나 증상 양상이 달라지면 반고리관 전환(canal conversion)을 고려
+* 증상이 지속되거나 안진 양상이 변한 경우 Dix-Hallpike 및 supine roll test로 재평가하고, 확인된 아형에 맞는 정복술을 시행
 
-**Epley maneuver**
+<mark style="color:cyan;">**Epley maneuver**</mark>
 
 * post canal BPPV의 가장 효과적인 치료법; 치료 성공률 80%
-* ✽ 2026년 네트워크 메타분석(20개 RCT, 2,089명)에서도 Epley·Semont가 단기 유효성·완치율에서 다른 정복술 대비 우월하여 1차 치료로 재확인됨. 다만 일부 연구의 비뚤림 위험이 높았고 장기 재발에 대한 근거 확실성은 낮았음 <mark style="color:$info;">(Front Neurol 2026;17:1762375)</mark>
+* Epley·Semont가 단기 유효성·완치율에서 다른 정복술 대비 우월하여 1차 치료로 재확인됨\[2026 네트워크 메타분석]. 다만 일부 연구의 비뚤림 위험이 높았고 장기 재발에 대한 근거 확실성은 낮았음 <mark style="color:$info;">(Front Neurol 2026;17:1762375)</mark>
 * [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
   * 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다 30°더 내려가게 눕히고(lay back, 머리를 침대 밖으로 늘어뜨림) 1분간 유지\
     → 이 상태에서 고개를 건측으로 90°돌려 1분간 유지\
@@ -480,11 +538,10 @@ flowchart TD
     → 이 상태를 유지하며 천천히 일어나 앉게 하고 30초간 유지
 * 시술 중 구역 발생 가능성에 대하여 설명; 반복 시술할 수 있으며 시술 후 활동 제한은 필요 없음
 
-**Semont-plus maneuver**
+<mark style="color:cyan;">**Semont-plus maneuver**</mark>
 
-*   post canal BPPV에 적용
-
-    한 무작위시험의 반복 자가치료 조건에서 증상 소실까지의 기간이 Epley maneuver보다 약 1일 짧았음(평균 SM-plus 2일 vs. EM 3일); 단일 연구 결과이므로 모든 진료 환경에서의 전반적 우월성으로 일반화하지 않음
+* post canal BPPV에 적용&#x20;
+* 무작위시험의 반복 자가치료 조건에서 증상 소실까지의 기간이 Epley maneuver보다 약 1일 짧았음(평균 SM-plus 2일 vs. EM 3일); 단일 연구 결과이므로 모든 진료 환경에서의 전반적 우월성으로 일반화하지 않음
 * [방법](https://edhub.ama-assn.org/jn-learning/video-player/18794329)
   * \[어지러움이 발생하는 방향이 오른쪽일 때] 침대 오른쪽에 걸터 앉아 왼쪽을 향해 얼굴을 45도 돌림\
     → 오른팔을 옆으로 뻗고 오른쪽(환측)으로, 머리가 침대 아래로 내려가도록(head 60 degree overextended) 150도 이상 옆으로 쓰러짐, 이 자세를 60초 유지\
@@ -492,7 +549,7 @@ flowchart TD
     → 일어나 앉아 정면을 보고 60초 유지
 * 오전, 오후, 밤에 각각 3회 반복
 
-**Lempert roll maneuver(Barbecue roll maneuver)**
+<mark style="color:cyan;">**Lempert roll maneuver(Barbecue roll maneuver)**</mark>
 
 * 주로 geotropic형 horizontal canal canalolithiasis에 적용하는 치료법; 치료 성공률 ＜75%
 * 방법
@@ -502,7 +559,7 @@ flowchart TD
     → 천천히 일어나 앉음; 각 자세마다 30\~60초 또는 어지럼증이 사라질 때까지 유지함 (✽각 자세의 유지 시간과 눕는 각도에 대해서는 이견이 있음)
 * ✽ horizontal canal BPPV는 geotropic·apogeotropic형에 따라 정복술이 달라지므로 병변 측과 아형이 불확실하면 전문 평가 후 시행
 
-**Gufoni maneuver**
+<mark style="color:cyan;">**Gufoni maneuver**</mark>
 
 * lat canal BPPV 치료법; Lempert보다 시행이 간편하여 임상에서 선호도 높음
 * 방법 (canalith repositioning type - geotropic 안진 시)
@@ -511,7 +568,7 @@ flowchart TD
     → 천천히 일어나 앉음
 * ✽ 안진 방향(geotropic vs apogeotropic)에 따라 방법이 달라지므로 Supine roll test로 병변 측 확인 후 시행
 
-**재활 운동**
+<mark style="color:cyan;">**재활 운동**</mark>
 
 * 전정 재활 운동 예: [Brandt-Daroff exercise](https://www.youtube.com/watch?v=voZXtTUdQ00\&t=31s)
   * 침대 가장자리에 똑바로 앉음\
@@ -524,18 +581,23 @@ flowchart TD
 
 #### <mark style="color:$primary;">약물 치료</mark>
 
-* 안정제 : 원칙적으로 권장하지 않음 (AAO-HNS 가이드라인); central compensation을 방해하고 낙상 위험을 증가시킴. 불가피한 경우 **3일 이내**로 제한하며 주의를 요함
+* 안정제 : 원칙적으로 권장하지 않음 \[AAO-HNS 가이드라인]
+  * central compensation을 방해하고 낙상 위험을 증가시킴
+  * 불가피한 경우 3일 이내로 제한하며 주의를 요함
 * 항구토제 : 구역/구토가 심한 경우 단기 사용
-* Vit D & Ca : 혈중 Vitamin D 농도가 낮은 경우(＜20 ng/mL) 보충 시 BPPV 재발률이 유의하게 감소함 (Neurology 2020); 정상 농도에서는 추가 효과 불분명
-  * ✽ 단일기관 노인 대상 이중맹검 RCT(결핍자에서 13주 2,000 IU/d → 13주 1,000 IU/d 보충)에서 재발률 87% 감소, 인년당 임상 재발 0.75건 감소, 최초 재발까지 기간 연장이 보고됨. 대상과 표본 규모가 제한되어 효과 크기의 일반화에는 주의 <mark style="color:$info;">(Otolaryngol Head Neck Surg 2025)</mark>
+* Vit D & Ca : 혈중 Vitamin D 농도가 낮은 경우(＜20 ng/mL) 보충 시 BPPV 재발률이 유의하게 감소함 \[Neurology 2020]; 정상 농도에서는 추가 효과 불분명
+  * 단일기관 노인 대상 이중맹검 RCT(결핍자에서 13주 2,000 IU/d → 13주 1,000 IU/d 보충)에서 재발률 87% 감소, 인년당 임상 재발 0.75건 감소, 최초 재발까지 기간 연장이 보고됨. 대상과 표본 규모가 제한되어 효과 크기의 일반화에는 주의 <mark style="color:$info;">(Otolaryngol Head Neck Surg 2025)</mark>
   * Cholecalciferol 400 IU + Calcium carbonate 500 ㎎ bid
 
 #### <mark style="color:$primary;">잔여 어지럼 (Residual dizziness, BPPV-RD)</mark>
 
-* 정의 : 정복술 성공(체위유발 현훈·안진 소실) 후에도 남는 비특이적 어지럼·부동감(불안, 붕 뜬 느낌 등); 유병률 23\~70%로 보고됨 (연구간 편차 큼)
+* 정의 : 정복술 성공(체위유발 현훈·안진 소실) 후에도 남는 비특이적 어지럼·부동감(불안, 붕 뜬 느낌 등)
+* 유병률 : 23\~70% (연구간 편차 큼)
 * 병태생리 : 단일 기전으로 설명되지 않음 - 이석 일부 잔류, utricle(이석기관) 기능 저하, 전정 보상 지연, 심인성 요인 등이 복합적으로 작용 <mark style="color:$info;">(Front Neurol 2024;15:1382196)</mark>
-* 약물 치료 : betahistine·trimetazidine·ginkgo biloba extract의 일상적 투여를 뒷받침하는 근거는 충분하지 않음. 특히 trimetazidine은 국내 어지럼 적응증이 삭제되어 사용하지 않음. 지속되는 증상에는 **전정 재활 운동**을 우선 고려
-* 대개 수일\~수 주 내 자연 호전; 장기 지속 시 PPPD, 미인식 중추성 원인, 미해결 이석증(다른 반고리관) 등 감별 필요
+* 약물 치료 : betahistine, trimetazidine, ginkgo biloba extract 등의 일상적 투여를 뒷받침하는 근거는 충분하지 않음. 특히 trimetazidine은 국내 어지럼 적응증이 삭제되어 사용하지 않음
+* 지속되는 증상에는 전정 재활 운동을 우선 고려
+* 대개 수일\~수 주 내 자연 호전
+* 장기 지속 시 PPPD, 미인식 중추성 원인, 미해결 이석증(다른 반고리관) 등 감별 필요
 
 ### <mark style="color:orange;">급성단측전정병증 (AUV; 전정신경염)</mark>
 
@@ -544,7 +606,8 @@ flowchart TD
 #### <mark style="color:$primary;">약물 치료</mark>
 
 * 안정제, 항구토제 : central compensation을 차단하는 작용이 있으므로 3일 이내로 사용 제한
-* steroid : 진단이 확실하고 금기가 없는 환자에서 증상 발현 3일 이내 단기 경구 투여를 shared decision으로 고려할 수 있음. 근거 수준이 매우 낮고 최근 위약대조시험에서도 유의한 이득이 확인되지 않아 일률적 고용량 정주·장기 점감요법은 권장하지 않음
+* steroid : 진단이 확실하고 금기가 없는 환자에서 증상 발현 3일 이내 단기 경구 투여를 shared decision으로 고려할 수 있음
+  * 근거 수준이 매우 낮고 최근 위약대조시험에서도 유의한 이득이 확인되지 않아 일률적 고용량 정주·장기 점감요법은 권장하지 않음
 * 항바이러스제와 betahistine의 일상적 사용을 뒷받침하는 근거는 부족하며, 국내 betahistine 허가 적응증은 메니에르병임
 
 ### <mark style="color:orange;">미로염</mark>
@@ -553,61 +616,66 @@ flowchart TD
 
 * 전정 안정제(단기 사용), 항구토제
 * 항생제 : 세균 감염 의심 시 적용
-* 항바이러스제 : 바이러스성 미로염에 일률적으로 사용하지 않음. 귀 수포·안면마비가 있는 Ramsay Hunt syndrome 등 명확한 적응증에서 해당 질환 지침에 따라 투여
+* 항바이러스제 : 바이러스성 미로염에 일률적으로 사용하지 않음
+  * 귀 수포·안면마비가 있는 Ramsay Hunt syndrome 등 명확한 적응증에서 해당 질환 지침에 따라 투여
 
 ### <mark style="color:orange;">메니에르병</mark>
 
-* 생활요법 : 과도한 염분 섭취를 피하고 규칙적인 식사·수면·수분 섭취를 유지. 카페인·음주·흡연 등 개인별 발작 유발요인을 확인하여 조절하되 특정 식품이나 일률적 수분량을 모든 환자에게 강제할 근거는 제한적
+* 생활요법&#x20;
+  * 과도한 염분 섭취를 피하고 규칙적인 식사·수면·수분 섭취를 유지
+  * 카페인·음주·흡연 등 개인별 발작 유발요인을 확인하여 조절
+  * 특정 식품이나 일률적 수분량을 모든 환자에게 강제할 근거는 제한적
 * 알레르기 환자에서 알레르기 치료
-* 비침습적 치료에 반응하지 않는 경우 이비인후과 의뢰; 고실 내 스테로이드·gentamicin 및 청력 상태에 따른 수술적 치료를 단계적으로 고려
+* 비침습적 치료에 반응하지 않는 경우 이비인후과 의뢰
+  * 고실 내 스테로이드·gentamicin 및 청력 상태에 따른 수술적 치료를 단계적으로 고려
 
 #### <mark style="color:$primary;">약물 치료</mark>
 
 * 전정 안정제, 항구토제 : 급성 발작기 단기 사용
-* 이뇨제 : hydrochlorothiazide를 선택적으로 고려; 근거가 제한적이므로 발작 빈도와 혈압·신기능·전해질을 추적
-* betahistine : 초기 16 ㎎ tid, 유지 24\~48 ㎎/d <mark style="color:blue;">\[메네스에스]</mark>; 일부 지침에서 시험적 유지치료로 제시하지만 BEMED trial에서는 48 또는 144 ㎎/d 모두 위약 대비 발작 예방 효과가 확인되지 않음. 일정 기간 반응을 평가하고 유의한 이득이 없으면 지속하지 않음
+* 이뇨제 : hydrochlorothiazide를 선택적으로 고려
+  * 근거가 제한적이므로 발작 빈도와 혈압·신기능·전해질을 추적
+* betahistine : 초기 16 ㎎ tid, 유지 24\~48 ㎎/d <mark style="color:blue;">\[메네스에스]</mark>
+  * 일부 지침에서 시험적 유지치료로 제시하지만 BEMED trial에서는 48 또는 144 ㎎/d 모두 위약 대비 발작 예방 효과가 확인되지 않음
+  * 일정 기간 반응을 평가하고 유의한 이득이 없으면 지속하지 않음
 * 고실 내 스테로이드 주입술(Intratympanic steroid injection, ITSI) : 비침습적 치료에 반응하지 않는 활동성 메니에르병에서 이비인후과가 고려할 수 있는 선택지
 
 ### <mark style="color:orange;">지속성체위지각어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 
 * 국내 dizziness clinic에서 두 번째로 흔한 원인(20.8%)
 * 진단 기준 \[Bárány Society 2017; ICD-11에 수록] - 다음 기준을 모두 충족
-  * **지속성** : 3개월 이상 대부분의 날 발생하는 어지럼, 부동감(unsteadiness) 또는 비회전성 현훈; 증상은 수시간 이상 지속될 수 있고 강도는 증감함
-  * **악화 요인** : 직립 자세(standing/walking), 특정 방향과 상관없는 능동적/수동적 움직임, 복잡한 시각 자극(대형 마트, 영화관 등)
-  * **선행 사건** : 급성 전정질환(BPPV, AUV 등), 실신, 공황발작 등 어지럼을 유발하는 사건이 선행함
-  * **심각한 고통** : 증상으로 인한 일상생활 기능 장애 또는 심리적 위축 동반 (직장, 사회활동 회피 등)
-  * **배제 진단** : 다른 질환으로 더 잘 설명되지 않음
+  * 지속성 : 3개월 이상 대부분의 날 발생하는 어지럼, 부동감(unsteadiness) 또는 비회전성 현훈
+    * 증상은 수시간 이상 지속될 수 있고 강도는 증감함
+  * 악화 요인 : 직립 자세(standing/walking), 특정 방향과 상관없는 능동적/수동적 움직임, 복잡한 시각 자극(대형 마트, 영화관 등)
+  * 선행 사건 : 급성 전정질환(BPPV, AUV 등), 실신, 공황발작 등 어지럼을 유발하는 사건이 선행함
+  * 심각한 고통 : 증상으로 인한 일상생활 기능 장애 또는 심리적 위축 동반 (직장, 사회활동 회피 등)
+  * 배제 진단 : 다른 질환으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">치료</mark>
 
 * 전정 재활 훈련 : 습관화 운동 중심; 조기 시작이 중요
 * 인지행동치료(CBT) : 질환 교육, 회피행동·과도한 경계·불안에 대한 치료로 고려
-* SSRI/SNRI : 위약대조 RCT 근거가 없어 효과는 불확실하며 PPPD에는 국내 허가 외 사용. 동반 불안·우울, 증상 부담과 환자 선호를 고려하여 저용량부터 개별적으로 시도하고 반응·부작용을 재평가; 유지기간은 관해 정도와 재발 위험에 따라 결정
+* SSRI/SNRI : 위약대조 RCT 근거가 없어 효과는 불확실하며 PPPD에는 국내 허가 외 사용
+  * 동반 불안·우울, 증상 부담과 환자 선호를 고려하여 저용량부터 개별적으로 시도하고 반응·부작용을 재평가
+  * 유지기간은 관해 정도와 재발 위험에 따라 결정
 
 ### <mark style="color:orange;">외림프누공</mark>
 
 * 초기에는 머리를 높이고 힘주기·무거운 물건 들기·코 풀기·비행·잠수 등 압력 상승을 유발하는 행동을 피하며 활동을 제한하는 보존적 치료를 고려
-* 외상 후 진행성 난청, 지속되는 전정 증상 또는 보존치료 실패 시 이비인후과·이신경과 의뢰. 선택된 환자에서 시험적 고실개방술과 난원창·정원창 보강술을 고려
+* 외상 후 진행성 난청, 지속되는 전정 증상 또는 보존치료 실패 시 이비인후과·이신경과 의뢰
+  * 선택된 환자에서 시험적 고실개방술과 난원창·정원창 보강술을 고려
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-R42 어지럼증 및 어지럼
-
-_※ 실무 팁 : 확정 진단 전에는 R42를 사용할 수 있으며, 원인 질환이 확인되면 실제 진료기록과 진단에 맞는 질병코드를 사용함. 의심만으로 특정 질환 코드를 삭감 방지 목적으로 병기하지 않음. (KCD-9, 2026.1.1 시행 기준 - 코드 변경 여부는 주기적으로 재확인 권장)_
-
-H81.0 메니에르병
-
-H81.1 양성 발작성 현기증
-
-H81.2 전정신경세포염
-
-H81.9 전정기능의 상세불명 장애
-
-H83.0 미로염
-
-H81.89 기타 명시된 전정기능 장애 (PPPD 코딩은 국내 KCD 세부 기준과 기관 지침 확인)
+* R42 어지럼증 및 어지럼 Dizziness and giddiness
+  * _실무 팁 : 확정 진단 전에는 R42를 사용할 수 있으며, 원인 질환이 확인되면 실제 진료기록과 진단에 맞는 질병코드를 사용함. 의심만으로 특정 질환 코드를 삭감 방지 목적으로 병기하지 않음_
+* H81.0 메니에르병 Meniere’s disease
+* H81.1 양성 발작성 현기증 Benign paroxysmal vertigo
+* H81.2 전정신경세포염 Vestibular neuronitis
+* H81.9 전정기능의 상세불명 장애 Unspecified disorder of vestibular function
+* H83.0 미로염 Labyrinthitis
+* H81.89 기타 명시된 전정기능 장애 Other specified disorders of vestibular function
 
 ***
 
