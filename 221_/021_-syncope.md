@@ -23,7 +23,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치**</mark> <mark style="color:$danger;">- 현재 생명 위협 상태 또는 시간 민감성 응급질환 의심</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 의식 또는 활력징후가 신속히 회복되지 않음, 정상 호흡 없음, 지속되는 수축기 혈압 ＜90 ㎜Hg 또는 쇼크
 * 지속성 중증 서맥·빈맥, 급성 심근허혈을 시사하는 ECG 변화, 심박동기·제세동기 기능 이상
@@ -38,7 +38,7 @@
 > * 항정신병약, 일부 macrolide·fluoroquinolone, class IA·III 항부정맥제, 일부 항구토제·항진균제·항우울제 등 약제별 위험도가 다름.
 > * 2종 이상 병용, 고용량, 저칼륨·저마그네슘혈증, 서맥, 신·간기능 저하는 위험을 높일 수 있음. ※ [CredibleMeds QTDrugs List](https://crediblemeds.org)에서 개별 약물의 Known/Possible/Conditional Risk 확인
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark> <mark style="color:$warning;">- 현재 생명 위협 상태는 아니나 중대한 심장성 원인 위험이 있어 원칙적으로 당일 평가가 필요한 소견</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 운동 중 또는 누운 자세에서 발생한 실신
 * 갑작스러운 심계항진 직후 실신
@@ -49,7 +49,7 @@
   * 3초 이상 pause는 젊은 운동선수, 수면 중 또는 심박수가 조절된 AF 등 생리적 예외를 고려
 * 증상 또는 임상 상태와 연관된 중증 빈혈·출혈이나 유의한 전해질 이상
 
-<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 단독 시 즉각 위험 낮으나 반복 시 재평가 필요</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 반복적이고 설명할 수 없는 실신 또는 원인불명 낙상(특히 고령자); 위 소견이 병존하면 즉시 격상
 
@@ -202,7 +202,7 @@ graph TD
 
 ### <mark style="color:orange;">감별</mark>
 
-<mark style="color:$info;">※ 실신 아형 간 감별(혈관미주신경성/상황/기립성 저혈압/심장성)은 본 섹션 하단의 **실신 아형 감별표**와 위의 **초기 평가 알고리듬** 참조. 본 섹션은 실신과 혼동되는 **비실신성 TLOC** 감별에 집중.</mark>
+<mark style="color:$info;">※ 실신 아형 간 감별(혈관미주신경성/상황/기립성 저혈압/심장성)은 본 섹션 하단의</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**실신 아형 감별표**</mark><mark style="color:$info;">와 위의</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**초기 평가 알고리듬**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">참조. 본 섹션은 실신과 혼동되는</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**비실신성 TLOC**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">감별에 집중.</mark>
 
 **Non-syncope TLOC (의식 소실이 뇌 저관류에 의하지 않는 경우)**
 
@@ -291,7 +291,7 @@ R55 실신 및 허탈
 > ※ 앙와위·기립 혈압과 요저류를 확인하고 반응에 따라 용량 조정
 > ```
 >
-> ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md#처방례))
+> ※ 자세한 처방은 반사성 실신 챕터 참조 (☞ [반사성 실신](022_-reflex-syncope-neurally-mediated-syncope.md#%EC%B2%98%EB%B0%A9%EB%A1%80))
 
 > **처방례 3.** 기립성 저혈압 - 만성(신경인성, 약물 조정 후에도 지속 시)
 >

@@ -51,7 +51,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 신경학적 이상 : 복시·시야결손, 구음·연하 장애, 안면마비, 새 일측성 팔/다리 위약·감각저하, 사지실조 `뇌간·소뇌 뇌졸중`
 * 중추성 안진 (수직 안진, 주시 방향에 따른 방향 변환성 안진) `소뇌·뇌간 병변`
