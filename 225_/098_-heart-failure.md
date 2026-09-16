@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 심부전은 다양한 원인에 의해 발생하는 임상 증후군으로, 전형적인 증상 또는 징후와 함께 기저 구조적·기능적 심장 이상에 기인한 폐·전신 울혈 또는 심박출량 변화의 검사실·영상학적 증거가 존재하는 상태이다. 단일 검사로 진단하지 않고 임상 소견, 바이오마커, 영상을 종합하여 판단하며, 나트륨이뇨펩타이드(natriuretic peptide, NP) 상승이 진단의 필수조건은 아님 - 특히 HFpEF에서는 침습적 혈역학 이상이 명확해도 NP가 정상일 수 있음
-* HFrEF에서 효과적인 FMT(guideline-directed medical therapy)는 LVEF와 증상이 호전되어 HFimpEF 또는 remission 상태가 되더라도 원칙적으로 유지하며, 장기 추적함
+* HFrEF에서 효과적인 FMT(foundational medical therapy)는 LVEF와 증상이 호전되어 HFimpEF 또는 remission 상태가 되더라도 원칙적으로 유지하며, 장기 추적함
 
 ### <mark style="color:orange;">분류</mark>
 
@@ -14,6 +14,7 @@
   * **HFrEF (HF with reduced EF)** : **LVEF <50%**
   * **HFpEF (HF with preserved EF)** : **LVEF ≥50%**
   * **HFmrEF (LVEF 41~49%)는 독립 phenotype에서 삭제**되어 HFrEF에 포함됨
+  * LVEF 41~49%를 '경한 심부전'으로 해석하지 않음. LVEF는 측정값이지 중증도·예후의 지표가 아니며, LVEF 45%도 HFrEF로서 FMT 대상임
 * 기존 문헌·임상시험·일부 급여 기준에서는 **HFmrEF**라는 용어가 계속 사용될 수 있으므로 문헌 해석 시 주의함
 * **HFimpEF (HF with improved EF)**는 별도의 고정된 EF phenotype이라기보다 **이전 HFrEF에서 LVEF가 호전된 trajectory**를 나타냄. 2026 보편적 정의에서는 antecedent HFrEF 후 LVEF가 **절대 10%p 이상 증가하여 >40%**가 된 경우를 HFimpEF로 기술함
 * LVEF는 측정법·검사자·시점에 따른 변동성이 있으므로 **50%를 절대적인 진단 경계로 기계적으로 적용하지 않음**. 특히 치료 선택에서는 개별 치료의 근거가 되는 별도 EF 기준(예: ICD/CRT ≤35%, ivabradine ≤35%, digoxin/digitoxin ≤40%)을 함께 적용함
@@ -78,12 +79,14 @@ _✽심부전 증상 : 호흡 곤란(dyspnea), 피로(fatigue), 운동 내성 �
 ### <mark style="color:orange;">환자 초기 평가</mark>
 
 * 문진, 진찰, 신장/체중(BMI), 기립성 혈압 변화; 심근병증 환자에서 3대 가족력 청취
-* 혈액검사 : CBC, 전해질(Ca, Mg), BUN/Cr/eGFR, FBS/HbA1c, 지질, LFT, 철분(혈청 철·페리틴·TSAT), TSH; 위험도 평가에 urine albumin/creatinine ratio(UACR)도 고려
+* 혈액·소변 검사 : CBC, 전해질(Ca, Mg), BUN/Cr/eGFR, FBS/HbA1c, 지질, LFT, 철분(혈청 철·페리틴·TSAT), TSH, **UACR** - 2026 ESC에서 HF 초기 평가의 일상 검사로 권고(Class I, LOE C). eGFR과 함께 신장 평가에 포함하여 CKD 발견, 심혈관·신장 위험 평가, 신보호 치료 결정에 활용
 * Biomarkers : BNP, NT-proBNP
   * 연령·성별·신부전·비만·심방세동·약물 등에 영향을 받음. 비만에서는 NP가 낮게 측정될 수 있어 정상치만으로 HF를 배제하지 않음
   * 급성 DHF에서 비특이적 rule-out 기준은 BNP <100 pg/mL 또는 NT-proBNP <300 pg/mL이며, NT-proBNP의 rule-in은 연령에 따라 달라질 수 있음
 
-<table><thead><tr><th width="178">상황</th><th width="200">BNP</th><th>NT-proBNP</th></tr></thead><tbody><tr><td>외래 / 만성 HF 의심</td><td>≥35 pg/㎖</td><td>≥125 pg/㎖</td></tr><tr><td>DHF 의심</td><td>≥100 pg/㎖</td><td>≥300 pg/㎖</td></tr></tbody></table>
+<table><thead><tr><th width="178">상황</th><th width="200">BNP</th><th>NT-proBNP</th></tr></thead><tbody><tr><td>외래 / 만성 HF 의심</td><td>≥35 pg/㎖</td><td>연령별 rule-in : &lt;50세 ≥125, 50~74세 ≥250, ≥75세 ≥500 pg/㎖</td></tr><tr><td>DHF 의심</td><td>≥100 pg/㎖</td><td>≥300 pg/㎖</td></tr></tbody></table>
+
+_✽연령 보정으로 고령자의 불필요한 의뢰·심초음파를 줄일 수 있으나, 연령만으로 해석하지 않음. 비만(낮게 측정), AF·신기능 저하(높게 측정) 등을 함께 고려_
 
 * 12-Lead 심전도, 흉부 X선; 혈역학적 불안정 또는 저관류가 의심되면 lactate 측정
 * 심초음파 : 구조·기능, LVEF 및 충만압 관련 소견 평가; NP와 함께 임상 상황에 따라 신속히 시행
@@ -110,7 +113,7 @@ _Ref. The natural history of congestive heart failure: the Framingham study. NEJ
 
 ```mermaid
 flowchart TD
-    A["증상·징후 & LVEF ≥50%"] --> B["<u>BNP 상승</u>\nNT-proBNP ≥125 pg/㎖\n(비만 시 위음성 주의)"]
+    A["증상·징후 & LVEF ≥50%"] --> B["<u>BNP 상승</u>\nNT-proBNP 연령별 rule-in\n(&lt;50세 ≥125, 50~74세 ≥250, ≥75세 ≥500 pg/㎖)\n(비만 시 위음성 주의)"]
     A --> C["<u>구조적 이상</u>\nLAVI >34 ㎖/㎡\nLVH (IVSd >11 ㎜)"]
     A --> D["<u>이완기 기능 이상</u>\n• E/e' >14\n• e' 측벽 <10 또는 중격 <7 ㎝/s\n• TR velocity >2.8 m/s (PASP 상승)"]
     B --> E["<u>필요 시 점수 체계 활용</u>\n(HFA-PEFF, H₂FPEF)"]
@@ -132,7 +135,7 @@ class B,C,D lightGreen
 graph TD
     A("<u>평가</u>\n· 임상 병력 · 신체검사\n· ECG · 실험실 검사")
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    B("<u>Natriuretic peptide</u>\n· 만성 의심: NT-proBNP ≥125 pg/㎖\nBNP ≥35 pg/㎖\n· DHF rule-out: NT-proBNP <300 pg/㎖\nBNP <100 pg/㎖")
+    B("<u>Natriuretic peptide</u>\n· 만성 의심: NT-proBNP 연령별 rule-in(&lt;50세 ≥125, 50~74세 ≥250, ≥75세 ≥500 pg/㎖)\nBNP ≥35 pg/㎖\n· DHF rule-out: NT-proBNP <300 pg/㎖\nBNP <100 pg/㎖")
     C("<u>Transthoracic Echocardiography</u>\n· 구조·기능·LVEF 평가")
 classDef lightGreen fill:#e8f8e8,stroke:#4caf50
 class B,C lightGreen
@@ -171,11 +174,12 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 <table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFrEF</strong></td><td>&lt;50%</td><td><strong>FMT</strong> : SGLT2i + MRA + β-blocker + ACEi/ARNI/ARB; 증상성 울혈에는 loop diuretic. LVEF 41~49%는 별도 HFmrEF로 분류하지 않으며 HFrEF 치료 원칙을 적용하되 근거 수준을 고려함</td></tr><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td><strong>FMT</strong> : SGLT2i + MRA; 울혈 시 loop diuretic. ACEi/ARB/ARNI는 고혈압·특정 phenotype에서 HF 입원 감소 목적으로 고려. 비만(BMI ≥30) + 증상성 HF에서는 semaglutide 또는 tirzepatide 고려</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 HFrEF<br>→ LVEF 호전</td><td>원칙적으로 FMT를 최고 내약 용량으로 유지하고 장기 추적. 매우 선택적인 무증상 환자에서 가역 원인 교정 및 LV 기능·용적·NP가 완전히 정상화된 경우에만 면밀한 감시하에 단계적 감량을 고려</td></tr></tbody></table>
 
-_✽2026 ESC에서는 기존의 FMT라는 포괄적 용어 대신 **foundational medical therapy (FMT)**, **additional medical therapy (AMT)**, **guideline-directed interventional therapy (GDIT)**를 사용함. FMT는 심부전 환자 전반에서 입원/사망 감소 근거가 확립된 치료를 의미함._
+_✽2026 ESC에서는 기존의 GDMT(guideline-directed medical therapy)라는 포괄적 용어 대신 **foundational medical therapy (FMT)**, **additional medical therapy (AMT)**, **guideline-directed interventional therapy (GDIT)**를 사용함. FMT는 해당 HF phenotype에서 HF 입원 또는 사망 감소 근거가 확립된 Class I 치료로, 치료의 '하한선'이지 '상한선'이 아님. AMT는 FMT 위에 개별화하여 추가하는 치료로, 증상·삶의 질 개선 목적의 Class I/II 치료 또는 특정 아군에서 Class I인 치료(예: 울혈 시 loop diuretic, HFrEF 철결핍의 IV iron, 비만 HFpEF의 semaglutide/tirzepatide)임. GDIT는 권고 등급과 무관하게 가이드라인에 포함된 기기·중재 치료(ICD, CRT, 판막 중재, 혈관재개통, 방실결절 절제 등)를 포괄함._
 
 ### <mark style="color:orange;">비대상성 심부전(Decompensated Heart Failure, DHF) 초기 관리</mark>
 
 * 2026 ESC에서는 'acute heart failure'보다 **decompensated heart failure (DHF)**라는 용어를 사용함. 초기에는 혈역학·호흡 안정화와 함께 CHAMPIT 가역적 원인을 병행 평가·치료
+* DHF는 갑작스러운 발현만을 의미하지 않으며, 수주에 걸쳐 호흡곤란·부종·체중 증가가 서서히 진행하는 경과도 포함함. 저관류·호흡부전 등 Red Flags가 없는 경증 비대상성 환자는 외래에서 경구 loop diuretic 증량과 FMT 점검으로 관리할 수 있으며, 수일 내 체중·증상·신기능·전해질을 재평가하여 반응이 없으면 의뢰
 
 <mark style="color:cyan;">**CHAMPIT 감별**</mark>
 
@@ -451,6 +455,8 @@ _✽단기 제제 제외; serum digoxin 농도 유지_\
 * Mitral TEER : 최적 FMT/CRT에도 중증 secondary MR이 지속되는 적절한 HFrEF 환자에서 평가
 * LVAD/MCS : Stage D 또는 cardiogenic shock 등에서 전문센터와 적응증 평가
 * 심장 이식 : advanced HF의 적절한 후보에서 평가
+* 기타 GDIT : 적응증에 따라 관상동맥 혈관재개통, AF 동반 시 방실결절 절제(+ 조율), 선택된 수면호흡장애 환자의 ASV 등을 평가
+  * ✽ASV는 LVEF ≤45% + 중추성 수면무호흡 우세 HFrEF에서 사망 증가 보고(SERVE-HF)가 있으므로 적용 대상 확인 후 전문의 판단
 
 ***
 
