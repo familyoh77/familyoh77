@@ -264,7 +264,7 @@ graph TD
   * 정신작용약물(TCA, trazodone, quetiapine 등)은 기립성 저혈압·실신이 허가정보에 명시되어 있어 시작·증량 시 확인
   * 알파 차단제(tamsulosin, silodosin, alfuzosin 등)는 특히 시작·증량 시 기립성 저혈압 위험을 확인. 요로선택성이 높은 약제도 위험이 없지는 않으므로 증상과 혈압을 바탕으로 조정
 * 저위험 반사성 실신 : 교육 및 안심(Class I), 비약물 치료 우선
-  * 전구 증상을 인지할 수 있는 반복성 저혈압형에서 counter-pressure maneuver를 교육하고, 증상 부담이 큰 일부 환자는 비약물 치료 후 midodrine 등을 고려
+  * 전구 증상을 인지할 수 있는 반복성 저혈압형에서 [counter-pressure maneuver](022_-reflex-syncope.md#counter-pressure-maneuver)를 교육하고, 증상 부담이 큰 일부 환자는 비약물 치료 후 midodrine 등을 고려
   * 반사성 실신 예방을 위한 midodrine은 국내 허가 외 사용이며, 앙와위 고혈압·요저류 등의 위험과 제한적인 근거를 고려하여 선별적으로 사용
   * Cardioneuroablation은 선별된 중증 재발성 cardioinhibitory reflex syncope에서 논의되는 시술로, 근거와 장기 안전성이 확립 중이므로 실신·부정맥 전문센터에서만 고려
 * 기립성 저혈압 실신 : 유발 약물 조정, 금기가 없을 때 수분·염분 섭취, 복대 또는 허리 높이 압박복을 우선 고려. 무릎 높이 압박스타킹만으로는 효과가 제한적

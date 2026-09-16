@@ -123,31 +123,6 @@
 ***
 
 ```mermaid
-flowchart LR
-    subgraph DX["초기 평가"]
-        direction TB
-        A(["실신 병력·진찰<br/>기립 혈압·12유도 ECG"]) --> B["고위험 소견?"]
-        B -->|있음| C["응급·심장 평가"]
-        B -->|없음| D["전형적 반사성 실신?"]
-        D -->|아니오| E["표적검사<br/>·ECG 모니터링<br/>필요 시 ILR"]
-    end
-    subgraph TX["치료 선택"]
-        direction TB
-        F["교육·유발인자 회피<br/>counter-pressure maneuver"] --> G["중증 재발?"]
-        G -->|아니오| H["교육 후 추적"]
-        G -->|예| I["우세 기전?"]
-        I -->|저혈압| J["약물 조정<br/>midodrine 또는 <br/>fludrocortisone"]
-        I -->|서맥·무수축| K["기전 문서화 후<br/>pacing 평가"]
-        I -->|불명| L["장기 ECG <br/>모니터링"]
-    end
-    D -->|예| F
-    E --> L
-    classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef questionNode fill:#fff9c4,stroke:#ffe082
-    classDef urgentNode fill:#f96,stroke:#e65100,stroke-width:2px
-    class A startNode
-    class B,D,G,I questionNode
-    class C urgentNode
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
@@ -161,9 +136,9 @@ flowchart LR
 ### <mark style="color:orange;">치료 원칙</mark>
 
 * 진단과 양성 경과를 설명하고 재발 가능성, 유발 인자, 전조 증상 및 대처법을 교육하는 것이 모든 환자의 1차 치료
-* 드물고 경증인 전형적 반사성 실신에는 보통 약물이나 추가검사가 필요하지 않음
+* 드물고 경증인 전형적 반사성 실신에는 보통 약물이나 추가 검사가 필요하지 않음
 * 외상, 운전·위험 직업, 짧거나 없는 전조, 잦은 재발 등 중증도를 평가하고 안전 대책을 함께 마련
-* 응급실 관찰·입원 여부는 나이가 아니라 고위험 소견, 중증 동반질환·외상 및 긴급 검사·치료 필요성에 따라 결정
+* 응급실 관찰·입원 여부는 고위험 소견, 중증 동반 질환·외상 및 긴급 검사·치료 필요성에 따라 결정 - 나이가 아님
 * 소아·청소년에서는 VVS가 가장 흔한 실신 원인이며 교육·수분/식염 섭취·counter-pressure maneuver가 1차 치료임. 약물은 routine으로 사용하지 않지만, 충분한 비약물치료에도 반복되거나 외상 위험·삶의 질 저하가 큰 경우 소아심장 전문 평가 후 선별적으로 고려
 
 ### <mark style="color:orange;">기전 기반 치료</mark>
