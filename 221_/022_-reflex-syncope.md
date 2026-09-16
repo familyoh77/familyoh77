@@ -3,10 +3,10 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * [실신](021_-syncope.md) : 일시적인 전뇌 관류 저하로 갑자기 발생하며, 지속 시간이 짧고 자발적·완전하게 회복되는 일시적 의식 소실
-* 반사성 실신 : 자율신경 반사에 의한 부적절한 혈관 확장(vasodepression) 및/또는 심한 서맥·무수축(cardioinhibition)으로 동맥압과 뇌 관류가 일시적으로 감소하여 발생하는 실신
+* 반사성 실신 : 자율신경 반사에 의한 부적절한 혈관 확장(vasodepression) &/or 심한 서맥·무수축(cardioinhibition)으로 동맥압과 뇌 관류가 일시적으로 감소하여 발생하는 실신
 * 가장 흔한 형태는 혈관미주신경성 실신(vasovagal syncope, VVS)이며, 상황 실신과 목동맥굴증후군도 포함됨
 * 뇌전증 발작, 심인성 가성실신(psychogenic pseudosyncope), 저혈당, 중독, 두부 외상 및 심장성 실신 등 다른 일시적 의식 소실 원인과 감별해야 함
-* 병태생리 : 다양한 구심성 자극과 중추 자율신경 조절 이상 → 교감신경성 혈관수축 소실 및/또는 과도한 미주신경 활성 → 혈압 저하와 서맥·무수축 → 일시적 뇌 관류 저하
+* 병태생리 : 다양한 구심성 자극과 중추 자율신경 조절 이상 → 교감신경성 혈관수축 소실 &/or 과도한 미주신경 활성 → 혈압 저하와 서맥·무수축 → 일시적 뇌 관류 저하
 
 ### <mark style="color:orange;">유발 요인 및 취약 조건</mark>
 
@@ -17,28 +17,28 @@
 
 ### <mark style="color:orange;">종류</mark>
 
-#### <mark style="color:$primary;">혈관미주신경성 실신 Vasovagal Syncope(VVS), Neurocardiogenic Syncope</mark>
+#### <mark style="color:$primary;">혈관미주신경성 실신 (Vasovagal Syncope(VVS), Neurocardiogenic Syncope)</mark>
 
 * 가장 흔한 반사성 실신
 * 유발 인자 : 불쾌한 광경·소리·냄새, 공포, 통증, 채혈·주사 등 의료 시술, 장시간 기립, 고온·혼잡한 환경, 운동 직후(post-exertional)
-  * ※ 운동 중(exertional) 실신은 심장성 실신의 Red Flag이므로 반사성 실신으로 간주하지 말고 심장 원인을 우선 배제
+  * 운동 중(exertional) 실신은 심장성 실신의 Red Flag이므로 반사성 실신으로 간주하지 말고 심장 원인을 우선 배제
 * 전조 증상 : 어지럼, 열감 또는 냉감, 구역, 창백, 발한, 시야 흐림·축소, 청각 변화
 * 실신 후 피로·구역이 남을 수 있으며, 의식 소실 후 짧고 불규칙한 근간대성 움직임이 나타날 수 있음(convulsive syncope)
   * 지남력은 대개 신속히 회복함. 수 분 이상 지속되는 혼돈, 의식 회복 전부터 시작하는 규칙적 강직간대운동, 측면 혀 깨물기 등은 뇌전증 발작을 더 시사
 
-#### <mark style="color:$primary;">상황 실신 Situational Syncope</mark>
+#### <mark style="color:$primary;">상황 실신 (Situational Syncope)</mark>
 
 * 특정 행위 중 또는 직후 반복되는 반사성 실신
 * 유발 인자 : 기침, 재채기, 큰 웃음, 배뇨, 배변, 삼킴·식도 자극, 내장 통증, 운동 직후, 부는 악기 연주, 역도 등
 * 같은 상황에서 반복된 병력이 진단에 도움을 주지만, 전조 증상은 짧거나 없을 수 있음
 * 기침 원인 치료, 배뇨 시 앉은 자세 등 유발 상황에 맞춘 대처를 병행
 
-#### <mark style="color:$primary;">목동맥굴증후군 Carotid Sinus Syndrome(CSS)</mark>
+#### <mark style="color:$primary;">목동맥굴증후군 (Carotid Sinus Syndrome, CSS)</mark>
 
 * 주로 40세 이후에서 발생하며 머리 회전, 면도, 목을 조이는 옷 등 목동맥굴 압박과 연관될 수 있음
 * 단순 목동맥굴 과민반응(carotid sinus hypersensitivity)과 달리, 진단을 위해서는 목동맥굴 마사지 중 평소의 실신·전실신 증상이 재현되어야 함
 
-#### <mark style="color:$primary;">비전형적 반사성 실신 Atypical Forms</mark>
+#### <mark style="color:$primary;">비전형적 반사성 실신 (Atypical Forms)</mark>
 
 * 뚜렷한 유발 인자나 전형적인 전조가 없을 수 있으므로, 다른 원인을 충분히 배제하고 유사한 반사 기전이 검사에서 재현될 때 진단
 
@@ -53,8 +53,6 @@
 * 중증 두부 외상이나 기타 심각한 손상 동반
 * Mobitz II형 또는 3도 방실차단, 지속성 심실빈맥, 명백한 허혈성 변화 등 즉각적인 처치가 필요한 ECG 이상
 
-※ 운동 직후 실신은 반사성 실신 또는 운동 후 저혈압일 수 있으나, 운동 중 발생했거나 흉통·심계항진·비정상 ECG·구조적 심질환·돌연사 가족력이 동반되면 심장성 원인을 우선 평가
-
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 앉은 자세에서 갑자기 발생하거나 전조 증상 없이 발생한 실신
@@ -63,15 +61,15 @@
 * 젊은 연령의 돌연사 가족력 또는 Long QT syndrome, Brugada syndrome, CPVT 등 유전성 부정맥 가족력
 * 명백한 QT 연장·단축, pre-excitation(WPW), bifascicular block 또는 기타 유의한 전도장애, type 1 Brugada pattern 등 비정상 ECG
 * 첫 실신이거나 이전과 양상이 달라졌으며 반사성 실신으로 확신하기 어려운 경우
-* 40세 초과에서 서맥·무수축 기전이 강하게 의심되는 중증·예측 불가능한 재발성 실신 (☞ 심박동기 평가 대상 가능성)
+* 40세 초과에서 서맥·무수축 기전이 강하게 의심되는 중증·예측 불가능한 재발성 실신
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 전형적인 유발 상황과 전조가 있으나 실신이 반복되거나 일상생활·직업에 지장을 주는 경우
-* 외상 위험이 높거나 전조가 짧아 안전한 자세를 취하기 어려운 경우
-* 혈압강하약·이뇨제·질산염·향정신성 약물 등 약물 관련 저혈압이 의심되는 경우
-* 동반된 기립불내성 또는 낙상이 반복되는 경우
-* 실신으로 인한 반복적 외상(골절·열상 등)이 발생하는 경우
+* 전형적인 유발 상황과 전조가 있으나 실신이 반복되거나 일상생활·직업에 지장
+* 외상 위험이 높거나 전조가 짧아 안전한 자세를 취하기 어려움
+* 혈압강하약·이뇨제·질산염·향정신성 약물 등 약물 관련 저혈압이 의심
+* 동반된 기립불내성 또는 낙상이 반복
+* 실신으로 인한 반복적 외상(골절·열상 등)이 발생
 
 ## <mark style="color:green;">진단</mark>
 
@@ -80,7 +78,8 @@
 * 환자 및 목격자의 상세한 병력 : 발생 자세와 활동, 유발 인자, 전조, 의식 소실 시간, 움직임, 피부색, 회복 양상, 외상, 과거 실신, 복용약, 심장질환 및 돌연사 가족력
 * 신체진찰 : 심혈관·신경학적 진찰과 표준화된 기립 혈압·맥박 측정
   * 5분 이상 누운 자세에서 안정 후 기준 혈압·맥박을 측정하고, 기립 후 약 1분과 3분에 반복 측정
-  * 지연성 기립성 저혈압 또는 POTS가 의심되면 5\~10분까지 연장. Initial OH는 일반 커프 혈압계로 놓칠 수 있으므로 의심되면 beat-to-beat monitoring 고려
+  * 지연성 기립성 저혈압 또는 POTS가 의심되면 5\~10분까지 연장
+    * Initial OH는 일반 커프 혈압계로 놓칠 수 있으므로 의심되면 beat-to-beat monitoring 고려
   * 양팔 혈압은 첫 평가에서 대동맥·쇄골하동맥 질환 등이 의심되거나 유의한 차이가 확인될 때 비교
 * 12유도 ECG : 모든 실신 환자의 초기 평가에서 시행
 * 전형적인 병력, 정상 진찰·기립 혈압·ECG로 반사성 실신이 매우 유력하고 고위험 소견이 없으면 추가검사 없이 교육과 생활요법을 시작할 수 있음
@@ -93,9 +92,11 @@
 * 운동부하검사 : 운동 중 또는 운동 직후 실신
 * Implantable loop recorder(ILR) : 재발성·중증 원인 불명 실신에서 부정맥 가능성이 있고, 재발 시 특정 치료로 이어질 수 있는 경우
 * 표적 혈액검사 : 출혈 의심 시 CBC, 대사 이상 의심 시 혈당·전해질·신기능, 심근허혈 의심 시 troponin, 폐색전증 의심 시 D-dimer 등
-* 뇌 CT/MRI·EEG : 단순 실신에서는 routine 시행하지 않음. 국소 신경학적 이상, 지속적 의식 변화, 두부 외상 또는 뇌전증 의심 등 별도 적응증이 있을 때 시행
-* 경동맥 초음파 : 전형적인 실신 평가 목적으로 routine 시행하지 않음. 경동맥 질환 자체가 의심되거나 목동맥굴 마사지 전 고도 협착 가능성을 평가해야 할 때 고려
-* Dix-Hallpike 검사 : 실신 검사가 아니라 체위 변화로 유발되는 회전성 현훈이 주증상일 때 BPPV 감별 목적으로 시행(☞ [어지럼증](020_-dizziness.md#dix-hallpike-test))
+* 뇌 CT/MRI·EEG : 국소 신경학적 이상, 지속적 의식 변화, 두부 외상 또는 뇌전증 의심 등 별도 적응증이 있을 때 시행
+  * 단순 실신에서는 routine 시행하지 않음
+* 경동맥 초음파 : 경동맥 질환 자체가 의심되거나 목동맥굴 마사지 전 고도 협착 가능성을 평가해야 할 때 고려
+  * 전형적인 실신 평가 목적으로 routine 시행하지 않음
+* [Dix-Hallpike 검사](020_-dizziness.md#dix-hallpike-test) : 실신 검사가 아니라 체위 변화로 유발되는 회전성 현훈이 주증상일 때 BPPV 감별 목적으로 시행
 
 #### <mark style="color:$primary;">Head-up Tilt-table Test</mark>
 
@@ -115,7 +116,7 @@
 
 ### <mark style="color:orange;">주요 감별</mark>
 
-<table><thead><tr><th>감별 진단</th><th>주요 단서</th><th>확인·대응</th></tr></thead><tbody><tr><td>혈관미주신경성 실신</td><td>불쾌한 자극·통증·장시간 기립, 창백·발한·구역·시야 변화 등의 전조</td><td>전형적인 병력과 정상 초기 평가가 핵심</td></tr><tr><td>상황 실신</td><td>기침·배뇨·배변·삼킴 등 특정 행위 중 또는 직후 반복</td><td>유발 상황과 증상의 시간적 연관성 확인</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">기립성 저혈압</a></td><td>기립 후 지속적인 혈압 감소와 기립불내성</td><td>표준 기립 혈압 측정. Initial OH는 필요 시 beat-to-beat monitoring</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">식후저혈압</a></td><td>주로 고령자·자율신경기능장애 환자에서 식후 일정 시간이 지나 증상과 혈압 감소</td><td>식전·식후 혈압 평가. 삼킴과 동시에 발생하는 상황 실신과 구분</td></tr><tr><td>심장성 실신</td><td>심폐질환, 비정상 ECG, 운동 중·누운 자세 실신, 전조 없는 돌발 실신</td><td>고위험도에 따라 응급 평가·심장검사</td></tr><tr><td>뇌전증 발작</td><td>지속적 발작 후 혼돈, 측면 혀 깨물기, 의식 소실 전부터 시작한 규칙적 강직간대운동</td><td>임상적으로 의심될 때 신경학적 평가·EEG</td></tr><tr><td>심인성 가성실신(PPS)</td><td>반복적이고 수 분 이상 길게 지속되는 "의식 소실" 삽화, 눈을 감고 있는 경우가 많고 외상이 드묾, 발작 중 혈압·맥박이 감소하지 않음</td><td>목격자 동영상·tilt test 중 정상 혈역학과 증상의 동시성 확인; 정신건강의학과 협진 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="152">감별 진단</th><th>주요 단서</th><th>확인·대응</th></tr></thead><tbody><tr><td>혈관미주신경성 실신</td><td>불쾌한 자극·통증·장시간 기립, 창백·발한·구역·시야 변화 등의 전조</td><td>전형적인 병력과 정상 초기 평가가 핵심</td></tr><tr><td>상황 실신</td><td>기침·배뇨·배변·삼킴 등 특정 행위 중 또는 직후 반복</td><td>유발 상황과 증상의 시간적 연관성 확인</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">기립성 저혈압</a></td><td>기립 후 지속적인 혈압 감소와 기립불내성</td><td>표준 기립 혈압 측정. Initial OH는 필요 시 beat-to-beat monitoring</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">식후저혈압</a></td><td>주로 고령자·자율신경기능장애 환자에서 식후 일정 시간이 지나 증상과 혈압 감소</td><td>식전·식후 혈압 평가. 삼킴과 동시에 발생하는 상황 실신과 구분</td></tr><tr><td>심장성 실신</td><td>심폐질환, 비정상 ECG, 운동 중·누운 자세 실신, 전조 없는 돌발 실신</td><td>고위험도에 따라 응급 평가·심장검사</td></tr><tr><td>뇌전증 발작</td><td>지속적 발작 후 혼돈, 측면 혀 깨물기, 의식 소실 전부터 시작한 규칙적 강직간대운동</td><td>임상적으로 의심될 때 신경학적 평가·EEG</td></tr><tr><td>심인성 가성실신(PPS)</td><td>반복적이고 수 분 이상 길게 지속되는 "의식 소실" 삽화, 눈을 감고 있는 경우가 많고 외상이 드묾, 발작 중 혈압·맥박이 감소하지 않음</td><td>목격자 동영상·tilt test 중 정상 혈역학과 증상의 동시성 확인; 정신건강의학과 협진 고려</td></tr></tbody></table>
 
 ### <mark style="color:orange;">진단 및 치료 알고리듬</mark>
 
@@ -128,20 +129,19 @@ flowchart LR
         A(["실신 병력·진찰<br/>기립 혈압·12유도 ECG"]) --> B["고위험 소견?"]
         B -->|있음| C["응급·심장 평가"]
         B -->|없음| D["전형적 반사성 실신?"]
-        D -->|아니오| E["표적검사·ECG 모니터링<br/>필요 시 ILR"]
+        D -->|아니오| E["표적검사<br/>·ECG 모니터링<br/>필요 시 ILR"]
     end
     subgraph TX["치료 선택"]
         direction TB
         F["교육·유발인자 회피<br/>counter-pressure maneuver"] --> G["중증 재발?"]
         G -->|아니오| H["교육 후 추적"]
         G -->|예| I["우세 기전?"]
-        I -->|저혈압| J["약물 조정<br/>midodrine 또는 fludrocortisone"]
+        I -->|저혈압| J["약물 조정<br/>midodrine 또는 <br/>fludrocortisone"]
         I -->|서맥·무수축| K["기전 문서화 후<br/>pacing 평가"]
-        I -->|불명| L["장기 ECG 모니터링"]
+        I -->|불명| L["장기 ECG <br/>모니터링"]
     end
     D -->|예| F
     E --> L
-
     classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef questionNode fill:#fff9c4,stroke:#ffe082
     classDef urgentNode fill:#f96,stroke:#e65100,stroke-width:2px
@@ -152,7 +152,7 @@ flowchart LR
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 2018 ESC Guidelines for the diagnosis and management of syncope; 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 2018 ESC Guidelines for the diagnosis and management of syncope; 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy)</mark></em></p>
 
 ***
 
