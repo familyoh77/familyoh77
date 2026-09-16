@@ -123,6 +123,31 @@
 ***
 
 ```mermaid
+flowchart LR
+    subgraph DX["초기 평가"]
+        direction TB
+        A(["실신 병력·진찰<br/>기립 혈압·12유도 ECG"]) --> B["고위험 소견?"]
+        B -->|있음| C["응급·심장 평가"]
+        B -->|없음| D["전형적 반사성 실신?"]
+        D -->|아니오| E["표적검사<br/>·ECG 모니터링<br/>필요 시 ILR"]
+    end
+    subgraph TX["치료 선택"]
+        direction TB
+        F["교육·유발인자 회피<br/>counter-pressure maneuver"] --> G["중증 재발?"]
+        G -->|아니오| H["교육 후 추적"]
+        G -->|예| I["우세 기전?"]
+        I -->|저혈압| J["약물 조정<br/>midodrine 또는 <br/>fludrocortisone"]
+        I -->|서맥·무수축| K["기전 문서화 후<br/>pacing 평가"]
+        I -->|불명| L["장기 ECG <br/>모니터링"]
+    end
+    D -->|예| F
+    E --> L
+    classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef questionNode fill:#fff,stroke:#333
+    classDef urgentNode fill:#f96,stroke:#e65100,stroke-width:2px
+    class A startNode
+    class B,D,G,I questionNode
+    class C urgentNode
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
