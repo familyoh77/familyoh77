@@ -38,6 +38,7 @@ _✽심부전 증상 : 호흡 곤란(dyspnea), 피로(fatigue), 운동 내성 �
 <table><thead><tr><th width="180">병인군</th><th>대표 질환·상태</th></tr></thead><tbody><tr><td><strong>허혈성 심근병증</strong></td><td>허혈성 심질환, 심근경색, 관상동맥질환</td></tr><tr><td><strong>고혈압성 심근병증</strong></td><td>고혈압성 심장질환</td></tr><tr><td><strong>판막성 심근병증</strong></td><td>석회화 대동맥판질환, 퇴행성 승모판질환, 류마티스성·선천성 판막질환</td></tr><tr><td><strong>부정맥 관련 심근병증</strong></td><td>조절되지 않는 AF, 빈맥·PVC·심실비동기·우심실 조율 유발 심근병증</td></tr><tr><td><strong>침윤성 심근병증</strong></td><td>심장 아밀로이드증, 혈색소침착증, Fabry병, 당원축적병, 종양 침윤</td></tr><tr><td><strong>감염성 심근병증</strong></td><td>바이러스성 심근염, Chagas병, HIV, Lyme병</td></tr><tr><td><strong>염증성 심근병증</strong></td><td>자가면역질환, sarcoidosis, 과민반응</td></tr><tr><td><strong>독성 심근병증</strong></td><td>약제 유발 심장독성, 알코올·코카인·암페타민 등 물질 사용</td></tr><tr><td><strong>유전성 심근병증</strong></td><td>비대성·확장성·제한성·부정맥유발성 심근병증, 비확장성 좌심실 심근병증</td></tr><tr><td><strong>심낭질환</strong></td><td>수축성·제한성 심낭염</td></tr><tr><td><strong>대사·영양결핍 관련</strong></td><td>비만, 당뇨병, 갑상선질환, thiamine·selenium 결핍, 선천성 대사 이상</td></tr><tr><td><strong>임신 관련 심근병증</strong></td><td>주산기 심근병증</td></tr><tr><td><strong>스트레스 유발 심근병증</strong></td><td>Takotsubo 심근병증</td></tr><tr><td><strong>폐질환·우심부전 관련</strong></td><td>COPD, 간질성 폐질환, 진폐증, 폐동맥고혈압</td></tr><tr><td><strong>선천성 심근병증</strong></td><td>체순환 우심실 부전, Fontan 순환, 교정된 Fallot 4징</td></tr><tr><td><strong>고박출성 심근병증</strong></td><td>혈색소병증·용혈성 빈혈, 동정맥기형, pheochromocytoma 등 내분비 원인</td></tr><tr><td><strong>기타</strong></td><td>신경근육질환, 심내막심근섬유증, Löffler 심내막염 등</td></tr><tr><td><strong>특발성</strong></td><td>원인을 확인하지 못한 심근병증</td></tr></tbody></table>
 
 * 심부전의 원인과 유병 양상은 지역·이주·의료 접근성·사회경제적 환경에 따라 달라질 수 있으므로 환자의 출신 지역과 노출력도 함께 고려함
+* 심장 아밀로이드증 의심 단서(놓치기 쉬우나 치료 가능) : 고령 + 좌심실비대(LVH) 소견인데 심전도 전압은 낮거나 정상인 경우(전압-질량 불일치), 양측 수근관증후군 병력, NP가 임상 중증도에 비해 불균형하게 높은 경우 → 심장 아밀로이드증 감별 위해 순환기내과 의뢰(뼈스캔·MRI·유전자 검사 등)
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -174,7 +175,7 @@ style H fill:#d0e8ff,stroke:#1a6abf
 
 <table><thead><tr><th width="114">HF phenotype</th><th width="114">LVEF</th><th>우선 권고 약제</th></tr></thead><tbody><tr><td><strong>HFrEF</strong></td><td>&lt;50%</td><td><strong>FMT</strong> : SGLT2i + MRA + β-blocker + ACEi/ARNI/ARB; 증상성 울혈에는 loop diuretic. LVEF 41~49%는 별도 HFmrEF로 분류하지 않으며 HFrEF 치료 원칙을 적용하되 근거 수준을 고려함</td></tr><tr><td><strong>HFpEF</strong></td><td>≥50%</td><td><strong>FMT</strong> : SGLT2i + MRA; 울혈 시 loop diuretic. ACEi/ARB/ARNI는 고혈압·특정 phenotype에서 HF 입원 감소 목적으로 고려. 비만(BMI ≥30) + 증상성 HF에서는 semaglutide 또는 tirzepatide 고려</td></tr><tr><td><strong>HFimpEF</strong></td><td>이전 HFrEF<br>→ LVEF 호전</td><td>원칙적으로 FMT를 최고 내약 용량으로 유지하고 장기 추적. 매우 선택적인 무증상 환자에서 가역 원인 교정 및 LV 기능·용적·NP가 완전히 정상화된 경우에만 면밀한 감시하에 단계적 감량을 고려</td></tr></tbody></table>
 
-_✽2026 ESC에서는 기존의 GDMT(guideline-directed medical therapy)라는 포괄적 용어 대신 **foundational medical therapy (FMT)**, **additional medical therapy (AMT)**, **guideline-directed interventional therapy (GDIT)**를 사용함. FMT는 해당 HF phenotype에서 HF 입원 또는 사망 감소 근거가 확립된 Class I 치료로, 치료의 '하한선'이지 '상한선'이 아님. AMT는 FMT 위에 개별화하여 추가하는 치료로, 증상·삶의 질 개선 목적의 Class I/II 치료 또는 특정 아군에서 Class I인 치료(예: 울혈 시 loop diuretic, HFrEF 철결핍의 IV iron, 비만 HFpEF의 semaglutide/tirzepatide)임. GDIT는 권고 등급과 무관하게 가이드라인에 포함된 기기·중재 치료(ICD, CRT, 판막 중재, 혈관재개통, 방실결절 절제 등)를 포괄함._
+_✽2026 ESC는 GDMT(guideline-directed medical therapy)를 폐기하지 않고 **foundational medical therapy (FMT)**와 **additional medical therapy (AMT)**를 포괄하는 상위 용어로 유지하며, 치료를 세분화하기 위해 FMT·AMT·**guideline-directed interventional therapy (GDIT)** 개념을 도입함. FMT는 해당 HF phenotype에서 HF 입원 또는 사망 감소 근거가 확립된 Class I 치료로, 치료의 '하한선'이지 '상한선'이 아님. AMT는 FMT 위에 개별화하여 추가하는 치료로, 증상·삶의 질 개선 목적의 Class I/II 치료 또는 특정 아군에서 Class I인 치료(예: 울혈 시 loop diuretic, HFrEF 철결핍의 IV iron, 비만 HFpEF의 semaglutide/tirzepatide)임. GDIT는 권고 등급과 무관하게 가이드라인에 포함된 기기·중재 치료(ICD, CRT, 판막 중재, 혈관재개통, 방실결절 절제 등)를 포괄함._
 
 ### <mark style="color:orange;">비대상성 심부전(Decompensated Heart Failure, DHF) 초기 관리</mark>
 
@@ -327,14 +328,14 @@ flowchart TD
 
 ### <mark style="color:orange;">심부전의 주요 약제 및 용량</mark>
 
-<table data-search="false"><thead><tr><th width="272">Drug</th><th width="212">시작 용량 (㎎)</th><th>목표 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>ACEi</strong></td><td></td><td></td></tr><tr><td>captopril <mark style="color:blue;">[카프릴]</mark></td><td>6.25 tid</td><td>50 tid</td></tr><tr><td>enalapril <mark style="color:blue;">[레니프릴]</mark></td><td>2.5 bid</td><td>10–20 bid</td></tr><tr><td>lisinopril <mark style="color:blue;">[제스트릴]</mark></td><td>2.5–5 qd</td><td>20–40 qd</td></tr><tr><td>perindopril <mark style="color:blue;">[아서틸]</mark></td><td>2 qd</td><td>8–16 qd</td></tr><tr><td>ramipril <mark style="color:blue;">[트리테이스]</mark></td><td>1.25–2.5 qd</td><td>10 qd</td></tr><tr><td>trandolapril <em>(국내 유통 확인 필요)</em></td><td>1 qd</td><td>4 qd</td></tr><tr><td><strong>ARB</strong></td><td></td><td></td></tr><tr><td>candesartan <mark style="color:blue;">[아타칸]</mark></td><td>4–8 qd</td><td>32 qd</td></tr><tr><td>losartan <mark style="color:blue;">[코자]</mark></td><td>25–50 qd</td><td>50–150 qd</td></tr><tr><td>valsartan <mark style="color:blue;">[디오반]</mark></td><td>20–40 bid</td><td>160 bid</td></tr><tr><td><strong>ARNi</strong></td><td></td><td></td></tr><tr><td>sacubitril/valsartan <mark style="color:blue;">[엔트레스토]</mark></td><td>24/26 bid 또는 49/51 bid</td><td>97/103 bid</td></tr><tr><td><strong>I</strong><sub><strong>f</strong></sub><strong> Channel inhibitor</strong></td><td></td><td></td></tr><tr><td>ivabradine <mark style="color:blue;">[프로코라란]</mark></td><td>5 bid</td><td>7.5 bid</td></tr><tr><td><strong>Beta-blockers</strong></td><td></td><td></td></tr><tr><td>bisoprolol <mark style="color:blue;">[콩코르]</mark></td><td>1.25 qd</td><td>10 qd</td></tr><tr><td>carvedilol <mark style="color:blue;">[딜라트렌]</mark></td><td>3.125 bid</td><td>25–50 bid</td></tr><tr><td>carvedilol CR</td><td>10 qd</td><td>80 qd</td></tr><tr><td>metoprolol succinate <mark style="color:blue;">[푸로롤서방]</mark></td><td>12.5–25 qd</td><td>200 qd</td></tr><tr><td>nebivolol <mark style="color:blue;">[네비레트]</mark></td><td>1.25 qd</td><td>10 qd</td></tr><tr><td><strong>MRA</strong></td><td></td><td></td></tr><tr><td>spironolactone <mark style="color:blue;">[알닥톤]</mark></td><td>12.5–25 qd</td><td>25–50 qd</td></tr><tr><td>eplerenone <mark style="color:blue;">[인스프라]</mark></td><td>25 qd</td><td>50 qd</td></tr><tr><td><strong>SGLT2i</strong></td><td></td><td></td></tr><tr><td>dapagliflozin <mark style="color:blue;">[포시가]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td>empagliflozin <mark style="color:blue;">[자디앙]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td><strong>Soluble guanylate cyclase stimulator</strong></td><td></td><td></td></tr><tr><td>vericiguat <mark style="color:blue;">[베르쿠보]</mark></td><td>2.5 qd</td><td>10 qd</td></tr><tr><td>digoxin <mark style="color:blue;">[디곡신]</mark></td><td>0.125–0.25 qd</td><td>목표 혈중 농도 0.5–0.9 ng/㎖</td></tr><tr><td><strong>Isosorbide dinitrate &#x26; Hydralazine</strong></td><td></td><td></td></tr><tr><td>isosorbide dinitrate <mark style="color:blue;">[이소켓]</mark></td><td>20 tid</td><td>40 tid (120 ㎎/d)</td></tr><tr><td>hydralazine <mark style="color:blue;">[히드랄라진]</mark></td><td>25 tid</td><td>75 tid (225 ㎎/d)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="272">Drug</th><th width="212">시작 용량 (㎎)</th><th>목표 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>ACEi</strong></td><td></td><td></td></tr><tr><td>captopril <mark style="color:blue;">[카프릴]</mark></td><td>6.25 tid</td><td>50 tid</td></tr><tr><td>enalapril <mark style="color:blue;">[레니프릴]</mark> <em>(국내 유통 확인 필요)</em></td><td>2.5 bid</td><td>10–20 bid</td></tr><tr><td>lisinopril <mark style="color:blue;">[제스트릴]</mark> <em>(국내 유통 확인 필요)</em></td><td>2.5–5 qd</td><td>20–40 qd</td></tr><tr><td>perindopril <mark style="color:blue;">[아서틸]</mark></td><td>2 qd</td><td>8–16 qd</td></tr><tr><td>ramipril <mark style="color:blue;">[트리테이스]</mark></td><td>1.25–2.5 qd</td><td>10 qd</td></tr><tr><td>trandolapril <em>(국내 유통 확인 필요)</em></td><td>1 qd</td><td>4 qd</td></tr><tr><td><strong>ARB</strong></td><td></td><td></td></tr><tr><td>candesartan <mark style="color:blue;">[아타칸]</mark></td><td>4–8 qd</td><td>32 qd</td></tr><tr><td>losartan <mark style="color:blue;">[코자]</mark></td><td>25–50 qd</td><td>50–150 qd</td></tr><tr><td>valsartan <mark style="color:blue;">[디오반]</mark></td><td>20–40 bid</td><td>160 bid</td></tr><tr><td><strong>ARNi</strong></td><td></td><td></td></tr><tr><td>sacubitril/valsartan <mark style="color:blue;">[엔트레스토]</mark></td><td>24/26 bid 또는 49/51 bid</td><td>97/103 bid</td></tr><tr><td><strong>I</strong><sub><strong>f</strong></sub><strong> Channel inhibitor</strong></td><td></td><td></td></tr><tr><td>ivabradine <mark style="color:blue;">[프로코라란]</mark></td><td>5 bid</td><td>7.5 bid</td></tr><tr><td><strong>Beta-blockers</strong></td><td></td><td></td></tr><tr><td>bisoprolol <mark style="color:blue;">[콩코르]</mark></td><td>1.25 qd</td><td>10 qd</td></tr><tr><td>carvedilol <mark style="color:blue;">[딜라트렌]</mark></td><td>3.125 bid</td><td>25–50 bid</td></tr><tr><td>carvedilol CR <mark style="color:blue;">[딜라트렌에스알]</mark></td><td>8 qd</td><td>64 qd</td></tr><tr><td>metoprolol succinate <mark style="color:blue;">[셀로켄엑스엘]</mark></td><td>12.5–25 qd</td><td>200 qd</td></tr><tr><td>nebivolol <mark style="color:blue;">[네비레트]</mark></td><td>1.25 qd</td><td>10 qd</td></tr><tr><td><strong>MRA</strong></td><td></td><td></td></tr><tr><td>spironolactone <mark style="color:blue;">[알닥톤]</mark></td><td>12.5–25 qd</td><td>25–50 qd</td></tr><tr><td>eplerenone <mark style="color:blue;">[인스프라]</mark></td><td>25 qd</td><td>50 qd</td></tr><tr><td><strong>SGLT2i</strong></td><td></td><td></td></tr><tr><td>dapagliflozin <mark style="color:blue;">[포시가]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td>empagliflozin <mark style="color:blue;">[자디앙]</mark></td><td>10 qd</td><td>10 qd</td></tr><tr><td><strong>Soluble guanylate cyclase stimulator</strong></td><td></td><td></td></tr><tr><td>vericiguat <mark style="color:blue;">[베르쿠보]</mark></td><td>2.5 qd</td><td>10 qd</td></tr><tr><td>digoxin <mark style="color:blue;">[디곡신]</mark></td><td>0.125–0.25 qd</td><td>목표 혈중 농도 0.5–0.9 ng/㎖</td></tr><tr><td><strong>Isosorbide dinitrate &#x26; Hydralazine</strong></td><td></td><td></td></tr><tr><td>isosorbide dinitrate <mark style="color:blue;">[이소켓]</mark></td><td>20 tid</td><td>40 tid (120 ㎎/d)</td></tr><tr><td>hydralazine <mark style="color:blue;">[히드랄라진]</mark></td><td>25 tid</td><td>75 tid (225 ㎎/d)</td></tr></tbody></table>
 
 _✽단기 제제 제외; serum digoxin 농도 유지_\
 \&#x20;_Ref. AHA/ACC/HFSA Guideline for the Management of Heart Failure. 2022. Table 14; doses retained for practical reference._
 
 ### <mark style="color:orange;">약제별 titration 체크리스트</mark>
 
-<table><thead><tr><th width="149">약제</th><th width="176">증량 전 확인 항목</th><th width="304">목표 / 주의 기준</th></tr></thead><tbody><tr><td><strong>ACEi / ARNi</strong></td><td>BP · Cr · K</td><td>SBP ＞90; Cr 상승 &#x3C;30%; K &#x3C;5.5</td></tr><tr><td><strong>Beta-blocker</strong></td><td>HR · BP · 울혈 여부</td><td>HR ＞50; SBP ＞90; 체액 과부하 없음</td></tr><tr><td><strong>MRA</strong></td><td>Cr · K · eGFR</td><td>eGFR ≥30; K <5.0 시작; 이후 K/eGFR에 따라 모니터링</td></tr><tr><td><strong>SGLT2i</strong></td><td>eGFR · 감염 여부</td><td>개별 약제 허가사항 참고 (약제마다 eGFR 기준 상이); 수술·금식 48h 전 중단</td></tr></tbody></table>
+<table><thead><tr><th width="149">약제</th><th width="176">증량 전 확인 항목</th><th width="304">목표 / 주의 기준</th></tr></thead><tbody><tr><td><strong>ACEi / ARNi</strong></td><td>BP · Cr · K</td><td>SBP ＞90; Cr 상승 &#x3C;30%; K &#x3C;5.5</td></tr><tr><td><strong>Beta-blocker</strong></td><td>HR · BP · 울혈 여부</td><td>HR ＞50; SBP ＞90; 체액 과부하 없음</td></tr><tr><td><strong>MRA</strong></td><td>Cr · K · eGFR</td><td>eGFR ≥30; K <5.0 시작; 이후 K/eGFR에 따라 모니터링</td></tr><tr><td><strong>SGLT2i</strong></td><td>eGFR · 감염 여부</td><td>개별 약제 허가사항 참고 (약제마다 eGFR 기준 상이); 정상혈당 케톤산증 예방을 위해 수술·금식 최소 3일(72시간) 전 중단</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">ACEi</mark>
 
@@ -365,6 +366,7 @@ _✽단기 제제 제외; serum digoxin 농도 유지_\
 
 * 대상 : 증상성 HF에서 MRA 적응증을 확인하고 eGFR ≥30 mL/min/1.73 m² 및 K <5.0 mEq/L 등을 확인하여 시작; 시작 후 조기에 K/eGFR 재평가. HFrEF에서는 spironolactone/eplerenone, HFpEF에서는 finerenone을 포함한 nsMRA 근거를 고려
 * 부작용 : K↑(1주·4주 후 모니터링), 여성형유방증(spironolactone)
+* 고칼륨혈증으로 MRA/RAASi 감량·중단이 필요한 경우, 무조건 중단하기보다 sodium zirconium cyclosilicate <mark style="color:blue;">\[록켈마]</mark> 등 칼륨 결합제 병용을 통해 FMT 유지를 고려
 * Finerenone : 2026 ESC에서는 증상성 HF 전반에서 MRA 선택지로 포함되며, 특히 HFpEF에서는 nsMRA(finerenone)의 근거가 반영됨. 실제 처방은 국내 허가사항·급여 기준을 확인
 
 #### <mark style="color:$primary;">SGLT2i</mark>
@@ -404,11 +406,11 @@ _✽단기 제제 제외; serum digoxin 농도 유지_\
 * 부작용 : Na↓, K↓(또는 K↑), Mg↓, 요산↑; 사용 시 주의 : Na ＜135, K ＜3.5 또는 ＞5.0, Cr ＞3.0, Mg ＜1.8, 산증 - 중증 HF에서는 더 심한 저나트륨혈증·신기능 저하에서도 필요 시 loop diuretic을 사용하며, 절대 금기는 아님
 * torsemide : furosemide보다 흡수·반감기 우수
 
-<table data-search="false"><thead><tr><th width="280">Drug</th><th width="200">시작 용량 (㎎)</th><th>최대 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>Loop diuretics</strong></td><td></td><td></td></tr><tr><td>furosemide <mark style="color:blue;">[라식스]</mark></td><td>20–40 qd/bid</td><td>600</td></tr><tr><td>bumetanide </td><td>0.5–1.0 qd/bid</td><td>10</td></tr><tr><td>torsemide <mark style="color:blue;">[토르세미드]</mark></td><td>10–20 qd</td><td>200</td></tr><tr><td><strong>Thiazide diuretics</strong></td><td></td><td></td></tr><tr><td>chlorthalidone <mark style="color:blue;">[하이그로톤]</mark></td><td>12.5–25 qd</td><td>100</td></tr><tr><td>hydrochlorothiazide <mark style="color:blue;">[다이크로짇]</mark></td><td>25 qd</td><td>200</td></tr><tr><td>indapamide <mark style="color:blue;">[후루덱스]</mark></td><td>2.5 qd</td><td>5</td></tr><tr><td>metolazone </td><td>2.5 qd</td><td>20</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="280">Drug</th><th width="200">시작 용량 (㎎)</th><th>최대 용량 (㎎)</th></tr></thead><tbody><tr><td><strong>Loop diuretics</strong></td><td></td><td></td></tr><tr><td>furosemide <mark style="color:blue;">[라식스]</mark></td><td>20–40 qd/bid</td><td>600</td></tr><tr><td>bumetanide <em>(국내 미유통)</em></td><td>0.5–1.0 qd/bid</td><td>10</td></tr><tr><td>torsemide <mark style="color:blue;">[토르세미드]</mark></td><td>10–20 qd</td><td>200</td></tr><tr><td><strong>Thiazide diuretics</strong></td><td></td><td></td></tr><tr><td>chlorthalidone <mark style="color:blue;">[하이그로톤]</mark> <em>(국내 유통 확인 필요)</em></td><td>12.5–25 qd</td><td>100</td></tr><tr><td>hydrochlorothiazide <mark style="color:blue;">[다이크로짇]</mark></td><td>25 qd</td><td>200</td></tr><tr><td>indapamide <mark style="color:blue;">[후루덱스]</mark></td><td>2.5 qd</td><td>5</td></tr><tr><td>metolazone <em>(국내 미유통)</em></td><td>2.5 qd</td><td>20</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Digoxin / Digitoxin</mark>
 
-* 2026 ESC : 최적 FMT에도 증상이 지속되는 **LVEF ≤40%의 증상성 HFrEF**에서 HF 입원 감소 목적으로 cardiac glycoside(digoxin 또는 digitoxin)를 고려할 수 있음(Class IIa). AF 심박수 조절에서도 개별적으로 사용
+* 2026 ESC : 최적 FMT에도 증상이 지속되는 **LVEF ≤40%의 증상성 HFrEF**에서 HF 입원 감소 목적으로 cardiac glycoside(digoxin 또는 digitoxin)를 고려할 수 있음(Class IIa). AF 심박수 조절에서도 개별적으로 사용. ✽digitoxin은 국내 미유통으로 실제로는 digoxin을 사용함
 * Digoxin <mark style="color:blue;">\[디고신]</mark> : 이뇨제 등 기존 치료에도 증상 잔존 또는 AF 심박수 조절이 필요한 경우
 * 용법 : 0.125 ㎎/d으로 시작; 신기능 장애·고령·낮은 lean body mass 시 감량; amiodarone·quinidine·verapamil 병용 시 농도 증가
 * 부작용 : 구역, 식욕 부진, 혼란, 시각 이상, 부정맥; 저칼륨혈증·신기능 장애 시 독성 증가
@@ -423,7 +425,8 @@ _✽단기 제제 제외; serum digoxin 농도 유지_\
 
 #### <mark style="color:$primary;">기타 약물</mark>
 
-* Ivabradine <mark style="color:blue;">\[프로코라란]</mark> : 증상성 HFrEF, LVEF ≤35%, 동성리듬, 안정 시 HR >70 bpm에서 최대 내약 ACEi/ARNI·MRA·SGLT2i·β-blocker 치료 후 HF 입원/사망 위험 감소 목적으로 고려
+* Ivabradine <mark style="color:blue;">\[프로코라란]</mark> : 증상성 HFrEF, LVEF ≤35%, 동성리듬, 안정 시 HR ≥70 bpm에서 최대 내약 ACEi/ARNI·MRA·SGLT2i·β-blocker 치료 후 HF 입원/사망 위험 감소 목적으로 고려
+  ✽국내 허가·급여 기준은 HR ≥75 bpm - 정확한 기준은 HIRA 고시를 반드시 확인할 것
 * Vericiguat <mark style="color:blue;">\[베르쿠보]</mark> : 최적 FMT에도 증상이 있는 HFrEF, LVEF <45%에서 최근 악화 위험이 높은 환자에게 고려
   * 급여 기준 : 최근 악화(입원 또는 정맥 이뇨제 치료) 병력이 있는 증상성 HFrEF에서 인정; 세부 요건은 HIRA 고시 확인 필요
 * 정맥 내 철분 보충 : 증상성 HFrEF 및 철결핍에서 증상·삶의 질 개선 목적으로 권고. 최근 DHF 입원 후 LVEF <50%인 철결핍 환자에서도 재입원 감소 근거를 고려
@@ -435,6 +438,7 @@ _✽단기 제제 제외; serum digoxin 농도 유지_\
 * 2026 ESC는 **증상성 HF, LVEF ≥45%, BMI ≥30 kg/m²**에서 당뇨병 유무와 관계없이 semaglutide 또는 tirzepatide를 고려(Class IIa)할 수 있다고 권고함. 목적은 체중 감소와 운동능력·삶의 질 개선이며, HF 악화 사건 감소 가능성도 있으나 장기 심혈관 사망 효과의 확정적 근거로 해석하지 않음
 * STEP-HFpEF 프로그램에서는 semaglutide가 KCCQ와 6분보행거리 및 체중을 개선했고, SUMMIT에서는 tirzepatide가 HF 악화 또는 심혈관 사망 복합결과를 감소시켰음. 다만 사건 수가 적어 HF 하드 엔드포인트의 확정적 해석에는 주의가 필요함
 * HFrEF에서 비만 치료 목적의 incretin-based therapy는 별도의 근거와 안전성 평가가 필요함. 식사·운동 및 근육량 보존을 함께 관리함
+* BMI ≥35 kg/m²인 비만 HF 환자에서는 bariatric surgery도 고려할 수 있음(Class IIb)
 * 실제 처방은 국내 허가사항·급여 기준을 확인함
 {% endhint %}
 
@@ -525,6 +529,16 @@ I50.9 상세불명의 심부전
 >
 > _✽AF 동반 시 digoxin 혈중 농도 모니터링 (목표 0.5\~0.9 ng/㎖). NOAC은 신기능·체중 기준 감량 확인._
 
+> **처방례 5. HFpEF (LVEF ≥50%, 고혈압·비만 동반)**
+>
+> ```
+> 자디앙        10 ㎎/T  1T  qd
+> 알닥톤         25 ㎎/T  1T  qd
+> 라식스         20 ㎎/T  1T  qd   (체액 과부하 시)
+> ```
+>
+> _✽HFpEF의 FMT는 SGLT2i + MRA. K·신기능 정기 모니터링. BMI ≥30 kg/㎡이면 semaglutide 또는 tirzepatide 추가를 고려(체중 감소·운동능력·삶의 질 개선 목적)._
+
 ***
 
 {% hint style="info" %}
@@ -546,9 +560,9 @@ I50.9 상세불명의 심부전
 
 1. **이뇨제(라식스 등)** : 아침에 복용하여 야간 빈뇨를 줄이세요. 체중이 2\~3일 내에 2 ㎏ 이상 늘면 바로 연락하세요.
 2. **β-차단제(콩코르 등)** : 처음에 어지럼·피로가 생길 수 있으나 수주 내에 적응됩니다. 임의로 중단하지 마세요.
-3. **ACEi/ARNi(제스트릴·엔트레스토 등)** : 마른 기침이 생기면 ARB로 교체 가능합니다. 혈압 저하·어지럼 발생 시 알려주세요.
-4. **MRA(알닥톤 등)** : 칼륨이 높아질 수 있어 정기 혈액 검사가 필요합니다. 칼륨이 포함된 소금 대체제나 칼륨 보충제를 임의로 사용하지 마세요.
-5. **SGLT2i(포시가·자디앙)** : 생식기·요로 감염에 주의하고 위생을 철저히 하세요. 수술·금식 48시간 전에 중단하세요.
+3. **ACEi(제스트릴 등)** : 마른 기침이 생기면 ARNi(엔트레스토)나 ARB로 교체할 수 있습니다. 혈압 저하·어지럼 발생 시 알려주세요.
+4. **MRA(알닥톤 등)** : 칼륨이 높아질 수 있어 정기 혈액 검사가 필요합니다. 칼륨이 포함된 소금 대체제나 칼륨 보충제를 임의로 사용하지 마세요. 칼륨이 높아 약을 줄여야 하는 경우 칼륨 결합제를 병용하며 유지하는 방법도 있으니 임의로 중단하지 말고 상의하세요.
+5. **SGLT2i(포시가·자디앙)** : 생식기·요로 감염에 주의하고 위생을 철저히 하세요. 수술·금식 최소 3일 전에 중단하세요.
 6. **엔트레스토** : 이전 ACEi 마지막 복용 후 36시간 뒤부터 복용하세요.
 7. **Digoxin** : 심한 서맥·어지럼·실신이 있으면 복용을 임의로 조절하지 말고 의료진에게 연락하세요. 구역·시야 흐림·황녹색 시야 또는 심계항진이 생기면 즉시 알려주세요.
 8. **심부전 약물 전반** : EF가 좋아져도 절대로 임의로 약을 끊지 마세요. 약을 멈추면 심장이 다시 나빠질 수 있습니다.
