@@ -15,7 +15,7 @@
 3. Environmental COPD
    1. COPD-C (cigarette smoking) : 흡연(간접 흡연, 태아 노출 포함), 전자 담배, 대마초
    2. COPD-P (biomass & pollution) : 가정 내 오염, 대기 오염, 산불 연기, 직업적 노출
-4. COPD-I (infection) : 소아 감염, 결핵, 산모의 HIV 감염
+4. COPD-I (infection) : 소아 감염, 결핵, HIV 감염
 5. COPD-A (COPD & asthma) : 특히 소아 천식 (☞ [천식 동반](072_-copd.md#asthma-overlap))
 6. COPD-U (COPD of unknown cause)
 
@@ -93,7 +93,7 @@
 
 * 산소화 및 환기 : pulse oximetry(SpO2); SpO2 ≤92%이거나 호흡 부전·우심부전이 의심되면 ABG(PaO2, PaCO2, pH) 고려. 야간 저산소증이 의심되는 경우 수면 중 평가
 * 흉부 X선 : hyperinflation, vascular marking 감소/bullae (emphysema), thickened bronchial marking (chronic bronchitis); 특이적이지 않음, 다른 질환 감별에 이용
-* chest CT : 빈번한 악화 또는 폐기능 검사 중증도와 불일치하는 증상 감별, 폐 용적 제한술 대상 평가 (FEV1 15\~45%, 과팽창 증거)
+* chest CT : 빈번한 악화 또는 폐기능 검사 중증도와 불일치하는 증상 감별, 폐 용적 감소술 대상 평가 (FEV1 15\~45%, 과팽창 증거)
 * 저선량 흉부 CT (LDCT, 폐암 선별) : 국내 국가폐암검진은 해당 연도 기준을 확인(일반적으로 만 54\~74세, 30갑년 이상 고위험군, 2년 주기). 미국 USPSTF는 50\~80세, ≥20갑년이면서 현재 흡연 또는 금연 후 15년 이내인 사람에게 매년 권고 \[USPSTF 2021]. COPD 자체만으로 선별검사 대상이 되는 것은 아님
 
 <table><thead><tr><th width="210">CT phenotype</th><th width="230">주요 특징</th><th>임상적 시사점</th></tr></thead><tbody><tr><td>Emphysema-predominant</td><td>저밀도 영역 증가, 혈관 감소</td><td>저체중, DLCO 감소; 적합한 선택 환자에서 LVRS/BLVR 평가</td></tr><tr><td>Airway-predominant</td><td>기관지벽 비후, 점액 저류</td><td>임상적 만성 기관지염 및 악화 병력 평가; CT 소견만으로 roflumilast 적응이 되지는 않음</td></tr><tr><td>Mixed / normal CT</td><td>두 유형 혼재 또는 경미한 변화</td><td>spirometry 중증도와 증상 불일치 시 다른 원인도 평가</td></tr></tbody></table>
@@ -157,7 +157,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 ### <mark style="color:orange;">천식 동반</mark> <a href="#asthma-overlap" id="asthma-overlap"></a>
 
 {% hint style="info" %}
-**GOLD 2026 용어 변경** : "천식-COPD 중복(Asthma-COPD Overlap)"이라는 용어를 더 이상 사용하지 않음. 천식과 COPD는 병태생리가 다른 별개의 질환이나(단, 호산구 증가·부분적 가역성 등 일부 treatable trait를 공유할 수 있음), 한 환자에서 두 질환이 공존할 수 있다는 개념으로 재정의됨
+**용어 변경(GOLD 2023 이후)** : "천식-COPD 중복(Asthma-COPD Overlap)"이라는 용어를 더 이상 사용하지 않음. 천식과 COPD는 병태생리가 다른 별개의 질환이나(단, 호산구 증가·부분적 가역성 등 일부 treatable trait를 공유할 수 있음), 한 환자에서 두 질환이 공존할 수 있다는 개념으로 재정의됨
 {% endhint %}
 
 다음 소견이 있으면 천식 동반 가능성을 고려함:
@@ -281,7 +281,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * SAMA : ipratropium, oxitropium
 * LAMA : aclidinium, glycopyrronium, tiotropium, umeclidinium
 
-<table><thead><tr><th width="92.941162109375">분류</th><th width="282.3529052734375">성분명 [상품명]</th><th width="132.941162109375">흡입제 용량</th><th width="139.4117431640625">네뷸라이저 용액</th><th>작용 시간(hr)</th></tr></thead><tbody><tr><td>SAMA</td><td>ipratropium <mark style="color:blue;">[아트로벤트]</mark></td><td>-</td><td>250 μg/mL, <br>1~2 mL/A</td><td>6–8</td></tr><tr><td>LAMA</td><td>aclidinium <mark style="color:blue;">[에클리라 제뉴에어]</mark></td><td>400 μg bid</td><td>-</td><td>12</td></tr><tr><td></td><td>glycopyrronium <mark style="color:blue;">[씨브리 흡입용캡슐]</mark></td><td>50 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td></td><td>tiotropium <mark style="color:blue;">[스피리바 흡입용캡슐]</mark></td><td>18 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td></td><td>umeclidinium <mark style="color:blue;">[인크루즈 엘립타]</mark></td><td>62.5 μg qd</td><td>-</td><td>24</td></tr></tbody></table>
+<table><thead><tr><th width="92.941162109375">분류</th><th width="282.3529052734375">성분명 [상품명]</th><th width="132.941162109375">흡입제 용량</th><th width="139.4117431640625">네뷸라이저 용액</th><th>작용 시간(hr)</th></tr></thead><tbody><tr><td>SAMA</td><td>ipratropium <mark style="color:blue;">[아트로벤트]</mark></td><td>-</td><td>250 μg/mL, <br>1~2 mL/A</td><td>6–8</td></tr><tr><td>LAMA</td><td>aclidinium <mark style="color:blue;">[에클리라 제뉴에어]</mark></td><td>400 μg bid</td><td>-</td><td>12</td></tr><tr><td></td><td>glycopyrronium <mark style="color:blue;">[씨브리 흡입용캡슐]</mark></td><td>50 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td></td><td>tiotropium <mark style="color:blue;">[스피리바 흡입용캡슐]</mark></td><td>18 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td></td><td>tiotropium <mark style="color:blue;">[스피리바 레스피맷]</mark> (SMI)</td><td>2.5 μg/puff 2 puffs qd(총 5 μg)</td><td>-</td><td>24</td></tr><tr><td></td><td>umeclidinium <mark style="color:blue;">[인크루즈 엘립타]</mark></td><td>62.5 μg qd</td><td>-</td><td>24</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">LAMA+LABA 흡입 복합제</mark>
 
@@ -331,10 +331,10 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * ICS 적응증이 있는 환자에서 현재 COPD 약물 치료의 최적 병용 요법 (보험 주의)
 * ETHOS, IMPACT 연구에서 악화 고위험 환자의 LAMA+LABA 대비 triple therapy가 사망 위험 감소 가능성을 시사했으나, 환자 선택과 ICS 관련 폐렴 위험을 함께 고려
 
-<table><thead><tr><th width="522.3529663085938">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg 1 puff qd</td></tr><tr><td>budesonide / formoterol / glycopyrrolate <mark style="color:blue;">[브리즈트리 에어로스피어]</mark></td><td>160/4.5/7.2 μg/puff, 2 puffs bid ²⁾</td></tr></tbody></table>
+<table><thead><tr><th width="522.3529663085938">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg 1 puff qd</td></tr><tr><td>budesonide / glycopyrronium / formoterol <mark style="color:blue;">[브레즈트리 에어로스피어]</mark> ²⁾</td><td>160/7.2/5.0 μg/puff, 2 puffs bid</td></tr><tr><td>beclomethasone / glycopyrronium / formoterol <mark style="color:blue;">[트림보우]</mark></td><td>87/5/9 μg/puff, 2 puffs bid</td></tr></tbody></table>
 
 ¹⁾트렐리지 엘립타 : 100/62.5/25 μg이 COPD 적응 용량; 200/62.5/25 μg은 천식 용량\
-²⁾표기 함량은 1 puff 기준. 제품별 최신 국내 허가사항과 급여기준 확인. 에너제어 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외
+²⁾표기 함량은 1 puff 기준. 브레즈트리는 글리코피로늄 14.4 μg 함량의 천식 허가 제품이 별도로 있으므로 COPD 처방 시 7.2 μg 함량 확인. 표는 대표 예시이며 동일 성분이라도 함량·적응증이 제품별로 다를 수 있어 처방 전 최신 국내 허가사항과 급여기준 확인. 에너제어 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외
 
 #### <mark style="color:$primary;">전신 Steroid</mark>
 
@@ -356,7 +356,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 ### <mark style="color:orange;">생물학적 제제 (Biologic Therapy)</mark> <a href="#biologic-therapy" id="biologic-therapy"></a>
 
 {% hint style="info" %}
-**GOLD 2026 신설** : LABA+LAMA+ICS(triple therapy)로도 악화가 지속되는 Type 2 염증 표현형 COPD 환자에서 생물학적 제제를 추가 고려. 적용 대상 - 중등도 악화 ≥2회 또는 중증 악화 ≥1회/년 지속 + 혈중 호산구 ≥300 cells/μL
+**GOLD 2025\~2026 순차 도입** : LABA+LAMA+ICS(triple therapy)로도 악화가 지속되는 Type 2 염증 표현형 COPD 환자에서 생물학적 제제를 추가 고려. 적용 대상 - 중등도 악화 ≥2회 또는 중증 악화 ≥1회/년 지속 + 혈중 호산구 ≥300 cells/μL. dupilumab은 GOLD 2025부터, mepolizumab 추가 및 근거·적용기준을 담은 Fig 3.11 신설은 GOLD 2026부터 반영됨
 {% endhint %}
 
 * **dupilumab** <mark style="color:blue;">\[듀피젠트]</mark> : IL-4/IL-13 수용체 공통 부위 차단; 만성 기관지염 동반 COPD(GOLD 2-3)에서 악화 감소·폐기능 개선·삶의 질 개선(52주) 확인; 2025년 3월 국내 COPD 적응증 허가(2026년 8월 기준 건강보험 급여 미적용 - 비급여)
@@ -584,7 +584,7 @@ flowchart TD
 
     Severity --> Mild["경증<br/>Rome 경증 기준<br/>위험 동반 소견 없음"]
     Severity --> Moderate["중등증<br/>Rome 5개 항목 중 ≥3개"]
-    Severity --> Severe["중증<br/>PaO2 ≤60 및/또는<br/>PaCO2 &gt;45 + pH &lt;7.35"]
+    Severity --> Severe["중증<br/>중등증 기준 +<br/>PaCO2 &gt;45 + pH &lt;7.35"]
 
     Mild --> OutTx["<b>외래 치료 가능</b><br/>SABA ± SAMA<br/>전신 steroid는 유의한 악화 시<br/>항생제는 적응 시<br/>48~72시간 내 반응 확인"]
 
@@ -710,7 +710,7 @@ J44.9 상세불명의 만성 폐색성 폐질환
 > salbutamol 흡입제 [벤토린 에보할러]  100 μg/puff  2~4 puffs  q4~6h  (호전 후 prn)
 > ```
 >
-> _✽ 임상적으로 유의한 급성 악화에서는 전신 스테로이드 5일 단기 요법을 사용하며, 30 ㎎/d는 NICE 권고 용량이다(GOLD는 prednisone-equivalent 40 ㎎/d). 항생제는 화농성 가래를 포함한 증상 조합, 이전 객담 배양 또는 기계환기 필요 등을 근거로 결정하며 CRP 10 ㎎/L만으로 시작하지 않는다. 48\~72시간 내 반응을 확인하고 회복 후 장시간 유지치료를 최적화한다._
+> _✽ 임상적으로 유의한 급성 악화에서는 전신 스테로이드 5일 단기 요법을 사용하며, 30 ㎎/d는 NICE 권고 용량이다(GOLD는 prednisone-equivalent 40 ㎎/d). 항생제는 화농성 가래를 포함한 증상 조합, 이전 객담 배양 또는 기계환기 필요 등을 근거로 결정하며 CRP 상승만으로 시작하지 않는다. 48\~72시간 내 반응을 확인하고 회복 후 장시간 유지치료를 최적화한다._
 
 ***
 

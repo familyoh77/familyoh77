@@ -51,7 +51,7 @@
 
 #### <mark style="color:$primary;">표현형과 관련된 생물학적 제제 선택</mark>
 
-<table><thead><tr><th width="260">상황</th><th>고려할 생물학적 제제</th></tr></thead><tbody><tr><td>임상적으로 관련된 알레르겐 감작 + 중증 알레르기성 천식</td><td>omalizumab <mark style="color:blue;">[졸레어]</mark> (anti-IgE)</td></tr><tr><td>중증 호산구성 천식</td><td>mepolizumab, reslizumab(anti-IL-5), benralizumab(anti-IL-5Rα), depemokimab(anti-IL-5)</td></tr><tr><td>T2 염증 지표 상승 또는 유지 OCS 의존</td><td>dupilumab <mark style="color:blue;">[듀피젠트]</mark> (anti-IL-4Rα)</td></tr><tr><td>표현형이 불명확하거나 광범위한 중증 천식</td><td>tezepelumab <mark style="color:blue;">[테즈스파이어]</mark> (anti-TSLP; 허가상 T2 바이오마커 제한 없음)</td></tr></tbody></table>
+<table><thead><tr><th width="260">상황</th><th>고려할 생물학적 제제</th></tr></thead><tbody><tr><td>임상적으로 관련된 알레르겐 감작 + 중증 알레르기성 천식</td><td>omalizumab <mark style="color:blue;">[졸레어]</mark> (anti-IgE)</td></tr><tr><td>중증 호산구성 천식</td><td>mepolizumab, reslizumab(anti-IL-5), benralizumab(anti-IL-5Rα), depemokimab(anti-IL-5)</td></tr><tr><td>T2 염증 지표 상승 또는 유지 OCS 의존</td><td>dupilumab <mark style="color:blue;">[듀피젠트]</mark> (anti-IL-4Rα)</td></tr><tr><td>표현형이 불명확하거나 광범위한 중증 천식</td><td>tezepelumab <mark style="color:blue;">[테즈파이어]</mark> (anti-TSLP; 허가상 T2 바이오마커 제한 없음)</td></tr></tbody></table>
 
 {% hint style="info" %}
 생물학적 제제는 최적화된 고용량 ICS-LABA 치료에도 조절되지 않는 중증 천식에서 고려한다. 단일 바이오마커만으로 선택하지 말고 악화력, 유지 OCS 필요성, 동반 질환, 연령, 투여 경로 및 국내 허가·건강보험 급여기준을 함께 평가한다. Tezepelumab은 바이오마커 제한 없이 사용할 수 있으나 일반적으로 혈중 호산구와 FeNO가 높을수록 악화 감소 효과가 더 크다.
@@ -83,7 +83,7 @@
 * 약물 : ICS 미처방, 불순응, 부적절한 흡입 기술, 과도한 SABA 사용
   * SABA 사용량에 따른 위험 평가 :
 
-<table><thead><tr><th width="220">SABA 사용량</th><th>임상적 의미</th></tr></thead><tbody><tr><td>연간 ≥3통(통상 200회/통)</td><td>중증 악화 위험 증가와 관련—치료 재평가 필요</td></tr><tr><td>연간 ≥12통</td><td>천식 관련 사망 위험 증가와 관련—긴급한 치료 재평가 필요</td></tr></tbody></table>
+<table><thead><tr><th width="220">SABA 사용량</th><th>임상적 의미</th></tr></thead><tbody><tr><td>연간 ≥3통(통상 200회/통)</td><td>중증 악화 위험 증가와 관련 - 치료 재평가 필요</td></tr><tr><td>연간 ≥12통</td><td>천식 관련 사망 위험 증가와 관련 - 긴급한 치료 재평가 필요</td></tr></tbody></table>
 
 * 동반 질환 : 비만, 만성 비부비동염, GERD, 확인된 음식 알레르기, 불안, 우울, 임신
 * 흡연, 감작된 알레르겐, 대기 오염 노출
@@ -169,7 +169,7 @@
 * 최적화된 고용량 ICS-LABA에도 반복 악화 또는 조절 불량이 지속되어 중증 천식 표현형 평가가 필요한 경우
 
 {% hint style="warning" %}
-과거 ICU 입원·기도 삽관, 최근 1년 내 입원·응급실 방문, SABA 과사용은 천식 관련 사망의 고위험 인자이다. 현재 중증 악화가 있으면 즉시 이송하고, 안정 상태에서도 조기에 치료를 재평가한다.
+과거 ICU 입원·기도 삽관, 최근 1년 내 입원·응급실 방문, **현재 사용 중이거나 최근 중단한 경구 스테로이드(OCS)**, SABA 과사용은 천식 관련 사망의 고위험 인자이다. 현재 중증 악화가 있으면 즉시 이송하고, 안정 상태에서도 조기에 치료를 재평가한다.
 {% endhint %}
 
 ## <mark style="color:green;">진단</mark>
@@ -188,8 +188,8 @@
      * ✽2022년 제안된 대안 기준(예측치 대비 ＞10% 증가) 대신 기존 ≥12% 및 ≥200 ㎖ 기준을 유지 [GINA 2026]
   2. 2주간 1일 2회 측정한 평균 일중 PEF 변동이 ＞10%
   3. ICS-containing Tx. 4주 후 FEV₁이 기저치 대비 ≥12% 및 ≥200 ㎖ 증가
-  4. 운동 유발 검사에서 FEV₁가 기저치보다 ＞10% & ＞200 ㎖ 감소
-  5. 기관지 유발 검사에서 메타콜린 또는 히스타민 흡입 후 FEV₁가 기저치보다 ≥20% 또는 표준화된 과호흡, 고장성 식염수, 만니톨 흡입 후 FEV₁가 기저치보다 ≥15% 감소
+  4. 운동 유발 검사에서 FEV₁이 기저치보다 ＞10% & ＞200 ㎖ 감소
+  5. 기관지 유발 검사에서 메타콜린 또는 히스타민 흡입 후 FEV₁이 기저치보다 ≥20% 또는 표준화된 과호흡, 고장성 식염수, 만니톨 흡입 후 FEV₁이 기저치보다 ≥15% 감소
   6. 방문 간 FEV₁이 ≥12% 및 ≥200 ㎖ 변동(또는 PEF ≥20% 변동)
 
 **검사 타당성 확인**
@@ -204,7 +204,7 @@
 
 1. 전형적·가변적 호흡기 증상(+) 및 가변적 호기 기류(+) : 천식 확진. 천식 조절을 평가하고 ICS-containing Tx.를 점검
 2. 전형적·가변적 호흡기 증상(+), 가변적 호기 기류 미입증 : 기관지확장제를 성분별 권장 시간 동안 중단한 뒤 또는 증상 발생 시 spirometry/PEF 재검
-3. if FEV1 ＞70% 예측치 (현재 치료가 과도한지 확인하는단계): ICS-containing Tx. 단계 감량 및 2\~4주 후 재평가
+3. if FEV1 ＞70% 예측치 (현재 치료가 과도한지 확인하는 단계): ICS-containing Tx. 단계 감량 및 2\~4주 후 재평가
 4. if FEV₁ ＜70% 예측치 : 1\~2개월 동안 ICS-containing Tx. 시작 또는 단계 증량 후 증상과 폐 기능 재평가; 반응 없으면 이전 용량으로 복귀하고 의뢰
 5. 호흡기 증상이 거의 없고 정상 폐 기능, 가변적 기류 제한 없음 : 기관지 확장제 중단 후 재검. 정상이면 다른 질환 고려
 6. 지속적인 호흡 곤란 및 지속적 기류 제한(+) : 성인·청소년에서 1\~2개월간 ICS-containing Tx. 단계 증량 후 평가. 반응 없으면 이전 용량으로 복귀하고 의뢰하며 천식과 COPD 특징의 병존 등을 고려
@@ -359,7 +359,7 @@ All ages
   2. 천식 때문에 밤에 잠에서 깨어난 날이 있다
   3. SABA 완화제 사용이 ＞2회/주 필요하다(운동 전 예방적 사용 제외; ICS-formoterol 완화제에는 적용하지 않음)
   4. 천식 때문에 어떤 활동에도 제한을 받는다
-* 판정 : 1개도해당 없음 = '충분한 조절'; 1\~2개 해당 = '부분 조절'; 3\~4개 해당 = '조절 안 됨'
+* 판정 : 1개도 해당 없음 = '충분한 조절'; 1\~2개 해당 = '부분 조절'; 3\~4개 해당 = '조절 안 됨'
 
 #### <mark style="color:$primary;">천식 중증도</mark>
 
@@ -476,7 +476,7 @@ MART= Maintenance and Reliever Therapy
   * 흡입기 사용법 최적화로 약물 효과 극대화
 * 음식 알레르기 확인된 경우
   * 적절한 음식 회피, 아나필락시스 행동계획 수립, 에피네프린 주사기 처방, 전문가 자문
-* A 직업적 또는 가정 내 자극물 노출
+* 직업적 또는 가정 내 자극물 노출
   * 가능한 한 빨리 노출 제거
   * 전문가 자문
 * 알레르겐 감작된 경우
@@ -532,10 +532,10 @@ MART= Maintenance and Reliever Therapy
 * 대부분의 천식은 저용량 ICS로 조절됨
 * 반응이 부족할 경우 : ⓵ 사용 방법 확인, ⓶ 다른 계열 조절제 추가(일반적으로 증량보다 효과적이며 부작용 적음. 예: ICS + LABA)
 
-<table><thead><tr><th width="290">성분명 [상품명]</th><th width="122.631591796875">저용량 (µg/d)</th><th width="129.47369384765625">중간용량 (µg/d)</th><th width="123.38568115234375">고용량 (µg/d)</th></tr></thead><tbody><tr><td>beclomethasone dipropionate¹⁾ (standard particle)</td><td>200–500</td><td>＞500–1000</td><td>＞1000</td></tr><tr><td>budesonide²⁾ [DPI]<br><mark style="color:blue;">[풀미코트 터부헬러]</mark> </td><td>200–400</td><td>400–800</td><td>＞800</td></tr><tr><td>ciclesonide¹⁾²⁾ [MDI] <mark style="color:blue;">[알베스코]</mark></td><td>80–160</td><td>160–320</td><td>＞320</td></tr><tr><td>fluticasone propionate²⁾ [DPI/MDI]<br><mark style="color:blue;">[후루타사이드]</mark></td><td>100–250</td><td>＞250–500</td><td>＞500</td></tr><tr><td>mometasone furoate <br>(standard particle)</td><td>200–400</td><td>440</td><td>＞440</td></tr></tbody></table>
+<table><thead><tr><th width="290">성분명 [상품명]</th><th width="122.631591796875">저용량 (µg/d)</th><th width="129.47369384765625">중간용량 (µg/d)</th><th width="123.38568115234375">고용량 (µg/d)</th></tr></thead><tbody><tr><td>beclomethasone dipropionate¹⁾ (standard particle)</td><td>200–500</td><td>＞500–1000</td><td>＞1000</td></tr><tr><td>budesonide²⁾ [DPI]<br><mark style="color:blue;">[풀미코트 터부헬러]</mark> </td><td>200–400</td><td>400–800</td><td>＞800</td></tr><tr><td>ciclesonide¹⁾²⁾ [MDI] <mark style="color:blue;">[알베스코]</mark></td><td>80–160</td><td>160–320</td><td>＞320</td></tr><tr><td>fluticasone propionate²⁾ [DPI/MDI]<br><mark style="color:blue;">[후릭소타이드]</mark></td><td>100–250</td><td>＞250–500</td><td>＞500</td></tr><tr><td>mometasone furoate³⁾ <br>(standard particle)</td><td>200–400</td><td>440</td><td>＞440</td></tr></tbody></table>
 
 _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
-¹⁾폐에서 불활성화되는 pro-drug; 국소 부작용 적음, ²⁾전신 부작용 적음
+¹⁾폐에서 불활성화되는 pro-drug; 국소 부작용 적음, ²⁾전신 부작용 적음, ³⁾국내 천식 적응 단독 흡입제 유통 여부 확인 필요
 
 **부작용**
 
@@ -554,7 +554,7 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 #### <mark style="color:$primary;">ICS-LABA</mark>
 
-<table><thead><tr><th width="220">성분명</th><th width="310">상품명 [제형] (단위 µg)</th><th>기본 용법</th></tr></thead><tbody><tr><td>fluticasone-salmeterol</td><td><mark style="color:blue;">[세레타이드 디스커스]</mark> [DPI: 100/50, 250/50, 500/50]</td><td>1 puff bid</td></tr><tr><td></td><td><mark style="color:blue;">[세레타이드 에보할러]</mark> [MDI: 50/21, 125/21, 250/21]</td><td>2 puffs bid</td></tr><tr><td>fluticasone-vilanterol</td><td><mark style="color:blue;">[렐바 엘립타]</mark> [DPI: 100/25, 200/25]</td><td>1 puff qd</td></tr><tr><td>fluticasone-formoterol</td><td><mark style="color:blue;">[플루티폼 흡입제]</mark> [MDI: 50/5, 125/5, 250/10]</td><td>2 puffs bid</td></tr><tr><td>budesonide-formoterol¹</td><td><mark style="color:blue;">[심비코트]</mark> [DPI/MDI: 80/4.5, 160/4.5, 320/9]</td><td>1~2 puffs bid</td></tr><tr><td>beclomethasone-formoterol¹⁾</td><td><mark style="color:blue;">[포스터]</mark> [DPI/MDI: 100/6]</td><td>1~2 puffs bid</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="310">상품명 [제형] (단위 µg)</th><th>기본 용법</th></tr></thead><tbody><tr><td>fluticasone-salmeterol</td><td><mark style="color:blue;">[세레타이드 디스커스]</mark> [DPI: 100/50, 250/50, 500/50]</td><td>1 puff bid</td></tr><tr><td></td><td><mark style="color:blue;">[세레타이드 에보할러]</mark> [MDI: 125/25, 250/25]</td><td>2 puffs bid</td></tr><tr><td>fluticasone-vilanterol</td><td><mark style="color:blue;">[렐바 엘립타]</mark> [DPI: 100/25, 200/25]</td><td>1 puff qd</td></tr><tr><td>fluticasone-formoterol</td><td><mark style="color:blue;">[플루티폼 흡입제]</mark> [MDI: 50/5, 125/5, 250/10]</td><td>2 puffs bid</td></tr><tr><td>budesonide-formoterol¹</td><td><mark style="color:blue;">[심비코트]</mark> [DPI/MDI: 80/4.5, 160/4.5, 320/9]</td><td>1~2 puffs bid</td></tr><tr><td>beclomethasone-formoterol¹⁾</td><td><mark style="color:blue;">[포스터]</mark> [DPI/MDI: 100/6]</td><td>1~2 puffs bid</td></tr></tbody></table>
 
 ¹⁾MART/AIR 근거가 확립된 것은 budesonide-formoterol 및 beclomethasone-formoterol의 지정 저용량 제형이다. Fluticasone-formoterol 등 다른 ICS-formoterol 복합제와 고용량 제형을 임의로 MART/AIR에 사용하지 않는다.
 
@@ -605,16 +605,20 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 #### <mark style="color:$primary;">생물학적 제제 (Step 5)</mark>
 
-<table><thead><tr><th width="126.3157958984375">기전</th><th width="231.5789794921875">성분명 [상품명]</th><th>주요 고려 상황</th></tr></thead><tbody><tr><td>Anti-IgE</td><td>omalizumab <mark style="color:blue;">[졸레어 주]</mark>, omalizumab 바이오시밀러</td><td>임상적으로 관련된 알레르겐 감작이 확인된 중증 알레르기성 천식</td></tr><tr><td>Anti-IL-5</td><td>mepolizumab, reslizumab</td><td>중증 호산구성 천식</td></tr><tr><td>Anti-IL-5(장기 작용)</td><td>depemokimab</td><td>중증 호산구성 천식; 26주 간격 투여. 국내 허가·도입 여부 확인</td></tr><tr><td>Anti-IL-5Rα</td><td>benralizumab</td><td>중증 호산구성 천식</td></tr><tr><td>Anti-IL-4Rα</td><td>dupilumab <mark style="color:blue;">[듀피젠트]</mark></td><td>중증 호산구성/T2 천식 또는 유지 OCS 의존</td></tr><tr><td>Anti-TSLP</td><td>tezepelumab <mark style="color:blue;">[테즈스파이어]</mark></td><td>허가상 T2 바이오마커 제한이 없는 중증 천식</td></tr></tbody></table>
+<table><thead><tr><th width="126.3157958984375">기전</th><th width="231.5789794921875">성분명 [상품명]</th><th>주요 고려 상황</th></tr></thead><tbody><tr><td>Anti-IgE</td><td>omalizumab <mark style="color:blue;">[졸레어 주]</mark>, omalizumab 바이오시밀러</td><td>임상적으로 관련된 알레르겐 감작이 확인된 중증 알레르기성 천식</td></tr><tr><td>Anti-IL-5</td><td>mepolizumab <mark style="color:blue;">[누칼라]</mark>, reslizumab <mark style="color:blue;">[싱케어]</mark></td><td>중증 호산구성 천식</td></tr><tr><td>Anti-IL-5(장기 작용)</td><td>depemokimab</td><td>중증 호산구성 천식; 26주 간격 투여. 국내 허가·도입 여부 확인</td></tr><tr><td>Anti-IL-5Rα</td><td>benralizumab <mark style="color:blue;">[파센라]</mark></td><td>중증 호산구성 천식</td></tr><tr><td>Anti-IL-4Rα</td><td>dupilumab <mark style="color:blue;">[듀피젠트]</mark></td><td>중증 호산구성/T2 천식 또는 유지 OCS 의존</td></tr><tr><td>Anti-TSLP</td><td>tezepelumab <mark style="color:blue;">[테즈파이어]</mark></td><td>허가상 T2 바이오마커 제한이 없는 중증 천식</td></tr></tbody></table>
 
 {% hint style="info" %}
 **tezepelumab**: anti-TSLP 단클론항체. 허가상 호산구·FeNO·IgE에 따른 제한 없이 사용할 수 있으나, 일반적으로 혈중 호산구와 FeNO가 높을수록 악화 감소 효과가 더 크다. (GINA 2026)
 
-**depemokimab**: 26주(6개월)마다 1회 투여하는 장기 작용 anti-IL-5 제제. 중증 호산구성 천식(12세 이상) 및 비용종 동반 만성 비부비동염(18세 이상)에 적응. mepolizumab에 반응이 좋았던 환자에서 전환을 고려할 수 있으나 benralizumab 반응 양호 환자에서는 근거 부족 (GINA 2026)
+**depemokimab**: 26주(6개월)마다 1회 투여하는 장기 작용 anti-IL-5 제제. 미국 FDA는 중증 호산구성 천식(12세 이상)에 승인(2025); 비용종 동반 만성 비부비동염 적응증은 국가별로 승인 상태가 다름(예: 영국·EU는 인정, 미국은 미인정). mepolizumab에 반응이 좋았던 환자에서 전환을 고려할 수 있으나 benralizumab 반응 양호 환자에서는 근거 부족. (국내 미허가, 2026년 기준) (GINA 2026)
 
 **omalizumab 바이오시밀러**: 국가별 허가 적응증·제품명·급여기준을 확인한다. 바이오시밀러는 임의로 상호교체하지 않고 허가사항과 기관 정책에 따른다.
 
 생물학적 제제 선택 시 Type 2 표현형 여부 외에도 HIRA 급여 기준, 투여 경로(피하/정맥), 투여 간격, 동반 질환(비용종, 아토피 피부염 등 비-천식 적응증 포함), 환자 선호도를 함께 고려 [GINA 2026]
+{% endhint %}
+
+{% hint style="info" %}
+**국내 급여 현황 (2026년 기준)** : 졸레어, 누칼라, 싱케어는 급여 적용 중이며, 듀피젠트도 중증 2형 염증성 천식에서 급여를 확보했다(기존 치료에 조절되지 않거나 유지 OCS 의존 환자 포함). 파센라는 약제급여평가위원회 통과 여부를 별도 확인한다. 테즈파이어는 비급여 상태(2026년 기준)이다. **급여기준상 생물학적 제제 간 교체투여는 급여로 인정되지 않으므로** 초기 선택 시 표현형·동반 질환·투여 경로를 신중히 평가한다. ✽정확한 급여 기준은 HIRA 고시를 반드시 확인할 것
 {% endhint %}
 
 ## <mark style="color:green;">완화제 (Reliever)</mark>
@@ -699,7 +703,7 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 #### <mark style="color:$primary;">예방접종</mark>
 
-* 인플루엔자 백신 : 중등도 이상 천식 환자에 매년 접종 권고 (☞ p.1122)
+* 인플루엔자 백신 : 중등도 이상 천식 환자에 매년 접종 권고
 * 폐렴구균·백일해·RSV·COVID-19 백신 : 연령, 임신, 기저질환 등 국내 예방접종 지침에 따라 접종 [GINA 2026]
 
 #### <mark style="color:$primary;">운동/육체 활동</mark>
@@ -767,11 +771,11 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 * 의뢰 : expert assessment, phenotyping, add-on therapy
 * 고용량 ICS-LABA 병합, LAMA 추가
-* azithromycin 추가 : 전문의 상담 후 성인에서 주 3회, 적어도 6개월 평가. 투여 전 비결핵항산균 객담검사와 QTc 확인, 1개월 후 ECG 재검 및 항생제 내성 위험 고려
+* azithromycin 추가 : 전문의 상담 후 성인에서 500 ㎎ 주 3회, 적어도 6개월 평가. 투여 전 비결핵항산균 객담검사와 QTc 확인, 1개월 후 ECG 재검 및 항생제 내성 위험 고려
 * 생물학적 제제 추가 : 최적화된 고용량 ICS-LABA에도 조절되지 않는 중증 천식에서 표현형·악화력·유지 OCS·동반 질환·연령·국내 급여기준을 종합하여 선택
   * 중증 호산구성 천식 → anti-IL-5/IL-5Rα 또는 dupilumab <mark style="color:blue;">\[듀피젠트]</mark> 고려
   * 임상적으로 관련된 알레르겐 감작이 확인된 중증 알레르기성 천식 → omalizumab <mark style="color:blue;">\[졸레어]</mark> 고려
-  * T2 바이오마커 제한 없이 적응 가능한 중증 천식 → tezepelumab <mark style="color:blue;">\[테즈스파이어]</mark> 고려
+  * T2 바이오마커 제한 없이 적응 가능한 중증 천식 → tezepelumab <mark style="color:blue;">\[테즈파이어]</mark> 고려
 
 ***
 
@@ -837,6 +841,10 @@ Ref. GINA. _Global strategy for asthma management and prevention._ 2026. Box 4-1
   * 성인·청소년·6\~11세 : **SpO₂ <92%인 경우에만 산소 투여**(과거 93\~95% 예방적 투여 권고에서 하향 변경); 투여 시 목표 상한 SpO₂ 95%
   * 임신부 : SpO₂ ≥95% 유지 (태아 저산소증 예방)
 * 치료 시작 1시간 후 폐 기능(PEF 또는 FEV₁) 재평가 - 가능하면 전 환자에서 spirometry(불가 시 PEF) 측정; 퇴원 전에도 재측정하여 천식 진단을 문서화
+
+{% hint style="danger" %}
+**⚠️ SABA 과다 투여 주의 [GINA 2026]** : 반복 투여에도 호전이 없는 빈호흡·과호흡은 기도 수축이 아니라 SABA 과다 투여로 인한 젖산산증의 보상성 과호흡일 수 있다. 이를 악화로 오인해 SABA를 추가 투여하지 말고, 반응이 부적절하면 즉시 재평가하고 상위 기관 이송을 고려한다.
+{% endhint %}
 
 #### <mark style="color:$primary;">중증 악화에 대한 조치</mark>
 
@@ -989,7 +997,7 @@ BD = bronchodilator. 2–3개월 후 재검토; 반응 부적절하면 의뢰.
 
 ### <mark style="color:orange;">직업성 천식 (Occupational Asthma)</mark>
 
-* 성인에서 새로 발생하는 천식의 5\~20%가 직업과 관련; 성인 발병 천식 전례에서 직업 노출 확인
+* 성인에서 새로 발생하는 천식의 5\~20%가 직업과 관련; 성인에서 새로 발병한 천식은 모든 사례에서 직업 노출 여부를 확인
 * 최초 노출 수 주\~수년 후 발생; 직장에서 악화, 휴가 시 호전
 * 보통 직업성 비염이 직업성 천식에 앞서 발생
 * 가능한 한 빨리 노출 제거, 약물 치료(일반 천식과 동일)
