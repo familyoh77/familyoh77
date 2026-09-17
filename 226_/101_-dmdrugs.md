@@ -37,7 +37,7 @@
   * AID·연속피하인슐린주입(CSII) 시작 전 C-peptide 검사, 자가항체 결과, 인슐린 치료 기간을 확인해야 한다는 요건은 없음 - 필요 시 지연 없이 기기 사용을 시작할 수 있음
 * 저혈당 무감지증이나 중증 저혈당이 발생한 T1DM 성인에게는 저혈당 예방과 저혈당 인지 능력 회복을 위한 전문화·특화된 교육 시행
 * CGM 상시 사용에도 불구하고 저혈당 위험이 높으나 AID를 사용할 수 없는 T1DM 성인에게는 기저 인슐린 주입 중단 알고리듬을 내장한 센서 강화 인슐린 펌프(SAP) 사용을 고려
-* **비만 동반 T1DM** : BMI ≥30 ㎏/㎡(아시아계 ≥27.5)인 T1DM 성인에서는 일반 성인과 동일한 비만 관리 전략(GLP-1 기반 치료 및/또는 대사수술)을 고려할 수 있음(ADA 2026 Recommendation 8.29 신규)
+* **비만 동반 T1DM** : BMI ≥30 ㎏/㎡(아시아계 ≥27.5)인 T1DM 성인에서는 일반 성인과 동일한 비만 관리 전략(GLP-1 기반 치료 및/또는 대사수술)을 고려할 수 있음 \[ADA 2026 신규]
   * GLP-1 기반 약제는 T1DM의 혈당 강하 적응증으로 허가된 치료가 아니며 인슐린을 대체할 수 없음. 공동 의사결정에 따라 비만 치료 목적으로 개별화하고, 인슐린 감량에 따른 저혈당·케톤증 위험을 교육·모니터링함
 
 ### <mark style="color:orange;">2형 당뇨병 (T2DM)</mark>
@@ -104,7 +104,7 @@ class INS,P,MAINTAIN blue
 
 ### <mark style="color:orange;">임상 상황별 우선 약제</mark>
 
-<table data-search="false"><thead><tr><th width="180">임상 상황</th><th width="230">우선 약제</th><th>임상 Pearls</th></tr></thead><tbody><tr><td>심부전(HFrEF/전반)</td><td>SGLT2i</td><td>A1C와 무관하게 우선 사용; 삼투성 이뇨에 따른 체액량 감소·저혈압 주의</td></tr><tr><td>증상성 HFpEF + 비만</td><td>효과가 입증된 GLP-1 기반 약제(semaglutide 2.4 ㎎ 또는 tirzepatide)</td><td>A1C와 무관하게 치료 계획에 포함; semaglutide는 증상·운동능력 개선, tirzepatide는 증상 및 심부전 악화 사건 감소 근거</td></tr><tr><td>CKD / 알부민뇨</td><td>SGLT2i</td><td>지침상 eGFR ≥20에서 신장 보호 목적으로 권고하나 실제 시작 기준은 성분별 국내 허가사항 확인; eGFR &#x3C;45에서 혈당 강하 효과 제한적</td></tr><tr><td>진행된 CKD (eGFR &#x3C;30) / 투석</td><td>신장 배설 의존성이 낮은 GLP-1 기반 약제</td><td>투석 환자에서도 고려할 수 있으나 exenatide·lixisenatide 등은 신기능 제한이 있으므로 성분별 허가사항 확인</td></tr><tr><td>ASCVD 동반</td><td>GLP-1 RA (dulaglutide, liraglutide, semaglutide) 또는 SGLT2i</td><td>심혈관 보호 입증 약제 우선; GLP-1 RA는 체중 감소·뇌졸중 예방에도 유리</td></tr><tr><td>비만 동반</td><td>Tirzepatide 또는 Semaglutide</td><td>T2DM 동반 비만에서 tirzepatide의 72주 체중 감소는 약 13~15%(위약 대비 약 10~12%); 초기 GI 부작용을 줄이기 위해 저용량부터 증량</td></tr><tr><td>생검 확인 MASH 또는 간섬유화 고위험</td><td>GLP-1 RA 우선</td><td>MASH 이득 입증 약제를 혈당 관리 목적으로 우선 사용(ADA 2026 Recommendation 9.13a); pioglitazone 또는 tirzepatide도 고려 가능</td></tr><tr><td>저혈당 우려 (고령·불규칙 식사)</td><td>DPP-4i / SGLT2i / GLP-1 RA</td><td>SU·meglitinide 회피; linagliptin은 CKD에서도 용량 조절 불필요</td></tr><tr><td>비용 부담</td><td>Metformin, Sulfonylurea</td><td>저렴·효과 검증; SU는 저혈당 위험 - 고령·신기능 저하 시 glibenclamide 회피</td></tr><tr><td>허혈성 뇌졸중 동반</td><td>GLP-1 RA 또는 Pioglitazone</td><td>출혈성 뇌졸중에는 적용 안 됨; TZD는 심부전(NYHA III/IV) 환자에서 금기</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="180">임상 상황</th><th width="230">우선 약제</th><th>임상 Pearls</th></tr></thead><tbody><tr><td>심부전(HFrEF/전반)</td><td>SGLT2i</td><td>A1C와 무관하게 우선 사용; 삼투성 이뇨에 따른 체액량 감소·저혈압 주의</td></tr><tr><td>증상성 HFpEF + 비만</td><td>효과가 입증된 GLP-1 기반 약제(semaglutide 2.4 ㎎ 또는 tirzepatide)</td><td>A1C와 무관하게 치료 계획에 포함; semaglutide는 증상·운동능력 개선, tirzepatide는 증상 및 심부전 악화 사건 감소 근거</td></tr><tr><td>CKD / 알부민뇨</td><td>SGLT2i</td><td>지침상 eGFR ≥20에서 신장 보호 목적으로 권고하나 실제 시작 기준은 성분별 국내 허가사항 확인; eGFR &#x3C;45에서 혈당 강하 효과 제한적</td></tr><tr><td>진행된 CKD (eGFR &#x3C;30) / 투석</td><td>신장 배설 의존성이 낮은 GLP-1 기반 약제</td><td>투석 환자에서도 고려할 수 있으나 exenatide·lixisenatide 등은 신기능 제한이 있으므로 성분별 허가사항 확인</td></tr><tr><td>ASCVD 동반</td><td>GLP-1 RA (dulaglutide, liraglutide, semaglutide) 또는 SGLT2i</td><td>심혈관 보호 입증 약제 우선; GLP-1 RA는 체중 감소·뇌졸중 예방에도 유리</td></tr><tr><td>비만 동반</td><td>Tirzepatide 또는 Semaglutide</td><td>T2DM 동반 비만에서 tirzepatide의 72주 체중 감소는 약 13~15%(위약 대비 약 10~12%); 초기 GI 부작용을 줄이기 위해 저용량부터 증량</td></tr><tr><td>생검 확인 MASH 또는 간섬유화 고위험</td><td>GLP-1 RA 우선</td><td>MASH 이득 입증 약제를 혈당 관리 목적으로 우선 사용 \[ADA 2026]; pioglitazone 또는 tirzepatide도 고려 가능</td></tr><tr><td>저혈당 우려 (고령·불규칙 식사)</td><td>DPP-4i / SGLT2i / GLP-1 RA</td><td>SU·meglitinide 회피; linagliptin은 CKD에서도 용량 조절 불필요</td></tr><tr><td>비용 부담</td><td>Metformin, Sulfonylurea</td><td>저렴·효과 검증; SU는 저혈당 위험 - 고령·신기능 저하 시 glibenclamide 회피</td></tr><tr><td>허혈성 뇌졸중 동반</td><td>GLP-1 RA 또는 Pioglitazone</td><td>출혈성 뇌졸중에는 적용 안 됨; TZD는 심부전(NYHA III/IV) 환자에서 금기</td></tr></tbody></table>
 
 {% hint style="info" %}
 복합 질환 동반 시 단독 인자 기준이 아니라 우선 순위를 종합 판단. 예) CKD + ASCVD → SGLT2i 우선, GLP-1 RA 병용 고려
@@ -114,7 +114,7 @@ class INS,P,MAINTAIN blue
 
 <table data-search="false"><thead><tr><th width="120">약제</th><th width="92">A1C 강하(%)</th><th width="58">저혈당</th><th width="74">체중 변화</th><th width="97">GI 증상</th><th width="171">심혈관/심부전 효과</th><th>DKD 진행 지연</th></tr></thead><tbody><tr><td>Metformin</td><td>1.0~2.0</td><td>-</td><td>없음/감소</td><td>중등증</td><td>+ / -</td><td>-</td></tr><tr><td>SGLT2i</td><td>0.5~1.0</td><td>-</td><td>↓</td><td>-</td><td>+(CG, EG) / +(CG, DG, EG, ETG)</td><td>+(CG, DG, EG)</td></tr><tr><td>GLP-1 RA</td><td>0.8~1.5</td><td>-</td><td>↓↓</td><td>중등증</td><td>+(dula-, lira-, sema-glutide) / -</td><td>+(dula-, lira-, sema-glutide)</td></tr><tr><td>GLP-1/GIP (tirzepatide)</td><td>1.6~2.5</td><td>-</td><td>↓↓↓</td><td>중등증</td><td>dulaglutide 대비 비열등(SURPASS-CVOT)</td><td>잠재적 이득; 전용 신장결과 근거 제한</td></tr><tr><td>DPP-4i</td><td>0.5~1.0</td><td>-</td><td>-</td><td>-</td><td>- / 위험(saxagliptin)</td><td>-</td></tr><tr><td>TZD</td><td>0.5~1.4</td><td>-</td><td>↑</td><td>-</td><td>+(pioglitazone) / 악화</td><td>-</td></tr><tr><td>α-Gi</td><td>0.5~1.0</td><td>-</td><td>없음/감소</td><td>중등증</td><td>-</td><td>-</td></tr><tr><td>Meglitinide</td><td>0.5~1.5</td><td>+</td><td>↑</td><td>-</td><td>(자료 없음)</td><td>(자료 없음)</td></tr><tr><td>SU</td><td>1.0~2.0</td><td>+</td><td>↑</td><td>-</td><td>- / -</td><td>-</td></tr><tr><td>Insulin</td><td>매우 큼</td><td>+</td><td>↑</td><td>-</td><td>- / -</td><td>-</td></tr></tbody></table>
 
-α-Gi=α-Glucosidase inhibitor; CG=cana-, DG=dapa-, EG=empa-, ETG=ertu-gliflozin\
+α-Gi=α-Glucosidase inhibitor; CG=cana-, DG=dapa-, EG=empa-, ETG=ertu-gliflozin (CG는 임상시험 근거 표기이며 국내 유통 품목 없음)\
 _<mark style="color:$info;">Ref. KDA 당뇨병 진료지침 제9판. 2025. 표 6-2.1; ADA Standards of Care in Diabetes 2025</mark>_
 
 ## <mark style="color:green;">경구제</mark>
@@ -135,7 +135,7 @@ _<mark style="color:$info;">Ref. KDA 당뇨병 진료지침 제9판. 2025. 표 6
   * 동맥 투여 : 신기능과 무관하게 당일부터 48시간까지 중단 및 신기능 평가 후 재개
 * 용법 : 식사와 함께 복용; 저용량으로 시작 → 2\~3주 간격 증량 (효과 발현이 늦음)
 
-<table><thead><tr><th width="160">성분명</th><th width="220">상품명</th><th width="200">1일 용량 (㎎)</th><th>작용시간 (hr)</th></tr></thead><tbody><tr><td>metformin</td><td><mark style="color:blue;">[글루엠, 글루코파지]</mark></td><td>500~2,550 #2~3</td><td>6~12</td></tr><tr><td>metformin SR</td><td><mark style="color:blue;">[다이아벡스엑스알 서방]</mark></td><td>500~2,000 #1~2</td><td>24</td></tr></tbody></table>
+<table><thead><tr><th width="160">성분명</th><th width="220">상품명</th><th width="200">1일 용량 (㎎)</th><th>작용시간 (hr)</th></tr></thead><tbody><tr><td>metformin</td><td><mark style="color:blue;">[다이아벡스]</mark></td><td>500~2,550 #2~3</td><td>6~12</td></tr><tr><td>metformin SR</td><td><mark style="color:blue;">[다이아벡스엑스알 서방]</mark></td><td>500~2,000 #1~2</td><td>24</td></tr></tbody></table>
 
 ### <mark style="color:orange;">SGLT2i (Sodium–glucose cotransporter-2 Inhibitor)</mark>
 
@@ -149,7 +149,7 @@ _<mark style="color:$info;">Ref. KDA 당뇨병 진료지침 제9판. 2025. 표 6
 * 금기 : 투석
 * 용법 : 식사와 관계없이 복용
 
-<table><thead><tr><th width="190">성분명 [상품명]</th><th width="105">1일 용량 (㎎)</th><th width="190">혈당 조절 목적</th><th width="220">심부전·CKD 장기 보호 목적</th><th>말기신부전·투석</th></tr></thead><tbody><tr><td>canagliflozin¹⁾</td><td>100~300 qd</td><td>eGFR에 따라 100 ㎎으로 제한하거나 시작을 권하지 않음</td><td>국내 허가·유통 및 신기능 기준 확인</td><td>사용하지 않음</td></tr><tr><td>dapagliflozin¹⁾²⁾<br><mark style="color:blue;">[다파론]</mark></td><td>10 qd</td><td>eGFR &#x3C;45에서는 혈당 강하 효과가 제한적</td><td>국내 허가사항상 eGFR ≥25에서 시작 가능; 시작 후 &#x3C;25로 감소한 경우 유지 가능 여부는 허가사항 확인</td><td>투석 시 사용하지 않음</td></tr><tr><td>empagliflozin¹⁾²⁾<br><mark style="color:blue;">[자디앙]</mark></td><td>10~25 qd</td><td>eGFR 저하 시 혈당 강하 효과 감소</td><td>10 ㎎ qd; eGFR ≥20에서 시작 가능</td><td>투석 시 사용하지 않음</td></tr><tr><td>ertugliflozin<br><mark style="color:blue;">[스테글라트로]</mark></td><td>5~15 qd</td><td>신기능 저하 시 시작·유지 제한; 허가사항 확인</td><td>심부전·CKD 치료제로서 확립된 국내 적응증 없음</td><td>사용하지 않음</td></tr><tr><td>ipragliflozin <mark style="color:blue;">[슈글렛]</mark></td><td>50 qd</td><td>신기능 저하 시 허가사항 확인</td><td>장기 보호 목적의 확립된 국내 적응증 없음</td><td>사용하지 않음</td></tr><tr><td>enavogliflozin <mark style="color:blue;">[엔블로]</mark></td><td>0.3 qd</td><td>신기능 저하 시 허가사항 확인</td><td>장기 보호 목적의 확립된 국내 적응증 없음</td><td>사용하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="190">성분명 [상품명]</th><th width="105">1일 용량 (㎎)</th><th width="190">혈당 조절 목적</th><th width="220">심부전·CKD 장기 보호 목적</th><th>말기신부전·투석</th></tr></thead><tbody><tr><td>dapagliflozin¹⁾²⁾<br><mark style="color:blue;">[다파론]</mark></td><td>10 qd</td><td>eGFR &#x3C;45에서는 혈당 강하 효과가 제한적</td><td>국내 허가사항상 eGFR ≥25에서 시작 가능; 시작 후 &#x3C;25로 감소한 경우 유지 가능 여부는 허가사항 확인</td><td>투석 시 사용하지 않음</td></tr><tr><td>empagliflozin¹⁾²⁾<br><mark style="color:blue;">[자디앙]</mark></td><td>10~25 qd</td><td>eGFR 저하 시 혈당 강하 효과 감소</td><td>10 ㎎ qd; eGFR ≥20에서 시작 가능</td><td>투석 시 사용하지 않음</td></tr><tr><td>ertugliflozin<br><mark style="color:blue;">[스테글라트로]</mark></td><td>5~15 qd</td><td>신기능 저하 시 시작·유지 제한; 허가사항 확인</td><td>심부전·CKD 치료제로서 확립된 국내 적응증 없음</td><td>사용하지 않음</td></tr><tr><td>ipragliflozin <mark style="color:blue;">[슈글렛]</mark></td><td>50 qd</td><td>신기능 저하 시 허가사항 확인</td><td>장기 보호 목적의 확립된 국내 적응증 없음</td><td>사용하지 않음</td></tr><tr><td>enavogliflozin <mark style="color:blue;">[엔블로]</mark></td><td>0.3 qd</td><td>신기능 저하 시 허가사항 확인</td><td>장기 보호 목적의 확립된 국내 적응증 없음</td><td>사용하지 않음</td></tr></tbody></table>
 
 _¹⁾ 심혈관·신장 보호 효과가 입증된 성분. ²⁾ 심부전 적응증이 있는 성분._\
 _※ 지침에서는 CKD 환자에게 eGFR ≥20에서 SGLT2i 사용을 권고하지만 실제 처방은 성분별 국내 허가사항을 우선 확인. 낮은 eGFR에서는 혈당 강하 효과가 제한되어도 심부전·신장 보호 효과는 유지될 수 있음._
@@ -157,7 +157,7 @@ _※ 지침에서는 CKD 환자에게 eGFR ≥20에서 SGLT2i 사용을 권고�
 {% hint style="danger" %}
 **Euglycemic DKA (정상 혈당 케톤산증)** : 혈당이 **200 ㎎/㎗ 미만**(정상\~경도 상승 수준)이어도 발생 가능하므로 혈당 정상=안전 으로 판단하지 말 것. 진단·Red Flags 상세 기준은 (☞ [당뇨병 합병증 - DKA](102_-complications-of-diabetes.md#당뇨병케토산증-diabetic-ketoacidosis-dka)) 참조.
 
-**중단 적응 상황 :** 수술 전 최소 3일(dapagliflozin·empagliflozin·canagliflozin; ertugliflozin은 최소 4일) / 장기간 금식 / 케톤식 또는 현저한 탄수화물 제한 / 급성 중증 질환(감염, 발열 등) / 과음
+**중단 적응 상황 :** 수술 전 최소 3일(dapagliflozin·empagliflozin; ertugliflozin은 최소 4일) / 장기간 금식 / 케톤식 또는 현저한 탄수화물 제한 / 급성 중증 질환(감염, 발열 등) / 과음
 
 **케톤산증 증상 :** 구역·구토·복통·호흡 곤란 → 즉시 케톤 측정(소변 또는 혈중) 및 내원 지시
 {% endhint %}
@@ -186,7 +186,9 @@ _²⁾ eGFR ≥45에서 용량 조절 필요 없음. ³⁾ eGFR ≥50에서 용�
 * 주의 : 심부전, 간장애, 중증 신장애; 신기능 저하 시 용량 조절은 불필요하나 체액 저류 가능성 때문에 권장하지 않음
 * 용법 : 식사와 관계없이 복용
 
-<table><thead><tr><th width="250">성분명 [상품명]</th><th width="198">1일 용량 (㎎)</th><th>반감기 (hr)</th></tr></thead><tbody><tr><td>lobeglitazone <mark style="color:blue;">[듀비에]</mark></td><td>0.5 qd</td><td>9.5(남), 15(여)</td></tr><tr><td>pioglitazone* <mark style="color:blue;">[액토스]</mark></td><td>15~30 qd (최대 45 ㎎)</td><td>3~7</td></tr><tr><td>rosiglitazone</td><td>4~8 qd</td><td>3~4</td></tr></tbody></table>
+<table><thead><tr><th width="250">성분명 [상품명]</th><th width="198">1일 용량 (㎎)</th><th>반감기 (hr)</th></tr></thead><tbody><tr><td>lobeglitazone <mark style="color:blue;">[듀비에]</mark></td><td>0.5 qd</td><td>9.5(남), 15(여)</td></tr><tr><td>pioglitazone* <mark style="color:blue;">[액토스]</mark></td><td>15~30 qd (최대 45 ㎎)</td><td>3~7</td></tr></tbody></table>
+
+_✽rosiglitazone은 국내 유통 품목 없음._
 
 _\*pioglitazone은 MASLD/MASH(대사기능장애 관련 지방간 질환)에서 T2DM 성인의 일차 약제 후보로 고려할 수 있음 \[제한적권고] - 체중 증가·부종·골절 위험을 고려하여 개별화_
 
@@ -229,7 +231,7 @@ _\*pioglitazone은 MASLD/MASH(대사기능장애 관련 지방간 질환)에서 
   * 고령·신기능 저하 환자에서 장시간 작용 SU(glibenclamide)는 회피. 식사를 거르는 경우 해당 용량을 건너뜀
 * 용법 : 식사 직전 복용(1일 1회 복용 시 아침 식전); 저용량으로 시작 → 1\~2주 간격 증량
 
-<table><thead><tr><th width="260">성분명 [상품명]</th><th width="200">1일 용량 (㎎)</th><th>작용시간</th></tr></thead><tbody><tr><td>glibenclamide <mark style="color:blue;">[유글루콘]</mark></td><td>2.5~20 #1~2</td><td>12~24 hr</td></tr><tr><td>gliclazide <mark style="color:blue;">[다이아미크롱]</mark></td><td>40~320 #1~2</td><td>12~24 hr</td></tr><tr><td>gliclazide SR <mark style="color:blue;">[다이아미크롱서방]</mark></td><td>30~120 qd</td><td>24 hr</td></tr><tr><td>glimepiride <mark style="color:blue;">[아마릴]</mark></td><td>1~8 qd</td><td>24 hr</td></tr><tr><td>glipizide <mark style="color:blue;">[다이그린]</mark></td><td>5~40 #1~3</td><td>12~18 hr</td></tr></tbody></table>
+<table><thead><tr><th width="260">성분명 [상품명]</th><th width="200">1일 용량 (㎎)</th><th>작용시간</th></tr></thead><tbody><tr><td>glibenclamide <mark style="color:blue;">[다오닐]</mark></td><td>2.5~20 #1~2</td><td>12~24 hr</td></tr><tr><td>gliclazide <mark style="color:blue;">[다이아미크롱]</mark></td><td>40~320 #1~2</td><td>12~24 hr</td></tr><tr><td>gliclazide SR <mark style="color:blue;">[다이아미크롱서방]</mark></td><td>30~120 qd</td><td>24 hr</td></tr><tr><td>glimepiride <mark style="color:blue;">[아마릴]</mark></td><td>1~8 qd</td><td>24 hr</td></tr><tr><td>glipizide <mark style="color:blue;">[다이그린]</mark></td><td>5~40 #1~3</td><td>12~18 hr</td></tr></tbody></table>
 
 ### <mark style="color:orange;">복합제</mark>
 
@@ -310,9 +312,10 @@ _\*pioglitazone은 MASLD/MASH(대사기능장애 관련 지방간 질환)에서 
 
 #### <mark style="color:$primary;">피하주사제</mark>
 
-<table><thead><tr><th width="239.52386474609375">성분명 [상품명]</th><th width="260.4761962890625">용량 (최대)</th><th>GFR에 따른 용량 조절</th></tr></thead><tbody><tr><td>dulaglutide¹⁾²⁾ <mark style="color:blue;">[트루리시티 주]</mark></td><td>0.75 ㎎ qwk → 최대 1.5 ㎎/wk</td><td>용량 조절 필요 없음</td></tr><tr><td>exenatide <mark style="color:blue;">[바이에타 주]</mark></td><td>5 ㎍ bid 식전 60분 내 (최대 10 ㎍ bid)</td><td>CrCl 30~50 시 주의; &#x3C;30 시 금지</td></tr><tr><td>liraglutide¹⁾³⁾ <mark style="color:blue;">[빅토자 주]</mark></td><td>0.6 ㎎ qd → 최대 1.8 ㎎ qd</td><td>eGFR ≥15에서 조절 불필요</td></tr><tr><td>lixisenatide³⁾ <mark style="color:blue;">[릭수미아 주]</mark></td><td>10 ㎍ qd 식전 1시간 내 (최대 20 ㎍ qd)</td><td>eGFR ≥30에서 조절 불필요</td></tr><tr><td>semaglutide¹⁾²⁾ <mark style="color:blue;">[오젬픽 펜]</mark></td><td>0.25 ㎎ qwk → 0.5~1 ㎎ qwk (최대 2 ㎎/wk; 국내 허가 용량)</td><td>조절 불필요</td></tr></tbody></table>
+<table><thead><tr><th width="239.52386474609375">성분명 [상품명]</th><th width="260.4761962890625">용량 (최대)</th><th>GFR에 따른 용량 조절</th></tr></thead><tbody><tr><td>dulaglutide¹⁾²⁾ <mark style="color:blue;">[트루리시티 주]</mark></td><td>0.75 ㎎ qwk → 최대 1.5 ㎎/wk</td><td>용량 조절 필요 없음</td></tr><tr><td>exenatide <mark style="color:blue;">[바이에타 주]</mark></td><td>5 ㎍ bid 식전 60분 내 (최대 10 ㎍ bid)</td><td>CrCl 30~50 시 주의; &#x3C;30 시 금지</td></tr><tr><td>liraglutide¹⁾³⁾ <mark style="color:blue;">[빅토자 주]</mark></td><td>0.6 ㎎ qd → 최대 1.8 ㎎ qd</td><td>eGFR ≥15에서 조절 불필요</td></tr><tr><td>lixisenatide³⁾ <mark style="color:blue;">[릭수미아 주]</mark></td><td>10 ㎍ qd 식전 1시간 내 (최대 20 ㎍ qd)</td><td>eGFR ≥30에서 조절 불필요</td></tr><tr><td>semaglutide¹⁾²⁾ <mark style="color:blue;">[오젬픽 펜]</mark></td><td>0.25 ㎎ qwk → 0.5~1 ㎎ qwk (해외 최대 2 ㎎/wk; 국내 등재 펜은 2 ㎎/1.5 ㎖, 4 ㎎/3 ㎖ 규격으로 유지 용량 최대 1 ㎎/wk)</td><td>조절 불필요</td></tr></tbody></table>
 
-_¹⁾ 심혈관 질환 예방 효과가 입증됨(ASCVD 동반 시 우선 선택). ²⁾ 보험 급여 적용. ³⁾ 복합제로 보험 적용 제품 있음_\
+_¹⁾ 심혈관 질환 예방 효과가 입증됨(ASCVD 동반 시 우선 선택). ²⁾ 보험 급여 적용(semaglutide는 2026년 2월부터 조건부 급여 적용 - HIRA 고시 확인). ³⁾ 복합제로 보험 적용 제품 있음_\
+※ exenatide(바이에타 주), lixisenatide 단일제(릭수미아 주)는 매출 저조로 국내 공급이 중단된 상태이며 실제 처방 가능 여부는 확인 필요; lixisenatide는 glargine/lixisenatide 복합제(솔리쿠아 펜)로만 국내 사용 가능\
 ※ SELECT 연구(2023): semaglutide 2.4 ㎎은 당뇨병 없는 비만 환자에서도 MACE 20% 감소 - 심혈관 고위험 비만에서의 근거 확립
 
 #### <mark style="color:$primary;">GLP-1/GIP dual agonist</mark>
@@ -371,14 +374,14 @@ _¹⁾ 심혈관 질환 예방 효과가 입증됨(ASCVD 동반 시 우선 선�
 
 ### <mark style="color:orange;">인슐린 종류 및 작용시간</mark>
 
-<table data-search="false"><thead><tr><th width="268.09527587890625">성분명 [상품명]</th><th width="165">시작/최대/지속 (hr)</th><th width="130">투여일정</th><th>비고</th></tr></thead><tbody><tr><td><strong>Rapid-Acting (초단기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>aspart <mark style="color:blue;">[노보라피드]</mark>, lispro <mark style="color:blue;">[휴마로그]</mark>, glulisine <mark style="color:blue;">[에피드라]</mark></td><td>10~15분/1~2 hr/3~5 hr</td><td>대개 식전 0~15분; 식후 투여 가능 범위는 제품별 허가사항 확인</td><td>식후 혈당 조절; 임신 중 사용은 성분별 근거·허가사항 확인</td></tr><tr><td><strong>Ultra-Rapid-Acting (초초단기)</strong>¹⁾</td><td></td><td></td><td></td></tr><tr><td>faster aspart <mark style="color:blue;">[피아스프]</mark>,<br>lispro Lyumjev <mark style="color:blue;">[룸제브]</mark></td><td>2~4분/1~1.5 hr/3~5 hr</td><td>식사 시작 직전; 필요 시 식사 시작 후 20분 이내(제품별 확인)</td><td>식후 혈당 조절 개선; 임신 중 사용은 제품별 허가사항 확인</td></tr><tr><td><strong>Short-Acting (단기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>regular <mark style="color:blue;">[휴물린알]</mark></td><td>30분/2~3 hr/6.5 hr</td><td>식사 30분 전</td><td>저렴; 야간 저혈당; 정맥 주사 가능</td></tr><tr><td><strong>Intermediate (중기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>NPH <mark style="color:blue;">[휴물린엔]</mark></td><td>1~3/5~8 hr/18 hr</td><td>밤 또는 q12h</td><td>저렴; 야간 저혈당</td></tr><tr><td><strong>Long-Acting (장기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>degludec <mark style="color:blue;">[트레시바]</mark></td><td>1 hr/없음/42 hr~</td><td>매일 같은 시간; 시간을 조절할 때는 직전 투여와 최소 8시간 간격</td><td>저혈당 가장 적음; 고가</td></tr><tr><td>glargine U100 <mark style="color:blue;">[란투스]</mark></td><td>1.5 hr/없음/24 hr</td><td>매일 같은 시간</td><td>CVD 안전성 입증</td></tr><tr><td>glargine U300 <mark style="color:blue;">[투제오]</mark></td><td>6 hr/없음/24~36 hr</td><td>(상동)</td><td>glargine U100보다 저혈당 더 적음; 고가</td></tr><tr><td>detemir <mark style="color:blue;">[레버미어]</mark></td><td>3~4/6~8 hr/24 hr</td><td>(상동)</td><td>임신 중 고려 가능; 국내 유통 여부 확인</td></tr><tr><td><strong>Premixed</strong></td><td></td><td></td><td></td></tr><tr><td>degludec/aspart 70/30²⁾<br><mark style="color:blue;">[리조덱]</mark></td><td>2분/이중/~42 hr</td><td>탄수화물을 포함한 주된 식사 직전 또는 식사와 함께, 1~2회</td><td>장기 기저 + 초단기 식사 효과</td></tr><tr><td>lispro protamine 75/25<br><mark style="color:blue;">[휴마로그믹스25]</mark></td><td>15분/이중/16 hr</td><td>아침 &#x26; 저녁 식사 시</td><td>편리; 야간 저혈당</td></tr><tr><td>aspart protamine 70/30<br><mark style="color:blue;">[노보믹스30]</mark></td><td>15분/이중/16 hr</td><td>(상동)</td><td>(상동)</td></tr><tr><td>NPH70/regular30 <mark style="color:blue;">[휴물린70/30]</mark></td><td>30분/이중/16 hr</td><td>(상동)</td><td>(상동)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="268.09527587890625">성분명 [상품명]</th><th width="165">시작/최대/지속 (hr)</th><th width="130">투여일정</th><th>비고</th></tr></thead><tbody><tr><td><strong>Rapid-Acting (초단기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>aspart <mark style="color:blue;">[노보라피드]</mark>, lispro <mark style="color:blue;">[휴마로그]</mark>, glulisine <mark style="color:blue;">[에피드라]</mark></td><td>10~15분/1~2 hr/3~5 hr</td><td>대개 식전 0~15분; 식후 투여 가능 범위는 제품별 허가사항 확인</td><td>식후 혈당 조절; 임신 중 사용은 성분별 근거·허가사항 확인</td></tr><tr><td><strong>Ultra-Rapid-Acting (초초단기)</strong>¹⁾</td><td></td><td></td><td></td></tr><tr><td>faster aspart <mark style="color:blue;">[피아스프]</mark>,<br>lispro Lyumjev <mark style="color:blue;">[룸제브]</mark></td><td>2~4분/1~1.5 hr/3~5 hr</td><td>식사 시작 직전; 필요 시 식사 시작 후 20분 이내(제품별 확인)</td><td>식후 혈당 조절 개선; 임신 중 사용은 제품별 허가사항 확인</td></tr><tr><td><strong>Short-Acting (단기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>regular <mark style="color:blue;">[휴물린알]</mark></td><td>30분/2~3 hr/6.5 hr</td><td>식사 30분 전</td><td>저렴; 야간 저혈당; 정맥 주사 가능</td></tr><tr><td><strong>Intermediate (중기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>NPH <mark style="color:blue;">[휴물린엔]</mark></td><td>1~3/5~8 hr/18 hr</td><td>밤 또는 q12h</td><td>저렴; 야간 저혈당</td></tr><tr><td><strong>Long-Acting (장기 작용)</strong></td><td></td><td></td><td></td></tr><tr><td>degludec <mark style="color:blue;">[트레시바]</mark></td><td>1 hr/없음/42 hr~</td><td>매일 같은 시간; 시간을 조절할 때는 직전 투여와 최소 8시간 간격</td><td>저혈당 가장 적음; 고가</td></tr><tr><td>glargine U100 <mark style="color:blue;">[란투스]</mark></td><td>1.5 hr/없음/24 hr</td><td>매일 같은 시간</td><td>CVD 안전성 입증</td></tr><tr><td>glargine U300 <mark style="color:blue;">[투제오]</mark></td><td>6 hr/없음/24~36 hr</td><td>(상동)</td><td>glargine U100보다 저혈당 더 적음; 고가</td></tr><tr><td>detemir <mark style="color:blue;">[레버미어]</mark></td><td>3~4/6~8 hr/24 hr</td><td>(상동)</td><td>전 세계 생산 중단(2024년 이후 단종) - 임신 중 기저 인슐린은 NPH 또는 glargine 등 성분별 근거·허가사항 확인하여 대체</td></tr><tr><td><strong>Premixed</strong></td><td></td><td></td><td></td></tr><tr><td>degludec/aspart 70/30²⁾<br><mark style="color:blue;">[리조덱]</mark></td><td>2분/이중/~42 hr</td><td>탄수화물을 포함한 주된 식사 직전 또는 식사와 함께, 1~2회</td><td>장기 기저 + 초단기 식사 효과</td></tr><tr><td>lispro protamine 75/25<br><mark style="color:blue;">[휴마로그믹스25]</mark></td><td>15분/이중/16 hr</td><td>아침 &#x26; 저녁 식사 시</td><td>편리; 야간 저혈당</td></tr><tr><td>aspart protamine 70/30<br><mark style="color:blue;">[노보믹스30]</mark></td><td>15분/이중/16 hr</td><td>(상동)</td><td>(상동)</td></tr><tr><td>NPH70/regular30 <mark style="color:blue;">[휴물린70/30]</mark></td><td>30분/이중/16 hr</td><td>(상동)</td><td>(상동)</td></tr></tbody></table>
 
 _¹⁾ Ultra-Rapid-Acting 제제는 식후 즉시 투여 가능 - 식사 시간이 불규칙한 환자에서 유용._\
 _²⁾ degludec/aspart: 기저와 식사 인슐린 역할을 하나의 주사로 충족 - 혼합형 대안으로 활용._
 
 #### <mark style="color:$primary;">주 1회 기저 인슐린</mark>
 
-* insulin icodec <mark style="color:blue;">[아위클리프리필드펜]</mark> : 성인 당뇨병에서 주 1회 투여하는 기저 인슐린(2025년 국내 허가). 시작 용량과 기존 1일 1회 기저 인슐린에서의 전환 용량, 첫 투여 시 추가 용량 여부가 서로 다르므로 허가사항에 따라 처방하고, 주 단위 오투여·중복 투여를 예방하도록 투여 요일을 명확히 교육
+* insulin icodec <mark style="color:blue;">[아위클리프리필드펜]</mark> : 성인 당뇨병에서 주 1회 투여하는 기저 인슐린(2024년 12월 국내 허가, 2025년 출시). T1DM에서는 식사 인슐린(볼루스)과 병용 투여해야 하며, T2DM에서는 단독 또는 경구 혈당강하제·GLP-1 RA·볼루스 인슐린과 병용 가능. 시작 용량과 기존 1일 1회 기저 인슐린에서의 전환 용량, 첫 투여 시 추가 용량 여부가 서로 다르므로 허가사항에 따라 처방하고, 주 단위 오투여·중복 투여를 예방하도록 투여 요일을 명확히 교육
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한당뇨병학회. 당뇨병 진료지침 제9판. 2025. 표 6-2.4</mark></em></p>
 
@@ -406,6 +409,8 @@ _LAA=long-acting insulin analog; MDI=multiple daily injections; RAA=rapid-acting
 _<mark style="color:$info;">Ref. KDA 당뇨병 진료지침 제9판. 2025. 표 6-2.8; ADA Standards of Care in Diabetes 2025</mark>_
 
 #### <mark style="color:$primary;">공복 혈당에 따른 기저 인슐린 용량 조절</mark>
+
+_(제시된 구간은 예시이며, 개별화된 목표 공복 혈당에 맞추어 구간·증량폭을 조정)_
 
 <table><thead><tr><th width="213.66668701171875">최근 3일간 공복 혈당 (㎎/㎗)</th><th width="100">&#x3C;80</th><th width="100">80~109</th><th width="102.857177734375">110~139</th><th width="103.8094482421875">140~179</th><th width="100">≥180</th></tr></thead><tbody><tr><td>용량 조절</td><td>-2 U</td><td>유지</td><td>+2 U</td><td>+4 U</td><td>+6 U</td></tr></tbody></table>
 
@@ -489,7 +494,7 @@ R73.9 상세불명의 고혈당증
 > **처방례 1. T2DM 초기 - 단독 요법**
 >
 > ```
-> Metformin HCl 500 ㎎ (글루코파지)    1T  bid  pc (아침, 저녁)
+> Metformin HCl 500 ㎎ (다이아벡스)    1T  bid  pc (아침, 저녁)
 > ```
 >
 > _✽저용량으로 시작하여 2\~3주 후 1,000 ㎎ bid로 증량; 위장 장애 시 서방형(SR) 제제로 교체 고려. KDA 2025부터 metformin 1차 의무 권고가 삭제되었으나, 비용·안전성·유효성을 고려하면 여전히 합리적인 첫 번째 선택_
@@ -529,7 +534,7 @@ R73.9 상세불명의 고혈당증
 > Insulin glargine U100 (란투스)         10 U  취침 전  SQ
 > ```
 >
-> _✽기저 인슐린 10 U(또는 0.1\~0.2 U/㎏/d)로 시작, 3일마다 공복 혈당에 따라 2 U씩 증량(목표 공복 혈당 80\~130 ㎎/㎗); 취침 전 간식 필요 여부 교육; SGLT2i 병용 시 DKA 위험 주의_
+> _✽기저 인슐린 10 U(또는 0.1\~0.2 U/㎏/d)로 시작, 3일마다 공복 혈당에 따라 2 U씩 증량(개별화된 목표 공복 혈당까지 - 일반적으로 80\~130 ㎎/㎗ 범위에서 설정); 취침 전 간식 필요 여부 교육; SGLT2i 병용 시 DKA 위험 주의_
 
 > **처방례 6. T1DM - MDI (다회 인슐린 요법)**
 >
@@ -586,7 +591,7 @@ R73.9 상세불명의 고혈당증
 
 **당뇨병 약을 잘 드시는 방법**
 
-**메트포르민(글루코파지, 다이아벡스 등)** - 식사와 함께 드세요. 처음에 속이 불편하거나 설사가 있을 수 있는데 1\~2주 지나면 대부분 괜찮아집니다. 검사 조영제를 맞는 날에는 반드시 선생님께 알려 주세요.
+**메트포르민(다이아벡스 등)** - 식사와 함께 드세요. 처음에 속이 불편하거나 설사가 있을 수 있는데 1\~2주 지나면 대부분 괜찮아집니다. 검사 조영제를 맞는 날에는 반드시 선생님께 알려 주세요.
 
 **SGLT2 억제제(다파글리플로진 제네릭·자디앙 등)** - 신장에서 당을 소변으로 배출시키는 약입니다. 속옷이 가렵거나 냄새가 나면 알려 주세요. 탈수되지 않도록 수분을 드시되 심부전·신장질환으로 수분 제한을 안내받았다면 그 지시에 따르세요. 수술이나 심한 구토로 식사를 못 할 때는 약을 잠시 중단하고 연락 주세요.
 
