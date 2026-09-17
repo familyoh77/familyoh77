@@ -194,10 +194,10 @@ ESC 2024는 **≤5%를 매우 낮은 가능성**으로 정의하여 증상이 �
 
 ```mermaid
 graph TD
-    A([안정 흉통/협심증 의심]) --> B[ACS 가능성 평가\nECG + 필요 시 hs-Troponin]
+    A([안정 흉통/협심증 의심]) --> B[ACS 가능성 평가<br/>ECG + 필요 시 hs-Troponin]
     B --> C{Clinical likelihood}
-    C -- "≤5%" --> D[추가 검사 보류 가능\n비심장성 원인·위험인자 관리]
-    C -- ">5~15%" --> E[CACS 재분류 또는 CCTA\n증상 제한 시 추가 평가]
+    C -- "≤5%" --> D[추가 검사 보류 가능<br/>비심장성 원인·위험인자 관리]
+    C -- ">5~15%" --> E[CACS 재분류 또는 CCTA<br/>증상 제한 시 추가 평가]
     C -- ">15~50%" --> F[CCTA 또는 기능적 영상검사]
     C -- ">50~85%" --> G[기능적 영상검사]
     C -- ">85% 또는 고위험 소견" --> H[ICA 고려]
@@ -205,12 +205,12 @@ graph TD
     F --> I
     G --> I
     H --> I
-    I --> J{기능적으로 유의한\n폐쇄성 CAD?}
-    J -- 아니오 --> K[ANOCA/INOCA 또는\n비심장성 원인 평가]
+    I --> J{기능적으로 유의한<br/>폐쇄성 CAD?}
+    J -- 아니오 --> K[ANOCA/INOCA 또는<br/>비심장성 원인 평가]
     J -- 예 --> L[GDMT + 위험인자 관리]
-    L --> M{증상 지속 또는\n고위험 해부학?}
+    L --> M{증상 지속 또는<br/>고위험 해부학?}
     M -- 아니오 --> N[개별 간격 추적]
-    M -- 예 --> O[ICA/Heart Team\nPCI 또는 CABG 고려]
+    M -- 예 --> O[ICA/Heart Team<br/>PCI 또는 CABG 고려]
 
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef lightGreen fill:#e8f8e8,stroke:#4caf50
@@ -224,6 +224,8 @@ class D,K,N blue
 ```
 
 <p align="center"><strong>Stable Chest Pain 진단 및 치료 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. 2024 ESC Guidelines for the management of chronic coronary syndromes</mark></em></p>
 
 _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 
@@ -497,6 +499,8 @@ class G,H,I blue
 
 <p align="center"><strong>Stable CAD 환자의 항혈소판제 알고리듬</strong></p>
 
+<p align="center"><em><mark style="color:$info;">Ref. 2024 ESC Guidelines for the management of chronic coronary syndromes; 2023 AHA/ACC/ACCP/ASPC/NLA Guideline for the Management of Patients With Chronic Coronary Disease</mark></em></p>
+
 ***
 
 ### <mark style="color:orange;">Ranolazine</mark>
@@ -624,18 +628,18 @@ class G,H,I blue
 ```mermaid
 graph TD
     A([Stable CAD 환자]) --> B{협심증 증상?}
-    B -- 아니오 --> C[이차 예방 및 위험인자 관리\n임상 상태에 따라 추적]
-    B -- 예 --> D[nitroglycerin 설하\n급성 증상 완화]
-    D --> E[β-차단제 또는 CCB 또는\n지속형 nitrate 선택]
+    B -- 아니오 --> C[이차 예방 및 위험인자 관리<br/>임상 상태에 따라 추적]
+    B -- 예 --> D[nitroglycerin 설하<br/>급성 증상 완화]
+    D --> E[β-차단제 또는 CCB 또는<br/>지속형 nitrate 선택]
     E --> F{증상 지속?}
-    F -- 아니오 --> G[GDMT 유지\n개별 간격 추적]
-    F -- 예 --> H[다른 계열 추가\n또는 ranolazine 등 고려]
-    H --> I{삶의 질 저하 지속\n또는 고위험 CAD?}
+    F -- 아니오 --> G[GDMT 유지<br/>개별 간격 추적]
+    F -- 예 --> H[다른 계열 추가<br/>또는 ranolazine 등 고려]
+    H --> I{삶의 질 저하 지속<br/>또는 고위험 CAD?}
     I -- 아니오 --> G
-    I -- 예 --> J[CCTA/Stress imaging/ICA\n허혈·해부학적 위험 재평가]
-    J --> K[Heart Team\nPCI 또는 CABG 고려]
+    I -- 예 --> J[CCTA/Stress imaging/ICA<br/>허혈·해부학적 위험 재평가]
+    J --> K[Heart Team<br/>PCI 또는 CABG 고려]
     A --> L{HFrEF 동반?}
-    L -- 예 --> M[HFrEF GDMT\nARNI/ACEi/ARB + β-차단제\n+ MRA + SGLT2i\n± 이뇨제]
+    L -- 예 --> M[HFrEF GDMT<br/>ARNI/ACEi/ARB + β-차단제<br/>+ MRA + SGLT2i<br/>± 이뇨제]
 
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
@@ -647,6 +651,8 @@ class C,G blue
 ```
 
 <p align="center"><strong>Stable CAD 환자의 관리 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. 2023 AHA/ACC/ACCP/ASPC/NLA Guideline for the Management of Patients With Chronic Coronary Disease; 2024 ESC Guidelines for the management of chronic coronary syndromes</mark></em></p>
 
 ***
 
@@ -683,7 +689,7 @@ I25.5 허혈성 심근병증
 > ```
 >
 > _✽β-차단제를 기반으로 지속형 nitrate 병용; 복용 시간을 고정하여 nitrate-free interval 확보._\
-> \&#xNAN;_※ 모니터링 : 복용 초기 기립성 저혈압·서맥 증상(어지럼, 실신성 전조) 확인; 고정된 맥박 목표보다는 증상과 혈압·심박수에 따라 용량 조절_
+> _※ 모니터링 : 복용 초기 기립성 저혈압·서맥 증상(어지럼, 실신성 전조) 확인; 고정된 맥박 목표보다는 증상과 혈압·심박수에 따라 용량 조절_
 
 > **처방례 3. β-차단제 금기(활동성 천식, 중증 서맥 등) - Non-DHP CCB + 지속형 nitrate**
 >
@@ -693,7 +699,7 @@ I25.5 허혈성 심근병증
 > ```
 >
 > _✽활동성 천식, 중증 서맥 등 β-차단제 금기 시 diltiazem 선택(단순 COPD는 더 이상 금기로 보지 않음 - 심선택적 β-차단제 사용 가능). Non-DHP CCB + nitrate 병용 가능._\
-> \&#xNAN;_※ 모니터링 : 서맥·방실차단 징후(맥박, 실신) 확인; β-차단제와의 중복 병용 시작하지 않음_
+> _※ 모니터링 : 서맥·방실차단 징후(맥박, 실신) 확인; β-차단제와의 중복 병용 시작하지 않음_
 
 > **처방례 4. β-차단제 금기 + 서맥/저혈압 경향 - Ranolazine**
 >
@@ -702,7 +708,7 @@ I25.5 허혈성 심근병증
 > ```
 >
 > _✽Ranolazine은 심박수와 혈압을 크게 낮추지 않아 서맥 또는 저혈압 경향에서 고려할 수 있음. 강력한 CYP3A 억제제 병용 및 QT 연장 위험을 확인._
->
+
 > **처방례 5. 이차 예방 - 기본 약물**
 >
 > ```
@@ -710,10 +716,9 @@ I25.5 허혈성 심근병증
 > 아토르바스타틴 40 ㎎/T        1T   qd
 > ```
 >
-> _✽확인된 CAD의 기본 이차 예방 예시. LDL-C 목표 미달성 시 ezetimibe 등 추가. β-차단제는 최근 MI, LVEF 저하, 협심증, 부정맥 등 적응증이 있을 때 추가하고, ACEi/ARB도 고혈압·당뇨병·CKD·심부전/LV dysfunction 등의 적응증에 따라 추가._
->
-> \\&#xNAN;_※ 모니터링 : 위장관 출혈 징후, statin 관련 근육 증상 및 LDL-C 추적_
->
+> _✽확인된 CAD의 기본 이차 예방 예시. LDL-C 목표 미달성 시 ezetimibe 등 추가. β-차단제는 최근 MI, LVEF 저하, 협심증, 부정맥 등 적응증이 있을 때 추가하고, ACEi/ARB도 고혈압·당뇨병·CKD·심부전/LV dysfunction 등의 적응증에 따라 추가._\
+> _※ 모니터링 : 위장관 출혈 징후, statin 관련 근육 증상 및 LDL-C 추적_
+
 > **처방례 6. 이차 예방 + 당뇨병 동반 - SGLT2i 병용**
 >
 > ```
@@ -722,10 +727,11 @@ I25.5 허혈성 심근병증
 > 자디앙 10 ㎎/T                1T   qd
 > ```
 >
-> _✽당뇨병이 동반된 CCD에서는 심혈관 이득이 입증된 SGLT2i 또는 GLP-1RA를 고려. SGLT2i는 심부전이 동반되면 당뇨병 유무와 관계없이 적응증에 따라 사용. ACEi/ARB와 β-차단제는 별도 적응증에 따라 추가._
->
-> \\&#xNAN;_※ 모니터링 : 생식기 진균감염·탈수·체위성 저혈압, 신기능 및 혈당 추적_
->
+> _✽당뇨병이 동반된 CCD에서는 심혈관 이득이 입증된 SGLT2i 또는 GLP-1RA를 고려. SGLT2i는 심부전이 동반되면 당뇨병 유무와 관계없이 적응증에 따라 사용. ACEi/ARB와 β-차단제는 별도 적응증에 따라 추가._\
+> _※ 모니터링 : 생식기 진균감염·탈수·체위성 저혈압, 신기능 및 혈당 추적_
+
+***
+
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
 * **Nitroglycerin 설하정** : 흉통 발생 시 앉아서 설하에 투여; 5분 후에도 호전되지 않거나 악화되면 즉시 119 연락. 안정 협심증에서 증상이 호전되는 경우에도 총 3회 이내 원칙. **PDE5 억제제와 병용 금지** - 실데나필 복용 후 24시간, 타다라필 복용 후 48시간 이내에는 nitroglycerin을 사용하지 않음
