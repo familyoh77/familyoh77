@@ -71,7 +71,7 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
 {% hint style="info" %}
 ICD-11은 만성 통증을 다음의 두 범주로 구분하며, 이 구분은 "통증=증상"이 아닌 "통증=독립 질환"으로 인식의 전환을 반영.\
 • **Chronic primary pain** : 다른 질환으로 설명되지 않는 통증, 통증 자체가 독립적 질환. 예: 섬유근통, 만성 원발성 요통, 복합부위통증증후군\
-• **Chronic secondary pain** : 다른 기저 질환에 의해 발생하는 통증. 예: 암성 통증, 수술 후 만성 통증, 신경병증성 통증
+• **Chronic secondary pain** : 다른 기저질환에 의해 발생하는 통증. 예: 암성 통증, 수술 후 만성 통증, 신경병증성 통증
 {% endhint %}
 
 {% hint style="info" %}
@@ -86,7 +86,7 @@ ICD-11은 만성 통증을 다음의 두 범주로 구분하며, 이 구분은 "
 
 * 통증 자체를 확진하는 단일 검사는 없으며, 병력·신체검사·평가 척도·통증 형태 분류의 조합으로 접근
 * 평가 항목 : 병력, 신체검사, bio-psycho-social 평가, 통증 형태(neuropathic, nociceptive, or mixed), 중증도, 기능에 대한 영향 등
-  * 통증 상태나 기저 질환이 변화할 때는 더 자주 재평가
+  * 통증 상태나 기저질환이 변화할 때는 더 자주 재평가
 * 영상 검사 등은 통증 자체의 진단이 아닌 원인 및 심각한 문제 감별 목적으로 고려
 
 #### <mark style="color:$primary;">통증 강도 평가 척도</mark>
@@ -252,11 +252,11 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 
 **통증 유형별 처방**
 
-<table data-search="false"><thead><tr><th width="216">유형</th><th width="264">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>Nociceptive (경증)</td><td>Acetaminophen, 외용 또는 경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td>Nociceptive (중등증~중증)</td><td>NSAID ± 단기 opioid (신중)</td><td>opioid는 최후 수단</td></tr><tr><td>Neuropathic</td><td>Pregabalin/gabapentin 또는 Duloxetine</td><td>삼차신경통: carbamazepine</td></tr><tr><td>Nociplastic</td><td>비약물(CBT·운동) 우선<br>+ SNRI(duloxetine)</td><td>NSAID 단독 효과 제한적</td></tr><tr><td>Mixed</td><td>NSAID + neuropathic agent 병용</td><td>비율에 따라 조합 조정</td></tr><tr><td>염증성</td><td>NSAID (선택제는 위험 인자 고려)</td><td>-</td></tr><tr><td>근육통</td><td>NSAID ± 단기 근이완제</td><td>2~4주 이내 제한</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="216">유형</th><th width="264">1차 선택</th><th>비고</th></tr></thead><tbody><tr><td>Nociceptive (경증)</td><td>Acetaminophen, 외용 또는 경구 NSAID 등</td><td>원인·염증 여부·환자 위험도에 따라 선택</td></tr><tr><td>Nociceptive (중등증~중증)</td><td>NSAID ± 단기 opioid (신중)</td><td>opioid는 최후 수단</td></tr><tr><td>Neuropathic</td><td>Pregabalin/gabapentin 또는 Duloxetine</td><td>삼차신경통: carbamazepine</td></tr><tr><td>Nociplastic</td><td>비약물(CBT·운동) 우선<br>+ SNRI(duloxetine)</td><td>NSAID 단독 효과 제한적</td></tr><tr><td>Mixed</td><td>NSAID + neuropathic agent 병용</td><td>비율에 따라 조합 조정</td></tr><tr><td>염증성</td><td>NSAID (선택제는 위험인자 고려)</td><td>-</td></tr><tr><td>근육통</td><td>NSAID ± 단기 근이완제</td><td>2~4주 이내 제한</td></tr></tbody></table>
 
-**위험 인자별 NSAID 선택**
+**위험인자별 NSAID 선택**
 
-<table><thead><tr><th width="144">위험 인자</th><th>우선 선택</th></tr></thead><tbody><tr><td>GI risk ↑</td><td>Celecoxib + PPI</td></tr><tr><td>CV risk ↑</td><td>NSAID 회피 우선; 불가피 시 naproxen을 상대적으로 고려 (최소 용량·최단 기간, COX-2 억제제 주의)</td></tr><tr><td>Renal risk ↑</td><td>외용 NSAID 우선</td></tr><tr><td>고령 / 다약제</td><td>외용 NSAID 우선 → 경구 최소 용량</td></tr></tbody></table>
+<table><thead><tr><th width="144">위험인자</th><th>우선 선택</th></tr></thead><tbody><tr><td>GI risk ↑</td><td>Celecoxib + PPI</td></tr><tr><td>CV risk ↑</td><td>NSAID 회피 우선; 불가피 시 naproxen을 상대적으로 고려 (최소 용량·최단 기간, COX-2 억제제 주의)</td></tr><tr><td>Renal risk ↑</td><td>외용 NSAID 우선</td></tr><tr><td>고령 / 다약제</td><td>외용 NSAID 우선 → 경구 최소 용량</td></tr></tbody></table>
 
 **침해수용성 통증**
 
@@ -401,7 +401,7 @@ _\*Pacing : 통증이 있어도 감당할 수 있는 수준의 활동을 점진�
 flowchart TD
     A([비암성 통증 - Opioid 고려?]) --> B[시작 전 다음 사항 \n확인 필수]
     B --> B1[·비약물 + \nnon-opioid 치료 실패\n·기능 저하 명확 ADL/work\n·통증 유형 재확인]
-    B --> B2[고위험 인자]
+    B --> B2[고위험인자]
     B2 --> BH[·OUD 병력/BZD 사용\n·수면무호흡/\n고령·낙상 위험\n·간·신기능 저하]
     BH -->|HIGH RISK| C[회피 또는 \n전문의 의뢰]
     B1 & B2 -->|통과| D[·치료 목표 문서화\n·임상적으로 \n의미 있는 통증 감소\n·기능 개선 구체화\n·실패 시 중단 계획]
@@ -674,19 +674,19 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 
 #### <mark style="color:$primary;">주의/금기</mark>
 
-* 궤양 위험 인자가 있는 환자 : 고령(＞65세), 소화성 궤양 또는 위장관 출혈 병력, IBD, 출혈 경향(혈소판 기능 장애, 항응고 치료 포함), NSAID 복합 또는 고용량 투여, 스테로이드 투여
+* 궤양 위험인자가 있는 환자 : 고령(＞65세), 소화성 궤양 또는 위장관 출혈 병력, IBD, 출혈 경향(혈소판 기능 장애, 항응고 치료 포함), NSAID 복합 또는 고용량 투여, 스테로이드 투여
 * 심혈관 질환(MI, 뇌졸중, 정맥혈전증, 조절되지 않는 고혈압), 간/신 장애
 * aspirin 과민 천식; 간혹 aspirin 알레르기 환자에서 NSAID에 알레르기 반응이 발생함
 * 약물 상호 작용 : 항고혈압제(ACEI/이뇨제 효과↓), warfarin(INR 변화와 무관하게 위장관·전신 출혈 위험 증가), lithium, methotrexate, 저용량 aspirin(심혈관 보호 효과↓)
 
 #### <mark style="color:$primary;">부작용</mark>
 
-* 위장관 : 소화불량, 구역, 복부 팽만, 소화성 궤양(발생 빈도: 2%/yr, 복수의 위험 인자가 있는 경우 10\~20%/yr), 위장관 출혈(전조 증상 없이 갑자기 발생함)
-  * 위장 출혈 위험 인자 : 장기 사용, ＞70세, 고용량, 위험이 보다 높은 NSAID, NSAID 병용, 항응고제/항혈소판제(aspirin)/스테로이드/SSRI 병용, 중증 질환, H. pylori 감염, 소화성 궤양 과거력, 알코올 남용
+* 위장관 : 소화불량, 구역, 복부 팽만, 소화성 궤양(발생 빈도: 2%/yr, 복수의 위험인자가 있는 경우 10\~20%/yr), 위장관 출혈(전조 증상 없이 갑자기 발생함)
+  * 위장 출혈 위험인자 : 장기 사용, ＞70세, 고용량, 위험이 보다 높은 NSAID, NSAID 병용, 항응고제/항혈소판제(aspirin)/스테로이드/SSRI 병용, 중증 질환, H. pylori 감염, 소화성 궤양 과거력, 알코올 남용
 * 피부 : 발진, 두드러기; 드물게 toxic epidermal necrolysis, Stevens-Johnson syndrome
 * 혈소판 응고 저해(투약 종료 후 2일까지 영향)
 * 심혈관 질환, 간염(특히 sulindac, diclofenac), 신 독성/신부전, 천식 악화, 체액 저류(부종, 혈압↑)
-  * 신 독성 위험 인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
+  * 신 독성 위험인자 : ＞60세, 신장 질환력, 심부전, 복수, 이뇨제 사용
   * 장기 복용 환자에서 eGFR ＜30 시 NSAIDs 금기(신기능 저하 가속 및 급성 신손상 위험)
   * 고령자에서 10년 NSAID 사용 추적 조사에서 유의미한 신기능 저하가 관찰되지 않았다는 보고가 있음
   * MI, 뇌졸중, 사망을 포함한 심혈관 사고의 위험성 - NSAID가 이를 30% 증가시킨다는 보고가 있음
@@ -698,7 +698,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 * 저용량 aspirin과 ibuprofen 병용 시 aspirin을 ibuprofen보다 최소 30분 전에 복용하거나, ibuprofen 복용 후 최소 8시간이 지난 뒤 복용
   * Aspirin은 COX-1을 비가역적으로 아세틸화하여 혈소판 수명(7\~10일) 동안 항혈소판 효과가 지속되는 반면, ibuprofen은 같은 COX-1 부위에 가역적·경쟁적으로 결합함 - ibuprofen이 aspirin보다 먼저 그 부위를 차지하면 aspirin의 비가역적 아세틸화(=심혈관 보호 효과)가 방해 받을 수 있음
   * 다른 NSAID와의 상호작용 가능성도 약제별로 고려
-* 장기 복용 환자에서 CBC, RFT, LFT를 최소 매년, 위험 인자가 있는 환자에서는 더 자주 평가
+* 장기 복용 환자에서 CBC, RFT, LFT를 최소 매년, 위험인자가 있는 환자에서는 더 자주 평가
 * 다음의 경우 NSAID 투여 중단 : LFT 정상 상한치 ＞3배, s-albumin↓, PT 연장
 * 수술 전 중단 : 흔히 속효성 NSAID 1\~2일 전, 지속성 NSAID 3일 전을 참고하나, 실제 중단 시점은 수술 종류·출혈 위험·혈전 위험·약제 반감기에 따라 다름; aspirin은 적응증과 수술 종류(고출혈위험 vs 일반 수술)에 따라 지속하는 경우도 있어 일률적으로 1주 전 중단하지 않으며, 수술팀·마취과와 협의하여 결정
 * 소화성 궤양에 대한 대처
@@ -723,7 +723,7 @@ _\* Pregabalin은 혈액투석으로 4시간 내 약 50%가 제거되므로, 위
 * 전신 노출이 경구 NSAID보다 현저히 낮아(제형·성분에 따라 편차 있음) 전신 부작용 위험이 상대적으로 적음
 * 허리 이외 부위의 근골격계 손상에 의한 급성 통증에 대하여 경구제와 동등한 효과
 * 만성 통증에 대한 효과는 급성 통증에 비하여 적음
-* 무릎 골관절염(knee OA)에서는 전신 부작용 최소화를 위해 경구 NSAID보다 외용 NSAID를 우선 권고 (AAOS 2021, ACR/AF 2019, EULAR 2019); 특히 고령·GI·심혈관·신장 위험 인자가 있는 경우 1차 선택제
+* 무릎 골관절염(knee OA)에서는 전신 부작용 최소화를 위해 경구 NSAID보다 외용 NSAID를 우선 권고 (AAOS 2021, ACR/AF 2019, EULAR 2019); 특히 고령·GI·심혈관·신장 위험인자가 있는 경우 1차 선택제
 * 대상 : 작은 관절(예: 손), 무릎 OA(보험 주의)
   * 고관절 OA에는 효과 없음
 * 주의/금기 : NSAID 과민반응/aspirin-induced asthma 병력, 임신·수유, 소아는 성분별 허가사항 확인
@@ -795,7 +795,7 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 
 ※ **차트 기재 시 참고 예시** (아래 문구 자체가 급여를 보장하지 않으며, 실제 환자 상태와 일치하는 경우에만 기재)
 
-* NSAIDs **:** 실제로 위험 인자(연령, 위장관 병력 등)가 있어 COX-2를 선택한 경우 그 근거를 기록
+* NSAIDs **:** 실제로 위험인자(연령, 위장관 병력 등)가 있어 COX-2를 선택한 경우 그 근거를 기록
 * Neuropathic agents : 실제 통증 양상(전격통·저림 등)과 기능 저하 정도를 구체적으로 기록
 * Opioids : 실제 선행 치료 내역(비마약성 진통제 종류·용량·기간·반응)을 기록
 
@@ -809,7 +809,7 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 > 부루펜 200 ㎎/T 6T #3
 > ```
 >
-> _✽급성 근골격계 통증의 1차 선택; 위장관·심혈관·신장 위험 인자가 없는 경우 최소 유효 용량으로 단기(수일) 사용_
+> _✽급성 근골격계 통증의 1차 선택; 위장관·심혈관·신장 위험인자가 없는 경우 최소 유효 용량으로 단기(수일) 사용_
 
 > **처방례 2. 우울증 동반**
 >
@@ -828,7 +828,7 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 > 울트라셋 이알 세미 2T #2
 > ```
 >
-> _✽NSAID 단독으로 조절되지 않거나 GI 위험 인자가 있는 만성 통증에서 COX-2 선택제 우선 고려; opioid 복합제는 최후 수단으로 단기 사용에 제한_
+> _✽NSAID 단독으로 조절되지 않거나 GI 위험인자가 있는 만성 통증에서 COX-2 선택제 우선 고려; opioid 복합제는 최후 수단으로 단기 사용에 제한_
 
 ***
 

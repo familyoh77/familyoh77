@@ -7,7 +7,7 @@
 * 기관지 점막의 자극 또는 손상으로 발생할 수 있음
 * 가래 : 거품 있음, 액체 or clot, 선홍색 or 분홍색
 * 병력 : 폐질환력(+), 구역/구토(-)
-* 건강한 젊은 비흡연자에서 명확한 URI와 연관된 일회성 극소량 객혈은 임상 판단에 따라 제한적 평가와 경과 관찰이 가능하나, 지속·반복되거나 위험 인자가 있으면 영상검사를 포함한 추가 평가 시행
+* 건강한 젊은 비흡연자에서 명확한 URI와 연관된 일회성 극소량 객혈은 임상 판단에 따라 제한적 평가와 경과 관찰이 가능하나, 지속·반복되거나 위험인자가 있으면 영상검사를 포함한 추가 평가 시행
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -71,7 +71,7 @@
   * 구강·비강 시진 우선 시행; 구강(잇몸, 혀, 인두) 및 비강을 육안으로 먼저 확인
   * 필요 시 후두경 또는 비경 검사로 상기도 출혈원 확인
 
-<table><thead><tr><th width="113">항목</th><th width="162">객혈</th><th width="172">토혈</th><th>상기도/구강 출혈 (Pseudohemoptysis)</th></tr></thead><tbody><tr><td>선행 증상</td><td>기침</td><td>구역/구토</td><td>비충혈, 후비루, 구강·인후 불편감</td></tr><tr><td>색깔</td><td>선홍색 또는 분홍색</td><td>암적색 또는 커피색</td><td>선홍색 (코피와 동일)</td></tr><tr><td>성상</td><td>거품 있음, 액체 or clot</td><td>음식 잔류물 혼재 가능</td><td>거품 없음, 인두 타고 넘어옴</td></tr><tr><td>pH</td><td>알칼리성</td><td>산성</td><td>-</td></tr><tr><td>기저 질환</td><td>폐/심장 질환</td><td>위장/식도 질환</td><td>비염, 비중격 질환, 구강·인후두 질환</td></tr><tr><td>이후 증상</td><td>혈성 가래 지속 가능</td><td>흑색 변 동반 가능</td><td>구강·비강 검진 시 출혈원 확인</td></tr></tbody></table>
+<table><thead><tr><th width="113">항목</th><th width="162">객혈</th><th width="172">토혈</th><th>상기도/구강 출혈 (Pseudohemoptysis)</th></tr></thead><tbody><tr><td>선행 증상</td><td>기침</td><td>구역/구토</td><td>비충혈, 후비루, 구강·인후 불편감</td></tr><tr><td>색깔</td><td>선홍색 또는 분홍색</td><td>암적색 또는 커피색</td><td>선홍색 (코피와 동일)</td></tr><tr><td>성상</td><td>거품 있음, 액체 or clot</td><td>음식 잔류물 혼재 가능</td><td>거품 없음, 인두 타고 넘어옴</td></tr><tr><td>pH</td><td>알칼리성</td><td>산성</td><td>-</td></tr><tr><td>기저질환</td><td>폐/심장 질환</td><td>위장/식도 질환</td><td>비염, 비중격 질환, 구강·인후두 질환</td></tr><tr><td>이후 증상</td><td>혈성 가래 지속 가능</td><td>흑색 변 동반 가능</td><td>구강·비강 검진 시 출혈원 확인</td></tr></tbody></table>
 
 _<mark style="color:$info;">※ 표의 소견은 병력·진찰과 함께 참고하는 보조적 지표이며, 개별 소견만으로 단정하지 않음(예: 혈액을 삼킨 후 구토하거나, 객혈이 혈괴 형태·거품 없는 양상으로 나타나는 예외가 있을 수 있음). pH는 참고 항목이며 실제 임상에서 직접 측정은 거의 이루어지지 않음; 음식물 잔류물(food particles) 유무는 감별에 참고할 수 있는 소견 중 하나임. 최종 감별은 병력·구강 및 비강 진찰, 필요 시 후두경·상부위장관 내시경을 종합하여 판단</mark>_
 
@@ -80,7 +80,7 @@ _<mark style="color:$info;">※ 표의 소견은 병력·진찰과 함께 참고
 * 흉부 X선, CBC : 초기 진단 검사
 * 흉부 CT : 아래 중 하나라도 해당하면 적극 고려; 조영증강 CT/CTA는 원인, 출혈 위치 및 책임 혈관 평가에 유용하며, 특히 반복·중등도 이상 객혈 또는 BAE를 고려하는 경우 우선적으로 활용
   * 흉부 X선상 이상
-  * 폐암 위험 인자를 모두 충족 (＞40세 & ＞30갑년 흡연력) - X선이 정상이어도 조기 시행
+  * 폐암 위험인자를 모두 충족 (＞40세 & ＞30갑년 흡연력) - X선이 정상이어도 조기 시행
   * 중등도 객혈(＞30 ㎖/24h) - X선이 정상이어도 조기 시행
   * 객혈 반복 - X선이 정상이어도 조기 시행
   * 원인 불명 객혈
@@ -122,7 +122,7 @@ graph TD
     J1 & J2 & J3 & J4 & J5 & J6 & J7 --> K["Disposition"]
     K --> K1["<u>입원·전원</u><br/>life-threatening 객혈<br/>지속·증가하는 중등도 이상 객혈<br/>원인 불명 + 지속 출혈 또는<br/>호흡·혈역학 이상"]
     K --> K2["<u>조기 의뢰(수일 내)</u><br/>반복 객혈<br/>CT 이상 또는 필요<br/>암·TB 의심"]
-    K --> K3["<u>외래 추적</u><br/>젊은 비흡연자<br/>단발성 극소량<br/>명확한 URI 상황<br/>위험 인자 없음"]
+    K --> K3["<u>외래 추적</u><br/>젊은 비흡연자<br/>단발성 극소량<br/>명확한 URI 상황<br/>위험인자 없음"]
 
     classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
@@ -173,7 +173,7 @@ graph TD
 
 #### <mark style="color:$primary;">위험도 분류 및 처치 방향</mark>
 
-<table><thead><tr><th width="80">위험도</th><th>기준</th><th>처치</th></tr></thead><tbody><tr><td><strong>고위험</strong></td><td>life-threatening hemoptysis, 기도 위협, 호흡·혈역학적 불안정, 활동성 출혈 지속</td><td>즉시 응급실 의뢰, 기도 확보; CTA/기관지내시경 및 BAE 가능 기관으로 전원</td></tr><tr><td><strong>중위험</strong></td><td>암·결핵 의심, 반복 객혈, 흉부 X선 이상, 항응고제 복용 + 지속·반복 출혈 또는 Hb 감소</td><td>수일 내 전문과 의뢰 및 CT 등 추가 평가</td></tr><tr><td><strong>저위험</strong></td><td>젊은 비흡연자, 단발성 극소량, 명확한 URI 상황, 위험 인자 없음</td><td>제한적 평가와 외래 경과 관찰; 지속·반복 시 영상검사</td></tr></tbody></table>
+<table><thead><tr><th width="80">위험도</th><th>기준</th><th>처치</th></tr></thead><tbody><tr><td><strong>고위험</strong></td><td>life-threatening hemoptysis, 기도 위협, 호흡·혈역학적 불안정, 활동성 출혈 지속</td><td>즉시 응급실 의뢰, 기도 확보; CTA/기관지내시경 및 BAE 가능 기관으로 전원</td></tr><tr><td><strong>중위험</strong></td><td>암·결핵 의심, 반복 객혈, 흉부 X선 이상, 항응고제 복용 + 지속·반복 출혈 또는 Hb 감소</td><td>수일 내 전문과 의뢰 및 CT 등 추가 평가</td></tr><tr><td><strong>저위험</strong></td><td>젊은 비흡연자, 단발성 극소량, 명확한 URI 상황, 위험인자 없음</td><td>제한적 평가와 외래 경과 관찰; 지속·반복 시 영상검사</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria® Hemoptysis 2020,</mark></em> <br><em><mark style="color:$info;">Society of Chest Imaging and Interventions Consensus Guidelines 2023,</mark></em> <br><em><mark style="color:$info;">ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants 2020, FDA Safety Communication on Andexxa 2025 등)</mark></em></p>
 

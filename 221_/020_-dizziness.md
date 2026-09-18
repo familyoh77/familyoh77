@@ -94,7 +94,7 @@
 * 호발 : 50\~70대, 여성(2배)
 * 기전 : calcium carbonate crystals(otoconia)이 떨어져 나와 세반고리관 내에 부유. 머리를 움직이면 otoconia가 움직이게 되고, 다시 놓여 질 때까지 motion sense를 일으킴
 * 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
-* 위험 인자 : 두부 외상, 내이 허혈, AUV, 귀 수술, 우울, 움직이지 않는 생활
+* 위험인자 : 두부 외상, 내이 허혈, AUV, 귀 수술, 우울, 움직이지 않는 생활
 * 발생 부위 : post. canal 60\~90%, lat.(horizontal) canal 10\~30%; ant.(sup.) canal rare
   * 우리나라는 lat canal 이환이 많음(30%)
 * 재발 : 1년 내 20\~30% 재발

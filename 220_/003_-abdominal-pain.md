@@ -9,7 +9,7 @@
 * 복용 중인 약물을 반드시 확인
   * NSAIDs(→ 소화성 궤양·천공), 항생제(→ 항생제 관련 장염) 등은 복통의 직접적 원인이 될 수 있음
   * 드물게 약물 유발 췌장염이 발생할 수 있음 - 원인 약물 : azathioprine, valproate, thiazide계 이뇨제
-  * 스테로이드는 잠재적 위험 인자이나 주요 원인은 아님
+  * 스테로이드는 잠재적 위험인자이나 주요 원인은 아님
   * DPP-4 억제제 및 GLP-1 수용체 작용제도 췌장염 발생이 보고되나 인과성에는 논란이 있어 과도하게 강조하지 않되, 당뇨·비만 치료 중인 환자의 복통에서는 약물 복용력을 확인
   * SGLT2 억제제 복용 환자는 혈당이 정상 또는 경도 상승만 보이는 euglycemic DKA가 가능함을 우선 고려 (혈당만으로 DKA를 배제하지 말 것)
   * 항응고제·항혈소판제 복용 환자의 복통·옆구리 통증에서는 복벽혈종(rectus sheath hematoma) 또는 retroperitoneal bleeding 가능성 고려
@@ -74,7 +74,7 @@
 
 #### <mark style="color:$primary;">심전도(ECG)</mark>
 
-* 고령 또는 심혈관 위험 인자(당뇨, 고혈압, 흡연, 관상동맥 질환 병력)가 있는 환자의 설명되지 않는 상복부 통증, 특히 흉부 불편감·호흡곤란·식은땀·구역 등이 동반되면 ECG 및 hs-troponin을 적극 고려(☞ [흉통](002_-chest-pain.md))
+* 고령 또는 심혈관 위험인자(당뇨, 고혈압, 흡연, 관상동맥 질환 병력)가 있는 환자의 설명되지 않는 상복부 통증, 특히 흉부 불편감·호흡곤란·식은땀·구역 등이 동반되면 ECG 및 hs-troponin을 적극 고려(☞ [흉통](002_-chest-pain.md))
   * 초기 NSTEMI는 ECG 단독으로는 놓칠 수 있음을 유의
 * 여성, 고령자, 당뇨병 환자에서는 비전형적 급성 관상동맥 증후군 증상(흉통 없이 복통·구역·피로감 등)이 나타날 수 있으므로 ECG 검사를 적극 고려함
 
@@ -165,10 +165,10 @@
 - Acute cholecystitis : RUQ 또는 epigastrium의 심한 통증(＞4시간 지속), 발열, 복부 강직, Murphy's sign
 - Acute cholangitis : RUQ 통증, 발열, 황달
 - Acute hepatitis : RUQ 통증; 피로, 구역, 구토, 식욕 부진, 황달, 검은색 소변, pale or clay-colored stool; 음주 병력
-- Liver abscess : RUQ 통증, 발열; 특히 당뇨병, 간/담도/췌장에 기저 질환이 있는 경우 의심
+- Liver abscess : RUQ 통증, 발열; 특히 당뇨병, 간/담도/췌장에 기저질환이 있는 경우 의심
 - Fitz-Hugh-Curtis 증후군 : 골반염이나 난관염 같은 여성 생식기 감염이 퍼져서 간 주변의 피막에 염증(간주위염) 발생; 젊은 여성에서 RUQ 통증
   * 하복부 증상 없이 RUQ 통증만 있을 수 있어 담낭염과의 감별이 필요
-  * PID 병력 또는 STI 위험 인자 확인
+  * PID 병력 또는 STI 위험인자 확인
 - Acute MI : MI 증상(예: 흉통, 호흡 곤란) 동반
   * 관상동맥병 위험이 있는 환자에서 의심 → ECG 즉시 시행, troponin 포함 심근 효소 확인 (✽NSTEMI에서는 ECG가 정상일 수 있음 유의)
 - Pancreatitis : 점차 심해진 후 지속, 앞으로 기대면 호전, 등으로의 방사통
@@ -304,7 +304,7 @@ flowchart TD
 
 ### <mark style="color:orange;">복강 외 원인 (Extra-abdominal Causes)</mark>
 
-<table><thead><tr><th width="154">질환</th><th>복통 양상 및 진단 단서</th></tr></thead><tbody><tr><td>급성 심근경색</td><td>상복부 통증; 고령·당뇨·심혈관 위험 인자; ECG + troponin 필수</td></tr><tr><td>폐렴</td><td>하폐엽 폐렴에서 상복부·옆구리 통증 가능; 호흡기 증상, 흉부 X선</td></tr><tr><td>폐색전증</td><td>흉막 자극 시 복통 발생 가능; 호흡 곤란, 임상 사전확률에 따른 D-dimer, 확진은 CTPA</td></tr><tr><td>당뇨병 케톤산증</td><td>미만성 복통, 구역·구토; 혈당·케톤·anion gap 확인 (SGLT2 억제제 사용자는 정상~경도 혈당에서도 가능 - euglycemic DKA)</td></tr><tr><td>대상포진</td><td>발진 전구기 편측 복통, 피부 과민(allodynia), 띠 모양(dermatomal) 통증; 수포 출현 시 확진</td></tr></tbody></table>
+<table><thead><tr><th width="154">질환</th><th>복통 양상 및 진단 단서</th></tr></thead><tbody><tr><td>급성 심근경색</td><td>상복부 통증; 고령·당뇨·심혈관 위험인자; ECG + troponin 필수</td></tr><tr><td>폐렴</td><td>하폐엽 폐렴에서 상복부·옆구리 통증 가능; 호흡기 증상, 흉부 X선</td></tr><tr><td>폐색전증</td><td>흉막 자극 시 복통 발생 가능; 호흡 곤란, 임상 사전확률에 따른 D-dimer, 확진은 CTPA</td></tr><tr><td>당뇨병 케톤산증</td><td>미만성 복통, 구역·구토; 혈당·케톤·anion gap 확인 (SGLT2 억제제 사용자는 정상~경도 혈당에서도 가능 - euglycemic DKA)</td></tr><tr><td>대상포진</td><td>발진 전구기 편측 복통, 피부 과민(allodynia), 띠 모양(dermatomal) 통증; 수포 출현 시 확진</td></tr></tbody></table>
 
 ### <mark style="color:orange;">고령자 복통의 특징</mark>
 
@@ -356,7 +356,7 @@ flowchart TD
 
 * 아래는 대표적 예시이며 전체 목록이 아님; 난소·고환염전, 감염성 요로폐쇄, 급성 담관염+패혈증 등 부위별 세부 감별은 [감별](003_-abdominal-pain.md) 섹션 참조
 
-<table data-search="false"><thead><tr><th width="168">질환</th><th>핵심 단서</th></tr></thead><tbody><tr><td>AAA 파열</td><td>고령·흡연·박동성 종괴·저혈압</td></tr><tr><td>대동맥 박리</td><td>흉통/등통 동반·사지 간 맥박·혈압 차이·신경학적 증상</td></tr><tr><td>장간막 허혈</td><td>AF·심혈관 병력·pain out of proportion</td></tr><tr><td>GI 천공</td><td>갑작스러운 극심한 통증·복막염 소견</td></tr><tr><td>교액성 장폐쇄</td><td>산통에서 지속통으로 전환·복막 자극 동반</td></tr><tr><td>자궁외임신 파열</td><td>가임기 여성·β-hCG 양성·혈역학적 불안정</td></tr><tr><td>Acute MI</td><td>상복부 통증·심혈관 위험 인자·ECG 변화</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="168">질환</th><th>핵심 단서</th></tr></thead><tbody><tr><td>AAA 파열</td><td>고령·흡연·박동성 종괴·저혈압</td></tr><tr><td>대동맥 박리</td><td>흉통/등통 동반·사지 간 맥박·혈압 차이·신경학적 증상</td></tr><tr><td>장간막 허혈</td><td>AF·심혈관 병력·pain out of proportion</td></tr><tr><td>GI 천공</td><td>갑작스러운 극심한 통증·복막염 소견</td></tr><tr><td>교액성 장폐쇄</td><td>산통에서 지속통으로 전환·복막 자극 동반</td></tr><tr><td>자궁외임신 파열</td><td>가임기 여성·β-hCG 양성·혈역학적 불안정</td></tr><tr><td>Acute MI</td><td>상복부 통증·심혈관 위험인자·ECG 변화</td></tr></tbody></table>
 
 **Step 4. 통증 패턴 + 위치 기반 감별 → 검사 선택**
 
@@ -415,7 +415,7 @@ flowchart TD
 **심근경색(MI)을 위장 질환으로 오진**
 
 * 상복부 통증을 "위염/GERD"로 단정 → 특히 고령·당뇨 환자에서 atypical MI는 복통만으로 발현 가능
-* 고령 또는 심혈관 위험 인자가 있는 환자의 설명되지 않는 상복부 통증에서 흉부 불편감·호흡곤란·식은땀·구역 등이 동반되면 ECG + troponin을 적극 고려
+* 고령 또는 심혈관 위험인자가 있는 환자의 설명되지 않는 상복부 통증에서 흉부 불편감·호흡곤란·식은땀·구역 등이 동반되면 ECG + troponin을 적극 고려
 
 **AAA 놓침**
 

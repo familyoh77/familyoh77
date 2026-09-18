@@ -9,7 +9,7 @@
 * 병력·진찰상 단서 없이 광범위한 실험실 검사를 일률적으로 시행하면 진단적 가치가 낮음. 증상의 기간·중증도·기능 저하와 임상 단서에 따라 최소 검사를 선택하고, 초기 검사에 이상이 없으면 무분별한 반복 검사를 피함
 * 충분한 휴식으로 회복되지 않는 지속적 피로와 사회적·직업적 기능 저하는 원인 평가가 필요한 임상 단서임. ME/CFS는 특히 활동 후 증상 악화(PEM), 비회복성 수면, 인지장애 또는 기립불내성이 동반될 때 의심
 
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:green;">원인 및 위험인자</mark>
 
 * 흔히 원인이 명확하지 않음
 
@@ -23,7 +23,7 @@
 
 #### <mark style="color:$primary;">아급성 (1\~6개월), 만성 (＞6개월)</mark>
 
-* 인구학적 위험 인자 : 고령, 여성
+* 인구학적 위험인자 : 고령, 여성
 * 생활 습관/환경 : 지나친 활동 또는 비활동, 비만, 영양 결핍(비건·채식 식이의 경우 Vit B12 결핍 위험), 만성적 수면 부족, 음주, 흡연
 * 임신 : 가임기 여성에서 피로의 가장 흔하고 중요한 원인 중 하나; 초기 임신에서 특히 두드러짐
 * [만성피로증후군(ME/CFS)](../230_/194_-cfs.md)
@@ -134,7 +134,7 @@
 <mark style="color:cyan;">**지속적·설명되지 않는 피로 또는 ME/CFS 의심 시 추가 고려**</mark>
 
 * CBC with differential, ESR/CRP, 전해질·Ca·P, 혈당, 신·간기능, TSH ± free T4, iron studies(ferritin/serum iron/TIBC 또는 transferrin/TSAT), U/A를 임상상에 따라 추가 고려
-* 위장관 증상, 철결핍 또는 위험 인자가 있으면 celiac disease 선별검사를 고려
+* 위장관 증상, 철결핍 또는 위험인자가 있으면 celiac disease 선별검사를 고려
 * Vit B12, 엽산, Vit D(25(OH)D), 8\~9 AM cortisol ± ACTH, 이종항체검사(감염단핵구증 의심 시), ANA, 흉부 X선, 분변 잠혈 검사, 수면검사(HSAT/PSG), 복부 초음파 등은 해당 임상 단서가 있을 때 시행
 * CBC에서 빈혈이 확인되면 MCV·reticulocyte와 iron studies를 우선 해석하고, 거대적아구성 빈혈에서는 Vit B12·엽산을 평가
 * ESR·CRP는 염증 여부를 판단하는 보조지표이며 만성질환빈혈을 단독으로 진단하지 못함
@@ -176,7 +176,7 @@
 
 * 피로를 주소로 내원한 환자에서 코골이·주간 졸음·무호흡 목격이 동반될 때 시행
 * 8개 항목(Snoring, Tiredness, Observed apnea, high blood Pressure, BMI, Age, Neck circumference, Gender)에 대하여 해당하면 각 1점  (☞  [계산기](https://www.mdcalc.com/calc/3992/stop-bang-score-obstructive-sleep-apnea))&#x20;
-* 판정 : 0\~2점=저위험; 3\~4점=중간 위험으로 증상·동반 위험 인자를 이용해 추가 분류하고 객관적 수면검사 여부를 결정; ≥5점=고위험으로 HSAT/PSG 등 객관적 검사 적극 고려&#x20;
+* 판정 : 0\~2점=저위험; 3\~4점=중간 위험으로 증상·동반 위험인자를 이용해 추가 분류하고 객관적 수면검사 여부를 결정; ≥5점=고위험으로 HSAT/PSG 등 객관적 검사 적극 고려&#x20;
   * STOP 4개 항목 중 2개 이상 + 남성 또는 BMI ＞35 또는 목둘레 ＞40 ㎝에 해당하는 경우에도 고위험으로 분류할 수 있음. 목둘레 항목 자체의 표준 기준은 성별 구분 없이 ＞40 ㎝임
 
 <mark style="color:cyan;">**ESS (엡워스졸림척도)**</mark>&#x20;

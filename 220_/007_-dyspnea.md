@@ -207,7 +207,7 @@
     * 일차성 : 기저 폐질환 없는 마른 체형의 젊은 남성에서 호발
     * 이차성 : COPD·결핵 등 기저 폐질환 환자에서 발생; 예비 폐기능이 낮아 더 위험
   * 폐색전증 : 갑자기 시작되는 흉막염성 흉통, 객혈 동반
-    * 4주 내 최근 지속적인 immobilization 또는 수술 병력, estrogen 치료, DVT 위험 인자(thromboembolism, 암, 비만, 하지 외상)
+    * 4주 내 최근 지속적인 immobilization 또는 수술 병력, estrogen 치료, DVT 위험인자(thromboembolism, 암, 비만, 하지 외상)
     * [Wells score](002_-chest-pain.md#wells-score)(사전 확률 분류 → D-dimer 또는 CTPA 결정) 또는 [YEARS](https://www.mdcalc.com/calc/4067/years-algorithm-for-pulmonary-embolism-pe) algorithm(3개 임상 항목과 D-dimer cut-off를 결합하여 CTPA 필요 여부 결정; CTPA 시행률 감소 효과)으로 폐색전증 확률 평가
     * 임신부에서는 pregnancy-adapted YEARS algorithm 고려
 * 지속적 → 폐렴, 만성 질환의 급성 악화
@@ -275,7 +275,7 @@ class B,D,G yellow
 #### <mark style="color:$primary;">**1차 진료에서 흔한 진단 오류**</mark>
 
 * **불안으로 성급히 단정** : 정상 SpO₂ + 젊은 환자여도 위험 원인을 임상적으로 충분히 배제한 뒤 진단
-  * SpO₂·활력징후를 확인하고 흉통·심계항진·PE 위험 인자·비정상 진찰 소견 등에 따라 ECG, CXR, D-dimer 등을 선택
+  * SpO₂·활력징후를 확인하고 흉통·심계항진·PE 위험인자·비정상 진찰 소견 등에 따라 ECG, CXR, D-dimer 등을 선택
 * **정상 SpO₂에 안심** : SpO₂는 산소화 지표이지 환기 상태가 아님
   * PE 초기·대사성 산증은 SpO₂ 정상 가능하며, RR(호흡수)를 더 중요하게 간주
 * **Cardiac asthma 오진** : wheeze → 천식으로만 해석하지 말 것
