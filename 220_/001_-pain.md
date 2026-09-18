@@ -101,7 +101,7 @@ ICD-11은 만성 통증을 다음의 두 범주로 구분하며, 이 구분은 "
 
 <mark style="color:cyan;">**통증 기전(mechanism)에 따른 분류**</mark>
 
-* nociceptive / neuropathic / nociplastic / mixed : 약물 선택을 결정하는 주요 요소 중 하나이며, 원인·중증도·기능 장애·동반질환·신간기능·환자 위험도를 함께 고려하여 처방을 결정함
+* nociceptive / neuropathic / nociplastic / mixed : 약물 선택을 결정하는 주요 요소 중 하나이며, 원인·중증도·기능 장애·동반 질환·신간기능·환자 위험도를 함께 고려하여 처방을 결정함
 
 1. **침해수용성(nociceptive) 통증**
    * 실제 조직 손상에 의해 발생
