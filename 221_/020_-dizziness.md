@@ -13,7 +13,7 @@
 
 * 증상 : 회전감(“방이 돈다”), 실제 움직임이 없는데 움직이는 듯한 느낌
 * 원인
-  * 말초성 : 대부분 차지; BPPV, AUV(과거전정신경염), 미로염, Ménière Dz
+  * 말초성 : 대부분 차지; BPPV, AUVP(과거 전정신경염), 미로염, Ménière Dz
   * 중추성 : 소뇌종양, 뇌졸중/TIA, 편두통
 
 #### <mark style="color:$primary;">Disequilibrium</mark>
@@ -76,7 +76,7 @@
 
 * Central : 편두통, 소뇌 종양, 뇌졸중/TIA, vestibular ischemia 등
   * 중추성 원인의 비율은 진료 환경과 대상군에 따라 크게 달라 고정된 수치로 일반화하기 어려움
-* Peripheral : BPPV, AUV, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
+* Peripheral : BPPV, AUVP, Ménière Dz, otosclerosis, 미로염, cholesteatoma, 외림프누공, superior canal dehiscence syndrome, 멀미, 중이염
 * 기타 : 약물, 고령, 기립성 저혈압, 부정맥, 정신적 문제, 급격한 다이어트
 * 고령 : 불안/우울, 균형 감각 손상, 심뇌혈관질환 과거력, 청력·시력 저하, 기립성 저혈압, 다제약물 등 여러 요인이 복합적으로 작용
 
@@ -94,7 +94,7 @@
 * 호발 : 50\~70대, 여성(2배)
 * 기전 : calcium carbonate crystals(otoconia)이 떨어져 나와 세반고리관 내에 부유. 머리를 움직이면 otoconia가 움직이게 되고, 다시 놓여 질 때까지 motion sense를 일으킴
 * 원인 : 특발성(특히 고령), 외상(젊은 연령), viral neurolabyrinthitis
-* 위험인자 : 두부 외상, 내이 허혈, AUV, 귀 수술, 우울, 움직이지 않는 생활
+* 위험인자 : 두부 외상, 내이 허혈, AUVP, 귀 수술, 우울, 움직이지 않는 생활
 * 발생 부위 : post. canal 60\~90%, lat.(horizontal) canal 10\~30%; ant.(sup.) canal rare
   * 우리나라는 lat canal 이환이 많음(30%)
 * 재발 : 1년 내 20\~30% 재발
@@ -127,14 +127,14 @@
   * 신경학적 이상은 없음
 * 안진 : 발작 중 주로 수평-회선성 안진이 관찰되지만 질병 단계와 발작 경과에 따라 방향이 변할 수 있으므로 단일한 방향으로 고정되지 않음
 
-### <mark style="color:orange;">급성단측전정병증 (Acute unilateral vestibulopathy, AUV)</mark>
+### <mark style="color:orange;">급성단측전정병증 (Acute unilateral vestibulopathy, AUVP)</mark>
 
 * vertigo의 두 번째 흔한 원인
 * 30\~50세 호발
 * 원인 : 불명; 바이러스 재활성화 또는 염증성 기전 등이 가설로 제시되지만 확정되지 않음
 
 {% hint style="info" %}
-AUV(Acute unilateral vestibulopathy) : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현이 실제로는 염증이 조직학적으로 확인되지 않은 경우가 많고 원인이 바이러스성 신경염 외에도 다양할 수 있다는 점 때문에, 더 중립적인 "vestibulopathy(전정병증)"라는 표현을 씀 \[국제 전정장애 분류(ICVD)]
+AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현이 실제로는 염증이 조직학적으로 확인되지 않은 경우가 많고 원인이 바이러스성 신경염 외에도 다양할 수 있다는 점 때문에, 더 중립적인 "vestibulopathy(전정병증)"라는 표현을 씀 \[국제 전정장애 분류(ICVD)]
 {% endhint %}
 
 #### <mark style="color:$primary;">임상 양상</mark>
@@ -145,7 +145,7 @@ AUV(Acute unilateral vestibulopathy) : vestibular neuritis를 대체하는 용�
   * 청력 이상은 보통 없음
 * 안진 : 급성기에 방향고정성 수평-회선성 자발안진; 시고정을 제거하면 증가
 * 신경학적 이상 : 병변 측으로 치우치거나 넘어질 수 있으나 중추성 신경·안구운동 소견은 없어야 함
-* 검사 : 병변 측 vestibulo-ocular reflex 저하(침상 Head impulse test 또는 vHIT 등). 새 청각 증상이나 중추성 소견이 있으면 AUV로 단정하지 않음
+* 검사 : 병변 측 vestibulo-ocular reflex 저하(침상 Head impulse test 또는 vHIT 등). 새 청각 증상이나 중추성 소견이 있으면 AUVP로 단정하지 않음
 
 ### <mark style="color:orange;">미로염 (내이염, Labyrinthitis)</mark>
 
@@ -163,7 +163,7 @@ AUV(Acute unilateral vestibulopathy) : vestibular neuritis를 대체하는 용�
 
 {% hint style="info" %}
 - labyrinthitis : vertigo + 청력 저하 동반
-- AUV : vertigo only, 청력 정상
+- AUVP : vertigo only, 청력 정상
 - 급성 어지럼 + 새로운 청력 저하 → labyrinthitis, AICA(anterior inferior cerebellar artery) 경색, 돌발성 감각신경성 난청, 외림프누공 감별
 {% endhint %}
 
@@ -300,14 +300,14 @@ AUV(Acute unilateral vestibulopathy) : vestibular neuritis를 대체하는 용�
 * 누공 검사 : 통기 이경으로 고막에 음압/양압을 가해 안진과 현훈 유발
   * 양성 (증상 발생) : 외림프누공 의심
 * Vestibular function testing : 진단이 불확실하거나 치료에 반응하지 않을 때 시행
-* vHIT(video Head Impulse Test) : 각 반고리관의 고주파수 vestibulo-ocular reflex gain과 교정성 단속운동을 정량화하여 AUV·양측전정기능저하의 확인과 추적에 유용. 저주파수 수평반고리관 기능을 주로 평가하는 caloric test와 결과가 불일치할 수 있으며, HINTS 전체나 뇌영상의 대체검사는 아님
+* vHIT(video Head Impulse Test) : 각 반고리관의 고주파수 vestibulo-ocular reflex gain과 교정성 단속운동을 정량화하여 AUVP·양측전정기능저하의 확인과 추적에 유용. 저주파수 수평반고리관 기능을 주로 평가하는 caloric test와 결과가 불일치할 수 있으며, HINTS 전체나 뇌영상의 대체검사는 아님
 
 #### <mark style="color:$primary;">HINTS Plus Exam</mark>
 
 * 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
 * 현재 자발안진이 있는 급성전정증후군(AVS) 환자에서, 적절히 훈련된 검사자가 시행
   * 발작성·체위성 어지럼, 자발안진이 없는 환자 또는 검사 협조가 어려운 환자에게 적용하지 않음
-* 말초성(Peripheral) 패턴 : 아래 소견이 모두 충족될 때 AUV를 시사
+* 말초성(Peripheral) 패턴 : 아래 소견이 모두 충족될 때 AUVP를 시사
   * Head Impulse Test (+) : 환측으로 머리 회전 시 교정성 단속운동(catch-up saccade) 관찰
   * Nystagmus : 단방향 수평 안진(Direction-fixed); 주시 방향을 바꿔도 안진의 방향이 변하지 않음
   * Test of Skew (-) : 수직 안구 편위 없음
@@ -352,7 +352,7 @@ AUV(Acute unilateral vestibulopathy) : vestibular neuritis를 대체하는 용�
 
 #### <mark style="color:$primary;">Vertigo 원인별 특징</mark>
 
-<table data-search="false"><thead><tr><th width="127">원인</th><th>Timing·trigger</th><th>핵심 소견</th><th>주요 검사·조치</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>자세로 유발되는 반복성 짧은 발작(대개 1분 미만)</td><td>청각·신경학적 이상 없음</td><td>Dix-Hallpike 또는 supine roll test; 정복술</td></tr><tr><td><strong>AUV</strong></td><td>24시간 이상 지속되는 급성 현훈</td><td>방향고정성 수평-회선성 안진, 일측 VOR 저하; 새 청각·중추성 소견 없음</td><td>적절한 대상에서 HINTS Plus; 조기 전정재활</td></tr><tr><td><strong>Ménière disease</strong></td><td>20분~12시간 자발성 발작</td><td>변동성 환측 난청·이명·귀 충만감</td><td>청력검사; 전정편두통 감별</td></tr><tr><td><strong>Vestibular migraine</strong></td><td>5분~72시간 반복 발작</td><td>50% 이상 발작에서 편두통 특징; 이명·귀 충만감 가능</td><td>임상 진단·다른 원인 배제</td></tr><tr><td><strong>PPPD</strong></td><td>3개월 이상 대부분의 날</td><td>직립·움직임·복잡한 시각 자극으로 악화</td><td>전정재활·CBT; 약물은 개별화</td></tr><tr><td><strong>후순환 TIA</strong></td><td>유발 요인 없는 일과성 반복 발작</td><td>혈관 위험, 신경·보행·안구운동 이상이 일시적일 수 있음</td><td>응급 신경학적 평가; 필요 시 CTA/MRA</td></tr><tr><td><strong>뇌간·소뇌 뇌졸중</strong></td><td>급성 지속성 증상</td><td>중추성 HINTS, 심한 체간실조, 국소 신경학적 소견; AICA 경색은 새 난청 가능</td><td>응급 MRI/MRA; 초기 DWI 위음성 주의</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="127">원인</th><th>Timing·trigger</th><th>핵심 소견</th><th>주요 검사·조치</th></tr></thead><tbody><tr><td><strong>BPPV</strong></td><td>자세로 유발되는 반복성 짧은 발작(대개 1분 미만)</td><td>청각·신경학적 이상 없음</td><td>Dix-Hallpike 또는 supine roll test; 정복술</td></tr><tr><td><strong>AUVP</strong></td><td>24시간 이상 지속되는 급성 현훈</td><td>방향고정성 수평-회선성 안진, 일측 VOR 저하; 새 청각·중추성 소견 없음</td><td>적절한 대상에서 HINTS Plus; 조기 전정재활</td></tr><tr><td><strong>Ménière disease</strong></td><td>20분~12시간 자발성 발작</td><td>변동성 환측 난청·이명·귀 충만감</td><td>청력검사; 전정편두통 감별</td></tr><tr><td><strong>Vestibular migraine</strong></td><td>5분~72시간 반복 발작</td><td>50% 이상 발작에서 편두통 특징; 이명·귀 충만감 가능</td><td>임상 진단·다른 원인 배제</td></tr><tr><td><strong>PPPD</strong></td><td>3개월 이상 대부분의 날</td><td>직립·움직임·복잡한 시각 자극으로 악화</td><td>전정재활·CBT; 약물은 개별화</td></tr><tr><td><strong>후순환 TIA</strong></td><td>유발 요인 없는 일과성 반복 발작</td><td>혈관 위험, 신경·보행·안구운동 이상이 일시적일 수 있음</td><td>응급 신경학적 평가; 필요 시 CTA/MRA</td></tr><tr><td><strong>뇌간·소뇌 뇌졸중</strong></td><td>급성 지속성 증상</td><td>중추성 HINTS, 심한 체간실조, 국소 신경학적 소견; AICA 경색은 새 난청 가능</td><td>응급 MRI/MRA; 초기 DWI 위음성 주의</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. Bárány Society ICVD criteria; GRACE-3 acute dizziness guideline.</mark></em></p>
 
@@ -380,7 +380,7 @@ flowchart TD
 
     E --> E1["자발안진 있음?"]
     E1 -->|"있음"| E2["HINTS Plus<br/>(숙련자)"]
-    E2 --->|"모두 말초성"| E3["AUV 가능<br/>조기 전정재활"]
+    E2 --->|"모두 말초성"| E3["AUVP 가능<br/>조기 전정재활"]
     E2 -->|"중추성 소견/애매"| X1["중추성 원인 평가"]
     E1 -->|"없음"| E4["보행·체간·신경진찰"]
     E4 -->|"심한 불안정"| X1
@@ -418,7 +418,7 @@ flowchart TD
 
 <mark style="color:cyan;">**전정 재활 운동**</mark>
 
-* AUV·말초전정기능저하·PPPD 등 진단과 기능장애에 맞추어 시선 안정화, 습관화, 균형·보행 운동을 개별화함
+* AUVP·말초전정기능저하·PPPD 등 진단과 기능장애에 맞추어 시선 안정화, 습관화, 균형·보행 운동을 개별화함
 * 심한 증상 악화나 낙상을 유발하지 않는 범위에서 시행하고 고령자·보행 불안정 환자는 치료사 지도 또는 보호자·고정 지지물 등 안전 대책을 마련
 * [예](https://youtu.be/KkKAoHZdUnI)
   1. 고개를 양 옆으로 움직임,
@@ -455,9 +455,9 @@ flowchart TD
 * meclizine <mark style="color:blue;">\[파비스염산메클리진정]</mark>
   * 멀미에 의한 구역·구토·어지러움 : 25\~50 ㎎을 승차 1시간 전에 1회 투여하고, 여행 중 필요 시 24시간마다 반복
   * 미로염·메니에르증후군·방사선·숙취에 의한 구역·구토·어지러움 : 1회 25 ㎎, 1일 2\~3회; 최대 75 ㎎/d
-  * BPPV·AUV 등 허가사항에 명시되지 않은 원인의 어지럼에 사용하는 경우에는 적응증과 근거를 별도로 검토
+  * BPPV·AUVP 등 허가사항에 명시되지 않은 원인의 어지럼에 사용하는 경우에는 적응증과 근거를 별도로 검토
 * dimenhydrinate <mark style="color:blue;">\[보나링 에이]</mark>
-  * 임상적 단기 대증치료 시 25\~50 ㎎ bid\~qid&#x20;
+  * 임상적 단기 대증치료 시 25\~50 ㎎ bid\~qid
   * 국내 허가 용법은 성인 1회 50 ㎎, 1일 3\~4회이며 원칙적으로 1일 200 ㎎을 초과하지 않음
   * 녹내장·전립선비대 등 하부요로폐색성 질환 환자에는 투여 금기
 
@@ -469,7 +469,7 @@ flowchart TD
 
 ### <mark style="color:orange;">항구토제</mark>
 
-* metoclopramide&#x20;
+* metoclopramide
   * 단기 사용; 5\~10 ㎎ tid <mark style="color:blue;">\[맥페란]</mark>
   * 고령 환자와 파킨슨병 환자에서 추체외로 증상(파킨슨 유사 증상, 급성 근긴장이상, 지연성 이상운동증) 위험이 증가하므로 피하거나 가능한 단기간(5일 이내) 사용
   * 다른 진정성 전정억제제와의 불필요한 병용을 피함
@@ -507,7 +507,7 @@ flowchart TD
 
 * 편두통 치료제 : 편두통 관련 어지럼증에 적용
 * SSRI/SNRI : PPPD에서 임상적으로 사용되지만 위약대조 RCT 근거는 없으며 국내 허가 외 사용. 동반 불안·우울, 증상 부담과 환자 선호를 고려하여 개별적으로 시도 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md#selective-serotonin-reuptake-inhibitor-ssri))
-* steroid : 진단이 확실하고 금기가 없는 AUV 환자에서 증상 발현 3일 이내 단기 투여를 shared decision으로 고려할 수 있으나, 증상 및 장기 전정기능 개선 근거는 불확실함
+* steroid : 진단이 확실하고 금기가 없는 AUVP 환자에서 증상 발현 3일 이내 단기 투여를 shared decision으로 고려할 수 있으나, 증상 및 장기 전정기능 개선 근거는 불확실함
 
 ## <mark style="color:green;">질환별 치료</mark>
 
@@ -593,7 +593,7 @@ flowchart TD
 * 대개 수일\~수 주 내 자연 호전
 * 장기 지속 시 PPPD, 미인식 중추성 원인, 미해결 이석증(다른 반고리관) 등 감별 필요
 
-### <mark style="color:orange;">급성단측전정병증 (AUV; 전정신경염)</mark>
+### <mark style="color:orange;">급성단측전정병증 (AUVP; 전정신경염)</mark>
 
 * 전정 재활 훈련 : 가능한 조기 시작; 회복 상태에 따라 수주\~수개월 시행하고 정기 재평가
 
@@ -640,7 +640,7 @@ flowchart TD
   * 지속성 : 3개월 이상 대부분의 날 발생하는 어지럼, 부동감(unsteadiness) 또는 비회전성 현훈
     * 증상은 수시간 이상 지속될 수 있고 강도는 증감함
   * 악화 요인 : 직립 자세(standing/walking), 특정 방향과 상관없는 능동적/수동적 움직임, 복잡한 시각 자극(대형 마트, 영화관 등)
-  * 선행 사건 : 급성 전정질환(BPPV, AUV 등), 실신, 공황발작 등 어지럼을 유발하는 사건이 선행함
+  * 선행 사건 : 급성 전정질환(BPPV, AUVP 등), 실신, 공황발작 등 어지럼을 유발하는 사건이 선행함
   * 심각한 고통 : 증상으로 인한 일상생활 기능 장애 또는 심리적 위축 동반 (직장, 사회활동 회피 등)
   * 배제 진단 : 다른 질환으로 더 잘 설명되지 않음
 
@@ -740,9 +740,9 @@ flowchart TD
 > * 시술 후 특별한 자세 제한은 필요하지 않습니다 (일상 활동 가능).
 > * 재발 예방을 위해 Vit D 혈중 농도가 낮은 경우 보충제를 처방받으십시오.
 
-> **전정 재활 운동 (AUV·PPPD)**
+> **전정 재활 운동 (AUVP·PPPD)**
 >
-> * AUV에서는 어지럼이 완전히 없어질 때까지 기다리지 말고, 견딜 수 있는 경미한 증상 범위에서 조기에 운동을 시작하십시오. PPPD에서는 증상과 기능장애에 맞추어 운동을 개별화합니다.
+> * AUVP에서는 어지럼이 완전히 없어질 때까지 기다리지 말고, 견딜 수 있는 경미한 증상 범위에서 조기에 운동을 시작하십시오. PPPD에서는 증상과 기능장애에 맞추어 운동을 개별화합니다.
 > * 매일 꾸준히 시행하되 기간은 회복 상태에 따라 수주에서 수개월로 조절하고 정기적으로 재평가합니다.
 > * 시선 안정화 운동은 눈을 뜨고 표적을 선명하게 유지하면서 시행합니다. 눈 감기·회전 등 난이도 증가는 낙상 위험을 평가한 뒤 의료진의 지시에 따라 안전한 환경에서만 시행하십시오.
 
