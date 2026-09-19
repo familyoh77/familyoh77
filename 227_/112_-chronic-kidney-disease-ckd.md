@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 콩팥 질환의 원인과는 상관없이 콩팥 손상 또는 콩팥 기능의 감소가 ＞3개월 지속되는 상태
+* 콩팥 질환의 원인과는 상관없이 콩팥 구조·기능 이상이 3개월 이상 지속되고 건강에 영향을 주는 상태
   * 콩팥 손상 : 사구체여과율에 관계없이 구조적 또는 기능적 이상을 포함하며 ① 소변 검사 이상(알부민뇨 또는 적혈구, 백혈구 원주 등의 소변 침전물), ② 콩팥 조직 검사 이상(사구체, 세뇨관간질, 혈관의 병리 소견), ③ 영상 검사 이상(초음파, CT 검사 등), ④ 콩팥 이식 상태
   * 콩팥 기능 저하 : 사구체여과율(eGFR) ＜60 ㎖/min/1.73㎡가 3개월 이상 지속되는 상태
 * 신부전 (kidney failure) : KDIGO에서는 G5(eGFR ＜15)와 동의어로 사용하되, 투석·이식 등 신대체요법(KRT)이 필요한지 여부는 별도로 명시함
@@ -14,7 +14,7 @@
 
 #### <mark style="color:$primary;">CKD 예후 Heat Map (G × A 병기)</mark>
 
-<table><thead><tr><th width="130">G 단계</th><th width="150">A1 (＜30 ㎎/g)</th><th width="164.2857666015625">A2 (30~300 ㎎/g)</th><th>A3 (＞300 ㎎/g)</th></tr></thead><tbody><tr><td>G1 (≥90)</td><td>🟢 저위험</td><td>🟡 중등도 위험</td><td>🟠 고위험</td></tr><tr><td>G2 (60~89)</td><td>🟢 저위험</td><td>🟡 중등도 위험</td><td>🟠 고위험</td></tr><tr><td>G3a (45~59)</td><td>🟡 중등도 위험</td><td>🟠 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G3b (30~44)</td><td>🟠 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G4 (15~29)</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G5 (＜15)</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr></tbody></table>
+<table><thead><tr><th width="130">G 단계</th><th width="150">A1 (＜30 ㎎/g)</th><th width="164.2857666015625">A2 (30~299 ㎎/g)</th><th>A3 (≥300 ㎎/g)</th></tr></thead><tbody><tr><td>G1 (≥90)</td><td>🟢 저위험</td><td>🟡 중등도 위험</td><td>🟠 고위험</td></tr><tr><td>G2 (60~89)</td><td>🟢 저위험</td><td>🟡 중등도 위험</td><td>🟠 고위험</td></tr><tr><td>G3a (45~59)</td><td>🟡 중등도 위험</td><td>🟠 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G3b (30~44)</td><td>🟠 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G4 (15~29)</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr><tr><td>G5 (＜15)</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td><td>🔴 매우 고위험</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD</mark></em></p>
 
@@ -33,11 +33,11 @@ _✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심�
 
 **체액·전해질·산-염기 이상** - 가장 흔하며 임상적으로 우선 확인
 
-* Na 저류(renin 과다 생성, 핍뇨) 또는 Na 소모(Na diuresis, tubular damage)
-* 고혈압, 부종, 호흡 곤란(volume overload, renin 과다 생성)
+* Na·수분 배설 저하로 인한 체액 과다; 일부 세뇨관간질 질환에서는 Na 소실 가능
+* 고혈압, 부종, 호흡 곤란(volume overload, RAAS 활성화 등)
 * hyperkalemia(GFR 감소, 대사성 산증, K 과다 섭취, hyporeninemic hypoaldosteronism)
 * acidosis(ammonia 합성 감소, bicarbonate 재흡수 장애, acid 순 배설 감소)
-* 소변 농축 결손, 배뇨 횟수 변화(핍뇨 or 다뇨), 야뇨, 혈뇨(solute diuresis, tubular damage)
+* 소변 농축 결손, 배뇨 횟수 변화(핍뇨 또는 다뇨), 야뇨; 원인 질환에 따라 혈뇨·단백뇨 동반
 
 **요독증 및 전신 증상**
 
@@ -54,24 +54,24 @@ _✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심�
 
 **대사·내분비 이상**
 
-* 신성 골형성장애(25(OH)D 생성 장애, hyperphosphatemia, hypocalcemia, 2ndary hyperparathyroidism)
+* 신성 골형성장애(1,25(OH)₂D 생성 감소, hyperphosphatemia, hypocalcemia, 2ndary hyperparathyroidism)
 * 당 불내성 및 인슐린 저항성
 * 고지혈증(plasma lipoprotein lipase 활성 감소)
 
 **신경·정신 증상**
 
-* 신경학적 증상(예: 피로, 집중력/기억력 저하, 두통, 졸림, 발작, 말초신경병증, asterixis, claudication, restless legs)(요독증, Al 독성, 고혈압)
+* 신경학적 증상(예: 피로, 집중력/기억력 저하, 두통, 졸림, 발작, 말초신경병증, asterixis, restless legs)(요독증, 전해질 이상, 고혈압 등)
 * 우울, 불안, 스트레스
 
 **소화기 증상**
 
 * GI 증상(예: feeding intolerance, 복통, 구역/구토)(위장관 운동 저하 및 요독증, 전해질 불균형, 산도 이상, 중독 물질 누적, 체액 과부하)
 
-✽ Stage 1\~3에서는 뚜렷한 증상 없이 비특이적이거나 경미한 소견(예: A2 수준의 알부민뇨(중등도 증가), 경도의 혈압 상승)만 있는 경우가 많으며, 위 증상들은 대개 stage 4\~5에서 뚜렷해짐 - 선별 검사 없이는 진행 후에야 발견되는 경우가 많음
+✽ G1\~G3에서는 뚜렷한 증상 없이 비특이적이거나 경미한 소견(예: A2 수준의 알부민뇨, 경도의 혈압 상승)만 있는 경우가 많으며, 위 증상들은 대개 G4\~G5에서 뚜렷해짐 - 선별 검사 없이는 진행 후에야 발견되는 경우가 많음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉시 조치 필요**</mark>
 
 * 수일\~수주 내 급격한 s-Cr 상승 또는 eGFR 감소 → 급성 신손상
 * 중증 고칼륨혈증(K ≥6.5 mEq/L) 또는 심전도 이상(peaked T wave, widened QRS 등) 동반 고칼륨혈증
@@ -80,52 +80,55 @@ _✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심�
 * 흉막성 흉통(누우면 악화, 앉아서 앞으로 숙이면 완화) 또는 심낭 마찰음 → 요독성 심낭염
 * Kussmaul 호흡(깊고 빠른 호흡) 또는 원인 불명의 심한 무기력·구역 → 중증 대사성 산증
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* Stage 4, 5 신규 발견 (eGFR ＜30)
+* G5 신규 발견 또는 G4에서 급격한 악화·요독 증상 동반
 * 육안적 혈뇨
 * 단백뇨 ＞1 g/24시간 또는 임의뇨 Prot/Cr ratio ＞1
 * 약물 병용 요법에도 조절되지 않는 불응성 고혈압
 * 급격한 사구체여과율 감소 (예: 이전 검사 대비 단기간 내 뚜렷한 저하 추세)
 * 전신 질환 또는 유전 질환이 의심되는 소견 동반 (예: SLE, ANCA 관련 혈관염 시사 소견)
 * 갑자기 발생한 신증후군 (nephrotic syndrome, 심한 단백뇨 + 저알부민혈증 + 부종)
-* 산-염기 대사 및 전해질 이상
+* 지속되거나 진행하는 산-염기 및 전해질 이상
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* Stage 3 중 치료되지 않는 빈혈(Hb ＜11 g/㎗) 지속
-* Vit D 치료에도 지속되는 이차성 부갑상선기능항진증 (iPTH ＞70 pg/㎖)
+* G3 이상에서 원인 평가·교정 후에도 빈혈이 지속되거나 진행하는 경우
+* 칼슘·인 이상과 Vit D 결핍 등 교정 가능한 인자를 교정했음에도 PTH가 지속적으로 상승하거나 점진적으로 증가하는 경우
+* 안정된 G4 신규 발견(eGFR 15\~29) - 수일 내 신장내과 의뢰 계획
 * 현미경적 혈뇨 환자에서 콩팥 기능 저하 (eGFR ＜60) 또는 단백뇨 (＞0.5 g/d) 동반
 
 ✽ 신장 전문의 진료 이후 치료 계획이 수립된 환자는 1차 의료기관에서 정기적인 추적을 담당할 수 있음
 
-✽ 정량적 위험 예측 도구인 KFRE([Kidney Failure Risk Equation](https://www.mdcalc.com/calc/10045/kidney-failure-risk-calculator)) - 연령, 성별, eGFR, uACR로 산출 - 를 함께 활용하면 도움이 됨: 5년 신부전 위험도 3\~5% 이상을 위 기준과 함께 신장내과 의뢰 여부 판단에 참고할 수 있음\[KDIGO]. Stage 3 이상에서 사용 가능하며, eGFR ＞60인 경우에는 적용하지 않음
+✽ 정량적 위험 예측 도구인 KFRE([Kidney Failure Risk Equation](https://www.mdcalc.com/calc/10045/kidney-failure-risk-calculator)) - 연령, 성별, eGFR, uACR로 산출 - 를 함께 활용하면 도움이 됨: G3\~G5에서 5년 신부전 위험도 3\~5% 이상은 신장내과 의뢰, 2년 위험도 ＞10%는 다학제 관리, ＞40%는 투석 방식 교육·혈관통로·이식 준비 시점 판단에 참고\[KDIGO]. G1\~G2에는 적용하지 않음
 
 ## <mark style="color:green;">진단</mark>
 
 * 선별 검사 : 위험 인자가 있는 경우 혈압, eGFR, 소변 검사 시행
-  * 소변 검사 : 임의뇨 Alb/Cr ratio(필요시u-Prot/Cr ratio로 대치), 소변 침전물, 소변 시험지봉을 이용한 RBC 및 WBC 검사
+  * 소변 검사 : uACR(필요시 uPCR 병용), 소변 침전물, 소변 시험지봉을 이용한 RBC 및 WBC 검사
+  * 무작위뇨 uACR ≥30 ㎎/g이면 가능하면 첫 아침 중간뇨로 재확인
+* 한 번의 eGFR 저하·알부민뇨만으로 만성도를 단정하지 않음. 과거 검사·영상·병리·기저 질환을 검토하고, 필요시 3개월 전후 반복 검사로 CKD를 확인함. 단, 임상적으로 CKD 가능성이 높으면 확진을 기다리느라 신장 보호 치료를 지연하지 않음
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
-* BUN, Cr; eGFR 산출(CKD-EPI 공식 권장) (☞ [사구체여과율](109_.md#gfr))
+* BUN, Cr; 검증된 공식으로 eGFRcr 산출. cystatin C를 이용할 수 있으면 eGFRcr-cys로 G 병기를 확인하고, 근육량 이상·노쇠·절단·간경변 등에서 치료 결정에 정확한 GFR이 중요하면 eGFRcr-cys 또는 측정 GFR을 고려 (☞ [사구체여과율](109_.md#gfr))
 * 소변 검사 : U/A(시험지봉), u-ACR(다량의 단백뇨에서는 u-PCR을 병용할 수 있음), 소변 침사 검사
 * 혈청 전해질 : Na, K(↑), Cl, bicarbonate(↓), Ca(↓), P(↑), Glc(↑), uric acid(↑)
-* stage 3a 이상에서 Ca, P, PTH, ALP, 25(OH)D 검사 고려
-* 선택적 검사 : s-/u-immunoelectrophoresis(multiple myeloma), s-free light chains(monoclonal gammopathy), antinuclear Ab(SLE)
+* G3a 이상에서 Ca, P, PTH, ALP, 25(OH)D 검사 고려
+* 선택적 검사 : 임상적 의심에 따라 혈청·소변 단백전기영동 및 면역고정검사, 혈청 free light chain(monoclonal gammopathy), ANA·보체·ANCA·anti-GBM Ab, B형·C형간염 및 HIV 검사 등
 
 #### <mark style="color:$primary;">CKD 표식자로서의 단백뇨 및 소변 침사 검사 이상의 해석</mark>
 
-<table data-header-hidden data-search="false"><thead><tr><th width="92.00006103515625"></th><th width="66.3809814453125"></th><th width="66.09527587890625"></th><th width="65.6190185546875"></th><th width="83.333251953125"></th><th width="324.07965087890625"></th></tr></thead><tbody><tr><td><strong>RBC</strong></td><td><strong>RBC 원주</strong></td><td><strong>WBC</strong></td><td><strong>WBC 원주</strong></td><td><strong>uPCR*</strong></td><td><strong>관련 신장병</strong></td></tr><tr><td>+ (dys-morphic)</td><td>+</td><td></td><td></td><td></td><td>증식성 사구체신염 또는 유전성 신장병</td></tr><tr><td>+ (dys-morphic)</td><td>-</td><td></td><td></td><td></td><td>유전성 신장병 또는 미세혈관병</td></tr><tr><td>±</td><td>-</td><td>+</td><td>+</td><td>200~<br>1,000 </td><td>세뇨관간질염</td></tr><tr><td>+ (iso-morphic)</td><td>-</td><td></td><td></td><td>＜200</td><td>신장을 제외한 요로계 병변</td></tr><tr><td>-</td><td>-</td><td></td><td></td><td>＞1,000</td><td>당뇨병콩팥병증, 비염증성 사구체 질환</td></tr><tr><td>-</td><td>-</td><td></td><td></td><td>200~<br>1,000</td><td>비염증성 사구체 질환, 비염증성 세뇨관간질성 질환, 중간 크기 혈관을 침범하는 혈관염</td></tr></tbody></table>
+<table><thead><tr><th>소변 침사 소견</th><th>주요 해석</th><th>주의점</th></tr></thead><tbody><tr><td>RBC 원주 또는 현저한 dysmorphic RBC</td><td>사구체성 혈뇨·사구체신염 시사</td><td>RBC 원주가 없다고 사구체 질환을 배제할 수 없음</td></tr><tr><td>WBC 원주</td><td>세뇨관간질염·신우신염 등 시사</td><td>증상, 배양검사, 약물 노출과 함께 해석</td></tr><tr><td>지방원주·oval fat body</td><td>신증후군성 단백뇨 시사</td><td>uACR/uPCR 및 혈청 albumin 확인</td></tr><tr><td>과립원주·muddy brown cast</td><td>급성 세뇨관 손상 시사</td><td>AKI 경과와 함께 평가</td></tr><tr><td>주로 isomorphic RBC</td><td>요로계 출혈 가능성</td><td>단독 소견으로 출혈 위치를 확정하거나 사구체 질환을 배제하지 않음</td></tr></tbody></table>
 
-_\*임의뇨 Prot/Cr ratio (㎎/g)_
+_✽uACR/uPCR 수치와 침사 소견은 원인 질환을 확정하지 않으므로 임상 경과·혈청검사·영상검사와 함께 해석_
 
 ### <mark style="color:orange;">기타 검사</mark>
 
-* 신장 초음파, 복부 X선 검사
-* 혈관 석회화 검사 : stage 3 이상 환자에서 CT, 복부 측면 X선, 심장초음파 고려
-* 골밀도 검사 : 골다공증 위험이 있는 stage 3 이상 환자에서 BMD 고려
-* 조직 검사 : 원인 미상의 급성 신 질환 시 고려
+* 신장 초음파 : 신장 크기·피질 두께·폐쇄·낭성 질환·구조 이상 평가가 필요한 경우 시행; 복부 X선은 결석 등 적응증이 있을 때 고려
+* 혈관·판막 석회화 검사 : CKD-MBD 평가 및 치료 결정에 영향을 줄 때 복부 측면 X선, 심장초음파 등을 선택적으로 고려; 선별 목적의 CT를 일률적으로 시행하지 않음
+* 골밀도 검사 : 골다공증·골절 위험이 있고 결과가 치료 결정에 영향을 줄 때 고려
+* 조직 검사 : 급성·만성 여부와 관계없이 원인 규명 또는 치료 결정에 도움이 될 때 고려
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -137,27 +140,29 @@ _\*임의뇨 Prot/Cr ratio (㎎/g)_
 
 ### <mark style="color:orange;">추적 관찰</mark>
 
-* 모든 CKD 환자에서 혈압, eGFR, 단백뇨 추적 관찰
-* Stage 1, 2에서는 CKD 원인 질환 조절 및 악화 요인 감시; stage 3 이후부터는 빈혈, 골대사(부갑상선호르몬, 칼슘, 인), 전해질 이상, 이상지질혈증 및 심혈관계 질환 등 합병증 관찰
+* 모든 CKD 환자에서 혈압, eGFR, uACR을 최소 연 1회 추적하고, 진행 위험과 치료 변경 여부에 따라 더 자주 검사
+* G1, G2에서는 CKD 원인 질환 조절 및 악화 요인 감시; G3 이후부터는 빈혈, 골대사(부갑상선호르몬, 칼슘, 인), 전해질 이상 및 심혈관계 질환 등 합병증 관찰
 * 아래 표는 G 병기(eGFR) 기준이며, KDIGO의 CGA 분류에서는 A 병기(알부민뇨)도 함께 고려 - 같은 G 병기라도 알부민뇨가 많을수록(A2, A3) 더 자주 추적함
+* 추적 eGFR이 이전보다 ＞20% 변하거나 uACR이 2배 이상 증가하면 검사 변동만으로 보기 어려우므로 원인 평가. RAAS 차단제·SGLT2 억제제 등 혈역학적 약물 시작 후 eGFR이 ＞30% 감소한 경우에도 평가
 
 #### <mark style="color:$primary;">CKD 단계 및 eGFR 측정 간격</mark>
 
-<table><thead><tr><th width="80.4761962890625">Stage</th><th width="123.33331298828125">eGFR</th><th width="146.66668701171875">설명</th><th width="253.3333740234375">치료 계획</th><th>측정 간격</th></tr></thead><tbody><tr><td>1</td><td>≥90</td><td>정상 또는 높음</td><td>동반 질환 치료, 심혈관 질환 및 위험 인자 관리</td><td>매년</td></tr><tr><td>2</td><td>60~89</td><td>경도 감소</td><td>진행 정도 검사</td><td>매년</td></tr><tr><td>3a</td><td>45~59</td><td>경도~중등도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>3b</td><td>30~44</td><td>중등도~고도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>4</td><td>15~29</td><td>고도 감소</td><td>신장 대체 요법 준비</td><td>1~3개월</td></tr><tr><td>5</td><td>＜15 (or 투석)</td><td>신부전</td><td>신장 대체 요법(요독 증상 발생 시)</td><td>6주</td></tr></tbody></table>
+<table><thead><tr><th width="80.4761962890625">G 병기</th><th width="123.33331298828125">eGFR</th><th width="146.66668701171875">설명</th><th width="253.3333740234375">치료 계획</th><th>일반적 측정 간격*</th></tr></thead><tbody><tr><td>G1</td><td>≥90</td><td>정상 또는 높음</td><td>원인·심혈관 위험 인자 관리</td><td>매년</td></tr><tr><td>G2</td><td>60~89</td><td>경도 감소</td><td>진행 여부 평가</td><td>매년</td></tr><tr><td>G3a</td><td>45~59</td><td>경도~중등도 감소</td><td>합병증 평가 및 치료</td><td>3~12개월</td></tr><tr><td>G3b</td><td>30~44</td><td>중등도~고도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>G4</td><td>15~29</td><td>고도 감소</td><td>KFRE에 따라 다학제 관리·KRT 준비</td><td>1~3개월</td></tr><tr><td>G5</td><td>＜15</td><td>신부전</td><td>증상·검사 이상·선호를 종합해 KRT 또는 보존콩팥관리</td><td>약 1~3개월 또는 임상 상태에 따라</td></tr></tbody></table>
 
-<p align="center"><em><mark style="color:$info;">Ref. KDOQI Guidelines, 2017;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
+_*A 병기, 진행 속도, 합병증, 치료 변경에 따라 단축 또는 연장_
+
+<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
 #### <mark style="color:$primary;">CKD 단계에 따른 검사 종목별 추적 관찰 권고 기간</mark>
 
-<table><thead><tr><th width="104.2857666015625">CKD 단계</th><th width="130">Cr, Hb, 지질¹⁾</th><th width="127.142822265625">uPCR²⁾</th><th width="110">iPTH</th><th>칼슘, 인</th></tr></thead><tbody><tr><td>stage 1, 2</td><td>매년</td><td>매년</td><td>-</td><td>-</td></tr><tr><td>stage 3</td><td>3~6개월</td><td>3~6개월</td><td>12개월</td><td>6~12개월</td></tr><tr><td>stage 4</td><td>1~3개월</td><td>1~3개월</td><td>6~12개월</td><td>3~6개월</td></tr></tbody></table>
+<table><thead><tr><th width="104.2857666015625">CKD 단계</th><th width="130">Cr/eGFR, Hb</th><th width="127.142822265625">uACR*</th><th width="110">iPTH</th><th>칼슘, 인</th></tr></thead><tbody><tr><td>G1, G2</td><td>매년</td><td>매년</td><td>임상적 적응증이 있을 때</td><td>임상적 적응증이 있을 때</td></tr><tr><td>G3</td><td>3~12개월</td><td>3~12개월</td><td>초기값과 변화 추세에 따라</td><td>6~12개월 또는 변화 추세에 따라</td></tr><tr><td>G4</td><td>1~3개월</td><td>1~3개월</td><td>변화 추세와 치료 여부에 따라</td><td>3~6개월 또는 변화 추세에 따라</td></tr><tr><td>G5</td><td>1~3개월 또는 임상 상태에 따라</td><td>임상적 필요에 따라</td><td>변화 추세와 치료 여부에 따라</td><td>1~3개월 또는 임상 상태에 따라</td></tr></tbody></table>
 
-_¹⁾ 지질 검사 항목: 총콜레스테롤, LDL-C, HDL-C, 중성지방_\
-_²⁾ 단백뇨 vs 알부민뇨: 알부민뇨가 예후와 더 밀접하지만, 비용 문제로 단백뇨 측정이 더 흔함_
+_*알부민뇨가 예후 평가의 표준이며, 비알부민 단백뇨가 의심되거나 다량 단백뇨에서는 uPCR을 병용_
 
 * 모든 CKD 환자는 내원 시마다 혈압 측정
 * 추적 관찰 기간은 환자의 동반 질환이나 개별 상태에 따라 단축될 수 있음
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022. 표 3.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
 ***
 
@@ -168,7 +173,7 @@ graph TD
     B -- 예 --> D[CKD 확진: G/A 병기 분류]
     D --> E[Red Flag 해당?]
     E -- 예 --> F[응급 또는 조기 신장내과 의뢰]
-    E -- 아니오 --> G[Stage 4-5 또는 A3 고위험군?]
+    E -- 아니오 --> G[G4-G5 또는 A3 고위험군?]
     G -- 예 --> F
     G -- 아니오 --> H[1차 의료 관리: 원인 질환·혈압·혈당·단백뇨 조절]
     H --> I[3-6개월 추적 후 진행 확인?]
@@ -194,26 +199,26 @@ style F fill:#ffcdd2,stroke:#c62828
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 관련 인자 (특히 단백뇨) 및 동반 질환 (특히 당뇨병, 고혈압) 관리가 핵심
-* RAAS 차단제 + SGLT2 억제제 (± 비스테로이드성 MRA)의 다각적 병용 요법이 현재의 표준\[KDIGO] - 신장 보호 효과가 각각 상가적으로 작용
+* 적응증을 만족하는 경우 RAAS 차단제와 SGLT2 억제제를 병용하고, 제2형 당뇨병·지속성 알부민뇨·정상 K를 동반하면 비스테로이드성 MRA 추가를 고려\[KDIGO]
 * 약물 사용 주의 : 불필요한 약물, 특히 한약·생약제는 신장 독성이 명확히 입증되지 않았더라도 삼가는 것이 안전함
 
 #### <mark style="color:$primary;">단계별 접근</mark>
 
 1. 원인 질환 및 위험 인자 조절
 2. RAAS 차단제로 혈압·단백뇨 관리
-3. SGLT2 억제제 병용 고려(RAAS 차단제 이후 순차 추가가 아니라, 적응증을 만족하면 초기부터 병용을 적극 고려
+3. SGLT2 억제제 병용 고려(RAAS 차단제 이후 순차 추가만을 고집하지 않고, 적응증을 만족하면 초기부터 병용을 적극 고려)
 4. (당뇨병성 CKD의 경우) 비스테로이드성 MRA 추가 (SGLT2 억제제와 동시 병용도 가능)
 5. 합병증 (빈혈, 골대사이상, 고칼륨혈증, 요독증) 관리
-6. Stage 4\~5에서 신장 대체 요법 준비
+6. G4\~G5에서 신장 대체 요법 준비
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 싱겁게 먹고 단백질 섭취를 줄인다.
+* 싱겁게 먹고 단백질은 CKD 병기·영양 상태·투석 여부에 맞추어 섭취한다.
 * 칼륨이 많은 음식의 지나친 섭취를 피한다(고칼륨혈증 위험이 있는 경우에 한함).
 * 콩팥의 상태에 따라 수분을 적절히 섭취한다.
 * 금연하며 술은 하루에 한두 잔 이하로 줄인다.
 * 적정 체중을 유지한다.
-* 주 3일 이상, 30분\~1시간/일 정도 운동한다 (유산소 운동과 저항성 운동 병행 - eGFR, Cr, 혈압 개선 효과 확인).
+* 심혈관·신체 능력에 맞추어 중등도 신체활동을 주당 누적 150분 이상 시행하고 좌식 시간을 줄인다. 유산소 운동과 저항성 운동을 병행할 수 있음.
 * 고혈압, 당뇨병을 적절히 조절한다.
 * 정기적으로 소변 단백질과 혈액 크레아티닌을 검사한다.
 * 약물은 꼭 필요한 약만, 콩팥 기능에 맞게 조절하여 복용한다.
@@ -225,17 +230,17 @@ style F fill:#ffcdd2,stroke:#c62828
 
 #### <mark style="color:$primary;">단백질 섭취</mark>
 
-* 목표 단백뇨 : ＜1 g/d
-* 단백질 섭취 제한 : 0.8 g/㎏/d
-  * CKD 초기에서의 단백질 섭취 제한 필요성은 논란
-  * stage 3, 4 시 0.6\~0.8 g/㎏/d, stage 5 또는 투석 시 1.2 g/㎏/d 섭취
-* 단백질 섭취의 50% 이상을 식물성 단백질 (과일, 야채, 견과류, 콩류, 씨앗 등)로 섭취 권고
+* 비투석 G3\~G5 성인 : 일반적으로 0.8 g/㎏/d 유지
+* 진행 위험이 있는 성인 CKD에서 고단백 섭취(＞1.3 g/㎏/d)는 피함
+* 투석 환자 : 투석 중 단백질 손실을 고려하여 대개 1.0\~1.2 g/㎏/d가 필요하며 투석 방식·영양 상태에 따라 조정
+* 식물성 식품 비중을 높이는 식사 패턴을 권고하되, 고칼륨혈증·고인산혈증·영양 상태에 따라 개별화
 * 위 수치는 일반적 기준이며, 고령·영양실조 위험군에서는 개별 영양 상태에 따라 더 유연하게 조정해야 함 (과도한 단백질 제한은 근감소·영양실조 위험을 높일 수 있음)
-* 당뇨병성신증 환자에서 초기부터 엄격한 단백질 제한은 필요치 않으나 많은 섭취 (＞1.5 g/㎏/d)는 피함. 투석 환자나 진행된 당뇨병성 신증 환자는 영양실조 위험이 있으므로 더 높은 수준의 단백질 섭취가 필요할 수 있음
+* 매우 저단백 식이는 환자가 원하고 시행 능력이 있으며 신부전 위험이 높은 경우에 한해 신장 전문 영양사의 면밀한 감독하에 고려
 
 #### <mark style="color:$primary;">칼륨 섭취 관리</mark>
 
-* 고칼륨혈증의 위험이 있는 경우에만 K 섭취 제한 (무증상 CKD에서 일률적 제한은 불필요)
+* 고칼륨혈증 또는 그 위험이 있는 경우에만 K 섭취를 개별화하고, 변비·대사성 산증·약물 등 가역적 원인도 함께 교정(무증상 CKD에서 일률적 제한은 불필요)
+* 자연식품을 광범위하게 제한하기보다 칼륨 첨가물이 든 가공식품 등 생체이용률이 높은 칼륨 공급원을 먼저 확인
 
 **칼륨이 많은 음식**
 
@@ -248,49 +253,50 @@ style F fill:#ffcdd2,stroke:#c62828
 
 ## <mark style="color:green;">약물 치료 및 상황에 따른 대처</mark>
 
-#### <mark style="color:$primary;">RAAS 차단제 - 고혈압, 단백뇨</mark>&#x20;
+#### <mark style="color:$primary;">RAAS 차단제 - 고혈압, 단백뇨</mark>
 
-* 목표 혈압 : 내약 시 표준화된 진료실 혈압 측정 기준 수축기 혈압 ＜120 ㎜Hg 목표; 노쇠, 낙상 위험, 기대여명이 짧은 경우 등은 완화된 목표 적용 \[KDIGO]
-  * "표준화된 진료실 혈압 측정"이란 환자가 진료실에서 5분 이상 안정을 취한 뒤 자동혈압계로 측정한 값을 의미하며, 일상 진료에서 흔히 재는 수동 혈압(전통적 기준 130/80 ㎜Hg에 해당)보다 낮게 측정되는 경향이 있어 단순 비교 시 혼란이 있을 수 있음 (☞ [혈압측정법](../225_/095_-hypertension.md#undefined-8))
-  * 기존 국내 지침의 목표 단백뇨(-) 시＜140/90 ㎜Hg, 단백뇨(+) 시＜130/80 ㎜Hg에서 KDIGO 2024 개정으로 강화되었으므로, 개별 환자의 내약성·노쇠도를 함께 고려하여 적용
-* [ACEI or ARB](../225_/095_-hypertension.md#renin-angiotensin) : 1차 선택제; 항고혈압, 단백뇨 감소, 콩팥 기능 보호 효과; \[KDIGO] 비당뇨병성 CKD의 A3(중증 알부민뇨), 당뇨병성 CKD의 A2 이상(중등도 알부민뇨 이상)에서 ACEI or ARB 권고
-  * 저용량으로 시작, 단계적 증량
-  * 고칼륨혈증 주의; 급성 신 손상, 임신 시 삼가
+* 고혈압이 있는 성인 CKD 환자에서 내약 시 표준화된 진료실 혈압 측정 기준 수축기 혈압 ＜120 ㎜Hg 목표; 노쇠, 낙상·골절 위험, 기대여명이 매우 짧거나 증상성 기립성 저혈압이 있으면 완화된 목표 적용 \[KDIGO] (☞ [혈압측정법](../225_/095_-hypertension.md#undefined-8))
+* [ACEI or ARB](../225_/095_-hypertension.md#renin-angiotensin) : 비당뇨병성 CKD의 A3에서는 권고, A2에서는 사용을 제안하며, 당뇨병성 CKD의 A2\~A3에서 권고\[KDIGO]
+  * 근거가 확인된 최대 허가·내약 용량을 목표로 단계적 증량
+  * 시작 또는 증량 후 2\~4주 내 혈압, s-Cr, K 확인(기저 eGFR·K 및 임상 상태에 따라 더 일찍 검사)
+  * 4주 이내 s-Cr이 기저치보다 ＞30% 상승하면 탈수, NSAID, 이뇨제, 신동맥협착 등 가역적 원인을 평가한 뒤 감량·중단 여부 결정
+  * 치료 가능한 고칼륨혈증만으로 즉시 중단하지 않으며, 증상성 저혈압 또는 치료에도 조절되지 않는 고칼륨혈증에서는 감량·중단 고려; 임신 시 금기
 * [이뇨제](../225_/095_-hypertension.md#diuretics) : 필요시 ACEI 또는 ARB에 추가; 단백뇨(-) 및 당뇨(-) CKD 부종에 대하여 이뇨제 단독 투여 고려
-  * mineralocorticoid 차단제(예: spironolactone) : 단백뇨 감소에 유효
-  * thiazide : eGFR ≥30 시 허용
-  * loop diuretics : eGFR ＜30 시 권고
-* (non-DHP) [CCB ](../225_/095_-hypertension.md#calcium-channel-blocker-ccb): 혈압이 조절되지 않는 경우, 지속적인 s-Cr 상승이 있는 경우 고려
+  * steroidal MRA(예: spironolactone) : 저항성 고혈압·심부전 등 적응증이 있을 때 고려하되 고칼륨혈증과 가역적 eGFR 저하에 주의
+  * eGFR ＜30에서는 체액 조절을 위해 loop 이뇨제가 흔히 선호되지만, thiazide-like 이뇨제도 저항성 고혈압에서 효과가 있을 수 있어 일률적으로 배제하지 않음
+* [CCB](../225_/095_-hypertension.md#calcium-channel-blocker-ccb) : 혈압 목표에 도달하지 못할 때 추가; 알부민뇨가 있으면 RAAS 차단제를 우선하고, 필요시 non-DHP CCB를 고려
 
-#### <mark style="color:$primary;">SGLT2 억제제  - 신장 보호</mark>
+#### <mark style="color:$primary;">SGLT2 억제제 - 신장 보호</mark>
 
 * dapagliflozin, empagliflozin : 당뇨병 동반 여부와 무관하게 CKD 진행 지연 효과 (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
 * KDIGO 2024는 개별 약제보다 계열 효과(class effect)로 접근할 것을 권고
-* eGFR ＜20\~25 미만에서 신규 시작(initiation)은 일반적으로 권장되지 않음(제품별 허가사항 확인). 단, 이미 투여 중인 경우, 내약성이 양호하고 투석·이식(KRT)을 시작하기 전까지는 eGFR이 20 미만으로 떨어지더라도 중단 없이 지속(continuation) 투여를 권장 \[KDIGO]&#x20;
+* KDIGO는 eGFR ≥20 ㎖/min/1.73㎡이고 uACR ≥200 ㎎/g이거나, 심부전이 있는 성인 CKD에서 알부민뇨와 관계없이 SGLT2 억제제를 권고. eGFR 20\~45이고 uACR ＜200 ㎎/g에서도 사용을 고려할 수 있음. 국내 신규 시작은 제품별 허가·급여 기준 확인
+* 이미 투여 중인 경우 내약성이 양호하면 eGFR이 20 미만으로 떨어지더라도 투석·이식(KRT)을 시작하기 전까지 지속 가능\[KDIGO]
 * 부작용 : 생식기 진균 감염, 드물게 정상혈당 당뇨병성 케톤산증(euglycemic DKA) - 급성 질환·수술 전 sick-day rule 교육 필요
 * 급여 기준 : [dapagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031)  <mark style="color:blue;">\[다파엔]</mark>, [empagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251024\&sno=1\&mtgMtrRegSno=0002)  <mark style="color:blue;">\[자디앙]</mark>
 
 #### <mark style="color:$primary;">비스테로이드성 MRA - 당뇨병성 신장병</mark>
 
 * finerenone : 제2형 당뇨병을 동반한 성인 CKD 환자에서 ACEI/ARB 표준 치료에 추가 시 신장 및 심혈관 복합 사건 위험 감소 <mark style="color:blue;">\[케렌디아]</mark>
-* 용량 : 초기 용량은 eGFR에 따라 결정; 고칼륨혈증 및 eGFR 저하 여부를 정기 모니터링
+* 대상 : 제2형 당뇨병, eGFR ≥25, 정상 K이고 최대 내약 용량의 ACEI/ARB에도 uACR ＞30 ㎎/g이 지속되는 성인
+* 용량 : 시작 전 K와 eGFR을 확인하고 초기 용량은 eGFR에 따라 결정; 시작·증량 후 K 및 eGFR 정기 모니터링
 * SGLT2 억제제와 작용 기전이 달라(항염증·항섬유화) 병용 가능; CONFIDENCE trial(2025)에서 SGLT2 억제제와의 동시 병용이 각 단독 요법보다 알부민뇨를 더 크게 감소시켰고, 병용군의 고칼륨혈증 발생률이 finerenone 단독군보다 낮게 보고됨 - 다만 K 및 eGFR은 병용 시에도 정기 모니터링 필요
 * [급여 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240201\&sno=4\&mtgMtrRegSno=0002) : 만성콩팥병 환자에서 ACEI/ARB을 투여 중이며, ① uACR ＞300 ㎎/g 또는 요 시험지봉 검사 1+ 이상, ② eGFR 25\~＜75 mL/min/1.73㎡ 조건을 모두 만족할 때 병용 급여
 
 #### <mark style="color:$primary;">혈당 관리</mark>
 
-* 공복 혈당 90\~130 ㎎/㎗, 당화혈색소 ＜7% 유지 (개별화 가능)
-* [metformin](../226_/101_.md#metformin-mtf) : 현재는 eGFR 기반으로 용량을 조절하며, 혈청 creatinine 단독 기준은 사용하지 않음 (예: eGFR 30\~45에서 감량, eGFR ＜30에서 중단 고려)
+* 당화혈색소 목표는 대체로 ＜6.5\~＜8.0% 범위에서 연령, 동반질환, 저혈당 위험, 기대여명 및 치료 부담을 고려해 개별화
+* [metformin](../226_/101_.md#metformin-mtf) : 혈청 creatinine 단독 기준이 아니라 eGFR에 따라 조절. eGFR 30\~44에서는 감량하고, eGFR ＜30에서는 중단/사용 금기
 * SGLT2 억제제, GLP-1 수용체 작용제는 혈당 조절과 별개로 신장·심혈관 보호 효과가 있어 당뇨병 동반 CKD에서 우선 고려되는 계열임
 * [GLP-1 수용체 작용제](../226_/101_.md#glp-1-ra-glucagon-like-peptide-1-receptor-agonist)(특히 semaglutide)는 단순 혈당 조절제를 넘어, metformin + SGLT2 억제제 투여 후에도 목표 혈당에 도달하지 못하거나 알부민뇨가 지속될 때 심혈관·신장 보호를 목적으로 추가할 수 있는 약제로 위상이 격상됨 - 당뇨병 동반 CKD 환자에서 신장 및 심혈관 복합 사건 위험 감소
 
 #### <mark style="color:$primary;">고칼륨혈증 관리</mark>
 
-* K, P : 정상 범위 유지
+* K를 안전한 범위로 유지
 * 저칼륨 식이, 이뇨제 조정이 1차 조치이지만 RAAS 차단제·SGLT2 억제제·비스테로이드성 MRA 등 신장 보호 약물을 고칼륨혈증을 이유로 감량·중단하기보다 칼륨 결합제 병용으로 최적 용량을 유지하는 전략이 권고됨 \[KDIGO 2024; 대한신장학회 2025 고혈압·콩팥병 진료지침]
 * 칼륨 결합제
-  * polystyrene sulfonate calcium : 오래 사용되어 온 1차 선택제; 경구 또는 직장 투여 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">카리메트</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0720A0460)<mark style="color:blue;">]</mark>
-  * sodium zirconium cyclosilicate(SZC) : 국내 2025년 도입; 만성 관리 목적(RAAS 차단제 유지)에 우선 고려 가능하나 효과 발현까지 다소 시간이 걸려, 생명을 위협하는 급성 고칼륨혈증에는 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 병용해야 함 \[KDIGO] <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로켈마</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2025120100002)<mark style="color:blue;">]</mark>
+  * polystyrene sulfonate calcium : 오래 사용된 경구·직장 투여 제제. 위장관 부작용과 전해질 이상을 고려하며 환자 상태·급여·가용성에 따라 선택 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">카리메트</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0720A0460)<mark style="color:blue;">]</mark>
+  * sodium zirconium cyclosilicate(SZC) : RAAS 차단제 유지가 필요한 비응급 고칼륨혈증의 교정·유지에 고려. 혈청 K는 비교적 빠르게 감소할 수 있지만 생명을 위협하는 급성 고칼륨혈증의 단독 응급 치료제로 사용하지 말고 칼슘 정맥 주사·인슐린/포도당 등 표준 응급 치료와 병용해야 함 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">로켈마</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=2025120100002)<mark style="color:blue;">]</mark>
 
 #### <mark style="color:$primary;">신성 빈혈</mark>
 
@@ -301,9 +307,12 @@ style F fill:#ffcdd2,stroke:#c62828
   * ferritin
   * transferrin saturation(TSAT)
   * Vit B12, folate
-* 철분 : 철결핍빈혈로 진단된 경우, TSAT ≤30% & s-ferritin ≤500 ng/㎖ 시 투여 고려; 비투석 CKD 환자에서는 경구 철분제 투약을 우선 고려(1\~3개월간 시도)
-* erythropoietin-stimulating agent(ESA) : Hb ＜10 g/㎗ 시 투여 고려
-  * 조절 목표 : Hb 10\~11.5 g/㎗ (11.5 g/㎗ 초과로 올리지 않음)
+* 철분(KDIGO 2026)
+  * 비혈액투석 CKD : ferritin ＜100 ng/㎖이고 TSAT ＜40%, 또는 ferritin 100\~300 ng/㎖이고 TSAT ＜25%이면 투여 고려. 경구 또는 정맥 철분은 중증도·내약성·선호·비용에 따라 선택하며, 경구 철분에 반응이 없거나 불내성이면 정맥 철분 고려
+  * 혈액투석 CKD : ferritin ≤500 ng/㎖이고 TSAT ≤30%이면 투여 고려
+  * ferritin ＞700 ng/㎖ 또는 TSAT ≥40%이면 일상적 철분 투여 보류; 활동성 감염 중에는 일시 중단 고려
+* erythropoiesis-stimulating agent(ESA) : 교정 가능한 원인을 치료한 뒤 비투석 환자에서는 빈혈 증상·수혈 회피 필요성·심혈관 및 혈전 위험을 고려해 시작 시점을 개별화(대개 Hb 8.5\~10 g/㎗ 범위)
+  * 조절 목표 : 대개 Hb 10\~11.5 g/㎗이며 11.5 g/㎗ 이상으로 유지하지 않음
   * 과도한 교정은 고혈압 악화, 위장관 장애(경구 철분제), 심부전/뇌졸중(ESA) 위험을 높일 수 있음
 * 제제 : ferrous sulfate, ESA(epoetin alfa, darbepoetin alfa 등) (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
 
@@ -316,6 +325,11 @@ style F fill:#ffcdd2,stroke:#c62828
   * 주의/금기 : 소화관 궤양, 식도성 정맥류, 소화관 통과 장애
   * 용법 : 2 g tid <mark style="color:blue;">\[</mark>[<mark style="color:blue;">크레메진</mark>](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AOOOOO5006)<mark style="color:blue;">]</mark> ([급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220601\&sno=5\&mtgMtrRegSno=0005) : 투석 전 진행성 CKD 환자 중 s-Cr 2\~5 ㎎/㎗인 환자)
 
+#### <mark style="color:$primary;">대사성 산증</mark>
+
+* 성인 CKD에서 혈청 bicarbonate ＜18 mmol/L 등 임상적으로 의미 있는 대사성 산증이 있으면 식이 조정 및 경구 알칼리 치료 고려
+* 치료 중 bicarbonate 과교정, 혈압 상승, 체액 과다 및 K 변화를 감시
+
 #### <mark style="color:$primary;">CKD-MBD (mineral bone disorder)</mark>
 
 * PTH 상승 시 교정 가능한 인자(칼슘, 인, Vit D 부족) 우선 평가
@@ -326,37 +340,42 @@ style F fill:#ffcdd2,stroke:#c62828
 
 #### <mark style="color:$primary;">이상지질혈증</mark>
 
-* KDIGO는 CKD에서 특정 LDL-C 목표치를 제시하지 않으며, 심혈관 위험도에 기반한 statin 치료 여부 결정을 원칙으로 함 (☞ [이상지질혈증](../225_/099_-dyslipidemia.md))
+* KDIGO는 CKD에서 특정 LDL-C 목표치를 제시하지 않으며, 심혈관 위험도에 기반한 statin 치료 여부 결정을 원칙으로 함
+* 비투석·비이식 CKD에서 50세 이상은 G3a\~G5이면 statin 또는 statin/ezetimibe, G1\~G2이면 statin 치료 권고. 18\~49세는 ASCVD·당뇨병·관상동맥질환 위험에 따라 고려 (☞ [이상지질혈증](../225_/099_-dyslipidemia.md))
 
 #### <mark style="color:$primary;">신장 독성 약물 회피</mark>
 
-* 다른 약물 용량 조절 필요 (신기능에 따른 용량 조정 원칙 적용)
+* 처방 전 eGFR과 투석 여부를 확인하고, 직접 신독성 위험과 신기능별 용량 조절 필요성을 구분
 * 한약제(감초, aristolochic acid 함유제 등), 안전성이 확인되지 않은 건강 식품 회피
-* 신장 독성 약제 주의
-  * 항생제 : aminoglycosides, amphotericin B, cephalosporins, penicillins, beta-lactamase inhibitors, quinolones, rifampin, sulfonamides, vancomycin
-  * 항바이러스제 : acyclovir, adefovir, gancyclovir, atazanavir, indinavir, tenofovir
-  * 항암제 : alkylating agents, cisplatin, methotrexate, mitomycin, interferon-alpha, proteasome inhibitors, VEGF inhibitors, checkpoint inhibitors
-  * 진통해열제(NSAID, 고용량 aspirin), PPI(장기간 사용 시 CKD 위험 증가 가능성이 보고되어 있어 불필요한 장기 처방은 지양), 요오드화 조영제, allopurinol, gold Na thiomalate, lithium, quinine, Na phosphate, bisphosphonates(pamidronate, zoledronic acid), calcineurin 억제제(cyclosporine, tacrolimus), 이뇨제(loop diuretic, thiazides, triamterene)
-* 조영제 사용이 불가피한 경우 : 검사 전후 충분한 수액 공급, 최소 용량 사용, 신독성 약물 일시 중단 등 조영제 유발 급성 신손상 예방 조치 고려
+* 직접 신독성 또는 AKI 위험이 큰 약제 : NSAID, aminoglycoside, amphotericin B, cisplatin, calcineurin 억제제, lithium, 일부 항바이러스제(acyclovir, tenofovir 등), 고용량 methotrexate 등 - 가능한 대체하고 불가피하면 용량·기간 최소화 및 신기능·약물 농도 모니터링
+* 상황에 따라 간질성 신염·결정뇨·AKI를 일으킬 수 있는 약제 : PPI, 일부 β-lactam·sulfonamide, acyclovir 등 - 불필요한 장기 사용을 피하고 임상 소견 감시
+* 주로 신기능에 따른 감량 또는 투여 간격 조절이 필요한 약제 : 다수의 cephalosporin·penicillin·quinolone, vancomycin, gabapentin·pregabalin, allopurinol 등 - 이를 모두 신독성 약제로 간주하지 않음
+* 체액 감소·혈역학 변화로 AKI 위험을 높일 수 있는 약제 : 이뇨제, ACEI/ARB, SGLT2 억제제 등 - 탈수·급성 중증 질환·수술 전후에는 일시 중단 여부를 검토하고 회복 후 재시작 계획을 명시
+* 요오드화 조영제는 필요한 검사를 CKD만으로 포기하지 말고 AKI 위험을 개별 평가. 고위험 환자에서 금기가 없으면 등장성 수액, 최소 필요 용량, 동시 신독성 약물 조정 등을 고려하되 심부전·체액 과다 위험에 주의
 * 일반의약품(OTC, NSAID 포함)의 자가 복용을 피하도록 교육 - 처방전 없이 구입 가능한 진통제·감기약에도 신장에 부담을 줄 수 있는 성분이 포함될 수 있음
 
 ### <mark style="color:orange;">신대체요법(투석·이식) 환자 진료 시 유의사항</mark>
 
+#### <mark style="color:$primary;">투석 시작 및 신대체요법 준비</mark>
+
+* 투석은 eGFR 수치만으로 시작하지 않고 요독 증상·징후, 조절되지 않는 체액 과다·고칼륨혈증·산증, 영양 상태, 삶의 질, 환자 선호 및 검사 이상을 종합하여 결정. 실제 시작은 흔히 eGFR 5\~10 ㎖/min/1.73㎡ 범위이나 예외가 많음
+* eGFR ＜15\~20 ㎖/min/1.73㎡ 또는 2년 KRT 위험 ＞40%이면 선제적 이식·투석 방식 교육·혈관통로 준비를 고려
+
 #### <mark style="color:$primary;">고령 말기콩팥병 환자의 투석 유보·중단에 대한 이해</mark>
 
 * 투석을 직접 시행하지 않더라도, 고령 CKD 환자를 진료하는 1차 의료진은 아래 개념을 이해하고 있어야 환자·보호자 상담과 적절한 시점의 신장내과 의뢰에 도움이 된다.
-* **배경** : 85세 이상 고령 환자는 신기능과 무관하게 사망 위험이 말기신부전 발생 위험을 앞서는 것으로 알려져 있다. 75세 이상 초고령 환자의 10% 이상이 투석 시작 후 3개월 내 사망하며, 중증 동반질환이 있는 75\~80세 이상에서는 투석과 보존적 치료 간 생존율 차이가 뚜렷하지 않다는 보고가 있다(단, 연구마다 결과가 일관되지 않아 향후 대규모 전향적 연구가 필요함) \[대한신장학회 윤리위원회, 2024].
-* **보존콩팥관리(Conservative Kidney Management, CKM)** : 투석·이식 없이 질병 진행과 합병증을 지연시키면서 삶의 질 향상에 중점을 두는 콩팥지지의료(Kidney Supportive Care)를 말한다. CKM 선택이 곧 임박한 죽음을 의미하지 않으며, 대부분 수개월\~수년간 생존한다. CKD 5기 투석 전 관리, 투석 중단과는 구별되는 개념이다.
+* **배경** : 매우 고령이거나 중증 동반질환·노쇠가 있는 환자에서는 말기신부전 도달보다 다른 원인에 의한 사망 위험이 앞설 수 있고, 투석의 생존·기능·삶의 질 이득이 제한될 수 있다. 연구 결과는 환자 선택과 동반질환에 따라 달라 개별 예후 평가가 필요하다 \[대한신장학회 윤리위원회, 2024].
+* **보존콩팥관리(Conservative Kidney Management, CKM)** : 투석·이식 없이 질병 진행과 합병증을 지연시키면서 삶의 질 향상에 중점을 두는 콩팥지지의료(Kidney Supportive Care)를 말한다. CKM 선택이 곧 임박한 죽음을 의미하지 않으며 생존 경과는 잔여 신기능과 동반질환에 따라 다양하다. CKD 5기 투석 전 관리, 투석 중단과는 구별되는 개념이다.
 * **투석 유보를 고려할 수 있는 상황** : 투석 시작 후 기대 여명이 높지 않은 경우, 노쇠(frailty)로 전신 위약감이 심한 경우, 환자가 투석보다 보존적 치료를 원하는 경우
 * **노쇠·예후 평가 도구(외래에서 활용 가능)**
-  * Clinical Frailty Scale 등 노쇠 지표 - 투석 시작 환자의 약 67%에서 노쇠가 확인되며, 노쇠는 입원율·사망률을 약 2배 높임
+  * Clinical Frailty Scale 등 노쇠 지표 - 노쇠는 투석 환자의 입원·사망 위험 증가와 관련되므로 치료 부담과 기대 이득 평가에 활용
   * "Surprise question" : "이 환자가 1년 뒤 사망한다면 나는 놀랄 것인가?" - "아니요"로 답하게 되는 환자군은 대체로 고령·동반질환이 많고 사망률이 높음. 신장내과 의뢰 및 사전돌봄계획 논의 시점을 판단하는 데 참고할 수 있음
 * **투석 중인 고령 환자에서 중단을 고려할 수 있는 상황** : 의사결정능력이 있는 환자의 자발적 결정, 기대 여명이 짧은 경우, 기존에 심각한 기능적·인지적 장애가 있거나 투석 시작 후 악화된 경우, 투석 중 환자의 위험 행동으로 투석 자체가 위해가 되는 경우
 * **원칙** : 유보·중단 모두 환자(가능하면 가족·주 돌봄자 포함)와의 공유의사결정(Shared Decision-Making) 및 사전설명동의를 거쳐 결정하며, 결정 이후에도 언제든 철회할 수 있다. 결정 전에는 우울증·통증 등 가역적 요인을 먼저 교정한다.
 
 {% hint style="info" %}
 **법적·윤리적 위치** \[대한신장학회 윤리위원회, 2024]\
-투석 중단은 말기콩팥병의 자연 경과에 따라 사망에 이르는 것으로, 약물로 사망을 유도하는 안락사와는 다르며 연명의료결정법상 연명의료 중단에 해당한다. 투석 유보·중단 결정이 곧 치료 포기를 의미하지 않으며, 결정 이후에도 증상 관리를 포함한 콩팥지지의료가 지속된다. 임종 과정에 있는 유지투석 환자는 사전연명의료의향서·연명의료계획서 작성 여부를 확인하고 연명의료결정법의 적법한 절차에 따라 투석 중단을 이행한다. 투석 중단 후 평균 생존은 7\~10일이며, 요독성 가려움·수면장애·불안·통증 등 증상 관리가 중심이 된다. 실제 유보·중단 결정과 시행은 신장내과·완화의료팀 및 필요시 의료기관윤리위원회와의 협의를 통해 이루어진다.
+투석 중단은 말기콩팥병의 자연 경과에 따라 사망에 이르는 것으로 약물로 사망을 유도하는 안락사와는 다르며, 치료 포기를 의미하지 않는다. 임종 과정에 있는 유지투석 환자에서는 사전연명의료의향서·연명의료계획서 작성 여부를 확인하고 연명의료결정법의 적법한 절차에 따라 투석 중단을 이행한다. 임종 과정에 해당하지 않는 환자의 투석 유보·중단은 동일한 법정 절차가 자동 적용되는 것으로 단정하지 말고 신장내과·완화의료팀 및 필요시 의료기관윤리위원회와 협의한다. 결정 이후에도 증상 관리를 포함한 콩팥지지의료를 지속한다. 투석 중단 후 생존 기간은 잔여 신기능과 임상 상태에 따라 다르며, 요독성 가려움·수면장애·불안·통증 등 증상 관리가 중심이 된다.
 {% endhint %}
 
 #### <mark style="color:$primary;">공통 원칙</mark>
@@ -453,13 +472,21 @@ style F fill:#ffcdd2,stroke:#c62828
 
 ### <mark style="color:red;">질병코드</mark>
 
-N18 만성 신장병
+N18 만성 신장병 Chronic kidney disease
 
-N18.1 만성 신장병, 1기
+N18.1 만성 신장병, 1기 Chronic kidney disease, stage 1
 
-N18.6 말기 신질환
+N18.2 만성 신장병, 2기(경도) Chronic kidney disease, stage 2 (mild)
 
-N18.9 만성 신장병, 상세불명
+N18.3 만성 신장병, 3기(중등도) Chronic kidney disease, stage 3 (moderate)
+
+N18.4 만성 신장병, 4기(중증) Chronic kidney disease, stage 4 (severe)
+
+N18.5 만성 신장병, 5기 Chronic kidney disease, stage 5
+
+N18.6 말기 신질환 End stage renal disease
+
+N18.9 만성 신장병, 상세불명 Chronic kidney disease, unspecified
 
 ***
 
@@ -468,12 +495,10 @@ N18.9 만성 신장병, 상세불명
 > **처방례 1. 단백뇨 동반 고혈압 - RAAS 차단제**
 >
 > ```
-> 코자 플러스 1T　qd
+> 코자정 50 ㎎/T　1T　qd
 > ```
 >
-> _✽ARB/ACEI는 강압 효과 외에 사구체내압 감소를 통한 단백뇨 감소 및 콩팥 기능 보호 효과가 있음. 시작 후 1\~2주 내 s-Cr, K 재검 권장; s-Cr이 기저치 대비 ＞30% 상승하거나 중증 고칼륨혈증 발생 시 감량 또는 중단_
->
-> _✽코자 플러스는 thiazide(hydrochlorothiazide) 복합제로, eGFR ＜30 ㎖/분/1.73㎡(stage 4 이상)에서는 항고혈압·부종 조절 효과가 현저히 감소하므로 loop 이뇨제(furosemide, torsemide 등)가 포함된 처방으로 교체 고려_
+> _✽ARB/ACEI는 강압 효과 외에 사구체내압 감소를 통한 알부민뇨 감소 및 콩팥 기능 보호 효과가 있음. 혈압·내약성을 보며 최대 허가·내약 용량으로 증량하고, 시작·증량 후 2\~4주 내 s-Cr, K 재검. 4주 이내 s-Cr이 기저치 대비 ＞30% 상승하면 탈수, NSAID, 이뇨제, 신동맥협착 등 가역적 원인을 평가한 뒤 감량·중단 여부 결정_
 
 > **처방례 2. 비당뇨병성 만성콩팥병 - SGLT2 억제제 추가**
 >
@@ -489,13 +514,13 @@ N18.9 만성 신장병, 상세불명
 > 케렌디아정 10 ㎎/T　1T　qd
 > ```
 >
-> _✽제2형 당뇨병 동반 성인 CKD 환자에서 ACEI/ARB 표준 치료에 추가. 초기 용량은 eGFR에 따라 결정(제품 허가사항 참조). K 및 eGFR 정기 모니터링 필요(FIDELIO-DKD, FIGARO-DKD)_
+> _✽제2형 당뇨병 동반 성인 CKD에서 최대 내약 용량 ACEI/ARB에도 알부민뇨가 지속되고 K가 정상인 경우 추가. 시작 용량은 eGFR 25\~＜60이면 10 ㎎ qd, eGFR ≥60이면 20 ㎎ qd이며, eGFR ＜25에서는 시작하지 않음. 시작 전과 시작·증량 후 K 및 eGFR 모니터링 필요(FIDELIO-DKD, FIGARO-DKD)_
 
 > **처방례 4. RAAS 차단제 유지 중 고칼륨혈증 동반**
 >
 > ```
 > 로켈마 산 10 g　tid (교정기, 최대 48시간)
-> ※ 이후 유지 용량 5\~15 g qd로 조정
+> ※ 이후 유지 용량 5 g qd, 필요시 10 g qd로 조정(1일 최대 10 g)
 > ```
 >
 > _✽RAAS 차단제를 고칼륨혈증을 이유로 감량·중단하기보다 칼륨 결합제 병용으로 최적 용량을 유지하는 것이 콩팥·심혈관 예후에 유리함. 생명을 위협하는 급성 고칼륨혈증의 단독 응급 치료로는 부적합(효과 발현에 시간 소요)_
@@ -515,8 +540,8 @@ N18.9 만성 신장병, 상세불명
 
 > **RAAS 차단제(ACEI/ARB) 복용**
 >
-> * 시작 또는 증량 1\~2주 후 s-Cr, K 재검이 필요합니다.
-> * s-Cr이 기저치 대비 30% 이상 상승하거나 중증 고칼륨혈증이 확인되면 감량 또는 중단을 고려합니다.
+> * 시작 또는 증량 2\~4주 후 s-Cr, K 재검이 필요하며, 고위험 환자는 더 일찍 검사할 수 있습니다.
+> * 4주 이내 s-Cr이 기저치 대비 30% 이상 상승하면 탈수·동반 약물 등 가역적 원인을 먼저 확인하고 감량 또는 중단 여부를 결정합니다.
 > * 임신 중이거나 임신 계획이 있는 경우 즉시 알려야 합니다(임신 시 금기).
 
 > **SGLT2 억제제 복용**
@@ -533,7 +558,7 @@ N18.9 만성 신장병, 상세불명
 > **크레메진(구형흡착탄) 복용**
 >
 > * 다른 약물과 반드시 2시간 이상 간격을 두고 복용해야 다른 약물의 흡수를 방해하지 않습니다.
-> * 변비, 식욕 감퇴가 흔하므로 충분한 수분 섭취와 함께 복용하도록 안내합니다.
+> * 변비, 식욕 감퇴가 흔하므로 의료진이 허용한 수분 범위에서 복용하도록 안내합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -544,7 +569,7 @@ N18.9 만성 신장병, 상세불명
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **만성콩팥병, 조기에 발견하고 꾸준히 관리하면 진행을 늦출 수 있습니다**
@@ -563,7 +588,7 @@ N18.9 만성 신장병, 상세불명
 * **단백질을 적당히 섭취하십시오.** 의료진이 안내한 양을 지키고, 콩류·견과류 등 식물성 단백질 비중을 늘리는 것이 도움이 됩니다.
 * **고혈압, 당뇨병이 있다면 목표 수치까지 꾸준히 조절하십시오.** 콩팥병 진행을 늦추는 가장 중요한 방법입니다.
 * **담배는 끊고, 술은 하루 한두 잔 이하로 줄이십시오.**
-* **체중을 적정하게 유지하고, 주 3회 이상 규칙적으로 운동하십시오.**
+* **체중을 적정하게 유지하고, 몸 상태가 허용하면 중등도 운동을 주당 합계 150분 정도 시행하십시오.**
 * **정기적으로 소변 검사와 혈액 검사를 받으십시오.** 증상이 없어도 병이 진행할 수 있기 때문입니다.
 * **의사와 상의 없이 진통제, 한약, 건강 기능 식품을 함부로 복용하지 마십시오.** 콩팥에 부담을 주는 성분이 포함될 수 있습니다.
 * 고칼륨혈증이 있다고 진단받은 경우에만 바나나, 토마토, 감자, 참외 등 칼륨이 많은 음식을 제한하십시오. 그렇지 않다면 무리하게 제한할 필요는 없습니다.
@@ -571,7 +596,7 @@ N18.9 만성 신장병, 상세불명
 
 #### <mark style="color:$primary;">약은 어떻게 복용해야 하나요?</mark>
 
-* 혈압약(특히 ACEI/ARB 계열)은 콩팥을 보호하는 효과가 있어 혈압이 정상이어도 임의로 중단하지 않아야 합니다.
+* 알부민뇨·고혈압·심부전 등의 적응증으로 처방된 ACEI/ARB 계열 약은 콩팥을 보호하는 효과가 있으므로 임의로 중단하지 않아야 합니다.
 * 최근에는 당뇨병 여부와 관계없이 콩팥 기능 저하를 늦추는 새로운 약(SGLT2 억제제 등)이 함께 처방되는 경우가 늘고 있습니다. 의료진이 안내한 대로 꾸준히 복용하십시오.
 * **구토, 설사, 고열 등으로 탈수가 있을 때는 혈압약(ACEI/ARB), SGLT2 억제제, 이뇨제, 당뇨약(metformin) 등 일부 약을 일시적으로 중단해야 할 수 있습니다.** 이런 상황이면 미리 담당 의료진에게 문의하여 어떤 약을 언제까지 쉬어야 하는지 확인하십시오.
 * 새로 처방받은 약이나 다른 병원에서 처방받은 약을 복용하기 전에는 반드시 담당 의료진에게 알리십시오.
