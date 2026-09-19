@@ -24,7 +24,7 @@
 
 _Ref. Berg D, et al. MDS research criteria for prodromal Parkinson's disease. Mov Disord 2015;30(12). Heinzel S, et al. Update of the MDS research criteria for prodromal Parkinson's disease. Mov Disord 2019;34(10)._
 
-### <mark style="color:orange;">위험 인자</mark>
+### <mark style="color:orange;">위험인자</mark>
 
 * 가족력, 고령
 * 반복적인 두부 외상, 일부 살충제·용매 노출과 연관성이 보고되었으나 개인의 발병 원인으로 단정할 수 없음
@@ -288,7 +288,7 @@ graph TD
   * 운동 증상이 경미하면 MAO-B 억제제를 고려할 수 있으나 levodopa보다 증상 개선 효과가 작음
   * Dopamine agonist는 운동이상증 위험을 중요하게 고려하는 일부 젊은 환자에서 선택할 수 있음
   * 70세 이상, 인지 저하·환각·충동조절장애·과도한 졸림이 있거나 운전 직업인 경우 dopamine agonist를 피함
-  * 연령만으로 약제를 정하지 않고 증상, 인지·정신 상태, 직업, 동반질환, 부작용 위험과 환자 선호를 함께 고려
+  * 연령만으로 약제를 정하지 않고 증상, 인지·정신 상태, 직업, 동반 질환, 부작용 위험과 환자 선호를 함께 고려
 
 {% hint style="info" %}
 **건강보험 급여기준(2026년 9월 확인)**

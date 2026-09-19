@@ -206,7 +206,7 @@ flowchart LR
 
 ## <mark style="color:green;">약물 치료</mark>
 
-* 생활요법에도 외상 위험이 있는 재발성 실신이 지속될 때, 혈압 표현형·연령·동반질환과 부작용을 고려하여 선택
+* 생활요법에도 외상 위험이 있는 재발성 실신이 지속될 때, 혈압 표현형·연령·동반 질환과 부작용을 고려하여 선택
 
 #### <mark style="color:$primary;">Midodrine</mark>
 

@@ -3,8 +3,8 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 교감·부교감 신경계의 기능 이상으로 심혈관, 소화기, 비뇨기, 발한, 성기능 등 다양한 장기에 걸친 증상이 발생하는 증후군
-* 원발성(특발성) : 기저 질환 없이 자율신경계 자체의 퇴행성 변화
-* 이차성 : 기저 질환(당뇨병, 파킨슨병, 알코올 등)에 의한 자율신경 손상 - 임상에서 대부분을 차지함
+* 원발성(특발성) : 기저질환 없이 자율신경계 자체의 퇴행성 변화
+* 이차성 : 기저질환(당뇨병, 파킨슨병, 알코올 등)에 의한 자율신경 손상 - 임상에서 대부분을 차지함
 * 증상이 다양하고 비특이적이어서 신체증상장애와 감별이 필요함 (☞ [신체증상장애](031_-somatic-symptom-disorder.md))
 
 ### <mark style="color:orange;">대표적 증후군</mark>
@@ -37,7 +37,7 @@
 
 * 자율신경 부전 + 소뇌/파킨슨 증상 동반; 빠른 진행
 
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:green;">원인 및 위험인자</mark>
 
 **신경퇴행성 질환**
 
@@ -124,7 +124,7 @@
 
 ### <mark style="color:orange;">증상별 초기 접근</mark>
 
-<table><thead><tr><th width="180">주 증상</th><th width="220">최우선 감별</th><th>핵심 진단 단계</th></tr></thead><tbody><tr><td>기립 직후 어지럼</td><td>Initial OH vs 혈관미주신경 반응</td><td>기립 직후 BP·HR; 필요 시 연속혈압 측정</td></tr><tr><td>기립 후 수분간 지속되는 어지럼·심계항진</td><td>OH vs POTS</td><td>5~10분 supine 후 10분 active stand test</td></tr><tr><td>실신</td><td>혈관미주신경성 실신 vs OH vs 심장성 실신</td><td>위험소견 평가 + 기립검사 + 심전도; 원인 불명·재발 시 tilt test 등 의뢰</td></tr><tr><td>두근거림</td><td>POTS vs 부정맥·inappropriate sinus tachycardia vs 불안·공황장애</td><td>10분 active stand + 심전도; 앙와위 빈맥·비기립성 삽화 시 Holter</td></tr><tr><td>광범위 자율신경 증상</td><td>당뇨병성 자율신경병증 vs PAF·MSA</td><td>기저 질환 평가 + 신경과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="180">주 증상</th><th width="220">최우선 감별</th><th>핵심 진단 단계</th></tr></thead><tbody><tr><td>기립 직후 어지럼</td><td>Initial OH vs 혈관미주신경 반응</td><td>기립 직후 BP·HR; 필요 시 연속혈압 측정</td></tr><tr><td>기립 후 수분간 지속되는 어지럼·심계항진</td><td>OH vs POTS</td><td>5~10분 supine 후 10분 active stand test</td></tr><tr><td>실신</td><td>혈관미주신경성 실신 vs OH vs 심장성 실신</td><td>위험소견 평가 + 기립검사 + 심전도; 원인 불명·재발 시 tilt test 등 의뢰</td></tr><tr><td>두근거림</td><td>POTS vs 부정맥·inappropriate sinus tachycardia vs 불안·공황장애</td><td>10분 active stand + 심전도; 앙와위 빈맥·비기립성 삽화 시 Holter</td></tr><tr><td>광범위 자율신경 증상</td><td>당뇨병성 자율신경병증 vs PAF·MSA</td><td>기저질환 평가 + 신경과 의뢰</td></tr></tbody></table>
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -176,7 +176,7 @@
 * Sudomotor function test (QSART) : 발한 기능 평가 - POTS·SFN 평가에 유용
 * 피부 생검 (intraepidermal nerve fiber density, IENFD) : 소섬유신경병증 평가 - 일부 POTS(특히 neuropathic type)·Long COVID 관련 자율신경 증상에서 이상이 확인되지만 POTS 확진 필수검사는 아님
 
-#### <mark style="color:$primary;">기저 질환 감별 검사</mark>
+#### <mark style="color:$primary;">기저질환 감별 검사</mark>
 
 * 기본 검사 : CBC, 종합대사패널(전해질·신기능·혈당·간기능), TSH, 심전도
 * 아침 cortisol(필요 시 ACTH 자극 검사) : 부신 피질 기능 저하 배제; OH·피로·체중 감소·색소침착 등 임상 단서가 있으면 특히 확인
@@ -257,11 +257,11 @@ graph TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 원인 질환 치료가 우선 - 기저 질환 조절로 증상 호전 가능
+* 원인 질환 치료가 우선 - 기저질환 조절로 증상 호전 가능
 * 증상별 대증 치료 병행
 * 비약물 치료를 기본으로 하고 필요 시 약물 추가
 * POTS 치료 목표는 심박수 정상화나 모든 증상의 소실보다 **일상생활·학교·직장 참여, 기립 지속시간, 활동량과 삶의 질 향상**에 둠
-* 가장 기능을 제한하는 증상을 우선 치료하고 부분 반응이면 순응도·동반질환·기능 목표를 재평가한 뒤 병용치료를 고려; 대개 4\~12주에 반응 재평가
+* 가장 기능을 제한하는 증상을 우선 치료하고 부분 반응이면 순응도·동반 질환·기능 목표를 재평가한 뒤 병용치료를 고려; 대개 4\~12주에 반응 재평가
 
 ## <mark style="color:green;">비-약물 치료</mark>
 
@@ -353,7 +353,7 @@ graph TD
 
 * metoclopramide, domperidone : 위장관 운동 촉진 (단기) (☞ [소화기계약제](../224_/073_.md#gi-prokinetic-agent))
 
-#### <mark style="color:$primary;">기저 질환 치료</mark>
+#### <mark style="color:$primary;">기저질환 치료</mark>
 
 * 당뇨병성 자율신경병증 : 혈당 조절 최적화 (☞ [당뇨병](../226_/100_-diabetes-mellitus.md))
 * 알코올 남용 : 금주 (☞ [알코올 사용 장애](../230_/189_-alcohol-use-disorder-aud.md))

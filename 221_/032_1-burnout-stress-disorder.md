@@ -17,7 +17,7 @@
 
 ※ MBI 판본에 따라 비인격화(depersonalization), 개인적 성취감(personal accomplishment) 등 관련 용어가 다르게 사용됨
 
-## <mark style="color:green;">원인 및 위험 인자</mark>
+## <mark style="color:green;">원인 및 위험인자</mark>
 
 * 번아웃 : 만성적인 직업 스트레스가 핵심
 * 적응장애 : 직장 상실·위협, 이별·이혼, 질병·사별, 재정적 위기, 이주 등 식별 가능한 스트레스 요인
