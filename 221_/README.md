@@ -23,6 +23,7 @@
 •Stroke and transient ischaemic attack in over 16s: Diagnosis and initial management. NICE (2019)\
 •2024 ESC Guidelines for the management of atrial fibrillation. ESC (2024)\
 •Motion Sickness. Travelers' Health. CDC (2019)\
+•Motion sickness diagnostic criteria: Consensus Document of the Classification Committee of the Bárány Society (2021)
 •Generalised anxiety disorder and panic disorder in adults: Management. NICE (2023)\
 •한국형 범불안장애 약물 치료 지침서. 대한불안의학회 (2009) 
 •한국형 범불안장애 치료 지침. 대한불안의학회 (2024)\
