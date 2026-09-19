@@ -121,6 +121,24 @@
 ***
 
 ```mermaid
+graph TD
+    Start(["움직임·시각 자극 관련 <br/>구역/어지럼"]) --> RF["Red Flags 해당?"]
+    RF -->|예| ER[Red Flags 등급에 <br/>따른 이송/조치]
+    RF -->|아니오| Q1["자극 노출 중 발생하고 <br/>종료 후 소실?"]
+    Q1 -->|아니오| DDX["<b>감별 진단</b>: <br/>BPPV, 전정편두통, <br/>메니에르병, PPPD, <br/>MdDS, 약물"]
+    Q1 -->|예| MS["멀미 <br/>(Motion sickness/VIMS)"]
+    MS --> NP["비약물 예방 <br/>+ 적응(habituation)"]
+    NP --> Q2["약물 필요?"]
+    Q2 -->|"단기 ≤6시간"| S1["meclizine 또는 <br/>dimenhydrinate"]
+    Q2 -->|"장기 ＞6시간"| S2["•경도: <br/>meclizine/dimenhydrinate<br>•중등도 이상: ≥16세 <br>scopolamine 패치 "]
+    Q2 -->|"소아·임신"| S3["<b>비약물 우선</b><br>·키미테: 임부·수유부 금기<br>·메클리진: 임부 금기"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style MS fill:#f96,stroke:#e65100,stroke-width:2px
+    style RF fill:#fff9c4,stroke:#ffe082
+    style Q1 fill:#fff9c4,stroke:#ffe082
+    style Q2 fill:#fff9c4,stroke:#ffe082
+    style ER fill:#ffcdd2,stroke:#c62828
+
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong> <em><mark style="color:$info;">(저자 구성)</mark></em></p>
