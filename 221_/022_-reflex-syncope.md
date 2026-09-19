@@ -1,4 +1,4 @@
-# 반사성 실신 Reflex Syncope, Neurally Mediated Syncope
+# 반사성 실신 Reflex Syncope, Neurally mediated Syncope
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -245,7 +245,7 @@ flowchart LR
 * Norepinephrine transporter(NET) 억제제로, 실신 직전에 나타나는 반사성 서맥을 완화하여 심박출량과 혈압의 최종 하강을 막는 것이 주된 기전으로 제시됨. 초기 근거가 축적 중이나 아직 표준 치료로 자리잡지 않음
 * Tilt-table 유발 실신 평행군 RCT(POST VI, Europace 2019)에서 tilt 유발 실신이 감소했음. 소규모 파일럿 RCT(Tajdini 등, 2021, n＝46)에서는 실신·전실신 복합 종료점이 감소했으나, 실신 없는 생존기간은 군간 차이가 없었으며(P＝0.903), 실신 사건 수가 적어 실신 단독 예방효과를 판단하기에는 한계가 있었음. 기저 수축기혈압 ＜110 ㎜Hg 하위군에서는 효과 가능성이 시사됨
 * 심혈관계 부작용(혈압·맥박 상승) 고려해 routine 권고 약물이 아님
-* 국내 허가효능은 ADHD로 한정되며 VVS에 대한 적응증은 없음 <mark style="color:blue;">\[아토목신, 환인아토목세틴]</mark>
+* 국내 허가효능은 ADHD로 한정되며 VVS에 대한 적응증은 없음 <mark style="color:blue;">\[아토목신]</mark>
   * 오리지널 스트라테라는 2025년 1월 22일 국내 허가가 자진 취하되어 현재는 제네릭만 유통됨
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
