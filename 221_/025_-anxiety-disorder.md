@@ -1,11 +1,8 @@
 # 불안장애 Anxiety Disorder
 
 {% hint style="info" %}
-**관련 챕터** : 불안장애 · [공황장애](026_-panic-disorder.md) · [우울증](027_-depression.md) · [산후우울증](028_-postpartum-depression.md) 동반 이환이 매우 흔하며, SSRI/SNRI가 공통 1차 치료제임. 감별 및 연계 평가 시 해당 챕터 참조
-{% endhint %}
-
-{% hint style="info" %}
-이 챕터는 불안장애 총론 중 **범불안장애(Generalized Anxiety Disorder, GAD)의 진단과 치료**를 중심으로 다룬다. 공황장애 등 개별 불안장애는 관련 챕터를 함께 참조한다.
+이 챕터는 불안장애 중 범불안장애(Generalized Anxiety Disorder, GAD)의 진단과 치료를 중심으로 다룸. \
+불안장애 · [공황장애](026_-panic-disorder.md) · [우울증](027_-depression.md) · [산후우울증](028_-postpartum-depression.md) 등은 동반 이환이 매우 흔함(해당 챕터 참조)
 {% endhint %}
 
 ## <mark style="color:green;">일반 사항</mark>
@@ -13,17 +10,20 @@
 * 실제 발생한 위험에 비하여 과도하고 지속되며 조절하기 어려운, 불편하고 일상생활에 지장을 주는 걱정; 일상적인 상황에 대하여 과도한 불안감
 * 불안감을 유발하는 실체나 상황을 피하기 위해 부적절한 행동을 취하기도 함
 * 흔히 주요우울증, 지속적인 기분 저하, 사회불안장애 등을 동반
-* 유병률 : 미국의 평생 유병률 조사에서 범불안장애는 여성 약 7%, 남성 약 4%로 보고됨. 발병연령은 연구와 정의에 따라 차이가 있으나, GAD는 특정공포증·분리불안장애 등 일부 불안장애보다 상대적으로 늦게 발병할 수 있음
-* 일차진료 환자의 불안장애 유병률 19.5%(GAD 7.6%, PTSD 8.6%, 공황장애 6.8%, 사회불안장애 6.2%)이며 불안장애 간 동반 이환이 흔함 [Kroenke, Ann Intern Med 2007]
-* 국내 : 불안장애 평생 유병률 9.3%, 1년 유병률 3.1%(여성 4.7%, 남성 1.6%로 여성이 2.9배) [2021년 정신건강실태조사]
-* 만성통증, 심혈관·호흡기·위장관질환 등 만성 신체질환과 흔히 동반되며, 신체질환과 불안 증상이 서로 악화시킬 수 있음
+* 유병률 : 일차진료 환자의 불안장애 유병률은 19.5%이며(GAD 7.6%, PTSD 8.6%, 공황장애 6.8%, 사회불안장애 6.2%), 불안장애 간 동반 이환이 흔함 \[Kroenke, Ann Intern Med 2007]
+  * 우리나라 불안장애 평생 유병률 - 9.3%, 1년 유병률 - 3.1%(여성 4.7%, 남성 1.6%; 여성이 2.9배) \[정신건강실태조사 2021]
+  * 미국의 평생 유병률 조사에서 GAD는 여성 약 7%, 남성 약 4%로 보고됨
+* GAD의 발병 연령은 특정공포증·분리불안장애 등 일부 불안장애보다 상대적으로 늦을 수 있음(연구와 정의에 따라 다름)
+* 만성통증, 심혈관·호흡기·위장관질환 등 만성 신체질환이 흔히 동반되며, 신체질환과 불안 증상이 서로 악화시킬 수 있음
 * 만성적인 신체적 건강 문제가 있거나, 신체적 건강 문제는 없지만 이에 대한 확신을 갖고자 하거나, 여러 다른 문제들에 대하여 반복적으로 걱정을 하고 있는 경우 불안증 감별을 요함
 
 ## <mark style="color:green;">원인</mark>
 
 * 기전(추정)
-  * neurocircuit 이상 : 편도체(amygdala) 과활성 + 전전두엽(PFC) 조절 기능 저하에 의한 top-down regulation 감소; salience network 과활성이 핵심 병태생리로 이해됨
-  * neurotransmitter 이상 : serotonin system 활성 저하, norepinephrine system 활성 증가, GABA inhibitory tone 감소 (단일 신경전달물질 불균형보다 회로 수준의 조절 이상이 더 포괄적인 설명 모델임)
+  * neurocircuit 이상 : 편도체(amygdala) 과활성 + 전전두엽(PFC) 조절 기능 저하에 의한 top-down regulation 감소
+    * salience network 과활성이 핵심 병태생리로 이해됨
+  * neurotransmitter 이상 : serotonin system 활성 저하, norepinephrine system 활성 증가, GABA inhibitory tone 감소&#x20;
+    * 단일 신경전달물질 불균형보다 회로 수준의 조절 이상이 더 포괄적인 설명 모델임
 * 기저 질환 : 갑상선기능항진증, 갈색세포종, 저혈당, 부정맥, COPD·천식, 폐색전증, 측두엽 뇌전증, 파킨슨병, 폐경 이행기 증상
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -99,7 +99,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 ### <mark style="color:orange;">선별 검사</mark>
 
-✽USPSTF(2023) : 불안장애 진단을 받지 않았고 인지된 증상·징후가 없는 19\~64세 성인(임신부·산후 여성 포함)에서 불안장애 선별 권고(B등급). 65세 이상은 근거 불충분(I statement). 양성 결과는 확진이 아니며 진단평가와 근거기반 치료·의뢰 체계로 연결해야 함. 최적 선별 간격은 확립되지 않음. 2026년 JAMA Internal Medicine 리뷰도 65세 미만 일차진료 환자의 불안 선별을 권고함 [Shepardson RL, et al. JAMA Intern Med. 2026;186(7):878-889]
+✽USPSTF(2023) : 불안장애 진단을 받지 않았고 인지된 증상·징후가 없는 19\~64세 성인(임신부·산후 여성 포함)에서 불안장애 선별 권고(B등급). 65세 이상은 근거 불충분(I statement). 양성 결과는 확진이 아니며 진단평가와 근거기반 치료·의뢰 체계로 연결해야 함. 최적 선별 간격은 확립되지 않음. 2026년 JAMA Internal Medicine 리뷰도 65세 미만 일차진료 환자의 불안 선별을 권고함 \[Shepardson RL, et al. JAMA Intern Med. 2026;186(7):878-889]
 
 #### <mark style="color:$primary;">Generalized Anxiety Disorder 7-item (GAD-7)</mark>
 
@@ -111,7 +111,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 
 ▶ 판정 : 0\~4점 = minimal / 5\~9점 = mild / 10\~14점 = moderate / 15\~21점 = severe
 
-✽10점 이상 : GAD 민감도 89%, 특이도 82% [Spitzer, Arch Intern Med 2006]; USPSTF 근거검토의 통합 결과는 민감도 79%, 특이도 89% [USPSTF Evidence Review 2023]
+✽10점 이상 : GAD 민감도 89%, 특이도 82% \[Spitzer, Arch Intern Med 2006]; USPSTF 근거검토의 통합 결과는 민감도 79%, 특이도 89% \[USPSTF Evidence Review 2023]
 
 <mark style="color:orange;">**\[기능 곤란도 문항]**</mark> (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?\
 ☐ 전혀 힘들지 않다. ☐ 어느 정도 힘들다. ☐ 매우 힘들다. ☐ 극도로 힘들다.
@@ -125,7 +125,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * GAD-7 1번과 2번 문항만으로 시행
 * 합계 점수 ≥3점인 경우 GAD를 의심(민감도 86%, 특이도 83%) 하고 추가 평가 시행
 * 0\~2점이더라도 임상적 의심이 강한 경우에는 GAD-7 전체 시행 권고
-* ✽메타분석에서는 민감도 약 76%, 특이도 약 81%로 원연구보다 낮게 보고됨 [Plummer, Gen Hosp Psychiatry 2016]
+* ✽메타분석에서는 민감도 약 76%, 특이도 약 81%로 원연구보다 낮게 보고됨 \[Plummer, Gen Hosp Psychiatry 2016]
 
 #### <mark style="color:$primary;">Penn State Worry Questionnaire (PSWQ)</mark>
 
@@ -224,7 +224,7 @@ graph TD
 * GAD는 SSRI/SNRI와 인지행동요법(CBT)이 모두 효과적인 1차 치료이며, 환자 선호·중증도·접근성을 고려하여 단독 또는 병행하고 measurement-based follow-up을 시행
 * 역치하 불안(subthreshold anxiety) : 진단기준(예: 6개월 지속)에 못 미치지만 임상적으로 유의한 증상군; 자가관리·행동치료부터 시작하며 약물치료의 근거는 약함. GAD-7 점수만으로 역치하 불안을 정의하지 않음
 * 공유의사결정(shared decision-making) : 환자가 선호하는 치료를 받을 때 치료 만족도·순응도·예후가 더 좋음 - 약물·정신치료·병행 중 환자의 선호를 적극 반영
-* 예후 : 만성·재발성 경과를 보일 수 있으나 근거기반 정신치료·약물치료로 호전 가능. 일차진료 협력진료(Collaborative Care Management) 모델은 통상 진료보다 반응·관해를 개선 [Shepardson RL, et al. JAMA Intern Med. 2026;186(7):878-889]
+* 예후 : 만성·재발성 경과를 보일 수 있으나 근거기반 정신치료·약물치료로 호전 가능. 일차진료 협력진료(Collaborative Care Management) 모델은 통상 진료보다 반응·관해를 개선 \[Shepardson RL, et al. JAMA Intern Med. 2026;186(7):878-889]
 * 자살 위험, 약물 남용, 다른 정신 질환 여부를 확인하고 관리
 * 자살 사고가 있는 경우 : 구조화된 위험평가 후 환자와 함께 안전 계획(Safety Planning)을 작성. 경고신호, 혼자 시행할 대처법, 도움을 받을 사람·장소, 가족·지지자, 진료기관·자살예방 상담전화 109·112/119, 치명적 수단 제한과 단기 재평가 계획을 기록함 \[Stanley-Brown Safety Planning Intervention, 2012]
   * 현재 구체적 의도·계획·수단 접근성이 있거나 안전한 귀가를 보장할 수 없으면 안전 계획만으로 대체하지 말고 즉시 응급 평가·이송
@@ -275,7 +275,7 @@ graph TD
   * 개인 CBT가 상대적으로 가장 선호되었으나 집단 CBT도 1차 선택에 해당
   * CBT와 MBCT가 동등한 효과·유용성을 보인다는 응답이 62.9%였으나, 이는 비교 임상시험의 동등성 입증이 아니라 국내 전문가 인식 조사 결과임
   * 국내 전문가 선호(KMAP-GAD 2024) : 개인 CBT 8\~12회기
-  * 국제 근거기반 지침의 고강도 CBT·응용이완 : 통상 12\~15회기 [NICE CG113; STAGED trial, HTA 2017]
+  * 국제 근거기반 지침의 고강도 CBT·응용이완 : 통상 12\~15회기 \[NICE CG113; STAGED trial, HTA 2017]
   * MBCT·ACT는 GAD에서 고려 가능한 치료이나, CBT와 동일 수준으로 확립된 근거는 아님
 * CBT 시행 방법
   * 종료 후 재발 예방과 기술 유지를 위한 강화 세션(booster session)을 고려. 다만 GAD 자체의 직접 근거는 아직 제한적
@@ -296,7 +296,7 @@ graph TD
 * 항우울제의 부분 효과는 2\~4주부터 나타날 수 있으며 충분한 반응은 보통 4\~6주 이상 걸림. 관해까지는 수개월이 필요할 수 있음
 * 추적 관찰 : 첫 3개월 동안 2\~4주마다, 이후 3개월마다 약효와 부작용 평가
   * 새로운 약제 투여 시 일반적으로 2\~4주 내 F/U; 24세 이하, 자살사고·과거 자살시도, 양극성장애 가능성, 심한 초기 activation·불면, BZD 병용 또는 물질사용장애가 있으면 1주 이내 또는 더 이른 시점에 F/U
-* 치료 유지 기간 : 효과가 있으면 관해 후 최소 12개월 유지하며, 재발력·잔여증상·중증 공존질환이 있으면 2년 이상을 개별적으로 고려 [BAP 2014; Katzman 2014] (venlafaxine XR 12개월 유지군이 6개월 유지군보다 위약 전환 후 재발률이 낮았음 : Rickels, Arch Gen Psychiatry 2010)
+* 치료 유지 기간 : 효과가 있으면 관해 후 최소 12개월 유지하며, 재발력·잔여증상·중증 공존질환이 있으면 2년 이상을 개별적으로 고려 \[BAP 2014; Katzman 2014] (venlafaxine XR 12개월 유지군이 6개월 유지군보다 위약 전환 후 재발률이 낮았음 : Rickels, Arch Gen Psychiatry 2010)
 * 약제 중단 시 tapering 하며(갑자기 중단하지 않음) 증상 재발, 약물 금단 증상 등 모니터링
 
 ### <mark style="color:orange;">초기 약물치료 전략</mark>
@@ -308,7 +308,7 @@ graph TD
 {% hint style="info" %}
 **한국형 범불안장애 약물치료지침 2024 (KMAP-GAD 2024, 대한불안의학회) 국내 전문가 합의**
 
-국내 전문가 설문에서는 초기 치료로 **항우울제+항불안제 병용**이 최우선 치료(평균 9.09), 항우울제 단독이 다음 1차 선택이었다. 여기서 항불안제에는 BZD와 azapirone(buspirone 등)이 모두 포함된다. 이는 무작위시험 기반 권고가 아니라 국내 전문가 합의이다. NICE 등 다수의 국제 근거기반 지침과 [Shepardson RL, et al. JAMA Intern Med. 2026;186(7):878-889] 리뷰는 SSRI/SNRI 또는 CBT 단독을 우선 권고하며 BZD를 권고하지 않으므로, 환자별 위험·선호와 총 약물 노출을 함께 고려한다.
+국내 전문가 설문에서는 초기 치료로 **항우울제+항불안제 병용**이 최우선 치료(평균 9.09), 항우울제 단독이 다음 1차 선택이었다. 여기서 항불안제에는 BZD와 azapirone(buspirone 등)이 모두 포함된다. 이는 무작위시험 기반 권고가 아니라 국내 전문가 합의이다. NICE 등 다수의 국제 근거기반 지침과 \[Shepardson RL, et al. JAMA Intern Med. 2026;186(7):878-889] 리뷰는 SSRI/SNRI 또는 CBT 단독을 우선 권고하며 BZD를 권고하지 않으므로, 환자별 위험·선호와 총 약물 노출을 함께 고려한다.
 
 BZD 병합기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지속사용 등으로 응답이 분산되어 합의된 권장기간으로 볼 수 없다.
 {% endhint %}
@@ -379,9 +379,25 @@ _✽심발타·푸로작은 2026년 7월 한국릴리가 국내 품목허가를 
 
 아래 수치는 국내 전문가 설문에서 가장 많이 응답한 **최빈값**이며 허가용량이나 권장 최대용량을 뜻하지 않는다. 국내 허가사항과 환자별 내약성을 우선하고, 설문에서 보고된 허가범위 초과 용량을 그대로 처방 근거로 사용하지 않는다.
 
-<table><thead><tr><th>성분명</th><th align="center">시작용량 최빈값</th><th align="center">유지용량 최빈값</th><th align="center">최대사용용량 최빈값</th></tr></thead><tbody><tr><td>escitalopram</td><td align="center">5 ㎎/d</td><td align="center">10 ㎎/d</td><td align="center">20 ㎎/d</td></tr><tr><td>sertraline</td><td align="center">25 ㎎/d</td><td align="center">100 ㎎/d</td><td align="center">200 ㎎/d</td></tr><tr><td>paroxetine</td><td align="center">10 ㎎/d</td><td align="center">20 ㎎/d</td><td align="center">40 ㎎/d</td></tr><tr><td>duloxetine</td><td align="center">30 ㎎/d</td><td align="center">60 ㎎/d</td><td align="center">120 ㎎/d</td></tr><tr><td>venlafaxine</td><td align="center">37.5 ㎎/d</td><td align="center">150 ㎎/d</td><td align="center">225 ㎎/d</td></tr><tr><td>mirtazapine</td><td align="center">7.5 ㎎/d</td><td align="center">15 ㎎/d</td><td align="center">30 ㎎/d</td></tr><tr><td>buspirone</td><td align="center">15 ㎎/d</td><td align="center">30 ㎎/d</td><td align="center">30 ㎎/d</td></tr></tbody></table>
+| 성분명          | 시작용량 최빈값 | 유지용량 최빈값 | 최대사용용량 최빈값 |
+| ------------ | :------: | :------: | :--------: |
+| escitalopram |   5 ㎎/d  |  10 ㎎/d  |   20 ㎎/d   |
+| sertraline   |  25 ㎎/d  |  100 ㎎/d |   200 ㎎/d  |
+| paroxetine   |  10 ㎎/d  |  20 ㎎/d  |   40 ㎎/d   |
+| duloxetine   |  30 ㎎/d  |  60 ㎎/d  |   120 ㎎/d  |
+| venlafaxine  | 37.5 ㎎/d |  150 ㎎/d |   225 ㎎/d  |
+| mirtazapine  |  7.5 ㎎/d |  15 ㎎/d  |   30 ㎎/d   |
+| buspirone    |  15 ㎎/d  |  30 ㎎/d  |   30 ㎎/d   |
 
-<table><thead><tr><th>보조약물</th><th align="center">시작용량 최빈값</th><th align="center">유지용량 최빈값</th><th align="center">최대사용용량 최빈값</th></tr></thead><tbody><tr><td>alprazolam</td><td align="center">0.25 ㎎/d</td><td align="center">0.5 ㎎/d</td><td align="center">1.5 ㎎/d</td></tr><tr><td>clonazepam</td><td align="center">0.25 ㎎/d</td><td align="center">0.5 ㎎/d</td><td align="center">1 ㎎/d</td></tr><tr><td>lorazepam</td><td align="center">0.5 ㎎/d</td><td align="center">1 ㎎/d</td><td align="center">3 ㎎/d</td></tr><tr><td>aripiprazole</td><td align="center">1 ㎎/d</td><td align="center">2 ㎎/d</td><td align="center">5 ㎎/d</td></tr><tr><td>quetiapine</td><td align="center">12.5 ㎎/d</td><td align="center">25 ㎎/d</td><td align="center">100 ㎎/d</td></tr><tr><td>pregabalin</td><td align="center">150 ㎎/d</td><td align="center">150 ㎎/d</td><td align="center">150 ㎎/d</td></tr><tr><td>propranolol</td><td align="center">10 ㎎/d</td><td align="center">40 ㎎/d</td><td align="center">60 ㎎/d</td></tr></tbody></table>
+| 보조약물         | 시작용량 최빈값 | 유지용량 최빈값 | 최대사용용량 최빈값 |
+| ------------ | :------: | :------: | :--------: |
+| alprazolam   | 0.25 ㎎/d |  0.5 ㎎/d |   1.5 ㎎/d  |
+| clonazepam   | 0.25 ㎎/d |  0.5 ㎎/d |    1 ㎎/d   |
+| lorazepam    |  0.5 ㎎/d |   1 ㎎/d  |    3 ㎎/d   |
+| aripiprazole |   1 ㎎/d  |   2 ㎎/d  |    5 ㎎/d   |
+| quetiapine   | 12.5 ㎎/d |  25 ㎎/d  |   100 ㎎/d  |
+| pregabalin   |  150 ㎎/d |  150 ㎎/d |   150 ㎎/d  |
+| propranolol  |  10 ㎎/d  |  40 ㎎/d  |   60 ㎎/d   |
 {% endhint %}
 
 #### <mark style="color:$primary;">Gabapentinoid (α2δ 리간드)</mark>
@@ -419,7 +435,8 @@ _✽심발타·푸로작은 2026년 7월 한국릴리가 국내 품목허가를 
 **⚠️ Benzodiazepine 경고 (FDA Boxed Warning)**\
 남용·오용·중독, 신체의존과 금단 반응(갑작스러운 중단 시 생명을 위협할 수 있음) 위험이 있음. Opioid와 병용 시 심한 진정·호흡억제·사망 위험이 있으므로 병용을 피하고, 불가피하면 최소 용량·최단 기간 사용
 {% endhint %}
-* 수주 이상 규칙적으로 사용했거나 신체의존 가능성이 있으면 갑자기 중단하지 않음. [ASAM 2025]는 일반적으로 초기 5\~10% 감량을 2\~4주 간격으로 고려하고 2주에 25%를 넘지 않도록 하되, 복용기간·용량·금단증상에 따라 개별화하도록 권고
+
+* 수주 이상 규칙적으로 사용했거나 신체의존 가능성이 있으면 갑자기 중단하지 않음. \[ASAM 2025]는 일반적으로 초기 5\~10% 감량을 2\~4주 간격으로 고려하고 2주에 25%를 넘지 않도록 하되, 복용기간·용량·금단증상에 따라 개별화하도록 권고
   * 장시간 작용 약제(clonazepam, diazepam 등)로 전환할 수 있으나 일률적으로 선호하지 않으며 간기능·병용약을 고려. 고령자에서는 장시간형 전환이 오히려 부적절할 수 있음
 * 역설적 탈억제(Paradoxical disinhibition) : 드물게 고령자, 기질적 뇌질환(치매·뇌손상) 환자, 소아에서 BZD 복용 후 오히려 불안·흥분·공격성이 심해지는 반응이 나타날 수 있음. 이 경우 추가 투여를 보류하고 즉시 평가한다. 다만 수주 이상 규칙적으로 복용한 환자는 금단 위험을 고려하여 갑자기 중단하지 말고 개별화된 속도로 감량한다.
 
@@ -544,7 +561,7 @@ F41.9 상세불명의 불안장애 - Anxiety disorder, unspecified
 > **불안장애 약물 복용 안내**
 >
 > * 약 효과는 2\~4주 후 서서히 나타납니다. 처음 1\~2주는 오히려 불안이 약간 더 느껴질 수 있으나 대개 1\~2주 내에 가라앉으므로 임의로 중단하지 마십시오.
-> * 반드시 담당 의사와 상의한 후 서서히 줄여야 합니다. 갑자기 끊으면 어지럼, 저림, 구역 등 **중단 증상(discontinuation syndrome)**이 생길 수 있습니다.
+> * 반드시 담당 의사와 상의한 후 서서히 줄여야 합니다. 갑자기 끊으면 어지럼, 저림, 구역 등 \*\*중단 증상(discontinuation syndrome)\*\*이 생길 수 있습니다.
 > * 커피·에너지음료 등 카페인 음료와 술은 불안을 악화시킵니다.
 > * 감기약(덱스트로메토르판 함유), 진통제(트라마돌), 편두통약(triptan), 세인트존스워트 등을 복용 중이거나 복용 예정이면 반드시 담당 의사·약사에게 알려 주십시오.
 > * 소염진통제(NSAID)나 아스피린과 함께 복용하면 위장 출혈 위험이 높아질 수 있습니다.
@@ -584,7 +601,7 @@ F41.9 상세불명의 불안장애 - Anxiety disorder, unspecified
 
 #### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
 
-* **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼·저림·구역 등 **중단 증상(몸이 약에 익숙해진 상태에서 갑자기 끊을 때 나타나는 일시적 반응)**이 생길 수 있습니다. 반드시 의사와 상의하여 서서히 줄이십시오.
+* **임의 중단 금지** : 증상이 좋아졌다고 갑자기 약을 끊으면 어지럼·저림·구역 등 \*\*중단 증상(몸이 약에 익숙해진 상태에서 갑자기 끊을 때 나타나는 일시적 반응)\*\*이 생길 수 있습니다. 반드시 의사와 상의하여 서서히 줄이십시오.
 * **초기 적응기** : 복용 첫 1\~2주 동안 불안이나 초조가 일시적으로 더 느껴질 수 있습니다. 증상이 심하거나 불면·충동성·자해 생각이 동반되면 기다리지 말고 즉시 담당 의사에게 연락하십시오.
 * **안정제(BZD) 주의** : 안정제는 의존성 예방을 위해 의사의 지시대로 단기간만 사용합니다.
 * 24세 이하에서는 복용 초기와 용량 변경 시 자살 생각이나 행동이 드물게 증가할 수 있습니다. 연령과 관계없이 우울감·초조가 심해지거나 자해 충동이 생기면 즉시 담당 의사에게 알려 주십시오.
