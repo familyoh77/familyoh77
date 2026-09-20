@@ -342,6 +342,33 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 ***
 
 ```mermaid
+graph TD
+    Start(["우울 증상 호소 또는 <br>선별 대상 성인"]) --> P2["PHQ-2"]
+    P2 --> Q1["PHQ-2 양성?"]
+    Q1 -->|아니오| Obs["경과 관찰, <br>필요 시 재검"]
+    Q1 -->|예| P9["PHQ-9 + 진단 면담<br>기능 손상·기간 평가"]
+    P9 --> Q2["자살·자해 사고?"]
+    Q2 -->|예| Risk["의도·계획·수단·과거 시도<br>악화·보호요인 평가"]
+    Risk --> Q3["즉각 위험?"]
+    Q3 -->|예| ER["혼자 두지 않음, 수단 차단<br>응급 평가"]
+    Q3 -->|아니오| Diff
+    Q2 -->|아니오| Diff["<b>감별</b>: 양극성·물질<br>·신체질환·약물"]
+    Diff --> Q4["양극성 의심 또는 <br>정신병적 양상?"]
+    Q4 -->|예| Ref["정신건강의학과 의뢰"]
+    Q4 -->|아니오| Sev["중증도 평가"]
+    Sev --> Mild["<b>경도</b>: 심리교육·운동·정신치료<br>적극적 관찰"]
+    Sev --> Mod["<b>중등도 이상</b>: 항우울제 <br>± 정신치료"]
+    Mod --> Ev["4~6주 재평가"]
+    Ev --> Q5["＜25% 호전?"]
+    Q5 -->|예| Adj["순응도·진단 재점검<br>증량·교체·병합 또는 의뢰"]
+    Q5 -->|아니오| Cont["관해까지 지속 후 <br>유지치료"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style ER fill:#f96,stroke:#e65100,stroke-width:2px
+    style Q1 fill:#fff9c4,stroke:#ffe082
+    style Q2 fill:#fff9c4,stroke:#ffe082
+    style Q3 fill:#fff9c4,stroke:#ffe082
+    style Q4 fill:#fff9c4,stroke:#ffe082
+    style Q5 fill:#fff9c4,stroke:#ffe082
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
