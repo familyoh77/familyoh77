@@ -287,7 +287,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 <table data-search="false"><thead><tr><th width="425">문항</th><th align="center">예</th><th align="center">아니오</th></tr></thead><tbody><tr><td>1. 평소 자신의 생활에 만족합니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>2.* 활동과 흥미가 많이 저하되었습니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>3. 앞날에 대해서 희망적입니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>4. 대부분의 시간을 맑은 정신으로 지냅니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>5. 대부분의 시간이 행복하다고 느낍니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>6. 지금 살아있다는 것이 아름답다고 생각합니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>7.* 가끔 낙담하고 우울하다고 느낍니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>8.* 지금 자신의 인생이 가치가 없다고 느낍니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>9. 인생이 흥미롭다고 느낍니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>10. 활력이 충만하다고 느낍니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>11.* 사소한 일에 자주 감정의 동요를 느낍니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>12.* 자주 울고 싶다고 느낍니까?</td><td align="center">1</td><td align="center">0</td></tr><tr><td>13. 아침에 일어나는 것이 즐겁습니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>14. 결정을 내리는 것이 수월합니까?</td><td align="center">0</td><td align="center">1</td></tr><tr><td>15. 당신의 마음은 이전처럼 편안합니까?</td><td align="center">0</td><td align="center">1</td></tr></tbody></table>
 
 * 배점 : '아니오'에 1점; \*2, 7, 8, 11, 12번은 '예'에 1점
-* 판정 : 선별도구이며 진단이나 중증도 분류를 대신하지 않음. 국내 검증연구에서는 ≥8점을 흔히 양성 선별 기준으로 사용하며, 특이도를 중시할 때 ≥10점을 사용할 수 있음. 양성 시 임상적 진단평가 시행
+* 판정 : 0\~5점 정상, 6\~9점 중등도 우울 증상, 10\~15점 중증 우울 증상. 선별도구이므로 진단이나 중증도 분류를 대신하지 않으며, 증상이 의심되면 임상적 진단평가 시행
 
 <p align="center"><em><mark style="color:$info;">Ref. 기백석. 한국판 노인 우울 척도 단축형의 표준화 예비연구. 신경정신의학 1996;35(2):298-307</mark></em></p>
 
@@ -399,10 +399,10 @@ graph TD
 ### <mark style="color:orange;">생활 습관 중재</mark>
 
 * [식이](../231_/217_-nutritiondiet-guideline.md) : 지중해식 식단 - 채소·과일·전곡류·생선·올리브유
-  * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT가 있음 (\[SMILES trial, BMC Med 2017]
+  * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT가 있음 \[SMILES trial, BMC Med 2017]
 * [운동](../231_/216_-physical-activity-guideline.md) : 걷기·조깅, 요가, 근력운동이 우울 증상 감소에 효과적이며 강도가 높을수록 효과가 큼 \[네트워크 메타분석, BMJ 2024]
 * 디지털 치료기기(DTx) : CBT 기반 디지털 중재를 경증\~중등도 우울증의 보조치료로 고려할 수 있음
-  * 국내에서는 2025년 블루케어-티([BlueKare-T](https://www.bluekare.kr/), CBT 기반 모바일), 2026년 [치유 포레스트 N](https://www.mindsai.co.kr/ko/cheeu)(VR 기반)이 우울장애 디지털치료기기로 허가됨. "의사 진료 → 처방 → 환자가 앱 설치·사용"의 방식으로 적용하며 제품별 처방 가능 기관과 비용 확인이 필요(비급여)
+  * 국내에서는 2025년 블루케어-티([BlueKare-T](https://www.bluekare.kr/), CBT 기반 모바일), 2026년 [치유 포레스트 N](https://www.mindsai.co.kr/ko/cheeu)(VR 기반)이 우울장애 디지털치료기기로 허가됨. "의사 진료 → 처방 → 환자가 앱 설치·사용"의 방식으로 적용하며 제품별 적응증·대상·임상 근거, 처방 가능 기관과 비용·급여 여부를 확인
 
 ### <mark style="color:orange;">정신 치료</mark>
 
@@ -467,12 +467,13 @@ graph TD
 * 부작용 : 구역, 발한, 변비, 성 기능 저하, 용량 의존적 혈압 상승(특히 venlafaxine 고용량 투여 시)
 * duloxetine : 적응을 위해 30 ㎎ qd로 1주간 시작 가능, 통상 60 ㎎ qd <mark style="color:blue;">\[드록틴]</mark>, <mark style="color:blue;">\[듀로셉톨]</mark>
   * 최대 120 ㎎/d까지 연구되었으나 60 ㎎/d 초과 용량의 추가 이익 근거는 없음
-  * neuropathic pain 적응 (☞ [통증](../220_/001_-pain.md#undefined-9))
+  * neuropathic pain 적응
   * 과음·만성 간질환 환자에서 회피
 * venlafaxine XR : 37.5 ㎎/d, 최대 225 ㎎/d <mark style="color:blue;">\[이팩사 XR]</mark>
 * desvenlafaxine : 50\~100 ㎎/d <mark style="color:blue;">\[프리스틱]</mark>
-* milnacipran : 유지 50 ㎎ bid(100 ㎎/d) <mark style="color:blue;">\[익셀]</mark>
-  * 내약성에 따라 저용량으로 시작하여 증량 가능
+* milnacipran : 우울증은 25 ㎎/d로 시작하여 점차 증량, 유지 50 ㎎ bid(100 ㎎/d), 아침·저녁 식사 중 복용 <mark style="color:blue;">\[익셀]</mark>
+  * 고령자의 우울증은 25 ㎎/d를 2\~3회 분할하여 시작하고 최대 60 ㎎/d; 신부전 환자는 신기능에 따라 감량
+  * 국내 적응증은 우울증과 섬유근육통
 
 #### <mark style="color:$primary;">TCA</mark>
 
@@ -519,7 +520,7 @@ graph TD
 
 ### <mark style="color:orange;">약제 선택</mark>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **KMAP-DD 2025 치료전략 활용 시 주의** : 아래 치료전략은 정신건강의학과 전문치료 상황을 포함한 전문가 합의 결과이며 근거기반 권고등급과 동일하지 않음. 항우울제 다제 병용, 비정형 항정신병제·기분조절제·정신자극제 강화요법은 부작용, 국내 허가 적응증 및 근거수준을 검토하여 정신건강의학과에서 시행하거나 협진함.
 
 일차진료에서는 항우울제 단독 또는 근거기반 정신치료로 시작하고, 정신병적 양상·혼재성 양상·치료저항성이 있으면 의뢰
@@ -540,7 +541,7 @@ graph TD
 * 구체적인 약물 우선 순위는 삽화의 중증도와 임상 아형에 따라 달라짐
 * KMAP-DD 2025는 이전 판보다 중증·정신병적 우울증에서 조기 병합치료와 비정형 항정신병약물 선호가 증가함
 
-**항정신병제** (☞ [치매](033_-dementia.md#undefined-20))
+**항정신병제**
 
 * 정신병적 양상(-)
   * 1차 약물 : aripiprazole <mark style="color:blue;">\[아빌리파이]</mark>, quetiapine <mark style="color:blue;">\[쎄로켈]</mark>
@@ -651,15 +652,15 @@ graph TD
 * 18\~25세 또는 자살 위험이 높은 환자는 항우울제 시작·증량 후 1주 이내 대면 또는 원격으로 검토하고, 이후 위험이 안정될 때까지 필요에 따라 자주 평가함
   * 그 외 성인은 보통 2주 이내 첫 검토를 시행
 * 고령자에서는 ½ 용량으로 시작, 2\~4주마다 용량 조절
-* 불안증이 동반되어 있는 경우 불안증 용량으로 시작할 수 있음 (✽보통 불안증 치료 용량은 우울증에 대한 용량보다 저용량임)
+* 불안 또는 공황 증상이 동반되면 초기 활성화를 줄이기 위해 저용량으로 시작할 수 있으나, 목표 용량은 진단·반응·내약성에 따라 조절함
 
 ### <mark style="color:orange;">치료 반응 판정</mark>
 
 * 치료 목표는 반응(Response)이 아닌 관해(Remission)임. 단순한 증상 감소에 그치지 않고 우울 증상이 거의 없는 상태까지 도달하는 것이 장기 예후와 재발 방지에 결정적
-  * Response : 증상의 ≥50% 호전&#x20;
+  * Response : 증상의 ≥50% 호전
   * Remission : 우울 척도상 진단 기준치 이하로 호전 - 최종 치료 목표
     * Remission 기준 : PHQ-9 ＜5 (또는 MADRS ≤10, HAM-D ≤7)
-* 초기 반응 : 2\~4주에 호전이 ＜20%이면 순응도·용량 점검 및 증량 검토&#x20;
+* 초기 반응 : 2\~4주에 호전이 ＜20%이면 순응도·용량 점검 및 증량 검토
   * 초기의 호전 부재는 최종 무반응의 예측 인자임
 * 1차 판정 : 충분 용량 4\~6주 후 ＜25% 호전이면 교체·병합 또는 의뢰 검토
 * 최종 판정 : 6\~8주(최대 12주)에 반응·관해 평가
@@ -744,8 +745,8 @@ graph TD
   * lithium
   * 정신자극제 : methylphenidate, modafinil
   * 갑상선 호르몬
-  * esketamine&#x20;
-* esketamine : NMDA 수용체 길항을 통해 빠른 항우울 효과를 나타내는 비강분무제
+  * esketamine
+* esketamine : NMDA 수용체 길항을 통해 빠른 항우울 효과를 나타내는 비강분무제 (국내 허가사항 기준)
   * TRD(＜65세) : 유도기(1\~4주, 주 2회) 1일째 56 ㎎ → 이후 56 또는 84 ㎎; 유지기 5\~8주 매주, 9주 이후 2주마다 또는 매주 56\~84 ㎎; 증상 개선 후에도 최소 6개월 치료
   * TRD(≥65세) : 초회 28 ㎎ → 이후 28\~84 ㎎(28 ㎎ 단위 증감)
   * 자살사고·행동 동반 MDD : 84 ㎎ 주 2회 4주(내약성에 따라 56 ㎎), 4주 후 경구 항우울제 지속 여부는 임상적 판단
@@ -757,7 +758,7 @@ graph TD
 
 #### <mark style="color:$primary;">비약물학 요법</mark>
 
-<mark style="color:cyan;">**생물학적 치료**</mark>&#x20;
+<mark style="color:cyan;">**생물학적 치료**</mark>
 
 * 전기경련치료(ECT), 신경조절술(Neuromodulation)
 * 반복적 경두개 자기자극술(rTMS) : 주로 좌측 배외측 전전두엽(DLPFC)을 자극하며 약물 불내성 또는 충분한 항우울제 치료에 반응이 부족할 때 고려
@@ -769,7 +770,7 @@ graph TD
   * 아직 표준 치료로 권고되지 않음 (근거 수준 낮음)
 * ECT : 중증·치료저항성·정신병적 양상·급성 자살 위기 시 가장 효과적; 전신마취 필요
 
-<mark style="color:cyan;">**심리 사회적 치료**</mark>&#x20;
+<mark style="color:cyan;">**심리 사회적 치료**</mark>
 
 * 인지행동 치료, 마음챙김(mindfulness) 치료, 변증법적 행동 치료, 행동 활성화 치료
 
@@ -904,7 +905,7 @@ graph TD
 
 **"증상이 좋아졌는데 왜 약을 계속 먹어야 하나요?"**
 
-증상이 좋아졌다는 것은 약이 잘 듣고 있다는 신호입니다. 하지만 증상이 좋아진 직후에 약을 끊으면 재발 위험이 높다는 것이 연구로 확인되어 있습니다. 당뇨나 고혈압처럼 수치가 정상이 되어도 약을 유지하는 것과 같은 원리입니다. 담당 의사와 상의하여 충분한 기간(보통 6\~12개월 이상) 유지한 뒤 서서히 감량합니다.
+증상이 좋아진 직후에 약을 끊으면 재발 위험이 높아질 수 있습니다. 담당 의사와 상의하여 충분한 기간(보통 6\~12개월 이상) 유지한 뒤, 재발 위험과 치료 경과에 따라 서서히 감량합니다.
 
 #### <mark style="color:$primary;">우울증 vs 슬픔 vs 번아웃 - 어떻게 다른가요?</mark>
 
