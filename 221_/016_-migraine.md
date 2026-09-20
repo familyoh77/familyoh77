@@ -136,8 +136,8 @@ D. 두통이 있는 동안 다음 중 ≥1가지 해당
 
 E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
-> _¹⁾ 무조짐편두통의 모든 진단 기준을 충족하지만 ＜5번의 발작만 있었으면 개연무조짐편두통(Probable migraine without aura)으로 분류_\
-> _&#xB2;⁾ 편두통 상태에서 잠이 들었다가 잠에서 깰 때 두통이 없었다면 깨어날 때까지의 시간을 발작 시간으로 간주_
+> _¹⁾무조짐편두통의 모든 진단 기준을 충족하지만 ＜5번의 발작만 있었으면 개연무조짐편두통(Probable migraine without aura)으로 분류_\
+> _&#xB2;⁾편두통 상태에서 잠이 들었다가 잠에서 깰 때 두통이 없었다면 깨어날 때까지의 시간을 발작 시간으로 간주_
 
 #### <mark style="color:$primary;">Migraine with aura (조짐 편두통)</mark>
 
@@ -163,9 +163,9 @@ C. 다음의 여섯 가지 특징 중 ≥3가지 해당
 
 D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
-> _¹⁾ 예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
-> _&#xB2;⁾ 실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
-> _&#xB3;⁾ 섬광암점과 따끔거림은 조짐의 양성 증상임_
+> _¹⁾예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
+> _&#xB2;⁾실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
+> _&#xB3;⁾섬광암점과 따끔거림은 조짐의 양성 증상임_
 
 #### <mark style="color:$primary;">Chronic migraine (만성 편두통)</mark>
 
@@ -284,9 +284,9 @@ flowchart TD
 
 <table data-search="false"><thead><tr><th width="202">성분명 [상품명]</th><th width="241">용량·최소 재투여 간격 [최대]</th><th width="108">반감기 (h)</th></tr></thead><tbody><tr><td>sumatriptan <mark style="color:blue;">[이미그란]</mark></td><td>50 ㎎ q2h [300 ㎎/d]¹⁾</td><td>2</td></tr><tr><td>rizatriptan²⁾</td><td>5~10 ㎎ q2h [30 ㎎/d]³⁾</td><td>2~3</td></tr><tr><td>zolmitriptan <mark style="color:blue;">[조믹]</mark></td><td>2.5~5 ㎎ q2h [10 ㎎/d]</td><td>3</td></tr><tr><td>almotriptan <mark style="color:blue;">[알모그란]</mark></td><td>6.25~12.5 ㎎ q2h [25 ㎎/d]</td><td>3~4</td></tr><tr><td>eletriptan²⁾</td><td>20~40 ㎎ q2h [80 ㎎/d]</td><td>4</td></tr><tr><td>naratriptan <mark style="color:blue;">[나라믹]</mark></td><td>2.5 ㎎ q4h [5 ㎎/d]</td><td>6</td></tr><tr><td>frovatriptan <mark style="color:blue;">[미가드]</mark></td><td>2.5 ㎎ q2h [7.5 ㎎/d]</td><td>25</td></tr></tbody></table>
 
-> _¹⁾ 국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 최대 200 ㎎/d_\
-> _&#xB2;⁾ rizatriptan, eletriptan : 현재 국내 미출시(시판 제품 없음)_\
-> _&#xB3;⁾ propranolol 병용 시 rizatriptan AUC 약 70% 상승 → 5 ㎎/회, 최대 15 ㎎/d로 용량 제한_
+> _¹⁾국내 및 EMA 허가 기준 최대 300 ㎎/d; FDA 기준 최대 200 ㎎/d_\
+> _&#xB2;⁾rizatriptan, eletriptan : 현재 국내 미출시(시판 제품 없음)_\
+> _&#xB3;⁾propranolol 병용 시 rizatriptan AUC 약 70% 상승 → 5 ㎎/회, 최대 15 ㎎/d로 용량 제한_
 >
 > _✽ 용량과 재투여 간격은 국내 허가사항을 우선 확인_
 
