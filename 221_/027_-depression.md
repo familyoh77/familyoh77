@@ -251,7 +251,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
   8. 남들이 알아챌 정도로 거동이나 말이 느림, 또는 반대로 너무 초조하고 안절부절 못해서 평소보다 많이 돌아다니고 서성거림
   9. 나는 차라리 죽는 것이 낫겠다는 등의 생각 혹은 어떤 식으로든 스스로를 자해하는 생각들
 * 배점 : 9개 항목에 각각 전혀 아니다=0점, 여러날 동안=1점, 일주일 이상=2점, 거의 매일=3점 (총 0\~27점)
-* 출처 : 건강검진 실시기준 \[별지 제14호 서식] [정신건강검사 평가도구](file:///C:/Users/pc/Downloads/\[%EB%B3%84%EC%A7%80%2014]%20%EC%A0%95%EC%8B%A0%EA%B1%B4%EA%B0%95%EA%B2%80%EC%82%AC\(%EC%9A%B0%EC%9A%B8%EC%A6%9D\)%20%ED%8F%89%EA%B0%80%EB%8F%84%EA%B5%AC\(%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84%20%EC%8B%A4%EC%8B%9C%EA%B8%B0%EC%A4%80\)%20\(1\).pdf)(PHQ-9)
+* 출처 : 건강검진 실시기준 \[별지 제14호 서식] [정신건강검사 평가도구](https://www.gangnam.go.kr/office/smilegn/contents/smilegn_adult/1/view.do?mid=smilegn_depression)(PHQ-9)
 
 **\[삶의 질 평가]** (참고 문항)
 
@@ -399,7 +399,7 @@ graph TD
 ### <mark style="color:orange;">생활 습관 중재</mark>
 
 * [식이](../231_/217_-nutritiondiet-guideline.md) : 지중해식 식단 - 채소·과일·전곡류·생선·올리브유
-  * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT가 있음 (\[MILES trial, BMC Med 2017]
+  * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT가 있음 (\[SMILES trial, BMC Med 2017]
 * [운동](../231_/216_-physical-activity-guideline.md) : 걷기·조깅, 요가, 근력운동이 우울 증상 감소에 효과적이며 강도가 높을수록 효과가 큼 \[네트워크 메타분석, BMJ 2024]
 * 디지털 치료기기(DTx) : CBT 기반 디지털 중재를 경증\~중등도 우울증의 보조치료로 고려할 수 있음
   * 국내에서는 2025년 블루케어-티([BlueKare-T](https://www.bluekare.kr/), CBT 기반 모바일), 2026년 [치유 포레스트 N](https://www.mindsai.co.kr/ko/cheeu)(VR 기반)이 우울장애 디지털치료기기로 허가됨. "의사 진료 → 처방 → 환자가 앱 설치·사용"의 방식으로 적용하며 제품별 처방 가능 기관과 비용 확인이 필요(비급여)
@@ -779,6 +779,7 @@ graph TD
 
 * F32.0 경도 우울에피소드 Mild depressive episode
 * F32.1 중등도 우울에피소드 Moderate depressive episode
+* F32.2 정신병적 증상이 없는 중증의 우울에피소드 Severe depressive episode without psychotic symptoms
 * F32.3 정신병적 증상이 있는 중증의 우울에피소드 Severe depressive episode with psychotic symptoms
 * F32.9 상세불명의 우울에피소드 Depressive episode, unspecified
 * F33 재발성 우울장애 Recurrent depressive disorder
