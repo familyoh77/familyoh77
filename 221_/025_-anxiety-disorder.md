@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 이 챕터는 불안장애 중 범불안장애(Generalized Anxiety Disorder, GAD)의 진단과 치료를 중심으로 다룸.\
-불안장애 · [공황장애](026_-panic-disorder.md) · [우울증](027_-depression.md) · [산후우울증](028_-postpartum-depression.md) 등은 동반 이환이 매우 흔함(해당 챕터 참조)
+불안장애 · [공황장애](026_-panic-disorder.md) · [우울증](027_-depression.md) · [산후우울증](028_-postpartum-depression.md) 등은 상호 동반 이환이 매우 흔함(해당 챕터 참조)
 {% endhint %}
 
 ## <mark style="color:green;">일반 사항</mark>
