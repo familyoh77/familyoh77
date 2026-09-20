@@ -589,17 +589,18 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 #### <mark style="color:$primary;">임상 표현형(Phenotype)에 따른 항우울제 선택</mark>
 
-<table data-search="false"><thead><tr><th width="200">임상 표현형</th><th width="200">고려 약물</th><th>근거/특징</th></tr></thead><tbody><tr><td>불면 동반 (Insomnia dominant)</td><td>mirtazapine</td><td>진정·졸림과 체중 증가 가능성을 사전 설명. 저용량에서 진정이 두드러질 수 있으나 개인차가 크며 증량 시 반드시 감소한다고 단정하지 않음</td></tr><tr><td>무기력/무쾌감 (Fatigue/Apathy dominant)</td><td>bupropion</td><td>도파민/노르에피네프린 작용; 진정과 체중 증가 부담이 상대적으로 낮음</td></tr><tr><td>불안 동반 (Anxiety dominant)</td><td>escitalopram, sertraline</td><td>SSRI 고려; 초기 불안 악화 가능 → 저용량 시작</td></tr><tr><td>만성 통증 동반 (Pain dominant)</td><td>duloxetine</td><td>SNRI; 신경병증성 통증 적응; milnacipran 대안</td></tr><tr><td>체중 증가 우려</td><td>bupropion, fluoxetine</td><td>체중 증가 부담이 상대적으로 낮음<br>(bupropion은 체중 감소 가능)</td></tr><tr><td>성기능 장애 우려</td><td>bupropion, vortioxetine</td><td>SSRI/SNRI보다 성기능 부작용 부담이 상대적으로 낮음</td></tr><tr><td>인지 기능 저하 동반</td><td>vortioxetine</td><td>인지 증상 개선 근거가 있으나 원인 감별과 기능 평가를 병행</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="166">임상 표현형</th><th width="200">고려 약물</th><th>근거/특징</th></tr></thead><tbody><tr><td>불면 동반 (Insomnia dominant)</td><td>mirtazapine</td><td>진정·졸림과 체중 증가 가능성을 사전 설명. 저용량에서 진정이 두드러질 수 있으나 개인차가 크며 증량 시 반드시 감소한다고 단정하지 않음</td></tr><tr><td>무기력/무쾌감 (Fatigue/Apathy dominant)</td><td>bupropion</td><td>도파민/노르에피네프린 작용; 진정과 체중 증가 부담이 상대적으로 낮음</td></tr><tr><td>불안 동반 (Anxiety dominant)</td><td>escitalopram, sertraline</td><td>SSRI 고려; 초기 불안 악화 가능 → 저용량 시작</td></tr><tr><td>만성 통증 동반 (Pain dominant)</td><td>duloxetine</td><td>SNRI; 신경병증성 통증 적응; milnacipran 대안</td></tr><tr><td>체중 증가 우려</td><td>bupropion, fluoxetine</td><td>체중 증가 부담이 상대적으로 낮음<br>(bupropion은 체중 감소 가능)</td></tr><tr><td>성기능 장애 우려</td><td>bupropion, vortioxetine</td><td>SSRI/SNRI보다 성기능 부작용 부담이 상대적으로 낮음</td></tr><tr><td>인지 기능 저하 동반</td><td>vortioxetine</td><td>인지 증상 개선 근거가 있으나 원인 감별과 기능 평가를 병행</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">동반 질환에 따른 항우울제의 선택</mark>
 
-<table data-search="false"><thead><tr><th width="117">동반 질환</th><th width="128">1차 선택</th><th width="138">2차 선택</th><th width="127">3차 선택</th></tr></thead><tbody><tr><td>당뇨</td><td>escitalopram</td><td>sertraline</td><td>bupropion</td></tr><tr><td>고혈압</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>갑상선 질환</td><td>escitalopram</td><td>sertraline</td><td>fluoxetine</td></tr><tr><td>간/신장 질환</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>뇌전증</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>파킨슨병</td><td>escitalopram</td><td>sertraline</td><td>bupropion</td></tr><tr><td>만성통증 *(☞ 임상 표현형 표 참조)*</td><td>duloxetine</td><td>milnacipran</td><td>venlafaxine</td></tr><tr><td>심혈관 질환</td><td>sertraline</td><td>escitalopram</td><td>tianeptine</td></tr><tr><td>부정맥</td><td>sertraline</td><td>escitalopram</td><td>fluoxetine</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>동반 질환</th><th>1차 선택</th><th>2차 선택</th><th>3차 선택</th></tr></thead><tbody><tr><td>당뇨</td><td>escitalopram</td><td>sertraline</td><td>bupropion</td></tr><tr><td>고혈압</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>갑상선 질환</td><td>escitalopram</td><td>sertraline</td><td>fluoxetine</td></tr><tr><td>간/신장 질환</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>뇌전증</td><td>escitalopram</td><td>sertraline</td><td>tianeptine</td></tr><tr><td>파킨슨병</td><td>escitalopram</td><td>sertraline</td><td>bupropion</td></tr><tr><td>만성통증</td><td>duloxetine</td><td>milnacipran</td><td>venlafaxine</td></tr><tr><td>심혈관 질환</td><td>sertraline</td><td>escitalopram</td><td>tianeptine</td></tr><tr><td>부정맥</td><td>sertraline</td><td>escitalopram</td><td>fluoxetine</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">약물 안정성을 고려한 항우울제의 선택</mark>
 
-<table><thead><tr><th width="137"></th><th width="135">1차 선택</th><th width="149">2차 선택</th><th width="136">3차 선택</th></tr></thead><tbody><tr><td>안전사고</td><td>bupropion</td><td>escitalopram</td><td>fluoxetine</td></tr><tr><td>세로토닌증후군</td><td>bupropion</td><td>tianeptine</td><td>agomelatine</td></tr><tr><td>기립성 저혈압</td><td>bupropion, escitalopram</td><td>mirtazapine</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="148"></th><th width="233">1차 선택</th><th>2차 선택</th><th>3차 선택</th></tr></thead><tbody><tr><td>안전사고</td><td>bupropion</td><td>escitalopram</td><td>fluoxetine</td></tr><tr><td>세로토닌증후군</td><td>bupropion</td><td>tianeptine</td><td>agomelatine</td></tr><tr><td>기립성 저혈압</td><td>bupropion, escitalopram</td><td>mirtazapine</td><td></td></tr></tbody></table>
 
-✽자살사고 동반 시 특정 항우울제를 자살예방 목적으로 우선 선택하지 않음. 위험도 평가, 안전계획·수단 제한, 소량 처방과 조기 추적, 정신건강의학과 협진을 우선하며, 과량 복용 독성(TCA 등)과 양극성·혼재성·활성화 위험을 고려하여 약제를 선택
+* 자살사고 동반 시 특정 항우울제를 자살예방 목적으로 우선 선택하지 않음
+* 위험도 평가, 안전계획·수단 제한, 소량 처방과 조기 추적, 정신건강의학과 협진을 우선하며, 과량 복용 독성(TCA 등)과 양극성·혼재성·활성화 위험을 고려하여 약제 선택
 
 #### <mark style="color:$primary;">약물 부작용에 따른 항우울제의 선택</mark>
 
@@ -607,22 +608,14 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 #### <mark style="color:$primary;">항우울제 처방 시작 템플릿</mark>
 
-{% hint style="info" %}
-**SSRI 표준 처방 흐름 (Start → Titrate → Evaluate → Decide → Maintain)**
-{% endhint %}
+* SSRI 표준 처방 흐름 (Start → Titrate → Evaluate → Decide → Maintain)
 
-| 단계           | 시점        | 조치                                                                          |
-| ------------ | --------- | --------------------------------------------------------------------------- |
-| **Start**    | 처방 시작     | 저용량 시작(escitalopram 5 ㎎ 또는 sertraline 25 ㎎); 부작용·중단 교육; 과거 조증·경조증 및 자살위험 평가 |
-| **Titrate**  | 1\\\~2주 후 | 내약성과 반응에 따라 표준 용량으로 증량(escitalopram 10 ㎎, sertraline 50 ㎎)                  |
-| **Evaluate** | 4\\\~6주 후 | PHQ-9와 기능을 함께 재평가; 반응 부족 시 순응도·진단·용량을 점검하고 증량 또는 교체 검토                      |
-| **Decision** | 6\\\~8주 후 | 충분한 반응이면 지속; 반응 부족이면 교체·병용·강화 또는 전문의뢰                                       |
-| **Maintain** | 관해 후      | 재발 위험, 삽화 횟수, 잔류 증상 및 환자 선호에 따라 유지 기간 결정                                    |
+<table><thead><tr><th width="126">단계</th><th width="116">시점</th><th>조치</th></tr></thead><tbody><tr><td><strong>Start</strong></td><td>처방 시작</td><td>저용량 시작(escitalopram 5 ㎎ 또는 sertraline 25 ㎎); 부작용·중단 교육; 과거 조증·경조증 및 자살위험 평가</td></tr><tr><td><strong>Titrate</strong></td><td>1~2주 후</td><td>내약성과 반응에 따라 표준 용량으로 증량(escitalopram 10 ㎎, sertraline 50 ㎎)</td></tr><tr><td><strong>Evaluate</strong></td><td>4~6주 후</td><td>PHQ-9와 기능을 함께 재평가; 반응 부족 시 순응도·진단·용량을 점검하고 증량 또는 교체 검토</td></tr><tr><td><strong>Decision</strong></td><td>6~8주 후</td><td>충분한 반응이면 지속; 반응 부족이면 교체·병용·강화 또는 전문의뢰</td></tr><tr><td><strong>Maintain</strong></td><td>관해 후</td><td>재발 위험, 삽화 횟수, 잔류 증상 및 환자 선호에 따라 유지 기간 결정</td></tr></tbody></table>
 
 ### <mark style="color:orange;">용량 조절</mark>
 
 * 저용량으로 시작하고 초기 내약성·자살위험·임상적 필요에 따라 추적 간격을 정함
-* 18\~25세 또는 자살위험이 높은 환자는 항우울제 시작·증량 후 **1주 이내** 대면 또는 원격으로 검토하고, 이후 위험이 안정될 때까지 필요에 따라 자주 평가함. 그 외 성인은 보통 **2주 이내** 첫 검토를 시행
+* 18\~25세 또는 자살위험이 높은 환자는 항우울제 시작·증량 후 1주 이내 대면 또는 원격으로 검토하고, 이후 위험이 안정될 때까지 필요에 따라 자주 평가함. 그 외 성인은 보통 2주 이내 첫 검토를 시행
 * 고령자에서는 ½ 용량으로 시작, 2\~4주마다 용량 조절
 * 불안증이 동반되어 있는 경우 불안증 용량으로 시작할 수 있음 (✽보통 불안증 치료 용량은 우울증에 대한 용량보다 저용량임)
 
