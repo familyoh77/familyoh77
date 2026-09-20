@@ -175,8 +175,10 @@
 
 * 비율 : 전체 고혈압 환자의 약 5\~10%; 젊은 연령이나 난치성(혹은 저항성) 고혈압에서는 10\~35%까지 높게 보고됨
 * 원인 : 폐쇄수면무호흡증(가장 흔함), 콩팥 질환, 갑상선 질환, 부갑상선항진증, 원발성 aldosteronism, 쿠싱증후군, 갈색세포종, 대동맥 축착, 약물
-  * 유발 약물 : 경구 피임제 (특히 고에스트로겐제), 스테로이드, NSAID 장기 투여, 식욕 억제제, TCA, SNRI(venlafaxine 등), pseudoephedrine, clozapine, olanzapine, cyclosporine, tacrolimus, erythropoietin
+  * 유발 약물 : 경구 피임제 (특히 고에스트로겐제), 스테로이드, NSAID 장기 투여, 식욕 억제제, TCA, SNRI(venlafaxine 등), pseudoephedrine, clozapine, olanzapine, cyclosporine, tacrolimus, erythropoietin, amphetamine류(ADHD 약제), VEGF 억제제·TKI, 안드로겐 차단요법(ADT), tizanidine, MAOI
+    * 대안 \[2025 ACC/AHA] : NSAID → 국소 NSAID·acetaminophen(＜4 g/d); 비충혈제거제 → 생리식염수·비강 스테로이드; cyclosporine → tacrolimus; 조절 안 되는 여성의 경구피임제 → 저용량 또는 progestin-only; 경구 clonidine은 서서히 감량 후 중단
   * OSA 감별 : STOP-BANG 점수 ≥3점 시 수면다원검사 고려
+    * OSA 동반 과체중 고혈압은 체중 감량 + CPAP; 저항성 고혈압 + 중등도 이상 OSA는 CPAP 치료 \[2025 ACC/AHA]
 * 감별 검사 대상
   1. 갑자기 발생한 고혈압
   2. 연령, 병력, 신체 진찰, 고혈압의 중증도나 기본 검사실 검사상 이차성 고혈압이 의심됨
@@ -193,10 +195,11 @@
 • 난치성(저항성) 고혈압\
 • 부신 우연종(adrenal incidentaloma)\
 • 조기 발병 고혈압\
-• 저칼륨혈증\
+• 저칼륨혈증 (자발성 또는 이뇨제 유발)\
 • 폐쇄성 수면무호흡증\
 • 40세 미만 뇌졸중 가족력 또는 일차성 알도스테론증 가족력
 
+✽ \[2025 ACC/AHA] 2기 고혈압(≥140/90 ㎜Hg)에서도 선별 고려; 선별 양성 시 고혈압 전문의 또는 내분비내과 의뢰\
 ✽ 선별검사 전 MRA(스피로놀락톤 등)는 중단하나, 그 외 대부분의 항고혈압제는 중단하지 않고 유지
 {% endhint %}
 
@@ -205,6 +208,14 @@
 <table><thead><tr><th width="124">원인</th><th width="203">과거력</th><th width="123">신체 진찰</th><th>진단 검사</th></tr></thead><tbody><tr><td><strong>콩팥 실질병</strong></td><td>요로감염 또는 폐색 병력, 진통제 남용, 다낭콩팥병 가족력</td><td>복부 중앙 (다낭콩팥병)</td><td>•콩팥 초음파, 콩팥병에 대한 세부 검사<br>•소변 내 단백질·적혈구·백혈구 양성, eGFR 감소</td></tr><tr><td><strong>콩팥 동맥 협착</strong></td><td>섬유근육 형성이상·고혈압 조기 발현(여성), 죽상동맥경화증·갑자기 발현, 악화 및 치료 저항성·반복적 폐부종</td><td>복부 잡음</td><td>•양측 콩팥 크기 차이 ＞1.5 cm; Duplex 도플러 콩팥 초음파, CT, MR Angiography, 동맥 내 혈관 조영<br>•ACEI/ARB 투여 후 eGFR 급감</td></tr><tr><td><strong>원발성 알도스테론증</strong></td><td>근력 저하, 고혈압 조기 발병 ≤40세</td><td>-</td><td>•ARR 측정 (상승); 확진 검사: 부신 CT, 부신 정맥 혈액 채취<br>•저칼륨혈증</td></tr><tr><td><strong>갈색세포종</strong></td><td>발작 또는 지속적인 고혈압에 동반되는 두통, 발한, 심계항진; 가족력</td><td>신경섬유종증 징후 (café-au-lait 반점)</td><td>•24시간 소변 내 메타네프린 및 노르메타네프린 (상승); 복부·골반 CT 또는 MRI (부신 종양)</td></tr><tr><td><strong>쿠싱증후군</strong></td><td>빠른 체중 증가, 다모, 다낭성 난소 병력</td><td>중심성 비만, 달 얼굴, 복부 선홍색 선조, 근력 저하</td><td>•24시간 소변 내 유리 코티솔 (상승); 덱사메타손 억제 검사 (비억제); 심야 타액 코티솔 (상승)<br>•고혈당</td></tr></tbody></table>
 
 _ARR=aldosterone-to-renin ratio_
+
+{% hint style="info" %}
+**신동맥 협착의 관리** \[2025 ACC/AHA]
+
+• 죽상경화성 : RAS 차단제 포함 강압 치료 + 고강도 스타틴 + 금연 + 항혈소판제 + (당뇨병 시) 혈당 조절\
+• 내과 치료 실패(조절 불량·저항성 고혈압, 신기능 악화, 급성 심부전) 시 재관류(PTRA/스텐트) 의뢰 고려\
+• 비죽상경화성(FMD, 타카야수 동맥염) : PTRA 의뢰 고려
+{% endhint %}
 
 #### <mark style="color:$primary;">연령별 이차성 고혈압 원인</mark>
 
@@ -308,6 +319,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 **측정 유의 사항**
 
+* \[2025 ACC/AHA] 진료실에서는 청진법보다 검증된 자동(oscillometric) 혈압계를 우선 사용; 측정 결과는 환자에게 구두 및 서면으로 알림
 * 심박동음이 너무 약한 경우 커프를 풀고 팔을 위로 들고 주먹을 쥐었다 펴는 동작을 10회 정도 반복한 후 측정
 * 누워서 측정하는 경우에는 상지에 베개를 받침
   * 누운 자세가 선 자세보다 SBP로 8 ㎜Hg 높음
@@ -318,6 +330,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 * 진료실혈압보다 심혈관 질환과의 연관성이 높음
 * 대상 : 모든 고혈압 환자; 특히 백의/가면 고혈압 의심, 심한 진료실혈압 변동, 약제 반응 미흡 시
+  * \[2025 ACC/AHA] 진료실 SBP 130\~160 또는 DBP 80\~100 ㎜Hg → 백의 고혈압 배제; 진료실 혈압 ＜130/80 ㎜Hg(미치료 또는 치료 중) → 가면(비조절) 고혈압 배제
 * 심한 부정맥이나 임신 중에는 부정확할 수 있음
 * 혈압계 선택 : 위팔 혈압계를 권고; 위팔이 매우 굵은 경우에는 손목 혈압계를 고려; 손가락 혈압계는 측정 오차가 많아 권고하지 않음; 혈압계의 주기적 점검을 권고
 * 측정 시각
@@ -331,6 +344,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 * 장점 : 커프 압박 없이 일상생활·수면 중 연속 측정 가능; 혈압 변동성 평가 및 자가관리 향상에 기여 가능
 * 국내 현황 : 반지형 혈압계는 식약처 허가 + 24시간 활동혈압감시 건강보험 수가 적용
 * 한계 및 주의 : 기기별 정확도 차이가 크며, 표준화된 임상 적용 지침 미비; SBP가 매우 높거나 낮은 경우, 심방세동·말초혈관질환·당뇨병·말기 신부전·임신 등에서는 기기별 정확도가 저하될 수 있으므로 특히 주의; 진료실 밖 혈압 측정 시 보조적 혈압 감시 수단으로 활용을 고려할 수 있음\[2026 대한고혈압학회]. 단, 진단·치료 결정은 검증된 커프형 혈압계 기준으로 판단
+* \[2025 ACC/AHA] 정확도 검증이 미흡하여 커프리스 혈압계는 사용하지 않도록 권고 - 대한고혈압학회(보조적 활용 고려)와 입장이 다름
 
 #### <mark style="color:$primary;">활동 혈압 측정</mark>
 
@@ -378,7 +392,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 * 12-유도 심전도
 * 소변검사 : 단백뇨, 혈뇨, 당뇨병
 * 혈색소(빈혈), 적혈구 용적률
-* K, Na, Cr, eGFR, 요산
+* K, Na, Ca, Cr, eGFR, 요산
 * 공복혈당, 지질 (총콜레스테롤, HDL-콜레스테롤, LDL-콜레스테롤, 중성지방)
 * TSH
 * 흉부 X선
@@ -403,7 +417,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 * 무증상 장기 손상에 대한 뇌, 심장, 콩팥, 혈관 검사
 * 이차성 고혈압의 진단을 위한 검사
-  * \[ACC/AHA] 권고 선택 검사 : 심초음파, 요산, 소변 Alb/Cr ratio
+  * \[2025 ACC/AHA] UACR(또는 UPCR)과 혈청 Ca은 기본 검사에 포함 (2017 지침의 선택 검사에서 상향)
 * 심혈관 사망률을 예측하는 무증상 표적 장기 손상 지표 : ⓵ (미세)알부민뇨, ⓶ 경동맥-대퇴 맥파 전달 속도 증가, ⓷ 좌심실비대, ⓸ 경동맥 플라크
 
 　<mark style="color:purple;">※ 단백뇨↑와 GFR↓가 모두 있는 경우에 어느 하나만 있는 경우보다 심혈관 및 신질환 위험이 크게 증가함</mark>
@@ -436,7 +450,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
   * 심한 야간 저혈압 주의 (허혈성 시신경증 유발 가능)
 
 {% hint style="info" %}
-**\[2025 ACC/AHA]** 주요 변경 사항 : ⓵ 치료 기준으로 ASCVD 계산기 대신 PREVENT (Predicting Risk of CVD Events) 위험 계산기 사용 권고 - 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 데이터 포함; ⓶ 치료 시작 기준 위험도를 ≥10% → ≥7.5%로 낮춤; ⓷ 원발성 알도스테론증 스크리닝 강화; ⓸ atenolol 회피 권고
+**\[2025 ACC/AHA]** 주요 변경 사항 : ⓵ 치료 기준으로 ASCVD 계산기 대신 PREVENT (Predicting Risk of CVD Events) 위험 계산기 사용 권고 - 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 데이터 포함; ⓶ 치료 시작 기준 위험도를 ≥10% → ≥7.5%로 낮춤; ⓷ 원발성 알도스테론증 스크리닝 강화; ⓸ β-차단제는 강한 적응증(허혈성 심질환, 부정맥, 심부전) 없이는 1차 약제로 사용하지 않음; atenolol은 임신 계획·임신 중 금기
 {% endhint %}
 
 {% hint style="info" %}
@@ -461,9 +475,10 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 **ACC/AHA** (2025)
 
-<table><thead><tr><th width="338.90478515625">대상</th><th width="120">목표 혈압</th><th>주요 원칙</th></tr></thead><tbody><tr><td>대부분의 성인</td><td>&#x3C;130/80</td><td>-</td></tr><tr><td>CVD, 당뇨, CKD 또는 PREVENT 10년 위험도 ≥7.5%</td><td>&#x3C;130/80</td><td>thiazide-type diuretics, 장기작용 DHP-CCB, ACEI/ARB</td></tr><tr><td>2기 고혈압 (≥140/90)</td><td>&#x3C;130/80</td><td>서로 다른 2개 1차 약제의 SPC 선호</td></tr><tr><td>고령·요양시설 거주·여명 제한·임신 등</td><td>개별화</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="338.90478515625">대상</th><th width="120">목표 혈압</th><th>주요 원칙</th></tr></thead><tbody><tr><td>대부분의 성인</td><td>&#x3C;130/80</td><td>-</td></tr><tr><td>CVD, 당뇨, CKD 또는 PREVENT 10년 위험도 ≥7.5%</td><td>&#x3C;130/80</td><td>thiazide-type diuretics, 장기작용 DHP-CCB, ACEI/ARB</td></tr><tr><td>2기 고혈압 (≥140/90)</td><td>&#x3C;130/80</td><td>서로 다른 2개 1차 약제의 SPC 선호</td></tr><tr><td>고위험 1기 고혈압 (130~139/80~89)</td><td>&#x3C;130/80</td><td>서로 다른 2개 1차 약제의 초기 병용(SPC) 고려</td></tr><tr><td>고령·요양시설 거주·여명 제한·임신 등</td><td>개별화</td><td>-</td></tr></tbody></table>
 
-　_PREVENT 위험도 계산기를 사용하여 치료 필요성을 평가; 저위험(PREVENT ＜7.5%)에서 평균 혈압이 ≥130/80 ㎜Hg로 지속되면 3~6개월 생활요법 후 약물 치료 시작 권고_
+　_PREVENT 위험도 계산기를 사용하여 치료 필요성을 평가; 저위험(PREVENT ＜7.5%)에서 평균 혈압이 ≥130/80 ㎜Hg로 지속되면 3~6개월 생활요법 후 약물 치료 시작 권고_\
+　_✽ 내약성이 좋은 선택된 환자에서는 SBP ＜120 ㎜Hg의 보다 적극적인 목표가 적절할 수 있음_
 
 **ADA** (2026)
 
@@ -556,7 +571,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 　_³⁾ RM (repetition maximum): 정해진 횟수의 리프트를 할 수 있는 최대 무게_
 
 {% hint style="info" %}
-**칼륨 기반 소금 대체제**(예: KCl 혼합 저나트륨 소금) 사용이 고혈압 관리에 유용. 단, CKD 환자 또는 칼륨 배출을 억제하는 약제(ACEI/ARB/MRA) 복용 환자에서는 제외 \[2025 ACC/AHA]
+**칼륨 기반 소금 대체제**(예: KCl 혼합 저나트륨 소금) 사용이 고혈압 관리에 유용. 단, CKD 환자 또는 칼륨 배출을 억제하는 약제(ACEI/ARB/MRA) 복용 환자에서는 제외 \[2025 ACC/AHA]. 사용 시 24시간 요 Na·K 또는 혈청 K 모니터링 고려
 {% endhint %}
 
 ### <mark style="color:orange;">운동 요법</mark>
@@ -581,6 +596,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 호흡 훈련 : 완서호흡(slow breathing) 연습; 기기 보조 호흡 훈련 포함
 * 마음챙김(Mindfulness) : 마음챙김 명상(MBSR), 마음챙김 기반 인지치료
 * 명상 : 초월 명상, 집중 명상 등
+* 처방 예 \[2025 ACC/AHA] : 초월 명상 20분 × 2회/일, 기기 보조 호흡 훈련 ＜10회/분 × 15분/일, 요가
 * 효과 : SBP 평균 약 4\~5 ㎜Hg 감소 (개인차 있음); 불안·스트레스 감소 부가 이점
 * 적용 대상 : 스트레스 요인이 뚜렷한 고혈압 환자, 비약물 치료를 선호하는 환자, 약제 부작용으로 약물 용량 제한이 있는 경우
 
@@ -593,8 +609,8 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 　☞ [영양 지침](../231_/217_-nutritiondiet-guideline.md#dash-diet-the-dietary-approaches-to-stopping-hypertension)
 
 * 권장 : 과일 및 채소(8\~10 serv./d), 저지방 유제품(2\~3 serv./d), 생선(2회/wk)
-* 제한 : 음주(남 ≤2 SD/d, 여 ≤1 SD/d), 소금(＜5 g/d, 나트륨으로 ＜2 g; 2022년 기준 6 g/d에서 하향 조정), 단순 당(예: 설탕), 포화지방, 붉은 고기
-  * 카페인 : 일시적으로 혈압을 상승시킬 수 있음; 하루 2잔의 커피는 일반적으로 고혈압의 위험 인자는 아님
+* 제한 : 음주(금주 권고; 어려우면 남 ≤2 SD/d, 여 ≤1 SD/d 및 음주량 50% 이상 감소 \[2025 ACC/AHA]), 소금(＜5 g/d, 나트륨으로 ＜2 g; 2022년 기준 6 g/d에서 하향 조정), 단순 당(예: 설탕), 포화지방, 붉은 고기
+  * 카페인 : 일시적으로 혈압을 상승시킬 수 있음; 하루 2잔의 커피는 일반적으로 고혈압의 위험 인자는 아님; 카페인 ＜300 ㎎/d, 중증 비조절 고혈압에서는 커피 1잔/d 이하 \[2025 ACC/AHA]
 
 #### <mark style="color:$primary;">저염 식이</mark>
 
@@ -633,9 +649,10 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 <mark style="color:$primary;">**ACC/AHA**</mark> (2025)
 
-* CVD 병력, 당뇨병, CKD, PREVENT 10년 위험도 ≥7.5% 중 하나 이상 해당되는고위험군 : ≥130/80 ㎜Hg
+* 평균 ≥140/90 ㎜Hg : 위험도와 관계없이 약물 치료 시작 (서로 다른 2개 1차 약제의 SPC 선호)
+* CVD 병력, 당뇨병, CKD, PREVENT 10년 위험도 ≥7.5% 중 하나 이상 해당되는 고위험군 : ≥130/80 ㎜Hg (초기 2제 병용 고려)
 * 위 조건 모두 해당 없는 저위험군 : ≥130/80 ㎜Hg; 단 3\~6개월 생활요법 선행 후 목표미달 시 약물 치료
-* 심혈관에 영향을 주는 동반 질환이 있는 ≥65세 : SBP ≥130 ㎜Hg
+* 노쇠·요양시설 거주·여명 제한 고령자 : 고정된 수치 목표 없이 개별화
 
 **ESH** (2023)
 
@@ -703,6 +720,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 주의/금기 : 임신, 탈수·저혈량, 양측성 신동맥협착 또는 기능하는 단일 신장의 신동맥협착, 고칼륨혈증; 치료 시작 후 Cr/eGFR 및 K의 변화를 확인
   * s-Cr 3.0 ㎎/㎗ 이상이라는 단일 수치만으로 절대 금기로 판단하지 않으며, CKD 중증도와 변화 양상을 고려하여 개별화
   * 만성 콩팥병 환자에서 투여 전 및 투여 후 1\~2주/3개월/6개월에 칼륨 및 신 기능 검사 시행
+  * 시작 또는 증량 2\~4주 후 K·eGFR 확인; eGFR ＜30%의 일시적 감소는 중단 사유가 아님 (＞30% 감소 또는 고칼륨혈증 시 재평가) \[2025 ACC/AHA]
   * 당뇨병 환자에서 투여 시 eGFR, s-K 모니터링
   * eGFR ＜30인 환자에서도 신질환의 추가 손상 없이 심혈관 이득을 얻을 수 있다는 보고가 있음
   * ACEI와 ARB의 병용은 피하며, ACEI/ARB와 direct renin inhibitor의 병용도 피함
@@ -763,7 +781,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * ISA(+) 제제(Intrinsic sympathomimetic activity) : 약간의 교감 신경 활성 효과; β-차단제 치료 시 서맥증을 보이는 환자들에게 유용; 심근경색 환자에서는 금기
 
 {% hint style="info" %}
-**\[2025 ACC/AHA]** Atenolol은 뇌졸중, LVH, MI 예방에 다른 BB보다 열등하다는 근거로 회피 권고. 불가피한 경우 cardioselective BB 중 bisoprolol, metoprolol succinate, nebivolol 선호. 특히 고령자·당뇨병·대사증후군 환자에서는 혈관 확장 효과가 있는 nebivolol 또는 carvedilol이 대사적으로 더 유리함.
+**\[2025 ACC/AHA]** β-차단제는 강한 적응증이 없으면 1차 약제로 권고하지 않음. 적응증으로 사용할 경우 cardioselective BB 중 bisoprolol, metoprolol succinate, nebivolol 선호. Atenolol은 뇌졸중, LVH, MI 예방 효과가 다른 BB보다 열등하다는 근거가 있어 가급적 피함. 특히 고령자·당뇨병·대사증후군 환자에서는 혈관 확장 효과가 있는 nebivolol 또는 carvedilol이 대사적으로 더 유리함.
 {% endhint %}
 
 **Cardioselective**
@@ -1031,6 +1049,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
   * 목표 BMI ＜25 ㎏/㎡, 허리둘레 남 ＜90 ㎝/여 ＜85 ㎝
 * 약제 선택 : 비만 고혈압에서 'RAS 차단제(ACEI/ARB) + CCB' 조합이 대사적으로 유리
   * β-차단제·thiazide는 인슐린 저항성 악화 가능성 주의
+* \[2025 ACC/AHA] 당뇨병 유무와 관계없이 BMI ≥27 ㎏/㎡에서 GLP-1 RA 등 인크레틴 제제, BMI ≥35 ㎏/㎡에서 비만대사수술 고려 (국내 비만 적응증은 비급여)
 
 <mark style="color:cyan;">**당뇨병 동반 비만 고혈압**</mark> \[2026 대한고혈압학회]
 
@@ -1041,6 +1060,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 ### <mark style="color:orange;">고령자</mark>
 
 * 목표 혈압 : 일반적으로 ＜140/90 ㎜Hg를 기본으로 하되, 고위험·CVD·CKD가 있는 ≥65세에서는 SBP ＜130 ㎜Hg를 개별적으로 고려; 노쇠, ≥85세, 여명 제한, 증상성 기립성 저혈압에서는 개별화
+* 무증상 기립성 저혈압은 강압 치료를 보류할 이유가 아니며, 이 경우에도 SBP ＜130 ㎜Hg를 목표로 함; 약제 시작·추가 시 증상성 기립성 저혈압 평가 \[2025 ACC/AHA]
 * 건강한 ≥65세는 SBP ≥140 ㎜Hg에서 약물 치료를 고려; 노쇠·≥85세·여명 제한·증상성 기립성 저혈압에서는 치료 시작과 목표를 개별화
 * 초고령자나 노쇠한 고령자에 대해서는 추가 연구 필요
 
@@ -1067,6 +1087,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
   * 15분 내 반복 측정에서 SBP ≥160 또는 DBP ≥110 으로 확인된 임산부(중증 고혈압)는 즉각적인 입원 치료 권고
   * 수유기 : 혈압 ≥140/90 ㎜Hg 시 약물 치료 유지 또는 시작
 * 목표 혈압 : ＜140/90 ㎜Hg \[2026 대한고혈압학회]; DBP ＜80 ㎜Hg까지 과도하게 낮추지 않도록 주의
+* 혈압 측정은 임신부에서 정확도가 검증된 혈압계 사용 \[2025 ACC/AHA]
 * 조기에 고혈압 치료 시작, 병용요법보다 단일요법 증량 우선 고려
 * 전자간증 위험이 중등도 이상인 고위험 임신부에서 저용량 아스피린 75\~150 ㎎/d 투여 권고; 임신 12\~16주경 시작하여 분만 전까지(대개 36주경까지) 지속
 
@@ -1085,7 +1106,8 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 <mark style="color:cyan;">**응급 상황 (중증 고혈압 ≥160/110)**</mark>
 
-* labetalol 정주, 경구 nifedipine 또는 hydralazine 정주 등으로 신속히 혈압을 낮추며, 일반적으로 SBP ＜160 및 DBP ＜110 ㎜Hg를 목표로 함
+* labetalol 정주, 경구 nifedipine 또는 hydralazine 정주 등으로 신속히 혈압을 낮추며, 일반적으로 30\~60분 이내에 SBP ＜160 및 DBP ＜110 ㎜Hg를 목표로 함 \[2025 ACC/AHA]
+  * 임신 응급 시 경구 속효성 nifedipine 사용은 일반 성인의 급성 중증 고혈압(설하 투여 비권고)과 구분; 빈맥 시 속효성 nifedipine, 천식·심근질환·심차단·서맥 시 labetalol은 피함
 * Magnesium sulphate : 전자간증·자간증 예방 및 경련 치료
 
 <mark style="color:cyan;">**수유기 약제 선택**</mark> \[2026 대한고혈압학회]
@@ -1104,6 +1126,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 * 기존의 복용 약물은 지속
 * 심장 외 수술의 경우 ACEI/ARB, 이뇨제 등은 일시 중단을 고려할 수 있음
 * BB이나 중추성 교감 신경 작용제는 갑자기 중단하지 않음 (교감 신경계 과활성, 반동성 혈압 상승, angina 위험)
+* SBP ≥180 또는 DBP ≥110 ㎜Hg이면 주요 정규 수술 연기 고려; β-차단제 미복용자에게 수술 당일 β-차단제를 새로 시작하지 않음 \[2025 ACC/AHA]
 
 #### <mark style="color:$primary;">수술 후(Postoperative) 고혈압</mark>
 
@@ -1167,6 +1190,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
   * ARNI(sacubitril/valsartan)는 ACEI/ARB보다 우선 권고 \[2026 대한고혈압학회, I/A]; ARNI 사용 불가 시 ACEI 또는 ARB로 대체
   * 1차 병용 : ARNI(또는 ACEI/ARB) + β-차단제 + spironolactone + SGLT2i
   * 위 병용에도 미조절 시 → thiazide계 이뇨제 추가 → 그래도 미조절 시 → DHP-CCB 추가
+* HFpEF \[2025 ACC/AHA] : 체액 과부하에는 이뇨제; β-차단제는 부정맥·ACS 등 특정 적응증 외에는 피함; 당뇨병 유무와 관계없이 SGLT2i 고려(저혈압 모니터링)
 * 증상이 있는 hypervolemia(폐 &/또는 말초 부종) 시 : 이뇨제
 * non-DHP CCB(verapamil, diltiazem)는 좌심실 수축 기능을 저하시킬 수 있으므로 주의
 * α-차단제는 신경호르몬계 활성화, 수분 저류, 심부전 악화를 유발할 수 있어 사용에 주의 \[2026 대한고혈압학회]
@@ -1174,9 +1198,19 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 #### <mark style="color:orange;">심방세동</mark>
 
+* 목표 혈압 ＜130/80 ㎜Hg, 특히 심부전 동반 시; 생활습관 개선을 통한 혈압 강하는 심방세동 재발 감소에 도움 \[2025 ACC/AHA]
 * 심방세동 동반 고혈압 환자에서는 ARB가 심방세동 재발 감소에 도움이 될 수 있어 사용을 고려 \[2026 대한고혈압학회]
 * 항응고제 사용 여부는 혈압 수치만으로 결정하지 않으며, 검증된 혈전색전 위험도(예: CHA₂DS₂-VASc 또는 CHA₂DS₂-VA)와 출혈 위험을 종합하여 결정. 혈압은 출혈 위험을 줄이기 위해 적극적으로 조절
 * β-차단제 : 안정 시 심박수 110회/분 미만 유지가 80회/분 미만 유지에 비해 심혈관 사건 예방에 불리하지 않음; 증상이 있고 교감신경이 활성화된 경우에는 안정 시 심박수를 80회/분 미만으로 관리
+
+### <mark style="color:orange;">기타 동반 질환</mark>
+
+* 대동맥 질환 : ＜130/80 ㎜Hg; 혈압 10 ㎜Hg 상승마다 AAA 파열 위험 30% 증가; β-차단제 사용
+* 말초동맥질환 : ＜130/80 ㎜Hg; ACEI/ARB 1차
+* 뇌졸중·TIA·뇌내출혈 이차 예방 : thiazide계 이뇨제, ACEI 또는 ARB로 ＜130/80 ㎜Hg; 고혈압 병력이 없어도 평균 ≥130/80 ㎜Hg이면 약물 고려
+* 치매·경도인지장애 예방 : SBP ＜130 ㎜Hg 목표
+
+　_\[2025 ACC/AHA]_
 
 ### <mark style="color:orange;">당뇨병</mark>
 
@@ -1249,7 +1283,8 @@ _CAD = coronary artery disease_\
 
 • 저항성 고혈압 : 3제(이뇨제 포함) 최대 내약 용량에도 목표 혈압 미달\
 • 불응성 고혈압 : 5제 이상에도 목표 혈압 미달\
-• 난치성 고혈압 : 위 두 경우를 모두 아우르는 상위 개념
+• 난치성 고혈압 : 위 두 경우를 모두 아우르는 상위 개념\
+• \[2025 ACC/AHA] 4제 이상으로 목표 혈압에 도달한 경우도 저항성 고혈압(조절된 저항성)에 포함
 {% endhint %}
 
 * 저항성 고혈압 \[ESH 기준] : ACEI/ARB + CCB + Thiazide 3제 최대 내약 용량에도 ≥140/90 ㎜Hg; 고혈압 환자의 \~5%
@@ -1274,12 +1309,13 @@ _CAD = coronary artery disease_\
 **난치성**(또는 저항성) **고혈압 단계별 치료 요약** \[2026 대한고혈압학회]
 
 1. ACEI/ARB + CCB + T/TL 정규 용량 3제 요법 → 미조절 시 이뇨제 최적화: T/TL 정규 용량 조절 또는 eGFR ＜30 시 loop diuretic으로 변경
-2. → 4차 약제로 Spironolactone 추가; 투여 1\~2주 내 혈청 K 확인
+2. → 4차 약제로 Spironolactone 추가 (eGFR ≥45에서 권고 \[2025 ACC/AHA]); 투여 1\~2주 내 혈청 K 확인
 3. → Spironolactone 사용 어려운 경우(여성형유방 등) → Amiloride 추가 고려 또는 대안으로 α-차단제, β-차단제 등 고려
 4. 추가 치료 고려(병행 가능)
    * ACEI/ARB를 ARNI로 변경 고려
    * 알도스테론합성효소억제제(ASI) 추가 고려 - 표준 치료 최적화 후 제한적 사용 권고
    * 콩팥교감신경차단술(renal sympathetic denervation, RDN) 고려 - 초음파·고주파 기반 카테터 시술; 약제 최적화에도 불응하거나 약제 불내성이 있는 환자에서 공유의사결정을 거쳐 선별적으로 고려
+     * \[2025 ACC/AHA] 대상 - 진료실 SBP 140\~180 & DBP ≥90 ㎜Hg, eGFR ≥40; 제외 - 신경성 기립성 저혈압, 임신, FMD, 신동맥 스텐트·동맥류·유의한 협착, 신장 종양 또는 기능성 부신 종양
 5. 의뢰
 
 ### <mark style="color:orange;">고혈압성 위기</mark>
@@ -1297,17 +1333,18 @@ _CAD = coronary artery disease_\
 
 * 입원하여 연속적인 혈압 및 표적장기 상태를 모니터링하면서 임상 상황에 맞는 정주용 단시간 작용 약제로 치료
 * 대동맥박리가 없으면 일반적으로 첫 1시간 동안 MAP를 약 20~25% 감소시키는 것을 고려하되, 질환별 목표를 우선 적용
+  * \[2025 ACC/AHA] SBP 기준 첫 1시간 ≤25% 감소 → 2\~6시간 내 ＜160/100 → 24\~48시간 동안 130\~140 ㎜Hg; 대동맥박리는 첫 1시간 내 SBP ＜120
 * 급격한 과도한 강압은 콩팥·뇌·심근의 관류 저하를 초래할 수 있으므로 피함
 
 <mark style="color:cyan;">**임상 양상별 정맥내 강압제 선택**</mark>
 
-<table><thead><tr><th>임상 양상</th><th width="187.619140625">Timeline/Target</th><th width="198.3809815625">주요 정주 약제</th><th width="149.317626953125">핵심 사항</th></tr></thead><tbody><tr><td>악성 고혈압 TMA/AKI</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>장기 관류를 고려하여 점진적 강압</td></tr><tr><td>고혈압성 뇌증</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>과도한 급강압 금지</td></tr><tr><td>급성 뇌경색, 재관류치료 없음</td><td>BP ≥220/120이면 초기 약 15% 감소 고려</td><td>labetalol, nicardipine 등</td><td>＜220/120이면 일반적으로 급성기 강압하지 않음</td></tr><tr><td>급성 뇌경색, IV thrombolysis</td><td>치료 전 ＜185/110; 치료 후 ＜180/105</td><td>labetalol, nicardipine 등</td><td>2026 AHA/ASA</td></tr><tr><td>급성 뇌경색, EVT 후</td><td>SBP ＜140의 집중 강압은 피함</td><td>개별화</td><td>2026 AHA/ASA: 집중 강압은 기능적 예후 악화 가능</td></tr><tr><td>급성 뇌내출혈</td><td>SBP 150~220이면 약 140 ㎜Hg를 목표로 조절 고려; ＜130은 피함</td><td>nicardipine, labetalol 등</td><td>2022 AHA/ASA</td></tr><tr><td>급성 관상동맥증후군/폐부종</td><td>임상 상황에 따라 신속한 강압</td><td>NTG, nicardipine 등</td><td>허혈·관류 상태를 함께 고려</td></tr><tr><td>급성 대동맥증후군</td><td>SBP ＜120, HR ＜60</td><td>esmolol 또는 labetalol + 혈관확장제</td><td>즉시 치료</td></tr><tr><td>자간증/중증 전자간증/HELLP</td><td>SBP ＜160 및 DBP ＜110</td><td>labetalol, nifedipine 또는 hydralazine + Mg sulphate</td><td>신속한 강압 및 경련 예방</td></tr></tbody></table>
+<table><thead><tr><th>임상 양상</th><th width="187.619140625">Timeline/Target</th><th width="198.3809815625">주요 정주 약제</th><th width="149.317626953125">핵심 사항</th></tr></thead><tbody><tr><td>악성 고혈압 TMA/AKI</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>장기 관류를 고려하여 점진적 강압</td></tr><tr><td>고혈압성 뇌증</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>과도한 급강압 금지</td></tr><tr><td>급성 뇌경색, 재관류치료 없음</td><td>BP ≥220/120이면 초기 약 15% 감소 고려</td><td>labetalol, nicardipine 등</td><td>＜220/120이면 일반적으로 급성기 강압하지 않음</td></tr><tr><td>급성 뇌경색, IV thrombolysis</td><td>치료 전 ＜185/110; 치료 후 ＜180/105</td><td>labetalol, nicardipine 등</td><td>2026 AHA/ASA</td></tr><tr><td>급성 뇌경색, EVT 후</td><td>SBP ＜140의 집중 강압은 피함</td><td>개별화</td><td>2026 AHA/ASA: 집중 강압은 기능적 예후 악화 가능</td></tr><tr><td>급성 뇌내출혈</td><td>SBP 150~220이면 130~＜140 ㎜Hg로 낮추어 ≥7일 유지; ＜130이면 강압제 보류</td><td>nicardipine, labetalol 등</td><td>변동 최소화하며 부드럽게 조절 (2025 ACC/AHA, 2022 AHA/ASA)</td></tr><tr><td>급성 관상동맥증후군/폐부종</td><td>임상 상황에 따라 신속한 강압</td><td>NTG, nicardipine 등</td><td>허혈·관류 상태를 함께 고려</td></tr><tr><td>급성 대동맥증후군</td><td>SBP ＜120, HR ＜60</td><td>esmolol 또는 labetalol + 혈관확장제</td><td>즉시 치료</td></tr><tr><td>자간증/중증 전자간증/HELLP</td><td>SBP ＜160 및 DBP ＜110</td><td>labetalol, nifedipine 또는 hydralazine + Mg sulphate</td><td>신속한 강압 및 경련 예방</td></tr></tbody></table>
 
 _TMA=thrombotic micro-angiopathy, AKI=acute kidney injury, MAP=mean arterial pressure, NTG=Nitroglycerin_
 
-<p align="center"><em><mark style="color:$info;">Ref. 2026 KSH; 2026 AHA/ASA acute ischemic stroke guideline; 2022 AHA/ASA spontaneous ICH guideline.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 2026 KSH; 2025 AHA/ACC high BP guideline; 2026 AHA/ASA acute ischemic stroke guideline; 2022 AHA/ASA spontaneous ICH guideline.</mark></em></p>
 
-※ 급성 자발성 ICH에서는 SBP 150~220 ㎜Hg인 경우 약 140 ㎜Hg를 목표로 조절하는 것이 안전하고 유익할 수 있으며, SBP ＜130 ㎜Hg로의 급격한 강압은 피함
+※ 급성 자발성 ICH에서 SBP 150~220 ㎜Hg이면 SBP 130~140 ㎜Hg 미만으로 신속히 낮추어 최소 7일간 유지하고 혈압 변동을 최소화; SBP ＜130 ㎜Hg이면 강압제 투여를 보류 \[2025 ACC/AHA]
 
 #### <mark style="color:$primary;">급성 중증 고혈압 (Acute Severe Hypertension)</mark>
 
@@ -1325,7 +1362,8 @@ _TMA=thrombotic micro-angiopathy, AKI=acute kidney injury, MAP=mean arterial pre
 
 * 목표 혈압 도달 시까지 2\~4주 간격 방문 (약물 새로 시작하거나 조정 시); 안정 후 3\~6개월 간격 추적 관찰
 * 약물 투여 후 1개월 내 목표 혈압에 도달하지 못하면 증량 또는 다른 계열의 추가 약제 투여
-* 전해질과 콩팥 기능 검사는 연 1\~2회 시행 고려
+* 이뇨제·ACEI/ARB·MRA 시작 또는 증량 2\~4주 후 전해질·eGFR 확인; 새로 시작하거나 강화한 경우 조절될 때까지 매월 추적 \[2025 ACC/AHA]
+* 안정 후 전해질과 콩팥 기능 검사는 연 1\~2회 시행 고려
 
 ***
 
@@ -1520,6 +1558,7 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 * **ARB (예: losartan, telmisartan)** : 기침은 드물지만 안면 붓기·호흡 곤란이 생기면 즉시 응급실 방문 (혈관부종); 임신 중 금기
 * **CCB (예: amlodipine)** : 발목 부종이 생길 수 있음; 일반적으로 위험하지 않으나 심하면 알릴 것; 자몽 주스와의 상호 작용 주의 (특히 felodipine, nifedipine)
 * **β-차단제 (예: bisoprolol, carvedilol)** : 갑자기 중단하면 혈압이 반등하거나 협심증이 악화될 수 있으므로 반드시 의사와 상의하여 서서히 감량; 천식·COPD가 있으면 복용 전 알릴 것
+* **성기능** : 이뇨제·β-차단제(nebivolol 제외)는 성기능 저하와 관련될 수 있으므로 불편하면 임의 중단하지 말고 상의; ARB가 가장 유리
 * **가정 혈압 모니터링** : 아침(기상 후 1시간 이내, 혈압약 복용 전)과 저녁(취침 1시간 전)에 측정하여 기록; 측정 전 5분 이상 안정 필요
 * **생활 습관** : 저염식 (1일 소금 **5 g 이하**, 나트륨 2,000 ㎎ 이하), 음주 줄이기/가능하면 금주, 금연(전자담배 포함), 규칙적 운동 병행이 약물 효과를 높임
 
@@ -1558,8 +1597,8 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 * 갑작스러운 심한 두통, 시야 흐림
 * 호흡 곤란, 흉통
 * 얼굴이나 팔다리 마비, 말이 어눌함 (뇌졸중 의심)
-* 혈압이 반복해서 180/120 ㎜Hg 이상이면서 심한 두통, 시야 변화, 호흡 곤란, 흉통, 의식 변화, 마비·언어장애 등이 동반됨
-* 증상이 없더라도 180/120 ㎜Hg 이상이 반복되면 신속한 의료 평가가 필요
+* 혈압이 반복해서 180/110 ㎜Hg 이상이면서 심한 두통, 시야 변화, 호흡 곤란, 흉통, 의식 변화, 마비·언어장애 등이 동반됨
+* 증상이 없더라도 180/110 ㎜Hg 이상이 반복되면 신속한 의료 평가가 필요
 
 **약 복용 시 주의사항**
 
