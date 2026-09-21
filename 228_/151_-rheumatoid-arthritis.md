@@ -4,17 +4,25 @@
 
 * 자신의 관절 조직을 공격하는 항체를 생성하는 자가면역 질환에 의한 만성, 염증성, 대칭적, 다발성 관절염
 * 급성 경과를 보이기도 하지만 보통 비특이적인 관절통 또는 강직으로 시작하여 서서히 진행
-* 호발 : 30\~40대 여성(남성의 약 3배), 40\~70대 남성
-* 유병률 : 성인의 약 0.5\~1%(국내 약 0.5% 내외로 추정); 여성이 남성보다 2\~3배 흔함
+* 호발 : 여성이 남성보다 2\~3배 흔하며, 발병 정점은 55\~75세
+* 유병률 : 성인의 약 0.5\~0.7%(전 세계 0.53%, 미국 0.74%; 국내 약 0.5% 내외로 추정)
 * 관절 및 연조직이 파괴되어 관절의 만성적이고 비가역적인 장애 발생; 조기 사망률 증가와 관련
-* 질병 초기(특히 발병 후 3\~6개월, "window of opportunity")에 적극적인 치료를 시작할수록 관해 도달률과 장기 예후가 우수함
+* 질병 초기(특히 발병 후 3\~6개월, "window of opportunity")에 적극적인 치료를 시작할수록 관해 도달률과 장기 예후가 우수함; 이상적으로는 증상 발현 6주 이내 진단 후 즉시 DMARD 시작
+* 예후 : 치료 시 약 40%가 10년 시점 지속 관해, 추가 약 40%가 저활동도에 도달하며, 약 20%는 b/tsDMARD에도 조절이 불충분
+  * RF 양성(RR 2.07), ACPA 양성(RR 2.49)은 방사선학적 진행 위험 증가와 관련
+  * 사망률 증가(SMR 1.4\~1.5)는 주로 고활동도 환자에 국한되며, 저활동도 유지 시 일반 인구와 차이 없음
 
 ***
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
 * 원인 : 유전적 소인이 있는 개체에서 환경 인자에 의해 자가면역 반응이 촉발되는 것으로 추정되나 정확한 기전은 불명
-* 관련(위험) 인자 : 유전(HLA-DRB1 "shared epitope"), 흡연, 치주염(Porphyromonas gingivalis 등), 비만, 외상, 여성 호르몬, 낮은 사회경제적 수준
+* 관련(위험) 인자 : 유전(HLA-DRB1 "shared epitope"; 유전적 소인이 위험의 약 60%를 설명), 흡연, 치주염(Porphyromonas gingivalis 등), Epstein-Barr virus(인과관계 불명확), 실리카 분진·대기오염 노출, 비만, 외상, 여성 호르몬, 낮은 사회경제적 수준
+
+{% hint style="info" %}
+**Pre-RA**\
+관절 부종 없이 RF 또는 ACPA 양성인 상태로, RA 발생 위험이 높음. ACPA는 증상 발현 약 14년 전, RF는 약 10년 전부터 검출될 수 있음. 관절통 단계의 위험 계층화를 위해 2025 EULAR/ACR 기준이 제시됨.
+{% endhint %}
 
 ### <mark style="color:orange;">나쁜 예후 인자 (Poor Prognostic Factors)</mark>
 
@@ -38,6 +46,9 @@
 * 통증, 부종, 압통, 동작 시 통증; 보통 대칭적 분포 (✽부종은 synovial 비대 또는 삼출에 기인함)
 * 강직 : 30분 이상 지속되고 신체 활동으로 호전, 특히 조조강직이 심함(OA의 조조강직 &#x3C;30분과 감별점)
 * 경추 외의 척추와 sacroiliac joint 이환은 드묾
+* 이환 빈도 : 손목 약 75%, MCP·PIP 약 65%, 무릎 약 50%, MTP 약 45%; DIP는 침범하지 않음(OA·건선성 관절염과 감별점)
+* 활막 부종은 부드럽고 파동성(fluctuant)으로 OA의 단단한 골성 부종과 구별되나, 일부는 뚜렷한 부종 없이 통증·압통만 호소
+* 약 20%에서 척측수근신근(ECU) 건초염으로 손목 척측 부종이 나타남
 
 **작은 관절의 임상 양상**
 
@@ -61,6 +72,7 @@
   * 고열이 발생한 경우에는 전신 혈관염 또는 감염 의심
 * 관련 질환 : 2차성 Sjögren 증후군(건성 각결막염, 입마름), 신장 질환, 심장 질환(심막염, 결절, **동맥경화성 심혈관질환 위험 증가**), **간질성 폐질환(RA-ILD)**·결절·늑막 삼출·늑막염, 비장 비대(Felty 증후군), 말초 신경병증, 혈관염, 만성 질환 빈혈, 림프절병증, 감염 위험 증가, 골다공증
   * ✽RA-ILD는 예후에 큰 영향을 미치는 동반 질환으로, 새로 발생한 마른기침·호흡곤란은 반드시 확인
+* ✽관절 외 침범은 조기 RA에서는 드물고, 관해·저활동도 없이 ≥3년 경과한 환자에서 주로 발생(조기 RA 9.3년 추적 시 19.4%; 그중 결절 45%, 폐섬유화 22%, 혈관염 3%) → 조기 treat-to-target이 관절 외 합병증 예방에도 중요
 
 {% hint style="info" %}
 **RA-ILD 선별 및 모니터링 (2023 ACR/CHEST guideline)**\
@@ -107,7 +119,8 @@ _3) 턱관절 등 특별히 언급되지 않은 관절들도 해당될 수 있�
 _4) '낮은 양성' = 정상 상한값의 ≤3배 상승; RF 정성 검사를 한 경우에는 '양성'을 '낮은 양성'으로 취급_\
 _5) '높은 양성' = 정상 상한값의 ＞3배_\
 _6) 증상 기간은 윤활막염의 소견(통증, 부종, 압통)에 대한 환자의 설명을 참조함_\
-_\*관절 이환은 진찰 소견상 관절의 부종 또는 압통으로 판단하며 X선 검사로 윤활막염을 확인할 수도 있음_\
+_\*관절 이환은 진찰 소견상 관절의 부종 또는 압통으로 판단하며, 초음파·MRI의 활막염 소견으로 확인할 수 있음_\
+_\*손·발의 서로 다른 ≥3개 관절에서 X선상 전형적 골미란(피질 단절 또는 관절 주위 골 표면의 공동)이 있으면 RA와 강하게 연관되며, 점수와 무관하게 RA로 분류할 수 있음(EULAR 2013 erosive disease 정의)_\
 _\*류마티스 결절 또는 방사선학적 관절 손상은 초기 RA에서는 드물기 때문에 기준에서 제외_
 
 * 총점 **≥6점** : RA로 분류(단, 진단 자체는 임상적 판단이 우선이며 이 기준은 주로 임상연구용 분류 기준임)
@@ -122,11 +135,15 @@ _Ref. 2010 ACR/EULAR. Rheumatoid arthritis classification criteria. Arthritis Rh
   * 초기 : 연조직 swelling, juxta-articular demineralization
   * 진행 : 관절 미란, 관절 간격 감소
 * 초음파, MRI : 활막염·건초염 및 초기 골미란 확인에 X선보다 민감; 임상적으로 활막염 여부가 불확실하거나 조기 병변 확인이 필요한 경우 유용하나 모든 환자에서 일상적으로 시행할 필요는 없음
+* 활동성 RA에서는 이환 부위 X선을 연 1회 촬영하여 진행 평가; 기능 장애와의 연관성은 골미란보다 관절 간격 감소가 더 강함
+* 초음파·MRI는 진단에 도움이 되지만, 추적·치료 목표 판정 도구로서는 임상 평가·X선 대비 추가 이득이 없음(TaSER)
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
 * RA가 의심되면 RF, ACPA, ESR/CRP를 기본적으로 평가하며, CBC·Cr/eGFR·LFT 등은 감별진단 및 DMARD 시작 전 기저 검사로 시행
-* 혈청음성 RA(RF·ACPA 모두 음성)는 전체 RA 환자의 약 20\~30%를 차지하며, 2010 ACR/EULAR 분류기준상 혈청검사 항목 점수를 얻지 못해 진단이 지연될 수 있음 → 이 경우 관절 초음파·MRI 등 영상 검사와 임상 양상이 진단에 핵심적 역할을 함
+* 진단 시점의 RF 그리고/또는 ACPA 양성률은 약 40\~60%(코호트에 따라 더 높게 보고됨)로, 초기에는 혈청음성인 경우가 적지 않음; 이환 3년 이상에서는 양성률이 약 80%로 증가
+* 혈청음성 RA(RF·ACPA 모두 음성)는 2010 ACR/EULAR 분류기준상 혈청검사 항목 점수를 얻지 못해 진단이 지연될 수 있음 → 관절 초음파·MRI 등 영상 검사와 임상 양상이 진단에 핵심적 역할을 함
+  * ✽초기 혈청음성 환자의 약 12%가 3년 내 양전되므로, 임상적으로 RA가 의심되나 음성이면 추적 중 재검 고려
 
 #### <mark style="color:$primary;">Anti-citrullinated peptide/protein antibody(ACPA)</mark>
 
@@ -199,7 +216,7 @@ graph TD
 
 <p align="center"><strong>RA 관리 알고리듬 (2025년 개정판 반영, 2019년 판 알고리듬 대체)</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic DMARDs: 2025 update. Ann Rheum Dis 2026.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic DMARDs: 2025 update. Ann Rheum Dis 2026. / Smolen JS, et al. Rheumatoid arthritis in adults: a review. JAMA 2026.</mark></em></p>
 
 ***
 
@@ -213,17 +230,29 @@ graph TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 진단 즉시 DMARD 치료 시작(EULAR 2025 Recommendation 1) - 빠른 진단, 빠른 활성도 파악, 빠른 염증 관리
-* 활동성 질환에서는 1\~3개월 간격으로 자주 모니터링; 늦어도 치료 시작 후 3개월 내 개선이 없거나 6개월 내 목표에 도달하지 못하면 치료 조정, 목표 유지 시에는 모니터링 간격을 늘릴 수 있음
+* 활동성 질환에서는 1\~3개월 간격으로 CDAI 등 표준 지표를 이용해 자주 모니터링(☞ 하단 질병활성도 평가); 늦어도 치료 시작 후 3개월 내 개선이 없거나 6개월 내 목표에 도달하지 못하면 치료 조정, 목표 유지 시에는 모니터링 간격을 늘릴 수 있음
 * MTX가 1차 치료 전략의 핵심; MTX 금기 또는 조기 불내약 시 leflunomide 또는 sulfasalazine 고려
-* csDMARD 시작·변경 시 단기 Glucocorticoid 병용을 고려할 수 있으나, 가능한 한 신속히 감량·중단
+* csDMARD 시작·변경 시 단기 Glucocorticoid 병용을 고려할 수 있으나, 가능한 한 신속히 감량하여 3개월 이내 중단(☞ 하단 Steroid)
 * csDMARD 전략으로 목표에 도달하지 못하면 bDMARD를 추가; JAK 억제제도 심혈관·혈전·악성종양 위험 인자를 신중히 고려한 후 선택지가 될 수 있음
 * b/tsDMARD는 csDMARD와 병용이 원칙; csDMARD 병용이 어려운 환자에서는 IL-6 경로 억제제·JAK 억제제가 다소 유리할 수 있음
-* 첫 b/tsDMARD 실패 시 다른 기전의 b/tsDMARD 또는 동일 계열의 다른 약제로 교체; TNF 또는 IL-6R 억제제 1회 실패 후에는 다른 기전 제제 또는 동일 계열 2차 제제 모두 선택 가능
+* 첫 b/tsDMARD 실패 시 다른 기전의 b/tsDMARD 또는 동일 계열의 다른 약제로 교체; TNF 또는 IL-6R 억제제 1회 실패 후에는 다른 기전 제제 또는 동일 계열 2차 제제 모두 선택 가능; 동일 기전 2번째 약제에도 반응이 없으면 다른 기전으로 교체
 * 지속적 관해 상태에서 Glucocorticoid를 우선 중단한 이후에도 관해가 유지되면 DMARD(b/tsDMARD 그리고/또는 csDMARD)는 계속 유지하되 감량을 고려; 완전 중단은 대개 권장되지 않음(재발 흔함)
 * 관절 외 질환·동반 질환 관리 : 빈혈, 죽상경화성 심혈관질환, 이상지질혈증, 고혈압, 골다공증, 흡연, 비활동 생활 습관에 대한 적극적 관리 - RA 자체가 심혈관질환의 독립적 위험 인자
 * RA-ILD 동반 시 약제 선택 : ACR/CHEST 2023 SARD-ILD 치료 가이드라인은 leflunomide, MTX, TNF 억제제, abatacept를 **RA-ILD 자체의 1차 치료제로는 권장하지 않음**(조건부 반대); ILD 치료가 필요하면 mycophenolate, rituximab, cyclophosphamide, azathioprine을 1차 옵션으로 조건부 권고(그중 mycophenolate 선호도가 상대적으로 높음)하고, 첫 치료 후에도 진행하면 mycophenolate, rituximab, cyclophosphamide, nintedanib을 조건부 권고하며 장기 스테로이드는 권장하지 않음
   * ✽관절 질환 조절 목적으로 이미 사용 중인 MTX가 안정된 RA-ILD를 반드시 악화시키는 것은 아니므로, 안정 상태에서는 일률적 중단보다 개별 판단; 활동성 관절염과 ILD가 함께 치료를 요하는 경우 rituximab은 두 질환을 함께 고려할 수 있는 선택지이며, first-line ILD 치료 후에도 RA-ILD가 진행하는 경우 tocilizumab도 조건부로 고려 가능 → 류마티스내과·호흡기내과 협진
 * 면역 조절제(특히 b/tsDMARD, 고용량 스테로이드) 사용 중에는 생백신 접종을 피하고, 접종이 필요하면 접종 전후 일정 기간 약물 중단을 고려 (개별 백신·약제별 권고가 다르므로 상세 일정은 관련 지침 확인)
+
+### <mark style="color:orange;">질병활성도 평가</mark>
+
+* 활동성 RA는 1\~3개월마다 표준화 지표로 평가; 1차 진료에서는 검사실 수치가 필요 없는 **CDAI**가 가장 실용적
+* CDAI = SJC28 + TJC28 + 환자 전반 평가(0\~10) + 의사 전반 평가(0\~10) (범위 0\~76); SDAI = CDAI + CRP(㎎/㎗, 최대 10)
+
+<table><thead><tr><th width="140">지표</th><th width="110">관해</th><th width="120">저활동도</th><th width="120">중등도</th><th>고활동도</th></tr></thead><tbody><tr><td>CDAI</td><td>≤2.8</td><td>&#x3E;2.8~10</td><td>&#x3E;10~22</td><td>&#x3E;22</td></tr><tr><td>SDAI</td><td>≤3.3</td><td>&#x3E;3.3~11</td><td>&#x3E;11~26</td><td>&#x3E;26</td></tr><tr><td>DAS28-CRP</td><td>&#x3C;2.6</td><td>2.6~3.2</td><td>&#x3E;3.2~5.1</td><td>&#x3E;5.1</td></tr></tbody></table>
+
+_✽DAS28-CRP는 DAS28-ESR 절단값을 준용한 것으로 실제 값이 낮게 나와 관해를 과대평가할 수 있음_
+
+* 치료 반응 : CDAI 50%·70%·85% 개선을 각각 minor·moderate·major response로 정의; **3개월에 ≥50% 개선이 없으면 치료 조정**
+* 3개월 반응이 1년 예후의 가장 좋은 예측 인자 : 3개월 SDAI &#x3E;40이면 1년 후 활동성 지속 확률 약 80%, SDAI ≤12(&#x3E;50% 감소)이면 1년 후 관해·저활동도 확률 약 75%
 
 ### <mark style="color:orange;">완화(remission) 판정</mark>
 
@@ -237,9 +266,11 @@ graph TD
   3. CRP ≤1 ㎎/㎗
   4. 환자의 전반적 평가(PtGA) 0\~10점 스케일에서 ≤2점
 
-#### <mark style="color:$primary;">Index-based definition : SDAI(simplified disease activity index)</mark>
+* ✽CRP를 사용하지 않는 경우 SJC28 ≤1, TJC28 ≤1, PtGA ≤2로 판정(clinical Boolean)
 
-* 다음 항목 총점 ≤3.3
+#### <mark style="color:$primary;">Index-based definition : SDAI / CDAI</mark>
+
+* SDAI(simplified disease activity index) : 다음 항목 총점 ≤3.3
   1. CRP 수치(㎎/㎗)
   2. 28개 관절\* 중 압통 관절 수
   3. 28개 관절\* 중 팽창 관절 수
@@ -248,22 +279,28 @@ graph TD
 
   \*28개 관절 : MCP(10개), PIP(8개), thumb IP(2개), shoulder(2개), elbow(2개), wrist(2개), knee(2개)
 
+* CDAI(clinical disease activity index) : 위 항목 중 CRP를 제외한 4개 항목 총점 ≤2.8
+
 {% hint style="danger" %}
-**⚠️ JAK 억제제(tofacitinib, baricitinib, upadacitinib, filgotinib) 계열 경고 (FDA Boxed Warning, ORAL Surveillance 근거)**\
-50세 이상이면서 심혈관 위험 인자를 ≥1개 가진 RA 환자를 대상으로 한 ORAL Surveillance 연구(tofacitinib vs TNF 억제제, NEJM 2022)에서 tofacitinib군의 주요 심혈관 사건(MACE), 악성종양(특히 폐암·림프종), 정맥혈전색전증, 전체 사망률이 TNF 억제제군보다 높게 나타남. 이에 근거하여 미국 FDA는 baricitinib·upadacitinib을 포함한 JAK 억제제 계열 전체에 Boxed Warning(중증 감염, 사망률 증가, 악성종양, MACE, 혈전증)을 부여함.\
-✽처방 전 연령, 흡연력, 심혈관 위험 인자, 정맥혈전색전증 병력, 악성종양 병력을 반드시 확인하고, 해당 위험이 있는 환자에서는 다른 기전의 b/tsDMARD를 우선 고려
+**⚠️ JAK 억제제 계열 안전성 경고**\
+ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs TNF 억제제, NEJM 2022)에서 tofacitinib군의 MACE(3.4% vs 2.5%, HR 1.33)와 악성종양(비흑색종 피부암 제외 4.2% vs 2.9%, HR 1.48)이 모두 비열등성 경계를 넘었음. 정맥혈전색전증 위험도 증가.\
+이에 따라 미국 FDA는 tofacitinib·baricitinib·upadacitinib에 Boxed Warning(중증 감염, 사망률, 악성종양, MACE, 혈전증)을 부여하고, 사용 대상을 **≥1개 TNF 억제제에 반응하지 않거나 불내약인 환자로 제한**함(2021). 반면 EMA와 EULAR는 심혈관·혈전·악성종양 저위험 환자에서는 MTX 실패 후 bDMARD와 동등한 선택지로 인정함(filgotinib은 미국 미허가, EU 조치 대상).\
+VTE 고위험 환자 대상 baricitinib vs TNF 억제제 연구(2026)에서 MACE는 비슷했으나(1.8% vs 1.9%), VTE는 비열등성을 입증하지 못함(0.79 vs 0.51/100인년, HR 1.61).\
+✽처방 전 연령(≥65세), 흡연력, 심혈관 위험 인자, VTE 병력, 악성종양 병력을 반드시 확인하고, 해당 위험이 있으면 다른 기전의 b/tsDMARD를 우선 고려
 {% endhint %}
 
 ***
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 금연(질병 활성도·치료 반응·심혈관 위험 모두와 관련)
+* 금연(질병 활성도·치료 반응·심혈관 위험 모두와 관련; 금연 시 질병활성도 자체가 감소)
 * 충분한 활동 및 적당한 휴식, 규칙적인 운동
 * 체중 조절 - 비만은 치료 반응 저하 및 심혈관 위험 증가와 관련
-* 정신적·사회적으로 건강한 생활 유지; 만성 통증·기능 장애에 따른 우울·불안에 대한 스크리닝
+* 정신적·사회적으로 건강한 생활 유지; 만성 통증·기능 장애에 따른 우울·불안에 대한 스크리닝, 필요시 상담·항우울 치료
+* 물리치료, 작업치료(관절 정렬 이상 예방·교정을 위한 보조기 포함)
 * 심혈관 위험 인자(고혈압, 이상지질혈증, 당뇨병) 적극적 선별·관리
 * 접종 : 비생백신(인플루엔자, 폐렴구균, 대상포진 재조합 백신 등)은 권장; 생백신은 면역억제제 사용 중에는 원칙적으로 피함
+  * ACR 2022 백신 권고 : 폐렴구균, 대상포진(RZV), 인플루엔자, COVID-19, 연령에 맞는 모든 비생백신, 26\~45세 HPV, 60세 미만 미접종자 B형간염 - 가능하면 b/tsDMARD 시작 전 완료
   * JAK 억제제는 대상포진 위험을 증가시키므로, 가능하면 치료 시작 전 재조합 대상포진 백신(RZV; 생백신 아님) 접종 여부를 확인
   * 인플루엔자 백신(BSR 2025는 COVID-19 백신도 포함) 접종 후에는 질병활성도가 허락하는 한 MTX를 최대 2주간 보류하면 항체 형성률이 향상됨(다른 비생백신에는 이 원칙이 적용되지 않음); rituximab 투여 환자는 가능하면 투여 시작 전 접종을 완료하고, 이미 치료 중이면 다음 투여 예정일에 맞춰 접종 후 최소 2주간 rituximab 보류
 * 음식, 허브, 기타 대체 요법 : 효과가 명확히 입증된 방법은 없음
@@ -302,11 +339,12 @@ graph TD
 
 * 1차 선택제
 * 장점 : 빠른 작용(2\~6주 후 효과 발현), 효과 및 장기 순응도 우수, 상대적으로 적은 독성
-* 용법 : 보통 10\~15 ㎎ **주 1회(qwk)** PO로 시작하여 내약성과 환자 특성에 따라 조절하되, 가능한 경우 **4\~6주 이내 최소 15 ㎎/wk에 도달하도록 신속히 증량**; 반응에 따라 20\~25 ㎎/wk까지 증량 가능 <mark style="color:blue;">\[메토트렉세이트]</mark>
-  * 경구 MTX의 반응이 불충분하거나 위장관 부작용이 있는 경우 분할 복용 또는 SC 전환을 고려
+* 용법 : 7.5\~10 ㎎ **주 1회(qwk)** PO로 시작하여 **4\~8주 이내 20\~25 ㎎/wk(약 0.3 ㎎/㎏)까지 신속히 증량**(EULAR) <mark style="color:blue;">\[메토트렉세이트]</mark>
+  * ✽아시아 환자, 고령·저체중·신기능 저하 환자는 더 낮은 용량에서도 반응하거나 내약성이 제한될 수 있어 개별 조절
+  * 경구 MTX는 효능 면에서 SC와 비열등(ACR70 26.2% vs 31.9%, 유의차 없음); folate 보충에도 경구 불내약(위장관 부작용)이 지속되면 분할 복용 또는 SC 전환 고려
   * 지속적 관해 후의 감량은 MTX 고유의 고정 감량 스케줄이 아니라 전체 DMARD tapering 전략에 따라 개별화
   * ✽**매일 복용이 아닌 주 1회 복용**임을 반드시 강조·확인(과다 복용 시 심각한 골수 억제·간독성 위험) - 처방전·복약 라벨에 요일 명시 권장
-* 부작용 : 간 손상(LFT↑; 약 15%), 위장관 자극(구역, 구토; 약 13%), 구내염(약 3%), 두통(1\~2%), 골수 억제(WBC↓/Plt↓; 발열, 림프절 비대, 멍/출혈, 기회감염), 폐 손상(과민성 폐렴)
+* 부작용 : 간 손상(LFT↑; 약 15%), 위장관 자극(구역, 구토; 약 13%), 구내염(약 3%), 두통(1\~2%), 골수 억제(WBC↓/Plt↓; 발열, 림프절 비대, 멍/출혈, 기회감염), 폐 손상(과민성 폐렴; 약 1%)
   * 간독성은 누적 사용량과 관련; pancytopenia는 c-Cr &#x3E;2 ㎎/㎗ 시 보다 흔함
   * folate 1 ㎎/d 또는 5 ㎎/wk <mark style="color:blue;">\[폴산]</mark>, 또는 leucovorin calcium 2.5\~5 ㎎(MTX 투여 24시간 후)을 공급하면 부작용이 감소됨
 * 약물 상호작용·독성 주의
@@ -333,10 +371,10 @@ graph TD
 #### <mark style="color:$primary;">Sulfasalazine(SSZ)</mark>
 
 * 대상 : RA, 강직성 척추염, 염증성 장질환
-* 부작용 : WBC↓/Plt↓(10\~25%), 구역/구토, 광과민, 발진, 두통, 가려움, oligospermia
+* 부작용 : WBC↓/Plt↓(10\~25%), 구역/구토, 광과민, 발진, 두통, 가려움, oligospermia(가역적), 약물유발 루푸스, Stevens-Johnson 증후군(&#x3C;1%)
 * 주의 : 오렌지색 소변/눈물/땀이 발생할 수 있으며 옷·콘택트렌즈에 착색될 수 있음
 * 금기 : sulfonamide 알레르기, aspirin 과민, G6PD 결핍
-* 용법 : 1주차 0.5 g qd → 매주 0.5 g/d씩 증량 → 4주차 1 g bid, 최대 3 g/d <mark style="color:blue;">\[사라조피린]</mark>
+* 용법 : 1주차 0.5 g qd → 매주 0.5 g/d씩 증량 → 4주차 1 g bid, 통상 유지 2\~3 g/d, 최대 4 g/d(장용정 권장; 국내 허가 용량 확인) <mark style="color:blue;">\[사라조피린]</mark>
   * 충분한 물과 함께 섭취; 공복 복용 또는 제산제와의 병용은 피함
 * 모니터링 : 투여 전 G6PD 결핍 검사; CBC/U/A는 3개월간 매 2\~4주, 이후 3개월마다
 
@@ -344,6 +382,7 @@ graph TD
 
 * 대상 : RA(주로 경증 또는 병용요법), SLE
 * 일부 환자에서는 반응하기까지 3\~6개월 소요; 종종 MTX·sulfasalazine과 병용(3제 병합요법)
+  * ✽csDMARD 병합(MTX + SSZ + HCQ 또는 MTX + LEF)은 1차 치료로 권장되지 않음 - 부작용(빈혈, 간독성)은 늘고 효과 우위는 없음(NORD-STAR 24주 CDAI 관해 41% vs MTX 단독 47%)
 * 부작용 : DMARD 중 가장 적은 편; **망막병증**, 피부염, 근육 약화, hypoactive DTR, QT 연장(드묾)
 * 용법 : **실제 체중(actual body weight) 기준 ≤5 ㎎/㎏/d**을 초과하지 않도록 용량 설정, 통상 200\~400 ㎎/d #1\~2, 식사 또는 우유와 함께 복용 <mark style="color:blue;">\[할록신]</mark>
   * ✽2016년 개정된 미국안과학회(AAO) 권고에 따라 과거 통용되던 6.5 ㎎/㎏/d(이상체중 기준) 대신 실제체중 기준 ≤5 ㎎/㎏/d를 권장
@@ -353,6 +392,8 @@ graph TD
 
 * 대상 : csDMARD에 반응이 불충분한 RA; JAK 억제제도 EULAR 2025 update상 csDMARD 실패 후 bDMARD와 함께 선택 가능한 옵션에 포함되나, 처방 전 심혈관·혈전·악성종양 위험 인자 확인이 필수 (☞ 상단 Management 안전성 경고 참조)
 * 투여 전 잠복결핵, B형간염 검사를 요함
+* 대상포진 : 1년 내 최대 7.5%(filgotinib은 상대적으로 낮을 가능성) → 치료 시작 전 RZV 접종 권장
+* IL-6R 억제제와 마찬가지로 게실염·장천공 위험 증가 → 게실염 병력 환자에서 주의
 * tofacitinib 5 ㎎ bid <mark style="color:blue;">\[젤잔즈]</mark>
 * baricitinib 2\~4 ㎎ qd <mark style="color:blue;">\[올루미언트]</mark>
 * upadacitinib 15 ㎎ qd <mark style="color:blue;">\[린버크]</mark>
@@ -360,7 +401,12 @@ graph TD
 
 ### <mark style="color:orange;">biological originator DMARD, biosimilar DMARD(bDMARD)</mark>
 
-* 병의 진행을 완화 또는 예방; 보통 csDMARD(특히 MTX)와 병용
+* 병의 진행을 완화 또는 예방; 임상 증상이 남아 있어도 관절 손상 진행을 억제함
+* 모든 bDMARD는 MTX 병용 시 단독요법보다 효과가 큼(ACR70 34% vs 25%); MTX는 **10 ㎎/wk 정도의 저용량 병용으로도 부가 효과**가 있으며, SSZ·LEF 병용도 유사한 이점
+* MTX 불충분 반응 시 bDMARD로 "교체"보다 "추가"가 우월(tocilizumab 추가 70% vs 교체 55% 관해)
+* bDMARD 간 효능은 대체로 유사; 모든 csDMARD에 불내약한 경우 단독요법으로는 IL-6R 억제제가 TNF 억제제보다 유리(ADACTA)
+* biosimilar는 originator와 효능·안전성이 동등하고 비용이 낮음
+* b/tsDMARD 시작 후 1년 내 중증 감염 위험 약 5.9%(일반 인구 1.5%); 잠복결핵 양성이면 잠복결핵 치료를 먼저 시작한 뒤 투여
 
 #### <mark style="color:$primary;">Tumor necrosis factor(TNF) 억제제</mark>
 
@@ -399,8 +445,11 @@ graph TD
 
 #### <mark style="color:$primary;">경구제</mark>
 
-* csDMARD 효과 발현 전 가교요법 또는 flare 조절 목적으로 prednisolone 저용량을 고려하되, **최저 유효 용량을 최단기간 사용하고 가능한 한 신속히 감량·중단** <mark style="color:blue;">\[소론도]</mark>
-* 중증 또는 NSAID 반응 부족 시 prednisolone 중/저용량 단기 투여 고려 : 15\~30 ㎎/d
+* csDMARD 시작 시 가교요법 : prednisolone 5\~7.5 ㎎/d를 6\~12주 투여 후 감량하여 **3개월 이내 중단** <mark style="color:blue;">\[소론도]</mark>, 또는 methylprednisolone acetate(depot) 80\~160 ㎎ IM 1회 <mark style="color:blue;">\[데포메드롤 주]</mark> (EULAR 2025)
+  * ✽MTX + 단기 GC만으로 신환의 40% 이상이 6개월 내 CDAI 관해에 도달(NORD-STAR)
+  * ✽GC 감량·중단 중 flare(저활동도 소실 → 중등도 이상)가 발생하면 GC를 다시 늘리기보다 bDMARD(또는 JAK 억제제) 추가를 고려
+  * ✽ACR 2021은 단기 GC 병용 없이 csDMARD를 시작하도록 조건부 권고(매우 낮은 근거 수준)하여 EULAR와 입장이 다름
+* flare 조절을 위한 중등용량(15\~30 ㎎/d) 단기 투여는 류마티스내과 판단하에 제한적으로 시행
 * ＞3개월 장기 투여 시 골다공증 예방(칼슘·비타민D 보충, 위험도에 따라 bisphosphonate 병용 고려) 필요
 
 #### <mark style="color:$primary;">관절 내 주사</mark>
@@ -412,6 +461,8 @@ graph TD
 ### <mark style="color:orange;">진통제</mark>
 
 ☞ [통증](../220_/001_-pain.md#management)
+
+* NSAID·진통제는 치료 목표 도달 전까지의 보조 요법 또는 목표 도달 후 잔존 통증 조절용이며, 질병 진행을 막지 못하므로 DMARD를 대체할 수 없음
 
 #### <mark style="color:$primary;">NSAID</mark>
 
@@ -461,7 +512,7 @@ M06.9 상세불명의 류마티스관절염
 > 쎄레브렉스 200 ㎎/C  1C  qd
 > ```
 >
-> _✽대표 성인 초기 처방 예로 15 ㎎/wk를 제시함. 고령·frailty·신기능 저하 등에서는 더 낮은 용량으로 시작하여 개별 증량 가능. MTX는 반드시 주 1회 복용임을 환자에게 재확인·문서화; 통증 조절을 위해 NSAID 단기 병용_
+> _✽대표 성인 초기 처방 예로 15 ㎎/wk를 제시함(EULAR 권고 시작 용량은 7.5\~10 ㎎/wk이며 4\~8주 내 20\~25 ㎎/wk까지 증량). 고령·frailty·신기능 저하 등에서는 더 낮은 용량으로 시작하여 개별 증량 가능. MTX는 반드시 주 1회 복용임을 환자에게 재확인·문서화; 통증 조절을 위해 NSAID 단기 병용_
 
 > **처방례 2. MTX 금기 시**
 >
@@ -480,7 +531,7 @@ M06.9 상세불명의 류마티스관절염
 > 소론도 5 ㎎/T  1T  qd 아침
 > ```
 >
-> _✽DMARD 효과 발현(2\~6주)까지의 가교 치료로 저용량 스테로이드 단기 병용; 호전 시 신속히 감량·중단_
+> _✽DMARD 효과 발현(2\~6주)까지의 가교 치료로 저용량 스테로이드 단기 병용; 호전 시 신속히 감량하여 3개월 이내 중단(EULAR)_
 
 > **처방례 4. csDMARD 전략 실패 → bDMARD 추가 (전문의 의뢰 후)**
 >
@@ -543,7 +594,7 @@ M06.9 상세불명의 류마티스관절염
 #### <mark style="color:$primary;">왜 류마티스 관절염이 생기나요?</mark>
 
 * 정확한 원인은 아직 밝혀지지 않았지만, 유전적 소인이 있는 사람에게 흡연, 감염, 스트레스 등 환경 요인이 겹쳐 면역 체계가 관절을 공격하게 되는 것으로 추정됩니다
-* 30\~40대 여성에서 특히 흔하지만 남녀노소 누구에게나 발생할 수 있습니다
+* 여성에서 남성보다 2\~3배 흔하고 50\~70대에 가장 많이 생기지만, 어느 연령에서나 발생할 수 있습니다
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
