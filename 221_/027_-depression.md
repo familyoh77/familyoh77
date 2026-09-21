@@ -16,11 +16,11 @@
 * 노인 우울증에 대해서는 노화, 다른 내과 질환, 기억력 장애/치매 초기 증상 가능성 고려
   * 우울 감정을 부정하면서 두통·소화기 증상·만성 통증 등 신체 증상만 호소하는 경우가 흔함
 
-**신체증상 중심의 우울증 표현** (Somatic presentations of depression; 전통적 용어: masked depression)
+#### <mark style="color:$primary;">신체증상 중심의 우울증 표현 (Somatic presentations of depression)</mark>
 
-* 일차 의료 기관을 방문하는 우울증 환자의 상당수는 우울한 기분보다 두통, 만성 통증, 소화불량, 피로감, 기력 저하 등 신체 증상을 주 호소로 먼저 제시함(특히 노인 우울증에서 흔함)
+* 일차 의료 기관을 방문하는 우울증 환자의 상당수는 우울한 기분보다 두통, 만성 통증, 소화불량, 피로감, 기력 저하 등 신체 증상을 주 호소로 먼저 제시함. 특히 노인 우울증에서 흔함
 * 신체 증상이 반복되고 기질적 원인이 불명확한 경우 우울증을 적극적으로 감별해야 하는 한편, 신체 증상만으로 우울증을 진단하지 않고 전체 우울 증상과 기능 손상을 평가함
-* masked depression은 DSM-5-TR의 공식 진단명이 아님
+* 전통적 용어인 가면우울증(masked depression)은 DSM-5-TR의 공식 진단명이 아님
 
 ## <mark style="color:green;">원인</mark>
 
@@ -126,14 +126,14 @@
 
 ## <mark style="color:green;">진단</mark>
 
-<mark style="color:cyan;">**선별 검사**</mark> \[USPSTF 2023]
+<mark style="color:cyan;">**선별검사**</mark> \[USPSTF 2023]
 
 * 대상 : 임신·산후 여성과 고령자를 포함한 모든 성인
   * 양성 시 진단·치료·추적이 가능한 체계와 연계하며, 선별검사는 임상적 평가를 대신하지 않음
 * 자살 위험 선별 : 무증상 성인의 일률적 자살 위험 선별은 근거 불충분(I statement). 우울 증상이 있으면 자살 위험을 반드시 평가
 * 검사 주기 : 정해지지 않음. 임상적으로 결정
 * 검사 도구 : 특정하지 않음; 일반 인구- PHQ, 고령- GDS, 임신- [에든버러 척도](028_-postpartum-depression.md#edinburgh-postnatal-depression-scale-epds)
-* 선별 검사에서 양성 시 다른 정신 질환(예: 불안, 공황장애)에 대해서도 검사 시행
+* 선별검사에서 양성 시 다른 정신 질환(예: 불안, 공황장애)에 대해서도 검사 시행
 
 ### <mark style="color:orange;">진단 기준 \[DSM-5-TR]</mark>
 
@@ -176,7 +176,7 @@ E. 조증 삽화 또는 경조증 삽화가 있었던 적이 없음. 단, 물질
 
 <table data-search="false"><thead><tr><th width="183">Specifiers</th><th>특징</th><th>치료 시 유의점</th></tr></thead><tbody><tr><td>Anxious distress<br>(불안 고통 동반)</td><td>긴장, 안절부절, 걱정으로 인한 집중 곤란, 파국적 예감, 자제력 상실에 대한 두려움 중 ≥2개</td><td>불안의 중증도와 자살 위험을 함께 평가; 초기 활성화 부작용을 고려해 저용량 시작</td></tr><tr><td>Mixed features<br>(혼재성)*</td><td>우울 삽화 중 ≥3가지 조증/경조증 증상 동반</td><td>혼재성 양상 자체가 양극성 장애를 확정하지는 않음. 양극성 장애를 재평가하고 항우울제 단독 사용은 신중히 결정</td></tr><tr><td>With psychotic features<br>(정신병적 양상)</td><td>우울 삽화 중 망상 또는 환각 동반; 기분 일치성·불일치성으로 세분</td><td>중증도·자살 위험·영양 및 수분 섭취를 평가하고 항우울제+항정신병약물 또는 ECT 고려; 정신건강의학과 협진</td></tr><tr><td>Melancholic features<br>(멜랑콜리아)</td><td>쾌감 소실, 아침 악화, 조기 각성, 죄책감, 정신운동 변화</td><td>중증도·정신병적 증상·영양상태와 ECT 필요성을 함께 평가</td></tr><tr><td>Atypical features<br>(비전형적)</td><td>기분 반응성 유지, 과식, 과수면, 납 마비, 거절 예민성</td><td>양극성 장애와 수면·섭식 문제를 함께 평가</td></tr><tr><td>Peripartum onset<br>(주산기)</td><td>임신 중 또는 출산 후 4주 이내 발병</td><td>태아·영아 노출, 과거 치료 반응 및 치료하지 않은 우울증의 위험을 개별적으로 비교</td></tr><tr><td>Seasonal pattern<br>(계절성)</td><td>특정 계절과 삽화·관해 사이에 반복적 시간 관계</td><td>광선치료, 정신치료 및 항우울제를 중증도와 선호에 따라 선택</td></tr><tr><td>With catatonia<br>(긴장증 동반)</td><td>혼미, 무언증, 거부증, 자세 유지, 강경증 등</td><td>응급 평가 및 정신건강의학과 의뢰; lorazepam·ECT가 치료 선택지</td></tr></tbody></table>
 
-* 조증 전환 가능성을 관찰하고 양극성 장애를 면밀히 감별함. 혼재성 양상이 있다는 이유만으로 양극성 장애로 확진하거나 모든 환자에게 병용치료를 의무화하지 않음
+> _\*조증 전환 가능성을 관찰하고 양극성 장애를 면밀히 감별함. 혼재성 양상이 있다는 이유만으로 양극성 장애로 확진하거나 모든 환자에게 병용치료를 의무화하지 않음_
 
 #### <mark style="color:$primary;">역치하 우울증 (Subthreshold depression / Other specified depressive disorder)</mark>
 
