@@ -99,7 +99,7 @@ _<mark style="color:$info;">✽ PHQ-9 9번 항목 양성만으로 위험도를 �
 
  → ICD-11의 세 차원을 확인하기 위한 임상 질문이며, 양성 문항 수로 번아웃을 진단하거나 중증도를 판정하지 않음. 직업적 맥락·지속 기간·기능 저하와 동반 질환을 추가 평가
 
-### <mark style="color:orange;">선별 검사</mark>
+### <mark style="color:orange;">선별검사</mark>
 
 #### <mark style="color:$primary;">번아웃 단일 문항 선별(Single-item Burnout Measure)</mark>
 

@@ -70,7 +70,7 @@
 
 <mark style="color:cyan;">**Lab 해석**</mark>
 
-<table><thead><tr><th width="256">검사 소견</th><th>시사 질환</th></tr></thead><tbody><tr><td>AST/ALT 현저히 상승</td><td>간염 (바이러스·허혈·약물)</td></tr><tr><td>ALP + bilirubin 상승</td><td>담도 폐쇄</td></tr><tr><td>Lipase ≥3×ULN(upper limit normal) + 전형적 상복부 통증</td><td>급성 췌장염 (Revised Atlanta Criteria: ① 전형적 통증, ② lipase/amylase ≥3×ULN, ③ 영상 소견 중 2개 이상 충족 시 진단)</td></tr><tr><td>Lactate 상승</td><td>장간막 허혈, 패혈증; 단, 정상 lactate가 장간막 허혈을 배제하지는 못함(초기에는 정상일 수 있음)</td></tr><tr><td>WBC 현저히 상승 + CRP 상승</td><td>염증성·감염성 복강내 질환 가능성을 높이나 비특이적; 단독으로 세균감염·충수염을 확진하거나 배제할 수 없음; procalcitonin은 중증도 평가 등 보조적 역할이 연구되고 있으나 미분화 복통의 routine 선별 검사로는 아직 근거가 확립되지 않음</td></tr><tr><td>β-hCG 양성</td><td>임신 (자궁외임신 배제 필수)</td></tr></tbody></table>
+<table><thead><tr><th width="256">검사 소견</th><th>시사 질환</th></tr></thead><tbody><tr><td>AST/ALT 현저히 상승</td><td>간염 (바이러스·허혈·약물)</td></tr><tr><td>ALP + bilirubin 상승</td><td>담도 폐쇄</td></tr><tr><td>Lipase ≥3×ULN(upper limit normal) + 전형적 상복부 통증</td><td>급성 췌장염 (Revised Atlanta Criteria: ① 전형적 통증, ② lipase/amylase ≥3×ULN, ③ 영상 소견 중 2개 이상 충족 시 진단)</td></tr><tr><td>Lactate 상승</td><td>장간막 허혈, 패혈증; 단, 정상 lactate가 장간막 허혈을 배제하지는 못함(초기에는 정상일 수 있음)</td></tr><tr><td>WBC 현저히 상승 + CRP 상승</td><td>염증성·감염성 복강내 질환 가능성을 높이나 비특이적; 단독으로 세균감염·충수염을 확진하거나 배제할 수 없음; procalcitonin은 중증도 평가 등 보조적 역할이 연구되고 있으나 미분화 복통의 routine 선별검사로는 아직 근거가 확립되지 않음</td></tr><tr><td>β-hCG 양성</td><td>임신 (자궁외임신 배제 필수)</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">심전도(ECG)</mark>
 

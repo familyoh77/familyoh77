@@ -276,9 +276,9 @@ _<mark style="color:$info;">Ref. Atri A, et al. Alzheimer's Dement 2025;21:e1433
 
 _<mark style="color:$info;">Ref. Atri A, et al. Alzheimer's Dement 2025;21:e14333 (DETeCD-ADRD, Rec. 3)</mark>_
 
-### <mark style="color:orange;">선별 검사 : 인지 기능 검사</mark>
+### <mark style="color:orange;">선별검사 : 인지 기능 검사</mark>
 
-* 증상이 없는 고령자에 대한 일률적인 인지 장애 선별 검사는 권고하지 않음
+* 증상이 없는 고령자에 대한 일률적인 인지 장애 선별검사는 권고하지 않음
 * 인지 장애 병력(+) & 인지 검사 정상 → 경증 치매, 높은 지적 수준, 우울 가능성 고려. 보호자가 일상 기능의 뚜렷한 변화를 보고하는데 진찰실 검사가 정상이면 표준화 신경심리검사(SNSB-II, CERAD-K 등) 의뢰를 적극 고려
 * 인지 장애 병력(-) & 인지 검사 이상 → 급성 혼돈 상태, 매우 낮은 지적 수준, 병력 정보 오류 가능성 고려
 
