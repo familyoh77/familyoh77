@@ -169,6 +169,25 @@ EPDS는 주산기 집단에서 널리 검증되었고 불안 관련 증상을 �
 ***
 
 ```mermaid
+flowchart TD
+    A(["EPDS·PHQ-9 선별 양성<br/>또는 임상적 의심"]) --> B["진단 면담<br/>자살·영아 위해·정신증 평가"]
+    B -->|"즉각 위험·정신증·조증"| C["영아 안전 확보<br/>응급 이송·입원 평가"]
+    B -->|"즉각 위험 없음"| D["양극성장애 배제<br/>중증도·기능·수유<br/>·과거 반응 평가"]
+    D -->|"경증"| E["CBT·IPT<br/>지지·수면·사회적 개입"]
+    D -->|"중등증"| F["심리치료 또는 항우울제<br/>필요 시 병행"]
+    D -->|"중증 비정신병성"| G["항우울제+심리치료<br/>정신건강의학과 협진"]
+    E --> H["초기 1~2주, <br/>안정화 후 2~4주<br/>척도·기능·안전성 추적"]
+    F --> H
+    G --> H
+    H -->|"호전"| J["관해 후 유지치료<br/>재발 예방"]
+    H -->|"반응 부족"| I["순응도·진단·동반 질환 재평가<br/>전환·병합·ECT 등 전문치료"]
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style B fill:#fff9c4,stroke:#ffe082
+    style C fill:#F8D7DA,stroke:#C82333
+    style D fill:#fff9c4,stroke:#ffe082
+    style H fill:#fff9c4,stroke:#ffe082
+    style J fill:#E2F0D9,stroke:#5B8C3A
+
 ```
 
 <p align="center"><strong>주산기/산후 우울증 알고리듬</strong></p>
