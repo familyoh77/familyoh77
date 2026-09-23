@@ -271,7 +271,7 @@ class I,O,R,Z,B yellow
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R06.6 딸꾹질 Hiccough
 

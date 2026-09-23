@@ -422,7 +422,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R05 기침 Cough
 

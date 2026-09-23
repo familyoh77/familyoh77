@@ -768,7 +768,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * F32.0 경도 우울에피소드 Mild depressive episode
 * F32.1 중등도 우울에피소드 Moderate depressive episode

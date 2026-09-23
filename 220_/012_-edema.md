@@ -430,7 +430,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R60.0 국소부종 Localized edema
 * R60.1 전신부종 Generalized edema

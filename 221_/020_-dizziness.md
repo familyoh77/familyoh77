@@ -660,7 +660,7 @@ flowchart TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R42 어지럼증 및 어지럼 Dizziness and giddiness
   * 실무 팁 : 확정 진단 전에는 R42를 사용할 수 있으며, 원인 질환이 확인되면 실제 진료기록과 진단에 맞는 질병코드를 사용함. 의심만으로 특정 질환 코드를 삭감 방지 목적으로 병기하지 않음

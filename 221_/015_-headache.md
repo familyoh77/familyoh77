@@ -223,7 +223,7 @@
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R51 두통 Headache
 * G44 기타 두통증후군 Other headache syndromes

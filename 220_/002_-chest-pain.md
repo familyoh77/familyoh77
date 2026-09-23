@@ -522,7 +522,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R07.1 숨쉴 때의 흉통 Chest pain on breathing
 * R07.2 명치통증 Precordial pain

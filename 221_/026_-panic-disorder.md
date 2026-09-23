@@ -393,7 +393,7 @@ Alprazolam은 짧은 반감기로 투여 간 금단과 반동불안이 나타날
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * F40.00 공황장애가 없는 광장공포증 Agoraphobia without panic disorder
 * F40.01 공황장애를 동반한 광장공포증 Agoraphobia with panic disorder

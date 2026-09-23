@@ -327,7 +327,7 @@ class B,D,G yellow
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R06.0 호흡곤란 Dyspnea
 

@@ -326,7 +326,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R50 기타 및 원인미상의 열 Fever of other and unknown origin
 * R50.2 약물유발 열 Drug-induced fever

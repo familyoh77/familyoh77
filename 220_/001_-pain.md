@@ -776,7 +776,7 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R52 달리 분류되지 않은 통증 Pain, NEC
 * R52.0 급성 통증 Acute pain

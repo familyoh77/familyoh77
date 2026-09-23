@@ -410,7 +410,7 @@ Society of Maternal-Fetal Medicine은 SSRI의 위험이 대개 '미치료 우울
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * F32 우울에피소드 Depressive episode
 * F33 재발성 우울장애 Recurrent depressive disorder

@@ -304,7 +304,7 @@ class B,D,D2,F,P yellow
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R43 후각 및 미각 장애 Disturbances of smell and taste
 * R43.0 무후각증 Anosmia

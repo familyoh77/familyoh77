@@ -470,7 +470,7 @@ flowchart TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R10.0 급성 복증 Acute abdomen
 * R10.1 상복부에 국한된 통증 Pain localized to upper abdomen

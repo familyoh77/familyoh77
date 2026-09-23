@@ -511,7 +511,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * F41.1 범불안장애 Generalized anxiety disorder
 * F41.2 혼합형 불안 및 우울장애 Mixed anxiety and depressive disorder

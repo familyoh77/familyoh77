@@ -273,7 +273,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * G44.2 긴장형두통
 * G44.3 만성 외상후 두통

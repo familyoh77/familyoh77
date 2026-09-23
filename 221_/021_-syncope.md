@@ -278,7 +278,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R55 실신 및 허탈 Syncope and collapse
 

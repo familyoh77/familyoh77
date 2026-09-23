@@ -272,7 +272,7 @@ flowchart LR
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R55.0 혈관미주신경성 실신 Vasovagal syncope
 * R55.8 기타 실신 및 허탈 Other syncope and collapse

@@ -293,7 +293,7 @@ class B,D,F,M yellow
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * R53 병감 및 피로 Malaise and fatigue
 * G93.3 바이러스후피로증후군 Postviral fatigue syndrome (근통성 뇌척수염 포함; ME/CFS 진단 시 참고)

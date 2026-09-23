@@ -299,7 +299,7 @@ class B,F,I,L,N yellow
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * G44.8 기타 명시된 두통증후군 Other specified headache syndromes
 * M54.2 경추통 Cervicalgia (경부 통증이 별도로 진단된 경우)

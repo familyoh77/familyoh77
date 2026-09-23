@@ -539,7 +539,7 @@ flowchart TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * G43 - 편두통 - Migraine
 * G43.0 - 전조(조짐)가 없는 편두통 - Migraine without aura
