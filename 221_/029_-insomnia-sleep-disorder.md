@@ -230,6 +230,31 @@
 ***
 
 ```mermaid
+graph TD
+    Start([불면 증상과 주간 기능장애]) --> Safety["Red Flags 해당?"]
+    Safety -- "즉각 조치 항목" --> T1["즉각 조치"]
+    Safety -- "당일~수일 내 평가 항목" --> T2["당일~수일 내 평가"]
+    Safety -- "해당 없음" --> Assess["수면력·수면일지<br/>·동반 질환 평가"]
+    Assess --> Other["다른 수면장애 의심?"]
+    Other -- "예" --> Test["적응증에 따른 <br/>검사·전문 평가"]
+    Other -- "아니오" --> Duration["주 3회 이상, <br/>3개월 이상?"]
+    Duration -- "예" --> Chronic[만성 불면장애]
+    Duration -- "아니오" --> Short["단기 불면장애 <br/>또는 불면 증상"]
+    Test --> Combined["동반 수면장애 치료 <br/>+ 불면 병행 관리"]
+    Chronic --> CBT["CBT-I 우선 (dCBT-I 포함)"]
+    Short --> Cause["유발 요인 교정<br/>·단기 관리"]
+    Combined --> CBT
+    CBT --> Review["반응과 기능 재평가"]
+    Review -- "불충분" --> Drug["공동 의사결정 후 CBT-I 병행 <br/>약물 보조"]
+    Review -- "호전" --> Prevent["유지·재발 예방"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style Safety fill:#fff9c4,stroke:#ffe082
+    style Other fill:#fff9c4,stroke:#ffe082
+    style Duration fill:#fff9c4,stroke:#ffe082
+    style Review fill:#fff9c4,stroke:#ffe082
+    style Chronic fill:#f96,stroke:#e65100,stroke-width:2px
+    style CBT fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+
 ```
 
 <p align="center"><strong>불면증 진단 및 치료 알고리듬</strong></p>
@@ -776,7 +801,7 @@
 > * 다음날 졸리면 운전·기계 조작을 하지 말고 담당 의사와 상담하십시오.
 
 {% hint style="danger" %}
-**⚠️ 졸피뎀 등 Z-drug 계열 위험 행동 경고 (FDA Boxed Warning)**\
+**졸피뎀 등 Z-drug 계열 위험 행동 경고 (FDA Boxed Warning)**\
 수면 보행(몽유병), 수면 중 운전, 수면 중 식사 등 **본인이 기억하지 못하는 복잡 수면 행동**이 발생한 경우 즉시 복용을 중단하고 내원하십시오. 이러한 행동은 심각한 사고 및 사망으로 이어질 수 있으며, 이전에 한 번이라도 이런 증상이 있었던 경우 이 약의 복용은 금기입니다.
 {% endhint %}
 
