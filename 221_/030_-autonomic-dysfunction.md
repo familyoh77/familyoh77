@@ -228,6 +228,43 @@
 ***
 
 ```mermaid
+graph TD
+    Start(["어지럼 / 실신 /<br/>두근거림 / 피로"]) --> Step1["기립 혈압·맥박 측정<br/>OH: 1/3분<br/>POTS: 10분간 매분"]
+    Step1 --> Q0["연속혈압측정 시<br/>15초 이내 일과성<br/>BP 감소 ≥40/20 ㎜Hg?"]
+    Q0 -->|Yes| IOH["초기 OH<br/>퇴행성 질환을 뜻하지 않음"]
+    Q0 -->|"No 또는 측정 불가"| Q1["지속 BP 감소<br/>≥20/10 ㎜Hg?"]
+    IOH --> IOH_Tx["일과성 반응 교육<br/>천천히 일어나기·수분 보충"]
+    IOH_Tx -->|"공존하는 지속성 OH·POTS 평가"| Q1
+    Q1 -->|"Yes: 3분 이내"| OH["고전적 기립성 저혈압<br/>Classic OH"]
+    Q1 -->|"Yes: 3분 이후"| DOH["지연성 OH (Delayed OH)<br/>초기 자율신경부전 평가"]
+    Q1 -->|No| Q2["지속 HR 증가 ≥30 bpm?<br/>12~19세 ≥40 bpm"]
+    Q2 -->|Yes| Chronic["기립불내성<br/>3개월 이상?"]
+    Q2 -->|No| Other["혈관미주신경성<br/>·불안·심장성<br/>·기타"]
+    OH --> QHR["HR 반응"]
+    DOH --> QHR
+    QHR -->|"ΔHR ＜15 bpm 또는<br/>ΔHR/ΔSBP ＜0.5"| Neuro["신경인성 OH<br/>PAF·파킨슨·MSA·당뇨"]
+    QHR -->|"ΔHR ≥15~20 bpm 또는<br/>ΔHR/ΔSBP ≥0.5"| Volume["탈수·저혈량·약물성"]
+    Neuro --> SupHTN["앙와위 고혈압<br/>동반?"]
+    SupHTN -->|Yes| SupYes["침대 전체를 <br/>머리 쪽으로 기울임<br/>저녁 염분 제한<br/>취침 4시간 이내 <br/>midodrine 금지"]
+    SupHTN -->|No| SupNo["midodrine 우선 고려<br/>저혈량 시 <br/>fludrocortisone 보조"]
+    Chronic -->|Yes| Excl["빈혈·탈수·급성감염·<br/>내분비·심장·약물 원인?"]
+    Chronic -->|No| Recheck["급성 원인<br/>·탈조건화 평가<br/>추적 재검"]
+    Excl -->|No| POTSconf["POTS 진단"]
+    Excl -->|Yes| Secondary["이차 원인 교정·평가"]
+    SupYes --> Ref["신경과 의뢰<br/>기저 질환·자율신경검사"]
+    SupNo --> Ref
+    Volume --> Tx1["체액 교정<br/>·약물 재검토"]
+    POTSconf --> Tx2["비약물 우선<br/>기능장애 지속 시 <br/>맞춤 약물"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class Q0,Q1,Q2,Chronic,QHR,SupHTN,Excl yellow
+    style OH fill:#ffebee,stroke:#c62828,stroke-width:2px
+    style POTSconf fill:#f96,stroke:#e65100,stroke-width:2px
+    style IOH fill:#f3e5f5,stroke:#6a1b9a,stroke-width:1px
+    style DOH fill:#f3e5f5,stroke:#6a1b9a,stroke-width:1px
+    style IOH_Tx fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style SupYes fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
+    style Neuro fill:#ffcdd2,stroke:#b71c1c,stroke-width:2px
 ```
 
 <p align="center"><strong>자율신경 기능 장애 1차 진료 접근 알고리듬</strong></p>
