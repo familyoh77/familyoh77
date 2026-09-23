@@ -31,7 +31,7 @@
   * [공황장애 Panic Disorder](221_/026_-panic-disorder.md)
   * [우울증 Depression](221_/027_-depression.md)
   * [주산기/산후 우울증 Perinatal/Postpartum Depression](221_/028_-postpartum-depression.md)
-  * [불면증 Insomnia, Sleep Disorder](221_/029_-insomnia-sleep-disorder.md)
+  * [불면증 Insomnia](221_/029_-insomnia-sleep-disorder.md)
   * [자율 신경 기능 장애 Autonomic Dysfunction](221_/030_-autonomic-dysfunction.md)
   * [신체증상장애 Somatic Symptom Disorder](221_/031_-somatic-symptom-disorder.md)
   * [번아웃 / 스트레스 관련 장애 Burnout Stress related Disorder](221_/032_1-burnout-stress-disorder.md)

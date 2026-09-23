@@ -1,26 +1,27 @@
-# 불면증 Insomnia, Sleep Disorder
+# 불면증 Insomnia
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 불면증의 핵심 병태생리 - 과각성 모델 (Hyperarousal model)
-  * 불면증의 핵심 기전은 신경계 과각성(hyperarousal) 상태 : HPA axis 활성 증가, 교감신경 항진, 피질 각성 증가
+  * 신경계 과각성(hyperarousal) : HPA axis 활성 증가, 교감신경 항진, 피질 각성 증가; 불면증의 핵심 기전
   * Sleep effort paradox : 잠을 자려고 노력할수록 각성이 높아져 오히려 불면이 악화되는 역설적 현상; CBT-I의 핵심 치료 대상
-* 불면증과 정신 질환의 양방향 관계&#x20;
+* 불면증과 정신 질환의 양방향 관계
   * 불면증은 우울증·불안 장애의 '증상'인 동시에, 그 자체로 우울증과 불안 장애를 악화시키는 '독립적 위험인자'임(양방향성, Bidirectional relationship)
   * 기저 정신 질환이 있는 환자에서 불면증을 별도로 평가·치료하는 것이 중요하며, 불면증 치료가 선행될 때 동반 정신 질환의 예후도 개선될 수 있음
+* 불면장애는 동반 정신·신체 질환이 있어도 독립적으로 진단할 수 있음
 
 ### <mark style="color:orange;">수면장애 분류 \[ICSD-3-TR]</mark>
 
 1. Insomnia : 적절한 수면 기회와 환경에도 불구하고 잠들기 어렵거나 잠을 유지하기 어렵거나 원하는 시간보다 너무 일찍 깨어나며, 이로 인해 주간 기능장애 또는 유의한 고통이 발생함
-   1. 임상적으로 흔히 입면 잠복기 또는 입면 후 각성시간 ＞30분을 참고하지만, 시간 수치만으로 진단하지 않음
-   2. 조기 기상(early morning awakening) : 원하는 시간보다 일찍 깨어 다시 잠들기 어려운 상태
+   * 임상적으로 흔히 입면 잠복기 또는 입면 후 각성시간 ＞30분을 참고하지만, 시간 수치만으로 진단하지 않음
+   * 조기 기상(early morning awakening) : 원하는 시간보다 일찍 깨어 다시 잠들기 어려운 상태
 2. Sleep-related breathing disorders : 수면 중 비정상적인 호흡; central or obstructive sleep apnea syndrome, sleep-related hypoventilation disorder, sleep-related hypoxemia disorder
 3. Central disorders of hypersomnolence : 다른 수면 이상에 의하지 않은 주간 졸림
 4. Circadian rhythm sleep-wake disorders : 내인성 일주기 리듬과 요구되는 수면-각성 일정이 맞지 않아 불면 또는 과도한 졸림과 기능장애가 발생하는 질환군
-   1. 지연수면-각성위상장애, 진행수면-각성위상장애, 불규칙 수면-각성리듬장애, 비24시간 수면-각성리듬장애, 시차장애, 교대근무장애 등을 포함
-   2. 교대근무장애(shift work disorder, SWD)는 이 질환군의 한 아형이며, 교대근무 일정과 관련된 불면 또는 과도한 졸림이 일반적으로 ≥3개월 지속되고 기능장애를 유발할 때 진단을 고려
-5. 사건수면 (Parasomnia) : 잠이 드는 동안, 잠자는 중, 또는 잠에서 깨어나는 동안 원하지 않는 신체적 사건(행동) 또는 경험(지각, 감정, 꿈); 비렘수면 각성장애(혼돈각성, 수면보행증, 야경증), 렘수면행동장애, 악몽장애, 수면마비, 야뇨증 등\
-   ✽잠꼬대는 정상 변이, 이갈이는 수면 관련 운동장애로 분류됨
+   * 지연수면-각성위상장애, 진행수면-각성위상장애, 불규칙 수면-각성리듬장애, 비24시간 수면-각성리듬장애, 시차장애, 교대근무장애 등을 포함
+   * 교대근무장애(shift work disorder, SWD)는 이 질환군의 한 아형이며, 교대근무 일정과 관련된 불면 또는 과도한 졸림이 일반적으로 ≥3개월 지속되고 기능장애를 유발할 때 진단을 고려
+5. 사건수면 (Parasomnia) : 잠이 드는 동안, 잠자는 중, 또는 잠에서 깨어나는 동안 원하지 않는 신체적 사건(행동) 또는 경험(지각, 감정, 꿈); 비렘수면 각성장애(혼돈각성, 수면보행증, 야경증), 렘수면행동장애, 악몽장애, 수면마비, 야뇨증 등
+   * 잠꼬대는 정상 변이, 이갈이는 수면 관련 운동장애로 분류됨
 6. Sleep-related movement disorders : 수면을 방해하는 비교적 단순하고 상동적인(stereotyped) 움직임(예: restless legs syndrome) (☞ [하지불안증후군](036_-restless-legs-syndrome.md))
 7. Other sleep disorders
 
@@ -29,14 +30,16 @@
 #### <mark style="color:$primary;">단기 불면장애 (Short-term insomnia disorder)</mark>
 
 * ＜3개월 동안 주간 기능 장애 등의 유의미한 문제를 일으키는 수면 장애
-* 과거에 급성·적응성·스트레스성·일과성 불면증(acute, adjustment, stress-related, transient insomnia) 등으로도 불렸으나, 본문에서는 단기 불면장애로 통일
-* 일시적인 스트레스·급성 통증·슬픔 등과 관련될 수 있으며, 증상과 주간 기능장애가 유의하면 동반 원인을 치료하면서 단기 불면장애를 함께 진단·관리할 수 있음
+* 과거에 급성·적응성·스트레스성·일과성 불면증(acute, adjustment, stress-related, transient insomnia) 등으로도 불렸으나, ICSD-3-TR에 따라 본문에서는 단기 불면장애로 통일
+* 일시적인 스트레스·급성 통증·슬픔 등과 관련될 수 있음
+* 증상과 주간 기능장애가 유의하면 동반 원인을 치료하면서 단기 불면장애를 함께 진단·관리할 수 있음
 * 스트레스가 해소되거나 스트레스에 적응하면 증상이 해소될 수 있음
 
 #### <mark style="color:$primary;">만성 불면장애 (Chronic insomnia disorder)</mark>
 
 * ≥3개월 동안 ≥3회/주 유의미한 문제를 일으키는 수면 장애
-* 적절한 수면 기회가 주어졌음에도 불구하고 발생하는 것이 진단의 전제 조건 - 소음·빛 등 환경 요인에 의한 단순 수면 부족과 구별됨
+* 적절한 수면 기회가 주어졌음에도 불구하고 발생하는 것이 진단의 전제 조건&#x20;
+  * 소음·빛 등 환경 요인에 의한 단순 수면 부족과 구별됨
 * 여러 해에 걸쳐 수 주 동안 반복적으로 불면증이 발생하는 환자는 각각의 episode가 3개월 동안 지속되지 않더라도 만성 불면증으로 진단할 수 있음
 
 #### <mark style="color:$primary;">기타 불면장애 (Other insomnia disorder)</mark>
@@ -45,13 +48,16 @@
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* 불면장애는 동반 정신·신체 질환이 있어도 독립적으로 진단할 수 있으며, 과거의 원발성/이차성 불면증 구분보다 유발·지속·악화 요인을 함께 평가함
+* 유발·지속·악화 요인을 함께 평가
 
 ### <mark style="color:orange;">Spielman의 3P 모델</mark>
 
-* **소인 요인(Predisposing factors)** : 유전적 취약성, 과각성·불안 성향, 고령, 여성 등 불면에 취약하게 만드는 요인
-* **유발 요인(Precipitating factors)** : 급성 스트레스, 신체 질환·통증, 주요 생활사건, 환경 변화 등 불면을 시작하게 하는 요인
-* **지속 요인(Perpetuating factors)** : 침상 시간 연장, 불규칙한 낮잠, 수면에 대한 불안과 과도한 노력, 음주·카페인 과용 등 급성 불면이 만성화되게 하는 요인으로 CBT-I의 주요 치료 표적
+* 소인 요인(Predisposing factors) : 불면에 취약하게 만드는 요인
+  * 유전적 취약성, 과각성·불안 성향, 고령, 여성
+* 유발 요인(Precipitating factors) : 불면을 시작하게 하는 요인
+  * 급성 스트레스, 신체 질환·통증, 주요 생활사건, 환경 변화
+* 지속 요인(Perpetuating factors) : 급성 불면이 만성화되게 하는 요인; CBT-I의 주요 치료 표적
+  * 침상 시간 연장, 불규칙한 낮잠, 수면에 대한 불안과 과도한 노력, 음주·카페인 과용&#x20;
 
 ### <mark style="color:orange;">주요 원인 및 위험 인자</mark>
 
@@ -175,7 +181,7 @@
 
 * 수면각성 패턴 때문에 잠이 오지 않는 상황
 * 뒤처진 수면위상형 : 늦게 잠이 들고 기상 시간이 늦어지는 수면-각성 주기 지연(청소년·젊은 성인에서 흔함)
-* 앞당겨진 수면위상형&#x20;
+* 앞당겨진 수면위상형
   * 일찍 잠을 자고 새벽에 일찍 깨는 수면-각성 주기 앞당김
   * 고령자에서 특히 흔함 - 저녁 7\~9시에 졸리고 새벽 3\~5시에 기상하는 패턴
   * 늦게 취침해도 일찍 깨는 경향 유지
@@ -212,19 +218,19 @@
 
 #### <mark style="color:$primary;">사건수면</mark>
 
-* 렘수면 관련 사건수면&#x20;
+* 렘수면 관련 사건수면
   * 렘수면 행동장애(렘수면 중 정상적인 근긴장 소실이 일어나지 않아 꿈 내용을 실제로 행동 함); 렘수면이 많은 수면 후반부에 주로 발생
-  * 특발성, 신경과적 질환(예: 파킨슨병, 루이소체 치매) 관련&#x20;
+  * 특발성, 신경과적 질환(예: 파킨슨병, 루이소체 치매) 관련
   * SSRI·SNRI·mirtazapine 등 항우울제가 렘수면행동장애를 유발·악화시킬 수 있음
   * 특발성 렘수면 행동장애는 α-synucleinopathy의 중요한 전구 표지자(신경퇴행성 질환 전환율 연 약 6%, 10년 이상 추적 시 과반에서 진행)이므로 신경과·수면전문 평가와 장기 추적을 고려 (☞ [파킨슨병 전구 증상](035_-parkinsons-disease.md#전구-증상))
-* 비렘수면 각성장애&#x20;
+* 비렘수면 각성장애
   * 깊은 잠(서파수면)에서 불완전하게 깨어난 상태로, 다른 사람이 말을 거는 것에 대해 적절한 반응을 보이지 않으며 대개 기억하지 못함
   * 수면 중 첫 ⅓ 시점에서 많이 발생
   * 야경증 : 자다가 소리를 지르고 울면서 깨는 행동을 반복
   * 수면보행증 : 수면 중 갑자기 일어나서 걸어다니는 행동을 반복
   * 성인에서 새로 발생하면 zolpidem 등 약물 유발 여부를 확인
 * 진단 : 병력과 동침자 진술·영상이 중요하며, 렘수면행동장애 또는 위험한/비전형적 사건수면이 의심되면 video-polysomnography 고려
-* 치료&#x20;
+* 치료
   * 아동기 비렘수면 각성장애는 특별한 치료를 요하지 않을 수 있음
   * 렘수면행동장애는 위험 물건 제거, 침대 주변 완충, 동침자 보호 등 침실 안전조치가 우선
   * 필요 시 즉시방출 melatonin 또는 clonazepam을 선택적으로 고려하되, clonazepam은 고령자·인지저하·보행장애·OSA에서 특히 주의
@@ -238,35 +244,11 @@
 ***
 
 ```mermaid
-graph TD
-    Start([불면 증상과 주간 기능장애]) --> Safety["Red Flags 해당?"]
-    Safety -- "즉각 조치 항목" --> T1["즉각 조치"]
-    Safety -- "당일~수일 내 평가 항목" --> T2["당일~수일 내 평가"]
-    Safety -- "해당 없음" --> Assess["수면력·수면일지·동반 질환 평가"]
-    Assess --> Other["다른 수면장애 의심?"]
-    Other -- "예" --> Test["적응증에 따른 검사·전문 평가"]
-    Other -- "아니오" --> Duration["주 3회 이상, 3개월 이상?"]
-    Duration -- "예" --> Chronic[만성 불면장애]
-    Duration -- "아니오" --> Short["단기 불면장애 또는 불면 증상"]
-    Test --> Combined["동반 수면장애 치료 + 불면 병행 관리"]
-    Chronic --> CBT["CBT-I 우선 (dCBT-I 포함)"]
-    Short --> Cause["유발 요인 교정·단기 관리"]
-    Combined --> CBT
-    CBT --> Review["반응과 기능 재평가"]
-    Review -- "불충분" --> Drug["공동 의사결정 후 CBT-I 병행 약물 보조"]
-    Review -- "호전" --> Prevent["유지·재발 예방"]
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Safety fill:#fff9c4,stroke:#ffe082
-    style Other fill:#fff9c4,stroke:#ffe082
-    style Duration fill:#fff9c4,stroke:#ffe082
-    style Review fill:#fff9c4,stroke:#ffe082
-    style Chronic fill:#f96,stroke:#e65100,stroke-width:2px
-    style CBT fill:#e1f5fe,stroke:#01579b,stroke-width:2px
 ```
 
 <p align="center"><strong>불면증 진단 및 치료 흐름도</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICSD-3-TR; European Insomnia Guideline 2023; VA/DoD CPG 2025; AASM 2026)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ICSD-3-TR; European Insomnia Guideline 2023;</mark></em> <br><em><mark style="color:$info;">VA/DoD CPG 2025; AASM 2026)</mark></em></p>
 
 ***
 
@@ -326,7 +308,7 @@ graph TD
 * BZD·Z-drug·DORA·진정성 항우울제를 계열 전체로 안전하다고 단정하지 않음
 * 수면박탈이 조증이나 산후 정신병의 단서인 경우 신속 평가
 
-**Step 7. 약물 선택** → **약물 선택 요약**&#x20;
+**Step 7. 약물 선택** → **약물 선택 요약**
 
 **Step 8. 재평가** (2\~4주 후)
 
@@ -534,7 +516,13 @@ graph TD
 
  ※ 일주일 기록이 모이면 아래 지표를 계산
 
-<table><thead><tr><th>지표</th><th>계산식</th><th>해석</th></tr></thead><tbody><tr><td>총 수면시간(TST)</td><td>⑩ − ⑥ − ⑦ − ⑨</td><td>개인차</td></tr><tr><td>침상 시간(TIB)</td><td>⑪ − ⑤</td><td>개인차</td></tr><tr><td>수면효율(SE, %)</td><td>(TST ÷ TIB) × 100</td><td>일반적으로 ≥85%를 참고</td></tr><tr><td>입면 잠복기(SOL)</td><td>⑦</td><td>일반적으로 ≤30분을 참고</td></tr><tr><td>입면 후 각성시간(WASO)</td><td>⑨</td><td>일반적으로 ≤30분을 참고</td></tr></tbody></table>
+| 지표              | 계산식               | 해석             |
+| --------------- | ----------------- | -------------- |
+| 총 수면시간(TST)     | ⑩ − ⑥ − ⑦ − ⑨     | 개인차            |
+| 침상 시간(TIB)      | ⑪ − ⑤             | 개인차            |
+| 수면효율(SE, %)     | (TST ÷ TIB) × 100 | 일반적으로 ≥85%를 참고 |
+| 입면 잠복기(SOL)     | ⑦                 | 일반적으로 ≤30분을 참고 |
+| 입면 후 각성시간(WASO) | ⑨                 | 일반적으로 ≤30분을 참고 |
 
 > 수면효율은 수면제한요법의 처방과 조정에 사용하는 지표 중 하나이다. SE ＜85%만으로 치료 적응증을 자동 결정하지 말고 불면 증상·주간 기능·안전 위험을 함께 평가하며, 평균 TST를 기준으로 침상 시간을 조정하고 주 단위로 재평가한다.
 
@@ -581,22 +569,22 @@ CBT-I와는 별개의 비약물 치료법으로, 만성 불면증 단독 치료�
   * 정신과 약물 : 일부 항정신병약 (phenothiazine 계열), 일부 TCA·SSRI
   * 기타 : St. John's Wort (Hypericum perforatum), retinoid 제제
 
-#### <mark style="color:$primary;">기타</mark>&#x20;
+#### <mark style="color:$primary;">기타</mark>
 
 **마음챙김 기반 치료 (Mindfulness-Based Therapy for Insomnia, MBTI)**
 
 * 임상 활용 증가 추세이나 AASM 2021은 단독 치료에 관한 권고를 제시하기에 근거가 불충분함
 * 수면에 대한 과도한 집착·각성 완화에 도움이 될 수 있음
 
-**역설적 의도 (Paradoxical intention)**&#x20;
+**역설적 의도 (Paradoxical intention)**
 
 * 잠들지 않으려고 노력하여 수면 불안을 완화; AASM 2021은 단독 치료에 관한 권고를 제시하기에 근거가 불충분함
 
-**바이오피드백 (Biofeedback)**&#x20;
+**바이오피드백 (Biofeedback)**
 
 * AASM 2021은 단독 치료에 관한 권고를 제시하기에 근거가 불충분함
 
-**집중 수면 재훈련 (Intensive sleep retraining)**&#x20;
+**집중 수면 재훈련 (Intensive sleep retraining)**
 
 * AASM 2021은 단독 치료에 관한 권고를 제시하기에 근거가 불충분함
 
@@ -615,7 +603,7 @@ CBT-I와는 별개의 비약물 치료법으로, 만성 불면증 단독 치료�
 * 부작용 : 주간 졸음, 어지럼, 인지 장애, 내성, 반동 불면
   * 대처 방법 : 주간 졸음 발생 시 감량·중단 또는 약제 변경을 검토하고 운전·위험작업을 피함. 반감기가 짧아도 한밤중 금단·반동 불면이 증가할 수 있으므로 단순 교체하지 않음
 * 투여 주의/제한 : 고령, 알코올 남용, 자살 시도 병력, 수면무호흡증, 간/신/폐질환자, 운전자, 밤에 깨어나서 해야 할 일이 있는 사람
-* 고령자 주의&#x20;
+* 고령자 주의
   * BZD와 Z-drug은 [Beers Criteria](../231_/215_-care-of-the-older-patient.md#beers-criteria)에서 고령자 부적절 약물로 분류 (낙상·골절·인지 저하·섬망 위험↑)
   * 불가피한 경우 최소 용량·최단 기간 사용
   * 저용량 doxepin 또는 국내 허가·공급이 확인된 DORA가 대안이 될 수 있으나, 잔류 졸림·낙상·호흡기능·상호작용을 개별 평가
@@ -624,7 +612,11 @@ CBT-I와는 별개의 비약물 치료법으로, 만성 불면증 단독 치료�
 
 #### <mark style="color:$primary;">Orexin 수용체 길항제 (Dual Orexin Receptor Antagonist, DORA)</mark>
 
-<table><thead><tr><th>약제</th><th>국내 허가·공급 상태(2026년 9월 1일 기준)</th></tr></thead><tbody><tr><td>lemborexant <mark style="color:blue;">[데이비고]</mark></td><td>2026년 6월 23일 국내 허가; 2026년 9월 비급여 목록 등재 및 비대면 진료 처방 금지 약제 지정; 출시 시기·약가 확인</td></tr><tr><td>daridorexant (Quviviq)</td><td>국내 유통 제품 없음</td></tr><tr><td>suvorexant</td><td>국내 미허가·미도입</td></tr></tbody></table>
+| 약제                                                   | 국내 허가·공급 상태(2026년 9월 1일 기준)                                              |
+| ---------------------------------------------------- | ------------------------------------------------------------------------ |
+| lemborexant <mark style="color:blue;">\[데이비고]</mark> | 2026년 6월 23일 국내 허가; 2026년 9월 비급여 목록 등재 및 비대면 진료 처방 금지 약제 지정; 출시 시기·약가 확인 |
+| daridorexant (Quviviq)                               | 국내 유통 제품 없음                                                              |
+| suvorexant                                           | 국내 미허가·미도입                                                               |
 
 _국내 품목 허가·급여·공급 정보는 실제 처방 시 식품의약품안전처 의약품안전나라와 건강보험심사평가원 최신 정보를 재확인한다._
 
@@ -696,7 +688,14 @@ _국내 품목 허가·급여·공급 정보는 실제 처방 시 식품의약�
 
 _<mark style="color:$info;">Ref. AASM 2017 pharmacologic guideline; European insomnia guideline 2023; VA/DoD insomnia/OSA guideline 2025. 권고 강도와 국내 허가·공급 상태가 서로 다를 수 있으므로 최신 허가사항을 함께 확인한다.</mark>_
 
-<table><thead><tr><th>약제</th><th>주요 대상 및 시작용량</th><th>핵심 주의사항</th></tr></thead><tbody><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td>입면·수면 유지; 성인 1 ㎎ 취침 직전 시작, 필요 시 최대 3 ㎎; 고령자·중증 간장애·강력 CYP3A4 억제제 병용 시 최대 2 ㎎</td><td>미각 이상, 어지럼, 다음날 기능 저하, 복잡 수면 행동; 충분한 수면 시간을 확보</td></tr><tr><td>zaleplon<br><mark style="color:blue;">[잘레딥]</mark></td><td>주로 입면 장애; 성인 10 ㎎, 고령자·쇠약 환자 5 ㎎</td><td>반감기가 짧지만 다음날 졸림과 복잡 수면 행동 가능; 동일한 밤에 임의로 추가 복용하지 않음</td></tr><tr><td>zolpidem 속방형<br><mark style="color:blue;">[스틸녹스]</mark></td><td>주로 입면 장애; 국내 허가상 성인 10 ㎎, 노인·쇠약 환자 5 ㎎; 다음날 기능저하 위험이 우려되면 낮은 용량부터 시작</td><td>국내 허가상 치료 기간은 가능한 짧게, 최대 4주(감량 기간 포함); 최소 7~8시간 수면 확보. 복합수면행동이 발생하면 즉시 중단; 기억상실이나 비정상 행동이 발생하면 복용을 중지하고 신속히 평가</td></tr><tr><td>zolpidem 서방형<br><mark style="color:blue;">[스틸녹스CR]</mark></td><td>입면 및 수면 유지 장애; 국내 제품은 6.25 ㎎과 12.5 ㎎이며 환자별로 가장 낮은 유효용량을 선택</td><td>분할·분쇄하지 않고 통째로 복용; 다음날 잔류 졸림이 속방형보다 클 수 있어 운전·위험작업 주의; 치료 기간은 가능한 짧게</td></tr><tr><td>doxepin<br><mark style="color:blue;">[사일레노]</mark></td><td>수면 유지 장애; 성인 6 ㎎, 고령자는 3 ㎎ 시작(최대 6 ㎎)</td><td>취침 전 30분 이내, 식후 3시간 이내 복용하지 않음; 다음날 졸림·어지럼 가능</td></tr><tr><td>DORA</td><td>입면·수면 유지 장애에 고려 가능한 계열</td><td>narcolepsy 금기, 다음날 졸림·수면마비·입면/각성 시 환각·복잡 수면 행동 가능. 국내 상태는 2026년 9월 1일 기준 DORA 표를 참조하고 실제 처방 가능 여부를 재확인</td></tr></tbody></table>
+| 약제                                                               | 주요 대상 및 시작용량                                                                 | 핵심 주의사항                                                                                                         |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| <p>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></p>    | 입면·수면 유지; 성인 1 ㎎ 취침 직전 시작, 필요 시 최대 3 ㎎; 고령자·중증 간장애·강력 CYP3A4 억제제 병용 시 최대 2 ㎎ | 미각 이상, 어지럼, 다음날 기능 저하, 복잡 수면 행동; 충분한 수면 시간을 확보                                                                  |
+| <p>zaleplon<br><mark style="color:blue;">[잘레딥]</mark></p>        | 주로 입면 장애; 성인 10 ㎎, 고령자·쇠약 환자 5 ㎎                                             | 반감기가 짧지만 다음날 졸림과 복잡 수면 행동 가능; 동일한 밤에 임의로 추가 복용하지 않음                                                             |
+| <p>zolpidem 속방형<br><mark style="color:blue;">[스틸녹스]</mark></p>   | 주로 입면 장애; 국내 허가상 성인 10 ㎎, 노인·쇠약 환자 5 ㎎; 다음날 기능저하 위험이 우려되면 낮은 용량부터 시작         | 국내 허가상 치료 기간은 가능한 짧게, 최대 4주(감량 기간 포함); 최소 7\~8시간 수면 확보. 복합수면행동이 발생하면 즉시 중단; 기억상실이나 비정상 행동이 발생하면 복용을 중지하고 신속히 평가 |
+| <p>zolpidem 서방형<br><mark style="color:blue;">[스틸녹스CR]</mark></p> | 입면 및 수면 유지 장애; 국내 제품은 6.25 ㎎과 12.5 ㎎이며 환자별로 가장 낮은 유효용량을 선택                   | 분할·분쇄하지 않고 통째로 복용; 다음날 잔류 졸림이 속방형보다 클 수 있어 운전·위험작업 주의; 치료 기간은 가능한 짧게                                            |
+| <p>doxepin<br><mark style="color:blue;">[사일레노]</mark></p>        | 수면 유지 장애; 성인 6 ㎎, 고령자는 3 ㎎ 시작(최대 6 ㎎)                                        | 취침 전 30분 이내, 식후 3시간 이내 복용하지 않음; 다음날 졸림·어지럼 가능                                                                   |
+| DORA                                                             | 입면·수면 유지 장애에 고려 가능한 계열                                                       | narcolepsy 금기, 다음날 졸림·수면마비·입면/각성 시 환각·복잡 수면 행동 가능. 국내 상태는 2026년 9월 1일 기준 DORA 표를 참조하고 실제 처방 가능 여부를 재확인          |
 
 * 약제는 증상 유형만이 아니라 연령, 임신 가능성, 동반 질환, 병용약, 물질사용, 낙상·운전 위험과 국내 허가사항을 함께 고려하여 선택한다.
 * benzodiazepine, trazodone, diphenhydramine, 항정신병제는 만성 불면증의 통상적 1차 약물치료로 권하지 않는다 \[VA/DoD 2025]. 이미 장기 복용 중인 benzodiazepine·Z-drug은 금단과 반동 불면을 고려해 개별적으로 감량한다.
@@ -713,11 +712,11 @@ _<mark style="color:$info;">Ref. AASM 2017 pharmacologic guideline; European ins
 
 * 가능한 한 근무 교대의 빈도와 방향을 일정하게 하고, 야간근무 전 계획된 짧은 낮잠, 근무 초반의 밝은 빛과 카페인, 퇴근 시 빛 차단, 조용하고 어두운 주간 수면 환경을 활용한다.
 * 수면제는 충분한 수면 기회를 대신하지 못하며 근무·운전 시 잔여 졸림을 유발할 수 있어 일상적으로 사용하지 않는다.
-* 주간 수면을 위해 속효성 melatonin을 고려할 수 있으나 국내 허가 범위와 제품별 제형을 확인한다. 지속방출형 <mark style="color:blue;">[서카딘]</mark>은 2 ㎎ 제제이며, 국내 허가 적응증은 55세 이상 원발성 불면증의 단기 치료이므로 SWD 치료는 허가 외 사용이다.
+* 주간 수면을 위해 속효성 melatonin을 고려할 수 있으나 국내 허가 범위와 제품별 제형을 확인한다. 지속방출형 <mark style="color:blue;">\[서카딘]</mark>은 2 ㎎ 제제이며, 국내 허가 적응증은 55세 이상 원발성 불면증의 단기 치료이므로 SWD 치료는 허가 외 사용이다.
 
 #### <mark style="color:$primary;">각성 촉진 약물</mark>
 
-* 중등도 이상의 과도한 졸림이 지속되면 modafinil <mark style="color:blue;">[프로비질]</mark> 또는 armodafinil <mark style="color:blue;">[누비질]</mark>을 고려할 수 있다. 제품별 국내 허가사항·공급 여부를 확인하고(허가 적응증과 HIRA 급여 인정 범위는 별개이므로 비급여 가능성 확인), 혈압·심박수, 정신과적 이상반응, 피부 발진 및 호르몬 피임제와의 상호작용을 점검한다.
+* 중등도 이상의 과도한 졸림이 지속되면 modafinil <mark style="color:blue;">\[프로비질]</mark> 또는 armodafinil <mark style="color:blue;">\[누비질]</mark>을 고려할 수 있다. 제품별 국내 허가사항·공급 여부를 확인하고(허가 적응증과 HIRA 급여 인정 범위는 별개이므로 비급여 가능성 확인), 혈압·심박수, 정신과적 이상반응, 피부 발진 및 호르몬 피임제와의 상호작용을 점검한다.
 * 각성 촉진 약물과 카페인은 충분한 수면 기회를 대체하지 못하며, 귀가 운전 전 졸림을 반드시 재평가한다.
 
 ***
@@ -726,7 +725,7 @@ _<mark style="color:$info;">Ref. AASM 2017 pharmacologic guideline; European ins
 
 F51.0 비기질성 불면증 Nonorganic insomnia
 
-G47.0 수면개시 및 유지장애[불면증] Disorders of initiating and maintaining sleep \[insomnias]
+G47.0 수면개시 및 유지장애\[불면증] Disorders of initiating and maintaining sleep \[insomnias]
 
 G47.2 일주기리듬 수면장애 Disorders of the sleep-wake schedule
 
