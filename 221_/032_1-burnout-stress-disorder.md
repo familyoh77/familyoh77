@@ -342,7 +342,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 Z73.0 탈진에 관련된 문제 Problems related to burn-out
 

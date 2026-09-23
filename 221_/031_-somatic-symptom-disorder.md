@@ -498,7 +498,7 @@ SSD 환자에게 증상의 실재성을 인정하고 의학적 평가 결과와 
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 ✽**KCD-9 기준(2026.1.1. 시행)**. KCD-9는 ICD-10 기반 분류이므로 DSM-5-TR 또는 ICD-11 진단과 일대일 대응하지 않음
 

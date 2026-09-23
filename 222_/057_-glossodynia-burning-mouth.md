@@ -270,7 +270,7 @@ class I,T orange
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 K14.6 설통 (Glossodynia)
 

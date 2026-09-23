@@ -330,7 +330,7 @@ flowchart LR
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 F06.7 경도 인지장애 Mild cognitive disorder
 

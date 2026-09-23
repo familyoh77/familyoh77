@@ -113,7 +113,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 H11.3 결막출혈 (SCH)
 

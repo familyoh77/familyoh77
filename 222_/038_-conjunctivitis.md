@@ -374,7 +374,7 @@ _<mark style="color:$info;">Ref. ARIA-EAACI Guidelines—2024–2025 Revision: P
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 A54.3 눈의 임균감염(임균성 결막염 포함)
 

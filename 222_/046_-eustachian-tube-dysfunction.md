@@ -279,7 +279,7 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 H68.0 귀인두관염
 

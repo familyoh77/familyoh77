@@ -244,7 +244,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 R49.0 목쉼 (Hoarseness)
 

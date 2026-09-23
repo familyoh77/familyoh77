@@ -331,7 +331,7 @@ _<mark style="color:$info;">Ref. Garcia-Borreguero D et al. Diagnostic standards
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 G25.8 하지불안증후군
 

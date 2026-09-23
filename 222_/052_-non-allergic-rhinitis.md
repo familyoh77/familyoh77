@@ -225,7 +225,7 @@ _경구 항히스타민제 : 2세대 제제는 순수 비알레르기 비염에�
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 J30.0 혈관운동성 비염\
 J31.0 만성 비염

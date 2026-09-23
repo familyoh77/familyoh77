@@ -311,7 +311,7 @@ flowchart TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 G25.0 본태성 떨림
 

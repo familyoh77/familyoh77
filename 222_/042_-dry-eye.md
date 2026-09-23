@@ -350,7 +350,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 H04.1 눈물샘의 기타 장애
 

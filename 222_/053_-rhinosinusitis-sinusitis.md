@@ -447,7 +447,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 J01 급성 부비동염\
 J32 만성 부비동염

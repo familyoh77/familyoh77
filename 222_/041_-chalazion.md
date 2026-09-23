@@ -186,7 +186,7 @@ _✽국내 안과 전문의 대상 설문에서도 chalazion 치료 전략(보�
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 H00.1 콩다래끼
 

@@ -678,7 +678,7 @@ _✽ ARIA-E가 허혈성 뇌졸중과 유사하게 나타날 수 있으므로 �
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 F00* 알츠하이머병에서의 치매(G30†와 함께 코딩)
 

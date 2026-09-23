@@ -289,7 +289,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 K11.7 침분비의 장애 Disturbances of salivary secretion
 

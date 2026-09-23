@@ -421,7 +421,7 @@ class RF,REFER,FOLLOW blue
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 B00.2 헤르페스바이러스 치은구내염 및 인두편도염
 

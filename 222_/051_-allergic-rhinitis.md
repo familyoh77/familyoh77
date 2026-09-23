@@ -471,7 +471,7 @@ _\*비공 당 분무 횟수_\
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 J30.1 꽃가루에 의한 알레르기비염\
 J30.2 기타 계절성 알레르기비염\

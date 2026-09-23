@@ -413,7 +413,7 @@ _Ref. Vijiaratnam N, et al. Exenatide once a week versus placebo as a potential 
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 * **G20** 파킨슨병
 

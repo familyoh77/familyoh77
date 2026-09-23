@@ -270,7 +270,7 @@ _Candida auris_의 내성·의료기관 감염관리와 무증상 집락의 원�
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 B37.0 칸디다구내염
 

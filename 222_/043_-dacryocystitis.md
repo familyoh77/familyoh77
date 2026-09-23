@@ -123,7 +123,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 H04.30 상세불명의 급성 및 아급성 누낭염
 

@@ -201,7 +201,7 @@
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 H00.00 외맥립종
 

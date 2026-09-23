@@ -149,7 +149,7 @@ _※ 참고 : 2024년 ACEP는 단순 각막 미란(simple corneal abrasion)에 �
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 T15.0 각막의 이물
 
