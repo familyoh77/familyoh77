@@ -391,6 +391,33 @@ D. 이 행위는 망상장애를 비롯한 다른 정신 장애로 더 잘 설�
 ***
 
 ```mermaid
+graph TD
+    Start(["신체 증상 호소 환자"]) --> RedFlag["Red Flags 확인"]
+    RedFlag -->|있음| Referral["즉각 조치 /<br/>당일~수일 내 평가"]
+    RedFlag -->|없음| BasicEval["증상 중심 평가<br/>병력·약물·기존 기록·진찰<br/>필요한 검사만 선택"]
+    BasicEval --> Medical["확인되거나 의심되는<br/>의학적 질환 치료·평가"]
+    BasicEval --> Pattern["반응과 기능 손상<br/>동시 평가"]
+    Medical --> Pattern
+    Pattern -->|신체 증상 + B 기준| SSD["SSD 임상평가"]
+    Pattern -->|증상 경미 + 질병 집착| IAD["질병불안장애 평가"]
+    Pattern -->|운동·감각 증상| FNSD["FNSD 양성 징후 평가"]
+    Pattern -->|발작성·기립 관련| Other["공황·POTS 등 평가"]
+    SSD --> Scale["PHQ-15·SSD-12는 보조도구<br/>우울·불안·자살위험 평가"]
+    IAD --> Framing["진단 공유·치료적 제휴"]
+    FNSD --> Framing
+    Scale --> Framing
+    Framing --> Treatment["기능 회복·계획된 추적<br/>CBT 등 심리치료<br/>동반 질환의 적응증에 <br/>따른 약물"]
+    Treatment --> FU["초기 안전성·기능<br/>·새 변화 추적"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style RedFlag fill:#fff9c4,stroke:#ffe082
+    style Pattern fill:#fff9c4,stroke:#ffe082
+    style Referral fill:#ffebee,stroke:#c62828
+    style SSD fill:#e1f5fe,stroke:#01579b
+    style IAD fill:#fff3e0,stroke:#e65100
+    style FNSD fill:#f3e5f5,stroke:#4a148c
+    style Framing fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style Treatment fill:#e8f5e9,stroke:#2e7d32
+
 ```
 
 <p align="center"><strong>신체증상 및 관련 장애 1차 진료 알고리듬</strong></p>
