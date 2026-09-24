@@ -30,7 +30,7 @@
 
 {% hint style="danger" %}
 **⚠️ 항우울제 자살위험 경고(FDA Boxed Warning 및 국내외 안전성 경고)**\
-FDA는 항우울제 라벨에 소아·청소년 및 18~24세 젊은 성인에서 치료 초기·증량 시 자살사고·행동 위험이 증가할 수 있다는 Boxed Warning을 요구한다. NICE는 18~25세 또는 자살위험이 있는 환자에게 치료 시작·증량 1주 후 검토를 권고한다. 이들 환자에서는 이후에도 activation·자살사고를 면밀히 관찰한다.
+FDA는 항우울제 라벨에 소아·청소년 및 18~~24세 젊은 성인에서 치료 초기·증량 시 자살사고·행동 위험이 증가할 수 있다는 Boxed Warning을 요구한다. NICE는 18~~25세 또는 자살위험이 있는 환자에게 치료 시작·증량 1주 후 검토를 권고한다. 이들 환자에서는 이후에도 activation·자살사고를 면밀히 관찰한다.
 {% endhint %}
 
 ***
@@ -125,14 +125,14 @@ flowchart LR
 * 고령자, 이뇨제 복용자 및 저체중 환자에서는 SIADH·저나트륨혈증에 주의한다.
 * 보통 1일 1회 투여한다. 활성화가 두드러지면 아침, 진정이 두드러지면 저녁 투여를 고려하되 환자 반응에 맞춘다.
 
-<table><thead><tr><th>성분명 [대표 제품]</th><th>일반 성인 시작용량</th><th>통상 치료용량</th><th>일반 최대용량</th><th>주요 특징·주의</th></tr></thead><tbody>
-<tr><td>citalopram <mark style="color:blue;">\[시탈로프람]</mark></td><td>20 ㎎ 1일 1회<br>고령·간장애 등 10 ㎎</td><td>20\~40 ㎎/day</td><td>40 ㎎/day<br>위험군 20 ㎎/day</td><td>용량 의존 QT 연장. 고령(>60세), 간장애, CYP2C19 poor metabolizer 또는 강한 CYP2C19 억제제 병용 시 20 ㎎/day 이하</td></tr>
-<tr><td>escitalopram <mark style="color:blue;">\[렉사프로]</mark></td><td>10 ㎎ 1일 1회<br>민감한 환자 5 ㎎</td><td>10\~20 ㎎/day</td><td>20 ㎎/day</td><td>상호작용이 비교적 적음. QT 위험요인 확인</td></tr>
-<tr><td>fluoxetine <mark style="color:blue;">\[푸로작]</mark></td><td>20 ㎎ 1일 1회<br>불안장애에서는 더 낮게 시작 가능</td><td>20\~60 ㎎/day</td><td>80 ㎎/day</td><td>활성화·불면, 긴 반감기, 강한 CYP2D6 억제. 중단 증상은 상대적으로 적음</td></tr>
-<tr><td>fluvoxamine <mark style="color:blue;">\[듀미록스]</mark></td><td>50 ㎎/day</td><td>적응증·제형별 조절</td><td>300 ㎎/day</td><td>CYP1A2·2C19 상호작용이 많음. 국내 허가 적응증과 용법 확인</td></tr>
-<tr><td>paroxetine <mark style="color:blue;">\[세로자트]</mark></td><td>20 ㎎/day<br>공황장애·고령자는 더 낮게 시작</td><td>20\~40 ㎎/day</td><td>주요우울장애 최대 50 ㎎/day, 공황장애·강박장애 최대 60 ㎎/day; 그 밖의 적응증과 CR 제형은 국내 허가사항 확인</td><td>진정, 체중 증가, 성기능 장애, 항콜린성 부담과 중단 증상이 비교적 큼. 강한 CYP2D6 억제</td></tr>
-<tr><td>sertraline <mark style="color:blue;">\[졸로푸트]</mark></td><td>50 ㎎/day<br>공황·PTSD·사회불안은 25 ㎎/day 가능</td><td>50\~200 ㎎/day</td><td>200 ㎎/day</td><td>설사·위장관 부작용이 비교적 흔함. 간장애 시 감량</td></tr>
-</tbody></table>
+| 성분명 \[대표 제품]                                            | 일반 성인 시작용량                                   | 통상 치료용량         | 일반 최대용량                                                                | 주요 특징·주의                                                                                |
+| ------------------------------------------------------- | -------------------------------------------- | --------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| citalopram <mark style="color:blue;">\\\[시탈로프람]</mark>  | <p>20 ㎎ 1일 1회<br>고령·간장애 등 10 ㎎</p>           | 20\\\~40 ㎎/day  | <p>40 ㎎/day<br>위험군 20 ㎎/day</p>                                        | 용량 의존 QT 연장. 고령(>60세), 간장애, CYP2C19 poor metabolizer 또는 강한 CYP2C19 억제제 병용 시 20 ㎎/day 이하 |
+| escitalopram <mark style="color:blue;">\\\[렉사프로]</mark> | <p>10 ㎎ 1일 1회<br>민감한 환자 5 ㎎</p>              | 10\\\~20 ㎎/day  | 20 ㎎/day                                                               | 상호작용이 비교적 적음. QT 위험요인 확인                                                                |
+| fluoxetine <mark style="color:blue;">\\\[푸로작]</mark>    | <p>20 ㎎ 1일 1회<br>불안장애에서는 더 낮게 시작 가능</p>      | 20\\\~60 ㎎/day  | 80 ㎎/day                                                               | 활성화·불면, 긴 반감기, 강한 CYP2D6 억제. 중단 증상은 상대적으로 적음                                            |
+| fluvoxamine <mark style="color:blue;">\\\[듀미록스]</mark>  | 50 ㎎/day                                     | 적응증·제형별 조절      | 300 ㎎/day                                                              | CYP1A2·2C19 상호작용이 많음. 국내 허가 적응증과 용법 확인                                                  |
+| paroxetine <mark style="color:blue;">\\\[세로자트]</mark>   | <p>20 ㎎/day<br>공황장애·고령자는 더 낮게 시작</p>         | 20\\\~40 ㎎/day  | 주요우울장애 최대 50 ㎎/day, 공황장애·강박장애 최대 60 ㎎/day; 그 밖의 적응증과 CR 제형은 국내 허가사항 확인 | 진정, 체중 증가, 성기능 장애, 항콜린성 부담과 중단 증상이 비교적 큼. 강한 CYP2D6 억제                                  |
+| sertraline <mark style="color:blue;">\\\[졸로푸트]</mark>   | <p>50 ㎎/day<br>공황·PTSD·사회불안은 25 ㎎/day 가능</p> | 50\\\~200 ㎎/day | 200 ㎎/day                                                              | 설사·위장관 부작용이 비교적 흔함. 간장애 시 감량                                                            |
 
 > 용량은 성인 교육용 범위이다. 국내 제품별 허가 적응증·제형, 고령자 및 간·신장애 용량을 별도로 확인한다. 표의 대표 제품명은 예시이며, 실제 유통 여부·정확한 상품명은 최신 허가사항으로 재확인한다.
 
@@ -142,24 +142,26 @@ flowchart LR
 * Venlafaxine·desvenlafaxine은 갑작스러운 중단이나 복용 누락 때 중단 증상이 비교적 흔하다.
 * Duloxetine은 일부 신경병증성 통증과 섬유근육통 등에서 유용할 수 있으나 간질환·상당한 음주, 신기능 저하 및 국내 허가 적응증을 확인한다.
 
-<table><thead><tr><th>성분명 [대표 제품]</th><th>시작용량</th><th>통상용량</th><th>주요 특징·주의</th></tr></thead><tbody>
-<tr><td>desvenlafaxine <mark style="color:blue;">\[프리스틱]</mark></td><td>50 ㎎ 1일 1회</td><td>통상 50 ㎎/day; 일부 환자에서 100 ㎎/day 고려</td><td>50 ㎎ 초과 시 추가 효과는 제한적이고 부작용이 증가할 수 있음. 서방정을 통째로 복용</td></tr>
-<tr><td>duloxetine <mark style="color:blue;">\[심발타]</mark></td><td>30 ㎎/day 후 60 ㎎/day</td><td>60 ㎎/day; 적응증에 따라 최대 120 ㎎/day</td><td>혈압, 간기능·신기능, 요폐 주의. 60 ㎎ 초과의 추가 이득은 적응증별로 제한적. eGFR &lt;30 ㎖/min 또는 말기 신질환(ESRD)에서는 투여를 피함</td></tr>
-<tr><td>venlafaxine <mark style="color:blue;">\[이팩사]</mark></td><td>XR 37.5\~75 ㎎/day</td><td>대개 75\~225 ㎎/day</td><td>용량 의존 혈압 상승과 중단 증상. 국내 유통 제형(IR/XR) 및 적응증별 허가 최대용량 확인</td></tr>
-<tr><td>milnacipran <mark style="color:blue;">\[익셀]</mark></td><td colspan="2">국내 허가 적응증·용법에 따라 사용</td><td>우울증·불안장애 및 통증 적응증을 국가별 자료와 혼용하지 않음</td></tr>
-</tbody></table>
+<table><thead><tr><th>성분명 [대표 제품]</th><th>시작용량</th><th>통상용량</th><th>주요 특징·주의</th></tr></thead><tbody><tr><td>desvenlafaxine <mark style="color:blue;">\[프리스틱]</mark></td><td>50 ㎎ 1일 1회</td><td>통상 50 ㎎/day; 일부 환자에서 100 ㎎/day 고려</td><td>50 ㎎ 초과 시 추가 효과는 제한적이고 부작용이 증가할 수 있음. 서방정을 통째로 복용</td></tr><tr><td>duloxetine <mark style="color:blue;">\[심발타]</mark></td><td>30 ㎎/day 후 60 ㎎/day</td><td>60 ㎎/day; 적응증에 따라 최대 120 ㎎/day</td><td>혈압, 간기능·신기능, 요폐 주의. 60 ㎎ 초과의 추가 이득은 적응증별로 제한적. eGFR &#x3C;30 ㎖/min 또는 말기 신질환(ESRD)에서는 투여를 피함</td></tr><tr><td>venlafaxine <mark style="color:blue;">\[이팩사]</mark></td><td>XR 37.5\~75 ㎎/day</td><td>대개 75\~225 ㎎/day</td><td>용량 의존 혈압 상승과 중단 증상. 국내 유통 제형(IR/XR) 및 적응증별 허가 최대용량 확인</td></tr><tr><td>milnacipran <mark style="color:blue;">\[익셀]</mark></td><td colspan="2">국내 허가 적응증·용법에 따라 사용</td><td>우울증·불안장애 및 통증 적응증을 국가별 자료와 혼용하지 않음</td></tr></tbody></table>
 
 > Levomilnacipran은 국내 허가·유통 여부를 확인하기 전 처방용 표에서 제외한다. Milnacipran은 국내(익셀)에서 주요우울장애 위주로 허가되어 있는 반면, 미국 제품(Savella)은 섬유근육통 전용으로 우울증 적응증이 없어 정반대이므로 해외 자료를 그대로 인용하지 않는다. 정확한 국내 적응증·보험기준은 최신 허가사항으로 확인한다.
 
+{% hint style="danger" %}
+**세로토닌 증후군(Serotonin Syndrome) 주의**
+
+* MAOI, linezolid, 정맥 methylene blue와의 병용은 금기 또는 원칙적 회피 (파킨슨병 치료용 MAO-B 억제제는 약제별 허가사항 확인)
+* tramadol, meperidine, fentanyl, dextromethorphan, 성요한풀 등 다른 세로토닌성 약물을 병용하거나 증량한 뒤, 자발성·유발성·안구 clonus 또는 과반사·진전 등의 **신경근육 항진**과 초조·혼돈, 발한·고열 등의 **정신상태·자율신경 변화**가 함께 나타나면 세로토닌 증후군을 의심하여 세로토닌성 약물을 중단하고 응급 평가
+{% endhint %}
+
 ### <mark style="color:orange;">기타 항우울제</mark>
 
-<table><thead><tr><th>성분명 [대표 제품]</th><th>통상 시작용량</th><th>주요 특징</th><th>중요 주의사항</th></tr></thead><tbody>
-<tr><td>bupropion <mark style="color:blue;">\[웰부트린]</mark></td><td>제형별 국내 허가 용법에 따라 시작</td><td>NDRI. 성기능 장애와 체중 증가가 상대적으로 적고 금연치료에도 사용</td><td>불면·불안·혈압 상승·발작 위험. 발작장애, 현재 또는 과거 신경성 식욕부진증·폭식증, MAOI 병용 및 alcohol·benzodiazepine·항경련제 급중단 상황에서 금기 또는 회피. 국내 우울증 치료용 XL 제제와 금연치료용 SR 제제의 용법을 혼용하지 않으며, 제형별 1회 용량·투여 간격·1일 최대용량은 해당 제품 허가사항을 확인</td></tr>
-<tr><td>mirtazapine <mark style="color:blue;">\[레메론]</mark></td><td>15 ㎎ 취침 전</td><td>불면·식욕저하가 동반된 경우 고려. 성기능·위장관 부작용은 SSRI보다 적은 편</td><td>졸림, 식욕·체중 증가, 지질 이상. 진정은 저용량에서 더 뚜렷할 수 있음</td></tr>
-<tr><td>vortioxetine <mark style="color:blue;">\[브린텔릭스]</mark></td><td>10 ㎎ 1일 1회<br>민감한 환자 5 ㎎</td><td>주요우울장애 치료. 일부 인지 증상에 이점 가능</td><td>구역이 흔함. 강한 CYP2D6 억제제 또는 유도제 병용 시 조절 필요</td></tr>
-<tr><td>trazodone <mark style="color:blue;">\[트리티코]</mark></td><td>우울증 치료와 저용량 수면 목적을 구분</td><td>진정·수면 효과</td><td>기립저혈압, 낙상, 지속발기증, QT 연장·부정맥. 저용량 수면 사용이 항우울 치료용량을 의미하지 않음</td></tr>
-<tr><td>agomelatine <mark style="color:blue;">\[아고틴]</mark></td><td>국내 허가 용법 확인</td><td>수면-각성 리듬 관련 증상에 이점 가능</td><td>간기능검사를 치료 시작 전, 치료 3·6·12·24주 시점 및 임상적 필요 시(증량 시 포함) 시행. 간질환·유의한 transaminase 상승 및 강한 CYP1A2 억제제 병용 금기 여부 확인</td></tr>
-</tbody></table>
+| 성분명 \[대표 제품]                                             | 통상 시작용량                         | 주요 특징                                        | 중요 주의사항                                                                                                                                                                                        |
+| -------------------------------------------------------- | ------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| bupropion <mark style="color:blue;">\\\[웰부트린]</mark>     | 제형별 국내 허가 용법에 따라 시작             | NDRI. 성기능 장애와 체중 증가가 상대적으로 적고 금연치료에도 사용      | 불면·불안·혈압 상승·발작 위험. 발작장애, 현재 또는 과거 신경성 식욕부진증·폭식증, MAOI 병용 및 alcohol·benzodiazepine·항경련제 급중단 상황에서 금기 또는 회피. 국내 우울증 치료용 XL 제제와 금연치료용 SR 제제의 용법을 혼용하지 않으며, 제형별 1회 용량·투여 간격·1일 최대용량은 해당 제품 허가사항을 확인 |
+| mirtazapine <mark style="color:blue;">\\\[레메론]</mark>    | 15 ㎎ 취침 전                       | 불면·식욕저하가 동반된 경우 고려. 성기능·위장관 부작용은 SSRI보다 적은 편 | 졸림, 식욕·체중 증가, 지질 이상. 진정은 저용량에서 더 뚜렷할 수 있음                                                                                                                                                      |
+| vortioxetine <mark style="color:blue;">\\\[브린텔릭스]</mark> | <p>10 ㎎ 1일 1회<br>민감한 환자 5 ㎎</p> | 주요우울장애 치료. 일부 인지 증상에 이점 가능                   | 구역이 흔함. 강한 CYP2D6 억제제 또는 유도제 병용 시 조절 필요                                                                                                                                                        |
+| trazodone <mark style="color:blue;">\\\[트리티코]</mark>     | 우울증 치료와 저용량 수면 목적을 구분           | 진정·수면 효과                                     | 기립저혈압, 낙상, 지속발기증, QT 연장·부정맥. 저용량 수면 사용이 항우울 치료용량을 의미하지 않음                                                                                                                                      |
+| agomelatine <mark style="color:blue;">\\\[아고틴]</mark>    | 국내 허가 용법 확인                     | 수면-각성 리듬 관련 증상에 이점 가능                        | 간기능검사를 치료 시작 전, 치료 3·6·12·24주 시점 및 임상적 필요 시(증량 시 포함) 시행. 간질환·유의한 transaminase 상승 및 강한 CYP1A2 억제제 병용 금기 여부 확인                                                                                   |
 
 > Vilazodone, nefazodone 및 doxepin은 국내 허가 제품의 함량·적응증·유통 상태를 확인하기 전 국내 처방용 표에서 제외한다. 특히 저용량 불면증용 doxepin 제품과 고용량 항우울 용법을 혼용하지 않는다.
 
@@ -170,13 +172,13 @@ flowchart LR
 * 녹내장, 요폐·전립선비대, 변비·장폐색 위험, 인지장애, 심장 전도장애, 발작 위험 및 자살·과량복용 위험을 평가한다.
 * 저용량에서 시작해 서서히 증량한다. 적응증과 환자에 따라 혈압·맥박 및 혈중농도 모니터링을 고려한다. 심질환·실신·전도장애 병력, QT 연장 가족력, 고령, 전해질 이상 또는 여러 QT 연장약 병용 등 위험요인이 있으면 투여 전 ECG를 시행하고, 증량 후 또는 임상적으로 필요할 때 반복한다.
 
-<table><thead><tr><th>성분명 [대표 제품]</th><th>특징</th><th>주요 주의사항</th></tr></thead><tbody>
-<tr><td>amitriptyline <mark style="color:blue;">\[에트라빌]</mark></td><td>진정·항콜린 작용이 강함; 일부 통증 질환에 저용량 사용</td><td>낙상, 인지저하, 체중 증가, 심독성</td></tr>
-<tr><td>clomipramine <mark style="color:blue;">\[그로민]</mark></td><td>serotonergic 작용이 강하며 OCD 등에 사용</td><td>serotonin syndrome, 발작, QT·전도장애, 항콜린 부작용</td></tr>
-<tr><td>imipramine <mark style="color:blue;">\[이미프라민]</mark></td><td>항우울·항불안 효과</td><td>기립저혈압, 항콜린 부작용, 심독성</td></tr>
-<tr><td>nortriptyline <mark style="color:blue;">\[센시발]</mark></td><td>상대적으로 항콜린·진정 부담이 적을 수 있음</td><td>여전히 낙상·부정맥·과량복용 위험 존재</td></tr>
-<tr><td>amoxapine <mark style="color:blue;">\[아디센]</mark></td><td>dopamine 차단 관련 효과 가능</td><td>추체외로 증상, 지연성 운동장애, 발작</td></tr>
-</tbody></table>
+| 성분명 \[대표 제품]                                             | 특징                              | 주요 주의사항                                  |
+| -------------------------------------------------------- | ------------------------------- | ---------------------------------------- |
+| amitriptyline <mark style="color:blue;">\\\[에트라빌]</mark> | 진정·항콜린 작용이 강함; 일부 통증 질환에 저용량 사용 | 낙상, 인지저하, 체중 증가, 심독성                     |
+| clomipramine <mark style="color:blue;">\\\[그로민]</mark>   | serotonergic 작용이 강하며 OCD 등에 사용  | serotonin syndrome, 발작, QT·전도장애, 항콜린 부작용 |
+| imipramine <mark style="color:blue;">\\\[이미프라민]</mark>   | 항우울·항불안 효과                      | 기립저혈압, 항콜린 부작용, 심독성                      |
+| nortriptyline <mark style="color:blue;">\\\[센시발]</mark>  | 상대적으로 항콜린·진정 부담이 적을 수 있음        | 여전히 낙상·부정맥·과량복용 위험 존재                    |
+| amoxapine <mark style="color:blue;">\\\[아디센]</mark>      | dopamine 차단 관련 효과 가능            | 추체외로 증상, 지연성 운동장애, 발작                    |
 
 > 국내 미유통 또는 사용이 드문 desipramine, protriptyline, trimipramine, maprotiline 등은 국내 허가·공급을 확인한 경우에만 처방표에 포함한다. 표의 대표 제품명 역시 실제 유통 여부를 재확인한다.
 
@@ -195,16 +197,16 @@ flowchart LR
 * Alcohol, opioid, gabapentinoid 및 다른 진정제와 병용하면 심한 진정·호흡억제·사망 위험이 증가한다.
 * 고령자는 더 낮은 용량을 사용하며 긴 반감기·활성 대사체 약물을 피하는 것이 유리하다. 간기능 저하에서는 glucuronidation으로 대사되는 lorazepam·oxazepam 등이 상대적으로 예측 가능할 수 있다.
 
-<table><thead><tr><th>성분명 [대표 제품]</th><th>작용 특성</th><th>주요 비고</th></tr></thead><tbody>
-<tr><td>diazepam <mark style="color:blue;">\[디아제팜]</mark></td><td>장시간; 활성 대사체 있음</td><td>고령·간장애에서 축적과 낙상 위험. 일부 감량 과정에 사용할 수 있으나 일률적 전환은 하지 않음</td></tr>
-<tr><td>clorazepate</td><td>장시간; 활성 대사체</td><td>축적 주의</td></tr>
-<tr><td>alprazolam <mark style="color:blue;">\[자낙스]</mark></td><td>중간\~짧은 작용</td><td>반동성 불안·금단과 오남용 위험. 급중단 금지</td></tr>
-<tr><td>lorazepam <mark style="color:blue;">\[아티반]</mark></td><td>중간 작용; glucuronidation</td><td>활성 대사체는 없으나 진정·의존·낙상 위험은 동일</td></tr>
-<tr><td>oxazepam</td><td>중간\~짧은 작용; glucuronidation</td><td>작용 발현이 비교적 느림. 국내 유통 여부 확인</td></tr>
-<tr><td>clonazepam <mark style="color:blue;">\[리보트릴]</mark></td><td>중간\~장시간</td><td>국내 허가 적응증(뇌전증·공황장애 등)과 용법 확인</td></tr>
-<tr><td>triazolam <mark style="color:blue;">\[할시온]</mark></td><td>단시간 수면제</td><td>기억장애·반동성 불면·이상행동 주의; 불안장애 유지치료제로 사용하지 않음</td></tr>
-<tr><td>etizolam <mark style="color:blue;">\[데파스]</mark></td><td>단시간 계열</td><td>의존·금단 위험. 국내 허가 용량과 투여기간 확인</td></tr>
-</tbody></table>
+| 성분명 \[대표 제품]                                          | 작용 특성                        | 주요 비고                                                 |
+| ----------------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
+| diazepam <mark style="color:blue;">\\\[디아제팜]</mark>   | 장시간; 활성 대사체 있음               | 고령·간장애에서 축적과 낙상 위험. 일부 감량 과정에 사용할 수 있으나 일률적 전환은 하지 않음 |
+| clorazepate                                           | 장시간; 활성 대사체                  | 축적 주의                                                 |
+| alprazolam <mark style="color:blue;">\\\[자낙스]</mark>  | 중간\\\~짧은 작용                  | 반동성 불안·금단과 오남용 위험. 급중단 금지                             |
+| lorazepam <mark style="color:blue;">\\\[아티반]</mark>   | 중간 작용; glucuronidation       | 활성 대사체는 없으나 진정·의존·낙상 위험은 동일                           |
+| oxazepam                                              | 중간\\\~짧은 작용; glucuronidation | 작용 발현이 비교적 느림. 국내 유통 여부 확인                            |
+| clonazepam <mark style="color:blue;">\\\[리보트릴]</mark> | 중간\\\~장시간                    | 국내 허가 적응증(뇌전증·공황장애 등)과 용법 확인                          |
+| triazolam <mark style="color:blue;">\\\[할시온]</mark>   | 단시간 수면제                      | 기억장애·반동성 불면·이상행동 주의; 불안장애 유지치료제로 사용하지 않음              |
+| etizolam <mark style="color:blue;">\\\[데파스]</mark>    | 단시간 계열                       | 의존·금단 위험. 국내 허가 용량과 투여기간 확인                           |
 
 #### <mark style="color:$primary;">Benzodiazepine 감량</mark>
 
@@ -258,35 +260,35 @@ Serotonergic 약물 노출 후 다음 중 하나이면 serotonin toxicity를 강
 
 ## <mark style="color:green;">주요 부작용과 대처</mark>
 
-<table><thead><tr><th>문제</th><th>우선 평가·대처</th><th>추가 고려</th></tr></thead><tbody>
-<tr><td>구역·설사</td><td>초기 일시적 증상인지 확인, 식사와 함께 복용 가능 여부·감량·서서히 증량 고려</td><td>지속되면 약제 변경</td></tr>
-<tr><td>불면·activation</td><td>자살위험·akathisia·경조증 평가, 아침 투여·감량 또는 변경</td><td>현저한 충동성·조증 의심 시 당일 평가</td></tr>
-<tr><td>졸림</td><td>Alcohol·진정제 병용, 수면무호흡, 낙상·운전 위험 평가; 저녁 투여·감량·변경</td><td>자극제를 일률적으로 추가하지 않음</td></tr>
-<tr><td>성기능 장애</td><td>기저 성기능과 우울 증상 영향 평가; 관찰·감량·부작용이 적은 약제로 교체 고려</td><td>Bupropion 추가 또는 남성 발기부전에 PDE5 억제제 고려. Drug holiday는 제한적 초기 연구가 있으나 순응도 저하·중단 증상 때문에 통상적인 1차 대처로 권고하지 않음</td></tr>
-<tr><td>체중 증가·대사 이상</td><td>체중·식습관·활동 평가, 생활요법, 감량·약제 변경</td><td>항우울제 부작용만을 이유로 statin을 자동 추가하지 않음</td></tr>
-<tr><td>기립저혈압·낙상</td><td>혈압, 탈수, 병용약 평가; 천천히 일어나기, 감량·변경</td><td>Fludrocortisone·고염식 등을 일률적으로 처방하지 않음</td></tr>
-<tr><td>저나트륨혈증</td><td>혼돈·두통·구역·경련 평가, 혈청 Na 측정, 원인 약제 중단 여부 결정</td><td>증상성·중증이면 응급 평가</td></tr>
-<tr><td>출혈</td><td>NSAID·항혈소판제·항응고제 병용과 출혈 부위 평가</td><td>중증 출혈은 응급실 의뢰</td></tr>
-<tr><td>QT 연장·부정맥</td><td>용량·병용약·전해질·심질환 평가, ECG</td><td>실신·지속성 부정맥이면 응급 평가</td></tr>
-<tr><td>지속발기</td><td>원인 약물 중단 및 즉시 응급실 의뢰</td><td>4시간 이상 지속되기 전이라도 진행 중이면 지체하지 않음</td></tr>
-</tbody></table>
+| 문제            | 우선 평가·대처                                        | 추가 고려                                                                                                   |
+| ------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 구역·설사         | 초기 일시적 증상인지 확인, 식사와 함께 복용 가능 여부·감량·서서히 증량 고려    | 지속되면 약제 변경                                                                                              |
+| 불면·activation | 자살위험·akathisia·경조증 평가, 아침 투여·감량 또는 변경           | 현저한 충동성·조증 의심 시 당일 평가                                                                                   |
+| 졸림            | Alcohol·진정제 병용, 수면무호흡, 낙상·운전 위험 평가; 저녁 투여·감량·변경 | 자극제를 일률적으로 추가하지 않음                                                                                      |
+| 성기능 장애        | 기저 성기능과 우울 증상 영향 평가; 관찰·감량·부작용이 적은 약제로 교체 고려    | Bupropion 추가 또는 남성 발기부전에 PDE5 억제제 고려. Drug holiday는 제한적 초기 연구가 있으나 순응도 저하·중단 증상 때문에 통상적인 1차 대처로 권고하지 않음 |
+| 체중 증가·대사 이상   | 체중·식습관·활동 평가, 생활요법, 감량·약제 변경                    | 항우울제 부작용만을 이유로 statin을 자동 추가하지 않음                                                                       |
+| 기립저혈압·낙상      | 혈압, 탈수, 병용약 평가; 천천히 일어나기, 감량·변경                 | Fludrocortisone·고염식 등을 일률적으로 처방하지 않음                                                                    |
+| 저나트륨혈증        | 혼돈·두통·구역·경련 평가, 혈청 Na 측정, 원인 약제 중단 여부 결정        | 증상성·중증이면 응급 평가                                                                                          |
+| 출혈            | NSAID·항혈소판제·항응고제 병용과 출혈 부위 평가                   | 중증 출혈은 응급실 의뢰                                                                                           |
+| QT 연장·부정맥     | 용량·병용약·전해질·심질환 평가, ECG                          | 실신·지속성 부정맥이면 응급 평가                                                                                      |
+| 지속발기          | 원인 약물 중단 및 즉시 응급실 의뢰                            | 4시간 이상 지속되기 전이라도 진행 중이면 지체하지 않음                                                                         |
 
 ## <mark style="color:green;">중요한 약물 상호작용</mark>
 
-<table><thead><tr><th>약물·효소</th><th>대표 항우울제</th><th>임상적 의미</th></tr></thead><tbody>
-<tr><td>CYP2D6 강한 억제</td><td>fluoxetine, paroxetine, bupropion</td><td>Tamoxifen의 활성 대사체(endoxifen) 농도를 낮춰 효과를 감소시킬 가능성이 있다. 임상적 재발·사망 위험에 관한 연구 결과는 일관되지 않지만, 가능하면 강한 CYP2D6 억제제를 피하고 venlafaxine, escitalopram, desvenlafaxine 등 CYP2D6 억제가 적은 대체약을 환자별로 고려한다. 일부 beta-blocker·항정신병약·TCA 등과도 상호작용 확인</td></tr>
-<tr><td>CYP1A2·2C19 억제</td><td>fluvoxamine</td><td>Theophylline, clozapine, 일부 benzodiazepine 등과 상호작용 확인</td></tr>
-<tr><td>CYP2D6 억제</td><td>duloxetine</td><td>CYP2D6 기질 병용 시 농도 상승 가능</td></tr>
-<tr><td>출혈 위험</td><td>SSRI·SNRI + NSAID·aspirin·항응고제</td><td>출혈 증상과 위험요인 평가; 필요한 경우 위장관 보호 및 모니터링 고려</td></tr>
-<tr><td>QT 연장</td><td>citalopram, escitalopram, TCA, trazodone 등</td><td>다른 QT 연장약, 저K·저Mg, 서맥·심질환과 중첩 주의</td></tr>
-<tr><td>Serotonergic 병용</td><td>MAOI, linezolid, methylene blue, tramadol 등</td><td>금기·washout 기간과 serotonin syndrome 위험 확인</td></tr>
-</tbody></table>
+| 약물·효소           | 대표 항우울제                                     | 임상적 의미                                                                                                                                                                                                                          |
+| --------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CYP2D6 강한 억제    | fluoxetine, paroxetine, bupropion           | Tamoxifen의 활성 대사체(endoxifen) 농도를 낮춰 효과를 감소시킬 가능성이 있다. 임상적 재발·사망 위험에 관한 연구 결과는 일관되지 않지만, 가능하면 강한 CYP2D6 억제제를 피하고 venlafaxine, escitalopram, desvenlafaxine 등 CYP2D6 억제가 적은 대체약을 환자별로 고려한다. 일부 beta-blocker·항정신병약·TCA 등과도 상호작용 확인 |
+| CYP1A2·2C19 억제  | fluvoxamine                                 | Theophylline, clozapine, 일부 benzodiazepine 등과 상호작용 확인                                                                                                                                                                           |
+| CYP2D6 억제       | duloxetine                                  | CYP2D6 기질 병용 시 농도 상승 가능                                                                                                                                                                                                         |
+| 출혈 위험           | SSRI·SNRI + NSAID·aspirin·항응고제              | 출혈 증상과 위험요인 평가; 필요한 경우 위장관 보호 및 모니터링 고려                                                                                                                                                                                         |
+| QT 연장           | citalopram, escitalopram, TCA, trazodone 등  | 다른 QT 연장약, 저K·저Mg, 서맥·심질환과 중첩 주의                                                                                                                                                                                                |
+| Serotonergic 병용 | MAOI, linezolid, methylene blue, tramadol 등 | 금기·washout 기간과 serotonin syndrome 위험 확인                                                                                                                                                                                         |
 
 > MAOI를 시작하거나 중단할 때는 약물별 washout 기간을 반드시 확인한다. 대부분의 serotonergic 항우울제 중단 후 MAOI 시작 전 최소 14일이 필요하지만, fluoxetine은 최소 5주, vortioxetine은 최소 21일의 washout이 필요하다. MAOI 중단 후 다른 serotonergic 항우울제 시작 전에는 일반적으로 최소 14일을 둔다. 국내 제품 허가사항을 우선한다.
 
 ## <mark style="color:green;">치료 반응 평가와 유지치료</mark>
 
-* 일반적으로 시작 후 2주 이내 부작용·자살사고·복약 순응도를 확인한다. FDA 위험분석의 젊은 성인은 18~24세이며, NICE는 18~25세 또는 자살위험이 있는 환자에게 시작·증량 1주 후 검토를 권고한다. 이후 필요에 따라 자주 추적한다.
+* 일반적으로 시작 후 2주 이내 부작용·자살사고·복약 순응도를 확인한다. FDA 위험분석의 젊은 성인은 18~~24세이며, NICE는 18~~25세 또는 자살위험이 있는 환자에게 시작·증량 1주 후 검토를 권고한다. 이후 필요에 따라 자주 추적한다.
 * 환자는 대개 4주 이내 일부 효과를 느끼기 시작할 수 있다. 조기 변화가 없더라도 적정 용량·기간, 순응도 및 진단을 함께 평가한다.
 * 부분반응이면 내약성 범위에서 최적화하고 심리치료 병행을 고려한다. 무반응·불내성이면 같은 계열 또는 다른 계열로 교체하고, 반복 실패 시 전문의에게 의뢰한다.
 * 관해 후 최소 6개월 유지한다. 재발성·중증, 잔류 증상, 정신병적 증상, 자살위험, 만성 경과가 있으면 장기 유지치료를 고려한다.

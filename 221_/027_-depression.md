@@ -236,7 +236,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
   * 민감도를 중시하면 ≥2점에서 PHQ-9로 진행
   * 양성 시 PHQ-9 등 추가 평가
 
-#### [<mark style="color:$primary;">PHQ-9</mark>](http://www.phqscreeners.com)
+#### [<mark style="color:$primary;">PHQ-9</mark>](https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_Korean%20for%20Korea.pdf)
 
 * 민감도/특이도 : 성인에서 ≥10점 기준 88%/85% \[Levis, BMJ 2019]; 대상군과 진단 면담 방식에 따라 달라질 수 있음
   * cut-off를 ≥15점으로 높이면 민감도↓/특이도↑
@@ -251,7 +251,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
   8. 남들이 알아챌 정도로 거동이나 말이 느림, 또는 반대로 너무 초조하고 안절부절 못해서 평소보다 많이 돌아다니고 서성거림
   9. 나는 차라리 죽는 것이 낫겠다는 등의 생각 혹은 어떤 식으로든 스스로를 자해하는 생각들
 * 배점 : 9개 항목에 각각 전혀 아니다=0점, 여러날 동안=1점, 일주일 이상=2점, 거의 매일=3점 (총 0\~27점)
-* 출처 : 건강검진 실시기준 \[별지 제14호 서식] [정신건강검사 평가도구](https://www.gangnam.go.kr/office/smilegn/contents/smilegn_adult/1/view.do?mid=smilegn_depression)(PHQ-9)
+* 출처 : 건강검진 실시기준 \[별지 제14호 서식] [정신건강검사 평가도구](https://law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212249\&admRulNm=%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84%20%EC%8B%A4%EC%8B%9C%EA%B8%B0%EC%A4%80\&bylNo=0014\&bylBrNo=00\&bylCls=BF\&bylClsCd=BF\&joEfYd=\&bylEfYd=)(PHQ-9)
 
 **\[삶의 질 평가]** (참고 문항)
 
@@ -288,7 +288,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 * 21문항 자가보고형 우울 척도(Beck, 1961); 각 문항 4단계 중 해당하는 것을 선택
 * 판정 : ≥16점이면 정신건강의학과 상담 권고(국립나주병원 기준); 절단점은 출처에 따라 다를 수 있음
-* ☞  [국립나주병원 자가진단](https://www.najumh.go.kr/html/content.do?depth=cp\&menu_cd=05_01_02_03)
+* ☞ [국립나주병원 자가진단](https://www.najumh.go.kr/html/content.do?depth=cp\&menu_cd=05_01_02_03)
 * BDI-II(1996, 개정판)를 사용하려면 저작권이 있는 정식 한국판 검사지를 별도로 구입·사용해야 함
 
 #### <mark style="color:$primary;">노인 우울 척도 : GDS-SF-K (Geriatric Depression Scale-한국판 단축형)</mark>
@@ -307,7 +307,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 * 양극성 장애 환자에서 항우울제 단독 투여 시 조증 전환(manic switch) 위험이 있음
 * 항우울제 투여 전 과거 조증/경조증 삽화(기분이 지나치게 고양되거나, 수면이 현저히 줄었는데도 기운이 넘쳤던 경험) 유무를 확인하고, 의심 시 정신건강의학과 협진과 치료전략 재평가를 고려
 
-**MDQ (Mood Disorder Questionnaire)**&#x20;
+**MDQ (Mood Disorder Questionnaire)**
 
 * 평생 조증/경조증 증상 유무를 선별하는 13문항 자가보고형 척도(양극성 장애 감별용)
 * 판정 : ① 13문항 중 ≥7개 "예" AND ② 여러 증상이 같은 시기에 동반 AND ③ 문제의 정도가 "중등도" 또는 "심각" - 세 조건을 모두 충족해야 양성
