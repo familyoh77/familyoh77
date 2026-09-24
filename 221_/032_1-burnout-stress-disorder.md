@@ -1,22 +1,29 @@
-# 번아웃과 적응장애 Burnout, Adjustment Disorder
+# 번아웃 / 스트레스 관련 장애 Burnout Stress related Disorder
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* **번아웃(Burnout)** : 만성적인 직업적 스트레스가 성공적으로 관리되지 못하여 발생하는 증후군; ICD-11에서 직업적 현상(occupational phenomenon)으로 분류하며 의학적 질환으로 분류하지 않음
-  * ICD-11에서 QD85는 24장(건강 상태 또는 보건서비스 접촉에 영향을 주는 요인) 중 고용·실업 관련 문제 아래 위치함
-  * 번아웃은 정의상 직업적 맥락에 한정하며, 돌봄·양육·학업 등 다른 생활 영역의 소진에 ICD-11 번아웃 진단 개념을 그대로 적용하지 않음
-  * 번아웃은 정신질환 진단명이 아니라 직업적 상태를 기술하는 용어이며, 정신질환이 의심되면 해당 질환의 진단 요건을 별도로 평가
-* **적응장애(Adjustment Disorder)** : 식별 가능한 스트레스 요인에 대한 반응으로 발생하는 임상적으로 유의한 정서·행동 증상과 기능 저하; 번아웃과 달리 독립된 정신질환 진단임
-* 1차 진료에서 번아웃, 적응장애, 우울증은 증상이 중첩되어 감별이 어렵고 함께 나타날 수 있으므로 각각의 진단 요건을 확인
-* 번아웃 유병률은 측정도구·정의·직종·절단점에 따라 편차가 매우 커 일반 인구의 단일 수치를 제시하기 어려움
+**번아웃(Burnout)**&#x20;
 
-**번아웃의 3가지 핵심 차원** \[ICD-11]
+* 성공적으로 관리되지 못한 만성적 직장(직업) 스트레스에서 비롯되는 것으로 개념화된 증후군 \[ICD-11 QD85]
+* 분류상의 위치 : ICD-11에서는 의학적 질환이나 정신질환 진단명이 아니라, 건강에 영향을 주는 직업적 현상(occupational phenomenon)으로 분류
+* 적용 범위 : 정의상 직업적 맥락에 한정됨 - 돌봄·양육·학업 등 다른 생활 영역의 소진에는 ICD-11의 번아웃 개념을 그대로 적용하지 않음
+* 임상적 함의 : 번아웃은 환자의 상태를 기술하는 용어일 뿐 진단을 대신하지 못함
+  * 증상이 직업 외 영역으로 확산되거나 정신질환이 의심되면 주요우울장애·불안장애·적응장애 등 해당 질환의 진단 요건을 별도로 평가
+* 유병률 : 측정 도구·정의·직종·절단점에 따라 편차가 매우 커 일반 인구의 단일 수치를 제시
+* 번아웃의 3가지 핵심 차원 \[ICD-11]
+  * 소진(exhaustion) : 에너지 고갈 또는 탈진감
+  * 정신적 거리감·냉소(mental distance / cynicism) : 직무에 대한 부정적·냉소적 태도, 정서적 거리감
+  * 효능감 저하(reduced professional efficacy) : 성취감 감소, 업무 효과에 대한 부정적 평가
+  * _<mark style="color:$info;">✽ 위 3차원은 MBI-GS(일반형)의 소진·냉소·직업적 효능감 구성과 대응함</mark>_
 
-* 소진(exhaustion) : 에너지 고갈 또는 탈진감
-* 정신적 거리감·냉소(mental distance / cynicism) : 직무에 대한 부정적·냉소적 태도, 정서적 거리감
-* 효능감 저하(reduced professional efficacy) : 성취감 감소, 업무 효과에 대한 부정적 평가
+**적응장애(Adjustment Disorder)**&#x20;
 
-_<mark style="color:$info;">✽ MBI 판본에 따라 비인격화(depersonalization), 개인적 성취감(personal accomplishment) 등 관련 용어가 다르게 사용됨</mark>_
+* 식별 가능한 스트레스 요인에 대한 반응으로 발생하는 임상적으로 유의한 정서·행동 증상과 기능 저하
+* 번아웃과 달리 독립된 정신질환 진단임
+
+{% hint style="info" %}
+1차 진료에서 번아웃, 적응장애, 우울증은 증상이 중첩되어 감별이 어렵고 함께 나타날 수 있으므로 각각의 진단 요건을 확인
+{% endhint %}
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -26,16 +33,17 @@ _<mark style="color:$info;">✽ MBI 판본에 따라 비인격화(depersonalizat
 #### <mark style="color:$primary;">직업·환경적 요인 (번아웃의 주요 원인)</mark>
 
 * 아래 요인은 Maslach-Leiter의 6대 직무 영역(업무량, 통제, 보상, 공동체, 공정성, 가치)과 대응됨
-* 과도한 업무량, 시간 압박, 자율성 부족
-  * 직무요구-통제(-지지) 모델(Job Demand-Control-Support, Karasek) : 높은 직무 요구와 낮은 통제·사회적 지지가 결합될 때 직무 스트레스가 커짐
-* 동료·상사와의 갈등, 사회적 지지 부족, 직장 내 괴롭힘
-* 상시 연결(always-on)에 따른 회복 실패 : 이메일·메신저 과부하와 퇴근 후 심리적 단절 실패 (흔히 '디지털 번아웃'으로 불리나 공식 용어는 아님)
-* 가치 충돌(개인 가치관과 조직 문화의 불일치)
-  * 시스템적 제약으로 옳다고 아는 행동을 하지 못할 때의 고통은 도덕적 고뇌(moral distress), 자신의 도덕적 신념에 어긋나는 행위를 하거나 막지 못하거나 목격한 뒤 지속되는 죄책감·수치심·배신감은 도덕적 상해(moral injury)로 구분
-  * 의료직·교직·공직 종사자에서 함께 평가할 직업 스트레스 요인
-* 불충분한 보상(금전적·정서적), 조직 내 불공정
-  * 노력-보상 불균형 모델(Effort-Reward Imbalance, ERI) : 투입한 노력에 비해 보상(임금·인정·승진 기회)이 낮은 상황은 번아웃과 연관됨
-* 고위험 직업군 : 의료인, 교사·사회복지사, IT 개발자, 콜센터·고객 응대직, 돌봄 노동자
+
+1. 과도한 업무량, 시간 압박, 자율성 부족
+   * 직무요구-통제(-지지) 모델(Job Demand-Control-Support, Karasek) : 높은 직무 요구와 낮은 통제·사회적 지지가 결합될 때 직무 스트레스가 커짐
+2. 동료·상사와의 갈등, 사회적 지지 부족, 직장 내 괴롭힘
+3. 상시 연결(always-on)에 따른 회복 실패 : 이메일·메신저 과부하와 퇴근 후 심리적 단절 실패 (흔히 '디지털 번아웃'으로 불리나 공식 용어는 아님)
+4. 가치 충돌(개인 가치관과 조직 문화의 불일치)
+   * 시스템적 제약으로 옳다고 아는 행동을 하지 못할 때의 고통은 도덕적 고뇌(moral distress), 자신의 도덕적 신념에 어긋나는 행위를 하거나 막지 못하거나 목격한 뒤 지속되는 죄책감·수치심·배신감은 도덕적 상해(moral injury)로 구분
+   * 의료직·교직·공직 종사자에서 함께 평가할 직업 스트레스 요인
+5. 불충분한 보상(금전적·정서적), 조직 내 불공정
+   * 노력-보상 불균형 모델(Effort-Reward Imbalance, ERI) : 투입한 노력에 비해 보상(임금·인정·승진 기회)이 낮은 상황은 번아웃과 연관됨
+6. 고위험 직업군 : 의료인, 교사·사회복지사, IT 개발자, 콜센터·고객 응대직, 돌봄 노동자
 
 #### <mark style="color:$primary;">개인적 요인</mark>
 
@@ -59,85 +67,91 @@ _<mark style="color:$info;">✽ MBI 판본에 따라 비인격화(depersonalizat
 * 두통, 근육 긴장·통증, 위장 증상(복통, 소화불량)
 * 심계항진 등 자율신경 증상; 반복 감염 등 다른 증상은 번아웃으로 단정하지 말고 별도 원인을 평가
 * 만성 스트레스와 HPA(시상하부-뇌하수체-부신)축·자율신경계·면역계 변화의 연관성이 연구되고 있으나, 번아웃을 진단하거나 단계를 판정하는 데 임상적으로 활용할 수 있는 생체표지는 확립되지 않음
-* 퇴근 후에도 업무 관련 사고가 지속되는지, 업무로부터 심리적으로 단절(Psychological Detachment)할 수 있는지 확인
+* 퇴근 후에도 업무 관련 사고가 지속되는지, 업무로부터 심리적으로 단절(Psychological detachment)할 수 있는지 확인
 * 우울감·무쾌감·기능 저하가 직업 외 영역(가정·취미·대인관계)에서도 지속되면 이를 번아웃의 단순한 확산으로 설명하지 말고 주요우울장애 등 별도 질환을 평가
 
 #### <mark style="color:$primary;">행동 증상</mark>
 
 * 직무 회피, 잦은 지각·결근, 업무 효율 저하
-* 프레젠티즘(Presenteeism) : 출근은 하지만 집중력 저하·업무 기능이 현저히 떨어진 상태 - 결근 여부만으로 중증도를 판단하지 말 것; 병가 필요성 판단 시 중요한 임상 지표
+* 프레젠티즘(Presenteeism) : 질병이나 소진 상태에서도 결근하지 않고 출근하는 행동, 그리고 그로 인해 집중력·업무 기능이 현저히 떨어진 채 근무하는 상태
+  * 출근하고 있다는 사실만으로 중증도가 낮다고 판단하지 말 것 - 프레젠티즘의 정도가 결근 여부보다 기능 저하를 더 잘 반영하며, 병가·업무 조정의 필요성을 판단하는 데 중요한 단서가 됨
 * 사회적 위축, 대인 관계 어려움
 * 알코올·카페인 섭취 증가, 진정제·수면제 사용 증가, 흡연 증가
 
 #### <mark style="color:$primary;">번아웃 아형 (Burnout Subtypes)</mark>
 
-<table><thead><tr><th width="160">아형</th><th width="230">핵심 특징</th><th>임상 단서</th></tr></thead><tbody><tr><td><strong>과부하형</strong><br>(Frenetic)</td><td>과도한 업무·헌신; 한계를 무시하고 밀어붙임 (핵심 차원 : overload)</td><td>"더 하면 된다" "조금만 더 버티면"</td></tr><tr><td><strong>무자극형</strong><br>(Under-challenged)</td><td>단조롭고 성장 없는 업무; 지루함·냉소 주도 (핵심 차원 : lack of development)</td><td>"이 일이 의미 없다" "능력 낭비 같다"</td></tr><tr><td><strong>방치형</strong><br>(Worn-out)</td><td>무력감·포기; 노력 자체를 포기한 상태 (핵심 차원 : neglect)</td><td>"어차피 안 된다" "해봤자 달라지는 게 없다"</td></tr></tbody></table>
+<table><thead><tr><th width="172">아형</th><th>핵심 특징</th><th>임상 단서</th></tr></thead><tbody><tr><td><strong>과부하형</strong><br>(Frenetic)</td><td>과도한 업무·헌신; 한계를 무시하고 밀어붙임 (핵심 차원 : overload)</td><td>"더 하면 된다" "조금만 더 버티면"</td></tr><tr><td><strong>무자극형</strong><br>(Under-challenged)</td><td>단조롭고 성장 없는 업무; 지루함·냉소 주도 (핵심 차원 : lack of development)</td><td>"이 일이 의미 없다" "능력 낭비 같다"</td></tr><tr><td><strong>방치형</strong><br>(Worn-out)</td><td>무력감·포기; 노력 자체를 포기한 상태 (핵심 차원 : neglect)</td><td>"어차피 안 된다" "해봤자 달라지는 게 없다"</td></tr></tbody></table>
 
-_<mark style="color:$info;">✽ Montero-Marín(2009)이 제안한 탐색적 분류로, ICD-11 공식 분류가 아니며 아형별 개입의 효과는 검증되지 않음. 면담 시 환자의 소진 양상을 이해하는 참고 틀로만 활용</mark>_
+> _<mark style="color:$info;">Montero-Marín(2009)이 제안한 탐색적 분류로, ICD-11 공식 분류가 아니며 아형별 개입의 효과는 검증되지 않음. 면담 시 환자의 소진 양상을 이해하는 참고 틀로만 활용</mark>_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 현재 자살 의도, 구체적 계획, 실행 가능한 수단 접근성, 최근 자살 시도 또는 과량 복용 - 혼자 두지 말고 즉각 응급 평가 `고위험 자살 위험`
-* 특정 대상(동료·상사 등)에 대한 위해 의도 또는 계획 `타인 위해 위험`
-* 환청·망상·심한 와해 행동, 조증 또는 심한 초조로 자신이나 타인에게 위해 가능성 `급성 정신증` `조증`
-* 알코올·진정제 중단 후 진전·경련·의식 변화 `알코올·진정제 금단`
-* 심한 자기 방임, 탈수·영양 결핍으로 기본적인 안전 유지 불가 `기본 안전 유지 불가`
+* 현재 자살 의도, 구체적 계획, 실행 가능한 수단 접근성, 최근 자살 시도 또는 과량 복용 - 혼자 두지 말고 즉각 응급 평가
+* 특정 대상(동료·상사 등)에 대한 위해 의도 또는 계획
+* 환청·망상·심한 와해 행동, 조증 또는 심한 초조로 자신이나 타인에게 위해 가능성  `급성 정신증` `조증`&#x20;
+* 알코올·진정제 중단 후 진전·경련·의식 변화  `알코올·진정제 금단`
+* 심한 자기 방임, 탈수·영양 결핍으로 기본적인 안전 유지 불가
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 자살사고가 확인되었으나 임박 위험 여부가 불명확하거나 안전계획·지지체계 확보가 어려운 경우 `자살 위험 재평가 필요`
-* 자살사고가 있으나 현재 의도·계획·수단 접근성·최근 시도가 없고 안전 확보가 가능한 경우 - 안전계획, 치명적 수단 제한, 지지 인물·위기 연락처 연결 후 수일 이내 재접촉 `저위험 자살사고`
-* 주요우울장애·양극성 장애·물질사용장애가 의심되고 기능 저하가 심한 경우 (☞ [우울증](027_-depression.md)) `주요우울장애` `양극성 장애` `물질사용장애`
-* 직장·가정생활을 거의 수행할 수 없거나 알코올·수면제 사용이 빠르게 증가하는 경우 `중증 기능 저하` `물질사용장애`
-* 항우울제 시작·증량 후 초조·정좌불능·자살사고 악화 또는 경조증 증상 `SSRI 활성화 증후군` `양극성 전환`
+* 자살사고가 확인되었으나 임박 위험 여부가 불명확하거나 안전계획·지지체계 확보가 어려운 경우
+* 자살사고가 있으나 현재 의도·계획·수단 접근성·최근 시도가 없고 안전 확보가 가능한 경우 - 안전계획, 치명적 수단 제한, 지지 인물·위기 연락처 연결 후 수일 이내 재접촉
+* 주요우울장애·양극성 장애·물질사용장애가 의심되고 기능 저하가 심한 경우  `주요우울장애` `양극성 장애` `물질사용장애`&#x20;
+* 직장·가정생활을 거의 수행할 수 없거나 알코올·수면제 사용이 빠르게 증가하는 경우
+* 항우울제 시작·증량 후 초조·정좌불능·자살사고 악화 또는 경조증 증상  `SSRI 활성화 증후군` `양극성 전환`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 증상이 지속·악화되거나 수면·업무·가정생활에 유의한 지장을 주는 경우 `적응장애` `우울장애`
-* 반복적인 직업 관련 병가, 기능 회복 지연 또는 복직 후 재악화 `복직 실패`
-* 직장 내 괴롭힘 또는 반복적 부정적 사건 경험(현재 안전 위협이나 심한 재경험 증상이 없을 때) - 사건의 강도·특성이 ICD-11 PTSD/CPTSD의 극도로 위협적이거나 끔찍한 사건 요건을 충족하는지 별도 평가 `PTSD` `CPTSD`
-* 피로에 체중 감소·발열·야간 발한·기립성 증상 등 전신 증상 동반 `의학적 원인` `Long COVID` `ME/CFS`
-
-_<mark style="color:$info;">✽ PHQ-9 9번 항목 양성만으로 위험도를 판정하지 않는다. 즉시 추가 면담으로 현재 의도·계획·수단 접근성·최근 시도·보호요인과 지지체계를 확인하고 처분을 결정한다.</mark>_
+* 증상이 지속·악화되거나 수면·업무·가정생활에 유의한 지장을 주는 경우  `적응장애` `우울장애`
+* 반복적인 직업 관련 병가, 기능 회복 지연 또는 복직 후 재악화
+* 직장 내 괴롭힘 또는 반복적 부정적 사건 경험(현재 안전 위협이나 심한 재경험 증상이 없을 때)  `PTSD` `CPTSD`&#x20;
+* 피로에 체중 감소·발열·야간 발한·기립성 증상 등 전신 증상 동반  `Long COVID` `ME/CFS`
 
 ## <mark style="color:green;">진단</mark>
 
-**외래 30초 면담 시작 질문**
-
-1. 일이 너무 지쳐서 감당이 안 된다고 느끼십니까?
-2. 일에 대해 냉소적이거나 의미 없다고 느끼십니까?
-3. 예전에 비해 업무 능력이 떨어졌다고 느끼십니까?
-
- → ICD-11의 세 차원을 확인하기 위한 임상 질문이며, 양성 문항 수로 번아웃을 진단하거나 중증도를 판정하지 않음. 직업적 맥락·지속 기간·기능 저하와 동반 질환을 추가 평가
+* 외래 30초 면담 시작 질문
+  1. 일이 너무 지쳐서 감당이 안 된다고 느끼십니까?
+  2. 일에 대해 냉소적이거나 의미 없다고 느끼십니까?
+  3. 예전에 비해 업무 능력이 떨어졌다고 느끼십니까?
+  * ICD-11의 세 차원을 확인하기 위한 임상 질문이며, 양성 문항 수로 번아웃을 진단하거나 중증도를 판정하지 않음. 직업적 맥락·지속 기간·기능 저하와 동반 질환을 추가 평가
 
 ### <mark style="color:orange;">선별검사</mark>
 
-_<mark style="color:$info;">✽ WHO(2022)는 고용 중 선별 프로그램의 잠재적 이득이 위해보다 큰지 불분명하다고 보아 찬성·반대 어느 쪽 권고도 하지 않음. 아래 도구는 개별 진료에서 면담을 보조하는 용도로 사용</mark>_
-
-#### <mark style="color:$primary;">번아웃 단일 문항 선별(Single-item Burnout Measure)</mark>
-
-* 질문: "전반적으로, 본인이 생각하는 번아웃의 정의에 비추어 현재 번아웃 정도를 어떻게 평가하십니까?"
-* 원 도구는 단순한 동의 정도가 아니라, 업무를 즐기며 증상이 없는 상태(1점)부터 완전히 소진되어 변화나 도움이 필요한 상태(5점)까지 구체적인 증상 설명이 포함된 5단계 응답지를 사용함
-* 출처 : Rohland 2004; MBI 정서적 소진 척도와의 상관이 검증됨(Dolan, JGIM 2015). 의료인 대상 Mini-Z 설문에도 포함됨
-* 연구에서 흔히 ≥3점을 번아웃 증상 있음으로 구분하지만 타당도에 근거해 확립된 임상 진단 절단점은 아님
-* 주로 정서적 소진을 포착하므로 냉소·직업적 효능감 저하를 충분히 평가하지 못할 수 있음. 선별 양성은 추가 면담의 출발점으로만 사용
+{% hint style="info" %}
+WHO(2022)는 고용 중 선별 프로그램의 잠재적 이득이 위해보다 큰지 불분명하다고 보아 찬성·반대 어느 쪽 권고도 하지 않음. 아래 도구는 개별 진료에서 면담을 보조하는 용도로 사용
+{% endhint %}
 
 #### <mark style="color:$primary;">Maslach Burnout Inventory (MBI)</mark>
 
 * 널리 사용되는 유료 평가도구이며 판본에 따라 문항과 소척도가 다름
   * MBI-HSS(22항목) : 정서적 소진(EE), 비인격화(DP), 개인적 성취감(PA)
   * MBI-GS : 소진(exhaustion), 냉소(cynicism), 직업적 효능감(professional efficacy)
-* 각 차원을 연속변수로 평가하는 연구 및 조직 수준 조사·모니터링 도구이며 **개인의 번아웃을 확진하는 진단도구가 아님**
+* 각 차원을 연속변수로 평가하는 연구 및 조직 수준 조사·모니터링 도구이며 개인의 번아웃을 확진하는 진단도구가 아님
 * 과거 사용하던 규준 기반 절단점은 진단적 타당성이 없어 MBI 4판에서 삭제됨. 보편적인 임상 진단 절단점은 없음
+* 용어 주의
+  * 비인격화(depersonalization)는 정신과의 이인증(해리 증상)이 아니라 서비스 대상자를 사무적·냉소적으로 대하는 태도를 의미함
+  * 개인적 성취감(PA)은 정서적 소진(EE)·비인격화(DP)와 채점 방향이 반대로, 점수가 낮을수록 번아웃을 시사함
+
+#### <mark style="color:$primary;">번아웃 단일 문항 선별(Single-item Burnout Measure)</mark>
+
+* 질문 : "전반적으로, 본인이 생각하는 번아웃의 정의에 비추어 현재 번아웃 정도를 어떻게 평가하십니까?"
+* 원 도구는 단순한 동의 정도가 아니라, "업무를 즐기며 증상이 없는 상태"(1점) \~ "완전히 소진되어 변화나 도움이 필요한 상태"(5점)까지 구체적인 증상 설명이 포함된 5단계 응답지를 사용함
+* 연구에서 흔히 ≥3점을 번아웃 증상 있음으로 구분하지만 타당도에 근거해 확립된 임상 진단 절단점은 아님
+* 주로 정서적 소진을 포착하므로 냉소·직업적 효능감 저하를 충분히 평가하지 못할 수 있음. 선별 양성은 추가 면담의 출발점으로만 사용
+* MBI 정서적 소진 척도와의 상관이 검증됨(Dolan, JGIM 2015)
+* 의료인 대상 Mini-Z 설문에도 포함됨
+* 출처 : Rohland 2004
 
 #### <mark style="color:$primary;">한국어판 대안 척도</mark>
 
-* 한국어판 코펜하겐 소진척도(K-CBI) : 개인적·직무 관련·클라이언트 관련 소진의 세 영역을 평가; 원 도구는 무료 공개 도구임. 개인적 소진 영역은 ICD-11의 직업적 번아웃과 동일한 개념이 아님
-* 한국판 올덴버그 소진척도(K-OLBI) : 탈진(exhaustion)과 일로부터의 이탈(disengagement)을 평가
-* 한국판 직무소진평가척도(K-BAT) : BAT(Burnout Assessment Tool, Schaufeli 2020)의 한국어판으로 소진·정신적 거리감·정서 조절 손상·인지 손상의 4개 핵심 차원을 평가. 원 개발국(벨기에·네덜란드) 규준 기반 위험 절단점이 제시되어 있으나 국내 임상 표본에서 검증되지 않음
-* 모두 자기보고식 상태 평가도구이며 국내에서 개인의 번아웃을 진단하거나 약물치료·병가 여부를 결정하는 보편적 절단점은 없음. 국내 타당화 표본과 사용 조건을 확인하여 연구·상태 모니터링에 제한적으로 활용
+* 한국어판 코펜하겐 소진척도(K-CBI) : 개인적·직무 관련·클라이언트 관련 소진의 세 영역 18문항을 평가(Kristensen 2005; 강종수, 사회복지정책과실천 2022) (다음 [pdf](https://relife.or.kr/pdf/2022_report02.pdf)의 표1 참조)
+* 한국판 올덴버그 소진척도(K-OLBI) : 탈진(exhaustion)과 일로부터의 이탈(disengagement) 2요인 16문항(Demerouti & Nachreiner 1998; 강종수, 인문사회21 2023). 긍정문·부정문이 각 8문항으로 역채점이 필요하며, MBI와 달리 모든 직종에 적용하도록 설계됨
+* 한국판 직무소진평가척도(K-BAT) : BAT(Burnout Assessment Tool, Schaufeli 2020)의 한국어판으로 소진·정신적 거리감·정서 조절 손상·인지 손상의 4개 핵심 차원을 평가
+  * 원 개발국(벨기에·네덜란드) 규준 기반 위험 절단점이 제시되어 있으나 국내 임상 표본에서 검증되지 않음
+* 모두 자기보고식 상태 평가도구이며 국내에서 개인의 번아웃을 진단하거나 약물치료·병가 여부를 결정하는 보편적 절단점은 없음
+* 국내 타당화 표본과 사용 조건을 확인하여 연구·상태 모니터링에 제한적으로 활용
 
 #### <mark style="color:$primary;">적응장애 선별</mark>
 
@@ -212,7 +226,7 @@ _<mark style="color:$info;">✽ 번아웃과 우울증은 함께 나타날 수 �
 * "조직의 방침이나 시스템 때문에 자신의 가치관에 어긋나는 행동을 해야 한다고 느끼십니까?"
 * "환자(또는 학생·민원인)를 위해 최선을 다하지 못하는 상황이 반복됩니까?"
 
- → 이러한 질문은 환자가 경험한 가치 충돌을 구체화하고 라포 형성에 도움이 될 수 있음. 도덕적 상해·도덕적 고뇌와 번아웃은 연관될 수 있으나 동일한 개념은 아니며, 조직·업무 환경 요인을 함께 평가
+→ 이러한 질문은 환자가 경험한 가치 충돌을 구체화하고 라포 형성에 도움이 될 수 있음. 도덕적 상해·도덕적 고뇌와 번아웃은 연관될 수 있으나 동일한 개념은 아니며, 조직·업무 환경 요인을 함께 평가
 
 ### <mark style="color:orange;">의학적·정신과적 감별</mark>
 
@@ -360,7 +374,7 @@ _<mark style="color:$info;">✽ F43.8(심한 스트레스에 대한 기타 반�
 
 _<mark style="color:$info;">✽ 다음 처방례는 번아웃 치료가 아니라 별도로 진단된 동반 질환 또는 단기간의 심한 표적 증상을 치료하기 위한 예시임</mark>_
 
-> **처방례 1.** 별도로 진단된 주요우울장애 또는 불안장애(공황장애[광장공포증 동반 여부 무관]·사회불안장애·범불안장애) 동반 - SSRI
+> **처방례 1.** 별도로 진단된 주요우울장애 또는 불안장애(공황장애\[광장공포증 동반 여부 무관]·사회불안장애·범불안장애) 동반 - SSRI
 >
 > ```
 > 렉사프로 5 ㎎/T  1T  qd  조식 후
@@ -502,18 +516,18 @@ _<mark style="color:$info;">✽ 다음 처방례는 번아웃 치료가 아니�
 ## 참고문헌
 
 1. World Health Organization. Burn-out an occupational phenomenon. International Classification of Diseases 11th Revision (ICD-11), QD85.
-2. World Health Organization. *Guidelines on Mental Health at Work*. Geneva: World Health Organization; 2022.
+2. World Health Organization. _Guidelines on Mental Health at Work_. Geneva: World Health Organization; 2022.
 3. World Health Organization. ICD-11 for Mortality and Morbidity Statistics: Adjustment disorder (6B43).
-4. American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders*. 5th ed, text revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022.
-5. Maslach C, Jackson SE, Leiter MP, et al. *Maslach Burnout Inventory Manual*. 4th ed. Menlo Park, CA: Mind Garden.
-6. Rohland BM, Kruse GR, Rohrer JE. Validation of a single-item measure of burnout against the Maslach Burnout Inventory among physicians. *Stress Health*. 2004;20:75-79.
-7. Dolan ED, Mohr D, Lempa M, et al. Using a single item to measure burnout in primary care staff: a psychometric evaluation. *J Gen Intern Med*. 2015;30:582-587.
-8. West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. *Lancet*. 2016;388:2272-2281.
-9. Panagioti M, Panagopoulou E, Bower P, et al. Controlled interventions to reduce burnout in physicians: a systematic review and meta-analysis. *JAMA Intern Med*. 2017;177:195-205.
-10. Sateia MJ, Buysse DJ, Krystal AD, Neubauer DN, Heald JL. Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults. *J Clin Sleep Med*. 2017;13:307-349.
-11. Department of Veterans Affairs, Department of Defense. *VA/DoD Clinical Practice Guideline for the Management of Chronic Insomnia Disorder and Obstructive Sleep Apnea*. 2025.
-12. American Geriatrics Society Beers Criteria Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. *J Am Geriatr Soc*. 2023;71:2052-2081.
-13. National Academies of Sciences, Engineering, and Medicine. *A Long COVID Definition: A Chronic, Systemic Disease State with Profound Consequences*. Washington, DC: The National Academies Press; 2024.
+4. American Psychiatric Association. _Diagnostic and Statistical Manual of Mental Disorders_. 5th ed, text revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022.
+5. Maslach C, Jackson SE, Leiter MP, et al. _Maslach Burnout Inventory Manual_. 4th ed. Menlo Park, CA: Mind Garden.
+6. Rohland BM, Kruse GR, Rohrer JE. Validation of a single-item measure of burnout against the Maslach Burnout Inventory among physicians. _Stress Health_. 2004;20:75-79.
+7. Dolan ED, Mohr D, Lempa M, et al. Using a single item to measure burnout in primary care staff: a psychometric evaluation. _J Gen Intern Med_. 2015;30:582-587.
+8. West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. _Lancet_. 2016;388:2272-2281.
+9. Panagioti M, Panagopoulou E, Bower P, et al. Controlled interventions to reduce burnout in physicians: a systematic review and meta-analysis. _JAMA Intern Med_. 2017;177:195-205.
+10. Sateia MJ, Buysse DJ, Krystal AD, Neubauer DN, Heald JL. Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults. _J Clin Sleep Med_. 2017;13:307-349.
+11. Department of Veterans Affairs, Department of Defense. _VA/DoD Clinical Practice Guideline for the Management of Chronic Insomnia Disorder and Obstructive Sleep Apnea_. 2025.
+12. American Geriatrics Society Beers Criteria Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. _J Am Geriatr Soc_. 2023;71:2052-2081.
+13. National Academies of Sciences, Engineering, and Medicine. _A Long COVID Definition: A Chronic, Systemic Disease State with Profound Consequences_. Washington, DC: The National Academies Press; 2024.
 14. 통계청. 제9차 한국표준질병·사인분류 개정 고시(통계청고시 제2025-299호). 2025.
 15. 식품의약품안전처. 의약품안전나라 의약품 허가정보: 렉사프로정, 아티반정, 인데놀정, 트리티코정. 접속일: 2026년 9월 22일.
 16. 보건복지부. 정신건강 심리상담 바우처사업 안내. 2026.
