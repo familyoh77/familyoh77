@@ -33,7 +33,7 @@
   * [주산기/산후 우울증 Perinatal/Postpartum Depression](221_/028_-postpartum-depression.md)
   * [불면증 Insomnia](221_/029_-insomnia-sleep-disorder.md)
   * [자율신경기능장애 Autonomic Dysfunction](221_/030_-autonomic-dysfunction.md)
-  * [신체증상장애 Somatic Symptom Disorder](221_/031_-somatic-symptom-disorder.md)
+  * [신체증상 및 관련 장애 Somatic Symptom and Related Disorders](221_/031_-somatic-symptom-disorder.md)
   * [번아웃 / 스트레스 관련 장애 Burnout Stress related Disorder](221_/032_1-burnout-stress-disorder.md)
   * [경도인지장애 Mild Cognitive Impairment, MCI](221_/032_-mild-cognitive-impairment.md)
   * [치매 Dementia](221_/033_-dementia.md)
