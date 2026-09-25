@@ -138,7 +138,7 @@
 
 - [ ] 내장통의 초기 위치(localization)와 연관통은 구분해야 함. 내장성 통증은 초기에는 미만성·정중선에 가깝게 느껴질 수 있고, 염증이 벽측 복막으로 진행하면 국소 압통·반발통 등 체성통 소견이 나타남
 
-<figure><img src="../.gitbook/assets/c4e4421b-c17b-4ca7-be1d-fe1557d4be16.JPG" alt="복부 장기의 연관통 부위"><figcaption><p>복부 장기의 연관통(referred pain) 부위 - Ref. OpenStax College. Autonomic Reflexes and Homeostasis.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/복통1-연관통.jpg" alt=""><figcaption><p><strong>복부 장기의 연관통(referred pain) 부위 - Ref. OpenStax College. Autonomic Reflexes and Homeostasis.</strong></p></figcaption></figure>
 
 #### <mark style="color:$primary;">Abdominal wall pain (복벽통)</mark>
 
