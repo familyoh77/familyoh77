@@ -58,7 +58,7 @@
 
 ✽[Wrist anatomy](https://emedicine.medscape.com/article/1899456-overview), [Hand muscle(3D)](https://www.innerbody.com/image_skel13/ligm27.html)
 
-<figure><img src="../.gitbook/assets/손목-수근골 (1).png" alt="" width="466"><figcaption><p><strong>손목 뼈</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/손목-수근골 (2).png" alt=""><figcaption><p><strong>손목 뼈</strong></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/손목2.png" alt=""><figcaption><p>Dorsum of the Rt hand (Ref. Hand and Wrist Injuries. AFP 2004;69(8). Fig 2)</p></figcaption></figure>
 
