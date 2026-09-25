@@ -512,7 +512,7 @@ class B,B1,B2,F,H,L,N yellow
 * opioid-naive 여부, 투여경로, 신·간기능에 따라 실제 필요 용량이 크게 달라질 수 있음
 * 이 환산계수는 아편유사제 사용장애(OUD) 관리와 관련된 용량 결정에는 적용 불가
 
-<table data-full-width="true" data-search="false"><thead><tr><th width="154.631591796875">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">환산계수¹⁾</th></tr></thead><tbody><tr><td rowspan="3"><strong>정맥 주사</strong><br><strong>(단회, 상호 등가)</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td>펜타닐 (Fentanyl)</td><td>100²⁾</td></tr><tr><td rowspan="4"><strong>정맥 주사</strong> <br><strong>→ 경구 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
+<table data-full-width="true" data-search="false"><thead><tr><th width="154.631591796875">아편유사제</th><th width="275.78948974609375"></th><th width="108.9473876953125">환산계수¹⁾</th></tr></thead><tbody><tr><td rowspan="3"><strong>정맥 주사</strong><br><strong>(단회, 상호 등가)</strong></td><td>모르핀 (Morphine)</td><td>1.0</td></tr><tr><td>하이드로몰폰 (Hydromorphone)</td><td>6.6</td></tr><tr><td>펜타닐 (Fentanyl)</td><td>100²⁾</td></tr><tr><td rowspan="4"><strong>정맥 주사</strong><br><strong>→ 경구 전환</strong></td><td>모르핀 (Morphine)</td><td>3.0</td></tr><tr><td>하이드로몰폰 (Hydromorphone)</td><td>2.5–5.0</td></tr><tr><td>옥시몰폰 (Oxymorphone)</td><td>10</td></tr><tr><td>트라마돌 (Tramadol)</td><td>3.0</td></tr></tbody></table>
 
 _¹⁾단회 투여 등가진통 용량 = 아편유사제의 용량(㎎) × 환산계수. 예) 단일 정맥 투여 : 모르핀 10 ㎎ ≒ 하이드로몰폰 1.5 ㎎(1.5 ㎎ × 6.6 = 10) ≒ 펜타닐 0.1 ㎎(0.1 ㎎ × 100 = 10). 모르핀 10 ㎎ 정맥 주사를 경구로 전환하면 경구 모르핀 30 ㎎ (☞_ [_계산기_](https://www.mdcalc.com/calc/10170/morphine-milligram-equivalents-mme-calculator)_)_\
 _&#xB2;⁾단일 정맥 투여의 경우, 모르핀 10 ㎎은 펜타닐 0.1 ㎎ (100 mcg)과 유사하지만 만성적으로 펜타닐을 투여하는 경우 모르핀 10 ㎎은 펜타닐 0.25 ㎎ (250 mcg)과 유사_
@@ -752,13 +752,13 @@ _<mark style="color:$info;">Ref. Tawfik AG et al. Nonsteroidal Anti-Inflammatory
 
 _\*NNT = Number Needed to Treat; 통증이 ≥50% 감소한 환자 1명을 얻기 위하여 투여 해야 하는 환자수 (낮을수록 효과적); NNT는 질환·용량·치료 기간·평가 지표에 따라 달라지므로, 서로 다른 조건에서 산출된 값을 단순 순위로 비교하지 않도록 주의_
 
-#### <mark style="color:$primary;">Cox isoform selectivity</mark>
+#### <mark style="color:$primary;">주요 NSAID의 COX 동형효소 선택성</mark>
 
-(log scale)
+* 사람 전혈을 이용한 시험관 내 검사에서 측정한 IC₅₀(COX-1)/IC₅₀(COX-2) 비율을 로그 눈금으로 표시
+* 비율이 1보다 작으면 COX-1, 1보다 크면 COX-2 억제에 상대적으로 선택적
+* 실제 투여 후 달성되는 선택성은 용량에 따라 달라지므로, 이 비율만으로 임상적 효과나 위장관·심혈관 안전성을 직접 예측할 수 없음
 
-<div align="left"><figure><img src="../.gitbook/assets/통증3-2.JPG" alt=""><figcaption></figcaption></figure></div>
-
-_<mark style="color:$info;">Ref. Goodman & Gilman's. The pharmacological basis of therapeutics. 12th Ed. Fig 34.1</mark>_
+<figure><img src="../.gitbook/assets/통증1-cox 선택성 (1).png" alt=""><figcaption><p><em>Ref. García Rodríguez LA, Tacconelli S, Patrignani P. J Am Coll Cardiol. 2008;52(20):1628–1636.</em> <br><em>도표의 수치는 Patrignani P, et al. Ther Clin Risk Manag. 2008;4(5):983–997, Table 1에 정리된 값을 사용</em></p></figcaption></figure>
 
 ***
 
