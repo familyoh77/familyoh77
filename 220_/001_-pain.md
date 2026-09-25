@@ -95,7 +95,7 @@ ICD-11은 만성 통증을 다음의 두 범주로 구분하며, 이 구분은 "
 * 수치 평가 척도(Numeric Rating Scale, NRS) : 0("통증 없음")\~10("상상할 수 없는 극심한 통증") 숫자 중 현재 통증 강도를 선택; 구두로 즉시 측정 가능하여 임상에서 가장 널리 사용됨
 * 시각적 아날로그 통증 스케일(Visual Analogue Scale, VAS) : 100 ㎜ 눈금자에 통증이 없으면 0 ㎜ 지점에, 극심한 통증이 있으면 100 ㎜에 표시
 
-<figure><img src="../.gitbook/assets/통증1-vas scale (1).png" alt=""><figcaption><p><strong>시각적 아날로그 통증 스케일(Visual Analogue Scale, VAS)</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/통증2 (1).png" alt=""><figcaption><p><strong>시각적 아날로그 통증 스케일(Visual Analogue Scale, VAS)</strong></p></figcaption></figure>
 
 ### <mark style="color:orange;">통증 유형(기전) 분류</mark>
 
@@ -758,7 +758,7 @@ _\*NNT = Number Needed to Treat; 통증이 ≥50% 감소한 환자 1명을 얻�
 * 비율이 1보다 작으면 COX-1, 1보다 크면 COX-2 억제에 상대적으로 선택적
 * 실제 투여 후 달성되는 선택성은 용량에 따라 달라지므로, 이 비율만으로 임상적 효과나 위장관·심혈관 안전성을 직접 예측할 수 없음
 
-<figure><img src="../.gitbook/assets/통증2-cox 선택성.png" alt=""><figcaption><p><em>Ref. García Rodríguez LA, Tacconelli S, Patrignani P. J Am Coll Cardiol. 2008;52(20):1628–1636.</em><br><em>도표의 수치는 Patrignani P, et al. Ther Clin Risk Manag. 2008;4(5):983–997, Table 1에 정리된 값을 사용</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/통증2-cox 선택성 (1).png" alt=""><figcaption><p><em>Ref. García Rodríguez LA, Tacconelli S, Patrignani P. J Am Coll Cardiol. 2008;52(20):1628–1636.</em><br><em>도표의 수치는 Patrignani P, et al. Ther Clin Risk Manag. 2008;4(5):983–997, Table 1에 정리된 값을 사용</em></p></figcaption></figure>
 
 ***
 
