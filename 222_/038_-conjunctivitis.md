@@ -117,7 +117,7 @@
 
 ## <mark style="color:green;">세균 결막염 (Bacterial Conjunctivitis)</mark>
 
-* 원인균 : 성인은 _S. aureus_가 흔하고, 소아에서는 _H. influenzae_, _S. pneumoniae_, _M. catarrhalis_ 등이 흔함
+* 원인균 : 성인은 \_S. aureus\_가 흔하고, 소아에서는 _H. influenzae_, _S. pneumoniae_, _M. catarrhalis_ 등이 흔함
   * 렌즈 착용과 관련하여 발생한 경우에는 세균 감염의 가능성이 많음
 * 경과 : 한쪽에서 시작 → 1\~2일 내 반대쪽 전이 → 보통 1\~2주 내 자연 회복
 * 전염 기간을 일률적으로 7일로 정하지 않으며, 화농성 분비물이 지속되는 동안 전파 가능. 적절한 항생제 치료 후 전염 위험은 감소하지만 복귀 여부는 임상 상태와 기관 규정에 따라 판단
@@ -164,9 +164,9 @@
 * 증상 : 편측 또는 양측 충혈, 경미한 가려움, 점액성 분비물, 결막 비후
 * 치료 : 렌즈 즉시 제거. 최근 사용한 일회용 렌즈와 케이스는 폐기하고 재사용 렌즈는 제조사 지침에 따라 세척·소독
   * 알레르기 또는 감염 의심 양상 시 이에 대하여 치료
-  * 항생제 투여 시 흔한 원인균인 _P. aeruginosa_에 대하여 quinolone 제제 선택
+  * 항생제 투여 시 흔한 원인균인 \_P. aeruginosa\_에 대하여 quinolone 제제 선택
 
- ※ 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 _Pseudomonas_에 의한 세균각막염·각막궤양으로 신속히 진행할 수 있으므로 통증·시력저하·광과민, 각막 혼탁·침윤이 있으면 단순 결막염으로 간주하지 말고 즉시 안과 평가
+ ※ 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 \_Pseudomonas\_에 의한 세균각막염·각막궤양으로 신속히 진행할 수 있으므로 통증·시력저하·광과민, 각막 혼탁·침윤이 있으면 단순 결막염으로 간주하지 말고 즉시 안과 평가
 
 #### <mark style="color:$primary;">기계적 결막염</mark>
 
@@ -305,8 +305,6 @@ _<mark style="color:$info;">Ref. ARIA-EAACI Guidelines—2024–2025 Revision: P
 * subcutaneous immunotherapy : 알레르기 결막염의 증상 완화에 효과
 
 ***
-
-![](../.gitbook/assets/4c0e4661-3388-4659-bac1-105b339635d1.JPG)
 
 ***
 

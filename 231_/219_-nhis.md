@@ -1,6 +1,6 @@
 # 요양급여 인정 기준
 
-#### ![image](../.gitbook/assets/b7057477-0e3c-4e42-af64-578822d95e57.JPG)
+####
 
 ```
 심평원-[보험인정기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000400&WT.gnb=%EB%B3%B4%ED%97%98%EC%9D%B8%EC%A0%95%EA%B8%B0%EC%A4%80)
@@ -732,9 +732,7 @@ lymphoid tissue 림프종, ③ 조기 위암 절제술 후, ④ 특발성 혈소
     ✽바이러스돌파현상(Viral Breakthrough): 항바이러스 치료 중 HBV-DNA가 100배 이상 감소하는 바이러스
 
     반응에 도달했다가 이후 혈청 HBV-DNA가 최저치에서 10배 이상 증가한 경우
-2.  투여 방법
-
-    ![image](../.gitbook/assets/8cc4accd-24f6-4a65-aff4-4c3b02baab4f.JPG)
+2. 투여 방법
 
 다. 투여 연령 및 금기 사항
 

@@ -69,7 +69,7 @@
 
 ### <mark style="color:orange;">Diagnostic criteria \[ROME Ⅳ]</mark>
 
-　✽[온라인 계산기](https://www.mdcalc.com/calc/10002/rome-iv-diagnostic-criteria-functional-dyspepsia) &#x20;
+　✽[온라인 계산기](https://www.mdcalc.com/calc/10002/rome-iv-diagnostic-criteria-functional-dyspepsia)
 
 #### <mark style="color:$primary;">Functional dyspepsia</mark>
 
@@ -158,7 +158,7 @@ graph TD
 \- 다른 gut-brain interaction 이상에 의한 하부 GI 증상 여부\
 \- 다른 기능성 비위장관 질환의 존재 여부\
 \- H. pylori 과거 검사·제균력, PPI·항생제 복용력\
-\- 약물(NSAID, opioid, GLP-1 수용체 작용제 등)&#x20;
+\- 약물(NSAID, opioid, GLP-1 수용체 작용제 등)
 
 ²⁾ 기초 검사\
 \- H. pylori 검사(요소 호기 또는 대변 항원; 검사 전 PPI 중단 기간 고려)\
@@ -196,10 +196,6 @@ PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 
 {% endhint %}
 
 <table><thead><tr><th width="200">임상 상황</th><th width="220">고려할 수 있는 초기 접근</th><th>비고</th></tr></thead><tbody><tr><td>상복부 통증·작열감 우세</td><td>PPI 또는 H2RA</td><td>최저 유효 용량 사용; 반응이 없으면 다른 계열 고려</td></tr><tr><td>식후 충만감·조기 포만감 우세</td><td>국내 사용 가능한 prokinetic</td><td>약제별 근거와 부작용이 다름</td></tr><tr><td>EPS + PDS 중복</td><td>한 계열 우선 시도 후 전환 또는 선택적 병용</td><td>처음부터 routine 병용하지 않음</td></tr><tr><td>초기 치료 불응·통증 과민 우세</td><td>저용량 TCA ± gut–brain behavioral therapy</td><td>TCA는 FD에 허가 외 사용; 부작용 설명</td></tr><tr><td>조기 포만감+체중감소</td><td>영양·ARFID 평가; 전문의 판단하 mirtazapine 고려</td><td>근거 제한, 허가 외 사용</td></tr><tr><td>FD-GERD overlap</td><td>객관적 GERD는 해당 지침에 따라 치료</td><td>GERD 치료와 FD 치료를 구분</td></tr></tbody></table>
-
-
-
-![](../.gitbook/assets/b44a553a-d867-4154-a3b5-d3d4f5fd2c3f.JPG)
 
 #### <mark style="color:$primary;">FD-GERD Overlap</mark>
 

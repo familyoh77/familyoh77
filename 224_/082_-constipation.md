@@ -49,8 +49,6 @@
 * 불완전한 배출감, 항문 폐쇄감
 * 하복부 불편감/팽만감
 
-<figure><img src="../.gitbook/assets/087-1.png" alt="Bristol Stool Form Scale" width="375"><figcaption></figcaption></figure>
-
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
