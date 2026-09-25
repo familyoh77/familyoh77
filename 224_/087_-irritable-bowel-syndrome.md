@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 반복되는 복통 또는 복부 불편감과 배변 빈도·대변 형태의 변화가 연관되어 나타나는 대표적인 장-뇌 상호작용장애(disorder of gut-brain interaction, DGBI)
-* 흔히 다른 기능적/정신적 질환 동반&#x20;
+* 흔히 다른 기능적/정신적 질환 동반
   * 동반 증상: 소화불량, 가슴쓰림, 흉통, 피로, 근육통, 섬유근육통, 두통/편두통, 수면장애, 우울, 불안, 신체형장애, 요통, 비뇨기계 증상(빈뇨, 절박뇨, 성교통)
 * 유병률은 적용한 진단기준과 조사 방법에 따라 크게 달라짐; Rome IV 기준의 전 세계 유병률은 약 4%였으나 Rome V의 완화된 증상 빈도 기준을 적용하면 증가할 것으로 예상됨. 대개 50세 이전에 시작하며 여성에서 더 흔함
 * 병태생리 : 단일 인자가 아닌 복합 기전 - 내장 과민성, 대장 운동 이상, 장-뇌 축(gut-brain axis) 교란, 장내 미생물 불균형(gut dysbiosis), 점막 저등급 염증(mast cell 활성화), 중추 감작
@@ -12,9 +12,7 @@
 
 * Bristol 변 형태 척도(BSFS) 기반으로 분류; 최소 2주 관찰 후 결정; 우세 아형은 시간 경과에 따라 바뀔 수 있음
 
-<table><thead><tr><th width="118">아형</th><th width="231">정의 (비정상 배변 비율)</th><th>임상 특징</th></tr></thead><tbody><tr><td><strong>IBS-D</strong><br>(설사 우세형)</td><td>무른 변(BSFS 6~7) ＞¼ AND 굳은 변(BSFS 1~2) ＜¼</td><td>적은 양의 무른 변, 잔변감, 잦은 배변 시도; 야간 배변은 드묾; 남성에서 상대적으로 많음</td></tr><tr><td><strong>IBS-C</strong><br>(변비 우세형)</td><td>굳은 변(BSFS 1~2) ＞¼ AND 무른 변(BSFS 6~7) ＜¼</td><td>과도한 힘주기, 배변 후 잔변감; 여성에서 상대적으로 많음</td></tr><tr><td><strong>IBS-M</strong><br>(혼합형)</td><td>굳은 변 ＞¼ AND <br>무른 변 ＞¼ 모두 해당</td><td>설사와 변비가 교대; 예측 불가 양상</td></tr><tr><td><strong>IBS-U</strong><br>(미분류)</td><td>IBS 진단 기준을 충족하나 <br>특정 아형으로 분류 불가</td><td>비정상 변 형태의 비율이 IBS-C·IBS-D·IBS-M 기준에 미달</td></tr></tbody></table>
-
-<figure><img src="../.gitbook/assets/087-1.png" alt="" width="375"><figcaption><p><strong>Bristol stool form scale (BSFS)</strong></p></figcaption></figure>
+<table><thead><tr><th width="118">아형</th><th width="231">정의 (비정상 배변 비율)</th><th>임상 특징</th></tr></thead><tbody><tr><td><strong>IBS-D</strong><br>(설사 우세형)</td><td>무른 변(BSFS 6~7) ＞¼ AND 굳은 변(BSFS 1~2) ＜¼</td><td>적은 양의 무른 변, 잔변감, 잦은 배변 시도; 야간 배변은 드묾; 남성에서 상대적으로 많음</td></tr><tr><td><strong>IBS-C</strong><br>(변비 우세형)</td><td>굳은 변(BSFS 1~2) ＞¼ AND 무른 변(BSFS 6~7) ＜¼</td><td>과도한 힘주기, 배변 후 잔변감; 여성에서 상대적으로 많음</td></tr><tr><td><strong>IBS-M</strong><br>(혼합형)</td><td>굳은 변 ＞¼ AND<br>무른 변 ＞¼ 모두 해당</td><td>설사와 변비가 교대; 예측 불가 양상</td></tr><tr><td><strong>IBS-U</strong><br>(미분류)</td><td>IBS 진단 기준을 충족하나<br>특정 아형으로 분류 불가</td><td>비정상 변 형태의 비율이 IBS-C·IBS-D·IBS-M 기준에 미달</td></tr></tbody></table>
 
 ### <mark style="color:orange;">동반 질환 및 Overlap Syndrome</mark>
 
@@ -117,7 +115,6 @@
 <table><thead><tr><th width="152">Calprotectin 수치</th><th>해석 및 처치</th></tr></thead><tbody><tr><td>&#x3C;50 ㎍/g</td><td>IBD 가능성 낮음; 임상 상황에 따라 추가검사 없이 관찰 가능</td></tr><tr><td>50~150 ㎍/g</td><td>경계 범위; 감염, NSAID·PPI 사용 등 교란 요인을 확인하고 2~4주 후 재검 또는 임상 상황에 따라 대장내시경 고려</td></tr><tr><td>＞150 ㎍/g</td><td>장 염증 가능성 증가; 수치의 정도·지속 여부와 증상을 함께 평가하여 소화기내과 의뢰 및 대장내시경 고려</td></tr></tbody></table>
 
 * 검사실·검사법과 진료 경로에 따라 절단값이 다를 수 있으므로 해당 기관의 참고범위를 우선 적용
-
 * 대장내시경 : 연령별 국가 대장암 선별 권고에 따라 시행 고려 (한국 국가암검진: 만 50세부터 분변잠혈검사, 이상 시 대장내시경), 경고 징후 있거나 IBD 의심 시 시행.
   * 변비 우세형이 아닌 IBS 환자에서 대장암은 관찰되지 않고 ＜2%에서 IBD가 발견된다는 보고
 * GI 기능 평가 (선택적 시행)
@@ -158,7 +155,7 @@
 
 ### <mark style="color:orange;">중증도별 치료 접근</mark>
 
-<table><thead><tr><th width="113">중증도</th><th>특징</th><th>치료 접근</th></tr></thead><tbody><tr><td>경증 <br>(Mild)</td><td>간헐적 증상; 일상생활 유지</td><td>식이·안심·음식 일기 / 필요 시 prn 진경제·loperamide</td></tr><tr><td>중등증 <br>(Moderate)</td><td>삶의 질 영향; 규칙적 증상; 직장·사회활동 지장</td><td>아형별 약물 치료 (지속 투여); 수용성 섬유·low-FODMAP</td></tr><tr><td>중증/난치성 <br>(Severe)</td><td>일상 기능 저하; 기존 치료 무반응; 정신사회적 동반</td><td>중추성 신경조절제(TCA/SSRI); CBT·최면·디지털 CBT; Overlap 재평가; 전문의 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="113">중증도</th><th>특징</th><th>치료 접근</th></tr></thead><tbody><tr><td>경증<br>(Mild)</td><td>간헐적 증상; 일상생활 유지</td><td>식이·안심·음식 일기 / 필요 시 prn 진경제·loperamide</td></tr><tr><td>중등증<br>(Moderate)</td><td>삶의 질 영향; 규칙적 증상; 직장·사회활동 지장</td><td>아형별 약물 치료 (지속 투여); 수용성 섬유·low-FODMAP</td></tr><tr><td>중증/난치성<br>(Severe)</td><td>일상 기능 저하; 기존 치료 무반응; 정신사회적 동반</td><td>중추성 신경조절제(TCA/SSRI); CBT·최면·디지털 CBT; Overlap 재평가; 전문의 의뢰</td></tr></tbody></table>
 
 ### <mark style="color:orange;">증상 군집별 처방 (Symptom-cluster Prescribing)</mark>
 
@@ -411,8 +408,8 @@ AGA 2022는 IBS에서 SSRI에 대해 조건부 권고 반대를 표명 (저근�
 * 작용 : ClC-2 채널 활성화 → 장액 분비 촉진
 * 대상 : 난치성 IBS-C - AGA 2022 조건부 권고 (중등도 근거)
 * 부작용 : 오심 (식사와 함께 복용 시 경감)
-* lubiprostone : 8 ㎍ bid (식사와 함께)&#x20;
-  * Lubiprostone <mark style="color:blue;">\[아미티자]</mark>은 국내에서 '성인 만성 특발성 변비'에만 허가되어 있으며, IBS-C 적응증은 없음&#x20;
+* lubiprostone : 8 ㎍ bid (식사와 함께)
+  * Lubiprostone <mark style="color:blue;">\[아미티자]</mark>은 국내에서 '성인 만성 특발성 변비'에만 허가되어 있으며, IBS-C 적응증은 없음
 
 #### <mark style="color:$primary;">NHE3 Inhibitor (Tenapanor)</mark>
 
