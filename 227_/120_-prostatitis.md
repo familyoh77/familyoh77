@@ -6,7 +6,7 @@
 * 만성 : 다른 비뇨생식기 질환(예: 요도염, 방광염) 없이 최근 6개월 중 ≥3개월 지속 또는 재발하는 골반통
 * 유병률 : 남성의 2.2\~16%(중앙값 7.1%)에서 전립선염 유사 증상을 경험; 미국 성인 남성의 1.8%(약 200만 명)가 CP/CPPS(Chronic prostatitis/Chronic pelvic pain syndrome) 증상을 가짐 (RICE study)
 * 호발 연령 : 급성 세균성 전립선염 30\~50세, 만성 세균성 전립선염 ＞50세; CP/CPPS는 ＜50세 남성에서 가장 흔한 비뇨기 질환
-  * [ ] 만성 세균성 전립선염은 재발성 요로감염·BPH·전립선 결석 등 감염 위험 인자가 누적되는 고령층에서 주로 발생하는 반면, CP/CPPS는 감염이 아닌 기능적/신경병증적 기전이 중심이라 50세 미만에서 가장 흔한 비뇨기 질환으로 보고됨
+  * 만성 세균성 전립선염은 재발성 요로감염·BPH·전립선 결석 등 감염 위험 인자가 누적되는 고령층에서 주로 발생하는 반면, CP/CPPS는 감염이 아닌 기능적/신경병증적 기전이 중심이라 50세 미만에서 가장 흔한 비뇨기 질환으로 보고됨
 * 치료 경과
   * 일반적으로 적절한 항생제 치료 후 수일 내 발열·배뇨 증상이 호전되기 시작함; 48\~72시간 이내 임상적 호전이 없거나 악화되면 합병증 평가(혈역학적 불안정·패혈증 징후가 있으면 시간 기준과 무관하게 즉시 평가)
   * 만성 세균성 전립선염은 치료가 어려운 편이며 재발·재감염이 흔함
@@ -14,14 +14,14 @@
 
 ### <mark style="color:orange;">분류 \[NIH]</mark>
 
-<table><thead><tr><th width="141">Class</th><th width="184">특징</th><th width="111" align="center">WBC(고배율)</th><th width="72" align="center">VB1¹⁾</th><th width="72" align="center">VB2²⁾</th><th width="72" align="center">EPS</th><th width="72" align="center">VB3³⁾</th></tr></thead><tbody><tr><td><strong>Ⅰ. 급성 세균성 전립선염</strong></td><td>전립선의 급성 감염</td><td align="center">＞10</td><td align="center">+</td><td align="center">+</td><td align="center"><mark style="background-color:$warning;">금기</mark></td><td align="center">+</td></tr><tr><td><strong>Ⅱ. 만성 세균성 전립선염</strong></td><td>전립선의 만성/재발 감염</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">+</td><td align="center">+</td></tr><tr><td><strong>Ⅲ. 만성 골반통증증후군</strong></td><td>감염 증거가 없는, 최근 6개월 중 3개월 이상 지속되는 골반통⁴⁾</td><td align="center">아형에 따라 상이</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr><tr><td><strong>Ⅳ. 무증상 염증성 전립선염</strong></td><td>무증상. 다른 진단적 검사에서 우연히 발견됨</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table>
+<table><thead><tr><th width="141">Class</th><th width="184">특징</th><th width="111" align="center">WBC(고배율)</th><th width="72" align="center">VB1¹⁾</th><th width="72" align="center">VB2²⁾</th><th width="72" align="center">EPS</th><th width="72" align="center">VB3³⁾</th></tr></thead><tbody><tr><td><strong>Ⅰ. 급성 세균성 전립선염</strong></td><td>전립선의 급성 감염</td><td align="center">＞10</td><td align="center">+</td><td align="center">+</td><td align="center"><mark style="background-color:$warning;">시행하지 않음</mark></td><td align="center"><mark style="background-color:$warning;">시행하지 않음</mark></td></tr><tr><td><strong>Ⅱ. 만성 세균성 전립선염</strong></td><td>전립선의 만성/재발 감염</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">+</td><td align="center">+</td></tr><tr><td><strong>Ⅲ. 만성 골반통증증후군</strong></td><td>감염 증거가 없는, 최근 6개월 중 3개월 이상 지속되는 골반통⁴⁾</td><td align="center">아형에 따라 상이</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr><tr><td><strong>Ⅳ. 무증상 염증성 전립선염</strong></td><td>무증상. 다른 진단적 검사에서 우연히 발견됨</td><td align="center">＞10</td><td align="center">-</td><td align="center">-</td><td align="center">-</td><td align="center">-</td></tr></tbody></table>
 
 _¹⁾ First 10 ㎖ of voided urine(urethral specimen). ²⁾ Midstream urine specimen(bladder specimen)._\
 _&#xB3;⁾ First 10 ㎖ of voided urine after EPS(prostatic specimen). ⁴⁾ ⅢA(염증형)/ⅢB(비염증형)로 세분._
 
 _VB=voided bladder, EPS=expressed prostatic secretion_
 
-_✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 등 전립선 유래 검체에서 요도·방광 검체보다 유의하게 증가한 동일 세균이 검출되는 localization이며, WBC 수치나 세균 수 자체는 병의 중증도와 상관관계가 없음_
+_✽위 +/- 및 WBC 표기는 전형적인 검체 양상을 단순화한 것이며 각 NIH 유형의 필수 진단 기준이 아님. 급성기에는 전립선 마사지가 금기이므로 EPS·VB3를 채취하지 않음. 만성 세균성 전립선염 감별의 핵심은 EPS·VB3 등 전립선 유래 검체에서 요도·방광 검체보다 유의하게 증가한 동일 세균의 검출(localization)이며, WBC 수치나 세균 수 자체는 중증도와 상관관계가 없음_
 
 {% hint style="info" %}
 **Ⅰ·Ⅱ(세균성)와 Ⅲ(CP/CPPS)의 구분이 진료의 핵심** : Ⅲ(CP/CPPS)은 배양 검사에서 세균이 확인되지 않는 배제 진단(diagnosis of exclusion)임. **Ⅲ(CP/CPPS)의 두 아형(ⅢA/ⅢB)** 사이에 임상적으로 유의미한 차이가 입증되지 않아, 실제 진료에서는 세균성 여부만 감별하면 충분한 경우가 많음 \[AUA 2025]
@@ -61,7 +61,7 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 * 요로 폐쇄 증상 : 소변 줄기가 끊어지거나 가늘어짐, 배뇨 시 힘주기, 불완전한 비움(잔뇨감)
 * 하복부 증상 : 하복부/회음부/고환/음경부 통증, 방광 팽만감
 * 비뇨기 외 증상 : 발열, 오한, malaise, 요통, 구역, 구토, 빈맥, 저혈압
-* 전립선 수지 검사 : 전립선의 부종, 온감, 단단함, 심한 압통
+* 전립선 수지 검사 : 부어 있고 심한 압통이 있는 전립선(불필요한 반복·강한 압박 회피)
   * 전립선 마사지 금기(농양 파열·패혈증 위험)
 * 치료하지 않는 경우 패혈증 또는 전립선 농양으로 진행 가능
 
@@ -78,7 +78,7 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 * 회음부/치골 상부/골반의 만성 통증이 가장 흔함
 * 음경통, 사정통, 배뇨통, 성기능 장애(발기부전)도 흔함
 * 방광 자극 증상, 요로 폐쇄 증상이 동반될 수 있음
-  * [ ] 방광 충만 시 악화되고 배뇨 후 완화되는 통증 양상은 남성 간질성 방광염/방광통증증후군(IC/BPS)에서도 나타날 수 있어 감별이 필요; 이런 양상이 두드러지거나 야간뇨·심한 절박뇨가 동반되면 IC/BPS 가능성을 고려하고 필요시 방광경 검사
+  * 방광 충만 시 악화되고 배뇨 후 완화되는 통증 양상은 남성 간질성 방광염/방광통증증후군(IC/BPS)에서도 나타날 수 있어 감별이 필요; 이런 양상이 두드러지거나 야간뇨·심한 절박뇨가 동반되면 IC/BPS 가능성을 고려하고 필요시 방광경 검사
 * 고환·서혜부·허리 통증이 동반될 수 있음
 * 전체 환자의 약 70%가 골반 이외 부위에도 통증을 호소하며, 이런 경우는 수면장애·우울·불안·삶의 질 저하가 더 심함
 * 골반저 근육 긴장 및 압통이 대조군보다 유의하게 흔함(MAPP 연구에서 CP/CPPS·IC/BPS 환자의 47%)
@@ -97,11 +97,11 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 
 * 저혈압, 빈맥, 고열 등 패혈증 징후 또는 급성 의식 변화
 * 경구 섭취 곤란·탈수
-* 급성 요폐(요로 완전 폐쇄) 발생 시
+* 급성 요폐 또는 잔뇨량이 현저히 증가한 경우 : 즉시 비뇨의학과 평가 및 방광 배액 방법 결정
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 급성 세균성 전립선염으로 적절한 항생제 투여 48\~72시간 이내 임상적 호전이 없거나 악화
+* 급성 세균성 전립선염에서 적절한 항생제를 투여해도 48\~72시간 내 호전이 없으면 당일 재평가(악화·패혈증 징후가 있으면 시간 경과를 기다리지 않고 즉시 평가)
 * 심한 국소 압통·부종과 함께 전신 증상 동반
 * 전립선 수지 검사에서 딱딱한 결절이나 비대칭적 경결 촉지
 
@@ -128,9 +128,9 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 #### <mark style="color:$primary;">급성 세균성 전립선염</mark>
 
 * 소변 검사 : U/A(농뇨, 세균뇨, 혈뇨) 및 중간뇨 배양·감수성 검사; 소변 그람염색은 필요시 추가
-* 혈액 검사 : CBC(WBC↑ Lt shift), 배양 검사(전신 증상 시)
-  * [ ] PSA는 급성 염증기에 상승할 수 있어 급성 세균성 전립선염 진단 목적으로 시행하지 않음; 암 평가가 필요하면 염증 해소 후 약 4\~8주 뒤 재평가(단일 근거 기반 확정 시점은 아니며 임상적으로 흔히 쓰이는 범위)
-* 경직장 초음파(TRUS)(필요시 CT/MRI) : 항생제 투여 48\~72시간에 임상 호전이 없는 경우 농양 감별을 위해 고려
+* 혈액 검사 : CBC; 입원·발열·패혈증 의심 시 항생제 투여 전 혈액배양을 시행. EAU는 급성 세균성 전립선염에서 CBC·혈액배양을 권고함
+  * PSA는 급성 염증기에 상승할 수 있어 급성 세균성 전립선염 진단 목적으로 시행하지 않음; 암 평가가 필요하면 염증 해소 후 약 4\~8주 뒤 재평가(단일 근거 기반 확정 시점은 아니며 임상적으로 흔히 쓰이는 범위)
+* 경직장 초음파(TRUS)(필요시 골반 CT/MRI) : 항생제 투여 후 발열이 지속되거나 48\~72시간 내 임상 호전이 없는 경우 전립선농양·폐쇄 등 합병증 평가를 위해 고려; 혈역학적으로 악화되면 기다리지 않고 영상·원인 평가
 
 {% hint style="warning" %}
 급성 세균성 전립선염이 의심될 때 전립선 마사지는 금기
@@ -152,7 +152,7 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
   * 2-glass(간소화) : VB2(중간뇨) → 전립선 마사지 → VB3(마사지 후 배뇨)
   * 만성 세균성 전립선염 : VB1·VB2 대비 EPS·VB3에서 유의하게 증가한 동일 세균이 검출(localization); CP/CPPS는 병원성 세균의 일관된 증거가 없음(단, 염증세포는 있을 수 있어 WBC 유무만으로 세균성 여부를 판단하지 않음)
   * 무증상 남성에서도 상당수 양성 결과가 나올 수 있어 해석에 주의
-* 성매개감염 의심 시 NAAT(임질·클라미디아·트리코모나스·마이코플라스마) 시행 (☞ [성매개감염](115_-1.STI.md#undefined-3))
+* 성매개감염 의심 시 첫소변(초회뇨) NAAT로 임질·클라미디아 검사; 지속/재발성 요도염 등 해당 적응증에서는 트리코모나스·_M. genitalium_ 검사 고려 (☞ [성매개감염](115_-1.STI.md#undefined-3))
 * 비정형 병원체 배양이나 NGS(차세대 염기서열 분석)를 통한 세균 DNA 검사는 일상적으로 시행하지 않음
 
 ### <mark style="color:orange;">CP/CPPS 증상 평가 설문지</mark>
@@ -182,7 +182,7 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 * 채점 : 통증{⑴\~⑷ 합, 0\~21점} + 배뇨{⑸\~⑹ 합, 0\~10점} + 삶의 질{⑺\~⑼ 합, 0\~12점} = 총 0\~43점
 * 총점 점수가 높을수록 증상 부담이 큼. 절대적인 중증도 절단값보다는 치료 전후 점수 변화를 추적하는 용도로 활용. ✽참고용 구간 : 0\~14점 경증, 15\~29점 중등증, 30\~43점 중증
 
-- [ ] [**GUPI**](https://www.painful-bladder.org/archive/GUPI%20Male%20&%20Female%20Pain%20Score/) (Genitourinary Pain Index) : NIH-CPSI를 기반으로 방광 통증·배뇨 후 통증 관련 항목을 보강한 별도의 validated instrument; 일상적인 CP/CPPS 평가·추적은 NIH-CPSI를 우선 사용하고, 방광 충만통·배뇨 후 통증 완화 양상이 두드러져 간질성 방광염/방광 통증 증후군 감별이 필요한 경우에 GUPI를 추가로 고려
+* [**GUPI**](https://www.painful-bladder.org/archive/GUPI%20Male%20&%20Female%20Pain%20Score/) (Genitourinary Pain Index) : NIH-CPSI를 기반으로 방광 통증·배뇨 후 통증 관련 항목을 보강한 별도의 validated instrument; 일상적인 CP/CPPS 평가·추적은 NIH-CPSI를 우선 사용하고, 방광 충만통·배뇨 후 통증 완화 양상이 두드러져 간질성 방광염/방광 통증 증후군 감별이 필요한 경우에 GUPI를 추가로 고려
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -194,45 +194,38 @@ _✽위 +/- 표는 단순화된 교육용 패턴임. 실제 핵심은 EPS·VB3 �
 
 ```mermaid
 graph TD
-    Start(["급성 세균성 전립선염 의심"]) --> UA["U/A 및 소변 배양검사; 요로폐쇄 의심 시 잔뇨량 검사"]
-    UA --> AdmitQ["입원 적응증 평가"]
-    AdmitQ --> OPD["외래 치료"]
-    AdmitQ --> IPD["입원 치료 - 혈액배양 고려"]
-    OPD --> STIQ["STI 위험 평가"]
-    STIQ -->|"위험(+)"| Rx1["트리악손 500 ㎎ IM 1회(150kg 이상은 1 g) - C. trachomatis 배제 안 되면 독시사이클린 100 ㎎ bid 추가"]
-    STIQ -->|"위험(-)"| Rx2["씨프로바이 500 ㎎ bid 또는 크라비트 500~750 ㎎ qd; 경증 10~14일, 총 치료기간은 임상반응에 따라 2~4주 고려"]
-    Rx1 --> F1["임상반응·배양 결과에 따라 항생제 조정 및 기간 연장"]
-    Rx2 --> F1
-    IPD --> SevQ["중증도·내성위험 평가(패혈증 여부, ESBL/MDR 위험, 최근 배양·항생제 노출, 지역 내성률)"]
-    SevQ -->|"경증~중등증, 내성 위험 낮음"| Rx3["씨프로바이 400 ㎎ IV q12h 또는 크라비트 500~750 ㎎ IV q24h"]
-    SevQ -->|"중증 또는 내성 위험(+)"| Rx4["광범위 β-lactam 또는 3세대 cephalosporin ± 아미노글리코사이드(예시: 피페라실린/타조박탐); 실제 선택은 위험도·지역 내성률에 따라 조정"]
-    Rx3 --> RespQ["48~72시간 내 임상적 호전 없음? (혈역학적 불안정 시 대기 없이 재평가)"]
-    Rx4 --> RespQ
-    RespQ -->|"아니오"| Stable["임상 안정 후 경구 전환; <br/>총 2~4주 치료 후 1주 뒤<br/> 소변배양 재검"]
-    RespQ -->|"예"| Img["경직장 초음파 또는 CT/MRI"]
-    Img --> AbsQ["전립선 농양 확인"]
-    AbsQ -->|"확인됨"| Drain["배농 시행 + 광범위 <br/>항생제 + 배양 재검"]
-    AbsQ -->|"확인 안 됨"| Broaden["광범위 항생제로 전환<br/> 및 감별진단 재검토"]
-    Drain --> Stable
-    Broaden --> Stable
-
-style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class AdmitQ,STIQ,SevQ,RespQ,AbsQ yellow
-style OPD fill:#fef4f8,stroke:#f06baf
-style IPD fill:#fcd4e6,stroke:#e0448e
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class Rx1,Rx2,Rx3,Rx4 sky
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class F1,Stable blue
-classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class UA,Img lightGreen
-
+    Start(["급성 세균성 전립선염 의심"]) --> Tests["중간뇨 배양·감수성, U/A, CBC; STI 의심 시 첫소변 NAAT"]
+    Tests --> Severity{"중증도·요폐·경구 섭취·내성 위험·추적 가능성"}
+    Severity -->|"안정적·경구 가능·면밀한 추적"| OPD["외래 고려: 이전 배양·지역 내성률을 반영한 경구 항생제"]
+    Severity -->|"패혈증·요폐·경구 불가·고위험"| IPD["입원/의뢰: 혈액배양 후 정맥 항생제, 폐쇄 시 배액"]
+    OPD --> STI{"임질·클라미디아 의심?"}
+    STI -->|"예"| AddSTI["NAAT 채취; 높은 임상 의심 시 STI 치료 병행. 단회 ceftriaxone·7일 doxycycline만으로 ABP 치료를 끝내지 않음"]
+    STI -->|"아니오"| Review["배양·감수성 결과와 48~72시간 임상반응 재평가"]
+    AddSTI --> Review
+    IPD --> Risk{"패혈증·ESBL/MDR 위험?"}
+    Risk -->|"낮음"| IV["지역 내성률에 맞는 3세대 cephalosporin 등 정맥 요법"]
+    Risk -->|"높음/중증"| Broad["이전 배양·내성 위험에 맞춰 광범위 정맥 요법; ESBL 위험이 높고 중증이면 carbapenem 평가"]
+    IV --> Review
+    Broad --> Review
+    Review -->|"호전"| Step["감수성에 따라 좁혀 경구 전환; 기간은 중증도·경과에 맞춰 개별화"]
+    Review -->|"호전 없음/악화"| Image["즉시 재평가: 배양, 폐쇄, 다른 감염원; TRUS 또는 골반 CT/MRI로 농양 확인"]
+    Image --> Abs{"농양 확인?"}
+    Abs -->|"예"| Drain["크기·경과에 따라 항생제 단독 또는 흡인·배농 결정"]
+    Abs -->|"아니오"| Revise["원인균·감수성·폐쇄 및 감별진단에 따라 치료 조정"]
+    Drain --> Step
+    Revise --> Step
+    Step --> Follow["증상·재발 위험에 따라 추적; 무증상 시 정례 치료 후 배양은 필수 아님"]
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    class Severity,STI,Risk,Abs decision
+    classDef treatment fill:#e3f2ff,stroke:#2196f3
+    class OPD,IPD,IV,Broad,AddSTI,Step treatment
+    classDef evaluation fill:#e8f8e8,stroke:#4caf50
+    class Tests,Review,Image,Follow evaluation
 ```
 
 <p align="center"><strong>급성 세균성 전립선염의 진단 및 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Acute Bacterial Prostatitis: Diagnosis and Management. AFP 2016;93(2); IDSA Complicated UTI Guideline(2025); EAU Urological Infections Guideline(2025) 반영</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 국내 지역사회획득 요로감염 항생제 지침(2018); EAU Urological Infections Guideline(2026); IDSA cUTI Guideline(2025)의 적용 범위를 구분하여 반영</mark></em></p>
 
 ***
 
@@ -271,7 +264,7 @@ classDef blue fill:#d0e8ff,stroke:#1a6abf
 style MDT fill:#fdebd0,stroke:#e67e22
 ```
 
-<p align="center"><strong>만성 세균성 전립선염 및 만성 골반통증증후군(CP/CPPS)의 진단·다면적 관리 알고리듬</strong></p>
+<p align="center"><strong>만성 골반통증증후군(CP/CPPS)의 진단·다면적 관리 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. Diagnosis and Management of Male Chronic Pelvic Pain(CP/CPPS and CSCP): AUA Guideline(2025)</mark></em></p>
 
@@ -302,22 +295,22 @@ style MDT fill:#fdebd0,stroke:#e67e22
 
 ### <mark style="color:orange;">약물 치료</mark>
 
-* 항생제 : 세균성(Ⅰ·Ⅱ)에서 1차 선택 - fluoroquinolone
+* 항생제 : 급성 세균성 전립선염은 중증도·내성 위험·이전 배양 결과에 따라 초기 정맥 또는 경구 요법을 선택하고 감수성 결과에 맞춰 조정. 만성 세균성 전립선염은 감수성과 금기 사항을 고려해 fluoroquinolone을 우선 고려
 * 통증 완화, 해열 : NSAID
 * 배뇨 증상 개선 : α-blocker(tamsulosin, alfuzosin, silodosin) (☞ [BPH](124_-benign-prostatic-hyperplasia-bph.md))
 
 #### <mark style="color:$primary;">Ⅰ. 급성 세균성 전립선염 (ABP)</mark>
 
-* 성매개질환 위험(+) : ceftriaxone 500 ㎎ IM <mark style="color:blue;">\[트리악손]</mark> 1회(체중 150 ㎏ 이상은 1 g); \_C. trachomatis\_가 배제되지 않은 경우 doxycycline <mark style="color:blue;">\[독시사이클린]</mark> 100 ㎎ bid 추가 (☞ [성매개감염증](115_-1.STI.md))
-  * ceftriaxone 투여가 불가능한 경우의 임질 대체요법으로 cefixime 800 ㎎ PO 1회가 사용될 수 있으나, 전립선 침범이 의심되는 ABP의 전체 치료는 이와 별도로 고려해야 함(단회 cefixime을 ABP 완결 치료로 간주하지 않음)
-  * 성 파트너의 임질 치료가 필요한 경우 EPT(expedited partner therapy)는 파트너 본인에 대한 치료이며, index patient(본 환자)의 ABP 치료와는 별개로 다룸
-  * 임질/클라미디아 동시치료 자체는 7일이면 충분하지만, 전립선 침범이 확인/의심되는 ABP는 이와 별개로 임상반응에 따라 전체 항생제 치료기간을 2\~4주로 잡는 것이 안전 \[EAU 2025]
-  - [ ] 국내를 포함한 유럽/WHO 지침(IUSTI 2020)은 내성 우려로 ceftriaxone 1 g(단독 또는 azithromycin 2 g 병용)을 표준으로 쓰는 경우가 많음
-* 성매개질환 위험(-) : ciprofloxacin 500 ㎎ bid <mark style="color:blue;">\[씨프로바이]</mark> or levofloxacin 500\~750 ㎎ qd <mark style="color:blue;">\[크라비트]</mark>; 대체 TMP/SMX 160/800 ㎎ bid (<mark style="color:blue;">셉트린정</mark> 400/80 ㎎ 2T bid)
-  * 경증\~중등증 : 10\~14일 치료 후 임상반응 재평가; 증상·발열이 남아 있거나 전립선 침범이 뚜렷하면 연장 (IDSA 2025는 일반 cUTI의 단기요법 권고에서 세균성 전립선염을 제외하고 있음)
-  * 전체 치료기간은 일반적으로 2\~4주를 고려 (EAU 2025 systemic UTI 치료 원칙 준용)
-* 다음의 경우 입원 및 비경구 항생제 치료 : 경고 증상, 발열 또는 전신 증상, 외래 치료 실패, 내성균 위험(최근 fluoroquinolone 사용, 하부 요로 조작)
-* \[EAU 2025] 급성 세균성 전립선염은 전신 요로 감염(systemic UTI) 치료 원칙에 준하여 치료
+* 성매개감염 의심 동반 : 중간뇨 배양과 임질·클라미디아 첫소변 NAAT를 항생제 투여 전에 채취. 요도분비물·노출력 등으로 임질이 강하게 의심되면 ceftriaxone 500 ㎎ IM <mark style="color:blue;">[트리악손]</mark> 1회(체중 ≥150 ㎏은 1 g)를 투여하고, 클라미디아가 배제되지 않으면 doxycycline 100 ㎎ bid <mark style="color:blue;">[독시사이클린]</mark> ×7일을 병용 (☞ [성매개감염증](115_-1.STI.md))
+  * 이는 **동반 비복잡성 임질·클라미디아 치료 용법**으로, 급성 세균성 전립선염 전체 치료의 대체 처방이 아님. 전립선 감염은 장내세균 가능성·전신 상태·배양 결과에 따라 별도 치료 계획을 세우고, 확인된 STI의 성 파트너 평가·치료와 HIV·매독 검사도 고려
+  * 임질 대체요법인 cefixime 800 ㎎ PO 1회도 비복잡성 임질용이며 전립선염 완결 요법으로 사용하지 않음. 임질이 확인되거나 강하게 의심되면서 전립선 감염이 지속되면 비뇨의학과·감염내과 협진을 고려
+  * 국내·유럽 지침의 ceftriaxone 용량이 CDC의 비복잡성 임질 용량과 다를 수 있으므로 실제 STI 처방은 해당 기관의 최신 지침을 확인
+* 장내세균성 감염이 의심되고 외래 경구 치료가 가능한 환자 : 소변배양 검체를 먼저 채취하고 이전 감수성 결과·지역 내성률·최근 fluoroquinolone 노출을 고려하여 ciprofloxacin 500 ㎎ bid <mark style="color:blue;">\[씨프로바이]</mark> or levofloxacin 500\~750 ㎎ qd <mark style="color:blue;">\[크라비트]</mark>; 감수성 확인 시 대체 TMP/SMX 160/800 ㎎ bid (<mark style="color:blue;">셉트린정</mark> 400/80 ㎎ 2T bid)
+  * 안정적인 경증 환자는 10\~14일 치료 후 반응을 재평가할 수 있으나, 뚜렷한 전립선 감염·중증 또는 합병증 동반 시 총 2\~4주를 고려하고 임상반응·배양 결과에 맞춰 개별화. IDSA 2025의 일반 cUTI 단기요법 근거는 세균성 전립선염에 직접 적용되지 않으며 최적 기간은 확립되지 않음
+* 입원·정맥 치료 고려 : 패혈증/혈역학적 불안정, 요폐 또는 폐쇄, 경구 섭취 불가, 중증 전신 증상, 내성균 위험, 외래 치료 실패 또는 신속한 재평가가 어려운 경우. 국내 지침(2018)은 입원·정맥 치료를 강하게 권고하므로 외래 치료는 안정적이고 추적 가능한 경증 환자에서 신중히 선택
+* 입원 초기 요법 : 이전 배양 결과와 지역 감수성에 따라 3세대 cephalosporin 또는 적절한 광범위 β-lactam 등을 선택. 패혈증·ESBL/MDR 위험이 높으면 carbapenem 필요성을 평가하고, 감수성 확인 후 좁은 요법으로 조정. piperacillin/tazobactam이나 3세대 cephalosporin을 ESBL 고위험 중증 감염의 일괄 선택지로 간주하지 않음
+* 요폐가 있으면 즉시 비뇨의학과에 의뢰하여 방광 배액 방법을 결정(필요시 치골상부 도뇨 고려). 전립선농양이 확인되면 크기와 치료 반응에 따라 항생제 단독·흡인·배농을 선택
+* [EAU 2026] 급성 세균성 전립선염은 전신 요로 감염(systemic UTI) 치료 원칙에 준하여 치료
 
 #### <mark style="color:$primary;">Ⅱ. 만성 세균성 전립선염 (CBP)</mark>
 
@@ -331,12 +324,11 @@ style MDT fill:#fdebd0,stroke:#e67e22
 * levofloxacin : 500 ㎎ qd <mark style="color:blue;">\[크라비트]</mark>
 * TMP/SMX : fluoroquinolone을 사용할 수 없거나 감수성이 확인된 경우의 대안; 치료 기간은 임상 반응·배양 결과에 따라 결정; 160/800 ㎎ bid <mark style="color:blue;">\[셉트린]</mark>
 
-**2차 선택**
+**원인균별 치료**
 
-* 특히 _C. trachomatis_ 또는 _N. gonorrhoeae_(비정형·세포내 병원체)에 대하여 고려
-* doxycycline : 100 ㎎ bid <mark style="color:blue;">\[독시사이클린]</mark>
-* azithromycin : \[대한감염학회] 1 g qwk ×4주; \[EAU 2025] 500 ㎎ qd 최대 3주 <mark style="color:blue;">\[지스로맥스]</mark>
-* clarithromycin : 500 ㎎ bid <mark style="color:blue;">\[클래리시드]</mark>
+* _C. trachomatis_ 또는 생식기 mycoplasma 등 세포내 병원체가 확인된 경우 : 병원체별 감수성·최신 STI 지침을 고려해 doxycycline 100 ㎎ bid <mark style="color:blue;">[독시사이클린]</mark> 또는 적절한 macrolide를 선택. EAU 2026의 만성 세균성 전립선염 서술과 요법표에서 doxycycline 기간이 일치하지 않으므로 특정 기간을 일률적으로 적용하지 않음
+* _N. gonorrhoeae_가 확인된 경우 : 임질의 최신 치료 지침에 따라 치료하고, 지속되는 전립선 감염의 치료는 별도로 비뇨의학과·감염내과와 상의. 임질을 다른 세포내 병원체와 동일한 doxycycline/macrolide 대체 치료군으로 묶지 않음
+* _T. vaginalis_가 원인균으로 확인된 드문 만성 세균성 전립선염 : metronidazole 등 병원체별 치료를 고려
 
 #### <mark style="color:$primary;">Ⅲ. 만성 골반통증증후군 (CP/CPPS)</mark>
 
@@ -368,7 +360,7 @@ style MDT fill:#fdebd0,stroke:#e67e22
 * 근전도 바이오피드백으로 골반저근 안정 시 긴장도 및 이완 시간을 개선
 * 온열 요법, 좌욕 등도 보조적으로 고려
 
-- [ ] benzodiazepine은 의존성·진정 위험이 있어 골반저근 근육통의 일반적 치료제로 권고하지 않음
+* benzodiazepine은 의존성·진정 위험이 있어 골반저근 근육통의 일반적 치료제로 권고하지 않음
 
 **심리사회적 개입**
 
@@ -390,38 +382,38 @@ style MDT fill:#fdebd0,stroke:#e67e22
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 N41.0 급성 전립선염
 
-N41.1 만성 전립선염(CP/CPPS 포함 여부 등 실제 청구 관행은 최신 KCD-8/심평원 고시로 최종 확인 필요)
+N41.1 만성 전립선염(세균성 여부 및 CP/CPPS 관련 청구는 KCD-9 분류와 최신 심평원 기준에 따라 확인)
 
-N41.2 전립선농양
+N41.2 전립선의 농양
 
 N41.9 상세불명의 전립선의 염증성 질환
 
-✽청구 실무 팁 : CP/CPPS(Ⅲ형)는 세균 감염 증거가 없어 N41.1 단독 상병으로 알파차단제·소염진통제 등을 처방할 때 상병-처방 불일치로 심사에서 문제될 수 있음 - N41.1을 주상병으로 하고 R10.2(골반 및 회음부 통증) 또는 M79.6(사지의 통증) 등 증상 기반 부상병을 함께 기재하는 방식이 실무에서 쓰이나, 최종 인정 여부는 심평원 고시·개별 심사 사례에 따라 다를 수 있어 참고용으로만 활용
+✽CP/CPPS의 상병·처방 급여 인정은 실제 진단과 약제별 허가·급여기준에 따라 확인. 골반 및 회음부 통증을 별도로 기재해야 할 임상적 근거가 있는 경우 R10.2를 고려할 수 있으나, 증상 코드를 추가하는 것만으로 약제의 급여가 보장되지는 않음
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 급성 세균성 전립선염, STI 위험(+)**
+> **처방례 1. 급성 세균성 전립선염에 임질·클라미디아 감염이 의심되는 경우의 STI 추가 치료**
 >
 > ```
 > 트리악손 500 ㎎ IM(체중 150 ㎏ 이상은 1 g)
 > 독시사이클린 100 ㎎/C 2T #2 ×7d(C. trachomatis 배제 안 된 경우)
 > ```
 >
-> _✽성매개질환 위험이 있는 젊은 연령에서는 N. gonorrhoeae, C. trachomatis를 함께 커버(CDC 2021 기준 500 ㎎/1 g; 국내·유럽/WHO 지침은 1 g을 표준으로 쓰는 경우가 많아 소속 기관 지침에 따름); 전립선 침범이 확인/의심되면 별도로 전체 항생제 치료기간을 임상반응에 따라 2\~4주로 연장; 성 파트너 동반 치료 및 성매개감염 추가 검사(HIV, 매독 등)를 함께 고려_
+> _✽중간뇨 배양과 임질·클라미디아 첫소변 NAAT를 먼저 채취. 위 두 약제는 동반 비복잡성 STI 치료를 위한 **추가 처방**이며, 이것만으로 급성 세균성 전립선염 치료를 끝내지 않음. 전립선염의 원인균·중증도에 맞춘 별도 항생제 계획을 즉시 세우고 배양 결과에 따라 조정. STI의 성 파트너 평가·치료와 HIV·매독 검사도 고려. Ceftriaxone 용량은 국내·기관 지침과 대조_
 
-> **처방례 2. 급성 세균성 전립선염, STI 위험(-)**
+> **처방례 2. 안정적인 경증 급성 세균성 전립선염, 장내세균 감염 의심·외래 치료 가능**
 >
 > ```
 > 씨프로바이 500 ㎎/T 2T #2 ×10~14d
 > ```
 >
-> _✽10\~14일 치료 후 임상반응을 재평가; 증상·발열이 남아 있거나 전립선 침범이 뚜렷하면 연장하며, 전체 치료기간은 흔히 2\~4주까지 고려; fluoroquinolone 부작용(건 파열·말초신경병증) 위험군에서는 TMP/SMX 등 대체제 고려_
+> _✽치료 전 중간뇨 배양 채취. 이전 배양·지역 내성률·최근 fluoroquinolone 노출을 확인하여 경험적 처방 가능성을 판단하고, 결과에 따라 조정. 48\~72시간 내 임상 경과를 확인하며, 10\~14일 시점에 치료기간을 다시 결정(전립선 침범·중증도·합병증에 따라 총 2\~4주 고려). 지속 발열·악화 시 기간만 연장하지 말고 즉시 재평가. TMP/SMX는 감수성 확인 시 대안_
 
 > **처방례 3. 만성 세균성 전립선염**
 >
@@ -430,7 +422,7 @@ N41.9 상세불명의 전립선의 염증성 질환
 > 부루펜 200 ㎎/T 6T #3
 > ```
 >
-> _✽4\~6주 치료 후에도 증상·배양 양성이 지속되면 원인균 감수성에 따라 대체 항생제로 최대 3개월까지 연장 가능_
+> _✽4\~6주 후에도 증상·배양 양성이 지속되면 재감염·농양·폐쇄 등 원인을 평가하고, 감수성에 따라 치료 변경 또는 전문가 의뢰를 고려. 항생제를 일률적으로 3개월까지 연장하지 않음_
 
 > **처방례 4. 만성 골반통증증후군 - 배뇨 증상 우세형**
 >
@@ -455,7 +447,7 @@ N41.9 상세불명의 전립선의 염증성 질환
 
 > **항생제는 증상이 좋아져도 처방 기간을 반드시 채워야 합니다**
 >
-> * 적절한 항생제 치료를 시작하면 수일 내 발열·배뇨통이 호전되기 시작하는 경우가 많지만, 전립선 조직 내 항생제 침투가 더디므로 최소 10\~14일(전립선 침범이 뚜렷하면 최대 2\~4주) 치료를 완료해야 함
+> * 적절한 항생제를 시작하면 수일 내 발열·배뇨통이 호전될 수 있으나, 처방 기간은 중증도·원인균·임상반응에 따라 달라짐. 흔히 10\~14일 후 재평가하고 필요하면 총 2\~4주 치료를 고려하므로, 의료진이 정한 기간과 재진 일정을 지킬 것
 > * 임의로 조기 중단하면 만성화·재발·내성균 발생 위험이 높아짐
 
 > **Fluoroquinolone 처방 시 설명할 점**
@@ -472,14 +464,14 @@ N41.9 상세불명의 전립선의 염증성 질환
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 항생제 치료 중 48\~72시간 이상 발열이 지속되거나 증상이 악화되는 경우 - 즉시 내원(농양 등 합병증 감별)
+> * 항생제 치료 후 48\~72시간 내 발열·증상이 호전되지 않으면 당일 재평가를 받으며, 언제든 악화되거나 심한 오한·의식 변화가 생기면 즉시 내원(농양·패혈증 등 감별)
 > * 소변이 전혀 나오지 않거나 심한 하복부 팽만감이 동반되는 경우 - 즉시 내원
 > * 오한, 고열, 혈압 저하 등 전신 증상이 동반되는 경우 - 즉시 내원(패혈증 감별)
 > * CP/CPPS 표준 치료 4\~6주 후에도 호전이 없는 경우 - 비뇨의학과 의뢰
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **전립선염, 급성과 만성은 치료 방향이 다릅니다**
