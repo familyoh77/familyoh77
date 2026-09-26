@@ -15,15 +15,16 @@
 
 * 연령 : 중년 이후 연령 증가
 * 성별 : 여성(남성의 2\~5배)
-* 비만/높은 BMI, 반복적인 손목 사용률 \[AAOS 2024 Strong evidence]
-* 폐경 주변기, wrist ratio/index 증가, 류마티스 관절염, 정신사회적 요인, 원예, 원위부 상지 건병증, 조립라인 작업, 일부 컴퓨터 관련 작업, 진동 노출, 건염, 작업장에서의 강한 악력/힘 사용 \[AAOS 2024 Moderate evidence]
-  * ✽ 일부 직업적·반복적 손 사용 요인과의 연관성이 보고되지만, AAOS 2024 지침은 단순한 키보드 사용량(high keyboard use) 자체와 CTS 발생 간 연관성을 뒷받침할 신뢰할 만한 근거는 없다는 실무진 의견(committee opinion)을 제시함; 개별 작업 요인의 인과관계는 여전히 논란이 있음
-* 투석, 섬유근통, 정맥류, 원위 요골 골절 \[AAOS 2024 Limited evidence]
-* 신체 활동/운동은 발생 위험을 낮춤 \[AAOS 2024 Moderate evidence]
-* 경구 피임약, 호르몬 대체요법은 발생 위험과 연관성 없음 \[AAOS 2024 Moderate evidence]
+* 비만/높은 BMI, 높은 손·손목 반복 동작 노출 \[AAOS 2016 Strong evidence]
+* 폐경 주변기, wrist ratio/index 증가, 류마티스 관절염, 정신사회적 요인, 원예, 원위부 상지 건병증, 조립라인 작업, 일부 컴퓨터 관련 작업, 진동 노출, 건염, 작업장에서의 강한 악력/힘 사용 \[AAOS 2016 Moderate evidence]
+  * ✽ 위 위험 인자의 근거 수준은 AAOS **2016** 지침의 분류임. AAOS 2024 지침은 단순한 키보드 사용량(high keyboard use) 자체와 CTS 발생 간 연관성을 뒷받침할 신뢰할 만한 근거가 없다는 실무진 합의 의견(committee opinion)을 제시함; 직업적 요인 중 반복·힘 사용·진동과 단순 키보드 사용은 구분하여 평가
+* 투석, 섬유근통, 정맥류, 원위 요골 골절 \[AAOS 2016 Limited evidence]
+* 신체 활동/운동과 발생 위험 감소의 연관성이 보고됨 \[AAOS 2016 Moderate evidence]; 후속 근거 평가에서는 보호 효과의 근거가 제한적이므로 개인의 운동이 CTS를 예방한다고 단정하지 않음
+* 경구 피임약, 호르몬 대체요법 : AAOS 2016은 발생 위험 증가·감소와 연관성이 없다고 평가했으나(Moderate evidence), 후속 근거는 상충함 \[APTA/JOSPT 2026]; 위험 여부를 확정적으로 단정하지 않음
 * 전신 연관 질환 : 당뇨병, RA, 갑상선저하증, 신부전
+  * 고령자의 양측 CTS에 원인 불명 심부전/심실벽 비후, 요추관협착증 등 다른 단서가 동반되면 ATTR 아밀로이드증 감별을 고려; 양측 CTS만으로 일률적 선별 검사를 시행하지는 않음. 수술 환자에서 아밀로이드증 위험 인자가 여러 개인 경우 건활막 병리검사는 개별적으로 고려 가능 \[AAOS 2024 Consensus]
 * 체액/호르몬 변화 : 임신, 비만, CHF
-  * 임신 관련해서는 보통 출산 수 주 후 자연 회복
+  * 임신 관련 CTS는 출산 후 호전되는 경우가 많으나 수주~수개월 이상 지속될 수 있음; 지속적 감각저하·근력저하가 있으면 재평가
 
 ### <mark style="color:orange;">국소적/구조적 이차성 원인</mark>
 
@@ -54,10 +55,10 @@
 
 * 외상(원위 요골 골절, 관절 탈구, 손목 압궤 손상 등) 직후 급격히 발생·악화되는 손저림·감각저하와 손목 부종/긴장감 → 급성 수근관증후군 의심; 비가역적 신경 손상 예방을 위해 응급 감압술이 필요할 수 있어 즉시 정형외과/수부외과 응급 의뢰
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* Thenar 위축 또는 객관적인 thumb abduction/opposition weakness가 새로 확인되는 경우 → 진행된 신경 손상 가능성, 수부외과 조기 의뢰; 필요 시 신경전도/근전도 검사로 중증도 및 감별 평가(검사 때문에 의뢰를 지연하지 않음)
-* 임신 중 지속적 감각소실, 객관적 thenar weakness/atrophy 등 신경손상 소견이 새로 발생하거나 빠르게 진행하는 경우
+* Thenar 위축 또는 객관적인 thumb abduction/opposition weakness가 새로 확인되는 경우(빠른 진행 시 당일) → 진행된 신경 손상 가능성, 수부외과 조기 의뢰; 필요 시 신경전도/근전도 검사로 중증도 및 감별 평가(검사 때문에 의뢰를 지연하지 않음)
+* 임신 중 지속적 감각소실, 객관적 thenar weakness/atrophy 등 신경손상 소견이 새로 발생하거나 빠르게 진행하는 경우(빠른 진행 시 당일)
 * 정중신경 분포를 뚜렷하게 벗어난 지속적 감각이상에 목 통증·상지 방사통, 다른 신경학적 이상 등이 동반되는 경우 → 경추 신경근병증 등 감별 필요
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
@@ -74,8 +75,8 @@
 * Phalen test : 1분간 손목 완전 굴곡 시(양 손등을 붙이고 있음) 증상 유발
 * reverse Phalen test : 2분간 손목 완전 신전 시(양 손바닥을 붙이고 있음) 증상 유발
 * two-point discrimination 저하 : 정중신경 지배 손가락에서 5 ㎜ 간격의 두 점을 구별하지 못하는 경우
-* thenar 위축 : 오랜 기간 지속된 환자들에서 thumb abduction \& opposition의 약화; CTS를 rule-in하는 데는 강한 연관성이 있으나, 위축이 없다고 CTS를 배제할 수는 없음 \[AAOS 2024 Strong evidence]
-* ✽ Phalen test, Tinel test, Flick sign은 단독 소견만으로는 CTS를 rule-in/out하는 근거가 약함 \[AAOS 2024 Strong evidence] - CTS-6 등 여러 소견을 종합한 도구 사용을 권장; APTA/JOSPT 2026도 Phalen test, Tinel sign, Durkan(carpal compression) test를 CTS 의심 환자 진단에 함께 사용하도록(should use) 권고
+* thenar 위축 : 오랜 기간 지속된 환자들에서 thumb abduction \& opposition의 약화; CTS를 rule-in하는 데는 강한 연관성이 있으나, 위축이 없다고 CTS를 배제할 수는 없음 \[AAOS 2016 Strong evidence]
+* ✽ Phalen test, Tinel test, Flick sign은 단독 소견만으로는 CTS를 rule-in/out하는 근거가 약함 \[AAOS 2016 Strong evidence] - CTS-6 등 여러 소견을 종합한 도구 사용을 권장; APTA/JOSPT 2026도 Phalen test, Tinel sign, Durkan(carpal compression) test를 CTS 의심 환자 진단에 함께 사용하도록(should use) 권고
 
 ### <mark style="color:orange;">검사실 검사</mark>
 
@@ -93,7 +94,7 @@
 5. Tinel sign 양성(4점)
 6. 2-point discrimination 소실(4.5점)
 
-▶ 판정 : ≥12점 CTS(Carpal tunnel syndrome) 확률 ≥80%
+▶ 판정 : ≥12점이면 CTS 가능성이 높음(기존 개발·검증 집단에서 약 80% 확률에 해당); 환자군·진료 환경에 따라 실제 확률은 달라질 수 있음
 
 ✽ CTS-6는 AAOS 2024에서 routine 초음파 또는 신경전도검사/근전도를 대체하여 사용할 수 있는 1차 진단 도구로 권고되며(Strong evidence), APTA/JOSPT 2026에서도 CTS 의심 환자의 진단에 사용하도록(should use) 재확인됨
 
@@ -160,7 +161,7 @@ graph TD
 ## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="info" %}
-**AAOS 2024 지침 핵심 요지**\
+**진료 요약(AAOS 2024·APTA/JOSPT 2026 근거 반영)**\
 경증\~중등도이면서 진행성 신경손상 소견이 없는 CTS는 야간 neutral wrist splint와 생활습관 조정이 보존 치료의 중심입니다. 국소 corticosteroid 주사는 단기 증상 완화에 사용할 수 있으나 장기적 patient-reported outcome 개선은 없으며, PRP 주사 역시 장기적 이득이 입증되지 않았습니다. 보존 치료에 반응이 없거나 지속적 감각저하, thenar weakness/atrophy 등 진행성 신경손상 소견이 있으면 수술적 감압술을 고려하며, 진행 소견이 있는 경우 steroid 치료를 거치느라 의뢰를 지연하지 않습니다.
 {% endhint %}
 
@@ -178,8 +179,8 @@ graph TD
 * 냉찜질 : 단독 효과에 대한 근거는 제한적
 * Neuromobilization(신경 활주 운동) : 연구 결과가 상충하여 단독 효과에 대한 명확한 권고를 내리기 어려움 \[APTA/JOSPT 2026]
 * Manual therapy(경추부·상지) : 경증\~중등도 CTS에서 단기 통증 및 기능 개선 목적으로 시행을 고려할 수 있음 \[APTA/JOSPT 2026 may perform]
-* 치료용 초음파 : 근거의 질 자체는 높으나(High Quality of Evidence), evidence-to-decision 과정에서 장기적 증상 개선에 대한 권고 강도가 downgrade됨 \[AAOS 2024 Limited option (downgraded)]
-* 지압, 인슐린 주입, 영양보충제 : 대조군/위약 대비 우월성이 입증되지 않아 일상적으로 권장하지 않음 \[AAOS 2024 Limited evidence]
+* 치료용 초음파 : 장기적인 증상 개선 효과가 입증되지 않음 \[AAOS 2024 Limited option (downgraded)]; **열성 치료 초음파(thermal ultrasound)**는 경증~중등도 CTS에 사용하지 않을 것을 권고 \[APTA/JOSPT 2026]. 진단용 정중신경 초음파와 구분
+* 지압, 인슐린 주입, 영양보충제 : 대조군/위약 대비 우월성이 입증되지 않아 일상적으로 권장하지 않음 \[AAOS 2024 Limited option (downgraded)]
 * 레이저 치료(저출력/고강도), 키네시오 테이핑(경증 CTS), 간섭파, 표재열, 심부열(diathermy) : 단기 증상·통증 개선 목적의 사용을 고려할 수 있으나(may use/may recommend) \[APTA/JOSPT 2026], 장기적인 patient-reported outcome 개선에 대한 권고 강도는 downgrade됨 \[AAOS 2024 Limited option (downgraded)]
 * 체외충격파치료(ESWT) : 경증\~중등도 CTS에서 단기·중기(＜6개월) 증상 및 기능 개선 목적으로 고려할 수 있으며, radial ESWT를 focused ESWT보다 우선 고려할 수 있음 \[APTA/JOSPT 2026]; 다만 장기적 patient-reported outcome 개선에 대한 권고 강도는 downgrade됨 \[AAOS 2024 Limited option (downgraded)]
 * 이온영동/포노포레시스(스테로이드 병용), 자기 치료 : 사용하지 않을 것을 권고 \[APTA/JOSPT 2026]
@@ -197,7 +198,7 @@ graph TD
 
 * landmark technique에서는 proximal wrist crease의 palmaris longus tendon ulnar side 접근이 사용됨. Palmaris longus가 선천적으로 없을 수 있고 median nerve 또는 tendon 내 주입 위험이 있으므로 해부학적 landmark를 정확히 확인하며, 숙련도가 낮거나 해부학이 불명확하면 초음파 유도하 주사를 고려
 * 단기(수 주\~수개월) 증상 완화 목적으로 사용하며, 장기적인 patient-reported outcome 개선 효과는 입증되지 않음 \[AAOS 2024 Strong evidence] - 반복 주사보다는 반응 평가 후 수술적 치료 여부를 조기에 결정하는 데 활용하고, 반응이 없으면 수술적 치료를 미루지 않음
-* 금기 : 감염 소견, 터널 내 종괴, 출혈 경향
+* 주의/금기 : 주사 부위 감염이나 전신 감염이 있으면 시행하지 않음; 터널 내 종괴가 의심되면 원인 평가를 우선. 항응고제·항혈소판제 복용 또는 출혈 위험은 일률적 절대 금기로 취급하지 않고 약제·응고 상태·시술 위험을 개별 평가
 * hydrocortisone 20 ㎎, methylprednisolone 15\~40 ㎎, triamcinolone 20 ㎎
   * 보통 2% lidocaine 0.15\~0.5 ㎖(or 1% 용액 1 ㎖)를 혼합하여 주사
 
@@ -225,7 +226,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 G56.0 손목터널증후군
 
@@ -258,7 +259,7 @@ G56.0 손목터널증후군
 > 아세트아미노펜 500 ㎎  필요시
 > ```
 >
-> _✽임신 관련 CTS에서는 splint 등 비약물적 치료를 우선하며, 진통이 필요하면 acetaminophen을 우선 고려한다. NSAID는 임신 20주 이후에는 원칙적으로 회피하며, 불가피한 20\~30주 사용은 최소 유효용량·최단기간으로 제한; 30주 이후에는 fetal ductus arteriosus 조기 폐쇄 위험 때문에 사용을 회피한다; 대부분 출산 수 주 후 자연 호전된다_
+> _✽임신 관련 CTS에서는 splint 등 비약물적 치료를 우선하며, 진통이 필요하면 acetaminophen을 우선 고려한다. NSAID는 임신 20주 이후에는 원칙적으로 회피하며, 불가피한 20\~30주 사용은 최소 유효용량·최단기간으로 제한; 30주 이후에는 fetal ductus arteriosus 조기 폐쇄 위험 때문에 사용을 회피한다. 출산 후 호전되는 경우가 많지만 수개월 이상 지속될 수 있으므로, 감각저하·근력저하가 남거나 악화하면 재평가한다._
 
 > **처방례 4. Thenar 위축/지속적 감각저하 등 진행성 신경손상 의심**
 >
@@ -281,7 +282,7 @@ G56.0 손목터널증후군
 > **국소 스테로이드 주사**
 >
 > * 단기 증상 완화 목적이며, 장기적 효과는 제한적임을 설명
-> * 감염 징후, 종괴, 출혈 경향이 있는 경우 금기
+> * 감염 소견이 있으면 주사하지 않으며, 종괴가 의심되면 원인을 먼저 평가. 항응고제·항혈소판제 복용 등 출혈 위험은 개별 평가
 > * 반복 주사보다는 반응이 없으면 수술적 치료를 미루지 않도록 안내
 
 > **경구 스테로이드/NSAID**
@@ -297,7 +298,7 @@ G56.0 손목터널증후군
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **수근관증후군(손목터널증후군), 손목의 신경이 눌려서 생기는 병입니다**
@@ -305,30 +306,30 @@ G56.0 손목터널증후군
 손목 안쪽의 좁은 통로(수근관)를 지나는 신경이 눌리면서 손가락 저림, 감각 저하, 통증이 나타나는 질환입니다. 대부분 치료로 호전되지만, 방치하면 손의 힘이 약해질 수 있습니다.
 {% endhint %}
 
-#### <mark style="color:$primary;">왜 손저림이 생기나요?</mark>
+### <mark style="color:$primary;">왜 손저림이 생기나요?</mark>
 
 * 손목 안쪽의 좁은 통로를 지나는 신경이 반복적인 손목 사용, 손목 부기, 임신, 갑상선 질환 등으로 눌려서 발생합니다.
 
-#### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
+### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
 * **밤에 손목 보조기(스플린트)를 착용하십시오.** 자는 동안 손목이 구부러지지 않게 하여 신경 압박을 줄여줍니다.
 * **손목을 심하게 구부리거나 반복적으로 사용하는 동작을 줄이십시오.** 운전, 스마트폰 사용, 타이핑 시 자주 쉬어 주세요.
 * **의사나 치료사의 안내에 따라 손목 스트레칭이나 신경 활주 운동을 시행할 수 있습니다.** 일부 환자에서 증상 조절에 도움이 될 수 있으나, 야간 스플린트를 대체하는 핵심 치료는 아닙니다. (아래 운동법 참고)
 
-#### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
+### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
 * 소염진통제는 동반된 통증을 줄이는 데 도움이 될 수 있으나, 수근관증후군 자체의 경과를 바꾸지는 않습니다.
 * 국소 주사는 일시적으로 증상을 크게 줄여줄 수 있지만 효과가 오래가지 않을 수 있습니다.
 
-#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+### <mark style="color:$primary;">언제 진료를 받아야 하나요?</mark>
 
-* 외상 이후 갑자기 손이 심하게 붓고 저림이 심해지는 경우
-* 엄지손가락 아래 근육이 줄어들거나, 엄지 힘이 약해져 물건을 자주 떨어뜨리는 경우
-* 4\~8주간 치료해도 증상이 나아지지 않는 경우
+* **즉시 응급 평가:** 외상 이후 손이 갑자기 심하게 붓고 저림·감각저하가 빠르게 악화되는 경우
+* **조기 진료(빠르게 악화하면 당일):** 엄지손가락 아래 근육이 줄어들거나, 엄지 힘이 약해져 물건을 자주 떨어뜨리는 경우
+* **외래 재평가:** 4\~8주간 보조기를 착용하는 등 치료했으나 호전되지 않거나 재발하는 경우
 
-#### <mark style="color:$primary;">손목 스트레칭·신경 활주 운동은 어떻게 하나요?</mark>
+### <mark style="color:$primary;">손목 스트레칭·신경 활주 운동은 어떻게 하나요?</mark>
 
-운동 중 심한 통증이 발생하면 중지하십시오. 3\~4주 이상 꾸준하게 시행한 후 호전되지 않으면 재평가가 필요하며, 호전이 있으면 이후에도 지속하십시오.
+의사나 치료사의 안내를 받아 자신에게 맞는 운동을 선택하십시오. 운동 중 통증이 심해지거나 저림이 지속적으로 악화하면 중지하고 상담하십시오. 특히 손목 굽힘 스트레칭은 손가락 저림을 일시적으로 늘릴 수 있으므로, 불편한 저림이 생기면 중단하십시오. 3\~4주간 시행해도 호전되지 않으면 재평가하고, 호전되면 유지 운동으로 지속할 수 있습니다.
 
 * ☞ [Therapeutic Exercise Program for Carpal Tunnel Syndrome](https://www.orthoinfo.org/globalassets/pdfs/a00789_therapeutic-exercise-program-for-carpal-tunnel_final.pdf)
 
@@ -348,9 +349,9 @@ G56.0 손목터널증후군
 
 **Median Nerve Glides**
 
-* ① 주먹을 쥠 → ② 손가락을 모두 붙이고 손을 폄 → ③ 손목 신전 → ④ 엄지손가락 신전/외전 → ⑤ 손바닥이 위를 향하도록 전완을 돌림 → ⑥ 다른 손으로 엄지손가락을 부드럽게 당겨 스트레칭
+* ① 엄지를 손가락 밖에 둔 채 주먹을 쥠 → ② 엄지를 손 옆에 둔 채 손가락을 폄 → ③ 손가락을 편 상태에서 손목을 신전 → ④ 엄지손가락을 폄 → ⑤ 손바닥이 위를 향하도록 전완을 돌림 → ⑥ 다른 손으로 엄지손가락을 부드럽게 당겨 스트레칭(엄지를 세게 당기지 않음)
 * 각 자세를 3\~7초간 유지, 10\~15회 반복(1 set), 1일 1 set, 주 6\~7일 시행
-* 시행 전 15분간 손에 온찜질, 시행 후 20분간 냉찜질
+* AAOS 운동 자료의 보조 안내 : 시행 전 15분간 손에 가볍게 온찜질, 시행 후 20분간 냉찜질. 감각이 둔한 경우 화상·냉손상을 피하도록 피부 상태와 온도를 확인
 
 <div align="left"><figure><img src="../.gitbook/assets/수근관3.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -359,6 +360,16 @@ G56.0 손목터널증후군
 * Series A : ① 손목과 손가락을 똑바로 세움 → ② 손가락 끝 마디를 'hook' 모양으로 굽힘 → ③ 다른 손가락들 위로 엄지손가락을 놓고 주먹을 꽉 쥠
 * Series B : ① 손목과 손가락을 똑바로 세움 → ② PIP \& DIP 관절을 곧게 유지한 채 MCP 관절을 굴곡하여 'tabletop'을 만듦 → ③ PIP 관절을 굴곡하여 손가락이 손바닥에 닿게 함
 * 각 자세를 3초간 유지, 5\~10회 반복(1 set), 1일 2\~3 set, 견딜 수 있으면 횟수 증가
-* 시행 전 15분간 손에 열을 가함, 시행 후 20분간 냉찜질
+* AAOS 운동 자료의 보조 안내 : 시행 전 15분간 손에 가볍게 온찜질, 시행 후 20분간 냉찜질. 감각이 둔한 경우 피부 상태와 온도를 확인
 
 <div align="left"><figure><img src="../.gitbook/assets/수근관4.png" alt=""><figcaption></figcaption></figure></div>
+
+***
+
+## 참고문헌
+
+* [AAOS. Management of Carpal Tunnel Syndrome: Evidence-Based Clinical Practice Guideline (2024)](https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf).
+* [AAOS. Management of Carpal Tunnel Syndrome: Evidence-Based Clinical Practice Guideline (2016)](https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/cts_cpg_4-25-19.pdf). 위험 인자의 당시 근거 수준과 개별 진찰 소견을 인용.
+* [Erickson M, et al. Hand Pain and Sensory Deficits: Carpal Tunnel Syndrome: Revision 2026. J Orthop Sports Phys Ther. 2026](https://www.orthopt.org/uploads/content_files/files/Hand_Pain_CTS_jospt.2026.0301_new.pdf).
+* [Padua L, et al. Long term follow-up of carpal tunnel syndrome during pregnancy: a cohort study (2007)](https://pubmed.ncbi.nlm.nih.gov/17918501/).
+* [Malige A, Matullo KS. Hand Corticosteroid Injections in Patients on “Blood Thinners” (2020)](https://pubmed.ncbi.nlm.nih.gov/30880479/).
