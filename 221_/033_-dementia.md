@@ -466,6 +466,37 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 ***
 
 ```mermaid
+flowchart TD
+    A(["인지 기능 저하 호소"]) --> B["급성 발생?<br/>수 시간~수 일"]
+    B -- YES --> C["섬망(Delirium) 우선 배제<br/>원인 탐색: 감염·약물·대사"]
+    B -- NO --> D["<u>우울증 감별</u><br/>PHQ-9/SGDS-K"]
+    D -- 우울 의심 --> E["우울 치료와 <br/>인지평가 병행<br/>치매 병존 가능"]
+    D -- 인지저하 지속 --> F["ADL 저하?"]
+    F -- NO --> G["경도인지장애"]
+    F -- YES --> H["치매 진단 워크업"]
+    H --> I["동반·악화 요인 확인<br/>CBC·CMP·TSH·B12<br/>·homocysteine<br/>± 항콜린제·BZD 검토"]
+    H --> J["<u>영상 검사</u><br/>비조영 MRI 기본<br/>/CT 대체"]
+    I --> K["아형 추정"]
+    J --> K
+    K --> L["<u>알츠하이머병</u><br/>기억 저하 선행, <br/>잠행성"]
+    K --> M["<u>혈관성</u><br/>혈관 위험인자, <br/>계단식"]
+    K --> N["<u>루이소체</u><br/>환시·파킨슨증<br/>·RBD"]
+    K --> O["<u>전측두엽</u><br/>행동·언어 변화 <br/>선행"]
+    L --> P["<u>치료 결정</u><br/>•AD 치매 → ChEI ± memantine<br/>•Aβ+ 조기 AD → lecanemab 적격성 평가 의뢰<br/>•DLB·PDD → ChEI, 항정신병제 회피<br/>•FTD → ChEI 비권고"]
+    M --> P
+    N --> P
+    O --> P
+    P --> Q["추적 관찰 3~6개월<br/>치매안심센터 연계<br/>보호자 교육"]
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class B,D,F,K yellow
+    style H fill:#f96,stroke:#e65100,stroke-width:2px
+    style C fill:#ffebee,stroke:#c62828
+    style E fill:#fff3e0,stroke:#ef6c00
+    style G fill:#e3f2fd,stroke:#1565c0
+    style P fill:#fce4ec,stroke:#880e4f
+    style Q fill:#e8f5e9,stroke:#388e3c
+
 ```
 
 <p align="center"><strong>치매 진단 및 치료 결정 알고리듬</strong></p>
