@@ -2,18 +2,24 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 치매는 기억력뿐 아니라 주의력, 집행 기능, 언어, 학습·기억, 지각-운동 또는 사회인지 중 하나 이상의 인지 영역이 이전보다 저하되어 **독립적인 일상생활 수행을 방해하는 임상 증후군**이다. 원인에 따라 진행성, 계단식 또는 비교적 안정된 경과를 보일 수 있으며, 단일 검사 점수만으로 진단하지 않는다.
-* 대부분 65세 이후 발생하며 연령이 가장 강한 위험인자이다. 65세 미만에서도 발생할 수 있으며 이때는 비전형적·유전성·교정 가능한 원인을 포함한 전문 평가가 중요
-* 유병률 : [보건복지부가 2025년 발표한 2023년 전국 치매역학조사](https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1484959&mid=a10503010100)에서 65세 이상 치매 유병률은 **9.25%**(2016년 9.50%)였다. 조사 정의·연도와 추정방법에 따라 수치가 달라질 수 있으며, 고령화로 환자 절대 수는 계속 증가할 것으로 추정된다.
-* 항아밀로이드 단클론항체 lecanemab은 아밀로이드 병리가 확인된 조기 AD의 진행을 지연시키는 약제로 2024년 5월 국내 허가(건강보험 비급여)되었고, donanemab은 **2026년 9월 현재 국내 허가 심사 중**이다(☞ 약물 치료의 항아밀로이드 단클론항체 참조).
+* 기억력뿐 아니라 주의력, 집행 기능, 언어, 학습·기억, 지각-운동 또는 사회 인지 중 하나 이상의 인지 영역이 이전보다 저하되어 독립적인 일상생활 수행을 방해하는 임상 증후군
+* 원인에 따라 진행성, 계단식 또는 비교적 안정된 경과를 보일 수 있음
+* 대부분 65세 이후 발생하며 연령이 가장 강한 위험인자
+  * 65세 미만에서도 발생할 수 있으며 이때는 비전형적·유전성·교정 가능한 원인을 포함한 평가가 중요
+* 단일 검사 점수만으로 진단하지 않음
+* 유병률 : 65세 이상 - 9.25% \[[2023년 전국 치매역학조사](https://www.mohw.go.kr/board.es?act=view\&bid=0027\&list_no=1484959\&mid=a10503010100)] (2016년 9.50%)
+  * 조사 정의·연도와 추정방법에 따라 수치가 달라질 수 있으며, 고령화로 환자 절대 수의 지속 증가 예상
+* 항아밀로이드 단클론항체 lecanemab은 아밀로이드 병리가 확인된 조기 AD의 진행을 지연시키는 약제로 2024년 5월 국내 허가(건강보험 비급여)되었고, donanemab은 2026년 9월 현재 국내 허가 심사 중
 * 일반적인 증상 완화제는 질병 경과를 변화시키지 못함
 
 ### <mark style="color:orange;">종류</mark>
 
 * 주요 퇴행성 원인 : 알츠하이머병(AD), 루이소체병, 전측두엽퇴행, 파킨슨병 치매
-* 혈관성 인지장애 : 뇌경색·뇌출혈·소혈관질환 등에 의한 인지저하. 이미 발생한 손상이 반드시 가역적인 것은 아니지만 추가 혈관 손상 예방이 중요
-* 잠재적으로 교정 가능한 동반·악화 요인 : 약물·독극물, 우울증, 수면무호흡, Vit B12 결핍, 갑상샘기능 이상, 전해질·대사 이상, 시청각 장애
-* 특정 치료가 가능한 원인 : 정상압수두증, 경막하혈종, 뇌종양 등 구조적 병변, 신경매독·HIV 등 감염. 이러한 원인이 교정되어도 인지기능이 완전히 회복된다고 보장할 수는 없음
+* 혈관성 인지장애 : 뇌경색·뇌출혈·소혈관질환 등에 의한 인지 저하
+  * 추가 혈관 손상 예방이 중요
+* 교정 가능한 동반·악화 요인 : 약물·독극물, 우울증, 수면무호흡, Vit B12 결핍, 갑상선 이상, 전해질·대사 이상, 시청각 장애
+* 특정 치료가 가능한 원인 : 정상압수두증, 경막하혈종, 뇌종양 등 구조적 병변, 신경매독·HIV 등 감염
+  * 이러한 원인이 교정되어도 인지기능이 완전히 회복된다고 보장할 수는 없음
 
 ## <mark style="color:green;">원인 및 기전</mark>
 
@@ -299,7 +305,7 @@ _<mark style="color:$info;">Ref. DETeCD-ADRD \[Alzheimers Dement 2025], Rec. 3</
 * 선별검사일 뿐 치매 확진검사가 아니며, 양성 또는 임상 의심이 지속되면 정보제공자 면담, 기능 평가와 정밀 인지평가를 시행
 
 1. 3단어 등록 : 서로 관련 없는 단어 3개를 듣고 반복하게 함(등록 단계는 채점하지 않음)
-2. 시계 그리기 : 원 안에 숫자를 배치하고 **“11시 10분(11시에서 10분 지난 시각)”**을 표시하게 함
+2. 시계 그리기 : 원 안에 숫자를 배치하고 \*\*“11시 10분(11시에서 10분 지난 시각)”\*\*을 표시하게 함
 3. 지연 회상 : 처음 제시한 단어 3개를 단서 없이 회상하게 함
 4. 채점 : 회상 0\~3점＋정상 시계 2점(비정상 또는 거부 0점)=총 0\~5점
    * ＜3점 : 표준적으로 인지장애 선별 양성, 추가 평가 필요
@@ -308,7 +314,6 @@ _<mark style="color:$info;">Ref. DETeCD-ADRD \[Alzheimers Dement 2025], Rec. 3</
 #### [<mark style="color:$primary;">K-MMSE</mark>](https://www.jkna.org/upload/pdf/200304004.pdf) <mark style="color:$primary;">(Mini-Mental State Examination)</mark>
 
 * 점수 구성 : 시간 지남력 5점, 장소 지남력 5점, 기억 등록 3점, 기억 회상 3점, 주의 집중 및 계산 능력 5점, 언어 능력 8점, 시각 구성 1점(총 30점)
-
 * 총점만으로 정상·치매 또는 중증도를 확정하지 않으며, 검사판에 맞는 연령·교육수준별 국내 규준과 환자의 기저 기능을 적용하여 해석
 * 경증 치매에 민감하지 않고 언어·운동·시각 장애, 연령, 교육수준에 영향을 받으며 천장 효과로 초기 AD 및 전측두엽 치매의 변별력이 낮음
 * 초기 치매가 의심되나 MMSE 점수가 높게 나오는 경우, K-MoCA를 병행하여 집행 기능과 시공간 능력을 재평가할 것 (☞ [경도인지장애](032_-mild-cognitive-impairment-mci.md#k-moca))
@@ -427,7 +432,7 @@ _<mark style="color:$info;">Ref. DETeCD-ADRD \[Alzheimers Dement 2025], Rec. 14,
 * 정상 노화 관련 인지 기능 저하 : 기능 장애는 없으며 일상생활에 심각한 장애를 일으키지는 않는 정도의, 비진행성의 가벼운 기억력 저하, 새로운 정보 습득의 어려움. 적절한 평가 없이 인지·행동 증상을 정상 노화로 돌리지 않음
 * 경도인지장애 : 인지 기능의 감소; 일상생활 능력은 유지됨 (☞ [경도인지장애](032_-mild-cognitive-impairment-mci.md))
 * 섬망 : 불안정, 집중력 변화 (치매의 경우 집중력은 어느 정도 보존됨)
-* **우울증성 인지장애(과거 '가성치매[pseudodementia]'로 표현)** : 우울, 불안, 불면, 의욕저하와 함께 주의·기억·집행 기능 저하가 나타날 수 있음. '가성'이라는 표현과 달리 실제 기능장애가 있으며 별개의 정식 진단명은 아님. 우울과 신경퇴행성 질환은 병존할 수 있으므로 우울 치료 반응만으로 치매를 배제하지 않고 인지·기능 경과를 함께 추적
+* **우울증성 인지장애(과거 '가성치매\[pseudodementia]'로 표현)** : 우울, 불안, 불면, 의욕저하와 함께 주의·기억·집행 기능 저하가 나타날 수 있음. '가성'이라는 표현과 달리 실제 기능장애가 있으며 별개의 정식 진단명은 아님. 우울과 신경퇴행성 질환은 병존할 수 있으므로 우울 치료 반응만으로 치매를 배제하지 않고 인지·기능 경과를 함께 추적
   * 노년기에 새로 생긴 우울·과민·불안·무감동은 AD나 FTLD, 루이소체병의 전구 증상일 수 있음(경도행동장애, mild behavioral impairment). 인지 기능이 정상이어도 정신과 치료와 함께 인지 경과를 추적
 * 약물 기인 : 항콜린제, 항히스타민제, 수면제, 항경련제, 진정제, 아편제, 알코올
 * 시력 저하, 청력 저하, 영양 결핍, 전해질 장애, 뇌종양, 뇌 손상(예: 외상, 감염)
@@ -435,7 +440,16 @@ _<mark style="color:$info;">Ref. DETeCD-ADRD \[Alzheimers Dement 2025], Rec. 14,
 
 #### <mark style="color:$primary;">고령자 인지 장애 감별</mark>
 
-<table><thead><tr><th>상태</th><th>주요 병력</th><th>진찰 소견</th><th>영상·검사 단서</th><th>비고</th></tr></thead><tbody><tr><td>정상 노화</td><td>처리·회상이 느려질 수 있으나 독립적 기능 유지</td><td>특이 소견 없음</td><td>연령 관련 변화 가능</td><td>진행성 기능 저하가 있으면 정상 노화로 보지 않음</td></tr><tr><td>MCI</td><td>객관적 인지저하가 있으나 독립성은 대체로 유지</td><td>원인에 따라 다양</td><td>원인에 따라 다양</td><td>AD로 인한 MCI인지 평가</td></tr><tr><td>AD</td><td>잠행성·점진적 기억저하가 흔함</td><td>초기에는 정상일 수 있음</td><td>내측 측두엽·두정엽 위축, Aβ·tau 바이오마커</td><td>비전형적 언어·시각형도 있음</td></tr><tr><td>혈관성 인지장애</td><td>혈관 위험, 뇌졸중 병력, 계단식 또는 처리속도·집행기능 저하</td><td>국소신경학적 징후 가능</td><td>경색·출혈·백질질환</td><td>AD와 혼합병리 흔함</td></tr><tr><td>DLB/PDD</td><td>인지 변동, 구체적 환시, RBD, 파킨슨증</td><td>경직·서동·자율신경장애</td><td>DAT 영상, MIBG, PSG가 진단을 지지</td><td>임상적으로 1년 규칙 적용</td></tr><tr><td>FTD</td><td>행동·인격 또는 언어 변화가 선행</td><td>전두엽 해제 징후, 운동신경·추체외로 징후 가능</td><td>전두·전측두엽 위축</td><td>초기 기억·시공간 기능이 상대적으로 보존될 수 있음</td></tr><tr><td>RPD</td><td>수 주~수 개월에 빠르게 진행</td><td>원인별 소견; myoclonus 등</td><td>MRI·EEG·CSF 등 긴급 원인평가</td><td>즉시 또는 긴급 전문 평가</td></tr><tr><td>섬망</td><td>급성 발병, 하루 중 변동</td><td>부주의·의식수준 변화</td><td>감염·약물·대사 등 원인 탐색</td><td>치매와 병존 가능</td></tr></tbody></table>
+| 상태       | 주요 병력                              | 진찰 소견                      | 영상·검사 단서                    | 비고                           |
+| -------- | ---------------------------------- | -------------------------- | --------------------------- | ---------------------------- |
+| 정상 노화    | 처리·회상이 느려질 수 있으나 독립적 기능 유지         | 특이 소견 없음                   | 연령 관련 변화 가능                 | 진행성 기능 저하가 있으면 정상 노화로 보지 않음  |
+| MCI      | 객관적 인지저하가 있으나 독립성은 대체로 유지          | 원인에 따라 다양                  | 원인에 따라 다양                   | AD로 인한 MCI인지 평가              |
+| AD       | 잠행성·점진적 기억저하가 흔함                   | 초기에는 정상일 수 있음              | 내측 측두엽·두정엽 위축, Aβ·tau 바이오마커 | 비전형적 언어·시각형도 있음              |
+| 혈관성 인지장애 | 혈관 위험, 뇌졸중 병력, 계단식 또는 처리속도·집행기능 저하 | 국소신경학적 징후 가능               | 경색·출혈·백질질환                  | AD와 혼합병리 흔함                  |
+| DLB/PDD  | 인지 변동, 구체적 환시, RBD, 파킨슨증           | 경직·서동·자율신경장애               | DAT 영상, MIBG, PSG가 진단을 지지   | 임상적으로 1년 규칙 적용               |
+| FTD      | 행동·인격 또는 언어 변화가 선행                 | 전두엽 해제 징후, 운동신경·추체외로 징후 가능 | 전두·전측두엽 위축                  | 초기 기억·시공간 기능이 상대적으로 보존될 수 있음 |
+| RPD      | 수 주\~수 개월에 빠르게 진행                  | 원인별 소견; myoclonus 등        | MRI·EEG·CSF 등 긴급 원인평가       | 즉시 또는 긴급 전문 평가               |
+| 섬망       | 급성 발병, 하루 중 변동                     | 부주의·의식수준 변화                | 감염·약물·대사 등 원인 탐색            | 치매와 병존 가능                    |
 
 _<mark style="color:$info;">MCI=mild cognitive impairment, DLB=dementia with Lewy bodies, PDD=Parkinson disease dementia, RBD=REM sleep behavior disorder, FTD=frontotemporal dementia, RPD=rapidly progressive dementia, DAT=dopamine transporter, MIBG=metaiodobenzylguanidine, PSG=polysomnography. Ref. Ferri's Clinical Advisor 2024, Table 2 참고, 저자 재구성</mark>_
 
@@ -468,48 +482,13 @@ _<mark style="color:$info;">MCI=mild cognitive impairment, DLB=dementia with Lew
 ***
 
 ```mermaid
-flowchart TD
-    A(["인지 기능 저하 호소"]) --> B["급성 발생?\n수 시간~수 일"]
-    B -- YES --> C["🚨 섬망(Delirium) 우선 배제\n원인 탐색: 감염·약물·대사"]
-    B -- NO --> D["우울증 감별\nPHQ-9 / SGDS-K"]
-    D -- 우울 의심 --> E["우울 치료와 인지평가 병행\n치매 병존 가능"]
-    D -- 인지저하 지속 --> F["일상생활 기능(ADL) 저하?"]
-    F -- NO --> G["경도인지장애(MCI)\n☞ 032 챕터 참조"]
-    F -- YES --> H["치매 진단 워크업"]
-    H --> I["동반·악화 요인 확인\nCBC·CMP·TSH·B12·homocysteine\n± 항콜린제·BZD 검토"]
-    H --> J["영상 검사\n비조영 MRI 기본 / CT 대체"]
-    I --> K["아형 추정"]
-    J --> K
-    K --> L["알츠하이머병\n기억 저하 선행, 잠행성"]
-    K --> M["혈관성\n혈관 위험인자, 계단식"]
-    K --> N["루이소체\n환시·파킨슨증·RBD"]
-    K --> O["전측두엽\n행동·언어 변화 선행"]
-    L --> P["치료 결정\nAD 치매 → ChEI ± memantine\nAβ+ 조기 AD → lecanemab 적격성 평가 의뢰\nDLB·PDD → ChEI, 항정신병제 회피\nFTD → ChEI 비권고"]
-    M --> P
-    N --> P
-    O --> P
-    P --> Q(["추적 관찰 3~6개월\n치매안심센터 연계\n보호자 교육"])
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style B fill:#fff9c4,stroke:#ffe082
-    style D fill:#fff9c4,stroke:#ffe082
-    style F fill:#fff9c4,stroke:#ffe082
-    style K fill:#fff9c4,stroke:#ffe082
-    style H fill:#f96,stroke:#e65100,stroke-width:2px
-    style C fill:#ffebee,stroke:#c62828
-    style E fill:#fff3e0,stroke:#ef6c00
-    style G fill:#e3f2fd,stroke:#1565c0
-    style P fill:#fce4ec,stroke:#880e4f
-    style Q fill:#e8f5e9,stroke:#388e3c
 ```
 
-<p align="center"><strong>치매 1차 진료 임상 판단 알고리듬</strong></p>
+<p align="center"><strong>치매 진단 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : DETeCD-ADRD, Alzheimers Dement 2025)</mark></em></p>
 
 ***
-
-<figure><img src="../.gitbook/assets/치매5.JPG" alt="치매 진단 평가 흐름도"><figcaption><p>원문의 AD8은 국내에서 KDSQ(한국판 치매선별질문지)로 대체 가능.<br>Mini-Cog, K-MMSE, K-MoCA는 모든 환자에게 차례로 시행하는 절차가 아니라 상황에 따라 선택하는 도구임 (☞ 본 챕터 '1차 진료용 상황별 인지 기능 검사 가이드 안')</p></figcaption></figure>
 
 ***
 
@@ -697,23 +676,23 @@ _✽ ARIA-E가 허혈성 뇌졸중과 유사하게 나타날 수 있으므로 �
 
 ## <mark style="color:red;">질병코드</mark>
 
-F00* 알츠하이머병에서의 치매 Dementia in Alzheimer disease (G30†와 함께 코딩)
+F00\* 알츠하이머병에서의 치매 Dementia in Alzheimer disease (G30†와 함께 코딩)
 
-F00.0* 조기발병 알츠하이머병에서의 치매 Dementia in Alzheimer disease with early onset
+F00.0\* 조기발병 알츠하이머병에서의 치매 Dementia in Alzheimer disease with early onset
 
-F00.1* 만기발병 알츠하이머병에서의 치매 Dementia in Alzheimer disease with late onset
+F00.1\* 만기발병 알츠하이머병에서의 치매 Dementia in Alzheimer disease with late onset
 
-F00.2* 비정형 또는 혼합형 알츠하이머병에서의 치매 Dementia in Alzheimer disease, atypical or mixed type
+F00.2\* 비정형 또는 혼합형 알츠하이머병에서의 치매 Dementia in Alzheimer disease, atypical or mixed type
 
 F01 혈관성 치매 Vascular dementia
 
 F02 달리 분류된 기타 질환에서의 치매 Dementia in other diseases classified elsewhere
 
-F02.0* 피크병에서의 치매 Dementia in Pick disease (G31.00†와 함께 코딩; 모든 FTD를 일률적으로 이 코드로 분류하지 않음)
+F02.0\* 피크병에서의 치매 Dementia in Pick disease (G31.00†와 함께 코딩; 모든 FTD를 일률적으로 이 코드로 분류하지 않음)
 
-F02.3* 파킨슨병에서의 치매 Dementia in Parkinson disease (G20†와 함께 코딩)
+F02.3\* 파킨슨병에서의 치매 Dementia in Parkinson disease (G20†와 함께 코딩)
 
-F02.8* 달리 분류된 기타 명시된 질환에서의 치매 Dementia in other specified diseases classified elsewhere (루이소체치매 등)
+F02.8\* 달리 분류된 기타 명시된 질환에서의 치매 Dementia in other specified diseases classified elsewhere (루이소체치매 등)
 
 F03 상세불명의 치매 Unspecified dementia
 
@@ -723,7 +702,7 @@ G30† 알츠하이머병 Alzheimer disease
 
 G31.00† 피크병 Pick disease
 
-G31.82† 루이소체치매 (F02.8*와 함께 코딩)
+G31.82† 루이소체치매 (F02.8\*와 함께 코딩)
 
 _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시하는 별표·검표 코드는 실제 진단과 최신 KCD 지침에 따라 적용.</mark>_
 
