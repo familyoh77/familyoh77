@@ -155,7 +155,7 @@ D. 이 장애는 뇌혈관 질환, 다른 신경퇴행성 질환, substance의 �
 
 <table><thead><tr><th width="80">단계</th><th width="110">검사</th><th width="220">주요 지표</th><th>임상적 역할</th></tr></thead><tbody><tr><td>1단계</td><td><strong>혈액</strong></td><td>p-tau217(또는 %p-tau217), p-tau181, Aβ42/40 비</td><td>전문 진료의 객관적 인지장애 환자 대상 [Alzheimers Dement 2025]. 분류(triage) 검사: 민감도 ≥90%·특이도 ≥75%; 음성이면 AD 병리 가능성이 낮고 양성이면 PET·CSF 확인 필요. 확인(confirmatory) 검사: 민감도·특이도 모두 ≥90%일 때 PET·CSF 대체 가능. 무증상 선별용 아님</td></tr><tr><td>2단계</td><td><strong>CSF</strong></td><td>Aβ42/40 비, p-tau181/Aβ42 비 (total tau)</td><td>AD 병리 확인; 침습적이나 PET 대비 저비용</td></tr><tr><td>3단계</td><td><strong>Amyloid PET</strong></td><td>뇌 아밀로이드 침착 직접 시각화</td><td>AD 병리 확인; 항아밀로이드 치료 적격성 평가</td></tr></tbody></table>
 
-_<mark style="color:$info;">✽FDA 승인 혈액 검사 : Lumipulse G pTau217/β-amyloid 1-42 plasma ratio(2025년 5월, 전문 진료 환경의 보조 검사), Elecsys pTau181(2025년 10월, 1차 진료에서 아밀로이드 병리 배제 보조, 음성예측도 97.9%), Elecsys pTau217(2026년 8월, 1차·전문 진료에서 동일 절단값으로 포함·배제 평가). 모두 55세 이상 인지저하 증상 환자가 대상이며 단독 확진·무증상 선별용이 아님. 2025 AA 진료지침은 전문 진료 환경의 인지장애 환자에 한해 사용을 권고하며, 상용 검사 상당수가 권고 성능 기준에 미달함. 국내에서는 Elecsys pTau181이 식약처 허가 심사 중(2026년 6월 기준)이며, 검사실별 분석법·검증 상태와 가용 여부를 확인</mark>_
+_<mark style="color:$info;">✽FDA 허가 혈액 검사(2026년 9월 기준 4종) : Lumipulse G pTau217/β-amyloid 1-42 plasma ratio(2025년 5월, 55세 이상, 전문 진료 환경의 보조 검사), Elecsys pTau181(2025년 10월, 55세 이상, 1차 진료에서 아밀로이드 병리 배제 보조, 음성예측도 97.9%), PrecivityAD2(2026년 8월, 40세 이상, 질량분석 기반 다중 비율, 인지장애 평가 경험이 있는 의료진이 사용), Elecsys pTau217(2026년 8월, 55세 이상, 1차·전문 진료에서 동일 절단값으로 포함·배제 평가). 모두 인지저하 증상 환자가 대상이며 단독 확진·무증상 선별용이 아님. 결과 구간 체계는 검사별로 다르며(양성·중간·음성 3구간 또는 배제 중심 판정), 중간 결과나 임상상과 불일치하는 결과는 PET·CSF로 추가 평가. 성능은 대상군의 유병률과 신기능(만성콩팥병에서 p-tau 수치 상승 가능)에 따라 달라질 수 있음. 2025 AA 진료지침은 전문 진료 환경의 인지장애 환자에 한해 사용을 권고하며, 상용 검사 상당수가 권고 성능 기준에 미달함. 국내에서는 Elecsys pTau181이 식약처 허가 심사 중(2026년 6월 기준)이며, 검사실별 분석법·검증 상태와 가용 여부를 확인</mark>_
 
 #### <mark style="color:$primary;">NINCDS-ADRDA 진단 기준</mark>
 
@@ -410,7 +410,7 @@ _<mark style="color:$info;">Ref. DETeCD-ADRD \[Alzheimers Dement 2025], Rec. 9</
 * 영상 : AD 환자의 뇌에서 증가한 Aβ(amyloid)와 tau 단백질을 PET으로 촬영
 * 뇌척수액 : 뇌의 신경 퇴화가 진행됨에 따라 뇌에 Aβ가 축적되고 amyloid plaque가 형성되는 한편 CSF에서는 Aβ가 감소함; 뇌신경세포 사멸에 따라 세포 밖으로 흘러나온 tau 단백질이 CSF에서 증가함
 * 혈액 바이오마커 : 임상 활용이 확대 중이나 검사법별 성능·절단점과 적용 대상이 다름
-  * FDA 승인 검사 : Lumipulse pTau217/Aβ42 비(2025), Elecsys pTau181(2025, 1차 진료 배제 보조), Elecsys pTau217(2026, 포함·배제 평가) - AD 바이오마커 계층 표의 주석 참조
+  * FDA 허가 검사 : Lumipulse pTau217/Aβ42 비(2025), Elecsys pTau181(2025, 1차 진료 배제 보조), PrecivityAD2(2026, 40세 이상), Elecsys pTau217(2026, 포함·배제 평가) - AD 바이오마커 계층 표의 주석 참조
   * neurofilament light chain(NfL), GFAP 등은 AD 특이적이지 않은 보조 마커로 연구 중
   * 혈액검사 결과만으로 치매를 진단하거나 항아밀로이드 치료를 결정하지 않으며 임상상과 함께 해석. 국내 lecanemab 치료 전에는 amyloid PET 또는 CSF 검사로 Aβ 병리를 확인
 
@@ -695,7 +695,7 @@ _✽ ARIA-E가 허혈성 뇌졸중과 유사하게 나타날 수 있으므로 �
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 F00* 알츠하이머병에서의 치매 Dementia in Alzheimer disease (G30†와 함께 코딩)
 
