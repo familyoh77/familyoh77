@@ -43,13 +43,14 @@
 * 급성으로 발생한 심한 단관절 통증·종창·열감/발적, 현저한 수동 ROM 제한 또는 체중 부하 불가 → **발열 유무와 무관하게 septic arthritis 우선 배제**; 고령, 면역저하, 당뇨, 최근 관절주사/수술, 인공관절, 균혈증 위험이 있으면 의심 역치를 낮춤
 * 급성 단측 하지 부종·통증과 함께 청색증·심한 부종(phlegmasia) 또는 흉통·호흡곤란 등 폐색전증 시사 소견 동반 → 즉각 응급 평가
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 급성 외상 후 뚜렷한 관절 불안정성(인대 완전 파열 의심)
 * Ottawa knee rule 양성 소견(골절 배제를 위한 영상 검사 필요)
-* 소아·청소년의 외상 후 관절 통증 - Salter-Harris physeal fracture 배제 필요
+* 소아·청소년의 외상 후 관절 통증 - Salter-Harris 성장판 골절 배제 필요(당일 평가)
+* 청소년의 파행·무릎 통증과 고관절 내회전 제한, 특히 체중부하 곤란 → 대퇴골두 골단분리증(SCFE) 의심; 체중부하를 제한하고 당일 정형외과 평가
 * 급속히 진행하는 큰 관절 혈종(hemarthrosis) - ACL 손상, 슬개골 탈구, 경골 고평부 골절 의심
-* 급성 단측 하지 또는 종아리 부종·통증·열감/발적, DVT 위험 인자 동반(phlegmasia·폐색전증 시사 소견은 없음) → 심부정맥혈전증 의심; Wells score 저위험군은 D-dimer 음성으로 배제 가능하나, 중등도 이상 위험군에서는 D-dimer 단독으로 배제하지 않고 압박초음파 시행; Baker cyst 파열과 감별
+* 급성 단측 하지 또는 종아리 부종·통증·열감/발적, DVT 위험 인자 동반(phlegmasia·폐색전증 시사 소견은 없음) → 심부정맥혈전증 의심(당일 평가); **2단계 DVT Wells score**에서 ≤1점(DVT unlikely)은 D-dimer 검사, ≥2점(DVT likely)은 압박초음파를 우선 고려; Baker cyst 파열과 감별
 * 외상 후 지속적으로 완전 신전이 되지 않는 true locked knee(displaced meniscal tear·관절 유리체 등 의심) - 통증으로 인해 일시적으로 움직이지 못하는 pseudolocking과 감별 필요 → 조기 정형외과 평가
 * 야간통·체중 감소 등 전신 증상을 동반한 지속적 통증 → 종양 의심
 
@@ -76,7 +77,7 @@
 * 능동/수동 ROM 및 관절선(joint line) 압통 촉진
 * Straight-leg raise 및 extensor mechanism 평가 : 시행 불가 시 quadriceps/patellar tendon 파열, 슬개골 골절 등 extensor mechanism disruption 의심
 * 원위부 맥박·감각 등 신경혈관 상태 확인
-* 고관절 ROM 및 서혜부 압통 : 고관절 연관통 감별을 위해 항상 함께 평가
+* 고관절 ROM 및 서혜부 압통 : 고관절 연관통 감별을 위해 항상 함께 평가. 소아·청소년의 파행·무릎 통증에서는 고관절 내회전 제한을 확인하여 대퇴골두 골단분리증(SCFE) 등을 놓치지 않음
 * 필요 시 발목·요추 진찰 병행
 
 이후 아래의 유발 검사(provocative test)로 세부 진단을 좁혀나감.
@@ -164,18 +165,18 @@
 
 #### <mark style="color:$primary;">The Ottawa knee rule</mark>
 
-* 무릎의 급성 손상 후 다음 중 하나 이상에 해당하면 골절 배제를 위해 영상 검사 시행(민감도 약 98\~100%, 특이도 약 30\~50%)
+* 무릎의 급성 손상 후 다음 중 하나 이상에 해당하면 골절 평가를 위해 단순방사선촬영을 시행(성인 연구의 통합 민감도 약 98\~99%, 특이도 약 40\~50%). **골절 영상 촬영의 결정 규칙이며 인대·반월연골 손상을 배제하는 규칙은 아님.** 소아는 5세 이상에서 적용 가능성이 연구되었으나, 성장판 손상 의심 시 음성이어도 별도 평가
   1. ≥55세
   2. patella의 isolated tenderness(무릎 다른 부위의 골 압통은 없음)
   3. fibula head의 tenderness
   4. 90° 무릎 굽힘 불가능
-  5. 체중 부하(수상 현장과 응급실에서 각각 4걸음 보행) 불가능
+  5. 체중 부하(수상 직후와 진료 시 각각 4걸음 보행) 불가능
 
 <div align="left"><figure><img src="../.gitbook/assets/무릎1.png" alt=""><figcaption></figcaption></figure></div>
 
 <p align="center"><strong>The Ottawa knee rule</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Stiell IG, et al. Use of radiography in acute knee injuries: need for clinical decision rules. Acad Emerg Med. 1995;2(11).</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Stiell IG, et al. Derivation of a decision rule for the use of radiography in acute knee injuries. Ann Emerg Med. 1995;26:405–413. / Bachmann LM, et al. Accuracy of Ottawa knee rule to rule out knee fractures: a systematic review. Ann Intern Med. 2004;140:121–124.</mark></em></p>
 
 ### <mark style="color:orange;">감별 진단</mark>
 
@@ -222,9 +223,9 @@
 
 #### <mark style="color:$primary;">질환별 특징</mark>
 
-<table><thead><tr><th width="180">질환</th><th width="230">병력</th><th width="260">신체검사</th><th>실험실 검사</th></tr></thead><tbody><tr><td>만성 염증성 관절염(예: RA)</td><td>지속적인 조조강직(흔히 30~60분 이상) 및 다관절성 염증 증상</td><td>여러 관절의 부종 또는 압통(다관절성)</td><td>ESR/CRP 상승, RF/anti-CCP 양성 가능</td></tr><tr><td>통풍 또는 가성통풍</td><td>급성 발생, 호발 관절(제1중족지, 무릎 등) 침범 과거력</td><td>관절의 심한 부종·발적·압통</td><td>관절액 결정 확인(요산나트륨/CPPD), 백혈구 증가</td></tr><tr><td>고관절염(연관통)</td><td>고관절 회전 시 무릎으로 방사되는 통증</td><td>고관절 회전 시 통증, 서혜부 압통</td><td>-</td></tr><tr><td>PFPS</td><td>상대적으로 젊은 나이, squatting·계단·오래 앉기 등에서 악화되는 retropatellar/peripatellar pain</td><td>슬개대퇴 관절 위 압통</td><td>-</td></tr><tr><td>Anserine bursitis</td><td>-</td><td>관절선보다 원위부인 관절선 하방 2~5 cm 근위 경골 내측 압통(관절선 자체의 압통과 감별)</td><td>-</td></tr><tr><td>Trochanteric bursitis</td><td>엉덩이 외측 통증</td><td>대퇴골 대전자 부위 압통</td><td>-</td></tr><tr><td>Iliotibial band syndrome</td><td>-</td><td>장경인대 부위 압통, Ober test 양성</td><td>-</td></tr><tr><td>골 병변(종양, 골수염 등)</td><td>야간통 또는 지속적 통증, 체중 감소 등 전신 증상 동반 가능</td><td>국소 압통, 종괴 촉지 가능</td><td>ESR/CRP 상승 가능, 영상 검사상 이상 소견</td></tr><tr><td>Meniscal tear</td><td>물리적 증상 우세(knee buckling 또는 locking)</td><td>무릎 관절선 압통, McMurray test 양성</td><td>MRI에서 반월연골 손상 소견</td></tr><tr><td>ACL tear</td><td>급격한 감속·착지·회전·직접 충격; 손상 당시 "펑" 소리</td><td>Lachman test 양성(가장 민감), anterior drawer test·pivot shift test 양성</td><td>MRI에서 전방십자인대 손상 소견</td></tr></tbody></table>
+<table><thead><tr><th width="180">질환</th><th width="230">병력</th><th width="260">신체검사</th><th>실험실 검사</th></tr></thead><tbody><tr><td>만성 염증성 관절염(예: RA)</td><td>지속적인 조조강직(흔히 30~60분 이상) 및 다관절성 염증 증상</td><td>여러 관절의 부종 또는 압통(다관절성)</td><td>ESR/CRP 상승, RF/anti-CCP 양성 가능</td></tr><tr><td>통풍 또는 가성통풍</td><td>급성 발생, 호발 관절(제1중족지, 무릎 등) 침범 과거력</td><td>관절의 심한 부종·발적·압통</td><td>관절액 결정 확인(요산나트륨/CPPD), 백혈구 증가</td></tr><tr><td>고관절염(연관통)</td><td>고관절 회전 시 무릎으로 방사되는 통증</td><td>고관절 회전 시 통증, 서혜부 압통</td><td>-</td></tr><tr><td>PFPS</td><td>상대적으로 젊은 나이, squatting·계단·오래 앉기 등에서 악화되는 retropatellar/peripatellar pain</td><td>슬개대퇴 관절 위 압통</td><td>-</td></tr><tr><td>Anserine bursitis</td><td>-</td><td>관절선보다 원위부인 관절선 하방 2~5 cm 근위 경골 내측 압통(관절선 자체의 압통과 감별)</td><td>-</td></tr><tr><td>Iliotibial band syndrome</td><td>달리기 등 반복적인 무릎 굴곡·신전 시 외측 통증</td><td>대퇴골 외측상과 주위 국소 압통; Ober test는 장경인대/TFL 긴장의 보조 소견</td><td>-</td></tr><tr><td>골 병변(종양, 골수염 등)</td><td>야간통 또는 지속적 통증, 체중 감소 등 전신 증상 동반 가능</td><td>국소 압통, 종괴 촉지 가능</td><td>ESR/CRP 상승 가능, 영상 검사상 이상 소견</td></tr><tr><td>Meniscal tear</td><td>물리적 증상 우세(knee buckling 또는 locking)</td><td>무릎 관절선 압통, McMurray test 양성</td><td>MRI에서 반월연골 손상 소견</td></tr><tr><td>ACL tear</td><td>급격한 감속·착지·회전·직접 충격; 손상 당시 "펑" 소리</td><td>Lachman test 양성(가장 민감), anterior drawer test·pivot shift test 양성</td><td>MRI에서 전방십자인대 손상 소견</td></tr></tbody></table>
 
-_<mark style="color:$info;">Ref. Felson DT. Clinical practice. Osteoarthritis of the knee. N Engl J Med 2006;354:841-8.</mark>_
+_<mark style="color:$info;">Ref. 질환별 전형적 병력·진찰 소견을 종합하여 재구성. OA 항목 참고: Felson DT. Osteoarthritis of the knee. N Engl J Med. 2006;354:841–848.</mark>_
 
 {% hint style="info" %}
 **ACL tear - 대표적 급성 무릎 손상의 예**\
@@ -236,28 +237,28 @@ _<mark style="color:$info;">Ref. Felson DT. Clinical practice. Osteoarthritis of
 ```mermaid
 graph TD
     A([무릎 통증 환자]) --> B{급성 외상력?}
-    B -->|Yes| C{Red Flag 있음?}
+    B -->|Yes| C{응급 Red Flag?}
     C -->|Yes| D[즉시 응급 평가/의뢰]
     C -->|No| E{Ottawa knee rule 양성?}
     E -->|Yes| F[X-ray 시행]
-    E -->|No| G[보존적 치료 + 재평가]
+    E -->|No| J{중요 내부 손상 징후?}
     F --> H{골절/탈구?}
     H -->|Yes| I[정형외과 의뢰]
-    H -->|No| J{뚜렷한 불안정성·locked knee 등<br/>중요 내부 손상 의심?}
-    J -->|Yes| K[치료 방침 변경 시 MRI 고려<br/>정형외과 의뢰]
-    J -->|No| G
-    B -->|No| L{급성 비외상성<br/>단관절염/관절 삼출?}
-    L -->|Yes| M{Septic arthritis<br/>의심되는가?}
+    H -->|No| J
+    J -->|Yes: true locked knee·신전기전 파열·큰 혈관절증·불안정성| K[신속 정형외과 평가<br/>방침 변경 시 MRI]
+    J -->|No| G[보존적 치료 + 재평가]
+    B -->|No| L{급성 단관절염/관절 삼출?}
+    L -->|Yes| M{감염성 관절염 의심?}
     M -->|Yes| O[발열 유무와 무관하게<br/>신속 관절천자 + 감염 평가]
     M -->|No| P[통풍/CPPD 등 감별<br/>필요 시 관절천자]
-    L -->|No| N[잠행성 통증: OA/PFPS/tendinopathy 등<br/>병력·이학적 검사로 감별]
+    L -->|No| N[잠행성 통증: OA/PFPS/tendinopathy 등<br/>병력·진찰로 감별]
     style D fill:#f96,stroke:#e65100,stroke-width:2px
     style O fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
 <p align="center"><strong>무릎 통증 초기 평가 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Ottawa knee rule(Stiell IG, et al. Acad Emerg Med 1995) 및 표준 무릎 통증 평가 원칙을 종합함</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Stiell IG, et al. Ann Emerg Med. 1995;26:405–413; AAOS Management of Acute Isolated Meniscal Pathology(2024); 표준 무릎 통증 평가 원칙을 종합함</mark></em></p>
 
 ***
 
@@ -269,14 +270,16 @@ graph TD
   ✽냉찜질은 통증·부종의 단기 완화 목적으로 필요 시 1회 15\~20분 시행할 수 있으나 조직 치유 자체에 대한 근거는 확립되어 있지 않으며, 과도한 안정보다 조기 활동 복귀·점진적 부하가 강조됨
 * 만성 통증에 대한 약물 투여 시 장기 투여에 따른 부작용을 감안
 * 척추, 고관절, 발의 문제가 동반된 경우 함께 치료
-* 테이핑, IMS, 도수치료, 침, 마사지, 레이저치료, 체외충격파치료 : 질환별로 근거 수준이 상이하며(예: 체외충격파치료는 patellar tendinopathy에서 근거가 상대적으로 더 확립됨), 특정 적응증에서 보조적으로 고려
+* 테이핑, IMS, 도수치료, 침, 마사지, 레이저치료, 체외충격파치료 : 질환별로 근거 수준이 다르고 일부는 추가 이득이 불확실하므로, 원인 질환의 운동·재활 치료를 우선한 뒤 선택적으로 고려. 특히 슬개건병증에서 체외충격파치료의 운동 치료 대비 추가 효과는 확립되지 않음
 
 ***
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 환자 교육 및 self-management 지원 - 질환 경과와 치료 목표에 대한 이해를 높임
-* 규칙적인 운동 및 근력 강화 : OA 비약물 치료의 핵심 축[ACR/AF 2019, AAOS 2021]; 지나친 운동은 피하며 스트레칭, 요가, 필라테스, 수중운동 등 유연성·균형 운동 병행
+* 규칙적인 운동 및 근력 강화 : OA 비약물 치료의 핵심 축[ACR/AF 2019, AAOS 2021]; 유산소·근력 운동을 증상에 맞게 조정하고 유연성·균형 운동을 병행
+* 슬개대퇴통증(PFPS) : 교육과 무릎·고관절 중심의 운동 치료를 우선하고, 테이핑·보조기 등은 필요에 따라 보조적으로 사용
+* 슬개건병증(patellar tendinopathy) : 점프 등 유발 부하를 조절하면서 점진적 저항운동을 시행; 수동적 처치만으로 대체하지 않음
 * 과체중·비만인 경우 체중 감량 : 5\~10% 이상 감량 시 통증·기능에 유의한 호전 보고(IDEA trial, JAMA 2013)
 * bracing(안정이 필요한 경우), 지팡이 사용 - 통증·기능 개선에 도움 [AAOS 2021]
 * 생활 환경 조절 : 높은 의자, 변기 좌석 높이기 사용
@@ -289,12 +292,12 @@ _✽아래 용량은 대표적 예시이며, 실제 처방은 환자의 연령·
 
 ### <mark style="color:orange;">경구제</mark>
 
-* acetaminophen : 650\~1,000 ㎎ tid prn <mark style="color:blue;">\[타이레놀]</mark> - knee OA에서는 일반적으로 최대 3,000 ㎎/day; 간질환·과음·고령 등에서는 더 낮은 용량 고려; 8시간 지속형 서방정 사용 시 <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark> 650 ㎎/T 2T q8h(24시간 6T 초과 금지) 용법을 따름(2018년 허가사항 개정으로 제품명에 '8시간' 표기가 추가됨)
+* acetaminophen : 통증에 따라 650\~1,000 ㎎ tid prn <mark style="color:blue;">\[타이레놀]</mark> - knee OA에서 반복 사용 시 일반적으로 3,000 ㎎/day 이내를 보수적 목표로 고려하며 간질환·과음·고령 등에서는 더 낮게 조정. <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark>의 허가 용법은 650 ㎎/T 2T q8h, 24시간 최대 6T(3,900 ㎎)로 **허가상 상한과 OA 반복 사용의 보수적 목표 용량을 구분**함; 서방정은 쪼개거나 씹지 않음
 * ibuprofen : 200\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * naproxen : 250 ㎎ tid\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
 * celecoxib : OA에 적용, 상대적으로 적은 GI 부작용; 200 ㎎ qd <mark style="color:blue;">\[쎄레브렉스]</mark>
 * tramadol 또는 opioid : 급성 근골격계 손상의 일상적 1차 치료로 권고하지 않음; NSAID·acetaminophen 등에 비해 추가 이득이 제한적이고 부작용·의존 및 지속 사용 위험이 있어, 중증 외상성 통증 등 선택된 경우에만 단기간 고려 [ACP/AAFP 2020]
-* clematis 추출물(SKI306X) : 일부 OA, RA에서 증상 완화 효과; 200 ㎎ tid <mark style="color:blue;">\[조인스]</mark>
+* 위령선·괄루근·하고초 복합추출물(SKI306X) : OA, RA에서 증상 완화에 사용; 조인스정 200 ㎎ 1T tid <mark style="color:blue;">\[조인스정]</mark>
 
 {% hint style="info" %}
 **보조 요법(강황, 생강 추출물, glucosamine, chondroitin, Vit D)**\
@@ -311,9 +314,9 @@ _✽아래 용량은 대표적 예시이며, 실제 처방은 환자의 연령·
 (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&sno=1\&mtgMtrRegSno=0031))
 
 * knee OA에서는 전신 노출과 부작용을 줄이기 위해 국소 NSAID를 경구 NSAID보다 우선 고려할 수 있음 [AAOS 2021, ACR/AF 2019]. 다만 근거는 제형·성분에 따라 차이가 있으므로 국내 파스형 제제를 diclofenac gel 등의 근거와 완전히 동일하게 일반화하지 않음
-* ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark>
+* ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark> - 외용제의 광과민 반응에 주의하고 부착·도포 부위의 햇빛 노출을 치료 중 및 중단 후 2주간 피하도록 안내
 * piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark>
-* capsaicin : 감각 신경 말단의 탈감작 효과; 효과 발현까지 2주 이상 소요; 초기에 심한 작열감·발적 부작용; 0.075% cream qid <mark style="color:blue;">\[다이악센]</mark>
+* capsaicin : 감각 신경 말단의 탈감작 효과; 효과 발현까지 2주 이상 소요; 초기에 심한 작열감·발적 부작용; 0.075% cream 1일 3~4회(간격 ≥4시간) <mark style="color:blue;">\[다이악센크림]</mark>
 
 ***
 
@@ -321,11 +324,11 @@ _✽아래 용량은 대표적 예시이며, 실제 처방은 환자의 연령·
 
 (☞ [골관절염](135_-osteoarthritis-oa.md#undefined-32))
 
-* steroid 관절 내 주사 : 단기 통증 완화 효과. 반복 주사의 적정 횟수에 대한 확립된 근거는 없으며 잦은 장기 반복은 피함. 이 책에서는 **보수적 실무 기준으로 동일 관절 연 2회 이내**를 원칙으로 제시하되, 가이드라인에서 정한 절대적 상한은 아님 <mark style="color:blue;">\[트리암시놀론]</mark>
+* steroid 관절 내 주사 : 감염성 관절염 의심 시에는 주사하지 않고 관절액 검사 등으로 우선 평가. OA에서 단기 통증 완화 효과. 반복 주사의 적정 횟수에 대한 확립된 근거는 없으며 잦은 장기 반복은 피함. 이 책에서는 **보수적 실무 기준으로 동일 관절 연 2회 이내**를 원칙으로 제시하되, 가이드라인에서 정한 절대적 상한은 아님 <mark style="color:blue;">\[트리암시놀론]</mark>
 * hyaluronic acid(HA) 관절 내 주사(viscosupplementation) : OA에서 통증 감소·기능 향상 보고가 있으나, knee OA 환자에서의 일률적 사용은 권고하지 않음 [AAOS 2021]; ACR/AF(2019)도 사용에 조건부 반대 - **표준 1차 치료로 확립된 것은 아니므로 개별 상담 후 선택** <mark style="color:blue;">\[히루안 플러스]</mark>(1회/주 ×3주), <mark style="color:blue;">\[시노비안 주]</mark>
 * polynucleotide(PN) 관절 내 주사 : Kellgren-Lawrence grade I\~III의 슬관절 골관절염에 사용. 급여 인정 횟수, 타 관절강내 주사제·치료재료와의 동시 투여 제한 및 본인부담률은 관련 고시의 집행정지 등으로 변경될 수 있으므로 **처방 시 최신 HIRA 급여기준 확인** <mark style="color:blue;">\[콘쥬란]</mark>
 * platelet-rich plasma(PRP) 관절 내 주사 : symptomatic knee OA에서 통증·기능 개선에 도움이 될 수 있으나 제제(leukocyte-rich vs -poor)·제조법과 연구 간 이질성이 큼. **AAOS 2021은 제한적 근거(Limited recommendation)로 긍정적 권고**를 제시하나, ACR/AF 2019는 표준화 부족 등을 이유로 강하게 반대하여 가이드라인 간 견해가 상이함 - **표준 치료가 아니므로 시행 전 개별 상담 필요**
-* botulinum toxin A 연조직 내 주사 : 일부 PFPS에서 유효 보고
+* botulinum toxin A 연조직 내 주사 : 일부 PFPS 연구에서 효과가 보고되었으나 근거가 제한적이며 표준 치료로 권고하지 않음; 운동 치료가 우선
 
 ### <mark style="color:orange;">무릎 OA 약물·시술에 대한 주요 가이드라인 권고 비교</mark>
 
@@ -354,26 +357,25 @@ S83 무릎의 관절 및 인대의 탈구, 염좌 및 긴장
 > **처방례 1. 급성 경도 손상(타박·염좌, 불안정 소견 없음)**
 >
 > ```
-> 타이레놀8시간이알서방정 650 ㎎/T  2T  q8h (24시간 내 6T 초과 금지)
+> 타이레놀8시간이알서방정 650 ㎎/T  2T  q8h prn (이 처방례에서는 24시간 내 최대 4T)
 > 케토톱 엘 플라스타 7매/포  1일 1회 부착
 > ```
 >
-> _✽초기 통증 유발 활동을 줄이고 필요 시 냉찜질·압박·거상을 병행하되 장기간 완전 안정은 피함; 48\~72시간 후에도 부종·통증이 지속되거나 관절 불안정 소견이 있으면 재평가_
+> _✽이 처방례의 1일 최대 4T는 2,600 ㎎으로, 제품 허가상 최대 6T/일(3,900 ㎎)과 구분한 보수적 처방 예시. 초기 통증 유발 활동을 줄이고 필요 시 냉찜질·압박·거상을 병행하되 장기간 완전 안정은 피함; 48\~72시간 후에도 부종·통증이 지속되거나 관절 불안정 소견이 있으면 재평가_
 
 > **처방례 2. 급성 중등도\~중증 손상(관절 삼출·불안정 의심)**
 >
 > ```
-> 부루펜 400 ㎎/T  1T  tid  pc
-> 케토톱 엘 플라스타 7매/포  1일 1회 부착
+> 부루펜 400 ㎎/T  1T  tid  pc  (단기간)
 > ```
 >
-> _✽큰 관절 삼출, 뚜렷한 불안정성 또는 수술적 치료가 필요한 인대·반월연골 손상이 의심되고 검사 결과가 치료 방침을 바꿀 경우 MRI 및 정형외과 의뢰를 고려; tramadol/opioid는 효과 대비 위해·의존 및 지속 사용 위험 때문에 일상적 1차 치료로 권고하지 않음_
+> _✽큰 관절 혈종, 뚜렷한 불안정성, 신전기전 파열 또는 true locked knee가 의심되면 진통제 처방과 별도로 조기 정형외과 평가. 검사 결과가 치료 방침을 바꿀 경우 MRI 고려. 경구 NSAID와 국소 NSAID의 병용을 일률적으로 처방하지 않음; tramadol/opioid는 일상적 1차 치료로 권고하지 않음_
 
 > **처방례 3. 만성 슬관절염(OA), 경도\~중등도 - 국소 치료 우선**
 >
 > ```
 > 케토톱 엘 플라스타 7매/포  1일 1회 부착
-> 조인스 2T  #2 (효과가 있는 경우 유지)
+> 조인스정 200 ㎎/T  1T  tid  (효과가 있는 경우 유지)
 > ```
 >
 > _✽전신 부작용을 줄이고자 하는 경우 국소 NSAID를 우선 고려[AAOS 2021, ACR/AF 2019]. 다만 국소 NSAID의 근거는 성분·제형에 따라 차이가 있으며, clematis 추출물은 반응이 있는 환자에서만 유지_
@@ -390,10 +392,9 @@ S83 무릎의 관절 및 인대의 탈구, 염좌 및 긴장
 >
 > ```
 > 콜킨 0.6 ㎎/T  2T  즉시 복용 후 1시간 뒤 1T 추가
-> 마지막 복용 후 12시간 경과 뒤부터 0.6 ㎎  qd\~bid  증상 호전 시까지
 > ```
 >
-> _✽저용량 colchicine 요법(로딩 총 1.8 ㎎ → 마지막 복용 12시간 후부터 유지 용량 재개; FDA 라벨 기준). NSAID 또는 단기 경구 스테로이드도 동등한 1차 대안임[ACR 2020]. 신기능 저하 시 용량 조절 및 강한 CYP3A4/P-gp 억제제(클래리스로마이신 등)와 병용 주의. 진단 확진을 위해 가능하면 관절천자로 요산나트륨 결정 확인 권고; 재발성이거나 진단이 불확실하면 류마티스내과 의뢰_
+> _✽발작 초기 총 1.8 ㎎의 저용량 colchicine 요법(콜킨정 국내 허가 용법). ‘12시간 후 예방 용량 재개’는 이미 예방 목적으로 복용 중인 환자에게 해당하며 초발 환자의 일률적 유지 처방이 아님. 이후 항염증 치료는 증상·동반질환에 따라 개별화하며 NSAID 또는 단기 글루코코르티코이드도 대안[ACR 2020]. 신기능 저하 및 강력한 CYP3A4/P-gp 억제제(예: 클래리스로마이신) 병용에 주의. 초발·진단 불확실·감염 의심 시 관절천자로 결정 및 감염을 평가하며, 결정이 확인되어도 동시 감염은 배제되지 않음_
 
 ***
 
@@ -401,9 +402,9 @@ S83 무릎의 관절 및 인대의 탈구, 염좌 및 긴장
 
 > **NSAID(경구/국소) 사용 원칙**
 >
-> * 최소 유효 용량을 최단 기간 사용; 위장관·신장·심혈관 위험 인자가 있는 환자는 celecoxib 또는 국소 NSAID를 우선 고려
+> * 최소 유효 용량을 최단 기간 사용; 위장관·신장·심혈관 위험과 병용약을 각각 평가. 국소 NSAID를 우선 고려할 수 있으나 경구제와의 병용은 자동으로 하지 않음; 위장관 위험이 높아 경구 NSAID가 필요하면 위장보호 전략을 함께 검토
 > * 골유합이 중요한 환자에서는 불필요한 고용량·장기간 사용을 피함; 단기간 사용이 임상적 골유합 지연을 일으키는지는 불확실
-> * 국소제는 도포 후 손을 씻고, 도포 부위에 열찜질·밀봉 드레싱을 하지 않도록 안내
+> * 국소제는 부착·도포 후 손을 씻고, 적용 부위에 열찜질·밀봉 드레싱을 하지 않도록 안내. 케토프로펜 외용제는 광과민 반응 때문에 사용 중과 중단 후 2주간 적용 부위의 햇빛·자외선 노출을 피함
 
 > **관절 내 스테로이드 주사**
 >
@@ -423,14 +424,14 @@ S83 무릎의 관절 및 인대의 탈구, 염좌 및 긴장
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 발열 유무와 관계없이 갑자기 무릎이 심하게 붓고 아프며 움직이기 어렵거나 체중을 싣기 힘든 경우 - 즉시 내원
+> * 발열 유무와 관계없이 갑자기 무릎이 심하게 붓고 아프며 움직이기 어렵거나 체중을 싣기 힘든 경우 - 즉시 평가(감염성 관절염 등 배제)
 > * 무릎을 완전히 펴거나 구부릴 수 없는 경우(감돈 의심) - 즉시 내원
 > * 다리에 힘이 빠지거나 감각이 이상해지는 경우, 발이 창백해지거나 맥박이 약해지는 경우 - 즉시 내원
 > * 보존적 치료 4\~6주 후에도 통증·기능 제한이 호전되지 않는 경우
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **무릎 통증, 원인에 따라 치료가 달라집니다**
@@ -461,7 +462,7 @@ S83 무릎의 관절 및 인대의 탈구, 염좌 및 긴장
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
 * 처방받은 진통소염제는 정해진 용량과 기간을 지켜 복용하십시오.
-* 바르는 소염제(파스, 겔)는 먹는 약보다 전신 부작용이 적어 먼저 시도해볼 수 있습니다.
+* 바르는 소염제(파스, 겔)는 먹는 약보다 전신 부작용이 적어 먼저 시도해볼 수 있습니다. 먹는 소염제와 함께 사용할 때는 의료진과 상의하십시오. 케토프로펜 성분 파스를 쓴 부위는 사용 중과 중단 후 2주간 햇빛에 노출되지 않게 하십시오.
 * 관절 주사(스테로이드, 히알루론산 등)는 효과와 한계가 있으므로 담당 의사와 상의하여 결정하십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
@@ -470,4 +471,7 @@ S83 무릎의 관절 및 인대의 탈구, 염좌 및 긴장
 * 무릎을 다친 후 모양이 변형되었거나, 전혀 움직일 수 없는 경우
 * 다리가 갑자기 부으면서 붉어지고 열감이 느껴지는 경우
 * 발이 창백해지거나 저리고, 맥박이 약하게 느껴지는 경우
-* 보존적 치료를 4\~6주 이상 받아도 증상이 호전되지 않는 경우
+
+#### <mark style="color:$primary;">외래에서 다시 평가받아야 할 때</mark>
+
+* 적절한 치료를 4\~6주 받아도 통증이나 기능 제한이 호전되지 않는 경우
