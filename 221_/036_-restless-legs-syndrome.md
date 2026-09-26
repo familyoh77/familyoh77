@@ -28,7 +28,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 불쾌한 이상 감각 : 움직이고 싶은 충동, 벌레가 기어 다니는 느낌, 불안정감, 가려움, 통증; 피부보다 깊은 부위에서의 느낌
+* 핵심 증상은 다리를 움직이고 싶은 충동. 벌레가 기어 다니는 느낌, 불안정감, 가려움, 통증 등 피부보다 깊은 부위의 불쾌한 감각이 흔히 동반되지만 필수는 아님
 * 활동으로 호전, 비활동으로 재발
 * 발생 빈도 : 다양(매일 \~ ＜1회/월)
 * 발생 시기 : 저녁\~밤(주로 잠들기 전); 낮에도 발생할 수 있음
@@ -60,8 +60,8 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* 철분 검사: 아침에 철분 함유 음식·보충제를 최소 24시간 피한 상태에서 채혈; ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC
-* 필요시 : BUN/Cr (신부전 배제), 혈당, 말초신경병증 평가
+* 철분 검사: 아침에 철분 함유 음식·보충제를 최소 24시간 피한 상태에서 채혈(AASM 2025); 2026 RLS Foundation 알고리듬은 경구 철분제의 48시간 중단을 제안. Ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC를 확인
+* 필요시 : CBC(철 지표 이상·빈혈 의심 시), BUN/Cr (콩팥기능 평가), 혈당, 말초신경병증 평가. 철 결핍이 확인되면 월경과다·위장관 출혈·흡수장애 등 원인 평가
 * 필요시 수면다원검사(polysomnography) - 대부분 임상 진단으로 충분, 일상적으로 불필요; PLMD 동반 의심·감별 진단 불확실 시에만 시행
 
 ### <mark style="color:orange;">진단 기준</mark> \[IRLSSG 2014]
@@ -70,13 +70,13 @@
 
 * 다음 사항에 모두 해당
 
-1. 하지의 불편하고 불쾌한 느낌을 동반하는 하지의 움직임 충동 (간혹 팔 등 다른 부위 이환)
+1. 다리를 움직이고 싶은 충동. 대개 다리의 불편하고 불쾌한 감각을 동반하지만, 감각 없이 충동만 나타날 수도 있음 (간혹 팔 등 다른 부위에도 증상 동반)
 2. 하지의 움직임 충동 및 동반되는 불쾌감은 휴식 중 시작 또는 악화
-3. 하지의 움직임 충동 및 동반되는 불쾌감은 움직임(예: 보행, 스트레칭)에 의해 완전히 또는 부분적으로 완화
+3. 하지의 움직임 충동 및 동반되는 불쾌감은 움직이는 동안(예: 보행, 스트레칭) 완전히 또는 부분적으로 완화
 4. 하지의 움직임 충동 및 동반되는 불쾌감은 저녁이나 야간에 발생 또는 악화
 5. 상기 사항들은 다른 의학적 문제(예: myalgia, venous stasis, leg edema, arthritis, leg cramps, positional discomfort [자세성 불편감], habitual foot tapping)의 1차적 증상으로 설명되지 않음
 
-_✽ 중증 RLS에서는 **증상이 하루 종일 나타나 야간 우세가 불분명할 수 있으나**, 치료 전 또는 과거에는 저녁·야간 악화 양상이 존재해야 함._
+_✽ 중증 RLS에서는 움직임에 따른 완화나 저녁·야간 악화가 뚜렷하지 않을 수 있으나, 이전에는 해당 양상이 존재해야 함. 간헐형·만성 지속형의 경과 분류는 임신·약물 유발 등 유발 기간이 제한된 경우나 일부 소아에게 그대로 적용하지 않음._
 
 #### <mark style="color:$primary;">Specifiers for clinical course</mark>
 
@@ -136,7 +136,7 @@ _<mark style="color:$info;">하지불안증후군 진단·치료 진입 알고�
 **Intermittent (간헐적)**
 
 * 주 ＜2회, 삶의 질 영향 적음
-* 치료 : 비약물 치료 우선. 특정 상황에서 증상이 불편한 경우 저용량 levodopa 또는 단시간형 도파민 작용제의 간헐적 사용을 공유 의사결정 후 고려할 수 있으나, 반복적·일상적 사용은 augmentation 위험 때문에 피함
+* 치료 : 비약물 치료 우선. 특정 상황에서 증상이 불편한 경우 저용량 carbidopa/levodopa 또는 단시간형 도파민 작용제의 간헐적 사용을 공유 의사결정 후 고려. 도파민성 약물은 주 3회를 넘기지 않으며 반복적·일상적 사용을 피함
 
 **Chronic persistent**
 
@@ -188,22 +188,22 @@ _<mark style="color:$info;">하지불안증후군 진단·치료 진입 알고�
 
 **철분 보충 의사결정 기준**
 
-* 모든 임상적으로 유의한 RLS에서 ferritin과 TSAT를 측정하고, 아침에 철분 함유 음식·보충제를 최소 24시간 피한 상태에서 채혈
+* 모든 임상적으로 유의한 RLS에서 ferritin과 TSAT를 측정하고, 아침에 철분 함유 음식·보충제를 최소 24시간 피한 상태에서 채혈(AASM 2025). 2026 RLS Foundation 알고리듬은 경구 철분제를 48시간 전 중단하도록 제안
 * AASM 2025와 RLS Foundation 2026은 근거의 성격과 IV 철분 고려 범위가 다르므로 구분하여 적용
 
-<table><thead><tr><th width="176">기준</th><th width="230">철 지표</th><th>임상적 해석</th></tr></thead><tbody><tr><td>AASM 2025<br>Good practice statement</td><td>Ferritin ≤75 ng/㎖ 또는 TSAT ＜20%</td><td>경구 또는 IV 철분 고려</td></tr><tr><td>AASM 2025<br>Good practice statement</td><td>Ferritin 75\~100 ng/㎖</td><td>경구 흡수가 제한되므로 철분 치료 시 IV 제형 사용</td></tr><tr><td>RLS Foundation 2026<br>전문가 알고리듬</td><td>만성 지속성 RLS에서 ferritin ≤300 ng/㎖이고 TSAT ＜45%</td><td>IV 철분을 고려할 수 있는 확대된 전문가 합의 범위. 증상 중증도, 기존 경구 철분 반응 및 철 과부하 위험을 함께 판단</td></tr></tbody></table>
+<table><thead><tr><th width="176">기준</th><th width="230">철 지표</th><th>임상적 해석</th></tr></thead><tbody><tr><td>AASM 2025<br>Good practice statement</td><td>Ferritin ≤75 ng/㎖ 또는 TSAT ＜20%</td><td>경구 또는 IV 철분 고려. Ferritin 75~100 ng/㎖ 구간은 다음 행 참조</td></tr><tr><td>AASM 2025<br>Good practice statement</td><td>Ferritin 75~100 ng/㎖</td><td>철분 치료 시 IV 제형 사용</td></tr><tr><td>RLS Foundation 2026<br>전문가 알고리듬</td><td>만성 지속형 RLS, ferritin 75~300 ng/㎖ 및 TSAT ＜45%</td><td>IV 철분 고려. AASM 기준보다 넓은 전문가 합의 범위로, 증상 정도·철 과부하 위험을 함께 평가</td></tr><tr><td>RLS Foundation 2026<br>전문가 알고리듬</td><td>만성 지속형 RLS, ferritin ＜75 ng/㎖ 및 TSAT ＜45%</td><td>경구 흡수장애·불내성, 3개월 경구 치료 후 호전 없음, 또는 중증으로 빠른 반응이 필요할 때 IV 철분 고려</td></tr></tbody></table>
 
 * ferritin ＞300 ng/㎖ 또는 TSAT ≥45%이면 철 과부하 위험 때문에 IV 철분을 투여하지 않음
-* ferritin 100\~150 ng/㎖는 일부 전문가가 사용하는 실무적 목표 범위이며 AASM의 공식 치료 목표는 아님
+* TSAT ≥45%이면 경구 철분도 경험적으로 시작하지 말고 철 과부하 가능성을 평가
 * 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - 이 경우 TSAT ＜ 20%가 철분 부족을 시사하는 더 강력한 지표가 됨
-* ferritin ≥75 ng/㎖에서는 hepcidin 증가로 경구 철분 흡수가 제한되므로 IV 철분을 우선 고려
+* ferritin ≥75 ng/㎖에서는 경구 철분 흡수가 제한될 수 있음. 특히 ferritin이 높으면서 TSAT ＜20%이면 염증·간질환에 의한 ferritin 상승 여부를 확인하고 IV·경구 경로를 개별화
 * IV ferric carboxymaltose <mark style="color:blue;">\[페린젝트주]</mark> : 적절한 철 상태의 성인 RLS에서 AASM 강력 권고. 임상 반응은 4\~6주 이후 나타나고 최대 효과까지 1\~3개월 걸릴 수 있음
-  * RLS 치료 목적은 국내 허가 외 사용
+  * RLS 치료 목적은 국내 허가 외 사용. RLS 연구의 총 1,000 ㎎ 용량도 국내 제품 허가사항의 Hb·체중별 총 투여량과 다를 수 있으므로 처방례의 구분 참조
   * 과민반응·드문 아나필락시스와 증상성 저인산혈증 위험. 투여 후 최소 30분간 과민반응을 관찰하고, 저인산혈증 위험 환자 또는 3개월 이내 반복 투여 예정 환자에서는 투여 전 혈청 인산염 확인
-* 경구 ferrous sulfate : ferritin ≤75 ng/㎖ 또는 TSAT ＜20% 시 투여 (조건부 권고) (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
+* 경구 ferrous sulfate : ferritin ≤75 ng/㎖ 또는 TSAT ＜20%에서 고려(AASM 조건부 권고). Ferritin ＞75 ng/㎖이고 TSAT만 낮은 경우에는 경구 흡수·염증·IV 철분 적합성을 함께 평가 (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
   * 공복(식전 1시간) 복용을 우선하되 위장 장애 시 음식과 함께 복용할 수 있음. 비타민 C 병용은 선택 사항
-  * ferritin ＞75 ng/㎖이면 경구 흡수 불량(hepcidin 상승으로 십이지장 철분 흡수 억제) → IV 철분제 고려
-  * 매일 또는 격일 복용 가능. 격일 복용은 철 흡수와 위장관 내약성 자료를 적용한 실무 전략이며 RLS 자체에 대한 강한 비교 근거는 제한적
+  * ferritin ≥75 ng/㎖에서는 경구 흡수가 제한될 수 있으므로 증상 정도와 철 지표에 따라 IV 철분 고려
+  * 매일 또는 격일 복용 가능. 2026 알고리듬은 격일 복용을 선호하나, RLS에서 제형·복용 간격의 직접 비교 근거는 제한적. 서방형 철분은 흡수상 불리할 수 있으므로 제품 선택 시 고려
 * IV low molecular weight iron dextran, IV ferumoxytol : AASM 조건부 권고. 국내 유통·허가 여부 확인 필요
 
 #### <mark style="color:$primary;">Gabapentinoids (α2δ 칼슘통로 리간드)</mark>
@@ -245,7 +245,7 @@ _<mark style="color:$info;">하지불안증후군 진단·치료 진입 알고�
   * 증상 발생 시간대가 하루 전체로 확장
   * 상지·몸통 등 다른 신체 부위로 증상 확산
   * 전반적 증상 강도 증가
-* 발생률 : 도파민 작용제에서 연간 약 7\~10%로 보고되며, 장기 사용 시 누적 위험이 큼. 위험도는 약제·용량·치료기간에 따라 다르므로 특정 누적률을 개별 환자에게 그대로 적용하지 않음
+* 발생률 : 2026 전문가 알고리듬은 8\~10년 사용 시 약 42\~70%(연간 환산 약 5\~7%)로 기술. 위험도는 약제·용량·치료기간에 따라 다르므로 특정 누적률을 개별 환자에게 그대로 적용하지 않음
 * Augmentation 위험인자
   * 도파민 작용제 고용량 또는 장기 사용
   * levodopa 사용 (dopamine agonist보다 augmentation 위험 높음)
@@ -256,14 +256,14 @@ _<mark style="color:$info;">하지불안증후군 진단·치료 진입 알고�
 * Augmentation 발생 시 교체 전략 (Tapering + Overlapping)
   1. 철 상태, 악화 약물, OSA 등 교정 가능한 요인을 재평가
   2. gabapentinoid 등 대체 치료를 먼저 도입하고 증상 조절을 확인
-  3. 이후 도파민 작용제를 수 주\~수개월에 걸쳐 매우 서서히 감량(예: 현재 용량의 10\~25%씩 2\~4주 간격); 반동 증상에 따라 더 늦춤
+  3. 이후 도파민 작용제를 환자의 반동 증상과 내약성에 맞춰 단계적으로 감량(예: pramipexole 0.25 ㎎씩 감량하되 저용량에서는 더 작은 폭). 간격은 최소 3일에서 1개월까지 개별화하며 수 주\~수개월이 걸릴 수 있음
   4. 급격한 중단과 격일 투여는 피함. 심한 반동 증상뿐 아니라 불안·우울·자살사고를 동반한 dopamine agonist withdrawal syndrome을 모니터링
   5. gabapentinoid만으로 감량이 어렵다면 전문의 감독하에 저용량 장시간형 opioid를 고려
 
 #### <mark style="color:$primary;">항파킨슨제</mark>
 
-* 특정 상황에서 발생하는 간헐적 증상에 대하여 필요 시 선택할 수 있으나, 반복적·일상적 사용은 높은 augmentation·반동 위험 때문에 피함(AASM 2025 표준 사용 조건부 권고 반대)
-* carbidopa/levodopa : levodopa 성분량 100\~200 ㎎을 증상 예상 전에 간헐적으로 사용 <mark style="color:blue;">\[시네메트]</mark> - 국내 RLS 적응증 미승인(허가 외 사용)
+* 특정 상황에서 발생하는 간헐적 증상에 필요 시 선택할 수 있으나 주 3회 이내로 제한. 반복적·일상적 사용은 높은 augmentation·반동 위험 때문에 피함(AASM 2025 표준 사용 조건부 권고 반대)
+* carbidopa/levodopa : 25/100 ㎎ 제형 ½\~1정을 예상되는 유발 상황 30분 전 또는 증상 시작 시 간헐적으로 사용(levodopa 50\~100 ㎎, 주 3회 이내) - 국내 RLS 적응증 미승인(허가 외 사용). 국내 제품별 실제 함량·가용성을 확인; 시네메트정은 25/250 ㎎ 제품 정보가 있어 25/100 ㎎ 용량과 혼동하지 않음
 
 #### <mark style="color:$primary;">Opioid (조건부 권고)</mark>
 
@@ -315,8 +315,8 @@ _<mark style="color:$info;">Ref. Picchietti DL et al. Consensus clinical practic
 * 소아·청소년에서도 발생; IRLSSG의 5개 필수 기준을 모두 충족하고, 소아가 자신의 연령에 맞는 언어로 증상을 설명할 수 있어야 함
 * **ADHD와 연관** : 소아 RLS의 상당수가 ADHD 증상을 동반
   * **임상적 함정** : RLS로 인한 수면 장애가 주의력 저하·과잉행동으로 나타나 ADHD처럼 보일 수 있으므로 야간 증상과 수면 상태를 함께 평가
-* **철분 결핍** : 중요한 가역적 요인 - ferritin·TSAT 검사 및 적절한 철분 보충이 우선
-* AASM 2025는 적절한 철 상태의 소아 RLS에서 ferrous sulfate를 조건부 권고하나 근거 확실성은 매우 낮음
+* **철분 결핍** : 중요한 가역적 요인 - ferritin·TSAT를 확인하고 ferritin ＜50 ng/㎖이면 철분 보충 고려(성인 기준을 그대로 적용하지 않음)
+* AASM 2025는 ferritin ＜50 ng/㎖인 소아 RLS에서 ferrous sulfate를 조건부 권고하나 근거 확실성은 매우 낮음
 * 소아에서 RLS 적응증으로 허가된 약물 없음; 적절한 철분 치료 후에도 지속되면 소아신경과·소아수면 전문의 의뢰
 
 _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.</mark>_
@@ -328,6 +328,8 @@ _<mark style="color:$info;">Ref. Winkelman JW, Wipper B. Restless legs syndrome:
 _<mark style="color:$info;">Ref. Allen RP et al. Restless legs syndrome/Willis-Ekbom disease diagnostic criteria: updated IRLSSG consensus criteria. Sleep Med. 2014;15(8):860-873.</mark>_
 
 _<mark style="color:$info;">Ref. Garcia-Borreguero D et al. Diagnostic standards for dopaminergic augmentation of restless legs syndrome. Sleep Med. 2007;8(5):520-530.</mark>_
+
+_<mark style="color:$info;">Ref. Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70:2030-2051. 국내 제품 허가사항: <a href="https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AHHHHH0249">훼로바유서방정</a>, <a href="https://health.kr/searchDrug/result_drug.asp?drug_cd=2010061500005">페린젝트주</a>.</mark>_
 
 ***
 
@@ -360,38 +362,38 @@ G25.8 하지불안증후군
 > ※ 체중 증가·어지럼·부종·낙상·호흡억제 주의
 > ```
 
-> **처방례 3.** 경구 철분 보충 - ferritin ≤75 ng/mL 또는 transferrin saturation rate ＜20%
+> **처방례 3.** 경구 철분 보충 - ferritin ≤75 ng/㎖ 또는 TSAT ＜20%; ferritin ＞75 ng/㎖에서는 투여 경로 개별화
 >
 > ```
-> 훼로바-유 서방정 1T  격일(이틀에 한 번) 공복(식전 1시간)
+> 훼로바-유서방정(철로서 80 ㎎/T)  1T  격일(이틀에 한 번) 공복(식전 1시간)
+> ※ 제품의 국내 허가 적응증은 철결핍성 빈혈의 예방·치료, 허가 용법은 1일 1~2회 식후 복용. RLS 목적의 격일 공복 복용은 이 허가사항과 다름
+> ※ 서방형 철분제는 흡수가 불리할 수 있어 비서방형 철분제 선택 또는 치료 반응 확인을 고려
 > ※ 위장 장애가 있으면 음식과 함께 복용할 수 있음
 > ※ 격일 복용은 철 흡수·내약성을 고려한 실무 전략이며 매일 복용도 가능
 > ※ 비타민 C 병용은 선택 사항
-> ※ 3개월 후 ferritin, transferrin saturation rate 재검
-> ※ ferritin 75~100 ng/mL 또는 경구 철분 불내성·흡수장애 시 → IV 철분 평가
+> ※ 약 3개월 후 증상과 ferritin·TSAT 재평가. 철 결핍 원인도 확인
+> ※ ferritin 75~100 ng/㎖ 또는 경구 철분 불내성·흡수장애 시 → IV 철분 평가
 > ※ IV 철분의 RLS 치료 목적 사용은 국내 허가 외이며 저인산혈증·과민반응에 주의
 > ```
 
 > **처방례 3-1.** 정맥 철분 보충 - ferric carboxymaltose
 >
 > ```
-> 페린젝트주 500 ㎎/10 mL 또는 1,000 ㎎/20 mL  IV infusion
-> 투여량 : RLS 알고리듬에서는 ferric carboxymaltose 총 1,000 ㎎을 흔히 사용하되, 체중·Hb·철 결핍 정도와 국내 첨부문서에 따라 1회량 결정
-> ※ 고려 대상 : ferritin 75~100 ng/mL, 경구 철분 불내성·흡수장애 또는 적절한 경구 철분에도 지속되는 임상적으로 유의한 RLS
-> ※ RLS Foundation 2026 확대 기준(ferritin ≤300 ng/mL 및 TSAT ＜45%) 적용 시 증상 중증도·기존 반응·철 과부하 위험을 함께 평가
-> ※ RLS 치료 목적 사용은 국내 허가 외 사용(Off-label)
-> ※ 1회 최대 : 철 1,000 ㎎ 또는 20 ㎎/㎏ 중 적은 양; 철 1,000 ㎎ 투여는 주 1회를 초과하지 않음
+> 페린젝트주 500 ㎎/10 mL 또는 1,000 ㎎/20 mL  IV infusion — 투여량은 개별 결정
+> ※ AASM 2025 : ferritin 75~100 ng/㎖이면 IV 철분 사용. RLS Foundation 2026 : 만성 지속형에서 ferritin 75~300 ng/㎖ 및 TSAT ＜45%이면 고려; ferritin ＜75 ng/㎖에서는 경구 치료 실패·불내성·흡수장애 또는 빠른 반응 필요 시 고려
+> ※ RLS 연구·알고리듬은 총 철 1,000 ㎎을 흔히 사용하지만, 국내 허가상 적응증은 철 결핍이며 총량은 Hb와 체중에 따라 결정(예: Hb ≥14 g/dL, 체중 ≥35 ㎏이면 총 500 ㎎). RLS 목적과 국내 허가상 총량을 넘는 투여는 각각 허가 외 사용에 해당할 수 있음
+> ※ 국내 허가상 성인·14세 이상 최대 1회량 : 철 1,000 ㎎ 또는 20 ㎎/㎏ 중 적은 양. 혈액투석 의존 환자는 1회 최대 200 ㎎. 철 1,000 ㎎ 투여는 주 1회를 초과하지 않음
 > ※ 생리식염주사액으로만 희석하고 용량별 희석량·주입시간은 첨부문서에 따름; 철 1,000 ㎎은 15분 이상 정맥 점적
 > ※ 투여 중과 투여 후 최소 30분간 과민반응·아나필락시스 및 활력징후 관찰
-> ※ 임상반응과 ferritin·TSAT는 대체로 8~12주 후 재평가; 증상 재발로 반복 투여할 때는 이전 투여 후 최소 12주 간격
-> ※ 저인산혈증 위험 환자 또는 3개월 이내 반복 투여 예정 환자는 투여 전 혈청 인산염 확인
+> ※ 8~12주 후 증상을 재평가. 반복 투여를 고려할 때는 이전 투여 후 3개월 이상 경과, 증상 재발 및 ferritin·TSAT 재확인이 필요
+> ※ 저인산혈증 위험 환자 또는 반복 투여 예정 환자는 투여 전 혈청 인산염 확인
 > ```
 
 > **처방례 4.** 도파민 작용제 단기 사용 - gabapentin 계열 불내성 또는 즉각적 증상 조절 필요 시
 >
 > ```
 > 미라펙스 0.125 ㎎/T  1T  취침 2~3시간 전
-> ※ 장기 사용 시 augmentation 위험 (연간 7~10%) - 매 방문마다 모니터링 필수
+> ※ 장기 사용 시 augmentation 위험(2026 알고리듬: 8~10년 누적 약 42~70%, 연간 환산 약 5~7%) - 매 방문마다 확인
 > ※ 충동조절장애(병적 도박, 과식, 충동구매 등) 발생 가능 - 매 방문마다 확인
 > ※ 증상이 낮 시간대로 앞당겨지거나 팔로 확산되면 약을 증량하지 말고 처방의에게 신속히 연락
 > ※ Augmentation 의심 시 증량 금지 - 증량은 augmentation을 가속화함 (초기 titration 제외)
@@ -400,7 +402,7 @@ G25.8 하지불안증후군
 >
 > **Augmentation 발생 시 교체 방법**\
 > ① 철 상태·악화 약물·OSA를 재평가하고 gabapentinoid 등 대체 치료를 먼저 시작\
-> ② 대체 치료를 내약 가능한 유효 용량까지 적정하고 증상 조절을 확인한 뒤 미라펙스를 매우 서서히 감량(예: 현재 용량의 10~25%씩 2~4주 간격; 환자 반응에 따라 더 늦춤)\
+> ② 대체 치료를 내약 가능한 유효 용량까지 적정한 뒤 미라펙스를 단계적으로 감량(예: 0.25 ㎎씩, 저용량에서는 더 작은 폭; 간격은 반동 증상·내약성에 따라 최소 3일~1개월로 개별화)\
 > ③ 격일 투여와 갑작스러운 중단은 피함\
 > ④ 심한 반동 증상, 불안·우울 악화가 나타나면 DAWS 가능성을 고려하여 신속히 평가하고 전문의 의뢰; 구체적 자살 계획·의도 또는 안전 확보가 어려우면 즉시 정신건강 응급 평가
 
@@ -439,7 +441,7 @@ G25.8 하지불안증후군
 
 #### <mark style="color:$primary;">하지불안증후군이란 무엇인가요?</mark>
 
-* **하지불안증후군** : 쉬거나 누워 있을 때 다리를 움직이고 싶은 강한 충동과 함께 다리에 불편한 이상 감각(벌레가 기어다니는 느낌, 저림, 통증 등)이 발생하는 신경계 질환입니다
+* **하지불안증후군** : 쉬거나 누워 있을 때 다리를 움직이고 싶은 강한 충동이 발생하는 신경계 질환입니다. 다리에 벌레가 기어다니는 느낌, 저림, 통증 등을 흔히 동반하지만 이런 감각 없이 충동만 나타날 수도 있습니다
 * 저녁\~밤에 심해지고, 다리를 움직이거나 걸으면 일시적으로 나아집니다
 * 성인의 약 2\~3%에서 나타나며, 수면 장애와 낮 동안의 피로를 유발합니다
 * 철분 부족, 신장 질환, 임신, 일부 약물 등이 원인이 될 수 있습니다
