@@ -8,7 +8,7 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 평가**</mark>
 
-* 심한 저체중·장기간 영양 결핍 상태에서 급격히 영양 공급을 시작하는 경우 — 재영양증후군(refeeding syndrome) 위험(전해질·수분 관리 하 서서히 증량)
+* 심한 저체중·장기간 영양 결핍 상태에서 급격히 영양 공급을 시작하는 경우 - 재영양증후군(refeeding syndrome) 위험(전해질·수분 관리 하 서서히 증량)
 * 급성 탈수 또는 심한 전해질 이상을 동반한 지속적 구토·설사
 * 음식 섭취 후 아나필락시스가 의심되는 증상
 * 장폐색·심한 협착이 의심되는 상태에서의 식이섬유·팽창성 완하제 임의 증량
@@ -16,14 +16,14 @@
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 의도치 않은 체중감소(예: 최근 6개월 내 5% 이상) 또는 뚜렷한 근감소
-* 새로 발생한 연하곤란 — 연하 평가 의뢰
+* 새로 발생한 연하곤란 - 연하 평가 의뢰
 * 임신 중 섭취 부족, 임신성 당뇨 조절 불량
-* 만성콩팥병·심부전·간경변에서 나트륨·칼륨·수분 조절이 어려운 경우 — 임상영양사 협진 고려
+* 만성콩팥병·심부전·간경변에서 나트륨·칼륨·수분 조절이 어려운 경우 - 임상영양사 협진 고려
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 식이섬유·나트륨·첨가당 목표에 도달하지 못하는 경우 — 반복 상담 및 재평가
-* 오메가-3·비타민 D·칼슘 등 보충제 사용을 원하는 경우 — 적응증 확인 후 개별화
+* 식이섬유·나트륨·첨가당 목표에 도달하지 못하는 경우 - 반복 상담 및 재평가
+* 오메가-3·비타민 D·칼슘 등 보충제 사용을 원하는 경우 - 적응증 확인 후 개별화
 * 환자와 합의한 시점에 재평가하여 목표 달성 여부와 실천 장애요인을 확인한다. 체중·혈압은 수주 내, HbA1c는 통상 약 3개월, 지질은 생활습관·약물치료와 임상 상황에 맞추어 평가 시점을 정한다.
 
 ***
@@ -146,6 +146,16 @@ DASH(Dietary Approaches to Stop Hypertension)는 채소, 과일, 통곡물, 무�
 
 Ref. National Heart, Lung, and Blood Institute. DASH Eating Plan. Updated 2026.
 
+### <mark style="color:orange;">MIND 식사</mark>
+
+MIND(Mediterranean-DASH Intervention for Neurodegenerative Delay)는 지중해식 식사와 DASH 식사 중 인지 건강과 관련된 식품군을 골라 강조한 식사 패턴이다. 과일 전반보다 베리류를, 채소 중에서는 녹색 잎채소를 따로 강조하는 것이 특징이다.
+
+<table><thead><tr><th width="150">권장 식품군</th><th width="130">기준</th><th width="150">제한 식품군</th><th>기준</th></tr></thead><tbody><tr><td>녹색 잎채소</td><td>주 6회 이상</td><td>붉은 고기</td><td>주 4회 미만</td></tr><tr><td>기타 채소</td><td>하루 1회 이상</td><td>버터·마가린</td><td>하루 1큰술 미만</td></tr><tr><td>베리류</td><td>주 2회 이상</td><td>치즈</td><td>주 1회 미만</td></tr><tr><td>견과류</td><td>주 5회 이상</td><td>과자·단 음식</td><td>주 5회 미만</td></tr><tr><td>콩류</td><td>주 3회 이상</td><td>튀김·패스트푸드</td><td>주 1회 미만</td></tr><tr><td>통곡물</td><td>하루 3회 이상</td><td></td><td></td></tr><tr><td>생선</td><td>주 1회 이상</td><td></td><td></td></tr><tr><td>가금류</td><td>주 2회 이상</td><td></td><td></td></tr><tr><td>올리브유</td><td>주된 식용유</td><td></td><td></td></tr></tbody></table>
+
+* 한식에서는 녹색 잎채소를 시금치·나물류로, 콩류를 두부·콩으로 쉽게 대체할 수 있다.
+* 관찰 연구에서는 준수도가 높을수록 인지 저하 속도가 느리고 알츠하이머병 발생 위험이 낮았으나, 인지 정상 고령자 대상 MIND diet RCT(3년, 양군 모두 경도 열량 제한 병행)에서는 대조 식사와 인지 변화에 유의한 차이가 없었다 [NEJM 2023]. 인지 저하 예방효과가 입증된 식사법으로 설명하지 않고, 심혈관 위험 관리를 겸한 건강한 식사 패턴의 하나로 권한다.
+* 원 식사법의 와인(하루 1잔) 항목은 권하지 않으며, 인지 보호 목적으로 음주를 시작하도록 권하지 않는다.
+
 ***
 
 ## <mark style="color:green;">심혈관 건강을 위한 식이 지침</mark>
@@ -236,7 +246,7 @@ Ref. National Institutes of Health, Office of Dietary Supplements. Omega-3 Fatty
 
 <table><thead><tr><th width="150">상황</th><th>주요 고려사항</th></tr></thead><tbody><tr><td>고령자·노쇠</td><td>비의도적 체중 감소, 식욕저하, 근감소증, 저작·연하곤란, 우울, 인지기능과 식품 접근성을 평가한다. 단백질 식품을 끼니마다 배치하고 가능한 경우 근력운동을 병행한다. 단백질은 대체로 최소 1.0 g/㎏/day, 건강한 고령자는 1.0\~1.2 g/㎏/day를 참고하고, 1.2\~1.5 g/㎏/day는 급·만성질환, 영양불량 또는 회복기에서 신기능·질환·내약성을 고려하여 개별적으로 적용한다.</td></tr><tr><td>당뇨병</td><td>탄수화물의 총량과 식사별 분배, 첨가당, 식이섬유 및 저혈당 위험을 함께 고려한다. 특정 탄수화물 비율을 모든 환자에게 일률적으로 적용하지 않는다.</td></tr><tr><td>만성콩팥병</td><td>단백질, 나트륨, 칼륨, 인과 수분은 병기, 투석 여부, 검사 결과와 영양 상태에 따라 개별화한다. 건강식품·소금 대체제의 칼륨도 확인한다. 채소는 껍질을 벗기거나 잘게 썰어 물에 담근 뒤 데쳐서 사용하고 데친 물은 버리면 칼륨 섭취를 줄이는 데 도움이 된다.</td></tr><tr><td>심부전·간경변</td><td>나트륨과 수분 제한은 울혈·복수·저나트륨혈증, 약물 및 영양 상태를 고려한다. 지나친 제한으로 섭취량이 감소하지 않도록 한다.</td></tr><tr><td>항응고제 복용</td><td>Warfarin 복용 중에는 비타민 K 함유 채소를 금지하지 않고 섭취량을 일관되게 유지한다. DOAC에는 같은 비타민 K 제한을 적용하지 않는다.</td></tr><tr><td>장기 약물 복용</td><td>Metformin 장기 복용자에서는 빈혈·신경병증이 있거나 장기간 사용한 경우 비타민 B12 평가를 고려한다. PPI·H2RA는 장기 처방의 적응증을 재평가하고, 결핍 증상이나 위험요인이 있을 때 비타민 B12 평가를 고려한다. PPI 사용자는 저마그네슘혈증 증상, 장기간 사용 또는 관련 약물 병용 등 위험요인이 있을 때 마그네슘 평가를 고려한다.</td></tr><tr><td>임신·수유</td><td>에너지·단백질·철·엽산·요오드·콜린 등 필요량 변화와 식품 안전을 고려한다. 임신 중에는 금주한다.</td></tr><tr><td>저작·연하곤란</td><td>단순히 부드러운 음식으로 제한하지 말고 연하 평가에 따른 음식의 질감·점도 조절과 영양 밀도 보강을 시행한다.</td></tr></tbody></table>
 
-Ref. Volkert D, et al. ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Clin Nutr. 2022;41:958-989; American Diabetes Association. Standards of Care in Diabetes—2026.
+Ref. Volkert D, et al. ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Clin Nutr. 2022;41:958-989; American Diabetes Association. Standards of Care in Diabetes-2026.
 
 ***
 
@@ -259,7 +269,7 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 Z71.3 식사 상담 및 감시
 
@@ -285,7 +295,7 @@ Z71.3 식사 상담 및 감시
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **한 가지 '건강식품'보다 매일의 전체 식사 패턴이 중요합니다**
