@@ -21,16 +21,17 @@
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
-* 급성 하지허혈 징후(창백·무맥·심한 통증·마비·감각소실, 소위 6P) → 혈관외과 응급 의뢰
+* 급성 하지허혈 징후(갑작스러운 심한 통증, 차갑고 창백한 발, 맥박 감소·소실, 감각·운동 장애 등) → 혈관외과 응급 의뢰
+* 외상 후 손상 정도에 비해 극심한 통증·팽팽한 부종, 수동 신장 시 통증 악화 ± 감각 이상 → 급성 구획증후군 의심, 맥박이 만져져도 응급 수술 평가
 * 개방성 골절, 명백한 변형·탈구를 동반한 외상 → 응급 정형외과 의뢰
 * 심한 통증(이학적 소견에 비해 불균형적)과 함께 급속히 진행하는 부종·수포·피부 괴사 → 괴사성 근막염 의심, 응급 의뢰
-* 당뇨병 환자의 발 감염에서 전신 독성 징후(발열·빈맥·저혈압 등 패혈증 소견), 급속히 진행하는 괴사·괴저, deep abscess 의심, 또는 중증 허혈 동반 → severe diabetic foot infection 의심, 응급 의뢰
+* 당뇨병 환자의 발 감염에서 전신 독성 징후(발열·빈맥·저혈압 등 패혈증 소견)가 있는 중증 감염, 또는 심부 농양·광범위 괴저·괴사성 감염·구획증후군·중증 허혈을 동반한 중등도 감염 → 긴급 외과 평가; 감염과 허혈이 함께 있으면 혈관 전문의도 긴급 협진 [IWGDF/IDSA 2023]
 * 급성 비외상성 단관절의 심한 통증·부종·발적 및 수동 ROM의 현저한 제한 ± 발열 → 패혈성 관절염 우선 배제; 응급 관절천자/전문의 평가
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 외상 후 국소 골 압통 또는 지속적 체중 부하 통증 → 골절/스트레스 골절 의심, 조기 영상검사
-* 편측 하지 부종·발적·열감 → DVT 또는 봉와직염 의심, 당일 평가(DVT는 Wells score 기반 압박 초음파(compression duplex US)로 평가; Homans sign은 민감도·특이도가 낮고 색전 위험이 있어 더 이상 권장되지 않음)
+* 편측 하지 부종·발적·열감 → DVT 또는 봉와직염 의심, 당일 평가(DVT 의심 시 Wells 점수로 임상 가능성을 판단하고 그 결과에 따라 D-dimer·압박 초음파 검사를 시행; Homans sign만으로 진단하거나 배제하지 않음) [NICE NG158]
 * 당뇨병 환자에서 전신상태는 안정적이나 발적·부종을 동반한 깊은 궤양, probe-to-bone 양성 소견 → 골수염/심부 연부조직 감염 의심, 당일 평가
 * 급성 1st MTP 통증·발적·부종(특히 발열 동반 시 패혈성 관절염과 감별 필요) → 통풍 발작 의심, 당일 평가
 * 당뇨병성 말초신경병증 환자에서 새로 발생한 편측 발의 부종·발적·온도 상승(통증은 없거나 경미할 수 있으나 있을 수도 있음) → active Charcot neuro-osteoarthropathy 의심; 확진을 기다리지 말고 즉시 고정 및 off-loading(가능하면 knee-high immobilization)을 시작하고 조기 전문의 의뢰; 초기 X선이 정상이어도 배제되지 않으며 MRI가 더 민감함
@@ -39,7 +40,7 @@
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 표준 보존적 치료(4\~6주) 후에도 호전 없는 족저근막염, Morton neuroma 등 → 영상검사 및 전문과 의뢰 고려
+* 초기 보존적 치료(4\~6주)에도 호전 없는 족저근막염, Morton neuroma 등 → 진단·치료 수행을 재평가하고, 비전형적 소견 또는 지속적 기능 제한이 있으면 영상검사·전문과 의뢰 고려
 * 신발 교정에도 지속되는 무지외반증(bunion) 등 구조적 변형 → 정형외과/족부 전문의 의뢰
 * 급성 징후 없는 만성 다발 관절 침범 → 류마티스내과 협진 고려
 
@@ -52,7 +53,7 @@
 **통증이 지속되는가 간헐적인가?**
 
 * 지속적·휴식 시 통증 : 염증성 질환, 진행된 과사용성 병변, 골절, 감염, 종양 등을 우선 고려(감별 특이도는 낮음)
-* 특정 활동·체중 부하 시 반복되는 통증 : 기계적·과사용성 원인을 우선 고려. 예) cuboid syndrome(cuboid subluxation) - 울퉁불퉁한 표면을 걸을 때 유발되는 외측 중족부 통증
+* 특정 활동·체중 부하 시 반복되는 통증 : 기계적·과사용성 원인을 우선 고려. 예) cuboid syndrome - 체중 부하 시 악화되는 외측 중족부 통증
 
 **통증의 양상(예: 둔탁함, 예리함, 타는 듯함)은?**
 
@@ -62,7 +63,7 @@
 
 **관련 증상이 있는가?**
 
-* 무감각, 이상 감각 : 발 이외 부분의 문제. 예) 척수나 말초신경의 압박
+* 무감각, 이상 감각 : 국소 신경 포착(족근관증후군 등), 당뇨병성 말초신경병증, 신경근병증 등을 분포와 동반 증상에 따라 감별
 * 보행 시 종아리·발 통증이 있다가 휴식하면 수 분 내 완화 → 간헐적 파행(intermittent claudication), 말초동맥질환(PAD) 의심(특히 흡연자·당뇨병·고령); ABI(ankle-brachial index) 측정으로 평가
 
 **방사통이 있는가?**
@@ -133,11 +134,11 @@
 
 **Midfoot dorsum 통증**
 
-<table><thead><tr><th width="300">소견</th><th>의심 진단</th></tr></thead><tbody><tr><td>tarsometatarsal(TMT) 관절의 bony irregularity</td><td>TMT 또는 전반적 관절염</td></tr><tr><td>외상 후 Lisfranc joint(=TMT joints) 통증</td><td>Lisfranc joint 염좌 또는 골절</td></tr><tr><td>midfoot dorsum의 soft swollen mass</td><td>ganglion cyst</td></tr><tr><td>extensor tendon을 따라 부종, resisted toe extension 시 통증</td><td>extensor tendinopathy</td></tr></tbody></table>
+<table><thead><tr><th width="300">소견</th><th>의심 진단</th></tr></thead><tbody><tr><td>tarsometatarsal(TMT) 관절의 bony irregularity</td><td>TMT 또는 전반적 관절염</td></tr><tr><td>외상 후 TMT 관절 부위 통증·부종, 발바닥 중족부의 멍 또는 체중 부하 곤란</td><td>Lisfranc 관절 복합체 손상(인대 손상 또는 골절·탈구); 초기 X선이 정상이어도 배제 불가</td></tr><tr><td>midfoot dorsum의 soft swollen mass</td><td>ganglion cyst</td></tr><tr><td>extensor tendon을 따라 부종, resisted toe extension 시 통증</td><td>extensor tendinopathy</td></tr></tbody></table>
 
 **Lateral midfoot 통증**
 
-<table><thead><tr><th width="300">소견</th><th>의심 진단</th></tr></thead><tbody><tr><td>압통, cuboid mobility 증가</td><td>cuboid syndrome (cuboid subluxation)</td></tr><tr><td>resisted foot eversion 시 통증</td><td>fibularis(peroneus) brevis/longus tendinopathy</td></tr><tr><td>fifth metatarsal base의 부종·통증</td><td>enthesopathy 또는 avulsion fracture</td></tr></tbody></table>
+<table><thead><tr><th width="300">소견</th><th>의심 진단</th></tr></thead><tbody><tr><td>cuboid 주변 국소 압통·체중 부하 시 외측 중족부 통증(골절·건병증 감별)</td><td>cuboid syndrome</td></tr><tr><td>resisted foot eversion 시 통증</td><td>fibularis(peroneus) brevis/longus tendinopathy</td></tr><tr><td>fifth metatarsal base의 부종·통증</td><td>enthesopathy 또는 avulsion fracture</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Rear Foot pain</mark>
 
@@ -177,34 +178,43 @@
 * 비외상성 족저근막염 등 전형적 임상 양상은 병력·이학적 검사만으로 진단 가능하며 일상적 방사선 촬영은 불필요 [ACFAS Clinical Consensus Statement, 2017]
 * 만성 발 통증에서 구조적·골성 원인의 영상평가가 필요한 경우 radiography가 일반적인 1차 검사이며, 정렬·변형 평가가 중요한 경우 체중 부하 촬영을 고려 [ACR Appropriateness Criteria® Chronic Foot Pain]
 * 급성 midfoot 외상에서는 Ottawa Foot Rules 적용 : midfoot 통증 + (① navicular 압통, ② 5th metatarsal base 압통, ③ 손상 직후 및 진료 시점 모두 4걸음 체중부하 불가) 중 하나라도 해당 시 X선 촬영
-  * ✽ Ottawa Foot Rules는 주로 10일 이내의 급성 midfoot/ankle 손상에서 검증되었으며, calcaneus body·toe/MTP 손상 및 Lisfranc 손상은 별도의 임상 판단이 필요
+  * ✽ Ottawa Foot Rules는 주로 10일 이내의 급성 midfoot/ankle 손상에서 검증되었으며, calcaneus body·toe/MTP 손상 및 Lisfranc 손상은 별도의 임상 판단이 필요. 특히 발바닥 중족부 멍, TMT 관절 압통·부종 또는 체중 부하 곤란으로 Lisfranc 손상이 의심되면 Ottawa 음성이라도 고정·체중 부하 제한 후 영상 및 전문의 평가가 필요
   * ✽ 발목(양측 malleolus 후연 6㎝ 이내) 압통·부종에 대한 X선 적응증은 별도의 Ottawa Ankle Rules로 판단하며, 본 Foot Rules는 midfoot(navicular, 5th MT base) 영역에 적용
 * 초기 X선 음성이나 스트레스 골절이 강하게 의심되는 경우(특히 navicular 등 고위험 부위) → MRI 우선 고려(필요시 CT 추가); 초음파는 표재성 연부조직 병변 평가에 선택적으로 사용
+* Lisfranc 손상이 의심되는 경우 → 가능한 때 체중 부하 족부 X선 고려. X선이 정상·불명확해도 임상적 의심이 지속되면 CT(잠재 골절·관절 정렬) 또는 MRI(인대 손상) 평가 및 정형외과 의뢰 [ACR Appropriateness Criteria® Acute Trauma to the Foot]
 * 3개월 이상 지속되는 난치성 통증에서 연부조직 병변 감별이 필요한 경우 → 초음파 또는 MRI 고려
 
 ***
 
 ```mermaid
 graph TD
-    Start([발의 통증]) --> Trauma{외상력이 있는가?}
-    Trauma -- 있음 --> TraumaEval{급성 midfoot 손상인가?}
+    Start([발의 통증]) --> Red{즉각 조치가 필요한 위험 징후?}
+    Red -- 예 --> Urgent[응급 평가·의뢰]
+    Red -- 아니오 --> Trauma{외상력이 있는가?}
+    Trauma -- 있음 --> Lisfranc{중족부 손상에서<br>Lisfranc 의심 소견?}
+    Lisfranc -- 예 --> LCare[고정·체중 부하 제한]
+    LCare --> LX[가능하면 체중 부하 X선]
+    LX --> LFurther{골절·불안정성 확인?}
+    LFurther -- 예 --> OrthoRef[고정·정형외과 평가]
+    LFurther -- 아니오 --> LMRI[의심 지속: CT 또는 MRI<br>정형외과 평가]
+    Lisfranc -- 아니오 --> TraumaEval{급성 midfoot 손상인가?}
     TraumaEval -- 예 --> Ottawa{"Ottawa Foot Rules 양성?<br>(navicular 또는 5th MT base 압통,<br>또는 4걸음 체중부하 불가)"}
     Ottawa -- 예 --> XR[X선 촬영]
-    Ottawa -- 아니오 --> SoftTissue[연부조직/기타 손상 평가 및 보존치료]
-    TraumaEval -- 아니오 --> OtherTrauma{"변형·탈구 의심 또는<br>toe/MTP/Lisfranc 등 별도 평가 필요?"}
-    OtherTrauma -- 예 --> XR
-    OtherTrauma -- 아니오 --> SoftTissue
-    XR --> Fracture{골절/탈구?}
-    Fracture -- 예 --> OrthoRef[정형외과 의뢰]
-    Fracture -- 아니오 --> SoftTissue
-    Trauma -- 없음 --> Vascular{보행 시 통증-휴식 시 완화,<br>편측 부종/발적/발열?}
-    Vascular -- 예 --> VascularEval[PAD/DVT/봉와직염/당뇨발 평가]
+    Ottawa -- 아니오 --> Recheck[규칙 적용 부위 외 손상·<br>잠재 골절 임상 판단]
+    TraumaEval -- 아니오 --> Recheck
+    XR --> XResult
+    XResult -- 예 --> OrthoRef[고정·정형외과 평가]
+    XResult -- 아니오 --> Recheck
+    Recheck -- 의심 지속 --> LMRI
+    Recheck -- 중대한 손상 의심 낮음 --> SoftTissue[연부조직 손상 평가·보존치료]
+    Trauma -- 없음 --> Vascular{파행, 편측 부종·열감,<br>당뇨발 이상 소견?}
+    Vascular -- 예 --> VascularEval[PAD·DVT·감염·Charcot 평가]
     Vascular -- 아니오 --> Location{통증 부위는?}
-    Location -- Forefoot --> ForefootDx[전족부 감별표 참조]
-    Location -- Midfoot --> MidfootDx[중족부 감별표 참조]
-    Location -- Rearfoot/Heel --> RearfootQ{아침 첫 걸음 시 medial<br>calcaneus 통증?}
-    RearfootQ -- 예 --> PFDx[족저근막염 - 임상 진단]
-    RearfootQ -- 아니오 --> OtherRear[기타 후족부 질환 감별표 참조]
+    Location -- Forefoot --> ForefootDx[전족부 감별표]
+    Location -- Midfoot --> MidfootDx[중족부 감별표]
+    Location -- Rearfoot/Heel --> RearfootQ{아침 첫 걸음 시<br>내측 발뒤꿈치 통증?}
+    RearfootQ -- 예 --> PFDx[족저근막염 임상 진단]
+    RearfootQ -- 아니오 --> OtherRear[기타 후족부 감별표]
     style PFDx fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
@@ -303,13 +313,13 @@ graph TD
 * 볼이 넓고 완충력이 있는 신발 선택; 발에 맞지 않는 신발(하이힐, 플랫슈즈, 낡은 운동화) 회피
 * 급격한 운동량·보행량 증가 지양, 점진적 활동량 조정
 * 체중 관리
-* 당뇨병 환자 : 매일 발 육안 검사, 적절한 발톱 관리, 정기적 신경병증·혈류 선별검사(모노필라멘트 검사, ABI 등), 상처 발생 시 조기 내원 교육
+* 당뇨병 환자 : 매일 발 육안 검사, 적절한 발톱 관리, 정기적인 발·보호감각(모노필라멘트 등)·발맥박 평가. 파행·휴식통·발맥박 감소 등 PAD 의심 소견이 있으면 ABI 및 필요시 발가락혈압 평가; 무증상 고위험군에서는 PAD 진단이 관리 방침을 바꿀 때 ABI 선별검사 고려. 상처 발생 시 조기 내원 교육 [ADA Standards of Care 2026]
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-M79.67 발의 통증 (Pain in foot)
+M79.67 사지의 통증, 발목 및 발 Pain in limb, ankle and foot
 
 M72.2 발바닥근막성 섬유종증 [포함: 발바닥근막염]
 
@@ -380,7 +390,7 @@ M77.3 종골극(calcaneal spur)
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 표준 보존치료(신발 교정, 스트레칭, NSAID) 4\~6주 이내에 호전이 없는 경우
+> * 교육·신발 및 활동 조절, 스트레칭·테이핑 등 초기 치료를 4\~6주 시행해도 호전이 없는 경우(진단과 치료 수행을 재평가)
 > * 발뒤꿈치 통증과 함께 발적·부종·발열이 동반되는 경우 - 감염 감별 위해 조기 내원
 > * 갑작스런 심한 통증과 함께 부종(파열 의심) - 즉시 내원
 > * 당뇨병 환자에서 통증 양상이 변하거나 감각 저하가 동반되는 경우 - 즉시 내원
@@ -405,11 +415,11 @@ M77.3 종골극(calcaneal spur)
 * **아침에 일어나 걷기 전 발바닥과 종아리를 가볍게 스트레칭하십시오.** 자는 동안 짧아졌던 근막이 갑자기 늘어나며 통증이 유발되기 때문입니다
 * **볼이 넓고 굽이 낮으며 쿠션이 있는 신발을 신으십시오.** 맨발이나 슬리퍼는 피하는 것이 좋습니다
 * **아프면 잠시 활동을 줄이고, 아픈 만큼 무리한 걷기·달리기·등산은 피하십시오.**
-* **체중이 늘었다면 감량을 목표로 하십시오.** 체중 조절은 회복에 가장 큰 영향을 미치는 요인 중 하나로, 체중 부하가 줄면 증상 완화와 재발 방지에 크게 도움이 됩니다
+* **과체중이라면 무리가 없는 체중 관리를 함께 계획하십시오.** 체중 관리와 활동량 조절은 발뒤꿈치에 가해지는 부담을 줄이는 데 도움이 될 수 있습니다
 
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
-* 통증이 있을 때만 소염진통제를 필요에 따라 복용하며, 매일 규칙적으로 드실 필요는 없습니다
+* 소염진통제를 처방받았다면 통증 조절을 위해 처방된 기간·용법대로 사용하십시오. 장기 복용이 필요한 치료는 아니므로 이후 지속 여부를 의료진과 상의하십시오
 * 병원에서 맞는 스테로이드 주사는 효과가 일시적이며 반복 주사는 근막 파열이나 지방패드 위축 위험이 있어 가급적 최소화합니다
 
 #### <mark style="color:$primary;">다음과 같은 경우 다시 진료를 받으세요</mark>
