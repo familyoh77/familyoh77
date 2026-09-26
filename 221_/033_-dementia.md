@@ -21,22 +21,20 @@
 * 특정 치료가 가능한 원인 : 정상압수두증, 경막하혈종, 뇌종양 등 구조적 병변, 신경매독·HIV 등 감염
   * 이러한 원인이 교정되어도 인지기능이 완전히 회복된다고 보장할 수는 없음
 
+## <mark style="color:green;">원인 및 병태생리</mark>
+
 ### <mark style="color:orange;">병태생리</mark>
 
-* 알츠하이머병 : 고령자 치매의 60\~80% 차지.&#x20;
-  * 병리와 혼합된 형태로 발생; AD 병리만 단독으로 있는 경우는 약 30%에 그침 \[Neurology 2007]
-    * 임상적 probable AD의 95% 이상에서 둘 이상의 병리가 확인됨 \[Neuropathol 2017]
-    * 혼합 병리는 진행 속도와 치료 반응에 영향을 주므로, AD로 진단한 환자에서도 혈관 위험인자 관리를 병행
+* 알츠하이머병 : 고령자 치매의 60\~80% 차지
+  * 혈관성 병리, 루이소체, TDP-43(LATE) 등 다른 병리와 흔히 혼합되어, 치매 환자 중 AD 병리만 단독으로 있는 경우는 약 30%에 그침 \[Neurology 2007]
+    * 평가하는 병리 범위를 넓히면 임상적 probable AD의 95% 이상에서 둘 이상의 병리가 확인됨 \[Acta Neuropathol 2017]
+  * 혼합 병리는 진행 속도와 치료 반응에 영향을 주므로, AD로 진단한 환자에서도 혈관 위험인자 관리를 병행
   * amyloid β 단백 축적, 신경원섬유 엉킴(tau 단백), 시냅스 이상 → 신경 퇴행/사멸
   * choline acetyltransferase↓ → acetylcholine synthesis↓ → cholinergic function↓
 * 혈관성 치매 : 오래 지속된 고혈압, 당뇨병, 뇌졸중 병력 환자에서 흔함. AD와 병발 가능
   * 소혈관질환(세동맥경화, 열공경색, 백질 고신호, 미세출혈)이 가장 흔한 기전이며, 대혈관 경색·색전, 전략적 부위 경색, 뇌출혈도 원인이 됨
-* 루이소체 치매 : 뇌세포에서 비정상 단백인 Lewy body(α-synuclein) 형성
+* 루이소체치매 : 뇌세포에서 비정상 단백인 Lewy body(α-synuclein) 형성
 * 전측두엽 치매 : tau 또는 TDP-43 단백 이상 집적에 의한 전측두엽 뇌세포 사멸
-
-## <mark style="color:green;">원인</mark>
-
-* 대부분 명확치 않음
 
 ### <mark style="color:orange;">위험인자</mark>
 
@@ -51,7 +49,7 @@
 * 수정 불가 인자 : 고령, 가족력
 * 인지·정신 관련 : 경도인지장애(MCI), 수면 장애(수면무호흡증, 수면 분절, 수면 시간 단축)
 * 대사·혈관 관련 : 심방세동, 뇌졸중(허혈성/출혈성), 만성콩팥병, 고호모시스테인혈증
-* 유전·약물 : APOE ε4 대립유전자 보유, 항콜린제 사용&#x20;
+* 유전·약물 : APOE ε4 대립유전자 보유, 항콜린제 사용
   * 항콜린 부담(anticholinergic burden) 누적은 인지 저하 및 치매 위험을 높임; 대표 약제 - TCA, oxybutynin, 1세대 항히스타민 → 고령 환자에서 정기적 복용 약물 점검 필수
 
 {% hint style="info" %}
@@ -107,7 +105,7 @@
 
 A. Major neurocognitive disorder에 부합
 
-1. 다음 6가지인지 영역 중 ≥1개에서 이전보다 상당한 저하가 있으며, 이는 (1) 본인·정보제공자·임상의의 우려와 (2) 표준화 신경심리검사 또는 다른 정량적 임상 평가로 확인된 상당한 손상에 근거함
+1. 다음 6가지 인지 영역 중 ≥1개에서 이전보다 상당한 저하가 있으며, 이는 (1) 본인·정보제공자·임상의의 우려와 (2) 표준화 신경심리검사 또는 다른 정량적 임상 평가로 확인된 상당한 손상에 근거함
    * complex attention : 다중 작업, 집중력 유지, 암산 능력 저하
    * executive function : 계획 수립, 의사 결정, 오류 수정, 정신적 유연성 등 감퇴
    * learning & memory : 같은 말을 반복, 쇼핑 목록을 기억할 수 없음, 자주 상기시켜야 함
@@ -139,23 +137,23 @@ D. 이 장애는 뇌혈관 질환, 다른 신경퇴행성 질환, substance의 �
   2. MCI(경도인지장애) due to AD : 인지 저하에 대한 우려, 기억 등 ≥1개 영역의 객관적 인지 저하, 독립적 일상기능 유지, 치매가 아님을 핵심 임상 기준으로 평가
      * AD 병리 가능성(높음·중간·판단 불가)을 세분하는 데 바이오마커를 활용
   3. Dementia due to AD : 기능 장애를 초래하는 인지 능력 저하 등 핵심 임상 기준으로 probable/possible AD 치매를 진단. 바이오마커는 AD 병태생리에 대한 확실성을 높이는 데 사용
-* [NIA-AA 2018 AT(N) framework](https://www.alzheimers.dev/research/papers/nia-aa-research-framework-2018) : AD를 세 가지 핵심 범주인 아밀로이드(A), tau(T), 신경퇴행(N)의 생물학적 지표로 로 그룹화
+* [NIA-AA 2018 AT(N) research framework](https://pubmed.ncbi.nlm.nih.gov/29653606/) : 연구용 기준으로, AD 바이오마커를 아밀로이드(A), tau(T), 신경퇴행(N)의 세 범주로 분류하고 AD는 A와 T로 정의
   * A (Amyloid-β 단백) : 대뇌 피질 아밀로이드 PET 양성 또는 뇌척수액(CSF) Aβ₄₂ 감소; AD에 특이적
   * T (Pathologic Tau 단백) : 뇌척수액 인산화 타우(P-tau) 상승 또는 타우 PET 양성; AD에 특이적
-  * (N) (Neuro-degeneration / Neuronal Injury) : 뇌척수액 총 타우(T-tau) 상승, 구조적 MRI상 뇌 위축, FDG-PET 상의 대사 저하; AD뿐 아니라 혈관성 손상, FTLD, 루이소체병, 외상 등 각종신경 손상에서 양성 결과; 병기·중증도를 보여주는 보조 지표로 괄호에 넣어 구분함
-* [2024 Alzheimer's Association](https://www.alz.org/research/for_researchers/diagnostic-criteria-guidelines) : 혈액 바이오마커를 포함한 생물학적 진단과 통합 임상 병기(0\~6단계)·생물학적 병기(A\~D단계) 체계를 제시함.&#x20;
+  * (N) (Neuro-degeneration / Neuronal Injury) : 뇌척수액 총 타우(T-tau) 상승, 구조적 MRI상 뇌 위축, FDG-PET 상의 대사 저하; AD뿐 아니라 혈관성 손상, FTLD, 루이소체병, 외상 등 각종 신경 손상에서 양성 결과; 병기·중증도를 보여주는 보조 지표로 괄호에 넣어 구분함
+* [2024 Alzheimer's Association](https://www.alz.org/research/for_researchers/diagnostic-criteria-guidelines) : 혈액 바이오마커를 포함한 생물학적 진단과 통합 임상 병기(0\~6단계)·생물학적 병기(A\~D단계) 체계를 제시함.
   * 단, 바이오마커 양성은 임상적 치매와 동의어가 아니며, 무증상 일반인에게 일률적으로 검사하거나 혈액검사 하나만으로 AD를 진단 또는 치료하지 않음
 * [IWG 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010406/) : AD를 임상-생물학적(Clinical-biological) 개념으로 보며, 증상 없는 바이오마커 양성자는 AD 환자가 아닌 '위험 상태(at risk)'로 분류함
 * 실제 임상 평가는 [2024\~2025 DETeCD-ADRD 지침](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14337)에 따라 환자와 정보제공자의 병력, 객관적 인지평가, 기능 평가, 신경학적 진찰, 단계별 검사, 진단 설명과 상담을 통합
 
 #### <mark style="color:$primary;">AD 바이오마커 계층 (접근성 순)</mark>
 
-<table><thead><tr><th width="76">단계</th><th width="92">검사</th><th width="223">주요 지표</th><th>임상적 역할</th></tr></thead><tbody><tr><td>1단계</td><td>혈액</td><td>p-tau217(또는 %p-tau217), p-tau181, Aβ₄₂<sub>/</sub>₄₀ 비</td><td>전문 진료의 객관적 인지장애 환자 대상 [Alzheimers Dement 2025]. 분류(triage) 검사: 민감도 ≥90%·특이도 ≥75%; 음성이면 AD 병리 가능성이 낮고 양성이면 PET·CSF 확인 필요. 확인(confirmatory) 검사: 민감도·특이도 모두 ≥90%일 때 PET·CSF 대체 가능. 무증상 선별용 아님</td></tr><tr><td>2단계</td><td>CSF</td><td>Aβ₄₂<sub>/</sub>₄₀ 비, p-tau181/Aβ₄₂ 비 (total tau)</td><td>AD 병리 확인; 침습적이나 PET 대비 저비용</td></tr><tr><td>3단계</td><td>Amyloid PET</td><td>뇌 아밀로이드 침착 직접 시각화</td><td>AD 병리 확인; 항아밀로이드 치료 적격성 평가</td></tr></tbody></table>
+<table><thead><tr><th width="76">단계</th><th width="92">검사</th><th width="223">주요 지표</th><th>임상적 역할</th></tr></thead><tbody><tr><td>1단계</td><td>혈액</td><td>p-tau217(또는 %p-tau217), p-tau181, Aβ₄₂/₄₀ 비</td><td>전문 진료의 객관적 인지장애 환자 대상 [Alzheimers Dement 2025]. 분류(triage) 검사: 민감도 ≥90%·특이도 ≥75%; 음성이면 AD 병리 가능성이 낮고 양성이면 PET·CSF 확인 필요. 확인(confirmatory) 검사: 민감도·특이도 모두 ≥90%일 때 PET·CSF 대체 가능. 무증상 선별용 아님</td></tr><tr><td>2단계</td><td>CSF</td><td>Aβ₄₂/₄₀ 비, p-tau181/Aβ₄₂ 비 (total tau)</td><td>AD 병리 확인; 침습적이나 PET 대비 저비용</td></tr><tr><td>3단계</td><td>Amyloid PET</td><td>뇌 아밀로이드 침착 직접 시각화</td><td>AD 병리 확인; 항아밀로이드 치료 적격성 평가</td></tr></tbody></table>
 
-> _<mark style="color:$info;">✽FDA 허가 혈액 검사(2026년 9월 기준 4종) : Lumipulse G pTau217/β-amyloid</mark>_&#x2081;₋₄₂ _<mark style="color:$info;">plasma ratio, Elecsys pTau181, PrecivityAD2, Elecsys pTau217.</mark>_ \
+> _<mark style="color:$info;">✽FDA 허가 혈액 검사(2026년 9월 기준 4종) : Lumipulse G pTau217/β-amyloid 1-42 plasma ratio, Elecsys pTau181, PrecivityAD2, Elecsys pTau217.</mark>_ \
 > _<mark style="color:$info;">모두 인지 저하 증상 환자가 검사 대상이며 단독 확진·무증상 선별용이 아님. 결과 구간 체계는 검사별로 다르며(양성·중간·음성 3구간 또는 배제 중심 판정), 중간 결과나 임상상과 불일치하는 결과는 PET·CSF로 추가 평가.</mark>_ \
 > _<mark style="color:$info;">성능은 대상군의 유병률과 신기능(만성콩팥병에서 p-tau 수치 상승 가능)에 따라 달라질 수 있음.</mark>_ \
-> _<mark style="color:$info;">2025 AA 진료지침은 전문 진료 환경의 인지장애 환자에 한해 사용을 권고하며, 상용 검사 상당수가 권고 성능 기준에 미달함.</mark>_ \
+> _<mark style="color:$info;">2025 AA 진료지침은 전문 진료 환경의 인지장애 환자를 대상으로 하며 1차 진료에 대한 권고는 포함하지 않음. FDA 허가 범위(예: Elecsys pTau181의 1차 진료 배제 보조)와 학회 지침의 권고 범위는 다를 수 있으며, 상용 검사 상당수가 지침의 권고 성능 기준에 미달함.</mark>_ \
 > _<mark style="color:$info;">국내에서는 Elecsys pTau181이 식약처 허가 심사 중(2026년 6월 기준).</mark>_
 
 #### <mark style="color:$primary;">NINCDS-ADRDA 진단 기준</mark>
@@ -238,7 +236,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 수 시간\~수 일 사이의 급성 인지 저하, 주의력 장애, 의식 수준 변동  `섬망` `뇌졸중` `비경련성 뇌전증지속상태`
-* 새 국소신경학적 결손, 경련, 발열·수막자극징후, 의식 저하 또는 최근 두부외상(특히 항응고제 복용 중) 동반  `뇌졸중` `급성 경막하혈종` `뇌수막염/뇌염`&#x20;
+* 새 국소신경학적 결손, 경련, 발열·수막자극징후, 의식 저하 또는 최근 두부외상(특히 항응고제 복용 중) 동반  `뇌졸중` `급성 경막하혈종` `뇌수막염/뇌염`
 * 항아밀로이드 항체 투여 중 새 두통, 혼돈, 시각 이상, 보행장애, 경련  `ARIA`
 * ChEI 복용 중 실신 또는 심한 서맥  `약물 유발 서맥/방실차단`
 * 자살·타해 위험, 안전 유지가 불가능한 심한 초조·정신병적 증상, 즉각적 위험이 있는 학대·방임 의심
@@ -259,7 +257,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 * 보행 장애·요실금·인지 저하의 삼증  `정상압수두증`
 * 실어증, 피질성 시각 이상, 사지 실행증, 비대칭 강직, 근간대경련, 안구운동 이상, 운동실조  `PCA` `CBS` `PSP`
 * 병력과 검사 결과가 불일치하거나 교육·직업 수준 때문에 인지검사 해석이 어려움
-* 가족이 먼저 알아채는 서서히 진행하는 기억력·판단력 저하, MCI 추적 중 일상기능 저하 발생  `초기 치매` `MCI 진행`&#x20;
+* 가족이 먼저 알아채는 서서히 진행하는 기억력·판단력 저하, MCI 추적 중 일상기능 저하 발생  `초기 치매` `MCI 진행`
 * 우울·약물(항콜린제·진정제) 조정 후 인지 재평가 필요  `우울증성 인지장애` `약물 유발`
 
 ## <mark style="color:green;">진단</mark>
@@ -279,10 +277,10 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 ### <mark style="color:orange;">선별검사 : 인지 기능 검사</mark>
 
 * 증상이 없는 고령자에 대한 일률적인 인지 장애 선별검사는 권고하지 않음
-* 인지 장애 병력(+) & 인지 검사 정상&#x20;
+* 인지 장애 병력(+) & 인지 검사 정상
   * 경증 치매, 높은 지적 수준, 우울 가능성 고려
   * 보호자가 일상 기능의 뚜렷한 변화를 보고하는데 진찰실 검사가 정상이면 표준화 신경심리검사(SNSB-II, CERAD-K 등) 의뢰를 적극 고려
-* 인지 장애 병력(-) & 인지 검사 이상&#x20;
+* 인지 장애 병력(-) & 인지 검사 이상
   * 급성 혼돈 상태, 매우 낮은 지적 수준, 병력 정보 오류 가능성 고려
 
 #### <mark style="color:$primary;">검사 대상</mark>
@@ -299,7 +297,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 * 선별검사일 뿐 치매 확진검사가 아니며, 양성 또는 임상 의심이 지속되면 정보제공자 면담, 기능 평가와 정밀 인지평가를 시행
 * 검사 내용
   1. 3단어 등록 : 서로 관련 없는 단어 3개를 듣고 반복하게 함(등록 단계는 채점하지 않음)
-  2. 시계 그리기 : 원 안에 숫자를 배치하고 \*\*“11시 10분(11시에서 10분 지난 시각)”\*\*을 표시하게 함
+  2. 시계 그리기 : 원 안에 숫자를 배치하고 **11시 10분**(11시에서 10분 지난 시각)을 표시하게 함
   3. 지연 회상 : 처음 제시한 단어 3개를 단서 없이 회상하게 함
   4. 채점 : 회상 0\~3점＋정상 시계 2점(비정상 또는 거부 0점)=총 0\~5점
      * ＜3점 : 표준적으로 인지장애 선별 양성, 추가 평가 필요
@@ -310,7 +308,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 * 점수 구성 : 시간 지남력 5점, 장소 지남력 5점, 기억 등록 3점, 기억 회상 3점, 주의 집중 및 계산 능력 5점, 언어 능력 8점, 시각 구성 1점(총 30점) (설문은 이 [pdf의 부록1](https://www.jkna.org/upload/pdf/200304004.pdf) 참조)
 * 총점만으로 정상·치매 또는 중증도를 확정하지 않으며, 검사판에 맞는 연령·교육수준별 국내 규준과 환자의 기저 기능을 적용하여 해석
 * 경증 치매에 민감하지 않고 언어·운동·시각 장애, 연령, 교육수준에 영향을 받으며 천장 효과로 초기 AD 및 전측두엽 치매의 변별력이 낮음
-* 초기 치매가 의심되나 MMSE 점수가 높게 나오는 경우, K-MoCA를 병행하여 집행 기능과 시공간 능력을 재평가할 것 (☞ [경도인지장애](032_-mild-cognitive-impairment-mci.md#k-moca))
+* 초기 치매가 의심되나 MMSE 점수가 높게 나오는 경우, K-MoCA를 병행하여 집행 기능과 시공간 능력을 재평가할 것 (☞ [경도인지장애](032_-mild-cognitive-impairment.md#k-moca))
 
 #### <mark style="color:$primary;">한국판 몬트리올 인지평가 (</mark>[<mark style="color:$primary;">K-MoCA</mark>](https://accesson.kr/kjcp/assets/pdf/16582/journal-28-2-549.pdf)<mark style="color:$primary;">)</mark>
 
@@ -329,11 +327,10 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 
 #### <mark style="color:$primary;">한국판 Global Deterioration Scale(GDS)</mark>
 
-* 환자 및  보호자와의 구체적인 질문 면담을 통해 퇴행성 치매의 중증도를 평가 1\~7 단계로 평가 (평가표는 이  [pdf의 표1](https://www.jkna.org/upload/pdf/200206005.pdf) 참조)
+* 환자 및 보호자와의 구체적인 면담을 통해 퇴행성 치매의 중증도를 1\~7단계로 평가 (평가표는 이 [pdf의 표1](https://www.jkna.org/upload/pdf/200206005.pdf) 참조)
   * 집 주소나 전화 번호, 본인 이름, 배우자, 자녀 및 손자의 이름, 시간 및 장소에 대한 지남력, 100에서 7씩 빼기, 40에서 4씩, 20에서 2씩 거꾸로 빼나가기, ‘1 - 1 0’또는‘1 0 - 1’까지 세기, 이상 행동, 일상생활 기능 등
   * 1단계 = 인지 장애 없음, 2단계 = 매우 경미, 3단계 = 경미, 4단계 = 중등도, 5단계 = 초기 중증, 6단계 = 중증, 7단계 = 후기 중증 인지 장애
 * CDR에 비해 상대적으로 짧은 시간에 판단할 수 있음
-* 초기 인지 장애의 평가에서는 CDR보다 우수, 중증의 인지 장애의 구분에는 민감하지 않음
 
 #### <mark style="color:$primary;">CIST (인지선별검사, Cognitive Impairment Screening Test)</mark>
 
@@ -341,7 +338,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 * 검사 구성 : 지남력, 기억력, 주의력, 언어기능, 시공간 기능, 집행기능으로 총 13문항, 30점 만점이며 검사 시간은 약 5\~10분 소요
 * 시행 방식 : 검사자와 대상자의 1:1 문답 및 지필문항으로 시행하며, 인지저하 의심 여부 판단을 위한 연령·학력별 규준을 제공
 * 사용 제한 : 저작권자- 보건복지부, 검사지 사용 전 국가치매교육 홈페이지([edu.nid.or.kr](https://edu.nid.or.kr))에서 치매선별검사 수행교육(CIST)을 이수해야 함
-* K-MMSE와의 관계 : CIST와 K-MMSE-2 총점 간 높은 상관관계가 보고.&#x20;
+* K-MMSE와의 관계 : CIST와 K-MMSE-2 총점 간 높은 상관관계가 보고.
   * CIST는 총 30점이라도 연령·학력별 규준에 따라 인지저하 의심 여부를 판정하므로 K-MMSE 점수나 절단점으로 일대일 환산하지 않음
 
 #### <mark style="color:$primary;">1차 진료용 상황별 인지 기능 검사 가이드 안</mark>
@@ -374,11 +371,11 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 
 * 치매의 원인 감별, 치매 상태 평가, 치매로 인한 영양 상태 저하 감별 목적
 
-1단계 기본 평가 ('인지 검사 패널')
+**기본 검사 (Tier 1, 인지 검사 패널)**
 
 * 거의 모든 환자에서 시행
 * CBC(감별 포함), 신·간기능, 전해질, 혈당, 칼슘·마그네슘·인, TSH, Vit B12, homocysteine, ESR, CRP
-* homocysteine : Vit B₁₂ 혈중 농도로 드러나지 않는 기능적 Vit B₁₂ 결핍의 단서이자 뇌혈관 위험 지표
+* homocysteine : Vit B12 혈중 농도로 드러나지 않는 기능적 Vit B12 결핍의 단서이자 뇌혈관 위험 지표
 * ESR/CRP : 잠재된 염증·감염·종양을 거르는 비특이적 선별
 * BUN/Cr 비 ＞20 : 탈수 시사
 
@@ -387,13 +384,13 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 교정 가능한 원인이 발견되는 경우는 약 9%이나 교정 후 실제 호전은 0.6% 정도 \[Arch Intern Med 2003]
 {% endhint %}
 
-2단계 선택 검사 (임상상에 따라 일부 환자)
+**선택 검사 (Tier 2, 임상상에 따라 일부 환자)**
 
 * ANA, HbA1c, 지질, folate, MMA, 암모니아, 납, RPR, HIV, SPEP, PT/PTT, 요검사·요배양
 * 흉부 X선, 수면다원검사(수면무호흡 또는 렘수면행동장애 의심 시)
 * 섬망 또는 급성 정신상태 변화가 있으면 암모니아, 흉부 X선, 요검사·요배양을 기본 검사와 함께 시행
 
-3단계 (비전형·급속 진행 시 시행)
+**전문 검사 (Tier 3\~4, 비전형·급속 진행 시)**
 
 * 갑상선 자가항체, ACE, ANCA, 바이러스 항체, CSF 검사, 부종양 항체, 중금속 등
 
@@ -401,7 +398,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 
 * 인지·행동 증상의 원인 평가를 위해 비조영 MRI를 기본으로 시행
   * 장기간 와상 상태이고 의사소통이 불가능한 중증 치매에서는 뚜렷한 임상적 이유 없이 영상 검사를 시행하지 않음
-* MRI 우선 : 구조적 원인(뇌졸중, 뇌종양, 뇌수두증, 백질 변성 등) 감별에 CT보다 우수
+* MRI 우선 : 구조적 원인(뇌졸중, 뇌종양, 수두증, 백질 변성 등) 감별에 CT보다 우수
 * CT 허용 : MRI 촬영 불가 환자(금속 삽입물, 폐쇄 공포증, 협조 어려움)에서 대체 가능
 * 다음 경우는 영상 검사를 지체 없이 시행하고 전문의 평가를 병행
   * 비전형적 임상 양상 (atypical presentation)
@@ -418,9 +415,9 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 #### <mark style="color:$primary;">AD 표지자(biomarker)</mark>
 
 * 영상 : AD 환자의 뇌에서 증가한 Aβ(amyloid β)와 tau 단백질을 PET으로 촬영
-* 뇌척수액 : 뇌의 신경 퇴화가 진행됨에 따라 뇌에 Aβ가 축적되고 amyloid plaque가 형성되는 한편, CSF에서는 Aβ가 감소함; 뇌신경세포 사멸에 따라 세포 밖으로 흘러나온 tau 단백질이 CSF에서 증가함
+* 뇌척수액 : 뇌에 amyloid plaque가 침착되면 CSF Aβ₄₂(또는 Aβ₄₂/₄₀ 비)가 감소하고, tau 병리와 신경세포 손상이 진행하면 CSF p-tau와 total tau가 증가함
 * 혈액 : 임상 활용이 확대 중이나 검사법별 성능·절단점과 적용 대상이 다름
-  * FDA 허가 검사 : Lumipulse pTau217/Aβ₄₂ 비, Elecsys pTau181(1차 진료 배제 보조), PrecivityAD2(≥40세), Elecsys pTau217( 포함·배제 평가)&#x20;
+  * FDA 허가 검사 : Lumipulse pTau217/Aβ₄₂ 비, Elecsys pTau181(1차 진료 배제 보조), PrecivityAD2(≥40세), Elecsys pTau217(포함·배제 평가)
   * neurofilament light chain(NfL), GFAP 등은 AD 특이적이지 않은 보조 마커로 연구 중
   * 혈액검사 결과만으로 치매를 진단하거나 항아밀로이드 치료를 결정하지 않으며 임상상과 함께 해석
   * lecanemab 치료 전에 amyloid PET 또는 CSF 검사로 Aβ 병리를 확인
@@ -434,18 +431,18 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 ### <mark style="color:orange;">감별</mark>
 
 * 정상 노화 관련 인지 기능 저하 : 기능 장애는 없으며 일상생활에 심각한 장애를 일으키지는 않는 정도의, 비진행성의 가벼운 기억력 저하, 새로운 정보 습득의 어려움. 적절한 평가 없이 인지·행동 증상을 정상 노화로 돌리지 않음
-* [경도인지장애](032_-mild-cognitive-impairment-mci.md) : 인지 기능의 감소; 일상생활 능력은 유지됨
+* [경도인지장애](032_-mild-cognitive-impairment.md) : 인지 기능의 감소; 일상생활 능력은 유지됨
 * 섬망 : 불안정, 집중력 변화 (치매의 경우 집중력은 어느 정도 보존됨)
 * 우울증성 인지장애 : 우울, 불안, 불면, 의욕 저하와 함께 주의·기억·집행 기능 저하가 나타날 수 있음
-  * 과거 '가성치매(pseudodementia)'로 표현하였으나'가성'이라는 표현과 달리 실제 기능 장애가 있으며 별개의 정식 진단명은 아님
+  * 과거 '가성치매(pseudodementia)'로 표현하였으나 '가성'이라는 표현과 달리 실제 기능 장애가 있으며 별개의 정식 진단명은 아님
   * 우울과 신경퇴행성 질환은 병존할 수 있으므로 우울 치료 반응만으로 치매를 배제하지 않고 인지·기능 경과를 함께 추적
   * 노년기에 새로 생긴 우울·과민·불안·무감동은 AD나 FTLD, 루이소체병의 전구 증상(경도행동장애)일 수 있음
   * 인지 기능이 정상이어도 정신과 치료와 함께 인지 경과를 추적
 * 약물 기인 : 항콜린제, 항히스타민제, 수면제, 항경련제, 진정제, 아편제, 알코올
 * 시력 저하, 청력 저하, 영양 결핍, 전해질 장애, 뇌종양, 뇌 손상(예: 외상, 감염)
-* LATE(Limbic-predominant Age-related TDP-43 Encephalopathy) : ≥80세 초고령층에서 AD와 유사한 기억력 저하를 보이나, 아밀로이드 축적은 없으며 TDP-43 단백병증이 원인
-  * 뇌척수액·혈액 아밀로이드 바이오마커 음성이면서 AD 유사 증상이 있는 초고령 환자에서 고려
-  * AD와 동반되는 경우도 흔하며, 부검으로만 확진이 가능함
+* LATE(Limbic-predominant Age-related TDP-43 Encephalopathy) : 주로 80세 이상에서 AD와 유사한 기억 저하를 보이며 TDP-43 단백병증이 원인. 아밀로이드 병리 없이 단독으로 발생하기도 하고 AD와 흔히 동반됨
+  * 아밀로이드 PET·CSF·혈액 바이오마커가 음성이면서 AD 유사 증상이 있는 초고령 환자에서 고려
+  * 부검으로만 확진 가능
 
 #### <mark style="color:$primary;">고령자 인지 장애 감별</mark>
 
@@ -464,8 +461,7 @@ _<mark style="color:$info;">MCI=mild cognitive impairment, DLB=dementia with Lew
 #### <mark style="color:$primary;">치매·우울·섬망의 핵심 감별</mark>
 
 * [우울 선별](027_-depression.md#undefined-8) : 인지 저하를 평가하는 모든 환자에서 시행
-  * 단축형 노인우울척도(SGDS-K) 또는 PHQ-9를 사용하고, 양성이면 우울 치료와 인지 평가를 병행&#x20;
-* 우울과 치매는 서로 배타적이지 않으며, 노년기에 새로 생긴 우울은 치매의 전구 증상일 수 있음
+  * 단축형 노인우울척도(SGDS-K) 또는 PHQ-9를 사용하고, 양성이면 우울 치료와 인지 평가를 병행
 
 <table><thead><tr><th>특징</th><th>주요 신경인지장애</th><th>우울증</th><th>섬망</th></tr></thead><tbody><tr><td>시작·경과</td><td>대개 잠행성, 원인에 따라 점진적·계단식</td><td>수 주~수 개월, 삽화성 가능</td><td>수 시간~수 일, 하루 중 변동</td></tr><tr><td>주의력·각성</td><td>초기에는 비교적 유지되나 DLB 등에서는 변동 가능</td><td>저하될 수 있으나 의식수준은 정상</td><td>부주의와 각성수준 변동이 핵심</td></tr><tr><td>기능</td><td>치매에서는 독립적 일상기능 저하</td><td>의욕저하로 수행이 감소할 수 있음</td><td>급격한 기능 변화</td></tr><tr><td>관계</td><td colspan="3">서로 배타적이지 않으며 치매 환자에게 우울과 섬망이 동반될 수 있음</td></tr></tbody></table>
 
@@ -504,11 +500,9 @@ flowchart TD
     style Q fill:#e8f5e9,stroke:#388e3c
 ```
 
-<p align="center"><strong>치매 진단 알고리듬</strong></p>
+<p align="center"><strong>치매 진단 및 치료 결정 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : DETeCD-ADRD, Alzheimers Dement 2025)</mark></em></p>
-
-***
 
 ***
 
