@@ -23,17 +23,16 @@
 * 수의 운동 시 호전
 * 관련 질환 : 파킨슨병 및 기타 파킨슨증, Holmes tremor, Wilson병 등
 
-## <mark style="color:green;">질환별 떨림의 분류와 특징</mark>
+## <mark style="color:green;">주요 떨림 증후군과 유사 증상</mark>
 
 ### <mark style="color:orange;">본태성 떨림 (Essential tremor)</mark>
 
-☞ 아래
+☞ 아래 ■ 본태성 떨림 참조
 
 ### <mark style="color:orange;">생리적 떨림 (Physiologic tremor)</mark>
 
-* postural/kinetic, 8\~12 Hz, 저진폭
-* 스트레스·카페인 등으로 유발
-* 기능 장애 없음, 안심 + 원인 제거
+* 누구에게나 있는 미세한 postural/kinetic 떨림(8\~12 Hz, 저진폭)으로 평소에는 대개 눈에 띄지 않음
+* 기능 장애가 없으며, 눈에 띄게 심해진 경우는 아래 강화 생리적 떨림으로 평가
 
 ### <mark style="color:orange;">강화 생리적 떨림 (Enhanced physiologic tremor)</mark>
 
@@ -42,8 +41,8 @@
   * 내분비 : 갑상샘기능항진증 (새로 발생했거나 원인 불명인 떨림, 갑상샘 증상이 있으면 TSH 우선 확인)
   * 심리 : 불안
   * 금단 : 알코올 금단, 진정제 금단
-  * 약물 : β-작용제, SSRI, 리튬, 발프로산 등 (약물 유발 떨림과 일부 중복)
-  * 기타 : 저혈당, 발열, 피로
+  * 약물 : β₂-작용제, SSRI, lithium, valproate 등 (약물 유발 떨림과 일부 중복)
+  * 기타 : 카페인·니코틴, 수면 부족, 피로, 저혈당, 발열
 * 원인을 교정하면 대개 호전되므로, 새로 발생한 떨림에서는 TSH와 약물력을 확인하고 임상 상황에 따라 혈당·전해질 등을 추가한다.
 
 ### <mark style="color:orange;">기능성 떨림 (Functional tremor)</mark>
@@ -81,7 +80,7 @@
 * 급성 발생 떨림과 함께 편측 위약·감각저하, 실어증, 복시, 심한 실조, 구음장애, 의식 변화 또는 갑작스러운 심한 두통 동반 `뇌졸중` `두개내출혈`
 * 알코올·진정제 금단 또는 약물·독성물질 중독이 의심되는 병력과 함께 현저한 빈맥·발한·발열 등 자율신경 항진, 혼돈·섬망 또는 경련 동반 `알코올·benzodiazepine 금단` `중독`
 * 갑상샘중독증 환자에서 떨림과 함께 고열, 심한 빈맥 또는 의식 변화 동반 `갑상샘 폭풍`
-* 혈당강하제 사용 중 떨림과 함께 식은땀, 혼돈 또는 의식 저하 동반 `저혈당`
+* 떨림·식은땀과 함께 혼돈 또는 의식 저하가 동반되면 약물 사용 여부와 관계없이 즉시 혈당 확인; 혈당강하제(특히 insulin·sulfonylurea) 사용, 과음, 금식, 간·신부전은 위험 단서 `저혈당`
 * 세로토닌성 약물 시작·증량·병용 후 떨림과 함께 간대성 근경련(유발·안구 clonus), 반사항진, 고열 또는 의식 변화 동반 `세로토닌 증후군`
 * 항정신병약 등 dopamine 차단제 복용 중 떨림과 함께 심한 근강직, 고열, 의식 변화, 자율신경 불안정 동반 `신경이완제 악성 증후군`
 * 파킨슨병의 도파민성 약물(levodopa 등)을 갑자기 중단·대폭 감량한 뒤 심한 경직, 고열, 의식 변화 또는 자율신경 불안정 동반 `파킨슨증-고열 증후군`
@@ -131,13 +130,15 @@ flowchart TD
     D --> F["동작 떨림"]
     E --> G["비대칭 + 서동·경직<br/>파킨슨병 의심 <br/>→ 신경과 의뢰"]
     E --> H["약물 유발 파킨슨증<br/>(항정신병약·levosulpiride<br/>·flunarizine 등)<br/>→ 원인 약물 조정"]
+    E --> G2["서동·경직 없는 안정 떨림<br/>또는 양상 불확실<br/>→ 신경과 의뢰·추적 재분류"]
     F ---> I["양상 감별"]
-    I --> J["3년 이상 양측 <br/>상지 동작 떨림,<br/>다른 신경학적 <br/>징후 없음<br/>→ 본태성 떨림"]
+    I --> J["3년 이상 양측 <br/>상지 동작 떨림,<br/>다른 신경학적 <br/>징후 없음<br/>→ 본태성 떨림<br/>(☞ 아래 치료 알고리듬)"]
     I --> K["고주파·가역적, <br/>불안·갑상샘·약물<br/>→ 강화 생리적 떨림: <br/>원인 교정"]
     I --> L["기립 시만 <br/>다리 떨림, <br/>보행 시 호전<br/>→ 기립 떨림: <br/>신경과 의뢰"]
     I --> L2["불규칙·방향성, <br/>null point<br/>·sensory trick<br/>→ 근긴장이상 떨림: <br/>신경과 의뢰"]
     I --> M["변동성<br/>·주의분산성<br/>·entrainment <br/>양성<br/>→ 기능성 떨림"]
     I --> N["의도 떨림<br/>·실조 동반<br/> → 소뇌 떨림<br/>급성 발생<br/>·국소 신경징후 시 <br/>MRI"]
+    I --> O["3년 미만·양상 불확실<br/>·여러 유형 혼재<br/>→ 미확정 떨림:<br/>원인 평가 후 추적 재분류"]
     
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style B fill:#fff9c4,stroke:#ffe082
@@ -148,9 +149,9 @@ flowchart TD
     style G fill:#ffe0b2,stroke:#e65100
 ```
 
-<p align="center"><strong>떨림의  진단 및 치료 알고리듬</strong></p>
+<p align="center"><strong>떨림의 진단 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Mov Disord 2018; Mov Disord 2026)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Mov Disord 2018)</mark></em></p>
 
 ***
 
@@ -158,7 +159,7 @@ flowchart TD
 
 ### <mark style="color:orange;">본태성 떨림</mark>
 
-☞ 아래
+☞ 아래 ■ 본태성 떨림 참조
 
 ### <mark style="color:orange;">기립 떨림</mark>
 
@@ -168,7 +169,7 @@ flowchart TD
 * 확립된 표준 치료는 없으며 근거는 소규모 시험과 관찰자료 중심임. 단일기관 코호트 \[[J Neurol 2026](https://link.springer.com/article/10.1007/s00415-026-13625-3)]에서는 clonazepam, gabapentin, alprazolam이 가장 흔히 시도되고 상대적으로 효과적이었으나, 효과 부족이나 이상반응(진정·어지럼·보행 불안정)으로 중단한 경우가 많았고 여러 약제를 시도한 뒤에도 부분 호전에 그치는 경우가 많았음
   * clonazepam : 0.25\~0.5 ㎎ hs에서 시작하여 반응에 따라 천천히 적정(통상 0.25\~2 ㎎/d 범위); 진정·인지저하·의존성·보행 불안 및 낙상에 주의 <mark style="color:blue;">\[리보트릴]</mark>
   * gabapentin : 100\~300 ㎎ hs에서 시작하여 통상 300\~1,800 ㎎/d 범위에서 분할 투여; 신기능에 따라 감량하고 어지럼·졸림·운동실조에 주의 <mark style="color:blue;">\[뉴론틴]</mark>
-* 두 약제 모두 국내 기립 떨림 적응증은 없어 허가 외 사용이며, 객관적인 기립시간·보행 안정성 개선이 없거나 이상반응이 크면 중단
+* 두 약제 모두 국내 기립 떨림 적응증은 없어 허가 외 사용; 가능하면 치료 전후 기립 지속시간을 기록하되, 지속 여부는 환자가 체감하는 서 있기·보행 기능의 개선과 이상반응을 함께 고려하여 판단
 * 약물 불응성·불내성 중증 : 극히 선택된 환자에서 전문센터가 DBS 시술 가능성을 평가할 수 있으나, 근거는 소규모 증례 연구 수준임
 
 ### <mark style="color:orange;">강화 생리적 떨림</mark>
@@ -212,7 +213,9 @@ flowchart TD
 * 스트레스, 피로, 카페인 섭취로 악화
 * 일부 환자에서 알코올 섭취 후 일시적으로 호전되지만 진단적이지 않으며 치료 목적으로 권하지 않음
 
-## <mark style="color:green;">진단 기준</mark>
+## <mark style="color:green;">진단</mark>
+
+### <mark style="color:orange;">진단 기준</mark>
 
 * MDS 떨림 분류 합의안 \[[Mov Disord 2018](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.27121)]
 * **본태성 떨림(ET)** : 3년 이상 지속된 양측 상지의 동작(postural and/or kinetic) 떨림 + 근긴장이상·실조·파킨슨증 등 다른 신경학적 징후 없음
@@ -244,14 +247,15 @@ flowchart TD
     S -- "불충분" --> U["병용 또는 topiramate<br/>선택적으로 gabapentin"]
     T -- "불충분" --> U
     U -- "불응" --> V["신경과 의뢰<br/>DBS / 집속초음파"]
+    style J1 fill:#eeeeee,stroke:#888888,stroke-width:2px
     style P fill:#fff9c4,stroke:#ffe082
     style R fill:#fff9c4,stroke:#ffe082
     style V fill:#e3f2fd,stroke:#1565c0
 ```
 
-<p align="center"><strong>본태성 떨림의  진단 및 치료 알고리듬</strong></p>
+<p align="center"><strong>본태성 떨림의 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Mov Disord 2018; Mov Disord 2026)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 분류 기준 - Mov Disord 2018; 약물 근거 - Mov Disord 2026; 국내 허가·급여 - 식약처 허가사항, HIRA 고시 제2018-18호; 시술 - FDA 허가 기록)</mark></em></p>
 
 ***
 
@@ -259,19 +263,18 @@ flowchart TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-
-
-
+* 치료 여부는 떨림 진폭보다 식사·글쓰기·직업 활동·사회생활 등 환자가 느끼는 기능장애를 기준으로 결정
+* 경미하고 기능장애가 없으면 설명과 비-약물 치료로 경과 관찰
+* 치료 목표는 일정한 감소율이 아니라 환자가 중요하게 여기는 활동의 의미 있는 개선과 허용 가능한 이상반응으로 개별화
+* 적절한 약물 치료에 불응하는 중증 떨림은 신경과에 의뢰하여 botulinum toxin A 또는 침습적 치료(DBS, 집속초음파)를 검토
 
 ### <mark style="color:orange;">비-약물 치료</mark>
 
 * 환자에게 떨림의 양상과 유발 인자를 설명하고 과도한 카페인·니코틴, 수면 부족 및 스트레스를 조절
 * 작업치료 및 보조도구 : 손잡이가 굵거나 가중된 식기, 뚜껑 있는 컵 등; 손목 무게추는 피로 또는 떨림 악화를 유발할 수 있어 개별 평가
-* 경미하고 기능장애가 없으면 약물 없이 경과 관찰 가능
 
 ### <mark style="color:orange;">약물 치료</mark>
 
-* 치료 여부는 떨림 진폭보다 식사·글쓰기·직업 활동·사회생활 등 환자가 느끼는 기능장애를 기준으로 결정
 * 전통적인 초기 선택 : propranolol 또는 primidone; 국내 허가 약제인 arotinolol도 초기 선택으로 고려
   * 국내에서 arotinolol은 본태성 떨림 적응증이 있으나 propranolol(인데놀정 10 ㎎), primidone은 본태성 떨림에 허가 외 사용
   * 국내에서 primidone을 본태성 떨림의 첫 약제로 사용하면 현행 급여 기준을 충족하지 않음; β-blocker에 부작용·금기가 있거나 효과가 불충분한 경우 급여 인정
@@ -279,7 +282,6 @@ flowchart TD
 * 불충분하거나 사용할 수 없는 경우 : propranolol과 primidone 병용 또는 topiramate 고려; gabapentin은 근거가 제한적이므로 개별적으로 선택
 * benzodiazepine은 근거가 매우 제한적이고 낙상·인지저하·의존성 위험이 있어 불안이 뚜렷한 선택된 환자에서 예외적으로 단기간 고려
 * 2026 MDS 근거중심 재평가 \[[Mov Disord 2026](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.70184)]에서는 propranolol·primidone·topiramate·botulinum toxin A의 복수 시험에서 개선이 보고되었으나, 비뚤림 위험과 부정확성 때문에 검토된 모든 중재의 근거 확실성을 낮음 또는 매우 낮음으로 평가함. 이는 기존 약제를 사용하지 말라는 의미가 아니며 환자 선호, 기능 개선 및 이상반응을 함께 고려하여 공유 의사결정
-* 치료 목표는 일정한 감소율이 아니라 환자가 중요하게 여기는 활동의 의미 있는 개선과 허용 가능한 이상반응으로 개별화
 
 **모니터링**
 
@@ -355,7 +357,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">침습적 치료</mark>
 
-* 약물 불응성
+* 대상 : 약물 불응성 중증 본태성 떨림
 * deep brain stimulation (DBS) : 시상(VIM nucleus) 자극; 중증 약물 불응성 본태성 떨림에 적응
 * MR 유도 집속초음파 시상절개술(MR-guided focused ultrasound thalamotomy) : 절개 없이 VIM에 비가역적 병변을 만드는 치료로 DBS의 대안
   * 미국 FDA는 2016년 편측 치료를 승인했고 2022년부터 첫 시술 후 최소 9개월 간격을 둔 단계적 반대편 치료를 허용함. 양측 동시 치료와 구별해야 함 ([FDA device record](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P150038))
@@ -369,7 +371,9 @@ flowchart TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## ■ 떨림 공통 자료
+
+## <mark style="color:red;">질병코드</mark>
 
 G25.0 본태성 떨림 Essential tremor
 
