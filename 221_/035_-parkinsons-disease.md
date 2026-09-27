@@ -1,4 +1,4 @@
-# 파킨슨병 Parkinson's Disease (PD)
+# 파킨슨병 Parkinson’s Disease, PD
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -30,7 +30,7 @@
 * 기타 중추신경계 약물 : lithium, valproic acid
 * 기타 보고 약물 : methyldopa
   * amiodarone과 diltiazem의 연관 근거는 제한적임
-* Ca channel blocker : flunarizine, cinnarizine&#x20;
+* Ca channel blocker : flunarizine, cinnarizine
   * 어지럼 치료 목적으로 흔히 처방되므로 시작 전·장기 처방 중 서동증, 경직, 떨림과 보행 변화를 확인
 
 > ※ clozapine, quetiapine은 D2 수용체 결합력이 낮고 수용체에서 빨리 해리되어 항정신병제 중 위험이 가장 낮음. 단, 위험이 없는 것은 아니며 quetiapine은 고용량에서 운동 악화가 나타날 수 있음. clozapine은 무과립구증 때문에 정기 혈액검사가 필수이고, 두 약제 모두 진정·기립성 저혈압에 주의해야 함.
@@ -64,7 +64,7 @@
 * bradykinesia 또는 akinesia
   * 진단의 필수 요소
   * 움직임 속도 감소, 미세 작업 장애
-  * 반복적인 움직임 시 진폭 또는 속도가 점진적으로 감소(decrement)하는 양상이 진단적으로 중요&#x20;
+  * 반복적인 움직임 시 진폭 또는 속도가 점진적으로 감소(decrement)하는 양상이 진단적으로 중요
     * 예: 손가락 두드리기, 주먹 쥐었다 펴기 반복 시 관찰
   * [보행 장애](https://www.youtube.com/watch?v=pFLC9C-xH8E) : 느려진 움직임, 종종 걸음(좁게 발을 끌며 걸음), 가속 보행(앞으로 넘어질 듯, 점차 보행 속도가 빨라짐), 보행 동결(걸음 시작 또는 돌아설 때 보행을 완전히 멈춤)
     * 근 약화는 보통 없음
@@ -92,7 +92,7 @@
 * 감각 장애 : 후각 상실, 통각/감각 이상(자발적 작열감, 저림, 찌르는 느낌)
 * 기분 장애 : 우울, 불안, 무관심/무욕, 의지 상실
 * 인지 기능 장애, 치매 : 집중력, 수행 능력, 언어적 기억, 공간시각화 등의 장애, 환각, 망상
-  * 경도 인지 저하는 여러 단계에서 나타날 수 있고, 파킨슨병 치매는 보통 진행기에 흔함&#x20;
+  * 경도 인지 저하는 여러 단계에서 나타날 수 있고, 파킨슨병 치매는 보통 진행기에 흔함
 * 수면 장애 : 불면, 수면 단절, 악몽, 주간 졸음, REM 수면 행동 장애(수면 중 발음이나 행동)
 * 기타 : 피로감, 지루성 피부 질환
 
@@ -101,29 +101,29 @@
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 항파킨슨제 중단·흡수 장애(금식, 입원, 수술) 후 고열, 심한 전신 경직, 의식 변화 또는 자율신경 불안정
-* 수시간 내 갑작스러운 운동 기능 악화와 함께 국소 신경학적 결손  `뇌졸중`&#x20;
-* 휴식 시 흡기성 협착음, 호흡곤란, 청색증  `성대 외전 마비(MSA)` `기도 흡인`
-* 음식·침을 전혀 삼키지 못하거나 흡인 후 발열·호흡곤란  `흡인성 폐렴`&#x20;
-* 실신 또는 두부 손상을 동반한 낙상  `기립성 저혈압` `두개내출혈`
-* MAO-B 억제제 복용 중 tramadol, meperidine, dextromethorphan, 세로토닌성 약물 병용 후 고열, 초조, 근간대경련  `세로토닌 증후군`
+* 수시간 내 갑작스러운 운동 기능 악화와 함께 국소 신경학적 결손 `뇌졸중`
+* 휴식 시 흡기성 협착음, 호흡곤란, 청색증 `성대 외전 마비(MSA)` `기도 흡인`
+* 음식·침을 전혀 삼키지 못하거나 흡인 후 발열·호흡곤란 `흡인성 폐렴`
+* 실신 또는 두부 손상을 동반한 낙상 `기립성 저혈압` `두개내출혈`
+* MAO-B 억제제 복용 중 tramadol, meperidine, dextromethorphan, 세로토닌성 약물 병용 후 고열, 초조, 근간대경련 `세로토닌 증후군`
 * 구체적인 자살 사고 또는 자살 시도
-* 환자·타인에게 위험한 급성 정신증 또는 의식 변화  `섬망` `약물 유발 정신증`
-* 소변이 전혀 나오지 않는 급성 요폐  `급성 요폐` `항콜린제 부작용`
+* 환자·타인에게 위험한 급성 정신증 또는 의식 변화 `섬망` `약물 유발 정신증`
+* 소변이 전혀 나오지 않는 급성 요폐 `급성 요폐` `항콜린제 부작용`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 수일에 걸친 뚜렷한 운동 기능 악화  `감염(요로감염·폐렴)` `탈수` `약물 누락·상호작용`
-* 의식·주의력 변화 없이 새로 발생한 환각·망상  `파킨슨병 정신증`
-* 배뇨 곤란, 잔뇨감 증가 등 불완전 요폐  `항콜린제 부작용` `자율신경 기능장애`
-* 도박·과소비 등으로 경제적·사회적 위해가 발생한 충동 행동  `충동조절장애`&#x20;
-* 반복 낙상 또는 급격한 식사량·체중 감소  `연하장애` `기립성 저혈압`
+* 수일에 걸친 뚜렷한 운동 기능 악화 `감염(요로감염·폐렴)` `탈수` `약물 누락·상호작용`
+* 의식·주의력 변화 없이 새로 발생한 환각·망상 `파킨슨병 정신증`
+* 배뇨 곤란, 잔뇨감 증가 등 불완전 요폐 `항콜린제 부작용` `자율신경 기능장애`
+* 도박·과소비 등으로 경제적·사회적 위해가 발생한 충동 행동 `충동조절장애`
+* 반복 낙상 또는 급격한 식사량·체중 감소 `연하장애` `기립성 저혈압`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 빠른 진행, 발병 3년 이내 반복 낙상, 5년 이내 중증 구음·연하 장애 또는 중증 자율신경 기능 상실, 수직 핵상주시마비, 소뇌 징후, 설명되지 않는 추체로 징후  `PSP` `MSA` `CBS`
-* 충분한 용량의 levodopa에 무반응, 지속적 양측 대칭 또는 하지 우세 파킨슨증  `혈관성 파킨슨증` `정상압수두증`
-* 젊은 발병(대략 40세 미만은 Wilson병 선별), 비전형적 근긴장이상, 가족력  `Wilson병` `유전성 파킨슨병`
-* wearing-off, dyskinesia, 보행 동결, 치료 반응 불충분  `운동 합병증`
+* 빠른 진행, 발병 3년 이내 반복 낙상, 5년 이내 중증 구음·연하 장애 또는 중증 자율신경 기능 상실, 수직 핵상주시마비, 소뇌 징후, 설명되지 않는 추체로 징후 `PSP` `MSA` `CBS`
+* 충분한 용량의 levodopa에 무반응, 지속적 양측 대칭 또는 하지 우세 파킨슨증 `혈관성 파킨슨증` `정상압수두증`
+* 젊은 발병(대략 40세 미만은 Wilson병 선별), 비전형적 근긴장이상, 가족력 `Wilson병` `유전성 파킨슨병`
+* wearing-off, dyskinesia, 보행 동결, 치료 반응 불충분 `운동 합병증`
 * 낙상, 연하, 체중·영양, 인지·기분, 수면, 자율신경 증상과 운전 안전을 정기적으로 평가
 
 ## <mark style="color:green;">진단</mark>
@@ -356,7 +356,7 @@ class B,D,K,N yellow
 
 {% hint style="warning" %}
 **Carbidopa/levodopa 치료의 비타민 B6 결핍 경고** : 2026년 FDA는 carbidopa/levodopa 함유 제제에 비타민 B6 결핍 및 관련 발작 경고를 추가함. 고용량일수록 위험이 증가함(보고 14례는 모두 levodopa ＞1,000 ㎎/d).\
-치료 시작 전과 치료 중 주기적으로, 그리고 결핍 증상 발생 시 B6를 평가하고 필요시 보충. carbidopa/levodopa 복용 환자에서 새로운 발작이 생기면 표준 응급 평가·치료와 함께 B6 결핍을 확인. \
+치료 시작 전과 치료 중 주기적으로, 그리고 결핍 증상 발생 시 B6를 평가하고 필요시 보충. carbidopa/levodopa 복용 환자에서 새로운 발작이 생기면 표준 응급 평가·치료와 함께 B6 결핍을 확인.\
 Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 {% endhint %}
 
@@ -390,7 +390,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * ropinirole : 시작 0.25 ㎎ tid, 서방형 2 ㎎ qd; 최대 속방형 8 ㎎ tid(24 ㎎/d), 서방형 24 ㎎ qd
   * 임상에서는 통상 16 ㎎/d 이하에서 사용 <mark style="color:blue;">\[리큅, 리큅피디]</mark>
 * rotigotine : 초기 파킨슨병 시작 2 ㎎/24h, 최대 8 ㎎/24h <mark style="color:blue;">\[뉴프로 패취]</mark>
-  * 진행성 파킨슨병 시작 4 ㎎/24h, 최대 16 ㎎/24h&#x20;
+  * 진행성 파킨슨병 시작 4 ㎎/24h, 최대 16 ㎎/24h
   * 주의 : 패취 부착 부위 피부 반응, 졸림·갑작스러운 수면과 충동조절장애
 * bromocriptine : ergot계 dopamine 작용제로 판막질환 및 심장·폐·후복막 섬유화 위험 때문에 현재 비선호. 비-ergot계 치료로 충분히 조절되지 않는 경우의 제한적 보조요법으로 고려하며, 사용 전과 치료 중 심장초음파 등 섬유화 모니터링 필요
   * 첫 1주간 취침 시 1.25 ㎎, 이후 1주 간격으로 1.25\~2.5 ㎎/d씩 증량하여 통상 1일 10\~15 ㎎(필요시 30\~40 ㎎), 식사 직후 복용
@@ -402,11 +402,11 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 
 * 내약성 좋음
 * 부작용 : 구역, 두통, 수면 장애, 환각
-* 금기/주의 : meperidine, tramadol, methadone, dextromethorphan(기침약), 다른 MAO 억제제 병용&#x20;
+* 금기/주의 : meperidine, tramadol, methadone, dextromethorphan(기침약), 다른 MAO 억제제 병용
   * SSRI/SNRI/TCA 병용 시 세로토닌 증후군 위험(각 제품의 병용금기·휴약기간을 확인)
   * 심한 불면(특히 selegiline)
 * selegiline : 5 ㎎ qd\~bid, 최대 총 10 ㎎/d(아침·점심) <mark style="color:blue;">\[마오비]</mark>
-  * 저녁 복용 시 불면 유발 가능&#x20;
+  * 저녁 복용 시 불면 유발 가능
 * rasagiline : 초기 단독요법 또는 dopamine agonist 보조요법은 1 ㎎ qd <mark style="color:blue;">\[아질렉트]</mark>
   * 운동 동요가 있는 환자의 levodopa 보조요법은 0.5 ㎎ qd로 시작하여 필요시 1 ㎎ qd
 * safinamide : 시작 50 ㎎ qd; 최대 100 ㎎/d <mark style="color:blue;">\[에퀴피나]</mark>
@@ -449,7 +449,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * 금기/주의 : ≥65세, 인지 저하, 전립선 비대 (urinary retention), 녹내장
 * 처방약·일반약 전체의 총 항콜린 부담(anticholinergic burden)을 확인하고, 인지 저하·섬망·변비·요폐 악화를 모니터링
 * trihexyphenidyl : 1 ㎎ tid; 증량 2 ㎎ tid; 최대 15 ㎎/d <mark style="color:blue;">\[트리헥신]</mark>
-* benztropine : 1일 0.5\~1 ㎎으로 시작하여 5\~6일 간격으로 1일 0.5 ㎎씩 증량; 최대 1일 6 ㎎ <mark style="color:blue;">\[환인벤즈트로핀]</mark>
+* benztropine : 1일 0.5\~1 ㎎으로 시작하여 5\~6일 간격으로 1일 0.5 ㎎씩 증량; 최대 1일 6 ㎎ <mark style="color:blue;">\[벤즈트로핀]</mark>
   * 파킨슨병에서는 항콜린 부작용 때문에 가능한 한 저용량(대개 1일 2 ㎎ 이하)으로 사용
 
 #### <mark style="color:$primary;">복합제</mark>
@@ -458,7 +458,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 
 ### <mark style="color:orange;">운동 증상 약제 비교</mark>
 
-<table><thead><tr><th width="119">약제군</th><th>주요 성분명 [상품명]</th><th>주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>levodopa/carbidopa <mark style="color:blue;">[퍼킨정]</mark><br>levodopa/benserazide <mark style="color:blue;">[마도파]</mark></td><td>구역, 운동이상증, 기립성 저혈압, 환각</td><td>모든 연령에서 운동 증상 개선 효과가 가장 크며 일반적으로 초기 우선 치료</td></tr><tr><td>Dopamine agonist</td><td>pramipexole <mark style="color:blue;">[미라펙스]</mark><br>ropinirole <mark style="color:blue;">[리큅]</mark><br>rotigotine <mark style="color:blue;">[뉴프로 패취]</mark></td><td>충동조절장애, 졸림·갑작스러운 수면, 환각, 부종, DAWS</td><td>일부 젊은 환자에서 고려; 고령·인지 저하·환각·충동조절장애에서는 회피</td></tr><tr><td>MAO-B 억제제</td><td>rasagiline <mark style="color:blue;">[아질렉트]</mark><br>safinamide <mark style="color:blue;">[에퀴피나]</mark><br>selegiline <mark style="color:blue;">[마오비]</mark></td><td>불면, 두통, 구역, 환각</td><td>경증 초기 단독 또는 levodopa 보조; 병용금기(dextromethorphan 등)와 세로토닌성 약물 상호작용 확인</td></tr><tr><td>COMT 억제제</td><td>entacapone <mark style="color:blue;">[콤탄]</mark><br>opicapone <mark style="color:blue;">[온젠티스]</mark></td><td>설사, 운동이상증, 착란; entacapone은 소변 변색</td><td>Wearing-off 개선; 추가 시 levodopa 감량이 필요할 수 있음</td></tr><tr><td>Amantadine</td><td>amantadine <mark style="color:blue;">[피케이멜즈]</mark></td><td>망상피반, 부종, 착란, 환각, QT 연장</td><td>Levodopa 유발 운동이상증에 고려; 신기능·연령별 감량; 심전도 확인</td></tr><tr><td>항콜린제</td><td>trihexyphenidyl <mark style="color:blue;">[트리헥신]</mark><br>benztropine <mark style="color:blue;">[환인벤즈트로핀]</mark></td><td>입마름, 요폐, 흐린 시야, 인지 저하</td><td>일부 젊은 떨림 우세 환자에서 제한적으로 고려; 고령자 회피</td></tr></tbody></table>
+<table><thead><tr><th width="119">약제군</th><th>주요 성분명 [상품명]</th><th>주요 부작용</th><th>비고</th></tr></thead><tbody><tr><td>Levodopa</td><td>levodopa/carbidopa <mark style="color:blue;">[퍼킨정]</mark><br>levodopa/benserazide <mark style="color:blue;">[마도파]</mark></td><td>구역, 운동이상증, 기립성 저혈압, 환각</td><td>모든 연령에서 운동 증상 개선 효과가 가장 크며 일반적으로 초기 우선 치료</td></tr><tr><td>Dopamine agonist</td><td>pramipexole <mark style="color:blue;">[미라펙스]</mark><br>ropinirole <mark style="color:blue;">[리큅]</mark><br>rotigotine <mark style="color:blue;">[뉴프로 패취]</mark></td><td>충동조절장애, 졸림·갑작스러운 수면, 환각, 부종, DAWS</td><td>일부 젊은 환자에서 고려; 고령·인지 저하·환각·충동조절장애에서는 회피</td></tr><tr><td>MAO-B 억제제</td><td>rasagiline <mark style="color:blue;">[아질렉트]</mark><br>safinamide <mark style="color:blue;">[에퀴피나]</mark><br>selegiline <mark style="color:blue;">[마오비]</mark></td><td>불면, 두통, 구역, 환각</td><td>경증 초기 단독 또는 levodopa 보조; 병용금기(dextromethorphan 등)와 세로토닌성 약물 상호작용 확인</td></tr><tr><td>COMT 억제제</td><td>entacapone <mark style="color:blue;">[콤탄]</mark><br>opicapone <mark style="color:blue;">[온젠티스]</mark></td><td>설사, 운동이상증, 착란; entacapone은 소변 변색</td><td>Wearing-off 개선; 추가 시 levodopa 감량이 필요할 수 있음</td></tr><tr><td>Amantadine</td><td>amantadine <mark style="color:blue;">[피케이멜즈]</mark></td><td>망상피반, 부종, 착란, 환각, QT 연장</td><td>Levodopa 유발 운동이상증에 고려; 신기능·연령별 감량; 심전도 확인</td></tr><tr><td>항콜린제</td><td>trihexyphenidyl <mark style="color:blue;">[트리헥신]</mark><br>benztropine <mark style="color:blue;">[벤즈트로핀]</mark></td><td>입마름, 요폐, 흐린 시야, 인지 저하</td><td>일부 젊은 떨림 우세 환자에서 제한적으로 고려; 고령자 회피</td></tr></tbody></table>
 
 ### <mark style="color:orange;">운동 증상 이외 증상의 치료</mark>
 
@@ -486,7 +486,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * [변비](../224_/082_-constipation.md) : 항콜린제 등 악화 약물을 검토
   * 금기가 없으면 충분한 수분·식이 섬유와 활동을 권고
   * polyethylene glycol 또는 lubiprostone 등 고려
-  * probiotics의 투여 근거는 제한적&#x20;
+  * probiotics의 투여 근거는 제한적
 * 야간뇨·과민성 방광 : 항뮤스카린제는 인지 저하 위험이 있으므로 mirabegron 등 β3 작용제를 우선 고려
 * 충동조절장애 : 매 방문 시 도박·과소비·과식·과성욕을 보호자와 함께 확인
   * 발생 시 dopamine agonist 감량·중단(DAWS 주의)이 1차 대응
@@ -495,7 +495,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
     * 1.5 ㎎ bid 식사와 함께 시작, 최소 4주 간격으로 증량, 최대 6 ㎎ bid <mark style="color:blue;">\[엑셀론 캡슐]</mark>
     * 떨림 악화가 흔하므로 운동 증상을 모니터링; 3일 이상 중단 후에는 최저 용량부터 다시 적정
   * donepezil 고려 가능
-  * galantamine·memantine의 근거는 제한적&#x20;
+  * galantamine·memantine의 근거는 제한적
 * psychosis(망상, 환각) : 감염·대사 이상·탈수·수면 문제 등 섬망 원인을 먼저 확인
   * 운동 기능을 고려하면서 항콜린제→amantadine→MAO-B 억제제→dopamine 작용제→COMT 억제제 순으로 감량 검토
   * pimavanserin(미허가)과 clozapine은 clinically useful, quetiapine은 possibly useful로 평가됨 \[MDS 2019]
