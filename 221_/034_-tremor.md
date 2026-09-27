@@ -1,4 +1,4 @@
-# 떨림(Tremor)
+# 떨림 Tremor
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -23,105 +23,11 @@
 * 수의 운동 시 호전
 * 관련 질환 : 파킨슨병 및 기타 파킨슨증, Holmes tremor, Wilson병 등
 
-## <mark style="color:green;">임상 양상</mark>
-
-### <mark style="color:orange;">진찰</mark>
-
-* 떨림의 발생 시점, 진행 속도, 가족력, 음주·카페인·약물·독성물질 노출 및 알코올·진정제 금단 여부를 확인
-* 안정 시, 양팔을 앞으로 뻗은 자세, wing-beating 자세, 손가락-코 검사에서 떨림을 관찰
-* 글쓰기, Archimedes spiral, 컵에 물 따르기 등 기능 과제를 시행하고 가능하면 진폭과 기능장애를 기록
-* 서동·경직·보행·자세반사, 소뇌기능, 근긴장이상 자세와 null point·sensory trick을 확인
-* 기능성 떨림이 의심되면 변동성, 주의분산성, entrainment 및 반대쪽 ballistic movement 중 일시적 억제 등 양성 징후를 평가
-
-### <mark style="color:orange;">감별</mark>
-
-* 편측 떨림, 다리 떨림, 강직, 서동, 안정 떨림(resting tremor) → 파킨슨병
-* 재출현 떨림(re-emergent tremor) : 팔을 뻗은 직후에는 없다가 수 초의 잠복기 후 발생하는 자세 떨림은 파킨슨병을 시사하지만 단독으로 확진하지 않음
-* 보행 장애 → 파킨슨병, 소뇌 떨림
-* 불규칙, 경련성 떨림 → 근긴장이상 떨림(dystonic tremor)
-* 두부 떨림, 두부 위치 이상(head tilting or turning) → 근긴장이상 떨림
-* 기립 시에만 다리가 후들거리며 '불안정감', '넘어질 것 같음'으로 호소 → 기립 떨림 (orthostatic tremor) 고려
-  * 전형적인 일차성 기립 떨림은 13\~18 Hz의 고주파수 떨림으로, 앉거나 걸으면 대개 호전
-  * 청진 시 허벅지·종아리 근육에서 "헬리콥터(helicopter sign)" 소리 (진단적 단서)
-  * 표면근전도 또는 accelerometry로 주파수와 근육 간 동기성을 확인; 저주파 기립 떨림과 orthostatic myoclonus 감별
-* 갑작스럽거나 빠른 시작 → 기능성 떨림, 약물·독성·대사성 떨림을 우선 감별하되 동반 신경학적 징후가 있으면 급성 구조 병변 평가
-* 최근 약물 치료 후 떨림 시작 또는 악화 → 약물 유발 또는 독성 떨림
-
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
-
-<mark style="color:$danger;">**즉각 조치**</mark>
-
-* 급성 발생 떨림과 함께 편측 위약·감각저하, 실어증, 복시, 심한 실조, 구음장애, 의식 변화 또는 갑작스러운 심한 두통 동반 `뇌졸중` `두개내출혈`
-* 알코올·진정제 금단 또는 약물·독성물질 중독이 의심되는 병력과 함께 현저한 빈맥·발한·발열 등 자율신경 항진, 혼돈·섬망 또는 경련 동반 `알코올·benzodiazepine 금단` `중독`
-* 갑상샘중독증 환자에서 떨림과 함께 고열, 심한 빈맥 또는 의식 변화 동반 `갑상샘 폭풍`
-* 혈당강하제 사용 중 떨림과 함께 식은땀, 혼돈 또는 의식 저하 동반 `저혈당`
-* 세로토닌성 약물 시작·증량·병용 후 떨림과 함께 간대성 근경련(유발·안구 clonus), 반사항진, 고열 또는 의식 변화 동반 `세로토닌 증후군`
-* 항정신병약 등 dopamine 차단제 복용 중 떨림과 함께 심한 근강직, 고열, 의식 변화, 자율신경 불안정 동반 `신경이완제 악성 증후군`
-* 파킨슨병의 도파민성 약물(levodopa 등)을 갑자기 중단·대폭 감량한 뒤 심한 경직, 고열, 의식 변화 또는 자율신경 불안정 동반 `파킨슨증-고열 증후군`
-* lithium 복용 중 거친 떨림과 함께 구토·설사, 실조, 혼돈 동반 `lithium 독성`
-
-<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
-
-* 수일\~수 주에 걸쳐 빠르게 진행하는 원인 불명의 편측 떨림 `구조적 뇌병변`
-* 소아·청소년의 원인 불명 떨림, 또는 젊은 환자(대략 40세 미만 발병)에서 간기능 이상·정신행동 변화·구음장애·근긴장이상 동반 `Wilson병`
-
-<mark style="color:$info;">**조기 평가 및 추적**</mark>
-
-* 서동·경직, 근긴장이상 자세, 소뇌징후 또는 뚜렷한 보행장애 동반 `파킨슨병` `근긴장이상 떨림` `소뇌 질환`
-* 일상 기능장애가 진행하거나 떨림 증후군 분류가 불확실한 경우
-* 적절한 약제를 충분히 적정했음에도 효과가 없거나 부작용으로 치료를 지속하기 어려운 경우
-
-## <mark style="color:green;">진단 및 감별</mark>
-
-<table><thead><tr><th width="131.15789794921875">분류</th><th width="257.52630615234375">임상 특징</th><th width="134.84210205078125">진단적 검사</th><th>치료</th></tr></thead><tbody><tr><td>강화 생리적 떨림</td><td>Postural/kinetic T; 저진폭·고주파수; 불안, 피로, 카페인·니코틴, 갑상샘항진증, 저혈당, 발열, 약물 또는 금단</td><td>병력에 따라 혈당, TSH, 전해질 등</td><td>유발 원인 교정</td></tr><tr><td>기립 떨림</td><td>서 있을 때 다리·몸통에 발생하고 앉거나 걸으면 호전; 전형적 일차성은 13\~18 Hz</td><td>표면근전도로 주파수와 근육 간 동기성 확인</td><td>신경과 의뢰; 확진 후 약물의 선택적 시도</td></tr><tr><td>기능성 떨림</td><td>큰 변동성, 주의분산성, entrainment, 일시적 억제 등 양성 징후</td><td>양성 임상징후의 조합; 필요 시 표면근전도·accelerometry</td><td>진단 설명, 운동 재훈련 중심 물리치료, 필요 시 심리치료</td></tr><tr><td>본태성 떨림</td><td>3년 이상 지속된 양측 상지 action T; 두부·음성·하지 떨림 동반 가능, 다른 신경학적 징후 없음</td><td>임상 진단; 병력과 진찰에 따른 선택적 검사</td><td>기능장애가 있을 때 약물·작업치료, 불응 시 시술 고려</td></tr><tr><td>파킨슨증 (☞ <a href="035_-parkinsons-disease.md">파킨슨병</a>)</td><td>주로 비대칭성 rest T; 서동·경직, 작은 글씨증, 보행·자세 이상 동반</td><td>임상 진단; 불확실한 경우 선택적으로 도파민운반체 영상(국내는 주로 18F-FP-CIT PET)</td><td>파킨슨병 챕터 참조</td></tr><tr><td>약물 유발¹⁾</td><td>약물 시작·증량과 시간적 연관; 동작 떨림 또는 약물 유발 파킨슨증 등</td><td>투약·보충제·노출력 검토</td><td>가능하면 원인 약물 감량·교체</td></tr><tr><td>대사 이상²⁾</td><td>다양한 양상; 전신 증상 동반 가능</td><td>의심 원인에 따라 혈당, TSH, 간·신기능, 전해질 등</td><td>원인 치료</td></tr><tr><td>소뇌 떨림</td><td>Intention/postural T; 저주파수, 측정이상·실조·구음장애·안진 등 동반</td><td>급성 또는 국소 병변 의심 시 뇌 MRI 중심 영상검사</td><td>원인 치료 및 신경과 의뢰</td></tr></tbody></table>
-
-> ¹⁾_동작 또는 강화 생리적 떨림 : lithium, valproate, amiodarone, SSRI/SNRI, TCA, stimulant, β₂-작용제, theophylline, calcineurin inhibitor, 과량 갑상샘호르몬, corticosteroid, epinephrine, pseudoephedrine 등. 약물 유발 파킨슨증 : haloperidol 등 항정신병약, metoclopramide, levosulpiride, flunarizine, cinnarizine, valproate 등(dopamine 수용체 차단제는 akathisia·지연성 운동장애도 유발). 당뇨약제는 주로 저혈당을 통해 떨림을 유발한다._\
-> ²⁾_저혈당, 갑상샘항진증, 간·신부전, 저칼슘혈증, 저나트륨혈증, 저마그네슘혈증, 부갑상샘기능항진증, vitamin B12 결핍 등_
+## <mark style="color:green;">질환별 떨림의 분류와 특징</mark>
 
 ### <mark style="color:orange;">본태성 떨림 (Essential tremor)</mark>
 
-#### <mark style="color:$primary;">일반 사항</mark>
-
-* pathologic tremor 중에서 가장 흔함
-* 전 세계 유병률은 연구 방법에 따라 약 0.3\~0.9%로 추정되며 연령이 증가할수록 흔해짐
-* 가족력이 흔하고 일부 가계에서 상염색체 우성 양상을 보이지만, 단일 유전자 질환으로 설명되지 않는 이질적인 증후군
-
-#### <mark style="color:$primary;">원인</mark>
-
-* 불명; heterogenous disorder
-* cerebello-thalamo-cortical network 이상이 중심적으로 관여하는 것으로 추정
-* 유전적 영향
-
-#### <mark style="color:$primary;">진단 기준</mark>
-
-* MDS 떨림 분류 합의안 [[Mov Disord 2018](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.27121)]
-
-* **본태성 떨림(ET)** : 3년 이상 지속된 양측 상지의 동작(postural and/or kinetic) 떨림 + 근긴장이상·실조·파킨슨증 등 다른 신경학적 징후 없음
-  * 두부·음성·하지 떨림이 동반될 수 있으나 단독 두부 또는 단독 음성 떨림은 ET에서 제외
-* **미확정 떨림 증후군(indeterminate tremor)** : ET와 유사하나 이환 기간이 3년 미만이거나, 향후 경과 관찰이 필요한 분류가 불확실한 떨림
-* **ET plus**
-  * ET 기준을 충족하면서 의미가 불확실한 경미한 추가 신경학적 징후(경도 인지저하, 의심스러운 근긴장이상 자세, tandem gait 이상, 안정 시 떨림 등) 동반
-  * 독립 질환인지 확립되지 않은 분류상 범주이므로 경과 중 진단을 재평가
-* ET 제외 기준 : 단독 국소 떨림(두부·음성 등), 12 Hz 초과 기립 떨림, 과제·자세 특이 떨림, 갑작스러운 시작 또는 계단식 악화
-* 강화 생리적 떨림, 약물 유발 떨림 등 다른 원인으로 설명되는 떨림은 별도 증후군으로 분류
-
-#### <mark style="color:$primary;">떨림 양상</mark>
-
-* 리드미컬한 떨림, 4\~12 Hz(주로 5\~8 Hz)
-* 양측 상지의 postural 및/또는 kinetic tremor가 핵심이며 양쪽 진폭이 다를 수 있음
-* 안정 시 떨림이 동반되면 2018 MDS 분류상 ET plus로 분류하며, pill-rolling 양상·뚜렷한 비대칭·서동·경직이 있으면 파킨슨병을 우선 감별
-* 주로 손과 아래팔을 침범하고 머리·목소리·하지 떨림이 동반될 수 있음
-* 다른 신경학적 징후가 없어야 하며, 의미가 불확실한 경미한 징후가 있으면 ET plus로 분류
-* 스트레스, 피로, 카페인 섭취로 악화
-* 일부 환자에서 알코올 섭취 후 일시적으로 호전되지만 진단적이지 않으며 치료 목적으로 권하지 않음
-
-#### <mark style="color:$primary;">검사</mark>
-
-* 특이 진단 방법 없음; 다른 원인 배제
-* 나선 그리기 검사 (Archimedes spiral test) : 종이에 나선을 그리게 하여 떨림 정도 평가; 본태성 떨림은 선이 불규칙하게 떨리며 나타남 / 파킨슨병은 선의 떨림보다 나선이 점점 작아지는 경향(micrographia)을 보임
-* 전형적 ET에서 일률적인 검사 패널은 필요하지 않으나 초진 시 TSH는 확인을 권장; 그 밖에는 병력·진찰에 따라 혈당, 전해질, BUN/Cr, LFT, CBC, vitamin B12 등을 선택
-* Wilson병 감별 : 젊은 환자(대략 40세 미만 발병), 특히 간기능 이상·정신행동 변화·근긴장이상·구음장애·파킨슨증 또는 빠른 진행이 동반되면 혈청 ceruloplasmin, 혈청 구리, 24시간 소변 구리 및 세극등 검사를 고려
-  * 추가 단서: Kayser-Fleischer ring (세극등 검사), AST/ALT 이상 (간 침범 시)
+☞ 아래
 
 ### <mark style="color:orange;">생리적 떨림 (Physiologic tremor)</mark>
 
@@ -160,30 +66,177 @@
 * 말초신경병증과 연관된 떨림은 감각저하·근력저하·반사 이상 및 균형장애 등 말초신경병증 소견을 함께 평가
 * 반얼굴연축은 흔히 편측 눈꺼풀에서 시작하여 같은 쪽 얼굴 아래로 확산하며, 주된 원인은 뇌간 부위의 안면신경 혈관 압박; 비전형적 양상이면 종양·탈수초질환 등 이차성 원인을 평가
 
+## <mark style="color:green;">임상 양상</mark>
+
+* 떨림의 발생 시점, 진행 속도, 가족력, 음주·카페인·약물·독성물질 노출 및 알코올·진정제 금단 여부를 확인
+* 안정 시, 양팔을 앞으로 뻗은 자세, wing-beating 자세, 손가락-코 검사에서 떨림을 관찰
+* 글쓰기, Archimedes spiral, 컵에 물 따르기 등 기능 과제를 시행하고 가능하면 진폭과 기능장애를 기록
+* 서동·경직·보행·자세반사, 소뇌기능, 근긴장이상 자세와 null point·sensory trick을 확인
+* 기능성 떨림이 의심되면 변동성, 주의분산성, entrainment 및 반대쪽 ballistic movement 중 일시적 억제 등 양성 징후를 평가
+
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
+
+<mark style="color:$danger;">**즉각 조치**</mark>
+
+* 급성 발생 떨림과 함께 편측 위약·감각저하, 실어증, 복시, 심한 실조, 구음장애, 의식 변화 또는 갑작스러운 심한 두통 동반 `뇌졸중` `두개내출혈`
+* 알코올·진정제 금단 또는 약물·독성물질 중독이 의심되는 병력과 함께 현저한 빈맥·발한·발열 등 자율신경 항진, 혼돈·섬망 또는 경련 동반 `알코올·benzodiazepine 금단` `중독`
+* 갑상샘중독증 환자에서 떨림과 함께 고열, 심한 빈맥 또는 의식 변화 동반 `갑상샘 폭풍`
+* 혈당강하제 사용 중 떨림과 함께 식은땀, 혼돈 또는 의식 저하 동반 `저혈당`
+* 세로토닌성 약물 시작·증량·병용 후 떨림과 함께 간대성 근경련(유발·안구 clonus), 반사항진, 고열 또는 의식 변화 동반 `세로토닌 증후군`
+* 항정신병약 등 dopamine 차단제 복용 중 떨림과 함께 심한 근강직, 고열, 의식 변화, 자율신경 불안정 동반 `신경이완제 악성 증후군`
+* 파킨슨병의 도파민성 약물(levodopa 등)을 갑자기 중단·대폭 감량한 뒤 심한 경직, 고열, 의식 변화 또는 자율신경 불안정 동반 `파킨슨증-고열 증후군`
+* lithium 복용 중 거친 떨림과 함께 구토·설사, 실조, 혼돈 동반 `lithium 독성`
+
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
+
+* 수일\~수 주에 걸쳐 빠르게 진행하는 원인 불명의 편측 떨림 `구조적 뇌병변`
+* 소아·청소년의 원인 불명 떨림, 또는 젊은 환자(대략 40세 미만 발병)에서 간기능 이상·정신행동 변화·구음장애·근긴장이상 동반 `Wilson병`
+
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 서동·경직, 근긴장이상 자세, 소뇌징후 또는 뚜렷한 보행장애 동반 `파킨슨병` `근긴장이상 떨림` `소뇌 질환`
+* 일상 기능장애가 진행하거나 떨림 증후군 분류가 불확실한 경우
+* 적절한 약제를 충분히 적정했음에도 효과가 없거나 부작용으로 치료를 지속하기 어려운 경우
+
+## <mark style="color:green;">진단</mark>
+
+### <mark style="color:orange;">감별</mark>
+
+* 편측 떨림, 다리 떨림, 강직, 서동, 안정 떨림(resting tremor) → 파킨슨병
+* 재출현 떨림(re-emergent tremor) : 팔을 뻗은 직후에는 없다가 수 초의 잠복기 후 발생하는 자세 떨림은 파킨슨병을 시사하지만 단독으로 확진하지 않음
+* 보행 장애 → 파킨슨병, 소뇌 떨림
+* 불규칙, 경련성 떨림 → 근긴장이상 떨림(dystonic tremor)
+* 두부 떨림, 두부 위치 이상(head tilting or turning) → 근긴장이상 떨림
+* 기립 시에만 다리가 후들거리며 '불안정감', '넘어질 것 같음'으로 호소 → 기립 떨림 (orthostatic tremor) 고려
+  * 전형적인 일차성 기립 떨림은 13\~18 Hz의 고주파수 떨림으로, 앉거나 걸으면 대개 호전
+  * 청진 시 허벅지·종아리 근육에서 "헬리콥터(helicopter sign)" 소리 (진단적 단서)
+  * 표면근전도 또는 accelerometry로 주파수와 근육 간 동기성을 확인; 저주파 기립 떨림과 orthostatic myoclonus 감별
+* 갑작스럽거나 빠른 시작 → 기능성 떨림, 약물·독성·대사성 떨림을 우선 감별하되 동반 신경학적 징후가 있으면 급성 구조 병변 평가
+* 최근 약물 치료 후 떨림 시작 또는 악화 → 약물 유발 또는 독성 떨림
+
+<table data-search="false"><thead><tr><th width="131.15789794921875">분류</th><th width="257.52630615234375">임상 특징</th><th width="134.84210205078125">진단적 검사</th><th>치료</th></tr></thead><tbody><tr><td>강화 생리적 떨림</td><td>Postural/kinetic T; 저진폭·고주파수; 불안, 피로, 카페인·니코틴, 갑상샘항진증, 저혈당, 발열, 약물 또는 금단</td><td>병력에 따라 혈당, TSH, 전해질 등</td><td>유발 원인 교정</td></tr><tr><td>기립 떨림</td><td>서 있을 때 다리·몸통에 발생하고 앉거나 걸으면 호전; 전형적 일차성은 13\~18 Hz</td><td>표면근전도로 주파수와 근육 간 동기성 확인</td><td>신경과 의뢰; 확진 후 약물의 선택적 시도</td></tr><tr><td>기능성 떨림</td><td>큰 변동성, 주의분산성, entrainment, 일시적 억제 등 양성 징후</td><td>양성 임상징후의 조합; 필요 시 표면근전도·accelerometry</td><td>진단 설명, 운동 재훈련 중심 물리치료, 필요 시 심리치료</td></tr><tr><td>본태성 떨림</td><td>3년 이상 지속된 양측 상지 action T; 두부·음성·하지 떨림 동반 가능, 다른 신경학적 징후 없음</td><td>임상 진단; 병력과 진찰에 따른 선택적 검사</td><td>기능장애가 있을 때 약물·작업치료, 불응 시 시술 고려</td></tr><tr><td>파킨슨증 (☞ <a href="035_-parkinsons-disease.md">파킨슨병</a>)</td><td>주로 비대칭성 rest T; 서동·경직, 작은 글씨증, 보행·자세 이상 동반</td><td>임상 진단; 불확실한 경우 선택적으로 도파민운반체 영상(국내는 주로 18F-FP-CIT PET)</td><td>파킨슨병 챕터 참조</td></tr><tr><td>약물 유발¹⁾</td><td>약물 시작·증량과 시간적 연관; 동작 떨림 또는 약물 유발 파킨슨증 등</td><td>투약·보충제·노출력 검토</td><td>가능하면 원인 약물 감량·교체</td></tr><tr><td>대사 이상²⁾</td><td>다양한 양상; 전신 증상 동반 가능</td><td>의심 원인에 따라 혈당, TSH, 간·신기능, 전해질 등</td><td>원인 치료</td></tr><tr><td>소뇌 떨림</td><td>Intention/postural T; 저주파수, 측정이상·실조·구음장애·안진 등 동반</td><td>급성 또는 국소 병변 의심 시 뇌 MRI 중심 영상검사</td><td>원인 치료 및 신경과 의뢰</td></tr></tbody></table>
+
+> ¹⁾_동작 또는 강화 생리적 떨림 : lithium, valproate, amiodarone, SSRI/SNRI, TCA, stimulant, β₂-작용제, theophylline, calcineurin inhibitor, 과량 갑상샘호르몬, corticosteroid, epinephrine, pseudoephedrine 등. 약물 유발 파킨슨증 : haloperidol 등 항정신병약, metoclopramide, levosulpiride, flunarizine, cinnarizine, valproate 등(dopamine 수용체 차단제는 akathisia·지연성 운동장애도 유발). 당뇨약제는 주로 저혈당을 통해 떨림을 유발한다._\
+> ²⁾_저혈당, 갑상샘항진증, 간·신부전, 저칼슘혈증, 저나트륨혈증, 저마그네슘혈증, 부갑상샘기능항진증, vitamin B12 결핍 등_
+
 ***
 
 ```mermaid
 flowchart TD
     A(["떨림 호소 환자"]) --> B["Red Flags 확인"]
-    B -- "급성 국소 신경결손·의식 변화·<br/>자율신경 항진·고열·강직" --> C["즉각 조치"]
+    B -- "급성 국소 신경결손<br/>·의식 변화·<br/>자율신경 항진<br/>·고열·강직" --> C["즉각 조치"]
     B -- "빠르게 진행하는 편측 떨림·<br/>Wilson병 단서" --> C2["당일~수일 내 평가"]
-    B -- "없음" --> D["떨림 유형 확인"]
-
+    B -- "없음" ---> D["떨림 유형 확인"]
     D --> E["안정 떨림"]
     D --> F["동작 떨림"]
+    E --> G["비대칭 + 서동·경직<br/>파킨슨병 의심 <br/>→ 신경과 의뢰"]
+    E --> H["약물 유발 파킨슨증<br/>(항정신병약·levosulpiride<br/>·flunarizine 등)<br/>→ 원인 약물 조정"]
+    F ---> I["양상 감별"]
+    I --> J["3년 이상 양측 <br/>상지 동작 떨림,<br/>다른 신경학적 <br/>징후 없음<br/>→ 본태성 떨림"]
+    I --> K["고주파·가역적, <br/>불안·갑상샘·약물<br/>→ 강화 생리적 떨림: <br/>원인 교정"]
+    I --> L["기립 시만 <br/>다리 떨림, <br/>보행 시 호전<br/>→ 기립 떨림: <br/>신경과 의뢰"]
+    I --> L2["불규칙·방향성, <br/>null point<br/>·sensory trick<br/>→ 근긴장이상 떨림: <br/>신경과 의뢰"]
+    I --> M["변동성<br/>·주의분산성<br/>·entrainment <br/>양성<br/>→ 기능성 떨림"]
+    I --> N["의도 떨림<br/>·실조 동반<br/> → 소뇌 떨림<br/>급성 발생<br/>·국소 신경징후 시 <br/>MRI"]
+    
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style B fill:#fff9c4,stroke:#ffe082
+    style D fill:#fff9c4,stroke:#ffe082
+    style I fill:#fff9c4,stroke:#ffe082
+    style C fill:#f96,stroke:#e65100,stroke-width:2px
+    style C2 fill:#ffe0b2,stroke:#e65100
+    style G fill:#ffe0b2,stroke:#e65100
+```
 
-    E --> G["비대칭 + 서동·경직<br/>파킨슨병 의심 → 신경과 의뢰"]
-    E --> H["약물 유발 파킨슨증<br/>(항정신병약·levosulpiride·flunarizine 등)<br/>→ 원인 약물 조정"]
+<p align="center"><strong>떨림의  진단 및 치료 알고리듬</strong></p>
 
-    F --> I["양상 감별"]
-    I --> J["3년 이상 양측 상지 동작 떨림,<br/>다른 신경학적 징후 없음<br/>→ 본태성 떨림"]
-    I --> K["고주파·가역적, 불안·갑상샘·약물<br/>→ 강화 생리적 떨림: 원인 교정"]
-    I --> L["기립 시만 다리 떨림, 보행 시 호전<br/>→ 기립 떨림: 신경과 의뢰"]
-    I --> L2["불규칙·방향성, null point·sensory trick<br/>→ 근긴장이상 떨림: 신경과 의뢰"]
-    I --> M["변동성·주의분산성·entrainment 양성<br/>→ 기능성 떨림"]
-    I --> N["의도 떨림·실조 동반 → 소뇌 떨림<br/>급성 발생·국소 신경징후 시 MRI"]
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Mov Disord 2018; Mov Disord 2026)</mark></em></p>
 
-    J -- "병력·진찰에 따른 선택 검사" --> P["기능장애 정도"]
+***
+
+## <mark style="background-color:$warning;">Management</mark>
+
+### <mark style="color:orange;">본태성 떨림</mark>
+
+☞ 아래
+
+### <mark style="color:orange;">기립 떨림</mark>
+
+* 임상적으로 의심되면 표면근전도로 떨림 주파수와 근육 간 동기성을 확인하고, 저주파 기립 떨림(pseudo-OT)·orthostatic myoclonus 및 다른 보행장애와 감별하기 위해 신경과 의뢰
+* 지팡이·보행기 또는 고정된 물체에 기대기, 오래 서 있는 상황 줄이기 등으로 증상과 낙상 위험을 완화할 수 있음
+* 아형 : 일차성 기립 떨림(단독 13\~18 Hz), OT-plus(추가 신경학적 소견 동반), pseudo-OT(13 Hz 미만)
+* 확립된 표준 치료는 없으며 근거는 소규모 시험과 관찰자료 중심임. 단일기관 코호트 \[[J Neurol 2026](https://link.springer.com/article/10.1007/s00415-026-13625-3)]에서는 clonazepam, gabapentin, alprazolam이 가장 흔히 시도되고 상대적으로 효과적이었으나, 효과 부족이나 이상반응(진정·어지럼·보행 불안정)으로 중단한 경우가 많았고 여러 약제를 시도한 뒤에도 부분 호전에 그치는 경우가 많았음
+  * clonazepam : 0.25\~0.5 ㎎ hs에서 시작하여 반응에 따라 천천히 적정(통상 0.25\~2 ㎎/d 범위); 진정·인지저하·의존성·보행 불안 및 낙상에 주의 <mark style="color:blue;">\[리보트릴]</mark>
+  * gabapentin : 100\~300 ㎎ hs에서 시작하여 통상 300\~1,800 ㎎/d 범위에서 분할 투여; 신기능에 따라 감량하고 어지럼·졸림·운동실조에 주의 <mark style="color:blue;">\[뉴론틴]</mark>
+* 두 약제 모두 국내 기립 떨림 적응증은 없어 허가 외 사용이며, 객관적인 기립시간·보행 안정성 개선이 없거나 이상반응이 크면 중단
+* 약물 불응성·불내성 중증 : 극히 선택된 환자에서 전문센터가 DBS 시술 가능성을 평가할 수 있으나, 근거는 소규모 증례 연구 수준임
+
+### <mark style="color:orange;">강화 생리적 떨림</mark>
+
+* 비-약물 치료를 원칙으로 함
+* 카페인 섭취, 흡연을 피함
+* 일상생활에 지장을 주는 특별한 경우(예: 발표, 공연 전) β-차단제 단회 투여 고려
+  * propranolol : 10\~40 ㎎ 상황 발생 1\~2시간 전 단회 투여 <mark style="color:blue;">\[인데놀]</mark>
+  * 국내 허가 외 사용이며 투여 전 COPD, 천식·기관지경련, 저혈압, 서맥 및 심부전 여부 확인
+
+### <mark style="color:orange;">반얼굴연축</mark>
+
+* 1차 증상 치료 : botulinum toxin 주사
+  * 효과 지속 : 3\~4개월; 반복 투여 필요
+* 경구 약물의 효과 근거는 제한적이며 진정·낙상 등 부작용을 고려해 선택적으로 사용
+* 혈관 압박이 확인되고 증상이 중증이거나 botulinum toxin 반복 치료를 원하지 않는 경우 미세혈관 감압술(MVD) 고려 (신경외과 의뢰)
+
+***
+
+## ■ 본태성 떨림 (Essential tremor)
+
+## <mark style="color:green;">일반 사항</mark>
+
+* pathologic tremor 중에서 가장 흔함
+* 전 세계 유병률은 연구 방법에 따라 약 0.3\~0.9%로 추정되며 연령이 증가할수록 흔해짐
+* 가족력이 흔하고 일부 가계에서 상염색체 우성 양상을 보이지만, 단일 유전자 질환으로 설명되지 않는 이질적인 증후군
+
+## <mark style="color:green;">원인</mark>
+
+* 불명; heterogenous disorder
+* cerebello-thalamo-cortical network 이상이 중심적으로 관여하는 것으로 추정
+* 유전적 영향
+
+## <mark style="color:green;">떨림 양상</mark>
+
+* 리드미컬한 떨림, 4\~12 Hz(주로 5\~8 Hz)
+* 양측 상지의 postural 및/또는 kinetic tremor가 핵심이며 양쪽 진폭이 다를 수 있음
+* 안정 시 떨림이 동반되면 2018 MDS 분류상 ET plus로 분류하며, pill-rolling 양상·뚜렷한 비대칭·서동·경직이 있으면 파킨슨병을 우선 감별
+* 주로 손과 아래팔을 침범하고 머리·목소리·하지 떨림이 동반될 수 있음
+* 다른 신경학적 징후가 없어야 하며, 의미가 불확실한 경미한 징후가 있으면 ET plus로 분류
+* 스트레스, 피로, 카페인 섭취로 악화
+* 일부 환자에서 알코올 섭취 후 일시적으로 호전되지만 진단적이지 않으며 치료 목적으로 권하지 않음
+
+## <mark style="color:green;">진단 기준</mark>
+
+* MDS 떨림 분류 합의안 \[[Mov Disord 2018](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.27121)]
+* **본태성 떨림(ET)** : 3년 이상 지속된 양측 상지의 동작(postural and/or kinetic) 떨림 + 근긴장이상·실조·파킨슨증 등 다른 신경학적 징후 없음
+  * 두부·음성·하지 떨림이 동반될 수 있으나 단독 두부 또는 단독 음성 떨림은 ET에서 제외
+* **미확정 떨림 증후군(indeterminate tremor)** : ET와 유사하나 이환 기간이 3년 미만이거나, 향후 경과 관찰이 필요한 분류가 불확실한 떨림
+* **ET plus**
+  * ET 기준을 충족하면서 의미가 불확실한 경미한 추가 신경학적 징후(경도 인지저하, 의심스러운 근긴장이상 자세, tandem gait 이상, 안정 시 떨림 등) 동반
+  * 독립 질환인지 확립되지 않은 분류상 범주이므로 경과 중 진단을 재평가
+* ET 제외 기준 : 단독 국소 떨림(두부·음성 등), 12 Hz 초과 기립 떨림, 과제·자세 특이 떨림, 갑작스러운 시작 또는 계단식 악화
+* 강화 생리적 떨림, 약물 유발 떨림 등 다른 원인으로 설명되는 떨림은 별도 증후군으로 분류
+
+### <mark style="color:orange;">검사</mark>
+
+* 특이 진단 방법 없음; 다른 원인 배제
+* 나선 그리기 검사 (Archimedes spiral test) : 종이에 나선을 그리게 하여 떨림 정도 평가; 본태성 떨림은 선이 불규칙하게 떨리며 나타남 / 파킨슨병은 선의 떨림보다 나선이 점점 작아지는 경향(micrographia)을 보임
+* 전형적 ET에서 일률적인 검사 패널은 필요하지 않으나 초진 시 TSH는 확인을 권장; 그 밖에는 병력·진찰에 따라 혈당, 전해질, BUN/Cr, LFT, CBC, vitamin B12 등을 선택
+* Wilson병 감별 : 젊은 환자(대략 40세 미만 발병), 특히 간기능 이상·정신행동 변화·근긴장이상·구음장애·파킨슨증 또는 빠른 진행이 동반되면 혈청 ceruloplasmin, 혈청 구리, 24시간 소변 구리 및 세극등 검사를 고려
+  * 추가 단서: Kayser-Fleischer ring (세극등 검사), AST/ALT 이상 (간 침범 시)
+
+***
+
+```mermaid
+flowchart TD
+    J1(["본태성 떨림"]) -- "병력·진찰에 따른 선택 검사" --> P["기능장애 정도"]
     P -- "경증·일상 지장 없음" --> Q["비약물 치료 + 경과 관찰"]
     P -- "중등도 이상" --> R["β-blocker 금기 확인"]
     R -- "사용 가능" --> S["arotinolol(국내 허가)<br/>또는 propranolol(허가 외)"]
@@ -191,26 +244,24 @@ flowchart TD
     S -- "불충분" --> U["병용 또는 topiramate<br/>선택적으로 gabapentin"]
     T -- "불충분" --> U
     U -- "불응" --> V["신경과 의뢰<br/>DBS / 집속초음파"]
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style B fill:#fff9c4,stroke:#ffe082
-    style D fill:#fff9c4,stroke:#ffe082
-    style I fill:#fff9c4,stroke:#ffe082
     style P fill:#fff9c4,stroke:#ffe082
     style R fill:#fff9c4,stroke:#ffe082
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style C2 fill:#ffe0b2,stroke:#e65100
-    style G fill:#ffe0b2,stroke:#e65100
     style V fill:#e3f2fd,stroke:#1565c0
 ```
 
-<p align="center"><strong>떨림 1차 진료 진단·치료 알고리듬</strong></p>
+<p align="center"><strong>본태성 떨림의  진단 및 치료 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Mov Disord 2018; Mov Disord 2026)</mark></em></p>
 
 ***
 
-## <mark style="color:green;">본태성 떨림</mark>
+## <mark style="background-color:$warning;">Management</mark>
+
+### <mark style="color:orange;">치료 방침</mark>
+
+
+
+
 
 ### <mark style="color:orange;">비-약물 치료</mark>
 
@@ -227,7 +278,7 @@ flowchart TD
   * propranolol은 국내 허가사항상 COPD, 기관지천식·기관지경련 위험, 현저한 서맥, 2\~3도 방실차단, 저혈압 및 조절되지 않는 심부전 등에 금기
 * 불충분하거나 사용할 수 없는 경우 : propranolol과 primidone 병용 또는 topiramate 고려; gabapentin은 근거가 제한적이므로 개별적으로 선택
 * benzodiazepine은 근거가 매우 제한적이고 낙상·인지저하·의존성 위험이 있어 불안이 뚜렷한 선택된 환자에서 예외적으로 단기간 고려
-* 2026 MDS 근거중심 재평가 [[Mov Disord 2026](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.70184)]에서는 propranolol·primidone·topiramate·botulinum toxin A의 복수 시험에서 개선이 보고되었으나, 비뚤림 위험과 부정확성 때문에 검토된 모든 중재의 근거 확실성을 낮음 또는 매우 낮음으로 평가함. 이는 기존 약제를 사용하지 말라는 의미가 아니며 환자 선호, 기능 개선 및 이상반응을 함께 고려하여 공유 의사결정
+* 2026 MDS 근거중심 재평가 \[[Mov Disord 2026](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.70184)]에서는 propranolol·primidone·topiramate·botulinum toxin A의 복수 시험에서 개선이 보고되었으나, 비뚤림 위험과 부정확성 때문에 검토된 모든 중재의 근거 확실성을 낮음 또는 매우 낮음으로 평가함. 이는 기존 약제를 사용하지 말라는 의미가 아니며 환자 선호, 기능 개선 및 이상반응을 함께 고려하여 공유 의사결정
 * 치료 목표는 일정한 감소율이 아니라 환자가 중요하게 여기는 활동의 의미 있는 개선과 허용 가능한 이상반응으로 개별화
 
 **모니터링**
@@ -315,32 +366,6 @@ flowchart TD
 
 * ulixacaltamide : T-type calcium channel inhibitor로 3상 임상시험 후 2026년 4월 미국 FDA가 성인 본태성 떨림 치료제 신약허가신청(NDA)을 접수함 ([개발사 발표](https://ir.praxismedicines.com/news-releases/news-release-details/praxis-precision-medicines-announces-fda-acceptance-new-drug))
   * FDA 목표 결정일은 2027년 1월 29일이며, 2026년 9월 현재 미국·국내 모두 본태성 떨림 치료제로 승인되지 않았으므로 임상 처방 대상이 아님
-
-## <mark style="color:green;">기립 떨림</mark>
-
-* 임상적으로 의심되면 표면근전도로 떨림 주파수와 근육 간 동기성을 확인하고, 저주파 기립 떨림(pseudo-OT)·orthostatic myoclonus 및 다른 보행장애와 감별하기 위해 신경과 의뢰
-* 지팡이·보행기 또는 고정된 물체에 기대기, 오래 서 있는 상황 줄이기 등으로 증상과 낙상 위험을 완화할 수 있음
-* 아형 : 일차성 기립 떨림(단독 13\~18 Hz), OT-plus(추가 신경학적 소견 동반), pseudo-OT(13 Hz 미만)
-* 확립된 표준 치료는 없으며 근거는 소규모 시험과 관찰자료 중심임. 단일기관 코호트 [[J Neurol 2026](https://link.springer.com/article/10.1007/s00415-026-13625-3)]에서는 clonazepam, gabapentin, alprazolam이 가장 흔히 시도되고 상대적으로 효과적이었으나, 효과 부족이나 이상반응(진정·어지럼·보행 불안정)으로 중단한 경우가 많았고 여러 약제를 시도한 뒤에도 부분 호전에 그치는 경우가 많았음
-  * clonazepam : 0.25\~0.5 ㎎ hs에서 시작하여 반응에 따라 천천히 적정(통상 0.25\~2 ㎎/d 범위); 진정·인지저하·의존성·보행 불안 및 낙상에 주의 <mark style="color:blue;">\[리보트릴]</mark>
-  * gabapentin : 100\~300 ㎎ hs에서 시작하여 통상 300\~1,800 ㎎/d 범위에서 분할 투여; 신기능에 따라 감량하고 어지럼·졸림·운동실조에 주의 <mark style="color:blue;">\[뉴론틴]</mark>
-* 두 약제 모두 국내 기립 떨림 적응증은 없어 허가 외 사용이며, 객관적인 기립시간·보행 안정성 개선이 없거나 이상반응이 크면 중단
-* 약물 불응성·불내성 중증 : 극히 선택된 환자에서 전문센터가 DBS 시술 가능성을 평가할 수 있으나, 근거는 소규모 증례 연구 수준임
-
-## <mark style="color:green;">강화 생리적 떨림</mark>
-
-* 비-약물 치료를 원칙으로 함
-* 카페인 섭취, 흡연을 피함
-* 일상생활에 지장을 주는 특별한 경우(예: 발표, 공연 전) β-차단제 단회 투여 고려
-  * propranolol : 10\~40 ㎎ 상황 발생 1\~2시간 전 단회 투여 <mark style="color:blue;">\[인데놀]</mark>
-  * 국내 허가 외 사용이며 투여 전 COPD, 천식·기관지경련, 저혈압, 서맥 및 심부전 여부 확인
-
-## <mark style="color:green;">반얼굴연축</mark>
-
-* 1차 증상 치료 : botulinum toxin 주사
-  * 효과 지속 : 3\~4개월; 반복 투여 필요
-* 경구 약물의 효과 근거는 제한적이며 진정·낙상 등 부작용을 고려해 선택적으로 사용
-* 혈관 압박이 확인되고 증상이 중증이거나 botulinum toxin 반복 치료를 원하지 않는 경우 미세혈관 감압술(MVD) 고려 (신경외과 의뢰)
 
 ***
 
