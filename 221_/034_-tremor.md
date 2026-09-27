@@ -399,7 +399,7 @@
 {% hint style="info" %}
 <mark style="color:cyan;">**눈꺼풀 근파동 (Eyelid myokymia)**</mark>
 
-* "눈밑·눈꺼풀이 떨린다"는 호소의 가장 흔한 원인
+* "**눈밑·눈꺼풀이 떨린다**"는 호소의 가장 흔한 원인
 * 눈꺼풀 근파동과 반얼굴연축은 발생 원인과 증상 진행 양상이 완전히 다른 질환임
 
 <table data-search="false"><thead><tr><th width="89">구분</th><th>눈꺼풀 근파동 (Eyelid myokymia)</th><th>반얼굴연축 (Hemifacial spasm)</th></tr></thead><tbody><tr><td><strong>특징</strong></td><td>눈꺼풀(주로 아래눈꺼풀)의 미세하고 잔물결 같은 떨림</td><td>한쪽 얼굴 근육의 간헐적·반복적인 불수의 수축</td></tr><tr><td><strong>눈 감김</strong></td><td>없음</td><td>수축이 강하면 눈이 감김</td></tr><tr><td><strong>진행 양상</strong></td><td>눈꺼풀에 국한되며 대개 수일~수 주 내 저절로 호전</td><td>눈둘레에서 시작해 같은 쪽 뺨·입가로 퍼지며, 저절로 좋아지지 않고 서서히 진행</td></tr><tr><td><strong>수면 중</strong></td><td>대개 나타나지 않음</td><td>나타날 수 있음</td></tr><tr><td><strong>원인</strong></td><td>피로, 수면 부족, 스트레스, 카페인, 눈의 피로·안구건조</td><td>대개 뇌줄기 부근에서 혈관이 안면신경을 압박; 드물게 종양 등 이차성 원인</td></tr><tr><td><strong>검사</strong></td><td>필요 없음</td><td>신경과 평가; 이차성 원인 배제를 위해 MRI 고려</td></tr><tr><td><strong>치료</strong></td><td>설명·안심, 휴식, 카페인 줄이기</td><td>botulinum toxin 주사가 1차 치료; 미세혈관감압술 고려; 경구약은 효과가 제한적</td></tr></tbody></table>
