@@ -1,4 +1,4 @@
-# 파킨슨병 Parkinson's Disease (PD)
+# 파킨슨병 Parkinson’s Disease
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -41,7 +41,7 @@
 ### <mark style="color:orange;">전구 증상</mark>
 
 * 운동 증상이 나타나기 수년 전부터 다음 증상들이 선행할 수 있음. 그러나 각각은 흔하고 비특이적이며, 이러한 증상만으로 파킨슨병 또는 전구기 파킨슨병을 진단하지 않음
-* MDS 전구기 기준은 개인 진료에서 확진하기 위한 기준이 아니라 주로 연구 목적의 확률적 기준임 [MDS 2015, update 2019]. 수면다원검사로 확인된 단독 REM 수면 행동 장애(isolated RBD) 등 고위험 상태에서는 신경과 평가와 장기 추적을 고려
+* MDS 전구기 기준은 개인 진료에서 확진하기 위한 기준이 아니라 주로 연구 목적의 확률적 기준임 \[MDS 2015, update 2019]. 수면다원검사로 확인된 단독 REM 수면 행동 장애(isolated RBD) 등 고위험 상태에서는 신경과 평가와 장기 추적을 고려
 * REM 수면 행동 장애 (RBD) : 수면 중 소리를 지르거나 팔다리를 움직이는 행동; α-synucleinopathy(파킨슨병, 루이소체치매, 다계통위축증)로 전환되는 가장 강력한 예측 인자
 * 후각 소실 : 이유 없는 냄새 감각 저하
 * 변비 : 만성적인 배변 장애
@@ -131,7 +131,7 @@ _Ref. Berg D, et al. MDS research criteria for prodromal Parkinson's disease. Mo
 * 후각 상실 또는 심장 교감 신경 탈신경 (MIBG 스캔)
 
 {% hint style="warning" %}
-**급성 levodopa/apomorphine challenge는 파킨슨증 감별을 위해 사용하지 않음 [NICE NG71].** 진단이 불확실하면 운동장애 전문의가 통상적인 치료 과정에서 충분한 용량과 기간에 걸친 반응을 평가함.
+**급성 levodopa/apomorphine challenge는 파킨슨증 감별을 위해 사용하지 않음 \[NICE NG71].** 진단이 불확실하면 운동장애 전문의가 통상적인 치료 과정에서 충분한 용량과 기간에 걸친 반응을 평가함.
 {% endhint %}
 
 **절대 배제 기준 (Absolute exclusion criteria)**
@@ -193,30 +193,6 @@ _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy
 ***
 
 ```mermaid
-graph TD
-    A(["파킨슨증 의심<br/>bradykinesia / resting tremor<br/>rigidity / 보행 변화"]) --> B["비정형 소견·Red flag 있음?"]
-    B -->|있음| C["신경과 의뢰"]
-    B -->|없음| D["약물 유발 가능성?"]
-    D -->|있음| E["가능하면 원인 약물 중단·대체<br/>경과 관찰 및 신경과 협진"]
-    E --> F["회복?"]
-    F -->|"6개월 이상 불완전 회복"| C
-    F -->|회복| G(["약물 유발 파킨슨증"])
-    D -->|없음| H["MDS 임상 진단 기준 충족?<br/>bradykinesia + tremor 또는 rigidity"]
-    H -->|불충족| I["타 원인 고려<br/>추적 관찰"]
-    H -->|충족| J["절대 배제·지지 기준<br/>MDS red flag 균형 평가"]
-    J -->|"MDS 판정 충족"| R(["파킨슨병 임상 진단"])
-    J -->|"진단 불확실·비정형 의심"| K["신경과 의뢰<br/>선택적 MRI / DAT 영상"]
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style B fill:#fff9c4,stroke:#ffe082
-    style D fill:#fff9c4,stroke:#ffe082
-    style F fill:#fff9c4,stroke:#ffe082
-    style H fill:#fff9c4,stroke:#ffe082
-    style J fill:#fff9c4,stroke:#ffe082
-    style C fill:#f96,stroke:#e65100,stroke-width:2px
-    style K fill:#f96,stroke:#e65100,stroke-width:2px
-    style G fill:#b2dfdb,stroke:#004d40,stroke-width:1px
-    style R fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
 ```
 
 <p align="center"><strong>파킨슨병 진단 알고리듬</strong></p>
@@ -226,33 +202,6 @@ graph TD
 ***
 
 ```mermaid
-graph TD
-    A(["파킨슨병 진단"]) --> B["일상 기능에 영향?"]
-    B -->|없음| C["운동 치료 + 교육<br/>추적 관찰"]
-    B -->|있음| D["증상 중증도·연령·인지·직업<br/>부작용 위험과 선호"]
-    D -->|대부분| E["Levodopa 우선"]
-    D -->|"경미한 증상"| H["MAO-B 억제제 고려"]
-    D -->|"일부 젊은 환자<br/>인지·행동 위험 낮음"| I["Dopamine agonist 고려"]
-    E --> J["용량 적정 후 반응 평가<br/>충분한 용량 전 무반응 판정 금지"]
-    H --> J
-    I --> J
-    J --> K["반응?"]
-    K -->|무반응| L["신경과 의뢰"]
-    K -->|충분| M["장기 추적<br/>운동·비운동 증상 모니터링"]
-    M --> N["합병증 발생?"]
-    N -->|Wearing-off| O["투여 간격 단축<br/>MAO-B 또는 COMT 추가"]
-    N -->|Dyskinesia| P["Levodopa 단회 용량 감량<br/>Amantadine 추가"]
-    N -->|정신증| Q["섬망·유발 약물 평가<br/>약제 조정 후 전문 치료"]
-    N -->|"조절 불가"| L
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style B fill:#fff9c4,stroke:#ffe082
-    style D fill:#fff9c4,stroke:#ffe082
-    style K fill:#fff9c4,stroke:#ffe082
-    style N fill:#fff9c4,stroke:#ffe082
-    style L fill:#f96,stroke:#e65100,stroke-width:2px
-    style C fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
-    style M fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px
 ```
 
 <p align="center"><strong>파킨슨병 치료 알고리듬</strong></p>
@@ -341,7 +290,7 @@ graph TD
   * Dyskinesia : levodopa 감량, amantadine 추가
   * 불응성 떨림 : 일부 젊은 환자에서 항콜린제 또는 DBS 고려
 * 복용과 식사 : 가능하면 식전 30분 또는 식후 1시간에 복용하되 구역이 심하면 소량의 비단백 간식과 복용할 수 있음. 단백질 재분배는 식사와 연관된 운동 기복이 확인된 환자에서 총 단백질과 영양 상태를 유지하며 고려
-* 초기 구역·구토 : 소량의 비단백 간식과 함께 복용하고, metoclopramide·levosulpiride 등 중추성 도파민 차단 항구토제는 피함. 지속되면 QT 연장 위험과 금기를 확인한 뒤 domperidone을 최소 유효 용량으로 단기간 고려 (☞ [약물 유발 파킨슨증의 원인 약물](#약물-유발-파킨슨증의-원인-약물))
+* 초기 구역·구토 : 소량의 비단백 간식과 함께 복용하고, metoclopramide·levosulpiride 등 중추성 도파민 차단 항구토제는 피함. 지속되면 QT 연장 위험과 금기를 확인한 뒤 domperidone을 최소 유효 용량으로 단기간 고려 (☞ [약물 유발 파킨슨증의 원인 약물](035_-parkinsons-disease.md#약물-유발-파킨슨증의-원인-약물))
 
 #### <mark style="color:$primary;">운동 합병증 관리 요약</mark>
 
@@ -396,7 +345,7 @@ graph TD
 * 저용량으로 시작하여 점차 증량; 효과적이지 않으면 tapering
 * 부작용 : 입마름, 기억력/시각 장애, 소변 잔류; 고령자에서 인지 기능 저하 위험 주의
 * 금기/주의 : ≥65세, 인지 저하, 전립선 비대 (urinary retention), 녹내장
-* 처방약·일반약 전체의 **총 항콜린 부담(anticholinergic burden)**을 확인하고, 인지 저하·섬망·변비·요폐 악화를 모니터링
+* 처방약·일반약 전체의 \*\*총 항콜린 부담(anticholinergic burden)\*\*을 확인하고, 인지 저하·섬망·변비·요폐 악화를 모니터링
 * trihexyphenidyl : 1 ㎎ tid; 증량 2 ㎎ tid; 최대 15 ㎎/d <mark style="color:blue;">\[트리헥신]</mark>
 * benztropine : 0.5 ㎎ 취침 시; 최대 1 ㎎ bid <mark style="color:blue;">\[벤즈트로핀]</mark>
 
@@ -412,8 +361,8 @@ graph TD
 
 * 기립성 저혈압 : 원인 약제와 탈수·빈혈을 먼저 교정하고, 금기가 없으면 수분·염분 섭취 조정, 복부 압박대 또는 허리까지 오는 압박 의류, 머리쪽 침대 높이기를 고려. 과식·고탄수화물 식사를 피하고 소량씩 자주 식사. 증상이 지속되면 midodrine 2.5\~10 ㎎ tid(늦어도 취침 4시간 전 복용)를 고려하되 앙와위 고혈압을 감시 <mark style="color:blue;">\[미드론]</mark>. droxidopa는 국내 미허가 (☞ [자율신경기능장애](030_-autonomic-dysfunction.md))
 * 주간 졸음 : dopamine 작용제 등 유발 약물, 수면무호흡, RBD와 야간 수면 장애를 먼저 평가하고 운전을 제한. modafinil·methylphenidate의 근거는 제한적이며 국내 허가사항을 확인하여 전문의 감독하에 선별적으로 고려 (☞ [불면증](029_-insomnia-sleep-disorder.md#management))
-* REM 수면 행동 장애 : 침실 안전 조치가 우선. [AASM 2023]은 즉방형 melatonin, clonazepam을 조건부 권고하며, 파킨슨병 등에 동반된 이차성 RBD에서는 rivastigmine(인지 저하 동반 시), rotigotine 패취도 조건부 권고함. clonazepam 0.25\~0.5 ㎎ 취침 전 <mark style="color:blue;">\[리보트릴]</mark>; clonazepam은 고령, 낙상·인지 저하·수면무호흡에서 주의. 국내에서 즉방형 melatonin은 의약품으로 허가되지 않았고(melatonin 서방정은 55세 이상 불면증 적응증), clonazepam의 RBD 사용은 허가 외 사용임
-* 우울 : 정신치료와 약물치료를 중증도·인지·수면·기립성 저혈압 및 상호작용에 따라 개별화하며, SSRI/SNRI 등을 고려. MDS 근거평가에서 pramipexole, venlafaxine은 efficacious, SSRI·nortriptyline·CBT는 likely efficacious로 평가됨 [MDS 2019] (☞ [우울증](027_-depression.md))
+* REM 수면 행동 장애 : 침실 안전 조치가 우선. \[AASM 2023]은 즉방형 melatonin, clonazepam을 조건부 권고하며, 파킨슨병 등에 동반된 이차성 RBD에서는 rivastigmine(인지 저하 동반 시), rotigotine 패취도 조건부 권고함. clonazepam 0.25\~0.5 ㎎ 취침 전 <mark style="color:blue;">\[리보트릴]</mark>; clonazepam은 고령, 낙상·인지 저하·수면무호흡에서 주의. 국내에서 즉방형 melatonin은 의약품으로 허가되지 않았고(melatonin 서방정은 55세 이상 불면증 적응증), clonazepam의 RBD 사용은 허가 외 사용임
+* 우울 : 정신치료와 약물치료를 중증도·인지·수면·기립성 저혈압 및 상호작용에 따라 개별화하며, SSRI/SNRI 등을 고려. MDS 근거평가에서 pramipexole, venlafaxine은 efficacious, SSRI·nortriptyline·CBT는 likely efficacious로 평가됨 \[MDS 2019] (☞ [우울증](027_-depression.md))
 * 통증 : OFF 연관성을 확인하여 levodopa를 우선 최적화. duloxetine 등은 통증 유형과 동반 우울에 따라 고려할 수 있으나 파킨슨병 특이 근거는 제한적
 * 침 흘림 : 연하 평가와 자세·행동요법을 먼저 고려; 침샘 botulinum toxin 주사 또는 경구 glycopyrrolate를 고려. 설하 atropine·ipratropium은 근거와 허가 범위가 제한적이며, 다른 약제를 포함한 총 항콜린 부담과 인지 저하·변비·요폐 악화에 주의
 * 콧물 : 비내 ipratropium
@@ -423,7 +372,7 @@ graph TD
 * 치매 : 파킨슨증 발생 후 1년을 초과하여 치매가 나타나면 파킨슨병 치매(PDD)를 우선 고려. rivastigmine의 근거가 가장 확립되어 있으며 donepezil은 고려 가능; galantamine·memantine의 근거는 제한적 (☞ [치매](033_-dementia.md))
   * rivastigmine은 국내에서 경증\~중등도 파킨슨병 관련 치매에 허가됨 : 1.5 ㎎ bid 식사와 함께 시작, 최소 4주 간격으로 증량, 최대 6 ㎎ bid <mark style="color:blue;">\[엑셀론 캡슐]</mark>
   * 떨림 악화가 흔하므로 운동 증상을 모니터링; 3일 이상 중단 후에는 최저 용량부터 다시 적정; metoclopramide 병용은 권장되지 않음
-* psychosis(망상, 환각) : 감염·대사 이상·탈수·수면 문제 등 섬망 원인을 먼저 찾고, 운동 기능을 고려하면서 항콜린제→amantadine→MAO-B 억제제→dopamine 작용제→COMT 억제제 순으로 감량을 검토. MDS 근거평가에서 pimavanserin과 clozapine은 clinically useful, quetiapine은 possibly useful로 평가됨 [MDS 2019]. pimavanserin은 국내 미허가이며, clozapine은 무과립구증 혈액 모니터링이 필수. quetiapine 저용량(예: 12.5\~50 ㎎ qhs)은 운동 악화가 비교적 적으나 효능 근거가 제한적이고 기립성 저혈압·진정에 주의. risperidone 등 도파민 차단 항정신병제는 피함
+* psychosis(망상, 환각) : 감염·대사 이상·탈수·수면 문제 등 섬망 원인을 먼저 찾고, 운동 기능을 고려하면서 항콜린제→amantadine→MAO-B 억제제→dopamine 작용제→COMT 억제제 순으로 감량을 검토. MDS 근거평가에서 pimavanserin과 clozapine은 clinically useful, quetiapine은 possibly useful로 평가됨 \[MDS 2019]. pimavanserin은 국내 미허가이며, clozapine은 무과립구증 혈액 모니터링이 필수. quetiapine 저용량(예: 12.5\~50 ㎎ qhs)은 운동 악화가 비교적 적으나 효능 근거가 제한적이고 기립성 저혈압·진정에 주의. risperidone 등 도파민 차단 항정신병제는 피함
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -438,7 +387,7 @@ graph TD
 * MRI 유도 집속초음파(MRgFUS) 절제술
   * 비절개 방식이지만 영구적인 병변을 만드는 시술이며 표적과 적응증에 따라 효과·위험이 다름
   * 미국 FDA는 2018년 약물 불응성 떨림 우세형 파킨슨병의 편측 시상절개술(Vim), 2021년 진행성 파킨슨병의 약물 불응성 운동 합병증에 대한 편측 담창구절개술(GPi)을 승인함. 2021년 승인 표적은 STN이 아님
-  * 2025년 FDA는 운동 합병증이 있는 진행성 파킨슨병에서 단계적 양측 pallidothalamic tractotomy(두 번째 시술은 첫 시술 후 최소 6개월 뒤)를 승인함. 근거 연구[Lancet Neurol 2026]에서 운동 증상은 개선되었으나, 지속적인 중등도 이상 이상반응(주로 언어·보행·균형)은 편측 시술 후 6개월에 54명 중 1명(약 2%), 양측 시술 후 12개월에 40명 중 10명(25%)이었음(시점·대상이 달라 직접 비교는 제한적). 두 번째 시술 전 언어·보행·균형 재평가와 충분한 상담이 필요함
+  * 2025년 FDA는 운동 합병증이 있는 진행성 파킨슨병에서 단계적 양측 pallidothalamic tractotomy(두 번째 시술은 첫 시술 후 최소 6개월 뒤)를 승인함. 근거 연구\[Lancet Neurol 2026]에서 운동 증상은 개선되었으나, 지속적인 중등도 이상 이상반응(주로 언어·보행·균형)은 편측 시술 후 6개월에 54명 중 1명(약 2%), 양측 시술 후 12개월에 40명 중 10명(25%)이었음(시점·대상이 달라 직접 비교는 제한적). 두 번째 시술 전 언어·보행·균형 재평가와 충분한 상담이 필요함
   * 국가·기기·표적별 허가와 보험 상태가 다르므로 **국내 시행 가능성, 허가 범위와 보험 기준을 시술 결정 시점에 다시 확인**하고 DBS와 비교하여 전문센터에서 결정
 
 _Ref. Pringsheim T, et al. Dopaminergic Therapy for Motor Symptoms in Early Parkinson Disease: AAN Practice Guideline Summary. Neurology 2021;97(20). NICE guideline NG71: Parkinson's disease in adults. Howell M, et al. Management of REM sleep behavior disorder: an AASM clinical practice guideline. J Clin Sleep Med 2023;19(4)._
