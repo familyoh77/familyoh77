@@ -1,38 +1,51 @@
-# 파킨슨병 Parkinson’s Disease
+# 파킨슨병 Parkinson’s Disease, PD
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 파킨슨병(Parkinson disease, PD)은 흑질 도파민 신경세포 소실을 주된 특징으로 하는 진행성 신경퇴행질환
-* 파킨슨증(parkinsonism)은 **서동증(bradykinesia)과 안정 시 떨림(rest tremor) 또는 경직(rigidity) 중 1개 이상**이 함께 있는 임상 증후군이며, 파킨슨병은 그 원인 중 가장 흔한 질환임; 비정형 파킨슨증(PSP, MSA 등) 및 이차성 파킨슨증(약물, 혈관성 등)과 구별이 중요
-* 평균 발병 연령은 약 60세이며 연령이 증가할수록 발생률과 유병률이 증가함; 알츠하이머병 다음으로 흔한 신경퇴행질환
-* 질환 자체보다 낙상·폐렴·연하 장애 등 합병증으로 인한 사망 위험이 증가하며, 적절한 치료 시 장기간 기능 유지가 가능함; 자세 불안정, 치매는 주로 후기에 발생
+* 파킨슨병(Parkinson’s Disease) : 흑질 도파민 신경세포 소실을 주된 특징으로 하는, 알츠하이머병 다음으로 흔한 신경퇴행질환
+* 파킨슨증(parkinsonism) : 서동증(bradykinesia)과 '안정 시 떨림(rest tremor) 또는 경직(rigidity)' 중 1개 이상이 함께 있는 임상 증후군이며, 파킨슨병은 그 원인 중 가장 흔한 질환임
+  * 비정형 파킨슨증(진행성 핵상마비, 다계통위축증 등) 및 이차성 파킨슨증(약물, 혈관성 등)과 구별이 중요
+* 평균 발병 연령은 약 60세이며, 연령이 증가할수록 발생률과 유병률이 증가함
+* 자세 불안정, 치매는 주로 후기에 발생
+* 질환 자체보다 낙상·폐렴·연하 장애 등 합병증으로 인한 사망 위험이 증가
+* 적절한 치료 시 장기간 기능 유지가 가능함
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
 * 불명
-* 기전(추정) : substantia nigra의 도파민 뉴런 소실 및 Lewy body(주성분: α-synuclein) 형성이 병리학적으로 확인됨; 이로 인한 도파민 감소와 도파민-acetylcholine 불균형이 운동 증상의 주요 기전으로 설명되나, Lewy body의 정확한 역할 및 뉴런 소실의 근본 원인은 미해명
+* 기전(추정) : substantia nigra의 도파민 뉴런 소실 및 Lewy body(주성분: α-synuclein) 형성이 병리학적으로 확인되며, 이로 인한 도파민 감소와 도파민-acetylcholine 불균형이 운동 증상의 주요 기전으로 설명되지만, Lewy body의 정확한 역할 및 뉴런 소실의 근본 원인은 불명
 
 ### <mark style="color:orange;">위험인자</mark>
 
 * 가족력, 고령, 남성(약 1.5배)
 * 유전 요인 : GBA1 변이(가장 흔한 유전 위험인자), LRRK2 변이 등; 단일유전자형은 전체의 약 5\~10%
-* 반복적인 두부 외상, 일부 살충제·용매 노출과 연관성이 보고되었으나 개인의 발병 원인으로 단정할 수 없음
-* 흡연과 카페인 섭취가 낮은 파킨슨병 발생 위험과 연관된 관찰 연구가 있으나 인과관계나 예방 효과가 확립된 것은 아니며, 예방 목적으로 흡연을 권고하지 않음
+* 반복적인 두부 외상, 일부 살충제·용매 노출과 연관성이 보고되었으나 발병 원인으로 단정할 수 없음
+* 흡연과 카페인 섭취가 낮은 파킨슨병 발생 위험과 연관된 관찰 연구가 있으나 인과관계나 예방 효과가 확립된 것은 아니며, '예방 목적의 흡연'은 권고하지 않음
 
 ### <mark style="color:orange;">약물 유발 파킨슨증의 원인 약물</mark>
 
-*   대표적 원인 약물
+* 위장 운동 촉진제 : metoclopramide, levosulpiride
+* 항정신병제 : chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, aripiprazole, amisulpride, sulpiride
 
-    * 위장 운동 촉진제 : metoclopramide, levosulpiride
-    * 항정신병제 : chlorpromazine, haloperidol, perphenazine, fluphenazine, olanzapine, risperidone, aripiprazole, amisulpride, sulpiride; clozapine·quetiapine은 위험이 가장 낮음
-    * 도파민 고갈제 : reserpine, tetrabenazine 등 VMAT2 억제제
-    * 기타 중추신경계 약물 : lithium, valproic acid
-    * 기타 보고 약물 : methyldopa; amiodarone과 diltiazem의 연관 근거는 제한적임
-    * Calcium channel blocker : **flunarizine, cinnarizine** (국내에서 어지럼 치료 목적으로 흔히 처방되므로 시작 전·장기 처방 중 서동증, 경직, 떨림과 보행 변화를 확인)
+{% hint style="info" %}
+clozapine, quetiapine은 D2 수용체 결합력이 낮고 수용체에서 빨리 해리되어 항정신병제 중 위험이 가장 낮음. 단, 위험이 없는 것은 아니며 quetiapine은 고용량에서 운동 악화가 나타날 수 있으며, clozapine은 무과립구증 때문에 정기 혈액검사가 필수이고, 두 약제 모두 진정·기립성 저혈압에 주의해야 함.
+{% endhint %}
 
-    ※ 파킨슨병 환자의 구역·구토 치료 시 주의 : metoclopramide, levosulpiride 등 중추성 도파민 차단제는 파킨슨 증상을 악화시킬 수 있으므로 피함. Domperidone은 혈액뇌장벽 투과가 적어 대안으로 고려할 수 있으나 QT 연장·심실부정맥 위험 때문에 금기와 상호작용을 확인하고 1회 10 ㎎, 1일 최대 30 ㎎, 가능한 한 1주 이내로 사용(국내 허가사항 확인)
+* 도파민 고갈제 : reserpine, tetrabenazine 등 VMAT2 억제제
+* 기타 중추신경계 약물 : lithium, valproic acid
+* 기타 보고 약물 : methyldopa
+  * amiodarone과 diltiazem의 연관 근거는 제한적임
+* Ca channel blocker : flunarizine, cinnarizine&#x20;
+  * 어지럼 치료 목적으로 흔히 처방되므로 시작 전·장기 처방 중 서동증, 경직, 떨림과 보행 변화를 확인
+*
 
-    ※ 약물 유발 파킨슨증(drug-induced parkinsonism) : 위 약물들에 의한 증상은 약물 중단 후 수 주\~6개월 이상에 걸쳐 서서히 회복됨 - 즉각 회복을 기대하지 않도록 환자에게 설명 필요; 회복이 불완전하거나 6개월 이상 지속되는 경우 기저 파킨슨병 가능성을 고려하여 신경과 의뢰
+※ 파킨슨병 환자의 구역·구토 치료 시 주의 : metoclopramide, levosulpiride 등 중추성 도파민 차단제는 파킨슨 증상을 악화시킬 수 있으므로 피함. Domperidone은 혈액뇌장벽 투과가 적어 대안으로 고려할 수 있으나 QT 연장·심실부정맥 위험 때문에 금기와 상호작용을 확인하고 1회 10 ㎎, 1일 최대 30 ㎎, 가능한 한 1주 이내로 사용(국내 허가사항 확인)
+
+※ 약물 유발 파킨슨증(drug-induced parkinsonism) : 위 약물들에 의한 증상은 약물 중단 후 수 주\~6개월 이상에 걸쳐 서서히 회복됨 - 즉각 회복을 기대하지 않도록 환자에게 설명 필요; 회복이 불완전하거나 6개월 이상 지속되는 경우 기저 파킨슨병 가능성을 고려하여 신경과 의뢰
+
+
+
+
 
 ## <mark style="color:green;">임상 양상</mark>
 

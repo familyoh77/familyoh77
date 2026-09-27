@@ -38,7 +38,7 @@
   * [경도인지장애 Mild Cognitive Impairment, MCI](221_/032_-mild-cognitive-impairment.md)
   * [치매 Dementia](221_/033_-dementia.md)
   * [떨림 Tremor](221_/034_-tremor.md)
-  * [파킨슨병 Parkinson’s Disease](221_/035_-parkinsons-disease.md)
+  * [파킨슨병 Parkinson’s Disease, PD](221_/035_-parkinsons-disease.md)
   * [하지불안증후군 Restless Legs Syndrome](221_/036_-restless-legs-syndrome.md)
 * [Part 3. 눈귀코목 질환](222_/README.md)
   * [안과계 약제 Ophthalmic Medications](222_/037_1-ophthalmic-medications.md)
