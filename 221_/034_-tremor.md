@@ -132,6 +132,40 @@
 ***
 
 ```mermaid
+flowchart TD
+A(["떨림 호소 환자"]) --> B["Red Flags 확인"]
+B -- "급성 국소 신경결손<br/>·의식 변화·<br/>자율신경 항진<br/>·고열·강직" --> C["즉각 조치"]
+B -- "빠르게 진행하는 <br/>편측 떨림·<br/>Wilson병 단서" --> C2["당일~수일 내 평가"]
+B -- "없음" ---> D["떨림 유형 확인"]
+
+D --> E["안정 떨림"]
+D --> F["동작 떨림"]
+D ---> FE["눈꺼풀<br/>·얼굴 경련"]
+
+E --> G["비대칭 <br/>+ 서동·경직<br/>파킨슨병 의심<br/>→ 신경과 의뢰"]
+E --> H["약물 유발 <br/>파킨슨증<br/>(항정신병약<br/>·levosulpiride<br/>·flunarizine 등)<br/>→ 원인 약물 조정"]
+E --> G2["서동·경직 없는 <br/>안정 떨림<br/>또는 양상 불확실<br/>→ 신경과 의뢰<br/>·추적 재분류"]
+
+FE --> MY["눈꺼풀에 국한된 <br/>미세한 떨림<br/>눈 감김 없음<br/>→ 눈꺼풀 근파동:<br/>안심·유발 <br/>요인 조절"]
+FE --> HF["한쪽 눈둘레 <br/>반복 경련<br/>± 같은 쪽 뺨<br/>·입가 수축<br/>→ 반얼굴연축: <br/>신경과 평가"]
+FE --> BS["양측 눈꺼풀이<br/>강하게 감김<br/>→ 눈꺼풀연축:<br/>신경과<br/>·안과 평가"]
+
+F ---> I["양상 감별"]
+I --> J["3년 이상 양측<br/>상지 동작 떨림,<br/>다른 신경학적 <br/>징후 없음<br/>→ 본태성 떨림"]
+I --> K["고주파·가역적,<br/>불안·갑상선·약물<br/>→ 강화 생리적 떨림:<br/>원인 교정"]
+I --> O["3년 미만<br/>·양상 불확실<br/>·여러 유형 혼재<br/>→ 미확정 떨림:<br/>원인 평가 후 <br/>추적 재분류"]
+I --> N["의도 떨림<br/>·실조 동반<br/>→ 소뇌 떨림<br/>급성 발생<br/>·국소 신경징후 시<br/>MRI"]
+I ---> L["기립 시만 다리 떨림,<br/>보행 시 호전<br/>→ 기립 떨림:<br/>신경과 의뢰"]
+I ---> L2["불규칙·방향성,<br/>null point<br/>·sensory trick<br/>→ 근긴장이상 떨림:<br/>신경과 의뢰"]
+I ---> M["변동성<br/>·주의분산성<br/>·entrainment 양성<br/>→ 기능성 떨림"]
+
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,D,I,FE yellow
+style C fill:#f96,stroke:#e65100,stroke-width:2px
+style C2 fill:#ffe0b2,stroke:#e65100
+style G fill:#ffe0b2,stroke:#e65100
+
 ```
 
 <p align="center"><strong>떨림의 진단 알고리듬</strong></p>
@@ -238,6 +272,19 @@
 ***
 
 ```mermaid
+flowchart TD
+    J1(["본태성 떨림"]) -- "병력·진찰에 따른 선택 검사" --> P["기능장애 정도"]
+    P -- "경증·일상 지장 없음" --> Q["비약물 치료 + 경과 관찰"]
+    P -- "중등도 이상" --> R["β-blocker 금기 확인"]
+    R -- "사용 가능" --> S["arotinolol(국내 허가)<br/>또는 propranolol(허가 외)"]
+    R -- "금기" --> T["primidone 초저용량 시작<br/>(허가 외, 조건부 급여 인정)"]
+    S -- "불충분" --> U["병용 또는 topiramate<br/>선택적으로 gabapentin"]
+    T -- "불충분" --> U
+    U -- "불응" --> V["신경과 의뢰<br/>DBS / 집속초음파"]
+    style J1 fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style P fill:#fff9c4,stroke:#ffe082
+    style R fill:#fff9c4,stroke:#ffe082
+    style V fill:#e3f2fd,stroke:#1565c0
 ```
 
 <p align="center"><strong>본태성 떨림의 치료 알고리듬</strong></p>
