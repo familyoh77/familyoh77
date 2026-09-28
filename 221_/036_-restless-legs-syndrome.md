@@ -7,15 +7,17 @@
 * 다른 이름 : Willis-Ekbom disease
 * 증상은 대개 다리에서 시작하지만 팔·몸통 등에도 나타날 수 있고, 중증도와 경과는 변동함. 연령과 함께 악화되기도 하지만 경증에서는 관해될 수 있음
 * 유병률 : 임상적으로 유의한 RLS(주 ≥2회, 중등도 이상 고통)는 성인의 약 1.5\~3%
-* 병태생리 : 단일한 도파민 결핍으로 설명되지 않으며, 뇌(기저핵) 철 대사 이상, 유전적 소인, 도파민계의 일주기 조절 이상과 선조체 도파민 수용체 하향조절, adenosine 신호 감소, glutamate 매개 시상-피질 과각성 등이 복합적으로 관여하는 것으로 추정
+* 병태생리 : 단일한 도파민 결핍으로 설명되지 않음. 뇌 철 이용·조절 이상과 다유전자성 소인이 중요하며 도파민계의 일주기 조절 변화가 관여하는 것으로 여겨짐. 선조체 도파민 D2 수용체 발현 감소는 사람의 사후 조직 연구에서 관찰되었고, adenosine A₁ 수용체 신호 저하와 glutamate 관련 과각성은 주로 동물모형·소규모 영상 연구에서 제안된 기전으로 인과관계와 환자별 기여도는 확립되지 않음
 
 ## <mark style="color:green;">원인</mark>
 
 * 원발성(primary) RLS : 뚜렷한 원인 질환 없이 발생하며 대부분을 차지
-  * 가족력이 흔하고(약 60%에서 유전성), 45세 이전의 조기 발병이 많으며 서서히 진행하는 경향
-* 이차성(secondary) RLS : 특정 상태에 동반되어 발생하거나 악화
-  * 철 결핍, 만성콩팥병·말기콩팥병(특히 투석), 임신(주로 3분기), 말초신경병증, 다발경화증, 파킨슨병, 폐쇄수면무호흡증(OSA), opioid 금단 등
-  * 원인 상태가 교정되면 호전·소실될 수 있음(철 보충, 콩팥이식, 분만 후 등)
+  * 가족력이 흔하며 특히 45세 이전 조기 발병에서 가족 집적성이 높음. 다수의 유전적 위험 변이가 관여하며 서서히 진행하는 경향
+* 이차성(secondary) 또는 동반 RLS : 특정 상태와 함께 발생하거나 그 상태에 의해 증상이 악화될 수 있음
+  * 대표적 관련 상태 : 철 결핍, 만성콩팥병·말기콩팥병(특히 투석), 임신(주로 3분기)
+  * 신경질환과의 동반·감별 : 말초신경병증, 다발경화증, 파킨슨병. 동반 관계만으로 각 질환이 RLS의 직접 원인이라고 단정하지 않음
+  * 악화·유발 요인 : 치료하지 않은 폐쇄수면무호흡증(OSA), opioid 감량·금단, 수면 부족·일부 약물(아래 참조)
+  * 일부 교정 가능한 상태에서는 호전·소실될 수 있음(철 보충, 콩팥이식, 분만 후 등)
 * 원발성·이차성이 발병 연령과 일대일로 대응하지는 않음. 원발성도 늦게 발병할 수 있고 원발성 환자에게 철 결핍 등 이차 요인이 겹칠 수 있으므로, 분류와 관계없이 모든 환자에서 철 상태와 동반 질환을 평가
 * cf. RLS에서 원발성은 특발성(idiopathic)과 같은 의미로 쓰임. 도파민 작용제의 국내 허가 적응증은 이 원발성 RLS에 한정됨(미라펙스 "특발성", 리큅 "원발성")
 
@@ -23,7 +25,7 @@
 
 * 수면 부족·장시간 비활동, 갑작스러운 운동량 증가, 스트레스, 알코올, 카페인, 니코틴, 일부 약물
   * 약물
-    * 항우울제 : bupropion을 제외한 대부분(SSRI/SNRI, TCA, mirtazapine 등). 의학적으로 필요하면 유지하고 RLS를 별도로 치료
+    * 항우울제 : 특히 SSRI/SNRI, mirtazapine, 일부 TCA가 증상을 악화할 수 있음. bupropion은 상대적으로 악화 가능성이 낮을 수 있으나 예외로 단정하지 않음. 의학적으로 필요하면 유지하고 RLS를 별도로 치료
     * 항정신병제
     * 중추성 H1 항히스타민제(특히 diphenhydramine 등 1세대 항히스타민제)
     * 도파민 차단제(metoclopramide 등), 일부 항구토제
@@ -31,7 +33,7 @@
 ### <mark style="color:orange;">위험인자</mark>
 
 * 철분 결핍, 만성콩팥병·말기콩팥병, 임신, 말초신경병증
-* 가족력 : 약 60%에서 유전성(다수 유전자 관여, GWAS)
+* 가족력 : 특히 조기 발병 환자에서 흔함. 다수의 유전적 위험 변이가 확인되었으나 가족력의 빈도와 유전율을 동일시하지 않음
 * 여성, 고령(약 70세까지 유병률 증가)
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -56,7 +58,7 @@
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 도파민 작용제 복용 중 증상 시작이 앞당겨지거나 상지·몸통으로 확산, 또는 증량 요구 `augmentation`
-* 도파민 작용제 감량 중 심한 반동 증상, 불안·우울 악화, 구체적 계획이 없는 자살사고 `DAWS`
+* 도파민 작용제 감량 중 심한 반동 증상, 불안·우울 악화 `DAWS`; 자살사고가 있으면 구체적 계획이 없어도 안전·자살위험을 **당일** 평가
 * 도파민 작용제 복용 중 병적 도박·충동구매·과식 등 새로운 충동 행동 `충동조절장애`
 * 임신 중 일상생활·수면을 현저히 방해하는 중증 증상 `임신 관련 RLS`
 
@@ -67,11 +69,13 @@
 * TSAT ≥45%가 반복됨 `혈색소증`
 * 적절한 철 치료와 gabapentinoid에도 조절되지 않음 `난치성 RLS`
 
+✽ 자살사고는 계획 유무와 관계없이 당일 안전·위험도 평가가 필요함. 임박한 위험이 없다고 판단된 뒤에만 수일 내 재접촉을 계획
+
 ## <mark style="color:green;">진단</mark>
 
 * 병력으로 진단. 움직임 충동이 휴식 시 시작되고, 움직이는 동안 일시적으로 호전되며, 저녁·야간에 심해지는지 확인
 * 철분 검사 : 아침 공복에 철분 함유 음식·보충제를 최소 24시간 피한 상태에서 채혈 \[AASM 2025]. 경구 철분제는 48시간 전 중단 \[RLS Foundation 2026]. Ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC를 확인
-  * TSAT ≥45%가 2회 이상이면 혈색소증 유전자 검사
+  * TSAT ≥45%가 반복되면 철분 투여를 보류하고 ferritin, 간질환·수혈력·가족력 및 다른 원인을 함께 평가. 설명되지 않는 지속적 상승이나 철 과부하 의심 시 혈색소증 유전자 검사 또는 전문의 의뢰를 고려
   * ferritin이 연령·성별 정상 하한 미만이면 철 결핍 원인 평가 : 월경과다, 상·하부 위장관 병변, 흡수장애, 채식, 잦은 헌혈, PPI·H2 차단제 사용 등
 
 {% hint style="info" %}
@@ -154,7 +158,7 @@ graph TD
 
 **Step 3. 관련 약물 파악**
 
-* 악화 약물 중단 또는 대체 - bupropion을 제외한 항우울제, 1세대 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등)
+* 악화 가능 약물 검토 및 필요 시 대체 - SSRI/SNRI·mirtazapine 등 일부 항우울제, 1세대 항히스타민제(특히 diphenhydramine 함유 감기약·수면제), 도파민 차단제(metoclopramide 등). 필요한 약물을 임의로 중단하지 않음
 * 우울증 동반 시 항우울제 선택
   * 항우울제가 의학적으로 필요하면 유지하고 RLS를 별도로 치료
   * bupropion <mark style="color:blue;">\[웰부트린]</mark>은 다른 항우울제보다 RLS 악화 가능성이 낮을 수 있어 항우울제를 교체해야 하는 상황에서 고려 가능
@@ -226,13 +230,14 @@ graph TD
 <table><thead><tr><th width="176">기준</th><th width="230">철 지표</th><th>임상적 해석</th></tr></thead><tbody><tr><td>AASM 2025<br>Good practice statement</td><td>Ferritin ≤75 ng/㎖ 또는 TSAT ＜20%</td><td>경구 또는 IV 철분 고려. Ferritin 75~100 ng/㎖ 구간은 다음 행 참조</td></tr><tr><td>AASM 2025<br>Good practice statement</td><td>Ferritin 75~100 ng/㎖</td><td>철분 치료 시 IV 제형 사용</td></tr><tr><td>RLS Foundation 2026<br>전문가 알고리듬</td><td>Ferritin ≤75 ng/㎖ 및 TSAT ＜45%</td><td>경구 철분 고려. 염증성 질환에서는 TSAT ＜20%가 더 나은 결핍 지표</td></tr><tr><td>RLS Foundation 2026<br>전문가 알고리듬</td><td>만성 지속형 RLS, ferritin 75~300 ng/㎖ 및 TSAT ＜45%</td><td>IV 철분 고려. AASM 기준보다 넓은 전문가 합의 범위로, 증상 정도·철 과부하 위험을 함께 평가</td></tr><tr><td>RLS Foundation 2026<br>전문가 알고리듬</td><td>만성 지속형 RLS, ferritin ＜75 ng/㎖ 및 TSAT ＜45%</td><td>경구 흡수장애·불내성, 3개월 경구 치료 후 호전 없음, 또는 중증으로 빠른 반응이 필요할 때 IV 철분 고려</td></tr></tbody></table>
 
 * ferritin ＞300 ng/㎖ 또는 TSAT ≥45%이면 철 과부하 위험 때문에 IV 철분을 투여하지 않음
-* TSAT ≥45%이면 경구 철분도 경험적으로 시작하지 말고 철 과부하 가능성을 평가(2회 이상이면 혈색소증 유전자 검사)
+* TSAT ≥45%이면 경구 철분도 경험적으로 시작하지 말고 철 과부하 가능성을 평가. 반복 검사에서도 설명되지 않는 상승이 지속되면 ferritin 및 임상 맥락에 따라 유전자 검사·전문의 의뢰를 고려
 * 염증·감염·간질환 시 ferritin은 급성기 반응 물질로 허위 상승 가능 - 이 경우 TSAT ＜20%가 철분 부족을 시사하는 더 강력한 지표가 됨
 * ferritin ≥75 ng/㎖에서는 경구 철분 흡수가 제한될 수 있음. 특히 ferritin이 높으면서 TSAT ＜20%이면 염증·간질환에 의한 ferritin 상승 여부를 확인하고 IV·경구 경로를 개별화
 * IV ferric carboxymaltose : 적절한 철 상태의 성인 RLS에서 강력 권고 \[AASM 2025]. 임상 반응은 최대 6\~8주까지 지연될 수 있음 <mark style="color:blue;">\[페린젝트주]</mark>
   * RLS 치료 목적은 국내 허가 외 사용이며 비급여 가능성이 높음. RLS 연구의 총 1,000 ㎎ 용량도 국내 제품 허가사항의 Hb·체중별 총 투여량과 다를 수 있으므로 처방례의 구분 참조
   * 심한 과민반응·아나필락시스는 드묾(약 1/200,000). 투여 후 최소 30분간 관찰. 항히스타민제 전처치는 하지 않음(부작용이 주입 반응과 비슷하고 RLS를 악화시킴)
-  * 저인산혈증은 성인의 약 40\~70%에서 발생하나 대개 무증상. 저인산혈증 위험 환자 또는 반복 투여 예정 환자에서는 투여 전 혈청 인산염 확인
+  * 저인산혈증은 성인의 약 40\~70%에서 발생하나 대개 무증상. 저인산혈증 위험 환자 또는 반복 투여 예정 환자에서는 혈청 인산염 확인, 기존 저인산혈증은 투여 전 교정. 투여 후 근력 저하·근육통·뼈 통증·심한 피로 등이 나타나면 인산염을 검사하고, 위험군에서는 추적 검사를 고려
+  * 미국 FDA는 2026년 9월 동일 성분 제품 Injectafer의 증상성 저인산혈증에 박스 경고를 추가. 위험군 및 첫 투여 후 3개월 이내 재투여 환자에서는 재투여 전 인산염 검사 권고(미국 조치이며 국내 제품의 박스 경고로 표기하지 않음)
   * 투여 후 ferritin 재검은 일상적으로 필요하지 않음. 초기 호전 후 첫 투여 3개월 이후 재발하면 ferritin ≤300 ng/㎖·TSAT ＜45%를 확인하고 재투여 고려
   * 임신 1분기에는 투여하지 않음
 * 경구 ferrous sulfate : ferritin ≤75 ng/㎖ 또는 TSAT ＜20%에서 고려 \[AASM 2025 조건부 권고]. Ferritin ＞75 ng/㎖이고 TSAT만 낮은 경우에는 경구 흡수·염증·IV 철분 적합성을 함께 평가 (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
@@ -347,7 +352,8 @@ _✽ bromocriptine·pergolide는 AASM 권고 항목이 아니며, 맥각계 도�
 * 임신 중 RLS 유병률 : 약 20\~26%
 * 주로 3분기에 악화, 대부분 분만 전후에 소실되나 이후 재발할 수 있음
 * 1차 : 비약물 치료(저강도 유산소 운동·스트레칭, 온냉 교대 샤워·목욕, 낮 시간 압박스타킹, 이완 요법, 카페인·알코올 회피)와 철 상태 평가. 비타민 D가 낮으면 보충
-* 철 치료 기준은 비임신 성인과 같음. IV 철분은 2·3분기에 **산부인과 협진하에** 투여하고, 1분기에는 투여하지 않음
+* 임신 중 철 치료는 비임신 성인의 IV 철분 기준(ferritin 75\~300 ng/㎖)을 그대로 적용하지 않음. 철 상태를 평가하고 ferritin ＜75 ng/㎖이면 경구 철분을 고려. 중증 증상이 경구 철분에 반응하지 않고 ferritin이 낮은 경우(기존 임신 관련 합의 지침에서는 ＜30 ng/㎖) IV 철분을 개별 판단
+  * IV 철분은 1분기에는 투여하지 않고, 필요 시 2·3분기에 **산부인과 협진하에** 투여. 임신 중 철 결핍·빈혈의 적응증과 RLS 증상 치료 목적을 구분
   * ferric carboxymaltose의 임신 중 태아 안전성 자료는 제한적이므로 “태아 영향 없음”으로 단정하지 않음
 * 약물은 행동요법·철 치료에 반응하지 않는 2·3분기 중증 RLS에서만 공유 의사결정으로 저용량·간헐적 사용 고려
   * gabapentin : 신생아 중환자실 입원 증가, 일부 연구에서 조산·부당경량아 증가, 반복 노출 시 심장 기형 위험을 시사한 연구가 있음. 산부인과·신경과 협진하에 최소 유효 용량
@@ -359,6 +365,8 @@ _✽ bromocriptine·pergolide는 AASM 권고 항목이 아니며, 맥각계 도�
 
 _<mark style="color:$info;">Ref. Picchietti DL et al. Consensus clinical practice guidelines for the diagnosis and treatment of restless legs syndrome/Willis-Ekbom disease during pregnancy and lactation. Sleep Med Rev. 2015;22:64-77.</mark>_
 
+_<mark style="color:$info;">Ref. Jung KY. Update on Restless Legs Syndrome Management during Pregnancy. Sleep Med Clin. 2026;21(2):233-240.</mark>_
+
 #### <mark style="color:$primary;">소아 RLS</mark>
 
 * 소아·청소년에서도 발생; IRLSSG의 5개 필수 기준을 모두 충족하고, 소아가 자신의 연령에 맞는 언어로 증상을 설명할 수 있어야 함. 1차 친족의 가족력, 수면다원검사의 PLMS ≥5/h가 보조 소견
@@ -366,13 +374,13 @@ _<mark style="color:$info;">Ref. Picchietti DL et al. Consensus clinical practic
   * **임상적 함정** : RLS로 인한 수면 장애가 주의력 저하·과잉행동으로 나타나 ADHD처럼 보일 수 있으므로 야간 증상과 수면 상태를 함께 평가
 * 비약물 치료 : 일정한 취침 습관, 저녁 화면 사용·카페인 제한, 규칙적 신체 활동, 따뜻한 목욕·다리 마사지
 * **철분 결핍** : 중요한 가역적 요인 - ferritin·TSAT를 확인하고 ferritin ＜50 ng/㎖이면 철분 보충 고려(성인 기준을 그대로 적용하지 않음)
-  * ferrous sulfate 3 ㎎/㎏을 취침 전 1일 1회 또는 격일 복용하고, 3개월 후 ferritin이 50 ng/㎖를 넘었는지 확인
+  * ferrous sulfate를 **원소철로서 3 ㎎/㎏/일** 취침 전 1일 1회 복용하고, 3개월 후 증상과 ferritin을 재평가
 * AASM 2025는 ferritin ＜50 ng/㎖인 소아 RLS에서 ferrous sulfate를 조건부 권고하나 근거 확실성은 매우 낮음
-* 소아에서 RLS 적응증으로 허가된 약물 없음. 약물이 필요하면 성인과 같이 gabapentinoid가 우선이며, 경구 철분이 효과 없거나 불내성이면 IV 철분을 포함하여 소아신경과·소아수면 전문의 의뢰
+* 소아에서 RLS 적응증으로 허가된 약물은 없음. AASM 2025의 소아 약물 권고는 ferritin ＜50 ng/㎖에서 ferrous sulfate에 한정됨. 경구 철분의 효과가 불충분하거나 불내성이고 증상이 심하면 IV 철분 및 다른 약물의 허가 외 사용 여부를 소아신경과·소아수면 전문의와 개별 판단
 
 #### <mark style="color:$primary;">말기콩팥병·투석 환자</mark>
 
-* 철 결핍 교정 : IV iron sucrose(투석 회로로 투여 가능) \[AASM 2025 조건부 권고] <mark style="color:blue;">\[베노훼럼주]</mark> - 철분주사제 급여기준 확인
+* 철 결핍 교정 : ferritin ＜200 ng/㎖ **및** TSAT ＜20%인 말기콩팥병 환자에서 IV iron sucrose를 AASM 2025가 조건부 권고(투석 회로 투여 가능) <mark style="color:blue;">\[베노훼럼주]</mark> - 철분주사제 급여기준 확인
 * 비타민 C 보충 \[AASM 2025 조건부 권고], 운동, 마사지, 투석액 온도 낮추기
 * 콩팥이식 후 호전되거나 소실되는 경우가 많음
 * gabapentin·pregabalin : 저용량으로 시작하고 투석 후 투여, 진정·보행 불안정을 주의 깊게 관찰
@@ -387,6 +395,14 @@ _<mark style="color:$info;">Ref. Picchietti DL et al. Consensus clinical practic
 * opioid를 쓰지 않던 환자에게 수술 후 opioid를 썼다면 최소 용량·최단 기간으로 쓰고 서서히 중단(급격한 중단 시 RLS 반동)
 
 _<mark style="color:$info;">Ref. Winkelman JW et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.</mark>_
+
+_<mark style="color:$info;">Ref. Allen RP et al. Evidence-based and consensus clinical practice guidelines for the iron treatment of restless legs syndrome/Willis-Ekbom disease in adults and children. Sleep Med. 2018;41:27-44.</mark>_
+
+_<mark style="color:$info;">Ref. US FDA. FDA Adds Boxed Warning to Labeling for Ferric Carboxymaltose Injection (Injectafer) to Describe Risk of Low Phosphate Levels. 2026-09-01.</mark>_
+
+_<mark style="color:$info;">Ref. Schormair B et al. Genome-wide meta-analyses of restless legs syndrome yield insights into genetic architecture, disease biology and risk prediction. Nat Genet. 2024;56:1090-1099.</mark>_
+
+_<mark style="color:$info;">Ref. Connor JR et al. Altered dopaminergic profile in the putamen and substantia nigra in restless leg syndrome. Brain. 2009;132:2403-2412.</mark>_
 
 _<mark style="color:$info;">Ref. Silber MH et al. An updated algorithm for the management of restless legs syndrome. Mayo Clin Proc. 2026;101(9):1561-1588.</mark>_
 
@@ -459,7 +475,8 @@ _<mark style="color:$info;">국내 제품 허가사항:</mark>_ [_<mark style="c
 > ※ 임신 1분기에는 투여하지 않음
 > ※ 반응은 최대 6~8주까지 지연될 수 있음. 투여 후 ferritin 재검은 일상적으로 불필요
 > ※ 첫 투여 3개월 이후 재발하면 ferritin ≤300 ng/㎖·TSAT ＜45% 확인 후 재투여 고려
-> ※ 저인산혈증 위험 환자 또는 반복 투여 예정 환자는 투여 전 혈청 인산염 확인
+> ※ 저인산혈증 위험군에서는 투여 전·후 인산염 평가를 고려하고, 기존 저인산혈증은 투여 전 교정. 첫 투여 후 3개월 이내 재투여 시 재투여 전 인산염 확인(2026년 미국 FDA 동일 성분 안전성 조치)
+> ※ 투여 후 근력 저하·근육통·뼈 통증·심한 피로가 새로 생기면 저인산혈증을 의심하고 검사
 > ```
 
 > **처방례 4.** 도파민 작용제 - gabapentinoid 실패·불내성 후 공유 의사결정으로 선택한 경우
@@ -501,6 +518,7 @@ _<mark style="color:$info;">국내 제품 허가사항:</mark>_ [_<mark style="c
 > * gabapentin <mark style="color:blue;">\[뉴론틴]</mark>, pregabalin <mark style="color:blue;">\[리리카]</mark>은 저녁에 복용합니다. 어지럼, 졸음이 생길 수 있으므로 복용 후 운전은 삼가 주십시오.
 > * 신장 기능에 따라 용량 조절이 필요할 수 있으므로 의사가 지시한 용량을 지켜 주십시오. opioid·수면제·진정제 또는 술과 함께 복용하면 심한 졸림과 호흡억제 위험이 커질 수 있습니다.
 > * 철분제는 자기 전, 식사 후 2시간 이상 지나서 복용하면 흡수가 잘 됩니다. 속이 불편하면 음식과 함께 복용할 수 있습니다. 변비, 속쓰림, 검은 변이 생길 수 있습니다.
+> * 철분 주사를 맞은 뒤 새로 심한 피로·근력 저하·근육통·뼈 통증이 생기면 의료진에게 알려 주십시오. 혈중 인산염 검사가 필요할 수 있습니다.
 > * 도파민 작용제(<mark style="color:blue;">\[미라펙스]</mark>, <mark style="color:blue;">\[리큅]</mark> 등)를 복용 중이라면 증상 발생 시각이 낮으로 앞당겨지거나 팔로 퍼지는지 주의 깊게 살피십시오 - 이런 경우 약을 증량하지 말고 의사에게 신속히 알려 주십시오.
 > * 도파민 작용제는 도박, 과소비, 과식 같은 충동적 행동을 일으킬 수 있습니다. 가족도 함께 살펴 주시고, 최소 6개월마다 진료를 받으십시오.
 > * <mark style="color:blue;">\[리큅]</mark>은 임신 중이거나 수유 중, 또는 임신 가능성이 있으면 복용하지 않습니다.
@@ -533,7 +551,7 @@ _<mark style="color:$info;">국내 제품 허가사항:</mark>_ [_<mark style="c
 * **하지불안증후군** : 쉬거나 누워 있을 때 다리를 움직이고 싶은 강한 충동이 발생하는 신경계 질환입니다. 다리에 벌레가 기어다니는 느낌, 저림, 통증 등을 흔히 동반하지만 이런 감각 없이 충동만 나타날 수도 있습니다
 * 저녁\~밤에 심해지고, 다리를 움직이거나 걸으면 일시적으로 나아집니다
 * 성인의 약 2\~3%에서 치료가 필요할 정도로 나타나며, 수면 장애와 낮 동안의 피로를 유발합니다
-* 철분 부족, 신장 질환, 임신, 일부 약물 등이 원인이 될 수 있습니다
+* 철분 부족, 신장 질환, 임신과 관련되어 나타날 수 있고, 일부 약물이나 수면무호흡증이 증상을 악화할 수 있습니다
 
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
@@ -545,7 +563,7 @@ _<mark style="color:$info;">국내 제품 허가사항:</mark>_ [_<mark style="c
 
 <mark style="color:blue;">\[미라펙스]</mark>, <mark style="color:blue;">\[리큅]</mark> 등
 
-* 이 약물들은 단기적으로 효과가 있지만, 오래 복용하면 \*\*증상이 오히려 악화되는 현상(augmentation)\*\*이 나타날 수 있습니다
+* 이 약물들은 단기적으로 효과가 있지만, 오래 복용하면 **증상이 오히려 악화되는 현상(augmentation)**이 나타날 수 있습니다
 * 증상이 낮에도 나타나거나, 팔이나 몸통으로 퍼지거나, 약을 늘렸는데도 더 심해진다면 약을 더 늘리지 말고 처방한 의사에게 신속히 알려 주십시오
 * 도박, 과소비, 과식 같은 충동적인 행동이 생길 수 있으니 가족과 함께 살펴 주십시오
 * 이 약을 갑자기 끊으면 반동 증상이 심해질 수 있으므로, 반드시 의사 지도하에 서서히 줄여야 합니다
@@ -559,7 +577,7 @@ _<mark style="color:$info;">국내 제품 허가사항:</mark>_ [_<mark style="c
 * **머리를 쓰는 활동** : 증상이 있을 때 퍼즐이나 게임처럼 집중하는 활동이 도움이 될 수 있습니다
 * **수면무호흡증 치료** : 코골이·수면무호흡이 있다면 함께 치료하면 RLS 증상도 좋아질 수 있습니다
 * **⚠️ 감기약·수면보조제 주의** : 일반의약품 수면유도제와 종합감기약에 들어 있는 1세대 항히스타민제, 특히 diphenhydramine <mark style="color:blue;">\[쿨드림연질캡슐]</mark>·doxylamine <mark style="color:blue;">\[아졸정]</mark>·chlorpheniramine 등은 RLS를 악화할 수 있습니다. 불면이 심하더라도 임의로 복용하지 말고, 약국에서 수면유도제나 감기약을 구입할 때 RLS가 있음을 알리고 성분을 확인하십시오
-* **우울증 약 복용 중이라면** : 대부분의 항우울제는 RLS를 악화시킬 수 있습니다. 임의로 중단하지 말고 담당 의사와 상의하십시오. Bupropion은 다른 항우울제보다 RLS를 악화시킬 가능성이 낮을 수 있지만 RLS 자체를 치료하는 약은 아닙니다
+* **우울증 약 복용 중이라면** : 일부 항우울제가 RLS를 악화시킬 수 있습니다. 임의로 중단하지 말고 담당 의사와 상의하십시오. Bupropion은 다른 항우울제보다 RLS를 악화시킬 가능성이 낮을 수 있지만 RLS 자체를 치료하는 약은 아닙니다
 
 #### <mark style="color:$primary;">이럴 때는 의료진에게 알려 주세요</mark>
 
