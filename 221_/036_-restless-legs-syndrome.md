@@ -131,6 +131,23 @@ Ferritin 수치는 측정법에 따라 차이가 큼. 이 챕터의 기준값(75
 ***
 
 ```mermaid
+graph TD
+    Start(["휴식 시 다리를 <br/>움직이고 싶은 충동"]) --> A["IRLSSG 5개 기준 충족?"]
+    A -- 아니오 --> B["유사 질환 감별"]
+    A -- 예 --> C["하지불안증후군"]
+    C --> D["철 검사·악화 약물·OSA 평가"]
+    D --> E["증상 빈도와 고통 정도"]
+    E -- "간헐형(주 ＜2회)" --> F["비약물 치료 + 필요 시 <br/>간헐적 약물(주 ≤3회)"]
+    E -- 만성 지속형 --> G["철 치료 <br/>+ gabapentinoid"]
+    G --> H["효과 불충분 또는 불내성?"]
+    H -- 아니오 --> I["효과·이상반응 <br/>정기 추적"]
+    H -- 예 --> K["저용량 opioid 또는 도파민 <br/>작용제 - 공유 의사결정"]
+    K --> L["도파민 작용제 복용 중 악화?"]
+    L -- 예 --> M["증량 금지 - 대체 약제 도입 후 서서히 감량, 전문의 의뢰"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style C fill:#f96,stroke:#e65100,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class A,E,H,L yellow
 ```
 
 <p align="center"><strong>하지불안증후군 진단 및 치료 알고리듬</strong></p>
