@@ -1,62 +1,66 @@
-# 하지불안증후군 Restless Legs Syndrome
+# 하지불안증후군 Restless Legs Syndrome, RLS
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 감각운동 신경계 질환으로, 휴식하거나 움직이지 않을 때 다리를 움직이고 싶은 강한 충동(urge to move)이 발생 또는 악화되고 움직이는 동안 부분적 또는 완전하게 호전됨
-  * 움직임 충동은 환자가 느끼는 증상이며, 실제 다리 움직임은 대개 불편감을 줄이기 위한 의식적 대처 행동임. 수면 중 주기적 사지 움직임(PLMS)은 불수의적 움직임으로 구분
-* 다른 이름 : Willis-Ekbom disease
-* 증상은 대개 다리에서 시작하지만 팔·몸통 등에도 나타날 수 있고, 중증도와 경과는 변동함. 연령과 함께 악화되기도 하지만 경증에서는 관해될 수 있음
-* 특발성(idiopathic) RLS와 철 결핍, 만성콩팥병, 임신 등 특정 상태에 동반된 RLS로 구분할 수 있으나, 조기·후기 발병과 특발성·동반성 RLS가 일대일로 대응하지는 않음
+* 휴식하거나 움직이지 않을 때 다리를 움직이고 싶은 강한 충동(urge to move)이 발생 또는 악화되고, 움직이는 동안 부분적 또는 완전하게 호전되는 감각운동 신경계 질환
+  * 환자가 느끼는 증상은 움직임 충동이며, 실제 다리 움직임은 대개 불편감을 줄이기 위한 의식적 대처 행동임
+  * 수면 중 주기적 사지 움직임(PLMS)은 불수의적 동작임
 * 유병률 : 성인 2\~3%(주 2회 이상, 중등도 이상 증상 기준)
+* 증상은 대개 다리에서 시작하지만 팔·몸통 등에도 나타날 수 있음
+* 중증도와 경과는 변동함; 연령과 함께 악화되기도 하지만 경증에서는 관해될 수 있음
+* 병태생리 : 뇌 철 항상성 이상(특히 뇌 철분 부족)과 유전적 소인을 바탕으로 도파민계의 합성·수송·수용체 및 일주기 조절 이상, glutamate·adenosine계 변화와 감각운동·각성 회로의 과활성이 복합적으로 관여하는 것으로 추정
+  * 선조체의 시냅스전 도파민 활성 증가와 A11 신경군에서 척수로 내려가는 도파민 경로의 조절 이상이 각각 제안되었으나, 부위별 도파민 과활성·결핍이 동시에 작동한다는 기전은 확립되지 않음
+* 동반 상태 : 철 결핍, 만성콩팥병·말기콩팥병, 임신, 말초신경병증, 다발경화증, 파킨슨병, 폐쇄수면무호흡증(OSA), opioid 금단 등
 
 ## <mark style="color:green;">원인</mark>
 
-* 병태생리는 단일한 도파민 결핍으로 설명되지 않으며, 뇌 철 대사 이상, 유전적 소인, 도파민계의 일주기 조절 이상 및 증가된 시냅스전 도파민 활성, glutamate 매개 시상-피질 과각성 등이 복합적으로 관여하는 것으로 추정
-* 동반 상태 : 철 결핍, 만성콩팥병·말기콩팥병, 임신, 말초신경병증, 다발경화증, 파킨슨병, 폐쇄수면무호흡증(OSA), opioid 금단 등
-* 악화 요인 : 수면 부족·장시간 비활동, 스트레스, 알코올, 카페인, 니코틴, 일부 약물
-  * 약물
-    * 항우울제 : SSRI/SNRI, mirtazapine
-    * 항정신병제
-    * 중추성 H1 항히스타민제(특히 diphenhydramine 등 1세대 항히스타민제)
-    * 도파민 차단제(metoclopramide 등), 일부 항구토제
+* 원발성 : 유전적 소인 + 뇌 철분 결핍 + 도파민계 이상
+* 속발성 : 철분 결핍, 신부전, 임신, 약물 등&#x20;
+
+### <mark style="color:orange;">악화 요인</mark>
+
+* &#x20;수면 부족·장시간 비활동, 스트레스, 알코올, 카페인, 니코틴, 일부 약물
+* 약물
+  * 항우울제 : SSRI/SNRI, mirtazapine
+  * 항정신병제
+  * 중추성 H1 항히스타민제(특히 diphenhydramine 등 1세대 항히스타민제)
+  * 도파민 차단제(metoclopramide 등), 일부 항구토제
 
 ### <mark style="color:orange;">위험인자</mark>
 
-* 철분 결핍, 만성콩팥병·말기콩팥병, 임신, 말초신경병증, 일부 약물
+* 철분 결핍, 만성콩팥병·말기콩팥병, 임신, 말초신경병증
 * 가족력 : 50%에서 가족력이 있음 (상염색체 우성 경향)
 * 여성, 고령(약 70세까지 유병률 증가)
 
 ## <mark style="color:green;">임상 양상</mark>
 
 * 핵심 증상은 다리를 움직이고 싶은 충동. 벌레가 기어 다니는 느낌, 불안정감, 가려움, 통증 등 피부보다 깊은 부위의 불쾌한 감각이 흔히 동반되지만 필수는 아님
-* 활동으로 호전, 비활동으로 재발
+* 활동으로 호전, 비활동으로 재발 또는 악화
 * 발생 빈도 : 다양(매일 \~ ＜1회/월)
 * 발생 시기 : 저녁\~밤(주로 잠들기 전); 낮에도 발생할 수 있음
 * 중증도 : 다양(무시할 만함\~생활에 지장을 줌)
 * 동반 증상 : 수면 장애(수면 개시 어려움), 피로, 불안, 주간 졸음
-* 동반 소견 : 수면 중 주기적 사지 움직임(periodic limb movements during sleep, PLMS) - 수면 중 나타나는 불수의적·반복적 사지 움직임으로 흔히 15\~30초 간격이나, RLS 진단에 필수적이지 않음
+* 동반 소견 : 수면 중 주기적 사지 움직임(periodic limb movements during sleep, PLMS) - 수면 중 나타나는 불수의적·반복적 사지 움직임으로 흔히 15\~30초 간격이며, RLS 진단에 필수적이지 않음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 의뢰 또는 이송**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 급성 근력 저하 또는 급성 보행 불능
-* 감각 수준(sensory level), 새로 발생한 배뇨·배변 장애, 안장 감각 저하 등 척수·마미 병변 의심 소견 - 즉시 응급실로 이송하여 신경외과·정형외과 척추 또는 신경과의 긴급 평가와 영상검사 시행
+* 감각 수준(sensory level), 새로 발생한 배뇨·배변 장애, 안장 감각 저하 등 척수·마미 병변 의심 소견
 * 급성 국소 신경학적 결손 또는 의식 변화
-* 도파민 작용제 감량 중 구체적 자살 계획·의도, 수단 확보 또는 안전 확보 불가 - dopamine agonist withdrawal syndrome(DAWS) 가능성을 고려하여 즉시 정신건강 응급 평가
+* 도파민 작용제 감량 중 구체적 자살 계획·의도, 수단 확보 또는 안전 확보 불가
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 도파민 작용제 복용 중 증상이 이전보다 이른 시각에 발생하거나 상지·몸통으로 확산되는 등 augmentation 의심
-* 도파민 작용제 감량 중 심한 반동 증상, 불안·우울 악화 또는 구체적 계획·의도가 없는 자살사고(도파민 작용제 금단증후군, DAWS 의심)
+* 도파민 작용제 감량 중 심한 반동 증상, 불안·우울 악화 또는 구체적 계획·의도가 없는 자살사고  `도파민 작용제 금단증후군` `DAWS`
 * 임신 중 일상생활·수면을 현저히 방해하는 중증 RLS
 * 적절한 철분 교정과 gabapentinoid 치료에도 조절되지 않는 난치성 RLS
 
-<mark style="color:$info;">**외래 추적 / 추가 평가**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 편측성, 낮 동안 지속되는 통증·감각 이상, 신경학적 진찰 이상 등 비전형적 증상 - 말초신경·척수·혈관·근골격계 질환 감별
-* 철분 보충 후 약 3개월에 ferritin과 transferrin saturation(TSAT) 재평가
-* 도파민 작용제 복용 환자는 매 방문마다 augmentation과 충동조절장애 확인
+* 편측성, 낮 동안 지속되는 통증·감각 이상, 신경학적 진찰 이상 등 비전형적 증상
 
 ## <mark style="color:green;">진단</mark>
 
@@ -74,7 +78,7 @@
 2. 하지의 움직임 충동 및 동반되는 불쾌감은 휴식 중 시작 또는 악화
 3. 하지의 움직임 충동 및 동반되는 불쾌감은 움직이는 동안(예: 보행, 스트레칭) 완전히 또는 부분적으로 완화
 4. 하지의 움직임 충동 및 동반되는 불쾌감은 저녁이나 야간에 발생 또는 악화
-5. 상기 사항들은 다른 의학적 문제(예: myalgia, venous stasis, leg edema, arthritis, leg cramps, positional discomfort [자세성 불편감], habitual foot tapping)의 1차적 증상으로 설명되지 않음
+5. 상기 사항들은 다른 의학적 문제(예: myalgia, venous stasis, leg edema, arthritis, leg cramps, positional discomfort \[자세성 불편감], habitual foot tapping)의 1차적 증상으로 설명되지 않음
 
 _✽ 중증 RLS에서는 움직임에 따른 완화나 저녁·야간 악화가 뚜렷하지 않을 수 있으나, 이전에는 해당 양상이 존재해야 함. 간헐형·만성 지속형의 경과 분류는 임신·약물 유발 등 유발 기간이 제한된 경우나 일부 소아에게 그대로 적용하지 않음._
 
@@ -219,7 +223,6 @@ _<mark style="color:$info;">하지불안증후군 진단·치료 진입 알고�
 * 두 약제 모두 신장 배설되므로 CrCl에 따라 감량. RLS 목표 용량과 다른 적응증의 제품 허가상 최대용량을 혼용하지 않음
 * 정상 신기능에서 정한 RLS 목표 일일용량을 기준으로 각 제품 첨부문서의 CrCl별 용량·투여 간격 조절표를 적용하고 환자 반응과 이상반응에 따라 추가 감량
 * 혈액투석 환자는 투석 후 보충용량이 필요할 수 있으므로 제품 첨부문서 확인 또는 전문의 자문
-
 * gabapentin : 100\~300 ㎎ qd(저녁)로 시작 → 일반적 유효 용량 300\~900 ㎎/d. 600 ㎎을 넘는 단회 투여에서는 흡수가 용량에 비례하지 않으므로 고용량이 필요하면 저녁 시간대 분할 투여 고려
 * pregabalin : 25\~75 ㎎ qd(저녁)로 시작 → 일반적 유효 용량 150\~300 ㎎/d
 * gabapentin enacarbil : 600 ㎎/d (저녁) - 국내 미발매; FDA 유일 RLS 승인 gabapentinoid; prodrug 기전으로 흡수 변동성 감소, 일반 gabapentin 대비 약동학 안정성 향상
@@ -329,7 +332,7 @@ _<mark style="color:$info;">Ref. Allen RP et al. Restless legs syndrome/Willis-E
 
 _<mark style="color:$info;">Ref. Garcia-Borreguero D et al. Diagnostic standards for dopaminergic augmentation of restless legs syndrome. Sleep Med. 2007;8(5):520-530.</mark>_
 
-_<mark style="color:$info;">Ref. Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70:2030-2051. 국내 제품 허가사항: <a href="https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AHHHHH0249">훼로바유서방정</a>, <a href="https://health.kr/searchDrug/result_drug.asp?drug_cd=2010061500005">페린젝트주</a>.</mark>_
+_<mark style="color:$info;">Ref. Snook J et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70:2030-2051. 국내 제품 허가사항:</mark>_ [_<mark style="color:$info;">훼로바유서방정</mark>_](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AHHHHH0249)_<mark style="color:$info;">,</mark>_ [_<mark style="color:$info;">페린젝트주</mark>_](https://health.kr/searchDrug/result_drug.asp?drug_cd=2010061500005)_<mark style="color:$info;">.</mark>_
 
 ***
 
@@ -402,7 +405,7 @@ G25.8 하지불안증후군
 >
 > **Augmentation 발생 시 교체 방법**\
 > ① 철 상태·악화 약물·OSA를 재평가하고 gabapentinoid 등 대체 치료를 먼저 시작\
-> ② 대체 치료를 내약 가능한 유효 용량까지 적정한 뒤 미라펙스를 단계적으로 감량(예: 0.25 ㎎씩, 저용량에서는 더 작은 폭; 간격은 반동 증상·내약성에 따라 최소 3일~1개월로 개별화)\
+> ② 대체 치료를 내약 가능한 유효 용량까지 적정한 뒤 미라펙스를 단계적으로 감량(예: 0.25 ㎎씩, 저용량에서는 더 작은 폭; 간격은 반동 증상·내약성에 따라 최소 3일\~1개월로 개별화)\
 > ③ 격일 투여와 갑작스러운 중단은 피함\
 > ④ 심한 반동 증상, 불안·우울 악화가 나타나면 DAWS 가능성을 고려하여 신속히 평가하고 전문의 의뢰; 구체적 자살 계획·의도 또는 안전 확보가 어려우면 즉시 정신건강 응급 평가
 
@@ -456,7 +459,7 @@ G25.8 하지불안증후군
 
 <mark style="color:blue;">\[미라펙스]</mark>, <mark style="color:blue;">\[리큅]</mark> 등
 
-* 이 약물들은 단기적으로 효과가 있지만, 오래 복용하면 **증상이 오히려 악화되는 현상(augmentation)**이 나타날 수 있습니다
+* 이 약물들은 단기적으로 효과가 있지만, 오래 복용하면 \*\*증상이 오히려 악화되는 현상(augmentation)\*\*이 나타날 수 있습니다
 * 증상이 낮에도 나타나거나, 팔이나 몸통으로 퍼지거나, 약을 늘렸는데도 더 심해진다면 약을 더 늘리지 말고 처방한 의사에게 신속히 알려 주십시오
 * 이 약을 갑자기 끊으면 반동 증상이 심해질 수 있으므로, 반드시 의사 지도하에 서서히 줄여야 합니다
 
