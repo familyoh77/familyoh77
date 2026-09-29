@@ -43,7 +43,7 @@
 * "언제 시작됐고, 얼마나 지속되며, 무엇이 유발했는가"는 환자가 비교적 정확하게 기억하고 재현성도 높으므로 증상이 아니라 시간 패턴을 1차 분류축으로 하는 TiTrATE(Timing, Triggers, Targeted Examination)를 도입
 * "vertigo인가 disequilibrium인가"를 아는 것보다 "지금 처음 보는 급성 지속 증상인가, 반복되는 발작인가, 자세로 유발되는가"를 아는 것이 다음에 무슨 검사를 할지·무슨 치료를 시작할지를 결정하는데 유용
 
-<table><thead><tr><th width="86">분류</th><th>특징</th><th>감별 요점; 의심 질환</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>t-EVS</strong><br></td><td>특정 동작/자세가 매번 새 발작을 유발, 유발 전엔 무증상</td><td>자세·동작 의존적 기전을 우선 고려; <strong>BPPV, 기립성 저혈압</strong>. 비전형적 체위안진에서는 중추성 원인 감별</td><td>Dix-Hallpike, supine roll test, 기립혈압 측정으로 진단을 확인하고 정복술 등 즉시 시행 가능한 치료로 연결</td></tr><tr><td><strong>s-EVS</strong></td><td>뚜렷한 유발요인 없이 반복되는 발작, 발작 사이는 정상</td><td>혈류·전기적·화학적으로 간헐적인 이상을 시사; <strong>TIA, 부정맥, 전정 편두통, 메니에르, 저혈당, 공황발작</strong></td><td>발작 당시를 못 보므로 진찰만으로 확진 어려움 → 발작일지, 심전도/홀터, 청력검사, 혈당 등 발작 간 검사와 병력 패턴(지속시간·동반증상)으로 감별</td></tr><tr><td><strong>AVS</strong></td><td>급성 발생, 지속적(보통 24시간 이상), 진찰 시점에도 증상 존재</td><td>진찰 시 안진·HIT를 볼 수 있음</td><td>HINTS Plus를 바로 적용할 수 있는 유일한 범주</td></tr></tbody></table>
+<table><thead><tr><th width="86">분류</th><th>특징</th><th>감별 요점; 의심 질환</th><th>임상적 의의</th></tr></thead><tbody><tr><td><strong>t-EVS</strong><br></td><td>특정 동작/자세가 매번 새 발작을 유발, 유발 전엔 무증상</td><td>자세·동작 의존적 기전을 우선 고려; <strong>BPPV, 기립성 저혈압</strong>. 비전형적 체위안진에서는 중추성 원인 감별</td><td>Dix-Hallpike, supine roll test, 기립혈압 측정으로 진단을 확인하고 정복술 등 즉시 시행 가능한 치료로 연결</td></tr><tr><td><strong>s-EVS</strong></td><td>뚜렷한 유발요인 없이 반복되는 발작, 발작 사이는 정상</td><td>혈류·전기적·화학적으로 간헐적인 이상을 시사; <strong>TIA, 부정맥, 전정 편두통, 메니에르, 저혈당, 공황발작</strong></td><td>발작 당시를 못 보므로 진찰만으로 확진 어려움 → 발작일지, 심전도/홀터, 청력검사, 혈당 등 발작 간 검사와 병력 패턴(지속시간·동반증상)으로 감별</td></tr><tr><td><strong>AVS</strong></td><td>급성 발생, 지속적(보통 24시간 이상), 진찰 시점에도 증상 존재</td><td>진찰 시 안진·HIT를 볼 수 있음</td><td>중추성 위험 징후를 먼저 확인함. 안정 시 안진이 관찰되고 숙련된 검사자가 있는 경우 HINTS Plus 적용</td></tr></tbody></table>
 
 > _**t-EVS** = Triggered Episodic Vestibular Syndrome (유발성 삽화성 전정 증후군)_\
 > _**s-EVS** = Spontaneous Episodic Vestibular Syndrome (자발성 삽화성 전정 증후군)_\
@@ -288,7 +288,7 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 * 방법 ([Figure](https://www.nuemblog.com/blog/hints))
   * 검사자와 마주 앉아 검사자의 코를 주시하게 하고 검사자가 환자의 얼굴을 잡고 (환자는 예측 하지 못한 상태에서) 한쪽으로 빠르게 15°돌림\
     → 천천히 정면을 향하게 하고 반대쪽으로 다시 시행
-* 음성 (정상) : 시선이 표적에 고정됨. AVS에서는 정상 HIT가 중추성 원인을 시사할 수 있음
+* 음성 (정상) : 시선이 표적에 고정됨. HINTS 적용 대상인 AVS에서는 정상 HIT가 중추성 원인을 시사할 수 있음
 * 양성 (비정상) : 시선이 머리 회전을 따라간 뒤 교정성 단속운동으로 표적에 돌아옴
   * 회전시킨 쪽의 vestibulo-ocular reflex 결손을 시사
   * 단, AICA 경색 등 중추성 병변에서도 비정상일 수 있으므로 HIT 단독으로 말초성 확정 불가
@@ -305,8 +305,10 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 #### <mark style="color:$primary;">HINTS Plus Exam</mark>
 
 * 다음 4가지 검사로 구성 : Head impulse test, Nystagmus, Test of Skew, New hearing loss
-* 현재 자발안진이 있는 급성전정증후군(AVS) 환자에서, 적절히 훈련된 검사자가 시행
-  * 발작성·체위성 어지럼, 자발안진이 없는 환자 또는 검사 협조가 어려운 환자에게 적용하지 않음
+* 급성 지속성 어지럼에서는 새 국소 신경학적 이상, 중추성 안진, 새 심한 두통·경부 통증, 심한 체간·보행 불안정 등 중추성 위험 징후를 먼저 확인함. 위험 징후가 있으면 HINTS 결과와 무관하게 뇌졸중 등 중추성 원인을 평가함
+* 중추성 위험 징후가 없고 진찰 당시 안정 시 안진이 관찰되는 급성전정증후군(AVS) 환자에서, 적절히 훈련된 검사자가 시행
+  * 정면 주시 또는 좌우 주시에서 관찰되는 안정 시 안진을 확인함. 체위검사에서만 유발된 안진은 HINTS 적용 조건에 해당하지 않음
+  * 발작성·체위성 어지럼, 안정 시 안진이 없는 환자 또는 검사 협조가 어려운 환자에게 적용하지 않음
 * 말초성(Peripheral) 패턴 : 아래 소견이 모두 충족될 때 AUVP를 시사
   * Head Impulse Test (+) : 환측으로 머리 회전 시 교정성 단속운동(catch-up saccade) 관찰
   * Nystagmus : 단방향 수평 안진(Direction-fixed); 주시 방향을 바꿔도 안진의 방향이 변하지 않음
@@ -315,7 +317,9 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 * 중추성 또는 equivocal 패턴 : 정상 Head impulse test, 주시 방향에 따라 방향이 바뀌는 안진, skew deviation 또는 새 일측성 청력 저하 중 하나라도 있으면 뇌졸중 가능성을 평가하고 MRI/MRA 시행
 * 새 일측성 청력 저하는 AICA 경색의 민감도를 높이는 위험 신호이지만 단독 확진 소견은 아님
   * 미로염·돌발성 감각신경성 난청 등 말초성 원인도 가능하므로 응급 뇌졸중 평가와 청각 평가를 병행
-* 자발안진이 없는 AVS에서는 HINTS 대신 보행·체간 불안정 정도와 신경학적 진찰을 중점 평가
+* 안정 시 안진이 없는 AVS에서는 HINTS로 중추성 여부를 판정하지 않음. 새로 발생한 객관적 보행 장애가 있으면 뇌졸중 평가를 의뢰하고, 보행 이상이 뚜렷하지 않아도 다른 위험 징후와 임상 경과에 따라 평가함
+
+<p align="center"><em><mark style="color:$info;">Ref. Sars C, et al. When to Use the HINTS Examination in Patients With Dizziness: A Review. JAMA Neurol. Published online September 21, 2026. doi:10.1001/jamaneurol.2026.2942.</mark></em></p>
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -328,8 +332,9 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 **Sudden-onset vestibular 증상**
 
 * 예: 어지럼, 구역/구토, 보행 불안정
-* 자발안진이 있으면 훈련된 검사자가 HINTS Plus 시행 : head impulse test 정상, 주시 방향에 따른 방향변환성 안진, skew deviation 또는 새 일측성 청력 저하 중 하나라도 있으면 즉시 의뢰(중추성 또는 equivocal)
-* 자발안진이 없으면 보행·체간 불안정 정도를 평가
+* 먼저 새 국소 신경학적 이상, 중추성 안진, 새 심한 두통·경부 통증 및 심한 체간·보행 불안정 등 중추성 위험 징후를 확인함. 해당 소견이 있으면 즉시 의뢰
+* 급성 지속성 증상에서 중추성 위험 징후가 없고 안정 시 안진이 있으면 훈련된 검사자가 HINTS Plus 시행 : head impulse test 정상, 주시 방향에 따른 방향변환성 안진, skew deviation 또는 새 일측성 청력 저하 중 하나라도 있으면 즉시 의뢰(중추성 또는 equivocal)
+* 안정 시 안진이 없으면 HINTS를 적용하지 않고 객관적 보행 장애와 신경학적 소견을 평가함. 새로 발생한 객관적 보행 장애가 있으면 뇌졸중 평가를 의뢰함
 * HINTS를 적절히 수행·판독할 수 없고 BPPV 또는 기립성 저혈압으로 명확히 설명되지 않으면 즉시 의뢰
 
 **재발성 어지럼 with 기능적 신경학적 이상**
@@ -342,7 +347,7 @@ AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현�
 <table><thead><tr><th width="165">소견</th><th>말초성 패턴</th><th>중추성 위험 소견</th></tr></thead><tbody><tr><td>자발안진</td><td>방향고정성 수평-회선성</td><td>주시 방향에 따른 방향변환성, 수직 또는 순수 회선성</td></tr><tr><td>Head impulse</td><td>병변 측 교정성 단속운동</td><td>AVS에서 정상 반응. 단, 비정상 반응도 AICA 경색을 배제하지 못함</td></tr><tr><td>Skew</td><td>없음</td><td>수직 안구 재정렬</td></tr><tr><td>보행·체간</td><td>불안정할 수 있으나 대개 보조하여 보행 가능</td><td>부축 없이 앉거나 서기 어렵거나 보행 불가</td></tr><tr><td>청각</td><td>질환에 따라 난청·이명 동반 가능</td><td>AVS와 새 일측성 청력 저하가 동반되면 AICA 경색 위험 증가</td></tr><tr><td>기타 신경학적 소견</td><td>없음</td><td>복시, 구음·연하 장애, 편측 위약·감각저하, 사지실조 등</td></tr></tbody></table>
 
 > _<mark style="color:$info;">증상 강도·구역·청각 증상만으로 중추성과 말초성을 구분하지 않음.</mark>_\
-> _<mark style="color:$info;">HINTS Plus는 현재 자발안진이 있는 AVS에서 훈련된 검사자가 시행.</mark>_
+> _<mark style="color:$info;">HINTS Plus는 중추성 위험 징후를 먼저 확인한 뒤, 안정 시 안진이 있는 AVS에서 훈련된 검사자가 시행함. 말초성 패턴이라도 다른 중추성 위험 징후가 있으면 뇌졸중 평가가 필요함.</mark>_
 
 #### <mark style="color:$primary;">체위성 안진: 말초성 vs 중추성</mark>
 
@@ -378,13 +383,15 @@ flowchart TD
     D1 --> D4["공황발작 등"]
     D3 --> Y2["응급 평가<br/>원인별 검사·치료"]
 
-    E --> E1["자발안진 있음?"]
+    E --> E0["중추성 위험 징후<br/>먼저 확인"]
+    E0 -->|"있음"| X1
+    E0 -->|"없음"| E1["안정 시 안진 있음?"]
     E1 -->|"있음"| E2["HINTS Plus<br/>(숙련자)"]
     E2 --->|"모두 말초성"| E3["AUVP 가능<br/>조기 전정재활"]
     E2 -->|"중추성 소견/애매"| X1["중추성 원인 평가"]
-    E1 -->|"없음"| E4["보행·체간·신경진찰"]
-    E4 -->|"심한 불안정"| X1
-    E4 -->|"뚜렷한 이상 없음"| E5["약물·독소·대사·심혈관<br/>말초전정 원인 평가"]
+    E1 -->|"없음"| E4["객관적 보행 장애<br/>·신경진찰"]
+    E4 -->|"새 보행 장애"| X1
+    E4 -->|"새 보행 장애 없음"| E5["약물·독소·대사·심혈관<br/>말초전정 원인 평가"]
     E5 -.->|"배제 불충분"| X1
 
     X --> Y["응급실 의뢰<br/>MRI/MRA·뇌졸중 평가"]
@@ -400,13 +407,13 @@ flowchart TD
     class A start
     class B,E1 branch
     class C,D,E category
-    class C1,D1,E2,E4 process
+    class C1,D1,E0,E2,E4 process
     class C2,C3,C4,D2,D4,D5,E3,E5 outcome
     class X,Y,X1,Y1,D3,Y2 urgent
 
 ```
 
-<p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 구성</mark></em> - <em><mark style="color:$info;">TiTrATE 및 GRACE-3 timing-and-triggers 접근법 기반</mark></em></p>
+<p align="center"><strong>어지럼증 진단 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 구성</mark></em> - <em><mark style="color:$info;">TiTrATE, GRACE-3 및 Sars 등(JAMA Neurol 2026) 접근법 기반</mark></em></p>
 
 ***
 
