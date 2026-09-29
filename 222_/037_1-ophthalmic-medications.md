@@ -24,7 +24,7 @@
 5. 눈을 살며시 감고 눈 안쪽 코 옆의 눈물점을 1\~2분간 눌러 줌. 반복해서 세게 깜박이지 않음
 6. 흘러나온 약액은 깨끗한 거즈나 휴지로 닦고 손을 씻음
 
-<figure><img src="../.gitbook/assets/안약_사용법.png" alt="점안 방법과 눈물점 압박" width="550"><figcaption><p>점안 방법</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/안약_사용법.png" alt="점안 방법과 눈물점 압박" width="266"><figcaption><p><strong>점안 방법과 눈물점 압박</strong> (AI 형성 이미지)</p></figcaption></figure>
 
 #### <mark style="color:$primary;">주의사항</mark>
 
@@ -47,30 +47,30 @@
 
 * 화학물질 안구 노출 - 의뢰 전에 즉시 충분한 세척을 시작
 * 개방성 안구손상·관통상 의심
-* 갑작스러운 중증 시력 소실, 50세 이상에서 두통·턱 파행·두피 압통 동반  `망막동맥폐쇄` `거대세포동맥염`
-* 커튼처럼 시야가 가려지거나 시야 결손이 새로 생김  `망막박리`
-* 신생아의 화농성 눈 분비물, 특히 다량·빠른 악화  `신생아 결막염`
-* β차단 점안제 사용 후 실신·심한 서맥 또는 호흡곤란  `전신 β차단 작용`
-* 심한 안구통·두통·오심/구토·무지개 테를 동반한 충혈, 특히 산동제·항콜린제·topiramate 투여 후 발생  `급성 폐쇄각녹내장`
-* 안구돌출, 안구운동 제한 또는 운동 시 통증, 시력 저하  `안와봉와직염`
-* brimonidine 점안 또는 혈관수축 점안제 오음독 후 영유아의 처짐·서맥·호흡 저하  `α2 작용제·이미다졸린 중독`
+* 갑작스러운 중증 시력 소실, 50세 이상에서 두통·턱 파행·두피 압통 동반 `망막동맥폐쇄` `거대세포동맥염`
+* 커튼처럼 시야가 가려지거나 시야 결손이 새로 생김 `망막박리`
+* 신생아의 화농성 눈 분비물, 특히 다량·빠른 악화 `신생아 결막염`
+* β차단 점안제 사용 후 실신·심한 서맥 또는 호흡곤란 `전신 β차단 작용`
+* 심한 안구통·두통·오심/구토·무지개 테를 동반한 충혈, 특히 산동제·항콜린제·topiramate 투여 후 발생 `급성 폐쇄각녹내장`
+* 안구돌출, 안구운동 제한 또는 운동 시 통증, 시력 저하 `안와봉와직염`
+* brimonidine 점안 또는 혈관수축 점안제 오음독 후 영유아의 처짐·서맥·호흡 저하 `α2 작용제·이미다졸린 중독`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 콘택트렌즈 착용자의 통증성 충혈, 각막 혼탁·백색 침윤·상피결손 **(당일)**  `세균각막염`
-* 통증·눈부심·시력 저하를 동반한 충혈 **(당일)**  `홍채염` `공막염` `각막염`
-* 성인에서 다량의 화농성 분비물과 빠른 악화 **(당일)**  `임균결막염`
-* 새로 생기거나 갑자기 증가한 비문증·광시증 **(당일 산동 안저검사)**  `망막열공·망막박리 감별`
-* 수지상 각막 병변 **(당일)**  `HSV 상피각막염`
-* corticosteroid 점안 중 통증·눈부심·시력 저하가 새로 생기거나 악화 **(당일)**  `감염 악화` `스테로이드 녹내장`
-* 국소 마취 점안제를 반복 사용한 뒤의 지속 통증·각막 혼탁 **(당일)**  `국소마취제 각막병증`
-* β차단 점안제 사용 중 새로운 서맥·어지럼 **(당일; 실신·호흡곤란은 즉각 조치)**  `β차단제 전신 흡수`
-* hydroxychloroquine·ethambutol·semaglutide 등 투여 중 새로 생긴 시력 저하·색각 이상·시야 결손 **(당일; 갑작스러운 시력 소실은 즉각 조치)**  `약물 관련 망막병증·시신경병증`
+* 콘택트렌즈 착용자의 통증성 충혈, 각막 혼탁·백색 침윤·상피결손 **(당일)** `세균각막염`
+* 통증·눈부심·시력 저하를 동반한 충혈 **(당일)** `홍채염` `공막염` `각막염`
+* 성인에서 다량의 화농성 분비물과 빠른 악화 **(당일)** `임균결막염`
+* 새로 생기거나 갑자기 증가한 비문증·광시증 **(당일 산동 안저검사)** `망막열공·망막박리 감별`
+* 수지상 각막 병변 **(당일)** `HSV 상피각막염`
+* corticosteroid 점안 중 통증·눈부심·시력 저하가 새로 생기거나 악화 **(당일)** `감염 악화` `스테로이드 녹내장`
+* 국소 마취 점안제를 반복 사용한 뒤의 지속 통증·각막 혼탁 **(당일)** `국소마취제 각막병증`
+* β차단 점안제 사용 중 새로운 서맥·어지럼 **(당일; 실신·호흡곤란은 즉각 조치)** `β차단제 전신 흡수`
+* hydroxychloroquine·ethambutol·semaglutide 등 투여 중 새로 생긴 시력 저하·색각 이상·시야 결손 **(당일; 갑작스러운 시력 소실은 즉각 조치)** `약물 관련 망막병증·시신경병증`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 적절한 치료에도 48\~72시간 내 호전되지 않거나 악화
-* 반복되는 단안 충혈, 재발성 다래끼·같은 위치에 재발하는 콩다래끼, 장기간 지속되는 안검 병변  `피지샘암`
+* 반복되는 단안 충혈, 재발성 다래끼·같은 위치에 재발하는 콩다래끼, 장기간 지속되는 안검 병변 `피지샘암`
 * 안압 검사 없이 수 주 이상 corticosteroid 점안을 지속하는 경우
 
 ## <mark style="color:green;">인공눈물과 안구건조증 약제</mark>
@@ -83,7 +83,7 @@
 
 ### <mark style="color:orange;">성분·제형별 분류</mark>
 
-<table><thead><tr><th width="115">분류</th><th>성분·대표 제품</th><th>특징과 사용</th></tr></thead><tbody><tr><td><strong>수분 보유·</strong><br><strong>점탄성</strong></td><td>sodium hyaluronate<br><mark style="color:blue;">[라큐아]</mark>, <mark style="color:blue;">[히아레인 미니]</mark></td><td>농도·방부제 유무에 따라 용법이 다르므로 제품별 허가사항 확인</td></tr><tr><td><strong>점성 유지</strong></td><td>carboxymethylcellulose <mark style="color:blue;">[리프레쉬 티어즈]</mark>, <mark style="color:blue;">[리프레쉬 플러스]</mark><br>hypromellose <mark style="color:blue;">[아티어]</mark><br>povidone <mark style="color:blue;">[옵타젠트]</mark>, <mark style="color:blue;">[티어드롭]</mark></td><td>povidone은 누액대용 성분(povidone-iodine 소독제와 다름). 제품별 허가사항 확인</td></tr><tr><td><strong>겔·연고</strong></td><td>carbomer gel <mark style="color:blue;">[리포직]</mark><br>white petrolatum·mineral oil·lanolin 기반 연고 <mark style="color:blue;">[듀라티얼즈 안연고]</mark></td><td>작용시간이 길지만 일시적 시야 흐림 가능. 연고는 주로 취침 전 사용하며 제품별 허가사항 확인</td></tr><tr><td><strong>지질 함유·</strong><br><strong>증발 억제</strong></td><td>propylene glycol+mineral oil+phospholipid 제제 <mark style="color:blue;">[시스탄 밸런스]</mark></td><td>증발과다형 안구건조증·MGD에서 고려. 제품에 따라 방부제 함유; 허가사항 확인</td></tr><tr><td><strong>뮤신·수분</strong> <br><strong>분비촉진제</strong></td><td>rebamipide <mark style="color:blue;">[레바아이]</mark>, <mark style="color:blue;">[레바케이]</mark> qid.<br>diquafosol 3% <mark style="color:blue;">[디쿠아스]</mark>, <mark style="color:blue;">[디쿠아스-에스]</mark>, <mark style="color:blue;">[디쿠아이]</mark> 1일 6회.<br>diquafosol LX 3% <mark style="color:blue;">[디쿠아스 LX]</mark> tid.</td><td>rebamipide 현탁액은 충분히 흔들어 사용. LX는 같은 3% 농도로 점안 횟수를 tid로 줄인 제형</td></tr><tr><td><strong>국소 면역</strong><br><strong>조절제</strong></td><td>cyclosporine 0.05% <mark style="color:blue;">[레스타시스]</mark> bid.<br>cyclosporine 0.1% <mark style="color:blue;">[아이커비스]</mark> : 성인 안구건조증 관련 중증 각막염은 qd 취침 전; 만 4세~18세 중증 봄철 각결막염은 질환이 있는 눈에 qid.</td><td>효과 발현에 수 주 이상 걸릴 수 있음. <mark style="color:blue;">[아이커비스]</mark>는 성인에서 인공눈물로 개선되지 않는 안구건조증 관련 중증 각막염과 만 4세~18세의 중증 봄철 각결막염에 허가됨. 적응증별 연령·용법을 구분하고 안과 진단 후 사용 (☞ <a href="https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701&#x26;sno=1&#x26;mtgMtrRegSno=0009">급여기준</a>)</td></tr></tbody></table>
+<table><thead><tr><th width="115">분류</th><th>성분·대표 제품</th><th>특징과 사용</th></tr></thead><tbody><tr><td><strong>수분 보유·</strong><br><strong>점탄성</strong></td><td>sodium hyaluronate<br><mark style="color:blue;">[라큐아]</mark>, <mark style="color:blue;">[히아레인 미니]</mark></td><td>농도·방부제 유무에 따라 용법이 다르므로 제품별 허가사항 확인</td></tr><tr><td><strong>점성 유지</strong></td><td>carboxymethylcellulose <mark style="color:blue;">[리프레쉬 티어즈]</mark>, <mark style="color:blue;">[리프레쉬 플러스]</mark><br>hypromellose <mark style="color:blue;">[아티어]</mark><br>povidone <mark style="color:blue;">[옵타젠트]</mark>, <mark style="color:blue;">[티어드롭]</mark></td><td>povidone은 누액대용 성분(povidone-iodine 소독제와 다름). 제품별 허가사항 확인</td></tr><tr><td><strong>겔·연고</strong></td><td>carbomer gel <mark style="color:blue;">[리포직]</mark><br>white petrolatum·mineral oil·lanolin 기반 연고 <mark style="color:blue;">[듀라티얼즈 안연고]</mark></td><td>작용시간이 길지만 일시적 시야 흐림 가능. 연고는 주로 취침 전 사용하며 제품별 허가사항 확인</td></tr><tr><td><strong>지질 함유·</strong><br><strong>증발 억제</strong></td><td>propylene glycol+mineral oil+phospholipid 제제 <mark style="color:blue;">[시스탄 밸런스]</mark></td><td>증발과다형 안구건조증·MGD에서 고려. 제품에 따라 방부제 함유; 허가사항 확인</td></tr><tr><td><strong>뮤신·수분</strong><br><strong>분비촉진제</strong></td><td>rebamipide <mark style="color:blue;">[레바아이]</mark>, <mark style="color:blue;">[레바케이]</mark> qid.<br>diquafosol 3% <mark style="color:blue;">[디쿠아스]</mark>, <mark style="color:blue;">[디쿠아스-에스]</mark>, <mark style="color:blue;">[디쿠아이]</mark> 1일 6회.<br>diquafosol LX 3% <mark style="color:blue;">[디쿠아스 LX]</mark> tid.</td><td>rebamipide 현탁액은 충분히 흔들어 사용. LX는 같은 3% 농도로 점안 횟수를 tid로 줄인 제형</td></tr><tr><td><strong>국소 면역</strong><br><strong>조절제</strong></td><td>cyclosporine 0.05% <mark style="color:blue;">[레스타시스]</mark> bid.<br>cyclosporine 0.1% <mark style="color:blue;">[아이커비스]</mark> : 성인 안구건조증 관련 중증 각막염은 qd 취침 전; 만 4세~18세 중증 봄철 각결막염은 질환이 있는 눈에 qid.</td><td>효과 발현에 수 주 이상 걸릴 수 있음. <mark style="color:blue;">[아이커비스]</mark>는 성인에서 인공눈물로 개선되지 않는 안구건조증 관련 중증 각막염과 만 4세~18세의 중증 봄철 각결막염에 허가됨. 적응증별 연령·용법을 구분하고 안과 진단 후 사용 (☞ <a href="https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701&#x26;sno=1&#x26;mtgMtrRegSno=0009">급여기준</a>)</td></tr></tbody></table>
 
 {% hint style="info" %}
 <mark style="color:blue;">\[레스타시스]</mark>는 유탁액(emulsion)으로, 단회용 용기를 균일한 백색 불투명 유탁액이 되도록 몇 차례 뒤집은 뒤 1방울을 점안하고 남은 액은 버림.
@@ -101,7 +101,7 @@
 * 항히스타민/비만세포 안정 복합기전 점안제가 일반적인 1차 약제임
 * 통증·눈부심·시력 변화 또는 각막 병변이 있으면 단순 알레르기 결막염으로 치료하지 않음
 
-<table><thead><tr><th width="142">분류</th><th>성분 [상품명]·대표 용법</th><th>주의사항</th></tr></thead><tbody><tr><td><strong>항히스타민</strong><br><strong>+비만세포 안정</strong></td><td>olopatadine 0.1% <mark style="color:blue;">[파타놀]</mark> bid.<br>olopatadine 0.2% <mark style="color:blue;">[파타놀-S]</mark> qd.<br>ketotifen <mark style="color:blue;">[자디텐]</mark> bid.<br>alcaftadine 0.25% <mark style="color:blue;">[라스타카프트]</mark> qd.<br>epinastine 0.05% <mark style="color:blue;">[릴레스타트]</mark> bid.</td><td>농도·제형에 따라 다를 수 있으므로 제품별 허가 연령·용법·콘택트렌즈 재착용 시간을 확인</td></tr><tr><td><strong>비만세포 안정제</strong></td><td>sodium cromoglycate, lodoxamide 등</td><td>예방적·지속적 사용에 적합하나 제품별 허가사항과 국내 유통 여부 확인</td></tr><tr><td><strong>혈관수축제</strong></td><td>naphazoline, tetrahydrozoline 함유 복합제</td><td>충혈만 일시적으로 줄임. 제품별 허가사항을 확인하고 3~5일 이내로 제한; 반동충혈·좁은 전방각(폐쇄각녹내장 위험)·소아 오음독에 주의</td></tr><tr><td><strong>중증 알레르기성</strong> <br><strong>각결막염</strong></td><td>국소 corticosteroid, cyclosporine, tacrolimus</td><td>각막 침범 여부를 확인하고 안과에서 치료. tacrolimus 점안은 조제·허가 외 사용 여부 확인</td></tr></tbody></table>
+<table><thead><tr><th width="142">분류</th><th>성분 [상품명]·대표 용법</th><th>주의사항</th></tr></thead><tbody><tr><td><strong>항히스타민</strong><br><strong>+비만세포 안정</strong></td><td>olopatadine 0.1% <mark style="color:blue;">[파타놀]</mark> bid.<br>olopatadine 0.2% <mark style="color:blue;">[파타놀-S]</mark> qd.<br>ketotifen <mark style="color:blue;">[자디텐]</mark> bid.<br>alcaftadine 0.25% <mark style="color:blue;">[라스타카프트]</mark> qd.<br>epinastine 0.05% <mark style="color:blue;">[릴레스타트]</mark> bid.</td><td>농도·제형에 따라 다를 수 있으므로 제품별 허가 연령·용법·콘택트렌즈 재착용 시간을 확인</td></tr><tr><td><strong>비만세포 안정제</strong></td><td>sodium cromoglycate, lodoxamide 등</td><td>예방적·지속적 사용에 적합하나 제품별 허가사항과 국내 유통 여부 확인</td></tr><tr><td><strong>혈관수축제</strong></td><td>naphazoline, tetrahydrozoline 함유 복합제</td><td>충혈만 일시적으로 줄임. 제품별 허가사항을 확인하고 3~5일 이내로 제한; 반동충혈·좁은 전방각(폐쇄각녹내장 위험)·소아 오음독에 주의</td></tr><tr><td><strong>중증 알레르기성</strong><br><strong>각결막염</strong></td><td>국소 corticosteroid, cyclosporine, tacrolimus</td><td>각막 침범 여부를 확인하고 안과에서 치료. tacrolimus 점안은 조제·허가 외 사용 여부 확인</td></tr></tbody></table>
 
 ## <mark style="color:green;">국소 NSAID</mark>
 
@@ -148,7 +148,11 @@
   * 녹내장 과거력·가족력, 고도근시, 당뇨병, 소아는 안압 상승 위험에 특히 주의
 * loteprednol과 fluorometholone도 dexamethasone, prednisolone acetate보다 안압 상승 위험이 상대적으로 낮을 뿐 위험이 없는 것은 아님
 
-<table><thead><tr><th width="245">분류·대표 성분</th><th>안전한 사용 원칙</th></tr></thead><tbody><tr><td>fluorometholone 0.1% <mark style="color:blue;">\[오큐메토론]</mark><br>loteprednol etabonate <mark style="color:blue;">\[로테프로]</mark></td><td>알레르기성 각결막염, 안구건조증 관련 염증, 안검염 등에서 안과 진단 후 제한적으로 사용</td></tr><tr><td>prednisolone acetate 1% <mark style="color:blue;">\[프레드포르테]</mark><br>dexamethasone 0.1% <mark style="color:blue;">\[맥시덱스]</mark></td><td>강한 항염 효과가 필요한 전안부 염증에 사용. 안압·감염 모니터링 필수</td></tr><tr><td>tobramycin/dexamethasone <mark style="color:blue;">\[토브라덱스]</mark><br>polymyxin-B/neomycin/dexamethasone <mark style="color:blue;">\[포러스]</mark></td><td>감염 위험이 있는 corticosteroid 반응성 염증에서 전문의 판단으로 사용. 단순 결막염의 1차 약제로 쓰지 않음</td></tr></tbody></table>
+| 분류·대표 성분                                                                                                                                              | 안전한 사용 원칙                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <p>fluorometholone 0.1% <mark style="color:blue;">[오큐메토론]</mark><br>loteprednol etabonate <mark style="color:blue;">[로테프로]</mark></p>                 | 알레르기성 각결막염, 안구건조증 관련 염증, 안검염 등에서 안과 진단 후 제한적으로 사용                   |
+| <p>prednisolone acetate 1% <mark style="color:blue;">[프레드포르테]</mark><br>dexamethasone 0.1% <mark style="color:blue;">[맥시덱스]</mark></p>                | 강한 항염 효과가 필요한 전안부 염증에 사용. 안압·감염 모니터링 필수                             |
+| <p>tobramycin/dexamethasone <mark style="color:blue;">[토브라덱스]</mark><br>polymyxin-B/neomycin/dexamethasone <mark style="color:blue;">[포러스]</mark></p> | 감염 위험이 있는 corticosteroid 반응성 염증에서 전문의 판단으로 사용. 단순 결막염의 1차 약제로 쓰지 않음 |
 
 ## <mark style="color:green;">항바이러스 안과 약제</mark>
 
@@ -182,8 +186,8 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 * azithromycin은 QT 연장 위험이 있으므로 고령자, 심질환자, QT 연장 약물 병용 시 주의
 
 {% hint style="warning" %}
-장기·비응급 안과 질환 치료에서는 임신 중 doxycycline을 피하고, 8세 이하 소아에서는 대체약을 우선. \
-수유 중 단기간 투여를 일률적인 절대 금기로 보지는 않지만, 장기 투여는 예상 이득과 노출 위험을 개별 평가. \
+장기·비응급 안과 질환 치료에서는 임신 중 doxycycline을 피하고, 8세 이하 소아에서는 대체약을 우선.\
+수유 중 단기간 투여를 일률적인 절대 금기로 보지는 않지만, 장기 투여는 예상 이득과 노출 위험을 개별 평가.\
 충분한 물과 함께 복용하고 30분 이상 눕지 않도록 하며 광과민·식도염을 설명.
 {% endhint %}
 
@@ -221,12 +225,12 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 
 * 안구건조증·MGD 치료 목적으로 오메가-3 보충제를 일률적으로 권고할 근거는 일관되지 않음
 * DREAM 연구 \[NEJM 2018]와 국내 다기관 무작위시험 \[JAMA Ophthalmol 2024]에서 오메가-3는 대조군보다 증상 개선이 우월하지 않았음
-* <mark style="color:blue;">\[오마코]</mark>는 고중성지방혈증 등에 사용하는 전문의약품으로 **안구건조증 적응증이 없음**
+* <mark style="color:blue;">\[오마코]</mark>는 고중성지방혈증 등에 사용하는 전문의약품으로 안구건조증 적응증이 없음
 * vitamin A는 결핍이 확인되거나 강하게 의심되는 특수 상황 외에는 안구건조증의 일반적 보충요법으로 권고하지 않음
 
 ### <mark style="color:orange;">녹내장 점안제: 다른 진료과에서 알아둘 사항</mark>
 
-<table><thead><tr><th width="129">계열</th><th width="222">대표 성분</th><th>주요 전신·국소 주의사항</th></tr></thead><tbody><tr><td><strong>Prostaglandin analogue</strong></td><td>latanoprost, travoprost, tafluprost, bimatoprost</td><td>결막충혈, 홍채·눈꺼풀 색소 증가, 속눈썹 변화. Prostaglandin-associated periorbitopathy(PAP : 위눈꺼풀고랑 깊어짐, 눈꺼풀처짐, 눈주위 지방 위축·안구함몰 등)가 생길 수 있으며 단안 치료 시 비대칭 가능</td></tr><tr><td><strong>EP2 작용제</strong></td><td>omidenepag isopropyl 0.002% <mark style="color:blue;">\[에이베리스]</mark></td><td>결막충혈, 황반부종(특히 무수정체·인공수정체안), 각막 두께 증가. tafluprost와 병용하지 않음; 허가사항 확인</td></tr><tr><td><strong>β차단제</strong></td><td>timolol, carteolol<br>betaxolol (β1 선택적)</td><td>서맥, 방실차단, 저혈압, 기관지경련, 저혈당 증상 은폐. 천식·중증 COPD·서맥성 부정맥에서 주의하며 경구 β차단제와 중복 확인. betaxolol은 기관지 영향이 적으나 천식에서 여전히 주의</td></tr><tr><td><strong>α2 작용제</strong></td><td>brimonidine</td><td>피로·졸림·저혈압, 알레르기 결막염. 2세 미만 금기(중추신경 억제·무호흡), MAO 억제제 병용 금기</td></tr><tr><td><strong>탄산탈수효소억제제</strong></td><td>dorzolamide, brinzolamide<br>경구 acetazolamide</td><td>국소 자극·쓴맛. 경구제는 저칼륨혈증 등 전해질 이상, 대사성 산증, 이상감각, 신결석 및 신기능 저하에 주의; 설폰아마이드 과민 병력 확인</td></tr><tr><td><strong>Rho kinase 억제제</strong></td><td>netarsudil, ripasudil</td><td>결막충혈·각막 침착 등. 국내 허가·유통은 제품별 확인</td></tr></tbody></table>
+<table><thead><tr><th width="129">계열</th><th width="222">대표 성분</th><th>주요 전신·국소 주의사항</th></tr></thead><tbody><tr><td><strong>Prostaglandin analogue</strong></td><td>latanoprost, travoprost, tafluprost, bimatoprost</td><td>결막충혈, 홍채·눈꺼풀 색소 증가, 속눈썹 변화. Prostaglandin-associated periorbitopathy(PAP : 위눈꺼풀고랑 깊어짐, 눈꺼풀처짐, 눈주위 지방 위축·안구함몰 등)가 생길 수 있으며 단안 치료 시 비대칭 가능</td></tr><tr><td><strong>EP2 작용제</strong></td><td>omidenepag isopropyl 0.002% <mark style="color:blue;">[에이베리스]</mark></td><td>결막충혈, 황반부종(특히 무수정체·인공수정체안), 각막 두께 증가. tafluprost와 병용하지 않음; 허가사항 확인</td></tr><tr><td><strong>β차단제</strong></td><td>timolol, carteolol<br>betaxolol (β1 선택적)</td><td>서맥, 방실차단, 저혈압, 기관지경련, 저혈당 증상 은폐. 천식·중증 COPD·서맥성 부정맥에서 주의하며 경구 β차단제와 중복 확인. betaxolol은 기관지 영향이 적으나 천식에서 여전히 주의</td></tr><tr><td><strong>α2 작용제</strong></td><td>brimonidine</td><td>피로·졸림·저혈압, 알레르기 결막염. 2세 미만 금기(중추신경 억제·무호흡), MAO 억제제 병용 금기</td></tr><tr><td><strong>탄산탈수효소억제제</strong></td><td>dorzolamide, brinzolamide<br>경구 acetazolamide</td><td>국소 자극·쓴맛. 경구제는 저칼륨혈증 등 전해질 이상, 대사성 산증, 이상감각, 신결석 및 신기능 저하에 주의; 설폰아마이드 과민 병력 확인</td></tr><tr><td><strong>Rho kinase 억제제</strong></td><td>netarsudil, ripasudil</td><td>결막충혈·각막 침착 등. 국내 허가·유통은 제품별 확인</td></tr></tbody></table>
 
 ## <mark style="color:green;">전신 약물의 안과 부작용</mark>
 
