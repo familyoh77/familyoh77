@@ -127,6 +127,23 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["눈 충혈"] --> B["화학물질 노출 또는 <br/>안구 개방손상 의심?"]
+    B -- "예" --> C["즉각 조치"]
+    B -- "아니요" --> D["최근 안과수술·주사 후 통증<br/>·시력 저하, 외상 후 팽팽한 <br/>안와, 안와봉와직염 소견, <br/>전방출혈·전방축농 또는 <br/>폐쇄각발작?"]
+    D -- "예" --> C
+    D -- "아니요" --> E["시력·색각 저하, 중등도 이상 <br/>통증·눈부심·각막 또는 동공 이상, 콘택트렌즈 위험 소견, <br/>대상포진 수포, 신생아 결막염 또는 잔류 각막 이물?"]
+    E -- "예" --> F["당일 안과 평가"]
+    E -- "아니요" --> G["결막염·안구건조증·안검염<br/>·상공막염·결막하출혈 <br/>감별 후 1차 치료"]
+    G --> H["호전 없음·재발·만성 일측성?"]
+    H -- "예" --> I["조기 평가 및 추적"]
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class B,D,E,H yellow
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style F fill:#fff3e0,stroke:#e65100
+    style I fill:#e1f5fe,stroke:#01579b
+    style G fill:#e8f5e9,stroke:#2e7d32
 ```
 
 <p align="center"><strong>눈 충혈 초기 분류 알고리듬</strong></p>
@@ -134,6 +151,21 @@
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Ann Eye Sci 2025; AAO Conjunctivitis PPP 2024·CDC 2024)</mark></em></p>
 
 ```mermaid
+flowchart TD
+    A["눈 충혈 + <br/>눈꺼풀·안와주위 부종"] --> T["외상·수술 후 급격한 안구돌출<br/>·팽팽한 안와·시력 저하 <br/>또는 RAPD?"]
+    T -- "예" --> OC["즉각 조치 - <br/>안와구획증후군 의심, <br/>즉시 안과·응급 감압 평가"]
+    T -- "아니요" --> B["안구돌출·안구운동 제한 또는 <br/>통증·복시·시력 저하·RAPD?"]
+    B -- "예" --> C["즉각 조치 - <br/>안와봉와직염 의심, <br/>영상검사·입원 치료 평가"]
+    B -- "아니요" --> D["일측성 압통·발열 <br/>또는 피부감염 소견?"]
+    D -- "예" --> E["당일~수일 내 평가 - <br/>안와격막앞봉와직염"]
+    D -- "아니요" --> F["알레르기·안검염·다래끼 감별, <br/>안와 징후 발생 시 재평가"]
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class T,B,D yellow
+    style OC fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style E fill:#fff3e0,stroke:#e65100
+    style F fill:#e8f5e9,stroke:#2e7d32
 ```
 
 <p align="center"><strong>부종을 동반한 눈 충혈의 감별 알고리듬</strong></p>
