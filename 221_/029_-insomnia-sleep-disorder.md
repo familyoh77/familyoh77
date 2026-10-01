@@ -2,9 +2,6 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 불면증의 핵심 병태생리 - 과각성 모델 (Hyperarousal model)
-  * 신경계 과각성(hyperarousal) : HPA axis 활성 증가, 교감신경 항진, 피질 각성 증가; 불면증의 핵심 기전
-  * Sleep effort paradox : 잠을 자려고 노력할수록 각성이 높아져 오히려 불면이 악화되는 역설적 현상; CBT-I의 핵심 치료 대상
 * 불면증과 정신 질환의 양방향 관계
   * 불면증은 우울증·불안 장애의 '증상'인 동시에, 그 자체로 우울증과 불안 장애를 악화시키는 '독립적 위험인자'임(양방향성, Bidirectional relationship)
   * 기저 정신 질환이 있는 환자에서 불면증을 별도로 평가·치료하는 것이 중요하며, 불면증 치료가 선행될 때 동반 정신 질환의 예후도 개선될 수 있음
@@ -49,6 +46,9 @@
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
 * 유발·지속·악화 요인을 함께 평가
+* 불면증의 핵심 병태생리 - 과각성 모델 (Hyperarousal model)
+  * 신경계 과각성(hyperarousal) : HPA axis 활성 증가, 교감신경 항진, 피질 각성 증가; 불면증의 핵심 기전
+  * Sleep effort paradox : 잠을 자려고 노력할수록 각성이 높아져 오히려 불면이 악화되는 역설적 현상; CBT-I의 핵심 치료 대상
 
 ### <mark style="color:orange;">Spielman의 3P 모델</mark>
 
