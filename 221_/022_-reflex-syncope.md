@@ -6,6 +6,9 @@
 * 반사성 실신 : 자율신경 반사에 의한 부적절한 혈관 확장(vasodepression) &/or 심한 서맥·무수축(cardioinhibition)으로 동맥압과 뇌 관류가 일시적으로 감소하여 발생하는 실신
 * 가장 흔한 형태는 혈관미주신경성 실신(vasovagal syncope, VVS)이며, 상황 실신과 목동맥굴증후군도 포함됨
 * 뇌전증 발작, 심인성 가성실신(psychogenic pseudosyncope), 저혈당, 중독, 두부 외상 및 심장성 실신 등 다른 일시적 의식 소실 원인과 감별해야 함
+
+## <mark style="color:green;">원인</mark>
+
 * 병태생리 : 다양한 구심성 자극과 중추 자율신경 조절 이상 → 교감신경성 혈관수축 소실 &/or 과도한 미주신경 활성 → 혈압 저하와 서맥·무수축 → 일시적 뇌 관류 저하
 
 ### <mark style="color:orange;">유발 요인 및 취약 조건</mark>
@@ -15,7 +18,7 @@
 * 피로, 금식, 음주
 * 기저 저혈압 상태, 임신
 
-### <mark style="color:orange;">종류</mark>
+## <mark style="color:green;">종류</mark>
 
 #### <mark style="color:$primary;">혈관미주신경성 실신 Vasovagal Syncope (VVS), Neurocardiogenic Syncope</mark>
 

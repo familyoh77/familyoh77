@@ -41,8 +41,7 @@
 
 * 편두통은 trigeminovascular system의 활성화와 CGRP 신호, 뇌간·시상·피질을 포함한 통증 조절 네트워크의 기능 이상이 관여하는 신경계 질환으로 이해됨
 * 조짐(aura)에는 cortical spreading depolarization이 중요한 기전으로 관여
-
-- [ ] 1차적인 혈관 문제는 원인으로 고려되지 않음
+* 1차적인 혈관 문제는 원인으로 고려되지 않음
 
 ### <mark style="color:orange;">위험인자</mark>
 
@@ -224,7 +223,7 @@ flowchart TD
 
 ***
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 유사한 양상으로 내원할 수 있는 질환, 특히 놓치면 위험한 이차성 두통과의 감별이 중요
 
@@ -393,7 +392,7 @@ flowchart TD
 * OnabotulinumtoxinA는 권장 용량으로 24주 후 효과 판정
 * 예방 치료가 효과적인 경우 최소 6개월 치료 후 감량·중단의 이득과 재발 위험을 환자와 논의 → 재발 시 증량 또는 재개
 
-- [ ] _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adults Practice Guideline Recommendations. AAN/AHS. 2026._
+_Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adults Practice Guideline Recommendations. AAN/AHS. 2026._
 
 ### <mark style="color:orange;">기존 경구 예방약</mark>
 
@@ -535,7 +534,7 @@ flowchart TD
 * Greater occipital nerve block : 원 지침에서는 적절한 경우 제공해야 하는(Level A) 권고이나, 숙련도와 진료 환경을 고려해 국내에서는 전문 치료로 구분 \[AHS ED 2025]
 * Dihydroergotamine IV : 난치성 경우 고려할 수 있으나 국내에서 일반적으로 처방 가능한 주사제가 없음; triptan 투여 후 24시간 이내 사용 금기
 
-- [ ] _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for adults in the emergency department. Headache. 2026._
+_Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for adults in the emergency department. Headache. 2026._
 
 ***
 
