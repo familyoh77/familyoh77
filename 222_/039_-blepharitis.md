@@ -2,7 +2,9 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 감염성·염증성·피부질환성 원인에 의해 발생하는 눈꺼풀 가장자리의 염증성 질환군; 급성으로 발생할 수도 있으나 만성·재발성 경과가 흔하며, 완치보다 지속적인 조절이 목표
+* 감염성·염증성·피부질환성 원인에 의해 발생하는 눈꺼풀 가장자리의 염증성 질환군
+* 급성으로 발생할 수도 있으나 만성·재발성 경과가 흔함
+* 완치보다 지속적인 조절이 목표
 * 흔히 양측성이지만 편측성도 가능하며, 한쪽에만 지속되거나 치료에 반응하지 않으면 종양 등 다른 질환을 배제
 * 전-안검염 : 눈꺼풀 피부, 속눈썹 base 및 모낭 이환; 종종 포도알균, 지루피부염(비듬) 관련
 * 후-안검염 : meibomian gland 이환; 전-안검염보다 흔함
@@ -41,16 +43,18 @@
 
 #### <mark style="color:$primary;">Meibomian gland dysfunction (MGD)</mark>
 
-* meibomian gland의 만성·미만성 이상으로, 흔히 말단 도관 폐쇄 또는 분비물의 질적·양적 변화가 나타남; 임상적으로 뚜렷한 염증이 필수조건은 아님
+* meibomian gland의 만성·미만성 이상 ([MGD 이미지](https://my.clevelandclinic.org/health/diseases/meibomian-gland-dysfunction))
+* 흔히 말단 도관 폐쇄 또는 분비물의 질적·양적 변화가 나타남. 단, 임상적으로 뚜렷한 염증이 필수조건은 아님
 * 관련 인자 : acne rosacea, acne vulgaris, 경구 retinoid 복용
 * 진단 소견 : 눈꺼풀 가장자리 혈관 확장, lid margin irregularity, meibomian gland 개구부 막힘, meibum 성상 및 압출성 변화
-  * **Meibum 성상(quality)** : 0 투명한 액상 → 1 혼탁한 액상 → 2 혼탁하고 과립이 섞인 액상 → 3 농축된 불투명·치약 양상
-  * **압출성(expressibility)** : 아래눈꺼풀 중앙부를 일정한 압력으로 눌러 분비 가능한 개구부의 수와 압출에 필요한 압력을 평가; 압출되지 않거나 강한 압력이 필요할수록 기능 저하가 심함
+  * Meibum 성상(quality) : 0 투명한 액상 → 1 혼탁한 액상 → 2 혼탁하고 과립이 섞인 액상 → 3 농축된 불투명·치약 양상
+  * 압출성(expressibility) : 아래눈꺼풀 중앙부를 일정한 압력으로 눌러 분비 가능한 개구부의 수와 압출에 필요한 압력을 평가
+    * 압출되지 않거나 강한 압력이 필요할수록 기능 저하가 심함
 * MGD는 증발성 안구건조증의 주요 원인 (☞ [안구건조증](042_-dry-eye.md))
 
 #### <mark style="color:$primary;">Parasitic blepharitis</mark>
 
-* _D. folliculorum_은 주로 속눈썹 모낭, _D. brevis_는 피지샘·meibomian gland와 관련
+* \_D. folliculorum\_은 주로 속눈썹 모낭, \_D. brevis\_는 피지샘·meibomian gland와 관련
 * 속눈썹 뿌리의 collarette(cylindrical dandruff)는 Demodex 안검염의 pathognomonic 임상 소견; 일반적인 scurf·crust와 구분
 * chronic blepharitis 환자에서 높은 빈도로 발견되며, 고령에서 유병률 증가
 
@@ -63,35 +67,35 @@
 
 <table><thead><tr><th width="136">특징</th><th width="192">Anterior Eyelid - Staphylococcal</th><th width="155">Anterior Eyelid - Seborrheic</th><th width="192">Posterior Eyelid - MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>엉킨, 단단한 비늘/잔여물</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔\~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증\~중등증 충혈</td><td>경증 충혈</td><td>경증\~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>tear film 불안정·dry eye 동반 가능</td><td>tear film 불안정·dry eye 동반 가능</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, (드물게) phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
 
- _MGD = meibomian gland dysfunction_\
- _Ref. AAO Blepharitis PPP 2023 (Ophthalmology 2024;131(4):P50-P86)의 유형별 특징 표를 바탕으로 재구성_
+_MGD = meibomian gland dysfunction_\
+_&#x52;ef. AAO Blepharitis PPP 2023 (Ophthalmology 2024;131(4):P50-P86)의 유형별 특징 표를 바탕으로 재구성_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 깜빡여도 회복되지 않는 시력 저하, 또는 심한 안구통·광과민 동반  `각막염` `각막궤양` `포도막염`
-* 흰 각막 침윤·혼탁, 또는 fluorescein 염색상 국소적·뚜렷한 상피 결손  `세균성 각막염` `각막궤양`
+* 깜빡여도 회복되지 않는 시력 저하, 또는 심한 안구통·광과민 동반 `각막염` `각막궤양` `포도막염`
+* 흰 각막 침윤·혼탁, 또는 fluorescein 염색상 국소적·뚜렷한 상피 결손 `세균성 각막염` `각막궤양`
 * 콘택트렌즈 착용자의 눈 통증·충혈·광과민 또는 시력 저하
-* 빠르게 진행하는 눈꺼풀 발적·부종과 함께 안구돌출, 안구운동 통증·제한, 복시 또는 시력 저하(발열 유무와 무관)  `안와봉와직염`
+* 빠르게 진행하는 눈꺼풀 발적·부종과 함께 안구돌출, 안구운동 통증·제한, 복시 또는 시력 저하(발열 유무와 무관) `안와봉와직염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 눈꺼풀·이마 피부 수포와 안구 충혈 동반(코끝 수포 포함) - 당일 평가  `대상포진 눈병증` `단순포진 안검결막염`
-* 빠르게 번지는 눈꺼풀 발적·부종·압통(안구운동·시력 정상) - 당일 평가  `안와격막전 봉와직염`
-* 소아에서 광과민·충혈·각막 이상이 동반된 안검염  `소아 안검각결막염`
+* 눈꺼풀·이마 피부 수포와 안구 충혈 동반(코끝 수포 포함) - 당일 평가 `대상포진 눈병증` `단순포진 안검결막염`
+* 빠르게 번지는 눈꺼풀 발적·부종·압통(안구운동·시력 정상) - 당일 평가 `안와격막전 봉와직염`
+* 소아에서 광과민·충혈·각막 이상이 동반된 안검염 `소아 안검각결막염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 편측·비대칭 병변의 궤양·출혈, 국소 속눈썹 탈락, 같은 부위 반복 산립종  `피지샘암` `기저세포암`
-* 2\~4주간 적절한 위생 관리에도 호전 없거나 반복 재발  `Demodex 안검염` `접촉피부염성 안검염`
-* 아침 자극·분비물 + 쉽게 뒤집히는 위눈꺼풀 + 코골이·주간졸림  `Floppy eyelid syndrome` `OSA`
+* 편측·비대칭 병변의 궤양·출혈, 국소 속눈썹 탈락, 같은 부위 반복 산립종 `피지샘암` `기저세포암`
+* 2\~4주간 적절한 위생 관리에도 호전 없거나 반복 재발 `Demodex 안검염` `접촉피부염성 안검염`
+* 아침 자극·분비물 + 쉽게 뒤집히는 위눈꺼풀 + 코골이·주간졸림 `Floppy eyelid syndrome` `OSA`
 
 ## <mark style="color:green;">진단</mark>
 
 * 병력, 증상/징후, 증상 기간, 동반 전신 질환
 * 다음 상황에서 증상 악화 : 흡연, 바람, 콘택트렌즈, 건조, 음주, 눈 화장
-* 일중 변동 : 아침에 증상이 심하면 안검염, 오후\~저녁에 악화되면 수성 눈물 결핍형 안구건조증을 시사 [AAO PPP 2023]
+* 일중 변동 : 아침에 증상이 심하면 안검염, 오후\~저녁에 악화되면 수성 눈물 결핍형 안구건조증을 시사 \[AAO PPP 2023]
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -187,9 +191,9 @@ graph TD
 * doxycycline <mark style="color:blue;">\[독시사이클린]</mark> : **국내 안검염/MGD 적응증 미승인(허가 외 사용)이며 용량·기간의 표준화가 부족함.** 흔히 50\~100 ㎎/d 범위에서 환자별로 선택하고 4\~6주 후 반응을 평가하여 감량·중단 여부 결정
   * 해외의 doxycycline 40 ㎎ modified-release 제형은 sub-antimicrobial dose이나, 50 ㎎ 일반제 또는 minocycline을 동일한 의미로 부르지 않음
 * minocycline <mark style="color:blue;">\[미노씬]</mark> : 대체제로 고려할 수 있으나 어지럼증·색소침착 및 드문 자가면역 이상에 유의
-* azithromycin <mark style="color:blue;">\[지스로맥스]</mark> : 1 g 주 1회 ×3주 요법이 중등도\~중증 MGD에서 doxycycline 200 ㎎/d ×6주와 동등한 효과를 보였고 위장관 부작용은 더 적었음(4.4% vs 15.9%) [JAMA Ophthalmol 2023]
+* azithromycin <mark style="color:blue;">\[지스로맥스]</mark> : 1 g 주 1회 ×3주 요법이 중등도\~중증 MGD에서 doxycycline 200 ㎎/d ×6주와 동등한 효과를 보였고 위장관 부작용은 더 적었음(4.4% vs 15.9%) \[JAMA Ophthalmol 2023]
   * 위약군이 없는 동등성 시험으로, 두 치료 모두 보존적 치료보다 우월한지는 확인되지 않음
-  * 심혈관 질환자에서 부정맥 위험이 있으므로 QT 연장·병용약물 확인 [AAO PPP 2023]
+  * 심혈관 질환자에서 부정맥 위험이 있으므로 QT 연장·병용약물 확인 \[AAO PPP 2023]
 * 경구 doxycycline·minocycline·azithromycin의 MGD/안검염 치료는 국내 허가 외 사용; 임신·수유, 간·신기능, 병용약물 및 tetracycline의 철분·칼슘·제산제 상호작용을 확인
 * 소아 : tetracycline 계열은 8세 미만 금기; 소아 안검각결막염에서 경구 항생제가 필요하면 안과 평가 후 erythromycin 또는 azithromycin 사용
 
@@ -218,8 +222,8 @@ graph TD
 
 ### <mark style="color:orange;">영양</mark>
 
-* 오메가-3 보충제는 일부 안구건조증/MGD 환자에서 표현형·식이·금기사항을 고려해 보조적으로 선택할 수 있으나, 일상적 권고를 뒷받침하는 근거는 부족함. DREAM Study[NEJM 2018] 및 국내 다기관 무작위시험(rTG형, 포도씨유 대조)[JAMA Ophthalmol 2024]에서 대조군 대비 유의한 증상 개선을 입증하지 못했으며, 최적 제형·용량·기간도 확립되지 않음
-  * 반면 백내장 수술 후 MGD 환자 대상 국내 다기관시험에서는 일부 눈물막·증상 지표가 개선되었고, MGD 4단계 하위군에서는 meibum 성상·압출성도 개선되어[J Ocul Pharmacol Ther 2025], 대상과 평가 지표에 따라 결과가 다름
+* 오메가-3 보충제는 일부 안구건조증/MGD 환자에서 표현형·식이·금기사항을 고려해 보조적으로 선택할 수 있으나, 일상적 권고를 뒷받침하는 근거는 부족함. DREAM Study\[NEJM 2018] 및 국내 다기관 무작위시험(rTG형, 포도씨유 대조)\[JAMA Ophthalmol 2024]에서 대조군 대비 유의한 증상 개선을 입증하지 못했으며, 최적 제형·용량·기간도 확립되지 않음
+  * 반면 백내장 수술 후 MGD 환자 대상 국내 다기관시험에서는 일부 눈물막·증상 지표가 개선되었고, MGD 4단계 하위군에서는 meibum 성상·압출성도 개선되어\[J Ocul Pharmacol Ther 2025], 대상과 평가 지표에 따라 결과가 다름
 * 생선·견과류 등 식품을 통한 섭취를 우선하며, 처방용 omega-3 제제 <mark style="color:blue;">\[오마코]</mark>는 국내 안검염/MGD 적응증이 없음
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
@@ -228,7 +232,7 @@ graph TD
 * Thermal pulsation(예: LipiFlow 등 기기) : meibomian gland 가온·압출을 통한 개방; 국내 도입 시설 제한적, 비급여
 * Meibomian gland probing : 폐쇄가 뚜렷한 경우 탐침을 이용한 물리적 개통; 안과 전문의 시행
 * BlephEx 등 기계적 눈꺼풀 가장자리 디브리망 : 딱지·biofilm 제거 목적의 전문 시술; 근거 수준은 아직 제한적
-* MGD에서는 온찜질, 눈꺼풀 위생, 항염증 치료와 IPL·thermal treatment 등 다양한 치료를 환자 표현형에 맞추어 선택 [TFOS DEWS III 2025]
+* MGD에서는 온찜질, 눈꺼풀 위생, 항염증 치료와 IPL·thermal treatment 등 다양한 치료를 환자 표현형에 맞추어 선택 \[TFOS DEWS III 2025]
 * 전문 시술은 직접 비교 및 장기 효과 근거가 제한적이며, 대부분 안과 전문의 의뢰 후 시행; 1차 진료에서는 시술 적응증 해당 여부 판단 및 의뢰가 핵심 역할
 
 ***
