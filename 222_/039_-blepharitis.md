@@ -118,6 +118,31 @@
 ***
 
 ```mermaid
+graph TD
+    Start(["눈꺼풀 가장자리 증상 <br>(작열감·딱지·충혈)"]) --> RF["Red Flags의 즉각 조치 <br>또는 당일~수일 내 평가 <br>항목에 해당?"]
+    RF -- 예 --> Refer["Red Flags 항목별 시점에 따라<br>즉시·당일·수일 내 평가 및 <br>필요 시 안과 의뢰"]
+    RF -- 아니오 --> Uni["편측·국소 지속, 궤양·출혈,<br>국소 속눈썹 탈락?"]
+    Uni -- 예 --> Tumor["종양성 병변 배제: <br>조기 안과 의뢰"]
+    Uni -- 아니오 --> Type["주된 소견은?"]
+    Type -- "단단한 딱지·궤양" --> Staph["포도알균성: <br>세척 ± 국소 항생제"]
+    Type -- "기름진 인설" --> Seb["지루성: <br>세척 + 피부질환 관리"]
+    Type -- "가려움·노출력" --> Contact["접촉피부염: <br>원인 회피"]
+    Type -- "마이봄샘 이상" --> MGD["MGD: <br>온찜질·마사지<br>·건성안 치료"]
+    Type -- Collarette --> Demo["Demodex: <br>안과 의뢰"]
+    Staph --> Follow["2~4주 후 반응 충분?"]
+    Seb --> Follow
+    Contact --> Follow
+    MGD --> Follow
+    Demo --> Follow
+    Follow -- 예 --> Maint["원인별 유지 관리"]
+    Follow -- 아니오 --> Re["진단 재평가 · 안과 의뢰"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style RF fill:#fff9c4,stroke:#ffe082
+    style Uni fill:#fff9c4,stroke:#ffe082
+    style Type fill:#fff9c4,stroke:#ffe082
+    style Follow fill:#fff9c4,stroke:#ffe082
+    style Re fill:#f3e5f5,stroke:#4a148c
+
 ```
 
 <p align="center"><strong>안검염 진단 및 치료 알고리듬</strong></p>
