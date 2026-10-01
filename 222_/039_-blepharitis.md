@@ -10,8 +10,6 @@
 
 ## <mark style="color:green;">원인</mark>
 
-#### <mark style="color:$primary;">기전</mark>
-
 * 정확한 기전은 불명; 복합적 요인
 * 안구건조증, meibomian gland 이상 및 눈꺼풀 미생물총 변화가 서로 영향을 미침
 * 감염 또는 세균 집락 증가
@@ -20,7 +18,6 @@
   * 바이러스 : 단순포진, 대상포진, 물사마귀, 인유두종
   * 기생충 : 사면발니, _Demodex folliculorum_, _D. brevis_
 * 연관 피부 질환 : 아토피피부염, 접촉피부염, 지루피부염, 건선, acne rosacea, ichthyosis, exfoliative dermatitis
-* 감별해야 할 눈꺼풀 병변 : actinic keratosis, 기저세포암, 편평세포암, 피지샘암, 흑색종 등
 * 콘택트렌즈, 눈 화장, 외상/독성, 약물(isotretinoin, 항히스타민제, 항콜린제), 흡연
 
 ## <mark style="color:green;">종류</mark>
@@ -99,9 +96,9 @@ _&#x52;ef. AAO Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4
 * 눈꺼풀 배양·scraping : 반복되는 중증 전-안검염, 비전형적 분비물, 면역저하 또는 통상 치료에 반응하지 않는 경우에 선택적으로 시행
 * 현저한 비대칭, 치료 저항성 또는 한 부위에 반복되는 산립종은 피지샘암 등 배제를 위해 안과 의뢰 및 생검 고려
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="160">질환</th><th width="220">주요 특징</th><th>감별 포인트</th></tr></thead><tbody><tr><td>안검염</td><td>양측성, 만성 경과, 가려움·작열감</td><td>눈꺼풀 가장자리 비늘·딱지; 아침 악화</td></tr><tr><td>결막염</td><td>안구 충혈, 눈곱(분비물)</td><td>눈꺼풀보다 결막 자체의 증상이 주; 분비물 성상으로 원인 감별 (☞ <a href="038_-conjunctivitis.md">결막염</a>)</td></tr><tr><td>Hordeolum (다래끼)</td><td>급성, 눈꺼풀 국소 발적·압통</td><td>압통이 있는 종창; 보통 편측·단발</td></tr><tr><td>Chalazion (산립종)</td><td>만성, 무통성 눈꺼풀 종창</td><td>압통 없는 단단한 결절; MGD 반복 시 동반</td></tr><tr><td>Floppy eyelid syndrome</td><td>쉽게 외번되는 이완된 위눈꺼풀, 아침에 심한 자극·분비물</td><td>비만·옆으로 자는 습관과 연관; 코골이·목격된 무호흡·주간졸림이 있으면 OSA 평가</td></tr><tr><td>피지샘암 (Sebaceous Ca)</td><td>편측성, 반복 재발하는 산립종·안검염 양상</td><td><strong>🚩 Red Flag</strong>: 고령자에서 같은 부위에 반복, 국소 속눈썹 탈락·결막 병변 동반 → 조기 안과 의뢰 및 생검 고려</td></tr></tbody></table>
+<table><thead><tr><th width="160">질환</th><th width="220">주요 특징</th><th>감별 포인트</th></tr></thead><tbody><tr><td>안검염</td><td>양측성, 만성 경과, 가려움·작열감</td><td>눈꺼풀 가장자리 비늘·딱지; 아침 악화</td></tr><tr><td>결막염</td><td>안구 충혈, 눈곱(분비물)</td><td>눈꺼풀보다 결막 자체의 증상이 주; 분비물 성상으로 원인 감별 (☞ <a href="038_-conjunctivitis.md">결막염</a>)</td></tr><tr><td>Hordeolum (다래끼)</td><td>급성, 눈꺼풀 국소 발적·압통</td><td>압통이 있는 종창; 보통 편측·단발</td></tr><tr><td>Chalazion (산립종)</td><td>만성, 무통성 눈꺼풀 종창</td><td>압통 없는 단단한 결절; MGD 반복 시 동반</td></tr><tr><td>Floppy eyelid syndrome</td><td>쉽게 외번되는 이완된 위눈꺼풀, 아침에 심한 자극·분비물</td><td>비만·옆으로 자는 습관과 연관; 코골이·목격된 무호흡·주간졸림이 있으면 OSA 평가</td></tr><tr><td>피지샘암 (Sebaceous Ca)</td><td>편측성, 반복 재발하는 산립종·안검염 양상</td><td><strong>🚩 Red Flag</strong>: 고령자에서 같은 부위에 반복, 국소 속눈썹 탈락·결막 병변 동반 → 조기 안과 의뢰 및 생검 고려</td></tr><tr><td>기타 눈꺼풀 종양</td><td>actinic keratosis, 기저세포암, 편평세포암, 흑색종 등</td><td>편측·국소적으로 지속되는 병변, 궤양·출혈·색소 변화, 국소 속눈썹 탈락, 통상 치료에 반응 없음 → 조기 안과 의뢰 및 생검 고려</td></tr></tbody></table>
 
 ### <mark style="color:orange;">Quick Decision Tips</mark>
 
