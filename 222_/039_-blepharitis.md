@@ -2,7 +2,8 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 감염성·염증성·피부질환성 원인에 의해 발생하는 눈꺼풀 가장자리의 염증성 질환군; 급성으로 발생할 수도 있으나 만성·재발성 경과가 흔함
+* 감염성·염증성·피부질환성 원인에 의해 발생하는 눈꺼풀 가장자리의 염증성 질환군
+* 급성으로 발생할 수도 있으나 만성·재발성 경과가 흔함
 * 흔히 양측성이지만 편측성도 가능하며, 한쪽에만 지속되거나 치료에 반응하지 않으면 종양 등 다른 질환을 배제
 * 전-안검염 : 눈꺼풀 피부, 속눈썹 base 및 모낭 이환; 종종 포도알균, 지루피부염(비듬) 관련
 * 후-안검염 : meibomian gland 이환; 전-안검염보다 흔함
@@ -51,7 +52,7 @@
 
 #### <mark style="color:$primary;">Parasitic blepharitis</mark>
 
-* _D. folliculorum_은 주로 속눈썹 모낭, _D. brevis_는 피지샘·meibomian gland와 관련
+* \_D. folliculorum\_은 주로 속눈썹 모낭, \_D. brevis\_는 피지샘·meibomian gland와 관련
 * 속눈썹 뿌리의 collarette(cylindrical dandruff)는 Demodex 안검염의 특징적인 pathognomonic 임상 소견; 일반적인 scurf·crust와 구분
 * chronic blepharitis 환자에서 높은 빈도로 발견되며, 고령에서 유병률 증가
 
@@ -63,8 +64,8 @@
 
 <table><thead><tr><th width="136">특징</th><th width="192">Anterior Eyelid – Staphylococcal</th><th width="155">Anterior Eyelid – Seborrheic</th><th width="192">Posterior Eyelid – MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>엉킨, 단단한 비늘/잔여물</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔\~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증\~중등증 충혈</td><td>경증 충혈</td><td>경증\~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>tear film 불안정·dry eye 동반 가능</td><td>tear film 불안정·dry eye 동반 가능</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, (드물게) phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
 
- _MGD = meibomian gland dysfunction_\
- _Ref. AAO Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86 (2018년판 Table 2 기반 구성; 최신판 대조 확인 권장)._
+_MGD = meibomian gland dysfunction_\
+_&#x52;ef. AAO Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86 (2018년판 Table 2 기반 구성; 최신판 대조 확인 권장)._
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -183,7 +184,7 @@ graph TD
 * 대상 : 위생 관리와 원인별 치료에도 호전되지 않는 중증 염증 또는 동반 안구 표면 염증; 안과 평가 후 사용
 * steroid : loteprednol <mark style="color:blue;">\[로테프로]</mark>, fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>, rimexolone <mark style="color:blue;">\[벡솔]</mark>; HSV·진균·세균성 각막염 등을 배제하고 최저 유효역가·최단기간 사용 (☞ [안과계 약제](ophthalmic-medications.md))
   * 1\~2주 이상 사용하거나 반복 처방할 때에는 안압, 수정체 및 각막 상태 재평가
-* calcineurin inhibitor : cyclosporine <mark style="color:blue;">\[레스타시스]</mark>; 동반 건성각결막염·안구 표면 염증에서 고려하며, 안검염/MGD 자체에 대한 국내 적응증은 아님. 국내 급여는 건성각결막염 관련 기준에 따르므로 최신 [건강보험심사평가원 약제 급여기준](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12124&brdScnBltNo=4&pgmid=HIRAA020002000100)을 확인
+* calcineurin inhibitor : cyclosporine <mark style="color:blue;">\[레스타시스]</mark>; 동반 건성각결막염·안구 표면 염증에서 고려하며, 안검염/MGD 자체에 대한 국내 적응증은 아님. 국내 급여는 건성각결막염 관련 기준에 따르므로 최신 [건강보험심사평가원 약제 급여기준](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12124\&brdScnBltNo=4\&pgmid=HIRAA020002000100)을 확인
 * 항생제/steroid 복합제는 감염과 염증을 함께 치료할 필요가 있는 선별 환자에게 단기간 사용
 
 ### <mark style="color:orange;">인공 눈물</mark>
