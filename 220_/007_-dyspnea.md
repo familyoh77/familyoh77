@@ -179,7 +179,7 @@
 * 폐동맥고혈압 의심 시 : 심장 초음파 후 순환기/호흡기 전문기관 정밀 평가
 * CT, cardiac stress tests : 임상적 판단에 따라 선택
 
-### <mark style="color:orange;">심장성 vs 폐성 vs 불안/과호흡 감별 진단</mark>
+### <mark style="color:orange;">심장성 vs 폐성 vs 불안/과호흡 감별</mark>
 
 <table data-search="false"><thead><tr><th width="110">구분</th><th width="185">심장성 (Cardiac)</th><th width="185">폐성 (Pulmonary)</th><th>불안 / 과호흡 (Anxiety)</th></tr></thead><tbody><tr><td>주요 원인</td><td>심부전, ACS, 판막 질환</td><td>천식, COPD, 폐렴, 기흉</td><td>불안 장애, 공황 장애</td></tr><tr><td>발생 양상</td><td>점진적 또는 급성 (HF/ACS)</td><td>급성 또는 아급성</td><td>갑작스런 발작형; 스트레스·상황 유발</td></tr><tr><td>자세 영향</td><td>누우면 악화 (orthopnea, PND)</td><td>자세보다 유발 인자(먼지·연기) 영향</td><td>자세 무관</td></tr><tr><td>호흡 양상</td><td>얕고 빠름</td><td>wheeze / 기침 동반</td><td>깊고 빠름 (과호흡)</td></tr><tr><td>청진</td><td>crackle (폐울혈), S3</td><td>wheeze, crackle, 호흡음 감소</td><td>정상</td></tr><tr><td>흉통</td><td>압박감 (ACS)</td><td>흉막염성 통증</td><td>비특이적, 찌르는 느낌</td></tr><tr><td>동반 증상</td><td>leg edema, JVD, 핑크 거품 가래</td><td>기침, 화농성 가래, 발열</td><td>어지럼, 손발·입술 저림, 공포감</td></tr><tr><td>SpO₂</td><td>저하 가능</td><td>저하 가능</td><td>정상</td></tr><tr><td>CXR</td><td>심비대, 폐부종, Kerley B-line</td><td>침윤, 과팽창, 기흉</td><td>정상</td></tr><tr><td>BNP</td><td>상승</td><td>정상</td><td>정상</td></tr><tr><td>치료 반응</td><td>이뇨제로 호전</td><td>기관지 확장제·항생제 반응</td><td>안심·호흡 조절로 호전</td></tr></tbody></table>
 
