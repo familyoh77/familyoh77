@@ -1,4 +1,4 @@
-# 결막하출혈 Subconjunctival Hemorrhage (SCH)
+# 결막하출혈 Subconjunctival Hemorrhage
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -17,7 +17,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 명확한 경계를 가진 국소의 평평한 붉은 반점; 하부의 공막이 보이지 않음
+* 명확한 경계를 가진 국소의 평평한 붉은 반점; 하부의 공막이 보이지 않음 ([결막하출혈 이미지](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/subconjunctival-hemorrhage))
 * 진단적 음성 지표 : 뚜렷한 통증 없음, 눈부심(photophobia) 없음, 시력 저하 없음, 분비물 없음, 동공 이상 없음 → 이 중 뚜렷한 이상이 하나라도 있으면 다른 질환 적극 감별 (단, 경미한 이물감·자극감은 SCH에서도 가능)
 * 출혈은 처음 수일간 범위가 넓어지거나 색이 짙어질 수 있음 → 정상 경과이므로 미리 설명
 * 이후 선명한 빨간색 → 짙은 빨간색 → 황록색으로 변하며 흡수됨 (헤모글로빈이 빌리베르딘·빌리루빈으로 대사되는 과정)

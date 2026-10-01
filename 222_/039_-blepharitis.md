@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 감염성·염증성·피부질환성 원인에 의해 발생하는 눈꺼풀 가장자리의 염증성 질환군
+* 감염성·염증성·피부질환성 원인에 의해 발생하는 눈꺼풀 가장자리의 염증성 질환군 ([안검염 이미지](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/blepharitis))
 * 급성으로 발생할 수도 있으나 만성·재발성 경과가 흔함
 * 흔히 양측성이지만 편측성도 가능하며, 한쪽에만 지속되거나 치료에 반응하지 않으면 종양 등 다른 질환을 배제
 * 전-안검염 : 눈꺼풀 피부, 속눈썹 base 및 모낭 이환; 종종 포도알균, 지루피부염(비듬) 관련
@@ -40,16 +40,18 @@
 
 #### <mark style="color:$primary;">Meibomian gland dysfunction (MGD)</mark>
 
-* meibomian gland의 만성·미만성 이상으로, 흔히 말단 도관 폐쇄 또는 분비물의 질적·양적 변화가 나타남; 임상적으로 뚜렷한 염증이 필수조건은 아님
+* meibomian gland의 만성·미만성 이상 ([MGD 이미지](https://my.clevelandclinic.org/health/diseases/meibomian-gland-dysfunction))
+* 흔히 말단 도관 폐쇄 또는 분비물의 질적·양적 변화가 나타남. 단, 임상적으로 뚜렷한 염증이 필수 조건은 아님&#x20;
 * 관련 인자 : acne rosacea, acne vulgaris, 경구 retinoid 복용
 * 진단 소견 : 눈꺼풀 가장자리 혈관 확장, lid margin irregularity, meibomian gland 개구부 막힘, meibum 성상 및 압출성 변화
-  * **Meibum 성상(quality)** : 0 투명한 액상 → 1 혼탁한 액상 → 2 혼탁하고 과립이 섞인 액상 → 3 농축된 불투명·치약 양상
-  * **압출성(expressibility)** : 아래눈꺼풀 중앙부를 일정한 압력으로 눌러 분비 가능한 개구부의 수와 압출에 필요한 압력을 평가; 압출되지 않거나 강한 압력이 필요할수록 기능 저하가 심함
-* MGD는 증발성 안구건조증의 주요 원인
+  * Meibum 성상(quality) : 0 투명한 액상 → 1 혼탁한 액상 → 2 혼탁하고 과립이 섞인 액상 → 3 농축된 불투명·치약 양상
+  * 압출성(expressibility) : 아래눈꺼풀 중앙부를 일정한 압력으로 눌러 분비 가능한 개구부의 수와 압출에 필요한 압력을 평가
+    * 압출되지 않거나 강한 압력이 필요할수록 기능 저하가 심함
+* MGD는 증발성 안구건조증의 주요 원인임
 
 #### <mark style="color:$primary;">Parasitic blepharitis</mark>
 
-* \_D. folliculorum\_은 주로 속눈썹 모낭, \_D. brevis\_는 피지샘·meibomian gland와 관련
+* _D. folliculoru&#x6D;_&#xC740; 주로 속눈썹 모낭, _D. brevi&#x73;_&#xB294; 피지샘·meibomian gland와 관련
 * 속눈썹 뿌리의 collarette(cylindrical dandruff)는 Demodex 안검염의 특징적인 pathognomonic 임상 소견; 일반적인 scurf·crust와 구분
 * chronic blepharitis 환자에서 높은 빈도로 발견되며, 고령에서 유병률 증가
 
@@ -59,26 +61,26 @@
 * 눈꺼풀 발적, 부기, 가려움, 속눈썹 뿌리의 debris·scurf·crust 또는 collarette
 * 만성 경과에서 속눈썹 탈락(madarosis), 첩모난생(trichiasis), meibomian gland 개구부 폐쇄 및 meibum 농축·성상 변화
 
-<table><thead><tr><th width="136">특징</th><th width="192">Anterior Eyelid – Staphylococcal</th><th width="155">Anterior Eyelid – Seborrheic</th><th width="192">Posterior Eyelid – MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>엉킨, 단단한 비늘/잔여물</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔\~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증\~중등증 충혈</td><td>경증 충혈</td><td>경증\~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>tear film 불안정·dry eye 동반 가능</td><td>tear film 불안정·dry eye 동반 가능</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, (드물게) phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="145">특징</th><th>Anterior Eyelid – Staphylococcal</th><th>Anterior Eyelid – Seborrheic</th><th>Posterior Eyelid – MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>엉킨, 단단한 비늘/잔여물</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증~중등증 충혈</td><td>경증 충혈</td><td>경증~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>tear film 불안정·dry eye 동반 가능</td><td>tear film 불안정·dry eye 동반 가능</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, (드물게) phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
 
-_MGD = meibomian gland dysfunction_\
-_&#x52;ef. AAO Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86 (2018년판 Table 2 기반 구성; 최신판 대조 확인 권장)._
+> _MGD = meibomian gland dysfunction_\
+> _&#x52;ef. AAO Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 안구의 심한 충혈, 통증, 광과민 또는 각막 혼탁·궤양 의심 (→ 각막염·각막궤양·공막염 등 감별)
+* 안구의 심한 충혈, 통증, 광과민 또는 각막 혼탁·궤양 의심  `각막염` `각막궤양` `공막염`&#x20;
 * 시력 저하 또는 급격한 시야 변화
-* 발열과 함께 안구돌출, 안구운동 통증·제한, 복시 또는 시력 저하 (→ 안와봉와직염 의심, 응급 평가)
+* 발열과 함께 안구돌출, 안구운동 통증·제한, 복시 또는 시력 저하  `안와봉와직염`&#x20;
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 눈꺼풀 병변이 궤양, 비대칭, 지속 출혈 → 악성 종양 배제 필요
-* 속눈썹 탈락(madarosis)이 국소적·비대칭으로 진행하거나 편측 산립종·안검염이 같은 부위에 반복 (→ 피지샘암 감별, 조기 안과 의뢰 및 생검 고려)
+* 눈꺼풀 병변이 궤양, 비대칭, 지속 출혈  `악성 종양`&#x20;
+* 속눈썹 탈락(madarosis)이 국소적·비대칭으로 진행하거나 편측 산립종·안검염이 같은 부위에 반복  `피지샘암`&#x20;
 * 단순포진·대상포진 피부 수포 동반 안구 충혈
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 2주간의 비-약물 치료로 해결되지 않는 증상
 * 치료에 반응하지 않거나 재발 반복

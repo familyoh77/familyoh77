@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 안구의 흰자위와 눈꺼풀 내측 표면을 덮고 있는 점막인 결막의 염증
+* 안구의 흰자위와 눈꺼풀 내측 표면을 덮고 있는 점막인 결막의 염증 ([결막염 이미지](https://my.clevelandclinic.org/health/diseases/pink-eye-conjunctivitis))
 * 분류
   * 감염성 : 바이러스(가장 흔함), 세균
   * 비감염성 : 알레르기, 비-알레르기(예: 건조, 바람, 연기, 외상)

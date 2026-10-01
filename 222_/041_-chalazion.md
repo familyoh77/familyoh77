@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 눈꺼풀 피지선(주로 meibomian gland, 드물게 Zeis gland)의 폐쇄로 생기는 비감염성 만성 육아종성 염증(lipogranuloma)
+* 눈꺼풀 피지선(주로 meibomian gland, 드물게 Zeis gland)의 폐쇄로 생기는 비감염성 만성 육아종성 염증(lipogranuloma) ([콩다래끼 이미지](https://my.clevelandclinic.org/health/diseases/17657-chalazion))
 * 다른 이름 : meibomian cyst, 산립종
 * 기전 : 주로 meibomian gland 폐쇄 → meibum/지질 성분의 정체 및 주변 조직으로의 유출 → 국소 lipogranulomatous inflammation(눈꺼풀 부종·홍반) → 섬유화; 수주\~수개월에 걸쳐 성장
   * hordeolum(다래끼)과 임상적으로 연속선상에 있는 경우가 있음 - 급성 감염성 병변(hordeolum)이 치유되며 만성 육아종(chalazion)으로 전환되기도 함
@@ -34,30 +34,35 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 안구 돌출, 안구 운동 제한 또는 안구 운동 시 통증, 복시, 시력 저하 또는 상대구심동공운동장애(RAPD)  `안와 연조직염` `골막하·안와 농양`
-* 고열·전신 중독 증상을 동반하며 급속히 진행하는 눈꺼풀 부종·발적, 또는 영유아·면역저하자의 눈꺼풀 연조직염  `중증 눈꺼풀앞 연조직염` `초기 안와 연조직염`
+* 안구 돌출, 안구 운동 제한 또는 안구 운동 시 통증, 복시, 시력 저하 또는 상대구심동공운동장애(RAPD) `안와 연조직염` `골막하·안와 농양`
+* 고열·전신 중독 증상을 동반하며 급속히 진행하는 눈꺼풀 부종·발적, 또는 영유아·면역저하자의 눈꺼풀 연조직염 `중증 눈꺼풀앞 연조직염` `초기 안와 연조직염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 통증 없던 결절에 통증·압통·발적·열감이 새로 생기며 눈꺼풀 전체로 퍼지는 경우(당일 평가)  `눈꺼풀앞 연조직염`
-* 각막 압박·시력 저하를 동반한 큰 병변  `유발 난시`
-* 어린 소아에서 동공을 가리거나 각막을 누르는 큰 상안검 병변, 지속되는 기계적 안검하수 - 시력과 굴절·난시 평가를 위해 조기 안과 의뢰  `가림약시` `유발 난시`
-* 소아의 재발성·다발성 병변에 만성 충혈, 눈부심, 각막 혼탁이 동반된 경우  `소아 안검각결막염`
-* 동일 부위 반복 재발, 고령 초발, 속눈썹 소실, 눈꺼풀 가장자리 변형, 단단하고 경계 불분명한 종괴 - 2\~4주 재평가를 기다리지 않고 신속 안과 의뢰  `피지선 암종`
-* 치료에 반응하지 않는 편측 만성 안검결막염  `피지선 암종`
+* 통증 없던 결절에 통증·압통·발적·열감이 새로 생기며 눈꺼풀 전체로 퍼지는 경우(당일 평가) `눈꺼풀앞 연조직염`
+* 각막 압박·시력 저하를 동반한 큰 병변 `유발 난시`
+* 어린 소아에서 동공을 가리거나 각막을 누르는 큰 상안검 병변, 지속되는 기계적 안검하수 - 시력과 굴절·난시 평가를 위해 조기 안과 의뢰 `가림약시` `유발 난시`
+* 소아의 재발성·다발성 병변에 만성 충혈, 눈부심, 각막 혼탁이 동반된 경우 `소아 안검각결막염`
+* 동일 부위 반복 재발, 고령 초발, 속눈썹 소실, 눈꺼풀 가장자리 변형, 단단하고 경계 불분명한 종괴 - 2\~4주 재평가를 기다리지 않고 신속 안과 의뢰 `피지선 암종`
+* 치료에 반응하지 않는 편측 만성 안검결막염 `피지선 암종`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 보존 치료 2\~4주 후에도 호전이 없는 경우  `치료 저항성 콩다래끼`
+* 보존 치료 2\~4주 후에도 호전이 없는 경우 `치료 저항성 콩다래끼`
 
 {% hint style="danger" %}
 **안와 연조직염 vs 눈꺼풀앞 연조직염 임상 감별**
 
-<table><thead><tr><th></th><th>안와 연조직염<br>(Orbital cellulitis)</th><th>눈꺼풀앞 연조직염<br>(Preseptal cellulitis)</th></tr></thead><tbody><tr><td>안구 운동 시 통증</td><td><strong>있음</strong></td><td>없음</td></tr><tr><td>안구 운동 제한·복시</td><td><strong>있음</strong></td><td>없음</td></tr><tr><td>시력 저하·RAPD</td><td><strong>있을 수 있음</strong></td><td>정상</td></tr><tr><td>안구 돌출(Proptosis)</td><td><strong>있을 수 있음</strong></td><td>없음</td></tr><tr><td>대응</td><td><strong>응급실 이송, 영상 검사 및 정주 항생제·입원 평가</strong></td><td>당일 평가 후 중증도에 따라 경구 또는 정주 항생제·입원 결정</td></tr></tbody></table>
+|                  | <p>안와 연조직염<br>(Orbital cellulitis)</p> | <p>눈꺼풀앞 연조직염<br>(Preseptal cellulitis)</p> |
+| ---------------- | -------------------------------------- | ------------------------------------------ |
+| 안구 운동 시 통증       | **있음**                                 | 없음                                         |
+| 안구 운동 제한·복시      | **있음**                                 | 없음                                         |
+| 시력 저하·RAPD       | **있을 수 있음**                            | 정상                                         |
+| 안구 돌출(Proptosis) | **있을 수 있음**                            | 없음                                         |
+| 대응               | **응급실 이송, 영상 검사 및 정주 항생제·입원 평가**       | 당일 평가 후 중증도에 따라 경구 또는 정주 항생제·입원 결정         |
 
 ※ 눈꺼풀 부종이 심해 안구 진찰이 어렵거나 영유아에서 안구 운동·시력을 확인할 수 없으면, 안와 소견이 관찰되지 않는다는 것만으로 안와 연조직염을 배제하지 않음
 {% endhint %}
-
 
 ## <mark style="color:green;">진단</mark>
 
@@ -82,7 +87,7 @@
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-<table><thead><tr><th></th><th>콩다래끼<br>(Chalazion)</th><th>겉다래끼<br>(External hordeolum)</th><th>속다래끼<br>(Internal hordeolum)</th></tr></thead><tbody><tr><td><strong>기전</strong></td><td>피지선 폐쇄 후 비감염성 육아종성 염증</td><td>Zeis/Moll gland의 급성 화농성 감염</td><td>Meibomian gland의 급성 화농성 감염</td></tr><tr><td><strong>주요 위치</strong></td><td>주로 눈꺼풀판(tarsus) 내부</td><td>속눈썹 인접 눈꺼풀 가장자리</td><td>눈꺼풀판 내부·결막면</td></tr><tr><td><strong>통증·압통</strong></td><td>없거나 경미함</td><td><strong>뚜렷함</strong></td><td><strong>뚜렷함</strong></td></tr><tr><td><strong>발적·부종</strong></td><td>초기에 경미할 수 있으나 만성기에는 감소</td><td>국소적으로 뚜렷함</td><td>깊고 넓게 나타날 수 있음</td></tr><tr><td><strong>경과</strong></td><td>만성; 수주~수개월</td><td>급성; 농포가 피부 쪽으로 배출될 수 있음</td><td>급성; 결막면으로 배출되거나 chalazion으로 이행 가능</td></tr><tr><td><strong>치료 원칙</strong></td><td>온찜질·눈꺼풀 위생; 지속 시 병변 내 스테로이드 주사 또는 절개·소파술(Incision &amp; Curettage, I&amp;C)</td><td colspan="2">온찜질 우선; 항생제는 감염 범위·안검염·연조직염 동반 여부에 따라 선택</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>콩다래끼<br>(Chalazion)</td><td>겉다래끼<br>(External hordeolum)</td><td>속다래끼<br>(Internal hordeolum)</td></tr><tr><td><strong>기전</strong></td><td>피지선 폐쇄 후 비감염성 육아종성 염증</td><td>Zeis/Moll gland의 급성 화농성 감염</td><td>Meibomian gland의 급성 화농성 감염</td></tr><tr><td><strong>주요 위치</strong></td><td>주로 눈꺼풀판(tarsus) 내부</td><td>속눈썹 인접 눈꺼풀 가장자리</td><td>눈꺼풀판 내부·결막면</td></tr><tr><td><strong>통증·압통</strong></td><td>없거나 경미함</td><td><strong>뚜렷함</strong></td><td><strong>뚜렷함</strong></td></tr><tr><td><strong>발적·부종</strong></td><td>초기에 경미할 수 있으나 만성기에는 감소</td><td>국소적으로 뚜렷함</td><td>깊고 넓게 나타날 수 있음</td></tr><tr><td><strong>경과</strong></td><td>만성; 수주~수개월</td><td>급성; 농포가 피부 쪽으로 배출될 수 있음</td><td>급성; 결막면으로 배출되거나 chalazion으로 이행 가능</td></tr><tr><td><strong>치료 원칙</strong></td><td>온찜질·눈꺼풀 위생; 지속 시 병변 내 스테로이드 주사 또는 절개·소파술(Incision &#x26; Curettage, I&#x26;C)</td><td colspan="2">온찜질 우선; 항생제는 감염 범위·안검염·연조직염 동반 여부에 따라 선택</td></tr></tbody></table>
 
 ※ 속다래끼와 콩다래끼는 모두 meibomian gland·눈꺼풀판 내부에서 발생할 수 있으므로 위치만으로 구분하지 않음. **급성 발병, 뚜렷한 통증·압통, 발적과 화농성 염증은 속다래끼를 지지**하며, 통증 없이 만성 경과를 보이면 chalazion을 우선 고려. 급성 hordeolum이 치유된 뒤 chalazion으로 이행하기도 함. (☞ [다래끼](040_-hordeolum.md))
 
