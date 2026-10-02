@@ -8,19 +8,15 @@
   * hordeolum(다래끼)과 임상적으로 연속선상에 있는 경우가 있음 - 급성 감염성 병변(hordeolum)이 치유되며 만성 육아종(chalazion)으로 전환되기도 함
 * 발생 연령 : 모든 연령에서 발생하며 성인 30\~50세에 흔하지만 소아에서도 흔함
 * 경과 : 작은 병변은 자연 흡수될 수 있으나 수주\~수개월이 걸릴 수 있음; 드물게 이차 감염 또는 급성 염증이 동반될 수 있으며 재발·만성 경과를 보이기도 함
+* 소아의 재발성·다발성 chalazion은 소아 안검각결막염(ocular rosacea) 동반 가능성을 평가
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
-* chalazion 과거력; meibomian gland dysfunction(MGD); 만성 안검염(blepharitis); hordeolum 병력
-* 지루피부염, rosacea; 불량한 눈꺼풀 위생
-* 다발성·재발성 병변, 속눈썹 뿌리의 원통형 비듬(collarettes) 또는 만성 안검염 동반 시 Demodex 안검염 고려 (☞ [안검염](039_-blepharitis.md)) - 성인뿐 아니라 소아에서도 재발·다발성 chalazion과의 연관성이 보고됨
-* 소아의 재발성·다발성 chalazion은 소아 안검각결막염(ocular rosacea) 동반 가능성을 평가
+* chalazion, meibomian gland dysfunction(MGD), 만성 안검염, hordeolum 등의 발생 병력
+  * Demodex [안검염](039_-blepharitis.md) : 다발성·재발성 병변, 속눈썹 뿌리의 원통형 비듬(collarettes) 또는 만성 안검염 동반 시 고려 - 성인뿐 아니라 소아에서도 재발·다발성 chalazion과의 연관성이 보고됨
+* 지루피부염, rosacea&#x20;
+* 불량한 눈꺼풀 위생
 * 고지혈증, 비타민 A 결핍, 흡연, 눈꺼풀 외상 등도 연관성이 보고되었으나 일관된 인과 근거는 제한적
-
-#### <mark style="color:$primary;">드물게 chalazion과 유사한 육아종성 병변을 유발하는 원인 (감별 필요)</mark>
-
-* 면역 저하, 결핵, 바이러스 감염, trachoma, leishmaniasis 등 - 육아종성 눈꺼풀 병변의 드문 원인으로 문헌에 보고됨; 일반적인 chalazion의 흔한 위험인자는 아님
-* 악성 종양(피지선 암종 등) - 위험인자가 아니라 chalazion으로 오인될 수 있는 감별진단 대상 (☞ Red Flags 참고)
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -87,38 +83,18 @@
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-<table data-header-hidden><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>콩다래끼<br>(Chalazion)</td><td>겉다래끼<br>(External hordeolum)</td><td>속다래끼<br>(Internal hordeolum)</td></tr><tr><td><strong>기전</strong></td><td>피지선 폐쇄 후 비감염성 육아종성 염증</td><td>Zeis/Moll gland의 급성 화농성 감염</td><td>Meibomian gland의 급성 화농성 감염</td></tr><tr><td><strong>주요 위치</strong></td><td>주로 눈꺼풀판(tarsus) 내부</td><td>속눈썹 인접 눈꺼풀 가장자리</td><td>눈꺼풀판 내부·결막면</td></tr><tr><td><strong>통증·압통</strong></td><td>없거나 경미함</td><td><strong>뚜렷함</strong></td><td><strong>뚜렷함</strong></td></tr><tr><td><strong>발적·부종</strong></td><td>초기에 경미할 수 있으나 만성기에는 감소</td><td>국소적으로 뚜렷함</td><td>깊고 넓게 나타날 수 있음</td></tr><tr><td><strong>경과</strong></td><td>만성; 수주~수개월</td><td>급성; 농포가 피부 쪽으로 배출될 수 있음</td><td>급성; 결막면으로 배출되거나 chalazion으로 이행 가능</td></tr><tr><td><strong>치료 원칙</strong></td><td>온찜질·눈꺼풀 위생; 지속 시 병변 내 스테로이드 주사 또는 절개·소파술(Incision &#x26; Curettage, I&#x26;C)</td><td colspan="2">온찜질 우선; 항생제는 감염 범위·안검염·연조직염 동반 여부에 따라 선택</td></tr></tbody></table>
+<mark style="color:cyan;">**chalazion 유사 육아종성 병변 유발 원인**</mark> (드묾)
+
+* 면역 저하, 결핵, 바이러스 감염, trachoma, leishmaniasis 등 - 일반적인 chalazion의 흔한 위험인자는 아님
+* 악성 종양(피지선 암종 등) - chalazion으로 오인될 수 있는 감별진단 대상&#x20;
+
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>콩다래끼<br>(Chalazion)</td><td>겉다래끼<br>(External hordeolum)</td><td>속다래끼<br>(Internal hordeolum)</td></tr><tr><td><strong>기전</strong></td><td>피지선 폐쇄 후 비감염성 육아종성 염증</td><td>Zeis/Moll gland의 급성 화농성 감염</td><td>Meibomian gland의 급성 화농성 감염</td></tr><tr><td><strong>주요 위치</strong></td><td>주로 눈꺼풀판(tarsus) 내부</td><td>속눈썹 인접 눈꺼풀 가장자리</td><td>눈꺼풀판 내부·결막면</td></tr><tr><td><strong>통증·압통</strong></td><td>없거나 경미함</td><td><strong>뚜렷함</strong></td><td><strong>뚜렷함</strong></td></tr><tr><td><strong>발적·부종</strong></td><td>초기에 경미할 수 있으나 만성기에는 감소</td><td>국소적으로 뚜렷함</td><td>깊고 넓게 나타날 수 있음</td></tr><tr><td><strong>경과</strong></td><td>만성; 수주~수개월</td><td>급성; 농포가 피부 쪽으로 배출될 수 있음</td><td>급성; 결막면으로 배출되거나 chalazion으로 이행 가능</td></tr><tr><td><strong>치료 원칙</strong></td><td>온찜질·눈꺼풀 위생; 지속 시 병변 내 스테로이드 주사 또는 절개·소파술(Incision &#x26; Curettage, I&#x26;C)</td><td colspan="2">온찜질 우선; 항생제는 감염 범위·안검염·연조직염 동반 여부에 따라 선택</td></tr></tbody></table>
 
 ※ 속다래끼와 콩다래끼는 모두 meibomian gland·눈꺼풀판 내부에서 발생할 수 있으므로 위치만으로 구분하지 않음. **급성 발병, 뚜렷한 통증·압통, 발적과 화농성 염증은 속다래끼를 지지**하며, 통증 없이 만성 경과를 보이면 chalazion을 우선 고려. 급성 hordeolum이 치유된 뒤 chalazion으로 이행하기도 함. (☞ [다래끼](040_-hordeolum.md))
 
 ***
 
 ```mermaid
-graph TD
-    Start(["눈꺼풀 결절"]) --> Q1["Red Flags 즉각 조치 항목?"]
-    Q1 -->|예| ER["응급실 의뢰<br>안와 연조직염 평가"]
-    Q1 -->|아니오| Q2["급성 통증·압통·발적?"]
-    Q2 -->|예| Q2b["발적·부종이 눈꺼풀 전체로 확산?"]
-    Q2b -->|예| PC["당일 평가<br>눈꺼풀앞 연조직염"]
-    Q2b -->|아니오| HD["다래끼 또는 이차 감염 평가<br>(다래끼 챕터 참고)"]
-    Q2 -->|아니오| Q3["악성 의심 단서?<br>반복 재발·고령 초발·속눈썹 소실"]
-    Q3 -->|예| BX["신속 안과 의뢰<br>진단 생검·종양 평가"]
-    Q3 -->|아니오| CH["콩다래끼"]
-    CH --> Q4["소아의 큰 상안검 병변<br>(난시·약시 위험) 또는 시력 영향?"]
-    Q4 -->|예| EARLY["조기 안과 의뢰"]
-    Q4 -->|아니오| CONS["온찜질·눈꺼풀 위생<br>2~4주 후 재평가"]
-    CONS --> Q5["호전?"]
-    Q5 -->|예| F["보존 치료 유지<br>재발 시 MGD·rosacea·Demodex 평가"]
-    Q5 -->|아니오| REF["안과 의뢰<br>병변 내 TA 주사 또는 절개·소파술"]
-
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Q1 fill:#fff9c4,stroke:#ffe082
-    style Q2 fill:#fff9c4,stroke:#ffe082
-    style Q2b fill:#fff9c4,stroke:#ffe082
-    style Q3 fill:#fff9c4,stroke:#ffe082
-    style Q4 fill:#fff9c4,stroke:#ffe082
-    style Q5 fill:#fff9c4,stroke:#ffe082
-    style CH fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
 <p align="center"><strong>콩다래끼 진단 및 치료 알고리듬</strong></p>
