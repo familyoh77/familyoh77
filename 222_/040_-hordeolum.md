@@ -93,6 +93,31 @@ _✽속다래끼의 급성 통증과 발적이 사라진 뒤 무통성 결절이
 ***
 
 ```mermaid
+graph TD
+    Start(["눈꺼풀 국소 통증성 발적·종창"]) ---> Q1["Red Flags 즉각 조치 항목?"]
+    Q1 --->|예| ER["즉시 <br>응급실 의뢰"]
+    Q1 --->|아니오| Q2["발적·열감이 <br>주변 눈꺼풀로 확산?"]
+    Q2 --->|예| Q2b["경증이며 외래 <br>치료 요건 충족?"]
+    Q2b --->|예| PS["경구 항생제<br>·24~48시간 재평가"]
+    Q2b --->|아니오| ADM["당일 의뢰·입원<br>·정맥 항생제 평가"]
+    Q2 --->|아니오| Q3["농양·중증 내맥립종 <br>또는 시축·각막 영향?"]
+    Q3 --->|예| ID["안과 의뢰·배농 및 <br>전신 치료 평가"]
+    Q3 --->|아니오| HC["온찜질·눈꺼풀 <br>위생·경과 관찰"]
+    HC ---> Q4["겉다래끼에 세균성 안검염<br>·안검결막염 동반?"]
+    Q4 --->|예| TA["국소 항생제 점안액 <br>선택적 사용"]
+    Q4 --->|아니오| OBS["항생제 <br>없이 관찰"]
+    TA ---> Q5["경과"]
+    OBS ---> Q5
+    Q5 --->|"수일간 호전 없음<br>·커짐·새 통증·발열"| RE["재평가·<br>연조직염 및 <br>농양 확인"]
+    Q5 --->|"2주 이상 <br>잔여 종괴"| CH["산립종 평가<br>·안과 의뢰"]
+    Q5 --->|"재발"| RC["안검염·MGD<br>·Demodex 등 <br>기저 질환 평가"]
+    Q5 --->|"동일 부위 반복<br>·속눈썹 소실·궤양"| MAL["안과 의뢰<br>·조직검사 <br>필요성 평가"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class Q1,Q2,Q2b,Q3,Q4,Q5 yellow
+    style HC fill:#f96,stroke:#e65100,stroke-width:2px
+    style ER fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style ADM fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
