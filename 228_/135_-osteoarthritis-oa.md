@@ -4,17 +4,17 @@
 
 * 연골, 윤활막, 인대, 연골 밑 뼈 등 관절을 구성하는 여러 구조물들에 병리학적 변화가 발생하여 관절의 통증 및 강직, 기능 제한이 발생하는 만성 관절 질환
 * 다른 이름 : 퇴행성 관절염, 퇴행성 관절 질환(degenerative joint disease)
-* 조직학적 변화 : molecular derangement(관절 조직의 대사 이상) → anatomic &/or physiologic derangements (연골 degradation, bone remodeling, osteophyte 형성, 관절 염증, 관절 기능 상실)
+* 병태생리 : 관절 조직의 대사·생체역학적 이상과 염증 반응이 상호작용 → 연골 손상, 연골하 골재형성, 골극 형성, 윤활막 변화 및 기능 저하
 * 분류
-  * 원발성(특발성) : 뚜렷한 선행 원인 없이 노화·유전·생역학적 요인에 의해 발생; 대다수의 OA
+  * 원발성(특발성) : 뚜렷한 선행 원인 없이 노화·유전·생체역학적 요인에 의해 발생; 대다수의 OA
   * 속발성 : 외상, 감염, 결정성 관절염, 내분비·대사 질환, 선천성 기형 등 명확한 선행 원인에 의해 이차적으로 발생
 * 호발 부위 : 무릎, 엉덩이, 손, 척추 관절
 * 유병률
   * 국내 65세 이상 의사진단 유병률(2017\~2021년 국민건강영양조사) : 전체 30.2%, 여성 43.5%, 남성 13%; 고령일수록, 여성에서 증가 - 엉덩관절은 남성에서, 손·무릎관절은 여성에서 상대적으로 더 흔함
-  * 국내 50세 이상 무릎 골관절염 유병률 : 방사선학적 유병률 약 37\~38%, 증상 동반 유병률 약 14\~24% (질병관리청, 국민건강영양조사)
+  * 국내 50세 이상 무릎 OA : 춘천 지역사회 주민 504명 연구에서 방사선학적 OA 37.3%, 증상 동반 OA 24.2% [Kim et al., 2010]; 지역 표본의 수치이므로 전국 국민건강영양조사 유병률로 일반화하지 않음
 * 합병증 : 관절 변형, 보행 장애 및 낙상 위험 증가, 만성 통증에 의한 우울·불안, 활동량 감소에 따른 심혈관 질환·대사증후군 위험 증가
 * 치료 목표 : 통증·염증 감소, 기능 유지, 삶의 질 향상
-  * ✽현재까지 질병의 진행을 멈추거나 역행시키는 것으로 확인된 치료(disease-modifying OA drug, DMOAD)는 없음; tanezumab(NGF 억제제) 등 후보 물질이 개발되었으나 급속 진행성 관절 파괴(RPOA), 말초 감각 이상(abnormal peripheral sensation) 등 신경계 이상반응을 포함한 안전성 문제로 상용화되지 못함 (2026년 기준)
+  * ✽현재까지 임상에서 승인된 질병수정 골관절염 약제(disease-modifying OA drug, DMOAD)는 없음; tanezumab(NGF 억제제)은 구조적 진행 억제제가 아닌 진통제 후보였으며, 급속 진행성 골관절염(RPOA) 등 안전성 문제로 상용화되지 못함
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -22,21 +22,21 @@
 * 여성(특히 손, 무릎)
 * 비만 : 체중 부하 관절(특히 무릎)
 * 직업 : 반복적으로 쪼그려 앉거나 무릎을 구부리거나 물건을 들어 올리는 육체노동
-* 스포츠 활동 : 운동 선수, 심한 활동
+* 관절 외상 위험이 높은 경쟁 스포츠·반복적인 과부하; 일반적인 걷기·수영·근력 운동 자체를 OA의 위험 요인으로 설명하지 않음
 * 관절 외상/감염 병력
 * 근육 쇠약, 고유감각 결손, 신경병증
-* 선천적인 해부학적 기형 : 대퇴골두골단분리증, 선천성 골반이형성증
+* 발달성·해부학적 이상 : 발달성 고관절이형성증, 대퇴골두골단분리증의 후유 변형 등
 * 내분비 대사 질환 : 말단비대증, 칼슘결정침착, 혈색소침착증, 윌슨씨병, 파젯씨병
 * 가족력
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 흔히 수 분 동안의 관절 불편감이나 강직으로 시작하여 점차 진행
-* 통증 : 하나 또는 몇 개 관절의 국소 통증, 관절 및 관절 주위 압통, 다양한 강도, 간헐적 발생, 사용에 의하여 악화되고 휴식으로 완화, 심한 경우 야간 통증, 저온 습한 날씨에 악화
+* 사용 시 통증과 휴식 후 짧은 강직이 서서히 나타나며, 경과 중 증상의 호전·악화를 반복할 수 있음
+* 통증 : 하나 또는 몇 개 관절의 국소 통증, 관절 및 관절 주위 압통, 다양한 강도, 간헐적 발생, 사용에 의하여 악화되고 휴식으로 완화, 진행한 경우 휴식·야간에도 통증이 나타날 수 있음; 날씨에 따른 증상 변화는 개인차가 있음
 * 강직 : 일시적; ＜30분 지속되는 조조강직 또는 장시간 휴식 후 활동 개시 때의 뻣뻣함
 * 부종 : 윤활막 증식 및 삼출에 의한 부종
 * crackling, crepitus : 관절면 손상(거칠어짐)에 의해 움직임 때 소리 또는 마찰 느낌
-* 변형, 운동 제한 : 관절 변형(관절 가장자리 비대), 관절 정렬 변화, 관절 운동 범위 제한/고정(locking) 또는 과다/불안정
+* 변형, 운동 제한 : 관절 변형(관절 가장자리 비대), 관절 정렬 변화, 관절 운동 범위 제한 또는 불안정; 지속적인 진성 잠김(true locking)은 반월상연골 병변·유리체 등 별도 원인을 평가
 
 #### <mark style="color:$primary;">손</mark>
 
@@ -50,7 +50,7 @@
 #### <mark style="color:$primary;">무릎</mark>
 
 * 관절 부종(삼출), popliteal cyst(Baker's cyst)
-* 하지 불안정 또는 약화, 특히 외측 또는 계단 내려갈 때
+* 무릎이 꺾이는 느낌(giving way), 대퇴사두근 약화, 계단 이용 시 통증·불안정
 * 관절 정렬 변화 : genu varum 또는 genu valgum
 
 #### <mark style="color:$primary;">고관절</mark>
@@ -61,7 +61,7 @@
 #### <mark style="color:$primary;">발</mark>
 
 * 흔히 첫 번째 metatarsophalangeal 관절 이환/운동 제한, 엄지발가락 굳음증(hallux rigidus)
-* 관절 변형 : 무지 외반증
+* 무지 외반증은 동반될 수 있으나 그 자체로 첫째 MTP OA를 진단하지 않음
 
 #### <mark style="color:$primary;">척추</mark>
 
@@ -77,16 +77,16 @@
 * 외상 직후 발생한 급격한 관절 부종·혈관절증(hemarthrosis) 의심
 * 요통·하지 증상과 함께 새로 발생한 배뇨/배변 장애, 안장 감각 저하(saddle anesthesia), 진행성 양측 하지 신경학적 결손 → 마미증후군(cauda equina syndrome) 의심; 척추관협착증·추간판탈출증 등 신경 압박 병변과의 감별이 핵심이며 OA(facet joint 변화) 자체에 의한 것이 아님에 유의
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 염증성 징후를 동반하나 화농성 관절염 정도로 급격하지 않은 관절 통증 → 결정성 관절염(통풍, 가성통풍) 또는 염증성 관절염 의심
+* 새로 발생한 열감·삼출·관절 부종은 결정성·염증성 관절염도 고려하되, 증상이 덜 급격하거나 발열이 없다는 이유로 감염을 배제하지 않음; 감염 의심 또는 급성 단관절염은 즉각 조치 항목에 따라 평가
 * ＞30분 지속되는 조조강직, 다관절·대칭성 침범 → RA 등 염증성 관절염 감별 필요
 * 비전형적인 부위 침범(예: 손목, 발목 등 OA에서 드문 부위) 또는 새로 발생한 단일 관절염
 * 원인 불명의 체중 감소, 야간 통증이 뚜렷한 경우 → 악성 종양 등 감별 필요
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 증상의 갑작스런 악화
+* 위험 징후 없이 서서히 악화하거나 반복되는 통증; 갑작스러운 악화는 감염·골절·결정성 관절염 등 위험 징후를 먼저 재확인
 * 표준 비-약물·약물 치료 4\~6주 후에도 호전이 없는 경우
 * 기능 제한이 진행하여 일상생활이 어려워지는 경우 → 정형외과 의뢰(관절 치환술 등 수술적 치료 고려)
 
@@ -96,8 +96,9 @@
 
 * 초기에는 유의미한 소견 없을 수 있음; ✽방사선학적 OA 소견의 정도와 통증·기능 장애의 정도는 반드시 일치하지 않으므로 영상 소견만으로 증상의 원인을 단정하지 않음
 * X선 소견 : 골극(osteophyte) 형성, 비균일·비대칭적 관절강 협소, 연골하 골경화, 연골하 낭종
-* ✽관절 주위 골감소(periarticular osteopenia)나 marginal erosion은 OA의 전형적 소견이 아니며, 뚜렷할 경우 RA 등 염증성 관절염을 우선 감별
-* ✽45세 이상 + 사용에 의해 악화되는 통증 + 조조강직이 없거나 ≤30분인 전형적 경우, 비전형적 소견(야간통, 급격한 악화, 신경학적 이상 등)이 없다면 영상 검사 없이 임상적으로 진단 가능 [NICE]
+* ✽관절 주위 골감소(periarticular osteopenia)나 변연부 미란(marginal erosion)은 RA 등 염증성 관절염을 시사; 미란성 손 OA에서는 DIP/PIP의 중심부 미란(central erosion)이 나타날 수 있어 구별
+* ✽45세 이상 + 활동 관련 통증 + 조조강직이 없거나 ≤30분인 전형적 경우 임상적으로 진단 가능 [NICE]; 최근 외상, 급격한 악화, 지속적인 심한 야간통, 뜨겁고 부은 관절, 신경학적 이상 등 비전형적 소견이 있으면 추가 평가
+* 영상이 필요하면 단순 X선을 우선 고려(무릎은 가능한 경우 체중부하 촬영); MRI·CT를 OA 진단이나 경과 확인 목적으로 일률적으로 시행하지 않음
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
@@ -131,8 +132,8 @@
 
 #### <mark style="color:$primary;">이환 관절 수</mark>
 
-* 소수 관절 이환 : 결정성, 감염성
-* 많은 관절(≥4개) 이환 : OA, RA
+* 단관절염(1개) : 감염성·결정성 관절염, OA 등
+* 소수관절염(2\~4개), 다관절염(≥5개) : OA·RA·척추관절염·결정성 관절염 등에서 가능; 관절 수만으로 원인을 구분하지 않음
 
 #### <mark style="color:$primary;">관절 분포 양상</mark>
 
@@ -143,35 +144,41 @@
 
 #### <mark style="color:$primary;">연령</mark>
 
-* ＜60세 : 반복 사용, 과도 긴장, 통풍(남성), RA, 척추관절염, 감염성 관절염
-* ＞60세 : OA, 결정성(통풍, 가성통풍/CPPD), 류마티스성 다발성 근통, 골다공증성 골절, 혈관염, 약제 유발성 질환
+* OA는 연령이 높을수록 흔하나 젊은 환자에서도 외상·기형 등에 따른 속발성 OA가 가능
+* 고령의 새 관절 증상에서도 감염·결정성 관절염·RA를 배제하지 않음; ≥50세의 양측 어깨·고관절대 통증과 강직에는 PMR을 고려
 
 #### <mark style="color:$primary;">관절 질환별 특징</mark>
 
-<table><thead><tr><th width="95">항목</th><th width="150">RA (p.815)</th><th width="150">통풍 (p.825)</th><th width="160">결체조직질환 (p.834)</th><th width="150">섬유근육통 (p.834)</th><th>류마티스성 다발근통(PMR)</th></tr></thead><tbody><tr><td>진행 속도</td><td>급성/아급성</td><td>급성</td><td>아급성</td><td>만성</td><td>수주 이내</td></tr><tr><td>성별/연령</td><td>남:여=1:3, 모든 연령</td><td>남:여=3:1 (폐경 전 여성은 드묾)</td><td>질환별로 다름</td><td>남:여=1:7, 30\~50세</td><td>≥50세, 남:여=1:2</td></tr><tr><td>관절 침범 양상</td><td>대칭적 양측 손발</td><td>단일 관절염, 주로 발허리발가락·발목·무릎</td><td>질환별 침범 양상 상이</td><td>널리 퍼진 형태</td><td>양측 어깨·고관절대 통증·조조강직</td></tr><tr><td>기타</td><td>레이노병, 건조한 눈/입, 전신 이상</td><td>위험 인자: 비만, 음주, 이뇨제 치료</td><td>질환에 따라 레이노 현상, 발진, 전신 증상 등</td><td>수면 질 저하, 광범위 통증·피로 등; 압통점 검사는 진단의 필수 요건이 아님</td><td>ESR/CRP 상승; 거대세포동맥염(GCA) 동반 가능 - 새 두통·턱파행·시각 증상 확인</td></tr></tbody></table>
+<table><thead><tr><th width="95">항목</th><th width="150">RA</th><th width="150">통풍</th><th width="160">결체조직질환</th><th width="150">섬유근육통</th><th>류마티스성 다발근통(PMR)</th></tr></thead><tbody><tr><td>진행 속도</td><td>급성/아급성</td><td>급성</td><td>아급성</td><td>만성</td><td>수주 이내</td></tr><tr><td>성별/연령</td><td>여성에서 흔함, 모든 연령</td><td>남성에서 흔함(폐경 전 여성은 드묾)</td><td>질환별로 다름</td><td>여성에서 흔함, 다양한 연령</td><td>≥50세, 여성에서 흔함</td></tr><tr><td>관절 침범 양상</td><td>대칭적 양측 손발</td><td>단일 관절염, 주로 발허리발가락·발목·무릎</td><td>질환별 침범 양상 상이</td><td>널리 퍼진 형태</td><td>양측 어깨·고관절대 통증·조조강직</td></tr><tr><td>기타</td><td>관절 종창·장시간 조조강직; 건조 증상·전신 증상 동반 가능</td><td>위험 인자: 비만, 음주, 이뇨제 치료</td><td>질환에 따라 레이노 현상, 발진, 전신 증상 등</td><td>수면 질 저하, 광범위 통증·피로 등; 압통점 검사는 진단의 필수 요건이 아님</td><td>ESR/CRP 상승; 거대세포동맥염(GCA) 동반 가능 - 새 두통·턱파행·시각 증상 확인</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph LR
-    A([관절 통증]) --> B{"응급 징후?"}
-    B -- 있음 --> C["감염·골절 등 즉시 평가"]
-    B -- 없음 --> D{"전형적 OA 양상?"}
-    D -- 전형적 --> E["임상적 OA 진단"]
-    D -- 비전형적 --> F["진찰·필요시 영상·관절액 검사"]
-    F -- OA에 합당 --> E
-    F -- 다른 질환 의심 --> G["해당 질환 평가·치료"]
-    E --> H["운동·체중 관리·교육"]
-    H --> I["통증·기능에 따라 국소제 등 병행"]
-    I --> J{"추적 평가"}
-    J -- 호전 --> H
-    J -- 불충분 --> K["진단·동반질환 재평가 및 치료 조정"]
-    K --> L["삶의 질 저하 지속 시 전문의·수술 평가"]
+    subgraph S1["진단·감별"]
+        direction TB
+        A([관절 통증]) --> B{"응급 징후?"}
+        B -- 있음 --> C["감염·골절·마미증후군 등 즉시 평가"]
+        B -- 없음 --> D{"전형적 OA 양상?"}
+        D -- 전형적 --> E["임상적 OA 진단"]
+        D -- 비전형적 --> F["진찰·필요시 영상·관절액 검사"]
+        F -- OA에 합당 --> E
+        F -- 다른 질환 의심 --> G["해당 질환 평가·치료"]
+    end
+    subgraph S2["치료·추적"]
+        direction TB
+        H["운동·체중 관리·교육"] --> I["통증·기능에 따라 국소제 등 병행"]
+        I --> J{"추적 평가"}
+        J -- 호전 --> H
+        J -- 불충분 --> K["진단·동반질환 재평가 및 치료 조정"]
+        K --> L["삶의 질 저하 지속 시 전문의·수술 평가"]
+    end
+    E --> H
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR/AF 2019; OARSI 2019; NICE NG226, 2022)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR 2026 권고 요약본; OARSI 2019; NICE NG226, 2022)</mark></em></p>
 
 ***
 
@@ -179,22 +186,22 @@ graph LR
 
 {% hint style="info" %}
 **단계별 치료 전략 (Step-wise Approach)**\
-비-약물 치료(운동, 체중 관리, 자가 관리 교육)가 모든 관절·모든 중증도에서 1차 치료이자 핵심 축이며, 약물 치료는 이를 보완하는 역할. 다관절·전신 동반질환이 있는 환자는 다학제적 접근이 권장됨 (ACR/AF 2019, OARSI 2019)
+비-약물 치료(운동, 체중 관리, 자가 관리 교육)가 모든 관절·모든 중증도에서 1차 치료이자 핵심 축이며, 약물 치료는 이를 보완하는 역할. 다관절·전신 동반질환이 있는 환자는 다학제적 접근이 권장됨 (ACR 2026 권고 요약본, OARSI 2019)
 {% endhint %}
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 온/냉찜질
-* 관절 보호 장치, 부목(특히 손의 OA에 유용)
+* 관절 보호 장치·부목 : 통증·기능 저하가 있는 손 OA와 무릎 OA에서 환자에 맞춰 선택
 * 관절 과부하 회피, 과사용 금지 : 지팡이, 보행기, 벽/계단 손잡이 이용
 
-> ✽압박대는 일반적으로 권하지 않음
+> ✽보호대는 적응 관절과 증상에 맞춰 선택; 모든 압박대·보조기를 일률적으로 권고하거나 배제하지 않음
 
 * 과도하게 증상을 악화시키는 활동은 조절하되, 장기간의 완전한 휴식은 피하고 가능한 범위에서 활동을 유지
 * 금연
 * 체중 감량
   * 과체중·비만 동반 무릎·고관절 OA에서는 체중의 ≥5% 감량을 1차 목표로 하며, 약 10% 감량에서 더 큰 통증·기능 개선을 기대할 수 있음 [NICE, 2024 Australian Knee OA Standard]
-  * ✽비만 동반 무릎 OA 환자 대상 semaglutide 2.4 ㎎ 주 1회 피하주사 68주 투여 시 위약 대비 체중 및 WOMAC 통증 점수가 유의하게 개선되었다는 보고가 있음(STEP 9 trial, NEJM 2024); 다만 2026년 기준 국내외에서 슬관절 골관절염 자체에 대한 적응증으로 승인된 것은 아니며, 비만·과체중 동반 시 체중 감량 목적의 기존 승인 기준에 따라 사용을 고려
+  * ✽ACR 2026은 비만 동반 무릎 OA에서 식사·운동과 함께 적정 체중을 달성하기 위한 GLP-1 수용체 작용제 사용을 조건부 권고. 비만 동반 무릎 OA 환자 대상 semaglutide 2.4 ㎎ 주 1회 피하주사 68주 투여 시 위약 대비 체중 및 WOMAC 통증 점수가 유의하게 개선되었다는 보고가 있음(STEP 9 trial, NEJM 2024); OA 권고가 국내 OA 적응증 허가를 의미하는 것은 아니며, 국내 비만 치료 허가 기준에 따라 사용; 2.4 ㎎은 목표 유지 용량으로 낮은 시작 용량에서 제품 허가사항에 따라 증량
 * 관절 주위 근육 근력 강화 : 수영, 에어로빅, quadriceps 강화 운동
 * 적정 vitamin D 상태 유지 : 골다공증 예방 등 전반적인 뼈 건강을 위해 필요; 다만 OA의 통증 완화나 구조적 진행 억제 목적으로 vitamin D를 routine하게 투여하는 것은 권고되지 않음 (☞ p.806)
 
@@ -203,15 +210,14 @@ graph LR
 * 효과 : 통증↓, 관절 기능↑, 삶의 질↑; 통증 등 관절염 증상으로 운동을 하지 않으면 관절의 운동 기능은 더욱 감소하고 강직, 부종, 근육 약화, 관절 불안정은 악화됨
 * 규칙적 운동 : 거의 매일 30분씩(10분씩 하루 3\~4회로 분할 시행할 수 있음), "조금이라도 하는 것이 전혀 안하는 것보다 낫다."; 목표치는 WHO/ACSM 기준 중강도 유산소 주 150\~300분 또는 고강도 75\~150분(또는 동등한 조합)에 근력·유연성·신경운동(균형) 운동을 함께 시행 [EULAR 2026]
 * 강도 : 통증을 완전히 피할 필요는 없으며 경도의 일시적 불편감은 허용됨 - 이는 관절 손상을 의미하지 않음. 운동 후 통증이 현저히 악화되거나 다음날까지 지속되면 강도·시간을 조절 [NICE, 2024 Australian Knee OA Standard]; 규칙적 운동이 OA를 악화시킨다는 근거는 없으므로 통증에 대한 두려움으로 운동을 회피하지 않도록 설명 [EULAR 2026]
-* 신체/관절 상태에 맞는 운동을 선택; 비정상적인 관절은 심하지 않은 운동의 반복에 의해서도 OA 위험이 증가함
-* 기능 제한이 뚜렷하거나 비활동 상태였던 환자는 안전하게 견딜 수 있는 낮은 강도부터 시작하여 첫 4\~6주에 걸쳐 점진적으로 시간·강도를 늘림 [EULAR 신체활동 권고 2025 개정, 2026 출판]
+* 관절 변형·불안정성이 있으면 운동 종류와 부하를 개별 조절; 운동 자체를 회피하기보다 물리치료사의 평가와 감독을 고려
+* 기능 제한이 뚜렷하거나 비활동 상태였던 환자는 낮은 강도부터 점진적으로 증량; 증상과 체력에 맞추고 장시간 앉아 있는 시간을 줄임 [EULAR 신체활동 권고 2025 개정, 2026 출판]
 
 ✽신체 활동 및 운동 가이드 (☞ [운동지침](../231_/216_-physical-activity-guideline.md))
 
 #### <mark style="color:$primary;">Warm up</mark>
 
-* 일반인은 3\~5분, 관절염 환자는 10\~15분
-* 천천히 걷기 또는 10분 이내의 운동을 하는 경우에는 warm up 단계를 생략할 수 있음
+* 낮은 강도의 걷기·관절가동 운동으로 시작하여 몸을 준비; 운동 종류·체력·강직 정도에 따라 시간을 조절
 * 방법
   1. 앉은 상태로 관절 운동 및 유연성 운동을 머리에서 시작하여 발까지 시행
   2. 제자리 걷기
@@ -219,18 +225,18 @@ graph LR
 
 #### <mark style="color:$primary;">근육 강화 운동</mark>
 
-* weight bearing 운동
+* 저항 운동 : 체중·탄력 밴드·기구 등을 이용하며, 필요한 경우 비체중부하 자세에서 시작
 * 부드럽게 움직임, 갑자기 움직이지 않음
 * 통증이나 과도한 피로 없이 연속적으로 8\~10회(=1세트) 시행이 가능한 무게를 선택
 * 피로와 관절 스트레스를 피하기 위해 팔과 다리 운동을 1세트씩 번갈아 시행
-* 1세트 운동으로 관절통이 심해지지 않는다면 무게를 늘릴 수 있음
+* 정해진 반복 횟수를 안정적으로 수행하고 운동 후 증상이 악화하지 않으면 부하를 조금씩 증가; 주 2일 이상을 목표로 하되 초기에는 개인별 조절
 * 염증성 관절염(예: RA)이 있는 환자에서는 보다 가벼운 무게로 천천히 시행
 
 #### <mark style="color:$primary;">지구력 운동</mark>
 
 * 종류 : 수중 운동(예: 수영, 물속에서 걷기, 수중 에어로빅), 고정 자전거 타기
 * 운동 중 대화를 할 수 있는, 통증이 악화되지 않는 낮은 강도 및 짧은 시간으로 시작
-* 운동 후 관절이나 근육에 약간의 통증을 느끼는 정도는 허용; 2시간 이상 지속하는 것은 피함
+* 운동 후 경도의 일시적 통증은 허용하되, 현저한 악화·부종 또는 다음날까지 지속되는 통증에는 다음 운동의 강도·시간을 줄이고 필요시 재평가
 
 #### <mark style="color:$primary;">Cool down</mark>
 
@@ -240,33 +246,36 @@ graph LR
 #### <mark style="color:$primary;">주의</mark>
 
 * 걷기 운동은 가능한 한 평평하고 수평한 곳에서 시행
-* 적당한 신발(예: 걷기에 특화된 신발) 착용, 필요시 신발 쿠션/깔창 사용
+* 편하고 안정적인 신발 착용; OA 치료 목적으로 내측·외측 쐐기 깔창을 일률적으로 처방하지 않음
 * 필요한 경우 국소 NSAID 등 적절한 진통 치료를 초기부터 병행하여 운동 참여를 돕되, 진통제로 통증이 조절된 상태에서 무리하게 강도를 높이지 않도록 함
 * 급격한 부종, 심한 통증, 관절 불안정성이 발생하면 중단하고 재평가; 경도의 일시적 불편감만으로 중단할 필요는 없음
 * 천천히 시작하여 점차 강도를 높임
 * 운동 시 자세에 주의. 필요시 치료사의 도움을 받음
 * 빠른 방향 전환/회전, 충격이 있는 운동은 피함(특히 하지 인공 관절 수술 환자)
 
-### <mark style="color:orange;">골관절염의 '권고' 요법</mark>
+### <mark style="color:orange;">비약물 요법의 주요 권고</mark>
 
 {% hint style="info" %}
-아래는 ACR/AF(2019) 가이드라인의 관절 부위별(HAND/KNEE/HIP) 권고 강도를 정리한 표. 강한 권고 항목은 모든 환자에게 우선 고려, 조건부 권고 항목은 환자의 상황·선호를 반영한 공동 의사결정(shared decision-making) 하에 고려
+**ACR 2026 권고 요약본 기준(2026년 9월 14일 공개)**\
+2019 지침의 개정 요약본이며 정식 논문은 출판 전. 아래는 주요 항목만 정리한 표로, 적용 시 환자의 금기·선호·접근성을 함께 판단. ‘—’는 해당 부위의 권고를 이 표에 제시하지 않았다는 뜻임.
 {% endhint %}
 
-<table><thead><tr><th width="230">비-약물·물리/심리사회적 치료</th><th width="90" align="center">HAND</th><th width="90" align="center">KNEE</th><th width="90" align="center">HIP</th></tr></thead><tbody><tr><td>운동(걷기, 강화 운동, 수상 운동 등)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>자가 관리 프로그램(목표 설정·문제 해결·질병 교육 등)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>1st CMC Orthosis(HAND) / TF Knee Brace(KNEE)</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center">-</td></tr><tr><td>체중 감량(과체중·비만 동반)</td><td align="center">-</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>태극권(Tai Chi)</td><td align="center">-</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>지팡이(보행에 의미 있는 영향이 있는 경우)</td><td align="center">-</td><td align="center"><mark style="color:blue;">강한 권고</mark></td><td align="center"><mark style="color:blue;">강한 권고</mark></td></tr><tr><td>온/냉 치료, 인지행동 요법, Acupuncture</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td></tr><tr><td>Kinesiotaping(1st CMC 대상)</td><td align="center">조건부 권고</td><td align="center">-</td><td align="center">-</td></tr><tr><td>Balance Training</td><td align="center">-</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td></tr><tr><td>다른 손 Orthoses(1st CMC 이외) / PF Knee Brace</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">-</td></tr><tr><td>Paraffin(HAND) / Yoga(KNEE)</td><td align="center">조건부 권고</td><td align="center">조건부 권고</td><td align="center">-</td></tr><tr><td>RFA(genicular nerve, KNEE)</td><td align="center">-</td><td align="center">조건부 권고</td><td align="center">-</td></tr></tbody></table>
+<table><thead><tr><th>요법</th><th>손</th><th>무릎</th><th>고관절</th></tr></thead><tbody>
+<tr><td>운동</td><td>조건부 권고</td><td>강한 권고</td><td>강한 권고</td></tr>
+<tr><td>감량(과체중·비만)</td><td>—</td><td>강한 권고</td><td>강한 권고</td></tr>
+<tr><td>보조기(손: 1st CMC·손가락 / 무릎: TF·PF)</td><td>조건부 권고</td><td>조건부 권고</td><td>—</td></tr>
+<tr><td>치료적 테이핑(손은 1st CMC)</td><td>조건부 권고</td><td>조건부 권고</td><td>—</td></tr>
+<tr><td>CBT·온/냉 치료·침</td><td>조건부 권고</td><td>조건부 권고</td><td>조건부 권고</td></tr>
+<tr><td>태극권·마사지</td><td>—</td><td>조건부 권고</td><td>조건부 권고</td></tr>
+<tr><td>파라핀 / 요가</td><td>조건부 권고(파라핀)</td><td>조건부 권고(요가)</td><td>—</td></tr>
+<tr><td>관절염용 장갑</td><td>조건부 권고</td><td>—</td><td>—</td></tr>
+<tr><td>RFA</td><td>—</td><td>조건부 권고</td><td>—</td></tr>
+<tr><td>쐐기 깔창·TENS</td><td>—</td><td>조건부 반대</td><td>조건부 반대</td></tr>
+</tbody></table>
 
-* 무릎과 고관절 OA를 위한 운동에는 걷기, 강화 운동, 수상 운동 등이 있으며 감독을 받으면 더 좋은 결과를 보임
-* multidisciplinary group-based program : skill-building(목표 설정, 문제 해결, 긍정적 사고), 질병/약효/부작용에 대한 교육, 관절 보호, fitness & exercise goals
-* 1st carpometacarpal(CMC) joint OA에 대한 neoprene or rigid orthose는 강한 권고, 그 외 CMC joint에 대한 orthoses는 조건부 권고
-* TF=tibiofemoral, PF=patellofemoral, RFA=radiofrequency ablation
-
-### <mark style="color:orange;">골관절염의 '권고하지 않음' 요법</mark>
-
-<table><thead><tr><th width="260">비-약물·물리/심리사회적 치료</th><th width="90" align="center">HAND</th><th width="90" align="center">KNEE</th><th width="90" align="center">HIP</th></tr></thead><tbody><tr><td>TENS</td><td align="center">-</td><td align="center"><mark style="color:$danger;">강한 권고 안함</mark></td><td align="center">-</td></tr><tr><td>Iontophoresis(HAND) / Manual Therapy ±exercise(KNEE)</td><td align="center">조건부 권고 안함</td><td align="center">조건부 권고 안함</td><td align="center">-</td></tr><tr><td>Massage Therapy</td><td align="center">-</td><td align="center">조건부 권고 안함</td><td align="center">-</td></tr><tr><td>Modified Shoes / Wedged Insoles</td><td align="center">-</td><td align="center">조건부 권고 안함</td><td align="center">-</td></tr><tr><td>Pulsed Vibration Therapy</td><td align="center">-</td><td align="center">조건부 권고 안함</td><td align="center">-</td></tr></tbody></table>
-
-> ✽감별에 참고 : 관절경을 이용한 세정술(lavage) 및 변연절제술(debridement)은 기계적 증상(locking 등)이 뚜렷하지 않은 OA 자체의 통증 완화 목적으로는 권고되지 않음(ACR/AF, AAOS)
-
-Ref. ACR/AF. Guideline for the management of OA of the Hand, Hip, & Knee. 2019
+* 교육·자가 관리, 보행 보조 및 필요한 물리·작업치료 의뢰를 함께 시행
+* TF=tibiofemoral, PF=patellofemoral, CBT=인지행동치료, RFA=고주파 절제술
+* 도수치료는 운동을 대체하지 않으며, NICE NG226은 무릎·고관절 OA에서 운동과 병행하는 경우에만 고려하도록 함
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -282,62 +291,65 @@ Ref. ACR/AF. Guideline for the management of OA of the Hand, Hip, & Knee. 2019
 
 #### <mark style="color:$primary;">NSAID</mark>
 
-* 작용 : 진통 및 항염; 약제 종류에 따른 일반적 효과 차이는 없으나 개인차는 있음 (☞ p.15)
+* 작용 : 진통 및 항염; 약제·용량에 따라 효과·위험이 다르고 개인차가 있음 (☞ p.15)
 * 최소 유효 용량으로 최단 기간 투여
 * 위장관 위험이 높은 경우 심혈관·신장 위험까지 함께 평가하여 COX-2 억제제 또는 NSAID+PPI 등을 선택; 장기 사용 필요성 자체가 COX-2 억제제의 적응증은 아님
 * 주의 : 위궤양·위장 출혈, 만성콩팥병·급성 신손상, 심부전·심혈관 질환, 고혈압·부종; 항응고제 및 이뇨제·ACE 억제제/ARB 병용 여부 확인
-  * 장기 사용 시 주기적인 혈압, CBC, RFT, 대변 잠혈 모니터링을 요함
-* ibuprofen : 400\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
-* naproxen : 500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>, <mark style="color:blue;">\[낙소졸]</mark>(esomeprazole 복합제)
+  * 시작 전 혈압·신기능·복용 약물을 확인; 고위험 환자는 시작·증량 후 조기에 Cr/eGFR·K를 재확인하고 장기 사용 시 혈압·CBC·신기능 등을 주기적으로 평가. 대변 잠혈 검사만으로 NSAID 관련 출혈을 감시하거나 배제하지 않음
+  * 서로 다른 경구 NSAID를 중복 처방하지 않음; NICE NG226은 경구 NSAID 사용 시 위장 보호 치료(PPI 등) 병용을 권고
+* ibuprofen : 예 400 ㎎ tid부터 반응에 따라 조절(필요시 800 ㎎ tid); 저용량으로 충분하면 증량하지 않음 <mark style="color:blue;">\[부루펜]</mark>
+* naproxen : 250\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>; <mark style="color:blue;">\[낙소졸]</mark>은 naproxen/esomeprazole 고정 복합제로 규격별 용법과 적응증 확인(500/20 ㎎ 처방례 참고)
 * celecoxib : COX-2 억제제; 200 ㎎ qd <mark style="color:blue;">\[쎄레브렉스]</mark>
 
 #### <mark style="color:$primary;">Acetaminophen</mark>
 
-* OA에서 1차 치료제로 권고하지 않음; 통증 감소 효과에 대한 근거가 약하고 간독성 우려가 있어 NICE 등 최신 지침에서도 routine 사용을 반복적으로 배제함
+* 진통 효과가 작아 일률적인 1차 선택은 아님. ACR 2026은 조건부 권고, NICE NG226은 다른 약물 치료가 금기·불내성·무효일 때 단기간·간헐적으로만 고려; AAOS 2021 무릎 지침은 권고하므로 지침 간 차이를 구분
 * 주의 : 간/신 기능 저하 환자, 고령, 저체중, 과도한 음주 - 이런 경우 최대 용량을 더 낮춰 고려
-* 용법 : 650\~1,000 ㎎ q8h prn, 최대 3 g/day (이 챕터의 OA 권고 상한이며, 제품 허가상 최대 용량과는 별개이므로 초과 처방 시 유의) <mark style="color:blue;">\[타이레놀]</mark>
+* 용법 예 : 일반정 500\~1,000 ㎎ q8h prn, OA에서는 1일 총량 ≤3 g를 권고 상한으로 사용 [ACR/AF 2019]; 제품 허가상 최대량과 구분하고 복합제·감기약의 acetaminophen을 합산. 서방정은 해당 제품의 용법을 따름 <mark style="color:blue;">\[타이레놀]</mark>
 
 #### <mark style="color:$primary;">Opioid</mark>
 
-* Routine 치료가 아니며, 다른 치료(비-약물 치료, NSAID 등)가 금기·무효이거나 수술·전문의 평가를 기다리는 제한적 상황에서 단기간 저용량부터 고려 (☞ p.12)
-* tramadol : 저용량(예 50 ㎎)부터 시작하여 최대 100 ㎎ bid\~qid까지 점증 <mark style="color:blue;">\[트리돌]</mark>
+* ACR 2026은 tramadol을 포함한 opioid를 조건부 반대; AAOS 2021도 무릎 OA에서 tramadol을 포함한 경구 opioid를 권고하지 않음. NICE는 약한 opioid를 다른 약물 치료가 금기·불내성·무효일 때 단기간·간헐적으로만 고려하고 강한 opioid는 제공하지 않도록 함 (☞ p.12)
+* 예외적으로 tramadol 사용 시 : 일반제형 50 ㎎ 등 저용량부터 최소 기간 사용; 성인 허가 상한 400 ㎎/일. ＞75세 및 신장·간기능 저하 시 배설 지연에 따라 투여간격 연장 등을 고려하고 제형별 허가사항을 확인 <mark style="color:blue;">\[트리돌]</mark>
   * acetaminophen 복합제 <mark style="color:blue;">\[울트라셋]</mark> 사용 시 acetaminophen 총량을 합산; duloxetine·SSRI/SNRI 병용 시 세로토닌 증후군·경련 위험, 고령자에서는 진정·낙상 위험을 고려
-* ✽tramadol 이외의 아편유사제(non-tramadol opioids)는 ACR/AF에서 조건부 권고 안함으로 분류; 낙상·의존 위험을 고려해 다른 치료에 반응하지 않는 중증 통증에 한해 최후 수단으로 신중히 고려
+* ✽tramadol도 낙상·의존·호흡억제 위험이 있으며 자동적인 다음 단계 치료로 제시하지 않음; 다른 치료에 불응하면 진단·수술 가능성·전문의 평가를 우선 재검토
 
 #### <mark style="color:$primary;">항우울제</mark>
 
-* duloxetine : 30 ㎎ qd로 1주 시작 후 60 ㎎ qd <mark style="color:blue;">\[심발타]</mark> - ACR/AF(2019)는 손·무릎·고관절 OA에 조건부 권고; 국내 허가 적응증은 **NSAID에 반응이 적절하지 않은 골관절염 통증**
-  * 60 ㎎/일 초과 시 추가 이득은 확인되지 않음; 오심 등 초기 부작용과 간질환·중증 신장애 여부를 확인하고 반응을 재평가 (보험기준 ☞ p.1177)
-* nortriptyline, amitriptyline 등 삼환계 항우울제(TCA)는 OA 통증 자체에 대한 근거는 충분하지 않으며, neuropathic pain 등 별도 적응증이 동반된 경우에 한해 저용량 사용을 고려 (☞ p.1146); 특히 고령자에서는 항콜린성 부작용·기립성 저혈압·낙상 위험을 고려하여 OA의 1차 진통 목적 병용은 권장하지 않음
+* duloxetine : 30 ㎎ qd로 1주 시작 후 60 ㎎ qd <mark style="color:blue;">\[드록틴]</mark> - ACR 2026은 손·무릎·고관절 OA에 조건부 권고; 국내 허가 적응증은 **NSAID에 반응이 적절하지 않은 골관절염 통증**
+  * 60 ㎎/일 초과 시 추가 이득은 확인되지 않음; 간기능 장애·중증 신장애(CrCl ＜30 ㎖/min)는 금기. OA 허가사항에는 13주 초과 투여의 안전성·유효성이 연구되지 않았다고 명시되어 있어 지속 필요성을 재평가; 중단 시 감량하고 tramadol 병용을 피하거나 신중히 판단 (보험기준 ☞ p.1177)
+* OA 자체에는 TCA·기타 SNRI·pregabalin·gabapentin을 조건부 반대 [ACR 2026]; 신경병증성 통증 등 별도 적응증은 따로 판단 (☞ p.1146). 고령자에서는 항콜린성 부작용·기립성 저혈압·낙상에 유의
 
 #### <mark style="color:$primary;">기타</mark>
 
 * glucosamine <mark style="color:blue;">\[오스테민]</mark>, chondroitin <mark style="color:blue;">\[콘로인]</mark>
-  * 손 OA에는 chondroitin이 조건부 권고이나, 무릎·고관절 OA에는 glucosamine·chondroitin 모두 강한 권고 안함 [ACR/AF 2019]; 다수의 연구에서 단독/병용 모두 위약과 차이 없다는 보고가 근거
-  * 사용하는 경우에는 6개월 투여 후에도 명백한 효과가 없으면 중단할 것을 권고; 보험 적용 여부는 처방 시점의 심평원 급여기준을 확인
-* S-adenosyl-L-methionine <mark style="color:blue;">\[사메론]</mark>, avocado <mark style="color:blue;">\[이모튼]</mark>, soybean : 일부에서 통증 및 기능적 개선 (보험주의); 가이드라인 상 공식 권고 등급은 없음
+  * 손·무릎·고관절 모두 glucosamine·chondroitin 및 복합제를 강하게 반대 [ACR 2026]; 손 chondroitin의 2019년 조건부 권고는 변경됨
+  * 표준 치료로 새로 시작하지 않으며, 이미 복용 중이면 효과·비용을 검토하고 뚜렷한 이득이 없을 때 중단을 논의; 반드시 6개월을 채울 필요는 없음. 보험은 처방 시점 기준 확인
+* S-adenosyl-L-methionine(SAMe) : OA의 핵심 치료로 제시할 근거가 제한적
+* avocado-soybean unsaponifiables(ASU, 아보카도-소야 불검화물 추출물) <mark style="color:blue;">\[이모튼]</mark> : 국내 허가는 **성인 무릎 OA의 증상 완화**; 300.03 ㎎/C 1C qd, 식사와 함께 복용. 아보카도·소야의 별개 요법이 아니며 구조적 진행 억제 효과를 확립된 것으로 설명하지 않음
+* 미란성 손 OA의 methotrexate는 조건부 권고 [ACR 2026]; 국내 OA 적응증 허가 외 사용으로 류마티스내과에서 검토. 모든 손 OA에 확대 적용하지 않음
 
 ### <mark style="color:orange;">경피제</mark>
 
 #### <mark style="color:$primary;">NSAID</mark>
 
-* 무릎 OA에 강한 권고, 손 OA에는 조건부 권고 [ACR/AF 2019]; 고관절 OA에는 적용 부위 특성상 근거 없음
-* 무릎 OA에서는 경구 NSAID보다 먼저 고려할 것을 권고 [OARSI 2019]
-* non-low back 근골격계 손상 급성 통증에 대하여 topical NSAID 적용을 권고 [ACP, AAFP]
+* 무릎·손 OA에 국소 NSAID를 강하게 권고 [ACR 2026]; 고관절은 깊어 관절 통증 개선을 기대하기 어려움
+* 국소제가 적합한 무릎·손 OA에서는 경구 NSAID보다 먼저 고려 [ACR/AF 2019, NICE NG226]
 * ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark>
+  * 광과민 반응 : 사용 중과 중단 후 2주까지 적용 부위를 햇빛·자외선으로부터 보호; 피부 발진 시 중단. 상처·습진 부위에 사용하지 않으며 경구 NSAID와 임의 중복 사용하지 않음
 * piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark>
 
 #### <mark style="color:$primary;">Capsaicin cream</mark>
 
 * 작용 : 감각 신경 말단의 탈감작 효과; 효과 발현까지 2주 이상 소요
-* 무릎 OA에 조건부 권고; 손 OA에는 눈 오염 위험 등으로 조건부 권고 안함 [ACR/AF 2019]; 고관절 OA에는 효과 없음
+* 무릎은 조건부 권고, 손은 조건부 반대 [ACR 2026]; 고관절은 깊어 유의한 효과를 기대하기 어려움
 * 부작용 : 작열감(초기에 심하며 차츰 완화됨)
 * 용법 : 0.075% 크림 qid <mark style="color:blue;">\[다이악센]</mark>
 
 #### <mark style="color:$primary;">Opioid</mark>
 
-* 비마약성 진통제 등 다른 치료로 호전되지 않는 심한 만성 통증에 대하여 고려
-* 부작용 : 어지러움, 기면, 변비, 입마름, 구역, 구토, 두통, 적용 부위 가려움
+* buprenorphine도 opioid 비권고 범주에 해당; OA의 통상적인 국소 치료제로 제시하지 않음. 다른 비마약성 치료에 불응한 중등도·중증 만성 통증에서 예외적으로 전문의와 검토
+* 부작용 : 호흡억제, 진정·낙상, 변비, 구역, 의존 및 적용 부위 반응; 패치는 전신 작용을 하며 가열·절단하지 않음
 * buprenorphine : 5 ㎍/h 패치부터 시작하여 7일마다 교체, 반응에 따라 10 ㎍/h 등으로 조절 <mark style="color:blue;">\[노스판 패취]</mark>
 
 ### <mark style="color:orange;">관절 내 주사</mark>
@@ -345,62 +357,62 @@ Ref. ACR/AF. Guideline for the management of OA of the Hand, Hip, & Knee. 2019
 #### <mark style="color:$primary;">Steroid</mark>
 
 * 대상 : 갑자기 악화된 OA(특히 무릎관절, 고관절), 다른 치료로 호전되지 않는 경우; 열감·급성 삼출 등 감염이 의심되면 관절천자 등으로 먼저 평가하고 감염된 관절에는 주사하지 않음
-* 무릎·고관절 OA에 강한 권고, 손 OA에는 조건부 권고 [ACR/AF 2019]
-* 단기(4\~8주) 증상 완화 효과; 장기 효과는 불분명
+* 무릎·고관절 OA에 강한 권고, 손 OA에 조건부 권고 [ACR 2026]
+* 단기 증상 완화(약 2\~10주, NICE NG226); 반복 투여로 구조적 진행을 억제하는 치료는 아님
 * 고관절은 관절 깊이로 인해 영상 가이드(초음파 또는 투시)로 시술
-  * ✽OARSI 2019는 고관절 OA에서 유효성 근거가 상대적으로 부족함을 지적; ACR/AF의 강한 권고와 온전히 일치하지는 않으므로 임상 상황에 맞게 판단
-* 동일 관절에 대하여 확립된 절대적 상한은 없으며 이전 주사의 효과·지속 기간과 환자 개별 위험을 고려하여 맞춤 결정하는 것이 원칙; 통상 연 3\~4회 이하로 반복하지 않는 경우가 많음 [EULAR]
-* 주사 후 약 24시간은 격렬한 운동이나 과도한 관절 사용을 피하되, 완전한 고정이나 장기간의 비체중부하는 필요하지 않음; 이후 통증을 보며 점진적으로 평소 활동으로 복귀 [EULAR]
+  * ✽OARSI 2019는 고관절·다관절 OA의 관절내 steroid를 권고하지 않으며, ACR의 권고와 다름
+* 동일 관절에 대하여 확립된 절대적 상한은 없으며 이전 주사의 효과·지속 기간과 환자 개별 위험을 고려하여 맞춤 결정하는 것이 원칙; 관행적으로 동일 관절의 연 3\~4회 초과를 피하지만 이 숫자는 검증된 절대 상한이 아님 [EULAR 2021]
+* 주사 후 약 24시간은 과사용을 피하되 완전한 고정은 권하지 않음; 당뇨병 환자는 특히 주사 후 1\~3일간 혈당 상승을 관찰. 관절치환술 예정 시 주사와 수술 간격(통상 최소 3개월)을 담당 정형외과와 확인 [EULAR 2021]
 
 
 #### <mark style="color:$primary;">Hyaluronic acid (HA)</mark>
 
-* 작용 : 관절의 점탄성 회복, chondrocyte 보호, 항염 작용 기대 (보험기준 ☞ p.1192)
+* 작용 : 점탄성 보완을 통한 윤활·통증 완화 기대; 연골 재생이나 구조적 진행 억제는 확립되지 않음 (보험기준 ☞ p.1192)
 
 {% hint style="danger" %}
-**⚠️ 가이드라인 간 입장 차이 - 상용화된 통념과의 괴리**\
-무릎·고관절 OA에서 관절내 HA는 ACR/AF(2019)에서 조건부 권고 안함(무릎) 및 강한 권고 안함(고관절)으로 분류됨. OARSI(2019) 역시 근거 수준이 낮고 제제 간 표준화가 부족함을 지적. 이후 발표된 가이드라인은 부정적 입장이 더 강화되는 추세로, NICE(2022)는 OA 전반에서 HA 주사를 제공하지 말 것을, AAOS(2024)는 고관절 OA에서 위약 대비 기능·통증 개선 이득이 없다는 이유로 강한 반대 권고를 명시함. 국내 임상에서는 널리 사용되고 있으나, steroid 대비 장기 효과가 있다는 일부 연구와 위약 대비 이득이 불확실하다는 메타분석이 공존하므로 환자와 공동 의사결정을 통해 신중히 적용
+**⚠️ HA의 지침별 권고를 구분**\
+ACR 2026은 손·무릎·고관절 관절내 HA에 조건부 반대. NICE NG226은 OA에 제공하지 않도록 권고하며, AAOS는 무릎의 routine 사용을 권고하지 않고 고관절은 강하게 반대함. OARSI 2019는 동반질환에 따라 **무릎에서 선택적인 치료(Level 1B/2)**로 인정하지만 고관절·다관절 OA에는 권고하지 않음. 국내 허가·보험과 국제 권고는 별개이며, 적용 시 제한적인 기대효과·비용을 설명.
 {% endhint %}
 
-* \[히루안 플러스 주] : 1회/주 × 3주 주사; 슬관절, 견관절에 적용
-* \[시노비안 주] : 1회 주사; 슬관절에 적용; BDDE(1,4-butanediol diglycidyl ether) cross-linked sodium hyaluronate 성분
+* <mark style="color:blue;">\[히루안플러스주]</mark> : 1주 1회 1관 × 3주; 허가는 **슬관절 OA 및 견관절주위염**. 견관절주위염의 허가를 견관절 OA 적응증으로 해석하지 않음
+* <mark style="color:blue;">\[시노비안주]</mark> : 슬관절 OA에 1회 1관 주사; 반복 투여 시 간격은 6개월 이상으로 허가사항에 따라 판단. BDDE(1,4-butanediol diglycidyl ether) 가교 sodium hyaluronate 제제
 
 #### <mark style="color:$primary;">Platelet-rich plasma (PRP) 및 줄기세포 주사</mark>
 
-* PRP : ACR/AF(2019)는 무릎·고관절 OA에서 강하게 반대하나, AAOS(2021)는 무릎 OA의 통증·기능 개선 가능성을 제한적 근거로 제시함. 제제·투여법의 이질성과 연구의 불확실성을 설명하고 routine 치료로 제시하지 않음
-* 줄기세포 주사 : ACR/AF(2019)는 무릎·고관절 OA에서 강하게 반대하며, 안전성·유효성이 확립된 표준 치료로 제시하지 않음
-* 논란; 일부 환자에서 초기 OA에 대하여 HA보다 효과적이라는 보고가 있는 반면, 무릎 OA에 대하여 관절 통증 감소나 기능 개선에 있어 위약보다 효과적이지 않다거나 HA보다 열등하다는 보고가 있음. 발목 관절염에 대하여 낮은 수준의 일부 연구에서 효과가 있었으나 보다 큰 규모의 무작위 연구에서는 식염수 주입과 차이가 없었다는 보고가 있음
+* PRP : ACR 2026은 무릎·고관절에서 강하게 반대; AAOS 2021은 무릎의 통증·기능 개선 가능성을 제한적 근거로 제시. 제제·투여법의 이질성과 불확실성을 설명하고 routine 치료로 제시하지 않음
+* 줄기세포 주사 : 무릎·고관절에서 강하게 반대 [ACR 2026]; 배양 세포·지방 유래 제제·골수 농축물·수술과 병행하는 허가된 세포치료제는 서로 동일하지 않으므로 구분
+* 연골 재생·OA 진행 억제를 확립된 효능으로 안내하지 않으며, 국내 시술·제품별 허가 범위와 신의료기술·급여 여부를 개별 확인
 
 #### <mark style="color:$primary;">관절 내 Botulinum Toxin</mark>
 
-* 무릎·고관절 OA에 조건부 권고 안함 [ACR/AF 2019]; 근거 수준 낮음
+* 무릎·고관절 OA에 조건부 권고 안함 [ACR 2026]
 
 #### <mark style="color:$primary;">Polynucleotide (PN) 주사</mark>
 
-* 국내에서 무릎 OA에 HA의 보완 요법으로 널리 사용되는 조직수복용 생체재료(예: 콘쥬란); ACR/AF·OARSI 등 국제 가이드라인에는 별도 항목이 없어 권고 등급이 정립되어 있지 않음
-* 국내 급여기준 : 선별급여로 본인부담률 90% 수준; 급여 인정 투여 횟수·기간 등 세부 기준은 관련 고시 개정 및 행정·법적 절차(집행정지 등)에 따라 변동된 바 있어 처방 시점의 심평원 최신 급여기준을 확인
+* 무릎 OA에 사용하는 의료기기인 조직수복용 생체재료(예: 콘쥬란); 약제인 PDRN과 구분. 주요 국제 OA 지침에서 별도 권고가 정립되어 있지 않으며 연골 재생 효과를 확립된 것으로 설명하지 않음
+* 국내 급여 : 선별급여 대상이나 본인부담률·횟수·주기 기준은 고시 개정과 집행정지에 따라 확인이 필요하여 고정 수치로 단정하지 않음. 심평원 기준의 의약품제제·다른 슬관절강내 주입용 치료재료와 **동일·동시 투여 금지**에 유의; HA와 자동 병용하는 요법으로 제시하지 않음
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-* Prolotherapy(증식치료) : 무릎·고관절 OA에 조건부 권고 안함 [ACR/AF 2019]
-* 관절경 세정술/변연절제술 : locking 등 기계적 증상이 뚜렷하지 않은 통증 완화 목적으로는 권고되지 않음 - ACR/AF 및 AAOS 모두 방향은 일관되게 "권고하지 않음"이나, 근거 등급은 AAOS 2013년판의 Strong에서 2021년 개정판 Moderate로 다소 낮아짐
+* Dextrose prolotherapy(증식치료) : 무릎·고관절에서 조건부 반대 [ACR 2026]
+* 관절경 세정술/변연절제술 : OA 자체의 통증 치료 목적으로 권고하지 않음 [NICE NG226, AAOS 2021(Moderate)]. 단순한 걸림·딸깍거림만으로 예외를 인정하지 않으며, 지속적인 진성 잠김·유리체·급성 손상 등 별도 병변은 정형외과에서 평가.
 * 인공관절 치환술(TKA/THA) : 통증·기능 제한이 삶의 질에 상당한 영향을 주고 적절한 비수술 치료가 무효이거나 부적절한 경우 정형외과 의뢰; 4\~6주 재평가 시점만으로 수술 여부를 결정하지 않음
 
 ***
 
-## <mark style="color:red;">질병코드</mark>
+### <mark style="color:red;">질병코드</mark>
 
-M15 다발관절증
+M15 다발관절증 Polyarthrosis
 
-M16 고관절증(관절증-고관절)
+M16 고관절증(관절증-고관절) Coxarthrosis [arthrosis of hip]
 
-M17 무릎관절증(관절증-무릎)
+M17 무릎관절증(관절증-무릎) Gonarthrosis [arthrosis of knee]
 
-M18 첫째 손목손허리(수근중수)관절의 관절증
+M18 첫째 손목손허리(수근중수)관절의 관절증 Arthrosis of first carpometacarpal joint
 
-M19 기타 관절증
+M19 기타 관절증 Other arthrosis
 
-M19.9 상세불명의 관절증
+M19.9 상세불명의 관절증 Arthrosis, unspecified
 
 ***
 
@@ -412,15 +424,15 @@ M19.9 상세불명의 관절증
 > 케토톱 플라스타  1매  환부 부착 bid
 > ```
 >
-> _✽손 OA에서 국소 NSAID는 조건부 권고. 엄지 기저부의 작은 관절에는 부착 면적·굴곡에 맞는 제품 규격을 확인하고 필요시 겔 제형을 선택_
+> _✽손 OA에서 국소 NSAID는 강한 권고 [ACR 2026]. 엄지 기저부의 작은 관절에는 부착 면적·굴곡에 맞는 제품 규격을 확인하고 필요시 겔 제형을 선택_
 
 > **처방례 2. 일시적·간헐적 통증(다른 치료가 부적절할 때 단기간)**
 >
 > ```
-> 타이레놀 이알서방정 650 ㎎/T  1T  tid prn
+> 타이레놀정 500 ㎎/T  1~2T  q8h prn (1일 최대 6T)
 > ```
 >
-> _✽acetaminophen은 routine 1차 치료가 아니며, NSAID 등이 금기·불내성일 때 단기간 사용; 1T tid = 1일 총량 1.95 g로 이 챕터의 OA 권고 상한(3 g/day) 이내; 고령·저체중·간질환·과음 시 최대 용량을 더 낮춤_
+> _✽다른 치료가 금기·불내성·무효일 때 단기간·간헐적 사용; 일반정 처방이며 1일 총량 3 g 이하. 고령·저체중·간질환·과음 시 더 낮추고 다른 acetaminophen 함유 약을 합산_
 
 > **처방례 3. NSAID 관련 위·십이지장궤양 위험이 있고 저용량 NSAID로 충분하지 않은 무릎/고관절 OA**
 >
@@ -434,18 +446,18 @@ M19.9 상세불명의 관절증
 >
 > ```
 > 케토톱 플라스타  1매  환부 부착 bid (1차)
-> 반응 불충분 시 : 쎄레브렉스 200 ㎎/C  1C  qd (± PPI 병용)
+> 반응 불충분 시 경구제로 전환 검토 : 쎄레브렉스 200 ㎎/C  1C  qd + PPI 병용
 > ```
 >
-> _✽고령·위장관 위험이 높은 환자에서는 국소 NSAID를 먼저 시도. 경구 NSAID가 필요하면 위장관·심혈관·신장 위험을 함께 평가하고 위장관 위험도에 따라 PPI 병용; TCA를 OA 진통 목적으로 통상적으로 병용하지 않음_
+> _✽고령·위장관 위험이 높은 환자에서는 국소 NSAID를 먼저 시도. 경구제가 필요하면 위장관·심혈관·신장 위험을 함께 평가하고, 이 처방례처럼 위장관 위험이 높은 경우 PPI를 병용; TCA를 OA 진통 목적으로 통상적으로 병용하지 않음_
 
 > **처방례 5. 경구 NSAID로 호전 없는 중등도 만성 통증**
 >
 > ```
-> 심발타 30 ㎎/C  1C  qd × 1주 → 심발타 60 ㎎/C  1C  qd
+> 드록틴 30 ㎎/C  1C  qd × 1주 → 드록틴 60 ㎎/C  1C  qd
 > ```
 >
-> _✽국내 허가는 NSAID에 반응이 적절하지 않은 OA 통증; 내약성에 따라 증량 시점을 개별 조절하고 치료 반응·이상반응을 재평가_
+> _✽국내 허가는 NSAID에 반응이 적절하지 않은 OA 통증; 치료 반응·이상반응과 지속 필요성을 재평가. 필요 시 규칙적으로 복용하고 중단 시 감량_
 
 ***
 
@@ -460,19 +472,20 @@ M19.9 상세불명의 관절증
 > **국소(경피) 제제 우선 원칙**
 >
 > * 무릎·손 등 표재성 관절에는 국소 NSAID를 경구제보다 먼저 시도하도록 안내(전신 흡수가 적어 부작용 위험 감소)
-> * 고관절 OA에는 국소제가 효과가 없음을 설명
+> * 고관절은 깊어 국소제의 관절 통증 개선 효과를 기대하기 어려움을 설명
+> * ketoprofen은 사용 중과 중단 후 2주까지 적용 부위를 자외선으로부터 보호
 
 > **관절내 주사 관리**
 >
-> * Steroid 주사는 동일 관절에 통상 연 3\~4회를 넘지 않도록 하고, 주사 후 약 24시간은 과도한 관절 사용을 피하되 장기간의 비체중부하는 필요하지 않음을 안내
+> * Steroid 반복 횟수는 효과·위험에 따라 개별 결정; 관행적인 연 3\~4회가 절대 상한은 아님. 주사 후 24시간은 과사용을 피하고, 당뇨병 환자는 1\~3일 혈당을 관찰
 > * Hyaluronic acid와 PRP는 각각 지침별 권고가 다르며, PRP에 대해서도 ACR/AF와 AAOS의 평가가 다름을 설명하고 기대효과·비용을 함께 검토
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 표준 치료(운동+진통제) 4\~6주 이내에 증상이 호전되지 않는 경우
-> * 관절에 **열감·발적과 함께 급격히 통증이 심해지는** 경우 - 감염성 관절염 감별 위해 즉시 내원
+> * 운동·교육·필요시 약물 치료 후 4\~6주에도 호전되지 않는 경우; 악화 시에는 기다리지 않고 재평가
+> * 관절이 갑자기 심하게 아프고 붓거나 뜨거워지는 경우 - 발열·발적 유무와 무관하게 감염 등을 배제하기 위해 즉시 내원
 > * 원인 불명의 **체중 감소**, 야간 통증이 새로 생기는 경우
-> * 요통 환자에서 **하지 감각 저하, 다리 힘 빠짐, 배뇨·배변 장애**가 동반되는 경우 - 즉시 내원
+> * 요통과 함께 **새 배뇨·배변 장애, 회음부 감각 저하 또는 진행하는 양측 다리 위약**이 생기는 경우 - 즉시 응급 평가; 그 외 새로운 감각 저하·위약도 조기에 평가
 
 ***
 
@@ -491,17 +504,18 @@ M19.9 상세불명의 관절증
 
 ### <mark style="color:orange;">일상생활에서 어떻게 관리하나요?</mark>
 
-* **아프지 않은 범위 내에서 매일 조금씩이라도 운동하십시오.** 걷기, 수영, 실내 자전거처럼 관절에 충격이 적은 운동이 좋습니다. 운동을 쉬면 오히려 관절이 더 뻣뻣해지고 근육이 약해집니다.
-* **체중을 줄이십시오.** 무릎에는 걸을 때 체중의 3\~5배에 이르는 하중이 실리므로, 체중을 조금만 줄여도 통증이 뚜렷하게 줄어듭니다.
+* **견딜 수 있는 범위에서 매일 조금씩 운동하십시오.** 걷기, 수영, 실내 자전거와 근력 운동이 도움이 됩니다. 가볍고 일시적인 불편감은 관절 손상을 뜻하지 않습니다. 통증이 크게 심해지거나 다음날까지 지속되면 강도·시간을 줄이고, 갑작스러운 부종·심한 통증은 진료를 받으십시오.
+* **과체중·비만이라면 체중을 줄이십시오.** 우선 체중의 5% 감량을 목표로 하고, 약 10% 감량하면 더 큰 효과를 기대할 수 있습니다. 정상 체중이라면 유지하고 근육이 줄지 않도록 하십시오.
 * **관절에 무리가 가는 자세나 동작(쪼그려 앉기, 무거운 물건 들기)을 피하십시오.**
 * **온찜질과 냉찜질을 상황에 맞게 활용하십시오.** 뻣뻣함에는 온찜질, 급성 부종·통증에는 냉찜질이 도움이 됩니다.
 * **필요하면 지팡이나 무릎 보호대를 사용하십시오.** 부끄러워하지 않아도 됩니다 - 관절을 보호해 더 오래 걸을 수 있게 해줍니다.
 
 ### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
 
-* 진통제·소염제는 증상이 있을 때 필요한 만큼만 사용하는 것이 원칙입니다. 통증이 없는 날까지 습관적으로 복용하지 마십시오.
+* 소염진통제는 필요한 최소 용량으로 짧게 사용하며, 서로 다른 소염진통제·파스를 임의로 겹쳐 쓰지 마십시오. 둘록세틴처럼 매일 복용해야 하는 약은 처방대로 복용하고 임의로 중단하지 마십시오.
 * 바르는 소염제(파스, 겔)는 먹는 약보다 위장 부담이 적어 무릎이나 손 관절에는 먼저 시도해볼 수 있습니다.
-* 글루코사민·콘드로이친의 통증 완화 효과는 관절 부위와 제품에 따라 연구 결과가 엇갈립니다. 반드시 필요한 치료는 아니며, 사용하더라도 6개월 후 뚜렷한 효과가 없으면 중단을 고려하십시오.
+* 글루코사민·콘드로이친은 최신 ACR 권고에서 손·무릎·고관절 모두 권하지 않습니다. 이미 복용 중이라면 효과·비용을 담당 의사와 검토하고 뚜렷한 도움이 없을 때 중단을 논의하십시오.
+* 케토프로펜 파스·겔을 사용하면 사용 중과 중단 후 2주까지 해당 피부를 햇빛으로부터 보호하십시오.
 
 ### <mark style="color:orange;">이럴 때는 진료를 받으세요</mark>
 
@@ -513,11 +527,21 @@ M19.9 상세불명의 관절증
 
 ## 참고문헌
 
-1. Kolasinski SL, et al. 2019 American College of Rheumatology/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020. [원문](https://pubmed.ncbi.nlm.nih.gov/31908149/)
-2. Bannuru RR, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. *Osteoarthritis Cartilage.* 2019. [원문](https://pubmed.ncbi.nlm.nih.gov/31278997/)
-3. NICE. Osteoarthritis in over 16s: diagnosis and management. NG226, 2022. [권고](https://www.nice.org.uk/guidance/ng226/chapter/recommendations)
-4. AAOS. Management of osteoarthritis of the knee (non-arthroplasty). Third edition, 2021. [원문](https://www.aaos.org/OAK3CPG)
-5. AAOS. Management of osteoarthritis of the hip. 2024. [지침 안내](https://www.aaos.org/aaos-home/newsroom/press-releases/aaos-updates-management-of-hip-osteoarthritis-guideline/)
-6. Rausch Osthoff AK, et al. EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis: 2025 update. *Ann Rheum Dis.* 2026. [논문](https://pubmed.ncbi.nlm.nih.gov/42036268/)
-7. Bliddal H, et al. Once-weekly semaglutide in persons with obesity and knee osteoarthritis. *N Engl J Med.* 2024. [논문](https://pubmed.ncbi.nlm.nih.gov/?term=Once-Weekly+Semaglutide+in+Persons+with+Obesity+and+Knee+Osteoarthritis)
-8. 의약품 허가정보: [낙소졸정500/20㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2013082200006), [심발타캡슐60㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=tgbuow56mj311), [노스판패취5㎍/h](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11APPPPP0767), [케토톱플라스타](https://www.handok.co.kr/product/detail?idx=92). 보험기준은 처방 시점의 심평원 고시 확인.
+1. ACR. **2026 Update of the American College of Rheumatology Recommendations for the Management of Osteoarthritis of the Knee, Hip, and Hand.** 권고 요약본, 2026-09-14 공개(정식 논문 출판 전). [공식 안내](https://rheumatology.org/osteoarthritis-guideline), [요약본](https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/bltb3d12c34020da842/oa-guideline-summary-2026.pdf)
+2. Kolasinski SL, et al. 2019 American College of Rheumatology/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020. [원문](https://pubmed.ncbi.nlm.nih.gov/31908149/)
+3. Bannuru RR, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. *Osteoarthritis Cartilage.* 2019. [원문](https://pubmed.ncbi.nlm.nih.gov/31278997/)
+4. NICE. Osteoarthritis in over 16s: diagnosis and management. NG226, 2022. [권고](https://www.nice.org.uk/guidance/ng226/chapter/recommendations)
+5. AAOS. Management of osteoarthritis of the knee (non-arthroplasty). Third edition, 2021. [원문](https://www.aaos.org/OAK3CPG)
+6. AAOS. Management of osteoarthritis of the hip. 2024. [지침 안내](https://www.aaos.org/aaos-home/newsroom/press-releases/aaos-updates-management-of-hip-osteoarthritis-guideline/)
+7. Rausch Osthoff AK, et al. EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis: 2025 update. *Ann Rheum Dis.* 2026. [논문](https://pubmed.ncbi.nlm.nih.gov/42036268/)
+8. Bliddal H, et al. Once-weekly semaglutide in persons with obesity and knee osteoarthritis. *N Engl J Med.* 2024. [논문](https://pubmed.ncbi.nlm.nih.gov/39476339/)
+9. 의약품 허가정보: [낙소졸정500/20㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2013082200006), [드록틴캡슐60㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2014051500004), [노스판패취5㎍/h](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11APPPPP0767), [케토톱플라스타](https://www.handok.co.kr/product/detail?idx=92). 보험기준은 처방 시점의 심평원 고시 확인.
+10. Uson J, et al. EULAR recommendations for intra-articular therapies. *Ann Rheum Dis.* 2021;80:1299–1305. [원문](https://pubmed.ncbi.nlm.nih.gov/34035002/)
+11. Kim I, et al. The prevalence of knee osteoarthritis in elderly community residents in Korea. *J Korean Med Sci.* 2010;25:293–298. [원문](https://pubmed.ncbi.nlm.nih.gov/20119586/)
+12. 질병관리청. 국가건강정보포털: 골관절염. [국내 역학·질환 정보](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1988)
+13. 종근당. [이모튼캡슐 제품·허가 정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000111); LG화학. [히루안플러스주 제품·허가 정보](https://www.lgchem.com/product-detail/hyruan-plus-inj?lang=ko_KR), [시노비안주 제품·허가 정보](https://www.lgchem.com/product-detail/hyruan-one-inj?lang=ko_KR)
+14. EMA. [Ketoprofen topical: 자외선 노출과 광과민 반응](https://www.ema.europa.eu/en/medicines/human/referrals/ketoprofen-topical)
+15. NHS Specialist Pharmacy Service. [NSAIDs monitoring](https://www.sps.nhs.uk/monitorings/nsaids-monitoring/)
+16. 건강보험심사평가원. [치료재료 급여기준(2024년 자료; PN 동일·동시 투여 제한 참고)](https://www.hira.or.kr/ebooksc/2024/08/BZ202408190383445.pdf). 현행 본인부담률·횟수·기간은 최신 고시 및 집행정지 적용 여부를 별도 확인.
+17. 유한양행. [트리돌캡슐·서방정 제품 및 허가 용법](https://www.yuhan.co.kr/Mobile/Products/List/?Category=299&YPRD_IDX=1795&cid=176&mode=view&p=1&sf=YPRD_SORT&sm=-1)
+18. Australian Commission on Safety and Quality in Health Care. [Osteoarthritis of the Knee Clinical Care Standard (2024)](https://www.safetyandquality.gov.au/clinical-care-standards/osteoarthritis-knee)
