@@ -3,25 +3,27 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 눈꺼풀 분비샘에 발생하는 급성 국소 화농성 염증 또는 감염
-* 겉다래끼(외맥립종)는 속눈썹 모낭과 연관된 Zeis샘 또는 Moll샘에, 속다래끼(내맥립종)는 눈꺼풀판 내 meibomian gland에 발생함
-* 외맥립종은 수일 내 자연 배농되며 호전되는 경우가 많음. 내맥립종은 더 깊고 염증이 심할 수 있으며, 자연 배농되지 않고 농양이나 잔여 결절로 지속될 수 있음
+* 겉다래끼(외맥립종)는 속눈썹 모낭과 연관된 Zeis샘 또는 Moll샘에 발생 ([겉다래끼 이미지](https://my.clevelandclinic.org/health/diseases/17658-stye))
+* 속다래끼(내맥립종)는 눈꺼풀판 내 meibomian gland에 발생 ([속다래끼 이미지](https://my.clevelandclinic.org/health/diseases/24478-internal-stye))
 * 단순하고 국한된 병변은 항생제 없이 회복되는 경우가 많음
 
 ### <mark style="color:orange;">겉다래끼 (외맥립종, External hordeolum, Stye)</mark>
 
-* 발생 부위 : 눈꺼풀 가장자리의 속눈썹 모낭과 Zeis샘 또는 Moll샘 ([겉다래끼 이미지](https://my.clevelandclinic.org/health/diseases/17658-stye))
+* 발생 부위 : 눈꺼풀 가장자리의 속눈썹 모낭과 Zeis샘 또는 Moll샘
 * 눈꺼풀 가장자리 피부 면에 압통성 농포가 관찰됨
 * 안검염·Demodex 감염 등이 동반되면 다발성 또는 재발성일 수 있음
+* 수일 내 자연 배농되며 호전되는 경우가 많음
 
-### <mark style="color:orange;">속다래끼 (내맥립종, Internal hordeolum)</mark>
+### <mark style="color:orange;">속다래끼 (내맥립종, Internal hordeolum, Internal Stye)</mark>
 
 * 발생 부위 : 눈꺼풀판(tarsus) 내 meibomian gland
 * 눈꺼풀 외번 시 결막 면의 발적·종창 또는 농포로 관찰될 수 있음
-* 겉다래끼보다 깊고 넓은 통증성 부종을 보일 수 있음
+* 겉다래끼보다 깊고 넓은 심하고통증성 부종을 보일 수 있음
+* 자연 배농되지 않고 농양이나 잔여 결절로 지속될 수 있음
 
 ## <mark style="color:green;">원인</mark>
 
-* 주로 포도알균(Staphylococcus spp., 특히 S. aureus)에 의한 감염
+* 주로 포도알균(_Staphylococcus_ spp., 특히 _S. aure&#x75;_&#x73;)에 의한 감염
 * 분비샘 폐쇄와 분비물 정체, 안검염·MGD 등이 감염 발생에 관여할 수 있음
 
 ### <mark style="color:orange;">위험 인자</mark>
@@ -91,36 +93,6 @@ _✽속다래끼의 급성 통증과 발적이 사라진 뒤 무통성 결절이
 ***
 
 ```mermaid
-graph TD
-    Start(["눈꺼풀 국소 통증성 발적·종창"]) ---> Q1["Red Flags 즉각 조치 항목?"]
-    Q1 --->|예| ER["즉시 응급실 의뢰"]
-    Q1 --->|아니오| Q2["발적·열감이 주변 눈꺼풀로 확산?"]
-    Q2 --->|예| Q2b["경증이며 외래 치료 요건 충족?"]
-    Q2b --->|예| PS["경구 항생제·24~48시간 재평가"]
-    Q2b --->|아니오| ADM["당일 의뢰·입원·정맥 항생제 평가"]
-    Q2 --->|아니오| Q3["농양·중증 내맥립종 또는 시축·각막 영향?"]
-    Q3 --->|예| ID["안과 의뢰·배농 및 전신 치료 평가"]
-    Q3 --->|아니오| HC["온찜질·눈꺼풀 위생·경과 관찰"]
-    HC ---> Q4["겉다래끼에 세균성 안검염·안검결막염 동반?"]
-    Q4 --->|예| TA["국소 항생제 점안액 선택적 사용"]
-    Q4 --->|아니오| OBS["항생제 없이 관찰"]
-    TA ---> Q5["경과"]
-    OBS ---> Q5
-    Q5 --->|"수일간 호전 없음·커짐·새 통증·발열"| RE["재평가·연조직염 및 농양 확인"]
-    Q5 --->|"2주 이상 잔여 종괴"| CH["산립종 평가·안과 의뢰"]
-    Q5 --->|"재발"| RC["안검염·MGD·Demodex 등 기저 질환 평가"]
-    Q5 --->|"동일 부위 반복·속눈썹 소실·궤양"| MAL["안과 의뢰·조직검사 필요성 평가"]
-
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Q1 fill:#fff9c4,stroke:#ffe082
-    style Q2 fill:#fff9c4,stroke:#ffe082
-    style Q2b fill:#fff9c4,stroke:#ffe082
-    style Q3 fill:#fff9c4,stroke:#ffe082
-    style Q4 fill:#fff9c4,stroke:#ffe082
-    style Q5 fill:#fff9c4,stroke:#ffe082
-    style HC fill:#f96,stroke:#e65100,stroke-width:2px
-    style ER fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    style ADM fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
