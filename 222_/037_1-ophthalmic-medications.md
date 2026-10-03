@@ -113,7 +113,7 @@
 
 * 국소 NSAID는 바이러스 결막염·각막찰과상의 일반 치료제가 아님
 
-## <mark style="color:green;">항생제 점안제</mark>
+## <mark style="color:green;">항생제 점안제·안연고</mark>
 
 {% hint style="info" %}
 **항생제 선택 원칙** \[AAO 2024]\
@@ -129,6 +129,26 @@
 <table><thead><tr><th width="153">계열</th><th width="248">성분 [상품명]</th><th>특징</th></tr></thead><tbody><tr><td><strong>Fluoroquinolone</strong></td><td>levofloxacin 0.5% <mark style="color:blue;">[오큐레보]</mark><br>moxifloxacin 0.5% <mark style="color:blue;">[비가목스]</mark><br>gatifloxacin 0.3% <mark style="color:blue;">[가티플로]</mark><br>ofloxacin 0.3% <mark style="color:blue;">[푸가신]</mark></td><td>성분별 허가 균종과 녹농균 감수성이 다름. 콘택트렌즈 관련 세균각막염이 의심되면 당일 안과 평가 후 녹농균을 포함한 원인균·지역 감수성·병변 중증도에 따라 약제와 점안 빈도를 결정</td></tr><tr><td><strong>Aminoglycoside</strong></td><td>tobramycin 0.3% <mark style="color:blue;">[토브라]</mark></td><td>그람음성균에 강함. 장기·고빈도 사용 시 각막 상피 독성</td></tr></tbody></table>
 
 * 용법 : 제품별 허가 용법(대개 1일 3\~4회)으로 5\~7일; 48\~72시간 내 무호전 시 재평가
+
+### <mark style="color:orange;">항생제 안연고</mark>
+
+* 아래 제제는 corticosteroid를 함유하지 않는 항생제 안연고임. 항생제/corticosteroid 복합제인 <mark style="color:blue;">\[포러스]</mark>, <mark style="color:blue;">\[토브라덱스]</mark>와 구분
+* 감수성균에 의한 안검염·표재성 안감염 등에 사용하며, 안검염에서는 눈꺼풀 위생·온찜질을 병행함. 겉다래끼의 모든 환자에게 일률적으로 처방하지 않음
+
+<table><thead><tr><th width="145">계열</th><th width="260">성분·함량 [상품명]</th><th>대표 용법·특징</th></tr></thead><tbody><tr><td><strong>Fluoroquinolone</strong></td><td>ofloxacin 0.3% (3 ㎎/g)<br><mark style="color:blue;">[오큐프록스 안연고]</mark><br><mark style="color:blue;">[타리비드 안연고]</mark>, <mark style="color:blue;">[에펙신 안연고]</mark> 등</td><td>1일 3회 점안(도포); 증상에 따라 증감. 퀴놀론계 과민증 병력이 있으면 사용하지 않음</td></tr><tr><td><strong>Tetracycline</strong><br><strong>+Polymyxin</strong></td><td>oxytetracycline hydrochloride 5 ㎎/g<br>+polymyxin B sulfate 10,000 단위/g<br><mark style="color:blue;">[테라마이신 안연고]</mark></td><td>약 1.3 ㎝를 1일 2~4회 점안. 감수성균에 의한 결막·각막의 표재성 안감염에 사용. 접촉성 피부염 등 과민반응에 주의하며 임신·수유·영유아 및 8세 이하 소아는 제품별 주의사항 확인</td></tr><tr><td><strong>Aminoglycoside</strong></td><td>tobramycin 0.3% (3 ㎎/g)<br><mark style="color:blue;">[오큐라신 안연고]</mark><br><mark style="color:blue;">[토라신 안연고]</mark> 등</td><td>경증~중등도 감염은 약 1 ㎝를 1일 2~3회 적용. 중증 감염의 허가 용법은 3~4시간마다 약 1 ㎝를 적용한 뒤 호전 시 감량·중단; 중증 안감염은 안과 평가 후 치료. 국소 자극·과민반응과 장기 사용에 따른 비감수성균 증식에 주의</td></tr></tbody></table>
+
+* 사용 방법 : 아래 눈꺼풀을 당겨 결막낭에 제품별 지시량을 넣음. 안검염의 눈꺼풀 가장자리 도포는 처방 지시에 따르며 눈곱·딱지를 제거한 뒤 얇게 바름. 용기 끝이 눈·속눈썹·피부에 닿지 않게 함
+* 점안액과 병용할 때는 점안액을 먼저 사용하고 5분 이상 간격을 둔 뒤 안연고를 마지막에 사용함. 투여 직후 일시적 시야 흐림이 생길 수 있으므로 시야가 회복될 때까지 운전·기계 조작을 피함
+* 치료상 필요한 최소기간 사용하며, 48\~72시간 내 악화·무호전 시 재평가. 세균각막염 의심 시 안연고 처방으로 당일 안과 평가를 지연하지 않으며, 급성 누낭염에서는 전신 항생제를 대체하지 않음
+* 성분·용법 확인 : [오큐프록스 허가정보](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB0308), [테라마이신 제품설명서](https://common.health.kr/shared/images/insert_pdf/IN_A11AGGGGA5796_01.pdf), [오큐라신 허가정보](https://health.kr/searchDrug/result_drug.asp?drug_cd=2019102100038)
+
+{% hint style="warning" %}
+**공급 상태 (2026년 10월 확인)**\
+허가·급여목록 등재와 실제 공급 여부는 다르므로 처방 전 제조사·약국의 최신 공급 상태를 확인함.\
+• 오큐프록스 안연고 5 g은 생산 중단, 타리비드 안연고는 2026년 11월 공급 종료 예정·재고 소진까지 판매로 보도됨 [공급 안내](https://dailypharm.com/user/news/341348)\
+• 토라신 안연고는 공급 중단이 보고되었으며, 오큐라신을 포함한 동일 성분 안연고도 현재 공급 여부를 별도로 확인해야 함 [공급 안내](https://dailypharm.com/user/news/341248)\
+• 테라마이신 안연고는 국내 공급 중단 이력이 있으므로 현재 유통 중인 제품으로 전제하지 않음 [공급 중단 공지](https://www.samsunghospital.com/dept/main/bbsView.do?CID=34098&DP_CODE=PH&MENU_ID=006029&cPage=25)
+{% endhint %}
 
 ### <mark style="color:orange;">질환별 적용 원칙</mark>
 
