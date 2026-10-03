@@ -1,38 +1,45 @@
-# 눈마름증 (안구건조증) Dry Eye Disease (DED)
+# 눈마름증 (안구건조증) Dry Eye Disease
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 눈물막 및/또는 안구 표면 항상성의 소실로 발생하는 다인성 질환
-* 다른 이름 : keratoconjunctivitis sicca, dry eye disease(DED)\
-  ✽2007년 최초 TFOS DEWS부터 "Disease"를 사용해 왔으며 DEWS III도 이를 재강조함. "Syndrome"은 원인 불명의 증후군 뉘앙스가 있어 질환 서술에서는 DED를 선호함(질병코드 등 기존 명칭은 그대로 사용)
-* 정의 \[TFOS DEWS III 2025] : 눈물막 및/또는 안구 표면의 항상성 소실을 특징으로 하는 다인성 증상 질환으로, 눈물막 불안정성·고삼투압, 안구 표면 염증 및 손상, 신경감각 이상(neurosensory abnormality)이 병인에 포함됨
-  * DED 진단에는 증상과 객관적 항상성 이상 소견이 모두 필요함
-  * 증상은 심하지만 징후가 미미한 경우에는 신경병증성 각막통증을, 각막 손상은 심하지만 증상이 미미한 경우에는 각막감각저하·신경영양각막염(neurotrophic keratitis)을 감별
-* 분류 \[TFOS DEWS III 2025] : 환자를 ADDE/EDE 중 하나로만 고정 분류하지 않고, 다음 원인 기전(driver)을 개별적으로 확인하여 복수의 원인을 동시에 치료
-  * 눈물막 결핍 : 지질, 수성 눈물, mucin/glycocalyx
-  * 눈꺼풀 이상 : 불완전 깜박임·안검폐쇄 이상, 안검연 질환·MGD
-  * 안구 표면 이상 : 구조적 이상, 신경기능 이상, 세포 손상·장벽 파괴, 일차 염증·산화스트레스
+* 정의 : 눈물막 및/또는 안구 표면의 항상성 소실을 특징으로 하는 다인성 증상 질환
+  * ① 눈물막 불안정성·고삼투압, ② 안구 표면 염증 및 손상, ③ 신경감각 이상(neurosensory abnormality)
+* 동의어 : keratoconjunctivitis sicca, dry eye disease(DED)
+  * 2007년 TFOS DEWS부터 "Disease"를 사용; "Syndrome"은 원인 불명의 증후군 뉘앙스가 있어 질환 서술에서는 DED를 선호함(질병코드 등 기존 명칭은 그대로 사용)
+* 분류 : 환자를 ADDE/EDE 중 하나로만 고정 분류하지 않고, 다음 원인 기전을 개별적으로 확인하여 복수의 원인을 동시에 치료
+  1. 눈물막 결핍 : 지질, 수성 눈물, mucin/glycocalyx
+  2. 눈꺼풀 이상 : 불완전 깜박임·안검폐쇄 이상, 안검연 질환·MGD
+  3. 안구 표면 이상 : 구조적 이상, 신경기능 이상, 세포 손상·장벽 파괴, 일차 염증·산화스트레스
   * 전통적 임상 표현형인 수성 눈물 결핍형(ADDE), 증발과다형(EDE), 혼합형도 병태 파악에 보조적으로 사용 가능하며 실제로는 중복이 흔함
+* DED 진단에는 증상과 객관적 항상성 이상 소견이 모두 필요함
+  * 증상은 심하지만 징후가 미미한 경우에는 신경병증성 각막통증을 감별
+  * 증상이 미미하지만 각막 손상은 심한 경우에는 각막감각저하·신경영양각막염(neurotrophic keratitis)을 감별
 * 보통 양측 발생
 * 유병률 : 성인의 5\~50%(진단 기준에 따라 범위 광범위); 고령 여성에서 특히 높음
 * 합병증 : 지속성 각막상피결손, 각막염·궤양, 감염, 각막 흉터·신생혈관(중증에서 드묾)
 
 #### <mark style="color:$primary;">눈물막의 구성</mark>
 
-* 전통적으로 점액층·수성층·지질층의 3층 구조로 설명했으나, 현재는 바깥쪽 **지질층**과 그 아래 점액 성분이 농도 구배를 이루며 통합된 **mucoaqueous phase**의 2상 모델을 선호
+* 전통적으로 점액층·수성층·지질층의 3층 구조로 설명했으나, 현재는 바깥쪽 지질층과, 그 아래에서 수성 성분과 점액 성분이 농도 구배를 이루며 통합된 점액수성층(mucoaqueous phase)으로 이루어진 2층 모델을 선호
 * 지질층 : 주로 meibomian gland에서 분비; 눈물막 안정화 및 증발 억제
-* mucoaqueous phase : 눈물샘의 수성 성분과 결막 술잔세포 등의 mucin이 연속적으로 혼합; 윤활·영양 공급·방어 및 눈물막의 고른 퍼짐에 기여
+* mucoaqueous phase : 눈물샘의 수성 성분과 결막 술잔세포 등의 mucin이 연속적으로 혼합
+  * 윤활·영양 공급·방어 및 눈물막의 고른 퍼짐에 기여
 * 각막·결막 상피 표면의 glycocalyx는 눈물막 부착과 안구 표면 항상성 유지에 중요
 
 ## <mark style="color:green;">원인</mark>
 
-#### <mark style="color:$primary;">눈물 생성 부족/감소 (ADDE)</mark>
+#### <mark style="color:$primary;">눈물 생성 부족/감소 (Aqueous deficiency dry eye, ADDE)</mark>
 
 * 눈물샘 기능 부전으로 수성 눈물 생성 감소
 * 유발 요인 : androgen 감소(고령), 눈물샘 결함·침윤(사르코이드증, 림프종 등), Sjögren's syndrome, 이식편대숙주병(GVHD), Stevens-Johnson syndrome, RA, 당뇨병, 눈 수술(예: blepharoplasty, 백내장 수술, 시력 교정술)
-  * 유발약물 : 항히스타민제, 항콜린제, 항우울제, 항불안제·항정신병제, isotretinoin, 항안드로겐제, 폐경 후 호르몬 요법(특히 estrogen 단독), 이뇨제, β-차단제, amiodarone, nicotinic acid
+* 유발약물
+  * 항콜린 작용 : 항히스타민제, 항콜린제
+  * 정신신경계 : 항우울제, 항불안제·항정신병제
+  * 심혈관·대사계 : 이뇨제, β-차단제, amiodarone, nicotinic acid
+  * 내분비계 : 항안드로겐제, 폐경 후 호르몬 요법(특히 estrogen 단독)
+  * 피부과 : isotretinoin
 
-#### <mark style="color:$primary;">Tear film 불안정, 빠른 눈물 증발 (EDE)</mark>
+#### <mark style="color:$primary;">Tear film 불안정, 빠른 눈물 증발 (Evaporative dry eye, EDE)</mark>
 
 * 눈물막 지질층 결핍으로 인한 과도한 눈물 증발
 * Meibomian gland dysfunction(MGD)이 가장 흔한 원인
@@ -54,66 +61,68 @@
 
 * 충혈, 건조, 자극감, 작열감, 가려움, 이물감(모래 느낌), 안구통, 눈부심, 시야 흐림
 * 소량의 점액성 분비물 : 눈물 감소에 따른 점액질 분비 증가에 기인
-* 과도한 눈물(paradoxical tearing) : 안구 표면 자극·손상 → 눈물샘 반사 자극 → 수성 눈물 분비 증가; 눈물흘림이 지속되거나 편측이면 눈물길 질환 등 다른 원인 평가
+* 과도한 눈물(paradoxical tearing) : 안구 표면 자극·손상 → 눈물샘 반사 자극 → 수성 눈물 분비 증가
+  * 눈물 흘림이 지속되거나 편측이면 눈물길의 질환 등 다른 원인 평가
 * 증상-징후 불일치
   * 각막 염색 소견이 경미한데 통증이 심하고 바람·빛·건조 환경 등에 극도로 과민(allodynia)한 경우 → 신경병증성 각막통증 고려
   * 각막 손상·염색은 심하지만 통증이 미미한 경우 → 각막감각저하·신경영양각막염 감별
-  * 국소마취제 점안 후 통증이 현저히 감소하면 말초 각막신경 성분을 지지하지만, 검사와 해석은 안과에서 시행
+  * 국소마취제 점안 후 현저한 통증 감소는 말초 각막신경 관련을 시사하지만, 검사와 해석은 안과에서 시행
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 화학물질(특히 알칼리) 노출  `화학 안구 손상`
-* 관통상 또는 고속 이물에 의한 안구 외상  `개방성 안구 손상` `안구내 이물`
-* 심한 안구통·두통·구역과 함께 급격한 시력 저하  `급성 폐쇄각녹내장`
-* 통증·충혈 유무와 관계없이 갑작스러운 뚜렷한 시력 상실  `망막동맥폐쇄` `망막박리`
+* 화학물질(특히 알칼리) 노출 `화학 안구 손상`
+* 관통상 또는 고속 이물에 의한 안구 외상 `개방성 안구 손상` `안구내 이물`
+* 심한 안구통·두통·구역과 함께 급격한 시력 저하 `급성 폐쇄각녹내장`
+* 통증·충혈 유무와 관계없이 갑작스러운 뚜렷한 시력 상실 `망막동맥폐쇄` `망막박리`
 
-<mark style="color:$warning;">**당일\~수일 내 평가**</mark> <mark style="color:$warning;">- 이 챕터의 아래 항목은 원칙적으로 당일 안과 평가</mark>
+<mark style="color:$warning;">**당일 안과 평가**</mark>
 
-* 깜박여도 호전되지 않는 새 시야 흐림 또는 각막 혼탁  `각막궤양` `감염성 각막염`
-* 콘택트렌즈 착용자에서 충혈과 함께 통증·눈부심·시력저하가 있거나 증상이 지속·악화  `감염성 각막염` `가시아메바 각막염`
-* 화농성 분비물 또는 각막 침윤 의심  `세균성 각막염`
-* 심한 안구통(deep eye pain)·눈부심, 깊은 충혈  `공막염` `포도막염`
-* 한쪽 눈에 갑자기 생긴 통증·눈부심·시력 변화 또는 이물감·분비물 동반  `각막 이물` `감염성 각막염`
-* 안검폐쇄부전이나 각막 감각 저하와 함께 지속성 상피결손  `노출각막병증` `신경영양각막염`
+* 깜박여도 호전되지 않는 새 시야 흐림 또는 각막 혼탁 `각막궤양` `감염성 각막염`
+* 콘택트렌즈 착용자에서 충혈과 함께 통증·눈부심·시력저하가 있거나 증상이 지속·악화 `감염성 각막염` `가시아메바 각막염`
+* 화농성 분비물 또는 각막 침윤 의심 `세균성 각막염`
+* 심한 안구통(deep eye pain)·눈부심, 깊은 충혈 `공막염` `포도막염`
+* 한쪽 눈에 갑자기 생긴 통증·눈부심·시력 변화 또는 이물감·분비물 동반 `각막 이물` `감염성 각막염`
+* 안검폐쇄부전이나 각막 감각 저하와 함께 지속성 상피결손 `노출각막병증` `신경영양각막염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 인공 눈물 등 1차 치료로 4\~6주 내 호전 없음  `난치성 DED`
-* 난치성 증상으로 국소 면역억제제 사용 고려 시  `안구 표면 염증`
-* 각막 염색 소견에 비해 통증이 현저히 심함  `신경병증성 각막통증`
-* 구강건조, 반복되는 침샘종창, 관절통·피로 등 동반  `Sjögren syndrome`
+* 인공 눈물 등 1차 치료로 4\~6주 내 호전 없음 `난치성 DED`
+* 난치성 증상으로 국소 면역억제제 사용 고려 시 `안구 표면 염증`
+* 각막 염색 소견에 비해 통증이 현저히 심함 `신경병증성 각막통증`
+* 구강건조, 반복되는 침샘종창, 관절통·피로 등 동반 `Sjögren syndrome`
 
 ## <mark style="color:green;">진단</mark>
 
 * 단일 확진 검사는 없으며, '증상 + 임상 진찰소견'으로 진단
-* 증상 확인 : OSDI-6(6문항, cut-off ≥4)을 표준 선별 설문으로 권고 \[TFOS DEWS III 2025]
-  * 증상 점수 구간 : 0\~3점 정상, 4\~8점 경증\~중등도, 9\~24점 중증. 이는 증상 중증도 구간이며 객관적 안구 표면 손상까지 포함한 전체 DED 중증도 분류는 아님
-  * 한국어 문항은 검증된 번역본 사용을 원칙으로 하며, 자체 번역을 사용할 경우 그 사실을 명시
+* 증상 확인 : OSDI-6을 표준 선별 설문으로 권고 \[TFOS DEWS III 2025] (☞ 아래 OSDI-6 설문지)
   * DEQ-5는 보조 설문으로 사용할 수 있으나 DEWS III 표준 진단 알고리듬의 동등한 대안은 아님
 * 눈물막 및 안구 표면 항상성 이상 확인 : 증상 양성에 더하여 아래 중 1가지 이상 양성이면 DED 진단
   * non-invasive tear breakup time(NIBUT) : ＜10초(TFOS DEWS III에서 우선 권고)
   * fluorescein tear breakup time(FBUT) : 비침습 검사를 할 수 없을 때 형광염색액을 최소량 점안하고 ＜5초를 양성으로 판정(TFOS DEWS III); ADES 진단기준에서는 TFBUT ≤5초
-  * tear osmolarity : ≥308 mOsm/L (또는 양안 차이 ＞8 mOsm/L)\
-    ✽절단값은 TearLab 장비에서 확립된 값
+  * tear osmolarity : ≥308 mOsm/L (또는 양안 차이 ＞8 mOsm/L)
+    * 절단값은 TearLab 장비에서 확립된 값
   * 안구 표면 염색 : 각막 fluorescein punctate spot ＞5개, 결막 lissamine green spot ＞9개 또는 안검연 염색 길이 ≥2 ㎜이면서 폭 ≥25%
   * 검사는 덜 침습적인 검사부터 시행하며, 첫 검사가 음성이더라도 임상 의심이 지속되면 다른 항상성 검사를 추가
 * Schirmer's test : 5분 후 ≤5 ㎜ wetting → 수성 눈물 결핍 기전 시사(DED 자체의 필수 확진 검사는 아님)
-* MGD 평가 : meibomian gland expressibility, 눈꺼풀 가장자리 관찰; Meibography(마이봄샘 촬영)로 선상 위축·구조적 손상 평가 가능
+* MGD 평가 : meibomian gland expressibility, 눈꺼풀 가장자리 관찰
+  * Meibography(마이봄샘 촬영)로 선상 위축·구조적 손상 평가 가능
 * 임상적으로 Sjögren syndrome이 의심될 때 자가항체(우선 anti-SSA/Ro; 필요 시 ANA·ENA 등) 및 관련 검사를 시행하고 류마티스내과 협진 고려
   * 구강건조, 반복되는 침샘종창, 관절통·피로 등 전신 증상과 현저한 수성 눈물 결핍이 의심을 높임
-  * Schirmer ≤5 ㎜/5분과 안구 염색은 2016 ACR/EULAR 분류기준의 일부일 뿐 단독 진단기준이 아니며, anti-SSB/La 단독 양성은 해당 분류기준 항목이 아님
+  * Schirmer ≤5 ㎜/5분과 안구 염색은 2016 ACR/EULAR 분류기준의 일부일 뿐 단독 진단기준이 아니며, anti-SSB/La 단독 양성은 해당 분류 기준 항목이 아님
 * 갑상선기능검사는 갑상선질환을 시사하는 병력·진찰 소견이 있거나 관련 자가면역질환이 의심될 때 고려
 * 알레르기 질환과의 감별을 요함 (☞ [결막염](038_-conjunctivitis.md#allergic-conjunctivitis))
 * 필요 시 각막 손상 여부 검사(slit-lamp exam)
 
 **OSDI-6 설문지 (Ocular Surface Disease Index 6)**
 
-* 아래 문항은 한국어 번역 예시이며, 정식 선별에 사용할 때는 검증된 한국어판 여부와 사용 조건을 확인
+* 한국어판의 신뢰도·타당도 검증 연구는 아직 확인되지 않음
+* 아래 문항은 TFOS 권고 양식을 옮긴 참고용 번역이며, 절단값은 원판 기준을 준용 ☞ [OSDI-6 설문(Alcon)](https://osdi-6.co.kr/)
 * 지난 한 달 중 일상적인 하루 동안 아래 상황을 경험한 빈도를 항상(4점), 대부분(3점), 절반 정도(2점), 가끔(1점), 전혀 없음(0점)으로 답변
 * 채점/판정 : 각 문항 점수 합산(최저 0점, 최고 24점) → 총점 ≥4이면 건성안 의심
-  * 0\~3점 정상, 4\~8점 경증\~중등도, 9\~24점 중증. 단, 설문 점수만으로 DED의 전체 중증도나 치료 단계를 결정하지 않음
+  * 0\~3점 정상, 4\~8점 경증\~중등도, 9\~24점 중증. 이는 증상 중증도 구간이며 객관적 안구 표면 손상까지 포함한 전체 DED 중증도 분류는 아님
+  * 설문 점수만으로 DED를 진단하거나 치료 단계를 결정하지 않음
 
  \[눈 증상 영역]\
    1. 빛에 눈이 민감하셨나요?\
@@ -151,7 +160,7 @@
 
 #### <mark style="color:$primary;">원인 기전(driver) 평가</mark>
 
-<table><thead><tr><th width="180">영역</th><th width="260">핵심 평가</th><th>치료 방향</th></tr></thead><tbody><tr><td>눈물막 결핍</td><td>지질층·meibum 상태, tear meniscus, Schirmer, mucin/glycocalyx 관련 염색</td><td>성분에 맞춘 윤활제·지질 보충, 눈물 보존 또는 분비 촉진</td></tr><tr><td>눈꺼풀 이상</td><td>불완전 깜박임, 안검폐쇄부전, 안검연염·Demodex·MGD</td><td>깜박임 교정, 온찜질·눈꺼풀 위생, 원인별 안검 치료</td></tr><tr><td>안구 표면 이상</td><td>결막이완증 등 구조 이상, 각막감각, 세포 손상·염색, 염증·산화스트레스</td><td>구조 이상 교정, 항염치료, 신경기능 이상 및 상피 손상 치료</td></tr><tr><td>전신 원인</td><td>Sjögren syndrome, rosacea, 갑상선질환, 약물·수술 관련 요인</td><td>원인 질환 평가·치료 및 관련 약물 조정</td></tr></tbody></table>
+<table><thead><tr><th width="139">영역</th><th>핵심 평가</th><th>치료 방향</th></tr></thead><tbody><tr><td>눈물막 결핍</td><td>지질층·meibum 상태, tear meniscus, Schirmer, mucin/glycocalyx 관련 염색</td><td>성분에 맞춘 윤활제·지질 보충, 눈물 보존 또는 분비 촉진</td></tr><tr><td>눈꺼풀 이상</td><td>불완전 깜박임, 안검폐쇄부전, 안검연염·Demodex·MGD</td><td>깜박임 교정, 온찜질·눈꺼풀 위생, 원인별 안검 치료</td></tr><tr><td>안구 표면 이상</td><td>결막이완증 등 구조 이상, 각막감각, 세포 손상·염색, 염증·산화스트레스</td><td>구조 이상 교정, 항염치료, 신경기능 이상 및 상피 손상 치료</td></tr><tr><td>전신 원인</td><td>Sjögren syndrome, rosacea, 갑상선질환, 약물·수술 관련 요인</td><td>원인 질환 평가·치료 및 관련 약물 조정</td></tr></tbody></table>
 
 * ADDE, EDE 및 혼합형 표현은 임상적 방향 설정에 유용하지만, 한 환자에서 여러 원인 기전이 함께 존재할 수 있으므로 배타적으로 적용하지 않음
 
@@ -159,42 +168,34 @@
 
 * 충혈, 이물감, 불편감이 나타날 수 있는 질환들의 감별
 
-<table><thead><tr><th width="150">질환</th><th width="260">건성안과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>결막염·안검염</td><td>가려움, 눈꺼풀 부종·가피, 화농성 분비물 등이 두드러질 수 있음</td><td>알레르기·감염·안검연 질환을 원인별로 평가</td></tr><tr><td>각막 찰과상·이물·감염성 각막염</td><td>급성 통증, 눈부심, 일측성 충혈, 시력저하; 콘택트렌즈가 위험인자</td><td>fluorescein 염색·slit-lamp 검사; 감염 의심 시 당일 안과 의뢰</td></tr><tr><td>포도막염·공막염·급성 폐쇄각녹내장</td><td>심한 통증·눈부심·시력저하, 깊은 충혈; 녹내장은 두통·구역 동반 가능</td><td>응급 안과 평가</td></tr><tr><td>상공막염<br>(Episcleritis)</td><td>국소적 선홍색 충혈(부채꼴 모양), 해당 부위 압통; 분비물 없음</td><td>재발하거나 진단이 불확실하면 안과 의뢰</td></tr><tr><td>결막이완증<br>(Conjunctivochalasis)</td><td>하결막의 과잉 주름이 각막 하부를 덮고 눈물 분포·배출을 방해</td><td>slit-lamp 검사로 확인; 윤활·항염치료 또는 필요 시 수술적 교정</td></tr><tr><td>신경병증성 각막통증·신경영양각막염</td><td>각막 징후에 비해 통증이 과도하거나, 반대로 손상에 비해 통증이 적음</td><td>각막감각검사와 전문 안과 평가</td></tr></tbody></table>
+<table><thead><tr><th width="165">질환</th><th>건성안과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>결막염·안검염</td><td>가려움, 눈꺼풀 부종·가피, 화농성 분비물 등이 두드러질 수 있음</td><td>알레르기·감염·안검연 질환을 원인별로 평가</td></tr><tr><td>각막 찰과상·이물·감염성 각막염</td><td>급성 통증, 눈부심, 일측성 충혈, 시력저하; 콘택트렌즈가 위험인자</td><td>fluorescein 염색·slit-lamp 검사; 감염 의심 시 당일 안과 의뢰</td></tr><tr><td>포도막염·공막염·급성 폐쇄각녹내장</td><td>심한 통증·눈부심·시력저하, 깊은 충혈; 녹내장은 두통·구역 동반 가능</td><td>응급 안과 평가</td></tr><tr><td>상공막염<br>(Episcleritis)</td><td>국소적 선홍색 충혈(부채꼴 모양), 해당 부위 압통; 분비물 없음</td><td>재발하거나 진단이 불확실하면 안과 의뢰</td></tr><tr><td>결막이완증<br>(Conjunctivochalasis)</td><td>하결막의 과잉 주름이 각막 하부를 덮고 눈물 분포·배출을 방해</td><td>slit-lamp 검사로 확인; 윤활·항염치료 또는 필요 시 수술적 교정</td></tr><tr><td>신경병증성 각막통증·신경영양각막염</td><td>각막 징후에 비해 통증이 과도하거나, 반대로 손상에 비해 통증이 적음</td><td>각막감각검사와 전문 안과 평가</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-
     Start(["안구 불편감 호소 환자"])
-    Start --> RedFlag["Red Flags의 즉각 조치/당일~수일 내 평가 항목에 해당?"]
-    RedFlag -- Yes --> Urgent["즉각 조치 또는 당일 안과 평가"]
+    Start --> RedFlag["Red Flags의 즉각 조치 또는 <br>당일~수일 내 평가 항목에 <br>해당?"]
+    RedFlag -- Yes --> Urgent["즉각 조치 또는 <br>당일 안과 평가"]
     RedFlag -- No --> Screen["OSDI-6 ≥4?"]
-
     Screen -- No --> Signs["객관적 안구 표면 손상?"]
     Signs -- No --> Other["다른 원인 감별"]
-    Signs -- Yes --> Neurotrophic["각막감각저하·신경영양각막염 감별"]
-
-    Screen -- Yes --> Homeo["항상성 검사 / 덜 침습적인 검사부터 시행"]
+    Signs -- Yes --> Neurotrophic["각막감각저하<br>·신경영양각막염 감별"]
+    Screen -- Yes --> Homeo["항상성 검사/<br>덜 침습적인 검사부터<br>시행"]
     Homeo --> Positive["1가지 이상 양성?"]
-    Positive -- No --> Pain["다른 질환 또는 신경병증성 각막통증 감별"]
+    Positive -- No --> Pain["다른 질환 또는 <br>신경병증성 각막통증 <br>감별"]
     Positive -- Yes --> DED["DED 진단"]
-
     DED --> Drivers["복수의 원인 기전 평가"]
-    Drivers --> Tear["눈물막 결핍 / 지질·수성·mucin"]
-    Drivers --> Lid["눈꺼풀 이상 / 깜박임·안검연·MGD"]
-    Drivers --> Surface["안구 표면 이상 / 구조·신경·손상·염증"]
-
+    Drivers --> Tear["눈물막 결핍 / <br>지질·수성·mucin"]
+    Drivers --> Lid["눈꺼풀 이상 / <br>깜박임·안검연·MGD"]
+    Drivers --> Surface["안구 표면 이상 / <br>구조·신경·손상·염증"]
     Tear --> Tx["확인된 기전에 맞춘 복합 치료"]
     Lid --> Tx
     Surface --> Tx
-    Tx --> Follow["치료 반응·순응도·부작용 재평가"]
-
+    Tx --> Follow["치료 반응·순응도<br>·부작용 재평가"]
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style RedFlag fill:#fff9c4,stroke:#ffe082
-    style Screen fill:#fff9c4,stroke:#ffe082
-    style Signs fill:#fff9c4,stroke:#ffe082
-    style Positive fill:#fff9c4,stroke:#ffe082
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class RedFlag,Screen,Signs,Positive,Drivers yellow
     style DED fill:#f96,stroke:#e65100,stroke-width:2px
     style Tear fill:#e1f5fe,stroke:#01579b
     style Lid fill:#fff3e0,stroke:#e65100
@@ -250,7 +251,7 @@ graph TD
 ### <mark style="color:orange;">인공 눈물, 윤활제</mark>
 
 * 1차 선택제
-  * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701\&sno=1\&mtgMtrRegSno=0003) (2026.7.1.) : 건성안증후군에 사용하는 일회용 인공누액제는 동일 기전 내 1종만 급여 인정. sodium hyaluronate 일회용 제제는 내인성 질환에 의한 각결막상피장애 등 인정 범위에서 원칙적으로 1일 최대 6관이며, Sjögren syndrome·Stevens-Johnson syndrome·이식편대숙주병으로 인한 건성안증후군은 용량 제한의 예외
+  * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701\&sno=1\&mtgMtrRegSno=0003) : 건성안증후군에 사용하는 일회용 인공누액제는 동일 기전 내 1종만 급여 인정. sodium hyaluronate 일회용 제제는 내인성 질환에 의한 각결막상피장애 등 인정 범위에서 원칙적으로 1일 최대 6관이며, Sjögren syndrome·Stevens-Johnson syndrome·이식편대숙주병으로 인한 건성안증후군은 용량 제한의 예외
   * 기전 분류 : 눈물대치제(hyaluronate, carboxymethylcellulose, polysorbate 80, polyethylene glycol 400 + propylene glycol), 분비촉진제(diquafosol, rebamipide), 면역조절제(cyclosporine) - 기전이 다른 약제의 병용은 각 약제의 허가사항·세부인정기준 범위 내에서 급여 가능
   * 콘택트렌즈 착용·굴절교정술 후 단순 건조감 등 외인성 원인은 급여 대상에서 제외(외인성 질환 이후 지속되는 내인성 각결막상피장애로 진단된 경우는 인정)
 * 사용 빈도 : 경증 - 증상 시 필요에 따라 사용; 중등도 이상 - 규칙적 사용(qid 이상) 권장
@@ -283,25 +284,28 @@ graph TD
 
 #### <mark style="color:$primary;">점안 분비촉진제</mark>
 
-* diquafosol : P2Y2 수용체 작용제로 결막의 수분·mucin 분비를 촉진; 1회 1방울, 1일 6회 점안 <mark style="color:blue;">\[디쿠아스]</mark>, 1회용 <mark style="color:blue;">\[디쿠아스에스]</mark>, <mark style="color:blue;">\[디쿠아이]</mark>
+* diquafosol : P2Y2 수용체 작용제로 결막의 수분·mucin 분비를 촉진
+  * 1회 1방울, 1일 6회 점안 <mark style="color:blue;">\[디쿠아스]</mark>, 1회용 <mark style="color:blue;">\[디쿠아스에스]</mark>, <mark style="color:blue;">\[디쿠아이]</mark>
   * 다른 점안제와 병용 시 최소 5분 이상 간격
 * rebamipide : mucin 분비 촉진 및 항염 작용; 1회 1방울, 1일 4회 점안 <mark style="color:blue;">\[레바아이]</mark>, <mark style="color:blue;">\[레바케이]</mark>
   * 현탁액이므로 사용 전 흔들어 사용; 쓴맛과 점안 직후 일시적 흐려 보임이 흔함
-* recoflavone 5% <mark style="color:blue;">\[라티카점안액5%]</mark>, <mark style="color:blue;">\[레코듀점안액5%]</mark> : 안구 표면의 점액 분비를 촉진해 성인 안구건조증 환자의 각결막 상피 장애를 개선(2026년 9월 허가, 국산 신약); 1회 1방울, 1일 4회 점안\
-  ✽3상에서 12주 각막염색점수 개선은 위약 대비 통계적으로 유의했으나 차이는 작음. 출시·급여는 확정 후 보완
+* recoflavone 5% : 안구 표면의 점액 분비를 촉진해 성인 안구건조증 환자의 각결막 상피 장애를 개선
+  * 1회 1방울, 1일 4회 점안 <mark style="color:blue;">\[라티카점안액5%]</mark>, <mark style="color:blue;">\[레코듀점안액5%]</mark>
 
 #### <mark style="color:$primary;">비강 분무제 (미허가)</mark>
 
-* varenicline nasal spray : 삼차신경 말단의 nicotinic acetylcholine receptor를 자극하여 반사성 눈물 분비를 유도; 0.03 ㎎을 양쪽 코에 bid; 재채기가 흔함; 제품명 Tyrvaya (미허가)
+* varenicline nasal spray : 삼차신경 말단의 nicotinic acetylcholine receptor를 자극하여 반사성 눈물 분비를 유도
+  * 0.03 ㎎을 양쪽 코에 bid; 재채기가 흔함 (미허가)
 
 #### <mark style="color:$primary;">TRPM8 작용제 (미허가)</mark>
 
-* acoltremon 0.003% 점안액 : 각막의 TRPM8 냉각수용체를 자극하여 눈물 분비를 촉진; FDA 승인(2025); 제품명 Tryptyr (미허가)
+* acoltremon 0.003% 점안액 : 각막의 TRPM8 냉각수용체를 자극하여 눈물 분비를 촉진 (미허가)
 
 #### <mark style="color:$primary;">경구 콜린성 작용제</mark>
 
-* pilocarpine 5 ㎎ tid <mark style="color:blue;">\[살라겐]</mark> : 일반 DED의 routine 치료가 아니라 주로 Sjögren syndrome의 전신 sicca 증상에서 전문의 판단으로 고려; cevimeline은 미허가
-  * 발한, 구역·설사, 빈뇨, 서맥·저혈압, 기관지수축 등의 콜린성 이상반응과 금기·주의사항을 확인
+* pilocarpine : 일반 DED의 routine 치료가 아니라 주로 Sjögren syndrome의 전신 sicca 증상에서 전문의 판단으로 고려; 5 ㎎ tid <mark style="color:blue;">\[살라겐]</mark>&#x20;
+* cevimeline은 미허가
+* 부작용 : 발한, 구역·설사, 빈뇨, 서맥·저혈압, 기관지수축 등의 콜린성 이상반응
 
 ### <mark style="color:orange;">항염제</mark>
 
@@ -316,25 +320,29 @@ graph TD
 
 * 2차 약제
 * 대상 : 안구 건조에 의한 염증 발생, 다른 치료로 호전 안 됨
-* 한계 : 효과 발현까지 보통 1\~3개월 소요; 점안 시 작열감이 흔함; 장기 사용 시 전신 흡수가 낮아 안전성 양호; 이 제제의 사용이 필요한 경우 의뢰 고려
+* 한계 : 효과 발현까지 보통 1\~3개월 소요; 점안 시 작열감이 흔함
+* 장기 사용 시 전신 흡수가 낮아 안전성 양호
+* 이 제제의 사용이 필요한 경우 의뢰 고려
 * cyclosporine 0.05% <mark style="color:blue;">\[레스타시스]</mark> : 일반적으로 1회 1방울 bid
 * cyclosporine 0.1% <mark style="color:blue;">\[아이커비스]</mark> : 인공눈물 치료에도 개선되지 않는 안구건조증 성인 환자의 중증 각막염에서 1회 1방울 qd, 취침 전 점안 권장
-  * 보험기준(2026.7.1. 시행) : cyclosporine 0.05%와 0.1% 모두 일회용 인공누액제 일반원칙에 포함되며, 허가사항과 약제별 세부 인정기준 범위에서 동일 기전 내 1종만 급여 인정 (☞ [보험기준](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12124\&brdScnBltNo=4\&pgmid=HIRAA020002000100))
-* lifitegrast 5% <mark style="color:blue;">\[자이드라]</mark> : LFA-1 길항제(integrin antagonist); 국내 유통 중단
+  * [급여기준](https://www.hira.or.kr/bbsDummy.do?brdBltNo=12124\&brdScnBltNo=4\&pgmid=HIRAA020002000100) : cyclosporine 0.05%와 0.1% 모두 일회용 인공누액제 일반원칙에 포함되며, 허가사항과 약제별 세부 인정기준 범위에서 동일 기전 내 1종만 급여 인정
+* lifitegrast 5% : LFA-1 길항제(integrin antagonist); 국내 유통 중단
 
 ### <mark style="color:orange;">영양 요법</mark>
 
 * 연구 결과가 상반되고 DREAM trial 등에서 유의미한 효과가 확인되지 않아, 결핍이 없는 환자에게 routine 처방하지 않음
-* 오메가-3, γ-linolenic acid, 항산화제 등은 routine 치료로 권고할 근거가 충분하지 않으며, 보조적으로 사용할 경우 안구건조증은 국내 허가 외 사용임을 설명
-* Vit A·B12·D 등은 결핍이 확인된 경우 보충 고려\
-  ✽DREAM 연구에서는 오메가-3 총 3 g/일(EPA 2 g + DHA 1 g)을 12개월간 투여했으나 olive-oil placebo보다 유의한 호전을 보이지 못함 \[NEJM 2018]
+* 오메가-3, γ-linolenic acid, 항산화제 등은 routine 치료로 권고할 근거가 충분하지 않음; 안구건조증은 허가 외 사용
+  * DREAM 연구에서는 오메가-3 총 3 g/일(EPA 2 g + DHA 1 g)을 12개월간 투여했으나 olive-oil placebo보다 유의한 호전을 보이지 못함 \[NEJM 2018]
+* Vit A·B12·D 등은 결핍이 확인된 경우 보충 고려
 
 ### <mark style="color:orange;">항생제</mark>
 
 * 대상 : 2차 감염, MGD, rosacea, blepharitis
 * 국소 항생제 (☞ [안과계 약제](037_1-ophthalmic-medications.md#undefined-10))
-* 전신 항생제 : 보존치료에 반응하지 않는 중등도\~중증 MGD 또는 ocular rosacea에서 doxycycline 등을 안과 판단으로 제한적으로 고려(국내 허가 외 사용)\
-  ✽용량·기간은 연구마다 다양하며 장기간 routine 사용 근거는 제한적이다. 위장관 장애·식도염·광과민, 임신·수유 및 소아 사용 제한, 약물상호작용을 확인하고 통상 6\~12주 이내 반응을 재평가. 식도 자극을 줄이기 위해 충분한 물과 함께 복용하고 복용 후 최소 30분간 눕지 않도록 안내
+* 전신 항생제 : 보존치료에 반응하지 않는 중등도\~중증 MGD 또는 ocular rosacea에서 doxycycline 등을 안과 판단으로 제한적으로 고려(국내 허가 외 사용)
+* 용량·기간은 연구마다 다양하며 장기간 routine 사용 근거는 제한적
+* 위장관 장애·식도염·광과민, 임신·수유 및 소아 사용 제한, 약물상호작용을 확인하고 통상 6\~12주 이내 반응을 재평가
+* 식도 자극을 줄이기 위해 충분한 물과 함께 복용하고 복용 후 최소 30분간 눕지 않도록 안내
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -346,9 +354,12 @@ graph TD
 
 #### <mark style="color:$primary;">기기 치료 - MGD 동반 난치성 건성안</mark>
 
-* IPL (Intense Pulsed Light) : 항염 및 meibomian gland 기능 개선을 목적으로 사용; 일부 연구에서 증상·TBUT 개선이 보고되었으나 연구 간 이질성과 근거 확실성의 한계가 있음
-* LipiFlow (thermal pulsation) : 12분 1회 시술로 meibomian gland 기능 개선을 유도; 일부 추적 연구에서 장기간 효과가 보고되었으나 개인차가 크고 반복 치료가 필요할 수 있음
-* 두 치료 모두 국내 비급여 시술로 시행 가능; routine 1차 치료가 아니라 보존·약물 치료로 조절되지 않는 MGD 관련 건성안에서 안과가 적응증·금기와 기대 효과를 평가하여 선택
+* IPL (Intense Pulsed Light) : 항염 및 meibomian gland 기능 개선을 목적으로 사용
+  * 일부 연구에서 증상·TBUT 개선이 보고되었으나 연구 간 이질성과 근거 확실성의 한계가 있음
+* LipiFlow (thermal pulsation) : 12분 1회 시술로 meibomian gland 기능 개선을 유도
+  * 일부 추적 연구에서 장기간 효과가 보고되었으나 개인차가 크고 반복 치료가 필요할 수 있음
+* 두 치료 모두 국내 비급여 시술로 시행 가능
+  * routine 1차 치료가 아니라 보존·약물 치료로 조절되지 않는 MGD 관련 건성안에서 안과가 적응증·금기와 기대 효과를 평가하여 선택
 
 #### <mark style="color:$primary;">중증·난치성 DED의 전문 치료</mark>
 
@@ -364,7 +375,7 @@ graph TD
 * H04.11 건성안증후군 Dry eye syndrome
 * H04.9 눈물계통의 상세불명 장애 Disorder of lacrimal system, unspecified
 
-✽KCD-9(2026.1.1. 시행) 기준. 단순 건성안에는 구체적인 H04.11을 우선하며 H04.1 또는 H04.9를 대체 코드처럼 일률적으로 사용하지 않음. 각결막염, Sjögren syndrome 등 원인 질환이 확진된 경우에는 해당 원인 질환 코드를 우선 또는 함께 사용
+> KCD-9(2026.1.1. 시행) 기준. 단순 건성안에는 구체적인 H04.11을 우선하며 H04.1 또는 H04.9를 대체 코드처럼 일률적으로 사용하지 않음. 각결막염, Sjögren syndrome 등 원인 질환이 확진된 경우에는 해당 원인 질환 코드를 우선 또는 함께 사용
 
 ***
 
