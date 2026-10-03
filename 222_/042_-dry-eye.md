@@ -290,7 +290,7 @@ graph TD
   * 다른 점안제와 병용 시 최소 5분 이상 간격
 * rebamipide : mucin 분비 촉진 및 항염 작용; 1회 1방울, 1일 4회 점안 <mark style="color:blue;">\[레바아이]</mark>, <mark style="color:blue;">\[레바케이]</mark>
   * 국내 레바아이·레바케이는 투명 용액 제형
-* recoflavone 5% : 안구 표면의 점액 분비를 촉진해 성인 안구건조증 환자의 각결막 상피 장애를 개선(2026년 9월 8일 허가; 2026년 10월 기준 출시·급여 여부 미확인)
+* recoflavone 5% : 안구 표면의 점액 분비를 촉진해 성인 안구건조증 환자의 각결막 상피 장애를 개선(2026년 9월 8일 허가)
   * 1회 1방울, 1일 4회 점안 <mark style="color:blue;">\[라티카점안액5%]</mark>, <mark style="color:blue;">\[레코듀점안액5%]</mark>
 
 #### <mark style="color:$primary;">비강 분무제 (미허가)</mark>
