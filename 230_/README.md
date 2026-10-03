@@ -19,6 +19,10 @@
 •WHO clinical treatment guideline for tobacco cessation in adults. WHO (2024)\
 •Obesity in adults: a clinical practice guideline. CMA (2020)\
 •European practical & patient-centred guidelines for adult obesity management. EASO (2019)\
+•European Association for the Study of Obesity Position Statement on the Diagnosis and Management of Obesity in Older Adults. Di Vincenzo O, et al. EASO (2025년 온라인 발표; Obes Facts. 2026;19(4):422–437). [doi:10.1159/000549751](https://doi.org/10.1159/000549751)\
+•Definition and Diagnostic Criteria for Sarcopenic Obesity: ESPEN and EASO Consensus Statement. Donini LM, et al. ESPEN/EASO (2022; Obes Facts. 15(3):321–335). [doi:10.1159/000521241](https://doi.org/10.1159/000521241)\
+•ESPEN practical guideline: Clinical nutrition and hydration in geriatrics. Volkert D, et al. ESPEN (2022; Clin Nutr. 41:958–989). [doi:10.1016/j.clnu.2022.01.024](https://doi.org/10.1016/j.clnu.2022.01.024)\
+•2022 ASMBS/IFSO Indications for Metabolic and Bariatric Surgery. Eisenberg D, et al. ASMBS/IFSO (2022년 온라인 발표; Obes Surg. 2023;33:3–14). [doi:10.1007/s11695-022-06332-1](https://doi.org/10.1007/s11695-022-06332-1)\
 •비만 진료지침. 대한비만학회 (2024, 2018)\
 •Clinical practice guidelines for comprehensive medical care of patients with obesity. AACE/ACE (2016)\
 •AGA Clinical Practice Guideline on Pharmacological Interventions for Adults with Obesity. AGA (2022)\
