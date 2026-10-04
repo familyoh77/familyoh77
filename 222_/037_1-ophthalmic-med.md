@@ -40,7 +40,7 @@
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 {% hint style="info" %}
-아래 소견이 있으면 점안제 처방으로 의뢰를 지연하지 않음. 특히 corticosteroid·국소 NSAID·국소 마취제를 경험적으로 처방하기 전에 각막 병변과 감염 가능성을 먼저 배제해야 함. 약물 사용 중 나타나는 위험 신호도 함께 확인.
+아래 소견이 있으면 점안제 처방으로 의뢰를 지연하지 않음. 특히 corticosteroid·국소 NSAID·국소 마취제를 경험적으로 처방하기 전에 각막 병변 유무와 감염 가능성을 먼저 평가해야 함. 약물 사용 중 나타나는 위험 신호도 함께 확인.
 {% endhint %}
 
 <mark style="color:$danger;">**즉각 조치**</mark>
@@ -106,12 +106,13 @@
 ## <mark style="color:green;">국소 NSAID</mark>
 
 {% hint style="danger" %}
-국소 NSAID는 각막염, 상피결손, 각막 얇아짐·미란·궤양·융해·천공을 일으킬 수 있음. 각막찰과상이나 원인 불명의 통증성 충혈에 경험적으로 사용하지 않으며, 상피결손이 확인되면 중단하고 안과 평가를 시행하며, corticosteroid 점안제와 병용하면 각막 치유 지연 위험이 커짐.
+국소 NSAID는 각막염, 상피결손, 각막 얇아짐·미란·궤양·융해·천공을 일으킬 수 있음. 원인 불명의 통증성 충혈이나 감염성 각막염 의심 시 경험적으로 사용하지 않음. 확진된 단순 각막 찰과상에서는 일부 국소 NSAID를 짧게 보조적으로 고려할 수 있으나 약제별 근거와 허가 여부를 확인함. 투여 중 상피 결손이 새로 생기거나 확대되면, 또는 치유 지연·침윤이 나타나면 중단하고 안과 평가함. corticosteroid 점안제와 병용하면 각막 치유 지연 위험이 커짐.
 {% endhint %}
 
-<table><thead><tr><th width="218">성분 [상품명]</th><th>주요 허가 영역</th><th>비고</th></tr></thead><tbody><tr><td>ketorolac tromethamine 0.5% <mark style="color:blue;">[키톨락]</mark></td><td>알레르기 결막염 소양증 등</td><td>제품별 허가사항과 용법을 확인</td></tr><tr><td>ketorolac tromethamine 0.45% <mark style="color:blue;">[아큐베일]</mark></td><td>백내장 수술 후 염증</td><td>수술 1일 전부터 수술일 및 수술 후 2주까지 1적 bid. 0.5% 제제와 구분</td></tr><tr><td>pranoprofen 0.1% <mark style="color:blue;">[니프란]</mark></td><td>외안부·전안부 염증</td><td>1적 qid. 1차 진료에서 흔히 쓰이나 각막 병변 배제 후 단기간 사용</td></tr><tr><td>bromfenac 0.1% <mark style="color:blue;">[브로낙]</mark></td><td>수술 후 또는 외안부·전안부 염증</td><td>1적 bid. 안과 진단 후 단기간 사용</td></tr><tr><td>nepafenac 0.1% <mark style="color:blue;">[네바낙]</mark></td><td>백내장 수술 후 통증·염증</td><td>현탁액; 흔들어 사용, 1적 tid</td></tr><tr><td>diclofenac 0.1%</td><td>수술 후 또는 허가된 외안부·전안부 염증</td><td>안과 진단 후 단기간 사용</td></tr></tbody></table>
+<table><thead><tr><th width="218">성분 [상품명]</th><th>주요 허가 영역</th><th>비고</th></tr></thead><tbody><tr><td>ketorolac tromethamine 0.5% <mark style="color:blue;">[키톨락]</mark></td><td>알레르기 결막염 소양증 등</td><td>제품별 허가사항과 용법을 확인</td></tr><tr><td>ketorolac tromethamine 0.45% <mark style="color:blue;">[아큐베일]</mark></td><td>백내장 수술 후 염증</td><td>수술 1일 전부터 수술일 및 수술 후 2주까지 1적 bid. 0.5% 제제와 구분</td></tr><tr><td>pranoprofen 0.1% <mark style="color:blue;">[니프란]</mark></td><td>외안부·전안부 염증</td><td>1적 qid. 1차 진료에서 흔히 쓰이나 각막 병변 배제 후 단기간 사용</td></tr><tr><td>bromfenac 0.1% <mark style="color:blue;">[브로낙]</mark></td><td>수술 후 또는 외안부·전안부 염증</td><td>1적 bid. 안과 진단 후 단기간 사용. 각막 찰과상 진통 목적은 허가 외 사용이며 직접 근거 제한적.<br>금기 : 이 약 성분 과민증, aspirin 또는 다른 COX 억제제 투여 후 천식·가려움·급성 비염 병력, <strong>임부 (임신 6개월 이후)</strong></td></tr><tr><td>nepafenac 0.1% <mark style="color:blue;">[네바낙]</mark></td><td>백내장 수술 후 통증·염증</td><td>현탁액; 흔들어 사용, 1적 tid</td></tr><tr><td>diclofenac 0.1%</td><td>수술 후 또는 허가된 외안부·전안부 염증</td><td>안과 진단 후 단기간 사용</td></tr></tbody></table>
 
 * 국소 NSAID는 바이러스 결막염·각막찰과상의 일반 치료제가 아님
+* 브로낙 금기·용법 확인 : [식약처 허가정보](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507252)
 
 ## <mark style="color:green;">항생제 점안제·안연고</mark>
 
@@ -135,19 +136,20 @@
 * 아래 제제는 corticosteroid를 함유하지 않는 항생제 안연고임. 항생제/corticosteroid 복합제인 <mark style="color:blue;">\[포러스]</mark>, <mark style="color:blue;">\[토브라덱스]</mark>와 구분
 * 감수성균에 의한 안검염·표재성 안감염 등에 사용하며, 안검염에서는 눈꺼풀 위생·온찜질을 병행함. 겉다래끼의 모든 환자에게 일률적으로 처방하지 않음
 
-<table><thead><tr><th width="145">계열</th><th width="260">성분·함량 [상품명]</th><th>대표 용법·특징</th></tr></thead><tbody><tr><td><strong>Fluoroquinolone</strong></td><td>ofloxacin 0.3% (3 ㎎/g)<br><mark style="color:blue;">[오큐프록스 안연고]</mark><br><mark style="color:blue;">[타리비드 안연고]</mark>, <mark style="color:blue;">[에펙신 안연고]</mark> 등</td><td>1일 3회 점안(도포); 증상에 따라 증감. 퀴놀론계 과민증 병력이 있으면 사용하지 않음</td></tr><tr><td><strong>Tetracycline</strong><br><strong>+Polymyxin</strong></td><td>oxytetracycline hydrochloride 5 ㎎/g<br>+polymyxin B sulfate 10,000 단위/g<br><mark style="color:blue;">[테라마이신 안연고]</mark></td><td>약 1.3 ㎝를 1일 2~4회 점안. 감수성균에 의한 결막·각막의 표재성 안감염에 사용. 접촉성 피부염 등 과민반응에 주의하며 임신·수유·영유아 및 8세 이하 소아는 제품별 주의사항 확인</td></tr><tr><td><strong>Aminoglycoside</strong></td><td>tobramycin 0.3% (3 ㎎/g)<br><mark style="color:blue;">[오큐라신 안연고]</mark><br><mark style="color:blue;">[토라신 안연고]</mark> 등</td><td>경증~중등도 감염은 약 1 ㎝를 1일 2~3회 적용. 중증 감염의 허가 용법은 3~4시간마다 약 1 ㎝를 적용한 뒤 호전 시 감량·중단; 중증 안감염은 안과 평가 후 치료. 국소 자극·과민반응과 장기 사용에 따른 비감수성균 증식에 주의</td></tr></tbody></table>
+<table><thead><tr><th width="145">계열</th><th width="260">성분·함량 [상품명]</th><th>대표 용법·특징</th></tr></thead><tbody><tr><td><strong>Fluoroquinolone</strong></td><td>ofloxacin 0.3% (3 ㎎/g)<br><mark style="color:blue;">[퀴노비드 안연고]</mark> 5 g<br><mark style="color:blue;">[에펙신 안연고]</mark> 등</td><td>1일 3회 점안(도포); 증상에 따라 증감. 퀴놀론계 과민증 병력이 있으면 사용하지 않음. 제품별 포장 단위·공급 여부 확인</td></tr><tr><td><strong>Aminoglycoside</strong></td><td>tobramycin 0.3% (3 ㎎/g)<br><mark style="color:blue;">[오큐라신 안연고]</mark></td><td>경증~중등도 감염은 약 1 ㎝를 1일 2~3회 적용. 중증 감염의 허가 용법은 3~4시간마다 약 1 ㎝를 적용한 뒤 호전 시 감량·중단; 중증 안감염은 안과 평가 후 치료. 각막 상피 독성 가능성을 고려하여 대안으로 사용. 국소 자극·과민반응과 장기 사용에 따른 비감수성균 증식에 주의; 현재 공급 여부 확인</td></tr></tbody></table>
 
 * 사용 방법 : 아래 눈꺼풀을 당겨 결막낭에 제품별 지시량을 넣음. 안검염의 눈꺼풀 가장자리 도포는 처방 지시에 따르며 눈곱·딱지를 제거한 뒤 얇게 바름. 용기 끝이 눈·속눈썹·피부에 닿지 않게 함
 * 점안액과 병용할 때는 점안액을 먼저 사용하고 5분 이상 간격을 둔 뒤 안연고를 마지막에 사용함. 투여 직후 일시적 시야 흐림이 생길 수 있으므로 시야가 회복될 때까지 운전·기계 조작을 피함
 * 치료상 필요한 최소기간 사용하며, 48\~72시간 내 악화·무호전 시 재평가. 세균각막염 의심 시 안연고 처방으로 당일 안과 평가를 지연하지 않으며, 급성 누낭염에서는 전신 항생제를 대체하지 않음
-* 성분·용법 확인 : [오큐프록스 허가정보](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB0308), [테라마이신 제품설명서](https://common.health.kr/shared/images/insert_pdf/IN_A11AGGGGA5796_01.pdf), [오큐라신 허가정보](https://health.kr/searchDrug/result_drug.asp?drug_cd=2019102100038)
+* 성분·용법 확인 : [퀴노비드 식약처 허가정보](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199402221), [오큐라신 허가정보](https://health.kr/searchDrug/result_drug.asp?drug_cd=2019102100038)
 
 {% hint style="warning" %}
 **공급 상태 (2026년 10월 확인)**\
 허가·급여목록 등재와 실제 공급 여부는 다르므로 처방 전 제조사·약국의 최신 공급 상태를 확인함.\
-• 오큐프록스 안연고 5 g은 생산 중단, 타리비드 안연고는 2026년 11월 공급 종료 예정·재고 소진까지 판매로 보도됨 [공급 안내](https://dailypharm.com/user/news/341348)\
+• 오큐프록스 안연고 5 g은 생산 중단, 타리비드 안연고는 2026년 11월 공급 종료 예정·재고 소진까지 판매로 보도됨 [공급 안내](https://dailypharm.com/user/news/341348). 오큐프록스 3.5 g의 현재 지속 공급 여부는 확인되지 않아 공급 가능한 대체 포장으로 전제하지 않음\
+• 퀴노비드 안연고의 국내 허가 포장은 5 g이며, 2026년 7월 병원 입고가 확인됨 [입고 안내](https://www.fatima.or.kr/main/contents.do?a_num=88924595&b_num=3515&proc_type=view). 입고 이력만으로 현재 재고를 보장할 수 없으므로 처방 전 공급 여부 확인\
 • 토라신 안연고는 공급 중단이 보고되었으며, 오큐라신을 포함한 동일 성분 안연고도 현재 공급 여부를 별도로 확인해야 함 [공급 안내](https://dailypharm.com/user/news/341248)\
-• 테라마이신 안연고는 국내 공급 중단 이력이 있으므로 현재 유통 중인 제품으로 전제하지 않음 [공급 중단 공지](https://www.samsunghospital.com/dept/main/bbsView.do?CID=34098&DP_CODE=PH&MENU_ID=006029&cPage=25)
+• 테라마이신 안연고는 식약처 품목정보상 취소/취하 구분이 유효기간만료, 일자가 2025-10-01로 표시되어 현재 유효한 허가 품목으로 전제하지 않음 [식약처 품목정보](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008819)
 {% endhint %}
 
 ### <mark style="color:orange;">질환별 적용 원칙</mark>
@@ -263,7 +265,7 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 
 ## <mark style="color:green;">안과계 주요 약제 요약</mark>
 
-<table data-search="false"><thead><tr><th width="170">분류</th><th width="225">대표 성분·제품</th><th>핵심 원칙</th></tr></thead><tbody><tr><td><strong>인공눈물</strong></td><td>hyaluronate, CMC, povidone, carbomer</td><td>1회 1방울; 잦은 장기 사용·안구표면질환에서는 무방부제 우선 고려</td></tr><tr><td><strong>지질 함유 제제</strong></td><td>지질 함유 인공눈물</td><td>증발과다형·MGD에서 원인에 맞추어 선택</td></tr><tr><td><strong>분비촉진제</strong></td><td>rebamipide, diquafosol</td><td>제품별 점안 횟수와 현탁액 혼화법 확인</td></tr><tr><td><strong>항알레르기제</strong></td><td>olopatadine, ketotifen, alcaftadine</td><td>가려움 중심의 단순 알레르기 결막염에서 1차 선택</td></tr><tr><td><strong>항생제</strong></td><td>tobramycin, fluoroquinolone</td><td>바이러스 결막염에는 사용하지 않으며 각막염 의심 시 당일 의뢰</td></tr><tr><td><strong>국소 NSAID</strong></td><td>ketorolac, pranoprofen, bromfenac, nepafenac</td><td>각막 상피결손·찰과상에 경험적 사용 금지</td></tr><tr><td><strong>Corticosteroid·복합제</strong></td><td>fluorometholone, loteprednol, dexamethasone 복합제</td><td>안과 진단 후 최소 기간 사용하고 안압·감염·각막을 추적</td></tr><tr><td><strong>항바이러스제</strong></td><td>ganciclovir gel</td><td>급성 HSV 상피각막염(수지상 궤양)</td></tr><tr><td><strong>국소 마취제</strong></td><td>proparacaine</td><td>진찰·처치용 전용; 가정용 처방 금지</td></tr><tr><td><strong>Demodex 치료제</strong></td><td>lotilaner 0.25%</td><td>미국 허가; 미허가</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="170">분류</th><th width="225">대표 성분·제품</th><th>핵심 원칙</th></tr></thead><tbody><tr><td><strong>인공눈물</strong></td><td>hyaluronate, CMC, povidone, carbomer</td><td>1회 1방울; 잦은 장기 사용·안구표면질환에서는 무방부제 우선 고려</td></tr><tr><td><strong>지질 함유 제제</strong></td><td>지질 함유 인공눈물</td><td>증발과다형·MGD에서 원인에 맞추어 선택</td></tr><tr><td><strong>분비촉진제</strong></td><td>rebamipide, diquafosol</td><td>제품별 점안 횟수와 현탁액 혼화법 확인</td></tr><tr><td><strong>항알레르기제</strong></td><td>olopatadine, ketotifen, alcaftadine</td><td>가려움 중심의 단순 알레르기 결막염에서 1차 선택</td></tr><tr><td><strong>항생제</strong></td><td>tobramycin, fluoroquinolone</td><td>바이러스 결막염에는 사용하지 않으며 각막염 의심 시 당일 의뢰</td></tr><tr><td><strong>국소 NSAID</strong></td><td>ketorolac, pranoprofen, bromfenac, nepafenac</td><td>일반·경험적 사용 금지. 확진된 단순 각막 찰과상의 선별적 단기 보조 사용은 약제별 근거·허가 여부 확인; 상피 결손 확대·치유 지연·침윤 시 중단하고 안과 평가</td></tr><tr><td><strong>Corticosteroid·복합제</strong></td><td>fluorometholone, loteprednol, dexamethasone 복합제</td><td>안과 진단 후 최소 기간 사용하고 안압·감염·각막을 추적</td></tr><tr><td><strong>항바이러스제</strong></td><td>ganciclovir gel</td><td>급성 HSV 상피각막염(수지상 궤양)</td></tr><tr><td><strong>국소 마취제</strong></td><td>proparacaine</td><td>진찰·처치용 전용; 가정용 처방 금지</td></tr><tr><td><strong>Demodex 치료제</strong></td><td>lotilaner 0.25%</td><td>미국 허가; 미허가</td></tr></tbody></table>
 
 ***
 
