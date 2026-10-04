@@ -6,10 +6,10 @@
 * IgE 매개 알레르기뿐 아니라 비-IgE 매개 기전으로도 발생할 수 있으므로, '감작된 사람에서 특정 항원에 노출된 경우'로 한정하지 않는다.
 * 치료의 핵심은 조기 인지와 신속한 대퇴부 근육주사 epinephrine이다. 진단기준을 완전히 충족할 때까지 투여를 미루지 않는다.
 * 평생 유병률은 미국 자료에서 약 1.6\~5.1%로 보고되지만, 연구 대상과 진단기준에 따라 차이가 크다.
-* **Biphasic anaphylaxis** : 초기 증상이 완전히 소실된 후 원인 물질에 재노출되지 않았는데 1\~48시간 이내 아나필락시스가 다시 발생하는 경우. 이 챕터의 기본 지침인 ASCIA 2026은 초기 아나필락시스의 \*\*3\~20%\*\*에서 48시간 이내 발생한다고 기술한다. 다른 체계적 문헌고찰과 진료지침에는 약 0.4\~20%, 중앙값 약 6.5%로 보고되어 연구 정의와 대상에 따른 차이가 크다. 중증 초기 반응과 2회 이상의 epinephrine 투여는 중요한 위험 인자이다.
+* **Biphasic anaphylaxis(이중반응)** : 초기 증상이 완전히 소실된 후 원인 물질에 재노출되지 않았는데 아나필락시스가 재발하는 경우. AAAAI/ACAAI 2023이 소개한 합의 정의에서는 **완전 소실 후 1\~48시간** 내 다시 아나필락시스 진단기준을 충족하는 반응을 말함. ASCIA 2026은 초기 반응의 **3\~20%**에서 48시간 이내 발생한다고 기술하지만, 연구 정의·대상에 따라 빈도는 달라짐. 중증 초기 반응과 2회 이상의 epinephrine 투여가 중요한 위험 인자임. 완전 소실 없이 증상이 이어지는 지속 반응과 구분하며, 두드러기만 재발한 경우를 모두 이중반응 아나필락시스로 분류하지 않음.
 
 {% hint style="info" %}
-**이 챕터의 근거 틀** : 급성치료 등은 [**ASCIA Guidelines for Acute Management of Anaphylaxis 2026**](https://www.allergy.org.au/hp/anaphylaxis/acute-management-guidelines)을 기본으로 하였음. 정의·진단·tryptase·자가주사기·응급의료체계 활성화는 WAO 2020 및 AAAAI/ACAAI 2023을, 항히스타민제·glucocorticoid·이중반응과 관찰은 AAAAI/ACAAI 2020 GRADE를 함께 반영하였음
+**이 챕터의 근거 틀** : 급성치료 등은 [**ASCIA Guidelines for Acute Management of Anaphylaxis 2026**](https://www.allergy.org.au/hp/anaphylaxis/acute-management-guidelines)의 현재 게시본(본문 갱신: 2026년 9월)을 기본으로 하였음. 정의·진단·tryptase·자가주사기·응급의료체계 활성화는 WAO 2020 및 AAAAI/ACAAI 2023을, 항히스타민제·glucocorticoid·이중반응과 관찰은 AAAAI/ACAAI 2020 GRADE를 함께 반영하였음
 {% endhint %}
 
 ## <mark style="color:green;">원인</mark>
@@ -38,18 +38,18 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치 / 응급실 이송**</mark>
 
-* 진행하는 stridor·후두부종, 청색증, 중증 bronchospasm 또는 호흡부전
+* 아나필락시스가 의심되는 급성 호흡기 또는 순환기 이상 — 진행하는 stridor·후두부종, 천명·bronchospasm, 호흡곤란, 지속적 어지러움·실신감 등; 청색증이나 쇼크가 나타날 때까지 기다리지 않음
 * 저혈압, collapse, 의식 변화 또는 쇼크
 * 적절한 IM epinephrine 2회 후에도 호흡기 또는 순환기 장애가 지속되는 난치성 아나필락시스
 * 반응이 없고 정상 호흡이 없는 심정지 의심
 * 곤충 알레르기에서 노출 후 갑작스러운 심한 지속성 복통 또는 반복 구토 (그 자체로 아나필락시스 징후)
+* 자가주사용 epinephrine으로 호전되었더라도 아직 응급실 평가·관찰을 받지 않은 경우 — 재발 가능성이 있으므로 즉시 119 요청
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일 평가 / 관찰 연장 판단**</mark>
 
-* 자가주사용 epinephrine으로 증상이 완전히 소실되었으나 아직 의료기관 평가와 관찰을 받지 않은 경우
-* 알려진 원인 노출 후 피부·점막에 국한된 반응이라도 빠르게 진행하거나 과거 중증 아나필락시스 병력이 있는 경우
+* 알려진 원인 노출 후 피부 증상 또는 입술·안면 부종에 국한된 안정적 반응에서 과거 중증 아나필락시스 병력이 있거나 자가주사기·의료 접근성이 부족한 경우; 혀·후두부종, 빠른 진행 또는 다른 장기 증상이 동반되면 즉각 조치 단계로 전환
 * 관찰 후에도 중증 초기반응, 반복 epinephrine, 과거 이중반응, 중증 천식 또는 의료 접근성 저하가 확인되면 퇴원시키지 말고 야간 또는 입원 관찰을 고려한다.
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
@@ -58,7 +58,7 @@
 * 원인 회피교육, 자가주사기 처방·재교육, action plan, 동반 천식 조절 및 알레르기 전문의 의뢰가 필요한 경우
 * 재발성·특발성·중증 반응에서 baseline tryptase 및 비만세포질환 평가가 필요한 경우
 
-즉시 조치 단계에서는 환자를 눕히고 IM epinephrine을 투여하며 119·응급대응 인력을 호출한다. 난치성 아나필락시스는 '당일 의뢰' 단계가 아니라 즉각적인 전문가·중환자 지원이 필요한 단계이다. 당일 의뢰 단계에서 진행성 호흡·순환 증상 또는 재발이 나타나면 즉시 첫 번째 단계로 전환한다. 외래 추적 단계는 급성 증상이 없는 안정기 추적이며, 현재 진행 중인 반응을 외래에서 기다리는 단계가 아니다.
+즉시 조치 단계에서는 환자를 눕히고 IM epinephrine을 투여하며 119·응급대응 인력을 호출한다. 난치성 아나필락시스는 '당일 의뢰' 단계가 아니라 즉각적인 전문가·중환자 지원이 필요한 단계이다. 당일 평가 단계에서 진행성 호흡·순환 증상 또는 재발이 나타나면 즉시 첫 번째 단계로 전환한다. 외래 추적 단계는 급성 증상이 없는 안정기 추적이며, 현재 진행 중인 반응을 외래에서 기다리는 단계가 아니다.
 
 ## <mark style="color:green;">진단</mark>
 
@@ -67,7 +67,20 @@
 
 ### <mark style="color:orange;">임상 진단기준</mark>
 
-현재 NIAID/FAAN 2006 또는 WAO 2020 기준을 진단 보조도구로 사용할 수 있다. 다음 NIAID/FAAN 3개 기준 중 하나 이상이면 아나필락시스 가능성이 높다.
+NIAID/FAAN 2006 또는 WAO 2020 기준을 진단 보조도구로 사용할 수 있음. 피부 증상이 없는 호흡기 단독 반응을 놓치지 않도록 두 기준의 차이를 이해함.
+
+#### <mark style="color:$primary;">WAO 2020 기준</mark>
+
+다음 2개 기준 중 하나 이상이면 아나필락시스 가능성이 높음.
+
+1. 수 분\~수 시간 내 발생한 피부·점막 증상과 함께 **호흡기 장애, 혈압 감소·말단장기 기능장애, 심한 위장관 증상** 중 하나 이상이 동반됨. 심한 위장관 증상은 심한 경련성 복통·반복 구토를 뜻하며, 특히 비음식 알레르겐 노출에서 의미가 큼.
+2. 해당 환자에게 알려졌거나 가능성이 매우 높은 알레르겐 노출 후 **저혈압, bronchospasm 또는 후두 침범**이 급성으로 발생함. **피부 증상이 없어도 해당**하며, 후두 침범에는 stridor·목소리 변화·연하통 등이 포함됨.
+
+* 일반적인 흡입 알레르겐에 의한 하기도 증상, 섭취하지 않은 음식의 흡입·접촉에 대한 반응으로 설명되는 하기도 증상만을 두 번째 기준에 그대로 적용하지 않음.
+
+#### <mark style="color:$primary;">NIAID/FAAN 2006 기준</mark>
+
+다음 3개 기준 중 하나 이상이면 아나필락시스 가능성이 높음.
 
 1. 피부 또는 점막 증상(예: 전신 두드러기, 가려움, 홍조, 입술·혀·목젖 부종)이 수 분\~수 시간 내 갑자기 발생하면서 다음 중 하나 이상
    1. 호흡기 장애 : dyspnea, wheeze·bronchospasm, stridor, PEF 감소, hypoxemia
@@ -84,41 +97,45 @@
 낮은 SBP 기준 : 1개월\~1세 <70 mmHg, 1\~10세 <(70 + 2 × 나이) mmHg, 11\~17세 <90 mmHg.
 
 {% hint style="info" %}
-진단기준은 역학·기록 및 진단의 일관성에 유용하지만 치료 문턱과 동일하지 않다. 진행 가능성이 있는 전신 과민반응에서는 기준을 모두 충족하기 전에도 epinephrine을 투여할 수 있다.
+진단기준은 치료 시작의 필수조건이 아님. 아나필락시스가 의심되거나 반응이 빠르게 진행하면 기준을 모두 충족하기 전에도 epinephrine을 투여할 수 있음. 다만 epinephrine을 투여했다는 사실이나 투여 후 호전만으로 진단을 확정하지 않으며, 증상 없는 단순 노출에 예방적으로 투여하는 것은 권고하지 않음.
 {% endhint %}
 
 ### <mark style="color:orange;">검사</mark>
 
-* **Acute serum tryptase** : 가능한 한 빨리 채혈하되 치료를 지연하지 않는다. 이상적으로 증상 시작 1\~2시간 이내, 늦어도 4시간 이내 채혈한다.
-* **Baseline tryptase** : 완전 회복 24시간 이후 또는 추후 알레르기 진료 시 재측정하여 급성기 수치와 비교한다.
+* **Acute serum tryptase** : 치료 시작 후 가능한 한 빨리 채혈하되 처치를 지연하지 않음. 증상 시작 **1\~2시간** 채혈이 가장 유용하며, 늦어도 4시간 이내 채혈함. 매우 이른 시점에만 채혈했다면 1\~2시간 채혈을 추가하는 것을 고려하고, 증상 시작·채혈 시각을 기록함.
+* **Baseline tryptase** : 완전 회복 **24시간 이후** 또는 추후 알레르기 진료 시 재측정하여 급성기 수치와 비교함.
+* 급성기 tryptase가 **(1.2 × baseline tryptase) + 2 ng/mL**를 초과하면 전신 비만세포 활성화를 지지함. 이 기준만으로 진단을 확정하거나 배제하지 않음.
 * 정상 tryptase는 아나필락시스를 배제하지 않으며, 특히 음식 유발 반응에서는 상승하지 않을 수 있다.
 * 재발성·특발성·중증 아나필락시스, 특히 저혈압이 동반되었거나 비만세포질환이 의심되는 경우 baseline tryptase 평가가 중요하다.
+* 중증 벌독 반응(특히 저혈압·두드러기 부재) 또는 반복되는 원인불명 반응에서는 알레르기 전문의가 비만세포증 평가를 고려함. 지속적으로 baseline tryptase가 상승하면 유전성 α-tryptasemia 등을 감별하며, 정상 수치만으로 비만세포증을 배제하지 않음.
 * 원인 확인을 위한 피부검사·특이 IgE·유발검사는 급성기 안정화 후 알레르기 전문의가 병력과 의심 원인에 따라 계획한다.
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-* 실신·미주신경성 반응, 특히 채혈·주사 직후 발생한 경우 아나필락시스와 혼동되기 쉽다. 피부·호흡기 증상 유무와 서맥/빈맥 여부로 감별한다.
+* 실신·미주신경성 반응, 특히 채혈·주사 직후 발생한 경우 아나필락시스와 혼동되기 쉽다. 노출 병력, 피부·호흡기 증상, 자세 변화에 대한 반응 및 맥박·혈압을 종합하여 감별함. 피부 증상 부재나 서맥만으로 아나필락시스를 배제하지 않음.
 
-<table data-header-hidden><thead><tr><th width="110"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>특성</strong></td><td><strong>Anaphylaxis</strong></td><td><strong>Vasovagal reaction</strong></td></tr><tr><td><strong>발생 시점</strong></td><td>대개 노출 후 수 분~수 시간; 주사 후 15~30분 이내가 흔함</td><td>대개 주사 직후 수 초~수 분, 흔히 15분 이내</td></tr><tr><td><strong>의식</strong></td><td>불안, 어지러움, 혼란, collapse 또는 의식 소실</td><td>실신감, 터널 시야(주변이 어두워지며 눈앞이 좁아지는 느낌), 소리가 멀어지거나 잘 들리지 않음, 일시적 의식 소실; 눕히면 빠르게 호전</td></tr><tr><td><strong>호흡</strong></td><td>호흡곤란, 지속 기침, 천명, stridor, 저산소증</td><td>대개 정상 또는 느림; 불안 시 빈호흡</td></tr><tr><td><strong>맥박·혈압</strong></td><td>대개 빈맥과 저혈압, 약한 맥박</td><td>서맥이 흔하며 저혈압 동반 가능</td></tr><tr><td><strong>피부</strong></td><td>가려움, 두드러기, 홍조, 혈관부종; 피부 증상이 없을 수도 있음</td><td>창백, 발한, 차고 축축함; 두드러기·혈관부종 없음</td></tr><tr><td><strong>위장관</strong></td><td>심한 복통, 반복 구토, 설사 가능</td><td>구역, 간혹 구토</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="110"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>특성</strong></td><td><strong>Anaphylaxis</strong></td><td><strong>Vasovagal reaction</strong></td></tr><tr><td><strong>발생 시점</strong></td><td>대개 노출 후 수 분~수 시간; 주사·정주 후 수 분 내 발생 가능</td><td>대개 주사 직후 수 초~수 분, 흔히 15분 이내</td></tr><tr><td><strong>의식</strong></td><td>불안, 어지러움, 혼란, collapse 또는 의식 소실</td><td>실신감, 터널 시야(주변이 어두워지며 눈앞이 좁아지는 느낌), 소리가 멀어지거나 잘 들리지 않음, 일시적 의식 소실; 눕히면 빠르게 호전</td></tr><tr><td><strong>호흡</strong></td><td>호흡곤란, 지속 기침, 천명, stridor, 저산소증</td><td>대개 정상 또는 느림; 불안 시 빈호흡</td></tr><tr><td><strong>맥박·혈압</strong></td><td>대개 빈맥과 저혈압, 약한 맥박</td><td>서맥이 흔하며 저혈압 동반 가능</td></tr><tr><td><strong>피부</strong></td><td>가려움, 두드러기, 홍조, 혈관부종; 피부 증상이 없을 수도 있음</td><td>창백, 발한, 차고 축축함; 두드러기·혈관부종 없음</td></tr><tr><td><strong>위장관</strong></td><td>심한 복통, 반복 구토, 설사 가능</td><td>구역, 간혹 구토</td></tr></tbody></table>
+
+* 그 밖에 급성 천식, 유발성 후두폐쇄, 공황·과호흡, 저혈당, 폐색전증·심혈관 응급질환, 유전성/ACE inhibitor 관련 혈관부종, scombroid 중독을 감별함. 영아의 반복 구토·창백에서는 FPIES도 고려하되, 아나필락시스가 의심되면 치료를 먼저 시행함.
 
 ***
 
 ```mermaid
 flowchart TD
-    subgraph I["초기 대응"]
-        A["아나필락시스 의심<br/>피부 증상이 없어도 가능"] --> B["눕히기 · 원인 노출 중단<br/>도움 요청 및 119"]
-        B --> C["Epinephrine IM<br/>0.01 mg/kg, 최대 0.5 mg"]
-        C --> D["O₂ · SpO₂/BP/ECG<br/>IV/IO 및 수액 10–20 mL/kg"]
+    subgraph I["초기 대응 · 이송 동시 준비"]
+        A["아나필락시스 의심<br/>피부 증상이 없어도 가능"] ---> B["눕히기 · 원인 노출 중단<br/>도움 요청 · 119 · 이송 준비"]
+        B ---> C["Epinephrine IM 즉시 투여<br/>0.01 mg/kg · 최대 0.5 mg"]
+        C ---> D["O₂ · SpO₂/BP/ECG · IV/IO<br/>저혈압·쇼크 또는 반응 불충분 시<br/>수액 10–20 mL/kg bolus"]
     end
-    subgraph R["5분 후 평가 및 난치성 경로"]
-        E{"호흡·순환 장애 지속?"} -->|"아니오"| F["응급실 이송<br/>마지막 epinephrine 후 ≥4시간 관찰"]
-        E -->|"예"| G["Epinephrine IM 반복<br/>수액 bolus 및 ABC 재평가"]
-        G --> H{"적절한 2회 투여 후에도 지속?"}
-        H -->|"아니오"| F
-        H -->|"예"| J["난치성 아나필락시스<br/>전문가·중환자 지원 + IV infusion"]
+    subgraph R["매 5분 재평가"]
+        E{"호흡·순환 장애 지속?"} --->|"아니오"| F["이송·관찰 지속<br/>완전 회복 확인<br/>마지막 epinephrine 후 ≥4시간"]
+        E --->|"예"| G["Epinephrine IM 반복<br/>ABC 재평가 · 필요시 수액 bolus"]
+        G ---> H{"적절한 2회 투여 후에도<br/>호흡·순환 장애 지속?"}
+        H --->|"아니오"| F
+        H --->|"예"| J["난치성 아나필락시스<br/>전문가·중환자 지원<br/>IV infusion 준비"]
     end
-    D --> E
-    J --> K["Infusion 전까지 IM 매 5분 반복<br/>시행 역량 없으면 즉시 이송"]
+    D ---> E
+    J ---> K["Infusion 시작 전까지 IM 매 5분 반복<br/>시행 역량 없으면 IM·산소·수액 지속하며 이송"]
     classDef danger fill:#FDECEC,stroke:#C62828,color:#111,stroke-width:2px;
     classDef action fill:#EAF3FF,stroke:#1565C0,color:#111,stroke-width:1.5px;
     classDef decision fill:#FFF3E0,stroke:#EF6C00,color:#111,stroke-width:1.5px;
@@ -131,13 +148,13 @@ flowchart TD
 
 <p align="center"><strong>의료기관에서의 급성치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ASCIA Guidelines for Acute Management of Anaphylaxis, updated July 2026. allergy.org.au</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ASCIA Guidelines for Acute Management of Anaphylaxis, 2026 revision (content updated September 2026). allergy.org.au</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-> 119 연락과 epinephrine 투여는 우선순위를 다투는 순차적 절차가 아니라 가능한 인력이 동시에 시행해야 하는 조치이다. 혼자인 경우에도 119 연락 때문에 epinephrine 투여를 지연하지 않는다.
+> 심정지가 의심되면 급성치료 알고리듬의 5분 재평가를 기다리지 않고 즉시 CPR·AED 경로로 전환함. 119 연락과 epinephrine 투여는 우선순위를 다투는 순차적 절차가 아니라 가능한 인력이 동시에 시행해야 하는 조치이다. 혼자인 경우에도 119 연락 때문에 epinephrine 투여를 지연하지 않는다.
 
 ### <mark style="color:orange;">1. 즉시 시행할 처치</mark>
 
@@ -146,23 +163,23 @@ flowchart TD
    * 아나필락시스에서는 전신 혈관확장과 모세혈관 누출로 정맥환류가 감소한다. 이때 갑자기 일어서거나 걷게 하면 심실 충만이 더 감소하여 급격한 저혈압·collapse 또는 심정지가 발생할 수 있다(이른바 **empty ventricle syndrome**).
    * 순환기 장애가 있으면 바로 눕히고 다리를 약간 올린다.
    * 주로 호흡곤란이 있는 환자는 다리를 앞으로 뻗은 상태로 앉을 수 있으나, 의식 변화나 혈압 저하가 나타나면 즉시 눕힌다. 의자에 다리를 아래로 내리고 앉히지 않는다.
-   * 의식이 없거나 구토하면 recovery position, 임신부는 좌측와위로 둔다. 영아·어린 소아는 보호자가 똑바로 눕혀 안거나 다리를 뻗은 자세로 안고, 어깨 위로 세워 안지 않는다.
+   * 의식이 없으나 정상 호흡이 있거나 구토하면 recovery position, 임신부는 좌측와위로 둔다. 영아·어린 소아는 보호자가 똑바로 눕혀 안거나 다리를 뻗은 자세로 안고, 어깨 위로 세워 안지 않는다.
 2. **원인 노출 중단**
    * 약물·조영제·수액 주입을 중단한다. 보이는 벌침은 신속히 제거한다. 음식 섭취는 중단한다.
 3. **도움 요청 및 119 연락**
    * 의료기관 내 응급대응 인력을 호출하고 병원 밖이라면 119를 요청한다. epinephrine 투여와 이송 준비를 동시에 진행한다.
 4. **Epinephrine IM**
    * 1 mg/mL(1:1,000) 제제를 대퇴부 전외측에 **0.01 mg/kg(=0.01 mL/kg), 1회 최대 0.5 mg(0.5 mL)** 근육주사한다. 대둔근(엉덩이)에는 주사하지 않는다.
-   * **의료기관의 ampoule·주사기 투여**는 성인에서 보통 0.5 mg IM이다. **국내 자가주사기**는 젝스트 300 μg(0.3 mg) 또는 150 μg(0.15 mg)의 고정용량이므로, 자가주사기 용량을 의료기관의 체중 기반 표준용량과 혼동하지 않는다.
+   * **의료기관의 ampoule·주사기 투여**는 성인에서 보통 0.5 mg IM이며, 체중 50 kg 미만이면 0.01 mg/kg을 적용함. **국내 자가주사기**는 젝스트 300 μg(0.3 mg) 또는 150 μg(0.15 mg)의 고정용량임. 국내 허가상 15\~30 kg은 150 μg, 30 kg 초과는 300 μg가 일반 권장용량이며, 국외 지침의 체중 전환 기준과 구분함. 자가주사기 용량을 의료기관의 체중 기반 표준용량과 혼동하지 않음.
    * 반응이 없거나 불충분하면 **5분 후 반복**한다. 생명을 위협하는 호흡·순환 증상이 지속되면 추가 투여를 지연하지 않는다.
    * 급성 아나필락시스에서 IM epinephrine의 **절대적 금기는 없다.** 고령, 임신, 심혈관질환 또는 β-blocker 복용은 면밀한 감시가 필요한 상황이지, 필요한 epinephrine을 미루거나 생략할 근거가 아니다.
-   * SC 주사는 흡수가 느리고 예측하기 어려우므로 사용하지 않는다. IV bolus epinephrine은 권고하지 않는다. 예외적으로 숙련된 급성기 전문의가 관리하는 peri-arrest 상황에서 infusion을 준비하는 동안 **1 μg/kg(최대 50 μg)을 1\~2분에 걸쳐 IV**로 투여할 수 있으나, 일반 의원이나 통상적 아나필락시스 치료에 적용하지 않는다.
+   * SC 주사는 흡수가 느리고 예측하기 어려우므로 사용하지 않는다. IV bolus epinephrine은 권고하지 않는다. 예외적으로 숙련된 급성기 전문의가 관리하는 **학령기 소아 또는 성인의 peri-arrest 상황**에서 infusion을 준비하는 동안 **1 μg/kg(최대 50 μg)을 1\~2분에 걸쳐 IV**로 투여할 수 있으나, 일반 의원이나 통상적 아나필락시스 치료에 적용하지 않는다.
 5. **모니터링과 지지요법**
-   * SpO₂, 혈압, ECG를 모니터링하고 고유량 산소를 투여한다.
-   * IV access를 확보한다. 저혈압·쇼크 또는 치료 반응이 불충분하면 NaCl 0.9% **10\~20 mL/kg을 rapid bolus**로 투여하고 반응에 따라 반복한다. 대량 수액이 필요하면 전해질과 산-염기 상태를 감시하고 균형 결정질액도 고려한다.
+   * SpO₂, 혈압, ECG를 모니터링하고 고유량 산소를 투여함. 산소 투여 후에는 대개 SpO₂ 94\~98%를 목표로 조절하며, 고탄산혈증성 호흡부전 위험이 있으면 안정화 후 88\~92% 등 개별 목표를 적용함.
+   * IV access를 확보한다. 저혈압·쇼크 또는 치료 반응이 불충분하면 NaCl 0.9% **10\~20 mL/kg을 rapid bolus**로 투여하고 반응에 따라 반복한다. 각 bolus 후 혈압·관류·호흡 상태를 재평가하며 심부전·신장질환 등에서는 과부하를 감시함. 대량 수액이 필요하면 전해질과 산-염기 상태를 감시하고 균형 결정질액도 고려함.
    * 반응 확인과 epinephrine 재투여를 수액·산소·검사 때문에 지연하지 않는다.
 6. **심정지**
-   * 반응이 없고 정상 호흡이 없으면 즉시 심폐소생술을 시작한다.
+   * 반응이 없고 정상 호흡이 없으면 즉시 심폐소생술을 시작하고 AED를 사용함. 정상 호흡이 없는 환자를 recovery position으로 두지 않음.
    * 세부 CPR 술기와 약물은 이 챕터에서 중복 기술하지 않고 **별도 부록 : 2025 한국 심폐소생술 가이드라인 기반 CPR 알고리듬**을 따른다.
 
 ### <mark style="color:orange;">2. 난치성 아나필락시스</mark>
@@ -172,13 +189,13 @@ flowchart TD
 * IV/IO access를 확보하고 수액 소생술을 최적화한다.
 * epinephrine infusion이 시작될 때까지 생명을 위협하는 증상이 지속하면 epinephrine IM을 5분마다 반복한다.
 * **저용량 IV/IO epinephrine infusion 예시(ASCIA 2026)**
-  * epinephrine 1 mg(1 mg/mL 1 mL) + NaCl 0.9% 100 mL, 즉 10 μg/mL로 조제
-  * \*\*0.5 mL/kg/hr(약 0.083 μg/kg/min)\*\*로 시작하여 임상반응에 따라 적정
+  * epinephrine 1 mg(1 mg/mL 1 mL)을 NaCl 0.9%로 **최종 100 mL(10 μg/mL)**가 되도록 조제
+  * **0.5 mL/kg/hr(약 0.083 μg/kg/min)**로 시작하여 임상반응에 따라 적정
   * infusion pump와 전용 정맥로를 사용하고, 다른 수액에 piggyback하지 않는다. 혈압계 cuff와 같은 팔의 정맥로는 피한다.
   * 지속 ECG·SpO₂와 빈번한 혈압 측정이 필수이다. 빈맥, 부정맥, 고혈압, 심근허혈 및 혈관 외 유출을 감시한다.
 * **비-3차 의료기관용 대체 희석법(ASCIA 2026)**
-  * epinephrine 1 mg + NaCl 0.9% 1,000 mL로 조제하고 **5 mL/kg/hr**로 시작한다. 표준 희석법과 같은 약 0.083 μg/kg/min에 해당한다.
-  * 이 대체법도 infusion pump, 전용 정맥로, 지속 ECG·SpO₂ 및 빈번한 혈압 측정이 가능한 병원에서만 사용한다. 희석 오차와 과도한 수액량 위험이 있어 영아·소아 또는 수액 제한이 필요한 환자에서는 특히 주의한다.
+  * epinephrine 1 mg을 NaCl 0.9%로 **최종 1,000 mL(1 μg/mL)**가 되도록 조제하고 **5 mL/kg/hr**로 시작한다. 표준 희석법과 같은 약 0.083 μg/kg/min에 해당한다.
+  * 이 챕터에서는 이 대체법도 infusion pump, 전용 정맥로, 지속 ECG·SpO₂ 및 빈번한 혈압 측정이 가능한 병원에서만 사용함. ASCIA의 일부 이송·비-3차 의료기관 프로토콜은 숙련자 자문하에 수동 주입을 허용하지만, 국내 의원의 일반 처치에는 적용하지 않음. 이 희석법은 **이송·안정화 동안의 임시 방법**이며, 장시간 지속 시 수액 과부하 위험이 커짐. 희석 오차와 과도한 수액량 위험이 있어 영아·소아 또는 수액 제한이 필요한 환자에서는 특히 주의한다.
 * 저혈압이면 NaCl 0.9% 10\~20 mL/kg rapid bolus를 반복한다.
 * 의원에서 안전한 infusion과 지속 감시를 시행할 인력·장비가 없으면 IV epinephrine을 시도하지 말고, 119 이송을 최우선으로 하면서 IM epinephrine·산소·수액을 지속한다.
 
@@ -204,11 +221,12 @@ flowchart TD
 #### <mark style="color:$primary;">Airway</mark>
 
 * 진행하는 stridor·후두부종에서는 조기 기도 전문가를 호출하고, 숙련자가 endotracheal intubation을 고려한다. 삽관이 불가능한 완전 기도폐쇄에는 응급 외과적 기도가 필요할 수 있다.
+* 호흡이 불충분하면 산소를 연결한 bag-valve-mask로 환기를 보조하고 조기 삽관을 준비함.
 * Nebulized epinephrine 1 mg/mL 5 mL는 상기도 폐쇄의 보조치료로 고려할 수 있으나 IM 또는 IV infusion epinephrine을 대체하지 않는다.
 
 #### <mark style="color:$primary;">Breathing</mark>
 
-* Epinephrine 후에도 천명·bronchospasm이 지속하면 salbutamol 5 mg nebulization 또는 100 μg/puff 8\~12 puff를 spacer로 투여할 수 있다. 중증이면 ipratropium 병용과 생명위협 천식 프로토콜을 고려한다.
+* Epinephrine 후에도 천명·bronchospasm이 지속하면 **성인에서** salbutamol 5 mg nebulization 또는 100 μg/puff 8\~12 puff를 spacer로 투여할 수 있다. 소아는 연령·체중에 맞춘 소아 천식 프로토콜을 적용함. 중증이면 ipratropium 병용과 생명위협 천식 프로토콜을 고려함.
 * Bronchodilator는 상기도 폐쇄, 저혈압 또는 쇼크를 치료하지 못하므로 epinephrine보다 먼저 사용하지 않는다.
 
 #### <mark style="color:$primary;">Circulation 및 특수상황</mark>
@@ -221,19 +239,19 @@ flowchart TD
 항히스타민제와 corticosteroid는 안정화 후 특정 증상에 **보조적으로 사용할 수 있으나 epinephrine을 대체하거나 투여를 지연시켜서는 안 된다.**
 
 * **항히스타민제는 호흡기·순환기 증상의 치료 또는 예방 역할이 없다.** 초기 소생술에 포함하지 않는다.
-* 안정화 후 지속되는 가려움·두드러기에는 cetirizine 10 ㎎ PO 등 비진정성 H1-antihistamine을 고려한다. 진정성 경구 항히스타민제는 졸림이 아나필락시스 진행 소견과 혼동될 수 있다.
+* 안정화 후 지속되는 가려움·두드러기에는 성인 cetirizine 10 ㎎ PO 등 비진정성 H1-antihistamine을 고려한다. 진정성 경구 항히스타민제는 졸림이 아나필락시스 진행 소견과 혼동될 수 있다.
 * 급속 IV chlorpheniramine은 저혈압을 악화시킬 수 있다. 피부증상 완화 이외의 목적으로 정기 투여하지 않는다.
 * **Corticosteroid의 급성 아나필락시스 치료효과와 이중반응 예방효과는 입증되지 않았다.** routine 투여나 퇴원 후 정기 처방을 권고하지 않는다.
-* 초기 소생술 후에도 지속되는 천식성 bronchospasm 또는 난치성 반응에서는 보조적으로 **prednisone/prednisolone PO 1 ㎎/kg(최대 50 ㎎)** 또는 \*\*hydrocortisone IV 5 ㎎/kg(최대 200 ㎎)\*\*을 고려할 수 있으나 epinephrine infusion과 수액보다 우선하지 않는다.
+* 초기 소생술 후에도 지속되는 천식성 bronchospasm 또는 난치성 반응에서는 보조적으로 **prednisone/prednisolone PO 1 ㎎/kg(최대 50 ㎎)** 또는 **hydrocortisone IV 5 ㎎/kg(최대 200 ㎎)**을 고려할 수 있으나 epinephrine infusion과 수액보다 우선하지 않는다.
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 ### <mark style="color:orange;">관찰 및 이송</mark>
 
-이 챕터는 국내 의원급 안전성과 일관성을 위해 ASCIA 2026의 보수적인 관찰 체계를 기본으로 한다.
+이 챕터는 국내 젝스트 허가사항·응급대처 안내와 ASCIA 2026에 맞추어, 자가주사 후 즉시 응급의료 지원을 요청하고 의료기관에서 관찰하는 체계를 기본으로 함. AAAAI/ACAAI 2023은 충분히 교육받은 일부 환자에서 신속·완전·지속적 호전과 추가 자가주사기 확보 등을 전제로 즉시 응급의료체계 호출을 생략할 수 있다고 제안하지만, 이를 국내 환자 안내의 일반 원칙으로 적용하지 않음.
 
 * 아나필락시스로 epinephrine을 투여한 환자는 원칙적으로 119를 통해 응급실로 이송한다.
-* **마지막 epinephrine 투여 후 최소 4시간** 의료기관에서 관찰한다.
+* **마지막 epinephrine 투여 후 최소 4시간** 의료기관에서 관찰하고 **증상 완전 소실·혈역학적 안정**을 확인함. 4시간이 지나도 증상이 남아 있거나 infusion·반복 소생술이 필요하면 퇴원하지 않음.
 * 다음 중 하나이면 야간 또는 입원 관찰을 강하게 고려한다.
   * 중증 또는 난치성 반응
   * 반복 epinephrine, IV 수액 소생술 또는 epinephrine infusion이 필요했던 경우
@@ -248,20 +266,21 @@ flowchart TD
 1. 원인·노출상황·보조 인자, 증상 발생시각, epinephrine 투여시각과 횟수, 치료반응을 기록한다.
 2. 자가주사용 epinephrine은 통상 **2개를 함께 처방·휴대**하도록 권장한다. 과거 여러 회 투여가 필요했거나 이중반응 병력, 의료 접근성 저하 등이 있으면 2개 처방이 특히 중요하며, 실제 필요 개수는 개별 위험을 고려해 조정한다.
 3. 국내 자가주사기 : <mark style="color:blue;">\[젝스트 프리필드펜주]</mark> 150 μg·300 μg. 환자와 보호자가 trainer 등을 이용해 실제 사용법을 반복 연습하도록 한다.
-4. 서면 **Anaphylaxis action plan**을 제공한다. 대한천식알레르기학회 [자가주사용 epinephrine 사용법](http://www.allergy.or.kr/mail/img/card_2017.pdf) 또는 국내 기관의 최신 안내서를 함께 제공한다.
-5. 모든 아나필락시스 환자는 원인 확인, 회피교육, 동반 천식 관리, 자가주사기 재평가를 위해 알레르기 전문의 의뢰를 고려한다.
+4. 서면 **Anaphylaxis action plan**을 제공한다. 질병관리청 [아나필락시스 응급대처·젝스트 사용법](https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=81) 또는 국내 기관의 최신 안내서를 함께 제공함. 기기 사용법 안내만으로 action plan을 대신하지 않으며, 환자의 원인·자가주사기 용량·투여 징후·반복 투여·119 연락·응급 연락처를 함께 적음.
+5. 모든 아나필락시스 환자는 원인 확인, 회피교육, 동반 천식 관리, 자가주사기 재평가를 위해 **알레르기 전문의에게 의뢰함**.
 
 ### <mark style="color:orange;">재노출 예방</mark>
 
 * 원인으로 확인되거나 강하게 의심되는 약물과 교차반응 가능 약물을 회피한다. Penicillin과 모든 cephalosporin을 일률적으로 금기화하지 말고, β-lactam R1 side-chain과 알레르기 평가 결과를 바탕으로 대체약을 결정한다.
-* 음식·곤충독·운동 등 확인된 원인과 개인별 보조 인자를 회피하고, 직장·학교·가족과 action plan을 공유한다.
+* 음식·곤충독·운동 등 확인된 원인과 개인별 보조 인자를 회피하고, 직장·학교·가족과 action plan을 공유함. 음식 알레르기는 성분표·외식·교차접촉을 교육하고, 확인되지 않은 음식까지 일률적으로 제한하지 않음.
+* 벌독 아나필락시스에서는 원인 독 감작과 임상 병력을 평가하여 **벌독 면역치료(VIT)** 적응증을 검토하도록 알레르기 전문의에게 의뢰함. 국내 시행 가능 기관과 제제 공급은 확인이 필요함.
 * 의료정보 팔찌·카드와 자가주사용 epinephrine을 휴대하고 유효기간과 보관상태를 정기적으로 확인한다.
 * 조영제 과민반응 병력에서는 원인 조영제 확인, 대체 조영제 선택 및 영상의학과·알레르기 협진이 중요하다. 저·등삼투압 조영제 사용 전 항히스타민제·steroid의 routine 전처치가 재발성 아나필락시스를 확실히 예방한다는 근거는 부족하다.
 * 특정 항암제 투여 또는 신속 알레르겐 면역치료처럼 근거가 있는 개별 프로토콜에서는 전처치를 사용할 수 있으나, 이를 모든 약물 과민반응에 일반화하지 않는다.
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
 <mark style="color:red;">T78.2</mark> 상세불명의 아나필락시스쇼크
 
@@ -274,19 +293,19 @@ flowchart TD
 <mark style="color:red;">T63.4</mark> 기타 절지동물 독액의 독성효과 - 벌·곤충독이 원인인 경우 임상 상황과 KCD 코딩 원칙에 따라 원인·외인 코드를 함께 검토
 
 {% hint style="info" %}
-T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드가 아니다. 실제 청구 시 원인과 진료기록에 맞는 최신 KCD·심사기준을 확인한다.
+T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드가 아니다. 코드 명칭에 ‘쇼크’가 포함되어 있어도 임상적 아나필락시스 진단에 쇼크가 필수인 것은 아님. 실제 청구 시 원인과 진료기록에 맞는 최신 KCD·심사기준을 확인함.
 {% endhint %}
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 의료기관 초기 처치**
+> **처방례 1. 성인 의료기관 초기 처치**
 >
 > ```
-> Epinephrine 1 mg/mL(1:1,000)   성인 0.5 mL IM, 대퇴부 전외측; 5분 후 반응 불충분 시 반복
+> Epinephrine 1 mg/mL(1:1,000)   성인 보통 0.5 mL IM(50 kg 미만: 0.01 mL/kg), 대퇴부 전외측; 5분 후 반응 불충분 시 반복
 > O₂ 고유량 투여                  SpO₂·BP·ECG monitoring
-> NaCl 0.9%                       10~20 mL/kg IV rapid bolus; 저혈압·쇼크 지속 시 재평가 후 반복
+> NaCl 0.9%                       저혈압·쇼크 또는 초기 epinephrine 반응 불충분 시 10~20 mL/kg IV rapid bolus; 재평가 후 필요시 반복
 > Salbutamol [벤토린 네뷸]        5 mg nebulization  prn (epinephrine 후에도 천명 지속 시)
 > ```
 >
@@ -295,7 +314,8 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 > **처방례 2. 난치성 아나필락시스 infusion**
 >
 > ```
-> Epinephrine 1 mg(1 mg/mL 1 mL) + NaCl 0.9% 100 mL   0.5 mL/kg/hr로 시작, 반응에 따라 적정
+> Epinephrine 1 mg을 NaCl 0.9%로 최종 100 mL(10 μg/mL) 조제
+> 0.5 mL/kg/hr(약 0.083 μg/kg/min)로 시작, 반응에 따라 적정
 > Infusion pump·전용 정맥로·지속 ECG/SpO₂·빈번한 혈압 측정 필수
 > ```
 >
@@ -303,7 +323,7 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 
 ### <mark style="color:orange;">보험기준</mark>
 
-**Epinephrine bitartrate 주사제&#x20;**<mark style="color:blue;">**\[젝스트 프리필드펜주]**</mark> (2020-01-01 고시 기준)
+**Epinephrine bitartrate 주사제&#x20;**<mark style="color:blue;">**\[젝스트 프리필드펜주]**</mark> ([보건복지부 고시 제2019-313호](https://www.hira.or.kr/bbsDummy.do?brdBltNo=7672&brdScnBltNo=4&pgmid=HIRAA020002000100), 2020-01-01 시행 기준)
 
 * 다음 중 어느 하나에 해당하여 자가투여 목적으로 처방할 때 1회 처방당 최대 2개까지 요양급여를 인정한다.
   1. 아나필락시스 치료 후 퇴원 처방
@@ -312,7 +332,7 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 * 실제 처방 시 최신 식품의약품안전처 허가사항과 건강보험 급여기준을 다시 확인한다.
 
 {% hint style="warning" %}
-위 급여 문구는 2020-01-01 고시를 인용한 것이므로 **처방일 현재의 보건복지부 고시·심평원 급여기준을 반드시 재확인**한다.
+위 문구는 **고시 제2019-313호(2020-01-01 시행)**를 인용함. 이후 개정 여부는 이번 검토에서 확인하지 못했으므로, 처방일 현재의 보건복지부 고시·심평원 약제급여기준을 확인함.
 {% endhint %}
 
 ***
@@ -322,8 +342,8 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 > **자가주사용 epinephrine, 언제 어떻게 쓰나요?**
 >
 > 1. 심한 호흡곤란, 목 조임·혀 부종, 갑작스러운 천명·지속 기침, 쉰목소리, 심한 어지러움·실신·축 늘어짐 등 **호흡기 또는 순환기 이상**이 있으면 피부 증상이 없어도 즉시 사용합니다. 두드러기만 있는 경우와 구분하되, 증상이 빠르게 진행하거나 다른 장기 증상이 동반되면 지체하지 않습니다. 곤충 알레르기에서는 갑작스러운 심한 지속성 복통이나 반복 구토도 아나필락시스 징후일 수 있습니다.
-> 2. 대퇴부 바깥쪽에 옷 위에서도 주사할 수 있습니다. **엉덩이·손·발에는 주사하지 않습니다.** 검은색 끝을 단단히 눌러 클릭음이 난 뒤, 해당 제품의 최신 사용설명서에 기재된 시간 동안 유지하고 제거합니다. 제거 후 가능하면 주사부위를 가볍게 마사지하되, 마사지 때문에 119 연락이나 환자 자세 관리를 지연하지 않습니다.\
->    _✽ASCIA 2026 호주판은 EpiPen·Jext 모두 3초 유지를 안내하나, 국내 제품은 동봉 설명서와 제조사 교육자료를 따른다._
+> 2. 국내 **젝스트**는 주먹으로 몸통을 잡고 **노란색 안전마개를 제거**한 뒤, 검은색 끝을 허벅지 바깥쪽에 수직으로 단단히 눌러 딸깍 소리가 나게 합니다. **국내 질병관리청 안내에 따라 약 10초간 유지**하고 제거합니다. 옷 위에서도 사용할 수 있으며, **엉덩이·손·발에는 주사하지 않습니다.** 손가락으로 검은색 끝을 막지 말고, 소아는 다리가 움직이지 않도록 고정합니다. 제거 후 가능하면 주사부위를 가볍게 마사지하되, 119 연락이나 자세 관리를 지연하지 않습니다.\
+>    _✽국외 제품·개정 안내는 주사 유지시간이 다를 수 있으므로, 처방 시 실제 지급 제품의 최신 동봉 설명서를 확인하고 국내 교육자료와 함께 사용법을 교육함._
 > 3. 사용 직후 119에 연락하고, 걷거나 서지 말고 눕거나(호흡곤란 시 다리를 뻗고 앉아) 이송을 기다립니다.
 > 4. 증상이 남아 있거나 악화되면 **5분 후** 두 번째 자가주사기를 사용합니다. 국내 젝스트 허가사항의 두 번째 투여 간격은 **첫 투여 5\~15분 후**이지만, 지속·악화하는 아나필락시스에서 15분까지 기다리라는 뜻이 아닙니다. 이 때문에 자가주사기는 **2개를 함께 처방·휴대하는 것이 권장됩니다**.
 > 5. 사용한 자가주사기는 폐기하지 말고 구급대·응급실에 사용 시각과 함께 전달합니다.
@@ -339,7 +359,7 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 자가주사기 사용 후에는 증상이 소실되어도 예외 없이 즉시 119 또는 응급실로 향한다.
+> * 자가주사기 사용 후에는 증상이 소실되어도 **즉시 119에 연락하여 응급실 평가·관찰**을 받음. 환자가 직접 운전하거나 걸어서 이동하지 않음.
 > * 자가주사기를 소지하지 않았거나 사용법이 불확실한 경우 재교육을 위해 내원한다.
 > * 원인 확인, 자가주사기 재평가, 동반 천식 조절을 위해 정기적으로 알레르기 전문의 추적을 받는다.
 
@@ -363,8 +383,8 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 #### <mark style="color:$primary;">주사 후에는 어떻게 하나요?</mark>
 
 * 환자를 눕히고 걷거나 일어서지 않게 하십시오. 숨쉬기 매우 힘들면 다리를 앞으로 뻗고 앉을 수 있지만 갑자기 일어서면 안 됩니다.
-* 허벅지 바깥쪽에 주사하고 엉덩이·손·발에는 주사하지 마십시오. 주사기를 제거한 뒤 가능하면 주사부위를 가볍게 마사지합니다.
-* 119에 연락하고, 증상이 남아 있거나 악화하면 5분 후 두 번째 epinephrine을 사용합니다(국내 젝스트 허가사항: 첫 투여 5\~15분 후 두 번째 투여 가능).
+* 젝스트는 노란색 안전마개를 제거하고 검은색 끝을 허벅지 바깥쪽에 수직으로 누릅니다. 딸깍 소리 후 국내 안내에 따라 약 10초간 유지한 뒤 제거합니다. 엉덩이·손·발에는 주사하지 마십시오. 소아는 다리를 고정합니다.
+* **즉시 119에 연락하고, 직접 운전하거나 걸어서 이동하지 마십시오.** 증상이 남아 있거나 악화하면 5분 후 두 번째 epinephrine을 사용합니다(국내 젝스트 허가사항: 첫 투여 5\~15분 후 두 번째 투여 가능).
 * 천식 흡입제나 항히스타민제는 epinephrine을 대신할 수 없습니다.
 * 좋아진 뒤에도 다시 악화될 수 있으므로 반드시 응급실 평가와 관찰을 받습니다.
 
@@ -377,13 +397,16 @@ T78.4(상세불명의 알레르기)는 아나필락시스쇼크의 대표 코드
 
 ## 참고문헌 및 지침
 
-1. ASCIA. [Guidelines for Acute Management of Anaphylaxis. Updated July 2026](https://www.allergy.org.au/hp/anaphylaxis/acute-management-guidelines).
+1. ASCIA. [Guidelines for Acute Management of Anaphylaxis. 2026 revision (content updated September 2026)](https://www.allergy.org.au/hp/anaphylaxis/acute-management-guidelines).
 2. ASCIA. [Initial Management of Anaphylaxis Flowchart 2026](https://www.allergy.org.au/images/ASCIA_HP_Initial_Anaphylaxis_Management_Flowchart_2026.pdf).
 3. ASCIA. [Management of Refractory Anaphylaxis Flowchart 2026](https://www.allergy.org.au/images/ASCIA_HP_Refractory_Anaphylaxis_Management_Flowchart_2026_v2.pdf).
 4. Golden DBK, et al. [Anaphylaxis: A 2023 Practice Parameter Update](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Anaphylaxis-Practice-Paramaters-2023.pdf). Ann Allergy Asthma Immunol. 2024;132:124-176.
 5. Shaker MS, et al. [Anaphylaxis: A 2020 Practice Parameter Update and GRADE Analysis](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Anaphylaxis-2020-grade-document.pdf). J Allergy Clin Immunol. 2020;145:1082-1123.
-6. Cardona V, et al. [World Allergy Organization Anaphylaxis Guidance 2020](https://www.worldallergyorganizationjournal.org/article/S1939-4551\(20\)30375-6/fulltext). World Allergy Organ J. 2020;13:100472.
+6. Cardona V, et al. [World Allergy Organization Anaphylaxis Guidance 2020](https://allsa.org/wp-content/uploads/2021/08/WAO-Anaphylaxis-2020.pdf). World Allergy Organ J. 2020;13:100472.
 7. Resuscitation Council UK. [Emergency Treatment of Anaphylaxis: Guidelines for Healthcare Providers](https://www.resus.org.uk/sites/default/files/2021-05/Emergency%20Treatment%20of%20Anaphylaxis%20May%202021_0.pdf). 2021.
 8. 질병관리청 국가건강정보포털. [식품알레르기 관리하기·아나필락시스 응급대처](https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/healthSourc/thtimtCntnts/thtimtCntntsView.do?thtimt_cntnts_sn=81).
 9. 식품의약품안전처 의약품안전나라. [젝스트프리필드펜주150마이크로그램 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708377).
-10. 비씨월드제약. [젝스트 프리필드펜주 제품정보](https://www.bcwp.co.kr/product/1?it_id=1658112177\&page=1\&viewType=view).
+10. 비씨월드제약. [젝스트 프리필드펜주 제품정보](https://www.bcwp.co.kr/product/1?it_id=1658112177&page=1&viewType=view).
+11. 건강보험심사평가원. [보건복지부 고시 제2019-313호 안내](https://www.hira.or.kr/bbsDummy.do?brdBltNo=7672&brdScnBltNo=4&pgmid=HIRAA020002000100). 2020-01-01 시행; [약제급여기준 원문 수록 자료](https://www.hira.or.kr/ebooksc/ebook_594/ebook_594_202009021030185100.pdf), 296쪽.
+12. ASCIA. [Adrenaline (Epinephrine) Doses for Anaphylaxis 2026](https://www.allergy.org.au/images/ASCIA_HP_Adrenaline_Doses_Anaphylaxis_2026.pdf).
+13. EAACI. [Guidelines on Allergen Immunotherapy: Hymenoptera Venom Allergy](https://eaaci.org/guidelines-position-papers/eaaci-guidelines-on-allergen-immunotherapy-hymenoptera-venom-allergy/). Allergy. 2018;73:744-764.
