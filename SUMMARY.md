@@ -49,7 +49,7 @@
   * [콩다래끼 (산립종) Chalazion](222_/041_-chalazion.md)
   * [눈마름증 (안구건조증) Dry Eye Disease](222_/042_-dry-eye.md)
   * [누낭염 Dacryocystitis](222_/043_-dacryocystitis.md)
-  * [결막하출혈 Subconjunctival Hemorrhage](222_/044_-subconjunctival-hemorrhage.md)
+  * [결막하출혈 Subconjunctival Hemorrhage, SCH](222_/044_-subconjunctival-hemorrhage.md)
   * [눈 이물 Foreign Body in the Eye](222_/045_-foreign-body-in-the-eye.md)
   * [귀인두관기능부전 Eustachian Tube Dysfunction](222_/046_-eustachian-tube-dysfunction.md)
   * [외이염 Otitis Externa](222_/047_-otitis-externa.md)
