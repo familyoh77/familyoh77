@@ -341,8 +341,7 @@ class RF,REFER,FOLLOW blue
 
 * 병소에 소량을 제한적으로 도포. 식사 전 사용 시 삼킴 장애·혀나 볼 깨물림에 주의
 * 카밀레화틴크/lidocaine <mark style="color:blue;">\[카미스타드-엔]</mark> : 12세 이상에서 1회 약 0.5 cm, 1일 3회; 임부·수유부 금기 등 제품 허가사항 확인
-* benzocaine <mark style="color:blue;">\[허리케인 겔]</mark> : 치과용 표면마취제; methemoglobinemia 위험 때문에 24개월 미만 금기이며 최소량 사용
-* lidocaine 점액성 액제 등은 제형·농도별 허가사항을 확인하고 광범위 도포·삼킴을 피함
+* lidocaine 0.5% <mark style="color:blue;">\[페리톡겔]</mark>&#x20;
 
 #### <mark style="color:$primary;">국소 면역 조절제</mark>
 
