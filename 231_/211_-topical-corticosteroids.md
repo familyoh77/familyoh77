@@ -12,7 +12,7 @@
   * mometasone furoate, methylprednisolone aceponate 등 1일 1회 사용 제제는 허가 용법을 따른다.
   * 효과가 충분한데 도포 횟수를 늘려도 추가 이득은 적고 사용량과 부작용 위험이 증가할 수 있다.
 * 일반적인 최대 연속 사용기간의 참고 기준(1일 1\~2회 도포, AAFP 2021)
-  * 초고역가(super-high potency): 최대 약 3주
+  * 초고역가(super-high potency): 해외 문헌상 최대 약 3주이나 **국내 제품의 더 짧은 제한이 우선**함. 예를 들어 더모베이트연고·액은 2주 이상의 연속 치료와 주당 50 g(액제 50 mL) 초과 사용을 피하도록 허가되어 있음
   * 고역가·중간 역가(high/medium potency): 최대 약 12주
   * 저역가(low potency): 일률적으로 정해진 최대 사용기간은 없음
 * 위 기간은 모든 부위·환자에서 안전을 보장하는 절대 기준이 아니다. 소아·고령자, 얼굴·눈꺼풀·외음부·간찰부, 넓은 면적, 손상된 피부 또는 밀폐 부위에서는 더 낮은 역가와 짧은 기간을 사용하고 주기적으로 재평가한다.
@@ -26,14 +26,14 @@
 
 ## <mark style="color:green;">사용량</mark>
 
-* 월 사용량 참고치로 영아 15 g, 소아 30 g, 성인 60\~90 g이 제시되기도 하나, 이를 전신 부작용이 발생하지 않는 절대적 안전 상한으로 해석하지 않는다.
+* 영아·소아·성인의 월 사용량을 하나의 고정된 수치로 제한하지 않는다. 병변 면적과 FTU로 필요한 양을 계산하고, 제품별 주당 최대량·연속 사용기간 제한을 함께 확인한다.
 * 실제 안전성은 제제의 역가, 도포 면적·부위, 피부장벽 손상, 밀폐 여부, 사용기간과 연령에 따라 달라진다.
 * 처방량은 FTU(fingertip unit)를 이용하여 계산한다.
 
 ### <mark style="color:orange;">FTU</mark>
 
 * 출구 지름 5 ㎜ 튜브에서 성인 검지 끝부터 원위지절주름(distal interphalangeal crease)까지 짜낸 양이다.
-* 1 FTU는 약 0.5 g이며 성인 체표면적 약 2%(성인 손바닥 두 개 면적)에 도포할 수 있다.
+* 1 FTU는 약 0.5 g이며 성인 체표면적 약 2%(손가락을 포함한 성인 손의 손바닥 쪽 면적 두 개)에 도포할 수 있다.
 
 | 부위       | 3\~6개월 | 1\~2세 | 3\~5세 | 6\~10세 | 성인   |
 | -------- | ------ | ----- | ----- | ------ | ---- |
@@ -47,13 +47,13 @@ _표의 수치는 1회 도포량이다(Long & Finlay 기준). 체격과 실제 �
 
 ## <mark style="color:green;">강도에 따른 국소 스테로이드 분류</mark>
 
-국소 스테로이드의 역가는 성분뿐 아니라 농도·제형·기제 및 augmented formulation 여부에 따라 달라진다. 아래 표는 미국식 7단계 분류를 임상적으로 초고역가·고역가·중간 역가·저역가의 4군으로 묶은 참고표이며, 국내 제품을 처방할 때에는 해당 제품의 최신 첨부문서에서 성분·함량·제형·용법·급여 여부를 확인한다.
+국소 스테로이드의 역가는 성분뿐 아니라 농도·제형·기제 및 augmented formulation 여부에 따라 달라진다. 아래 표의 미국식 7단계 묶음은 AAFP 2021을 기준으로 Class I(초고역가), II(고역가), III\~V(중간 역가), VI\~VII(저역가)로 통일하였다. 다른 역가표와 국가별 분류는 경계가 다를 수 있다. 미국 표에 없는 diflucortolone·clobetasone·methylprednisolone aceponate·prednicarbate·prednisolone valeroacetate 등은 국내외 역가 자료의 임상 참고 성분이며, 행의 미국 class와 정확히 대응한다는 뜻이 아니다. 국내 제품을 처방할 때에는 해당 제품의 최신 첨부문서에서 성분·함량·제형·용법·급여 여부를 확인한다.
 
 | 분류                                                           | 대표 성분·농도·제형                                                                                                                                                                                                                                                          | 국내 제품 예                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>Class I</strong><br><strong>초고역가</strong></p>     | <p>clobetasol propionate 0.05% 연고·크림·액제<br>diflucortolone valerate 0.3% 연고<br>halobetasol propionate 0.05% 연고·크림</p>                                                                                                                                                 | <p><mark style="color:blue;">\[더모베이트연고·액]</mark>, <mark style="color:blue;">\[베타베이트크림]</mark><br><mark style="color:blue;">\[디푸코연고]</mark></p>                                                                                                                                                                                                                                                                                            |
-| <p><strong>Class II~III</strong><br><strong>고역가</strong></p> | <p>betamethasone dipropionate 0.05% 연고<br>desoximetasone 0.25% 크림·연고·로션<br>fluocinonide 0.05% 크림·액제<br>halcinonide 0.1% 연고·크림·액제<br>mometasone furoate 0.1% 연고</p>                                                                                                   | <p><mark style="color:blue;">\[데라파손로션]</mark>은 desoximetasone 0.25% 로션<br><mark style="color:blue;">\[나이드크림]</mark>, <mark style="color:blue;">\[스테파론액]</mark><br><mark style="color:blue;">\[베로단연고]</mark>*<br><mark style="color:blue;">\[모리코트연고]</mark></p>                                                                                                                                                                            |
-| <p><strong>Class IV~V</strong><br><strong>중간 역가</strong></p> | <p>clobetasone butyrate 0.05% 연고·크림<br>methylprednisolone aceponate 0.1% 크림<br>mometasone furoate 0.1% 크림·로션<br>triamcinolone acetonide 0.1% 연고·크림<br>fluticasone propionate 0.05% 크림<br>prednicarbate 0.1% 크림·0.25% 로션<br>prednisolone valeroacetate 0.3% 크림·로션</p> | <p><mark style="color:blue;">\[유모베이트연고·크림]</mark><br><mark style="color:blue;">\[아드반탄크림]</mark><br><mark style="color:blue;">\[모리코트크림·로션]</mark><br><mark style="color:blue;">\[트리코트크림]</mark><br><mark style="color:blue;">\[큐티베이트크림]</mark><br><mark style="color:blue;">\[티티베크림]</mark>, <mark style="color:blue;">\[락티케어제마지스로션]</mark><br><mark style="color:blue;">\[리도멕스크림·로션]</mark>, <mark style="color:blue;">\[보송크림]</mark></p> |
+| <p><strong>Class II</strong><br><strong>고역가</strong></p> | <p>betamethasone dipropionate 0.05% 연고<br>desoximetasone 0.25% 크림·연고·로션<br>fluocinonide 0.05% 크림·액제<br>halcinonide 0.1% 연고·크림·액제</p>                                                                                                   | <p><mark style="color:blue;">\[데라파손로션]</mark>은 desoximetasone 0.25% 로션<br><mark style="color:blue;">\[나이드크림]</mark>, <mark style="color:blue;">\[스테파론액]</mark><br><mark style="color:blue;">\[베로단연고]</mark>*</p>                                                                                                                                                                            |
+| <p><strong>Class III~V</strong><br><strong>중간 역가</strong></p> | <p>clobetasone butyrate 0.05% 연고·크림<br>methylprednisolone aceponate 0.1% 크림<br>mometasone furoate 0.1% 연고·크림·로션<br>triamcinolone acetonide 0.1% 연고·크림<br>fluticasone propionate 0.05% 크림<br>prednicarbate 0.1% 크림·0.25% 로션<br>prednisolone valeroacetate 0.3% 크림·로션</p> | <p><mark style="color:blue;">\[유모베이트연고·크림]</mark><br><mark style="color:blue;">\[아드반탄크림]</mark><br><mark style="color:blue;">\[모리코트연고·크림·로션]</mark><br><mark style="color:blue;">\[트리코트크림]</mark><br><mark style="color:blue;">\[큐티베이트크림]</mark><br><mark style="color:blue;">\[티티베크림]</mark>, <mark style="color:blue;">\[락티케어제마지스로션]</mark><br><mark style="color:blue;">\[리도멕스크림·로션]</mark>, <mark style="color:blue;">\[보송크림]</mark></p> |
 | <p><strong>Class VI~VII</strong><br><strong>저역가</strong></p> | <p>alclometasone dipropionate 0.05% 연고·크림<br>desonide 0.05% 크림·로션<br>fluocinolone acetonide 0.01% 크림·액제<br>triamcinolone acetonide 0.025% 크림·로션<br>hydrocortisone 1% 또는 2.5% 연고·크림·로션<br>hydrocortisone acetate 0.5~1% 연고·크림·로션</p>                                  | <p><mark style="color:blue;">\[알타손크림]</mark><br><mark style="color:blue;">\[데스오웬로션·크림]</mark><br><mark style="color:blue;">\[락티케어HC로션]</mark>, <mark style="color:blue;">\[락티코트크림]</mark></p>                                                                                                                                                                                                                                             |
 
 _\*베로단연고는 halcinonide 0.1% 제제로 미국식 분류에서 고역가에 해당한다. Betamethasone dipropionate 제제는 농도·제형 및 augmented formulation 여부에 따라 역가가 달라질 수 있으므로 개별 제품의 첨부문서를 확인한다. 베타베이트크림은 clobetasol propionate 0.05% 성분으로 Class I(초고역가)에 해당한다._
@@ -71,7 +71,7 @@ _동일 class라도 임상 효과와 부작용이 완전히 같다고 볼 수 �
 * 초고역가: 다른 치료로 호전되지 않는 심한 국소 병변, 두꺼운 건선판·태선화·손발바닥 과각화 병변 등에 단기간 사용
 * 고역가: 두꺼운 몸통·사지 병변, 심한 손습진, 원반모양루푸스, 원형탈모증(☞ [탈모증](186_-alopecia.md)) 등에서 질환별 지침에 따라 사용
 * 중간 역가: 몸통·사지의 아토피피부염, 접촉피부염, 동전습진, 정체피부염(☞ [습진](159_-eczema.md)) 등에 흔히 사용
-* 저역가: 얼굴·외음부·간찰부 등 얇고 흡수가 높은 부위 및 영유아에서 우선 고려
+* 저역가: 얼굴·외음부·간찰부 등 얇고 흡수가 높은 부위 및 영유아에서 우선 고려. 다만 외음부 경화태선 등 질환별 지침에서 강한 역가를 권고하는 예외는 전문적 진단과 추적 아래 치료
 * 두피가 털이 있는 부위라는 이유만으로 고역가가 필요한 것은 아니다. 병변의 두께와 중증도에 따라 역가를 선택하고 액제·로션·폼 등 순응도가 좋은 제형을 고른다.
 * 옴 자체의 치료제로 사용하지 않는다. 적절한 살충 치료 후 남은 소양증이나 습진성 염증에 한하여 저·중간 역가를 단기간 보조적으로 고려한다.
 
@@ -99,7 +99,7 @@ _동일 class라도 임상 효과와 부작용이 완전히 같다고 볼 수 �
 
 * 수화된 피부에서는 국소 스테로이드 흡수가 증가할 수 있다.
 * 밀폐요법은 흡수를 크게 증가시키므로 제한된 만성 과각화 병변에서 의료진 지시에 따라 단기간 시행한다.
-* 감염, 침윤·미란, 피부위축이 있거나 얼굴·간찰부·기저귀 부위에는 피한다. 영유아의 기저귀도 밀폐 효과를 낼 수 있다.
+* 감염, 침연·미란, 피부위축이 있거나 얼굴·간찰부·기저귀 부위에는 피한다. 영유아의 기저귀도 밀폐 효과를 낼 수 있다.
 * 밀폐요법을 시행할 때에는 낮은 역가·적은 양·짧은 기간을 사용하고 모낭염, 침연과 감염을 관찰한다.
 
 ## <mark style="color:green;">부작용</mark>
@@ -127,7 +127,7 @@ _동일 class라도 임상 효과와 부작용이 완전히 같다고 볼 수 �
 ## <mark style="color:green;">수유 중 사용</mark>
 
 * 필요한 최소 역가·최소량을 사용하고 영아가 도포 부위에 직접 접촉하지 않도록 한다.
-* 유두·유륜에 사용해야 한다면 저역가 제제를 수유 직후 소량 도포하고 다음 수유 전에 깨끗이 제거한다. 고·초고역가 제제는 피한다.
+* 유두·유륜에 사용해야 한다면 저역가의 수용성 크림·겔을 수유 직후 소량 도포하고 다음 수유 전에 깨끗이 제거한다. 고·초고역가 제제와 영아가 핥아 섭취할 수 있는 광물성 파라핀 함유 연고는 피한다.
 * 도포 후 손을 씻어 영아에게 약물이 묻지 않도록 한다.
 
 ## <mark style="color:green;">보습제와 병용</mark>
@@ -143,7 +143,7 @@ _동일 class라도 임상 효과와 부작용이 완전히 같다고 볼 수 �
 
 * 국소 도포형 pan-JAK 억제제로 스테로이드나 calcineurin 억제제가 아니다.
 * 국소 스테로이드 치료에 반응하지 않거나 국소 스테로이드 치료가 적절하지 않은 성인의 중등증\~중증 만성 손습진에는 delgocitinib 20 mg/g 크림 <mark style="color:blue;">\[앤줍고크림]</mark>을 고려할 수 있다.
-* 2025년 9월 국내 허가 후 2026년 3월 비급여로 출시되었다. 실제 급여·유통 여부는 처방 시점에 다시 확인한다(☞ [습진](159_-eczema.md)).
+* 국내 허가 제제이다. 손·손목의 환부에 1일 2회 약 12시간 간격으로 도포하고, 병변이 깨끗해지거나 거의 소실되면 중단하며 재발 시 다시 사용한다. 12주 후 개선이 없으면 중단을 고려한다. 임신 중에는 예방적으로 사용을 피하며, 감염·악성 피부병변과 소아 적용은 제품별 주의사항을 따른다. 실제 급여·유통 여부는 처방 시점에 확인한다(☞ [습진](159_-eczema.md)).
 
 ***
 
@@ -163,13 +163,15 @@ _동일 class라도 임상 효과와 부작용이 완전히 같다고 볼 수 �
 * 활동성 세균·바이러스·진균 감염 부위, 점막 및 명백한 면역저하 환자에는 사용하지 않는다.
 * 치료 중 과도한 자연광·인공 자외선 노출을 피하고 노출 부위에는 자외선 차단을 권고한다.
 * 치료 초기에 음주 후 얼굴의 홍조·화끈거림이 나타날 수 있다.
-* FDA 등의 악성종양 경고(boxed warning)가 있으나, PEER 코호트(소아 pimecrolimus, 10년 추적)와 유럽 JOELLE 코호트(성인·소아 tacrolimus·pimecrolimus) 등 장기 관찰 연구에서는 통상적 사용과 림프종·피부암 위험 증가 사이의 뚜렷한 연관성이 확인되지 않았다. 필요한 부위에 최소량을 사용하고 지속되는 림프절병증이나 비전형 병변은 평가한다.
+* FDA 등의 악성종양 경고(boxed warning)가 있으며 국내 첨부문서에도 관련 경고가 있다. 2023년 체계적 문헌고찰·메타분석에서는 전체 암 위험의 의미 있는 증가가 확인되지 않았다. JOELLE 연장 연구에서는 일부 성인 암종의 위험 신호가 관찰되었으나 질환 중증도, 감시 편향 및 초기 피부림프종을 피부염으로 오인한 역인과성 등의 영향을 배제하기 어려웠고 소아 결과는 사건 수가 적어 불확실했다. 위험이 전혀 없다고 단정하지 않으며, 악성 또는 전암성 병변에는 사용하지 않고 지속되는 림프절병증·비전형 병변을 평가한다.
 
 ### <mark style="color:orange;">용법과 유지요법</mark>
 
 * 활성 병변에는 보통 1일 2회 얇게 도포하고 호전되면 중단한다. 국내 제품별 허가 용법을 따른다.
-* 6주 내 호전이 없거나 악화되면 아토피피부염 진단과 감염·접촉피부염을 재평가한다.
-* 자주 재발하는 부위가 호전된 후 tacrolimus 주 2회 간헐적 유지요법을 고려할 수 있다. 국내 프로토픽연고 첨부문서에는 0.03%와 0.1% 모두 주 2회 유지요법이 명시되어 있다. Pimecrolimus의 간헐적 장기치료 및 유지요법은 국내 첨부문서를 확인한다. 활성 병변 치료와 유지요법을 구분한다.
+* **Tacrolimus는 치료 2주 후 개선 징후가 없으면** 진단과 다음 치료를 검토한다. **Pimecrolimus는 6주 내 호전이 없거나 악화되면** 아토피피부염 진단과 감염·접촉피부염을 재평가한다.
+* Tacrolimus 1일 2회, 최대 6주 치료에 반응한 자주 재발하는 환자에서는 흔히 재발하는 부위에 **주 2일, 해당일 1일 1회**, 도포 사이에 2\~3일을 두는 유지요법(예: 월·목)을 고려한다. 2\~15세는 0.03%, 16세 이상은 0.1% 제품의 허가 용법을 따르며 12개월 후 지속 필요성을 재평가한다. 재발하면 활성 병변 치료로 전환한다.
+* Pimecrolimus는 증상의 첫 징후에 다시 시작하는 간헐적 치료가 허가되어 있다. Tacrolimus의 고정된 주 2회 유지요법을 그대로 적용하지 않는다.
+* Tacrolimus와 보습제를 같은 부위에 사용할 때에는 적어도 2시간 간격을 두도록 하는 해외 제품 지침을 참고한다. Pimecrolimus는 도포 후 보습제 사용이 가능하므로 두 약제의 복약지도를 구분한다. 밀폐요법은 피한다.
 
 ### <mark style="color:orange;">종류와 국내 허가</mark>
 
@@ -186,3 +188,14 @@ _0.03%는 만 2세 이상, 0.1%는 만 16세 이상부터 사용 가능하다. �
 ### <mark style="color:orange;">급여</mark>
 
 허가사항과 급여기준은 같은 개념이 아니다. 엘리델·프로토픽은 허가범위 내 적응증·연령·농도·용법을 확인하고, 실제 처방 시점의 건강보험심사평가원 급여기준과 전산심사 조건을 별도로 확인한다.
+
+***
+
+## 참고문헌
+
+1. Stacey SK, McEleney M. [Topical Corticosteroids: Choice and Application](https://www.aafp.org/pubs/afp/issues/2021/0315/p337.html). *Am Fam Physician*. 2021;103:337–343.
+2. 식품의약품안전처 국내 허가사항: [더모베이트연고](https://health.kr/searchDrug/result_drug.asp?drug_cd=2017020100030), [앤줍고크림](https://health.kr/searchDrug/result_drug.asp?drug_cd=2025090900005), [프로토픽연고](https://health.kr/searchDrug/result_drug.asp?drug_cd=2018040900041), [엘리델크림](https://health.kr/searchDrug/result_drug.asp?drug_cd=2018040900040). 약학정보원 수록 허가문서, 2026-10-04 확인.
+3. European Medicines Agency. [Protopic: product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic).
+4. Devasenapathy N, et al. [Cancer risk with topical calcineurin inhibitors, pimecrolimus and tacrolimus, for atopic dermatitis: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/36370744/). *Lancet Child Adolesc Health*. 2023;7:13–25.
+5. Arana A, et al. [Long-Term Risk of Skin Cancer and Lymphoma in Users of Topical Tacrolimus and Pimecrolimus: Final Results from the Extension of the JOELLE Cohort Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8721027/). *Clin Epidemiol*. 2021;13:1141–1153.
+6. National Library of Medicine. [LactMed: Hydrocortisone, Topical](https://www.ncbi.nlm.nih.gov/books/NBK501276/). 유두 도포 시 제형·영아 직접 노출 관련 권고.

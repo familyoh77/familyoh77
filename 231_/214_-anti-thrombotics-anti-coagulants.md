@@ -2,12 +2,12 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 항혈전제(antithrombotics)는 작용 기전에 따라 <mark style="color:orange;">항혈소판제</mark>와 <mark style="color:orange;">항응고제</mark>로 구분한다.
+* 이 챕터에서 다루는 항혈전제(antithrombotics)는 작용 기전에 따라 <mark style="color:orange;">항혈소판제</mark>와 <mark style="color:orange;">항응고제</mark>로 구분한다.
 * 항혈소판제 : 혈소판 활성화·응집을 억제하여 주로 동맥혈전(관상동맥·뇌혈관·말초동맥질환) 예방에 사용
 * 항응고제 : 응고 cascade를 억제하여 심방세동의 심장색전성 뇌졸중 예방, 정맥혈전색전증(VTE)의 예방·치료, 기계식 인공심장판막 관리 등에 사용
 * 처방 전 공통 평가 항목 : 적응증, 출혈위험, 신기능(Cockcroft–Gault CrCl), 체중, 연령, 병용약물, 임신 가능성, 환자 선호도
 
-(☞ [항혈전제 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250201\&sno=4\&mtgMtrRegSno=0001))
+(☞ 급여기준은 개정될 수 있으므로 처방 시점의 고시를 확인한다. 다음 링크는 2025-02-01 고시 자료이다: [항혈전제 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250201\&sno=4\&mtgMtrRegSno=0001))
 
 ***
 
@@ -20,11 +20,11 @@
 * 두부외상 후 의식 변화·구토·심한 두통 (→ 특히 고령·항응고제 복용자)
 * 급성 사지허혈, 폐색전증 또는 뇌졸중이 의심되는 증상
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일 평가·의뢰**</mark>
 
 * 육안적 혈뇨, 반복되는 흑색변, 원인 불명의 유의한 Hb 감소
 * 항응고제 과량 복용, 중대한 약물상호작용 발생, 출혈을 동반한 INR 상승 또는 INR ＞10
-* 응급 수술·침습적 시술이 필요하거나 신기능이 급격히 악화된 경우
+* 응급 수술·침습적 시술이 필요하거나 신기능이 급격히 악화된 경우. 생명 위협 수술·혈역학적 불안정이 있으면 즉시 응급조치
 * 임신 중 항응고가 필요한 경우 또는 기계식 인공판막 환자의 임신 확인 → 고위험 산과·순환기내과 협진
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
@@ -41,8 +41,8 @@
 ### <mark style="color:orange;">초기 평가·재평가</mark>
 
 1. 적응증과 예상 치료기간 : 심방세동, VTE(유발성/비유발성), 기계판막, 항인지질항체증후군, 수술 후 예방 등
-2. 대사 평가 : CBC, creatinine, Cockcroft–Gault creatinine clearance(CrCl), 간기능, 체중
-3. 출혈 위험 인자 : 과거 출혈, 조절되지 않는 고혈압, 신·간질환, 낙상 위험, 과도한 음주, 임신 가능성
+2. 기초 검사·신체계측 : CBC, creatinine, Cockcroft–Gault creatinine clearance(CrCl), 간기능, 체중
+3. 출혈 위험 인자 : 과거 출혈, 조절되지 않는 고혈압, 신·간질환, 낙상 위험, 과도한 음주. 임신 여부는 출혈점수와 별도로 약제 선택에 반영
 4. 병용약물 : 항혈소판제·NSAID, P-gp/CYP3A4 억제제·유도제, 한약재·건강기능식품
 5. 실행 가능성 : 복약순응도, 비용, 복용 횟수, 삼킴곤란, 정기 검사 가능 여부, 환자 선호
 
@@ -50,11 +50,16 @@
 DOAC(direct oral anticoagulant)는 정기적인 INR 측정이 필요 없다는 뜻이지, 추적검사 자체가 필요 없다는 뜻이 아니다. CBC·CrCl·간기능·체중·출혈 징후·복약순응도·병용약을 정기적으로 재평가하며, 고령·허약·신기능 저하·탈수·급성질환 발생 시에는 더 자주 확인한다.
 {% endhint %}
 
+### <mark style="color:orange;">혈전위험과 치료기간</mark>
+
+* 심방세동에서는 CHA₂DS₂-VASc 등 검증된 도구로 연간 뇌졸중·전신색전 위험을 먼저 평가한다. 2023 ACC/AHA 지침은 연간 위험 ≥2%(예: 남성 ≥2점, 여성 ≥3점)에서 항응고를 권고하며, 중간위험에서는 추가 위험인자·출혈위험·선호에 따라 결정한다. 여성이라는 이유만으로 항응고제를 시작하지 않는다. 기계판막·중등도 이상 승모판협착 동반 AF는 별도 기준을 적용한다. Aspirin이나 DAPT는 AF에서 필요한 항응고의 대체요법이 아니다.
+* 급성 DVT/PE의 기본 치료기간은 통상 3\~6개월이다. 일시적 유발요인에 의한 VTE는 이후 중단을 고려할 수 있으나, 비유발성·지속 위험인자·재발성 VTE는 출혈위험에 따라 장기 치료를 고려한다. 이 판단과 아래 약제별 저용량 연장요법의 시작 시점은 구분한다.
+
 ### <mark style="color:orange;">HAS-BLED 출혈위험 평가</mark>
 
 심방세동 환자에서 교정 가능한 출혈 위험인자를 찾기 위한 도구이며, 점수가 높다는 이유만으로 항응고제 투여를 거부하거나 중단하는 근거로 사용하지 않는다.
 
-<table><thead><tr><th width="60">항목</th><th>기준</th><th width="70">점수</th></tr></thead><tbody><tr><td>H</td><td>조절되지 않는 고혈압 (수축기혈압 ＞160 ㎜Hg)</td><td>1</td></tr><tr><td>A</td><td>신기능 이상(투석·이식·Cr ＞2.26 ㎎/㎗) 및 간기능 이상(간경변 또는 빌리루빈 ＞2×ULN·AST/ALT/AP ＞3×ULN)</td><td>각 1 (최대 2)</td></tr><tr><td>S</td><td>뇌졸중 과거력</td><td>1</td></tr><tr><td>B</td><td>주요 출혈 병력 또는 출혈 소인</td><td>1</td></tr><tr><td>L</td><td>불안정한 INR (Time in therapeutic range ＜60%)</td><td>1</td></tr><tr><td>E</td><td>연령 ＞65세</td><td>1</td></tr><tr><td>D</td><td>Drugs(항혈소판제·NSAID 등 출혈위험 약물) 및 Alcohol(과도한 음주, ≥8 표준잔/주)</td><td>각 1 (최대 2)</td></tr></tbody></table>
+<table><thead><tr><th width="60">항목</th><th>기준</th><th width="70">점수</th></tr></thead><tbody><tr><td>H</td><td>조절되지 않는 고혈압 (수축기혈압 ＞160 ㎜Hg)</td><td>1</td></tr><tr><td>A</td><td>신기능 이상(투석·이식·Cr ＞2.26 ㎎/㎗) 및 간기능 이상(간경변 또는 빌리루빈 ＞2×ULN이면서 AST/ALT/ALP 중 하나 ＞3×ULN)</td><td>각 1 (최대 2)</td></tr><tr><td>S</td><td>뇌졸중 과거력</td><td>1</td></tr><tr><td>B</td><td>주요 출혈 병력 또는 출혈 소인</td><td>1</td></tr><tr><td>L</td><td>불안정한 INR (Time in therapeutic range ＜60%)</td><td>1</td></tr><tr><td>E</td><td>연령 ＞65세</td><td>1</td></tr><tr><td>D</td><td>Drugs(항혈소판제·NSAID 등 출혈위험 약물) 및 Alcohol(과도한 음주, ≥8 표준잔/주)</td><td>각 1 (최대 2)</td></tr></tbody></table>
 
 ✽점수별 절대 출혈위험 수치(Euro Heart Survey 등)는 과거 warfarin 중심 코호트에서 산출되어 현대 DOAC 사용 환자에게 그대로 적용하기 어려우므로 절대값보다 위험인자 교정 목적으로 활용한다. (☞ [온라인 계산기](https://www.mdcalc.com/has-bled-score-major-bleeding-risk))
 
@@ -67,7 +72,7 @@ DOAC(direct oral anticoagulant)는 정기적인 INR 측정이 필요 없다는 �
 RE-ALIGN 연구에서 dabigatran이 기계판막 환자에서 혈전·출혈 모두 warfarin보다 불리하여 조기 중단되었다. 기계판막 환자는 warfarin을 사용한다.
 {% endhint %}
 
-* 중등도\~중증 류마티스성 승모판협착을 동반한 심방세동에서는 warfarin을 우선한다(주요 DOAC 임상연구에서 제외된 집단).
+* 류마티스성 승모판협착 또는 원인과 무관하게 중등도 이상 승모판협착을 동반한 심방세동에서는 warfarin을 우선한다. CHA₂DS₂-VASc 점수만으로 투여 여부를 결정하지 않는다 [2023 ACC/AHA/ACCP/HRS].
 * 항인지질항체증후군, 특히 삼중양성이거나 동맥혈전 병력이 있는 경우 warfarin을 우선한다. 단순 항체 양성이라는 이유만으로 모두 동일하게 판단하지 않는다.
 * 임신 중에는 DOAC를 일반적으로 피하고 LMWH를 우선 고려한다. 기계판막을 가진 임신부는 고위험 산과·순환기내과 협진이 필요하다.
 
@@ -75,17 +80,20 @@ RE-ALIGN 연구에서 dabigatran이 기계판막 환자에서 혈전·출혈 모
 
 ```mermaid
 flowchart TD
-    A["경구 항응고<br>적응증 확인"] --> B{"기계판막 또는<br>중등도\~중증<br>류마티스성 승모판협착?"}
-    B -->|예| C["Warfarin 선택<br>판막별 목표 INR 확인"]
-    B -->|아니오| D{"삼중양성/동맥혈전<br>APS 또는 임신?"}
-    D -->|예| E["Warfarin 또는 LMWH<br>전문과 협의"]
+    A["항응고 적응증·혈전위험 확인"] --> P{"임신?"}
+    P -->|예| Q["LMWH 우선 검토·협진 기계판막은 개별 전문치료"]
+    P -->|아니오| B{"기계판막 또는 류마티스성/중등도 이상 승모판협착 동반 AF?"}
+    B -->|예| C["Warfarin 선택 판막별 목표 INR 확인"]
+    B -->|아니오| D{"삼중양성/동맥혈전 APS?"}
+    D -->|예| E["Warfarin 우선 검토 전문과 협의"]
     D -->|아니오| F["DOAC 우선 고려"]
-    F --> G["적응증·CrCl·체중·연령·<br>상호작용으로 약제·용량 결정"]
-    C --> H["CBC·신/간기능·출혈·<br>순응도 정기 재평가"]
+    F --> G["적응증·CrCl·체중·연령· 상호작용으로 약제·용량 결정"]
+    C --> H["CBC·신/간기능·출혈· 순응도 정기 재평가"]
     E --> H
+    Q --> H
     G --> H
-    H --> I{"중대 출혈 또는<br>응급수술?"}
-    I -->|예| J["즉시 중단·응급평가<br>약제별 중화"]
+    H --> I{"중대 출혈 또는 응급수술?"}
+    I -->|예| J["응급평가·중단 필요성 판단 중화는 적응증에 따라"]
     I -->|아니오| H
 
     style A fill:#f96,stroke:#e65100,stroke-width:2px
@@ -108,7 +116,8 @@ flowchart TD
 
 * 장기 경구항응고가 필요한 PCI 환자에서는 불필요한 장기 삼중요법(항응고제+aspirin+P2Y12 억제제)을 피한다. 일반적으로 PCI 후 1\~4주 사이 aspirin을 중단하고 항응고제 + P2Y12 억제제(대개 clopidogrel)를 유지하는 전략을 순환기내과와 결정한다. [2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS 지침]
 * 관상동맥 스텐트 삽입 환자의 항혈소판제를 임의로 중단하지 않는다 — 스텐트 혈전증 위험.
-* 항응고제·항혈소판제 모두 중단이 필요한 상황(중대한 출혈, 응급수술, 환자의 결정)이 생기면 즉시 중단 후 전문과와 재개 시점을 협의한다.
+* 생명 위협 출혈에서는 원인 항응고제 중단·중화와 지혈을 즉시 시행한다. 항혈소판제까지 중단할지는 출혈 부위·정도와 최근 스텐트 위험을 함께 평가한다. 응급수술에서는 수술 시급성·마지막 복용시간·잔여 약효에 따라 중단·중화 필요성을 결정한다. 계획된 시술이나 환자의 중단 희망만으로 두 계열을 일괄 즉시 중단하지 않는다.
+* AF와 안정 관상동맥질환이 함께 있고 재관류술 후 1년이 지났거나 재관류술이 필요 없는 CAD이며 스텐트 혈전증 병력이 없으면, 장기적으로 항응고제 단독요법을 우선한다. Aspirin·clopidogrel을 계속 추가해야 하는 별도 적응증이 있는지 확인한다 [2023 ACC/AHA/ACCP/HRS].
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -119,7 +128,7 @@ flowchart TD
 * 기전 : 혈소판 COX-1을 비가역적으로 억제하여 thromboxane A₂ 생성을 감소시킴
 * 주된 역할 : 관상동맥질환·허혈뇌졸중·말초동맥질환의 이차예방, ACS/PCI 후 병용치료
 * 장기 항혈소판요법 : 일반적으로 75\~100 ㎎ qd (지침·적응증에 따라 75\~162 ㎎/day) <mark style="color:blue;">\[아스피린프로텍트]</mark>
-* 신속한 억제가 필요한 경우(ACS 등) : 씹어서 162\~325 ㎎ 부하 후 유지용량으로 전환
+* 신속한 억제가 필요한 경우(ACS 등) : 신속 방출 가능한 비장용 제제를 씹어서 162\~325 ㎎ 부하 후 유지용량으로 전환
 * 부작용 : 소화불량, 위염·소화성궤양, 출혈, 기관지경련·과민반응, 신기능 악화
 * 금기 : 활동성 중대한 출혈, aspirin/NSAID에 대한 중증 과민반응, aspirin 유발 호흡기질환 등 제품 허가상 금기
 * 고령, 소화성궤양 병력, corticosteroid·NSAID·항응고제 병용은 절대금기가 아니라 출혈 고위험 요인이다. 위장관 출혈 고위험이면 PPI 병용을 고려한다.
@@ -128,7 +137,7 @@ flowchart TD
 
 **심혈관질환 예방**
 
-* 이차예방 : ASCVD 병력이 있으면 금기가 없는 한 저용량 aspirin을 사용한다. Aspirin 알레르기 시 clopidogrel 75 ㎎ qd 등을 고려한다.
+* 이차예방 : 항혈소판요법이 필요한 ASCVD 환자는 금기가 없는 한 저용량 aspirin을 사용한다. 장기 항응고가 필요한 AF·안정 CAD에서는 위의 항응고제 단독요법 원칙을 함께 적용한다. Aspirin 알레르기 시 clopidogrel 75 ㎎ qd 등을 고려한다.
 * 일차예방 : 출혈위험이 낮고 심혈관위험이 높은 일부 환자에서만 개별적으로 고려한다. ≥60세에서 일차예방 목적의 신규 투여는 권고하지 않는다 [USPSTF, 2022].
 * 당뇨병 환자 : ASCVD 병력이 있으면 이차예방으로 사용하고, 일차예방은 심혈관 이득과 출혈위험을 환자와 함께 논의한다 [ADA Standards of Care in Diabetes, 2026].
 * 안정된 관상동맥·말초동맥질환에서 허혈위험이 높고 출혈위험이 낮은 일부 환자는 aspirin + rivaroxaban 2.5 ㎎ bid를 고려할 수 있다(COMPASS 요법). 이는 심방세동의 항응고 용량이 아니다.
@@ -137,7 +146,7 @@ flowchart TD
 
 Thienopyridine(ticlopidine, clopidogrel, prasugrel)과 비-thienopyridine(ticagrelor)으로 구분한다.
 
-<table><thead><tr><th width="140">약제</th><th width="190">주요 용법</th><th>핵심 주의사항</th></tr></thead><tbody><tr><td>Clopidogrel<br><mark style="color:blue;">\[플라빅스]</mark></td><td>유지 75 ㎎ qd<br>ACS·PCI 부하 300\~600 ㎎</td><td>CYP2C19 기능저하·상호작용 시 반응이 감소할 수 있다. 부하용량과 시점은 ACS 유형·PCI 계획·연령·출혈위험에 따라 결정한다.<br>복합제 : clopidogrel 75 ㎎+aspirin 100 ㎎ <mark style="color:blue;">\[플라빅스에이]</mark>, <mark style="color:blue;">\[클라빅신 듀오]</mark> 등</td></tr><tr><td>Prasugrel<br><mark style="color:blue;">\[에피언트]</mark></td><td>부하 60 ㎎ → 10 ㎎ qd<br>체중 ＜60 ㎏ : 5 ㎎ qd 고려</td><td><mark style="color:red;">뇌졸중 또는 TIA 병력은 금기.</mark> ≥75세에는 일반적으로 권장하지 않으며 예외적으로 매우 높은 허혈위험에서만 신중히 고려한다.</td></tr><tr><td>Ticagrelor<br><mark style="color:blue;">\[브릴린타]</mark></td><td>부하 180 ㎎ → 90 ㎎ bid<br>선별된 장기 연장치료 : 60 ㎎ bid</td><td>호흡곤란, 서맥, 출혈, 강력한 CYP3A4 억제제·유도제와의 상호작용에 주의한다. Aspirin은 저용량으로 병용한다.</td></tr><tr><td>Ticlopidine<br><mark style="color:blue;">\[유유크리드정 250 ㎎]</mark></td><td>250 ㎎ bid</td><td>호중구감소증, 혈전성혈소판감소성자반증(TTP), 재생불량빈혈 위험으로 현재는 제한적으로 사용한다. 치료 초기 수개월간 CBC를 정기 확인한다. 작용 발현이 느려 급성기 치료에는 권장하지 않는다.</td></tr></tbody></table>
+<table><thead><tr><th width="140">약제</th><th width="190">주요 용법</th><th>핵심 주의사항</th></tr></thead><tbody><tr><td>Clopidogrel<br><mark style="color:blue;">[플라빅스]</mark></td><td>유지 75 ㎎ qd<br>ACS·PCI 부하 300~600 ㎎</td><td>CYP2C19 기능저하·상호작용 시 반응이 감소할 수 있다. 부하용량과 시점은 ACS 유형·PCI 계획·연령·출혈위험에 따라 결정한다. Omeprazole·esomeprazole 병용을 피하며 PPI가 필요하면 CYP2C19 억제가 적은 대안(예: pantoprazole)을 고려한다.<br>복합제 : clopidogrel 75 ㎎+aspirin 100 ㎎ <mark style="color:blue;">[플라빅스에이]</mark>, <mark style="color:blue;">[클라빅신 듀오]</mark> 등</td></tr><tr><td>Prasugrel<br><mark style="color:blue;">[에피언트]</mark></td><td>부하 60 ㎎ → 10 ㎎ qd<br>체중 ＜60 ㎏ : 5 ㎎ qd 고려</td><td><mark style="color:red;">뇌졸중 또는 TIA 병력은 금기.</mark> ≥75세에는 일반적으로 권장하지 않으며 예외적으로 매우 높은 허혈위험에서만 신중히 고려한다.</td></tr><tr><td>Ticagrelor<br><mark style="color:blue;">[브릴린타]</mark></td><td>부하 180 ㎎ → 90 ㎎ bid<br>선별된 장기 연장치료 : 60 ㎎ bid</td><td>호흡곤란·서맥·출혈에 주의. 활동성 병적 출혈·두개내출혈 병력·중증 간장애·강력한 CYP3A4 억제제 병용은 금기. 강력한 CYP3A4 유도제 병용도 피한다. Aspirin은 저용량으로 병용한다.</td></tr><tr><td>Ticlopidine<br><mark style="color:blue;">[유유크리드정 250 ㎎]</mark></td><td>250 ㎎ bid</td><td>호중구감소증, 혈전성혈소판감소성자반증(TTP), 재생불량빈혈 위험으로 현재는 제한적으로 사용한다. 해외 안전성 문서 기준으로 치료 전과 초기 3개월간 2주마다 CBC(백혈구 분획·혈소판 포함)를 확인한다. 이 기간 내 중단해도 중단 후 2주간 감시하며 국내 제품의 간기능 검사 등 추가 지침을 확인한다. 작용 발현이 느려 급성기 치료에는 권장하지 않는다.</td></tr></tbody></table>
 
 ✽유유크리드정(ticlopidine hydrochloride 250 ㎎ 단일제)과 유크리드정(ticlopidine 250 ㎎+은행엽엑스 80 ㎎ 복합제)은 이름이 유사하니 처방 시 혼동하지 않는다.
 
@@ -171,9 +180,9 @@ Thienopyridine(ticlopidine, clopidogrel, prasugrel)과 비-thienopyridine(ticagr
 
 #### <mark style="color:$primary;">DOAC(direct oral anticoagulant)</mark>
 
-직접적으로 응고인자(thrombin 또는 Xa factor)를 억제하며, 정기적인 용량 조절용 혈액검사가 필요 없다.
+Dabigatran은 thrombin(IIa)을, rivaroxaban·apixaban·edoxaban은 factor Xa를 직접 억제한다. 정기 INR로 용량을 조절하지 않지만 CBC·신기능·간기능 추적은 필요하다.
 
-<table><thead><tr><th width="110">약제</th><th width="150">비판막성 AF</th><th width="170">급성 DVT/PE 치료</th><th>주요 감량·복용 원칙</th></tr></thead><tbody><tr><td>Dabigatran<br><mark style="color:blue;">\[프라닥사]</mark></td><td>150 ㎎ bid<br>조건에 따라 110 ㎎ bid</td><td>비경구 항응고제 5\~10일 후 150 ㎎ bid</td><td>신기능·연령·출혈위험·P-gp 병용약에 따라 결정한다. 캡슐을 열거나 씹지 않는다.</td></tr><tr><td>Rivaroxaban<br><mark style="color:blue;">\[자렐토]</mark></td><td>20 ㎎ qd<br>신기능 저하 시 15 ㎎ qd</td><td>15 ㎎ bid 21일 → 20 ㎎ qd</td><td>15 ㎎·20 ㎎은 음식과 함께 복용한다. VTE 초기치료 완료 후 연장치료는 10 ㎎ qd를 사용하며, 재발위험이 높으면 20 ㎎ qd를 고려한다.</td></tr><tr><td>Apixaban<br><mark style="color:blue;">\[엘리퀴스]</mark></td><td>5 ㎎ bid<br>감량기준 충족 시 2.5 ㎎ bid</td><td>10 ㎎ bid 7일 → 5 ㎎ bid</td><td>AF에서 연령 ≥80세, 체중 ≤60 ㎏, 혈청 크레아티닌 ≥1.5 ㎎/㎗ 중 2개 이상이면 2.5 ㎎ bid. 이 기준을 급성 VTE 치료에 임의 적용하지 않는다. VTE 초기치료 6개월 완료 후 연장치료는 2.5 ㎎ bid.</td></tr><tr><td>Edoxaban<br><mark style="color:blue;">\[릭시아나]</mark></td><td>60 ㎎ qd<br>감량조건 시 30 ㎎ qd</td><td>비경구 항응고제 5\~10일 후 60 ㎎ qd 또는 감량용량</td><td>CrCl 15\~50 ㎖/min, 체중 ≤60 ㎏ 또는 특정 P-gp 억제제 병용 시 30 ㎎ qd.<br>미국 FDA 라벨은 CrCl ＞95 ㎖/min인 NVAF 환자에서 효과 감소 가능성 때문에 사용을 권장하지 않지만, EMA/EHRA는 개별 혈전·출혈위험 평가 후 사용하도록 기술한다. 국내에서는 최신 허가사항을 확인한다.<br><mark style="color:red;">15 ㎎ qd는 국내 첨부문서에 제시된 모든 기준을 충족하는 고령자(약 80세 이상) 중 출혈위험이 높아 허가된 표준용량 항응고요법이 적합하지 않은 NVAF 환자에서 고려하는 제한적 대안용량이다.</mark> 일반 감량용량이나 VTE 치료용량과 혼동하지 않는다.</td></tr></tbody></table>
+<table><thead><tr><th width="110">약제</th><th width="150">비판막성 AF</th><th width="170">급성 DVT/PE 치료</th><th>주요 감량·복용 원칙</th></tr></thead><tbody><tr><td>Dabigatran<br><mark style="color:blue;">[프라닥사]</mark></td><td>150 ㎎ bid<br>조건에 따라 110 ㎎ bid</td><td>비경구 항응고제 최소 5일 후 150 ㎎ bid</td><td>CrCl ＜30 ㎖/min은 국내 허가상 금기. 75세 이상·CrCl 30~49 ㎖/min·출혈위험 증가 시 110 ㎎ bid를 고려할 수 있으며 병용 P-gp 약물의 금기·감량 조건을 확인한다. 캡슐을 열거나 씹지 않는다.</td></tr><tr><td>Rivaroxaban<br><mark style="color:blue;">[자렐토]</mark></td><td>20 ㎎ qd<br>CrCl 15~49 : 15 ㎎ qd</td><td>15 ㎎ bid 21일 → 20 ㎎ qd</td><td>15 ㎎·20 ㎎은 음식과 함께 복용. CrCl 15~29 ㎖/min은 신중 투여, ＜15 ㎖/min은 권장하지 않음. VTE는 최소 6개월 치료 완료 후 연장예방에 10 ㎎ qd를 사용하며, 재발위험이 높으면 20 ㎎ qd를 고려한다. AF의 15 ㎎ 감량기준을 VTE에 그대로 적용하지 않는다.</td></tr><tr><td>Apixaban<br><mark style="color:blue;">[엘리퀴스]</mark></td><td>5 ㎎ bid<br>감량기준 충족 시 2.5 ㎎ bid</td><td>10 ㎎ bid 7일 → 5 ㎎ bid</td><td>AF에서 연령 ≥80세, 체중 ≤60 ㎏, 혈청 크레아티닌 ≥1.5 ㎎/㎗ 중 2개 이상이면 2.5 ㎎ bid. 국내 허가상 AF의 CrCl 15~29 ㎖/min은 연령·체중과 무관하게 2.5 ㎎ bid. 이 감량기준을 급성 VTE에 임의 적용하지 않으며, VTE의 CrCl 15~29 ㎖/min은 신중 투여. ＜15 ㎖/min·투석은 국내 허가상 권장하지 않음. VTE 최소 6개월 치료 완료 후 연장예방은 2.5 ㎎ bid.</td></tr><tr><td>Edoxaban<br><mark style="color:blue;">[릭시아나]</mark></td><td>60 ㎎ qd<br>감량조건 시 30 ㎎ qd</td><td>비경구 항응고제 최소 5일 후 60 ㎎ qd 또는 감량용량</td><td>CrCl 15~50 ㎖/min, 체중 ≤60 ㎏ 또는 지정 P-gp 억제제(예: ciclosporin·dronedarone·erythromycin·ketoconazole) 병용 시 30 ㎎ qd. CrCl ＜15 ㎖/min·투석은 국내 허가상 금기.<br>신기능이 높은 NVAF 환자는 효과 감소 가능성을 검토한다. 미국 FDA 라벨의 CrCl ＞95 ㎖/min 사용 제한과 구분하여, 국내 허가는 높은 CrCl에서 혈전·출혈위험을 면밀히 평가한 후 60 ㎎ qd를 사용하도록 설명한다. 임의로 60 ㎎을 초과하여 증량하지 않는다.<br><mark style="color:red;">15 ㎎ qd는 국내 첨부문서에 제시된 모든 기준을 충족하는 고령자(약 80세 이상) 중 출혈위험이 높아 허가된 표준용량 항응고요법이 적합하지 않은 NVAF 환자에서 고려하는 제한적 대안용량이다.</mark> 일반 감량용량이나 VTE 치료용량과 혼동하지 않는다.</td></tr></tbody></table>
 
 {% hint style="danger" %}
 **⚠️ 임의 감량 금지**\
@@ -182,7 +191,7 @@ DOAC는 약제별로 허가된 감량 조건을 충족하지 않는데도 출혈
 
 **DOAC 복용 누락 시 대처(의료진용)**
 
-<table><thead><tr><th width="130">약제·치료 단계</th><th>대처</th></tr></thead><tbody><tr><td>Dabigatran bid</td><td>다음 복용까지 6시간 이상 남았으면 즉시 복용하고, 6시간 미만이면 건너뛴다. 두 배로 복용하지 않는다.</td></tr><tr><td>Apixaban bid</td><td>누락을 알게 된 즉시 복용하고 이후 정해진 시간에 bid 복용을 계속한다. 같은 날 누락분을 보충하기 위한 임의의 추가 복용은 피한다.</td></tr><tr><td>Rivaroxaban 15 ㎎ bid<br>급성 VTE 초회 21일</td><td>당일 총 30 ㎎을 복용하도록 누락 용량을 즉시 복용한다. 필요한 경우 15 ㎎ 2정을 한꺼번에 복용할 수 있다.</td></tr><tr><td>Rivaroxaban qd</td><td>같은 날 생각나면 즉시 복용하고 다음 날부터 정상 복용한다. 다음 날 두 배로 복용하지 않는다.</td></tr><tr><td>Edoxaban qd</td><td>같은 날 생각나면 즉시 복용하고 다음 날부터 정상 복용한다. 두 배로 복용하지 않는다.</td></tr></tbody></table>
+<table><thead><tr><th width="130">약제·치료 단계</th><th>대처</th></tr></thead><tbody><tr><td>Dabigatran bid</td><td>다음 복용까지 6시간 이상 남았으면 즉시 복용하고, 6시간 미만이면 건너뛴다. 두 배로 복용하지 않는다.</td></tr><tr><td>Apixaban bid</td><td>누락을 알게 된 즉시 1회 용량을 복용하고 이후 정해진 시간에 bid 복용을 계속한다. 누락분을 이유로 한 번에 두 배 용량을 복용하지 않는다. 다음 예정 복용시간과 매우 가깝다면 처방기관의 지침을 확인한다.</td></tr><tr><td>Rivaroxaban 15 ㎎ bid<br>급성 VTE 초회 21일</td><td>당일 총 30 ㎎을 복용하도록 누락 용량을 즉시 복용한다. 필요한 경우 15 ㎎ 2정을 한꺼번에 복용할 수 있다.</td></tr><tr><td>Rivaroxaban qd</td><td>같은 날 생각나면 즉시 복용하고 다음 날부터 정상 복용한다. 다음 날 두 배로 복용하지 않는다.</td></tr><tr><td>Edoxaban qd</td><td>같은 날 생각나면 즉시 복용하고 다음 날부터 정상 복용한다. 두 배로 복용하지 않는다.</td></tr></tbody></table>
 
 ✽용량 결정의 신기능 기준은 원칙적으로 Cockcroft–Gault CrCl을 사용하며, 검사실에서 보고되는 eGFR(MDRD/CKD-EPI)로 임의 대체하지 않는다.
 
@@ -201,17 +210,20 @@ DOAC는 약제별로 허가된 감량 조건을 충족하지 않는데도 출혈
 * 시술의 출혈위험과 환자의 혈전위험을 함께 평가하고, 처방의·시술의와 계획을 사전에 공유한다.
 * Warfarin은 중단이 필요한 대부분의 시술에서 약 5일 전 중단하되, 목표 INR·시술 종류에 따라 3\~5일로 개별화한다. 주요 수술에서는 시술 직전 INR을 확인하고 흔히 ＜1.5를 목표로 하지만, 실제 허용치는 시술·마취 방식별 기준을 따른다. 목표에 도달하지 못하면 시술을 연기하거나 소량의 vitamin K 투여를 고려한다. 출혈위험이 매우 낮은 시술(단순 치과처치, 피부 시술, 백내장 수술 등)은 중단 없이 유지할 수 있다.
 * 단순 심방세동이나 과거 VTE라는 이유만으로 LMWH/UFH bridging을 일률적으로 시행하지 않는다 [CHEST, 2022]. 최근 VTE, 일부 고위험 기계판막 등 매우 높은 혈전위험군에서만 전문과와 개별적으로 고려한다.
-* DOAC 중단기간은 약제, CrCl, 시술 출혈위험에 따라 정한다. Dabigatran은 신기능의 영향을 특히 많이 받는다. DOAC에는 통상 bridging이 필요 없다.
+* DOAC 중단기간은 약제·CrCl·시술 출혈위험에 따라 정한다. CHEST 2022의 선택적 시술 권고는 통상 1\~2일 전 중단(dabigatran은 1\~4일)이지만, 이를 모든 시술·신경축마취에 일률 적용하지 않는다. Dabigatran은 신기능의 영향을 특히 많이 받는다. DOAC에는 통상 bridging이 필요 없다.
 * 재개 시점 : 지혈이 확보되면 warfarin은 흔히 당일 저녁\~24시간 내 재개한다. DOAC는 저출혈위험 시술 후 약 24시간, 고출혈위험 시술 후 약 48\~72시간 재개를 흔히 고려하되 실제 지혈 상태에 따라 조절한다.
 * 항혈소판제 중단·재개는 ACS·PCI 시점과 스텐트 혈전위험을 고려하여 심장내과와 협의한다. 최근 관상동맥 스텐트 환자는 임의로 중단하지 않는다.
-* 지속성 NSAID(예 : celecoxib)는 혈소판 기능에 미치는 영향이 제한적이므로 warfarin·항혈소판제와 동일하게 "1주 전 중단"으로 일괄 분류하지 않고 약제별로 판단한다.
+* 선택적 COX-2 억제제(예 : celecoxib)는 혈소판 기능에 미치는 영향이 제한적이므로 warfarin·항혈소판제와 동일하게 "1주 전 중단"으로 일괄 분류하지 않고 약제별로 판단한다. 다만 항응고제와 병용 시 위장관 출혈·신장애 위험이 있으므로 안전한 병용약으로 단정하지 않는다.
 * 신경축마취·척추천자를 계획하는 경우에는 별도의 마취과 지침을 따른다.
 
 ### <mark style="color:orange;">중대한 출혈과 중화</mark>
 
-활동성 중대한 출혈에서는 원인 항응고제를 즉시 중단하고, 마지막 복용시간·CrCl·CBC·PT/INR·aPTT 등 가능한 검사를 확인하며 응급실·전문과에서 처치한다.
+활동성 중대한 출혈에서는 원인 항응고제를 즉시 중단하고 응급실·전문과에서 소생·지혈·중화 필요성을 평가한다. 마지막 복용시간·CrCl·CBC·PT/INR·aPTT 등 가능한 검사를 확인하되 처치를 지연하지 않는다.
 
-<table><thead><tr><th width="130">원인 약제</th><th width="190">우선 중화·대응</th><th>비고</th></tr></thead><tbody><tr><td>Warfarin</td><td>4-factor PCC + IV vitamin K</td><td>PCC 사용이 어려운 경우 FFP 고려</td></tr><tr><td>Dabigatran</td><td>Idarucizumab 5 g IV</td><td>신부전·지속 출혈 시 재상승 가능성 및 투석 고려</td></tr><tr><td>Apixaban·Rivaroxaban</td><td>국내에서는 4-factor PCC 등 기관 프로토콜</td><td>Andexanet alfa는 apixaban·rivaroxaban의 특이 중화제로 개발되었으나 ANNEXA-I에서 혈전색전 사건과 사망 증가가 확인되어 FDA가 이익-위험에 우려를 제기하였다. 제조사가 BLA를 자진 철회하여 미국에서는 2025년 12월 22일 생산·판매가 종료되었다. 유럽·일본 등 일부 지역에서는 허가가 유지되지만 국내에서 통상 사용할 수 있는 표준 중화제로 보기 어렵다.</td></tr><tr><td>Edoxaban</td><td>4-factor PCC 등 기관 프로토콜</td><td>Andexanet alfa의 적용 근거가 확립되지 않았다.</td></tr><tr><td>UFH</td><td>Protamine</td><td>투여 후 경과시간과 heparin 용량으로 용량 계산</td></tr><tr><td>LMWH</td><td>Protamine</td><td>부분 중화만 가능</td></tr></tbody></table>
+* **정상 PT/INR·aPTT만으로 임상적으로 의미 있는 DOAC 약효를 배제할 수 없다.** 가능하면 dabigatran은 희석 thrombin time(dTT)·ecarin 검사, Xa 억제제는 해당 약제로 보정된 anti-Xa 검사를 활용한다. INR로 DOAC 중화 여부를 결정하지 않는다.
+* 중화제는 주로 생명 위협·조절되지 않는 중대한 출혈에 사용하며, 단순 멍·가벼운 코피에 일률 투여하지 않는다. 지혈 후에는 중화 관련 혈전위험과 원래 적응증을 고려하여 항응고 재개를 재평가한다.
+
+<table><thead><tr><th width="130">원인 약제</th><th width="190">우선 중화·대응</th><th>비고</th></tr></thead><tbody><tr><td>Warfarin</td><td>4-factor PCC + IV vitamin K</td><td>PCC 사용이 어려운 경우 FFP 고려</td></tr><tr><td>Dabigatran</td><td>Idarucizumab 5 g IV</td><td>신부전·지속 출혈 시 재상승 가능성 및 투석 고려</td></tr><tr><td>Apixaban·Rivaroxaban</td><td>국내에서는 4-factor PCC 등 기관 프로토콜</td><td>Andexanet alfa는 apixaban·rivaroxaban의 특이 중화제로 개발되었으나 ANNEXA-I 관련 FDA 검토에서 혈전색전 사건과 혈전 관련 사망 증가가 확인되었다(전체 사망률 증가로 확대 해석하지 않음). FDA는 위험이 이익을 초과한다고 판단했으며 제조사는 BLA 자진 철회를 요청하고 2025년 12월 22일 미국용 제조·판매를 종료하였다. 해외 허가와 국내 사용 가능성을 구분하고, 국내 공급·기관 프로토콜을 확인한다.</td></tr><tr><td>Edoxaban</td><td>4-factor PCC 등 기관 프로토콜</td><td>Andexanet alfa의 적용 근거가 확립되지 않았다.</td></tr><tr><td>UFH</td><td>Protamine</td><td>투여 후 경과시간과 heparin 용량으로 용량 계산</td></tr><tr><td>LMWH</td><td>Protamine</td><td>부분 중화만 가능</td></tr></tbody></table>
 
 ***
 
@@ -231,7 +243,7 @@ DOAC는 약제별로 허가된 감량 조건을 충족하지 않는데도 출혈
 > 엘리퀴스정 2.5 ㎎  1정  1일 2회
 > ```
 >
-> _✽연령 ≥80세, 체중 ≤60 ㎏, 혈청 크레아티닌 ≥1.5 ㎎/㎗ 중 2가지 이상을 만족하여 감량용량 적용. 이 기준은 심방세동 감량기준이며 급성 VTE 치료에는 적용하지 않음_
+> _✽연령 ≥80세, 체중 ≤60 ㎏, 혈청 크레아티닌 ≥1.5 ㎎/㎗ 중 2가지 이상을 만족하여 감량용량 적용. 별도로 국내 허가상 CrCl 15\~29 ㎖/min인 AF는 연령·체중과 무관하게 같은 감량용량 사용. 이 기준은 급성 VTE 치료에는 적용하지 않음_
 
 > **처방례 3. 급성 심부정맥혈전증(DVT), 초회기\~유지기**
 >
@@ -249,7 +261,7 @@ DOAC는 약제별로 허가된 감량 조건을 충족하지 않는데도 출혈
 > 플라빅스정 75 ㎎  1정  1일 1회
 > ```
 >
-> _✽부하용량(clopidogrel 300\~600 ㎎)은 시술 당일 별도 처방. 출혈 고위험이 아니면 통상 12개월 유지_
+> _✽Clopidogrel을 선택한 경우의 유지처방 예시. 부하용량(300\~600 ㎎)과 투여 시점은 ACS 유형·PCI 계획·연령·출혈위험에 따라 별도 결정하며 모든 환자에게 시술 당일 일률 투여하지 않음. 출혈 고위험이 아니면 통상 12개월 유지_
 
 > **처방례 5. 기계식 인공심장판막**
 >
@@ -310,3 +322,19 @@ DOAC는 약제별로 허가된 감량 조건을 충족하지 않는데도 출혈
 * 갑자기 심한 두통이 생기거나, 팔다리에 힘이 빠지거나, 말이 어눌해질 때
 * 항응고제 복용 중 머리를 세게 부딪혔거나 두통·구토·졸림·혼돈이 생기면 즉시 진료받으세요. 어르신이나 강한 두부외상은 증상이 없어도 의료진과 바로 상의하세요.
 * 수술이나 발치, 내시경 계획이 생기면 미리 담당 의료진에게 복용 중인 약을 알리세요
+
+***
+
+## 참고문헌
+
+1. Joglar JA, et al. [2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation](https://www.jacc.org/doi/10.1016/j.jacc.2023.08.017). *J Am Coll Cardiol*. 2024;83:109–279.
+2. ESC. [2024 Guidelines for the Management of Atrial Fibrillation](https://doi.org/10.1093/eurheartj/ehae176). *Eur Heart J*. 2024;45:3314–3414.
+3. ACC/AHA et al. [2025 Guideline for the Management of Patients With Acute Coronary Syndromes](https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009).
+4. CHEST. [Perioperative Management of Antithrombotic Therapy Guideline](https://www.chestnet.org/newsroom/press-releases/2022/08/chest-releases-clinical-practice-guideline-on-perioperative-management-of-antithrombotic-therapy). 2022.
+5. Ortel TL, et al. [ASH 2020 Guidelines: Treatment of DVT and PE](https://doi.org/10.1182/bloodadvances.2020001830). *Blood Adv*. 2020;4:4693–4738.
+6. ACC. [2020 Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants](https://cvquality.acc.org/docs/default-source/initiatives/reduce-the-risk-pci-bleed/2020-acc-expert-consensus-decision-pathway-on-management-of-bleeding-in-patients-on-oral-anticoagulants.pdf). 중화제 항목은 이후 FDA 안전성 정보와 함께 해석.
+7. FDA. [Update on the Safety of Andexxa](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/update-safety-andexxa). 2025-12-18.
+8. 국내 허가사항(약학정보원 수록): [프라닥사캡슐](https://health.kr/searchDrug/result_drug.asp?drug_cd=2011022100003), [자렐토정](https://health.kr/searchDrug/result_drug.asp?drug_cd=2012030200002), [엘리퀴스정](https://health.kr/searchDrug/result_drug.asp?drug_cd=2013022800002), [릭시아나정](https://health.kr/searchDrug/result_drug.asp?drug_cd=2015082600014), [티카그렐러 제제](https://health.kr/searchDrug/result_drug.asp?drug_cd=2018022600003). 2026-10-04 확인. 외국 허가와 다른 감량·신장애 기준은 국내 문서를 우선 적용.
+
+
+9. 미국 제품 안전성 문서: [Ticlopidine](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=77d619f8-05a3-408a-a6f8-1511694b6a24), [Plavix](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227). 혈액검사 및 CYP2C19/PPI 상호작용 참고.

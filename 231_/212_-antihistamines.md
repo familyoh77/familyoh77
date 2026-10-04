@@ -4,7 +4,7 @@
 
 * histamine H1 수용체 길항 작용으로 재채기, 콧물, 코·눈 가려움, 팽진(wheal) 및 소양증을 완화하는 약물군
 * 분류 : 1세대(진정성) — 혈액뇌장벽 통과, 항콜린 작용 큼 / 2세대(비진정성 또는 저진정성) — 혈액뇌장벽 통과 적음, 항콜린 작용 적음
-* 주요 적응증 : 알레르기비염, 알레르기결막염, 급성·만성 두드러기, 아나필락시스의 피부·점막 증상 보조 치료
+* 주요 적응증 : 알레르기비염, 알레르기결막염, 급성·만성 두드러기, 아나필락시스의 피부 증상 보조 치료(기도 점막부종·호흡기·순환기 증상에는 효과 없음)
 * 일부 성분은 항히스타민제 본래 목적이 아닌 멀미·현훈(dimenhydrinate, meclizine), 수면유도(doxylamine), 수면유지 불면증(저용량 doxepin) 목적으로도 사용됨 — 이 챕터에서는 이를 알레르기 치료제와 구분하여 별도 표로 제시함
 * 항히스타민제는 코막힘에 대한 효과가 제한적이며, 천식성 기관지수축 및 아나필락시스의 기도폐쇄·저혈압·쇼크를 치료하지 못함 (☞ Red Flags, Management 참고)
 
@@ -16,15 +16,17 @@
 
 * 아나필락시스 의심(기도폐쇄, 천명, 저혈압, 의식 저하) — 항히스타민제로 대체하지 말고 **즉시 IM epinephrine** 투여 후 응급 이송
 * 항히스타민제 복용 후 실신, 심한 심계항진 또는 다형성 심실빈맥(torsades de pointes) 의심 소견 — 즉시 원인 약물 중단 및 응급 평가
+* 과량복용 또는 소아 투여 후 호흡억제, 깨우기 어려운 의식저하, 경련 — 즉시 중단, 기도·호흡 평가 및 응급 이송
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
-* QT 연장 위험인자(선천성·후천성 QT 연장, 전해질 이상, 구조적 심질환, 서맥, QT 연장 약물 병용)가 있는 환자에서 hydroxyzine·mizolastine 사용을 고려하는 경우 → 가급적 회피·대체하고, 투여가 불가피하면 심전도·전해질 평가. Ebastine·rupatadine 등은 고용량, 전해질 이상 및 CYP3A4 억제제 병용 등 제품별 조건부 위험을 확인
-* 2세 미만 소아에게 promethazine이 투여된 경우, 소아에게 진정성 항히스타민제를 수면 유도 목적으로 임의 사용한 경우, 또는 호흡억제·과도한 진정·역설적 흥분이 나타난 경우 → 즉시 중단 및 재평가
-* 두드러기와 함께 발열, 관절통, 개별 병변이 24시간 이상 지속되거나 소실 후 색소침착을 남기는 경우 → 두드러기혈관염 등 감별 위해 의뢰
+* 2세 미만 소아에게 promethazine이 투여되었거나 소아에게 진정성 항히스타민제를 수면 유도 목적으로 임의 사용한 경우 → 즉시 중단하고 당일 소아·응급 평가. 과량복용이 의심되거나 호흡억제·의식저하·경련이 있으면 즉각 조치 항목을 적용
+* 심한 역설적 흥분·혼돈 또는 지속되는 배뇨곤란 등 약물 이상반응 → 약제 중단 및 당일 평가
 
 <mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
+* QT 연장 위험인자가 있는 환자에서 hydroxyzine·mizolastine 처방을 고려하면 금기 약물은 회피·대체하고, 위험인자·병용약을 평가한다. 위험인자 자체만으로 응급 의뢰를 결정하지 않는다.
+* 개별 두드러기 병변이 24시간 이상 지속되고 통증·자반·색소침착을 남기거나 발열·관절통을 동반하면 두드러기혈관염 등을 조기에 감별한다. 중증 전신증상이 있으면 당일 평가한다.
 * 적절한 비강 스테로이드 치료 후에도 중등도·중증 비염 증상이 지속되는 경우 → 진단, 유발인자, 순응도·분무법, 비중격만곡·비용종·만성부비동염 및 천식 동반 여부를 재평가하고, 면역치료 또는 전문적 평가가 필요하면 의뢰
 * 만성 두드러기가 표준용량 4배 증량에도 반응하지 않는 경우 → 알레르기내과·피부과 의뢰(omalizumab 등 차기 치료 고려)
 
@@ -34,30 +36,30 @@
 
 ### <mark style="color:orange;">알레르기비염</mark>
 
-<table><thead><tr><th width="90">단계</th><th width="280">핵심 치료</th><th>대상·재평가</th></tr></thead><tbody><tr><td>Step 1</td><td>재채기·콧물·가려움이 주된 경증 간헐성 비염: 경구 또는 비강 2세대 H1 항히스타민제</td><td>증상 발생 양상과 환자 선호에 따라 선택. 수시간\~수일 내 초기 반응 확인</td></tr><tr><td>Step 2</td><td>비강 스테로이드</td><td>코막힘이 뚜렷하거나 중등도·중증 또는 지속성 비염. 정확한 분무법과 순응도 확인 후 수일\~수주 내 평가</td></tr><tr><td>Step 3</td><td>비강 스테로이드/비강 항히스타민제 복합요법 또는 전문과 의뢰</td><td>적절한 비강 스테로이드에도 불충분하면 진단·동반질환을 재평가하고 복합요법, 면역치료 등을 고려</td></tr></tbody></table>
+<table><thead><tr><th width="90">단계</th><th width="280">핵심 치료</th><th>대상·재평가</th></tr></thead><tbody><tr><td>Step 1</td><td>재채기·콧물·가려움이 주된 경증 간헐성 비염: 경구 또는 비강 2세대 H1 항히스타민제</td><td>증상 발생 양상과 환자 선호에 따라 선택. 수시간~수일 내 초기 반응 확인</td></tr><tr><td>Step 2</td><td>비강 스테로이드</td><td>코막힘이 뚜렷하거나 중등도·중증 또는 지속성 비염. 정확한 분무법과 순응도 확인 후 수일~수주 내 평가</td></tr><tr><td>Step 3</td><td>비강 스테로이드/비강 항히스타민제 복합요법 또는 전문과 의뢰</td><td>적절한 비강 스테로이드에도 불충분하면 진단·동반질환을 재평가하고 복합요법, 면역치료 등을 고려</td></tr></tbody></table>
 
 ### <mark style="color:orange;">만성 두드러기</mark>
 
-<table><thead><tr><th width="90">단계</th><th width="280">핵심 치료</th><th>대상·재평가</th></tr></thead><tbody><tr><td>Step 1</td><td>현대적 비진정성 2세대 H1 항히스타민제 표준용량</td><td>1차 치료. 증상 중증도에 따라 조기에 또는 통상 2\~4주 내 평가</td></tr><tr><td>Step 2</td><td>동일 약제를 최대 표준용량의 4배까지 증량</td><td>Step 1 반응 불충분. 국내 허가사항을 벗어난 용법</td></tr><tr><td>Step 3</td><td>omalizumab 등 다음 단계 치료 — 전문과 의뢰</td><td>충분한 증량에도 조절되지 않는 경우</td></tr></tbody></table>
+<table><thead><tr><th width="90">단계</th><th width="280">핵심 치료</th><th>대상·재평가</th></tr></thead><tbody><tr><td>Step 1</td><td>현대적 비진정성 2세대 H1 항히스타민제 표준용량</td><td>1차 치료. 증상 중증도에 따라 조기에 또는 통상 2~4주 내 평가. 만성 자발성 두드러기는 필요시에만 복용하기보다 규칙적으로 복용</td></tr><tr><td>Step 2</td><td>동일 약제를 최대 표준용량의 4배까지 증량</td><td>Step 1 반응 불충분. 국내 허가사항을 벗어난 용법</td></tr><tr><td>Step 3</td><td>omalizumab 등 다음 단계 치료 — 전문과 의뢰</td><td>충분한 증량에도 조절되지 않는 경우</td></tr></tbody></table>
 
 {% hint style="info" %}
 **두드러기 4배 증량 요법은 국내 허가사항을 벗어난 용법**\
-최신 국제 지침(EAACI/GA²LEN/EuroGuiDerm/APAAACI, 2026)은 만성 자발성 두드러기에서 표준용량의 현대적 비진정성 2세대 H1 항히스타민제에 반응하지 않으면 동일 성분을 최대 4배까지 증량할 것을 권고하지만, 이는 국내 허가사항을 벗어난 용법이다. 약제별 고용량 유효성·안전성 근거는 서로 다르므로 국내 허가사항, 신·간기능, 진정 가능성, 상호작용 및 성분별 심장 위험을 평가한다. 서로 다른 항히스타민제를 임의로 병용하기보다 한 약제를 단계적으로 증량하며, 4배를 초과하지 않는다. Hydroxyzine·ketotifen 등은 이 증량 원칙의 대상이 아니다.
+2026년 국제 두드러기 지침은 만성 자발성 두드러기에서 표준용량의 현대적 비진정성 2세대 H1 항히스타민제에 반응하지 않으면 동일 성분을 최대 4배까지 증량할 것을 권고하지만, 이는 국내 허가사항을 벗어난 용법이다. 약제별 고용량 유효성·안전성 근거는 서로 다르므로 국내 허가사항, 신·간기능, 진정 가능성, 상호작용 및 성분별 심장 위험을 평가한다. 서로 다른 항히스타민제를 임의로 병용하기보다 한 약제를 단계적으로 증량하며, 4배를 초과하지 않는다. Hydroxyzine·ketotifen 등은 이 증량 원칙의 대상이 아니다.
 {% endhint %}
 
 ***
 
 ```mermaid
 graph TD
-    A[알레르기비염] --> B{주요 증상·중증도}
-    B -->|경증 간헐성<br>재채기·콧물·가려움| C[경구 또는 비강<br>2세대 항히스타민제]
-    B -->|코막힘·중등도 이상<br>또는 지속성| D[비강 스테로이드]
-    C --> E{수시간~수일 내<br>초기 반응 평가}
-    D --> F{분무법·순응도 확인 후<br>수일~수주 내 평가}
-    E -->|호전| G[유지·필요 시 사용]
+    A["알레르기비염"] --> B{"주요 증상·중증도"}
+    B -->|경증 간헐성 재채기·콧물·가려움| C["경구 또는 비강 2세대 항히스타민제"]
+    B -->|코막힘·중등도 이상 또는 지속성| D["비강 스테로이드"]
+    C --> E{"수시간~수일 내 초기 반응 평가"}
+    D --> F{"분무법·순응도 확인 후 수일~수주 내 평가"}
+    E -->|호전| G["유지·필요 시 사용"]
     E -->|불충분| D
     F -->|호전| G
-    F -->|불충분| H[진단·동반질환 재평가<br>비강 복합요법·전문과 의뢰]
+    F -->|불충분| H["진단·동반질환 재평가 비강 복합요법·전문과 의뢰"]
     style A fill:#f96,stroke:#e65100,stroke-width:2px
     style H fill:#f3e5f5,stroke:#4a148c
 ```
@@ -66,20 +68,20 @@ graph TD
 
 ```mermaid
 graph TD
-    U[만성 두드러기] --> V[현대적 비진정성 2세대<br>H1 항히스타민제 표준용량]
-    V --> W{조기 또는 통상<br>2~4주 내 반응 평가}
-    W -->|조절| X[유지 및 정기 재평가]
-    W -->|불충분| Y[동일 약제 최대 4배 증량<br>국내 허가 외]
-    Y --> Z{적절한 기간 후 반응 평가}
+    U["만성 두드러기"] --> V["현대적 비진정성 2세대 H1 항히스타민제 표준용량"]
+    V --> W{"조기 또는 통상 2~4주 내 반응 평가"}
+    W -->|조절| X["유지 및 정기 재평가"]
+    W -->|불충분| Y["동일 약제 최대 4배 증량 국내 허가 외"]
+    Y --> Z{"적절한 기간 후 반응 평가"}
     Z -->|조절| X
-    Z -->|불충분| O[전문과 의뢰<br>omalizumab 등]
+    Z -->|불충분| O["전문과 의뢰 omalizumab 등"]
     style U fill:#f96,stroke:#e65100,stroke-width:2px
     style O fill:#f3e5f5,stroke:#4a148c
 ```
 
 <p align="center"><strong>만성 두드러기 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. EAACI/GA²LEN/EuroGuiDerm/APAAACI Urticaria Guideline. Allergy. 2026. doi:10.1111/all.70210</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. The International Guideline for Urticaria. Allergy. 2026. doi:10.1111/all.70210</mark></em></p>
 
 ***
 
@@ -90,22 +92,24 @@ graph TD
 ### <mark style="color:orange;">경구 2세대 H1 항히스타민제(일부 저진정성·진정성 성분 포함)</mark>
 
 <table><thead><tr><th width="190">성분명 [대표 상품명]</th><th width="60">진정</th><th width="140">성인 대표 용량</th><th>주요 복약지도·주의</th></tr></thead><tbody>
-<tr><td>cetirizine <mark style="color:blue;">\[지르텍]</mark></td><td>+</td><td>10 ㎎ qd</td><td>졸음 가능. 주로 신배설 — 신기능에 따라 감량. 소아 대표 허가연령 2세\~(제형에 따라 다를 수 있음)</td></tr>
-<tr><td>levocetirizine <mark style="color:blue;">\[씨잘]</mark></td><td>+</td><td>5 ㎎ qd</td><td>졸음 가능. 신기능 저하 시 감량. <span style="color:red">말기 신질환(CrCl 10 mL/min 미만) 및 투석 환자 금기</span></td></tr>
-<tr><td>loratadine <mark style="color:blue;">\[클라리틴]</mark></td><td>-</td><td>10 ㎎ qd</td><td>진정 적음. 중증 간기능 저하 시 투여간격 조절 고려. 소아 대표 허가연령 2세\~(제형에 따라 다를 수 있음)</td></tr>
-<tr><td>desloratadine <mark style="color:blue;">\[에리우스]</mark></td><td>-</td><td>5 ㎎ qd</td><td>진정 적음. 중증 간·신기능 저하 시 제품 허가사항 확인. 소아 대표 허가연령 1세\~(제형에 따라 다를 수 있음)</td></tr>
-<tr><td>fexofenadine <mark style="color:blue;">\[알레그라]</mark></td><td>-</td><td>120 ㎎ qd 또는 180 ㎎ qd<sup>1)</sup></td><td>진정 매우 적음. 물과 함께 공복 복용 (☞ 복약지도 참고)</td></tr>
-<tr><td>bilastine</td><td>-</td><td>20 ㎎ qd</td><td>공복 복용(식전 1시간 또는 식후 2시간). 과일주스와 함께 복용하지 않음. 국내 상품명은 유통 시점 확인</td></tr>
-<tr><td>ebastine <mark style="color:blue;">\[에바스텔]</mark></td><td>±</td><td>10 ㎎ qd</td><td>일부 환자에서 졸음. 간기능 및 QT 위험 약물 확인</td></tr>
-<tr><td>epinastine <mark style="color:blue;">\[알레지온]</mark></td><td>+</td><td>20 ㎎ qd</td><td>졸음 가능. 국내 10 ㎎·20 ㎎ 제제가 있어 제품별 용법 확인</td></tr>
-<tr><td>rupatadine <mark style="color:blue;">\[루파핀]</mark></td><td>±</td><td>10 ㎎ qd</td><td>CYP3A4 기질 — 자몽주스·강력한 CYP3A4 억제제 병용 주의. 심장 위험을 hydroxyzine과 같은 수준으로 간주하지 않으며 제품별 허가사항 확인</td></tr>
-<tr><td>olopatadine <mark style="color:blue;">\[알레락]</mark></td><td>±</td><td>5 ㎎ bid</td><td>졸음 가능. 경구제와 점안·비강 제제는 용량·근거가 다르므로 구분</td></tr>
-<tr><td>bepotastine</td><td>±</td><td>10 ㎎ bid</td><td>졸음 가능. 신기능 저하 시 제품 허가사항 확인. 국내 다수 상품 유통(대표 브랜드 특정하지 않음)</td></tr>
-<tr><td>mizolastine <mark style="color:blue;">\[미졸렌]</mark></td><td>±</td><td>10 ㎎ qd</td><td><span style="color:red">QT 연장 위험</span> — 기존 QT 연장, 심질환, 전해질 이상 및 QT 연장 약물 병용 여부 확인. 12세 미만 자료 제한적</td></tr>
-<tr><td>ketotifen <mark style="color:blue;">\[자디텐]</mark></td><td>+</td><td>1 ㎎ bid</td><td>mast-cell stabilizing 작용 동반. 현대적 비진정성 2세대 약제와 성격이 다르며 만성 두드러기의 4배 증량 원칙에 포함하지 않음. 증량은 해당 제품 허가사항 확인</td></tr>
-<tr><td>azelastine 경구 <mark style="color:blue;">\[아젭틴]</mark></td><td>+</td><td>1\~2 ㎎ bid</td><td>졸음 가능. **경구 정제이며 azelastine 비강분무제와는 용량·근거가 다름** — 혼동 주의</td></tr>
-<tr><td>acrivastine</td><td>±</td><td>8 ㎎ tid</td><td>작용시간이 짧아 1일 3회 필요(qid 아님). 해외에서는 주로 pseudoephedrine 복합제로 유통되며 단일제가 드묾 — 국내 유통 여부·제품명은 처방 전 확인</td></tr>
+<tr><td>cetirizine <mark style="color:blue;">[지르텍]</mark></td><td>+</td><td>10 ㎎ qd</td><td>졸음 가능. 주로 신배설 — 신기능에 따라 감량. 지르텍정은 6세 이상 용법을 사용하며, 더 어린 소아의 액제 용량을 정제에 적용하지 않음</td></tr>
+<tr><td>levocetirizine <mark style="color:blue;">[씨잘]</mark></td><td>+</td><td>5 ㎎ qd</td><td>졸음 가능. 신기능 저하 시 감량. <span style="color:red">말기 신질환(CrCl 10 mL/min 미만) 및 투석 환자 금기</span></td></tr>
+<tr><td>loratadine <mark style="color:blue;">[클라리틴]</mark></td><td>-</td><td>10 ㎎ qd</td><td>진정 적음. 중증 간기능 저하 시 투여간격 조절 고려. 클라리틴정은 만 6세 이상·체중 30 ㎏ 이상 소아의 10 ㎎/day 용법. 어린 소아는 제품·제형별 허가 확인</td></tr>
+<tr><td>desloratadine <mark style="color:blue;">[에리우스]</mark></td><td>-</td><td>5 ㎎ qd</td><td>진정 적음. 중증 간·신기능 저하 시 제품 허가사항 확인. 에리우스정 5 ㎎은 12세 이상. 해외 시럽의 영유아 허가연령을 국내 정제에 적용하지 않음</td></tr>
+<tr><td>fexofenadine <mark style="color:blue;">[알레그라]</mark></td><td>-</td><td>120 ㎎ qd 또는 180 ㎎ qd<sup>1)</sup></td><td>진정 매우 적음. 물과 함께 공복 복용 (☞ 복약지도 참고)</td></tr>
+<tr><td>bilastine</td><td>-</td><td>20 ㎎ qd</td><td>공복 복용(식전 1시간 또는 식후 2시간). 과일주스와 함께 복용하지 않음. 해외 용량 참고. 국내 허가 제품을 확인하지 못했으므로 국내 처방 가능한 성분으로 단정하지 않음</td></tr>
+<tr><td>ebastine <mark style="color:blue;">[에바스텔]</mark></td><td>±</td><td>10 ㎎ qd</td><td>일부 환자에서 졸음. 간기능 및 QT 위험 약물 확인</td></tr>
+<tr><td>epinastine <mark style="color:blue;">[알레지온]</mark></td><td>+</td><td>20 ㎎ qd</td><td>졸음 가능. 국내 10 ㎎·20 ㎎ 제제가 있어 제품별 용법 확인</td></tr>
+<tr><td>rupatadine <mark style="color:blue;">[루파핀]</mark></td><td>±</td><td>10 ㎎ qd</td><td>CYP3A4 기질 — 자몽주스·강력한 CYP3A4 억제제 병용 주의. 심장 위험을 hydroxyzine과 같은 수준으로 간주하지 않으며 제품별 허가사항 확인</td></tr>
+<tr><td>olopatadine <mark style="color:blue;">[알레락]</mark></td><td>±</td><td>5 ㎎ bid</td><td>졸음 가능. 경구제와 점안·비강 제제는 용량·근거가 다르므로 구분</td></tr>
+<tr><td>bepotastine <mark style="color:blue;">[타리온정]</mark></td><td>±</td><td>10 ㎎ bid</td><td>졸음 가능. 신기능 저하 시 제품 허가사항 확인. 속방정 10 ㎎ bid와 서방정의 1일 1회 용법을 구분</td></tr>
+<tr><td>mizolastine <mark style="color:blue;">[미졸렌]</mark></td><td>±</td><td>10 ㎎ qd</td><td><span style="color:red">QT 연장 위험</span> — 기존 QT 연장, 심질환, 전해질 이상 및 QT 연장 약물 병용 여부 확인. 12세 미만 자료 제한적</td></tr>
+<tr><td>ketotifen <mark style="color:blue;">[자디텐]</mark></td><td>+</td><td>1 ㎎ bid</td><td>mast-cell stabilizing 작용 동반. 현대적 비진정성 2세대 약제와 성격이 다르며 만성 두드러기의 4배 증량 원칙에 포함하지 않음. 증량은 해당 제품 허가사항 확인</td></tr>
+<tr><td>azelastine 경구 <mark style="color:blue;">[아젭틴]</mark></td><td>+</td><td>1~2 ㎎ bid</td><td>졸음 가능. 경구 정제이며 azelastine 비강분무제와는 용량·근거가 다름 — 혼동 주의</td></tr>
+<tr><td>acrivastine</td><td>±</td><td>8 ㎎ tid</td><td>작용시간이 짧아 1일 3회 필요(qid 아님). 해외 단일제·복합제가 있으며, 이 용량은 해외 참고 용량. 국내 허가·유통을 확인한 경우에만 처방표로 사용</td></tr>
 </tbody></table>
+
+✽진정의 − 표시는 위험이 없다는 뜻이 아니라 상대적으로 낮다는 의미이다. 모든 성분에서 개인별 졸음·운전 능력을 확인한다.
 
 <sup>1)</sup> fexofenadine은 국내 함량별 허가 적응증이 다를 수 있다. 대표적으로 120 ㎎은 알레르기비염, 180 ㎎은 알레르기성 피부질환(만성 특발성 두드러기) 관련 증상에 사용되므로 처방 전 해당 제품 허가사항을 확인한다.
 
@@ -122,16 +126,16 @@ graph TD
 {% endhint %}
 
 <table><thead><tr><th width="190">성분명 [대표 상품명]</th><th width="200">성인 대표 용량</th><th>주요 주의사항</th></tr></thead><tbody>
-<tr><td>brompheniramine</td><td>속방형 4 ㎎ q4\~6h; 서방형 12 ㎎ bid</td><td>제형 구분 필요. 졸음·항콜린 부작용</td></tr>
-<tr><td>chlorpheniramine <mark style="color:blue;">\[페니라민]</mark></td><td>2\~4 ㎎, 1일 2\~4회</td><td>제품별 1일 최대용량 확인. 소아는 제형별 용량 사용, 감기 복합제 중복 성분 확인</td></tr>
-<tr><td>clemastine <mark style="color:blue;">\[마스질]</mark></td><td>1 ㎎ bid</td><td>졸음·항콜린 부작용</td></tr>
+<tr><td>brompheniramine</td><td>속방형 4 ㎎ q4~6h; 서방형 12 ㎎ bid</td><td>제형 구분 필요. 졸음·항콜린 부작용</td></tr>
+<tr><td>chlorpheniramine <mark style="color:blue;">[페니라민]</mark></td><td>2~4 ㎎, 1일 2~4회</td><td>제품별 1일 최대용량 확인. 소아는 제형별 용량 사용, 감기 복합제 중복 성분 확인</td></tr>
+<tr><td>clemastine <mark style="color:blue;">[마스질]</mark></td><td>1 ㎎ bid</td><td>졸음·항콜린 부작용</td></tr>
 <tr><td>cyproheptadine</td><td>4 ㎎ tid</td><td>졸음, 식욕·체중 증가, 항콜린 부작용</td></tr>
 <tr><td>diphenhydramine</td><td>적응증·제형별 용법 확인</td><td>강한 진정·항콜린 작용. 소아 수면 유도 목적 사용 금지</td></tr>
-<tr><td>hydroxyzine <mark style="color:blue;">\[아디팜]</mark></td><td>피부과 영역 30\~60 ㎎/day, 2\~3회 분할<sup>2)</sup></td><td><span style="color:red">QT 연장</span>. 가능한 최단 기간·최소 유효용량 (☞ 심장 안전성 참고)</td></tr>
-<tr><td>mequitazine <mark style="color:blue;">\[프리마란]</mark></td><td>5 ㎎ bid</td><td>페노티아진 유도체 — 진정·항콜린 작용 및 QT 위험인자 확인</td></tr>
-<tr><td>piprinhydrinate <mark style="color:blue;">\[푸라콩]</mark></td><td>3 ㎎, 1일 1\~3회</td><td>졸음·항콜린 부작용. 현재 공급 여부 확인</td></tr>
+<tr><td>hydroxyzine <mark style="color:blue;">[아디팜]</mark></td><td>피부과 영역 30~60 ㎎/day, 2~3회 분할<sup>2)</sup></td><td><span style="color:red">QT 연장</span>. 가능한 최단 기간·최소 유효용량 (☞ 심장 안전성 참고)</td></tr>
+<tr><td>mequitazine <mark style="color:blue;">[프리마란]</mark></td><td>5 ㎎ bid</td><td>페노티아진 유도체 — 진정·항콜린 작용 및 QT 위험인자 확인</td></tr>
+<tr><td>piprinhydrinate <mark style="color:blue;">[푸라콩]</mark></td><td>3 ㎎, 1일 1~3회</td><td>졸음·항콜린 부작용. 현재 공급 여부 확인</td></tr>
 <tr><td>promethazine</td><td>적응증·제형별 용법 확인</td><td><span style="color:red">2세 미만 금기</span> — 치명적 호흡억제 위험</td></tr>
-<tr><td>triprolidine</td><td>성인 2.5 ㎎, 1일 3\~4회</td><td>국내에서는 복합 감기약이 많으므로 중복 성분 확인</td></tr>
+<tr><td>triprolidine</td><td>성인 2.5 ㎎, 1일 3~4회</td><td>국내에서는 복합 감기약이 많으므로 중복 성분 확인</td></tr>
 </tbody></table>
 
 <sup>2)</sup> 국내 아디팜정 허가사항 : 정신과 영역은 50 ㎎/day를 3회 분할하며 성인 최대 100 ㎎/day이다. 피부과 영역은 30\~60 ㎎/day를 2\~3회 분할한다. 고령자에게는 권장하지 않으며, 투여가 불가피하면 성인 권장량의 절반으로 시작하고 최대 50 ㎎/day로 제한한다. 간장애는 1일 용량의 2/3, 중등도 신장애는 1/2, 중증 신장애는 1/4로 감량한다. 아디팜정에는 소아 용법이 제시되어 있지 않으므로 "전 연령"으로 간주하지 않는다.
@@ -152,10 +156,10 @@ graph TD
 다음 약물은 H1 차단 작용이 있으나 일반적인 알레르기비염·만성 두드러기의 장기 치료제와는 목적이 다르므로 구분한다.
 
 <table><thead><tr><th width="190">성분명 [대표 상품명]</th><th width="220">주된 용도·용법</th><th>비고</th></tr></thead><tbody>
-<tr><td>dimenhydrinate <mark style="color:blue;">\[보나링에이]</mark></td><td>멀미·구역·구토 : 제품 허가 용법에 따라 투여</td><td>진정·항콜린 부작용. 일반 알레르기 치료와 분리</td></tr>
+<tr><td>dimenhydrinate <mark style="color:blue;">[보나링에이]</mark></td><td>멀미·구역·구토 : 제품 허가 용법에 따라 투여</td><td>진정·항콜린 부작용. 일반 알레르기 치료와 분리</td></tr>
 <tr><td>meclizine</td><td>멀미 예방과 현훈은 용법이 다르므로 적응증별 확인</td><td>작용시간이 길며 졸음·항콜린 부작용</td></tr>
 <tr><td>doxylamine</td><td>단일제 수면유도제 : 통상 25 ㎎, 취침 30분 전</td><td>단기간 사용. doxylamine/pyridoxine 임신오조 복합제와 구분</td></tr>
-<tr><td>doxepin <mark style="color:blue;">\[사일레노]</mark></td><td>수면유지 불면증 : 성인 6 ㎎ qhs; 고령자 3 ㎎ qhs로 시작</td><td><span style="color:red">최대 6 ㎎/day</span>. TCA 항우울제 용량(25\~300 ㎎/day)과 절대 혼동하지 않음</td></tr>
+<tr><td>doxepin <mark style="color:blue;">[사일레노]</mark></td><td>수면유지 불면증 : 성인 6 ㎎ qhs; 고령자 3 ㎎ qhs로 시작</td><td><span style="color:red">최대 6 ㎎/day</span>. TCA 항우울제 용량(25~300 ㎎/day)과 절대 혼동하지 않음</td></tr>
 </tbody></table>
 
 {% hint style="danger" %}
@@ -180,8 +184,8 @@ doxepin은 TCA이며 H1 차단 작용이 있으나 일반적인 알레르기 치
 
 ### <mark style="color:orange;">신장·간기능 저하</mark>
 
-* cetirizine·levocetirizine은 주로 신배설 — 신기능에 따라 감량 또는 투여간격 조절이 필요하다. **levocetirizine은 말기 신질환(CrCl 10 mL/min 미만) 및 투석 환자에서 금기**이다.
-* fexofenadine은 신기능 저하 시 낮은 시작용량을 고려한다.
+* cetirizine·levocetirizine은 주로 신배설 — 신기능에 따라 감량 또는 투여간격 조절이 필요하다. **cetirizine·levocetirizine은 CrCl ＜10 ㎖/min의 말기 신질환·투석 환자에서 금기**이다. 지르텍정 성인 허가용량은 CrCl 30\~49 ㎖/min에서 5 ㎎ qd, 10\~29 ㎖/min에서 5 ㎎을 2일마다 1회이며, 소아는 체중·신기능에 따라 개별 조절한다.
+* fexofenadine은 국내 알레그라 120·180 ㎎ 제품 허가사항에서 경증\~중증 신부전 성인의 시작용량을 **60 ㎎ 1일 1회**로 제시한다. 신기능이 감소한 환자에게 해당 120·180 ㎎ 단회용량을 그대로 투여하지 않는다.
 * loratadine·desloratadine은 중증 간·신기능 저하에서 제품별 투여간격을 확인한다.
 * hydroxyzine은 간장애에서 1일 용량의 2/3, 중등도 신장애에서 1/2, 중증 신장애에서 1/4로 감량한다.
 * 일부 성분은 투석으로 충분히 제거되지 않을 수 있으므로 개별 제품 허가사항을 확인한다.
@@ -189,7 +193,7 @@ doxepin은 TCA이며 H1 차단 작용이 있으나 일반적인 알레르기 치
 ### <mark style="color:orange;">임신·수유</mark>
 
 * 과거 FDA 임신 알파벳 등급(A/B/C/D/X)은 2015년 Pregnancy and Lactation Labeling Rule 시행으로 폐지되었다. 필요하면 "구 FDA B등급(현재 폐지)"처럼 역사적 정보로만 표시하고, 현행 안전성 평가를 대신하는 분류로 사용하지 않는다.
-* 임신 중 치료가 필요하면 비교적 사용 경험이 많은 cetirizine 또는 loratadine 등을 우선 고려할 수 있다.
+* 국제 임신·수유 자료에서는 사용 경험이 많은 cetirizine·loratadine 등을 고려하지만, 이를 국내 모든 제품의 허가로 해석하지 않는다. 국내 클라리틴정은 임부·수유부 금기이며, 지르텍정은 임신·수유 시 주의하도록 규정한다. 개별 제품의 최신 문서에 따라 약제를 선택한다.
 * 수유 중에는 loratadine, cetirizine 또는 fexofenadine 등이 흔히 선호되지만 국내 첨부문서와 국제 수유자료가 다를 수 있으므로 개별 제품을 확인한다.
 * 1세대 제제는 영아 진정, 수유량 감소 및 산모의 각성도 저하 가능성에 주의한다.
 * 국내 아디팜정(hydroxyzine)은 임신부·수유부 금기이며, 투여가 불가피하면 수유를 중단하도록 허가되어 있다. 국내 허가사항은 금기이나, 해외 자료에서는 제한적 사용 경험이 보고되어 있다 — 국내 처방은 국내 허가사항을 우선한다.
@@ -205,6 +209,7 @@ doxepin은 TCA이며 H1 차단 작용이 있으나 일반적인 알레르기 치
 * **식욕·체중 증가** : cyproheptadine, ketotifen 등에서 상대적으로 중요하다.
 * **QT 연장·심실부정맥** : 모든 항히스타민제의 동일한 계열효과가 아니다. Hydroxyzine·mizolastine은 QT 연장 위험과 금기·병용약물을 적극 확인한다. Ebastine·rupatadine 등은 고용량, 기존 QT 연장, 전해질 이상 및 CYP3A4 억제제 병용 등 제품별 조건부 위험을 확인한다.
 * **중추신경 억제 증가** : 알코올, 수면제, benzodiazepine, opioid, 항정신병약 등과 병용하면 졸음과 호흡·정신운동 기능 저하가 증가할 수 있다.
+* **Cetirizine·levocetirizine 중단 후 심한 가려움** : 장기간 매일 사용한 뒤 중단하면 드물게 수일 내 심한 전신 가려움이 발생할 수 있다(FDA, 2025). 원래 알레르기 증상의 재발과 구분하고, 중증이면 의료진이 재투여·감량 등 대처를 개별 결정한다. 확립된 표준 감량법은 없다.
 * **알레르기 피부시험 간섭** : 항히스타민제는 피부반응을 억제할 수 있으므로 검사 전 약물의 작용시간에 따라 미리 중단한다. 국내 아디팜정 허가사항은 알레르기 피부시험 또는 methacholine 기관지유발검사 전 최소 5일 중단하도록 규정한다.
 
 ***
@@ -236,7 +241,7 @@ T78.2 상세불명의 아나필락시스 쇼크
 > **처방례 1. 계절성 알레르기비염, 경증\~중등도**
 >
 > ```
-> 지르텍정 10 mg  1T  qd
+> 지르텍정 10 mg  1T  취침 전  qd
 > ```
 >
 > _✽재채기·콧물·가려움이 주 증상인 경우 2세대 항히스타민제 단독으로 충분한 경우가 많음. 코막힘이 동반되면 비강 스테로이드 병용을 고려_
@@ -249,16 +254,16 @@ T78.2 상세불명의 아나필락시스 쇼크
 > ※ 2주 후에도 무반응 시 최대 4배(1일 40 mg)까지 단계적 증량 고려
 > ```
 >
-> _✽서로 다른 항히스타민제를 임의로 병용하기보다 동일 약제를 단계적으로 증량 (EAACI/GA²LEN/EuroGuiDerm/APAAACI 2026)_
+> _✽서로 다른 항히스타민제를 임의로 병용하기보다 동일 약제를 단계적으로 증량 (국제 두드러기 지침 2026)_
 
-> **처방례 3. 고령 환자의 소양증 — 1세대 대신 2세대로 대체**
+> **처방례 3. 고령 환자의 두드러기·히스타민성 소양증 — 1세대 대신 2세대로 대체**
 >
 > ```
 > 클라리틴정 10 mg  1T  qd
 > ※ 기존 hydroxyzine·chlorpheniramine 등 1세대 항히스타민제 복용 중이었다면 낙상·섬망 위험 설명 후 대체
 > ```
 >
-> _✽2023 AGS Beers Criteria — 고령자에서 1세대 항히스타민제 회피 원칙_
+> _✽2023 AGS Beers Criteria — 고령자에서 1세대 항히스타민제 회피 원칙. 건조피부·담즙정체·요독성·신경병성 소양증은 원인 치료가 우선이며 항히스타민제 효과가 제한적일 수 있음_
 
 > **처방례 4. 수면유지 불면증**
 >
@@ -274,7 +279,7 @@ T78.2 상세불명의 아나필락시스 쇼크
 >
 > ```
 > 보나링에이정 50 mg  1T  출발 30분\~1시간 전
-> ※ 필요시 4\~6시간 간격으로 추가 가능, 1일 4회 초과 금지
+> ※ 추가 복용은 처방한 용법에 따르며, 원칙적으로 1일 총 200 mg(50 mg 4정)을 초과하지 않음
 > ```
 >
 > _✽알레르기 치료 목적이 아니므로 장기·정기 복용 대상이 아님을 설명_
@@ -349,7 +354,9 @@ T78.2 상세불명의 아나필락시스 쇼크
 1. SILENOR (doxepin) Prescribing Information. FDA/DailyMed, 최종개정 반영.
 2. PRAC recommends new measures to minimise known heart risks of hydroxyzine-containing medicines. European Medicines Agency, 2015.
 3. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. *J Am Geriatr Soc*. 2023.
-4. Zuberbier T, et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. *Allergy*. 2026. doi:10.1111/all.70210.
+4. Zuberbier T, et al. [The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria](https://doi.org/10.1111/all.70210). *Allergy*. 2026;81:2582–2632.
 5. 아디팜정(hydroxyzine hydrochloride) 국내 제품설명서.
 6. 알레그라정(fexofenadine) 국내 제품정보.
 7. Intranasal versus oral treatments for allergic rhinitis: a systematic review with meta-analysis. *J Allergy Clin Immunol Pract*. 2024.
+8. FDA. [Warning about rare but severe itching after stopping long-term oral cetirizine or levocetirizine](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines). 2025.
+9. 국내 허가사항(약학정보원 수록): [지르텍정](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB2527), [씨잘정](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AOOOOO3892), [클라리틴정](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009091800015), [에리우스정](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AKP08G0615), [알레그라정180 ㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB1394), [보나링에이정](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0950A0043). 2026-10-04 확인.
