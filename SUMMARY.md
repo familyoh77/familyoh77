@@ -51,7 +51,7 @@
   * [누낭염 Dacryocystitis](222_/043_-dacryocystitis.md)
   * [결막하출혈 Subconjunctival Hemorrhage, SCH](222_/044_-subconj-hemorrhage.md)
   * [눈 이물 Foreign Body in the Eye](222_/045_-foreign-body-eye.md)
-  * [귀인두관기능부전 Eustachian Tube Dysfunction](222_/046_-e-tube-dysfunction.md)
+  * [귀인두관기능부전 Eustachian Tube Dysfunction, ETD](222_/046_-e-tube-dysfunction.md)
   * [외이염 Otitis Externa](222_/047_-otitis-externa.md)
   * [중이염 Otitis Media](222_/048_-otitis-media.md)
   * [귀 손상 Ear Injury](222_/049_-ear-injury.md)
