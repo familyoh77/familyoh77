@@ -272,7 +272,7 @@ graph TD
 
 * ferritin ≤75 ng/㎖ 및 TSAT ＜45%에서 고려 \[RLS Foundation 2026]
   * 위 표의 “ferritin ≤75 ng/㎖ 또는 TSAT ＜20%”는 AASM 2025의 철분 보충 개시 기준이며, 이 항목의 경구 철분 기준은 RLS Foundation 2026의 범위임
-* Ferritin ＞75 ng/㎖이고 TSAT만 낮은 경우(특히 ferritin 75\~100 ng/㎖)에는 경구 철분을 바로 시작하지 말고 염증·흡수장애 여부와 IV 철분 적합성을 평가 (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
+* Ferritin ＞75 ng/㎖이고 TSAT만 낮은 경우(특히 ferritin 75\~100 ng/㎖)에는 경구 철분을 바로 시작하지 말고 염증·흡수장애 여부와 IV 철분 적합성을 평가 (☞ [철결핍빈혈](../230_/193_-iron-def-anemia.md))
 * 취침 전 복용을 고려할 수 있으나, 아침 복용보다 RLS 치료 효과가 우수하다는 임상 근거는 확립되지 않음
   * 공복 복용 가능 여부와 내약성을 고려해 복용 시각을 정함
   * 식사나 칼슘·마그네슘·카페인 섭취 후 2시간 이상 지나서 복용하고, 위장 장애 시 음식과 함께 복용할 수 있음
@@ -421,7 +421,7 @@ graph TD
 
 #### <mark style="color:$primary;">말기콩팥병·투석 환자</mark>
 
-* 철분 결핍 교정 : ferritin ＜200 ng/㎖ 및 TSAT ＜20%인 말기콩팥병 환자에서 IV iron sucrose를 AASM 2025가 조건부 권고(투석 회로 투여 가능) <mark style="color:blue;">\[베노훼럼주]</mark>&#x20;
+* 철분 결핍 교정 : ferritin ＜200 ng/㎖ 및 TSAT ＜20%인 말기콩팥병 환자에서 IV iron sucrose를 AASM 2025가 조건부 권고(투석 회로 투여 가능) <mark style="color:blue;">\[베노훼럼주]</mark>
 * 비타민 C 보충 \[AASM 2025 조건부 권고], 운동, 마사지, 투석액 온도 낮추기
 * 콩팥이식 후 호전되거나 소실되는 경우가 많음
 * gabapentin, pregabalin : 저용량으로 시작하고 투석 후 투여, 진정·보행 불안정을 주의 깊게 관찰

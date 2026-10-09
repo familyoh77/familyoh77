@@ -119,7 +119,13 @@ _✽이 Heat map(위험도)은 말기 신부전 진행 위험뿐 아니라 심�
 
 #### <mark style="color:$primary;">CKD 표식자로서의 단백뇨 및 소변 침사 검사 이상의 해석</mark>
 
-<table><thead><tr><th>소변 침사 소견</th><th>주요 해석</th><th>주의점</th></tr></thead><tbody><tr><td>RBC 원주 또는 현저한 dysmorphic RBC</td><td>사구체성 혈뇨·사구체신염 시사</td><td>RBC 원주가 없다고 사구체 질환을 배제할 수 없음</td></tr><tr><td>WBC 원주</td><td>세뇨관간질염·신우신염 등 시사</td><td>증상, 배양검사, 약물 노출과 함께 해석</td></tr><tr><td>지방원주·oval fat body</td><td>신증후군성 단백뇨 시사</td><td>uACR/uPCR 및 혈청 albumin 확인</td></tr><tr><td>과립원주·muddy brown cast</td><td>급성 세뇨관 손상 시사</td><td>AKI 경과와 함께 평가</td></tr><tr><td>주로 isomorphic RBC</td><td>요로계 출혈 가능성</td><td>단독 소견으로 출혈 위치를 확정하거나 사구체 질환을 배제하지 않음</td></tr></tbody></table>
+| 소변 침사 소견                     | 주요 해석            | 주의점                                  |
+| ---------------------------- | ---------------- | ------------------------------------ |
+| RBC 원주 또는 현저한 dysmorphic RBC | 사구체성 혈뇨·사구체신염 시사 | RBC 원주가 없다고 사구체 질환을 배제할 수 없음         |
+| WBC 원주                       | 세뇨관간질염·신우신염 등 시사 | 증상, 배양검사, 약물 노출과 함께 해석               |
+| 지방원주·oval fat body           | 신증후군성 단백뇨 시사     | uACR/uPCR 및 혈청 albumin 확인            |
+| 과립원주·muddy brown cast        | 급성 세뇨관 손상 시사     | AKI 경과와 함께 평가                        |
+| 주로 isomorphic RBC            | 요로계 출혈 가능성       | 단독 소견으로 출혈 위치를 확정하거나 사구체 질환을 배제하지 않음 |
 
 _✽uACR/uPCR 수치와 침사 소견은 원인 질환을 확정하지 않으므로 임상 경과·혈청검사·영상검사와 함께 해석_
 
@@ -149,20 +155,20 @@ _✽uACR/uPCR 수치와 침사 소견은 원인 질환을 확정하지 않으므
 
 <table><thead><tr><th width="80.4761962890625">G 병기</th><th width="123.33331298828125">eGFR</th><th width="146.66668701171875">설명</th><th width="253.3333740234375">치료 계획</th><th>일반적 측정 간격*</th></tr></thead><tbody><tr><td>G1</td><td>≥90</td><td>정상 또는 높음</td><td>원인·심혈관 위험 인자 관리</td><td>매년</td></tr><tr><td>G2</td><td>60~89</td><td>경도 감소</td><td>진행 여부 평가</td><td>매년</td></tr><tr><td>G3a</td><td>45~59</td><td>경도~중등도 감소</td><td>합병증 평가 및 치료</td><td>3~12개월</td></tr><tr><td>G3b</td><td>30~44</td><td>중등도~고도 감소</td><td>합병증 평가 및 치료</td><td>3~6개월</td></tr><tr><td>G4</td><td>15~29</td><td>고도 감소</td><td>KFRE에 따라 다학제 관리·KRT 준비</td><td>1~3개월</td></tr><tr><td>G5</td><td>＜15</td><td>신부전</td><td>증상·검사 이상·선호를 종합해 KRT 또는 보존콩팥관리</td><td>약 1~3개월 또는 임상 상태에 따라</td></tr></tbody></table>
 
-_*A 병기, 진행 속도, 합병증, 치료 변경에 따라 단축 또는 연장_
+_\*A 병기, 진행 속도, 합병증, 치료 변경에 따라 단축 또는 연장_
 
-<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em><br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
 #### <mark style="color:$primary;">CKD 단계에 따른 검사 종목별 추적 관찰 권고 기간</mark>
 
 <table><thead><tr><th width="104.2857666015625">CKD 단계</th><th width="130">Cr/eGFR, Hb</th><th width="127.142822265625">uACR*</th><th width="110">iPTH</th><th>칼슘, 인</th></tr></thead><tbody><tr><td>G1, G2</td><td>매년</td><td>매년</td><td>임상적 적응증이 있을 때</td><td>임상적 적응증이 있을 때</td></tr><tr><td>G3</td><td>3~12개월</td><td>3~12개월</td><td>초기값과 변화 추세에 따라</td><td>6~12개월 또는 변화 추세에 따라</td></tr><tr><td>G4</td><td>1~3개월</td><td>1~3개월</td><td>변화 추세와 치료 여부에 따라</td><td>3~6개월 또는 변화 추세에 따라</td></tr><tr><td>G5</td><td>1~3개월 또는 임상 상태에 따라</td><td>임상적 필요에 따라</td><td>변화 추세와 치료 여부에 따라</td><td>1~3개월 또는 임상 상태에 따라</td></tr></tbody></table>
 
-_*알부민뇨가 예후 평가의 표준이며, 비알부민 단백뇨가 의심되거나 다량 단백뇨에서는 uPCR을 병용_
+_\*알부민뇨가 예후 평가의 표준이며, 비알부민 단백뇨가 의심되거나 다량 단백뇨에서는 uPCR을 병용_
 
 * 모든 CKD 환자는 내원 시마다 혈압 측정
 * 추적 관찰 기간은 환자의 동반 질환이나 개별 상태에 따라 단축될 수 있음
 
-<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em><br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
 ***
 
@@ -190,7 +196,7 @@ style F fill:#ffcdd2,stroke:#c62828
 
 <p align="center"><strong>CKD 병기 분류 및 신장내과 의뢰 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em> <br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KDIGO 2024 CKD Guideline;</mark></em><br><em><mark style="color:$info;">대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022.</mark></em></p>
 
 ***
 
@@ -273,7 +279,7 @@ style F fill:#ffcdd2,stroke:#c62828
 * KDIGO는 eGFR ≥20 ㎖/min/1.73㎡이고 uACR ≥200 ㎎/g이거나, 심부전이 있는 성인 CKD에서 알부민뇨와 관계없이 SGLT2 억제제를 권고. eGFR 20\~45이고 uACR ＜200 ㎎/g에서도 사용을 고려할 수 있음. 국내 신규 시작은 제품별 허가·급여 기준 확인
 * 이미 투여 중인 경우 내약성이 양호하면 eGFR이 20 미만으로 떨어지더라도 투석·이식(KRT)을 시작하기 전까지 지속 가능\[KDIGO]
 * 부작용 : 생식기 진균 감염, 드물게 정상혈당 당뇨병성 케톤산증(euglycemic DKA) - 급성 질환·수술 전 sick-day rule 교육 필요
-* 급여 기준 : [dapagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031)  <mark style="color:blue;">\[다파엔]</mark>, [empagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251024\&sno=1\&mtgMtrRegSno=0002)  <mark style="color:blue;">\[자디앙]</mark>
+* 급여 기준 : [dapagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031) <mark style="color:blue;">\[다파엔]</mark>, [empagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251024\&sno=1\&mtgMtrRegSno=0002) <mark style="color:blue;">\[자디앙]</mark>
 
 #### <mark style="color:$primary;">비스테로이드성 MRA - 당뇨병성 신장병</mark>
 
@@ -314,7 +320,7 @@ style F fill:#ffcdd2,stroke:#c62828
 * erythropoiesis-stimulating agent(ESA) : 교정 가능한 원인을 치료한 뒤 비투석 환자에서는 빈혈 증상·수혈 회피 필요성·심혈관 및 혈전 위험을 고려해 시작 시점을 개별화(대개 Hb 8.5\~10 g/㎗ 범위)
   * 조절 목표 : 대개 Hb 10\~11.5 g/㎗이며 11.5 g/㎗ 이상으로 유지하지 않음
   * 과도한 교정은 고혈압 악화, 위장관 장애(경구 철분제), 심부전/뇌졸중(ESA) 위험을 높일 수 있음
-* 제제 : ferrous sulfate, ESA(epoetin alfa, darbepoetin alfa 등) (☞ [철결핍빈혈](../230_/193_-iron-deficiency-anemia.md))
+* 제제 : ferrous sulfate, ESA(epoetin alfa, darbepoetin alfa 등) (☞ [철결핍빈혈](../230_/193_-iron-def-anemia.md))
 
 #### <mark style="color:$primary;">요독증</mark>
 

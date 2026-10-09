@@ -39,7 +39,7 @@ ANOCA/INOCA\
 * **Acute coronary syndrome (ACS)** : 관상동맥의 급성 폐쇄 또는 불안정한 죽상경화성 병변으로 발생하는 급성 허혈성 증후군
   * STEMI, NSTEMI, unstable angina 포함
 * **전형적 협심증 (typical angina)** : 전형적 특징 3가지를 모두 충족
-* **Possibly cardiac angina (구 atypical angina)** : 전형적 특징 중 2가지 해당 - [2021 AHA/ACC] 권고에 따라 "atypical" 대신 "possibly cardiac" 사용(☞ [흉통](../220_/002_-chest-pain.md))
+* **Possibly cardiac angina (구 atypical angina)** : 전형적 특징 중 2가지 해당 - \[2021 AHA/ACC] 권고에 따라 "atypical" 대신 "possibly cardiac" 사용(☞ [흉통](../220_/002_-chest-pain.md))
 * **비심장성 흉통 (non-cardiac chest pain)** : 전형적 협심증의 특징이 없거나 1가지만 해당
 * **협심증 유사 증상 (angina equivalent)** : 힘든 활동/스트레스와 관련하여 흉통 없이 호흡 곤란, 발한, 피로감, 구역, 소화불량, 복통 등의 비특이적 증상 발생; 여성, 고령, 당뇨병 환자에서 더 흔함 (☞ [흉통](../220_/002_-chest-pain.md))
 * **진료 현황** \[우리나라] : 2020년 협심증(I20) 진료 환자 약 66.9만 명(2016년 대비 7.0% 증가); 60대가 전체 환자의 32.9%로 가장 많음; 심장 질환은 우리나라 사망 원인 2위(1위 - 암)
@@ -138,7 +138,7 @@ ANOCA/INOCA\
 _CCTA=Coronary CT angiography, CACS=coronary artery calcium score, ICA=invasive coronary angiography_
 
 {% hint style="info" %}
-ESC 2024는 **≤5%를 매우 낮은 가능성**으로 정의하여 증상이 지속되지 않는 한 추가 검사를 보류할 수 있도록 하고, **＞5~15%**에서는 CACS를 이용한 재분류를 고려함. **＞15~50%**에서는 CCTA가 선호되며, **＞15~85%**에서는 CCTA 또는 기능적 영상검사를 사용함. **＞85%** 또는 저강도 운동에서도 발생하는 협심증·고위험 소견이 있으면 ICA를 직접 고려할 수 있음.
+ESC 2024는 **≤5%를 매우 낮은 가능성**으로 정의하여 증상이 지속되지 않는 한 추가 검사를 보류할 수 있도록 하고, \*\*＞5~~15%\*\*에서는 CACS를 이용한 재분류를 고려함. \*\*＞15~~50%\*\*에서는 CCTA가 선호되며, \*\*＞15\~85%\*\*에서는 CCTA 또는 기능적 영상검사를 사용함. **＞85%** 또는 저강도 운동에서도 발생하는 협심증·고위험 소견이 있으면 ICA를 직접 고려할 수 있음.
 {% endhint %}
 
 ### <mark style="color:orange;">검사 전략 - CCTA or 기능적 영상검사</mark>
@@ -149,7 +149,7 @@ ESC 2024는 **≤5%를 매우 낮은 가능성**으로 정의하여 증상이 �
 <table><thead><tr><th width="346">상황</th><th>우선 고려 검사</th></tr></thead><tbody><tr><td>CAD 미확진, clinical likelihood ＞5~50%</td><td>CCTA 우선 고려; 기능적 영상검사도 가능</td></tr><tr><td>CAD 미확진, clinical likelihood ＞15~85%</td><td>CCTA 또는 stress echo/PET/SPECT/CMR</td></tr><tr><td>기존 obstructive CAD에서 증상 재발 또는 허혈 평가 필요</td><td>Stress imaging 등 기능적 검사</td></tr><tr><td>CCTA에서 40~90% 중간 정도 협착의 기능적 의미가 불확실</td><td>기능적 영상검사 또는 적절한 경우 FFR-CT; 재관류를 고려하면 ICA ± FFR/iFR</td></tr><tr><td>고가능성·저강도 활동에서도 발생하는 협심증 또는 고위험 해부학적 소견</td><td>ICA 및 필요 시 revascularization 평가</td></tr></tbody></table>
 
 {% hint style="info" %}
-**기능적 영상검사** : stress echocardiography, PET/SPECT myocardial perfusion imaging, stress CMR. 운동부하 심전도는 별도의 검사이며, CCTA 또는 기능적 영상검사가 가능한 경우 저~중간 가능성 환자에서 CAD 배제를 위한 1차 검사로는 권장되지 않음.
+**기능적 영상검사** : stress echocardiography, PET/SPECT myocardial perfusion imaging, stress CMR. 운동부하 심전도는 별도의 검사이며, CCTA 또는 기능적 영상검사가 가능한 경우 저\~중간 가능성 환자에서 CAD 배제를 위한 1차 검사로는 권장되지 않음.
 {% endhint %}
 
 ### <mark style="color:orange;">신체 검사</mark>
@@ -239,7 +239,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 2. 협심증 증상 완화 - 삶의 질 향상
 3. 심혈관 위험 인자의 최적 관리
 
-### <mark style="color:orange;">치료 방침 [AHA/ACC 2023; ESC 2024]</mark>
+### <mark style="color:orange;">치료 방침 \[AHA/ACC 2023; ESC 2024]</mark>
 
 <table><thead><tr><th width="73">항목</th><th width="186">핵심 내용</th><th>주요 치료</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>Antiplatelet</td><td>폐쇄성 CAD에서는 장기 단일 항혈소판요법이 기본: aspirin 75~100 ㎎/d 또는 clopidogrel 75 ㎎/d; PCI 후에는 초기 DAPT 필요</td></tr><tr><td><strong>B</strong></td><td>Blood pressure / Beta-blocker</td><td>혈압은 동반 고혈압 진료지침에 따라 개별화; β-차단제는 협심증 증상, 최근 MI, LVEF 저하, 부정맥 등 적응증에 따라 사용</td></tr><tr><td><strong>C</strong></td><td>Cholesterol / Cigarette smoking</td><td>고강도 statin을 기본으로 LDL-C를 적극적으로 낮추고 금연</td></tr><tr><td><strong>D</strong></td><td>Diet / Diabetes</td><td>지중해식 등 심혈관 보호 식이; 당뇨병 동반 시 심혈관 이득이 입증된 SGLT2i 또는 GLP-1RA 고려</td></tr><tr><td><strong>E</strong></td><td>Exercise / Education</td><td>규칙적 유산소·저항운동 및 적절한 환자 교육; 적격 환자는 심장재활 참여</td></tr><tr><td><strong>F</strong></td><td>Follow-up / Flu vaccination</td><td>증상·복약·위험인자에 따른 개별 추적; 매년 인플루엔자 예방접종, COVID-19 예방접종은 공중보건 권고에 따름</td></tr></tbody></table>
 
@@ -251,7 +251,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 재발성 ASCVD 사건이 있는 매우 고위험 환자에서는 더 낮은 LDL-C 목표를 개별적으로 고려할 수 있으나, 국내 진료에서는 [이상지질혈증](099_-dyslipidemia.md) 장의 최신 목표를 우선 적용
 {% endhint %}
 
-### <mark style="color:orange;">Stable Angina 접근 [AHA/ACC 2023; ESC 2024]</mark>
+### <mark style="color:orange;">Stable Angina 접근 \[AHA/ACC 2023; ESC 2024]</mark>
 
 **1단계 - ACS 및 비심장성 흉통 배제**
 
@@ -294,11 +294,11 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 #### <mark style="color:$primary;">금연 및 음주 제한</mark>
 
 * [금연](../230_/190_-smoking.md) : 전자담배는 장기 안전성 자료 부족; 금연의 1차 방법으로 권고하지 않음
-* [음주](../230_/189_-alcohol-use-disorder-aud.md) 제한
+* [음주](../230_/189_-alcohol-use-disorder.md) 제한
 
 #### <mark style="color:$primary;">체중 관리</mark>
 
-* 과체중/비만에서는 초기 체중의 약 5~10% 감량을 목표로 개별화 (☞ [비만](../230_/191_-obesity.md))
+* 과체중/비만에서는 초기 체중의 약 5\~10% 감량을 목표로 개별화 (☞ [비만](../230_/191_-obesity.md))
 
 #### <mark style="color:$primary;">식이 조절</mark>
 
@@ -351,12 +351,12 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
   * COPD와 안정된 PAD는 절대적 금기가 아니며, 심혈관 적응증이 있으면 심선택적 β₁-차단제를 신중히 사용할 수 있음
   * 당뇨병에서는 저혈당 증상을 가릴 수 있어 주의
 * 용량은 고정된 맥박 목표보다 증상, 혈압, 심박수 및 내약성을 기준으로 조절
-* β-차단제 갑작스런 중단은 rebound tachycardia/ischemia를 유발할 수 있으므로 필요 시 보통 1~2주 이상에 걸쳐 감량
+* β-차단제 갑작스런 중단은 rebound tachycardia/ischemia를 유발할 수 있으므로 필요 시 보통 1\~2주 이상에 걸쳐 감량
 * cardioselective β₁-차단제를 선호할 수 있으며, ISA가 있는 약제는 허혈성 심질환의 장기 치료에는 일반적으로 선호하지 않음 (☞ [β-차단제](095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
-* atenolol : 신기능 저하자 주의; 25~200 ㎎/d <mark style="color:blue;">[테놀민]</mark>
-* bisoprolol : 2.5~10 ㎎/d <mark style="color:blue;">[콩코르]</mark>
-* carvedilol : 6.25~50 ㎎/d <mark style="color:blue;">[딜라트렌 에스알]</mark>
-* metoprolol succinate : 25~400 ㎎/d <mark style="color:blue;">[푸로롤 서방]</mark>
+* atenolol : 신기능 저하자 주의; 25\~200 ㎎/d <mark style="color:blue;">\[테놀민]</mark>
+* bisoprolol : 2.5\~10 ㎎/d <mark style="color:blue;">\[콩코르]</mark>
+* carvedilol : 6.25\~50 ㎎/d <mark style="color:blue;">\[딜라트렌 에스알]</mark>
+* metoprolol succinate : 25\~400 ㎎/d <mark style="color:blue;">\[푸로롤 서방]</mark>
 
 {% hint style="info" %}
 **COPD는 β-차단제의 절대 금기가 아님** - 심혈관 적응증이 있으면 심선택적 β₁-차단제를 저용량에서 시작하여 호흡기 증상을 관찰하면서 사용할 수 있음. 반면 활동성/중증 기관지경련성 천식에서는 β-차단제를 피하는 것이 일반적이며, 꼭 필요한 경우 전문적인 감독하에 개별적으로 판단.
@@ -371,15 +371,15 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 
 #### <mark style="color:$primary;">DHP계 CCB</mark>
 
-* amlodipine : 5~10 ㎎/d <mark style="color:blue;">[노바스크]</mark>
-* felodipine : 5~10 ㎎/d <mark style="color:blue;">[무노발]</mark>
-* nifedipine : 안정 협심증에서는 단시간 작용 제제를 피하고 서방형 제제를 사용; 30~90 ㎎/d <mark style="color:blue;">[아달라트]</mark>
+* amlodipine : 5\~10 ㎎/d <mark style="color:blue;">\[노바스크]</mark>
+* felodipine : 5\~10 ㎎/d <mark style="color:blue;">\[무노발]</mark>
+* nifedipine : 안정 협심증에서는 단시간 작용 제제를 피하고 서방형 제제를 사용; 30\~90 ㎎/d <mark style="color:blue;">\[아달라트]</mark>
 * 부작용 : 안면 홍조, 두통, 말초 부종
 
 #### <mark style="color:$primary;">Non-DHP계 CCB</mark>
 
-* diltiazem : 120~480 ㎎/d <mark style="color:blue;">[헤르벤 서방]</mark>
-* verapamil : 120~480 ㎎/d <mark style="color:blue;">[이솦틴 서방]</mark>
+* diltiazem : 120\~480 ㎎/d <mark style="color:blue;">\[헤르벤 서방]</mark>
+* verapamil : 120\~480 ㎎/d <mark style="color:blue;">\[이솦틴 서방]</mark>
 * 작용 : negative chronotropic/dromotropic 및 negative inotropic effect
 * 부작용 : 서맥, 방실전도 장애, 변비, 말초 부종
 * 금기/주의 : 고도 방실전도 장애, sick sinus syndrome, 심한 서맥, HFrEF에서는 피하는 것이 일반적
@@ -406,7 +406,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 #### <mark style="color:$primary;">속효성 제제 (급성 발작 치료)</mark>
 
 * 증상 치료 또는 예방 (스트레스 발생 예상 5분 전 투여); 30\~40분간 유효
-* nitroglycerin : 제품 허가용량에 따라 보통 0.3~0.6 ㎎ 설하; 앉은 자세에서 투여하고 5분 후에도 흉통이 호전되지 않거나 악화되면 즉시 119 연락. 이후 추가 투여는 응급의료 지시에 따르며, 안정 협심증에서 증상이 호전되는 경우에도 총 3회 이내로 투여 <mark style="color:blue;">[니트로글리세린]</mark>
+* nitroglycerin : 제품 허가용량에 따라 보통 0.3\~0.6 ㎎ 설하; 앉은 자세에서 투여하고 5분 후에도 흉통이 호전되지 않거나 악화되면 즉시 119 연락. 이후 추가 투여는 응급의료 지시에 따르며, 안정 협심증에서 증상이 호전되는 경우에도 총 3회 이내로 투여 <mark style="color:blue;">\[니트로글리세린]</mark>
   * 증상 발생 전 유발 활동을 예상할 수 있는 경우 예방적으로 사용할 수 있음
   * 개봉 후 수개월 내 교체 권장 (제조사 권고 보관 기간 준수); 빛과 열에 민감 - 차광 보관
 
@@ -439,7 +439,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 
 * evolocumab : 140 ㎎ q2wk 또는 420 ㎎ q4wk SC <mark style="color:blue;">\[레파타]</mark>
 * alirocumab : 75\~150 ㎎ q2wk SC <mark style="color:blue;">\[프랄런트]</mark>
-* inclisiran (siRNA, PCSK9 mRNA 표적; 초기 투여 후 3개월, 이후 6개월마다) <mark style="color:blue;">[렉비오프리필드시린지]</mark> (국내 급여 여부는 최신 기준 확인)
+* inclisiran (siRNA, PCSK9 mRNA 표적; 초기 투여 후 3개월, 이후 6개월마다) <mark style="color:blue;">\[렉비오프리필드시린지]</mark> (국내 급여 여부는 최신 기준 확인)
 * bempedoic acid : 국내 미허가 (2026년 기준)
 
 {% hint style="info" %}
@@ -458,20 +458,20 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 * aspirin 불내성 또는 특정 임상 상황에서는 clopidogrel 75 ㎎/d 단독을 대안으로 사용할 수 있음
 
 {% hint style="info" %}
-**장기 단일 항혈소판요법** : ESC 2024는 prior MI/PCI 환자에서 초기 DAPT 이후 aspirin 75~100 ㎎/d 또는 clopidogrel 75 ㎎/d를 장기 단독요법으로 권고. HOST-EXAM은 PCI 후 안정된 환자에서 clopidogrel이 aspirin보다 순복합임상결과가 우수했지만, 이를 모든 CCS 환자에서 clopidogrel이 aspirin보다 우선이라는 의미로 해석해서는 안 됨.
+**장기 단일 항혈소판요법** : ESC 2024는 prior MI/PCI 환자에서 초기 DAPT 이후 aspirin 75\~100 ㎎/d 또는 clopidogrel 75 ㎎/d를 장기 단독요법으로 권고. HOST-EXAM은 PCI 후 안정된 환자에서 clopidogrel이 aspirin보다 순복합임상결과가 우수했지만, 이를 모든 CCS 환자에서 clopidogrel이 aspirin보다 우선이라는 의미로 해석해서는 안 됨.
 {% endhint %}
 
 #### <mark style="color:$primary;">P2Y12 수용체 차단제</mark>
 
 * 적응증 : aspirin 사용이 어려운 경우 clopidogrel 단독; PCI 후 DAPT의 P2Y12 억제제로는 CCS에서는 보통 clopidogrel 사용
-* clopidogrel : 75 ㎎/d <mark style="color:blue;">[플라빅스]</mark>
+* clopidogrel : 75 ㎎/d <mark style="color:blue;">\[플라빅스]</mark>
 * prasugrel, ticagrelor는 주로 ACS 후 DAPT에서 사용하므로 급성관상동맥증후군 치료 원칙에 따름
 * DAPT 기간은 허혈위험·출혈위험·PCI 상황에 따라 개별화
 
 <table><thead><tr><th width="248">상황</th><th>DAPT 기간 기준</th></tr></thead><tbody><tr><td>CCS에서 elective PCI</td><td>aspirin + clopidogrel을 기본으로 <strong>6개월</strong>; 고출혈위험에서는 1~3개월로 단축 고려</td></tr><tr><td>ACS 후 PCI</td><td>기본적으로 12개월; 출혈위험이 높으면 단축 고려</td></tr><tr><td>MI/PCI 후 장기 허혈위험이 높고 출혈위험이 낮음</td><td>1년 이후 추가 항혈전요법을 개별적으로 고려; aspirin + ticagrelor 60 ㎎ bid 또는 다른 전략을 위험도에 따라 선택</td></tr></tbody></table>
 
 {% hint style="info" %}
-**BMS(bare-metal stent)를 기준으로 DAPT 기간을 별도 제시하는 방식은 현재 실무에서 더 이상 적절하지 않음.** 최신 DES가 표준이며, 2024 ESC는 CCS elective PCI 후 DAPT 기본 6개월, 고출혈위험에서는 1~3개월 단축을 권고함.
+**BMS(bare-metal stent)를 기준으로 DAPT 기간을 별도 제시하는 방식은 현재 실무에서 더 이상 적절하지 않음.** 최신 DES가 표준이며, 2024 ESC는 CCS elective PCI 후 DAPT 기본 6개월, 고출혈위험에서는 1\~3개월 단축을 권고함.
 {% endhint %}
 
 ***
@@ -506,10 +506,10 @@ class G,H,I blue
 ### <mark style="color:orange;">Ranolazine</mark>
 
 * 작용 : late sodium channel 차단 → myocyte Ca overload 감소 → 협심증 증상↓, 운동 능력↑; 혈압/맥박에 영향 없음 - 저혈압 경향 또는 서맥 환자에서 특히 유용
-* 적응증 : β-차단제, CCB, 지속형 nitrate에도 증상이 지속되는 환자에서 추가&#x20;
+* 적응증 : β-차단제, CCB, 지속형 nitrate에도 증상이 지속되는 환자에서 추가
 * 부작용 : 어지럼, 변비, 구역, 두통, QT 연장
 * 금기/주의 : 중증 간기능 장애, 강력한 CYP3A 억제제와 병용 금기; QT 연장 위험 및 신기능 저하를 고려
-* 500~1,000 ㎎ bid <mark style="color:blue;">[라넥사]</mark> (국내 비급여; 실제 처방 시 허가용량·상호작용 확인)
+* 500\~1,000 ㎎ bid <mark style="color:blue;">\[라넥사]</mark> (국내 비급여; 실제 처방 시 허가용량·상호작용 확인)
 
 ### <mark style="color:orange;">Ivabradine</mark>
 
@@ -531,7 +531,7 @@ class G,H,I blue
 ### <mark style="color:orange;">Aldosterone 차단제 (MRA)</mark>
 
 * 적응증 : CCD에 HFrEF가 동반된 경우의 표준 심부전 치료 또는 적절한 환자의 MI 후 LVEF 저하/심부전에서 사용; 신기능과 혈청 K⁺를 확인
-* spironolactone : 보통 25~50 ㎎/d <mark style="color:blue;">[알닥톤]</mark>; 세부 용량은 심부전 상태와 신기능에 따라 조절
+* spironolactone : 보통 25\~50 ㎎/d <mark style="color:blue;">\[알닥톤]</mark>; 세부 용량은 심부전 상태와 신기능에 따라 조절
 
 ### <mark style="color:orange;">Low-dose Colchicine</mark>
 
@@ -585,7 +585,7 @@ class G,H,I blue
 ### <mark style="color:orange;">무증상 또는 안정 상태의 CAD 환자에서 이차 예방</mark>
 
 * **확인된 CAD는 증상이 없더라도 이차 예방 원칙을 적용** : 고강도 statin을 기본으로 LDL-C 목표에 맞춰 ezetimibe/PCSK9 억제제 등을 추가
-* 폐쇄성 CAD가 있으면 aspirin 75~100 ㎎/d 또는 적절한 경우 clopidogrel 75 ㎎/d를 장기 단일요법으로 사용
+* 폐쇄성 CAD가 있으면 aspirin 75\~100 ㎎/d 또는 적절한 경우 clopidogrel 75 ㎎/d를 장기 단일요법으로 사용
 * β-차단제는 최근 MI, LVEF ≤50%, 협심증, 부정맥, 조절되지 않는 고혈압 등 명확한 적응증이 있을 때 사용
 * ACEi/ARB는 고혈압, 당뇨병, CKD, 심부전/LV dysfunction 등 동반질환에 따라 사용
 * SGLT2i/GLP-1RA는 당뇨병 또는 심부전 등 해당 적응증이 있을 때 사용
@@ -598,7 +598,7 @@ class G,H,I blue
 * 적응증 : 기능적으로 유의한 폐쇄성 CAD에서 GDMT에도 삶의 질을 해치는 협심증/anginal equivalent가 지속되는 경우
 * PCI는 증상 개선에 효과적이며, 일부 고위험 해부학적 상황에서는 예후 개선 목적의 revascularization 전략에 포함될 수 있음
 * FFR/iFR 또는 FFR-CT : 중간 정도 협착의 기능적 의미가 불확실할 때 병변 선택에 활용
-* 최신 DES가 표준이며, elective CCS PCI 후 DAPT 기간은 일반적으로 6개월, 고출혈위험에서는 1~3개월 단축을 고려
+* 최신 DES가 표준이며, elective CCS PCI 후 DAPT 기간은 일반적으로 6개월, 고출혈위험에서는 1\~3개월 단축을 고려
 * ISCHEMIA trial은 left main disease와 LVEF <35%를 제외한 안정 CAD에서 모든 환자에게 일률적인 초기 침습전략을 적용해도 사망·MI가 유의하게 감소하지 않음을 보여줌
 * **ORBITA-2** : 항협심증제를 거의 사용하지 않은 안정 협심증 환자에서 PCI가 가짜 시술보다 협심증 증상을 유의하게 개선함. 약물 부작용·내약성 문제 또는 환자 선호가 큰 경우에도 revascularization의 선택지를 개별적으로 논의할 수 있음
 
@@ -621,7 +621,7 @@ class G,H,I blue
   4. LDL-C, 당뇨병, 신기능 등 치료 목표의 달성 여부
   5. 심부전, 부정맥 또는 다른 심혈관질환의 새 발생 여부
 * 증상 또는 임상/기능 상태가 변화하면 CCTA, stress imaging 또는 ICA 등을 재평가
-* **임상 또는 기능 상태의 변화가 없는 안정 CCD 환자에서 일률적인 반복 CCTA, stress test, LV 기능 재평가 또는 ICA는 권고하지 않음** [AHA/ACC 2023]
+* **임상 또는 기능 상태의 변화가 없는 안정 CCD 환자에서 일률적인 반복 CCTA, stress test, LV 기능 재평가 또는 ICA는 권고하지 않음** \[AHA/ACC 2023]
 
 ***
 

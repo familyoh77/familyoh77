@@ -448,7 +448,7 @@ graph TD
 ### <mark style="color:orange;">기저질환 치료</mark>
 
 * [당뇨병성 자율신경병증](../226_/102_-complications-of-diabetes.md#diabetic-neuropathy) : 혈당 조절 최적화
-* [알코올 남용](../230_/189_-alcohol-use-disorder-aud.md) : 금주
+* [알코올 남용](../230_/189_-alcohol-use-disorder.md) : 금주
 * [파킨슨병](035_-parkinsons-disease.md)
 
 ***
