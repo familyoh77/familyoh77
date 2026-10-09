@@ -48,7 +48,7 @@
 * 증상 : 이착륙·수중 입수 시 귀 통증·충만감·일시적 청력 저하; 회복 후 정상
 * 고막 출혈·삼출액·고막 파열(barotrauma) 동반 시 의뢰; 청력 저하·현훈·이명이 동반되면 내이 압력손상을 의심하여 즉시 평가
 
-#### <mark style="color:$primary;">Management</mark>&#x20;
+#### <mark style="color:$primary;">Management</mark>
 
 * 상기도 감염·활동성 알레르기 시 비행·잠수 가급적 회피
 * 비행 예방 : 이착륙, 특히 착륙 하강 중 삼킴·하품·저작과 부드러운 압력 평형 반복이 기본
@@ -57,7 +57,7 @@
   * 이통 시 하강을 멈추고 약간 상승하여 평형 재시도, 실패하면 잠수를 중단하고 천천히 상승
   * 상승 중에는 Valsalva를 하지 않음
 * 잠수 전 코 울혈 제거제는 잠수 중 효과가 소실되면 상승 시 압력 평형 실패(reverse block) 위험이 있어 일상적으로 권하지 않음
-* 반복적 barotrauma&#x20;
+* 반복적 barotrauma
   * 비행 : 환기관 또는 BET 의뢰 고려
   * 잠수 : 환기관 유치 중에는 물이 중이로 들어가 현훈·감염 위험이 있어 잠수를 권장하지 않으므로, 이비인후과·잠수의학 평가 후 치료와 잠수 복귀 여부 결정
 * 잠수 후 내이 손상이 의심되면 추가 Valsalva와 강한 코풀기를 중단
@@ -67,7 +67,7 @@
 * 임신 후기 호르몬성 점막 부종에 의한 폐쇄성 ETD와, 에스트로겐 상승에 의한 개방성 ETD가 모두 발생 가능
 * 임신 중 발생하는 이관 증상은 분만 후 대부분 자연 소실됨
 
-#### <mark style="color:$primary;">Management</mark>&#x20;
+#### <mark style="color:$primary;">Management</mark>
 
 * 약물 사용보다 보존적 요법 우선
   * 개방성 ETD : 증상이 있을 때 잠시 눕거나 고개를 숙이면 완화될 수 있음. 수분 충분 섭취
@@ -80,7 +80,7 @@
     * 세척 중·직후에는 코를 세게 풀지 말고, 한 쪽씩 가볍게 풀 것 - 세게 풀면 세척액이 이관으로 밀려들어 갈 수 있음
     * 세척병은 사용 후 세척·건조
 * 약물이 필요한 경우 비강 스테로이드는 비교적 안전하게 사용 가능
-  * budesonide <mark style="color:blue;">\[</mark>[<mark style="color:blue;">나리타점비액</mark>](eustachian-tube-dysfunction-etd.md#undefined-10)<mark style="color:blue;">]</mark>자료가 가장 많으며, 경구 pseudoephedrine은 임신 1분기에 피함
+  * budesonide <mark style="color:blue;">\[</mark>[<mark style="color:blue;">나리타점비액</mark>](046_-e-tube-dysfunction.md#undefined-10)<mark style="color:blue;">]</mark>자료가 가장 많으며, 경구 pseudoephedrine은 임신 1분기에 피함
 
 ***
 
@@ -170,7 +170,7 @@ graph TD
   * 골전도-기도전도의 차이가 대략 20\~25 dB 이상일 때 BC＞AC가 되므로 경미한 전음성 난청에서는 정상일 수 있음
 * tympanometry : type B(외이도 용적 정상 - 삼출액; 용적 증가 - 고막 천공·환기관 개통) 또는 type C(중이 음압, 대개 -100 daPa 이하)
   * 특이도는 높으나 민감도가 낮아 정상 소견이 간헐적 ETD를 배제하지 않음 \[PLoS One 2018]
-* 상급검사 : tubomanometry(TMM), sonotubometry, 9-step inflation-deflation test, pressure chamber test, Eustachian Tube Score(ETS)&#x20;
+* 상급검사 : tubomanometry(TMM), sonotubometry, 9-step inflation-deflation test, pressure chamber test, Eustachian Tube Score(ETS)
 * 영상 검사 : ETD 자체의 routine 진단에는 필요하지 않음; 지속적 편측 삼출성 중이염, 비인두 병변 의심, 진주종·측두골 병변 의심 등 다른 병리가 시사되는 경우에 한해 비인두 내시경 및 CT·MRI를 선택적으로 시행
 * 원인 질환 감별을 위한 비인두 내시경, 알레르기 검사 등 고려
 
@@ -259,7 +259,7 @@ ETD는 증상만으로 확진하지 않음 - 폐쇄성 ETD는 귀 충만감·압
   * oxymetazoline : 만 6세 이상, 1\~2회 분무 <mark style="color:blue;">\[레스피비엔]</mark>
   * phenylephrine 0.5% : 만 7세 이상 1\~2번 분무 <mark style="color:blue;">\[시네프린나잘]</mark>
   * naphazoline/chlorpheniramine/글리시리진산이칼륨 복합 : 7세이상 2회 분무 <mark style="color:blue;">\[나리스타에스점비액]</mark>
-* 일반적으로 학술적 안전 사용 기준은 제품 사용 설명서의  용법/용량보다 엄격함
+* 일반적으로 학술적 안전 사용 기준은 제품 사용 설명서의 용법/용량보다 엄격함
 * 비강 스테로이드 : 알레르기비염 동반 시 1차 선택; 폐쇄성ETD 자체에 대한 직접 효과는 근거 불충분
   * 동반 비염·비부비동염의 치료 목적으로 사용 (☞ [알레르기비염](051_-allergic-rhinitis.md#management))
 
@@ -278,13 +278,13 @@ ETD는 증상만으로 확진하지 않음 - 폐쇄성 ETD는 귀 충만감·압
 * 알레르기비염 치료 : 항히스타민제·류코트리엔 길항제 등 기저 알레르기 치료
 * 전신 스테로이드 : 폐쇄성ETD에 대한 근거가 없어 사용하지 않음
 
-### <mark style="color:orange;">수술</mark>&#x20;
+### <mark style="color:orange;">수술</mark>
 
 * Tympanostomy tube : 중이 환기관 삽입; 삼출성 중이염·재발성 급성 중이염 시
 * Balloon Eustachian Tuboplasty (BET) : 이관 연골부를 풍선 카테터로 확장; 만성 폐쇄성 ETD에서 선택적으로 고려하는 치료(기관별 시행 현황 차이가 있으며 모든 환자에 대한 표준 치료로 확립된 것은 아님)
   * BET 적응증 \[Otolaryngol Head Neck Surg 2019] : 18세 이상 성인에서 ① 폐쇄성 ETD 증상 ≥3개월 지속, ② 삶의 질에 영향, ③ 확인된 치료 가능한 동반 질환(비염·부비동염 등)을 적절히 치료했음에도 증상 지속, ④ 고막 후퇴·중이 음압(type C) 또는 삼출 소견(type B) 등 객관적 소견을 종합
     * 기압 유발형은 평상시 tympanometry가 정상일 수 있음; ETDQ-7 ≥14.5점은 ETD 가능성을 높이는 증상 척도로 참고하되, 단독으로 BET 적응증을 결정하는 필수조건으로 사용하지 않음 (객관적 검사와의 일치도 낮음 - 민감도 54%, 특이도 78% \[Otolaryngol Head Neck Surg 2018])
-  * BET 금기 : 개방성 ETD(확장 시 증상 악화), 내경동맥관 결손(깊이 표지 없는 기구 사용 시)&#x20;
+  * BET 금기 : 개방성 ETD(확장 시 증상 악화), 내경동맥관 결손(깊이 표지 없는 기구 사용 시)
   * BET 한계 : 이관 연골부 자체의 dilatory dysfunction에만 효과적
     * 아데노이드 비대·비인두 종양·점막하 종괴 등 기계적 외부 폐쇄가 원인인 경우에는 효과 없으므로, 의뢰 전 기계적 원인을 반드시 배제
 * Eustachian tuboplasty : 레이저·미세수술로 이관 점막 성형
@@ -306,7 +306,7 @@ ETD는 증상만으로 확진하지 않음 - 폐쇄성 ETD는 귀 충만감·압
 
 * autophony : 자신의 말소리·숨소리가 울려 크게 들림 (가장 특징적 증상)
 * 귀 충만감
-* 앉거나 서면 악화, 누우면 호전할 수 있음&#x20;
+* 앉거나 서면 악화, 누우면 호전할 수 있음
   * 체위 의존성은 진단의 단서이나 SCDS 등에서도 나타날 수 있어 단독 확진 소견은 아님
 
 ## <mark style="color:green;">진단</mark>
