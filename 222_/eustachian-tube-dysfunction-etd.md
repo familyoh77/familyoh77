@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 귀인두관(이관, Eustachian tube)의 functional valve 장애로 인하여 적절한 개폐가 이루어지지 않아, 중이 내 압력 조절 이상과 관련된 증상·징후가 나타나는 증후군
+* functional valve 장애로 인하여 귀인두관(이관, Eustachian tube)의 적절한 개폐가 이루어지지 않아, 중이 내 압력 조절 이상과 관련된 증상·징후가 나타나는 증후군
   * 귀인두관의 기능 : 중이 내 환기·압력 조절(중이와 주변 기압 균형), 중이 분비물 배출, 비인두 내용물의 중이 역류 차단
   * 귀인두관의 정상 움직임 : 휴식 시 닫혀 있다가 하품·저작·삼킴 동작 시 개방
 * 다른 이름 : 이관기능부전, 유스타키오관 기능장애
@@ -42,10 +42,33 @@
 * 체위 의존성 autophony가 지속되어 일상생활에 지장
 * 비행·잠수 때마다 반복되는 이통·충만감
 
+## <mark style="color:green;">기압 유발형 ETD (Baro-challenge-induced ETD)</mark>
+
+* 평소에는 이관 기능이 정상이나, 비행·잠수·급격한 고도 변화 시에만 증상이 나타나는 ETD
+* 증상 : 이착륙·수중 입수 시 귀 통증·충만감·일시적 청력 저하; 회복 후 정상
+* 고막 출혈·삼출액·고막 파열(barotrauma) 동반 시 의뢰; 청력 저하·현훈·이명이 동반되면 내이 압력손상을 의심하여 즉시 평가
+
+#### <mark style="color:$primary;">Management</mark>&#x20;
+
+* 상기도 감염·활동성 알레르기 시 비행·잠수 가급적 회피
+* 비행 예방 : 이착륙, 특히 착륙 하강 중 삼킴·하품·저작과 부드러운 압력 평형 반복이 기본
+  * 항공 여행 시 귀 통증 병력이 있는 성인에서 이륙 30분 전 경구 pseudoephedrine 120 ㎎이 항공 중이 압력손상을 줄였고, 국소 oxymetazoline은 위약과 차이가 없었음 \[Am J Emerg Med 1998]; 국내 정제(60 ㎎)의 허가 1회 용량은 연구 용량과 다르며, 60 ㎎ 1회 투여의 예방 효과는 해당 연구에서 직접 확인되지 않음. 국소 분무제는 비충혈 완화에 단기 사용 가능하나 압력손상 예방 효과는 불확실
+* 잠수 : 하강 전·하강 중 자주 압력 평형
+  * 이통 시 하강을 멈추고 약간 상승하여 평형 재시도, 실패하면 잠수를 중단하고 천천히 상승
+  * 상승 중에는 Valsalva를 하지 않음
+* 잠수 전 코 울혈 제거제는 잠수 중 효과가 소실되면 상승 시 압력 평형 실패(reverse block) 위험이 있어 일상적으로 권하지 않음
+* 반복적 barotrauma&#x20;
+  * 비행 : 환기관 또는 BET 의뢰 고려
+  * 잠수 : 환기관 유치 중에는 물이 중이로 들어가 현훈·감염 위험이 있어 잠수를 권장하지 않으므로, 이비인후과·잠수의학 평가 후 치료와 잠수 복귀 여부 결정
+* 잠수 후 내이 손상이 의심되면 추가 Valsalva와 강한 코풀기를 중단
+
 ## <mark style="color:green;">임신 중 이관 증상</mark>
 
 * 임신 후기 호르몬성 점막 부종에 의한 폐쇄성 ETD와, 에스트로겐 상승에 의한 개방성 ETD가 모두 발생 가능
 * 임신 중 발생하는 이관 증상은 분만 후 대부분 자연 소실됨
+
+#### <mark style="color:$primary;">Management</mark>&#x20;
+
 * 약물 사용보다 보존적 요법 우선
   * 개방성 ETD : 증상이 있을 때 잠시 눕거나 고개를 숙이면 완화될 수 있음. 수분 충분 섭취
   * 폐쇄성 ETD : 부드러운 Valsalva와 생리식염수 비강 세척; 증상 지속 시 의뢰
@@ -57,7 +80,7 @@
     * 세척 중·직후에는 코를 세게 풀지 말고, 한 쪽씩 가볍게 풀 것 - 세게 풀면 세척액이 이관으로 밀려들어 갈 수 있음
     * 세척병은 사용 후 세척·건조
 * 약물이 필요한 경우 비강 스테로이드는 비교적 안전하게 사용 가능
-  * budesonide <mark style="color:blue;">\[</mark>[<mark style="color:blue;">나리타점비액</mark>](/broken/pages/ecef67d0d0c13dade29403a8dec13589a84f1204#management)<mark style="color:blue;">]</mark>자료가 가장 많으며, 경구 pseudoephedrine은 임신 1분기에 피함
+  * budesonide <mark style="color:blue;">\[</mark>[<mark style="color:blue;">나리타점비액</mark>](eustachian-tube-dysfunction-etd.md#undefined-10)<mark style="color:blue;">]</mark>자료가 가장 많으며, 경구 pseudoephedrine은 임신 1분기에 피함
 
 ***
 
@@ -94,7 +117,7 @@
 * 귀 충만감·압박감, 귀 통증, 청력 감소, 이명
 * "귀가 막힘", 삼킴·하품 시 "펑/딱" 소리 발생
 * 자기 목소리가 웅웅 울려 들릴 수 있음(전음성 난청에 의한 외부 소리 차단 효과)
-  * autophony는 개방성 ETD만의 특이 증상이 아님
+  * autophony는 개방성 ETD 뿐 아니라 폐쇄성에서도 나타날 수 있음
 * 중증에서 어지럼, 불균형 동반 가능
 
 ### <mark style="color:orange;">합병증</mark>
@@ -110,30 +133,35 @@
 * Valsalva maneuver : 코와 입을 막고 부드럽게 내쉬어 중이 압력 평형을 시도하는 방법
   * 시행 가능 여부(고막 외측 팽윤)는 이관 개방성을 일부 반영하나 민감도·특이도가 충분하지 않아 ETD의 확진 검사는 아님
 * Valsalva maneuver : 코와 입을 막고 부드럽게 내쉬어 중이 압력 평형을 시도하는 방법
-  * 이때이경으로 고막이 바깥쪽으로 부풀어 오르는 것이 보이거나 환자가 귀가 "뻥" 뚫리는 느낌을 받으면 중이 통기가 된 것으로, 이관이 열릴 수 있음을 시사함; 통기가 되지 않으면 폐쇄를 시사하지만 Valsalva maneuver 동작이 서툴러서일 수도 있음
+  * 이때 이경으로 고막이 바깥쪽으로 부풀어 오르는 것이 보이거나 환자가 귀가 "뻥" 뚫리는 느낌을 받으면 중이 통기가 된 것으로, 이관이 열릴 수 있음을 시사함; 통기가 되지 않으면 폐쇄를 시사하지만 Valsalva maneuver 동작이 서툴러서일 수도 있음
   * 민감도·특이도가 충분하지 않아 통기 여부만으로 ETD를 확진하거나 배제하지 않음
 * Toynbee maneuver : 코를 막은 채 침을 삼켜 중이·비인두 압력 변화를 유발하는 방법
   * 고막 내측 움직임 관찰에 보조적으로 사용하나 단독으로 ETD를 확진하기에는 충분하지 않음
 * audiogram : 전음성 난청 패턴
 * Weber test : tuning fork(512 ㎐)를 이마 중앙에 대면 이환 귀 쪽에서 더 크게 들림(전음성 난청)
-* Rinne test : 유양돌기에서 귀 앞보다 크게/오래 들림(BC ＞ AC; 전음성 난청 패턴)
-  * 기도전도-골전도 차이가 대략 20\~25 dB 이상일 때 음성(유양돌기에서 더 오래 들림)으로 바뀌므로 경미한 전음성 난청에서는 정상일 수 있음
-* tympanometry : type B(외이도 용적 정상 - 삼출액; 용적 증가 - 고막 천공·환기관 개통) 또는 type C(중이 음압, 대개 -100 daPa 이하); 특이도는 높으나 민감도가 낮아 정상 소견이 간헐적 ETD를 배제하지 않음 \[PLoS One 2018]
-* 전문 이관기능 검사 (의뢰 시 시행) : tubomanometry(TMM), sonotubometry, 9-step inflation-deflation test, pressure chamber test, Eustachian Tube Score(ETS) - 1차 진료에서는 시행하지 않음
+* Rinne test : 유양돌기에서 귀 앞보다 크게/오래 들림(BC＞AC; 전음성 난청 패턴)
+  * tuning fork를 유양돌기에 대어 골전도(BC)로 소리를 듣게 하고, 소리가 더 이상 들리지 않게 되면 tuning fork를 즉시 귀 앞쪽으로 옮기고(AC) 환자가 소리를 다시 듣는지 확인
+  * 골전도-기도전도의 차이가 대략 20\~25 dB 이상일 때 BC＞AC가 되므로 경미한 전음성 난청에서는 정상일 수 있음
+* tympanometry : type B(외이도 용적 정상 - 삼출액; 용적 증가 - 고막 천공·환기관 개통) 또는 type C(중이 음압, 대개 -100 daPa 이하)
+  * 특이도는 높으나 민감도가 낮아 정상 소견이 간헐적 ETD를 배제하지 않음 \[PLoS One 2018]
+* 상급검사 : tubomanometry(TMM), sonotubometry, 9-step inflation-deflation test, pressure chamber test, Eustachian Tube Score(ETS)&#x20;
 * 영상 검사 : ETD 자체의 routine 진단에는 필요하지 않음; 지속적 편측 삼출성 중이염, 비인두 병변 의심, 진주종·측두골 병변 의심 등 다른 병리가 시사되는 경우에 한해 비인두 내시경 및 CT·MRI를 선택적으로 시행
 * 원인 질환 감별을 위한 비인두 내시경, 알레르기 검사 등 고려
 
-✽ETD는 증상만으로 확진하지 않음 - 폐쇄성 ETD는 귀 충만감·압력감 등의 증상과 함께 고막 후퇴 또는 tympanometry상 중이 음압 등 객관적 소견을 종합하여 진단하며, Valsalva 수행 가능 여부나 ETDQ-7 점수만으로 확진하지 않음; 병력·이경·tympanometry·청력 검사를 종합하며, 어느 하나만으로는 진단하지 않음 \[Otolaryngol Head Neck Surg 2019]
+{% hint style="info" %}
+ETD는 증상만으로 확진하지 않음 - 폐쇄성 ETD는 귀 충만감·압력감 등의 증상과 함께 고막 후퇴 또는 tympanometry상 중이 음압 등 객관적 소견을 종합하여 진단하며, Valsalva 수행 가능 여부나 ETDQ-7 점수만으로 확진하지 않음; 병력·이경·tympanometry·청력 검사를 종합하며, 어느 하나만으로는 진단하지 않음 \[Otolaryngol Head Neck Surg 2019]
+{% endhint %}
 
 #### <mark style="color:$primary;">ETDQ-7 설문</mark>
 
 * 지난 1개월간 7개 항목에 대해 없음(1점)\~극심함(7점)으로 설문
 * 항목 : ① 귀 압박감, ② 귀 통증, ③ 귀가 막히거나 물속에 있는 느낌, ④ 감기 또는 부비동염이 있을 때 귀의 문제, ⑤ 귀에서 “딱딱” 또는 “펑” 소리, ⑥ 귀 울림, ⑦ 잘 들리지 않음
-* 총점 ≥14.5점이면 폐쇄성 ETD 가능성 높음 \[Laryngoscope 2012]; 객관적 이관기능 검사와의 일치도는 낮아(민감도 54%, 특이도 78%) \[Otolaryngol Head Neck Surg 2018] 단독 진단 도구로 쓰지 않으며, 개방성 ETD 평가에는 사용하지 않음
+* 총점 ≥14.5점이면 폐쇄성 ETD 가능성 높음 \[Laryngoscope 2012]
+* 객관적 이관기능 검사와의 일치도는 낮아(민감도 54%, 특이도 78%) \[Otolaryngol Head Neck Surg 2018] 단독 진단 도구로 쓰지 않으며, 개방성 ETD 평가에는 사용하지 않음
 
 #### <mark style="color:$primary;">증상에 따른 감별</mark>
 
-<table><thead><tr><th width="210">핵심 증상·상황</th><th width="190">가장 의심되는 질환</th><th>감별 포인트</th></tr></thead><tbody><tr><td>감기 후 귀 막힘, 하품 시 잠깐 뚫림</td><td>폐쇄성 ETD</td><td>tympanometry type B/C, 고막 후퇴</td></tr><tr><td>먹먹함 + 이경에서 귀지 또는 외이도 부종</td><td>귀지 전색, 외이도염</td><td>이경으로 바로 확인; 귀 먹먹함의 가장 흔한 원인</td></tr><tr><td>내 목소리·숨소리가 울려 들림 (autophony), 누우면 호전</td><td>개방성 ETD (PET)</td><td>호흡 동기화 고막 움직임; long time-base tympanometry의 호흡 동기화 변화; sniffing 시 고막 내측 함몰 관찰</td></tr><tr><td>자신의 안구 움직이는 소리·발소리가 머리에서 울림; 큰 소리에 어지럼 유발</td><td>상반고리관 결손 증후군 (SCDS)</td><td>저주파 전음성 난청 유사; 등골근 반사 보존은 이경화증 등 중이 전음성 병변과의 감별에 도움(단독 확진 소견은 아님); VEMP·고해상도 측두골 CT로 확진</td></tr><tr><td>서서히 진행하는 전음성 난청, 고막 정상</td><td>이경화증</td><td>tympanometry type A(또는 As), 등골근 반사 소실</td></tr><tr><td>갑작스런 편측 청력 저하 ("막힌 느낌"으로 표현하는 경우 흔함)</td><td>돌발성 감각신경성 난청 (SSNHL)</td><td>Weber 건측 편위, Rinne 양성(AC ＞ BC); 즉시 ENT 의뢰</td></tr><tr><td>편측 먹먹함 + 서서히 진행하는 감각신경성 난청·이명</td><td>청신경초종</td><td>비대칭 감각신경성 난청 시 MRI</td></tr><tr><td>회전성 어지럼 + 이명 + 변동성 난청, 반복</td><td>메니에르병</td><td>episodic vertigo, 저주파 난청 패턴</td></tr><tr><td>턱 통증, 입 벌릴 때 클릭음, 귀 검사 정상</td><td>TMJ dysfunction</td><td>저작근·TMJ 압통, 정상 이경 소견</td></tr><tr><td>비행기·잠수 후 심한 귀 통증·충만감</td><td>Barotrauma / Baro-challenge ETD</td><td>고막 충혈·삼출, 평소에는 정상</td></tr><tr><td>리듬성 클릭성 이명</td><td>구개 진전(palatal tremor/myoclonus), 중이 근간대경련</td><td>구개·고막의 리듬성 움직임 확인; PET의 호흡 동기화 움직임 및 혈관성 박동성 이명과 감별</td></tr><tr><td>박동성 이명 ("심장 소리가 들림")</td><td>혈관성 원인 (부신경절종(glomus), 경막 동정맥루(dAVF), 특발성 두개내압 상승, S상 정맥동 게실·결손 등)</td><td>pulsatile tinnitus = red flag; 혈관성·두개저 병변을 포함한 원인 평가 필요 - 이비인후과/신경영상의학적 판단에 따라 CTA/MRA/CTV/MRV, 측두골 CT 등 적절한 영상검사 선택</td></tr><tr><td>성인 지속 편측 충만감 + OME (URI 무관)</td><td>비인두 종양 (NPC 포함)</td><td>비인두 내시경, 영상 검사 필요</td></tr><tr><td>귀는 정상인데 어지럼 + 불안 + 과호흡</td><td>불안 장애 / 신체화 증폭</td><td>정상 이경·청력 검사, 공황 증상 동반</td></tr><tr><td>저음 이명 + 충만감 + 경미한 어지럼 (초기)</td><td>초기 메니에르 / 달팽이 수종</td><td>연속 청력 검사로 추적</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>핵심 증상·상황</th><th>가장 의심되는 질환</th><th>감별 포인트</th></tr></thead><tbody><tr><td>감기 후 귀 막힘, 하품 시 잠깐 뚫림</td><td>폐쇄성 ETD</td><td>tympanometry type B/C, 고막 후퇴</td></tr><tr><td>먹먹함 + 이경에서 귀지 또는 외이도 부종</td><td>귀지 전색, 외이도염</td><td>이경으로 바로 확인; 귀 먹먹함의 가장 흔한 원인</td></tr><tr><td>내 목소리·숨소리가 울려 들림 (autophony), 누우면 호전</td><td>개방성 ETD (PET)</td><td>호흡 동기화 고막 움직임; long time-base tympanometry의 호흡 동기화 변화; sniffing 시 고막 내측 함몰 관찰</td></tr><tr><td>자신의 안구 움직이는 소리·발소리가 머리에서 울림; 큰 소리에 어지럼 유발</td><td>상반고리관 결손 증후군 (SCDS)</td><td>저주파 전음성 난청 유사; 등골근 반사 보존은 이경화증 등 중이 전음성 병변과의 감별에 도움(단독 확진 소견은 아님); VEMP·고해상도 측두골 CT로 확진</td></tr><tr><td>서서히 진행하는 전음성 난청, 고막 정상</td><td>이경화증</td><td>tympanometry type A(또는 As), 등골근 반사 소실</td></tr><tr><td>갑작스런 편측 청력 저하 ("막힌 느낌"으로 표현하는 경우 흔함)</td><td>돌발성 감각신경성 난청 (SSNHL)</td><td>Weber 건측 편위, Rinne 양성(AC ＞ BC); 즉시 ENT 의뢰</td></tr><tr><td>편측 먹먹함 + 서서히 진행하는 감각신경성 난청·이명</td><td>청신경초종</td><td>비대칭 감각신경성 난청 시 MRI</td></tr><tr><td>회전성 어지럼 + 이명 + 변동성 난청, 반복</td><td>메니에르병</td><td>episodic vertigo, 저주파 난청 패턴</td></tr><tr><td>턱 통증, 입 벌릴 때 클릭음, 귀 검사 정상</td><td>TMJ dysfunction</td><td>저작근·TMJ 압통, 정상 이경 소견</td></tr><tr><td>비행기·잠수 후 심한 귀 통증·충만감</td><td>Barotrauma / Baro-challenge ETD</td><td>고막 충혈·삼출, 평소에는 정상</td></tr><tr><td>리듬성 클릭성 이명</td><td>구개 진전(palatal tremor/myoclonus), 중이 근간대경련</td><td>구개·고막의 리듬성 움직임 확인; PET의 호흡 동기화 움직임 및 혈관성 박동성 이명과 감별</td></tr><tr><td>박동성 이명 ("심장 소리가 들림")</td><td>혈관성 원인 (부신경절종(glomus), 경막 동정맥루(dAVF), 특발성 두개내압 상승, S상 정맥동 게실·결손 등)</td><td>pulsatile tinnitus = red flag; 혈관성·두개저 병변을 포함한 원인 평가 필요 - 이비인후과/신경영상의학적 판단에 따라 CTA/MRA/CTV/MRV, 측두골 CT 등 적절한 영상검사 선택</td></tr><tr><td>성인 지속 편측 충만감 + OME (URI 무관)</td><td>비인두 종양 (NPC 포함)</td><td>비인두 내시경, 영상 검사 필요</td></tr><tr><td>귀는 정상인데 어지럼 + 불안 + 과호흡</td><td>불안 장애 / 신체화 증폭</td><td>정상 이경·청력 검사, 공황 증상 동반</td></tr><tr><td>저음 이명 + 충만감 + 경미한 어지럼 (초기)</td><td>초기 메니에르 / 달팽이 수종</td><td>연속 청력 검사로 추적</td></tr></tbody></table>
 
 {% hint style="warning" %}
 **ETD와 혼동하기 쉬운 질환**
@@ -160,24 +188,22 @@
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 원인 치료 우선 : 확인된 치료 가능한 동반 질환(알레르기비염·부비동염 등) 치료; 역류질환은 해당 적응증에 따라 평가·치료
+* 원인 치료 우선 : 확인된 치료 가능한 동반 질환(알레르기비염·부비동염 등) 치료
+  * 역류질환은 해당 적응증에 따라 평가·치료
 * 대부분 보존적 치료로 호전; 수술은 보존 치료 실패 후 고려
 
 #### <mark style="color:$primary;">치료 Step</mark>
 
 **Step 1.** 대상 - 모든 폐쇄성 ETD
 
-* 치료 : 부드러운 Valsalva/autoinflation + 원인 치료(알레르기비염·부비동염 동반 시 해당 치료); 증상 지속 중 비행·잠수 회피
+* 치료 : 부드러운 Valsalva/autoinflation + 원인 치료(알레르기비염·부비동염 동반 시 해당 치료)
+  * 증상 지속 중 비행·잠수 회피
 
 **Step 2.** 대상 - 알레르기비염·비부비동염 동반
 
-* 치료 : 동반 질환 치료로서 비강 스테로이드 ± 2세대 항히스타민제(재채기·가려움·콧물 등 증상에 따라 추가); 비강 스테로이드는 tympanometry 정상화를 대조군보다 유의하게 개선하지 못했고(4개 연구, 512귀; OR 1.21, 95% CI 0.65–2.24; 성인·소아 연구 포함) [J Laryngol Otol 2024;138:1065–1072](https://doi.org/10.1017/S0022215124000756), 만성 ETD의 증상 반응률도 11\~18%에 그침 \[Laryngoscope 2022] - 4\~6주에 귀 증상을 재평가하고, 호전이 없으면 ETD 목적의 연장은 하지 않되 비염 자체의 치료가 필요하면 해당 적응증에 따라 지속
-
-{% hint style="warning" %}
-**경구 코 울혈 제거제 처방 전 확인사항**
-
-* 경구 코 울혈 제거제(pseudoephedrine 등) : 무작위 대조 연구에서 ETD에 대한 직접 효과가 일관되게 입증되지 않음. 고혈압·관상동맥질환·부정맥·전립선 비대증·불면·노인 환자에서 risk ＞ benefit인 경우가 흔하므로 routine 처방을 지양하고 단기 증상 완화 trial로만 제한
-{% endhint %}
+* 치료 : 동반 질환 치료로서 비강 스테로이드 ± 2세대 항히스타민제(재채기·가려움·콧물 등 증상에 따라 추가)
+  * 비강 스테로이드는 tympanometry 정상화를 대조군보다 유의하게 개선하지 못했고(4개 연구, 512귀; OR 1.21, 95% CI 0.65–2.24; 성인·소아 연구 포함) \[J Laryngol Otol 2024], 만성 폐쇄성 ETD의 증상 반응률도 11\~18%에 그침 \[Laryngoscope 2022] - 4\~6주에 귀 증상을 재평가하고, 호전이 없으면 폐쇄성 ETD 치료 목적의 연장은 하지 않되 비염 자체의 치료가 필요하면 해당 적응증에 따라 지속
+  * 경구 코 울혈 제거제(pseudoephedrine 등) : 무작위 대조 연구에서 ETD에 대한 직접 효과가 일관되게 입증되지 않음. 고혈압·관상동맥질환·부정맥·전립선 비대증·불면·노인 환자에서 이득보다 위험이 큰 경우가 흔하므로 routine 처방을 지양하고 단기 증상 완화 trial로만 제한
 
 **Step 3.** 대상 - 보존 치료 및 필요한 동반 질환 치료에도 증상 지속(특히 3개월 이상) 또는 삼출성 중이염 지속
 
@@ -185,60 +211,57 @@
 
 ### <mark style="color:orange;">비-약물 치료</mark>
 
-* Valsalva autoinflation : 코와 입을 막고 부드럽게 내뱉는 동작으로 중이에 양압을 가하여 이관 개통; "귀로 바람을 세게 불어넣는 느낌"이 아니라 "중이 압력을 살짝 맞춘다는 느낌으로 짧고 약하게" 시행하도록 교육; 비내 감염·급성 중이염 시에는 중이 내 감염 촉진 위험이 있으므로 금기; 너무 강하게 시행하면 귀 통증·어지럼, 드물게 고막·중이 압력 손상(외림프 누공 등)이 발생할 수 있으므로 부드럽게 시행하고, 통증이나 어지럼이 생기면 즉시 중단하도록 교육; 성인 ETD에서 Valsalva 요법의 이득은 미미함 \[Laryngoscope 2022]
-* 비강 풍선 자가 통기(Otovent 등) : 소아 삼출성 중이염에서는 RCT 근거가 있으나 \[CMAJ 2015] 성인 ETD 근거는 제한적; 위해가 적어 시도 가능
-* Politzer법 : 한쪽 콧구멍에 bulb를 대고 반대쪽 콧구멍을 막은 채 삼키는 순간 가압; 비인두 압력 상승으로 이관 개통 유도; 의원 시행; 성인 ETD 근거 제한적
-* TMJ 질환이 의심되면 턱관절·저작근 평가와 해당 질환의 관리로 연결 (☞ 감별 표)
-* 비행기 여행·급격한 고도 상승·잠수는 증상이 해결될 때까지 피함; 불가피한 경우 이착륙, 특히 착륙 하강 중 삼킴·하품·저작과 부드러운 압력 평형 반복; 약제의 예방 효과와 제한은 아래 비행 예방 항목 참조
+* Valsalva autoinflation : 코와 입을 막고 부드럽게 내뱉는 동작으로 중이에 양압을 가하여 이관 개통
+  * "귀로 바람을 세게 불어넣는 느낌"이 아니라 "중이 압력을 살짝 맞춘다는 느낌으로 짧고 약하게" 시행
+    * 너무 강하게 시행하면 귀 통증·어지럼, 드물게 고막·중이 압력 손상(외림프 누공 등)이 발생할 수 있으므로 부드럽게 시행하고, 통증이나 어지럼이 생기면 즉시 중단하도록 교육
+  * 성인폐쇄성 ETD에서 Valsalva 요법의 이득은 미미함 \[Laryngoscope 2022]
+  * 비내 감염·급성 중이염 시에는 중이 내 감염 촉진 위험이 있으므로 금기
+* 비강 풍선 자가 통기([Otovent](https://www.youtube.com/watch?v=O5Y_bUqmQ1o) 등) : 소아 삼출성 중이염에서는 RCT 근거가 있으나\[CMAJ 2015], 성인 폐쇄성ETD 근거는 제한적; 위해가 적어 시도 가능
+* Politzer법 : 한쪽 콧구멍에 bulb를 대고 반대쪽 콧구멍을 막은 채 삼키는 순간 가압(물을 입에 물고 있다가 삼키게 함)
+  * 비인두 압력 상승으로 이관 개통 유도; 성인 폐쇄성ETD 근거 제한적
+* TMJ 질환이 의심되면 턱관절·저작근 평가와 해당 질환 관리
+* 비행기 여행·급격한 고도 상승·잠수는 증상이 해결될 때까지 피함
+  * 불가피한 경우 이착륙, 특히 착륙 하강 중 삼킴·하품·저작과 부드러운 압력 평형 반복
 
 ### <mark style="color:orange;">약물 치료</mark>
 
 #### <mark style="color:$primary;">국소 비강 약제</mark>
 
-* 코 울혈 제거제 (비강 분무) : 비충혈 완화에 단기 사용 가능하나 항공 중이 압력손상 예방 효과는 불확실; 보통 3일, 길어도 5일 이내 사용(제품별 허가사항의 최대 연속 사용기간을 초과하지 않도록 처방 전 확인) (비급여); 반동성 충혈 위험으로 장기 사용 금지
-  * xylometazoline 0.1% <mark style="color:blue;">\[오트리빈멘톨]</mark> : 만 12세 이상, 각 비강에 1회 분무, 1일 3회 이내(8시간 이상 간격); 금기·주의사항은 제품 허가사항 확인 [식약처 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806459)
-  * oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark> : 제품 허가 용법에 따름
-  * phenylephrine 0.5% <mark style="color:blue;">\[시네프린]</mark> : 성인 1회 2번 분무(제품 설명서 기준); 투여 간격·최대 횟수는 제품 허가사항 확인
-  * naphazoline/chlorpheniramine/글리시리진산이칼륨 복합 <mark style="color:blue;">\[나리스타에스]</mark>
-* 비강 스테로이드 : 알레르기비염 동반 시 1차 선택; ETD 자체에 대한 직접 효과는 근거 불충분하며, 동반 비염·비부비동염의 치료 목적으로 사용 (☞ [알레르기비염](/broken/pages/ecef67d0d0c13dade29403a8dec13589a84f1204#undefined-17))
+* 코 울혈 제거제 비강 분무 : 비충혈 완화에 단기 사용 가능하나 항공 중이 압력손상 예방 효과는 불확실
+  * 보통 3일, 길어도 5일 이내 사용(비급여); 반동성 충혈 위험으로 장기 사용 금지
+  * xylometazoline 0.1% : 만 12세 이상, 각 비강에 1회 분무 <mark style="color:blue;">\[오트리빈멘톨]</mark>
+  * oxymetazoline : 만 6세 이상, 1\~2회 분무 <mark style="color:blue;">\[레스피비엔]</mark>
+  * phenylephrine 0.5% : 만 7세 이상 1\~2번 분무 <mark style="color:blue;">\[시네프린나잘]</mark>
+  * naphazoline/chlorpheniramine/글리시리진산이칼륨 복합 : 7세이상 2회 분무 <mark style="color:blue;">\[나리스타에스점비액]</mark>
+* 일반적으로 학술적 안전 사용 기준은 제품 사용 설명서의  용법/용량보다 엄격함
+* 비강 스테로이드 : 알레르기비염 동반 시 1차 선택; 폐쇄성ETD 자체에 대한 직접 효과는 근거 불충분
+  * 동반 비염·비부비동염의 치료 목적으로 사용 (☞ [알레르기비염](051_-allergic-rhinitis.md#management))
 
 #### <mark style="color:$primary;">전신 약제</mark>
 
-* 경구 코 울혈 제거제 : ETD에 대한 직접 근거 불충분; 단기 증상 완화 목적의 제한적 trial만 고려
-  * 다음 환자에서는 benefit ＜ risk이므로 가급적 회피 : 고혈압, 관상동맥질환, 부정맥, 전립선 비대증, 갑상선 기능항진증, 불면, 노인
-  * 금기 : MAO 억제제 복용 중 또는 중단 후 2주 이내 (파킨슨병 치료제 selegiline·rasagiline 포함); pseudoephedrine은 중증 또는 조절되지 않는 고혈압, 중증 급성·만성 신장질환 또는 신부전에서 사용 금지 [EMA 2024](https://www.ema.europa.eu/en/medicines/human/referrals/pseudoephedrine-containing-medicinal-products)
-  * ✽교감신경흥분제에서 드물게 가역적 후뇌병증 증후군(PRES)·가역적 뇌혈관수축 증후군(RCVS)이 보고됨; 갑작스러운 심한 두통, 구역·구토, 시야 이상, 혼돈·경련 시 즉시 중단·진료 (☞ 핵심 복약 지도)
-  * pseudoephedrine <mark style="color:blue;">\[슈다페드]</mark> : 60 ㎎ 필요시(q4\~6h), 최대 240 ㎎/일; 5\~7일 이내 단기 사용; 고혈압·전립선 비대증 시 주의
-  * ✽경구 phenylephrine은 코 울혈 제거 효과가 없다는 이유로 FDA가 2024년 OTC 성분에서 제거를 제안하였으므로 사용하지 않음
+* 경구 코 울혈 제거제 : 폐쇄성 ETD에 대한 직접 근거 불충분. 단기 증상 완화 목적의 제한적 trial만 고려
+  * 다음 환자에서는 이득보다 위해가 크므로 가급적 회피 : 고혈압, 관상동맥질환, 부정맥, 전립선 비대증, 갑상선 기능항진증, 불면, 노인
+  * 금기 : MAO 억제제 복용 중 또는 중단 후 2주 이내 (파킨슨병 치료제 selegiline·rasagiline 포함)
+    * pseudoephedrine은 중증 또는 조절되지 않는 고혈압, 중증 급성·만성 신장질환 또는 신부전에서 사용 금지 \[EMA 2024]
+  * 갑작스러운 심한 두통, 구역·구토, 시야 이상, 혼돈·경련 시 즉시 중단·진료 (☞ 핵심 복약 지도)
+  * pseudoephedrine : 60 ㎎ 필요시(q4\~6h), 최대 240 ㎎/일 <mark style="color:blue;">\[슈다페드]</mark>; 5\~7일 이내 단기 사용; 고혈압·전립선 비대증 시 주의
+  * phenylephrine : 코 울혈 제거 효과가 없다는 이유로 FDA가 2024년 OTC 성분에서 제거를 제안
 * 2세대 항히스타민제 : 알레르기비염 동반 시 재채기·가려움·콧물 등 증상에 따라 추가; ETD 자체의 치료를 위한 일상적 사용은 권하지 않음
-  * loratadine <mark style="color:blue;">\[클라리틴]</mark> : 10 ㎎ qd
-* 항생제 : 급성 중이염 등 감염 동반 시 (☞ [중이염](/broken/pages/93014049d4b5e7cda149f9dfa6dd19a5071442b6#undefined-16))
-* 알레르기비염 치료 : 항히스타민제·류코트리엔 길항제 등 기저 알레르기 치료 (☞ [알레르기비염](/broken/pages/ecef67d0d0c13dade29403a8dec13589a84f1204))
-* 전신 스테로이드 : ETD에 대한 근거가 없어 사용하지 않음. 개방성 ETD에서는 코 울혈 제거제를 피하고, 사용 중인 비강 스테로이드는 필요성을 재평가하여 중단 고려
+  * loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
+* 항생제 : 급성 중이염 등 감염 동반 시
+* 알레르기비염 치료 : 항히스타민제·류코트리엔 길항제 등 기저 알레르기 치료
+* 전신 스테로이드 : 폐쇄성ETD에 대한 근거가 없어 사용하지 않음
 
-### <mark style="color:orange;">수술 (의뢰 후 결정)</mark>
+### <mark style="color:orange;">수술</mark>&#x20;
 
 * Tympanostomy tube : 중이 환기관 삽입; 삼출성 중이염·재발성 급성 중이염 시
 * Balloon Eustachian Tuboplasty (BET) : 이관 연골부를 풍선 카테터로 확장; 만성 폐쇄성 ETD에서 선택적으로 고려하는 치료(기관별 시행 현황 차이가 있으며 모든 환자에 대한 표준 치료로 확립된 것은 아님)
-  * **근거** : 2025년 Cochrane review [Cochrane 2025](https://doi.org/10.1002/14651858.CD013429.pub2)는 비수술 치료 대비 최대 3개월까지 증상·이관 기능 개선 가능성을 보고하나 근거의 확실성은 낮음\~매우 낮음이며, 3개월 이후 효과는 불확실함. 이 리뷰에 포함된 유일한 sham 대조 예비시험에서는 sham 대비 유의한 추가 이득이 확인되지 않았으나 전체 모집 17명(최종 분석 15명)으로 효과 유무를 확정하기 어려움 [Laryngoscope 2024;134:1874–1881](https://doi.org/10.1002/lary.31092). 다른 메타분석 [Laryngoscope 2026;136:1077–1087](https://doi.org/10.1002/lary.70131)은 술 후 type A tympanometry 도달률 개선 등 상대적으로 긍정적인 결과를 보고하여 연구 설계·비교군·추적기간을 고려한 해석이 필요함
-  * **국내 급여** : 국내 시행; 선별급여(자566-1, 본인부담률 90%; 만 18세 이상 만성 이관기능부전 대상). 사용된 재료대는 별도 산정함. 정확한 급여 기준과 재료대 산정은 청구 시점의 HIRA 고시를 반드시 확인할 것 [HIRA 2026](https://www.hira.or.kr/ebooksc/2026/03/BZ202603053039374.pdf)
-  * **BET 의뢰 적응증** \[Otolaryngol Head Neck Surg 2019] : 18세 이상 성인에서 ① 폐쇄성 ETD 증상 ≥3개월 지속, ② 삶의 질에 영향, ③ 확인된 치료 가능한 동반 질환(비염·부비동염 등)을 적절히 치료했음에도 증상 지속, ④ 고막 후퇴·중이 음압(type C) 또는 삼출 소견(type B) 등 객관적 소견을 종합; 기압 유발형은 평상시 tympanometry가 정상일 수 있음; ETDQ-7 ≥14.5점은 ETD 가능성을 높이는 증상 척도로 참고하되, 단독으로 BET 적응증을 결정하는 필수조건으로 사용하지 않음 (객관적 검사와의 일치도 낮음 - 민감도 54%, 특이도 78% \[Otolaryngol Head Neck Surg 2018])
-  * **BET 금기** : 개방성 ETD(확장 시 증상 악화); 내경동맥관 결손(깊이 표지 없는 기구 사용 시) \[Otolaryngol Head Neck Surg 2019]
-  * **BET 한계** : 이관 연골부 자체의 dilatory dysfunction에만 효과적; 아데노이드 비대·비인두 종양·점막하 종괴 등 기계적 외부 폐쇄가 원인인 경우에는 효과 없으므로, 의뢰 전 기계적 원인을 반드시 배제
+  * BET 적응증 \[Otolaryngol Head Neck Surg 2019] : 18세 이상 성인에서 ① 폐쇄성 ETD 증상 ≥3개월 지속, ② 삶의 질에 영향, ③ 확인된 치료 가능한 동반 질환(비염·부비동염 등)을 적절히 치료했음에도 증상 지속, ④ 고막 후퇴·중이 음압(type C) 또는 삼출 소견(type B) 등 객관적 소견을 종합
+    * 기압 유발형은 평상시 tympanometry가 정상일 수 있음; ETDQ-7 ≥14.5점은 ETD 가능성을 높이는 증상 척도로 참고하되, 단독으로 BET 적응증을 결정하는 필수조건으로 사용하지 않음 (객관적 검사와의 일치도 낮음 - 민감도 54%, 특이도 78% \[Otolaryngol Head Neck Surg 2018])
+  * BET 금기 : 개방성 ETD(확장 시 증상 악화), 내경동맥관 결손(깊이 표지 없는 기구 사용 시)&#x20;
+  * BET 한계 : 이관 연골부 자체의 dilatory dysfunction에만 효과적
+    * 아데노이드 비대·비인두 종양·점막하 종괴 등 기계적 외부 폐쇄가 원인인 경우에는 효과 없으므로, 의뢰 전 기계적 원인을 반드시 배제
 * Eustachian tuboplasty : 레이저·미세수술로 이관 점막 성형
-
-### <mark style="color:orange;">기압 유발형 ETD (Baro-challenge-induced ETD)</mark>
-
-* 평소에는 이관 기능이 정상이나, 비행·잠수·급격한 고도 변화 시에만 증상이 나타나는 별개의 표현형
-* 증상 : 이착륙·수중 입수 시 귀 통증·충만감·일시적 청력 저하; 회복 후 정상
-* 고막 출혈·삼출액·고막 파열(barotrauma) 동반 시 의뢰; 청력 저하·현훈·이명이 동반되면 내이 압력손상을 의심하여 즉시 평가 (☞ Red Flags)
-* 관리 원칙
-  * 상기도 감염·활동성 알레르기 시 비행·잠수 가급적 회피
-  * 비행 예방 : 이착륙, 특히 착륙 하강 중 삼킴·하품·저작과 부드러운 압력 평형 반복이 기본. 항공 여행 시 귀 통증 병력이 있는 성인에서 이륙 30분 전 경구 pseudoephedrine 120 ㎎이 항공 중이 압력손상을 줄였고, 국소 oxymetazoline은 위약과 차이가 없었음 [Am J Emerg Med 1998](https://pubmed.ncbi.nlm.nih.gov/9596428/); 국내 정제(60 ㎎)의 허가 1회 용량은 연구 용량과 다르며, 60 ㎎ 1회 투여의 예방 효과는 해당 연구에서 직접 확인되지 않음. 국소 분무제는 비충혈 완화에 단기 사용 가능하나 압력손상 예방 효과는 불확실
-  * 잠수 : 하강 전·하강 중 자주 압력 평형; 이통 시 하강을 멈추고 약간 상승하여 평형 재시도, 실패하면 잠수를 중단하고 천천히 상승. 상승 중에는 Valsalva를 하지 않음
-  * 잠수 전 코 울혈 제거제는 잠수 중 효과가 소실되면 상승 시 압력 평형 실패(reverse block) 위험이 있어 일상적으로 권하지 않음
-  * 반복적 barotrauma - 비행 : 환기관 또는 BET 의뢰 고려; 잠수 : 환기관 유치 중에는 물이 중이로 들어가 현훈·감염 위험이 있어 잠수를 권장하지 않으므로, 이비인후과·잠수의학 평가 후 치료와 잠수 복귀 여부 결정
-  * 잠수 후 내이 손상이 의심되면 추가 Valsalva와 강한 코풀기를 중단
 
 ***
 
@@ -251,20 +274,22 @@
 * 신경근육 이상 : 뇌졸중, multiple sclerosis, poliomyelitis 등 근위축
 * 호르몬 : estrogen↑(임신, 경구 피임제)
 * 기타 : 코 울혈 제거제 과다 사용, 두개·안면 기형
-* ✽원인을 특정할 수 없는 특발성 개방성 ETD도 상당수 존재함
+* 원인을 특정할 수 없는 특발성 개방성 ETD도 상당수 존재함
 
 ## <mark style="color:green;">임상 양상</mark>
 
 * autophony : 자신의 말소리·숨소리가 울려 크게 들림 (가장 특징적 증상)
 * 귀 충만감
-* 앉거나 서면 악화, 누우면 호전할 수 있음 (체위 의존성은 진단의 단서이나 SCDS 등에서도 나타날 수 있어 단독 확진 소견은 아님)
+* 앉거나 서면 악화, 누우면 호전할 수 있음&#x20;
+  * 체위 의존성은 진단의 단서이나 SCDS 등에서도 나타날 수 있어 단독 확진 소견은 아님
 
 ## <mark style="color:green;">진단</mark>
 
 * otoscopy : 건측 코를 막고 호흡 시 고막이 호흡에 따라 움직임 관찰
 * supine position 검사 : 누운 자세에서 증상 및 고막 움직임 일시적 소실 → 개방성 ETD 진단 지지
 * tympanometry : 일반 압력 스윕 검사는 정상(type A)일 수 있음; long time-base 측정에서 호흡에 동기화된 immittance 변화를 확인하며, 앉은 자세에서 시행. 간헐적 PET는 무증상 시 검사에서 이상이 없을 수 있음
-* Sniffing test : 코를 세게 들이마시게 하면 증상이 일시적으로 호전 → 개방성 ETD를 시사하는 보조적 단서(음압으로 이관이 강제 폐쇄되는 기전); 이후 고막의 일시적 내측 함몰(retraction) 관찰되기도 함; 단독으로 확진적이지 않으며 증상·호흡 동기화 고막 운동 등과 종합하여 판단
+* Sniffing test : 코를 세게 들이마시게 하면 증상이 일시적으로 호전 → 개방성 ETD를 시사하는 보조적 단서(음압으로 이관이 강제 폐쇄되는 기전); 이후 고막의 일시적 내측 함몰(retraction) 관찰되기도 함
+  * 단독으로는 확진할 수 없으며 증상·호흡 동기화 고막 운동 등과 종합하여 판단
 
 {% hint style="warning" %}
 **Sniffing 습관 주의 - PET**
@@ -274,7 +299,7 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 
 #### <mark style="color:$primary;">폐쇄성 ETD vs 개방성 ETD 감별</mark>
 
-<table><thead><tr><th width="167">특징</th><th width="220">폐쇄성 ETD</th><th>개방성 ETD</th></tr></thead><tbody><tr><td><strong>주증상</strong></td><td>귀 막힘·충만감·통증</td><td>autophony (내 목소리가 울림)</td></tr><tr><td><strong>체위 변화</strong></td><td>하품·삼킴 시 일시 호전</td><td>누우면 호전, 앉거나 서면 악화</td></tr><tr><td><strong>고막 소견</strong></td><td>후퇴, 삼출액, 움직임 감소</td><td>호흡 동기화 움직임</td></tr><tr><td><strong>tympanometry</strong></td><td>type B 또는 C</td><td>일반 검사 type A일 수 있음; long time-base에서 호흡 동기화 immittance 변화</td></tr><tr><td><strong>유발 인자</strong></td><td>감기, 알레르기, 비행</td><td>급격한 체중 감소, 임신</td></tr><tr><td><strong>청감 양상</strong></td><td>외부 소리가 작고 멀게 들림; 자기 목소리가 웅웅 울릴 수 있음(폐쇄 효과)</td><td>자기 목소리와 호흡음이 머리 안에서 크게 울림; 누우면 완화될 수 있음</td></tr><tr><td><strong>코 울혈 제거제</strong></td><td>비충혈 동반 시 단기 사용 고려</td><td>금기 (악화 가능)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="145">특징</th><th>폐쇄성 ETD</th><th>개방성 ETD</th></tr></thead><tbody><tr><td><strong>주증상</strong></td><td>귀 막힘·충만감·통증</td><td>autophony (내 목소리가 울림)</td></tr><tr><td><strong>체위 변화</strong></td><td>하품·삼킴 시 일시 호전</td><td>누우면 호전, 앉거나 서면 악화</td></tr><tr><td><strong>고막 소견</strong></td><td>후퇴, 삼출액, 움직임 감소</td><td>호흡 동기화 움직임</td></tr><tr><td><strong>tympanometry</strong></td><td>type B 또는 C</td><td>일반 검사 type A일 수 있음; long time-base에서 호흡 동기화 immittance 변화</td></tr><tr><td><strong>유발 인자</strong></td><td>감기, 알레르기, 비행</td><td>급격한 체중 감소, 임신</td></tr><tr><td><strong>청감 양상</strong></td><td>외부 소리가 작고 멀게 들림; 자기 목소리가 웅웅 울릴 수 있음(폐쇄 효과)</td><td>자기 목소리와 호흡음이 머리 안에서 크게 울림; 누우면 완화될 수 있음</td></tr><tr><td><strong>코 울혈 제거제</strong></td><td>비충혈 동반 시 단기 사용 고려</td><td>금기 (악화 가능)</td></tr></tbody></table>
 
 ***
 
@@ -290,19 +315,19 @@ PET 환자가 autophony를 일시 완화하기 위해 반복적으로 코를 들
 
 **Step 1.** 대상 - 모든 개방성 ETD
 
-* 치료 : 원인 교정 + 체위 조정(누운 자세 또는 고개를 숙인 자세에서 호전 확인) + 수분 충분 섭취 + nasal saline; 코 울혈 제거제는 피하고, 사용 중인 비강 스테로이드는 필요성을 재평가하여 중단 고려
+* 치료 : 원인 교정 + 체위 조정(누운 자세 또는 고개를 숙인 자세에서 호전 확인) + 수분 충분 섭취 + nasal saline
+  * 코 울혈 제거제는 피하고, 사용 중인 비강 스테로이드는 필요성을 재평가하여 중단 고려
 
 **Step 2.** 대상 - 보존 치료에 반응하지 않고 일상생활 장애 지속
 
-* 치료 : 이비인후과 의뢰; tympanostomy tube, intraluminal catheter, E-tube 폐쇄술, 연골 이식 등 수술적 치료 검토(이관 플러그(Kobayashi plug)는 일본 허가; 국내 허가·도입 여부는 별도 확인)
-* ✽potassium iodide 등은 역사적 치료로, 근거가 매우 제한적임
+* 치료 : 이비인후과 의뢰; tympanostomy tube, intraluminal catheter, E-tube 폐쇄술, 연골 이식 등 수술적 치료 검토
 * 가슴쓰림·역류 등 전형적 GERD 증상이 있으면 생활 습관 교정과 위산 억제 치료를 고려(PET 자체에 대한 치료 효과는 입증되지 않음); 인후 증상만 있는 경우에는 경험적 PPI보다 다른 원인 평가와 필요시 역류 검사를 고려
 
 ### <mark style="color:orange;">비-약물 치료</mark>
 
-* 중이의 구조적 합병증은 드물며 유발 요인 교정과 보존 치료로 호전될 수 있음을 설명; 만성·재발성 증상이 지속될 수 있어 경과 관찰
-* 코 울혈 제거제는 피하고, 사용 중인 비강 스테로이드는 필요성을 재평가하여 중단 고려
-* nasal saline instillation : 일부 개방성 ETD 환자의 증상 완화에 사용되나 전체적인 근거 수준은 낮음; 구체적인 자세·횟수는 담당의가 안내
+* 중이의 구조적 합병증은 드물며 유발 요인 교정과 보존 치료로 호전될 수 있음을 설명
+  * 만성·재발성 증상이 지속될 수 있어 경과 관찰
+* nasal saline instillation : 일부 개방성 ETD 환자의 증상 완화에 사용되나 전체적인 근거 수준은 낮음
 * 증상 지속 시 의뢰 : tympanostomy tube 삽입, intraluminal catheter placement, E-tube 폐쇄술, 연골 이식 등
 
 ***
