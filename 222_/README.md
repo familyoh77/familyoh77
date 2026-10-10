@@ -11,8 +11,12 @@
 •Clinical practice guideline: Eustachian Tube Dysfunction. AAO-HNSF (2019)\
 •Acute otitis externa. AAO/HNSF(Head & neck surgery) (2014)\
 •Otitis media (acute): Antimicrobial prescribing. NICE (2018)\
+•Otitis media with effusion in under 12s. NICE (2023)\
+•Clinical practice guideline: Otitis media with effusion (Update). AAO-HNSF (2016)\
+•Clinical practice guideline: Tympanostomy tubes in children (Update). AAO-HNSF (2022)\
 •유소아중이염 진료지침. 대한이과학회 (2014)\
 •The diagnosis and management of acute otitis media. AAP/AAFP (2013)\
+•Drug allergy: A 2022 practice parameter update. AAAAI/ACAAI (2022)\
 •Clinical Practice Guideline: Nosebleed (Epistaxis) Executive Summary. AAO-HNSF (2020)\
 •Rhinitis 2020: A practice parameter update. AAAAI (2020)\
 •Treatment of seasonal allergic rhinitis: An evidence-based focused. AAAAI (2017)\
