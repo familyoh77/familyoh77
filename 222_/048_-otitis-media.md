@@ -2,13 +2,17 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 중이 점막의 염증; 보통 fluid collection 동반
+* 중이 점막의 염증. 보통 fluid collection 동반
 * 소아에서 항생제 사용 및 난청의 가장 흔한 원인
-* 빈도 : 3세까지 ≥80%의 소아가 ≥1회 경험; 24개월 이후 나이가 들수록 감소; 성인에서는 드묾
-* 삼출 중이염 (OME) : 급성 염증 소견 없이 중이 내 삼출액이 있는 상태
-* 재발 중이염 : ≥3회/6개월 또는 ≥4회/1년 발생
-* 만성 화농성 중이염 (CSOM) : 고막 천공을 통한 지속·반복적 이루를 동반하는 만성 중이 염증; 기간 정의는 자료에 따라 다름(WHO 기준 ≥2주). 3개월까지 기다려 진단·평가하는 것은 아님
+* 빈도 : 3세까지 ≥80%의 소아가 ≥1회 경험. 24개월 이후 나이가 들수록 감소; 성인에서는 드묾
 * 치료 저해 요인 : 항생제 내성균, 불량한 순응도, 바이러스 동반 감염, 이관 기능 부전, 재감염, 면역 저하
+
+<mark style="color:cyan;">**중이염의 분류**</mark>
+
+* 급성 중이염 (AOM) : 중이 삼출액과 함께 급성 염증 소견(고막 팽륜, 이통 등)이 갑자기 발생
+* 삼출 중이염 (OME) : 급성 염증 소견 없이 중이 내 삼출액이 있는 상태; ≥3개월 지속 시 만성 OME
+* 재발 (급성) 중이염 : AOM이 ≥3회/6개월 또는 ≥4회/1년 반복
+* 만성 화농성 중이염 (CSOM) : 고막 천공을 통한 이루가 ＞3개월(WHO 기준 ＞2주) 지속 또는 반복
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -22,18 +26,17 @@
 * 남아, 유전, 가족력
 * 조산(＜37주), 저체중 출산(＜2.5 ㎏), 모유 수유 부족
 
-### <mark style="color:orange;">예방 / 백신</mark>
+### <mark style="color:orange;">예방</mark>
 
-* 폐렴구균 백신 : 2025년 10월부터 PCV20(20가)이 소아 국가예방접종(NIP)에 신규 도입됨; 기존 PCV13으로 접종을 시작한 소아는 PCV20으로 교차접종 가능하며, PCV15로 시작한 경우 동일 백신으로 접종 완료 권장(질병관리청) - 세부 기준은 변경될 수 있어 최신 안내 확인 필요 (☞ [예방접종](../231_/210_-vaccination.md#pneumococcal-pneumonia))
-  * PCV20은 PCV13 대비 7개 혈청형(8, 10A, 11A, 12F, 15B, 22F, 33F)을 추가 커버; 이 중 11A·15B·22F·33F 등은 PCV13 도입 후 AOM에서 증가한 비백신 혈청형으로, 추가 커버에 따른 AOM 감소 효과가 기대됨
+* [폐렴구균 백신](../231_/210_-vaccination.md#pneumococcal-pneumonia) : 2025년 10월부터 PCV20(20가)이 소아 국가예방접종(NIP)에 신규 도입됨; 기존 PCV13으로 접종을 시작한 소아는 PCV20으로 교차접종 가능하며, PCV15로 시작한 경우 동일 백신으로 접종 완료 권장
   * PCV7 연구에서 저위험 영아의 전체 원인 AOM은 약 6% 상대 감소; 고위험군에서는 예방 효과가 확립되지 않음(상대 감소율 −5%, 95% CI −25%\~12%) \[Cochrane 2020]. 이 수치를 PCV20의 예방 효과로 적용하지 않으며, PCV20의 소아 AOM 특이 장기 데이터는 축적 중
-* 인플루엔자 백신 : 호흡기 질환 시즌 동안 influenza 관련 AOM 감소에 도움
-* Xylitol : 건강한 보육시설 이용 소아에서 예방 효과가 보고되었으나, 재발성 AOM 소아·호흡기 감염 중 소아의 예방 효과는 확립되지 않음. 연구에서 잦은 투여가 필요했고 순응도 문제가 있어 일상적 권고는 제한적 \[Cochrane 2016]
-* Vitamin D : 일부 관찰 연구에서 혈중 농도와 재발 위험의 연관성이 보고되었으나, AOM 예방만을 위한 일률적 보충 근거는 부족함
-* RSV 단일클론항체 : 본래 적응증은 RSV 하기도질환 예방이며, AOM 예방 자체를 위한 적응증은 아님
+* [인플루엔자 백신](../231_/210_-vaccination.md#influenza) : 호흡기 질환 시즌 동안 influenza 관련 AOM 감소에 도움
+* [RSV 단일클론항체](../231_/210_-vaccination.md#rsv-respiratory-syncytial-virus) : 본래 적응증은 RSV 하기도질환 예방이며, AOM 예방 자체를 위한 적응증은 아님
   * nirsevimab <mark style="color:blue;">\[베이포투스]</mark> : 2026년 관찰연구에서 AOM 및 항생제 노출 감소와의 연관성이 보고됨. 핀란드 전국 시계열 연구에서는 도입 후 영아 AOM 발생률이 44% 감소했으나(RR 0.56, 95% CI 0.54\~0.58), 개인별 투여 효과를 확인한 무작위시험 결과는 아님 \[Eur J Pediatr 2026;185:827, 2026-10-09]
   * clesrovimab <mark style="color:blue;">\[엔플론시아]</mark> : nirsevimab의 AOM 관련 결과를 동일하게 적용하지 않음; AOM 예방 효과는 약제별 추가 근거 필요
-* RSV 모체면역 백신(예: Abrysvo <mark style="color:blue;">\[아브리스보]</mark>, 임신 28\~36주 접종) : 2026년 8월 국내 허가; 태반을 통한 항체 이행으로 출생 후 약 6개월까지(효과는 시간 경과에 따라 감소) 영아 RSV 하기도질환 예방 목적 - NIP 편입 및 급여 여부는 확인 필요
+* RSV 모체면역 백신(예: Abrysvo <mark style="color:blue;">\[아브리스보]</mark>, 임신 28\~36주 접종) : 2026년 8월 국내 허가; 태반을 통한 항체 이행으로 출생 후 약 6개월까지(효과는 시간 경과에 따라 감소) 영아 RSV 하기도질환 예방 목적
+* Xylitol : 건강한 보육시설 이용 소아에서 중등도의 예방 효과(상대위험 약 25% 감소)가 보고되었으나, 재발성 AOM 소아·호흡기 감염 중 소아의 예방 효과는 확립되지 않음. 연구에서 잦은 투여가 필요했고 순응도 문제가 있어 일상적 권고는 제한적 \[Cochrane 2016]
+* Vitamin D : 일부 관찰 연구에서 혈중 농도와 재발 위험의 연관성이 보고되었으나, AOM 예방만을 위한 일률적 보충 근거는 부족함
 * 예방적 항생제 : 내성균 발생 우려 크고 효과 미약 - 권고하지 않음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -55,15 +58,15 @@
 
 <mark style="color:$info;">**외래 추적**</mark>
 
-* 재발성 AOM (≥3회/6개월 또는 ≥4회/1년) `재발 중이염`
+* ≥3회/6개월 또는 ≥4회/1년 재발 `재발 중이염`
 * 6주 이상 지속되는 고막 천공 `지속 천공` `이루 동반 시 CSOM 평가`
 * 악취 이루가 지속되거나 고막에 진주색 덩어리가 보임 `진주종`
-* OME 3개월 이상 지속, 또는 언어 지연·청력 저하 동반 `만성 OME`
+* OME이 ≥3개월 지속, 또는 언어 지연·청력 저하 동반 `만성 OME`
 * 성인에서 편측으로 지속되는 삼출·청력 저하(흡연력·경부 림프절 종대·비출혈이 없어도 원인 평가) `비인두 병변`
 
-## <mark style="color:green;">증상/병력에 따른 귀 문제의 감별</mark>
+***
 
-<figure><img src="../.gitbook/assets/중이2.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/중이2.JPG" alt=""><figcaption><p><strong>증상/병력에 따른 귀 문제의 감별</strong></p></figcaption></figure>
 
 ***
 
@@ -78,86 +81,91 @@
 ## <mark style="color:green;">원인</mark>
 
 * 바이러스 : rhinovirus, RSV; 중이염 감염의 15\~44% 차지
-* 세균 : _S. pneumoniae_, 비피막형 _H. influenzae_, _M. catarrhalis_
-  * PCV 도입 이후 \_H. influenzae\_의 비중이 증가하여 \_S. pneumoniae\_와 비슷하거나 더 높게 보고됨; _H. influenzae_·\_M. catarrhalis\_의 상당수가 β-lactamase를 생성 - amox-clav 적응증 판단의 근거
   * 세균과 바이러스가 함께 검출되는 경우가 흔함
+* 세균 : _S. pneumoniae_, 비피막형 _H. influenzae_, _M. catarrhalis_
+  * PCV 도입 이후 H. influenzae의 비중이 증가하여 S. pneumoniae와 비슷하거나 더 높게 보고됨
+  * _H. influenzae_·M. catarrhalis의 상당수가 β-lactamase를 생성 - amox-clav 적응증 판단의 근거
 * 무균성
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 귀 증상 : 보통 편측 발생; 통증(보챔, 귀를 만짐), 전음성 청력 저하, 이명, 귀 뒤 통증·압통이 있으면 유양돌기염 감별 필요; 발적·부종이 없어도 지속·악화 시 당일 평가(☞ Red Flags)
-* 고막 소견 : 팽륜, 운동성 감소, 발적, 혼탁, 색깔 변화(흰색·노란색·호박색), air-fluid level, ossicular landmark 소실
-  * 고막 발적 : 고열·울음에 의한 홍조와 구별 필요; 발적보다 팽륜이 진단에 더 신뢰할 만함
-  * 고막 팽륜 : 수일 후 감소; 고막 파열로 이어질 수 있음
-* 고막 파열 시 : 갑자기 통증 감소 + 이루 시작; 대부분 자연 치유, 지속 시 만성 중이염 발생 가능
+* 귀 증상 : 보통 편측 발생; 통증(보챔, 귀를 만짐), 전음성 청력 저하, 이명, 귀 뒤 통증·압통이 있으면 유양돌기염 감별 필요; 발적·부종이 없어도 지속·악화 시 당일 평가
+* 고막 소견 : 고막 파열 시 : 갑자기 통증 감소 + 이루 시작
+  * 대부분 자연 치유, 지속 시 만성 중이염 발생 가능
 * 귀 외 증상 : 발열, 어지럼, 식욕 저하, 구역, 구토, 설사
 
 ## <mark style="color:green;">진단</mark>
 
-#### <mark style="color:$primary;">급성 중이염 진단 기준</mark>
+### <mark style="color:orange;">이경 검사</mark>
 
-**중이 삼출액(MEE)의 존재가 필수**이며, 다음 3가지 기준 중 하나 이상을 충족하면 AOM으로 진단 \[AAP 2013]. MEE가 확인되지 않으면 AOM으로 진단하지 않음
+* pneumatic otoscopy로 고막 위치·운동성 함께 확인
+* 고막 소견 : 팽륜, 운동성 감소, 발적, 혼탁, 색깔 변화(흰색·노란색·호박색), air-fluid level, ossicular landmark 소실
+  * 고막 팽륜 : 가장 신뢰할 만한 소견; 수일 후 감소하며 고막 파열로 이어질 수 있음
+* 고막 파열 시 : 이루가 관찰되며 고막 관찰이 어려울 수 있음
+
+{% hint style="warning" %}
+**고막 발적(erythema)만으로는 AOM를 진단할 수 없음.** 고열이나 울음에 의한 홍조와 구별이 필요하며, 팽륜(bulging)이 가장 신뢰할 수 있는 진단 소견임
+{% endhint %}
+
+### <mark style="color:orange;">보조 검사</mark>
+
+* 고막운동성계측(tympanometry) : 이경 소견이 불확실할 때 MEE 확인
+  * Type B : MEE를 강력히 지지하는 소견
+  * Type C : 음압 증가(이관 기능 부전)의 참고 소견 - AOM 확진 근거로는 약함
+
+### <mark style="color:orange;">급성 중이염 진단 기준</mark>
+
+* 중이 삼출액(MEE)의 존재가 필수이며, 아래 3가지 기준 중 하나 이상을 충족하면 AOM으로 진단 \[AAP 2013]
+  * MEE가 확인되지 않으면 AOM으로 진단하지 않음
 
 1. 중등도\~심한 TM 팽륜 (moderate to severe bulging)
 2. 새로 발생한 이루 - 외이염에 기인하지 않는 경우
 3. 경도 TM 팽륜 + \[48시간 이내 발생한 이통(귀를 만지거나 비빔 포함) 또는 심한 TM 충혈]
 
-{% hint style="warning" %}
-<mark style="color:red;">**발적(erythema) 단독은 AOM 확진 기준 불충분**</mark>**.** 고열이나 울음에 의한 홍조와 구별이 필요하며, 팽륜(bulging)이 가장 신뢰할 수 있는 진단 소견이다.
-{% endhint %}
+<mark style="color:cyan;">**의증**</mark>&#x20;
 
-* **의증** : 위 기준을 완전히 충족하지 않으나 MEE 소견 + 급성 증상이 있는 경우
+* 위 기준을 충족하지 않으나, MEE가 있고 급성으로(대개 48시간 이내) 발생한 이통(영유아는 귀를 잡아당기거나 비빔, 보챔)이나 발열 등이 동반된 경우&#x20;
+* 급성 증상 없이 MEE만 있으면 OME
 
-**중증 급성 중이염 진단 기준**
+<mark style="color:cyan;">**중증 급성 중이염 진단 기준**</mark>
 
-* 다음 중 ≥1개
+* 급성 중이염에서 다음 중 ≥1개 해당
   * 중등도\~심한 이통 또는 보챔
   * ≥48시간 지속되는 이통
   * 최근 48시간 내 ≥39℃ \[AAP] (대한이과학회 ≥38.5℃)
 
-#### <mark style="color:$primary;">보조 검사</mark>
+### <mark style="color:orange;">감별</mark>
 
-* 고막운동성계측(tympanometry)
-  * Type B : 외이도 용적이 정상인 경우 MEE를 지지; 큰 용적은 고막 천공·개방된 튜브, 작은 용적은 탐침 폐쇄·귀지 등을 확인
-  * Type C : 음압 증가(이관 기능 부전)의 참고 소견 - AOM 단독 확진 근거로는 약함
-* pneumatic otoscopy : 고막 운동성 감소 확인
+* AOM 오진 방지 / 항생제 시작 전 마지막 점검 포인트
 
-#### <mark style="color:$primary;">감별</mark>
-
- ※ AOM 오진 방지 / 항생제 시작 전 마지막 점검 포인트
-
-<table><thead><tr><th width="240">상황</th><th width="230">먼저 생각할 진단</th><th>항생제</th></tr></thead><tbody><tr><td>TM 발적만 있음 (팽륜 없음)</td><td>울음·고열에 의한 홍조 → AOM 아님</td><td><mark style="color:red;">보류</mark></td></tr><tr><td>Bulging TM + 급성 이통</td><td>AOM 가능성 높음</td><td>고려</td></tr><tr><td>이루 + 갑작스러운 통증 완화</td><td>AOM + 고막 천공</td><td>필요</td></tr><tr><td>귀 충만감만 있음 (이통 없음)</td><td>OME 또는 ETD 우선</td><td><mark style="color:red;">보통 불필요</mark></td></tr><tr><td>이주(tragus) 압통 / 이개 당김 통증</td><td>외이염(OE) 우선</td><td><mark style="color:red;">경구 항생제 ✕</mark></td></tr><tr><td>씹을 때 통증 / 턱 클릭</td><td>TMJ disorder 우선</td><td><mark style="color:red;">불필요</mark></td></tr><tr><td>상악 구치부 통증</td><td>치성 방사통 우선</td><td><mark style="color:red;">불필요</mark></td></tr><tr><td>귀 뒤 부종·발적·압통</td><td>유양돌기염 의심</td><td><strong>Red Flags 참조</strong></td></tr><tr><td>어지럼 + 자발 안진</td><td>미로염(내이염) 의심</td><td><strong>Red Flags 참조</strong></td></tr><tr><td>안면 마비</td><td>안면신경 침범</td><td><strong>Red Flags 참조</strong></td></tr><tr><td>성인 편측 지속 삼출</td><td>NPC 감별 필요</td><td><mark style="color:red;">원인 평가 우선</mark></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="264">상황</th><th width="266">먼저 생각할 진단</th><th>항생제</th></tr></thead><tbody><tr><td>TM 발적만 있음 (팽륜 없음)</td><td>울음·고열에 의한 홍조 → AOM 아님</td><td><mark style="color:red;">보류</mark></td></tr><tr><td>Bulging TM + 급성 이통</td><td>AOM 가능성 높음</td><td>고려</td></tr><tr><td>이루 + 갑작스러운 통증 완화</td><td>AOM + 고막 천공</td><td>필요</td></tr><tr><td>귀 충만감만 있음 (이통 없음)</td><td>OME 또는 ETD 우선</td><td><mark style="color:red;">보통 불필요</mark></td></tr><tr><td>이주(tragus) 압통 / 이개 당김 통증</td><td>외이염(OE) 우선</td><td><mark style="color:red;">경구 항생제 ✕</mark></td></tr><tr><td>씹을 때 통증 / 턱 클릭</td><td>TMJ disorder 우선</td><td><mark style="color:red;">불필요</mark></td></tr><tr><td>상악 구치부 통증</td><td>치성 방사통 우선</td><td><mark style="color:red;">불필요</mark></td></tr><tr><td>귀 뒤 부종·발적·압통</td><td>유양돌기염 의심</td><td>Red Flags 참조</td></tr><tr><td>어지럼 + 자발 안진</td><td>미로염(내이염) 의심</td><td>Red Flags 참조</td></tr><tr><td>안면 마비</td><td>안면신경 침범</td><td>Red Flags 참조</td></tr><tr><td>성인 편측 지속 삼출</td><td>NPC 감별 필요</td><td><mark style="color:red;">원인 평가 우선</mark></td></tr></tbody></table>
 
 * 유양돌기염 : 귀 뒤의 통증/압통, 두통 동반
 * Temporomandibular joint disorder : 입 벌릴 때 통증/소리, 씹을 때 심해지는 통증, 귓바퀴 앞 통증
-* 이관 폐쇄 : 귀의 멍멍한 느낌 또는 압박감 (☞ [귀인두관기능부전](046_-eustachian-tube-dysfunction-etd.md))
+* [이관 폐쇄](046_-e-tube-dysfunction.md#obstructive-dilatory-etd) : 귀의 멍멍한 느낌 또는 압박감
 * 치아 문제 : 이환된 쪽 상악 치아 통증
-* Barotrauma : 비행기 탑승, 잠수 경력 (☞ [귀 손상](049_-ear-injury.md#ear-barotrauma))
+* [Barotrauma](049_-ear-injury.md#ear-barotrauma) : 비행기 탑승, 잠수 경력
 
-#### <mark style="color:$primary;">AOM·OME 감별 흐름도</mark>
-
-***
+#### <mark style="color:$primary;">급성 중이염 및 삼출 중이염의 감별</mark>
 
 ```mermaid
 ```
 
-_1) 중등도\~심한 고막 팽륜, 외이염에 의하지 않은 새로 발생한 이루, 또는 경도 팽륜과 최근 48시간 이내 이통/심한 충혈의 조합. 단순 발적이나 이통만으로 AOM을 확진하지 않음. 고막튜브 이루는 별도 관리 기준 적용._
+> \*_중등도\~심한 고막 팽륜, 새로 발생한 이루(외이염 제외), 또는 경도 팽륜 + 48시간 이내 이통 또는 심한 고막 충혈 (☞ 급성 중이염 진단 기준)_
 
-<p align="center"><strong>급성 중이염 및 삼출 중이염의 감별</strong><br><em><mark style="color:$info;">Ref. AAP. The Diagnosis and Management of Acute Otitis Media. Pediatrics 2013;131(3):e964–e999. 기준을 바탕으로 재구성.</mark></em></p>
-
-***
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Lieberthal AS 2013 Pediatrics;</mark></em> <br><em><mark style="color:$info;">Rosenfeld RM 2016 Otolaryngol Head Neck Surg)</mark></em></p>
 
 #### <mark style="color:$primary;">중이 이루의 감별 (Phenotype-first 접근)</mark>
 
-<table><thead><tr><th width="170">상황 / 이루 양상</th><th width="170">먼저 생각할 진단</th><th width="220">진단적 단서</th><th>치료 방향</th></tr></thead><tbody><tr><td>급성 화농성, 통증 후 배출</td><td>AOM의 자연 고막 천공</td><td>선행 상기도 감염; 배출 후 통증 호전</td><td>AOM 기준의 경구 항생제; 귀 청결·건조 유지. 점이제만으로 경구제를 일률적으로 대체하지 않음</td></tr><tr><td>고막튜브를 통한 급성 이루</td><td>급성 튜브 이루</td><td>튜브 확인; 통증이 없거나 경미할 수 있음</td><td>합병증 없으면 적절한 국소 항생제 단독; 전신제는 선택적으로 사용</td></tr><tr><td>만성 화농성·악취</td><td>CSOM ± cholesteatoma</td><td>고막 천공; 반복·지속 이루; 폴립·진주색 병변</td><td>귀 청소·국소 항생제, 청력 평가; 무반응 시 배양·의뢰. 진주종·합병증 의심 시 영상검사</td></tr><tr><td>맑은 물 같은 이루</td><td>천공·튜브·외이도 병변; CSF 누출 감별</td><td>고막 상태; 두부 외상·수술력; 지속적 물 같은 분비물</td><td>원인 평가. CSF 의심 시 이비인후과 평가, β₂-transferrin 등 검사 및 측두골 CT 고려. 고막이 온전한 OME·ETD는 외이도 이루를 만들지 않음</td></tr><tr><td>혈성 또는 지속 혈청성</td><td>외상·육아조직·종양</td><td>외상력; 종괴; 안면신경 증상</td><td>청력검사·의뢰; 병변에 따라 측두골 CT/MRI (☞ [귀손상](049_-ear-injury.md#traumatic-tm-perforation))</td></tr><tr><td>박동성 이명 + 고막 뒤 혈관성 종괴</td><td>사구종양 / 혈관성 병변</td><td>편측 박동성 이명; 청력 저하; 혈관성 종괴</td><td>이비인후과 의뢰 및 CT/MRI; 이루의 박동성만으로 종양을 판단하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="139">상황 / 이루 양상</th><th width="148">먼저 생각할 진단</th><th width="188">진단적 단서</th><th>치료 방향</th></tr></thead><tbody><tr><td>급성 화농성, 통증 후 배출</td><td>AOM의 자연 고막 천공</td><td>선행 상기도 감염; 배출 후 통증 호전</td><td>AOM 기준의 경구 항생제; 귀 청결·건조 유지. 점이제만으로 경구제를 일률적으로 대체하지 않음</td></tr><tr><td>고막튜브를 통한 급성 이루</td><td>급성 튜브 이루</td><td>튜브 확인; 통증이 없거나 경미할 수 있음</td><td>합병증 없으면 적절한 국소 항생제 단독; 전신제는 선택적으로 사용</td></tr><tr><td>만성 화농성·악취</td><td>CSOM ± cholesteatoma</td><td>고막 천공; 반복·지속 이루; 폴립·진주색 병변</td><td>귀 청소·국소 항생제, 청력 평가; 무반응 시 배양·의뢰. 진주종·합병증 의심 시 영상검사</td></tr><tr><td>맑은 물 같은 이루</td><td>천공·튜브·외이도 병변; CSF 누출 감별</td><td>고막 상태; 두부 외상·수술력; 지속적 물 같은 분비물</td><td>원인 평가. CSF 의심 시 이비인후과 평가, β₂-transferrin 등 검사 및 측두골 CT 고려. 고막이 온전한 OME·ETD는 외이도 이루를 만들지 않음</td></tr><tr><td>혈성 또는 지속 혈청성</td><td>외상·육아조직·종양</td><td>외상력; 종괴; 안면신경 증상</td><td>청력검사·의뢰; 병변에 따라 측두골 CT/MRI (☞ [귀손상](049_-ear-injury.md#traumatic-tm-perforation))</td></tr><tr><td>박동성 이명 + 고막 뒤 혈관성 종괴</td><td>사구종양 / 혈관성 병변</td><td>편측 박동성 이명; 청력 저하; 혈관성 종괴</td><td>이비인후과 의뢰 및 CT/MRI; 이루의 박동성만으로 종양을 판단하지 않음</td></tr></tbody></table>
 
 * 중이 결핵 : 만성 난치성 이루·결핵 위험요인 등 임상 맥락에서 감별; 분비물이 맑다는 이유만으로 결핵 검사·치료를 결정하지 않음 (☞ [결핵](../223_/070_-tuberculosis.md))
 
-<p align="center"><em><mark style="color:$info;">Ref. AAP 2013; AAO-HNSF 고막튜브 지침 2022; CSOM Cochrane 검토 2025. 치료 상황별로 재구성.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AAP 2013; AAO-HNSF 고막튜브 지침 2022; CSOM Cochrane 검토 2025)</mark></em></p>
 
 ***
 
-## <mark style="background-color:$warning;">Management - 급성 중이염</mark>
+## <mark style="color:green;">Management - 급성 중이염</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -165,7 +173,7 @@ _1) 중등도\~심한 고막 팽륜, 외이염에 의하지 않은 새로 발생
 2. 항생제 : 필요 시 사용; 일률적 투여는 권고하지 않음
 3. 수술 : 적응증 해당 시 고려
 
-**합병증이 없는 AOM의 항생제 적용 기준 — AAP 기준 중심**
+<mark style="color:cyan;">**합병증이 없는 AOM의 항생제 적용 기준**</mark>&#x20;
 
 ※ 본문·처방례 및 하단 AOM 항생제 결정 알고리듬은 AAP 기준 중심으로 제시함. 국내 2014 지침과의 차이는 별도 주석 및 비교용 알고리듬에 표시함. AAP 지침의 주 대상은 생후 6개월\~12세이며, ＜6개월 영아·면역저하자·와우 이식자는 별도 위험 평가 필요.
 
