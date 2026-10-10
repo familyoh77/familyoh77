@@ -26,12 +26,12 @@
 
 * 폐렴구균 백신 : 2025년 10월부터 PCV20(20가)이 소아 국가예방접종(NIP)에 신규 도입됨; 기존 PCV13으로 접종을 시작한 소아는 PCV20으로 교차접종 가능하며, PCV15로 시작한 경우 동일 백신으로 접종 완료 권장(질병관리청) - 세부 기준은 변경될 수 있어 최신 안내 확인 필요 (☞ [예방접종](../231_/210_-vaccination.md#pneumococcal-pneumonia))
   * PCV20은 PCV13 대비 7개 혈청형(8, 10A, 11A, 12F, 15B, 22F, 33F)을 추가 커버; 이 중 11A·15B·22F·33F 등은 PCV13 도입 후 AOM에서 증가한 비백신 혈청형으로, 추가 커버에 따른 AOM 감소 효과가 기대됨
-  * PCV7 연구에서 저위험 영아의 전체 원인 AOM은 약 6% 상대 감소; 고위험군에서는 예방 효과가 확립되지 않음(상대 감소율 −5%, 95% CI −25%~12%) \[Cochrane 2020]. 이 수치를 PCV20의 예방 효과로 적용하지 않으며, PCV20의 소아 AOM 특이 장기 데이터는 축적 중
+  * PCV7 연구에서 저위험 영아의 전체 원인 AOM은 약 6% 상대 감소; 고위험군에서는 예방 효과가 확립되지 않음(상대 감소율 −5%, 95% CI −25%\~12%) \[Cochrane 2020]. 이 수치를 PCV20의 예방 효과로 적용하지 않으며, PCV20의 소아 AOM 특이 장기 데이터는 축적 중
 * 인플루엔자 백신 : 호흡기 질환 시즌 동안 influenza 관련 AOM 감소에 도움
 * Xylitol : 건강한 보육시설 이용 소아에서 예방 효과가 보고되었으나, 재발성 AOM 소아·호흡기 감염 중 소아의 예방 효과는 확립되지 않음. 연구에서 잦은 투여가 필요했고 순응도 문제가 있어 일상적 권고는 제한적 \[Cochrane 2016]
 * Vitamin D : 일부 관찰 연구에서 혈중 농도와 재발 위험의 연관성이 보고되었으나, AOM 예방만을 위한 일률적 보충 근거는 부족함
 * RSV 단일클론항체 : 본래 적응증은 RSV 하기도질환 예방이며, AOM 예방 자체를 위한 적응증은 아님
-  * nirsevimab <mark style="color:blue;">\[베이포투스]</mark> : 2026년 관찰연구에서 AOM 및 항생제 노출 감소와의 연관성이 보고됨. 핀란드 전국 시계열 연구에서는 도입 후 영아 AOM 발생률이 44% 감소했으나(RR 0.56, 95% CI 0.54~0.58), 개인별 투여 효과를 확인한 무작위시험 결과는 아님 \[Eur J Pediatr 2026;185:827, 2026-10-09]
+  * nirsevimab <mark style="color:blue;">\[베이포투스]</mark> : 2026년 관찰연구에서 AOM 및 항생제 노출 감소와의 연관성이 보고됨. 핀란드 전국 시계열 연구에서는 도입 후 영아 AOM 발생률이 44% 감소했으나(RR 0.56, 95% CI 0.54\~0.58), 개인별 투여 효과를 확인한 무작위시험 결과는 아님 \[Eur J Pediatr 2026;185:827, 2026-10-09]
   * clesrovimab <mark style="color:blue;">\[엔플론시아]</mark> : nirsevimab의 AOM 관련 결과를 동일하게 적용하지 않음; AOM 예방 효과는 약제별 추가 근거 필요
 * RSV 모체면역 백신(예: Abrysvo <mark style="color:blue;">\[아브리스보]</mark>, 임신 28\~36주 접종) : 2026년 8월 국내 허가; 태반을 통한 항체 이행으로 출생 후 약 6개월까지(효과는 시간 경과에 따라 감소) 영아 RSV 하기도질환 예방 목적 - NIP 편입 및 급여 여부는 확인 필요
 * 예방적 항생제 : 내성균 발생 우려 크고 효과 미약 - 권고하지 않음
@@ -40,26 +40,26 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 두통, 고열, 구토, 의식 변화, 경부 강직  `뇌막염` `뇌농양` `경막외/하 농양`
-* 심한 두통과 고열 지속, 유두부종 또는 외전신경 마비  `S상정맥동 혈전증`
-* 귀 뒤 발적·부종·파동, 이개의 전외방 돌출  `급성 유양돌기염` `골막하 농양`
-* 안면 마비  `안면신경 침범`
-* 자발 안진을 동반한 어지럼, 감각신경성 청력 저하  `미로염(내이염)`
-* 생후 ＜3개월 영아의 ≥38℃ 발열(특히 ＜28일 신생아)  `패혈증` `심부 세균 감염`
+* 두통, 고열, 구토, 의식 변화, 경부 강직 `뇌막염` `뇌농양` `경막외/하 농양`
+* 심한 두통과 고열 지속, 유두부종 또는 외전신경 마비 `S상정맥동 혈전증`
+* 귀 뒤 발적·부종·파동, 이개의 전외방 돌출 `급성 유양돌기염` `골막하 농양`
+* 안면 마비 `안면신경 침범`
+* 자발 안진을 동반한 어지럼, 감각신경성 청력 저하 `미로염(내이염)`
+* 생후 ＜3개월 영아의 ≥38℃ 발열(특히 ＜28일 신생아) `패혈증` `심부 세균 감염`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 귀 뒤 압통이 발적·부종 없이 지속되거나 악화  `초기 유양돌기염`
-* 적절한 항생제 치료 48\~72시간에도 호전 없거나 악화  `치료 실패` `내성균`
-* 면역 저하자 또는 와우 이식자의 AOM  `중증 감염` `이식물 감염`
+* 귀 뒤 압통이 발적·부종 없이 지속되거나 악화 `초기 유양돌기염`
+* 적절한 항생제 치료 48\~72시간에도 호전 없거나 악화 `치료 실패` `내성균`
+* 면역 저하자 또는 와우 이식자의 AOM `중증 감염` `이식물 감염`
 
 <mark style="color:$info;">**외래 추적**</mark>
 
-* 재발성 AOM (≥3회/6개월 또는 ≥4회/1년)  `재발 중이염`
-* 6주 이상 지속되는 고막 천공  `지속 천공` `이루 동반 시 CSOM 평가`
-* 악취 이루가 지속되거나 고막에 진주색 덩어리가 보임  `진주종`
-* OME 3개월 이상 지속, 또는 언어 지연·청력 저하 동반  `만성 OME`
-* 성인에서 편측으로 지속되는 삼출·청력 저하(흡연력·경부 림프절 종대·비출혈이 없어도 원인 평가)  `비인두 병변`
+* 재발성 AOM (≥3회/6개월 또는 ≥4회/1년) `재발 중이염`
+* 6주 이상 지속되는 고막 천공 `지속 천공` `이루 동반 시 CSOM 평가`
+* 악취 이루가 지속되거나 고막에 진주색 덩어리가 보임 `진주종`
+* OME 3개월 이상 지속, 또는 언어 지연·청력 저하 동반 `만성 OME`
+* 성인에서 편측으로 지속되는 삼출·청력 저하(흡연력·경부 림프절 종대·비출혈이 없어도 원인 평가) `비인두 병변`
 
 ## <mark style="color:green;">증상/병력에 따른 귀 문제의 감별</mark>
 
@@ -79,7 +79,7 @@
 
 * 바이러스 : rhinovirus, RSV; 중이염 감염의 15\~44% 차지
 * 세균 : _S. pneumoniae_, 비피막형 _H. influenzae_, _M. catarrhalis_
-  * PCV 도입 이후 _H. influenzae_의 비중이 증가하여 _S. pneumoniae_와 비슷하거나 더 높게 보고됨; _H. influenzae_·_M. catarrhalis_의 상당수가 β-lactamase를 생성 - amox-clav 적응증 판단의 근거
+  * PCV 도입 이후 \_H. influenzae\_의 비중이 증가하여 \_S. pneumoniae\_와 비슷하거나 더 높게 보고됨; _H. influenzae_·\_M. catarrhalis\_의 상당수가 β-lactamase를 생성 - amox-clav 적응증 판단의 근거
   * 세균과 바이러스가 함께 검출되는 경우가 흔함
 * 무균성
 
@@ -94,13 +94,13 @@
 
 ## <mark style="color:green;">진단</mark>
 
-#### <mark style="color:$primary;">급성 중이염 진단 기준</mark>&#x20;
+#### <mark style="color:$primary;">급성 중이염 진단 기준</mark>
 
 **중이 삼출액(MEE)의 존재가 필수**이며, 다음 3가지 기준 중 하나 이상을 충족하면 AOM으로 진단 \[AAP 2013]. MEE가 확인되지 않으면 AOM으로 진단하지 않음
 
 1. 중등도\~심한 TM 팽륜 (moderate to severe bulging)
 2. 새로 발생한 이루 - 외이염에 기인하지 않는 경우
-3. 경도 TM 팽륜 + [48시간 이내 발생한 이통(귀를 만지거나 비빔 포함) 또는 심한 TM 충혈]
+3. 경도 TM 팽륜 + \[48시간 이내 발생한 이통(귀를 만지거나 비빔 포함) 또는 심한 TM 충혈]
 
 {% hint style="warning" %}
 <mark style="color:red;">**발적(erythema) 단독은 AOM 확진 기준 불충분**</mark>**.** 고열이나 울음에 의한 홍조와 구별이 필요하며, 팽륜(bulging)이 가장 신뢰할 수 있는 진단 소견이다.
@@ -139,22 +139,9 @@
 ***
 
 ```mermaid
-graph TD
-    Start(["AOM 또는 OME 의심"]) --> Effusion["중이 삼출액이 확인되는가?"]
-    Effusion -- 없음 --> Other(["다른 원인 평가; AOM 확진 불가"])
-    Effusion -- 있음 --> Criteria["AOM 고막 진단 기준을 충족하는가?¹⁾"]
-    Criteria -- 있음 --> AOM(["급성 중이염 AOM"])
-    Criteria -- 없음 --> Acute["급성 이통·발열 등 증상이 있는가?"]
-    Acute -- 없음 --> OME(["삼출 중이염 OME"])
-    Acute -- 있음 --> Uncertain(["AOM 의증 또는 다른 원인; 재평가"])
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style AOM fill:#ff9966,stroke:#cc5500
-    style OME fill:#bbf,stroke:#333
-    classDef q fill:#fff9c4,stroke:#ffe082
-    class Effusion,Criteria,Acute q
 ```
 
-_1) 중등도~심한 고막 팽륜, 외이염에 의하지 않은 새로 발생한 이루, 또는 경도 팽륜과 최근 48시간 이내 이통/심한 충혈의 조합. 단순 발적이나 이통만으로 AOM을 확진하지 않음. 고막튜브 이루는 별도 관리 기준 적용._
+_1) 중등도\~심한 고막 팽륜, 외이염에 의하지 않은 새로 발생한 이루, 또는 경도 팽륜과 최근 48시간 이내 이통/심한 충혈의 조합. 단순 발적이나 이통만으로 AOM을 확진하지 않음. 고막튜브 이루는 별도 관리 기준 적용._
 
 <p align="center"><strong>급성 중이염 및 삼출 중이염의 감별</strong><br><em><mark style="color:$info;">Ref. AAP. The Diagnosis and Management of Acute Otitis Media. Pediatrics 2013;131(3):e964–e999. 기준을 바탕으로 재구성.</mark></em></p>
 
@@ -180,7 +167,7 @@ _1) 중등도~심한 고막 팽륜, 외이염에 의하지 않은 새로 발생�
 
 **합병증이 없는 AOM의 항생제 적용 기준 — AAP 기준 중심**
 
-※ 본문·처방례 및 하단 AOM 항생제 결정 알고리듬은 AAP 기준 중심으로 제시함. 국내 2014 지침과의 차이는 별도 주석 및 비교용 알고리듬에 표시함. AAP 지침의 주 대상은 생후 6개월~12세이며, ＜6개월 영아·면역저하자·와우 이식자는 별도 위험 평가 필요.
+※ 본문·처방례 및 하단 AOM 항생제 결정 알고리듬은 AAP 기준 중심으로 제시함. 국내 2014 지침과의 차이는 별도 주석 및 비교용 알고리듬에 표시함. AAP 지침의 주 대상은 생후 6개월\~12세이며, ＜6개월 영아·면역저하자·와우 이식자는 별도 위험 평가 필요.
 
 <table><thead><tr><th width="91">연령</th><th width="91">&#x3C;6개월</th><th width="93">≥6개월</th><th width="109">6~23개월</th><th width="137">6~23개월</th><th width="146">≥24개월</th></tr></thead><tbody><tr><td>중증도</td><td>무관</td><td>심함¹⁾</td><td>심하지 않음</td><td>심하지 않음</td><td>심하지 않음</td></tr><tr><td>이환 부위</td><td>무관</td><td>무관</td><td>양측</td><td>편측</td><td>양측/편측</td></tr><tr><td>항생제</td><td>투여</td><td>투여</td><td>투여</td><td>투여 또는 관찰²⁾</td><td>투여 또는 관찰²⁾</td></tr></tbody></table>
 
@@ -220,7 +207,7 @@ _1) 중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 �
   * <mark style="color:blue;">\[세토펜]</mark> (32 ㎎/㎖; 1회 약 0.31\~0.47 ㎖/㎏, q4\~6h. 예: 0.4 ㎖/㎏/회; 1일 최대 횟수·총량 확인)
 * ibuprofen : 400 ㎎ q6h <mark style="color:blue;">\[부루펜]</mark>
   * 소아 체중 기준(해외 지침) : 5\~10 ㎎/㎏ q6\~8h, 최대 40 ㎎/㎏/d(20 ㎎/㎖이면 1회 0.25\~0.5 ㎖/㎏); ≥6개월 기준이며 국내 연령별 허가 용량과 구분
-  * <mark style="color:blue;">\[어린이부루펜]</mark> (20 ㎎/㎖) 국내 허가 용량 : 1~2세 1회 2.5~5 ㎖·1일 최대 20 ㎖; 3~6세 5~7.5 ㎖·최대 30 ㎖; 7~10세 7.5~10 ㎖·최대 40 ㎖; 11~14세 10~12.5 ㎖·최대 50 ㎖. 1일 3~4회; 연령·체중·허가사항을 함께 확인. ＜2세는 의사 판단하에 투여
+  * <mark style="color:blue;">\[어린이부루펜]</mark> (20 ㎎/㎖) 국내 허가 용량 : 1~~2세 1회 2.5~~5 ㎖·1일 최대 20 ㎖; 3~~6세 5~~7.5 ㎖·최대 30 ㎖; 7~~10세 7.5~~10 ㎖·최대 40 ㎖; 11~~14세 10~~12.5 ㎖·최대 50 ㎖. 1일 3\~4회; 연령·체중·허가사항을 함께 확인. ＜2세는 의사 판단하에 투여
   * 탈수·신기능 저하가 있으면 ibuprofen 사용에 주의
 * 통증이 심한 초기 2\~3일은 규칙적으로 투여; 외부 온열 치료(예: 적외선 램프)는 통증 완화에 약간의 효과 기대
 
@@ -276,7 +263,7 @@ _1) 중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 �
 * amoxicillin에 알레르기가 있는 경우
   * Ⅰ형 반응(두드러기, anaphylaxis) 포함 대부분 : side chain이 다른 2·3세대 cephalosporin
   * 중증 지연형 피부 반응(SJS/TEN, DRESS) 병력 : β-lactam 회피 → clindamycin 또는 의뢰
-* 적절한 초치료 48~72시간에도 AOM 증상이 호전되지 않거나 악화
+* 적절한 초치료 48\~72시간에도 AOM 증상이 호전되지 않거나 악화
 * 별도의 세균성 부비동염 등 동반 질환이 확진되면 해당 치료 지침도 검토; 화농성 콧물만으로 AOM 항생제를 변경하지 않음
 * 항생제 투여 중 AOM 발생
 * 면역 저하자
@@ -287,7 +274,7 @@ _1) 중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 �
 * ceftriaxone : 50 ㎎/㎏(최대 1 g) IM/IV 1회(초치료) 또는 ×3d(치료 실패) <mark style="color:blue;">\[트리악손]</mark>
   * 대상 : 경구제 투여 불가, 경구 치료 실패, 저항성 _S. pneumoniae_ 감염
 * azithromycin : 10 ㎎/㎏/d qd ×1d + 5 ㎎/㎏/d ×4d <mark style="color:blue;">\[지스로맥스]</mark>
-  * 국내 _S. pneumoniae_의 macrolide 내성이 높으며, 수치는 조사 연도·검체·대상군에 따라 다름; cephalosporin을 사용할 수 없는 경우에 한해 최후 수단으로 고려
+  * 국내 \_S. pneumoniae\_의 macrolide 내성이 높으며, 수치는 조사 연도·검체·대상군에 따라 다름; cephalosporin을 사용할 수 없는 경우에 한해 최후 수단으로 고려
   * 가급적 cephalosporin을 우선 선택
 * clindamycin : 소아 30\~40 ㎎/㎏/d #3, 성인 150\~300 ㎎ qid <mark style="color:blue;">\[훌그램]</mark> - _H. influenzae_·_M. catarrhalis_ 미커버(필요시 3세대 cephalosporin 병용); macrolide 내성균에서 clindamycin 교차내성이 있을 수 있어 감수성 확인 필요
 * clarithromycin : 15 ㎎/㎏/d #2 ×5\~7d (성인 250\~500 ㎎ bid) <mark style="color:blue;">\[클래리시드]</mark> - azithromycin과 같은 macrolide 내성 문제; cephalosporin 사용 불가 시 제한적으로 고려
@@ -329,30 +316,6 @@ _1) 중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 �
 **국내 2014 지침 비교용** — ＜24개월 확진 AOM·최근 항생제 사용력·38.5℃ 기준은 국내 지침의 조건임. 본문의 AAP 중심 적용 기준과 구분하며, 중증 초치료에는 국내 지침상 고용량 amox-clav 권고.
 
 ```mermaid
-graph TD
-    Start(["<b>급성 중이염 진단</b>"])
-    Severity["[중증]<br/>1. 심한 이통 또는 보채거림<br/>2. 38.5℃ 이상의 고열"]   
-    Start --> Severity
-    Severity -- "yes" --> Antibiotics["항생제 요법*"]
-    Severity -- "no" --> Certainty["[연령과 진단의 확실성]<br/>1. 생후 6개월 미만<br/>2. 2세 미만에서의 확진"]
-    Certainty -- "yes" --> Antibiotics
-    Certainty -- "no" --> PatientFactor["[환자 요인]<br/>1. 항생제가 필요한 동반 질환<br/>2. 최근 30일 이내 항생제 복용<br/>3. 2~3일 후 추적 관찰 불가"]
-    PatientFactor -- "yes" --> Antibiotics
-    PatientFactor -- "no" --> Otorrhea["AOM의 새로 발생한 이루 또는 자연 천공"]
-    Otorrhea -- "yes" --> Antibiotics
-    Otorrhea -- "no" --> Supportive["항생제 투여 없는 대증 치료<br/>(2~3일 후 외래 예약)"]
-    Supportive --> Improvement["증상 호전?"]
-    Improvement -- "no" --> Antibiotics
-    Improvement -- "yes" --> Home["보호자 교육 후 귀가"]
-
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Home fill:#d0e8ff,stroke:#1a6abf
-    classDef sky fill:#e3f2ff,stroke:#2196f3
-    class Antibiotics,Supportive sky
-    classDef q fill:#fff9c4,stroke:#ffe082
-    class Severity,Certainty,PatientFactor,Otorrhea,Improvement q
-
-    
 ```
 
 _\*항생제 요법 ① 치료 반응 판정: 2\~3일 후, 증상 호전 여부 ② 치료 기간: 반응 시 5\~10일 ③ 항생제 감수성 결과 나오면 적절한 항생제로 변경_
@@ -361,49 +324,15 @@ _\*항생제 요법 ① 치료 반응 판정: 2\~3일 후, 증상 호전 여부 
 
 ***
 
-### <mark style="color:orange;">AOM 항생제 결정 알고리듬</mark>&#x20;
+### <mark style="color:orange;">AOM 항생제 결정 알고리듬</mark>
 
 ```mermaid
-graph TD
-A(["급성 중이염 AOM 확진"]) --> B["중증인가?"]
-B -->|Yes| ABX["즉시 항생제 시작"]
-B -->|No| C["6개월 미만인가?"]
-C -->|Yes| ABX
-C -->|No| D["AOM의 자연 천공 또는 새로운 이루?"]
-D -->|Yes| ABX
-D -->|No| E["면역저하·와우 이식·복잡 기저질환·두개안면기형?"]
-E -->|Yes| SPECIAL(["표준 관찰 기준 제외; 개별 위험 평가·의뢰"])
-E -->|No| F["6~23개월 + 양측 AOM인가?"]
-F -->|Yes| ABX
-F -->|No| G["48~72시간 추적 관찰 가능한가?"]
-G -->|No| ABX
-G -->|Yes| SHARED["보호자와 협의하여 항생제 또는 관찰 선택"]
-SHARED -->|항생제| ABX
-SHARED -->|관찰| OBS["관찰 + 진통제; 지연 처방 고려"]
-OBS --> H["48~72시간 후 호전?"]
-H -->|Yes| HOME(["항생제 없이 경과 관찰 종료"])
-H -->|No| ABX2["재평가 후 항생제 시작"]
-ABX --> I["고용량 Amoxicillin; 해당 적응증 있으면 Amox-clav"]
-ABX2 --> I
-I --> J["48~72시간 내 치료 반응 확인"]
-J --> K["호전 없음?"]
-K -->|Yes| ESC["진단·복약·합병증 재평가; Amox-clav 또는 Ceftriaxone"]
-K -->|No| END(["처방 기간 치료 완료"])
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class HOME,END blue
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,C,D,E,F,G,H,K yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class ABX,ABX2,ESC,OBS sky
-
 ```
 
 <p align="center"><strong>AOM 항생제 결정 알고리듬</strong><br><em><mark style="color:$info;">Ref. AAP. Pediatrics 2013;131(3):e964–e999. 고위험군 평가를 포함하여 재구성.</mark></em></p>
 
 {% hint style="info" %}
-**AAP 중심 알고리듬** — 중등도~심한 이통/보챔, ≥48시간 이통 또는 ≥39℃ 발열이면 즉시 항생제. 국내 2014 지침은 ≥38.5℃ 및 ＜24개월 확진 AOM의 즉시 치료 등에서 차이가 있음. 면역저하·와우 이식·두개안면기형은 표준 관찰 기준을 그대로 적용하지 않고 개별 위험 평가·의뢰 고려.
+**AAP 중심 알고리듬** — 중등도\~심한 이통/보챔, ≥48시간 이통 또는 ≥39℃ 발열이면 즉시 항생제. 국내 2014 지침은 ≥38.5℃ 및 ＜24개월 확진 AOM의 즉시 치료 등에서 차이가 있음. 면역저하·와우 이식·두개안면기형은 표준 관찰 기준을 그대로 적용하지 않고 개별 위험 평가·의뢰 고려.
 {% endhint %}
 
 ***
@@ -459,7 +388,7 @@ class ABX,ABX2,ESC,OBS sky
 > 타이레놀 이알 650 ㎎/T     1회 1T   q8h   × 3~5d (통증·발열 시)
 > ```
 >
-> _✽자연 천공 AOM은 경구 항생제 중심으로 치료하며, 점이제 추가를 모든 환자에게 일률적으로 적용하지 않음. 국소 치료가 필요한 경우 제품의 중이염·천공 관련 허가사항 확인 후 ofloxacin 0.3% [에펙신] 등을 선택(성인 1회 6~10방울 bid, 점이 후 약 10분 이욕; 기간은 병변·반응에 따라 결정). 세트락살플러스는 국내에서 중이염·천공 환자의 안전성·유효성이 확립되지 않음. 48~72시간 반응 재평가 및 4~6주 내 고막 회복 확인._
+> _✽자연 천공 AOM은 경구 항생제 중심으로 치료하며, 점이제 추가를 모든 환자에게 일률적으로 적용하지 않음. 국소 치료가 필요한 경우 제품의 중이염·천공 관련 허가사항 확인 후 ofloxacin 0.3% \[에펙신] 등을 선택(성인 1회 6_~~_10방울 bid, 점이 후 약 10분 이욕; 기간은 병변·반응에 따라 결정). 세트락살플러스는 국내에서 중이염·천공 환자의 안전성·유효성이 확립되지 않음. 48_~~_72시간 반응 재평가 및 4\~6주 내 고막 회복 확인._
 
 ***
 
@@ -569,7 +498,7 @@ class ABX,ABX2,ESC,OBS sky
 
 * 자가 통기법 (Autoinflation) : 협조 가능한 소아에서 관찰 기간 중 고려하는 비침습적 선택지
   * 풍선형 장치(예: Otovent) : 단기적으로 OME 지속·질환 관련 삶의 질에 도움이 될 가능성은 있으나, 청력 정상화 효과는 불확실 \[Cochrane 2023; NICE NG233]. 불편감·이통과 시행 부담을 설명
-  * 장치의 방법에 따라 보통 하루 2~3회 시행; 나이보다 정확한 동작 수행 가능 여부가 중요. 통증·어지럼 발생 시 중단하고 평가
+  * 장치의 방법에 따라 보통 하루 2\~3회 시행; 나이보다 정확한 동작 수행 가능 여부가 중요. 통증·어지럼 발생 시 중단하고 평가
   * 하품·삼킴 등은 압력 조절에 도움을 줄 수 있으나, 껌·일반 Valsalva 수기를 풍선 장치 연구와 같은 효과로 제시하지 않음
 * 난청 지원 : 청각 환경 개선과 함께 보청기 또는 골전도 청각기기 고려. 관찰 중 난청이 지속되거나 수술을 기다리는 경우·수술을 원하지 않는 경우에도 선택 가능; 청력 변동·이루·착용 가능성에 따라 청각 전문가와 결정 \[NICE NG233]
 
@@ -613,25 +542,6 @@ class ABX,ABX2,ESC,OBS sky
 ### <mark style="color:orange;">삼출 중이염 치료 알고리듬</mark>
 
 ```mermaid
-graph TD
-    Start(["삼출 중이염 OME 진단"]) --> Eval["각 귀의 청력·생활 영향·고막 상태 평가"]
-    Eval --> Risk["고위험 인자·구조 변화·중대한 생활 영향?¹⁾"]
-    Risk -- 있음 --> Early(["조기 전문 평가 및 개별 치료"])
-    Risk -- 없음 --> Observe["청각 지원 및 약 3개월 관찰"]
-    Observe --> Review["고막·청력·기능 재평가"]
-    Review --> Gone["삼출액과 난청이 소실되었는가?"]
-    Gone -- 있음 --> End(["보호자 교육; 필요 시 추적"])
-    Gone -- 없음 --> Bilateral["양측 OME 3개월 이상 + 청력 곤란?"]
-    Bilateral -- 있음 --> Offer["튜브 삽입 제안; 청각기기 선택도 논의"]
-    Bilateral -- 없음 --> Tailor["편측/양측·난청·증상에 따라 개별 결정"]
-    Offer --> Follow(["치료 후 청력 및 귀 상태 추적"])
-    Tailor --> Plan["관찰·청각기기·수술 중 적절한 선택"]
-    Plan --> Review
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef sky fill:#e3f2ff,stroke:#2196f3
-    class Eval,Observe,Offer,Tailor,Plan sky
-    classDef q fill:#fff9c4,stroke:#ffe082
-    class Risk,Gone,Bilateral q
 ```
 
 _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개안면기형·구개열·자폐증/발달 장애·언어/인지 기능 저하, 고막의 비가역적 변화 또는 난청으로 인한 중대한 생활 영향. 한쪽 귀의 난청도 기능에 영향을 줄 수 있어 좋은 쪽 역치만으로 결정하지 않음._
@@ -716,7 +626,7 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 고막 천공을 통한 지속·반복적 이루를 동반하는 중이·유양동의 만성 염증. 기간 정의는 2주~수개월로 자료마다 다름(WHO ≥2주); 3개월까지 평가를 미루지 않으며 이루 없는 건성 천공과 구분
+* 고막 천공을 통한 지속·반복적 이루를 동반하는 중이·유양동의 만성 염증. 기간 정의는 2주\~수개월로 자료마다 다름(WHO ≥2주); 3개월까지 평가를 미루지 않으며 이루 없는 건성 천공과 구분
 * 진주종(cholesteatoma)을 동반할 수 있으며, 동반 시 침습적 경과를 보이고 수술 필요성이 높음; 대부분 유양돌기 이환
 * 원인균 : _P. aeruginosa_, _S. aureus_(MRSA 포함)가 가장 흔함; 그 외 _Proteus_·_Klebsiella_ 등 그람음성균, 혐기성균, 진균
 
@@ -730,7 +640,7 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 ## <mark style="color:green;">검사</mark>
 
 * 청력검사 : 각 귀의 청력·전음성/감각신경성 성분을 평가; 감염 치료 후에도 난청 지속 시 재평가
-* 배양·항생제 감수성 검사 : 반복·난치성 이루, 내성 의심 또는 적절한 초기 국소 치료에도 지속 시 시행. 대개 1~2주에 반응을 재평가하며 악화 시 조기 검사·의뢰; 3주 무반응까지 기다리는 고정 기준은 없음
+* 배양·항생제 감수성 검사 : 반복·난치성 이루, 내성 의심 또는 적절한 초기 국소 치료에도 지속 시 시행. 대개 1\~2주에 반응을 재평가하며 악화 시 조기 검사·의뢰; 3주 무반응까지 기다리는 고정 기준은 없음
 * CT 또는 MRI : 치료 실패, 합병증, cholesteatoma 의심 시
 
 ***
@@ -743,14 +653,14 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 
 ### <mark style="color:orange;">국소 살균제</mark>
 
-* 퀴놀론 점이제는 boric acid보다 1~2주 이루 소실에 유리할 가능성; 다른 살균제와의 비교 효과·안전성 근거는 불확실 \[Cochrane 2025]
+* 퀴놀론 점이제는 boric acid보다 1\~2주 이루 소실에 유리할 가능성; 다른 살균제와의 비교 효과·안전성 근거는 불확실 \[Cochrane 2025]
 * Acetic acid·boric acid·povidone-iodine·aluminium acetate/Burow 용액은 농도·용매(특히 알코올)·천공 여부에 따른 자극·이독성 검토가 필요. 천공 귀에 임의 조제·가정용 용액을 사용하지 않으며 전문의가 제제별 안전성을 확인한 경우에 한해 고려 (☞ [외이염](047_-otitis-externa.md))
 
 ### <mark style="color:orange;">국소 항생제</mark>
 
 * 국소 항생제가 전신 항생제보다 단기 이루 소실에 유리할 가능성이 있으나 비교 근거의 확실성은 낮음 \[Cochrane 2025]. 귀 청소·배액 확보와 국소 치료를 우선
 * Fluoroquinolone 점이액(1차 선택) : aminoglycoside보다 이독성 우려가 적음; 중이염·고막 천공에 적합한 제제 선택
-  * ofloxacin 0.3% <mark style="color:blue;">\[에펙신]</mark> : 국내 중이염·외이염 허가; 성인 1회 6~10방울 bid, 점이 후 약 10분 이욕. 초기 약 1~2주 치료 후 반응 재평가; 총 기간은 병변·배양·반응에 따라 결정. 국내 허가사항의 표준 기간은 4주이며, 연장 여부는 신중히 판단. 소아는 연령·증상에 따라 감량하며 1세 미만 안전성·유효성 미확립
+  * ofloxacin 0.3% <mark style="color:blue;">\[에펙신]</mark> : 국내 중이염·외이염 허가; 성인 1회 6~~10방울 bid, 점이 후 약 10분 이욕. 초기 약 1~~2주 치료 후 반응 재평가; 총 기간은 병변·배양·반응에 따라 결정. 국내 허가사항의 표준 기간은 4주이며, 연장 여부는 신중히 판단. 소아는 연령·증상에 따라 감량하며 1세 미만 안전성·유효성 미확립
   * <mark style="color:blue;">\[세트락살플러스]</mark>(ciprofloxacin/fluocinolone) : 국내 적응증은 정상 고막의 급성 외이염. 중이염·고막 천공에서 안전성·유효성 미확립 → CSOM·튜브 이루의 일반적 선택제로 제시하지 않음. 사용 고려 시 허가외 여부와 전문의 판단 명시
   * 타리비드이용액은 2025-06-27 허가 취하되어 처방 상품명에서 제외
 * Aminoglycoside : 고막 천공·튜브를 통해 중이에 노출되면 이독성 우려가 있어 일반적으로 피함; 비이독성 점이제 우선
@@ -788,7 +698,7 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 > (점이 후 약 10분 이욕; 치료 중 반응 재평가)
 > ```
 >
-> _✽중이염에 허가된 ofloxacin 제제를 선택; 귀 청소 후 투여. 본 예시는 초기 14일 치료이며 1~2주에 이루·고막·약물 전달을 재평가. 국내 허가 표준 기간은 4주이므로 반응·배양에 따라 총 기간 결정; 악화·무반응이면 조기 배양 및 의뢰._
+> _✽중이염에 허가된 ofloxacin 제제를 선택; 귀 청소 후 투여. 본 예시는 초기 14일 치료이며 1\~2주에 이루·고막·약물 전달을 재평가. 국내 허가 표준 기간은 4주이므로 반응·배양에 따라 총 기간 결정; 악화·무반응이면 조기 배양 및 의뢰._
 
 > **처방례 2. CSOM - 국소 치료 실패 또는 전신 치료 필요 시**
 >
@@ -796,7 +706,7 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 > (배양·감수성 검사 및 이비인후과 평가 후 전신 항생제·기간 결정)
 > ```
 >
-> _✽분비물 과다만으로 전신제를 선택하지 않음. 귀 청소·약물 전달·진주종 여부를 먼저 확인하며, 전신 증상·조직 확산·합병증 의심 시 신속 의뢰. 경험적 ciprofloxacin 14~21일을 모든 환자에게 적용하지 않음._
+> _✽분비물 과다만으로 전신제를 선택하지 않음. 귀 청소·약물 전달·진주종 여부를 먼저 확인하며, 전신 증상·조직 확산·합병증 의심 시 신속 의뢰. 경험적 ciprofloxacin 14\~21일을 모든 환자에게 적용하지 않음._
 
 ***
 
@@ -820,7 +730,7 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 > * 귀 뒤가 빨갛게 부어오르거나 눌리면 아플 때 (유양돌기염 의심)
 > * 얼굴 한쪽이 마비되거나 처지는 느낌이 들 때 **(즉시 응급실)**
 > * 두통, 구토, 고열이 동반될 때 **(즉시 응급실)**
-> * 초기 1~2주 치료에도 분비물이 지속되거나 치료 중 악화될 때 (재평가·배양 및 의뢰 고려)
+> * 초기 1\~2주 치료에도 분비물이 지속되거나 치료 중 악화될 때 (재평가·배양 및 의뢰 고려)
 
 ***
 
@@ -848,7 +758,7 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 
 * 귀 뒤쪽이 부어오르거나 통증이 심해질 때
 * 얼굴 마비, 어지럼증이 갑자기 생길 때 **(즉시 응급실)**
-* 초기 1~2주 치료에도 분비물이 지속되거나 치료 중 악화될 때
+* 초기 1\~2주 치료에도 분비물이 지속되거나 치료 중 악화될 때
 
 ***
 
@@ -902,28 +812,3 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 * 두개안면기형·발음 장애 자체를 포괄적인 절제 적응증으로 삼지 않음. 구개열·점막하 구개열·구개인두 기능 부전은 수술 후 발음 악화 위험을 고려해 전문 평가
 
  ✽ 편도 절제 ☞ [편도염](../223_/064_-tonsillitis.md#undefined-12)
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 국내 허가사항</mark>
-
-* [AAP. The Diagnosis and Management of Acute Otitis Media. Pediatrics. 2013;131:e964–e999](https://publications.aap.org/pediatrics/article/131/3/e964/30912/).
-* [대한이과학회. 유소아 중이염 진료지침. 2014](https://www.otologicalsociety.or.kr/member/file/2014_01.pdf). 국내 기준과 AAP 기준의 차이는 본문에 구분함.
-* [NICE NG91. Otitis media (acute): antimicrobial prescribing](https://www.nice.org.uk/guidance/ng91/chapter/recommendations).
-* [NICE NG233. Otitis media with effusion in under 12s. 2023](https://www.nice.org.uk/guidance/ng233/chapter/Recommendations).
-* [AAO-HNSF. Clinical Practice Guideline: Tympanostomy Tubes in Children (Update). 2022](https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/full/10.1177/01945998211065662).
-* [AAAAI/ACAAI. Drug allergy: A 2022 practice parameter update](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-PP-9-2022.pdf).
-* [Cochrane. Antibiotics for acute otitis media in children. 2023. CD000219.pub5](https://doi.org/10.1002/14651858.CD000219.pub5).
-* [Cochrane. Pneumococcal conjugate vaccines for preventing acute otitis media in children. 2020. CD001480.pub6](https://doi.org/10.1002/14651858.CD001480.pub6).
-* [Cochrane. Xylitol for preventing acute otitis media in children up to 12 years of age. 2016. CD007095.pub3](https://doi.org/10.1002/14651858.CD007095.pub3).
-* [Cochrane. Autoinflation for otitis media with effusion in children. 2023. CD015253.pub2](https://doi.org/10.1002/14651858.CD015253.pub2).
-* [Cochrane. Topical versus systemic antibiotics for chronic suppurative otitis media. 2025. CD013053.pub3](https://doi.org/10.1002/14651858.CD013053.pub3).
-* [Cochrane. Systemic antibiotics for chronic suppurative otitis media. 2025. CD013052.pub3](https://doi.org/10.1002/14651858.CD013052.pub3).
-* [Cochrane. Topical antibiotics for chronic suppurative otitis media. 2025. CD013051.pub3](https://doi.org/10.1002/14651858.CD013051.pub3).
-* [Cochrane. Aural toilet (ear cleaning) for chronic suppurative otitis media. 2025. CD013057.pub3](https://doi.org/10.1002/14651858.CD013057.pub3).
-* [Cochrane. Antibiotics versus topical antiseptics for chronic suppurative otitis media. 2025. CD013056.pub3](https://doi.org/10.1002/14651858.CD013056.pub3).
-* [Leskinen N, et al. Nirsevimab reduced acute otitis media infections in infants—a nationwide interrupted time-series analysis. Eur J Pediatr. 2026;185:827](https://link.springer.com/article/10.1007/s00431-026-07508-y). 집단 수준 관찰연구; 개인별 예방 효과로 단정하지 않음.
-* [에펙신이용액 제품 설명서](https://common.health.kr/shared/images/insert_pdf/IN_A11A0341A0014_02.pdf).
-* 식품의약품안전처 의약품안전나라: [타리비드이용액 — 2025-06-27 허가 취하](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800679), [세트락살플러스](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511396), [크라비트정 500 mg](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600109), [어린이부루펜시럽](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601920).
-
-✽ 최신 근거 및 국내 품목 정보 확인 기준: 2026-10-10. 허가·유통·급여 및 예방접종 세부 기준은 처방 시 최신 정보 확인.
