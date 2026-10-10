@@ -85,6 +85,33 @@
 ***
 
 ```mermaid
+graph TD
+    Start(["귀 먹먹함·충만감"]) --> RF["Red Flags의 즉각 조치 <br/>또는 당일~수일 내 <br/>평가 항목에 해당?"]
+    RF -->|예| RFA["Red Flags 기준에 <br/>따라 평가"]
+    RF -->|아니오| Exam["이경, Weber·Rinne, <br/>순음청력검사, <br/>tympanometry"]
+    Exam --> Oth["귀지·외이도염<br/>·급성 중이염 등 <br/>다른 원인?"]
+    Oth -->|예| OthT["원인 질환 치료"]
+    Oth -->|아니오| Pos["자기 목소리<br/>·호흡음 울림이 <br/>누우면 완화?"]
+    Pos -->|예| PETs["PET 의심 - <br/>호흡 동기화 고막 운동 등 <br/>확인"]
+    PETs -->|확인됨| P1["원인 교정, <br/>코 울혈 제거제 회피, <br/>비강 스테로이드 <br/>필요성 재평가, <br/>sniffing 자제"]
+    PETs -->|확인되지 않음| Rev["감별 재검토, <br/>증상 있을 때 <br/>재검사"]
+    Pos -->|아니오| Bar["기압 변화 때만 증상?"]
+    Bar -->|예| BCI["기압 유발형 ETD"]
+    Bar -->|아니오| Obj["고막 후퇴·중이 음압(type C) <br/>또는 삼출 소견(type B) 확인?"]
+    Obj -->|예| OETD["폐쇄성 ETD"]
+    Obj -->|아니오| Rev
+    OETD --> S1["원인 치료 + 자가 통기 - <br/>비염·부비동염 동반 시 <br/>해당 치료"]
+    S1 --> R1["증상·삼출성 중이염 3개월 이상 지속, <br/>또는 보존 치료에도 <br/>불편·청력 저하 지속?"]
+    R1 -->|예| ENT["이비인후과 의뢰 - <br/>환기관 / BET 평가"]
+    R1 -->|아니오| FU["일정 기간 후 재평가하며 <br/>경과 관찰"]
+    BCI --> B1["비행·잠수 <br/>압력 평형 교육, <br/>반복 시 의뢰"]
+    classDef q fill:#fff9c4,stroke:#ffe082
+    class RF,Oth,Pos,Bar,Obj,R1 q
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style OETD fill:#f96,stroke:#e65100,stroke-width:2px
+    style PETs fill:#f3e5f5,stroke:#4a148c
+    style BCI fill:#e1f5fe,stroke:#01579b
+
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
