@@ -660,3 +660,27 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 * 없는 것이 보이거나(환각), 이상한 행동이 갑자기 생긴 경우
 * 실신하거나 넘어져 다친 경우, 특히 머리를 부딪혔을 때
 * 음식을 삼키기 어렵거나 반복해서 사레들고 숨이 차는 경우
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Postuma RB, et al. MDS clinical diagnostic criteria for Parkinson's disease. Mov Disord. 2015;30(12):1591-1601.](https://doi.org/10.1002/mds.26424) - 파킨슨병의 임상 진단, 지지 소견·배제 기준과 red flags
+* \[MDS 2015, update 2019] [Berg D, et al. MDS research criteria for prodromal Parkinson's disease. Mov Disord. 2015;30(12):1600-1611.](https://doi.org/10.1002/mds.26431) - 전구기 파킨슨병의 연구용 확률 기준
+* \[MDS 2015, update 2019] [Heinzel S, et al. Update of the MDS research criteria for prodromal Parkinson's disease. Mov Disord. 2019;34(10):1464-1470.](https://doi.org/10.1002/mds.27802) - 전구기 기준의 2019년 개정
+* \[NICE NG71] [NICE. Parkinson's disease in adults. NICE guideline NG71. 2017.](https://www.nice.org.uk/guidance/ng71/chapter/Recommendations) - 운동·비운동 증상의 치료 선택, 운동합병증과 환자 교육
+* [Pringsheim T, et al. Dopaminergic Therapy for Motor Symptoms in Early Parkinson Disease Practice Guideline Summary: A Report of the AAN Guideline Subcommittee. Neurology. 2021;97(20):942-957.](https://doi.org/10.1212/WNL.0000000000012868) - AAN 2021; 초기 파킨슨병의 levodopa·dopamine agonist·MAO-B 억제제 선택과 안전성
+* \[MDS 2019] [Seppi K, et al. Update on treatments for nonmotor symptoms of Parkinson's disease - an evidence-based medicine review. Mov Disord. 2019;34(2):180-198.](https://doi.org/10.1002/mds.27602) - 우울·정신병 등 비운동 증상별 치료 근거와 한계
+* \[AASM 2023] [Howell M, et al. Management of REM sleep behavior disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2023;19(4):759-768.](https://doi.org/10.5664/jcsm.10424) - REM수면행동장애의 수면환경 안전과 melatonin·clonazepam 사용
+* [Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy: The Movement Disorder Society criteria. Mov Disord. 2017;32(6):853-864.](https://doi.org/10.1002/mds.26987) - PSP 진단 기준
+* [Wenning GK, et al. The Movement Disorder Society Criteria for the Diagnosis of Multiple System Atrophy. Mov Disord. 2022;37(6):1131-1148.](https://doi.org/10.1002/mds.29005) - MSA 진단 기준
+* [McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89(1):88-100.](https://doi.org/10.1212/WNL.0000000000004058) - 루이소체치매 진단 기준
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항파킨슨 약제와 비운동 증상 관련 약물의 적응증, 용량·금기·상호작용; 처방 시 최신 품목정보 조회
+* [건강보험심사평가원. 「일반원칙」 항파킨슨 약제. 고시 제2024-235호 (2024-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&mtgMtrRegSno=0002&sno=3) - 병용 약제 수·복합제 성분 산정 등 급여 원칙; 개별 약제의 조건은 별도 확인 (확인일 2026-10-11)
+* [U.S. Food and Drug Administration. FDA Is Requiring Warning about Vitamin B6 Deficiency and Associated Seizures for Drug Products Containing Carbidopa/Levodopa. Drug Safety Communication. March 20, 2026.](https://www.fda.gov/media/191605/download) - carbidopa/levodopa의 비타민 B6 결핍·관련 경련 경고와 모니터링; 국내 허가사항과 함께 확인

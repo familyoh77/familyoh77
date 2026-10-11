@@ -11,7 +11,7 @@
   * 기억상실형(amnestic)/비기억상실형(non-amnestic), 단일영역(single-domain)/다영역(multiple-domain)으로 분류
   * 기억상실형은 알츠하이머병과 연관되는 경우가 많고, 비기억상실형은 혈관성 인지장애·레비소체병·전두측두엽변성 등에서 나타날 수 있음
 * 유병률 : 진단 정의와 표본에 따라 크게 다르며 연령과 함께 증가
-  * 60\~64세 - 6.7%, 65\~69세 - 8.4%, 70\~74세 - 10.1%, 75\~79세 - 14.8%, 80\~84세 - 25.2%의 보고가 있음 \[AAN 2018 진료지침; 2024년 retired]
+  * 60\~64세 - 6.7%, 65\~69세 - 8.4%, 70\~74세 - 10.1%, 75\~79세 - 14.8%, 80\~84세 - 25.2%의 보고가 있음 \[AAN 2018] (2024년 retired)
 * 경과
   * 치매 전환율은 진단기준, 원인, 모집 경로와 추적기간에 따라 크게 다름
     * 일반적으로 지역사회 표본보다 기억클리닉 등 임상 표본에서 높음
@@ -481,3 +481,27 @@ flowchart TD
 ***
 
 <p align="center"><em><mark style="color:$info;">주요 근거: Alzheimer's Association DETeCD-ADRD 2024-2025; Revised Criteria for Diagnosis and Staging of Alzheimer's Disease 2024; Lancet Commission 2024; USPSTF 2020; K-MoCA 국내 규준 2026</mark></em></p>
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Atri A, et al. Alzheimer's Association clinical practice guideline for the Diagnostic Evaluation, Testing, Counseling, and Disclosure of Suspected Alzheimer's Disease and Related Disorders (DETeCD-ADRD): Executive summary of recommendations for primary care. Alzheimers Dement. 2025;21(6):e14333.](https://doi.org/10.1002/alz.14333) - 일차의료의 인지·기능 평가, 원인 감별과 의뢰; 2024년 온라인 공개, 2025년 정식 출판
+* \[Alzheimers Dement 2024] [Jack CR Jr, et al. Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup. Alzheimers Dement. 2024;20(8):5143-5169.](https://doi.org/10.1002/alz.13859) - 생물학적 진단·병기 기준; 임상 적용 대상과 IWG 견해의 차이 확인
+* \[JAMA Neurol 2024] [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct - An International Working Group Recommendation. JAMA Neurol. 2024;81(12):1304-1311.](https://doi.org/10.1001/jamaneurol.2024.3770) - 임상 증상과 바이오마커를 함께 해석하는 IWG 견해; 무증상자 진단에 관한 논쟁
+* \[JAMA 2015] [Jansen WJ, et al. Prevalence of cerebral amyloid pathology in persons without dementia: a meta-analysis. JAMA. 2015;313(19):1924-1938.](https://doi.org/10.1001/jama.2015.4668) - 인지 정상·MCI의 연령별 아밀로이드 양성률
+* \[Dement Neurocogn Disord 2026] [Kang Y, Jahng S, Song M. National Age- and Education-Specific Normative Data for K-MoCA Total Score, Domain Index Scores, and K-MoCA-22. Dement Neurocogn Disord. 2026;25(3):164-177.](https://doi.org/10.12779/dnd.2026.25.3.164) - K-MoCA의 국내 연령·교육 수준별 규준과 점수 해석
+* \[NEJM 2023] [Barnes LL, et al. Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons. N Engl J Med. 2023;389(7):602-611.](https://doi.org/10.1056/NEJMoa2302368) - 인지 정상 고령자의 MIND 식단 RCT
+* \[NEJM 2005] [Petersen RC, et al. Vitamin E and Donepezil for the Treatment of Mild Cognitive Impairment. N Engl J Med. 2005;352(23):2379-2388.](https://doi.org/10.1056/NEJMoa050151) - MCI에서 vitamin E·donepezil의 진행 억제 효과 없음
+* [Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024;404(10452):572-628.](https://doi.org/10.1016/S0140-6736(24)01296-0) - 수정 가능한 위험요인과 인구 수준 예방 효과 추정; 개인의 위험 감소와 구분
+* [Baker LD, et al. Structured vs Self-Guided Multidomain Lifestyle Interventions for Global Cognitive Function: The US POINTER Randomized Clinical Trial. JAMA. 2025;334(8):681-691.](https://doi.org/10.1001/jama.2025.12923) - 인지저하 위험이 높은 성인의 다영역 생활습관 중재; MCI 치료 효과의 직접 근거와 구분
+* \[AAN 2018] [Petersen RC, et al. Practice guideline update summary: Mild cognitive impairment. Neurology. 2018;90(3):126-135.](https://doi.org/10.1212/WNL.0000000000004826) - 2024년 retired; 과거 역학·평가 자료의 확인용이며 현행 치료 권고로 사용하지 않음
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 인지장애 관련 약물·항아밀로이드 치료제의 적응증, 환자 선정·안전성·추적 기준; 처방 시 최신 품목정보 조회
+* [건강보험심사평가원. Choline alfoscerate 경구제·시럽제·주사제 급여기준. 고시 제2020-183호 및 집행정지 해제 관련 안내.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20200901&mtgMtrRegSno=0001&sno=4) - 2025-09-21 집행정지 해제 후 적용되는 급여·선별급여 범위; 허가 적응증·임상 유효성과 구분 (확인일 2026-10-11)
+* [U.S. Food and Drug Administration. FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer's disease taking Leqembi (lecanemab). Drug Safety Communication. August 28, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab) - ARIA 관련 MRI 감시의 해외 안전성 자료; 국내 처방에는 국내 허가사항·감시 기준 우선 적용

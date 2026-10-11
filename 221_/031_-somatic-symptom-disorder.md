@@ -661,3 +661,28 @@ graph TD
 * 가슴을 조이는 통증이 계속되거나 숨이 점점 차는 경우 - 즉시 119
 * 열·체중 감소·밤에 땀이 나는 증상이 새로 생긴 경우
 * 자해·자살에 대한 구체적 계획이 있거나 스스로 안전을 지키기 어렵다고 느끼면 혼자 있지 말고 즉시 119에 연락하거나 응급실로 가십시오. 그 밖에 자살에 대한 생각이 들 때도 당일 담당 의료진에게 알리고 자살예방 상담전화 **109**(24시간)를 이용하십시오
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[DSM-5] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). 2013.](https://doi.org/10.1176/appi.books.9780890425596) - 신체형장애에서 신체증상장애로의 개념 전환
+* [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://www.psychiatry.org/psychiatrists/practice/dsm) - 진단 기준과 감별; APA의 후속 정정·개정 자료와 함께 확인
+* \[Psychol Med 2022] [Löwe B, et al. Somatic symptom disorder: a scoping review on the empirical evidence of a new diagnosis. Psychol Med. 2022;52(4):632-648.](https://doi.org/10.1017/S0033291721004177) - SSD 유병률 연구와 과대 추정 가능성
+* \[J Psychosom Res 2009] [olde Hartman TC, et al. Medically unexplained symptoms, somatisation disorder and hypochondriasis: course and prognosis. A systematic review. J Psychosom Res. 2009;66(5):363-377.](https://doi.org/10.1016/j.jpsychores.2008.09.018) - 의학적으로 설명되지 않는 증상의 경과
+* \[Psychol Med 2020] [Toussaint A, et al. Detecting DSM-5 somatic symptom disorder: criterion validity of the Patient Health Questionnaire-15 (PHQ-15) and the Somatic Symptom Scale-8 (SSS-8) in combination with the Somatic Symptom Disorder - B Criteria Scale (SSD-12). Psychol Med. 2020;50(2):324-333.](https://doi.org/10.1017/S003329171900014X) - SSD-12 선별 절단점
+* \[K-SSD-12, Psychiatry Investig 2024] [Jung S, et al. Reliability and Validity of the Korean Version of the Somatic Symptom Disorder-B Criteria Scale in a Clinical Population. Psychiatry Investig. 2024;21(2):165-173.](https://doi.org/10.30773/pi.2023.0352) - 한국어판 SSD-12의 신뢰도·타당도와 임상 평가 적용
+* [Kurlansik SL, Maffei MS. Somatic Symptom Disorder. Am Fam Physician. 2016;93(1):49-54.](https://www.aafp.org/pubs/afp/issues/2016/0101/p49.html) - 일차의료의 SSD 평가와 관리
+* [Henningsen P, Zipfel S, Herzog W. Management of functional somatic syndromes. Lancet. 2007;369(9565):946-955.](https://doi.org/10.1016/S0140-6736(07)60159-7) - 기능성 신체증후군의 관리 원칙
+* [Henningsen P. Management of somatic symptom disorder. Dialogues Clin Neurosci. 2018;20(1):23-31.](https://doi.org/10.31887/DCNS.2018.20.1/phenningsen) - 신체증상장애의 진단 설명·단계적 치료와 일차의료·전문 진료 협력에 관한 리뷰
+* \[Cochrane 2014] [Kleinstäuber M, et al. Pharmacological interventions for somatoform disorders in adults. Cochrane Database Syst Rev. 2014;(11):CD010628.](https://doi.org/10.1002/14651858.CD010628.pub2) - 신체형장애 약물 연구의 효과·근거 한계; 과거 진단 범주와 현재 SSD의 차이 고려
+* \[AAN 2026] [Tolchin B, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. Neurology. 2026;106(1):e214466.](https://doi.org/10.1212/WNL.0000000000214466) - 기능성 발작의 진단 설명·치료와 불필요한 항발작약 사용 제한; 모든 FND에 일괄 적용하지 않음
+* \[Lancet Neurol 2024] [Nielsen G, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. Lancet Neurol. 2024;23(7):675-686.](https://doi.org/10.1016/S1474-4422(24)00135-2) - 기능성 운동장애의 전문 물리치료 효과와 1차·2차 결과의 구분
+* \[Lancet Psychiatry 2020] [Goldstein LH, et al. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. Lancet Psychiatry. 2020;7(6):491-505.](https://doi.org/10.1016/S2215-0366(20)30128-0) - 해리성·기능성 발작의 CBT 효과와 1차 발작빈도 결과의 한계
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 동반 우울·불안·통증에 사용하는 약물의 적응증·안전성과 SSD/FND 자체에 대한 허가 여부; 처방 시 최신 품목정보 조회

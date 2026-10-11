@@ -502,7 +502,7 @@ graph TD
 #### <mark style="color:$primary;">대체 요법</mark>
 
 * s-adenosyl-L-methionine : 근거 제한적
-* St John’s wort(Hypericum perforatum) : 일부에서 경증 우울증에 대하여 유효하나 치료 적정량 및 효과의 지속 여부에 대한 연구가 미흡하며 다른 약물과의 상호 작용 문제로 처방 권고 안 함 \[NICE]
+* St John’s wort(Hypericum perforatum) : 일부에서 경증 우울증에 대하여 유효하나 치료 적정량 및 효과의 지속 여부에 대한 연구가 미흡하며 다른 약물과의 상호 작용 문제로 처방 권고 안 함 \[NICE NG222, 2022]
 
 ### <mark style="color:orange;">부작용 관리 원칙</mark>
 
@@ -902,3 +902,31 @@ graph TD
 #### <mark style="color:$primary;">우울증 vs 슬픔 vs 번아웃 - 어떻게 다른가요?</mark>
 
 우울증은 단순한 슬픔이나 번아웃과 다릅니다. 슬픔은 파동성이 있어 좋아지는 순간이 있고 자존감이 유지되지만, 우울증은 하루 대부분 지속되며 무가치감·죄책감을 동반합니다. 번아웃은 직무 스트레스에서 비롯되며 휴식 시 일부 회복되지만, 우울증은 휴식과 무관하게 지속됩니다. 자살 사고가 있다면 우울증을 반드시 의심하고 즉시 내원하십시오.
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [최원석 외. 한국형 우울장애 약물치료 알고리듬 2025 (I): 주요우울삽화의 치료 전략. 신경정신의학. 2025;64(3):178-192.](https://doi.org/10.4306/jknpa.2025.64.3.178) - KMAP-DD 2025; 국내 전문가 합의에 따른 초기 치료·불충분 반응 시 약물 전략
+* \[CANMAT 2023] [Lam RW, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687.](https://doi.org/10.1177/07067437241245384) - 치료 선택·증강·유지 치료와 권고 수준; 지침명은 2023, 출판은 2024년
+* \[NICE NG222, 2022] [NICE. Depression in adults: treatment and management. NICE guideline NG222. 2022.](https://www.nice.org.uk/guidance/ng222/chapter/Recommendations) - 중증도·선호에 따른 치료, St John's wort 비권고, 재발 예방과 항우울제 중단
+* \[USPSTF 2023] [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023;329(23):2057-2067.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-depression-suicide-risk-adults) - 임신·산후 여성을 포함한 성인 우울증 선별과 후속 평가 체계; 자살위험 선별 권고와 구분
+* \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://www.psychiatry.org/psychiatrists/practice/dsm) - 진단 기준과 감별; APA의 후속 정정·개정 자료와 함께 확인
+* \[Levis, BMJ 2019] [Levis B, et al. Accuracy of Patient Health Questionnaire-9 (PHQ-9) for screening to detect major depression: individual participant data meta-analysis. BMJ. 2019;365:l1476.](https://doi.org/10.1136/bmj.l1476) - PHQ-9 절단점별 진단 정확도와 선별검사의 한계
+* \[Levis, JAMA 2020] [Levis B, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis. JAMA. 2020;323(22):2290-2300.](https://doi.org/10.1001/jama.2020.6504) - PHQ-2 절단점별 민감도·특이도
+* \[Henkel et al., BMJ 2003] [Henkel V, et al. Identifying depression in primary care: a comparison of different methods in a prospective cohort study. BMJ. 2003;326(7382):200-201.](https://doi.org/10.1136/bmj.326.7382.200) - 일차진료 우울장애 선별 도구의 민감도·특이도
+* \[SMILES trial, BMC Med 2017] [Jacka FN, et al. A randomised controlled trial of dietary improvement for adults with major depression (the 'SMILES' trial). BMC Med. 2017;15(1):23.](https://doi.org/10.1186/s12916-017-0791-y) - 식이 중재의 보조 치료 효과
+* \[ANTLER trial, NEJM 2021] [Lewis G, et al. Maintenance or Discontinuation of Antidepressants in Primary Care. N Engl J Med. 2021;385(14):1257-1267.](https://doi.org/10.1056/NEJMoa2106356) - 장기 복용 환자의 유지·중단 후 재발과 중단 증상
+* \[Kalfas, JAMA Psychiatry 2025] [Kalfas M, et al. Incidence and Nature of Antidepressant Discontinuation Symptoms: A Systematic Review and Meta-Analysis. JAMA Psychiatry. 2025;82(9):896-904.](https://doi.org/10.1001/jamapsychiatry.2025.1362) - 항우울제 중단 증상의 빈도와 양상
+* [Noetel M, et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024;384:e075847.](https://doi.org/10.1136/bmj-2023-075847) - 운동의 우울증 치료 효과와 연구별 근거 확실성
+* 전겸구, 최상진, 양병창. 통합적 한국판 CES-D 개발. 한국심리학회지: 건강. 2001;6(1):59-76. - 한국판 CES-D 자가검진 도구
+* 기백석. 한국판 노인 우울 척도 단축형의 표준화 예비연구. 신경정신의학. 1996;35(2):298-307. - 한국판 GDS 단축형
+* [Hirschfeld RM, et al. Development and validation of a screening instrument for bipolar spectrum disorder: the Mood Disorder Questionnaire. Am J Psychiatry. 2000;157(11):1873-1875.](https://doi.org/10.1176/appi.ajp.157.11.1873) - MDQ 원개발 연구
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항우울제·증강 약제·esketamine의 적응증, 용량·연령 제한·안전성; 처방 시 최신 품목정보 조회
+* [건강보험심사평가원. SSRI 등 항우울제 급여기준 관련 질의 및 응답. 고시 제2022-268호 관련 (2022-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201&mtgMtrRegSno=0011&sno=8) - 타 진료과의 우울증상에 대한 반복 처방·의뢰 조건; 개별 약제의 현행 급여 기준은 별도 확인 (확인일 2026-10-11)

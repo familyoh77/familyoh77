@@ -629,3 +629,26 @@ POTS 처방례의 약물은 모두 국내 POTS 적응증 미허가(off-label)이
 * 증상이 좋아지더라도 의사와 상의 없이 약을 임의로 중단하지 마세요
 
 ***
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Freeman R, et al. Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome. Clin Auton Res. 2011;21(2):69-72.](https://doi.org/10.1007/s10286-011-0119-5) - 기립저혈압·체위성 빈맥의 정의와 측정 기준
+* \[HRS 2015] [Sheldon RS, et al. 2015 Heart Rhythm Society Expert Consensus Statement on the Diagnosis and Treatment of Postural Tachycardia Syndrome, Inappropriate Sinus Tachycardia, and Vasovagal Syncope. Heart Rhythm. 2015;12(6):e41-e63.](https://doi.org/10.1016/j.hrthm.2015.03.029) - POTS·부적절 동성빈맥의 평가, 비약물·약물 치료
+* \[CCS 2020] [Raj SR, et al. Canadian Cardiovascular Society Position Statement on Postural Orthostatic Tachycardia Syndrome (POTS) and Related Disorders of Chronic Orthostatic Intolerance. Can J Cardiol. 2020;36(3):357-372.](https://doi.org/10.1016/j.cjca.2019.12.024) - POTS 진단 조건·배제 진단과 만성 기립불내성의 구분
+* \[JAMA 2026] [Chung TH, Raj SR. Postural Orthostatic Tachycardia Syndrome (POTS): A Review. JAMA. 2026;336(13):1149-1164.](https://doi.org/10.1001/jama.2026.14809) - POTS의 유병률·진단·감별과 치료 근거를 종합한 최신 리뷰
+* \[Trends Cardiovasc Med 2025] [Kwok CS, et al. The evidence for treatments for POTS: a systematic review of randomized trials. Trends Cardiovasc Med. 2025.](https://www.sciencedirect.com/science/article/pii/S1050173825000933) - POTS 약물치료 무작위시험(21개, 750명)의 근거 한계
+* \[JAMA Neurol 2026] [Virameteekul S, et al. Phenoconversion in Pure Autonomic Failure: A Systematic Review and Meta-Analysis. JAMA Neurol. 2026;83(7):616-624.](https://doi.org/10.1001/jamaneurol.2026.0989) - 순수자율신경부전의 신경퇴행성 질환 전환 위험과 장기 추적
+* \[MDS 2022] [Wenning GK, et al. The Movement Disorder Society Criteria for the Diagnosis of Multiple System Atrophy. Mov Disord. 2022;37(6):1131-1148.](https://doi.org/10.1002/mds.29005) - MSA 진단 기준과 조기 의뢰 단서
+* [Gibbons CH, et al. The recommendations of a consensus panel for the screening, diagnosis, and treatment of neurogenic orthostatic hypotension and associated supine hypertension. J Neurol. 2017;264(8):1567-1582.](https://doi.org/10.1007/s00415-016-8375-x) - 신경인성 기립저혈압의 단계별 치료와 동반 누운 자세 고혈압 관리
+* [Fanciulli A, et al. Consensus statement on the definition of neurogenic supine hypertension in cardiovascular autonomic failure by the American Autonomic Society (AAS) and the European Federation of Autonomic Societies (EFAS). Clin Auton Res. 2018;28(4):355-362.](https://doi.org/10.1007/s10286-018-0529-8) - 신경인성 누운 자세 고혈압의 정의·중증도와 혈압 평가
+* \[Neurology 2017] [Byun JI, et al. Efficacy of single or combined midodrine and pyridostigmine in orthostatic hypotension. Neurology. 2017;89(10):1078-1086.](https://doi.org/10.1212/WNL.0000000000004340) - 국내 무작위 공개 시험의 midodrine·pyridostigmine 단독·병용 비교
+* \[ADA 2026] [American Diabetes Association Professional Practice Committee. 12. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2026. Diabetes Care. 2026;49(Suppl 1).](https://pmc.ncbi.nlm.nih.gov/articles/PMC12690177/) - 당뇨병 신경병증 선별 시 자율신경병증 평가
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - midodrine·fludrocortisone·ivabradine 등 자율신경 증상 관련 약물의 적응증, 금기·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회

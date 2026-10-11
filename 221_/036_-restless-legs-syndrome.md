@@ -599,3 +599,20 @@ graph TD
 * 심한 어지럼, 낙상, 충동적 행동(도박, 과식 등)이 생기는 경우
 * 갑작스러운 근력 저하, 걷기 어려움, 새 배뇨·배변 장애 또는 안장 부위 감각 저하가 생기면 즉시 응급실 방문
 * 도파민 약물을 줄이는 동안 극심한 불안·우울 또는 자살 생각이 생기면 즉시 의료진에게 알리고, 구체적인 자살 계획·의도가 있거나 안전을 유지하기 어렵다면 즉시 응급 평가(자살예방 상담전화 109)
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[IRLSSG 2014] [Allen RP, et al. Restless legs syndrome/Willis-Ekbom disease diagnostic criteria: updated International Restless Legs Syndrome Study Group (IRLSSG) consensus criteria - history, rationale, description, and significance. Sleep Med. 2014;15(8):860-873.](https://doi.org/10.1016/j.sleep.2014.03.025) - 하지불안증후군의 필수 진단 기준과 유사 증상 배제
+* \[AASM 2025] [Winkelman JW, et al. Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2025;21(1):137-152.](https://doi.org/10.5664/jcsm.11390) - 철 상태 평가·보충, gabapentinoid와 dopamine agonist의 권고 강도; 증강 위험
+* \[RLS Foundation 2026] [Scientific and Medical Advisory Board of the RLS Foundation. An Updated Algorithm for the Management of Restless Legs Syndrome. Mayo Clin Proc. 2026;101(9):1561-1588.](https://doi.org/10.1016/j.mayocp.2026.05.010) - 2026년 철 보충·약물 선택·난치성 RLS 알고리듬; 철 지표 기준은 AASM 2025와 구분해 확인
+* \[Sleep Med 2007] [García-Borreguero D, et al. Diagnostic standards for dopaminergic augmentation of restless legs syndrome: report from a World Association of Sleep Medicine - International Restless Legs Syndrome Study Group consensus conference at the Max Planck Institute. Sleep Med. 2007;8(5):520-530.](https://doi.org/10.1016/j.sleep.2007.03.022) - 도파민성 약물에 의한 증강의 진단 기준; 단순 악화·반동과 구분
+* [Picchietti DL, et al. Consensus clinical practice guidelines for the diagnosis and treatment of restless legs syndrome/Willis-Ekbom disease during pregnancy and lactation. Sleep Med Rev. 2015;22:64-77.](https://doi.org/10.1016/j.smrv.2014.10.009) - 임신·수유 중 비약물 치료, 철 보충과 약물 선택의 제한
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - dopamine agonist·gabapentinoid·철분제·opioid의 하지불안증후군 적응증, 용량·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회

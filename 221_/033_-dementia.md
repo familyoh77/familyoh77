@@ -860,3 +860,35 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 * 걸음걸이가 불안정해지거나 자주 넘어질 때
 * 식사량이 크게 줄거나 삼킬 때 자주 사레가 들릴 때
 * 약 복용 후 구역, 어지럼이 계속될 때
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Atri A, et al. Alzheimer's Association clinical practice guideline for the Diagnostic Evaluation, Testing, Counseling, and Disclosure of Suspected Alzheimer's Disease and Related Disorders (DETeCD-ADRD): Executive summary of recommendations for primary care. Alzheimers Dement. 2025;21(6):e14333.](https://doi.org/10.1002/alz.14333) - 일차의료의 인지·기능 평가, 원인 감별과 의뢰; 2024년 온라인 공개, 2025년 정식 출판
+* [Dickerson BC, et al. The Alzheimer's Association clinical practice guideline for the Diagnostic Evaluation, Testing, Counseling, and Disclosure of Suspected Alzheimer's Disease and Related Disorders (DETeCD-ADRD): Executive summary of recommendations for specialty care. Alzheimers Dement. 2025;21(1):e14337.](https://doi.org/10.1002/alz.14337) - 전문의 단계의 진단 검사·상담과 바이오마커 적용 범위
+* [Jack CR Jr, et al. Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup. Alzheimers Dement. 2024;20(8):5143-5169.](https://doi.org/10.1002/alz.13859) - 생물학적 진단·병기 기준; 임상 적용 대상과 IWG 견해의 차이 확인
+* [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct - An International Working Group Recommendation. JAMA Neurol. 2024;81(12):1304-1311.](https://doi.org/10.1001/jamaneurol.2024.3770) - 임상 증상과 바이오마커를 함께 해석하는 IWG 견해; 무증상자 진단에 관한 논쟁
+* [Palmqvist S, et al. Alzheimer's Association Clinical Practice Guideline on the use of blood-based biomarkers in the diagnostic workup of suspected Alzheimer's disease within specialized care settings. Alzheimers Dement. 2025;21(7):e70535.](https://doi.org/10.1002/alz.70535) - 인지장애 환자의 전문 진료 환경에서 혈액 바이오마커 사용; 무증상 일반인 선별과 구분
+* [NICE. Dementia: assessment, management and support for people living with dementia and their carers. NICE guideline NG97. 2018.](https://www.nice.org.uk/guidance/ng97/chapter/Recommendations) - 치매 유형별 약물 선택, 행동·심리 증상과 돌봄 지원
+* [McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89(1):88-100.](https://doi.org/10.1212/WNL.0000000000004058) - 루이소체치매의 핵심 임상 특징·바이오마커와 약물 주의사항
+* \[Brain 2011] [Rascovsky K, et al. Sensitivity of revised diagnostic criteria for the behavioural variant of frontotemporal dementia. Brain. 2011;134(Pt 9):2456-2477.](https://doi.org/10.1093/brain/awr179) - bvFTD 진단 기준
+* \[APA 2016] [Reus VI, et al. The American Psychiatric Association Practice Guideline on the Use of Antipsychotics to Treat Agitation or Psychosis in Patients With Dementia. Am J Psychiatry. 2016;173(5):543-546.](https://doi.org/10.1176/appi.ajp.2015.173501) - 치매 환자 항정신병약물의 최소 용량·기간과 감량 시도
+* \[JAMA 2025] [Baker LD, et al. Structured vs Self-Guided Multidomain Lifestyle Interventions for Global Cognitive Function: The US POINTER Randomized Clinical Trial. JAMA. 2025;334(8):681-691.](https://doi.org/10.1001/jama.2025.12923) - 인지저하 위험이 높은 성인의 다영역 생활습관 중재; MCI 치료 효과의 직접 근거와 구분
+* \[Neurology 2007] [Schneider JA, et al. Mixed brain pathologies account for most dementia cases in community-dwelling older persons. Neurology. 2007;69(24):2197-2204.](https://doi.org/10.1212/01.wnl.0000271090.28148.24) - 지역사회 고령자 치매의 혼합 병리
+* \[Acta Neuropathol 2017] [Kapasi A, DeCarli C, Schneider JA. Impact of multiple pathologies on the threshold for clinically overt dementia. Acta Neuropathol. 2017;134(2):171-186.](https://doi.org/10.1007/s00401-017-1717-7) - 임상적 AD에서 복수 병리의 빈도
+* \[Arch Intern Med 2003] [Clarfield AM. The decreasing prevalence of reversible dementias: an updated meta-analysis. Arch Intern Med. 2003;163(18):2219-2229.](https://doi.org/10.1001/archinte.163.18.2219) - 교정 가능한 치매 원인의 빈도와 실제 호전율
+* \[Neurology 1997] [Moroney JT, et al. Meta-analysis of the Hachinski Ischemic Score in pathologically verified dementias. Neurology. 1997;49(4):1096-1105.](https://doi.org/10.1212/WNL.49.4.1096) - Hachinski 허혈 점수의 진단 정확도
+* \[2023년 전국 치매역학조사] 보건복지부·중앙치매센터. 2023년 치매역학조사 및 실태조사. - 65세 이상 치매 유병률
+* [Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024;404(10452):572-628.](https://doi.org/10.1016/S0140-6736(24)01296-0) - 수정 가능한 위험요인과 인구 수준 예방 효과 추정; 개인의 위험 감소와 구분
+* Ferri FF. Ferri's Clinical Advisor 2024. Elsevier; 2024. - 본문 감별 표 출처(Table 2)
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - cholinesterase 억제제·memantine·항아밀로이드 치료제 등 치매 관련 약물의 적응증·용량·안전성; 처방 시 최신 품목정보 조회
+* [건강보험심사평가원. Donepezil 경구제·패취제 급여기준. 고시 제2025-73호 (2025-05-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250501&mtgMtrRegSno=0003&sno=2) - donepezil의 진단·평가 점수·추적 및 병용 급여 조건; 다른 치매 약제는 각각의 현행 기준 확인 (확인일 2026-10-11)
+* [건강보험심사평가원. Choline alfoscerate 경구제·시럽제·주사제 급여기준. 고시 제2020-183호 및 집행정지 해제 관련 안내.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20200901&mtgMtrRegSno=0001&sno=4) - 2025-09-21 집행정지 해제 후 적용되는 급여·선별급여 범위; 허가 적응증·임상 유효성과 구분 (확인일 2026-10-11)
+* [U.S. Food and Drug Administration. FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer's disease taking Leqembi (lecanemab). Drug Safety Communication. August 28, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab) - ARIA 관련 MRI 감시의 해외 안전성 자료; 국내 처방에는 국내 허가사항·감시 기준 우선 적용

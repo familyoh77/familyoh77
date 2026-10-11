@@ -324,7 +324,7 @@ TCA도 효과 근거는 있으나, 부작용·상호작용·과량복용 독성�
 **초기 추적 일정**
 
 * 일반 성인 : 투약 후 2주 이내 첫 추적
-* 30세 미만 \[NICE 기준] : 투약 후 1주 이내 첫 추적, 이후 첫 4주간 매주 자살사고·자해 위험 확인. ✽국내 식약처·FDA의 자살 관련 경고는 24세 이하 기준이며, 30세 미만 매주 추적은 NICE의 보다 보수적인 권고임
+* 30세 미만 \[NICE CG113] : 투약 후 1주 이내 첫 추적, 이후 첫 4주간 매주 자살사고·자해 위험 확인. ✽국내 식약처·FDA의 자살 관련 경고는 24세 이하 기준이며, 30세 미만 매주 추적은 NICE의 보다 보수적인 권고임
 * 자살위험이 높은 환자(연령 무관) : 위와 같은 강도로 추적할 것을 임상적으로 확대 적용 (NICE 인용 범위는 아님)
 {% endhint %}
 
@@ -565,3 +565,21 @@ graph LR
 * 공황 발작의 빈도가 갑자기 늘어나거나 일상생활이 불가능할 때
 * 우울감이 심해지거나 스스로를 해치고 싶은 생각이 들 때 - 즉시 내원 또는 **자살예방 상담전화 109**
 * 약 복용 후 심한 부작용(혈압 이상, 심한 위장 장애 등)이 나타날 때
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://www.psychiatry.org/psychiatrists/practice/dsm) - 진단 기준과 감별; APA의 후속 정정·개정 자료와 함께 확인
+* \[NICE CG113] [NICE. Generalised anxiety disorder and panic disorder in adults: management. Clinical guideline CG113. 2011; updated 2020.](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations) - 공황장애의 CBT·항우울제 치료, 추적 시점과 benzodiazepine 사용 제한
+* \[WHO mhGAP 2023] [World Health Organization. Benzodiazepines in treatment of adults with generalized anxiety disorder and/or panic disorder. mhGAP evidence centre. 2023.](https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/anxiety/benzodiazepines-in-treatment-of-adults-with-generalized-anxiety-disorder-and-or-panic-disorder) - benzodiazepine의 통상적 사용 제한과 급성 중증 불안에서의 단기 사용 범위
+* [World Health Organization. Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological and substance use disorders. 3rd ed. 2023.](https://www.who.int/publications/i/item/9789240084278) - mhGAP 불안 모듈 전체 권고
+* [김민경 외. 2018 한국형 공황장애 치료지침서: 초기 및 유지 약물치료 전략. 대한불안의학회지. 2018;14(2):53-62.](https://public.anxiety.or.kr/html/?pmode=journal&seq=242&smode=view) - 국내 전문가 합의에 따른 초기·유지 치료; benzodiazepine에 관한 국제 지침과의 차이 확인
+* [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존·금단 위험 평가, 개별 감량 계획과 CBT 등 보조 치료
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - SSRI/SNRI·benzodiazepine의 공황장애 적응증, 용량·금기·상호작용·중단 시 주의사항; 처방 시 최신 품목정보 조회
