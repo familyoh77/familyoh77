@@ -101,7 +101,7 @@
 
 ### <mark style="color:orange;">귀 통증(이통)의 감별</mark>
 
-* 성인 이통은 귀 자체 이상 없이 발생하는 연관통(referred otalgia)이 더 흔함 \[AFP 2026]
+* 성인 이통은 귀 자체 이상 없이 발생하는 연관통(referred otalgia)이 더 흔함 \[Am Fam Physician 2026]
 * 감별 : 치아/턱관절(TMJ), 인두·편도, 부비동, 이하선, 갑상선, 경추, 삼차신경통, 대상포진(Ramsay Hunt 증후군)
 
 <table data-search="false"><thead><tr><th width="126">질환</th><th>핵심 통증 특징</th><th>결정적 진찰 소견</th><th>동반 증상</th><th>진단 포인트</th></tr></thead><tbody><tr><td>외이염 (OE)</td><td>귓바퀴를 당기거나 이주(tragus)를 누르면 심한 통증</td><td>외이도 발적·부종·압통, 분비물</td><td>가려움, 이루, 귀 먹먹함</td><td>tragus tenderness</td></tr><tr><td>급성<br>중이염</td><td>깊은 귀 통증, 박동성 통증, 감기 후 발생 흔함</td><td>고막 팽윤·중이삼출, mobility 감소; 발적만으로는 진단 불가</td><td>발열, 청력저하</td><td>pinna manipulation은 대개 무통</td></tr><tr><td>삼출성<br>중이염</td><td>통증보다 답답함·먹먹함이 주된 호소</td><td>고막 함몰, air-fluid level</td><td>청력저하, 자가음강조</td><td>pain보다 fullness dominant</td></tr><tr><td>괴사성<br>외이염</td><td>매우 심한 지속성 통증, 특히 야간 악화</td><td>외이도 육아조직, 심한 압통</td><td>당뇨, 면역 저하, 안면마비</td><td>pain out of proportion</td></tr><tr><td>Ramsay Hunt 증후군</td><td>심한 이통 + burning pain</td><td>외이·귓바퀴 수포</td><td>안면신경 마비, 어지럼</td><td>vesicle + facial palsy</td></tr><tr><td>TMJ disorder</td><td>씹을 때 아픔, 턱 움직임 시 악화</td><td>TMJ 압통, clicking</td><td>이갈이, 턱 뻣뻣함</td><td>귀 진찰 정상</td></tr><tr><td>치성 통증</td><td>씹을 때 찌르는 통증, 편측</td><td>충치, 치주염, percussion pain</td><td>치통, 잇몸 부종</td><td>귀 진찰 정상</td></tr><tr><td>편도염 /<br>인두염</td><td>삼킬 때 귀까지 퍼지는 통증</td><td>인두 발적, 편도 비대</td><td>인후통, 발열</td><td>referred otalgia (설인신경)</td></tr><tr><td>경추성 통증</td><td>목 움직임에 따라 변함</td><td>cervical tenderness</td><td>목·어깨 통증</td><td>귀 진찰 정상</td></tr><tr><td>두경부암</td><td>지속적·편측·점진적 악화</td><td>초기 귀 진찰 정상 가능</td><td>체중감소, 흡연·음주, HPV 관련 위험, 연하통</td><td>정상 귀 + 지속 통증 = red flag (연령과 무관하게 의심 유지, 특히 ≥50세)</td></tr></tbody></table>
@@ -506,3 +506,22 @@ graph TD
 * 귀 주변 피부가 붉게 부어오르거나 열이 날 때
 * 얼굴 한쪽이 처지거나 마비되는 느낌이 들 때 **(즉시 응급실)**
 * 당뇨 또는 면역 저하 상태에서 외이염이 낫지 않을 때
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[AAO-HNSF 2014] [Rosenfeld RM, et al. Clinical Practice Guideline: Acute Otitis Externa. Otolaryngol Head Neck Surg. 2014;150(1 Suppl):S1-S24.](https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/aoe/) - 국소 치료 우선·비이독성 약제 선택·48~72시간 재평가
+* \[BMJ Open 2023] [Hodgson SH, et al. UK consensus definitions for necrotising otitis externa: a Delphi study. BMJ Open. 2023;13:e061349.](https://doi.org/10.1136/bmjopen-2022-061349) - 괴사성 외이염의 합의 정의와 완치 판정
+* \[Am Fam Physician 2026] [Kasper SA, et al. Ear Pain: Diagnosing Common and Uncommon Causes. Am Fam Physician. 2026;114(3):238-247.](https://www.aafp.org/afp/2026/0900/ear-pain) - 성인 이통의 연관통 비중과 원발성·이차성 이통 감별
+* \[ACR 2025] [Agarwal M, et al. ACR Appropriateness Criteria® Inflammatory Ear Disease. J Am Coll Radiol. 2025;22(5S):S300-S318.](https://doi.org/10.1016/j.jacr.2025.02.026) - 합병 외이염·괴사성 외이염의 영상검사 선택
+* \[J Laryngol Otol 2024] [Lodhi S, et al. Diagnostic criteria and core outcome set development for necrotising otitis externa: the COSNOE Delphi consensus study. J Laryngol Otol. 2024;138:913-920.](https://pubmed.ncbi.nlm.nih.gov/38644734/) - 괴사성 외이염의 진단 기준·용어 합의
+* [Jackson EA, Geer K. Acute Otitis Externa: Rapid Evidence Review. Am Fam Physician. 2023;107(2):145-151.](https://www.aafp.org/afp/2023/0200/acute-otitis-externa) - 1차 진료의 감별과 전신 항생제 사용 범위
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* \[FDA 2025] [U.S. Food and Drug Administration. CLOTIC (clotrimazole) - Marketing Approval, 2025-09-26.](https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=520516) - 진균성 외이염 치료제의 미국 허가 확인; 국내 허가와 구분

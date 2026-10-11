@@ -347,3 +347,21 @@ flowchart TD
 * 항균제 안약을 3\~4일 사용해도 좋아지지 않는 경우
 * 결막염 증상이 3주 이상 계속되거나 점점 심해지는 경우
 * 한쪽 눈의 충혈이 치료에도 불구하고 오래 지속되는 경우
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[JAMA Ophthalmol 2025] [Cohen EJ, et al. Low-Dose Valacyclovir in Herpes Zoster Ophthalmicus: The Zoster Eye Disease Randomized Clinical Trial. JAMA Ophthalmol. 2025;143(4):269-276.](https://doi.org/10.1001/jamaophthalmol.2024.6114) - 대상포진 눈병증의 장기 억제요법과 적용 범위
+* \[Ann Emerg Med 2024] [Green SM, et al. Use of Topical Anesthetics in the Management of Patients With Simple Corneal Abrasions: Consensus Guidelines From the American College of Emergency Physicians. Ann Emerg Med. 2024;83(5):477-489.](https://doi.org/10.1016/j.annemergmed.2024.01.004) - 엄격히 선별된 단순 각막 찰과상에 대한 제한적 권고
+* \[Commun Med 2025] [Leslie L, Liu SH, Kuo IC. Topical ophthalmic anesthetics for corneal abrasions: findings from a Cochrane systematic review and meta-analysis. Commun Med. 2025;5:393.](https://doi.org/10.1038/s43856-025-00979-4) - 국소 마취제 외래 자가사용의 유효성·안전성 근거 한계
+* \[MMWR 2018] [Cope JR, et al. Corneal Infections Associated with Sleeping in Contact Lenses - Six Cases, United States, 2016-2018. MMWR Morb Mortal Wkly Rep. 2018;67(32):877-881.](https://www.cdc.gov/mmwr/volumes/67/wr/mm6732a2.htm) - 렌즈 착용 중 수면과 각막 감염 위험
+* [Sargolzaeimoghaddam M, et al. Review of ophthalmic emergencies in primary care: a comprehensive approach to red eye. Ann Eye Sci. 2025;10:20.](https://aes.amegroups.org/article/view/8528/html) - 충혈안 감별·응급 평가와 의뢰 전 처치
+* [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙 (AAO 2023년 발표, 2024년 게재)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회

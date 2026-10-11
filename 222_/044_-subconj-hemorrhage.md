@@ -4,7 +4,7 @@
 
 * 안구 결막과 공막 사이에 혈액이 고인 상태(subconjunctival hemorrhage, SCH) ([결막하출혈 이미지](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/subconjunctival-hemorrhage))
 * 대부분 통증·시력 변화 없이 자연 치유되며 후유 장애 없음. 외관상 문제가 주된 호소
-* 역학 : 대만 인구기반 연구(청구자료)에서 비외상성 SCH의 연간 발생률은 약 0.6%; 여성에서 더 흔하고 60\~69세에서 가장 높았음 \[PLOS One 2015]
+* 역학 : 대만 인구기반 연구(청구자료)에서 비외상성 SCH의 연간 발생률은 약 0.6%; 여성에서 더 흔하고 60\~69세에서 가장 높았음 \[PLoS One 2015]
 * 예후 : 인구기반 코호트에서 SCH 환자의 뇌출혈·위장관 출혈이나 급성관상동맥증후군 위험 증가는 관찰되지 않았음 \[Sci Rep 2023]; 출혈 질환이 의심되는 개별 환자의 평가 필요성은 별개임
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -19,7 +19,7 @@
   * 항응고제 : warfarin, DOAC(apixaban·rivaroxaban·edoxaban·dabigatran)
   * 항혈소판제 : aspirin·clopidogrel
   * 출혈 질환 : 혈소판 감소증, 백혈병, von Willebrand병 등
-  * cf. 일반 오메가-3 보충제의 출혈 위험 증가는 뚜렷하지 않으나 고용량 정제 EPA에서 소폭의 출혈 위험 증가가 보고됨 \[JAHA 2024]; SCH와의 직접 연관 근거는 제한적이지만 건강기능식품·보충제의 복용 내역(종류, 용량) 확인
+  * cf. 일반 오메가-3 보충제의 출혈 위험 증가는 뚜렷하지 않으나 고용량 정제 EPA에서 소폭의 출혈 위험 증가가 보고됨 \[J Am Heart Assoc 2024]; SCH와의 직접 연관 근거는 제한적이지만 건강기능식품·보충제의 복용 내역(종류, 용량) 확인
 * 감염 : 급성 출혈성 결막염(enterovirus 70, coxsackievirus A24 변이; 제4급 감염병), 유행성각결막염
   * 발열성 전신 감염 : 신증후군출혈열, 렙토스피라증
 * 소아 : 신생아는 분만 과정에서 흔히 발생
@@ -269,3 +269,21 @@ graph TD
 
 **전부 '해당 없음'이고, 눈을 다치지 않았으며, 다른 부위 출혈이나 열이 없다면 경과를 관찰합니다. 아기에게 생긴 경우는 병원을 방문하십시오.**
 {% endhint %}
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[PLoS One 2015] [Hu DN, et al. Incidence of Non-Traumatic Subconjunctival Hemorrhage in a Nationwide Study in Taiwan from 2000 to 2011. PLoS One. 2015;10(7):e0132762.](https://doi.org/10.1371/journal.pone.0132762) - 청구자료 기반 발생률·위험 인자
+* \[Sci Rep 2023] [Hong IH, Cho BJ, Choi SH. Association between subconjunctival hemorrhage and hemorrhagic disorders: a nationwide population-based study. Sci Rep. 2023;13(1):22237.](https://doi.org/10.1038/s41598-023-49428-z) - 국내 표본코호트에서 뇌출혈·주요 위장관 출혈 위험
+* \[J Am Heart Assoc 2024] [Javaid M, et al. Bleeding Risk in Patients Receiving Omega-3 Polyunsaturated Fatty Acids: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. J Am Heart Assoc. 2024;13:e032390.](https://doi.org/10.1161/JAHA.123.032390) - 일반 오메가-3와 고용량 정제 EPA의 출혈 위험; SCH 직접 근거와 구분
+* [Tarlan B, Kiratli H. Subconjunctival hemorrhage: risk factors and potential indicators. Clin Ophthalmol. 2013;7:1163-1170.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3702240/) - 재발·지속성 출혈과 전신 원인 평가
+* [American Academy of Ophthalmology, EyeWiki. Subconjunctival Hemorrhage.](https://eyewiki.org/Subconjunctival_Hemorrhage) - 감별 및 관리 알고리듬 참고 (확인일 2026-10-11)
+* [StatPearls. Subconjunctival Hemorrhage.](https://www.ncbi.nlm.nih.gov/books/NBK551666/) - 감별 및 관리 알고리듬 참고 (확인일 2026-10-11)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [건강보험심사평가원. 히알루론산나트륨 점안제 급여기준. 고시 제2024-235호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&sno=3&mtgMtrRegSno=0005) - 내인성 각결막상피장애 급여 대상과 1일 사용량 (확인일 2026-10-11)
