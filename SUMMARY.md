@@ -54,7 +54,7 @@
   * [귀인두관기능부전 Eustachian Tube Dysfunction, ETD](222_/046_-e-tube-dysfunction.md)
   * [외이염 Otitis Externa](222_/047_-otitis-externa.md)
   * [중이염 Otitis Media](222_/048_-otitis-media.md)
-  * [급성 중이염 Acute Otitis Media, AOM](222_/acute-otitis-media-aom.md)
+  * [급성 중이염 Acute Otitis Media, AOM](222_/049_1-acute-otitis-media-aom.md)
   * [귀 손상 Ear Injury](222_/049_-ear-injury.md)
   * [코피 Epistaxis](222_/050_-epistaxis.md)
   * [알레르기비염 Allergic Rhinitis](222_/051_-allergic-rhinitis.md)
