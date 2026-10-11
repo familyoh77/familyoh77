@@ -204,7 +204,7 @@ graph TD
 
 * 응급실 내원 실신 환자의 30일 내 중대 결과 발생 위험 예측 도구
 * 9개 항목(병력, 활력징후, ECG, troponin, 응급실 진단)으로 구성; 점수범위 −3\~+11점. (☞ [계산기](https://www.mdcalc.com/canadian-syncope-risk-score))
-  * 매우 낮은 위험(−3, −2점) + 낮은 위험(−1, 0점) 30일 중대 결과 발생률 : 약 0.4%(개별군 0.2%, 0.7%) \[캐나다 다기관 검증연구]
+  * 매우 낮은 위험(−3, −2점) + 낮은 위험(−1, 0점) 30일 중대 결과 발생률 : 약 0.4%(개별군 0.2%, 0.7%) \[JAMA Intern Med 2020]
   * 중간 위험(1\~3점) : 관찰·신속 추적 또는 입원을 임상적으로 결정
   * 높은 위험(4, 5점)·매우 높은 위험(≥6점) : 집중 평가와 입원을 고려
 * 적용 범위와 한계
@@ -402,3 +402,22 @@ graph TD
 * **유발 상황 파악** : 채혈·더운 환경·장시간 서 있기·식후 등 실신이 자주 일어나는 상황을 파악하고 미리 대비하십시오.
 * **압박복** : 기립성 저혈압에서는 복대 또는 허리까지 올라오는 압박복이 무릎 높이 스타킹보다 효과적입니다. 착용 압력과 금기 여부는 의료진과 상의하십시오.
 * **운전** : 원인이 확인되지 않은 실신, 특히 심혈관성이 의심되는 경우 담당 의사와 운전 재개 시점을 반드시 상의하십시오.
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [대한부정맥학회. 2024 대한부정맥학회 실신 진료지침.](https://k-hrs.org/expert/guide/faint) - 국내 실신 초기 평가·위험 분류·치료 원칙
+* \[ESC 2018] [Brignole M, et al. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J. 2018;39(21):1883-1948.](https://doi.org/10.1093/eurheartj/ehy037) - 실신의 진단·위험 평가 및 반사성 실신 치료
+* [Shen WK, et al. 2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope. Circulation. 2017;136(5):e60-e122.](https://doi.org/10.1161/CIR.0000000000000499) - 검사·입원 판단과 반사성 실신 치료의 적용 범위
+* \[Europace 2024] [de Lange FJ, et al. Carotid sinus massage in clinical practice: the Six-Step-Method. Europace. 2024;26(11):euae266.](https://doi.org/10.1093/europace/euae266) - 앙와위·기립 경동맥동 마사지의 단계별 시행법
+* [Möckel M, et al. The syncope core management process in the emergency department: a consensus statement of the EUSEM syncope group. Eur J Emerg Med. 2024;31(4):250-259.](https://doi.org/10.1097/MEJ.0000000000001146) - 응급실 실신 평가·처치 과정
+* \[JAMA Intern Med 2020] [Thiruganasambandamoorthy V, et al. Multicenter Emergency Department Validation of the Canadian Syncope Risk Score. JAMA Intern Med. 2020;180(5):737-744.](https://doi.org/10.1001/jamainternmed.2020.0288) - 캐나다 다기관 검증의 위험군별 30일 중대 결과
+* [Suh EH, et al. Validation of 2 Syncope Risk Scores and Comparison With Physician Risk Estimation. JAMA Netw Open. 2026;9(5):e2617362.](https://doi.org/10.1001/jamanetworkopen.2026.17362) - 40세 이상 실신·전실신 환자의 미국 외부 검증과 점수의 한계
+
+### <mark style="color:orange;">안전성 확인 자료</mark>
+
+* [CredibleMeds. QTDrugs Lists.](https://crediblemeds.org/) - QT 연장·torsades de pointes 위험의 Known/Possible/Conditional Risk 분류; 약물별 최신 목록 조회

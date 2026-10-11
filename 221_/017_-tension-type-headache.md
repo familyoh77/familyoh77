@@ -20,7 +20,7 @@
 * 급성기 진통제가 주 2일을 넘겨 반복적으로 필요하거나 사용 일수가 증가하는 경우
 * 예방 치료를 충분한 유지용량으로 약 1\~2개월 사용했음에도 의미 있는 호전이 없는 경우
 
-### <mark style="color:orange;">분류 \[IHS classification ICHD-3]</mark>
+### <mark style="color:orange;">분류 \[ICHD-3]</mark>
 
 1. 2.1 Infrequent episodic TTH
    1. 2.1.1 associated with pericranial tenderness
@@ -346,3 +346,18 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 * 진통제가 그보다 자주 필요하거나 사용 일수가 점점 늘어나면 예방 치료가 필요한지 의사와 상의하십시오.
 
 ***
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
+* [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Headache. 2023.](https://www.healthquality.va.gov/guidelines/Pain/headache/index.asp) - 긴장형두통의 급성·예방 치료와 권고 강도
+* [NICE. Headaches in over 12s: diagnosis and management. Clinical guideline CG150. 2012; updated 2021.](https://www.nice.org.uk/guidance/cg150/chapter/recommendations) - 두통 감별·영상검사 및 급성·예방 치료의 적용 범위
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회

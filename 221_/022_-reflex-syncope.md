@@ -231,7 +231,7 @@ flowchart LR
 
 #### <mark style="color:$primary;">β-blocker</mark>
 
-* 재발성 VVS가 있는 42세 이상에서 제한적으로 고려할 수 있다는 권고가 있으나 근거는 일관되지 않음. 소아·청소년에서는 유익성 없음 \[ACC/AHA/HRS 2017, Class IIb]
+* 재발성 VVS가 있는 42세 이상에서 제한적으로 고려할 수 있다는 권고가 있으나 근거는 일관되지 않음. 소아·청소년에서는 유익성 없음 \[ACC/AHA/HRS 2017] (Class IIb)
 * ESC 2018은 β-blocker가 VVS 재발을 줄이는 데 효과적이지 않아 권고하지 않음(Class III, 근거수준 A)
 * VVS는 국내 허가 적응증이 아니며 routine 처방하지 않음
 
@@ -394,3 +394,23 @@ flowchart LR
 * 전조 없이 갑자기 쓰러지거나 이전과 다른 양상으로 발생하는 경우
 * 실신이 반복되어 운전·직업·일상생활에 영향을 주는 경우
 * 새 약을 시작하거나 혈압약 용량을 변경한 뒤 발생한 경우
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Brignole M, et al. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J. 2018;39(21):1883-1948.](https://doi.org/10.1093/eurheartj/ehy037) - 실신의 진단·위험 평가 및 반사성 실신 치료
+* \[ACC/AHA/HRS 2017] [Shen WK, et al. 2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope. Circulation. 2017;136(5):e60-e122.](https://doi.org/10.1161/CIR.0000000000000499) - 검사·입원 판단과 반사성 실신 치료의 적용 범위
+* \[ESC 2021] [Glikson M, et al. 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy. Eur Heart J. 2021;42(35):3427-3520.](https://doi.org/10.1093/eurheartj/ehab364) - 무수축이 확인된 선별 반사성 실신 환자의 심박동기 적응증
+* [Sheldon R, et al. Midodrine for the Prevention of Vasovagal Syncope: A Randomized Clinical Trial. Ann Intern Med. 2021;174(10):1349-1356.](https://doi.org/10.7326/M20-5415) - POST-4; midodrine의 재발 예방 효과
+* [Sheldon R, et al. Fludrocortisone for the Prevention of Vasovagal Syncope: A Randomized, Placebo-Controlled Trial. J Am Coll Cardiol. 2016;68(1):1-9.](https://doi.org/10.1016/j.jacc.2016.04.030) - POST-2; fludrocortisone의 1차 결과와 적용 한계
+* Sheldon RS, et al. A proof of principle study of atomoxetine for the prevention of vasovagal syncope: the Prevention of Syncope Trial VI. Europace. 2019. - POST VI; tilt 유발 실신에 대한 atomoxetine의 효과
+* \[COMFORTS-II 2025] [Tavolinejad H, et al. Using Compression Stockings to Prevent Recurrence of Vasovagal Syncope: A Randomized Sham-Controlled Trial. J Am Coll Cardiol. 2025;86(6):412-422.](https://doi.org/10.1016/j.jacc.2025.05.049) - 허벅지 길이 압박 스타킹의 재발 예방 효과
+* [Aksu T, et al. Cardioneuroablation for the treatment of reflex syncope and functional bradyarrhythmias: A Scientific Statement of EHRA/HRS/APHRS/LAHRS. Europace. 2024;26(8):euae206.](https://doi.org/10.1093/europace/euae206) - CNA의 근거 한계·환자 선택과 안전성
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
