@@ -438,3 +438,21 @@ class B,D,G yellow
 * 팔다리에 힘이 빠지거나 말이 어눌해지면서 숨이 차는 경우
 * 최근 큰 수술·장기간 침상 안정 후 갑자기 숨이 차거나 흉통이 발생한 경우
 * 알레르겐 노출 후 목이 조이는 느낌, 쉰 목소리, 호흡곤란이 갑자기 나타나거나 어지럽고 쓰러질 것 같은 경우(두드러기 등 피부 증상이 없어도 해당) - 아나필락시스 의심
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[ESC 2021] [McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.](https://doi.org/10.1093/eurheartj/ehab368) - 본문 NT-proBNP 진단 절단치의 확인 자료; 2026년 개정 분류·치료와 구분
+* [European Society of Cardiology. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026.](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/heart-failure/) - 심부전의 개정 EF·단계 분류와 울혈·비보상 상태 관리
+* [O'Driscoll BR, et al. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax. 2017;72(Suppl 1):ii1-ii90.](https://pubmed.ncbi.nlm.nih.gov/28507176/) - 저산소혈증·고탄산혈증 위험에 따른 산소 목표와 전달 장치 선택
+* \[GOLD 2026] [Global Initiative for Chronic Obstructive Lung Disease. Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease. 2026 Report.](https://goldcopd.org/2026-gold-report-and-pocket-guide/) - COPD 증상·악화 평가(ABE 분류)와 급성 악화 시 초기 관리
+* [Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention. 2026.](https://ginasthma.org/2026-gina-strategy-report/) - 천식 악화의 중증도 평가·초기 치료와 의뢰 판단
+* [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation. 2026;153(12).](https://doi.org/10.1161/CIR.0000000000001415) - 성인 급성 폐색전증의 진단·위험 분류, 초기 치료와 입원·의뢰 판단
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 기관지확장제·이뇨제 등 초기 치료 약물의 적응증·제형별 용량·금기·상호작용; 처방 시 최신 품목정보 조회

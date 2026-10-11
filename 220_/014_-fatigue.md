@@ -431,8 +431,19 @@ class B,D,F,M yellow
 * 가벼운 신체적·인지적 활동 후 수 시간\~수일 뒤 증상이 비정상적으로 악화되고 회복이 지연되는 경우(PEM)
 {% endhint %}
 
-## 주요 참고문헌
+***
 
-1. Centers for Disease Control and Prevention. [IOM 2015 Diagnostic Criteria](https://www.cdc.gov/me-cfs/hcp/diagnosis/iom-2015-diagnostic-criteria-1.html); [Diagnosing ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis/index.html); [Evaluation of ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis-testing/evaluation-of-me-cfs.html). 2024\~2026.
-2. National Institute for Health and Care Excellence. [Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management](https://www.nice.org.uk/guidance/NG206/chapter/recommendations). NG206. 2021.
-3. Snook J, Bhala N, Beales ILP, et al. [British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC8515119/). _Gut_. 2021;70:2030-2051.
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Latimer KM, Gunther A, Kopec M. Fatigue in Adults: Evaluation and Management. Am Fam Physician. 2023;108(1):58-69.](https://www.aafp.org/pubs/afp/issues/2023/0700/fatigue-adults.html) - 일차의료의 피로 감별, 병력·진찰에 따른 검사와 원인 치료
+* Centers for Disease Control and Prevention. [IOM 2015 Diagnostic Criteria](https://www.cdc.gov/me-cfs/hcp/diagnosis/iom-2015-diagnostic-criteria-1.html); [Diagnosing ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis/index.html); [Evaluation of ME/CFS](https://www.cdc.gov/me-cfs/hcp/diagnosis-testing/evaluation-of-me-cfs.html). - NAM/IOM 진단 기준, 의심·확정 시점과 감별 검사; 운동 후 증상 악화(PEM) 평가 (확인일 2026-10-11)
+* [NICE. Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management. NICE guideline NG206. 2021.](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) - ME/CFS 의심·진단 기간 요건, 에너지 관리와 고정 증량 운동의 제한; NAM/IOM 기준과 구분
+* [Snook J, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70(11):2030-2051.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8515119/) - 철결핍·철결핍빈혈의 원인 평가와 보충·반응 추적
+* \[ASCO-SIO 2024] [Bower JE, et al. Management of Fatigue in Adult Survivors of Cancer: ASCO-Society for Integrative Oncology Guideline Update. J Clin Oncol. 2024;42(20):2456-2487.](https://doi.org/10.1200/JCO.24.00541) - 암 관련 피로의 비약물 치료와 psychostimulant의 일률적 사용 제한; 일반 피로·ME/CFS와 구분
+* [World Health Organization. Post COVID-19 condition (Long COVID). Fact sheet.](https://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition) - 지속 피로·활동 후 증상 악화를 동반하는 코로나19 후유증의 감별 (확인일 2026-10-11)
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 철분제·항우울제·methylphenidate 등의 적응증·안전성과 피로 자체에 대한 허가 여부; 처방 시 최신 품목정보 조회

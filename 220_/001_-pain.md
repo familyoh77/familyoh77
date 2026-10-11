@@ -909,3 +909,30 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 * 발열·오한, 원인 모를 체중 감소, 지속적인 야간 통증 등이 새롭게 나타나거나 악화되는 경우
 * 처방받은 진통제를 사용해도 통증이 계속 심하거나 점점 악화되는 경우
 * 통증으로 인해 자살 생각이 들거나 스스로를 해치고 싶은 마음이 드는 경우 - 즉시 병원을 방문하거나 자살예방상담전화 109(24시간, 무료)로 연락하십시오
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Kim M, Park SK, Kim WM, et al. Updated guidelines for prescribing opioids to treat patients with chronic non-cancer pain in Korea: developed by committee on hospice and palliative care of the Korean Pain Society. Korean J Pain. 2024;37(2):119-131.](https://doi.org/10.3344/kjp.24022) - 대한통증학회 아편유사제 처방지침 2024; 국내 만성 비암성 통증의 opioid 선택·용량 환산·추적과 위험 관리
+* \[CDC 2022] [Dowell D, et al. CDC Clinical Practice Guideline for Prescribing Opioids for Pain - United States, 2022. MMWR Recomm Rep. 2022;71(3):1-95.](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm) - 성인 외래 급성·아급성·만성 통증의 opioid 처방·감량·naloxone 제공; 암성 통증·완화의료는 적용 범위에서 제외
+* \[ICD-11] [Treede RD, et al. Chronic pain as a symptom or a disease: the IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11). Pain. 2019;160(1):19-27.](https://doi.org/10.1097/j.pain.0000000000001384) - 만성 통증(＞3개월)의 정의와 ICD-11 분류
+* [World Health Organization. WHO guidelines for the pharmacological and radiotherapeutic management of cancer pain in adults and adolescents. 2018.](https://www.who.int/publications/i/item/9789241550390) - 암성 통증의 진통제 선택과 보조 치료; WHO 진통 사다리의 암성 통증 적용 맥락
+* [NICE. Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain. NICE guideline NG193. 2021.](https://www.nice.org.uk/guidance/ng193/chapter/recommendations) - 만성 통증 평가와 만성 원발성 통증의 비약물·약물 치료; 원인 질환별 이차성 통증 치료와 구분
+* [Finnerup NB, et al. Pharmacotherapy for neuropathic pain in adults: a systematic review and meta-analysis. Lancet Neurol. 2015;14(2):162-173.](https://pubmed.ncbi.nlm.nih.gov/25575710/) - NeuPSIG의 신경병성 통증 약제별 효과·권고와 근거 한계
+* [Kolasinski SL, et al. 2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee. Arthritis Rheumatol. 2020;72(2):220-233.](https://doi.org/10.1002/art.41142) - 무릎 골관절염의 외용 NSAID 등 치료 선택; 지침명은 2019, 출판은 2020년
+* [Tawfik AG, et al. Nonsteroidal Anti-Inflammatory Drugs and Risk of Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. Clin Pharmacol Ther. 2026;119(1):46-62.](https://doi.org/10.1002/cpt.70054) - 본문 NSAID 비교표; NSAID별 위장관 출혈 위험 비교와 연구 간 이질성
+* [Castellsague J, et al. Individual NSAIDs and Upper Gastrointestinal Complications: A Systematic Review and Meta-Analysis of Observational Studies (the SOS Project). Drug Saf. 2012;35(12):1127-1146.](https://pubmed.ncbi.nlm.nih.gov/23137151/) - 본문 NSAID 비교표에서 2026년 리뷰에 포함되지 않은 약제의 과거 위험 추정 자료
+* [García Rodríguez LA, Tacconelli S, Patrignani P. Role of dose potency in the prediction of risk of myocardial infarction associated with nonsteroidal anti-inflammatory drugs in the general population. J Am Coll Cardiol. 2008;52(20):1628-1636.](https://doi.org/10.1016/j.jacc.2008.08.041) - 본문 COX 선택성 도표 출처
+* Patrignani P, et al. Ther Clin Risk Manag. 2008;4(5):983-997. - COX 선택성 도표 수치(Table 1)
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 진통제·보조 진통제의 적응증·최대용량·금기·상호작용과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* \[FDA] [U.S. Food and Drug Administration. FDA warns about serious breathing problems with seizure and nerve pain medicines gabapentin (Neurontin, Gralise, Horizant) and pregabalin (Lyrica, Lyrica CR). Drug Safety Communication. December 19, 2019.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-about-serious-breathing-problems-seizure-and-nerve-pain-medicines-gabapentin-neurontin) - gabapentinoid·opioid 병용 시 호흡 억제 경고
+* [한국의약품안전관리원. 마약류통합관리시스템(NIMS).](https://www.nims.or.kr/) - 의료용 마약류 투약 이력·안전사용 관련 확인 자료; 현행 조회 대상·의무·예외 조건 확인 (확인일 2026-10-11)
+* [건강보험심사평가원. 「일반원칙」 마약성진통제. 고시 제2017-153호 (2017-09-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901&sno=1&mtgMtrRegSno=0001) - 본문에 연결된 암성·비암성 통증의 급여 범위; 처방 시 후속 개정·개별 약제 기준 확인 (확인일 2026-10-11)
+* [건강보험심사평가원. Buprenorphine 패취제 급여기준. 고시 제2017-193호 (2017-11-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171101&sno=1&mtgMtrRegSno=0034) - 본문 패취제의 급여 대상·용량·처방 일수; 처방 시 현행 기준 확인 (확인일 2026-10-11)

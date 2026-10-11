@@ -329,3 +329,20 @@ graph TD
 * 피 때문에 기도가 막히는 느낌, 극심한 호흡 곤란, 어지럼·실신 또는 의식 변화가 동반되는 경우
 * 짧은 시간에 많은 양의 피가 나오는 경우
 * 항응고제(와파린, 아픽사반 등)를 복용 중이며 객혈이 지속·반복되거나 양이 증가하는 경우
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Kang MJ, et al. 2018 Korean Clinical Imaging Guideline for Hemoptysis. Korean J Radiol. 2018;19(5):866-871.](https://doi.org/10.3348/kjr.2018.19.5.866) - 국내 결핵·결핵 후유증을 고려한 흉부 X선·조영증강 CT 적응증
+* [Olsen KM, et al. ACR Appropriateness Criteria® Hemoptysis. J Am Coll Radiol. 2020;17(5S):S148-S159.](https://pubmed.ncbi.nlm.nih.gov/32370959/) - 객혈의 중증도·재발에 따른 영상검사와 색전술 평가
+* [Society of Chest Imaging and Interventions. Society of Chest Imaging and Interventions Consensus Guidelines for the Interventional Radiology Management of Hemoptysis. Indian J Radiol Imaging. 2023;33(3):361-372.](https://doi.org/10.1055/s-0043-1762552) - 생명위협 객혈의 기도·순환 안정, 출혈 위치 확인과 기관지동맥색전술
+* [Tomaselli GF, et al. 2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants. J Am Coll Cardiol. 2020;76(5):594-622.](https://pubmed.ncbi.nlm.nih.gov/32680646/) - 항응고제 관련 중증 출혈의 약물 중단·역전·재개 판단; 이후 안전성 정보와 함께 해석
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 지혈제·항응고 역전 관련 제제의 국내 적응증·투여법·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* [U.S. Food and Drug Administration. Update on the Safety of Andexxa by AstraZeneca: FDA Safety Communication. December 18, 2025.](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication) - 혈전색전증 안전성 문제와 미국 판매 중단 관련 자료; 국내 허가·공급·기관 역전 protocol과 구분

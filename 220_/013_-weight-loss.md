@@ -406,3 +406,22 @@ Ref. Volkert D, et al. S3 guideline Clinical nutrition and hydration in older pe
 * 의식이 흐려지거나 실신한 경우
 * 물도 마시기 어려울 정도의 심한 탈수 또는 반복 구토가 있는 경우
 * 갑작스러운 흉통·호흡곤란, 많은 양의 출혈, 심한 쇠약이 동반되는 경우
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Gaddey HL, Holder KK. Unintentional Weight Loss in Older Adults. Am Fam Physician. 2021;104(1):34-40.](https://www.aafp.org/afp/2021/0700/p34) - 고령자 비의도적 체중 감소의 원인·단계별 평가와 다학제 관리
+* \[NICE NG12] [NICE. Suspected cancer: recognition and referral. NICE guideline NG12. 2015; updated April 15, 2026.](https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-symptom-and-findings-of-primary-care-investigations) - 원인 불명 체중 감소·식욕부진의 암 평가와 연령·동반 소견별 의뢰 경로(1.13.2·1.13.3) (확인일 2026-10-11)
+* [Jensen GL, et al. GLIM consensus approach to diagnosis of malnutrition: A 5-year update. JPEN J Parenter Enteral Nutr. 2025;49(4):414-427.](https://doi.org/10.1002/jpen.2756) - 영양불량의 표현형·원인 기준과 염증·질병 부담의 평가
+* [Asian Working Group for Sarcopenia. A focus shift from sarcopenia to muscle health in the Asian Working Group for Sarcopenia 2025 Consensus Update. Nat Aging. 2025.](https://pubmed.ncbi.nlm.nih.gov/41188603/) - 근감소증의 근육량·근력 기준과 신체수행능력의 역할
+* [Volkert D, et al. S3 guideline Clinical nutrition and hydration in older persons. Aktuel Ernahrungsmed. 2025;50:220-283.](https://doi.org/10.1055/a-2548-7209) - 고령자의 영양·수분 선별, 식사 지원·영양보충과 치료 목표
+* [Roeland EJ, et al. Management of Cancer Cachexia: ASCO Guideline. J Clin Oncol. 2020;38(21):2438-2453.](https://doi.org/10.1200/JCO.20.00611) - 암성 악액질의 영양·약물 치료 기본 지침
+* [Roeland EJ, et al. Cancer Cachexia: ASCO Guideline Rapid Recommendation Update. J Clin Oncol. 2023;41(25):4178-4179.](https://doi.org/10.1200/JCO.23.01280) - 저용량 olanzapine 권고 추가; 2020년 기본 지침과 함께 해석
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - megestrol·mirtazapine·olanzapine 등 식욕·체중 관련 약물의 적응증·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
