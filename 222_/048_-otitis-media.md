@@ -28,10 +28,10 @@
 
 ### <mark style="color:orange;">예방</mark>
 
-* [폐렴구균 백신](../../231_/210_-vaccination.md#pneumococcal-pneumonia) : 2025년 10월부터 PCV20(20가)이 소아 국가예방접종(NIP)에 신규 도입됨; 기존 PCV13으로 접종을 시작한 소아는 PCV20으로 교차접종 가능하며, PCV15로 시작한 경우 동일 백신으로 접종 완료 권장
+* [폐렴구균 백신](../231_/210_-vaccination.md#pneumococcal-pneumonia) : 2025년 10월부터 PCV20(20가)이 소아 국가예방접종(NIP)에 신규 도입됨; 기존 PCV13으로 접종을 시작한 소아는 PCV20으로 교차접종 가능하며, PCV15로 시작한 경우 동일 백신으로 접종 완료 권장
   * PCV7 연구에서 저위험 영아의 전체 원인 AOM은 약 6% 상대 감소; 고위험군에서는 예방 효과가 확립되지 않음(상대 감소율 −5%, 95% CI −25%\~12%) \[Cochrane 2020]. 이 수치를 PCV20의 예방 효과로 적용하지 않으며, PCV20의 소아 AOM 특이 장기 데이터는 축적 중
-* [인플루엔자 백신](../../231_/210_-vaccination.md#influenza) : 호흡기 질환 시즌 동안 influenza 관련 AOM 감소에 도움
-* [RSV 단일클론항체](../../231_/210_-vaccination.md#rsv-respiratory-syncytial-virus) : 본래 적응증은 RSV 하기도질환 예방이며, AOM 예방 자체를 위한 적응증은 아님
+* [인플루엔자 백신](../231_/210_-vaccination.md#influenza) : 호흡기 질환 시즌 동안 influenza 관련 AOM 감소에 도움
+* [RSV 단일클론항체](../231_/210_-vaccination.md#rsv-respiratory-syncytial-virus) : 본래 적응증은 RSV 하기도질환 예방이며, AOM 예방 자체를 위한 적응증은 아님
   * nirsevimab <mark style="color:blue;">\[베이포투스]</mark> : 2026년 관찰연구에서 AOM 및 항생제 노출 감소와의 연관성이 보고됨. 핀란드 전국 시계열 연구에서는 도입 후 영아 AOM 발생률이 44% 감소했으나(RR 0.56, 95% CI 0.54\~0.58), 개인별 투여 효과를 확인한 무작위시험 결과는 아님 \[Eur J Pediatr 2026;185:827, 2026-10-09]
   * clesrovimab <mark style="color:blue;">\[엔플론시아]</mark> : nirsevimab의 AOM 관련 결과를 동일하게 적용하지 않음; AOM 예방 효과는 약제별 추가 근거 필요
 * RSV 모체면역 백신(예: Abrysvo <mark style="color:blue;">\[아브리스보]</mark>, 임신 28\~36주 접종) : 2026년 8월 국내 허가; 태반을 통한 항체 이행으로 출생 후 약 6개월까지(효과는 시간 경과에 따라 감소) 영아 RSV 하기도질환 예방 목적
@@ -66,7 +66,7 @@
 
 ***
 
-<figure><img src="../../.gitbook/assets/중이2.JPG" alt=""><figcaption><p><strong>증상/병력에 따른 귀 문제의 감별</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/중이2.JPG" alt=""><figcaption><p><strong>증상/병력에 따른 귀 문제의 감별</strong></p></figcaption></figure>
 
 ***
 
@@ -276,7 +276,7 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 ### <mark style="color:orange;">국소 살균제</mark>
 
 * 퀴놀론 점이제는 boric acid보다 1\~2주 이루 소실에 유리할 가능성; 다른 살균제와의 비교 효과·안전성 근거는 불확실 \[Cochrane 2025]
-* Acetic acid·boric acid·povidone-iodine·aluminium acetate/Burow 용액은 농도·용매(특히 알코올)·천공 여부에 따른 자극·이독성 검토가 필요. 천공 귀에 임의 조제·가정용 용액을 사용하지 않으며 전문의가 제제별 안전성을 확인한 경우에 한해 고려 (☞ [외이염](../047_-otitis-externa.md))
+* Acetic acid·boric acid·povidone-iodine·aluminium acetate/Burow 용액은 농도·용매(특히 알코올)·천공 여부에 따른 자극·이독성 검토가 필요. 천공 귀에 임의 조제·가정용 용액을 사용하지 않으며 전문의가 제제별 안전성을 확인한 경우에 한해 고려 (☞ [외이염](047_-otitis-externa.md))
 
 ### <mark style="color:orange;">국소 항생제</mark>
 
@@ -433,4 +433,4 @@ _1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개�
 * 아데노이드 관련 감염 또는 ≥4세에서 OME·튜브 재삽입 등 적응증을 함께 고려
 * 두개안면기형·발음 장애 자체를 포괄적인 절제 적응증으로 삼지 않음. 구개열·점막하 구개열·구개인두 기능 부전은 수술 후 발음 악화 위험을 고려해 전문 평가
 
- ✽ 편도 절제 ☞ [편도염](../../223_/064_-tonsillitis.md#undefined-12)
+ ✽ 편도 절제 ☞ [편도염](../223_/064_-tonsillitis.md#undefined-12)
