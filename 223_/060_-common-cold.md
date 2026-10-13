@@ -86,7 +86,7 @@
 
 ## <mark style="color:green;">합병증</mark>
 
-* [중이염](../222_/048_-otitis-media.md) : 감기에 걸린 소아의 5\~30%에서 발생; 유아원 등원 시 더 많이 발생
+* [중이염](../222_/048_-otitis-media/) : 감기에 걸린 소아의 5\~30%에서 발생; 유아원 등원 시 더 많이 발생
 * [비부비동염](../222_/053_-rhinosinusitis-sinusitis.md) : 콧물·코 막힘·안면 통증/압박감 등이 10일 이상 호전 없이 지속되거나 호전 후 다시 악화하면 급성 세균성 비부비동염을 의심
   * 이중 악화 (double worsening) : 처음 호전되던 코 증상·기침·발열 등이 다시 악화하는 양상; 발열이 반드시 동반되어야 하는 것은 아님
 * [폐렴](068_-pneumonia.md) : 세균성 폐렴은 드묾; 고령자·면역 저하자에서 위험 증가
@@ -355,8 +355,8 @@ _1) 복합제의 전체 성분과 허가 용법을 확인. 위 약제들은 단�
 
 **생약 제제**
 
-* pelargonium sidoides <mark style="color:blue;">[움카민]</mark> : 급성 호흡기감염 증상 개선 연구가 있으나 제제별 이질성과 비뚤림 위험으로 근거가 제한적
-* ivy leaf+황련 추출물 <mark style="color:blue;">[시네츄라]</mark> : coptis rhizome 단일제가 아닌 복합제; 단순 감기에서 routine 사용 근거는 제한적이며 제품별 허가 용법 확인
+* pelargonium sidoides <mark style="color:blue;">\[움카민]</mark> : 급성 호흡기감염 증상 개선 연구가 있으나 제제별 이질성과 비뚤림 위험으로 근거가 제한적
+* ivy leaf+황련 추출물 <mark style="color:blue;">\[시네츄라]</mark> : coptis rhizome 단일제가 아닌 복합제; 단순 감기에서 routine 사용 근거는 제한적이며 제품별 허가 용법 확인
 
 ### <mark style="color:orange;">콧물 치료제 (Anti-rhinorrhea)</mark>
 
