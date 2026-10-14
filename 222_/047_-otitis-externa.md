@@ -520,5 +520,5 @@ graph TD
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * \[FDA 2025] [U.S. Food and Drug Administration. CLOTIC (clotrimazole) - Marketing Approval, 2025-09-26.](https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=520516) - 진균성 외이염 치료제의 미국 허가 확인; 국내 허가와 구분

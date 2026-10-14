@@ -651,4 +651,4 @@ POTS 처방례의 약물은 모두 국내 POTS 적응증 미허가(off-label)이
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - midodrine·fludrocortisone·ivabradine 등 자율신경 증상 관련 약물의 적응증, 금기·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - midodrine·fludrocortisone·ivabradine 등 자율신경 증상 관련 약물의 적응증, 금기·안전성과 허가 외 사용 여부

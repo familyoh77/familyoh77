@@ -502,6 +502,6 @@ flowchart TD
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 인지장애 관련 약물·항아밀로이드 치료제의 적응증, 환자 선정·안전성·추적 기준; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 인지장애 관련 약물·항아밀로이드 치료제의 적응증, 환자 선정·안전성·추적 기준
 * [건강보험심사평가원. Choline alfoscerate 경구제·시럽제·주사제 급여기준. 고시 제2020-183호 및 집행정지 해제 관련 안내.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20200901&mtgMtrRegSno=0001&sno=4) - 2025-09-21 집행정지 해제 후 적용되는 급여·선별급여 범위; 허가 적응증·임상 유효성과 구분 (확인일 2026-10-11)
 * [U.S. Food and Drug Administration. FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer's disease taking Leqembi (lecanemab). Drug Safety Communication. August 28, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab) - ARIA 관련 MRI 감시의 해외 안전성 자료; 국내 처방에는 국내 허가사항·감시 기준 우선 적용

@@ -446,4 +446,4 @@ class B,D,F,M yellow
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 철분제·항우울제·methylphenidate 등의 적응증·안전성과 피로 자체에 대한 허가 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 철분제·항우울제·methylphenidate 등의 적응증·안전성과 피로 자체에 대한 허가 여부

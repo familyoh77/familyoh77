@@ -516,5 +516,5 @@ class ABX,ABX2,ESC,OBS sky
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [통계청. 제9차 한국표준질병·사인분류(KCD-9) 개정 고시. 통계청고시 제2025-299호.](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000260878) - 질병코드 확인 (확인일 2026-10-14)

@@ -582,4 +582,4 @@ graph LR
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - SSRI/SNRI·benzodiazepine의 공황장애 적응증, 용량·금기·상호작용·중단 시 주의사항; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - SSRI/SNRI·benzodiazepine의 공황장애 적응증, 용량·금기·상호작용·중단 시 주의사항

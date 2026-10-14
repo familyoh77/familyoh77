@@ -396,4 +396,4 @@ class I,O,R,Z,B yellow
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - chlorpromazine·baclofen·gabapentin·metoclopramide의 딸꾹질 적응증, 신기능별 용량·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - chlorpromazine·baclofen·gabapentin·metoclopramide의 딸꾹질 적응증, 신기능별 용량·안전성과 허가 외 사용 여부

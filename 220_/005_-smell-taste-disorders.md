@@ -437,5 +437,5 @@ class B,D,D2,F,P yellow
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 비내·전신 steroid와 아연 제제의 적응증·용량·안전성 및 후각·미각장애 목적의 허가 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 비내·전신 steroid와 아연 제제의 적응증·용량·안전성 및 후각·미각장애 목적의 허가 여부
 * [보건복지부·한국영양학회. 2025 한국인 영양소 섭취기준 및 후속 정정 자료.](https://www.kns.or.kr/fileroom/fileroom_view.asp?BoardID=Kdr&idx=167) - 아연의 일반 영양섭취 기준·상한섭취량; 결핍 치료 목적의 의학적 투여와 구분 (확인일 2026-10-11)

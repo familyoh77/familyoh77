@@ -931,7 +931,7 @@ _&#xB3;⁾Triple Whammy : ACEI/ARB + 이뇨제 + NSAIDs 3제 병용 시 급성 �
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 진통제·보조 진통제의 적응증·최대용량·금기·상호작용과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 진통제·보조 진통제의 적응증·최대용량·금기·상호작용과 허가 외 사용 여부
 * \[FDA] [U.S. Food and Drug Administration. FDA warns about serious breathing problems with seizure and nerve pain medicines gabapentin (Neurontin, Gralise, Horizant) and pregabalin (Lyrica, Lyrica CR). Drug Safety Communication. December 19, 2019.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-about-serious-breathing-problems-seizure-and-nerve-pain-medicines-gabapentin-neurontin) - gabapentinoid·opioid 병용 시 호흡 억제 경고
 * [한국의약품안전관리원. 마약류통합관리시스템(NIMS).](https://www.nims.or.kr/) - 의료용 마약류 투약 이력·안전사용 관련 확인 자료; 현행 조회 대상·의무·예외 조건 확인 (확인일 2026-10-11)
 * [건강보험심사평가원. 「일반원칙」 마약성진통제. 고시 제2017-153호 (2017-09-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170901&sno=1&mtgMtrRegSno=0001) - 본문에 연결된 암성·비암성 통증의 급여 범위; 처방 시 후속 개정·개별 약제 기준 확인 (확인일 2026-10-11)

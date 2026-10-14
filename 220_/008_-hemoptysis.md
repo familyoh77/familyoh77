@@ -344,5 +344,5 @@ graph TD
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 지혈제·항응고 역전 관련 제제의 국내 적응증·투여법·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 지혈제·항응고 역전 관련 제제의 국내 적응증·투여법·안전성과 허가 외 사용 여부
 * [U.S. Food and Drug Administration. Update on the Safety of Andexxa by AstraZeneca: FDA Safety Communication. December 18, 2025.](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication) - 혈전색전증 안전성 문제와 미국 판매 중단 관련 자료; 국내 허가·공급·기관 역전 protocol과 구분

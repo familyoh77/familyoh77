@@ -687,5 +687,5 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. Fremanezumab 주사제(아조비) 급여기준. 고시 제2024-130호 (2024-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701&sno=4&mtgMtrRegSno=0005) - 본문 연결 고시의 투여 대상·평가·기간 확인; 다른 CGRP 약제는 제품별 기준 별도 조회 (확인일 2026-10-11)

@@ -888,7 +888,7 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - cholinesterase 억제제·memantine·항아밀로이드 치료제 등 치매 관련 약물의 적응증·용량·안전성; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - cholinesterase 억제제·memantine·항아밀로이드 치료제 등 치매 관련 약물의 적응증·용량·안전성
 * [건강보험심사평가원. Donepezil 경구제·패취제 급여기준. 고시 제2025-73호 (2025-05-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250501&mtgMtrRegSno=0003&sno=2) - donepezil의 진단·평가 점수·추적 및 병용 급여 조건; 다른 치매 약제는 각각의 현행 기준 확인 (확인일 2026-10-11)
 * [건강보험심사평가원. Choline alfoscerate 경구제·시럽제·주사제 급여기준. 고시 제2020-183호 및 집행정지 해제 관련 안내.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20200901&mtgMtrRegSno=0001&sno=4) - 2025-09-21 집행정지 해제 후 적용되는 급여·선별급여 범위; 허가 적응증·임상 유효성과 구분 (확인일 2026-10-11)
 * [U.S. Food and Drug Administration. FDA to recommend additional, earlier MRI monitoring for patients with Alzheimer's disease taking Leqembi (lecanemab). Drug Safety Communication. August 28, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommend-additional-earlier-mri-monitoring-patients-alzheimers-disease-taking-leqembi-lecanemab) - ARIA 관련 MRI 감시의 해외 안전성 자료; 국내 처방에는 국내 허가사항·감시 기준 우선 적용

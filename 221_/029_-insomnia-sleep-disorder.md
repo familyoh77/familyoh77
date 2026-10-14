@@ -907,4 +907,4 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - benzodiazepine·Z-drug·DORA 및 기타 수면 관련 약물의 적응증, 용량·기간·안전성·허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - benzodiazepine·Z-drug·DORA 및 기타 수면 관련 약물의 적응증, 용량·기간·안전성·허가 외 사용 여부

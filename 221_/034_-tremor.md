@@ -630,5 +630,5 @@ class P,R,S,T,U,X yellow
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - propranolol·primidone·topiramate 등 떨림 치료 약물의 적응증·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - propranolol·primidone·topiramate 등 떨림 치료 약물의 적응증·안전성과 허가 외 사용 여부
 * [건강보험심사평가원. 「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정. 고시 제2018-18호: Primidone 경구제 관련.](https://www.hira.or.kr/bbsDummy.do?brdBltNo=6722&brdScnBltNo=4&pageIndex=2&pgmid=HIRAA020002000100) - 본태떨림의 primidone 급여 관련 개정 자료; 처방 시 후속 개정·현행 기준 확인 (확인일 2026-10-11)

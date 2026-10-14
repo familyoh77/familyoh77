@@ -681,6 +681,6 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항파킨슨 약제와 비운동 증상 관련 약물의 적응증, 용량·금기·상호작용; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항파킨슨 약제와 비운동 증상 관련 약물의 적응증, 용량·금기·상호작용
 * [건강보험심사평가원. 「일반원칙」 항파킨슨 약제. 고시 제2024-235호 (2024-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&mtgMtrRegSno=0002&sno=3) - 병용 약제 수·복합제 성분 산정 등 급여 원칙; 개별 약제의 조건은 별도 확인 (확인일 2026-10-11)
 * [U.S. Food and Drug Administration. FDA Is Requiring Warning about Vitamin B6 Deficiency and Associated Seizures for Drug Products Containing Carbidopa/Levodopa. Drug Safety Communication. March 20, 2026.](https://www.fda.gov/media/191605/download) - carbidopa/levodopa의 비타민 B6 결핍·관련 경련 경고와 모니터링; 국내 허가사항과 함께 확인

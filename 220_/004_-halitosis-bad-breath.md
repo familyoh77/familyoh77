@@ -383,5 +383,5 @@ class C,D2,K yellow
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - chlorhexidine 가글제의 적응증·농도·사용 기간·삼킴 금지와 이상반응; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - chlorhexidine 가글제의 적응증·농도·사용 기간·삼킴 금지와 이상반응
 * [건강보험심사평가원. 가글 용제(헥사메딘가글액 등) 급여기준. 고시 제2018-253호 (2018-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201&mtgMtrRegSno=0023&sno=1) - 입원·암환자 및 외래환자의 인정 범위·용량; 처방 시 현행 기준 확인 (확인일 2026-10-11)

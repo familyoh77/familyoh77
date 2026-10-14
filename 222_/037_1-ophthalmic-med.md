@@ -360,7 +360,7 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)
 * [건강보험심사평가원. 히알루론산나트륨 점안제 급여기준. 고시 제2024-235호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&sno=3&mtgMtrRegSno=0005) - 내인성 각결막상피장애 급여 대상과 1일 사용량 (확인일 2026-10-11)
 * [U.S. Food and Drug Administration. Drugs@FDA - FDA-Approved Drugs.](https://www.accessdata.fda.gov/scripts/cder/daf/) - 국외 허가 약제의 제품별 허가서·처방정보 확인; 국내 허가와 구분

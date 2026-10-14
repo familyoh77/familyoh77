@@ -691,4 +691,4 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - aspirin의 제형·적응증과 nitroglycerin 설하정·주사제의 적응증·금기; 국제 ACS 지침과 국내 허가 차이; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - aspirin의 제형·적응증과 nitroglycerin 설하정·주사제의 적응증·금기; 국제 ACS 지침과 국내 허가 차이

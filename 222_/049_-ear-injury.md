@@ -1080,6 +1080,6 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 외이도 이물 제거 관련 요양급여 적용기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190628\&sno=3\&mtgMtrRegSno=0007) - 이물 제거 행위의 급여 인정 범위
 * [고용노동부. 화학물질 및 물리적 인자의 노출기준(고용노동부고시 제2020-48호), 제9조 및 별표 2-1.](https://www.moel.go.kr/info/lawinfo/instruction/view.do?bbs_seq=20200100629) - 충격소음을 제외한 소음 노출기준 90 ㏈(A) 8시간·5 ㏈ 교환율

@@ -424,4 +424,4 @@ Ref. Volkert D, et al. S3 guideline Clinical nutrition and hydration in older pe
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - megestrol·mirtazapine·olanzapine 등 식욕·체중 관련 약물의 적응증·안전성과 허가 외 사용 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - megestrol·mirtazapine·olanzapine 등 식욕·체중 관련 약물의 적응증·안전성과 허가 외 사용 여부

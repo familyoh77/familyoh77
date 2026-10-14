@@ -529,5 +529,5 @@ graph TD
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)

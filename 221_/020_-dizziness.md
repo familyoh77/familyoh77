@@ -835,5 +835,5 @@ flowchart TD
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. Ginkgo biloba extract 경구제 급여기준. 고시 제2025-34호 (2025-03-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250301&sno=1&mtgMtrRegSno=0008) - 허가 적응증과 급여 인정 범위의 구분 (확인일 2026-10-11)

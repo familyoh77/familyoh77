@@ -552,6 +552,6 @@ _<mark style="color:$info;">✽ 다음 처방례는 번아웃 치료가 아니�
 ### <mark style="color:orange;">허가·제도 확인 자료</mark>
 
 * [통계청. 제9차 한국표준질병·사인분류 개정 고시. 통계청고시 제2025-299호. 2025.](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000260878) - 국내 진단 분류·코딩의 확인 자료; ICD-11 정의와 국내 적용을 구분
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - escitalopram·lorazepam·propranolol·trazodone의 적응증·안전성과 번아웃 자체에 대한 허가 여부; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - escitalopram·lorazepam·propranolol·trazodone의 적응증·안전성과 번아웃 자체에 대한 허가 여부
 * [의정부시 보건소. 정신건강 심리상담 바우처 사업 안내. 2026.](https://ui4u.go.kr/health/contents.do?mId=0304030000) - 심리상담 지원 대상·신청·이용의 공공기관 확인 자료; 해당 지역의 현행 시행 안내 확인 (확인일 2026-10-11)
 * 국가법령정보센터. [근로기준법](https://www.law.go.kr/법령/근로기준법) 제76조의2·제76조의3, [산업안전보건법](https://www.law.go.kr/법령/산업안전보건법) 제41조, [산업재해보상보험법 시행령](https://www.law.go.kr/법령/산업재해보상보험법시행령) 별표 3. - 직장 내 괴롭힘·고객 폭언 등의 보호 조치와 업무상 질병 관련 확인 자료; 상담·의뢰 시 현행 조문 확인 (확인일 2026-10-11)

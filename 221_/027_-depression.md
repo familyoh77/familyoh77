@@ -928,5 +928,5 @@ graph TD
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항우울제·증강 약제·esketamine의 적응증, 용량·연령 제한·안전성; 처방 시 최신 품목정보 조회
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 항우울제·증강 약제·esketamine의 적응증, 용량·연령 제한·안전성
 * [건강보험심사평가원. SSRI 등 항우울제 급여기준 관련 질의 및 응답. 고시 제2022-268호 관련 (2022-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201&mtgMtrRegSno=0011&sno=8) - 타 진료과의 우울증상에 대한 반복 처방·의뢰 조건; 개별 약제의 현행 급여 기준은 별도 확인 (확인일 2026-10-11)
