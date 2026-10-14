@@ -734,4 +734,4 @@ _\*비공 당 분무 횟수_\
 ### 허가·급여 확인 자료
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 보험인정기준 - 약제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000410) - LTRA·비강분무 복합제 등의 급여 범위 확인; 리알트리스 소아 급여 확대는 보건복지부 고시 제2026-42호(2026년 3월 1일 시행)에 반영. 처방 시 최신 급여기준 조회
+* [건강보험심사평가원. 보험인정기준 - 약제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000410) - LTRA·비강분무 복합제 등의 급여 범위 확인; 리알트리스 소아 급여 확대는 보건복지부 고시 제2026-42호(2026년 3월 1일 시행)에 반영
