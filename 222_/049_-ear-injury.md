@@ -2,7 +2,7 @@
 
 ***
 
-### <mark style="color:orange;">귀 손상 처치 - 절대 하면 안 되는 것</mark>
+### <mark style="color:orange;">귀 손상 처치 - 절대 금지</mark>
 
 <table data-search="false"><thead><tr><th width="352">금지 행위</th><th>이유</th></tr></thead><tbody><tr><td>원판(단추형) 배터리에 세척(irrigation) 시행</td><td>습기가 전기 화학 반응을 가속시켜 조직 괴사 급속 진행</td></tr><tr><td>고막 천공에 aminoglycoside 점이제 사용</td><td>내이 직접 노출 → 비가역적 감각신경성 난청</td></tr><tr><td>고막 상태·수술력을 확인하지 않은 채 세척 또는 곤충 제거용 액체 점이</td><td>천공 시 중이 감염, 심한 어지럼 유발</td></tr><tr><td>식물성 이물(콩·씨앗)에 세척</td><td>수분 흡수로 팽창 → 제거 더 어려워짐</td></tr><tr><td>이물 제거 실패 후 무리한 반복 시도¹⁾</td><td>외이도 부종 악화 → 이후 제거 더 어려워짐</td></tr><tr><td>dead space 제거 생략²⁾</td><td>dead space 잔존 → 높은 재발률 → cauliflower ear</td></tr><tr><td>귀 압력 손상 시 forceful Valsalva 반복</td><td>중이 과압 → 외림프 누공·고막 천공 위험</td></tr></tbody></table>
 
@@ -49,6 +49,27 @@
 ***
 
 ```mermaid
+flowchart TD
+    A([귀 외상 + 어지럼]) ---> R["안면마비·맑은 이루<br>·중증 두경부 외상<br>·신경학적 이상<br>·심한 보행곤란?"]
+    R --->|Yes| ER[즉시 응급실 / 이비인후과]
+    R --->|No| D["다이빙 관련 지속 어지럼<br>·안진·청력 저하?"]
+    D --->|Yes| Dive["•내이 압력 손상/감압병 감별<br>•감압병 의심 시 산소 투여<br>•잠수 치료 기관 응급 의뢰"]
+    D --->|No| B["갑작스러운 청력 저하 또는 <br>지속/심한 어지럼·자발안진?"]
+    B --->|Yes| ER
+    B --->|No| E["이경·음차 검사<br>경추 손상 없이 짧은 <br>체위성 어지럼만?"]
+    E --->|Yes| G["Dix–Hallpike 검사<br>양성 시 BPPV 치료"]
+    E --->|No| H["단순 고막 천공/<br>경증 중이 압력 손상 등 평가<br>원인 불명·증상 지속 시 <br>조기 전문 평가"]
+    H ---> K[외래 추적]
+    G ---> K
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style ER fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style Dive fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style G fill:#e8f8e8,stroke:#4caf50
+    style K fill:#d6eeff,stroke:#2196f3
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class R,D,B,E yellow
+    classDef pink fill:#fde8f0,stroke:#e91e8c
+    class H pink
 ```
 
 > _✽음차 검사는 선별 검사로, 정상 소견만으로 내이 손상·감압병을 배제하지 못함. HINTS는 자발안진을 동반한 급성 전정증후군에서 훈련된 검사자만 시행하며, 두경부 외상에서는 경추·혈관 손상 평가를 우선함. 경추 손상 의심 시 head impulse·Dix–Hallpike 등 목 움직임을 유발하는 검사는 시행하지 않음._
@@ -404,6 +425,29 @@
 ***
 
 ```mermaid
+flowchart TD
+    Start([외이도 이물 확인]) ---> Red["배터리<br>·날카로운 관통 이물<br>·심한 어지럼<br>·급격한 청력 저하?"]
+    Red --->|Yes| Urgent[즉시 이비인후과/응급실]
+    Red --->|No| Assess["이물 위치·재질<br>·고막 상태·수술력<br>시야와 환자 협조 확인"]
+    Assess --->|"깊은 매복<br>·고막 근접<br>·비협조"| Refer[전문 제거 의뢰<br>/진정 필요성 판단]
+    Assess --->|"안전한 시도 가능"| Type[이물별 방법 선택]
+    Type --->|곤충| TM["고막 정상<br>·환기관/중이 <br>수술력 없음?"]
+    TM --->|No<br>/미확인| Refer
+    TM --->|Yes| Insect["lidocaine 또는 <br>mineral oil <br>점이 후 제거"]
+    Type --->|식물성<br>·팽창성| Organic["세척 금지<br>직시하 적절한 <br>기구 선택"]
+    Type --->|기타| Other["모양에 따라 <br>포셉·흡인·후크<br>세척은 정상 고막+<br>적합한 이물만"]
+    Insect ---> Attempt[안전한 첫 제거 시도]
+    Organic ---> Attempt
+    Other ---> Attempt
+    Attempt ---> Result[제거 성공?]
+    Result --->|"실패<br>/출혈·통증 증가"| Refer
+    Result --->|Yes| Done[외이도·고막·청력 재평가<br>/손상에 따른 추적]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class Red,Assess,Type,TM,Result yellow
+    style Urgent fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style Refer fill:#ff6b6b,stroke:#c0392b,color:#fff
+    style Done fill:#d0e8ff,stroke:#1a6abf
 ```
 
 <p align="center"><strong>외이도 이물 처치 알고리듬</strong></p>
