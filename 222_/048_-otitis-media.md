@@ -186,9 +186,28 @@
 ***
 
 ```mermaid
+graph TD
+    Start(["삼출 중이염 OME 진단"]) --> Eval["각 귀의 청력·생활 영향<br/>·고막 상태 평가"]
+    Eval --> Risk["고위험 인자·구조 변화<br/>·중대한 생활 영향?*"]
+    Risk -- 있음 --> Early["조기 전문 평가 <br/>및 개별 치료"]
+    Risk -- 없음 --> Observe["청각 지원 및 약 3개월 관찰"]
+    Observe --> Review["고막·청력·기능 재평가"]
+    Review --> Gone["삼출액과 난청이 <br/>소실되었는가?"]
+    Gone -- 있음 --> End["보호자 교육; <br/>필요 시 추적"]
+    Gone -- 없음 --> Bilateral["양측 OME 3개월 이상 <br/>+ 청력 곤란?"]
+    Bilateral -- 있음 --> Offer["튜브 삽입 제안; <br/>청각기기 선택도 논의"]
+    Bilateral -- 없음 --> Tailor["편측/양측·난청·증상에 <br/>따라 개별 결정"]
+    Offer --> Follow["치료 후 청력 및 <br/>귀 상태 추적"]
+    Tailor --> Plan["관찰·청각기기·수술 중 <br/>적절한 선택"]
+    Plan --> Review
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class Eval,Observe,Offer,Tailor,Plan sky
+    classDef q fill:#fff9c4,stroke:#ffe082
+    class Risk,Gone,Bilateral q
 ```
 
-_1) 감각신경성 난청·교정 불가 시각 저하·다운증후군/두개안면기형·구개열·자폐증/발달 장애·언어/인지 기능 저하, 고막의 비가역적 변화 또는 난청으로 인한 중대한 생활 영향. 한쪽 귀의 난청도 기능에 영향을 줄 수 있어 좋은 쪽 역치만으로 결정하지 않음._
+> _\*감각신경성 난청·교정 불가 시각 저하·다운증후군/두개안면기형·구개열·자폐증/발달 장애·언어/인지 기능 저하, 고막의 비가역적 변화 또는 난청으로 인한 중대한 생활 영향. 한쪽 귀의 난청도 기능에 영향을 줄 수 있어 좋은 쪽 역치만으로 결정하지 않음._
 
 <p align="center"><strong>삼출 중이염 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AAO-HNSF 고막튜브 지침 2022; NICE NG233, 2023)</mark></em></p>
 
