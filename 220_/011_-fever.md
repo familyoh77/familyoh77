@@ -305,17 +305,22 @@ graph TD
 
 * 성인 속방형 : 500\~650 ㎎ q4\~6hr 또는 1,000 ㎎ q6hr; 모든 acetaminophen 함유 제품을 합산하여 일반 성인의 허용 최대 4 g/d. 반복·장기 사용에서는 3 g/d 이하를 보수적으로 권장하며, 간질환·만성 과음·영양불량·저체중 등 위험요인에서는 감량 고려
   * 650 ㎎ × 2정 q8hr; 최대 6정/d(3,900 ㎎), 12세 이상 <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark>; 씹거나 쪼개지 말고 그대로 삼킬 것
-* 소아 : 10\~15 ㎎/㎏ q4\~6hr, 최대 5회/d 및 75 ㎎/㎏/d; 국내 제품별 허가 연령 확인
-  * <mark style="color:blue;">\[세토펜 현탁액]</mark>(32 ㎎/㎖. 0.4 ㎖/㎏ qid 또는 1.5\~2 ㎖/㎏/d #4)
-    * 국내 허가 용량표는 생후 4개월부터 시작
+* 소아 : 10\~15 ㎎/㎏ q4\~6h PRN; 최대 5회/d 및 75 ㎎/㎏/d
+  * <mark style="color:blue;">\[세토펜 현탁액]</mark>(32 ㎎/㎖) : 1회 약 0.31\~0.47 ㎖/㎏; 실용적으로 0.4 ㎖/㎏/회
+  * 국내 허가 용량표는 생후 4개월부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시; 생후 ＜4개월에는 허가 용량이 없으므로 연령·체중·진단을 확인하여 개별 판단
 
 #### <mark style="color:$primary;">Ibuprofen</mark>
 
 * 성인 : 감기·발열에 200\~400 ㎎ tid\~qid; 연령·증상과 제품별 허가사항에 따라 조절 <mark style="color:blue;">\[부루펜]</mark>
-* 소아 : 일반적으로 5\~10 ㎎/㎏ q6\~8hr, 최대 40 ㎎/㎏/d
-  * <mark style="color:blue;">\[부루펜 시럽]</mark>(20 ㎎/㎖. 0.25\~0.5 ㎖/㎏ tid\~qid 또는 1.5 ㎖/㎏/d #3\~4)
-    * 국내 허가 용량표는 1세부터 제시. 만 2세 미만은 투여 전 전문가와 상담. 체중 30 ㎏ 미만 소아는 국내 허가사항상 1일 500 ㎎(25 ㎖)을 초과하지 않음
-* 탈수·섭취 저하, 신장질환 또는 심부전이 있으면 급성 신손상 위험에 주의
+* 소아 : \[국제 지침] 5\~10 ㎎/㎏ q6\~8h PRN; 최대 40 ㎎/㎏/d. 생후 ≥6개월에서 사용
+  * 20 ㎎/㎖ 제제로 환산 시 1회 0.25\~0.5 ㎖/㎏; 아래 국내 제품의 연령별 허가 용량과 구분
+  * <mark style="color:blue;">\[어린이부루펜시럽]</mark>(20 ㎎/㎖) 국내 허가 용량 : 아래 1회 용량을 1일 3\~4회 투여
+    * 1\~2세 : 1회 50\~100 ㎎(2.5\~5 ㎖); 최대 400 ㎎(20 ㎖)/d
+    * 3\~6세 : 1회 100\~150 ㎎(5\~7.5 ㎖); 최대 600 ㎎(30 ㎖)/d
+    * 7\~10세 : 1회 150\~200 ㎎(7.5\~10 ㎖); 최대 800 ㎎(40 ㎖)/d
+    * 11\~14세 : 1회 200\~250 ㎎(10\~12.5 ㎖); 최대 1,000 ㎎(50 ㎖)/d
+    * 국내 허가 용량표는 1세부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시
+* 탈수·섭취 저하, 신장질환 또는 심부전이 있으면 급성 신손상 위험에 주의하고 acetaminophen을 우선 고려
 
 #### <mark style="color:$primary;">Aspirin</mark>
 
@@ -422,7 +427,6 @@ graph TD
 
 * 열이 예상보다 오래 지속되거나 악화되거나, 수분 섭취 저하·지속되는 심한 통증·새로운 증상이 생기는 경우
 
-
 ***
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
@@ -432,7 +436,7 @@ graph TD
 * [Geneva II, et al. Normal Body Temperature: A Systematic Review. Open Forum Infect Dis. 2019;6(4):ofz032.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6456186/) - 측정 부위·연령 등에 따른 체온 차이와 정상 체온 해석
 * [NICE. Fever in under 5s: assessment and initial management. NICE guideline NG143. 2019; updated 2021.](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations) - 5세 미만 발열의 위험 분류·검사·해열제와 재진 안내
 * [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. 2023; updated May 27, 2026.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days) - 전신 상태가 양호한 90일 이하 발열 영아의 연령별 검사·치료·추적; 전신 상태 불량 영아와 구분 (확인일 2026-10-11)
-* [Dionisopoulos Z, et al. Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis. JAMA Pediatr. 2026;180(8):838-850.](https://doi.org/10.1001/jamapediatrics.2026.1815) - 60~90일 발열 영아의 균혈증·수막염 위험 추정과 연구 대상의 범위
+* [Dionisopoulos Z, et al. Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis. JAMA Pediatr. 2026;180(8):838-850.](https://doi.org/10.1001/jamapediatrics.2026.1815) - 60\~90일 발열 영아의 균혈증·수막염 위험 추정과 연구 대상의 범위
 * [O'Grady NP, et al. Society of Critical Care Medicine and the Infectious Diseases Society of America Guidelines for Evaluating New Fever in Adult Patients in the ICU. Crit Care Med. 2023;51(11):1570-1586.](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/) - 성인 ICU의 새로운 발열·체온 측정과 표적 검사; 일반 외래에 일괄 적용하지 않음
 * [Prescott HC, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54(4):725-812.](https://doi.org/10.1097/CCM.0000000000007075) - 성인 패혈증·패혈성 쇼크의 조기 인지·소생술·항균제와 체온 관리
 * [Wright WF, et al. State-of-the-Art Review: Contemporary Ambulatory Approach to Adult Fever of Unknown Origin. Clin Infect Dis. 2026;82(6):909-926.](https://doi.org/10.1093/cid/ciag158) - 성인 외래 불명열의 단계별 평가와 임상 단서에 따른 추가 검사
