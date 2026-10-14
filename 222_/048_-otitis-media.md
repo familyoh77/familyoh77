@@ -36,7 +36,7 @@
   * 효과 : PCV7 연구에서 저위험 영아의 전체 원인 AOM은 약 6% 상대 감소; 고위험군에서는 예방 효과가 확립되지 않음(상대 감소율 −5%, 95% CI −25%\~12%) \[Cochrane 2020]. 이 수치를 PCV20의 예방 효과로 적용하지 않으며, PCV20의 소아 AOM 특이 장기 데이터는 축적 중
 * [인플루엔자 백신](../231_/210_-vaccination.md#influenza) : 호흡기 질환 시즌 동안 influenza 관련 AOM 감소에 도움
 * [RSV 예방](../231_/210_-vaccination.md#rsv-respiratory-syncytial-virus) : 단일클론항체·모체면역 백신의 본래 목적은 영아 RSV 하기도질환 예방이며, AOM 예방 자체가 적응증은 아님
-  * nirsevimab은 관찰연구에서 AOM 및 항생제 노출 감소와의 연관성이 보고되었으나, 개인별 예방 효과를 확정한 무작위시험 결과는 아님 \[Eur J Pediatr 2026]. 이 결과를 clesrovimab·모체면역 백신에 동일하게 적용하지 않음
+  * nirsevimab 도입 후 영아 AOM 발생 감소와의 연관성이 관찰연구에서 보고됨. 항생제 사용 감소 가능성도 시사되나 해당 연구에서 직접 측정한 결과는 아니며, 개인별 예방 효과를 확정한 무작위시험 결과도 아님 \[Eur J Pediatr 2026]. 이 결과를 clesrovimab·모체면역 백신에 동일하게 적용하지 않음
 * Xylitol : 건강한 보육시설 이용 소아에서 상대위험 약 25% 감소가 보고되었으나, rAOM 소아·호흡기 감염 중 소아의 예방 효과는 확립되지 않음. 연구에서 잦은 투여가 필요했고 순응도 문제가 있어 일상적 권고는 제한적 \[Cochrane 2016]
 * Vitamin D : 일부 관찰연구에서 혈중 농도와 재발 위험의 연관성이 보고되었으나, AOM 예방만을 위한 일률적 보충 근거는 부족함
 * 예방적 항생제 : 내성균 발생 우려 크고 효과 미약 - 권고하지 않음
@@ -45,26 +45,26 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 두통, 고열, 구토, 의식 변화, 경부 강직 `뇌막염` `뇌농양` `경막외/하 농양`
-* 유두부종, 외전신경 마비(복시) 또는 안와 뒤 통증 `S상정맥동 혈전증` `추체첨부염`
-* 귀 뒤 발적·부종·파동, 이개의 전외방 돌출 `급성 유양돌기염` `골막하 농양`
-* 안면 마비 `안면신경 침범`
-* 자발 안진을 동반한 어지럼 또는 갑작스러운 심한 청력 저하 `미로염(내이염)`
-* 생후 ＜3개월 영아의 ≥38℃ 발열(특히 ＜28일 신생아) `패혈증` `심부 세균 감염`
+* 두통, 고열, 구토, 의식 변화, 경부 강직  `뇌막염`  `뇌농양`  `경막외/하 농양`
+* 유두부종, 외전신경 마비(복시) 또는 안와 뒤 통증  `S상정맥동 혈전증`  `추체첨부염`
+* 귀 뒤 발적·부종·파동, 이개의 전외방 돌출  `급성 유양돌기염`  `골막하 농양`
+* 안면 마비  `안면신경 침범`
+* 자발 안진을 동반한 어지럼 또는 갑작스러운 심한 청력 저하  `미로염(내이염)`
+* 생후 ＜3개월 영아의 ≥38℃ 발열(특히 ＜28일 신생아)  `패혈증`  `심부 세균 감염`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 귀 뒤 압통이 발적·부종 없이 지속되거나 악화 `초기 유양돌기염`
-* 적절한 항생제 치료 48\~72시간에도 호전 없거나 악화 `치료 실패` `내성균`
-* 면역 저하자 또는 와우 이식자의 AOM `중증 감염` `이식물 감염`
+* 귀 뒤 압통이 발적·부종 없이 지속되거나 악화  `초기 유양돌기염`
+* 적절한 항생제 치료 48\~72시간에도 호전 없거나 악화  `치료 실패`  `내성균`
+* 면역 저하자 또는 와우 이식자의 AOM  `중증 감염`  `이식물 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* AOM이 ≥3회/6개월 또는 ≥4회/1년 재발 `재발 중이염`
-* 6주 이상 지속되는 고막 천공 `지속 천공` `이루 동반 시 CSOM 평가`
-* 악취 이루가 지속되거나 고막에 진주색 덩어리가 보임 `진주종`
-* 삼출 중이염이 ≥3개월 지속, 또는 언어 지연·청력 저하 동반 `만성 OME`
-* 성인에서 편측으로 지속되는 삼출·청력 저하(흡연력·경부 림프절 종대·비출혈이 없어도 해당) `비인두 병변`
+* AOM이 ≥3회/6개월 또는 ≥4회/1년 재발  `재발 중이염`
+* 6주 이상 지속되는 고막 천공  `지속 천공`  `이루 동반 시 CSOM 평가`
+* 악취 이루가 지속되거나 고막에 진주색 덩어리가 보임  `진주종`
+* 삼출 중이염이 ≥3개월 지속, 또는 언어 지연·청력 저하 동반  `만성 OME`
+* 성인에서 편측으로 지속되는 삼출·청력 저하(흡연력·경부 림프절 종대·비출혈이 없어도 해당)  `비인두 병변`
 
 ***
 
@@ -165,14 +165,14 @@
 ## <mark style="color:green;">약물 치료</mark>
 
 * 항히스타민제, 코 울혈 제거제, 점액용해제 : 효과 없음 - 사용하지 않음
-* 전신 스테로이드 : 청력 개선 효과 없음 \[Lancet 2018] - 권고하지 않음
+* 전신 스테로이드 : 임상적으로 유의한 청력 개선 이득이 입증되지 않음 \[Lancet 2018] - 권고하지 않음
 * 비내 스테로이드 : OME 해소 효과 없음 - 권고하지 않음 (알레르기비염 동반 시 그 치료 목적으로는 사용 가능)
 * 항생제 : OME 자체를 치료하기 위한 사용은 권고하지 않음. 동반 AOM·세균성 부비동염 등 별도 감염이 확진되면 해당 질환의 항생제 적응증에 따라 치료
 
 ## <mark style="color:green;">수술</mark>
 
 * 일반적으로 3개월 경과 관찰 후 해당 시 고려
-  * 양측 OME가 ≥3개월 지속 + 청력 저하가 객관적으로 확인(documented hearing difficulties)된 경우 고막튜브삽입술 제안 \[AAO-HNSF 고막튜브 지침 2022]
+  * 양측 OME가 ≥3개월 지속 + 청력 저하가 객관적으로 확인(documented hearing difficulties)된 경우 고막튜브삽입술 제안 \[AAO-HNSF 2022]
     * 특정 ㏈ 수치보다 청력 저하의 실재 여부와 기능적 영향(언어·학업·행동)을 우선 고려
   * 편측 OME에서는 이환 기간, 청력 수준, 동반 증상, 보호자 선호도 고려
   * 고위험군·고막의 비가역적 변화 예측 시 조기 수술 고려
@@ -312,7 +312,7 @@ graph TD
   * 악화 시 조기 검사·의뢰
 * 측두골 CT : 치료 실패, 진주종·골미란·합병증 의심 시
   * 잔존·재발 진주종 의심 : non-EPI DWI를 포함한 MRI
-  * 두개 내 감염·정맥동혈전증 등 합병증 의심 : 조영증강 MRI 등 목적에 맞는 검사 구성 \[ESHNR 영상 권고, Eur Radiol 2025]
+  * 두개 내 감염·정맥동혈전증 등 합병증 의심 : 조영증강 MRI 등 목적에 맞는 검사 구성 \[Eur Radiol 2025] (ESHNR 영상 권고)
 
 ***
 
@@ -599,27 +599,27 @@ graph TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* Rosenfeld RM, et al. Clinical practice guideline: otitis media with effusion (update). Otolaryngol Head Neck Surg 2016;154(1 Suppl):S1-S41.
-* Rosenfeld RM, et al. Clinical practice guideline: tympanostomy tubes in children (update). Otolaryngol Head Neck Surg 2022;166(1 Suppl):S1-S55.
-* NICE. Otitis media with effusion in under 12s (NG233). 2023.
-* Lieberthal AS, et al. The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-e999.
-* Touska P, Connor SEJ. ESR Essentials: imaging of middle ear cholesteatoma—practice recommendations by the European Society of Head and Neck Radiology. Eur Radiol 2025;35:2053-2064. [doi:10.1007/s00330-024-11021-x](https://doi.org/10.1007/s00330-024-11021-x).
-* Hoberman A, et al. Tympanostomy tubes or medical management for recurrent acute otitis media. N Engl J Med 2021;384:1789-1799.
-* Francis NA, et al. Oral steroids for resolution of otitis media with effusion in children (OSTRICH). Lancet 2018;392:557-568.
-* Azarpazhooh A, et al. Xylitol for preventing acute otitis media in children up to 12 years of age. Cochrane Database Syst Rev 2016;8:CD007095.
-* de Sévaux JLH, et al. Pneumococcal conjugate vaccines for preventing acute otitis media in children. Cochrane Database Syst Rev 2020;11:CD001480. [doi:10.1002/14651858.CD001480.pub6](https://doi.org/10.1002/14651858.CD001480.pub6).
-* Webster KE, et al. Autoinflation for otitis media with effusion (OME) in children. Cochrane Database Syst Rev 2023;9:CD015253. [doi:10.1002/14651858.CD015253.pub2](https://doi.org/10.1002/14651858.CD015253.pub2).
-* Bhutta MF, et al. Aural toilet (ear cleaning) for chronic suppurative otitis media. Cochrane Database Syst Rev 2025;6:CD013057. [doi:10.1002/14651858.CD013057.pub3](https://doi.org/10.1002/14651858.CD013057.pub3).
-* Head K, et al. Antibiotics versus topical antiseptics for chronic suppurative otitis media. Cochrane Database Syst Rev 2025;6:CD013056. [doi:10.1002/14651858.CD013056.pub3](https://doi.org/10.1002/14651858.CD013056.pub3).
-* Chong LY, et al. Topical versus systemic antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev 2025;6:CD013053. [doi:10.1002/14651858.CD013053.pub3](https://doi.org/10.1002/14651858.CD013053.pub3).
-* Chong LY, et al. Systemic antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev 2025;6:CD013052. [doi:10.1002/14651858.CD013052.pub3](https://doi.org/10.1002/14651858.CD013052.pub3).
-* Brennan-Jones CG, et al. Topical antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev 2025;6:CD013051. [doi:10.1002/14651858.CD013051.pub3](https://doi.org/10.1002/14651858.CD013051.pub3).
-* Leskinen N, Renko M, Kuitunen I. Nirsevimab reduced acute otitis media infections in infants—a nationwide interrupted time-series analysis. Eur J Pediatr 2026;185:827. [doi:10.1007/s00431-026-07508-y](https://doi.org/10.1007/s00431-026-07508-y).
+* \[AAO-HNSF 2016] [Rosenfeld RM, et al. Clinical practice guideline: otitis media with effusion (update). Otolaryngol Head Neck Surg. 2016;154(1 Suppl):S1-S41.](https://doi.org/10.1177/0194599815623467) - OME의 진단·청력 검사·관찰 기간과 고위험군
+* \[NICE 2023] [NICE. Otitis media with effusion in under 12s. NICE guideline NG233. 2023.](https://www.nice.org.uk/guidance/ng233) - 초기 청력 평가·3개월 재평가, 청각기기·자가통기와 튜브·아데노이드 수술
+* \[AAO-HNSF 2022] [Rosenfeld RM, et al. Clinical practice guideline: tympanostomy tubes in children (update). Otolaryngol Head Neck Surg. 2022;166(1 Suppl):S1-S55.](https://doi.org/10.1177/01945998211065662) - 튜브 삽입 적응증(OME·rAOM), 아데노이드 병행, 튜브 이루의 국소 항생제와 추적·재삽입
+* \[AAP 2013] [Lieberthal AS, et al. The diagnosis and management of acute otitis media. Pediatrics. 2013;131(3):e964-e999.](https://doi.org/10.1542/peds.2012-3488) - rAOM 정의와 AOM 진단·치료 기준
+* \[NEJM 2021] [Hoberman A, et al. Tympanostomy Tubes or Medical Management for Recurrent Acute Otitis Media. N Engl J Med. 2021;384(19):1789-1799.](https://doi.org/10.1056/NEJMoa2027278) - 6~35개월 rAOM에서 튜브 삽입과 약물 치료의 2년 AOM 발생률 비교
+* \[Lancet 2018] [Francis NA, et al. Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial. Lancet. 2018;392(10147):557-568.](https://doi.org/10.1016/S0140-6736(18)31490-9) - 경구 스테로이드의 OME 청력 개선 이득이 입증되지 않음
+* \[Cochrane 2023] [Webster KE, et al. Autoinflation for otitis media with effusion (OME) in children. Cochrane Database Syst Rev. 2023;9:CD015253.](https://doi.org/10.1002/14651858.CD015253.pub2) - 자가통기의 단기 OME·삶의 질 효과와 청력 근거의 불확실성
+* \[Cochrane 2020] [de Sévaux JLH, et al. Pneumococcal conjugate vaccines for preventing acute otitis media in children. Cochrane Database Syst Rev. 2020;11:CD001480.](https://doi.org/10.1002/14651858.CD001480.pub6) - PCV의 저위험·고위험 영아 AOM 예방 효과
+* \[Cochrane 2016] [Azarpazhooh A, et al. Xylitol for preventing acute otitis media in children up to 12 years of age. Cochrane Database Syst Rev. 2016;8:CD007095.](https://doi.org/10.1002/14651858.CD007095.pub3) - 보육시설 소아의 xylitol 예방 효과와 순응도 한계
+* \[Eur J Pediatr 2026] [Leskinen N, Renko M, Kuitunen I. Nirsevimab reduced acute otitis media infections in infants - a nationwide interrupted time-series analysis. Eur J Pediatr. 2026;185:827.](https://doi.org/10.1007/s00431-026-07508-y) - nirsevimab 도입 후 영아 AOM 발생 감소의 관찰 자료
+* \[Eur Radiol 2025] [Touska P, Connor SEJ. ESR Essentials: imaging of middle ear cholesteatoma - practice recommendations by the European Society of Head and Neck Radiology. Eur Radiol. 2025;35:2053-2064.](https://doi.org/10.1007/s00330-024-11021-x) - ESHNR 영상 권고; 진주종 CT·non-EPI DWI MRI와 합병증 영상
+* \[Cochrane 2025] [Bhutta MF, et al. Aural toilet (ear cleaning) for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013057.](https://doi.org/10.1002/14651858.CD013057.pub3) - 귀 청소 단독 효과의 불확실성
+* \[Cochrane 2025] [Head K, et al. Antibiotics versus topical antiseptics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013056.](https://doi.org/10.1002/14651858.CD013056.pub3) - 퀴놀론 점이액과 국소 살균제의 비교
+* \[Cochrane 2025] [Chong LY, et al. Topical versus systemic antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013053.](https://doi.org/10.1002/14651858.CD013053.pub3) - 국소·전신 항생제의 단기 이루 소실 비교
+* \[Cochrane 2025] [Chong LY, et al. Systemic antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013052.](https://doi.org/10.1002/14651858.CD013052.pub3) - 국소 치료에 전신 항생제를 추가하는 이득
+* \[Cochrane 2025] [Brennan-Jones CG, et al. Topical antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013051.](https://doi.org/10.1002/14651858.CD013051.pub3) - 국소 항생제 간 비교와 근거 확실성
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 질병관리청. 폐렴구균 단백결합 백신(PCV20) 국가예방접종 도입 안내. 2025.
-* 식품의약품안전처. 아브리스보 품목허가. 2026.
-* 약학정보원 의약품 정보 : 에펙신이용액, 세트락살플러스점이액, 씨프로바이
-* 한국표준질병·사인분류(KCD-9). 2026.
-* DailyMed. Ofloxacin otic solution 0.3%: 미국 허가사항의 용법·용량(1\~12세 튜브 동반 AOM: 5방울 bid ×10일; ≥12세 CSOM: 10방울 bid ×14일). [제품 허가정보](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5f1c5541-4492-4736-bb60-0b1a654b9cd4\&type=display). 국내 제제의 허가 용법과 구분하여 적용.
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 에펙신이용액(중이염 허가·표준 기간 4주)·세트락살플러스점이액(정상 고막 급성 외이염 한정)·씨프로바이·아브리스보(RSV 모체면역)의 허가사항; 처방 시 최신 품목정보 조회
+* [약학정보원. 의약품 정보.](https://www.health.kr/) - 에펙신이용액, 세트락살플러스점이액, 씨프로바이 제품 정보
+* \[DailyMed] [DailyMed. Ofloxacin otic solution 0.3%: Prescribing Information.](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5f1c5541-4492-4736-bb60-0b1a654b9cd4&type=display) - 미국 허가 용법(1~12세 튜브 동반 AOM: 5방울 bid ×10일; ≥12세 CSOM: 10방울 bid ×14일); 국내 제제의 허가 용법과 구분하여 적용 (확인일 2026-10-14)
+* [질병관리청. 어린이 폐렴구균 국가예방접종, 10월 1일부터 신규 백신으로 접종 시작. 보도자료. 2025-10-01.](https://www.kdca.go.kr/bbs/kdca/42/240634/download.do) - PCV20 NIP 도입과 교차접종 원칙
+* [통계청. 제9차 한국표준질병·사인분류(KCD-9) 개정 고시. 통계청고시 제2025-299호.](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000260878) - 질병코드 확인 (확인일 2026-10-14)
