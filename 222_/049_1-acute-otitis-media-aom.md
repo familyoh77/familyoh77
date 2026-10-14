@@ -11,8 +11,8 @@
 * 바이러스 : rhinovirus, RSV; 중이염 감염의 15\~44% 차지
   * 세균과 바이러스가 함께 검출되는 경우가 흔함
 * 세균 : _S. pneumoniae_, 비피막형 _H. influenzae_, _M. catarrhalis_
-  * PCV 도입 이후 _H. influenzae_의 비중이 증가하여 _S. pneumoniae_와 비슷하거나 더 높게 보고됨
-  * _H. influenzae_·_M. catarrhalis_의 상당수가 β-lactamase를 생성 - amox-clav 적응증 판단의 근거
+  * PCV 도입 이후 \_H. influenzae\_의 비중이 증가하여 \_S. pneumoniae\_와 비슷하거나 더 높게 보고됨
+  * _H. influenzae_·\_M. catarrhalis\_의 상당수가 β-lactamase를 생성 - amox-clav 적응증 판단의 근거
 * 무균성
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -106,7 +106,6 @@ graph TD
 <table><thead><tr><th width="139">상황 / 이루 양상</th><th width="148">먼저 생각할 진단</th><th width="188">진단적 단서</th><th>치료 방향</th></tr></thead><tbody><tr><td>급성 화농성, 통증 후 배출</td><td>AOM의 자연 고막 천공</td><td>선행 상기도 감염; 배출 후 통증 호전</td><td>AOM 기준의 경구 항생제; 귀 청결·건조 유지. 점이액만으로 경구제를 일률적으로 대체하지 않으며, 경구제에 점이 항생제를 routine으로 추가하지 않음</td></tr><tr><td>고막튜브를 통한 급성 이루</td><td>급성 튜브 이루</td><td>튜브 확인; 통증이 없거나 경미할 수 있음</td><td>합병증 없으면 적절한 국소 항생제 단독; 전신제는 선택적으로 사용</td></tr><tr><td>만성 화농성·악취</td><td>CSOM ± cholesteatoma</td><td>고막 천공; 반복·지속 이루; 폴립·진주색 병변</td><td>귀 청소·국소 항생제, 청력 평가; 무반응 시 배양·의뢰. 진주종·합병증 의심 시 영상검사</td></tr><tr><td>맑은 물 같은 이루</td><td>천공·튜브·외이도 병변; CSF 누출 감별</td><td>고막 상태; 두부 외상·수술력; 지속적 물 같은 분비물</td><td>원인 평가. CSF 의심 시 이비인후과 평가, β₂-transferrin 등 검사 및 측두골 CT 고려. 고막이 온전한 OME·ETD는 외이도 이루를 만들지 않음</td></tr><tr><td>혈성 또는 지속 혈청성</td><td>외상·육아조직·종양</td><td>외상력; 종괴; 안면신경 증상</td><td>청력 검사·의뢰; 병변에 따라 측두골 CT/MRI (☞ [귀손상](049_-ear-injury.md#traumatic-tm-perforation))</td></tr><tr><td>박동성 이명 + 고막 뒤 혈관성 종괴</td><td>사구종양 / 혈관성 병변</td><td>편측 박동성 이명; 청력 저하; 혈관성 종괴</td><td>이비인후과 의뢰 및 CT/MRI; 이루의 박동성만으로 종양을 판단하지 않음</td></tr></tbody></table>
 
 * 소아·청소년 자연 천공 AOM에서 경구 항생제에 국소 항생제를 일률적으로 추가하는 것은 권고하지 않음(근거 수준 매우 낮음·전문가 의견) \[이탈리아 다학회 합의문 2025]. 고막튜브 이루와 구분; 성인에 대한 직접 근거로 확대하지 않음
-
 * 중이 결핵 : 만성 난치성 이루·결핵 위험요인 등 임상 맥락에서 감별; 분비물이 맑다는 이유만으로 결핵 검사·치료를 결정하지 않음 (☞ [결핵](../223_/070_-tuberculosis.md))
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (AOM 치료 : Lieberthal AS 2013 Pediatrics; 튜브 이루 치료 : AAO-HNSF 고막튜브 지침 2022)</mark></em></p>
@@ -165,13 +164,13 @@ graph TD
 
 * AOM의 이통은 항생제 투여 여부와 관계없이 적극적으로 조절
 * 통증이 심한 초기 2\~3일은 규칙적으로 투여; 외부 온열 치료(예: 적외선 램프)는 통증 완화에 약간의 효과 기대
-* acetaminophen &#x20;
+* acetaminophen
   * 성인 : 500\~1,000 ㎎ q4\~6h PRN
     * 모든 acetaminophen 함유 제품을 합산하여 최대 4 g/d <mark style="color:blue;">\[타이레놀]</mark>
   * 소아 : 10\~15 ㎎/㎏ q4\~6h PRN; 최대 5회/d 및 75 ㎎/㎏/d
     * <mark style="color:blue;">\[세토펜]</mark>(32 ㎎/㎖) : 1회 약 0.31\~0.47 ㎖/㎏; 실용적으로 0.4 ㎖/㎏/회
       * 국내 허가 용량표는 생후 4개월부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시; 생후 ＜4개월에는 허가 용량이 없으므로 연령·체중·진단을 확인하여 개별 판단
-* ibuprofen&#x20;
+* ibuprofen
   * 성인 400 ㎎ q6h PRN <mark style="color:blue;">\[부루펜]</mark>
   * 소아 체중 기준 용량(국제 지침) : 5\~10 ㎎/㎏ q6\~8h PRN; 최대 40 ㎎/㎏/d. 일반적으로 생후 ≥6개월에서 사용
     * 20 ㎎/㎖ 제제로 환산 시 1회 0.25\~0.5 ㎖/㎏; 아래 국내 제품의 연령별 허가 용량과 구분
@@ -227,7 +226,7 @@ graph TD
 
 **Amoxicillin/Clavulanate** <mark style="color:blue;">\[오구멘틴]</mark>
 
-* 대상 : ① 최근 30일 내 amoxicillin 복용, ② otitis-conjunctivitis syndrome(농성 결막염 동반), ③ amoxicillin에 반응하지 않았던 재발성 AOM, ④ amoxicillin 초치료 실패&#x20;
+* 대상 : ① 최근 30일 내 amoxicillin 복용, ② otitis-conjunctivitis syndrome(농성 결막염 동반), ③ amoxicillin에 반응하지 않았던 재발성 AOM, ④ amoxicillin 초치료 실패
   * \[AAP] 중증만으로 amox-clav를 필수 선택하지 않음; \[국내 2014 지침] 중증 초치료에 권고
 * 부작용 : 설사 (probiotics 병용으로 약간의 완화 기대)
 * 용법 : Amox 기준 (80\~)90 ㎎/㎏/d #2
@@ -253,13 +252,13 @@ graph TD
 * ceftriaxone : 50 ㎎/㎏(최대 1 g) IM/IV 1회(초치료) 또는 ×3d(치료 실패) <mark style="color:blue;">\[트리악손]</mark>
   * 대상 : 경구제 투여 불가, 경구 치료 실패, 저항성 _S. pneumoniae_ 감염
 * azithromycin : 10 ㎎/㎏/d qd ×1d + 5 ㎎/㎏/d ×4d <mark style="color:blue;">\[지스로맥스]</mark>
-  * 국내 _S. pneumoniae_의 macrolide 내성이 높으며, 수치는 조사 연도·검체·대상군에 따라 다름
+  * 국내 \_S. pneumoniae\_의 macrolide 내성이 높으며, 수치는 조사 연도·검체·대상군에 따라 다름
   * cephalosporin을 사용할 수 없는 경우에 한해 최후 수단으로 고려
   * 가급적 cephalosporin을 우선 선택
-* clindamycin : 소아 30\~40 ㎎/㎏/d #3, 성인 150\~300 ㎎ qid <mark style="color:blue;">\[훌그램]</mark>&#x20;
+* clindamycin : 소아 30\~40 ㎎/㎏/d #3, 성인 150\~300 ㎎ qid <mark style="color:blue;">\[훌그램]</mark>
   * _H. influenzae_·_M. catarrhalis_ 미커버(필요시 3세대 cephalosporin 병용)
   * macrolide 내성균에서 clindamycin 교차내성이 있을 수 있어 감수성 확인 필요
-* clarithromycin : 15 ㎎/㎏/d #2 ×5\~7d (성인 250\~500 ㎎ bid) <mark style="color:blue;">\[클래리시드]</mark>&#x20;
+* clarithromycin : 15 ㎎/㎏/d #2 ×5\~7d (성인 250\~500 ㎎ bid) <mark style="color:blue;">\[클래리시드]</mark>
   * azithromycin과 같은 macrolide 내성 문제
   * cephalosporin 사용 불가 시 제한적으로 고려
 * levofloxacin : 국내 AOM 허가외 사용. 예: 500 ㎎ qd ×5\~7d <mark style="color:blue;">\[크라비트]</mark>
@@ -501,7 +500,7 @@ class ABX,ABX2,ESC,OBS sky
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-**진료 지침**
+### <mark style="color:orange;">임상 근거</mark>
 
 * Lieberthal AS, et al. The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-e999.
 * 대한이과학회. 유소아 중이염 진료지침. 2014.
@@ -510,14 +509,11 @@ class ABX,ABX2,ESC,OBS sky
 * Rosenfeld RM, et al. Clinical practice guideline: tympanostomy tubes in children (update). Otolaryngol Head Neck Surg 2022;166(1 Suppl):S1-S55.
 * Khan DA, et al. Drug allergy: a 2022 practice parameter update. J Allergy Clin Immunol 2022;150(6):1333-1393.
 * Castelli Gattinara G, et al. Antibiotic treatment of acute and recurrent otitis media in children: an Italian intersociety Consensus. Ital J Pediatr 2025;51:50. doi:10.1186/s13052-025-01894-z.
-
-**임상 연구·체계적 고찰**
-
 * Hoberman A, et al. Shortened antimicrobial treatment for acute otitis media in young children. N Engl J Med 2016;375:2446-2456.
 * Venekamp RP, Sanders SL, Glasziou PP, Rovers MM. Antibiotics for acute otitis media in children. Cochrane Database Syst Rev 2023;11:CD000219. doi:10.1002/14651858.CD000219.pub5.
 * de Sévaux JLH, et al. Paracetamol (acetaminophen) or non-steroidal anti-inflammatory drugs, alone or combined, for pain relief in acute otitis media in children. Cochrane Database Syst Rev 2023;8:CD011534. doi:10.1002/14651858.CD011534.pub3.
 
-**국내 확인 자료**
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * 식품의약품안전처 의약품안전나라 : 어린이부루펜시럽(품목기준코드 198601920)의 연령별 1회 용량·1일 최대 용량 및 사용상의 주의사항
 * 약학정보원 의약품 정보 : 아모크라네오시럽(14:1), 바난시럽, 세토펜현탁액, 어린이부루펜시럽, 에펙신이용액, 세트락살플러스점이액
