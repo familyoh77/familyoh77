@@ -7,7 +7,7 @@
 <table data-search="false"><thead><tr><th width="352">금지 행위</th><th>이유</th></tr></thead><tbody><tr><td>원판(단추형) 배터리에 세척(irrigation) 시행</td><td>습기가 전기 화학 반응을 가속시켜 조직 괴사 급속 진행</td></tr><tr><td>고막 천공에 aminoglycoside 점이제 사용</td><td>내이 직접 노출 → 비가역적 감각신경성 난청</td></tr><tr><td>고막 상태·수술력을 확인하지 않은 채 세척 또는 곤충 제거용 액체 점이</td><td>천공 시 중이 감염, 심한 어지럼 유발</td></tr><tr><td>식물성 이물(콩·씨앗)에 세척</td><td>수분 흡수로 팽창 → 제거 더 어려워짐</td></tr><tr><td>이물 제거 실패 후 무리한 반복 시도¹⁾</td><td>외이도 부종 악화 → 이후 제거 더 어려워짐</td></tr><tr><td>dead space 제거 생략²⁾</td><td>dead space 잔존 → 높은 재발률 → cauliflower ear</td></tr><tr><td>귀 압력 손상 시 forceful Valsalva 반복</td><td>중이 과압 → 외림프 누공·고막 천공 위험</td></tr></tbody></table>
 
 > _¹⁾특히 소아는 첫 시도 실패 후 의뢰_\
-> _²⁾이개혈종 배액 후 압박 고정·quilting 봉합 등 dead space 제거 필수_
+> _&#xB2;⁾이개혈종 배액 후 압박 고정·quilting 봉합 등 dead space 제거 필수_
 
 ### <mark style="color:orange;">폭행·사고 관련 의심 시 기록</mark>
 
@@ -31,7 +31,7 @@
 
 ### <mark style="color:orange;">어지럼증 동반 귀 외상 응급 감별</mark>
 
-#### <mark style="color:$primary;">문진 핵심 질문</mark>
+#### <mark style="color:$primary;">핵심 질문</mark>
 
 1. 소리가 갑자기 안 들립니까? (내이 손상)
 2. 귀에서 피가 났습니까? (고막 천공, 측두골 골절)
@@ -39,7 +39,7 @@
 4. 코를 풀거나 힘줄 때 어지럼이 더 심해집니까? (외림프 누공)
 5. 머리를 특정 방향으로 돌릴 때만 빙빙 돕니까? (외상 후 BPPV)
 
-<table data-search="false"><thead><tr><th>진단</th><th>대표 병력</th><th>핵심 증상</th><th>청력 변화</th><th>특징적 단서</th><th>응급도</th></tr></thead><tbody><tr><td><strong>외림프 누공 (PLF)</strong></td><td>다이빙, 압력 손상, blast, slap injury</td><td>vertigo + 오심 + 불균형</td><td>다양</td><td>Valsalva·압력 시 악화</td><td>즉시 의뢰</td></tr><tr><td><strong>Labyrinthine concussion</strong></td><td>둔기 두부 외상, 폭행, 낙상</td><td>dizziness + 불균형</td><td>다양 (SNHL 가능)</td><td>영상·이경 검사상 뚜렷한 구조 손상 없이도 발생 가능</td><td>즉시 의뢰</td></tr><tr><td><strong>측두골 골절</strong></td><td>주요 두부 외상</td><td>vertigo + 출혈</td><td>흔함 </td><td>facial palsy, Battle sign, hemotympanum</td><td>즉시 의뢰</td></tr><tr><td><strong>CSF leak</strong></td><td>두개골 외상</td><td>어지럼 + 맑은 이루</td><td>다양</td><td>halo sign(특이도 낮음); 확진은 β2-transferrin</td><td>즉시 의뢰</td></tr><tr><td><strong>내이 감압병 (Inner-ear DCS)</strong></td><td>다이빙(특히 상승 중·직후)</td><td>vertigo ± SNHL</td><td>다양</td><td>잠수 프로파일 이상(급상승·감압 절차 미준수); PLF와 감별 어려움</td><td>즉시 의뢰 (HBOT)</td></tr><tr><td><strong>경추 손상·추골동맥 박리 / 뇌손상 (중추성)</strong></td><td>두경부 외상</td><td>어지럼 + 경부통·신경학적 이상</td><td>없음</td><td>경부통, 보행 곤란, 운동·감각 이상; 경추·혈관 손상 평가 우선</td><td>즉시 의뢰</td></tr><tr><td><strong>급성 음향 외상</strong></td><td>폭발음, 사격</td><td>이명 + 청력 저하 (어지럼 드묾, blast 동반 시 가능)</td><td>있음 (SNHL)</td><td>이경 검사 정상 가능</td><td>당일 청력검사·ENT 평가; 스테로이드 적응증 판단</td></tr><tr><td><strong>외상성 고막 천공 (단순)</strong></td><td>slap injury, 면봉</td><td>짧은 어지럼 가능; 지속·심한 어지럼은 내이 손상 평가</td><td>경미 (전음성)</td><td>통증 → 출혈</td><td>외래 가능</td></tr><tr><td><strong>귀 압력 손상 (mild)</strong></td><td>비행 하강, 다이빙</td><td>이충만감 + 경미한 어지럼</td><td>경미 (전음성)</td><td>popping sensation</td><td>경과 관찰</td></tr><tr><td><strong>외상 후 BPPV</strong></td><td>두부 외상 후 수일</td><td>체위 변화 시 회전성 어지럼</td><td>없음</td><td>경추 손상 배제 후 Dix-Hallpike 양성</td><td>외래 가능</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>진단</th><th>대표 병력</th><th>핵심 증상</th><th>청력 변화</th><th>특징적 단서</th><th>응급도</th></tr></thead><tbody><tr><td><strong>외림프 누공 (PLF)</strong></td><td>다이빙, 압력 손상, blast, slap injury</td><td>vertigo + 오심 + 불균형</td><td>다양</td><td>Valsalva·압력 시 악화</td><td>즉시 의뢰</td></tr><tr><td><strong>Labyrinthine concussion</strong></td><td>둔기 두부 외상, 폭행, 낙상</td><td>dizziness + 불균형</td><td>다양 (SNHL 가능)</td><td>영상·이경 검사상 뚜렷한 구조 손상 없이도 발생 가능</td><td>즉시 의뢰</td></tr><tr><td><strong>측두골 골절</strong></td><td>주요 두부 외상</td><td>vertigo + 출혈</td><td>흔함</td><td>facial palsy, Battle sign, hemotympanum</td><td>즉시 의뢰</td></tr><tr><td><strong>CSF leak</strong></td><td>두개골 외상</td><td>어지럼 + 맑은 이루</td><td>다양</td><td>halo sign(특이도 낮음); 확진은 β2-transferrin</td><td>즉시 의뢰</td></tr><tr><td><strong>내이 감압병 (Inner-ear DCS)</strong></td><td>다이빙(특히 상승 중·직후)</td><td>vertigo ± SNHL</td><td>다양</td><td>잠수 프로파일 이상(급상승·감압 절차 미준수); PLF와 감별 어려움</td><td>즉시 의뢰 (HBOT)</td></tr><tr><td><strong>경추 손상·추골동맥 박리 / 뇌손상 (중추성)</strong></td><td>두경부 외상</td><td>어지럼 + 경부통·신경학적 이상</td><td>없음</td><td>경부통, 보행 곤란, 운동·감각 이상; 경추·혈관 손상 평가 우선</td><td>즉시 의뢰</td></tr><tr><td><strong>급성 음향 외상</strong></td><td>폭발음, 사격</td><td>이명 + 청력 저하 (어지럼 드묾, blast 동반 시 가능)</td><td>있음 (SNHL)</td><td>이경 검사 정상 가능</td><td>당일 청력검사·ENT 평가; 스테로이드 적응증 판단</td></tr><tr><td><strong>외상성 고막 천공 (단순)</strong></td><td>slap injury, 면봉</td><td>짧은 어지럼 가능; 지속·심한 어지럼은 내이 손상 평가</td><td>경미 (전음성)</td><td>통증 → 출혈</td><td>외래 가능</td></tr><tr><td><strong>귀 압력 손상 (mild)</strong></td><td>비행 하강, 다이빙</td><td>이충만감 + 경미한 어지럼</td><td>경미 (전음성)</td><td>popping sensation</td><td>경과 관찰</td></tr><tr><td><strong>외상 후 BPPV</strong></td><td>두부 외상 후 수일</td><td>체위 변화 시 회전성 어지럼</td><td>없음</td><td>경추 손상 배제 후 Dix-Hallpike 양성</td><td>외래 가능</td></tr></tbody></table>
 
 ***
 
@@ -75,8 +75,6 @@ flowchart TD
 
 ## ■ 이개혈종 Otohematoma
 
-
-
 * 귓바퀴 연골막과 연골 사이에 혈액이 고인 상태; 둔상·마찰에 의해 발생
 * 스포츠(권투·레슬링·유도·럭비) 또는 귀 외상 후 흔함
 * 합병증 : 치료하지 않으면 섬유화·연골 괴사 → 영구적 변형(cauliflower ear) 발생
@@ -85,16 +83,16 @@ flowchart TD
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 극심한 통증, 발열, 귀 전체 발적·부종·열감  `연골막염`  `이개 농양`
+* 극심한 통증, 발열, 귀 전체 발적·부종·열감 `연골막염` `이개 농양`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 크거나(＞2 ㎝) 단단하게 굳기 시작한 혈종  `조직화 혈종`
-* 배액·압박 후 재발 또는 반복 재발  `연골 손상`  `압박 고정 실패`
+* 크거나(＞2 ㎝) 단단하게 굳기 시작한 혈종 `조직화 혈종`
+* 배액·압박 후 재발 또는 반복 재발 `연골 손상` `압박 고정 실패`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 압박 고정 제거 후 귓바퀴가 두꺼워지거나 윤곽이 무뎌짐  `초기 cauliflower ear`  `연골 섬유화`
+* 압박 고정 제거 후 귓바퀴가 두꺼워지거나 윤곽이 무뎌짐 `초기 cauliflower ear` `연골 섬유화`
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -198,7 +196,7 @@ flowchart TD
 
 * **압박 붕대를 스스로 풀거나 만지지 마십시오.**
 * 다시 부풀어 오르거나 통증·발열이 심해지면 바로 병원에 오십시오.
-* 같은 운동을 계속한다면 **귓바퀴 보호대(headgear)**를 착용하여 재발을 예방하십시오.
+* 같은 운동을 계속한다면 \*\*귓바퀴 보호대(headgear)\*\*를 착용하여 재발을 예방하십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
@@ -210,8 +208,6 @@ flowchart TD
 
 ## ■ 이개 열상 Auricular Laceration
 
-
-
 * 귓바퀴 연골은 혈관이 없어 덮고 있는 피부·연골막에서 영양을 공급받으므로, 연골이 노출된 채 방치되면 연골막염·연골 괴사로 진행할 수 있음
 * 원인 : 날카로운 물체에 의한 열상, 둔상, 사람·동물 물림, 귀걸이에 의한 귓불 찢김
 * 열상과 함께 피하 혈종이 생기면 이개혈종과 같은 원칙으로 관리
@@ -220,22 +216,22 @@ flowchart TD
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 귓바퀴의 절단 또는 광범위한 결손  `이개 절단`
-* 광범위한 연골 손상·결손을 동반한 복합 열상  `복합 이개 열상`
-* 극심한 통증, 발열, 귀 전체 발적·부종·열감  `연골막염`
+* 귓바퀴의 절단 또는 광범위한 결손 `이개 절단`
+* 광범위한 연골 손상·결손을 동반한 복합 열상 `복합 이개 열상`
+* 극심한 통증, 발열, 귀 전체 발적·부종·열감 `연골막염`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 사람·동물 물림에 의한 열상  `물림 손상`
-* 외이도까지 침범한 열상  `외이도 열상`  `외이도 협착`
-* 열상 부위의 피하 혈종  `이개혈종`
-* 봉합 부위의 발적·부종·통증이 점점 심해짐  `상처 감염`
-* 봉합 부위가 벌어지거나 연골이 다시 드러남  `상처 열개`
+* 사람·동물 물림에 의한 열상 `물림 손상`
+* 외이도까지 침범한 열상 `외이도 열상` `외이도 협착`
+* 열상 부위의 피하 혈종 `이개혈종`
+* 봉합 부위의 발적·부종·통증이 점점 심해짐 `상처 감염`
+* 봉합 부위가 벌어지거나 연골이 다시 드러남 `상처 열개`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 상처 치유 후 귓바퀴 윤곽 변형·두꺼워짐  `연골 변형`
-* 봉합 부위가 점점 솟아오르며 커짐 (특히 귓불)  `켈로이드`
+* 상처 치유 후 귓바퀴 윤곽 변형·두꺼워짐 `연골 변형`
+* 봉합 부위가 점점 솟아오르며 커짐 (특히 귓불) `켈로이드`
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -339,21 +335,21 @@ flowchart TD
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 원판(단추형) 배터리  `알칼리 액화 괴사`
-* 바늘, 깨진 유리 조각 등 날카로운 이물  `외이도·고막 관통 손상`
-* 구역·구토, 안진, 심한 어지럼, 청력 급감  `중이·내이 손상`
-* 심한 통증, 외이도 부종  `외이도 손상`
+* 원판(단추형) 배터리 `알칼리 액화 괴사`
+* 바늘, 깨진 유리 조각 등 날카로운 이물 `외이도·고막 관통 손상`
+* 구역·구토, 안진, 심한 어지럼, 청력 급감 `중이·내이 손상`
+* 심한 통증, 외이도 부종 `외이도 손상`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 첫 제거 시도 실패(특히 소아) 또는 이전 제거 시도 실패 전력  `외이도 부종 악화`
-* 이물 제거 후 확인된 고막·외이도 손상  `외상성 고막 천공`  `외이도 열상`
-* 협조가 어려운 소아의 깊은 이물  `외이도·고막 손상`
+* 첫 제거 시도 실패(특히 소아) 또는 이전 제거 시도 실패 전력 `외이도 부종 악화`
+* 이물 제거 후 확인된 고막·외이도 손상 `외상성 고막 천공` `외이도 열상`
+* 협조가 어려운 소아의 깊은 이물 `외이도·고막 손상`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 이물 제거 후 통증·분비물 지속  `이차 감염`  `외이염`
-* 이물 제거 후 반대쪽 귀 또는 코의 악취 분비물  `동반 이물`
+* 이물 제거 후 통증·분비물 지속 `이차 감염` `외이염`
+* 이물 제거 후 반대쪽 귀 또는 코의 악취 분비물 `동반 이물`
 
 ## <mark style="color:green;">Pinna 이물</mark>
 
@@ -365,7 +361,7 @@ flowchart TD
 ### <mark style="background-color:$warning;">Management</mark>
 
 * 제거 (필요시 국소 마취하에 시술)
-* 감염 동반 시 항생제 투여&#x20;
+* 감염 동반 시 항생제 투여
   * 연골부(귀 윗부분) 피어싱 감염은 _Pseudomonas_ 비중이 높아 fluoroquinolone 고려
 
 ## <mark style="color:green;">외이도 이물</mark>
@@ -449,7 +445,7 @@ flowchart TD
 
 ***
 
-## <mark style="color:purple;">처방례</mark>&#x20;
+## <mark style="color:purple;">처방례</mark>
 
 > **처방례 1. 귓불의 매몰 이물 제거 후 피부 감염 동반 (성인, 연골막염 없음)**
 >
@@ -511,22 +507,22 @@ flowchart TD
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 감각신경성 난청  `내이 손상`  `외림프 누공`
-* 지속되거나 심한 어지럼·안진  `외림프 누공`  `등골 아탈구`
-* 면봉·귀이개 등에 직접 찔린 후 어지럼·청력 저하  `등골 아탈구`  `외림프 누공`
-* 안면마비  `측두골 골절`
-* 두부 외상 후 맑은 이루  `CSF 이루`
+* 감각신경성 난청 `내이 손상` `외림프 누공`
+* 지속되거나 심한 어지럼·안진 `외림프 누공` `등골 아탈구`
+* 면봉·귀이개 등에 직접 찔린 후 어지럼·청력 저하 `등골 아탈구` `외림프 누공`
+* 안면마비 `측두골 골절`
+* 두부 외상 후 맑은 이루 `CSF 이루`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 큰 천공, 가장자리(marginal) 또는 후상부 천공  `이소골 손상`  `진주종`
-* 천공 크기에 비해 심한 청력 저하(전음성) 또는 심하게 지속되는 이명  `이소골 연쇄 단절`  `내이 손상`
-* 이루 발생  `2차 세균 감염`
+* 큰 천공, 가장자리(marginal) 또는 후상부 천공 `이소골 손상` `진주종`
+* 천공 크기에 비해 심한 청력 저하(전음성) 또는 심하게 지속되는 이명 `이소골 연쇄 단절` `내이 손상`
+* 이루 발생 `2차 세균 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 4\~6주 재평가 시 크기 감소·회복 소견 없음  `자연 치유 지연`
-* 2\~3개월 경과 후에도 자연 치유되지 않음  `영구 천공`
+* 4\~6주 재평가 시 크기 감소·회복 소견 없음 `자연 치유 지연`
+* 2\~3개월 경과 후에도 자연 치유되지 않음 `영구 천공`
 
 ## <mark style="color:green;">검사</mark>
 
@@ -534,15 +530,13 @@ flowchart TD
 
 #### <mark style="color:$primary;">Tuning Fork를 이용한 청력 감별</mark>
 
-<table><thead><tr><th width="166">종류</th><th width="200">Weber lateralization</th><th width="220">Rinne test</th></tr></thead><tbody><tr><td colspan="3"><strong>전음성 난청</strong></td></tr><tr><td>　건측</td><td></td><td>정상 (AC＞BC)</td></tr><tr><td>　환측</td><td>병변 측(환측)으로 편위</td><td>비정상 (BC＞AC)</td></tr><tr><td colspan="3"><strong>감각신경성 난청</strong></td></tr><tr><td>　건측</td><td>건측(정상 측)으로 편위</td><td>정상 (AC＞BC)</td></tr><tr><td>　환측</td><td></td><td>정상 (AC＞BC)</td></tr></tbody></table>
+<table><thead><tr><th width="166">항목</th><th width="200">Weber lateralization</th><th width="220">Rinne test</th></tr></thead><tbody><tr><td colspan="3"><strong>전음성 난청</strong></td></tr><tr><td>　건측</td><td></td><td>정상 (AC＞BC)</td></tr><tr><td>　환측</td><td>병변 측(환측)으로 편위</td><td>비정상 (BC＞AC)</td></tr><tr><td colspan="3"><strong>감각신경성 난청</strong></td></tr><tr><td>　건측</td><td>건측(정상 측)으로 편위</td><td>정상 (AC＞BC)</td></tr><tr><td>　환측</td><td></td><td>정상 (AC＞BC)</td></tr></tbody></table>
 
-> _AC=air conduction, BC=bone conduction; 512 ㎐ 음차 사용._ \
+> _AC=air conduction, BC=bone conduction; 512 ㎐ 음차 사용._\
 > _✽심한 일측 감각신경성 난청에서는 반대쪽 귀가 소리를 감지하여 Rinne 위음성(BC＞AC)이 나올 수 있음_\
 > _✽음차 검사가 정상이어도 감각신경성 난청을 배제할 수 없으므로, 청력 저하·어지럼이 있으면 PTA로 확인_
 
 * 감각신경성 난청이 확인되면(내이 손상) 즉시 이비인후과 의뢰
-
-
 
 ***
 
@@ -593,7 +587,7 @@ flowchart TD
 * 외상성 고막 천공의 80% 이상은 자연 치유됨
 * 4\~6주 시점에 1차 재평가하고, 크기가 줄지 않거나 회복 소견이 없으면 계속 관찰하되 2\~3개월이 지나도 자연 치유되지 않으면 의뢰, 수술적 치료 고려
 * 종이 패치법(paper patch myringoplasty), 지방 이식 고막 성형술 : 자연 치유 촉진을 위해 조기 시행 가능한 선택적 옵션, 필요시 조기 의뢰
-* 폭행·사고 관련 의심 시 천공의 형태(방사형·불규칙형), 혈흔 범위, 이물 유무 등 초진 소견 상세 기록 및 사진 보관&#x20;
+* 폭행·사고 관련 의심 시 천공의 형태(방사형·불규칙형), 혈흔 범위, 이물 유무 등 초진 소견 상세 기록 및 사진 보관
 
 ***
 
@@ -715,19 +709,19 @@ flowchart TD
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 감각신경성 난청  `내이 압력 손상`  `외림프 누공`
-* 지속적인 어지럼·안진  `내이 압력 손상`  `외림프 누공`
-* 다이빙 상승 중·직후 발생한 청력 손실·어지럼  `내이 감압병`  `내이 압력 손상`
-* 다이빙 후 의식 변화, 마비·감각 이상, 호흡곤란, 흉통  `동맥 가스 색전증`  `감압병`
+* 감각신경성 난청 `내이 압력 손상` `외림프 누공`
+* 지속적인 어지럼·안진 `내이 압력 손상` `외림프 누공`
+* 다이빙 상승 중·직후 발생한 청력 손실·어지럼 `내이 감압병` `내이 압력 손상`
+* 다이빙 후 의식 변화, 마비·감각 이상, 호흡곤란, 흉통 `동맥 가스 색전증` `감압병`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 증상이 48\~72시간 이상 지속되거나 악화  `중이 삼출`  `고막 손상`
+* 증상이 48\~72시간 이상 지속되거나 악화 `중이 삼출` `고막 손상`
 * 고막 천공 (☞ 외상성 고막 천공)
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 반복 발생  `알레르기비염`  `만성 부비동염`  `귀인두관기능부전`
+* 반복 발생 `알레르기비염` `만성 부비동염` `귀인두관기능부전`
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -762,19 +756,19 @@ flowchart TD
 
 * 성인에서 탑승 30분 전 pseudoephedrine 120 ㎎ 복용 시 이통 감소 \[Ann Emerg Med 1994]
   * 소아에서는 효과가 입증되지 않음 \[Arch Pediatr Adolesc Med 1999]
-  * pseudoephedrine 60 ㎎ 2T, 탑승 30분\~1시간 전 1회 <mark style="color:blue;">\[슈다페드]</mark>&#x20;
+  * pseudoephedrine 60 ㎎ 2T, 탑승 30분\~1시간 전 1회 <mark style="color:blue;">\[슈다페드]</mark>
   * 국내 성인 허가 1회량은 30\~60 ㎎으로, 120 ㎎ 1회 복용은 허가 외 용량임
 * 코막힘 동반 시 pseudoephedrine 30\~60 ㎎, 1일 3\~4회 범위에서 필요시 단기간(예: 3\~5일) 사용. 최소 4시간 간격, 최대 240 ㎎/일
   * 압력 손상 자체의 회복 효과는 입증되지 않음
 
-<mark style="color:cyan;">**비강 울혈 제거제**</mark>&#x20;
+<mark style="color:cyan;">**비강 울혈 제거제**</mark>
 
 * 코막힘 완화를 위해 선택적으로 사용하며, 비강 분무 단독의 귀 압력 손상 예방 효과는 불확실함 \[Am J Emerg Med 1998]
 * 제품별 용법을 따르며, 반동성 비충혈 예방을 위해 단기간(예: 3일 이내) 사용
 * 국내 슈다페드 허가사항상 다른 교감신경흥분제 투여 중에는 금기이므로 경구 pseudoephedrine과 비강 혈관수축제를 일률 병용하지 않음
-* xylometazoline 0.1% : 만 12세 이상, 비공당 1회 분무, 1일 최대 3회, 최소 8시간 간격 <mark style="color:blue;">\[오트리빈멘톨0.1%분무제]</mark>
+* xylometazoline 0.1% : 만 12세 이상 <mark style="color:blue;">\[오트리빈멘톨0.1%분무제]</mark>
 * oxymetazoline : 만 6세 이상 <mark style="color:blue;">\[레스피비엔]</mark>
-* phenylephrine : 만 7세 이상 <mark style="color:blue;">\[시네프린나잘]</mark>&#x20;
+* phenylephrine : 만 7세 이상 <mark style="color:blue;">\[시네프린나잘]</mark>
 
 {% hint style="danger" %}
 **pseudoephedrine 투여 금기 및 주의**
@@ -915,20 +909,20 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 폭발음·사격 직후 현저하거나 갑작스러운 청력 감소  `급성 음향 외상`
-* 감각신경성 난청과 지속되는 어지럼 동반  `내이 손상`  `외림프 누공`
-* 폭발 후 호흡곤란·기침·흉통 또는 복통  `폭발 폐 손상`  `폭발 장 손상`
+* 폭발음·사격 직후 현저하거나 갑작스러운 청력 감소 `급성 음향 외상`
+* 감각신경성 난청과 지속되는 어지럼 동반 `내이 손상` `외림프 누공`
+* 폭발 후 호흡곤란·기침·흉통 또는 복통 `폭발 폐 손상` `폭발 장 손상`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 큰 소음·폭발 후 새로 생긴 경미한 청력 저하 또는 지속되는 먹먹함  `급성 음향 외상`  `일시적 역치 변동`
-* 큰 소음·폭발 후 새로 생긴 이명  `급성 음향 외상`
+* 큰 소음·폭발 후 새로 생긴 경미한 청력 저하 또는 지속되는 먹먹함 `급성 음향 외상` `일시적 역치 변동`
+* 큰 소음·폭발 후 새로 생긴 이명 `급성 음향 외상`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 청력 저하 없이 수일 이상 지속되는 이명  `소음성 이명`
-* 소음 노출자의 점진적 청력 저하, 대화 알아듣기 어려움  `소음성 난청(NIHL)`
-* 청력검사는 정상이나 시끄러운 곳에서 말소리 이해가 어려움  `기능적 청취 어려움`
+* 청력 저하 없이 수일 이상 지속되는 이명 `소음성 이명`
+* 소음 노출자의 점진적 청력 저하, 대화 알아듣기 어려움 `소음성 난청(NIHL)`
+* 청력검사는 정상이나 시끄러운 곳에서 말소리 이해가 어려움 `기능적 청취 어려움`
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -957,7 +951,7 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 * 급성 음향 외상 치료 후 청력 추적 : JTS 2025는 치료 종료 후 2주 이내 및 치료 종료 6개월 후 청력 재평가를 권고함 \[JTS 2025]
   * 지속되는 난청·이명은 청각 재활·전문 치료 연계
 * PTA 정상이나 소음 속 어음 구별이 어려우면 speech-in-noise 검사 등으로 기능적 청취 어려움 평가. 이 검사만으로 '숨겨진 난청'·청각 시냅스병증을 확진하거나 배제하지 못함
-* 음량 최소화&#x20;
+* 음량 최소화
 * 만성 소음 노출 : 근본적 원인 제거(작업 환경 개선); 청력 보호구 착용
 * 직업적 소음 노출자 : 특수건강진단 기본 시기·주기는 배치 후 12개월 이내 첫 검진, 이후 24개월. 산업안전보건법 시행규칙 제202조제2항의 주기 단축 대상은 별도 적용
 
@@ -1070,7 +1064,7 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 ### <mark style="color:orange;">임상 근거</mark>
 
 * \[JTS 2025] [Joint Trauma System. Aural Blast Injury/Acoustic Trauma and Hearing Loss (CPG ID 05, v1.1). 2025.](https://jts.health.mil/assets/docs/cpgs/Aural_Blast_Injury_Acoustic_Trauma_and_Hearing_Loss_14_Aug_2025_ID05_v1.1.pdf) - 급성 음향 외상의 스테로이드 용법·고실 내 주입·청력 재평가; 군 지침으로 민간 1차 진료에는 국내 허가·전문과 판단에 맞춰 적용
-* \[ESE/Endocrine Society 2024] [Beuschlein F, Else T, Bancos I, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and therapy of glucocorticoid-induced adrenal insufficiency. Eur J Endocrinol. 2024;190(5):G25-G51.](https://doi.org/10.1093/ejendo/lvae029) - 3~4주 미만 단기 스테로이드 투여 후 감량 불필요
+* \[ESE/Endocrine Society 2024] [Beuschlein F, Else T, Bancos I, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and therapy of glucocorticoid-induced adrenal insufficiency. Eur J Endocrinol. 2024;190(5):G25-G51.](https://doi.org/10.1093/ejendo/lvae029) - 3\~4주 미만 단기 스테로이드 투여 후 감량 불필요
 * \[Queensland Health 2025] [Queensland Health. Foreign body in the ear - Emergency management in children. Version 4.0. 2025.](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-ear) (확인일 2026-10-14) - 단추형 배터리 즉시 제거·제거 후 지연 합병증 추적
 * \[AAST 2024] [Appelbaum RD, et al. Antibiotic prophylaxis in injury: an American Association for the Surgery of Trauma Critical Care Committee clinical consensus document. Trauma Surg Acute Care Open. 2024;9:e001304.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11149135/) - 연골 노출 열상의 선택적 예방 항생제; 성인 외상 지침으로 소아에 그대로 외삽하지 않음
 * \[Laryngoscope 2026] [Cheng CF, et al. Management of Auricular Hematoma With Bolster Versus Quilting: A Retrospective Cohort Study. Laryngoscope. 2026.](https://doi.org/10.1002/lary.70680) - bolster와 quilting 비교; 소규모 후향적 연구로 술식 우월성 확정 근거는 아님
@@ -1088,5 +1082,4 @@ _✽갑작스러운 심한 두통·시각장애·혼돈·경련 등이 발생하
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
 * [건강보험심사평가원. 외이도 이물 제거 관련 요양급여 적용기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190628\&sno=3\&mtgMtrRegSno=0007) (확인일 2026-10-14) - 이물 제거 행위의 급여 인정 범위
-* 국가법령정보센터. 산업안전보건법 시행규칙 제202조 및 별표 23(특수건강진단의 시기 및 주기). 시행 2026-08-01 - 소음·충격소음의 기본 검진 시기·주기(배치 후 12개월 이내, 이후 24개월); 제202조제2항의 주기 단축 대상은 별도 적용
 * [고용노동부. 화학물질 및 물리적 인자의 노출기준(고용노동부고시 제2020-48호), 제9조 및 별표 2-1.](https://www.moel.go.kr/info/lawinfo/instruction/view.do?bbs_seq=20200100629) (확인일 2026-10-14) - 충격소음을 제외한 소음 노출기준 90 ㏈(A) 8시간·5 ㏈ 교환율
