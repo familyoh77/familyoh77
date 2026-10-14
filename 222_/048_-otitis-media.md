@@ -45,26 +45,26 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 두통, 고열, 구토, 의식 변화, 경부 강직  `뇌막염` `뇌농양` `경막외/하 농양`
-* 유두부종, 외전신경 마비(복시) 또는 안와 뒤 통증  `S상정맥동 혈전증` `추체첨부염`
-* 귀 뒤 발적·부종·파동, 이개의 전외방 돌출  `급성 유양돌기염` `골막하 농양`
-* 안면 마비  `안면신경 침범`
-* 자발 안진을 동반한 어지럼 또는 갑작스러운 심한 청력 저하  `미로염(내이염)`
-* 생후 ＜3개월 영아의 ≥38℃ 발열(특히 ＜28일 신생아)  `패혈증` `심부 세균 감염`
+* 두통, 고열, 구토, 의식 변화, 경부 강직 `뇌막염` `뇌농양` `경막외/하 농양`
+* 유두부종, 외전신경 마비(복시) 또는 안와 뒤 통증 `S상정맥동 혈전증` `추체첨부염`
+* 귀 뒤 발적·부종·파동, 이개의 전외방 돌출 `급성 유양돌기염` `골막하 농양`
+* 안면 마비 `안면신경 침범`
+* 자발 안진을 동반한 어지럼 또는 갑작스러운 심한 청력 저하 `미로염(내이염)`
+* 생후 ＜3개월 영아의 ≥38℃ 발열(특히 ＜28일 신생아) `패혈증` `심부 세균 감염`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 귀 뒤 압통이 발적·부종 없이 지속되거나 악화  `초기 유양돌기염`
-* 적절한 항생제 치료 48\~72시간에도 호전 없거나 악화  `치료 실패` `내성균`
-* 면역 저하자 또는 와우 이식자의 AOM  `중증 감염` `이식물 감염`
+* 귀 뒤 압통이 발적·부종 없이 지속되거나 악화 `초기 유양돌기염`
+* 적절한 항생제 치료 48\~72시간에도 호전 없거나 악화 `치료 실패` `내성균`
+* 면역 저하자 또는 와우 이식자의 AOM `중증 감염` `이식물 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* AOM이 ≥3회/6개월 또는 ≥4회/1년 재발  `재발 중이염`
-* 6주 이상 지속되는 고막 천공  `지속 천공` `이루 동반 시 CSOM 평가`
-* 악취 이루가 지속되거나 고막에 진주색 덩어리가 보임  `진주종`
-* 삼출 중이염이 ≥3개월 지속, 또는 언어 지연·청력 저하 동반  `만성 OME`
-* 성인에서 편측으로 지속되는 삼출·청력 저하(흡연력·경부 림프절 종대·비출혈이 없어도 해당)  `비인두 병변`
+* AOM이 ≥3회/6개월 또는 ≥4회/1년 재발 `재발 중이염`
+* 6주 이상 지속되는 고막 천공 `지속 천공` `이루 동반 시 CSOM 평가`
+* 악취 이루가 지속되거나 고막에 진주색 덩어리가 보임 `진주종`
+* 삼출 중이염이 ≥3개월 지속, 또는 언어 지연·청력 저하 동반 `만성 OME`
+* 성인에서 편측으로 지속되는 삼출·청력 저하(흡연력·경부 림프절 종대·비출혈이 없어도 해당) `비인두 병변`
 
 ***
 
@@ -172,7 +172,7 @@
 ## <mark style="color:green;">수술</mark>
 
 * 일반적으로 3개월 경과 관찰 후 해당 시 고려
-  * 양측 OME가 ≥3개월 지속 + 청력 저하가 객관적으로 확인(documented hearing difficulties)된 경우 고막튜브삽입술 제안 \[AAO-HNSF 고막튜브 지침 2022]&#x20;
+  * 양측 OME가 ≥3개월 지속 + 청력 저하가 객관적으로 확인(documented hearing difficulties)된 경우 고막튜브삽입술 제안 \[AAO-HNSF 고막튜브 지침 2022]
     * 특정 ㏈ 수치보다 청력 저하의 실재 여부와 기능적 영향(언어·학업·행동)을 우선 고려
   * 편측 OME에서는 이환 기간, 청력 수준, 동반 증상, 보호자 선호도 고려
   * 고위험군·고막의 비가역적 변화 예측 시 조기 수술 고려
@@ -240,7 +240,7 @@ graph TD
 > (급성 중이염 처방례에 준함)
 > ```
 >
-> _✽OME 경과 중 이통·발열·고막 팽륜 등 급성 염증 소견이 생기면 AOM으로 진단하고 AOM 기준으로 치료 (☞ [급성 중이염](049_1-acute-otitis-media-aom.md)). OME 단독에는 항생제 불필요_
+> _✽OME 경과 중 이통·발열·고막 팽륜 등 급성 염증 소견이 생기면 AOM으로 진단하고 AOM 기준으로 치료 (☞_ [_급성 중이염_](049_1-acute-otitis-media-aom.md)_). OME 단독에는 항생제 불필요_
 
 ***
 
@@ -332,8 +332,7 @@ graph TD
 * 퀴놀론 점이액 : boric acid보다 1\~2주 이루 소실에 유리할 가능성
   * 다른 살균제와의 비교 효과·안전성 근거는 불확실 \[Cochrane 2025]
 * Acetic acid, boric acid, povidone-iodine, aluminium acetate(Burow 용액) : 농도·용매(특히 알코올)·천공 여부에 따른 자극·이독성 검토가 필요
-  * 천공 귀에 임의 조제·가정용 용액을 사용하지 않으며 전문의가 제제별 안전성을 확인한 경우에 한해 고려&#x20;
-
+  * 천공 귀에 임의 조제·가정용 용액을 사용하지 않으며 전문의가 제제별 안전성을 확인한 경우에 한해 고려
 
 ### <mark style="color:orange;">국소 항생제</mark>
 
@@ -359,10 +358,10 @@ graph TD
 
 ## <mark style="color:green;">수술</mark>
 
-* 적응증 : 진주종, 구조 손상, 지속 천공, 난청, 반복 이루&#x20;
+* 적응증 : 진주종, 구조 손상, 지속 천공, 난청, 반복 이루
   * 모든 CSOM에서 수술이 필수인 것은 아님
 * 수술 방법 : 병변 범위에 따라 선택
-  * 천공만 있는 경우 : 고막성형술(myringoplasty) 또는 고실성형술(tympanoplasty)&#x20;
+  * 천공만 있는 경우 : 고막성형술(myringoplasty) 또는 고실성형술(tympanoplasty)
     * 감염을 조절한 뒤 천공 지속·난청·반복 감염·생활 영향을 고려하여 결정
   * 진주종·유양동 병변 : 범위에 따라 유양돌기절제술(mastoidectomy) 병행 여부 결정. 작은 국한성 진주종은 제한적 경외이도·내시경 수술도 가능
   * 이소골 손상 : 이소골성형술 병행
@@ -490,8 +489,8 @@ graph TD
 * 합병증 없는 급성 튜브 이루는 국소 항생제 단독 \[AAO-HNSF 2022]
   * ofloxacin <mark style="color:blue;">\[에펙신]</mark> 등 국내 중이염 허가상 적합한 제제 선택
   * 소아는 연령·증상 및 제품 허가사항 확인
-* 전신 항생제&#x20;
-  * 적응증 : 주변 연조직염, 중대한 전신 증상, 면역저하, 다른 전신 감염 또는 적절한 국소 치료 실패&#x20;
+* 전신 항생제
+  * 적응증 : 주변 연조직염, 중대한 전신 증상, 면역저하, 다른 전신 감염 또는 적절한 국소 치료 실패
   * 반응이 없으면 청소·튜브 폐쇄·배양·진균 등을 먼저 평가
 * 활동성 이루 때는 오염된 물 노출에 주의
   * 튜브가 있다는 이유만으로 일상적인 귀마개·수영 제한을 일률적으로 권고하지 않음
@@ -532,7 +531,7 @@ graph TD
 > (급성 중이염 처방례에 준함)
 > ```
 >
-> _✽각 에피소드는 AOM 기준으로 진단·치료 (☞ [급성 중이염](049_1-acute-otitis-media-aom.md)). 최근 30일 내 amoxicillin 복용 시 amox-clav 선택. 반복·난치성은 배양 또는 의뢰 고려_
+> _✽각 에피소드는 AOM 기준으로 진단·치료 (☞_ [_급성 중이염_](049_1-acute-otitis-media-aom.md)_). 최근 30일 내 amoxicillin 복용 시 amox-clav 선택. 반복·난치성은 배양 또는 의뢰 고려_
 
 > **처방례 2. 고막튜브 이루 - 합병증 없는 경우 (1\~12세)**
 >
@@ -598,16 +597,13 @@ graph TD
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-**진료 지침**
+### <mark style="color:orange;">임상 근거</mark>
 
 * Rosenfeld RM, et al. Clinical practice guideline: otitis media with effusion (update). Otolaryngol Head Neck Surg 2016;154(1 Suppl):S1-S41.
 * Rosenfeld RM, et al. Clinical practice guideline: tympanostomy tubes in children (update). Otolaryngol Head Neck Surg 2022;166(1 Suppl):S1-S55.
 * NICE. Otitis media with effusion in under 12s (NG233). 2023.
 * Lieberthal AS, et al. The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-e999.
 * Touska P, Connor SEJ. ESR Essentials: imaging of middle ear cholesteatoma—practice recommendations by the European Society of Head and Neck Radiology. Eur Radiol 2025;35:2053-2064. [doi:10.1007/s00330-024-11021-x](https://doi.org/10.1007/s00330-024-11021-x).
-
-**임상 연구·체계적 고찰**
-
 * Hoberman A, et al. Tympanostomy tubes or medical management for recurrent acute otitis media. N Engl J Med 2021;384:1789-1799.
 * Francis NA, et al. Oral steroids for resolution of otitis media with effusion in children (OSTRICH). Lancet 2018;392:557-568.
 * Azarpazhooh A, et al. Xylitol for preventing acute otitis media in children up to 12 years of age. Cochrane Database Syst Rev 2016;8:CD007095.
@@ -620,13 +616,10 @@ graph TD
 * Brennan-Jones CG, et al. Topical antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev 2025;6:CD013051. [doi:10.1002/14651858.CD013051.pub3](https://doi.org/10.1002/14651858.CD013051.pub3).
 * Leskinen N, Renko M, Kuitunen I. Nirsevimab reduced acute otitis media infections in infants—a nationwide interrupted time-series analysis. Eur J Pediatr 2026;185:827. [doi:10.1007/s00431-026-07508-y](https://doi.org/10.1007/s00431-026-07508-y).
 
-**국내 확인 자료**
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * 질병관리청. 폐렴구균 단백결합 백신(PCV20) 국가예방접종 도입 안내. 2025.
 * 식품의약품안전처. 아브리스보 품목허가. 2026.
 * 약학정보원 의약품 정보 : 에펙신이용액, 세트락살플러스점이액, 씨프로바이
 * 한국표준질병·사인분류(KCD-9). 2026.
-
-**해외 허가 확인 자료**
-
-* DailyMed. Ofloxacin otic solution 0.3%: 미국 허가사항의 용법·용량(1~12세 튜브 동반 AOM: 5방울 bid ×10일; ≥12세 CSOM: 10방울 bid ×14일). [제품 허가정보](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5f1c5541-4492-4736-bb60-0b1a654b9cd4&type=display). 국내 제제의 허가 용법과 구분하여 적용.
+* DailyMed. Ofloxacin otic solution 0.3%: 미국 허가사항의 용법·용량(1\~12세 튜브 동반 AOM: 5방울 bid ×10일; ≥12세 CSOM: 10방울 bid ×14일). [제품 허가정보](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5f1c5541-4492-4736-bb60-0b1a654b9cd4\&type=display). 국내 제제의 허가 용법과 구분하여 적용.

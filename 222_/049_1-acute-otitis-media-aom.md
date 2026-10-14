@@ -74,14 +74,27 @@
 * 치아 문제 : 이환된 쪽 상악 치아 통증
 * [Barotrauma](/broken/pages/19d6b4b43a0db25299488b9d4fbd27e2c3b38937#ear-barotrauma) : 비행기 탑승, 잠수 경력
 
-#### <mark style="color:$primary;">급성 중이염 및 삼출 중이염의 감별</mark>
+***
 
 ```mermaid
+graph TD
+    Start(["AOM 또는 OME 의심"]) --> Effusion["중이 삼출액이 확인되는가?"]
+    Effusion -- 없음 --> Other["AOM·OME 아님; <br/>다른 원인 평가 <br/>(외이염, ETD, 관련통 등)"]
+    Effusion -- 있음 --> Criteria["AOM 고막 진단 기준을 <br/>충족하는가?*"]
+    Criteria -- 있음 --> AOM["급성 중이염 AOM"]
+    Criteria -- 없음 --> Acute["급성 이통·발열 등 <br/>증상이 있는가?"]
+    Acute -- 없음 --> OME["삼출 중이염 OME"]
+    Acute -- 있음 --> Uncertain["AOM 의증 또는 다른 원인; <br/>재평가"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style AOM fill:#ff9966,stroke:#cc5500
+    style OME fill:#bbf,stroke:#333
+    classDef q fill:#fff9c4,stroke:#ffe082
+    class Effusion,Criteria,Acute q
 ```
 
 > \*_중등도\~심한 고막 팽륜, 새로 발생한 이루(외이염 제외), 또는 경도 팽륜 + 48시간 이내 이통 또는 심한 고막 충혈 (☞ 급성 중이염 진단 기준)_
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Lieberthal AS 2013 Pediatrics;</mark></em><br><em><mark style="color:$info;">Rosenfeld RM 2016 Otolaryngol Head Neck Surg)</mark></em></p>
+<p align="center"><strong>급성 중이염 및 삼출 중이염의 감별</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Lieberthal AS 2013 Pediatrics;</mark></em><br><em><mark style="color:$info;">Rosenfeld RM 2016 Otolaryngol Head Neck Surg)</mark></em></p>
 
 #### <mark style="color:$primary;">중이 이루의 감별 (Phenotype-first 접근)</mark>
 
@@ -103,73 +116,93 @@
 
 <mark style="color:cyan;">**합병증이 없는 AOM의 항생제 적용 기준**</mark>
 
-※ 본문·처방례 및 하단 AOM 항생제 결정 알고리듬은 AAP 기준 중심으로 제시함. 국내 2014 지침과의 차이는 별도 주석 및 비교용 알고리듬에 표시함. AAP 지침의 주 대상은 생후 6개월\~12세이며, ＜6개월 영아·면역저하자·와우 이식자는 별도 위험 평가 필요.
+* 본문·처방례 및 하단 AOM 항생제 결정 알고리듬은 AAP 기준 중심으로 제시함. 국내 2014 지침과의 차이는 별도 주석 및 비교용 알고리듬에 표시함. AAP 지침의 주 대상은 생후 6개월\~12세이며, ＜6개월 영아·면역저하자·와우 이식자는 별도 위험 평가 필요.
 
-<table><thead><tr><th width="91">연령</th><th width="91">&#x3C;6개월</th><th width="93">≥6개월</th><th width="109">6~23개월</th><th width="137">6~23개월</th><th width="146">≥24개월</th></tr></thead><tbody><tr><td>중증도</td><td>무관</td><td>심함¹⁾</td><td>심하지 않음</td><td>심하지 않음</td><td>심하지 않음</td></tr><tr><td>이환 부위</td><td>무관</td><td>무관</td><td>양측</td><td>편측</td><td>양측/편측</td></tr><tr><td>항생제</td><td>투여</td><td>투여</td><td>투여</td><td>투여 또는 관찰²⁾</td><td>투여 또는 관찰²⁾</td></tr></tbody></table>
+<table><thead><tr><th width="103">연령</th><th width="104">&#x3C;6개월</th><th width="104">≥6개월</th><th width="133">6~23개월</th><th>6~23개월</th><th>≥24개월</th></tr></thead><tbody><tr><td>중증도</td><td>무관</td><td>심함¹⁾</td><td>심하지 않음</td><td>심하지 않음</td><td>심하지 않음</td></tr><tr><td>이환 부위</td><td>무관</td><td>무관</td><td>양측</td><td>편측</td><td>양측/편측</td></tr><tr><td>항생제</td><td>투여</td><td>투여</td><td>투여</td><td>투여 또는 관찰²⁾</td><td>투여 또는 관찰²⁾</td></tr></tbody></table>
 
-_1) 중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 내 ≥39℃(대한이과학회 ≥38.5℃) 중 하나; 이루 동반 AOM과 추적 관찰이 불확실한 경우도 투여. 2) 48\~72시간 동안 철저한 감시 및 대증 치료; 호전되지 않거나 악화되면 항생제 투여 시작_
+> ¹⁾_중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 내 ≥39℃(대한이과학회 ≥38.5℃) 중 하나; 이루 동반 AOM과 추적 관찰이 불확실한 경우도 투여_\
+> ²⁾_48\~72시간 동안 철저한 감시 및 대증 치료; 호전되지 않거나 악화되면 항생제 투여 시작_
 
 <p align="center"><em><mark style="color:$info;">Ref. The Diagnosis and Management of Acute Otitis Media. Pediatrics 2013;131(3).</mark></em></p>
 
-**관찰 없이 즉시 항생제 투여 대상**
+<mark style="color:cyan;">**관찰 없이 즉시 항생제 투여 대상**</mark>
 
 * 중증(연령 무관)
 * ＜6개월아(중증도 무관)
 * 6\~23개월 소아의 양측 확진 AOM \[AAP]; 국내 2014 지침은 ＜24개월 확진 AOM에서 편측도 즉시 투여 권고
 * AOM의 자연 고막 천공 또는 새로 발생한 이루(튜브 이루·CSOM은 별도 기준)
 * 동반 질환 : 감염 위험을 높이는 기저 질환·면역저하·와우 이식은 개별 위험 평가 및 조기 치료·의뢰
-* 최근 항생제 사용력은 약제 선택에 반영. 최근 30일 내 amoxicillin 사용 시 amox-clav 고려; AAP 기준에서 모든 항생제 사용력이 단독 즉시 치료 조건은 아님(국내 2014 지침은 최근 사용력을 즉시 치료 고려 조건에 포함)
+* 최근 항생제 사용력은 약제 선택에 반영. 최근 30일 내 amoxicillin 사용 시 amox-clav 고려
+  * AAP 기준에서 모든 항생제 사용력이 단독 즉시 치료 조건은 아님(국내 2014 지침은 최근 사용력을 즉시 치료 고려 조건에 포함)
 * 2\~3일 후 추적 관찰 불가, 또는 타병원에서 이미 경과 관찰 시행한 상태
 
-**관찰 후 항생제 투여 결정 대상**
+<mark style="color:cyan;">**관찰 후 항생제 투여 결정 대상**</mark>
 
 * 6\~23개월 소아의 편측·비중증 확진 AOM: 보호자와 협의 후 관찰 또는 항생제 선택. 의증이면 진단을 재평가
 * ≥2세에서 경증으로 발생
 
-※ **지연 처방전 (Delayed prescription)** - 처방전을 진료 시 미리 교부하되, 48\~72시간 이내 호전이 없을 때만 조제/투약하도록 보호자에게 안내→ 불필요한 항생제 감소, 보호자 만족도 유지
+{% hint style="info" %}
+**지연 처방전 (Delayed prescription)** : 처방전을 진료 시 미리 교부하되, 48\~72시간 이내 호전이 없을 때만 조제/투약하도록 보호자에게 안내→ 불필요한 항생제 감소, 보호자 만족도 유지
+{% endhint %}
 
 ## <mark style="color:green;">약물 치료</mark>
 
 * 항히스타민제, 코 울혈 제거제는 효과 없고 부작용 가능성이 있어 권고하지 않는다
 
 {% hint style="info" %}
-<mark style="color:red;">**합병증 없는 AOM 초치료 원칙 = Amoxicillin 고용량 우선**</mark>**.** AAP 기준에서 amoxicillin/clavulanate는 다음 상황에 초치료로 선택: ① 최근 30일 이내 amoxicillin 복용, ② otitis-conjunctivitis syndrome, ③ amoxicillin 치료에 반응하지 않았던 재발성 AOM, ④ beta-lactamase 생성균 의심(H. influenzae, M. catarrhalis). 다른 적응증이 없으면 amoxicillin을 먼저 사용하고 실패 시 amox-clav로 변경. **국내 2014 지침은 중증 AOM 초치료에 고용량 amox-clav를 권고하므로 적용 지침을 구분함.**
+**합병증 없는 AOM 초치료 원칙 = Amoxicillin 고용량 우선.** AAP 기준에서 amoxicillin/clavulanate는 다음 상황에 초치료제로 선택: ① 최근 30일 이내 amoxicillin 복용, ② otitis-conjunctivitis syndrome, ③ amoxicillin 치료에 반응하지 않았던 재발성 AOM, ④ beta-lactamase 생성균 의심(H. influenzae, M. catarrhalis). 다른 적응증이 없으면 amoxicillin을 먼저 사용하고 실패 시 amox-clav로 변경; 국내 2014 지침은 중증 AOM 초치료에 고용량 amox-clav를 권고
 {% endhint %}
 
 ### <mark style="color:orange;">진통제</mark>
 
-* acetaminophen : 650\~1,000 ㎎ q6h, 최대 4 g/d <mark style="color:blue;">\[타이레놀]</mark>
-  * 소아 : 10\~15 ㎎/㎏ q4\~6h, 최대 5회/d(75 ㎎/㎏/d); 국내 현탁액 용량표는 4개월(7 ㎏)부터, ＜2세는 의사 판단 하 투여
-  * <mark style="color:blue;">\[세토펜]</mark> (32 ㎎/㎖; 1회 약 0.31\~0.47 ㎖/㎏, q4\~6h. 예: 0.4 ㎖/㎏/회; 1일 최대 횟수·총량 확인)
-* ibuprofen : 400 ㎎ q6h <mark style="color:blue;">\[부루펜]</mark>
-  * 소아 체중 기준(해외 지침) : 5\~10 ㎎/㎏ q6\~8h, 최대 40 ㎎/㎏/d(20 ㎎/㎖이면 1회 0.25\~0.5 ㎖/㎏); ≥6개월 기준이며 국내 연령별 허가 용량과 구분
-  * <mark style="color:blue;">\[어린이부루펜]</mark> (20 ㎎/㎖) 국내 허가 용량 : 1~~2세 1회 2.5~~5 ㎖·1일 최대 20 ㎖; 3~~6세 5~~7.5 ㎖·최대 30 ㎖; 7~~10세 7.5~~10 ㎖·최대 40 ㎖; 11~~14세 10~~12.5 ㎖·최대 50 ㎖. 1일 3\~4회; 연령·체중·허가사항을 함께 확인. ＜2세는 의사 판단하에 투여
-  * 탈수·신기능 저하가 있으면 ibuprofen 사용에 주의
+* AOM의 이통은 항생제 투여 여부와 관계없이 적극적으로 조절
 * 통증이 심한 초기 2\~3일은 규칙적으로 투여; 외부 온열 치료(예: 적외선 램프)는 통증 완화에 약간의 효과 기대
+* acetaminophen &#x20;
+  * 성인 : 500\~1,000 ㎎ q4\~6h PRN
+    * 모든 acetaminophen 함유 제품을 합산하여 최대 4 g/d <mark style="color:blue;">\[타이레놀정500밀리그램]</mark>
+  * 소아 : 10\~15 ㎎/㎏ q4\~6h PRN; 최대 5회/d 및 75 ㎎/㎏/d
+    * <mark style="color:blue;">\[세토펜현탁액]</mark>(32 ㎎/㎖) : 1회 약 0.31\~0.47 ㎖/㎏; 실용적으로 0.4 ㎖/㎏/회
+      * 국내 허가 용량표는 생후 4개월부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시; 생후 ＜4개월에는 허가 용량이 없으므로 연령·체중·진단을 확인하여 개별 판단
+* ibuprofen&#x20;
+  * 성인 400 ㎎ q6h PRN <mark style="color:blue;">\[부루펜정]</mark>
+  * 소아 : 5\~10 ㎎/㎏ q6\~8h PRN; 최대 40 ㎎/㎏/d
+    * <mark style="color:blue;">\[어린이부루펜시럽]</mark>(20 ㎎/㎖) : 1회 0.25\~0.5 ㎖/㎏, 1일 3\~4회 투여&#x20;
+      * 연령별 최대 용량 확인 : 1\~2세 최대 20 ㎖/d, 3\~6세 최대 30 ㎖/d
+      * 국내 허가 용량표는 1세부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시
+    * 국제 소아 지침에서는 일반적으로 생후 6개월 이상에서 체중 기준 투여가 사용됨
+  * 탈수·섭취 저하, 신장질환 또는 심부전이 있으면 급성 신손상 위험에 주의하고 acetaminophen을 우선 고려
+* 두 약의 동시 투여나 routine 교대 투여는 권장하지 않음. 한 약제로 통증이 충분히 조절되지 않을 때만 투약 간격과 1일 최대용량을 확인하여 다른 약제로 변경 또는 제한적 교대 투여를 고려
 
 ### <mark style="color:orange;">항생제</mark>
 
-* 합병증 없는 경증 AOM은 항생제 없이도 호전되는 경우가 많음; 연령·양측 여부·중증도·이루·추적 가능성에 따라 항생제 필요성 판단
-* 항생제는 첫 24시간 통증에는 영향이 없고 2\~3일째 통증을 약간 줄임(NNTB 약 20); 고막 천공·반대편 AOM은 소폭 감소하나 구토·설사·발진 증가(NNTH 약 14) \[Cochrane 2023]
+* 합병증이 없는 경증 AOM은 항생제 없이도 호전되는 경우가 많음
+* 항생제는 첫 24시간 통증에는 영향이 없고 2\~3일째 통증을 약간 줄임(NNTB 약 20)
+  * 고막 천공·반대편 AOM은 소폭 감소하나 구토·설사·발진 증가(NNTH 약 14) \[Cochrane 2023]
 * 항생제는 재발 및 청력 손실을 줄이지 못함
+* 연령, 양측 이환 여부, 중증도, 이루, 추적 가능성에 따라 항생제 필요성 판단
 
 #### <mark style="color:$primary;">항생제 선택 및 용법</mark>
 
-**초치료 - 1차 (Amoxicillin 우선)**
+<mark style="color:cyan;">**초치료 - 1차 (Amoxicillin 우선)**</mark>
 
-<table><thead><tr><th width="286">1차 선택제</th><th>대체제 (Pc-allergy)</th></tr></thead><tbody><tr><td><strong>Amox. 80~90 ㎎/㎏/d #2</strong> (합병증 없는 AOM 원칙)<br>→ Amox-clav. 90 ㎎/㎏/d #2 (하단 적응증 해당 시)</td><td>cefdinir 14 ㎎/㎏/d #1~2 / cefuroxime 30 ㎎/㎏/d #2 / cefpodoxime 10 ㎎/㎏/d #2 / ceftriaxone 50 ㎎/㎏ IM/IV 1회</td></tr></tbody></table>
+| 1차 선택제                                                                             | 대체제 (Pc-allergy)                                                                                         |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| <p>Amox. 80~90 ㎎/㎏/d #2 (합병증 없는 AOM 원칙)<br>→ Amox-clav. 90 ㎎/㎏/d #2 (적응증 해당 시)</p> | cefdinir 14 ㎎/㎏/d #1\~2 / cefuroxime 30 ㎎/㎏/d #2 / cefpodoxime 10 ㎎/㎏/d #2 / ceftriaxone 50 ㎎/㎏ IM/IV 1회 |
 
-**48\~72시간 초치료 실패 후**
+<mark style="color:cyan;">**48\~72시간 초치료 실패 후**</mark>
 
-<table><thead><tr><th width="286">1차 선택제</th><th>대체제 (Pc-allergy)</th></tr></thead><tbody><tr><td>Amox-clav. 90 ㎎/㎏/d #2 PO 또는 ceftriaxone 50 ㎎/㎏ IM/IV ×3d</td><td>ceftriaxone 50 ㎎/㎏ IM/IV ×3d / clindamycin 30~40 ㎎/㎏/d #3 ± 3세대 세파 / 고막천자·의뢰</td></tr></tbody></table>
+| 1차 선택제                                                               | 대체제 (Pc-allergy)                                                              |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <p>Amox-clav. 90 ㎎/㎏/d #2 PO 또는 <br>ceftriaxone 50 ㎎/㎏ IM/IV ×3d</p> | ceftriaxone 50 ㎎/㎏ IM/IV ×3d / clindamycin 30\~40 ㎎/㎏/d #3 ± 3세대 세파 / 고막천자·의뢰 |
 
-**투여 기간**
+<mark style="color:cyan;">**투여 기간**</mark>
 
 * ＜2세 또는 중증 : 10일
 * 2\~5세 경증\~중등도 : 7일
 * ≥6세 경증\~중등도 : 5\~7일
 * ＜2세에서 5일 단축 요법은 10일 요법보다 치료 실패가 많았음 \[NEJM 2016]
-* 치료 48\~72시간 내 이통·발열·고막 염증이 호전되지 않거나 악화되면 재진하여 진단·복약·합병증 평가 후 항생제 변경 고려. 잔존 MEE, 콧물·기침만으로 치료 실패로 판단하지 않음
+* 치료 48\~72시간 내 이통·발열·고막 염증이 호전되지 않거나 악화되면 재진하여 진단·복약·합병증 평가 후 항생제 변경 고려
+  * 잔존 MEE, 콧물·기침만으로 치료 실패로 판단하지 않음
 
 #### <mark style="color:$primary;">1차 선택제</mark>
 
@@ -178,29 +211,32 @@ _1) 중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 �
 * 합병증이 없는 AOM의 1차 선택
 * \[미국소아과학회] 80\~90 ㎎/㎏/d
 * \[대한이과학회]
-  * 표준 용량 : 40\~45 ㎎/㎏/d; 성인 500 ㎎ tid - ≥2세이면서 최근 항생제 투여 없고 보육 시설 미이용 시 고려
+  * 표준 용량 : 500 ㎎ tid / 40\~45 ㎎/㎏/d - ≥2세이면서 최근 항생제 투여 없고 보육 시설 미이용 시 고려
   * 고용량 : 80\~90 ㎎/㎏/d - ＜2세, 최근 β-lactam 투여, 단체 생활 시 고려
 * \[NICE] 1\~11개월 125 ㎎, 1\~4세 250 ㎎, 5\~17세 500 ㎎ tid ×5\~7d
 
 **Amoxicillin/Clavulanate** <mark style="color:blue;">\[오구멘틴]</mark>
 
-* 대상 : 최근 30일 내 amoxicillin 복용, otitis-conjunctivitis syndrome, amoxicillin에 반응하지 않았던 재발성 AOM, amoxicillin 초치료 실패 (AAP 기준에서 중증만으로 amox-clav를 필수 선택하지 않음; 국내 2014 지침은 중증 초치료에 권고)
+* 대상 : ① 최근 30일 내 amoxicillin 복용, ② otitis-conjunctivitis syndrome, ③ amoxicillin에 반응하지 않았던 재발성 AOM, ④ amoxicillin 초치료 실패&#x20;
+  * \[AAP] 중증만으로 amox-clav를 필수 선택하지 않음; \[국내 2014 지침] 중증 초치료에 권고
 * 부작용 : 설사 (probiotics 병용으로 약간의 완화 기대)
 * 용법 : Amox 기준 (80\~)90 ㎎/㎏/d #2
-* \[NICE NG91] : 1차 치료 2\~3일 후 악화 시 선택. 영국 4:1 현탁액의 연령·농도별 용량표를 사용하며, 국내 고용량 14:1 요법과 구분(아래 참고문헌 링크). 예: 125/31 ㎎/5 ㎖ 제제 0.25 ㎖/㎏/회 tid는 amoxicillin 6.25 ㎎/㎏/회이며, 25 ㎎/㎏/회가 아님
 * 고용량(90 ㎎/㎏/d) 투여 시 14:1 제제 선택 <mark style="color:blue;">\[아모크라네오]</mark>(5 ㎖ 중 amoxicillin/clavulanate 600/42.9 ㎎; amoxicillin 120 ㎎/㎖) - 7:1 제제로 90 ㎎/㎏/d를 맞추면 clavulanate가 ＞10 ㎎/㎏/d가 되어 설사 증가; 국내 허가 ≥3개월, 1일 2회, AOM 10일
 
 #### <mark style="color:$primary;">대체제</mark>
 
-> 페니실린 알레르기 시 세팔로스포린 선택 원칙 : amoxicillin·ampicillin과 R1 side chain이 같거나 유사한 cephalexin·cefadroxil·cefprozil·cefaclor는 피한다. 구조적으로 다른 R1 side chain의 cephalosporin(cefdinir, cefuroxime, cefpodoxime, ceftriaxone 등)은 페니실린 아나필락시스 병력만 있는 경우 사전 검사 없이 투여 가능 \[AAAAI/ACAAI 2022]. 단, 해당 cephalosporin 자체 알레르기·다중 β-lactam 알레르기·중증 지연형 반응은 별도 평가 필요.
+{% hint style="info" %}
+**페니실린 알레르기 시 세팔로스포린 선택 원칙** : amoxicillin·ampicillin과 R1 side chain이 같거나 유사한 cephalexin·cefadroxil·cefprozil·cefaclor는 피함. 구조적으로 다른 cephalosporin(cefdinir, cefuroxime, cefpodoxime, ceftriaxone 등)은 페니실린 아나필락시스 병력만 있는 경우 사전 검사 없이 투여 가능 \[AAAAI/ACAAI 2022]. 단, 해당 cephalosporin 자체 알레르기·다중 β-lactam 알레르기·중증 지연형 반응은 별도 평가 필요
+{% endhint %}
 
-**대상**
+<mark style="color:cyan;">**대상**</mark>
 
 * amoxicillin에 알레르기가 있는 경우
   * Ⅰ형 반응(두드러기, anaphylaxis) 포함 대부분 : side chain이 다른 2·3세대 cephalosporin
   * 중증 지연형 피부 반응(SJS/TEN, DRESS) 병력 : β-lactam 회피 → clindamycin 또는 의뢰
 * 적절한 초치료 48\~72시간에도 AOM 증상이 호전되지 않거나 악화
-* 별도의 세균성 부비동염 등 동반 질환이 확진되면 해당 치료 지침도 검토; 화농성 콧물만으로 AOM 항생제를 변경하지 않음
+* 별도의 세균성 부비동염 등 동반 질환이 확진되면 해당 치료 지침도 검토
+  * 화농성 콧물만으로 AOM 항생제를 변경하지 않음
 * 항생제 투여 중 AOM 발생
 * 면역 저하자
 * 이전 중이염 감염 시 중증 또는 합병증 발생
@@ -210,20 +246,27 @@ _1) 중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 �
 * ceftriaxone : 50 ㎎/㎏(최대 1 g) IM/IV 1회(초치료) 또는 ×3d(치료 실패) <mark style="color:blue;">\[트리악손]</mark>
   * 대상 : 경구제 투여 불가, 경구 치료 실패, 저항성 _S. pneumoniae_ 감염
 * azithromycin : 10 ㎎/㎏/d qd ×1d + 5 ㎎/㎏/d ×4d <mark style="color:blue;">\[지스로맥스]</mark>
-  * 국내 \_S. pneumoniae\_의 macrolide 내성이 높으며, 수치는 조사 연도·검체·대상군에 따라 다름; cephalosporin을 사용할 수 없는 경우에 한해 최후 수단으로 고려
+  * 국내 _S. pneumonia&#x65;_&#xC758; macrolide 내성이 높으며, 수치는 조사 연도·검체·대상군에 따라 다름
+  * cephalosporin을 사용할 수 없는 경우에 한해 최후 수단으로 고려
   * 가급적 cephalosporin을 우선 선택
-* clindamycin : 소아 30\~40 ㎎/㎏/d #3, 성인 150\~300 ㎎ qid <mark style="color:blue;">\[훌그램]</mark> - _H. influenzae_·_M. catarrhalis_ 미커버(필요시 3세대 cephalosporin 병용); macrolide 내성균에서 clindamycin 교차내성이 있을 수 있어 감수성 확인 필요
-* clarithromycin : 15 ㎎/㎏/d #2 ×5\~7d (성인 250\~500 ㎎ bid) <mark style="color:blue;">\[클래리시드]</mark> - azithromycin과 같은 macrolide 내성 문제; cephalosporin 사용 불가 시 제한적으로 고려
-* levofloxacin : **국내 AOM 허가외 사용**. 적절한 대체제가 없거나 배양 결과상 필요한 성인에서 전문의 판단하에 고려; 예: 500 ㎎ qd ×5\~7d <mark style="color:blue;">\[크라비트]</mark>. 단순 페니실린 알레르기·1차 치료 실패만으로 일률적으로 선택하지 않음; 신기능에 따른 용량 조정, 건 손상·말초신경병증·QT 연장 등 주의
+* clindamycin : 소아 30\~40 ㎎/㎏/d #3, 성인 150\~300 ㎎ qid <mark style="color:blue;">\[훌그램]</mark>&#x20;
+  * _H. influenzae_·_M. catarrhalis_ 미커버(필요시 3세대 cephalosporin 병용)
+  * macrolide 내성균에서 clindamycin 교차내성이 있을 수 있어 감수성 확인 필요
+* clarithromycin : 15 ㎎/㎏/d #2 ×5\~7d (성인 250\~500 ㎎ bid) <mark style="color:blue;">\[클래리시드]</mark>&#x20;
+  * azithromycin과 같은 macrolide 내성 문제
+  * cephalosporin 사용 불가 시 제한적으로 고려
+* levofloxacin : 국내 AOM 허가외 사용. 예: 500 ㎎ qd ×5\~7d <mark style="color:blue;">\[크라비트]</mark>
+  * 적절한 대체제가 없거나 배양 결과상 필요한 성인에서 전문의 판단하에 고려; 단순 페니실린 알레르기·1차 치료 실패만으로 일률적으로 선택하지 않음
+  * 신기능에 따른 용량 조정, 건 손상·말초신경병증·QT 연장 등 주의
 
 ## <mark style="color:green;">수술</mark>
 
-**고막절개술 (Myringotomy) / Tympanocentesis**
+<mark style="color:cyan;">**고막절개술 (Myringotomy) / Tympanocentesis**</mark>
 
 * 급성 AOM의 유의미한 치유 촉진 여부는 논란이 있으나 배농·배액이 증상 완화에 도움 가능
 * 대상 : 두 차례 적절한 약물 치료 course에도 무반응, 심한 이통·고열, 합병증 발생(안면 마비·유양돌기염·내이염·두개 내 염증), 면역 저하, 배양 검사 목적
 
-**고막튜브삽입술·아데노이드절제술** (☞ [재발 중이염](/broken/pages/b90a4bfe8c7ae53716664db7aab7b20fe2a8ed22#%EC%9E%AC%EB%B0%9C-%EC%A4%91%EC%9D%B4%EC%97%BC))
+<mark style="color:cyan;">**고막튜브삽입술·아데노이드절제술**</mark> (☞ [재발 중이염](048_-otitis-media.md#management-raom))
 
 ## <mark style="color:green;">추적 관리</mark>
 
@@ -235,34 +278,87 @@ _1) 중등도\~심한 이통, ≥48시간 지속되는 이통, 최근 48시간 �
 
 * 성인 AOM은 소아에 비해 드묾; 반복 발생·지속성 편측 삼출이면 기저 원인 감별 필요
 
-**성인 AOM 항생제 용량**
+<mark style="color:cyan;">**성인 AOM 항생제 용량**</mark>
 
 * amoxicillin : 500 ㎎ tid 또는 1 g bid × 5\~7d <mark style="color:blue;">\[파목신]</mark>
 * amoxicillin/clavulanate : 500/125 ㎎ tid × 5\~7d <mark style="color:blue;">\[오구멘틴]</mark> (적응증 해당 시)
-* levofloxacin : 국내 AOM 허가외 사용; 적절한 대체제가 없는 경우 전문의 판단하에 고려(용법·주의사항은 대체제 항목 참조)
+* levofloxacin : 국내 AOM 허가외 사용
+  * 적절한 대체제가 없는 경우 전문의 판단하에 고려(용법·주의사항은 대체제 항목 참조)
 
-**성인 편측 반복 AOM / 지속 삼출 시 다음 원인을 적극 배제**
+<mark style="color:cyan;">**성인 편측 반복 AOM / 지속 삼출 시 다음 원인을 적극 배제**</mark>
 
-* 비인두 병변/NPC : 지속성 편측 삼출·난청은 위험인자나 동반 증상이 없어도 이비인후과 원인 평가 필요. 경부 종대·비출혈 등 동반 시 신속 의뢰
-* 심한 이관 기능 부전(Eustachian tube dysfunction) : 만성 비부비동염, 알레르기비염, 비용 동반 여부 확인 (☞ [귀인두관기능부전](/broken/pages/8cfee51d676a2c28a49261ba6a7b4d8729f50909))
+* 비인두 병변/NPC : 지속성 편측 삼출·난청은 위험인자나 동반 증상이 없어도 이비인후과 원인 평가 필요
+  * 경부 종대·비출혈 등 동반 시 신속 의뢰
+* 심한 이관 기능 부전(Eustachian tube dysfunction) : 만성 비부비동염, 알레르기비염, 비용 동반 여부 확인 (☞ [귀인두관기능부전](046_-e-tube-dysfunction.md))
 * 두경부 종양 / 편도 종양 : 편측 편도 비대 동반 시
 
-### <mark style="color:orange;">급성 중이염 치료 알고리듬</mark>
-
-**국내 2014 지침 비교용** — ＜24개월 확진 AOM·최근 항생제 사용력·38.5℃ 기준은 국내 지침의 조건임. 본문의 AAP 중심 적용 기준과 구분하며, 중증 초치료에는 국내 지침상 고용량 amox-clav 권고.
+***
 
 ```mermaid
+graph TD
+    Start(["<b>급성 중이염 진단</b>"])
+    Severity["[중증]<br/>① 심한 이통 또는 보채거림<br/>② 38.5℃ 이상의 고열"]   
+    Start --> Severity
+    Severity -- "yes" --> Antibiotics["항생제 요법*"]
+    Severity -- "no" --> Certainty["[연령과 진단의 확실성]<br/>① 생후 6개월 미만<br/>② 2세 미만에서의 확진"]
+    Certainty -- "yes" --> Antibiotics
+    Certainty -- "no" --> PatientFactor["[환자 요인]<br/>① 항생제가 필요한 동반 질환<br/>② 최근 30일 내 항생제 복용<br/>③ 2~3일 후 추적 관찰 불가"]
+    PatientFactor -- "yes" --> Antibiotics
+    PatientFactor -- "no" --> Otorrhea["AOM의 새로 발생한 이루 <br/>또는 자연 천공"]
+    Otorrhea -- "yes" --> Antibiotics
+    Otorrhea -- "no" --> Supportive["항생제 투여 없는 대증 치료<br/>(2~3일 후 외래 예약)"]
+    Supportive --> Improvement["증상 호전?"]
+    Improvement -- "no" --> Antibiotics
+    Improvement -- "yes" --> Home["보호자 교육 후 귀가"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style Home fill:#d0e8ff,stroke:#1a6abf
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class Antibiotics,Supportive sky
+    classDef q fill:#fff9c4,stroke:#ffe082
+    class Severity,Certainty,PatientFactor,Otorrhea,Improvement q
 ```
 
-_\*항생제 요법 ① 치료 반응 판정: 2\~3일 후, 증상 호전 여부 ② 치료 기간: 반응 시 5\~10일 ③ 항생제 감수성 결과 나오면 적절한 항생제로 변경_
+> _\*항생제 요법 ① 치료 반응 판정: 2\~3일 후, 증상 호전 여부 ② 치료 기간: 반응 시 5\~10일 ③ 항생제 감수성 결과 나오면 적절한 항생제로 변경_
+>
+> _※＜24개월 확진 AOM·최근 항생제 사용력·38.5℃ 기준은 국내 지 침의 조건임. 본문의 AAP 중심 적용 기준과 구분하며, 중증 초치료에는 국내 지침상 고용량 amox-clav 권고._
 
 <p align="center"><strong>급성 중이염 진단 및 치료 알고리듬</strong><br><em><mark style="color:$info;">Ref. 대한이과학회. 유소아 중이염 진료지침. 2014.</mark></em></p>
 
 ***
 
-### <mark style="color:orange;">AOM 항생제 결정 알고리듬</mark>
-
 ```mermaid
+graph TD
+A(["급성 중이염 AOM 확진"]) --> B["중증인가?"]
+B -->|Yes| ABX["즉시 항생제 시작"]
+B -->|No| C["6개월 미만인가?"]
+C -->|Yes| ABX
+C -->|No| D["AOM의 자연 천공 <br/>또는 새로운 이루?"]
+D -->|Yes| ABX
+D -->|No| E["면역저하·와우 이식<br/>·복잡 기저질환<br/>·두개안면기형?"]
+E -->|Yes| SPECIAL["표준 관찰 기준 제외; <br/>개별 위험 평가·의뢰"]
+E -->|No| F["6~23개월 + <br/>양측 AOM인가?"]
+F -->|Yes| ABX
+F -->|No| G["48~72시간 추적 관찰 <br/>가능한가?"]
+G -->|No| ABX
+G -->|Yes| SHARED["보호자와 협의하여 <br/>항생제 또는 관찰 선택"]
+SHARED -->|항생제| ABX
+SHARED -->|관찰| OBS["관찰 + 진통제; <br/>지연 처방 고려"]
+OBS --> H["48~72시간 후 호전?"]
+H -->|Yes| HOME["항생제 없이 <br/>경과 관찰 종료"]
+H -->|No| ABX2["재평가 후 <br/>항생제 시작"]
+ABX --> I["고용량 Amoxicillin; 해당 <br/>적응증 있으면 Amox-clav"]
+ABX2 --> I
+I --> J["48~72시간 내 치료 반응 확인"]
+J --> K["호전 없음?"]
+K -->|Yes| ESC["진단·복약·합병증 재평가; <br/>Amox-clav 또는 Ceftriaxone"]
+K -->|No| END["처방 기간 치료 완료"]
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class HOME,END blue
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,C,D,E,F,G,H,K yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class ABX,ABX2,ESC,OBS sky
 ```
 
 <p align="center"><strong>AOM 항생제 결정 알고리듬</strong><br><em><mark style="color:$info;">Ref. AAP. Pediatrics 2013;131(3):e964–e999. 고위험군 평가를 포함하여 재구성.</mark></em></p>
