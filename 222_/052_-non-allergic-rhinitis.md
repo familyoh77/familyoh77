@@ -35,24 +35,25 @@
 
 * 급성 안면·안와 부종 또는 통증과 시력저하·복시·안구운동장애  `안와 합병증`
 * 심한 두통, 고열, 경부 강직 또는 의식 변화  `두개 내 합병증`
-* 두부 외상·비부비동 수술 후 편측성 맑은 콧물, 또는 신경학적 이상·수막염 증상을 동반한 맑은 콧물  `CSF 비루`
-* 비강 내 단추형 전지 의심, 또는 비중격 양쪽에서 자석끼리·자석과 금속이 서로 붙어 있는 경우  `조직 괴사·비중격 천공`
+* 최근 두부 외상·비부비동 수술 후 새로 발생한 편측성 맑은 콧물, 또는 신경학적 이상·수막염 증상을 동반한 맑은 콧물  `CSF 비루`
+* 비강 내 단추형 전지 의심, 또는 비중격 양쪽에서 자석끼리·자석과 금속이 서로 붙어 있는 경우  `비강 단추형 전지·자석 이물`
 * 혈관염 의심 소견과 함께 호흡곤란·저산소증을 동반한 객혈, 급성 신기능 저하·핍뇨, 급속히 진행하는 근력저하  `GPA·EGPA의 장기 위협 침범`
+* 당뇨병·면역저하 환자에서 비강 흑색 괴사·딱지, 안면 통증·부종 또는 감각저하  `급성 침습성 진균 부비동염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 고개를 숙일 때 증가하는 지속성 편측 맑은 콧물  `자발성 CSF 비루`
-* 지속되는 편측 코막힘·혈성 분비물 또는 반복 비출혈  `비강 이물` `비부비동 종양`
+* 지속되는 편측 코막힘·혈성 분비물 또는 반복 비출혈  `비강 이물`  `비부비동 종양`
 * 편측 증상과 함께 뺨 감각저하·안면 종창·치아 동요·눈물흘림  `비부비동 악성 종양`
-* 비강 딱지·혈성 분비물과 안장코 변형·비중격 천공, 또는 객혈·혈뇨 등 전신 증상; 장기 위협 소견은 즉각 조치  `GPA`
-* 천식·말초 호산구 증가와 함께 말초신경병증·자반 등 전신 증상; 장기 위협 소견은 즉각 조치  `EGPA`
-* 급속히 진행하는 비강 조직 손상, 심한 통증 또는 출혈을 동반한 딱지·악취  `감염·혈관염·종양 감별`
+* 비강 딱지·혈성 분비물과 안장코 변형·비중격 천공, 또는 객혈·혈뇨 등 전신 증상  `GPA`
+* 천식·말초 호산구 증가와 함께 말초신경병증·자반 등 전신 증상  `EGPA`
+* 급속히 진행하는 비강 조직 손상, 심한 통증 또는 출혈을 동반한 딱지·악취  `비부비동 종양`  `혈관염`  `만성 감염`
 * 소아의 편측 악취성 농성 분비물  `비강 이물`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 치료를 4주 이상 시행해도 호전되지 않는 코막힘  `구조적 비폐색` `혼합형 비염`
-* 천식·비용종 또는 aspirin/NSAID 과민 동반  `AERD` `NARES`
+* 적절한 치료를 4주 이상 시행해도 호전되지 않는 코막힘  `구조적 비폐색`  `혼합형 비염`
+* 천식·비용종 또는 aspirin/NSAID 과민 동반  `AERD`  `NARES`
 * 안정적으로 지속되는 비강 딱지·악취·후각 저하  `위축성 비염`
 
 ## <mark style="color:green;">종류 및 특성</mark>
@@ -72,6 +73,7 @@
 * 유발 인자 : 온도 변화(덥거나 찬 공기), 운동, 자극(냄새·연기·먼지), 습도, 음주, 뜨겁거나 매운 음식; 특정 항원 또는 감염과 무관
 * 치료 : 비내 스테로이드(INCS) 또는 비내 항히스타민제(INAH)를 1차 단독요법으로 선택; 중등도\~중증이면서 단독요법에 반응 불충분하면 병용 고려 <mark style="color:$info;">\[JACI 2020]</mark>
   * 콧물이 주증상이면 비내 ipratropium 단독 또는 INCS와 병용 고려
+  * azelastine <mark style="color:blue;">\[아젭틴비액]</mark> 단일제는 국내 혈관운동성 비염 적응증이 있으며, 12세 이상 각 비공 2 puffs bid. 임부·수유부 금기; 졸음·운전에 주의하고 알코올·중추신경억제제와 병용을 피함
 
 {% hint style="info" %}
 TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 감지)은 코 점막의 감각신경 말단에 분포하는 수용체. 일부 특발성 비염에서는 이들 감각신경 경로의 과반응이 증상 유발에 관여하지만, 모든 비-알레르기비염에 공통된 단일 기전은 아님
@@ -113,14 +115,14 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
   * 비내 항콜린제(ipratropium) : 수양성 전방 비루가 주증상이면 우선 고려. 코막힘·재채기 조절 효과는 없으며, 후비루가 주증상인 경우 효과는 확립되지 않음 <mark style="color:$info;">\[JACI 2020]</mark>
   * 비강 세척 병행
   * 국내 <mark style="color:blue;">\[리노벤트]</mark> 허가사항상 전립선비대증·폐쇄각 녹내장 환자는 투여 금기. 분무액이 눈에 들어가지 않도록 교육
-  * 전립선비대증 동반 고령 남성에서는 사용이 제한되므로 식염수 세척·유발 상황 조절을 우선
+  * 국내 <mark style="color:blue;">\[리노벤트]</mark> 허가사항상 전립선비대증 환자에는 투여하지 않으므로, 식염수 세척·유발 상황 조절을 우선
 
 > CSF 비루 감별 주의 : 고령자의 맑은 콧물이라고 해서 단순 노인성 비염으로 보면 안 됨. 편측성이거나 고개를 앞으로 숙일 때 증가하면 CSF 비루를 반드시 배제해야 함. 고령자에서 외상 없이도 자발성으로 발생 가능하며, 노인성 비염과 혼동되기 쉬움; β₂-transferrin 검사 및 당일\~수일 내 이비인후과 의뢰. 외상·수술 직후이거나 신경학적 이상·수막염 증상이 있으면 즉각 응급 평가
 
 ### <mark style="color:orange;">직업성 비염 (Occupational Rhinitis)</mark>
 
 * 증상 : 코막힘, 콧물; 알레르기 및 비-알레르기 특성이 혼재
-  * 작업환경의 노출로 새로 발생한 직업성 비염과, 기존 알레르기·비알레르기비염이 작업환경에서 악화되는 작업 악화성 비염(work-exacerbated rhinitis)을 구분
+  * 작업환경의 노출로 새로 발생한 직업성 비염과, 기존 알레르기비염·비-알레르기비염이 작업환경에서 악화되는 작업 악화성 비염(work-exacerbated rhinitis)을 구분
   * 근무 중 악화되고 휴일·휴가에 호전되는지 확인; 노출 후 지연 반응이 있어 퇴근 직후 반드시 호전되는 것은 아님
   * 기침·천명·호흡곤란 등 하기도 증상이 있으면 폐활량검사 등 직업성 천식 평가 및 의뢰 고려
 * 원인 물질 예시 : 식품 가공업(음식물 단백질), 제화업(접착제), 화학 공장(암모니아), 마트(세정제·향수·찬 공기)
@@ -134,7 +136,7 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
 #### <mark style="color:$primary;">임신성 비염</mark>
 
 * 임신 중 어느 시기에나 새로 발생할 수 있으며, 다른 감염·알레르기 원인 없이 6주 이상 지속되고 출산 후 2주 이내 소실되는 코막힘 중심의 비염; 임신 여성의 약 20%에서 발생
-* 비약물 요법(식염수 비강 세척·비강 확장 스트립)을 우선 시도
+* 비약물 요법(취침 시 머리 높임·식염수 비강 세척·비강 확장 스트립)을 우선 시도
 * 순수 임신성 비염 자체에 대한 비내 스테로이드의 효과는 확립되지 않음. Fluticasone propionate를 8주 사용한 무작위시험에서 위약보다 유의한 개선이 확인되지 않아, 비약물요법 불응 시 일률적으로 추가하지 않음 <mark style="color:$info;">\[Clin Otolaryngol 2001]</mark>
 * 알레르기비염 등 비내 스테로이드에 반응하는 비염이 동반된 임신부에서는 별도 적응을 평가. 새로 시작할 때는 임신 안전성 자료가 많은 budesonide를 우선 고려하며, mometasone·fluticasone도 선택 가능하나 제품별 국내 허가사항을 함께 고려(☞ [알레르기비염](051_-allergic-rhinitis.md#undefined-30)). 단일성분 제제의 안전성 자료를 복합제에 그대로 적용하지 않으며, 국내 <mark style="color:blue;">\[딜라스틴]</mark>은 임부·수유부 금기
 * 경구·비내 울혈 제거제는 가급적 피하며, 특히 경구 pseudoephedrine은 임신 1분기에 사용하지 않음. 다른 방법으로 조절되지 않는 극심한 코막힘에서만 산과적 검토 후 비내 oxymetazoline을 최소 용량·최단기간 사용 고려
@@ -148,10 +150,10 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
 ### <mark style="color:orange;">약물 반동성 비염 (Rhinitis Medicamentosa)</mark>
 
 * 증상 : 심한 코막힘(비내 울혈 제거제 사용 중단 시 악화되는 반동 현상)
-* 원인 : 비내 울혈 제거제(oxymetazoline, xylometazoline 등)의 빈번하거나 장기간 연속 사용. 발생 시점은 개인과 제제에 따라 수일\~수 주로 다양하므로 예방을 위해 임상적으로 3\~5일 이내 사용을 권장(제품별 허가 기간은 상이)
+* 원인 : 비내 울혈 제거제(oxymetazoline, xylometazoline 등)의 빈번하거나 장기간 연속 사용. 발생 시점은 개인과 제제에 따라 수일\~수 주로 다양하므로, 반동성 비충혈 예방을 위해 연속 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않음(제품별 허가 기간은 상이)
 * 기전 : 수용체 반응 저하, 점막 허혈·부종 등 복합 기전이 제시되나 완전히 규명되지 않음
 * 치료 : 원인 분무제 중단과 비내 스테로이드 사용. 즉시 중단이 원칙이나 견디기 어려우면 사용 빈도 감량 또는 한쪽 비강씩 중단하는 방법을 개별적으로 고려할 수 있으며, 이러한 감량법과 경구 스테로이드의 근거는 제한적
-  * 일반 의약품인 비강 분무제를 장기간 자가 사용하는 환자에서 흔히 발생하므로, 처음 처방 시 3\~5일 이상 연속 사용 금지 교육이 중요
+  * 일반 의약품인 비강 분무제를 장기간 자가 사용하는 환자에서 흔히 발생하므로, 처음 처방 시 연속 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않도록 교육하는 것이 중요
 
 ### <mark style="color:orange;">구조적 비폐색 - 비염의 감별진단</mark>
 
@@ -206,7 +208,7 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
 
 **기타**
 
-* 근무 중 악화, 퇴근 후 호전 → 직업성 비염
+* 근무일에 악화되고 휴일·휴가에 호전 → 직업성 비염 또는 작업 악화성 비염
 
 ### <mark style="color:orange;">AR vs 비-알레르기비염(non-AR) 감별</mark>
 
@@ -224,13 +226,14 @@ graph TD
     Other -->|아니오| Allergy["피부단자검사 또는 혈청 특이 IgE"]
     Allergy -->|양성| Relevant["해당 항원 노출과 증상의 임상적 연관?"]
     Relevant -->|있음| AR["알레르기비염 또는 혼합형 비염"]
+    AR -->|혼합형이면 비알레르기 성분| Pheno
     Relevant -->|없음·불명확| Recheck["검사 항원·노출 병력 재평가; 비알레르기성 원인 감별 지속"]
     Recheck --> Pheno["표현형 분류: 약물·반동성·호르몬·직업·미각·노인성·위축성·NARES·특발성"]
     Allergy -->|음성| LARq["전형적 항원 관련 증상?"]
     LARq -->|예| LAR["LAR 의심 → 의뢰(NAPT)"]
     LARq -->|아니오| Pheno
     Pheno --> Tx["유발 인자·약물 조정 + 표현형에 맞는 비약물·약물 치료"]
-    Tx --> Resp["4주 이상 치료 후 호전?"]
+    Tx --> Resp["표현형·약제에 맞춘 시점에 호전?<br/>INCS는 대개 2~4주 후 평가"]
     Resp -->|예| FU["표현형·반응에 따라 유지·감량"]
     Resp -->|아니오| Ref["분무법·순응도·진단 재평가 → 이비인후과 의뢰"]
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
@@ -260,7 +263,8 @@ graph TD
   * 울혈 제거 분무제 의존 → 분무제 중단 + INCS
   * 구조적 질환 → 의뢰
   * 단독요법 불충분한 중등도\~중증 비-알레르기비염 또는 혼합형 비염 → INCS + INAH 고려
-* 4주 이상 치료에도 호전이 없으면 진단·분무법·순응도를 재평가하고 구조적 병변 확인
+* 표현형·약제에 따라 반응과 부작용을 평가하며, INCS 등 유지 치료의 효과는 대개 2\~4주 후 판단. 악화하거나 부작용이 생기면 조기 재평가
+* 적절한 유지 치료에도 호전이 없으면 진단·분무법·순응도를 재평가하고 구조적 병변 확인
 
 {% hint style="info" %}
 비내 항히스타민/스테로이드 복합제 : 중등도\~중증 비-알레르기비염에서 INCS 또는 INAH 단독요법에 반응이 불충분하면 병용을 고려할 수 있으나 권고는 조건부이고 근거 수준이 낮음 <mark style="color:$info;">\[JACI 2020]</mark>. 국내 <mark style="color:blue;">\[딜라스틴]</mark>의 허가 적응증은 중등도\~중증의 연중 또는 계절성 알레르기비염으로, 순수 비-알레르기비염 사용은 허가 외 사용. 혼합형 비염은 검사상 감작만이 아니라 해당 알레르겐 노출과 증상의 임상적 연관성을 확인하여 진단하고, 실제 진단과 허가·급여기준에 따라 청구
@@ -349,7 +353,7 @@ _경구 항히스타민제 : 2세대 제제는 순수 비-알레르기비염에�
 
 > **비내 울혈 제거 분무제(<mark style="color:blue;">\[오트리빈]</mark>, <mark style="color:blue;">\[화이투벤]</mark> 등) 주의사항**
 >
-> * 이 약은 **연속 3\~5일을 초과하여 사용하지 마십시오.**
+> * 이 약은 **연속 3일 이내로 사용하고, 길어도 5일을 넘기지 마십시오.**
 > * 짧게 쉬면서 반복적으로 사용하는 경우에도 총 사용 기간과 빈도가 늘어나 반동성 코막힘 위험이 커질 수 있습니다.
 > * 이 약을 끊을 때 코막힘이 더 심해진 경험이 있다면 담당 의사와 상의하지 않고 반복 사용하지 마십시오.
 > * 의사 처방 없이 장기간 또는 반복적으로 사용 중이셨다면, 반드시 담당 의사에게 알려 주십시오.
@@ -361,7 +365,7 @@ _경구 항히스타민제 : 2세대 제제는 순수 비-알레르기비염에�
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 비내 스테로이드를 4주 이상 사용해도 증상이 전혀 개선되지 않을 때
+> * 비내 스테로이드를 4주 이상 사용해도 증상이 전혀 개선되지 않을 때; 악화하거나 부작용이 생기면 그 전이라도 방문
 > * **한쪽 코에서만 증상**이 지속될 때 - 다른 원인이 있을 수 있습니다
 > * 콧물에 **피가 섞이거나** 코피가 반복될 때
 > * **후각이 갑자기 저하**되었을 때
@@ -394,10 +398,10 @@ _경구 항히스타민제 : 2세대 제제는 순수 비-알레르기비염에�
 **✅ 증상 완화를 위한 생활 습관**
 
 1. **유발 요인을 파악하고 피하십시오.** 증상이 심해지는 상황(향수·담배 연기·찬 공기 등)을 메모해 두면 도움이 됩니다.
-2. **식염수 비강 세척**을 하루 1\~2회 시행하면 점막을 촉촉하게 유지하고 자극 물질을 씻어낼 수 있습니다. 세척액에는 멸균수·증류수 또는 끓였다 식힌 물을 사용하고 수돗물을 그대로 사용하지 마십시오.
-3. **실내 습도를 40\~60%로 유지**하십시오. 건조한 환경은 코 점막을 자극합니다.
+2. **식염수 비강 세척**을 하루 1\~2회 시행하면 점막을 촉촉하게 유지하고 자극 물질을 씻어낼 수 있습니다. 세척액에는 증류수·멸균수 또는 끓였다가 식힌 물을 사용하고 수돗물을 그대로 사용하지 마십시오.
+3. **실내 습도를 대체로 40\~50%로 유지**하십시오. 건조한 환경은 코 점막을 자극하며, 집먼지진드기 알레르기가 함께 있으면 50% 이하로 관리하십시오.
 4. **금연하시고, 간접흡연도 피하십시오.**
-5. 코막힘 분무제(오트리빈 등)는 **연속 3\~5일을 초과하여 사용하지 마십시오.** 짧게 쉬면서 자주 반복 사용하면 전체 사용 기간이 늘어나 반동성 코막힘 위험이 커질 수 있습니다.
+5. 코막힘 분무제(오트리빈 등)는 **연속 3일 이내로 사용하고, 길어도 5일을 넘기지 마십시오.** 짧게 쉬면서 자주 반복 사용하면 전체 사용 기간이 늘어나 반동성 코막힘 위험이 커질 수 있습니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">이럴 때는 병원을 방문하세요</mark>
@@ -408,6 +412,7 @@ _경구 항히스타민제 : 2세대 제제는 순수 비-알레르기비염에�
 * **냄새를 잘 못 맡게 되었을** 때
 * 4주 이상 치료해도 증상이 나아지지 않을 때
 * 코와 함께 **눈·귀·얼굴 통증**이 동반될 때
+* 아이가 코에 **단추형 전지나 자석**을 넣었다면 코를 풀게 하거나 직접 빼려 하지 말고 즉시 응급실을 방문하십시오.
 * 눈 주위가 붓고 **시력이 떨어지거나**, **심한 두통·고열**이 동반되면 즉시 응급실을 방문하십시오.
 
 ***
@@ -419,26 +424,24 @@ _경구 항히스타민제 : 2세대 제제는 순수 비-알레르기비염에�
 
 **② 처방받은 분무제를 용법에 맞게 사용하세요** - 비염의 유형과 주된 증상에 따라 사용하는 약이 다릅니다. 비내 스테로이드를 처방받았다면 규칙적으로 사용하고, 충분한 효과는 2\~4주 후 평가합니다.
 
-**③ 코막힘 분무제(오트리빈 등)는 연속 3\~5일을 초과하여 사용하지 마세요** - 짧게 쉬면서 자주 반복 사용하면 반동성 코막힘 위험이 커질 수 있습니다.
+**③ 코막힘 분무제(오트리빈 등)는 연속 3일 이내로 사용하고 길어도 5일을 넘기지 마세요** - 짧게 쉬면서 자주 반복 사용하면 반동성 코막힘 위험이 커질 수 있습니다.
 {% endhint %}
 
 ***
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### 임상 근거
+### <mark style="color:orange;">임상 근거</mark>
 
 * Dykewicz MS, et al. Rhinitis 2020: A practice parameter update. J Allergy Clin Immunol 2020;146(4):721-767.
 * Hellings PW, et al. Non-allergic rhinitis: Position paper of the European Academy of Allergy and Clinical Immunology. Allergy 2017;72(11):1657-1665.
 * Wise SK, et al. International consensus statement on allergy and rhinology: Allergic rhinitis - 2023. Int Forum Allergy Rhinol 2023;13(4):293-859.
 * Ellegård EK, Hellgren M, Karlsson NG. Fluticasone propionate aqueous nasal spray in pregnancy rhinitis. Clin Otolaryngol Allied Sci 2001;26(5):394-400. - 순수 임신성 비염에서 비내 스테로이드 효과를 평가한 무작위 위약 대조시험. [https://doi.org/10.1046/j.1365-2273.2001.00491.x](https://doi.org/10.1046/j.1365-2273.2001.00491.x)
-* American Academy of Otolaryngology–Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Updated May 2026. - 약물치료 불응성 만성 비염의 후비신경 시술 및 환자 선택 기준. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
+* American Academy of Otolaryngology-Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Updated May 2026. - 약물치료 불응성 만성 비염의 후비신경 시술 및 환자 선택 기준. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
 * Stolovitzky JP, et al. 3-Year Outcomes of Temperature-Controlled Radiofrequency Ablation of the Posterior Nasal Nerve in Patients With Chronic Rhinitis. Int Forum Allergy Rhinol 2025. doi:10.1002/alr.23577. - 고주파 시술 후 3년 추적 결과; 장기 단계의 대조군 부재·추적 탈락을 고려하여 해석. [https://doi.org/10.1002/alr.23577](https://doi.org/10.1002/alr.23577)
 * American College of Radiology. ACR Appropriateness Criteria®: Sinonasal Disease. - 단순 비염과 구분되는 비부비동 질환·합병증·CSF 누출 의심 시 영상검사 선택. [https://acsearch.acr.org/docs/69502/Narrative/](https://acsearch.acr.org/docs/69502/Narrative/)
-* Children’s Health Queensland. Foreign body in the nose – Emergency management in children. 2025. - 비강 이물, 특히 단추형 전지의 즉시 제거 및 자석 관련 처치. [https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose)
+* Children’s Health Queensland. Foreign body in the nose - Emergency management in children. 2025. - 비강 이물, 특히 단추형 전지의 즉시 제거 및 자석 관련 처치. [https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose)
 
-### 허가·급여 확인 자료
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-
-[https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
