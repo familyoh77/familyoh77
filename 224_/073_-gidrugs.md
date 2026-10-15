@@ -414,7 +414,7 @@
 * 투여 시간 : 아침 첫 식사 30\~60분 전; dexlansoprazole(이중 지연 방출)은 식사 무관
 * 대사 : 간 CYP2C19·3A4
 * 약물 상호 작용 : clopidogrel 활성화 저해(임상적 유의성 논란), 위산 의존 흡수 약제 흡수 감소, diazepam·warfarin·phenytoin 반감기 연장
-  * **clopidogrel 병용** : PPI(특히 omeprazole)의 CYP2C19 억제로 항혈소판 효과 저해 우려가 있으나, 대규모 연구에서 실제 심혈관 사건 증가는 입증되지 않음. PPI가 필요하다면 과도하게 회피하지 않아도 됨; 상호작용이 적은 pantoprazole, rabeprazole을 선택할 수 있음; P-CAB은 CYP2C19 영향이 더 적어 대안이 될 수 있음.
+  * **clopidogrel 병용** : PPI(특히 omeprazole)의 CYP2C19 억제로 항혈소판 효과 저해 우려가 있으나, 대규모 연구에서 실제 심혈관 사건 증가는 입증되지 않음. PPI가 필요하다면 과도하게 회피하지 않아도 됨; 상호작용이 적은 pantoprazole, rabeprazole을 선택할 수 있음; P-CAB도 성분별 상호작용을 고려함. 특히 vonoprazan은 CYP2C19 억제에 의해 clopidogrel의 항혈소판 효과를 감소시킬 수 있음.
 * 안전성 : 장 감염 위험은 소폭 증가할 수 있음. 폐렴·골절·영양 결핍·급만성 신질환·치매·당뇨병 등은 주로 관찰 연구에서 연관성이 보고되었으나 인과관계는 확립되지 않음. 확실한 적응증이 있으면 잠재적 이득이 위험보다 큼([ACG GERD 지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/))
 
 　☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20221201\&sno=8\&mtgMtrRegSno=0007)
@@ -441,12 +441,22 @@
 * 기전 : 위 벽세포 H⁺/K⁺-ATPase에 K와 경쟁적·가역적 결합 → 산 억제; 활성화에 위산 불필요 → 빠른 발현·식사 무관 복용
 * 장점 : 식전 복용 불필요, 빠른 초회 산 억제(복용 1\~2시간 후 작동), 야간 산 돌파 최소화
 * **H. pylori 제균** : [ACG 2024](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)는 감수성 확인 없는 clarithromycin 3제요법을 권고하지 않으며, 14일 bismuth 4제요법을 우선 권고하고 vonoprazan-amoxicillin 2제요법 등을 대안으로 제안함. 국내에서는 국내 내성 양상·가이드라인·제품 허가요법을 우선하며, P-CAB 기반 7일 clarithromycin 3제요법을 국제 지침의 보편적 우선 요법으로 해석하지 않음
-* 장기 안전성 데이터는 아직 부족
+* 장기 안전성 자료가 축적되고 있으나 PPI보다 제한적이며 성분별 차이가 큼. Vonoprazan에는 5년 추적 무작위 연구가 있음
 
 <table><thead><tr><th width="140">성분명 [상품명]</th><th width="263.75">특징</th><th>주요 적응증 및 용법</th></tr></thead><tbody><tr><td>revaprazan<br><mark style="color:blue;">[레바넥스]</mark></td><td>초기 acid pump antagonist; 후속 P-CAB보다 산 억제 근거가 제한적</td><td>국내 제품별 허가 적응증·용량 확인</td></tr><tr><td>vonoprazan<br><mark style="color:blue;">[보신티]</mark></td><td>국제 임상 근거가 풍부하나 국내 품목·급여·실제 유통 상태가 변동 중</td><td>국내에서 처방 가능한 상품으로 단정하지 말고 최신 식약처 품목 상태와 실제 출시 여부 확인; H. pylori 요법은 항생제 감수성·국내 지침과 허가사항에 따라 선택</td></tr><tr><td>fexuprazan<br><mark style="color:blue;">[펙수클루]</mark></td><td>강력한 산 억제; 반감기 약 9시간</td><td>미란성 GERD 40 ㎎ qd × 4주(불충분 시 4주 추가); 급·만성 위염 점막 병변 개선 10 ㎎ bid × 2주</td></tr><tr><td>tegoprazan<br><mark style="color:blue;">[케이캡]</mark></td><td>빠른 산 억제, CYP3A4 대사; 장기 자료 축적 중</td><td>기능성 소화불량 25 ㎎ qd × 4주; 비미란성 GERD 50 ㎎ qd × 4주; 위궤양 50 ㎎ qd × 8주; H. pylori 제균 50 ㎎ bid × 7일(병용 항생제 및 국내 허가사항 확인)</td></tr><tr><td>zastaprazan<br><mark style="color:blue;">[자큐보]</mark></td><td>2024년 국내 허가·출시된 P-CAB</td><td>미란성 GERD 20 ㎎ qd × 4주; 치료되지 않으면 4주 추가 가능, 식사와 관계없이 복용</td></tr></tbody></table>
 
 * tegoprazan 부작용(＞1%) : 구역, 설사, 소화불량, 상기도 감염, 흉부 불편감
 * P-CAB은 성분별 대사와 허가사항이 다름. 간·신장 기능 저하, 고령, 임부·수유부에서 자료를 확인하고, 위산 의존 흡수 약제(atazanavir, rilpivirine, 일부 azole계 등)와의 병용을 피하거나 대체
+
+### <mark style="color:orange;">PPI–P-CAB 비교</mark>
+
+<table><thead><tr><th width="150">비교 항목</th><th>PPI</th><th>P-CAB</th></tr></thead><tbody><tr><td>작용 기전</td><td>산성 환경에서 활성화된 후 H⁺/K⁺-ATPase를 비가역적으로 억제</td><td>산에 의한 활성화 없이 H⁺/K⁺-ATPase를 K⁺ 경쟁적·가역적으로 억제</td></tr><tr><td>효과 발현</td><td>초회부터 작용하나 반복 투여하면서 산 억제 효과 증가</td><td>초회부터 빠르고 강력한 산 억제</td></tr><tr><td>식사와의 관계</td><td>대부분 식전 30~60분; dexlansoprazole 등 일부 제형은 예외</td><td>대체로 식사와 관계없이 복용</td></tr><tr><td>야간 산 억제</td><td>야간 산 돌파가 발생할 수 있음</td><td>일부 성분에서 표준 용량 PPI보다 우수한 야간 산 억제 확인</td></tr><tr><td>CYP2C19 유전형 영향</td><td>성분별 차이 있음; rabeprazole 등은 상대적으로 적음</td><td>대체로 적음. 다만 CYP2C19 억제에 의한 약물 상호작용과는 별개</td></tr><tr><td>미란성 식도염</td><td>치유·유지치료 근거 풍부</td><td>효과적인 치료 선택지. 중증 식도염에서 일부 성분의 우월성이 확인되었으나 계열 전체로 일반화하지 않음</td></tr><tr><td>비미란성 GERD·증상 조절</td><td>임상 경험과 근거 풍부</td><td>효과가 있으나 PPI 대비 증상 개선의 일률적 우월성은 확립되지 않음</td></tr><tr><td>H. pylori 제균</td><td>다양한 표준 제균요법의 구성 약제</td><td>성분·항생제 조합·치료 기간에 따라 효과가 다름. Vonoprazan의 결과를 다른 성분에 그대로 적용하지 않음</td></tr><tr><td>약물 상호작용</td><td>위산 의존 흡수 약제 및 성분별 CYP 상호작용</td><td>위산 의존 흡수 약제 및 성분별 CYP 상호작용. 상호작용이 없는 계열은 아님</td></tr><tr><td>장기 안전성</td><td>장기간 사용 경험과 자료 풍부</td><td>장기 자료가 축적되고 있으나 PPI보다 제한적이며 성분별 차이가 큼</td></tr></tbody></table>
+
+{% hint style="info" %}
+**비교표 해석** — 위내 pH 개선이 증상 개선의 우월성을 뜻하지는 않음. 미란성 식도염의 우월성 근거는 특히 vonoprazan과 표준 용량 lansoprazole의 비교 결과가 중심이므로 다른 P-CAB 또는 고용량 PPI와의 비교에 그대로 적용하지 않음. CYP2C19 유전형의 영향이 적다는 것과 CYP2C19 억제에 의한 병용약 상호작용이 적다는 것은 구분함.
+
+근거 : [ACG GERD 지침 2022](https://pubmed.ncbi.nlm.nih.gov/34807007/), [AGA P-CAB 임상 업데이트 2024](https://pubmed.ncbi.nlm.nih.gov/39269391/), [vonoprazan–lansoprazole 비교시험 2023](https://pubmed.ncbi.nlm.nih.gov/36228734/), [tegoprazan–esomeprazole 야간 증상 비교시험 2023](https://pubmed.ncbi.nlm.nih.gov/36581325/), [VISION 5년 안전성 연구](https://pubmed.ncbi.nlm.nih.gov/39209187/), [vonoprazan 미국 허가사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cc52ac5-77ec-4d66-a770-762a1a960914).
+{% endhint %}
 
 ***
 
