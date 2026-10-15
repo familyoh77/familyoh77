@@ -175,7 +175,7 @@ graph TD
 * 원인 불명 반복 실신 → Implantable loop recorder(ILR)
   * ILR은 장기 모니터링에 유용하며, 특히 부정맥이 의심되나 ECG·단기 모니터링에서 확인되지 않고 장치 배터리 수명 내 재발 가능성이 높은 경우 평가 초기 단계에서 고려 (☞ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220201\&sno=5\&mtgMtrRegSno=0002))
 * 진단적 carotid sinus massage : ＞40세의 원인불명 실신 중 반사성 기전에 합당한 경우, 지속 ECG 및 beat-to-beat 혈압 모니터링과 응급소생이 가능한 환경에서 고려
-  * 시행법 : 좌·우 경동맥동을 각각 앙와위(supine)에서 먼저 마사지(약 10초)하고, 음성이면 기립경사대를 이용해 세운 자세(upright)에서 재시행(Six-Step Method) \[ESC 2018, Europace 2024]
+  * 시행법 : 좌·우 경동맥동을 각각 앙와위(supine)에서 먼저 마사지(약 10초)하고, 음성이면 기립경사대를 이용해 세운 자세(upright)에서 재시행(Six-Step Method) <mark style="color:$info;">\[ESC 2018, Europace 2024]</mark>
   * 훈련된 검사자와 보조 인력 등 2인 이상이 참여하고 검사 전 금기·주의사항과 응급대응 준비를 확인
   * 최근 TIA·뇌졸중·심근경색, 유의한 경동맥 협착·잡음 등 금기·주의 확인
   * 3초 이상 무수축 및/또는 수축기 혈압 50 ㎜Hg 이상 저하만으로는 carotid sinus hypersensitivity이며, 자발성 실신과 합당한 증상이 재현되어야 carotid sinus syndrome 진단
@@ -204,7 +204,7 @@ graph TD
 
 * 응급실 내원 실신 환자의 30일 내 중대 결과 발생 위험 예측 도구
 * 9개 항목(병력, 활력징후, ECG, troponin, 응급실 진단)으로 구성; 점수범위 −3\~+11점. (☞ [계산기](https://www.mdcalc.com/canadian-syncope-risk-score))
-  * 매우 낮은 위험(−3, −2점) + 낮은 위험(−1, 0점) 30일 중대 결과 발생률 : 약 0.4%(개별군 0.2%, 0.7%) \[JAMA Intern Med 2020]
+  * 매우 낮은 위험(−3, −2점) + 낮은 위험(−1, 0점) 30일 중대 결과 발생률 : 약 0.4%(개별군 0.2%, 0.7%) <mark style="color:$info;">\[JAMA Intern Med 2020]</mark>
   * 중간 위험(1\~3점) : 관찰·신속 추적 또는 입원을 임상적으로 결정
   * 높은 위험(4, 5점)·매우 높은 위험(≥6점) : 집중 평가와 입원을 고려
 * 적용 범위와 한계

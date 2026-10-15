@@ -88,14 +88,14 @@
 ## <mark style="color:green;">진단</mark>
 
 * 병력으로 진단 : 움직임 충동이 휴식 시 시작되고, 움직이는 동안 일시적으로 호전되며, 저녁·야간에 심해지는지 확인
-* 철분 검사 : 아침 공복에 채혈. 철분 함유 음식·보충제는 채혈 최소 24시간 전부터 피하고 \[AASM 2025], 경구 철분제는 48시간 전 중단 \[RLS Foundation 2026]
+* 철분 검사 : 아침 공복에 채혈. 철분 함유 음식·보충제는 채혈 최소 24시간 전부터 피하고 <mark style="color:$info;">\[AASM 2025]</mark>, 경구 철분제는 48시간 전 중단 <mark style="color:$info;">\[RLS Foundation 2026]</mark>
   * Ferritin, TSAT(= Fe/TIBC × 100), Fe, TIBC를 확인
   * TSAT ≥45%가 반복되면 철분 투여를 보류하고 ferritin, 간질환·수혈력·가족력 및 다른 원인을 함께 평가
   * 설명되지 않는 TSAT의 지속적 상승이나 철 과부하(ferritin 상승 동반 등)가 의심되면 혈액내과·소화기내과 의뢰 또는 혈색소증 유전자 검사를 고려
   * ferritin이 연령·성별 정상 하한 미만이면 철분 결핍 원인 평가 : 월경과다, 상·하부 위장관 병변, 흡수장애, 채식, 잦은 헌혈, PPI·H2 차단제 사용 등
 
 {% hint style="info" %}
-Ferritin 수치는 측정법에 따라 차이가 큼. RLS Foundation 2026은 Beckman 또는 이에 상응하는 측정법을 기준으로 하며, 이 알고리듬의 기준값 75/100/300 ng/㎖는 Roche 측정법에서 각각 약 121/158/457 ng/㎖에 해당 \[RLS Foundation 2026]. 가능하면 소속 검사실의 측정법을 확인
+Ferritin 수치는 측정법에 따라 차이가 큼. RLS Foundation 2026은 Beckman 또는 이에 상응하는 측정법을 기준으로 하며, 이 알고리듬의 기준값 75/100/300 ng/㎖는 Roche 측정법에서 각각 약 121/158/457 ng/㎖에 해당 <mark style="color:$info;">\[RLS Foundation 2026]</mark>. 가능하면 소속 검사실의 측정법을 확인
 {% endhint %}
 
 * 필요시 : CBC(철 지표 이상·빈혈 의심 시), BUN/Cr (콩팥기능 평가), 혈당, 말초신경병증 평가
@@ -104,7 +104,7 @@ Ferritin 수치는 측정법에 따라 차이가 큼. RLS Foundation 2026은 Bec
 * 중증도·치료 반응 평가 : 치료 전후의 빈도, 시작 시각, 수면 지연, 야간 각성과 재입면 시간을 문진으로 비교
   * 정량 평가가 필요하면 IRLS 중증도 척도(10문항, 0\~40점; 0점 증상 없음, 1\~10점 경증, 11\~20 중등도, 21\~30 중증, 31\~40 최중증) 사용 - 임상의는 [ePROVIDE](https://eprovide.mapi-trust.org/instruments/international-restless-legs-syndrome-study-group-severity-rating-scale#languages)에서 무료로 이용 가능
 
-### <mark style="color:orange;">진단 기준</mark> \[IRLSSG 2014]
+### <mark style="color:orange;">진단 기준</mark> <mark style="color:$info;">\[IRLSSG 2014]</mark>
 
 #### <mark style="color:$primary;">Essential diagnostic criteria</mark>
 
@@ -189,12 +189,12 @@ graph TD
 
 * **Intermittent (간헐적)** : 치료가 필요할 만큼 불편하지만 평균 주 ＜2회 발생
   * 치료 : 비약물 치료 우선. 장거리 이동·공연 관람 등 예측 가능한 유발 상황이나 증상 시작 시 저용량 carbidopa/levodopa, 도파민 작용제(증상 2시간 전 복용이 필요하므로 예측 가능한 상황에 한정), 저역가 opioid(codeine 30\~90 ㎎, tramadol 50\~100 ㎎)를 간헐적으로 사용
-  * 어느 약이든 주 3회를 넘기지 않음 \[RLS Foundation 2026]
+  * 어느 약이든 주 3회를 넘기지 않음 <mark style="color:$info;">\[RLS Foundation 2026]</mark>
 * **Chronic-persistent (만성 지속형)** : 매일 치료가 필요할 정도로 불편하며, 대개 주 ≥2회이고 중등도 이상의 고통을 줌
 
 **Step 6. 1차 치료** : 철분 치료 및 gabapentinoid
 
-* **First-line** : Gabapentinoid \[AASM 2025 강력 권고]
+* **First-line** : Gabapentinoid <mark style="color:$info;">\[AASM 2025 강력 권고]</mark>
   * gabapentin 300 ㎎(고령자 100 ㎎) 시작 → 통상 900\~1,800 ㎎/d
   * pregabalin 75 ㎎(고령자 50 ㎎) 시작 → 통상 300 ㎎/d(필요 시 150\~600 ㎎/d 범위에서 조절, 최대 600 ㎎/d)
 * **제한적 대안** : 저용량 opioid·도파민 작용제
@@ -230,12 +230,12 @@ graph TD
 * 저녁 때 알코올, 카페인, 니코틴 회피
   * 알코올 섭취를 중단하고 증상 빈도 변화를 확인
 * 증상이 있을 때 정신적 각성 활동(게임, 퍼즐)
-* 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 약물 1종 이상에 실패한 성인 RLS의 보조 치료 \[AASM 2025 조건부 권고]; 국내 미도입
+* 양측 고주파 비골신경 자극(bilateral high-frequency peroneal nerve stimulation) : 약물 1종 이상에 실패한 성인 RLS의 보조 치료 <mark style="color:$info;">\[AASM 2025 조건부 권고]</mark>; 국내 미도입
 
 ## <mark style="color:green;">약물 치료</mark>
 
 * 1차 선택제 : 철 상태에 따른 철분 치료와 gabapentinoid
-  * 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험 때문에 표준적 일상 사용에 대한 조건부 권고 반대로 변경됨 \[AASM 2025]
+  * 기존 1차 치료제였던 도파민 작용제(pramipexole, ropinirole, rotigotine)는 augmentation 위험 때문에 표준적 일상 사용에 대한 조건부 권고 반대로 변경됨 <mark style="color:$info;">\[AASM 2025]</mark>
 
 #### <mark style="color:$primary;">철분 보충</mark>
 
@@ -255,7 +255,7 @@ graph TD
 
 **IV ferric carboxymaltose**
 
-* 적절한 철 상태의 성인 RLS에서 강력 권고 \[AASM 2025]. 임상 반응은 최대 6\~8주까지 지연될 수 있음 <mark style="color:blue;">\[페린젝트주]</mark>
+* 적절한 철 상태의 성인 RLS에서 강력 권고 <mark style="color:$info;">\[AASM 2025]</mark>. 임상 반응은 최대 6\~8주까지 지연될 수 있음 <mark style="color:blue;">\[페린젝트주]</mark>
 * RLS 치료 목적은 국내 허가 외 사용이며 비급여 가능성이 높음
   * RLS 연구의 총 1,000 ㎎ 용량도 국내 제품 허가사항의 Hb·체중별 총 투여량과 다를 수 있으므로 처방례의 구분 참조
 * 심한 과민반응·아나필락시스는 드묾(약 1/200,000)
@@ -270,13 +270,13 @@ graph TD
 
 **경구 ferrous sulfate**
 
-* ferritin ≤75 ng/㎖ 및 TSAT ＜45%에서 고려 \[RLS Foundation 2026]
+* ferritin ≤75 ng/㎖ 및 TSAT ＜45%에서 고려 <mark style="color:$info;">\[RLS Foundation 2026]</mark>
   * 위 표의 “ferritin ≤75 ng/㎖ 또는 TSAT ＜20%”는 AASM 2025의 철분 보충 개시 기준이며, 이 항목의 경구 철분 기준은 RLS Foundation 2026의 범위임
 * Ferritin ＞75 ng/㎖이고 TSAT만 낮은 경우(특히 ferritin 75\~100 ng/㎖)에는 경구 철분을 바로 시작하지 말고 염증·흡수장애 여부와 IV 철분 적합성을 평가 (☞ [철결핍빈혈](../230_/193_-iron-def-anemia.md))
 * 취침 전 복용을 고려할 수 있으나, 아침 복용보다 RLS 치료 효과가 우수하다는 임상 근거는 확립되지 않음
   * 공복 복용 가능 여부와 내약성을 고려해 복용 시각을 정함
   * 식사나 칼슘·마그네슘·카페인 섭취 후 2시간 이상 지나서 복용하고, 위장 장애 시 음식과 함께 복용할 수 있음
-* 1일 1회 또는 격일 복용하며 격일 복용을 선호 \[RLS Foundation 2026]
+* 1일 1회 또는 격일 복용하며 격일 복용을 선호 <mark style="color:$info;">\[RLS Foundation 2026]</mark>
   * 원소철 약 65 ㎎의 속방형 ferrous sulfate를 우선 고려
   * 서방형은 같은 원소철 함량이라도 흡수와 RLS 치료 효과가 동등하다고 단정할 수 없으므로, 사용 시 증상·철 지표 반응을 확인
   * 비타민 C 100\~200 ㎎ 병용이 흡수를 높일 수 있음
@@ -295,7 +295,7 @@ graph TD
 
 #### <mark style="color:$primary;">Gabapentinoids (α2δ 칼슘통로 리간드)</mark>
 
-* 1차 선택 \[AASM 2025 강력 권고]. 치료 용량에서 약 70%에서 유효
+* 1차 선택 <mark style="color:$info;">\[AASM 2025 강력 권고]</mark>. 치료 용량에서 약 70%에서 유효
 * gabapentin <mark style="color:blue;">\[뉴론틴]</mark>·pregabalin <mark style="color:blue;">\[리리카]</mark>는 국내 RLS 적응증 미승인(허가 외 사용, 비급여 가능)
 * 장점 : 도파민 작용제와 달리 augmentation이 없고 수면 개선, 불안·통증 동반 시 유리
 * 주의 : 어지럼, 보행 불안정·낙상, 졸림, 인지 저하, 부종, 체중 증가(약 20%), 우울 악화·자살사고, 오남용 가능성(특히 opioid 사용장애 병력)
@@ -314,10 +314,10 @@ graph TD
 
 #### <mark style="color:$primary;">도파민 작용제</mark>
 
-* 표준적 일상 사용에 대한 조건부 권고 반대 \[AASM 2025]
+* 표준적 일상 사용에 대한 조건부 권고 반대 <mark style="color:$info;">\[AASM 2025]</mark>
   * gabapentinoid가 부적합·불내성이거나 불충분하고 환자가 augmentation·충동조절장애 위험을 이해하고 수용하는 경우에만 제한적으로 선택
 * 사용 조건 : augmentation과 충동조절장애를 교육하고, 스스로 증량하지 않으며 악화 시 즉시 알리도록 함
-  * 최대 용량을 넘기지 않고, 최소 6개월마다 재방문하여 환자와 배우자에게 증상 악화와 충동 행동을 확인 \[RLS Foundation 2026]
+  * 최대 용량을 넘기지 않고, 최소 6개월마다 재방문하여 환자와 배우자에게 증상 악화와 충동 행동을 확인 <mark style="color:$info;">\[RLS Foundation 2026]</mark>
 * Augmentation이 의심되면 증량하지 말고, 대체 치료를 먼저 도입한 뒤 서서히 감량
 * pramipexole : 0.125 ㎎ qd, 취침 2\~3시간 전 → 필요 시 4\~7일마다 0.25 ㎎, 0.5 ㎎으로 증량
   * 국내 허가 및 전문가 권장 최대 0.5 ㎎ qd (0.75 ㎎의 추가 이득은 입증되지 않음) <mark style="color:blue;">\[미라펙스]</mark>
@@ -338,12 +338,12 @@ graph TD
 **도파민 작용제 Augmentation**
 
 * 도파민 작용제를 장기 사용하면 augmentation이 발생할 수 있음
-* 선별 원칙 : 안정 용량 복용 중 증상이 악화되면 다른 원인이 입증되기 전까지 augmentation으로 간주 \[RLS Foundation 2026]
-* 진단 기준 - 치료 전보다 전반적 증상이 악화(지난 1주간 주 ≥5일, 다른 요인으로 설명되지 않음)되고 다음 중 하나에 해당 \[Sleep Med 2007]
+* 선별 원칙 : 안정 용량 복용 중 증상이 악화되면 다른 원인이 입증되기 전까지 augmentation으로 간주 <mark style="color:$info;">\[RLS Foundation 2026]</mark>
+* 진단 기준 - 치료 전보다 전반적 증상이 악화(지난 1주간 주 ≥5일, 다른 요인으로 설명되지 않음)되고 다음 중 하나에 해당 <mark style="color:$info;">\[Sleep Med 2007]</mark>
   1. 증상이 치료 전보다 ≥4시간 일찍 시작
   2. 증상 시작 시각이 치료 전보다 2\~4시간 빨라지고, 다음 중 1개 이상 동반 : ① 휴식 후 증상 발생까지의 시간 단축, ② 다른 신체 부위로 확산, ③ 증상 강도 증가, ④ 약효 지속시간 단축
   3. 증량 시 악화·감량 시 호전의 역설적 반응
-* 발생률 : 장기 사용 시 8\~10년에 걸쳐 augmentation이 42\~70%에서 보고됨 \[RLS Foundation 2026]
+* 발생률 : 장기 사용 시 8\~10년에 걸쳐 augmentation이 42\~70%에서 보고됨 <mark style="color:$info;">\[RLS Foundation 2026]</mark>
   * 위험도는 약제·용량·치료기간에 따라 다르므로 특정 누적률을 개별 환자에게 그대로 적용하지 않음
 * Augmentation 위험인자
   * 도파민 작용제 고용량 또는 장기 사용
@@ -364,7 +364,7 @@ graph TD
 #### <mark style="color:$primary;">Levodopa</mark>
 
 * 특정 상황에서 발생하는 간헐적 증상에 필요 시 선택할 수 있으나 주 3회 이내로 제한
-* 만성 지속형 RLS의 일상적 사용은 높은 augmentation 위험 때문에 피함 \[AASM 2025 표준 사용 조건부 권고 반대]
+* 만성 지속형 RLS의 일상적 사용은 높은 augmentation 위험 때문에 피함 <mark style="color:$info;">\[AASM 2025 표준 사용 조건부 권고 반대]</mark>
 * carbidopa/levodopa : 25/100 ㎎ ½\~1정을 유발 상황 30분 전 또는 증상 시작 시 간헐적으로 사용(주 3회 이내), 고단백 식사와 함께 복용하지 않음 - 국내 RLS 적응증 미승인(허가 외 사용) <mark style="color:blue;">\[퍼킨정 25-100]</mark>
 
 #### <mark style="color:$primary;">저용량 Opioid</mark>
@@ -422,7 +422,7 @@ graph TD
 #### <mark style="color:$primary;">말기콩팥병·투석 환자</mark>
 
 * 철분 결핍 교정 : ferritin ＜200 ng/㎖ 및 TSAT ＜20%인 말기콩팥병 환자에서 IV iron sucrose를 AASM 2025가 조건부 권고(투석 회로 투여 가능) <mark style="color:blue;">\[베노훼럼주]</mark>
-* 비타민 C 보충 \[AASM 2025 조건부 권고], 운동, 마사지, 투석액 온도 낮추기
+* 비타민 C 보충 <mark style="color:$info;">\[AASM 2025 조건부 권고]</mark>, 운동, 마사지, 투석액 온도 낮추기
 * 콩팥이식 후 호전되거나 소실되는 경우가 많음
 * gabapentin, pregabalin : 저용량으로 시작하고 투석 후 투여, 진정·보행 불안정을 주의 깊게 관찰
 * opioid가 필요하면 콩팥 기능에 따른 용량 조절이 필요 없는 buprenorphine 패취를 우선 고려

@@ -7,7 +7,7 @@
   * 여성에서도 흉통은 ACS의 가장 흔한 증상이며 남성과 비슷한 빈도로 나타나지만, 오심, 호흡곤란, 피로 등의 동반 증상이 더 흔할 수 있으므로 이를 비심장성으로 오인하지 않도록 주의
 * 흉통 환자 진단의 관건은 Red flags 및 ACS 등 응급 의뢰 필요 여부를 판단하는 것임
   * 심장 기원 가능성이 낮으면 다른 원인 감별
-* 흉통의 분류에서 '비전형적(atypical)'이라는 표현은 오해를 유발하므로 사용하지 않으며, '심장성', '심장성 가능', '비심장성'으로 분류 \[2021 AHA/ACC]
+* 흉통의 분류에서 '비전형적(atypical)'이라는 표현은 오해를 유발하므로 사용하지 않으며, '심장성', '심장성 가능', '비심장성'으로 분류 <mark style="color:$info;">\[2021 AHA/ACC]</mark>
 
 #### <mark style="color:$primary;">흉통 양상에 따른 허혈 가능성</mark>
 
@@ -115,11 +115,11 @@
 
 * 급성 흉통 환자에서 ECG는 처치 방향을 결정하는 핵심 도구임
 * 12-Lead ECG : 명백한 비심장성 원인이 확인되지 않은 안정형 흉통 및 모든 급성 흉통 환자에서 시행. 외래에서 ECG를 시행할 수 없고 심장 원인을 배제하기 어려우면 응급실 의뢰
-* 'Door-to-ECG 10분' : 내원 후 10분 이내 시행 및 판독하는 것이 긴요 \[2021 AHA/ACC]
+* 'Door-to-ECG 10분' : 내원 후 10분 이내 시행 및 판독하는 것이 긴요 <mark style="color:$info;">\[2021 AHA/ACC]</mark>
 
 <mark style="color:cyan;">**ECG 소견에 따른 처치 알고리즘**</mark>
 
-* STEMI 확인 시 즉각 재관류 치료. First medical contact–device time을 최소화하며, PCI 가능 병원에서는 door-to-device ≤90분을 목표로 함 \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline]
+* STEMI 확인 시 즉각 재관류 치료. First medical contact–device time을 최소화하며, PCI 가능 병원에서는 door-to-device ≤90분을 목표로 함 <mark style="color:$info;">\[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline]</mark>
 * 정상 ECG라도 ACS를 배제할 수 없으므로 반드시 트로포닌 등 추가 평가를 병행해야 함
   * 진행 중인 ACS 환자가 초기 ECG가 정상이라는 이유로 응급실에서 잘못 퇴원하는 경우가 최대 6%까지 보고됨
   * 좌회선동맥·우관상동맥 폐색은 표준 12유도에서 '전기적 침묵' 가능 → 후벽 MI 의심 시 V7-V9 추가
@@ -501,7 +501,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
   * first medical contact–device time 최소화, PCI 가능 병원에서는 door-to-device ≤90분 목표
 
 {% hint style="warning" %}
-**코카인·암페타민 급성 중독이 동반된 흉통** : 빈맥·고혈압·흥분 등 급성 중독 징후가 있는 상태에서는 관상동맥 연축이 악화될 수 있어 혈관확장제 병용 없이 β차단제를 단독 투여하지 않음. Benzodiazepine과 nitroglycerin 등으로 교감신경 항진·연축을 우선 치료 \[2014 AHA/ACC NSTE-ACS Guideline]. 단, 급성 중독 징후가 없는 최근 사용력만 있는 경우는 일반 ACS 처치를 따름
+**코카인·암페타민 급성 중독이 동반된 흉통** : 빈맥·고혈압·흥분 등 급성 중독 징후가 있는 상태에서는 관상동맥 연축이 악화될 수 있어 혈관확장제 병용 없이 β차단제를 단독 투여하지 않음. Benzodiazepine과 nitroglycerin 등으로 교감신경 항진·연축을 우선 치료 <mark style="color:$info;">\[2014 AHA/ACC NSTE-ACS Guideline]</mark>. 단, 급성 중독 징후가 없는 최근 사용력만 있는 경우는 일반 ACS 처치를 따름
 {% endhint %}
 
 #### <mark style="color:$primary;">PE 의심 시 처치</mark>

@@ -10,7 +10,7 @@
 * 1년에 1회\~1주에 수회 빈도로 재발
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
 
-### <mark style="color:orange;">분류 \[ICHD-3]</mark>
+### <mark style="color:orange;">분류 </mark><mark style="color:$info;">\[ICHD-3]</mark>
 
 1. Migraine without aura
 2. Migraine with aura
@@ -377,7 +377,7 @@ flowchart TD
 
 * 생활습관 개선과 적절한 급성기 치료에도 불구하고 편두통으로 인한 유의미한 일상생활 장애
 * 두통 빈도가 적더라도 급성기 치료에 반응하지 않거나 두통으로 인한 장애가 있는 경우
-* 월 편두통일수 ≥4일 또는 월 중등도\~중증 두통일수 ≥4일인 경우 예방 치료 제공을 권고 \[AAN/AHS 2026]
+* 월 편두통일수 ≥4일 또는 월 중등도\~중증 두통일수 ≥4일인 경우 예방 치료 제공을 권고 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 * ≥10\~15일/월 급성기 치료(약물과용두통 우려가 있으므로 예방 치료 권고)
 * 뇌간 조짐 편두통, 반신 마비 편두통 등 특수 아형
 * 급성기 치료의 의학적 금기가 있는 경우
@@ -396,7 +396,7 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 
 ### <mark style="color:orange;">기존 경구 예방약</mark>
 
-* 중등도 이상의 효과 근거가 있는 기존 경구 예방약 : propranolol, topiramate, valproate; amitriptyline·metoprolol·flunarizine은 삽화성 편두통에서 낮은 확실성의 근거 \[AAN/AHS 2026]
+* 중등도 이상의 효과 근거가 있는 기존 경구 예방약 : propranolol, topiramate, valproate; amitriptyline·metoprolol·flunarizine은 삽화성 편두통에서 낮은 확실성의 근거 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 * valproate는 강력한 기형 유발 위험으로 가임 가능 여성에서는 예방약 선택 시 원칙적으로 제외하고, 다른 예방약 실패 시에도 우선 다른 계열로 대체를 고려
 
 #### <mark style="color:$primary;">β-차단제</mark>
@@ -478,7 +478,7 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 
 #### <mark style="color:$primary;">항고혈압제</mark>
 
-* 삽화성 편두통 예방에 telmisartan·nifedipine·enalapril의 근거를 낮은 확실성으로 평가, 널리 사용되는 candesartan은 해당 지침의 분석 기준상 근거 불충분 \[AAN/AHS 2026]
+* 삽화성 편두통 예방에 telmisartan·nifedipine·enalapril의 근거를 낮은 확실성으로 평가, 널리 사용되는 candesartan은 해당 지침의 분석 기준상 근거 불충분 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
   * 국내외 다른 지침과 환자의 동반 고혈압을 함께 고려하여 개별 선택
 * flunarizine : 5\~10 ㎎/d <mark style="color:blue;">\[씨베리움]</mark>
   * 부작용 : 체중 증가, 졸림, 입마름, 어지럼증, 저혈압, 우울
@@ -492,7 +492,7 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>
 
-* 근거 부족으로 사용하지 않을 것을 제안 \[대한두통학회 2021]
+* 근거 부족으로 사용하지 않을 것을 제안 <mark style="color:$info;">\[대한두통학회 2021]</mark>
 * 부작용 : 어지럼증, 졸음, 균형 장애
 * gabapentin : 300\~900 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>
 * pregabalin : 50\~300 ㎎/d <mark style="color:blue;">\[리리카]</mark>
@@ -523,15 +523,15 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 
 * ＞72시간 지속되는 심한 편두통; 탈수·전해질 불균형 동반 가능
 * 응급실 의뢰 고려
-* 아래 비경구 치료 근거의 상당 부분은 status migrainosus만을 대상으로 한 연구가 아니라, 응급실에서 비경구 치료가 필요한 급성 편두통 전반의 연구에서 도출됨 \[AHS ED 2025]
+* 아래 비경구 치료 근거의 상당 부분은 status migrainosus만을 대상으로 한 연구가 아니라, 응급실에서 비경구 치료가 필요한 급성 편두통 전반의 연구에서 도출됨 <mark style="color:$info;">\[AHS ED 2025]</mark>
 * IV 수액 : 탈수·경구 섭취 불량·저혈압이 있는 경우 0.9% 생리식염주사액 또는 하트만액 등 등장성 결정질액으로 교정; 모든 환자에게 일률적으로 투여하지 않음
-* IV/IM 항구토제 : metoclopramide <mark style="color:blue;">\[맥페란주]</mark>; IV prochlorperazine은 원 지침에서 제공해야 하는(Level A) 우선 권고 약제이나, 국내에서는 상용 주사제 유통 여부를 확인해야 함 \[AHS ED 2025]
+* IV/IM 항구토제 : metoclopramide <mark style="color:blue;">\[맥페란주]</mark>; IV prochlorperazine은 원 지침에서 제공해야 하는(Level A) 우선 권고 약제이나, 국내에서는 상용 주사제 유통 여부를 확인해야 함 <mark style="color:$info;">\[AHS ED 2025]</mark>
 * IV ketorolac 15\~30 ㎎ <mark style="color:blue;">\[케토신주]</mark> 또는 IV dexketoprofen : 적절한 경우 사용
 * IV valproate 500\~1,000 ㎎ : 난치성 또는 다른 1차 응급치료가 적절하지 않은 경우 대안으로 고려 <mark style="color:blue;">\[데파킨주]</mark>
   * 근거 수준은 prochlorperazine·metoclopramide·ketorolac보다 낮음
   * 제품 허가사항에 따라 서서히 정맥 투여(국내 데파킨정맥주사 허가 용법 확인)
 * dexamethasone 10 ㎎ IV : 재발 억제 목적으로 추가 <mark style="color:blue;">\[덱사메타손주]</mark>
-* Greater occipital nerve block : 원 지침에서는 적절한 경우 제공해야 하는(Level A) 권고이나, 숙련도와 진료 환경을 고려해 국내에서는 전문 치료로 구분 \[AHS ED 2025]
+* Greater occipital nerve block : 원 지침에서는 적절한 경우 제공해야 하는(Level A) 권고이나, 숙련도와 진료 환경을 고려해 국내에서는 전문 치료로 구분 <mark style="color:$info;">\[AHS ED 2025]</mark>
 * Dihydroergotamine IV : 난치성 경우 고려할 수 있으나 국내에서 일반적으로 처방 가능한 주사제가 없음; triptan 투여 후 24시간 이내 사용 금기
 
 _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for adults in the emergency department. Headache. 2026._

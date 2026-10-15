@@ -6,7 +6,7 @@
 * 재발성 두통의 가장 흔한 형태는 [편두통](016_-migraine.md)과 [긴장형두통](017_-tension-type-headache.md)이며, 종종 [약물과용두통](018_-chronic-headache.md#medication-overuse-headache-moh)도 해당됨
 * 두통 평가 시 SNNOOP10 계열의 경고 징후를 활용하여 2차 두통을 체계적으로 배제할 것을 권고
 
-### <mark style="color:orange;">분류 \[ICHD-3]</mark>
+### <mark style="color:orange;">분류 </mark><mark style="color:$info;">\[ICHD-3]</mark>
 
 <mark style="color:cyan;">**1차성 두통 (Primary headache)**</mark>
 
@@ -91,8 +91,8 @@
   * 뇌정맥동혈전증(CVST) 의심(임신·산후, 혈전 위험, 유두부종/두개내압상승 등) : CTV 또는 MRV로 정맥동 평가
   * MRI는 종괴, 후두와 병변, 뇌하수체 병변, 뇌막/염증성 병변 등 구조적 원인 평가에 유용
   * 거대세포동맥염(GCA) 의심 : ESR/CRP와 CBC(혈소판 포함)를 측정하고 신속히 전문 진료 의뢰. 시각 증상이 있거나 임상적 의심이 높으면 확진검사를 기다리며 glucocorticoid 치료를 지연하지 않음
-* 긴장형두통, 편두통, 군발두통, 또는 약물과용두통으로 이미 진단된 환자에서 단순히 안심시킬 목적의 뇌영상 검사는 권고하지 않음 \[한국정신신체의학회 2019; NICE CG150]
-* 신경학적 검사에서 이상이 없는 새로이 진단된 편두통이나 긴장형두통 환자, 또는 만성적으로 안정된 두통 환자에 대한 영상 검사는 적절하지 않음 \[ACR AC 2022]
+* 긴장형두통, 편두통, 군발두통, 또는 약물과용두통으로 이미 진단된 환자에서 단순히 안심시킬 목적의 뇌영상 검사는 권고하지 않음 <mark style="color:$info;">\[한국정신신체의학회 2019; NICE CG150]</mark>
+* 신경학적 검사에서 이상이 없는 새로이 진단된 편두통이나 긴장형두통 환자, 또는 만성적으로 안정된 두통 환자에 대한 영상 검사는 적절하지 않음 <mark style="color:$info;">\[ACR AC 2022]</mark>
 
 ### <mark style="color:orange;">환자 자가 평가</mark>
 

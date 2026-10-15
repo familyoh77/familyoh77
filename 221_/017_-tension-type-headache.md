@@ -20,7 +20,7 @@
 * 급성기 진통제가 주 2일을 넘겨 반복적으로 필요하거나 사용 일수가 증가하는 경우
 * 예방 치료를 충분한 유지용량으로 약 1\~2개월 사용했음에도 의미 있는 호전이 없는 경우
 
-### <mark style="color:orange;">분류 \[ICHD-3]</mark>
+### <mark style="color:orange;">분류 </mark><mark style="color:$info;">\[ICHD-3]</mark>
 
 1. 2.1 Infrequent episodic TTH
    1. 2.1.1 associated with pericranial tenderness

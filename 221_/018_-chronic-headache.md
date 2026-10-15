@@ -85,7 +85,7 @@ D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~4)</sup>
 > ¹⁾_전형적으로 과거 두통의 병력이 없는 사람에서 발생하여 시작부터 매일 중단 없이 지속함. 과거 편두통 또는 긴장형두통 병력이 있어도 배제되지는 않지만, NDPH 발생 전에 두통 빈도가 점차 증가했거나 약물과용과 함께 악화된 경과여서는 안 됨. 환자가 시작 시점을 기억하여 정확히 묘사할 수 없다면 다른 진단을 고려_\
 > ²⁾_두통이 만성 편두통 또는 만성 긴장형두통의 진단 기준을 충족하더라도 NDPH 기준에 맞으면 NDPH로 진단함. NDPH와 지속반두통의 기준을 모두 충족하면 지속반두통으로 진단_\
 > ³⁾_약물과용 기준을 초과하더라도 매일두통의 발생이 약물과용보다 명확하게 선행한 경우에만 NDPH를 진단할 수 있으며, 이때 NDPH와 약물과용두통을 함께 진단_\
-> ⁴⁾_모든 경우에서 2차두통(예: 두부외상 후 두통, 뇌척수액 고압·저압 두통)을 적절한 검사로 배제해야 함 \[ICHD-3]_
+> ⁴⁾_모든 경우에서 2차두통(예: 두부외상 후 두통, 뇌척수액 고압·저압 두통)을 적절한 검사로 배제해야 함 <mark style="color:$info;">\[ICHD-3]</mark>_
 
 #### <mark style="color:$primary;">지속반두통 (Hemicrania continua)</mark>
 
@@ -118,7 +118,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * 종류 : Chronic cluster headache, Chronic paroxysmal hemicrania, Hypnic headache, Primary stabbing headache, Short-lasting unilateral neuralgiform headache attacks
 
 {% hint style="info" %}
-만성 군발두통과 만성 발작성반두통에서 '만성'은 이 챕터가 쓰는 빈도·기간 기준(≥15일/월, ＞3개월)과는 다른 개념. 두 질환은 발작기(bout)와 관해기가 반복되는 구조이며, 발작기 중에는 하루 수 회 발작이 나타나 오히려 ≥15일/월 기준을 쉽게 넘길 수 있음. 따라서 만성형 여부는 한 달 발생일수가 아니라 관해기의 유무·길이로 정의됨 - 관해기가 전혀 없거나 있어도 ＜3개월인 상태가 최소 1년간 지속되면 만성형(반대로 관해기가 ≥3개월이면 삽화성)\[ICHD-3]
+만성 군발두통과 만성 발작성반두통에서 '만성'은 이 챕터가 쓰는 빈도·기간 기준(≥15일/월, ＞3개월)과는 다른 개념. 두 질환은 발작기(bout)와 관해기가 반복되는 구조이며, 발작기 중에는 하루 수 회 발작이 나타나 오히려 ≥15일/월 기준을 쉽게 넘길 수 있음. 따라서 만성형 여부는 한 달 발생일수가 아니라 관해기의 유무·길이로 정의됨 - 관해기가 전혀 없거나 있어도 ＜3개월인 상태가 최소 1년간 지속되면 만성형(반대로 관해기가 ≥3개월이면 삽화성)<mark style="color:$info;">\[ICHD-3]</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">수면두통 (Hypnic headache)</mark>
@@ -158,7 +158,7 @@ F. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1,2)</sup>
 * 비혈관성 두개내질환에 기인한 두통 : 두개내종양, 특발성 두개내고혈압, 자발두개내압저하 등
 * 물질 또는 금단에 기인한 두통 : 약물과용두통 등
 * 감염 또는 항상성 장애에 기인한 두통 : 중추신경계감염, 폐쇄수면무호흡증, 저산소증·고탄산혈증 등
-* 두개·경부·안면 구조물의 질환에 기인한 두통·안면통 : 경추성두통, 턱관절질환, 안과·이비인후과·치과 질환 등 \[ICHD-3]
+* 두개·경부·안면 구조물의 질환에 기인한 두통·안면통 : 경추성두통, 턱관절질환, 안과·이비인후과·치과 질환 등 <mark style="color:$info;">\[ICHD-3]</mark>
 
 ### <mark style="color:orange;">약물과용두통 (Medication overuse headache, MOH)</mark>
 
@@ -178,7 +178,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 > ¹⁾_각 환자는 과용한 약물의 종류와 해당 진단 기준에 따라 한 가지 이상의 아형으로 분류할 수 있음(예: 트립탄과용두통, 단순진통제과용두통, 복합진통제과용두통)_\
 > ²⁾_여러 진통제를 병용하지만 개별 약물군은 과용 기준에 해당하지 않는 경우 ‘개별적으로는 과용되지 않은 복수 약물군의 과용에 의한 두통’으로 진단_\
-> ³⁾_두통의 급성기 또는 대증 치료 목적으로 약물을 과용하지만 약물명·용량이 명확하지 않은 경우 정확한 정보가 확인될 때까지 ‘확인되지 않은 복수 약물군에 의한 약물과용두통’으로 진단 \[ICHD-3]_
+> ³⁾_두통의 급성기 또는 대증 치료 목적으로 약물을 과용하지만 약물명·용량이 명확하지 않은 경우 정확한 정보가 확인될 때까지 ‘확인되지 않은 복수 약물군에 의한 약물과용두통’으로 진단 <mark style="color:$info;">\[ICHD-3]</mark>_
 
 ***
 
@@ -232,7 +232,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * 단순진통제·triptan·ergotamine 과용은 대부분 외래에서 즉시 중단(abrupt withdrawal) 가능
 * opioid 과용은 의존·금단 위험을 평가하여 점진적 감량을 고려하며, 외래 중단이 어렵거나 고용량·복합 의존이 있으면 신경과/중독 전문진료 또는 입원 치료를 고려
 * benzodiazepine은 ICHD-3의 MOH 원인 약제군은 아니지만, 병용·의존이 있으면 급격히 중단하지 말고 MOH와 별개로 점진적 감량 계획을 세움
-* 약물과용을 동반한 편두통에서는 예방치료 단독도 예방치료와 급성기 약물 중단을 병행한 전략과 유사한 효과를 보일 수 있음. 다만 오피오이드 또는 바르비투르산 함유 약물 과용에는 이를 일반화할 근거가 부족함. 따라서 일률적인 중단만을 강조하기보다 환자 상황에 맞추어 예방치료를 조기에 시작하고 과용 약물을 감량·중단 \[AAN/AHS 2026]
+* 약물과용을 동반한 편두통에서는 예방치료 단독도 예방치료와 급성기 약물 중단을 병행한 전략과 유사한 효과를 보일 수 있음. 다만 오피오이드 또는 바르비투르산 함유 약물 과용에는 이를 일반화할 근거가 부족함. 따라서 일률적인 중단만을 강조하기보다 환자 상황에 맞추어 예방치료를 조기에 시작하고 과용 약물을 감량·중단 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 
 <mark style="color:cyan;">**브릿지 요법 (선별적 사용)**</mark>
 
@@ -250,7 +250,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * 편두통형 : topiramate, valproate, amitriptyline 등
   * 임신 가능성이 있는 환자에서는 valproate·topiramate의 태아 위해를 고려
 * 긴장형 : amitriptyline (1차), nortriptyline, mirtazapine
-* 만성 편두통 동반 시 OnabotulinumtoxinA(PREEMPT protocol 기반, 155\~195 units), CGRP 단클론항체, atogepant 또는 topiramate를 우선 고려할 수 있으며 국내 허가·급여 기준 확인 \[AAN/AHS 2026]
+* 만성 편두통 동반 시 OnabotulinumtoxinA(PREEMPT protocol 기반, 155\~195 units), CGRP 단클론항체, atogepant 또는 topiramate를 우선 고려할 수 있으며 국내 허가·급여 기준 확인 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 
 <mark style="color:cyan;">**추적 관찰**</mark>
 
@@ -261,8 +261,8 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">CGRP 표적 치료제 (편두통 예방; MOH 동반 환자 포함)</mark>
 
-* 만성 편두통에서 atogepant, eptinezumab, erenumab, fremanezumab, galcanezumab, onabotulinumtoxinA, topiramate, valproate 고려 \[AAN/AHS 2026]
-* MOH 동반 편두통에서도 예방치료를 제공하며, 근거가 있는 CGRP 단클론항체, atogepant, onabotulinumtoxinA, topiramate를 우선 고려 \[AAN/AHS 2026]
+* 만성 편두통에서 atogepant, eptinezumab, erenumab, fremanezumab, galcanezumab, onabotulinumtoxinA, topiramate, valproate 고려 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
+* MOH 동반 편두통에서도 예방치료를 제공하며, 근거가 있는 CGRP 단클론항체, atogepant, onabotulinumtoxinA, topiramate를 우선 고려 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 * 단, 국내 실제 사용 순서는 각 성분의 허가사항과 보험 급여 기준에 따라 달라질 수 있음
 
 <table><thead><tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 국내 현황</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제 (SC)</td><td>Galcanezumab <mark style="color:blue;">[앰겔러티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎); 기준 충족 시 급여</td></tr><tr><td>Fremanezumab <mark style="color:blue;">[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC; 기준 충족 시 급여</td></tr><tr><td>Erenumab (Aimovig)</td><td>70~140 ㎎/월 SC; <em>국내 미도입</em></td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab <mark style="color:blue;">[바이엡티]</mark></td><td>100 ㎎/12주 IV, 일부 환자 300 ㎎/12주; <em>2026년 5월 국내 허가, 출시·급여 여부 최신 확인</em></td></tr><tr><td rowspan="2">경구용 Gepant¹⁾</td><td>Rimegepant <mark style="color:blue;">[너텍구강붕해정]</mark></td><td>75 ㎎; 급성기 치료 + 삽화성 편두통 예방(격일 복용); 만성 편두통 예방 적응증 없음; 2026년 9월 국내 출시, 비급여</td></tr><tr><td>Atogepant <mark style="color:blue;">[아큅타]</mark></td><td>60 ㎎ qd; 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd; 삽화성·만성 편두통 예방; 비급여</td></tr></tbody></table>

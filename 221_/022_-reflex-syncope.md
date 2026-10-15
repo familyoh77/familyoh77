@@ -190,7 +190,7 @@ flowchart LR
 * tilt training은 꾸준히 지속할 수 있는, 동기가 강한 반복성 VVS 환자에서 선택적으로 시도할 수 있으나 순응도가 낮고 임상적 유효성 근거가 제한적
 * 투여 중인 혈압강하제, 이뇨제, 질산염, 일부 향정신성 약물 등 저혈압 유발약물을 검토하고, 적응증·혈압을 고려하여 감량·변경을 검토
 * 압박 스타킹은 일반적인 VVS에서 재발 예방 효과가 입증되지 않음
-  * 허벅지 길이 25\~30 ㎜Hg 압박 스타킹은 VVS 재발을 유의하게 줄이지 못함 \[COMFORTS-II 2025]
+  * 허벅지 길이 25\~30 ㎜Hg 압박 스타킹은 VVS 재발을 유의하게 줄이지 못함 <mark style="color:$info;">\[COMFORTS-II 2025]</mark>
   * 동반된 기립성 저혈압·기립불내성 또는 장시간 기립이 주된 유발인자인 저혈압 우세형에서만 선택적으로 고려. 복부 바인더·허리 높이 압박의 VVS 재발 예방 효과는 아직 확립되지 않음
 * 채혈·주사는 가능하면 누운 자세에서 시행
 * 전조가 짧거나 반복되는 환자는 진단과 증상 조절 전까지 운전·고소 작업·수영 등 위험 활동을 피함
@@ -231,7 +231,7 @@ flowchart LR
 
 #### <mark style="color:$primary;">β-blocker</mark>
 
-* 재발성 VVS가 있는 42세 이상에서 제한적으로 고려할 수 있다는 권고가 있으나 근거는 일관되지 않음. 소아·청소년에서는 유익성 없음 \[ACC/AHA/HRS 2017] (Class IIb)
+* 재발성 VVS가 있는 42세 이상에서 제한적으로 고려할 수 있다는 권고가 있으나 근거는 일관되지 않음. 소아·청소년에서는 유익성 없음 <mark style="color:$info;">\[ACC/AHA/HRS 2017]</mark> (Class IIb)
 * ESC 2018은 β-blocker가 VVS 재발을 줄이는 데 효과적이지 않아 권고하지 않음(Class III, 근거수준 A)
 * VVS는 국내 허가 적응증이 아니며 routine 처방하지 않음
 
@@ -255,7 +255,7 @@ flowchart LR
 #### <mark style="color:$primary;">심박동기 Pacemaker</mark>
 
 * 심박동기는 일반적인 VVS 치료가 아니며 혈관 확장·저혈압을 직접 막지 못하지만, 서맥·무수축이 실신의 주된 기전으로 문서화된 고도 선별 환자에서는 근거 기반 기전 치료로 고려
-* 40세 초과, 중증·예측 불가능·재발성 실신이며 다음 중 하나가 확인된 경우 dual-chamber pacemaker로 재발 감소 \[ESC 2021]
+* 40세 초과, 중증·예측 불가능·재발성 실신이며 다음 중 하나가 확인된 경우 dual-chamber pacemaker로 재발 감소 <mark style="color:$info;">\[ESC 2021]</mark>
   * 자발성 증상 동반 asystolic pause ＞3초 또는 무증상 pause ＞6초(동정지 또는 방실차단)
   * cardioinhibitory carotid sinus syndrome
   * tilt test로 유발된 asystolic syncope

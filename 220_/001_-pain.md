@@ -58,7 +58,7 @@ Red flag가 없더라도 임상적으로 중증 질환이 의심되면 해당 �
 
 ### <mark style="color:orange;">만성 통증</mark>
 
-* ＞3개월 지속 또는 재발하는 통증 \[ICD-11]
+* ＞3개월 지속 또는 재발하는 통증 <mark style="color:$info;">\[ICD-11]</mark>
 
 {% hint style="info" %}
 ICD-11은 만성 통증을 다음의 두 범주로 구분하며, 이 구분은 "통증=증상"이 아닌 "통증=독립 질환"으로 인식의 전환을 반영.\
@@ -475,7 +475,7 @@ class B,B1,B2,F,H,L,N yellow
 
 <mark style="color:cyan;">**Naloxone 제공 또는 처방 제안 고려 기준**</mark>
 
-* 다음 중 하나라도 해당 시 제공 또는 처방을 제안 \[CDC 2022]
+* 다음 중 하나라도 해당 시 제공 또는 처방을 제안 <mark style="color:$info;">\[CDC 2022]</mark>
   * MME ≥ 50/d
   * 호흡기 질환(COPD, 수면무호흡증) 동반
   * benzodiazepine 병용
@@ -578,7 +578,7 @@ _<mark style="color:$info;">Ref. 대한통증학회 아편유사제 처방지침
 * 충분한 효과까지 2달 이상이 필요할 수 있음; pregabalin이 더 빠른 효과를 보임
 * 부작용 : 어지럼/졸음(용량 의존; 저용량 시작-서서히 증량 시 완화), 말초 부종, 체중 증가, 도취감, 의존성/남용 가능성(특히 pregabalin); 영국은 규제 약물로 지정
   * 말초 부종·체중 증가는 고령자에서 더 빈번하고 두드러짐; 원인 불명의 하지 부종 평가 시 gabapentinoid 복용 여부를 반드시 확인
-  * opioid 병용 시 호흡 억제로 인한 사망 위험 증가 - \[FDA] 심각한 호흡 억제 위험을 경고하고 처방 정보에 관련 경고를 추가함(Black Box Warning은 아님)
+  * opioid 병용 시 호흡 억제로 인한 사망 위험 증가 - <mark style="color:$info;">\[FDA]</mark> 심각한 호흡 억제 위험을 경고하고 처방 정보에 관련 경고를 추가함(Black Box Warning은 아님)
     * 병용이 불가피한 경우 각각의 용량을 최소화하고 호흡 억제 징후 면밀히 모니터링
     * 통증 외 다약제 처방 환자에서 inadvertent 병용에 주의
 * gabapentin : 100\~300 ㎎ hs로 시작(이상반응 감소 목적) → 이후 1일 3회 분할하여 100 ㎎/3d씩 증량; 신기능 정상 시 신경병증성 통증에서 1주 이내 1,800 ㎎/d까지 증량 가능하며 3,600 ㎎/day를 초과하지 않음; 신기능별 용량은 아래 표 참조 <mark style="color:blue;">\[뉴론틴]</mark>

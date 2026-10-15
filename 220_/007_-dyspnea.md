@@ -136,13 +136,13 @@
   * 2점 : 동년배보다 평지에서 천천히 걷거나, 자기 속도로 걸어도 숨이 차서 멈춰야 함
   * 3점 : 평지에서 약 100 m 또는 몇 분 걷고 나면 숨이 차서 멈춤
   * 4점 : 숨이 너무 차서 외출이 어렵거나 옷을 입고 벗을 때도 숨이 참
-* 활용 : GOLD ABE 그룹 분류에서 증상 부담 축(악화력과 함께 평가)으로 사용 \[GOLD 2026]
+* 활용 : GOLD ABE 그룹 분류에서 증상 부담 축(악화력과 함께 평가)으로 사용 <mark style="color:$info;">\[GOLD 2026]</mark>
 
 <mark style="color:cyan;">**기본 패널**</mark> (외래 초기 평가)
 
 * SpO₂, 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel
 * BNP 또는 NT-proBNP : 심부전 의심 시 시행
-  * NT-proBNP 해석 기준 \[ESC 2021]
+  * NT-proBNP 해석 기준 <mark style="color:$info;">\[ESC 2021]</mark>
     * Acute setting (응급·입원) : ＜300 pg/㎖ 시 심부전 배제 가능
       * rule-in cut-off : ＞450 pg/㎖ (＜50세), ＞900 pg/㎖ (50\~75세), ＞1,800 pg/㎖ (＞75세)
     * Non-acute setting (외래·만성) : NT-proBNP ＜125 pg/㎖ 또는 BNP ＜35 pg/㎖ 시 심부전 배제 가능

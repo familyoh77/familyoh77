@@ -11,7 +11,7 @@
   * 구강 : 약 36.6℃
   * 고막 : 약 36.6℃
   * 겨드랑이 : 약 36.0℃
-  * 일반적으로 직장 체온은 구강 체온보다 높고 겨드랑이 체온은 낮게 측정되나, 그 차이는 기기·측정법·연령·체온 수준에 따라 달라 일정한 값을 더하거나 빼서 다른 부위의 체온으로 환산하지 않음 ([Geneva et al., Open Forum Infect Dis 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6456186/))
+  * 일반적으로 직장 체온은 구강 체온보다 높고 겨드랑이 체온은 낮게 측정되나, 그 차이는 기기·측정법·연령·체온 수준에 따라 달라 일정한 값을 더하거나 빼서 다른 부위의 체온으로 환산하지 않음 (<mark style="color:$info;">[Geneva et al., Open Forum Infect Dis 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6456186/)</mark>)
 * 체온은 하루 중 약 0.5℃ 내외로 변동하며, 대개 새벽에 가장 낮고 늦은 오후～초저녁에 가장 높음. 식사·운동·수면·월경주기 등의 영향도 받음
 * 월경 주기에서는 배란 후 황체기에 기초체온이 대개 약 0.3\~0.5℃ 상승하여 월경 시작 무렵까지 유지될 수 있음
 * 소아의 체온 측정법은 연령과 적용 지침에 따라 다름
@@ -26,8 +26,8 @@
   * 겨드랑이 : 통상 ≥37.2\~37.5℃를 발열 의심 기준으로 사용하지만 중심체온 상승을 발견하는 민감도와 정확도가 낮으므로 선별값으로만 해석. 경계값이거나 임상적으로 발열이 의심되면 해당 연령과 진료 상황에 적절한 방법으로 재확인
 * 다음과 같은 특수 상황에는 일반 외래의 부위별 기준과 구분되는 별도의 조작적 정의를 적용
   * 항암 치료 관련 호중구감소성 발열 : 일회성 구강 체온 ≥38.3℃ 또는 ≥38.0℃가 1시간 이상 지속
-  * 성인 ICU에서 발생한 새로운 발열 : 단회 체온 ≥38.3℃ ([SCCM/IDSA 2023](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/))
-  * 정확한 체온이 진단·치료 결정에 중요한 중환자에서 폐동맥카테터·방광카테터·식도 탐침 등의 thermistor가 이미 삽입되어 있거나 이를 통한 중심체온 측정이 가능하면 이를 우선하지만(체온 측정만을 위해 이러한 장치를 새로 삽입하지 않음), 그렇지 않으면 겨드랑이·고막·비접촉 측두동맥보다 구강 또는 직장 체온을 우선 고려 ([SCCM/IDSA 2023](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/))
+  * 성인 ICU에서 발생한 새로운 발열 : 단회 체온 ≥38.3℃ (<mark style="color:$info;">[SCCM/IDSA 2023](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/)</mark>)
+  * 정확한 체온이 진단·치료 결정에 중요한 중환자에서 폐동맥카테터·방광카테터·식도 탐침 등의 thermistor가 이미 삽입되어 있거나 이를 통한 중심체온 측정이 가능하면 이를 우선하지만(체온 측정만을 위해 이러한 장치를 새로 삽입하지 않음), 그렇지 않으면 겨드랑이·고막·비접촉 측두동맥보다 구강 또는 직장 체온을 우선 고려 (<mark style="color:$info;">[SCCM/IDSA 2023](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/)</mark>)
 * 영아·고령자·면역저하자·중환자는 중증 감염이 있어도 기준 이상의 발열이 없거나 저체온으로 나타날 수 있으므로, 임상적으로 중증 감염이나 패혈증이 의심되면 체온 기준 충족을 기다리지 않고 평가
 * 이상의 절단값은 해당 임상 상황의 평가를 표준화하기 위한 기준이며 중증 감염을 배제하는 기준이 아님
 
@@ -207,12 +207,12 @@ graph TD
 ### <mark style="color:orange;">생후 90일 이하 영아의 발열</mark>
 
 * 생후 ≤90일 영아에서 체온 ≥38.0℃가 확인되면 열의 높이만으로 위험도를 판단하지 않고 정확한 일령, 전신 상태, 재태 연령, 기저질환, 최근 항생제 사용 및 국소 세균 감염 여부를 확인; ＜36.0℃의 저체온도 중증 감염 위험 신호이며, 특히 어린 영아에서는 발열과 유사하게 평가
-* 생후 세 번째 달(연구상 60\~90일)의 이전에 건강하고 전신 상태가 양호했던 발열 영아를 분석한 메타분석에서 침습성 세균 감염(균혈증 또는 세균성 수막염)은 1.11%, 균혈증은 1.01%, 세균성 수막염은 0.11%였음 ([Dionisopoulos et al., JAMA Pediatr 2026](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2849442))
+* 생후 세 번째 달(연구상 60\~90일)의 이전에 건강하고 전신 상태가 양호했던 발열 영아를 분석한 메타분석에서 침습성 세균 감염(균혈증 또는 세균성 수막염)은 1.11%, 균혈증은 1.01%, 세균성 수막염은 0.11%였음 (<mark style="color:$info;">[Dionisopoulos et al., JAMA Pediatr 2026](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2849442)</mark>)
 * 사회적 미소, 눈맞춤·상호작용, 각성도, 수유 상태 등은 전신 상태 평가에 도움이 되는 보조 소견이나, 사회적 미소나 양호한 외관만으로 침습성 세균 감염을 배제하지 않음
 * 생후 61\~90일의 이전에 건강하고 전신 상태가 양호했던 영아는 당일 평가하며, 요로감염이 상대적으로 흔하므로 소변검사와 오염을 최소화한 방법으로 채취한 소변배양을 시행. 혈액검사·혈액배양·요추천자·입원 여부는 전신 상태, 소변검사, 염증표지자, 보호자의 관찰 능력 및 신속한 재진 가능성을 종합하여 결정
 * 특히 생후 ≤60일(생후 ≤28일은 더욱 엄격하게 적용)에서 체온 ≥38.0℃ 또는 ＜36.0℃이면 전신 상태가 양호해 보여도 당일 긴급 평가
 * 미숙아 출생(재태연령 ＜37주), 이전 입원 또는 신생아실 장기 재원, 만성질환·염색체 이상·의료기기 의존, 면역저하, 최근 항생제 사용 또는 국소 세균 감염이 있거나, 전신 상태 평가가 불확실하면 저위험 경로를 적용하지 않고 더 적극적으로 평가
-* 여러 합리적인 검사·관찰 선택지가 있는 저위험 영아에서는 보호자와 공유의사결정을 시행하고, 귀가 시 악화 징후, 재진 시점 및 검사결과 확인 방법을 포함한 명확한 추적계획을 마련 ([Canadian Paediatric Society, 2026](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days))
+* 여러 합리적인 검사·관찰 선택지가 있는 저위험 영아에서는 보호자와 공유의사결정을 시행하고, 귀가 시 악화 징후, 재진 시점 및 검사결과 확인 방법을 포함한 명확한 추적계획을 마련 (<mark style="color:$info;">[Canadian Paediatric Society, 2026](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days)</mark>)
 
 ## <mark style="color:green;">불명열 (Fever of Unknown Origin)</mark>
 
@@ -232,7 +232,7 @@ graph TD
 * 최소 표준 혈액 검사 : CBC with differential, comprehensive metabolic panel(Ca·LFT 포함), ESR, CRP, ferritin, TSH, RF, ANA, ANCA
 * 미생물 검사 : 말초정맥 혈액 배양 최소 3세트(간격을 두고 채취, 통상 5일 배양), U/A 및 필요 시 소변 배양, HIV 1/2 선별검사, 결핵 피부반응검사 또는 interferon-γ release assay
 * 영상 검사 : 복부 초음파와 흉부 PA·측면 X선 또는 흉부·복부·골반 CT를 포함. FDG-PET/CT는 최소 표준 진단평가 후에도 원인이 불명이고 염증 소견이 지속될 때, 이용 가능성과 임상 단서를 고려하여 시행
-* CPK, LDH, protein electrophoresis와 기타 혈청·영상·조직 검사는 일률적인 기본검사가 아니라 임상 단서에 따라 선택 ([Wright et al., Clin Infect Dis 2026](https://www.idsociety.org/journals/fever-of-unknown-origin/))
+* CPK, LDH, protein electrophoresis와 기타 혈청·영상·조직 검사는 일률적인 기본검사가 아니라 임상 단서에 따라 선택 (<mark style="color:$info;">[Wright et al., Clin Infect Dis 2026](https://www.idsociety.org/journals/fever-of-unknown-origin/)</mark>)
 
 ***
 

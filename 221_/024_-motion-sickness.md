@@ -100,7 +100,7 @@
 
 {% hint style="info" %}
 같거나 유사한 자극에 의해 최소 5회 반복 유발되고, 반복 노출에도 중증도가 의미 있게 감소하지 않으며, 활동 변경·회피 행동 또는 노출 전 예기적 혐오 정서 반응을 초래하고, 다른 질환으로 더 잘 설명되지 않으면 motion sickness disorder(MSD) 또는 VIMSD로 진단; 2\~4회이면 probable MSD/VIMSD. \
-경미하거나 쉽게 회피 가능하고 기능적 영향이 없는 멀미는 장애로 보지 않음 \[Bárány Society 2021]
+경미하거나 쉽게 회피 가능하고 기능적 영향이 없는 멀미는 장애로 보지 않음 <mark style="color:$info;">\[Bárány Society 2021]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">검사</mark>
@@ -201,7 +201,7 @@ graph TD
 
 * 증상 발생 전 투여; 투여 시점은 약물별 허가 용법과 작용 발현시간을 따름
   * 국내 허가 용법 : dimenhydrinate - 출발 최소 30분 전(30\~60분 전); meclizine - 출발 최소 1시간 전; 키미테패취 - 출발 최소 4시간 전
-  * \[CDC Yellow Book 2026] 작용 발현시간은 경구 dimenhydrinate·meclizine·promethazine 약 2시간, scopolamine 경피제 6\~8시간(1 ㎎ 제형)\~12시간(1.5 ㎎ 제형)이므로 가능한 한 여유 있게 투여하고, 패취는 전날 저녁 부착도 고려
+  * <mark style="color:$info;">\[CDC Yellow Book 2026]</mark> 작용 발현시간은 경구 dimenhydrinate·meclizine·promethazine 약 2시간, scopolamine 경피제 6\~8시간(1 ㎎ 제형)\~12시간(1.5 ㎎ 제형)이므로 가능한 한 여유 있게 투여하고, 패취는 전날 저녁 부착도 고려
 * 약물 부작용 등을 고려하여 출발일 이전에 시험 투여를 권고
 * 1차 선택 : 항콜린제, 항히스타민제; vestibular nuclei 활성 감소 작용
 * 5-HT3 길항제(ondansetron·granisetron 등)는 작용 부위가 중추 전정 경로가 아니어서 멀미에 효과가 없음

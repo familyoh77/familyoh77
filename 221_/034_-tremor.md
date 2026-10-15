@@ -187,7 +187,7 @@ style G fill:#ffe0b2,stroke:#e65100
 * 임상적으로 의심되면 표면근전도로 떨림 주파수와 근육 간 동기성을 확인
   * 저주파 기립 떨림(pseudo-OT)·orthostatic myoclonus 및 다른 보행장애와 감별하기 위해 의뢰
 * 확립된 표준 치료는 없으며 근거는 소규모 시험과 관찰자료 중심임
-  * 단일기관 코호트에서는 clonazepam, gabapentin, alprazolam이 가장 흔히 시도되고 상대적으로 효과적이었으나, 효과 부족이나 이상반응(진정·어지럼·보행 불안정)으로 중단한 경우가 많았고 여러 약제를 시도한 뒤에도 부분 호전에 그치는 경우가 많았음 \[[J Neurol 2026](https://link.springer.com/article/10.1007/s00415-026-13625-3)]
+  * 단일기관 코호트에서는 clonazepam, gabapentin, alprazolam이 가장 흔히 시도되고 상대적으로 효과적이었으나, 효과 부족이나 이상반응(진정·어지럼·보행 불안정)으로 중단한 경우가 많았고 여러 약제를 시도한 뒤에도 부분 호전에 그치는 경우가 많았음 <mark style="color:$info;">\[[J Neurol 2026](https://link.springer.com/article/10.1007/s00415-026-13625-3)]</mark>
 * clonazepam : 0.25\~0.5 ㎎ hs 시작 → 반응에 따라 천천히 적정(통상 0.25\~2 ㎎/d) <mark style="color:blue;">\[리보트릴]</mark>
   * 진정·인지저하·의존성·보행 불안 및 낙상에 주의
 * gabapentin : 100\~300 ㎎ hs 시작 → 통상 300\~1,800 ㎎/d 범위에서 분할 투여 <mark style="color:blue;">\[뉴론틴]</mark>
@@ -320,7 +320,7 @@ class P,R,S,T,U,X yellow
 * 불충분하거나 사용할 수 없는 경우 : propranolol + primidone 병용 또는 topiramate 고려
   * gabapentin은 근거가 제한적이므로 개별적으로 선택
 * benzodiazepine : 근거가 매우 제한적이고 낙상·인지저하·의존성 위험이 있어 불안이 뚜렷한 선택된 환자에서 예외적으로 단기간 고려
-* 2026 MDS 근거중심 재평가 \[[Mov Disord 2026](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.70184)]에서는 propranolol, primidone, topiramate, botulinum toxin A의 복수 시험에서 개선이 보고되었으나, 연구 편향과 부정확성 때문에 검토된 모든 중재의 근거 확실성을 낮음 또는 매우 낮음으로 평가함(예: botulinum toxin A는 매우 낮음; 기존 약제를 사용하지 말라는 의미는 아님). 환자 선호, 기능 개선 및 이상반응을 함께 고려하여 공유의사결정
+* 2026 MDS 근거중심 재평가 <mark style="color:$info;">\[[Mov Disord 2026](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.70184)]</mark>에서는 propranolol, primidone, topiramate, botulinum toxin A의 복수 시험에서 개선이 보고되었으나, 연구 편향과 부정확성 때문에 검토된 모든 중재의 근거 확실성을 낮음 또는 매우 낮음으로 평가함(예: botulinum toxin A는 매우 낮음; 기존 약제를 사용하지 말라는 의미는 아님). 환자 선호, 기능 개선 및 이상반응을 함께 고려하여 공유의사결정
 
 **모니터링**
 

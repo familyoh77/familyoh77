@@ -8,7 +8,7 @@
 * 슬픔 : 상실 등 스트레스 사건에 따른 정상적인 반응(normal grief)
   * 슬픈 감정의 변동이 있음, 기간 중 슬픔에서 벗어나는 때 또는 즐거운 순간이 있음, 자존감은 유지됨
   * 주위의 동정심과 슬픔을 유발할 수 있음
-* 유병률 : 국내 성인 주요우울장애 평생유병률 - 7.7%, 1년 유병률 - 1.7% \[정신건강실태조사 2021]
+* 유병률 : 국내 성인 주요우울장애 평생유병률 - 7.7%, 1년 유병률 - 1.7% <mark style="color:$info;">\[정신건강실태조사 2021]</mark>
   * 여성에서 남성보다 약 2배
 * 호발 연령 : 첫 발병은 청소년기 후반\~30대에 흔함
 * 우울증 환자에 대하여 다른 정신 질환 동반 여부 평가, 자살 위험 평가가 필요함
@@ -126,7 +126,7 @@
 
 ## <mark style="color:green;">진단</mark>
 
-<mark style="color:cyan;">**선별검사**</mark> \[USPSTF 2023]
+<mark style="color:cyan;">**선별검사**</mark> <mark style="color:$info;">\[USPSTF 2023]</mark>
 
 * 대상 : 임신·산후 여성과 고령자를 포함한 모든 성인
   * 양성 시 진단·치료·추적이 가능한 체계와 연계하며, 선별검사는 임상적 평가를 대신하지 않음
@@ -135,7 +135,7 @@
 * 검사 도구 : 특정하지 않음; 일반 인구- PHQ, 고령- GDS, [임신 - 에든버러척도](028_-postpartum-depression.md#edinburgh-postnatal-depression-scale-epds)
 * 선별검사에서 양성 시 다른 정신 질환(예: 불안, 공황장애)에 대해서도 검사 시행
 
-### <mark style="color:orange;">진단 기준 \[DSM-5-TR]</mark>
+### <mark style="color:orange;">진단 기준 </mark><mark style="color:$info;">\[DSM-5-TR]</mark>
 
 #### <mark style="color:$primary;">주요우울장애 (Major depressive disorder)</mark>
 
@@ -232,13 +232,13 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
   1. 일을 하는 것에 대한 흥미나 재미가 거의 없음
   2. 가라앉은 느낌, 우울감 혹은 절망감
 * 배점 : 2개 항목에 각각 전혀 아니다=0점, 여러날 동안=1점, 일주일 이상=2점, 거의 매일=3점
-* 판정 : 민감도/특이도 - ≥3점 기준 시 72%/85%, ≥2점 기준 시 91%/67% \[Levis, JAMA 2020]
+* 판정 : 민감도/특이도 - ≥3점 기준 시 72%/85%, ≥2점 기준 시 91%/67% <mark style="color:$info;">\[Levis, JAMA 2020]</mark>
   * 민감도를 중시하면 ≥2점에서 PHQ-9로 진행
   * 양성 시 PHQ-9 등 추가 평가
 
 #### [<mark style="color:$primary;">PHQ-9</mark>](https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_Korean%20for%20Korea.pdf)
 
-* 민감도/특이도 : 성인에서 ≥10점 기준 88%/85% \[Levis, BMJ 2019]; 대상군과 진단 면담 방식에 따라 달라질 수 있음
+* 민감도/특이도 : 성인에서 ≥10점 기준 88%/85% <mark style="color:$info;">\[Levis, BMJ 2019]</mark>; 대상군과 진단 면담 방식에 따라 달라질 수 있음
   * cut-off를 ≥15점으로 높이면 민감도↓/특이도↑
 * 질문 : 지난 2주 동안, 아래 나열되는 증상들에 얼마나 자주 시달렸습니까?
   1. 일을 하는 것에 대한 흥미나 재미가 거의 없음
@@ -251,7 +251,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
   8. 남들이 알아챌 정도로 거동이나 말이 느림, 또는 반대로 너무 초조하고 안절부절 못해서 평소보다 많이 돌아다니고 서성거림
   9. 나는 차라리 죽는 것이 낫겠다는 등의 생각 혹은 어떤 식으로든 스스로를 자해하는 생각들
 * 배점 : 9개 항목에 각각 전혀 아니다=0점, 여러날 동안=1점, 일주일 이상=2점, 거의 매일=3점 (총 0\~27점)
-* 출처 : 건강검진 실시기준 \[별지 제14호 서식] [정신건강검사 평가도구](https://law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212249\&admRulNm=%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84%20%EC%8B%A4%EC%8B%9C%EA%B8%B0%EC%A4%80\&bylNo=0014\&bylBrNo=00\&bylCls=BF\&bylClsCd=BF\&joEfYd=\&bylEfYd=)(PHQ-9)
+* 출처 : 건강검진 실시기준 <mark style="color:$info;">\[별지 제14호 서식]</mark> [정신건강검사 평가도구](https://law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212249\&admRulNm=%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84%20%EC%8B%A4%EC%8B%9C%EA%B8%B0%EC%A4%80\&bylNo=0014\&bylBrNo=00\&bylCls=BF\&bylClsCd=BF\&joEfYd=\&bylEfYd=)(PHQ-9)
 
 **\[삶의 질 평가]** (참고 문항)
 
@@ -267,7 +267,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 #### <mark style="color:$primary;">WHO-5 Well-being index</mark>
 
-* 민감도/특이도 : 일차진료 환자에서 CIDI로 확인한 ICD-10 우울장애 선별 시 93%/64% \[Henkel et al., BMJ 2003]; 대상군·절단점·진단 준거에 따라 달라짐
+* 민감도/특이도 : 일차진료 환자에서 CIDI로 확인한 ICD-10 우울장애 선별 시 93%/64% <mark style="color:$info;">\[Henkel et al., BMJ 2003]</mark>; 대상군·절단점·진단 준거에 따라 달라짐
 * 질문 : 지난 2주일 중 다음 상태가 얼마나 있었습니까?
   1. 나는 유쾌하고 기분이 좋다.
   2. 나는 차분하고 편안하다.
@@ -374,8 +374,8 @@ graph TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 경도(less severe, PHQ-9 ＜16) : 정신치료·운동·가이드 자가치료 등을 우선 선택
-  * 항우울제는 환자가 원하거나 과거 반응이 좋았던 경우 외에는 일률적 1차 치료로 권하지 않음 \[NICE NG222, 2022]
-* 중등도 이상 : 항우울제 또는 근거기반 정신치료; 중증에서는 병합 권장 \[CANMAT 2023]
+  * 항우울제는 환자가 원하거나 과거 반응이 좋았던 경우 외에는 일률적 1차 치료로 권하지 않음 <mark style="color:$info;">\[NICE NG222, 2022]</mark>
+* 중등도 이상 : 항우울제 또는 근거기반 정신치료; 중증에서는 병합 권장 <mark style="color:$info;">\[CANMAT 2023]</mark>
 * 고령에서는 심리사회적 치료를 선호하는 경우가 많음
 * 방문마다 PHQ-9로 반응을 측정하여 치료를 조정(measurement-based care)
 * 항우울제 시작 전 과거 조증·경조증 삽화를 임상적으로 확인하고, 의심될 때 MDQ 등 선별도구를 보조적으로 사용함
@@ -391,8 +391,8 @@ graph TD
 ### <mark style="color:orange;">생활 습관 중재</mark>
 
 * [식이](../231_/217_-nutritiondiet-guideline.md) : 지중해식 식단 - 채소·과일·전곡류·생선·올리브유
-  * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT가 있음 \[SMILES trial, BMC Med 2017]
-* [운동](../231_/216_-physical-activity-guideline.md) : 걷기·조깅, 요가, 근력운동이 우울 증상 감소에 효과적이며 강도가 높을수록 효과가 큼 \[네트워크 메타분석, BMJ 2024]
+  * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT가 있음 <mark style="color:$info;">\[SMILES trial, BMC Med 2017]</mark>
+* [운동](../231_/216_-physical-activity-guideline.md) : 걷기·조깅, 요가, 근력운동이 우울 증상 감소에 효과적이며 강도가 높을수록 효과가 큼 <mark style="color:$info;">\[네트워크 메타분석, BMJ 2024]</mark>
 * 디지털 치료기기(DTx) : CBT 기반 디지털 중재를 경증\~중등도 우울증의 보조치료로 고려할 수 있음
   * 국내에서는 2025년 블루케어-티([BlueKare-T](https://www.bluekare.kr/), CBT 기반 모바일), 2026년 [치유 포레스트 N](https://www.mindsai.co.kr/ko/cheeu)(VR 기반)이 우울장애 디지털치료기기로 허가됨. "의사 진료 → 처방 → 환자가 앱 설치·사용"의 방식으로 적용하며 제품별 적응증·대상·임상 근거, 처방 가능 기관과 비용·급여 여부를 확인
 
@@ -502,7 +502,7 @@ graph TD
 #### <mark style="color:$primary;">대체 요법</mark>
 
 * s-adenosyl-L-methionine : 근거 제한적
-* St John’s wort(Hypericum perforatum) : 일부에서 경증 우울증에 대하여 유효하나 치료 적정량 및 효과의 지속 여부에 대한 연구가 미흡하며 다른 약물과의 상호 작용 문제로 처방 권고 안 함 \[NICE NG222, 2022]
+* St John’s wort(Hypericum perforatum) : 일부에서 경증 우울증에 대하여 유효하나 치료 적정량 및 효과의 지속 여부에 대한 연구가 미흡하며 다른 약물과의 상호 작용 문제로 처방 권고 안 함 <mark style="color:$info;">\[NICE NG222, 2022]</mark>
 
 ### <mark style="color:orange;">부작용 관리 원칙</mark>
 
@@ -691,7 +691,7 @@ graph TD
 
 > 삽화 횟수뿐 아니라 중증도, 잔류 증상, 정신병적 양상, 자살 위험, 중단 후 재발, 동반 질환 및 환자 선호에 따라 개별화하며, 세 번째 삽화라는 이유만으로 평생 복용을 자동 결정하지 않음
 
-* 1차 진료에서 장기 복용 중 안정된 환자의 항우울제 중단 시 52주 재발률 56% vs 유지군 39% \[ANTLER trial, NEJM 2021]
+* 1차 진료에서 장기 복용 중 안정된 환자의 항우울제 중단 시 52주 재발률 56% vs 유지군 39% <mark style="color:$info;">\[ANTLER trial, NEJM 2021]</mark>
   * 조기 중단은 재발을 높이며, 재발 횟수가 증가할수록 치료가 더 어려워짐
 * 장기 유지 치료는 반복 삽화, 잔류 증상, 중증·정신병적 삽화, 자살 위험, 만성 경과, 동반 질환 및 중단 후 재발 병력을 종합하여 결정함. 출처가 불분명한 연령 조합만으로 기간을 정하지 않음
 
@@ -710,7 +710,7 @@ graph TD
 * 원칙 : 갑작스러운 중단 금지. 수 주\~수개월에 걸쳐 서서히 감량. 용량이 낮아질수록 더 천천히 감량
 
 {% hint style="info" %}
-대규모 메타분석에서 중단 증상은 평균적으로 경미·일시적이었고 가장 흔한 것은 어지럼이었음 \[Kalfas, JAMA Psychiatry 2025]. 중단 후 뒤늦게 발생한 지속적 우울 증상은 재발 가능성을 평가하되, 감량 시점·신체 및 감각 증상·재투여 반응 등을 통해 지연성 중단 증상과 감별함
+대규모 메타분석에서 중단 증상은 평균적으로 경미·일시적이었고 가장 흔한 것은 어지럼이었음 <mark style="color:$info;">\[Kalfas, JAMA Psychiatry 2025]</mark>. 중단 후 뒤늦게 발생한 지속적 우울 증상은 재발 가능성을 평가하되, 감량 시점·신체 및 감각 증상·재투여 반응 등을 통해 지연성 중단 증상과 감별함
 {% endhint %}
 
 ## <mark style="color:green;">치료 저항성 우울증 (Treatment resistant depression, TRD)</mark>

@@ -55,7 +55,7 @@
 
 > ※ 운동 증상이 나타나기 수년 전부터 위 증상들이 선행할 수 있음. 그러나 각각은 흔하고 비특이적이며, 이러한 증상만으로 파킨슨병 또는 전구기 파킨슨병을 진단하지 않음
 >
-> ※ MDS(국제 파킨슨병 및 운동 장애 학회) 전구기 기준은 개인 진료에서 확진하기 위한 기준이 아니라 주로 연구 목적의 확률적 기준임 \[MDS 2015, update 2019]
+> ※ MDS(국제 파킨슨병 및 운동 장애 학회) 전구기 기준은 개인 진료에서 확진하기 위한 기준이 아니라 주로 연구 목적의 확률적 기준임 <mark style="color:$info;">\[MDS 2015, update 2019]</mark>
 >
 > ※ 수면다원검사로 확인된 단독 REM 수면 행동 장애(isolated RBD) 등 고위험 상태에서는 신경과 평가와 장기 추적을 고려
 
@@ -148,7 +148,7 @@
 * 후각 상실 또는 심장 교감 신경 탈신경
 
 {% hint style="warning" %}
-**급성 levodopa/apomorphine challenge는 파킨슨증 감별을 위해 사용하지 않음 \[NICE NG71].** 진단이 불확실하면 운동장애 전문의가 통상적인 치료 과정에서 충분한 용량과 기간에 걸친 반응을 평가함.
+**급성 levodopa/apomorphine challenge는 파킨슨증 감별을 위해 사용하지 않음 <mark style="color:$info;">\[NICE NG71]</mark>.** 진단이 불확실하면 운동장애 전문의가 통상적인 치료 과정에서 충분한 용량과 기간에 걸친 반응을 평가함.
 {% endhint %}
 
 **절대 배제 기준 (Absolute exclusion criteria)**
@@ -203,7 +203,7 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table data-search="false"><thead><tr><th>분류</th><th width="297">특징</th><th>예상 경과</th><th>Levodopa에 대한 반응</th></tr></thead><tbody><tr><td><a href="034_-tremor.md#essential-tremor-et">본태성 떨림</a></td><td>주로 양측 상지의 동작 떨림; 머리·목소리 떨림 가능; 서동증과 경직 없음</td><td>서서히 진행</td><td>없음</td></tr><tr><td>약물 유발</td><td>도파민 차단제 등과 시간적 연관; 대칭적인 경우가 흔하나 비대칭도 가능</td><td>약물 중단 후 수 주~6개월 이상에 걸쳐 호전; 지속되면 잠복 PD 고려</td><td>대개 제한적</td></tr><tr><td>혈관성</td><td>단계적 악화, 국소 신경학적 이상, 하지 우세 보행 장애; 영상의 혈관 병변과 임상 연관성 확인</td><td>혈관 상태에 따름</td><td>대개 미약하나 일부 반응</td></tr><tr><td>정상압수두증</td><td>보행장애(발이 바닥에 붙은 듯한 자석 보행) + 인지 저하 + 요실금; MRI에서 뇌실 확대</td><td>배액 검사·션트로 호전 가능</td><td>대개 없음</td></tr><tr><td>진행성 핵상마비(PSP)</td><td>조기 반복 낙상, 몸통 경직, 수직 핵상주시마비, 전두엽 기능 이상; PSP-P 등 다양한 아형 존재 [MDS 2017]</td><td>빠른 진행</td><td>일부에서 초기·일시적 반응</td></tr><tr><td>다계통위축증(MSA)</td><td>자율신경 기능 상실, 파킨슨증 또는 소뇌증후군의 조합; 임상적 개연 MSA에서는 자율신경 기능 상실이 항상 필수는 아님 [MDS 2022]; 흡기성 협착음이 특징적</td><td>빠른 진행</td><td>일부에서 초기·일시적 반응</td></tr><tr><td>피질기저증후군(CBS)</td><td>비대칭 경직·근긴장이상, 사지 실행증, 피질 감각 소실, 외계인 손</td><td>진행성</td><td>불량</td></tr><tr><td>루이소체치매(DLB)</td><td>인지 저하가 파킨슨증보다 선행하거나 1년 이내 발생; 변동성 인지, 반복적 시각 환각, RBD가 핵심 특징</td><td>진행성</td><td>다양; 인지·정신 증상에는 cholinesterase 억제제 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>분류</th><th width="297">특징</th><th>예상 경과</th><th>Levodopa에 대한 반응</th></tr></thead><tbody><tr><td><a href="034_-tremor.md#essential-tremor-et">본태성 떨림</a></td><td>주로 양측 상지의 동작 떨림; 머리·목소리 떨림 가능; 서동증과 경직 없음</td><td>서서히 진행</td><td>없음</td></tr><tr><td>약물 유발</td><td>도파민 차단제 등과 시간적 연관; 대칭적인 경우가 흔하나 비대칭도 가능</td><td>약물 중단 후 수 주~6개월 이상에 걸쳐 호전; 지속되면 잠복 PD 고려</td><td>대개 제한적</td></tr><tr><td>혈관성</td><td>단계적 악화, 국소 신경학적 이상, 하지 우세 보행 장애; 영상의 혈관 병변과 임상 연관성 확인</td><td>혈관 상태에 따름</td><td>대개 미약하나 일부 반응</td></tr><tr><td>정상압수두증</td><td>보행장애(발이 바닥에 붙은 듯한 자석 보행) + 인지 저하 + 요실금; MRI에서 뇌실 확대</td><td>배액 검사·션트로 호전 가능</td><td>대개 없음</td></tr><tr><td>진행성 핵상마비(PSP)</td><td>조기 반복 낙상, 몸통 경직, 수직 핵상주시마비, 전두엽 기능 이상; PSP-P 등 다양한 아형 존재 <mark style="color:$info;">[MDS 2017]</mark></td><td>빠른 진행</td><td>일부에서 초기·일시적 반응</td></tr><tr><td>다계통위축증(MSA)</td><td>자율신경 기능 상실, 파킨슨증 또는 소뇌증후군의 조합; 임상적 개연 MSA에서는 자율신경 기능 상실이 항상 필수는 아님 <mark style="color:$info;">[MDS 2022]</mark>; 흡기성 협착음이 특징적</td><td>빠른 진행</td><td>일부에서 초기·일시적 반응</td></tr><tr><td>피질기저증후군(CBS)</td><td>비대칭 경직·근긴장이상, 사지 실행증, 피질 감각 소실, 외계인 손</td><td>진행성</td><td>불량</td></tr><tr><td>루이소체치매(DLB)</td><td>인지 저하가 파킨슨증보다 선행하거나 1년 이내 발생; 변동성 인지, 반복적 시각 환각, RBD가 핵심 특징</td><td>진행성</td><td>다양; 인지·정신 증상에는 cholinesterase 억제제 고려</td></tr></tbody></table>
 
 > _Ref. Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy. Mov Disord 2017;32(6). Wenning GK, et al. The Movement Disorder Society criteria for MSA. Mov Disord 2022;37(6). McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies. Neurology 2017;89(1)._
 
@@ -470,12 +470,12 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
   * 운전 등 위험 작업 제한
   * modafinil, methylphenidate 투여 근거는 제한적이며 전문의 감독하에 선별적으로 고려 (☞ [불면증](029_-insomnia-sleep-disorder.md#management))
 * REM 수면 행동 장애 : 우선 침실 안전 조치를 시행
-  * 즉방형 melatonin, clonazepam을 조건부 권고하며, 파킨슨병 등에 동반된 이차성 RBD에서는 rivastigmine(인지 저하 동반 시), rotigotine 패취도 조건부 권고 \[AASM 2023]
+  * 즉방형 melatonin, clonazepam을 조건부 권고하며, 파킨슨병 등에 동반된 이차성 RBD에서는 rivastigmine(인지 저하 동반 시), rotigotine 패취도 조건부 권고 <mark style="color:$info;">\[AASM 2023]</mark>
   * clonazepam : 0.25\~0.5 ㎎ 취침 전 <mark style="color:blue;">\[리보트릴]</mark>(허가 외 사용); 고령, 낙상·인지 저하·수면무호흡에서 주의
   * 즉방형 melatonin : 허가 제품 없음 (melatonin 서방정은 55세 이상 [불면증](029_-insomnia-sleep-disorder.md#management) 적응증)
 * [우울증](027_-depression.md) : 정신치료와 약물치료를 중증도·인지·수면·기립성 저혈압 및 상호작용에 따라 개별화
   * SSRI/SNRI 등을 고려
-  * 근거 평가 : pramipexole·venlafaxine은 efficacious, SSRI·nortriptyline·CBT는 likely efficacious \[MDS 2019]
+  * 근거 평가 : pramipexole·venlafaxine은 efficacious, SSRI·nortriptyline·CBT는 likely efficacious <mark style="color:$info;">\[MDS 2019]</mark>
 * 통증 : 발생 시간 먼저 확인
   * 통증이 약효가 떨어지는 시간(OFF 상태, 예: 이른 아침 첫 복용 전이나 다음 복용 직전)에 나타나거나 심해지면 levodopa 투여 간격·용량 조정 등 도파민 치료를 우선 최적화
   * 복용 시간과 무관하면 근골격계·신경병성 등 다른 원인을 평가하며, duloxetine 등은 통증 유형과 동반 우울에 따라 고려할 수 있으나 파킨슨병 특이 근거는 제한적
@@ -498,7 +498,7 @@ Levodopa/benserazide(마도파)는 이 FDA 경고의 대상이 아님.
   * galantamine·memantine의 근거는 제한적
 * psychosis(망상, 환각) : 감염·대사 이상·탈수·수면 문제 등 섬망 원인을 먼저 확인
   * 운동 기능을 고려하면서 항콜린제→amantadine→MAO-B 억제제→dopamine 작용제→COMT 억제제 순으로 감량 검토
-  * pimavanserin(미허가)과 clozapine은 clinically useful, quetiapine은 possibly useful로 평가됨 \[MDS 2019]
+  * pimavanserin(미허가)과 clozapine은 clinically useful, quetiapine은 possibly useful로 평가됨 <mark style="color:$info;">\[MDS 2019]</mark>
   * clozapine은 무과립구증 혈액 모니터링이 필수
   * quetiapine 저용량(예: 12.5\~50 ㎎ qhs)은 운동 악화가 비교적 적으나 효능 근거가 제한적이고 기립성 저혈압·진정에 주의
   * risperidone 등 도파민 차단 항정신병제는 피함

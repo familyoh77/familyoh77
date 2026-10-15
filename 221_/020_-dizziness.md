@@ -134,7 +134,7 @@
 * 원인 : 불명; 바이러스 재활성화 또는 염증성 기전 등이 가설로 제시되지만 확정되지 않음
 
 {% hint style="info" %}
-AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현이 실제로는 염증이 조직학적으로 확인되지 않은 경우가 많고 원인이 바이러스성 신경염 외에도 다양할 수 있다는 점 때문에, 더 중립적인 "vestibulopathy(전정병증)"라는 표현을 씀 \[국제 전정장애 분류(ICVD)]
+AUVP : vestibular neuritis를 대체하는 용어 - "신경염"이라는 표현이 실제로는 염증이 조직학적으로 확인되지 않은 경우가 많고 원인이 바이러스성 신경염 외에도 다양할 수 있다는 점 때문에, 더 중립적인 "vestibulopathy(전정병증)"라는 표현을 씀 <mark style="color:$info;">\[국제 전정장애 분류(ICVD)]</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">임상 양상</mark>
@@ -531,7 +531,7 @@ flowchart TD
 <mark style="color:cyan;">**Epley maneuver**</mark>
 
 * post canal BPPV의 가장 효과적인 치료법; 치료 성공률 80%
-* Epley·Semont가 단기 유효성·완치율에서 다른 정복술 대비 우월하여 1차 치료로 재확인됨 \[Front Neurol 2026]. 다만 일부 연구의 비뚤림 위험이 높았고 장기 재발에 대한 근거 확실성은 낮았음
+* Epley·Semont가 단기 유효성·완치율에서 다른 정복술 대비 우월하여 1차 치료로 재확인됨 <mark style="color:$info;">\[Front Neurol 2026]</mark>. 다만 일부 연구의 비뚤림 위험이 높았고 장기 재발에 대한 근거 확실성은 낮았음
 * [방법](https://www.youtube.com/watch?v=jBzID5nVQjk)
   * 무릎을 뻗은 상태로 침대에 길게 앉음 → 환측으로 머리를 45°돌리고 턱을 약간 쳐들게 한 후 빠르게, 머리가 수평보다 30°더 내려가게 눕히고(lay back, 머리를 침대 밖으로 늘어뜨림) 1분간 유지\
     → 이 상태에서 고개를 건측으로 90°돌려 1분간 유지\
@@ -582,11 +582,11 @@ flowchart TD
 
 #### <mark style="color:$primary;">약물 치료</mark>
 
-* 안정제 : 원칙적으로 권장하지 않음 \[AAO-HNS 2017]
+* 안정제 : 원칙적으로 권장하지 않음 <mark style="color:$info;">\[AAO-HNS 2017]</mark>
   * central compensation을 방해하고 낙상 위험을 증가시킴
   * 불가피한 경우 3일 이내로 제한하며 주의를 요함
 * 항구토제 : 구역/구토가 심한 경우 단기 사용
-* Vit D & Ca : 혈중 Vitamin D 농도가 낮은 경우(＜20 ng/mL) 보충 시 BPPV 재발률이 유의하게 감소함 \[Neurology 2020]; 정상 농도에서는 추가 효과 불분명
+* Vit D & Ca : 혈중 Vitamin D 농도가 낮은 경우(＜20 ng/mL) 보충 시 BPPV 재발률이 유의하게 감소함 <mark style="color:$info;">\[Neurology 2020]</mark>; 정상 농도에서는 추가 효과 불분명
   * 단일기관 노인 대상 이중맹검 RCT(결핍자에서 13주 2,000 IU/d → 13주 1,000 IU/d 보충)에서 재발률 87% 감소, 인년당 임상 재발 0.75건 감소, 최초 재발까지 기간 연장이 보고됨. 대상과 표본 규모가 제한되어 효과 크기의 일반화에는 주의 <mark style="color:$info;">(Otolaryngol Head Neck Surg 2025)</mark>
   * Cholecalciferol 400 IU + Calcium carbonate 500 ㎎ bid
 
@@ -643,7 +643,7 @@ flowchart TD
 ### <mark style="color:orange;">지속성체위지각어지럼증 (Persistent postural-perceptual dizziness, PPPD)</mark>
 
 * 국내 dizziness clinic에서 두 번째로 흔한 원인(20.8%)
-* 진단 기준 \[Bárány Society 2017] (ICD-11에 수록) - 다음 기준을 모두 충족
+* 진단 기준 <mark style="color:$info;">\[Bárány Society 2017]</mark> (ICD-11에 수록) - 다음 기준을 모두 충족
   * 지속성 : 3개월 이상 대부분의 날 발생하는 어지럼, 부동감(unsteadiness) 또는 비회전성 현훈
     * 증상은 수시간 이상 지속될 수 있고 강도는 증감함
   * 악화 요인 : 직립 자세(standing/walking), 특정 방향과 상관없는 능동적/수동적 움직임, 복잡한 시각 자극(대형 마트, 영화관 등)

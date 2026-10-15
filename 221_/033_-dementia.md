@@ -23,8 +23,8 @@
 ### <mark style="color:orange;">병태생리</mark>
 
 * 알츠하이머병 : 고령자 치매의 60\~80% 차지
-  * 혈관성 병리, 루이소체, LATE(Limbic-predominant Age-related TDP-43 encephalopathy) 등 다른 병리와 흔히 혼합되어, 치매 환자 중 AD 병리만 단독으로 있는 경우는 약 30%에 그침 \[Neurology 2007]
-    * 평가하는 병리 범위를 넓히면 임상적 probable AD의 95% 이상에서 둘 이상의 병리가 확인됨 \[Acta Neuropathol 2017]
+  * 혈관성 병리, 루이소체, LATE(Limbic-predominant Age-related TDP-43 encephalopathy) 등 다른 병리와 흔히 혼합되어, 치매 환자 중 AD 병리만 단독으로 있는 경우는 약 30%에 그침 <mark style="color:$info;">\[Neurology 2007]</mark>
+    * 평가하는 병리 범위를 넓히면 임상적 probable AD의 95% 이상에서 둘 이상의 병리가 확인됨 <mark style="color:$info;">\[Acta Neuropathol 2017]</mark>
   * 혼합 병리는 진행 속도와 치료 반응에 영향을 주므로, AD로 진단한 환자에서도 혈관 위험인자 관리를 병행
   * amyloid β 단백 축적, 신경원섬유 엉킴(tau 단백), 시냅스 이상 → 신경 퇴행/사멸
   * choline acetyltransferase↓ → acetylcholine synthesis↓ → cholinergic function↓
@@ -129,24 +129,24 @@ D. 이 장애는 뇌혈관 질환, 다른 신경퇴행성 질환, substance의 �
 
 #### <mark style="color:$primary;">알츠하이머병의 진단 기준 체계</mark>
 
-* [NIA-AA 2011 병기](https://pubmed.ncbi.nlm.nih.gov/21514250/)
+* <mark style="color:$info;">[NIA-AA 2011 병기](https://pubmed.ncbi.nlm.nih.gov/21514250/)</mark>
   1. Preclinical AD : 증상(-), 바이오마커로 정의되는 연구용 개념
   2. MCI(경도인지장애) due to AD : 인지 저하에 대한 우려, 기억 등 ≥1개 영역의 객관적 인지 저하, 독립적 일상기능 유지, 치매가 아님을 핵심 임상 기준으로 평가
      * AD 병리 가능성(높음·중간·판단 불가)을 세분하는 데 바이오마커를 활용
   3. Dementia due to AD : 기능 장애를 초래하는 인지 능력 저하 등 핵심 임상 기준으로 probable/possible AD 치매를 진단. 바이오마커는 AD 병태생리에 대한 확실성을 높이는 데 사용
-* [NIA-AA 2018 AT(N) research framework](https://pubmed.ncbi.nlm.nih.gov/29653606/) : 연구용 기준으로, AD 바이오마커를 아밀로이드(A), tau(T), 신경퇴행(N)의 세 범주로 분류하고 AD는 A와 T로 정의
+* <mark style="color:$info;">[NIA-AA 2018 AT(N) research framework](https://pubmed.ncbi.nlm.nih.gov/29653606/)</mark> : 연구용 기준으로, AD 바이오마커를 아밀로이드(A), tau(T), 신경퇴행(N)의 세 범주로 분류하고 AD는 A와 T로 정의
   * A (Amyloid-β 단백) : 아밀로이드 PET 양성 또는 CSF Aβ₄₂(또는 Aβ₄₂/₄₀ 비) 감소; AD 관련 아밀로이드 병리를 반영하나 DLB, 뇌아밀로이드혈관병증, 인지 정상 고령자에서도 양성일 수 있음
   * T (Pathologic Tau 단백) : CSF p-tau 상승 또는 tau PET 양성; AD 관련 병적 tau를 반영
   * (N) (Neuro-degeneration / Neuronal Injury) : 뇌척수액 총 타우(T-tau) 상승, 구조적 MRI상 뇌 위축, FDG-PET 상의 대사 저하; AD뿐 아니라 혈관성 손상, FTLD, 루이소체병, 외상 등 각종 신경 손상에서 양성 결과; 병기·중증도를 보여주는 보조 지표로 괄호에 넣어 구분함
   * 이 체계에서 A+T−는 AD 병리 변화(Alzheimer's pathologic change), A+T+는 AD로 분류함. 다만 바이오마커 양성만으로 임상 치매의 원인을 AD 하나로 확정하지 않음(혼합 병리 흔함)
-* [2024 Alzheimer's Association](https://www.alz.org/research/for_researchers/diagnostic-criteria-guidelines) : 혈액 바이오마커를 포함한 생물학적 진단과 통합 임상 병기(0\~6단계)·생물학적 병기(A\~D단계) 체계를 제시함.
+* <mark style="color:$info;">[2024 Alzheimer's Association](https://www.alz.org/research/for_researchers/diagnostic-criteria-guidelines)</mark> : 혈액 바이오마커를 포함한 생물학적 진단과 통합 임상 병기(0\~6단계)·생물학적 병기(A\~D단계) 체계를 제시함.
   * 단, 바이오마커 양성은 임상적 치매와 동의어가 아니며, 무증상 일반인에게 일률적으로 검사하거나 혈액검사 하나만으로 AD를 진단 또는 치료하지 않음
-* [IWG 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010406/) : AD를 임상-생물학적(Clinical-biological) 개념으로 보며, 증상 없는 바이오마커 양성자는 AD 환자가 아닌 '위험 상태(at risk)'로 분류함
-* 실제 임상 평가는 [2024\~2025 DETeCD-ADRD 지침](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14337)에 따라 환자와 정보제공자의 병력, 객관적 인지평가, 기능 평가, 신경학적 진찰, 단계별 검사, 진단 설명과 상담을 통합
+* <mark style="color:$info;">[IWG 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010406/)</mark> : AD를 임상-생물학적(Clinical-biological) 개념으로 보며, 증상 없는 바이오마커 양성자는 AD 환자가 아닌 '위험 상태(at risk)'로 분류함
+* 실제 임상 평가는 <mark style="color:$info;">[2024\~2025 DETeCD-ADRD 지침](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14337)</mark>에 따라 환자와 정보제공자의 병력, 객관적 인지평가, 기능 평가, 신경학적 진찰, 단계별 검사, 진단 설명과 상담을 통합
 
 #### <mark style="color:$primary;">AD 바이오마커 계층 (접근성 순)</mark>
 
-<table><thead><tr><th width="76">단계</th><th width="92">검사</th><th width="223">주요 지표</th><th>임상적 역할</th></tr></thead><tbody><tr><td>1단계</td><td>혈액</td><td>p-tau217(또는 %p-tau217), p-tau181, Aβ₄₂/₄₀ 비</td><td>전문 진료의 객관적 인지장애 환자 대상 [Alzheimers Dement 2025]. 분류(triage) 검사: 민감도 ≥90%·특이도 ≥75%; 음성이면 AD 병리 가능성이 낮고 양성이면 PET·CSF 확인 필요. 확인(confirmatory) 검사: 민감도·특이도 모두 ≥90%일 때 PET·CSF 대체 가능. 무증상 선별용 아님</td></tr><tr><td>2단계</td><td>CSF</td><td>Aβ₄₂/₄₀ 비, p-tau181/Aβ₄₂ 비, total tau(신경손상 보조 지표)</td><td>AD 병리 확인; 침습적이나 PET 대비 저비용</td></tr><tr><td>3단계</td><td>Amyloid PET</td><td>뇌 아밀로이드 침착 직접 시각화</td><td>AD 병리 확인; 항아밀로이드 치료 적격성 평가</td></tr></tbody></table>
+<table><thead><tr><th width="76">단계</th><th width="92">검사</th><th width="223">주요 지표</th><th>임상적 역할</th></tr></thead><tbody><tr><td>1단계</td><td>혈액</td><td>p-tau217(또는 %p-tau217), p-tau181, Aβ₄₂/₄₀ 비</td><td>전문 진료의 객관적 인지장애 환자 대상 <mark style="color:$info;">[Alzheimers Dement 2025]</mark>. 분류(triage) 검사: 민감도 ≥90%·특이도 ≥75%; 음성이면 AD 병리 가능성이 낮고 양성이면 PET·CSF 확인 필요. 확인(confirmatory) 검사: 민감도·특이도 모두 ≥90%일 때 PET·CSF 대체 가능. 무증상 선별용 아님</td></tr><tr><td>2단계</td><td>CSF</td><td>Aβ₄₂/₄₀ 비, p-tau181/Aβ₄₂ 비, total tau(신경손상 보조 지표)</td><td>AD 병리 확인; 침습적이나 PET 대비 저비용</td></tr><tr><td>3단계</td><td>Amyloid PET</td><td>뇌 아밀로이드 침착 직접 시각화</td><td>AD 병리 확인; 항아밀로이드 치료 적격성 평가</td></tr></tbody></table>
 
 > _<mark style="color:$info;">✽FDA 허가 혈액 검사(2026년 9월 기준 4종) : Lumipulse G pTau217/β-amyloid 1-42 plasma ratio, Elecsys pTau181, PrecivityAD2, Elecsys pTau217.</mark>_\
 > _<mark style="color:$info;">모두 인지 저하 증상 환자가 검사 대상이며 단독 확진·무증상 선별용이 아님. 결과 구간 체계는 검사별로 다르며(양성·중간·음성 3구간 또는 배제 중심 판정), 중간 결과나 임상상과 불일치하는 결과는 PET·CSF로 추가 평가.</mark>_\
@@ -227,7 +227,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 * Progressive supranuclear palsy, corticobasal syndrome, amyotrophic lateral sclerosis와 임상·병리학적으로 중첩될 수 있음
 * 기억력, 시공간 능력은 비교적 유지됨
 * tau 또는 TDP-43 단백병증이 주된 기전(AD와는 다른 기전)
-* 임상 아형 : 행동변이형(bvFTD, \[Brain 2011] 기준)과 원발진행실어증(PPA; 비유창형·의미형). 로고페닉형 PPA는 대개 AD 병리
+* 임상 아형 : 행동변이형(bvFTD, <mark style="color:$info;">\[Brain 2011]</mark> 기준)과 원발진행실어증(PPA; 비유창형·의미형). 로고페닉형 PPA는 대개 AD 병리
 * 행동 증상에는 SSRI·trazodone을 제한적 근거로 사용하며, ChEI는 행동 악화 가능성 때문에 권고하지 않음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -380,7 +380,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 
 {% hint style="info" %}
 기본 검사는 인지저하를 악화시키는 교정 가능한 동반 요인을 찾기 위한 것임.\
-교정 가능한 원인이 발견되는 경우는 약 9%이나 교정 후 실제 호전은 0.6% 정도 \[Arch Intern Med 2003]
+교정 가능한 원인이 발견되는 경우는 약 9%이나 교정 후 실제 호전은 0.6% 정도 <mark style="color:$info;">\[Arch Intern Med 2003]</mark>
 {% endhint %}
 
 **선택 검사 (Tier 2, 임상상에 따라 일부 환자)**
@@ -456,7 +456,7 @@ Haloperidol 등 전형적 항정신병제는 급격하고 심한 파킨슨증 �
 * 다음 각 항목에 대하여 2점씩 부여 : ① 갑자기 발생, ② 증상 변동이 있음, ③ 뇌졸중 병력, ④ 국소 신경학적 증상, ⑤ 국소 신경학적 징후
 * 다음 각 항목에 대하여 1점씩 부여 : ① emotional incontinence(예: 비정상적인 울음/웃음), ② 계단식 진행, ③ 고혈압 병력, ④ nocturnal confusion, ⑤ 죽상경화증 관련 증거, ⑥ personality는 비교적 유지, ⑦ 우울, ⑧ 신체 증상 호소
 * 판정 : 0\~4점=AD 우세 시사, 5\~6점=판단 불확실, ≥7점=혈관성 병인 시사
-  * 부검 확인 증례 메타분석에서 AD와 다발경색치매를 구분할 때 민감도 89.0%·특이도 89.3%였으나 혼합형 치매는 잘 구분하지 못함 \[Neurology 1997]
+  * 부검 확인 증례 메타분석에서 AD와 다발경색치매를 구분할 때 민감도 89.0%·특이도 89.3%였으나 혼합형 치매는 잘 구분하지 못함 <mark style="color:$info;">\[Neurology 1997]</mark>
 
 #### <mark style="color:$primary;">치매·우울·섬망의 핵심 감별</mark>
 
@@ -536,7 +536,7 @@ flowchart TD
 * 일정한 일과와 익숙한 환경을 유지하고 과도한 자극을 줄이며, 환자 능력에 맞춘 운동·인지자극·음악·회상·사회활동을 제공
 * 혈압·당뇨병·고LDL 콜레스테롤, 청력·시력 저하, 흡연, 신체활동 저하 등 교정 가능한 위험인자를 관리(☞ [경도인지장애](032_-mild-cognitive-impairment.md#undefined-11))
 * 난청이 있으면 보청기 사용을 권고
-* 운동·식이·인지 훈련·혈관 위험 관리를 결합한 구조화된 다영역 생활 개입 - 자율 실천보다 인지 기능을 소폭 개선함 \[JAMA 2025]
+* 운동·식이·인지 훈련·혈관 위험 관리를 결합한 구조화된 다영역 생활 개입 - 자율 실천보다 인지 기능을 소폭 개선함 <mark style="color:$info;">\[JAMA 2025]</mark>
 * 커피, 차 : 치매 예방 목적의 섭취는 권하지 않음(치매 위험의 관찰 연구 결과는 일관되지 않음)
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -636,7 +636,7 @@ flowchart TD
 * 주의: 치매 관련 정신행동 증상 환자에서 항정신병제 사용 시 뇌졸중 및 사망 위험이 유의하게 증가함
   * 처방 전 환자·보호자에게 반드시 고지할 것
 * BPSD에 대한 항정신병제 사용은 대부분 허가 외 사용임
-* 최소 유효 용량·최단 기간 사용. 적정 용량 4주 사용 후 의미 있는 반응이 없으면 감량·중단하고, 반응이 있더라도 시작 후 4개월 이내 감량·중단을 시도(이전 중단 시 재발 이력이 있으면 예외) \[APA 2016]
+* 최소 유효 용량·최단 기간 사용. 적정 용량 4주 사용 후 의미 있는 반응이 없으면 감량·중단하고, 반응이 있더라도 시작 후 4개월 이내 감량·중단을 시도(이전 중단 시 재발 이력이 있으면 예외) <mark style="color:$info;">\[APA 2016]</mark>
 * 루이소체치매에서는 항정신병제 사용에 주의
 
 #### <mark style="color:$primary;">Atypical antipsychotics</mark>
