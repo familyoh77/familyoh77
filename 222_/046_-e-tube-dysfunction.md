@@ -12,7 +12,7 @@
   * 폐쇄성 ETD(obstructive ETD, dilatory ETD) : 이관이 충분히 열리지 않아 중이 환기가 저하되는 형태
   * 기압 유발형 ETD(baro-challenge-induced ETD) : 평소에는 정상이지만 비행·잠수 등 급격한 기압 변화 시에는 증상이 발생
   * 개방성 ETD(patulous ETD, PET) : 이관이 비정상적으로 계속 열려 있는 형태
-* 폐쇄성 ETD 유병률 : 성인의 약 5%(tympanometry상 중이 음압 기준의 폐쇄성 ETD 추정치) \[JAMA Otolaryngol Head Neck Surg 2019]
+* 폐쇄성 ETD 유병률 : 성인의 약 5%(tympanometry상 중이 음압 기준의 폐쇄성 ETD 추정치) <mark style="color:$info;">\[JAMA Otolaryngol Head Neck Surg 2019]</mark>
 * 지속적 폐쇄는 삼출성 중이염·진주종 등 심각한 합병증을 유발할 수 있음
 * 개방성 ETD는 폐쇄성 ETD에 비해 중이의 구조적 합병증은 드물지만, 심한 autophony로 인한 일상생활 장애, 반복적 sniffing habit에 따른 이차적 고막 후퇴 등이 문제가 될 수 있음
 
@@ -52,7 +52,7 @@
 
 * 상기도 감염·활동성 알레르기 시 비행·잠수 가급적 회피
 * 비행 예방 : 이착륙, 특히 착륙 하강 중 삼킴·하품·저작과 부드러운 압력 평형 반복이 기본
-  * 항공 여행 시 귀 통증 병력이 있는 성인에서 이륙 30분 전 경구 pseudoephedrine 120 ㎎이 항공 중이 압력손상을 줄였고, 국소 oxymetazoline은 위약과 차이가 없었음 \[Am J Emerg Med 1998]; 국내 정제(60 ㎎)의 허가 1회 용량은 연구 용량과 다르며, 60 ㎎ 1회 투여의 예방 효과는 해당 연구에서 직접 확인되지 않음. 국소 분무제는 비충혈 완화에 단기 사용 가능하나 압력손상 예방 효과는 불확실
+  * 항공 여행 시 귀 통증 병력이 있는 성인에서 이륙 30분 전 경구 pseudoephedrine 120 ㎎이 항공 중이 압력손상을 줄였고, 국소 oxymetazoline은 위약과 차이가 없었음 <mark style="color:$info;">\[Am J Emerg Med 1998]</mark>; 국내 정제(60 ㎎)의 허가 1회 용량은 연구 용량과 다르며, 60 ㎎ 1회 투여의 예방 효과는 해당 연구에서 직접 확인되지 않음. 국소 분무제는 비충혈 완화에 단기 사용 가능하나 압력손상 예방 효과는 불확실
 * 잠수 : 하강 전·하강 중 자주 압력 평형
   * 이통 시 하강을 멈추고 약간 상승하여 평형 재시도, 실패하면 잠수를 중단하고 천천히 상승
   * 상승 중에는 Valsalva를 하지 않음
@@ -168,21 +168,21 @@ graph TD
   * tuning fork를 유양돌기에 대어 골전도(BC)로 소리를 듣게 하고, 소리가 더 이상 들리지 않게 되면 tuning fork를 즉시 귀 앞쪽으로 옮기고(AC) 환자가 소리를 다시 듣는지 확인
   * 기도-골도 차이(air-bone gap)가 대략 20\~25 dB 이상일 때 BC＞AC가 되므로 경미한 전음성 난청에서는 정상일 수 있음
 * tympanometry : type B(외이도 용적 정상 - 삼출액; 용적 증가 - 고막 천공·환기관 개통) 또는 type C(중이 음압, 대개 -100 daPa 이하)
-  * 특이도는 높으나 민감도가 낮아 정상 소견이 간헐적 ETD를 배제하지 않음 \[PLoS One 2018]
+  * 특이도는 높으나 민감도가 낮아 정상 소견이 간헐적 ETD를 배제하지 않음 <mark style="color:$info;">\[PLoS One 2018]</mark>
 * 이관기능 정밀검사(의뢰 시) : tubomanometry(TMM), sonotubometry, 9-step inflation-deflation test, pressure chamber test, Eustachian Tube Score(ETS)
 * 영상 검사 : ETD 자체의 routine 진단에는 필요하지 않음; 지속적 편측 삼출성 중이염, 비인두 병변 의심, 진주종·측두골 병변 의심 등 다른 병리가 시사되는 경우에 한해 비인두 내시경 및 CT·MRI를 선택적으로 시행
 * 원인 질환 감별을 위한 비인두 내시경, 알레르기 검사 등 고려
 
 {% hint style="info" %}
-폐쇄성 ETD는 증상만으로 확진하지 않음 - 귀 충만감·압력감 등의 증상에 고막 후퇴 또는 tympanometry상 중이 음압 등 객관적 소견을 더해 병력·이경·tympanometry·청력 검사를 종합하여 진단하며, Valsalva 통기 여부나 ETDQ-7 점수 하나만으로 진단하지 않음 \[Otolaryngol Head Neck Surg 2019]
+폐쇄성 ETD는 증상만으로 확진하지 않음 - 귀 충만감·압력감 등의 증상에 고막 후퇴 또는 tympanometry상 중이 음압 등 객관적 소견을 더해 병력·이경·tympanometry·청력 검사를 종합하여 진단하며, Valsalva 통기 여부나 ETDQ-7 점수 하나만으로 진단하지 않음 <mark style="color:$info;">\[Otolaryngol Head Neck Surg 2019]</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">ETDQ-7 설문</mark>
 
 * 지난 1개월간 7개 항목에 대해 없음(1점)\~극심함(7점)으로 설문
 * 항목 : ① 귀 압박감, ② 귀 통증, ③ 귀가 막히거나 물속에 있는 느낌, ④ 감기 또는 부비동염이 있을 때 귀의 문제, ⑤ 귀에서 “딱딱” 또는 “펑” 소리, ⑥ 귀 울림, ⑦ 잘 들리지 않음
-* 총점 ≥14.5점이면 폐쇄성 ETD 가능성 높음 \[Laryngoscope 2012]
-* 객관적 이관기능 검사와의 일치도는 낮아(민감도 54%, 특이도 78%) \[Otolaryngol Head Neck Surg 2018] 단독 진단 도구로 쓰지 않으며, 개방성 ETD 평가에는 사용하지 않음
+* 총점 ≥14.5점이면 폐쇄성 ETD 가능성 높음 <mark style="color:$info;">\[Laryngoscope 2012]</mark>
+* 객관적 이관기능 검사와의 일치도는 낮아(민감도 54%, 특이도 78%) <mark style="color:$info;">\[Otolaryngol Head Neck Surg 2018]</mark> 단독 진단 도구로 쓰지 않으며, 개방성 ETD 평가에는 사용하지 않음
 
 #### <mark style="color:$primary;">증상에 따른 감별</mark>
 
@@ -227,7 +227,7 @@ graph TD
 **Step 2.** 대상 - 알레르기비염·비부비동염 동반
 
 * 치료 : 동반 질환 치료로서 비강 스테로이드 ± 2세대 항히스타민제(재채기·가려움·콧물 등 증상에 따라 추가)
-  * 비강 스테로이드는 tympanometry 정상화를 대조군보다 유의하게 개선하지 못했고(4개 연구, 512귀; OR 1.21, 95% CI 0.65–2.24; 성인·소아 연구 포함) \[J Laryngol Otol 2024], 만성 폐쇄성 ETD의 증상 반응률도 11\~18%에 그침 \[Laryngoscope 2022] - 4\~6주에 귀 증상을 재평가하고, 호전이 없으면 폐쇄성 ETD 치료 목적의 연장은 하지 않되 비염 자체의 치료가 필요하면 해당 적응증에 따라 지속
+  * 비강 스테로이드는 tympanometry 정상화를 대조군보다 유의하게 개선하지 못했고(4개 연구, 512귀; OR 1.21, 95% CI 0.65–2.24; 성인·소아 연구 포함) <mark style="color:$info;">\[J Laryngol Otol 2024]</mark>, 만성 폐쇄성 ETD의 증상 반응률도 11\~18%에 그침 <mark style="color:$info;">\[Laryngoscope 2022]</mark> - 4\~6주에 귀 증상을 재평가하고, 호전이 없으면 폐쇄성 ETD 치료 목적의 연장은 하지 않되 비염 자체의 치료가 필요하면 해당 적응증에 따라 지속
 
 **Step 3.** 대상 - 보존 치료 및 필요한 동반 질환 치료에도 불편·청력 저하가 지속되거나, 증상 또는 삼출성 중이염이 3개월 이상 지속
 
@@ -238,9 +238,9 @@ graph TD
 * Valsalva autoinflation : 코와 입을 막고 부드럽게 내뱉는 동작으로 중이에 양압을 가하여 이관 개통
   * "귀로 바람을 세게 불어넣는 느낌"이 아니라 "중이 압력을 살짝 맞춘다는 느낌으로 짧고 약하게" 시행
     * 너무 강하게 시행하면 귀 통증·어지럼, 드물게 고막·중이 손상 또는 내이 압력손상(외림프 누공 등)이 발생할 수 있으므로 부드럽게 시행하고, 통증이나 어지럼이 생기면 즉시 중단하도록 교육
-  * 성인 폐쇄성 ETD에서 Valsalva 요법의 이득은 미미함 \[Laryngoscope 2022]
+  * 성인 폐쇄성 ETD에서 Valsalva 요법의 이득은 미미함 <mark style="color:$info;">\[Laryngoscope 2022]</mark>
   * 비내 감염·급성 중이염 시에는 중이 내 감염 촉진 위험이 있으므로 금기
-* 비강 풍선 자가 통기([Otovent](https://www.youtube.com/watch?v=O5Y_bUqmQ1o) 등) : 소아 삼출성 중이염에서는 RCT 근거가 있으나 \[CMAJ 2015], 성인 폐쇄성 ETD 근거는 제한적; 위해가 적어 시도 가능
+* 비강 풍선 자가 통기([Otovent](https://www.youtube.com/watch?v=O5Y_bUqmQ1o) 등) : 소아 삼출성 중이염에서는 RCT 근거가 있으나 <mark style="color:$info;">\[CMAJ 2015]</mark>, 성인 폐쇄성 ETD 근거는 제한적; 위해가 적어 시도 가능
 * Politzer법 : 한쪽 콧구멍에 bulb를 대고 반대쪽 콧구멍을 막은 채 삼키는 순간 가압(물을 입에 물고 있다가 삼키게 함)
   * 비인두 압력 상승으로 이관 개통 유도; 성인 폐쇄성 ETD 근거 제한적
 * TMJ 질환이 의심되면 턱관절·저작근 평가와 해당 질환 관리
@@ -280,8 +280,8 @@ graph TD
 
 * Tympanostomy tube : 중이 환기관 삽입; 삼출성 중이염·재발성 급성 중이염 시
 * Balloon Eustachian Tuboplasty (BET) : 이관 연골부를 풍선 카테터로 확장; 만성 폐쇄성 ETD에서 선택적으로 고려하는 치료(기관별 시행 현황 차이가 있으며 모든 환자에 대한 표준 치료로 확립된 것은 아님)
-  * BET 적응증 \[Otolaryngol Head Neck Surg 2019] : 18세 이상 성인에서 ① 폐쇄성 ETD 증상 ≥3개월 지속, ② 삶의 질에 영향, ③ 확인된 치료 가능한 동반 질환(비염·부비동염 등)을 적절히 치료했음에도 증상 지속, ④ 고막 후퇴·중이 음압(type C) 또는 삼출 소견(type B) 등 객관적 소견을 종합
-  * 기압 유발형은 평상시 tympanometry가 정상일 수 있음; ETDQ-7 ≥14.5점은 ETD 가능성을 높이는 증상 척도로 참고하되, 단독으로 BET 적응증을 결정하는 필수조건으로 사용하지 않음 (객관적 검사와의 일치도 낮음 - 민감도 54%, 특이도 78% \[Otolaryngol Head Neck Surg 2018])
+  * BET 적응증 <mark style="color:$info;">\[Otolaryngol Head Neck Surg 2019]</mark> : 18세 이상 성인에서 ① 폐쇄성 ETD 증상 ≥3개월 지속, ② 삶의 질에 영향, ③ 확인된 치료 가능한 동반 질환(비염·부비동염 등)을 적절히 치료했음에도 증상 지속, ④ 고막 후퇴·중이 음압(type C) 또는 삼출 소견(type B) 등 객관적 소견을 종합
+  * 기압 유발형은 평상시 tympanometry가 정상일 수 있음; ETDQ-7 ≥14.5점은 ETD 가능성을 높이는 증상 척도로 참고하되, 단독으로 BET 적응증을 결정하는 필수조건으로 사용하지 않음 (객관적 검사와의 일치도 낮음 - 민감도 54%, 특이도 78% <mark style="color:$info;">\[Otolaryngol Head Neck Surg 2018]</mark>)
   * BET 금기 : 개방성 ETD(확장 시 증상 악화), 내경동맥관 결손(깊이 표지 없는 기구 사용 시)
   * BET 한계 : 이관 연골부 자체의 dilatory dysfunction을 대상으로 하는 시술로, 아데노이드 비대·비인두 종양·점막하 종괴 등 기계적 원인에 대한 평가와 치료가 우선임
   * 기계적 폐쇄가 의심되면 이비인후과에 의뢰하며, BET 시행 전 전문 평가에서 해당 원인을 확인·배제함

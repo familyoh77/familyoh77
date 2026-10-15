@@ -94,7 +94,7 @@
 
 * 병력, 증상/징후, 증상 기간, 동반 전신 질환
 * 다음 상황에서 증상 악화 : 흡연, 바람, 콘택트렌즈, 건조, 음주, 눈 화장
-* 일중 변동 : 아침에 증상이 심하면 안검염, 오후\~저녁에 악화되면 수성 눈물 결핍형 안구건조증을 시사 \[AAO PPP 2023]
+* 일중 변동 : 아침에 증상이 심하면 안검염, 오후\~저녁에 악화되면 수성 눈물 결핍형 안구건조증을 시사 <mark style="color:$info;">\[AAO PPP 2023]</mark>
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -199,9 +199,9 @@ graph TD
 * doxycycline 50\~100 ㎎/d <mark style="color:blue;">\[모노신]</mark> : 국내 안검염/MGD 적응증 미승인(허가 외 사용)이며 용량·기간의 표준화가 부족함
   * 환자별로 용량을 선택하고 4\~6주 후 반응을 평가하여 감량·중단 여부 결정
 * minocycline <mark style="color:blue;">\[미노씬]</mark> : 대체제로 고려할 수 있으나 어지럼증·색소침착 및 드문 자가면역 이상에 유의
-* azithromycin 1 g 주 1회 ×3주 <mark style="color:blue;">\[지스로맥스]</mark> : 중등도\~중증 MGD에서 doxycycline 200 ㎎/d ×6주와 동등한 효과를 보였고 위장관 부작용은 더 적었음(4.4% vs 15.9%) \[JAMA Ophthalmol 2023]
+* azithromycin 1 g 주 1회 ×3주 <mark style="color:blue;">\[지스로맥스]</mark> : 중등도\~중증 MGD에서 doxycycline 200 ㎎/d ×6주와 동등한 효과를 보였고 위장관 부작용은 더 적었음(4.4% vs 15.9%) <mark style="color:$info;">\[JAMA Ophthalmol 2023]</mark>
   * 위약군이 없는 동등성 시험으로, 두 치료 모두 보존적 치료보다 우월한지는 확인되지 않음
-  * 심혈관 질환자에서 부정맥 위험이 있으므로 QT 연장·병용약물 확인 \[AAO PPP 2023]
+  * 심혈관 질환자에서 부정맥 위험이 있으므로 QT 연장·병용약물 확인 <mark style="color:$info;">\[AAO PPP 2023]</mark>
 * 경구 doxycycline·minocycline·azithromycin의 MGD/안검염 치료는 허가 외 사용임
   * 임신·수유, 간·신기능, 병용약물 및 tetracycline의 철분·칼슘·제산제 상호작용을 확인
 * 소아 : tetracycline 계열은 8세 미만 금기
@@ -236,8 +236,8 @@ graph TD
 ### <mark style="color:orange;">영양</mark>
 
 * 오메가-3 보충제는 일부 안구건조증/MGD 환자에서 표현형·식이·금기사항을 고려해 보조적으로 선택할 수 있으나, 일상적 권고를 뒷받침하는 근거는 부족함
-* DREAM Study\[NEJM 2018] 및 국내 다기관 무작위시험(rTG형, 포도씨유 대조)\[JAMA Ophthalmol 2024]에서 대조군 대비 유의한 증상 개선을 입증하지 못했으며, 최적 제형·용량·기간도 확립되지 않음
-* 백내장 수술 후 MGD 환자 대상 국내 다기관시험에서는 일부 눈물막·증상 지표가 개선되었고, MGD 4단계 하위군에서는 meibum 성상·압출성도 개선되어\[J Ocul Pharmacol Ther 2025], 대상과 평가 지표에 따라 결과가 다름
+* DREAM Study<mark style="color:$info;">\[NEJM 2018]</mark> 및 국내 다기관 무작위시험(rTG형, 포도씨유 대조)<mark style="color:$info;">\[JAMA Ophthalmol 2024]</mark>에서 대조군 대비 유의한 증상 개선을 입증하지 못했으며, 최적 제형·용량·기간도 확립되지 않음
+* 백내장 수술 후 MGD 환자 대상 국내 다기관시험에서는 일부 눈물막·증상 지표가 개선되었고, MGD 4단계 하위군에서는 meibum 성상·압출성도 개선되어<mark style="color:$info;">\[J Ocul Pharmacol Ther 2025]</mark>, 대상과 평가 지표에 따라 결과가 다름
 * 생선·견과류 등 식품을 통한 섭취를 우선으로 함
 * 처방용 omega-3 제제 <mark style="color:blue;">\[오마코]</mark>(허가 외 사용)
 
@@ -249,7 +249,7 @@ graph TD
 * Thermal pulsation(예: LipiFlow 등 기기) : meibomian gland 가온·압출을 통한 개방 (비급여)
 * Meibomian gland probing : 폐쇄가 뚜렷한 경우 탐침을 이용한 물리적 개통
 * BlephEx 등 기계적 눈꺼풀 가장자리 디브리망 : 딱지·biofilm 제거 목적의 전문 시술; 근거 수준은 제한적
-* MGD에서는 온찜질, 눈꺼풀 위생, 항염증 치료와 IPL·thermal treatment 등 다양한 치료를 환자 표현형에 맞추어 선택 \[TFOS DEWS III 2025]
+* MGD에서는 온찜질, 눈꺼풀 위생, 항염증 치료와 IPL·thermal treatment 등 다양한 치료를 환자 표현형에 맞추어 선택 <mark style="color:$info;">\[TFOS DEWS III 2025]</mark>
 * 전문 시술은 직접 비교 및 장기 효과 근거가 제한적이며, 대부분 안과 전문의 시행
 
 ***

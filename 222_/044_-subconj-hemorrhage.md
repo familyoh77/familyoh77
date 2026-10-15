@@ -4,8 +4,8 @@
 
 * 안구 결막과 공막 사이에 혈액이 고인 상태(subconjunctival hemorrhage, SCH) ([결막하출혈 이미지](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/subconjunctival-hemorrhage))
 * 대부분 통증·시력 변화 없이 자연 치유되며 후유 장애 없음. 외관상 문제가 주된 호소
-* 역학 : 대만 인구기반 연구(청구자료)에서 비외상성 SCH의 연간 발생률은 약 0.6%; 여성에서 더 흔하고 60\~69세에서 가장 높았음 \[PLoS One 2015]
-* 예후 : 인구기반 코호트에서 SCH 환자의 뇌출혈·위장관 출혈이나 급성관상동맥증후군 위험 증가는 관찰되지 않았음 \[Sci Rep 2023]; 출혈 질환이 의심되는 개별 환자의 평가 필요성은 별개임
+* 역학 : 대만 인구기반 연구(청구자료)에서 비외상성 SCH의 연간 발생률은 약 0.6%; 여성에서 더 흔하고 60\~69세에서 가장 높았음 <mark style="color:$info;">\[PLoS One 2015]</mark>
+* 예후 : 인구기반 코호트에서 SCH 환자의 뇌출혈·위장관 출혈이나 급성관상동맥증후군 위험 증가는 관찰되지 않았음 <mark style="color:$info;">\[Sci Rep 2023]</mark>; 출혈 질환이 의심되는 개별 환자의 평가 필요성은 별개임
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -19,7 +19,7 @@
   * 항응고제 : warfarin, DOAC(apixaban·rivaroxaban·edoxaban·dabigatran)
   * 항혈소판제 : aspirin·clopidogrel
   * 출혈 질환 : 혈소판 감소증, 백혈병, von Willebrand병 등
-  * cf. 일반 오메가-3 보충제의 출혈 위험 증가는 뚜렷하지 않으나 고용량 정제 EPA에서 소폭의 출혈 위험 증가가 보고됨 \[J Am Heart Assoc 2024]; SCH와의 직접 연관 근거는 제한적이지만 건강기능식품·보충제의 복용 내역(종류, 용량) 확인
+  * cf. 일반 오메가-3 보충제의 출혈 위험 증가는 뚜렷하지 않으나 고용량 정제 EPA에서 소폭의 출혈 위험 증가가 보고됨 <mark style="color:$info;">\[J Am Heart Assoc 2024]</mark>; SCH와의 직접 연관 근거는 제한적이지만 건강기능식품·보충제의 복용 내역(종류, 용량) 확인
 * 감염 : 급성 출혈성 결막염(enterovirus 70, coxsackievirus A24 변이; 제4급 감염병), 유행성각결막염
   * 발열성 전신 감염 : 신증후군출혈열, 렙토스피라증
 * 소아 : 신생아는 분만 과정에서 흔히 발생

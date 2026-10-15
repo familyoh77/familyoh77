@@ -3,9 +3,9 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 외이도 또는 귓바퀴의 염증·감염; "swimmer's ear"라고도 불림
-* 유병률 : 미국 기준 연간 약 123명 중 1명에서 발생; 평생 유병률 최대 10% \[AAO-HNSF 2014]
+* 유병률 : 미국 기준 연간 약 123명 중 1명에서 발생; 평생 유병률 최대 10% <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
 * 경과 : 적절한 국소 치료 시작 후 48\~72시간 내 호전이 시작되며, 대부분 7일 이내에 회복
-  * 국소제는 제품별 권장 기간(통상 7일) 사용하고, 7일 이후에도 증상이 남으면 지속 감염·진균증·접촉피부염 여부를 재평가하여 연장(최대 7일 추가) 또는 변경 \[AAO-HNSF 2014]
+  * 국소제는 제품별 권장 기간(통상 7일) 사용하고, 7일 이후에도 증상이 남으면 지속 감염·진균증·접촉피부염 여부를 재평가하여 연장(최대 7일 추가) 또는 변경 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
 
 ### <mark style="color:orange;">분류</mark>
 
@@ -13,7 +13,7 @@
 * **Acute localized OE (Furunculosis)** : 외이도 모낭 감염. _S. aureu&#x73;_&#xAC00; 주원인
 * **Chronic OE** : 6주 이상 지속 (일부는 3개월 기준을 사용). 피부질환·접촉 알레르기·습기·기계적 자극이 관여
 * **Eczematous OE** : 아토피·건선·SLE·습진 등 피부 질환과 관련. 진균 중복 감염 주의
-* **Necrotizing OE** : 심부 조직·측두골로 염증 확대(골수염·연조직염). 'Malignant OE'보다 'Necrotizing OE'가 선호 명칭임 \[BMJ Open 2023]. 즉시 의뢰 필요
+* **Necrotizing OE** : 심부 조직·측두골로 염증 확대(골수염·연조직염). 'Malignant OE'보다 'Necrotizing OE'가 선호 명칭임 <mark style="color:$info;">\[BMJ Open 2023]</mark>. 즉시 의뢰 필요
 * **Otomycosis** : 진균 감염. 항생제 남용 후, 당뇨·면역 저하 시 빈발
 
 ## <mark style="color:green;">원인</mark>
@@ -83,8 +83,8 @@
 
 ### <mark style="color:orange;">진단 기준</mark>
 
-* 급성 외이염 : 최근 3주 이내에 급격히(대략 48시간 이내) 발생 + 외이도 염증 증상(이통, 가려움, 충만감, 난청, 턱 통증) + 외이도 염증 징후(이주·귓바퀴 압통 또는 외이도의 미만성 부종·발적) \[AAO-HNSF 2014]
-* 관리 수정 인자 확인 : 고막 천공·고막 환기관, 당뇨병, 면역 저하, 두경부 방사선 치료력 \[AAO-HNSF 2014]
+* 급성 외이염 : 최근 3주 이내에 급격히(대략 48시간 이내) 발생 + 외이도 염증 증상(이통, 가려움, 충만감, 난청, 턱 통증) + 외이도 염증 징후(이주·귓바퀴 압통 또는 외이도의 미만성 부종·발적) <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
+* 관리 수정 인자 확인 : 고막 천공·고막 환기관, 당뇨병, 면역 저하, 두경부 방사선 치료력 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
   * 부종·분비물로 고막이 보이지 않으면 천공이 있는 것으로 간주하고 비이독성 제제 선택
 * 초기 미합병 OE에서 routine 배양은 불필요
 
@@ -98,7 +98,7 @@
 
 ### <mark style="color:orange;">귀 통증(이통)의 감별</mark>
 
-* 성인 이통은 귀 자체 이상 없이 발생하는 연관통(referred otalgia)이 더 흔함 \[Am Fam Physician 2026]
+* 성인 이통은 귀 자체 이상 없이 발생하는 연관통(referred otalgia)이 더 흔함 <mark style="color:$info;">\[Am Fam Physician 2026]</mark>
 * 감별 : 치아/턱관절(TMJ), 인두·편도, 부비동, 이하선, 갑상선, 경추, 삼차신경통, 대상포진(Ramsay Hunt 증후군)
 
 <table data-search="false"><thead><tr><th width="126">질환</th><th>핵심 통증 특징</th><th>결정적 진찰 소견</th><th>동반 증상</th><th>진단 포인트</th></tr></thead><tbody><tr><td>외이염 (OE)</td><td>귓바퀴를 당기거나 이주(tragus)를 누르면 심한 통증</td><td>외이도 발적·부종·압통, 분비물</td><td>가려움, 이루, 귀 먹먹함</td><td>tragus tenderness</td></tr><tr><td>급성<br>중이염</td><td>깊은 귀 통증, 박동성 통증, 감기 후 발생 흔함</td><td>고막 팽윤·중이삼출, mobility 감소; 발적만으로는 진단 불가</td><td>발열, 청력저하</td><td>pinna manipulation은 대개 무통</td></tr><tr><td>삼출성<br>중이염</td><td>통증보다 답답함·먹먹함이 주된 호소</td><td>고막 함몰, air-fluid level</td><td>청력저하, 자가음강조</td><td>pain보다 fullness dominant</td></tr><tr><td>괴사성<br>외이염</td><td>매우 심한 지속성 통증, 특히 야간 악화</td><td>외이도 육아조직, 심한 압통</td><td>당뇨, 면역 저하, 안면마비</td><td>pain out of proportion</td></tr><tr><td>Ramsay Hunt 증후군</td><td>심한 이통 + burning pain</td><td>외이·귓바퀴 수포</td><td>안면신경 마비, 어지럼</td><td>vesicle + facial palsy</td></tr><tr><td>TMJ disorder</td><td>씹을 때 아픔, 턱 움직임 시 악화</td><td>TMJ 압통, clicking</td><td>이갈이, 턱 뻣뻣함</td><td>귀 진찰 정상</td></tr><tr><td>치성 통증</td><td>씹을 때 찌르는 통증, 편측</td><td>충치, 치주염, percussion pain</td><td>치통, 잇몸 부종</td><td>귀 진찰 정상</td></tr><tr><td>편도염 /<br>인두염</td><td>삼킬 때 귀까지 퍼지는 통증</td><td>인두 발적, 편도 비대</td><td>인후통, 발열</td><td>referred otalgia (설인신경)</td></tr><tr><td>경추성 통증</td><td>목 움직임에 따라 변함</td><td>cervical tenderness</td><td>목·어깨 통증</td><td>귀 진찰 정상</td></tr><tr><td>두경부암</td><td>지속적·편측·점진적 악화</td><td>초기 귀 진찰 정상 가능</td><td>체중감소, 흡연·음주, HPV 관련 위험, 연하통</td><td>정상 귀 + 지속 통증 = red flag (연령과 무관하게 의심 유지, 특히 ≥50세)</td></tr></tbody></table>
@@ -244,8 +244,8 @@ graph TD
 4. 이주(tragus)를 몇 차례 부드럽게 눌러(tragal pumping) 용액이 외이도 깊이 들어가도록 유도
 5. 제품별로 정해진 시간 동안(<mark style="color:blue;">\[에펙신]</mark> 약 10분, <mark style="color:blue;">\[실로덱스]</mark> 60초, <mark style="color:blue;">\[세트락살플러스]</mark> 약 30초) 누운 자세를 유지한 후 일어나 흘러나오는 용액을 닦음
 
-* 스스로 점이하는 환자는 첫 3일 동안 약 40%만 올바르게 점이하므로, 가능하면 보호자가 넣어 주도록 교육 \[AAO-HNSF 2014]
-* 치료 시작 48\~72시간 내 호전 없으면 재평가 필요 (진단 재확인, 점이 순응도 확인) \[AAO-HNSF 2014]
+* 스스로 점이하는 환자는 첫 3일 동안 약 40%만 올바르게 점이하므로, 가능하면 보호자가 넣어 주도록 교육 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
+* 치료 시작 48\~72시간 내 호전 없으면 재평가 필요 (진단 재확인, 점이 순응도 확인) <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
 * 단순 급성 OE의 1차 치료는 국소 항균제이며, 약제 계열 간·quinolone과 비quinolone 간·스테로이드 병용 여부에 따른 임상적 우열은 뚜렷하지 않음 - 선택은 고막 상태, 이독성 여부, 비용, 순응도, 접촉피부염 위험 등을 고려하여 결정
 
 #### <mark style="color:$primary;">Fluoroquinolone계</mark>
@@ -265,7 +265,7 @@ graph TD
 * 스테로이드 병용이 단독 항균제보다 우월하다는 일관된 근거는 없음; 부종·가려움이 두드러질 때 선택할 수 있음
 * ciprofloxacin 0.3% + dexamethasone 0.1% : 성인·12세 이상 4 drops bid × 7d, 2\~12세 미만 3 drops bid × 7d <mark style="color:blue;">\[실로덱스]</mark>; 사용 직전 흔들고 점이 후 60초 자세 유지, 치료 후 남은 약은 폐기
   * 국내 허가 적응증에는 환기관을 삽입한 소아(6개월 이상)의 급성 중이염도 포함(4 drops bid × 7d)
-  * 외이염에서 고막 천공이 확인되거나 의심되면 비이독성 점이제를 선택한다는 지침에 따라 사용 가능 \[AAO-HNSF 2014]; 자연 천공을 동반한 모든 급성 중이염에 국내 허가된다는 의미는 아님
+  * 외이염에서 고막 천공이 확인되거나 의심되면 비이독성 점이제를 선택한다는 지침에 따라 사용 가능 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>; 자연 천공을 동반한 모든 급성 중이염에 국내 허가된다는 의미는 아님
   * 진균성·바이러스성 귀 감염에는 금기; 진균 혼합감염이 의심되는 경우에도 사용하지 않음
 * ciprofloxacin 0.3% + fluocinolone 0.025% : 4\~6 drops q8h × 7\~8d, 7세 이상 <mark style="color:blue;">\[세트락살플러스]</mark>
   * 효능은 급성 외이염이며, 고막 천공 환자와 중이염에서는 안전성·유효성 미확립
@@ -287,7 +287,7 @@ graph TD
 
 ### <mark style="color:orange;">전신 항생제</mark>
 
-* 단순 미합병 OE에서는 전신 항생제의 추가 이득이 입증되지 않아 원칙적으로 사용하지 않음; 불필요한 투여는 부작용과 내성 위험을 높임 \[AAO-HNSF 2014]
+* 단순 미합병 OE에서는 전신 항생제의 추가 이득이 입증되지 않아 원칙적으로 사용하지 않음; 불필요한 투여는 부작용과 내성 위험을 높임 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
 
 **적응증**
 
@@ -305,7 +305,7 @@ graph TD
 
 #### <mark style="color:$primary;">단계별 선택</mark>
 
-* 전신 항생제가 필요하면 _P. aeruginos&#x61;_&#xC640; _S. aureu&#x73;_&#xC5D0; 모두 활성인 약제를 선택 \[AAO-HNSF 2014]
+* 전신 항생제가 필요하면 _P. aeruginos&#x61;_&#xC640; _S. aureu&#x73;_&#xC5D0; 모두 활성인 약제를 선택 <mark style="color:$info;">\[AAO-HNSF 2014]</mark>
 
 **1단계**
 
@@ -327,9 +327,9 @@ graph TD
   * 당뇨 환자에서 혈당 조절이 현저히 불량한 경우 + 골수염 의심
   * Necrotizing OE 확인 또는 의심 : 즉시 이비인후과·감염내과 의뢰
     * 가능하면 항생제 시작 전 배양, 항녹농균 정주 항생제(ceftazidime, cefepime, piperacillin/tazobactam 등) 후 감수성에 따라 경구 ciprofloxacin으로 전환, 진균성이면 항진균제; 치료 기간은 통상 6주 이상
-    * 초기 영상은 측두골 CT로 골 침범을 평가하나, CT가 음성이어도 임상적 의심이 높거나 뇌신경·두개저·두개내 침범이 의심되면 MRI를 추가 \[ACR 2025]
-    * 배양 음성이나 정상 ESR/CRP만으로 배제하지 않음; 육아조직·종괴는 필요시 생검으로 악성 종양 배제 \[J Laryngol Otol 2024]
-    * 확진 후 다학제 진료 권장; 항생제 종료 후 3개월 이상 통증·이루가 없으면 완치로 정의(영국 합의 기준이며, 이후에도 재발 가능) \[BMJ Open 2023]
+    * 초기 영상은 측두골 CT로 골 침범을 평가하나, CT가 음성이어도 임상적 의심이 높거나 뇌신경·두개저·두개내 침범이 의심되면 MRI를 추가 <mark style="color:$info;">\[ACR 2025]</mark>
+    * 배양 음성이나 정상 ESR/CRP만으로 배제하지 않음; 육아조직·종괴는 필요시 생검으로 악성 종양 배제 <mark style="color:$info;">\[J Laryngol Otol 2024]</mark>
+    * 확진 후 다학제 진료 권장; 항생제 종료 후 3개월 이상 통증·이루가 없으면 완치로 정의(영국 합의 기준이며, 이후에도 재발 가능) <mark style="color:$info;">\[BMJ Open 2023]</mark>
 
 ### <mark style="color:orange;">항진균제</mark>
 
@@ -342,7 +342,7 @@ graph TD
 
 * 1차 : 의사가 필요한 잔재물 청소·debridement 후 clotrimazole 1% 크림을 외이도에 얇게 도포 <mark style="color:blue;">\[카네스텐]</mark>; 고막 정상 확인 후 사용, 1\~2주 후 재진하여 잔재물 재청소
   * 고막 천공·확인 불가 환자에게 크림 자가 도포를 일반화하지 않음
-* clotrimazole 1% 점이액 (CLOTIC, 국내 미허가) : 2025년 9월 26일 FDA 승인; 18세 이상의 _Aspergillus_·_Candida_ 진균성 외이염에 1회용 바이알 1개씩 bid × 14d; 위약 대비 효과 입증, 고막이 정상인 환자에서만 연구되어 고막 천공 시 권고되지 않음 \[FDA 2025]
+* clotrimazole 1% 점이액 (CLOTIC, 국내 미허가) : 2025년 9월 26일 FDA 승인; 18세 이상의 _Aspergillus_·_Candida_ 진균성 외이염에 1회용 바이알 1개씩 bid × 14d; 위약 대비 효과 입증, 고막이 정상인 환자에서만 연구되어 고막 천공 시 권고되지 않음 <mark style="color:$info;">\[FDA 2025]</mark>
 * 기타 : miconazole, nystatin, amphotericin B
 * 국내에는 시판 점이용 항진균제 없음
 

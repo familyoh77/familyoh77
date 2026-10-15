@@ -47,7 +47,7 @@
 
 ### <mark style="color:orange;">급성 중이염 진단 기준</mark>
 
-* 중이 삼출액(MEE)의 존재가 필수이며, 아래 3가지 기준 중 하나 이상을 충족하면 AOM으로 진단 \[AAP 2013]
+* 중이 삼출액(MEE)의 존재가 필수이며, 아래 3가지 기준 중 하나 이상을 충족하면 AOM으로 진단 <mark style="color:$info;">\[AAP 2013]</mark>
   * MEE가 확인되지 않으면 AOM으로 진단하지 않음
 
 1. 중등도\~심한 TM 팽륜 (moderate to severe bulging)
@@ -64,7 +64,7 @@
 * 급성 중이염에서 다음 중 ≥1개 해당
   * 중등도\~심한 이통 또는 보챔
   * ≥48시간 지속되는 이통
-  * 최근 48시간 내 ≥39℃ \[AAP 2013] (대한이과학회 ≥38.5℃)
+  * 최근 48시간 내 ≥39℃ <mark style="color:$info;">\[AAP 2013]</mark> (대한이과학회 ≥38.5℃)
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -103,7 +103,7 @@ graph TD
 
 #### <mark style="color:$primary;">중이 이루의 감별 (Phenotype-first 접근)</mark>
 
-* 소아·청소년 자연 천공 AOM에서 경구 항생제에 국소 항생제를 일률적으로 추가하는 것은 권고하지 않음(근거 수준 매우 낮음·전문가 의견) \[이탈리아 다학회 합의문 2025]. 고막튜브 이루와 구분; 성인에 대한 직접 근거로 확대하지 않음
+* 소아·청소년 자연 천공 AOM에서 경구 항생제에 국소 항생제를 일률적으로 추가하는 것은 권고하지 않음(근거 수준 매우 낮음·전문가 의견) <mark style="color:$info;">\[이탈리아 다학회 합의문 2025]</mark>. 고막튜브 이루와 구분; 성인에 대한 직접 근거로 확대하지 않음
 * 중이 결핵 : 만성 난치성 이루·결핵 위험요인 등 임상 맥락에서 감별; 분비물이 맑다는 이유만으로 결핵 검사·치료를 결정하지 않음 (☞ [결핵](../223_/070_-tuberculosis.md))
 
 <table><thead><tr><th width="139">상황 / 이루 양상</th><th width="148">먼저 생각할 진단</th><th width="188">진단적 단서</th><th>치료 방향</th></tr></thead><tbody><tr><td>급성 화농성, 통증 후 배출</td><td>AOM의 자연 고막 천공</td><td>선행 상기도 감염; 배출 후 통증 호전</td><td>AOM 기준의 경구 항생제; 귀 청결·건조 유지. 점이액만으로 경구제를 일률적으로 대체하지 않으며, 경구제에 점이 항생제를 routine으로 추가하지 않음</td></tr><tr><td>고막튜브를 통한 급성 이루</td><td>급성 튜브 이루</td><td>튜브 확인; 통증이 없거나 경미할 수 있음</td><td>합병증 없으면 적절한 국소 항생제 단독; 전신제는 선택적으로 사용</td></tr><tr><td>만성 화농성·악취</td><td>CSOM ± cholesteatoma</td><td>고막 천공; 반복·지속 이루; 폴립·진주색 병변</td><td>귀 청소·국소 항생제, 청력 평가; 무반응 시 배양·의뢰. 진주종·합병증 의심 시 영상검사</td></tr><tr><td>맑은 물 같은 이루</td><td>천공·튜브·외이도 병변; CSF 누출 감별</td><td>고막 상태; 두부 외상·수술력; 지속적 물 같은 분비물</td><td>원인 평가. CSF 의심 시 이비인후과 평가, β₂-transferrin 등 검사 및 측두골 CT 고려. 고막이 온전한 OME·ETD는 외이도 이루를 만들지 않음</td></tr><tr><td>혈성 또는 지속 혈청성</td><td>외상·육아조직·종양</td><td>외상력; 종괴; 안면신경 증상</td><td>청력 검사·의뢰; 병변에 따라 측두골 CT/MRI (☞ [귀손상](049_-ear-injury.md#traumatic-tm-perforation))</td></tr><tr><td>박동성 이명 + 고막 뒤 혈관성 종괴</td><td>사구종양 / 혈관성 병변</td><td>편측 박동성 이명; 청력 저하; 혈관성 종괴</td><td>이비인후과 의뢰 및 CT/MRI; 이루의 박동성만으로 종양을 판단하지 않음</td></tr></tbody></table>
@@ -135,7 +135,7 @@ graph TD
 
 * 중증(연령 무관)
 * ＜6개월아(중증도 무관)
-* 6\~23개월 소아의 양측 확진 AOM \[AAP 2013]; 국내 2014 지침은 ＜24개월 확진 AOM에서 편측도 즉시 투여 권고
+* 6\~23개월 소아의 양측 확진 AOM <mark style="color:$info;">\[AAP 2013]</mark>; 국내 2014 지침은 ＜24개월 확진 AOM에서 편측도 즉시 투여 권고
 * AOM의 자연 고막 천공 또는 새로 발생한 이루(튜브 이루·CSOM은 별도 기준)
 * 동반 질환 : 감염 위험을 높이는 기저 질환·면역저하·와우 이식, 이전 AOM의 중증·합병증 병력은 개별 위험 평가 및 조기 치료·의뢰
 * 48\~72시간 후 추적 관찰 불가
@@ -187,9 +187,9 @@ graph TD
 
 * 합병증이 없는 경증 AOM은 항생제 없이도 호전되는 경우가 많음
 * 항생제는 첫 24시간 통증에는 영향이 없고 2\~3일째 통증을 약간 줄임(NNTB 약 20)
-  * 고막 천공·반대편 AOM은 소폭 감소하나 구토·설사·발진 증가(NNTH 약 14) \[Cochrane 2023]
+  * 고막 천공·반대편 AOM은 소폭 감소하나 구토·설사·발진 증가(NNTH 약 14) <mark style="color:$info;">\[Cochrane 2023]</mark>
 * 항생제는 후기 AOM 재발을 줄이지 않으며, 장기 청력 개선 효과는 확립되지 않음
-  * 2\~4주 시점의 비정상 tympanometry는 소폭 감소하지만, 3개월 시점에는 차이가 없음 \[Cochrane 2023]
+  * 2\~4주 시점의 비정상 tympanometry는 소폭 감소하지만, 3개월 시점에는 차이가 없음 <mark style="color:$info;">\[Cochrane 2023]</mark>
 * 연령, 양측 이환 여부, 중증도, 이루, 추적 가능성에 따라 항생제 필요성 판단
 
 #### <mark style="color:$primary;">항생제 선택 및 용법</mark>
@@ -209,7 +209,7 @@ graph TD
 * ＜2세 또는 중증 : 10일
 * 2\~5세 경증\~중등도 : 7일
 * ≥6세 경증\~중등도 : 5\~7일
-* ＜2세에서 5일 단축 요법은 10일 요법보다 치료 실패가 많았음 \[NEJM 2016]
+* ＜2세에서 5일 단축 요법은 10일 요법보다 치료 실패가 많았음 <mark style="color:$info;">\[NEJM 2016]</mark>
 * 치료 48\~72시간 내 이통·발열·고막 염증이 호전되지 않거나 악화되면 재진하여 진단·복약·합병증 평가 후 항생제 변경 고려
   * 잔존 MEE, 콧물·기침만으로 치료 실패로 판단하지 않음
 
@@ -218,16 +218,16 @@ graph TD
 **Amoxicillin** <mark style="color:blue;">\[파목신]</mark>
 
 * 합병증이 없는 AOM의 1차 선택
-* \[AAP 2013] 80\~90 ㎎/㎏/d
-* \[대한이과학회 2014]
+* <mark style="color:$info;">\[AAP 2013]</mark> 80\~90 ㎎/㎏/d
+* <mark style="color:$info;">\[대한이과학회 2014]</mark>
   * 소아 표준 용량 : 40\~50 ㎎/㎏/d - ≥2세이면서 최근 항생제 투여 없고 보육 시설 미이용 시 고려
   * 고용량 : 80\~90 ㎎/㎏/d - ＜2세, 최근 β-lactam 투여, 단체 생활 시 고려
-* \[NICE NG91] 1\~11개월 125 ㎎, 1\~4세 250 ㎎, 5\~17세 500 ㎎ tid ×5\~7d
+* <mark style="color:$info;">\[NICE NG91]</mark> 1\~11개월 125 ㎎, 1\~4세 250 ㎎, 5\~17세 500 ㎎ tid ×5\~7d
 
 **Amoxicillin/Clavulanate** <mark style="color:blue;">\[오구멘틴]</mark>
 
 * 대상 : ① 최근 30일 내 amoxicillin 복용, ② otitis-conjunctivitis syndrome(농성 결막염 동반), ③ amoxicillin에 반응하지 않았던 재발성 AOM, ④ amoxicillin 초치료 실패
-  * \[AAP 2013] 중증만으로 amox-clav를 필수 선택하지 않음; \[대한이과학회 2014] 중증 초치료에 권고
+  * <mark style="color:$info;">\[AAP 2013]</mark> 중증만으로 amox-clav를 필수 선택하지 않음; <mark style="color:$info;">\[대한이과학회 2014]</mark> 중증 초치료에 권고
 * 부작용 : 설사 (probiotics 병용으로 약간의 완화 기대)
 * 용법 : Amox 기준 (80\~)90 ㎎/㎏/d #2
 * 고용량(90 ㎎/㎏/d) 투여 시 14:1 제제 선택 <mark style="color:blue;">\[아모크라네오]</mark>(5 ㎖ 중 amoxicillin/clavulanate 600/42.9 ㎎; amoxicillin 120 ㎎/㎖) - 7:1 제제로 90 ㎎/㎏/d를 맞추면 clavulanate가 ＞10 ㎎/㎏/d가 되어 설사 증가; 국내 허가 ≥3개월, 1일 2회, AOM 10일
@@ -235,7 +235,7 @@ graph TD
 #### <mark style="color:$primary;">대체제</mark>
 
 {% hint style="info" %}
-**페니실린 알레르기 시 세팔로스포린 선택 원칙** : amoxicillin·ampicillin과 R1 side chain이 같거나 유사한 cephalexin·cefadroxil·cefprozil·cefaclor는 피함. 구조적으로 다른 cephalosporin(cefdinir, cefuroxime, cefpodoxime, ceftriaxone 등)은 페니실린 아나필락시스 병력만 있는 경우 사전 검사 없이 투여 가능 \[AAAAI/ACAAI 2022]. 단, 해당 cephalosporin 자체 알레르기·다중 β-lactam 알레르기·중증 지연형 반응은 별도 평가 필요
+**페니실린 알레르기 시 세팔로스포린 선택 원칙** : amoxicillin·ampicillin과 R1 side chain이 같거나 유사한 cephalexin·cefadroxil·cefprozil·cefaclor는 피함. 구조적으로 다른 cephalosporin(cefdinir, cefuroxime, cefpodoxime, ceftriaxone 등)은 페니실린 아나필락시스 병력만 있는 경우 사전 검사 없이 투여 가능 <mark style="color:$info;">\[AAAAI/ACAAI 2022]</mark>. 단, 해당 cephalosporin 자체 알레르기·다중 β-lactam 알레르기·중증 지연형 반응은 별도 평가 필요
 {% endhint %}
 
 <mark style="color:cyan;">**대상**</mark>

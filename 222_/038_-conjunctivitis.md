@@ -213,7 +213,7 @@
 
 ### <mark style="color:orange;">콘택트렌즈 관련 각결막염</mark>
 
-* 렌즈 종류와 관계없이 수면 중 착용은 미생물각막염 위험을 약 6\~8배 높임 \[MMWR 2018]
+* 렌즈 종류와 관계없이 수면 중 착용은 미생물각막염 위험을 약 6\~8배 높임 <mark style="color:$info;">\[MMWR 2018]</mark>
 * 기계적·독성·알레르기성 염증과 감염을 감별하며, 원인과 관계없이 먼저 렌즈를 제거하고 각막 병변을 확인
 * 각막 침윤(corneal infiltrate) 확인 필수 : 콘택트렌즈 사용자는 _Pseudomona&#x73;_&#xC5D0; 의한 세균각막염·각막궤양으로 신속히 진행할 수 있으므로 통증·시력저하·광과민, 각막 혼탁·침윤이 있으면 단순 결막염으로 간주하지 말고 즉시 안과 평가
 * 예방 : 수면·낮잠·수영·샤워 중 착용하지 않고, 렌즈와 케이스를 수돗물에 접촉시키지 않음
@@ -370,7 +370,7 @@ graph TD
 * loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
 
 {% hint style="info" %}
-ARIA-EAACI 2024\~2025 개정 지침 \[ARIA-EAACI 2026]은 알레르기비염 환자에서 경구 항히스타민제보다 비내 스테로이드를, 1세대보다 2세대 경구 항히스타민제를 권고하고, leukotriene receptor antagonist의 일상적 추가 병용은 권하지 않음. 안구 증상에는 경구 2세대 항히스타민제를 국소 항히스타민제보다 우선 제안하며(조건부 권고, 근거 확실성 매우 낮음; 빠른 안구 증상 완화가 필요하면 점안제 선택 가능), 이 비교 권고는 비염 증상이 없는 알레르기 결막염에도 적용 가능하다고 제시함. VKC·AKC의 별도 치료 원칙을 대체하지 않음
+ARIA-EAACI 2024\~2025 개정 지침 <mark style="color:$info;">\[ARIA-EAACI 2026]</mark>은 알레르기비염 환자에서 경구 항히스타민제보다 비내 스테로이드를, 1세대보다 2세대 경구 항히스타민제를 권고하고, leukotriene receptor antagonist의 일상적 추가 병용은 권하지 않음. 안구 증상에는 경구 2세대 항히스타민제를 국소 항히스타민제보다 우선 제안하며(조건부 권고, 근거 확실성 매우 낮음; 빠른 안구 증상 완화가 필요하면 점안제 선택 가능), 이 비교 권고는 비염 증상이 없는 알레르기 결막염에도 적용 가능하다고 제시함. VKC·AKC의 별도 치료 원칙을 대체하지 않음
 {% endhint %}
 
 _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-2025 Revision: Part II - Guidelines on Oral and Ocular Treatments. Allergy 2026. doi:10.1111/all.70305</mark>_
@@ -459,7 +459,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 
 * 경증은 자연 회복이 가능하므로 대증 치료 또는 지연 처방 고려
 * 분비물이 많거나 증상이 지속되는 경우, 면역저하자 등 합병증 위험이 높은 경우 항생제 점안 치료 고려
-* 항생제는 임상 회복을 다소 높이지만(4\~9일째 회복 68.2% vs 위약 55.5%) 자연 회복도 흔함 \[Cochrane 2023]
+* 항생제는 임상 회복을 다소 높이지만(4\~9일째 회복 68.2% vs 위약 55.5%) 자연 회복도 흔함 <mark style="color:$info;">\[Cochrane 2023]</mark>
 * 용법·기간은 제제별 국내 허가사항에 따르며, 임의로 투여 횟수를 감량하지 않음
 * 보통 경험적 선택
 * 치료 시작 2일째에도 반응하지 않거나 악화되면 진단과 치료를 재평가하고 안과 의뢰 고려
@@ -479,7 +479,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 
 #### <mark style="color:$primary;">국소 항생제 대용</mark>
 
-* 저농도 povidone-iodine 점안액은 일부 연구에서 검토되었으나 \[AAO PPP 2023], 국내 일반 유통 중인 povidone 인공눈물(예: 티어드롭)과는 전혀 다른 제제이며 일상적인 1차 치료로 권고하지 않음
+* 저농도 povidone-iodine 점안액은 일부 연구에서 검토되었으나 <mark style="color:$info;">\[AAO PPP 2023]</mark>, 국내 일반 유통 중인 povidone 인공눈물(예: 티어드롭)과는 전혀 다른 제제이며 일상적인 1차 치료로 권고하지 않음
 
 #### <mark style="color:$primary;">국소 항생제/Steroid 복합제</mark>
 
@@ -494,7 +494,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 * doxycycline : 100 ㎎ bid ×7d <mark style="color:blue;">\[독시사이클린]</mark> (1차)
 * azithromycin : 1 g 1회 <mark style="color:blue;">\[지스로맥스]</mark> (대안; 임신부 1차)
 * levofloxacin : 500 ㎎ qd ×7d (대안)
-* erythromycin은 위장관 부작용·순응도 문제로 더 이상 권장 대안이 아님 \[CDC 2021]
+* erythromycin은 위장관 부작용·순응도 문제로 더 이상 권장 대안이 아님 <mark style="color:$info;">\[CDC 2021]</mark>
 * 치료 후 약 3개월에 재감염 확인을 위한 STI 재검사(생식기 등 NAAT) 권고
 * 비임신 성인에서 test-of-cure는 일률적으로 시행하지 않고 순응도 문제·지속 증상·재감염 의심 시 고려
 * 임신부는 치료 4주 후 test-of-cure. 최근 60일 이내 성 파트너 평가·치료를 반드시 병행

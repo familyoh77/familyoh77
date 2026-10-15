@@ -77,7 +77,7 @@
 
 * 인공눈물은 안구건조증, 경미한 자극성 충혈, 바이러스·알레르기 결막염의 증상 완화에 사용
 * 1회 1방울이면 충분하며 필요에 따라 사용함. 잦은 장기 사용이나 안구 표면 손상이 있으면 무방부제 제제를 우선 고려
-* 눈물막 불안정·염증·눈꺼풀 및 마이봄샘기능장애(Meibomian gland dysfunction, MGD)·신경감각 이상 등 환자별 원인에 맞추어 눈물 보충·보존·분비 자극과 원인 치료를 조합하며, 수성층 결핍형·증발과다형의 이분법만으로 치료하지 않음 \[TFOS DEWS III 2025]
+* 눈물막 불안정·염증·눈꺼풀 및 마이봄샘기능장애(Meibomian gland dysfunction, MGD)·신경감각 이상 등 환자별 원인에 맞추어 눈물 보충·보존·분비 자극과 원인 치료를 조합하며, 수성층 결핍형·증발과다형의 이분법만으로 치료하지 않음 <mark style="color:$info;">\[TFOS DEWS III 2025]</mark>
 * 급여기준 : \[[고시 제2026-133호](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701\&sno=1\&mtgMtrRegSno=0003)] 건성안증후군에 사용하는 일회용 인공누액제는 동일 기전 내에서의 1종만 인정하며, 동 인정기준 이외에는 약값 전액을 환자가 부담토록 함.
   * 히알루론산나트륨 점안제 급여 대상 : \[[고시 제2024-235호](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0005)] 쇼그렌증후군, 피부점막안증후군(스티븐스-존슨증후군), 건성안증후군과 같은 내인성질환에 의한 각결막상피장애. 다만, 수술 후, 약제성, 외상, 콘텍트렌즈 착용 등 외인성 질환 이후 지속되는 내인성 각결막상피장애로 진단된 경우도 포함. 일회용 점안제는 1일 당 최대 6관 이내로 인정. 다만, 쇼그렌증후군, 피부점막안증후군(스티븐스-존슨증후군), 이식편대숙주병으로 인한 건성안증후군은 예외로 함
 
@@ -117,7 +117,7 @@
 ## <mark style="color:green;">항생제 점안제·안연고</mark>
 
 {% hint style="info" %}
-**항생제 선택 원칙** \[AAO Conjunctivitis PPP 2023]\
+**항생제 선택 원칙** <mark style="color:$info;">\[AAO Conjunctivitis PPP 2023]</mark>\
 • 경증 급성 세균 결막염은 자연 호전될 수 있으며 모든 충혈에 항생제를 처방하지 않음\
 • 바이러스 결막염에는 항생제가 효과가 없고, 광범위 항생제나 corticosteroid를 무분별하게 사용하지 않음\
 • 세균 결막염에서 특정 점안 항생제의 우월성 근거는 없음. fluoroquinolone은 각막염 의심·콘택트렌즈 착용자에 우선 배정하여 내성을 줄임\
@@ -186,8 +186,8 @@
 * trifluridine은 HSV 상피각막염 치료 선택지이나 미허가
 * HSV 상피각막염 의심 시 항바이러스제를 시작하면서 당일 안과 의뢰. 콘택트렌즈는 착용하지 않음
 * 경구 항바이러스제 용량 예시 (신기능에 따라 조절)
-  * HSV 상피각막염 : acyclovir <mark style="color:blue;">\[아시클로버]</mark> 400 ㎎ 1일 5회 또는 valacyclovir <mark style="color:blue;">\[발트렉스]</mark> 500 ㎎ bid, 7\~10일 \[AAO 2014]
-  * HSV 각막염 재발 예방 : acyclovir 400 ㎎ bid (안과 판단) \[AAO 2014]
+  * HSV 상피각막염 : acyclovir <mark style="color:blue;">\[아시클로버]</mark> 400 ㎎ 1일 5회 또는 valacyclovir <mark style="color:blue;">\[발트렉스]</mark> 500 ㎎ bid, 7\~10일 <mark style="color:$info;">\[AAO 2014]</mark>
+  * HSV 각막염 재발 예방 : acyclovir 400 ㎎ bid (안과 판단) <mark style="color:$info;">\[AAO 2014]</mark>
   * ✽HSV 각막염의 치료·재발 예방은 국내 경구제 허가 적응증에 포함되지 않으므로 허가 외 사용임. 일부 용량은 다른 허가 적응증의 용량과도 다름
   * 대상포진 안병증 : 발진 72시간 이내 valacyclovir 1 g tid 또는 acyclovir 800 ㎎ 1일 5회, 7일간(국내 대상포진 허가 용법); 당일 안과 의뢰
 
@@ -217,7 +217,7 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 
 <table><thead><tr><th width="160">질환</th><th>성인 치료 예</th><th>추가 조치</th></tr></thead><tbody><tr><td><strong>성인 클라미디아 결막염</strong></td><td>doxycycline 100 ㎎ bid ×7일<br>대체 : azithromycin 1 g PO 1회<br>임신부 : azithromycin 1 g PO 1회<br>✽azithromycin 1 g = 250 ㎎ 4정 또는 500 ㎎ 2정</td><td>생식기 감염 검사, 성 파트너 평가·치료 및 재감염 예방. 소아는 연령·체중별 지침 적용</td></tr><tr><td><strong>성인 임균 결막염</strong></td><td>ceftriaxone 1 g IM 1회<br>✽근주 시 제품 설명서의 조제법에 따라 1% lidocaine으로 용해할 수 있음. lidocaine 과민·금기를 확인하고, lidocaine으로 용해한 주사액은 정맥투여 금지</td><td>즉시 안과·감염 전문 평가, 검체 채취와 생리식염수 1회 세척 고려. 클라미디아가 배제되지 않으면 doxycycline 100 ㎎ bid ×7일 추가</td></tr><tr><td><strong>급성 누낭염</strong></td><td>경증 성인은 amoxicillin/clavulanate 875/125 ㎎ bid 등 지역 감수성에 맞는 전신 항생제 고려</td><td>당일 안과 평가. 농양·전신 증상·안와 침범·면역저하 시 영상·배농·정주 항생제 판단</td></tr><tr><td><strong>안와격막전봉와직염</strong></td><td>안와 침범을 배제한 경증 성인에서 amoxicillin/clavulanate 875/125 ㎎ bid 등 경구요법</td><td>안구운동통·운동제한·안구돌출·복시·시력저하가 있으면 안와봉와직염으로 응급 이송. 소아·중증은 별도 지침 적용</td></tr></tbody></table>
 
-* 클라미디아·임균 결막염의 성인 전신 항생제 예는 해당 감염 지침을 참고 \[CDC 2021]. 급성 누낭염·안와격막전봉와직염은 별도 진료 지침과 지역 감수성에 따라 치료를 조정함
+* 클라미디아·임균 결막염의 성인 전신 항생제 예는 해당 감염 지침을 참고 <mark style="color:$info;">\[CDC 2021]</mark>. 급성 누낭염·안와격막전봉와직염은 별도 진료 지침과 지역 감수성에 따라 치료를 조정함
 
 ## <mark style="color:green;">기타 안과 약제</mark>
 
@@ -246,7 +246,7 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 ### <mark style="color:orange;">오메가-3와 영양요법</mark>
 
 * 안구건조증·MGD 치료 목적으로 오메가-3 보충제를 일률적으로 권고할 근거는 일관되지 않음
-* DREAM 연구 \[NEJM 2018]와 국내 다기관 무작위시험 \[JAMA Ophthalmol 2024]에서 오메가-3는 대조군보다 증상 개선이 우월하지 않았음
+* DREAM 연구 <mark style="color:$info;">\[NEJM 2018]</mark>와 국내 다기관 무작위시험 <mark style="color:$info;">\[JAMA Ophthalmol 2024]</mark>에서 오메가-3는 대조군보다 증상 개선이 우월하지 않았음
 * <mark style="color:blue;">\[오마코]</mark>는 고중성지방혈증 등에 사용하는 전문의약품으로 안구건조증 적응증이 없음
 * vitamin A는 결핍이 확인되거나 강하게 의심되는 특수 상황 외에는 안구건조증의 일반적 보충요법으로 권고하지 않음
 
@@ -259,7 +259,7 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 * 다른 진료과에서 처방하는 전신 약물 중 시력 손실이나 급성 안과 응급을 일으킬 수 있는 약물은 처방 시점에 안과 선별검사·증상 교육 계획을 함께 세움
 * 새로 생긴 시력 저하·색각 이상·시야 결손이 있으면 원인 약물을 확인하고 당일 안과 평가
 
-<table data-search="false"><thead><tr><th width="140">약물</th><th width="237">안과 부작용</th><th>1차 진료 조치</th></tr></thead><tbody><tr><td><strong>hydroxychloroquine</strong></td><td>망막병증(중심와주위·주변중심부)</td><td>실체중 기준 ≤5 ㎎/㎏/일(중증 비만에서는 400 ㎎/일 미만). 시작 후 이른 시기에 안저·OCT·광범위 안저자가형광(FAF) 기저검사. OCT·FAF 연례 선별은 위험인자가 없으면 첫 5년간 연기 가능; 신질환·tamoxifen 병용·고령 시작·고용량 등 위험인자는 조기 선별. 동아시아 환자에서는 주변중심부까지 확인 [AAO 2025]. Chloroquine은 용량 기준이 다르므로 별도 평가</td></tr><tr><td><strong>ethambutol</strong></td><td>시신경병증(중심암점, 적록색각 이상)</td><td>기저 시력·색각 확인, 복용 중 정기 확인. 신기능 저하 시 위험 증가. 이상 시 즉시 중단 후 안과 의뢰</td></tr><tr><td><strong>semaglutide</strong></td><td>비동맥염성 전방 허혈성 시신경병증(NAION)</td><td>EMA는 매우 드문 부작용으로 판단. 갑작스러운 시력 저하·급속한 악화 시 즉시 안과 평가하고 평가 중 투약은 처방의와 협의; NAION 확진 시 semaglutide 중단. 국내 허가사항 반영 여부는 처방 시 확인</td></tr><tr><td><strong>topiramate</strong><br>(sulfonamide 계열 약물)</td><td>양안 급성 폐쇄각녹내장, 근시 전위</td><td>대개 투여 시작 후 1개월 내 발생. 안통·시력 저하 시 즉시 중단하고 응급 안과 의뢰</td></tr><tr><td><strong>항콜린제·TCA·</strong><br><strong>항히스타민제·</strong><br><strong>교감신경 작용제</strong></td><td>좁은 전방각 환자에서 폐쇄각녹내장 유발</td><td>좁은 전방각·폐쇄각녹내장 병력 확인. 치료 중인 개방각 녹내장은 금기가 아님</td></tr><tr><td><strong>전신·흡입·비강 corticosteroid</strong></td><td>후낭하 백내장, 안압 상승, 중심장액맥락망막병증</td><td>장기 사용자는 정기 안압·수정체 검사. 새 시야 흐림·변시증 시 안과 의뢰</td></tr><tr><td><strong>tamsulosin 등 α1 차단제</strong></td><td>백내장 수술 중 홍채이완증후군(IFIS)</td><td>백내장 수술 전 안과에 복용 사실을 알리도록 교육. 중단해도 위험이 남으므로 수술 전 임의 중단은 권하지 않음</td></tr><tr><td><strong>amiodarone</strong></td><td>각막 소용돌이 침착(흔함, 대개 무증상), 드물게 시신경병증</td><td>시력 저하·시야 결손 시 안과 의뢰</td></tr><tr><td><strong>isotretinoin</strong></td><td>안구건조증·MGD, 야간 시력 저하</td><td>인공눈물 병용, 콘택트렌즈 불내성 설명. 야간 운전 주의</td></tr><tr><td><strong>bisphosphonate</strong></td><td>드물게 포도막염·공막염</td><td>투여 후 통증성 충혈·눈부심 시 당일 안과 평가</td></tr><tr><td><strong>PDE5 억제제</strong></td><td>일시적 색각 변화(청색 시), 눈부심; NAION 연관성 보고</td><td>갑작스러운 시력 저하 시 중단하고 안과 평가</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="140">약물</th><th width="237">안과 부작용</th><th>1차 진료 조치</th></tr></thead><tbody><tr><td><strong>hydroxychloroquine</strong></td><td>망막병증(중심와주위·주변중심부)</td><td>실체중 기준 ≤5 ㎎/㎏/일(중증 비만에서는 400 ㎎/일 미만). 시작 후 이른 시기에 안저·OCT·광범위 안저자가형광(FAF) 기저검사. OCT·FAF 연례 선별은 위험인자가 없으면 첫 5년간 연기 가능; 신질환·tamoxifen 병용·고령 시작·고용량 등 위험인자는 조기 선별. 동아시아 환자에서는 주변중심부까지 확인 <mark style="color:$info;">[AAO 2025]</mark>. Chloroquine은 용량 기준이 다르므로 별도 평가</td></tr><tr><td><strong>ethambutol</strong></td><td>시신경병증(중심암점, 적록색각 이상)</td><td>기저 시력·색각 확인, 복용 중 정기 확인. 신기능 저하 시 위험 증가. 이상 시 즉시 중단 후 안과 의뢰</td></tr><tr><td><strong>semaglutide</strong></td><td>비동맥염성 전방 허혈성 시신경병증(NAION)</td><td>EMA는 매우 드문 부작용으로 판단. 갑작스러운 시력 저하·급속한 악화 시 즉시 안과 평가하고 평가 중 투약은 처방의와 협의; NAION 확진 시 semaglutide 중단. 국내 허가사항 반영 여부는 처방 시 확인</td></tr><tr><td><strong>topiramate</strong><br>(sulfonamide 계열 약물)</td><td>양안 급성 폐쇄각녹내장, 근시 전위</td><td>대개 투여 시작 후 1개월 내 발생. 안통·시력 저하 시 즉시 중단하고 응급 안과 의뢰</td></tr><tr><td><strong>항콜린제·TCA·</strong><br><strong>항히스타민제·</strong><br><strong>교감신경 작용제</strong></td><td>좁은 전방각 환자에서 폐쇄각녹내장 유발</td><td>좁은 전방각·폐쇄각녹내장 병력 확인. 치료 중인 개방각 녹내장은 금기가 아님</td></tr><tr><td><strong>전신·흡입·비강 corticosteroid</strong></td><td>후낭하 백내장, 안압 상승, 중심장액맥락망막병증</td><td>장기 사용자는 정기 안압·수정체 검사. 새 시야 흐림·변시증 시 안과 의뢰</td></tr><tr><td><strong>tamsulosin 등 α1 차단제</strong></td><td>백내장 수술 중 홍채이완증후군(IFIS)</td><td>백내장 수술 전 안과에 복용 사실을 알리도록 교육. 중단해도 위험이 남으므로 수술 전 임의 중단은 권하지 않음</td></tr><tr><td><strong>amiodarone</strong></td><td>각막 소용돌이 침착(흔함, 대개 무증상), 드물게 시신경병증</td><td>시력 저하·시야 결손 시 안과 의뢰</td></tr><tr><td><strong>isotretinoin</strong></td><td>안구건조증·MGD, 야간 시력 저하</td><td>인공눈물 병용, 콘택트렌즈 불내성 설명. 야간 운전 주의</td></tr><tr><td><strong>bisphosphonate</strong></td><td>드물게 포도막염·공막염</td><td>투여 후 통증성 충혈·눈부심 시 당일 안과 평가</td></tr><tr><td><strong>PDE5 억제제</strong></td><td>일시적 색각 변화(청색 시), 눈부심; NAION 연관성 보고</td><td>갑작스러운 시력 저하 시 중단하고 안과 평가</td></tr></tbody></table>
 
 ***
 

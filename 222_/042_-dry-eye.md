@@ -96,7 +96,7 @@
 ## <mark style="color:green;">진단</mark>
 
 * 단일 확진 검사는 없으며, '증상 + 임상 진찰소견'으로 진단
-* 증상 확인 : OSDI-6을 표준 선별 설문으로 권고 \[TFOS DEWS III 2025] (☞ 아래 OSDI-6 설문지)
+* 증상 확인 : OSDI-6을 표준 선별 설문으로 권고 <mark style="color:$info;">\[TFOS DEWS III 2025]</mark> (☞ 아래 OSDI-6 설문지)
   * DEQ-5는 보조 설문으로 사용할 수 있으나 DEWS III 표준 진단 알고리듬의 동등한 대안은 아님
 * 눈물막 및 안구 표면 항상성 이상 확인 : 증상 양성에 더하여 아래 중 1가지 이상 양성이면 DED 진단
   * non-invasive tear breakup time(NIBUT) : ＜10초(TFOS DEWS III에서 우선 권고)
@@ -222,7 +222,7 @@ graph TD
 * MGD 동반 시 온찜질·눈꺼풀 위생을 우선 시행
 * 알레르기 등 관련 질환 진단 및 치료
 * 난치성 질환에 대하여 항염제 고려
-* 복수의 병인이 동반되는 경우 복합 치료가 원칙 \[TFOS DEWS III 2025]
+* 복수의 병인이 동반되는 경우 복합 치료가 원칙 <mark style="color:$info;">\[TFOS DEWS III 2025]</mark>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -329,8 +329,8 @@ graph TD
 
 * 연구 결과가 상반되고 DREAM trial 등에서 유의미한 효과가 확인되지 않아, 결핍이 없는 환자에게 routine 처방하지 않음
 * 오메가-3, γ-linolenic acid, 항산화제 등은 routine 치료로 권고할 근거가 충분하지 않음(오메가-3 전문의약품을 안구건조증에 사용하는 것은 허가 외 사용)
-  * DREAM 연구에서는 오메가-3 총 3 g/일(EPA 2 g + DHA 1 g)을 12개월간 투여했으나 olive-oil placebo보다 유의한 호전을 보이지 못함 \[NEJM 2018]
-  * 국내 다기관 무작위시험(rTG형, 포도씨유 대조)에서도 대조군보다 유의한 증상 개선을 보이지 못함 \[JAMA Ophthalmol 2024]
+  * DREAM 연구에서는 오메가-3 총 3 g/일(EPA 2 g + DHA 1 g)을 12개월간 투여했으나 olive-oil placebo보다 유의한 호전을 보이지 못함 <mark style="color:$info;">\[NEJM 2018]</mark>
+  * 국내 다기관 무작위시험(rTG형, 포도씨유 대조)에서도 대조군보다 유의한 증상 개선을 보이지 못함 <mark style="color:$info;">\[JAMA Ophthalmol 2024]</mark>
 * Vit A·B12·D 등은 결핍이 확인된 경우 보충 고려
 
 ### <mark style="color:orange;">항생제</mark>
