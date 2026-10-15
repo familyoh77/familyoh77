@@ -93,15 +93,15 @@
 * 의식 변화, 수막자극징후, 심한 두통과 전신 독성 소견  `두개내 합병증`
 * 면역저하 환자에서 발열, 심한 안면 통증, 비강 내 검은 가피·괴사  `침습성 진균성 비부비동염`
 * 음식·약물·면역요법 투여 후 입술·혀·인후 부종, 호흡곤란, 저혈압  `아나필락시스`
-* 소아에서 비강 내 버튼전지 또는 비중격 양쪽에 걸린 자석 의심  `긴급 제거·의뢰`
+* 소아에서 비강 내 버튼전지 또는 비중격 양쪽에 걸린 자석 의심  `버튼전지·자석 비강 이물`
 * 안정 시 호흡곤란, 심한 천명, 저산소증 또는 빠른 호흡기 증상 악화  `급성 천식 악화`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 지속되는 편측 코 막힘, 혈성 분비물, 반복 코피, 편측 안면 통증·감각 저하; 급속 진행하거나 감각 저하 등 신경학적 이상을 동반하면 당일 평가  `비강·부비동 종양`  `비중격 병변`
-* 두부 외상·비강 또는 두개저 수술 후 편측의 맑은 수양성 콧물(고개 숙이면 증가); 당일 평가·의뢰  `뇌척수액 비루`
-* 소아의 편측 악취성 화농성 분비물; 이물 종류를 확인하고 버튼전지·자석 의심 시 즉각 조치  `비강 이물`
-* 새로 발생하거나 악화하는 천명·호흡곤란; 급성 악화 소견이 있으면 즉각 조치  `천식 동반`
+* 지속되는 편측 코 막힘, 혈성 분비물, 반복 코피, 편측 안면 통증·감각 저하  `비강·부비동 종양`  `비중격 병변`
+* 두부 외상·비강 또는 두개저 수술 후 편측의 맑은 수양성 콧물(고개 숙이면 증가)  `뇌척수액 비루`
+* 소아의 편측 악취성 화농성 분비물  `비강 이물`
+* 새로 발생하거나 악화하는 천명·호흡곤란(안정 시 호흡곤란·저산소증 없음)  `천식 동반`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -110,7 +110,7 @@
 * 아스피린·NSAIDs 복용 후 코 막힘·호흡곤란 악화 병력  `NERD/AERD`
 * 코골이, 목격된 무호흡, 주간 졸림  `폐쇄성 수면무호흡증`
 * 재발성 부비동염·중이염  `구조적 이상`  `만성 비부비동염`
-* 안정적인 야간 기침·운동 시 호흡기 증상; 폐기능검사 등으로 평가  `천식 동반 가능성`
+* 안정적인 야간 기침·운동 시 호흡기 증상  `천식 동반 가능성`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -184,7 +184,7 @@ _✽**VAS(Visual Analogue Scale)** : ARIA에서는 0\~10 ㎝ VAS를 증상 조�
 
 ### <mark style="color:orange;">중증도별 치료 방침</mark>
 
-<table><thead><tr><th width="123">중증도</th><th width="268">1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증, <br>간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)<br>• 비내 스테로이드(INCS) 중 선택</td><td>코 막힘이 주 증상이면 INCS 우선; 안구 증상을 함께 조절하려면 OAH 고려</td></tr><tr><td>경증, <br>지속적</td><td>• INCS 우선<br>• 안구 증상 등 추가 이득이 있으면 OAH 고려<br>• 코 증상 조절 불충분 시 INCS+INAH 고정 복합제로 전환</td><td>수성 콧물 지속 시 비내 ipratropium 추가; 심한 코 막힘에는 비내 혈관수축제를 예외적으로 5일 이내 사용; 12세 미만은 피함</td></tr><tr><td>중등증~중증</td><td>• INCS 또는<br>• INCS+INAH 고정 복합제 <mark style="color:blue;">[딜라스틴 나잘]</mark> <mark style="color:blue;">[리알트리스 나잘스프레이 액]</mark></td><td>단일요법으로 충분한 개선이 어렵거나 빠른 조절이 필요하면 복합제 고려; 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증, 지속적 <br>(불응성)</td><td>• INCS+INAH 고정 복합제<br>• 순응도·분무법·진단 재평가</td><td>• 매우 심하거나 난치성인 경우에만 전문가 판단 아래 경구 스테로이드 5~7일을 예외적으로 고려<br>• 천식 동반·NERD 등 특정 상황에서 LTRA 선택적 추가¹<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="123">중증도</th><th width="268">1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증, <br>간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)<br>• 비내 스테로이드(INCS) 중 선택</td><td>코 막힘이 주 증상이면 INCS 우선; 안구 증상을 함께 조절하려면 OAH 고려</td></tr><tr><td>경증, <br>지속적</td><td>• INCS 우선<br>• 안구 증상 등 추가 이득이 있으면 OAH 고려<br>• 코 증상 조절 불충분 시 INCS+INAH 고정 복합제로 전환</td><td>수성 콧물 지속 시 비내 ipratropium 추가; 심한 코 막힘에는 비내 혈관수축제를 예외적으로 5일 이내 사용; 12세 미만은 피함</td></tr><tr><td>중등증~중증</td><td>• INCS 또는<br>• INCS+INAH 고정 복합제 <mark style="color:blue;">[딜라스틴 나잘]</mark> <mark style="color:blue;">[리알트리스 나잘스프레이 액]</mark></td><td>단일요법으로 충분한 개선이 어렵거나 빠른 조절이 필요하면 복합제 고려; 통년성 AR에는 딜라스틴만 국내 허가; 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증, 지속적 <br>(불응성)</td><td>• INCS+INAH 고정 복합제<br>• 순응도·분무법·진단 재평가</td><td>• 매우 심하거나 난치성인 경우에만 전문가 판단 아래 경구 스테로이드 5~7일을 예외적으로 고려<br>• 천식 동반·NERD 등 특정 상황에서 LTRA 선택적 추가¹<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
 
 _1) LTRA(montelukast 등)는 routine 중증 옵션이 아님. 다른 치료로 조절되지 않고 경구 치료를 강하게 선호하거나 천식·NERD가 동반된 경우 선택적으로 고려. OAH+LTRA의 routine 병용은 권고하지 않으며, FDA 박스형 경고(신경정신계 부작용)를 고려하여 처방 전 위험-이익을 충분히 논의_
 
@@ -192,7 +192,7 @@ _1) LTRA(montelukast 등)는 routine 중증 옵션이 아님. 다른 치료로 �
 
 ```mermaid
 graph TD
-    Start(["비염 의심 또는 진단"]) --> RedQ{"즉각 조치 또는 당일~수일 내 평가 항목에 해당?"}
+    Start(["비염 의심 또는 진단"]) --> RedQ["즉각 조치 또는 당일~수일 내 평가 항목에 해당?"]
     RedQ -->|예| Urgent["항목별 긴급도에 따라 조치·평가·의뢰"]
     RedQ -->|아니오| Assess["중증도·기간 및 천식·결막염 등 평가"]
 
@@ -205,35 +205,35 @@ graph TD
     AH --> Review1["2~4주 후 치료 반응 평가"]
     INCS0 --> Review1
     Combo0 --> Review1
-    Review1 --> Control1{"충분히 조절됨?"}
+    Review1 --> Control1["충분히 조절됨?"]
     Control1 -->|예| Maintain["유지 또는 노출·증상에 따른 최저 유효 용량 조정"]
     Control1 -->|아니오| Check1["순응도·분무법·진단 재평가"]
     Check1 -->|진단 수정 필요| Refer["원인별 평가·치료 또는 전문과 의뢰"]
     Check1 -->|AR 치료 강화 필요| Combine["INCS 용량 최적화 또는 INCS+INAH 전환"]
 
-    Combine --> Control2{"여전히 조절 불충분?"}
+    Combine --> Control2["여전히 조절 불충분?"]
     Control2 -->|아니오| Maintain
     Control2 -->|예| Symptoms["우세 증상·동반 질환별 선택적 추가"]
     Symptoms --> Tx1["수성 콧물: ipratropium"]
     Symptoms --> Tx2["안구 증상: 점안제; 이득이 있으면 OAH 고려"]
     Symptoms --> Tx3["천식·NERD: 별도 관리; LTRA 선택적 고려"]
-    Symptoms --> Tx4["심한 코막힘: 단기 혈관수축제; 12세 미만 피함"]
+    Symptoms --> Tx4["심한 코 막힘: 단기 혈관수축제; 12세 미만 피함"]
     Tx1 --> Reassess["추가 치료 후 반응·부작용 재평가"]
     Tx2 --> Reassess
     Tx3 --> Reassess
     Tx4 --> Reassess
-    Reassess --> Control3{"충분히 조절됨?"}
+    Reassess --> Control3["충분히 조절됨?"]
     Control3 -->|예| Maintain
     Control3 -->|아니오| Fail3["불응성 비염: 전문가 평가"]
 
     Fail3 --> Cause1["구조적 이상: 수술적 치료 평가"]
     Fail3 --> Cause2["관련 감작 또는 LAR: 전문가 판단 후 AIT 고려"]
     Fail3 --> Cause3["만성 비부비동염·비용종 등 재평가"]
-    Fail3 --> Rescue["매우 심한 난치성: 예외적 단기 경구 steroid 판단"]
+    Fail3 --> Rescue["매우 심한 난치성: 예외적 단기 경구 스테로이드 판단"]
 
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef yellow fill:#fff9c4,stroke:#ffe082
-    class Review1,Check1,Reassess,Fail3 yellow
+    class RedQ,Control1,Control2,Control3,Review1,Check1,Reassess,Fail3 yellow
     classDef sky fill:#e3f2ff,stroke:#2196f3
     class INCS0,Combo0,AH,Combine,Tx1,Tx2,Tx3,Tx4,Maintain sky
     classDef orange fill:#fdebd0,stroke:#e67e22
@@ -298,10 +298,10 @@ _1) 비내 azelastine 등 최신 INAH는 코 막힘에 대해 경구 항히스�
 * 전신 부작용 : 권장 용량에서 전신 부작용 위험은 매우 낮으나 0은 아님; 낮은 전신 흡수율만으로 성장 영향을 완전히 배제할 수 없으므로 소아 장기 사용 시 최저 유효 용량을 사용하고 성장을 정기적으로 확인. 영향은 성분·용량·연구에 따라 다르며, fluticasone furoate 비강분무제의 52주 소아 연구에서 위약 대비 작은 성장 속도 감소가 보고됨 \[J Allergy Clin Immunol Pract 2014]
 * 상호작용 : fluticasone은 ritonavir·cobicistat, itraconazole 등 강한 CYP3A4 저해제와 병용 시 전신 corticosteroid 부작용 위험 증가
 
-<table><thead><tr><th width="240">성분명 [상품명]</th><th width="85">1회 분무량</th><th width="170">성인 용량*</th><th width="200">소아 용량*</th><th width="150">사용 연령</th><th width="90">전신 흡수율</th></tr></thead><tbody><tr><td>ciclesonide <mark style="color:blue;">[옴나리스 나잘]</mark></td><td>50 ㎍</td><td>2 puffs qd</td><td>계절성 6세 이상: 2 puffs qd<br>통년성 12세 이상: 성인과 동일</td><td>계절성 ≥6세<br>통년성 ≥12세</td><td>매우 낮음</td></tr><tr><td>mometasone f. <mark style="color:blue;">[나조넥스 나잘]</mark></td><td>50 ㎍</td><td>1~2 puffs qd</td><td>2~11세: 1 puff qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>매우 낮음</td></tr><tr><td>fluticasone f. <mark style="color:blue;">[아바미스 나잘]</mark></td><td>27.5 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~11세: 1 puff qd; 불충분 시 2 puffs qd, 조절 후 감량<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>＜1%</td></tr><tr><td>fluticasone p. <mark style="color:blue;">[후릭소나제 코약]</mark></td><td>50 ㎍</td><td>2 puffs qd; 필요시 bid</td><td>4~11세: 1 puff qd; 필요시 제품 허가 범위 내 증량<br>12세 이상: 성인과 동일</td><td>≥4세</td><td>＜2%</td></tr><tr><td>beclomethasone <mark style="color:blue;">[리노클레닐100비액]</mark></td><td>100 ㎍</td><td>2 puffs qd</td><td>18세 미만 금기</td><td>≥18세</td><td>약 44%</td></tr><tr><td>budesonide <mark style="color:blue;">[나리타점비액]</mark></td><td>50 ㎍</td><td>초기 4 puffs qd 또는 2 puffs bid<br>호전 후 1 puff bid</td><td>6~12세: 2 puffs qd 또는 1 puff bid</td><td>6세 미만 안전성·유효성 미확립</td><td>약 34%</td></tr><tr><td>triamcinolone <mark style="color:blue;">[나자코트 비액]</mark></td><td>55 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~5세: 1 puff qd (최대)<br>6~11세: 1 puff qd; 최대 2 puffs qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>약 46%</td></tr></tbody></table>
+<table><thead><tr><th width="240">성분명 [상품명]</th><th width="85">1회 분무량</th><th width="170">성인 용량*</th><th width="200">소아 용량*</th><th width="150">사용 연령</th><th width="90">전신 흡수율</th></tr></thead><tbody><tr><td>ciclesonide <mark style="color:blue;">[옴나리스 나잘]</mark></td><td>50 ㎍</td><td>2 puffs qd</td><td>계절성 6세 이상: 2 puffs qd<br>통년성 12세 이상: 성인과 동일</td><td>계절성 ≥6세<br>통년성 ≥12세</td><td>매우 낮음</td></tr><tr><td>mometasone f. <mark style="color:blue;">[나조넥스 나잘]</mark></td><td>50 ㎍</td><td>1~2 puffs qd</td><td>2~11세: 1 puff qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>매우 낮음</td></tr><tr><td>fluticasone f. <mark style="color:blue;">[아바미스 나잘]</mark></td><td>27.5 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~11세: 1 puff qd; 불충분 시 2 puffs qd, 조절 후 감량<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>＜1%</td></tr><tr><td>fluticasone p. <mark style="color:blue;">[후릭소나제 코약]</mark></td><td>50 ㎍</td><td>2 puffs qd; 필요시 bid</td><td>4~11세: 1 puff qd; 필요시 제품 허가 범위 내 증량<br>12세 이상: 성인과 동일</td><td>≥4세</td><td>＜2%</td></tr><tr><td>beclomethasone <mark style="color:blue;">[리노클레닐100비액]</mark></td><td>100 ㎍</td><td>2 puffs qd</td><td>18세 미만 금기</td><td>≥18세</td><td>약 44%</td></tr><tr><td>budesonide <mark style="color:blue;">[나리타점비액]</mark></td><td>50 ㎍</td><td>초기 4 puffs qd 또는 2 puffs bid<br>호전 후 1 puff bid</td><td>6~12세: 2 puffs qd 또는 1 puff bid</td><td>≥6세</td><td>약 34%</td></tr><tr><td>triamcinolone <mark style="color:blue;">[나자코트 비액]</mark></td><td>55 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~5세: 1 puff qd (최대)<br>6~11세: 1 puff qd; 최대 2 puffs qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>약 46%</td></tr></tbody></table>
 
 _\*비공 당 분무 횟수_\
-※ **연령·용량 및 국내 허가·유통 상태는 최신 제품별 허가사항을 확인.** 흡수율은 제형·측정법에 따라 달라 직접적인 안전성 순위를 뜻하지 않음. 리노클레닐100비액은 약가 목록에서 삭제된 품목이므로 현재 유통 여부를 확인한 뒤 처방.
+※ **연령·용량 및 국내 허가·유통 상태는 최신 제품별 허가사항을 확인.** 흡수율은 제형·측정법에 따라 달라 직접적인 안전성 순위를 뜻하지 않음. budesonide는 6세 미만에서 안전성·유효성이 확립되지 않음. 리노클레닐100비액은 약가 목록에서 삭제된 품목이므로 현재 유통 여부를 확인한 뒤 처방.
 
 * 복합제 용량(각 비공 당)
   * fluticasone p.+azelastine <mark style="color:blue;">\[딜라스틴 나잘]</mark> : 6세 이상 1 puff bid; 1 puff에 fluticasone p. 50 ㎍+azelastine hydrochloride 137 ㎍
@@ -336,9 +336,9 @@ _\*비공 당 분무 횟수_\
 
 #### <mark style="color:$primary;">경구제</mark>
 
-* 대상 : 적절한 비내 치료 등으로도 조절되지 않는 **매우 심하거나 난치성인 AR**에서 전문가 판단 아래 예외적으로 고려; 단기 경구 steroid의 조건부 권고(매우 낮은 근거)는 ARIA 2010 권고이며, ARIA-EAACI 2024\~2025 Part II에서 재수록되었으나 이번 개정의 신규 평가 항목은 아님
+* 대상 : 적절한 비내 치료 등으로도 조절되지 않는 **매우 심하거나 난치성인 AR**에서 전문가 판단 아래 예외적으로 고려; 단기 경구 스테로이드의 조건부 권고(매우 낮은 근거)는 ARIA 2010 권고이며, ARIA-EAACI 2024\~2025 Part II에서 재수록되었으나 이번 개정의 신규 평가 항목은 아님
 * 용법 : 필요한 경우 최소 유효 용량을 5\~7일의 짧은 기간 사용; 처방례는 성인 prednisolone 30 ㎎/d × 5일 <mark style="color:blue;">\[소론도]</mark>. 이를 routine AR 치료로 적용하지 않음
-* 위 단기 처방에서는 일반적으로 tapering 불필요; 기존 장기·반복 전신 steroid 사용력이나 부신 억제 가능성이 있으면 개별 판단
+* 위 단기 처방에서는 일반적으로 tapering 불필요; 기존 장기·반복 전신 스테로이드 사용력이나 부신 억제 가능성이 있으면 개별 판단
 
 #### <mark style="color:$primary;">주사제</mark>
 
@@ -348,7 +348,7 @@ _\*비공 당 분무 횟수_\
 
 #### <mark style="color:$primary;">비내용 제제</mark>
 
-* 경구 항히스타민제보다 코 증상 개선이 우수할 수 있으나 쓴맛·국소 자극 등으로 선호도와 순응도가 낮을 수 있음; INCS와 비교하면 INCS를 조건부 우선하되 빠른 효과·steroid 기피·INCS 관련 코피 등에서는 INAH 고려
+* 경구 항히스타민제보다 코 증상 개선이 우수할 수 있으나 쓴맛·국소 자극 등으로 선호도와 순응도가 낮을 수 있음; INCS와 비교하면 INCS를 조건부 우선하되 빠른 효과·스테로이드 기피·INCS 관련 코피 등에서는 INAH 고려
 * 대상 : 간헐적·계절적 AR; 비-알레르기성 혈관운동성 비염; 중증 AR에서 INCS와 병용
 * 효과 발현 : 분무 15\~30분 내 시작; 지속시간은 제제에 따라 다르며 azelastine은 통상 bid 사용
 * 부작용 : 쓴맛, 국소 자극, 코피, 두통
@@ -378,15 +378,15 @@ _\*비공 당 분무 횟수_\
 * 기전 : 교감 신경 항진 → 코 점막 혈관 수축
 * 대상 : 심한 코 막힘; 코 막힘에 가장 강력하나 부작용으로 사용 제한
 * 부작용 : rebound rhinitis(반동성 비충혈), 고혈압
-* 사용 제한 : 심한 코 막힘의 단기 완화가 꼭 필요한 경우 제품별 허가 횟수를 따르되 연속 5일 이내(가능하면 더 짧게); ARIA-EAACI는 12세 미만 소아·임신부·고령자에서 사용을 피하도록 제안. 제품별 허가 연령·농도·금기를 구분하며 허가 연령만으로 AR에서의 사용을 권장하지 않음; MAO 억제제 병용 금기 등 제품별 금기를 확인 (비급여)
+* 사용 제한 : 심한 코 막힘의 단기 완화가 꼭 필요한 경우 제품별 허가 횟수를 따르되 연속 5일 이내(가능하면 더 짧게); ARIA-EAACI는 12세 미만 소아에서 사용을 피하도록 제안; 임신부·고령자도 피함. 제품별 허가 연령·농도·금기를 구분하며 허가 연령만으로 AR에서의 사용을 권장하지 않음; MAO 억제제 병용 금기 등 제품별 금기를 확인 (비급여)
 * phenylephrine <mark style="color:blue;">\[시네프린]</mark>, naphazoline+chlorpheniramine <mark style="color:blue;">\[나리스타]</mark>, xylometazoline <mark style="color:blue;">\[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark>
 
 #### <mark style="color:$primary;">경구제</mark>
 
 * 부작용 : 불면, 식욕 부진, 초조, 두근거림, 혈압 상승, 진전, 어지럼, 두통, 소변 저류
-* **pseudoephedrine 국내 금기** : 고혈압을 포함한 심혈관질환·심한 관동맥질환, 갑상샘기능항진증, 당뇨병, 수유부, 중증 신장애, 크롬친화세포종, 폐쇄각녹내장, MAO 억제제 투여 중 또는 중단 후 2주 이내, 다른 교감신경흥분제 또는 β-차단제 투여 중인 환자 등
+* **pseudoephedrine 국내 금기** : 고혈압을 포함한 심혈관질환·심한 관동맥질환, 갑상선기능항진증, 당뇨병, 수유부, 중증 신장애, 크롬친화세포종, 폐쇄각녹내장, MAO 억제제 투여 중 또는 중단 후 2주 이내, 다른 교감신경흥분제 또는 β-차단제 투여 중인 환자 등
 * **신중 투여** : 전립선비대증·방광 기능 이상, 고령, 신장애·중증 간부전, 안압 상승, 디기탈리스 복용 등; 제품별 전체 허가사항을 확인
-* **가역적 후뇌병증 증후군(PRES)/가역적 뇌혈관수축 증후군(RCVS) 경고** : 갑작스러운 심한 두통·번개두통, 시각장애, 혼돈·발작 등이 발생하면 즉시 중단하고 응급 평가; 발열·홍반·다수의 작은 농포 등 중증 피부반응 발생 시에도 중단·평가
+* **가역적 후뇌병증 증후군(PRES)/가역적 뇌혈관수축 증후군(RCVS) 경고** : 갑작스러운 심한 두통·번개두통, 시각장애, 혼돈·발작 등이 발생하면 즉시 중단하고 응급 평가; 발열·홍반·다수의 작은 농포(급성 전신 발진성 농포증, AGEP) 등 중증 피부반응 발생 시에도 중단·평가
 * 심한 코 막힘에서 금기·주의사항을 확인한 뒤 예외적으로 단기간 사용하며, 규칙적인 장기 병용은 피함
 * pseudoephedrine : 30\~60 ㎎ tid\~qid (최대 240 ㎎/d) <mark style="color:blue;">\[슈다페드]</mark>
 * phenylephrine : 경구 10 ㎎은 비충혈 개선 효과가 입증되지 않아 routine 사용하지 않음. FDA는 유효성 부족을 근거로 OTC monograph에서 제외하는 제안 명령을 발표했으며, 최종 행정명령 여부는 추후 확인; 국내 일반의약품 복합 감기약에도 다수 함유
@@ -414,7 +414,7 @@ _\*비공 당 분무 횟수_\
 * 효과 : 경구 항히스타민제보다 우선하지 않으며, 치료하지 않은 AR에서 routine 1차 치료로 권고하지 않음
   * 다른 치료로 조절되지 않고 경구 치료를 강하게 선호하거나 천식·NERD가 동반된 경우 선택적으로 고려
 * 병용 : OAH+LTRA는 OAH 단독보다 임상적으로 의미 있는 추가 이득이 없고 안전성 우려와 비용이 증가하므로 routine 병용하지 않음
-* 보험 기준 : montelukast·pranlukast는 허가 범위 내에서 ① 1차 항히스타민제로 개선되지 않는 비폐색, ② 비폐색이 주 증상, ③ 비충혈제거제 또는 비강분무 steroid를 사용하지 못하는 경우에 AR 급여 인정; 항히스타민제와 동시 투여 가능. Montelukast+levocetirizine 복합제는 천식 동반 등 별도 기준을 확인. **급여 가능 여부와 임상적 우선순위·routine 병용 비권고를 구분**
+* 보험 기준 : montelukast·pranlukast는 허가 범위 내에서 ① 1차 항히스타민제로 개선되지 않는 비폐색, ② 비폐색이 주 증상, ③ 비충혈제거제 또는 비강분무 스테로이드를 사용하지 못하는 경우에 AR 급여 인정; 항히스타민제와 동시 투여 가능. Montelukast+levocetirizine 복합제는 천식 동반 등 별도 기준을 확인. **급여 가능 여부와 임상적 우선순위·routine 병용 비권고를 구분**
 * 부작용 : 간 효소 상승(montelukast에서는 드묾), 불안, 우울, 수면 장애
 * montelukast : 10 ㎎ qd 저녁 <mark style="color:blue;">\[싱귤레어]</mark>
 * pranlukast : 225 ㎎ bid <mark style="color:blue;">\[오논]</mark>
@@ -480,7 +480,7 @@ _\*비공 당 분무 횟수_\
 * 경구 항히스타민제 : cetirizine·loratadine 등 비진정성 2세대 제제를 우선; 1세대 제제는 영아 졸음과 모유량 감소 가능성이 있어 최소 유효 용량으로 단기간 사용하고 영아를 관찰
 * INCS **단일제** : 전신 흡수가 적어 일반적으로 사용을 고려할 수 있으나 제품별 허가사항과 위험-이익을 확인; 복합제에 동일하게 적용하지 않음
 * pseudoephedrine : **국내 허가상 수유부 금기**; 모유로 이행하고 모유량을 감소시킬 수 있음
-* 딜라스틴(fluticasone p.+azelastine 복합제) : **국내 허가상 임부·수유부 금기**
+* 딜라스틴(fluticasone p.+azelastine 복합제) : **국내 허가상 수유부 금기**
 
 ***
 
@@ -511,7 +511,7 @@ _\*비공 당 분무 횟수_\
 > 슈다페드 60 ㎎/T   1T   #2   × 5일
 > ```
 >
-> _✽olopatadine은 안구 증상에도 효과적. 슈다페드는 심한 코 막힘이 있을 때 5일 이내 단기간만 사용하고, 불면·혈압 상승에 주의; **고혈압을 포함한 심혈관질환·당뇨병·갑상샘기능항진증·폐쇄각녹내장·수유 등 국내 금기에서는 사용하지 않음**; 고령·전립선 비대에서는 신중 투여_
+> _✽olopatadine은 안구 증상에도 효과적. 슈다페드는 심한 코 막힘이 있을 때 5일 이내 단기간만 사용하고, 불면·혈압 상승에 주의; **고혈압을 포함한 심혈관질환·당뇨병·갑상선기능항진증·폐쇄각녹내장·수유 등 국내 금기에서는 사용하지 않음**; 고령·전립선 비대에서는 신중 투여_
 
 > **처방례 3. 경증\~중등증, 지속적 - INCS 단독**
 >
@@ -596,9 +596,9 @@ _\*비공 당 분무 횟수_\
 > **코 막힘 약(슈다페드 등)을 처방받으셨습니다**
 >
 > * 슈다페드는 두근거림·불면·혈압 상승 등의 부작용 때문에 **처방된 짧은 기간(이 처방에서는 5일 이내)**만 사용하세요.
-> * 코에 뿌리는 혈관수축제(오트리빈 등)는 오래 쓰면 반동성 코막힘이 생길 수 있어 **연속 5일 이내, 가능하면 더 짧게** 사용하세요. 어린이에게 임의로 사용하지 마세요.
+> * 코에 뿌리는 혈관수축제(오트리빈 등)는 오래 쓰면 반동성 코 막힘이 생길 수 있어 **연속 5일 이내, 가능하면 더 짧게** 사용하세요. 어린이에게 임의로 사용하지 마세요.
 > * 두근거림, 잠이 안 옴, 소변이 잘 안 나옴이 생기면 중단하고 알려주세요.
-> * **고혈압·심장질환·당뇨병·갑상샘기능항진증·녹내장·신장질환·수유 중인 경우** 또는 전립선 비대가 있거나 다른 약을 복용 중이면 처방 전에 알려주세요. 슈다페드는 일부 질환·수유에서 사용이 금지됩니다.
+> * **고혈압·심장질환·당뇨병·갑상선기능항진증·녹내장·신장질환·수유 중인 경우** 또는 전립선 비대가 있거나 다른 약을 복용 중이면 처방 전에 알려주세요. 슈다페드는 일부 질환·수유에서 사용이 금지됩니다.
 > * 갑자기 매우 심한 두통, 시야 이상, 혼돈 또는 경련이 생기면 복용을 중단하고 즉시 응급 평가를 받으세요.
 
 > **비강 세척(코 세척)을 권장합니다**
@@ -713,25 +713,25 @@ _\*비공 당 분무 횟수_\
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### 임상 근거
+### <mark style="color:orange;">임상 근거</mark>
 
-* Sousa-Pinto B, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines—2024–2025 Revision: Part I—Guidelines on Intranasal Treatments. Allergy 2025. [https://doi.org/10.1111/all.70131](https://doi.org/10.1111/all.70131)
-* Vieira RJ, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines—2024–2025 Revision: Part II—Guidelines on Oral and Ocular Treatments. Allergy 2026. [https://doi.org/10.1111/all.70305](https://doi.org/10.1111/all.70305)
-* 대한천식알레르기학회. 알레르기비염 진료지침: 파트 1. 약물치료의 업데이트. Allergy Asthma Respir Dis 2023;11(3):117–125. [https://doi.org/10.4168/aard.2023.11.3.117](https://doi.org/10.4168/aard.2023.11.3.117)
-* 대한천식알레르기학회. 알레르기비염 진료지침: 파트 2. 비약물치료의 업데이트. Allergy Asthma Respir Dis 2023;11(3):126–134. [https://doi.org/10.4168/aard.2023.11.3.126](https://doi.org/10.4168/aard.2023.11.3.126)
-* Min JY, et al. The KAAACI Guidelines for Sublingual Immunotherapy. Allergy Asthma Immunol Res 2024;16(1):9–21. [https://doi.org/10.4168/aair.2024.16.1.9](https://doi.org/10.4168/aair.2024.16.1.9)
-* Wise SK, et al. International Consensus Statement on Allergy and Rhinology: Allergic Rhinitis—2023. Int Forum Allergy Rhinol 2023;13(4):293–859.
-* Dykewicz MS, et al. Rhinitis 2020: A practice parameter update. J Allergy Clin Immunol 2020;146(4):721–767.
-* Scadding GK, et al. BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis (Revised Edition 2017). Clin Exp Allergy 2017;47(7):856–889.
-* Rajan JP, et al. Prevalence of aspirin-exacerbated respiratory disease among asthmatic patients: A meta-analysis. J Allergy Clin Immunol 2015;135(3):676–681.
-* Rondón C, et al. Specific immunotherapy in local allergic rhinitis: A randomized, double-blind placebo-controlled trial with Phleum pratense subcutaneous allergen immunotherapy. Allergy 2018;73(4):905–915. [https://doi.org/10.1111/all.13350](https://doi.org/10.1111/all.13350)
+* Sousa-Pinto B, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines-2024-2025 Revision: Part I-Guidelines on Intranasal Treatments. Allergy 2025. [https://doi.org/10.1111/all.70131](https://doi.org/10.1111/all.70131)
+* Vieira RJ, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines-2024-2025 Revision: Part II-Guidelines on Oral and Ocular Treatments. Allergy 2026. [https://doi.org/10.1111/all.70305](https://doi.org/10.1111/all.70305)
+* 대한천식알레르기학회. 알레르기비염 진료지침: 파트 1. 약물치료의 업데이트. Allergy Asthma Respir Dis 2023;11(3):117-125. [https://doi.org/10.4168/aard.2023.11.3.117](https://doi.org/10.4168/aard.2023.11.3.117)
+* 대한천식알레르기학회. 알레르기비염 진료지침: 파트 2. 비약물치료의 업데이트. Allergy Asthma Respir Dis 2023;11(3):126-134. [https://doi.org/10.4168/aard.2023.11.3.126](https://doi.org/10.4168/aard.2023.11.3.126)
+* Min JY, et al. The KAAACI Guidelines for Sublingual Immunotherapy. Allergy Asthma Immunol Res 2024;16(1):9-21. [https://doi.org/10.4168/aair.2024.16.1.9](https://doi.org/10.4168/aair.2024.16.1.9)
+* Wise SK, et al. International Consensus Statement on Allergy and Rhinology: Allergic Rhinitis-2023. Int Forum Allergy Rhinol 2023;13(4):293-859.
+* Dykewicz MS, et al. Rhinitis 2020: A practice parameter update. J Allergy Clin Immunol 2020;146(4):721-767.
+* Scadding GK, et al. BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis (Revised Edition 2017). Clin Exp Allergy 2017;47(7):856-889.
+* Rajan JP, et al. Prevalence of aspirin-exacerbated respiratory disease among asthmatic patients: A meta-analysis. J Allergy Clin Immunol 2015;135(3):676-681.
+* Rondón C, et al. Specific immunotherapy in local allergic rhinitis: A randomized, double-blind placebo-controlled trial with Phleum pratense subcutaneous allergen immunotherapy. Allergy 2018;73(4):905-915. [https://doi.org/10.1111/all.13350](https://doi.org/10.1111/all.13350)
 * Lee LA, et al. Growth velocity reduced with once-daily fluticasone furoate nasal spray in prepubescent children with perennial allergic rhinitis. J Allergy Clin Immunol Pract 2014. [https://pubmed.ncbi.nlm.nih.gov/25017530/](https://pubmed.ncbi.nlm.nih.gov/25017530/)
-* Bérard A, et al. Intranasal triamcinolone use during pregnancy and the risk of adverse pregnancy outcomes. J Allergy Clin Immunol 2016;138(1):97–104.e7. [https://doi.org/10.1016/j.jaci.2016.01.021](https://doi.org/10.1016/j.jaci.2016.01.021)
-* American Academy of Otolaryngology–Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. 2026. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
+* Bérard A, et al. Intranasal triamcinolone use during pregnancy and the risk of adverse pregnancy outcomes. J Allergy Clin Immunol 2016;138(1):97-104.e7. [https://doi.org/10.1016/j.jaci.2016.01.021](https://doi.org/10.1016/j.jaci.2016.01.021)
+* American Academy of Otolaryngology-Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Approved 2023, updated 2026. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
 * U.S. FDA. FDA requires Boxed Warning about serious mental health side effects for asthma and allergy drug montelukast (Singulair); advises restricting use for allergic rhinitis. 2020. [https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug)
 * U.S. FDA. FDA requires warning about rare but severe itching after stopping long-term use of oral allergy medicines cetirizine or levocetirizine (Zyrtec, Xyzal, and other trade names). 2025. [https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines)
 
-### 허가·급여 확인 자료
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * [건강보험심사평가원. 보험인정기준 - 약제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000410) - LTRA·비강분무 복합제 등의 급여 범위 확인; 리알트리스 소아 급여 확대는 보건복지부 고시 제2026-42호(2026년 3월 1일 시행)에 반영
