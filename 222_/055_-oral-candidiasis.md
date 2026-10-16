@@ -56,20 +56,20 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**Tier 1 - 즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 중심정맥관·호중구감소증 등 침습성 칸디다증 위험이 있는 환자에서 발열·오한, 저혈압 또는 의식 변화 → 구강 병변과 별개로 침습성 칸디다증을 포함한 패혈증 즉시 평가
 * 연하통·연하곤란으로 수분·음식 섭취가 불가능하거나 전신상태가 불량한 경우 → 식도 칸디다증 및 탈수 조기 평가
 * 면역 저하자(HIV 감염, 항암 치료 중, 장기이식 수혜자 등)에서 고열·저혈압·의식 변화·호흡곤란 등 전신 악화 소견
 
-<mark style="color:$warning;">**Tier 2 - 당일\~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 연하통·연하곤란 또는 흉골후 통증이 있으나 경구 섭취와 전신상태가 안정적 → 식도 칸디다증 경험적 전신 치료 및 면밀한 추적
+* 연하통·연하곤란 또는 흉골후 통증이 있으나 경구 섭취와 전신상태가 안정적 → 식도 칸디다증 가능성과 다른 식도질환을 평가; 임상적으로 가능성이 높으면 경험적 전신 치료 및 면밀한 추적
 * 원인 불명의 면역 저하 상태 의심
 * 닦이지 않는 지속성 백색 병변, 경결·궤양·적백색 변화 → chronic hyperplastic candidiasis, leukoplakia, 구강 암 감별 및 조직검사 고려
 * 모유 수유 영아의 반복 아구창과 수유모의 지속적 유두 병변·통증 → 모자 동시 평가
 
-<mark style="color:$info;">**Tier 3 - 외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 적절한 치료에도 호전되지 않는 경우 → 진단·순응도 재확인 후 배양·균종 동정 및 필요 시 감수성 검사
 * 단기간 내 재발하거나 반복적·난치성인 경우 → 틀니, 구강건조, 흡입 steroid 사용법, 최근 항생제, 당뇨병 및 면역저하 위험 재평가
@@ -114,7 +114,7 @@ flowchart TD
     D -- 기타 --> Z[아프타·편평태선·기타 감별]
     C --> I[연하통·연하곤란 또는<br/>흉골후 통증?]
     H --> I
-    I -- 예 --> J[전신 항진균제 14~21일<br/>중증·섭취 불가 시 조기 의뢰<br/>7일 내 무호전 시 내시경]
+    I -- 예 --> J[식도 칸디다증 의심·감별<br/>가능성 높으면 전신 항진균제 14~21일<br/>중증·섭취 불가 시 조기 의뢰<br/>7일 내 무호전 시 내시경]
     I -- 아니오 --> K[특징적인 임상 병변?]
     K -- 아니오 --> N[다른 구강 병변 재평가<br/>배양 양성만으로 치료하지 않음]
     K -- 예 --> O[중등도 이상·면역저하<br/>또는 국소 치료 실패?]
@@ -122,7 +122,7 @@ flowchart TD
     O -- 예 --> Q[Fluconazole<br/>국내 허가 50 ㎎/d<br/>국제 지침 100~200 ㎎/d]
     P --> R[3일 내 호전 경향?<br/>7일에도 지속?]
     Q --> R
-    R -- 호전 --> S[치료 종료<br/>재발 예방 교육]
+    R -- 호전 --> S[예정된 치료기간 완료<br/>병변·증상 소실 확인<br/>재발 예방 교육]
     R -- 미호전 --> T[전신 항진균제 또는<br/>배양·감수성 검사<br/>내성 Candida 고려]
     T --> U[단기간 내 반복·난치성?]
     U -- 예 --> V[기저질환 평가<br/>HbA1c·HIV 위험도·약물·xerostomia<br/>틀니 관리 점검]
@@ -156,11 +156,11 @@ class G,H,Z,C,E pink
 * 특징적인 구강 병변이 있으면 통증 유무와 관계없이 임상적 구강 칸디다증으로 보고 위험 인자 교정과 항진균제 치료 고려
 * 경증, 면역 정상, 식도 증상 없음 → 국소 항진균제
 * 중등도 이상, 국소 치료 실패 또는 면역 저하자 → 경구 fluconazole 우선 고려
-* 연하통·연하곤란·흉골후 통증 → 식도 칸디다증으로 보고 전신 항진균제 14～21일; 섭취 불가·전신상태 불량 시 조기 의뢰
+* 연하통·연하곤란·흉골후 통증 → 식도 칸디다증을 의심하여 면역 상태·위험 인자와 다른 식도질환 가능성을 평가. 임상적으로 가능성이 높으면 경험적 전신 항진균 치료를 시행하고(국제 지침 14～21일), 7일 이내 뚜렷한 호전이 없거나 비전형적이면 내시경 평가; 섭취 불가·전신상태 불량 시 조기 의뢰 <mark style="color:$info;">\[IDSA 2016]</mark>
 
 #### <mark style="color:$primary;">국소 vs 전신 치료 선택 기준</mark>
 
-<table><thead><tr><th width="110"></th><th width="245">국소 항진균제</th><th width="245">구강 전신 치료</th><th>식도 칸디다증</th></tr></thead><tbody><tr><td><strong>대상</strong></td><td>경증, 면역 정상, 식도 증상 없음</td><td>중등도 이상, 면역 저하, 국소 치료 실패</td><td>연하통·연하곤란·흉골후 통증</td></tr><tr><td><strong>약제</strong></td><td>nystatin</td><td><strong>국내 허가</strong> fluconazole 50 ㎎/d<br><strong>국제 지침</strong> 100～200 ㎎/d</td><td><strong>국내 허가</strong> fluconazole 50 ㎎/d(난치성 100 ㎎/d)<br><strong>국제 지침</strong> 200～400 ㎎/d</td></tr><tr><td><strong>기간</strong></td><td>7～14일</td><td>7～14일</td><td><strong>국내 허가 14～30일<br>국제 지침 14～21일</strong></td></tr><tr><td><strong>추적</strong></td><td colspan="2">대개 48～72시간 내 호전 시작; 7일에도 지속되면 진단·순응도 재확인 후 배양·감수성 검사 고려</td><td>7일 이내 뚜렷한 호전이 없으면 내시경 및 다른 식도염 감별</td></tr></tbody></table>
+<table><thead><tr><th width="110"></th><th width="245">국소 항진균제</th><th width="245">구강 전신 치료</th><th>식도 칸디다증</th></tr></thead><tbody><tr><td><strong>대상</strong></td><td>경증, 면역 정상, 식도 증상 없음</td><td>중등도 이상, 면역 저하, 국소 치료 실패</td><td>연하통·연하곤란·흉골후 통증으로 식도 칸디다증이 의심되는 경우; 위험 인자와 감별 진단을 함께 평가</td></tr><tr><td><strong>약제</strong></td><td>nystatin</td><td><strong>국내 허가</strong> fluconazole 50 ㎎/d<br><strong>국제 지침</strong> 100～200 ㎎/d</td><td><strong>국내 허가</strong> fluconazole 50 ㎎/d(난치성 100 ㎎/d)<br><strong>국제 지침</strong> 200～400 ㎎/d</td></tr><tr><td><strong>기간</strong></td><td>7～14일</td><td>7～14일</td><td><strong>국내 허가 14～30일<br>국제 지침 14～21일</strong></td></tr><tr><td><strong>추적</strong></td><td colspan="2">대개 48～72시간 내 호전 시작; 7일에도 지속되면 진단·순응도 재확인 후 배양·감수성 검사 고려</td><td>7일 이내 뚜렷한 호전이 없으면 내시경 및 다른 식도염 감별</td></tr></tbody></table>
 
 ✽ Miconazole 구강 겔과 clotrimazole 트로키는 해외 지침의 국소 치료 선택지이나 현재 국내 유통 제품이 확인되지 않아 국내 처방 선택지에서는 제외한다.
 
@@ -253,7 +253,7 @@ Miconazole 구강 겔과 clotrimazole 트로키는 해외 지침에 포함되지
   * 국제 지침 : fluconazole 200～400 ㎎ PO 또는 IV qd ×14～21d
 * 반복 투여 시 신기능에 따라 용량 또는 투여 간격 조절; 간질환, QT 연장 위험 및 warfarin·sulfonylurea·phenytoin·일부 statin 등 병용약물 확인
 * 임신 중 단순 구강 칸디다증은 가능하면 국소 치료 우선 고려
-* ✽국제 지침 용량은 국내 허가 용량을 초과할 수 있으며, 급여 인정 범위도 제품과 적응증에 따라 다르므로 처방 전 최신 허가사항과 급여기준 확인
+* ✽국제 지침 용량은 국내 허가 용량을 초과할 수 있어, 해당 용량의 허가·급여 적용 여부를 별도로 구분함
 
 **Itraconazole 경구 액제**
 
@@ -297,7 +297,7 @@ B37.0 칸디다구내염
 > **처방례 3. 중등도 이상 또는 국소 치료 실패 - 전신 항진균제**
 >
 > ```
-> Fluconazole 50 ㎎   1정   qd ×7~14d
+> 푸루나졸캡슐 50 ㎎   1캡슐   qd ×7~14d
 > ```
 >
 > _✽국내 허가 용법. 국제 지침은 중등도～중증 구강인두 칸디다증에 100～200 ㎎/d ×7～14일을 권고한다. 연하통·연하곤란·흉골후 통증이 있으면 식도 칸디다증으로 별도 평가. 치료 실패 시 진단·순응도 재확인 후 배양·감수성 검사 및 필요 시 감염내과 협진._
@@ -355,7 +355,7 @@ B37.0 칸디다구내염
 
 * **금연**하십시오.
 * 식사 후 **칫솔질**을 철저히 하십시오. 처방받은 구강약과 가글액은 동시에 사용하지 않도록 안내받은 간격을 지키십시오.
-* 틀니는 **밤에 빼서** 재질에 맞는 방법으로 세정·건조하십시오 - 밤새 틀니를 끼고 있으면 균이 번식하기 쉽습니다.
+* 틀니는 **밤에 빼서** 세정하고, 물에 담가 두는지 등 보관 방법은 틀니 재질과 치과 지시에 따르십시오 - 밤새 틀니를 끼고 있으면 균이 번식하기 쉽습니다.
 * 흡입 스테로이드 사용 후에는 **반드시 목 깊숙이 가글 후 뱉어내십시오**.
 * 당뇨병이 있으시면 **혈당 관리**에 특히 신경 쓰십시오.
 
@@ -371,3 +371,18 @@ B37.0 칸디다구내염
 * 발열이나 전신 쇠약감이 동반되는 경우
 * 치료 3일 내 좋아지는 경향이 없거나 7일 후에도 증상·병변이 지속되는 경우
 * 흰 반점이 닦아도 지워지지 않거나 점점 커지는 경우
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/)
+* Cornely OA, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. Lancet Infect Dis. 2025;25(5):e280-e293. - 구강인두·식도 칸디다증은 부록 참조. [서지](https://pubmed.ncbi.nlm.nih.gov/39956121/)
+
+
+### 허가·급여 확인 자료
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

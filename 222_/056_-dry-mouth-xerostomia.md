@@ -65,13 +65,13 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 호흡곤란·협착음·침흘림·급성 음성 변화 또는 경부·구강저의 빠른 종창 → 기도 폐쇄·심경부 감염 가능
 * 침도 삼키지 못하거나 분비물을 감당하지 못함, 반복 흡인 또는 중증 탈수 → 기도 보호 및 정맥 수액 필요
 * 침샘 부위 종창과 함께 패혈증, 농양 또는 괴사성 근막염이 의심됨
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 급성 통증성 침샘 종창 + 발열·농성 배액·주변 발적 → 급성 세균성 침샘염; 면역 저하자에서는 당일 평가
 * 단단하거나 고정된 무통성 침샘 종괴, 빠르게 커지는 종괴, 안면신경 마비·감각 이상 동반 → 침샘 종양 의심, 신속한 이비인후과 의뢰
@@ -79,7 +79,7 @@
 * 광범위 구강 점막 병변·칸디다증과 함께 심한 연하통, 경구 섭취 저하 또는 발열이 동반됨
 * ICI 투여 후 새로 발생한 심한 구강건조·침샘 종창 → 종양내과와 신속히 협의
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 비-약물 치료 4\~6주 후에도 증상 호전 없음
 * 원인 약물 교체·조정 후에도 지속되는 건조증
@@ -162,6 +162,8 @@ graph TD
     G -- OSA·구강호흡 --> P[수면 평가<br/>비강 호흡 교정]
     G -- 없음 --> J[비-약물 치료 우선<br/>+ 불소 전략 시작]
     F --> J
+    H --> J
+    I --> J
     P --> J
     J --> K[4~6주 후 호전?]
     K -- 호전 --> M[현 치료 유지<br/>정기 치과 방문]
@@ -275,7 +277,7 @@ graph TD
 * Sjögren syndrome : 5 ㎎ qid, 6주간 투여 후 반응 평가
 * 발한 부작용이 심하면 용량·복용 횟수 조정 또는 중단을 검토하며, 과도한 발한으로 충분한 수분 섭취가 어려우면 탈수 위험 때문에 진료
 * 야간 시야 흐림·암순응 저하가 생길 수 있어 야간 운전과 어두운 곳에서의 위험 작업에 주의
-* 건강보험 급여 품목이며 세부 인정 기준은 처방 시점의 기준 확인
+* 건강보험 급여 품목임
 
 #### <mark style="color:$primary;">cevimeline</mark>
 
@@ -404,3 +406,19 @@ K11.7 침분비의 장애 Disturbances of salivary secretion
 * 귀 앞이나 턱 아래 침샘 부위가 **갑자기 붓고 아프면서 열이 나면** - 침샘 감염이나 결석일 수 있으므로 당일 진료받으십시오.
 * 입 안에 **흰 반점이나 하얀 막**이 생기면 - 구강 칸디다증(곰팡이 감염)일 수 있습니다.
 * 입 마름과 함께 **안구 건조, 관절통, 피로감 또는 반복되는 침샘 종창**이 동반되면 - Sjögren disease 검사가 필요합니다.
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* Price EJ, et al. British Society for Rheumatology guideline on management of adult and juvenile onset Sjögren disease. Rheumatology (Oxford). 2025;64(2):409-439. [원문](https://doi.org/10.1093/rheumatology/keae152)
+* Hong C, et al. MASCC/ISOO Clinical Practice Statement: Management of salivary gland hypofunction and xerostomia in cancer patients. Support Care Cancer. 2024;32(8):548. [원문](https://doi.org/10.1007/s00520-024-08688-9)
+* Shiboski CH, et al. 2016 American College of Rheumatology/European League Against Rheumatism Classification Criteria for Primary Sjögren's Syndrome: A Consensus and Data-Driven Methodology Involving Three International Patient Cohorts. Arthritis Rheumatol. 2017;69(1):35-45. [원문](https://doi.org/10.1002/art.39859)
+
+
+### 허가·급여 확인 자료
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

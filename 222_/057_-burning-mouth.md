@@ -50,20 +50,21 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**Tier 1 - 즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 급속히 진행하는 혀·구강저 부종, 호흡곤란, 협착음, 침 흘림, 청색증 → 기도폐쇄·아나필락시스; 기도 확보 및 응급 이송
 * 고열·독성 외관과 함께 구강저 종창, 혀의 상방 변위, 개구장애, 연하곤란 → 심부경부감염·Ludwig angina
 * 새로 발생한 구음장애·편측 마비·의식 변화 등 급성 신경학적 이상 → 뇌졸중 등
 
-<mark style="color:$warning;">**Tier 2 - 당일\~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 지속·진행하는 연하곤란 또는 연하통, 설명되지 않는 체중 감소, 경부 종괴
-* 2주 이상 지속되는 궤양·경결·백반·홍반 또는 쉽게 출혈하는 병변 → 악성·전암성 병변 배제를 위한 구강내과·구강악안면외과·이비인후과 평가 및 필요 시 생검
+* 기간과 무관하게 경결·종괴·쉽게 출혈하는 병변·의심스러운 적백색 변화 → 악성·전암성 병변 배제를 위한 신속한 구강내과·구강악안면외과·이비인후과 평가 및 필요 시 생검
+* 원인 불명 궤양 또는 백색·붉은 병변이 2주 이상 지속 → 조기 재평가 및 필요 시 생검
 * 편측 혀 통증과 새로 발생한 안면·혀 감각 저하, 뇌신경 이상 → 삼차신경병증·종양 등 평가
 * 광범위한 수포·미란, 피부·안구 병변 동반 → 자가면역 수포성 질환 등
 
-<mark style="color:$info;">**Tier 3 - 외래 추적 관찰**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 백태·국소 홍반 등 구강 칸디다증 의심 소견 → 위험 인자 확인 및 외래 검사·치료
 * 적절한 평가·치료에도 증상이 지속되거나 진단이 불확실함 → 구강내과·구강악안면외과 또는 구강안면통증 전문 진료 의뢰
@@ -112,7 +113,7 @@
 * 구강 도말·배양 - 임상적으로 칸디다증이 의심되거나 치료 반응이 불분명할 때; Candida 검출만으로 감염을 확진하지 않음
 * 알레르기 패치 검사 - 특정 치과 재료·치약·향료 노출 부위와 증상의 관련성이 의심될 때
 * 내시경·역류검사 - 전형적 역류 증상, 경고 증상 또는 치료 불응 등 별도 적응증이 있을 때
-* 생검 - 2주 이상 지속되는 궤양·경결·백반·홍반, 편평태선·자가면역 수포성 질환 등이 의심될 때 전문의 판단
+* 생검 - 경결·종괴·쉽게 출혈하는 병변·의심스러운 적백색 변화는 기간과 무관하게 신속히 전문 평가; 원인 불명 궤양·백색 또는 붉은 병변이 2주 이상 지속하거나 편평태선·자가면역 수포성 질환 등이 의심되면 전문의 판단에 따라 시행
 
 {% hint style="warning" %}
 Clonazepam이나 국소마취제에 대한 반응은 BMS를 확진하거나 말초·중추 신경병증을 구분하는 진단검사가 아니다. 반응 여부만으로 원인을 재분류하지 않는다.
@@ -155,7 +156,7 @@ class I,T orange
 
 <p align="center"><strong>혀통증·BMS 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ICHD-3 (2018); ICOP-1 (2020); RDC/BMS beta (2020); El-Rubaiy et al. Cephalalgia 2026</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ICHD-3 (2018); ICOP-1 (2020); RDC/BMS Delphi (2021); El-Rubaiy et al. Cephalalgia 2026</mark></em></p>
 
 ***
 
@@ -180,7 +181,7 @@ class I,T orange
 * 음주·흡연 회피
 * 구강 이상기능 교정 : 혀 밀기·혀 누르기·이 악물기·이갈이를 인식하고 이완; 임상적 관련성이 분명하면 치과 평가 후 장치·행동치료 고려
 * GERD/LPR가 의심되면 별도 진단 기준에 따라 생활요법·치료를 적용
-* 인지행동치료(CBT) : 통증 파국화, 불안·우울·수면장애 또는 일상기능 저하가 있을 때 고려; BMS 통증에 대한 근거는 소규모 연구 수준임을 설명
+* 인지행동치료(CBT) : 통증 파국화, 불안·우울·수면장애 또는 일상기능 저하가 있을 때 고려; BMS 통증에 대한 근거는 소규모 연구 수준임을 설명 <mark style="color:$info;">\[J Dent Res 2023]</mark>
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -345,7 +346,8 @@ K14.6 설통 (Glossodynia)
 >
 > * 2\~3개월 치료 후에도 증상이 전혀 호전되지 않는 경우
 > * 혀나 입안이 빠르게 붓고 숨쉬기 어렵거나 침도 삼키기 힘든 경우 - 즉시 119 호출
-> * 구강 점막에 **하얀 반점, 홍반, 단단한 부위 또는 궤양**이 생겨 2주 이상 지속되는 경우 - 수일 이내 진료
+> * **단단한 부위·덩이·쉽게 출혈하는 병변·의심스러운 흰색 또는 붉은 변화**가 새로 생긴 경우 - 2주를 기다리지 말고 신속히 진료
+> * 원인을 알 수 없는 궤양·하얀 반점·붉은 병변이 2주 이상 지속되는 경우 - 수일 이내 진료
 > * 지속·진행하는 연하 곤란, 연하통, 경부 종괴 또는 설명되지 않는 체중 감소가 동반되는 경우 - 조기 진료
 > * **한쪽 얼굴이나 혀의 감각이 새로 달라졌을 때** - 조기 진료
 > * 졸림·균형 장애 등 약물 부작용이 일상생활에 지장을 주는 경우
@@ -373,7 +375,7 @@ K14.6 설통 (Glossodynia)
 * 🥤 **수분을 충분히 드십시오** - 물을 자주 마시거나 얼음 조각을 물고 있으면 일시적으로 도움이 됩니다
 * 🦷 **치약을 교체하십시오** - 거품이 많이 나는 치약(SLS 함유)이 증상을 악화시킬 수 있습니다. 무SLS 치약을 사용해 보세요
 * 🚫 **알코올 함유 구강 세정제, 탄산음료, 커피, 맵고 신 음식을 줄이십시오**
-* 🚬 **흡연은 증상을 크게 악화시킵니다** - 금연을 권합니다
+* 🚬 **흡연은 구강 점막을 자극할 수 있습니다** - 금연을 권합니다
 * 혀를 입천장에 비비거나 누르는 습관, 이 악물기·이갈이가 있다면 교정하십시오
 * 틀니를 사용하신다면 치과에서 적합도를 확인받으십시오
 
@@ -386,8 +388,28 @@ K14.6 설통 (Glossodynia)
 #### <mark style="color:$primary;">이럴 때는 신속히 진료를 받으세요</mark>
 
 * 혀나 입안이 빠르게 붓고 숨쉬기 어렵거나 침도 삼키기 힘들 때에는 즉시 119에 도움을 요청하십시오
-* 입 안에 **하얀 반점, 빨간 반점, 단단한 부위 또는 궤양이 2주 이상** 지속될 때에는 수일 이내 진료를 받으십시오
+* 입 안에 **단단한 부위·덩이·쉽게 출혈하는 병변·의심스러운 흰색 또는 붉은 변화**가 생기면 2주를 기다리지 말고 신속히 진료를 받으십시오
+* 원인을 알 수 없는 궤양·하얀 반점·붉은 병변이 2주 이상 지속될 때에는 수일 이내 진료를 받으십시오
 * 삼키기 어렵거나 아프고, 목에 덩이가 만져지거나 체중이 이유 없이 줄 때에는 조기에 진료를 받으십시오
 * **한쪽 얼굴이나 혀의 감각이 새로 달라졌을 때**에는 조기에 진료를 받으십시오
 
-> 💡 **기억하세요:** 스트레스나 불안이 증상을 악화시킬 수 있습니다. 심리적으로 힘든 부분이 있다면 함께 상담해 주세요. 인지행동치료(CBT)가 통증 관리에 실질적인 도움이 됩니다.
+> 💡 **기억하세요:** 스트레스나 불안이 증상을 악화시킬 수 있습니다. 심리적으로 힘든 부분이 있다면 함께 상담해 주세요. 인지행동치료(CBT)는 통증에 대처하고 동반 불안·수면 문제를 관리하는 데 도움이 될 수 있습니다.
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* Headache Classification Committee of the International Headache Society. The International Classification of Headache Disorders, 3rd edition (ICHD-3). Cephalalgia. 2018;38(1):1-211. - 13.11 Burning mouth syndrome. [진단 기준](https://ichd-3.org/13-painful-cranial-neuropathies-and-other-facial-pains/13-11-burning-mouth-syndrome-bms/)
+* International Classification of Orofacial Pain, 1st edition (ICOP). Cephalalgia. 2020;40(2):129-221. [원문](https://doi.org/10.1177/0333102419893823)
+* Currie CC, et al. Developing a research diagnostic criteria for burning mouth syndrome: Results from an international Delphi process. J Oral Rehabil. 2021;48:308-331.
+* El-Rubaiy M, et al. Optimized and validated clinical diagnostic criteria for burning mouth syndrome. Cephalalgia. 2026;46(6). - 수정 기준 제안 연구이며 공식 ICHD-3/ICOP-1 개정을 의미하지 않음. [원문](https://doi.org/10.1177/03331024261455835)
+* Alvarenga-Brant R, et al. Treatments for Burning Mouth Syndrome: A Network Meta-analysis. J Dent Res. 2023;102(2):135-145. [원문](https://doi.org/10.1177/00220345221130025)
+* Gremeau-Richard C, et al. Topical clonazepam in stomatodynia: a randomised placebo-controlled study. Pain. 2004;108(1-2):51-57. [서지](https://pubmed.ncbi.nlm.nih.gov/15109507/)
+
+
+### 허가·급여 확인 자료
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
