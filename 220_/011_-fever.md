@@ -293,20 +293,26 @@ graph TD
 
 * 선택제 : acetaminophen, NSAID(예: ibuprofen)
 * 뎅기열이 의심되거나 배제되지 않은 여행 후 발열에서는 출혈 위험 때문에 aspirin과 ibuprofen 등 NSAID를 피하고 acetaminophen을 우선 사용
-* 정상 체온 상태에서는 시상하부 체온 조절 set-point가 상승되어 있지 않으므로 NSAID에 의한 체온 저하가 나타나지 않음 (관절염 등 치료 목적으로 투여해도 정상 체온이 더 낮아지지는 않음)
-* acetaminophen 또는 ibuprofen 단독 제제를 체중에 맞는 정량으로 투여
-* 한 약제로 불편감(distress)이 충분히 완화되지 않으면 다른 약제로 변경 고려
-* 다음 투약 가능 시점 전에 불편감이 지속 또는 재발하는 특수 상황에서만 제한적으로 교대 투여를 고려
-* 동시 투여는 하지 않으며, 교대 시 투약 오류·중복·과량 투여 위험에 특히 주의
-* 해열제 교대 투여는 routine으로 권장하지 않음
-* NSAIDs의 병용 투여는 추가 효과가 없으며 부작용이 증가하므로 피함
+* NSAID는 발열 시 상승한 시상하부 체온 조절 set-point를 낮추며, 정상 체온을 대개 크게 낮추지는 않음. 다만 과도한 체온강하·허탈·사지냉각이 발생할 수 있어 특히 소아·고령자·소모성 질환 환자에서 투여 후 상태를 관찰
+* 소아 발열에서는 acetaminophen 또는 ibuprofen 단독 제제를 체중에 맞는 정량으로 투여
+  * 한 약제로 불편감(distress)이 충분히 완화되지 않으면 다른 약제로 변경 고려
+  * 다음 투약 가능 시점 전에 불편감이 지속 또는 재발하는 특수 상황에서만 제한적으로 교대 투여를 고려
+  * 두 약을 동시에 투여하지 않으며, 교대 시 투약 오류·중복·과량 투여 위험에 특히 주의
+  * 해열제 교대 투여는 routine으로 권장하지 않음
+* 성인 통증에서는 의사의 판단으로 acetaminophen과 NSAID 병용이 가능하나, 단순 해열을 위한 routine 병용은 필요하지 않음
+* NSAID 두 종류의 병용은 피함. 마이폴에는 acetaminophen·ibuprofen과 함께 codeine이 포함되므로 성분별 총량을 합산하고 진정·호흡억제에 유의; 국내 허가상 12세 이하 투여 금기이며 해열 목적으로 선택하지 않음. 울트라셋에도 acetaminophen이 포함되므로 기존 진통제·감기약과 합산
+* fentanyl·buprenorphine 패치 사용 중 발열이 발생하면 흡수 증가로 인한 과다 진정·호흡억제에 유의하고 필요 시 용량 조정; 패치 부위의 외부 열 노출을 피함 (☞ [통증](001_-pain.md))
 
 #### <mark style="color:$primary;">Acetaminophen</mark>
 
-* 성인 속방형 : 500\~650 ㎎ q4\~6hr 또는 1,000 ㎎ q6hr; 모든 acetaminophen 함유 제품을 합산하여 일반 성인의 허용 최대 4 g/d. 반복·장기 사용에서는 3 g/d 이하를 보수적으로 권장하며, 간질환·만성 과음·영양불량·저체중 등 위험요인에서는 감량 고려
-  * 650 ㎎ × 2정 q8hr; 최대 6정/d(3,900 ㎎), 12세 이상 <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark>; 씹거나 쪼개지 말고 그대로 삼킬 것
-* 소아 : 10\~15 ㎎/㎏ q4\~6h PRN; 최대 5회/d 및 75 ㎎/㎏/d
-  * <mark style="color:blue;">\[세토펜 현탁액]</mark>(32 ㎎/㎖) : 1회 약 0.31\~0.47 ㎖/㎏; 실용적으로 0.4 ㎖/㎏/회
+* 성인 속방형 : 500\~650 ㎎ q4\~6h PRN 또는 1,000 ㎎ q6h PRN; 모든 acetaminophen 함유 제품을 합산하여 일반 성인의 허용 최대 4 g/d. 반복·장기 사용에서는 3 g/d 이하를 보수적으로 권장
+  * 고령·쇠약·저체중·영양불량·지속적인 과음 등에서는 위험요인의 정도·체중·사용기간에 따라 감량; 고령 또는 신기능 저하만을 이유로 일률적인 2 g/d 상한을 적용하지 않음
+  * 간경변에서는 임상 지침상 통상 최대 2 g/d 범위로 제한. 단, 심한 간장애·심한 신장애는 수록 국내 제품의 투여 금기이므로 감량 사용과 구분 <mark style="color:$info;">\[AASLD 2022\]</mark>
+  * 서방형 : 12세 이상에서 650 ㎎ × 2정 q8h PRN; 24시간 최대 6정(3,900 ㎎) <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark>; 씹거나 쪼개거나 분쇄하지 말고 그대로 삼킴. 2정씩 1일 3회는 3,900 ㎎이므로 3 g/d 이하로 제한하려는 환자에게는 맞지 않음
+* 국내 수록 제품의 주요 금기 : 심한 간장애·심한 신장애, aspirin 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제(TCA) 복용 환자 등. 특히 <mark style="color:blue;">\[타이레놀8시간이알서방정]</mark>과 <mark style="color:blue;">\[세토펜현탁액]</mark>의 해당 금기를 일반적인 감량·신중 투여와 구분함
+* Warfarin 병용 : 수일 이상 규칙적으로 복용하면 INR 상승 가능성이 있어 INR을 확인하고 필요 시 추적 간격을 조정; 특히 2 g/d 이상 반복 투여 시 유의 <mark style="color:$info;">\[Zhang et al., Eur J Clin Pharmacol 2011\]</mark>
+* 소아 : 10\~15 ㎎/㎏ q4\~6h PRN; 최대 5회/d 및 75 ㎎/㎏/d. 체중 기준 계산량이 성인 1회 최대량 1,000 ㎎·1일 최대량 4 g을 넘지 않도록 함
+  * <mark style="color:blue;">\[세토펜현탁액]</mark>(32 ㎎/㎖) : 1회 약 0.31\~0.47 ㎖/㎏; 실용적으로 0.4 ㎖/㎏/회
   * 국내 허가 용량표는 생후 4개월부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시; 생후 ＜4개월에는 허가 용량이 없으므로 연령·체중·진단을 확인하여 개별 판단
 
 #### <mark style="color:$primary;">Ibuprofen</mark>
@@ -320,13 +326,17 @@ graph TD
     * 7\~10세 : 1회 150\~200 ㎎(7.5\~10 ㎖); 최대 800 ㎎(40 ㎖)/d
     * 11\~14세 : 1회 200\~250 ㎎(10\~12.5 ㎖); 최대 1,000 ㎎(50 ㎖)/d
     * 국내 허가 용량표는 1세부터 제시하며, 만 ＜2세는 투여 전 의사와 상담하도록 명시
-* 탈수·섭취 저하, 신장질환 또는 심부전이 있으면 급성 신손상 위험에 주의하고 acetaminophen을 우선 고려
+* 탈수·섭취 저하, 신장질환 또는 심부전이 있으면 급성 신손상 위험에 주의하고 acetaminophen 등 대안을 우선 고려; 심한 심장기능부전 등 투여 금기와 일반적인 신중 투여를 구분
+* eGFR ＜30 ㎖/min/1.73m²에서는 전신 NSAID를 원칙적으로 피함(국내 허가상 심한 신장애 금기)
+* 수두에서는 ibuprofen 사용을 피하는 것이 바람직함
+* 임신 20주 이후에는 태아 신기능 저하·양수과소증 위험 때문에 원칙적으로 회피. 국내 부루펜은 임신 말기 3개월 투여 금기; FDA의 30주 이후 회피 기준과 국내 허가 문구를 구분
+* 심혈관 예방 목적으로 저용량 aspirin을 복용 중이면 항혈소판 효과 간섭과 출혈 위험 때문에 ibuprofen 병용을 가급적 피하고 대안을 고려; 장용 aspirin·반복 투여에 단순 시간 간격을 일률적으로 적용하지 않음 (☞ [통증 - NSAIDs](001_-pain.md#nsaids))
 
 #### <mark style="color:$primary;">Aspirin</mark>
 
 * 성인에서 허가된 해열·진통제이나 일반적인 1차 해열제로 routine 사용하지 않음
 * 사용 시 소화성궤양·출혈 위험, 항응고제 병용, 신장질환, 과민반응 및 임신 여부 확인
-* 용법 : 1회 500\~1,000 ㎎(1\~2정)을 최소 4시간 이상 간격으로 경구 투여, 1일 최대 4 g(8정); 만 15세 이상 <mark style="color:blue;">\[바이엘아스피린]</mark>(500 ㎎)
+* 용법 : 1회 500\~1,000 ㎎(1\~2정)을 최소 4시간 이상 간격으로 경구 투여, 1일 최대 4 g(8정); 만 15세 이상 <mark style="color:blue;">\[바이엘아스피린정]</mark>(500 ㎎)
 * 소아·청소년의 감염성 발열에 자가 투여 금지(라이 증후군 위험); 가와사키병 등 특수 적응증에서는 전문의 처방에 따라 사용
 
 ***
@@ -343,26 +353,28 @@ graph TD
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 성인 감염성 발열 - acetaminophen 서방정**
+> **처방례 1. 간독성 위험요인이 없는 성인의 단기 감염성 발열 - acetaminophen 서방정**
 >
 > ```
-> 타이레놀8시간이알서방정 650 ㎎/T 1~2T q8h 
+> 타이레놀8시간이알서방정 650 ㎎/T 2T q8h PRN, 24시간 최대 6T(3,900 ㎎)
 > ※ 반드시 통째로 삼키고 씹거나 쪼개지 말 것; 효과가 늦게 느껴져도 추가 복용하지 않음
 > ```
 >
-> _✽ 목표는 해열 자체가 아니라 불편감(distress) 완화; 다른 acetaminophen 함유 제품과 중복 시 1일 총량이 4 g을 넘지 않도록 확인. 간질환·만성 과음·영양불량·저체중 등이 있으면 3 g/d 이하로 더 보수적으로 사용_
+> _✽ 불편감(distress)이 있을 때만 사용하며 다음 복용까지 최소 8시간 간격을 둠. 다른 acetaminophen 함유 제품을 추가하지 않음; 이 서방정의 24시간 상한은 6정(3,900 ㎎)_
+>
+> _✽ 2정씩 1일 3회는 3,900 ㎎이므로 반복·장기 사용 또는 3 g/d 이하 제한이 필요한 환자에게 그대로 적용하지 않음. 고령·쇠약·저체중·영양불량·지속적인 과음·간질환 등에서는 본문의 위험군 원칙에 따라 용량·제형을 별도로 선택; TCA·바르비탈계 약물 복용, 심한 간/신장애 등 국내 허가 금기는 별도 적용_
 
 > **처방례 2. 소아 발열 (체중 20 ㎏ 기준) - acetaminophen 또는 ibuprofen**
 >
 > ```
-> 어린이타이레놀현탁액 32 ㎎/㎖ 8 ㎖ (256 ㎎, 약 12.8 ㎎/㎏) q4~6h, 1일 최대 4회
+> 세토펜현탁액 32 ㎎/㎖ 8 ㎖ (256 ㎎, 약 12.8 ㎎/㎏) q4~6h PRN, 이 처방례에서는 1일 최대 4회
 > 또는
-> 부루펜시럽 20 ㎎/㎖ 7 ㎖ (140 ㎎, 약 7 ㎎/㎏) tid
+> 어린이부루펜시럽 20 ㎎/㎖ 7 ㎖ (140 ㎎, 약 7 ㎎/㎏) q6~8h PRN, 1일 최대 4회
 > ```
 >
 > _✽ 두 약 중 하나를 선택하여 사용하며, 동시 투여는 하지 않음; 한 약제로 불편감이 충분히 완화되지 않을 때만 다른 약제로 변경을 고려하고, routine 교대 투여는 권장하지 않음_
 >
-> _✽ acetaminophen 10\~15 ㎎/㎏ q4\~6h(1일 최대 5회, 75 ㎎/㎏/d), ibuprofen 5\~10 ㎎/㎏ q6\~8h(최대 40 ㎎/㎏/d) 범위 내에서 제품 농도·체중에 맞게 조정; 탈수·섭취 저하 또는 신장질환이 있으면 ibuprofen은 급성 신손상 위험에 주의_
+> _✽ acetaminophen 10\~15 ㎎/㎏ q4\~6h(1일 최대 5회, 75 ㎎/㎏/d), ibuprofen 5\~10 ㎎/㎏ q6\~8h(최대 40 ㎎/㎏/d) 범위 내에서 제품 농도·체중에 맞게 조정하되 국내 제품의 연령별 허가 상한도 구분하여 적용; acetaminophen의 체중 계산량이 성인 1회량·1일 최대량을 넘지 않도록 함; 탈수·섭취 저하 또는 신장질환이 있으면 ibuprofen은 급성 신손상 위험에 주의_
 >
 > _✽ 뎅기열이 의심되거나 배제되지 않은 여행 후 발열에는 출혈 위험 때문에 ibuprofen 대신 acetaminophen을 우선 사용_
 
@@ -372,22 +384,26 @@ graph TD
 
 > **아세트아미노펜 (타이레놀)**
 >
-> * 성인 속방형은 일반적으로 1회 500\~650 ㎎을 4\~6시간 간격 또는 1,000 ㎎을 6시간 간격으로 복용합니다. 하루 동안 복용한 모든 아세트아미노펜 함유 제품을 합산하여 4 g을 초과하지 마십시오. 반복·장기 사용은 3 g/d 이하를 보수적으로 권하며, 간질환·만성 음주·영양불량·저체중 등이 있으면 더 적은 용량이 필요할 수 있습니다.
-> * **서방형(타이레놀 8시간 이알)** : 12세 이상에서 1회 2정씩 8시간 간격으로 복용하고, 24시간 동안 6정을 초과하지 마십시오. 반드시 통째로 삼키고 씹거나 쪼개지 마십시오. 효과가 늦게 느껴진다고 추가 복용하지 마십시오.
-> * 감기약·두통약·수면제 등 다른 약에도 아세트아미노펜이 들어 있는 경우가 많습니다. 중복 복용에 주의하십시오.
+> * 성인 속방형은 일반적으로 1회 500\~650 ㎎을 4\~6시간 간격 또는 1,000 ㎎을 6시간 간격으로 복용합니다. 하루 동안 복용한 모든 아세트아미노펜 함유 제품을 합산하여 4 g을 초과하지 마십시오. 반복·장기 사용은 3 g/d 이하를 보수적으로 권하며, 쇠약·저체중·영양불량·지속적인 과음 등이 있으면 더 적은 용량이 필요할 수 있습니다. 간경변에서는 통상 하루 2 g 이하로 제한하지만, 심한 간장애·심한 신장애는 해당 제품의 투여 금기이므로 임의로 감량하여 복용하지 마십시오.
+> * **서방형(타이레놀8시간이알서방정)** : 12세 이상에서 필요시 1회 2정씩, 최소 8시간 간격으로 복용하고 24시간 동안 6정(3,900 ㎎)을 초과하지 마십시오. 반드시 통째로 삼키고 씹거나 쪼개거나 분쇄하지 마십시오. 효과가 늦게 느껴진다고 추가 복용하지 마십시오. 의사가 하루 3 g 이하로 제한한 경우에는 2정씩 하루 3회 복용하면 그 제한을 넘습니다.
+> * 감기약·두통약·수면제 및 울트라셋·마이폴 등 복합 진통제에도 아세트아미노펜이 들어 있습니다. 중복 복용에 주의하십시오. 마이폴에는 이부프로펜과 코데인도 들어 있으므로 부루펜 등을 추가하지 마시고, 어린이에게 임의로 먹이지 마십시오.
+> * 에트라빌 등 삼환계 항우울제나 바르비탈계 약물을 복용 중이거나 아스피린 천식 병력이 있으면 복용 전 의사에게 알려 주십시오.
+> * 와파린을 복용 중이면 아세트아미노펜을 수일 이상 규칙적으로 복용할 때 의료진에게 알려 INR 검사를 받으십시오.
 > * 공복에 복용해도 위 자극이 적어 식사와 무관하게 복용 가능합니다.
 
 > **이부프로펜 (부루펜)**
 >
-> * 위장장애를 줄이기 위해 가능하면 식후 또는 음식과 함께 복용하십시오.
+> * 위장장애를 줄이기 위해 가능하면 식후 또는 음식과 함께 복용하십시오. 음식과 함께 복용해도 위장관 궤양·출혈을 완전히 예방하지는 못합니다.
 > * 탈수되었거나 잘 먹지 못하는 경우, 위궤양, 신장 질환 또는 심부전이 있으면 반드시 의사에게 알려 주십시오.
-> * 임신 20주 이후에는 의사의 지시 없이 복용하지 말고, 임신 30주 이후에는 사용하지 마십시오.
-> * 다른 NSAIDs(예: 아스피린, 나프록센)와 함께 복용하지 마십시오. 부작용만 증가합니다.
+> * 임신 중에는 소염진통제를 임의로 복용하지 마십시오. 임신 20주 이후에는 태아의 신장 기능 저하와 양수 감소 위험 때문에 원칙적으로 피하며, 부루펜은 국내 허가상 임신 말기 3개월에 사용하지 않습니다.
+> * 다른 NSAIDs(예: 아스피린, 나프록센)와 함께 복용하지 마십시오. 심근경색·뇌졸중 예방을 위해 저용량 아스피린을 복용 중이면 이부프로펜을 임의로 추가하지 마십시오.
+> * 수두에 걸린 경우에는 이부프로펜을 임의로 복용하지 마십시오.
 > * 뎅기열이 의심되거나 배제되지 않은 여행 후 발열에는 출혈 위험 때문에 이부프로펜·아스피린을 복용하지 말고 진료를 받으십시오.
 
 > **해열제 공통 주의사항**
 >
-> * 소아에게는 반드시 체중에 맞는 용량으로 복용하십시오. 어른 약을 임의로 나눠 주지 마십시오.
+> * 소아에게는 반드시 체중에 맞는 용량으로 복용하십시오. 어른 약을 임의로 나눠 주지 마십시오. 두 해열제를 동시에 먹이거나 임의로 번갈아 먹이지 마십시오.
+> * 펜타닐·부프레노르핀 패치를 사용 중 열이 나면 의료진에게 알리십시오. 패치 부위에 온찜질을 하거나 전기장판 등 직접적인 열을 가하지 마십시오.
 > * 아스피린은 소아·청소년의 감염성 발열에 임의로 사용하지 마십시오(라이 증후군 위험). 가와사키병 등 특수한 경우에만 전문의 처방에 따라 사용합니다.
 > * 열이 내려갔다고 원인 질환이 나은 것이 아닙니다. 의사가 지시한 기간까지 원인 치료약을 계속 복용하십시오.
 > * 해열제로 체온이 내려가는지보다 전신 상태가 좋아지는지가 중요합니다. 열이 예상보다 오래 지속되거나 악화되거나, 새로운 증상이 생기면 다시 진료받으십시오.
@@ -435,13 +451,18 @@ graph TD
 
 * [Geneva II, et al. Normal Body Temperature: A Systematic Review. Open Forum Infect Dis. 2019;6(4):ofz032.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6456186/) - 측정 부위·연령 등에 따른 체온 차이와 정상 체온 해석
 * [NICE. Fever in under 5s: assessment and initial management. NICE guideline NG143. 2019; updated 2021.](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations) - 5세 미만 발열의 위험 분류·검사·해열제와 재진 안내
-* [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. 2023; updated May 27, 2026.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days) - 전신 상태가 양호한 90일 이하 발열 영아의 연령별 검사·치료·추적; 전신 상태 불량 영아와 구분 (확인일 2026-10-11)
+* [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. 2023; updated May 27, 2026.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days) - 전신 상태가 양호한 90일 이하 발열 영아의 연령별 검사·치료·추적; 전신 상태 불량 영아와 구분
 * [Dionisopoulos Z, et al. Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis. JAMA Pediatr. 2026;180(8):838-850.](https://doi.org/10.1001/jamapediatrics.2026.1815) - 60\~90일 발열 영아의 균혈증·수막염 위험 추정과 연구 대상의 범위
 * [O'Grady NP, et al. Society of Critical Care Medicine and the Infectious Diseases Society of America Guidelines for Evaluating New Fever in Adult Patients in the ICU. Crit Care Med. 2023;51(11):1570-1586.](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/) - 성인 ICU의 새로운 발열·체온 측정과 표적 검사; 일반 외래에 일괄 적용하지 않음
 * [Prescott HC, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54(4):725-812.](https://doi.org/10.1097/CCM.0000000000007075) - 성인 패혈증·패혈성 쇼크의 조기 인지·소생술·항균제와 체온 관리
 * [Wright WF, et al. State-of-the-Art Review: Contemporary Ambulatory Approach to Adult Fever of Unknown Origin. Clin Infect Dis. 2026;82(6):909-926.](https://doi.org/10.1093/cid/ciag158) - 성인 외래 불명열의 단계별 평가와 임상 단서에 따른 추가 검사
 * [Barletta JF, et al. Society of Critical Care Medicine guidelines for the treatment of heat stroke. Crit Care Med. 2025;53(2):e490-e500.](https://sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke) - 열사병의 적극적 냉각·초기 치료; 감염성 발열의 해열과 구분
+* [Rogal SS, et al. AASLD Practice Guidance: Palliative care and symptom-based management in decompensated cirrhosis. Hepatology. 2022;76(3):819-853.](https://doi.org/10.1002/hep.32378) - 간경변에서 acetaminophen의 통상 최대 2 g/d 사용; 국내 제품의 심한 간장애 금기와 구분
+* [Zhang Q, et al. Interaction between acetaminophen and warfarin in adults receiving long-term oral anticoagulants: a randomized controlled trial. Eur J Clin Pharmacol. 2011;67(3):309-314.](https://doi.org/10.1007/s00228-010-0975-2) - acetaminophen 2\~3 g/d 반복 투여에 따른 INR 상승과 모니터링
 
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 해열진통제의 연령·체중·제형별 용량, 최대용량·금기와 중복 성분
+* [U.S. Food and Drug Administration. FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic) - 임신 20주 이후 태아 신기능·양수과소증 위험 및 30주 이후 회피; 국내 제품의 임신 후기 금기와 구분
+* [U.S. Food and Drug Administration. Concomitant Use of Ibuprofen and Aspirin: Potential for Attenuation of the Anti-Platelet Effect of Aspirin. 2006.](https://www.fda.gov/media/76636/download) - 속방형 aspirin 81 ㎎과 ibuprofen 400 ㎎의 투약 간격 자료 및 장용·반복 투여의 한계
+* [U.S. National Library of Medicine. DailyMed - 의약품 허가정보.](https://dailymed.nlm.nih.gov/) - fentanyl·buprenorphine 경피 패치의 발열·외부 열 노출에 따른 흡수 증가와 진정·호흡억제 경고
