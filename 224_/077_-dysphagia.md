@@ -35,7 +35,7 @@
 
 * 알약을 소량의 물과 함께 또는 누운 상태에서 복용하면 식도에 정체되어 점막을 직접 손상할 수 있음. 증상(급작스러운 삼킴통증, 흉통, 삼킴곤란)은 복용 수 시간\~수일 내 나타날 수 있음
 
-<table><thead><tr><th width="273.3333740234375">대표 약물</th><th width="191.5555419921875">기전</th><th>주의사항</th></tr></thead><tbody><tr><td>Bisphosphonate (알렌드로네이트)</td><td>직접 점막 자극</td><td>일반 물 약 200 mL 이상과 복용; 복용 후 최소 30분 및 첫 음식 섭취 전까지 눕지 않음; 제품별 허가사항 확인</td></tr><tr><td>Doxycycline / Tetracycline</td><td>직접 점막 손상</td><td>취침 직전 복용 금지; 충분한 물과 복용</td></tr><tr><td>NSAIDs / Aspirin</td><td>직접 점막 손상·점막 방어 저하</td><td>충분한 물과 복용; 위장관 위험은 별도 평가</td></tr><tr><td>Clindamycin</td><td>직접 점막 독성</td><td>취침 직전 복용 금지; 충분한 물과 복용</td></tr><tr><td>Iron 제제, 칼륨제제</td><td>직접 점막 자극</td><td>충분한 물과 복용; 제형 변경 고려</td></tr><tr><td>고용량 비타민 C</td><td>산성 자극</td><td>불필요한 대용량 복용 회피</td></tr></tbody></table>
+<table><thead><tr><th width="273.3333740234375">대표 약물</th><th width="191.5555419921875">기전</th><th>주의사항</th></tr></thead><tbody><tr><td>Bisphosphonate (알렌드로네이트)</td><td>직접 점막 자극</td><td>일반 물 약 200 mL 이상과 복용; 복용 후 최소 30분 및 첫 음식 섭취 전까지 눕지 않음; 제품별 허가사항 확인</td></tr><tr><td>Doxycycline / Tetracycline</td><td>직접 점막 손상</td><td>취침 직전 복용 금지; 충분한 물과 복용</td></tr><tr><td>NSAIDs / Aspirin</td><td>직접 점막 손상·점막 방어 저하</td><td>충분한 물과 복용; 위장관 위험은 별도 평가</td></tr><tr><td>Clindamycin</td><td>직접 점막 독성</td><td>취침 직전 복용 금지; 충분한 물과 복용</td></tr><tr><td>Pinaverium</td><td>식도에 정체될 때 점막 자극·궤양</td><td>식사 중 충분한 물과 함께 통째로 삼킴; 씹거나 빨지 않음. 누운 자세 또는 취침 직전 복용 회피</td></tr><tr><td>Iron 제제, 칼륨제제</td><td>직접 점막 자극</td><td>충분한 물과 복용; 제형 변경 고려</td></tr><tr><td>고용량 비타민 C</td><td>산성 자극</td><td>불필요한 대용량 복용 회피</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -443,7 +443,7 @@ Q39.3 식도의 선천협착
 > 2. 복용 후 **최소 30분은 눕지 마십시오.** 취침 직전 복용은 피하세요.
 > 3. 이미 삼킴곤란이나 사레가 있다면 임의로 알약 삼키기 기법을 시도하지 말고 의사·약사에게 액상제, 더 작은 제형 또는 다른 투여 경로가 가능한지 문의하십시오.
 > 4. 서방정·장용정·항암제 등은 임의로 부수거나 캡슐을 열지 마십시오. 분쇄 가능 여부를 약사에게 확인하십시오.
-> 5. bisphosphonate(골다공증약), 독시사이클린, 클린다마이신은 식도에 들러붙기 쉬우니 특히 주의하십시오.
+> 5. bisphosphonate(골다공증약), 독시사이클린, 클린다마이신 등은 식도 자극에 특히 주의하십시오. Pinaverium(일부 진경제)은 식사 중 충분한 물과 함께 통째로 삼키며, 누운 자세나 취침 직전 복용을 피하십시오.
 > 6. 알약 복용 후 타는 듯한 통증이나 새 삼킴곤란이 생기면 원인 약물의 다음 복용 여부를 처방의와 상의하고 신속히 내원하십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -560,3 +560,7 @@ Q39.3 식도의 선천협착
 * 미국 FDA·DailyMed. 의약품 허가사항 — dupilumab의 미국 EoE 적응증과 국내 허가의 차이
 
   [https://dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov)
+
+* Health Canada. DICETEL 제품설명서 — pinaverium의 식도 자극 예방을 위한 식사 중 복용·충분한 물·취침 직전 복용 회피
+
+  [https://pdf.hres.ca/dpd_pm/00028699.PDF](https://pdf.hres.ca/dpd_pm/00028699.PDF)

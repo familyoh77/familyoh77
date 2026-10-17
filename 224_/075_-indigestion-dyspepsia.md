@@ -312,7 +312,7 @@ flowchart TD
 
 {% hint style="info" %}
 **PPI 약물 상호작용 주의**\
-PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 수 있음:\
+PPI는 위산을 억제하여 위내 pH를 높이고 일부 약물의 흡수에 영향을 줄 수 있음. 일부 성분은 CYP2C19 등을 억제하여 병용 약물의 대사에도 영향을 줌:\
 • Clopidogrel 병용 시 : omeprazole/esomeprazole은 CYP2C19 경쟁적 억제로 clopidogrel 활성화를 저해 - 항혈소판 효과 감소 우려; 심혈관 질환자에서는 pantoprazole 또는 rabeprazole 선호\
 • 철분제 : 위산 감소로 비헴철 흡수가 저하될 수 있으며 단순히 복용 간격을 두는 것만으로 해결되지 않을 수 있음 - PPI 필요성·용량과 철분 투여 방법 재평가\
 • 항진균제(itraconazole, ketoconazole) : 위산 필요 약물로 흡수 감소 가능
@@ -341,7 +341,7 @@ PPI는 위내 산도를 높여 일부 약물의 흡수·대사에 영향을 줄 
 <table><thead><tr><th width="154">약물</th><th width="180">용량</th><th>상품명 / 특이사항</th></tr></thead><tbody><tr><td>mosapride</td><td>5 ㎎ tid</td><td><mark style="color:blue;">[가스모틴]</mark> - 제품별 식전·식후 용법 확인</td></tr><tr><td>itopride</td><td>50 ㎎ tid (식전)</td><td><mark style="color:blue;">[가나톤]</mark> - D2 차단 + AChE 억제; 추체외로 증상은 드물지만 고프로락틴혈증·유즙분비 등에 주의</td></tr></tbody></table>
 
 {% hint style="danger" %}
-**metoclopramide는 기능성 소화불량의 routine 장기 치료제로 사용하지 않음** : 급성 구역·구토 등에 국내 허가사항에 따라 최단기간 사용하며, 현행 허가사항상 최대 치료기간(통상 5일)을 확인. 급성 근긴장이상, 정좌불능, 파킨슨증 및 지연성 운동장애 위험이 있어 고령자·파킨슨병 환자·항정신병약 병용 환자에서 특히 주의
+**metoclopramide는 기능성 소화불량의 routine 장기 치료제로 사용하지 않음** : 국내 맥페란정은 구역·구토 관련 허가 적응증에 **최대 5일** 사용하며 최소 유효 용량·최단기간을 적용. 급성 근긴장이상, 정좌불능, 파킨슨증 및 지연성 운동장애 위험이 있어 고령자·파킨슨병 환자·항정신병약 병용 환자에서 특히 주의
 {% endhint %}
 
 #### <mark style="color:$primary;">저용량</mark> [<mark style="color:$primary;">항우울제</mark>](073_-gidrugs.md) <mark style="color:$primary;">(TCA)</mark>

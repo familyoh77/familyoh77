@@ -245,7 +245,7 @@ PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 
 #### [<mark style="color:$primary;">제산제</mark>](073_-gidrugs.md)
 
 * 일부 환자에서 유효; 단기 증상 완화에 한함
-* 보통 매 식후 30분\~1시간, 취침 시 prn
+* 복용 시점·횟수는 성분·제형별로 다름. Almagate는 식후 30분\~1시간에 1일 3회, 필요시 취침 전에 1회 추가 복용
 * 예방 효과가 없으므로 장기간 지속 또는 빈번한 투여는 피함
 * aluminium hydroxide <mark style="color:blue;">\[암포젤]</mark>, almagate <mark style="color:blue;">\[알마겔]</mark>
 

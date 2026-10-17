@@ -401,9 +401,9 @@ class Success2,Surgery blue
   * 바렛 식도·소화성 협착 : 별도의 장기 유지 적응증으로 평가. 경증 식도염의 필요시 치료 원칙을 그대로 적용하지 않음
 
 {% hint style="danger" %}
-**PPI 장기 사용 관련 부작용** : 골절, _Clostridioides difficile_ 감염, 저마그네슘혈증, Vit B12 결핍, 신질환 등과의 연관성이 보고되어 있으나 대부분 observational data 기반이며 인과관계는 명확하지 않음. 명확한 적응증이 있다면 이득이 위험을 상회하는 경우가 많음. 장기 사용 시 적응증과 최소 유효 용량을 정기적으로 재평가하고, 검사실 모니터링은 위험 인자·임상적 의심이 있을 때 선택적으로 시행
+**PPI 장기 사용 관련 부작용** : 골절·폐렴·CKD 등은 주로 관찰연구의 연관성이며 인과관계가 확립되지 않음. 장감염 위험은 소폭 증가할 수 있고 저마그네슘혈증·Vit B12 결핍은 위험도에 따라 평가. 드문 급성 세뇨관간질성 신염은 인정되는 약물이상반응으로 의심 시 중단·평가. 명확한 적응증이 있다면 이득이 위험을 상회하는 경우가 많음. 장기 사용 시 적응증과 최소 유효 용량을 정기적으로 재평가하고, 검사실 모니터링은 위험 인자·임상적 의심이 있을 때 선택적으로 시행
 
-**CYP450 약물 상호작용** : omeprazole·esomeprazole + 클로피도그렐 병용 시 CYP2C19 억제로 활성 대사체가 감소할 수 있음; 임상적 의미에는 논란이 있으나 pantoprazole·rabeprazole을 대안으로 고려. 장기 사용 중단 후 일시적 반동성 증상이 생길 수 있으며 즉시 중단 또는 단계적 감량을 환자별로 선택
+**CYP450 약물 상호작용** : omeprazole·esomeprazole + 클로피도그렐 병용 시 CYP2C19 억제로 활성 대사체가 감소할 수 있음; Omeprazole·esomeprazole 병용은 피하고 pantoprazole 등 대안을 우선 고려. 약력학적 영향과 실제 심혈관 사건 증가 여부는 구분. 장기 사용 중단 후 일시적 반동성 증상이 생길 수 있으며 즉시 중단 또는 단계적 감량을 환자별로 선택
 {% endhint %}
 
 ### <mark style="color:orange;">P-CAB (Potassium-Competitive Acid Blocker)</mark>
@@ -430,6 +430,7 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 * fexuprazan <mark style="color:blue;">\[펙수클루]</mark>
   * 국내 허가 : ERD 치료; esomeprazole 대비 비열등한 EE 치유율
   * 용법 : ERD 40 ㎎ qd × 4\~8주; 식사 무관
+  * 국내 품목 허가상 임부·수유부 금기
 * zastaprazan <mark style="color:blue;">\[자큐보]</mark>
   * 2024년 국내 허가 (ERD 치료), 국산 37호 신약 (제일약품)
   * 용법 : ERD 20 ㎎ qd × 4주 (미치유 시 4주 추가); 식사 무관
@@ -443,8 +444,8 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 
 #### <mark style="color:$primary;">약제</mark>
 
-* cimetidine : 200\~400 ㎎ bid <mark style="color:blue;">\[에취투비]</mark>
-* famotidine : 10\~20 ㎎ bid <mark style="color:blue;">\[가스터]</mark>
+* cimetidine : 400 ㎎ bid 또는 800 ㎎ hs <mark style="color:blue;">\[에취투비]</mark>
+* famotidine : 역류성 식도염 20 ㎎ bid 또는 40 ㎎ hs; 경증 증상 완화의 저용량·필요시 투여와 구분 <mark style="color:blue;">\[가스터]</mark>
 * lafutidine : 역류성 식도염 허가 용법 10 ㎎ bid <mark style="color:blue;">\[스토가]</mark> <mark style="color:$info;">[국내 품목 허가사항]</mark>
 
 ### <mark style="color:orange;">제산제</mark>
@@ -465,8 +466,8 @@ PPI와 달리 활성화에 산성 환경이 불필요하여 식사 무관 복용
 ### <mark style="color:orange;">위장관 운동 촉진제</mark>
 
 * 객관적인 gastroparesis의 증거가 없는 한 GERD 치료 목적의 투여는 권고하지 않음 <mark style="color:$info;">[ACG GERD 2022]</mark>
-* metoclopramide <mark style="color:blue;">\[맥페란]</mark> : 위마비가 확인된 경우에 제한적으로 사용; 장기 투여 시 tardive dyskinesia 등 심각한 부작용
-* itopride <mark style="color:blue;">\[가나칸]</mark>, mosapride <mark style="color:blue;">\[가스모틴]</mark>는 GERD에 routine으로 추가하지 않음
+* metoclopramide <mark style="color:blue;">\[맥페란]</mark> : 객관적 위마비가 확인된 경우 전문진료에서 제한적으로 고려. 국내 경구 품목은 구역·구토 관련 적응증에 최대 권장기간 5일이며, 위마비 치료는 허가 외 사용. 미국의 12주 제한을 국내 허가기간으로 적용하지 않음; 추체외로 증상·지연운동이상증에 유의 <mark style="color:$info;">[국내 품목 허가사항]</mark>
+* itopride <mark style="color:blue;">\[가나톤]</mark>, mosapride <mark style="color:blue;">\[가스모틴]</mark>는 GERD에 routine으로 추가하지 않음
 * 현호색·견우자 추출물 <mark style="color:blue;">\[모티리톤]</mark>은 기능성 소화불량 치료제로 GERD 적응증이 아님
 
 ### <mark style="color:orange;">기타 약제</mark>

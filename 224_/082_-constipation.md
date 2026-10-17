@@ -9,9 +9,9 @@
 
 ### <mark style="color:orange;">1차성 (기능성)</mark>
 
-#### <mark style="color:$primary;">Functional constipation</mark>
+#### <mark style="color:$primary;">만성 변비 (Chronic constipation)</mark>
 
-* Rome IV 증상 기준을 충족하고 다른 원인으로 더 잘 설명되지 않는 변비
+* Rome V 만성 변비 증상 기준을 충족하고 다른 원인으로 더 잘 설명되지 않는 경우; 기존 문헌의 functional constipation(기능성 변비) 용어와 구분하여 해석
 * 기능성 변비는 증상 기반 진단이며, 생리 검사에 따라 normal-transit constipation, slow-transit constipation, 배변장애가 포함될 수 있음
 
 #### <mark style="color:$primary;">Normal-transit constipation</mark>
@@ -51,31 +51,31 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
+  <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
 
 * 급성 심한 복통 + 복막 자극 징후 (복근 강직, 반발통) → 복막염·장폐색
 * 급성 장폐색 소견 : 심한 복부 팽창, 지속적인 구역·구토, 대변·가스 배출 중단 ± 장음 변화
 * 대량 직장 출혈 (hemodynamically unstable)
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+  <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 설명할 수 없는 체중 감소와 지속적인 배변 습관 변화 → 대장암 등 기질적 질환 평가
 * 혈변 또는 철결핍빈혈 동반 → 대장암·하부 위장관 출혈 평가
 * 흑색변 → 상부 위장관 출혈 가능성을 우선 평가
+* 지속적인 발열·전신 증상과 함께 새로 발생한 변비
 * 직장 탈출, 반복적 직장 출혈
 * 설명되지 않는 진행성 배변 습관 변화(특히 체중 감소·빈혈·혈변·대장암 가족력 동반 시)
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+  <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 식이·하제 치료에 4\~8주 이상 반응 없음
-* 지속적인 발열·전신 증상과 함께 새로 발생한 변비
 * 대장암 고위험 가족력 또는 연령·위험도에 맞는 대장암 선별검사 미시행
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">기능성 변비 진단기준 \[Rome IV]</mark>
+### <mark style="color:orange;">만성 변비 진단기준 \[Rome V, 2026]</mark>
 
-* 증상이 최소 6개월 이상 지속되고, 최근 3개월 동안 다음 기준 충족
+* 증상 시작이 진단 최소 6개월 전이고, 최근 3개월 동안 다음 기준 충족 <mark style="color:$info;">[Rome V]</mark>
 
 1. 다음 항목 중 ≥2개 해당
    1. 배변 횟수의 ＞¼에서 힘을 주어야 함
@@ -112,37 +112,31 @@
 
 ```mermaid
 graph TD
-    B[기저 원인 파악]
-    B --> C[<u>기질적 원인 제외</u><br/>갑상선저하증·고칼슘혈증·<br/>변비 유발 약제 검토]
-    C --> OIC{Opioid 유발?}
-    OIC -->|Yes| OL[<u>예방·초기 치료</u><br/>자극성 또는 삼투성 하제]
-    OL --> OR{반응 충분?}
-    OR -->|No| PAM[<u>PAMORA 고려</u><br/>naloxegol]
-    OR -->|Yes| Z[치료 유지]
-    PAM --> PR{호전?}
-    PR -->|Yes| Z
-    PR -->|No| M
-    OIC -->|No| DYS[배변 장애형 의심?<br/>막힌 느낌·수기 배변·<br/>부드러운 대변인데 배변 곤란]
-    DYS -->|Yes| BF[<u>항문직장 기능 평가</u><br/>anorectal manometry·<br/>balloon expulsion test<br/>→ biofeedback 우선]
-    DYS -->|No| D[<u>생활 습관 교정</u><br/>식이섬유 20~30 g/d<br/>수분 섭취·규칙적 운동]
-    D --> E[호전?]
-    E -->|No| F[<u>삼투성 하제</u><br/>PEG 또는 MgO]
-    E -->|Yes| Z
-    F --> G[호전?]
-    G -->|No| H[<u>자극성 하제</u><br/>bisacodyl·senna 추가]
-    G -->|Yes| Z
-    H --> I[호전?]
-    I -->|No| J[prucalopride 고려]
-    I -->|Yes| Z
-    J --> M[<u>의뢰</u><br/>항문직장 기능 평가 후<br/>필요 시 대장 통과 검사]
+    A["기저 원인·경고 징후·분변매복 평가"] --> B{"Opioid 유발 변비?"}
+    B -->|예| C["일반 하제: 삼투성 또는 자극성"]
+    C --> D{"반응 충분?"}
+    D -->|예| Z["치료 유지·추적"]
+    D -->|아니오| E["전문진료: OIC 표적 치료 검토"]
+    B -->|아니오| F{"배변장애 의심?"}
+    F -->|예| G["ARM + BET 평가"]
+    F -->|아니오| H["생활습관·수용성 섬유 ± PEG"]
+    H --> I{"적절한 초기 하제에도 지속?"}
+    I -->|아니오| Z
+    I -->|예| J["복약순응도·용량·2차 원인 재평가"]
+    J --> G
+    G --> K{"배변장애 확인?"}
+    K -->|예| L["바이오피드백 우선 ± 하제"]
+    K -->|아니오| M["하제 최적화·병용 ± prucalopride"]
+    L --> N{"증상 지속?"}
+    M --> N
+    N -->|아니오| Z
+    N -->|예| O["전문의 평가·필요 시 대장 통과 검사"]
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class E,G,I,OIC,OR,PR,DYS yellow
+class B,D,F,I,K,N yellow
 classDef sky fill:#e3f2ff,stroke:#2196f3
-class D,F,H,J,OL,PAM sky
-    style C fill:#e8f8e8,stroke:#4caf50
-    style BF fill:#f3e5f5,stroke:#7b1fa2
+class C,H,L,M sky
     style Z fill:#d0e8ff,stroke:#1a6abf
-    style M fill:#ffcdd2,stroke:#c62828
+    style O fill:#ffcdd2,stroke:#c62828
 ```
 
 <p align="center"><strong>만성 변비 단계적 치료 알고리듬</strong></p>
@@ -180,7 +174,8 @@ class D,F,H,J,OL,PAM sky
 * 대부분의 만성 불응성 환자에서 anorectal manometry + balloon expulsion test 시행
 * 배변장애가 확인되면 충분한 바이오피드백 치료 시행
 * 부피 형성·삼투성·자극성 하제 및 국내 허가 처방약의 적절한 단독·병용 치료 여부 확인
-* 대장 통과 검사는 원칙적으로 하제와 통과 시간에 영향을 주는 약물을 중단한 상태에서 시행; 수술은 서행성 변비를 객관적으로 확인하고 배변장애를 배제한 극히 일부 환자에서만 고려
+* 대장 통과 검사는 치료 중단 상태에서 서행성 변비를 객관적으로 확인하고, 가능하면 최대 하제 치료 중에도 검사하여 치료에도 지속되는 통과 지연을 평가; 중단 약제·기간은 검사기관 지침에 따름
+* 수술은 서행성 변비를 객관적으로 확인하고 배변장애를 배제한 극히 일부 환자에서만 고려; 상부 위장관 운동장애·정신사회적 요인도 평가 <mark style="color:$info;">[AGA 2026]</mark>
 {% endhint %}
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -219,10 +214,10 @@ class D,F,H,J,OL,PAM sky
 {% hint style="info" %}
 **1차 선택**
 
-* 만성 변비 1차 : PEG 3350 <mark style="color:blue;">\[마이락스]</mark> (내약성 우수, 안전성 높음) 또는 MgO <mark style="color:blue;">\[마그밀]</mark> (국내 접근성 높음)
+* 만성 변비 1차 : PEG 3350 <mark style="color:blue;">\[마이락스]</mark> 우선 고려; 수산화마그네슘 <mark style="color:blue;">\[마그밀]</mark> 또는 MgO <mark style="color:blue;">\[마그밀에스]</mark>도 환자 상태에 따라 사용하되 성분·용량을 구분
 * 급성·단기 : bisacodyl 좌약 <mark style="color:blue;">\[둘코락스]</mark> 또는 glycerin 관장
 * 만성 변비 + 일반 하제 실패 : prucalopride <mark style="color:blue;">\[레졸로]</mark> (5-HT4 agonist)
-* OIC (opioid 유발 변비) : 일반 하제에 반응하지 않으면 naloxegol <mark style="color:blue;">\[모벤틱]</mark> 고려
+* OIC (opioid 유발 변비) : 일반 하제를 우선하며 반응이 불충분하면 전문진료에서 표적 치료 검토; 아래 PAMORA는 해외 치료 선택지로 구분
 {% endhint %}
 
 * 생활 습관 교정에 반응하지 않는 변비에 간헐적 또는 장기적 약물 투여 가능
@@ -261,14 +256,15 @@ class D,F,H,J,OL,PAM sky
 * 자극성 하제 대비 내약성 우수하며 장기 유지 치료에 적합
 * 장내 흡수가 거의 없어 전신 부작용이 적고 임신 중에도 우선 고려 가능
 * 부작용 : 복부 팽만, 무른 변, 복부 가스, 구역 (용량 의존)
-* <mark style="color:blue;">\[마이락스]</mark> 10 g/P 1\~2P qd; 물 또는 음료에 녹여 복용하며 식사·시간과 무관하게 투여 가능; 보통 1\~3일 내 효과 (비급여, 제품별 허가사항 확인)
+* <mark style="color:blue;">\[마이락스]</mark> PEG 3350 17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용하며 식사와 무관; 보통 1\~4일 내 효과 (비급여)
 
-<mark style="color:$primary;">**Magnesium oxide (MgO)**</mark>
+<mark style="color:$primary;">**Magnesium hydroxide · Magnesium oxide**</mark>
 
-* 삼투압 기전으로 장내 수분 분비 증가
-* 저용량 (500\~1,000 ㎎/d)으로 시작, 필요 시 증량
-* 유의한 신기능 저하에서는 피하거나 대체제를 우선; 고령, 고용량·장기 사용, 장운동 저하 환자는 hypermagnesemia에 특히 주의
-* <mark style="color:blue;">\[마그밀]</mark> 500 ㎎/T 2T #2
+* 삼투압 기전으로 장내 수분을 증가시킴; 저용량부터 대변 굳기·빈도와 이상반응에 따라 조절
+* 수산화마그네슘[Mg(OH)₂] : <mark style="color:blue;">\[마그밀]</mark> 500 ㎎/T; 예: 2T/d를 2회 분복하여 시작 후 반응에 따라 조절
+* 산화마그네슘(MgO) : <mark style="color:blue;">\[마그밀에스]</mark> 250 ㎎/T; 500\~1,000 ㎎/d 등 저용량으로 시작
+* 두 성분은 동일 중량으로 환산하지 않음. AGA-ACG 2023의 조건부 권고는 MgO에 대한 근거이며 수산화마그네슘에 그대로 적용하지 않음 <mark style="color:$info;">[AGA-ACG 2023]</mark>
+* 중증 신장애(eGFR ＜30 ㎖/min/1.73㎡)에서는 Mg 제제를 피하고 PEG 등 대체제를 우선; 고령·경도~중등도 CKD·고용량 또는 장기 사용·장운동 저하에서도 고마그네슘혈증에 주의하고 신기능·혈청 Mg 확인 고려
 
 <mark style="color:$primary;">**Lactulose**</mark>
 
@@ -316,7 +312,8 @@ class D,F,H,J,OL,PAM sky
 * 장 상피 ClC-2 chloride channel 활성화 → 장내 수분·전해질 분비 증가 → 연동 운동 촉진
 * 해외에서는 일반 하제에 반응하지 않는 만성 특발성 변비에 사용; 4주 전후 효과와 이상반응 재평가
 * 부작용 : 구역 (용량 의존; 음식과 함께 복용 시 감소)
-* 24 mcg bid, 음식·물과 함께 복용; 2026년 9월 기준 국내 허가·유통되지 않으므로 해외 지침 참고용
+* 해외 성인 CIC 용법 : 24 ㎍ bid, 음식·물과 함께 복용
+* 국내 허가 이력이 있으나 아미티자 24 ㎍ 품목은 2024년 2월 2일 허가 취하됨; 위 용량은 해외 치료 용법 <mark style="color:$info;">[식약처 품목정보]</mark>
 
 <mark style="color:$primary;">**Linaclotide · Plecanatide**</mark>
 
@@ -331,8 +328,9 @@ class D,F,H,J,OL,PAM sky
 
 * 선택적 5-HT4 수용체 작용제 → 대장의 추진성 운동 촉진
 * 일반 하제에 반응하지 않는 경우 대체 또는 추가; 4주 전후 반응을 평가하고 유효하면 유지 가능
-* 용량 : 2 ㎎ qd, 식사와 무관; 고령(≥65세)은 1 ㎎ qd로 시작하여 필요 시 2 ㎎으로 증량. 중증 신기능 저하 또는 중증 간기능 저하는 1 ㎎ qd; 투석이 필요한 말기신부전에서는 사용하지 않음
-* 보험 기준 : 만성 변비 환자로 다른 하제 치료에 반응하지 않은 경우 (☞ [소화기계 약제](073_.md#laxative))
+* 용량 : 2 ㎎ qd, 식사와 무관; 고령(≥65세)은 1 ㎎ qd로 시작하여 필요 시 2 ㎎으로 증량. 중증 신장애(GFR ＜30 ㎖/min/1.73㎡) 또는 중증 간장애(Child-Pugh C)는 1 ㎎ qd. 투석이 필요한 신장애에서는 금기
+* 급여는 현행 HIRA 세부 인정기준에 따라 판단하며 기존 하제의 종류·용량·사용 기간과 반응을 기록 (☞ [소화기계 약제](073_-gidrugs.md#laxative))
+* 금기 : 장천공·장폐쇄, 장관의 중증 염증 상태 및 독성 거대결장/거대직장
 * 부작용 : 두통, 복통, 구역, 설사(주로 치료 초기에 발생 후 감소); 새로 발생하거나 악화되는 우울감·자살사고가 있으면 중단하고 평가
 * <mark style="color:blue;">\[레졸로]</mark>
 
@@ -349,12 +347,14 @@ class D,F,H,J,OL,PAM sky
 
 **AGA-ACG 2023 recommendation 요약**
 
-<table><thead><tr><th width="220">약제</th><th width="110">권고 등급</th><th>비고</th></tr></thead><tbody><tr><td>Polyethylene glycol (PEG)</td><td>Strong</td><td>1차 유지 하제; 장기 사용 근거 있음</td></tr><tr><td>Bisacodyl / Sodium picosulfate</td><td>Strong</td><td>단기 또는 rescue therapy; 장기 사용 시 정기 평가</td></tr><tr><td>Linaclotide</td><td>Strong</td><td>일반 하제 실패 후; 국내 미허가</td></tr><tr><td>Plecanatide</td><td>Strong</td><td>일반 하제 실패 후; 국내 미허가</td></tr><tr><td>Prucalopride</td><td>Strong</td><td>일반 하제 실패 후 대체 또는 추가</td></tr><tr><td>Psyllium (차전자피)</td><td>Conditional</td><td>식이 섬유 섭취 부족 환자에서 보충; 충분한 수분 필수</td></tr><tr><td>Magnesium oxide (MgO)</td><td>Conditional</td><td>저용량(500~1,000 ㎎/d)으로 시작; 유의한 신기능 저하에서 회피·주의</td></tr><tr><td>Lactulose</td><td>Conditional</td><td>PEG 불내성 또는 반응 없을 때 대체</td></tr><tr><td>Senna</td><td>Conditional</td><td>저용량 시작; rescue 또는 다른 하제와 병용</td></tr><tr><td>Lubiprostone</td><td>Conditional</td><td>일반 하제 실패 후; 국내 미허가·미유통</td></tr></tbody></table>
+<table><thead><tr><th width="220">약제</th><th width="110">권고 등급</th><th>비고</th></tr></thead><tbody><tr><td>Polyethylene glycol (PEG)</td><td>Strong</td><td>1차 유지 하제; 장기 사용 근거 있음</td></tr><tr><td>Bisacodyl / Sodium picosulfate</td><td>Strong</td><td>단기 또는 rescue therapy; 장기 사용 시 정기 평가</td></tr><tr><td>Linaclotide</td><td>Strong</td><td>일반 하제 실패 후; 국내 미허가</td></tr><tr><td>Plecanatide</td><td>Strong</td><td>일반 하제 실패 후; 국내 미허가</td></tr><tr><td>Prucalopride</td><td>Strong</td><td>일반 하제 실패 후 대체 또는 추가</td></tr><tr><td>Psyllium (차전자피)</td><td>Conditional</td><td>식이 섬유 섭취 부족 환자에서 보충; 충분한 수분 필수</td></tr><tr><td>Magnesium oxide (MgO)</td><td>Conditional</td><td>저용량(500~1,000 ㎎/d)으로 시작; 유의한 신기능 저하에서 회피·주의</td></tr><tr><td>Lactulose</td><td>Conditional</td><td>PEG 불내성 또는 반응 없을 때 대체</td></tr><tr><td>Senna</td><td>Conditional</td><td>저용량 시작; rescue 또는 다른 하제와 병용</td></tr><tr><td>Lubiprostone</td><td>Conditional</td><td>일반 하제 실패 후; 아미티자 24 ㎍ 국내 품목은 허가 취하</td></tr></tbody></table>
 
 ### <mark style="color:orange;">PAMORA - Opioid 유발 변비 (OIC)</mark>
 
-* μ-opioid receptor peripheral antagonist(PAMORA)를 사용하여 중추 진통 효과에 영향 없이 말초 장관 내 opioid 수용체를 차단함으로써 Opioid-induced constipation(OIC)을 치료
-* naloxegol : 25 ㎎ qd 공복 (식전 1시간 또는 식후 2시간) <mark style="color:blue;">\[모벤틱]</mark>
+* 말초 μ-opioid receptor antagonist(PAMORA)는 중추 진통 효과를 대체로 보존하면서 장관의 opioid 작용을 차단; opioid 금단 증상이 발생할 수 있어 주의
+* 해외 치료 선택지 : naloxegol, naldemedine, methylnaltrexone. 국내 허가·공급 상태는 별도로 확인
+* naloxegol 미국 허가 용법 : 25 ㎎ qd 공복 (식전 1시간 또는 식후 2시간)
+  * CrCl ＜60 ㎖/min : 12.5 ㎎ qd로 시작; 내약성과 반응에 따라 신중히 조절 <mark style="color:$info;">[미국 허가사항]</mark>
   * 부작용 : 복통, 설사, 구역, 오한
   * 금기 : 알려졌거나 의심되는 위장관 폐색 또는 반복 폐색 고위험, 강력한 CYP3A4 억제제(clarithromycin, itraconazole 등) 병용
   * 중등도 CYP3A4 억제제는 가능하면 피하고, 불가피하면 12.5 ㎎ qd로 감량하여 이상반응 모니터링
@@ -387,9 +387,9 @@ K59.0 변비
 > **처방례 2.** 중등도 변비 - PEG 기반 삼투성 하제
 >
 > ```
-> 마이락스 산 10 g/P  1~2P  qd  (비급여)
-> ※ 식사와 무관하게 물 또는 음료에 녹여 복용 가능
-> ※ 보통 1~3일 내 반응; 반응과 대변 굳기에 따라 10~20 g/d 범위에서 조절
+> 마이락스 산 17 g/P  1P  qd  (비급여)
+> ※ 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용; 식사와 무관
+> ※ 보통 1~4일 내 반응; 설사·복부 불편이 있거나 효과가 부족하면 용량·치료를 재평가
 > ```
 
 > **처방례 3.** 중등도\~중증 변비 - 삼투성 + 자극성 하제 병용
@@ -408,22 +408,20 @@ K59.0 변비
 > 마그밀 500 ㎎/T  1T  취침 시
 > 레졸로 2 ㎎/T  1T  qd  (식사와 무관)
 > ※ 고령(≥65세) : 1 ㎎/d로 시작하여 필요 시 2 ㎎/d로 증량
-> ※ 중증 신기능·간기능 저하 : 1 ㎎/d; 투석이 필요한 말기신부전에서는 사용하지 않음
+> ※ 중증 신장애(GFR <30) : 1 ㎎/d; 중증 간장애(Child-Pugh C) : 1 ㎎/d
+> ※ 투석이 필요한 신장애, 장폐쇄·천공, 장관의 중증 염증 상태에서는 금기
 > ※ 두통·구역은 초기 수일간 흔히 발생하고 이후 감소; 심하거나 지속되면 재평가
 > ※ 새로 발생하거나 악화되는 우울감·자살사고가 있으면 중단하고 즉시 평가
 > ※ 급여 처방 전 현행 HIRA 기준을 확인하고 기존 하제의 종류·용량·사용 기간 및 반응을 의무기록에 기재
 > ```
 
-> **처방례 5.** OIC - Opioid 유발 변비
+> **처방례 5.** OIC - 일반 하제의 예방·초기 치료
 >
 > ```
-> 모벤틱 25 ㎎/T  1T  qd 공복 (식전 1시간 또는 식후 2시간)
-> ※ opioid 중단 시 모벤틱도 함께 중단
-> ※ 시작할 때 기존 유지 하제는 일단 중단; 3일 후 반응이 부족하면 필요에 따라 재개
-> ※ 강력한 CYP3A4 억제제(clarithromycin, itraconazole 등)와 병용 금기
-> ※ 중등도 CYP3A4 억제제를 피할 수 없으면 12.5 ㎎/d로 감량
-> ※ 위장관 폐색이 알려졌거나 의심되는 환자 또는 반복 폐색 고위험 환자에서 금기
-> ※ opioid 금단 유사 증상(복통, 설사, 오한) 발생 시 용량 감량 또는 중단
+> 마이락스 산 17 g/P  1P  qd
+> 둘코락스 좌약 10 ㎎/개  1개  필요 시 직장 투여
+> ※ 장폐쇄·분변매복 여부를 먼저 평가; 증상·섭취 상태에 따라 일반 하제 병용 조절
+> ※ 부피 형성 하제만으로 치료하지 않으며, 불응 시 전문진료에서 OIC 표적 치료 검토
 > ```
 
 ***
@@ -438,8 +436,8 @@ K59.0 변비
 
 > **삼투성 하제 - 약제별 주의사항**
 >
-> * **마그밀(MgO)** : 신장 기능이 저하된 분은 복용 전 반드시 알려주십시오. 혈중 마그네슘이 올라 근육 약화, 졸림, 저혈압, 호흡 곤란이 생길 수 있습니다.
-> * **마이락스(PEG)** : 장에서 거의 흡수되지 않아 전신 부작용이 적으며, 물 또는 음료에 녹여 식사와 무관하게 복용할 수 있습니다.
+> * **마그밀(수산화마그네슘)·마그밀에스(산화마그네슘)** : 신장 기능이 저하된 분은 복용 전 반드시 알려주십시오. 혈중 마그네슘이 올라 근육 약화, 졸림, 저혈압, 호흡 곤란이 생길 수 있습니다.
+> * **마이락스(PEG)** : 1포(PEG 3350 17g)를 약 240㎖의 물 또는 음료에 녹여 복용합니다. 식사와 관계없이 복용할 수 있으며 보통 1~4일 후 효과가 나타납니다.
 > * **듀파락(lactulose)** : 장 내 세균에 의해 발효되어 가스와 배부름이 생길 수 있습니다. 음식과 관계없이 복용할 수 있으며 불편하면 용량을 조절합니다.
 
 > **자극성 하제 (둘코락스 등) - 사용 빈도 원칙**
@@ -497,3 +495,35 @@ K59.0 변비
 * **즉시 진료** : 많은 피가 나오거나 어지럼·실신이 동반될 때, 검은 변이 나올 때, 심한 복통·복부 팽창과 함께 지속적인 구토 또는 대변·가스 배출 중단이 있을 때
 * **빠른 시일 내 진료** : 소량이라도 혈변이 반복되거나 체중이 이유 없이 줄고 식욕이 크게 떨어질 때
 * 배변 습관 변화가 지속되거나 연령·위험도에 맞는 대장암 정기 검진을 받지 않았을 때
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Rome Foundation. Rome V Criteria. 2026. — 만성 변비 및 IBS 진단 기준
+
+  [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+
+* AGA–ACG. Pharmacological Management of Chronic Idiopathic Constipation. 2023. — PEG, MgO, 자극성 하제와 처방약의 권고; IBS-C 치료 근거와 구분
+
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/)
+
+* Staller K, et al. AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review. 2026. — 배변장애 평가·바이오피드백, 통과검사 및 수술 전 평가
+
+  [https://pubmed.ncbi.nlm.nih.gov/41504675/](https://pubmed.ncbi.nlm.nih.gov/41504675/)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. — 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 건강보험심사평가원. 약제급여기준 및 의약품안전사용서비스(DUR). — Prucalopride 등 급여기준과 안전사용 정보
+
+  [https://www.hira.or.kr](https://www.hira.or.kr)
+
+* 미국 FDA·DailyMed. 의약품 허가사항. — Naloxegol의 신기능·CYP3A 상호작용에 따른 용량 등 해외 용법 확인; 국내 허가와 구분
+
+  [https://dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov)

@@ -163,11 +163,13 @@ flowchart TD
 
 #### <mark style="color:$primary;">Bismuth 4제 요법 (Bismuth Quadruple Therapy) - 10\~14일</mark>
 
-* 표준 구성 : PPI 표준 용량 bid + bismuth subcitrate 120 ㎎ <mark style="color:blue;">\[데놀]</mark> qid + metronidazole 500 ㎎ tid + tetracycline 500 ㎎ qid
+* 표준 구성 : PPI 표준 용량 bid + 비스무트시트르산염칼륨 300 ㎎(산화비스무트로서 120 ㎎, 데놀 1정) qid + metronidazole 500 ㎎ tid + tetracycline 500 ㎎ qid
 * 적용 : clarithromycin 내성 맞춤 치료는 10일; 경험적 사용은 10~14일의 조건부 선택지이며 구제요법으로 남겨둘 필요도 고려. Clarithromycin 포함 요법 실패 후에는 14일 구제요법을 사용
 * 제균율 : 약 85\~95% (항생제 내성에 비교적 강함)
 * 주의
   * 복잡한 복용 스케줄 → 복약 달력(pill chart) 제공 권장 (아래 복약 도식 참조)
+  * 데놀의 국내 품목 허가상 신장애 환자는 금기. 300 ㎎은 염 함량, 120 ㎎은 산화비스무트 환산량으로 같은 1정이며 용량 오류로 혼동하지 않음 <mark style="color:$info;">[국내 품목 허가사항]</mark>
+  * 지침상 고전적 4제는 tetracycline을 포함하지만, 데놀 개별 허가사항에는 tetracycline 흡수 저해에 따른 병용 회피 문구가 있어 지침과 품목 허가의 차이를 구분하여 적용
   * tetracycline : 해당 국내 품목은 12세 미만·임부 금기, 수유 중 투여 회피. DUR의 8세 미만 연령금기 정보와 품목 허가사항의 연령 기준을 혼동하지 않음. 소아 처방은 별도 전문 평가 <mark style="color:$info;">[국내 품목 허가사항]</mark>
   * 변형 bismuth 4제는 고전적 요법과 구성·권고 근거가 다르므로 구분
 
@@ -197,6 +199,7 @@ flowchart TD
 2. 복약 불이행 (특히 bismuth 4제의 복잡한 스케줄)
 3. PPI 산 억제 불충분 (CYP2C19 급속 대사형)
 4. 흡연 (제균율 감소와 관련)
+
 ✽ 너무 이른 확인 검사·휴약 미준수는 실제 항생제 내성의 원인이 아니라 결과 해석 오류의 원인이므로, 적절한 시점에 활동성 감염을 재확인
 
 #### <mark style="color:$primary;">1차 재치료 (표준 3제·동시·순차 치료 실패 후)</mark>
@@ -232,6 +235,7 @@ flowchart TD
   * 7일 tegoprazan 기반 3제 요법은 lansoprazole 기반 3제 요법에 비열등했으나, clarithromycin 고내성 환경에서는 7일 요법의 절대 제균율이 충분하지 않을 수 있음
   * 처방 시 tegoprazan 50 ㎎ bid (3제 요법 구성 내)
   * 14일 연장 요법의 제균율 향상 보고가 있으나 국내 허가 기간 7일을 벗어나는 사용으로 구분
+* 제균용 tegoprazan·fexuprazan은 국내 품목 허가상 임부·수유부 금기
 * Fexuprazan 40 ㎎ <mark style="color:blue;">\[펙수클루]</mark>
   * 국내 허가 병용요법 : fexuprazan 40 ㎎ + amoxicillin 1 g + clarithromycin 500 ㎎, 각각 bid × **14일** <mark style="color:$info;">[국내 품목 허가사항]</mark>
   * 강력한 산 억제만으로 clarithromycin 내성을 충분히 극복할 수 없으므로 감수성 확인 원칙을 유지
@@ -251,7 +255,7 @@ P-CAB 기반 3제는 성분에 따라 기간이 다름 : tegoprazan은 허가상
 
 #### <mark style="color:$primary;">약물 부작용 관리</mark>
 
-<table><thead><tr><th width="146.5263671875">약물</th><th>주요 부작용</th><th>대처</th></tr></thead><tbody><tr><td>amoxicillin</td><td>설사, 복통, 발진, 드물게 알레르기 반응</td><td>페니실린 알레르기 사전 확인; 알레르기 의심 시 즉시 중단·평가</td></tr><tr><td>clarithromycin</td><td>금속 맛, 구역, 복통, QT 연장; CYP3A4 약물상호작용</td><td>QT 연장 약물과 simvastatin·lovastatin 등 병용약 확인</td></tr><tr><td>metronidazole</td><td>금속 맛, 구역, 구토; 알코올 병용 시 홍조·두통·빈맥·구토 가능</td><td>치료 기간 중 및 종료 후 최소 3일까지 음주 금지 교육</td></tr><tr><td>bismuth</td><td>변비, 검은 변·흑색 혀, 구역</td><td>치료 중 일시적 현상임을 사전 교육; melena와 감별 필요</td></tr><tr><td>tetracycline</td><td>광과민성, 식도염</td><td>충분한 물과 함께 복용 후 30분은 눕지 않음; 유제품·제산제·철분제와 2시간 이상 분리</td></tr><tr><td>levofloxacin</td><td>건염·건파열, 말초신경병증, 중추신경계 이상, 혈당 변동, QT 연장</td><td>고령·신기능 저하·스테로이드 병용 환자 주의; 감수성 확인 후 제한적으로 사용</td></tr><tr><td>rifabutin</td><td>골수억제, 포도막염, 체액의 주황색 변색</td><td>전문의 협진; 반복치료·고위험군에서 CBC 확인 고려</td></tr></tbody></table>
+<table><thead><tr><th width="146.5263671875">약물</th><th>주요 부작용</th><th>대처</th></tr></thead><tbody><tr><td>amoxicillin</td><td>설사, 복통, 발진, 드물게 알레르기 반응</td><td>페니실린 알레르기 사전 확인; 알레르기 의심 시 즉시 중단·평가</td></tr><tr><td>clarithromycin</td><td>금속 맛, 구역, 복통, QT 연장; CYP3A4 약물상호작용</td><td>QT 연장 약물과 simvastatin·lovastatin 등 병용약 확인</td></tr><tr><td>metronidazole</td><td>금속 맛, 구역, 구토; 알코올 병용 시 홍조·두통·빈맥·구토 가능</td><td>치료 기간 중 및 종료 후 최소 3일까지 음주 금지 교육</td></tr><tr><td>bismuth</td><td>변비, 검은 변·흑색 혀, 구역</td><td>일시적 변색을 설명하되 색만으로 출혈 배제 불가; 타르변·어지럼·쇠약·토혈은 응급 평가. 데놀은 신장애 환자 금기</td></tr><tr><td>tetracycline</td><td>광과민성, 식도염</td><td>충분한 물과 함께 복용 후 30분은 눕지 않음; 유제품·제산제·철분제와 2시간 이상 분리</td></tr><tr><td>levofloxacin</td><td>건염·건파열, 말초신경병증, 중추신경계 이상, 혈당 변동, QT 연장</td><td>고령·신기능 저하·스테로이드 병용 환자 주의; 감수성 확인 후 제한적으로 사용</td></tr><tr><td>rifabutin</td><td>골수억제, 포도막염, 체액의 주황색 변색</td><td>전문의 협진; 반복치료·고위험군에서 CBC 확인 고려</td></tr></tbody></table>
 
 ### <mark style="color:orange;">치료 후 추적 검사</mark>
 
@@ -303,7 +307,7 @@ B98.0 다른 장에서 분류된 질환의 원인으로서의 헬리코박터 �
 >
 > ```
 > 판토록 40 ㎎/T   1T   bid   (아침·저녁 식전 30분)
-> 데놀 120 ㎎/T   1T   qid   (매 식전 30분·취침 전)
+> 데놀 300 ㎎/T(산화비스무트로서 120 ㎎)   1T   qid   (매 식전 30분·취침 전)
 > 후라시닐 250 ㎎/T   2T   tid   (매 식후)
 > 테라싸이클린캡슐 250 ㎎/C   2C   qid   (매 식후·취침 전)
 > ※ 총 14일; metronidazole 복용 중 및 종료 후 최소 3일까지 금주

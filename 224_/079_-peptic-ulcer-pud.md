@@ -210,7 +210,7 @@ graph TD
 #### <mark style="color:$primary;">Proton Pump Inhibitor (</mark>[PPI](073_.md#proton-pump-inhibitor-ppi)<mark style="color:$primary;">)</mark>
 
 * PUD 치료의 표준 1차 위산 억제제
-* 용법 : 보통 아침 식전 30분 복용; bid 처방 시 아침·저녁 식사 전 복용
+* 용법 : 대부분의 일반형은 아침 식전 30~60분 복용; bid는 아침·저녁 식전. 식사 무관 제형의 GERD 적응증을 PUD에 자동 적용하지 않음
 * 부작용 : 두통, 복통, 설사·변비 등. 장기 투여 시 일부 환자에서 저마그네슘혈증, Vit B12·철 결핍, 장관 감염 위험 등을 고려하되 폐렴·골절·신장질환 등 다수의 연관성은 주로 관찰연구에서 보고되어 인과성이 확립되지 않음
 
 <table><thead><tr><th width="180">약물</th><th width="200">통상 성인 용량</th><th>상품명</th></tr></thead><tbody><tr><td>omeprazole</td><td>20 ㎎ qd</td><td><mark style="color:blue;">[오엠피]</mark></td></tr><tr><td>esomeprazole</td><td>20~40 ㎎ qd</td><td><mark style="color:blue;">[넥시움]</mark></td></tr><tr><td>lansoprazole</td><td>GU 30 ㎎ qd; DU 15 ㎎ qd</td><td><mark style="color:blue;">[란스톤]</mark></td></tr><tr><td>pantoprazole</td><td>40 ㎎ qd</td><td><mark style="color:blue;">[판토록]</mark></td></tr><tr><td>rabeprazole</td><td>10~20 ㎎ qd</td><td><mark style="color:blue;">[파리에트]</mark></td></tr><tr><td>ilaprazole</td><td>10 ㎎ qd</td><td><mark style="color:blue;">[놀텍]</mark></td></tr></tbody></table>
@@ -243,10 +243,11 @@ Clopidogrel 복용 환자에서 omeprazole·esomeprazole은 CYP2C19 억제로 cl
 * CYP2C19 유전다형성이 산 억제 효과에 미치는 영향이 상대적으로 적음. 다만 clopidogrel과의 상호작용은 P-CAB 성분별로 다르므로 개별 확인
 * 허가된 적응증에서는 PUD 치유 또는 예방 효과가 PPI와 유사한 자료가 있으나 제품별 적응증이 다르고 장기·계열별 안전성 자료는 PPI보다 제한적
 
-<table><thead><tr><th width="199.33331298828125">약물</th><th>국내 허가 용량 및 PUD 관련 적응증</th></tr></thead><tbody><tr><td>tegoprazan <mark style="color:blue;">[케이캡]</mark></td><td>50 ㎎ qd ×8주: 위궤양; H. pylori 제균 병용 시 50 ㎎ bid ×7일; 25 ㎎ qd: NSAID 관련 위·십이지장궤양 예방; 식사 무관</td></tr><tr><td>vonoprazan <mark style="color:blue;">[보신티]</mark></td><td>20 ㎎ qd: 위궤양; 10 ㎎ qd: NSAID 투여 시 위·십이지장궤양 재발 방지; 식사 무관</td></tr><tr><td>fexuprazan <mark style="color:blue;">[펙수클루]</mark></td><td>20 ㎎ qd ×24주: NSAID 유도성 위·십이지장궤양 예방(비교임상시험은 24주를 초과하지 않음); 2025년 12월부터 보험 급여 적용. 40 ㎎은 미란성 GERD 치료 용량이며 활동성 PUD 치료 적응증은 아님; 식사 무관</td></tr><tr><td>revaprazan <mark style="color:blue;">[레바넥스]</mark></td><td>200 ㎎ qd ×4주: 십이지장궤양; 급·만성 위염의 위점막 병변 개선에도 허가</td></tr></tbody></table>
+<table><thead><tr><th width="199.33331298828125">약물</th><th>국내 허가 용량 및 PUD 관련 적응증</th></tr></thead><tbody><tr><td>tegoprazan <mark style="color:blue;">[케이캡]</mark></td><td>50 ㎎ qd ×8주: 위궤양; H. pylori 제균 병용 시 50 ㎎ bid ×7일; 25 ㎎ qd: NSAID 관련 위·십이지장궤양 예방; 식사 무관</td></tr><tr><td>vonoprazan <mark style="color:blue;">[보신티]</mark></td><td>허가 용법 참고: 위궤양 20 ㎎ qd(통상 최대 8주), NSAID 투여 시 위·십이지장궤양 재발 방지 10 ㎎ qd; 실제 처방 가능 여부는 출시·공급과 구분</td></tr><tr><td>fexuprazan <mark style="color:blue;">[펙수클루]</mark></td><td>20 ㎎ qd ×24주: NSAID 유도성 위·십이지장궤양 예방(비교임상시험은 24주를 초과하지 않음); 2025년 12월부터 보험 급여 적용. 40 ㎎은 미란성 GERD 치료 용량이며 활동성 PUD 치료 적응증은 아님; 식사 무관</td></tr><tr><td>revaprazan <mark style="color:blue;">[레바넥스]</mark></td><td>200 ㎎ qd ×4주: 십이지장궤양; 급·만성 위염의 위점막 병변 개선에도 허가</td></tr></tbody></table>
 
 * tegoprazan은 위궤양(GU) 치료 및 H. pylori 제균 병용요법 허가; DU 단독 허가는 없으나 임상적으로 사용됨 - 보험 주의
-* vonoprazan을 H. pylori 제균요법에 사용하려면 국내 제균 적응증과 허가 용법을 별도로 확인하며, 해외 요법을 국내에서 자동 적용하지 않음
+* Vonoprazan은 허가와 실제 출시·공급 상태를 구분하여 표의 용량을 참고. 해외의 H. pylori 제균요법을 국내 허가요법으로 자동 적용하지 않음
+* Tegoprazan·fexuprazan은 국내 품목 허가상 임부·수유부 금기 <mark style="color:$info;">[국내 품목 허가사항]</mark>
 
 #### <mark style="color:$primary;">H2 Receptor Antagonist (</mark>[H2RA](073_.md#h2-h2-receptor-antagonist-h2ra)<mark style="color:$primary;">)</mark>
 
@@ -311,7 +312,7 @@ class C,G,H,J,K sky
 * PPI (선호) : 예방 적응증의 허가 용량을 사용. 저용량·유지용량도 예방에 효과적이며 임상 필요에 따라 표준 용량 선택 <mark style="color:$info;">[국내 약제 연관 궤양 지침 2020]</mark>
 * H2RA : PPI 사용이 어려울 때 선택적으로 고려. PPI보다 예방 효과가 작고 반복 복용 시 산 억제 내성이 생길 수 있음. 고용량 요법의 근거 및 신기능별 감량을 고려
 * tegoprazan 25 ㎎ qd : NSAID 관련 위·십이지장궤양 예방 허가
-* vonoprazan 10 ㎎ : NSAID 투여 시 위·십이지장궤양 재발 방지 허가
+* vonoprazan 10 ㎎ qd : NSAID 투여 시 위·십이지장궤양 재발 방지의 허가 용법 참고. 허가 이력만으로 실제 출시·공급 중인 선택지로 단정하지 않음
 * fexuprazan 20 ㎎ qd : NSAID 유도성 PUD 예방; 허가 용법은 24주이며 그 이상은 비교임상시험 범위를 넘음
 * misoprostol (합성 prostaglandin E1 analog) : 200 ㎍ qid, 음식과 함께 복용 <mark style="color:blue;">\[싸이토텍]</mark>; 설사·복통 부작용으로 순응도 낮음; 임신부 금기 (자궁 수축 유발 위험)
 
@@ -422,7 +423,7 @@ K28 위공장궤양
 > **PPI/P-CAB (위산 분비 억제제)는 어떻게 복용해야 하나요?**
 >
 > * 대부분의 PPI (예: 넥시움, 란스톤, 판토록)는 **아침 식사 30분 전**에 복용하면 효과가 가장 좋습니다. 하루 2회 처방된 경우에는 아침·저녁 식사 전에 복용합니다.
-> * P-CAB (예: 케이캡, 보신티, 펙수클루)는 식사와 무관하게 복용할 수 있습니다.
+> * P-CAB (예: 케이캡, 펙수클루)는 식사와 무관하게 복용할 수 있습니다.
 > * **의사가 정한 치료 기간을 지키십시오.** 위궤양은 통상 4\~8주, 십이지장궤양은 약에 따라 2\~4주부터 평가하지만 궤양의 크기·원인·합병증에 따라 더 오래 필요할 수 있습니다. 증상만으로 중단 시점을 정하지 마십시오.
 > * 갑자기 중단하면 반동성 산 과다분비로 증상이 일시적으로 악화될 수 있습니다.
 

@@ -290,7 +290,7 @@ graph TD
 #### <mark style="color:$primary;">점막 보호제 (Mucosal Protective Agents)</mark>
 
 * 국내 허가 범위에서 증상·점막 병변에 따라 한 제제를 단기간 선택할 수 있으나, 미란 치유만을 목적으로 일률적으로 사용하거나 여러 점막보호제를 routine 병용하지 않음
-* sucralfate : 위 점막 피복; 공복에 복용 (1 g qid); Al 함유; 다른 약과 보통 2시간 이상 분리하되 levothyroxine은 최소 4시간 분리 <mark style="color:blue;">\[아루사루민]</mark>
+* sucralfate : 위 점막 피복; 공복에 복용 (1 g qid); Al 함유, 중증 신장애 회피. 다른 약의 흡수를 저해하므로 약제별 간격 적용; levothyroxine은 최소 4시간, 일부 fluoroquinolone은 sucralfate 전 2시간 또는 후 4~6시간 <mark style="color:blue;">\[아루사루민]</mark>
 * misoprostol : PGE1 유사체; NSAID 관련 위병증 예방에 효과적 (100\~200 ㎍ qid); 설사·복통 흔함; 임신 금기 <mark style="color:blue;">\[싸이토텍]</mark>
 * rebamipide : 위 점막 PG 합성 촉진, 염증 억제 (100 ㎎ tid; 위궤양에서는 아침·저녁·취침 전) <mark style="color:blue;">\[무코스타]</mark>
 * eupatilin : Artemisia asiatica 추출 항산화·항염 성분 (60 ㎎ tid 또는 90 ㎎ bid, 식후) <mark style="color:blue;">\[스티렌]</mark>, <mark style="color:blue;">\[스티렌 투엑스]</mark>
@@ -299,7 +299,7 @@ graph TD
 
 * 위배출 지연·팽만감·구역이 동반되고 FD-PDS overlap이 의심되는 경우 단기간 선택적으로 고려; 조직학적 위염 자체를 치료하는 약제는 아님
 * 고령자 prokinetic 주의 : metoclopramide 등 중추 D2 수용체 길항제는 추체외로 증상(EPS: 손 떨림, 근경직, 지연성 운동이상증)을 유발할 수 있음. Domperidone은 QT 연장·심실성 부정맥 위험에 유의한다. Mosapride 또는 중추신경계 침투가 적은 itopride도 환자별 금기·상호작용을 확인하고 이상반응 발생 시 중단
-* mosapride : 5-HT4 작용제; 위배출 촉진 (5 ㎎ tid, 식전) <mark style="color:blue;">\[가스모틴]</mark>
+* mosapride : 5-HT4 작용제; 위배출 촉진 (일반정 5 ㎎ tid, 식전 또는 식후; 서방형은 별도 용법) <mark style="color:blue;">\[가스모틴]</mark>
 * itopride : D2 길항제 + AChE 억제 (50 ㎎ tid, 식전) <mark style="color:blue;">\[가나톤]</mark>
 * Corydalis + Pharbitis nil 복합 추출물 (30 ㎎ tid, 식전) <mark style="color:blue;">\[모티리톤]</mark>
 
@@ -313,7 +313,7 @@ graph TD
 **임신부 약물 안전성** \
 FDA의 A·B·C·D·X 임신 문자등급은 폐기되었으므로 사용하지 않는다. 임신 중 위장 증상은 생활요법·제산제 등으로 시작하고, 산 억제제가 필요하면 임신 주수·중증도·개별 제제의 인체 자료를 검토하여 H2RA 또는 PPI를 선택한다.\
 Misoprostol은 자궁 수축과 유산·조산 위험 때문에 임신부 및 임신 가능성이 있으면서 적절한 피임을 하지 않는 여성의 NSAID 유발 궤양 예방 목적으로 사용하지 않는다.\
-P-CAB은 임신·수유 중 사용이 제한되므로 임신 중 산 억제제로 일률적으로 대체하지 않는다.
+Tegoprazan·fexuprazan은 국내 품목 허가상 임부·수유부 금기이므로 임신 중 산 억제제로 대체하지 않는다. 다른 P-CAB도 성분별로 구분한다.
 {% endhint %}
 
 ***

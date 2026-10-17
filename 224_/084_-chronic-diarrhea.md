@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 정의 : 묽거나 수양성인 변([Bristol stool scale](082_-constipation.md#undefined-3) 6\~7형)이 4주 이상 반복되는 상태로, 배변 횟수 증가·절박변 또는 변실금이 동반될 수 있음
-* 급성 설사(≤2주)·지속성 설사(2\~4주)와 구분
+* 이 책의 기간 구분 : 급성 ＜14일, 지속성 ≥14일~＜4주, 만성 ≥4주
 * 대부분 장 점막의 수분·전해질 흡수-분비 불균형이 핵심 기전
 * 기전상 삼투압성·분비성·염증성·흡수 장애·과운동성으로 분류되며 복합 기전이 흔함
 * 진정한 식품 알레르기는 성인 만성 설사의 원인으로는 드묾
@@ -12,7 +12,7 @@
 
 #### <mark style="color:$primary;">과운동성 설사 (Hypermotility)</mark>
 
-* 기능성 설사 (functional diarrhea) : 복통이 핵심 증상이 아님; 복통이 주된 경우 IBS-D를 우선 고려
+* 기능성 설사 (functional diarrhea) : 묽은 변이 주된 표현형. IBS-D와 구분할 때 복통뿐 아니라 배변·변 형태 변화와 연관된 반복적 복부 불편감도 확인(Rome V)
 * IBS-D (설사형 과민대장증후군) : 장-뇌 축(gut-brain axis) 이상, 장 과민성, 장내 미세 염증 및 microbiome dysbiosis 관여
   * Post-infectious IBS : 급성 장염 이후 장 투과성 변화·미세 염증 지속으로 수개월 이상 설사·팽만·urgency 지속; 외래에서 흔히 간과됨
 * 갑상선항진증, 당뇨병신경병증, 포스트-수술 (미주신경 절제술 후)
@@ -79,15 +79,17 @@
 
 ### <mark style="color:orange;">Functional diarrhea vs IBS-D 감별</mark>
 
-* 기능성 설사는 복통이 핵심 증상이 아니라는 점에서 IBS-D와 구분. 반복적 복통이 배변과 연관되어 발생하면 IBS-D를 우선 고려
+* Rome V(2026)는 IBS에서 복통뿐 아니라 복부 불편감도 평가함. 복통이 없다는 이유만으로 IBS-D를 배제하거나 기능성 설사로 단정하지 않음
 
-<table><thead><tr><th width="190">특징</th><th width="200">Functional diarrhea</th><th>IBS-D</th></tr></thead><tbody><tr><td>핵심 증상</td><td>묽은 변 (설사)</td><td>복통 + 설사</td></tr><tr><td>복통</td><td>반복적이거나 주된 증상인 복통 없음</td><td>반복적으로 존재</td></tr><tr><td>배변과 통증의 관계</td><td>뚜렷하지 않음</td><td>배변과 관련되어 호전 또는 악화 가능</td></tr><tr><td>스트레스 연관</td><td>일부</td><td>흔함</td></tr><tr><td>야간 증상</td><td>드묾</td><td>드묾</td></tr><tr><td>치료 핵심</td><td>Stool form control</td><td>Gut-brain modulation</td></tr></tbody></table>
+<table><thead><tr><th width="190">특징</th><th width="200">Functional diarrhea</th><th>IBS-D</th></tr></thead><tbody><tr><td>주된 표현형</td><td>반복되는 묽은 변·수양변</td><td>설사형 배변 이상과 연관된 반복적 복통 또는 복부 불편감</td></tr><tr><td>감별 핵심</td><td>묽은 변의 비율, 단단한 변의 드문 발생 여부 및 IBS 기준 충족 여부를 종합</td><td>증상 빈도·기간 및 배변·배변 횟수·변 형태와의 관계</td></tr><tr><td>야간 설사·체중 감소·출혈</td><td colspan="2">기능성 진단에 앞서 기질적 원인 평가</td></tr><tr><td>치료 방향</td><td>변 형태·절박변 조절과 원인별 접근</td><td>변 형태 조절에 복통·불편감 및 장-뇌 축 치료 병행</td></tr></tbody></table>
+
+<mark style="color:$info;">근거: Rome Foundation. Rome V Criteria (2026). 복통 유무만으로 구분하지 않고 복부 불편감과 배변 이상의 관계도 함께 평가.</mark>
 
 {% hint style="danger" %}
 **Microscopic colitis :** 고령(특히 60대 이상) 여성의 만성 비혈성 수양성·야간 설사에서는 대장내시경이 정상이어도 microscopic colitis를 적극 고려해야 함; 좌·우측 결장의 무작위 조직검사(random biopsy) 없이는 진단 불가. NSAID·PPI·SSRI 복용력 반드시 확인
 {% endhint %}
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">  🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
@@ -106,7 +108,7 @@
 * 원인 불명의 철 결핍 빈혈 또는 저알부민혈증
 * 지속적 발열 + 복통
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>  <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 경고 징후 없이 4\~6주 치료에도 증상 지속
 * IBS 진단 기준 충족 + 초기 대증치료 무반응
@@ -119,9 +121,10 @@
 
 * 병력 : 기저 질환, 약물(최근 항생제 포함), 식이(음식 일기), 정신사회적 스트레스, 여행력, 가족력, 수술력(담낭절제술)
 * 고령자·거동 저하자·오피오이드 복용자에서 변비 병력과 함께 소량의 묽은 변이나 변실금이 반복되면 분변 매복에 의한 범람성 설사(overflow diarrhea)를 고려하고 직장수지검사를 시행
-* 기능성 설사 진단 기준 \[Rome Ⅳ]
-  1. 최소 6개월 전 발생, 최근 3개월간 주된 복통이나 불편한 복부 팽만 없이 죽/물 같은 변이 배변의 ＞¼에서 발생
-  2. IBS-D 진단 기준에 해당되지 않음
+* 기능성 설사 평가 \[Rome V, 2026; 핵심 내용 요약]
+  * 배변 중 25%를 초과하여 묽은 변·수양변이 발생하고, 변비를 유발하는 약물 없이 단단한 변은 드묾
+  * 증상 시작은 최소 6개월 전이며 최근 3개월간 기준을 충족. 적절한 평가로 기질적 원인을 확인하고 IBS-D와의 감별을 함께 시행
+* IBS 평가 : 최근 3개월간 평균 월 3일 이상 반복되지만 지속적이지는 않은 복통 또는 복부 불편감이 있고, 배변과의 관련·배변 횟수 변화·변 형태 변화 중 2가지 이상과 연관되는지 평가; 증상 시작 최소 6개월. 설사 아형은 Bristol 변 형태로 구분 (☞ [IBS](087_-irritable-bowel-syndrome.md))
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -133,13 +136,14 @@
 **혈액 검사**
 
 * CBC, CRP ← 빈혈·염증 평가; 경고 징후 없는 수양성 설사에서 ESR/CRP만으로 IBD를 선별하지 말고 fecal calprotectin 또는 lactoferrin을 우선
-* 전해질(Mg, P, Ca, Na), LFT, 알부민, INR ← 영양 상태·흡수 기능
+* Na·K·Cl·중탄산염(또는 total CO₂), BUN/Cr ← 수분·전해질 소실 및 신기능 평가
+* LFT·알부민; Mg·P·Ca·INR은 심한 설사·흡수장애·영양결핍 또는 출혈 위험 등 임상상에 따라 선택
 * TSH ← 갑상선 기능 이상
 * Anti-tissue transglutaminase IgA (anti-tTG IgA) + total IgA ← 셀리악병 (국내 유병률은 낮지만 원인 불명 만성 설사, IBS-D/기능성 설사를 진단하려는 경우, 흡수 장애·철 결핍 빈혈 동반 시 선별 고려)
   * IgA 결핍이면 IgG deamidated gliadin peptide(DGP) 또는 IgG-tTG를 사용
   * 글루텐 함유 식사를 유지한 상태에서 검사하며, 검사 전에 gluten-free 식이를 시작하지 않음. 이미 제한 중이면 임의로 단기간 섭취시키지 말고 gluten challenge의 양·기간을 전문의와 결정
   * 성인에서 혈청검사 양성이면 상부위장관 내시경과 십이지장 조직검사로 확진
-* 빈혈 검사 : Fe/TIBC, B12, folate, Vit D ← 흡수 장애 동반 여부
+* 빈혈·흡수장애가 의심되면 ferritin·Fe/TIBC·B12·folate를 선택하고, 지방 흡수장애·영양결핍 위험에서는 Vit D 등 추가
 
 **대변 검사**
 
@@ -154,14 +158,14 @@
 <table><thead><tr><th width="146">Osmotic gap</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 mOsm/㎏</td><td>분비성 설사 (secretory) - 식사와 무관, 금식해도 지속</td></tr><tr><td>50~100</td><td>혼합형/indeterminate - 두 기전 공존 가능; 추가 평가 필요</td></tr><tr><td>＞ 100</td><td>삼투압성 설사 (osmotic) - 금식 시 호전 기대</td></tr></tbody></table>
 
 * Fecal calprotectin : 장 점막 염증 비침습 지표; IBD vs. 기능성 설사 감별에 적용. 감염·NSAID 복용·대장 종양 등에서도 상승할 수 있으며 정상이어도 microscopic colitis·셀리악병·BAD는 배제되지 않음
-  * [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171229\&sno=3\&mtgMtrRegSno=91\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : IBD 의심 환자에서 시행 시 연 1\~2회 인정 (선별 급여); 단순 IBS 상병으로 청구 시 삭감 주의
+  * 급여는 IBD 진단·추적 목적과 검사 횟수 등 현행 기준에 따라 달라지므로 적용 기준을 확인; 과거 고시의 횟수 제한을 일반적인 임상 검사 간격으로 적용하지 않음
 
 <table><thead><tr><th width="180">Calprotectin 수치</th><th>임상 해석</th></tr></thead><tbody><tr><td>&#x3C; 50 ㎍/g</td><td>유의한 장 염증 가능성 낮음 → 기능성 원인 우선 평가; microscopic colitis·셀리악병·BAD는 별도 판단</td></tr><tr><td>50 ~ 150 ㎍/g</td><td>borderline → 감염·NSAID 등 교란 요인 확인 후 임상 양상에 따라 추적 또는 내시경 고려</td></tr><tr><td>150 ~ 250 ㎍/g</td><td>기질적 염증 가능성↑ → 내시경 적극 고려</td></tr><tr><td>＞ 250 ㎍/g</td><td>유의한 장 염증 가능성 높음 → IBD 등을 위한 내시경 평가·의뢰</td></tr></tbody></table>
 
 * 절단값은 검사법·검사실 및 임상 상황에 따라 다르므로 단일 수치만으로 IBD를 확진·배제하지 않음
 
-* **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전 비침습 평가; ＜200 ㎍/g은 비정상이며 ＜100 ㎍/g은 췌장 외분비 기능 부전에 더 특이적
-  * 72시간 대변 지방 검사보다 간편하며 가능하면 고형변에서 검사. 수양변에서는 희석으로 수치가 거짓으로 낮아져 췌장 외분비 기능 부전으로 오인하는 위양성이 발생할 수 있음
+* **Fecal elastase-1** (대변 엘라스타제) : 췌장 외분비 기능 부전(EPI)의 초기 평가; ＜100 ㎍/g은 EPI를 강하게 지지, 100~200 ㎍/g은 판정 유보 구간으로 임상상·재검·추가 평가 필요
+  * 72시간 대변 지방 검사보다 간편하며 반고형변 또는 고형변에서 검사. 수양변에서는 희석으로 수치가 거짓으로 낮아져 췌장 외분비 기능 부전으로 오인하는 위양성이 발생할 수 있음
 * 대변 지방 : 하루 약 100 g 지방을 섭취하면서 72시간 채변했을 때 ＞7 g/d이면 지방 흡수 장애 시사
 * _C. difficile_ 검사 : 최근 항생제·의료기관 노출, 면역저하 또는 설명되지 않는 설사에서 고려하며 설사변만 검사
   * GDH + toxin EIA 다단계 알고리듬 또는 검사 대상이 엄격히 제한된 기관에서는 toxin-gene NAAT 사용. NAAT는 독소 자체가 아니라 독소 유전자를 검출하므로 단독 양성은 임상상과 함께 해석
@@ -186,7 +190,7 @@
 
 * SeHCAT scan, 혈청 C4 (7α-hydroxy-4-cholesten-3-one) : 담즙산 설사(BAD) 진단에 사용; 혈청 FGF-19는 표준화·접근성이 제한적인 보조 검사
   * 국내에서는 객관적 검사가 어려워 empiric cholestyramine trial이 현실적 대안이나, 불내성·복약 순응도 때문에 무반응만으로 BAD를 배제하지 않음
-* 소장 흡인액 배양 : SIBO 확진 (실제 시행 어려움)
+* 소장 흡인액 배양 : 선택적으로 SIBO 평가에 사용하나 채취·오염·배양 기준의 한계가 있으며 단독으로 완전한 확진 검사로 간주하지 않음
 * 조직검사 : 셀리악병(십이지장), Whipple disease(소장) 의심 시
 
 ***
@@ -196,7 +200,7 @@ graph TD
     Start(["만성 설사<br/>묽거나 수양성인 변 ≥4주"])
     Start --> RF["경고 징후?<br/>(혈변·체중감소·야간설사<br/>발열·50세↑ 신규 발생)"]
     RF -- "있음" --> Scope["혈액·대변 검사<br/>대장내시경 + 조직검사<br/>소장 의심 시 상부내시경/영상검사"]
-    RF -- "없음" --> Initial["약물·식이·수술력 확인<br/>범람성 설사 배제<br/>CBC·CRP·TSH·셀리악 선별"]
+    RF -- "없음" --> Initial["약물·식이·수술력 확인<br/>범람성 설사 배제<br/>CBC·Na/K·BUN/Cr<br/>TSH·셀리악 선별"]
     Initial --> Phenotype(["변 양상 분류"])
     Scope --> OrgDx["IBD, Microscopic colitis<br/>대장암, 감염성"]
 
@@ -212,38 +216,28 @@ style Phenotype fill:#d5f5e3,stroke:#27ae60
 
 ```mermaid
 graph TD
-    Phenotype(["변 양상"]) --> A["지방변·체중감소"] --> Malabs["흡수 장애 검사<br/>fecal elastase · fecal fat<br/>anti-tTG IgA + total IgA<br/>필요 시 H2 breath test"]
-    Phenotype --> B["수양성·야간 지속"] --> WateryDD["대변 calprotectin<br/>+ Giardia 검사<br/>필요 시 전해질/삼투압"]
-    Phenotype --> C["식후 악화·가스·복통 없음"] --> OsmoDD["음식 일기<br/>lactose/FODMAP 제한 시도"]
-    OsmoDD --> OsmoResult["2~4주 제한 후"]
-    OsmoResult -- "호전 없음" --> WateryDD
-    Malabs --> MalabsDx["셀리악병, SIBO<br/>췌장 외분비 부전"]
-    WateryDD --> MCRisk{"고령·여성·야간 설사<br/>PPI/NSAID/SSRI 등<br/>Microscopic colitis 위험?"}
-    MCRisk -- "있음" --> IBDRef["의뢰<br/>대장내시경 + 좌·우측 생검"]
-    MCRisk -- "없음" --> FCResult{"Fecal calprotectin"}
-    FCResult -- "상승 또는 경고 징후" --> IBDRef
-    FCResult -- "정상~Borderline" --> OsmoGap["필요 시 Osmotic gap<br/>290-2x(Na+K) mOsm/kg"]
-    OsmoGap -- "<50 (분비성)" ---> BAMFirst["BAM 우선 평가<br/>담낭절제술 병력?<br/>야간 수양성 설사?"]
-    BAMFirst -- "BAM 의심" --> CholTrial["Cholestyramine<br/>empiric trial"]
-    BAMFirst -- "기능성 의심" --> Functional["IBS-D / Functional diarrhea<br/>복통 → IBS-D<br/>복통 없음 → FD"]
-    BAMFirst -- "BAM·기능성 모두 아님" --> Secretory2["기타 분비성 평가<br/>하제 남용·내분비종양 등<br/>내분비종양 검사는 고유량 난치성일 때"]
-    OsmoGap -- "50~100 (혼합형)" --> MixedEval["식이 조정 + 분비성 평가<br/>병행 시행"]
-    OsmoResult -- "호전" --> OsmoDx["탄수화물 불내성<br/>(유당·과당·FODMAP)"]
-    OsmoGap -- ">100 (삼투압성)" --> OsmoDx
-classDef white fill:#fff,stroke:#333
-class A,B,C white
-style Phenotype fill:#d5f5e3,stroke:#27ae60,stroke-width:2px
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class MalabsDx,OsmoDx,MixedEval,CholTrial,Functional blue
-classDef pink fill:#fde8f0,stroke:#e91e8c
-class IBDRef pink
-classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class Secretory2,Malabs,WateryDD lightGreen
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class OsmoDD sky
+    Phenotype["변 양상·약물·수술력"] --> A["지방변·체중감소"]
+    A --> Malabs["반고형변 fecal elastase<br/>필요 시 대변 지방·소장 검사"]
+    Phenotype --> Watery["만성 수양성 설사"]
+    Watery --> Initial["Giardia 항원/PCR·calprotectin<br/>셀리악 선별·약물/식이 검토"]
+    Initial --> Alarm{"경고 징후·염증 지표 상승<br/>또는 microscopic colitis 의심?"}
+    Alarm -->|있음| Scope["의뢰·대장내시경<br/>정상 점막도 좌·우측 생검"]
+    Alarm -->|없음| Risks{"담낭·회장 수술력<br/>식이와의 연관·증상 양상"}
+    Risks --> BAD["BAD 평가<br/>검사 불가 시 선택적 치료시험"]
+    Risks --> Diet["유당·당류 제한 시험<br/>2~4주 반응 평가"]
+    Risks --> Functional["Rome V에 따라<br/>기능성 설사·IBS-D 평가"]
+    BAD --> Review["무반응·진단 불명 시 재평가"]
+    Diet --> Review
+    Functional --> Review
+    Review --> Extra["원인 불명 다량 수양성일 때<br/>대변 Na/K·osmotic gap 등 선택"]
+    Extra --> Referral["혼합 기전·드문 원인 포함<br/>소화기내과 평가"]
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class OsmoResult,OsmoGap,BAMFirst,MCRisk,FCResult yellow
+class Alarm,Risks yellow
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class Initial,BAD,Diet,Functional,Extra blue
+style Scope fill:#fde8f0,stroke:#e91e8c
 ```
+
 
 <p align="center"><strong>만성 설사 진단 알고리듬</strong></p>
 
@@ -256,8 +250,8 @@ class OsmoResult,OsmoGap,BAMFirst,MCRisk,FCResult yellow
 * "밤에도 깨서 설사" → 기능성보다 기질성 가능성↑ → microscopic colitis / BAM 평가
 * "정상 내시경인데 계속 물설사" → microscopic colitis 놓치기 쉬움; random biopsy 필수
 * "담낭절제 후 지속 설사" → BAD를 주요 원인으로 고려; 객관적 검사가 어려우면 cholestyramine trial 고려
-* "복통 없는 만성 묽은 변" → functional diarrhea 가능 (IBS-D와 구분)
-* "반복 복통이 핵심" → IBS-D → gut-brain modulation 접근
+* "복통 없는 만성 묽은 변" → 기능성 설사 가능하나 반복적 복부 불편감과 배변의 관계도 확인하여 Rome V에 따라 IBS-D와 감별
+* "배변 이상과 연관된 반복 복통·불편감" → IBS-D 기준 평가 → gut-brain modulation 접근
 * "고령 여성 + 비혈성 수양성·야간 설사 + 정상 내시경" → microscopic colitis 적극 고려; 좌·우측 결장 조직검사
 * "olmesartan 복용 중 + 심한 흡수 장애" → olmesartan enteropathy 의심; 대체 약제를 고려하며 중단
 {% endhint %}
@@ -269,7 +263,7 @@ class OsmoResult,OsmoGap,BAMFirst,MCRisk,FCResult yellow
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 질환 치료 : 감염, IBD, 췌장 기능 부전, 갑상선 기능 항진 등 기저 원인 교정 - 기전을 규명하지 않은 채 대증 치료에만 의존하지 말 것
-* 경고 징후 없고 기능성 설사/IBS 진단 기준 충족 시 진단적 치료 시행
+* 경고 징후 없이 기본 평가 후 기능성 설사/IBS로 판단되면 증상에 맞춘 치료 시행
 * 탈수 관리·영양 공급 : 경증은 물과 식사를 병행하고, 의미 있는 수분·전해질 소실에는 적절한 조성의 ORS 사용; 고당분 스포츠음료는 ORS를 대체하지 못함
 * 유발 식품 회피 (음식 일기 작성 권고)
   * 유당 불내성 → lactose-free 식이; lactase 보충제 고려
@@ -299,8 +293,8 @@ class OsmoResult,OsmoGap,BAMFirst,MCRisk,FCResult yellow
 
 * 작용 : 장 운동 지연, 장 분비 감소
 * 대상 : 비특이적 만성 설사 대증 치료; 기능성 설사·IBS-D urgency 증상에 유용
-* 발열·혈변을 동반한 급성 침습성 감염, 중증 _C. difficile_ 감염, 급성 중증 대장염 또는 toxic megacolon 위험이 있으면 사용하지 않음
-* loperamide : 2 ㎎ qd\~qid로 시작하여 반응에 따라 조절 <mark style="color:blue;">\[로프민]</mark>; 국내 허가사항의 1일 최대용량 확인
+* 발열·혈변을 동반한 급성 침습성 감염, _C. difficile_ 감염 의심 또는 확진, 급성 중증 대장염 또는 toxic megacolon 위험이 있으면 사용하지 않음
+* loperamide : 2 ㎎ qd\~qid로 시작하여 반응에 따라 조절 <mark style="color:blue;">\[로프민]</mark>; 국내 성인 허가상 최대 16 ㎎/일이며 만성 설사는 최저 유효 유지용량으로 개별 조절(급성 자가 치료의 8 ㎎/일 한도와 구분)
   * 만성 기능성 설사에서는 식전 규칙 복용(scheduled dosing, 예: 식전 30분)이 urgency 예방에 도움이 될 수 있으나 변비가 발생하면 감량
 * diphenoxylate : 2.5\~5 ㎎ tid\~qid <mark style="color:blue;">\[로모틸]</mark>
 
@@ -311,10 +305,11 @@ IBS-D는 단순 설사 억제보다 장-뇌 축 조절 및 복통 완화에 초�
 Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phenotype에서는 효과 제한적.
 {% endhint %}
 
-* ondansetron (5-HT₃ 차단제) : 4 ㎎ prn\~bid <mark style="color:blue;">\[조프란]</mark>
+* ondansetron (5-HT₃ 차단제) : 4 ㎎ prn\~bid <mark style="color:blue;">\[조프란]</mark> (IBS-D에는 국내 허가 외 사용; 급여 여부는 별도 확인)
   * 장 통과시간 지연 → urgency·묽은 변 개선; IBS-D에서 RCT 근거 있음
 * 저용량 TCA : 복통 + urgency 동반 IBS-D에 유용; 진통·장 운동 억제·수면 개선 복합 효과
   * amitriptyline : 10\~25 ㎎ hs <mark style="color:blue;">\[에트라빌]</mark>
+  * 고령에서는 항콜린 부작용·기립성 저혈압·심독성 때문에 가능한 회피; 심혈관 질환·전립선비대/요폐·협우각 녹내장 및 다른 항콜린 약물 병용에 주의
 
 {% hint style="danger" %}
 **QT 연장 주의 - ondansetron + TCA 병용 시** : Ondansetron과 amitriptyline 모두 QT 간격 연장 가능성이 있으며, SSRI 병용 시 위험이 증가함. 고령 환자, 전해질 이상(저칼륨·저마그네슘), 기존 QT 연장 병력이 있는 경우 심전도 모니터링을 고려
@@ -326,7 +321,9 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 * rifaximin : bloating prominent IBS-D에서 고려; IBS-D의 대표 임상시험 용법은 550 ㎎ tid × 14일이나 국내 550 ㎎ 정제가 없어 200 ㎎ 정제를 이용한 용법은 근거·허가·보험이 동일하지 않음 <mark style="color:blue;">\[노르믹스]</mark>
   * 국내 허가 외 사용 및 급여 제한을 설명하고, post-infectious IBS를 별도 확립 적응증으로 간주하지 않음
 
-* ramosetron (5-HT₃ 차단제) : 국내 허가된 IBS-D 치료 옵션 <mark style="color:blue;">\[이리보]</mark>; 성별 허가 용량과 최신 허가사항을 확인하여 적용 (☞ [IBS](087_-irritable-bowel-syndrome.md))
+* ramosetron (5-HT₃ 차단제) : 국내 허가된 IBS-D 치료 옵션 <mark style="color:blue;">\[이리콜·이리스탑·이리퀵]</mark>
+  * 성인 남성 5 ㎍ qd(2.5\~10 ㎍/일), 성인 여성 2.5 ㎍ qd(불충분 시 최대 5 ㎍/일). 항구토용 0.1 ㎎(100 ㎍) 제형과 구분
+  * 변비·굳은 변 발생 시 감량·휴약·중단을 고려하고, 새로 발생한 복통·혈변은 중단 후 허혈성 대장염 평가 (☞ [IBS](087_-irritable-bowel-syndrome.md))
 
 ### <mark style="color:orange;">α-2 Adrenergic agonist</mark>
 
@@ -340,16 +337,17 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 
 * 작용 : 장 내 fluid·전해질 흡수 자극, GI peptides 분비 억제
 * 대상 : carcinoid syndrome, VIPoma 등 신경내분비종양 관련 설사; 화학요법 관련 난치성 설사·위 절제술 후 덤핑증후군에서는 전문의가 제한적으로 고려
-* octreotide 속효성 주사 : 초기 50 ㎍ SC qd\~bid, 반응에 따라 최대 200 ㎍ tid까지 개별 조절 <mark style="color:blue;">\[산도스타틴 주]</mark> ([보험 주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190301\&sno=2\&mtgMtrRegSno=10\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y))
+* octreotide 속효성 주사 <mark style="color:blue;">\[산도스타틴 주]</mark> : 적응증별로 전문의가 SC 분할 용량을 조절. 예: carcinoid 관련 설사는 100~600 ㎍/일을 2~4회 분할, VIPoma는 통상 200~300 ㎍/일을 2~4회 분할하여 시작하는 해외 허가 용법이 있으며 반응·내약성에 따라 개별 조절; 모든 난치성 설사에 같은 시작·최대용량을 적용하지 않음
   * <mark style="color:blue;">\[산도스타틴 라르 주]</mark>는 장기지속형 심부 IM 제제로 통상 4주 간격 투여하며 SC tid 용법과 혼용하지 않음
 
 ### <mark style="color:orange;">Bile acid-binding resin</mark>
 
-* 대상 : 담즙산 흡수 장애(BAM) - 담낭절제술 후, terminal ileum 절제 후, 특발성 BAD
+* 대상 : 담즙산 설사(BAD) - 담낭절제술 후, 제한된 terminal ileum 질환·절제 후, 특발성 BAD
+  * 광범위 회장 절제·질환으로 담즙산 풀이 고갈되고 지방변이 있는 경우 담즙산 결합제가 지방변·열량 소실을 악화시킬 수 있어 전문의와 결정
 * 국내에서는 SeHCAT·혈청 C4 접근이 어려워 empiric trial이 현실적이며 1\~2주 내 반응을 확인할 수 있음; 무반응만으로 BAD를 배제하지 않음
 * cholestyramine : 4 g 1포 qd\~qid (식사와 함께) <mark style="color:blue;">\[퀘스트란 현탁용산]</mark>
   * 소량(1포 qd)에서 시작 → 증상에 따라 증량
-  * 다른 약물과 4\~6시간 간격 복용 필수 (약물 흡착 방해)
+  * 다른 경구약을 cholestyramine 복용 최소 1시간 전 또는 4~6시간 후에 복용 (흡착에 의한 흡수 저하 방지)
   * 부작용 : 복부 팽만, 변비
 * colesevelam : cholestyramine 불내성 시 대체 가능하나 국내 허가·유통 여부를 최신 의약품 정보에서 확인
 
@@ -357,8 +355,8 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 
 * 대상 : 소장 세균 과증식
 * rifaximin : 흡수가 적어 흔히 우선 고려하지만 근거의 질이 높지 않고 연구마다 용량·기간이 다양함. 위험 인자와 진단 근거 없이 경험적으로 반복하지 않음
-  * 200 ㎎ 2T tid (1,200 ㎎/d) × 14일 <mark style="color:blue;">\[노르믹스]</mark>
-  * [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=418\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : 급성장염 혹은 장내세균상의 이상으로 인한 설사에 타 약제 투여로 증상이 호전되지 않는 환자
+  * 200 ㎎ 2T tid (1,200 ㎎/d) × 14일 <mark style="color:blue;">\[노르믹스]</mark>; SIBO에는 국내 허가 외 사용이며 최적 용량·기간은 확립되지 않음
+  * [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20130901\&sno=1\&mtgMtrRegSno=418\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y) : 인용된 과거 기준은 급성장염 혹은 장내세균상의 이상으로 인한 설사에 타 약제 투여로 증상이 호전되지 않는 환자에 관한 것. SIBO의 14일 치료에 급여가 자동 적용되는 의미는 아니며 처방 시 현행 기준을 별도로 확인
   * 재발 시 진단과 원인을 재평가한 뒤 반복 치료를 고려하며, 장 운동 장애·해부학적 이상 교정이 재발 방지의 핵심
 * ciprofloxacin·metronidazole 등 전신 항생제는 내성, _C. difficile_ 감염, fluoroquinolone 중대 이상반응 및 metronidazole 누적 신경독성을 고려하여 routine 대체제로 사용하지 않음
 
@@ -367,19 +365,21 @@ Loperamide 단독은 urgency·묽은 변에 효과적이나 복통 dominant phen
 * 대상 : 조직검사로 확진된 collagenous/lymphocytic colitis
 * 발병과 시간적 연관성이 의심되는 약물(NSAID, PPI, SSRI 등)을 확인하고 적응증·대체 가능성을 검토하여 중단 또는 교체; 모든 환자에서 일률적 동시 중단이 필수인 것은 아님
 * budesonide : 1차 선택; 9 ㎎ qd × 6\~8주. 유도요법 후 일률적 감량은 필요하지 않으며, 재발 여부에 따라 유지요법을 결정
-  * <mark style="color:blue;">\[엔토코트]</mark> 3 ㎎ × 3C qd (아침 식전)
-  * <mark style="color:blue;">\[타미코트]</mark> 9 ㎎ × 1T qd (아침 식전) ([보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20220701\&sno=3\&mtgMtrRegSno=5\&brdScnBltNo=4\&brdBltNo=\&isPopupYn=Y))
+  * 경구 budesonide의 장용·방출 제형을 사용하며, 조직검사 확진 후 소화기내과에서 선택. 서로 다른 방출 제형·관장제·흡입제를 용량만으로 대체하지 않음
+  * Microscopic colitis에 대한 임상 권고와 국내 제형별 허가·급여는 구분; 크론병·궤양성 대장염의 급여기준을 그대로 적용하지 않음
+  * <mark style="color:$info;">근거: UEG·European Microscopic Colitis Group 2021.</mark>
   * 중단 후 재발이 흔하며(최대 약 70% 보고), 재발 환자는 최저 유효용량(예: 3 ㎎/d 또는 격일) 유지 고려
 * bismuth subsalicylate : budesonide를 사용할 수 없는 일부 환자에서 제한적으로 고려할 수 있으나 근거가 매우 부족하여 routine 치료로 권하지 않음
-  * 소규모 연구 용법은 262 ㎎ 3정 tid 또는 하루 8\~9정 × 약 8주였으며, 급성 설사의 30분\~1시간 간격 용법과 혼동하지 않음
-  * 고용량·장기 사용 시 salicylate 독성, 이명, 신기능 및 항응고제·항혈소판제 병용 주의 <mark style="color:blue;">\[펩토무스현탁액]</mark>
+  * Microscopic colitis에는 국내 허가 외 사용. 해외 262 ㎎ 정제를 이용한 소규모 연구 용법은 1회 3정 tid 또는 하루 8\~9정 × 약 8주였으며, 전문의가 제한적으로 검토하는 요법으로 자가사용에 적용하지 않음
+  * 국내 급성 설사 현탁액의 최대 2일 용법과 구분하며, 해외 정제의 정 수를 국내 제형에 그대로 대입하지 않음
+  * 고용량·장기 사용 시 salicylate 독성·이명에 주의. 신기능 저하 환자는 자가사용을 피하고 전문의와 상의하며, 항응고제·항혈소판제 병용 및 출혈 위험을 평가
 
 ### <mark style="color:orange;">Fiber supplement</mark>
 
 * 대상 : 소량의 물 설사, 대변실금 동반 기능성 설사
 * 작용 : 수용성 식이섬유 → 장 내용물 점도↑ → 대변 수분 흡수↑
 * psyllium 10\~20 g/d (충분한 수분과 함께) <mark style="color:blue;">\[무타실]</mark>
-* polycarbophil 5 g/d <mark style="color:blue;">\[웰콘]</mark>
+* calcium polycarbophil : 1.25~2.5 g/d에서 시작하여 반응에 따라 증량, 최대 5 g/d <mark style="color:blue;">\[웰콘]</mark>; 처음부터 최대용량을 일률적으로 투여하지 않음
 
 ### <mark style="color:orange;">Probiotics</mark>
 
@@ -419,7 +419,7 @@ R19.7 상세불명의 설사
 > ※ 고령·다제 병용 시 QT 연장 위험 모니터링
 > ```
 >
-> _✽복통이 핵심이면 IBS-D로 접근; gut-brain modulation 병행 설명. ondansetron 무반응 시 low-dose amitriptyline 또는 antispasmodics 추가 고려._
+> _✽반복적 복통·복부 불편감과 배변 이상이 연관되면 Rome V에 따라 IBS-D를 평가; gut-brain modulation 병행 설명. ondansetron 무반응 시 low-dose amitriptyline 또는 antispasmodics 추가 고려._
 
 > **처방례 2. IBS-D (반복 복통·cramping 동반)**
 >
@@ -427,7 +427,8 @@ R19.7 상세불명의 설사
 > 두스파탈린 135 ㎎/T  1T  tid (식전 20분)
 > 에트라빌 10 ㎎/T      1T  hs
 > ※ TCA는 진통·장 운동 억제·수면 개선 복합 효과
-> ※ 항콜린 부작용(구강건조·변비) 주의; 10 ㎎에서 시작
+> ※ 항콜린 부작용(구강건조·변비·요폐), 기립성 저혈압·심독성에 주의; 10 ㎎에서 시작
+> ※ 고령에서는 amitriptyline을 가능한 회피하고 대안 검토; 전립선비대·협우각 녹내장·다른 항콜린 약물 병용 주의
 > ※ SSRI 병용 시 QT 연장 및 세로토닌 증후군 위험 모니터링
 > ```
 >
@@ -438,7 +439,7 @@ R19.7 상세불명의 설사
 > ```
 > 퀘스트란 현탁용산 4 g/포  1포  qd (식사와 함께)
 > ※ 시작 시 소량(1포 qd); 증상에 따라 bid~tid 증량
-> ※ 다른 약물과 4~6시간 간격 복용 필수
+> ※ 다른 경구약은 퀘스트란 복용 최소 1시간 전 또는 4~6시간 후 복용
 > ```
 >
 > _✽담낭절제술 후 설사는 일부에서 자연 호전하지만 지속 기간은 다양함. 지속 시 cholestyramine empiric trial을 고려하며, 불내성 시 국내 허가·유통 여부를 확인한 뒤 colesevelam 등 대안을 검토._
@@ -447,7 +448,8 @@ R19.7 상세불명의 설사
 >
 > ```
 > 노르믹스정 200 ㎎/T  2T  tid  × 14일 (총 1,200 ㎎/d)
-> ※ 식사와 함께 복용
+> ※ 식사와 무관하게 복용 가능
+> ※ SIBO에는 국내 허가 외 사용이며, 급여가 자동 인정되는 것은 아님; 현행 기준 확인
 > ※ 재발 시 진단과 원인을 재평가한 뒤 반복 치료 고려
 > ※ 국내 550 mg 정제 없음; 노르믹스 200 mg 기준 처방
 > ```
@@ -457,8 +459,8 @@ R19.7 상세불명의 설사
 > **처방례 5. Microscopic colitis (중등증)**
 >
 > ```
-> 엔토코트 서방캡슐 3 ㎎/캡  3캡  qd (아침 식전)  × 8주
-> 또는 타미코트 서방정 9 ㎎/T  1T  qd (아침 식전)  × 8주
+> 경구 budesonide 장용·방출 제형   총 9 ㎎   qd   × 6~8주
+> ※ 소화기내과에서 조직검사 확진 후 실제 경구 제형과 허가 외 사용·급여 여부를 확인하여 선택
 > ※ 6~8주 유도요법 후 일률적 감량은 필요하지 않음
 > ※ 발병과 시간적 연관성이 의심되는 NSAID·PPI·SSRI는 적응증과 대체 가능성을 검토하여 중단 또는 교체
 > ※ 중단 후 재발 시 최저 유효용량(예: 3 mg/d 또는 격일) 유지요법 고려
@@ -485,10 +487,10 @@ R19.7 상세불명의 설사
 > **cholestyramine(퀘스트란)에 대해**
 >
 > * 식사와 함께 복용하십시오. 충분한 물에 녹여서 드십시오.
-> * **다른 약물과 최소 4\~6시간 간격**을 두고 복용하십시오. 이 약은 다른 약물의 흡수를 방해할 수 있습니다(특히 갑상선약, 혈압약, 이뇨제).
+> * **다른 먹는 약은 퀘스트란 복용 최소 1시간 전 또는 4~6시간 후에** 복용하십시오. 이 약은 다른 약물의 흡수를 방해할 수 있습니다(특히 갑상선약, 혈압약, 이뇨제).
 > * 복부 팽만이나 가스가 생길 수 있습니다. 처음에 소량부터 시작하여 천천히 늘리십시오.
 
-> **budesonide(엔토코트/타미코트)에 대해**
+> **경구 budesonide에 대해**
 >
 > * 이 약은 주로 장에서 작용하고 전신 노출이 비교적 적은 스테로이드이지만, 전신 부작용이 전혀 없는 것은 아닙니다. 의사 지시 없이 임의로 중단하지 마십시오.
 > * 6\~8주 유도요법 후에는 의사의 지시에 따라 종료할 수 있으며, 모든 환자에서 반드시 서서히 감량하는 것은 아닙니다. 장기간 복용 중인 경우에는 임의로 중단하지 마십시오.
@@ -544,3 +546,43 @@ R19.7 상세불명의 설사
 * **6개월 안에 체중이 5% 이상** 줄어드는 경우
 * 밤에 자다가 깰 정도로 심한 설사가 지속되는 경우
 * 심한 어지러움, 입 마름, 소변 감소 (탈수 증상)가 동반되는 경우
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* <mark style="color:$info;">BSG. Guidelines for the investigation of chronic diarrhoea in adults, 3rd edition. Gut. 2018. — 단계적 만성 설사 검사</mark>
+
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC6204957/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6204957/)
+
+* <mark style="color:$info;">AGA. Laboratory evaluation of functional diarrhea and IBS-D in adults. 2019. — Giardia·셀리악병·염증 지표·BAD 평가</mark>
+
+[https://gastro.org/clinical-guidance/laboratory-evaluation-of-functional-diarrhea-and-diarrhea-predominant-irritable-bowel-syndrome-in-adults-ibs-d/](https://gastro.org/clinical-guidance/laboratory-evaluation-of-functional-diarrhea-and-diarrhea-predominant-irritable-bowel-syndrome-in-adults-ibs-d/)
+
+* <mark style="color:$info;">Rome Foundation. Rome V Criteria. 2026. — 기능성 설사·IBS의 진단 개정; 본문은 핵심 내용 요약</mark>
+
+[https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+
+* <mark style="color:$info;">AGA. Clinical Practice Update on Exocrine Pancreatic Insufficiency. 2023. — fecal elastase 검체·판정 구간</mark>
+
+[https://gastro.org/clinical-guidance/epidemiology-evaluation-management-exocrine-pancreatic-insufficiency/](https://gastro.org/clinical-guidance/epidemiology-evaluation-management-exocrine-pancreatic-insufficiency/)
+
+* <mark style="color:$info;">UEG·European Microscopic Colitis Group. European guidelines on microscopic colitis. 2021. — 좌·우측 생검, budesonide 유도·유지요법</mark>
+
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC8259259/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8259259/)
+
+* <mark style="color:$info;">Canadian Association of Gastroenterology. Clinical Practice Guideline on the Management of Bile Acid Diarrhea. 2020. — 담즙산 결합제와 광범위 회장 절제의 예외</mark>
+
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC6985689/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6985689/)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* <mark style="color:$info;">식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회</mark>
+
+[https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* <mark style="color:$info;">건강보험심사평가원. 약제·검사 급여기준 및 의약품 정보 — 임상 권고와 국내 허가·급여를 구분하여 적용</mark>
+
+[https://www.hira.or.kr](https://www.hira.or.kr)
