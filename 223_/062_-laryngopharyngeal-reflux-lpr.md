@@ -4,11 +4,12 @@
 
 * LPR은 위·십이지장 내용물이 상부 식도 괄약근보다 위쪽으로 역류하여 인두·후두에 증상 또는 병변을 일으키는 상태를 말함
 * 그러나 쉰 목소리, 목 청소, 만성 기침, 인두 이물감 등은 비특이적이므로, 증상만 있는 단계에서는 이를 곧바로 LPR로 확진하지 않고 여러 기전이 관여하는 만성 인후두 증상군으로 접근
-* LPR에 통일된 진단 기준과 확진검사가 없어 실제 유병률은 알려져 있지 않음
+* LPR의 진단 기준·검사 해석에는 학회 간 차이가 있고 단일 확진검사가 없어 실제 유병률은 불확실
+* 용어 구분 : 인후두 증상(LPS)은 역류 외 여러 원인으로 발생할 수 있는 증상군이며, 인후두역류질환(LPRD)과 동의어가 아님. San Diego 합의문은 만성·빈번한 LPS를 8주 이상, 주 2회 이상으로 정의하지만, 쉰 목소리가 4주 이내 호전되지 않으면 별도로 후두경 평가 <mark style="color:$info;">\[San Diego 합의문 2026]</mark>
 * 전형적인 가슴쓰림·산 역류 없이 인후두 증상만 나타날 수 있으나, 활동 시·야간 또는 직립·앙와위 역류가 모두 가능하므로 LPR과 GERD를 체위만으로 구분할 수 없음
 
 {% hint style="info" %}
-산 역류와 후두 증상 사이의 인과 관계를 보여 주는 확실한 증거가 없으며, LPR은 알려진 것보다 흔하지 않을 수 있다는 주장이 있음. 전형적 GERD 증상이 없는 LPR에서 PPI 치료 효과는 제한적이며, 위약 대비 유의한 차이가 없다는 연구 결과들이 있음
+개별 환자의 후두 증상이 역류 때문인지 증상만으로 확정하기 어려움. 특히 객관적 역류 근거 없이 지속성 인후 증상만으로 선정한 환자군에서는 PPI가 위약보다 우월하지 않았으며, 이 결과를 객관적으로 확인된 모든 GERD/LPRD 환자에게 동일하게 적용하지 않음
 {% endhint %}
 
 ## <mark style="color:green;">원인 및 기전</mark>
@@ -29,9 +30,9 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 쉰 목소리 또는 발성 장애 (⅔ 이상에서 발생)
-* 가래가 없는 만성 기침 또는 목 청소 (throat clearing) (½에서 발생)
-* 가슴쓰림 (⅓에서 발생)
+* 쉰 목소리 또는 발성 장애
+* 가래가 없는 만성 기침 또는 목 청소 (throat clearing)
+* 가슴쓰림·산 역류가 동반될 수 있으나 없을 수도 있음
 * 인두 이물감 (globus sensation), 인후통, 목의 점액감
 * 삼킴곤란이 동반될 수 있으나, 진행성 연하 곤란·연하 통증은 경고 증상으로 평가
 
@@ -39,7 +40,7 @@
 **RSI (Reflux Symptom Index)** : 9개 증상(쉰 소리, 목 청소, 가래, 삼킴곤란, 식후 기침, 호흡 장애, 성가신 기침, 인두 이물감, 가슴쓰림/역류/소화불량)을 각 0점(문제없음)\~5점(극심함)으로 합산. 통상 >13을 비정상으로 보았으나 특이도가 낮으므로, LPR 진단이나 역류검사 필요 여부를 결정하는 절단점으로 사용하지 않고 증상 부담과 치료 전후 변화를 추적하는 데 참고
 {% endhint %}
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 이송 또는 응급 조치**</mark>
 
@@ -47,15 +48,15 @@
 * 대량 객혈, 저산소증 또는 혈역학적 불안정을 동반한 객혈
 * 음식물·침도 삼키기 어렵거나 흡인·탈수 위험이 있는 급성 중증 삼킴곤란
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일～수일 내 평가**</mark>
 
 * 4주 이상 호전되지 않는 쉰 목소리 → 후두경 검사; 흡연·과음, 경부 종괴, 두경부암 병력, 최근 삽관·경부 수술 등 고위험 단서가 있으면 4주를 기다리지 않고 조기 의뢰
 * 진행성 연하 곤란 (progressive dysphagia) 또는 연하 통증(odynophagia)
-* 원인 불명의 체중 감소, 토혈·흑색변 또는 빈혈
+* 원인 불명의 체중 감소 또는 빈혈; 토혈·흑색변은 당일 평가하고, 지속 출혈·실신·저혈압이 동반되면 즉각 이송
 * 정상 귀 진찰 소견을 보이는 원인 불명의 일측성 이통(unilateral otalgia, referred pain), 지속성 또는 일측성 인후통, 경부 종괴
 * 소량이라도 원인 불명의 객혈이 반복되거나 지속되는 경우
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 비역류성 원인을 평가하고 적절히 관리했는데도 증상이 지속 또는 재발하는 경우
 * 객관적 GERD 근거 없이 PPI에 장기 의존하거나 한 차례 적절한 치료에도 반응하지 않는 경우
@@ -72,7 +73,8 @@
 * 상부위장관내시경 : 삼킴곤란, 체중 감소, 토혈·흑색변, 빈혈 등 경고 증상이 있으면 우선 시행. 정상 내시경은 GERD를 배제하지 못하고, 식도염만으로 인후두 증상과의 인과관계를 확정하지 못함
 * 보행성 역류검사 : 객관적 GERD가 확인되지 않은 단독 인후두 증상에서는 원칙적으로 PPI 중단 상태에서 시행. 장시간 무선 pH 검사와 24시간 pH-impedance 중 최적 검사법 및 LPR 특이 절단점은 아직 확립되지 않음
 * 24시간 pH-impedance : 산성·약산성·비산성 역류 및 액체·가스 역류를 평가할 수 있음. 이미 객관적 GERD가 확인되었으나 고용량 산 억제 중에도 증상이 지속될 때에는 치료 중 검사를 선택적으로 고려
-* 하인두 센서를 포함한 HEMII-pH/dual-sensor 검사는 인두 역류를 직접 포착할 수 있다는 장점이 있으나, 정상 참고치·판독 일치도·증상 연관성에 논란이 있어 확정적 gold standard로 단정하지 않음
+* HEMII-pH(하인두·식도 다채널 임피던스-pH) : 하인두로 도달하는 역류를 평가할 수 있으나 정상 참고치·판독 일치도·임상적 절단점에는 논란이 있음. 유럽 합의문은 gold standard로 제시하지만 San Diego 합의문은 검사별 장단점과 역류 횟수 절단점의 불확실성을 강조하므로, 보편적으로 확립된 단일 gold standard로 단정하지 않음 <mark style="color:$info;">\[유럽 합의문; San Diego 합의문]</mark>
+* pH 센서만 사용하는 dual-sensor pH 검사는 임피던스를 포함한 HEMII-pH와 동일하지 않으며, 약산성·비산성 역류의 평가 능력도 구분해야 함
 * 타액 pepsin 검사와 oropharyngeal pH 검사는 현재 routine 진단검사로 권고하지 않음
 * 경험적 치료 반응은 진단을 확정하지 못하며, 무반응이면 약제 증량보다 진단 재평가를 우선
 
@@ -91,30 +93,29 @@
 
 ```mermaid
 graph TD
-A([인후두 증상<br/>쉰 목소리·만성 기침<br/>·인두 이물감·목 청소]) --> B[Red Flags?]
-B -->|응급| C["즉각 이송·응급 조치<br/>기도 폐쇄·대량 객혈 등"]
-B -->|조기 평가 필요| D["신속 의뢰<br/>후두경·필요 시 위내시경"]
-B -->|없음| E["비-reflux 원인 우선 평가<br/>비염·천식·ACEi·흡연<br/>음성 과사용·EoE 등"]
-E --> F{전형적 GERD 증상?}
-F -->|있음| G["생활습관 교정<br/>표준 용량 PPI qd 8~12주<br/>필요 시 bid 증량 ± alginate"]
-F -->|없음| H["생활습관 교정<br/>선택적 alginate<br/>이비인후과 평가"]
-H --> I["가능하면 산 억제제 투여 전<br/>보행성 역류검사 고려"]
-G --> J{치료 반응?}
-I --> J
-J -->|호전| K["최저 유효 치료 유지<br/>적응증 재평가 후 감량·중단"]
-J -->|미호전| L["순응도·복용법 확인<br/>진단 재평가"]
-L --> M["이비인후과·소화기 협진<br/>객관적 역류검사<br/>후두 과민·기능성 질환 평가"]
-
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#f39c12
-class B,F,J yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class E,G,H,I,K sky
-style L fill:#d0e8ff,stroke:#1a6abf
-    style C fill:#ffcccc,stroke:#cc0000,stroke-width:2px
+    A["인후두 증상"] --> B{"Red Flags?"}
+    B -->|응급| C["즉각 이송 또는 응급 조치"]
+    B -->|조기 평가 필요| D["신속한 후두경 또는 위내시경 평가"]
+    B -->|없음| E["비역류성 원인 평가와 생활습관 교정"]
+    E --> F{"전형적 GERD 증상?"}
+    F -->|있음| G["PPI trial, 부분 반응 시 복용법 확인 후 bid 최적화"]
+    G --> H{"계획된 약 8~12주 평가에서 반응?"}
+    H -->|호전| I["최저 유효 치료, 유지 적응증 재평가"]
+    H -->|불충분| J["진단 재평가와 전문과 협진"]
+    F -->|없음| K["후두 평가, 산 억제제 전 객관적 역류검사 우선 고려"]
+    K --> L["미확진 GERD는 원칙적으로 산 억제제 중단 상태에서 검사"]
+    J --> R{"객관적 GERD 확진 여부?"}
+    R -->|미확진| L
+    R -->|확진| Q["고용량 치료 중 지속 증상은 치료 중 pH-impedance 선택적 고려"]
+    L --> M{"병적 역류 근거?"}
+    M -->|확인| N["GERD 치료, 인후두 증상은 별도 추적"]
+    M -->|없음| O["비역류성 원인과 후두 과민, 음성 및 기침 행동치료"]
+    M -->|경계 또는 불확실| P["임상상과 검사 결과를 전문과에서 종합"]
+    Q --> P
+    style C fill:#ffcccc,stroke:#cc0000
     style D fill:#fff3e0,stroke:#e65100
-    style M fill:#fff3e0,stroke:#e65100
-
+    style N fill:#e3f2ff,stroke:#2196f3
+    style O fill:#e3f2ff,stroke:#2196f3
 ```
 
 <p align="center"><strong>인후두역류 진단 및 치료 알고리듬</strong></p>
@@ -127,8 +128,8 @@ style L fill:#d0e8ff,stroke:#1a6abf
 
 * 생활습관 교정과 식이 조정을 우선 시행하되, 근거가 제한적임을 설명하고 환자별 증상 유발 요인에 맞춰 적용
 * 단독 인후두 증상에는 산 억제제를 routine으로 시작하지 않고 비-reflux 원인 평가 및 가능하면 객관적 역류검사를 우선 고려
-* 전형적 GERD 증상이 동반되면 표준 용량 PPI 1일 1회로 시작하여 8\~12주 평가하고, 반응이 불충분할 때 복용법·순응도를 확인한 뒤 필요 시 1일 2회로 증량
-* 한 차례 적절한 PPI trial에도 반응이 없으면 다른 PPI·P-CAB로 반복 교체하거나 고용량을 지속하기보다 진단 재평가 및 객관적 검사를 우선
+* 전형적 GERD 증상이 동반되면 표준 용량 PPI 1일 1회로 시작할 수 있으며, 초기 경과에서 부분 반응이면 복용법·순응도 확인 후 필요 시 1일 2회로 최적화. 계획된 약 8\~12주 평가 기간 내 반응을 판정하고, 1일 1회 8\~12주 후 다시 1일 2회 장기 trial을 자동으로 반복하지 않음
+* 한 차례 적절한 PPI trial에도 반응이 없으면 다른 PPI·P-CAB로 반복 교체하거나 고용량을 지속하기보다 진단 재평가 및 객관적 검사를 우선. 별도의 GERD 유지치료 적응증이 없으면 감량·중단을 고려하며, 확진된 식도 질환의 치료는 인후두 증상 반응과 구분하여 판단
 
 ### <mark style="color:orange;">치료 불응 시 고려할 기전 및 감별진단</mark>
 
@@ -146,8 +147,8 @@ PPI routine 사용을 피할 상황 : isolated throat symptom만 있는 경우 /
 #### <mark style="color:$primary;">진단·치료 시 흔한 오류</mark>
 
 * 인후두 증상이 있으면 무조건 PPI 시작 → 비-reflux 원인을 먼저 배제할 것
-* PPI 실패 시 증량만 반복 → 반응 없으면 중단 후 진단 재평가
-* RSI 점수만으로 LPR 진단 → RSI는 선별 도구; 진단 기준 아님
+* PPI 실패 시 증량만 반복 → 진단 재평가 및 객관적 검사; 별도의 GERD 유지치료 적응증이 없으면 감량·중단 고려
+* RSI 점수만으로 LPR 진단 → RSI는 증상 부담·치료 전후 변화 평가 도구이며, 진단·역류검사 필요 여부를 결정하는 도구가 아님
 * 후두경 소견(RFS)을 과신 → 특이도 낮음; 단독 진단 근거 불가
 * Muscle tension dysphonia, laryngeal hypersensitivity 등 비-reflux 원인을 간과
 * PPI 반응을 LPR 확진으로 해석 → 자연 경과·위약 효과·다른 기전에 의한 호전 가능
@@ -180,20 +181,21 @@ PPI routine 사용을 피할 상황 : isolated throat symptom만 있는 경우 /
 
 #### <mark style="color:$primary;">Alginate 제산제</mark>
 
-* 국내 허가 용법은 성인 및 12세 이상에서 일반적으로 1회 10\~20 ㎖, 1일 4회(식후 및 취침 전); 제품별 허가사항 확인
-* alginate 함유 제산제 (예 : 가비스콘 <mark style="color:blue;">\[가비스콘]</mark>) : 위 내용물 표면에 물리적 장벽(raft) 형성 → acid pocket 차단 → LPR 증상 감소
+* 가비스콘 계열 현탁액 : 성인 및 12세 이상에서 1회 10\~20 ㎖, 1일 4회(식후 및 취침 전); 아래 처방례와 동일한 현탁액 기준
+* alginate 함유 제산제 (예 : 가비스콘 <mark style="color:blue;">\[가비스콘]</mark>) : 위 내용물 표면에 물리적 장벽(raft) 형성 → acid pocket 차단; 일부 환자에서 인후두 증상 완화 가능
 * 산성·약산성 역류에 기전상 도움이 될 수 있으나 LPR 임상시험은 규모가 작고 진단 기준도 다양함. 단독 또는 GERD 치료의 보조로 선택적 사용
 * 다른 경구약과의 복용 간격을 확인하고, 심부전·신장애 등 나트륨 제한 환자와 고칼슘혈증·신석회침착증·반복성 칼슘 신결석 환자에서는 주의
 
 #### <mark style="color:$primary;">PPI</mark>
 
 * 전형적 GERD 증상 또는 객관적 GERD가 있는 환자에서 GERD 치료 기준에 따라 사용; isolated throat symptom만 있는 경우 routine 경험 치료를 피함
-* omeprazole 20 ㎎ qd 또는 동등 표준 용량을 식전 30\~60분에 8\~12주 trial → 복용법·순응도를 확인한 뒤 필요 시 bid로 증량
-* 한 차례 적절한 trial에 무반응이면 다른 PPI·P-CAB로 반복 교체하거나 고용량을 지속하기보다 중단 후 진단 재평가
+* omeprazole 20 ㎎ qd 또는 동등 표준 용량을 식전 30\~60분에 시작할 수 있음. 부분 반응 시 복용법·순응도 확인 후 필요 시 omeprazole 20 ㎎ bid 또는 동등 용량으로 최적화하고, 계획된 약 8\~12주 평가에서 효과 판정
+* San Diego 합의문은 선택된 LPS 환자의 항역류 trial에서 PPI bid 약 3개월을 반응 평가에 충분한 요법으로 제시. AGA는 전형적 GERD 증상 동반 시 qd 시작 후 필요 시 bid 증량을 허용하며, 모든 단독 인후두 증상 환자에게 고용량 PPI를 일률적으로 투여한다는 의미는 아님 <mark style="color:$info;">\[San Diego 합의문 2026; AGA 2023]</mark>
+* 한 차례 적절한 trial에 무반응이면 다른 PPI·P-CAB로 반복 교체하거나 고용량을 지속하기보다 진단 재평가 및 객관적 검사. 감량·중단 여부는 별도의 GERD 유지치료 적응증과 구분하여 결정
 * 유지 적응증이 없으면 최저 유효 용량으로 줄이거나 중단. 장기·고용량 복용자는 반동성 위산 과다 가능성을 설명하고 단계적 감량 또는 즉시 중단 중 환자 상황에 맞는 방법을 선택
 
 {% hint style="info" %}
-지속성 인후 증상 환자에게 lansoprazole 30 ㎎ bid를 16주 투여한 TOPPITS RCT에서 위약보다 유의한 효과가 없었음. PPI 무반응은 고용량 치료를 반복하기보다 LPR 진단 자체와 non-acid reflux, laryngeal hypersensitivity 등 다른 기전을 재평가할 신호
+지속성 인후 증상 환자에게 lansoprazole 30 ㎎ bid를 16주 투여한 TOPPITS RCT에서 위약보다 유의한 효과가 없었음 <mark style="color:$info;">\[BMJ 2021; TOPPITS]</mark>. PPI 무반응은 고용량 치료를 반복하기보다 LPR 진단 자체와 non-acid reflux, laryngeal hypersensitivity 등 다른 기전을 재평가할 신호
 {% endhint %}
 
 #### <mark style="color:$primary;">H2-차단제</mark>
@@ -205,8 +207,8 @@ PPI routine 사용을 피할 상황 : isolated throat symptom만 있는 경우 /
 
 * 국내 임상에서 사용 비중이 증가한 PPI 대안이나 LPR 치료는 국내 허가 외 사용이며, 객관적 GERD 근거 없는 단독 인후두 증상에 routine으로 권고할 근거는 부족
 * 장점 : 식사 여부와 상관없이 복용 가능 (PPI의 식전 30분 제약 없음); 야간 산 돌파(nocturnal acid breakthrough) 억제에 효과적; 초회 복용부터 빠른 산 억제 효과
-* tegoprazan <mark style="color:blue;">\[케이캡]</mark> 50 ㎎ qd : 소규모 위약대조 RCT에서 증상·소견은 개선되었으나 위약보다 우월하지 않았음
-* fexuprazan <mark style="color:blue;">\[펙수클루]</mark> 40 ㎎ qd : 8주 RCT에서 esomeprazole 40 ㎎ qd와 전체 효과 차이가 없었고 중증 RSI 하위군에서 초기 호전이 빨랐음. RSI/RFS만으로 환자를 선정하고 위약군이 없었다는 한계
+* tegoprazan <mark style="color:blue;">\[케이캡]</mark> 50 ㎎ qd : 소규모 위약대조 RCT에서 증상·소견은 개선되었으나 위약보다 우월하지 않았음 <mark style="color:$info;">\[tegoprazan RCT 2023]</mark>
+* fexuprazan <mark style="color:blue;">\[펙수클루]</mark> 40 ㎎ qd : 8주 RCT에서 esomeprazole 40 ㎎ qd와 전체 효과 차이가 없었고 중증 RSI 하위군에서 초기 호전이 빨랐음. RSI/RFS만으로 환자를 선정하고 위약군이 없었다는 한계 <mark style="color:$info;">\[fexuprazan RCT 2024]</mark>
 * PPI 무반응만을 근거로 P-CAB로 교체하지 않으며, 장기 복용 후 중단 방법은 환자의 GERD 적응증·용량·복용 기간과 중단 증상에 따라 개별화
 
 #### <mark style="color:$primary;">Neuromodulator (난치성 만성 기침·후두 과민)</mark>
@@ -232,27 +234,20 @@ K21.9 식도염을 동반하지 않은 위-식도역류병
 > **처방례 1. 단독 인후두 증상에서 alginate를 선택적으로 사용하는 경우**
 >
 > ```
-> 가비스콘 현탁액 10 ㎖/포  1~2포  #4  (식후 및 취침 전)
+> 가비스콘 현탁액 10 ㎖/포  1회 1～2포, 1일 4회 (식후 및 취침 전)
 > ```
 >
-> _✽ 생활습관 교정과 비-reflux 원인 평가를 병행. 객관적 GERD 근거 없는 단독 인후두 증상에는 PPI를 routine으로 추가하지 않음. 국내 허가 용법은 성인 및 12세 이상에서 1회 10\~20 ㎖, 1일 4회(식후 및 취침 전)이며 제품별 허가사항 확인._
+> _✽ 생활습관 교정과 비-reflux 원인 평가를 병행. 객관적 GERD 근거 없는 단독 인후두 증상에는 PPI를 routine으로 추가하지 않음. 국내 허가 용법은 성인 및 12세 이상에서 1회 10\~20 ㎖, 1일 4회(식후 및 취침 전)임._
 
 > **처방례 2. 전형적 GERD 증상이 동반된 경우의 초기 trial**
 >
 > ```
-> 오메프라졸 20 ㎎/C         1C  #1  (아침 식전 30~60분, 8~12주)
-> 가비스콘 현탁액 10 ㎖/포   1~2포  #4  (식후 및 취침 전, 필요 시)
+> 오메프라졸 20 ㎎/C         1회 1C, 1일 1회 (아침 식전 30～60분)
+> 가비스콘 현탁액 10 ㎖/포   1회 1～2포, 1일 최대 4회 (식후 및 취침 전, 필요 시)
 > ```
 >
-> _✽ heartburn/regurgitation 등 전형적 GERD 증상이 동반된 경우에 사용. 반응이 불충분하면 복용법·순응도를 먼저 확인하고 필요 시 오메프라졸 20 ㎎ bid 또는 동등 용량으로 증량. 한 차례 적절한 8\~12주 trial에 무반응이면 고용량을 반복하기보다 진단 재평가 및 객관적 역류검사 고려._
+> _✽ heartburn/regurgitation 등 전형적 GERD 증상이 동반된 경우에 사용. 초기 경과에서 부분 반응이면 복용법·순응도를 먼저 확인하고 필요 시 오메프라졸 20 ㎎ bid 또는 동등 용량으로 최적화. 계획된 약 8\~12주 평가에서 효과를 판정하며 무반응이면 고용량 trial을 반복하지 않고 진단 재평가 및 객관적 역류검사 고려. 약제 감량·중단은 별도의 GERD 유지치료 적응증과 구분하여 결정._
 
-> **처방례 3. 난치성 만성 기침·후두 과민에 대한 전문적 평가 후 선택적 치료**
->
-> ```
-> 센시발 10 ㎎/T            1T  #1  (취침 전)
-> ```
->
-> _✽ PPI 무반응만으로 처방하지 않음. 비-reflux 원인과 객관적 GERD를 평가하고 원인불명 또는 난치성 만성 기침·후두 과민이 확인된 경우 speech-language/cough-control therapy를 우선 또는 병행하며 전문의 판단하에 선택. 국내 허가 외 사용이며 졸림·구강 건조·변비·배뇨장애·기립저혈압·심전도 위험에 주의._
 
 ***
 
@@ -261,7 +256,7 @@ K21.9 식도염을 동반하지 않은 위-식도역류병
 * **PPI 복용 시각** : 1일 1회는 아침 식전 30\~60분, 1일 2회는 아침·저녁 식전 30\~60분 복용
 * **P-CAB 복용 시각** : tegoprazan, fexuprazan은 식사 여부와 무관하게 복용 가능 - 복용 편의성이 필요한 환자에 유리
 * **alginate 복용 시각** : 식후 및 취침 전 복용; 다른 경구약과의 복용 간격 및 제품별 허가사항 확인
-* **치료 기간** : 전형적 GERD가 동반되어 PPI trial을 시행할 때 8\~12주 후 효과와 지속 적응증을 재평가
+* **치료 기간** : 전형적 GERD가 동반되어 PPI trial을 시행할 때 약 8\~12주의 계획된 평가 기간 내 효과를 판정; 무반응이면 장기 증량·교체를 반복하지 않고 진단 재평가. 식도 질환의 유지치료 필요성은 별도 판단
 * **PPI 중단 시** : 장기·고용량 복용 후에는 일시적 반동 증상이 생길 수 있음. 단계적 감량 또는 즉시 중단 중 환자 상황에 맞는 방법을 의사와 상의
 * **생활습관 중요성** : 약물 단독으로는 한계 있음 - 금연, 식이 조절, 취침 전 공복이 치료의 핵심
 * **nortriptyline 처방 시** : 국내 허가 외 사용임을 설명하고 졸음·구강 건조·변비·배뇨장애·기립저혈압 등 부작용 안내
@@ -277,7 +272,7 @@ K21.9 식도염을 동반하지 않은 위-식도역류병
 * 식사 후 최소 2\~3시간은 눕거나 격렬한 운동을 피하세요.
 * 자기 전 3시간 이내에는 식사하지 마세요.
 * 모든 음식을 일률적으로 금지할 필요는 없습니다. 커피·탄산음료·술·고지방식·산성 또는 매운 음식 가운데 본인의 증상을 유발하는 음식을 확인하여 줄이세요.
-* 채소, 생선, 통곡물 위주의 담백한 식사가 증상 개선에 도움이 됩니다.
+* 채소, 생선, 통곡물 위주의 담백한 식사가 도움이 될 수 있으나, 특정 식단이 모든 환자에게 효과적인 것은 아닙니다.
 * 체중이 많이 나가신다면 감량이 증상 개선에 도움이 됩니다.
 
 **약을 처방받으셨다면**
@@ -285,7 +280,7 @@ K21.9 식도염을 동반하지 않은 위-식도역류병
 * 위산 억제제(PPI)는 1일 1회이면 **아침 식사 30\~60분 전**, 1일 2회이면 **아침·저녁 식사 30\~60분 전**에 드세요.
 * 케이캡, 펙수클루 등 새로운 위산 억제제(P-CAB)는 식사와 무관하게 복용할 수 있습니다.
 * 알긴산 제제(가비스콘 등)는 **식후와 취침 전**에 드세요. 다른 약과의 복용 간격은 의사·약사에게 확인하세요.
-* 모든 인후두 증상에 위산 억제제가 필요한 것은 아닙니다. 정해진 평가 기간 후 효과가 없으면 임의로 증량·연장하지 말고 진단을 다시 확인하세요.
+* 모든 인후두 증상에 위산 억제제가 필요한 것은 아닙니다. 정해진 평가 기간 후 효과가 없으면 임의로 증량·연장하지 말고 진단을 다시 확인하세요. 다만 식도 질환 때문에 약을 유지해야 하는 경우가 있으므로 중단 여부는 담당 의사와 상의하세요.
 * 장기간 위산 억제제를 복용했다면 중단 방법을 담당 의사와 상의하세요.
 
 **즉시 응급진료가 필요한 경우**
@@ -299,5 +294,42 @@ K21.9 식도염을 동반하지 않은 위-식도역류병
 * 소량이라도 피가 섞인 가래가 반복되거나 피를 토할 때
 * 삼킬 때 통증이 생기거나 점차 음식을 삼키기 어려워질 때
 * 한쪽 귀가 원인 불명으로 아플 때
-* 쉰 소리가 4주 이상 지속될 때 (특히 흡연자)
+* 쉰 소리가 4주 이내에 호전되지 않을 때; 흡연력이 있거나 목의 덩이·삼킴곤란 등이 동반되면 4주를 기다리지 말고 진료받으세요.
 * 이유 없이 체중이 줄 때
+
+
+***
+
+## 주요 참고문헌 및 확인 자료
+
+### 임상 근거
+
+* Yadlapati R, et al. The San Diego Consensus for Laryngopharyngeal Symptoms and Laryngopharyngeal Reflux Disease. Am J Gastroenterol. 2026;121:322–336. — LPS와 LPRD 구분·검사 경로·PPI trial·다학제 접근.
+
+https://doi.org/10.14309/ajg.0000000000003482
+
+* Chen JW, et al. AGA Clinical Practice Update on the Diagnosis and Management of Extraesophageal Gastroesophageal Reflux Disease. Clin Gastroenterol Hepatol. 2023;21:1414–1421.e3. — 단독 인후두 증상의 검사 우선 전략과 치료 무반응 평가.
+
+https://doi.org/10.1016/j.cgh.2023.01.040
+
+* Lechien JR, et al. European clinical practice guideline: managing and treating laryngopharyngeal reflux disease. Eur Arch Otorhinolaryngol. 2026;283:629–641. 온라인 출판 2024. — HEMII-pH·식이·alginate에 관한 유럽 합의; 검사 지위는 다른 합의문과 차이가 있음.
+
+https://doi.org/10.1007/s00405-024-09181-z
+
+* O’Hara J, et al. Use of proton pump inhibitors to treat persistent throat symptoms: multicentre, double blind, randomised, placebo controlled trial. BMJ. 2021;372:m4903. — TOPPITS: 지속성 인후 증상에서 lansoprazole과 위약 비교.
+
+https://doi.org/10.1136/bmj.m4903
+
+* Efficacy of Tegoprazan in Patients with Laryngopharyngeal Reflux Disease: A Preliminary Feasibility Study. 2023. — 소규모 위약대조 무작위시험; 위약 대비 우월성 미확인.
+
+https://pubmed.ncbi.nlm.nih.gov/37834761/
+
+* Kim SI, et al. Efficacy and safety of fexuprazan in patients with symptoms and signs of laryngopharyngeal reflux disease: a randomized clinical trial. 2024. — fexuprazan과 esomeprazole 비교; 위약군 부재 및 증상·후두 소견 기반 환자 선정의 한계.
+
+https://pubmed.ncbi.nlm.nih.gov/39115573/
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가사항.
+
+https://nedrug.mfds.go.kr/index

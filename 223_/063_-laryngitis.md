@@ -26,7 +26,7 @@
 * 쉰 목소리, 인후통, 마른기침
 * URI에 의한 경우 : 인후통, 기침, 콧물, 발열, 피로감, 경부 림프절 종대 동반 가능
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
@@ -34,7 +34,7 @@
 * 인두 소견에 비해 심한 인후통·연하통 + 고열·먹먹한 목소리(hot-potato voice)·독성 병색 → 후두개염/성문상염 또는 심경부 감염
 * 침도 삼키지 못하고 흘림(drooling), tripod 자세 → 후두개염/성문상염; 기도 확보가 가능한 응급실로 즉시 이송
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**당일～수일 내 평가**</mark>
 
 * 설명되지 않는 경부 종괴, 진행성 연하곤란·연하통, 의도하지 않은 체중 감소 동반
 * 쉰 목소리와 동반된 객혈(hemoptysis) → 후두암·하기도 병변 평가
@@ -43,10 +43,11 @@
 * 갑자기 발생한 기식성·약한 목소리 또는 흡인 증상 → 성대 마비 가능
 * 면역 저하자에서 비전형적이거나 치료에 반응하지 않는 후두염
 * Professional voice user에서 중요한 일정이 임박했거나 음성 변화가 심한 경우
+* 소리 지르기·노래·심한 기침 직후 갑작스러운 심한 음성 변화·실성 → 성대 출혈 가능; 발성을 중단하고 당일 이비인후과 후두경 평가 <mark style="color:$info;">\[AAO-HNSF ENT Health]</mark>
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 명확한 양성 원인이 있더라도 4주 이내에 호전되지 않는 dysphonia → 후두경 검사
+* 명확한 양성 원인이 있더라도 4주 이내에 호전되지 않는 dysphonia → 후두경 검사 <mark style="color:$info;">\[AAO-HNSF dysphonia 지침 2018]</mark>
 * 반복되는 dysphonia 또는 점차 악화되는 음성 변화
 * 3주 이상 지속되는 인후 이물감·만성 기침 등에서 초기 관리 후 호전이 없거나 진단이 불확실한 경우
 
@@ -59,53 +60,32 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="180">질환</th><th>감별 포인트</th></tr></thead><tbody><tr><td>후두개염/성문상염</td><td>인두 소견에 비해 심한 인후통·연하통, 고열, 침 흘림, 먹먹한 목소리, 독성 병색, 진행 시 stridor; 응급 기도 평가</td></tr><tr><td>크루프(croup)</td><td>주로 소아; 개 짖는 기침(barking cough), 흡기성 협착음(stridor)</td></tr><tr><td>성대 결절/폴립</td><td>음성 직업군; 서서히 진행하거나 반복되는 dysphonia; 후두경으로 확인</td></tr><tr><td>후두암</td><td>흡연력·고령, 경부 종괴·연하곤란·객혈·체중 감소; 지속되거나 점차 악화되는 dysphonia; 후두경 ± 생검</td></tr><tr><td>근긴장성 발성장애</td><td>음성 피로, 목의 긴장감, 힘주어 말하는 양상; 후두 병변 배제 후 진단</td></tr><tr><td>인후두역류(LPR)</td><td>인후 이물감, 만성 기침·목청소; 증상만으로 진단하지 않으며 과잉 진단 주의</td></tr><tr><td>ICS 유발 dysphonia</td><td>ICS 사용력; 흡입기 사용법·용량·제형 확인. 비감염성 원인이 흔하며 지속 시 후두경 고려</td></tr><tr><td>반회후두신경 마비<br>(RLN palsy)</td><td>최근 갑상선·두경부·흉부 수술, 기관삽관, 흉부 종양·대동맥류 병력; 기식성·약한 목소리, 약한 기침·흡인; ENT 의뢰</td></tr><tr><td>노인성 성대 위축<br>(Presbylaryngis)</td><td>고령; 염증 없는 성대 위축·성문 폐쇄부전; 기식성·약한 목소리; 후두경 확인 후 음성치료 고려</td></tr><tr><td>진균성·결핵성 후두염</td><td>면역 저하, 고용량 ICS, 결핵 노출·전신 증상; 백색 병변·궤양은 악성 종양과 유사할 수 있어 후두경 ± 조직검사·배양 필요</td></tr></tbody></table>
+<table><thead><tr><th width="180">질환</th><th>감별 포인트</th></tr></thead><tbody><tr><td>후두개염/성문상염</td><td>인두 소견에 비해 심한 인후통·연하통, 고열, 침 흘림, 먹먹한 목소리, 독성 병색, 진행 시 stridor; 응급 기도 평가</td></tr><tr><td>크루프(croup)</td><td>주로 소아; 개 짖는 기침(barking cough), 흡기성 협착음(stridor)</td></tr><tr><td>성대 출혈</td><td>격렬한 발성·심한 기침 직후 갑작스러운 심한 음성 변화·실성; 통증이 없을 수도 있음. 즉시 발성 중단, 당일 후두경 평가</td></tr><tr><td>성대 결절/폴립</td><td>음성 직업군; 서서히 진행하거나 반복되는 dysphonia; 후두경으로 확인</td></tr><tr><td>후두암</td><td>흡연력·고령, 경부 종괴·연하곤란·객혈·체중 감소; 지속되거나 점차 악화되는 dysphonia; 후두경 ± 생검</td></tr><tr><td>근긴장성 발성장애</td><td>음성 피로, 목의 긴장감, 힘주어 말하는 양상; 후두 병변 배제 후 진단</td></tr><tr><td>인후두역류(LPR)</td><td>인후 이물감, 만성 기침·목청소; 증상만으로 진단하지 않으며 과잉 진단 주의</td></tr><tr><td>ICS 유발 dysphonia</td><td>ICS 사용력; 흡입기 사용법·용량·제형 확인. 비감염성 원인이 흔하며 지속 시 후두경 고려</td></tr><tr><td>반회후두신경 마비<br>(RLN palsy)</td><td>최근 갑상선·두경부·흉부 수술, 기관삽관, 흉부 종양·대동맥류 병력; 기식성·약한 목소리, 약한 기침·흡인; ENT 의뢰</td></tr><tr><td>노인성 성대 위축<br>(Presbylaryngis)</td><td>고령; 염증 없는 성대 위축·성문 폐쇄부전; 기식성·약한 목소리; 후두경 확인 후 음성치료 고려</td></tr><tr><td>진균성·결핵성 후두염</td><td>면역 저하, 고용량 ICS, 결핵 노출·전신 증상; 백색 병변·궤양은 악성 종양과 유사할 수 있어 후두경 ± 조직검사·배양 필요</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    A([쉰 목소리<br/>± 인후통·기침·이물감]) --> B[Red Flag?]
-    B -- stridor·호흡곤란<br/>침 흘림·심한 연하통+고열 --> C[기도 확보 가능한 응급실로 즉시 이송]
-    B -- 없음 --> D[지속 기간?]
-    D -- 4주 이상 --> E[ENT 의뢰<br/>후두경 검사]
-    D -- 4주 미만 --> W{조기 후두 평가 인자?<br/>흡연·경부 종괴·수술/삽관 후<br/>professional voice user 등}
-    W -- 있음 --> E
-    W -- 없음 --> F[Symptom Phenotype?]
-
-    F --> G["A. URI 패턴<br/>콧물·기침·급성 onset"]
-    F --> H["B. 성대 과사용<br/>강의·소리 지르기 후"]
-    F --> I["D. 역류 패턴<br/>이물감·throat clearing<br/>식후 악화"]
-    F --> J["E. 약물 연관<br/>ICS 사용·구강 건조"]
-    F --> K["F. 단독 dysphonia<br/>기타 증상 없음"]
-    F --> L["C. 심한 통증+발열<br/>비전형적 경과"]
-
-    G --> M["<u>바이러스성 후두염</u><br/>NSAID + 수분 + voice rest<br/>❌ 항생제 불필요<br/>인두염 동반+RAT양성 시만 고려"]
-    H --> N["<u>성대 과사용</u><br/>voice modification 우선<br/>+ 수분 ± NSAID"]
-    I --> O["<u>역류 관련 평가</u><br/>전형적 GERD 증상 시 생활 교정<br/>단독 후두 증상은 경험적 PPI보다<br/>후두 평가 ± 객관적 역류 검사"]
-    J --> P["<u>ICS 기술 교정</u><br/>흡입 후 헹굼<br/>pMDI는 spacer 고려<br/>지속 시 후두경"]
-    K --> Q["<u>voice hygiene + 관찰</u><br/>4주 내 미호전 → ENT"]
-    L --> R[ENT/응급 평가 우선<br/>원인 확인 후 표적 치료]
-
-    M --> U["❌ routine 항생제·steroid 불필요"]
-    N --> U
-
-    U --> V[공통 기본 관리<br/>적절한 수분 · 흡연·자극물 회피<br/>편안한 음성으로 필요한 말만 사용<br/>· 습도 유지]
-    O --> V
-    P --> V
-    Q --> V
-
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#f39c12
-class B,D,W,F yellow
-classDef red fill:#ff6b6b,stroke:#c0392b,color:#fff
-class C red
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class M,N,O,P,Q sky
-classDef l_red fill:#ffcdd2,stroke:#c62828
-class E,R l_red
-style V fill:#d0e8ff,stroke:#1a6abf
-    style U fill:#e0e0e0,stroke:#757575,stroke-width:1px
+    A["쉰 목소리, 인후통 또는 기침"] --> B{"응급 기도 소견?"}
+    B -->|있음| C["기도 확보 가능한 응급실로 즉시 이송"]
+    B -->|없음| D{"격렬한 발성 후 갑작스러운 심한 음성 변화?"}
+    D -->|있음| E["성대 출혈 의심, 즉시 발성 중단과 당일 후두경"]
+    D -->|없음| F{"조기 후두 평가 인자 또는 4주 내 미호전?"}
+    F -->|있음| G["이비인후과 의뢰와 후두경 검사"]
+    F -->|없음| H{"임상 양상"}
+    H -->|URI 또는 성대 과사용| I["수분과 상대적 음성 휴식, 통증 시 진통제"]
+    H -->|역류 의심| J["전형적 GERD 증상 확인, 단독 후두 증상은 비역류성 원인 우선 평가"]
+    H -->|ICS 또는 건조 유발 약물| K["흡입법과 약물 점검, pMDI spacer 고려"]
+    H -->|심한 통증과 발열 또는 비전형적 경과| L["신속한 전문 평가 후 표적 치료"]
+    H -->|원인 불명 단독 음성 변화| M["음성 위생과 추적, 4주 내 미호전 시 후두경"]
+    I --> N["routine 항생제와 전신 스테로이드 불필요"]
+    J --> O["필요 시 객관적 역류검사, 적절한 GERD 치료"]
+    K --> P["흡입 후 헹구고 뱉기, 지속 시 후두경"]
+    style C fill:#ffcccc,stroke:#cc0000
+    style E fill:#fff3e0,stroke:#e65100
+    style G fill:#fff3e0,stroke:#e65100
+    style I fill:#e3f2ff,stroke:#2196f3
+    style N fill:#e3f2ff,stroke:#2196f3
 ```
 
 <p align="center"><strong>급성 후두염 - Symptom Phenotype 기반 진단·치료 알고리듬</strong></p>
@@ -117,14 +97,15 @@ style V fill:#d0e8ff,stroke:#1a6abf
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 보통 항생제는 필요 없음 - 대부분 바이러스성 후두염이며 세균성은 드묾
-  * 동반된 GAS 인두염이 RAT 또는 배양검사로 확인된 경우에만 해당 인두염을 치료
-* 후두를 시각화하기 전 dysphonia에 항생제·전신 스테로이드·항역류제를 routine으로 처방하지 않음
+  * 동반된 GAS 인두염이 GAS RADT 또는 배양검사로 확인된 경우에만 해당 인두염을 치료
+* 후두를 시각화하기 전 dysphonia에 항생제·전신 스테로이드·항역류제를 routine으로 처방하지 않음 <mark style="color:$info;">\[AAO-HNSF dysphonia 지침 2018]</mark>
 * 원인 및 악화 요인 제거가 가장 중요한 치료
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 음성 보존(relative voice rest) : 큰 소리·노래·장시간 통화·무리한 발성을 피하고, 필요한 말만 힘주지 않은 평소의 편안한 음정과 크기로 짧게 함. 속삭이기도 일부 환자에서는 후두 긴장을 높일 수 있으므로 피함; 장기간의 절대적 음성 휴식보다 증상에 맞춘 상대적 휴식을 권함 (☞ [목쉼](../222_/058_-hoarseness.md#undefined-11))
-* 증기 흡입 : 환자의 주관적 증상 완화에 도움 될 수 있으나 근거는 제한적
+* 안전한 실내 가습 : 주관적 증상 완화에 도움이 될 수 있으나 근거는 제한적. 뜨거운 물그릇을 이용한 증기 흡입은 화상 위험 때문에 권하지 않음 <mark style="color:$info;">\[NHS 호흡기 감염 자가 관리]</mark>
+* 성대 출혈이 의심되는 경우는 예외 : 상대적 음성 휴식으로 관찰하지 않고 즉시 발성을 중단한 뒤 당일 후두경 평가. 이후 음성 휴식 범위·기간은 전문의 판단
 * 충분한 수분 섭취 : 수분 제한이 필요한 심부전·신부전·간경변 등이 없다면 탈수가 되지 않도록 적절히 섭취
 * 금연 : 흡연은 성대 점막 직접 손상; 만성 후두염의 주요 원인
 * 알레르겐 회피, 실내 습도 유지(40\~60%), 마스크 착용
@@ -137,7 +118,8 @@ style V fill:#d0e8ff,stroke:#1a6abf
 
 * 통증·기침·콧물 : 대증 치료 (☞ [인후통](061_-acute-pharyngitis.md#undefined-14), [기침](../220_/006_-cough.md#management), [감기](060_-common-cold.md#management))
 * 항생제 : 후두염 단독으로는 원칙적으로 불필요
-  * 동반된 인두염에서 GAS 검사가 필요한지는 [Centor/McIsaac](061_-acute-pharyngitis.md#centor-score-modified-mcisaac) 기준과 임상 양상에 따라 결정. 적절히 시행한 RAT 또는 배양검사가 양성이면 amoxicillin 500 ㎎ bid × 10일 <mark style="color:blue;">\[파목신]</mark>; 성인의 RAT 음성에서는 routine 배양검사나 경험적 항생제 처방을 권하지 않음
+  * 동반된 인두염에서 GAS 검사가 필요한지는 [Centor/McIsaac](061_-acute-pharyngitis.md#centor-score-modified-mcisaac) 기준, 연령별 검사 전략과 임상 양상에 따라 결정. 적절히 시행한 GAS RADT 또는 배양검사가 양성이면 amoxicillin 500 ㎎ bid × 10일 <mark style="color:blue;">\[파목신]</mark>; 성인의 GAS RADT 음성에서는 routine 배양검사나 경험적 항생제 처방을 권하지 않음
+* 복합 진해거담제 : 기침이 수면·일상을 방해할 때만 단기간 선택적으로 사용. 코데닝·코푸에 함유된 chlorpheniramine은 구강·인후 건조로 음성 불편을 악화시킬 수 있고 dihydrocodeine은 졸림·호흡억제 위험이 있으므로 필요성을 재평가; 12세 미만에는 사용하지 않음
 * 항진균제 : ICS 사용자·면역 저하자에서 지속성 dysphonia, 백색 병변·궤양 등으로 진균성 후두염이 의심되면 이비인후과 후두경 ± 조직검사·배양 의뢰. ICS 사용력만으로 fluconazole을 경험적으로 투여하지 않으며, Candida 등 원인 진균이 확인되면 균종·침범 범위·면역 상태와 국내 허가사항에 따라 치료
 * 스테로이드 : 후두를 시각화하기 전에는 일반 환자뿐 아니라 professional voice user에서도 routine으로 처방하지 않음
   * Professional voice user에서 중요한 일정이 임박했거나 dysphonia가 심하면 조기 후두경 검사 의뢰
@@ -154,23 +136,23 @@ J37.0 만성 후두염
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 바이러스성 급성 후두염 (대부분의 경우)**
+> **처방례 1. 성인의 바이러스성 급성 후두염 (대부분의 경우)**
 >
 > ```
-> 부루펜 200 ㎎/T  1–2T  tid  pc  prn  × 3–5일
+> 부루펜 200 ㎎/T  1회 1～2T, 1일 3회, 식후 필요 시 × 3～5일
 > ```
 >
-> _✽기침이 수면·일상을 방해할 때 코데닝 6T #3 tid pc × 3–5일을 선택적으로 추가; 항생제는 처방하지 않음_\
+> _✽기침이 수면·일상을 방해할 때 코데닝 1회 2T, 1일 3회 식후 × 3～5일을 선택적으로 추가; 졸림·인후 건조에 주의하고 항생제는 처방하지 않음_\
 > _✽통증이 심하거나 하루 복용 횟수를 줄이고 싶은 경우 naproxen 250 ㎎ bid 대안 고려 \[탁센]_
 
-> **처방례 2. GAS 인두염이 동반된 급성 후두염 - RAT 또는 배양검사 양성**
+> **처방례 2. 성인의 GAS 인두염이 동반된 급성 후두염 - GAS RADT 또는 배양검사 양성**
 >
 > ```
-> 파목신 500 ㎎/C   1C  bid  × 10일
-> 맥시부펜 이알 300 ㎎/T  1T  bid  pc  prn  × 3–5일
+> 파목신 500 ㎎/C        1회 1C, 1일 2회 × 10일
+> 맥시부펜 이알 300 ㎎/T  1회 1T, 1일 2회, 식후 필요 시 × 3～5일
 > ```
 >
-> _✽기침이 수면·일상을 방해할 때 코푸 시럽 20 ㎖/P 4P #4 × 3–5일을 선택적으로 추가_\
+> _✽기침이 수면·일상을 방해할 때 코푸 시럽 20 ㎖/P 1회 1포, 1일 4회 식후 및 취침 전 × 3～5일을 선택적으로 추가; 졸림·인후 건조에 주의_\
 > _✽후두염 단독(인두염 미동반)에는 이 처방례를 사용하지 않음_
 
 ***
@@ -180,7 +162,7 @@ J37.0 만성 후두염
 * **항생제 불필요 원칙** : 후두염의 대부분은 항생제가 필요하지 않으며, 목을 쉬게 하는 것이 가장 중요한 치료임을 설명
 * **amoxicillin** - GAS 인두염이 확인되어 처방된 경우 증상이 호전되어도 10일 요법을 완료; 남은 약을 보관하거나 다른 사람과 나누지 않음
 * **ibuprofen/dexibuprofen** - 공복 복용을 삼가고 다른 NSAID와 중복 복용하지 않음; 신기능 저하·위궤양/위장관 출혈·심혈관질환 병력자와 임신부는 주의
-* **dihydrocodeine 복합 진해거담제** - 졸릴 수 있으므로 운전·위험한 기계 조작 및 음주를 피함; 수면제·진정제·다른 감기약과 병용 전 확인하고 호흡기질환·수면무호흡이 있으면 처방의에게 알림
+* **dihydrocodeine 복합 진해거담제** - 기침이 일상을 방해할 때만 사용하며 구강·인후 건조로 목소리 불편이 악화될 수 있음. 졸릴 수 있으므로 운전·위험한 기계 조작 및 음주를 피함; 수면제·진정제·다른 감기약과 병용 전 확인하고 호흡기질환·수면무호흡이 있으면 처방의에게 알림
 * **ICS 사용 중인 경우** - 흡입 후 물로 입안을 헹구고 뱉으며, 임의로 중단하지 않음. 증상 지속 시 흡입기 사용법, pMDI의 spacer 사용, 용량·제형 조절을 처방의와 의논
 
 ***
@@ -194,12 +176,13 @@ J37.0 만성 후두염
 
 * 큰 소리나 무리한 발성을 피하고, 꼭 말해야 할 때는 힘주지 않은 평소의 편안한 목소리로 짧게 하세요.
 * 속삭이는 것도 성대에 부담이 될 수 있으니 주의하세요.
+* 소리를 지르거나 노래한 직후 갑자기 목소리가 심하게 변하거나 나오지 않으면 성대 출혈 가능성이 있으므로, 말을 멈추고 당일 이비인후과 진료를 받으세요.
 
 **집에서 할 수 있는 관리법**
 
 * 심장·콩팥·간질환 등으로 수분 섭취를 제한하라는 지시를 받은 경우가 아니라면 탈수가 되지 않도록 물을 충분히 드세요.
 * 따뜻한 소금물(물 1컵\[약 250 ㎖]에 소금 ½ 작은술\[약 3 g])로 가글하면 동반된 목 통증을 일시적으로 완화할 수 있으나, 후두 또는 성대 염증을 직접 치료하는 것은 아닙니다.
-* 가습기나 세숫대야 물로 실내 습도를 40\~60%로 유지하세요.
+* 실내 습도를 40\~60%로 유지하고 가습기는 깨끗하게 관리하세요. 뜨거운 물그릇에 얼굴을 대고 증기를 들이마시는 방법은 화상 위험 때문에 피하세요.
 * 담배와 연기·분진을 피하고, 역류 증상이 있다면 식후 3시간 안에 눕지 말고 본인에게 증상을 유발하는 음식·음료를 줄이세요.
 
 **이런 증상이 생기면 즉시 응급실로**
@@ -217,5 +200,34 @@ J37.0 만성 후두염
 **약 복용 안내**
 
 * 항생제를 처방받으셨다면 처방된 날짜까지 모두 복용하세요.
-* 진해거담제 복용 후 졸릴 수 있으므로 운전이나 음주를 피하세요.
+* 진해거담제는 기침 때문에 필요한 경우에만 복용하세요. 졸리거나 입과 목이 마를 수 있으므로 운전·음주를 피하고, 목소리 불편이 심해지면 의료진과 상의하세요.
 * 흡입 스테로이드(ICS)를 쓰신다면 흡입 후 물로 입안을 헹구고 뱉으세요. 쉰 목소리가 지속되어도 임의로 중단하지 말고 처방한 의료진과 상의하세요.
+
+
+***
+
+## 주요 참고문헌 및 확인 자료
+
+### 임상 근거
+
+* Stachler RJ, et al. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1_suppl):S1–S42. — 4주 이내 미호전 시 후두경·조기 평가 인자·항생제·스테로이드·항역류제의 제한적 사용.
+
+https://doi.org/10.1177/0194599817751030
+
+* AAO-HNSF. ENT Health: Hoarseness. — 성대 출혈의 발성 중단·신속한 전문 평가와 음성 위생.
+
+https://www.enthealth.org/conditions/hoarseness/
+
+* NHS. Respiratory tract infections (RTIs). — 호흡기 감염의 자가 관리와 뜨거운 물그릇 증기 흡입의 화상 위험.
+
+https://www.nhs.uk/conditions/respiratory-tract-infection/
+
+* CDC. Clinical Guidance for Group A Streptococcal Pharyngitis. — 동반 GAS 인두염의 검사 적응증·확진 후 치료; 단독 후두염과 구분.
+
+https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가사항.
+
+https://nedrug.mfds.go.kr/index
