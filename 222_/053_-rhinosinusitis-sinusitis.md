@@ -2,8 +2,10 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* **비부비동염(Rhinosinusitis)** : 비강(nasal cavity) 및 부비강(paranasal sinus)에 염증이 동반된 상태; 부비동염은 거의 항상 코 점막 염증을 동반하므로 비부비동염이라는 용어를 사용
-* **Uncomplicated rhinosinusitis** : 비부비동 범위 밖으로 염증이 확장되지 않은 비부비동염 - 연조직·신경학적·안과적 이환 없음
+* 비부비동염(Rhinosinusitis) : 비강(nasal cavity) 및 부비강(paranasal sinus)에 염증이 동반된 상태
+  * 부비동염은 거의 항상 코 점막 염증을 동반하므로 비부비동염이라는 용어를 사용
+* Uncomplicated rhinosinusitis : 비부비동 범위 밖으로 염증이 확장되지 않은 비부비동염
+  * 연조직·신경학적·안과적 이환 없음
 * 바이러스성 비부비동염은 보통 발병 2\~3일에 가장 심하고 7\~10일 내 호전(일부 증상은 2주까지 지속)
 
 ### <mark style="color:orange;">분류</mark>
@@ -25,76 +27,81 @@
 
 #### <mark style="color:$primary;">원인균</mark>
 
-* **바이러스** (대부분) : rhinovirus, adenovirus, influenza virus, parainfluenza virus
-* **세균** (Viral URI 중 약 0.5\~2%에서 ABRS로 진행) : _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Moraxella catarrhalis_
-  * _S. aureus_는 uncomplicated community ABRS의 routine pathogen이 아님 - CRS, 수술 후 상태, 의료 관련 감염, 면역 저하 시 고려
+* 바이러스 (대부분) : rhinovirus, adenovirus, influenza virus, parainfluenza virus
+* 세균 : _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Moraxella catarrhalis_
+  * _S. aureu&#x73;_&#xB294; uncomplicated community ABRS의 routine pathogen이 아님 - CRS, 수술 후 상태, 의료 관련 감염, 면역 저하 시 고려
   * 최근 _H. influenzae_ 비율 증가 추세 - β-lactamase 생성 내성주 고려 필요
-* **곰팡이**
-  * 침습성 진균성 비부비동염 : 주로 조절되지 않는 당뇨병·호중구감소·장기 이식 등 면역 저하자에서 발생; _Aspergillus_ spp., Mucorales 등
+  * Viral URI 중 약 0.5\~2%에서 ABRS로 진행
+* 곰팡이
+  * 침습성 진균성 비부비동염 : _Aspergillus_ spp., Mucorales
+  * 침습성은 주로 조절되지 않는 당뇨병·호중구감소·장기 이식 등 면역 저하자에서 발생
   * 비침습성 fungal ball 및 allergic fungal rhinosinusitis는 면역정상자에서도 발생 가능
 
 #### <mark style="color:$primary;">위험 인자</mark>
 
-* **감기** (비부비동염의 대부분은 감기 관련 바이러스에 의해 발생), 기타 비염
-* **구조적 이상** : 비중격 만곡, 비용종, 아데노이드 비대, choanal atresia, 비강 내 이물질, 비강/부비강 종양
-* **섬모 기능 장애** : 원발성 섬모운동이상증(PCD; Kartagener 증후군 포함), 흡연, 코 울혈 제거제 남용
-* **전신 질환** : 조절되지 않는 당뇨병, 백혈구 감소, 스테로이드 장기 사용, GERD, sarcoidosis, granulomatosis with polyangiitis(GPA), eosinophilic granulomatosis with polyangiitis(EGPA), cystic fibrosis
-* **치과 질환** : 상악 치아의 치근단 감염이 상악동염의 원인이 될 수 있음 (치성 부비동염)
+* 감기 : 비부비동염의 대부분은 감기 관련 바이러스에 의해 발생
+* 기타 비염
+* 구조적 이상 : 비중격 만곡, 비용종, 아데노이드 비대, choanal atresia, 비강 내 이물질, 비강/부비강 종양
+* 섬모 기능 장애 : 원발성 섬모운동이상증(PCD; Kartagener 증후군 포함), 흡연, 코 울혈 제거제 남용
+* 전신 질환 : 조절되지 않는 당뇨병, 백혈구 감소, 스테로이드 장기 사용, GERD, sarcoidosis, granulomatosis with polyangiitis(GPA), eosinophilic granulomatosis with polyangiitis(EGPA), cystic fibrosis
+* 치과 질환 : 상악 치아의 치근단 감염이 상악동염의 원인이 될 수 있음 (치성 부비동염)
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 안구 돌출·안구 운동 장애/통증·복시·시력 저하, 또는 눈 주위 부종·발적이 있으면서 안와 침범을 배제할 수 없음  `안와 연조직염`  `골막하 농양`
-* 새로 발생한 극심하거나 진행성인 두통, 수막 자극 증상(경부 강직 등), 의식 변화 또는 국소 신경학적 이상(고열이 없어도 해당)  `뇌수막염`  `경막하/경막외 농양`  `해면정맥동 혈전증`
-* 이마의 말랑한 부종(전두동염 경과 중)  `Pott's puffy tumor(전두골 골수염)`
-* 고열, 심한 전신 쇠약, 중독성 외모(toxic appearance) 등 패혈증 징후  `패혈증`
-* 당뇨병·면역 저하자에서 급속히 진행하는 편측 안면통·부종, 비점막 창백/괴사·검은 가피 또는 뇌신경마비(검은 가피가 없어도 해당)  `급성 침습성 진균성 비부비동염`
-* Mucocele가 의심되면서 신경학적 증상 또는 안와 침범 소견이 동반  `mucopyocele`  `안와/두개내 합병증`
+* 안구 돌출·안구 운동 장애/통증·복시·시력 저하, 또는 눈 주위 부종·발적이 있으면서 안와 침범을 배제할 수 없음 `안와 연조직염` `골막하 농양`
+* 새로 발생한 극심하거나 진행성인 두통, 수막 자극 증상(경부 강직 등), 의식 변화 또는 국소 신경학적 이상(고열이 없어도 해당) `뇌수막염` `경막하/경막외 농양` `해면정맥동 혈전증`
+* 이마의 말랑한 부종(전두동염 경과 중) `Pott's puffy tumor(전두골 골수염)`
+* 고열, 심한 전신 쇠약, 중독성 외모(toxic appearance) 등 패혈증 징후
+* 당뇨병·면역 저하자에서 급속히 진행하는 편측 안면통·부종, 비점막 창백/괴사·검은 가피 또는 뇌신경마비(검은 가피가 없어도 해당) `급성 침습성 진균성 비부비동염`
+* Mucocele가 의심되면서 신경학적 증상 또는 안와 침범 소견이 동반 `mucopyocele` `안와/두개내 합병증`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **당일 평가** : 눈꺼풀 부종·발적이 있으나 시력·안구 운동이 정상이고 안구 돌출이 없음(소아 등에서 안와 침범을 확실히 배제할 수 없으면 즉각 조치 항목으로 판단)  `눈꺼풀앞 연조직염`
-* **당일 평가** : 면역 저하자에서 새로 발생한 비부비동염 증상 또는 통상적 치료에 반응하지 않는 편측 안면통  `비전형적 감염`  `침습성 진균성 비부비동염`
-* 적절한 항생제 투여 중 언제든 악화하거나 3\~5일 내 호전되지 않음  `치료 실패`  `합병증`
-* **당일 평가** : Mucocele가 의심되면서 새로 눈 주위 부종·통증이 발생하나 안와 침범·신경학적 소견은 없음  `mucopyocele`
-* 편측 코 막힘·출혈·악취성 분비물이 지속되거나 치료에 반응하지 않음  `종양`  `이물`  `치성 부비동염`
+* 눈꺼풀 부종·발적이 있으나 시력·안구 운동이 정상이고 안구 돌출이 없음 **(당일)** `눈꺼풀앞 연조직염`&#x20;
+* 면역 저하자에서 새로 발생한 비부비동염 증상 또는 통상적 치료에 반응하지 않는 편측 안면통 **(당일)** `비전형적 감염` `침습성 진균성 비부비동염`&#x20;
+* Mucocele가 의심되면서 새로 눈 주위 부종·통증이 발생하나 안와 침범·신경학적 소견은 없음 **(당일)** `mucopyocele`
+* 적절한 항생제 투여 중 언제든 악화하거나 3\~5일 내 호전되지 않음 `치료 실패` `합병증`&#x20;
+* 편측 코 막힘·출혈·악취성 분비물이 지속되거나 치료에 반응하지 않음 `종양` `이물` `치성 부비동염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 연 4회 이상 반복되고 발작 사이에는 무증상  `RARS`
-* 12주 이상 지속되는 코 막힘·비루·후각 저하  `CRS`
-* 큰 폐쇄성 비용종, 합병증이 없는 mucocele 또는 수술이 필요할 수 있는 구조적 병변 의심  `CRSwNP`  `mucocele`
+* 연 4회 이상 반복되고 발작 사이에는 무증상
+* 12주 이상 지속되는 코 막힘·비루·후각 저하
+* 큰 폐쇄성 비용종, 합병증이 없는 mucocele 또는 수술이 필요할 수 있는 구조적 병변 의심
 
 ## <mark style="color:green;">임상 양상 및 진단</mark>
 
 #### <mark style="color:$primary;">급성 비부비동염 임상 진단</mark>
 
-* 성인 ARS : **농성 비루(전방 또는 후방)와 코 막힘 또는 안면 통증·압박감 중 하나 이상**이 동반되고 증상 기간이 4주 이내
+* 다음을 모두 충족하고 증상 기간이 4주 이내이면 ARS로 임상 진단
+  1. 농성 비루(전방 또는 후방)
+  2. 코막힘 또는 안면 통증·압박감 중 하나 이상
 * 후각 저하·발열·두통·치통·기침·피로감 등은 진단을 보조하지만 단독으로 ARS를 진단하지 않음
 * 다른 코 증상 없이 안면 통증·두통만 있으면 편두통·삼차신경통·측두하악관절 장애를 우선 감별
 
-#### <mark style="color:$primary;">세균 감염(ABRS) 진단 기준</mark>
+#### <mark style="color:$primary;">세균 감염(ABRS) 임상 진단</mark>
 
-* 다음 중 하나 이상 해당 시 ABRS 의심
+* 다음 중 하나 이상 해당 시 ABRS로 임상 진단(배양 확인이 아닌 추정 진단)
   1. 농성 콧물·코 막힘·안면 압통 등 ARS 증상이 호전 없이 ≥10일 지속
-  2. 발병 초기부터 최소 3\~4일 연속 심한 증상 지속 : 발열(≥39℃) + **농성 비루 또는 안면통**
+  2. 발병 초기부터 최소 3\~4일 연속 심한 증상 지속 : 발열(≥39℃) + 농성 비루 또는 안면통
   3. 초기 증상 호전 후 다시 악화('double worsening') - 새 발열·두통 또는 비루 증가 등이 나타나는 이봉성(二峯性) 양상
 
 {% hint style="info" %}
-<mark style="color:$info;">\[AAO-HNSF 2025]</mark>의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 **초기 호전 후 재악화**임. 발병 초기 ≥39℃ 고열과 **농성 비루 또는 안면통**이 3\~4일 연속 지속되는 severe onset은 <mark style="color:$info;">\[IDSA 2012]</mark> 기준으로 함께 평가하며, 중증 감염이면 즉시 항생제 치료 고려.
+AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 **초기 호전 후 재악화**임. 발병 초기 ≥39℃ 고열과 **농성 비루 또는 안면통**이 3\~4일 연속 지속되는 severe onset은 IDSA 2012 기준으로 함께 평가하며, 중증 감염이면 즉시 항생제 치료 고려
 {% endhint %}
 
 {% hint style="info" %}
-**초록색 콧물 ≠ 세균 감염**\
-콧물 색깔로 바이러스/세균을 감별할 수 없음. 초록색 농성 분비물은 호중구의 myeloperoxidase에 의한 것으로 바이러스 감염에서도 흔히 나타남; 10일 기준과 임상 중증도로 세균 감염 여부를 판단해야 함
+**초록색 콧물 ≠ 세균 감염** : 콧물 색깔로 바이러스/세균을 감별할 수 없음. 초록색 농성 분비물은 호중구의 myeloperoxidase에 의한 것으로 바이러스 감염에서도 흔히 나타남; 10일 기준과 임상 중증도로 세균 감염 여부를 판단해야 함
 {% endhint %}
 
 #### <mark style="color:$primary;">ABRS 진단 및 항생제 투여 결정 가이드</mark>
 
 <table><thead><tr><th width="119">질문 항목</th><th width="370">상태 확인</th><th>권고 사항</th></tr></thead><tbody><tr><td><strong>증상 기간</strong></td><td>10일 미만이며 호전 중</td><td>항생제 불필요; 대증 치료</td></tr><tr><td><strong>ABRS, 합병증 없음</strong></td><td>10일 이상 호전 없음 또는 double worsening</td><td>추적이 보장되면 진단 후 보통 3~5일 주의 관찰; 경과에 따라 조정</td></tr><tr><td><strong>중증/고위험</strong></td><td>≥39℃ 고열과 농성 비루 또는 안면통이 3~4일 연속 지속, 면역 저하 등</td><td>즉시 항생제 치료를 개별적으로 고려</td></tr><tr><td><strong>관찰 중 실패</strong></td><td>보통 3~5일 관찰 후 호전 없음 또는 관찰 중 언제든 악화</td><td>항생제 시작</td></tr><tr><td><strong>Red Flags</strong></td><td>안와 부종, 안구 운동 장애, 시력 변화, 의식 변화</td><td>즉각 조치</td></tr></tbody></table>
 
-합병증 없는 성인 ABRS에서 추적이 보장되면 항생제 없이 주의 관찰함. 권고문(KAS 4)은 관찰 기간을 고정하지 않으나, 지침 순서도는 **진단 후 3\~5일 내 호전 없음 또는 언제든 악화**를 재평가 기준으로 제시하므로 보통 3\~5일 관찰하고 진단 시점과 이미 경과한 증상 기간에 따라 조정함 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>. **항생제 시작 후의 무반응 평가에도 별도로 3\~5일을 적용**함.
+> _합병증 없는 성인 ABRS에서 추적이 보장되면 항생제 없이 주의 관찰함._ \
+> _AAO-HNSF 2025의 권고문은 관찰 기간을 고정하지 않으나, 같은 지침의 순서도는 진단 후 3\~5일 내 호전 없음 또는 언제든 악화를 재평가 기준으로 제시하므로 보통 3\~5일 관찰하고 진단 시점과 이미 경과한 증상 기간에 따라 조정함. 항생제 시작 후의 무반응 평가에도 별도로 3\~5일을 적용함._
 
 #### <mark style="color:$primary;">소아 ABRS 진단 기준</mark>
 
@@ -173,6 +180,15 @@
 * CT : 합병증 의심, CRS 객관적 확진, 치료 불응 원인 평가, 수술 전 해부학적 평가 시 시행. 합병증 없는 ARS/ABRS에서는 시행하지 않음; 일반 CRS 평가는 비조영 CT, 안와/두개내 감염 합병증 의심 시 조영증강 CT 및 필요시 MRI 고려
 * MRI : 액체·염증·종양 감별에 유리; 두개 내·안와 합병증 의심 시
 * 비강 내시경 : 치료 실패 또는 CRS에서 구조적 원인 확인
+
+***
+
+```mermaid
+```
+
+<p align="center"><strong>비부비동염 관리 알고리듬</strong></p>
+
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AAO-HNSF 2025; EPOS 2020)</mark></em></p>
 
 ***
 
@@ -255,13 +271,13 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
 {% hint style="info" %}
 **폐렴구균 내성 고위험군의 고용량 요법**
 
-국외 지침의 amoxicillin/clavulanate 고용량은 **2,000/125 ㎎ bid(amoxicillin 4 g/d)**임. 국내 속방형 복합제와 국외 고용량 제형은 투여간격·제형을 포함하여 구분해야 하며, 복합제 정수만 늘리면 clavulanate 과량 위험이 있음. 고용량이 필요한 환자는 중증도·감수성·가용 제형을 고려하여 전문적으로 치료 요법 결정 <mark style="color:$info;">\[AAO-HNSF 2025; IDSA 2012]</mark>.
+국외 지침의 amoxicillin/clavulanate 고용량은 \*\*2,000/125 ㎎ bid(amoxicillin 4 g/d)\*\*임. 국내 속방형 복합제와 국외 고용량 제형은 투여간격·제형을 포함하여 구분해야 하며, 복합제 정수만 늘리면 clavulanate 과량 위험이 있음. 고용량이 필요한 환자는 중증도·감수성·가용 제형을 고려하여 전문적으로 치료 요법 결정 <mark style="color:$info;">\[AAO-HNSF 2025; IDSA 2012]</mark>.
 {% endhint %}
 
-> **<mark style="color:$info;">\[AAO-HNSF 2025]</mark>** : amoxicillin 단독 또는 amoxicillin/clavulanate를 1차로 5\~7일 사용. 건강한 경증\~중등도 저위험군에서는 amoxicillin 단독을 고려하고, β-lactamase 생성균·중증·고위험군에서는 amoxicillin/clavulanate를 우선 고려\
-> **<mark style="color:$info;">\[대한감염학회 2017]</mark>** : amoxicillin 단독도 1차 선택에 포함
+> <mark style="color:$info;">**\[AAO-HNSF 2025]**</mark> : amoxicillin 단독 또는 amoxicillin/clavulanate를 1차로 5\~7일 사용. 건강한 경증\~중등도 저위험군에서는 amoxicillin 단독을 고려하고, β-lactamase 생성균·중증·고위험군에서는 amoxicillin/clavulanate를 우선 고려\
+> <mark style="color:$info;">**\[대한감염학회 2017]**</mark> : amoxicillin 단독도 1차 선택에 포함
 
-> **<mark style="color:$info;">\[NICE 2017]</mark>**\
+> <mark style="color:$info;">**\[NICE 2017]**</mark>\
 > ≤10일 증상에는 항생제 미사용 원칙. ＞10일 호전 없는 경우 세균 감염 가능성에 따라 처방. 1차 : phenoxymethylpenicillin (Pc VK) 500 ㎎ qid ×5d; 대체 : doxycycline 200 ㎎ 1일 후 100 ㎎ qd ×4d, clarithromycin 500 ㎎ bid ×5d; 임신부에서 진정한 Pc 알레르기 등으로 macrolide가 필요한 경우 : erythromycin 500\~1,000 ㎎ bid ×5d; 2차 또는 고위험군 : amoxicillin/clavulanate 500/125 ㎎ tid ×5d
 
 #### <mark style="color:$primary;">주의 관찰 및 지연 처방</mark>
@@ -295,7 +311,7 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
 
 #### <mark style="color:$primary;">CRS 아형 분류 (최신 지견)</mark>
 
-* 임상 표현형 : **CRS without nasal polyps (CRSsNP)**와 **CRS with nasal polyps (CRSwNP)**
+* 임상 표현형 : \*\*CRS without nasal polyps (CRSsNP)\*\*와 **CRS with nasal polyps (CRSwNP)**
 * <mark style="color:$info;">\[EPOS 2020]</mark> 분류 : primary/secondary → localized/diffuse → type 2/non-type 2 염증으로 세분
 * CRSwNP에서는 type 2 염증(호산구, IL-4/IL-5/IL-13)이 흔하지만 모든 환자에게 동일하지 않고, CRSsNP도 type 2 염증을 보일 수 있으므로 비용종 유무만으로 endotype을 단정하지 않음
   * CRSwNP + 천식 + COX-1 억제제 과민반응이면 [AERD/NERD](051_-allergic-rhinitis.md#drug-induced-rhinitis) 고려; 전문 의뢰
@@ -425,61 +441,6 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
 * 급성 세균성 악화가 객관적으로 의심될 때만 내시경 유도 배양 및 항생제 고려
 * 천식 등 동반 질환 치료
 * 수술 치료(FESS) 고려, 이비인후과 의뢰; 수술 전 모든 환자에게 일정 항생제·스테로이드 요법이나 고정 치료기간을 일률적으로 요구하지 않음 <mark style="color:$info;">\[AAO-HNSF Surgical CRS 2025]</mark>
-
-***
-
-### <mark style="color:orange;">비부비동염 관리 알고리듬</mark>
-
-```mermaid
-graph TD
-    Start(["비부비동염이 의심되는 성인"]) --> Red["Red Flags 즉각 조치 항목?"]
-    Red -- Yes --> ER["즉각 조치"]
-    Red -- No --> Urgent["Red Flags 당일~수일 내 평가 항목?"]
-    Urgent -- Yes --> SameDay["당일~수일 내 평가"]
-    Urgent -- No --> Duration["증상 기간"]
-
-    Duration -- "≤4주" --> ARS["ARS 증상 조합?"]
-    ARS -- No --> Alt["다른 진단 평가"]
-    ARS -- Yes --> ABRS["ABRS 기준?"]
-    ABRS -- No --> Viral["바이러스성 ARS<br/>대증 치료"]
-    ABRS -- Yes --> Risk["중증·면역 저하·즉시 치료 필요?"]
-    Risk -- Yes --> Antibiotic["항생제 치료·필요시 전문 의뢰"]
-    Risk -- No --> Follow["추적이 보장됨?"]
-    Follow -- Yes --> Watch["진단 후 보통 3~5일 주의 관찰<br/>진단 시점·경과에 따라 조정"]
-    Follow -- No --> Antibiotic
-    Watch --> Improve["관찰 기간 내 호전?<br/>언제든 악화 시 재평가"]
-    Improve -- Yes --> End["치료 종료"]
-    Improve -- "No/악화" --> Antibiotic
-    Antibiotic --> First["Amoxicillin ± clavulanate 5~7일<br/>알레르기·내성 위험은 약제 표 참조"]
-    First --> Fail["투여 3~5일 내 호전 없음<br/>또는 언제든 악화?"]
-    Fail -- No --> End
-    Fail -- Yes --> Reassess["진단·합병증 재평가<br/>항생제 변경"]
-
-    Duration -- "＞4주, ＜12주" --> Subacute["ARS 또는 CRS에 준해 개별 판단"]
-    Duration -- "≥12주" --> CRScheck["증상 + 객관적 염증?"]
-    CRScheck -- No --> Alt
-    CRScheck -- Yes --> CRS["CRS"]
-    CRS --> Phenotype["비용종·동반 질환·endotype 평가"]
-    Phenotype --> Basic["고용량 식염수 세척 + 비내 스테로이드"]
-    Basic --> Control["조절됨?"]
-    Control -- Yes --> Maintain["유지 치료"]
-    Control -- No --> Refer["이비인후과 의뢰<br/>수술·선별적 생물학제 평가"]
-
-    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    class Start start
-    classDef danger fill:#f8d7da,stroke:#c0392b
-    class ER danger
-    classDef urgent fill:#ffe0b2,stroke:#fb8c00
-    class SameDay urgent
-    classDef decision fill:#fff9c4,stroke:#ffe082
-    class Red,Urgent,Duration,ARS,ABRS,Risk,Follow,Improve,Fail,CRScheck,Control decision
-    classDef treatment fill:#e3f2fd,stroke:#1e88e5
-    class Viral,Watch,Antibiotic,First,Reassess,Basic,Maintain,Refer treatment
-```
-
-<p align="center"><strong>비부비동염 관리 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AAO-HNSF 2025; EPOS 2020)</mark></em></p>
 
 ***
 
@@ -653,17 +614,17 @@ graph TD
 
 * Payne SC, et al. Clinical Practice Guideline: Adult Sinusitis Update. Otolaryngol Head Neck Surg. 2025;173(Suppl 1):S1-S56. - 성인 ABRS 진단·주의 관찰·항생제 및 CRS 관리 [https://doi.org/10.1002/ohn.1344](https://doi.org/10.1002/ohn.1344)
 * Shin JJ, et al. Clinical Practice Guideline: Surgical Management of Chronic Rhinosinusitis. Otolaryngol Head Neck Surg. 2025;172(Suppl 2):S1-S47. - 수술 의뢰·수술 전 치료의 개별화 [https://doi.org/10.1002/ohn.1287](https://doi.org/10.1002/ohn.1287)
-* Fokkens WJ, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020 (EPOS 2020). Rhinology. 2020;58(Suppl S29):1-464. - CRS 정의·표현형·치료 경로 [https://www.epos2020.eu/Documents/supplement_29.pdf](https://www.epos2020.eu/Documents/supplement_29.pdf)
+* Fokkens WJ, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020 (EPOS 2020). Rhinology. 2020;58(Suppl S29):1-464. - CRS 정의·표현형·치료 경로 [https://www.epos2020.eu/Documents/supplement\_29.pdf](https://www.epos2020.eu/Documents/supplement_29.pdf)
 * Fokkens WJ, et al. EPOS/EUFOREA update on indication and evaluation of Biologics in Chronic Rhinosinusitis with Nasal Polyps 2023. Rhinology. 2023;61(3):194-202. - 생물학적 제제 선정·반응 평가 [https://doi.org/10.4193/Rhin22.489](https://doi.org/10.4193/Rhin22.489)
 * Chow AW, et al. IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults. Clin Infect Dis. 2012;54(8):e72-e112. - 중증 발병 기준·고용량 항생제·치료 실패 평가 [https://doi.org/10.1093/cid/cis370](https://doi.org/10.1093/cid/cis370)
 * Wald ER, et al. Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years. Pediatrics. 2013;132(1):e262-e280. - 소아 진단·관찰·항생제 치료 [https://publications.aap.org/pediatrics/article/132/1/e262/31288/](https://publications.aap.org/pediatrics/article/132/1/e262/31288/)
 * NICE. Sinusitis (acute): antimicrobial prescribing (NG79). 2017. - 대증 치료·비내 스테로이드·임신 중 항생제 선택; 영국 권고와 국내 허가 구분 [https://www.nice.org.uk/guidance/ng79](https://www.nice.org.uk/guidance/ng79)
 * 대한감염학회 외. 성인 급성 상기도 감염 항생제 사용 지침. 2017. - 국내 성인 급성 세균성 비부비동염 항생제 선택
-* Philpott C, et al. The clinical effectiveness of clarithromycin versus endoscopic sinus surgery for adults with chronic rhinosinusitis with and without nasal polyps (MACRO): a pragmatic, multicentre, three-arm, randomised, placebo-controlled phase 4 trial. Lancet. 2025;406(10506):926-939. - 장기 clarithromycin의 일률적 사용을 지지하지 않는 무작위시험 [https://doi.org/10.1016/S0140-6736(25)01248-6](https://doi.org/10.1016/S0140-6736(25)01248-6)
+* Philpott C, et al. The clinical effectiveness of clarithromycin versus endoscopic sinus surgery for adults with chronic rhinosinusitis with and without nasal polyps (MACRO): a pragmatic, multicentre, three-arm, randomised, placebo-controlled phase 4 trial. Lancet. 2025;406(10506):926-939. - 장기 clarithromycin의 일률적 사용을 지지하지 않는 무작위시험 [https://doi.org/10.1016/S0140-6736(25)01248-6](https://doi.org/10.1016/S0140-6736\(25\)01248-6)
 * American Academy of Pediatrics, Committee on Infectious Diseases. Red Book: 2024-2027 Report of the Committee on Infectious Diseases. 33rd ed. Systems-Based Treatment Table: Acute sinusitis. - 소아 급성 세균성 비부비동염의 항생제 선택 및 5\~7일 치료기간. [https://publications.aap.org/redbook/book/755/chapter/14074070/Systems-Based-Treatment-Table](https://publications.aap.org/redbook/book/755/chapter/14074070/Systems-Based-Treatment-Table)
 * Khan DA, et al. Drug allergy: A 2022 practice parameter update. J Allergy Clin Immunol 2022;150(6):1333-1393. - AERD에서의 진통제 선택 및 중증 지연형 약물 과민반응 평가. [https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 고시 제2026-159호 - 약제 급여기준(dupilumab).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801&sno=1&mtgMtrRegSno=0005) - CRSwNP 및 동반 질환별 급여 범위 확인
+* [건강보험심사평가원. 고시 제2026-159호 - 약제 급여기준(dupilumab).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801\&sno=1\&mtgMtrRegSno=0005) - CRSwNP 및 동반 질환별 급여 범위 확인
