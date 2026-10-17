@@ -1,4 +1,4 @@
-# 알레르기비염 Allergic Rhinitis, AR
+# 알레르기비염 Allergic Rhinitis
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -62,7 +62,7 @@
 
 * 알레르겐 → 항원제시세포\* → Th2 세포 활성화 → IL-4·IL-13(B세포의 IgE 생성) / IL-5(호산구 동원·활성화)
 
-> _**\***항원제시세포(Antigen-Presenting Cell, APC) : 체내에 침입한 세균, 바이러스 등 외래 항원을 분해한 뒤, 그 조각을 표면에 드러내어 T-림프구에게 보여주고 면역 반응을 시작하도록 돕는 면역 세포_
+> _**\***&#xD56D;원제시세포(Antigen-Presenting Cell, APC) : 체내에 침입한 세균, 바이러스 등 외래 항원을 분해한 뒤, 그 조각을 표면에 드러내어 T-림프구에게 보여주고 면역 반응을 시작하도록 돕는 면역 세포_
 
 * IgE → mast cell·basophil 감작 → 재노출 시 탈과립 → histamine·leukotriene·PGD2 방출 → 가려움·재채기·수양성 콧물·코 막힘; 수 분\~1시간 **\[early-phase response]**
 * 호산구 등 염증세포 침윤 → MBP·ECP 등 독성 단백 → 점막 부종·과민성 증가 → 코 막힘 우세; 4\~8시간 후 **\[late-phase reaction]**
@@ -110,29 +110,29 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 안구 돌출, 시력 저하, 복시·안구운동 장애, 안와 주위 부종  `안와 합병증`  `급성 합병성 부비동염`
-* 의식 변화, 수막자극징후, 심한 두통과 전신 독성 소견  `두개내 합병증`
-* 면역저하 환자에서 발열, 심한 안면 통증, 비강 내 검은 가피·괴사  `침습성 진균성 비부비동염`
-* 최근 두부 외상·비강 또는 두개저 수술 후 새로 발생한 편측의 맑은 수양성 콧물, 또는 신경학적 이상·수막염 증상을 동반한 맑은 콧물  `뇌척수액 비루`
-* 음식·약물·면역요법 투여 후 입술·혀·인후 부종, 호흡곤란, 저혈압  `아나필락시스`
-* 소아에서 비강 내 버튼전지 또는 비중격 양쪽에 걸린 자석 의심  `버튼전지·자석 비강 이물`
-* 안정 시 호흡곤란, 심한 천명, 저산소증 또는 빠른 호흡기 증상 악화  `급성 천식 악화`
+* 안구 돌출, 시력 저하, 복시·안구운동 장애, 안와 주위 부종 `안와 합병증` `급성 합병성 부비동염`
+* 의식 변화, 수막자극징후, 심한 두통과 전신 독성 소견 `두개내 합병증`
+* 면역저하 환자에서 발열, 심한 안면 통증, 비강 내 검은 가피·괴사 `침습성 진균성 비부비동염`
+* 최근 두부 외상·비강 또는 두개저 수술 후 새로 발생한 편측의 맑은 수양성 콧물, 또는 신경학적 이상·수막염 증상을 동반한 맑은 콧물 `뇌척수액 비루`
+* 음식·약물·면역요법 투여 후 입술·혀·인후 부종, 호흡곤란, 저혈압 `아나필락시스`
+* 소아에서 비강 내 버튼전지 또는 비중격 양쪽에 걸린 자석 의심 `버튼전지·자석 비강 이물`
+* 안정 시 호흡곤란, 심한 천명, 저산소증 또는 빠른 호흡기 증상 악화 `급성 천식 악화`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 지속되는 편측 코 막힘, 혈성 분비물, 반복 코피, 편측 안면 통증·감각 저하  `비강·부비동 종양`  `비중격 병변`
-* 외상 없이 지속되는 편측의 맑은 수양성 콧물(고개 숙이면 증가)  `자발성 뇌척수액 비루`
-* 소아의 편측 악취성 화농성 분비물  `비강 이물`
-* 새로 발생하거나 악화하는 천명·호흡곤란(안정 시 호흡곤란·저산소증 없음)  `천식 동반`
+* 지속되는 편측 코 막힘, 혈성 분비물, 반복 코피, 편측 안면 통증·감각 저하 `비강·부비동 종양` `비중격 병변`
+* 외상 없이 지속되는 편측의 맑은 수양성 콧물(고개 숙이면 증가) `자발성 뇌척수액 비루`
+* 소아의 편측 악취성 화농성 분비물 `비강 이물`
+* 새로 발생하거나 악화하는 천명·호흡곤란(안정 시 호흡곤란·저산소증 없음) `천식 동반`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 용법의 INCS를 2\~4주 사용했는데도 호전 없음  `혼합형 비염`  `LAR`  `구조적 이상`
-* 양측성 코 막힘과 후각 저하가 지속되며 항히스타민제 반응이 없음  `비용종 동반 만성 비부비동염`
-* 아스피린·NSAIDs 복용 후 코 막힘·호흡곤란 악화 병력  `NERD/AERD`
-* 코골이, 목격된 무호흡, 주간 졸림  `폐쇄성 수면무호흡증`
-* 재발성 부비동염·중이염  `구조적 이상`  `만성 비부비동염`
-* 안정적인 야간 기침·운동 시 호흡기 증상  `천식 동반 가능성`
+* 적절한 용법의 INCS를 2\~4주 사용했는데도 호전 없음 `혼합형 비염` `LAR` `구조적 이상`
+* 양측성 코 막힘과 후각 저하가 지속되며 항히스타민제 반응이 없음 `비용종 동반 만성 비부비동염`
+* 아스피린·NSAIDs 복용 후 코 막힘·호흡곤란 악화 병력 `NERD/AERD`
+* 코골이, 목격된 무호흡, 주간 졸림 `폐쇄성 수면무호흡증`
+* 재발성 부비동염·중이염 `구조적 이상` `만성 비부비동염`
+* 안정적인 야간 기침·운동 시 호흡기 증상 `천식 동반 가능성`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -188,7 +188,7 @@
 * ① 재채기, ② 콧물, ③ 코막힘, ④ 코 가려움 4가지 증상에 대한 "**오늘 코 증상이 얼마나 괴로우신가요?**" 질문에 각각 0\~3점으로 표시(0=없음, 1=가벼움, 2=중간, 3=심함); 합계 (최대 12점)
 * 치료 단계는 ARIA 중증도, 수면·일상 기능 및 환자의 불편감을 함께 고려하여 결정하며, TNSS 총점을 일정 구간으로 나누어 치료 단계의 표준 경계값으로 사용하지 않음
 
-<mark style="color:cyan;">**VAS(Visual Analogue Scale)**</mark>&#x20;
+<mark style="color:cyan;">**VAS(Visual Analogue Scale)**</mark>
 
 * 0\~10 ㎝ VAS(☞ [통증](../220_/001_-pain.md#undefined-3))를 증상 조절 평가에 활용 <mark style="color:$info;">\[ARIA 2020]</mark>
   * ＜2 조절됨, 2 이상 5 미만 부분 조절, ≥5 조절되지 않음
@@ -207,7 +207,7 @@
   * INCS에 경구 항히스타민제를 추가하는 것은 코 증상의 추가 이득이 크지 않으므로, 안구 증상 등 환자별 이득이 있을 때 고려
 * 통년성 AR : INCS 단독 또는 통년성 적응증이 허가된 INCS+INAH 고정 복합제
 * 중등증 이상에서는 INCS+INAH 고정 복합제를 초기 치료제로 고려 - 단일 요법으로 충분한 개선이 어려울 것으로 예상되거나 빠른 효과가 필요한 경우, 또는 단일제 사용에도 조절되지 않는 경우 고려
-  * 복합제&#x20;
+  * 복합제
     * <mark style="color:blue;">\[딜라스틴 나잘]</mark>(fluticasone p.+azelastine) : ≥6세 중등도\~중증의 계절성 또는 통년성 AR; 임부·수유부 금기
     * <mark style="color:blue;">\[리알트리스 나잘스프레이]</mark>(mometasone+olopatadine) : ≥6세 계절성 AR; 통년성 AR은 국내 허가 적응증이 아님
     * <mark style="color:blue;">\[모테손플러스나잘스프레이]</mark>(mometasone f.+azelastine) : ≥12세 통년성 AR; 계절성 AR은 국내 허가 적응증이 아님; 임부·수유부 금기
@@ -236,9 +236,7 @@
 
 ### <mark style="color:orange;">중증도별 치료 방침</mark>
 
-<table><thead><tr><th width="102">중증도</th><th>1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증,<br>간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)†<br>• 비내 스테로이드(INCS) 중 선택</td><td>코 막힘이 주 증상이면 INCS 우선; 안구 증상을 함께 조절하려면 OAH 고려</td></tr><tr><td>경증,<br>지속적</td><td>• INCS 우선<br>• 안구 증상 등 추가 이득이 있으면 OAH 고려<br>• 코 증상 조절 불충분 시 INCS+INAH 고정 복합제로 전환</td><td>수성 콧물 지속 시 비내 ipratropium 추가; 심한 코 막힘에는 비내 혈관수축제를 예외적으로 연속 3일 이내(길어도 5일) 사용; 12세 미만은 피함</td></tr><tr><td>중등증<br>~중증</td><td>• INCS 또는<br>• INCS+INAH 고정 복합제 <mark style="color:blue;">[딜라스틴 나잘]</mark> <mark style="color:blue;">[리알트리스 나잘스프레이]</mark> <mark style="color:blue;">[모테손플러스나잘스프레이]</mark></td><td>단일요법으로 충분한 개선이 어렵거나 빠른 조절이 필요하면 복합제 고려; 계절성 AR : 딜라스틴·리알트리스, 통년성 AR : 딜라스틴·모테손플러스(국내 허가 기준); 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증, <br>지속적<br>(불응성)</td><td>• INCS+INAH 고정 복합제<br>• 순응도·분무법·진단 재평가</td><td>• 경구 스테로이드는 매우 심하거나 난치성인 경우에만 전문가 판단하에 5~7일을 예외적으로 고려<br>• 천식 동반·NERD 등 특정 상황에서 LTRA 선택적 추가*<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
-
-> _†INAH 단독요법은 국내 사용 가능한 허가 품목에 한해 적용(비내용 제제 항목 참고)._
+<table><thead><tr><th width="102">중증도</th><th>1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증,<br>간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)<br>• 비내 스테로이드(INCS) 중 선택</td><td>코 막힘이 주 증상이면 INCS 우선; 안구 증상을 함께 조절하려면 OAH 고려</td></tr><tr><td>경증,<br>지속적</td><td>• INCS 우선<br>• 안구 증상 등 추가 이득이 있으면 OAH 고려<br>• 코 증상 조절 불충분 시 INCS+INAH 고정 복합제로 전환</td><td>수성 콧물 지속 시 비내 ipratropium 추가; 심한 코 막힘에는 비내 혈관수축제를 예외적으로 연속 3일 이내(길어도 5일) 사용; 12세 미만은 피함</td></tr><tr><td>중등증<br>~중증</td><td>• INCS 또는<br>• INCS+INAH 고정 복합제 <mark style="color:blue;">[딜라스틴 나잘]</mark> <mark style="color:blue;">[리알트리스 나잘스프레이]</mark> <mark style="color:blue;">[모테손플러스나잘스프레이]</mark></td><td>단일요법으로 충분한 개선이 어렵거나 빠른 조절이 필요하면 복합제 고려; 계절성 AR : 딜라스틴·리알트리스, 통년성 AR : 딜라스틴·모테손플러스(국내 허가 기준); 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증,<br>지속적<br>(불응성)</td><td>• INCS+INAH 고정 복합제<br>• 순응도·분무법·진단 재평가</td><td>• 경구 스테로이드는 매우 심하거나 난치성인 경우에만 전문가 판단하에 5~7일을 예외적으로 고려<br>• 천식 동반·NERD 등 특정 상황에서 LTRA 선택적 추가*<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
 
 > \*_LTRA(montelukast 등)는 routine 중증 옵션이 아님. 다른 치료로 조절되지 않고 경구 치료를 강하게 선호하거나 천식·NERD가 동반된 경우 선택적으로 고려. OAH+LTRA의 routine 병용은 권고하지 않으며, FDA 박스형 경고(신경정신계 부작용)를 고려하여 처방 전 위험-이익을 충분히 논의_
 
@@ -326,7 +324,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 <table><thead><tr><th width="208">구분</th><th>내용</th></tr></thead><tbody><tr><td>집먼지진드기에 대한 조치¹⁾</td><td>• 알레르겐 불투과 천으로 매트리스, 베개, 이불을 감쌈<br>• 카펫 및 부드러운 가구에 대한 살진드기제 사용</td></tr><tr><td>꽃가루 회피 조치²⁾</td><td>• 꽃가루가 많을 때 야외 활동 제한 (이른 아침, 이른 저녁, 풀 베는 동안)<br>• 집과 차에서 창문을 닫고 지내기<br>• 꽃가루 노출 후 샤워/세척<br>• 환경 지수가 나쁠 때 야외 세탁물 건조 회피</td></tr></tbody></table>
 
 > _¹⁾집먼지진드기 차단 커버 등 단일 조치만으로는 임상 효과가 제한적이므로 여러 환경 조치를 함께 적용_\
-> _²⁾꽃가루 회피 조치의 근거는 주로 관찰연구와 전문가의견임_
+> _&#xB2;⁾꽃가루 회피 조치의 근거는 주로 관찰연구와 전문가의견임_
 
 <p align="center"><em><mark style="color:$info;">Ref. BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis. 2017.</mark></em></p>
 
@@ -356,7 +354,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 >
 > _효과 표시는 최신 권고와 기존 비교 자료를 종합한 상대적·개략적 비교이며 환자별 반응은 다를 수 있음._
 
-<p align="center"> <em><mark style="color:$info;">Ref. ARIA-EAACI 2024~2025 Part I·II.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ARIA-EAACI 2024~2025 Part I·II.</mark></em></p>
 
 ### <mark style="color:orange;">스테로이드</mark>
 
@@ -373,7 +371,7 @@ class Cause1,Cause2,Cause3,Rescue orange
   * 소아에서의 성장 문제 : 낮은 전신 흡수율만으로 성장에 대한 스테로이드의 영향을 완전히 배제할 수 없으므로, 장기 사용 시 최저 유효 용량을 사용하고 정기적으로 성장을 확인. 영향은 성분·용량·연구에 따라 다르며, fluticasone furoate 비강분무제의 52주 소아 연구에서 위약 대비 약간의 성장 속도 감소가 보고됨 <mark style="color:$info;">\[J Allergy Clin Immunol Pract 2014]</mark>
 * 상호작용 : fluticasone은 ritonavir·cobicistat, itraconazole 등 강한 CYP3A4 저해제와 병용 시 전신 corticosteroid 부작용 위험 증가
 
-<table><thead><tr><th width="169">성분명 [상품명]</th><th width="82">1회 분무량</th><th width="129">성인 용량*</th><th>소아 용량*</th><th width="101">사용 연령</th><th width="95">전신 흡수율</th></tr></thead><tbody><tr><td>ciclesonide <br><mark style="color:blue;">[옴나리스 나잘]</mark></td><td>50 ㎍</td><td>2 puffs qd</td><td>계절성 6세 이상: 2 puffs qd<br>통년성 12세 이상: 성인과 동일</td><td>계절 ≥6세<br>통년 ≥12세</td><td>매우 낮음</td></tr><tr><td>mometasone f. <br><mark style="color:blue;">[나조넥스 나잘]</mark></td><td>50 ㎍</td><td>1~2 puffs qd</td><td>2~11세: 1 puff qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>매우 낮음</td></tr><tr><td>fluticasone f. <br><mark style="color:blue;">[아바미스 나잘]</mark></td><td>27.5 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~11세: 1 puff qd; 불충분 시 2 puffs qd, 조절 후 감량<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>＜1%</td></tr><tr><td>budesonide <br><mark style="color:blue;">[나리타점비액]</mark></td><td>50 ㎍</td><td>초기 4 puffs qd 또는 2 puffs bid<br>호전 후 1 puff bid</td><td>6~12세: 2 puffs qd 또는 1 puff bid</td><td>≥6세</td><td>약 34%</td></tr><tr><td>triamcinolone <br><mark style="color:blue;">[나자코트 비액]</mark></td><td>55 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~5세: 1 puff qd (최대)<br>6~11세: 1 puff qd; 최대 2 puffs qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>약 46%</td></tr></tbody></table>
+<table><thead><tr><th width="169">성분명 [상품명]</th><th width="82">1회 분무량</th><th width="129">성인 용량*</th><th>소아 용량*</th><th width="101">사용 연령</th><th width="95">전신 흡수율</th></tr></thead><tbody><tr><td>ciclesonide<br><mark style="color:blue;">[옴나리스 나잘]</mark></td><td>50 ㎍</td><td>2 puffs qd</td><td>계절성 6세 이상: 2 puffs qd<br>통년성 12세 이상: 성인과 동일</td><td>계절 ≥6세<br>통년 ≥12세</td><td>매우 낮음</td></tr><tr><td>mometasone f.<br><mark style="color:blue;">[나조넥스 나잘]</mark></td><td>50 ㎍</td><td>1~2 puffs qd</td><td>2~11세: 1 puff qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>매우 낮음</td></tr><tr><td>fluticasone f.<br><mark style="color:blue;">[아바미스 나잘]</mark></td><td>27.5 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~11세: 1 puff qd; 불충분 시 2 puffs qd, 조절 후 감량<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>＜1%</td></tr><tr><td>budesonide<br><mark style="color:blue;">[나리타점비액]</mark></td><td>50 ㎍</td><td>초기 4 puffs qd 또는 2 puffs bid<br>호전 후 1 puff bid</td><td>6~12세: 2 puffs qd 또는 1 puff bid</td><td>≥6세</td><td>약 34%</td></tr><tr><td>triamcinolone<br><mark style="color:blue;">[나자코트 비액]</mark></td><td>55 ㎍</td><td>2 puffs qd<br>조절 후 1 puff qd</td><td>2~5세: 1 puff qd (최대)<br>6~11세: 1 puff qd; 최대 2 puffs qd<br>12세 이상: 성인과 동일</td><td>≥2세</td><td>약 46%</td></tr></tbody></table>
 
 > _\*비공 당 분무 횟수_\
 > _※ 흡수율은 제형·측정법에 따라 달라 직접적인 안전성 순위를 뜻하지 않음. budesonide는 6세 미만에서 안전성·유효성이 확립되지 않음._
@@ -698,7 +696,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 > **코 막힘 약(슈다페드 등)을 처방받으셨습니다**
 >
-> * 슈다페드는 두근거림·불면·혈압 상승 등의 부작용 때문에 **처방된 짧은 기간(이 처방에서는 5일 이내)**만 사용하세요.
+> * 슈다페드는 두근거림·불면·혈압 상승 등의 부작용 때문에 \*\*처방된 짧은 기간(이 처방에서는 5일 이내)\*\*만 사용하세요.
 > * 코에 뿌리는 혈관수축제(오트리빈 등)는 오래 쓰면 반동성 코 막힘이 생길 수 있어 **연속 3일 이내로 사용하고, 길어도 5일을 넘기지 마세요.** 어린이에게 임의로 사용하지 마세요.
 > * 두근거림, 잠이 안 옴, 소변이 잘 안 나옴이 생기면 중단하고 알려주세요.
 > * **고혈압·심장질환·당뇨병·갑상선기능항진증·녹내장·신장질환·수유 중인 경우** 또는 전립선 비대가 있거나 다른 약을 복용 중이면 처방 전에 알려주세요. 슈다페드는 일부 질환·수유에서 사용이 금지됩니다.
