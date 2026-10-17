@@ -21,7 +21,7 @@
   * 간경변증·HCC 진행 위험 인자 : 고령, 알코올, HBV 또는 HIV 동반 감염, 면역 결핍, 미치료
 * DAA 치료 시 SVR(지속적 바이러스 반응) 달성률 : 유전자형 무관 95% 이상
   * 과거 인터페론 기반 요법의 70\~90%와 대비됨
-* 회복 시 : 감염 후 8\~9주부터 HCV Ab 양전 시작, 6개월 내 97% 이상에서 양전
+* HCV Ab : 감염 후 평균 8\~9주에 양전하며, 감염자의 97% 이상에서 6개월 내 양전; 회복 여부를 의미하지 않음
 
 #### <mark style="color:$primary;">전파 경로</mark>
 
@@ -35,7 +35,7 @@
 
 #### <mark style="color:$primary;">고위험군</mark>
 
-* 1990년 이전 혈액 제제 수혈 또는 장기 이식 수혜자
+* 국내 헌혈 혈액의 HCV 항체 선별검사 도입(1991년) 이전 수혈자 및 과거 장기 이식 수혜자; 미국 기준의 수혈·장기 이식 위험 시점은 1992년 7월 이전으로 국내 기준과 구분
 * 정맥 주사 약물 남용자 또는 그러한 과거력이 있는 사람
 * 혈액 투석 환자, HIV 감염자, 혈우병 환자
 * HCV 감염자와 성 접촉을 가진 사람
@@ -60,7 +60,7 @@
   * 원인 미상의 신질환, 피부 혈관염, 관절통, 한랭글로불린혈증 환자에서 C형간염 선별 검사를 적극 고려
 * 간경변 시 : 만성 피로, 황달, 복수, 간성 뇌증, 식도정맥류(문맥압 항진증)
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>&#x20;
 
@@ -77,7 +77,7 @@
 * 혈소판 ＜ 100,000/㎕ + 비장비대 → 진행된 문맥압항진증/간경변증 평가 필요
 * DAA 치료 중 황달·심한 피로·발진 등 새로운 이상 증상 발생
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * SVR12 달성 실패 (치료 종료 후 12주 HCV RNA 검출)
 * 간경변증 없이 SVR 달성 후 간효소 수치 지속 상승
@@ -97,9 +97,9 @@
 
 #### <mark style="color:$primary;">HCV Ab / RNA 판정</mark>
 
-<table data-header-hidden><thead><tr><th width="80">HCV Ab</th><th width="80">HCV RNA</th><th>판정</th></tr></thead><tbody><tr><td>+</td><td>+</td><td>현재 감염 : 급성 또는 만성 C형간염</td></tr><tr><td>+</td><td>-</td><td>C형간염 회복 / 혈중 바이러스 낮은 급성기 / HCV RNA 위음성 / HCV Ab 위양성</td></tr><tr><td>-</td><td>+</td><td>급성 C형간염 초기 (window period) / 면역 억제 상태에서의 만성 C형간염 / HCV RNA 위양성</td></tr><tr><td>-</td><td>-</td><td>HCV 감염 없음 (단, 고위험군에서 노출 8\~12주 이전이면 4\~6주 후 재검 고려)</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="80">HCV Ab</th><th width="80">HCV RNA</th><th>판정</th></tr></thead><tbody><tr><td>+</td><td>+</td><td>현재 감염 : 급성 또는 만성 C형간염</td></tr><tr><td>+</td><td>-</td><td>C형간염 회복 / 혈중 바이러스 낮은 급성기 / HCV RNA 위음성 / HCV Ab 위양성</td></tr><tr><td>-</td><td>+</td><td>급성 C형간염 초기 (window period) / 면역 억제 상태에서의 만성 C형간염 / HCV RNA 위양성</td></tr><tr><td>-</td><td>-</td><td>현재 감염의 증거 없음; 최근 노출·면역저하·임상적 의심이 있으면 RNA를 검사·재검하고 노출 후 추적 일정 적용</td></tr></tbody></table>
 
-<p align="center"><em><mark style="color:$info;">Ref. C형간염 관리지침, 질병관리청, 2017; WHO, 2022.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 대한간학회. 2025 C형간염 진료 가이드라인; CDC. Clinical Screening and Diagnosis for Hepatitis C.</mark></em></p>
 
 **HCV RNA 검사 시점별 의미**
 
@@ -117,7 +117,8 @@ SVR12 = 치료 종료 후 12주 시점에 혈중 HCV RNA가 검출되지 않는 
 * 대한간학회 : C형간염 퇴치를 위해 국가적 수준의 대규모 선별검사를 권고
   * 국내 국가건강검진 : 56세에 C형간염 항체검사 생애 1회 시행 (2026년 기준 1970년생)
   * 2026년부터 국가건강검진 C형간염 항체 양성자의 HCV RNA 확진검사 관련 진찰료·검사비 본인부담금 지원 범위가 상급·종합병원까지 확대됨(최초 1회, 상한액 7만원)
-* 미국 USPSTF/CDC : 18\~79세 성인 1회 선별검사를 권고하며, 미국 CDC는 임신마다 선별검사를 권고함. 이는 국내 국가검진·대한간학회 권고와 구분하여 적용
+* 미국 USPSTF : 18\~79세 성인에서 1회 선별검사 권고
+* 미국 CDC : 18세 이상 성인에서 1회, 임신마다 선별검사 권고(해당 진료 환경의 HCV RNA 양성률 ＜0.1%이면 보편검사 예외). 국내 국가검진·대한간학회 권고와 구분하여 적용
 * 국내 임산부 : 일률적인 선별검사는 권고하지 않으며, 산전 진찰에서 HCV 감염 위험인자가 있으면 검사 고려
 * 지속적인 재감염 위험이 있는 환자 : SVR 후에도 주기적인 HCV RNA 검사를 시행
 * 검사 순서 : anti-HCV Ab 양성 → HCV RNA 검사 (현재 감염 여부 확인)
@@ -126,31 +127,26 @@ SVR12 = 치료 종료 후 12주 시점에 혈중 HCV RNA가 검출되지 않는 
 
 ```mermaid
 flowchart TD
-    A([HCV Ab 검사 •양성 또는 <br/>•음성 + '고위험군 또는 증상 의심']) --> C[<u>추가 검사</u><br/>HCV RNA 또는 HCV cAg]
-    C -- "양성" --> E["HCV 감염 확인<br/>(급성 또는 만성)"]
-    C -- "음성" --> F["HCV 감염 없음<br/>고위험군은 3~6개월 후 재검"]
-    E --> G["<u>치료 전 평가</u><br/>• 비침습적 간섬유화 검사: APRI, FIB-4<br/>• 필요 시 HCV 유전자형/RAS<br/>• HBsAg / anti-HBc 검사<br/>• 임신, 약물 상호작용, 동반 질환 확인"]
-    G --> H[간질환 중증도·치료 이력 평가]
-    H -- "초치료 + 비경변성 또는 대상성 간경변증" --> I["<u>단순화 치료</u><br/>G/P 8주<br/>또는 SOF/VEL 12주"]
-    H -- "이전 치료·HBV 동반·HCC·임신·이식 등" --> J["개별 평가 후 치료<br/>필요 시 유전자형/RAS 검사"]
-    H -- "비대상성 간경변증" --> K["SOF/VEL + ribavirin 12주<br/>또는 ribavirin 불가 시 SOF/VEL 24주<br/>전문의/간이식 기관 의뢰"]
-    I --> L["<u>SVR 평가</u><br/>치료 종료 후 12주<br/>HCV RNA 검사"]
+    A(["HCV Ab 양성 또는 최근 노출·임상적 의심"]) --> B["HCV RNA 검사"]
+    A -- "RNA 검사 접근이 어려우면" --> C["HCV 핵심항원 검사"]
+    C -- 양성 --> D["현재 감염 확인 및 치료 평가"]
+    C -- 음성 --> E["항체 양성·최근 노출·임상적 의심이면 RNA로 확인"]
+    E --> B
+    B -- 양성 --> D
+    B -- 음성 --> F["대개 현재 감염 없음; 최근 노출·급성 감염 의심 시 RNA 재검"]
+    D --> G["간섬유화·비대상성 병력·기본검사·HBV/HIV·임신·상호작용 평가"]
+    G --> H{"단순화 치료 적합 여부"}
+    H -- "초치료이며 제외 조건 없음" --> I["G/P 8주 또는 SOF/VEL 12주; GT3 간경변증 예외 평가"]
+    H -- "이전 치료·HBsAg 양성·임신·HCC·이식 등" --> J["개별 치료 전략 및 전문의 평가"]
+    H -- "현재 또는 과거 비대상성 간경변증" --> K["PI 함유요법 회피; 전문의·간이식 기관에서 요법 결정"]
+    I --> L["치료 종료 후 12주 이상에 HCV RNA로 SVR 확인"]
     J --> L
     K --> L
-    L --> M[치료 전 진행된 간섬유화 또는 간경변증?]
-    M -- "예" --> N["6개월마다<br/>HCC 감시 + 간경변 합병증 관리"]
-    M -- "아니오" --> O["SVR 확인 후<br/>간질환 원인에 따라 추적"]
-
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,H,M yellow
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class F,O blue
-classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class N,L,G,C lightGreen
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class I,J,K sky
-style E fill:#fde8f0,stroke:#e91e8c
+    L --> M{"SVR 달성?"}
+    M -- 아니오 --> N["재발·재감염 평가 및 재치료"]
+    M -- 예 --> O{"치료 전 진행된 간섬유화 또는 간경변증?"}
+    O -- 예 --> P["HCC 감시 6개월마다 및 간질환 관리 지속"]
+    O -- 아니오 --> Q["다른 간질환에 따른 추적; 재감염 위험 지속 시 RNA 검사"]
 ```
 
 <p align="center"><strong>C형간염 진단·치료·모니터링 알고리듬</strong></p>
@@ -163,7 +159,7 @@ style E fill:#fde8f0,stroke:#e91e8c
 
 * 치료 목표 : SVR12 - 치료 종료 후 12주에 혈중 HCV RNA 검출 불가(= 임상적 완치)
 * 모든 만성 C형간염 환자에게 DAA 치료를 권고 - 간섬유화 단계·유전자형에 무관
-* 급성 감염에서도 만성 감염과 동일하게 DAA 치료 시행 가능
+* 급성 감염에서 정량 가능한 HCV RNA가 확인되면 자연 소실을 기다리지 않고 만성 감염과 동일한 표준 DAA 요법으로 치료를 권고(AASLD/IDSA); 이미 자연 소실된 환자는 치료하지 않으며 단일 RNA 음성만으로 소실을 확정하지 않음
 * 치료 시작 전 평가
   * 간섬유화 단계 : 비침습적 검사(APRI, FIB-4, 간탄성도 검사) 또는 간생검
   * HBsAg, anti-HBs, anti-HBc 검사 : HBV 동반 감염 또는 과거 감염 확인 → 재활성화 위험 평가
@@ -179,9 +175,10 @@ style E fill:#fde8f0,stroke:#e91e8c
 ☐ HBsAg / anti-HBc / anti-HBs (HBV 동반 또는 과거 감염 평가)\
 ☐ HIV 감염 여부 및 재감염 위험 행동\
 ☐ 임신 여부 및 임신 계획\
-☐ eGFR 및 신장질환 동반 여부\
+☐ CBC, AST/ALT, bilirubin, albumin, INR, eGFR(비경변성은 대개 치료 전 6개월 이내, 대상성 간경변증은 3개월 이내)\
+☐ 신장질환 동반 여부 및 ribavirin 사용 시 신기능에 따른 용량 조절\
 ☐ 약물 상호작용 확인 (특히 amiodarone, rifampin계, 항경련제, 일부 스타틴 등)\
-☐ HCC 진단·의심 여부\
+☐ HCC 진단·의심 여부; 대상성 간경변증은 치료 전 6개월 이내 간 초음파로 HCC·잠재 복수 확인\
 ☐ 이전 DAA 치료 이력 → 해당 시 salvage 요법(SOF/VEL/VOX 등) 고려
 {% endhint %}
 
@@ -189,7 +186,7 @@ style E fill:#fde8f0,stroke:#e91e8c
 
 * 금주 : 알코올은 간질환 진행 및 HCC 위험을 증가시키므로 가능한 금주를 권고
 * 체중 조절 : 비만·대사이상지방간질환이 동반된 경우 간질환 진행 위험이 증가하므로 체중 및 대사질환 관리 권고
-* HAV·HBV 예방 접종 : C형간염 환자에서 HAV(항체 음성 시) 및 HBV(항체 음성 시) 예방 접종 권고
+* HAV·HBV 예방 접종 : HAV 면역이 없으면 접종. HBV는 HBsAg, anti-HBs, total anti-HBc 및 접종력을 확인하여 감수성이 있으면 접종; anti-HBs 음성만으로 재접종을 결정하지 않음
 * 혈액 매개 전파 예방 : 면도기·칫솔·손톱깎이 등 개인위생 용품 공유 금지
 * 주사 약물 남용자 : 일회용 주사기 사용 교육, 약물 남용 치료 프로그램 연계
 * 영양 관리 : 고단백·충분한 칼로리 섭취; 간경변 환자는 영양사 상담 권고
@@ -200,7 +197,7 @@ style E fill:#fde8f0,stroke:#e91e8c
 {% hint style="danger" %}
 **국내 건강보험 급여 기준(고시)**&#x20;
 
-이 챕터는 국제 가이드라인(AASLD/IDSA, WHO)을 기반으로 작성되었음. **국내 건강보험심사평가원(HIRA) 급여 기준은 약제 선택, 투여 기간, 대상 환자에서 가이드라인과 다를 수 있으며**, 보험 고시는 유동적이므로 **DAA 처방 전 심평원 고시(www.hira.or.kr) 최신 기준을 확인하십시오.**\
+이 챕터는 대한간학회 2025 지침(2025.12 최종 수정)을 기본으로 AASLD/IDSA·CDC 등 국제 지침으로 보완하였음. **국내 건강보험심사평가원(HIRA) 급여 기준은 약제 선택, 투여 기간, 대상 환자에서 가이드라인과 다를 수 있으며**, 보험 고시는 유동적이므로 **DAA 처방 전 심평원 고시(www.hira.or.kr) 최신 기준을 확인하십시오.**\
 ✽특히 G/P의 치료 기간(8주 vs 12주), 유전자형별 적용 범위, 비대상성 간경변증 환자 요법에서 급여 기준과 가이드라인 간 간극이 있을 수 있습니다.
 {% endhint %}
 
@@ -222,20 +219,24 @@ style E fill:#fde8f0,stroke:#e91e8c
 
 **1차 표준 치료 - Pangenotypic DAA**
 
-* 이전 치료력이 없고 비경변성 또는 대상성 간경변증(Child-Pugh A)인 환자는 유전자형에 관계없이
+* 이전 치료력이 없고 비경변성 또는 대상성 간경변증(Child-Pugh A)인 환자의 기본 요법은 다음과 같으며, SOF/VEL을 선택하는 GT3 간경변증은 아래 예외를 평가한다.
   * G/P <mark style="color:blue;">[마비렛]</mark> 3정 qd, 식사와 함께, **8주**
   * 또는 SOF/VEL <mark style="color:blue;">[엡클루사]</mark> 1정 qd, 식사 무관, **12주**
-* 치료 실패, HBV 동반감염, 임신, HCC, 간이식 후, 대상성 간경변증+말기콩팥병 등은 단순화 치료 대상에서 제외하고 개별 평가한다.
+* 치료 실패, HBsAg 양성 HBV 동반감염, 임신, HCC, 간이식 후, 대상성 간경변증+말기콩팥병 등은 단순화 치료 대상에서 제외하고 개별 평가한다.
 * 이전 치료 경험이 있는 환자의 재치료는 과거 사용 약제와 간질환 상태에 따라 선택하며, 대부분 SOF/VEL/VOX를 포함한 구제요법을 고려한다.
 
 #### <mark style="color:$primary;">비경변성 또는 대상성 간경변증 - Treatment naive</mark>
 
-<table><thead><tr><th width="150">약제</th><th width="80">유전형</th><th width="70">기간</th><th>유의사항</th></tr></thead><tbody><tr><td>G/P <br><mark style="color:blue;">[마비렛]</mark></td><td>1~6</td><td>8주</td><td>비경변성 및 대상성 간경변증의 초치료에서 권고</td></tr><tr><td>SOF/VEL <br><mark style="color:blue;">[엡클루사]</mark></td><td>1~6</td><td>12주</td><td>비경변성 및 대상성 간경변증의 초치료에서 권고. GT3 간경변증에서는 치료 전 유전자형/RAS 평가를 고려</td></tr></tbody></table>
+<table><thead><tr><th width="150">약제</th><th width="80">유전형</th><th width="70">기간</th><th>유의사항</th></tr></thead><tbody><tr><td>G/P <br><mark style="color:blue;">[마비렛]</mark></td><td>1~6</td><td>8주</td><td>비경변성 및 대상성 간경변증의 초치료에서 권고</td></tr><tr><td>SOF/VEL <br><mark style="color:blue;">[엡클루사]</mark></td><td>1~6</td><td>12주</td><td>비경변성 및 대상성 간경변증의 초치료에서 권고. 대상성 간경변증에서 AASLD/IDSA 단순화 전략으로 SOF/VEL을 선택하면 유전자형 확인; GT3이면 Y93H 평가 후 요법 결정</td></tr></tbody></table>
 
 {% hint style="info" %}
 **Simplified HCV treatment 비적용 대상**
 
-이전 HCV 치료 경험, HBV 동반감염, 대상성 간경변증+말기콩팥병(eGFR ＜30 ㎖/min/1.73㎡), 현재 또는 과거 비대상성 간경변증, 임신, HCC 동반·의심, 간이식 수혜자는 단순화 치료 전략을 적용하지 않는다. 이러한 환자는 치료 전 평가를 강화하고 개별 치료 전략을 선택한다.
+이전 HCV 치료 경험, HBsAg 양성 HBV 동반감염, 대상성 간경변증+말기콩팥병(eGFR ＜30 ㎖/min/1.73㎡), 현재 또는 과거 비대상성 간경변증, 임신, HCC 동반·의심, 간이식 수혜자는 단순화 치료 전략을 적용하지 않는다. 이러한 환자는 치료 전 평가를 강화하고 개별 치료 전략을 선택한다.
+{% endhint %}
+
+{% hint style="info" %}
+**GT3 대상성 간경변증과 SOF/VEL** : AASLD/IDSA 단순화 전략에서는 SOF/VEL 선택 전 유전자형을 확인하고, GT3이면 NS5A Y93H를 평가한다. Y93H가 없으면 SOF/VEL 12주가 가능하며, 있거나 검사가 어려우면 G/P 등 대안 또는 전문의의 개별 요법을 선택한다. 이는 국내 지침의 범유전자형 기본 요법에 국제 지침의 예외 조건을 보완한 것이다.
 {% endhint %}
 
 #### <mark style="color:$primary;">비대상성 간경변증 - Treatment naive</mark>
@@ -252,7 +253,8 @@ style E fill:#fde8f0,stroke:#e91e8c
 
 * DAA 치료 전 모든 환자에서 HBsAg, anti-HBc, anti-HBs를 확인한다.
 * HBsAg 양성인 경우 HBV DNA를 측정하고, HBV 단독감염의 치료 기준에 따라 HBV 항바이러스 치료 여부를 결정한다.
-* HBV DNA가 검출되는 HBV/HCV 동반감염 환자에서는 예방적 HBV 항바이러스 치료를 고려하며, DAA 치료 중 및 치료 후 HBV DNA와 ALT를 면밀히 모니터링한다.
+* 일반 HBV 치료 적응증을 충족하면 DAA 시작 전 또는 동시에 HBV 치료를 시작한다(☞ B형간염). 적응증 미충족 HBsAg 양성자는 HBV DNA가 낮거나 미검출이어도 **예방적 항바이러스제 투여 또는 약 4주 간격 HBV DNA·ALT 추적**을 선택한다.
+* AASLD/IDSA 보완 기준 : 예방투여를 선택하면 DAA 치료 중부터 종료 후 SVR12 평가 시점까지 유지한다. 모니터링을 선택한 경우 HBV DNA가 기저 대비 ＞10배 상승하거나, 기저 미검출·정량불가 환자에서 ＞1,000 IU/㎖가 되면 HBV 치료를 시작한다. 이 재활성화 대처 기준은 일반 만성 HBV 치료 시작 기준과 구분한다.
 * HBsAg 음성/anti-HBc 양성 환자에서도 HBV 재활성화가 드물게 발생할 수 있다. DAA 치료 중 또는 치료 후 ALT 상승이 나타나면 HBsAg와 HBV DNA를 검사하여 재활성화를 확인한다.
 * HBV 항바이러스제로는 entecavir, tenofovir DF 또는 tenofovir AF를 사용하며, TDF와 SOF/VEL 병용 시 TDF 노출 증가 가능성을 고려하여 신기능을 모니터링한다.
 
@@ -284,7 +286,19 @@ style E fill:#fde8f0,stroke:#e91e8c
 * 3세 이상 HCV 감염 소아는 DAA 치료 대상이며, 2025 대한간학회는 SOF/VEL 12주 또는 G/P 8주를 권고한다.
 * 소아에서는 체중에 따라 용량을 조절한다.
 
-<table><thead><tr><th>체중</th><th>SOF/VEL 1일 1회, 12주</th><th>G/P 1일 1회, 8주</th></tr></thead><tbody><tr><td>&lt;17 kg</td><td>150/37.5 ㎎</td><td>150/60 ㎎</td></tr><tr><td>17~30 kg</td><td>200/50 ㎎</td><td>200/80 ㎎</td></tr><tr><td>30~45 kg</td><td>400/100 ㎎</td><td>250/100 ㎎</td></tr><tr><td>&gt;45 kg 및 &gt;12세</td><td>400/100 ㎎</td><td>300/120 ㎎ (성인 용량)</td></tr></tbody></table>
+**SOF/VEL — 3세 이상, 1일 1회 12주(국제 소아 권고 용량)**
+
+<table><thead><tr><th>체중</th><th>1일 용량</th></tr></thead><tbody><tr><td>＜17 kg</td><td>150/37.5 ㎎</td></tr><tr><td>≥17~＜30 kg</td><td>200/50 ㎎</td></tr><tr><td>≥30 kg</td><td>400/100 ㎎</td></tr></tbody></table>
+
+**G/P — 3세 이상, 1일 1회 8주(초치료·비경변성 또는 대상성 간경변증)**
+
+<table><thead><tr><th>체중·연령</th><th>1일 용량</th></tr></thead><tbody><tr><td>12~＜20 kg</td><td>150/60 ㎎</td></tr><tr><td>≥20~＜30 kg</td><td>200/80 ㎎</td></tr><tr><td>≥30~＜45 kg</td><td>250/100 ㎎</td></tr><tr><td>≥45 kg 또는 ≥12세</td><td>300/120 ㎎(성인 용량)</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. AASLD/IDSA. HCV in Children; 건강보험심사평가원. 고시 제2026-117호.</mark></em></p>
+
+* 국내 G/P 급여 : 2026년 6월부터 만 3세 이상~12세 미만 소아의 유전자형 1~6형 만성 C형간염에 **허가범위 초과 급여**로 체중별 8주 요법을 인정한다(12~＜20 kg 150/60 ㎎, 20~＜30 kg 200/80 ㎎, 30~＜45 kg 250/100 ㎎, ≥45 kg 300/120 ㎎).
+* SOF/VEL의 3세 이상 국제 권고와 국내 허가 연령·제형은 구분한다. 국내 엡클루사정 제품정보의 소아 대상은 만 12세 이상이면서 체중 ≥30 kg이다. 위 체중별 용량을 성인 정제의 임의 분할로 구현하지 않는다.
+* G/P의 ≥45 kg **또는** ≥12세 성인 용량 조건은 국제 권고에 따른다. 12세 미만 국내 급여는 위 체중 구간을 적용하고, 제형·조제 방법은 소아 간질환 전문의·약사와 결정한다.
 
 * 소아 용량은 국내 허가 제형·공급 여부를 처방 시 확인한다.
 * 소아의 진단 및 치료는 소아청소년과 또는 소아 간질환 진료 경험이 있는 전문의와 협진을 고려한다.
@@ -294,7 +308,9 @@ style E fill:#fde8f0,stroke:#e91e8c
 #### <mark style="color:$primary;">모니터링</mark>
 
 * 단순화 치료에서는 치료 중 routine HCV RNA 검사를 시행하지 않고, 치료 종료 후 SVR12를 평가하는 것이 기본이다.
-* 국내에서는 치료 기간 중 약물 상호작용, 복약 순응도 및 이상반응을 확인하기 위한 외래 또는 전화 추적을 시행할 수 있다.
+* 치료 중 약물 상호작용, 복약 순응도 및 이상반응을 확인하기 위한 외래 또는 전화 추적을 시행한다.
+* 당뇨병 치료제 복용자는 저혈당을, warfarin 복용자는 INR 변화를 치료 중 및 치료 후 모니터링하고 필요 시 병용약 용량을 조절한다.
+* 대상성 간경변증에서는 간기능 악화 여부를 추적하며, ribavirin 병용 시 CBC·빈혈 및 신기능을 별도로 모니터링한다.
 * 황달, 심한 피로, 복통, 의식 변화 등 새로운 증상이 발생하면 즉시 평가한다.
 
 #### <mark style="color:$primary;">복약 순응도 및 치료 중단자 관리</mark>
@@ -318,11 +334,14 @@ style E fill:#fde8f0,stroke:#e91e8c
 
 **C형간염 환자 혈액에 직접 노출된 경우**
 
-1. 노출 즉시 → HCV Ab + 혈청 ALT 검사
-2. HCV Ab(−) → 노출 후 4~6주에 HCV RNA 검사
-3. 초기 검사에서 음성이어도 → 노출 후 4~6개월에 HCV Ab + ALT 추적검사
+1. 가능한 48시간 이내 감염원과 노출자를 함께 평가한다. 감염원은 HCV RNA 또는 anti-HCV 후 양성 시 RNA 검사; 노출자는 기저 anti-HCV를 검사하고 양성이면 RNA를 추가한다.
+2. 감염원이 RNA 양성, 항체 양성이나 RNA 미확인, 또는 검사가 불가능하면 **노출 후 3\~6주에 HCV RNA**를 검사한다.
+3. RNA 음성이면 **노출 후 4\~6개월에 anti-HCV**, 양성 시 RNA를 추가한다. 기저 항체 양성/RNA 음성자는 항체 대신 RNA로 추적한다.
+4. 추적 중 간염 증상이 생기면 예정 시점과 관계없이 RNA를 검사한다. 예방적 DAA 투여는 권고하지 않으며, 감염 확인 시 치료로 연계한다.
 
-#### <mark style="color:$primary;">C형간염 산모 출생 신생아**
+<p align="center"><em><mark style="color:$info;">Ref. CDC. Guidelines for Health Care Personnel Exposed to Hepatitis C Virus.</mark></em></p>
+
+#### <mark style="color:$primary;">C형간염 산모 출생 신생아</mark>
 
 * 국내 2025 대한간학회 지침 : HCV Ab는 생후 18개월 이후 시행
 * 조기 진단이 필요한 경우 : HCV RNA는 생후 6개월 이후 시행
@@ -350,7 +369,7 @@ B18.2 만성 바이러스 C형간염
 > 마비렛정 (글레카프레비르 100㎎/피브렌타스비르 40㎎)   3정   qd   식사와 함께   8주
 > ※ 매일 같은 시간, 반드시 음식과 함께 복용
 > ※ 복용 중 타 약제 추가 시 약물상호작용 확인
-> ※ 이전 HCV 치료력, HBV 동반감염, 임신, HCC, 간이식 후 등은 단순화 치료 대상이 아니므로 개별 평가
+> ※ 이전 HCV 치료력, HBsAg 양성 HBV 동반감염, 임신, HCC, 간이식 후 등은 단순화 치료 대상이 아니므로 개별 평가
 > ```
 >
 > _✽비경변성 및 대상성 간경변증의 초치료에서 유전자형에 관계없이 사용할 수 있는 표준 pangenotypic 요법. SVR 달성률은 대부분 95% 이상._
@@ -360,7 +379,7 @@ B18.2 만성 바이러스 C형간염
 > ```
 > 엡클루사정 (소포스부비르 400㎎/벨파타스비르 100㎎)   1정   qd   식사 무관   12주
 > ※ 위산억제제 병용 시 약물상호작용 확인
-> ※ GT3 간경변증 등에서는 치료 전 유전자형/RAS 평가를 고려
+> ※ 대상성 간경변증에서 SOF/VEL 선택 시 유전자형 확인; GT3은 Y93H 평가 후 요법 결정(AASLD/IDSA 단순화 전략)
 > ```
 >
 > _✽비경변성 및 대상성 간경변증의 초치료에서 사용할 수 있는 pangenotypic 요법._
@@ -401,7 +420,7 @@ B18.2 만성 바이러스 C형간염
 > **약물 상호작용 - 매우 중요합니다**
 >
 > * DAA는 약제별로 중요한 약물상호작용이 있습니다.
->   * 예: SOF/VEL과 amiodarone 병용은 심한 서맥 위험 때문에 금기이며, G/P은 rifampin계 약물·carbamazepine·phenytoin·St John’s wort 및 atorvastatin/lovastatin/simvastatin과 병용하지 않습니다.
+>   * 예: SOF/VEL과 amiodarone은 중증 서맥 위험 때문에 병용을 피하며, 대안이 없어 불가피하게 병용할 때에는 전문의 관리하 심장 모니터링이 필요합니다. 또한 G/P은 rifampin계 약물·carbamazepine·phenytoin·St John’s wort 및 atorvastatin/lovastatin/simvastatin과 병용하지 않습니다.
 >   * Rosuvastatin 등 일부 스타틴은 DAA별 허용 용량이 다르므로 일률적으로 금기라고 하지 않고 제품별 용량 제한을 확인합니다.
 >   * 복용 중인 **모든 약(한약, 건강기능식품 포함)을 반드시 의사·약사에게 알려주십시오.**
 > * 약물 상호작용 온라인 확인 : [www.hep-druginteractions.org](https://www.hep-druginteractions.org)
@@ -428,17 +447,9 @@ B18.2 만성 바이러스 C형간염
 >
 > * 치료 중 황달, 심한 복통, 의식 변화 → **즉시 내원**
 > * **치료 종료 후 12주** → HCV RNA 검사(SVR12 확인) **필수 방문**
-> * 간경변증이 있는 경우 → SVR 달성 후에도 **6개월마다** 간초음파 + AFP 검사
+> * 치료 전 진행된 간섬유화 또는 간경변증이 있었던 경우 → SVR 달성 후에도 **6개월마다** 간초음파 + AFP 검사
 
 ***
-
-### <mark style="color:$info;">최신 근거 및 참고</mark>
-
-* 대한간학회. **2025 대한간학회 C형간염 진료 가이드라인**. 2025.12 최종 수정.
-* 질병관리청. **2026년도 바이러스 간염 관리지침(A형·B형·C형·E형)**. 2026.5 수정.
-* 질병관리청. 2026년 56세 C형간염 국가건강검진 확진검사비 지원사업 안내.
-* CDC. Recommendations for Hepatitis C Testing Among Perinatally Exposed Infants and Children — United States, 2023.
-* HCV 치료 중 약물상호작용은 University of Liverpool HEP Drug Interactions 및 각 제품 허가사항을 처방 시 확인한다.
 
 ### <mark style="color:blue;">환자 안내서</mark>
 
@@ -451,7 +462,7 @@ C형간염은 C형간염 바이러스(HCV)가 혈액을 통해 전파되는 간�
 #### <mark style="color:$primary;">C형간염은 왜 생기나요?</mark>
 
 * C형간염 바이러스는 **주로 감염자의 혈액에 노출될 때 전파**됩니다.
-* 주된 경로 : 오염된 주사기 재사용, 비위생적인 문신·피어싱·침술, 1992년 이전 수혈 또는 장기 이식
+* 주된 경로 : 오염된 주사기 재사용, 비위생적인 문신·피어싱·침술, 과거 수혈(국내에서는 1991년 선별검사 도입 이전) 또는 장기 이식
 * 일상생활 - 같은 그릇 사용, 악수, 포옹, 기침, 재채기로는 **전염되지 않습니다.**
 * 감염 후 수십 년간 아무런 증상이 없을 수 있어 "침묵의 질환"이라고도 합니다. 증상이 없어도 간 손상은 서서히 진행될 수 있습니다.
 
@@ -466,7 +477,7 @@ C형간염은 C형간염 바이러스(HCV)가 혈액을 통해 전파되는 간�
 
 * 🚫 **금주하십시오** : 술은 간에 추가 손상을 주어 간경변증 진행을 빠르게 합니다.
 * 🩸 **개인위생 용품을 따로 사용하십시오** : 면도기, 칫솔, 손톱깎이는 각자 사용하십시오.
-* 💉 **예방 접종을 받으십시오** : A형간염과 B형간염 항체가 없다면 예방 접종을 권장합니다.
+* 💉 **예방 접종을 확인하십시오** : A형간염 면역이 없으면 예방 접종을 받으십시오. B형간염은 감염·면역 검사와 과거 접종력을 확인한 뒤 접종 여부를 결정합니다.
 * ⚖️ **체중을 관리하십시오** : 비만은 간질환 진행을 악화시킵니다.
 
 #### <mark style="color:$primary;">완치 후에도 주의할 점이 있나요?</mark>
@@ -481,3 +492,36 @@ C형간염은 C형간염 바이러스(HCV)가 혈액을 통해 전파되는 간�
 * 갑자기 심한 복통 또는 배가 급격히 불러오는 경우
 * 의식이 흐려지거나 말이 어눌해지는 경우
 * 피를 토하거나 검은색 변이 나오는 경우
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* 대한간학회. **2025 C형간염 진료 가이드라인**(2025.12 최종 수정). 국내 진단·치료·SVR 후 추적의 기본 지침.
+  * https://www.kasl.org/bbs/?code=guide&mode=view&number=6192
+* AASLD/IDSA. **HCV Guidance**. 급성 감염 치료, 단순화 치료의 GT3 예외, HBV 재활성화 모니터링 및 소아 체중별 용량 보완.
+  * https://www.hcvguidelines.org/guidance/management-of-acute-hcv-infection/
+  * https://www.hcvguidelines.org/guidance/simplified-hcv-treatment-algorithm-for-treatment-naive-adults-with-compensated-cirrhosis/
+  * https://www.hcvguidelines.org/guidance/monitoring-patients-who-are-starting-hcv-treatment-are-on-treatment-or-have-completed-therapy/
+  * https://www.hcvguidelines.org/guidance/hcv-in-children/
+* CDC. **Clinical Screening and Diagnosis for Hepatitis C**; **Recommendations for Hepatitis C Testing Among Perinatally Exposed Infants and Children — United States, 2023**. 미국 성인·임신부 선별검사와 노출 영아의 2~6개월 RNA 검사.
+  * https://www.cdc.gov/hepatitis-c/hcp/diagnosis-testing/index.html
+  * https://www.cdc.gov/mmwr/volumes/72/rr/rr7204a1.htm
+* CDC. **Guidelines for Health Care Personnel Exposed to Hepatitis C Virus**. 감염원·노출자 검사 및 노출 후 추적 일정.
+  * https://www.cdc.gov/hepatitis-c/hcp/infection-control/index.html
+* USPSTF. **Hepatitis C Virus Infection in Adolescents and Adults: Screening**. 미국 18~79세 성인 선별검사 권고.
+  * https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hepatitis-c-screening
+* 질병관리청. **2026년도 바이러스 간염 관리지침** 및 **C형간염 국가건강검진 확진검사비 지원사업 안내**. 국내 감염병 관리·검진 후 연계.
+  * https://www.kdca.go.kr
+* University of Liverpool. **HEP Drug Interactions**. DAA와 병용약의 상호작용 확인.
+  * https://www.hep-druginteractions.org
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. **의약품안전나라 — 의약품 품목허가정보**. 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회.
+  * https://nedrug.mfds.go.kr/index
+* 건강보험심사평가원. **약제 급여기준 — C형간염 DAA**. 약제·치료 이력·간경변증·연령에 따른 투여 기간과 급여 조건 확인. G/P 소아 허가범위 초과 급여는 고시 제2026-117호(2026.6.1 시행) 참조.
+  * https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000400
