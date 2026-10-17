@@ -2,6 +2,8 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
+* 적용 범위 : 이하 항생제·중증도·치료 기간 권고는 주로 면역정상 성인의 지역사회획득폐렴(CAP)에 적용. 소아, 중증 면역저하자 및 병원획득폐렴은 별도 지침에 따라 평가·치료
+
 * 폐렴은 감염에 의해 terminal bronchiole 이하 폐 실질에 염증과 새로운 침윤이 발생하는 질환. 약물·방사선·과민반응 등에 의한 비감염성 폐렴염(pneumonitis)과 구분
 * 경과 : 적절히 치료해도 증상별 회복 속도가 다름. 발열은 대개 1주 이내 호전하지만 기침·호흡 곤란은 수 주, 피로는 수개월 지속될 수 있으며 영상학적 음영 소실은 임상 증상보다 늦음
 * 재발성 폐렴 : 각 발병 사이 임상적·영상학적 호전이 확인된 별개의 폐렴이 반복되는 경우. 동일 부위 반복 시 기관지 폐쇄·이물·종양, 서로 다른 부위 반복 시 흡인·면역 저하·기관지확장증 등을 평가
@@ -59,7 +61,7 @@
 **국내&#x20;**_**M. pneumoniae**_**&#x20;macrolide 내성 주의** : 국내 소아에서 높은 내성률이 보고되지만 이를 성인 내성률에 그대로 적용할 수는 없음. 성인에서는 지역 역학과 임상 반응을 함께 판단하고, macrolide 치료 후 48–72시간에도 호전이 없으면 진단·중증도·합병증을 재평가한 뒤 doxycycline 또는 respiratory fluoroquinolone 전환을 고려
 {% endhint %}
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 이송 또는 응급 평가**</mark>
 
@@ -70,12 +72,12 @@
 
 <mark style="color:$warning;">**당일 의뢰 또는 입원 평가**</mark>
 
-* CRB-65 ≥1점, CURB-65 ≥2점 또는 PSI ≥71점이면서 외래 치료의 안전성이 불확실한 경우
+* CRB-65 ≥2점 또는 CURB-65 ≥2점에서 병원 평가 고려; CRB-65 1점 또는 PSI 71–90점에서는 산소화·경구 섭취·동반 질환·돌봄 여건을 함께 판단하여 외래 치료의 안전성이 불확실하면 당일 의뢰. PSI ≥91점은 입원 평가
 * 흉부 X선상 다엽 침범, 농흉 의심
 * 심한 구토, 경구 섭취 곤란, 탈수
 * 고령(＞65세) 또는 면역 저하 환자의 중등증 이상 증상
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 치료 시작 48–72시간 후에도 전혀 호전되지 않거나 발열·호흡기 증상이 악화됨
 * 임상·영상학적 호전이 확인된 별개의 폐렴이 반복됨 : 기저 원인 감별을 위한 추가 검사
@@ -87,7 +89,7 @@
 
 #### <mark style="color:$primary;">Diehr Rule - 성인 폐렴의 임상 진단 Tool</mark>
 
-　　_<mark style="color:$info;">Ref. Diehr P et al. J Chronic Dis 1984;37(2):215–25.</mark>_
+　　_<mark style="color:$info;">Ref. Diehr P et al. J Chronic Dis 1984;37(3):215–25.</mark>_
 
 * 배점 : 콧물 −2점, 인후통 −1점, 근육통 +1점, 야간 발한 +1점, 가래(하루 종일) +1점, 호흡수 ＞25/분 +2점, 체온 ＞37.8℃ +2점.
 * 판정 : 점수가 높을수록 폐렴 가능성 증가 (1점≒8.8%, 2점≒10.3%, ≥4점≒29.4%).&#x20;
@@ -153,28 +155,32 @@
 
 ```mermaid
 flowchart TD
-    A([외래 CAP 의심]) --> B{"Red Flag 또는<br/>CRB-65 ≥1?"}
-    B -- 예 --> C[응급 이송 또는<br/>당일 병원 평가]
-    B -- 아니오 --> D{"MRSA·녹농균 위험<br/>또는 결핵 의심?"}
-    D -- 예 --> E[배양·결핵 검사 고려<br/>입원 또는 전문의뢰]
-    D -- 아니오 --> F{"호흡기 바이러스 양성?"}
-    F -- "예: 동반 질환 없음<br/>세균 감염 가능성 낮음" --> G[항생제 보류 고려<br/>항바이러스 적응증 평가]
-    F -- "아니오·미검사<br/>또는 동반 질환 있음" --> H{CAP 동반 질환?}
-    H -- 없음 --> I[amoxicillin 또는 doxycycline]
-    H -- 있음 --> J[amox-clav 또는 cephalosporin<br/>+ doxycycline<br/>또는 respiratory FQ]
-    I --> K[48–72시간 임상 경과 확인]
+    A(["외래 성인 CAP 의심"]) --> B{"응급 징후 또는 외래 치료 불안전?"}
+    B -- "예" --> C["응급 이송 또는 당일 병원 평가"]
+    B -- "아니오" --> S{"CRB-65 점수?"}
+    S -- "2점 이상" --> C
+    S -- "1점" --> T{"산소화·섭취·돌봄 및 추적 확보?"}
+    T -- "아니오" --> C
+    T -- "예" --> D{"MRSA·녹농균 위험 또는 결핵 의심?"}
+    S -- "0점" --> D
+    D -- "예" --> E["배양·결핵 검사 및 입원·전문의뢰 고려"]
+    D -- "아니오" --> F{"바이러스 양성이고 동반 질환 없으며 세균 감염 가능성 낮음?"}
+    F -- "예" --> G["항생제 보류 고려 및 항바이러스 적응증 평가"]
+    F -- "아니오" --> H{"CAP 동반 질환?"}
+    H -- "없음" --> I["amoxicillin 또는 doxycycline"]
+    H -- "있음" --> J["(amox-clav 또는 cephalosporin) + doxycycline 또는 respiratory FQ"]
+    I --> K["48–72시간 임상 경과 확인"]
     J --> K
     G --> K
-    K -- 호전 --> L[임상 안정 시<br/>적정 단기 치료 완료]
-    K -- 악화·불안정 --> M[진단·합병증·내성 재평가<br/>입원 또는 의뢰]
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#f39c12
-class B,D,F,H,K yellow
-classDef L_red fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-class C,E,M L_red
-style G fill:#fff3e0,stroke:#e65100
-style L fill:#d0e8ff,stroke:#1a6abf
-
+    K -- "호전" --> L["임상 안정 시 적정 단기 치료 완료"]
+    K -- "호전 없음·악화" --> M["진단·합병증·내성 재평가 및 입원·의뢰"]
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#f39c12
+    class B,S,T,D,F,H yellow
+    classDef danger fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    class C,E,M danger
+    style G fill:#fff3e0,stroke:#e65100
+    style L fill:#d0e8ff,stroke:#1a6abf
 ```
 
 <p align="center"><strong>CAP 외래 항생제 선택 알고리듬</strong></p>
@@ -205,7 +211,8 @@ style L fill:#d0e8ff,stroke:#1a6abf
 * 배점 : 각 항목에 1점씩 부여
 * CRB-65 판정 및 조치
   * 0점 = 대체로 외래 치료
-  * 1–2점 = 당일 병원 평가·의뢰 고려
+  * 1점 = 산소화·경구 섭취·동반 질환·돌봄 여건을 평가하여 안전망을 갖춘 외래 치료 또는 당일 병원 평가 결정; 연령만으로 1점인 안정된 환자를 일률적으로 의뢰하지 않음
+  * 2점 = 병원 평가·의뢰 고려
   * 3–4점 = 긴급 입원 평가
 * CURB-65 판정 및 조치
   * 0–1점 = 대체로 외래 치료
@@ -261,20 +268,21 @@ _<mark style="color:$info;">Ref. PSI/PORT Score : https://www.mdcalc.com/psi-por
 
 * &#x20;amoxicillin 1 g tid <mark style="color:blue;">\[파목신]</mark>
 * &#x20;또는 doxycycline 100 ㎎ bid <mark style="color:blue;">\[독시사이클린]</mark>
-* Macrolide (azithromycin, clarithromycin)는 국내 내성률을 고려하여 단독 1차 선택에서 제외. 단, 지역 내 내성률이 ＜25%임이 확인된 경우 또는 특수 상황(doxycycline 금기 등)에서 고려 가능
+* Macrolide (azithromycin, clarithromycin)는 국내 내성률을 고려하여 경험적 단독 1차 선택에서 제외. 지역 폐렴구균 macrolide 내성률이 ＜25%임이 확인된 경우에만 단독요법 고려. Doxycycline 금기만으로 macrolide 단독요법을 선택하지 않고, penicillin 알레르기·동반 질환·약물 금기를 종합하여 대체 요법 결정
 
 #### <mark style="color:$primary;">동반 질환 있음¹⁾</mark>
 
 **다음 중 하나 + doxycycline 병용**
 
-* amoxicillin/clavulanate 500/125 ㎎ tid, 875/125 ㎎ bid, 또는 서방형 총 2,000/125 ㎎ bid <mark style="color:blue;">\[오구멘틴]</mark> (국내 가용 제형·허가사항 확인)
+* amoxicillin/clavulanate 500/125 ㎎ tid 또는 875/125 ㎎ bid <mark style="color:blue;">\[오구멘틴]</mark>
+  * ATS/IDSA에는 서방형 총 2,000/125 ㎎ bid도 제시되어 있으나 일반 제형을 정수만 늘려 대체하는 용법이 아니므로 해당 서방형 제형 사용 시에만 적용
 * cefpodoxime 200 ㎎ bid <mark style="color:blue;">\[바난]</mark>
 * cefuroxime 500 ㎎ bid <mark style="color:blue;">\[진네트]</mark>
 
 **또는 단독 요법 (결핵 가능성 배제 후)**
 
 * Respiratory fluoroquinolone
-  * levofloxacin 750 ㎎ qd (국내 가용 제품의 함량·허가사항과 신기능에 따른 용량 확인)
+  * levofloxacin 750 ㎎ qd (신기능에 따라 감량)
   * moxifloxacin 400 ㎎ qd <mark style="color:blue;">\[아벨록스]</mark>
   * gemifloxacin 320 ㎎ qd <mark style="color:blue;">\[팩티브]</mark>
 
@@ -282,14 +290,17 @@ _<mark style="color:$info;">Ref. PSI/PORT Score : https://www.mdcalc.com/psi-por
 
 #### <mark style="color:$primary;">확인된 Mycoplasma pneumoniae / Chlamydia pneumoniae</mark>
 
-* 1차 선택 : doxycycline 100 ㎎ bid (국내 macrolide 내성 고려)
-* 2차 선택 : respiratory fluoroquinolone (결핵 배제 후)
-* Macrolide는 감수성·지역 내성 및 임상 반응을 고려하여 결정
+* _M. pneumoniae_ : 성인에서 doxycycline 100 ㎎ bid를 고려할 수 있음. Macrolide 사용 여부는 감수성·지역 역학 및 임상 반응으로 결정하며, 국내 소아 내성률을 성인에 그대로 적용하지 않음. 반응이 없거나 대체 약제가 필요하면 respiratory fluoroquinolone 고려(결핵 가능성 평가 후)
+* _C. pneumoniae_ : macrolide(azithromycin 등) 또는 doxycycline을 선택할 수 있고, respiratory fluoroquinolone은 대안. _M. pneumoniae_의 macrolide 내성 문제를 동일하게 적용하지 않음
+
+_<mark style="color:$info;">Ref. CDC Clinical Care of M. pneumoniae Infection; Clinical Overview of C. pneumoniae Infection</mark>_
 
 ### <mark style="color:orange;">NICE 지침 (NG250, 2025)</mark>
 
-* 치료 기간 : 5일 (단 미생물학적 검사상 추가 치료 필요, 48시간 내 발열 지속, 또는 임상적 불안정 소견²⁾ ≥1개 있는 경우 예외)
-  * ²⁾SBP ＜90 ㎜Hg, 심박수 ＞100/분, 호흡수 ＞24/분, SaO₂ ＜90% 또는 PaO₂ ＜60 ㎜Hg (room air)
+* 성인은 5일 후 항생제 중단을 원칙으로 하되, 미생물학적 결과상 연장 필요 또는 임상적 불안정 시 예외. 불안정의 예는 최근 48시간 동안 발열이 있었거나 다음 소견²⁾이 2개 이상인 경우
+  * ²⁾SBP ＜90 ㎜Hg, 심박수 ＞100/분, 호흡수 ＞24/분, room air SpO₂ ＜90% 또는 평상시 산소 요구량을 충족하지 못함
+  * 위 항목 수와 별개로 저산소혈증·저혈압 등 중대한 이상은 하나만 있어도 안전성 재평가 및 입원 필요성 판단
+* 아래는 영국 NICE의 성인 요법으로, 국내 경험적 항생제 선택에는 앞서 제시한 국내 내성·금기 사항을 함께 적용
 
 **경증** (CRB65=0점 또는 CURB65=0\~1점)
 
@@ -299,11 +310,11 @@ _<mark style="color:$info;">Ref. PSI/PORT Score : https://www.mdcalc.com/psi-por
 **중등증** (CRB65=1\~2점 또는 CURB65=2점)
 
 * 1차 선택 : amoxicillin 500 ㎎ tid ×5d + clarithromycin 500 ㎎ bid ×5d (atypical 의심 시 macrolide 추가)
-* 대체 : doxycycline 또는 clarithromycin 단독
+* 대체 (penicillin 알레르기) : doxycycline 또는 clarithromycin 단독
 
 **중증** (CRB65=3\~4점 또는 CURB65=3\~5점)
 
-* 48시간 정맥 주사 후 가능하면 경구제로 전환
+* 입원 평가 및 중증 CAP 항생제 치료. 정맥 항생제를 사용하면 48시간 이내 재평가하여 임상적으로 가능할 때 경구제로 전환; 48시간 정맥 투여를 반드시 완료해야 한다는 의미는 아님
 
 ### <mark style="color:orange;">48\~72시간 재평가 및 단계적 치료 조정</mark>
 
@@ -340,7 +351,7 @@ class N,O orange50
 
 ### <mark style="color:orange;">항바이러스제</mark>
 
-* oseltamivir, zanamivir, peramivir : influenza 감염 시 고려 (☞ [인플루엔자](069_-influenza.md))
+* influenza 관련 폐렴·진행성 질환 또는 입원 환자는 발병 48시간 초과 시에도 oseltamivir를 신속히 시작. 경구·경관 투여나 흡수가 불가능한 경우 대안을 개별 평가 (☞ [인플루엔자](069_-influenza.md))
 * SARS-CoV-2 : 중증 진행 고위험군에서는 증상 발생 후 허용된 기간 내 항바이러스 치료 고려 (☞ [코로나19](070_1_-covid-19.md))
 * acyclovir : 면역 저하 환자의 HSV 폐렴에서 전문의 판단하에 고려 <mark style="color:blue;">\[메노바]</mark>. CMV 폐렴의 표준 치료제가 아니며 CMV 폐렴은 ganciclovir 기반 전문 치료가 필요
 * ribavirin : 중증 면역 저하자의 RSV 하기도감염 등 제한된 상황에서 전문의 판단하에 고려
@@ -428,7 +439,7 @@ J69 고형물 및 액체에 의한 폐렴
 > **처방례 1. 경증 CAP - 동반 질환 없음 (amoxicillin 선택)**
 >
 > ```
-> 파목신 500 ㎎/C   2C #3   ×5d   (= amoxicillin 1 g tid)
+> 파목신 500 ㎎/C   6C #3   ×5d   (= amoxicillin 1 g tid)
 > 부루펜 400 ㎎/T   3T #3
 > 코푸 시럽 20 ㎖/P 4P #4
 > ```
@@ -448,13 +459,13 @@ J69 고형물 및 액체에 의한 폐렴
 > **처방례 3. 외래 CAP - 동반 질환 있음 (병용 요법)**
 >
 > ```
-> 오구멘틴 625 ㎎/T    3T #3   ×5–7d
+> 오구멘틴 625 ㎎/T    3T #3   ×5d
 > 독시사이클린 100 ㎎/C 1C bid  ×5d
 > 애니펜 300 ㎎/T      3T #3
 > 코푸 시럽 20 ㎖/P    4P #4
 > ```
 >
-> _✽외래 치료가 가능한 안정된 환자 중 동반 질환이 있는 CAP. amox/clav+doxycycline 병용. 중등증·불안정 소견이 있으면 외래 처방보다 입원 평가를 우선하며 보험 기준상 병용 인정 여부 확인._
+> _✽외래 치료가 가능한 안정된 환자 중 동반 질환이 있는 CAP. amox/clav+doxycycline 병용의 5일 예시이며 임상 안정성과 원인균·합병증에 따라 기간 조정. 중등증·불안정 소견이 있으면 입원 평가를 우선._
 
 > **처방례 4. 외래 CAP - 동반 질환 있음 (Respiratory FQ 단독 요법)**
 >
@@ -504,3 +515,51 @@ J69 고형물 및 액체에 의한 폐렴
 
 **예방하려면?**\
 폐렴구균 백신과 인플루엔자 백신을 접종받으세요. 폐렴구균 백신의 종류와 간격은 연령·기저 질환·과거 접종력에 따라 달라지므로 의사와 상담하세요. 인플루엔자 백신은 매년 접종이 필요합니다.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Metlay JP et al. ATS/IDSA 성인 지역사회획득폐렴 지침. 2019 — 중증도 평가, 경험적 항생제, 미생물 검사 및 흡인성 폐렴 치료.
+
+  https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-cap-in-adults
+
+* American Thoracic Society. Diagnosis and Management of Community-acquired Pneumonia. 2025 focused update(2026 인쇄본) — 폐초음파, 바이러스 양성 CAP의 항생제, 단기요법 및 corticosteroid.
+
+  https://doi.org/10.1164/rccm.202507-1692ST
+
+* NICE. NG250: Pneumonia: diagnosis and management. 2025 — CRB-65에 따른 치료 장소, 성인 항생제 및 중단 기준, 정맥→경구 전환.
+
+  https://www.nice.org.uk/guidance/ng250
+
+* Diehr P et al. Prediction of pneumonia in outpatients with acute cough—a statistical approach. J Chronic Dis. 1984;37(3):215–225 — 외래 폐렴 예측 규칙.
+
+  https://pubmed.ncbi.nlm.nih.gov/6699126/
+
+* CDC. Clinical Care of Mycoplasma pneumoniae Infection — 항생제 선택과 macrolide 치료 무반응 시 대안.
+
+  https://www.cdc.gov/mycoplasma/hcp/clinical-care/index.html
+
+* CDC. Clinical Overview of Chlamydia pneumoniae Infection — 병원체별 치료 선택.
+
+  https://www.cdc.gov/cpneumoniae/hcp/clinical-overview/index.html
+
+* CDC. Pneumococcal Vaccine Recommendations — 미국 성인 PCV·PPSV23 접종 일정; 국내 권고와 구분.
+
+  https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
+
+  https://nedrug.mfds.go.kr/index
+
+* 건강보험심사평가원. 약제 급여기준 및 보험인정기준 — 국내 약제의 급여 범위와 투여 조건 확인.
+
+  https://www.hira.or.kr/
+
+* 질병관리청. 감염병 지침·공지 및 예방접종도우미 — 국내 감염관리와 국가예방접종 기준 확인.
+
+  https://www.kdca.go.kr/
