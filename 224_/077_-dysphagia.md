@@ -10,7 +10,7 @@
 
 #### <mark style="color:$primary;">삼킴곤란의 분류</mark>
 
-<table><thead><tr><th width="181">유형</th><th width="184">정의</th><th>특징</th></tr></thead><tbody><tr><td>Oral dysphagia</td><td>구강에서 저작 및 bolus 형성 단계의 문제</td><td>씹기 어려움, 구강 내 음식물 조절 곤란</td></tr><tr><td>Oropharyngeal dysphagia</td><td>구인두→상부 식도로의 이송 장애</td><td>삼킴 시작 즉시 증상; 흡인, 비강 역류 동반 가능</td></tr><tr><td>Esophageal dysphagia</td><td>식도→위로의 이송 장애</td><td>삼킴 수 초 후 흉부 걸림 느낌</td></tr><tr><td>이송삼킴곤란 (transfer dysphagia)</td><td>삼킴 시 음식물이 비강 또는 기도로 유입</td><td>oropharyngeal dysphagia의 하위 개념; 흡인, 사레, 비강 역류</td></tr></tbody></table>
+<table><thead><tr><th width="181">유형</th><th width="184">정의</th><th>특징</th></tr></thead><tbody><tr><td>Oral dysphagia</td><td>구강에서 저작 및 bolus 형성 단계의 문제</td><td>씹기 어려움, 구강 내 음식물 조절 곤란</td></tr><tr><td>Oropharyngeal dysphagia</td><td>구인두→상부 식도로의 이송 장애</td><td>삼킴 시작 즉시 증상; 흡인, 비강 역류 동반 가능</td></tr><tr><td>Esophageal dysphagia</td><td>식도→위로의 이송 장애</td><td>삼킴 수 초 후 흉부 걸림 느낌</td></tr><tr><td>이송삼킴곤란 (transfer dysphagia)</td><td>구강·인두에서 식괴를 넘기는 과정의 장애; 통상 구인두성 삼킴곤란과 동의어</td><td>흡인·사레·비강 역류가 동반될 수 있으나 정의에 필수는 아님</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">관련 증상 구분</mark>
 
@@ -43,7 +43,7 @@
 
 * 구인두(oropharyngeal) : 두경부 암종, 편도 비대 및 편도주위농양, 후두개염, 인두 농양
 * Zenker diverticulum (인두식도게실) : 윤상인두근 위쪽 Killian triangle의 점막 탈출; 노인 남성에서 호발; 입 냄새(halitosis)와 미소화된 음식물 역류가 핵심 단서; 내시경·수술로 치료
-* 윤상인두근 바(Cricopharyngeal bar) : 바륨 검사/VFSS에서 C3\~C6 전방에 보이는 윤상인두근의 돌출 소견; 무증상 우연 소견도 흔함. Zenker diverticulum과 연관될 수 있으나 모든 병변이 전구 병변인 것은 아님; 증상과 폐쇄 소견이 일치할 때 확장술 또는 근절개술 고려
+* 윤상인두근 바(Cricopharyngeal bar) : 바륨 검사/VFSS의 측면 영상에서 보통 **C5\~C6 높이의 후벽에서 내강으로 돌출되는 압흔**; 무증상 우연 소견도 흔함. Zenker diverticulum과 연관될 수 있으나 모든 병변이 전구 병변인 것은 아님; 증상과 폐쇄 소견이 일치할 때 확장술 또는 근절개술 고려
 * 식도(esophageal) : 식도암, 소화성 협착(peptic stricture), Schatzki ring, 식도웹(esophageal web), 식도게실
 * 외부 압박 : 갑상선 비대, 종격동 종양, 대동맥류, 심비대
 * 경추 골성 돌기(cervical osteophyte) : DISH(미만성 특발성 골격 과골증) 또는 전방 경추 골증식증; 노인에서 식도 외부 압박에 의한 구인두 삼킴곤란 유발; 경추 X-ray 또는 CT로 확인
@@ -60,7 +60,7 @@
 * 파킨슨병, 알츠하이머병, 다발성 경화증, ALS, 중증 근무력증
 * 윤상인두근 기능 이상(Cricopharyngeal dysfunction) : 상부 식도괄약근(UES) 이완 불충분 → 반복 삼킴, 흡인, 목의 걸림감; Zenker diverticulum의 병태생리적 기반
 * 이완불능증(achalasia) : 하부 식도괄약근 이완 불능 + 연동 소실
-* 광범위 식도 연축(DES), jackhammer esophagus
+* 원위부 식도연축(distal esophageal spasm, DES), 과수축성 식도(hypercontractile esophagus; jackhammer는 그 표현형 중 하나)
 * 피부경화증(scleroderma) : 식도 하부 2/3의 연동운동 소실 + 하부 식도괄약근(LES) 압력 저하가 특징 → 심각한 GERD + peptic stricture 유발; 당뇨병신경병증, SLE
 
 #### <mark style="color:$primary;">약물 유발 운동 장애</mark>
@@ -92,7 +92,7 @@
 * 흡인성 폐렴(반복성 폐렴 시 silent aspiration 의심)
 * 체중 감소, 탈수, 영양 결핍
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 {% hint style="danger" %}
 **즉시 응급실 의뢰/응급 평가**
@@ -104,7 +104,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-**당일 또는 신속한 전문 평가**
+**Tier 2. 당일～수일 내 평가** — 중증 통증·탈수·출혈 등은 당일 평가
 
 * 진행성 삼킴곤란, 원인 불명 체중 감소, 철 결핍 빈혈 또는 위장관 출혈
 * 지속적·심한 삼킴통증, 면역 저하자에서 새로 발생한 삼킴곤란/삼킴통증
@@ -113,7 +113,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-그 밖의 연하곤란도 증상 양상에 따라 구인두성/식도성으로 구분하여 평가한다. 자세한 공통 기준은 ☞ [위장질환의 감별](074_-gidz.md#step-1-red-flags)
+그 밖의 연하곤란도 증상 양상에 따라 구인두성/식도성으로 구분하여 평가한다. 자세한 공통 기준은 ☞ [위장질환의 감별](074_-gidz.md)
 {% endhint %}
 
 ## <mark style="color:green;">진단</mark>
@@ -135,10 +135,10 @@
 
 #### <mark style="color:$primary;">흡인 위험 침상 평가 단서</mark>
 
-<table><thead><tr><th width="282.22222900390625">임상 소견</th><th>의미</th></tr></thead><tbody><tr><td>식사 중·후 기침</td><td>흡인 또는 흡인 직전(penetration) 의심</td></tr><tr><td>Wet voice (식후 목소리 변화)</td><td>후두 전정부·인두 잔류 또는 흡인 의심</td></tr><tr><td>반복적 폐렴 (특히 중력 의존성 폐 부위)</td><td>Silent aspiration 의심</td></tr><tr><td>식사 시간 현저히 연장 (30분 이상)</td><td>연하 기능 저하, 피로성 흡인</td></tr><tr><td>식욕 저하 + 원인 불명 체중 감소</td><td>만성 삼킴곤란으로 인한 영양 결핍</td></tr><tr><td>침 흘림, 구강 분비물 조절 곤란</td><td>구인두 기능 저하</td></tr></tbody></table>
+<table><thead><tr><th width="282.22222900390625">임상 소견</th><th>의미</th></tr></thead><tbody><tr><td>식사 중·후 기침</td><td>후두 침투(laryngeal penetration) 또는 흡인 의심</td></tr><tr><td>Wet voice (식후 목소리 변화)</td><td>후두 전정부·인두 잔류 또는 흡인 의심</td></tr><tr><td>반복적 폐렴 (특히 중력 의존성 폐 부위)</td><td>Silent aspiration 의심</td></tr><tr><td>식사 시간 현저히 연장 (30분 이상)</td><td>연하 기능 저하, 피로성 흡인</td></tr><tr><td>식욕 저하 + 원인 불명 체중 감소</td><td>만성 삼킴곤란으로 인한 영양 결핍</td></tr><tr><td>침 흘림, 구강 분비물 조절 곤란</td><td>구인두 기능 저하</td></tr></tbody></table>
 
 {% hint style="info" %}
-침상 소견이나 선별검사는 흡인 여부를 확진하지 못하며 silent aspiration을 놓칠 수 있다. 위험이 의심되면 VFSS 또는 FEES로 확인한다.
+후두 침투는 물질이 후두 안으로 들어왔으나 성대 아래로 내려가지 않은 상태, 흡인은 성대 아래로 내려간 상태이다. 침상 소견이나 선별검사는 흡인 여부를 확진하지 못하며 silent aspiration을 놓칠 수 있다. 위험이 의심되면 VFSS 또는 FEES로 확인한다.
 {% endhint %}
 
 ### <mark style="color:orange;">선별 검사 도구</mark>&#x20;
@@ -169,14 +169,21 @@
 
 <table><thead><tr><th width="334.73687744140625">단서</th><th>시사하는 진단</th></tr></thead><tbody><tr><td>삼킴 시작 즉시 사레, 비강 역류, 흡인</td><td>구인두성 삼킴곤란 (신경근육 원인 우선)</td></tr><tr><td>삼킴 수 초 후 흉골 하부 걸림 느낌</td><td>식도성 삼킴곤란</td></tr><tr><td>진행성 고형식 삼킴곤란, 수 주~수개월</td><td>악성 종양 (식도암, 두경부암) - until proven otherwise</td></tr><tr><td>수년간 지속되는 간헐적 고형식 삼킴곤란</td><td>양성 질환 (Schatzki ring, EoE)</td></tr><tr><td>고형식 + 유동식 모두 삼킴 장애</td><td>신경근육 장애, achalasia</td></tr><tr><td>지속적인 가슴쓰림 선행</td><td>소화성 협착 (peptic stricture)</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 먼저</td><td>후두 질환</td></tr><tr><td>쉰 목소리가 삼킴곤란보다 나중에</td><td>신경 손상, 악성 종양</td></tr><tr><td>흉통 동반</td><td>DES, jackhammer esophagus, 기능성</td></tr><tr><td>입 냄새(halitosis) + 미소화 음식 역류</td><td>Zenker diverticulum (인두식도게실)</td></tr><tr><td>젊은 남성 + 알레르기 병력 + food impaction</td><td>EoE (호산구성 식도염)</td></tr><tr><td>알약 복용 직후 또는 수 시간 내 삼킴통증</td><td>약제 유발성 식도염</td></tr><tr><td>면역 저하, 광범위 항생제·흡입 스테로이드</td><td>감염성 식도염 (칸디다, CMV, HSV)</td></tr><tr><td>Opioid 장기 복용</td><td>OIED (opioid 유발 식도 운동 장애)</td></tr><tr><td>노인 + 전신 근감소 + 구조적 이상 없음</td><td>Sarcopenic dysphagia, presbyphagia</td></tr></tbody></table>
 
-### <mark style="color:orange;">기능성 삼킴곤란 진단 기준 - ROME Ⅳ</mark>&#x20;
+<a id="functional-dysphagia"></a>
 
-* 발생한 지 최소 6개월 되었고, 최근 3개월간 다음 조건을 모두 충족하는 증상이 ≥1회/주 발생:
+### <mark style="color:orange;">기능성 삼킴곤란 진단 기준 — ROME V, 2026</mark>
 
-1. 고형 또는 액상 음식물이 식도에 들러붙거나 걸려 있거나 비정상적으로 통과하는 느낌
-2. 식도 점막 또는 구조적 이상이 증상의 원인이라는 증거 없음
-3. GERD 또는 EoE가 증상의 원인이라는 증거 없음
-4. 주요 식도 운동 이상 질환 없음 (achalasia, EGJ outflow obstruction, DES, jackhammer esophagus, absent peristalsis)
+* 정량적 연구 기준: 발병 ≥6개월, 최근 3개월간 ≥1회/주 증상이 있고 다음 조건 충족
+
+1. 고형식 또는 액체가 식도에 걸리거나 비정상적으로 통과하는 느낌
+2. 식도 점막·구조 이상이 증상의 원인이라는 증거 없음
+3. GERD 또는 EoE 등 비역류성 식도염이 증상을 설명하지 않음
+4. Chicago v4.0에 따른 achalasia, 확증된 EGJOO, 수축 소실, 과수축성 식도, 원위부 식도연축이 없음. **IEM만으로 진단을 배제하지 않음**
+
+* GERD는 Lyon 2.0에 따라 내시경·역류검사를 종합하여 평가. 정상 바륨 식도조영(정제 포함) 또는 FLIP 소견은 진단을 뒷받침할 수 있음
+* 임상에서는 적절한 평가 후 증상의 양상·불편도와 기능 영향을 판단하며, 연구용 기간을 채우기 위해 평가를 늦추지 않음
+
+_<mark style="color:$info;">Ref. Rome V 2026; Chicago Classification v4.0; Lyon Consensus 2.0.</mark>_
 
 ***
 
@@ -203,7 +210,7 @@ flowchart TD
     H -->|고형식 + 유동식 모두| O[운동 장애 의심<br/>EGD → HRM]
     O --> P{단서}
     P -->|미소화 음식 역류·야간 기침| Q([이완불능증<br/>Achalasia])
-    P -->|흉통 동반| R([DES / Jackhammer])
+    P -->|흉통 동반| R([원위부 식도연축 / 과수축성 식도])
     P -->|결체조직병 + GERD| S([피부경화증])
     P -->|Opioid 장기 복용| T([OIED])
 
@@ -235,6 +242,7 @@ flowchart TD
 * 식도성 삼킴곤란은 원인에 따라 내시경 시술 또는 수술을 포함한 전문과 협진이 필요
 * 영양 및 수분 섭취 상태 정기 모니터링; 의미 있는 체중 감소 시 영양 지원 계획 수립
 * 흡인 위험 평가; 흡인성 폐렴 예방 우선
+* 치아·잇몸·혀·의치를 규칙적으로 세정하고 필요 시 치과·구강 관리 지원. 경관 영양 중에도 구강 관리를 지속 <mark style="color:$info;">[국내 구인두 삼킴장애 진료지침 2023]</mark>
 * 처방약 전체 검토 (opioid, 항콜린제, bisphosphonate 등 유발 약물 여부)
 * 원인 질환 확인 및 전문과 의뢰
 * 경구 섭취가 안전하지 않거나 영양·수분 요구량을 충족하지 못하는 경우 예상 기간·치료 목표·환자 의사를 고려하여 비위관(NG tube) 또는 PEG 영양 고려. 경관 영양 자체가 구강 분비물·역류물 흡인을 예방하지는 않음
@@ -302,14 +310,17 @@ flowchart TD
 
 ### <mark style="color:orange;">호산구성 식도염 (EoE)</mark>
 
+* **진단** : 식도 기능장애 증상 + 식도 생검 **≥15 eos/hpf** + 식도 호산구증가의 다른 원인 평가. 정상 내시경 소견만으로 배제하지 않으며, ≥2개 높이에서 총 ≥6개 생검
+* 초기 진단검사는 임상적으로 안전하면 PPI·제거식 등에 의한 위음성을 줄이는 조건에서 계획. 치료 중 음성 생검이지만 의심이 높으면 전문의가 치료 중단 후 재검 여부를 판단하며, 음식물 저류의 응급 내시경을 지연시키거나 천식 치료제를 임의 중단하지 않음 <mark style="color:$info;">[ACG 2025]</mark>
+
 {% hint style="info" %}
-**최신 관점 (ACG 2025)** : 이전에 사용하던 "PPI-responsive EoE"라는 표현은 현재 권장되지 않음. PPI는 EoE의 1차 항염증 치료 옵션 중 하나로 인정되며, PPI에 반응하더라도 EoE 진단이 배제되지 않음.
+**EoE와 PPI 반응** <mark style="color:$info;">[ACG 2025]</mark> : 이전에 사용하던 "PPI-responsive EoE"라는 표현은 현재 권장되지 않음. PPI는 EoE의 1차 항염증 치료 옵션 중 하나로 인정되며, PPI에 반응하더라도 EoE 진단이 배제되지 않음.
 
 **EoE 내시경 소견** (정상이어도 생검 필수) : feline esophagus (다발성 동심성 고리), linear furrows (세로 홈), white exudates, stricture, mucosal fragility
 {% endhint %}
 
 * **초기 항염증 치료 - 공동 의사결정으로 한 가지 선택**
-  * **PPI** : 고용량 PPI를 8\~12주 투여 후 내시경·조직검사로 반응 평가(예: esomeprazole 40 ㎎ bid). 국내 EoE 적응증·허가 용량·급여 여부와 제품별 허가사항 확인
+  * **PPI** : 고용량 PPI를 8\~12주 투여 후 내시경·조직검사로 반응 평가(예: esomeprazole 40 ㎎ bid). 국내 EoE 허가 적응증이 없는 PPI의 사용은 허가 외 사용으로 구분
   * **Swallowed topical steroid** : budesonide 또는 fluticasone 단일 성분을 식도에 도달하도록 삼킴. 국내 EoE 전용 제제의 허가·유통 여부를 확인하며, 천식용 제제 전용은 허가 외 사용
     * budesonide 점성 현탁액: 성인에서 흔히 1 ㎎ bid 사용. 전용 제제가 없을 때 budesonide 레스피울 액을 점성 매개체에 섞는 조제법은 허가 외 사용이므로 소화기내과 협진
     * fluticasone 단일 성분 정량분무 흡입제: 성인 총 880\~1,760 μg/일 범위가 흔히 사용되나 제형·용량을 확인. **fluticasone/formoterol 복합제는 사용하지 않음**
@@ -317,27 +328,30 @@ flowchart TD
   * **경험적 제거식** : 가능하면 1-food(우유) 또는 2-food(우유·밀) 제거처럼 덜 제한적인 방식부터 시작하고 영양사와 협력. 알레르기검사만으로 제거 식품을 결정하지 않음
 * **Dupilumab (IL-4/IL-13 신호 억제 생물학적 제제)** <mark style="color:blue;">\[듀피젠트 주]</mark>
   * PPI 등 초기 치료에 반응하지 않거나 불내성인 경우, 반복적 food impaction/fibrostenotic EoE 또는 치료가 필요한 다발성 아토피 질환이 동반된 경우 전문의가 고려
-  * 미국에서는 2024년 1세 이상·체중 15 ㎏ 이상으로 적응증이 확대되었으나, 국내 허가 연령·체중·용량 및 급여 여부는 최신 허가사항 확인
-* **반응 평가 및 유지 치료** : 증상만으로 관해를 판단하지 않고 보통 8\~12주 후 EGD와 생검으로 평가(조직학적 반응은 일반적으로 <15 eos/hpf). 관해 후에도 선택한 식이 또는 약물 유지 치료를 지속하여 재발·섬유화·협착 위험을 낮춤
+  * 미국 EoE 적응증은 ≥1세·체중 ≥15 ㎏이나, **국내 dupilumab 허가사항에는 EoE 적응증이 없음**. 해외 권고와 국내 허가 외 사용을 구분하며 전문의가 판단 <mark style="color:$info;">[미국 FDA; 국내 식약처 품목허가정보]</mark>
+* **반응 평가 및 유지 치료** : 증상만으로 관해를 판단하지 않고 PPI·국소 스테로이드 등은 보통 8\~12주 후 EGD와 생검으로 평가(조직학적 반응은 일반적으로 <15 eos/hpf). Dupilumab은 반응 속도와 임상 경과에 따라 평가 시점을 개별화하며 ACG 해설에는 12\~24주 평가의 전문가 진료 예시가 있음; 일률적인 의무 시점은 아님 <mark style="color:$info;">[ACG 2025 공식 해설]</mark>. 관해 후에도 선택한 식이 또는 약물 유지 치료를 지속하여 재발·섬유화·협착 위험을 낮춤
 
 ### <mark style="color:orange;">식도 운동 장애</mark>
 
-* **이완불능증(achalasia)** - 약물은 시술 전 단기 증상 완화 목적
+* **이완불능증(achalasia)** — 근치 시술이 우선이며 약물 효과는 제한적
   * 근치적 치료가 어렵거나 시술 대기 중인 선택된 환자에서만 단시간 작용 nitrate 또는 CCB를 고려. 효과가 제한적이고 저혈압·두통·말초부종 등이 흔하며 국내 적응증·제형 확인 필요
-  * isosorbide dinitrate 5 ㎎ 식전 10\~15분 설하 또는 nifedipine 10\~30 ㎎ 식전 30\~45분 설하가 보고되어 있으나 허가 외 사용이며, nifedipine 설하 투여는 급격한 저혈압 위험에 특히 주의
-* **광범위 식도 연축(DES) / Jackhammer**
+  * 근치 시술이 어려운 쇠약·고위험 환자에서는 **내시경 보툴리눔 독소 주사**를 고려. 효과가 일시적이며 반복 치료가 필요할 수 있음 <mark style="color:$info;">[ACG Achalasia 2020]</mark>
+  * Nitrate·nifedipine 등은 전문의가 선택적으로 판단하며 일반 외래에서 routine 사용을 피함. 급격한 저혈압 위험에 주의
+* **원위부 식도연축(distal esophageal spasm, DES) / 과수축성 식도**
   * GERD·기계적 폐쇄를 먼저 배제/치료하고, 선택된 환자에서 CCB 또는 nitrate 단기 시도; 증상을 유발하는 매우 뜨겁거나 찬 음식은 회피
   * sildenafil 등 평활근 이완제의 근거는 소규모 연구에 제한되므로 routine 처방하지 않음
 * **Opioid 유발 식도 운동 장애(OIED)**
   * 원인 opioid 감량 또는 중단이 가장 효과적
   * methylnaltrexone 등 말초 μ-opioid 수용체 길항제는 증례 수준 근거만 있어 표준 치료가 아님
+* **EGJOO** : HRM 소견만으로 임상적 폐쇄를 확정하지 않음. 삼킴곤란·흉통과 timed barium esophagram 또는 FLIP의 지지 소견을 함께 확인하고 기계적 원인·opioid 영향을 배제한 뒤 침습 치료 여부를 판단 <mark style="color:$info;">[Chicago v4.0]</mark>
 * **기능성 삼킴곤란** : 구조적·점막 질환, GERD/EoE 및 주요 운동 장애를 충분히 배제한 뒤 설명·안심, 식이/행동 조절과 필요 시 CBT 등 다학제 치료 고려. TCA/SSRI의 직접 근거는 제한적이며, 특히 고령자에서 TCA의 항콜린 부작용이 삼킴을 악화시킬 수 있으므로 routine 처방하지 않음
 
 ### <mark style="color:orange;">감염성 식도염</mark>
 
 * **칸디다 식도염** : fluconazole 200\~400 ㎎ qd × 14\~21일 <mark style="color:blue;">\[디플루칸 캡슐]</mark>; 신기능에 따른 감량 및 약물상호작용 확인. nystatin은 구인두 칸디다에만 유효하며 식도 감염에는 불충분
 * **HSV 식도염** : acyclovir 400 ㎎ × 5회/일 × 7\~14일 <mark style="color:blue;">\[조비락스 정]</mark>; 면역 저하자 14\~21일
-* **CMV 식도염** : ganciclovir 5 ㎎/㎏ IV q12h × 21\~28일; 감염내과 협진
+* **CMV 식도염** : ganciclovir 5 ㎎/㎏ IV q12h(신기능 정상 성인의 유도 용량 예); 신기능에 따른 용량 조정과 CBC·골수억제 모니터링. 기간은 면역 상태·중증도·반응에 따라 결정하며 HIV 관련 CMV 식도염의 NIH 권고는 21\~42일 및 증상·징후 해소까지임. 경구 섭취·흡수가 가능하면 valganciclovir 전환을 검토; 감염내과 협진 <mark style="color:$info;">[NIH Adult/Adolescent OI Guidelines]</mark>
+* 면역저하자의 CMV·HSV 의심 식도염은 내시경·조직검사 등으로 원인을 확인. 혈중 CMV PCR 양성만으로 CMV 식도염을 확진하지 않음
 
 ### <mark style="color:orange;">약제 유발성 식도염 (Pill esophagitis)</mark>
 
@@ -347,7 +361,7 @@ flowchart TD
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-<table><thead><tr><th width="180">상태</th><th>1차 시술/수술</th><th>비고</th></tr></thead><tbody><tr><td>이완불능증 (achalasia)</td><td>공기 풍선 확장술, POEM, Heller myotomy</td><td>Type I·II는 숙련도와 환자 특성에 따라 선택; type III는 긴 근절개가 가능한 POEM이 특히 유리. POEM 후 GERD 위험이 상대적으로 높아 추적 필요; 고령·빠른 체중 감소 시 pseudoachalasia 배제</td></tr><tr><td>DES / Hypercontractile esophagus</td><td>약물 치료 우선; 선택된 중증 불응 환자에서 긴 근절개/POEM 검토</td><td>침습 치료 근거가 제한적이므로 전문센터에서 증상-검사 일치 여부를 재확인</td></tr><tr><td>EoE</td><td>내시경 확장술 (endoscopic dilation)</td><td>임상적으로 의미 있는 협착/좁은 식도에서 고려; 확장술은 염증을 치료하지 않으므로 항염증 치료 병행</td></tr><tr><td>소화성 협착</td><td>내시경 확장술 (bougie 또는 balloon)</td><td>PPI 유지로 재협착 방지</td></tr><tr><td>Schatzki ring</td><td>내시경 확장술 또는 링 절개</td><td>반복 확장 필요한 경우 있음; EoE 가능성 평가</td></tr><tr><td>Zenker 게실</td><td>내시경 게실절개술 또는 외과 myotomy</td><td>내시경 치료가 증가 추세이며 윤상인두근 절개 병행; 해부학·크기·전문가 경험에 따라 선택</td></tr><tr><td>피부경화증</td><td>PPI + 전신 질환 관리</td><td>확장술은 협착 동반 시에만</td></tr><tr><td>두경부암·식도암 관련 협착</td><td>확장술, 스텐트 삽입, 방사선/항암 치료</td><td>종양내과·방사선종양과 협진</td></tr></tbody></table>
+<table><thead><tr><th width="180">상태</th><th>1차 시술/수술</th><th>비고</th></tr></thead><tbody><tr><td>이완불능증 (achalasia)</td><td>공기 풍선 확장술, POEM, Heller myotomy</td><td>근치 치료가 어려우면 보툴리눔 독소 주사 고려. Type I·II는 숙련도와 환자 특성에 따라 선택; type III는 긴 근절개가 가능한 POEM이 특히 유리. POEM 후 GERD 위험이 상대적으로 높아 추적 필요; 고령·빠른 체중 감소 시 pseudoachalasia 배제</td></tr><tr><td>DES / Hypercontractile esophagus</td><td>약물 치료 우선; 선택된 중증 불응 환자에서 긴 근절개/POEM 검토</td><td>침습 치료 근거가 제한적이므로 전문센터에서 증상-검사 일치 여부를 재확인</td></tr><tr><td>EoE</td><td>내시경 확장술 (endoscopic dilation)</td><td>임상적으로 의미 있는 협착/좁은 식도에서 고려; 확장술은 염증을 치료하지 않으므로 항염증 치료 병행</td></tr><tr><td>소화성 협착</td><td>내시경 확장술 (bougie 또는 balloon)</td><td>PPI 유지로 재협착 방지</td></tr><tr><td>Schatzki ring</td><td>내시경 확장술 또는 링 절개</td><td>반복 확장 필요한 경우 있음; EoE 가능성 평가</td></tr><tr><td>Zenker 게실</td><td>내시경 게실절개술 또는 외과 myotomy</td><td>내시경 치료가 증가 추세이며 윤상인두근 절개 병행; 해부학·크기·전문가 경험에 따라 선택</td></tr><tr><td>피부경화증</td><td>PPI + 전신 질환 관리</td><td>확장술은 협착 동반 시에만</td></tr><tr><td>두경부암·식도암 관련 협착</td><td>확장술, 스텐트 삽입, 방사선/항암 치료</td><td>종양내과·방사선종양과 협진</td></tr></tbody></table>
 
 ***
 
@@ -365,7 +379,7 @@ K22.4 식도 이형운동증
 
 K22.0 분문의 이완불능증
 
-Q39.5 식도의 선천협착
+Q39.3 식도의 선천협착
 
 ***
 
@@ -400,7 +414,7 @@ Q39.5 식도의 선천협착
 >   → 복용 후 30~60분 음식·음료 금지 / 구강 위생은 제형별 지시에 따름
 > ```
 >
-> _✽ PPI·swallowed topical steroid·덜 제한적인 경험적 제거식 중에서 공동 의사결정으로 초기 치료를 선택하며, 일률적인 순차 치료가 아님. 천식용 budesonide의 EoE 사용은 국내 허가 외 사용이다. 8\~12주 후 내시경·생검으로 재평가하고 관해 후 유지 치료를 결정한다. 반복 food impaction·fibrostenotic EoE·초기 치료 불응 또는 다발성 아토피 질환 동반 시 dupilumab을 소화기내과 협진 후 고려._
+> _✽ 국내 EoE 허가 적응증이 없는 약물·제형은 허가 외 사용으로 구분한다. PPI·swallowed topical steroid·덜 제한적인 경험적 제거식 중에서 공동 의사결정으로 초기 치료를 선택하며, 일률적인 순차 치료가 아님. 천식용 budesonide의 EoE 사용은 국내 허가 외 사용이다. 8\~12주 후 내시경·생검으로 재평가하고 관해 후 유지 치료를 결정한다. 반복 food impaction·fibrostenotic EoE·초기 치료 불응 또는 다발성 아토피 질환 동반 시 국내 EoE 허가 적응증이 없는 dupilumab의 사용 여부를 전문의가 판단한다._
 
 {% hint style="warning" %}
 **이완불능증 약물 처방에 관한 주의** : nitrate·nifedipine 등의 약물 효과는 제한적이고 국내 이완불능증 허가 제형도 불확실하므로 일반 외래 처방례로 제시하지 않는다. 진단 확정과 POEM·풍선 확장술·Heller myotomy 등 근치 치료를 위한 소화기내과 의뢰가 우선이다.
@@ -419,7 +433,7 @@ Q39.5 식도의 선천협착
 > **삼켜서 사용하는 국소 스테로이드 - EoE용 복용 안내**
 >
 > 1. 천식용 제제를 EoE에 처방받은 경우에는 **폐로 흡입하는 것이 아니라 의사가 알려 준 방법으로 삼키는 것**입니다. 단일 성분 제제인지 반드시 확인하십시오.
-> 2. 복용 후 **30\~60분은 음식이나 음료를 드시지 마십시오.** 바로 드시면 약이 씻겨 내려가 효과가 없어집니다.
+> 2. 복용 후 **30\~60분은 음식이나 음료를 드시지 마십시오.** 바로 드시면 약이 씻겨 내려가 효과가 줄어들 수 있습니다.
 > 3. 구강·식도 칸디다증이 발생할 수 있습니다. 입안의 흰 반점, 통증 또는 삼킴통증이 생기면 진료받으십시오. 구강 세척 시점과 방법은 처방받은 제형의 지시를 따르십시오.
 > 4. 증상만 좋아졌다고 임의로 중단하지 말고, 예정된 내시경·조직검사로 염증이 호전되었는지 확인하십시오.
 
@@ -434,9 +448,9 @@ Q39.5 식도의 선천협착
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 약 복용에도 4\~8주 이내 증상이 호전되지 않는 경우
+> * 원인 평가 후 치료 중인 환자에서 예정된 추적 시점에도 호전되지 않는 경우. 새로 생기거나 진행하는 삼킴곤란은 4\~8주를 기다리지 말고 신속히 평가
 > * 삼킴 시 **심한 통증**이 생기거나 갑자기 악화된 경우 - 빠른 내원
-> * **음식이 완전히 걸려 내려가지 않는 경우(food impaction)** - 즉시 응급실 방문
+> * **음식이 걸린 느낌이 지속되거나 침도 삼키지 못하는 경우(food impaction)** - 즉시 응급실 방문; 물·음식을 더 삼켜 밀어 넣으려 하지 않음
 > * **체중 감소, 혈변, 심한 피로감**이 동반되는 경우 - 즉시 내원
 
 ***
@@ -467,6 +481,7 @@ Q39.5 식도의 선천협착
 * 사레가 자주 들거나, 식후 기침이 잦거나, 식사 후 목소리가 변한다면 흡인이 의심됩니다.
 * 턱 당기기(chin-tuck), 고개 돌리기 등의 자세는 환자마다 효과가 다릅니다. 연하검사에서 도움이 확인되어 교육받은 자세만 사용하십시오.
 * 피로가 심할 때는 식사량을 줄이거나 잠깐 쉬어 가며 드십시오.
+* 치아·혀·잇몸과 틀니를 규칙적으로 닦으십시오. 입으로 식사하지 않고 관으로 영양을 공급받더라도 입안 청결을 유지해야 합니다.
 
 #### <mark style="color:$primary;">연하 재활 운동</mark>
 
@@ -476,8 +491,72 @@ Q39.5 식도의 선천협착
 
 #### <mark style="color:$primary;">이럴 때는 즉시 또는 신속히 병원을 방문하세요</mark>
 
-* 음식이 완전히 걸려서 전혀 내려가지 않을 때 → **응급실 방문**
+* 음식이 걸린 느낌이 계속되거나 침도 삼키지 못할 때 → **응급실 방문**; 더 먹거나 물로 밀어 넣으려 하지 마십시오
 * 숨이 가쁘거나 목에서 쌕쌕 소리가 날 때 → **응급실 방문**
 * 삼킴곤란과 함께 체중이 빠질 때 → **신속한 진료**
 * 삼킴 시 매번 심한 통증이 있을 때 → **신속한 진료**
 * 반복적으로 폐렴이 생기는 경우 → **신속한 진료**
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Rome Foundation. Rome V Criteria. 2026. — DGBI 진단 체계와 질환별 빈도·기간 및 배제 조건
+
+  [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+
+* ACG. Clinical Guideline: Diagnosis and Management of Eosinophilic Esophagitis. 2025. — 진단·생검, 초기 치료의 공동 의사결정, 확장술·항염증 유지 치료; ACG 공식 해설
+
+  [https://gi.org/journals-publications/ebgi/eluri_feb2025/](https://gi.org/journals-publications/ebgi/eluri_feb2025/)
+
+* ACG. Clinical Use of Esophageal Physiologic Testing. 2020. — 내시경 이후 HRM·바륨 조영·FLIP의 선택과 상호 보완
+
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC9468980/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9468980/)
+
+* Esophageal Motility Disorders on High-resolution Manometry: Chicago Classification Version 4.0. 2021. — 운동장애 분류와 EGJOO의 임상적 확증
+
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC8034247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034247/)
+
+* ACG. Diagnosis and Management of Achalasia. 2020. — 아형별 근치 치료와 근치 치료 부적합 환자의 보툴리눔 독소 주사
+
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC9896940/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9896940/)
+
+* Clinical Practice Guidelines for Oropharyngeal Dysphagia. 2023. — 국내 연하 재활·영양 지원·구강 관리 권고
+
+  [https://www.e-arm.org/journal/view.php?number=4314](https://www.e-arm.org/journal/view.php?number=4314)
+
+* ASHA. Adult Dysphagia / Flexible Endoscopic Evaluation of Swallowing. — 침상 평가의 한계, 후두 침투·흡인과 개별화한 연하 평가
+
+  [https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/)
+
+* Sharma SC, Sakthivel P. Cricopharyngeal Bar. 2017. — 측면 조영검사에서 C5～C6 후벽 압흔 소견
+
+  [https://www.panafrican-med-journal.com/content/article/27/288/full/](https://www.panafrican-med-journal.com/content/article/27/288/full/)
+
+* NIH. Cytomegalovirus Disease: Adult and Adolescent Opportunistic Infections. — HIV 관련 CMV 식도염의 진단·치료기간; 다른 면역저하 상태와 구분
+
+  [https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/cytomegalovirus](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/cytomegalovirus)
+
+* IDSA. Clinical Practice Guideline for the Management of Candidiasis. 2016. — 식도 칸디다증의 전신 항진균제 용량·기간
+
+  [https://www.idsociety.org/practice-guideline/candidiasis/](https://www.idsociety.org/practice-guideline/candidiasis/)
+
+* ESGE. Removal of Foreign Bodies in the Upper Gastrointestinal Tract in Adults. 2016. — 완전 식도폐쇄와 불완전 음식물 저류의 내시경 긴급도
+
+  [https://www.esge.com/assets/downloads/pdfs/guidelines/2016_s_0042_100456.pdf](https://www.esge.com/assets/downloads/pdfs/guidelines/2016_s_0042_100456.pdf)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. — 국내 제품별 적응증·용법·금기 및 허가 상태
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 건강보험심사평가원. 약제급여기준 및 의약품안전사용서비스(DUR). — 약제별 급여기준과 병용·연령·용량·투여기간 주의 정보
+
+  [https://www.hira.or.kr](https://www.hira.or.kr)
+
+* 미국 FDA·DailyMed. 의약품 허가사항 — dupilumab의 미국 EoE 적응증과 국내 허가의 차이
+
+  [https://dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov)

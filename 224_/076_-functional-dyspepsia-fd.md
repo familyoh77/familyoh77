@@ -2,10 +2,10 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 위장관 증상이 소화성 궤양, GERD, 췌장/담낭 질환 등의 기질적 질병 없이 만성적으로 재발하는 상태
+* 상복부 통증·작열감, 식후 충만감 또는 조기 포만감이 만성적으로 재발하며, 적절한 평가에서 이 증상을 설명할 기질적·전신적·대사 질환이 확인되지 않는 상태. GERD·IBS의 동반 자체가 FD를 배제하지는 않음
 * 과거에는 non-ulcer dyspepsia로 불렸음; indigestion 또는 dyspepsia는 기능성 소화불량보다 넓은 증상 개념
-* 유병률 : FD 단독 약 7\~10% (UK 6.8% \[BSG 2022]; 전체 소화불량(dyspepsia) 유병률 20\~25% 중 약 ¾이 FD에 해당 - 수치 출처가 다르므로 직접 비교는 곤란 (☞ [소화불량](075_-indigestion-dyspepsia.md))
-* 분류 : postprandial distress syndrome(PDS) 및 epigastric pain syndrome(EPS)을 포함; 두 아형의 중복이 흔함
+* 유병률 : FD 단독 약 7\~10% (UK 6.8% <mark style="color:$info;">[BSG 2022]</mark>); 전체 소화불량(dyspepsia) 유병률 20\~25% 중 약 ¾이 FD에 해당 - 수치 출처가 다르므로 직접 비교는 곤란 (☞ [소화불량](075_-indigestion-dyspepsia.md))
+* 분류 : postprandial distress syndrome(PDS) 및 epigastric pain syndrome(EPS)을 포함; 증상은 중첩될 수 있으며, 현행 연구 분류와 임상 증상 표현형을 구분
 * Refractory functional dyspepsia : 정의가 완전히 통일되어 있지는 않으나, 적절한 초기 치료에도 임상적으로 의미 있는 증상이 지속되는 경우를 지칭; 진단 전 복약 순응도와 기질적 질환을 재평가
 * 대부분의 소화불량 환자에서 증상의 기저 원인은 기능성 소화불량
 * 양성 질환이나 치료가 어려울 수 있음; 환자의 ⅓이 위약으로 호전됨
@@ -38,14 +38,14 @@
 * epigastric pain(상복부 통증) : 심하고 불편한 주관적인 상복부 통증
 * epigastric burning(상복부 작열감) : 상복부에 느껴지는 주관적인 화끈거림 또는 열감
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-　☞ [위장질환의 감별](074_.md#step-1-red-flags)
+　☞ [위장질환의 감별](074_-gidz.md)
 
 ## <mark style="color:green;">진단</mark>
 
 * 전형적인 증상 양상과 적절한 평가를 바탕으로 적극적으로 진단하되, 증상을 설명할 기질적·전신적·대사 질환을 배제
-* 임상적으로는 상부 위장관 경고 징후가 없고 일상생활에 지장을 주는 상복부 통증·상복부 작열감, 조기 포만감 및/또는 식후 충만감이 ＞8주 지속되면 FD를 적극적으로 진단할 수 있음(BSG); 연구 및 엄격한 Rome IV 진단은 아래 기간 기준을 적용
+* 임상적으로는 상부 위장관 경고 징후가 없고 일상생활에 지장을 주는 상복부 통증·상복부 작열감, 조기 포만감 및/또는 식후 충만감이 ＞8주 지속되면 FD를 적극적으로 진단할 수 있음 <mark style="color:$info;">[BSG 2022]</mark>; Rome V의 정량적 연구 기준은 아래 기간·빈도 조건을 적용. 임상에서는 Rome V가 강조하는 증상 양상·불편도와 기능 영향도 함께 판단
 
 ### <mark style="color:orange;">Test-and-Treat 전략</mark>
 
@@ -67,58 +67,42 @@
 
 * H. pylori 제균 치료나 경험적 PPI 치료에 반응하지 않고 내시경 검사에서 유의미한 소견이 없는 환자는 기능성 소화불량으로 추정
 
-### <mark style="color:orange;">Diagnostic criteria \[ROME Ⅳ]</mark>
+### <mark style="color:orange;">Diagnostic criteria [ROME V, 2026]</mark>
 
-　✽[온라인 계산기](https://www.mdcalc.com/calc/10002/rome-iv-diagnostic-criteria-functional-dyspepsia)
+　✽[Rome Foundation 공식 기준](https://theromefoundation.org/rome-v-criteria/)
 
 #### <mark style="color:$primary;">Functional dyspepsia</mark>
 
-* 식후곤란증후군(PDS) &/or 상복부통증증후군(EPS) 진단 기준에 해당
-* 발생한 지 최소 6개월 되었고 최근 3개월간 다음 두 가지 기준을 모두 충족
-  1. 다음의 (일상생활에 지장을 주는) 4가지 불편한 증상 중 ≥1개 해당 : postprandial fullness(식후 충만감, 3d/wk), early satiety(조기 포만감, 3d/wk), epigastric pain(상복부 통증, 1d/wk), epigastric burning(상복부 작열감, 1d/wk)
-  2. 이들 증상을 설명할 수 있는 구조적 질환의 증거 없음(상부 내시경 검사 포함)
+* 일상생활에 지장을 주는 식후 충만감, 조기 포만감, 상복부 통증·작열감 중 ≥1개가 있고 아래 PDS 또는 EPS 기준에 해당
+* 연구 기준의 기간은 **발병 ≥6개월, 최근 3개월간 기준 충족**. 증상을 설명할 구조적·전신적·대사 질환이 없어야 함
 
 #### <mark style="color:$primary;">Postprandial distress syndrome (PDS, 식후곤란증후군)</mark>
 
-* 발생한 지 최소 6개월 되었고 최근 3개월간 다음 중 ≥1개의 증상이 ≥3일/주 발생
-  1. (일상생활에 지장을 주는) 불편한 식후 충만감
-  2. (평소 식사량을 다 먹을 수 없을 정도의) 불편한 조기 포만감
-* (상부 내시경 검사를 포함한) 일상적 조사에서 증상을 설명할 만한 기질적, 전신적 또는 대사 질환의 증거 없음
-
-**Supportive criteria**
-
-1. 식후 상복부 통증 또는 작열감, 상복부 팽만, 과도한 트림, 구역 등이 있을 수 있음
-2. 구토는 다른 이상의 가능성을 암시함
-3. 흉부작열감(heartburn)은 소화불량의 핵심 증상은 아니지만 동반될 수 있음
-4. 배변 또는 방귀로 완화되는 증상은 일반적으로 소화불량의 부분으로 고려하지 않음
-5. 다른 소화기 증상(예: GERD, IBS)이 동반될 수 있음
+* **≥2일/주** 불편한 식후 충만감 또는 평소 식사량을 마치지 못하게 하는 조기 포만감
+* 위 핵심 증상이 있으면 음식 섭취로 유발·악화되는 상복부 통증·작열감, 구역, 상복부 팽만·과도한 트림도 PDS의 일부로 평가
+* 식후 증상은 식사 후 2시간 이내 유발되는 증상을 뜻함
+* 구역이 우세하거나 구토가 지속되면 PDS로만 설명하지 않고 CNVS·위마비 등 평가
 
 #### <mark style="color:$primary;">Epigastric pain syndrome (EPS, 상복부통증증후군)</mark>
 
-* 발생한 지 최소 6개월 되었고 최근 3개월간 다음 중 ≥1개의 증상이 ≥1일/주 발생
-  1. (일상생활에 지장을 주는) 불편한 상복부 통증
-  2. (일상생활에 지장을 주는) 불편한 상복부 작열감
-* (상부 내시경 검사를 포함한) 일상적 조사에서 증상을 설명할 만한 기질적, 전신적 또는 대사 질환의 증거 없음
+* **≥1일/주** 불편한 상복부 통증 또는 작열감; 식사로 유발·악화되거나 식사와 무관하게 발생 가능
+* Rome Foundation 공개 정량 기준에서는 PDS 기준을 충족하지 않는 경우로 분류. PDS 핵심 증상을 동반하는 식후 통증·작열감은 우선 PDS의 일부로 평가
+* 구역이 우세하거나 구토가 지속되면 다른 진단을 평가. 통증이 배변으로 일관되게 호전되면 장 질환에 의한 증상인지 검토
 
-**Supportive criteria**
+* PDS/EPS의 임상 증상 중첩과 연구 분류를 구분하며, 아형만으로 병태생리나 약물 반응을 단정하지 않음. GERD·IBS는 동반될 수 있음
+* 임상에서는 필요한 평가 후 진단·치료하며 연구용 기간·빈도를 채우기 위해 진료를 늦추지 않음
 
-1. 통증이 음식물 섭취에 의해 유발 또는 호전되거나 공복 중 발생할 수 있음
-2. 식후 상복부 팽만, 트림, 구역 등이 있을 수 있음
-3. 지속되는 구토는 다른 이상의 가능성을 암시함
-4. 흉부작열감(heartburn)은 소화불량의 핵심 증상은 아니지만 동반될 수 있음
-5. biliary pain 진단 기준에 해당되지 않음
-6. 배변 또는 방귀로 완화되는 증상은 일반적으로 소화불량의 부분으로 고려하지 않음
-7. 다른 소화기 증상(예: GERD, IBS)이 동반될 수 있음
+_<mark style="color:$info;">Ref. Rome V 2026; Rome Foundation 공개 진단 기준.</mark>_
 
 ### <mark style="color:orange;">검사</mark>
 
-* 내시경 검사가 모든 환자에게 일률적으로 필요한 것은 아니나, 국내에서는 ≥40세의 새로 발생한 소화불량, 중증·경고 증상, 치료 불응 또는 진단 불확실 시 적극 고려 (☞ [위장질환의 감별](074_.md#undefined-5))
-* 전형적 FD에서는 위 배출검사를 routine으로 시행하지 않음. PDS와 위마비(gastroparesis)는 증상이 겹치며 위 배출 지연만으로 명확히 구분되지 않음. 지속적 구토, 당뇨, 위 수술력, 체중감소 등 위마비 위험이 있는 선택된 환자에서 표준화된 고형식 위 배출 신티그래피를 고려
+* 내시경 검사가 모든 환자에게 일률적으로 필요한 것은 아니나, 국내에서는 ≥40세의 새로 발생한 소화불량, 중증·경고 증상, 치료 불응 또는 진단 불확실 시 적극 고려 (☞ [위장질환의 감별](074_-gidz.md))
+* 전형적 FD에서는 위 배출검사를 routine으로 시행하지 않음. PDS와 위마비(gastroparesis)는 증상이 겹치며 위 배출 지연만으로 명확히 구분되지 않음. 지속적 구토, 당뇨, 위 수술력, 체중감소 등 위마비 위험이 있는 선택된 환자에서 표준화된 **4시간 고형식 위배출 신티그래피**를 고려
 
 ### <mark style="color:orange;">H. pylori-associated dyspepsia 개념</mark>
 
 {% hint style="info" %}
-**진단 선후 관계 (Rome IV)**
+**제균 후 증상에 따른 분류와 치료**
 
 * H. pylori 양성 소화불량 환자에서는 먼저 제균 치료를 시행. 제균 성공 후에도 증상이 지속되면 FD 가능성을 평가하고 치료
 * 제균 후 증상이 소실되고 그 효과가 6개월 이상 유지되면 H. pylori-associated dyspepsia로 분류하여 FD와 구별. 이는 장기적 분류 기준이며, 분류를 위해 6\~12개월 동안 FD 치료를 보류할 필요는 없음
@@ -152,8 +136,8 @@ graph TD
 \- 증상의 시작 시기 및 기간\
 \- 감염 또는 정신적 문제 후 발생 여부\
 \- 다른 상부 위장관 문제 존재 여부\
-\- 상복부 통증이 배변 습관의 변화와 관계 없거나 배변에 의해 호전되지 않음 확인(IBS 배제)\
-\- 위식도역류 증상(속쓰림, 역류) 여부(GERD 배제)\
+\- 상복부 증상과 배변의 관계를 확인; IBS에 의한 증상과 별도의 FD 증상을 구분하고 동반 IBS도 평가\
+\- 전형적 가슴쓰림·산 역류 여부를 확인; GERD가 증상을 설명하는지와 FD 동반 여부를 평가\
 \- 체중 감소 평가\
 \- 다른 gut-brain interaction 이상에 의한 하부 GI 증상 여부\
 \- 다른 기능성 비위장관 질환의 존재 여부\
@@ -161,7 +145,7 @@ graph TD
 \- 약물(NSAID, opioid, GLP-1 수용체 작용제 등)
 
 ²⁾ 기초 검사\
-\- H. pylori 검사(요소 호기 또는 대변 항원; 검사 전 PPI 중단 기간 고려)\
+\- H. pylori 검사(요소 호기 또는 대변 항원; 검사 전 PPI/P-CAB ≥2주, 항생제·비스무트 ≥4주 중단). 제균 후에는 항생제 종료 ≥4주 후, 같은 중단 조건을 지켜 성공 확인\
 \- 필요 시 CBC 등 기본검사, IBS형 증상 동반 시 celiac serology 고려
 
 ³⁾ 필요시 추가 검사\
@@ -184,7 +168,7 @@ graph TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 생활 습관 개선 등 비약물 치료가 중요
-* PDS/EPS 아형은 증상 표현형을 이해하는 데 유용하지만 중복이 흔하고 특정 병태생리나 약물 반응을 정확히 예측하지 못함. 초기 약제는 우세 증상, 동반 GERD, 이전 치료 반응, 부작용 위험 및 국내 가용성을 종합하여 선택
+* PDS/EPS 아형은 증상 표현형을 이해하는 데 유용하지만 임상 증상이 중첩될 수 있고 특정 병태생리나 약물 반응을 정확히 예측하지 못함. 초기 약제는 우세 증상, 동반 GERD, 이전 치료 반응, 부작용 위험 및 국내 가용성을 종합하여 선택
 * H. pylori(+) 환자에 대하여 제균 요법 시행 (☞ [헬리코박터](080_-helicobacter-pylori-infection.md))
 * H. pylori(-) 또는 제균 요법 후 증상 지속 시 → 위산 억제제 또는 위장관 운동 촉진제 등 한 계열을 우선 시도 → 약제별 적절한 기간 후 반응을 평가하고 불응 시 다른 계열로 전환; 부분반응 시 선택적 병용 고려 → 지속·재발 시 최소 유효 용량 사용
 * 심한 증상, 경고 징후, 난치성 환자 등은 의뢰
@@ -195,7 +179,7 @@ graph TD
 PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 않는다. 아래 표는 절대적 처방 기준이 아니라 환자별 초기 약제 선택에 참고하는 자료이다.
 {% endhint %}
 
-<table><thead><tr><th width="200">임상 상황</th><th width="220">고려할 수 있는 초기 접근</th><th>비고</th></tr></thead><tbody><tr><td>상복부 통증·작열감 우세</td><td>PPI 또는 H2RA</td><td>최저 유효 용량 사용; 반응이 없으면 다른 계열 고려</td></tr><tr><td>식후 충만감·조기 포만감 우세</td><td>국내 사용 가능한 prokinetic</td><td>약제별 근거와 부작용이 다름</td></tr><tr><td>EPS + PDS 중복</td><td>한 계열 우선 시도 후 전환 또는 선택적 병용</td><td>처음부터 routine 병용하지 않음</td></tr><tr><td>초기 치료 불응·통증 과민 우세</td><td>저용량 TCA ± gut–brain behavioral therapy</td><td>TCA는 FD에 허가 외 사용; 부작용 설명</td></tr><tr><td>조기 포만감+체중감소</td><td>영양·ARFID 평가; 전문의 판단하 mirtazapine 고려</td><td>근거 제한, 허가 외 사용</td></tr><tr><td>FD-GERD overlap</td><td>객관적 GERD는 해당 지침에 따라 치료</td><td>GERD 치료와 FD 치료를 구분</td></tr></tbody></table>
+<table><thead><tr><th width="200">임상 상황</th><th width="220">고려할 수 있는 초기 접근</th><th>비고</th></tr></thead><tbody><tr><td>상복부 통증·작열감 우세</td><td>PPI 또는 H2RA</td><td>최저 유효 용량 사용; 반응이 없으면 다른 계열 고려</td></tr><tr><td>식후 충만감·조기 포만감 우세</td><td>국내 사용 가능한 prokinetic</td><td>약제별 근거와 부작용이 다름</td></tr><tr><td>식사 관련 증상 + 통증·작열감</td><td>한 계열 우선 시도 후 전환 또는 선택적 병용</td><td>처음부터 routine 병용하지 않음</td></tr><tr><td>초기 치료 불응·통증 과민 우세</td><td>저용량 TCA ± gut–brain behavioral therapy</td><td>TCA는 FD에 허가 외 사용; 부작용 설명</td></tr><tr><td>조기 포만감+체중감소</td><td>영양·ARFID 평가; 전문의 판단하 mirtazapine 고려</td><td>근거 제한, 허가 외 사용</td></tr><tr><td>FD-GERD overlap</td><td>객관적 GERD는 해당 지침에 따라 치료</td><td>GERD 치료와 FD 치료를 구분</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">FD-GERD Overlap</mark>
 
@@ -213,7 +197,7 @@ PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 
 * 증상의 원리를 설명(gut-brain interaction, 식이, 스트레스, 인지, 행동, 감정과의 관련성 설명)
 * 생활 습관 개선 : 금연, 음주 제한, 규칙적 생활, 적당한 운동(유산소 운동)
 * 식이 요법 : 개인별 증상 유발 음식, 특히 고지방식을 확인하여 제한하고 잘 씹어 소량씩 자주 섭취. Low FODMAP diet는 FD 단독에서 routine 권고할 근거가 부족하며 광범위한 제한식은 피함
-* 심리 치료(특히 초기 치료 불응 시 고려 \[BSG 2022, Second Asian Consensus Report 2025; published 2026]) : 인지-행동 치료(CBT), gut-directed hypnotherapy, mindfulness, 스트레스 관리, psychotherapy; 연구 이질성과 국내 접근성을 고려
+* 심리 치료(특히 초기 치료 불응 시 고려 <mark style="color:$info;">[BSG 2022; Second Asian Consensus Report 2025, published 2026]</mark>) : 인지-행동 치료(CBT), gut-directed hypnotherapy, mindfulness, 스트레스 관리, psychotherapy; 연구 이질성과 국내 접근성을 고려
 * 반드시 필요한 것 외의 약제(NSAID, opioid 등) 사용을 피함
 * 중증·난치성 FD에서 심한 식사 회피, 체중감소 또는 영양불량이 있으면 avoidant/restrictive food intake disorder(ARFID) 등 섭식장애를 평가하고 지나치게 제한적인 식단을 피하기 위해 영양 전문가와 협진
 
@@ -226,12 +210,12 @@ PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 
 
 ## <mark style="color:green;">약물 치료</mark>
 
-#### [<mark style="color:$primary;">위산 분비 억제제</mark>](073_.md#gastric-antisecretory-drug) <mark style="color:$primary;">(PPI, H2-수용체 차단제, P-CAB)</mark>
+#### [<mark style="color:$primary;">위산 분비 억제제</mark>](073_-gidrugs.md) <mark style="color:$primary;">(PPI, H2-수용체 차단제, P-CAB)</mark>
 
 　(보험주의)
 
 * PPI 또는 H2RA를 초기 치료로 고려할 수 있으며, 상복부 통증·작열감이나 GERD가 동반된 환자에서 선택하기 쉬움. PDS/EPS 아형만으로 효과를 단정하지 않음
-* 장기 투여에 따른 부작용 우려가 있음 (특히 PPI); 증상 조절 후 최소 유효 용량 또는 on-demand 투여로 전환 고려
+* PPI는 대체로 안전하며 장기 사용과 보고된 모든 이상반응의 인과관계가 확정된 것은 아님. 반응·유지 적응증을 재평가하고, 증상 조절 후 최소 유효 용량 또는 간헐 투여를 고려
 * H2RA : 유효한 대안이나 PPI보다 열등하다고 단정할 수 없음. 연속 사용 시 7\~14일 이내 내성(tachyphylaxis)이 나타날 수 있어 단기 또는 간헐 사용 고려
 
 **PPI**
@@ -245,27 +229,27 @@ PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 
 * tegoprazan <mark style="color:blue;">\[케이캡]</mark>, fexuprazan <mark style="color:blue;">\[펙수클루]</mark> 등: 객관적으로 GERD 등이 동반된 경우 해당 질환의 허가 용량을 적용; FD 치료 목적으로 routine 사용하지 않음
 
 {% hint style="danger" %}
-**국내 P-CAB 허가·급여 주의** : tegoprazan 25 ㎎은 기능성 소화불량 용량이 아니라 미란성 위식도역류질환 치료 후 유지요법 등에 사용하는 저용량 제제이다. FD 또는 PPI 불응 EPS 자체는 P-CAB의 국내 허가·급여 적응증이 아니며, 실제 동반 질환의 최신 허가사항과 급여기준을 확인
+**국내 P-CAB 허가·급여 주의** : tegoprazan 25 ㎎은 기능성 소화불량 용량이 아니라 미란성 위식도역류질환 치료 후 유지요법 등에 사용하는 저용량 제제이다. FD 또는 PPI 불응 EPS 자체는 P-CAB의 국내 허가·급여 적응증이 아님. 동반 질환이 있으면 그 질환·제형에 맞는 용법을 적용
 {% endhint %}
 
-#### [<mark style="color:$primary;">위장관 운동 촉진제</mark>](073_.md#gi-prokinetic-agent) <mark style="color:$primary;">(Prokinetics)</mark>
+#### [<mark style="color:$primary;">위장관 운동 촉진제</mark>](073_-gidrugs.md) <mark style="color:$primary;">(Prokinetics)</mark>
 
 * 일부 FD 환자에서 유효하며 식후 충만감·조기 포만감이 우세할 때 선택하기 쉬우나, 약제별 근거와 부작용이 다름
 * H. pylori 제균 치료 또는 위산 억제 치료에도 증상이 지속되는 환자에서 고려할 수 있음
 * 복용 시점은 제품별 허가사항에 따르며 모든 prokinetic을 취침 시 prn으로 사용하지 않음
-* metoclopramide : 추체외로증상과 지연성 운동장애 위험 때문에 만성 FD에 routine 사용하지 않음. 다른 원인을 평가한 심한 구역·구토에 불가피하게 사용할 때만 최소 용량·최단기간 투여 <mark style="color:blue;">\[맥페란]</mark>
+* metoclopramide : 추체외로증상과 지연성 운동장애 위험 때문에 만성 FD에 routine 사용하지 않음. 다른 원인을 평가한 심한 구역·구토에 불가피하게 사용할 때만 국내 허가 적응증에 따라 최소 용량·최단기간 사용하며 **최대 5일**을 넘기지 않음. FD·위마비 자체는 국내 허가 적응증이 아님 <mark style="color:blue;">\[맥페란]</mark>
 * mosapride : 5-HT4 수용체 작용으로 위장 운동 촉진 <mark style="color:blue;">\[가스모틴]</mark>
 * 현호색·견우자 50% 에탄올연조엑스(DA-9701) : 30 ㎎ tid; 다중 수용체 작용을 통한 위장관 운동 조절 <mark style="color:blue;">\[모티리톤]</mark>
 * acotiamide : 100 ㎎ tid ×4wk; M1/M2 무스카린 수용체 길항 및 acetylcholinesterase 억제 기전. PDS에서 유효성이 보고되었으나 **국내 미허가·미시판으로 실제 처방 불가**
 
-#### [<mark style="color:$primary;">제산제</mark>](073_.md#antacid)
+#### [<mark style="color:$primary;">제산제</mark>](073_-gidrugs.md)
 
 * 일부 환자에서 유효; 단기 증상 완화에 한함
 * 보통 매 식후 30분\~1시간, 취침 시 prn
 * 예방 효과가 없으므로 장기간 지속 또는 빈번한 투여는 피함
 * aluminium hydroxide <mark style="color:blue;">\[암포젤]</mark>, almagate <mark style="color:blue;">\[알마겔]</mark>
 
-#### [<mark style="color:$primary;">점막 보호제</mark>](073_.md#gastric-mucosal-protective-agent)
+#### [<mark style="color:$primary;">점막 보호제</mark>](073_-gidrugs.md)
 
 * 일부 약제에서 증상 개선이 보고되었으나 근거가 제한적이며, EPS에서 위산 억제제와의 routine 병용이 단독요법보다 우월하다고 확립되지 않음
 * sucralfate <mark style="color:blue;">\[아루사루민]</mark>, eupatilin <mark style="color:blue;">\[스티렌]</mark>, benexate <mark style="color:blue;">\[울굿]</mark>, rebamipide <mark style="color:blue;">\[무코스타]</mark>
@@ -273,25 +257,25 @@ PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 
 #### <mark style="color:$primary;">위저부 이완제 (Fundus relaxant drug)</mark>
 
 * 종류 : pyrimidinylpiperazine azapirone 유도체, 5-HT1A 수용체 작용제
-* PDS, 조기 포만감에 유효; 주로 PDS 또는 PDS 혼합형에 근거가 있음
+* 일부 소규모 연구에서 위 적응·증상 개선이 보고됐지만 효과는 확립되지 않음. Buspirone의 2025년 메타분석에서는 전체 FD/위마비 증상 개선이 위약 대비 유의하지 않았고 일부 팽만 증상 개선 신호만 확인되어, routine 사용을 권고하지 않음 <mark style="color:$info;">[J Neurogastroenterol Motil 2025]</mark>
 * tandospirone : 10 ㎎ tid ×4wk; 소규모 RCT와 간접 비교에서 유효 가능성이 보고되었으나 근거 수준은 낮고, buspirone보다 우월하다는 직접 비교 RCT는 없음. 국내 통상 처방이 어려움
 * buspirone : 10 ㎎ tid ×4wk; 식사 15분 전 복용. 일부 소규모 연구에서 gastric accommodation 및 조기 포만감 개선이 보고되었으나 결과가 일관되지 않음. 국내 FD 적응증은 없는 허가 외 사용 <mark style="color:blue;">\[부스파]</mark>
 
 #### <mark style="color:$primary;">항우울제 (Gut-brain neuromodulator)</mark>
 
 * gut–brain neuromodulator로서 내장 과감각 억제 기전으로 작용
-* 대증 or 제균 요법으로 호전되지 않는 경우에 2차 약제로 [TCA ](073_.md#tca)고려
-* SSRI/SNRI는 FD에 대한 효과가 입증되어 있지 않음 \[BSG 2022]
+* 대증 or 제균 요법으로 호전되지 않는 경우에 2차 약제로 [TCA ](073_-gidrugs.md)고려
+* SSRI/SNRI는 FD에 대한 효과가 입증되어 있지 않음 <mark style="color:$info;">[BSG 2022]</mark>
 * 특히 통증이 두드러진 환자에서 근거가 있으나 PDS/EPS 아형만으로 사용 여부를 결정하지 않음
-* 저용량으로 시작하여 점차 증량; 고령자에서는 5\~10 ㎎부터 시작 - 낙상·항콜린 부작용 주의
-* amitriptyline : 일반 성인 10\~25 ㎎ / 고령자 5\~10 ㎎ 취침 시; 필요 시 2\~4주 간격으로 증량 <mark style="color:blue;">\[에트라빌]</mark>
+* 저용량으로 시작하여 내약성에 따라 증량. **고령자에서는 amitriptyline·imipramine을 가급적 피함**; 강한 항콜린 작용, 진정, 기립저혈압·낙상 위험을 먼저 평가 <mark style="color:$info;">[AGS Beers 2023]</mark>
+* amitriptyline : 일반 성인 10 ㎎ 취침 시부터 시작하여 반응·내약성에 따라 10\~25 ㎎ 등으로 조정. 고령자에서 대안이 없고 이득이 위험보다 클 때에만 5\~10 ㎎ 등으로 매우 신중하게 시작; 낮은 용량도 위험을 없애지는 않음 <mark style="color:blue;">\[에트라빌]</mark>
 * imipramine : 25 ㎎ 취침 시 시작하여 필요 시 50 ㎎까지 고려 <mark style="color:blue;">\[이미프라민]</mark>
 * mirtazapine : 15 ㎎ 취침 시; 조기 포만감과 체중감소가 두드러진 난치성 FD에서 전문의 판단하에 고려할 수 있으나 근거는 제한적. 졸림·체중증가 및 대사 부작용 주의
 * 위 약제들의 FD 사용은 국내 허가 외 사용이므로 근거, 대안 및 부작용을 설명
 
-#### [<mark style="color:$primary;">Probiotics</mark>](073_.md#probiotics)
+#### [<mark style="color:$primary;">Probiotics</mark>](073_-gidrugs.md)
 
-* 특정 균주에서 일부 증상 개선 가능성이 보고되나 균주 간 결과가 일관되지 않으며 현재 연구 단계에 머물고 있음; routine use는 권고되지 않음 \[Second Asian Consensus Report 2025; published 2026]
+* 특정 균주에서 일부 증상 개선 가능성이 보고되나 균주 간 결과가 일관되지 않으며 현재 연구 단계에 머물고 있음; routine use는 권고되지 않음 <mark style="color:$info;">[Second Asian Consensus Report 2025; published 2026]</mark>
 
 #### <mark style="color:$primary;">실험적 / 근거 제한 약제</mark>
 
@@ -305,7 +289,7 @@ PDS/EPS 아형만으로 약물 반응을 예측하거나 치료를 고정하지 
 
 ### <mark style="color:orange;">증상 아형별 처방 방향</mark>
 
-<table><thead><tr><th width="162">우세 증상</th><th width="188">고려할 상황</th><th>처방 방향</th></tr></thead><tbody><tr><td>식후 충만감·조기 포만감</td><td>식사 관련 증상 우세</td><td>국내 사용 가능한 prokinetic 한 계열 시도</td></tr><tr><td>상복부 통증·작열감</td><td>산 억제 치료 반응 가능</td><td>저용량 PPI 또는 H2RA 시도</td></tr><tr><td>초기 치료 불응·통증 과민</td><td>진단·순응도 재평가 후</td><td>저용량 TCA ± gut–brain behavioral therapy</td></tr><tr><td>조기 포만감+체중감소</td><td>영양불량·ARFID 감별</td><td>영양 개입; 선택적으로 mirtazapine 고려</td></tr><tr><td>지속적 구역·구토</td><td>FD 이외 질환·위마비 감별</td><td>원인 평가 후 선택적 치료</td></tr><tr><td>역류 증상 동반</td><td>FD-GERD overlap 가능</td><td>GERD가 확인되면 해당 지침에 따라 별도 치료</td></tr></tbody></table>
+<table><thead><tr><th width="162">우세 증상</th><th width="188">고려할 상황</th><th>처방 방향</th></tr></thead><tbody><tr><td>식후 충만감·조기 포만감</td><td>식사 관련 증상 우세</td><td>국내 사용 가능한 prokinetic 한 계열 시도</td></tr><tr><td>상복부 통증·작열감</td><td>산 억제 치료 반응 가능</td><td>표준용량 이하의 PPI 또는 H2RA 시도</td></tr><tr><td>초기 치료 불응·통증 과민</td><td>진단·순응도 재평가 후</td><td>저용량 TCA ± gut–brain behavioral therapy</td></tr><tr><td>조기 포만감+체중감소</td><td>영양불량·ARFID 감별</td><td>영양 개입; 선택적으로 mirtazapine 고려</td></tr><tr><td>지속적 구역·구토</td><td>FD 이외 질환·위마비 감별</td><td>원인 평가 후 선택적 치료</td></tr><tr><td>역류 증상 동반</td><td>FD-GERD overlap 가능</td><td>GERD가 확인되면 해당 지침에 따라 별도 치료</td></tr></tbody></table>
 
 ***
 
@@ -323,7 +307,7 @@ K30 기능성 소화불량
 > 오엠피 20 ㎎/C   1C   qd   아침 식전 30분   (보험주의)
 > ```
 >
-> _✽상복부 통증·작열감이 우세하면 저용량 PPI를 4\~8주 시도할 수 있다. 증상 호전 시 중단 또는 필요 시 최소 유효 용량으로 조정하며, 점막보호제의 routine 병용은 필요하지 않다._
+> _✽상복부 통증·작열감이 우세하면 표준용량 이하의 PPI를 4\~8주 시도할 수 있다. 증상 호전 시 중단 또는 필요 시 최소 유효 용량으로 조정하며, 점막보호제의 routine 병용은 필요하지 않다._
 
 > **처방례 2. Postprandial distress syndrome (PDS)**
 >
@@ -340,15 +324,15 @@ K30 기능성 소화불량
 > 에트라빌 10 ㎎/T    1T   qd   취침 시   (허가 외 사용)
 > ```
 >
-> _✽진단·복약 순응도를 재평가한 뒤 저용량 TCA를 gut–brain neuromodulator로 고려. 불안·우울 동반 자체가 처방 기준은 아니며 별도의 정신질환은 해당 진단에 따라 치료한다. 고령자는 항콜린 부작용과 낙상 위험 때문에 가급적 피하거나 5\~10 ㎎부터 매우 신중하게 시작한다. 2\~4주 간격으로 재평가하여 필요 시 서서히 증량한다._
+> _✽진단·복약 순응도를 재평가한 뒤 저용량 TCA를 gut–brain neuromodulator로 고려. 불안·우울 동반 자체가 처방 기준은 아니며 별도의 정신질환은 해당 진단에 따라 치료한다. 고령자에서는 가급적 피한다. 예외적으로 대안이 없고 이득이 위험보다 크다고 판단할 때에만 5\~10 ㎎ 등으로 매우 신중하게 시작한다. 2\~4주 간격으로 재평가하여 필요 시 서서히 증량한다._
 
-> **처방례 4. 조기 포만감 우세, 기존 치료 불응**
+> **처방례 4. 표준 치료 불응 환자의 전문의 선택 예시 — 근거 제한**
 >
 > ```
 > 부스파 10 ㎎/T     3T   #3   식전 15분   (허가 외 사용)
 > ```
 >
-> _✽Buspirone의 FD 효과는 연구 결과가 일관되지 않으므로 표준 1차 치료가 아니다. 조기 포만감이 두드러지고 기존 치료에 반응하지 않은 선택된 환자에서 근거와 허가 외 사용임을 설명한 후 4주간 시도하고, 효과가 없으면 중단한다._
+> _✽Buspirone의 FD 효과는 연구 결과가 일관되지 않으므로 표준 1차 치료가 아니다. 전체 증상 개선이 확립되지 않았으므로 조기 포만감만을 근거로 일률적으로 선택하지 않는다. 진단·영양·기존 치료를 재평가한 뒤 전문의가 선택한 경우에만 허가 외 사용과 근거 한계를 설명하고 단기간 반응을 확인하여 효과가 없으면 중단한다._
 
 ***
 
@@ -363,9 +347,9 @@ K30 기능성 소화불량
 
 > **위장관 운동 촉진제 (Prokinetics)**
 >
-> 1. 복용 시점과 횟수는 약제별로 다르므로 처방 지시에 따릅니다. Mosapride와 모티리톤은 일반적으로 식전에 복용합니다.
+> 1. 복용 시점과 횟수는 약제별로 다르므로 처방 지시에 따릅니다. Mosapride 일반정은 식전 또는 식후 복용할 수 있고 서방정은 용법이 다릅니다. 모티리톤은 식전 복용하며, 약 봉투의 지시를 따르십시오.
 > 2. 식후 충만감, 조기 포만감 완화를 목적으로 사용합니다.
-> 3. Metoclopramide(맥페란)는 손발 떨림, 근육 경직 등 추체외로 부작용과 지연성 운동장애 위험 때문에 만성 기능성 소화불량에 routine으로 사용하지 않습니다.
+> 3. Metoclopramide(맥페란)는 손발 떨림, 근육 경직 등 추체외로 부작용과 지연성 운동장애 위험 때문에 만성 기능성 소화불량에 routine으로 사용하지 않습니다. 국내 허가 적응증으로 처방된 경우에도 최대 치료기간은 5일입니다.
 
 > **저용량 항우울제 (TCA - gut-brain neuromodulator)**
 >
@@ -424,3 +408,55 @@ K30 기능성 소화불량
 * 피를 토하거나 검은 변, 실신 또는 갑작스럽고 매우 심한 복통이 있으면 **즉시 응급실을 방문하십시오.**
 * 음식을 삼키기 점점 어려워지거나, 원인 없이 체중이 감소하거나, 구토가 지속되면 **신속히 진료받으십시오.**
 * 4\~8주간 치료해도 호전되지 않거나 증상이 악화되면 외래에서 진단과 치료를 재평가하십시오.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Rome Foundation. Rome V Criteria. 2026. — DGBI 진단 체계와 질환별 빈도·기간 및 배제 조건
+
+  [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+
+* Clinical Practice Guidelines for Functional Dyspepsia in Korea. 2020. — 국내 위암 역학을 고려한 내시경 접근과 FD 치료
+
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC6955183/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6955183/)
+
+* BSG. Guidelines on the Management of Functional Dyspepsia. 2022. — 임상 진단, 초기 치료, 신경조절제·행동치료 및 영양 관리
+
+  [https://gut.bmj.com/content/71/9/1697](https://gut.bmj.com/content/71/9/1697)
+
+* Second Asian Consensus Report on Functional Dyspepsia (2025): Updated Recommendations. 2026. — 아시아 FD 진료 권고; P-CAB·프로바이오틱스 근거의 한계
+
+  [https://pubmed.ncbi.nlm.nih.gov/41656163/](https://pubmed.ncbi.nlm.nih.gov/41656163/)
+
+* Clinical Trial: Treatment of Functional Dyspepsia According to Subtype Compared With Empirical Proton Pump Inhibitor. 2025. — 아형에 따른 초기 치료의 우월성이 확인되지 않은 무작위시험
+
+  [https://pubmed.ncbi.nlm.nih.gov/39618195/](https://pubmed.ncbi.nlm.nih.gov/39618195/)
+
+* Efficacy of Helicobacter pylori Eradication Therapy for Functional Dyspepsia: Updated Systematic Review and Meta-analysis. 2022. — 증상 소실과 개선을 구분한 제균 효과 및 NNT
+
+  [https://pubmed.ncbi.nlm.nih.gov/35022266/](https://pubmed.ncbi.nlm.nih.gov/35022266/)
+
+* ACG. Clinical Guideline: Treatment of Helicobacter pylori Infection. 2024. — 제균 치료 선택과 증상 호전 여부에 관계없는 제균 성공 확인
+
+  [https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)
+
+* Effect of Buspirone on Upper Gastrointestinal Disorders of Gut–Brain Interaction: A Systematic Review and Meta-analysis. 2025. — 전체 FD/위마비 증상에서 유의한 효과 미확인; 일부 팽만 증상 개선 신호와 근거 한계
+
+  [https://pubmed.ncbi.nlm.nih.gov/39779200/](https://pubmed.ncbi.nlm.nih.gov/39779200/)
+
+* AGS. Updated Beers Criteria for Potentially Inappropriate Medication Use in Older Adults. 2023. — 고령자의 강한 항콜린성 항우울제 회피와 이상반응 위험
+
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12478568/)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. — 국내 제품별 적응증·용법·금기 및 허가 상태
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 건강보험심사평가원. 약제급여기준 및 의약품안전사용서비스(DUR). — 약제별 급여기준과 병용·연령·용량·투여기간 주의 정보
+
+  [https://www.hira.or.kr](https://www.hira.or.kr)
