@@ -4,19 +4,21 @@
 
 * MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease, 대사이상지방간질환) : ⓵ 간 내 지방 침착(steatosis)이 있으면서 ⓶ 아래의 심대사 위험 인자 중 1개 이상이 있고, ⓷ 다른 특정 간질환 원인이 주된 원인으로 판단되지 않음; 기존 NAFLD를 대체하는 개념
   * 대사 이상 위험 인자
-    1. 과체중/비만 : BMI ≥25 ㎏/㎡ (아시안 ≥23 ㎏/㎡), 또는 허리둘레 ≥90 ㎝ (남) / ≥80 ㎝ (여)
-    2. 당 대사 이상 : 공복혈당 ≥100 ㎎/㎗, 또는 T2DM, 또는 HbA1c ≥5.7%
+    1. 과체중/비만 : BMI ≥25 ㎏/㎡ (한국인·아시아인 ≥23 ㎏/㎡), 또는 허리둘레 ≥90 ㎝ (남) / ≥85 ㎝ (여; 한국인 기준). 다른 인종·지역의 허리둘레 기준과 구분 <mark style="color:$info;">[KASL 2025]</mark>
+    2. 당 대사 이상 : 공복혈당 ≥100 ㎎/㎗, 또는 2시간 혈당 ≥140 ㎎/㎗, 또는 HbA1c ≥5.7%, 또는 T2DM 진단·혈당강하제 사용
     3. 고혈압 : BP ≥130/85 ㎜Hg 또는 항고혈압제 복용 중
     4. 고중성지방혈증 : TG ≥150 ㎎/㎗ 또는 지질 강하제 복용 중
     5. 저HDL 혈증 : HDL-C ＜40 ㎎/㎗ (남) / ＜50 ㎎/㎗ (여), 또는 지질 강하제 복용 중
   * 용어 변경 : 2023년 국제 다학회 델파이 합의에 따라 NAFLD → MASLD, NASH → MASH로 명칭이 변경됨. 대한간학회도 2025년 대사이상지방간질환(MASLD) 진료 가이드라인을 발표
 * 기존 NAFLD는 음주 여부에 따른 배제 진단이었으나, MASLD는 대사 이상을 기반으로 한 양성(positive) 기준을 적용하는 진단으로 전환됨
-* 만성 간질환의 가장 흔한 원인이며 심혈관 질환·당뇨병·대사증후군·만성 콩팥병·악성 종양의 독립적 위험 인자임
-* 유병률 \[우리나라] : 33%(21∼44%); non-obesity 인구 중 19%(12∼27%); 연간 45명/1000명 발생
+* 만성 간질환의 가장 흔한 원인 중 하나이며 심혈관 질환·당뇨병·만성 콩팥병·일부 악성 종양의 위험 증가와 연관됨. 대사질환과의 관계는 양방향이며, 모든 연관성을 MASLD 자체의 독립적 인과 효과로 해석하지 않음
+* 유병률 \[우리나라, 기존 NAFLD 정의의 연구] : 약 33%(연구별 21∼44%); 비만이 아닌(non-obese) 인구 중 약 19%(12∼27%); 연간 약 45명/1,000명 발생. Non-obese와 lean은 같은 집단이 아님
 
 #### <mark style="color:$primary;">관련 용어 및 새로운 분류 체계</mark>
 
-<table><thead><tr><th width="100.52630615234375">명칭</th><th width="120">이전 명칭</th><th>정의</th></tr></thead><tbody><tr><td><strong>SLD</strong></td><td>지방간질환</td><td>원인 불문 간 지방증을 포괄하는 상위 개념</td></tr><tr><td><strong>MASLD</strong></td><td>NAFLD</td><td>간 지방증 + 대사이상 위험 인자 ≥1개; 음주는 하지 않거나 경미</td></tr><tr><td><strong>MASH</strong></td><td>NASH</td><td>MASLD에서 간세포 풍선변성(ballooning)과 소엽 염증을 동반하는 조직학적 상태; 섬유화는 동반될 수도 있고 없을 수도 있음</td></tr><tr><td><strong>MetALD</strong></td><td>(신규)</td><td>MASLD 기준 충족 + 주당 알코올 섭취량 210∼420 g(남) 또는 140∼350 g(여) (☞ <a href="../230_/189_-alcohol-use-disorder.md">음주</a>)</td></tr><tr><td><strong>ALD</strong></td><td><a href="094_-alcoholic-liver-disease.md">알코올간질환</a></td><td>유의한 음주가 주원인; 대사이상 기준 미충족 가능</td></tr></tbody></table>
+<table><thead><tr><th width="100.52630615234375">명칭</th><th width="120">이전 명칭</th><th>정의</th></tr></thead><tbody><tr><td><strong>SLD</strong></td><td>지방간질환</td><td>원인 불문 간 지방증을 포괄하는 상위 개념</td></tr><tr><td><strong>MASLD</strong></td><td>NAFLD</td><td>간 지방증 + 심대사 위험인자 ≥1개; 음주량은 남 주 210 g 미만, 여 주 140 g 미만</td></tr><tr><td><strong>MASH</strong></td><td>NASH</td><td>MASLD에서 간세포 풍선변성(ballooning)과 소엽 염증을 동반하는 조직학적 상태; 섬유화는 동반될 수도 있고 없을 수도 있음</td></tr><tr><td><strong>MetALD</strong></td><td>(신규)</td><td>간 지방증 + 심대사 위험인자 ≥1개 + 주당 알코올 섭취량 약 210∼420 g(남) 또는 140∼350 g(여) (☞ <a href="../230_/189_-alcohol-use-disorder.md">음주</a>)</td></tr><tr><td><strong>ALD</strong></td><td><a href="094_-alcoholic-liver-disease.md">알코올간질환</a></td><td>SLD 분류상 남 주 420 g 초과 또는 여 주 350 g 초과의 음주; 심대사 위험인자 동반 여부와 무관하게 평가</td></tr></tbody></table>
+
+**음주량 기준의 해석** : 위 수치는 SLD 분류를 위한 기준이며 안전한 음주량이 아님. 가능하면 최근 3개월 이상의 평균과 과거 음주량·폭음 패턴을 함께 평가하고, 최초 평가 후 최소 연 1회 음주력을 재평가한다. 대사 요인·알코올·다른 간질환이 함께 간손상에 기여할 수 있음 <mark style="color:$info;">[AGA MetALD 2026]</mark>
 
 　SLD=Steatotic Liver Disease\
 　MASLD=Metabolic dysfunction-Associated Steatotic Liver Disease\
@@ -31,21 +33,21 @@
 2. **MASH (대사이상지방간염)** : 일부 환자에서 간섬유화가 진행하며, 특히 T2DM·비만·고령·F2 이상 섬유화 등 위험 인자가 있으면 진행 위험이 높음, 적극적 치료 시 역행(regression) 가능, 일부에서 3. 으로 진행
 3. **간경변증 (F4)** : 문맥 고혈압 합병증 (정맥류 출혈·복수·간성뇌증), 간세포암종(HCC) 발생 위험; 6개월마다 감시, 간이식 평가 고려
 
-* **사망 원인** : 초기 MASLD(F0∼F3)에서는 \*\*심혈관 질환(1위)\*\*이 가장 흔한 사망 원인; 간경변(F4) 이후에는 간 관련 사망 비중 증가; 비간성 악성 종양(대장암 등)은 전 병기에 걸쳐 위험; MASLD는 간 질환인 동시에 전신 심대사 질환으로 관리해야 함
+* **사망 원인** : 심혈관 질환과 간외 악성 종양이 주요 사망 원인; 진행성 섬유화·간경변증에서는 간 관련 사망의 비중이 증가. MASLD는 간질환과 심대사 위험을 함께 관리해야 함
 
 {% hint style="warning" %}
 **MASLD의 장기 예후를 가장 잘 예측하는 인자는** ALT 수치가 아니라 간섬유화 정도(fibrosis stage)임. ALT가 정상이어도 진행성 섬유화가 존재할 수 있으며, 치료 결정은 ALT보다 fibrosis risk 중심으로 이루어져야 함
 {% endhint %}
 
-#### <mark style="color:$primary;">Lean MASLD (비-비만형 MASLD)</mark>
+#### <mark style="color:$primary;">Lean MASLD (정상체중형 MASLD)</mark>
 
-* BMI가 정상임에도 내장지방 증가와 인슐린 저항성을 기반으로 발생한 MASLD
-* 아시아인에서 특히 흔함; 국내 non-obesity 인구 중 유병률 약 19%
+* 정상체중에서 발생한 MASLD : 아시아인은 BMI ＜23 ㎏/㎡, 비아시아인은 ＜25 ㎏/㎡를 일반적으로 적용. 내장지방 증가·인슐린 저항성·유전적 요인 등이 관여할 수 있음 <mark style="color:$info;">[AGA Lean NAFLD 2022]</mark>
+* 아시아인에서 임상적으로 중요하며, 비만이 아닌 인구(non-obese)의 유병률을 lean 인구의 유병률로 그대로 해석하지 않음
 * 체중이 정상이므로 대사 위험이 낮아 보여 간과되기 쉬우나, 섬유화 진행 가능
 * 허리둘레·체지방률·당 대사 이상 평가가 중요; 비만 지표보다 '대사 위험 지표' 중심으로 평가
 * 근감소증(sarcopenia) 동반 빈도 높음 - 특히 아시아 고령 환자에서; lean MASLD + sarcopenia 동반 시 예후 더 불량
-  * 근감소증 선별법 : 악력(handgrip strength) 측정(남 ＜28 ㎏, 여 ＜18 ㎏ 이하 시 의심) 또는 SARC-F 설문 (5문항, ≥4점 시 근감소 가능성) (☞ [고령 환자 진료](../231_/215_.md#undefined-9))
-* 체중 감량 시 근육량 감소를 최소화하도록 충분한 단백질 섭취와 저항운동을 병행; 고단백 식이는 근감소증·고령·영양불량 위험 등을 고려하여 개별화
+  * 근감소증 선별법 : 악력(handgrip strength) 측정(남 ＜28 ㎏, 여 ＜18 ㎏ 시 의심) 또는 SARC-F 설문 (5문항, ≥4점 시 근감소 가능성) (☞ [고령 환자 진료](../231_/215_.md#undefined-9))
+* 체중 감량은 영양 상태·근육량·허리둘레에 따라 개별화하며, 적절한 환자에서는 3∼5%의 소폭 감량을 고려. 저체중·영양불량·근감소증 환자에게 일률적 감량을 권고하지 않음. 충분한 단백질 섭취와 저항운동을 병행 <mark style="color:$info;">[AGA Lean NAFLD 2022]</mark>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -56,9 +58,14 @@
 **OSA** : MASLD 환자 진료 시 "코골이가 심한가요?" "낮에 자주 졸리거나 피로하신가요?"를 루틴으로 확인할 것. OSA는 간 내 산화 스트레스와 인슐린 저항성을 악화시켜 MASLD 진행에 기여. 의심 시 수면 검사(PSG) 의뢰
 {% endhint %}
 
-* 식이·생활 습관 : 과당·청량음료 과다 섭취, 단백질 섭취 부족, 급격한 체중 감량, 완전 비경구영양(TPN), 흡연
-* 약물 : 스테로이드, tamoxifen, methotrexate, valproic acid, 화학요법제, nucleos(t)ide analogue
-* 수술 후 : 췌장-십이지장 절제, 비만대사수술 후 (일시적)
+* 식이·생활 습관 : 과당·청량음료 과다 섭취, 에너지 과잉, 운동 부족, 흡연
+
+#### <mark style="color:$primary;">다른 원인의 지방증 또는 중복 원인 감별</mark>
+
+* 영양·전신 상태 : 영양불량, 급격한 체중 감소, 완전 비경구영양(TPN), 일부 내분비·유전성 질환
+* 약물 : corticosteroid, tamoxifen, amiodarone, methotrexate, valproic acid, 일부 항암제·항레트로바이러스제 등
+* 수술·흡수장애 관련 : 췌장-십이지장 절제 후, 심한 흡수장애 또는 수술 후 영양불량 등
+* 위 상황은 MASLD의 대사 위험인자와 구분하여 평가하고, 원인 약물·영양 문제 및 동반 간질환을 확인. 비만대사수술 자체를 통상적인 MASLD 악화 원인으로 해석하지 않음
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -81,10 +88,9 @@
 * 간경변증 또는 고위험군에서 영상검사상 간 결절이 발견되면 HCC 진단 알고리듬에 따라 평가
 * 원인 불명의 간효소 상승이 6개월 이상 지속되거나 악화
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* FIB-4 1.3∼2.67
-* 간효소 지속 상승 6개월 이상에도 원인 불명확
+* FIB-4 1.3∼2.67 (65세 이상 2.0∼2.67) → 2차 NIT 평가 계획
 * T2DM 환자에서 MASLD 동반, 정기 섬유화 평가 미시행
 * 생활습관 중재 6개월 후 간효소 개선 없는 경우
 
@@ -93,14 +99,16 @@
 ### <mark style="color:orange;">실험실 검사</mark>
 
 * ALT↑, AST↑ (AST/ALT ratio는 대체로 ＜1이나 진행된 섬유화에서는 상승할 수 있으며, 단독으로 진단이나 병기 판정에 사용하지 않음)
-  * 간 효소 수치와 섬유화 중증도는 상관 없음 - MASH에서도 정상 가능
+  * 간효소 수치만으로 섬유화 중증도를 판단할 수 없음 - MASH·진행성 섬유화에서도 정상 가능
 * ferritin은 대사이상·염증과 함께 상승할 수 있으나 특이적이지 않음. ALP와 bilirubin은 대개 정상이며, 뚜렷한 상승이 있으면 담즙정체성·침윤성 간질환 등 다른 원인을 평가
 * cholesterol/LDL/TG↑, HDL-C↓
 * s-albumin, PLT : 진행된 섬유화·경화 시 감소
 
 #### <mark style="color:$primary;">지방증 예측 패널 (참고)</mark>
 
-<table><thead><tr><th width="74.73684692382812">지표</th><th width="340.00006103515625">계산법</th><th width="106.84210205078125">Cut-off</th><th>기준 검사</th></tr></thead><tbody><tr><td><a href="https://www.mdcalc.com/calc/10001/fatty-liver-index"><strong>FLI</strong></a></td><td>eˣ / (1 + eˣ) × 100</td><td>≥60 (양성), &#x3C;30 (음성)</td><td>복부 초음파</td></tr><tr><td><a href="https://www.mdcalc.com/calc/3081/nafld-non-alcoholic-fatty-liver-disease-fibrosis-score"><strong>NAFLD-LFS</strong></a></td><td>-2.89 + 1.18 × MetS + 0.45 × DM + 0.15 × insulin + 0.04 × AST − 0.94 × AST/ALT</td><td>＞ -0.64</td><td>MR spectroscopy</td></tr><tr><td><a href="https://www.mdapp.co/hepatic-steatosis-index-hsi-calculator-357/"><strong>HSI</strong></a></td><td>8 × ALT/AST ratio + BMI (+2 if DM; +2 if 여성)</td><td>≥36 (양성), &#x3C;30 (음성)</td><td>복부 초음파</td></tr></tbody></table>
+<table><thead><tr><th width="74.73684692382812">지표</th><th width="340.00006103515625">계산법</th><th width="106.84210205078125">Cut-off</th><th>기준 검사</th></tr></thead><tbody><tr><td><a href="https://www.mdcalc.com/calc/10001/fatty-liver-index"><strong>FLI</strong></a></td><td>eˣ / (1 + eˣ) × 100</td><td>≥60 (양성), &#x3C;30 (음성)</td><td>복부 초음파</td></tr><tr><td><strong>NAFLD-LFS</strong></td><td>-2.89 + 1.18 × MetS + 0.45 × DM + 0.15 × insulin + 0.04 × AST − 0.94 × AST/ALT</td><td>＞ -0.64</td><td>MR spectroscopy</td></tr><tr><td><a href="https://www.mdapp.co/hepatic-steatosis-index-hsi-calculator-357/"><strong>HSI</strong></a></td><td>8 × ALT/AST ratio + BMI (+2 if DM; +2 if 여성)</td><td>≥36 (양성), &#x3C;30 (음성)</td><td>복부 초음파</td></tr></tbody></table>
+
+* NAFLD-LFS 입력 : MetS는 있음 1 / 없음 0, DM은 있음 2 / 없음 0; insulin은 공복 혈청 인슐린(mU/L), AST·ALT는 U/L. NAFLD fibrosis score(NFS)와 다른 도구이며, 지방증 예측 패널은 MASH·섬유화 확진검사가 아님 <mark style="color:$info;">[Kotronen 2009]</mark>
 
 _x = 0.953 × logₑ(TG) + 0.139 × BMI + 0.718 × logₑ(γ-GTP) + 0.053 × 허리둘레(cm) − 15.745_
 
@@ -120,18 +128,21 @@ _x = 0.953 × logₑ(TG) + 0.139 × BMI + 0.718 × logₑ(γ-GTP) + 0.053 × 허
 
 <table><thead><tr><th width="190">FIB-4 값</th><th width="170">위험도</th><th>권고 조치</th></tr></thead><tbody><tr><td>&#x3C;1.3 (65세 이상: &#x3C;2.0)</td><td>진행성 섬유화 가능성 낮음</td><td>일차진료에서 주기적 추적</td></tr><tr><td>1.3∼2.67 (65세 이상: 2.0∼2.67)</td><td>중간위험 (불확실)</td><td>2차 NITs (VCTE 또는 ELF) 시행</td></tr><tr><td>＞2.67</td><td>진행성 섬유화 가능성 높음</td><td>전문의 의뢰 고려</td></tr></tbody></table>
 
+* 급성 질환·급성 간손상 중에는 FIB-4를 만성 섬유화 병기 판단에 직접 사용하지 않음. 저위험이라도 임상적 의심이 높으면 2차 평가 고려
 * 연령 보정 : 35세 미만에서는 FIB-4의 정확도가 낮아 단독 선별검사로 사용하지 않음. 65세 이상에서는 연령에 따른 FIB-4 상승으로 위양성이 많으므로 저위험 컷오프를 ＜2.0으로 적용
 
 {% hint style="info" %}
 **지방간 발견 → FIB-4 계산**\
 → ＜1.3 (65세 이상 ＜2.0) : 생활습관 중재 + 정기 추적\
 → 1.3∼2.67 (65세 이상 2.0∼2.67) : FibroScan® / ELF로 2차 평가\
-→ ＞2.67 또는 VCTE ＞12 kPa : 의뢰
+→ ＞2.67 또는 2차 NIT에서 중간·고위험 : 전문의 평가
 {% endhint %}
 
 **VCTE (Vibration-Controlled Transient Elastography, FibroScan®) · ELF · MRE**
 
-<table><thead><tr><th width="136.52630615234375">위험도</th><th>VCTE (간 경직도, kPa)</th><th>ELF 점수</th><th>비고</th></tr></thead><tbody><tr><td>저위험</td><td>&#x3C;8.0 kPa</td><td>&#x3C;7.7</td><td>일차진료 F/U</td></tr><tr><td>중위험</td><td>8∼12 kPa</td><td>7.7∼9.8</td><td>추적 또는 의뢰</td></tr><tr><td>고위험</td><td>＞12 kPa</td><td>＞9.8</td><td>의뢰</td></tr><tr><td>간경화 의심</td><td>-</td><td>＞11.3</td><td>고위험 예측값; 임상·다른 NIT와 종합하여 전문의 평가</td></tr></tbody></table>
+<table><thead><tr><th width="136.52630615234375">위험도</th><th>VCTE (간 경직도, kPa)</th><th>ELF 점수</th><th>권고 조치</th></tr></thead><tbody><tr><td>저위험</td><td>&#x3C;8.0</td><td>&#x3C;7.7</td><td>일차진료에서 위험도에 따른 추적</td></tr><tr><td>중간위험</td><td>8.0 이상∼12.0 미만</td><td>7.7 이상∼9.8 미만</td><td>전문의 평가; NIT 불일치·동반질환 등을 검토</td></tr><tr><td>고위험</td><td>≥12.0</td><td>≥9.8</td><td>전문의 의뢰</td></tr><tr><td>간 관련 사건 고위험</td><td>-</td><td>≥11.3</td><td>진행성 섬유화에서 비대상화 등 사건 위험 예측; 단독으로 F4 확진하지 않음</td></tr></tbody></table>
+
+* 위 기준은 MASLD의 진행성 섬유화 위험 평가를 위한 참고값으로, 검사 목적·진료지침에 따라 다름. 임상 소견·다른 NIT와 종합하고, ALD의 배제 기준이나 MASH 약물치료 대상 선별 범위와 혼용하지 않음 <mark style="color:$info;">[AASLD 2023]</mark>
 
 {% hint style="info" %}
 **국내 접근성 참고**: 국내에서는 ELF 검사 접근성이 제한적이므로 VCTE(FibroScan®) 활용 빈도가 높음. MRE(MR elastography)는 advanced fibrosis 평가 정확도가 매우 높으나 비용·접근성의 제한이 있음. cT1(corrected T1 MRI)도 고위험 환자 계층 분류에 활용 가능함
@@ -139,7 +150,7 @@ _x = 0.953 × logₑ(TG) + 0.139 × BMI + 0.718 × logₑ(γ-GTP) + 0.053 × 허
 
 ### <mark style="color:orange;">영상 검사</mark>
 
-* 복부 초음파 (1차 선택) : 지방증 선별에 적합; 섬유화 정도 평가 한계
+* 복부 초음파 : 국내에서 지방증 평가의 우선 검사로 흔히 활용; 경도 지방증·비만에서는 민감도가 낮아 정상 소견만으로 지방증을 배제할 수 없으며 섬유화 평가에도 한계. AASLD는 일반 초음파의 낮은 민감도를 지적하고 CAP·MRI-PDFF 등을 구분하여 제시 <mark style="color:$info;">[KASL 2021; AASLD 2023]</mark>
 * CT : 지방증 평가에 제한적으로 사용; 방사선 노출이 있어 정기 추적검사로 권고하지 않음
 * MRI-PDFF : 간 지방 정량에 가장 정확한 비침습적 방법 중 하나이나 비용·접근성 제한; 지방증의 일반적 기준은 간 지방 ≥5%이며 MRI-PDFF 6.4%를 보편적 진단 컷오프로 고정하지 않음
 * MRE (MR elastography) : 간 경직도 정량화; 비만 환자에서도 VCTE보다 정확도 우수; 비용·접근성 제한
@@ -148,7 +159,7 @@ _x = 0.953 × logₑ(TG) + 0.139 × BMI + 0.718 × logₑ(γ-GTP) + 0.053 × 허
 ### <mark style="color:orange;">간 조직 검사</mark>
 
 * 비침습적 평가로 진단 불확실하거나 다른 원인 간질환 배제 필요 시 고려
-* MASH 또는 진행성 간섬유화(≥F2)가 의심되는 환자
+* MASH와 유의한 간섬유화(≥F2)가 의심되며 조직학적 확인이 진료 결정에 필요한 환자
 * MASLD 치료 약제(resmetirom) 적용 여부 결정에 활용 가능; 단, 처방 시 조직검사가 필수는 아님
 
 ### <mark style="color:orange;">경미한 간효소 상승 감별</mark>
@@ -169,66 +180,61 @@ _x = 0.953 × logₑ(TG) + 0.139 × BMI + 0.718 × logₑ(γ-GTP) + 0.053 × 허
 
 {% hint style="info" %}
 **ALD vs MASLD 감별 도구 - ANI (Alcoholic Liver Disease/NAFLD Index)**\
-연령·BMI·AST/ALT ratio·MCV를 이용해 알코올간질환과 MASLD를 통계적으로 감별하는 도구.\
-✽ [Mayo Clinic ANI 계산기](https://www.mayoclinic.org/medical-professionals/transplant-medicine/calculators/the-alcoholic-liver-disease-nonalcoholic-fatty-liver-disease-index-ani/itt-20434726) - 음주력이 불명확한 경우 유용
+성별·BMI·AST/ALT ratio·MCV를 이용해 기존 ALD와 NAFLD를 통계적으로 감별하는 보조 도구. 다른 간질환을 먼저 평가하며, 음주력·음주 바이오마커를 대체하거나 MetALD를 배제하는 검사로 사용하지 않음.\
+✽ [Mayo Clinic ANI 계산기](https://www.mayoclinic.org/medical-professionals/transplant-medicine/calculators/the-alcoholic-liver-disease-nonalcoholic-fatty-liver-disease-index-ani/itt-20434726) - 음주 원인의 감별 보조; 최근 음주 확인검사와 구분
 {% endhint %}
 
 ### <mark style="color:orange;">MASLD와 알코올간질환 비교</mark>
 
-<table><thead><tr><th width="160">항목</th><th width="226.31573486328125">MASLD</th><th>알코올간질환</th></tr></thead><tbody><tr><td><strong>체중</strong></td><td>증가</td><td>다양</td></tr><tr><td><strong>혈당/HbA1c</strong></td><td>증가</td><td>정상</td></tr><tr><td><strong>알코올 섭취량</strong></td><td>MASLD/MetALD 분류 기준에 따라 평가</td><td>음주량과 대사 위험을 함께 평가</td></tr><tr><td><strong>AST</strong></td><td>정상~경미한 상승</td><td>증가</td></tr><tr><td><strong>ALT</strong></td><td>증가 또는 정상</td><td>증가 또는 정상</td></tr><tr><td><strong>AST/ALT ratio</strong></td><td>대체로 ＜1; 진행성 섬유화에서 상승 가능</td><td>상승하는 경우가 많음</td></tr><tr><td><strong>GGT</strong></td><td>증가 또는 정상</td><td>상당히 증가</td></tr><tr><td><strong>TG</strong></td><td>증가</td><td>다양</td></tr><tr><td><strong>HDL-C</strong></td><td>감소</td><td>증가 (급성 음주 시)</td></tr></tbody></table>
+<table><thead><tr><th width="160">항목</th><th width="226.31573486328125">MASLD</th><th>알코올간질환</th></tr></thead><tbody><tr><td><strong>체중</strong></td><td>과체중·비만이 흔하나 정상체중에서도 발생</td><td>다양; 비만·근감소증 동반 가능</td></tr><tr><td><strong>혈당/HbA1c</strong></td><td>정상 또는 상승; 당 대사 이상이 흔함</td><td>정상 또는 상승; 당뇨병 동반 가능</td></tr><tr><td><strong>알코올 섭취량</strong></td><td>MASLD/MetALD 분류 기준에 따라 평가</td><td>음주량과 대사 위험을 함께 평가</td></tr><tr><td><strong>AST</strong></td><td>정상~경미한 상승</td><td>증가</td></tr><tr><td><strong>ALT</strong></td><td>증가 또는 정상</td><td>증가 또는 정상</td></tr><tr><td><strong>AST/ALT ratio</strong></td><td>대체로 ＜1; 진행성 섬유화에서 상승 가능</td><td>상승하는 경우가 많음</td></tr><tr><td><strong>GGT</strong></td><td>증가 또는 정상</td><td>상승할 수 있으나 비특이적</td></tr><tr><td><strong>TG</strong></td><td>증가</td><td>다양</td></tr><tr><td><strong>HDL-C</strong></td><td>감소</td><td>다양; 음주·영양 상태·간기능에 따라 변화</td></tr></tbody></table>
 
 _참고: AST/ALT, GGT, HDL-C 등의 차이는 참고 소견일 뿐 MASLD와 ALD를 구분하는 진단 기준이 아님._
 
 ### <mark style="color:orange;">선별 검사</mark>
 
-\[대한간학회 2025]
+<mark style="color:$info;">[대한간학회 2021·2025]</mark>
 
-* 필수 대상 : 지속적 간효소 수치 상승, 또는 당뇨병 환자
+* 적극적 평가 대상 : 지속적 간효소 수치 상승 또는 T2DM 환자
 * 고려 대상 : 대사증후군, 비만, MASLD 발생 위험 인자 보유자
-* 방법 : 복부 초음파(1차) → MASLD 의심 시 FIB-4 계산 → 추가 평가 고려(CT, MRI, VCTE, ELF)
+* 방법 : 지방증 평가(복부 초음파 등)와 섬유화 위험 평가(FIB-4)를 시행; 위험도에 따라 VCTE 또는 ELF, 필요 시 MRE 등 추가. CT를 일률적인 2차 선별검사로 사용하지 않음
 
-\[AASLD 2023 Practice Guidance]
+<mark style="color:$info;">[AASLD 2023 Practice Guidance]</mark>
 
 * T2DM, 비만, 대사 위험인자가 많은 환자 등에서 advanced fibrosis 위험 평가를 적극 고려; 음주량이 많은 경우 MASLD/MetALD/ALD를 구분하여 평가
 * MASLD 확인 시 T2DM 선별 검사 시행
 * 지방증 또는 임상적으로 MASLD 의심 시 FIB-4로 1차 위험 평가 시행
-* MASLD 환자는 주요 사망 원인이 간외 악성 종양이므로 연령에 따른 암 검진 권고
+* 심혈관 위험인자를 적극 관리하고, 간외 악성 종양 위험도 고려하여 연령·성별·개인 위험에 따른 표준 암 검진 권고
 
 ***
 
 ```mermaid
 flowchart TD
-    A([MASLD 의심 환자<br/>일차진료]) --> B["<u>1차 위험 평가</u><br/>FIB-4 계산"]
-    B --> C["FIB-4 ≥1.3?<br/>(65세 이상: ≥2.0)"]
-    C -->|No| D["저위험 - 일차진료 추적"]
-    D --> D2["·T2DM/pre-T2DM 또는 <br/>대사 위험 ≥2개<br/>→ 1~2년마다 FIB-4<br/>·대사위험 &lt;2개, 비당뇨<br/>→ 2~3년마다 FIB-4"]
-    C -->|Yes| E["FIB-4 >2.67?"]
-    C -->|"ALT·AST<br/>지속 상승"| G
-    E -->|Yes| G["GI/간 전문의 의뢰"]
-    E -->|No| F["<u>2차 위험 평가</u><br/>VCTE (FibroScan®) 또는 ELF"]
-    F --> H["위험도 분류"]
-    H -->|"저위험<br/>VCTE &lt;8 kPa<br/>ELF &lt;7.7"| I["일차진료 F/U"]
-    H -->|"중위험<br/>VCTE 8~12 kPa<br/>ELF 7.7~9.8"| J["일차진료 F/U<br/>또는 재평가"]
-    H -->|"고위험<br/>VCTE >12 kPa<br/>ELF >9.8"| G
-    G --> K["GI/Hepatology Care<br/>1차/2차 평가 재검토<br/>추가 계층 분류 고려<br/> (MRE, cT1)"]
-    K --> L["재분류"]
-    L -->|저위험| M["PCP F/U 또는 재평가"]
-    L -->|"중/고위험"| N["필요 시 간 생검 고려<br/>(NIT 불일치·진단 불확실·다른 간질환 감별<br/>또는 조직학적 치료 결정 필요)"]
-    L -->|"간경화 의심<br/>(임상·영상·ELF >11.3)"| O["간경변증 평가 및 합병증 관리"]
-    N --> P["필요 시 조직학적 병기"]
-    P -->|"Stage 0~1"| Q["위험도에 따라 NIT 재평가"]
-    P -->|"Stage 2~3"| R["전문의 추적<br/>약물 치료 고려"]
-    P -->|"Stage 4"| S["간경화 치료"]
+    A["MASLD 의심 또는 지방증 발견"] --> B["안정 상태에서 FIB-4 계산"]
+    B -->|"1.3 미만; 65세 이상 2.0 미만"| C["생활습관 중재 및 일차진료 추적"]
+    C --> C2["대사 위험에 따라 FIB-4를 1∼3년 간격으로 재평가"]
+    B -->|"1.3∼2.67; 65세 이상 2.0∼2.67"| D["VCTE 또는 ELF로 2차 평가"]
+    B -->|"2.67 초과"| G["간 전문의 평가"]
+    A -->|"원인 불명 간효소 상승 6개월 이상 또는 임상적 고위험"| G
+    D -->|"시행한 NIT 저위험; 임상·검사 불일치 없음"| C
+    D -->|"VCTE 8 이상 또는 ELF 7.7 이상; NIT 불일치"| G
+    G --> E["임상·영상·NIT를 종합; 필요 시 MRE 등 추가"]
+    E -->|"저위험"| C
+    E -->|"진단 불확실·NIT 불일치·조직학적 확인 필요"| F["선택적 간생검"]
+    E -->|"비간경화 MASH F2∼F3"| H["전문의 추적 및 적응증에 따른 약물치료"]
+    E -->|"간경변증 의심 또는 확인"| I["HCC 감시·문맥고혈압 합병증 관리"]
+    F -->|"F0∼F1"| C
+    F -->|"MASH F2∼F3"| H
+    F -->|"F4"| I
 
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class C,E,H,L,P yellow
+class B,E yellow
 classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class B,F lightGreen
+class D,F lightGreen
 classDef blue fill:#d0e8ff,stroke:#1a6abf
-class D2,I,J,M,Q,R blue
+class C,C2,H blue
 classDef sky fill:#e3f2ff,stroke:#2196f3
-class S,O sky
+class I sky
 ```
 
 <p align="center"><strong>지방간질환 의심 환자 위험 평가 알고리듬</strong></p>
@@ -245,7 +251,7 @@ class S,O sky
 
 ### <mark style="color:orange;">섬유화 단계별 치료 전략</mark>
 
-<table><thead><tr><th width="125.9473876953125">섬유화 단계</th><th width="140.68426513671875">대표 상태</th><th width="172.6314697265625">핵심 치료 전략</th><th>우선 고려 약제 / 포인트</th></tr></thead><tbody><tr><td><strong>F0–F1</strong><br>(저위험)</td><td>MASL,<br>초기 MASH</td><td>생활습관 중재 중심<br>심혈관 위험 감소</td><td>· 체중 감량(≥7%)<br>· 운동·지중해식 식단<br>· statin 적극 사용 가능<br>· 비만/T2DM 동반 시 해당 적응증에 맞는 GLP-1 RA 또는 tirzepatide 고려</td></tr><tr><td><strong>F2</strong><br>(significant fibrosis)</td><td>진행 위험 증가</td><td>질병 진행 억제 목표<br>적극적 약물 치료 고려</td><td>· Resmetirom - noncirrhotic MASH + F2∼F3에 한함 (국내 미승인)<br>· semaglutide 2.4 ㎎/주(MASH 해외 승인) / tirzepatide(아직 MASH 적응증 미승인)<br>· pioglitazone (T2DM 동반 시 대사 적응증에 따라; MASH 치료는 선택적·비허가 적응증)<br>· ≥10% 체중 감량을 현실적 목표로 고려</td></tr><tr><td><strong>F3</strong><br>(advanced fibrosis)</td><td>간경변 전단계</td><td>간 관련 사건 예방<br>전문의 공동 관리</td><td>· Resmetirom - 미국 등에서 noncirrhotic MASH + F2∼F3에 승인 (국내 미승인) · Semaglutide 2.4 ㎎/주 - 미국·EU에서 noncirrhotic MASH + F2∼F3에 승인 (국내 MASH 적응증 없음)<br>· GLP-1 RA + 대사 위험 교정<br>· 금주 권고<br>· 정기 NIT 추적</td></tr><tr><td><strong>F4</strong><br>(간경변)</td><td>보상성/비보상성 간경변</td><td>합병증 예방 및 감시</td><td>· HCC 감시 (US ± AFP, 6개월마다)<br>· 정맥류 평가<br>· 간이식 평가 고려<br>· 간독성 약물 주의</td></tr></tbody></table>
+<table><thead><tr><th width="125.9473876953125">섬유화 단계</th><th width="140.68426513671875">대표 상태</th><th width="172.6314697265625">핵심 치료 전략</th><th>우선 고려 약제 / 포인트</th></tr></thead><tbody><tr><td><strong>F0–F1</strong><br>(저위험)</td><td>MASL,<br>초기 MASH</td><td>생활습관 중재 중심<br>심혈관 위험 감소</td><td>· 과체중·비만에서 체중 감량; 정상체중은 개별화<br>· 운동·지중해식 식단<br>· statin 적극 사용 가능<br>· 비만/T2DM 동반 시 해당 적응증에 맞는 GLP-1 RA 또는 tirzepatide 고려</td></tr><tr><td><strong>F2</strong><br>(significant fibrosis)</td><td>진행 위험 증가</td><td>질병 진행 억제 목표<br>적극적 약물 치료 고려</td><td>· Resmetirom - noncirrhotic MASH + F2∼F3에 한함 (국내 미승인)<br>· semaglutide 2.4 ㎎/주(MASH 해외 승인) / tirzepatide(아직 MASH 적응증 미승인)<br>· pioglitazone (T2DM 동반 시 대사 적응증에 따라; MASH 치료는 선택적·비허가 적응증)<br>· 과체중·비만에서 ≥10% 감량을 개별 목표로 고려</td></tr><tr><td><strong>F3</strong><br>(advanced fibrosis)</td><td>간경변 전단계</td><td>간 관련 사건 예방<br>전문의 공동 관리</td><td>· Resmetirom - 미국 등에서 noncirrhotic MASH + F2∼F3에 승인 (국내 미승인)<br>· Semaglutide 2.4 ㎎/주 - 미국·EU에서 noncirrhotic MASH + F2∼F3에 승인 (국내 MASH 적응증 없음)<br>· GLP-1 RA + 대사 위험 교정<br>· 금주 권고<br>· 정기 NIT 추적</td></tr><tr><td><strong>F4</strong><br>(간경변)</td><td>보상성/비보상성 간경변</td><td>합병증 예방 및 감시</td><td>· HCC 감시 (US + AFP, 6개월마다)<br>· 정맥류 평가<br>· 간이식 평가 고려<br>· 간독성 약물 주의</td></tr></tbody></table>
 
 {% hint style="danger" %}
 MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니라 간섬유화 정도(fibrosis stage)임
@@ -254,7 +260,7 @@ MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 {% hint style="info" %}
-**지속적인 체중 감량은 MASLD에서 가장 효과적인 비약물 치료이다.** 어떤 약물도 장기적인 생활습관 중재를 대체할 수 없다.
+**과체중·비만 MASLD에서 지속적인 체중 감량은 핵심 비약물 치료이다.** 정상체중·저체중·근감소증 환자는 영양 상태에 맞추어 개별화한다. 어떤 약물도 장기적인 생활습관 중재를 대체할 수 없다.
 {% endhint %}
 
 ### <mark style="color:orange;">체중 감량 목표와 기대 효과</mark>
@@ -266,8 +272,8 @@ MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니
 {% endhint %}
 
 * 식이 조절 : 총 칼로리 제한이 구성 비율보다 중요; 포화지방·트랜스지방·단순 탄수화물 제한; 지중해식 식단 권고 (☞ [영양](../231_/217_-nutritiondiet-guideline.md))
-* 음주 제한 : 남 ≤2 표준잔/d, 여 ≤1 표준잔/d; 정기 음주량 평가; ≥F2 섬유화 시 **금주** 권고 (☞ [음주](../230_/189_-alcohol-use-disorder.md))
-* 운동 : 중등 강도 유산소 운동(빠른 걷기, 고정 자전거) + 근력 운동; 3∼5회/주, 20∼45분/회 (150∼200분/주) (☞ [운동](../231_/216_-physical-activity-guideline.md))
+* 음주 : 모든 MASLD·MetALD 환자에게 금주를 권고하고, 특히 유의한 섬유화(≥F2)·간경변증에서는 **완전 금주**. 최초 평가 후 최소 연 1회 음주량·패턴을 재평가하며 분류 기준을 안전 음주량으로 안내하지 않음 (☞ [음주](../230_/189_-alcohol-use-disorder.md)) <mark style="color:$info;">[AASLD 2023; AGA MetALD 2026]</mark>
+* 운동 : 중등 강도 유산소 운동(빠른 걷기, 고정 자전거)을 주당 총 150분 이상 목표로 체력에 맞게 분할하고 근력 운동 병행 (☞ [운동](../231_/216_-physical-activity-guideline.md))
 * 간독성 약물 주의 : 다약제 복용·건강보조식품 확인; 처방 불필요한 간독성 약물 중단 고려
 
 {% hint style="info" %}
@@ -286,10 +292,10 @@ MASLD의 장기 예후를 가장 잘 예측하는 인자는 ALT 수치가 아니
 
 MASLD는 다양한 대사 표현형이 겹쳐질 수 있으므로, 비만·당뇨·이상지질혈증·심혈관/신장 위험과 섬유화 위험을 함께 평가하여 치료 목표를 정한다.
 
-<table><thead><tr><th width="139.63153076171875">주요 Phenotype</th><th width="194">특징</th><th width="172.5263671875">핵심 치료 전략</th><th>우선 고려 약제</th></tr></thead><tbody><tr><td><strong>비만형</strong></td><td>복부비만·내장지방 증가 중심<br>(BMI 정상이어도 발생 가능)<br>과식·과당, 수면무호흡 동반</td><td>내장지방 감소 중심<br>체중보다 허리둘레·체지방률 목표</td><td>· semaglutide 2.4 ㎎/주(MASH 해외 승인) / tirzepatide(아직 MASH 적응증 미승인)<br>· 지중해식 식단<br>· ≥10% 체중 감량을 현실적 목표로 고려</td></tr><tr><td><strong>당뇨/인슐린</strong><br><strong>저항성형</strong></td><td>T2DM, 고인슐린혈증<br>TG↑ HDL↓</td><td>인슐린 저항성 개선<br>심혈관 위험 감소</td><td>· pioglitazone (T2DM 동반 시 대사 적응증에 따라; MASH 치료는 선택적·비허가 적응증)<br>· GLP-1 RA<br>· SGLT-2 억제제</td></tr><tr><td><strong>섬유화 진행형</strong><br>(F2~F3)</td><td>FIB-4↑, VCTE stiffness↑<br>PLT 감소<br>(AST/ALT ratio↑ - 참고)</td><td>간 관련 사건 예방<br>섬유화 억제</td><td>· resmetirom (noncirrhotic MASH + F2∼F3, 국내 미승인)<br>· 전문의 공동 관리</td></tr><tr><td><strong>비-비만형</strong><br>(Lean MASLD)</td><td>BMI 정상, visceral adiposity<br>아시아인에서 흔함<br>근감소증 동반 빈도 높음</td><td>체중보다 대사 위험 교정<br>근감소증 평가 필수</td><td>· 저항운동 + 충분한 단백질 섭취 병행<br>· 악력 / SARC-F 로 근감소 선별<br>· fibrosis 적극 평가<br>· 단순 칼로리 제한만 금물</td></tr><tr><td><strong>심혈관 위험형</strong></td><td>ASCVD 위험 높음<br>고TG·저HDL·고혈압</td><td>심혈관 사건 예방 우선</td><td>· statin 적극 사용<br>· SGLT-2 억제제<br>· BP·lipid 강력 조절</td></tr><tr><td><strong>근감소형</strong><br>(Sarcopenic MASLD)</td><td>고령, 근육량 감소, frailty<br>악력↓ (남 &#x3C;28 kg, 여 &#x3C;18 kg)<br>SARC-F ≥4점</td><td>근육 보존 중심<br>과도한 칼로리 제한 피함</td><td>· 저항운동(resistance exercise) 우선<br>· 충분한 단백질 섭취(개별화)<br>· 악력 / SARC-F 정기 모니터링<br>· 필요 시 재활의학과 협진</td></tr></tbody></table>
+<table><thead><tr><th width="139.63153076171875">주요 Phenotype</th><th width="194">특징</th><th width="172.5263671875">핵심 치료 전략</th><th>우선 고려 약제</th></tr></thead><tbody><tr><td><strong>비만형</strong></td><td>복부비만·내장지방 증가 중심<br>(BMI 정상이어도 발생 가능)<br>과식·과당, 수면무호흡 동반</td><td>내장지방 감소 중심<br>체중보다 허리둘레·체지방률 목표</td><td>· semaglutide 2.4 ㎎/주(MASH 해외 승인) / tirzepatide(아직 MASH 적응증 미승인)<br>· 지중해식 식단<br>· 과체중·비만에서 ≥10% 감량을 개별 목표로 고려</td></tr><tr><td><strong>당뇨/인슐린</strong><br><strong>저항성형</strong></td><td>T2DM, 고인슐린혈증<br>TG↑ HDL↓</td><td>인슐린 저항성 개선<br>심혈관 위험 감소</td><td>· pioglitazone (T2DM 동반 시 대사 적응증에 따라; MASH 치료는 선택적·비허가 적응증)<br>· GLP-1 RA<br>· SGLT-2 억제제</td></tr><tr><td><strong>섬유화 진행형</strong><br>(F2~F3)</td><td>FIB-4↑, VCTE stiffness↑<br>PLT 감소<br>(AST/ALT ratio↑ - 참고)</td><td>간 관련 사건 예방<br>섬유화 억제</td><td>· resmetirom (noncirrhotic MASH + F2∼F3, 국내 미승인)<br>· 전문의 공동 관리</td></tr><tr><td><strong>정상체중형</strong><br>(Lean MASLD)</td><td>BMI 정상, visceral adiposity<br>아시아인에서 흔함<br>근감소증 동반 빈도 높음</td><td>체중보다 대사 위험 교정<br>근감소증 평가 필수</td><td>· 저항운동 + 충분한 단백질 섭취 병행<br>· 악력 / SARC-F 로 근감소 선별<br>· fibrosis 적극 평가<br>· 단순 칼로리 제한만 금물</td></tr><tr><td><strong>심혈관 위험형</strong></td><td>ASCVD 위험 높음<br>고TG·저HDL·고혈압</td><td>심혈관 사건 예방 우선</td><td>· statin 적극 사용<br>· SGLT-2 억제제<br>· BP·lipid 강력 조절</td></tr><tr><td><strong>근감소형</strong><br>(Sarcopenic MASLD)</td><td>고령, 근육량 감소, frailty<br>악력↓ (남 &#x3C;28 kg, 여 &#x3C;18 kg)<br>SARC-F ≥4점</td><td>근육 보존 중심<br>과도한 칼로리 제한 피함</td><td>· 저항운동(resistance exercise) 우선<br>· 충분한 단백질 섭취(개별화)<br>· 악력 / SARC-F 정기 모니터링<br>· 필요 시 재활의학과 협진</td></tr></tbody></table>
 
 {% hint style="info" %}
-동일한 MASLD라도 실제 임상 양상은 매우 이질적이다. 우세 phenotype 기반 접근이 실제 예후 개선에 더 중요
+이 표현형 구분은 동반질환과 영양 상태를 함께 살피기 위한 실무적 구분이며, 공인된 상호배타적 분류나 검증된 약물 선택 알고리듬은 아님. 섬유화 위험·약제 적응증·심혈관/신장 위험에 근거하여 치료를 결정
 {% endhint %}
 
 ### <mark style="color:orange;">MASH 치료제 (섬유화 개선 목적)</mark>
@@ -306,21 +312,21 @@ MASLD는 다양한 대사 표현형이 겹쳐질 수 있으므로, 비만·당�
   * 섬유화 1단계 이상 개선 (MASH 악화 없이) : 위약 14% vs 80 ㎎ 24%, 100 ㎎ 26%
   * 주요 부작용 : 설사·오심(경증·일시적), LDL-C 감소(유익)
 * 적용 조건 : 비간경화 MASH + F2∼F3 성인. 미국 허가사항은 임상시험의 조직학적 근거를 기반으로 하나 실제 처방에서는 NIT로 대상 환자를 선별할 수 있으며, 조직검사가 모든 환자에게 필수인 것은 아님
-* 용량 : 체중 ≤100 ㎏은 80 ㎎ 1일 1회, ＞100 ㎏은 100 ㎎ 1일 1회
-* 주요 주의 : 간독성, 담낭 관련 이상반응, CYP2C8 상호작용 및 statin과의 상호작용에 주의; 비대상성 간경변증에는 사용하지 않음
+* 용량(미국 허가사항) : 실제 체중 **＜100 ㎏은 80 ㎎ qd, ≥100 ㎏은 100 ㎎ qd** <mark style="color:$info;">[FDA Rezdiffra]</mark>
+* 주요 주의 : 간독성·담낭 관련 이상반응을 감시; 중등도·중증 간장애(Child-Pugh B/C) 및 비대상성 간경변증에서는 회피. 강력한 CYP2C8 억제제(gemfibrozil 등) 병용은 권고하지 않고 중등도 억제제(clopidogrel 등) 병용 시 resmetirom 감량. Statin 병용 시 rosuvastatin·simvastatin은 20 ㎎/d, atorvastatin·pravastatin은 40 ㎎/d를 넘지 않도록 미국 허가사항의 용량 제한 적용 <mark style="color:$info;">[FDA Rezdiffra]</mark>
 
 ### <mark style="color:orange;">인슐린 저항성 개선제 (Insulin Sensitizer)</mark>
 
 #### <mark style="color:$primary;">Pioglitazone (TZD 계열)</mark>
 
 * T2DM 동반 MASH에서 간 조직 소견 개선 근거가 있으며, 비당뇨 MASH에서도 연구되었으나 현재 일반적인 MASH 치료의 1차 약제로 일률적으로 권고하지 않음
-* 용량 : 30∼45 ㎎/d <mark style="color:blue;">\[액토스]</mark>
-* 주의사항 : 체중 증가, 부종, 심부전 악화 위험; 방광암 가족력·기왕력 시 주의; 골다공증 위험이 높은 고령 여성에서 골절 위험 증가 - 골밀도 평가 병행 고려
+* MASH 임상연구 용량 : 30∼45 ㎎/d. 국내 T2DM 처방은 <mark style="color:blue;">\[액토스]</mark> 등 제품별 허가 용량에 따라 시작·증량하며, 연구 용량을 그대로 적용하지 않음
+* 주의사항 : 체중 증가, 부종, 심부전 악화 위험; 방광암 기왕력·활동성 방광암 여부를 확인; 골다공증 위험이 높은 고령 여성에서 골절 위험 증가 - 골밀도 평가 병행 고려
 * T2DM 동반 시 혈당강하 치료와 함께 선택적으로 고려; 체중 증가·부종·심부전·골절 위험을 환자별로 평가
 
 #### <mark style="color:$primary;">Metformin</mark>
 
-* ALT 또는 간 조직 개선 효과 없음; MASH 치료제로 권고하지 않음
+* MASH의 유의한 조직학적 개선 근거가 없어 MASH 치료제로 권고하지 않음
 * 단, T2DM 동반 시 혈당 조절 목적으로 병용 가능 <mark style="color:blue;">\[글루코파지]</mark>
 
 ### <mark style="color:orange;">GLP-1 수용체 작용제 (GLP-1 RA)</mark>
@@ -330,14 +336,16 @@ MASLD는 다양한 대사 표현형이 겹쳐질 수 있으므로, 비만·당�
 * T2DM 또는 비만 동반 MASLD에서는 해당 대사 적응증에 따라 고려; MASH 치료는 별도의 허가 적응증과 용량을 확인
 * NASH 2상 (NEJM 2021) : semaglutide 0.4 ㎎/일에서 MASH resolution without worsening fibrosis 59% vs 위약 17%; 섬유화 개선은 통계적으로 유의하지 않았음
 * ESSENCE 3상 중간분석(72주, semaglutide 2.4 ㎎/주) : MASH resolution without worsening fibrosis 63% vs 위약 34%; fibrosis improvement without worsening MASH 37% vs 22%. 간 관련 임상사건 감소는 240주 추적 중
-* 미국 Wegovy와 EU Kayshild는 semaglutide 2.4 ㎎/주를 사용하여 비간경화 MASH F2∼F3에 승인됨. 국내 <mark style="color:blue;">\[오젬픽]</mark>은 T2DM 및 허가된 심혈관·신장 적응증에 사용하며 MASH 적응증은 없음. 국내 <mark style="color:blue;">\[위고비]</mark>도 비만 적응증으로 사용하며 국내 MASH 적응증은 없음
+* 미국 Wegovy(2025년 가속 승인)와 EU Kayshild(2026년 3월 조건부 허가)는 비간경화 MASH F2∼F3에 semaglutide 2.4 ㎎/주를 사용. 국내 제품의 대사 적응증과 해외 MASH 적응증·용량을 구분하며, 오젬픽의 T2DM 용량을 MASH 승인 용량과 동일시하지 않음 <mark style="color:$info;">[FDA Wegovy; EMA Kayshild]</mark>
 * 경구 semaglutide는 MASH 치료제로 정립되지 않았으며, MASH 승인 용량·제형과 구분해야 함
+* AASLD 2025 업데이트 : 비간경화 F2∼F3 환자 선별에 NIT를 활용할 수 있으며 대부분의 환자에서 간생검이 필수는 아님. VCTE 8∼15 kPa 등 치료 대상 선별 범위는 일반 섬유화 선별검사의 저·고위험 컷오프와 구분하고, 간경변증 가능성을 먼저 평가 <mark style="color:$info;">[AASLD Semaglutide 2025]</mark>
+* 치료 중 탈수·급성 신손상, 담낭질환, 췌장염, 당뇨망막병증 악화 및 제지방량 감소를 점검. Resmetirom과 semaglutide 2.4 ㎎/주의 병용 효과·안전성은 확립되지 않음 <mark style="color:$info;">[AASLD Semaglutide 2025]</mark>
 
 #### <mark style="color:$primary;">Tirzepatide (GLP-1/GIP 이중 작용제)</mark>
 
 * SYNERGY-NASH 2상(2024) : 52주 시점 MASH resolution without worsening fibrosis가 5 ㎎ 44%, 10 ㎎ 56%, 15 ㎎ 62% vs 위약 10%; fibrosis improvement without worsening MASH는 각각 55%, 51%, 51% vs 위약 30%
 * Tirzepatide는 아직 MASH 적응증이 승인되지 않았으며, 비만·T2DM 치료와 체중감량에 따른 간 개선 효과를 구분하여 설명
-* <mark style="color:blue;">\[마운자로]</mark> (T2DM), <mark style="color:blue;">\[젭바운드]</mark> (비만) - 현재 MASH 적응증 미승인
+* 국내 <mark style="color:blue;">\[마운자로]</mark> : T2DM뿐 아니라 허가 기준을 충족하는 비만·과체중 성인의 만성 체중관리에도 사용. <mark style="color:blue;">\[젭바운드]</mark>는 미국의 체중관리 상품명이며 국내 상품명 구분과 혼용하지 않음. MASH 적응증은 미승인 <mark style="color:$info;">[한국릴리 품목정보]</mark>
 
 {% hint style="info" %}
 GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량·간 조직 개선을 동시에 기대할 수 있어 가장 유망한 약제군으로 부상
@@ -345,8 +353,8 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 
 ### <mark style="color:orange;">SGLT-2 억제제</mark>
 
-* 간 지방증·ALT 개선 효과 소규모 RCT에서 보고; 간 섬유화 개선 대규모 증거는 아직 부족
-* T2DM + MASLD 환자에서 혈당·심혈관·신장 이득을 고려하여 선택할 수 있으나, MASH 치료 효과를 입증한 대규모 조직학적 근거는 부족
+* T2DM·심부전·만성 콩팥병 등 해당 적응증에 따라 심혈관·신장 이득을 고려하여 선택; MASH 자체의 표준 치료제로 일률적으로 권고하지 않음
+* 2025년 dapagliflozin RCT : 조직검사로 확인한 MASH 성인 154명에서 10 ㎎/d를 48주 투여. MASH 소실(섬유화 악화 없음) 23% vs 위약 8%, 섬유화 개선(MASH 악화 없음) 45% vs 20%. 제한된 규모·기간의 연구로, SGLT-2 억제제 전체의 MASH 치료 효과나 간 관련 임상사건 감소로 일반화하지 않음 <mark style="color:$info;">[BMJ 2025]</mark>
 * (☞ [당뇨병](../226_/101_.md))
 
 ### <mark style="color:orange;">고용량 Vitamin E</mark>
@@ -354,7 +362,7 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 * 비당뇨, 비간경화 성인 MASH 환자에서 간 조직 소견 개선
 * 용량 : 800 IU/d의 천연형 rrr-α-tocopherol이 주요 근거(PIVENS 연구)이며, 제품의 제형·IU 환산을 확인하여 처방
 * 주의
-  * T2DM 동반 MASH에서는 근거가 제한적하여 일반적으로 MASH 치료 목적으로 권고하지 않음
+  * T2DM 동반 MASH에서는 근거가 제한적이어서 일반적으로 MASH 치료 목적으로 권고하지 않음
   * 장기 고용량 사용의 잠재적 위해(출혈, 전립선암 등)를 설명하고 환자별 위험을 평가; PSA 정기검사는 일반적인 전립선암 검진 원칙에 따라 결정
   * 항응고제·항혈소판제 병용 시 출혈 위험을 고려하며, warfarin 병용 시 INR 변화를 임상적으로 모니터링
 
@@ -386,7 +394,9 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 ***
 
 {% hint style="info" %}
-**2026년 최신 치료 업데이트**: semaglutide 2.4 ㎎/주는 2025년 미국 FDA에서, 2026년 3월 EU에서 비간경화 MASH F2∼F3 치료제로 승인되었다. 미국 승인과 EU 허가는 장기 임상사건 감소가 아직 확증시험 중인 조건부/가속 승인 성격이다. 국내에서는 2026년 9월 현재 MASH 적응증이 확인되지 않으므로 국내 제품은 허가사항에 따라 사용한다.
+**MASH와 MetALD의 치료 근거 구분** : Resmetirom·semaglutide의 비간경화 MASH 치료 근거를 MetALD·ALD 치료 효과로 그대로 적용하지 않는다. MetALD에서는 금주·AUD 치료·영양 및 대사 위험인자 관리를 병행한다 <mark style="color:$info;">[AGA MetALD 2026]</mark>
+
+**해외 승인 업데이트**: semaglutide 2.4 ㎎/주는 2025년 미국 FDA에서, 2026년 3월 EU에서 비간경화 MASH F2∼F3 치료제로 승인되었다. 미국 승인과 EU 허가는 장기 임상사건 감소가 아직 확증시험 중인 조건부/가속 승인 성격이다. 국내에서는 2026년 9월 현재 MASH 적응증이 확인되지 않으므로 국내 제품은 허가사항에 따라 사용한다.
 {% endhint %}
 
 ### <mark style="color:red;">질병코드</mark>
@@ -396,9 +406,9 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 
 #### <mark style="color:$primary;">\[보험기준] 지방간 관련 약제</mark>
 
-* **간장용제 (UDCA 등)** : 지방간에 대한 보험 급여 적응증 없음 (적응증 외 처방 시 자비 부담)
+* **간장용제 (UDCA 등)** : 제품의 허가사항과 간장용제 일반 급여기준을 함께 적용. 간질환 투여 시 일반적으로 AST 또는 ALT ≥60 U/L, 또는 40∼60 U/L가 3개월 이상 지속되는 경우 등의 기준이 있으므로 단순 지방간 진단만으로 급여·비급여를 일괄 판단하지 않음. 급여 가능 여부는 MASH 조직학적 개선 근거와 별개 <mark style="color:$info;">[심평원 간장용제 일반원칙]</mark>
 * **Pioglitazone** : T2DM 동반 시 혈당 조절 목적으로 급여; 비당뇨 MASH에 단독 사용 시 보험 인정 안 됨
-* **GLP-1 RA(semaglutide 등)** : T2DM 급여 기준 또는 비만 급여 기준에 따라 적용 (MASH 단독은 적용 안 됨)
+* **GLP-1 RA(semaglutide 등)** : 품목별 급여 등재 및 T2DM 세부 인정기준에 따라 판단. 비만 적응증의 국내 GLP-1 계열 주사제는 통상 비급여이며, 해외 MASH 승인만으로 국내 급여가 인정되는 것은 아님
 * **Vitamin E (고용량)** : 비급여
 
 ***
@@ -428,7 +438,7 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 > (4주 후 0.5 ㎎, 허가사항에 따라 증량)
 > ```
 >
-> _✽국내 오젬픽은 T2DM 및 국내 허가된 심혈관·신장 적응증에 사용하며, **국내 MASH 적응증은 없음**. 미국 Wegovy는 2025년 비간경화 MASH F2∼F3에 승인되었고, 2.4 ㎎/주에서 ESSENCE 72주 중간분석상 MASH resolution without worsening fibrosis 63%, fibrosis improvement without worsening MASH 37%를 보였다. 국내에서는 허가사항과 급여기준에 따라 처방한다._
+> _✽오젬픽은 T2DM 치료 용량으로 사용하며 이 처방을 MASH 승인 용량과 동일시하지 않는다. 미국 Wegovy는 비간경화 MASH F2∼F3에 2.4 ㎎/주로 승인되었고, ESSENCE 72주 중간분석에서 MASH 소실 63%, 섬유화 개선 37%를 보였다. 국내 대사 적응증 및 급여 범위와 해외 MASH 적응증을 구분한다._
 
 > **처방례 4. MASLD + 이상지질혈증 - CVD 위험 감소**
 >
@@ -440,13 +450,13 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-1. **생활습관 중재가 핵심입니다** - 체중의 7% 이상 감량 시 MASH 호전, 10% 이상 감량 시 섬유화 개선 가능. 어떤 약물도 생활습관 개선을 대체할 수 없습니다.
+1. **생활습관 중재가 핵심입니다** - 과체중·비만인 경우 체중의 7% 이상 감량 시 MASH 호전, 10% 이상 감량 시 섬유화 개선을 기대할 수 있습니다. 정상체중·근감소증이 있으면 감량 목표를 의료진과 따로 정하세요.
 2. **Vitamin E 800 IU/d** : 매일 규칙적으로 복용하세요. 다른 Vitamin E 함유 건강보조식품과 중복 주의. 남성은 장기 복용 시 PSA 검사는 일반적인 전립선암 검진 원칙에 따라 결정하세요.
 3. **Pioglitazone** : 서서히 체중 증가·발목 부종이 나타날 수 있습니다. 호흡 곤란이나 심한 부종이 발생하면 즉시 알려주세요. 식사와 무관하게 규칙적으로 복용합니다.
 4. **GLP-1 RA (semaglutide 등)** : 처음에 오심·소화 불량이 생길 수 있습니다 - 소량씩 천천히 드시면 호전됩니다. 배꼽 주변 또는 허벅지에 자가 주사하며, 주사 부위를 매번 바꿔 주세요. 심한 복통이 지속되면 췌장염 가능성으로 즉시 내원하세요.
 5. **Statin** : 저녁에 복용해야 하는 약은 아닙니다. 매일 일정한 시간에 복용하세요. 근육통 또는 진한 소변이 나타나면 중단 후 내원하세요. 지방간이 있다고 statin을 무조건 피할 필요는 없습니다.
-6. **알코올은 엄격히 제한**하세요 - 간 섬유화가 있으면 금주가 필요합니다.
-7. **정기적인 혈액 검사**(간기능, 혈당, 지질)와 영상 검사를 받으세요. 치료 중에는 임의로 약을 중단하지 마세요.
+6. **금주를 권합니다.** 특히 유의한 간섬유화나 간경변증이 있으면 완전 금주가 필요합니다. 혼자 끊기 어려우면 상담과 치료를 받으세요.
+7. **혈액 검사**(간기능, 혈당, 지질)와 섬유화 평가를 위험도에 맞추어 받으세요. 영상검사 종류와 주기는 의료진이 정합니다. 약의 중단·변경은 의료진과 상의하세요.
 
 ***
 
@@ -460,19 +470,20 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 
 #### <mark style="color:blue;">왜 관리해야 하나요?</mark>
 
-대부분의 단순 지방간은 생활습관 개선으로 좋아집니다. 그러나 방치하면 일부에서 간 섬유화 → 간경변 → 간암으로 진행할 수 있습니다. 또한 지방간 자체가 심혈관 질환(심근경색, 뇌졸중)의 위험을 높입니다.
+대부분의 단순 지방간은 생활습관 개선으로 좋아집니다. 그러나 방치하면 일부에서 간 섬유화 → 간경변 → 간암으로 진행할 수 있습니다. 지방간이 있는 분은 심혈관 질환(심근경색, 뇌졸중)의 위험도 높아 혈압·혈당·콜레스테롤을 함께 관리해야 합니다.
 
 #### <mark style="color:blue;">생활습관 개선 방법</mark>
 
-**① 체중 감량이 가장 중요합니다**
+**① 체중과 근육을 함께 관리하세요**
 
-* 현재 체중의 **7∼10%** 를 천천히 줄이는 것을 목표로 합니다.
+* 과체중·비만이면 현재 체중의 **7∼10%**를 천천히 줄이는 것을 목표로 합니다.
+* 정상체중이면 필요에 따라 3∼5% 정도의 소폭 감량을 고려할 수 있으나, 저체중·영양불량·근육 감소가 있으면 무리하게 감량하지 마세요.
 * 극단적인 단식이나 급격한 다이어트는 오히려 간에 해롭습니다.
 * 주 1 kg 이내의 점진적인 감량을 권장합니다.
 
 **② 식이 요법**
 
-* 총 칼로리를 줄이는 것이 핵심입니다.
+* 과체중·비만이면 총 섭취 열량을 조절하고, 정상체중·근육 감소가 있으면 영양 부족을 피하세요.
 * 과당이 많은 청량음료·과자·흰빵을 피하세요.
 * 지중해식 식단(채소, 생선, 올리브오일, 통곡물)이 간 건강에 좋습니다.
 * 포화지방(삼겹살, 버터 등)과 트랜스지방(쇼트닝, 패스트푸드)을 줄이세요.
@@ -480,14 +491,14 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 
 **③ 규칙적인 운동**
 
-* 빠르게 걷기·자전거 타기 같은 중등 강도 유산소 운동을 주 3∼5회, 하루 20∼45분 시행하세요.
+* 빠르게 걷기·자전거 타기 같은 중등 강도 운동을 주당 총 150분 이상 목표로, 체력에 맞게 나누어 시행하세요.
 * 근력 운동을 병행하면 더 효과적입니다.
 * 앉아 있는 시간을 줄이는 것만으로도 도움이 됩니다.
 
-**④ 알코올 제한**
+**④ 금주**
 
-* 간 손상이 진행된 경우(섬유화 F2 이상)에는 **금주**가 필요합니다.
-* 그 외에도 음주량을 최소화하세요.
+* 지방간이 있으면 **금주를 권합니다.** 특히 간섬유화가 진행했거나 간경변증이 있으면 완전 금주가 필요합니다.
+* 술을 줄이거나 끊기 어려우면 의료진에게 도움을 요청하세요.
 
 #### <mark style="color:blue;">정기 검진이 중요합니다</mark>
 
@@ -499,11 +510,46 @@ GLP-1 RA는 T2DM·비만 동반 MASLD 환자에서 혈당 조절·체중 감량�
 
 ***
 
-### <mark style="color:$primary;">주요 근거</mark>
+## <mark style="color:$primary;">주요 참고문헌 및 확인 자료</mark>
 
-* 2025 대한간학회 대사이상지방간질환 진료 가이드라인
-* EASL–EASD–EASO Clinical Practice Guidelines on the management of MASLD, 2024
-* AASLD Practice Guidance on the clinical assessment and management of NAFLD/MASLD, 2023
-* FDA: Wegovy (semaglutide) MASH approval, 2025
-* EMA: Kayshild (semaglutide) conditional authorisation, 2026
-* FDA/EMA: Rezdiffra (resmetirom) approval/conditional authorisation
+### 임상 근거
+
+* 대한간학회. KASL clinical practice guidelines for the management of metabolic dysfunction-associated steatotic liver disease 2025. Clin Mol Hepatol. 2025;31(Suppl):S1–S31. — 국내 진단 기준·명명법·치료 근거
+  * https://doi.org/10.3350/cmh.2025.0045
+* 대한간학회. KASL clinical practice guidelines: Management of nonalcoholic fatty liver disease. Clin Mol Hepatol. 2021;27:363–401. — 2025 개정에서 다루지 않은 진단·생활습관·추적 관리의 기반
+  * https://doi.org/10.3350/cmh.2021.0178
+* EASL–EASD–EASO. Clinical Practice Guidelines on the management of MASLD. 2024. — 단계적 섬유화 평가와 생활습관·동반질환 관리
+  * https://pmc.ncbi.nlm.nih.gov/articles/PMC11299976/
+* Rinella ME, et al. AASLD Practice Guidance on the clinical assessment and management of NAFLD. Hepatology. 2023. — FIB-4·VCTE·ELF 및 의뢰 기준
+  * https://doi.org/10.1097/HEP.0000000000000323
+* AASLD. Semaglutide therapy for MASH: November 2025 updates to AASLD Practice Guidance. — 치료 대상 선별·안전성·병용 근거의 한계
+  * https://pubmed.ncbi.nlm.nih.gov/41201884/
+* Arab JP, et al. AGA Clinical Practice Update on the Evaluation and Management of Metabolic Dysfunction- and Alcohol-Associated Liver Disease: Expert Review. 2026. — MetALD 분류·금주·MASH 치료 근거 적용의 한계
+  * https://doi.org/10.1016/j.cgh.2026.07.027
+* AGA. Clinical Practice Update: Diagnosis and Management of NAFLD in Lean Individuals. Gastroenterology. 2022. — 정상체중 정의·개별 체중 관리
+  * https://pubmed.ncbi.nlm.nih.gov/35842345/
+* Lin J, et al. Effect of dapagliflozin on MASH: multicentre, double blind, randomised, placebo controlled trial. BMJ. 2025;389:e083735. — 제한된 규모의 조직학적 치료 근거
+  * https://doi.org/10.1136/bmj-2024-083735
+* Kotronen A, et al. Prediction of non-alcoholic fatty liver disease and liver fat using metabolic and genetic factors. Gastroenterology. 2009;137:865–872. — NAFLD-LFS의 원 개발 연구
+  * https://pubmed.ncbi.nlm.nih.gov/19524579/
+* Mayo Clinic. The Alcoholic Liver Disease/Nonalcoholic Fatty Liver Disease Index (ANI). — 구성변수와 적용 한계
+  * https://www.mayoclinic.org/medical-professionals/transplant-medicine/calculators/the-alcoholic-liver-disease-nonalcoholic-fatty-liver-disease-index-ani/itt-20434726
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. — 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+  * https://nedrug.mfds.go.kr/index
+* 건강보험심사평가원. 약제 급여기준 및 약제급여목록. — 품목별 등재 여부·당뇨병용제 및 간장용제 세부 인정기준 확인
+  * https://www.hira.or.kr
+* 건강보험심사평가원. [일반원칙] 간장용제. 고시 제2022-250호. — 허가사항 및 간효소 기준에 따른 급여 판단
+  * https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?brdScnBltNo=4&mtgHmeDd=20221101&mtgMtrRegSno=1&sno=4
+* FDA. Rezdiffra (resmetirom) prescribing information. — 해외 적응증·체중별 용량·상호작용
+  * https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/217785s006lbl.pdf
+* FDA. Wegovy (semaglutide) MASH approval. — 미국 가속 승인과 확증시험의 구분
+  * https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash
+* EMA. Kayshild (semaglutide) EPAR. — 2026년 3월 EU 조건부 허가
+  * https://www.ema.europa.eu/en/medicines/human/EPAR/kayshild
+* EMA. Rezdiffra (resmetirom) EPAR. — EU 조건부 허가
+  * https://www.ema.europa.eu/en/medicines/human/EPAR/rezdiffra
+* 한국릴리. 마운자로 품목정보. — 국내 T2DM·만성 체중관리 적응증
+  * https://www.lilly.com/kr/our-medicines/mounjaro-faq
