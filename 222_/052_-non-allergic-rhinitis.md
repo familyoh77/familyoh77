@@ -245,6 +245,29 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
 ***
 
 ```mermaid
+graph TD
+    Start(["만성 비증상: <br/>코막힘·콧물·후비루"]) --> RF["Red Flags의 즉각 조치<br/>/당일~수일 내 평가 <br/>항목에 해당?"]
+    RF -->|예| Urgent["Red Flags 등급에 <br/>따라 평가·의뢰"]
+    RF -->|아니오| Exam["병력·전비경, <br/>필요시 비내시경 검사"]
+    Exam --> Other["감염·구조적 질환<br/>·만성 비부비동염 등 <br/>다른 원인 의심?"]
+    Other -->|예| OtherTx["원인별 평가·치료 또는 의뢰; 동반 비염도 평가"]
+    Other -->|아니오| Allergy["피부단자검사 <br/>또는 혈청 특이 IgE"]
+    Allergy -->|양성| Relevant["해당 항원 노출과 <br/>증상의 임상적 연관?"]
+    Relevant -->|있음| AR["알레르기비염 또는 <br/>혼합형 비염"]
+    AR -->|혼합형이면 <br/>비알레르기 성분| Pheno
+    Relevant -->|없음·불명확| Recheck["검사 항원·노출 병력 재평가; <br/>비알레르기성 원인 감별 지속"]
+    Recheck --> Pheno["표현형 분류: <br/>약물·반동성·호르몬·직업<br/>·미각·노인성·위축성<br/>·NARES·특발성"]
+    Allergy -->|음성| LARq["전형적 항원 <br/>관련 증상?"]
+    LARq -->|예| LAR["LAR 의심 <br/>→ 의뢰(NAPT)"]
+    LARq -->|아니오| Pheno
+    Pheno --> Tx["유발 인자·약물 조정 <br/>+ 표현형에 맞는 <br/>비약물·약물 치료"]
+    Tx --> Resp["표현형·약제에 맞춘 <br/>시점에 호전?<br/>INCS는 대개 2~4주 후 평가"]
+    Resp -->|예| FU["표현형·반응에 따라 <br/>유지·감량"]
+    Resp -->|아니오| Ref["분무법·순응도·진단 재평가 <br/>→ 이비인후과 의뢰"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef y fill:#fff9c4,stroke:#ffe082
+    class RF,Other,Relevant,LARq,Resp y
+    style Pheno fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
