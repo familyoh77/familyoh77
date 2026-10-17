@@ -201,11 +201,11 @@
 
 ### <mark style="color:orange;">치료 원칙</mark>
 
-* **알레르겐 회피 + 비강 세척 + 약물 치료** 의 3요소 병행
-* **지속성 또는 중등증\~중증에서는 비내 스테로이드(intranasal corticosteroid, INCS)가 우선 선택제** - 모든 코 증상(재채기·콧물·코막힘·가려움)에 가장 우수한 효과
+* 알레르겐 회피 + 비강 세척 + 약물 치료의 3요소 병행
+* 지속성 또는 중등증\~중증에서는 비내 스테로이드(intranasal corticosteroid, INCS)가 우선 선택제 - 모든 코 증상(재채기·콧물·코막힘·가려움)에 가장 우수한 효과
   * 계절성 AR : INCS ± 비내 H1 항히스타민제(intranasal H1-antihistamine, INAH) 또는 경구 항히스타민제(INCS에 경구 항히스타민제를 추가하면 코 증상의 추가 이득은 크지 않으므로, 안구 증상 등 환자별 이득이 있을 때 고려)
   * 통년성 AR : INCS ± INAH
-* **중등증 이상에서는 INCS+INAH 고정 복합제를 초기 선택지로 고려** - 단일요법으로 충분한 개선이 어려울 것으로 예상되거나 빠른 효과가 필요한 경우, 또는 단일제 사용에도 조절되지 않는 경우 고려
+* 중등증 이상에서는 INCS+INAH 고정 복합제를 초기 선택지로 고려 - 단일요법으로 충분한 개선이 어려울 것으로 예상되거나 빠른 효과가 필요한 경우, 또는 단일제 사용에도 조절되지 않는 경우 고려
   * 복합제 : <mark style="color:blue;">\[딜라스틴 나잘]</mark>(fluticasone p.+azelastine), <mark style="color:blue;">\[리알트리스 나잘스프레이 액]</mark>(mometasone+olopatadine); 국내 제품별 적응증·연령·용량·금기를 구분
     * 딜라스틴 : 6세 이상 중등도\~중증의 계절성 또는 통년성 AR; 임부·수유부 금기
     * 리알트리스 : 6세 이상 계절성 AR; 통년성 AR은 국내 허가 적응증이 아님. 2026년 3월 1일부터 6세 이상 계절성 AR에 급여 인정; 6\~11세는 소아 용법·용량을 따름
@@ -238,55 +238,37 @@ _1) LTRA(montelukast 등)는 routine 중증 옵션이 아님. 다른 치료로 �
 ***
 
 ```mermaid
+```
+
+```mermaid
 graph TD
-    Start(["비염 의심 또는 진단"]) --> RedQ["즉각 조치 또는 당일~수일 내 평가 항목에 해당?"]
-    RedQ -->|예| Urgent["항목별 긴급도에 따라 조치·평가·의뢰"]
-    RedQ -->|아니오| Assess["중증도·기간 및 천식·결막염 등 평가"]
 
-    Assess --> Mild["경증·간헐적"]
-    Assess --> ModSev["지속적 또는 중등증~중증"]
-    Mild --> AH["경구 또는 비내 항히스타민제; INCS도 선택 가능"]
-    ModSev --> INCS0["INCS 단독"]
-    ModSev -->|심한 증상·빠른 조절 필요| Combo0["INCS+INAH 복합제; 국내 허가 범위 확인"]
+Symptoms(["우세 증상·동반 질환별 <br/>선택적 추가"])
+Symptoms --> Tx1["수성 콧물: <br/>ipratropium"]
+Symptoms --> Tx2["안구 증상: 점안제; <br/>이득이 있으면 <br/>OAH 고려"]
+Symptoms --> Tx3["천식·NERD: <br/>별도 관리; <br/>LTRA 선택적 고려"]
+Symptoms --> Tx4["심한 코 막힘: <br/>단기 혈관수축제; <br/>12세 미만 피함"]
+Tx1 --> Reassess["추가 치료 후 <br/>반응·부작용 재평가"]
+Tx2 --> Reassess
+Tx3 --> Reassess
+Tx4 --> Reassess
+Reassess --> Control3["충분히 조절됨?"]
+Control3 -->|예| Maintain["유지 또는 노출·증상에 따른 <br/>최저 유효 용량 조정"]
+Control3 --->|아니오| Fail3["불응성 비염: <br/>전문가 평가"]
+Fail3 --> Cause1["구조적 이상: <br/>수술적 치료 평가"]
+Fail3 --> Cause2["관련 감작 또는 LAR: <br/>전문가 판단 후 <br/>AIT 고려"]
+Fail3 --> Cause3["만성 비부비동염<br/>·비용종 등 <br/>재평가"]
+Fail3 --> Rescue["매우 심한 난치성: <br/>예외적 단기 <br/>경구 스테로이드 판단"]
 
-    AH --> Review1["2~4주 후 치료 반응 평가"]
-    INCS0 --> Review1
-    Combo0 --> Review1
-    Review1 --> Control1["충분히 조절됨?"]
-    Control1 -->|예| Maintain["유지 또는 노출·증상에 따른 최저 유효 용량 조정"]
-    Control1 -->|아니오| Check1["순응도·분무법·진단 재평가"]
-    Check1 -->|진단 수정 필요| Refer["원인별 평가·치료 또는 전문과 의뢰"]
-    Check1 -->|AR 치료 강화 필요| Combine["INCS 용량 최적화 또는 INCS+INAH 전환"]
+style Symptoms fill:#eeeeee,stroke:#888888,stroke-width:4px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Control3,Reassess,Fail3 yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class Tx1,Tx2,Tx3,Tx4,Maintain sky
+classDef orange fill:#fdebd0,stroke:#e67e22
+class Cause1,Cause2,Cause3,Rescue orange
+classDef pink fill:#fde8f0,stroke:#e91e8c
 
-    Combine --> Control2["여전히 조절 불충분?"]
-    Control2 -->|아니오| Maintain
-    Control2 -->|예| Symptoms["우세 증상·동반 질환별 선택적 추가"]
-    Symptoms --> Tx1["수성 콧물: ipratropium"]
-    Symptoms --> Tx2["안구 증상: 점안제; 이득이 있으면 OAH 고려"]
-    Symptoms --> Tx3["천식·NERD: 별도 관리; LTRA 선택적 고려"]
-    Symptoms --> Tx4["심한 코 막힘: 단기 혈관수축제; 12세 미만 피함"]
-    Tx1 --> Reassess["추가 치료 후 반응·부작용 재평가"]
-    Tx2 --> Reassess
-    Tx3 --> Reassess
-    Tx4 --> Reassess
-    Reassess --> Control3["충분히 조절됨?"]
-    Control3 -->|예| Maintain
-    Control3 -->|아니오| Fail3["불응성 비염: 전문가 평가"]
-
-    Fail3 --> Cause1["구조적 이상: 수술적 치료 평가"]
-    Fail3 --> Cause2["관련 감작 또는 LAR: 전문가 판단 후 AIT 고려"]
-    Fail3 --> Cause3["만성 비부비동염·비용종 등 재평가"]
-    Fail3 --> Rescue["매우 심한 난치성: 예외적 단기 경구 스테로이드 판단"]
-
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class RedQ,Control1,Control2,Control3,Review1,Check1,Reassess,Fail3 yellow
-    classDef sky fill:#e3f2ff,stroke:#2196f3
-    class INCS0,Combo0,AH,Combine,Tx1,Tx2,Tx3,Tx4,Maintain sky
-    classDef orange fill:#fdebd0,stroke:#e67e22
-    class Urgent,Refer,Cause1,Cause2,Cause3,Rescue orange
-    classDef pink fill:#fde8f0,stroke:#e91e8c
-    class Mild,ModSev pink
 ```
 
 <p align="center"><strong>알레르기비염 관리 알고리듬</strong></p>
