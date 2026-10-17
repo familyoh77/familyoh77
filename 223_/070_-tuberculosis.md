@@ -61,7 +61,7 @@
 * 폐 증상: 지속되는 기침, 수포음(rale), 호흡 곤란(진행 시·흉수 발생 시), 객혈(공동 형성 시)
 * 전신 증상: 발열, 야간 발한, 체중 감소, 무력감, 식욕 부진, 무통성 림프절 부종
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
@@ -77,7 +77,7 @@
 * 중증 항결핵제 부작용: 간염 증상을 동반한 ALT ≥3×ULN 또는 증상 없이 ALT ≥5×ULN, 점막 침범·수포·피부 박리를 동반한 전신 발진, 시력 저하·색각 변화(EMB 시신경병증)
 * HIV 동반 결핵 또는 면역억제제 투여 중 발병
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험은 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 2주 이상 지속되는 원인 불명의 기침
 * 표준 치료 중 호전 없음: 치료 2개월 후 객담 배양 양성 지속
@@ -323,7 +323,11 @@ PCR 양성 지속은 격리 해제의 배제 기준이 아님: PCR은 사균(dea
 
 #### <mark style="color:$primary;">**접촉자 검진 절차**</mark>
 
-기침·가래 등 결핵 증상 확인 및 흉부 X선 검사 → 결핵 의심 시 추가 검사(객담 검사) → 양성이면 결핵 치료 시작, 음성이면 LTBI 감별 검사(TST &/or IGRA) → LTBI 양성이면 LTBI 치료, 음성이면 2차 검진 절차 수행
+기침·가래 등 결핵 증상 확인 및 흉부 X선 검사 → 결핵 의심 시 객담 등 추가 검사와 임상 평가 → 활동성 결핵으로 진단되면 결핵 치료, 활동성 결핵이 배제되면 LTBI 검사(TST &/or IGRA) → LTBI 양성이면 치료 적응 평가, 최초 음성이면 마지막 접촉 후 8\~10주 재검 여부 결정
+
+{% hint style="warning" %}
+**소아·면역저하 접촉자**: 어린 소아(특히 만 5세 미만)와 중증 면역저하자는 최초 LTBI 검사가 음성이어도 활동성 결핵을 배제한 뒤 잠복기 예방치료(window prophylaxis)가 필요할 수 있다. 국내 연령별 소아 접촉자 알고리듬과 지표환자의 약제감수성에 따라 전문가가 약제·재검 시점·치료 지속 여부를 결정한다.
+{% endhint %}
 
 #### <mark style="color:$primary;">**의료기관 종사자 관리**</mark>
 
@@ -331,7 +335,8 @@ PCR 양성 지속은 격리 해제의 배제 기준이 아님: PCR은 사균(dea
 
 <table><thead><tr><th width="71.25">군</th><th>해당 부서</th></tr></thead><tbody><tr><td>1군</td><td>호흡기 결핵 환자와 접촉 가능성이 높은 곳: 호흡기/감염 내과 외래·병동, 기관지 내시경실, 결핵균 검사실, 폐기능 검사실, 흉부 영상 촬영실, 내과 중환자실, 응급실, 소아호흡기알레르기 클리닉</td></tr><tr><td>2군</td><td>면역 약한 환자 접촉: 신생아실, 분만의료기관, 조산원, 산후조리원, 장기 이식 병동, 혈액암 병동, 투석실, HIV 관련 부서</td></tr><tr><td>3군</td><td>호흡기 감염 우려 부서: 치과, 흉부외과, 마취과, 부검/해부 병리 업무</td></tr></tbody></table>
 
-* 주기적 LTBI 진단 방법: 2단계 TST 또는 IGRA; 가능한 기저 검사와 같은 방법 적용
+* 최초 기저검사: 향후 TST를 반복할 예정이면 증폭효과를 최근 감염에 의한 양전으로 오인하지 않도록 2단계 TST(two-step TST)를 고려한다(첫 검사 음성 시 1\~4주 후 두 번째 검사). IGRA도 기저검사로 사용할 수 있음
+* 이후 주기적 LTBI 검사: 가능한 기저검사와 같은 방법을 사용. 2단계 TST를 매번 반복하는 것은 아니며, 접촉 후 잠복기를 고려한 8\~10주 재검(serial testing)과 구분
 * LTBI 치료 대상: LTBI 양성인 1·2·3군 종사자, 2년 이내 양전, 흉부 X선 상 과거 치료력 없이 자연 치유된 병변 + LTBI 양성
 * 1·2·3군 의료기관 종사자는 위험도에 따라 주기적 LTBI 검진을 시행하며, 구체적인 시행 주기는 각 기관에서 결정함. 모든 의료인에게 일률적으로 매년 LTBI 검사를 시행하는 것은 아님
 
@@ -397,13 +402,15 @@ style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 
 <p align="center">¹⁾칼슘이 침착된 단순 결절 및 폐쇄부와 기저부의 흉막 비후는 제외.<br>²⁾고위험군: HIV 감염, 장기 이식으로 면역억제제 복용자, TNF 대항제 사용자</p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 결핵진료지침. 대한결핵및호흡기학회; 2024. 그림 VII-9.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 결핵진료지침. 대한결핵및호흡기학회; 2024. Ⅷ장 잠복결핵감염.</mark></em></p>
 
 ***
 
 #### <mark style="color:$primary;">LTBI 검사 방법 및 양성 기준</mark>
 
-<table><thead><tr><th width="180">검사</th><th width="220">양성 기준</th><th>비고</th></tr></thead><tbody><tr><td>TST</td><td>경결 ≥10 ㎜ (일반)<br>경결 ≥5 ㎜ (HIV/면역 저하)</td><td>BCG 접종력의 영향을 받을 수 있음</td></tr><tr><td>IGRA (QuantiFERON)</td><td>≥0.35 IU/mL (음성 대조 보정 후)</td><td>BCG 접종에 영향 받지 않음</td></tr><tr><td>IGRA (T-SPOT)</td><td>항원 패널 A 또는 B ≥8 spots</td><td>BCG 접종에 영향 받지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="180">검사</th><th width="220">양성 기준</th><th>비고</th></tr></thead><tbody><tr><td>TST</td><td>경결 ≥10 ㎜ (일반)<br>경결 ≥5 ㎜ (HIV 감염인)</td><td>BCG 접종력의 영향을 받을 수 있음</td></tr><tr><td>IGRA (QuantiFERON)</td><td>TB1−Nil 또는 TB2−Nil ≥0.35 IU/mL이면서 해당 Nil 값의 ≥25%</td><td>BCG 접종에 영향 받지 않음</td></tr><tr><td>IGRA (T-SPOT)</td><td>음성 대조 보정과 대조군 적합성을 포함한 검사실·제조사 기준으로 판정</td><td>BCG 접종에 영향 받지 않음</td></tr></tbody></table>
+
+* HIV 감염인을 제외한 면역저하 성인의 TST 양성 기준도 원칙적으로 ≥10 ㎜이다. 음성 결과만으로 LTBI를 배제하지 않으며, IGRA가 음성이면 TST 추가 등으로 보완한다. IGRA의 미결정 결과는 음성으로 해석하지 않고 검체·면역 상태를 확인하여 재검 또는 다른 검사를 고려한다. T-SPOT은 음성 대조 보정과 대조군 적합성을 포함한 검사실 판정(양성·음성·경계·무효)에 따른다.
 
 * 5\~18세에서는 TST 또는 IGRA를 사용할 수 있다. 만 5세 미만에서는 국내 지침상 TST를 원칙으로 하며 IGRA를 LTBI 검사 방법으로 사용하지 않는다. 검사 결과가 임상 위험도와 불일치하면 접촉 강도·면역 상태·검사 시점을 함께 검토한다.
 
@@ -461,7 +468,7 @@ class PosN1,PosN2,PosI1,PosI2 blue
 
 <p align="center"><strong>잠복결핵감염 진단 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 결핵진료지침. 대한결핵및호흡기학회; 2024. 그림 VII-10, 11.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 결핵진료지침. 대한결핵및호흡기학회; 2024. Ⅷ장 잠복결핵감염.</mark></em></p>
 
 ***
 
@@ -476,7 +483,8 @@ class PosN1,PosN2,PosI1,PosI2 blue
 ```mermaid
 graph TD
     A([LTBI 검사 양성]) --> B[활동성 결핵 배제]
-    B -->|배제 실패| C[활동성 결핵 치료]
+    B -->|배제되지 않음| C[추가 평가 및 전문가 의뢰]
+    C -->|활동성 결핵 진단| CT[활동성 결핵 치료]
     B -->|배제 완료| D["기저 검사<br/>CBC·LFT·간염 검사"]
     D --> E[RIF 사용 가능?]
     E -->|<u>아니오</u><br/>중요 약물 상호작용 등| F["9H 우선 고려<br/>필요 시 6H"]
@@ -501,6 +509,7 @@ class H,I,F sky
 
 #### <mark style="color:$primary;">LTBI 치료 약제 및 용법</mark>
 
+* 아래 LTBI 약제 용량과 처방례는 성인 기준이며, 소아는 연령·체중별 용량을 적용
 * 전염원의 약제 감수성 결과가 있는 경우 이를 참고하여 요법 선택
 * 치료 완료 기준
   * 9H: 12개월 내에 처방 약제의 80% 이상 복용
@@ -529,16 +538,14 @@ class H,I,F sky
 
 ### <mark style="color:orange;">항결핵제 개요</mark>
 
-아래 표의 1차 약제 용량은 약제감수성 결핵 치료에 적용한다. 2차 약제와 주사제 목록은 참고용이며, 현재의 MDR/RR-TB 처방 우선순위나 조합을 의미하지 않는다.
+아래 표는 **성인 약제감수성 결핵**의 주요 약제 용량이다. 소아는 연령·체중에 따른 별도 용량을 적용하며, 신기능 저하·투석 등에서는 용량 또는 투여 간격을 조정한다.
 
-<table><thead><tr><th width="196.25">성분명 (약어)</th><th width="313.75">용량 및 투약 방법</th><th>주요 부작용</th></tr></thead><tbody><tr><td><strong>Group I -</strong></td><td><strong>- 1차 선택 항결핵제</strong></td><td></td></tr><tr><td><strong>Isoniazid</strong> (INH, H)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복</td><td>간독성, 말초신경염, 피부 과민 반응</td></tr><tr><td><strong>Rifampicin</strong> (RIF, R)</td><td>8~12 ㎎/㎏ [450 ㎎ (&#x3C;50 ㎏) ~ 600 ㎎ (≥50 ㎏)] qd, 공복</td><td>간독성, 위장장애, 독감 유사 증상, 혈소판 감소증, 체액 색소 변화</td></tr><tr><td><strong>Ethambutol</strong> (EMB, E)</td><td>15~20 ㎎/㎏ [&#x3C;50 ㎏: 0.8 g, 50~70 ㎏: 1.2 g, ＞70 ㎏: 1.6 g] qd, 공복 또는 식후</td><td>시신경염(시력 저하, 색각 변화)</td></tr><tr><td><strong>Pyrazinamide</strong> (PZA, Z)</td><td>20~30 ㎎/㎏ [&#x3C;46 ㎏: 1 g, 46~70 ㎏: 1.5 g, ＞70 ㎏: 2 g] qd, 공복 또는 식후</td><td>간독성, 관절통, 위장 장애</td></tr><tr><td><strong>Rifabutin</strong> (RFB)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복 또는 식후</td><td>간독성, 호중구 감소증</td></tr><tr><td><strong>Group II -</strong></td><td><strong>- 주사제</strong> (경구제 사용 불가 시; 최근 all-oral regimen 선호로 사용 감소 추세)</td><td></td></tr><tr><td><strong>Streptomycin</strong> (S)<br><strong>Kanamycin</strong> (Km)<br><strong>Amikacin</strong> (Am)<br><strong>Capreomycin</strong> (Cm)</td><td>&#x3C;50세: 15 ㎎/㎏ [1 g] IM/IV<br>≥50세: 10 ㎎/㎏ [750 ㎎] IM/IV</td><td>이독성, 신독성, 입 주위 감각 이상</td></tr><tr><td><strong>Group III -</strong></td><td><strong>- 2차 선택제: 호흡기 퀴놀론제</strong></td><td></td></tr><tr><td><strong>Levofloxacin</strong> (Lfx)</td><td>750~1,000 ㎎ qd, 공복 또는 식후</td><td>위장장애, 두통, 어지럼, 관절통</td></tr><tr><td><strong>Moxifloxacin</strong> (Mfx)</td><td>400 ㎎ qd, 공복 또는 식후</td><td>QT 연장, 위장장애</td></tr><tr><td><strong>Group IV -</strong></td><td><strong>- 경구용 2차 항결핵제</strong></td><td></td></tr><tr><td><strong>Cycloserine</strong> (Cs)</td><td>10~15 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, ≥46 ㎏: 750 ㎎] #1~2, 공복</td><td>우울증, 정신 장애</td></tr><tr><td><strong>Prothionamide</strong> (Pto)</td><td>15~20 ㎎/㎏ [&#x3C;46 ㎏: 500 ㎎, 46~70 ㎏: 750 ㎎, ＞70 ㎏: 1,000 ㎎] #2, 공복</td><td>위장 장애, 간독성</td></tr><tr><td><strong>p-Aminosalicylic acid</strong> (PAS)</td><td>150 ㎎/㎏ [12 g] #3 (3.3 g/pack tid), 식후</td><td>식욕 부진, 구역/구토, 복부 불편감, 간독성</td></tr><tr><td><strong>Group V - 전문가 자문 필요 약제</strong></td><td>Linezolid (Lzd), Bedaquiline (Bdq), Pretomanid (Pa), Delamanid (Dlm), Clofazimine (Cfz), Imipenem/cilastatin (Ipm), Meropenem (Mpm), Amoxicillin/clavulanate (Amx/Clv), High-dose Isoniazid (Hr)</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="196.25">성분명 (약어)</th><th width="313.75">용량 및 투약 방법</th><th>주요 부작용</th></tr></thead><tbody><tr><td><strong>Isoniazid</strong> (INH, H)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복</td><td>간독성, 말초신경염, 피부 과민 반응</td></tr><tr><td><strong>Rifampicin</strong> (RIF, R)</td><td>8~12 ㎎/㎏ [450 ㎎ (&#x3C;50 ㎏) ~ 600 ㎎ (≥50 ㎏)] qd, 공복</td><td>간독성, 위장장애, 독감 유사 증상, 혈소판 감소증, 체액 색소 변화</td></tr><tr><td><strong>Ethambutol</strong> (EMB, E)</td><td>15~20 ㎎/㎏ [&#x3C;50 ㎏: 0.8 g, 50~70 ㎏: 1.2 g, ＞70 ㎏: 1.6 g] qd, 공복 또는 식후</td><td>시신경염(시력 저하, 색각 변화)</td></tr><tr><td><strong>Pyrazinamide</strong> (PZA, Z)</td><td>20~30 ㎎/㎏ [&#x3C;46 ㎏: 1 g, 46~70 ㎏: 1.5 g, ＞70 ㎏: 2 g] qd, 공복 또는 식후</td><td>간독성, 관절통, 위장 장애</td></tr><tr><td><strong>Rifabutin</strong> (RFB)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복 또는 식후</td><td>간독성, 호중구 감소증</td></tr></tbody></table>
 
-* 공복 표시가 없는 경우는 식후 복용; 최대량이 표시되지 않은 경우 권고량이 최대량임
-* Group V 약제들은 전문가 자문이 필요. 주사제(Group II)는 이독성·신독성 모니터링이 필수
-* Ethambutol 사용 시 치료 전 및 치료 중 정기적 시력 검사가 필요하며, 신기능 저하자 또는 ≥25 ㎎/㎏/d 투여 시 위험이 증가
+* Ethambutol 사용 시 치료 전 및 치료 중 정기적 시력·색각 검사가 필요하며, 신기능 저하 또는 고용량 투여 시 독성 위험이 증가
 
 {% hint style="warning" %}
-표의 Group I~V는 약제 특성을 설명하기 위한 종래 분류이며 현재 내성결핵 약제의 우선순위를 뜻하지 않는다. MDR/RR-TB에서는 WHO Group A/B/C와 국내 단기 전경구요법 적응증에 따라 처방을 구성한다. Kanamycin·capreomycin 등 주사제를 단순히 경구약 사용이 어렵다는 이유로 선택하지 않으며, amoxicillin/clavulanate는 carbapenem과 병용하는 특수 상황 외에는 항결핵 핵심약제로 단독 사용하지 않는다.
+**내성결핵 약제**: MDR/RR-TB는 단기 전경구요법의 적응증과 약제감수성을 평가하여 전문기관에서 치료한다. Bedaquiline·linezolid·fluoroquinolone 등은 현재 치료의 핵심 구성 약제이며, 종래 Group I\~V 분류를 처방 우선순위로 사용하지 않는다. 주사제는 표준 대체약으로 임의 선택하지 않는다.
 {% endhint %}
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한결핵및호흡기학회. 결핵 진료지침. 2024.</mark></em></p>
@@ -565,7 +572,7 @@ class H,I,F sky
 * 400 ㎎/T; 고용량 사용 시 2개월 후 감량 <mark style="color:blue;">\[마이암부톨 제피]</mark>
 * \[부작용] 시신경증 : 시력 저하, 적록 색맹, 중심 암증, 주변 시각 장애; 용량·투여 기간과 관련. 신기능 저하 또는 ≥25 ㎎/㎏/d 투여 시 위험 증가; 당뇨병 환자는 미세혈관 합병증으로 인해 기저적 시신경 취약성이 높으므로 정기 시력·색각 검사를 강화
 * 시력 모니터링 : 치료 시작 전 기저 시력 검사 후 매달 시력·색각 검사 권고 (이상 발생 즉시 EMB 중단)
-* 어린 소아에서는 시신경병증 모니터링이 어려울 수 있으므로 주의한다; WHO 권장 용량(15–20 ㎎/㎏/d) 범위 내 2개월 집중기 사용에서의 독성 위험은 낮음
+* 어린 소아에서는 시신경병증 모니터링이 어려울 수 있으므로 주의한다; WHO 소아 권장 용량은 20 ㎎/㎏/d(범위 15\~25 ㎎/㎏/d)이며 권장 용량에서 독성 위험은 낮음. 치료 기간·신기능·검사 협조도를 고려하여 관찰
 
 #### <mark style="color:$primary;">Pyrazinamide (PZA)</mark>
 
@@ -573,11 +580,10 @@ class H,I,F sky
 * \[부작용] 관절통 : ⅓에서 주로 치료 2개월 이내에 발생 → NSAID 투여로 관리
 * \[부작용] 고요산혈증·통풍: PZA로 인한 고요산혈증은 매우 흔하나, 증상이 없는 무증상 고요산혈증만으로는 약제를 중단하지 않고 관찰; 실제 통풍 발작은 드묾. 통풍 환자 또는 ≥2개월 사용 시 요산 모니터링 시행
 
-#### <mark style="color:$primary;">Aminoglycoside계</mark>
+#### <mark style="color:$primary;">주사 항결핵제</mark>
 
-* <mark style="color:blue;">\[황산스트렙토마이신 주]</mark>, <mark style="color:blue;">\[카나마이신황산염 주]</mark>, <mark style="color:blue;">\[아미킨 주]</mark>
-* \[부작용] 이독성(이명/어지럼), 입 주위 감각 이상, 두통 → 심한 경우 감량
-* 용법 : 5\~7일/주 qd → 2\~4개월 후 또는 임상적 호전(균 음전) 시 2\~3일/주 qd
+* 내성결핵에서는 전경구요법을 우선하며, amikacin 등 주사제는 감수성·대안·독성 위험을 평가하여 결핵 전문가가 제한적으로 선택
+* 이명·청력 저하·어지럼 또는 신기능 악화가 발생하면 즉시 투여 지속 여부를 재평가하고 청력·전정기능·신기능 검사. 증상이 심해질 때까지 단순 감량만 하며 관찰하지 않음
 
 ### <mark style="color:orange;">초치료 (New patient)</mark>
 
@@ -643,8 +649,9 @@ class H,I,F sky
 * 증상: 간 효소 수치 상승, 전신 쇠약감, 구역, 구토, 우상복부 불쾌감, 가려움, 황달
   * 고령, 간질환 기왕력, 알코올 남용자에서 정기적 간 효소 검사
 * 조치: ALT ≥3×ULN + 간염 증상, 또는 ALT ≥5×ULN 시 INH·RIF·PZA 투여 중단
-* 재투여: ALT ≤2×ULN(기존 간질환자는 정상화) 시, 1주마다 RIF → INH → PZA 순서로 한 가지씩 간기능 검사하면서 재투여; 필요시 저용량으로 시작, 점차 증량
-* 재투여 기간이 길어지고 내성 발생이 우려될 경우: 간독성이 적은 ≥3가지 약제(ethambutol, cycloserine, quinolone, aminoglycoside)를 투여하면서 한 가지씩 재투여 시도
+* 재투여: 간염 증상이 호전되고 ALT ＜2×ULN으로 감소한 뒤 전문가 감독하에 시행. 기존 간질환으로 치료 전 ALT가 높았다면 정상화를 일률적으로 요구하지 않고 치료 전 기저 수준에 가까워졌는지 평가
+* RIF를 먼저 재투여하고 약 1주 후 간기능이 안정적이면 INH를 추가하는 방식 등을 사용. PZA 재투여는 간염 중증도·원인 가능성·치료 이득에 따라 결정하며, **중증 간염이었거나 PZA가 원인으로 의심되면 재투여를 피하고 치료기간 연장 등을 검토**
+* 중증 결핵으로 간기능 회복 중에도 치료가 필요하면 약제감수성과 장기 기능을 고려해 간독성이 적은 유효 약제 조합을 전문가가 구성. 단일 약제로 대체하거나 임의로 주사제를 추가하지 않음 <mark style="color:$info;">\[ATS/CDC/IDSA 2016]</mark>
 
 #### <mark style="color:$primary;">위장 장애</mark>
 
@@ -728,7 +735,7 @@ class H,I,F sky
 * 18\~20개월 개별화 장기요법은 단기요법의 적응증을 충족하지 않거나 내성·부작용·치료 반응으로 단기요법을 유지할 수 없는 경우에 사용
 
 {% hint style="info" %}
-**내성결핵 단기요법의 적용**: BPaL/BPaLM은 개별 약제를 임의로 추가·제외하는 방식이 아니라 하나의 package regimen으로 운용한다. 연령, 임신·수유, 폐외결핵 부위, 이전 노출, 약제감수성, QT 간격, 골수억제 및 말초·시신경병증 위험을 평가해야 하며, 국가 사전심사·급여기준을 포함하여 반드시 결핵 전문가가 처방한다. WHO 2025 지침의 새로운 단기요법도 국내 지침·허가·공급 여부를 확인한 후 적용한다.
+**내성결핵 단기요법의 적용**: BPaL/BPaLM은 개별 약제를 임의로 추가·제외하는 방식이 아니라 하나의 package regimen으로 운용한다. 연령, 임신·수유, 폐외결핵 부위, 이전 노출, 약제감수성, QT 간격, 골수억제 및 말초·시신경병증 위험을 평가해야 하며, 국가 사전심사·급여기준을 포함하여 반드시 결핵 전문가가 처방한다. WHO 2025는 MDR/RR-TB에 fluoroquinolone 내성 여부에 따라 구성 약제를 조정하는 **6개월 BDLLfxC**(bedaquiline·delamanid·linezolid·levofloxacin·clofazimine) 요법도 선택지로 추가했다. 국내 적용은 결핵 전문가가 국내 지침·허가·공급을 고려하여 결정한다.
 {% endhint %}
 
 ### <mark style="color:orange;">특수 상황</mark>
@@ -773,18 +780,17 @@ class H,I,F sky
 > Pyridoxine 25 ㎎/T                       1T qd
 > ```
 >
-> _✽ 2개월 집중 치료기(4제 요법). 체중 50\~70 ㎏ 기준. 반드시 보건소 신고 후 처방(신고 의무). 약제 감수성 검사 결과에 따라 처방 조정. PZA·EMB는 공복이 어려우면 식후로 변경 가능._
+> _✽ 2개월 집중 치료기(4제 요법). 체중 50\~70 ㎏ 기준. 진단·치료 시 24시간 이내 관할 보건소에 신고하며, 신고를 기다리느라 치료를 지연하지 않음. 약제 감수성 검사 결과에 따라 처방 조정. PZA·EMB는 공복이 어려우면 식후로 변경 가능._
 
 > **처방례 2. 활동성 폐결핵 초치료 - 유지기 (약제 감수성 확인 후)**
 >
 > ```
 > Isoniazid [유한짓] 100 ㎎/T              3T qd 공복
 > Rifampicin [리팜핀] 300 ㎎/C             2C qd 공복
-> Ethambutol [마이암부톨 제피] 400 ㎎/T    3T qd 공복 또는 식후
 > Pyridoxine 25 ㎎/T                       1T qd
 > ```
 >
-> _✽ 4개월 유지기. INH·RIF 감수성 확인 시 3개월째부터 EMB 제외 가능. 고정용량복합제를 사용할 때는 제품별 성분·함량과 최신 허가사항을 확인하여 체중별 목표 용량에 맞춘다._
+> _✽ 체중 ≥50 ㎏ 성인의 예시. INH·RIF 감수성이 확인되어 EMB를 제외한 4개월 HR 유지기 처방이다. 감수성이 아직 확인되지 않았다면 EMB를 유지하며, 고정용량복합제는 체중별 목표 용량에 맞추어 선택한다._
 
 > **처방례 3. 잠복결핵감염 (LTBI) 치료 - 4R 요법 (표준)**
 >
@@ -850,3 +856,43 @@ class H,I,F sky
 
 **잠복결핵감염(LTBI)이란?**\
 몸 안에 결핵균이 잠자고 있는 상태로, 증상이 없고 전파도 되지 않습니다. 하지만 면역이 떨어지면 활동성 결핵으로 발병할 수 있어 예방 치료가 필요합니다. 처방대로 잠복결핵 치료약을 복용하면 결핵 발병 위험을 60\~90% 줄일 수 있습니다.
+
+***
+
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:$primary;">임상 근거</mark>
+
+* 질병관리청·대한결핵 및 호흡기학회. 결핵 진료지침. 제5판. 2024. — 국내 진단, 약제감수성·내성결핵 및 잠복결핵감염 치료
+
+  [https://www.kdca.go.kr/bbs/kdca/55/228178/artclView.do](https://www.kdca.go.kr/bbs/kdca/55/228178/artclView.do)
+
+* 질병관리청. 2026 국가결핵관리지침. — 신고, 접촉자 조사, 의료기관 종사자 관리 및 내성결핵 접촉자 예방치료
+
+  [https://www.kdca.go.kr/bbs/kdca/55/309608/artclView.do](https://www.kdca.go.kr/bbs/kdca/55/309608/artclView.do)
+
+* WHO. Consolidated guidelines on tuberculosis: Module 4 — Treatment and care. 2025. — 약제감수성·약제내성 결핵의 치료와 단기 전경구요법
+
+  [https://www.who.int/publications/i/item/9789240107243](https://www.who.int/publications/i/item/9789240107243)
+
+* Nahid P, et al. ATS/CDC/IDSA Clinical Practice Guidelines: Treatment of Drug-Susceptible Tuberculosis. Clin Infect Dis. 2016;63:e147–e195. — 간독성 후 단계적 약제 재투여 및 특수 상황의 치료
+
+  [https://www.idsociety.org/practice-guideline/treatment-of-drug-susceptible-tb/](https://www.idsociety.org/practice-guideline/treatment-of-drug-susceptible-tb/)
+
+* CDC. Tuberculosis Clinical Care for Children. — 소아 접촉자의 잠복기 예방치료와 추적 평가
+
+  [https://www.cdc.gov/tb/hcp/clinical-care/children.html](https://www.cdc.gov/tb/hcp/clinical-care/children.html)
+
+* QIAGEN. QuantiFERON-TB Gold Plus Test Result Interpretation. — 대조군 적합성, 양성·음성·미결정 판정
+
+  [https://www.qiagen.com/us/tb-testing/what-is-quantiferon/how-does-qft-work/quantiferon-tb-test-result-interpretation](https://www.qiagen.com/us/tb-testing/what-is-quantiferon/how-does-qft-work/quantiferon-tb-test-result-interpretation)
+
+### <mark style="color:$primary;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. — 국내 제품별 적응증·용법·금기 및 허가 상태
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 건강보험심사평가원. 보험인정기준 및 약제기준정보. — 약제별 급여 적용 범위와 세부 인정기준
+
+  [https://www.hira.or.kr/](https://www.hira.or.kr/)

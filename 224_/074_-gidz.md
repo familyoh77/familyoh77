@@ -16,31 +16,32 @@
 
 위장관 증상을 체계적으로 평가할 때는 다음 5단계 순서로 접근한다.
 
-### <mark style="color:orange;">Step 1 -</mark> <mark style="color:$danger;">🚩 Red Flags! 배제</mark>
+### <mark style="color:orange;">Step 1 -</mark>  <mark style="color:$danger;">🚩 Red Flags! 배제</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
+<mark style="color:$danger;">**Tier 1. 즉각 조치 또는 응급 의뢰**</mark>
 
 * 반발압통(rebound tenderness), 판자배(rigid abdomen), 불수의적 근육 경직 → 복막 자극
 * 토혈·혈변·흑색변과 혈역학적 불안정 또는 실신·의식 변화 → 중증 위장관 출혈
 * 갑작스럽고 심한 복통, 특히 진찰 소견에 비해 통증이 매우 심하거나 쇼크 동반 → 장허혈·대동맥 질환 등 배제
 * 심한 복통과 복부 팽만·가스/대변 배출 중단·지속적 구토 ± 장음 변화 → 급성 장폐색·교액 의심
 * 지속적 담즙성 구토(bilious vomiting) 또는 분변성 구토(feculent vomiting)
+* 침도 삼키지 못하거나 침을 흘림·급성 음식 매복이 의심되는 삼킴곤란; 호흡곤란 동반 시 기도 평가 우선
 * 감염이 의심되면서 저혈압·의식 변화·호흡곤란·저관류 등 장기기능장애 소견 → 패혈증/패혈성 쇼크 의심
 * 쇼크 또는 의식 변화
 
-<mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**Tier 2. 당일～수일 내 평가**</mark>
 
-* 새로 발생하거나 진행하는 삼킴곤란 또는 삼킴 통증
-* 혈역학적으로 안정적이지만 원인이 확인되지 않은 흑색변·혈변·토혈
-* 의도치 않은 유의한 체중 감소(예: ＞10%/6개월)
+* 새로 발생하거나 진행하는 삼킴곤란 또는 삼킴 통증 → 수일 내 조기 평가; 급성 매복·침 삼킴 불가 시 Tier 1
+* 혈역학적으로 안정적이어도 새로 발생한 토혈·흑색변 또는 지속·반복되는 유의한 혈변 → 당일 평가
+* 의도치 않은 설명되지 않는 체중 감소 → 감소량·속도·동반 증상을 고려하여 조기 평가
 * 설명되지 않는 철결핍 또는 철결핍빈혈
-* 심한 구역·구토로 탈수·전해질 이상 우려
+* 심한 구역·구토로 탈수·전해질 이상 우려 → 당일 평가
 * 야간 통증 또는 야간 설사
 * 복부 종괴 촉지
-* 40세 이상에서 새로 발생한 소화불량 또는 상부위장관 증상
+* 40세 이상에서 새로 발생한 소화불량
   * 국내 기능성 소화불량 진료지침은 높은 위암 발생률을 고려하여 40세 이상 소화불량 환자에서 조기 상부위장관 내시경을 권고한다. 이 연령 기준을 모든 위장관 증상에 일률적으로 적용하지는 않는다.
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험은 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**Tier 3. 조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험은 낮으나 호전 없으면 의뢰</mark>
 
 * 적절한 경험적 치료에도 반응하지 않는 소화불량
 * _H. pylori_ 제균 실패 또는 제균 여부 미확인 → 이전 항생제 노출을 고려한 구제요법 및 제균 확인 계획
@@ -78,25 +79,35 @@
 
 * 기능성 위장관 질환(FGID)은 현재 **장-뇌 상호작용 장애(disorders of gut-brain interaction, DGBI)**라는 개념으로 분류함
 * 장-뇌 축(gut-brain axis), 내장 과민성, 운동·점막/면역 기능 변화, 장내 미생물 및 중추 감작 등이 병태생리에 관여
-* DGBI는 단일 진단명이 아니라 분류 체계임
+* DGBI는 단일 진단명이 아니라 분류 체계이며, 2026년 Rome V가 발표됨
 
-**Rome IV 기반 DGBI 주요 분류-대표 질환**
+**Rome V를 반영한 DGBI 주요 분류-대표 질환**
 
 * 위십이지장 기능성 질환: 기능성 소화불량(FD)―식후곤란증후군(PDS), 상복부통증증후군(EPS)
 * 식도 기능성 질환: 기능성 흉통, 기능성 삼킴곤란, 기능성 가슴쓰림, 역류과민성
-* 장 기능성 질환: 과민성 장 증후군(IBS), 기능성 변비, 기능성 설사, 기능성 복부 팽만/팽창
+* 장 질환: 과민성 장 증후군(IBS), 만성 변비(chronic constipation; 기존 기능성 변비), 기능성 설사, 기능성 복부 팽만/팽창
 * 중추 매개 위장관 통증 장애: 중추매개 복통증후군(CAPS)
-* 항문직장 기능성 질환: 기능성 배변장애
+* 항문직장 질환: 기능성 배변장애
+
+{% hint style="info" %}
+**Rome V 핵심 변화**
+
+* PDS: 일상생활에 지장을 주는 식후 포만감 및/또는 조기 포만감이 주 2일 이상. FD의 기간 기준(최소 6개월 전 시작, 최근 3개월간 기준 충족)은 유지됨.
+* IBS: 지속적이지 않고 반복되는 복통 **또는 복부 불편감**이 최근 3개월 동안 평균 월 3일 이상이며, 배변과의 관련성·배변 빈도 변화·대변 형태 변화 중 2개 이상과 연관. 증상은 진단 최소 6개월 전에 시작됨.
+* 기간 기준을 충족하기 전에도 경고 징후와 임상 경과를 평가하고 필요한 증상 치료를 지연하지 않음.
+
+_<mark style="color:$info;">Ref. Rome Foundation. Rome V Criteria. 2026.</mark>_
+{% endhint %}
 
 ### <mark style="color:orange;">Step 5 - 경험적 치료 vs 조기 검사</mark>
 
-<table><thead><tr><th width="260">상황</th><th>접근</th></tr></thead><tbody><tr><td>40세 미만 소화불량 + alarm feature 없음</td><td>국내에서는 _H. pylori_ test-and-treat 또는 제한된 기간의 경험적 치료 고려</td></tr><tr><td>40세 이상 새로 발생한 소화불량</td><td>조기 상부위장관 내시경 권고</td></tr><tr><td>전형적 GERD 증상 + alarm feature 없음</td><td>경험적 PPI 치료 가능</td></tr><tr><td>Alarm feature 존재</td><td>증상과 의심 질환에 맞추어 조기 내시경·영상·혈액검사</td></tr><tr><td>지속 구토 / 탈수</td><td>전해질·신기능 평가 및 폐색 등 원인에 따른 영상검사</td></tr><tr><td>만성 설사</td><td>기본 혈액·대변검사 후 적응증에 따라 대장내시경 및 생검</td></tr></tbody></table>
+<table><thead><tr><th width="260">상황</th><th>접근</th></tr></thead><tbody><tr><td>40세 미만 소화불량 + alarm feature 없음</td><td>국내에서는 _H. pylori_ test-and-treat 또는 제한된 기간의 경험적 치료 고려</td></tr><tr><td>40세 이상 새로 발생한 소화불량</td><td>조기 상부위장관 내시경 권고</td></tr><tr><td>전형적 GERD 증상 + alarm feature 없음</td><td>경험적 PPI 치료 가능</td></tr><tr><td>Alarm feature 존재</td><td>증상과 의심 질환에 맞추어 조기 내시경·영상·혈액검사</td></tr><tr><td>지속 구토 / 탈수</td><td>전해질·신기능 평가 및 폐색 등 원인에 따른 영상검사</td></tr><tr><td>만성 설사</td><td>기본 혈액·대변검사 후 임상 상황에 따라 분변 calprotectin/lactoferrin, Giardia, celiac disease 및 담즙산 설사 평가; 적응증에 따라 대장내시경·생검</td></tr></tbody></table>
 
-_<mark style="color:$info;">Ref. Clinical Practice Guidelines for Functional Dyspepsia in Korea. J Neurogastroenterol Motil. 2020; Second Asian Consensus Report on Functional Dyspepsia. 2026.</mark>_
+_<mark style="color:$info;">Ref. Clinical Practice Guidelines for Functional Dyspepsia in Korea. J Neurogastroenterol Motil. 2020; Second Asian Consensus Report on Functional Dyspepsia (2025): Updated Recommendations. 2026; AGA chronic diarrhea guideline. 2019.</mark>_
 
 ## <mark style="color:green;">질환에 따른 주요 증상</mark>
 
-<table><thead><tr><th width="220">질환</th><th>주요 증상 및 특징</th></tr></thead><tbody><tr><td>기능성 소화불량</td><td>증상을 설명할 구조적 질환이 없으면서 일상생활에 지장을 주는 식후 포만감, 조기 포만감, 상복부 통증, 상복부 작열감 중 하나 이상. 진단 전 최소 6개월 전에 시작되어 최근 3개월간 기준 충족 (☞ <a href="076_-functional-dyspepsia-fd.md">기능성 소화불량</a>)</td></tr><tr><td>식후곤란증후군(PDS)</td><td>일상생활에 지장을 주는 식후 포만감 및/또는 조기 포만감이 핵심 증상; 상복부 팽만·트림·구역은 동반 가능</td></tr><tr><td>위식도역류질환(GERD)</td><td>흉골 뒤 작열감(heartburn)과 산 역류가 전형적 증상이며, 작열감이 목 쪽으로 상승할 수 있음 (☞ <a href="081_-gerd.md">위식도역류질환</a>)</td></tr><tr><td>유문부 폐쇄, 위마비</td><td>식후 포만감, 조기 포만감, 오심·구토; 충분한 금식 후에도 유발되는 진수음(succussion splash)은 위 내용물 저류를 시사할 수 있으나 특이도는 제한적</td></tr><tr><td>장폐색</td><td>산통성 복통, 복부 팽만, 구토, 가스·대변 배출 감소/중단; 초기에는 고음성·증가된 장음이 들릴 수 있으나 진행하면 감소 또는 소실 가능</td></tr><tr><td>장마비</td><td>복부 팽만, 오심·구토, 가스·대변 배출 감소와 감소된 장음; 기계적 폐색과 감별 필요</td></tr><tr><td>장허혈</td><td>초기에는 복부 진찰 소견에 비해 매우 심한 통증(pain out of proportion)이 나타날 수 있으나, 진행하면 압통·복막자극징후 발생</td></tr><tr><td>내장성 복통</td><td>위치가 불명확한 정중선 주변 또는 광범위한 통증; 자율신경 증상 동반 가능</td></tr><tr><td>췌장염, 담낭염</td><td>구토로 호전되지 않는 지속적 상복부 또는 우상복부 통증; 각각 등 또는 우견갑부로 방사 가능</td></tr><tr><td>복막 자극</td><td>움직임·기침으로 악화되는 통증, 불수의적 guarding, rigidity, 반발압통</td></tr><tr><td>복벽 통증</td><td>국소적으로 명확한 압통; 복근을 긴장시킬 때 통증이 유지·증가하는 Carnett 징후가 시사적</td></tr><tr><td>삼투성 설사</td><td>금식 시 감소하거나 호전 (☞ <a href="083_-acute-diarrhea.md">설사</a>)</td></tr><tr><td>분비성 설사</td><td>금식 중에도 지속되는 다량의 수양성 설사</td></tr><tr><td>염증성 설사</td><td>혈변·점액변, 발열, 복통, 배변 절박감; 감염성 장염과 IBD 등 감별</td></tr></tbody></table>
+<table><thead><tr><th width="220">질환</th><th>주요 증상 및 특징</th></tr></thead><tbody><tr><td>기능성 소화불량</td><td>증상을 설명할 구조적·전신성·대사성 질환이 없으면서 일상생활에 지장을 주는 식후 포만감, 조기 포만감, 상복부 통증, 상복부 작열감 중 하나 이상. 진단 전 최소 6개월 전에 시작되어 최근 3개월간 기준 충족 (☞ <a href="076_-functional-dyspepsia-fd.md">기능성 소화불량</a>)</td></tr><tr><td>식후곤란증후군(PDS)</td><td>일상생활에 지장을 주는 식후 포만감 및/또는 조기 포만감이 주 2일 이상(Rome V); 상복부 팽만·트림·구역 동반 가능. 구역이 주증상이거나 구토가 지속되면 다른 구역·구토 질환 및 위마비 평가</td></tr><tr><td>위식도역류질환(GERD)</td><td>흉골 뒤 작열감(heartburn)과 산 역류가 전형적 증상이며, 작열감이 목 쪽으로 상승할 수 있음 (☞ <a href="081_-gerd.md">위식도역류질환</a>)</td></tr><tr><td>유문부 폐쇄, 위마비</td><td>식후 포만감, 조기 포만감, 오심·구토; 충분한 금식 후에도 유발되는 진수음(succussion splash)은 위 내용물 저류를 시사할 수 있으나 특이도는 제한적</td></tr><tr><td>장폐색</td><td>산통성 복통, 복부 팽만, 구토, 가스·대변 배출 감소/중단; 초기에는 고음성·증가된 장음이 들릴 수 있으나 진행하면 감소 또는 소실 가능</td></tr><tr><td>장마비</td><td>복부 팽만, 오심·구토, 가스·대변 배출 감소와 감소된 장음; 기계적 폐색과 감별 필요</td></tr><tr><td>장허혈</td><td>초기에는 복부 진찰 소견에 비해 매우 심한 통증(pain out of proportion)이 나타날 수 있으나, 진행하면 압통·복막자극징후 발생</td></tr><tr><td>내장성 복통</td><td>위치가 불명확한 정중선 주변 또는 광범위한 통증; 자율신경 증상 동반 가능</td></tr><tr><td>췌장염, 담낭염</td><td>구토로 호전되지 않는 지속적 상복부 또는 우상복부 통증; 각각 등 또는 우견갑부로 방사 가능</td></tr><tr><td>복막 자극</td><td>움직임·기침으로 악화되는 통증, 불수의적 guarding, rigidity, 반발압통</td></tr><tr><td>복벽 통증</td><td>국소적으로 명확한 압통; 복근을 긴장시킬 때 통증이 유지·증가하는 Carnett 징후가 시사적</td></tr><tr><td>삼투성 설사</td><td>금식 시 감소하거나 호전 (☞ <a href="083_-acute-diarrhea.md">설사</a>)</td></tr><tr><td>분비성 설사</td><td>금식 중에도 지속되는 다량의 수양성 설사</td></tr><tr><td>염증성 설사</td><td>혈변·점액변, 발열, 복통, 배변 절박감; 감염성 장염과 IBD 등 감별</td></tr></tbody></table>
 
 ## <mark style="color:green;">증상 및 병력에 따른 감별</mark>
 
@@ -123,7 +134,7 @@ GLP-1 수용체 작용제(예: semaglutide, liraglutide) 및 GLP-1/GIP 이중 �
 ### <mark style="color:orange;">일반 원칙</mark>
 
 * Alarm feature(경고 징후) 존재
-* 40세 이상에서 새로 발생한 소화불량 또는 상부위장관 증상
+* 40세 이상에서 새로 발생한 소화불량
 * 원인 불명 위장관 출혈 또는 철결핍빈혈
 * 지속 구토 또는 진행성 삼킴곤란·삼킴 통증
 * 적절한 경험적 치료에도 지속되는 증상
@@ -135,18 +146,21 @@ GLP-1 수용체 작용제(예: semaglutide, liraglutide) 및 GLP-1/GIP 이중 �
 
 ### <mark style="color:orange;">우리나라 위암 국가검진</mark>
 
-* **40세 이상** 남녀는 매 **2년**마다 위장조영검사(UGI) 또는 상부위장관 내시경을 시행한다.
-* 이는 무증상 인구의 국가검진 주기이며, 증상 환자의 진단 내시경 시기와 동일한 개념이 아니다.
+* 국가암검진사업은 **40세 이상** 남녀를 대상으로 **2년** 간격의 위암 검진을 시행하며, 위내시경검사를 우선하고 시행하기 어려운 경우 위장조영검사를 선택적으로 고려한다.
+* **개정 국가 위암 검진 권고안(2025; 2026년 발표)**은 **40～74세 무증상 성인에서 위내시경검사만을 2년 간격의 1차 검진법으로 권고**한다. 위장조영검사는 위내시경이 불가능한 특수한 상황에서 고려하며, 일반적인 경우에는 조건부 비권고이다.
+* **75세 이상**은 건강 상태·기대여명·검진 이득과 위해를 고려하여 개별 결정한다. 이 근거 기반 권고안의 연령 범위와 국가검진사업의 행정상 대상 기준은 구분한다.
+* 무증상 인구의 검진 주기는 증상 환자의 진단 내시경 시기와 동일한 개념이 아니다.
 * 위축성 위염·장상피화생 환자의 추적 간격은 병변 범위, 조직학적 중증도(OLGA/OLGIM), 위암 가족력, _H. pylori_ 상태 및 내시경 질에 따라 개별화한다.
 * 광범위 장상피화생, 불완전형 장상피화생, OLGA/OLGIM III–IV 또는 위암 직계가족력 등 고위험군에서는 1년 간격 내시경을 고려할 수 있으나, 국내 지침은 2년보다 짧은 간격이 위암 사망률을 낮추는지 근거가 불충분하여 일률적으로 권고하지 않는다.
 
-_<mark style="color:$info;">Ref. Clinical Practice Guideline for Gastritis in Korea. J Korean Med Sci. 2023.</mark>_
+_<mark style="color:$info;">Ref. 국립암센터. 국가 위암 검진 권고안(2025), 2026년 발표; Clinical Practice Guideline for Gastritis in Korea. J Korean Med Sci. 2023.</mark>_
 
 ### <mark style="color:orange;">GLP-1/GIP 작용제 복용 환자의 내시경 전 주의사항</mark>
 
 GLP-1 수용체 작용제 및 GLP-1/GIP 이중 작용제는 상부위장관 내시경 시 위 내용물 잔류와 검사 중단·재검사 가능성을 높일 수 있다. 다만 위 내용물 잔류 증가가 임상적으로 유의한 흡인 위험 증가로 직접 이어지는지는 아직 불확실하다.
 
-* OCULUS 무작위 연구(JAMA Intern Med 2026, 중간분석 60명): 시술 전 예정 용량 1회 유지군의 임상적으로 유의한 잔류 위 내용물 25.0% vs 보류군 3.1%; 위내시경 단독 하위군 46.7% vs 5.0%. 대장내시경을 함께 받아 전날 맑은 유동식을 섭취한 하위군에서는 양 군 모두 0%였으나, 식이 효과를 독립적으로 검증하도록 설계된 비교는 아님
+* OCULUS 무작위 연구(JAMA Intern Med 2026, 중간분석 60명): 정규 투여 일정 유지군의 임상적으로 유의한 잔류 위 내용물 25.0% vs 보류군 3.1%; 위내시경 단독 하위군 46.7% vs 5.0%. 대장내시경을 함께 받아 전날 맑은 유동식을 섭취한 하위군에서는 양 군 모두 0%였으나, 식이 효과를 독립적으로 검증하도록 설계된 비교는 아님. 조기 종료된 소규모 연구로, 흡인 사건 감소를 입증한 결과는 아님
+* OCULUS의 용량 1회 보류는 주 1회 제제에서 마지막 투여부터 검사까지 7\~13일, 매일 제제에서는 최소 1일의 약제 비투여 간격을 의미함. 해당 간격을 모든 환자에게 적용할 표준으로 해석하지 않음
 * 국내 후향 연구(World J Diabetes 2025): GLP-1 제제 사용군에서 위점막 가시성 불량과 검사 중단·재검사 위험 증가 보고
 
 {% hint style="warning" %}
@@ -154,7 +168,7 @@ GLP-1 수용체 작용제 및 GLP-1/GIP 이중 작용제는 상부위장관 내�
 
 국내 표준 지침은 확립되지 않았으며 국제 다학제 권고도 약제 중단과 식이 관리 범위가 일치하지 않는다. 기존 다학제 권고는 대체로 무증상 환자에서 약제를 계속하면서 위험 기반 관리 또는 24시간 고형식 제한을 제안하지만, 2026년 OCULUS 연구에서는 시술 전 예정 용량 1회 보류가 잔류 위 내용물을 감소시켰다.
 
-* 증량기, 고용량, 심한 오심·구토·복부 팽만·경구 섭취 곤란, 위마비 또는 위배출 지연 질환, opioid 사용 등 위험 인자를 확인한다.
+* 증량기, 고용량, 심한 오심·구토·복부 팽만·경구 섭취 곤란, 위마비 또는 위배출 지연 질환, opioid 사용 등 위험 인자를 확인한다. OCULUS에서는 유의한 잔류 위 내용물이 있었던 환자도 당일 상부위장관 증상이 없었으므로, **무증상만으로 위 내용물 잔류를 배제하지 않는다**.
 * 약제 유지 또는 시술 전 예정 용량 보류는 당뇨병 조절 상태, 투여 목적, 증상 및 기관의 내시경·마취 프로토콜에 따라 개별 결정한다.
 * 시술 전 24시간 고형식을 피하고 맑은 유동식만 섭취하는 방법은 잔류 위 내용물 감소를 위한 합리적 전략이다. 이후 금식 시간은 사용한 유동식의 열량과 마취·내시경 지침에 따른다.
 * 당뇨병 환자는 식이 제한 또는 약제 보류 기간에 혈당을 모니터링하고 필요시 처방 의료진과 혈당강하제 조정을 협의한다.
@@ -182,11 +196,11 @@ _<mark style="color:$info;">APD = abdominophrenic dyssynergia; ARM = anorectal m
 
 <p align="center"><em><mark style="color:$info;">Ref. AGA Clinical Practice Update on Evaluation and Management of Belching, Abdominal Bloating, and Distention. Gastroenterology. 2023; Fig. 4, 5.</mark></em></p>
 
-### <mark style="color:orange;">AGA 트림 및 복부 팽만 관리 핵심 권고</mark>
+### <mark style="color:orange;">AGA 트림 및 복부 팽만 관리 핵심 권고 (2023)</mark>
 
-1. 병력·신체진찰과 impedance-pH 검사는 supragastric(식도상부) belching과 gastric belching 감별에 도움이 된다.
+1. 병력·신체진찰과 impedance-pH 검사는 **위상부 트림(supragastric belching; 공기가 위까지 도달하지 않고 식도로 들어왔다가 배출됨)**과 위 트림(gastric belching)의 감별에 도움이 된다.
 2. Supragastric belching에는 인지행동치료, 횡격막 호흡, speech therapy 및 central neuromodulator 등 brain-gut behavioral therapy를 단독 또는 병합하여 고려한다.
-3. 원발성 복부 팽만/팽창 진단에 **Rome IV criteria**를 사용한다.
+3. 원발성 복부 팽만/팽창에는 증상 기반 Rome 진단기준을 사용한다. **AGA 2023 원문은 당시 Rome IV를 인용**하였으며, 현재 평가에서는 2026년 Rome V를 함께 반영한다.
 4. 탄수화물 효소 결핍은 식이 제한 및/또는 호흡 검사로 평가할 수 있다. SIBO 위험이 있는 일부 환자에서는 소장 흡인검사 또는 glucose/lactulose 기반 수소 호흡 검사를 고려한다.
 5. 복부 팽만 환자에서 혈청검사로 celiac disease를 평가하고, 양성이면 소장 생검으로 확진한다.
 6. Alarm feature, 최근 증상 악화 또는 비정상 신체진찰 소견이 있는 경우 복부 영상 및 상부위장관 내시경을 시행한다.
@@ -207,6 +221,70 @@ _<mark style="color:$info;">APD = abdominophrenic dyssynergia; ARM = anorectal m
 * **복통과 배변의 연관성** - IBS를 시사하지만 다른 질환을 배제하지 않음
 * **진행성 삼킴곤란** - 구조적 식도 질환 배제 필요 → 내시경
 * **산통성 복통 + 팽만 + 구토 + 가스/대변 배출 중단** - 장폐색 가능성 → 영상검사
-* **식후 조기 포만감 + 오심/구토** - 기계적 폐색을 먼저 배제한 후 위마비 의심 시 표준화된 고형식 위배출검사 고려
+* **식후 조기 포만감 + 오심/구토** - 기계적 폐색을 먼저 배제한 후 위마비 의심 시 **표준화된 4시간 고형식 위배출검사** 고려
 * **증상 기반 기준 충족 + 적절한 기본 평가에서 원인 불명** - DGBI를 적극적으로 진단하고 brain-gut 접근 고려
 * **GLP-1/GIP 작용제 시작·증량 후 위장관 증상** - 약물 관련성을 평가하되 지속적·중증 증상에서는 다른 원인을 함께 배제하고 처방 의료진과 용량 조정을 협의
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Rome Foundation. Rome V Criteria. 2026. — DGBI 분류 및 PDS·IBS 등 증상 기반 진단기준
+
+  [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+
+* Clinical Practice Guidelines for Functional Dyspepsia in Korea. J Neurogastroenterol Motil. 2020. — 국내 소화불량 평가 및 40세 이상 내시경 접근
+
+  [https://pubmed.ncbi.nlm.nih.gov/31917913/](https://pubmed.ncbi.nlm.nih.gov/31917913/)
+
+* Second Asian Consensus Report on Functional Dyspepsia (2025): Updated Recommendations. J Gastroenterol Hepatol. 2026. — 아시아 지역 기능성 소화불량 진단·치료 원칙
+
+  [https://pubmed.ncbi.nlm.nih.gov/41656163/](https://pubmed.ncbi.nlm.nih.gov/41656163/)
+
+* AGA. Evaluation and Management of Belching, Abdominal Bloating and Distention. 2023. — 트림·복부 팽만·팽창의 평가와 행동·식이·약물 접근
+
+  [https://gastro.org/clinical-guidance/evaluation-and-management-of-belching-abdominal-bloating-and-distention/](https://gastro.org/clinical-guidance/evaluation-and-management-of-belching-abdominal-bloating-and-distention/)
+
+* AGA. Clinical Practice Guideline on Management of Gastroparesis. 2025. — 위마비 의심 시 4시간 위배출검사
+
+  [https://pubmed.ncbi.nlm.nih.gov/40976635/](https://pubmed.ncbi.nlm.nih.gov/40976635/)
+
+* AGA. Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults. 2019. — 만성 수양성 설사에서 선별 검사와 감별
+
+  [https://pubmed.ncbi.nlm.nih.gov/31302098/](https://pubmed.ncbi.nlm.nih.gov/31302098/)
+
+* 국립암센터. 국가 위암 검진 권고안(2025). 2026년 개정안 발표. — 위내시경 단독 1차 검진, 2년 간격 및 고령자 개별 판단
+
+  [https://www.ncc.re.kr/webzine/202608/sub_01_view.jsp?tab=tab5](https://www.ncc.re.kr/webzine/202608/sub_01_view.jsp?tab=tab5)
+
+* Clinical Practice Guideline for Gastritis in Korea. J Korean Med Sci. 2023. — 위축성 위염·장상피화생의 평가 및 추적 근거
+
+  [https://pubmed.ncbi.nlm.nih.gov/37012690/](https://pubmed.ncbi.nlm.nih.gov/37012690/)
+
+* SPAQI. Perioperative Management of Patients Taking Glucagon-Like Peptide 1 Receptor Agonists: Multidisciplinary Consensus Statement. Br J Anaesth. 2025. — GLP-1 작용제 사용 환자의 식이·금식 및 시술 전후 관리
+
+  [https://pubmed.ncbi.nlm.nih.gov/40379536/](https://pubmed.ncbi.nlm.nih.gov/40379536/)
+
+* Effect of Glucagon-Like Peptide-1 Receptor Agonists on Gastric Mucosal Visibility During Upper Endoscopy in Asian Patients With Diabetes. World J Diabetes. 2025. — 국내 당뇨병 환자에서 위점막 가시성 및 검사 중단·재검사와의 연관성
+
+  [https://pubmed.ncbi.nlm.nih.gov/41480609/](https://pubmed.ncbi.nlm.nih.gov/41480609/)
+
+* Holding vs Continuing GLP-1/GIP Agonists Before Upper Endoscopy: The OCULUS Randomized Clinical Trial. JAMA Intern Med. 2026. — 용량 1회 보류와 잔류 위 내용물; 흡인 사건에 관한 결론의 한계
+
+  [https://pubmed.ncbi.nlm.nih.gov/41837981/](https://pubmed.ncbi.nlm.nih.gov/41837981/)
+
+* ACG. Guideline: Treatment of Helicobacter pylori Infection. 2024. — 제균 확인 시점 및 PPI/P-CAB·항생제·bismuth 중단 간격
+
+  [https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. — 국내 제품별 적응증·용법·금기 및 허가 상태
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 건강보험심사평가원. 약제급여기준 및 의약품안전사용서비스(DUR). — 약제별 급여기준과 병용·연령·용량·투여기간 주의 정보
+
+  [https://www.hira.or.kr](https://www.hira.or.kr)

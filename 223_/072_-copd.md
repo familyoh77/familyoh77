@@ -44,7 +44,7 @@
 * 피로감, 체중 감소, 식욕 부진
 * 하기도 감염 반복
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 이송**</mark>
 
@@ -59,7 +59,7 @@
 * 초기 치료(SABA/SAMA)에 반응하지 않는 급성 악화
 * 새롭게 발생한 심각한 동반 질환 (심부전, 부정맥)
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 폐 기능 검사상 중증(GOLD 3–4) 또는 급격한 FEV1 감소
 * 중등도 또는 중증 악화 발생, 특히 1년 2회 이상으로 증가
@@ -76,11 +76,11 @@
 * 초치료 후 증상이 지속되면 폐 용적, 확산능, 운동 검사, 폐 영상 검사 등 추가 고려
 
 {% hint style="info" %}
-**COPD 선별 검사** : COPD 고위험군(α-1-antitrypsin 결핍, 직업적 toxin 노출 등)을 제외한 무증상 성인에 대한 COPD 선별 검사는 시행하지 않을 것을 권고 \[USPSTF 2022]
+**COPD 선별 검사** : COPD 고위험군(α-1-antitrypsin 결핍, 직업적 toxin 노출 등)을 제외한 무증상 성인에 대한 COPD 선별 검사는 시행하지 않을 것을 권고 <mark style="color:$info;">\[USPSTF 2022]</mark>
 {% endhint %}
 
 {% hint style="info" %}
-**PRISm (Preserved Ratio Impaired Spirometry)** : FEV1/FVC ≥0.7이나 FEV1이 감소된 상태. COPD 진단 기준에는 미치지 않으나 향후 COPD 발생 위험, 심혈관 위험 및 사망률 증가와 관련이 있어 원인 평가와 추적 관찰이 필요함 \[GOLD 2026]
+**PRISm (Preserved Ratio Impaired Spirometry)** : FEV1/FVC ≥0.7이나 FEV1이 감소된 상태. COPD 진단 기준에는 미치지 않으나 향후 COPD 발생 위험, 심혈관 위험 및 사망률 증가와 관련이 있어 원인 평가와 추적 관찰이 필요함 <mark style="color:$info;">\[GOLD 2026]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">검사</mark>
@@ -94,12 +94,12 @@
 * 산소화 및 환기 : pulse oximetry(SpO2); SpO2 ≤92%이거나 호흡 부전·우심부전이 의심되면 ABG(PaO2, PaCO2, pH) 고려. 야간 저산소증이 의심되는 경우 수면 중 평가
 * 흉부 X선 : hyperinflation, vascular marking 감소/bullae (emphysema), thickened bronchial marking (chronic bronchitis); 특이적이지 않음, 다른 질환 감별에 이용
 * chest CT : 빈번한 악화 또는 폐기능 검사 중증도와 불일치하는 증상 감별, 폐 용적 감소술 대상 평가 (FEV1 15\~45%, 과팽창 증거)
-* 저선량 흉부 CT (LDCT, 폐암 선별) : 국내 국가폐암검진은 해당 연도 기준을 확인(일반적으로 만 54\~74세, 30갑년 이상 고위험군, 2년 주기). 미국 USPSTF는 50\~80세, ≥20갑년이면서 현재 흡연 또는 금연 후 15년 이내인 사람에게 매년 권고 \[USPSTF 2021]. COPD 자체만으로 선별검사 대상이 되는 것은 아님
+* 저선량 흉부 CT (LDCT, 폐암 선별) : 국내 국가폐암검진은 해당 연도 기준을 확인(일반적으로 만 54\~74세, 30갑년 이상 고위험군, 2년 주기). 미국 USPSTF는 50\~80세, ≥20갑년이면서 현재 흡연 또는 금연 후 15년 이내인 사람에게 매년 권고 <mark style="color:$info;">\[USPSTF 2021]</mark>. COPD 자체만으로 선별검사 대상이 되는 것은 아님
 
 <table><thead><tr><th width="210">CT phenotype</th><th width="230">주요 특징</th><th>임상적 시사점</th></tr></thead><tbody><tr><td>Emphysema-predominant</td><td>저밀도 영역 증가, 혈관 감소</td><td>저체중, DLCO 감소; 적합한 선택 환자에서 LVRS/BLVR 평가</td></tr><tr><td>Airway-predominant</td><td>기관지벽 비후, 점액 저류</td><td>임상적 만성 기관지염 및 악화 병력 평가; CT 소견만으로 roflumilast 적응이 되지는 않음</td></tr><tr><td>Mixed / normal CT</td><td>두 유형 혼재 또는 경미한 변화</td><td>spirometry 중증도와 증상 불일치 시 다른 원인도 평가</td></tr></tbody></table>
 
 * DLCO (폐확산능) : 증상과 spirometry 중증도가 불일치할 때 폐기종 정도를 정량화하는 유용한 도구; DLCO 감소 ↔ 폐기종 우세형 및 폐 용적 감소술 적응 평가에 활용
-* α-1 antitrypsin 결핍 선별 검사 : 모든 COPD 환자에게 일생에 최소 1회 시행 권고 \[GOLD 2026]; 특히 젊은 나이 발병, 비흡연자, 하부 폐 우세형 폐기종인 경우 중요
+* α-1 antitrypsin 결핍 선별 검사 : 모든 COPD 환자에게 일생에 최소 1회 시행 권고 <mark style="color:$info;">\[GOLD 2026]</mark>; 특히 젊은 나이 발병, 비흡연자, 하부 폐 우세형 폐기종인 경우 중요
 * 6분 보행 검사 (6MWT) : 기능 장애·예후 평가와 호흡 재활 반응 추적에 활용. 연령·성별·신장·검사 코스·산소 사용의 영향을 받으므로 단일 절대 절단값보다 기준 예측치와 환자 내 변화를 함께 해석
 * CBC : 악화 시 WBC↑(neutrophilia), 만성 저산소증 시 RBC↑
 * 가래 염색/배양 검사 : 세균 감염 감별 및 항생제 반응 불량 시 대비하여 고려
@@ -168,7 +168,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * 혈중 또는 객담 내 호산구 증가, 혈청 IgE 상승
 
 {% hint style="danger" %}
-천식 동반이 의심되면 약물 치료는 우선적으로 **천식 진료 지침을 따름**; 이 경우 ICS 병용은 필수이며 LABA 단독 치료는 피함 \[GOLD 2026]
+천식 동반이 의심되면 약물 치료는 우선적으로 **천식 진료 지침을 따름**; 이 경우 ICS 병용은 필수이며 LABA 단독 치료는 피함 <mark style="color:$info;">\[GOLD 2026]</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">COPD Management Cycle</mark>
@@ -196,7 +196,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
   → 모든 군에 rescue SABA 병용 처방
 * **추적(Follow-up)** - 지속되는 문제(호흡 곤란 or 악화)에 따라 경로 분리:
   * 호흡 곤란 지속 : LABA 또는 LAMA(단독 사용 중이었다면) → LABA+LAMA → 흡입기 성분/기종 교체, 비약물 치료 강화, ensifentrine 추가 고려(국내 미도입), 호흡 곤란의 다른 원인 조사
-  * 악화 지속 : LABA 또는 LAMA → (eos ＜300) LABA+LAMA 또는 (eos ≥300) LABA+LAMA+ICS → 여전히 악화 시 Roflumilast(FEV1＜50%+만성 기관지염+이전 중증 악화/입원력) / Azithromycin(비흡연자 우선) / 생물학적제제(중등도 ≥2회 또는 중증 ≥1회 악화 + eos ≥300 시 Dupilumab\[만성 기관지염 동반] 또는 Mepolizumab)\
+  * 악화 발생 : LABA 또는 LAMA 단독 중이면 (eos ＜300) LABA+LAMA 또는 (eos ≥300) LABA+LAMA+ICS로 증량. **LABA+LAMA 중 악화가 발생하면 eos ≥100에서 LABA+LAMA+ICS로 증량**. eos ＜100이거나 triple therapy에도 악화가 지속되면 Roflumilast(FEV1＜50%+만성 기관지염+이전 중증 악화/입원력) / Azithromycin(비흡연자 우선) / 생물학적제제(중등도 ≥2회 또는 중증 ≥1회 악화 + eos ≥300 시 Dupilumab\[만성 기관지염 동반] 또는 Mepolizumab)\
   → NIV, 장기 O2, LVRS/BLVR, 폐 이식 (말기)
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -271,7 +271,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * 흡입 SABA : fenoterol <mark style="color:blue;">\[베로텍]</mark>, salbutamol <mark style="color:blue;">\[벤토린 에보할러]</mark>
 * 흡입 LABA : \[bid] formoterol, salmeterol; \[qd] indacaterol, olodaterol, vilanterol. 국내 경구 β2-작용제 제품(예: 아토크, 베타투)을 흡입제와 혼동하지 않도록 제형을 확인
 
-<table><thead><tr><th width="86.47064208984375">분류</th><th width="280">성분명 [상품명]</th><th width="216.4705810546875">흡입제 용량</th><th width="128.58831787109375">작용 시간(hr)</th></tr></thead><tbody><tr><td>SABA</td><td>salbutamol <mark style="color:blue;">[벤토린 에보할러]</mark></td><td>100 μg/puff 1~2 puffs prn</td><td>4–6</td></tr><tr><td>LABA</td><td>salmeterol</td><td>25 μg/puff bid</td><td>12</td></tr><tr><td></td><td>indacaterol <mark style="color:blue;">[온브리즈 흡입용캡슐]</mark></td><td>150 or 300 μg/C qd</td><td>24</td></tr></tbody></table>
+<table><thead><tr><th width="86.47064208984375">분류</th><th width="280">성분명 [상품명]</th><th width="216.4705810546875">흡입제 용량</th><th width="128.58831787109375">작용 시간(hr)</th></tr></thead><tbody><tr><td>SABA</td><td>salbutamol <mark style="color:blue;">[벤토린 에보할러]</mark></td><td>100 μg/puff 1~2 puffs prn</td><td>4–6</td></tr><tr><td>LABA</td><td>salmeterol [pMDI]</td><td>25 μg/puff, 2 puffs bid<br>(1회 총 50 μg)</td><td>12</td></tr><tr><td></td><td>indacaterol <mark style="color:blue;">[온브리즈 흡입용캡슐]</mark></td><td>150 or 300 μg/C qd</td><td>24</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">항콜린제(Antimuscarinics)</mark>
 
@@ -331,7 +331,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * ICS 적응증이 있는 환자에서 현재 COPD 약물 치료의 최적 병용 요법 (보험 주의)
 * ETHOS, IMPACT 연구에서 악화 고위험 환자의 LAMA+LABA 대비 triple therapy가 사망 위험 감소 가능성을 시사했으나, 환자 선택과 ICS 관련 폐렴 위험을 함께 고려
 
-<table><thead><tr><th width="522.3529663085938">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg 1 puff qd</td></tr><tr><td>budesonide / glycopyrronium / formoterol <mark style="color:blue;">[브레즈트리 에어로스피어]</mark> ²⁾</td><td>160/7.2/5.0 μg/puff, 2 puffs bid</td></tr><tr><td>beclomethasone / glycopyrronium / formoterol <mark style="color:blue;">[트림보우]</mark></td><td>87/5/9 μg/puff, 2 puffs bid</td></tr></tbody></table>
+<table><thead><tr><th width="522.3529663085938">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg 1 puff qd</td></tr><tr><td>budesonide / glycopyrronium / formoterol <mark style="color:blue;">[브레즈트리 에어로스피어]</mark> ²⁾</td><td>160/7.2/5.0 μg/puff, 2 puffs bid</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium <mark style="color:blue;">[트림보우]</mark></td><td>전달용량 87/5/9 μg/puff, 2 puffs bid<br>(계량용량 BDP/FF/글리코피로니움브롬화물: 100/6/12.5 μg)</td></tr></tbody></table>
 
 ¹⁾트렐리지 엘립타 : 100/62.5/25 μg이 COPD 적응 용량; 200/62.5/25 μg은 천식 용량\
 ²⁾표기 함량은 1 puff 기준. 브레즈트리는 글리코피로늄 14.4 μg 함량의 천식 허가 제품이 별도로 있으므로 COPD 처방 시 7.2 μg 함량 확인. 표는 대표 예시이며 동일 성분이라도 함량·적응증이 제품별로 다를 수 있어 처방 전 최신 국내 허가사항과 급여기준 확인. 에너제어 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외
@@ -339,13 +339,14 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 #### <mark style="color:$primary;">전신 Steroid</mark>
 
 * 안정기 COPD에서 전신 스테로이드의 장기 유지치료는 권고하지 않음(근병증, 골다공증, 당뇨, 감염 등 위해)
-* 임상적으로 유의한 급성 악화에서만 단기간 사용: prednisone-equivalent 40 ㎎/d ×5일 \[GOLD 2026]. 국내에서 흔히 사용하는 prednisolone 30 ㎎/d ×5일은 NICE 기준에 부합하며 5일 요법은 일반적으로 감량 없이 중단 가능
+* 임상적으로 유의한 급성 악화에서만 단기간 사용: prednisone-equivalent 40 ㎎/d ×5일 <mark style="color:$info;">\[GOLD 2026]</mark>. 국내에서 흔히 사용하는 prednisolone 30 ㎎/d ×5일은 NICE 기준에 부합하며 5일 요법은 일반적으로 감량 없이 중단 가능
 
 ### <mark style="color:orange;">Phosphodiesterase-4 억제제 (PDE4i)</mark>
 
 * cAMP의 대사 억제 → 세포 내 cAMP 농도↑ → 항염증 효과, eosinophil 이동 및 화학 주성 억제 → FEV1 개선, 악화 감소
 * 적용 : 최적 흡입치료에도 악화가 지속되며 FEV1 ＜50%, 임상적 만성 기관지염 및 이전 중증 악화/입원력이 있는 환자에서 추가 고려
-* 부작용 : 설사, 구역, 복통, 식욕 감퇴, 두통, 체중 감소
+* 부작용 : 설사, 구역, 복통, 식욕 감퇴, 두통, 체중 감소; 불면·불안·우울 및 자살 관련 이상반응 가능
+* 투여 전 체중과 정신건강 병력을 평가하고 치료 중 추적. 저체중 환자는 특히 신중히 판단하며, 설명되지 않는 유의한 체중 감소 또는 새로운 정신과적 증상이 발생하면 중단 필요성을 포함하여 즉시 재평가
 * roflumilast : 0.5 ㎎ qd <mark style="color:blue;">\[닥사스]</mark> (☞ [보험기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20211101\&sno=4\&mtgMtrRegSno=0002))
 
 ### <mark style="color:orange;">항생제 (장기 예방 목적)</mark>
@@ -374,7 +375,8 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 
 * α-1 antitrypsin augmentation : 중증 AATD와 폐기종이 있는 선택 환자에서 전문의가 고려하며 국내 도입·허가·접근성 확인 필요
 * 진해제 : 유효성에 대한 증거 없음; 권고 안 함
-* 저용량 지속형 opioid, neuromuscular electrical stimulation, 얼굴에 향하는 선풍기 : 호흡 곤란 완화 효과
+* 신경근 전기자극(neuromuscular electrical stimulation), 얼굴에 향하는 선풍기 등은 선택 환자의 호흡곤란 완화에 고려
+* **저용량 지속형 opioid**: 안정기 COPD의 지속적 호흡곤란에 대한 효과는 일관되지 않으며, 2026년 무작위 교차시험에서도 경구 morphine·경피 fentanyl은 위약 대비 이득을 보이지 않음. 일반적인 증상 치료로 일률적으로 사용하지 않고, 난치성 호흡곤란의 완화의료 상황에서는 전문가가 이득·위해와 환자 목표를 개별 평가 <mark style="color:$info;">[Eur Respir J 2026]</mark>
 
 ### <mark style="color:orange;">초기 약물 치료 (Initial Pharmacological Treatment)</mark>
 
@@ -440,6 +442,8 @@ eos = blood eosinophil count (cells/μL)\
 
 ### <mark style="color:orange;">표현형 기반 치료 (Phenotype-driven Treatment)</mark>
 
+이 도식은 **초기 치료와 치료 중 조정 원칙을 함께 요약한 보조 도식**이다. 신규 환자는 ABE 초치료 기준, 기존 치료 중 악화가 발생한 환자는 follow-up 알고리듬을 우선 적용한다. 혈중 호산구 수만으로 ICS를 추가하지 않음
+
 ***
 
 ```mermaid
@@ -453,9 +457,9 @@ flowchart TD
 
     B --> C2["② <b>Recent exacerbation / high risk</b><br/>중등도 또는 중증 악화 ≥1회/년"]
     C2 --> E2["Blood eosinophil"]
-    E2 -->|"≥300"| F2["Triple therapy<br/>(LABA+LAMA+ICS)"]
-    E2 -->|"100–299"| G2["LABA+LAMA<br/>ICS 추가 고려"]
-    E2 -->|"&lt;100"| H2["LABA+LAMA<br/>ICS 추가 효과 제한"]
+    E2 -->|"≥300"| F2["초치료: Triple therapy 고려<br/>기존 LABA+LAMA 중 악화: ICS 추가"]
+    E2 -->|"100–299"| G2["초치료: LABA+LAMA<br/>해당 치료 중 악화 발생 시 ICS 추가"]
+    E2 -->|"&lt;100"| H2["초치료: LABA+LAMA<br/>악화 시 ICS 외 추가 전략 평가"]
 
     B --> C3["③ <b>Chronic bronchitis phenotype</b><br/>만성 가래·기침 우세"]
     C3 --> D3["금연 + LABA/LAMA<br/>Roflumilast 고려<br/>(FEV₁&lt;50% + 이전 중증 악화)<br/>Mucolytics 고려"]
@@ -527,16 +531,17 @@ Rome 중증도만으로 치료 장소를 자동 결정하지 않음. 기저 COPD
 ### <mark style="color:orange;">치료</mark>
 
 * **기관지 확장제** : SABA ± SAMA 투여를 가능한 한 빨리 시작; 안정되면 기존 또는 새로 최적화한 장시간 기관지확장제 유지치료를 가능한 한 빨리 재개
-* **전신 steroid** : 임상적으로 유의한 중등도·중증 악화에서는 prednisone-equivalent 40 ㎎/d ×5일 \[GOLD 2026]. prednisolone 30 ㎎/d ×5일도 NICE 권고 용량 <mark style="color:blue;">\[소론도]</mark>
+* **전신 steroid** : 임상적으로 유의한 중등도·중증 악화에서는 prednisone-equivalent 40 ㎎/d ×5일 <mark style="color:$info;">\[GOLD 2026]</mark>. prednisolone 30 ㎎/d ×5일도 NICE 권고 용량 <mark style="color:blue;">\[소론도]</mark>
 * **산소 공급** : 목표 SpO2 88\~92%; ABG로 hypercapnia와 acidosis 모니터링(입원 치료)
   * 과도한 산소 공급은 CO2 retention과 respiratory acidosis를 악화시킬 수 있으므로 목표 범위에 맞춰 조절
 * **NIV (비-침습 양압 환기)** : COPD 급성 악화에서 기관 삽관 및 사망률 감소 효과
-  * 적응증 : respiratory acidosis (pH ≤7.35), 고탄산혈증, 부호흡근 사용을 동반한 심한 호흡 곤란
+  * 적응증 : 호흡성 산증(pH ≤7.35 및 PaCO2 ≥45 ㎜Hg), 호흡근 피로·호흡 노력 증가를 동반한 심한 호흡곤란, 또는 조절 산소치료에도 지속되는 저산소혈증 등
   * 적용 곤란/금기 : 기도 보호 불가 또는 협조 불가, 분비물 처리 불가, 혈역학적 불안정, 치료되지 않은 기흉 등
+  * NIV 중 의식·혈역학·가스교환이 악화되거나 초기 치료에 반응하지 않으면 기관삽관·중환자실 치료 필요성을 즉시 평가하며, NIV를 계속 시도하느라 삽관을 지연하지 않음
 * **항생제** : 악화의 많은 경우가 세균 감염과 무관; 다음 기준으로 판단
 
 {% hint style="info" %}
-**항생제 투여 기준 \[GOLD 2026]**
+**항생제 투여 기준 <mark style="color:$info;">\[GOLD 2026]</mark>**
 
 다음 증상 중 화농성 가래를 포함하여 2개 이상이면 항생제 투여 고려: 호흡 곤란 증가, 발열, 가래 양 증가, 가래 화농성 증가. 다음 상황에서도 고려\
 1\. 이전 악화 시 객담 배양 양성 병력\
@@ -546,7 +551,7 @@ Rome 중증도만으로 치료 장소를 자동 결정하지 않음. 기저 COPD
 * 객담 배양은 모든 외래 환자에게 routine으로 시행하지 않으며, 빈번한 악화, 중증 기류 폐쇄, 과거 내성균·Pseudomonas 분리, 기계환기 또는 경험적 치료 실패 시 우선 시행
 {% endhint %}
 
-#### <mark style="color:$primary;">항생제 선택 \[NICE 2018]</mark>
+#### <mark style="color:$primary;">항생제 선택</mark> <mark style="color:$info;">\[NICE NG114]</mark>
 
 **1차 선택제** (경험적 선택)
 
@@ -590,13 +595,15 @@ flowchart TD
 
     Moderate --> HospTx["<b>응급실/입원 필요성 평가</b><br/>SABA ± SAMA<br/>O2 → SpO2 88~92%<br/>Prednisone-equivalent 40mg × 5일<br/>항생제 (적응 시)"]
 
-    Severe --> NIVcheck["NIV 금기?"]
-    NIVcheck -->|"No"| NIV["<b>NIV 적용</b><br/>pH ≤ 7.35<br/>고탄산혈증<br/>부호흡근 사용"]
-    NIVcheck -->|"Yes"| Intubation["기관 삽관<br/>ICU 이송"]
+    Severe --> SevereTx["응급실/중환자실 평가<br/>SABA ± SAMA, 전신 steroid<br/>조절 산소치료 및 항생제(적응 시)"]
+    SevereTx --> NIVcheck["NIV 적용 가능?"]
+    NIVcheck -->|"가능"| NIV["<b>NIV 적용 및 면밀한 재평가</b><br/>호흡성 산증·호흡 노력·산소화 평가"]
+    NIVcheck -->|"적용 불가"| Intubation["기관삽관 필요성 평가<br/>ICU 이송"]
+    NIV -->|"실패 또는 악화"| Intubation
 
     OutTx --> Followup["<b>회복 후 관리</b><br/>유지 치료 최적화<br/>흡입기·순응도 확인<br/>호흡 재활 및 악화 예방 교육"]
     HospTx --> Followup
-    NIV --> Followup
+    NIV -->|"호전 및 안정"| Followup
 
     style Start fill:#eeeeee,stroke:#888888
     style Mild fill:#f1f8e9,stroke:#aed581
@@ -624,7 +631,7 @@ class Severe,Intubation red
 ## <mark style="color:green;">예후 및 모니터링</mark>
 
 {% hint style="info" %}
-**Disease Activity (질병 활성도) - GOLD 2026 신설 개념** : COPD 관리의 핵심 목표를 "악화 없음 + 증상 악화 없음 + 폐기능의 가속화된 저하 없음"으로 정의되는 **저활성도(low disease activity)** 상태 달성으로 명시함. 여기에 증상 부담이 낮은 상태까지 더해지면 "질병 조절(disease control)", 구조적 손상이 커 증상 조절까지는 어려우나 악화·저하가 없는 상태는 "질병 안정(disease stability)"으로 구분. 조기 진단·조기 개입이 구조적 손상을 최소화하여 이후 활성도 조절을 용이하게 함 \[GOLD 2026]
+**Disease Activity (질병 활성도) - GOLD 2026 신설 개념** : COPD 관리의 핵심 목표를 "악화 없음 + 증상 악화 없음 + 폐기능의 가속화된 저하 없음"으로 정의되는 **저활성도(low disease activity)** 상태 달성으로 명시함. 여기에 증상 부담이 낮은 상태까지 더해지면 "질병 조절(disease control)", 구조적 손상이 커 증상 조절까지는 어려우나 악화·저하가 없는 상태는 "질병 안정(disease stability)"으로 구분. 조기 진단·조기 개입이 구조적 손상을 최소화하여 이후 활성도 조절을 용이하게 함 <mark style="color:$info;">\[GOLD 2026]</mark>
 {% endhint %}
 
 * 치료 시작·변경 후에는 임상 중증도에 따라 조기에 재평가하고, 안정 후에는 통상 3\~12개월 간격으로 개별화하여 모니터링; 증상, 악화, 치료 효과·부작용, 흡입기 사용, 순응도, 생활 습관 및 위험 요인 점검
@@ -722,7 +729,7 @@ J44.9 상세불명의 만성 폐색성 폐질환
   * ICS 포함 흡입제 사용 후 반드시 **구강 헹굼** (구강 칸디다, 구내염 예방)
 * **유지(controller) vs 응급(rescue) 흡입제 구분** : LAMA/LABA는 매일 규칙적으로 사용하는 유지제; SABA는 증상이 갑자기 심해질 때 사용하는 응급제 - 증상이 없어도 유지제를 중단하지 않도록 강조
 * **전신 스테로이드 단기 요법** : 5일 이내 사용하므로 감량 없이 중단 가능; 혈당 상승(당뇨 환자 주의), 수면 장애, 기분 변화 등 일시적 부작용 설명
-* **roflumilast (닥사스)** : 복용 초기 설사·구역 등 위장관 부작용이 흔하나 수 주 내 호전; 체중 감소 모니터링 필요; 복통이 심하면 의사에게 보고
+* **roflumilast (닥사스)** : 복용 초기 설사·구역 등 위장관 부작용이 흔함. 체중을 정기적으로 측정하고 유의한 체중 감소, 심한 복통, 새로 생기거나 악화된 불면·불안·우울·자살 생각이 있으면 즉시 의료진에게 알림
 * **theophylline** : 혈중 농도 범위가 좁아 유효 농도와 독성 농도의 차이가 적음; clarithromycin·erythromycin, ciprofloxacin 등 일부 항생제와 상호작용하고 금연 시 청소율이 감소할 수 있으므로 임의 용량 변경 금지
 
 ***
@@ -755,3 +762,39 @@ J44.9 상세불명의 만성 폐색성 폐질환
 **악화 행동 계획 (Exacerbation Action Plan)**
 
 <table><thead><tr><th>단계</th><th>상황</th><th>행동</th></tr></thead><tbody><tr><td>🟡 주의</td><td>평소보다 숨이 더 차거나 가래가 늘고 색이 변할 때</td><td>응급 흡입제를 처방된 행동계획에 따라 사용하고 당일 의료진에게 연락. 서면 계획 없이 스테로이드·항생제를 임의로 시작하지 않음</td></tr><tr><td>🔴 즉시 내원/119</td><td>응급 흡입제에도 숨이 매우 차거나 입술이 파래지고, 흉통·실신 또는 의식 혼미가 있을 때</td><td>즉시 응급실 방문 또는 119 호출</td></tr></tbody></table>
+
+***
+
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:$primary;">임상 근거</mark>
+
+* GOLD. Global Strategy for the Diagnosis, Management, and Prevention of COPD. 2026 Report and Pocket Guide. — ABE 평가, 초기·추적 약물치료, 생물학적 제제 및 급성 악화 관리
+
+  [https://goldcopd.org/2026-gold-report-and-pocket-guide/](https://goldcopd.org/2026-gold-report-and-pocket-guide/)
+
+* 대한결핵 및 호흡기학회. COPD 진료지침. 2024 개정. — 국내 COPD 진료 및 관리
+
+  [https://www.lungkorea.org/bbs/?code=guide](https://www.lungkorea.org/bbs/?code=guide)
+
+* NICE. Chronic obstructive pulmonary disease in over 16s: diagnosis and management. NG115. — COPD 관리와 악화 시 prednisolone 30 ㎎ 5일 요법
+
+  [https://www.nice.org.uk/guidance/ng115](https://www.nice.org.uk/guidance/ng115)
+
+* NICE. Chronic obstructive pulmonary disease (acute exacerbation): antimicrobial prescribing. NG114. — 항생제 선택·용량·기간 및 재평가
+
+  [https://www.nice.org.uk/guidance/ng114](https://www.nice.org.uk/guidance/ng114)
+
+* van Dijk M, et al. Fentanyl or morphine for persistent dyspnoea in COPD: a multicentre randomised crossover trial. Eur Respir J. 2026;68:2501431. doi:10.1183/13993003.01431-2025. — 안정기 COPD의 지속적 호흡곤란에서 opioid의 효과를 평가한 무작위시험
+
+  [https://doi.org/10.1183/13993003.01431-2025](https://doi.org/10.1183/13993003.01431-2025)
+
+### <mark style="color:$primary;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. — 국내 제품별 적응증·용법·금기 및 허가 상태
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 건강보험심사평가원. 보험인정기준 및 약제기준정보. — 약제별 급여 적용 범위와 세부 인정기준
+
+  [https://www.hira.or.kr/](https://www.hira.or.kr/)
