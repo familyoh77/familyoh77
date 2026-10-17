@@ -208,10 +208,6 @@
   * INCS에 경구 항히스타민제를 추가하는 것은 코 증상의 추가 이득이 크지 않으므로, 안구 증상 등 환자별 이득이 있을 때 고려
 * 통년성 AR : INCS 단독 또는 통년성 적응증이 허가된 INCS+INAH 고정 복합제
 * 중등증 이상에서는 INCS+INAH 고정 복합제를 초기 치료제로 고려 - 단일 요법으로 충분한 개선이 어려울 것으로 예상되거나 빠른 효과가 필요한 경우, 또는 단일제 사용에도 조절되지 않는 경우 고려
-  * 복합제
-    * <mark style="color:blue;">\[딜라스틴 나잘]</mark>(fluticasone p.+azelastine) : ≥6세 중등도\~중증의 계절성 또는 통년성 AR; 임부·수유부 금기
-    * <mark style="color:blue;">\[리알트리스 나잘스프레이]</mark>(mometasone+olopatadine) : ≥6세 계절성 AR; 통년성 AR은 국내 허가 적응증이 아님
-    * <mark style="color:blue;">\[모테손플러스나잘스프레이]</mark>(mometasone f.+azelastine) : ≥12세 통년성 AR; 계절성 AR은 국내 허가 적응증이 아님; 임부·수유부 금기
   * ARIA-EAACI 2024\~2025에서는 INCS 단독보다 고정 복합제를 조건부 권고함(계절성 AR: 중등도 근거, 통년성 AR: 매우 낮은 근거); 성인 계절성 AR에서는 olopatadine+mometasone보다 azelastine+fluticasone을 조건부 우선하나, 소아·청소년에서는 두 복합제 중 하나를 특별히 우선할 근거가 부족함
 * 꽃가루 유발 AR에서 매년 반복적으로 악화되고 예방 치료를 원하는 경우 꽃가루 비산 1\~2주 전부터 약물 치료 시작을 고려할 수 있음(조건부 권고, 매우 낮은 근거)
 * 치료 반응 평가 : 치료 시작 2\~4주 후 반응 평가
@@ -378,10 +374,14 @@ class Cause1,Cause2,Cause3,Rescue orange
 > _※ 흡수율은 제형·측정법에 따라 달라 직접적인 안전성 순위를 뜻하지 않음. budesonide는 6세 미만에서 안전성·유효성이 확립되지 않음._
 
 * 복합제 용량(각 비공 당)
-  * fluticasone p.+azelastine <mark style="color:blue;">\[딜라스틴 나잘]</mark> : 6세 이상 1 puff bid; 1 puff에 fluticasone p. 50 ㎍+azelastine hydrochloride 137 ㎍
-  * mometasone f.+olopatadine <mark style="color:blue;">\[리알트리스 나잘스프레이]</mark> : 12세 이상 2 puffs bid, 6\~11세 1 puff bid; 1 puff에 mometasone f. 25 ㎍+olopatadine 600 ㎍. 계절성 AR에 허가; 6\~11세는 2주를 초과한 사용경험이 없다는 허가문구에 유의하고 지속 사용 필요 시 재평가
-  * mometasone f.+azelastine <mark style="color:blue;">\[모테손플러스나잘스프레이]</mark> : 12세 이상 1 puff bid; 1 puff에 mometasone f. 50 ㎍+azelastine hydrochloride 140 ㎍. 통년성 AR에 허가
-  * 졸음이 나타날 수 있으므로 운전·위험한 기계조작에 주의하고, 졸음이 있으면 피함. 알코올·중추신경억제제 병용을 피함
+  * fluticasone p.+azelastine <mark style="color:blue;">\[딜라스틴 나잘]</mark> : 1 puff bid; 1 puff에 fluticasone p. 50 ㎍+azelastine hydrochloride 137 ㎍
+    * ≥6세 중등도\~중증의 계절성 또는 통년성 AR; 임부·수유부 금기
+  * mometasone f.+olopatadine <mark style="color:blue;">\[리알트리스 나잘스프레이]</mark> : 12세 이상 2 puffs bid, 6\~11세 1 puff bid; 1 puff에 mometasone f. 25 ㎍+olopatadine 600 ㎍
+    * 계절성 AR에 허가(통년성 AR은 국내 허가 적응증이 아님); 6\~11세는 2주를 초과한 사용경험이 없음(허가문구) - 지속 사용 필요 시 재평가
+  * mometasone f.+azelastine <mark style="color:blue;">\[모테손플러스나잘스프레이]</mark> : 1 puff bid; 1 puff에 mometasone f. 50 ㎍+azelastine hydrochloride 140 ㎍.&#x20;
+    * ≥12세 통년성 AR에 허가(계절성 AR은 국내 허가 적응증이 아님); 임부·수유부 금기
+  * 졸음이 나타날 수 있으므로 운전·위험한 기계 조작에 주의하고, 졸음이 있으면 피함
+  * 알코올·중추신경억제제 병용을 피함
 
 #### <mark style="color:$primary;">펌프식 스테로이드 코 분무제 사용법</mark>
 
@@ -426,10 +426,9 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 #### <mark style="color:$primary;">비내용 제제 (INAH)</mark>
 
-* 국내 적용 : azelastine 단독제인 아젭틴비액은 허가 종료(취소일 2025-03-11) 품목임. INAH 단독요법은 국내 사용 가능한 허가 품목이 있을 때에 한해 적용하며, 국내 허가된 INCS+INAH 고정 복합제와 구분
 * 경구 항히스타민제보다 코 증상 개선이 우수할 수 있으나 쓴맛·국소 자극 등으로 선호도와 순응도가 낮을 수 있음
-* INCS를 INAH 단독보다 조건부 우선함. 국제 지침에서는 빠른 효과·스테로이드 기피·INCS 관련 코피 등에서 INAH 단독을 고려할 수 있으나, 현재 국내에서 사용 가능한 단독제는 확인되지 않음
-  * 스테로이드 기피나 INCS 관련 코피 때문에 INAH 단독을 고려하는 상황에서는 INCS 함유 복합제가 대안이 되지 않으므로 경구 항히스타민제 등 다른 약제를 선택
+* INCS를 INAH 단독보다 조건부 우선함; 국제 지침에서는 빠른 효과·스테로이드 기피·INCS 관련 코피 등에서 INAH 단독을 고려할 수 있으나, 현재 국내 유통 중인 단독제는 없고 INCS 복합제가 있음
+* 스테로이드 기피나 INCS 관련 코피 때문에 INAH 단독을 고려하는 상황에서는 INCS 함유 복합제가 대안이 되지 않으므로 경구 항히스타민제 등 다른 약제를 선택
 * 대상 : 간헐적·계절적 AR, 혈관운동성 비염(NAR); 중증 AR에서 INCS와 병용
 * 효과 발현 : 분무 15\~30분 내 시작; 지속시간은 제제에 따라 다르며 azelastine은 통상 bid 사용
 * 부작용 : 쓴맛, 국소 자극, 코피, 두통, 졸음
@@ -487,7 +486,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 * 부작용 : 코·입마름, 국소 자극, 코막힘, 코피, 두통
 * 금기 : 폐쇄각녹내장·전립선비대증·감염성 비염
 * 눈에 분무되지 않도록 교육
-* ipratropium : 성인 및 12세 이상 각 비공 1 puff(42 ㎍) bid\~tid; 7\~12세 소아는 각 비공 1 puff bid <mark style="color:blue;">\[리노벤트]</mark>
+* ipratropium : 성인 및 12세 이상 각 비공 1 puff(42 ㎍) bid\~tid; 7\~12세 소아는 각 비공 1 puff bid <mark style="color:blue;">\[리노벤트비액]</mark>
 
 ### <mark style="color:orange;">Cromolyn, 비내</mark>
 
