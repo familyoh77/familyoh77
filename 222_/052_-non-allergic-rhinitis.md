@@ -1,4 +1,4 @@
-# 비-알레르기비염 Non-Allergic Rhinitis,NAR
+# 비-알레르기비염 Non-Allergic Rhinitis, NAR
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -6,7 +6,7 @@
 * 특발성 비염(비알레르기성 rhinopathy), NARES, 미각·호르몬·약물 유발·직업성·위축성·노인성 비염이 포함됨
 * 급성 또는 만성으로 나타날 수 있음
 * 증상을 설명할 수 있는 전신 알레르기 감작이 확인되지 않는 것이 특징
-* 알레르비염 배제와 함께 전신 알레르기 검사가 음성인 국소 알레르기비염(LAR) 및 감염·구조적 질환을 감별해야 하며, 검사 양성이어도 해당 항원과 증상의 임상적 연관성이 없으면 비알레르기성 원인을 포함한 감별을 시행
+* 알레르기비염 배제와 함께 전신 알레르기검사가 음성인 국소 알레르기비염(LAR) 및 감염·구조적 질환을 감별해야 하며, 검사 양성이어도 해당 항원과 증상의 임상적 연관성이 없으면 비알레르기성 원인을 포함한 감별을 시행
 * 유병률 : 비염의 약 20\~30%로 추정되나 연구 정의와 대상에 따라 차이가 큼; 알레르기 요인이 공존하는 혼합형 비염(Mixed Rhinitis)도 흔함
 * 기전은 표현형에 따라 다름
 
@@ -26,15 +26,14 @@
 
 * 코 점막 내에서 국소적으로 알레르기 반응이 일어나지만, 전신 알레르기검사(피부단자검사·혈청 특이 IgE)는 음성인 상태
 * 피부단자검사와 혈청 특이 IgE 검사가 음성이더라도 특정 항원(집먼지진드기·꽃가루 등) 노출 시 전형적인 알레르기 증상이 반복되면 LAR를 의심
-  * 혈청 특이 IgE 검사 중 다중 항원 동시검사(MAST 등)는 단일 항원 정량검사(ImmunoCAP 등)보다 민감도가 낮으므로, 이 검사만 음성이면 전신 감작이 배제되었다고 보지 않음
-  * 임상적 의심이 있으면 피부단자검사 또는 단일 항원 특이 IgE 검사로 재확인
+  * 혈청 특이 IgE 검사 중 다중 항원 동시검사(MAST 등)는 검사법·항원에 따라 단일 항원 정량검사(ImmunoCAP 등)보다 민감도가 낮을 수 있으므로, 음성이더라도 임상적으로 의심되면 피부단자검사 또는 단일 항원 특이 IgE 검사로 재확인
   * 혈청 총 IgE는 감작 여부를 판단하는 검사가 아님
 * 비강 분비물 특이 IgE는 민감도와 표준화가 제한되어 단독으로 확진·배제하는 검사가 아님
 * 확진의 표준은 비강 항원 유발 검사(NAPT, Nasal Allergen Provocation Test)
 
 <mark style="color:cyan;">**생리적 비폐색 감별**</mark>
 
-* 양쪽 콧구멍의 점막이 번갈아 가며 붓고(충혈) 수축하는 것을 반복하는 정상적인 생리 현상인 nasal cycle(비주기)에 따라 양쪽 비강의 울혈·비울혈이 교대로 나타날 수 있음
+* 비주기(nasal cycle) : 양쪽 비강 점막(주로 하비갑개)의 울혈과 비울혈이 수 시간 간격으로 교대로 나타나는 정상 생리 현상
 * 생리적으로 자세에 따라 좌우의 비폐색이 바뀔 수 있으며, 누우면 비폐색이 증가하고 옆으로 누우면 아래쪽 비강의 저항이 증가할 수 있음
 * 한쪽에 고정된 지속성 비폐색은 구조적 병변을 평가
 
@@ -42,28 +41,28 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급성 안면·안와 부종 또는 통증과 시력저하·복시·안구운동장애 `안와 합병증`
-* 심한 두통, 고열, 경부 강직 또는 의식 변화 `두개 내 합병증`
-* 최근 두부 외상·비부비동 수술 후 새로 발생한 편측성 맑은 콧물, 또는 신경학적 이상·수막염 증상을 동반한 맑은 콧물 `CSF 비루`
+* 급성 안면·안와 부종 또는 통증과 시력저하·복시·안구운동장애  `안와 합병증`
+* 심한 두통, 고열, 경부 강직 또는 의식 변화  `두개 내 합병증`
+* 최근 두부 외상·비부비동 수술 후 새로 발생한 편측성 맑은 콧물, 또는 신경학적 이상·수막염 증상을 동반한 맑은 콧물  `CSF 비루`
 * 비강 내 단추형 전지 의심, 또는 비중격 양쪽에서 자석끼리·자석과 금속이 서로 붙어 있는 경우
-* 혈관염 의심 소견과 함께 호흡곤란·저산소증을 동반한 객혈, 급성 신기능 저하·핍뇨, 급속히 진행하는 근력저하 `GPA·EGPA의 장기 위협 침범`
-* 당뇨병·면역저하 환자에서 비강 흑색 괴사·딱지, 안면 통증·부종 또는 감각저하 `급성 침습성 진균 부비동염`
+* 혈관염 의심 소견과 함께 호흡곤란·저산소증을 동반한 객혈, 급성 신기능 저하·핍뇨, 급속히 진행하는 근력저하  `GPA·EGPA의 장기 위협 침범`
+* 급속히 진행하는 비강 조직 괴사·파괴, 또는 당뇨병·면역저하 환자에서 새로 발생하거나 빠르게 악화하는 안면 통증·부종·감각저하, 비강 점막 창백·감각저하 등 침습성 감염 의심 소견(흑색 괴사가 없어도 배제되지 않음)  `급성 침습성 진균 비부비동염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 고개를 숙일 때 증가하는 지속성 편측 맑은 콧물 `자발성 CSF 비루`
-* 지속되는 편측 코막힘·혈성 분비물 또는 반복 비출혈 `비강 이물` `비부비동 종양`
-* 편측 증상과 함께 뺨 감각저하·안면 종창·치아 동요·눈물흘림 `비부비동 악성 종양`
-* 비강 딱지·혈성 분비물과 안장코 변형·비중격 천공, 또는 객혈·혈뇨 등 전신 증상 `GPA`
-* 천식·말초 호산구 증가와 함께 말초신경병증·자반 등 전신 증상 `EGPA`
-* 급속히 진행하는 비강 조직 손상, 심한 통증 또는 출혈을 동반한 딱지·악취 `비부비동 종양` `혈관염` `만성 감염`
-* 소아의 편측 악취성 농성 분비물 `비강 이물`
+* 고개를 숙일 때 증가하는 지속성 편측 맑은 콧물  `자발성 CSF 비루`
+* 지속되는 편측 코막힘·혈성 분비물 또는 반복 비출혈  `비강 이물` `비부비동 종양`
+* 편측 증상과 함께 뺨 감각저하·안면 종창·치아 동요·눈물흘림  `비부비동 악성 종양`
+* 비강 딱지·혈성 분비물과 안장코 변형·비중격 천공, 또는 객혈·혈뇨 등 전신 증상  `GPA`
+* 천식·말초 호산구 증가와 함께 말초신경병증·자반 등 전신 증상  `EGPA`
+* 심한 통증 또는 출혈을 동반한 딱지·악취, 비강 궤양(급속한 조직 파괴 소견 없음)  `비부비동 종양` `NK/T세포 림프종` `혈관염` `만성 감염`
+* 소아의 편측 악취성 농성 분비물  `비강 이물`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 치료를 4주 이상 시행해도 호전되지 않는 코막힘 `구조적 비폐색` `혼합형 비염`
-* 천식·비용종 또는 aspirin/NSAID 과민 동반 `AERD` `NARES`
-* 안정적으로 지속되는 비강 딱지·악취·후각 저하 `위축성 비염`
+* 적절한 치료를 4주 이상 시행해도 호전되지 않는 코막힘  `구조적 비폐색` `혼합형 비염`
+* 천식·비용종 또는 aspirin/NSAID 과민 동반  `AERD` `NARES`
+* 안정적으로 지속되는 비강 딱지·악취·후각 저하  `위축성 비염`
 
 ## <mark style="color:green;">종류 및 특성</mark>
 
@@ -71,13 +70,13 @@
 
 * 원인 : 바이러스(대부분), 세균
 * 급성 인후통·코막힘·콧물·재채기·기침이 다양한 순서로 나타나며, 발열·근육통 등 전신 증상 동반 가능
-* NAR에 포함시키기도 하지만, EAACI·ARIA는 감염성 비염을 NAR과별도 범주로 분류
+* NAR에 포함시키기도 하지만, EAACI·ARIA는 감염성 비염을 NAR과 별도 범주로 분류
 * 치료 ☞ [부비동염](053_-rhinosinusitis-sinusitis.md), [감기](../223_/060_-common-cold.md)
 
 ### <mark style="color:orange;">특발성 비염 / 비알레르기성 rhinopathy (Idiopathic Rhinitis / Nonallergic Rhinopathy)</mark>
 
 {% hint style="info" %}
-용어 정리 : 과거에는 혈관운동성 비염(Vasomotor Rhinitis)으로 불렸으나, 혈관 기전만으로 설명되지 않아 현재는 특발성 비염 또는 비알레르기성 rhinopathy라는 용어를 선호함. 질병코드는 여전히'J30.0 혈관운동성 비염'을 사용. 비감염성 NAR(NINAR)은 특발성 비염뿐 아니라 NARES 등 여러 표현형을 포괄하는 상위 개념임
+용어 정리 : 과거에는 혈관운동성 비염(Vasomotor Rhinitis)으로 불렸으나, 혈관 기전만으로 설명되지 않아 현재는 특발성 비염 또는 비알레르기성 rhinopathy라는 용어를 선호함. 질병코드는 여전히 'J30.0 혈관운동성 비염'을 사용. 비감염성 NAR(NINAR)은 특발성 비염뿐 아니라 NARES 등 여러 표현형을 포괄하는 상위 개념임
 {% endhint %}
 
 * 증상 : 코막힘, 콧물; 간혹 재채기; 알레르기성 눈·코 가려움은 드묾
@@ -129,7 +128,7 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
   * 식사 또는 신체 활동 시 악화
 * 기전 : 노화에 따른 자율신경 불균형(부교감신경 우위)으로 점액 분비가 늘어나는 것으로 추정
   * 콜라겐·탄성 섬유 감소로 비첨(nasal tip)이 처지고 비전정 협착
-* 위축성 비염과의 차이 : 위축성 비염은 점막 위축·딱지·악취가 특징인 반면, 노인성 비염은 점막 위축 없이 과도한 수양성 분비물이 특징
+* 위축성 비염과의 차이 : 위축성 비염은 뚜렷한 점막 위축·딱지·악취가 특징인 반면, 노인성 비염은 수양성 비루가 주증상이며 노화에 따른 건조·점막 변화가 동반될 수 있음
 * 고령자에서는 복용 중인 약물(전립선비대증 α-차단제 등)에 의한 약물 유발성 비염을 함께 확인
 * 치료
   * 비강 식염수 세척, 유발 상황 조절을 우선
@@ -143,7 +142,7 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
 ### <mark style="color:orange;">직업성 비염 (Occupational Rhinitis)</mark>
 
 * 증상 : 코막힘, 콧물; 알레르기 및 비-알레르기 특성이 혼재
-* 작업 환경의 노출로 새로 발생한 직업성 비염과, 기존 알레르기비염·비-알레르기비염이 작업환경에서 악화되는 작업 악화성 비염(work-exacerbated rhinitis)을 구분
+* 작업환경의 노출로 새로 발생한 직업성 비염과, 기존 알레르기비염·비-알레르기비염이 작업환경에서 악화되는 작업 악화성 비염(work-exacerbated rhinitis)을 구분
 * 근무 중 악화되고 휴일·휴가에 호전되는지 확인; 노출 후 지연 반응이 있어 퇴근 직후 반드시 호전되는 것은 아님
 * 기침·천명·호흡곤란 등 하기도 증상이 있으면 폐활량검사 등 직업성 천식 평가 및 의뢰 고려
 * 원인 물질 예시 : 식품 가공업(음식물 단백질), 제화업(접착제), 화학 공장(암모니아), 마트(세정제·향수·찬 공기)
@@ -161,10 +160,10 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
 
 * 임신 중 어느 시기에나 새로 발생할 수 있으며, 다른 감염·알레르기 원인 없이 6주 이상 지속되고 출산 후 2주 이내 소실되는 코막힘 중심의 비염; 임신 여성의 약 20%에서 발생
 * 비약물 요법(취침 시 머리 높임·식염수 비강 세척·비강 확장 스트립)을 우선 시도
-* 순수 임신성 비염 자체에 대한  INCS의 효과는 확립되지 않음
+* 순수 임신성 비염 자체에 대한 INCS의 효과는 확립되지 않음
   * Fluticasone propionate를 8주 사용한 무작위시험에서 위약보다 유의한 개선이 확인되지 않아, 비약물요법 불응 시 일률적으로 추가하지 않음 <mark style="color:$info;">\[Clin Otolaryngol 2001]</mark>
 * 알레르기비염 등 INCS에 반응하는 비염이 동반된 임신부에서는 별도 적응을 평가
-* 새로 INCS 치료를시작할 때는 임신 안전성 자료가 많은 budesonide를 우선 고려하며, mometasone나fluticasone도 선택 가능
+* 새로 INCS 치료를 시작할 때는 임신 안전성 자료가 많은 budesonide를 우선 고려하며, mometasone이나 fluticasone도 선택 가능
   * 단일성분 제제의 안전성 자료를 복합제에 그대로 적용하지 않으며 제품별로 임부·수유부 금기 확인
 * 경구·비내 울혈 제거제는 가급적 피하며, 특히 경구 pseudoephedrine은 임신 1분기에 사용하지 않음. 다른 방법으로 조절되지 않는 극심한 코막힘에서만 산과적 검토 후 비내 oxymetazoline을 최소 용량·최단기간 사용 고려
 
@@ -177,7 +176,7 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
 ### <mark style="color:orange;">약물 반동성 비염 (Rhinitis Medicamentosa)</mark>
 
 * 증상 : 심한 코막힘(비내 울혈 제거제 사용 중단 시 악화되는 반동 현상)
-* 원인 : 비내 울혈 제거제(oxymetazoline, xylometazoline 등)의 빈번하거나 장기간 연속 사용. 발생 시점은 개인과 제제에 따라 수일\~수 주로 다양하므로, 반동성 비충혈 예방을 위해 연속 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않음(제품별 허가 기간은 상이)
+* 원인 : 비내 울혈 제거제(oxymetazoline, xylometazoline 등)의 빈번하거나 장기간 연속 사용. 발생 시점은 개인과 제제에 따라 수일\~수 주로 다양하므로, 반동성 코막힘 예방을 위해 연속 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않음(제품별 허가 기간은 상이)
 * 기전 : 수용체 반응 저하, 점막 허혈·부종 등 복합 기전이 제시되나 완전히 규명되지 않음
 * 치료 : 원인 분무제 중단과 비내 스테로이드 사용
   * 즉시 중단이 원칙이나 견디기 어려우면 사용 빈도 감량 또는 한쪽 비강씩 중단하는 방법을 개별적으로 고려할 수 있으며, 이러한 감량법과 경구 스테로이드의 근거는 제한적
@@ -213,14 +212,14 @@ TRPV1(열·화학적 통증 자극 감지)과 TRPA1(다양한 화학적 자극 �
 * 고령 + 활동/식사 시 악화 → 노인성 비염
 * 찬 공기 / 냄새 / 온도 변화 → 특발성 비염(과거 혈관운동성 비염)
 * 앞으로 숙이면 한쪽에서 흐름 → CSF rhinorrhea
-* 임신 중 새로 발생하여 6주 이상 지속 → 임신성 비염
 
 <mark style="color:cyan;">**코막힘 (Congestion dominant)**</mark>
 
 * 비내 울혈 제거제의 빈번하거나 장기간 연속 사용 + 중단 시 악화 → Rhinitis medicamentosa
 * 편측 지속 → 구조적 병변
 * 오래 지속 + 치료 반응 없음 → septal deviation / polyp / tumor
-* 임신, 월경, 갑상선기능저하증 → 호르몬성 비염
+* 월경, 갑상선기능저하증 → 호르몬성 비염
+* 임신 중 새로 발생한 코막힘이 6주 이상 지속 → 감염·알레르기 등 다른 원인을 배제하고 임신성 비염 고려
 * 혈압약(α·β-차단제 등), 전립선비대증 치료제(α-차단제), PDE5 억제제, NSAID → 약물 유발성 비염
 
 <mark style="color:cyan;">**재채기 + eosinophilic pattern**</mark>
@@ -254,6 +253,7 @@ graph TD
     Other -->|아니오| Allergy["피부단자검사 <br/>또는 혈청 특이 IgE"]
     Allergy -->|양성| Relevant["해당 항원 노출과 <br/>증상의 임상적 연관?"]
     Relevant -->|있음| AR["알레르기비염 또는 <br/>혼합형 비염"]
+    AR -->|순수 AR| ARTx["알레르기비염 치료"]
     AR -->|혼합형이면 <br/>비알레르기 성분| Pheno
     Relevant -->|없음·불명확| Recheck["검사 항원·노출 병력 재평가; <br/>비알레르기성 원인 감별 지속"]
     Recheck --> Pheno["표현형 분류: <br/>약물·반동성·호르몬·직업<br/>·미각·노인성·위축성<br/>·NARES·특발성"]
@@ -292,19 +292,20 @@ graph TD
 * 적절한 유지 치료에도 호전이 없으면 진단·분무법·순응도를 재평가하고 구조적 병변 확인
 
 {% hint style="info" %}
-**비내 항히스타민/스테로이드 복합제** : 중등도\~중증 비-알레르기비염에서 INCS 또는 INAH 단독요법에 반응이 불충분하면 병용을 고려할 수 있으나 권고는 조건부이고 근거 수준이 낮음 <mark style="color:$info;">\[JACI 2020]</mark>. 국내 <mark style="color:blue;">\[딜라스틴나잘]</mark>의 허가 적응증은 중등도\~중증의 연중 또는 계절성 알레르기비염으로, 순수 비-알레르기비염 사용은 허가 외 사용. 혼합형 비염은 검사상 감작만이 아니라 해당 알레르겐 노출과 증상의 임상적 연관성을 확인하여 진단.
+**비내 항히스타민/스테로이드 복합제** : 중등도\~중증 비-알레르기비염에서 INCS 또는 INAH 단독요법에 반응이 불충분하면 병용을 고려할 수 있으나 권고는 조건부이고 근거 수준이 낮음 <mark style="color:$info;">\[JACI 2020]</mark>. 국내 <mark style="color:blue;">\[딜라스틴나잘스프레이]</mark>의 허가 적응증은 중등도\~중증의 연중 또는 계절성 알레르기비염으로, 순수 비-알레르기비염 사용은 허가 외 사용. 혼합형 비염은 검사상 감작만이 아니라 해당 알레르겐 노출과 증상의 임상적 연관성을 확인하여 진단
 
 **경구 항히스타민제** : 2세대 제제는 순수 비-알레르기비염에서 효과가 제한적. 1세대 제제는 항콜린 효과로 난치성 후비루에 도움이 될 가능성이 있으나 유효성 근거가 부족하고 진정·인지기능 저하·낙상·배뇨장애 위험이 있어 routine으로 권고하지 않음 (☞ [항히스타민제](../231_/212_-antihistamines.md))
 {% endhint %}
 
 ### <mark style="color:orange;">유형별 치료제 선택 요약</mark>
 
-<table data-search="false"><thead><tr><th width="140">유형</th><th width="190">우선 치료</th><th>반응 불충분 시</th><th>비고</th></tr></thead><tbody><tr><td>특발성</td><td>INCS 또는 INAH</td><td>INCS+INAH</td><td>콧물 위주면 ipratropium 병용; 식염수 세척 병용 가능</td></tr><tr><td>NARES</td><td>INCS</td><td>INAH 병용, 재평가·의뢰</td><td>LTRA는 권고하지 않음</td></tr><tr><td>미각성</td><td>비내 ipratropium</td><td>유발 음식 조절</td><td>수양성 비루에만 효과</td></tr><tr><td>노인성</td><td>비내 ipratropium</td><td>식염수 비강 세척</td><td>국내 제품의 금기 확인; 유발 약물 확인</td></tr><tr><td>위축성</td><td>식염수 세척·가습</td><td>보습, 딱지 제거</td><td>감염 시 배양·항생제 및 이비인후과 의뢰</td></tr><tr><td>직업성</td><td>노출 제거·감소</td><td>INCS 또는 INAH</td><td>직업환경 평가</td></tr><tr><td>임신성</td><td>취침 시 머리 높임·식염수 세척·비강 확장 스트립</td><td>진단 재평가·산과/이비인후과 협의</td><td>순수 임신성 비염에서 INCS 효과는 확립되지 않음; 동반 비염의 적응은 별도 평가</td></tr><tr><td>약물 유발성</td><td>처방의와 상의하여 원인 약물 조정</td><td>원인별 대증 치료</td><td>임의 중단 금지</td></tr><tr><td>약물 반동성</td><td>비내 울혈 제거제 중단+INCS</td><td>감량 중단법 개별 고려</td><td>경구 스테로이드 근거 제한적</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="140">유형</th><th width="190">우선 치료</th><th>반응 불충분 시</th><th>비고</th></tr></thead><tbody><tr><td>특발성</td><td>INCS 또는 INAH</td><td>INCS+INAH</td><td>콧물 위주면 ipratropium 병용; 식염수 세척 병용 가능</td></tr><tr><td>NARES</td><td>INCS</td><td>INAH 병용, 재평가·의뢰</td><td>LTRA는 권고하지 않음</td></tr><tr><td>미각성</td><td>비내 ipratropium</td><td>유발 음식 조절</td><td>수양성 비루에만 효과</td></tr><tr><td>노인성</td><td>식염수 세척·유발 상황 조절; 수양성 비루가 불편하면 비내 ipratropium</td><td>유발 약물·동반 비염·구조적 원인 재평가</td><td>국내 제품의 금기 확인</td></tr><tr><td>위축성</td><td>식염수 세척·가습</td><td>보습, 딱지 제거</td><td>감염 시 배양·항생제 및 이비인후과 의뢰</td></tr><tr><td>직업성</td><td>노출 제거·감소</td><td>INCS 또는 INAH</td><td>직업환경 평가</td></tr><tr><td>임신성</td><td>취침 시 머리 높임·식염수 세척·비강 확장 스트립</td><td>진단 재평가·산과/이비인후과 협의</td><td>순수 임신성 비염에서 INCS 효과는 확립되지 않음; 동반 비염의 적응은 별도 평가</td></tr><tr><td>약물 유발성</td><td>처방의와 상의하여 원인 약물 조정</td><td>원인별 대증 치료</td><td>임의 중단 금지</td></tr><tr><td>약물 반동성</td><td>비내 울혈 제거제 중단+INCS</td><td>감량 중단법 개별 고려</td><td>경구 스테로이드 근거 제한적</td></tr></tbody></table>
 
 ### <mark style="color:orange;">약물치료 불응성 만성 비염</mark>
 
 * 비내 capsaicin : 특발성 비염에서 증상과 비강 과민반응을 줄일 가능성이 있으나 연구 수가 적고 투여 농도·방법이 표준화되지 않았으며 국내 표준 허가 제제가 없음. 전문기관에서 선택적으로 고려
 * 후비신경(PNN, Posterior Nasal Nerve) 시술 : 충분한 약물치료에도 중등도\~중증 만성 비염이 지속되면 냉동치료·고주파 시술 평가를 위해 이비인후과 의뢰 고려
+  * 비갑개 비후에 따른 코막힘 우세형과 비루 우세형을 구분하여 비갑개 축소술 또는 후비신경 시술 등 시술 방법을 선택 <mark style="color:$info;">\[Allergy 2026]</mark>
 
 ***
 
@@ -324,7 +325,7 @@ graph TD
 > → 증상 조절 후 각 비강 1 puff qd로 감량
 > ```
 >
-> _✽ <mark style="color:blue;">\[아바미스]</mark>의 국내 허가 적응증은 알레르기비염으로, 순수 비-알레르기비염 사용은 허가 외 사용. 효과는 수일 내 시작될 수 있으나 충분한 반응은 규칙적으로 2\~4주 사용한 뒤 평가. 분무구를 눈 바깥쪽(비강 외측벽)으로 향하게 하여 비중격 직접 접촉 회피_
+> _✽ 성인·12세 이상 용량. <mark style="color:blue;">\[아바미스]</mark>의 국내 허가 적응증은 알레르기비염으로, 순수 비-알레르기비염 사용은 허가 외 사용. 효과는 수일 내 시작될 수 있으나 충분한 반응은 규칙적으로 2\~4주 사용한 뒤 평가. 분무구를 눈 바깥쪽(비강 외측벽)으로 향하게 하여 비중격 직접 접촉 회피_
 
 > **처방례 2. 혼합형 비염 - 눈 증상이 동반된 경우**
 >
@@ -355,11 +356,11 @@ graph TD
 > **처방례 5. 단독요법 불충분한 중등도\~중증 비염 - 비내 항히스타민/스테로이드 복합제**
 >
 > ```
-> [딜라스틴] (azelastine hydrochloride 137 ㎍ / fluticasone propionate 50 ㎍/puff)
+> [딜라스틴나잘스프레이] (azelastine hydrochloride 137 ㎍ / fluticasone propionate 50 ㎍/puff)
 >    각 비강 1 puff   bid   (아침·저녁)
 > ```
 >
-> _✽ 국내 허가 연령은 6세 이상. 국내 허가사항상 임부·수유부 금기이며, 졸음·불쾌한 맛이 나타날 수 있어 운전·음주에 주의. 비-알레르기비염에서는 INCS 또는 INAH 단독요법에 반응하지 않는 중등도\~중증 환자에게 조건부로 고려하며 근거 수준은 낮음. Azelastine 성분은 빠른 효과가 기대되지만 속효성 자료는 주로 알레르기비염 연구에서 얻어짐. <mark style="color:blue;">\[딜라스틴]</mark>의 국내 허가 적응증은 중등도\~중증의 연중 또는 계절성 알레르기비염으로, 순수 비-알레르기비염 사용은 허가 외 사용. 혼합형 비염은 알레르기검사 양성만으로 진단하지 않고 해당 알레르겐 노출과 증상의 임상적 연관성을 확인하며, 실제 진단과 허가·급여기준에 따라 청구_
+> _✽ 국내 허가 연령은 6세 이상. 국내 허가사항상 임부·수유부 금기이며, 졸음·불쾌한 맛이 나타날 수 있어 운전·음주에 주의. 비-알레르기비염에서는 INCS 또는 INAH 단독요법에 반응하지 않는 중등도\~중증 환자에게 조건부로 고려하며 근거 수준은 낮음. Azelastine 성분은 빠른 효과가 기대되지만 속효성 자료는 주로 알레르기비염 연구에서 얻어짐. <mark style="color:blue;">\[딜라스틴나잘스프레이]</mark>의 국내 허가 적응증은 중등도\~중증의 연중 또는 계절성 알레르기비염으로, 순수 비-알레르기비염 사용은 허가 외 사용. 혼합형 비염은 알레르기검사 양성만으로 진단하지 않고 해당 알레르겐 노출과 증상의 임상적 연관성을 확인하며, 실제 진단과 허가·급여기준에 따라 청구_
 
 ***
 
@@ -458,8 +459,8 @@ graph TD
 * Hellings PW, et al. Non-allergic rhinitis: Position paper of the European Academy of Allergy and Clinical Immunology. Allergy 2017;72(11):1657-1665.
 * Wise SK, et al. International consensus statement on allergy and rhinology: Allergic rhinitis - 2023. Int Forum Allergy Rhinol 2023;13(4):293-859.
 * Ellegård EK, Hellgren M, Karlsson NG. Fluticasone propionate aqueous nasal spray in pregnancy rhinitis. Clin Otolaryngol Allied Sci 2001;26(5):394-400. - 순수 임신성 비염에서 비내 스테로이드 효과를 평가한 무작위 위약 대조시험. [https://doi.org/10.1046/j.1365-2273.2001.00491.x](https://doi.org/10.1046/j.1365-2273.2001.00491.x)
-* American Academy of Otolaryngology-Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Updated May 2026. - 약물치료 불응성 만성 비염의 후비신경 시술 및 환자 선택 기준. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
-* Stolovitzky JP, et al. 3-Year Outcomes of Temperature-Controlled Radiofrequency Ablation of the Posterior Nasal Nerve in Patients With Chronic Rhinitis. Int Forum Allergy Rhinol 2025. doi:10.1002/alr.23577. - 고주파 시술 후 3년 추적 결과; 장기 단계의 대조군 부재·추적 탈락을 고려하여 해석. [https://doi.org/10.1002/alr.23577](https://doi.org/10.1002/alr.23577)
+* Lundberg M, et al. Surgical Management of Non-Allergic Rhinitis - An EAACI Task Force Position Paper. Allergy 2026. doi:10.1111/all.70424. - 비-알레르기비염의 표현형별 수술·시술 선택. [https://doi.org/10.1111/all.70424](https://doi.org/10.1111/all.70424)
+* American Academy of Otolaryngology-Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Updated May 2026. - 약물치료 불응성 만성 비염의 후비신경 시술. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
 * American College of Radiology. ACR Appropriateness Criteria®: Sinonasal Disease. - 단순 비염과 구분되는 비부비동 질환·합병증·CSF 누출 의심 시 영상검사 선택. [https://acsearch.acr.org/docs/69502/Narrative/](https://acsearch.acr.org/docs/69502/Narrative/)
 * Children’s Health Queensland. Foreign body in the nose - Emergency management in children. 2025. - 비강 이물, 특히 단추형 전지의 즉시 제거 및 자석 관련 처치. [https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose)
 
