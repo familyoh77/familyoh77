@@ -13,7 +13,7 @@
 * 대부분 호기성·혐기성 균주의 복합 감염
 * 호기성 균주 : Group A β-hemolytic Streptococcus (GABHS), _S. aureus_, _H. influenzae_
 * 혐기성 균주 : _Fusobacterium necrophorum_, _Peptostreptococcus_ spp., _Prevotella_ spp.
-* 임상 포인트 : 특히 15\~30세 젊은 성인에서는 \_Fusobacterium necrophorum\_이 중요한 병원균임. PTA는 다균성 감염이 흔하여 국내 외래에서는 β-lactam/β-lactamase inhibitor가 널리 사용되지만, 충분히 배농된 면역 정상 환자에서 β-lactam 단독요법이 반드시 열등하다는 근거는 없음
+* 임상 포인트 : 특히 15\~30세 젊은 성인에서는 _Fusobacterium necrophorum_이 중요한 병원균임. PTA는 다균성 감염이 흔하여 국내 외래에서는 β-lactam/β-lactamase inhibitor가 널리 사용되지만, 충분히 배농된 면역 정상 환자에서는 penicillin 단독요법도 선택될 수 있음; 2026년 관찰연구에서 β-lactam 단독군(대부분 penicillin)의 재발 증가가 확인되지 않았으나 모든 β-lactam의 동등성을 입증한 것은 아님 _<mark style="color:$info;">[Loggarfve et al. 2026]</mark>_
   * _F. necrophorum_ 감염은 Lemierre syndrome(경정맥 패혈성 혈전정맥염 + 혐기성 패혈 전이)의 주요 원인균임을 항상 기억할 것
 * MRSA는 routine coverage 불필요 - 치료 실패 또는 위험 인자(피부 반복 감염, 교정시설 등) 있을 때만 고려
 
@@ -27,7 +27,7 @@
 * 구강 악취
 * 이학적 소견 : 환측 편도·편도 전주(anterior pillar) 및 연구개의 홍반성 부종, 반대측으로의 구개수(uvula) 변위, 경부 림프절병증
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark> <mark style="color:$danger;">- 기도 위협 또는 심부 감염 확산</mark>
 
@@ -44,8 +44,9 @@
 * 인후통 이후 수일 내 고열 지속 + 경정맥 주행부(흉쇄유돌근 전연) 압통 + 폐 전이 병변(흉통·기침·혈담) 동반 → Lemierre syndrome (15\~30세에서 특히 경계)
 * 저혈압, 빈맥, 의식 변화 → 패혈증 또는 쇼크
 
-<mark style="color:$warning;">**당일 긴급 평가 또는 의뢰 (이비인후과)**</mark>
+<mark style="color:$warning;">**당일～수일 내 평가**</mark>
 
+* 아래 급성 PTA 상황은 수일을 기다리지 말고 당일 이비인후과 평가·의뢰
 * 소아 또는 면역 저하 환자(면역억제제 복용, 조절되지 않는 당뇨병, HIV 등)
 * 개구 장애가 심하여 구강 내 시술이 불가능한 경우
 * 심한 탈수로 경구 수분 섭취 불가; 경구 항생제 복용 곤란
@@ -53,10 +54,12 @@
 * 초음파 또는 CT에서 심부 경부 감염 확산이 의심되는 경우 → 기도·전신 상태에 따라 즉시 응급 이송
 * 치료 후 다시 발생한 급성 PTA 의심(특히 동측 2회 이상)
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+* 배농 후 24\~48시간에도 개구 장애·발열·인후통이 호전되지 않거나, 그 전에 악화하는 경우 → 당일 재평가
+* 항생제 투여 중 봉와직염이 농양으로 진행하거나 증상이 악화하는 경우 → 당일 재평가; 기도 위험·패혈증·빠른 경부 부종 동반 시 즉시 응급 이송
 
-* 배농 후 24\~48시간 이내에 개구 장애·발열·인후통이 호전되지 않거나 악화하는 경우
-* 항생제 투여 24\~48시간 후에도 봉와직염이 농양으로 진행하거나 증상이 악화하는 경우
+<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 안정적으로 회복 중인 환자의 예정된 추적</mark>
+
+* 배농 또는 초기 약물 치료 후 24\~48시간 내 예정된 외래 재평가
 * 급성기 치료 종료 후 반복성 편도염·PTA 병력에 대한 interval tonsillectomy 상담 계획
 
 ## <mark style="color:green;">진단</mark>
@@ -109,33 +112,36 @@
 ***
 
 ```mermaid
-graph TD
-    A([편도 주위 농양 의심<br/>편측 인후통·연구개 팽윤<br/>개구 장애·hot potato voice]) --> B[고위험 기도?<br/>또는 심부 확산·패혈증 징후?]
-    B -- 있음 --> C[즉시 응급 이송<br/>기도 확보 준비]
-    B -- 없음 --> D[임상적으로 전형적이고<br/>숙련된 배농 가능?]
-    D -- Yes --> G[Needle aspiration 또는 I&D<br/>필요 시 배양 검사]
-    D -- No·불확실 --> E[Intraoral US 우선 고려<br/>불가능·심부 확산 의심 시 CT]
-    E -- 농양 확인 --> G
-    E -- 명확한 농양 없음 --> F[봉와직염 또는 선택된 비복잡성 병변<br/>항생제 + 진통제<br/>24~48시간 재평가]
-    G --> H[배농 성공?]
-    H -- 성공 --> O[출혈·기도 안정 확인<br/>경구 수분 섭취 확인 후 귀가 결정]
-    H -- 실패·위치 불확실 --> J[반복 맹검 천자보다<br/>초음파·CT 또는 ENT 의뢰]
-    O --> I[항생제 7~10일<br/>진통제<br/>스테로이드 선택적 1회]
-    I --> K[24~48시간 후<br/>임상 호전?]
-    K -- 호전 --> L[외래 완료<br/>재발 시 편도 절제술 상담]
-    K -- 미호전 --> J
-    F --> M[24~48시간 후 호전?]
-    M -- 호전 --> N[항생제 완료<br/>외래 추적]
-    M -- 미호전·악화 --> J
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#f39c12
-class B,D,H,M,K yellow
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class N,L blue
-classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class G,E,O lightGreen
-    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    style J fill:#fff3e0,stroke:#e65100,stroke-width:2px
+flowchart TD
+    A["편도 주위 농양 의심"] --> B{"기도 위험·심부 확산·패혈증 징후?"}
+    B -- 있음 --> C["즉시 응급 이송·기도 확보 준비"]
+    B -- 없음 --> D{"전형적 소견·숙련된 시술 가능?"}
+    D -- 예 --> G["진단적 흡인 또는 절개 배농"]
+    D -- 아니오 --> E["초음파·필요 시 조영 CT 또는 ENT 의뢰"]
+    E --> Q{"농양 확인?"}
+    Q -- 아니오 --> F["봉와직염 치료·항생제와 진통제"]
+    Q -- 예 --> R{"전문의가 약물 단독 치료 대상으로 판단?"}
+    R -- 아니오 --> G
+    R -- 예 --> S["약물 치료·즉시 배농 가능한 체계 확보"]
+    G --> H{"충분한 배농?"}
+    H -- 아니오 --> J["당일 ENT 재평가·영상 또는 추가 배농"]
+    H -- 예 --> O["출혈·기도 안정과 경구 섭취 확인"]
+    O --> I["항생제 통상 총 10일·증상 치료"]
+    I --> K["24~48시간 내 재평가"]
+    F --> K
+    S --> K
+    K --> M{"임상 호전?"}
+    M -- 예 --> N["처방 기간 완료·재발 시 절제술 상담"]
+    M -- 아니오 --> J
+    I -- 그 전에 악화 --> J
+    F -- 그 전에 악화 --> J
+    S -- 그 전에 악화 --> J
+    J -- 응급 징후 동반 --> C
+    classDef warning fill:#fff9c4,stroke:#f39c12
+    class B,D,Q,R,H,M warning
+    style C fill:#ffcdd2,stroke:#c62828
+    style J fill:#fff3e0,stroke:#e65100
+    style N fill:#d0e8ff,stroke:#1a6abf
 ```
 
 <p align="center"><strong>편도 주위 농양 진단 및 치료 알고리듬</strong></p>
@@ -176,8 +182,8 @@ class G,E,O lightGreen
 * 조명 및 시야 충분히 확보 (환자·시술자 마주 앉기)
 * 국소 마취 후 최대 유동(fluctuance) 부위 확인
 * 가장 흔한 위치(Superior pole-편도 상극, 전주 상외측)에서 시작
-* 삽입 깊이 약 8\~10 ㎜ 이하 유지
-  * Tip : 바늘 캡(needle cap)을 약 8\~10 ㎜만 노출되도록 잘라 가드(guard)로 끼워두면 깊이 초과를 방지하는 데 도움이 됨
+* 맹검 흡인 시 삽입 깊이는 최대 약 10 ㎜ 이내로 제한; 이 깊이에서 고름이 나오지 않으면 더 깊게 진행하지 않음
+  * Tip : 바늘이 약 10 ㎜만 노출되도록 캡을 잘라 가드(guard)로 사용하고, 탈락·흡인을 방지하도록 주사기에 단단히 고정
 * 바늘 방향 절대 외측(lateral) 금지 - 경동맥 손상 방지
 
 **시술 순서**
@@ -187,12 +193,12 @@ class G,E,O lightGreen
 3. 연구개를 촉진하여 최대 유동(fluctuance) 부위 확인 (보통 편도 상극)
 4. 마취제 스프레이 도포 → 수 분 후 1\~2% lidocaine ± epinephrine으로 점막 국소 마취 (25-G)
 5. 설압자로 혀를 누르고 18-G 바늘 부착 10 ㎖ 주사기를 superior pole(상극 전주 상외측)에 삽입·흡인
-   * 삽입 깊이 8 ㎜ 이상 금지 (경동맥 손상 방지)
+   * 맹검 삽입 깊이는 최대 약 10 ㎜ 이내로 제한하고, 고름이 나오지 않으면 더 깊게 진행하지 않음
    * 고름이 나오지 않고 위치가 불확실하면 반복적인 맹검 천자보다 초음파 유도, CT 또는 이비인후과 의뢰를 우선. 해부학적 위치와 시야가 명확하고 술기 경험이 있는 경우에만 제한적으로 방향 조정
    * 더 이상 흡인되지 않을 때까지 계속
 
 {% hint style="danger" %}
-내경동맥(internal carotid artery)은 일반적으로 천자 목표점의 약 2\~2.5 ㎝ 후외측(posterolateral)에 위치함. 바늘을 너무 깊이 또는 외측으로 삽입하지 않도록 주의
+내경동맥(internal carotid artery)은 일반적으로 천자 목표점의 약 2\~2.5 ㎝ 후외측(posterolateral)에 있으나 변이로 더 가까울 수 있음. 10 ㎜가 안전을 보장하는 깊이는 아니며 바늘을 외측으로 향하지 않음. 위치가 불확실하면 초음파·CT 또는 전문과 평가를 우선 _<mark style="color:$info;">[MSD Manual 2025]</mark>_
 {% endhint %}
 
 #### <mark style="color:$primary;">Incision & Drainage (I\&D)</mark>
@@ -212,14 +218,17 @@ class G,E,O lightGreen
 * 급성기 편도 절제술(quinsy tonsillectomy)은 선택된 환자에서 시행할 수 있으나 routine 치료는 아님
 
 {% hint style="info" %}
-2025년 성인 41명의 소규모 무작위시험에서는 급성기 편도 절제술이 배농보다 유리하다는 결과로 연구가 조기 종료되었으나, 단일 소규모 연구이므로 모든 환자의 routine 치료를 변경할 근거로 일반화하지 않음
+2025년 성인 41명의 단일기관 무작위시험은 절제술군의 48시간 치료 성공률이 높아 조기 종료됨(100% vs 배농군 75%). 다만 수술 후 출혈은 절제술군 7/21명(33%), 배농군 0/20명이었고 절제술군 5/21명은 지혈을 위한 재수술이 필요했음. 효능과 출혈 위험을 함께 해석해야 하며 이 출혈률을 일반적인 수술 위험으로 확대하거나 모든 PTA의 routine 치료를 변경하는 근거로 일반화하지 않음 _<mark style="color:$info;">[Voruz et al. Am J Otolaryngol 2025]</mark>_
 {% endhint %}
 
 ## <mark style="color:green;">항생제</mark>
 
+* 아래 용량은 성인 기준
+
 * 목표 균주 : GABHS 및 _Streptococcus anginosus_ group, _Fusobacterium necrophorum_ 등 구강 혐기성균
-* 다균성 감염을 고려하여 amoxicillin/clavulanate가 흔히 사용되지만, 충분히 배농된 면역 정상 환자에서는 β-lactam 단독요법이 더 넓은 요법보다 재발을 증가시킨다는 근거가 없음. Metronidazole 또는 clindamycin을 모든 환자에게 일률적으로 추가하지 않음
-* 투여 기간 : 일반적으로 7\~10일; 중증도, 배농 적절성 및 임상 반응에 따라 10\~14일까지 고려하되 문서 내 처방 기간을 일관되게 적용
+* 다균성 감염을 고려하여 amoxicillin/clavulanate가 흔히 사용되며, 충분히 배농된 면역 정상 환자에서는 penicillin 단독요법도 선택 가능. Metronidazole 또는 clindamycin을 모든 환자에게 일률적으로 추가하지 않음
+* 2026년 스웨덴 889명 후향적 관찰연구에서 β-lactam 단독군(96% penicillin)은 clindamycin 또는 metronidazole 병용군보다 30일 이내 인두편도염·PTA 재발이 증가하지 않았음. 관찰연구이므로 약제 간 동등성, 배농 생략 또는 중증 감염에서의 협범위 요법 안전성을 입증한 결과는 아님 _<mark style="color:$info;">[Loggarfve et al. 2026]</mark>_
+* 투여 기간 : 통상 총 10일을 기준으로 하며 중증도·배농 적절성·임상 반응에 따라 조정; 중증 또는 반응이 느린 경우 10\~14일 고려. 최적 기간은 확립되지 않음
 * MRSA는 routine coverage 불필요. 배양 결과, 기존 MRSA 감염·보균 또는 중증 치료 실패 등 위험이 있을 때만 추가 고려
   * 중증 입원 환자 : 기본 구강인두 감염 요법에 vancomycin 추가 고려
   * TMP/SMX 단독은 GAS 및 혐기성균 커버가 불충분하므로 PTA 단독 요법으로 사용하지 않음
@@ -238,14 +247,14 @@ class G,E,O lightGreen
 
 * 1차 : amoxicillin/clavulanate 625 ㎎ tid <mark style="color:blue;">\[오구멘틴 625 ㎎]</mark>
 * 중증 즉시형 페니실린 알레르기 : clindamycin 300\~450 ㎎ q6\~8h <mark style="color:blue;">\[훌그램 150 ㎎]</mark>; 지역 내성률과 _C. difficile_ 감염 위험 고려
-* 비중증 지연형 페니실린 알레르기는 알레르기 병력을 재평가하고, 필요 시 cephalosporin + metronidazole 요법을 고려
+* 경증 비즉시형 페니실린 반응은 병력을 재평가하고 필요 시 cephalosporin + metronidazole 요법 고려. SJS/TEN·DRESS·약물 유발 장기 손상 등 중증 지연형 반응에서는 관련 β-lactam을 임의로 대체하지 않고 전문 평가
 
 #### <mark style="color:$primary;">정맥 주사 (입원)</mark>
 
 * 1차 : ampicillin/sulbactam 3 g q6h IV <mark style="color:blue;">\[유나신-S]</mark>
 * 대안 : ceftriaxone 1\~2 g qd IV <mark style="color:blue;">\[트리악손]</mark> + metronidazole 500 ㎎ q8h IV
 * 중증 즉시형 β-lactam 알레르기 : clindamycin 600\~900 ㎎ q8h IV <mark style="color:blue;">\[달라신 C]</mark>; 중증 감염이나 치료 실패 시 감염내과·이비인후과 자문 및 배양 결과에 따라 조정
-* 구강 섭취가 가능해지면 동등한 경구 항생제로 전환하여 총 7\~10일 완료
+* 구강 섭취가 가능해지면 동등한 경구 항생제로 전환하여 정맥·경구 기간을 합하여 통상 총 10일 완료; 중증도·반응에 따라 조정
 
 <p align="center"><em><mark style="color:$info;">Ref. Moen CM et al. J Laryngol Otol. 2023;137:992-996. / Loggarfve M et al. Clin Microbiol Infect. 2026; online ahead of print. doi:10.1016/j.cmi.2026.07.044.</mark></em></p>
 
@@ -255,7 +264,7 @@ class G,E,O lightGreen
 
 * naproxen sodium : 275 ㎎ tid 또는 550 ㎎ bid <mark style="color:blue;">\[아나프록스 275 ㎎]</mark> (보험 주의)
 * ibuprofen : 400 ㎎ tid\~qid <mark style="color:blue;">\[부루펜 400 ㎎]</mark>
-* acetaminophen 일반제 : 650\~1,000 ㎎ q6\~8h; 모든 acetaminophen 함유 제제의 일일 총량과 제품별 허가사항 확인
+* acetaminophen 일반제 : 650\~1,000 ㎎ q6\~8h; 최대 4 g/d이나 일반적으로 3 g/d 이하 권장. 모든 acetaminophen 함유 제제의 일일 총량을 합산
   * Acetaminophen ER 650 ㎎ <mark style="color:blue;">\[타이레놀 ER 650 ㎎]</mark>은 해당 서방형 제품의 투여 간격과 1일 최대량을 따름. 간질환, 과음, 고령·저체중 환자는 최대량을 낮춤
 * 중증 통증 : tramadol 또는 경구 opioid 단기 병용 고려
 * NSAIDs 사용 시 위장관 보호 : 고령, 위장관 궤양·출혈 병력, 항응고제·항혈소판제 또는 지속적인 전신 스테로이드 병용 등 위장관 고위험군에서는 PPI(예: omeprazole 20 ㎎ qd <mark style="color:blue;">\[오메프라졸]</mark>) 병용 고려. 단기간 NSAIDs를 사용하는 저위험 성인에게 일률적으로 처방하지 않음
@@ -265,11 +274,7 @@ class G,E,O lightGreen
 * 소규모 연구에서 첫 24시간의 통증·연하 증상을 완화할 가능성이 있으나, 48시간 이후 이득과 재발·합병증 감소 효과는 불확실함; 모든 환자에 routine 투여하지 않음
 * 단회, 선택적 사용
 * 적응증 : 중등도 이상의 통증 + 삼킴 곤란 + trismus 동반 시 선택적으로 사용
-* dexamethasone : 8\~10 ㎎ IM 또는 IV 1회 <mark style="color:blue;">\[덱메타손]</mark>; 제품별 허가사항·급여기준 확인
-
-{% hint style="info" %}
-**국내 사용 유의사항** : 제품별 허가사항과 최신 급여기준을 확인하고, 통증·연하 곤란·trismus 등 임상적 투여 근거를 의무기록에 남길 것
-{% endhint %}
+* dexamethasone : 8\~10 ㎎ IM 또는 IV 1회; 통증·연하 곤란·trismus 등 임상적 투여 근거를 의무기록에 기재
 
 ***
 
@@ -286,10 +291,10 @@ J39.0 인두뒤 및 인두옆 농양 — 해당 심부 경부 농양이 실제�
 > **처방례 1. 성인, 외래 치료 - 배농 성공 후 경구 항생제 (중등도)**
 >
 > ```
-> 오구멘틴 625 ㎎/T   3T   #3   (tid × 7~10일)
+> 오구멘틴 625 ㎎/T   3T   #3   (tid × 10일)
 > 타이레놀 ER 650 ㎎/T   2T   #2   (bid pc)
 > 부루펜 400 ㎎/T   3T   #3   (tid pc)
-> 덱메타손주 5 ㎎/㎖   2앰플   IM 또는 IV 1회   (중등도 이상 trismus·삼킴 곤란 시 선택적)
+> dexamethasone   8~10 ㎎   IM 또는 IV 1회   (중등도 이상 trismus·삼킴 곤란 시 선택적)
 > ```
 >
 > _✽배농 후 출혈·기도 안정과 경구 수분 섭취 가능 여부를 확인한 뒤 처방. PPI는 고령, 소화성궤양·출혈 병력, 항응고제·항혈소판제 복용 등 위장관 고위험군에서만 선택적으로 병용. 스테로이드는 중등도 이상 통증·trismus·삼킴 곤란 동반 시 단회 선택적으로 투여하고 투여 근거를 진료기록부에 기재할 것._
@@ -297,21 +302,21 @@ J39.0 인두뒤 및 인두옆 농양 — 해당 심부 경부 농양이 실제�
 > **처방례 2. 중증 즉시형 페니실린/아목시실린 알레르기 환자**
 >
 > ```
-> 훌그램 150 ㎎/C   2C   #4   (qid × 7~10일)
+> 훌그램 150 ㎎/C   8C   #4   (1회 2C = 300 ㎎, qid × 10일)
 > 낙센에프 500 ㎎/T   2T   #2   (bid pc, 보험 주의)
-> 덱메타손주 5 ㎎/㎖   2앰플   IM 또는 IV 1회   (중등도 이상 증상 시 선택적)
+> dexamethasone   8~10 ㎎   IM 또는 IV 1회   (중등도 이상 증상 시 선택적)
 > ```
 >
-> _✽Clindamycin은 중증 즉시형 β-lactam 알레르기의 대체제로 사용할 수 있으나 지역 내성률을 고려. 위장 장애(구역·설사)가 흔하며 C. difficile 장염 가능성을 안내. 비중증 지연형 알레르기는 병력을 재평가하여 cephalosporin 사용 가능 여부를 판단._
+> _✽Clindamycin은 중증 즉시형 β-lactam 알레르기의 대체제로 사용할 수 있으나 지역 내성률을 고려. 위장 장애(구역·설사)가 흔하며 C. difficile 장염 가능성을 안내. 경증 비즉시형 반응은 병력을 재평가하여 cephalosporin 사용 가능 여부를 판단하며, 중증 지연형 반응은 제외._
 
 > **처방례 3. 봉와직염(배농 불필요) 단계 - 초기 경구 치료, 24\~48시간 내 재평가 예정**
 >
 > ```
-> 오구멘틴 625 ㎎/T   3T   #3   (tid × 5일, 재평가 후 연장)
+> 오구멘틴 625 ㎎/T   3T   #3   (tid, 초기 5일분 처방; 24~48시간 재평가 후 총기간 결정)
 > 부루펜 400 ㎎/T   3T   #3   (tid pc)
 > ```
 >
-> _✽통증이 심할 경우 타이레놀 ER 추가 가능(NSAIDs 2종 중복 투여는 피할 것). 24\~48시간 내 농양 진행 여부를 반드시 재평가. EBV가 의심되면 임상 시점에 맞춰 EBV 특이 항체검사를 고려하며 Monospot 결과만으로 확진·배제하지 않음._
+> _✽통증이 심할 경우 타이레놀 ER 추가 가능(NSAIDs 2종 중복 투여는 피할 것). 24\~48시간 내 농양 진행 여부를 반드시 재평가하며, 5일이 일률적인 총 치료 기간을 뜻하지는 않음. PTA로 진행하면 배농 필요성을 평가하고 항생제 총기간도 다시 결정. EBV가 의심되면 임상 시점에 맞춰 EBV 특이 항체검사를 고려하며 Monospot 결과만으로 확진·배제하지 않음._
 
 ***
 
@@ -366,7 +371,7 @@ J39.0 인두뒤 및 인두옆 농양 — 해당 심부 경부 농양이 실제�
 
 #### <mark style="color:$primary;">치료는 어떻게 하나요?</mark>
 
-* **배농(고름 제거)** : 주사기로 고름을 뽑아내는 것이 치료의 핵심입니다. 처음에는 통증이 있지만, 배농 후 통증이 빠르게 줄어드는 경우가 많습니다.
+* **배농(고름 제거)** : 대부분은 주사기로 고름을 뽑거나 작게 절개하여 배출합니다. 배농 후 통증이 빠르게 줄어드는 경우가 많습니다. 일부 가벼운 경우에는 전문의 판단에 따라 약물 치료와 면밀한 추적을 시행할 수 있습니다.
 * **항생제** : 처방된 기간과 용법에 맞추어 복용합니다. 증상이 좋아져도 임의로 중단하거나 기간을 늘리지 마십시오.
 * **스테로이드 주사 1회** : 통증과 삼킴 곤란을 빠르게 줄이기 위해 선택적으로 주사 1회를 맞을 수 있습니다. 모든 환자에게 필요한 치료는 아닙니다.
 
@@ -387,3 +392,63 @@ J39.0 인두뒤 및 인두옆 농양 — 해당 심부 경부 농양이 실제�
 * 배농 후 24\~48시간 내 발열·통증·입 벌리기 어려움이 호전되지 않거나 그 전에 악화하는 경우
 * 약 복용 후 호흡 곤란, 쉰목소리, 얼굴·입술·혀 부종, 어지럼 또는 실신이 생기는 경우
 * 전신 상태가 안정적이고 발진만 생긴 경우에는 당일 처방기관에 연락하여 진료받으십시오.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Long B, Gottlieb M. Managing Peritonsillar Abscess. Ann Emerg Med. 2023;82:101-107. — 진단, 기도 평가, 배농 및 외래·입원 치료.
+
+  [https://pubmed.ncbi.nlm.nih.gov/36669912/](https://pubmed.ncbi.nlm.nih.gov/36669912/)
+
+* Forner D et al. Medical Intervention Alone vs Surgical Drainage for Treatment of Peritonsillar Abscess: A Systematic Review and Meta-analysis. Otolaryngol Head Neck Surg. 2020;163:915-922. — 선택된 환자의 약물 단독 치료 근거와 한계.
+
+  [https://pubmed.ncbi.nlm.nih.gov/32482146/](https://pubmed.ncbi.nlm.nih.gov/32482146/)
+
+* Kim DJ et al. Test characteristics of ultrasound for the diagnosis of peritonsillar abscess: A systematic review and meta-analysis. Acad Emerg Med. 2023;30:859-869. — 초음파 진단 정확도.
+
+  [https://doi.org/10.1111/acem.14660](https://doi.org/10.1111/acem.14660)
+
+* Voruz F et al. Diagnosis of Peritonsillar Abscess—A Prospective Study Comparing Clinical with CT Findings in 133 Consecutive Patients. Diagnostics. 2025;15:228. — 임상 소견과 조영 CT의 진단 성능.
+
+  [https://doi.org/10.3390/diagnostics15020228](https://doi.org/10.3390/diagnostics15020228)
+
+* MSD Manual Professional Edition. How To Drain a Peritonsillar Abscess. Updated 2025. — 천자 방향·깊이 제한, 바늘 가드 고정과 배농 후 관찰.
+
+  [https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/how-to-do-throat-procedures/how-to-drain-a-peritonsillar-abscess](https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/how-to-do-throat-procedures/how-to-drain-a-peritonsillar-abscess)
+
+* University of Iowa. Peritonsillar Abscess (PTA) Management. Updated 2023. — 항생제 용량·치료 기간 및 배농·퇴원 기준.
+
+  [https://iowaprotocols.medicine.uiowa.edu/protocols/peritonsillar-abscess-pta-management](https://iowaprotocols.medicine.uiowa.edu/protocols/peritonsillar-abscess-pta-management)
+
+* Moen CM et al. A systematic review of the role of penicillin versus penicillin plus metronidazole in the management of peritonsillar abscess. J Laryngol Otol. 2023;137:992-996. — Metronidazole의 일률적인 추가 투여에 대한 근거 검토.
+
+  [https://pubmed.ncbi.nlm.nih.gov/37194922/](https://pubmed.ncbi.nlm.nih.gov/37194922/)
+
+* Loggarfve M et al. Efficacy of beta-lactam monotherapy versus clindamycin or addition of metronidazole in peritonsillar abscess – an observational cohort study with a focus on Fusobacterium necrophorum. Clin Microbiol Infect. 2026. doi:10.1016/j.cmi.2026.07.044. — 889명 후향적 연구의 30일 재발 비교; 약제 동등성 또는 배농 생략을 입증한 연구는 아님.
+
+  [https://doi.org/10.1016/j.cmi.2026.07.044](https://doi.org/10.1016/j.cmi.2026.07.044)
+
+* Voruz F et al. A randomized clinical trial of peritonsillar abscess treatment comparing drainage and tonsillectomy. Am J Otolaryngol. 2025;46:104745. — 성인 41명의 단일기관 시험; 48시간 성공률과 수술 후 출혈을 함께 해석.
+
+  [https://pubmed.ncbi.nlm.nih.gov/41192203/](https://pubmed.ncbi.nlm.nih.gov/41192203/)
+
+* CDC. Laboratory Testing for Epstein-Barr Virus (EBV). — EBV 동반 감별과 Monospot의 한계.
+
+  [https://www.cdc.gov/epstein-barr/php/laboratories/](https://www.cdc.gov/epstein-barr/php/laboratories/)
+
+* CDC. Clinical Features of Penicillin Allergy. — 중증 지연형 약물반응의 분류와 전문 평가.
+
+  [https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html](https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 건강보험심사평가원. 약제급여기준 및 약제급여목록 — 국내 약제 급여기준 및 급여 상태 확인.
+
+  [https://www.hira.or.kr](https://www.hira.or.kr)
