@@ -243,9 +243,69 @@
 ***
 
 ```mermaid
+graph TD
+    Start(["비염 의심 또는 진단"]) --> RedQ["즉각 조치 또는 당일~수일 내 <br/>평가 항목에 해당?"]
+    RedQ -->|예| Urgent["항목별 긴급도에 따라 <br/>조치·평가·의뢰"]
+    RedQ -->|아니오| Assess["중증도·기간 및 <br/>천식·결막염 등 평가"]
+    Assess --> Mild["경증·간헐적"]
+    Assess --> ModSev["지속적 또는 중등증~중증"]
+    Mild --> AH["경구/비내 항히스타민제; <br/>INCS도 선택 가능"]
+    ModSev --> INCS0["INCS 단독"]
+    ModSev -->|심한 증상·빠른 조절 필요| Combo0["INCS+INAH 복합제"]
+    AH --> Review1["2~4주 후 치료 반응 평가"]
+    INCS0 --> Review1
+    Combo0 --> Review1
+    Review1 --> Control1["충분히 조절됨?"]
+    Control1 -->|예| Maintain["유지 또는 노출·증상에 따른 <br/>최저 유효 용량 조정"]
+    Control1 -->|아니오| Check1["순응도·분무법·진단 재평가"]
+    Check1 -->|진단 수정 필요| Refer["원인별 평가·치료 <br/>또는 전문과 의뢰"]
+    Check1 -->|AR 치료 강화 필요| Combine["INCS 용량 최적화 또는 <br/>INCS+INAH 전환"]
+    Combine --> Control2["여전히 조절 불충분?"]
+    Control2 -->|아니오| Maintain
+    Control2 -->|예| Symptoms(["우세 증상·동반 질환별 <br/>선택적 추가"])
+
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class RedQ,Control1,Control2 yellow
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class INCS0,Combo0,AH,Combine sky
+    classDef orange fill:#fdebd0,stroke:#e67e22
+    class Urgent,Refer orange
+    classDef pink fill:#fde8f0,stroke:#e91e8c
+    class Mild,ModSev pink
+    style Symptoms fill:#eeeeee,stroke:#888888,stroke-width:4px
 ```
 
 ```mermaid
+graph TD
+
+Symptoms(["우세 증상·동반 질환별 <br/>선택적 추가"])
+Symptoms --> Tx1["수성 콧물: <br/>ipratropium"]
+Symptoms --> Tx2["안구 증상: 점안제; <br/>이득이 있으면 <br/>OAH 고려"]
+Symptoms --> Tx3["천식·NERD: <br/>별도 관리; <br/>LTRA 선택적 고려"]
+Symptoms --> Tx4["심한 코 막힘: <br/>단기 혈관수축제; <br/>12세 미만 피함"]
+Tx1 --> Reassess["추가 치료 후 <br/>반응·부작용 재평가"]
+Tx2 --> Reassess
+Tx3 --> Reassess
+Tx4 --> Reassess
+Reassess --> Control3["충분히 조절됨?"]
+Control3 -->|예| Maintain["유지 또는 노출·증상에 따른 <br/>최저 유효 용량 조정"]
+Control3 --->|아니오| Fail3["불응성 비염: <br/>전문가 평가"]
+Fail3 --> Cause1["구조적 이상: <br/>수술적 치료 평가"]
+Fail3 --> Cause2["관련 감작 또는 LAR: <br/>전문가 판단 후 <br/>AIT 고려"]
+Fail3 --> Cause3["만성 비부비동염<br/>·비용종 등 <br/>재평가"]
+Fail3 --> Rescue["매우 심한 난치성: <br/>예외적 단기 <br/>경구 스테로이드 판단"]
+
+style Symptoms fill:#eeeeee,stroke:#888888,stroke-width:4px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class Control3,Reassess,Fail3 yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class Tx1,Tx2,Tx3,Tx4,Maintain sky
+classDef orange fill:#fdebd0,stroke:#e67e22
+class Cause1,Cause2,Cause3,Rescue orange
+classDef pink fill:#fde8f0,stroke:#e91e8c
+
+
 ```
 
 <p align="center"><strong>알레르기비염 관리 알고리듬</strong></p>
