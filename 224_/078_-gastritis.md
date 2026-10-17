@@ -35,7 +35,7 @@ H. pylori 음성인 조직학적 위염에서는 약물·담즙 역류에 의한
 {% hint style="info" %}
 **Correa cascade**는 주로 H. pylori 관련 다초점 위축성 위염에서 장형 위암으로 진행하는 경로이다. 자가면역 위염은 위체부 우세 위축·고가스트린혈증 및 Type 1 위 신경내분비종양 위험을 포함하는 별도 경로로 이해한다.
 
-**OLGA/OLGIM 병기** : 조직검사를 기반으로 위암 위험도를 Stage 0\~IV로 분류. Stage III\~IV 또는 전정부와 위체부를 모두 침범한 광범위 위축·장상피화생은 약 3년마다 고품질 내시경 추적을 권고한다.
+**OLGA/OLGIM 병기** : 조직검사를 기반으로 위암 위험도를 Stage 0\~IV로 분류. Stage III\~IV 또는 전정부와 위체부를 모두 침범한 광범위 위축·장상피화생은 고위험군으로 감시한다. APAGE는 III\~IV에서 2년, MAPS III는 진행성 병변에서 3년 간격을 제시한다. 국내 국가검진의 2년 주기를 늦추는 의미로 적용하지 않으며 개인 위험도에 따라 조정한다. <mark style="color:$info;">[APAGE 2025/2026; MAPS III 2025]</mark>
 
 **OLGIM(장상피화생 기반) vs OLGA(위축 기반)** : OLGIM은 관찰자 간 일치도가 비교적 높지만 위축만 있고 장상피화생이 적은 고위험 환자를 과소평가할 수 있다. 어느 하나가 절대적으로 우월하다기보다 조직검사 범위·병리 판독과 함께 해석한다.
 {% endhint %}
@@ -92,7 +92,7 @@ H. pylori 음성인 조직학적 위염에서는 약물·담즙 역류에 의한
 * 피로감, 빈혈 증상 (위축성·자가면역 위염 시 철결핍빈혈 또는 악성빈혈)
 * 비의도적 체중 감소는 위염의 전형적 증상이라기보다 위암 등 기질적 질환을 배제해야 하는 경고 징후
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 　☞ [위장질환의 감별](074_.md#step-1-red-flags)
 
@@ -123,7 +123,7 @@ H. pylori 음성인 조직학적 위염에서는 약물·담즙 역류에 의한
 **Kyoto 내시경 분류 (Kyoto Classification)**
 
 * 내시경 소견을 기반으로 H. pylori 감염 상태 및 위암 위험도를 평가하는 체계
-* 위축(atrophy), 장상피화생(IM), 미만성 발적(diffuse redness), RAC(regular arrangement of collecting venules) 소실, 주름 비대 등의 소견을 점수화; 점수가 높을수록 위암 위험도 상승
+* 위축(atrophy), 장상피화생(IM), 주름 비대(enlarged folds), 결절성(nodularity), 미만성 발적(diffuse redness)의 5개 항목을 합산하여 0\~8점으로 평가; RAC(regular arrangement of collecting venules)는 미만성 발적 평가에 반영하며 별도 독립 점수 항목은 아님
 * 일본 내에서는 임상적으로 널리 쓰이고 있으나 더 다양한 인구 집단에서의 검증 필요
 
 #### <mark style="color:$primary;">H. pylori 검사</mark>
@@ -153,54 +153,35 @@ H. pylori 음성인 조직학적 위염에서는 약물·담즙 역류에 의한
 
 ```mermaid
 graph TD
-    A([상복부 증상 내원])
-    B[Red Flag?]
-    C[즉각 처치 또는<br/>응급 내시경 의뢰]
-    D[내시경 적응증?<br/>경고 증상·치료 불응<br/>국가검진 미수검·고위험군]
-    E[내시경 + 조직검사<br/>+ H. pylori 검사]
-    F[H. pylori<br/>비침습적 검사<br/>UBT / SAT]
-    G[H. pylori 검사 ]
-    H[제균 요법<br/>☞ 헬리코박터 챕터]
-    I[증상 Phenotype<br/>분류]
-    J[제균 확인<br/>치료 종료 4주 이후<br/>UBT 또는 SAT]
-    K[증상 추적<br/>전암병변이면 위험도별 감시]
-    L[2차 제균 또는<br/>소화기내과 의뢰]
-    M[PPI 또는 P-CAB<br/>± 점막보호제]
-    N[운동 촉진제 + <br/>교육·스트레스 관리]
-    O[NSAID 중단 또는<br/>COX-2 전환 + PPI]
-    P[4~6주 후 평가]
-    Q[미시행 시 내시경 고려<br/>FD·GERD·PUD·약물 원인 재평가]
-    R[Neuromodulator 고려<br/>저용량 TCA·mirtazapine<br/>소화기내과 협진]
-
-    A --> B
-    B -->|예| C
-    B -->|아니오| D
-    D -->|예| E
-    D -->|아니오| F
-    E --> G
+    A([상복부 증상 내원]) --> B{"응급 징후?"}
+    B -->|예| C["응급 평가·처치 또는 전원"]
+    B -->|아니오| D{"내시경 적응증?"}
+    D -->|예| E["내시경·필요한 조직검사·H. pylori 검사"]
+    D -->|아니오| F["H. pylori 비침습적 검사"]
+    E --> S{"궤양·종양 등 기질적 병변?"}
+    S -->|예| T["해당 질환 치료·전문의 평가"]
+    S -->|아니오| G{"H. pylori 양성?"}
     F --> G
-    G ---->|양성| H
-    G -->|음성| I
-    H --> J
-    J -->|성공| K
-    J -->|실패| L
-    I -->|쓰림·통증 위주<br/>EPS 양상| M
-    I -->|조기 포만·더부룩함<br/>PDS 양상| N
-    I -->|NSAID 관련| O
-    M --> P
+    G -->|예| H["감수성·국내 지침에 따른 제균"]
+    H --> J["제균 종료 최소 4주 후 성공 확인"]
+    J -->|성공| K["증상 추적·전암병변 위험도별 감시"]
+    J -->|실패| L["구제요법 또는 전문의 의뢰"]
+    G -->|아니오| I["증상 아형과 원인 재평가"]
+    I -->|산 관련 증상| M["적응증에 맞는 산 억제제"]
+    I -->|식후 충만·조기 포만| N["FD 교육·식이 조절·선택적 운동 촉진제"]
+    M --> P["4~6주 후 반응 평가"]
     N --> P
-    O --> P
     P -->|호전| K
-    P -->|미호전| Q
-    Q -->|심리·불응성| R
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,G,P yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class H,M,N,O sky
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class K,L,R blue
+    P -->|미호전| Q["내시경 필요성·FD·GERD·담췌질환 재평가"]
+    Q --> R["필요 시 저용량 TCA 등 전문의 협진"]
+    A -.-> O["모든 경로에서 NSAID·aspirin 복용력 평가와 원인 교정"]
+    O -.-> I
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style C fill:#ff9966,stroke:#cc5500
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class B,D,S,G yellow
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class H,M,N,O sky
 ```
 
 <p align="center"><strong>위염 진단 및 치료 알고리듬</strong></p>
@@ -212,10 +193,10 @@ class K,L,R blue
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 원인 제거가 치료의 핵심 - H. pylori 양성이면 제균, NSAID 관련이면 중단·대체; 약물 치료는 증상 완화와 점막 회복을 보조하는 역할
-* H. pylori 제균 : 적응증 해당 시 우선 시행 (☞ [소화불량](075_-indigestion-dyspepsia.md), [헬리코박터](080_-helicobacter-pylori-infection.md))
-* 유발 약물 중단·대체 : NSAID → 중단 또는 COX-2 억제제로 전환; Aspirin → 심혈관 위험 재평가 후 PPI 병용 (☞ [통증](../220_/001_-pain.md#nsaids))
+* H. pylori 제균 : 국내 2025 개정 지침은 H. pylori 위염에서도 위암 예방을 위한 제균을 제안함(약한 권고, 중등도 근거). 감염 확인 후 이득·위험을 설명하고 치료하며, 제균 후에도 위축·장상피화생의 위험도별 감시는 지속 <mark style="color:$info;">[국내 H. pylori 지침 2025 개정/2026 출판]</mark> (☞ [소화불량](075_-indigestion-dyspepsia.md), [헬리코박터](080_-helicobacter-pylori-infection.md))
+* 유발 약물 중단·대체 : NSAID → 중단 우선; 재투여가 불가피하면 활동성 궤양·출혈 등 금기가 없는지 확인한 뒤 COX-2 억제제와 PPI 등 예방 전략 검토; Aspirin → 심혈관 위험 재평가 후 PPI 병용 (☞ [통증](../220_/001_-pain.md#nsaids))
 * 만성 위염 후유증 치료 : 위축성 위염에 의한 B12 결핍 → Vit B12 보충 (☞ [빈혈](../230_/192_-anemia.md#vit-b12-cobalamin-deficiency))
-* 스트레스 관련 상부위장관 출혈 예방(ICU 고위험) : 응고병증, 쇼크, 만성 간질환 등 위험인자가 있는 중환자에게 저용량 PPI 또는 H2RA 사용을 고려. 기계환기 단독은 확립된 독립 위험인자가 아니며, 위험인자 또는 중증 상태가 해소되면 중단하고 ICU 퇴실 후 불필요하게 지속하지 않음(2024 SCCM/ASHP 지침)
+* 스트레스 관련 상부위장관 출혈 예방(ICU 고위험) : 응고병증, 쇼크, 만성 간질환 등 위험인자가 있는 중환자에게 저용량 PPI 또는 H2RA 사용을 고려. 기계환기 단독은 확립된 독립 위험인자가 아니며, 위험인자 또는 중증 상태가 해소되면 중단하고 ICU 퇴실 후 불필요하게 지속하지 않음<mark style="color:$info;">[SCCM/ASHP 2024]</mark>
 
 #### <mark style="color:$primary;">위염-기능성 소화불량 Overlap</mark>
 
@@ -240,11 +221,11 @@ class K,L,R blue
 #### <mark style="color:$primary;">모니터링 및 감시 내시경</mark>
 
 * 증상 지속·악화 : 기존 내시경 시행 여부와 경고 징후를 확인한 뒤 미시행 환자는 내시경을 고려하고, 최근 적절한 내시경이 정상이었다면 FD·GERD·PUD·담췌질환·약물 원인을 재평가
-* 광범위 위축 또는 장상피화생(전정부와 위체부 모두 침범), OLGA/OLGIM III\~IV : 약 3년마다 고품질 내시경
+* 광범위 위축·장상피화생 또는 OLGA/OLGIM III\~IV : 고품질 내시경 감시. APAGE는 III\~IV에 2년, II에 3년 간격을 제안하며 MAPS III는 진행성 병변에 3년 간격을 권고. 국내 2년 국가검진 주기를 늦추지 않고 적용하며, 광범위·진행성 병변에 위암 직계 가족력이 동반되면 1\~2년 간격을 고려 <mark style="color:$info;">[APAGE 2025/2026; MAPS III 2025]</mark>
 * 전정부에 국한된 경도\~중등도 위축·장상피화생 : 위암 가족력, 불완전형 장상피화생, 지속 H. pylori 감염 등 추가 위험인자가 없으면 별도의 감시 내시경을 일률적으로 권고하지 않음. 국내 국가암검진 주기와 개인 위험도를 함께 고려
 * 내시경에서 보이는 Low-grade dysplasia : 전문기관에서 병변 재평가 후 내시경 절제술 고려. 비가시성 이형성증은 고화질 내시경·virtual chromoendoscopy를 이용한 재평가 및 추적 간격을 전문의와 결정
 * High-grade dysplasia : 즉시 소화기내과 의뢰; 내시경 절제술을 우선 검토
-* 자가면역 위염 : 최적 감시 간격은 불명확하므로 위축 범위·가족력·동반 병변에 따라 개별화; CBC·Fe/ferritin·Vit B12 정기 모니터링. 위선암 및 Type 1 위 신경내분비종양 위험을 고려하며, 작은 NET를 절제한 뒤에는 종양 부담에 따라 1\~2년 간격 내시경 고려
+* 자가면역 위염 : MAPS III는 위선암·위 신경내분비종양 발견을 위해 3년 간격 고품질 내시경을 조건부로 제안(낮은 근거). 최적 간격은 확립되지 않았으므로 국내 검진 주기, 위축 범위·가족력·동반 병변에 따라 개별화. CBC·Fe/ferritin·Vit B12를 정기 모니터링하며, 작은 Type 1 NET 절제 후에는 종양 부담에 따라 1\~2년 간격 내시경 고려 <mark style="color:$info;">[MAPS III 2025; AGA 2021]</mark>
 
 {% hint style="info" %}
 **국가 암검진** : 만 40세 이상은 2년마다 위내시경 또는 위장조영검사 대상. 본인부담 여부는 보험·소득·대상 조건에 따라 확인
@@ -260,7 +241,7 @@ class K,L,R blue
 **약물 관련 위염 예방법**
 
 * NSAID 장기 복용 불가피 시 : COX-2 억제제 선택 또는 PPI 병용
-* 매우 높은 위장관 위험 환자(궤양 출혈 기왕력 등) : NSAID가 반드시 필요하면 심혈관 위험을 함께 평가하여 COX-2 억제제 + PPI 조합 고려
+* 매우 높은 위장관 위험 환자(궤양 출혈 기왕력 등) : 활동성 궤양·출혈이 없고 NSAID가 반드시 필요하면 심혈관·신장 위험과 금기를 함께 평가하여 COX-2 억제제 + PPI 조합 고려
 * Aspirin 복용 중 위장 증상 : 심혈관 적응증을 재평가하고, 지속이 필요하며 위장관 고위험이면 PPI 병용 및 H. pylori 평가 고려. 장용정 전환만으로 임상적으로 중요한 위장관 출혈이 예방되지는 않음
 * Bisphosphonate : 충분한 수분(200 mL)과 함께, 복용 후 30분 기립 유지
 
@@ -270,8 +251,8 @@ class K,L,R blue
 
 #### <mark style="color:$primary;">제산제 (Antacids)</mark>
 
-* 위산 중화를 통한 즉각적 증상 완화; 궤양 치유 효과는 없음; 식후 1시간 및 취침 시 복용
-* Al 함유 제산제는 신부전 시 장기 사용에 알루미늄 축적 독성 위험; Mg 함유 제제는 신부전 시 고마그네슘혈증 주의. 다른 약(항생제, 철분제, 갑상선 약 등)의 흡수를 방해하므로 2시간 간격 복용
+* 위산 중화를 통한 즉각적 증상 완화; 통상적인 증상 완화 용량으로 궤양의 표준 치유 치료를 대신하지 않음; 식후 1시간 및 취침 시 필요에 따라 복용
+* Al 함유 제산제는 신부전 시 장기 사용에 알루미늄 축적 독성 위험; Mg 함유 제제는 신부전 시 고마그네슘혈증 주의. 흡착·킬레이트 형성·위내 pH 변화 등으로 다른 약의 흡수에 영향을 줄 수 있음. 다른 약과 보통 2시간 이상 간격을 두되 약제별 기준을 적용하며, levothyroxine은 최소 4시간 분리
 * aluminum hydroxide <mark style="color:blue;">\[암포젤]</mark>
 * almagate : Al + Mg <mark style="color:blue;">\[알마겔 에프]</mark>
 
@@ -279,15 +260,17 @@ class K,L,R blue
 
 * 야간 위산 분비 억제에 효과적; PPI 대비 효과 제한적이나 단기·경증에 활용
 * CYP 억제 작용 주의 : Cimetidine은 CYP1A2·CYP2C9·CYP2D6·CYP3A4 억제로 warfarin, theophylline, phenytoin 등 다수의 약물 상호작용 위험; Famotidine이 상호작용 적어 더 안전한 대안
-* famotidine : 20 ㎎ bid - 1차 선택 <mark style="color:blue;">\[가스터 디]</mark>
-* cimetidine : 400 ㎎ bid (또는 200 ㎎ qid) - 약물 상호작용 주의 <mark style="color:blue;">\[에취투비]</mark>
+* famotidine : 위염의 위점막 병변 개선은 10 ㎎ bid 또는 20 ㎎ hs; 신기능에 따라 감량 <mark style="color:blue;">\[가스터 디]</mark>
+* cimetidine : 위염의 위점막 병변 개선은 200 ㎎ bid 또는 400 ㎎ qd; 약물 상호작용 주의 <mark style="color:blue;">\[에취투비]</mark>
 
 #### &#x20;<mark style="color:$primary;">PPI (양성자 펌프 억제제)</mark>
 
-* H2RA보다 강력한 산 억제; 미란성 위염, NSAID 관련 위염, H. pylori 제균 병용 시 선호
-* 증상 강도·미란 여부와 적응증에 따라 표준 용량을 단기간 사용; 명확한 장기 적응증이 없으면 증상 조절 후 step-down 또는 중단을 계획
+* H2RA보다 지속적인 산 억제가 강함. NSAID 관련 미란성 위염에서 조건부로 고려하며 근거 수준은 매우 낮음. 단순 발적이나 조직학적 위염 자체만으로 일률적으로 처방하지 않으며, GERD·궤양·제균 병용은 해당 적응증의 치료 원칙을 적용 <mark style="color:$info;">[국내 위염 지침 2023]</mark>
+* 증상·점막 병변과 적응증에 맞는 용량을 단기간 사용; 명확한 장기 적응증이 없으면 증상 조절 후 step-down 또는 중단을 계획
 * 대부분의 일반형 PPI는 식전 30\~60분 복용으로 효과를 높일 수 있으나, 제형에 따라 식사 영향이 다르므로 제품별 허가사항 확인; CYP2C19 다형성에 따른 개인차 있음
-* esomeprazole 10\~20 ㎎ qd <mark style="color:blue;">\[에스코텐]</mark>, <mark style="color:blue;">\[에소메졸 디알 서방]</mark>, <mark style="color:blue;">\[넥시움]</mark>
+* esomeprazole 10 ㎎ qd : 급성·만성 위염의 위점막 병변 개선 허가 <mark style="color:blue;">\[에스코텐]</mark>
+* 일반형 esomeprazole 20 ㎎ qd : NSAID 관련 궤양 예방 등에 사용하며 제균요법 병용은 20 ㎎ bid <mark style="color:blue;">\[넥시움]</mark>. 위염용 10 ㎎ 제품과 적응증·용량을 구분
+* 에소메졸디알서방캡슐 20·40 ㎎은 GERD 치료·유지 적응증의 이중방출 제형으로 식사 무관 복용 가능; 위염·궤양 예방·제균 처방의 일반형 PPI와 자동 대체하지 않음
 * pantoprazole 20\~40 ㎎ qd <mark style="color:blue;">\[판토록]</mark>
 * rabeprazole 10\~20 ㎎ qd <mark style="color:blue;">\[파리에트]</mark>
 * lansoprazole 15\~30 ㎎ qd <mark style="color:blue;">\[란스톤]</mark>
@@ -298,18 +281,18 @@ class K,L,R blue
 
 #### <mark style="color:$primary;">P-CAB (칼륨경쟁적 위산 분비 억제제)</mark>
 
-* PPI 대비 빠른 산 억제 발현, 식사 영향 적음, CYP2C19 유전형의 영향을 받지 않아 개인 간 반응 편차가 적음
-* H. pylori 제균 요법 병용 시 PPI 대비 강력한 산 억제로 항생제 안정성을 높여 제균 성공률 향상에 기여
+* PPI 대비 빠른 산 억제 발현, 식사 영향 적음, CYP2C19 유전형의 영향이 상대적으로 적음
+* H. pylori 제균요법에서 강한 산 억제가 제균 효과에 기여할 수 있으나, 성분·항생제 조합·감수성·기간에 따라 결과가 달라 PPI 대비 우월성을 계열 전체에 일률적으로 적용하지 않음
 * 약제별 국내 허가 적응증과 용량이 서로 다르므로 “P-CAB 계열”이라는 이유만으로 동일 용량이나 적응증을 적용하지 않음
-* tegoprazan : 적응증별 허가 용량 확인; H. pylori 제균요법 병용 시 50 ㎎ bid <mark style="color:blue;">\[케이캡]</mark>
+* tegoprazan : H. pylori 제균 병용은 50 ㎎ bid ×7일; NSAID 관련 궤양 예방은 25 ㎎ qd. 단순 위염의 위점막 병변 개선 적응증과 구분 <mark style="color:blue;">\[케이캡]</mark>
 * fexuprazan : 급성 위염 및 만성 위염의 급성 악화기 위점막 병변 개선 10 ㎎ bid, 2주; 미란성 GERD는 40 ㎎ qd로 용량이 다름 <mark style="color:blue;">\[펙수클루]</mark>&#x20;
 
 #### <mark style="color:$primary;">점막 보호제 (Mucosal Protective Agents)</mark>
 
 * 국내 허가 범위에서 증상·점막 병변에 따라 한 제제를 단기간 선택할 수 있으나, 미란 치유만을 목적으로 일률적으로 사용하거나 여러 점막보호제를 routine 병용하지 않음
-* sucralfate : 위 점막 피복; 공복에 복용 (1 g qid); Al 함유, 타 약물과 2시간 간격 <mark style="color:blue;">\[아루사루민]</mark>
+* sucralfate : 위 점막 피복; 공복에 복용 (1 g qid); Al 함유; 다른 약과 보통 2시간 이상 분리하되 levothyroxine은 최소 4시간 분리 <mark style="color:blue;">\[아루사루민]</mark>
 * misoprostol : PGE1 유사체; NSAID 관련 위병증 예방에 효과적 (100\~200 ㎍ qid); 설사·복통 흔함; 임신 금기 <mark style="color:blue;">\[싸이토텍]</mark>
-* rebamipide : 위 점막 PG 합성 촉진, 염증 억제 (100 ㎎ tid, 식후) <mark style="color:blue;">\[무코스타]</mark>
+* rebamipide : 위 점막 PG 합성 촉진, 염증 억제 (100 ㎎ tid; 위궤양에서는 아침·저녁·취침 전) <mark style="color:blue;">\[무코스타]</mark>
 * eupatilin : Artemisia asiatica 추출 항산화·항염 성분 (60 ㎎ tid 또는 90 ㎎ bid, 식후) <mark style="color:blue;">\[스티렌]</mark>, <mark style="color:blue;">\[스티렌 투엑스]</mark>
 
 #### <mark style="color:$primary;">위장관 운동 촉진제 (Prokinetics)</mark>
@@ -324,13 +307,13 @@ class K,L,R blue
 
 * 단일 '위염 처방'보다 증상 중심(phenotype-based)으로 접근하면 효율적임. 감별이 애매한 경우 우선 phenotype에 맞는 1차 약제를 선택하고 4\~6주 후 반응을 재평가
 
-<table><thead><tr><th>중심 증상</th><th>가능성 높은 진단</th><th>우선 접근</th><th>핵심 생활 교정</th></tr></thead><tbody><tr><td>타는 듯 쓰림·공복·야간 악화</td><td>Acid-related dyspepsia / 미란성 위염 / GERD</td><td>적응증에 따라 PPI 또는 P-CAB 단기간</td><td>개인 유발 음식·음주 제한; GERD 동반 시 야식 금지</td></tr><tr><td>조기 포만감</td><td>FD-PDS / 위배출 지연</td><td>운동 촉진제 단기간 고려(mosapride, itopride)</td><td>과식을 피하고 필요 시 소량 식사·저지방 식사</td></tr><tr><td>식후 팽만감·더부룩함</td><td>FD / IBS overlap</td><td>FD 치료 원칙에 따라 교육 ± 운동 촉진제</td><td>과식·탄산음료를 피하고 천천히 먹기</td></tr><tr><td>구역·메스꺼움</td><td>위배출 지연 / FD / 약물 유발</td><td>유발 원인 교정 ± 운동 촉진제·제토제</td><td>Metformin·GLP-1 수용체작용제·철분제 등 유발 약물 확인</td></tr><tr><td>NSAID 복용 후 시작</td><td>Reactive gastropathy / 미란성 위염</td><td>NSAID 중단·감량 + PPI; 매우 높은 위험이면 COX-2 억제제 + PPI 고려</td><td>자가 증량·중복 NSAID 복용 금지</td></tr><tr><td>신물·흉부 작열감·눕거나 야간 악화</td><td>GERD</td><td>PPI 또는 P-CAB(표준 용량)</td><td>야식 금지, 식후 눕지 않기, 과체중이면 체중 조절</td></tr><tr><td>스트레스 연관·증상 변동성·검사 정상</td><td>FD / Gut-brain interaction disorder</td><td>환자 교육 ± 증상 아형별 약제; 필요 시 neuromodulator</td><td>스트레스 관리, CBT, 수면·운동 습관 교정</td></tr></tbody></table>
+<table><thead><tr><th>중심 증상</th><th>가능성 높은 진단</th><th>우선 접근</th><th>핵심 생활 교정</th></tr></thead><tbody><tr><td>타는 듯 쓰림·공복·야간 악화</td><td>Acid-related dyspepsia / 미란성 위염 / GERD</td><td>적응증에 따라 PPI 또는 P-CAB 단기간</td><td>개인 유발 음식·음주 제한; GERD 동반 시 야식 금지</td></tr><tr><td>조기 포만감</td><td>FD-PDS / 위배출 지연</td><td>운동 촉진제 단기간 고려(mosapride, itopride)</td><td>과식을 피하고 필요 시 소량 식사·저지방 식사</td></tr><tr><td>식후 팽만감·더부룩함</td><td>FD / IBS overlap</td><td>FD 치료 원칙에 따라 교육 ± 운동 촉진제</td><td>과식·탄산음료를 피하고 천천히 먹기</td></tr><tr><td>구역·메스꺼움</td><td>위배출 지연 / FD / 약물 유발</td><td>유발 원인 교정 ± 운동 촉진제·제토제</td><td>Metformin·GLP-1 수용체작용제·철분제 등 유발 약물 확인</td></tr><tr><td>NSAID 복용 후 시작</td><td>Reactive gastropathy / 미란성 위염</td><td>NSAID 중단·감량 우선; 산 억제제 선택. 재투여 필요 시 활동성 궤양·출혈을 배제하고 위험도에 맞는 예방 전략 적용</td><td>자가 증량·중복 NSAID 복용 금지</td></tr><tr><td>신물·흉부 작열감·눕거나 야간 악화</td><td>GERD</td><td>PPI 또는 P-CAB(표준 용량)</td><td>야식 금지, 식후 눕지 않기, 과체중이면 체중 조절</td></tr><tr><td>스트레스 연관·증상 변동성·검사 정상</td><td>FD / Gut-brain interaction disorder</td><td>환자 교육 ± 증상 아형별 약제; 필요 시 neuromodulator</td><td>스트레스 관리, CBT, 수면·운동 습관 교정</td></tr></tbody></table>
 
 {% hint style="info" %}
 **임신부 약물 안전성** \
 FDA의 A·B·C·D·X 임신 문자등급은 폐기되었으므로 사용하지 않는다. 임신 중 위장 증상은 생활요법·제산제 등으로 시작하고, 산 억제제가 필요하면 임신 주수·중증도·개별 제제의 인체 자료를 검토하여 H2RA 또는 PPI를 선택한다.\
 Misoprostol은 자궁 수축과 유산·조산 위험 때문에 임신부 및 임신 가능성이 있으면서 적절한 피임을 하지 않는 여성의 NSAID 유발 궤양 예방 목적으로 사용하지 않는다.\
-✽ 국내 최신 허가사항의 임신·수유 위험 요약을 처방 전 확인할 것
+P-CAB은 임신·수유 중 사용이 제한되므로 임신 중 산 억제제로 일률적으로 대체하지 않는다.
 {% endhint %}
 
 ***
@@ -368,7 +351,7 @@ K29.7 상세불명의 위염
 > **처방례 2. 산 관련 증상이 주된 경증-중등도 환자 - H2RA**
 >
 > ```
-> 가스터 디 20 ㎎/T    2T  #2
+> 가스터디 20 ㎎/T    1T  qd  (취침 전)
 > ```
 >
 > _✽단기간 사용 후 반응을 재평가한다. 신기능 저하자는 용량 조정이 필요하다. 조기 포만감·식후 충만감이 주증상이면 위염 약제를 중첩하기보다 FD-PDS 치료 원칙에 따라 운동 촉진제를 선택적으로 사용한다._
@@ -376,31 +359,30 @@ K29.7 상세불명의 위염
 > **처방례 3. NSAID 관련 미란성 위염 - PPI**
 >
 > ```
-> 에소메졸 디알 서방 20 ㎎/T   1T  qd  (식전 30분)
+> 에스코텐 10 ㎎/T    1T  qd  (아침 식전)
 > ```
 >
 > _✽가능하면 원인 NSAID를 중단·감량한다. 국내 위염 진료지침은 NSAID 관련 미란성 위염에서 PPI를 조건부로 고려하며 근거 수준은 매우 낮다. 증상·병변이 호전되면 명확한 장기 적응증이 없는 한 중단을 계획한다._
 
-> **처방례 4. NSAID 불가피 복용 중 - 고위험 환자 위장 보호**
+> **처방례 4. NSAID 불가피 복용 중 - 궤양 예방이 필요한 고위험 환자**
 >
 > ```
-> (COX-2 억제제로 전환 또는 기존 NSAID 유지)
-> 에소메졸 디알 서방 20 ㎎/T   1T  qd  (식전 30분)
+> 넥시움 20 ㎎/T    1T  qd  (아침 식전) 
 > ```
 >
-> _✽궤양 출혈 기왕력 등 위장관 위험이 매우 높으면 심혈관 위험을 함께 평가하여 COX-2 억제제 + PPI를 고려한다. Aspirin + NSAID 중복 투여는 피한다. 점막보호제를 예방 목적으로 일률적으로 추가하지 않는다._
+> _✽활동성 궤양·출혈이 없는 환자의 예방 처방. NSAID 필요성과 심혈관·신장 위험을 재평가하고, 궤양 출혈 기왕력 등 위험이 매우 높으면 NSAID 회피를 우선한다. 궤양 치유 후에도 재투여가 불가피하고 금기가 없다면 COX-2 억제제 + PPI를 고려한다. 활동성 궤양·위장관 출혈에서는 celecoxib를 사용하지 않는다. 점막보호제를 예방 목적으로 일률적으로 추가하지 않는다._
 
 > **처방례 5. H. pylori 양성 - 감수성검사 불가 시 경험적 concomitant therapy 예시**
 >
 > ```
 > (10일)
-> 아목시실린 500 ㎎/T         4T  #2  (식후)
-> 클래리스로마이신 500 ㎎/T    2T  #2  (식후)
-> 메트로니다졸 250 ㎎/T        4T  #2  (식후)
-> 에소메졸 디알 서방 20 ㎎/T   2T  #2  (식전 30분)
+> 아목시실린 500 ㎎/T        2T  bid  (식후)
+> 클래리트로마이신 500 ㎎/T   1T  bid  (식후)
+> 메트로니다졸 250 ㎎/T       2T  bid  (식후)
+> 넥시움 20 ㎎/T            1T  bid  (아침·저녁 식전)
 > ```
 >
-> _✽2025 개정 국내 지침은 clarithromycin 감수성검사 기반 맞춤치료를 우선 권고한다. 경험적 clarithromycin 3제요법은 감수성검사가 불가능하고 지역 내성률이 15% 미만으로 예상되는 제한적인 경우에만 고려한다. Bismuth 4제요법은 1차 경험치료로 사용할 수 있으나 이상반응과 구제요법 선택을 고려한다. Levofloxacin 요법은 감수성 또는 이전 fluoroquinolone 노출을 검토한 제한적 구제요법이다. 상세 요법은_ ☞ [_헬리코박터_](080_-helicobacter-pylori-infection.md) _챕터 참조. 모든 환자에서 치료 종료 4주 이후 UBT 또는 SAT로 제균을 확인한다._
+> _✽2025 개정 국내 지침은 clarithromycin 감수성검사 기반 맞춤치료를 우선 권고한다. 경험적 clarithromycin 3제요법은 감수성검사가 불가능하고 지역 내성률이 15% 미만으로 예상되는 제한적인 경우에만 고려한다. Bismuth 4제요법은 1차 경험치료로 사용할 수 있으나 이상반응과 구제요법 선택을 고려한다. 순차요법은 개정 지침의 권고 선택지에서 제외되었다. Levofloxacin 요법은 감수성과 이전 fluoroquinolone 노출을 검토한 제한적 구제요법이다. 상세 요법은_ ☞ [_헬리코박터_](080_-helicobacter-pylori-infection.md) _챕터 참조. 모든 환자에서 치료 종료 최소 4주 후, PPI/P-CAB 2주 및 항생제·bismuth 4주 이상 중단 조건을 충족하여 UBT 또는 SAT로 제균을 확인한다. 메트로니다졸 복용 중 및 종료 후 3일간 금주한다._
 
 ***
 
@@ -409,7 +391,7 @@ K29.7 상세불명의 위염
 > **제산제(알마겔 등) 복약 안내**
 >
 > * 식후 1시간 또는 속쓰림 증상이 있을 때 복용하십시오.
-> * 다른 약(항생제, 철분제, 갑상선 약 등)과는 **2시간 간격**을 두고 복용하십시오. 위 점막에 달라붙어 다른 약의 흡수를 방해할 수 있습니다.
+> * 다른 약의 흡수를 방해할 수 있어 보통 **2시간 이상** 간격을 두지만, 약 종류에 따라 더 길게 띄워야 합니다. 갑상선호르몬제(레보티록신)는 **최소 4시간** 간격을 두십시오.
 > * 신장 기능이 나쁜 경우 장기 복용은 피하고 의사에게 알리십시오.
 
 > **H2 차단제(가스터 등) 복약 안내**
@@ -427,8 +409,8 @@ K29.7 상세불명의 위염
 
 > **점막 보호제 복약 안내**
 >
-> * 무코스타(rebamipide)는 **식후** 복용, 아루사루민(sucralfate)은 **공복(식전 1시간 또는 식후 2시간)** 복용입니다. 복용 시점을 구분해 주십시오.
-> * 아루사루민은 다른 약물 흡수를 방해하므로 다른 약과 2시간 간격을 두십시오.
+> * 무코스타(rebamipide)는 처방된 횟수대로 복용하며 반드시 식후여야 하는 것은 아닙니다. 위궤양에서는 아침·저녁·취침 전 복용하도록 처방할 수 있습니다. 아루사루민(sucralfate)은 **공복(식전 1시간 또는 식후 2시간)**에 복용합니다.
+> * 아루사루민은 다른 약 흡수를 방해할 수 있어 보통 2시간 이상 분리합니다. 갑상선호르몬제(레보티록신)는 최소 4시간 분리하고, 다른 약도 안내받은 간격을 따르십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -444,7 +426,7 @@ K29.7 상세불명의 위염
 {% hint style="info" %}
 **위염, 제대로 알고 관리합시다**
 
-위염은 위 점막에 염증이 생긴 상태입니다. 상복부 불편감·쓰림·구역 등 다양한 증상이 나타날 수 있지만, 비슷한 증상을 일으키는 다른 원인도 매우 많습니다. **위염은 증상만으로 진단되지 않으며, 내시경이나 검사 결과가 필요합니다.** 정확한 진단과 원인 교정, 생활 습관 개선이 치료의 핵심입니다.
+위염은 위 점막에 염증이 생긴 상태입니다. 상복부 불편감·쓰림·구역 등 다양한 증상이 나타날 수 있지만, 비슷한 증상을 일으키는 다른 원인도 매우 많습니다. **위염은 증상만으로 진단되지 않으며, 필요한 경우 내시경과 조직검사 등으로 원인을 확인합니다.** 정확한 진단과 원인 교정, 생활 습관 개선이 치료의 핵심입니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">왜 위염이 생기나요?</mark>
@@ -483,3 +465,47 @@ K29.7 상세불명의 위염
 {% hint style="info" %}
 **위 내시경 검진 안내**: 만 40세 이상은 국가암검진에서 2년마다 위내시경 또는 위장조영검사 대상입니다. 본인부담 여부는 보험·소득·대상 조건에 따라 다를 수 있습니다. 검진은 위축성 위염·장상피화생 같은 위암 위험 병변과 조기 위암을 발견하는 데 도움이 됩니다.
 {% endhint %}
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:$primary;">임상 근거</mark>
+
+* Clinical Practice Guideline for Gastritis in Korea. J Korean Med Sci. 2023;38:e115. — 위염의 진단, H. pylori 제균, 위축·장상피화생 및 미란성 위염 약물 치료.
+
+[https://doi.org/10.3346/jkms.2023.38.e115](https://doi.org/10.3346/jkms.2023.38.e115)
+
+* Bang CS, et al. Evidence-Based Guidelines for the Diagnosis and Treatment of Helicobacter pylori Infection in Korea: 2025 Revised Edition. Korean J Gastroenterol. 2026;86:156–192. — 위염의 제균 적응증 확대, 감수성 기반 치료 및 경험적 요법 선택.
+
+[https://doi.org/10.4166/kjg.2026.040](https://doi.org/10.4166/kjg.2026.040)
+
+* Dinis-Ribeiro M, et al. MAPS III: Guideline update 2025. — 위암 전구병변 및 자가면역 위염의 위험도별 감시.
+
+[https://doi.org/10.1055/a-2529-5025](https://doi.org/10.1055/a-2529-5025)
+
+* Leung WK, et al. APAGE task force recommendations on surveillance for H. pylori associated gastric premalignant conditions. Gut. 2026;75:685–704; online 2025. — 아시아의 OLGA/OLGIM 병기별 내시경 감시.
+
+[https://doi.org/10.1136/gutjnl-2025-335823](https://doi.org/10.1136/gutjnl-2025-335823)
+
+* AGA Clinical Practice Update on the Diagnosis and Management of Atrophic Gastritis. 2021. — 자가면역 위염, 철·B12 결핍 및 Type 1 위 신경내분비종양 추적.
+
+[https://gastro.org/clinical-guidance/diagnosis-and-management-of-atrophic-gastritis/](https://gastro.org/clinical-guidance/diagnosis-and-management-of-atrophic-gastritis/)
+
+* Toyoshima O, et al. Endoscopy-based Kyoto classification score of gastritis related to pathological topography of neutrophil activity. World J Gastroenterol. 2020;26:5146–5155. — Kyoto 점수의 구성과 조직학적 염증의 관계.
+
+[https://doi.org/10.3748/wjg.v26.i34.5146](https://doi.org/10.3748/wjg.v26.i34.5146)
+
+* SCCM/ASHP. Guideline for the Prevention of Stress-Related Gastrointestinal Bleeding in Critically Ill Adults. 2024. — 중환자의 예방 적응증 및 중단 원칙.
+
+[https://doi.org/10.1097/CCM.0000000000006330](https://doi.org/10.1097/CCM.0000000000006330)
+
+### <mark style="color:$primary;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. 국내 제품별 적응증·용법·금기 및 허가 상태 확인 자료.
+
+[https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 건강보험심사평가원. 약제급여기준 및 약제급여목록·급여상한금액표. 국내 약제별 급여 적용 범위 확인 자료.
+
+[https://www.hira.or.kr](https://www.hira.or.kr)
