@@ -2,14 +2,15 @@
 
 ## <mark style="color:green;">초기 평가</mark>
 
+* 성인 중심의 초기 진단 접근이며 소아에서는 연령별 활력징후·기침 기간·중증도 기준을 별도로 적용; 아래의 RR ≥ 30회/분 및 성인 폐렴 점수는 소아에 그대로 적용하지 않음
 * 호흡기 증상을 주소로 내원한 환자는 먼저 '불안정 vs. 안정'을 판단한 뒤 증상 기반 진단 접근을 시작
 * 급성 호흡 곤란·흉통·중증 의심 시에는 SpO₂·호흡수(RR)·활력징후·의식 수준·호흡노력을 즉시 확인하고, 심장 원인이 배제되지 않은 경우 ECG를 추가 (☞ [흉통](../220_/002_-chest-pain.md), [호흡곤란](../220_/007_-dyspnea.md))
 * 병력에서는 증상의 발생 속도와 경과, 흡연·전자담배, 직업·환경 노출, 감염 접촉·여행, 흡인 위험, 약물(ACEi·β차단제·진정제 등), 면역억제, 심폐질환 및 혈전색전증 위험 인자를 확인
 * 정상 SpO₂나 정상 청진 소견만으로 폐색전증·초기 폐렴·상기도 병변·빈혈·대사성 산증 등 중증 원인을 배제하지 않음
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 처치 또는 이송**</mark>
+<mark style="color:$danger;">**Tier 1 - 즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
 
 * 혈역학적 불안정 또는 심한 호흡부전 + 편측 호흡음 현저한 감소/소실 → 긴장성 기흉 임상적 의심; 영상 때문에 처치를 지연하지 않고 숙련된 의료진이 즉시 감압 후 흉관 삽입
 * 한 단어 말하기 어려움, silent/quiet chest, 청색증, 역설 호흡, 심한 보조호흡근 사용, tripod 자세, 의식 저하·혼돈 → 즉각 처치 및 이송 (임박한 호흡부전)
@@ -17,7 +18,7 @@
 * 신발생 stridor + 호흡 곤란·저산소증·침 흘림·의식 변화 또는 anaphylaxis 의심 → 즉각 기도 평가 및 처치; anaphylaxis이면 IM epinephrine 우선
 * 생명위협 객혈 - 기도 유지 곤란, 저산소증, 혈역학적 불안정 또는 지속적 다량 출혈 → 출혈량 수치보다 생리적 영향에 따라 즉각 이송
 
-<mark style="color:$warning;">**당일 긴급 평가**</mark>
+<mark style="color:$warning;">**Tier 2 - 당일 평가**</mark>
 
 * RR ≥ 30회/분 또는 지속적인 빈호흡 + 보조호흡근 사용·호흡근 피로 → 산소화·환기 및 원인 평가; 필요 시 ABGA/VBGA
 * PaCO₂ 상승 + pH ＜ 7.35 → 급성 또는 급성-만성 고탄산혈증성 호흡부전 평가; 의식·기도 보호·호흡노력·원인과 초기 치료 반응에 따라 NIV/침습 환기 판단
@@ -28,9 +29,10 @@
 * 고령·면역억제 환자에서 빠르게 진행하는 폐렴 또는 전신 상태 악화
 * 호흡곤란 없이 발생한 신발생 stridor도 상기도 폐쇄 가능성을 고려하여 긴급 평가
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> - <mark style="color:$info;">즉각 위험은 낮으나 원인 평가 필요</mark>
+<mark style="color:$info;">**Tier 3 - 조기 평가 및 추적**</mark> - <mark style="color:$info;">즉각 위험은 낮으나 원인 평가 필요</mark>
 
-* 8주 이상 지속하는 만성 기침 → 흉부 X선 + spirometry(가능하면 기관지확장제 반응); 이용 가능하면 FeNO·말초혈액 호산구 고려
+* 성인에서 8주 이상 지속하는 만성 기침 → 흉부 X선 + spirometry(가능하면 기관지확장제 반응); 이용 가능하면 FeNO·말초혈액 호산구 고려
+* 소아에서 4주를 넘는 기침 → 소아 만성 기침으로 원인 평가; 흉부 X선과 시행 가능한 연령에서 spirometry를 고려하고, 지속적 습성 기침·이물 흡인 등 소아 원인을 감별 <mark style="color:$info;">[ERS 2020]</mark>
 * 안정 상태에서 경계 또는 경도 SpO₂ 저하가 반복되나 즉각 위험이 낮음 → 환자의 평소 수치·기저 질환을 확인하고 필요 시 운동·야간 저산소증 및 ABGA 평가
 * 새로 발견된 곤봉지(clubbing) → 폐암·기관지확장증·간질성 폐질환·농흉 등 원인 평가
 
@@ -56,7 +58,7 @@
 * 앉거나 설 때 호흡 곤란과 SpO₂ 감소(platypnea-orthodeoxia) → 간폐증후군, 폐동정맥기형, 체위에 따라 증가하는 심방중격결손/난원공개존의 우-좌 단락 → 조영 심초음파 등 평가
 * Kussmaul 호흡(깊고 규칙적인 과호흡) → DKA, 요독증 등 대사성 산증 - 호흡기 질환 없이 발생 가능
 
-<table><thead><tr><th width="130.4285888671875">주 증상</th><th>주요 감별 질환</th><th>초기 감별 포인트</th></tr></thead><tbody><tr><td><a href="../220_/007_-dyspnea.md">호흡 곤란</a><br>(dyspnea)</td><td>천식, COPD, 폐색전증, 심부전, 폐렴, 기흉, 빈혈·대사성 산증</td><td>발생 속도, 호흡노력, 체위·운동 영향, SpO₂, 흉통·부종·DVT 징후</td></tr><tr><td><a href="../220_/006_-cough.md">기침</a><br>(cough)</td><td>급성: 감기·기관지염·폐렴<br>만성: 천식·호산구성 기도질환·GERD·상기도 질환·ACEi</td><td>기간(&#x3C; 3주 / 3~8주 / ＞ 8주), 야간·운동·직업 노출, 흡연·약물</td></tr><tr><td>혈담·객혈<br>(hemoptysis)</td><td>기관지확장증, 결핵·감염, 폐암, 폐색전증</td><td>진성 객혈 여부, 기도·산소화·혈역학 영향, 항응고제, 감염·암 위험</td></tr><tr><td><a href="../220_/002_-chest-pain.md">흉통 </a>+<br>호흡 악화</td><td>폐색전증, 기흉, 폐렴·흉막염, ACS, 대동맥질환, 심낭염</td><td>흉막성 여부만으로 양분하지 말고 발생 속도, 활력징후, ECG·troponin, PE 위험 평가</td></tr><tr><td>Stridor</td><td>후두·성문 질환, 이물, anaphylaxis, 성문하 협착, 크룹</td><td>발생 속도, 흡기성/양상성, 음성 변화·침 흘림·알레르기·호흡곤란</td></tr><tr><td>비정상<br>호흡 패턴</td><td>Kussmaul(DKA·요독증), Cheyne-Stokes(심부전·CNS), 역설 호흡(호흡근 피로)</td><td>혈액가스·대사 지표, 의식 수준, 심기능·신경계 확인</td></tr></tbody></table>
+<table><thead><tr><th width="130.4285888671875">주 증상</th><th>주요 감별 질환</th><th>초기 감별 포인트</th></tr></thead><tbody><tr><td><a href="../220_/007_-dyspnea.md">호흡 곤란</a><br>(dyspnea)</td><td>천식, COPD, 폐색전증, 심부전, 폐렴, 기흉, 빈혈·대사성 산증</td><td>발생 속도, 호흡노력, 체위·운동 영향, SpO₂, 흉통·부종·DVT 징후</td></tr><tr><td><a href="../220_/006_-cough.md">기침</a><br>(cough)</td><td>급성: 감기·기관지염·폐렴<br>만성: 천식·호산구성 기도질환·GERD·상기도 질환·ACEi</td><td>성인: 급성 &#x3C;3주, 아급성 3~8주, 만성 ≥8주<br>소아: 4주 초과 시 만성 기침 평가<br>야간·운동·직업 노출, 흡연·약물</td></tr><tr><td>혈담·객혈<br>(hemoptysis)</td><td>기관지확장증, 결핵·감염, 폐암, 폐색전증</td><td>진성 객혈 여부, 기도·산소화·혈역학 영향, 항응고제, 감염·암 위험</td></tr><tr><td><a href="../220_/002_-chest-pain.md">흉통 </a>+<br>호흡 악화</td><td>폐색전증, 기흉, 폐렴·흉막염, ACS, 대동맥질환, 심낭염</td><td>흉막성 여부만으로 양분하지 말고 발생 속도, 활력징후, ECG·troponin, PE 위험 평가</td></tr><tr><td>Stridor</td><td>후두·성문 질환, 이물, anaphylaxis, 성문하 협착, 크룹</td><td>발생 속도, 흡기성/양상성, 음성 변화·침 흘림·알레르기·호흡곤란</td></tr><tr><td>비정상<br>호흡 패턴</td><td>Kussmaul(DKA·요독증), Cheyne-Stokes(심부전·CNS), 역설 호흡(호흡근 피로)</td><td>혈액가스·대사 지표, 의식 수준, 심기능·신경계 확인</td></tr></tbody></table>
 
 {% hint style="info" %}
 **Kussmaul 호흡** : 깊고 규칙적인 과호흡. 대사성 산증(특히 DKA, 요독증)에서 PaCO₂를 낮춰 pH를 보상하는 생리적 반응. 호흡기 소견 없이 빈호흡이 있을 때는 혈당·전해질·신기능과 혈액가스를 확인
@@ -81,7 +83,7 @@
 
 ## <mark style="color:green;">1차 영상 및 검사</mark>
 
-<table><thead><tr><th width="210">검사</th><th>적응증 및 해석 포인트</th></tr></thead><tbody><tr><td>ECG (심전도)</td><td>급성 호흡 곤란·흉통·빈맥 등에서 부정맥, 허혈, 우심부하 등 평가. Sinus tachycardia나 S₁Q₃T₃는 PE의 비특이적 보조 소견이며 정상 ECG로 PE·ACS를 배제할 수 없음</td></tr><tr><td>흉부 X선</td><td>폐렴·기흉·흉막삼출·폐부종 등 의심 시 기본 영상. 정상 CXR로 폐색전증을 배제할 수 없으며, 정상 CXR에도 폐렴 임상 의심이 높으면 추가 영상 고려</td></tr><tr><td>Spirometry<br>± 기관지확장제 반응</td><td>안정기 기류제한의 객관적 평가. 천식은 가변적 증상 + 가변적 호기 기류를 확인하고, COPD는 기관지확장제 후 FEV₁/FVC ＜ 0.7의 지속 기류제한을 확인. 급성 중증 호흡곤란에서 강제호기검사로 처치·이송을 지연하지 않음</td></tr><tr><td>ABGA/VBGA</td><td>SpO₂-임상 불일치, 저산소증·환기부전, 산염기 이상 평가. 산소화의 정확한 평가는 ABGA가 필요하며 VBG는 pH·PaCO₂ 선별에 활용 가능</td></tr><tr><td>CBC + CRP / PCT</td><td>감염·염증 및 빈혈의 보조 평가. 단일 CRP/PCT 수치로 세균성·바이러스성 폐렴을 확진·배제하거나 영상으로 확인된 CAP의 초기 항균제 필요성을 결정하지 않음</td></tr><tr><td>D-dimer</td><td>PE 사전확률이 낮거나 중간인 환자에서 배제 목적으로 사용; 50세 이상은 연령보정 절단값 고려. 높은 사전확률에서는 D-dimer보다 즉시 적절한 영상검사</td></tr><tr><td>BNP / NT-proBNP</td><td>심장성 호흡 곤란 감별의 보조 검사. 급성과 비급성 절단값이 다르며 비만·HFpEF·심방세동·연령·신기능을 함께 고려</td></tr><tr><td>High-sensitivity cardiac troponin</td><td>ACS 의심 시 증상 발생 시점과 serial change를 포함하여 해석. PE에서는 심근 손상·위험도 평가에 보조적으로 사용</td></tr><tr><td>CURB-65 / PSI</td><td>진단된 지역사회획득폐렴의 중증도·치료 장소 결정을 돕는 보조도구이며 폐렴 진단검사가 아님 (☞ <a href="068_-pneumonia.md#undefined-5">폐렴</a>)</td></tr></tbody></table>
+<table><thead><tr><th width="210">검사</th><th>적응증 및 해석 포인트</th></tr></thead><tbody><tr><td>ECG (심전도)</td><td>급성 호흡 곤란·흉통·빈맥 등에서 부정맥, 허혈, 우심부하 등 평가. Sinus tachycardia나 S₁Q₃T₃는 PE의 비특이적 보조 소견이며 정상 ECG로 PE·ACS를 배제할 수 없음</td></tr><tr><td>흉부 X선</td><td>폐렴·기흉·흉막삼출·폐부종 등 의심 시 기본 영상. 정상 CXR로 폐색전증을 배제할 수 없으며, 정상 CXR에도 폐렴 임상 의심이 높으면 추가 영상 고려</td></tr><tr><td>Spirometry<br>± 기관지확장제 반응</td><td>안정기 기류제한의 객관적 평가. 천식은 가변적 증상 + 가변적 호기 기류를 확인하고, COPD는 기관지확장제 후 FEV₁/FVC ＜ 0.7의 지속 기류제한을 확인. 급성 중증 호흡곤란에서 강제호기검사로 처치·이송을 지연하지 않음</td></tr><tr><td>ABGA/VBGA</td><td>SpO₂-임상 불일치, 저산소증·환기부전, 산염기 이상 평가. VBG는 pH·HCO₃⁻ 평가 및 정맥혈 PCO₂(PvCO₂)를 이용한 고탄산혈증 선별에 활용 가능. PvCO₂를 PaCO₂와 동일하게 해석하지 않으며, 정확한 PaCO₂·PaO₂ 평가가 필요하면 ABGA 시행</td></tr><tr><td>CBC + CRP / PCT</td><td>감염·염증 및 빈혈의 보조 평가. 단일 CRP/PCT 수치로 세균성·바이러스성 폐렴을 확진·배제하거나 영상으로 확인된 CAP의 초기 항균제 필요성을 결정하지 않음</td></tr><tr><td>D-dimer</td><td>PE 사전확률이 낮거나 중간인 환자에서 배제 목적으로 사용; 50세 이상은 연령보정 절단값 고려. 높은 사전확률에서는 D-dimer보다 즉시 적절한 영상검사</td></tr><tr><td>BNP / NT-proBNP</td><td>심장성 호흡 곤란 감별의 보조 검사. 급성과 비급성 절단값이 다르며 비만·HFpEF·심방세동·연령·신기능을 함께 고려</td></tr><tr><td>High-sensitivity cardiac troponin</td><td>ACS 의심 시 증상 발생 시점과 serial change를 포함하여 해석. PE에서는 심근 손상·위험도 평가에 보조적으로 사용</td></tr><tr><td>CRB-65 / CURB-65 / PSI</td><td>성인 지역사회획득폐렴의 중증도·치료 장소 결정을 돕는 보조도구이며 폐렴 진단검사가 아님. BUN 측정이 어려운 일차진료에서는 CRB-65 활용 가능; 소아에는 적용하지 않음 (☞ <a href="068_-pneumonia.md#undefined-5">폐렴</a>)</td></tr></tbody></table>
 
 {% hint style="info" %}
 **6분보행검사 (6MWT)** : 초기 진단보다 안정기 기능 평가·치료 반응·운동 시 산소화 평가에 주로 사용. 보행거리와 SpO₂ 변화는 COPD·ILD·폐고혈압·심부전 등 질환과 검사 목적에 따라 해석하며, 단일 거리 또는 탈포화 절단값을 모든 질환의 보편적 예후 기준으로 사용하지 않음
@@ -97,7 +99,8 @@
 #### <mark style="color:$primary;">Pulse Oximetry (SpO₂)</mark>
 
 * SpO₂는 증상·호흡수·호흡노력·의식·기저 수치 및 경과와 함께 해석하고, 저관류·움직임·센서 위치·손발톱 도료 등 측정 오류를 먼저 확인
-* 대부분의 급성 환자에서는 산소가 필요하면 SpO₂ 94~98%를 목표로 적정하되, 급성 고탄산혈증성 호흡부전 위험이 있으면 ABGA 결과가 확인될 때까지 88~92%를 목표로 조절 산소 투여
+* 대부분의 성인 급성 환자는 산소가 필요하면 SpO₂ 94~98%를 목표로 적정. 단, 알려진 COPD 또는 고탄산혈증성 호흡부전 위험이 있으면 혈액가스 확인 전 88~92%를 목표로 조절 산소 투여 <mark style="color:$info;">[BTS 2017]</mark>
+* 급성 천식(성인·청소년 및 6~11세 소아)은 산소가 필요하면 SpO₂ 92~95%를 목표로 적정; 일반 급성 환자의 목표 범위를 일률적으로 적용하지 않음 <mark style="color:$info;">[GINA 2026]</mark>
 * 안정 상태에서 반복 확인된 SpO₂ ≤ 88% 또는 PaO₂ ≤ 55 ㎜Hg는 장기산소요법 평가 기준에 해당할 수 있음. 급성 악화 중 한 번 측정한 값만으로 결정하지 않고 안정 후 재평가
 
 {% hint style="danger" %}
@@ -107,13 +110,13 @@
 
 **측정의 한계** : 말초 순환 저하, 움직임, 센서 부착 불량, 손발톱 도료 등은 측정 오차를 일으킬 수 있음. CO 중독에서는 SpO₂가 정상 또는 높게 보일 수 있으므로 의심하면 co-oximetry가 필요. 빈혈에서는 SpO₂가 정상이어도 혈중 산소 함량과 조직 산소 전달이 부족할 수 있음
 
-**고탄산혈증 위험 환자의 산소 투여** : 모든 COPD 환자에게 일률적으로 88~92%를 적용하는 것이 아니라 과거 고탄산혈증성 호흡부전, 중증 COPD, 비만저환기증후군, 신경근육·흉벽 질환 등 위험을 고려. 과도한 산소는 주로 V/Q 불균형 악화와 Haldane effect 등을 통해 PaCO₂를 상승시킬 수 있으므로 산소를 보류하지 말고 조절 투여 후 혈액가스를 재평가
+**고탄산혈증 위험 환자의 산소 투여** : 급성 환자에서 COPD가 알려져 있거나 비만저환기증후군·신경근육·흉벽 질환 등 위험이 있으면 과거 고탄산혈증 확인 여부와 무관하게 혈액가스 결과 전에는 대체로 88~92%를 목표로 조절 산소 투여. 이후 pH·PaCO₂가 정상이고 과거 고탄산혈증성 호흡부전 및 낮은 평소 SpO₂가 없으면 94~98%로 조정할 수 있으며, 산소 조정 후 30~60분 내 혈액가스 재평가. 과도한 산소는 주로 V/Q 불균형 악화와 Haldane effect 등을 통해 PaCO₂를 상승시킬 수 있으나, 저산소증 환자에게 산소를 보류하지 않음 <mark style="color:$info;">[BTS 2017]</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">POCUS (Point-of-Care Ultrasound)</mark>
 
 * 급성 호흡 곤란에서 흉부 X선·CT와 상호 보완적으로 사용하며 검사자 숙련도와 임상 맥락이 중요
-* 2025 ATS CAP 지침은 적절한 임상 숙련도가 있는 의료기관에서 성인 의심 CAP 진단에 lung ultrasound를 흉부 X선의 허용 가능한 대안으로 조건부 권고
+* 2025 ATS CAP 지침은 적절한 임상 숙련도가 있는 의료기관에서 성인 의심 CAP 진단에 lung ultrasound를 흉부 X선의 허용 가능한 대안으로 조건부 권고 <mark style="color:$info;">[ATS CAP 2025]</mark>
 
 <table><thead><tr><th width="201">POCUS 소견</th><th width="190">의미</th><th>대표 질환·주의점</th></tr></thead><tbody><tr><td>A-line<br>(수평 반향선)</td><td>검사 부위의 폐 aeration이 보존된 패턴</td><td>정상, 천식, COPD뿐 아니라 기흉에서도 가능; lung sliding 등과 통합</td></tr><tr><td>다발성 B-line<br>(수직 artifact)</td><td>Interstitial syndrome</td><td>심인성 폐부종, ILD, ARDS, 폐렴 등; 개수만이 아니라 양측성·분포·흉막선·심장 소견 평가</td></tr><tr><td>Lung sliding 소실</td><td>기흉 가능성을 높이는 소견 중 하나</td><td>단독 확진 소견 아님 - 무기폐, 주기관지 삽관, 흉막유착, 중증 폐질환 등에서도 소실 가능</td></tr><tr><td>Lung point</td><td>전형적인 경우 기흉에 매우 특이적</td><td>Pseudo-lung point에 주의하며, lung point가 없다고 기흉을 배제할 수 없음</td></tr><tr><td>Consolidation +<br>air bronchogram</td><td>폐실질 경화</td><td>Dynamic air bronchogram은 폐렴을, static air bronchogram·lung pulse는 무기폐를 더 지지</td></tr><tr><td>흉막액</td><td>무에코 또는 복합성 흉막강 액체</td><td>흉막삼출·농흉·혈흉; 양·격벽·주변 폐실질과 안전한 천자 위치 평가</td></tr></tbody></table>
 
@@ -138,8 +141,8 @@ graph TD
     B -->|안정| D["주 증상 + 발생 속도<br/>위험 인자 분류"]
 
     D -->|호흡 곤란| E["☞ 호흡 곤란 챕터<br/>심장·폐·혈관·대사 원인"]
-    D -->|"기침 ＜ 8주"| F["급성·아급성 기침<br/>Red flag·폐렴 가능성에 따라<br/>선별적 CXR·검사"]
-    D -->|"기침 ≥ 8주"| G["만성 기침<br/>CXR + spirometry<br/>± FeNO·호산구"]
+    D -->|"성인 기침 ＜8주"| F["급성·아급성 기침<br/>Red flag·폐렴 가능성에 따라<br/>선별적 CXR·검사"]
+    D -->|"성인 ≥8주 또는 소아 ＞4주"| G["만성 기침 원인 평가<br/>CXR + 시행 가능한 spirometry<br/>성인: ± FeNO·호산구"]
     D -->|객혈| H["진성 객혈·중증도 확인<br/>CXR → 적응증에 따라<br/>조영 CT/CTA·결핵 검사"]
     D -->|흉통| I["ACS·PE·대동맥질환<br/>기흉·폐렴/흉막염 감별"]
     D -->|stridor| J["상기도 폐쇄 평가<br/>anaphylaxis이면<br/>IM epinephrine 우선"]
@@ -175,5 +178,46 @@ class E,J,K,L peach
 4. 정상 흉부 X선·ECG로 폐색전증 배제 → 사전확률에 따라 PERC·D-dimer·CTPA/V-Q scan 적용
 5. PCT ＞ 0.25 ng/㎖를 세균성 폐렴 확진 기준으로 사용 → 임상·영상·미생물검사와 통합하고 단일 수치로 항균제 결정을 하지 않음
 6. 폐렴과 무기폐를 기관 편위만으로 구분 → 편위는 유의한 용적 감소 때만 나타날 수 있으며 기관지 개방성·영상·dynamic air bronchogram 등을 함께 평가
-7. 모든 COPD 환자에게 산소를 제한 → 저산소증은 즉시 교정하되 고탄산혈증 위험에 따라 목표 범위를 정하고 혈액가스를 재평가
+7. COPD 환자에게 산소를 보류하거나 혈액가스 확인 전부터 고농도 산소를 무조절 투여 → 저산소증은 즉시 교정하되 초기 목표 88~92%로 조절하고 혈액가스·과거력에 따라 목표를 조정
 8. 정상 청진으로 중증 호흡기 질환 배제 → PE·초기 폐렴·상기도 병변·천식의 silent chest 등에서는 청진이 정상 또는 미미할 수 있음
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* GINA. Global Strategy for Asthma Management and Prevention / Summary Guide. 2026. — 급성 천식의 중증도 평가, PEF 구간 및 산소 목표
+
+  https://ginasthma.org/2026-gina-summary-guide/
+
+* BTS. Guideline for oxygen use in adults in healthcare and emergency settings. 2017. — 성인 급성 환자와 고탄산혈증 위험 환자의 산소 목표·혈액가스 재평가
+
+  https://doi.org/10.1136/thoraxjnl-2016-209729
+
+* ATS. Diagnosis and Management of Community-acquired Pneumonia: An Official American Thoracic Society Clinical Practice Guideline. 2025. — 적절한 숙련도가 있는 환경에서 폐초음파를 흉부 X선의 진단 대안으로 조건부 권고
+
+  https://doi.org/10.1164/rccm.202507-1692ST
+
+* NICE. Pneumonia: diagnosis and management. NG250. 2025. — 성인 폐렴의 임상 평가, 영상 및 CRB-65·CURB-65 활용
+
+  https://www.nice.org.uk/guidance/ng250
+
+* ERS. Guidelines on the diagnosis and treatment of chronic cough in adults and children. 2020. — 성인·소아 만성 기침의 기간 기준과 초기 검사
+
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/
+
+* Venous vs arterial blood gases in the assessment of patients presenting with an exacerbation of chronic obstructive pulmonary disease. 2012. — 정맥혈 PCO₂를 이용한 고탄산혈증 선별과 동맥혈 수치 대체의 한계
+
+  https://pubmed.ncbi.nlm.nih.gov/21908141/
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 국내 의약품의 품목허가정보, 적응증·용법·금기 및 안전성 정보
+
+  https://nedrug.mfds.go.kr/index
+
+* 건강보험심사평가원. 약제 급여기준 및 급여목록 — 국내 약제의 급여 적용 및 인정 기준
+
+  https://www.hira.or.kr
