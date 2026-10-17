@@ -14,7 +14,7 @@
 * 직업성 분진·흄·화학물질 : 광업, 용접, 목공, 섬유·건설업 등
 * 소아기 중증 호흡기 감염 및 폐 성장 저하 병력
 * 천식, 기관지확장증, 위식도 역류 등 만성 기침·객담을 유발하거나 악화시키는 질환
-* α₁-antitrypsin 결핍은 만성 기관지염 자체보다 조기 발생 폐기종·COPD의 위험 인자이므로, 젊은 COPD·비흡연 COPD·기저부 우세 폐기종·가족력에서 평가
+* α₁-antitrypsin 결핍은 폐기종·COPD의 위험 인자; COPD가 확인되면 연령·흡연력과 무관하게 일회 선별검사를 고려하며, 젊은 발병·비흡연·기저부 우세 폐기종·가족력이 있으면 특히 적극 평가. 순수 비폐쇄성 만성 기관지염 모두에 일률 적용하는 검사는 아님 <mark style="color:$info;">[Alpha-1 Foundation 2016]</mark>
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -29,9 +29,9 @@
 * 고전적 Anthonisen 3대 증상은 호흡 곤란 증가, 객담량 증가, 객담 농성 증가이며, 급성 악화의 확진기준이라기보다 항생제 필요성 판단에 참고
 * ECOPD 중증도는 투여한 약제나 입원 여부만으로 분류하지 않고 호흡 곤란 정도, 호흡수, 심박수, SaO₂, 의식상태와 필요 시 CRP·동맥혈 가스 분석을 종합하여 평가
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 이송**</mark>
+<mark style="color:$danger;">**Tier 1 - 즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
 
 * 새로 발생한 안정 시 심한 호흡 곤란, 문장 단위 대화 불가, 청색증
 * SpO₂의 급격한 저하 또는 안정 시 ＜ 88% — 단, 환자의 평소 수치와 산소치료 여부를 함께 판단
@@ -41,17 +41,19 @@
 * 다량 객혈 또는 객혈과 호흡 곤란·저산소증·혈역학적 이상 동반
 * 동맥혈 가스 분석상 급성 호흡성 산증 또는 환기부전
 
-<mark style="color:$warning;">**당일 긴급 평가 또는 조기 의뢰**</mark>
+<mark style="color:$warning;">**Tier 2 - 당일~수일 내 평가**</mark>
 
-* 안정 시 호흡 곤란, 호흡수·심박수의 뚜렷한 증가, 지속되는 고열
+* 새로 발생하거나 평소보다 악화된 안정 시 호흡 곤란, 호흡수·심박수의 뚜렷한 증가, 지속되는 고열 → 당일 평가
+* SpO₂가 평소보다 새로 감소하거나 호흡 곤란이 악화되면 88% 이상이어도 당일 평가; 반복 측정·평소 수치·산소치료 여부와 함께 판단
 * 흉통, 편측 호흡음 감소 — 폐렴·기흉·폐색전증·급성 심장질환 감별
 * 새로 발생한 소량 객혈, 원인 불명의 체중 감소·야간 발한
 * 중증 COPD 또는 재택 산소치료 환자에서 평소보다 뚜렷한 증상 악화
 * 초기 치료 48～72시간 후에도 호전이 없거나 악화
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험은 낮으나 원인 평가 필요</mark>
+<mark style="color:$info;">**Tier 3 - 조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험은 낮으나 원인 평가 필요</mark>
 
-* 연간 중등도 이상 호흡기 악화가 반복되거나 입원을 요한 악화 병력
+* COPD 동반 환자는 최근 1년 중등도 이상 악화가 한 번이라도 있으면 흡입법·순응도·유지치료와 악화 예방 전략을 재평가 <mark style="color:$info;">[GOLD 2026]</mark>
+* COPD가 확인되지 않았는데 호흡기 증상 악화가 반복되면 천식·기관지확장증 등 다른 원인을 평가
 * 진행하는 운동 시 호흡 곤란, 산소포화도 저하 또는 기류 제한 의심
 * 금연이 어렵거나 직업·환경 노출이 지속됨
 * 만성 다량 농성 객담 또는 반복 폐렴 — 기관지확장증 평가
@@ -87,15 +89,15 @@ graph TD
     B -- YES --> C[즉각 평가·이송<br/>또는 당일 긴급 평가]
     B -- NO --> D[병력·진찰 + CXR<br/>Spirometry]
     D --> E{기관지확장제 후<br/>FEV₁/FVC ＜ 0.70?}
-    E -- YES --> F[☞ COPD 동반<br/>COPD 지침에 따라 평가·치료]
-    E -- NO --> G[비폐쇄성 만성 기관지염<br/>다른 원인 적극 평가]
+    E -- YES --> F[증상·노출력 및 검사 품질 검토<br/>COPD 확인 시 해당 지침 적용]
+    E -- NO --> G[비폐쇄성 만성 기관지염 가능<br/>정의 충족·다른 원인 확인]
     G --> H[금연·노출 회피<br/>원인 질환 치료]
     G --> I[객담 불편 지속 시<br/>점액용해제 제한적 시험]
     G --> J[LABA/LAMA·ICS·장기 macrolide<br/>routine 사용하지 않음]
     F --> K{급성 증상 악화?}
     K -- YES --> L[ECOPD 중증도·감별 평가<br/>SABA ± SAMA]
     K -- NO --> M[증상·악화력·호산구에 따라<br/>유지 흡입치료]
-    L --> N[농성 객담 등 적응증 시 항생제<br/>중등도·중증이면 스테로이드]
+    L --> N[증상 조합·과거 배양·환기 필요성에 따라 항생제<br/>중등도·중증이면 스테로이드]
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#f39c12
 class B,E,K yellow
@@ -116,7 +118,7 @@ style J fill:#fde8f0,stroke:#e91e8c
 
 * 치료 목표 : 기침·객담과 삶의 질 개선, 원인 노출 제거, COPD 및 구조적 폐질환 확인, COPD 동반 시 악화 예방
 * 금연 및 유해 흡입 노출 회피가 가장 중요한 개입 (☞ [금연](../230_/190_-smoking.md))
-* 기류 제한이 확인되면 COPD에 준하여 관리 (☞ [COPD](072_-copd.md))
+* 증상·노출력과 기관지확장제 후 폐기능검사를 종합하여 COPD가 확인되면 COPD 지침에 따라 관리 (☞ [COPD](072_-copd.md))
 * 기류 제한이 없으면 COPD 흡입제·전신 스테로이드·항생제를 경험적으로 장기 투여하지 않고 다른 원인과 동반 질환을 치료
 * 예방접종 : 연령·기저질환·국내 권고에 따라 인플루엔자, 코로나19, 폐렴구균, RSV 등 접종 여부 확인 (☞ [예방접종](../250_/210_-vaccination.md))
 
@@ -135,13 +137,16 @@ style J fill:#fde8f0,stroke:#e91e8c
 
 * 금연·노출 회피와 원인 평가 후에도 불편한 객담이 지속될 때 제한적으로 시험할 수 있음
 * 점액용해제는 만성 기관지염 또는 COPD에서 악화를 소폭 줄이고 삶의 질을 약간 개선할 수 있으나 연구 간 이질성이 크며 효과는 제한적
-* erdosteine : 점액용해·항산화 작용. <mark style="color:blue;">[에르도스, 뮤코원]</mark> 300 ㎎/T bid — 제품별 허가사항 확인
-* acetylcysteine(NAC) : 점액용해·항산화 작용. 200 ㎎ tid 등 제품별 허가사항에 따라 투여
+* erdosteine : 점액용해·항산화 작용. <mark style="color:blue;">[에르도스캡슐, 뮤코원캡슐]</mark> 300 ㎎/C bid
+  * 금기 : 중증 신장애(CrCl ＜25 ㎖/min), 중증 간장애·간경변, 소화성궤양, 시스타티오닌 합성효소 결핍 등
+  * 경증·중등도 간장애에서는 1일 300 ㎎을 초과하지 않음
+  * 급성 호흡기질환에는 연속 10일 이상 투여하지 않음; 만성 질환에서는 임상적 이득과 이상반응을 재평가하며 기간을 개별화
+* acetylcysteine(NAC) : 점액용해·항산화 작용. 200 ㎎ tid 등 제형에 맞춰 투여
   * 고용량 600 ㎎ bid의 악화 예방 효과는 연구 결과가 일관되지 않으므로 모든 환자에게 routine으로 권고하지 않음
 * 일정 기간 사용 후 객담·기침·삶의 질의 임상적 이득이 없으면 중단
 
 {% hint style="info" %}
-만성 기관지염을 현저하고 일관되게 개선하는 특정 약물은 아직 없습니다. 기관지 내 cryospray, rheoplasty, targeted lung denervation 등은 연구 단계이며 routine 진료에 사용하지 않습니다.
+비폐쇄성 만성 기관지염의 장기 질병 경과를 일관되게 개선하는 표준 약물치료는 확립되지 않았습니다. COPD가 동반되면 해당 지침에 따른 치료로 증상·악화 위험을 줄입니다. 기관지 내 cryospray, rheoplasty, targeted lung denervation 등은 연구 단계이며 routine 진료에 사용하지 않습니다.
 {% endhint %}
 
 ### <mark style="color:orange;">기관지확장제</mark>
@@ -153,14 +158,18 @@ style J fill:#fde8f0,stroke:#e91e8c
 ### <mark style="color:orange;">COPD 급성 악화 시 기관지확장제</mark>
 
 * SABA를 초기 기관지확장제로 사용하고 임상 상황에 따라 SAMA 병용
-* salbutamol : <mark style="color:blue;">[벤토린 에보할러]</mark> 100 ㎍/puff, 1～2 puffs prn; 반복 사용 횟수는 악화 중증도와 허가사항에 따라 조절
+* salbutamol : <mark style="color:blue;">[벤토린 에보할러]</mark> 100 ㎍/puff, 1～2 puffs prn; 국내 허가사항상 외래 자가 사용은 24시간 최대 8회 분무. 더 자주 필요하거나 효과가 짧으면 즉시 재평가하며, 의료진 감시하 급성 악화 반복 투여는 별도 프로토콜에 따름
 * ipratropium : <mark style="color:blue;">[아트로벤트엔에어로솔]</mark> 20 ㎍/puff, 제품별 허가사항에 따라 투여
 * 중증 악화 또는 pMDI 사용이 어려운 상황에서는 네뷸라이저 제형을 고려
+
+{% hint style="info" %}
+**COPD 급성 악화의 산소요법** : 저산소증이 있으면 혈액가스 확인 전 SpO₂ 88～92%를 목표로 조절 산소 투여하고 혈액가스·임상 반응에 따라 조정. 저산소증 환자에게 산소를 보류하지 않으며, 호흡성 산증·의식 변화·호흡 피로가 있으면 환기 보조 필요성을 신속 평가하고 이송. <mark style="color:$info;">[BTS 2017]</mark>
+{% endhint %}
 
 ### <mark style="color:orange;">항생제 — COPD 급성 악화에서 선택적 사용</mark>
 
 * 비폐쇄성 만성 기관지염의 단순 증상 악화나 객담 색 변화만으로 항생제를 routine 처방하지 않음
-* COPD 급성 악화에서 다음 상황이면 항생제 고려:
+* COPD 급성 악화에서 다음 상황이면 항생제 고려 <mark style="color:$info;">[GOLD 2026]</mark>:
   * 호흡 곤란 증가, 발열, 객담량 증가, 객담 농성 증가 중 ≥ 2가지가 있으며 **객담 농성 증가가 포함**
   * 이전 악화에서 임상적으로 의미 있는 양성 객담배양 병력
   * 비침습 또는 침습 기계환기 필요
@@ -170,7 +179,7 @@ style J fill:#fde8f0,stroke:#e91e8c
 
 #### <mark style="color:$primary;">외래 항생제 예시</mark>
 
-* amoxicillin/clavulanate : <mark style="color:blue;">[오구멘틴]</mark> 625 ㎎ tid × 5일 — 신기능 및 제품별 허가사항 확인
+* amoxicillin/clavulanate : <mark style="color:blue;">[오구멘틴]</mark> 625 ㎎ tid × 5일 — 신기능 저하 시 용량·간격 조정
 * doxycycline : 100 ㎎ bid × 5일 — 임신·수유 및 금기 확인
 * azithromycin : <mark style="color:blue;">[지스로맥스]</mark> 500 ㎎ qd × 3일 — QT 연장·약물상호작용과 국내 내성률 고려
 
@@ -178,7 +187,7 @@ style J fill:#fde8f0,stroke:#e91e8c
 
 * 비폐쇄성 만성 기관지염의 악화에 routine으로 사용하지 않음
 * COPD의 중등도·중증 급성 악화에서 회복 기간과 치료 실패를 줄이기 위해 사용
-* prednisolone : 30～40 ㎎ **1일 1회** × 5일 <mark style="color:blue;">[소론도]</mark>
+* prednisolone : 40 ㎎ **1일 1회** × 5일 <mark style="color:blue;">[소론도]</mark>; NICE는 30 ㎎ 1일 1회 × 5일 권고 <mark style="color:$info;">[GOLD 2026; NICE NG115]</mark>
 * 혈중 호산구 ≥ 300/μL를 급성기 전신 스테로이드의 확정적 투여 기준으로 사용하지 않음
 * 5일 단기요법은 일반적으로 감량 없이 종료할 수 있으나, 최근 반복 투여·장기 스테로이드 복용·부신기능저하 위험은 별도 평가
 
@@ -213,10 +222,10 @@ J44.1은 급성 악화를 동반한 COPD 코드입니다. 폐활량검사와 임
 > **처방례 1. 비폐쇄성 만성 기관지염 — 불편한 객담에 대한 단기 시험**
 >
 > ```
-> 에르도스 300 ㎎/T   2T  #2  × 14일
+> 에르도스캡슐 300 ㎎/C   2C  #2  × 14일
 > ```
 >
-> _✽ 금연·노출 회피와 다른 원인 평가가 우선입니다. 임상적 이득이 없으면 관성적으로 장기 처방하지 않습니다._
+> _✽ 금연·노출 회피와 다른 원인 평가가 우선입니다. 중증 신·간장애 등 금기와 간장애 시 감량 기준을 확인하고, 임상적 이득이 없으면 관성적으로 장기 처방하지 않습니다._
 
 > **처방례 2. COPD 급성 악화 — 기관지 경련, 항생제 적응증 없음**
 >
@@ -225,7 +234,7 @@ J44.1은 급성 악화를 동반한 COPD 코드입니다. 폐활량검사와 임
 > 아트로벤트엔에어로솔  제품별 허가사항에 따라 투여
 > ```
 >
-> _✽ 객담 농성 증가 등 세균성 악화 소견이 없으면 항생제를 일률적으로 추가하지 않습니다. 흡입 횟수가 빠르게 증가하거나 효과가 짧으면 즉시 재평가합니다._
+> _✽ 농성 증가가 포함된 증상 조합, 이전 악화의 의미 있는 양성 객담배양, 기계환기 필요성 등 항생제 적응증이 없는 경우의 예입니다. 흡입 횟수가 빠르게 증가하거나 효과가 짧으면 즉시 재평가하며 임의 증량하지 않습니다._
 
 > **처방례 3. COPD 급성 악화 — 항생제 적응증 충족**
 >
@@ -234,7 +243,7 @@ J44.1은 급성 악화를 동반한 COPD 코드입니다. 폐활량검사와 임
 > 벤토린 에보할러      1～2 puffs  prn
 > ```
 >
-> _✽ 객담 농성 증가가 포함된 임상 증상 조합, 과거 배양 결과, 최근 항생제와 지역 내성률을 확인합니다. 48～72시간 후 호전이 없으면 폐렴·내성균·기관지확장증 등 다른 원인을 재평가합니다._
+> _✽ 농성 증가가 포함된 임상 증상 조합 또는 이전 악화의 의미 있는 양성 객담배양 등 적응증이 있을 때 사용합니다. 최근 항생제와 지역 내성률을 고려합니다. 48～72시간 후 호전이 없으면 폐렴·내성균·기관지확장증 등 다른 원인을 재평가합니다._
 
 > **처방례 4. COPD 중등도 급성 악화 — 전신 스테로이드 추가**
 >
@@ -266,7 +275,7 @@ J44.1은 급성 악화를 동반한 COPD 코드입니다. 폐활량검사와 임
 >
 > 1. 흡입기를 흔들고 숨을 충분히 내쉰 뒤, 천천히 깊게 들이마시기 시작하면서 한 번 분사하십시오.
 > 2. 가능한 약 10초간 숨을 참은 뒤 천천히 내쉬십시오. 추가 흡입이 필요하면 제품 지침에 따른 간격을 두십시오.
-> 3. 흡입 횟수가 평소보다 급격히 늘거나 효과가 오래 지속되지 않으면 악화 신호일 수 있으므로 즉시 진료받으십시오.
+> 3. 벤토린은 24시간에 총 8번을 초과해 임의로 분사하지 마십시오. 더 자주 필요하거나 효과가 오래 지속되지 않으면 즉시 진료받으십시오.
 
 > **점액용해제(에르도스테인 등)에 대하여**
 >
@@ -278,8 +287,8 @@ J44.1은 급성 악화를 동반한 COPD 코드입니다. 폐활량검사와 임
 >
 > * 안정 시에도 숨이 차거나 입술·손발이 파래지는 경우 — **즉시 응급실**
 > * 의식이 흐려지거나 문장 단위로 말하기 어려운 경우 — **즉시 응급실**
-> * 많은 피를 토하거나 혈담과 호흡 곤란·어지럼이 동반되는 경우 — **즉시 응급실**
-> * 소량이라도 새로 혈담이 생긴 경우 — **당일 또는 조기 평가**
+> * 많은 양의 피를 기침으로 뱉거나 혈담과 호흡 곤란·어지럼이 동반되는 경우 — **즉시 응급실**
+> * 소량이라도 새로 혈담이 생기거나 산소포화도가 평소보다 낮아지고 숨참이 악화된 경우 — **당일 평가**
 > * 치료 48～72시간 후에도 호전되지 않거나 고열·흉통이 새로 생기는 경우
 
 ***
@@ -322,6 +331,59 @@ J44.1은 급성 악화를 동반한 COPD 코드입니다. 폐활량검사와 임
 
 * 안정 상태에서도 숨이 차거나 입술·손발이 파래지는 경우
 * 의식이 흐려지거나 말하기 어려울 정도로 숨이 찬 경우
-* 많은 피를 토하거나 혈담과 호흡 곤란·어지럼이 함께 나타나는 경우
+* 많은 양의 피를 기침으로 뱉거나 혈담과 호흡 곤란·어지럼이 함께 나타나는 경우
 * 흉통, 한쪽 가슴의 갑작스러운 통증 또는 호흡 곤란이 새로 생기는 경우
 
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* GOLD. Global Strategy for Prevention, Diagnosis and Management of COPD. 2026. — COPD 진단, 악화 평가, 항생제·스테로이드 및 유지치료 재평가 기준
+
+  https://goldcopd.org/2026-gold-report-and-pocket-guide/
+
+* GOLD. Report 2026 Key Changes Summary. — 중등도 악화 1회부터 치료 강화를 검토하는 2026 변경 사항
+
+  https://goldcopd.org/wp-content/uploads/2025/11/KEY-CHANGES-GOLD-2026-10Nov2025.pdf
+
+* NICE. Chronic obstructive pulmonary disease in over 16s: diagnosis and management. NG115. — COPD 관리 및 prednisolone 30 ㎎/일 5일 요법
+
+  https://www.nice.org.uk/guidance/ng115
+
+* NICE. Chronic obstructive pulmonary disease (acute exacerbation): antimicrobial prescribing. NG114. — COPD 악화의 선택적 항생제 사용, 약제와 치료 기간
+
+  https://www.nice.org.uk/guidance/ng114
+
+* Bronchodilators in Tobacco-Exposed Persons with Symptoms and Preserved Lung Function. N Engl J Med. 2022. — RETHINC 무작위시험; 폐기능이 보존된 유증상 흡연 노출군에서 이중 기관지확장제의 증상 개선 효과가 입증되지 않음
+
+  https://doi.org/10.1056/NEJMoa2204752
+
+* Cochrane. Mucolytic agents versus placebo for chronic bronchitis or chronic obstructive pulmonary disease. 2019. CD001287. — 점액용해제의 악화 예방 효과와 연구 간 이질성
+
+  https://doi.org/10.1002/14651858.CD001287.pub6
+
+* Alpha-1 Foundation. The Diagnosis and Management of Alpha-1 Antitrypsin Deficiency in the Adult. 2016. — 연령·인종과 관계없이 COPD 환자의 α₁-antitrypsin 결핍 검사 권고
+
+  https://journal.copdfoundation.org/jcopdf/id/1115/The-Diagnosis-and-Management-of-Alpha-1-Antitrypsin-Deficiency-in-the-Adult
+
+* BTS. Guideline for oxygen use in adults in healthcare and emergency settings. 2017. — 고탄산혈증 위험 환자의 조절 산소 투여와 혈액가스 평가
+
+  https://doi.org/10.1136/thoraxjnl-2016-209729
+
+* 국립암센터. 국가암검진사업. — 국가폐암검진의 연령·흡연력·검진 주기 및 기존 수검자의 금연 후 조건
+
+  https://www1.ncc.re.kr/main.ncc?uri=manage01_4
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 국내 의약품의 적응증·용법·금기 및 안전성 정보
+
+  https://nedrug.mfds.go.kr/index
+
+* 건강보험심사평가원. 약제 급여기준 및 급여목록 — 국내 약제의 급여 적용 및 인정 기준
+
+  https://www.hira.or.kr
