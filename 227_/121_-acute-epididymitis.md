@@ -4,7 +4,7 @@
 
 * 정의 : 음낭 부종과 통증을 동반하는 부고환의 염증. 흔히 감염성이고 드물게 비감염성 원인에 의함
 * 분류 : 급성 ＜6주, 만성 ≥6주
-* 유병률 : \[미국] ＞60만 회/년 외래 방문
+* 역학 : 성활동 남성과 요로폐색·요로 시술 등 위험 인자가 있는 환자에서 발생; 외래 방문 건수와 실제 발생률을 동일시하지 않음
 * 경과 : 신속한 치료 시 대부분 양호; 항생제 치료가 종료된 후에도 부종·압통 등 국소 증상은 수 주간 지속될 수 있으며, 이는 그 자체로 치료 실패를 의미하지 않음
 * 합병증 : 치료가 지연되거나 부적절한 경우 epididymo-orchitis, abscess 발생, fertility 저하
 
@@ -15,7 +15,7 @@
 * 기전 : 소변의 세균이 정관을 통하여 부고환으로 retrograde, 드물게 혈행성
 * 성매개감염이 관련된 경우 : C. trachomatis, N. gonorrhoeae 중심(±M. genitalium); 성활동 연령·병력만으로 원인균을 단정하지 않음
 * Insertive anal sex : STI 균주 + 장내세균
-* BPH, 요로폐색, 요로 조작/수술(도뇨관 유치, 전립선 생검 등) : E. coli 등 장내세균 중심; 카테터 관련 감염에서는 S. aureus, S. epidermidis도 고려
+* BPH, 요로폐색, 요로 조작/수술(도뇨관 유치, 전립선 생검 등) : E. coli 등 장내세균 중심; 카테터가 있으면 배양 균이 정착·오염인지 실제 감염 원인인지 임상 소견과 함께 판단
 * M. tuberculosis : 만성·육아종성 부고환염에서 고려(급성 원인균으로는 드묾)
 * ✽나이(＞35세)는 STI 위험이 낮고 장내세균 위험이 높음을 시사하는 보조적 지표일 뿐, 고령에서도 STI가 배제되지 않음
 
@@ -36,7 +36,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 갑자기 또는 수 시간에 걸쳐 심해지는 편측 고환 뒷부분의 통증, 압통, 부종, 발적
+* 대개 수일에 걸쳐 진행하는 편측 고환 뒤쪽 통증·압통·부종·발적. 갑작스럽고 심한 통증은 고환염전을 우선 평가하며 증상 시작 양상만으로 확진·배제하지 않음
 * 서혜부, 하복부, 또는 옆구리로의 방사통
 * 요도염 증상(요로 자극) : 빈뇨, 배뇨통, 혼탁뇨, 혈뇨
 * reactive hydrocele
@@ -59,13 +59,13 @@
 * 외래 항생제 복용 불가 또는 빠르게 진행하는 국소 염증 → 당일 평가
 * 치료 시작 후 72시간 안에 호전되지 않거나 악화함 → 지체 없이 재평가(상태에 따라 당일 의뢰)
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 치료 종료 후 부종·압통이 뚜렷하게 남거나 악화함 → 농양·종양·경색·결핵 등 감별 계획(가벼운 잔여 불편감은 호전 추세를 확인)
 
 ## <mark style="color:green;">진단</mark>
 
-* 요로에 대한 full assessment(특히 재발 시)
+* 재발·장내세균 검출·배뇨장애가 있으면 하부 요로폐색·잔뇨·시술력 등을 평가. 모든 초발 환자에게 방광경·전 요로 영상검사를 일률적으로 시행하지 않음
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
@@ -79,7 +79,7 @@
 
 * 진단이 불확실하거나 torsion·농양·종양·경색 등 다른 병태가 의심되는 경우, 또는 적절한 치료에도 호전되지 않는 경우 시행
 * Color Doppler 초음파 : 급성 음낭통의 감별에 유용하나 부분 염전에서는 부고환염과 비슷하게 보일 수 있음. 염전이 강하게 의심되면 초음파 대기로 즉각적인 비뇨의학과 평가·수술적 탐색을 지연하지 않음
-* radionuclide scanning : 이론적으로 가장 정확하나 신속한 시행이 어려워 1차 진료에서 실용성은 낮음
+* 정상 또는 음성 도플러 검사만으로 임상적으로 의심되는 부고환염·부분 고환염전을 배제하지 않음
 * 결핵균 감염 의심 시 소변 결핵검사(AFB smear/culture 및 NAAT 등) 및 필요 시 흉부 X선
 
 ### <mark style="color:orange;">감별 - Acute Scrotal Pain</mark>
@@ -124,8 +124,8 @@ graph TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 항생제 치료 : 경험적 항생제 투여, 검사 결과 및 치료 반응에 따라 조정
-* 치료 완료까지 성관계 중단; 성관계 관련 원인 의심 시 성 파트너 함께 치료
-  * C. trachomatis 또는 N. gonorrhoeae 의심/확인 시, 증상 발생 전 최근 60일 이내 성 파트너를 평가·검사·추정 치료. 마지막 성접촉이 60일보다 이전이면 가장 최근 성 파트너도 평가·치료(CDC)
+* STI 관련 부고환염에서는 본인·파트너 모두 해당 치료를 완료하고 증상이 소실될 때까지 성관계 중단. 단순 클라미디아의 7일 치료 후 재개 기준을 본인 부고환염의 10일 치료에 그대로 적용하지 않음
+  * CDC 부고환염 기준은 증상 발생 전 60일 이내 파트너 및 그 이전이라도 가장 최근 파트너를 평가·검사·추정 치료. 국내 클라미디아 지침은 유증상 8주·무증상 6개월로 차이가 있으므로 확진 병원체와 파트너 상황에 따라 [클라미디아](115_-4.chlamydia.md) 챕터 기준도 적용. 파트너는 직접 진료를 연계 <mark style="color:$info;">[CDC 2021; 국내 STI 2023]</mark>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -135,32 +135,37 @@ graph TD
   * 비감염성 부고환염이 의심되면 증상을 악화시키는 활동을 한동안 줄이고 충분히 회복한 뒤 활동 재개
   * 요로 조작/수술 전 예방적 항생제 투여 여부는 해당 시술의 감염예방 지침에 따라 결정
   * ✽볼거리(mumps) 백신 : 세균성 부고환염이 아닌 볼거리 바이러스성 orchitis 예방 목적
-  * ✽doxycycline PEP : 부고환염 자체의 예방 요법은 아님. 최근 12개월 내 세균성 STI 병력이 있는 MSM/TGW에서는 CDC 2024 STI 예방 지침에 따라 성접촉 후 72시간 이내 doxycycline 200 ㎎(24시간 최대 200 ㎎) 사용의 이득·위험을 개별 상담
+  * ✽doxycycline PEP : 부고환염 자체의 예방 요법은 아님. 최근 12개월 내 세균성 STI 병력이 있는 MSM/TGW에서는 CDC 2024 STI 예방 지침에 따라 성접촉 후 72시간 이내 doxycycline 200 ㎎(24시간 최대 200 ㎎) 사용의 이득·위험을 개별 상담; 국내 STI 예방 목적은 허가 외 사용(☞ [STI](115_-1.STI.md#doxy-pep))
 
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">항생제 \[CDC 2021 중심]</mark>
+
+* 아래 처방례는 성인 기준이며 소아·청소년에는 그대로 적용하지 않음. 국내 크라비트정은 소아 및 18세 이하 성장 중인 청소년에서 금기임
 
 {% hint style="info" %}
 **Ceftriaxone 용량 - 지침별 차이**\
 CDC 2021 부고환염 요법 : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 kg이면 1 g IM) + doxycycline 100 ㎎ bid ×10일\
 2024 European 부고환-고환염 지침(2026년 출판) : 임균 등 STI 가능성이 높으면 ceftriaxone 1 g IM ×1회 + doxycycline 권고(azithromycin의 일률적 병용 비권고)\
 EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycline 10~14일 등\
-국내 성매개감염 진료지침 2023의 임균 감염 치료 용량 : ceftriaxone 500 ㎎ IM/IV 또는 1 g IV ×1회(부고환염 전용 요법은 아님). 아래 처방례는 CDC 2021 부고환염 요법에 따름
+국내 성매개감염 진료지침 2023의 임균 감염 치료 용량 : ceftriaxone 500 ㎎ IM/IV 또는 1 g IV ×1회(부고환염 전용 요법은 아님). 아래 처방례는 **CDC 2021 부고환염 전용 요법**에 따르며, 단순 임질 챕터의 국내 학회 100 kg 기준을 부고환염에 자동 대입하지 않음. Doxycycline 10일과 단순 클라미디아 7일 요법의 차이도 질환에 따른 것임
 {% endhint %}
 
-* STI(Chlamydia or Gonorrhea) 의심 : ceftriaxone 500 ㎎ IM ×1회 <mark style="color:blue;">\[트리악손]</mark> plus doxycycline 100 ㎎ bid ×10d <mark style="color:blue;">\[독시사이클린]</mark>
-* Insertive anal sex 등으로 STI와 장내 균주가 모두 의심 : ceftriaxone 500 ㎎ IM ×1회 plus levofloxacin 500 ㎎ qd ×10d
+* STI(Chlamydia or Gonorrhea) 의심 : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 ㎏은 1 g IM) <mark style="color:blue;">\[트리악손]</mark> plus doxycycline 100 ㎎ bid ×10d <mark style="color:blue;">\[독시사이클린]</mark>
+* Insertive anal sex 등으로 STI와 장내 균주가 모두 의심 : ceftriaxone 500 ㎎ IM ×1회(체중 ≥150 ㎏은 1 g IM) plus levofloxacin 500 ㎎ qd ×10d
 * 장내 균주만 의심 : 임균 가능성이 낮고 임균을 배제한 경우 levofloxacin 500 ㎎ qd ×10d <mark style="color:blue;">\[크라비트]</mark> 단독. 요도 분비물이 없거나 그람염색이 음성이라는 이유만으로 무증상 임균 감염을 배제하지 말고 성접촉 병력·NAAT를 함께 고려; 배양·감수성 결과에 따라 조정
 * Mycoplasma genitalium 관련 부고환염이 의심되고 다른 원인 및 동반감염을 평가한 경우 : moxifloxacin 400 ㎎ qd ×14d <mark style="color:blue;">\[아벨록스]</mark> (IUSTI 2021 complicated infection 권고, Grade 1C). 균 검출만으로 부고환염의 원인이라고 단정하지 않으며 전문의와 상의하여 적용. 국내 아벨록스정 허가 적응증에 부고환염이 없어 허가 외 사용에 해당; QT 연장 위험·병용약 확인. levofloxacin/ofloxacin은 M. genitalium 대체제로 권장하지 않음
+* 위 levofloxacin 500 ㎎ qd ×10일은 **CDC 부고환염 지침 요법**으로, 국내 크라비트정500㎎에는 부고환염이 별도 허가 적응증으로 명시되어 있지 않아 허가 외 사용임. 신기능·배양 감수성을 반영하며 국내 제품별 신기능 조정표를 따름; 만성 전립선염의 국내 허가 용법은 해당 챕터 참조 <mark style="color:$info;">[CDC 2021; 식약처 크라비트정500㎎]</mark>
+* 세팔로스포린 중증 과민반응 또는 FQ를 사용할 수 없는 환자는 검증된 부고환염 대안이 제한되므로 전문과와 결정. 단순 임질의 gentamicin+azithromycin 단회 처방을 부고환염의 완결 요법으로 전용하지 않음 <mark style="color:$info;">[CDC 2021]</mark>
 * 내성 균주 증가에 따라 ofloxacin은 N. gonorrhoeae 에 대하여 1차 선택하지 않음
 * ✽임균 치료에 azithromycin을 일률적으로 병용하지 않음. 위 doxycycline 병용은 동반 클라미디아 감염의 치료·경험적 포괄을 위한 것
 
 ### <mark style="color:orange;">통증</mark>
 
+* NSAID는 최소 유효 용량·기간으로 선택하고 신·위장관·심혈관 위험 및 탈수를 평가. 여러 NSAID를 병용하지 않으며 FQ와 NSAID 병용 시 경련 위험 인자를 확인
 * NSAID : naproxen <mark style="color:blue;">\[낙센]</mark>, ibuprofen <mark style="color:blue;">\[부루펜]</mark>
 * dexibuprofen <mark style="color:blue;">\[애니펜]</mark> : NSAID 대안; 기저 신장·위장관·심혈관 위험을 고려하여 단기간 사용
-* acetaminophen-codeine, acetaminophen-oxycodone : 중등증 이상의 통증
+* NSAID 사용이 어렵거나 추가 진통이 필요하면 acetaminophen 등을 고려(☞ [통증](../220_/001_-pain.md)). 심한 통증은 약제를 강화하기 전에 염전·농양·경색을 재평가하며 opioid 복합제를 통상 처방으로 제시하지 않음
 * NSAID로 조절되지 않는 심한 통증 : torsion, abscess 등 다른 진단 재평가 우선; 배제된 경우 spermatic cord block 고려
 
 ## <mark style="color:green;">추적 관리</mark>
@@ -169,7 +174,7 @@ EAU 2026 : 임균 가능성이 높으면 ceftriaxone 1 g IM/IV ×1회 + doxycycl
 * 항생제 종료 후에도 부종·압통이 뚜렷하게 남거나 악화하면 abscess, tumor, infarction, TB 등 감별 및 비뇨의학과 의뢰. 국소 불편감이 수 주간 남을 수 있으므로 호전 추세·새로운 소견을 함께 판단
 * 임균 또는 클라미디아 양성이었던 경우 : 재감염 탐지를 위해 치료 완료 3개월 후 재검사(CDC) - 치료 실패 확인용 test-of-cure와는 별개의 개념
 * 임균/클라미디아 등 개별 STI의 test-of-cure 적응증은 해당 STI 챕터 기준을 따름
-* M. genitalium 관련 감염으로 치료했다면 증상 경과를 확인하고, IUSTI 권고에 따라 test-of-cure NAAT를 고려할 때 치료 종료 후 최소 3주가 지난 뒤 검체 채취
+* _M. genitalium_ 관련 부고환염은 국내 STI 지침 및 IUSTI 경로에 따라 **증상 소실 여부와 관계없이 치료 완료 최소 3주 후 NAAT 완치검사를 계획**. 비복잡성 감염에서 CDC가 허용하는 무증상자의 TOC 생략을 일률적으로 적용하지 않음. 파트너 평가·치료와 TOC 확인 전 무방비 성접촉 회피 안내 <mark style="color:$info;">[국내 STI 2023; IUSTI 2021]</mark>
 
 ***
 
@@ -184,37 +189,39 @@ N45 고환염 및 부고환염
 > **처방례 1. STI(클라미디아/임균) 의심**
 >
 > ```
-> 트리악손 주 500 ㎎  IM 1회
-> 독시사이클린 100 ㎎/C  2T #2  ×10d
-> 애니펜 300 ㎎/T  3T #3
+> 트리악손 주 500 ㎎  IM 1회 (체중 <150 ㎏)
+> 체중 ≥150 ㎏이면 트리악손 주 1 g  IM 1회
+> 독시사이클린 100 ㎎/C  1C bid  10일간
+> 애니펜 300 ㎎/T  1T tid 필요 시  3일간
 > ```
 >
-> _✽ceftriaxone 500 ㎎ IM 1회 + doxycycline 100 ㎎ bid ×10d 병용(CDC 2021 부고환염 요법); 애니펜은 dexibuprofen으로 통증 조절용 NSAID_
+> _✽체중 ≥150 ㎏은 ceftriaxone 1 g IM. Lidocaine으로 조제한 IM 주사액은 IV 투여 금지. Ceftriaxone 500 ㎎ IM 1회 + doxycycline 100 ㎎ bid ×10d 병용(CDC 2021 부고환염 요법); 애니펜은 dexibuprofen으로 통증 조절용 NSAID_
 
 > **처방례 2. 장내 균주만 의심·임균 배제**
 >
 > ```
 > 크라비트 500 ㎎/T  1T qd  ×10d
-> 부루펜 200 ㎎/T  6T #3
+> 부루펜 200 ㎎/T  2T tid 필요 시  3일간
 > ```
 >
-> _✽levofloxacin 단독 요법(CDC 2021); 장내세균 원인이 유력하고 임균 가능성을 평가·배제한 경우에만 사용. 배양·감수성 결과에 따라 조정_
+> _✽levofloxacin은 국내 해당 제품의 부고환염 허가 외 사용이며 신기능별 용량 조정. 단독 요법(CDC 2021); 장내세균 원인이 유력하고 임균 가능성을 평가·배제한 경우에만 사용. 배양·감수성 결과에 따라 조정_
 
 > **처방례 3. STI + 장내 균주 동시 의심**
 >
 > ```
-> 트리악손 주 500 ㎎  IM 1회
+> 트리악손 주 500 ㎎  IM 1회 (체중 <150 ㎏)
+> 체중 ≥150 ㎏이면 트리악손 주 1 g  IM 1회
 > 크라비트 500 ㎎/T  1T qd  ×10d
-> 부루펜 200 ㎎/T  6T #3
+> 부루펜 200 ㎎/T  2T tid 필요 시  3일간
 > ```
 >
-> _✽ceftriaxone 500 ㎎ IM 1회 + levofloxacin 500 ㎎ qd ×10d 병용(CDC 2021 부고환염 요법); 임균·클라미디아와 장내세균이 모두 의심되는 경우(예: 삽입 항문성교). 국내 임균 지침과 유럽 부고환염 지침의 ceftriaxone 용량 차이는 상단 hint 참조_
+> _✽체중 ≥150 ㎏은 ceftriaxone 1 g IM. Levofloxacin은 국내 해당 제품의 부고환염 허가 외 사용. Ceftriaxone 500 ㎎ IM 1회 + levofloxacin 500 ㎎ qd ×10d 병용(CDC 2021 부고환염 요법); 임균·클라미디아와 장내세균이 모두 의심되는 경우(예: 삽입 항문성교). 국내 임균 지침과 유럽 부고환염 지침의 ceftriaxone 용량 차이는 상단 hint 참조_
 
 > **처방례 4. M. genitalium 관련 부고환염으로 판단된 경우**
 >
 > ```
 > 아벨록스 400 ㎎/T  1T qd  ×14d
-> 부루펜 200 ㎎/T  6T #3
+> 부루펜 200 ㎎/T  2T tid 필요 시  3일간
 > ```
 >
 > _✽M. genitalium 검출만으로 인과관계를 확정하지 않음. 다른 원인·동반감염을 평가하고 M. genitalium 관련 복잡 감염으로 판단한 경우 IUSTI 2021 권고(Grade 1C)에 따름. 국내 허가 외 사용으로 QT 연장 위험·병용약 확인 및 추적 NAAT 계획 필요_
@@ -227,9 +234,10 @@ N45 고환염 및 부고환염
 >
 > * 처방된 항생제는 정해진 용량과 기간에 따라 복용하고, 증상이 좋아졌다고 임의로 중단하거나 남은 약을 임의로 연장하지 않도록 안내
 > * 치료 시작 후 72시간 이내 호전이 없거나 악화하면 치료 종료를 기다리지 말고 재평가; 치료 종료 후에도 뚜렷한 부종·압통이 남거나 악화할 때도 평가 필요
-> * doxycycline 복용 시 충분한 물과 함께 복용, 복용 직후 눕지 않도록 안내(식도 자극 예방); 광과민 반응 주의(자외선 차단)
+> * doxycycline 복용 시 충분한 물과 함께 복용, 복용 후 최소 30분간 눕지 않도록 안내(식도 자극 예방); 광과민 반응 주의(자외선 차단)
 > * levofloxacin·moxifloxacin 복용 중 새로 생긴 힘줄 통증·부종, 저림·감각 이상 등이 나타나면 복용을 중단하고 즉시 처방의와 상담. levofloxacin은 신기능 저하 시 용량 조정 여부 확인
-> * STI가 원인으로 확인/의심되는 경우, 본인과 성 파트너의 치료가 모두 완료되고 증상이 호전될 때까지 성관계 금지; 최근 성 파트너도 함께 검사·치료 받도록 안내
+> * NSAID는 항생제 복용 기간 내내 자동으로 복용하지 말고 필요한 최소 기간만 사용; 진통제를 늘려야 할 정도로 통증이 지속되면 재평가
+> * STI가 원인으로 확인/의심되는 경우, 본인과 성 파트너의 치료가 모두 완료되고 증상이 소실될 때까지 성관계 금지; 최근 성 파트너도 함께 검사·치료 받도록 안내
 
 > **음낭 지지와 냉찜질, 통증 조절**
 >
@@ -278,3 +286,26 @@ N45 고환염 및 부고환염
 * 심한 발열, 오한이 동반될 때
 * 치료 시작 후 72시간 이내 증상이 좋아지지 않거나 오히려 악화할 때(항생제가 끝날 때까지 기다리지 마십시오)
 * 음낭·회음부의 붓기나 붉은 부위가 빠르게 퍼지거나 피부가 검게 변할 때
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* CDC. [Epididymitis, STI Treatment Guidelines 2021](https://www.cdc.gov/std/treatment-guidelines/epididymitis.htm).
+
+* EAU. [Urological Infections 2026: acute epididymitis](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
+
+* Justice ED, et al. [The 2024 European guideline on epididymo-orchitis](https://pubmed.ncbi.nlm.nih.gov/40698982/). J Eur Acad Dermatol Venereol. 2026;40:166–173. doi:10.1111/jdv.20865 (온라인 2025).
+
+* Jensen JS, et al. [2021 European guideline on Mycoplasma genitalium infections](https://iusti.org/wp-content/uploads/2022/03/Jensen-et-al_Published.pdf). J Eur Acad Dermatol Venereol. 2022;36:641–650. doi:10.1111/jdv.17972.
+
+* 질병관리청·대한요로생식기감염학회. [성매개감염 진료지침 2023](https://stiguide.kr/wp-content/uploads/2023/04/Korean_STI_Guidelines_2023.pdf).
+
+* CDC. [Doxy-PEP Guidelines 2024](https://www.cdc.gov/mmwr/volumes/73/rr/rr7302a1.htm).
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태.
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
