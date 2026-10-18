@@ -15,17 +15,18 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉시 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 무뇨(anuria, ＜100 ㎖/day) 또는 AKI에 동반된 혈역학적 불안정·폐부종
 * 육안적 혈뇨 + 하복부 팽만, 배뇨통, 방광 촉지 → 혈전에 의한 요로 폐쇄
-* 고칼륨혈증(심전도 변화 동반) 또는 요독성 뇌병증·심낭염 징후(의식 변화, 흉통 + 심낭마찰음)
+* 중증 고칼륨혈증(K ≥6.5 mmol/L) 또는 심전도 변화를 동반한 고칼륨혈증, 요독성 뇌병증·심낭염 징후(의식 변화, 흉통 + 심낭마찰음)
 * 수일\~수주 내 Cr 급상승 + 혈뇨(erythrocyte cast) + 핍뇨 → 급속 진행성 사구체신염 의심
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 혈청 Cr이 48시간 내 ≥0.3 ㎎/㎗ 상승하거나 7일 내 기저치 대비 ≥1.5배로 상승 → 급성콩팥손상(AKI) 가능성 평가(당일)
-* 신규 발견된 eGFR ＜30 ㎖/분/1.73㎡(G4 이상), 특히 급성 저하 가능성이 있거나 증상·전해질 이상이 동반된 경우
+* K 6.0\~6.4 mmol/L → 당일 심전도·재검 및 급성 악화 여부 평가; AKI·증상·심전도 이상이 있으면 즉각 조치
+* 신규 발견된 eGFR ＜30 ㎖/분/1.73㎡(G4 이상) → 급성 악화·증상·전해질 이상 여부를 우선 확인하고 신장내과 의뢰; 안정된 G4도 수일 내 의뢰 계획 수립
 * 지속적인 GFR ＞20% 감소(혈역학적 작용 약물 시작 후에는 ＞30% 감소) 또는 원인이 불명확한 빠른 기능 저하
 * 고도 증가 알부민뇨(ACR ≥300 ㎎/g)와 혈뇨 동반, 지속적인 ACR ＞700 ㎎/g, 적혈구 원주 또는 설명되지 않는 지속적 RBC ＞20/HPF
 * 4제 이상의 항고혈압제에도 조절되지 않는 CKD 동반 치료 저항성 고혈압
@@ -35,15 +36,15 @@
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험은 낮으나 지속되면 원인 평가·의뢰</mark>
 
-* 중등도 증가 알부민뇨(A2, uACR 30\~299 ㎎/g)의 첫 발견 또는 eGFR 60\~89(G2)이면서 다른 콩팥 손상 지표가 동반된 경우
+* 중등도 증가 알부민뇨(A2, uACR 30\~＜300 ㎎/g)의 첫 발견 또는 eGFR 60\~89(G2)이면서 다른 콩팥 손상 지표가 동반된 경우
 * 무증상 현미경적 혈뇨(dysmorphic erythrocyte·cast 없음)
 * 발열·운동 직후 발견된 경도 단백뇨
 
 ## <mark style="color:green;">진단</mark>
 
-### <mark style="color:orange;">CKD·AKI 정의 및 진단 기준</mark> \[KDIGO]
+### <mark style="color:orange;">CKD·AKI 정의 및 진단 기준</mark> <mark style="color:$info;">\[KDIGO]</mark>
 
-* [만성콩팥병](112_-chronic-kidney-disease-ckd.md)(CKD) : 콩팥의 구조 또는 기능 이상이 3개월 이상 지속되며 건강에 영향을 미치는 경우; eGFR과 uACR(urine albumin-to-creatinine ratio) 두 축으로 병기 분류 (☞ [만성콩팥병](112_-chronic-kidney-disease-ckd.md#ckd-heat-map-g-a), [단백뇨](111_-proteinuria.md))
+* [만성콩팥병](112_-chronic-kidney-disease-ckd.md)(CKD) : 콩팥의 구조 또는 기능 이상이 3개월 이상 지속되며 건강에 영향을 미치는 경우; eGFR과 uACR(urine albumin-to-creatinine ratio) 두 축으로 병기 분류 (☞ [만성콩팥병](112_-chronic-kidney-disease-ckd.md), [단백뇨](111_-proteinuria.md))
   * 구조·기능 이상에는 알부민뇨, 요침사 이상, 전해질 이상, 영상학적(구조적) 이상, 병리학적 이상, 콩팥 이식 병력 등이 포함됨
 * 급성콩팥손상(AKI) 진단 기준 - 다음 중 하나 이상 해당
   * 혈청 Cr이 48시간 이내 ≥0.3 ㎎/㎗ 상승
@@ -59,18 +60,24 @@
 <table><thead><tr><th width="90">병기</th><th width="330.47625732421875">혈청 Cr 기준</th><th>요량(㎖/㎏/h) 기준</th></tr></thead><tbody><tr><td>Stage 1</td><td>기저치 대비 1.5~1.9배 또는 ≥0.3 ㎎/㎗ 상승</td><td>6~12시간 동안 ＜0.5</td></tr><tr><td>Stage 2</td><td>기저치 대비 2.0~2.9배</td><td>≥12시간 동안 ＜0.5</td></tr><tr><td>Stage 3</td><td>기저치 대비 ≥3배 또는 혈청 Cr이 ≥4.0 ㎎/㎗에 도달하거나 신대체요법(RRT) 시작</td><td>≥24시간 동안 ＜0.3 또는 무뇨 ≥12시간</td></tr></tbody></table>
 
 * Cr과 요량 기준 중 더 심한 병기를 적용
-* Stage 3 또는 심한 고칼륨혈증·대사성산증·용적과다·요독 증상 동반 시 RRT 적응증 평가
+* Stage 3이면 신속한 전문 평가가 필요함. RRT 시작은 병기·Cr 수치만으로 결정하지 않으며, 조절되지 않는 고칼륨혈증·산증·용적과다 또는 요독 증상 등으로 판단
+* 위 표는 성인 중심 기준임. 18세 미만에서는 eGFR ＜35 ㎖/분/1.73㎡로 감소한 경우도 Stage 3에 포함하며, 신생아는 별도 수정 기준을 적용
+* AKI 후에는 회복 상태에 따라 조기에 Cr·K·요량을 재평가하고, 3개월 시점에 회복·새로운 CKD·기존 CKD 악화 여부를 확인 <mark style="color:$info;">\[KDIGO AKI 2012]</mark>
 
 #### <mark style="color:$primary;">CKD 병기</mark>
 
 * 원인(Cause), GFR 병기(G1\~G5), 알부민뇨 병기(A1\~A3)를 함께 사용해 "CGA" 방식으로 분류
   * 원인(Cause)-GFR-알부민뇨(CGA) 표기 예 : diabetic kidney disease G3aA2
-* 진행/합병증 위험은 GFR 병기와 알부민뇨 병기가 함께 낮을수록 낮고, 함께 높을수록 급격히 상승
-* CKD G3\~G5에서는 검증된 콩팥기능상실 위험예측식(KFRE)을 활용할 수 있으며, 5년 콩팥대체요법 위험 ＞3\~5%는 신장내과 의뢰를 고려하는 기준 중 하나임
+* 진행·합병증 위험은 eGFR이 낮고 알부민뇨가 많을수록 증가하며, G 병기 숫자(G1→G5)와 A 병기 숫자(A1→A3)가 커질수록 위험이 높아짐
+* CKD G3\~G5에서는 검증된 콩팥기능상실 위험예측식(KFRE)을 활용할 수 있으며, 5년 콩팥기능상실 위험 3\~5% 이상은 신장내과 의뢰를 고려하는 기준 중 하나임
 
-<table><thead><tr><th width="180.4761962890625">GFR 병기 (㎖/분/1.73㎡)</th><th width="139.5238037109375">A1 (＜30 ㎎/g)</th><th width="160.4761962890625">A2 (30~299 ㎎/g)</th><th width="149.84283447265625">A3 (≥300 ㎎/g)</th></tr></thead><tbody><tr><td>G1 (≥90)</td><td>저위험*</td><td>중등도 위험</td><td>고위험</td></tr><tr><td>G2 (60~89)</td><td>저위험*</td><td>중등도 위험</td><td>고위험</td></tr><tr><td>G3a (45~59)</td><td>중등도 위험</td><td>고위험</td><td>매우 고위험</td></tr><tr><td>G3b (30~44)</td><td>고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr><tr><td>G4 (15~29)</td><td>매우 고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr><tr><td>G5 (＜15)</td><td>매우 고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr></tbody></table>
+<table><thead><tr><th width="180.4761962890625">GFR 병기 (㎖/분/1.73㎡)</th><th width="139.5238037109375">A1 (＜30 ㎎/g)</th><th width="160.4761962890625">A2 (30~＜300 ㎎/g)</th><th width="149.84283447265625">A3 (≥300 ㎎/g)</th></tr></thead><tbody><tr><td>G1 (≥90)</td><td>저위험*</td><td>중등도 위험</td><td>고위험</td></tr><tr><td>G2 (60~89)</td><td>저위험*</td><td>중등도 위험</td><td>고위험</td></tr><tr><td>G3a (45~59)</td><td>중등도 위험</td><td>고위험</td><td>매우 고위험</td></tr><tr><td>G3b (30~44)</td><td>고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr><tr><td>G4 (15~29)</td><td>매우 고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr><tr><td>G5 (＜15)</td><td>매우 고위험</td><td>매우 고위험</td><td>매우 고위험</td></tr></tbody></table>
 
 _\*요검사·영상 검사 등에서 다른 콩팥 손상 증거 없으면 CKD 아님_
+
+{% hint style="info" %}
+본서의 알부민뇨 구간은 A1 ＜30, A2 30\~＜300, A3 ≥300 ㎎/g으로 통일함(ADA 2026 표기). KDIGO 2024의 분류표는 A2 30\~300, A3 ＞300으로 표기하므로 정확히 300 ㎎/g에서 경계 표기가 다름. 치료·급여의 개별 문턱값(예: ≥200, ＞300, ＞700)은 해당 기준대로 적용함.
+{% endhint %}
 
 ***
 
@@ -111,13 +118,13 @@ FeNa·FeUrea는 보조 검사로만 해석함. FeNa는 CKD, 이뇨제 사용, �
 
 * CKD 위험군(당뇨병, 고혈압, 심혈관질환, AKI 병력, CKD 가족력, 전신질환, 신독성 약물 장기 사용 등)은 혈청 Cr 기반 eGFR과 uACR을 함께 평가
 * 우연히 발견된 낮은 eGFR, 알부민뇨 또는 혈뇨는 임상적 긴급도에 맞춰 재검하여 확인 - 단일 이상값만으로 CKD의 만성성을 단정하지 않음
-* 시험지봉 잠혈 양성은 요현미경검사로 RBC 존재 여부를 확인하여 혈뇨와 hemoglobinuria·myoglobinuria를 구분
+* 시험지봉 잠혈 양성은 요현미경검사로 RBC 존재 여부를 확인하여 혈뇨와 hemoglobinuria·myoglobinuria를 구분; 희석뇨·알칼리뇨에서는 RBC가 용혈되어 현미경상 적혈구가 적게 보일 수 있으므로 결과가 불일치하면 신선한 검체로 재검
 * 시험지봉 단백 양성은 가능한 경우 uACR 또는 uPCR로 정량
 
 #### <mark style="color:$primary;">소변 채취 Tips</mark>
 
 * 검사 전 과도한 신체 운동을 피하고, 월경·발열·증상성 UTI 등 일시적 알부민뇨·혈뇨를 유발할 상황을 확인
-* 아침 첫 소변(또는 8시간 농축뇨, 불가피한 경우 임의뇨)의 중간뇨 채취
+* 알부민뇨·단백뇨 확인에는 아침 첫 중간뇨를 우선하며 불가피하면 임의뇨를 사용. 혈뇨의 요침사는 신선하고 적절히 채취한 검체로 평가함; 밤새 오래 저류된 첫 소변 또는 격렬한 운동·성행위 직후 검체는 성인 MH 확인용으로 피할 수 있음
 * 붕산(보릭) 등 소독제로 요도 입구를 닦지 않음
 * 오염되지 않도록 남성은 포피를 뒤로 젖히고, 여성은 음순이 닿지 않게 하고 채취
 * 채취 후 실온(15\~25℃)에서 보관하며 1\~2시간 내 검사, 불가피하게 검사가 지연되는 경우 냉장(2\~8℃) 보관
@@ -157,7 +164,7 @@ FeNa·FeUrea는 보조 검사로만 해석함. FeNa는 CKD, 이뇨제 사용, �
 
 #### <mark style="color:$primary;">소변 시험지봉 검사의 해석</mark>
 
-<table data-search="false"><thead><tr><th width="125">검사 항목</th><th>실제 양성의 주요 원인</th><th>위양성·간섭 요인</th><th>위음성·간섭 요인</th></tr></thead><tbody><tr><td>잠혈<br>Occult blood</td><td>혈뇨, hemoglobinuria, myoglobinuria</td><td>월경혈 오염, 산화제 오염, 격렬한 운동</td><td>고농도 Vit C, 높은 비중, 강한 산성뇨, 현저한 단백뇨</td></tr><tr><td>빌리루빈<br>Bilirubin</td><td>간세포질환, 담즙울체·담도폐쇄</td><td>색소 약물에 의한 판독 간섭</td><td>빛에 오래 노출된 검체, 고농도 Vit C, 아질산염</td></tr><tr><td>우로빌리노겐<br>Urobilinogen</td><td>용혈, 간세포질환</td><td>phenazopyridine 등 색소 약물</td><td>완전 담도폐쇄, 오래된 검체, 일부 항생제 사용</td></tr><tr><td>케톤<br>Ketone</td><td>당뇨병성케톤산증, 기아·저탄수화물식, 지속적 구토, 임신</td><td>일부 약물의 sulfhydryl기, 강한 색소뇨</td><td>오래된 검체; β-hydroxybutyrate 우세 시 과소평가</td></tr><tr><td>단백<br>Protein</td><td>사구체질환, 일시적 발열·운동·기립성 단백뇨, UTI</td><td>농축뇨, 강한 알칼리뇨, 혈뇨·농뇨, 소독제 오염</td><td>희석뇨, albumin 이외 단백질(경쇄·저분자량 단백질)</td></tr><tr><td>아질산염<br>Nitrite</td><td>질산염 환원 세균에 의한 세균뇨</td><td>오래되거나 오염된 검체, 시험지봉 공기 노출, 색소뇨</td><td>짧은 방광 저류시간, 질산염 섭취 부족, Vit C, 높은 비중·산성뇨, Enterococcus 등 질산염 비환원균</td></tr><tr><td>포도당<br>Glucose</td><td>고혈당, 임신, 신장성 당뇨·Fanconi 증후군, SGLT2 억제제 사용</td><td>산화제 오염</td><td>고농도 Vit C, 높은 비중, 오래된 검체</td></tr><tr><td>백혈구<br>Leukocyte esterase</td><td>UTI, 무균성 농뇨</td><td>질 분비물·산화제 오염, 색소뇨</td><td>높은 비중, 뇨당·단백뇨·케톤뇨, Vit C, 일부 항생제</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="125">검사 항목</th><th>실제 양성의 주요 원인</th><th>위양성·간섭 요인</th><th>위음성·간섭 요인</th></tr></thead><tbody><tr><td>잠혈<br>Occult blood</td><td>혈뇨, hemoglobinuria, myoglobinuria</td><td>월경혈 오염, 산화제 오염</td><td>고농도 Vit C, 높은 비중, 강한 산성뇨, 현저한 단백뇨</td></tr><tr><td>빌리루빈<br>Bilirubin</td><td>간세포질환, 담즙울체·담도폐쇄</td><td>색소 약물에 의한 판독 간섭</td><td>빛에 오래 노출된 검체, 고농도 Vit C, 아질산염</td></tr><tr><td>우로빌리노겐<br>Urobilinogen</td><td>용혈, 간세포질환</td><td>phenazopyridine 등 색소 약물</td><td>완전 담도폐쇄, 오래된 검체, 일부 항생제 사용</td></tr><tr><td>케톤<br>Ketone</td><td>당뇨병성케톤산증, 기아·저탄수화물식, 지속적 구토, 임신</td><td>일부 약물의 sulfhydryl기, 강한 색소뇨</td><td>오래된 검체; β-hydroxybutyrate 우세 시 과소평가</td></tr><tr><td>단백<br>Protein</td><td>사구체질환, 일시적 발열·운동·기립성 단백뇨, UTI</td><td>농축뇨, 강한 알칼리뇨, 혈뇨·농뇨, 소독제 오염</td><td>희석뇨, albumin 이외 단백질(경쇄·저분자량 단백질)</td></tr><tr><td>아질산염<br>Nitrite</td><td>질산염 환원 세균에 의한 세균뇨</td><td>오래되거나 오염된 검체, 시험지봉 공기 노출, 색소뇨</td><td>짧은 방광 저류시간, 질산염 섭취 부족, Vit C, 높은 비중·산성뇨, Enterococcus 등 질산염 비환원균</td></tr><tr><td>포도당<br>Glucose</td><td>고혈당, 임신, 신장성 당뇨·Fanconi 증후군, SGLT2 억제제 사용</td><td>산화제 오염</td><td>고농도 Vit C, 높은 비중, 오래된 검체</td></tr><tr><td>백혈구<br>Leukocyte esterase</td><td>UTI, 무균성 농뇨</td><td>질 분비물·산화제 오염, 색소뇨</td><td>높은 비중, 뇨당·단백뇨·케톤뇨, Vit C, 일부 항생제</td></tr></tbody></table>
 
 * 포도당 검사에 있어서 과당, 유당, 갈락토오스 등은 검출 안 됨
 * 빌리루빈(+) & 우로빌리노겐(-) : 폐색성/담즙울체 질환
@@ -180,7 +187,7 @@ FeNa·FeUrea는 보조 검사로만 해석함. FeNa는 CKD, 이뇨제 사용, �
 #### <mark style="color:$primary;">요 알부민/크레아티닌 비율 (uACR)</mark>
 
 * Spot urine uACR이 24시간 소변 채집보다 권장됨 - 환자 부담이 적고 신뢰도는 유사; 가능하면 아침 첫 소변으로 측정하는 것이 가장 권장됨
-* 정상\~경도 증가(A1) ＜30 ㎎/g, 중등도 증가(A2) 30\~299 ㎎/g, 고도 증가(A3) ≥300 ㎎/g
+* 정상\~경도 증가(A1) ＜30 ㎎/g, 중등도 증가(A2) 30\~＜300 ㎎/g, 고도 증가(A3) ≥300 ㎎/g
 * 무작위뇨에서 uACR ≥30 ㎎/g이면 가능하면 이후 아침 첫 중간뇨로 확인; 운동, 월경, 발열, 증상성 UTI, 혈뇨 등 일시적 증가 요인을 배제
 * 요 시험지봉 단백 검사는 미세알부민뇨(중등도 증가 알부민뇨로 용어 변경 ☞ [단백뇨](111_-proteinuria.md)) 단계를 놓칠 수 있어, 당뇨병·고혈압 등 CKD 고위험군 선별에는 uACR을 우선 시행
 * Dipstick은 albumin에 민감한 반면 저분자량 단백질(low molecular weight protein)은 놓칠 수 있음 - Bence-Jones protein, Fanconi 증후군, tubular proteinuria 등은 dipstick 음성일 수 있음
@@ -190,7 +197,7 @@ FeNa·FeUrea는 보조 검사로만 해석함. FeNa는 CKD, 이뇨제 사용, �
 
 #### <mark style="color:$primary;">소변의 현미경적 소견과 관련 질환</mark>
 
-<table data-search="false"><thead><tr><th width="335.2381591796875">현미경적 소견</th><th>관련 질환·해석</th></tr></thead><tbody><tr><td>fatty cast, oval fat body</td><td>신증후군 또는 현저한 지질뇨</td></tr><tr><td>백혈구 + bacteria, WBC cast</td><td>급성 신우신염 시사</td></tr><tr><td>WBC cast without bacteria</td><td>급성 간질성 신염, 일부 사구체신염 등</td></tr><tr><td>normal-shaped(isomorphic) erythrocyte</td><td>비사구체성 혈뇨(non-glomerular bleeding)</td></tr><tr><td>dysmorphic erythrocyte</td><td>사구체성 혈뇨(glomerular bleeding)</td></tr><tr><td>erythrocyte cast</td><td>사구체신염·혈관염 등 사구체성 질환</td></tr><tr><td>muddy-brown granular cast, tubular epithelial cell/cast</td><td>급성 세뇨관손상</td></tr><tr><td>waxy/broad cast</td><td>진행된 CKD 또는 심한 소변 정체</td></tr><tr><td>hyaline cast</td><td>정상에서도 소량 관찰 가능; 탈수·운동·발열·이뇨제 사용 등에서 증가</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="335.2381591796875">현미경적 소견</th><th>관련 질환·해석</th></tr></thead><tbody><tr><td>fatty cast, oval fat body</td><td>신증후군 또는 현저한 지질뇨</td></tr><tr><td>백혈구 + bacteria, WBC cast</td><td>급성 신우신염 시사</td></tr><tr><td>WBC cast without bacteria</td><td>급성 간질성 신염, 일부 사구체신염 등</td></tr><tr><td>normal-shaped(isomorphic) erythrocyte</td><td>비사구체성 출혈을 시사하나, 단독 소견으로 사구체성 출혈을 배제할 수 없음</td></tr><tr><td>dysmorphic erythrocyte</td><td>사구체성 혈뇨(glomerular bleeding)</td></tr><tr><td>erythrocyte cast</td><td>사구체신염·혈관염 등 사구체성 질환</td></tr><tr><td>muddy-brown granular cast, tubular epithelial cell/cast</td><td>급성 세뇨관손상</td></tr><tr><td>waxy/broad cast</td><td>진행된 CKD 또는 심한 소변 정체</td></tr><tr><td>hyaline cast</td><td>정상에서도 소량 관찰 가능; 탈수·운동·발열·이뇨제 사용 등에서 증가</td></tr></tbody></table>
 
 * 요중 호산구는 민감도·특이도가 낮아 급성 간질성 신염의 확진 또는 배제 검사로 사용하지 않음
 
@@ -236,10 +243,12 @@ FeNa·FeUrea는 보조 검사로만 해석함. FeNa는 CKD, 이뇨제 사용, �
 * 초기 평가는 일반적으로 혈청 Cr과 검증된 공식으로 산출한 eGFRcr을 사용
   * 인종 계수를 사용하지 않으며 동일 지역 내에서 통일된 검증 공식을 사용하는 것이 원칙. 국내에서는 검사실이 보고하는 공식과 적용 기준을 확인
   * CKD-EPI 2021은 대표적인 인종 비보정 공식이며 IDMS-traceable(표준화) 크레아티닌 값을 전제로 개발됨
-* 근육량·식이 등으로 eGFRcr이 부정확할 가능성이 있거나 GFR이 임상 결정에 중요한 경우 eGFRcr-cys를 사용하고, 이 역시 불확실하거나 매우 정확한 값이 필요한 경우 외인성 여과표지자를 이용한 measured GFR을 고려
+* cystatin C를 이용할 수 있으면 Cr과 함께 측정한 eGFRcr-cys로 G 병기를 평가. 특히 근육량·식이 등으로 eGFRcr이 부정확하거나 치료 결정에 정확한 GFR이 필요한 경우 활용하며, 복합 공식도 부정확할 상황에서는 외인성 여과표지자를 이용한 measured GFR을 고려
 * 급격한 콩팥 기능 변화에서는 steady state를 전제로 하는 eGFR 공식이 부정확하므로 Cr 변화·요량·임상 경과를 함께 평가
 
 **CKD-EPI Creatinine equation (2021)** - 대표적인 인종 비보정 공식
+
+* 아래 성인 공식은 18세 이상에서 적용하며, Scr 단위는 ㎎/㎗, Scys 단위는 ㎎/L임. 소아·청소년은 연령에 적합한 검증 공식(예: CKiD U25)을 사용
 
 * eGFR = 142 × min(Scr/κ, 1)<sup>α</sup> × max(Scr/κ, 1)<sup>-1.200</sup> × 0.9938<sup>연령</sup> \[× 1.012 if female]
   * κ= 여 0.7/남 0.9, α= 여 -0.241, 남 -0.302; min= Scr/κ or 1 중 최소값, max= Scr/κ or 1 중 최대값
@@ -305,8 +314,17 @@ FeNa·FeUrea는 보조 검사로만 해석함. FeNa는 CKD, 이뇨제 사용, �
 
 * **NSAIDs(진통소염제)를 장기간 임의로 복용하지 마십시오.** 특히 콩팥 기능이 저하된 경우 NSAIDs가 콩팥 손상을 악화시킬 수 있습니다.
 
-## 참고문헌
+***
 
-1. Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(Suppl 4S):S117-S314.
-2. Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. KDIGO Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl. 2012;2:1-138.
-3. Nicolle LE, Gupta K, Bradley SF, et al. Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2019;68:e83-e110.
+## 주요 참고문헌 및 확인 자료
+
+### 임상 근거
+
+* KDIGO CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(Suppl 4S):S117–S314. [지침](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
+* American Diabetes Association Professional Practice Committee. 11. Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S246–S260. [DOI](https://doi.org/10.2337/dc26-S011)
+* KDIGO Acute Kidney Injury Work Group. KDIGO Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl. 2012;2:1–138. [지침](https://kdigo.org/guidelines/acute-kidney-injury/)
+* Nicolle LE, et al. Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update by IDSA. Clin Infect Dis. 2019;68:e83–e110. [DOI](https://doi.org/10.1093/cid/ciy1121)
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. 국내 제품별 적응증·용법·금기 확인. [의약품안전나라](https://nedrug.mfds.go.kr/index)

@@ -7,17 +7,21 @@
 * 단백뇨 : 사구체 여과 장벽 손상, 세뇨관 재흡수 장애, 또는 저분자 단백질의 과잉 생성으로 소변에 단백질이 비정상적으로 많이 배설되는 상태
 * 알부민뇨(albuminuria) : 단백뇨 중 알부민 성분만을 지칭하는 좁은 개념; KDIGO 2024 지침은 콩팥 손상의 주된 표지자로 uACR(알부민뇨 수준)을 우선 사용할 것을 권고함
 
-<table><thead><tr><th>구분</th><th>uACR (㎎/g)</th><th>uPCR (㎎/g)</th><th>요 시험지봉 검사</th></tr></thead><tbody><tr><td><strong>정상~경도 증가 (A1)</strong></td><td>＜30</td><td>＜150</td><td>~±(trace)</td></tr><tr><td><strong>중등도 증가 (A2)</strong></td><td>30~300</td><td>150~500</td><td>±~1+</td></tr><tr><td><strong>고도 증가 (A3)</strong></td><td>＞300</td><td>＞500</td><td>＞1+</td></tr></tbody></table>
+<table><thead><tr><th>구분</th><th>uACR (㎎/g)</th><th>uPCR (㎎/g)</th><th>요 시험지봉 검사</th></tr></thead><tbody><tr><td><strong>정상~경도 증가 (A1)</strong></td><td>＜30</td><td>＜150</td><td>~±(trace)</td></tr><tr><td><strong>중등도 증가 (A2)</strong></td><td>30~＜300</td><td>150~＜500</td><td>±~1+</td></tr><tr><td><strong>고도 증가 (A3)</strong></td><td>≥300</td><td>≥500</td><td>＞1+</td></tr></tbody></table>
 
-_uACR=소변 Alb/Cr ratio, uPCR=소변 Prot/Cr ratio; A1\~A3 등급은 KDIGO 2024 만성콩팥병(CKD) 진료지침의 알부민뇨(uACR) 분류와 동일한 구간을 따름. KDIGO는 A1\~A3를 uACR로만 공식 정의하며, 표의 uPCR 구간은 KDIGO 공식 분류가 아니라 임상 대응을 위한 참고 기준임_
+_uACR=소변 Alb/Cr ratio, uPCR=소변 Prot/Cr ratio. A1\~A3는 알부민뇨 분류이며 uPCR·dipstick과 일대일 환산되지 않음. 표의 uPCR·dipstick은 대략적인 대응 참고값임._
+
+{% hint style="info" %}
+본서의 알부민뇨 구간은 A1 ＜30, A2 30\~＜300, A3 ≥300 ㎎/g으로 통일함(ADA 2026 표기). KDIGO 2024의 분류표는 A2 30\~300, A3 ＞300으로 표기하므로 정확히 300 ㎎/g에서 경계 표기가 다름. 치료·급여의 개별 문턱값(예: ≥200, ＞300, ＞700)은 해당 기준대로 적용함.
+{% endhint %}
 
 <p align="center"><em><mark style="color:$info;">Ref. 대한의학회, 일차의료용 근거기반 만성콩팥병 임상진료지침, 2022, 표 2; KDIGO 2012 CKD Guideline, Chapter 1, Table 7(PCR·요 시험지봉 환산 참고 기준); KDIGO 2024 CKD Guideline.</mark></em></p>
 
 #### <mark style="color:$primary;">중등도 증가 알부민뇨 (Moderately increased albuminuria, A2)</mark>
 
 * 구용어 : microalbuminuria(미세알부민뇨) - KDIGO 2024, ADA 2026 지침에서는 사용하지 않으며, '중등도 증가 알부민뇨(A2)'로 통일; 다만 국내 일부 문헌과 법령에는 "미세알부민뇨" 표기가 아직 남아있음
-* 기준 : 임의뇨 Alb/Cr ratio 30\~300 ㎎/g 또는 24시간뇨 알부민 30\~300 ㎎
-* 지속성 확인 : 일시적 증가 요인을 배제하고 3\~6개월 동안 시행한 3회 검사 중 ≥2회에서 uACR ≥30 ㎎/g이면 지속성 알부민뇨로 판단; 단, A3·콩팥 기능 저하·활성 요침사 등 고위험 소견이 있으면 반복 확인을 기다리지 않고 평가·의뢰
+* 기준 : 임의뇨 Alb/Cr ratio 30\~＜300 ㎎/g 또는 24시간뇨 알부민 30\~＜300 ㎎
+* 지속성 확인 : 일시적 증가 요인을 배제하고 3\~6개월 동안 시행한 3회 검사 중 ≥2회에서 uACR ≥30 ㎎/g이면(특히 당뇨병 환자에서) 증가를 확인; CKD의 만성성은 과거 기록 또는 3개월 이상 지속 여부로 별도 확인; 단, A3·콩팥 기능 저하·활성 요침사 등 고위험 소견이 있으면 반복 확인을 기다리지 않고 평가·의뢰
 * 의의 : 당뇨병콩팥병증 조기 진단 및 신부전 예측 지표, 고혈압 환자의 심혈관 사망 위험 인자; KDIGO는 eGFR 수준과 무관하게 알부민뇨 증가 자체가 심혈관·콩팥 예후 악화와 비례 관계임을 강조
 
 #### <mark style="color:$primary;">고립성 단백뇨 (Isolated proteinuria)</mark>
@@ -52,7 +56,7 @@ _✽임신, 심부전, 고혈압 또는 약물 노출과 동반된 단백뇨는 
 <mark style="color:$primary;">**기립성 또는 자세 단백뇨 (Orthostatic or Postural proteinuria)**</mark>
 
 * 누운 자세로 밤새 휴식한 후의 아침 첫 소변에서는 단백뇨가 없으며, 기립 자세로 활동한 주간 소변에서만 단백뇨가 나타남
-* 전통적으로는 split urine collection(주간 16시간 + 야간 8시간 분리 채취; 야간뇨 단백량 ＜50 ㎎/8hr을 기준)으로 진단하였으나, 최근에는 아침 첫 소변의 uPCR(또는 uACR)이 정상 범위(uPCR ＜200 ㎎/g)이면서 주간 소변에서만 증가하는지로 확인하는 것이 일반적임
+* 전통적으로는 split urine collection(주간 16시간 + 야간 8시간 분리 채취; 야간뇨 단백량 ＜50 ㎎/8hr을 기준)으로 진단하였으나, 최근에는 아침 첫 소변의 uPCR(또는 uACR)이 연령에 따른 정상 범위(2세 이상 uPCR ≤200 ㎎/g, 성인은 통상 ＜150 ㎎/g; uACR ＜30 ㎎/g)이면서 주간 소변에서만 증가하는지로 확인하는 것이 일반적임
 * 소아·청소년과 젊은 성인(대개 30세 미만)에서 흔함
 * 기전 : 불명; 기립 중의 혈역학 변화, 사구체 변화 등으로 추정
 * 경과 : 일과성 또는 수년간 지속될 수 있으나 콩팥 기능에 영향을 주지 않으며 대부분 자연 소실됨(장기 예후는 양호)
@@ -65,8 +69,9 @@ _✽임신, 심부전, 고혈압 또는 약물 노출과 동반된 단백뇨는 
 * 시험지봉 검사 1+ 이상 : 첫아침 소변으로 uPCR과 uACR, 요검사를 함께 시행
   * 2세 이상에서 uPCR ≤200 ㎎/g이고 uACR ＜30 ㎎/g이며 요검사가 정상이면 일과성 또는 기립성 단백뇨 가능성이 높으므로 1년 후 재검 고려
   * uPCR ＞200 ㎎/g, 또는 혈뇨 등 이상 동반 시 추가 평가
+  * 생후 6\~24개월은 첫 아침 uPCR ≤500 ㎎/g을 참고하며, 6개월 미만은 연령별 정상범위와 임상상으로 판단. 혈뇨·부종·고혈압·eGFR 저하가 있으면 경계값과 무관하게 소아신장 전문가 평가
 
-- [ ] 국내 학교 집단 소변검사 후 재검을 안내받는 경우, 1주 간격 3회 검사 중 2회 이상 양성을 기준으로 하는 학교검진 운영지침을 적용하기도 함
+* 학교 선별검사의 반복 양성 여부와 임상적 지속성 단백뇨 진단을 구분하며, 첫 아침 정량검사와 혈압·요침사로 평가
 
 #### <mark style="color:$primary;">Overload proteinuria</mark>
 
@@ -77,7 +82,7 @@ _✽임신, 심부전, 고혈압 또는 약물 노출과 동반된 단백뇨는 
 
 * 기전 : 사구체에서의 단백질 투과 증가
 * 1차성 : minimal change Dz, 선천성 신증후군, focal segmental glomerular sclerosis, IgA nephropathy(Berger's Dz), membranoproliferative glomerulonephritis, membranous nephropathy, Alport syndrome
-* 2차성 : PSGN, 당뇨병, SLE, Henoch-Schönlein purpura
+* 2차성 : PSGN, 당뇨병, SLE, IgA 혈관염(IgA vasculitis; 과거 Henoch–Schönlein purpura)
 
 #### <mark style="color:$primary;">Tubular proteinuria</mark>
 
@@ -87,35 +92,35 @@ _✽임신, 심부전, 고혈압 또는 약물 노출과 동반된 단백뇨는 
 
 #### <mark style="color:$primary;">신증후군 (Nephrotic syndrome)</mark>
 
-* 정의 : 다음의 3주징이 발생한 상태
-  * ① 심한 단백뇨(＞3.5 g/24h), ② 저알부민혈증(＜3 g/㎗), ③ 말초 부종
+* 성인에서 신증후군 범위 단백뇨(대개 ≥3.5 g/24h 또는 uPCR 약 ≥3.5 g/g)와 저알부민혈증을 함께 보이는 임상 증후군; 말초 부종·고지혈증이 흔히 동반됨
+* 소아는 별도 기준을 적용하며, 첫 아침 uPCR ≥2 g/g(=2,000 ㎎/g) 등 신증후군 범위 단백뇨와 저알부민혈증(또는 측정 불가 시 부종)을 함께 평가
 * 관련 원인 질환 : 당뇨병, amyloidosis, SLE, 사구체 질환
 * 신증후군 범위 단백뇨만으로 신증후군을 진단하지 않으며, 저알부민혈증·부종과 기저질환을 함께 평가
 * 치료 : 원인질환 평가·치료가 우선이며, 체액 상태에 따라 Na 섭취 제한·loop diuretics를 사용하고 혈압·eGFR·혈청 칼륨을 고려해 ACEI/ARB 적용; 신규 발생 시 신장내과 조기 의뢰
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉시 평가 및 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 신증후군에 심한 전신 부종·복수와 함께 호흡곤란·저산소증 동반  → 폐부종, 흉막삼출
-* 심한 단백뇨·저알부민혈증 상태에서 갑작스런 편측 하지 부종통, 흉통, 호흡곤란 → 신정맥혈전증·폐색전증
+* 심한 단백뇨·저알부민혈증 상태에서 갑작스런 편측 하지 부종통, 흉통, 호흡곤란 → 심부정맥혈전증·폐색전증; 갑작스러운 옆구리 통증·혈뇨·콩팥기능 악화가 있으면 신정맥혈전증도 고려
 * 육안적 혈뇨 + 단백뇨 + 급격한 콩팥 기능 저하 동반 → 급속진행사구체신염, RPGN
 * SBP ≥180 또는 DBP ≥120 ㎜Hg이면서 급성 표적장기손상(신경학적 이상, 흉통·폐부종, 급격한 콩팥 기능 저하 등)이 의심되는 경우 → 고혈압응급
 * 신증후군 환자에서 발열·심한 복통·복막자극징후 또는 패혈증 소견 → 복막염 등 중증 감염
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 신증후군 3주징의 신규 발생
+* 신증후군의 신규 발생(신증후군 범위 단백뇨·저알부민혈증 ± 부종)
 * 혈뇨와 함께 uACR ≥300 ㎎/g 또는 uPCR ≥500 ㎎/g(단백뇨 ≥0.5 g/d 상당)이 확인되는 경우 → 사구체 질환 강력 의심
 * 지속적으로 uACR ＞700 ㎎/g이거나, 적혈구원주 또는 설명되지 않는 RBC ＞20/HPF가 지속되는 경우
-* 임신부에서 신규 단백뇨 발생, 특히 고혈압 동반 시 → 전자간증
+* 임신부에서 신규 단백뇨 → 당일 산과 평가. 임신 20주 이후 새 고혈압이 동반되면 전자간증을 평가하며, 단백뇨만으로 확진하지 않음; 중증 고혈압·심한 두통·시야 이상·상복부 통증·호흡곤란은 즉각 조치
 * eGFR의 급격한 저하를 동반한 유증상 단백뇨
 * SBP ≥180 또는 DBP ≥120 ㎜Hg이지만 급성 표적장기손상이 명확하지 않은 경우 → 안정 후 재측정하고 당일 평가
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 시험지봉 검사 1+ 이상의 단백뇨가 확인되어 정량 검사(uACR/uPCR) 예정인 경우
-* 경도\~중등도 단백뇨(A2, 30\~300 ㎎/g)가 지속되며 eGFR·혈압이 안정적인 경우 - 3\~6개월 간격 추적
+* 경도\~중등도 단백뇨(A2, 30\~＜300 ㎎/g)가 지속되며 eGFR·혈압이 안정적인 경우 - 3\~6개월 간격 추적
 * 당뇨병·고혈압 등 만성콩팥병 위험이 높은 환자에서 매년 정기 uACR 선별 검사 시행 예정
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -127,7 +132,7 @@ _✽임신, 심부전, 고혈압 또는 약물 노출과 동반된 단백뇨는 
 
 ## <mark style="color:green;">진단</mark>
 
-* 단백뇨·혈뇨의 단계별 상세 접근(Dipstick → uACR/uPCR → 24시간 단백뇨의 정량 흐름 및 혈뇨의 현미경 검사 → RBC morphology → 의뢰)은 [콩팥 질환의 진단](109_.md), [혈뇨](110_-hematuria.md) 챕터에서 총괄적으로 다루며, 본 챕터의 아래 진단 원칙 및 알고리듬은 단백뇨에 특화된 실전 접근을 정리한 것임
+* 단백뇨·혈뇨의 단계별 상세 접근(Dipstick → uACR/uPCR, 필요시 시간뇨; 혈뇨의 현미경 검사 → RBC morphology → 의뢰)은 [콩팥 질환의 진단](109_-kidneydz.md), [혈뇨](110_-hematuria.md) 챕터에서 총괄적으로 다루며, 본 챕터의 아래 진단 원칙 및 알고리듬은 단백뇨에 특화된 실전 접근을 정리한 것임
 
 ### <mark style="color:orange;">신체검사</mark>
 
@@ -137,7 +142,7 @@ _✽임신, 심부전, 고혈압 또는 약물 노출과 동반된 단백뇨는 
 
 ### <mark style="color:orange;">소변 검사</mark>
 
-* 채뇨 방법 : 검사일 전날 밤 취침 시 배뇨 후 아침 첫 소변 채취 (☞ [소변 채취 Tips](109_.md#tips))
+* 채뇨 방법 : 검사일 전날 밤 취침 시 배뇨 후 아침 첫 소변 채취 (☞ [소변 채취 Tips](109_-kidneydz.md))
 
 #### <mark style="color:$primary;">시험지봉 검사</mark>
 
@@ -157,9 +162,9 @@ _✽시험지봉 검사는 소변 농축도와 제품별 판독 기준에 영향
   * 채뇨 우선 순위 : ① 아침 첫 소변(중간뇨) 우선 ② 여의치 않으면 random 소변으로 초기 선별 후 uACR ≥30 ㎎/g이면 아침 첫 소변으로 확인 검사
   * uACR이 매우 높은 경우(예: ＞500 ㎎/g)에는 총 단백량 평가를 위해 uPCR을 함께 측정할 수 있음
   * 근육량이 너무 많거나 적으면 크레아티닌 보정에 오차 발생 가능
-  * 확진된 CKD 추적 중 eGFR ＞20% 변화 또는 uACR 2배 이상 변화는 생물학적·검사실 변동 범위를 넘어설 가능성이 있어 원인 평가가 필요함 \[KDIGO]
+  * 확진된 CKD 추적 중 eGFR ＞20% 변화 또는 uACR 2배 이상 증가는 생물학적·검사실 변동 범위를 넘어설 가능성이 있어 원인 평가가 필요함 <mark style="color:$info;">\[KDIGO]</mark>
 * 정량 검사 우선 순위 : uACR → (필요시) uPCR → 시간뇨(특수한 경우) - 임의뇨 비율검사 결과가 임상상과 불일치하거나 정확한 시간당 배설량이 치료 결정에 반드시 필요한 경우 제한적으로 사용하며, 임신을 포함한 일상적인 알부민뇨·단백뇨 평가에는 통상 필요하지 않음
-  * [ ] [미량알부민 검사의 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180531\&sno=5\&mtgMtrRegSno=0001)
+  * [미량알부민 검사의 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180531\&sno=5\&mtgMtrRegSno=0001)
 
 ### <mark style="color:orange;">소변 외 검사</mark>
 
@@ -178,7 +183,7 @@ _✽시험지봉 검사는 소변 농축도와 제품별 판독 기준에 영향
 * 시험지봉 검사상 단백뇨이지만 uACR/uPCR이 정상이면 소변 농축도와 검사 오차를 확인하고, 위험도에 따라 아침 첫 소변으로 재검
 * 만성콩팥병 위험도가 높은 환자(예: 당뇨병, 고혈압) : 처음부터 단백뇨 정량 검사(uACR) 실시 → 단백뇨 진단 시 만성 콩팥 질환에 대한 평가
   * 필요시 사구체성, 세뇨관성, 또는 범람성 단백뇨 감별을 위한 소변 단백 전기영동검사 시행
-  * 무증상 저위험 일반 인구에서의 예방적 소변 검사는 권장하지 않음 (☞ [예방적 소변 검사의 한계](109_.md#undefined-4))
+  * 위험인자가 없는 무증상 일반 인구의 일률적 시험지봉 선별검사는 임상적 이득이 확립되지 않음 (☞ [예방적 소변 검사의 한계](109_-kidneydz.md))
 
 ***
 
@@ -221,14 +226,15 @@ style Ref fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
 
 * 원인 치료, 혈압/당뇨병 관리
 * 관리 목표 : 알부민뇨 감소를 치료 반응과 위험 감소를 평가하는 지표로 사용하되, 모든 환자에게 하나의 절대 목표를 적용하지 않음; IgA nephropathy 등 일부 사구체 질환에서는 질환별 단백뇨 목표를 적용
-  * \[KDIGO] 알부민뇨 정도(A1\~A3)와 eGFR(G1\~G5)을 함께 고려한 위험도(heat map) 기반으로 치료 강도와 추적 간격 결정
-* 혈압 목표 : KDIGO는 표준화된 진료실 혈압 측정을 전제로 내약 가능한 경우 SBP ＜120 ㎜Hg를 제시(2B); 국내 지침, 실제 혈압 측정법, 연령·허약·기립성 저혈압 및 낙상 위험을 함께 고려하여 개별화 (☞ [고혈압](../225_/095_-hypertension.md))
+  * IgA 신증 : 단백뇨 ≥0.5 g/d(또는 이에 상응하는 uPCR)인 성인에서 IgA 신증이 의심되면 신장내과 의뢰하여 생검을 고려. 확진 후 단백뇨 목표는 ＜0.5 g/d, 가능하면 ＜0.3 g/d이며 eGFR 안정화를 함께 목표로 함 <mark style="color:$info;">\[KDIGO IgAN 2025]</mark>
+  * <mark style="color:$info;">\[KDIGO]</mark> 알부민뇨 정도(A1\~A3)와 eGFR(G1\~G5)을 함께 고려한 위험도(heat map) 기반으로 치료 강도와 추적 간격 결정
+* 혈압 목표 : 비투석·비이식 성인 CKD의 고혈압에서 KDIGO 2024·대한신장학회 2025는 표준화된 진료실 혈압 기준 내약 시 SBP ＜120 ㎜Hg를 제안(2B). 일상 진료실·가정혈압에 같은 문턱을 그대로 적용하지 않으며, 연령·허약·기립성 저혈압·낙상 위험에 따라 개별화 (☞ [고혈압](../225_/095_-hypertension.md))
 * 필요한 것 외의 약제 사용을 피함, 특히 콩팥 독성 약물 사용을 피함 (예: NSAID, aminoglycoside)
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 단백질 섭취 : CKD G3\~G5에서 0.8 g/㎏/d 유지 권고; 진행 위험이 있는 경우 1.3 g/㎏/d 초과 섭취는 피함. 고령·허약·근감소증 환자는 영양 상태에 따라 단백질·열량 목표를 상향 조정
-* Na 섭취 제한 : ＜2 g/d(소금으로 5 g/d) (☞ [고혈압](../225_/095_-hypertension.md))
+* Na 섭취 제한 : 성인 CKD에서 ＜2 g/d(소금으로 5 g/d); 소아·염분 소실성 질환은 개별화 (☞ [고혈압](../225_/095_-hypertension.md))
 * 수분 섭취 : 갈증과 체액 상태에 따라 적절히 섭취하며, 부종·심부전·저나트륨혈증에서는 개별화
 * 금연, 적정 체중 유지
 * 안정된 환자에서는 일반적인 신체활동을 권장하되, 단백뇨 확인 검사 전에는 격렬한 운동을 피함
@@ -238,10 +244,10 @@ style Ref fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
 ### <mark style="color:orange;">RAAS 억제제(ACEI/ARB) - 1차 선택제</mark>
 
 * ACEI 또는 ARB : 임상시험에서 효과가 확인된 최고 허가 용량 중 내약 가능한 용량 적용 (☞ [고혈압](../225_/095_-hypertension.md#renin-angiotensin))
-* CKD G1\~G4에서 알부민뇨 A3(＞300 ㎎/g)는 당뇨병 유무와 관계없이 ACEI/ARB 시작 권고; A2(30\~300 ㎎/g)는 당뇨병 동반 시 시작 권고, 비동반 시 시작 고려
+* CKD G1\~G4에서 알부민뇨 A3(≥300 ㎎/g)는 당뇨병 유무와 관계없이 ACEI/ARB 시작 권고; A2(30\~＜300 ㎎/g)는 당뇨병 동반 시 시작 권고, 비동반 시 시작 고려
 * ACEI, ARB 및 direct renin inhibitor(DRI) 중 두 가지 이상을 병용하지 않음
 * 정상 혈압이며 알부민뇨 A1인 환자에서는 예방 목적의 ACEI/ARB 시작을 권고하지 않음 (✽ 고혈압·심부전 등 다른 적응증이 있으면 시작 가능)
-* 시작·증량 후 2\~4주 이내 혈압, 혈청 크레아티닌, 칼륨 재확인
+* 시작·증량 후 2\~4주 이내 혈압, 혈청 크레아티닌, 칼륨 재확인. 4주 내 Cr ＞30% 상승 시 탈수·NSAID·이뇨제·신동맥협착 등 원인 평가; 치료 가능한 고칼륨혈증은 우선 교정하되 조절되지 않거나 증상성 저혈압이 있으면 감량·중단 고려; 임신 시 금기
 
 ### <mark style="color:orange;">non-DHP CCB</mark>
 
@@ -255,21 +261,25 @@ style Ref fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
   * eGFR ≥20 mL/min/1.73㎡이면서 uACR ≥200 ㎎/g
   * 심부전 동반(알부민뇨 수준과 무관)
 * eGFR 20\~45 mL/min/1.73㎡이면서 uACR ＜200 ㎎/g인 성인 CKD에서도 치료 고려
-* 종류 : dapagliflozin <mark style="color:blue;">\[다파론]</mark>, empagliflozin <mark style="color:blue;">\[자디앙]</mark> (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
-* 투여 시작 후에는 eGFR이 위 기준 아래로 떨어져도 투석 시작 전까지 유지 가능(practice point); 장기 금식, 수술 또는 중증 급성질환처럼 케톤증 위험이 증가하는 상황에서는 일시 중단 고려
-* 급여 기준 : [dapagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0031), [empagliflozin](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20251024\&sno=1\&mtgMtrRegSno=0002)
+* 종류 : dapagliflozin <mark style="color:blue;">\[다파엔]</mark>, empagliflozin <mark style="color:blue;">\[자디앙]</mark> (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
+* 투여 시작 후에는 eGFR이 20 미만으로 감소해도 내약성이 좋으면 신대체요법(KRT) 개시 전까지 유지 가능(practice point); 장기 금식, 수술 또는 중증 급성질환처럼 케톤증 위험이 증가하는 상황에서는 일시 중단 고려
+* 국내 CKD 급여(비당뇨 환자 기준, eGFR 단위 ㎖/min/1.73㎡) : 두 약제 모두 ACEI 또는 ARB 최대 내약 용량을 4주 이상 안정적으로 투여 중이어야 함. 당뇨병 환자는 당뇨병용제 일반원칙을 별도 적용
+  * dapagliflozin 10 ㎎ qd [다파엔] : eGFR 25\~75, dipstick ≥1+ 또는 uACR ≥200 ㎎/g <mark style="color:$info;">\[심평원 고시 제2025-102호]</mark>
+  * empagliflozin 10 ㎎ qd [자디앙] : eGFR 20\~＜45에서는 알부민뇨 문턱 없이, eGFR 45\~90에서는 uACR ≥200 또는 uPCR ≥300 ㎎/g <mark style="color:$info;">\[심평원 고시 제2026-159호]</mark>
+  * 신규 시작 허가 하한은 dapagliflozin eGFR ≥25, empagliflozin ≥20으로 구분함. 계열 권고 eGFR ≥20을 모든 제품의 신규 시작 허가로 해석하지 않음
 
 ### <mark style="color:orange;">비스테로이드성 무기질코르티코이드 수용체 길항제 (ns-MRA)</mark>
 
-* finerenone <mark style="color:blue;">\[케렌디아]</mark> : 최대 내약 용량 ACEI 또는 ARB를 사용 중인데도 알부민뇨(＞30 ㎎/g)가 지속되는 2형 당뇨병 동반 CKD(eGFR ＞25 mL/min/1.73㎡, 정상 혈청 칼륨)에서 콩팥·심혈관 사건 위험 감소
-* 주의 : 고칼륨혈증 - 시작 전·후 혈청 칼륨, eGFR 모니터링 필수
-* finerenone은 ACEI 또는 ARB 및 SGLT2 억제제에 추가할 수 있음(급여 기준과 고칼륨혈증 위험 확인)
-* [급여 기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240201\&sno=4\&mtgMtrRegSno=0002) : 2형 당뇨병 동반 만성콩팥병 환자에서 ACEI/ARB를 투여 중이며, ① uACR ＞300 ㎎/g 또는 요 시험지봉 검사 1+ 이상, ② eGFR 25\~＜75 mL/min/1.73㎡ 조건을 모두 만족할 때 병용 급여
+* finerenone <mark style="color:blue;">\[케렌디아]</mark> : 최대 내약 용량 ACEI 또는 ARB를 사용 중인데도 알부민뇨(uACR ≥30 ㎎/g)가 지속되는 2형 당뇨병 동반 CKD(국내 시작 기준 eGFR ≥25 mL/min/1.73㎡, 혈청 칼륨 확인)에서 콩팥·심혈관 사건 위험 감소
+* 국내 CKD 용량 : eGFR 25\~＜60이면 10 ㎎ qd, ≥60이면 20 ㎎ qd로 시작; ＜25이면 시작하지 않음. K ＞5.0 mmol/L이면 시작하지 않으며, 4.8＜K≤5.0에서는 추가 조기 모니터링을 전제로 선택적으로 고려
+* 시작·재시작·증량 4주 후 K·eGFR 확인. K ＞5.5이면 일시 중단하고 ≤5.0이 되면 10 ㎎ qd로 재시작. 강한 CYP3A4 억제제(예: clarithromycin, itraconazole) 병용은 금기이며 다른 MRA·칼륨 보충제 병용은 피함 <mark style="color:$info;">\[국내 finerenone 허가사항]</mark>
+* finerenone은 ACEI 또는 ARB 및 SGLT2 억제제에 추가할 수 있음. CONFIDENCE(2025)의 병용 이득은 180일 uACR 감소에 대한 것으로 추가적인 신부전·사망 감소를 확증한 결과는 아님 <mark style="color:$info;">\[CONFIDENCE 2025]</mark>
+* 국내 당뇨병 동반 CKD 급여 : ACEI 또는 ARB 최대 내약 용량을 4주 이상 안정적으로 투여 중이며, ① uACR ＞300 ㎎/g 또는 dipstick ≥1+, ② eGFR 25\~＜75 ㎖/min/1.73㎡를 모두 충족하는 제2형 당뇨병 성인. 지속적인 증상이 있는 만성 심부전(NYHA II\~IV)은 이 CKD 급여기준에서 제외하며, eGFR ＜15이면 중단함 <mark style="color:$info;">\[심평원 고시 제2024-20호]</mark>
 
 ### <mark style="color:orange;">GLP-1 수용체 작용제</mark>
 
-* semaglutide : 2형 당뇨병 동반 CKD 환자에서 주요 콩팥 사건 위험 감소가 확인되었으며, SGLT2 억제제 사용 여부에 따른 하위군에서도 효과 방향이 대체로 일관됨
-* 2형 당뇨병 동반 CKD에서 metformin·SGLT2 억제제로 개별 혈당 목표에 도달하지 못했거나 이들 약제를 사용할 수 없는 경우, 심혈관 이득이 입증된 장시간형 GLP-1 수용체 작용제 사용을 권고; 비만·심혈관질환·콩팥 위험을 함께 고려하여 개별화
+* semaglutide : FLOW에서 제2형 당뇨병 동반 CKD의 주요 콩팥 사건 위험 감소가 확인됨; 기저 SGLT2 억제제 사용 하위군은 규모가 작아 병용의 추가적인 임상 결과 이득을 확정하는 근거로 해석하지 않음
+* 제2형 당뇨병 동반 CKD에서는 신장·심혈관 이득이 입증된 GLP-1 수용체 작용제를 혈당·체중·장기 보호 목표에 따라 고려하며, metformin+SGLT2 억제제 치료 실패를 필수 선행조건으로 단정하지 않음. 비당뇨병 CKD 전체로 효과를 확대하지 않음 <mark style="color:$info;">\[FLOW 2024; ADA 2026]</mark>
 
 ***
 
@@ -291,10 +301,10 @@ R80 고립된 단백뇨 Isolated proteinuria
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 경도 단백뇨(A2), 고혈압 동반**
+> **처방례 1. 중등도 증가 알부민뇨(A2), 고혈압 동반**
 >
 > ```
-> 로살탄 50 ㎎/T  1T  qd
+> 코자정 50 ㎎/T  1T  qd
 > ※ 2\~4주 후 혈압·혈청 크레아티닌·칼륨 재검 후 최대 내약 용량까지 증량
 > ```
 >
@@ -304,15 +314,15 @@ R80 고립된 단백뇨 Isolated proteinuria
 >
 > ```
 > 케렌디아 10 ㎎/T  1T  qd (4주 후 K·eGFR에 따라 20 ㎎까지 증량)
-> ※ eGFR ≥60이면 20 ㎎ qd로 시작; eGFR ＜25이면 시작 권장하지 않음
+> ※ eGFR ≥60이면 CKD 용량 20 ㎎ qd로 시작; eGFR ＜25이면 시작 권장하지 않음
 > ※ 시작 전 혈청 칼륨 확인(＞5.0 mEq/L이면 시작하지 않음); 시작 또는 증량 4주 후 재검
-> ※ ACEI/ARB, SGLT2 억제제와 병용 가능; 급여기준(uACR＞300 ㎎/g 또는 dipstick ≥1+, eGFR 25\~＜75) 충족 확인
+> ※ ACEI 또는 ARB 한 가지에 추가; 급여 세부 조건은 위 ns-MRA 항목 참조. K ＞5.5이면 중단, ≤5.0이면 10 ㎎으로 재시작
 > ```
 >
 > _✽고칼륨혈증 위험으로 K 보존 이뇨제·칼륨 보충제 병용에 주의_
 
 {% hint style="warning" %}
-**신규 신증후군은 정형화된 외래 처방보다 원인 평가와 신장내과 조기 의뢰가 우선이다.** 심한 저알부민혈증에서는 유효순환혈액량 감소가 동반될 수 있으므로, 체액 상태·혈압·eGFR·전해질을 확인하지 않고 ACEI/ARB와 이뇨제를 일률적으로 시작하지 않는다.
+**신규 신증후군은 원인 평가와 신장내과 조기 의뢰가 우선임.** 심한 저알부민혈증에서는 유효순환혈액량 감소가 동반될 수 있으므로, 체액 상태·혈압·eGFR·전해질을 확인하지 않고 ACEI/ARB와 이뇨제를 일률적으로 시작하지 않음.
 {% endhint %}
 
 ***
@@ -329,7 +339,7 @@ R80 고립된 단백뇨 Isolated proteinuria
 >
 > * 시작 전 혈청 칼륨이 5.0 mEq/L을 초과하면 시작을 보류하십시오
 > * ACEI 또는 ARB 한 가지와 병용하며, ACEI·ARB·DRI 중 두 가지 이상을 함께 사용하지 마십시오
-> * 급여 기준(2형 당뇨병 동반, uACR/dipstick 기준, eGFR 범위)을 처방 전 매번 확인하십시오 - 기준은 변경될 수 있습니다
+> * 시작·재시작·용량 변경 4주 후 혈청 칼륨과 콩팥 기능을 검사하고, 이후에도 정기 검사를 받으십시오. 고칼륨혈증은 증상이 없어도 발생할 수 있습니다
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -371,3 +381,24 @@ R80 고립된 단백뇨 Isolated proteinuria
 * 얼굴이나 다리가 갑자기 심하게 붓는 경우
 * 소변량이 눈에 띄게 줄어드는 경우
 * 숨이 차거나 흉통이 생기거나 체중이 갑자기 증가하는 경우
+
+***
+
+## 주요 참고문헌 및 확인 자료
+
+### 임상 근거
+
+* KDIGO. KDIGO 2025 Clinical Practice Guideline for the Management of IgAN and IgAV. Kidney Int. 2025;108(Suppl 4S):S1–S71. [지침](https://kdigo.org/guidelines/iga-nephropathy/)
+* KDIGO CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(Suppl 4S):S117–S314. [지침](https://kdigo.org/guidelines/ckd-evaluation-and-management/)
+* 대한신장학회. 2025 고혈압콩팥병 진료지침. [지침](https://ksn.or.kr/bbs/skin/publication/download.php?code=guideline_k&number=2252)
+* American Diabetes Association Professional Practice Committee. 11. Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S246–S260. [DOI](https://doi.org/10.2337/dc26-S011)
+* Agarwal R, et al. Finerenone with Empagliflozin in Chronic Kidney Disease and Type 2 Diabetes. N Engl J Med. 2025;393:533–543. [DOI](https://doi.org/10.1056/NEJMoa2410659) — 병용 시 단기 uACR 감소 근거.
+* Perkovic V, et al. Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes. N Engl J Med. 2024;391:109–121. [DOI](https://doi.org/10.1056/NEJMoa2403347)
+* KDIGO. KDIGO 2025 Clinical Practice Guideline for the Management of Nephrotic Syndrome in Children. [지침](https://kdigo.org/guidelines/nephrotic-syndrome-in-children/)
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. 국내 제품별 적응증·용법·금기 확인. [의약품안전나라](https://nedrug.mfds.go.kr/index)
+* 건강보험심사평가원. Dapagliflozin 경구제, 고시 제2025-102호(2025.7.1.). [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701&sno=2&mtgMtrRegSno=0031)
+* 건강보험심사평가원. Empagliflozin 경구제, 고시 제2026-159호(2026.8.1.). [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801&sno=1&mtgMtrRegSno=0007)
+* 건강보험심사평가원. Finerenone 경구제, 고시 제2024-20호(2024.2.1.). [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240201&sno=4&mtgMtrRegSno=0002)
