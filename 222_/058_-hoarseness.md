@@ -12,7 +12,7 @@
 
 #### <mark style="color:$primary;">급성 원인</mark>
 
-<table><thead><tr><th width="215">원인</th><th>세부</th></tr></thead><tbody><tr><td>급성 후두염</td><td>바이러스가 가장 흔함; 세균성은 드묾 (☞ <a href="../223_/063_-laryngitis.md">후두염</a>)</td></tr><tr><td>성대 출혈</td><td>고성·과도한 발성, 항응고제 사용; 소리를 지르거나 노래한 직후 갑작스런 목소리 변화·실성</td></tr><tr><td>상기도 자극</td><td>알레르기비염·부비동염에 동반된 기침·헛기침·후비루가 발성 증상을 악화할 수 있음 (☞ <a href="053_-rhinosinusitis-sinusitis.md">부비동염</a>)</td></tr><tr><td>경부 외상 / 기관삽관 후</td><td>직접 외상(후두 골절 포함), 삽관에 따른 후두 점막 손상·육아종·성대 운동장애</td></tr><tr><td>기능성 음성장애</td><td>기능성 실성증(functional aphonia), 급성 스트레스 관련 음성 변화 등; 신체증상장애와 동일한 진단은 아님</td></tr></tbody></table>
+<table><thead><tr><th width="215">원인</th><th>세부</th></tr></thead><tbody><tr><td>급성 후두염</td><td>바이러스가 가장 흔함; 세균성은 드묾 (☞ <a href="../223_/063_-laryngitis.md">후두염</a>)</td></tr><tr><td>성대 출혈</td><td>고성·과도한 발성, 항응고제 사용; 소리를 지르거나 노래한 직후 갑작스러운 목소리 변화·실성</td></tr><tr><td>상기도 자극</td><td>알레르기비염·부비동염에 동반된 기침·헛기침·후비루가 발성 증상을 악화할 수 있음 (☞ <a href="053_-rhinosinusitis-sinusitis.md">부비동염</a>)</td></tr><tr><td>경부 외상 / 기관삽관 후</td><td>직접 외상(후두 골절 포함), 삽관에 따른 후두 점막 손상·육아종·성대 운동장애</td></tr><tr><td>기능성 음성장애</td><td>기능성 실성증(functional aphonia), 급성 스트레스 관련 음성 변화 등; 신체증상장애와 동일한 진단은 아님</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">만성 원인</mark>
 
@@ -21,7 +21,7 @@
 #### <mark style="color:$primary;">약물 유발 목쉼</mark>
 
 * 흡입 스테로이드(ICS) : 용량·흡입기 종류·흡입법과 관련된 후두 침착으로 점막 자극, 성문 폐쇄 이상, 드물게 후두 근육병증·진균성 후두염을 유발할 수 있음; 특정 성분이 일관되게 더 안전하다고 단정하기 어려움
-* warfarin·DOAC·혈전용해제 등 : 음성 외상 시 성대 출혈 위험을 높일 수 있음; 갑작스런 심한 목소리 변화·실성 시 즉시 발성을 중단하고 신속히 이비인후과 의뢰
+* warfarin·DOAC·혈전용해제 등 : 음성 외상 시 성대 출혈 위험을 높일 수 있음; 갑작스러운 심한 목소리 변화·실성 시 즉시 발성을 중단하고 신속히 이비인후과 의뢰
 * 테스토스테론·danazol 등 안드로겐성 약물 : 특히 여성에서 저음화 등 음성 변화가 비가역적일 수 있음
 * PDE5 억제제·bisphosphonate : 각각 성대 혈종·화학적 후두염이 드물게 보고됨; 인과 근거는 제한적
 * ACE 억제제 : 만성 기침 → 성대 반복 자극; 드물게 혈관부종에 의한 후두 부종
@@ -44,13 +44,13 @@
 * 흡기성 협착음(stridor), 호흡곤란, 저산소증·청색증 또는 의식 변화  `상기도 폐쇄` `후두개염` `후두 부종` `양측 성대 마비`
 * 침을 삼키지 못함, 침흘림, 급격히 진행하는 연하곤란·호흡곤란  `급성 후두개염` `심경부 감염`
 * 경부 외상 후 목소리 변화 + 피하기종·후두 압통·객혈  `후두 골절`
-* 입술·혀·목 부종이 동반된 갑작스런 목소리 변화  `혈관부종`
-* 항정신병제·metoclopramide 투여 후 갑작스런 목소리 변화 + stridor  `급성 후두 근긴장이상`
+* 입술·혀·목 부종이 동반된 갑작스러운 목소리 변화  `혈관부종`
+* 항정신병제·metoclopramide 투여 후 갑작스러운 목소리 변화 + stridor  `급성 후두 근긴장이상`
 * 목쉼과 함께 갑자기 발생한 구음장애·복시·편측 마비·안면마비·운동실조·의식 변화  `뇌졸중`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 소리를 지르거나 노래한 직후 갑작스런 심한 목소리 변화·실성  `성대 출혈`
+* 소리를 지르거나 노래한 직후 갑작스러운 심한 목소리 변화·실성  `성대 출혈`
 * 객혈, 경부 종괴·림프절 종대, 설명되지 않는 체중 감소  `후두암` `두경부암`
 * 귀 진찰은 정상인데 지속되는 편측 이통  `후두암` `하인두암`
 * 지속적으로 진행·악화되거나 연하통·연하곤란이 동반된 목쉼  `후두암` `하인두암`
@@ -87,7 +87,7 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-* 소리 지름(shouting) 직후 갑작스런 실성(aphonia) → 성대 출혈
+* 소리 지름(shouting) 직후 갑작스러운 실성(aphonia) → 성대 출혈
 * 기식성 음성(바람 새는 소리) + 기침 약함 + 흡인 경향 → 성대 불완전 폐쇄 - 성대 마비, 노인성 음성 위축(presbyphonia)
 * 말할 때 끊기고 조이거나 쥐어짜는 소리, 웃음·노래·속삭임에서는 상대적으로 호전(과제 특이적) → 경련성 발성장애; 내전형은 조이는 소리, 외전형은 숨 새는 끊김이 특징
 * 조이는 소리 + 발성 노력 증가, 과제와 무관하게 지속 → MTD
@@ -98,7 +98,7 @@
 * 발성 피로(fatigable) + 오후·저녁에 심해지는 일중 변동 → 중증근무력증(MG)
 * 속삭임은 되는데 발성 불가 → 기능성 음성장애를 시사할 수 있으나 단독 진단 불가
 * 갑상선·흉부·심장 수술 후 발생 → RLN 손상 / 성대 마비
-* ICS 사용 중 발생 → 스테로이드 유발 dysphonia
+* ICS 사용 중 발생 → ICS 유발 dysphonia
 * 후두 구조 정상 + 음성 피로·과긴장 → MTD → 음성 치료 의뢰
 
 {% hint style="danger" %}
@@ -121,18 +121,18 @@ graph TD
 
     Start(["목쉼 환자"])
     Start --> Q1["즉각 조치 항목에 해당?"]
-    Q1 -- yes --> E["기도 확보·산소 공급 등<br/>응급 조치 후 이송;<br/>필요시 119"]
-    Q1 -- no --> Q2["당일~수일 내 평가 항목에 해당?"]
-    Q2 -- yes --> QH["성대 출혈 의심?"]
-    QH -- yes --> H["즉시 발성 중단;<br/>가능하면 당일 후두 평가"]
-    QH -- no --> L["당일~수일 내<br/>후두경 평가"]
-    Q2 -- no --> Q3["명확한 상기도감염 또는<br/>일시적 음성 과사용?"]
-    Q3 -- yes --> S["상대적 음성 휴식,<br/>수분·자극 회피,<br/>원인별 대증 치료"]
-    Q3 -- no --> O["원인 평가 + 음성 위생;<br/>후두경 조기 고려"]
+    Q1 -- 예 --> E["기도 확보·산소 공급 등<br/>응급 조치 후 이송;<br/>필요시 119"]
+    Q1 -- 아니오 --> Q2["당일~수일 내 평가 항목에 해당?"]
+    Q2 -- 예 --> QH["성대 출혈 의심?"]
+    QH -- 예 --> H["즉시 발성 중단;<br/>가능하면 당일 후두 평가"]
+    QH -- 아니오 --> L["당일~수일 내<br/>후두경 평가"]
+    Q2 -- 아니오 --> Q3["명확한 상기도감염 또는<br/>일시적 음성 과사용?"]
+    Q3 -- 예 --> S["상대적 음성 휴식,<br/>수분·자극 회피,<br/>원인별 대증 치료"]
+    Q3 -- 아니오 --> O["원인 평가 + 음성 위생;<br/>후두경 조기 고려"]
     S --> Q4["발병 후 4주 이내 호전?"]
     O --> Q4
-    Q4 -- yes --> C["경과 관찰;<br/>재발 시 재평가"]
-    Q4 -- no --> L2["후두경 검사 또는<br/>이비인후과 의뢰"]
+    Q4 -- 예 --> C["경과 관찰;<br/>재발 시 재평가"]
+    Q4 -- 아니오 --> L2["후두경 검사 또는<br/>이비인후과 의뢰"]
 
     classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
     classDef question fill:#fff9c4,stroke:#ffe082;
@@ -155,8 +155,8 @@ graph TD
     Start(["발병 후 4주까지 호전되지 않음"])
     Start --> L["후두경 검사 또는<br/>이비인후과 의뢰"]
     L --> Q["후두 소견과 병력상<br/>원인 확인?"]
-    Q -- yes --> T["원인별 치료<br/>음성치료·수술·약물·기저질환 관리"]
-    Q -- no --> W["전문 음성 평가·후두 미세진동 검사;<br/>필요시 원인에 따른 CT·MRI·검사실 검사"]
+    Q -- 예 --> T["원인별 치료<br/>음성치료·수술·약물·기저질환 관리"]
+    Q -- 아니오 --> W["전문 음성 평가·후두 미세진동 검사;<br/>필요시 원인에 따른 CT·MRI·검사실 검사"]
     T --> F["치료 반응·음성 관련<br/>삶의 질 추적"]
     W --> F
 
@@ -191,7 +191,7 @@ graph TD
 
 ### <mark style="color:orange;">진단별 치료 요약</mark>
 
-<table><thead><tr><th width="200">진단</th><th width="185">1차 치료</th><th>약물·시술 역할</th></tr></thead><tbody><tr><td>급성 바이러스 후두염</td><td>상대적 음성 휴식, 수분·자극 회피</td><td>원칙적으로 약물 불필요; 항생제·전신 스테로이드 routine 사용 금지</td></tr><tr><td>MTD</td><td>후두경 평가 후 음성 치료</td><td>특이 약물치료 없음; 동반 질환은 별도 적응증에 따라 치료</td></tr><tr><td>성대 결절</td><td>음성 치료 + 발성 습관 교정</td><td>보존치료 실패 시 수술 고려</td></tr><tr><td>성대 폴립</td><td>음성 치료·관찰 또는 수술을 개별화</td><td>증상성 병변이 보존치료에 반응하지 않으면 수술 고려</td></tr><tr><td>Reinke 부종</td><td>금연·자극 회피</td><td>지속적 음성장애·기도 문제가 있으면 음성 치료 및 수술 고려</td></tr><tr><td>GERD 관련</td><td>일반 GERD 기준에 따른 생활습관 교정</td><td>전형적 GERD 증상 또는 객관적 근거가 있을 때 PPI 등 고려; 고립된 목쉼만으로 처방하지 않음</td></tr><tr><td>ICS 유발 dysphonia</td><td>흡입법·기기 점검, 최저 유효 용량</td><td>pMDI이면 spacer 고려; 천식·COPD 조절을 유지하며 성분·기기 변경 개별화</td></tr><tr><td>성대 마비</td><td>원인 평가 + 음성·연하 평가</td><td>회복 가능성에 따라 음성 치료, 주입 후두성형술, 갑상성형술·재신경화술 등; 흡인 위험·심한 음성장애가 있으면 자연 회복을 기다리는 동안에도 조기 주입 후두성형술 등 고려 <mark style="color:$info;">[대한후두음성언어의학회 2020]</mark></td></tr><tr><td>경련성 발성장애</td><td>Botulinum toxin 주사</td><td>경구 약물 효과는 제한적</td></tr><tr><td>Presbyphonia</td><td>음성 치료 + 발성 훈련</td><td>의미 있는 성문 폐쇄부전이 있으면 주입 후두성형술 고려</td></tr></tbody></table>
+<table><thead><tr><th width="200">진단</th><th width="185">1차 치료</th><th>약물·시술 역할</th></tr></thead><tbody><tr><td>급성 바이러스 후두염</td><td>상대적 음성 휴식, 수분·자극 회피</td><td>원칙적으로 약물 불필요; 항생제·전신 스테로이드 routine 사용 금지</td></tr><tr><td>MTD</td><td>후두경 평가 후 음성 치료</td><td>특이 약물치료 없음; 동반 질환은 별도 적응증에 따라 치료</td></tr><tr><td>성대 결절</td><td>음성 치료 + 발성 습관 교정</td><td>보존치료 실패 시 수술 고려</td></tr><tr><td>성대 폴립</td><td>음성 치료·관찰 또는 수술을 개별화</td><td>증상성 병변이 보존치료에 반응하지 않으면 수술 고려</td></tr><tr><td>Reinke 부종</td><td>금연·자극 회피</td><td>지속적 음성장애·기도 문제가 있으면 음성 치료 및 수술 고려</td></tr><tr><td>GERD 관련</td><td>일반 GERD 기준에 따른 생활습관 교정</td><td>전형적 GERD 증상 또는 객관적 근거가 있을 때 PPI 등 고려; 고립된 목쉼만으로 처방하지 않음</td></tr><tr><td>ICS 유발 dysphonia</td><td>흡입법·기기 점검, 최저 유효 용량</td><td>pMDI이면 spacer 고려; 천식·COPD 조절을 유지하며 성분·기기 변경 개별화</td></tr><tr><td>성대 마비</td><td>원인 평가 + 음성·연하 평가</td><td>회복 가능성에 따라 음성 치료, 주입 후두성형술, 갑상성형술·재신경화술 등; 흡인 위험·심한 음성장애가 있으면 자연 회복을 기다리는 동안에도 조기 주입 후두성형술 등 고려 <mark style="color:$info;">[대한후두음성언어의학회 2020]</mark></td></tr><tr><td>경련성 발성장애</td><td>botulinum toxin 주사</td><td>경구 약물 효과는 제한적</td></tr><tr><td>Presbyphonia</td><td>음성 치료 + 발성 훈련</td><td>의미 있는 성문 폐쇄부전이 있으면 주입 후두성형술 고려</td></tr></tbody></table>
 
 ***
 
@@ -239,7 +239,7 @@ graph TD
 ### <mark style="color:orange;">PPI</mark>&#x20;
 
 * 목쉼만 있는 환자는 증상만으로 LPR을 진단하거나 PPI를 경험적으로 처방하지 않음; 발병 후 4주까지 호전되지 않으면 PPI 반응을 기다리지 말고 후두경 평가
-* heartburn·산 역류 등 전형적 GERD 증상이 함께 있으면 추가 검사 전 PPI bid 8\~12주 시험 치료를 고려할 수 있음(근거 수준 낮음) <mark style="color:$info;">\[ACG 2022]</mark>; 처방례의 omeprazole 20 ㎎ bid는 해당 제품 <mark style="color:blue;">\[오엠피]</mark>의 GERD 허가 용법(1일 1회)을 벗어난 허가 외 용법임
+* heartburn·산 역류 등 전형적 GERD 증상이 함께 있으면 추가 검사 전 PPI bid 8\~12주 시험 치료를 고려할 수 있음(근거 수준 낮음) <mark style="color:$info;">\[AJG 2022]</mark>; 처방례의 omeprazole 20 ㎎ bid는 해당 제품 <mark style="color:blue;">\[오엠피]</mark>의 GERD 허가 용법(1일 1회)을 벗어난 허가 외 용법임
 * 전형적 증상 없이 후두 증상만 있으면 경험적 PPI보다 객관적 역류검사를 우선함. GERD가 확진되지 않은 환자에서 PPI 중단 상태의 객관적 역류검사가 음성이고 다른 유지 적응증이 없으면, 목쉼 치료 목적으로 투여한 PPI를 중단함
 * 후두 발적·부종 등 후두경 소견이나 증상 점수만으로 LPR을 확진하지 않음; 후두경은 종양·성대 병변 등 다른 원인을 배제하는 데 중요함 <mark style="color:$info;">\[AJG 2026]</mark>
 * 지속적인 인후 증상에 대한 무작위시험에서 PPI가 위약보다 우수하지 않았으므로 반응이 없는데 장기 지속하지 않음 <mark style="color:$info;">\[BMJ 2021]</mark> (☞ [인후두역류](../223_/062_-laryngopharyngeal-reflux-lpr.md), [위식도역류질환](../224_/081_-gerd.md))
@@ -292,7 +292,7 @@ graph TD
 > 오엠피 20 ㎎/T  1T  bid  아침·저녁 식전 30~60분
 > ```
 >
-> _✽Heartburn·산 역류 등 전형적 GERD 증상이 함께 있고 경고 증상이 없을 때 식도 외 증상에 대한 ACG 권고에 따라 8\~12주 시험 치료를 고려할 수 있음. Omeprazole 20 ㎎ bid는 해당 제품[오엠피]의 GERD 허가 용법(1일 1회)을 벗어난 허가 외 용법임. 목쉼만으로 LPR을 진단해 처방하지 않으며, 목쉼이 발병 후 4주까지 호전되지 않으면 약물 반응을 더 기다리지 말고 후두경 검사 또는 의뢰._
+> _✽heartburn·산 역류 등 전형적 GERD 증상이 함께 있고 경고 증상이 없을 때 식도 외 증상에 대한 ACG 권고에 따라 8\~12주 시험 치료를 고려할 수 있음. omeprazole 20 ㎎ bid는 해당 제품 <mark style="color:blue;">\[오엠피]</mark>의 GERD 허가 용법(1일 1회)을 벗어난 허가 외 용법임. 목쉼만으로 LPR을 진단해 처방하지 않으며, 목쉼이 발병 후 4주까지 호전되지 않으면 약물 반응을 더 기다리지 말고 후두경 검사 또는 의뢰. 허가 외 용법이므로 급여가 인정되지 않을 수 있음(비급여 가능)._
 
 > **처방례 3. 중등도\~중증 알레르기비염이 확인되고 비강 증상이 동반된 목쉼**
 >
@@ -346,7 +346,7 @@ graph TD
 * 위식도역류가 목쉼과 함께 나타날 수 있지만, **목쉼만으로 위산 역류를 원인이라고 단정할 수는 없습니다.**
 * 알레르기비염이나 부비동염에 동반된 후비루·기침·헛기침이 성대를 자극하기도 합니다.
 * 목과 후두 주변 근육이 과도하게 긴장된 근긴장성 발성장애(MTD)는 목소리가 쉽게 피로해집니다. 후두경 검사 후 원인에 맞춘 **음성 치료**가 도움이 됩니다.
-* 드물게 성대에 혹이 생기거나(결절, 폴립), 후두암이 원인이 될 수 있으므로 오래 지속되면 반드시 검사를 받아야 합니다.
+* 성대에 결절·폴립 같은 혹이 생길 수 있고, 드물게 후두암이 원인일 수도 있으므로 오래 지속되면 반드시 검사를 받아야 합니다.
 
 #### <mark style="color:$primary;">일상에서 어떻게 관리하나요?</mark>
 
@@ -383,8 +383,8 @@ graph TD
 
 * [AAO-HNSF. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1 Suppl):S1-S42.](https://doi.org/10.1177/0194599817751030) - 후두경 평가 시점, 경험적 약물 제한 및 음성 치료 원칙
 * [AAO-HNS. AAO37: Dysphonia: Laryngeal Examination+. 2026.](https://www.entnet.org/resource/aao37-dysphonia-laryngeal-examination-2026/) - 2018 진료지침에 근거한 진료 질 평가 지표; 독립된 개정 진료지침은 아님
-* [ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022.](https://doi.org/10.14309/ajg.0000000000001538) - 식도 외 증상에서 역류검사와 PPI 시험 치료 대상 선정
-* [Use of proton pump inhibitors to treat persistent throat symptoms: multicentre, double blind, randomised, placebo controlled trial. BMJ. 2021;372:m4903.](https://www.bmj.com/content/372/bmj.m4903) - 지속적 인후 증상에 대한 TOPPITS 무작위시험
+* [Katz PO, et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56.](https://doi.org/10.14309/ajg.0000000000001538) - 식도 외 증상에서 역류검사와 PPI 시험 치료 대상 선정
+* [O'Hara J, et al. Use of proton pump inhibitors to treat persistent throat symptoms: multicentre, double blind, randomised, placebo controlled trial. BMJ. 2021;372:m4903.](https://www.bmj.com/content/372/bmj.m4903) - 지속적 인후 증상에 대한 TOPPITS 무작위시험
 * [Yadlapati R, et al. The San Diego Consensus for Laryngopharyngeal Symptoms and Laryngopharyngeal Reflux Disease. Am J Gastroenterol. 2026;121(2):322-336. 온라인 선출판 2025.](https://doi.org/10.14309/ajg.0000000000003482) - 후두 증상과 역류질환의 구분, 후두경·증상 점수만으로 LPR을 확진하지 않는 원칙
 * [대한후두음성언어의학회. Guidelines for the Management of Unilateral Vocal Fold Paralysis From the Korean Society of Laryngology, Phoniatrics and Logopedics. Clin Exp Otorhinolaryngol. 2020;13(4):340-360.](https://doi.org/10.21053/ceo.2020.00409) - 일측 성대 마비의 평가 및 흡인 위험 시 조기 성문 폐쇄 개선 치료
 * [미국 NIDCD. Hoarseness.](https://www.nidcd.nih.gov/health/hoarseness) - 성대 출혈 의심 시 즉각적인 음성 휴식과 신속한 진료
