@@ -43,7 +43,7 @@
 * 기간과 무관하게 경결(induration), 말린 듯 솟은 경계, 쉽게 출혈하는 적색·백색반, 경부 림프절병증, 감각 저하, 진행성 연하 곤란 또는 체중 감소를 동반한 구강 병변  `구강암`
 * 원인 불명의 단일 궤양이 3주 이상 지속  `구강암`
 * 구강 궤양 + 생식기 궤양·피부 병변  `베체트병`
-* 구강 궤양 + 통증·눈부심·시력 저하를 동반한 눈 충혈 → **당일 안과 평가**; 갑작스럽거나 현저한 시력 소실은 즉각 평가  `포도막염` `베체트병`
+* 구강 궤양 + 통증·눈부심·시력 저하를 동반한 눈 충혈  `포도막염` `베체트병`
 * 면역 저하자(HIV, 항암치료 중, 고용량 스테로이드 복용)에서 발생한 광범위 또는 심한 구내염  `중증 HSV 감염` `칸디다증` `호중구감소증`
 * 반복되는 수포·미란, 박리성 치은염 또는 눈·피부 병변  `미란형 구강 편평태선` `천포창` `점막 유천포창` `RIME`
 * 치간 유두의 괴사·궤양, 심한 잇몸 통증·출혈, 구취, 발열  `괴사성 치은염`
@@ -70,7 +70,7 @@
 * 구강(주로 연구개, 구강인두)의 통증성 작은 궤양, 피부 병변 없음 → 헤르판지나
 * 수포 병력 있음 + 각화 점막(잇몸·경구개)의 국한성 재발 병변 → 재발성 구강 내 HSV 의심; 초감염은 각화·비각화 점막 모두 침범 가능하며 급성 미만성 치은염·발열이 단서 → 항바이러스제 고려; 스테로이드 단독 금지
 * 흰색 plaque + 닦이면 벗겨짐 → 칸디다증 → 항진균제
-* 위 2가지 아님 + 비각화 점막 + 재발 반복 → 아프타 궤양 → 아래 알고리듬 적용
+* 위 감염성 병변의 특징이 없고 비각화 점막에 전형적인 궤양이 재발 → 아프타 궤양 고려 → 아래 알고리듬 적용
 
 ![](../.gitbook/assets/e80e570d-2382-4fa5-a619-bf230f3b8d39.JPG)
 
@@ -138,19 +138,20 @@
 * 임상 진단; 검사는 보통 필요 없음
 * 재발 빈발 또는 비전형 경과 시 혈액 검사 : CBC, ferritin, 엽산, Vit B12
 
-**검사 제외 대상 (저위험)**
+**검사를 생략할 수 있는 저위험 양상**
 
-* 연 ≤2회, 소형(minor) 궤양, 1\~2주 내 완전 회복, 전신 증상 없음
+* 드물게 재발하는 소형(minor) 궤양, 1\~2주 내 완전 회복, 전신 증상 없음
 * 검사 없이 대증 치료 + 생활 교정
 
-**검사(Work-up) 대상** - 다음 중 하나라도 해당 시
+**검사(Work-up)를 고려할 양상**
 
-* 빈번한 재발(예: 연 ≥3회), 크거나 심한 통증·다발성, 거의 연속적인 병변, 2주 이상 미치유
+* 빈번한 재발, 크거나 심한 통증·다발성, 거의 연속적인 병변, 2주 이상 미치유
 * 성인에서 새로 시작된 경우, 전신 증상 동반, 치료 반응 불량
+* 연 ≥3회 재발은 평가를 고려하는 실무적 예시이며, 빈도만으로 일률적인 혈액 검사를 결정하지 않고 병변의 중증도·지속성·동반 증상을 함께 판단
 
 **1차 기본 검사**
 
-* CBC (± differential), ferritin, Vit B12, folate\
+* CBC with differential(필요시 ANC 확인), ferritin, Vit B12, folate\
   → 결핍 확인 시 4\~8주 보충 후 재평가
   * 정상 혈중 농도에서의 경험적 Vit B12 보충도 일부 연구에서 효과가 보고되었으나 근거가 제한적이므로 routine 투여보다 식이·결핍·흡수장애를 평가하여 개별 결정
 * 임상 양상에 따라 ESR/CRP, 셀리악병 혈청검사(tTG-IgA + total IgA), HIV 검사 등을 선택하고 복통·설사·체중 감소, 생식기·눈·피부 병변이 있으면 관련 전문과 의뢰
@@ -165,13 +166,13 @@
 
 * Periodic Fever, Aphthous stomatitis, Pharyngitis, Adenitis의 복합 증상이 발생하는 증후군
 * 증상 : 규칙적인 발열, 인후통, 구강 궤양, 경부 림프절 부종
-* 대개 5세 이전 시작하지만 이후 소아에서도 발생 가능; 3\~8주 간격으로 재발하며 발작은 보통 3\~6일 지속; 대개 성장하면서 발작 빈도가 감소하고 자연 관해되지만, 일부는 청소년기·성인기까지 지속되거나 재발할 수 있음 <mark style="color:$info;">\[Pediatr Rheumatol 2025]</mark>
+* 대개 5세 이전 시작하지만 이후 소아에서도 발생 가능; 3\~8주 간격으로 재발하며 발작은 보통 3\~6일 지속; 대개 소아·청소년기에 호전되나 일부는 성인기까지 지속하거나 재발할 수 있음
   * 성인에서도 드물게 발생 가능 (adult-onset PFAPA); 진단 지연이 흔함
-* 감별 : 발작 중 CBC differential·ANC를 확인하고, 주기성 호중구감소증이 의심되면 전문의 협진하 연속 혈구검사로 주기성을 평가(예: 주 2회씩 6주); 발작 중·사이의 단회 검사만으로 배제하지 않음 <mark style="color:$info;">\[EHA/EuNet-INNOCHRON 2023]</mark>
+* 감별 : 발작 중과 발작 사이 CBC with differential 및 ANC를 확인. 주기성 호중구감소증이 의심되면 소아청소년과·혈액 전문의와 상의하여 약 6주 동안 주 2\~3회 연속 검사로 주기적 감소 여부를 평가하며, 소수의 정상 검사만으로 배제하지 않음 <mark style="color:$info;">\[HemaSphere 2023]</mark>
 * 원인 : 불명; 면역 관련 추정
 * 치료
   * 성장하면서 자연 소실되는 경우가 많으므로 발작 빈도·중증도와 삶의 질을 고려하여 개별화
-  * 발작 중단 : 발열 시작 시 prednisolone 1\~2 ㎎/㎏(또는 0.5\~1 ㎎/㎏) 단회 경구 투여가 효과적이나 다음 발작까지의 간격을 단축할 수 있음
+  * 발작 중단 : 발열 시작 시 prednisolone 1 ㎎/㎏ 단회 경구 투여(최대 60 ㎎). 반응이 불충분하면 단회 투여 용량을 2 ㎎/㎏(최대 60 ㎎)으로 조정하는 방안을 고려함. 다음 발작까지의 간격을 단축할 수 있어, 발작 간격이 14\~21일로 짧아지면 증량을 고려하고 ≤14일로 빈번해지면 다른 치료 전략으로 전환 <mark style="color:$info;">\[Pediatr Rheumatol 2020]</mark>
   * 예방 : 발작이 잦으면 colchicine 또는 cimetidine(근거 제한적)을 선택적으로 고려
   * 빈번한 발작·현저한 삶의 질 저하 또는 약물 치료 불충분 시 편도절제술 고려
 
@@ -258,7 +259,7 @@
 ```mermaid
 flowchart TD
     A([구강 궤양 환자]) --> PRE["Red Flags의 즉각 조치·<br/>당일~수일 내 평가 항목?"]
-    PRE --> |예| RF["Red Flags에 따라<br/>즉각 조치 또는 당일~수일 내 평가"]
+    PRE --> |예| RF["포도막염 의심: 당일 안과 평가<br/>그 외 Red Flags에 따라<br/>즉각 조치 또는 당일~수일 내 평가"]
     PRE --> |아니오| DIFF["형태·분포·병력"]
     DIFF --> |수포·급성 치은염| HSV["HSV 감별<br/>필요시 항바이러스제<br/>스테로이드 단독 금지"]
     DIFF --> |손발 발진·연구개 궤양| ENT["수족구병·헤르판지나<br/>대증 치료·탈수 예방"]
@@ -317,11 +318,13 @@ class RF,REFER,FOLLOW blue
 {% hint style="info" %}
 **항암·방사선 치료에 의한 구강점막염(oral mucositis)** <mark style="color:$info;">\[Cancer 2020]</mark>
 
-* 기본 구강 관리 : 부드러운 칫솔질, 무자극 가글(생리 식염수 또는 베이킹소다 가글)을 모든 환자에게 권장
-* 두경부 방사선 치료(중등도 용량) 환자의 예방 : benzydamine 가글
-* 5-FU bolus 또는 고용량 melphalan 투여 시 : 구강 냉각요법(oral cryotherapy; 투여 중 얼음 조각 물기)
+* 기본 구강 관리 : 부드러운 칫솔질과 구강 청결 유지. 생리 식염수 또는 베이킹소다 가글은 구강 청결·편안함을 위한 보조 관리로 고려할 수 있으나 구강점막염 자체의 예방·치료 효과를 확정할 근거는 부족
+* 두경부 방사선 치료(＜50 Gy) 환자의 예방 : benzydamine 가글 권고. 방사선·항암 병용 치료에서도 예방 목적으로 고려할 수 있으나 권고 강도는 상대적으로 낮음
+* 구강 냉각요법(oral cryotherapy) : bolus 5-FU 투여 중 30분간 적용; 고용량 melphalan을 포함한 전처치 후 자가 조혈모세포이식 환자에서도 예방 목적으로 권고하며 구체적 시행은 해당 치료 프로토콜에 따름
 * 두경부 방사선 치료 환자의 구강점막염 예방 목적 chlorhexidine 사용은 권고하지 않음
-* mTOR 억제제(everolimus) 구내염 예방 : 투여 시작 시부터 알코올 무함유 dexamethasone 0.5 ㎎/5 ㎖ 용액 10 ㎖를 2분간 머금은 뒤 뱉기, 1일 4회 × 8주 <mark style="color:$info;">\[Lancet Oncol 2017]</mark>; 상용 제품이 없어 조제 가능 여부 확인
+* mTOR 억제제(everolimus) 구내염 : 종양내과 치료계획에 따라 dexamethasone 가글을 예방 또는 증상 발생 시 조기 치료로 고려
+  * SWISH 예방 요법 예 : everolimus 시작 시부터 알코올 무함유 dexamethasone 0.5 ㎎/5 ㎖ 용액 10 ㎖를 2분간 머금은 뒤 뱉기, 1일 4회 × 8주; 단일군 2상 연구에 근거하며 국내 조제 가능 여부 확인 <mark style="color:$info;">\[Lancet Oncol 2017]</mark>
+  * MIST 무작위시험에서는 예방 투여가 첫 구강 통증 발생 시 시작하는 전략보다 우월함을 입증하지 못함. 등록 부진으로 39명 무작위배정 후 등록을 조기 종료하여 해석에 제한이 있으며 모든 환자에서 예방 투여의 우월성을 단정하지 않음 <mark style="color:$info;">\[Semin Oncol 2023]</mark>
 * 혀 백태 관리 (대한가정의학회 '일차진료의를 위한 호스피스·완화의료 진료 매뉴얼' 인용)
   * 부드러운 칫솔이나 적신 거즈로 자주 닦기
   * 베이킹소다 가글 : 온수 1컵 + 소금 ½ tsp + 베이킹소다 ½ tsp, 1일 4회 (식후 및 취침 시)
@@ -355,7 +358,8 @@ class RF,REFER,FOLLOW blue
 
 #### <mark style="color:$primary;">국소 마취제</mark>
 
-* 제품별 허가사항에 따라 병소에만 소량을 제한적으로 도포. 구강·인두 감각이 둔해진 동안 음식 섭취·껌 저작을 피하고 삼킴 장애·흡인·혀나 볼 깨물림에 주의; 식전 도포를 일률적으로 권하지 않음
+* 병소에 소량을 제한적으로 도포. 식전 사용을 일률적으로 권하지 않으며, 입안·목의 감각 저하나 삼킴 이상이 있으면 감각이 회복될 때까지 음식·음료 섭취를 피함; 혀·볼 깨물림과 과량·반복 도포·삼킴에 주의
+* 소아 감염성 구강 궤양에서 국소 lidocaine의 수분 섭취량 개선 효과는 확립되지 않음. 경구 진통제와 수분 공급이 기본이며, 연령상 사용 가능한 제품도 소아에게 자동 대체 처방하지 않음 <mark style="color:$info;">\[Ann Emerg Med 2014]</mark>
 * 카밀레화틴크/lidocaine <mark style="color:blue;">\[카미스타드-엔]</mark> : 12세 이상에서 1회 약 0.5 ㎝, 1일 3회; 임부·수유부 금기 등 제품 허가사항 확인
 * lidocaine 0.5%/cetylpyridinium 겔 <mark style="color:blue;">\[페리톡겔]</mark> : 의치 자극·입안 궤양의 통증 완화; 소량을 통증 부위에 도포하고 20분 후에도 통증이 지속되면 1회 추가 가능, 이후 3시간 이상 간격; 5개월 미만 영아 사용 금지, 소아는 보호자 감독하 사용
 
@@ -380,10 +384,10 @@ class RF,REFER,FOLLOW blue
   ✽시작 전 CBC·신기능·간기능 확인 및 투여 초기에 재검. 설사·호중구감소증·간효소 상승·근병증과 CYP3A4/P-gp 억제제(clarithromycin, azole계 항진균제, cyclosporine 등) 상호작용 주의\
   ✽단순 RAS에서 colchicine 실패 후 biologic으로 바로 진행하지 않음
 * Vit B12 : 결핍 시 보충; 정상 수치에서의 예방 효과는 제한된 연구에 근거하므로 개별 결정
-* 국소 소염·진통제 : benzydamine hydrochloride 액 1회 15 ㎖, 1일 2\~3회 가글 <mark style="color:blue;">\[탄툼 액]</mark>; 자극감이 강하면 소량의 물로 희석하며 의사의 감독 없이 7일 이상 연속 사용하지 않음
+* 국소 소염·진통제 : benzydamine hydrochloride 액 1회 15 ㎖, 1일 2\~3회 가글 <mark style="color:blue;">\[삼아탄툼액]</mark>; 자극감이 강하면 소량의 물로 희석하며 의사의 감독 없이 7일 이상 연속 사용하지 않음; 국내 허가사항상 12세 이하 소아에는 적합하지 않음
 * 살균 가글 : chlorhexidine 0.12% 액 1회 15 ㎖, 1일 2회 약 1분간 가글 후 뱉음 <mark style="color:blue;">\[헥사메딘 액]</mark>\
   ✽치태 억제·구강 위생 보조 목적. RAS의 통증·치유기간을 줄이는 효과는 제한적이며 장기간 연속 사용하지 않음
-  * 보험기준 (가글 용제, 2018-12-01) : 허가 적응증은 보철(의치)에 의한 염증, 아구창 등의 구강 내 칸디다 감염증, 치은염, 인두염, 아프타성구내염에 의한 염증의 완화, 치근막 수술 후 살균 소독; 인정 용량은 100 ㎖이며 초과한 용량의 약값은 전액 환자 부담
+  * 보험기준 (가글 용제, 2018-12-01) : 허가 적응증은 보철(의치)에 의한 염증, 아구창 등의 구강 내 칸디다 감염증, 치은염, 인두염, 아프타성구내염에 의한 염증의 완화, 치근막 수술 후 살균 소독; 외래환자 인정 용량은 100 ㎖이며 초과분 약값은 전액 환자 부담. 입원환자 및 암환자는 허가사항의 용법·용량 범위 내 인정
 * amlexanox 5% 페이스트 : 미유통
 
 {% hint style="danger" %}
@@ -398,11 +402,13 @@ class RF,REFER,FOLLOW blue
 
 #### <mark style="color:$primary;">항바이러스제</mark>
 
-* 재발성 병변은 전구기 또는 24시간 이내 시작할수록 효과가 좋음. 중증 초감염 또는 면역 저하자에서는 병변이 진행한 뒤라도 투여 고려
-* 소아 중증 초감염 : 증상 시작 72시간 이내라면 acyclovir 15 ㎎/㎏/회(최대 200 ㎎/회) 1일 5회 × 7일을 고려 <mark style="color:blue;">\[지나시드건조시럽]</mark>(80 ㎎/㎖); 탈수·신기능에 주의 <mark style="color:$info;">\[BMJ 1997]</mark>\
+* 재발성 병변은 전구 증상이 나타나자마자 시작할수록 효과가 좋음. 구순포진의 valacyclovir 1일 요법은 구진·수포·궤양 발생 후 시작한 경우 유효성이 확립되지 않음. 중증 초감염 또는 면역 저하자에서는 병변이 진행한 뒤라도 투여 고려
+* 소아 중증 초감염 : 증상 시작 72시간 이내라면 acyclovir 15 ㎎/㎏/회(최대 200 ㎎/회) 1일 5회 × 7일을 고려 <mark style="color:blue;">\[지나시드건조시럽]</mark>(80 ㎎/㎖); 탈수·신기능에 주의\
   ✽허가 용법은 2세 이상 1회 200 ㎎, 2세 미만 1회 100 ㎎, 1일 5회 × 5일(중증 초감염은 연장 가능)
-* 성인 초감염/첫 임상 발현 : acyclovir 400 ㎎ tid 또는 valacyclovir 1 g bid × 7\~10일을 예로 고려 <mark style="color:blue;">\[발트렉스]</mark>; 임상 반응과 신기능에 따라 조절
-* 성인 재발성 구순포진 : valacyclovir 2 g bid × 1일 <mark style="color:blue;">\[발트렉스]</mark>, famciclovir 1,500 ㎎ 1회 <mark style="color:blue;">\[팜비어]</mark> 또는 acyclovir 400 ㎎ tid × 5일; 재발성 구순포진 요법을 초감염 잇몸구내염에 적용하지 않음
+* 성인 초감염/첫 임상 발현 : acyclovir 400 ㎎ tid 또는 valacyclovir 1 g bid × 7\~10일을 예로 고려 <mark style="color:blue;">\[발트렉스]</mark>; valacyclovir의 초감염 잇몸구내염 치료는 국내 허가 외 사용이며 임상 반응과 신기능에 따라 조절
+* 성인 재발성 구순포진 : valacyclovir 2 g을 12시간 간격으로 2회, 1일만 투여 <mark style="color:blue;">\[발트렉스]</mark> 또는 acyclovir 400 ㎎ tid × 5일
+  * famciclovir 1,500 ㎎ 1회 요법도 국외 근거가 있으나 국내 <mark style="color:blue;">\[팜비어]</mark>의 허가 적응증은 대상포진·생식기포진이므로 구순포진 치료는 허가 외 사용
+  * 재발성 구순포진 요법을 초감염 잇몸구내염에 적용하지 않음
 * 면역 저하자에서 심한 경우 : 정주용 acyclovir 고려, 전문의 의뢰
 
 ### <mark style="color:orange;">구강 칸디다증</mark>
@@ -410,19 +416,24 @@ class RF,REFER,FOLLOW blue
 * 유발요인 교정 : 흡입 스테로이드 사용 후 물로 헹구기, 항생제 필요성 재검토, 구강 건조·당뇨병 관리, 의치의 매일 세척·야간 제거
 * 경증 : nystatin 현탁액 100,000 U/㎖ <mark style="color:blue;">\[제이티니스타틴시럽]</mark>
   * 성인 : 4\~6 ㎖(40만\~60만 단위) qid, 입안에 골고루 머금은 뒤 삼킴 × 7\~14일
+  * 소아(24개월 이상) : 국내 허가 용법은 1회 4\~6 ㎖(40만\~60만 단위), 1일 3\~4회; 가능한 한 오래 입안에 머금은 뒤 삼킴
   * 영아(28일 이상\~24개월 미만) : 1회 1\~2 ㎖(10만\~20만 단위) 1일 1\~4회 입안에 떨어뜨려 투여
-* 중등도 이상, 광범위 병변 또는 국소 치료 실패 : fluconazole 고려; 국내 경구 50 ㎎ 제제의 구강인두 칸디다증 허가 용법은 50 ㎎ qd × 7\~14일, 국제 지침은 중등도\~중증에서 100\~200 ㎎ qd × 7\~14일로 구분 <mark style="color:$info;">\[IDSA 2016]</mark>; 약물 상호작용, 간기능, 임신 가능성 확인 (☞ [구강 칸디다증](055_-oral-candidiasis.md))
+  * 사용 전 충분히 흔들어 균일하게 하며, 증상이 소실된 후에도 48시간 더 치료를 계속함
+* 중등도 이상, 광범위 병변 또는 국소 치료 실패 : 성인에서 fluconazole 100\~200 ㎎ qd × 7\~14일 고려; 소아는 체중에 따른 별도 용량 적용. 약물 상호작용, 신·간기능, 임신 가능성 확인
 * 면역 저하자, 반복·난치성 감염, 연하통·흉통 동반 시 HIV 등 기저 면역저하와 식도 칸디다증을 평가하고 조기 의뢰
+  * 식도 칸디다증은 전신 항진균 치료가 필요하며 구강 칸디다증과 용량·기간이 다름; nystatin만으로 치료하지 않음
 
 ### <mark style="color:orange;">베체트병</mark>
 
 * 구강 병소에 대해 아프타 궤양에 준한 국소 치료
   * triamcinolone : 0.1% 연고 qid <mark style="color:blue;">\[오라메디]</mark>; 0.025 ㎎ 정제 bid 병소 부착 <mark style="color:blue;">\[아프타치]</mark>
   * sucralfate : 5\~10 ㎖ 1\~2분 린스 qid <mark style="color:blue;">\[아루사루민]</mark>
-* 전신 치료 (류마티스내과 협진)
-  * colchicine : 특히 반복성 생식기 궤양·결절홍반 등 점막피부 병변의 예방에 고려; 용량·모니터링은 신·간기능과 병용약에 따라 개별화 <mark style="color:blue;">\[콜킨]</mark>
-  * apremilast : 구강 궤양에 근거가 있음 <mark style="color:$info;">\[NEJM 2019]</mark> <mark style="color:blue;">\[오테리아정]</mark>; 국내 공급 중인 apremilast 제네릭으로, 허가 적응증은 건선·건선성 관절염임. 베체트병 구강 궤양 치료는 허가 외·비급여이며, 건선·건선성 관절염의 제품 급여와 구분함
-  * azathioprine, thalidomide, IFN-α, TNF-α 억제제 등은 장기 침범과 중증도에 따라 전문의가 선택
+* 전신 치료 (류마티스내과 협진) <mark style="color:$info;">\[Ann Rheum Dis 2026]</mark>
+  * colchicine : 반복성 점막피부 병변의 일차 전신 치료로 고려; 특히 생식기 궤양·결절홍반에 효과가 있으며 용량·모니터링은 신·간기능과 병용약에 따라 개별화 <mark style="color:blue;">\[콜킨]</mark>
+  * colchicine에 불응하거나 내약성이 없으면 apremilast 또는 TNF-α 억제제 등을 전문의가 고려
+  * apremilast : 베체트병 구강 궤양 감소에 근거가 있음 <mark style="color:$info;">\[NEJM 2019]</mark> <mark style="color:blue;">\[오테리아]</mark> 등; 국내 해당 품목의 허가 적응증은 건선·건선성 관절염이며 베체트병 구강 궤양은 허가 외 사용. 건선·건선성 관절염의 급여와 베체트병에서의 급여 적용을 구분
+  * azathioprine, thalidomide, IFN-α 등 추가 치료는 장기 침범과 중증도에 따라 전문의가 선택
+  * 점막피부 병변 조절을 위한 전신 스테로이드의 만성 사용은 피함
 
 ### <mark style="color:orange;">치은염</mark>
 
@@ -460,16 +471,16 @@ class RF,REFER,FOLLOW blue
 > 카미스타드-엔 겔 10 g/tube  0.5 ㎝ 병소 도포 tid (12세 이상)
 > ```
 >
-> _✽triamcinolone 국소 연고가 1차 선택. 식후 및 취침 시 적용. 2주 이상 사용 시 구강 칸디다증 주의. 국소 마취제는 병소에만 소량 사용하고 감각이 둔해진 동안 음식 섭취를 피함. 12세 미만은 국소 마취제로 페리톡겔(5개월 이상) 고려_
+> _✽triamcinolone 국소 연고가 1차 선택. 식후 및 취침 시 적용. 2주 이상 사용 시 구강 칸디다증 주의. 국소 마취제는 통증 부위에 소량만 사용하고 감각 저하·삼킴 이상이 있으면 회복될 때까지 음식·음료 섭취를 피함. 소아에서는 경구 진통제와 수분 공급이 기본이며 연령상 사용 가능한 국소 마취제로 자동 대체하지 않음_
 
 > **처방례 2. 아프타 궤양 - 중등도/다발성**
 >
 > ```
 > 아프타치 0.025 ㎎/T        1T 흰색 면을 병소에 부착 bid
-> 탄툼 액 120 ㎖/병          15 ㎖ 가글 bid~tid
+> 삼아탄툼액 100 ㎖/병      15 ㎖ 가글 bid~tid (12세 이하에는 적합하지 않음)
 > ```
 >
-> _✽다발성·심한 통증일 때 부착형 triamcinolone + 국소 소염·진통 가글을 고려. 탄툼 액은 자극감이 있으면 소량의 물로 희석하고 의사의 감독 없이 7일 이상 연속 사용하지 않음. 대안으로 아프니벤큐 액(diclofenac 0.074%, 15 ㎖/포) 15 ㎖ 가글 bid\~tid_
+> _✽다발성·심한 통증일 때 부착형 triamcinolone + 국소 소염·진통 가글을 고려. 삼아탄툼액은 12세 이하 소아에는 적합하지 않음. 자극감이 있으면 소량의 물로 희석하고 의사의 감독 없이 7일 이상 연속 사용하지 않음. 대안으로 아프니벤큐 액(diclofenac 0.074%, 15 ㎖/포) 15 ㎖ 가글 bid\~tid_
 
 > **처방례 3. 아프타 궤양 - 국소제 실패/심한 중증**
 >
@@ -496,7 +507,7 @@ class RF,REFER,FOLLOW blue
 > 타이레놀 500 ㎎/T      1T q6h prn       발열·통증
 > ```
 >
-> _✽가능한 조기에 시작하되, 중증 초감염은 병변이 진행된 뒤에도 치료 고려. 신기능에 따라 감량. 재발성 구순포진에는 별도의 단기요법을 적용하며 초감염과 혼용하지 않음. **활동성 HSV 병변에 항바이러스제 없이 스테로이드 단독 사용 금지**_
+> _✽valacyclovir의 초감염 잇몸구내염 치료는 국내 허가 외 사용. 가능한 조기에 시작하되, 중증 초감염은 병변이 진행된 뒤에도 치료 고려. 신기능에 따라 감량. 재발성 구순포진에는 별도의 단기요법을 적용하며 초감염과 혼용하지 않음. **활동성 HSV 병변에 항바이러스제 없이 스테로이드 단독 사용 금지**_
 
 > **처방례 6. 헤르페스 잇몸구내염 - 소아 중증 초감염 (예: 체중 15 ㎏, 2세 이상)**
 >
@@ -510,10 +521,10 @@ class RF,REFER,FOLLOW blue
 > **처방례 7. 재발성 구순포진 - 성인**
 >
 > ```
-> 발트렉스 500 ㎎/T      4T bid × 1일
+> 발트렉스 500 ㎎/T      4T씩 12시간 간격으로 2회, 1일만 투여
 > ```
 >
-> _✽전구 증상(따끔거림·열감) 또는 병변 발생 24시간 이내 복용 시작. 신기능 저하 시 감량. 초감염 잇몸구내염에는 적용하지 않음. 대안으로 팜비어 750 ㎎ 2T 1회_
+> _✽전구 증상(따끔거림·열감)이 나타나자마자 복용 시작. 구진·수포·궤양 발생 후 시작한 경우 유효성이 확립되지 않음. 신기능 저하 시 감량. 초감염 잇몸구내염에는 적용하지 않음_
 
 > **처방례 8. 구강 칸디다증 - 경증 (성인)**
 >
@@ -521,7 +532,7 @@ class RF,REFER,FOLLOW blue
 > 제이티니스타틴시럽 100,000 U/㎖ 100 ㎖/병   5 ㎖ qid × 7~14일
 > ```
 >
-> _✽입안에 골고루 머금은 뒤 삼킴. 의치 착용자는 의치를 빼고 사용하며 의치도 매일 세척·야간 제거. 흡입 스테로이드 사용자는 흡입 후 물로 헹구기. 광범위 병변·국소 치료 실패 시 경구 fluconazole 고려; 국내 허가 용법과 국제 지침 용량을 구분하여 적용(본문 참조)_
+> _✽사용 전 충분히 흔들고 입안에 골고루 머금은 뒤 삼킴. 증상 소실 후에도 48시간 더 치료. 의치 착용자는 의치를 빼고 사용하며 의치도 매일 세척·야간 제거. 흡입 스테로이드 사용자는 흡입 후 물로 헹구기. 광범위 병변·국소 치료 실패 시 성인에서 fluconazole 100\~200 ㎎ qd × 7\~14일 고려; 식도 칸디다증 의심 시에는 별도 평가·치료_
 
 > **처방례 9. 치은염**
 >
@@ -529,7 +540,7 @@ class RF,REFER,FOLLOW blue
 > 헥사메딘 액 0.12% 100 ㎖/병   15 ㎖ 1일 2회 약 1분간 가글
 > ```
 >
-> _✽구강 위생 개선과 치과 치석 제거가 근본 치료이며 chlorhexidine은 단기간 보조요법. 외래 급여 인정량은 100 ㎖이며 초과분은 전액 본인부담. 일반적인 plaque-induced gingivitis에 오라메디를 routine 처방하지 않음. 괴사성 치은염에서 전신 항생제는 발열·전신 증상·연조직 확산·면역저하 등 선택적 상황에 한함_
+> _✽구강 위생 개선과 치과 치석 제거가 근본 치료이며 chlorhexidine은 단기간 보조요법. 외래 급여 인정량은 100 ㎖이며 초과분 약값은 전액 본인부담. 입원환자 및 암환자는 허가 용법·용량 범위 내 인정. 일반적인 plaque-induced gingivitis에 오라메디를 routine 처방하지 않음. 괴사성 치은염에서 전신 항생제는 발열·전신 증상·연조직 확산·면역저하 등 선택적 상황에 한함_
 
 ***
 
@@ -548,20 +559,21 @@ class RF,REFER,FOLLOW blue
 
 > **국소 마취 겔 (카미스타드-엔, 페리톡겔) 사용법**
 >
-> * 제품별 사용법에 따라 병소에만 **소량** 바르십시오.
-> * 입안이나 목의 감각이 둔해진 동안에는 **음식 섭취와 껌 씹기를 피하십시오**. 삼킴 장애·흡인 및 혀나 볼을 깨무는 사고에 주의하고, 특히 어린이는 보호자가 지켜보십시오.
+> * 병소에만 **소량** 도포하고, 식전 사용을 일률적으로 시행하지 마십시오. 과량·반복 도포하거나 삼키지 않도록 주의하십시오.
+> * 입안·목의 감각이 둔해지거나 삼키기 불편하면 **감각이 회복될 때까지 음식·음료 섭취를 피하십시오.** 혀나 볼을 깨물지 않도록 주의하십시오.
 > * 카미스타드-엔은 12세 미만, 임신부·수유부에게 사용하지 마십시오. 페리톡겔은 5개월 미만 영아에게 사용하지 말고, 소아는 보호자가 지켜보는 가운데 사용하십시오. 추가 도포가 필요하면 3시간 이상 간격을 두십시오.
 
-> **가글제 (헥사메딘·탄툼·아프니벤큐 액) 사용법**
+> **가글제 (헥사메딘·삼아탄툼액·아프니벤큐 액) 사용법**
 >
-> * 각 제품 권장 용량을 **삼키지 말고** 입안에서 1\~2분 머금은 후 뱉으십시오.
+> * 각 제품 권장 용량을 **삼키지 말고** 제품별 지시 시간 동안 입안을 헹군 뒤 뱉으십시오. 헥사메딘은 약 1분간 사용합니다.
 > * 특히 헥사메딘은 치약 성분에 의해 효과가 감소할 수 있으므로 양치 후 충분히 헹구고 약 30분 간격을 두어 사용하며, 사용 후 30분간 음식·음료를 피하십시오.
 > * 헥사메딘(chlorhexidine) 장기 사용 시 일시적 치아·혀 착색이 생길 수 있습니다. 사용 중단 후 대부분 회복됩니다.
-> * 탄툼 액·아프니벤큐 액이 너무 자극적이면 소량의 물로 희석할 수 있습니다. 탄툼 액은 의사의 감독 없이 7일 이상 연속 사용하지 마십시오.
+> * 삼아탄툼액·아프니벤큐 액이 너무 자극적이면 소량의 물로 희석할 수 있습니다. 삼아탄툼액은 **12세 이하 어린이에게 적합하지 않으며**, 의사의 감독 없이 7일 이상 연속 사용하지 마십시오.
 
 > **니스타틴 시럽 사용법**
 >
-> * 입안 구석구석에 골고루 머금었다가 삼키십시오. 식후와 취침 전에 사용하고 사용 후 바로 음식을 먹지 마십시오.
+> * **사용 전 충분히 흔든 뒤** 입안 구석구석에 골고루 머금었다가 삼키십시오. 처방된 횟수에 따라 식후·취침 전 등에 사용하고 사용 후 바로 음식을 먹지 마십시오.
+> * **증상이 사라진 후에도 48시간 더 사용**하고 처방된 치료 기간을 지키십시오.
 > * 틀니를 사용하면 틀니를 뺀 상태에서 사용하고, 틀니는 매일 세척하여 밤에는 빼 두십시오.
 
 > **경구 스테로이드·콜킨 복용 시 주의**
@@ -580,10 +592,10 @@ class RF,REFER,FOLLOW blue
 > * 2주 이상 낫지 않는 단일 궤양 - 조기 재평가; 3주 이상 지속되거나 딱딱함·출혈·목의 멍울이 동반되면 **신속 의뢰**
 > * 입안 궤양이 심해 **물도 삼키기 어려운** 경우 - 탈수 예방 필요
 > * 구강 궤양과 함께 **생식기 궤양·피부 발진**이 동반되는 경우 - 베체트병 감별
-> * **눈이 충혈되면서 통증·눈부심·시력 저하**가 동반되는 경우 - 당일 안과 진료; 갑자기 거의 보이지 않으면 즉시 응급 진료
+> * **눈의 통증·눈부심·시력 저하를 동반한 충혈**이 생긴 경우 - **당일 안과 평가**
 > * **고열 + 광범위 수포 + 피부·눈 병변** 동반 - 즉시 응급실
 > * 갑상선약·clozapine·sulfasalazine·항암제 복용 중 **발열·인후통과 함께 입안이 허는** 경우 - 즉시 진료
-> * 구강 궤양이 1년에 3회 이상 반복되는 경우 - 원인 감별 필요
+> * 구강 궤양이 자주 재발하거나 크고 심한 병변·거의 연속적인 궤양이 생기는 경우 - 중증도·동반 증상에 따라 원인 평가
 
 ***
 
@@ -615,8 +627,8 @@ class RF,REFER,FOLLOW blue
 #### <mark style="color:$primary;">바르는 약·가글은 어떻게 쓰나요?</mark>
 
 * **바르는 연고**는 식사 후 입안을 헹구고 물기를 제거한 뒤 병소에 **소량만** 바르십시오. 처방된 횟수를 지키고, 별도 지시 없이 **2주를 넘기지 마십시오**.
-* **국소 마취 겔**은 제품별 사용법에 따라 아픈 부위에만 소량 바르십시오. 입안이나 목의 감각이 둔해진 동안에는 음식 섭취·껌 씹기를 피하고, 삼킴 장애나 혀·볼을 깨무는 사고에 주의하십시오.
-* **가글**은 삼키지 말고 제품별 지시 시간 동안 입안을 헹군 후 뱉으십시오. 헥사메딘은 양치 후 약 30분 간격을 두고 사용하며, 사용 후 30분간 음식·음료를 피하십시오. 탄툼 액은 자극감이 강하면 소량의 물로 희석할 수 있지만 소아는 연령별 허가사항과 가글 가능 여부를 반드시 확인하십시오.
+* **국소 마취 겔**은 통증 부위에 소량만 바르십시오. 입안·목의 감각이 둔해지거나 삼키기 불편하면 **감각이 회복될 때까지 음식·음료를 드시지 마십시오.** 특히 어린이는 과량으로 바르거나 삼키지 않도록 보호자가 감독해야 합니다.
+* **가글**은 삼키지 말고 제품별 지시 시간 동안 입안을 헹군 후 뱉으십시오. 헥사메딘은 양치 후 약 30분 간격을 두고 사용하며, 사용 후 30분간 음식·음료를 피하십시오. 삼아탄툼액은 자극감이 강하면 소량의 물로 희석할 수 있지만 **12세 이하 어린이에게는 적합하지 않습니다.** 가글제는 스스로 헹군 뒤 뱉을 수 있는 경우에만 사용하십시오.
 
 #### <mark style="color:$primary;">헤르페스 구내염은 전염되나요?</mark>
 
@@ -629,9 +641,9 @@ class RF,REFER,FOLLOW blue
 * 한 군데의 궤양이 **2주가 지나도 낫지 않는** 경우 - 조기 재평가가 필요합니다. 3주 이상 지속되거나 딱딱함·출혈·목의 멍울이 동반되면 신속한 전문 평가가 필요합니다
 * 궤양이 너무 심해 **물을 삼키기도 어려운** 경우 - 탈수 예방이 필요합니다
 * **생식기 궤양·피부 발진** 등이 함께 나타나는 경우 - 베체트병 감별이 필요합니다
-* **눈이 충혈되면서 아프거나 눈부심·시력 저하**가 있으면 - 당일 안과 진료를 받으십시오. 갑자기 거의 보이지 않으면 즉시 응급 진료가 필요합니다
+* **눈의 통증·눈부심·시력 저하를 동반한 충혈**이 나타나는 경우 - **당일 안과 진료를 받으십시오**
 * **고열과 함께 광범위한 수포**, 눈·피부에도 병변이 생기는 경우 - 즉시 응급실
-* 1년에 **3회 이상 반복적으로 재발**하는 경우 - 영양 결핍 등 원인 감별이 필요합니다
+* **자주 재발하거나 크고 심한 궤양이 반복되고, 궤양이 거의 끊이지 않는** 경우 - 중증도와 다른 증상에 따라 영양 결핍 등 원인을 평가합니다
 * **면역력이 떨어진 상태**(항암 치료 중, 고용량 스테로이드 복용 중, HIV 등)에서 구내염이 생긴 경우
 * Methotrexate 복용 중 심한 구내염과 함께 발열·출혈·멍이 생긴 경우 - 다음 복용을 보류하고 즉시 진료를 받으십시오
 * 갑상선약·clozapine·sulfasalazine·항암제 복용 중 **발열·인후통과 함께 입안이 허는** 경우 - 즉시 진료를 받으십시오
@@ -640,10 +652,10 @@ class RF,REFER,FOLLOW blue
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### 임상 근거
+**임상 근거**
 
 * Elad S, et al. MASCC/ISOO clinical practice guidelines for the management of mucositis secondary to cancer therapy. Cancer. 2020;126(19):4423-4431.
-* Hatemi G, et al. 2018 update of the EULAR recommendations for the management of Behçet's syndrome. Ann Rheum Dis. 2018;77(6):808-818.
+* Hatemi G, et al. EULAR recommendations for the management of Behçet's syndrome: 2025 update. Ann Rheum Dis. 2026;85(6):1010-1025. doi:10.1016/j.ard.2026.02.009.
 * Hatemi G, et al. Trial of apremilast for oral ulcers in Behçet's syndrome (RELIEF). N Engl J Med. 2019;381(20):1918-1928.
 * International Team for the Revision of the International Criteria for Behçet's Disease (ITR-ICBD). The International Criteria for Behçet's Disease (ICBD). J Eur Acad Dermatol Venereol. 2014;28(3):338-347.
 * Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50.
@@ -653,13 +665,14 @@ class RF,REFER,FOLLOW blue
 * Rugo HS, et al. Prevention of everolimus-related stomatitis in women with hormone receptor-positive, HER2-negative metastatic breast cancer using dexamethasone mouthwash (SWISH): a single-arm, phase 2 trial. Lancet Oncol. 2017;18(5):654-662.
 * Alli BY, et al. Effect of sodium lauryl sulfate on recurrent aphthous stomatitis: a systematic review. J Oral Pathol Med. 2019;48(5):358-364.
 * Amir J, et al. Treatment of herpes simplex gingivostomatitis with aciclovir in children: a randomised double blind placebo controlled study. BMJ. 1997;314(7097):1800-1803.
+* Ruddy KJ, et al. Dexamethasone to prevent everolimus-induced stomatitis (Alliance MIST Trial: A221701). Semin Oncol. 2023;50(1-2):7-10. doi:10.1053/j.seminoncol.2023.01.001.
+* Amarilyo G, et al. Consensus treatment plans for periodic fever, aphthous stomatitis, pharyngitis and adenitis syndrome (PFAPA): a framework to evaluate treatment responses from the childhood arthritis and rheumatology research alliance (CARRA) PFAPA work group. Pediatr Rheumatol Online J. 2020;18:31. doi:10.1186/s12969-020-00424-x.
+* Fioredda F, et al. The European Guidelines on Diagnosis and Management of Neutropenia in Adults and Children: A Consensus Between the European Hematology Association and the EuNet-INNOCHRON COST Action. HemaSphere. 2023;7(4):e872. doi:10.1097/HS9.0000000000000872.
+* Hopper SM, et al. Topical lidocaine to improve oral intake in children with painful infectious mouth ulcers: a blinded, randomized, placebo-controlled trial. Ann Emerg Med. 2014;63(3):292-299. doi:10.1016/j.annemergmed.2013.08.022.
+* NICE. Uveitis. Clinical Knowledge Summaries - 포도막염 의심 시 당일 안과 의뢰.
 * 대한가정의학회. 일차진료의를 위한 호스피스·완화의료 진료 매뉴얼.
-* European Hematology Association/EuNet-INNOCHRON. The European Guidelines on Diagnosis and Management of Neutropenia in Adults and Children. HemaSphere. 2023. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC10065839/)
-* Symptom course of PFAPA syndrome. Pediatric Rheumatology. 2025. [원문](https://doi.org/10.1186/s12969-025-01157-5)
-* NHS. Uveitis. - 포도막염 의심 증상의 신속 평가 및 안과 의뢰. [자료](https://www.nhs.uk/conditions/uveitis/)
 
-### 허가·급여 확인 자료
+**허가·급여 확인 자료**
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* 건강보험심사평가원. 오테리아정(apremilast) 약제 급여 적정성 평가 및 Apremilast 경구제 요양급여 적용기준 - 건선·건선성 관절염의 급여와 베체트병에 대한 허가 외 사용 구분
-* 미국 DailyMed. Lidocaine hydrochloride oral topical solution 2% (viscous), US prescribing information. - 구강·인두 마취 후 흡인·교상 위험 참고; 국내 저농도 겔의 용법과 구분
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인; 처방 시 최신 품목정보 조회
+* [건강보험심사평가원. 가글 용제(품명: 헥사메딘가글액 등). 고시 제2018-253호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&mtgMtrRegSno=0023\&sno=1) - 외래 인정 용량 및 입원환자·암환자의 인정 범위
