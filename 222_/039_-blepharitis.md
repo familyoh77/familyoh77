@@ -67,22 +67,24 @@
 <table data-search="false"><thead><tr><th width="138">특징</th><th>Anterior Eyelid - Staphylococcal</th><th>Anterior Eyelid - Seborrheic</th><th>Posterior Eyelid - MGD</th></tr></thead><tbody><tr><td>속눈썹 소실</td><td>흔함</td><td>드묾</td><td>-</td></tr><tr><td>Trichiasis</td><td>흔함</td><td>드묾</td><td>만성 시 발생 가능</td></tr><tr><td>Eyelid deposit</td><td>엉킨, 단단한 비늘/잔여물</td><td>oily 또는 greasy</td><td>심한 지질, 거품 분비물</td></tr><tr><td>눈꺼풀 궤양</td><td>중증 악화</td><td>-</td><td>-</td></tr><tr><td>Eyelid scarring</td><td>발생 가능</td><td>-</td><td>만성 시 발생 가능</td></tr><tr><td>Chalazion</td><td>드묾</td><td>드묾</td><td>가끔~빈번; 때때로 여러 개</td></tr><tr><td>Hordeolum</td><td>발생 가능</td><td>-</td><td>-</td></tr><tr><td>결막</td><td>경증~중등증 충혈</td><td>경증 충혈</td><td>경증~중등증 충혈; 눈꺼풀 결막의 papillary 반응</td></tr><tr><td>눈물 결핍</td><td>tear film 불안정·dry eye 동반 가능</td><td>tear film 불안정·dry eye 동반 가능</td><td>흔함</td></tr><tr><td>Cornea</td><td>아래쪽 punctate epithelial erosion, 주변부 infiltrate, 흉터, 신혈관 형성, pannus, thinning, (드물게) phlyctenule</td><td>아래쪽 punctate epithelial erosion</td><td>아래쪽 punctate epithelial erosion, 상하 fine infiltrate, 흉터, 신혈관 형성, pannus, 궤양</td></tr><tr><td>동반 피부 질환</td><td>드물게 아토피</td><td>지루피부염</td><td>Rosacea</td></tr></tbody></table>
 
 > _MGD = meibomian gland dysfunction_\
-> _&#x52;ef. AAO Blepharitis PPP 2023 (Ophthalmology 2024;131(4):P50-P86)의 유형별 특징 표를 바탕으로 재구성_
+> _&#x52;ef. Ophthalmology 2024;131(4):P50-P86의 유형별 특징 표를 바탕으로 재구성_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 깜빡여도 회복되지 않는 시력 저하, 또는 심한 안구통·광과민 동반 `각막염` `각막궤양` `포도막염`
-* 흰 각막 침윤·혼탁, 또는 fluorescein 염색상 국소적·뚜렷한 상피 결손 `세균성 각막염` `각막궤양`
-* 콘택트렌즈 착용자의 눈 통증·충혈·광과민 또는 시력 저하
+* 갑작스러운 뚜렷한 시력상실 `각막궤양` `포도막염`
+* 빠르게 진행하는 각막 침윤·혼탁, 각막궤양·융해·천공 의심 또는 전방축농 `세균성 각막염` `각막궤양`
 * 안구돌출, 안구운동 통증·제한, 복시 또는 시력 저하(발열이나 눈꺼풀 발적·부종의 진행 속도와 무관) `안와 연조직염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 눈꺼풀·이마 피부 수포와 안구 충혈 동반(코끝 수포 포함) **(당일)** `대상포진 눈병증` `단순포진 안검결막염`
 * 빠르게 번지는 눈꺼풀 발적·부종·압통(안구운동·시력 정상) **(당일)** `눈꺼풀앞 연조직염`
-* 소아에서 광과민·충혈·각막 이상이 동반된 안검염 `안검각결막염`
+* 깜빡여도 회복되지 않는 시력 저하, 안구통·광과민 **(당일)** `각막염` `포도막염`
+* 국소 각막 침윤 또는 fluorescein 염색상 뚜렷한 상피 결손 **(당일)** `세균성 각막염`
+* 콘택트렌즈 착용자의 눈 통증·충혈·광과민 **(당일)** `콘택트렌즈 관련 각막염`
+* 소아에서 광과민·충혈·각막 이상이 동반된 안검염 **(당일)** `안검각결막염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -94,7 +96,7 @@
 
 * 병력, 증상/징후, 증상 기간, 동반 전신 질환
 * 다음 상황에서 증상 악화 : 흡연, 바람, 콘택트렌즈, 건조, 음주, 눈 화장
-* 일중 변동 : 아침에 증상이 심하면 안검염, 오후\~저녁에 악화되면 수성 눈물 결핍형 안구건조증을 시사 <mark style="color:$info;">\[AAO PPP 2023]</mark>
+* 일중 변동 : 아침에 증상이 심하면 안검염, 오후\~저녁에 악화되면 수성 눈물 결핍형 안구건조증을 시사 <mark style="color:$info;">\[Ophthalmology 2024]</mark>
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -146,7 +148,7 @@ graph TD
 
 <p align="center"><strong>안검염 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : AAO Blepharitis PPP 2023)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Ophthalmology 2024)</mark></em></p>
 
 ***
 
@@ -160,7 +162,7 @@ graph TD
 
 #### <mark style="color:$primary;">원인별 치료</mark>
 
-<table><thead><tr><th width="180">유형</th><th>초기 치료 및 추가 조치</th></tr></thead><tbody><tr><td><strong>포도알균성 전-안검염</strong></td><td>눈꺼풀 세척; 중등도 이상 또는 위생 관리에 반응하지 않으면 국소 항생제 고려. 각막 침범 의심 시 당일 안과 의뢰</td></tr><tr><td><strong>지루성 안검염</strong></td><td>눈꺼풀 세척과 함께 두피·눈썹·안면의 지루피부염 치료</td></tr><tr><td><strong>접촉피부염성 안검염</strong></td><td>의심되는 안약·보존제·화장품·세안제·속눈썹 접착제 중단; 지속·중증이면 피부과 patch test 또는 안과·피부과 의뢰</td></tr><tr><td><strong>MGD/ocular rosacea</strong></td><td>온찜질·마사지, 동반 안구건조증 치료; 지속되는 중등도~중증에서는 경구 doxycycline 또는 azithromycin 고려. 난치성은 안과에서 IPL·thermal pulsation 등 선택</td></tr><tr><td><strong>Demodex 안검염</strong></td><td>collarette 확인 후 구충 표적치료가 원칙이나, lotilaner는 국내 미도입(미허가)이므로 안과 의뢰 후 대체치료를 검토</td></tr><tr><td><strong>염증이 심한 불응형</strong></td><td>진단을 재평가하고 안과 의뢰; 각막 침범·헤르페스 등 금기 질환을 배제한 뒤 필요한 경우 국소 steroid·항생제/steroid 복합제는 최단기간 사용하고, 동반 건성각결막염 등에는 면역조절 점안제를 개별적으로 고려</td></tr></tbody></table>
+<table><thead><tr><th width="180">유형</th><th>초기 치료 및 추가 조치</th></tr></thead><tbody><tr><td><strong>포도알균성 전-안검염</strong></td><td>눈꺼풀 세척; 중등도 이상 또는 위생 관리에 반응하지 않으면 국소 항생제 고려. 각막 침범 의심 시 당일 안과 의뢰</td></tr><tr><td><strong>지루성 안검염</strong></td><td>눈꺼풀 세척과 함께 두피·눈썹·안면의 지루피부염 치료</td></tr><tr><td><strong>접촉피부염성 안검염</strong></td><td>의심되는 안약·보존제·화장품·세안제·속눈썹 접착제 중단; 지속·중증이면 피부과 patch test 또는 안과·피부과 의뢰</td></tr><tr><td><strong>MGD/ocular rosacea</strong></td><td>온찜질·마사지, 동반 안구건조증 치료; 지속되는 중등도~중증에서는 경구 doxycycline 또는 azithromycin 고려. 난치성은 안과에서 IPL·thermal pulsation 등 선택</td></tr><tr><td><strong>Demodex 안검염</strong></td><td>collarette 확인 후 구충 표적치료가 원칙이나, lotilaner 0.25% 점안액은 미허가이므로 안과 의뢰 후 대체치료를 검토</td></tr><tr><td><strong>염증이 심한 불응형</strong></td><td>진단을 재평가하고 안과 의뢰; 각막 침범·헤르페스 등 금기 질환을 배제한 뒤 필요한 경우 국소 스테로이드·항생제/스테로이드 복합제는 최단기간 사용하고, 동반 건성각결막염 등에는 면역조절 점안제를 개별적으로 고려</td></tr></tbody></table>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -180,13 +182,13 @@ graph TD
 
 #### <mark style="color:$primary;">국소제</mark>
 
-* 대상 : 위생 관리에 반응하지 않거나 중등도 이상의 포도알균성 전-안검염; 약제별 허가 용법을 확인하고 1\~2주 후 재평가 (☞ [안과계 약제](037_1-ophthalmic-medications.md))
+* 대상 : 위생 관리에 반응하지 않거나 중등도 이상의 포도알균성 전-안검염; 약제별 허가 용법을 확인하고 1\~2주 후 재평가 (☞ [안과계 약제](037_1-ophthalmic-med.md))
   * 해외 지침에서의 erythromycin·bacitracin 안연고, topical azithromycin은 국내 유통 제품이 없거나 제한적 (✽ 피부용 bacitracin 연고를 눈에 사용하지 않음)
 * ofloxacin 0.3% 점안액 : 1회 1방울 1일 3회 점안 <mark style="color:blue;">\[푸가신]</mark>; 국내 허가 적응증에 안검염 포함. fluoroquinolone 내성 증가를 고려해 단기간 사용하고 반복·장기 사용을 피함 (✽ 1세 미만의 영아에 대한 안전성 및 유효성이 확립되어 있지 않음)
-* 각막 침윤·국소적이고 뚜렷한 상피 결손·궤양 또는 중증 감염 의심 시 당일 안과 의뢰 (✽단순 안검염 처방으로 경험적 치료를 하지 않음)
+* 국소 각막 침윤·상피 결손은 당일 안과 의뢰, 빠르게 진행하는 침윤·궤양·전방축농은 즉시 의뢰 (✽단순 안검염 처방으로 경험적 치료를 하지 않음)
 * 복합제 : polymyxin-B/neomycin + dexamethasone 안연고 <mark style="color:blue;">\[포러스안연고]</mark>
   * 허가 용법 : 결막낭 내 소량을 1일 3\~4회 도포. 전-안검염의 눈꺼풀 가장자리 직접 도포는 이 제품의 허가 용법과 구분함
-  * steroid 복합제이므로 1차 선택으로 사용하지 않음. 위생 관리·항생제 치료에도 염증이 지속되면 진단을 재평가하고 안과 평가 후 필요한 경우 사용
+  * 스테로이드 복합제이므로 1차 선택으로 사용하지 않음. 위생 관리·항생제 치료에도 염증이 지속되면 진단을 재평가하고 안과 평가 후 필요한 경우 사용
   * 단순포진성 각막염, 진균·마이코박테리아 안감염, 각막 손상·궤양, 본인 또는 가족의 녹내장 병력, 신생아 및 성분 과민증은 포러스안연고의 금기
   * 7\~8일이 지나도 호전이 없으면 중지하고 총 투여기간이 14일을 넘지 않도록 함; 10일 이상 사용 시 안압 검사
 * 투여 기간은 약제·중증도·반응에 따라 개별화
@@ -201,31 +203,31 @@ graph TD
 * minocycline <mark style="color:blue;">\[미노씬]</mark> : 대체제로 고려할 수 있으나 어지럼증·색소침착 및 드문 자가면역 이상에 유의
 * azithromycin 1 g 주 1회 ×3주 <mark style="color:blue;">\[지스로맥스]</mark> : 중등도\~중증 MGD에서 doxycycline 200 ㎎/d ×6주와 동등한 효과를 보였고 위장관 부작용은 더 적었음(4.4% vs 15.9%) <mark style="color:$info;">\[JAMA Ophthalmol 2023]</mark>
   * 위약군이 없는 동등성 시험으로, 두 치료 모두 보존적 치료보다 우월한지는 확인되지 않음
-  * 심혈관 질환자에서 부정맥 위험이 있으므로 QT 연장·병용약물 확인 <mark style="color:$info;">\[AAO PPP 2023]</mark>
+  * 심혈관 질환자에서 부정맥 위험이 있으므로 QT 연장·병용약물 확인 <mark style="color:$info;">\[Ophthalmology 2024]</mark>
 * 경구 doxycycline·minocycline·azithromycin의 MGD/안검염 치료는 허가 외 사용임
   * 임신·수유, 간·신기능, 병용약물 및 tetracycline의 철분·칼슘·제산제 상호작용을 확인
-* 소아 : tetracycline 계열은 8세 미만 금기
+* 장기·비응급 안과 질환 치료에서는 임부·수유부 및 12세 미만 소아에게 doxycycline을 사용하지 않음(국내 허가사항)
   * 소아 안검각결막염에서 경구 항생제가 필요하면 안과 평가 후 erythromycin 또는 azithromycin 사용
 
 ### <mark style="color:orange;">국소 항염증제</mark>
 
 * 대상 : 위생 관리와 원인별 치료에도 호전되지 않는 중증 염증 또는 동반 안구 표면 염증; 안과 평가 후 사용
-* steroid : loteprednol <mark style="color:blue;">\[로테프로]</mark>, fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>; HSV·진균·세균성 각막염 등을 배제하고 최저 유효역가·최단기간 사용 (☞ [안과계 약제](037_1-ophthalmic-medications.md))
+* 스테로이드 : loteprednol <mark style="color:blue;">\[로테프로]</mark>, fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>; HSV·진균·세균성 각막염 등을 배제하고 최저 유효역가·최단기간 사용 (☞ [안과계 약제](037_1-ophthalmic-med.md))
   * 1\~2주 이상 사용하거나 반복 처방할 때에는 안압, 수정체 및 각막 상태 재평가
 * calcineurin inhibitor : cyclosporine <mark style="color:blue;">\[레스타시스]</mark>; 동반 건성각결막염·안구 표면 염증에서 고려하며, 안검염/MGD 자체에 대한 국내 적응증은 아님
   * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170701\&sno=1\&mtgMtrRegSno=0009)은 건성각결막염 관련하여 인정
-* 항생제/steroid 복합제는 진단을 재평가하고 각막 침범·헤르페스 등 금기 질환을 배제한 뒤, 감염과 염증을 함께 치료할 필요가 있는 선별 환자에게 안과 평가 후 단기간 사용
+* 항생제/스테로이드 복합제는 진단을 재평가하고 각막 침범·헤르페스 등 금기 질환을 배제한 뒤, 감염과 염증을 함께 치료할 필요가 있는 선별 환자에게 안과 평가 후 단기간 사용
 
 ### <mark style="color:orange;">인공 눈물</mark>
 
-* 대상 : 안구건조증 동반 시; 증발성 안구건조에서는 지질 성분을 포함한 제제를 고려할 수 있으나 국내 유통 제품은 제한적임 (☞ [안과계 약제](037_1-ophthalmic-medications.md)) (☞ [안구건조증](042_-dry-eye.md))
+* 대상 : 안구건조증 동반 시; 증발성 안구건조에서는 지질 성분을 포함한 제제를 고려할 수 있으나 국내 유통 제품은 제한적임 (☞ [안과계 약제](037_1-ophthalmic-med.md)) (☞ [안구건조증](042_-dry-eye.md))
 * carbomer 제제 <mark style="color:blue;">\[리포직]</mark> : 점도를 높여 안구 표면 체류시간을 연장하는 겔 제제이며 지질층 보충제로 분류하지 않음
 * hyaluronate <mark style="color:blue;">\[히알루드롭]</mark>, CMC <mark style="color:blue;">\[리프레쉬플러스]</mark> 등 수성 보충형은 환자의 눈물막 이상과 증상에 따라 선택·병용
 * 콘택트렌즈 착용자 : 무방부제 제형 선택; 증상 악화 시 착용 중단하고 회복 후 재착용
 
 ### <mark style="color:orange;">Demodex 구제</mark>
 
-* lotilaner 0.25% 점안액 : Demodex 안검염 표적치료제(FDA 2023), 양안 bid ×6주. 국내 미도입
+* lotilaner 0.25% 점안액 : Demodex 안검염 표적치료제(FDA 2023), 양안 bid ×6주. 미허가
   * Demodex 안검염 의심 시 안과 의뢰
 * ivermectin : 200 ㎍/㎏ PO, 1주 후 반복&#x20;
   * 일부 연구에서 보고되나 표준 치료로 권고되지 않음; 국내 안검염 적응증 미승인
@@ -239,7 +241,6 @@ graph TD
 * DREAM Study<mark style="color:$info;">\[NEJM 2018]</mark> 및 국내 다기관 무작위시험(rTG형, 포도씨유 대조)<mark style="color:$info;">\[JAMA Ophthalmol 2024]</mark>에서 대조군 대비 유의한 증상 개선을 입증하지 못했으며, 최적 제형·용량·기간도 확립되지 않음
 * 백내장 수술 후 MGD 환자 대상 국내 다기관시험에서는 일부 눈물막·증상 지표가 개선되었고, MGD 4단계 하위군에서는 meibum 성상·압출성도 개선되어<mark style="color:$info;">\[J Ocul Pharmacol Ther 2025]</mark>, 대상과 평가 지표에 따라 결과가 다름
 * 생선·견과류 등 식품을 통한 섭취를 우선으로 함
-* 처방용 omega-3 제제 <mark style="color:blue;">\[오마코]</mark>(허가 외 사용)
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -249,7 +250,7 @@ graph TD
 * Thermal pulsation(예: LipiFlow 등 기기) : meibomian gland 가온·압출을 통한 개방 (비급여)
 * Meibomian gland probing : 폐쇄가 뚜렷한 경우 탐침을 이용한 물리적 개통
 * BlephEx 등 기계적 눈꺼풀 가장자리 디브리망 : 딱지·biofilm 제거 목적의 전문 시술; 근거 수준은 제한적
-* MGD에서는 온찜질, 눈꺼풀 위생, 항염증 치료와 IPL·thermal treatment 등 다양한 치료를 환자 표현형에 맞추어 선택 <mark style="color:$info;">\[TFOS DEWS III 2025]</mark>
+* MGD에서는 온찜질, 눈꺼풀 위생, 항염증 치료와 IPL·thermal treatment 등 다양한 치료를 환자 표현형에 맞추어 선택 <mark style="color:$info;">\[Am J Ophthalmol 2025]</mark>
 * 전문 시술은 직접 비교 및 장기 효과 근거가 제한적이며, 대부분 안과 전문의 시행
 
 ***
@@ -264,14 +265,15 @@ graph TD
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 경증 MGD/안구건조증 동반 안검염**
+> **처방례 1. 안검염에 내인성 건성안 관련 각결막상피장애가 동반된 경우**
 >
 > ```
 > 히알루드롭점안액 0.1% 10 ㎖/병  1방울 1일 5~6회 (증상에 따라 증감)
 > ```
 >
 > _✽온찜질·마사지·눈꺼풀 세척과 병행. 인공눈물은 증상 완화 목적이며 안검염 원인 치료를 대체하지 않음_\
-> _✽보존제(벤잘코늄) 함유 다회용 제형이므로 콘택트렌즈 착용자나 하루 점안 횟수가 많은 환자는 무보존제 1회용 제형을 선택_
+> _✽보존제(벤잘코늄) 함유 다회용 제형이므로 콘택트렌즈 착용자나 하루 점안 횟수가 많은 환자는 무보존제 1회용 제형을 선택_\
+> _✽히알루론산 점안제는 내인성 각결막상피장애 등 고시 인정기준을 충족할 때 급여되며, 그 외에는 약값 전액 본인부담_
 
 > **처방례 2. 위생 관리에 반응하지 않는 포도알균성 전-안검염**
 >
@@ -279,7 +281,7 @@ graph TD
 > 푸가신 점안액 0.3% 5 ㎖/병  1방울 tid (7일 후 재평가)
 > ```
 >
-> _✽steroid 비함유 선택지로, 국내 허가 적응증에 안검염 포함. 눈꺼풀 세척을 계속 병행하고, fluoroquinolone 내성을 고려해 1\~2주 이내 단기 사용하며 반복 처방을 피함. 각막 침범이 의심되면 처방례를 적용하지 말고 당일 안과 의뢰_
+> _✽스테로이드 비함유 선택지로, 국내 허가 적응증에 안검염 포함. 눈꺼풀 세척을 계속 병행하고, fluoroquinolone 내성을 고려해 1\~2주 이내 단기 사용하며 반복 처방을 피함. 각막 침범이 의심되면 처방례를 적용하지 말고 당일 안과 의뢰_
 
 > **처방례 3. 위생 관리·항생제 점안액에도 염증이 지속되는 포도알균성 전-안검염 (안과 평가·금기 질환 배제 후)**
 >
@@ -287,7 +289,7 @@ graph TD
 > 포러스안연고 5 g/튜브  결막낭 내 소량 tid (7일 후 재평가)
 > ```
 >
-> _✽항생제·steroid 복합제이므로 항생제 점안액의 효과가 부족하다는 이유만으로 자동 추가하지 않음. 안과 평가로 진단과 각막 상태를 확인하고 단순포진성 각막염, 진균·마이코박테리아 안감염 등을 배제한 뒤 사용. 각막 손상·궤양, 본인 또는 가족의 녹내장 병력, 신생아 및 성분 과민증은 금기. 눈꺼풀 가장자리 직접 도포는 이 제품의 허가 용법(결막낭 내 도포)과 구분함. 7\~8일이 지나도 호전이 없으면 중지하고 총 투여기간은 14일 이내로 하며, 10일 이상 사용 시 안압 검사_
+> _✽항생제·스테로이드 복합제이므로 항생제 점안액의 효과가 부족하다는 이유만으로 자동 추가하지 않음. 안과 평가로 진단과 각막 상태를 확인하고 단순포진성 각막염, 진균·마이코박테리아 안감염 등을 배제한 뒤 사용. 각막 손상·궤양, 본인 또는 가족의 녹내장 병력, 신생아 및 성분 과민증은 금기. 눈꺼풀 가장자리 직접 도포는 이 제품의 허가 용법(결막낭 내 도포)과 구분함. 7\~8일이 지나도 호전이 없으면 중지하고 총 투여기간은 14일 이내로 하며, 10일 이상 사용 시 안압 검사_
 
 > **처방례 4. 보존적 치료에 반응하지 않는 중등도\~중증 MGD/ocular rosacea**
 >
@@ -295,7 +297,7 @@ graph TD
 > 모노신정 100 ㎎/T  1T qd (4~6주 후 반응 재평가)
 > ```
 >
-> _✽MGD에서 경구 doxycycline은 주로 항염 효과를 목적으로 하는 국내 허가 외 사용. 8세 미만·임신·수유 금기, 약물상호작용을 확인하고 위장관·식도 자극과 광과민에 주의_\
+> _✽MGD에서 경구 doxycycline은 주로 항염 효과를 목적으로 하는 국내 허가 외 사용. 12세 미만·임부·수유부 금기(국내 허가사항). 약물상호작용을 확인하고 위장관·식도 자극과 광과민에 주의_\
 > _✽대안: azithromycin 1 g 주 1회 ×3주. 심혈관 질환자의 부정맥(QT 연장) 위험과 병용약물을 확인_
 
 ***
@@ -305,7 +307,7 @@ graph TD
 > **안연고·점안액 사용 안내**
 >
 > * 포러스안연고는 허가 용법에 따라 아래 눈꺼풀을 살짝 당겨 결막낭에 소량 넣습니다. 다른 안연고를 눈꺼풀 가장자리에 바르도록 처방받은 경우에는 그 약의 사용 위치와 방법을 확인하십시오. 약 끝이 눈·피부에 닿지 않도록 주의하십시오.
-> * 점안액은 아래 눈꺼풀을 살짝 당긴 후 1\~2방울 떨어뜨리고, 점안 후 눈 안쪽(코 옆 눈물점)을 손가락으로 1\~2분간 가볍게 눌러 주십시오.
+> * 점안액은 아래 눈꺼풀을 살짝 당긴 후 1방울 떨어뜨리고, 점안 후 눈 안쪽(코 옆 눈물점)을 손가락으로 1\~2분간 가볍게 눌러 주십시오.
 > * 여러 종류의 안약을 함께 사용하는 경우, 점안 간격을 5분 이상 두십시오. 단, 히알루드롭점안액은 다른 점안제를 먼저 넣고 약 30분 뒤에 넣으십시오. 안연고는 마지막에 넣으십시오.
 > * 제품 설명서에 명시된 개봉 후 사용기간을 따르십시오. 1회용 무보존제 점안액은 개봉 후 처음 1\~2방울을 버리고 사용하며, 남은 액과 용기는 바로 버리십시오.
 > * 보존제가 들어 있는 점안액(예: 히알루드롭점안액)은 소프트 콘택트렌즈를 뺀 상태에서 넣고, 15분 이상 지난 뒤 다시 착용하십시오.
@@ -316,7 +318,7 @@ graph TD
 > * 철분·칼슘 보충제, 제산제와는 복용 간격을 두십시오.
 > * 복용 중 햇빛·자외선에 노출되면 피부가 민감해질 수 있습니다(광과민 반응). 외출 시 자외선 차단제를 사용하십시오.
 > * 복용 기간 중 어지럼증, 구역, 복통이 지속되면 담당의에게 알리십시오.
-> * 임신 중이거나 임신을 계획 중이거나 수유 중이면 복용 전에 반드시 의료진에게 알리십시오.
+> * 임신 중이거나 수유 중이면, 또는 만 12세 미만이면 이 약을 복용하지 않습니다. 임신 계획이 있으면 미리 의료진에게 알리십시오.
 > * 임의로 복용을 중단하지 마십시오. 증상이 호전되어도 처방된 기간을 지켜 복용하십시오.
 
 > **눈꺼풀 위생 관리 방법**
@@ -330,7 +332,7 @@ graph TD
 > * 2\~4주간 치료 후에도 증상이 호전되지 않는 경우
 > * 눈이 충혈되면서 **시력이 흐려지거나 떨어지는** 경우 - 즉시 내원
 > * **심한 눈의 통증** 또는 강한 눈부심이 동반되는 경우 - 즉시 내원
-> * 콘택트렌즈 착용 중 눈 통증·충혈·광과민 또는 시력 저하가 생긴 경우 - 렌즈를 빼고 즉시 내원
+> * 콘택트렌즈 착용 중 눈 통증·충혈·광과민이 생긴 경우 - 렌즈를 즉시 제거하고 당일 신속히 안과 진료. 시력이 갑자기 뚜렷하게 떨어지거나 증상이 빠르게 악화하면 즉시 내원
 > * 눈꺼풀·이마에 물집이 생기거나 눈꺼풀이 빠르게 붓고 붉어지는 경우 - 당일 평가
 > * 눈꺼풀 병변이 한쪽만 악화되거나, 궤양·출혈이 생기는 경우 - 조기 내원
 
@@ -344,20 +346,20 @@ graph TD
 안검염은 눈꺼풀 가장자리에 생기는 만성 염증입니다. 완치보다는 증상 조절이 목표이며, 매일 눈꺼풀 위생 관리를 꾸준히 실천하는 것이 가장 중요합니다.
 {% endhint %}
 
-### <mark style="color:orange;">안검염이란 무엇인가요?</mark>
+#### <mark style="color:$primary;">안검염이란 무엇인가요?</mark>
 
 * 눈꺼풀 가장자리에 세균, 피부 질환(지루피부염, 여드름 피부), 또는 기름샘(마이봄샘) 이상으로 인해 만성 염증이 생기는 상태입니다.
 * 양쪽 눈에 함께 나타나는 경우가 많고, 재발이 흔합니다.
 * 주요 증상 : 눈 가려움·작열감·이물감, 아침에 심한 눈꺼풀 딱지, 눈부심, 시야 흐림(눈 깜빡임 후 일시 호전)
 
-### <mark style="color:orange;">가정에서 어떻게 관리하나요?</mark>
+#### <mark style="color:$primary;">가정에서 어떻게 관리하나요?</mark>
 
 * **온찜질** : 따뜻한 물수건을 눈 위에 5\~10분 올려 두십시오(1일 1\~2회). 굳어 있는 기름샘 분비물을 녹여 배출을 도와줍니다. 전자레인지로 데운 수건이나 찜질팩은 부분적으로 뜨거울 수 있으니 손목 안쪽에 먼저 대어 온도를 확인하십시오.
 * **눈꺼풀 마사지** : 온찜질 후 눈을 감고 눈꺼풀 가장자리를 손끝으로 부드럽게 밀어 주십시오.
 * **눈꺼풀 세척(lid scrub)** : 마사지 직후 전용 세정제 또는 유아용 무자극 샴푸를 희석한 물로 속눈썹 뿌리를 부드럽게 닦아 주십시오. 자극이나 건조가 생기면 샴푸 사용을 중단하십시오.
 * 증상이 좋아지더라도 위생 관리는 계속 유지하십시오.
 
-### <mark style="color:orange;">생활 습관에서 주의할 점은 무엇인가요?</mark>
+#### <mark style="color:$primary;">생활 습관에서 주의할 점은 무엇인가요?</mark>
 
 * 눈을 비비거나 만지지 마십시오.
 * 흡연은 증상을 악화시킵니다. 금연하십시오.
@@ -368,25 +370,25 @@ graph TD
 * 콘택트렌즈 착용은 증상 악화 시 일시 중단하십시오.
 * 등 푸른 생선·견과류 등은 균형 잡힌 식사의 일부로 섭취할 수 있습니다. 오메가-3 보충제는 일부 환자에서 보조적으로 고려할 수 있지만 일상적으로 권할 만큼 치료 효과가 일관되게 확립되지는 않았으므로, 복용 전 의료진과 상의하십시오.
 
-### <mark style="color:orange;">눈꺼풀 세척법을 영상으로 확인하세요</mark>
+#### <mark style="color:$primary;">눈꺼풀 세척법을 영상으로 확인하세요</mark>
 
 * 📹 [What can I do about blepharitis? - AAO 안검염 치료 동영상 (영어)](https://www.aao.org/eye-health/ask-ophthalmologist-q/what-can-i-do-about-blepharitis-video-answer)
 * 📄 [What Is Blepharitis? - AAO 안검염 환자 교육 페이지 (영어)](https://www.aao.org/eye-health/diseases/what-is-blepharitis)
 
-### <mark style="color:orange;">약은 어떻게 사용하나요?</mark>
+#### <mark style="color:$primary;">약은 어떻게 사용하나요?</mark>
 
 * **안연고** : 처방받은 위치와 횟수에 따라 눈꺼풀 가장자리 또는 결막낭에 사용하십시오. 잠시 시야가 흐려질 수 있으나 보통 곧 회복됩니다.
 * **스테로이드 점안액·안연고** : 증상 완화 효과가 있으나 안압 상승·백내장 및 감염 악화 위험이 있습니다. 처방받은 기간과 재평가 일정을 지키십시오.
 * **경구 항생제** : 기름샘 염증에서는 주로 항염 효과를 목적으로 사용합니다. 임의로 중단하거나 연장하지 마십시오.
 
-### <mark style="color:orange;">이럴 때는 즉시 병원을 방문하세요</mark>
+#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 눈의 충혈과 함께 **시력이 갑자기 떨어지거나 흐려지는** 경우
 * **심한 눈의 통증** 또는 강한 눈부심이 동반되는 경우
-* 콘택트렌즈를 끼는 분이 눈 통증·충혈·눈부심을 느끼는 경우: 렌즈를 빼고 즉시 진료받으십시오.
+* 콘택트렌즈를 끼는 분이 눈 통증·충혈·눈부심을 느끼는 경우: 렌즈를 즉시 제거하고 당일 신속히 안과 진료를 받으십시오. 시력이 갑자기 뚜렷하게 떨어지거나 증상이 빠르게 악화하면 즉시 진료받으십시오.
 * 눈꺼풀·이마에 **물집**이 생기거나 눈꺼풀이 **빠르게 붓고 붉어지는** 경우: 당일 진료받으십시오.
 
-### <mark style="color:orange;">이럴 때는 가까운 시일 내에 진료를 받으세요</mark>
+#### <mark style="color:$primary;">이럴 때는 가까운 시일 내에 진료를 받으세요</mark>
 
 * 아이에게 안검염이 있으면서 눈부심이나 충혈이 심한 경우(뚜렷한 각막 이상·시력 저하·심한 통증이 있으면 즉시 진료)
 * 눈꺼풀 병변이 **한쪽만 점점 악화**되거나, 궤양·출혈이 생기는 경우
@@ -399,8 +401,8 @@ graph TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* \[AAO PPP 2023] [American Academy of Ophthalmology. Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86.](https://www.aaojournal.org/article/S0161-6420%2824%2900008-3/fulltext) - 안검염·MGD 치료 및 전신 약제의 선택적 사용 (AAO 2023년 발표, 2024년 게재)
-* \[TFOS DEWS III 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
+* \[Ophthalmology 2024] [American Academy of Ophthalmology. Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86.](https://www.aaojournal.org/article/S0161-6420%2824%2900008-3/fulltext) - 안검염·MGD 치료 및 전신 약제의 선택적 사용
+* \[Am J Ophthalmol 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
 * \[JAMA Ophthalmol 2023] [Upaphong P, Tangmonkongvoragul C, Phinyo P. Pulsed Oral Azithromycin vs 6-Week Oral Doxycycline for Moderate to Severe Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2023;141(5):423-429.](https://doi.org/10.1001/jamaophthalmol.2023.0302) - 중등도~중증 MGD에서 두 경구 항생제의 효과·내약성 비교
 * \[NEJM 2018] [Dry Eye Assessment and Management Study Research Group. n-3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med. 2018;378:1681-1690.](https://doi.org/10.1056/NEJMoa1709691) - DREAM trial; 오메가-3 보충의 효과 평가
 * \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가

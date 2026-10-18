@@ -142,7 +142,7 @@ graph TD
 
 * 온찜질의 목적과 시행 방법은 질환에 따라 다름. 아래 빈도·시간은 실용적인 안내이며, 누낭염에서 특정 온도·시간이 확립된 치료 기준은 아님; 상용 제품은 제조사 지침을 따르고 피부를 데일 정도의 열과 강한 압박을 피함
 
-<table><thead><tr><th width="100">질환</th><th>목적</th><th>권장 빈도·시간</th><th>찜질 후 처치</th></tr></thead><tbody><tr><td><strong>누낭염</strong></td><td>보조적 증상 완화</td><td>편안한 온도,<br>하루 수 회, 5~10분</td><td>분비물 닦기</td></tr><tr><td><strong>다래끼·</strong><br><strong>콩다래끼</strong></td><td>meibum 연화·배출 및 자연 배농 유도</td><td>1일 4회, 15분</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안검염</strong></td><td>눈꺼풀 테두리 세정 보조, MGD 지질층 개선</td><td>1일 2~4회, 5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>눈마름증</strong><br><strong>(MGD)</strong></td><td>meibomian gland 기능 개선, 증상 예방</td><td>1일 1~2회, 5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr></tbody></table>
+<table><thead><tr><th width="100">질환</th><th>목적</th><th>권장 빈도·시간</th><th>찜질 후 처치</th></tr></thead><tbody><tr><td><strong>누낭염</strong></td><td>보조적 증상 완화</td><td>편안한 온도,<br>하루 수 회, 5~10분</td><td>분비물 닦기</td></tr><tr><td><strong>다래끼·</strong><br><strong>콩다래끼</strong></td><td>meibum 연화·배출 및 자연 배농 유도</td><td>10~15분,<br>1일 3~5회(콩다래끼는 3~4회)</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>안검염</strong></td><td>눈꺼풀 테두리 세정 보조, MGD 지질층 개선</td><td>5~10분,<br>1일 1~2회(필요시 증가)</td><td>눈꺼풀 세척(lid scrub)</td></tr><tr><td><strong>눈마름증</strong><br><strong>(MGD)</strong></td><td>meibomian gland 기능 개선, 증상 예방</td><td>1일 1~2회, 5~10분</td><td>눈꺼풀 세척(lid scrub)</td></tr></tbody></table>
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -162,6 +162,8 @@ graph TD
 
 > \*amoxicillin/clavulanate 용량 참고 : 국내 375 ㎎ 정은 amoxicillin 250 ㎎ + clavulanate 125 ㎎, 625 ㎎ 정은 amoxicillin 500 ㎎ + clavulanate 125 ㎎ 제형임. 성인 허가 용량은 250/125 ㎎ tid이며, 중증 감염 시 500/125 ㎎ tid로 증량 가능. 375 ㎎ 정 2정은 500/250 ㎎으로 두 성분 모두 2배가 되고 clavulanate 과량으로 위장관 부작용이 증가할 수 있으므로 625 ㎎ 정 1정을 대신할 수 없음. 반응이 느리면 amoxicillin 단일제를 임의로 추가하지 말고 농양·배농 필요성, 내성균 및 복약 상태를 재평가
 >
+> 농양·안와 침범·전신 증상이 있으면 경구 용량 증량보다 배농·정주 항생제·입원 필요성을 우선 평가
+>
 > ※ 위 표와 처방례는 성인 기준이며, amoxicillin/clavulanate·cefpodoxime·levofloxacin·TMP/SMX는 신기능에 따라 용량·간격 조정 필요. TMP/SMX는 CrCl 15\~30 ㎖/분에서 상용량의 1/2, ＜15 ㎖/분에서는 투여 금지(국내 허가사항); CKD 또는 ACEi/ARB·칼륨보존 이뇨제·NSAID 병용 시 투여 중 혈청 칼륨 확인
 
 * 입원 IV 항생제 적응증(안와 연조직염·패혈증·경구 치료 실패) 시 ampicillin/sulbactam 또는 ceftriaxone
@@ -178,13 +180,13 @@ graph TD
   * 누낭의 주 병소에 도달이 불충분하므로 전신 항생제를 대체할 수 없음
   * 용법은 제품 허가사항을 따름
     * 예: tobramycin 점안액은 경증\~중등도에서 4시간마다 1\~2방울, 증상에 따라 증감
-* 국소 스테로이드 : 안과 판단 하에서만 사용 (☞ [안과계 약제](037_1-ophthalmic-medications.md#undefined-14))
+* 국소 스테로이드 : 안과 판단 하에서만 사용 (☞ [안과계 약제](037_1-ophthalmic-med.md#undefined-14))
 
 #### <mark style="color:$primary;">국소 항생제 점안액</mark>
 
-* tobramycin : 경증\~중등도에서 4시간마다 1\~2방울, 증상에 따라 증감 <mark style="color:blue;">\[토브라점안액]</mark>
-* ofloxacin : 1회 1방울 1일 3회 <mark style="color:blue;">\[푸가신점안액]</mark>
-* levofloxacin : 1회 1방울 1일 3회 <mark style="color:blue;">\[오큐레보점안액 0.5%]</mark>
+* tobramycin : 경증\~중등도에서 4시간마다 1\~2방울, 증상에 따라 증감 <mark style="color:blue;">\[토브라]</mark>
+* ofloxacin : 1회 1방울 1일 3회 <mark style="color:blue;">\[푸가신]</mark>
+* levofloxacin : 1회 1방울 1일 3회 <mark style="color:blue;">\[오큐레보]</mark>
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -271,7 +273,7 @@ graph TD
 
 > **점안액 사용 안내**
 >
-> * 점안액은 아래 눈꺼풀을 살짝 당긴 후, 결막낭(아랫 눈꺼풀 안쪽)에 처방된 양(보통 1\~2방울)을 떨어뜨리십시오. 약병 끝이 눈에 닿지 않도록 주의하십시오.
+> * 점안액은 아래 눈꺼풀을 살짝 당긴 후, 결막낭(아랫 눈꺼풀 안쪽)에 처방된 양(보통 1방울)을 떨어뜨리십시오. 약병 끝이 눈에 닿지 않도록 주의하십시오.
 > * 점안 후 1\~2분간 눈을 살며시 감고 계십시오. 아픈 눈 안쪽 부위는 누르지 마십시오.
 > * 여러 종류의 점안액을 함께 사용하는 경우 5분 이상 간격을 두십시오.
 > * 개봉 후 사용 기간과 보관 방법은 제품 설명서를 따르십시오.

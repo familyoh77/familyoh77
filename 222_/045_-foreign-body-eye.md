@@ -179,15 +179,15 @@ _※ 어느 단계에서든 Seidel 양성·개방 안구 손상 의심이 확인
   * 예방적 사용 : 이물 제거 후 상피 결손이 있으나 침윤·궤양이 없는 경우&#x20;
   * 감염 치료 : 침윤·궤양 등 감염성 각막염이 의심되는 경우에는 당일 안과 의뢰 (훨씬 빈번한 점안 등 별도 치료 판단 필요; 전방축농·천공 의심 또는 급격하고 심한 시력 저하 시 즉각 조치)
 * 감염 소견 없는 상피 결손에서는 현재 공급 가능한 스테로이드 비함유 항생제 안연고 또는 점안액을 선택함. 안연고는 윤활 효과를 겸하므로 고려할 수 있으나, 공급 여부·감염 위험·각막 상피 독성을 함께 판단함 (☞ [안과계 약제](037_1-ophthalmic-med.md))
-  * ofloxacin 0.3% 안연고 tid ×3\~5d <mark style="color:blue;">\[퀴노비드 안연고 등]</mark> - 제품별 공급 여부 확인
+  * ofloxacin 0.3% 안연고 tid ×3\~5d <mark style="color:blue;">\[퀴노비드 안연고]</mark> 등 - 제품별 공급 여부 확인
   * tobramycin 안연고 tid ×3\~5d <mark style="color:blue;">\[오큐라신 안연고]</mark> - 각막 상피 독성 가능성을 고려하여 대안으로 사용; 공급 여부 확인
   * 상피 손상이 있는 각막은 감염되기 쉬움을 유의
   * 각막 찰과상에서 예방적 항생제의 감염 예방·치유 촉진 효과에 관한 근거 확실성은 매우 낮음 <mark style="color:$info;">\[Cochrane 2025]</mark>. 이물 제거 후 상피 결손, 콘택트렌즈 관련 손상, 오염된 이물 등에서는 감염 위험을 고려하여 단기간 사용함
   * 광범위 quinolone 점안액은 콘택트렌즈 관련 손상, 오염된 유기물 이물 등 감염 고위험 상황에서 우선 고려 (불필요한 내성 선택압 방지)
 * 스테로이드 함유 점안제·안연고(항생제-스테로이드 복합제 포함)는 사용하지 않음 - 상피 치유 지연, 진균·HSV 각막염 악화 위험
 * 콘택트렌즈 착용자의 상피 결손 : _P. aeruginosa_ 위험을 고려하여 항녹농균 범위의 점안액 우선 선택
-  * levofloxacin 0.5% tid <mark style="color:blue;">\[크라비트 점안액]</mark>, moxifloxacin 0.5% tid <mark style="color:blue;">\[모록사신 점안액]</mark>
-  * 또는 tobramycin 점안액 <mark style="color:blue;">\[토브라점안액]</mark>; 연고 제형이 필요하면 ofloxacin 0.3% 안연고 <mark style="color:blue;">\[퀴노비드 안연고 등]</mark> (공급 여부 확인)
+  * levofloxacin 0.5% tid <mark style="color:blue;">\[오큐레보]</mark>, moxifloxacin 0.5% tid <mark style="color:blue;">\[모록사신]</mark>
+  * 또는 tobramycin 점안액 <mark style="color:blue;">\[토브라]</mark>; 연고 제형이 필요하면 ofloxacin 0.3% 안연고 <mark style="color:blue;">\[퀴노비드 안연고]</mark> 등 (공급 여부 확인)
   * 눈 패치 금지, 렌즈 착용 중단
   * 상피 치유가 확인될 때까지 매일 추적
 * 예방적 항생제는 상피 치유와 증상 경과를 확인하여 필요한 최단 기간 사용함
@@ -195,7 +195,7 @@ _※ 어느 단계에서든 Seidel 양성·개방 안구 손상 의심이 확인
 * 눈 패치는 권장하지 않음 : 단순 각막 미란에서 치유를 촉진하지 않으며 통증 감소에도 유의한 이점이 없음 <mark style="color:$info;">\[Cochrane 2016]</mark>
 * 통증 조절 : 마취 안약의 가정용 처방·교부 금지
   * 경구 진통제(acetaminophen, ibuprofen)를 우선 고려
-  * 국소 NSAID 점안액 : bromfenac 0.1% bid ×1\~2d <mark style="color:blue;">\[브로낙 점안액]</mark> - 일부 국소 NSAID는 단순 각막 찰과상의 단기 통증 감소와 경구 진통제 사용 감소에 효과가 있으나 <mark style="color:$info;">\[Acad Emerg Med 2021]</mark>, bromfenac의 해당 적응증 직접 근거는 제한적이며 허가 외 사용에 해당함
+  * 국소 NSAID 점안액 : bromfenac 0.1% bid ×1\~2d <mark style="color:blue;">\[브로낙]</mark> - 일부 국소 NSAID는 단순 각막 찰과상의 단기 통증 감소와 경구 진통제 사용 감소에 효과가 있으나 <mark style="color:$info;">\[Acad Emerg Med 2021]</mark>, bromfenac의 해당 적응증 직접 근거는 제한적이며 허가 외 사용에 해당함
     * 경구 진통제를 우선하고 필요한 경우 짧게 보조적으로 사용
     * 각막 상피 결손이 크거나 지속되는 경우, 스테로이드 병용, 안과 수술 후 등 고위험군에서는 각막 융해(corneal melt) 등 각막 합병증 위험이 증가하므로 사용을 자제하거나 안과와 상의 후 사용
     * 투여 중 상피 결손이 확대되거나 치유 지연·침윤이 나타나면 중단하고 안과 평가
@@ -252,7 +252,7 @@ _※ 2024년 ACEP는 엄격하게 선별한 성인 단순 각막 미란(simple c
 > **처방례 2. 이물 제거 후 각막 미란 동반 (콘택트렌즈 착용자)**
 >
 > ```
-> 크라비트 점안액 0.5% 5 ㎖/병  1방울 tid ×3~5d
+> 오큐레보점안액 0.5% 5 ㎖/병  1방울 tid ×3~5d
 >     또는 모록사신 점안액 0.5% 5 ㎖/병  1방울 tid ×3~5d
 > 타이레놀 500 ㎎  1T tid prn  (통증 시)
 > ```

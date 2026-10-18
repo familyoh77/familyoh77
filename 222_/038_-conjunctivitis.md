@@ -16,8 +16,8 @@
 
 * 급격하거나 심한 시력저하, 각막궤양·천공 의심 소견 `세균각막염` `각막궤양`
 * 급속히 진행하는 다량의 화농성 분비물, 심한 결막부종(과급성 결막염) `임균성 결막염`
-* 콘택트렌즈 착용자에서 통증·뚜렷한 광과민·시력저하, 각막 혼탁·침윤 또는 fluorescein 염색 이상이 동반된 충혈 `세균각막염` `가시아메바각막염`
-* 동공 산대·대광반사 소실, 심한 안구통·두통·구역, 불빛 주위 달무리 `급성 폐쇄각녹내장`
+* 콘택트렌즈 착용자에서 급속히 악화하는 각막 침윤·혼탁, 각막궤양·융해·천공 의심, 광범위 상피결손 또는 전방축농 `세균각막염` `가시아메바각막염`
+* 동공 산대·대광반사 소실, 심한 안구통·두통·구역, 불빛 주위 달무리 `급성 폐쇄각발작`
 * 눈꺼풀 부종·홍반과 함께 안구돌출, 안구운동 시 통증·운동 제한, 복시 또는 시력저하(발열 유무와 무관) `안와연조직염`
 * 화학물질 노출 : 의뢰 때문에 지체하지 말고 즉시 충분한 세척을 시작한 뒤 응급 평가
 
@@ -28,7 +28,7 @@
 * 이물감을 넘어서는 심한 심부 안구통(deep eye pain) `공막염` `각막염`
 * 축동(miosis)과 광과민 `홍채염`
 * 이마·코끝(Hutchinson 징후) 대상포진 또는 눈꺼풀 헤르페스 수포 동반 충혈 `대상포진 눈병` `HSV 각결막염`
-* 콘택트렌즈 착용자에서 각막염을 확실히 배제하기 어렵거나 렌즈 중단 후에도 호전 없이 지속 `콘택트렌즈 관련 각막염`
+* 콘택트렌즈 착용자의 통증성 충혈·광과민, 각막염을 확실히 배제하기 어렵거나 렌즈 중단 후에도 호전 없이 지속 `콘택트렌즈 관련 각막염`
 * 생후 4주(28일) 이내 신생아의 충혈 또는 결막 분비물 `신생아 결막염`
 * 거짓막 또는 시력에 영향을 주는 각막상피밑침윤 `유행성 각결막염 합병증`
 
@@ -36,7 +36,7 @@
 
 * 대증 치료 5\~7일 또는 항생제 치료 2일 후에도 호전 없음 `진단 재평가`
 * 면역 저하자의 경증 결막염(통증·시력저하·각막 소견이 있으면 당일 평가)
-* 4주 이상 지속되는 만성 또는 편측 결막염, 특히 고령자 `클라미디아 결막염` `눈꺼풀 피지샘암` `물사마귀`
+* 4주 이상 지속되는 만성 또는 편측 결막염, 특히 고령자 `클라미디아 결막염` `눈꺼풀 피지선암` `물사마귀`
 
 ## <mark style="color:green;">알레르기 결막염 (Allergic Conjunctivitis)</mark>
 
@@ -280,7 +280,7 @@
 
 ### <mark style="color:orange;">Quick Decision Tips</mark>
 
-<table><thead><tr><th width="293">핵심 질문</th><th>YES →</th></tr></thead><tbody><tr><td>통증이 심하거나 시력이 떨어졌는가?</td><td><strong>즉시 의뢰</strong> (각막염·앞포도막염·녹내장 배제)</td></tr><tr><td>눈이 심하게 가려운가?</td><td><strong>알레르기성 가능성 높음</strong> → 냉찜질, 항히스타민/비만세포안정제 점안액</td></tr><tr><td>지속적인 점액농성 분비물로 눈꺼풀이 붙는가?</td><td><strong>세균성 가능성 높음</strong> → 중증도·위험인자에 따라 경험적 항생제 고려</td></tr><tr><td>감기 증상과 귀앞 림프절병증이 동반되는가?</td><td><strong>바이러스성 가능성 높음</strong> → 대증 치료, 전파 예방 강조</td></tr><tr><td>콘택트렌즈 착용자인가?</td><td><strong>각막 침윤·상피결손 확인</strong> 필수 → 배제하기 어렵거나 의심되면 당일 또는 즉시 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="293">핵심 질문</th><th>YES →</th></tr></thead><tbody><tr><td>통증이 심하거나 시력이 떨어졌는가?</td><td><strong>즉시 의뢰</strong> (각막염·앞포도막염·녹내장 배제)</td></tr><tr><td>눈이 심하게 가려운가?</td><td><strong>알레르기성 가능성 높음</strong> → 냉찜질, 이중작용 점안제 또는 경구 2세대 항히스타민제</td></tr><tr><td>지속적인 점액농성 분비물로 눈꺼풀이 붙는가?</td><td><strong>세균성 가능성 높음</strong> → 중증도·위험인자에 따라 경험적 항생제 고려</td></tr><tr><td>감기 증상과 귀앞 림프절병증이 동반되는가?</td><td><strong>바이러스성 가능성 높음</strong> → 대증 치료, 전파 예방 강조</td></tr><tr><td>콘택트렌즈 착용자인가?</td><td><strong>각막 침윤·상피결손 확인</strong> 필수 → 배제하기 어렵거나 의심되면 당일 또는 즉시 의뢰</td></tr></tbody></table>
 
 > 위 소견은 진단 확정 기준이 아니며 서로 중복될 수 있음
 
@@ -337,17 +337,17 @@ graph TD
   * 콘택트렌즈 관련 충혈은 감염·비감염을 감별하고 세균성으로 판단되면 녹농균을 고려한 항생제와 신속한 안과 평가를 함께 시행(☞ 콘택트렌즈 관련 각결막염)
   * 불필요한 항생제 사용을 억제하고 임상적 적응증에 따라 결정. 등교·출근만을 목적으로 항생제를 처방하지 않음
 * 스테로이드 점안액 주의 : 단순 결막염에 일상적으로 사용하지 않음. 세극등·fluorescein 검사로 각막상피 결손과 HSV 각막염을 배제하고 안압을 확인할 수 있는 경우에만 제한적으로 사용하며, 이를 확인하기 어렵거나 각막 침범이 의심되면 안과 의뢰
-* 안약 사용법 ☞ [안과계 약제](037_1-ophthalmic-medications.md)
+* 안약 사용법 ☞ [안과계 약제](037_1-ophthalmic-med.md)
 
 ### <mark style="color:orange;">안약제 종류</mark>
 
-<table data-search="false"><thead><tr><th width="175">계열</th><th>성분 (예)</th><th>특징</th></tr></thead><tbody><tr><td>이중작용<br>(항히스타민 + 비만세포 안정)</td><td>olopatadine <mark style="color:blue;">[파타놀]</mark>, ketotifen, azelastine, epinastine, alcaftadine, bepotastine</td><td>1차 선택. 수 분 내 가려움 완화와 예방 효과를 함께 가짐</td></tr><tr><td>항히스타민제</td><td>levocabastine, emedastine</td><td>빠른 증상 완화. 예방 효과는 제한적</td></tr><tr><td>비만세포 안정제</td><td>sodium cromoglicate, nedocromil, lodoxamide, NAAG, pemirolast</td><td>충분한 효과까지 1\~2주. 계절 시작 전 또는 지속성·재발성에서 예방 목적</td></tr><tr><td>국소 NSAID</td><td>ketorolac, diclofenac</td><td>보조 치료. 국소 항히스타민제보다 효과 적음</td></tr><tr><td>국소 corticosteroid</td><td>fluorometholone <mark style="color:blue;">[오큐메토론]</mark>, loteprednol <mark style="color:blue;">[로테프로]</mark></td><td>1차 치료 불응 시 단기(＜2주). 각막상피 결손·HSV 배제, 안압 확인 후</td></tr><tr><td>면역조절제</td><td>cyclosporine, tacrolimus</td><td>중증·steroid 의존성 VKC·AKC. 전문의 처방</td></tr><tr><td>혈관수축제</td><td>naphazoline, tetrahydrozoline</td><td>충혈만 일시 완화. 기본 치료가 아니며 3일(72시간) 이내</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="175">계열</th><th>성분 (예)</th><th>특징</th></tr></thead><tbody><tr><td>이중작용<br>(항히스타민 + 비만세포 안정)</td><td>olopatadine <mark style="color:blue;">[파타놀]</mark>, ketotifen, azelastine, epinastine, alcaftadine, bepotastine</td><td>주요 초기 치료. 수 분 내 가려움 완화와 예방 효과를 함께 가짐</td></tr><tr><td>항히스타민제</td><td>levocabastine, emedastine</td><td>빠른 증상 완화. 예방 효과는 제한적</td></tr><tr><td>비만세포 안정제</td><td>sodium cromoglicate, nedocromil, lodoxamide, NAAG, pemirolast</td><td>충분한 효과까지 1~2주. 계절 시작 전 또는 지속성·재발성에서 예방 목적</td></tr><tr><td>국소 NSAID</td><td>ketorolac, diclofenac</td><td>보조 치료. 국소 항히스타민제보다 효과 적음</td></tr><tr><td>국소 corticosteroid</td><td>fluorometholone <mark style="color:blue;">[오큐메토론]</mark>, loteprednol <mark style="color:blue;">[로테프로]</mark></td><td>1차 치료 불응 시 단기(＜2주). 각막상피 결손·HSV 배제, 안압 확인 후</td></tr><tr><td>면역조절제</td><td>cyclosporine, tacrolimus</td><td>중증·steroid 의존성 VKC·AKC. 전문의 처방</td></tr><tr><td>혈관수축제</td><td>naphazoline, tetrahydrozoline</td><td>충혈만 일시 완화. 기본 치료가 아니며 3일(72시간) 이내</td></tr></tbody></table>
 
 > 국내 유통 제품은 성분별로 확인.
 >
 > _<mark style="color:$info;">NAAG=N-acetyl-aspartyl-glutamic acid, VKC=vernal keratoconjunctivitis, AKC=atopic keratoconjunctivitis.</mark>_
 >
-> _<mark style="color:$info;">저자 재구성 (참고 문헌 : EAACI. Management of ocular allergy. Allergy 2019;74, AAO Conjunctivitis PPP 2023)</mark>_
+> _<mark style="color:$info;">저자 재구성 (참고 문헌 : EAACI. Management of ocular allergy. Allergy 2019;74, Ophthalmology 2024)</mark>_
 
 ## <mark style="color:green;">알레르기 결막염 치료</mark>
 
@@ -358,12 +358,12 @@ graph TD
 
 #### <mark style="color:$primary;">국소 항히스타민제</mark>
 
-* 1차 선택제; 가려움 등의 증상 완화 효과
+* 주요 초기 치료 선택지; 가려움 등 안구 증상을 빠르게 완화
 * 항히스타민과 비만세포 안정 작용을 함께 가진 이중작용 점안제(예: olopatadine)를 우선 고려
 
 #### <mark style="color:$primary;">경구 항히스타민제</mark>
 
-* 국소 이중작용 점안제 우선 고려 원칙과 함께, 빠른 증상 완화 필요성·동반 비염·건성안·환자 선호를 고려하여 선택
+* 단순 알레르기 결막염에서는 국소 이중작용 점안제를 주요 초기 치료로 고려함. 다만 ARIA-EAACI 2024~2025는 경구 2세대 항히스타민제를 점안 항히스타민제보다 조건부로 우선 제안하며, 빠른 안구 증상 완화가 필요하면 점안제를 선택할 수 있음. 동반 비염·건성안·환자 선호를 고려하여 결정함
 * 경구제는 안구 건조를 유발할 수 있음 (☞ [항히스타민제](../231_/212_-antihistamines.md))
 * cetirizine : 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
 * fexofenadine : 120 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>
@@ -413,7 +413,8 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 * 적용 : vernal or atopic keratoconjunctivitis의 steroid 의존 환자에서 steroid 대체 고려
 * 이 약제의 사용을 고려할 정도의 심한 환자는 의뢰를 고려
 * 종류
-  * 국소 cyclosporine <mark style="color:blue;">\[레스타시스]</mark> : VKC·AKC는 허가 외 사용으로 건성안 급여기준에 해당하지 않아 비급여 가능
+  * cyclosporine 0.1% <mark style="color:blue;">\[아이커비스]</mark> : 만 4세~18세 중증 봄철각결막염에 허가(질환이 있는 눈에 1적 qid). 허가와 급여 인정은 별개이므로 급여기준 확인
+  * 국소 cyclosporine 0.05% <mark style="color:blue;">\[레스타시스]</mark> : VKC·AKC는 허가 외 사용으로 건성안 급여기준에 해당하지 않아 비급여 가능
   * tacrolimus : CsA에 난치성인 경우; 점안제는 미허가, tacrolimus 연고의 눈꺼풀 도포도 허가 외
 
 #### <mark style="color:$primary;">알레르겐 면역 치료</mark>
@@ -430,7 +431,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 
 * 아데노바이러스 등 흔한 바이러스 결막염은 대증 치료가 기본. HSV·VZV 의심 시 안과 평가 후 항바이러스 치료
 * 분비물 관리 : 소금물·비눗물 세척은 금기(각결막 손상·염증 악화 위험, 질병관리청). 깨끗한 물 또는 생리식염수에 적신 거즈로 눈꺼풀 바깥쪽 분비물만 부드럽게 닦아냄
-* 냉찜질, 인공 눈물 : 증상 완화에 도움 (☞ [인공눈물](042_-dry-eye.md); [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0013))
+* 냉찜질, 인공 눈물 : 증상 완화에 도움 (☞ [인공눈물](042_-dry-eye.md); [보험주의](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0005))
 * 국소 steroid : 단순 바이러스 결막염에는 사용하지 않음
   * 시축을 침범하거나 시력에 영향을 주는 각막상피밑침윤, 심한 거짓막 형성 또는 앞포도막염 등에서 안과 전문의가 제한적으로 사용하고 서서히 감량할 수 있으며 바이러스 배출 연장, 안압 상승·백내장 위험에 주의
   * 재발성·steroid 의존성 각막상피밑침윤에서는 cyclosporine 등 면역조절 점안제를 전문의가 고려
@@ -466,10 +467,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 * quinolone제의 일반 경증 결막염에 대한 일상적인 1차 사용은 제한
   * 콘택트렌즈 관련 세균성 결막염에서는 녹농균을 고려하여 선택하되, 각막염이 의심되면 단순 qid 처방으로 관찰하지 말고 즉시 안과 평가
 
-| 상황                         | 국내 사용 가능한 예                                                                                                                                                      | 비고                                 |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| 일반 세균 결막염                  | tobramycin 점안액 <mark style="color:blue;">\[토브라]</mark>                                                                                                           | 성인 4시간마다 1\~2방울; 제품별 허가 용법·기간 확인   |
-| 콘택트렌즈 관련 세균성 결막염 또는 녹농균 위험 | levofloxacin <mark style="color:blue;">\[크라비트]</mark>, moxifloxacin <mark style="color:blue;">\[모록사신]</mark>, ofloxacin <mark style="color:blue;">\[타리비드]</mark> | 각막염 의심 시 즉시 안과 평가; 제품별 허가 용법·기간 확인 |
+<table><thead><tr><th width="190">상황</th><th width="260">국내 사용 가능한 예</th><th>비고</th></tr></thead><tbody><tr><td>일반 세균 결막염</td><td>tobramycin 점안액 <mark style="color:blue;">[토브라]</mark></td><td>성인 4시간마다 1~2방울; 제품별 허가 용법·기간 확인</td></tr><tr><td>콘택트렌즈 관련 세균성 결막염 또는 녹농균 위험</td><td>levofloxacin <mark style="color:blue;">[오큐레보]</mark>, moxifloxacin <mark style="color:blue;">[모록사신]</mark>, ofloxacin <mark style="color:blue;">[푸가신]</mark></td><td>각막염 의심 시 즉시 안과 평가; 제품별 허가 용법·기간 확인</td></tr></tbody></table>
 
 > _<mark style="color:$info;">Ref. Chen YY, et al. Antibiotics versus placebo for acute bacterial conjunctivitis. Cochrane Database Syst Rev 2023;3:CD001211</mark>_
 
@@ -479,7 +477,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 
 #### <mark style="color:$primary;">국소 항생제 대용</mark>
 
-* 저농도 povidone-iodine 점안액은 일부 연구에서 검토되었으나 <mark style="color:$info;">\[AAO PPP 2023]</mark>, 국내 일반 유통 중인 povidone 인공눈물(예: 티어드롭)과는 전혀 다른 제제이며 일상적인 1차 치료로 권고하지 않음
+* 저농도 povidone-iodine 점안액은 일부 연구에서 검토되었으나 <mark style="color:$info;">\[Ophthalmology 2024]</mark>, 국내 일반 유통 중인 povidone 인공눈물(예: 티어드롭)과는 전혀 다른 제제이며 일상적인 1차 치료로 권고하지 않음
 
 #### <mark style="color:$primary;">국소 항생제/Steroid 복합제</mark>
 
@@ -558,7 +556,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 >
 > _✽아데노바이러스 등 흔한 바이러스 결막염은 특이 치료약 없이 대증 치료가 기본이며, HSV·VZV 의심 시 안과 평가 후 항바이러스 치료. 냉찜질·무방부제 인공눈물이 표준 대증 치료. 치료 여부와 관계없이 발병 초기 수일간 증상이 진행하거나 악화된 뒤 서서히 호전될 수 있음을 설명_\
 > _✽충혈이 심해 불가피한 경우에 한해 naphazoline(혈관 수축제)을 단기(3일, 72시간 이내)만 사용. 장기 사용 시 반동성 충혈 위험이 있어 기본 처방례에는 포함하지 않음_\
-> _✽히알루론산 점안제는 급여 인정기준 확인 필요(☞_ [_보험주의_](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0013)_)_
+> _✽바이러스 결막염의 단순 대증 목적 처방은 히알루론산 점안제 급여기준에 해당하지 않아 약값 전액 본인부담. 별도로 급여 대상 내인성 각결막상피장애가 진단된 경우에는 해당 기준을 적용함(☞_ [_보험주의_](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201\&sno=3\&mtgMtrRegSno=0005)_)_
 
 > **처방례 3. 세균 결막염**
 >
@@ -567,7 +565,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 > ```
 >
 > _✽경증은 자연 치유가 가능하므로 대증 치료 또는 지연 처방을 고려. 분비물이 많거나 증상이 지속되거나 면역저하 등 합병증 위험이 높은 경우 항생제 고려. 2일째에도 반응이 없거나 악화되면 재평가 또는 의뢰_\
-> _✽콘택트렌즈 사용자는 P. aeruginosa 각막궤양 위험이 높으므로 렌즈를 즉시 제거하고 각막 침윤·상피결손 여부를 확인. 통증·광과민·시력저하 또는 각막 이상이 있으면 즉시 안과 평가. GPC·렌즈 용액 반응 등 비감염성 원인을 감별하고, 세균성으로 판단되면 녹농균을 고려한 quinolone계(예: 크라비트, 모록사신 등)와 신속한 안과 평가를 함께 시행_
+> _✽콘택트렌즈 사용자는 P. aeruginosa 각막궤양 위험이 높으므로 렌즈를 즉시 제거하고 각막 침윤·상피결손 여부를 확인. 통증·광과민·시력저하 또는 각막 이상이 있으면 즉시 안과 평가. GPC·렌즈 용액 반응 등 비감염성 원인을 감별하고, 세균성으로 판단되면 녹농균을 고려한 quinolone계(예: 오큐레보, 모록사신 등)와 신속한 안과 평가를 함께 시행_
 
 > **처방례 4. 클라미디아 결막염 (경구)**
 >
@@ -677,7 +675,7 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* \[AAO PPP 2023] [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙 (AAO 2023년 발표, 2024년 게재)
+* \[Ophthalmology 2024] [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙
 * \[ARIA-EAACI 2026] [Vieira RJ, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines - 2024-2025 Revision: Part II - Guidelines on Oral and Ocular Treatments. Allergy. 2026;81(6):1947-1970.](https://doi.org/10.1111/all.70305) - 경구·점안 항히스타민제 비교 등 알레르기 치료 권고
 * \[Cochrane 2023] [Chen YY, et al. Antibiotics versus placebo for acute bacterial conjunctivitis. Cochrane Database Syst Rev. 2023;3:CD001211.](https://doi.org/10.1002/14651858.CD001211.pub4) - 항생제의 회복률 개선과 자연 회복
 * \[CDC 2021] [Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.](https://www.cdc.gov/mmwr/volumes/70/rr/rr7004a1.htm) - 임균·클라미디아 결막염과 신생아 감염의 전신 치료

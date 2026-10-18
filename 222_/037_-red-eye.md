@@ -3,14 +3,14 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 결막·상공막·공막 혈관의 확장 또는 증식으로 눈이 붉게 보이는 증상
-* 결막염·안구건조증처럼 흔하고 양성인 원인이 많지만, 각막염·급성 전방포도막염·공막염·급성 폐쇄각발작·안내염·안와봉와직염처럼 시력 또는 생명을 위협하는 질환의 초기 소견일 수 있음
+* 결막염·안구건조증처럼 흔하고 양성인 원인이 많지만, 각막염·급성 전방포도막염·공막염·급성 폐쇄각발작·안내염·안와연조직염처럼 시력 또는 생명을 위협하는 질환의 초기 소견일 수 있음
 * 질병명 결정에 앞서 시력 저하, 중등도 이상의 통증, 눈부심, 각막 침범, 동공 이상, 외상·화학물질 노출, 콘택트렌즈 착용, 최근 안과수술·유리체강내 주사 여부를 우선 확인
 
 ## <mark style="color:green;">원인</mark>
 
 * 흔한 원인 : 결막염, 안구건조증, 안검염, 각막찰과상, 결막하출혈, 이물
 * 그 밖의 원인 : 다래끼, 콩다래끼, 익상편(군날개), 검열반, 상공막염
-* 시력 위협 가능 원인 : 감염성 각막염, 급성 전방포도막염(홍채염), 공막염, 급성 폐쇄각발작, 안내염, 안와봉와직염, 안구 개방손상, 화학적 손상
+* 시력 위협 가능 원인 : 감염성 각막염, 급성 전방포도막염(홍채염), 공막염, 급성 폐쇄각발작, 안내염, 안와연조직염, 안구 개방손상, 화학적 손상
 * 약물 관련 : 녹내장 점안제(latanoprost 등 prostaglandin 유사체의 충혈, brimonidine의 지연성 알레르기 결막염), 방부제(BAK) 독성, dupilumab 관련 결막염(아토피피부염 치료 관련), isotretinoin 관련 안검염·건조
 * 장기간 지속되는 충혈에서 감별할 원인 : 갑상선 눈병증, 경동맥-해면정맥동 누공(CCF), 안구표면 종양(OSSN, 결막 림프종)
 * 충혈제거제(naphazoline, tetrahydrozoline 등 혈관수축제 점안액) : 장기간 또는 반복 사용하면 반동성 충혈(rebound hyperemia)이 발생하여 중단 시 충혈이 악화되는 악순환을 유발할 수 있음. 일반의약품으로 반복 자가 사용하기 쉬우므로 반동성 충혈과 원인 질환 진단 지연 가능성을 교육
@@ -19,9 +19,9 @@
 
 ### <mark style="color:orange;">질환별 특징</mark>
 
-<table data-search="false"><thead><tr><th width="150">질환</th><th>주요 증상 및 징후</th><th>원인·관련 요인</th></tr></thead><tbody><tr><td><a href="042_-dry-eye.md"><strong>안구건조증</strong></a></td><td>대개 양측성, 작열감·따가움·모래알 같은 이물감, 변동성 흐림, 반사성 눈물흘림; 심한 통증이나 지속적 시력 저하는 드묾</td><td>눈물 생성 감소 또는 증발 증가; 항콜린제·항히스타민제 등 약물, Sjögren 증후군</td></tr><tr><td><a href="039_-blepharitis.md"><strong>안검염</strong></a></td><td>속눈썹 기저부의 비늘·딱지, 눈꺼풀 가장자리 충혈·부종, 작열감·이물감; 만성·재발성</td><td>전방 또는 후방 안검염, 마이봄샘 기능장애</td></tr><tr><td><strong>각막찰과상·</strong><a href="045_-foreign-body-in-the-eye.md"><strong>이물</strong></a></td><td>대개 일측성, 갑작스러운 통증·이물감·눈물·눈부심·안검경련; fluorescein 염색 결손, 손상 위치에 따라 시력 저하</td><td>직접 손상, 고속 금속·목재 작업, 콘택트렌즈, 손톱·화장도구</td></tr><tr><td><a href="044_-subconjunctival-hemorrhage.md"><strong>결막하출혈</strong></a></td><td>경계가 뚜렷한 선홍색 또는 암적색 반점, 정상 시력, 대개 무통, 분비물 없음</td><td>자발성, 기침·구토·운동, 고혈압, 항혈전제·출혈질환, 외상</td></tr><tr><td><strong>상공막염</strong></td><td>부분적 또는 미만성 표층 충혈, 경미한 불편감·압통·눈물; 시력 유지, 심한 눈부심 없음</td><td>대부분 특발성; 반복되면 전신 염증질환과의 연관성 평가</td></tr><tr><td><strong>감염성 각막염</strong></td><td>통증·눈부심·시력 저하, 각막 상피 결손·백색 침윤 또는 혼탁, 섬모체충혈, 분비물; 중증이면 전방축농</td><td>콘택트렌즈, 외상, 수술, 안구표면질환; 세균·HSV·VZV·진균·Acanthamoeba 등</td></tr><tr><td><strong>대상포진 눈병증</strong></td><td>삼차신경 제1분지 분포(이마·윗눈꺼풀·코)의 수포와 함께 충혈·통증·눈부심; 결막염·각막염·포도막염·공막염 등 다양한 형태</td><td>VZV 재활성화; 고령, 면역저하; 코끝·코 측면 수포(Hutchinson sign)는 안구 침범 위험 증가</td></tr><tr><td><strong>급성 전방포도막염</strong></td><td>심부 통증, 직접 및 교감성 눈부심, 눈물, 시력 저하, 섬모체충혈; 축소되거나 불규칙한 동공, 전방 cell/flare</td><td>특발성, HLA-B27 관련 질환, 염증성·자가면역 질환, 감염 등</td></tr><tr><td><strong>급성 폐쇄각발작</strong></td><td>급격한 안구통·두통, 시력 저하·달무리(halo), 구역·구토, 각막부종, 중간 정도 산대된 고정 또는 반응 저하 동공, 안압 상승</td><td>방수 유출로의 급성 폐쇄; 원시·고령·여성·동아시아인 등 해부학적 위험 요인; 항콜린제·교감신경작용제(감기약, 흡입 항콜린제), 산동 점안제; topiramate 등 약물은 양측성 이차성 폐쇄각 유발 가능(비동공차단형으로 pilocarpine 무효, 원인 약물 중단 및 즉시 안과 평가)</td></tr><tr><td><strong>공막염</strong></td><td>청자색을 띠는 깊은 충혈, 안구 압통·부종, 수면을 방해하는 심한 심부통과 방사통, 눈부심·시력 저하; 안구운동 시 악화 가능</td><td>류마티스관절염, 다발혈관염 동반 육아종증(GPA), 재발성 다발연골염, 염증성 장질환, sarcoidosis, 대상포진, 매독, 결핵 등</td></tr><tr><td><strong>안와봉와직염</strong></td><td>발열, 안검·안와주위 부종, 안구돌출, 안구운동 제한·복시·운동 시 통증, 시력 저하</td><td>부비동염, 외상·수술, 치성 감염 등</td></tr><tr><td><strong>안내염</strong></td><td>최근 안과수술·유리체강내 주사·관통상 후 빠르게 진행하는 통증·충혈·시력 저하, 눈부심, 전방축농</td><td>수술·주사·외상 후 외인성 감염 또는 드문 혈행성 감염</td></tr><tr><td><strong>화학적 손상</strong></td><td>갑작스러운 심한 통증·충혈·눈부심·시력 저하, 각막 상피 결손·혼탁, 결막 또는 윤부 허혈</td><td>산·알칼리·세제·용제 등; 알칼리가 일반적으로 더 깊게 침투</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="150">질환</th><th>주요 증상 및 징후</th><th>원인·관련 요인</th></tr></thead><tbody><tr><td><a href="042_-dry-eye.md"><strong>안구건조증</strong></a></td><td>대개 양측성, 작열감·따가움·모래알 같은 이물감, 변동성 흐림, 반사성 눈물흘림; 심한 통증이나 지속적 시력 저하는 드묾</td><td>눈물 생성 감소 또는 증발 증가; 항콜린제·항히스타민제 등 약물, Sjögren 증후군</td></tr><tr><td><a href="039_-blepharitis.md"><strong>안검염</strong></a></td><td>속눈썹 기저부의 비늘·딱지, 눈꺼풀 가장자리 충혈·부종, 작열감·이물감; 만성·재발성</td><td>전방 또는 후방 안검염, 마이봄샘 기능장애</td></tr><tr><td><strong>각막찰과상·</strong><a href="045_-foreign-body-in-the-eye.md"><strong>이물</strong></a></td><td>대개 일측성, 갑작스러운 통증·이물감·눈물·눈부심·안검경련; fluorescein 염색 결손, 손상 위치에 따라 시력 저하</td><td>직접 손상, 고속 금속·목재 작업, 콘택트렌즈, 손톱·화장도구</td></tr><tr><td><a href="044_-subconjunctival-hemorrhage.md"><strong>결막하출혈</strong></a></td><td>경계가 뚜렷한 선홍색 또는 암적색 반점, 정상 시력, 대개 무통, 분비물 없음</td><td>자발성, 기침·구토·운동, 고혈압, 항혈전제·출혈질환, 외상</td></tr><tr><td><strong>상공막염</strong></td><td>부분적 또는 미만성 표층 충혈, 경미한 불편감·압통·눈물; 시력 유지, 심한 눈부심 없음</td><td>대부분 특발성; 반복되면 전신 염증질환과의 연관성 평가</td></tr><tr><td><strong>감염성 각막염</strong></td><td>통증·눈부심·시력 저하, 각막 상피 결손·백색 침윤 또는 혼탁, 섬모체충혈, 분비물; 중증이면 전방축농</td><td>콘택트렌즈, 외상, 수술, 안구표면질환; 세균·HSV·VZV·진균·Acanthamoeba 등</td></tr><tr><td><strong>대상포진 눈병증</strong></td><td>삼차신경 제1분지 분포(이마·윗눈꺼풀·코)의 수포와 함께 충혈·통증·눈부심; 결막염·각막염·포도막염·공막염 등 다양한 형태</td><td>VZV 재활성화; 고령, 면역저하; 코끝·코 측면 수포(Hutchinson sign)는 안구 침범 위험 증가</td></tr><tr><td><strong>급성 전방포도막염</strong></td><td>심부 통증, 직접 및 교감성 눈부심, 눈물, 시력 저하, 섬모체충혈; 축소되거나 불규칙한 동공, 전방 cell/flare</td><td>특발성, HLA-B27 관련 질환, 염증성·자가면역 질환, 감염 등</td></tr><tr><td><strong>급성 폐쇄각발작</strong></td><td>급격한 안구통·두통, 시력 저하·달무리(halo), 구역·구토, 각막부종, 중간 정도 산대된 고정 또는 반응 저하 동공, 안압 상승</td><td>방수 유출로의 급성 폐쇄; 원시·고령·여성·동아시아인 등 해부학적 위험 요인; 항콜린제·교감신경작용제(감기약, 흡입 항콜린제), 산동 점안제; topiramate 등 약물은 양측성 이차성 폐쇄각 유발 가능(비동공차단형으로 pilocarpine 무효, 원인 약물 중단 및 즉시 안과 평가)</td></tr><tr><td><strong>공막염</strong></td><td>청자색을 띠는 깊은 충혈, 안구 압통·부종, 수면을 방해하는 심한 심부통과 방사통, 눈부심·시력 저하; 안구운동 시 악화 가능</td><td>류마티스관절염, 다발혈관염 동반 육아종증(GPA), 재발성 다발연골염, 염증성 장질환, sarcoidosis, 대상포진, 매독, 결핵 등</td></tr><tr><td><strong>안와연조직염</strong></td><td>발열, 안검·안와주위 부종, 안구돌출, 안구운동 제한·복시·운동 시 통증, 시력 저하</td><td>부비동염, 외상·수술, 치성 감염 등</td></tr><tr><td><strong>안내염</strong></td><td>최근 안과수술·유리체강내 주사·관통상 후 빠르게 진행하는 통증·충혈·시력 저하, 눈부심, 전방축농</td><td>수술·주사·외상 후 외인성 감염 또는 드문 혈행성 감염</td></tr><tr><td><strong>화학적 손상</strong></td><td>갑작스러운 심한 통증·충혈·눈부심·시력 저하, 각막 상피 결손·혼탁, 결막 또는 윤부 허혈</td><td>산·알칼리·세제·용제 등; 알칼리가 일반적으로 더 깊게 침투</td></tr></tbody></table>
 
-> _참고 문헌 : AAO Conjunctivitis PPP 2024, CDC 2024, Ann Eye Sci 2025_
+> _참고 문헌 : Ophthalmology 2024, CDC 2024, Ann Eye Sci 2025_
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -30,12 +30,12 @@
 * 산·알칼리·세제·용제 등의 눈 노출 - 병력 청취·시력 측정보다 세척이 우선
 * 날카로운 물체·고속 비산물에 의한 손상, 심한 둔상, 불규칙한 동공 또는 Seidel sign 양성
 * 급격한 시력 저하·달무리, 심한 안구통·두통, 구역·구토, 각막부종, 중간 산대된 반응 저하 동공  `급성 폐쇄각발작`
-* 통증·구토가 없더라도 갑작스럽게 발생한 뚜렷한 시력 상실  `안내염` `망막·시신경 질환` `급성 폐쇄각발작`
+* 통증·구토가 없더라도 갑작스럽게 발생한 뚜렷한 시력 상실  `망막동맥폐쇄` `거대세포동맥염` `망막박리`
 * 전방의 혈액층 또는 흰 고름층  `전방출혈` `전방축농`
 * 최근 안과수술·유리체강내 주사·관통상 후 빠르게 진행하는 통증·충혈·시력 저하  `안내염`
-* 발열·안검부종과 함께 안구돌출, 안구운동 제한·통증, 복시, 시력 저하 또는 RAPD  `안와봉와직염`
-* 외상·안와 또는 부비동 수술 후 급격한 안구돌출, 팽팽하게 긴장된 안와, 현저한 안압 상승 - 시력 저하나 RAPD가 아직 없어도 의심; 영상검사를 기다리느라 감압을 지연하지 않음  `안와구획증후군`
-* 다량의 지속적 농성 분비물, 심한 결막부종 - 점안 항균제만으로 치료하지 않으며 전신 항균제와 안과 평가 필요  `과급성 임균성 결막염`
+* 발열·안검부종과 함께 안구돌출, 안구운동 제한·통증, 복시, 시력 저하 또는 RAPD  `안와연조직염`
+* 외상·안와 또는 부비동 수술 후 급격한 안구돌출, 팽팽하게 긴장된 안와, 현저한 안압 상승(시력 저하·RAPD가 아직 없어도 해당)  `안와구획증후군`
+* 다량의 지속적 농성 분비물, 심한 결막부종  `과급성 임균성 결막염`
 * 생후 28일 이내 신생아의 다량 농성 분비물, 현저한 안검·결막 부종 또는 각막 이상  `임균성 신생아 결막염`
 * 빠르게 진행하는 각막 침윤·혼탁, 광범위 상피 결손 또는 전방축농 동반  `중증 감염성 각막염`
 
@@ -110,11 +110,11 @@
 * phenylephrine 점안 후 표층 혈관의 소실 여부를 보조적으로 이용하기도 하나, 이 검사만으로 공막염을 배제하지 않음
 * 통증·시력 저하가 있거나 감별이 불확실하면 반드시 당일 안과에 의뢰
 
-**안와격막앞봉와직염과 안와봉와직염의 감별**
+**안와격막앞연조직염과 안와연조직염의 감별**
 
-* 안와격막앞봉와직염은 안검·안와주위 발적과 부종이 있으나 시력·동공·안구운동이 정상이고 안구돌출이나 운동 시 통증이 없음
-* 안구돌출, 안구운동 제한·통증, 복시, 시력 저하 또는 RAPD는 안와봉와직염을 시사하므로 즉각 영상검사와 입원 치료를 평가
-* 발열이 없다는 이유만으로 안와봉와직염을 배제하지 않음
+* 안와격막앞연조직염은 안검·안와주위 발적과 부종이 있으나 시력·동공·안구운동이 정상이고 안구돌출이나 운동 시 통증이 없음
+* 안구돌출, 안구운동 제한·통증, 복시, 시력 저하 또는 RAPD는 안와연조직염을 시사하므로 즉각 영상검사와 입원 치료를 평가
+* 발열이 없다는 이유만으로 안와연조직염을 배제하지 않음
 
 **반복되거나 광범위한 결막하출혈의 추가 평가**
 
@@ -149,16 +149,16 @@ flowchart TD
 
 <p align="center"><strong>눈 충혈 초기 분류 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Ann Eye Sci 2025; AAO Conjunctivitis PPP 2024; CDC 2024)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Ann Eye Sci 2025; Ophthalmology 2024; CDC 2024)</mark></em></p>
 
 ```mermaid
 flowchart TD
     A["눈 충혈 + <br/>눈꺼풀·안와주위 부종"] --> T["외상·수술 후 급격한 안구돌출<br/>·팽팽한 안와·현저한 안압 상승?"]
     T -- "예" --> OC["즉각 조치 - <br/>안와구획증후군 의심, <br/>영상검사 전 즉시 감압 평가"]
     T -- "아니요" --> B["안구돌출·안구운동 제한 또는 <br/>통증·복시·시력 저하·RAPD?"]
-    B -- "예" --> C["즉각 조치 - <br/>안와봉와직염 의심, <br/>영상검사·입원 치료 평가"]
+    B -- "예" --> C["즉각 조치 - <br/>안와연조직염 의심, <br/>영상검사·입원 치료 평가"]
     B -- "아니요" --> D["일측성 압통·발열 <br/>또는 피부감염 소견?"]
-    D -- "예" --> E["안와격막앞봉와직염 - <br/>당일 진료, 경구 항생제 후 <br/>24~48시간 내 재평가 <br/>(소아·중증은 입원 평가)"]
+    D -- "예" --> E["안와격막앞연조직염 - <br/>당일 진료, 경구 항생제 후 <br/>24~48시간 내 재평가 <br/>(소아·중증은 입원 평가)"]
     D -- "아니요" --> F["알레르기·안검염·다래끼 감별, <br/>안와 징후 발생 시 재평가"]
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef yellow fill:#fff9c4,stroke:#ffe082
@@ -212,7 +212,7 @@ flowchart TD
 ### <mark style="color:orange;">충혈제거 점안액</mark>
 
 * naphazoline, tetrahydrozoline 등 혈관수축제 : 반동성 충혈과 원인 질환 진단 지연 위험
-  * 증상 완화용 단기 사용에 한정하고 72시간 이상 연속 사용하지 않음 (☞ [안과계 약제](037_1-ophthalmic-medications.md))
+  * 증상 완화용 단기 사용에 한정하고 72시간 이상 연속 사용하지 않음 (☞ [안과계 약제](037_1-ophthalmic-med.md))
 
 ### <mark style="color:orange;">콘택트렌즈</mark>
 
@@ -360,7 +360,8 @@ flowchart TD
 * \[Commun Med 2025] [Leslie L, Liu SH, Kuo IC. Topical ophthalmic anesthetics for corneal abrasions: findings from a Cochrane systematic review and meta-analysis. Commun Med. 2025;5:393.](https://doi.org/10.1038/s43856-025-00979-4) - 국소 마취제 외래 자가사용의 유효성·안전성 근거 한계
 * \[MMWR 2018] [Cope JR, et al. Corneal Infections Associated with Sleeping in Contact Lenses - Six Cases, United States, 2016-2018. MMWR Morb Mortal Wkly Rep. 2018;67(32):877-881.](https://www.cdc.gov/mmwr/volumes/67/wr/mm6732a2.htm) - 렌즈 착용 중 수면과 각막 감염 위험
 * [Sargolzaeimoghaddam M, et al. Review of ophthalmic emergencies in primary care: a comprehensive approach to red eye. Ann Eye Sci. 2025;10:20.](https://aes.amegroups.org/article/view/8528/html) - 충혈안 감별·응급 평가와 의뢰 전 처치
-* [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙 (AAO 2023년 발표, 2024년 게재)
+* \[Ophthalmology 2024] [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙
+* \[CDC 2024] [Centers for Disease Control and Prevention. Clinical Overview of Pink Eye (Conjunctivitis). 2024.](https://www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html) - 결막염의 임상 평가와 의뢰 기준
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 

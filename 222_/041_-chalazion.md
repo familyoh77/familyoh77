@@ -30,16 +30,19 @@
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 안구 돌출, 안구 운동 제한 또는 안구 운동 시 통증, 복시, 시력 저하 또는 상대구심동공운동장애(RAPD) `안와 연조직염` `골막하·안와 농양`
-* 고열·전신 중독 증상을 동반하며 급속히 진행하는 눈꺼풀 부종·발적, 또는 영유아·면역저하자의 눈꺼풀 연조직염 `중증 눈꺼풀앞 연조직염` `초기 안와 연조직염`
+* 전신 독성·의식 변화·패혈증 의심 소견, 또는 빠르게 악화하는 중증 눈꺼풀 감염 `중증 눈꺼풀앞 연조직염` `안와 연조직염`
+* 눈꺼풀 부종으로 안구 운동·시력·동공 진찰이 불가능한 경우 `안와 연조직염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 통증 없던 결절에 통증·압통·발적·열감이 새로 생기며 눈꺼풀 전체로 퍼지는 경우 **(당일)** `눈꺼풀앞 연조직염`
+* 영유아 또는 면역저하자의 눈꺼풀 연조직염 **(당일)** `눈꺼풀앞 연조직염`
+* Hib 예방접종 미완료 소아의 눈꺼풀 연조직염 **(당일)** `중증 눈꺼풀앞 연조직염`
 * 각막 압박·시력 저하를 동반한 큰 병변 `유발 난시`
 * 어린 소아에서 동공을 가리거나 각막을 누르는 큰 상안검 병변, 지속되는 기계적 안검하수 `가림약시` `유발 난시`
 * 소아의 재발성·다발성 병변에 만성 충혈, 눈부심, 각막 혼탁이 동반된 경우 `안검각결막염`
-* 동일 부위 반복 재발, 고령 초발, 속눈썹 소실, 눈꺼풀 가장자리 변형, 단단하고 경계 불분명한 종괴 `피지선 암종`
-* 치료에 반응하지 않는 편측 만성 안검결막염 `피지선 암종`
+* 동일 부위 반복 재발, 고령 초발, 속눈썹 소실, 눈꺼풀 가장자리 변형, 단단하고 경계 불분명한 종괴 `피지선암`
+* 치료에 반응하지 않는 편측 만성 안검결막염 `피지선암`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -62,10 +65,10 @@
 * 보존 치료 2\~4주에도 호전이 없거나 1개월 이상 지속·재발하면 진단 재평가와 안과 의뢰가 필요
   * 단, 지속 기간만으로 생검을 하지는 않음
 * 생검을 적극 고려할 상황 : 동일 위치 반복 재발, 치료 저항성 편측 안검결막염, 고령 초발, 속눈썹 소실·황색 또는 불규칙한 비후·경계 불분명·고정된 단단한 종괴 등 비전형적 소견
-  * 상안검 병변에서 피지선 암종 빈도가 상대적으로 높음
+  * 상안검 병변에서 피지선암 빈도가 상대적으로 높음
 
 {% hint style="warning" %}
-**피지선 암종 의심 임상 단서** - 아래 소견이 있으면 신속히 안과 의뢰하고 생검 역치를 낮게 유지\
+**피지선암 의심 임상 단서** - 아래 소견이 있으면 신속히 안과 의뢰하고 생검 역치를 낮게 유지\
 • 이전 병력 없이 고령에 처음 발생한 눈꺼풀 종괴\
 • 동일 부위 반복 재발 또는 적절한 치료에도 지속·진행, 특히 상안검에서 반복 재발\
 • 종괴 질감이 rubbery가 아닌 딱딱하고(rock-hard) 불분명한 경계\
@@ -73,7 +76,7 @@
 • 치료에 반응하지 않는 편측 만성 안검결막염 - 결막 상피 내 확산(pagetoid spread)이 염증처럼 보일 수 있음\
 • 국소 림프절 비대 동반
 
-피지선 암종은 chalazion으로 위장하는 대표적 악성 종양임. 100명 단일기관 후향 연구에서 5년 질환특이생존율은 92.0%였으나 21%에서 림프절 전이가 발생하여, 조기 진단과 림프절 촉진이 중요함 <mark style="color:$info;">\[Br J Ophthalmol 2019]</mark>
+피지선암은 chalazion으로 위장하는 대표적 악성 종양임. 100명 단일기관 후향 연구에서 5년 질환특이생존율은 92.0%였으나 21%에서 림프절 전이가 발생하여, 조기 진단과 림프절 촉진이 중요함 <mark style="color:$info;">\[Br J Ophthalmol 2019]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">감별</mark>
@@ -89,7 +92,7 @@
 **chalazion 유사 육아종성 병변 유발 원인** (드묾)
 
 * 면역 저하, 결핵, 바이러스 감염, trachoma, leishmaniasis 등 - 일반적인 chalazion의 흔한 위험인자는 아님
-* 악성 종양(피지선 암종 등) - chalazion으로 오인될 수 있는 감별진단 대상
+* 악성 종양(피지선암 등) - chalazion으로 오인될 수 있는 감별진단 대상
 
 ***
 
@@ -170,13 +173,13 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
-#### <mark style="color:$primary;">국소 스테로이드 (보조 치료)</mark>
+### <mark style="color:orange;">국소 스테로이드 (보조 치료)</mark>
 
 * 단순 chalazion에 routine으로 사용하지 않음 : 온찜질 단독과 온찜질 + 항생제 또는 항생제/스테로이드 복합제의 완전 소실률에 유의한 차이가 없음
 * 주변 결막·눈꺼풀 염증이 뚜렷하고 감염·각막상피결손·각막염(특히 HSV)을 배제한 선택적 상황에서만 안과 전문의 판단으로 짧은 기간 고려
-* fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>, loteprednol etabonate <mark style="color:blue;">\[로테프로점안현탁액]</mark> 등 - 제품별 허가사항 확인; 안압 상승·백내장·감염 악화 위험 때문에 임의 장기 사용 금지 및 필요 시 안압 추적 (☞ [안과계 약제](037_1-ophthalmic-medications.md))
+* fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>, loteprednol etabonate <mark style="color:blue;">\[로테프로점안현탁액]</mark> 등 - 제품별 허가사항 확인; 안압 상승·백내장·감염 악화 위험 때문에 임의 장기 사용 금지 및 필요 시 안압 추적 (☞ [안과계 약제](037_1-ophthalmic-med.md))
 
-#### <mark style="color:$primary;">병변 내 스테로이드 주사</mark>
+### <mark style="color:orange;">병변 내 스테로이드 주사</mark>
 
 * 적용 : 앞서 기술한 보존 치료 실패 기준에 해당하고, 감염 소견이 없으며 임상 진단이 명확하고 조직 진단이 필요하지 않을 때
 * 방법 : triamcinolone acetonide 병변 내 직접 주입(가는 바늘, 예: 27\~30G); 안과 처치
@@ -198,7 +201,7 @@ graph TD
     * 주사 후 시력 변화·중심 암점 발생 시 즉시 안과 내원 필요
   * 드문 부작용 : 망막·맥락막 혈관 폐쇄, 안구 천공, 시력 손실
 
-#### <mark style="color:$primary;">항생제</mark>
+### <mark style="color:orange;">항생제</mark>
 
 * 단순 chalazion 자체에는 항생제가 필요하지 않음
   * 2,712명 후향 관찰 연구에서 보존 치료에 국소·경구 항생제를 추가해도 치료 성공률이 높아지지 않았으며(adjusted RR 0.97, 95% CI 0.89\~1.04), tetracycline·macrolide계도 다른 경구 항생제와 차이가 없었음 <mark style="color:$info;">\[Eye Contact Lens 2022]</mark>
@@ -207,7 +210,7 @@ graph TD
 * 눈꺼풀앞 연조직염(preseptal cellulitis)이 동반되면 당일 평가 후 원인과 중증도에 맞는 전신 항생제를 사용 (☞ 항생제 선택은 [다래끼](040_-hordeolum.md#management) 참고)
 * 안와 연조직염이 의심되면 즉시 입원·정주 치료
 
-#### <mark style="color:$primary;">동반 MGD·ocular rosacea·만성 안검염의 선택적 항염 치료</mark>
+### <mark style="color:orange;">동반 MGD·ocular rosacea·만성 안검염의 선택적 항염 치료</mark>
 
 * 성인에서 doxycycline 50 ㎎ qd, 6\~12주를 고려할 수 있음 <mark style="color:blue;">\[모노신정]</mark>
   * chalazion 자체 또는 단순 재발에 대한 routine 치료가 아니라 기저 눈꺼풀 질환을 대상으로 한 허가 외 사용이며, 50 ㎎/일 용법도 국내 허가 용법과 다름
@@ -233,7 +236,7 @@ graph TD
 <table><thead><tr><th width="82">접근 면</th><th width="109">절개 방향</th><th width="254">적용 상황</th><th>근거</th></tr></thead><tbody><tr><td>결막 면</td><td>Vertical</td><td>대부분의 chalazion - 표준 접근</td><td>meibomian gland 주행 방향 평행; 주변 기름샘 손상 최소화</td></tr><tr><td>피부 면</td><td>Horizontal</td><td>병변이 피부 쪽에 매우 근접한 경우</td><td>피부 주름선(relaxed skin tension line) 방향; 흉터 최소화</td></tr></tbody></table>
 
 * 조직 병리 검사 : 통상의 절개·소파술 검체는 원칙적으로 병리 의뢰하는 안전 중심 방침을 고려
-* 반복·비전형(고령 초발, 경계 불분명, madarosis 등)·악성 의심 병변은 통상 소파술과 별개로 충분한 조직을 확보하는 진단 생검을 반드시 시행 - 피지선 암종 등 악성 병변 배제
+* 반복·비전형(고령 초발, 경계 불분명, madarosis 등)·악성 의심 병변은 통상 소파술과 별개로 충분한 조직을 확보하는 진단 생검을 반드시 시행 - 피지선암 등 악성 병변 배제
 * 기타 드문 합병증 : 출혈·감염·흉터, 눈꺼풀 윤곽 변형 또는 notch, 누점·눈물길 손상, 안구 천공
 
 #### <mark style="color:$primary;">시술 후 합병증 - 화농성 육아종(Pyogenic Granuloma)</mark>
@@ -392,7 +395,7 @@ graph TD
 
 **Q. 콩다래끼를 손으로 짜면 안 되나요?** A. 삼가십시오. 강하게 누르거나 짜면 염증이 퍼져 감염·연조직염(눈꺼풀 주변 피부 감염)으로 악화될 수 있습니다.
 
-**Q. 같은 자리에 계속 재발하는데 왜 그런가요?** A. 동일 부위의 반복 재발은 마이봄샘 기능 장애, 지루피부염, rosacea 등 기저 원인이 있는 경우가 많습니다. 드물게는 피지선 암종이 콩다래끼처럼 보일 수 있으므로 안과에서 재평가하고, 비전형 소견이 있으면 생검을 고려해야 합니다.
+**Q. 같은 자리에 계속 재발하는데 왜 그런가요?** A. 동일 부위의 반복 재발은 마이봄샘 기능 장애, 지루피부염, rosacea 등 기저 원인이 있는 경우가 많습니다. 드물게는 피지선암이 콩다래끼처럼 보일 수 있으므로 안과에서 재평가하고, 비전형 소견이 있으면 생검을 고려해야 합니다.
 
 
 ***
@@ -401,7 +404,7 @@ graph TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* \[Br J Ophthalmol 2019] [Sa HS, et al. Prognostic factors for local recurrence, metastasis and survival for sebaceous carcinoma of the eyelid: observations in 100 patients. Br J Ophthalmol. 2019;103(7):980-984.](https://doi.org/10.1136/bjophthalmol-2018-312635) - 피지선 암종의 림프절 전이율과 5년 질환특이생존율
+* \[Br J Ophthalmol 2019] [Sa HS, et al. Prognostic factors for local recurrence, metastasis and survival for sebaceous carcinoma of the eyelid: observations in 100 patients. Br J Ophthalmol. 2019;103(7):980-984.](https://doi.org/10.1136/bjophthalmol-2018-312635) - 피지선암의 림프절 전이율과 5년 질환특이생존율
 * \[Korean J Ophthalmol 2025] [Management Practice for Hordeolum and Chalazion: A Survey of the Korean Society of Ophthalmic Plastic and Reconstructive Surgery (KSOPRS) Members. Korean J Ophthalmol. 2025;39(3):222-240.](https://doi.org/10.3341/kjo.2025.0024) - 국내 진료 관행 설문; 치료 효과를 검증한 비교시험과 구분
 * \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
 * \[Ophthalmic Plast Reconstr Surg 2016] [Aycinena ARP, et al. Incision and Curettage Versus Steroid Injection for the Treatment of Chalazia: A Meta-Analysis. Ophthalmic Plast Reconstr Surg. 2016;32(3):220-224.](https://doi.org/10.1097/IOP.0000000000000483) - 병변 내 주사와 절개·소파술의 성공률 비교

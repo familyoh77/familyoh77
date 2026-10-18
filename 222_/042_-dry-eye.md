@@ -74,7 +74,7 @@
 
 * 화학물질(특히 알칼리) 노출 `화학 안구 손상`
 * 관통상 또는 고속 이물에 의한 안구 외상 `개방성 안구 손상` `안구내 이물`
-* 심한 안구통·두통·구역과 함께 급격한 시력 저하 `급성 폐쇄각녹내장`
+* 심한 안구통·두통·구역과 함께 급격한 시력 저하 `급성 폐쇄각발작`
 * 통증·충혈 유무와 관계없이 갑작스러운 뚜렷한 시력 상실 `망막동맥폐쇄` `망막박리`
 
 <mark style="color:$warning;">**당일 안과 평가**</mark>
@@ -96,7 +96,7 @@
 ## <mark style="color:green;">진단</mark>
 
 * 단일 확진 검사는 없으며, '증상 + 임상 진찰소견'으로 진단
-* 증상 확인 : OSDI-6을 표준 선별 설문으로 권고 <mark style="color:$info;">\[TFOS DEWS III 2025]</mark> (☞ 아래 OSDI-6 설문지)
+* 증상 확인 : OSDI-6을 표준 선별 설문으로 권고 <mark style="color:$info;">\[Am J Ophthalmol 2025]</mark> (☞ 아래 OSDI-6 설문지)
   * DEQ-5는 보조 설문으로 사용할 수 있으나 DEWS III 표준 진단 알고리듬의 동등한 대안은 아님
 * 눈물막 및 안구 표면 항상성 이상 확인 : 증상 양성에 더하여 아래 중 1가지 이상 양성이면 DED 진단
   * non-invasive tear breakup time(NIBUT) : ＜10초(TFOS DEWS III에서 우선 권고)
@@ -115,41 +115,18 @@
 * 알레르기 질환과의 감별을 요함 (☞ [결막염](038_-conjunctivitis.md#allergic-conjunctivitis))
 * 필요 시 각막 손상 여부 검사(slit-lamp exam)
 
-**OSDI-6 설문지** ([Ocular Surface Disease Index 6](https://www.heiko-pult.de/media/files/OSDI-6-EN-2024-final-02.pdf))
+**OSDI-6** ([Ocular Surface Disease Index 6](https://www.heiko-pult.de/media/files/OSDI-6-EN-2024-final-02.pdf))
 
+* 지난 1개월 동안의 빈도를 0\~4점으로 답하는 6문항 설문으로, 빛 민감·시야 흐림(증상), 야간 운전·화면 작업(시각 기능), 바람·건조 환경(환경 유발 요인)을 평가
+* 총점 0\~24점; ≥4점이면 건성안 의심 <mark style="color:$info;">\[Am J Ophthalmol 2025]</mark>
+  * 0\~3점 정상, 4\~8점 경증\~중등도, 9\~24점 중증. 증상 중증도 구간이며, 객관적 안구 표면 손상을 포함한 전체 DED 중증도 분류는 아님
 * 한국어판의 신뢰도·타당도 검증 연구는 아직 확인되지 않음
-* 아래 문항은 TFOS 권고 양식을 옮긴 참고용 번역이며, 절단값은 원판 기준을 준용
-* 지난 한 달 중 일상적인 하루 동안 아래 상황을 경험한 빈도를 '항상(4점)', '대부분(3점)', '자주(2점)', '가끔(1점)', '전혀 없음(0점)'으로 답변
-* 채점/판정 : 각 문항 점수 합산(최저 0점, 최고 24점) → 총점 ≥4이면 건성안 의심
-  * 0\~3점 정상, 4\~8점 경증\~중등도, 9\~24점 중증. 이는 증상 중증도 구간이며 객관적 안구 표면 손상까지 포함한 전체 DED 중증도 분류는 아님
-  * 설문 점수만으로 DED를 진단하거나 치료 단계를 결정하지 않음
-* \[증상 및 시각 장애]
-  1. 빛에 눈이 민감하셨나요?
-  2. 시야가 흐려지셨나요?
-* \[시각 기능·작업] 3. 야간에 운전하거나 차를 타고 이동할 때 눈 때문에 지장이 있었나요? 4. TV 시청 또는 비슷한 작업을 할 때 눈 때문에 지장이 있었나요?
-* \[환경 유발 요인] 5. 바람 부는 환경에서 눈이 불편하셨나요? 6. 습도가 낮은 환경에서 눈이 불편하셨나요?
+* 설문 점수만으로 DED를 진단하거나 치료 단계를 결정하지 않음
 
-**DEQ-5 설문지** ([Dry Eye Questionnaire 5](https://www.reviewofoptometry.com/CMSDocuments/2022/05/DEQ5.pdf))
+**DEQ-5** ([Dry Eye Questionnaire 5](https://www.reviewofoptometry.com/CMSDocuments/2022/05/DEQ5.pdf))
 
-* 증상 정도를 보조적으로 평가할 때 사용
-* 지난 한 달 중 일상적인 하루 동안의 경험
-* 채점/판정 : 각 문항 점수 합산(최저 0점, 최고 22점) → 총점 ≥6이면 건성안 증상 시사, ≥12이면 Sjögren syndrome 가능성도 고려
-
- \[눈의 불편감(Eye Discomfort)]\
-   1. 눈이 불편하다고 느낀 빈도는?\
-   없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)\
-   2. 잠자리에 들기 2시간 전, 하루가 끝날 무렵 불편감의 강도는?\
-   없음(0), 매우 약함(1)\~매우 심함(5)
-
- \[눈의 건조감(Eye Dryness)]\
-   3. 눈이 건조하다고 느낀 빈도는?\
-   없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)\
-   4. 잠자리에 들기 2시간 전, 하루가 끝날 무렵 건조감의 강도는?\
-   없음(0), 매우 약함(1)\~매우 심함(5)
-
- \[눈물 흘림(Watery Eyes)]\
-   5. 눈이 지나치게 촉촉하거나 눈물이 흘렀던 빈도는?\
-   없음(0), 드물게(1), 가끔(2), 자주(3), 항상(4)
+* 지난 1개월 동안의 눈 불편감·건조감의 빈도와 하루 끝 무렵의 강도, 과도한 눈물 빈도를 평가하는 5문항 보조 설문(총점 0\~22점)
+* TFOS DEWS II의 건성안 증상 선별 기준은 ≥6점이며, 원 개발논문에서는 ＞12점에서 쇼그렌증후군 관련 추가 평가를 고려하도록 제안함. 점수만으로 쇼그렌증후군을 진단하지 않음
 
 #### <mark style="color:$primary;">원인 기전(driver) 평가</mark>
 
@@ -222,7 +199,7 @@ graph TD
 * MGD 동반 시 온찜질·눈꺼풀 위생을 우선 시행
 * 알레르기 등 관련 질환 진단 및 치료
 * 난치성 질환에 대하여 항염제 고려
-* 복수의 병인이 동반되는 경우 복합 치료가 원칙 <mark style="color:$info;">\[TFOS DEWS III 2025]</mark>
+* 복수의 병인이 동반되는 경우 복합 치료가 원칙 <mark style="color:$info;">\[Am J Ophthalmol 2025]</mark>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -259,7 +236,7 @@ graph TD
 
 #### <mark style="color:$primary;">수분 보유 (Humectant)</mark>
 
-* hyaluronate : 점탄성·수분 보유 기전. 방부제 함유 병 제품과 무방부제 단회용 제품으로 구분; <mark style="color:blue;">\[라큐아 점안액]</mark>, <mark style="color:blue;">\[히알루 미니]</mark>, <mark style="color:blue;">\[히아레인 미니]</mark>
+* hyaluronate : 점탄성·수분 보유 기전. 방부제 함유 병 제품과 무방부제 단회용 제품으로 구분; <mark style="color:blue;">\[라큐아]</mark>, <mark style="color:blue;">\[히알루미니]</mark>, <mark style="color:blue;">\[히아레인 미니]</mark>
   * 다른 점안제와 병용 시 다른 점안제를 먼저 사용하고 약 30분 후 점안(제품별 허가사항 준수)
 
 #### <mark style="color:$primary;">점성 유지</mark>
@@ -306,10 +283,10 @@ graph TD
 
 ### <mark style="color:orange;">항염제</mark>
 
-#### <mark style="color:$primary;">국소 Steroid</mark>
+#### <mark style="color:$primary;">국소 스테로이드</mark>
 
 * 단순 자극감만으로 사용하지 않으며, 감염성 각막염·헤르페스각막염 등을 배제하고 임상적으로 안구 표면 염증이 확인된 경우에 안과 감독 아래 단기간 사용
-* 염증의 정도에 맞는 점안 스테로이드를 선택하고 치료 전후 각막 상태와 안압을 평가; 임의 연장 또는 간헐적 장기 사용을 피함 (☞ [안과계 약제](037_1-ophthalmic-medications.md#undefined-14))
+* 염증의 정도에 맞는 점안 스테로이드를 선택하고 치료 전후 각막 상태와 안압을 평가; 임의 연장 또는 간헐적 장기 사용을 피함 (☞ [안과계 약제](037_1-ophthalmic-med.md#undefined-14))
 * fluorometholone <mark style="color:blue;">\[오큐메토론]</mark>
 * loteprednol <mark style="color:blue;">\[로테프로점안현탁액]</mark>
 
@@ -336,10 +313,10 @@ graph TD
 ### <mark style="color:orange;">항생제</mark>
 
 * 대상 : 2차 감염, MGD, rosacea, blepharitis
-* 국소 항생제 (☞ [안과계 약제](037_1-ophthalmic-medications.md#undefined-10))
+* 국소 항생제 (☞ [안과계 약제](037_1-ophthalmic-med.md#undefined-10))
 * 전신 항생제 : 보존치료에 반응하지 않는 중등도\~중증 MGD 또는 ocular rosacea에서 doxycycline 등을 안과 판단으로 제한적으로 고려(허가 외 사용)
 * 용량·기간은 연구마다 다양하며 장기간 routine 사용 근거는 제한적
-* 위장관 장애·식도염·광과민, 임신·수유 및 소아 사용 제한, 약물상호작용을 확인하고 통상 6\~12주 이내 반응을 재평가
+* 위장관 장애·식도염·광과민, 약물상호작용을 확인하고 임부·수유부·12세 미만 소아에게는 사용하지 않음(국내 허가사항). 통상 6\~12주 이내 반응을 재평가
 * 식도 자극을 줄이기 위해 충분한 물과 함께 복용하고 복용 후 최소 30분간 눕지 않도록 안내
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
@@ -390,7 +367,7 @@ graph TD
 > **처방례 2. 중등도 이상 (수성 결핍형)**
 >
 > ```
-> 히알루 미니 점안액  1방울 qid 이상
+> 히알루미니 점안액  1방울 qid 이상
 > 듀라티얼즈 안연고 1 tube  취침 전
 > ```
 >
@@ -409,19 +386,19 @@ graph TD
 >
 > ```
 > 모노신정 100 ㎎/T  1T qd  6~8주
-> 히알루 미니 점안액  필요시
+> 히알루미니 점안액  필요시
 > ```
 >
-> _✽허가 외 사용. 보존치료에 반응하지 않는 중등도\~중증 MGD 또는 ocular rosacea에서 안과 판단으로 고려하며 6\~8주 후 반응과 부작용을 재평가. 충분한 물과 함께 복용하고 복용 후 최소 30분간 눕지 않도록 안내. 임신·수유, 소아, 식도염·광과민 및 약물상호작용에 주의. 온찜질과 눈꺼풀 위생을 병행_
+> _✽허가 외 사용. 보존치료에 반응하지 않는 중등도\~중증 MGD 또는 ocular rosacea에서 안과 판단으로 고려하며 6\~8주 후 반응과 부작용을 재평가. 충분한 물과 함께 복용하고 복용 후 최소 30분간 눕지 않도록 안내. 12세 미만·임부·수유부 금기(국내 허가사항). 식도염·광과민 및 약물상호작용에 주의. 온찜질과 눈꺼풀 위생을 병행_
 
 > **처방례 5. 중등도 - 눈물막 불안정(BUT 단축) 우세**
 >
 > ```
-> 히알루 미니 점안액  1방울 qid
+> 히알루미니 점안액  1방울 qid
 > 디쿠아스에스 점안액  1방울 1일 6회
 > ```
 >
-> _✽눈물대치제와 분비촉진제는 기전이 달라 각 제품의 허가사항과 세부인정기준을 충족하면 병용 급여 가능(동일 기전 내 1종 원칙). 히알루론산 제품은 다른 점안제 사용 후 약 30분 뒤 점안(디쿠아스에스 점안 → 약 30분 후 히알루 미니)_
+> _✽눈물대치제와 분비촉진제는 기전이 달라 각 제품의 허가사항과 세부인정기준을 충족하면 병용 급여 가능(동일 기전 내 1종 원칙). 히알루론산 제품은 다른 점안제 사용 후 약 30분 뒤 점안(디쿠아스에스 점안 → 약 30분 후 히알루미니)_
 
 ***
 
@@ -521,8 +498,8 @@ graph TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* \[TFOS DEWS III 2025] [Wolffsohn JS, et al. TFOS DEWS III: Diagnostic Methodology. Am J Ophthalmol. 2025;279:387-450.](https://doi.org/10.1016/j.ajo.2025.05.033) - OSDI-6, 눈물막 검사와 원인 기전 평가
-* \[TFOS DEWS III 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
+* \[Am J Ophthalmol 2025] [Wolffsohn JS, et al. TFOS DEWS III: Diagnostic Methodology. Am J Ophthalmol. 2025;279:387-450.](https://doi.org/10.1016/j.ajo.2025.05.033) - OSDI-6, 눈물막 검사와 원인 기전 평가
+* \[Am J Ophthalmol 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
 * \[NEJM 2018] [Dry Eye Assessment and Management Study Research Group. n-3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med. 2018;378:1681-1690.](https://doi.org/10.1056/NEJMoa1709691) - DREAM trial; 오메가-3 보충의 효과 평가
 * \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
 * [Kim DH, et al. New Korean Guidelines for the Diagnosis and Management of Dry Eye Disease. Korean J Ophthalmol. 2024;38(2):156-163.](https://doi.org/10.3341/kjo.2023.0076) - 국내 건성안 진단·치료 지침
