@@ -24,7 +24,7 @@
 
 * 광범위 항생제 (정상 구강 상재균 억제 → _Candida_ 과증식)
 * 흡입 스테로이드(ICS) : 고용량, 부적절한 흡입법, 흡입 후 구강 세척을 하지 않는 경우 위험 증가; 기기 종류만으로 위험도를 일률적으로 순위화하지 않음
-* 전신 스테로이드, 면역억제제, 항암제; IL-17 억제제도 구강·점막 칸디다증 위험을 높일 수 있음 <mark style="color:$info;">\[ECMM/ISHAM/ASM 2025]</mark>
+* 전신 스테로이드, 면역억제제, 항암제; IL-17 억제제(특히 IL-17A/F 이중 억제제 bimekizumab)도 구강·점막 칸디다증 위험을 높일 수 있음 <mark style="color:$info;">\[ECMM/ISHAM/ASM 2025]</mark>
 
 #### <mark style="color:$primary;">전신 질환 및 면역 상태</mark>
 
@@ -113,7 +113,7 @@ flowchart TD
     D -- 기타 --> Z["아프타·편평태선·기타 감별"]
     C --> I["연하통·연하곤란 또는<br/>흉골후 통증?"]
     H --> I
-    I -- 예 --> J["식도 칸디다증 의심·감별<br/>가능성 높으면 전신 항진균제 14~21일<br/>중증·섭취 불가 시 조기 의뢰<br/>7일 내 무호전 시 내시경"]
+    I -- 예 --> J["식도 칸디다증 의심·감별<br/>가능성 높으면 전신 항진균제 14~21일<br/>섭취 불가·전신상태 불량은 즉각 조치<br/>7일 내 무호전 시 내시경"]
     I -- 아니오 --> K["특징적인 임상 병변?"]
     K -- 아니오 --> N["다른 구강 병변 재평가<br/>배양 양성만으로 치료하지 않음"]
     K -- 예 --> O["중등도 이상·면역저하<br/>또는 국소 치료 실패?"]
@@ -157,7 +157,7 @@ class G,H,Z,C,E pink
 * 특징적인 구강 병변이 있으면 통증 유무와 관계없이 임상적 구강 칸디다증으로 보고 위험 인자 교정과 항진균제 치료 고려
 * 경증, 면역 정상, 식도 증상 없음 → 국소 항진균제
 * 중등도 이상, 국소 치료 실패 또는 면역 저하자 → 경구 fluconazole 우선 고려
-* 연하통·연하곤란·흉골후 통증 → 식도 칸디다증을 의심하여 면역 상태·위험 인자와 다른 식도질환 가능성을 평가. 임상적으로 가능성이 높으면 경험적 전신 항진균 치료를 시행하고(국제 지침 14\~21일), 7일 이내 뚜렷한 호전이 없거나 비전형적이면 내시경 평가; 섭취 불가·전신상태 불량 시 조기 의뢰 <mark style="color:$info;">\[IDSA 2016]</mark>
+* 연하통·연하곤란·흉골후 통증 → 식도 칸디다증을 의심하여 면역 상태·위험 인자와 다른 식도질환 가능성을 평가. 임상적으로 가능성이 높으면 경험적 전신 항진균 치료를 시행하고(국제 지침 14\~21일), 7일 이내 뚜렷한 호전이 없거나 비전형적이면 내시경 평가; 수분·음식 섭취 불가 또는 전신상태 불량은 즉각 조치 대상 <mark style="color:$info;">\[IDSA 2016]</mark>
 
 #### <mark style="color:$primary;">국소 vs 전신 치료 선택 기준</mark>
 
@@ -203,7 +203,7 @@ class G,H,Z,C,E pink
   * 필요시 틀니 표면에 nystatin 도포 고려
   * 잘 맞지 않는 틀니는 치과에서 재조정
 * 영유아 : 젖병 꼭지·노리개젖꼭지를 매일 세척·소독; 수유모에게 유두 칸디다증이 임상적으로 의심되면 유두에 국소 항진균 크림을 병행하여 모자를 함께 치료
-* 구강 건조증 치료 (☞ [구강건조증](056_-dry-mouth-xerostomia.md))
+* 구강 건조증 치료 (☞ [입안마름증](056_-dry-mouth-xerostomia.md))
 * 흡입 스테로이드 사용자 :
   * 유지치료용 ICS 흡입 후 물로 입안을 충분히 헹구고 뱉음; 가능한 경우 가글을 함께 시행함 <mark style="color:$info;">\[GINA 2026]</mark>
   * 가압식 정량흡입기(pMDI) 사용자는 필요시 spacer를 사용하여 구강 내 침착 감소; DPI 등에는 적용하지 않음
@@ -259,6 +259,7 @@ Miconazole 구강 겔과 clotrimazole 트로키는 해외 지침에 포함되지
   * 국내 허가사항 : fluconazole 50 ㎎ PO 또는 IV qd ×14\~30d; 난치성 점막 칸디다증은 100 ㎎/d로 증량 가능
   * IDSA 2016 : fluconazole 200\~400 ㎎ PO qd ×14\~21d; 경구 투여가 불가능하면 400 ㎎ IV qd 또는 정주 echinocandin 고려 <mark style="color:$info;">\[IDSA 2016]</mark>
   * ECMM/ISHAM/ASM 2025 : fluconazole 100\~200 ㎎ PO qd ×14\~21d; 경구 투여가 불가능하면 정주 항진균제 사용 <mark style="color:$info;">\[ECMM/ISHAM/ASM 2025, 부록 p 144]</mark>
+  * NIH OI 지침(HIV 감염자) : 첫날 200 ㎎ 후 100\~200 ㎎(최대 400 ㎎) PO 또는 IV qd ×14\~21d; echinocandin은 fluconazole보다 재발률이 높게 보고됨
 * 소아 (국내 허가사항, 1일 최대 400 ㎎)
   * 생후 6개월 미만 영아는 안전성·유효성이 확립되지 않았으므로, 아래 용량을 일률적으로 적용하지 않고 투여가 꼭 필요한 경우에 한해 개별 판단
   * 구강인두 칸디다증 : 첫날 6 ㎎/㎏, 이후 3 ㎎/㎏ qd; 재발 방지를 위해 최소 2주
@@ -393,7 +394,7 @@ _Candida auris_의 내성·의료기관 감염관리와 무증상 집락의 원�
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### 임상 근거
+### <mark style="color:orange;">임상 근거</mark>
 
 * Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/)
 * Cornely OA, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. Lancet Infect Dis. 2025;25(5):e280-e293. - 구강인두·식도 칸디다증은 부록 pp 141\~144 참조. [서지](https://pubmed.ncbi.nlm.nih.gov/39956121/)
@@ -404,7 +405,7 @@ _Candida auris_의 내성·의료기관 감염관리와 무증상 집락의 원�
 * NHS. How and when to take or use nystatin. - 구강 현탁액 사용 후 약 30분간 음식·음료 회피. [복약 안내](https://www.nhs.uk/medicines/nystatin/how-and-when-to-take-or-use-nystatin/)
 * Mølgaard-Nielsen D, et al. Association Between Use of Oral Fluconazole During Pregnancy and Risk of Spontaneous Abortion and Stillbirth. JAMA. 2016;315(1):58-67. [서지](https://pubmed.ncbi.nlm.nih.gov/26746458/)
 
-### 허가·급여 확인 자료
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 * 건강보험심사평가원. \[일반원칙] 항진균제. - Posaconazole의 침습성 진균감염 예방 및 항진균제별 급여 인정 범위. [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0018)
