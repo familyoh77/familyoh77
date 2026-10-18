@@ -7,7 +7,7 @@
 * 무증상 구강 집락은 치료하지 않지만, 특징적인 병변이 있는 임상적 구강 칸디다증은 위험 인자 교정과 함께 항진균제 치료가 일반적
 * 연하통·연하곤란·흉골후 통증이 동반되면 식도 칸디다증 가능성 평가
 * 재발성인 경우 기저 원인(HIV/AIDS, 당뇨병 조절 불량, 악성 종양 등) 평가 필요
-* 치료 후 작열감·통증이 지속되면 burning mouth syndrome 등 다른 원인을, 병변이 지속되면 백반증·구강 암 등을 감별
+* 치료 후 작열감·통증이 지속되면 burning mouth syndrome 등 다른 원인을, 병변이 지속되면 백반증·구강암 등을 감별
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -25,14 +25,15 @@
 * 광범위 항생제 (정상 구강 상재균 억제 → _Candida_ 과증식)
 * 흡입 스테로이드(ICS) : 고용량, 부적절한 흡입법, 흡입 후 구강 세척을 하지 않는 경우 위험 증가
   * 기기 종류만으로 위험도를 일률적으로 순위화하지 않음
-* 전신 스테로이드, 면역억제제, 항암제; IL-17 억제제(특히 IL-17A/F 이중 억제제 bimekizumab)도 구강·점막 칸디다증 위험을 높일 수 있음 <mark style="color:$info;">\[ECMM/ISHAM/ASM 2025]</mark>
+* 전신 스테로이드, 면역억제제, 항암제; IL-17 억제제도 구강·점막 칸디다증 위험을 높일 수 있음 <mark style="color:$info;">\[ECMM/ISHAM/ASM 2025]</mark>
+  * 특히 IL-17A/F 이중 억제제 bimekizumab에서 구강 칸디다증이 흔하게 보고됨
 
 #### <mark style="color:$primary;">전신 질환 및 면역 상태</mark>
 
 * 당뇨병 (조절 불량 시), 심한 빈혈
 * 악성 종양, 면역 저하 (HIV/AIDS, 장기이식 후)
 * 영유아 (면역 체계 미성숙), 노인
-  * 신생아 : 분만 시 산도 내 \_Candida\_에 노출되거나 수유 과정에서 모자 간 균이 공유될 가능성 고려
+  * 신생아 : 분만 시 산도 내 _Candid&#x61;_&#xC5D0; 노출되거나 수유 과정에서 모자 간 균이 공유될 가능성 고려
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -42,7 +43,7 @@
 
 <mark style="color:cyan;">**유발 인자와 임상형 관계**</mark>
 
-* 항생제 복용 후 → Thrush (위막형)
+* 항생제 복용 후 → Thrush (위막형) 또는 홍반형
 * 흡입 스테로이드(구강 세척 불량) → 위막형 또는 홍반형
 * 틀니 (야간 착용, 불량 세정) → Denture stomatitis (홍반형, 틀니 접촉 부위)
 * 철분/비타민 B2·B12 결핍, drooling → Angular cheilitis
@@ -59,20 +60,20 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 중심정맥관·호중구감소증·면역 저하(HIV 감염, 항암 치료 중, 장기이식 수혜자 등) 환자에서 고열·오한, 저혈압, 의식 변화 또는 호흡곤란 `칸디다혈증` `침습성 칸디다증` `패혈증`
-* 연하통·연하곤란으로 수분·음식 섭취가 불가능하거나 전신상태 불량 `중증 식도 칸디다증` `탈수`
+* 중심정맥관·호중구감소증·면역 저하(HIV 감염, 항암 치료 중, 장기이식 수혜자 등) 환자에서 고열·오한, 저혈압, 의식 변화 또는 호흡곤란  `칸디다혈증` `침습성 칸디다증` `패혈증`
+* 연하통·연하곤란으로 수분·음식 섭취가 불가능하거나 전신상태 불량  `중증 식도 칸디다증` `탈수`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 연하통·연하곤란 또는 흉골후 통증, 경구 섭취·전신상태는 안정 `식도 칸디다증` `기타 식도염`
-* 뚜렷한 위험 인자 없이 발생한 구강 칸디다증 또는 체중 감소·반복 감염 등 면역 저하 단서 `HIV 감염` `혈액 악성 종양`
-* 닦이지 않는 지속성 백색 병변, 경결·궤양·적백색 변화 `만성 증식성 칸디다증` `백반증` `구강암`
+* 연하통·연하곤란 또는 흉골후 통증, 경구 섭취·전신상태는 안정  `식도 칸디다증` `기타 식도염`
+* 뚜렷한 위험 인자 없이 발생한 구강 칸디다증 또는 체중 감소·반복 감염 등 면역 저하 단서  `HIV 감염` `혈액 악성 종양`
+* 닦이지 않는 지속성 백색 병변, 경결·궤양·적백색 변화  `만성 증식성 칸디다증` `백반증` `구강암`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 치료 7일에도 병변·증상 지속 `내성 Candida` `다른 구강 점막 질환`
-* 단기간 내 재발 또는 반복·난치성 경과 `지속 위험 인자` `면역 저하`
-* 모유 수유 영아의 반복 아구창과 수유모의 지속적 유두 병변·통증 `유두 칸디다증`
+* 적절한 치료 7일에도 병변·증상 지속  `내성 Candida` `다른 구강 점막 질환`
+* 단기간 내 재발 또는 반복·난치성 경과  `지속 위험 인자` `면역 저하`
+* 모유 수유 영아의 반복 아구창과 수유모의 지속적 유두 병변·통증  `유두 칸디다증`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -123,14 +124,14 @@
 
 * 배양·감수성 검사
 * 균종명만으로 경험적 고용량 fluconazole을 투여하지 않으며, 감수성 결과와 병용약물·간신기능을 바탕으로 치료 선택
-* fluconazole 불응 시 감염과 협진하에 posaconazole <mark style="color:blue;">\[녹사필]</mark>(전액본인부담) 또는 voriconazole <mark style="color:blue;">\[브이펜드]</mark>(식도 칸디다증에 허가, 타 항진균제 실패 시 급여 인정; 구강인두 칸디다증은 허가 외) 등을 고려&#x20;
+* fluconazole 불응 시 감염내과 협진하에 posaconazole 현탁액 <mark style="color:blue;">\[녹사필]</mark>(전액본인부담) 또는 voriconazole <mark style="color:blue;">\[브이펜드]</mark>(식도 칸디다증은 허가 적응증으로 타 항진균제 실패 시 급여 인정; 구강인두 칸디다증은 허가 외로 급여 인정 대상 아님) 등을 고려&#x20;
 * 재발 억제요법 : 장기 억제요법은 통상 필요하지 않음
   * 위험 인자 교정과 적절한 치료에도 빈번하거나 중증인 재발이 지속되는 경우 감염내과 협진하에 fluconazole 100 ㎎ 주 3회 고려(허가 외); 내성·상호작용 위험을 함께 평가함
   * HIV 감염자는 ART를 통한 면역 재구성이 재발 예방의 핵심 <mark style="color:$info;">\[IDSA 2016; NIH OI 지침]</mark>
 
 ### <mark style="color:orange;">주요 구강 백색 병소 감별</mark>
 
-<table data-search="false"><thead><tr><th width="131">항목</th><th>구강 칸디다증</th><th>백반증 (Leukoplakia)</th><th>구강 편평 태선</th></tr></thead><tbody><tr><td><strong>거즈로 닦임?</strong></td><td>✅ 닦임(thrush 한정); 증식형은 닦이지 않음</td><td>❌ 안 닦임</td><td>❌ 안 닦임</td></tr><tr><td><strong>표면 모양</strong></td><td>Curd-like, 불균일; 홍반형은 발적만</td><td>균일 또는 불균일한 흰 plaque</td><td>레이스형 Wickham 선조</td></tr><tr><td><strong>기저 점막</strong></td><td>닦으면 발적·점상출혈</td><td>병변 형태에 따라 다양</td><td>홍반·미란 동반 가능</td></tr><tr><td><strong>통증</strong></td><td>±; 홍반형은 통증↑</td><td>대개 없음</td><td>작열감·통증 흔함</td></tr><tr><td><strong>주요 위험 인자</strong></td><td>항생제, 스테로이드, DM, 면역 저하</td><td>흡연, 음주 등</td><td>자가면역, 약물</td></tr><tr><td><strong>전암 가능성</strong></td><td>위막형·홍반형은 전암병변으로 보지 않으나 만성 증식형은 이형성·악성 전환 가능성이 보고됨</td><td>⚠️ 있음</td><td>⚠️ 일부(특히 erosive)</td></tr><tr><td><strong>진단 방법</strong></td><td>임상 ± KOH; 증식형은 생검 고려</td><td>조직 생검 필요</td><td>조직 생검으로 확진</td></tr><tr><td><strong>치료 반응</strong></td><td>대개 항진균제에 반응</td><td>항진균제만으로 소실되지 않음</td><td>스테로이드 반응</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="131">항목</th><th>구강 칸디다증</th><th>백반증 (Leukoplakia)</th><th>구강 편평 태선</th></tr></thead><tbody><tr><td><strong>거즈로 닦임?</strong></td><td>✅ 닦임(thrush 한정); 증식형은 닦이지 않음</td><td>❌ 안 닦임</td><td>❌ 안 닦임</td></tr><tr><td><strong>표면 모양</strong></td><td>Curd-like, 불균일; 홍반형은 발적만</td><td>균일 또는 불균일한 흰 plaque</td><td>레이스형 Wickham 선조</td></tr><tr><td><strong>기저 점막</strong></td><td>닦으면 발적·점상출혈</td><td>병변 형태에 따라 다양</td><td>홍반·미란 동반 가능</td></tr><tr><td><strong>통증</strong></td><td>±; 홍반형은 통증↑</td><td>대개 없음</td><td>작열감·통증 흔함</td></tr><tr><td><strong>주요 위험 인자</strong></td><td>항생제, 스테로이드, DM, 면역 저하</td><td>흡연, 음주 등</td><td>자가면역, 약물</td></tr><tr><td><strong>전암 가능성</strong></td><td>위막형·홍반형은 전암병변으로 보지 않으나 만성 증식형은 이형성·악성 전환 가능성이 보고됨</td><td>⚠️ 있음</td><td>⚠️ 낮지만 있음; 위축·미란형에서 더 높음 - 정기 추적</td></tr><tr><td><strong>진단 방법</strong></td><td>임상 ± KOH; 증식형은 생검 고려</td><td>조직 생검 필요</td><td>조직 생검으로 확진</td></tr><tr><td><strong>치료 반응</strong></td><td>대개 항진균제에 반응</td><td>항진균제만으로 소실되지 않음</td><td>스테로이드 반응</td></tr></tbody></table>
 
 ***
 
@@ -196,7 +197,7 @@ class G,H,Z,C,E pink
 
 <table><thead><tr><th width="76"></th><th>국소 항진균제</th><th>구강인두 칸디다증의 전신 치료</th><th>식도 칸디다증</th></tr></thead><tbody><tr><td><strong>대상</strong></td><td>경증, 면역 정상, 식도 증상 없음</td><td>중등도 이상, 면역 저하, 국소 치료 실패</td><td>연하통·연하곤란·흉골후 통증으로 식도 칸디다증이 의심되는 경우; 위험 인자와 감별 진단을 함께 평가</td></tr><tr><td><strong>약제</strong><br><strong>(성인)</strong></td><td>nystatin</td><td>•국내 허가: fluconazole 50 ㎎/d<br>•IDSA 2016: 중등도~중증 100~200 ㎎/d<br>•ECMM/ISHAM/ASM 2025: 100 ㎎/d</td><td>•국내 허가: fluconazole 50 ㎎/d(난치성 100 ㎎/d)<br>•IDSA 2016: 경구 200~400 ㎎/d; 경구 불가 시 정주 400 ㎎/d<br>•ECMM/ISHAM/ASM 2025: 경구 100~200 ㎎/d</td></tr><tr><td><strong>기간</strong></td><td>7~14일; 증상 소실 후에도 48시간 더 투여</td><td>7~14일</td><td>•국내 허가: 14~30일<br>•IDSA 2016 및 ECMM/ISHAM/ASM 2025: 14~21일</td></tr><tr><td><strong>추적</strong></td><td colspan="2">대개 48~72시간 내 호전 시작; 7일에도 지속되면 진단·순응도·용량·국소 요인 재확인 후 배양·감수성 검사 고려</td><td>7일 이내 뚜렷한 호전이 없으면 내시경 및 다른 식도염 감별</td></tr></tbody></table>
 
-> _성인 용량 비교: IDSA 2016; ECMM/ISHAM/ASM 2025 부록 pp 141\~144. 지침별 권고 용량에 차이가 있으므로 출처를 구분하며, 국내 허가를 초과하는 용량은 허가·급여와 별도로 해석함._
+> 지침별 성인 권고 용량에 차이가 있으므로 출처를 구분하며, 국내 허가를 초과하는 용량은 허가·급여와 별도로 해석함 <mark style="color:$info;">\[IDSA 2016; ECMM/ISHAM/ASM 2025, 부록 pp 141\~144]</mark>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -267,7 +268,7 @@ Miconazole 구강 겔과 clotrimazole 트로키는 해외 지침에 포함되지
   * 국내 허가사항 : fluconazole 50 ㎎ PO 또는 IV qd ×14\~30d; 난치성 점막 칸디다증은 100 ㎎/d로 증량 가능
   * IDSA 2016 : fluconazole 200\~400 ㎎ PO qd ×14\~21d; 경구 투여가 불가능하면 400 ㎎ IV qd 또는 정주 echinocandin 고려 <mark style="color:$info;">\[IDSA 2016]</mark>
   * ECMM/ISHAM/ASM 2025 : fluconazole 100\~200 ㎎ PO qd ×14\~21d; 경구 투여가 불가능하면 정주 항진균제 사용 <mark style="color:$info;">\[ECMM/ISHAM/ASM 2025, 부록 p 144]</mark>
-  * NIH OI 지침(HIV 감염자) : 첫날 200 ㎎ 후 100\~200 ㎎(최대 400 ㎎) PO 또는 IV qd ×14\~21d; echinocandin은 fluconazole보다 재발률이 높게 보고됨
+  * NIH OI 지침(HIV 감염자) : 첫날 200 ㎎ 후 100\~200 ㎎(최대 400 ㎎) PO 또는 IV qd ×14\~21d; echinocandin은 fluconazole보다 재발률이 높게 보고됨 <mark style="color:$info;">\[NIH OI 지침]</mark>
 * 소아 (국내 허가사항, 1일 최대 400 ㎎)
   * 생후 6개월 미만 영아는 안전성·유효성이 확립되지 않았으므로, 아래 용량을 일률적으로 적용하지 않고 투여가 꼭 필요한 경우에 한해 개별 판단
   * 구강인두 칸디다증 : 첫날 6 ㎎/㎏, 이후 3 ㎎/㎏ qd; 재발 방지를 위해 최소 2주
@@ -408,7 +409,7 @@ _Candida auri&#x73;_&#xC758; 내성·의료기관 감염관리와 무증상 집�
 * Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/)
 * Cornely OA, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. Lancet Infect Dis. 2025;25(5):e280-e293. - 구강인두·식도 칸디다증은 부록 pp 141\~144 참조. [서지](https://pubmed.ncbi.nlm.nih.gov/39956121/)
 * Scheibler E, et al. Stability and efficacy of combined nystatin and chlorhexidine against suspensions and biofilms of Candida albicans. Arch Oral Biol. 2018;89:70-76. doi:10.1016/j.archoralbio.2018.02.009. - 시험관 연구; 임상적으로 검증된 최소 투여 간격을 제시하는 근거는 아님. [서지](https://pubmed.ncbi.nlm.nih.gov/29477025/)
-* Nystatin effect on chlorhexidine efficacy against Streptococcus mutans as planktonic cells and mixed biofilm with Candida albicans. Clin Oral Investig. 2022;26:633-642. - 시험관 연구; 병용 상호작용의 임상적 영향은 미확립. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC8219785/)
+* Baldino MEL, et al. Nystatin effect on chlorhexidine efficacy against Streptococcus mutans as planktonic cells and mixed biofilm with Candida albicans. Clin Oral Investig. 2022;26(1):633-642. doi:10.1007/s00784-021-04041-0. - 시험관 연구; 병용 상호작용의 임상적 영향은 미확립. [서지](https://pubmed.ncbi.nlm.nih.gov/34160701/)
 * National Institutes of Health. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Candidiasis (Mucocutaneous). - 빈번하거나 중증인 재발에서의 선택적 억제요법 및 임신 중 치료 원칙. [지침](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/candidiasis)
 * Global Initiative for Asthma. Summary Guide for Asthma Management and Prevention. 2026. - 유지치료용 ICS 사용 후 구강 세척과 pMDI의 spacer 사용. [자료](https://ginasthma.org/2026-gina-summary-guide/)
 * NHS. How and when to take or use nystatin. - 구강 현탁액 사용 후 약 30분간 음식·음료 회피. [복약 안내](https://www.nhs.uk/medicines/nystatin/how-and-when-to-take-or-use-nystatin/)
