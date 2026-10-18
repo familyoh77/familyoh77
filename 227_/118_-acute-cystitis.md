@@ -3,17 +3,17 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 방광에 국한된 급성 하부요로감염
-* 분류 : 기존에는 성별·기저질환 유무를 기준으로 "단순(uncomplicated) vs 복잡(complicated) 방광염"을 구분했으나, 근래에는 "국소 요로감염(방광 국한) vs 전신 요로감염(방광을 넘어 진행, 발열 등 전신 증상 동반)"으로 분류함 \[IDSA·EAU·질병관리청 2025]
+* 분류 : EAU는 국소형(방광염)/전신형 요로감염을 구분하며, IDSA 2025는 방광 국한 감염을 uncomplicated UTI, 방광을 넘어 진행한 감염을 cUTI로 정의함. 이 명칭을 성별·기저질환 중심의 전통적 단순/복잡 분류와 혼용하지 않음 <mark style="color:$info;">[EAU 2025/2026; IDSA 2025; 질병관리청 실무지침]</mark>
   * 당뇨병, 면역저하, 남성이 무조건 "복잡성" 요인은 아니며, 전신 증상 유무가 분류의 핵심 기준임
 * 전염 경로 : 회음부·요도·항문으로부터의 상행 감염
 * 합병증 : 신우신염(전신 요로감염)으로의 진행
-  * 스웨덴의 비임신 여성 관찰 연구에서 진단 후 30일 내 신우신염 발생은 항생제 처방·조제군 약 0.5%, 비조제군 약 1.5%로 보고됨. 관찰 연구의 연관성이며 남성·임신부·면역저하 환자에게 그대로 적용할 수 없음 [Jansåker, et al. Antibiotics 2022]
+  * 스웨덴의 비임신 여성 관찰 연구에서 진단 후 30일 내 신우신염 발생은 항생제 처방·조제군 약 0.5%, 비조제군 약 1.5%로 보고됨. 관찰 연구의 연관성이며 남성·임신부·면역저하 환자에게 그대로 적용할 수 없음 <mark style="color:$info;">[Jansåker, et al. Antibiotics 2022]</mark>
 * 재발성 방광염 : 6개월 내 ≥2회 또는 12개월 내 ≥3회 증상성 감염. 재발 진단과 예방요법 결정 전에는 요배양으로 감염을 확인하고 다른 원인을 감별
 
 ## <mark style="color:green;">원인</mark>
 
 * 원인균 : _E. coli_(가장 흔함, 국소 요로감염의 약 70\~80%), _Staphylococcus saprophyticus_(특히 젊은 여성)
-  * 기타 : _Klebsiella pneumoniae_, _Proteus mirabilis_, _Enterococcus_ spp., _Pseudomonas_ spp., _Candida_ spp.
+  * 기타 : _Klebsiella pneumoniae_, _Proteus mirabilis_, _Enterococcus_ spp.; _Pseudomonas_는 요로기구·의료관련 감염 등에서 고려하며 _Candida_는 별도의 진균성 감염/집락화로 구분
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -31,7 +31,7 @@
 * 흔한 증상 : 갑자기 발생한 빈뇨, 절박뇨, 배뇨통
 * 덜 흔한 증상 : 혈뇨(특히 여성), 치골상부 불쾌감/압통, 악취가 나는 소변
 * 고령자의 섬망·기능 저하에서는 요로감염 외 원인과 무증상 세균뇨를 함께 감별
-  * 단, 국소 요로 증상이나 전신 감염 소견 없이 섬망만으로 UTI를 진단하거나 항생제를 시작해서는 안 됨\[IDSA, AGS Choosing Wisely]
+  * 단, 국소 요로 증상이나 전신 감염 소견 없이 섬망만으로 UTI를 진단하거나 항생제를 시작해서는 안 됨 <mark style="color:$info;">[IDSA, AGS Choosing Wisely]</mark>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -43,29 +43,29 @@
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 발열(≥38℃) 또는 옆구리 통증, 늑골척추각 압통 동반 → 신우신염
+* 발열(≥38℃) 또는 옆구리 통증, 늑골척추각 압통 동반 → 당일 신우신염 평가
+* 1차 경험적 항생제 치료 48\~72시간 후에도 증상 호전 없음 → 당일 재평가(악화 시 즉각 조치)
 * 남성에서 방광염 유사 증상 + 골반/음경 통증, 배뇨 지연·점적(dribbling) → 세균성 전립선염
 * 당뇨병·면역저하 환자에서 치료 24\~48시간 내 반응이 지연되는 경우
-* 임신부의 세균뇨(유증상/무증상) 확인 → 당일 산과 진료·치료 계획 수립
+* 임신부의 증상성 UTI → 당일 평가; 무증상 세균뇨는 수일 내 산과 치료 계획 수립
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 1차 경험적 항생제 치료 48\~72시간 후에도 증상 호전 없음
 * 최근 6개월 내 2회 이상 또는 최근 12개월 내 3회 이상 재발
 * 폐경 후 여성의 반복 감염
 
 ## <mark style="color:green;">진단</mark>
 
-* 배뇨통·빈뇨·절박뇨·치골상부 압통·육안적 혈뇨 등 방광에 국한된 급성 요로 증상이 있으면서 농뇨(≥10 백혈구/HPF) 또는 세균뇨(≥10⁵ CFU/㎖)가 확인될 때 진단 \[질병관리청 요로감염 항생제 사용지침, 2025]
-* 전형적인 배뇨통·빈뇨를 보이고 질 분비물·질 자극 증상이 없는 비임신 여성에서는 요검사 없이도 임상적으로 진단 가능하며, 요검사는 진단을 지지하는 소견으로 활용함 \[EAU, NICE]
+* 급성 방광염은 방광에 국한된 급성 증상과 검사 결과를 종합하여 진단함. 국내 실무지침의 요약 기준은 요로 증상 + 농뇨(≥10 WBC/HPF) 또는 세균뇨(≥10⁵ CFU/㎖)이나, ≥10⁵ CFU/㎖를 모든 증상성 환자의 필수 배양 기준으로 적용하지 않음
+* 전형적인 배뇨통·빈뇨를 보이고 질 분비물·질 자극 증상이 없는 비임신 여성에서는 요검사 없이도 임상적으로 진단 가능하며, 요검사는 진단을 지지하는 소견으로 활용함 <mark style="color:$info;">[EAU, NICE]</mark>
 
 ### <mark style="color:orange;">소변 검사</mark>
 
 * U/A : 농뇨(WBC ≥10/HPF), 세균뇨; 증상의 중증도와 농뇨/세균뇨 정도가 일치하지는 않음
-* 시험지봉 검사 : leukocyte esterase, nitrite; 두 가지 모두 양성 시 요로감염 확률 약 80%
+* 시험지봉 검사 : leukocyte esterase, nitrite; 양성은 진단을 지지하나 예측도는 증상·사전확률에 따라 달라지며 음성만으로 감염을 배제하지 않음
 * 배양 검사 : 전형적인 국소 요로감염에서는 일반적으로 불필요
   * 검사 대상 : 진단이 불확실한 경우, 전신 요로감염(신우신염) 의심, 비전형적 증상, 임신부, 남성, 재발성 감염, 최근 항생제 치료 실패 또는 2주 내 증상 재발
-  * 국내 실무지침의 세균뇨 기준 : ≥10⁵ CFU/㎖. 단, 증상이 뚜렷한 여성에서는 이보다 낮은 균수도 의미가 있을 수 있으므로, 배양 수치만으로 감염을 배제하지 않음
+  * 전형적 증상·농뇨가 있는 선택된 여성에서 단일 요로병원균 ≥10² CFU/㎖도 의미가 있을 수 있음; 남성 ≥10³ CFU/㎖, 임신부 ASB ≥10⁵ CFU/㎖ 등 상황별 해석을 구분함(☞ 요로감염 챕터)
 
 ### <mark style="color:orange;">영상 검사</mark>
 
@@ -113,7 +113,7 @@ class F,G,I treatment
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-* **경험적 항생제 선택 단계** \[요로감염 항생제 사용지침, 2025]
+* **경험적 항생제 선택 단계** <mark style="color:$info;">[요로감염 항생제 사용지침, 2025]</mark>
   * 0단계 증상에 따른 질환 분류(국소 vs 전신)\
     → 1단계 중증도(패혈증 여부) 평가\
     → 2단계 내성균 위험 인자 평가(최근 6개월 내 항생제/입원력, 요양시설 거주, ESBL 분리력 등)\
@@ -145,8 +145,8 @@ class F,G,I treatment
 * 항생제 예방요법의 "collateral damage"(내성 유발, 부작용)를 고려하여 비항생제 전략을 우선 고려
 * 폐경 이행기·폐경 후 여성 : 질 에스트로겐 요법 - 다른 금기가 없다면 우선 고려
 * Cranberry(크랜베리) 제제 : AUA/CUA/SUFU 2025는 여성 재발성 UTI 예방 선택지로 권고(중등도 권고, 근거 B). 제품별 유효 성분·함량 차이 및 효과의 개인차를 설명
-* D-mannose : 근거 불충분, 일상적 권고 수준은 아님
-* Methenamine hippurate <mark style="color:blue;">\[유로렉스정]</mark> : 항생제 예방요법 대비 비열등 근거(ALTAR trial)가 있어 일부 재발성 감염에서 대안으로 고려; 1,000 ㎎ bid. 국내 허가사항은 원인균·감수성 정보를 이용할 수 없거나 적절한 항생제가 없는 환자에서 사용하도록 제한. 신장애·중증 간장애 등 금기, TMP/SMX 등 설폰아마이드계 약물·요 알칼리화제 병용 금기
+* D-mannose : 대규모 위약 대조시험에서 재발 예방 효과가 확인되지 않아 일상적으로 권고하지 않음
+* Methenamine hippurate <mark style="color:blue;">\[유로렉스정]</mark> : 항생제 예방요법 대비 비열등 근거(ALTAR trial)가 있어 일부 재발성 감염에서 대안으로 고려; 1,000 ㎎ bid. 국내 허가사항은 원인균·감수성 정보를 이용할 수 없거나 적절한 항생제가 없는 환자에서 사용하도록 제한. 신장애·중증 간장애·중증 탈수·고인산혈증 금기, TMP/SMX 등 설폰아마이드계 약물·요 알칼리화제 병용 금기. 소변 pH 및 장기 투여 시 신·간기능 등 모니터링
 * 위 방법으로 조절되지 않는 경우 저용량 지속 예방적 항생제 또는 성관계 후 예방(postcoital prophylaxis) 고려 - 장기간 항생제 노출에 따른 내성·부작용을 환자와 상의
 
 ***
@@ -155,16 +155,16 @@ class F,G,I treatment
 
 ### <mark style="color:orange;">항생제 (국소 요로감염 - 1차·대안)</mark>
 
-<table><thead><tr><th>구분</th><th>성분명 [상품명]</th><th>성인 용법</th><th>기간·주요 주의사항</th></tr></thead><tbody><tr><td>1차¹⁾</td><td>nitrofurantoin<br>[<mark style="color:blue;">니트로푸란토인캡슐 50 ㎎</mark>]</td><td>50~100 ㎎ qid (식후 및 취침 전)</td><td>5일; CrCl &lt;30 ㎖/min·임신 38~42주 금기, G6PD 결핍 주의. 신우신염·전립선염에는 부적절</td></tr><tr><td>1차²⁾</td><td>fosfomycin trometamol<br>[<mark style="color:blue;">모누롤산</mark>]</td><td>포스포마이신으로서 3 g 1회 (물에 녹여 공복·취침 전, 배뇨 후)</td><td>성인 여성 급성 단순 방광염의 국내 허가 적응증; CrCl ≤10 ㎖/min 금기. 신우신염에는 부적절</td></tr><tr><td>대안</td><td>TMP/SMX<br>[<mark style="color:blue;">셉트린정 80/400 ㎎</mark>]</td><td>160/800 ㎎ bid (1회 2정)</td><td>비임신 여성 3일; 국내 감수성 68.1%로 가능하면 배양 결과 확인. CrCl 10~29 ㎖/min에서는 감량 필요, &lt;10 ㎖/min·혈액투석에서는 사용 금기</td></tr><tr><td>대안</td><td>ciprofloxacin³⁾<br>[<mark style="color:blue;">씨프로바이</mark>]</td><td>250~500 ㎎ bid</td><td>비임신 여성 3일; 다른 적절한 약제를 사용할 수 없거나 1차 치료 실패 시 고려. 국내 국소 요로감염 급여기준 확인</td></tr></tbody></table>
+<table><thead><tr><th>구분</th><th>성분명 [상품명]</th><th>성인 용법</th><th>기간·주요 주의사항</th></tr></thead><tbody><tr><td>1차¹⁾</td><td>nitrofurantoin<br>[<mark style="color:blue;">보령니트로푸란토인캡슐 50 ㎎</mark>]</td><td>50~100 ㎎ qid (식후 및 취침 전)</td><td>5일; 국내 허가상 CrCl &lt;60 ㎖/min·G6PD 결핍·임신 38~42주/분만/출산 시 금기. 신우신염·전립선염에는 부적절</td></tr><tr><td>1차²⁾</td><td>fosfomycin trometamol<br>[<mark style="color:blue;">모누롤산</mark>]</td><td>포스포마이신으로서 3 g 1회 (물에 녹여 공복·취침 전, 배뇨 후)</td><td>성인 여성 급성 단순 방광염의 국내 허가 적응증; CrCl ≤10 ㎖/min·혈액투석 금기. 신우신염에는 부적절</td></tr><tr><td>대안</td><td>TMP/SMX<br>[<mark style="color:blue;">셉트린정 80/400 ㎎</mark>]</td><td>160/800 ㎎ bid (1회 2정)</td><td>비임신 여성 3일(지침 용법); 감수성 확인 후 사용 우선. 국내 제품 허가상 CrCl 15~30 ㎖/min은 통상량의 1/2, ≤15는 투여 비권장; 임부·임신 가능성이 있는 여성·수유부 금기. 고칼륨혈증·warfarin 상호작용 주의</td></tr><tr><td>대안</td><td>ciprofloxacin³⁾<br>[<mark style="color:blue;">씨프로바이</mark>]</td><td>250~500 ㎎ bid</td><td>비임신 여성 3일; 다른 적절한 약제를 사용할 수 없거나 1차 치료 실패 시 고려. 국내 국소 요로감염 급여기준 확인</td></tr></tbody></table>
 
-¹⁾_국내 nitrofurantoin 일반 캡슐의 허가 용법은 50~100 ㎎ qid이며, 국제 지침의 macrocrystal/monohydrate 100 ㎎ bid와 제형·용법이 다름._
+¹⁾_국내 보령니트로푸란토인캡슐 50 ㎎의 허가 용법은 50~100 ㎎ qid이며, 국제 지침의 macrocrystal/monohydrate 100 ㎎ bid와 제형·용법이 다름. 해외 eGFR 30 또는 45 기준과 국내 허가상 CrCl ＜60 금기를 혼용하지 않음._
 
 ²⁾_Fosfomycin 단회 요법은 성인 여성 급성 단순 방광염에서 고려하며, 남성·도뇨관 관련 감염에 동일하게 확대하지 않음._
 
 ³⁾ _FDA는 다른 치료 선택지가 있는 경우 uncomplicated infection에서 fluoroquinolone 사용 제한을 권고함(건염·건파열, 대동맥류/박리 위험, QT 연장, 저혈당, 말초신경병증 등)_
 
 {% hint style="info" %}
-**국소 요로감염에서 분리된 \_E. coli\_의 항생제 감수성** : nitrofurantoin 98.9%, fosfomycin 96.8%, cefotaxime 82.4%, ciprofloxacin 50.9%, TMP-SMX 68.1% (대한요로생식기감염학회, 2023년 전국 감시자료; Yu SH, et al. Investig Clin Urol 2025); ciprofloxacin은 감수성이 낮고(50.9%), TMP-SMX는 68.1%로 내성률이 약 30%대에 달해 경험적 1차 약제로는 권장되지 않음
+**국소 요로감염에서 분리된 _E. coli_의 항생제 감수성** : nitrofurantoin 98.9%, fosfomycin 96.8%, cefotaxime 82.4%, ciprofloxacin 50.9%, TMP-SMX 68.1% (대한요로생식기감염학회, 2023년 전국 감시자료; Yu SH, et al. Antibiotics 2024;13:1075(E. coli 분석)); ciprofloxacin은 감수성이 낮고(50.9%), TMP-SMX는 68.1%로 내성률이 약 30%대에 달해 경험적 1차 약제로는 권장되지 않음
 {% endhint %}
 
 {% hint style="info" %}
@@ -176,13 +176,13 @@ class F,G,I treatment
 
 * 항진균제 : 칸디다뇨만으로 투여하지 않음. 무증상 칸디다뇨에서는 도뇨관 등 유발 요인을 먼저 교정하고, 중증 호중구감소증·비뇨기계 처치 예정 등 예외 상황을 별도 평가
   * 감수성 균에 의한 **증상성 칸디다 방광염** : fluconazole 200 ㎎/d ×2주 <mark style="color:blue;">\[푸루나졸]</mark>; 신기능에 따른 용량 조정 및 도뇨관 제거·교체 고려 (☞ [손발톱백선증](../229_/173_-onychomycosis-tinea-unguium.md#undefined-10))
-* 진경제 : 경련성 불편감이 뚜렷할 때 개별적으로 단기간 고려하며, 방광염 치료의 필수 병용약은 아님 (☞ [소화기계약제](../224_/073_.md#gi-antispasmodic-agent))
+* 진경제 : 방광염 증상 완화의 직접 근거가 제한적이므로 일률적으로 병용하지 않음; 항콜린성 약제는 요폐·폐쇄각 녹내장·고령자 부작용에 유의 (☞ [소화기계약제](../224_/073_.md#gi-antispasmodic-agent))
   * cimetropium : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
-  * scopolamine : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark>
+  * hyoscine(scopolamine) butylbromide : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark>
   * tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
 * 진통제 (☞ [통증](../220_/001_-pain.md#undefined-8))
-  * ibuprofen : 400\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
-  * acetaminophen : 650\~1,300 ㎎ tid <mark style="color:blue;">\[타이레놀]</mark>
+  * ibuprofen : 200\~400 ㎎ tid 필요 시 단기간(일반적인 경증 방광염 증상 완화 용량); 탈수·AKI·소화성 궤양·임신에서는 회피 또는 별도 판단 <mark style="color:blue;">\[부루펜]</mark>
+  * acetaminophen : 일반정 500\~1,000 ㎎ q6h 필요 시, 최대 4 g/d; 고령·쇠약·만성 음주·간질환 등에서는 상한을 낮춤. 650 ㎎ 서방정은 1\~2정 q8h, 최대 6정/d로 구분 <mark style="color:blue;">\[타이레놀]</mark>
 * 방광 진통제 : phenazopyridine 200 ㎎ tid ×최대 2일은 요로 작열감의 일시적 완화에 사용되며 감염을 치료하지 않음. 과거 제품 유니페나딘정의 허가 취소 이력이 있어 현행 국내 허가·공급을 확인하지 못한 상품명은 처방례에서 제외
   * 신부전·간질환·G6PD 결핍에서는 사용하지 않으며, 소변·눈물의 주황색 착색과 요검사 간섭 가능성을 설명
 
@@ -201,8 +201,8 @@ N30.0 급성 방광염
 > **처방례 1. 1차 선택 - 전형적 경증 방광염**
 >
 > ```
-> 니트로푸란토인캡슐 50 ㎎  8Cap/일(1회 2Cap=100 ㎎)  #4 ×5일 (총 40Cap, 식후·취침 전)
-> 부루펜 200 ㎎/T  6T/일(1회 3T=600 ㎎)  #2 필요 시 단기간 (불편 증상 없으면 생략)
+> 보령니트로푸란토인캡슐 50 ㎎  8Cap/일(1회 2Cap=100 ㎎)  #4 ×5일 (총 40Cap, 식후·취침 전)
+> 부루펜 200 ㎎/T  1~2T/회  1일 최대 3회 필요 시 단기간 (식후, 탈수·신장애 등 금기 확인)
 > ```
 >
 > _✽비임신 성인 여성의 전형적 방광염 예시. Nitrofurantoin은 국내 E. coli 감수성이 98.9%로 높으나 신우신염·전립선염 의심 시에는 부적절. 신기능·임신 주수·G6PD 결핍 여부 확인_
@@ -226,7 +226,7 @@ N30.0 급성 방광염
 > **처방례 4. 재발성 방광염 - 성관계 후 예방**
 >
 > ```
-> 니트로푸란토인캡슐 50 ㎎  1Cap  성관계 후 1회 필요시
+> 보령니트로푸란토인캡슐 50 ㎎  2Cap  성관계 후 2시간 이내 1회
 > ```
 >
 > _✽배양으로 확인된 재발성 방광염이 성관계와 뚜렷하게 연관된 여성에서만 고려. 신기능·임신 여부를 확인하고 예방요법의 효과와 이상반응을 주기적으로 재평가; 폐경 후 여성에서는 질 에스트로겐 우선 고려_
@@ -238,14 +238,15 @@ N30.0 급성 방광염
 > **nitrofurantoin 복용 시 주의사항**
 >
 > * 반드시 식사와 함께 또는 식후 복용 - 위장 자극 감소 및 흡수율 향상
-> * CrCl 30 ㎖/min 미만에서는 사용하지 않음(고령자는 신기능 확인 필요). G6PD 결핍이 있는 경우 용혈 위험에도 주의
+> * 국내 허가상 CrCl 60 ㎖/min 미만 및 G6PD 결핍은 금기(고령자는 신기능 확인 필요)
+> * 단기 복용 첫 주에도 드물게 급성 폐 반응이 나타날 수 있어 새 기침·호흡곤란·흉통이 발생하면 중단하고 즉시 상담
 > * 발열·옆구리 통증 등 신우신염이 의심되면 즉시 재평가 및 치료 변경 - nitrofurantoin은 신실질 내 농도가 낮아 상부 요로감염에는 부적절함
-> * 임신 38주 이후에는 신생아 용혈성 빈혈 위험으로 금기
+> * 임신 38\~42주·분만·출산 시에는 신생아 용혈성 빈혈 위험으로 금기
 
 > **fosfomycin 복용 시 주의사항**
 >
 > * 1회 복용으로 치료가 종료되나, 증상이 완전히 사라지기까지 2\~3일이 걸릴 수 있음을 미리 설명
-> * 모누롤산 1포를 물에 녹여 공복 또는 취침 전 배뇨 후 복용. CrCl ≤10 ㎖/min에서는 사용하지 않음
+> * 모누롤산 1포를 물에 녹여 공복(식사 전 2\~3시간)에 복용하며, 가능하면 취침 전 배뇨 후 복용. CrCl ≤10 ㎖/min에서는 사용하지 않음
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -273,7 +274,7 @@ N30.0 급성 방광염
 
 * **평소 부족하지 않게 물을 드십시오.** 무리하게 많은 양의 물을 한꺼번에 마실 필요는 없습니다.
 * **소변을 오래 참지 마십시오.** 방광에 세균이 머무는 시간을 줄여줍니다.
-* **배뇨 후에는 앞에서 뒤로 닦으십시오.** 항문 부위 세균이 요도로 옮겨가는 것을 줄일 수 있습니다.
+* **배변 후에는 앞에서 뒤로 닦으십시오.** 성관계 후 배뇨와 같은 위생 습관은 시도할 수 있으나 재발 예방 효과에 대한 직접 근거는 제한적입니다.
 * **성관계 후에는 소변을 보십시오.** 재발이 잦다면 담당 의사와 예방적 관리 방법을 상의하십시오.
 
 ### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
@@ -288,3 +289,43 @@ N30.0 급성 방광염
 * 항생제 치료 2\~3일 후에도 증상이 나아지지 않는 경우에는 재평가를 받으십시오.
 * 임신 중 방광염 증상이 있으면 그날 의료진과 상의하고, 치료 후 검사 계획을 확인하십시오.
 * 6개월에 2번 이상 또는 1년에 3번 이상 증상이 반복되면 진료를 받아 감염 여부와 예방 방법을 확인하십시오.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* 질병관리청·대한항균요법학회. 2025 요로감염 항생제 사용 지침(2026 배포본: 요로감염 항생제 적정사용을 위한 실무지침). — 국내 국소형/전신형 분류, 약제 선택 및 기간.
+  [공식 지침](https://www.kdca.go.kr/bbs/kdca/263/307010/download.do)
+
+* European Association of Urology. EAU Guidelines on Urological Infections. 2026.
+  [공식 지침](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline)
+
+* IDSA. 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections. — 단기요법·경구 전환과 적용 제외군.
+  [공식 지침](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/)
+
+* AUA/CUA/SUFU. Recurrent Uncomplicated Urinary Tract Infections in Women. 2025 Amendment.
+  [개정 권고문](https://www.auanet.org/documents/Guidelines/PDF/2025%20Guidelines/rUTI%20Update/rUTI%202025%20Amendment%20Summary%20Final.pdf)
+
+* Yu SH, et al. Antimicrobial Resistance of Escherichia coli for Uncomplicated Cystitis: Korean Antimicrobial Resistance Monitoring System. Antibiotics. 2024;13(11):1075. — 2023년 E. coli 감수성 자료; 전체 원인균 분석 논문(Investig Clin Urol 2025)과 구분.
+  [https://doi.org/10.3390/antibiotics13111075](https://doi.org/10.3390/antibiotics13111075)
+
+* NICE. Urinary tract infection (recurrent): antimicrobial prescribing. NG112(2024 개정). — 유발 요인 후/지속 예방 및 methenamine.
+  [권고문](https://www.nice.org.uk/guidance/ng112/chapter/recommendations)
+
+* Hayward G, et al. d-Mannose for Prevention of Recurrent Urinary Tract Infection Among Women: A Randomized Clinical Trial. JAMA Intern Med. 2024;184:619–628.
+  [https://doi.org/10.1001/jamainternmed.2024.0264](https://doi.org/10.1001/jamainternmed.2024.0264)
+
+* Harding C, et al. Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial(ALTAR). BMJ. 2022;376:e068229.
+  [https://doi.org/10.1136/bmj-2021-0068229](https://doi.org/10.1136/bmj-2021-0068229)
+
+* MHRA. Nitrofurantoin: reminder of the risks of pulmonary and hepatic adverse drug reactions. 2023.
+  [안전성 정보](https://www.gov.uk/drug-safety-update/nitrofurantoin-reminder-of-the-risks-of-pulmonary-and-hepatic-adverse-drug-reactions)
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태.
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* 질병관리청 실무지침의 국내 항생제 급여 관련 설명 — 국소 요로감염에서 ciprofloxacin 사용 제한 등은 위 공식 실무지침 참조.

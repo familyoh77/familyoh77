@@ -40,7 +40,7 @@
 * 콘돔 없는 성관계, 다수의 성 파트너
 * 성 매개 질환 병력
 * 새로운 파트너, 25세 미만
-* 동성애자 남성(MSM)
+* 남성과 성관계하는 남성(MSM); 성적 지향 자체보다 노출 부위·행동·파트너 감염력을 평가
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -68,7 +68,7 @@
 * 임신부 또는 임신 가능성이 있는 여성 파트너 노출
 * 요도 협착·이물 등 해부학적 이상이 의심되어 배뇨장애가 심한 경우
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
 * 치료 완료 후 요도 분비물·배뇨통 지속 또는 재발
 * 파트너의 불완전한 치료 또는 재노출 병력
@@ -81,13 +81,14 @@
 * 다음의 객관적 염증 기준은 주로 **남성 요도염**에 적용하며 증상만으로 원인균을 구별할 수 없음
 * 관찰되는 점액성·점액농성 또는 농성 요도 분비물
 * 요도 분비물 그람염색 : 고유병률 환경에서 ≥2 WBC/oil immersion field, 저유병률 환경에서 ≥5 WBC/oil immersion field; 세포내 그람음성 쌍구균이 보이면 임질 추정
-* **초회뇨(first-void/first-catch urine)**의 leukocyte esterase(+) 또는 원심분리한 초회뇨 침사 WBC ≥10/HPF [CDC 2021]. '아침에 처음 보는 소변'이라는 뜻은 아님
-* BASHH 2026은 도말 또는 자동 요세포 분석이 가능할 때 leukocyte esterase 시험지만으로 NGU를 진단하지 않도록 권고
+* **초회뇨(first-void/first-catch urine)**의 leukocyte esterase(+) 또는 원심분리한 초회뇨 침사 WBC ≥10/HPF <mark style="color:$info;">[CDC 2021]</mark>. '아침에 처음 보는 소변'이라는 뜻은 아님
+* BASHH 2026은 초회뇨 LE 시험지를 NGU 진단검사로 더 이상 권고하지 않으며, 요도 도말/자동 요세포 분석과 NAAT를 활용함; CDC 2021의 LE 기준과 구분
 
 ### <mark style="color:orange;">추가 검사</mark>
 
 * 남성의 초회뇨 또는 적절한 요도 검체로 **임균·클라미디아 NAAT**(PCR, TMA 등)를 우선 시행; 성접촉 부위에 따라 인두·직장 검체도 평가
 * 임균 치료 실패 의심 시 해당 부위 **배양 및 항생제 감수성 검사**(NAAT만으로 감수성 확인 불가)
+* BASHH 2026은 증상이 있는 NGU로 진단된 모든 남성에서 _M. genitalium_ NAAT를 권고함; CDC 2021은 지속·재발 NGU에서 우선 권고하므로 검사 가능성과 국내 진료 경로에 따라 적용
 * 지속·재발 NGU에서는 염증·복약·재노출 확인 후 _M. genitalium_ NAAT와 가능한 내성 검사, 위험도에 따른 _T. vaginalis_ 검사; 심한 배뇨통·요도구 염증·궤양 등에서는 HSV NAAT 고려
 * HIV·매독 검사, B형간염 면역·접종력 확인; HCV 등은 위험도에 따라 검사
 * 요도방광경검사 : 이물·협착 등 구조적 이상 의심 시 고려
@@ -124,11 +125,12 @@
 ### <mark style="color:orange;">치료 후 모니터링</mark>
 
 * 증상 지속·재발 시 **객관적 염증**, 복약 이행·재노출을 재평가; 증상만으로 항생제를 연장·반복하지 않음
-* 합병증 없는 요도·직장 임질과 비임신 클라미디아의 일률적 완치검사는 불필요. 복약 불확실·증상 지속·재감염 의심 시 재평가
+* CDC 기준으로 권장요법 후 합병증 없는 요도·직장 임질과 비임신 클라미디아의 일률적 완치검사는 불필요. 국내 임질 지침의 고위험·대체요법·임신 등 추적 기준은 별도 적용; 복약 불확실·증상 지속·재감염 의심 시 재평가
 * **인두 임질** : 치료 후 7\~14일에 배양 또는 NAAT로 완치검사(7일째 NAAT의 잔여 핵산 양성에 주의)
 * **임신 중 클라미디아** : 치료 완료 약 4주 후 NAAT로 완치검사. 비임신자에서 완치검사가 필요한 경우에도 치료 완료 4주 미만 NAAT는 잔여 핵산 위양성 가능성에 주의
 * Azithromycin으로 치료한 직장 클라미디아는 낮은 치료 효과를 고려해 치료 후 평가·필요 시 검사
 * 임질·클라미디아 확진자는 완치검사와 별도로 치료 약 3개월 후 재감염 확인 검사
+* _M. genitalium_은 국내 2023 지침에 따라 증상 소실 여부와 무관하게 치료 완료 3주(21일) 이후 NAAT 완치검사; CDC는 권장요법 후 무증상인 경우 일률적 검사를 요구하지 않아 차이가 있음
 
 #### <mark style="color:$primary;">지속 또는 재발성 non-gonococcal urethritis(NGU)</mark>
 
@@ -183,28 +185,31 @@ flowchart TD
 ### <mark style="color:orange;">1차 선택제</mark>
 
 * doxycycline : 100 ㎎ bid ×7d <mark style="color:blue;">\[독시사이클린]</mark>
+  * 성인 비임신자의 일반 요법임; 임신부의 클라미디아는 azithromycin 1 g 경구 1회 등 임신부 지침을 적용하고 doxycycline을 그대로 사용하지 않음
 
 _plus (임균 감염이 배제되지 않은 경우)_
 
-* ceftriaxone : 500 ㎎ ×1회 IM <mark style="color:blue;">\[트리악손]</mark> ; 체중 ≥150 ㎏인 경우 1 g으로 증량 \[CDC 2021]
-  * 국내 일부 진료 현장에서는 azithromycin 병용이 여전히 사용되지만, CDC 개정 이후로는 권장되지 않음
+* ceftriaxone : 체중 ＜100 ㎏이면 500 ㎎ IM 또는 IV 1회, ≥100 ㎏이면 1 g IV 1회 <mark style="color:blue;">\[트리악손]</mark> <mark style="color:$info;">[국내 성매개감염 진료지침 2023]</mark>
+  * CDC 2021은 체중 ＜150 ㎏ 500 ㎎ IM, ≥150 ㎏ 1 g IM으로 국내 증량 기준과 다름; 본문·처방례는 국내 기준을 우선 적용
+  * 국내 지침·CDC 모두 단순 임질에 azithromycin을 통상 병용하지 않음; 클라미디아가 배제되지 않으면 별도의 항클라미디아 치료를 병용
 
 ### <mark style="color:orange;">대체제</mark>
 
-* azithromycin : 500 ㎎ 1회, 이후 250 ㎎ qd ×4d **또는** 1 g 1회 <mark style="color:blue;">\[지스로맥스]</mark> [CDC 2021 NGU 대체 요법]. 내성 선택·클라미디아 치료 실패를 고려해 doxycycline이 어려울 때 제한적으로 선택
-  * 지침 차이 : BASHH 2026은 NGU의 azithromycin 1 g 단회 요법을 권하지 않으며, 대체 요법으로 첫날 1 g + 500 ㎎ qd ×2d를 제시. 임신 중 클라미디아는 별도 임신부 지침 적용
+* azithromycin : 500 ㎎ 1회, 이후 250 ㎎ qd ×4d **또는** 1 g 1회 <mark style="color:blue;">\[지스로맥스]</mark> <mark style="color:$info;">[CDC 2021 NGU 대체 요법]</mark>. 내성 선택·클라미디아 치료 실패를 고려해 doxycycline이 어려울 때 제한적으로 선택
+  * 지침 차이 : BASHH 2026은 NGU의 azithromycin 1 g 단회 요법을 권하지 않으며, 대체 요법으로 첫날 1 g + 500 ㎎ qd ×2d를 제시; 이 경로를 선택하면 투여 시작 후 14일 및 증상 소실·파트너 치료 완료까지 성관계 제한. 임신 중 클라미디아는 별도 임신부 지침 적용
 * levofloxacin은 **클라미디아 확진** 시 대체제가 될 수 있으나 원인 미확정 NGU에는 권하지 않음. Ofloxacin을 NGU 일반 대체제나 임균 경험적 치료제로 사용하지 않음
 
 ### <mark style="color:orange;">재발성 및 지속성 요도염</mark>
 
 * _M. genitalium_ **NAAT 양성** 시 가능한 macrolide 내성 검사에 따라 치료 선택
   * macrolide **감수성 확인** : doxycycline 100 ㎎ bid ×7d → azithromycin 첫날 1 g + 500 ㎎ qd ×3d(총 2.5 g)
-  * macrolide **내성 확인** : doxycycline 100 ㎎ bid ×7d → moxifloxacin 400 ㎎ qd ×7d <mark style="color:blue;">\[아벨록스]</mark>
+  * macrolide **내성 확인** : doxycycline 100 ㎎ bid ×7d → moxifloxacin 400 ㎎ qd ×7d <mark style="color:blue;">\[아벨록스]</mark>(국내 _M. genitalium_ 치료는 허가 외 사용; QT 연장·건병증 등 확인)
   * **내성 검사 불가** : CDC 2021은 _M. genitalium_ 양성 시 doxycycline → moxifloxacin을 권고. 국내 성매개감염 진료지침 2023은 재발·치료 실패 시 doxycycline(또는 minocycline) → azithromycin 총 2.5 g과 **치료 완료 21일 후 완치검사**를 제시. 국내 내성 양상, 선행 azithromycin, fluoroquinolone 금기·부작용과 추적검사 가능성을 고려해 선택; '감수성 추정'만으로 azithromycin 요법을 선택하지 않음
   * 선행 NGU 치료로 doxycycline 7일을 이미 완료했다면 경과와 후속 약제 시작 시점을 확인하여 반복 투여 여부 판단
-* _T. vaginalis_ : 이성 파트너가 있고 지역·집단 유병률이 높거나 파트너 감염이 확인된 지속·재발 요도염에서 검사 및 경험적 치료 고려
+* _T. vaginalis_(아래 단회요법은 남성 요도염 기준) : 이성 파트너가 있고 지역·집단 유병률이 높거나 파트너 감염이 확인된 지속·재발 요도염에서 검사 및 경험적 치료 고려
   * metronidazole : 2 g 경구 **1회** <mark style="color:blue;">\[후라시닐]</mark>
   * tinidazole : 2 g 경구 **1회** <mark style="color:blue;">\[티니다진]</mark>
+  * 여성 트리코모나스증은 metronidazole 500 ㎎ bid ×7d를 우선 사용(CDC); 남성 2 g 단회요법을 여성에게 일률 적용하지 않음
   * 파트너 평가·치료. 국내 후라시닐정 안내에 따라 투여 중·종료 후 3일간 금주
 * 초치료 불이행 또는 치료받지 않은 파트너와 재노출 → 객관적 염증·병력 확인 후 초치료 재시행 고려
 
@@ -244,13 +249,14 @@ A64 상세불명의 성매개질환
 > **처방례 2. 미확정 요도염 (임균 감염이 배제되지 않은 경우)**
 >
 > ```
-> 트리악손 주 500 ㎎  IM  1회
+> 트리악손 주 500 ㎎  IM 또는 IV 1회 (체중 <100 ㎏)
+> 체중 ≥100 ㎏이면 트리악손 주 1 g  IV 1회
 > 독시사이클린 100 ㎎/C  2C  #2 ×7d  (Chlamydia 동반이 배제되지 않은 경우)
 > ```
 >
-> _✽2021년 CDC 개정 이후 임균 감염에 azithromycin을 통상적으로 병용하지 않으며, ceftriaxone 단독 500 ㎎(체중 ≥150 ㎏이면 1 g)이 표준 용량임. Chlamydia 동반이 배제되지 않으면 doxycycline을 병용_
+> _✽국내 2023 지침의 체중 100 ㎏ 증량 기준 적용(CDC는 150 ㎏ 기준). 단순 임질에 azithromycin을 통상 병용하지 않으며, Chlamydia가 배제되지 않으면 비임신자는 doxycycline 병용. Lidocaine으로 조제한 IM 주사액은 IV로 투여하지 않음_
 
-> **처방례 3. 재발성 및 지속성 요도염 (T. vaginalis 의심)**
+> **처방례 3. 남성의 지속·재발 요도염 (T. vaginalis 의심/확진)**
 >
 > ```
 > 후라시닐 250 ㎎/T  8T  #1 ×1d
@@ -265,7 +271,7 @@ A64 상세불명의 성매개질환
 > 지스로맥스 250 ㎎/T  4T  #1 ×1d, 이후 250 ㎎/T  2T  #1 ×3d
 > ```
 >
-> _✽감수성 확인 시의 순차 요법. doxycycline을 이미 완료했다면 재투여와 후속 약제 시점 판단. 감수성 미확인 시 본문에 구분한 국내·CDC 경로와 완치검사 계획 확인_
+> _✽감수성 확인 시의 순차 요법. doxycycline을 이미 완료했다면 재투여와 후속 약제 시점 판단. 국내 지침에 따라 치료 완료 21일 이후 완치검사. 감수성 미확인 시 본문에 구분한 국내·CDC 경로 적용_
 
 ***
 
@@ -274,12 +280,12 @@ A64 상세불명의 성매개질환
 > **항생제 복용 및 성관계 제한**
 >
 > * 처방된 항생제는 증상이 빨리 좋아지더라도 처방된 기간까지 빠짐없이 복용하십시오.
-> * 1회 요법은 치료 후 7일간, 7일 요법은 완료까지 성관계를 피하십시오. 증상이 없어지고 파트너도 치료를 마칠 때까지 관계를 재개하지 마십시오. 약제별 안내를 따르십시오.
+> * 1회 요법은 치료 후 7일간, 7일 요법은 완료까지 성관계를 피하십시오. 증상이 없어지고 파트너도 치료를 마칠 때까지 관계를 재개하지 마십시오. 약제별 안내를 따르십시오. BASHH 방식의 azithromycin 연장요법을 쓰면 시작 후 14일까지 제한하는 별도 지침이 있습니다.
 > * 최근 60일 이내 성 파트너도 함께 검사·치료받아야 재감염을 막을 수 있습니다.
 
 > **doxycycline 복용 시 주의사항**
 >
-> * 유제품·제산제·철분제와는 2시간 이상 간격을 두고 복용하십시오(흡수 저하 가능).
+> * 제산제·철분·칼슘 등 미네랄 보충제와는 2시간 이상 간격을 두고 복용하십시오. 유제품은 선택 제품의 복약안내에 따르십시오.
 > * 복용 직후 눕지 말고 충분한 물과 함께 복용하십시오(식도 자극·궤양 예방).
 > * 복용 기간 중 광과민 반응이 있을 수 있어 과도한 자외선 노출을 피하십시오.
 
@@ -323,7 +329,7 @@ A64 상세불명의 성매개질환
 #### <mark style="color:$primary;">치료 후 언제 다시 검사받아야 하나요?</mark>
 
 * 클라미디아·임질에 감염되었던 경우, 재감염 여부 확인을 위해 치료 3개월 후 재검사를 받는 것이 좋습니다.
-* 완치검사의 필요성과 시점은 원인균에 따라 다릅니다. 임신 중 클라미디아는 치료 완료 약 4주 후, 인두 임질은 치료 후 7\~14일에 검사합니다.
+* 완치검사의 필요성과 시점은 원인균에 따라 다릅니다. 임신 중 클라미디아는 치료 완료 약 4주 후, 인두 임질은 치료 후 7\~14일, 마이코플라즈마 제니탈리움은 국내 지침에 따라 치료 완료 3주 이후 검사합니다.
 
 #### <mark style="color:$primary;">이럴 때는 다시 진료받으세요</mark>
 
@@ -331,3 +337,24 @@ A64 상세불명의 성매개질환
 * 열이 나거나 옆구리·아랫배가 심하게 아픈 경우 — 즉시 진료
 * 갑자기 고환이 심하게 아픈 경우 — 즉시 응급 평가
 * 관절통·피부 발진이 새로 생긴 경우 — 즉시 진료
+* 해외 BASHH 방식의 azithromycin 연장요법을 처방받았다면, 시작 후 14일까지 성관계를 피하라는 별도 안내를 따르십시오.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* 질병관리청·대한요로생식기감염학회. 성매개감염 진료지침 2023.
+  [공식 지침 PDF](https://stiguide.kr/wp-content/uploads/2023/04/Korean_STI_Guidelines_2023.pdf)
+
+* Crofts M, et al. BASHH National Guideline on the Management of Non-gonococcal Urethritis (NGU), 2026.
+  [공식 지침 PDF](https://www.bashh.org/_userfiles/pages/files/resources/ngu_2026.pdf)
+
+* CDC. Sexually Transmitted Infections Treatment Guidelines, 2021. — 국내 지침과 용량·완치검사 기준이 다른 부분을 구분.
+  [요도염](https://www.cdc.gov/std/treatment-guidelines/urethritis-and-cervicitis.htm) · [임질](https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm) · [M. genitalium](https://www.cdc.gov/std/treatment-guidelines/mycoplasmagenitalium.htm) · [트리코모나스증](https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm)
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태.
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)

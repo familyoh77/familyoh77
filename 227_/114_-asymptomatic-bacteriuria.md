@@ -3,10 +3,10 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 요로 감염을 시사하는 증상 없이 소변 배양 검사에서 유의한 세균이 검출되는 상태
-* 정의 \[IDSA, 2019] : 발열, 배뇨 곤란, 빈뇨/절박뇨, 육안혈뇨, 치골상부 통증 또는 늑척추각 통증·압통 등 급성 요로 감염을 시사하는 국소·전신 증상이 없으면서 정량적 배양 기준을 충족하는 세균뇨
+* 정의 <mark style="color:$info;">[IDSA, 2019]</mark> : 발열, 배뇨 곤란, 빈뇨/절박뇨, 육안혈뇨, 치골상부 통증 또는 늑척추각 통증·압통 등 급성 요로 감염을 시사하는 국소·전신 증상이 없으면서 정량적 배양 기준을 충족하는 세균뇨
   * 소변에 염증세포(WBC) 및 inflammatory cytokine이 존재할 수 있으나 이는 진단 기준이 아님
 * 농뇨(pyuria)가 동반되더라도 증상이 없으면 항균제 치료의 적응증이 아님
-* 유병률 : 건강한 폐경 전 여성 1\~5%, 건강한 폐경 후 여성 2.8\~8.6%; ＞65세 남성 5\~10%; 요양 시설 장기 체류 남성 15\~40%, 여성 25\~50%; 도뇨관 장기 유치 시 \~100% \[IDSA]
+* 유병률 : 건강한 폐경 전 여성 1\~5%, 건강한 폐경 후 여성 2.8\~8.6%; ＞65세 남성 5\~10%; 요양 시설 장기 체류 남성 15\~40%, 여성 25\~50%; 도뇨관 장기 유치 시 \~100% <mark style="color:$info;">[IDSA]</mark>
 * 극히 일부 대상(임신부, 침습적 비뇨기과 시술 예정자)을 제외하고는 치료 이득이 입증되지 않아 치료하지 않음 - 불필요한 치료는 부작용·내성 발생 등 이득보다 위해가 큼
 
 ## <mark style="color:green;">원인</mark>
@@ -27,7 +27,7 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉시 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 발열, 오한, 빈맥, 저혈압 등 패혈증을 시사하는 소견 동반 → 급성 신우신염·요로패혈증
 * 임신부에서 발열, 오한, 옆구리 통증 또는 늑척추각 압통 동반 → 급성 신우신염·요로패혈증 평가 및 산과적 합병증 동시 확인
@@ -45,11 +45,11 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* U/A : 농뇨, leukocyte esterase 및 nitrite 양성 소견이 동반될 수 있으나 그 자체로는 진단 기준이 아니며, 정량적 배양 검사로 확진함 \[IDSA]
+* U/A : 농뇨, leukocyte esterase 및 nitrite 양성 소견이 동반될 수 있으나 그 자체로는 진단 기준이 아니며, 정량적 배양 검사로 확진함 <mark style="color:$info;">[IDSA]</mark>
 
 <table><thead><tr><th width="230">검체 유형</th><th width="140">기준 균수</th><th>비고</th></tr></thead><tbody><tr><td>청결 채취 자연 배뇨, 여성</td><td>≥10⁵ cfu/㎖</td><td>연속 2회(가급적 2주 이내), 동일 균종</td></tr><tr><td>청결 채취 자연 배뇨, 남성</td><td>≥10⁵ cfu/㎖</td><td>1회로 진단</td></tr><tr><td>단회 도뇨 또는 새 도뇨관 삽입 직후, 남녀 공통</td><td>≥10² cfu/㎖</td><td>실제 세균뇨를 시사할 수 있으나, 무증상 환자에서 낮은 균수의 임상적 의미는 확립되지 않음</td></tr><tr><td>유치 도뇨관 보유</td><td>≥10⁵ cfu/㎖</td><td>낮은 균수·다균종은 도뇨관 생물막 오염 가능성; 무증상이면 선별·치료하지 않음</td></tr></tbody></table>
 
-* 위 표는 일반적인 IDSA 정의임. 임신부 산전 선별은 청결 채취 중간뇨 배양 1회에서 단일 요로병원균 ≥10⁵ cfu/㎖이면 임상적으로 유의한 ASB로 판단하여 치료함 \[ACOG, 2023]
+* 위 표는 일반적인 IDSA 정의임. 임신부 산전 선별은 청결 채취 중간뇨 배양 1회에서 단일 요로병원균 ≥10⁵ cfu/㎖이면 임상적으로 유의한 ASB로 판단하여 치료함 <mark style="color:$info;">[ACOG, 2023]</mark>
 
 * 장기 유치 도뇨관 보유 환자는 세균뇨가 거의 보편적(\~100%)이므로, 무증상 상태에서는 선별 목적의 요배양 검사를 시행하지 않음 (증상 발생 시 또는 침습적 시술 전 등 배양이 필요한 상황은 제외)
 
@@ -86,7 +86,7 @@ style E fill:#e3f2ff,stroke:#2196f3
 
 
 
-* 대부분의 환자에서 치료 필요 없음 : 무증상 세균뇨는 항균제 치료의 이득이 입증된 임신부와 점막 손상이 예상되는 내시경 비뇨기과 시술 예정자를 제외하고는 치료하지 않음. 불필요한 치료는 위장관 부작용, _C. difficile_ 감염, 항균제 내성 유발 등 위해가 이득보다 큼 \[IDSA]
+* 대부분의 환자에서 치료 필요 없음 : 무증상 세균뇨는 항균제 치료의 이득이 입증된 임신부와 점막 손상이 예상되는 내시경 비뇨기과 시술 예정자를 제외하고는 치료하지 않음. 불필요한 치료는 위장관 부작용, _C. difficile_ 감염, 항균제 내성 유발 등 위해가 이득보다 큼 <mark style="color:$info;">[IDSA]</mark>
 
 ### <mark style="color:orange;">치료 대상</mark>
 
@@ -97,9 +97,11 @@ style E fill:#e3f2ff,stroke:#2196f3
 요양시설 거주 고령자 등에서 발열·혈역학적 불안정이나 국소 요로 증상 없이 섬망, 낙상, 정신 상태 변화만 나타난 경우 ASB를 요로 감염으로 오인하여 항생제를 투여하지 않도록 주의. 탈수·약물 등 다른 원인을 평가하고 주의 깊게 관찰함. 패혈증 소견이 있고 다른 감염원이 확인되지 않으면 요로를 포함한 감염원을 평가하면서 경험적 항균제 치료를 고려함.
 {% endhint %}
 
-### <mark style="color:orange;">치료하지 않는 대상 (근거 기반)</mark>
+* 척수 손상·신경인성 방광에서는 새로 발생한 경직, 자율신경반사이상, 새로운 요실금 등 비전형 UTI 증상을 평가하며, 이를 단순 무증상 상태로 오인하지 않음
 
-* 다음에서는 선별 검사와 치료 모두 권고 안 함 : 건강한 폐경 전/후 여성, 당뇨병 환자, 고령/요양시설 거주자(기능 저하 동반 포함), 척수 손상, 신경인성 방광, 단기 또는 장기 도뇨관 유치 중, 신장이식 후 1개월 이후, 기타 고형 장기 이식
+### <mark style="color:orange;">치료하지 않는 대상 및 근거가 부족한 특수군</mark>
+
+* 다음에서는 선별 검사와 치료 모두 권고 안 함(임신·점막 손상 시술 적응증은 별도) : 건강한 폐경 전/후 여성, 당뇨병 환자, 고령/요양시설 거주자(기능 저하 동반 포함), 척수 손상, 신경인성 방광, 단기 또는 장기 도뇨관 유치 중, 신장이식 후 1개월 이후, 기타 고형 장기 이식
 * 도뇨관 제거 시점 : ASB 선별·치료의 이득에 대한 근거가 부족하여 권고 없음(No recommendation). 일부 환자에서 도뇨관 제거 시 예방적 항균제가 증상성 UTI를 줄일 가능성이 있으나, 이는 ASB 선별 후 치료하는 전략과는 다름
 * 신장이식 후 1개월 이내 : 근거 부족으로 권고 등급 없음(No recommendation) - 개별 판단 필요
 * 고위험 호중구감소증(ANC ＜100/㎣, ≥7일 예상) : 선별·치료에 대한 근거 부족으로 권고 없음(No recommendation); 저위험 호중구감소증은 일반 비호중구감소 환자와 동일하게 접근
@@ -109,15 +111,16 @@ style E fill:#e3f2ff,stroke:#2196f3
 
 ### <mark style="color:orange;">임신부</mark>
 
-* 배양·감수성 결과에 따른 표적 항균제를 선택함. 치료 기간은 일반적으로 5\~7일이며, fosfomycin 3 g 단회요법은 예외임 \[ACOG, 2023]
-* nitrofurantoin : 50\~100 ㎎ qid ×5\~7d <mark style="color:blue;">\[보령 니트로푸란토인 캡슐 50 ㎎]</mark>
+* 배양·감수성 결과에 따른 표적 항균제를 선택함. 치료 기간은 일반적으로 5\~7일이며, fosfomycin 3 g 단회요법은 예외임 <mark style="color:$info;">[ACOG, 2023]</mark>
+* nitrofurantoin : 50\~100 ㎎ qid ×5\~7d <mark style="color:blue;">\[보령니트로푸란토인캡슐 50 ㎎]</mark>
   * 국내 유통 50 ㎎ 캡슐의 허가 용법은 1회 50\~100 ㎎, 1일 4회 식후 및 취침 시 투여임. 해외의 100 ㎎ bid 요법은 monohydrate/macrocrystals 복합 제형에 해당하므로 국내 50 ㎎ 캡슐에 그대로 적용하지 않음
   * 임신 후기에도 사용할 수 있으나, G6PD 결핍 환자 및 임신 38\~42주·분만 또는 출산 시에는 신생아 용혈 위험으로 금기. 국내 허가사항상 CrCl ＜60 ㎖/min인 신기능 장애에도 금기
   * 최근 대규모 코호트 연구에서는 1삼분기 사용과 관련한 유의한 기형 위험이 확인되지 않았으며, ACOG(2023)는 1삼분기에도 다른 적절한 대안이 없다면 사용이 합리적이라고 명시
 * amoxicillin/clav. : 500/125 ㎎ tid ×5\~7d <mark style="color:blue;">\[오구멘틴]</mark>
 * cephalexin : 500 ㎎ qid ×5\~7d <mark style="color:blue;">\[팔렉신]</mark>
 * cefpodoxime : 100 ㎎ bid ×5\~7d <mark style="color:blue;">\[바난]</mark>
-* fosfomycin : 3 g ×1회 - 감수성 확인 시 임신부 ASB의 단회 치료 선택지이며, ESBL(Extended-spectrum beta-lactamases) 생성균에도 감수성이 있으면 고려 <mark style="color:blue;">\[모누롤]</mark>
+* fosfomycin : 3 g ×1회 - 감수성 확인 시 임신부 ASB의 단회 치료 선택지이며, ESBL(Extended-spectrum beta-lactamases) 생성균에도 감수성이 있으면 고려 <mark style="color:blue;">\[모누롤산]</mark>
+* 모누롤산은 국내에 임부의 중증 무증후성 세균뇨 적응증이 있음; CrCl ≤10 ㎖/min 또는 혈액투석은 금기
 * nitrofurantoin과 fosfomycin은 신실질 농도가 충분하지 않으므로 발열·옆구리 통증 등 신우신염이 의심되면 사용하지 않음
 
 #### 임신부의 B군 연쇄상구균 세균뇨
@@ -127,7 +130,7 @@ style E fill:#e3f2ff,stroke:#2196f3
 * 증상성 요로 감염이면 균수와 관계없이 치료
 
 {% hint style="danger" %}
-**Trimethoprim-sulfamethoxazole은 대안이 있다면 피해야 함.** 엽산 대사 길항 작용이 있으며, 최근 대규모 관찰연구에서 1삼분기 사용이 β-lactam 대비 심장 기형·구순구개열 등 일부 선천성 기형 위험 증가와 연관되어 대안이 있으면 회피함. 만삭에 근접해서는 신생아 고빌리루빈혈증·핵황달의 이론적 위험 때문에 회피.
+**Trimethoprim-sulfamethoxazole은 국내 셉트린정 허가상 임부·임신 가능성이 있는 여성·수유부에 금기임.** 해외 지침의 제한적 사용 허용을 국내 일반 처방에 그대로 적용하지 않음. 엽산 대사 길항 작용이 있으며, 최근 대규모 관찰연구에서 1삼분기 사용이 β-lactam 대비 심장 기형·구순구개열 등 일부 선천성 기형 위험 증가와 연관됨(관찰연구로 인과관계를 확정하지 못함). 만삭에 근접해서는 신생아 고빌리루빈혈증·핵황달의 이론적 위험 때문에 회피.
 {% endhint %}
 
 ### <mark style="color:orange;">침습적 비뇨기과 시술 예정자</mark>
@@ -157,7 +160,7 @@ style E fill:#e3f2ff,stroke:#2196f3
 > **처방례 2. 임신부, 1삼분기, 적절한 대안이 없는 경우**
 >
 > ```
-> 보령 니트로푸란토인 캡슐 50 ㎎/cap  1cap  qid × 5~7일
+> 보령니트로푸란토인캡슐 50 ㎎/cap  1cap  qid × 5~7일
 > ```
 >
 > _✽대안이 없을 때 1삼분기에도 사용 가능; G6PD 결핍, 국내 허가사항상 CrCl ＜60 ㎖/min, 임신 38~42주·분만 또는 출산 시에는 금기_
@@ -174,7 +177,7 @@ style E fill:#e3f2ff,stroke:#2196f3
 > **처방례 4. 임신부 ASB, fosfomycin 감수성 확인 시 단회요법**
 >
 > ```
-> 모누롤 3 g/포  1포  1회 복용
+> 모누롤산(포스포마이신으로서 3 g)/포  1포  1회 복용
 > ```
 >
 > _✽ESBL 생성균에도 감수성이 있으면 고려할 수 있음. 발열·옆구리 통증 등 신우신염이 의심되면 사용하지 않음_
@@ -195,8 +198,8 @@ style E fill:#e3f2ff,stroke:#2196f3
 > * 처방된 기간(보통 5\~7일)은 증상이 없더라도 끝까지 복용하도록 안내합니다.
 > * 1삼분기에는 β-lactam 계열(cephalexin, amoxicillin/clavulanate)을 우선 고려하고, nitrofurantoin은 적절한 대안이 없을 때 사용합니다.
 > * nitrofurantoin은 임신 38\~42주, 분만 또는 출산 시에는 금기입니다.
-> * trimethoprim-sulfamethoxazole은 1삼분기 기형 위험 및 만삭 근접 시 신생아 핵황달 위험으로 권장하지 않습니다.
-> * 치료 후 1\~2주 내 반복 요배양을 고려할 수 있으나, 모든 임신부에서 반드시 시행해야 한다는 근거는 충분하지 않습니다.
+> * trimethoprim-sulfamethoxazole은 국내 허가상 임부·임신 가능성이 있는 여성·수유부에 금기입니다.
+> * 임신부 ASB는 적절한 치료 후 반복 선별검사의 이득에 대한 근거가 불충분하므로 산과 추적 계획을 개별화합니다. 증상성 방광염에서 치료 1\~2주 후 재배양을 고려하는 권고와 구분합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -237,3 +240,26 @@ style E fill:#e3f2ff,stroke:#2196f3
 * **열이 나거나 옆구리(등 쪽)가 아픈 경우**
 * **소변볼 때 아프거나, 소변을 자주/급하게 보게 되는 경우**
 * 임신 중이신데 배가 자주 뭉치거나 평소와 다른 느낌이 드는 경우
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* Nicolle LE, et al. IDSA Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update.
+  [공식 지침](https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria/)
+
+* ACOG. Urinary Tract Infections in Pregnant Individuals. Clinical Consensus No. 4. 2023.
+  [공식 권고문](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/08/urinary-tract-infections-in-pregnant-individuals)
+
+* 질병관리청·대한항균요법학회. 2025 요로감염 항생제 사용 지침(2026 배포본: 요로감염 항생제 적정사용을 위한 실무지침). — 국내 국소형/전신형 분류, 약제 선택 및 기간.
+  [공식 지침](https://www.kdca.go.kr/bbs/kdca/263/307010/download.do)
+
+* First-Trimester Antibiotic Use for Urinary Tract Infection and Risk of Congenital Malformations. JAMA Netw Open. 2025;8:e2519544. — 임신 초기 관찰연구; 인과관계 확정 근거와 구분.
+  [https://doi.org/10.1001/jamanetworkopen.2025.19544](https://doi.org/10.1001/jamanetworkopen.2025.19544)
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태.
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)

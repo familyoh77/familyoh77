@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 신장, 요관, 방광, 요도 등 요로의 세균 감염
-* 분류 : 신우신염, 방광염, 전립선염, 요도염, 무증상 세균뇨
+* 감염 부위에 따른 분류 : 신우신염, 방광염, 전립선염, 요도염; 무증상 세균뇨는 증상성 UTI와 구분하여 다룸
 * 발생률은 연령·성별·연구 환경에 따라 차이가 크며 여성에서 훨씬 흔함; 재발·재감염이 흔함 (☞ [재발](113_-urinary-tract-infection.md#uti-3))
   * 전체 여성의 ½이 일생 동안 1회 이상의 UTI를 경험
 
@@ -15,7 +15,7 @@
 * Asymptomatic bacteriuria(ASB) : 요로 감염을 시사하는 증상 없이 유의한 세균뇨가 존재하는 상태; 농뇨가 동반될 수도 있으나 진단 기준은 아님
 
 {% hint style="info" %}
-**EAU 2025\~2026 새로운 UTI 분류 체계** : European Association of Urology 요로 감염 지침은 2025년부터 "uncomplicated/complicated" 대신 임상 징후 중심의 "localized(국소형)/systemic(전신형)" UTI 분류를 도입함; 전신 감염 징후(발열, 오한, 옆구리 통증, 전신 증상) 유무로 치료 강도를 결정하는 것이 핵심 취지임. 다만 1차 진료 현장에서는 전통적 분류가 여전히 널리 쓰이고 있어, 본 챕터는 전통적 분류를 기본으로 서술하였음
+**EAU 2025\~2026 새로운 UTI 분류 체계** : European Association of Urology 요로 감염 지침은 2025년부터 "uncomplicated/complicated" 대신 임상 징후 중심의 "localized(국소형)/systemic(전신형)" UTI 분류를 도입함; 전신 감염 징후(발열, 오한, 옆구리 통증, 전신 증상) 유무로 치료 강도를 결정하는 것이 핵심 취지임. IDSA 2025의 uncomplicated/cUTI도 각각 방광 국한/방광을 넘어선 감염을 중심으로 정의하므로, 위의 전통적 정의와 동일하지 않음. 본문은 국소형/전신형 구분에 위험 인자를 함께 적용하며, 임신·면역 저하·요로 이상 등의 중요성은 분류 명칭과 별개로 평가함
 {% endhint %}
 
 ## <mark style="color:green;">원인</mark>
@@ -64,20 +64,20 @@
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 옆구리 통증, 늑골척추각 압통, 발열/오한, 오심·구토가 있으나 패혈증 징후는 없는 경우 → 신우신염 (당일 소변 배양 후 항생제 투여, 48\~72시간 내 반응 확인)
-* 임신 중 UTI (무증상 세균뇨 포함)
+* 48\~72시간의 적절한 항균제 치료에도 호전 없음(악화·패혈증 징후 시 즉각 조치)
+* 임신 중 증상성 UTI; 무증상 세균뇨는 수일 내 치료 계획 수립
 * 남성에서 발열·오한·회음부 통증·요폐 등 전립선염 또는 systemic UTI 의심
 * 도뇨관 유치 환자에서 새로 발생한 발열, 의식 변화, 옆구리 통증
 * 요로 결석·협착 등 폐쇄 소견이 의심되나 응급 징후는 없는 경우
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험은 낮으나 평가·추적 필요</mark>
 
-* 48\~72시간의 적절한 항균제 치료에도 호전 없음
 * 재발성 UTI (6개월 내 ≥2회 또는 12개월 내 ≥3회)
 * 치료 후에도 지속되거나 재발하는 육안적 혈뇨(특히 ＞45세)
 
 ## <mark style="color:green;">진단</mark>
 
-* 여성에서 전형적인 하부 UTI 증상을 보이는 경우에는 검사 없이 진단 가능
+* 건강한 비임신 여성에서 전형적인 급성 하부 UTI 증상이 있고 질 분비물·자극 증상이 없으면 검사 없이 임상 진단 가능; 임신부·남성·재발성 감염 등은 배양 검사 기준을 별도로 적용
 * 재발의 경우 과거 acute UTI에서의 항생제 치료에 대한 반응 참조
 * 소변 검사
 * 영상 검사
@@ -125,7 +125,7 @@ B["질 분비물·외음부 자극·요도 분비물·<br/>STI 노출·폐경비
     F --> G["추가 증상 확인 - 절박뇨·빈뇨·<br/>육안혈뇨·치골 상부 압통"]
     G -->|있음| I["소변 시험지봉 검사"]
     I --> J["nitrite (+) 또는 <br/>WBC·RBC 동시 (+)<br/>→ UTI likely"]
-    I --> K["nitrite (-), WBC (+) <br/>→ UTI 가능성 50%, <br/>재검 및 배양"]
+    I --> K["nitrite (-), WBC (+) <br/>→ UTI 가능성 50%, <br/>증상에 따라 배양·치료 판단"]
     I --> L["모두 (-) →<br/>UTI less likely"]
     E --> M["항생제 내성 위험 시 배양 검사, <br/>경증은 관찰 또는 항생제 고려"]
     J --> M
@@ -152,7 +152,7 @@ class N,M sky
 
 <p align="center"><strong>UTI가 의심되는 ＜65세, 비임신 여성에서의 진단 및 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Diagnosis of urinary tract infections. NICE, 2020.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. UKHSA. Diagnosis of urinary tract infections: quick reference tools for primary care(비임신 여성 ＜65세 경로를 재구성).</mark></em></p>
 
 ***
 
@@ -184,7 +184,7 @@ _²⁾ 새로 발생한 배뇨통·빈뇨·절박뇨·치골 상부 통증·육�
 
 <p align="center"><strong>UTI가 의심되는 ≥65세에서의 진단 및 관리 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: Diagnosis of urinary tract infections. NICE, 2020; IDSA Asymptomatic Bacteriuria Guideline, 2019)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: UKHSA UTI diagnostic tools; IDSA Asymptomatic Bacteriuria Guideline, 2019)</mark></em></p>
 
 <p align="center"><em><mark style="color:$info;">섬망·쇠약·낙상만 있고 국소 요로 증상이나 전신 감염 징후가 없으면 다른 원인을 우선 평가;</mark></em><br><em><mark style="color:$info;">시험지봉 검사 또는 세균뇨 양성만으로 UTI를 진단하지 않음</mark></em></p>
 
@@ -208,27 +208,32 @@ _²⁾ 새로 발생한 배뇨통·빈뇨·절박뇨·치골 상부 통증·육�
 
 #### <mark style="color:$primary;">평가 및 진단</mark>
 
+* 생후 2개월 미만의 발열·처짐·수유 저하는 즉시 평가하며 영아 발열/패혈증 경로를 함께 적용함
 * 생후 2~24개월의 원인 불명 발열, 2~5세의 UTI 의심 증상은 발생 후 72시간 이내 평가를 제안함; 신우신염·신손상 고위험군은 더 신속히 평가하며, 72시간 동안 대기하라는 의미는 아님
 * 진단은 임상 양상 + 소변의 염증 소견 + 적절히 채취한 검체의 배양 결과를 함께 판단함
   * 일회 도뇨/치골상부 천자 : 단일 요로병원균 ≥10⁴ cfu/㎖
   * 청결 채취뇨 : ≥10⁵ cfu/㎖
-  * 농뇨/LE 기준은 연령과 배양 결과 확보 여부에 따라 달라짐; 배양 양성만으로 진단하지 않음
+  * 배양 양성만으로 진단하지 않음; 농뇨/LE의 연령별 기준은 아래와 같으며 임상적 사전확률에 따른 판단을 대체하는 절대 기준은 아님
   * 위의 일회 도뇨 검체 기준은 성인의 유치 도뇨관 관련 UTI(CAUTI) 기준과 구분함
+
+<table><thead><tr><th>연령</th><th>배양 전 진단을 지지하는 염증 소견</th><th>배양 결과 확보 후 함께 해석할 소견</th></tr></thead><tbody><tr><td>2개월 미만</td><td>WBC ≥5/HPF 또는 LE trace 이상</td><td>WBC ≥5/HPF 또는 LE trace 이상</td></tr><tr><td>2개월~5세</td><td>WBC ≥10/HPF 또는 LE 2+ 이상</td><td>WBC ≥5/HPF 또는 LE 1+ 이상</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">항생제 치료 기간</mark>
 
-* 7일 이하 치료를 조건부 권고함 [근거 확실성: 낮음]; 연령·위험 인자·반응에 따라 결정
+* 저위험군의 7일 이하 치료를 조건부 권고함 [근거 확실성: 낮음]; 아래 기간은 성인 UTI와 별도로 적용하고 고위험 조건을 먼저 확인함
 
-<table><thead><tr><th>대상/임상 상황</th><th>치료 기간</th></tr></thead><tbody><tr><td>2세 이상, 요로 해부학적 이상 없는 비발열성 방광염</td><td>3~5일</td></tr><tr><td>생후 2~24개월 UTI</td><td>5~7일</td></tr><tr><td>2세 이상, 요로 해부학적 이상 없는 발열성 UTI/신우신염 의심</td><td>5~7일</td></tr><tr><td>생후 8일~2개월 미만, 요로 해부학적 이상, 균혈증 또는 초기 치료 반응 불량</td><td>7일 초과 고려; 개별화</td></tr></tbody></table>
+<table><thead><tr><th>위험도</th><th>연령·임상 상황</th><th>치료 기간</th></tr></thead><tbody><tr><td>저위험</td><td>2~5세, 비발열성 방광염, 알려진 요로 해부학적 이상 없음</td><td>3~5일</td></tr><tr><td>저위험</td><td>생후 2~24개월, 발열성 UTI, 해부학적 이상·균혈증·반응 불량 없음</td><td>5~7일</td></tr><tr><td>저위험</td><td>2세 초과~5세, 발열성 UTI/임상적 신우신염, 알려진 요로 해부학적 이상 없음</td><td>5~7일</td></tr><tr><td>고위험</td><td>생후 8일~2개월 미만, 발열성 UTI</td><td>7~14일 고려</td></tr><tr><td>고위험</td><td>생후 2개월 이상, 발열성 UTI + 알려진 비뇨생식기 해부학적 이상·균혈증 또는 초기 임상 반응 불량</td><td>7~14일 고려; 전문의와 개별화</td></tr></tbody></table>
 
 * 생후 28일 초과 : 경구 복용 가능하고 별도 입원 사유가 없으면 경구 치료 권고
-* 생후 8~28일 : 주사 치료로 시작하고 임상 호전 후 조기 경구 전환 고려
+* 생후 8~28일 : 주사 치료로 시작하고 임상 호전 후 조기 경구 전환 고려; 균혈증·수막염 등의 동반 여부에 따라 별도 치료
+* 적절히 채취한 치료 전 배양이 음성이면 감염 가능성을 재평가하여 경험적 항생제 중단을 고려함; 선행 항생제 투여 후 검체는 예외적으로 해석
 
 #### <mark style="color:$primary;">영상 검사 및 재발 예방</mark>
 
 * 5세 미만의 첫 발열성 UTI : 신장·방광 초음파(RBUS) 권고
 * 정상 RBUS 후 배뇨중방광요도조영술(VCUG)은 일률적으로 시행하지 않음; 의미 있는 RBUS 이상 또는 두 번째 발열성 UTI(2세 미만 전체, 2세 이상은 다른 설명 가능한 위험 인자가 없을 때)에서는 고려함. 비전형 경과 등은 전문의와 개별 판단
 * 방광·장 기능장애(BBD, bowel and bladder dysfunction)와 변비를 평가·치료하여 재발 예방
+* 저위험 방광요관역류(VUR I~II, BBD 없음)에서는 지속 예방 항생제를 일률적으로 사용하지 않음; 고위험 VUR·반복 신우신염·신장 반흔은 소아비뇨의학과/소아신장 전문 진료
 
 _참고 문헌: [AAP Clinical Practice Guideline, 2026](https://doi.org/10.1542/peds.2026-078565); [UTI Diagnosis Technical Report, 2026](https://doi.org/10.1542/peds.2026-078566)_
 
@@ -238,7 +243,7 @@ _참고 문헌: [AAP Clinical Practice Guideline, 2026](https://doi.org/10.1542/
 * 신우신염, 양측 침범이 더 흔함
 * 신농양, emphysematous cystitis, 중증 패혈증 등의 가능성이 큼
 * 진단 : 비-당뇨병 환자와 동일. 영상 검사 고려
-* 치료 기간은 감염 부위와 중증도에 따라 일반 환자와 동일하게 결정하며, 당뇨병 자체가 치료 기간 연장의 근거는 아님; complicated UTI에 해당하는 경우 연장이 필요할 수 있음
+* 치료 기간은 감염 부위와 중증도에 따라 일반 환자와 동일하게 결정하며, 당뇨병 자체가 치료 기간 연장의 근거는 아님; 폐쇄·농양·전립선 침범·반응 불량 등은 별도로 평가하여 기간을 개별화함
 
 ### <mark style="color:orange;">도뇨관 유치 환자에서의 UTI (CAUTI, Catheter-Associated UTI)</mark>
 
@@ -250,6 +255,7 @@ _참고 문헌: [AAP Clinical Practice Guideline, 2026](https://doi.org/10.1542/
 
 #### <mark style="color:$primary;">진단</mark>
 
+* 진단은 다른 원인으로 설명되지 않는 증상·징후와 배양 결과를 함께 충족해야 함
 * 배양 검사 : 도뇨관 유치 중 또는 제거 후 48시간 이내의 단일 도뇨관 소변 또는 중간뇨 검체에서 1종 이상 세균 ≥10³ cfu/㎖
 * 도뇨관 환자에서 농뇨는 흔하므로 농뇨의 유무나 정도만으로 CAUTI와 무증상 세균뇨를 구분하지 않음
 * 무증상 세균뇨만으로는 CAUTI를 진단하지 않으며, 치료도 권고하지 않음(CDC/IDSA)
@@ -257,8 +263,9 @@ _참고 문헌: [AAP Clinical Practice Guideline, 2026](https://doi.org/10.1542/
 #### <mark style="color:$primary;">치료</mark>
 
 * UTI 증상이 있는 경우 중증도, 이전 배양 결과, 내성 위험 및 지역 감수성 자료에 따라 경험적 항균제를 시작하고 배양 결과에 따라 좁은 범위로 조정
-* 가능하면 항균제 투여 전 도뇨관을 제거하거나 교환한 뒤 새 도뇨관에서 소변 배양 검체를 채취함
+* 항균제 투여 전 무균적으로 검체를 채취함(소변 주머니에서 채취하지 않음); 교환 적응증이면 새 도뇨관에서 채취하고 제거 후에는 중간뇨를 채취함. 불필요한 교환이나 검체 채취 때문에 중증 환자의 치료를 지연하지 않음
 * 감염 발생 시점에 도뇨관이 2주 이상 유치되었고 계속 필요하면 교환하며, 더 이상 필요하지 않으면 제거함
+* CAUTI는 신속히 호전되면 보통 7일, 반응이 지연되면 10\~14일을 고려함; 중증·폐쇄·전립선 침범은 개별화
 * 도뇨관 삽입 빈도 및 유치 기간을 줄임
 * 방광 세척 : 권고 안 함; 세척을 통한 예방 효과가 없으며 자극 증상 등 부작용 가능성이 있어 도뇨관의 폐쇄가 있지 않는 한 권하지 않음
 * 예방적 항균 요법 : 도뇨관 유치 환자에서 권하지 않음 (효과는 불분명하고 내성 문제 등 발생)
@@ -266,10 +273,10 @@ _참고 문헌: [AAP Clinical Practice Guideline, 2026](https://doi.org/10.1542/
 ```mermaid
 graph TD
     A["도뇨관 유치 환자에서 <br/>발열·오한·의식 변화<br/>·옆구리 통증 발생"] 
---> B["소변 배양 검사"]
-    B --> C["증상 + 배양 양성 <br/>- CAUTI 진단"]
+--> B["새 도뇨관 또는 채취 포트에서 배양<br/>다른 감염·비감염 원인 평가"]
+    B --> C["다른 원인 없는 합당한 증상 + 배양 양성<br/>- CAUTI 진단"]
     B --> G["무증상 세균뇨만 있음"]
-    C --> D["도뇨관 제거 또는 교체 후 배양,<br/>위험도에 맞춘 경험적 항균제 시작"]
+    C --> D["필요 시 도뇨관 제거·교체<br/>위험도에 맞춘 경험적 항균제 시작"]
     D --> E["배양 결과에 따라<br/>항균제 범위 조정"]
     E --> F["예방 교육 - <br/>삽입 빈도·유치 기간 최소화"]
     G --> H["치료하지 않음"]
@@ -289,7 +296,7 @@ _\*무증상 세균뇨는 치료하지 않음이 원칙이며, 예방적 항균 
 ### <mark style="color:orange;">남성에서의 UTI</mark>
 
 * 시험지봉 검사로 감염을 배제하는 것이 어려움
-* 증상이 가볍고 nitrite 및 leucocyte 모두 (-) 시 UTI 가능성은 낮음
+* nitrite 및 leucocyte 모두 (-)라도 임상적으로 의심되면 배양 검사를 시행함; 음성 시험지봉 검사만으로 배양을 생략하거나 감염을 배제하지 않음
 * UTI 의심 시 배양 검사 후 항생제 투여를 시작하고 배양 검사 결과에 따라 조정
 * 발열이나 전신 증상이 있는 요로 증상 시 전립선 이환 또는 신우신염 의심
 * 남성에서 재발성 UTI는 드묾; 남성의 재발성 UTI는 의뢰를 고려
@@ -302,22 +309,20 @@ EAU 2026 분류에서는 전신 감염 징후가 없는 남성의 방광염도 l
 
 ```mermaid
 graph TD
-    A["남성에서 요로 증상 발생"] --> B["소변 시험지봉 검사"]
-    B -->|nitrite·leucocyte 모두 음성| C["UTI 가능성 낮음 <br/>- 다른 진단 고려"]
-    B -->|양성 또는 증상 지속| D["소변 배양 검사 시행"]
-    D --> E["발열·전신 증상 동반 여부 확인"]
-    E -->|있음| F["전립선염/신우신염 의심 <br/>- 항생제 투여, 의뢰 고려"]
-    E -->|없음| G["방광염 가능 <br/>- 배양 결과에 따라 항생제 조정, <br/>최소 7일 이상"]
-    F --> H["치료 반응 불량 시 의뢰"]
-    G --> H
-
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef lightGreen fill:#e8f8e8,stroke:#4caf50
-class B,D lightGreen
-style C fill:#fef4f8,stroke:#f06baf
-style G fill:#fef4f8,stroke:#f06baf
-style F fill:#fcd4e6,stroke:#e0448e
-style H fill:#f8a0c0,stroke:#d01f5a
+    A["남성에서 요로 증상 발생"] --> B["요검사·항생제 전 소변 배양<br/>전신 증상·회음부 통증·요폐 평가"]
+    B --> C{"발열·전신 증상 또는<br/>전립선 침범 의심?"}
+    C -->|있음| D["전립선염/신우신염 평가·치료<br/>중증·폐쇄 시 즉시 의뢰"]
+    C -->|없음| E["국소형 방광염·요도염 등 감별<br/>배양·감수성에 따라 치료 조정"]
+    E --> F["국소형 방광염은 보통 7일<br/>약제·반응에 따라 개별화"]
+    D --> G["48~72시간 반응·배양 확인<br/>호전 없거나 악화 시 재평가/의뢰"]
+    F --> G
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style B fill:#e8f8e8,stroke:#4caf50
+    style C fill:#fff9c4,stroke:#ffe082
+    style D fill:#fcd4e6,stroke:#e0448e
+    style E fill:#e3f2ff,stroke:#2196f3
+    style F fill:#e3f2ff,stroke:#2196f3
+    style G fill:#f8a0c0,stroke:#d01f5a
 ```
 
 _\*남성 UTI에서는 가능하면 항균제 투여 전 배양 검사를 시행하고 전립선 침범 및 systemic UTI 징후를 확인함_
@@ -421,27 +426,31 @@ rUTI=Recurrent UTI
 
 #### <mark style="color:$primary;">비-항생제 예방 약물</mark>
 
-* estrogen : 폐경 여성에서 국소 질 estrogen을 항생제 예방 투여에 앞서 고려 (☞ [폐경기증후군](../226_/108_-menopause-syndrome.md#undefined-19))
-  * estriol 1 ㎎/g 질크림 <mark style="color:blue;">\[유센스질크림]</mark> 또는 conjugated estrogen 0.625 ㎎/g 질크림 <mark style="color:blue;">\[프레미나질크림]</mark> : 0.5 g 취침 전 ×2\~3주, 이후 주 2회 유지
+* estrogen : 폐경 이행기·폐경 후 여성에서 국소 질 estrogen을 항생제 예방 투여에 앞서 고려 (☞ [폐경기증후군](../226_/108_-menopause-syndrome.md#undefined-19))
+  * estriol 1 ㎎/g 질크림 <mark style="color:blue;">\[유센스질크림]</mark> : 0.5 g(estriol 0.5 ㎎) 취침 전 ×2\~3주, 이후 주 2회 유지. 국내 유센스 허가상 유지요법 중 매 2\~3개월마다 4주 휴약하여 지속 필요성을 판단함
+  * conjugated estrogen 0.625 ㎎/g 질크림 <mark style="color:blue;">\[프레미나질크림]</mark> : 국내 허가상 0.5\~2 g/d, 예: 3주 적용 후 1주 휴약; 증상에 맞춰 최소 유효 용량 사용. Estriol의 도입·유지 일정을 그대로 동일시하지 않음
+  * 재발성 UTI 예방은 국제 지침에 근거한 사용이며, 국내 각 제품의 폐경 관련 위축성 질염 적응증과 구분함
   * 국소 질 estrogen은 재발성 UTI 예방 효과가 있으나, 전신 estrogen 요법은 UTI 예방 목적으로는 권고되지 않음(EAU)
-  * 유방암 병력은 일률적인 절대금기로 단정하지 않으며, 비호르몬 요법에 반응하지 않으면 종양 담당의와 상의하여 재발 위험·치료제를 고려해 개별 결정함
-* methenamine hippurate 1 g/정 : 1정 bid, 6개월 이내 효과와 안전성을 검토(국내 허가·유통 제품 여부 확인 필요)
-  * 중증 신기능·간기능 장애 또는 중증 탈수에서는 사용하지 않음
+  * 국제 지침은 유방암 병력에서도 비호르몬 요법 실패 시 종양 담당의와 상의한 개별 사용을 허용하나, 국내 질 estrogen 제품은 유방암을 금기로 기재하므로 지침상 고려와 국내 허가를 구분함; 설명되지 않는 질 출혈은 먼저 평가
+* methenamine hippurate 1 g/정 <mark style="color:blue;">\[유로렉스정]</mark> : 1정 bid, 6개월 이내 효과와 안전성을 검토
+  * 국내 허가 적응증은 재발성 요로 감염 예방이며, 원인균·항생제 감수성 정보를 이용할 수 없거나 사용 가능한 적절한 항생제가 없는 환자로 제한됨; 급성 신우신염 치료약이 아님
+  * 국내 허가상 신장애(중증으로 한정하지 않음)·중증 간장애·중증 탈수·고인산혈증은 금기
   * potassium citrate·sodium citrate 등 요 알칼리화제는 효과를 낮출 수 있으므로 병용하지 않음
   * sulfonamide와 병용하면 요로 내 침전·결정뇨 위험이 있어 병용하지 않음
   * ALTAR 무작위 비열등성 시험에서 12개월간 저용량 지속 항생제 예방 요법과 비교하여 UTI 재발 방지에 비열등한 결과를 보임; 항생제 사용을 줄이려는 환자에서 대안으로 고려 가능
-  * 일률적인 Vitamin C 병용이나 식품 제한은 권고하지 않음
-* 면역조절제(OM-89/경구, MV140/설하) : EAU 2026은 근거의 불확실성 때문에 잘 관리되는 임상시험 환경에서만 약하게 권고함; 국내 미도입(2026년)
+  * 일률적인 Vitamin C 추가 병용은 권고하지 않음. 국내 허가상 요 알칼리화 약물·음식과 동시복용을 피하고 소변 pH를 확인하며, 장기 투여 시 신·간기능과 혈청 인산·나트륨을 모니터링함; 영양 섭취 자체를 과도하게 제한하지 않도록 복용 시간을 조정
+* 면역조절제 : EAU 2026은 재발 예방 효과의 불확실성으로 잘 관리되는 임상시험 환경에서 사용하도록 약하게 권고함
+  * OM-89(경구) <mark style="color:blue;">\[유로박솜캡슐]</mark>은 국내 허가·유통 중인 재발성/만성 요로감염 약제임; 국내 미도입으로 기술하지 않음. MV140(설하)의 해외 근거·유통과 구분함
 
 #### <mark style="color:$primary;">영양 요법</mark>
 
 * d-mannose : 과거 일부 소규모 연구에서 유효성이 보고되었으나, 이후 대규모 위약-대조 연구에서 효과가 확인되지 않음; 현재는 예방 목적의 사용을 권장하지 않음
-* cranberry : 유효 성분 - proanthocyanidin; fimbriae를 통한 urothelial cell 부착을 억제하는 것이 주 기전(소변 산성화 효과는 인정되지 않음). 비임신 여성의 재발성 요로 감염 감소에 대한 보고들이 있으나 효과 크기는 불명확. 용량-효과 관계도 불명확하고 도뇨관 유치·고령자에서는 효과가 확인되지 않음 \[조건부 권고]; warfarin에 영향을 줄 수 있음
+* cranberry : 비임신 여성의 재발성 방광염 예방 선택지로 제안할 수 있음(AUA/CUA/SUFU 2025: 중등도 권고, 근거 B). 유효 성분 proanthocyanidin의 요로상피 부착 억제 작용이 제안되며 소변 산성화제로 설명하지 않음. 제품·함량 차이가 크고 최적 용량은 확립되지 않음; 도뇨관 유치·고령자에게 효과를 일반화하지 않으며 warfarin 병용에 주의
 * [probiotics](../224_/073_.md#probiotics) : 균주·투여 경로별 결과가 일관되지 않으며 최적 용량과 기간이 확립되지 않아 일반적인 경구 lactobacilli 단독 요법은 권장하지 않음
 
 #### <mark style="color:$primary;">1회 투여 요법 - 성관계 후</mark>
 
-* 다른 인자 없이 성관계가 유일한 유발 인자인 경우 유용
+* 재발이 성관계와 뚜렷하게 연관되는 경우 유용; 성관계가 유일한 위험 인자여야 하는 것은 아님
 * 성관계 후 2시간 내 투여
 * 6개월 이내 효과·부작용을 재평가하고 지속 또는 중단을 개별 결정
 
@@ -449,20 +458,20 @@ rUTI=Recurrent UTI
 
 * 약제별로 검증된 저용량을 매일 야간에 투여하며 급성기 치료 용량을 단순히 절반으로 계산하지 않음
 * 연구에서는 주로 3\~12개월 사용되었으며 최적 기간은 확립되지 않음; 6개월 이내 재평가 후 지속 또는 중단을 개별 결정
-* 한계 : 투여 기간 동안에만 예방 효과가 있음
+* 중단 후 재발이 다시 증가할 수 있으므로 정기적으로 예방 효과·부작용·계속 투여의 필요성을 평가함
 * 항생제 예방 투여 중 UTI 발생 시 : 예방 요법 중단 및 소변 배양 검사/항생제 내성 검사, 다른 약제로 acute UTI 치료 → 내성이 발생하지 않았다면 기존 예방 요법제로 재투여할 수 있음
 
 #### <mark style="color:$primary;">약제 및 용량</mark>
 
 **주요 선택지**
 
-* nitrofurantoin : \[노출 후 1회] 100 ㎎; \[지속] 50\~100 ㎎ 야간 <mark style="color:blue;">\[보령니트로푸란토인캡슐 50 ㎎]</mark>
-  * 장기 예방에는 일반적으로 eGFR ≥45 ㎖/min/1.73 ㎡에서 고려하고 신기능을 정기적으로 확인
-* fosfomycin trometamol : \[지속] 3 g 주 1회 <mark style="color:blue;">\[모누롤산]</mark>; 배양 감수성·재발 양상과 국내 내성 현황을 고려
+* nitrofurantoin : \[성관계 후 1회, 지침 용법] 100 ㎎; \[지속] 50\~100 ㎎ 야간 <mark style="color:blue;">\[보령니트로푸란토인캡슐 50 ㎎]</mark>
+  * 국내 허가상 CrCl ＜60 ㎖/min·G6PD 결핍·임신 38\~42주/분만/출산 시 금기. 해외 eGFR 30 또는 45 기준을 국내 허가 기준으로 대체하지 않음; 장기 투여 중 신기능을 정기적으로 확인
+* fosfomycin trometamol : \[지속] 3 g 주 1회(국제 지침에 근거한 국내 허가 외 재발 예방요법) <mark style="color:blue;">\[모누롤산]</mark>; 배양 감수성·재발 양상과 국내 내성 현황을 고려
 
 **배양 감수성에 따른 대안**
 
-* cephalexin : \[노출 후 1회] 500 ㎎; \[지속] 125 ㎎ 야간 <mark style="color:blue;">\[팔렉신]</mark>
+* cephalexin : \[노출 후 1회] 500 ㎎; \[지속] 125 ㎎ 야간(해당 용량 조제가 가능한 제형 사용) <mark style="color:blue;">\[팔렉신]</mark>
 * amoxicillin : \[노출 후 1회] 500 ㎎; \[지속] 250 ㎎ 야간 <mark style="color:blue;">\[파목신]</mark> - 감수성이 확인된 경우에만 고려
 
 {% hint style="danger" %}
@@ -470,7 +479,7 @@ rUTI=Recurrent UTI
 {% endhint %}
 
 {% hint style="danger" %}
-**니트로푸란토인 장기 예방 투여 시 주의** : 6개월 이상 장기 연속 투여하는 경우 폐 독성(간질성 폐질환·폐섬유증) 및 간 독성의 위험이 보고됨; 장기 예방 목적으로 사용할 때는 주기적인 간 기능 검사와 호흡기 증상 모니터링이 필요
+**니트로푸란토인 장기 예방 투여 시 주의** : 장기 투여 시 만성 폐 독성(간질성 폐질환·폐섬유증)·간 독성에 주의함; 급성 폐 반응은 단기 투여 첫 주에도 발생할 수 있음. 새 기침·호흡곤란·흉통·황달 발생 시 중단하고 평가하며, 장기 예방 중에는 간·신기능과 호흡기 증상을 정기적으로 확인
 {% endhint %}
 
 {% hint style="danger" %}
@@ -495,7 +504,7 @@ N39.0 부위가 명시되지 않은 요로감염 Urinary tract infection, site n
 > 보령니트로푸란토인 50 ㎎/C  2C  성관계 후 2시간 이내 1회
 > ```
 >
-> _✽ 성관계가 유일한 확인된 유발 인자인 경우에 적합; 6개월 이내 효과·부작용을 재평가하고 지속 또는 중단을 개별 결정_
+> _✽ 재발이 성관계와 뚜렷하게 연관되는 경우에 적합; 6개월 이내 효과·부작용을 재평가하고 지속 또는 중단을 개별 결정_
 
 > **처방례 2. 저용량 지속 예방 요법**
 >
@@ -503,7 +512,7 @@ N39.0 부위가 명시되지 않은 요로감염 Urinary tract infection, site n
 > 보령니트로푸란토인 50 ㎎/C  1C  취침 전
 > ```
 >
-> _✽ eGFR ≥45 ㎖/min/1.73 ㎡인지 확인하고, 장기 투여 중 간 기능과 새로 발생하는 기침·호흡곤란 등 폐 독성 증상을 모니터링. 6개월 이내 효과·부작용을 재평가_
+> _✽ 국내 허가상 CrCl ≥60 ㎖/min이고 G6PD 결핍·임신 말기 등 금기가 없는지 확인하고, 장기 투여 중 간 기능과 새로 발생하는 기침·호흡곤란 등 폐 독성 증상을 모니터링. 6개월 이내 효과·부작용을 재평가_
 
 > **처방례 3. 폐경 후 재발성 방광염 - 국소 질 estrogen**
 >
@@ -511,7 +520,7 @@ N39.0 부위가 명시되지 않은 요로감염 Urinary tract infection, site n
 > 유센스질크림 0.5 g  취침 전  ×2\~3주, 이후 주 2회
 > ```
 >
-> _✽ 폐경비뇨생식증후군이 동반된 경우 항생제 예방 투여에 앞서 우선 고려. 유방암 병력이 있으면 비호르몬 요법 반응과 종양 치료제를 고려하여 종양 담당의와 상의 후 개별 결정_
+> _✽ 폐경비뇨생식증후군이 동반된 경우 항생제 예방 투여에 앞서 우선 고려. 국내 유센스 허가상 유지 중 매 2\~3개월마다 4주 휴약하여 지속 필요성 판단. 유방암 병력은 국내 제품의 금기와 국제 지침의 개별 사용 권고가 다르므로 종양 담당의와 협의하여 판단_
 
 ***
 
@@ -520,7 +529,7 @@ N39.0 부위가 명시되지 않은 요로감염 Urinary tract infection, site n
 > **예방적 항생제, 왜 정해진 방식대로 복용해야 하나요?**
 >
 > 1. 성관계 후 1회 요법과 매일 저용량 지속 요법 중 환자의 생활 패턴에 맞는 방법을 선택함
-> 2. 지속 요법은 복용 중에만 예방 효과가 있으며, 임의로 중단하면 예방 효과가 즉시 사라짐
+> 2. 지속 요법은 복용 중 재발을 줄이며, 중단 후 다시 재발할 수 있음; 효과가 즉시 소실된다고 단정하지 않음
 > 3. 시작 후 6개월 이내 효과·부작용을 평가하고 지속 또는 중단 여부를 의사와 상의함
 > 4. 예방 요법 중 UTI 증상이 발생하면 예방약 복용을 중단하고 소변 배양 검사 후 다른 항생제로 급성기 치료를 시행함 - 내성이 확인되지 않았다면 이후 동일한 예방약으로 재개 가능
 
@@ -532,8 +541,8 @@ N39.0 부위가 명시되지 않은 요로감염 Urinary tract infection, site n
 > **methenamine hippurate 사용 시 주의사항**
 >
 > * potassium citrate·sodium citrate가 포함된 요 알칼리화제는 효과를 낮출 수 있으므로 함께 복용하지 않음
-> * sulfonamide계 항균제와 병용하지 않으며, 중증 신·간 기능 저하 또는 중증 탈수 상태에서는 사용하지 않음
-> * 국내 허가·유통 제품 여부를 확인한 후 적용함
+> * sulfonamide계 항균제와 병용하지 않으며, 신장애·중증 간장애·중증 탈수·고인산혈증에서는 사용하지 않음
+> * 유로렉스정의 국내 사용 대상 제한을 확인하고, 소변 pH 및 장기 투여 시 신·간기능 등을 점검함
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -578,3 +587,47 @@ N39.0 부위가 명시되지 않은 요로감염 Urinary tract infection, site n
 * 소변에 **피가 많이 섞이거나 혈전이 나오면서 소변을 보기 어려운 경우**에는 즉시 진료받고, 치료 후에도 혈뇨가 지속되거나 재발하면 조기에 평가받으십시오.
 * 항생제를 복용해도 2\~3일 이상 증상이 호전되지 않는 경우
 * 소변을 전혀 보지 못하는 경우
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* 질병관리청·대한항균요법학회. 2025 요로감염 항생제 사용 지침(2026 배포본: 요로감염 항생제 적정사용을 위한 실무지침). — 국내 국소형/전신형 분류, 약제 선택 및 기간.
+  [공식 지침](https://www.kdca.go.kr/bbs/kdca/263/307010/download.do)
+
+* European Association of Urology. EAU Guidelines on Urological Infections. 2026.
+  [공식 지침](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline)
+
+* IDSA. 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections. — 단기요법·경구 전환과 적용 제외군.
+  [공식 지침](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/)
+
+* Nicolle LE, et al. IDSA Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update.
+  [공식 지침](https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria/)
+
+* AAP. Clinical Practice Guideline for the Diagnosis and Treatment of Urinary Tract Infection in Children From 8 Days to 5 Years of Age. Pediatrics. 2026;158(4):e2026078565.
+  [https://doi.org/10.1542/peds.2026-078565](https://doi.org/10.1542/peds.2026-078565)
+
+* AUA/CUA/SUFU. Recurrent Uncomplicated Urinary Tract Infections in Women. 2025 Amendment.
+  [개정 권고문](https://www.auanet.org/documents/Guidelines/PDF/2025%20Guidelines/rUTI%20Update/rUTI%202025%20Amendment%20Summary%20Final.pdf)
+
+* NICE. Urinary tract infection (recurrent): antimicrobial prescribing. NG112(2024 개정). — 유발 요인 후/지속 예방 및 methenamine.
+  [권고문](https://www.nice.org.uk/guidance/ng112/chapter/recommendations)
+
+* Harding C, et al. Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial(ALTAR). BMJ. 2022;376:e068229.
+  [https://doi.org/10.1136/bmj-2021-0068229](https://doi.org/10.1136/bmj-2021-0068229)
+
+* Hayward G, et al. d-Mannose for Prevention of Recurrent Urinary Tract Infection Among Women: A Randomized Clinical Trial. JAMA Intern Med. 2024;184:619–628.
+  [https://doi.org/10.1001/jamainternmed.2024.0264](https://doi.org/10.1001/jamainternmed.2024.0264)
+
+* MHRA. Nitrofurantoin: reminder of the risks of pulmonary and hepatic adverse drug reactions. 2023.
+  [안전성 정보](https://www.gov.uk/drug-safety-update/nitrofurantoin-reminder-of-the-risks-of-pulmonary-and-hepatic-adverse-drug-reactions)
+
+* UKHSA. Diagnosis of urinary tract infections: quick reference tools for primary care.
+  [공식 진단 도구](https://www.gov.uk/government/publications/urinary-tract-infection-diagnosis/diagnosis-of-urinary-tract-infections-quick-reference-tools-for-primary-care)
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태.
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
