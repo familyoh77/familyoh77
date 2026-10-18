@@ -77,9 +77,10 @@ Long COVID, ME/CFS, POTS 등은 증상이 겹칠 수 있으나 각각 독립적�
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 새로운 객관적 변화, 예상과 다른 경과 또는 기능의 지속적 악화
-* 동반 신체 질환의 조절 불량, 우울·불안·외상·수면·물질사용 문제
-* 초기 치료에 반응하지 않거나 진단이 불확실한 경우
+* 새로운 객관적 변화, 예상과 다른 경과 또는 기능의 지속적 악화 `새로운 신체 질환`
+* 동반 신체 질환의 조절 불량 `동반 신체질환 악화`
+* 우울·불안·외상·수면·물질사용 문제 `동반 정신질환`
+* 초기 치료에 반응하지 않거나 진단이 불확실한 경우 `다른 진단 가능성`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -462,14 +463,7 @@ graph TD
 
 **Doctor behavior checklist**
 
-| ✔ 해야 할 것                     | ❌ 하지 말 것                             |
-| ---------------------------- | ------------------------------------ |
-| 중증도에 맞춘 계획 방문 + Red Flag 안전망 | 안전망 없이 "증상 있을 때 오세요" 또는 "정해진 날만 오세요" |
-| 주치의가 기록·검사·의뢰를 조정            | 필요한 전문의뢰까지 차단하거나 조정 없이 반복 의뢰         |
-| 새 증상과 객관적 변화를 경청하고 진찰        | SSD라는 이유로 새 증상을 자동 귀속                |
-| 일상 활동·직장·가정 기능을 함께 평가        | 증상 점수만 확인                            |
-| 환자에게 맞는 생물-심리-사회적 설명 공유      | 모든 환자를 "중추 감작" 하나로 설명                |
-| 불필요 약물·검사를 합의하여 감량·중단        | 설명 없이 검사·약물을 일방적으로 거절                |
+<table><thead><tr><th width="300">✔ 해야 할 것</th><th>❌ 하지 말 것</th></tr></thead><tbody><tr><td>중증도에 맞춘 계획 방문 + Red Flag 안전망</td><td>안전망 없이 "증상 있을 때 오세요" 또는 "정해진 날만 오세요"</td></tr><tr><td>주치의가 기록·검사·의뢰를 조정</td><td>필요한 전문의뢰까지 차단하거나 조정 없이 반복 의뢰</td></tr><tr><td>새 증상과 객관적 변화를 경청하고 진찰</td><td>SSD라는 이유로 새 증상을 자동 귀속</td></tr><tr><td>일상 활동·직장·가정 기능을 함께 평가</td><td>증상 점수만 확인</td></tr><tr><td>환자에게 맞는 생물-심리-사회적 설명 공유</td><td>모든 환자를 "중추 감작" 하나로 설명</td></tr><tr><td>불필요 약물·검사를 합의하여 감량·중단</td><td>설명 없이 검사·약물을 일방적으로 거절</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">진료 실패 패턴 - 피해야 할 함정</mark>
 
@@ -558,6 +552,7 @@ graph TD
 * F44 해리\[전환]장애 Dissociative \[conversion] disorders (기능성 신경학적 증상장애와 개념이 완전히 동일하지 않음)
   * F44 하위코드는 KCD의 해리\[전환]장애 분류이며 DSM-5-TR FNSD의 증상 명시자와 일대일로 대응하지 않음
 * F45 신체형장애 Somatoform disorders
+  * F45 하위코드는 DSM-5-TR 진단과 일대일로 대응하지 않음
 * F54 달리 분류된 장애 또는 질환과 연관된 심리적 및 행동적 요인 Psychological and behavioural factors associated with disorders or diseases classified elsewhere
 * F68.1 신체적 또는 심리학적인 증상 또는 불구의 가장이나 고의적 유발\[꾸며낸 장애] Intentional production or feigning of symptoms or disabilities, either physical or psychological \[factitious disorder]
 * Z76.5 꾀병자\[의식적 모방] Malingerer \[conscious simulation]
@@ -576,7 +571,7 @@ graph TD
 > 렉사프로 10 ㎎/T  1T  qd  조식 후
 > ※ 초기 부작용에 민감한 경우 5 ㎎으로 시작; 임상반응과 내약성에 따라 최대 20 ㎎/d
 > ※ 1~2주에 활성화·자살위험·조증 전환·부작용 평가, 4~6주에 표적질환 반응 평가
-> ※ 고령자(＞65세)는 5 ㎎으로 시작하고 최대 10 ㎎/d (용량 의존적 QT 연장)
+> ※ 고령자(65세 이상)는 5 ㎎으로 시작하고 통상 10 ㎎/d를 넘지 않도록 함(용량 의존적 QT 연장 위험)
 > ※ 유지기간과 감량 속도는 동반 질환의 경과와 항우울제 지침에 따라 결정
 > ```
 
@@ -683,6 +678,6 @@ graph TD
 * \[Lancet Neurol 2024] [Nielsen G, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. Lancet Neurol. 2024;23(7):675-686.](https://doi.org/10.1016/S1474-4422(24)00135-2) - 기능성 운동장애의 전문 물리치료 효과와 1차·2차 결과의 구분
 * \[Lancet Psychiatry 2020] [Goldstein LH, et al. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. Lancet Psychiatry. 2020;7(6):491-505.](https://doi.org/10.1016/S2215-0366(20)30128-0) - 해리성·기능성 발작의 CBT 효과와 1차 발작빈도 결과의 한계
 
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 동반 우울·불안·통증에 사용하는 약물의 적응증·안전성과 SSD/FND 자체에 대한 허가 여부

@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-#### <mark style="color:$primary;">번아웃(Burnout)</mark>
+### <mark style="color:orange;">번아웃(Burnout)</mark>
 
 * 성공적으로 관리되지 못한 만성적 직장(직업) 스트레스에서 비롯되는 증후군 <mark style="color:$info;">\[ICD-11 QD85]</mark>
 * ICD-11에서는 의학적 질환이나 정신질환 진단명이 아니라, 건강에 영향을 주는 직업적 현상(occupational phenomenon)으로 분류
@@ -17,7 +17,7 @@
 * 유병률 : 측정 도구·정의·직종·절단점에 따라 편차가 매우 커 일반 인구의 단일 수치를 제시하기 어려움
   * 의사 대상 182개 연구의 체계적 문헌고찰에서 번아웃 유병률은 0\~80.5%로 분포했으며, 연구마다 142가지 이상의 서로 다른 정의가 사용됨 <mark style="color:$info;">\[JAMA 2018]</mark>
 
-#### <mark style="color:$primary;">적응장애(Adjustment Disorder)</mark>
+### <mark style="color:orange;">적응장애(Adjustment Disorder)</mark>
 
 * 식별 가능한 스트레스 요인에 대한 반응으로 발생하는 임상적으로 유의한 정서·행동 증상과 기능 저하
 * 번아웃과 달리 독립된 정신질환 진단임
@@ -31,7 +31,7 @@
 * 번아웃 : 만성적인 직업 스트레스가 핵심
 * 적응장애 : 직장 상실·위협, 이별·이혼, 질병·사별, 재정적 위기, 이주 등 식별 가능한 스트레스 요인
 
-#### <mark style="color:$primary;">직업·환경적 요인 (번아웃의 주요 원인)</mark>
+### <mark style="color:orange;">직업·환경적 요인 (번아웃의 주요 원인)</mark>
 
 * 아래 요인은 Maslach-Leiter의 6대 직무 영역(업무량, 자율성, 보상, 공동체, 공정성, 가치)과 대응됨
 
@@ -45,7 +45,7 @@
    * 노력-보상 불균형 모델(Effort-Reward Imbalance, ERI) : 투입한 노력에 비해 보상(임금·인정·승진 기회)이 낮은 상황은 번아웃과 연관됨
 6. 고위험 직업군 : 콜센터·고객 응대직, 돌봄 노동자, 교사, 사회복지사, IT 개발자, 의료인
 
-#### <mark style="color:$primary;">개인적 요인</mark>
+### <mark style="color:orange;">개인적 요인</mark>
 
 * 완벽주의, 과도한 자기 요구, 낮은 자기효능감
 * 부적절한 대처 전략(회피, 반추)
@@ -53,7 +53,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-#### <mark style="color:$primary;">정서·인지 증상</mark>
+### <mark style="color:orange;">정서·인지 증상</mark>
 
 * 지속적인 피로감, 탈진, 무기력감
 * 냉소, 무관심, 직무 의욕 상실
@@ -61,13 +61,13 @@
 * 좌절감, 무력감, 직업적 성취감 감소
 * 불안, 과민성, 기분 저하
 
-#### <mark style="color:$primary;">신체 증상</mark>
+### <mark style="color:orange;">신체 증상</mark>
 
 * 수면 장애(불면 또는 과수면), 피로 회복 불량
 * 두통, 근육 긴장·통증, 위장 증상(복통, 소화불량)
 * 심계항진 등 자율신경 증상
 
-#### <mark style="color:$primary;">행동 증상</mark>
+### <mark style="color:orange;">행동 증상</mark>
 
 * 직무 회피, 잦은 지각·결근, 업무 효율 저하
 * 프레젠티즘(Presenteeism) : 질병이나 소진 상태에서도 결근하지 않고 출근하는 행동, 그리고 그로 인해 집중력·업무 기능이 현저히 떨어진 채 근무하는 상태
@@ -75,7 +75,7 @@
 * 사회적 위축, 대인 관계 어려움
 * 알코올·카페인 섭취 증가, 진정제·수면제 사용 증가, 흡연 증가
 
-#### <mark style="color:$primary;">번아웃 아형 (Burnout Subtypes)</mark>
+### <mark style="color:orange;">번아웃 아형 (Burnout Subtypes)</mark>
 
 <table><thead><tr><th width="172">아형</th><th>핵심 특징</th><th>임상 단서</th></tr></thead><tbody><tr><td><strong>과부하형</strong><br>(Frenetic)</td><td>과도한 업무·헌신; 한계를 무시하고 밀어붙임 [overload]</td><td>"더 하면 된다" "조금만 더 버티면"</td></tr><tr><td><strong>무자극형</strong><br>(Under-challenged)</td><td>단조롭고 성장 없는 업무; 지루함·냉소 주도 [lack of development]</td><td>"이 일이 의미 없다" "능력 낭비 같다"</td></tr><tr><td><strong>방치형</strong><br>(Worn-out)</td><td>무력감·포기; 노력 자체를 포기한 상태 [neglect]</td><td>"어차피 안 된다" "해봤자 달라지는 게 없다"</td></tr></tbody></table>
 
@@ -94,20 +94,21 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 당일 위험도 평가에서 자살사고는 있으나 현재 의도·계획·수단 접근성·최근 시도가 없고 안전 확보가 가능한 경우 - 안전계획 수립 후 수일 내 재접촉·전문 진료 연계
+* 자살사고가 있으나 현재 의도·계획·수단 접근성·최근 시도가 없고 안전 확보가 가능한 경우
 * 주요우울장애·양극성장애·물질사용장애가 의심되고 기능 저하가 심함
 * 직장·가정생활을 거의 수행할 수 없거나 알코올·수면제 사용이 빠르게 증가하는 경우
 * 항우울제 시작·증량 후 초조·정좌불능·자살사고 악화 또는 경조증 증상 `SSRI 활성화 증후군` `양극성 전환`
+* 피로에 의도하지 않은 체중 감소·발열·야간 발한 동반 `악성종양` `만성 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 증상이 지속·악화되거나 수면·업무·가정생활에 유의한 지장을 주는 경우 `적응장애` `우울장애`
 * 반복적인 직업 관련 병가, 기능 회복 지연 또는 복직 후 재악화
 * 직장 내 괴롭힘 또는 반복적 부정적 사건 경험(현재 안전 위협이나 심한 재경험 증상이 없을 때) `PTSD` `CPTSD`
-* 피로에 체중 감소·발열·야간 발한·기립성 증상 등 전신 증상 동반 `Long COVID` `ME/CFS`
+* 피로에 활동 후 증상 악화·기립불내성·인지 변화 동반 `Long COVID` `ME/CFS`
 
 {% hint style="warning" %}
-자살사고가 확인되면 위험도 평가(의도·계획·수단·과거 시도·안전 확보 가능성)는 항상 당일 시행하며, 뒤로 미루지 않음
+자살사고가 확인되면 위험도 평가(의도·계획·수단·과거 시도·안전 확보 가능성)는 항상 당일 시행하며, 뒤로 미루지 않음. 임박 위험이 없으면 안전계획을 세우고 수일 내 재접촉·전문 진료로 연계
 {% endhint %}
 
 ## <mark style="color:green;">진단</mark>
@@ -139,7 +140,7 @@ WHO는 고용 중 선별 프로그램의 잠재적 이득이 위해보다 큰지
 #### <mark style="color:$primary;">번아웃 단일 문항 선별 (Single-item Burnout Measure)</mark>
 
 * 단일 질문 : "전반적으로, 본인이 생각하는 번아웃의 정의에 비추어 현재 번아웃 정도를 어떻게 평가하십니까?"
-* 답변 _<mark style="color:$info;">(Ref. Rohland 2004; Dolan, JGIM 2015)</mark>_
+* 답변 <mark style="color:$info;">\[Stress Health 2004; JGIM 2015]</mark>
   * 1점 : 일(업무)을 즐기고 있으며, 번아웃 증상이 전혀 없다.
   * 2점 : 가끔 스트레스를 받고 예전만큼 기운이 없을 때도 있지만, 번아웃이라고 느끼지는 않는다.
   * 3점 : 분명히 번아웃이 진행되고 있으며, 신체적·정서적 소진 같은 번아웃 증상이 하나 이상 있다.
@@ -218,7 +219,7 @@ E. 스트레스 요인 또는 그 결과가 종료된 뒤 증상이 추가로 6�
 
 ### <mark style="color:orange;">감별</mark>
 
-<table data-search="false"><thead><tr><th width="92">항목</th><th>번아웃</th><th>적응장애</th><th>주요우울증</th></tr></thead><tbody><tr><td>분류</td><td>직업적 현상; 의학적 질환이 아님</td><td>독립된 정신질환</td><td>독립된 정신질환</td></tr><tr><td>관련 요인</td><td>만성 직업 스트레스</td><td>식별 가능한 특정 스트레스 요인</td><td>다양하며 스트레스 요인이 없어도 발생</td></tr><tr><td>맥락</td><td>정의상 직업적 맥락</td><td>스트레스 요인과 밀접히 연관</td><td>직업·생활 전반에 영향</td></tr><tr><td>감정 변화</td><td>직장에서 벗어나면 호전될 수 있으나 감별 기준은 아님</td><td>스트레스 요인 언급·상기 시 악화될 수 있음</td><td>상황과 무관하게 지속적·전반적으로 저하될 수 있음</td></tr><tr><td>자기 평가</td><td>주로 직업적 효능감 저하</td><td>증상 양상에 따라 다양</td><td>전반적 자기 비하·무가치감·죄책감 가능</td></tr><tr><td>경과</td><td>업무 조건과 회복 기회에 따라 다양</td><td>스트레스 요인·결과가 지속되면 장기화 가능</td><td>스트레스 해소 후에도 지속 가능</td></tr><tr><td>핵심 증상</td><td>소진·정신적 거리감/냉소·효능감 저하</td><td>스트레스 요인에 대한 집착·반추, 적응 실패와 기능 저하</td><td>지속적 우울감 또는 무쾌감과 동반 증상</td></tr><tr><td>약물</td><td>승인된 약물 없음</td><td>확립된 특이적 약물치료 없음; 심리사회적 개입 우선</td><td>진단·중증도에 따라 항우울제와 심리치료 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="92">항목</th><th>번아웃</th><th>적응장애</th><th>주요우울장애</th></tr></thead><tbody><tr><td>분류</td><td>직업적 현상; 의학적 질환이 아님</td><td>독립된 정신질환</td><td>독립된 정신질환</td></tr><tr><td>관련 요인</td><td>만성 직업 스트레스</td><td>식별 가능한 특정 스트레스 요인</td><td>다양하며 스트레스 요인이 없어도 발생</td></tr><tr><td>맥락</td><td>정의상 직업적 맥락</td><td>스트레스 요인과 밀접히 연관</td><td>직업·생활 전반에 영향</td></tr><tr><td>감정 변화</td><td>직장에서 벗어나면 호전될 수 있으나 감별 기준은 아님</td><td>스트레스 요인 언급·상기 시 악화될 수 있음</td><td>상황과 무관하게 지속적·전반적으로 저하될 수 있음</td></tr><tr><td>자기 평가</td><td>주로 직업적 효능감 저하</td><td>증상 양상에 따라 다양</td><td>전반적 자기 비하·무가치감·죄책감 가능</td></tr><tr><td>경과</td><td>업무 조건과 회복 기회에 따라 다양</td><td>스트레스 요인·결과가 지속되면 장기화 가능</td><td>스트레스 해소 후에도 지속 가능</td></tr><tr><td>핵심 증상</td><td>소진·정신적 거리감/냉소·효능감 저하</td><td>스트레스 요인에 대한 집착·반추, 적응 실패와 기능 저하</td><td>지속적 우울감 또는 무쾌감과 동반 증상</td></tr><tr><td>약물</td><td>승인된 약물 없음</td><td>확립된 특이적 약물치료 없음; 심리사회적 개입 우선</td><td>진단·중증도에 따라 항우울제와 심리치료 고려</td></tr></tbody></table>
 
 * 번아웃과 우울증은 함께 나타날 수 있으므로 PHQ-9 등으로 선별하되, 반드시 진단 면담으로 확인
 * 번아웃과 우울증 감별 시 참고 사항
@@ -297,7 +298,7 @@ graph TD
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 개인 대상 개입만으로 직업 환경의 위험을 대체할 수 없으므로 조직·업무 개입과 병행
-  * 의료인 번아웃 메타분석에서 개인 대상·조직 대상 개입 모두 번아웃 감소 효과를 보였으며, 조직 대상 개입의 효과가 더 컸음 <mark style="color:$info;">\[Lancet 2016; JAMA Intern Med 2017]</mark>
+  * 의사 대상 번아웃 메타분석에서 개인 대상·조직 대상 개입 모두 번아웃 감소 효과를 보였으며 <mark style="color:$info;">\[Lancet 2016]</mark>, 조직 대상 개입의 효과가 더 컸다는 분석도 있음 <mark style="color:$info;">\[JAMA Intern Med 2017]</mark>
 * 인지행동치료(CBT) : 부적응적 사고와 대처 방식을 다루는 선택지. WHO는 정서적 고통이 있는 근로자에게 CBT·마음챙김 기반 개입 또는 문제 해결 훈련을 고려하도록 권고하나 조건부·매우 낮은 확실성임; 적응장애 질환 특이적 근거도 낮음\~매우 낮음
 * 마음챙김 기반 스트레스 감소(MBSR) : 표준 프로그램은 흔히 8주로 구성되며 스트레스·소진 감소에 일부 RCT 근거가 있으나 효과 크기와 지속성은 연구마다 다름
 * 문제 해결 치료(PST, Problem-Solving Therapy) : 조정 가능한 스트레스 요인과 대처 방안을 구조화하는 데 활용. WHO 권고 대상 개입에 포함되나(조건부·매우 낮은 확실성) 번아웃·적응장애에 대한 질환 특이적 근거는 제한적
@@ -312,7 +313,7 @@ graph TD
 
 * 가치관 면담 : 성과와 자기 가치를 과도하게 동일시하는지 탐색하고, 직업 외 정체성과 회복 목표를 함께 설정
 
-#### <mark style="color:$primary;">생활 습관 중재</mark>
+### <mark style="color:orange;">생활 습관 중재</mark>
 
 * 신체 상태와 선호에 맞춘 규칙적인 신체활동을 작은 양부터 시작 - 활동 목표는 환자의 기능과 동반 질환에 따라 조정
   * WHO는 정서적 고통이 있는 근로자에게 신체활동을 권고하나, 조건부 권고이며 근거 확실성은 매우 낮음
@@ -321,7 +322,7 @@ graph TD
 * 카페인·알코올 섭취 제한
 * 사회적 지지 강화 : 가족·동료와의 연결 유지
 
-#### <mark style="color:$primary;">직업 환경 중재</mark>
+### <mark style="color:orange;">직업 환경 중재</mark>
 
 * 업무량·근무시간·일정·자율성·역할 명확성·의사소통·괴롭힘·조직 내 공정성 등 조정 가능한 위험 요인을 확인
 * 필요 시 환자의 동의와 비밀 보장을 전제로 관리자·인사·산업보건 담당자와 협의하여 합리적 업무 조정, 단축 근무, 직무 전환 또는 병가 고려
@@ -344,7 +345,7 @@ graph TD
   * 항우울제 유지기간은 동반 질환의 진단·중증도와 관해 시점을 기준으로 결정
 * 불면이 심하면 [불면증](029_-insomnia-sleep-disorder.md)과 수면무호흡증·물질·약물 원인을 평가하고 비약물치료를 우선하며, 약물은 필요성과 위험을 평가해 단기간 고려
 
-#### <mark style="color:$primary;">불안·자율신경 증상 동반 시</mark>
+### <mark style="color:orange;">불안·자율신경 증상 동반 시</mark>
 
 * 지속적인 불안은 불안장애·공황장애 등 별도 질환 여부를 확인하고 해당 지침에 따라 치료
 * propranolol : 무대공포증·발표 불안 등 특정 수행 상황의 말초 자율신경 증상에 제한적으로 사용할 수 있으나 국내 허가 외 사용 [<mark style="color:blue;">\[인데놀\]</mark>](016_-migraine.md#v)
@@ -352,7 +353,7 @@ graph TD
   * 천식·서맥·저혈압·전도장애·비대상성 심부전과 저혈당 인지 저하 위험 확인
 * 항우울제 : 활성화·진정·인지 효과는 개인차가 크고 주로 MDD 환자에서 연구되었으며, 번아웃 또는 적응장애에서 특정 약물이 우월하다는 비교 근거는 없음
 
-#### <mark style="color:$primary;">단기 불안·불면 완화</mark>
+### <mark style="color:orange;">단기 불안·불면 완화</mark>
 
 * 수면·급성 불안 증상에 약물이 필요하면 가능한 짧게 사용하고 졸림·운전·낙상·상호작용 위험을 안내
 * trazodone : 불면증에 흔히 허가 외 사용되나 국내 허가 적응증은 우울증이며, AASM(2017) 및 VA/DoD(2025) 지침은 만성 불면장애 치료에 사용하지 않도록 제안함 <mark style="color:blue;">\[</mark>[<mark style="color:blue;">트리티코</mark>](029_-insomnia-sleep-disorder.md#undefined-16)<mark style="color:blue;">]</mark>
@@ -366,7 +367,7 @@ graph TD
   * 고령자는 원칙적으로 회피
   * 항우울제 효과가 나타나기 전 2\~4주 동안 불안·불면을 덮기 위해 BZD를 함께 처방하는 브릿지(bridging) 요법을 일률적으로 사용하지 않음 - 초기 4주 이내 단기 이득이 보고되었으나 이후에는 항우울제 단독과 차이가 없고, 계획한 기간을 넘겨 장기 사용으로 이어지기 쉬움
 
-#### <mark style="color:$primary;">천연물·영양 요법 - 근거 수준</mark>
+### <mark style="color:orange;">천연물·영양 요법 - 근거 수준</mark>
 
 * 번아웃에 대한 확립된 치료법이 없는 탓에 검증되지 않은 건강 제품들이 널리 유통되고 있음. 아래는 근거 수준에 따른 분류이며, 환자 상담 시 근거 기반 정보를 제공하는 데 활용한다.
 
@@ -398,7 +399,7 @@ _<mark style="color:$info;">✽ 다음 처방례는 번아웃 치료가 아니�
 > ※ 불안장애의 세부 진단에 따라 약제별 국내 허가 적응증과 근거가 다르므로 해당 진단의 치료 지침·허가사항을 확인
 > ※ 시작 전 조증·경조증 병력과 자살 위험 확인
 > ※ 초기 활성화 증상이 나타나면 정상 반응으로 단정하지 말고 초조·정좌불능·자살사고 악화·조증/경조증 전환 여부를 평가
-> ※ 65세 이상 고령자 : 초회 용량을 절반으로 하고 최대 용량을 낮게 고려(국내 허가사항) - 통상 1일 10 ㎎ 이하로 유지(QT 연장 위험)
+> ※ 고령자(65세 이상)는 5 ㎎으로 시작하고 통상 10 ㎎/d를 넘지 않도록 함(용량 의존적 QT 연장 위험)
 > ※ 유지기간은 동반 질환의 진단·중증도와 관해 시점을 기준으로 결정
 > ```
 
@@ -539,7 +540,7 @@ _<mark style="color:$info;">✽ 다음 처방례는 번아웃 치료가 아니�
 * [World Health Organization. WHO Guidelines on Mental Health at Work. 2022.](https://www.who.int/publications/i/item/9789240053052) - 조직 수준 중재·관리자 교육·업무 복귀와 근거 수준
 * \[JAMA 2018] [Rotenstein LS, et al. Prevalence of Burnout Among Physicians: A Systematic Review. JAMA. 2018;320(11):1131-1150.](https://doi.org/10.1001/jama.2018.12777) - 의사 번아웃 유병률 추정과 정의·도구에 따른 변이
 * [Maslach C, et al. Maslach Burnout Inventory Manual. 4th ed. Mind Garden; 2016.](https://www.mindgarden.com/117-maslach-burnout-inventory-mbi) - MBI의 하위 영역·측정·해석; 척도 사용 조건 확인
-* [Rohland BM, Kruse GR, Rohrer JE. Validation of a single-item measure of burnout against the Maslach Burnout Inventory among physicians. Stress Health. 2004;20(2):75-79.](https://doi.org/10.1002/smi.1002) - 의사 대상 단일 문항 번아웃 측정의 타당도와 적용 한계
+* \[Stress Health 2004] [Rohland BM, Kruse GR, Rohrer JE. Validation of a single-item measure of burnout against the Maslach Burnout Inventory among physicians. Stress Health. 2004;20(2):75-79.](https://doi.org/10.1002/smi.1002) - 의사 대상 단일 문항 번아웃 측정의 타당도와 적용 한계
 * \[JGIM 2015] [Dolan ED, et al. Using a single item to measure burnout in primary care staff: a psychometric evaluation. J Gen Intern Med. 2015;30(5):582-587.](https://doi.org/10.1007/s11606-014-3112-6) - 일차의료 직원의 단일 문항 측정; 임상 확진 검사와 구분
 * \[Lancet 2016] [West CP, et al. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281.](https://doi.org/10.1016/S0140-6736(16)31279-X) - 의사 대상 개인·조직 중재의 효과와 연구 간 이질성
 * \[JAMA Intern Med 2017] [Panagioti M, et al. Controlled Interventions to Reduce Burnout in Physicians: A Systematic Review and Meta-analysis. JAMA Intern Med. 2017;177(2):195-205.](https://doi.org/10.1001/jamainternmed.2016.7674) - 의사 번아웃 중재 효과와 조직 수준 접근의 근거
@@ -549,7 +550,7 @@ _<mark style="color:$info;">✽ 다음 처방례는 번아웃 치료가 아니�
 * \[NASEM, 2024] [National Academies of Sciences, Engineering, and Medicine. A Long COVID Definition: A Chronic, Systemic Disease State with Profound Consequences. 2024.](https://www.nationalacademies.org/read/27768/chapter/3) - 지속 피로·활동 후 증상 악화의 감별을 위한 Long COVID 정의
 * [Montero-Marín J, et al. A new definition of burnout syndrome based on Farber's proposal. J Occup Med Toxicol. 2009;4:31.](https://doi.org/10.1186/1745-6673-4-31) - 번아웃 하위 유형의 개념적 제안; 공식 진단 분류와 구분
 
-### <mark style="color:orange;">허가·제도 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [통계청. 제9차 한국표준질병·사인분류 개정 고시. 통계청고시 제2025-299호. 2025.](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000260878) - 국내 진단 분류·코딩의 확인 자료; ICD-11 정의와 국내 적용을 구분
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - escitalopram·lorazepam·propranolol·trazodone의 적응증·안전성과 번아웃 자체에 대한 허가 여부
