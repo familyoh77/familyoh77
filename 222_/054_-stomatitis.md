@@ -266,9 +266,47 @@
 ***
 
 ```mermaid
+flowchart TD
+    A([구강 궤양 환자]) --> PRE["Red Flags의 즉각 조치·<br/>당일~수일 내 평가 항목?"]
+    PRE --> |예| RF["포도막염 의심 시 <br/>당일 안과 평가. <br/>그 외 Red Flags에 따라 조치"]
+    PRE ---> |아니오| DIFF["형태·분포·병력"]
+    DIFF --> |수포·급성 치은염| HSV["<u>HSV 감별</u><br/>필요시 항바이러스제<br/>스테로이드 <br/>단독 금지"]
+    DIFF --> |손발 발진<br/>·연구개 궤양| ENT["<u>수족구병<br/>·헤르판지나</u><br/>대증 치료<br/>·탈수 예방"]
+    DIFF --> |닦이는 백색 plaque| CAND["<u>칸디다증 감별</u><br/>유발요인 교정<br/>·항진균제"]
+    DIFF --> |외상 원인 명확| TRAUMA["원인 제거<br/>·대증 치료<br/>2주 내 치유 확인"]
+    DIFF ---> |전형적 <br/>재발 궤양| RAS(["RAS 의심"])
+    DIFF --> |약물 시작 또는 <br/>증량 후 발생| DRUG["<u>약물 유발 궤양 <br/>의심</u><br/>원인 약물 확인<br/>·처방의와 상의"]
+
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+style RAS fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class PRE,DIFF,SEV,CAUSE yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class HSV,ENT,CAND,TRAUMA,DRUG,RAS,LOCAL sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class RF blue
 ```
 
 ```mermaid
+flowchart TD
+    RAS(["RAS 의심"]) --> SEV["비전형·빈번·중증<br/>또는 전신 증상?"]
+    SEV --> |아니오| LOCAL["국소 스테로이드<br/>통증 조절·생활 교정"]
+    SEV --> |예| WORK["원인 재평가<br/>CBC·ferritin·B12·folate<br/>필요시 추가 검사·의뢰"]
+    WORK --> CAUSE["교정 가능한 원인?"]
+    CAUSE --> |있음| CORRECT["결핍·약물·기저질환 교정<br/>국소 치료 병행"]
+    CAUSE --> |없음 또는 지속| REFER["구강내과·피부과 의뢰<br/>전신 치료 필요성 평가"]
+    REFER --> SYSTEMIC["전문의 감독하 선택적 치료<br/>단기 경구 스테로이드 또는 colchicine 등<br/>허가 외 사용·모니터링"]
+    LOCAL --> FOLLOW["1~2주 내 치유 확인<br/>재발 양상 추적"]
+    CORRECT --> FOLLOW
+    SYSTEMIC --> FOLLOW
+
+style RAS fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class PRE,DIFF,SEV,CAUSE yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class WORK,CORRECT,SYSTEMIC sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class REFER,FOLLOW blue
 ```
 
 <p align="center"><strong>구강 궤양 감별 및 재발성 아프타 궤양(RAS) 진단·치료 알고리듬</strong></p>
