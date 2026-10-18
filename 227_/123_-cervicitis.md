@@ -18,7 +18,7 @@
 #### <mark style="color:$primary;">감염성 원인</mark>
 
 * Chlamydia trachomatis, Neisseria gonorrhoeae, Trichomonas vaginalis
-* 세균성 질증·질내균총 이상이 동반되거나 경부염 소견과 관련될 수 있음 (☞ [음문질감염증](122_-vulvovaginal-infections.md))
+* 세균성 질증·질내균총 이상이 동반되거나 경부염 소견과 관련될 수 있음 (☞ [외음질염](122_-vulvovaginal-infections.md))
 * Herpes simplex virus (특히 초발 HSV-2) - 수포·궤양성 병변 동반 시 고려
 * Mycoplasma genitalium - 지속·재발성 자궁경부염에서 고려되는 원인균. Routine cervicitis에서 일률적 검사는 권고되지 않으며, 지속 증상이 있고 재노출·복약불이행 등이 배제된 경우 NAAT를 고려
 * 특히 STI 위험이 낮은 여성에서는 상당수에서 특정 병원체가 확인되지 않음
@@ -39,37 +39,41 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 심한 하복부 통증, 복막 자극 징후, 고열·구토, 골반농양 의심 → PID 및 다른 급성 복증의 응급 평가 (☞ [골반염](pelvic-inflammatory-disease.md))
-* 임신부의 복통 또는 질 출혈 → 자궁외임신·유산·조기진통 등 감별을 위해 즉시 산과 평가
-* 빈맥·저혈압·의식 변화 등 패혈증 징후 동반
+* 심한 하복부 통증, 복막 자극 징후, 고열·구토 또는 골반농양 의심
+* 임신 중 복통 또는 질 출혈
+* 빈맥·저혈압·의식 변화 등 패혈증 징후
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
-* 골반통·하복통과 자궁경부 운동통, 자궁 압통, 부속기 압통 중 하나 이상 → 발열이 없어도 PID 감별 및 경험적 치료 필요성을 당일 평가
-* 임신 중 클라미디아 또는 임균 감염 확인 → 신속히 치료하고 산과 진료와 추적을 연계
+* 골반통·하복통과 자궁경부 운동통, 자궁 압통, 부속기 압통 중 하나 이상(PID 의심; 발열은 필수 조건이 아님)
+* 임신 중 클라미디아 또는 임균 감염 확인
+* 자궁경부 육안적 종괴·궤양 또는 폐경 후 새로운 출혈
 
-<mark style="color:$info;">**외래 추적**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 확인된 클라미디아·임균 감염 및 여성의 트리코모나스 감염 치료 후 약 3개월에 재감염 검사
-* 적절한 치료 후에도 경부염 소견이 지속·재발하는 경우 → 재노출·복약·세균성 질증 등을 재평가하고 M. genitalium 검사 고려
-* 성 파트너 치료 미이행이 의심되는 경우 → 재감염 여부를 평가하고 원인균에 따라 치료
+* 적절한 치료 후에도 경부염 소견 지속·재발
+* 지속·반복되는 성관계 후 출혈 또는 월경 사이 출혈
+* 성 파트너 미치료 또는 재노출 의심
 
 ## <mark style="color:green;">진단</mark>
+
+다음 중 하나 또는 둘 다 있으면 자궁경부염을 시사함. 병원체 확인은 별도 검사로 판단함
 
 1. 농성 또는 점액농성 자궁경부 내 삼출물(mucopurulent cervicitis 소견)
 2. cotton swab 등 부드러운 마찰에 의해 자궁경부 내 출혈 유발
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
-* C. trachomatis, N. gonorrhoeae 검사 : 질 검체(자가 채취 또는 의료진 채취), 자궁경부 검체 또는 소변 NAAT (☞ 실험실 검사 챕터 - 링크 연결 필요)\
+* C. trachomatis, N. gonorrhoeae 검사 : 질 검체(자가 채취 또는 의료진 채취), 자궁경부 검체 또는 소변 NAAT\
   ✽국내 의료기관별 NAAT 접근성에 차이가 있을 수 있어, 가능한 경우 시행하고 여건상 어려운 경우 임상적 위험도에 따라 경험적 치료를 고려
-* 세균성 질증, trichomoniasis 평가 (☞ [음문질감염증](122_-vulvovaginal-infections.md))\
+* 세균성 질증, trichomoniasis 평가 (☞ [외음질염](122_-vulvovaginal-infections.md))\
   ✽Trichomonas는 wet mount의 민감도가 낮으므로(약 50%), 의심 증상이 있으면서 wet mount가 음성이면 NAAT 등 추가검사를 고려
-* 생식기 궤양 등 HSV 감염을 시사하는 병변이 있는 경우 병변 PCR 등으로 평가 (☞ 생식기 헤르페스 챕터 - 링크 연결 필요); 자궁경부염 소견만으로 HSV 검사를 routine하게 시행할 근거는 부족
+* 생식기 궤양 등 HSV 감염을 시사하는 병변이 있는 경우 병변 PCR 등으로 평가; 자궁경부염 소견만으로 HSV 검사를 routine하게 시행할 근거는 부족
 * 자궁경부염이 의심되는 환자에서 HIV 및 매독 검사 시행
-* 표준 치료 후에도 지속·재발하는 경우 M. genitalium NAAT 고려
+* 표준 치료 후에도 지속·재발하는 경우 M. genitalium NAAT를 시행하고 가능한 경우 내성 검사 병행
+* U. parvum, U. urealyticum, M. hominis 및 GBS의 일상적 검사는 권고하지 않음. 다중 PCR에서 양성이라는 이유만으로 경부염 원인균으로 단정하거나 치료하지 않음 <mark style="color:$info;">[CDC 2021]</mark>
 * 가임기 골반통·비정상 출혈이 있는 경우 임신 검사와 자궁외임신 등 다른 원인 평가. PID 의심 시 경부 NAAT 음성만으로 상부 생식기 감염을 배제하지 않음
 
 ### <mark style="color:orange;">감별 진단</mark>
@@ -90,7 +94,7 @@ graph TD
     D --> I{결과 전 치료?<br/>STI 고위험·추적 불확실·NAAT 불가}
     I -->|아니오| J[검사 결과 확인<br/>양성이면 원인균별 치료]
     I -->|예| E{임균도 치료할 필요?<br/>노출·개별 위험·지역 유병률}
-    E -->|예| F[ceftriaxone 500 ㎎ IM 1회<br/>+ doxycycline 100 ㎎ bid ×7일]
+    E -->|예| F[ceftriaxone 500 ㎎ IM 1회<br/>(≥150 ㎏: 1 g)<br/>+ doxycycline 100 ㎎ bid ×7일]
     E -->|아니오| G[doxycycline 100 ㎎ bid ×7일]
     F --> H[결과에 따라 치료 조정<br/>원인균 확인 시 파트너·재검 계획]
     G --> H
@@ -115,7 +119,8 @@ graph TD
 
 * 경험적 치료 원칙(CDC 2021) : 25세 미만, 새 파트너, 파트너의 다른 성 파트너 또는 STI 등 감염 위험이 높은 경우, 추적관찰이 불확실하거나 NAAT가 불가능한 경우에는 결과 전 Chlamydia 치료를 시작하고 임균 치료 병용 필요성을 평가. 임균 약제 병용은 개별 위험도와 지역 유병률을 고려. 저위험이면서 검사가 가능하고 추적이 확실한 경우에는 결과 확인까지 치료를 보류할 수 있음
 * 위험 요인 회피 : 잦은 질 세척(douching) 회피, 성관계 시 콘돔 사용, 화학적 자극(질 세정제, 향료 함유 제품, 살정제 등)을 피함
-* 추적 관리 : 확인된 클라미디아·임균 및 여성의 트리코모나스 감염은 치료 약 3개월 후 재감염 검사를 계획. 임신 중 클라미디아는 약 4주 후 치료 확인 NAAT도 시행
+* 추적 관리 : 치료 후 경부염 소견의 호전을 확인하고, 확인된 클라미디아·임균 및 여성의 트리코모나스 감염은 약 3개월 후 재감염 검사를 계획. 임신 중 클라미디아는 약 4주 후 치료 확인 NAAT도 시행
+* 임균 치료 확인 검사(TOC) : 국내 STI 2023 지침은 비뇨생식기 감염도 치료 확인을 권고하며 NAAT는 치료 종료 3주 이후 시행. 인두 감염이 동반되면 7\~14일에 TOC를 시행함. 이는 3개월 재감염 검사와 별개이며, 적절히 치료한 단순 비뇨생식기 임질에서 일상적 TOC가 불필요하다는 CDC 권고와 차이가 있음 <mark style="color:$info;">[국내 STI 2023; CDC 2021, Gonorrhea]</mark>
 * 환자와 성 파트너의 치료가 모두 끝나고 증상이 호전될 때까지 성관계를 피함. 경부염에서 클라미디아·임균 치료가 포함된 경우 7일 요법은 완료할 때까지, 단회요법은 투여 후 7일까지 금욕
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -133,7 +138,7 @@ graph TD
 
 * 원칙 (CDC STI Treatment Guidelines, 2021) : 25세 미만 또는 새 파트너·STI 파트너 등의 감염 위험이 높거나, 추적관찰이 불확실하거나, NAAT가 불가능하면 결과 전 치료를 시작. 저위험이고 검사와 추적이 가능하면 결과 확인까지 보류 가능. 임균 약제 병용은 개별 위험도·지역 유병률에 따라 판단
 * doxycycline 100 ㎎ bid ×7일 - 1차 선택제
-* ceftriaxone 500 ㎎ IM 1회 병용 <mark style="color:blue;">\[트리악손]</mark> : 임균 감염 위험이 높은 경우(임균 감염 파트너, 최근 임균 노출 등) 또는 지역사회 임균 유병률이 높은 경우. 체중 150 ㎏ 미만 기준이며, 150 ㎏ 이상이면 1 g IM 1회
+* ceftriaxone 500 ㎎ IM 1회 병용 <mark style="color:blue;">\[트리악손]</mark> : 임균 감염 위험이 높은 경우(임균 감염 파트너, 최근 임균 노출 등) 또는 지역사회 임균 유병률이 높은 경우. 체중 150 ㎏ 미만 기준이며, 150 ㎏ 이상이면 1 g IM 1회(CDC 기준). 국내 STI 2023은 500 ㎎ 또는 1 g IM/IV 1회로 제시함; 이 챕터의 처방례는 CDC의 체중별 IM 요법을 적용
 * azithromycin 1 g 경구 1회 <mark style="color:blue;">\[지스로맥스]</mark> - 비임신 성인 경부염 치료의 대안. doxycycline 복약순응도가 우려되는 경우 고려하되, 동반 직장 클라미디아 감염에서는 치료 효능이 낮을 수 있음. 임균 감염 치료를 대체하지 않음
 
 #### <mark style="color:$primary;">임신부</mark>
@@ -144,20 +149,25 @@ graph TD
 
 ### <mark style="color:orange;">Trichomonas 동반</mark>
 
-* metronidazole 500 ㎎ bid ×7일 <mark style="color:blue;">\[후라시닐정 250 ㎎]</mark> - 여성에서는 단회 2 g 요법보다 치료 성공률이 높아 우선 권고. 후라시닐정은 1정 250 ㎎이므로 1회 2정 복용. ✽국내 해당 제품의 트리코모나스증 허가 용법(250 ㎎ bid ×10일)과 CDC 권고 용법이 다름
+* metronidazole 500 ㎎ bid ×7일 <mark style="color:blue;">\[후라시닐정 250 ㎎]</mark> - 여성에서는 단회 2 g 요법보다 치료 성공률이 높아 우선 권고. 후라시닐정은 1정 250 ㎎이므로 1회 2정 복용. ✽국내 STI 2023·CDC 2021 권고 요법이며, 국내 해당 제품의 트리코모나스증 허가 용법(250 ㎎ bid ×10일)과 다름
 * tinidazole 2 g 1회 <mark style="color:blue;">\[티니다진]</mark> - 대안 요법. 임신 중에는 피함
+* ✽후라시닐정 국내 허가는 임신 첫 3개월 이내 금기, 투여 중 및 투여 이후 24시간 이상 수유 중단, 투여 중 및 종료 후 최소 3일 금주를 명시함. CDC의 임신 전 기간 치료 권고·수유 및 음주 관련 판단과 구분하고 임신 초기에는 산과와 협의함 <mark style="color:$info;">[국내 제품 허가사항; CDC 2021]</mark>
+* 여성의 TV 치료 후 약 3개월 재검. 지속·재발로 조기 NAAT를 시행할 때에는 치료 종료 후 최소 3주 경과가 필요함(잔존 핵산에 의한 위양성 방지)
 
 ### <mark style="color:orange;">Herpes 동반</mark>
 
-* acyclovir, valacyclovir, famciclovir - 세부 용량은 생식기 헤르페스 챕터 참고(☞ 링크 연결 필요)
+* acyclovir, valacyclovir, famciclovir - 세부 용량은 생식기 헤르페스 챕터 참고
 
 ### <mark style="color:orange;">재발 및 지속성 자궁경부염</mark>
 
 * 경부염 소견을 재확인하고 재노출·복약불이행·파트너 치료 여부 및 다른 질환을 재평가
 * **반복적인 항생제 치료에도 불구하고 재발하는 자궁경부염은 대부분 Chlamydia나 Gonorrhea에 의한 것이 아니며, 지속 항생제 복용의 유용성은 불확실함 - 불필요한 항생제 재처방을 지양하고 원인 재평가를 우선**
-* 적절한 치료 후에도 지속되며 재노출·복약불이행·BV 등이 배제된 경우 M. genitalium NAAT를 고려하고, 가능하면 마크로라이드 내성 검사 병행. 검출된 경우에만 내성 결과에 따라 순차 치료\
+* 적절한 치료 후에도 지속되며 재노출·복약불이행·BV 등이 배제된 경우 M. genitalium NAAT를 고려하고, 가능하면 마크로라이드 내성 검사 병행. 다음은 비임신 성인의 NAAT 양성 감염에 적용하는 CDC 2021 순차 요법임\
   * macrolide-susceptible 확인 시 : doxycycline 100 ㎎ bid ×7일 선행 후 azithromycin 1 g 1일차, 이후 500 ㎎ qd ×3일
   * macrolide resistance testing이 불가능하거나 내성이 확인된 경우 : doxycycline 100 ㎎ bid ×7일 선행 후 moxifloxacin 400 ㎎ qd ×7일 순차 치료 고려
+* ✽내성 검사 불가 시 국내 STI 2023은 doxycycline(또는 minocycline) 7일 후 고용량 azithromycin 총 2.5 g 및 종료 21일 이후 TOC를 제시하여 CDC의 doxycycline→moxifloxacin 요법과 차이가 있음. 내성·이전 macrolide 노출·안전성을 고려하여 전문의와 선택하고, azithromycin 1 g 단회요법으로 M. genitalium을 치료하지 않음 <mark style="color:$info;">[국내 STI 2023; CDC 2021]</mark>
+* M. genitalium 치료 후 추적 : 국내 STI 2023에 따라 TOC를 계획하며 NAAT는 종료 3주 이후 시행. BASHH 2025는 증상이 소실되면 일상적 TOC를 권고하지 않아 국내 지침과 차이가 있음. 증상 지속 시 재노출·내성·PID를 재평가함. 현재 파트너는 검사하고 양성이면 치료하며, CT·NG·TV의 60일 기준을 그대로 적용하지 않음 <mark style="color:$info;">[국내 STI 2023; BASHH 2025]</mark>
+* moxifloxacin의 M. genitalium 치료는 국내 허가 외 사용임. QT 연장·부정맥, 힘줄 손상, 말초신경병증 등 위험을 평가하고 임신 중에는 위 순차 처방을 적용하지 않음; 임신·수유·치료 실패는 전문기관에 의뢰 <mark style="color:$info;">[CDC 2021; BASHH 2025; 국내 제품 허가사항]</mark>
 * 감염 외 다른 원인 고려 : vaginal flora 이상, 빈번한 질 세척, 화학적 자극
 * 부인과 의뢰
 
@@ -183,7 +193,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 
 ## <mark style="color:purple;">처방례</mark>
 
-> **처방례 1. 임균 동반 위험이 낮으나 결과 전 치료가 필요한 자궁경부염 - Doxycycline 단독**
+> **처방례 1. 비임신 성인, 임균 동반 위험이 낮으나 결과 전 치료가 필요한 자궁경부염 - Doxycycline 단독**
 >
 > ```
 > 독시사이클린 100 ㎎/C  2C #2  ×7d
@@ -191,7 +201,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 >
 > _✽감염 위험이 낮고 검사·추적이 가능하면 NAAT 결과 확인까지 치료를 보류할 수 있음. 본 처방례는 추적관찰이 불확실하거나 NAAT 시행이 어려워 결과 전 치료가 필요하지만 임균 동반 위험이 낮은 경우_
 
-> **처방례 2. 임균 동반 위험 높음 - 병용 요법**
+> **처방례 2. 비임신 성인, 임균 동반 위험 높음 - 병용 요법**
 >
 > ```
 > 트리악손 500 ㎎  IM  1회
@@ -214,7 +224,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 > 후라시닐정 250 ㎎/T  2T bid  ×7d
 > ```
 >
-> _✽여성에서는 단회 2 g 요법보다 7일 요법의 치료 성공률이 높음. 후라시닐정은 250 ㎎/정이며, 국내 제품의 트리코모나스증 허가 용법은 250 ㎎ bid ×10일로 CDC 권고 용법과 다름_
+> _✽임신 첫 3개월 이내는 후라시닐정 국내 허가상 금기. 여성에서는 단회 2 g 요법보다 7일 요법의 치료 성공률이 높음. 후라시닐정은 250 ㎎/정이며, 국내 제품의 트리코모나스증 허가 용법은 250 ㎎ bid ×10일로 CDC 권고 용법과 다름_
 
 > **처방례 5. 재발·지속성, M. genitalium NAAT 양성 + macrolide resistance testing 불가**
 >
@@ -223,7 +233,7 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 > 목시플록사신 400 ㎎/T  1T qd  ×7d
 > ```
 >
-> _✽마크로라이드 내성 M. genitalium 확인 시(또는 내성 검사 불가 시) 순차 요법 고려; 부인과·감염내과 협진 권장_
+> _✽CDC 2021에 따른 비임신 성인의 순차 요법 예시이며 moxifloxacin은 국내 허가 외 사용. 내성 검사 불가 시 국내 STI 2023의 요법과 차이가 있음(본문 참조). QT 연장·힘줄/신경 이상 위험을 평가하고, 치료 종료 3주 이후 TOC 및 파트너 검사 계획; 부인과·감염내과 협진_
 
 ***
 
@@ -236,6 +246,12 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 > * 광과민 반응 가능 - 치료 기간 중 직사광선 노출을 최소화하고 자외선 차단제 사용 권고
 > * 처방된 항생제를 임의로 중단하지 말고 전 기간 복용을 완료
 > * 본인과 파트너가 모두 치료를 완료하고 증상이 호전될 때까지 성관계를 피할 것. 클라미디아·임균 치료가 포함되었다면 7일 요법은 복용 완료 시까지, 단회요법은 투여 후 7일까지 금욕
+
+> **Metronidazole 복용 시**
+>
+> * 후라시닐정은 투여 중 및 종료 후 최소 3일 금주
+> * 임신·수유 여부 확인. 임신 첫 3개월 이내는 국내 허가상 금기이며, 투여 중 및 투여 이후 24시간 이상 수유 중단
+> * warfarin 병용 시 INR 상승, 리튬 병용 시 독성 증가에 유의
 
 > **파트너 치료의 중요성**
 >
@@ -268,13 +284,15 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 #### <mark style="color:$primary;">치료는 어떻게 하나요?</mark>
 
 * 감염이 확인되거나 의심되어 항생제를 처방받았다면 **처방된 기간 동안 빠짐없이** 복용하십시오. 검사 결과에 따라 약을 조정할 수 있습니다.
-* (독시사이클린 복용 시) 복용 후에는 최소 30분간 눕지 마시고, 치료 기간에는 햇빛 노출을 피하십시오. 이 주의사항은 독시사이클린에 해당하며, 다른 항생제(아지스로마이신, 메트로니다졸 등)에는 적용되지 않습니다.
+* 독시사이클린은 충분한 물과 함께 복용하고 최소 30분간 눕지 마십시오. 치료 중 강한 햇빛 노출을 줄이고 자외선 차단제를 사용하십시오.
+* 메트로니다졸(후라시닐정)을 복용한다면 복용 중 및 마지막 복용 후 최소 3일 동안 술을 피하십시오. 임신 또는 수유 중이면 복용 전에 반드시 알리십시오.
 * 증상이 좋아지더라도 임의로 약을 중단하지 마십시오.
 
 #### <mark style="color:$primary;">성 파트너와 관련해 무엇을 해야 하나요?</mark>
 
 * 클라미디아·임균·트리코모나스 감염이 확인되었다면, 최근 60일 이내 성 파트너도 의료기관에서 평가와 치료를 받아야 합니다. 마지막 성관계가 그보다 오래되었다면 가장 최근 파트너에 대해 의료진과 상의하십시오.
 * 본인과 파트너가 모두 치료를 마치고 증상이 나을 때까지 성관계를 피하십시오. 7일간 약을 복용한다면 복용 완료 시까지, 한 번 복용하는 클라미디아·임균 치료라면 복용·투여 후 7일까지 피하십시오. 마지막 약 복용 뒤 무조건 7일을 더 기다려야 한다는 뜻은 아닙니다.
+* 임균 감염은 치료 확인 검사도 필요하며, 검사 시점은 감염 부위와 검사 방법에 따라 의료진이 안내합니다.
 * 클라미디아·임균 또는 트리코모나스 감염이 확인되었다면 약 3개월 후 재감염 검사를 받으십시오. 임신 중 클라미디아 감염은 치료 약 4주 뒤 치료 확인 검사도 필요합니다.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 진료를 받으세요</mark>
@@ -285,3 +303,18 @@ A60.0 생식기 및 비뇨생식관의 헤르페스바이러스감염
 #### <mark style="color:$primary;">이럴 때는 다시 진료를 받으세요</mark>
 
 * 치료 후에도 분비물·출혈 등이 계속되거나 다시 나타나는 경우
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* 질병관리청·대한요로생식기감염학회. 성매개감염 진료지침 2023. 임질·클라미디아·M. genitalium·트리코모나스 진단, 치료 및 추적. [지침 원문](https://stiguide.kr/wp-content/uploads/2023/04/Korean_STI_Guidelines_2023.pdf)
+* CDC. Sexually Transmitted Infections Treatment Guidelines, 2021. [Urethritis and Cervicitis](https://www.cdc.gov/std/treatment-guidelines/urethritis-and-cervicitis.htm), [Gonococcal Infections Among Adolescents and Adults](https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm), [Chlamydial Infections](https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm).
+* CDC. Sexually Transmitted Infections Treatment Guidelines, 2021. [Mycoplasma genitalium](https://www.cdc.gov/std/treatment-guidelines/mycoplasmagenitalium.htm), [Trichomoniasis](https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm), [Pelvic Inflammatory Disease](https://www.cdc.gov/std/treatment-guidelines/pid.htm).
+* BASHH. National guideline for the management of infection with Mycoplasma genitalium, 2025. 내성 기반 치료·fluoroquinolone 안전성·특수 상황. [지침 원문](https://www.bashh.org/_userfiles/pages/files/bashh_mgen_2025.pdf)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. 국내 제품별 적응증·제형·용법·금기 및 허가 상태 확인. [의약품안전나라](https://nedrug.mfds.go.kr/index)
