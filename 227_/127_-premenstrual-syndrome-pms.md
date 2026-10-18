@@ -6,12 +6,12 @@
 * 다른 이름 : premenstrual tension, 월경전긴장증후군
 * 정의 (RCOG Green-top Guideline No. 48, 2016/2017) : 주로 배란 주기의 월경 전에 반복되고 월경 시작과 함께 소실 또는 뚜렷이 호전되며, 일상 기능에 지장을 주거나 뚜렷한 고통을 초래하는 신체적·행동적·정서적 증상. 기존 질환이 동반될 수 있으므로 같은 증상이 주기 밖에도 지속되는지 확인하여 월경전악화(PME)와 감별
 * 월경전불쾌장애(premenstrual dysphoric disorder, PMDD) : 정서 증상이 주가 되어 기능 장애를 초래하는 중증의 월경전증후군; DSM-5(-TR) 진단 기준 충족 필요 (☞ 진단 참고)
-* 많은 여성들이 월경 전에 신체적, 정신적 증상을 보이지만 이들이 모두 PMS에 해당되지는 않음 - 가임기 여성의 최대 90%가 최소 1개 이상의 월경전 증상을 경험 \[ACOG 2023]
+* 많은 여성들이 월경 전에 신체적, 정신적 증상을 보이지만 이들이 모두 PMS에 해당되지는 않음 - 가임기 여성의 최대 90%가 최소 1개 이상의 월경전 증상을 경험 <mark style="color:$info;">[ACOG 2023]</mark>
 
 ### <mark style="color:orange;">분류</mark>
 
 * Core(핵심형) PMS : 배란 주기에 의존하는 전형적 PMS로 가장 흔한 형태
-* Variant(변이형) 월경전장애 \[ISPMD Consensus] - 다음 형태는 core PMS와 감별이 필요
+* Variant(변이형) 월경전장애 <mark style="color:$info;">[ISPMD Consensus]</mark> - 다음 형태는 core PMS와 감별이 필요
   * PME(premenstrual exacerbation) : 기존 정신 질환(우울증, 불안장애 등) 또는 신체 질환(편두통, 천식, 과민대장증후군 등)이 황체기에 악화되는 경우 - core PMS와의 핵심 차이는 난포기(follicular phase) 동안 완전한 증상 소실 구간(symptom-free interval)이 없다는 점이며, 전향적 일일 증상 일지(DRSP 등) 판독 시 이 구간의 유무를 확인하는 것이 감별의 핵심
   * Progestogen-induced PMS : progestogen 함유 호르몬제(피임제, 호르몬 대체 요법 등) 복용 중 PMS 유사 증상 발생
   * 비배란성 난소 활동과 관련된 월경전장애 : 배란 없이 난소 활동에 따라 유사 증상이 반복되는 드문 형태
@@ -40,7 +40,7 @@
 * 출산력이 없거나 적음
 * 기분 장애(우울증, 불안증) 병력, PMDD 가족력 또는 PMS 가족력
 * 흡연, 비만
-* ✽ADHD, 조기 생식샘 절제, ovarian sensitivity 관련 유전 소인 등도 최근 연구에서 위험 요인으로 제시되고 있음
+* ADHD 등과의 연관성이 보고되었으나 확립된 인과적 위험 인자로 단정하지 않음
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -54,29 +54,28 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 현재 자살 의도·구체적 계획·실행 가능한 수단 접근, 최근 자살 시도 또는 안전 확보 불가 → 곁에서 안전을 확보하고 즉시 응급 평가(필요시 119); 자살예방상담전화 109(24시간) 안내
-* 급성 정신병적 증상(환각, 심한 와해된 사고)과 자해 위험 또는 심각한 행동 장애 동반 → 즉시 응급 평가
+* 현재 자살 의도·구체적 계획·실행 가능한 수단 접근, 최근 자살 시도 또는 안전 확보 불가
+* 급성 정신병적 증상(환각·심한 사고 와해)과 자해 위험 또는 심각한 행동 장애 동반
+* 심한 출혈과 실신·저혈압, 또는 갑작스러운 심한 골반통
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 자살·자해 생각이 새로 생겼거나 악화되었으나 임박한 위험은 확인되지 않음 → **당일** 자살 위험도·안전성 평가 후 필요한 의뢰와 재접촉 시점 결정
-* 정신 증상과 기능 장애가 심하거나 빠르게 악화됨 → **당일** 임상 평가 및 필요시 정신건강의학과 협진; 전향적 일지 2주기 완료를 기다리지 않음
-* 심한 비정상 자궁 출혈, 급성 또는 심한 골반통 등 → 중증도에 따라 **당일** 부인과적 평가(임신 관련 원인 포함)
+* 새로 생겼거나 악화된 자살·자해 생각(임박한 위험은 확인되지 않음; 당일 평가 대상)
+* 심하거나 빠르게 악화되는 정신 증상·기능 장애(당일 평가 대상)
+* 비정상 자궁 출혈 또는 반복되는 골반통·성교통
 
-<mark style="color:$info;">**외래 추적**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 전향적 증상 일지 2주기 기록이 아직 완료되지 않아 확진이 보류된 상태
-* 증상이 월경 전 외에도 지속되거나 월경 후에 충분히 완화되지 않음 → 원발 정신·신체 질환과 PME 감별, 필요시 관련 전문과 의뢰
-* 비정상 자궁 출혈·골반통·성교통 등이 반복됨 → 부인과적 원인 평가
-* 1차 생활 요법 및 대증 치료 4\~6주 시행 후에도 미호전
-* SSRI 1\~2주기 평가 후에도 반응이 적음 → 약제 교체 또는 배란 억제 요법 고려
+* 전향적 증상 일지 2주기 기록이 미완료되어 확진이 보류된 상태
+* 월경 전 외에도 지속되거나 월경 후 충분히 완화되지 않는 증상(PME·원발 질환 가능성)
+* 생활·대증 치료 4~6주 또는 SSRI 1~2주기 후에도 지속되는 기능 장애
 
 ***
 
 ## <mark style="color:green;">진단</mark>
 
 * PMS/PMDD는 병력에 근거한 임상 진단이며, 확진을 위한 단일 검사는 없음
-* 진단의 핵심은 **전향적(prospective)** 증상 기록 - 환자의 회상에 의존하는 후향적 병력 청취만으로는 과다 진단 또는 과소 진단의 위험이 있음 \[ACOG 2023]
+* 진단의 핵심은 **전향적(prospective)** 증상 기록 - 환자의 회상에 의존하는 후향적 병력 청취만으로는 과다 진단 또는 과소 진단의 위험이 있음 <mark style="color:$info;">[ACOG 2023]</mark>
 * PMS/PMDD 진단 자체를 위한 검사실 검사는 없으며, 병력상 감별진단이 필요한 경우에 한하여 선택적으로 시행
   * CBC/Hb(빈혈 의심), TSH(갑상선 질환 의심) 등
   * 25-OH Vit D는 결핍 위험 또는 임상적 의심이 있을 때 고려(월경전증후군 자체와의 관련성은 명확하지 않음)
@@ -118,7 +117,7 @@ G. 이 증상들은 물질(예: 약물, 약물 남용, 다른 치료)의 생리�
 
 {% hint style="info" %}
 **청소년에서의 진단 시 주의**\
-사춘기 여성에서는 월경전 증상이 이 시기 특유의 정서 변동과 감별하기 어려울 수 있음. 진단을 서두르기보다 전향적 증상 기록을 통한 확인이 특히 중요함 \[ACOG 2023]
+사춘기 여성에서는 월경전 증상이 이 시기 특유의 정서 변동과 감별하기 어려울 수 있음. 진단을 서두르기보다 전향적 증상 기록을 통한 확인이 특히 중요함 <mark style="color:$info;">[ACOG 2023]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">감별</mark>
@@ -134,7 +133,9 @@ graph TD
     Safety -- "없음" --> Chart["전향적 일일 증상 기록<br>최소 2주기"]
     Chart --> Pattern{"월경 후 뚜렷한<br>증상 소실 구간?"}
     Pattern -- "없음" --> Diff["원발 질환·PME 등 감별"]
-    Pattern -- "있음" --> DxBranch{"기능 영향·증상 평가<br>PMDD 기준 충족?"}
+    Pattern -- "있음" --> Impact{"임상적으로 유의한 고통<br>또는 기능 저하?"}
+    Impact -- "없음" --> Physiologic["생리적 월경전 증상; 교육·대증 관리"]
+    Impact -- "있음" --> DxBranch{"기능 영향·증상 평가<br>PMDD 기준 충족?"}
     DxBranch -- "아니오" --> PMS["PMS"]
     DxBranch -- "예" --> PMDD["PMDD"]
     PMS --> Step1["교육·생활 요법·CBT<br>증상별 대증 치료"]
@@ -165,33 +166,35 @@ graph TD
 
 * 신체적, 정신적 증상 완화 및 기능 회복
 * 경도\~중등도는 생활 요법 및 대증 치료 우선, 정서 증상이 뚜렷하거나 PMDD 기준을 충족하면 SSRI 또는 배란 억제 요법을 조기에 고려
-* 단일 치료보다 여러 접근을 병행하는 다면적(multimodal) 치료가 흔히 더 효과적 \[ACOG 2023]
+* 단일 치료보다 여러 접근을 병행하는 다면적(multimodal) 치료가 흔히 더 효과적 <mark style="color:$info;">[ACOG 2023]</mark>
 * 약물 요법 : 배란 억제 호르몬, 뇌 신경전달물질 농도 조절(SSRI), 진통제, 진경제
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 * 스트레스 관리 : 이완, 심호흡, 마사지, 음악, 따듯한 목욕
-* 규칙적인 유산소 운동(Aerobic, 요가, 필라테스 등) - Conditional recommendation, 근거 수준 낮음 \[ACOG 2023]
-* 인지행동치료(CBT) - Strong recommendation(근거 수준은 낮음\~중등도) \[ACOG 2023]; 단독 치료 또는 약물과 병용할 수 있으며 선호·접근성을 고려해 선택
-* 침(acupuncture) - Conditional recommendation, 근거 수준 낮음 \[ACOG 2023]
+* 규칙적인 유산소 운동(Aerobic, 요가, 필라테스 등) - Conditional recommendation, 근거 수준 낮음 <mark style="color:$info;">[ACOG 2023]</mark>
+* 인지행동치료(CBT) - Strong recommendation(근거 수준은 낮음\~중등도) <mark style="color:$info;">[ACOG 2023]</mark>; 단독 치료 또는 약물과 병용할 수 있으며 선호·접근성을 고려해 선택
+* 침(acupuncture) - Conditional recommendation, 근거 수준 낮음 <mark style="color:$info;">[ACOG 2023]</mark>
 * 균형 잡힌 건강 식이 : 전곡류, 과일, 채소 중심의 식단
   * 과도한 소금·카페인·알코올 섭취 및 정제 탄수화물(설탕류) 과다 섭취를 줄이는 것을 권장 - 유제품 자체를 제한할 근거는 부족하며, 오히려 calcium 섭취 권장과 상충될 수 있어 제외함
-* 교육 자료 제공 자체도 도움이 될 수 있음(근거는 제한적이나 위해가 없음) \[ACOG 2023]
+* 교육 자료 제공 자체도 도움이 될 수 있음(근거는 제한적이나 위해가 없음) <mark style="color:$info;">[ACOG 2023]</mark>
 
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">Serotonergic antidepressant</mark>
 
-* 정서 장애가 주요 증상일 때 SSRI를 1차 선택 - Strong recommendation \[ACOG 2023] (☞ p.1146)
-* 국내 PMDD 적응증은 성분이 아닌 제품·제형별로 확인이 필요함 - fluoxetine, sertraline 및 paroxetine CR 일부 제품에는 적응증이 있음; paroxetine 일반정, escitalopram·venlafaxine·desvenlafaxine 등은 제품별로 허가 외 사용 여부를 확인(제품별 최신 첨부문서 확인)
+* 정서 장애가 주요 증상일 때 SSRI를 1차 선택 - Strong recommendation <mark style="color:$info;">[ACOG 2023]</mark> (☞ p.1146)
+* 국내 PMDD 적응증은 제품·제형별로 다름. fluoxetine·sertraline 및 paroxetine CR의 허가 제품을 선택할 수 있음. 아래 escitalopram·paroxetine 일반정·venlafaxine의 PMS/PMDD 치료 목적 사용은 허가 외임
 * 용량 : 최소 유효 용량 유지
   * 이전 치료에서 효과가 있었던 용량을 이후에 적용; 이전 치료에서 반응이 적었던 경우 다음 치료에서는 증량 또는 다른 약제 선택
+* 투여 전 조증·경조증 병력을 확인하고 양극성장애가 의심되면 항우울제 단독요법에 앞서 정신건강의학과 평가를 고려
 * 투여 기간 : 아래 세 가지 방식 활용 가능
   * 지속 투여 또는 황체기 간헐 투여(대개 월경 예정일 약 14일 전\~월경 시작 시)의 근거가 가장 확립되어 있음. 월경 시작 후 수일까지 연장하는 연구 요법도 있으나 시작·종료 시점과 최대 용량은 약제별 근거와 국내 제품 허가사항에 맞춰 구분
   * 증상 발현 시 투여(symptom-onset dosing) : 매 주기에서 월경전 증상 시작을 비교적 명확하게 인지할 수 있는 환자에서 증상이 시작될 때부터 월경 시작 시까지 투여 - 일부 환자에서 효과적인 선택지가 될 수 있음
   * PMDD에서는 우울증 치료와 달리 SSRI 반응이 비교적 빠르게 나타나는 것이 특징이며, 이 때문에 간헐 투여 방식들이 가능함; 증상 양상·부작용·환자 선호에 따라 방식을 선택
+* 2024 Cochrane 갱신에서는 지속 투여가 황체기 투여보다 전반적 증상 감소에 더 효과적일 가능성이 제시됨. 간헐요법도 유효한 선택지이며, 동반 우울·불안이 주기 밖에도 지속되면 원발 질환을 평가하고 지속 투여를 고려 <mark style="color:$info;">[Cochrane 2024]</mark>
 * 치료 효과와 내약성은 1\~2주기에 걸쳐 평가하여 용량·투여 방식 조정 또는 약제 변경 여부를 결정; 약제들 간의 효과 및 부작용에 차이가 있을 수 있음
-* 청소년·젊은 성인에서는 항우울제 전반에 적용되는 FDA Black Box Warning(자살 사고·행동 위험 증가 경고)에 따라 치료 초기 자살 사고·행동 악화 여부를 면밀히 모니터링. 새로 발생하거나 악화된 자살 사고가 있으면 즉시 안전성 평가 및 정신건강의학과 협진/의뢰하고, 약물의 지속·감량·중단 여부는 임의로 중단하지 말고 임상적으로 결정 \[ACOG 2023]
+* 청소년·젊은 성인에서는 항우울제 전반에 적용되는 FDA Black Box Warning(자살 사고·행동 위험 증가 경고)에 따라 치료 초기 자살 사고·행동 악화 여부를 면밀히 모니터링. 새로 발생하거나 악화된 자살 사고가 있으면 즉시 안전성 평가 및 정신건강의학과 협진/의뢰하고, 약물의 지속·감량·중단 여부는 임의로 중단하지 말고 임상적으로 결정 <mark style="color:$info;">[ACOG 2023]</mark>
 * 부작용 : 구역·설사 등 위장관 증상, 두통, 불면 또는 졸림, 어지럼, 성 기능 저하 등
   * 대부분 치료 초기에 나타나며 지속 투여 중 감소하는 경우가 많음
   * 대처 : 감량 또는 약물 교체
@@ -199,16 +202,15 @@ graph TD
 * fluoxetine 20 ㎎/d - 지속 투여 또는 문헌상 황체기 투여(제품별 국내 허가 용법 확인) <mark style="color:blue;">\[푸록틴확산정20㎎]</mark>
 * escitalopram : 10\~20 ㎎/d <mark style="color:blue;">\[렉사프로]</mark>
 * sertraline : PMDD에 50 ㎎/d로 시작; 지속 투여 시 최대 150 ㎎/d, 황체기 투여 시 최대 100 ㎎/d(증량 방식은 제품 허가사항 참조) <mark style="color:blue;">\[졸로푸트]</mark>
-* paroxetine : 일반정 10\~20 ㎎/d <mark style="color:blue;">\[세로자트]</mark>(PMDD 적응증 확인 필요); CR 12.5\~25 ㎎/d <mark style="color:blue;">\[팍실 CR]</mark>(PMDD 허가 용법)
+* paroxetine : 일반정 10\~20 ㎎/d <mark style="color:blue;">\[세로자트]</mark>(PMDD 치료는 허가 외); CR 12.5\~25 ㎎/d <mark style="color:blue;">\[팍실 CR]</mark>(PMDD 허가 용법)
   * ✽임신 가능성이 있는 여성에서는 paroxetine 사용 시 다른 SSRI보다 주의가 필요함(선천성 기형 위험 관련 보고)
-* desvenlafaxine : 50\~100 ㎎/d <mark style="color:blue;">\[프리스틱]</mark>
 * venlafaxine : SNRI; 75\~150 ㎎/d <mark style="color:blue;">\[이팩사 XR]</mark>
 
 ### <mark style="color:orange;">피임제</mark>
 
 (☞ [피임](131_-contraception.md))
 
-* Strong recommendation, 근거 수준은 낮음; progesterone/progestogen 단독 요법보다 배란을 억제하는 복합 경구 피임제가 더 효과적 \[ACOG 2023]
+* Strong recommendation, 근거 수준은 낮음; progesterone/progestogen 단독 요법보다 배란을 억제하는 복합 경구 피임제가 더 효과적 <mark style="color:$info;">[ACOG 2023]</mark>
 * 정서 증상이 주된 PMDD에서는 SSRI를 우선 고려하고, 피임이 필요하거나 배란 억제를 선호하는 경우 또는 SSRI 효과가 불충분한 경우에 복합 경구 피임제를 고려하는 것이 실용적
 * 처방 전 혈압, 흡연(특히 35세 이상), 조짐편두통, 혈전증·혈전성향, 임신 가능성, 신·간·부신 질환, 병용 약물을 확인. drospirenone 함유 제제는 개인별 혈전 위험을 평가하고, 칼륨을 올리는 약물(예: spironolactone)을 병용하면 첫 주기의 혈중 칼륨 확인이 필요함
 
@@ -217,27 +219,27 @@ graph TD
 * 휴약 기간이 짧거나 없는 복합 호르몬 경구 피임제 선호; 일부 환자에서는 오히려 증상이 악화될 수 있음
   * <mark style="color:blue;">\[야즈]</mark> (28T) : 24일간 연분홍색 → 4일간 흰색(위약) 복용 - drospirenone/EE 24+4 요법으로 PMDD에 대한 근거가 가장 확립된 조합. 국내 PMDD 허가는 **피임법으로 경구피임약을 사용하고자 하는 여성**의 증상 치료에 해당
   * 위약 기간을 생략하고 복합 경구 피임제를 연속 복용하는 방법을 고려할 수 있으나, 해당 제품의 허가된 24+4 복용법과 구분하고 부정출혈·내약성 등을 상담
-* ✽Progestogen 단독 요법은 PMS 치료 근거가 부족하며 일부 환자에서 PMS 유사 증상을 유발하거나 악화시킬 수 있어 우선순위가 낮음 \[RCOG GTG48]
+* ✽Progestogen 단독 요법은 PMS 치료 근거가 부족하며 일부 환자에서 PMS 유사 증상을 유발하거나 악화시킬 수 있어 우선순위가 낮음 <mark style="color:$info;">[RCOG GTG48]</mark>
 
 #### <mark style="color:$primary;">비경구제</mark>
 
-* DMPA는 배란을 억제하지만 기분 증상이 지속·악화될 수 있어 PMS/PMDD의 1차 치료로 권장되지 않음 \[RCOG GTG48]
+* DMPA는 배란을 억제하지만 기분 증상이 지속·악화될 수 있어 PMS/PMDD의 1차 치료로 권장되지 않음 <mark style="color:$info;">[RCOG GTG48]</mark>
 * etonogestrel 피하 이식제 <mark style="color:blue;">\[임플라논 엔엑스티 이식제]</mark>는 PMS/PMDD 치료 목적으로 권장되지 않음
 
 ### <mark style="color:orange;">GnRH 작용제 및 경피 호르몬 요법</mark>
 
-* 대상 : SSRI 또는 경구 피임제로 조절되지 않는 심한 증상 - Conditional recommendation, 중등도 근거 수준 \[ACOG 2023]
+* 대상 : SSRI 또는 경구 피임제로 조절되지 않는 심한 증상 - Conditional recommendation, 중등도 근거 수준 <mark style="color:$info;">[ACOG 2023]</mark>
 * 산부인과 전문의 치료 영역. 아래에 예시한 국내 GnRH 작용제 제품의 **PMS/PMDD 치료 목적은 허가 외 사용**이며, 개별 허가사항과 보험 기준을 확인
 * 작용 : 난소에서 일시적으로 estrogen 및 progesterone 생성을 중단시킴
 * 부작용 : 호르몬 보충(add-back) 없이 사용 시 low estrogen 증상(안면 홍조) 및 골밀도 감소 위험, 특히 장기 사용 시 두드러짐 → 장기 사용 시에는 저에스트로겐 증상과 골소실을 예방하기 위해 continuous combined estrogen-progestogen add-back 또는 tibolone 등을 사용; 주기적(sequential) progestogen 노출은 일부 환자에서 PMS 유사 증상을 재유발할 수 있어 지속 병합 요법이 선호됨 (☞ [폐경기증후군](../226_/108_-menopause-syndrome.md))
-  * ✽Add-back 없이 GnRH 작용제 단독 치료는 일반적으로 6개월 이내로 제한하며, 치료 전후 골건강 및 호르몬 요법 금기 여부를 평가 \[RCOG GTG48]
+  * ✽Add-back 없이 GnRH 작용제 단독 치료는 일반적으로 6개월 이내로 제한하며, 치료 전후 골건강 및 호르몬 요법 금기 여부를 평가 <mark style="color:$info;">[RCOG GTG48]</mark>
 * leuprolide acetate : 3.75 ㎎ depot, 4주마다(매월) 주사 <mark style="color:blue;">\[루피어 데포 주]</mark>
 * goserelin(고세렐린) 3.6 ㎎(= goserelin acetate 3.78 ㎎) depot, 4주마다(매월) 배에 피하 주사 <mark style="color:blue;">\[졸라덱스 데포 주]</mark>
-* ✽대안으로 경피 estradiol을 이용한 배란 억제 요법을 고려할 수 있으며, 자궁이 있는 여성에서는 자궁내막 보호를 위해 최소 용량의 주기적 progestogen 또는 LNG-IUS 병용이 필요함. 특히 progestogen intolerance가 있는 환자에서는 LNG-IUS가 전신 progestogen 노출을 줄이는 방법이 될 수 있음 \[RCOG GTG48]. **경피 estradiol 자체는 피임제가 아님**; 국내 가용 제품·허가 및 보험 기준은 처방 전 확인
+* ✽대안으로 경피 estradiol을 이용한 배란 억제 요법을 고려할 수 있으며, 자궁이 있는 여성에서는 자궁내막 보호를 위해 최소 용량의 주기적 progestogen 또는 LNG-IUS 병용이 필요함. 특히 progestogen intolerance가 있는 환자에서는 LNG-IUS가 전신 progestogen 노출을 줄이는 방법이 될 수 있음 <mark style="color:$info;">[RCOG GTG48]</mark>. **경피 estradiol 자체는 피임제가 아님**; 국내 가용 제품·허가 및 보험 기준은 처방 전 확인
 
 ## <mark style="color:green;">시술</mark>
 
-* 양측 난소절제술(±자궁절제술) : 다른 모든 치료에 반응하지 않는 극심한 난치성 PMDD에서 최후 수단으로 고려 - Good Practice Point(RCT 근거 없음, 배란 억제가 치료적이라는 간접 근거에 기반) \[ACOG 2023]
+* 양측 난소절제술(±자궁절제술) : 다른 모든 치료에 반응하지 않는 극심한 난치성 PMDD에서 최후 수단으로 고려 - Good Practice Point(RCT 근거 없음, 배란 억제가 치료적이라는 간접 근거에 기반) <mark style="color:$info;">[ACOG 2023]</mark>
   * 수술 전 GnRH 작용제 시험 투여로 배란 억제가 실제로 증상을 완화시키는지 확인 후 결정하는 것이 원칙
   * 조기 폐경에 준하는 장기적 영향(골밀도, 심혈관계 등)에 대한 상담 및 호르몬 대체 요법 계획이 필수적이므로 산부인과 전문의 의뢰
 
@@ -246,23 +248,22 @@ graph TD
 ### <mark style="color:orange;">진통제</mark>
 
 * 통증에 대한 대증 치료. 정서 증상 치료를 목적으로 NSAID를 사용하지 않으며, 필요한 기간에 최소 유효 용량 사용. SSRI 병용 시 위장관 출혈 위험을 함께 고려
-* mefenamic acid : 500 ㎎ 1회 이후 250 ㎎ qid <mark style="color:blue;">\[폰탈]</mark>
+* naproxen sodium : 초회 550 ㎎ → 이후 275 ㎎ q6\~8h, 1일 최대 1,375 ㎎ <mark style="color:blue;">\[아나프록스]</mark>
 * ibuprofen : 400 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
-* naproxen : 275 ㎎ tid <mark style="color:blue;">\[아나프록스]</mark>
 
 ### <mark style="color:orange;">진경제</mark>
 
-* 경련성 복통에 대한 대증 치료 (☞ p.371)
+* 진경제는 PMS/PMDD 또는 원발성 월경통의 표준 1차 치료가 아님. 다른 경련성 복통이 동반되면 원인을 평가한 후 해당 약제의 적응증에 따라 선택적으로 고려 (☞ p.371)
 * cimetropium : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
 * hyoscine butylbromide(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark>
 * tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
 
 ### <mark style="color:orange;">기타</mark>
 
-* Ca 총 섭취량 1,000\~1,200 ㎎/d(식이+보충제)를 고려 - Conditional recommendation \[ACOG 2023] (☞ [골다공증](../228_/149_-osteoporosis.md#ca-vit-d))
+* Ca 총 섭취량 1,000\~1,200 ㎎/d(식이+보충제)를 고려 - Conditional recommendation <mark style="color:$info;">[ACOG 2023]</mark> (☞ [골다공증](../228_/149_-osteoporosis.md#ca-vit-d))
 * Vit B6는 효과 근거가 불확실하므로 일률적인 고용량 보충을 권장하지 않음. 과거 PMS 연구에는 50\~100 ㎎/d가 사용되었으나 이 범위도 장기 복용 시 안전하다고 단정할 수 없음
-  * ✽말초신경병증이 50 ㎎/d 미만에서도 보고되었고, EFSA(2023)의 성인 장기 섭취 상한은 12.5 ㎎/d임. 여러 영양제에 포함된 B6를 합산하고, 손발 저림·화끈거림이 생기면 중단 후 평가. 이 상한은 일반인의 장기 섭취 기준으로, 개별 의학적 치료 용량과 동일한 개념은 아님
-* chasteberry(Vitex agnus-castus) 추출물 20\~40 ㎎/d : 작용 기전이 명확하지 않고, ACOG(2023)는 권고를 내리기에 앞서 추가 연구가 필요하다고 평가함 - 근거 수준이 확립된 치료는 아니며 환자가 원할 경우 보조적 선택지로 설명
+  * ✽말초신경병증이 50 ㎎/d 미만에서도 보고되었고, EFSA(2023)의 성인 장기 섭취 상한은 12 ㎎/d임. 여러 영양제에 포함된 B6를 합산하고, 손발 저림·화끈거림이 생기면 중단 후 평가. 이 상한은 일반인의 장기 섭취 기준으로, 개별 의학적 치료 용량과 동일한 개념은 아님
+* chasteberry(Vitex agnus-castus) : 연구에 사용된 표준화 추출물에 한해 평가하며 서로 다른 추출물의 ㎎ 용량을 그대로 비교하지 않음. 작용 기전이 명확하지 않고, ACOG(2023)는 권고를 내리기에 앞서 추가 연구가 필요하다고 평가함 - 근거 수준이 확립된 치료는 아니며 환자가 원할 경우 보조적 선택지로 설명
 * omega-3 fatty acids : 일부 연구에서 증상 개선이 보고되었으나 근거가 제한적이어서 표준 치료로 권고하기에는 불충분 - 처방용 omega-3-acid ethyl esters(고중성지방혈증 치료제)를 PMS 목적으로 상품명까지 특정하여 처방하는 것은 적응증 외 사용에 해당하므로 주의
 * alprazolam <mark style="color:blue;">\[자낙스]</mark> : 일부 효과 보고는 있으나 의존·내성·인지기능 영향 위험 때문에 PMS/PMDD의 통상 치료로 권장하지 않음. 예외적 사용은 위험·유익성과 사용 기간을 개별 평가
 * spironolactone <mark style="color:blue;">\[알닥톤]</mark> : 부종·복부 팽만 등 체액 저류 증상이 현저한 일부 환자에서 고려할 수 있으나 PMS 치료 근거가 제한적인 허가 외 사용. 신기능·혈중 칼륨 및 병용 약물을 확인하고 drospirenone 함유 피임제와 병용 시 고칼륨혈증 위험에 주의
@@ -287,7 +288,7 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 > 부루펜 200 ㎎/T  6T  #3
 > ```
 >
-> _✽PMDD 또는 정서 증상이 뚜렷한 PMS에서 SSRI 고려. 졸로푸트는 50 ㎎/d로 시작하여 지속 투여 또는 황체기 투여 가능; 이후 증량 한도는 각 용법별 허가사항에 따름. 통증 동반 시 NSAID는 필요한 기간에만 사용하고 위장관 출혈 위험을 확인_
+> _✽PMDD 또는 정서 증상이 뚜렷한 PMS에서 SSRI 고려(PMS 자체의 치료 목적은 허가 외). 졸로푸트는 50 ㎎/d로 시작하여 지속 투여 또는 황체기 투여 가능; 이후 증량 한도는 각 용법별 허가사항에 따름. 통증 동반 시 NSAID는 필요한 기간에만 사용하고 위장관 출혈 위험을 확인_
 
 > **처방례 2.** 배란 억제가 필요한 경우
 >
@@ -300,8 +301,7 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 > **처방례 3.** 신체 증상(경련성 통증) 동반
 >
 > ```
-> 티로파 100 ㎎/T  3T  #3
-> 아나프록스 275 ㎎/T  3T  #3
+> 아나프록스 275 ㎎/T  초회 2T, 이후 필요시 6~8시간마다 1T(1일 최대 5T)
 > ```
 >
 > _✽통증에 대한 단기 대증 처방. 지속하거나 기능 장애가 큰 정서 증상이 있으면 PMS/PMDD 평가 및 CBT·SSRI 등 근거에 기반한 치료를 고려. NSAID 금기와 출혈 위험 확인_
@@ -331,7 +331,7 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 >
 > * SSRI 1\~2주기에 걸친 평가 또는 1차 치료 4\~6주 후에도 증상 호전이 없는 경우
 > * 증상이 황체기에 국한되지 않고 한 달 내내 지속되는 경우 - 원발 질환 또는 월경전악화 감별을 위한 재평가
-> * **새로운 자살·자해 생각**은 당일 안전성 평가가 필요. 의도·계획이 있거나 안전을 확보할 수 없으면 119 또는 응급실로 즉시 연결; 자살예방상담전화 109(24시간) 안내
+> * **새로운 자살·자해 생각**은 당일 안전성 평가가 필요. 의도·계획이 있거나 안전을 확보할 수 없으면 119 또는 응급실로 즉시 연결; 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline) 안내
 
 ***
 
@@ -363,16 +363,23 @@ N94.3 월경전긴장증후군 Premenstrual tension syndrome
 
 ### <mark style="color:orange;">이럴 때는 도움을 받으세요</mark>
 
-* **자해하거나 죽고 싶다는 생각**이 새로 들거나 심해지면 당일 의료진의 평가를 받으세요. 실행할 계획이 있거나 스스로 안전을 지키기 어렵다면 **즉시 119 또는 응급실**에 도움을 요청하고 혼자 있지 마세요. 자살예방상담전화 109(24시간)도 이용할 수 있습니다.
+* **자해하거나 죽고 싶다는 생각**이 새로 들거나 심해지면 당일 의료진의 평가를 받으세요. 실행할 계획이 있거나 스스로 안전을 지키기 어렵다면 **즉시 119 또는 응급실**에 도움을 요청하고 혼자 있지 마세요. 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)도 이용할 수 있습니다.
 * 치료를 4\~6주 시도했는데도 증상이 나아지지 않거나, 월경 전뿐 아니라 한 달 내내 계속된다면 외래 재평가를 예약하세요.
 
 ***
 
-## <mark style="color:green;">참고문헌 및 허가자료</mark>
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * ACOG. [Management of Premenstrual Disorders. Clinical Practice Guideline No. 7](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/12/management-of-premenstrual-disorders). 2023.
-* RCOG. [Management of Premenstrual Syndrome. Green-top Guideline No. 48](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/premenstrual-syndrome-management-green-top-guideline-no-48/). 2016/2017 (2023년 검토 후 개정 진행 중).
-* ISPMD. [Towards a consensus on diagnostic criteria, measurement and trial design of the premenstrual disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC4134928/). *Arch Womens Ment Health*. 2011.
-* 식품의약품안전처. [의약품통합정보시스템: 푸로작캡슐20밀리그램](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200409973) (2026-07-21 허가 취하); 비아트리스코리아. [졸로푸트정 제품허가정보](https://www.viatris.co.kr/-/media/project/common/viatriscokr/pdf/product-chart/updated-pdfs/zoloft_tab_20241021.pdf); 약학정보원(식약처 허가자료 제공). [야즈정](https://www.health.kr/searchDrug/result_drug.asp?drug_cd=A11AKP08G3788), [팍실CR정12.5㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AOOOOO2721), [푸록틴확산정20㎎](https://www.health.kr/searchDrug/result_drug.asp?drug_cd=A11APPPPP0558); 대웅제약. [루피어데포주3.75㎎](https://daewoongholdings.com/daewoongkr/product/product_goods_view.web?sCate=3&srno=68). 처방 전 최신 제품별 허가사항 확인.
+* RCOG. [Management of Premenstrual Syndrome. Green-top Guideline No. 48](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/premenstrual-syndrome-management-green-top-guideline-no-48/). 2016/2017.
+* ISPMD. [Towards a consensus on diagnostic criteria, measurement and trial design of the premenstrual disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC4134928/). 2011.
+* Jespersen C, et al. [Selective serotonin reuptake inhibitors for premenstrual syndrome and premenstrual dysphoric disorder](https://pubmed.ncbi.nlm.nih.gov/39140320/). Cochrane Database Syst Rev. 2024;8:CD001396.
 * CDC. [U.S. Medical Eligibility Criteria for Contraceptive Use, 2024](https://www.cdc.gov/contraception/hcp/usmec/index.html).
-* EFSA. [Dietary reference values: vitamin B6 upper level](https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values). 2023; TGA. [Vitamin B6 and peripheral neuropathy](https://www.tga.gov.au/news/safety-updates/medicines-containing-vitamin-b6-pyridoxine-pyridoxal-or-pyridoxamine).
+* EFSA NDA Panel. [Scientific opinion on the tolerable upper intake level for vitamin B6](https://doi.org/10.2903/j.efsa.2023.8006). EFSA J. 2023;21:e08006. 성인 상한 12 ㎎/d.
+* TGA. [Medicines containing vitamin B6 can cause peripheral neuropathy](https://www.tga.gov.au/news/safety-updates/medicines-containing-vitamin-b6-pyridoxine-pyridoxal-or-pyridoxamine).
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라 — 의약품 품목허가정보](https://nedrug.mfds.go.kr/index). 국내 제품별 적응증·용법·금기 및 허가 상태 확인.

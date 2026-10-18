@@ -55,32 +55,33 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 임신 가능성이 있는 환자의 급성 골반통, 특히 편측 통증·질출혈·실신·저혈압 동반 → 자궁외임신(파열 포함) 감별; 활력징후 평가와 임신 검사, 불안정하면 응급 이송
-* 급성 심한 편측 하복부 통증 + 구역·구토 ± 부속기 압통 → 난소/부속기 염전(adnexal torsion) 의심 → 응급 부인과 평가
-* 고열·오한 + 심한 골반통 + 복막 자극 징후 → 골반농양·범발성 복막염 의심
+* 임신 가능성과 급성 골반통, 특히 편측 통증·질출혈·실신·저혈압 동반(자궁외임신 가능성)
+* 갑작스러운 심한 편측 하복부 통증과 구역·구토 ± 부속기 압통(난소·부속기 염전 가능성)
+* 고열·오한, 심한 골반통과 복막 자극 징후(골반농양·복막염 가능성)
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 골반통 + 자궁경부 운동통/자궁 압통/부속기 압통 ± 발열·비정상 질분비물 → PID 의심; 당일 평가·경험적 치료를 지연하지 않음. 임신·중증 질환·농양 의심 등 입원 적응증이면 응급 의뢰
-* 초경 직후부터 시작된 심한 주기적 통증, 특히 원발성 무월경 또는 월경혈 배출 장애가 동반되는 경우 → 폐쇄성 뮐러관 기형 감별(조기 부인과 평가)
-* 자궁 내 장치(IUD) 삽입 후 새로 발생한 심한 통증 → 위치 이상·부분 배출·천공·PID 및 임신(자궁외임신 포함) 감별(당일 평가)
+* 골반통과 자궁경부 운동통·자궁 압통·부속기 압통 ± 발열·비정상 질분비물(PID 가능성; 당일 평가 대상)
+* 초경 직후부터 심한 주기적 통증, 특히 원발성 무월경·월경혈 배출 장애 동반(유출로 폐쇄 가능성)
+* IUD 삽입 후 새로 발생한 심한 통증(위치 이상·천공·PID·임신 가능성; 당일 평가 대상)
 
-<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* NSAID 또는 호르몬제 2\~3개월 규칙 치료에도 반응 없음
-* 수년간 무증상이다가 새로 발생하거나, 진행성으로 악화되는 월경통 → 자궁내막증 의심
-* 성교통·배변통이 동반되는 경우
+* NSAID 또는 호르몬제 2~3개월의 적절한 치료에도 지속되는 통증
+* 수년간 무증상이다가 새로 발생하거나 진행성으로 악화되는 월경통
+* 성교통·배변통·비월경성 골반통 동반
 
 ## <mark style="color:green;">진단</mark>
 
 ### <mark style="color:orange;">검사</mark>
 
-* 월경 시작과 밀접한 전형적 통증이며 2차성 원인을 시사하는 병력·징후가 없으면 병력으로 임상 진단하여 경험적 치료 시작 가능; 모든 환자에게 골반 진찰·초음파가 필수는 아님 \[SOGC 2025]
+* 월경 시작과 밀접한 전형적 통증이며 2차성 원인을 시사하는 병력·징후가 없으면 병력으로 임상 진단하여 경험적 치료 시작 가능; 모든 환자에게 골반 진찰·초음파가 필수는 아님 <mark style="color:$info;">[SOGC 2025]</mark>
 * 초진 시 초경·월경 주기/출혈량, 통증 시작·지속·진행, 비월경성 통증, 성교통·배변통, 성생활·임신 가능성, STI 위험, 기존 치료의 용량·시점·반응 및 일상 기능 영향을 확인
 * 비전형적 병력, 2차성 월경통 의심, 경험적 치료 반응 불충분 시 골반 진찰 및 추가 검사 시행
 * 검사 항목 : 임신 가능성이 있거나 급성·비전형적 골반통이면 소변/혈청 임신 검사를 우선 시행. STI 위험·PID 의심 시 임질·클라미디아 NAAT 등 시행; 기질적 원인 의심 또는 치료 반응 부족 시 골반 초음파 고려. MRI는 심부 자궁내막증·선근증·해부학적 이상 평가 등에 선택적으로 사용. 초음파 음성으로 표재성 자궁내막증을 배제할 수 없음. ESHRE 2022는 영상과 임상 소견에 따른 추정 진단·경험적 치료를 허용하며, 영상 음성이나 경험적 치료 실패·부적합 시 전문의가 복강경을 고려
+* ACOG 2026은 병력·증상·진찰에 따른 자궁내막증의 임상적 추정 진단으로 경험적 약물치료를 시작할 수 있음을 명시함. 모든 환자에서 수술적 확진을 먼저 요구하지 않으며, 영상 평가를 병행하고 진행성 통증·장기 침범 의심·치료 실패 시 전문 평가 <mark style="color:$info;">[ACOG CPG No. 11, 2026]</mark>
 * STI 위험 요인이 있는 골반통은 PID·자궁경부염을 고려하여 골반 진찰·STI 검사를 시행. 다른 원인을 확인하지 못한 STI 위험 환자에서 PID는 자궁경부 운동통·자궁 압통·부속기 압통 중 하나 이상이 있으면 경험적 치료를 시작하며, NAAT 또는 초음파 결과를 기다리느라 치료를 늦추지 않음
 
 #### <mark style="color:$primary;">검사 대상</mark>
@@ -147,9 +148,9 @@ graph TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 국소 온열 치료(온찜질) : 통증 완화에 도움이 되며 NSAID와 함께 사용할 수 있음 \[SOGC 2025]
-* 규칙적 운동 : 증상 개선에 권고됨 \[SOGC 2025, conditional recommendation, low-certainty evidence]
-* 고주파 TENS, 침·경혈 자극, 생강 보충 : NSAID를 사용할 수 없거나 원하지 않는 환자에서 보조 요법으로 고려 가능하나 근거 수준은 낮음 \[SOGC 2025, conditional, low-certainty]
+* 국소 온열 치료(온찜질) : 통증 완화에 도움이 되며 NSAID와 함께 사용할 수 있음 <mark style="color:$info;">[SOGC 2025]</mark>
+* 규칙적 운동 : 증상 개선에 권고됨 <mark style="color:$info;">[SOGC 2025, conditional recommendation, low-certainty evidence]</mark>
+* 고주파 TENS, 침·경혈 자극, 생강 보충 : NSAID를 사용할 수 없거나 원하지 않는 환자에서 보조 요법으로 고려 가능하나 근거 수준은 낮음 <mark style="color:$info;">[SOGC 2025, conditional, low-certainty]</mark>
   * 생강 보충제는 연구별 제형·용량이 달라 표준 처방 용량을 제시하기 어려움. 상호작용과 임신 가능성을 확인
 * 요가, 마사지 : 근거 불충분
 * 예방
@@ -170,15 +171,15 @@ graph TD
 #### <mark style="color:$primary;">대표 약제</mark>
 
 * ibuprofen : 400 ㎎ q6\~8h <mark style="color:blue;">\[부루펜]</mark>
-* naproxen sodium : 550 ㎎ 초회 → 275 ㎎ q6\~8h(월경곤란증 국내 허가 용법) <mark style="color:blue;">\[아나프록스정 275 ㎎]</mark>
-* mefenamic acid : 초회 500 ㎎ → 이후 250 ㎎ q6h(국내 허가 용법) <mark style="color:blue;">\[폰탈캡슐 250 ㎎]</mark>
+* naproxen sodium : 550 ㎎ 초회 → 275 ㎎ q6\~8h; 1일 최대 1,375 ㎎(월경곤란증 국내 허가 용법) <mark style="color:blue;">\[아나프록스정 275 ㎎]</mark>
+
 
 ### <mark style="color:orange;">호르몬 피임제</mark>
 
 * 원발성 월경통에 특히 유효; 피임을 원하는 여성에서 선호
 * 자궁내막증에 의한 월경통에서는 CHC 또는 progestin 제제를 1차 약물 치료로 고려할 수 있으며, LNG-IUS도 효과적
 * 첫 복용 주기부터 효과가 나타날 수 있지만 충분한 효과 발현까지 수개월이 소요됨
-* 연속 투여 또는 위약 투여 기간을 짧게 하는 것이 초기 통증 조절에 효과적이며(6개월 후에는 비슷) 출혈이 적을 수 있음
+* 연속·연장 주기 또는 짧은 휴약 요법은 초기 통증 조절에 도움이 될 수 있음. 주기요법보다 항상 우월한 것은 아니며 초기 점상출혈이 생길 수 있어 선호·내약성과 제품 허가 용법을 구분하여 선택
 * 복용 중 간헐적 출혈 발생 가능(특히 치료 시작 2\~3개월간)
 * 중단 시 금단 출혈 및 월경통 발생 가능
 * 호르몬제 금기 및 부작용에 대하여 유의 (☞ p.700)
@@ -188,7 +189,7 @@ graph TD
 
 * <mark style="color:blue;">\[야즈]</mark> (28T)(비급여) : 경구피임약 사용을 원하는 여성의 월경곤란증 치료 적응증 보유; 24일간 연분홍색 → 4일간 흰색(위약) 복용
 * <mark style="color:blue;">\[야스민]</mark> (21T)(비급여) : 피임 목적 겸용 시 고려(월경통 단독 적응증 없음); 21일간 복용 → 7일간 휴약
-* <mark style="color:blue;">\[미레나]</mark> 자궁 내 시스템 : levonorgestrel 52 ㎎ LNG-IUS; 국내 허가상 월경과다·월경곤란증 치료에는 삽입 후 5년, 피임에는 8년간 유효. 삽입·교체는 숙련된 의료진이 시행. 급여 적용은 현행 고시의 적응증·중증도 및 청구 기준을 처방 시점에 확인
+* <mark style="color:blue;">\[미레나]</mark> 자궁 내 시스템 : levonorgestrel 52 ㎎ LNG-IUS; 국내 허가상 월경과다·월경곤란증 치료에는 삽입 후 5년, 피임에는 8년간 유효. 삽입·교체는 숙련된 의료진이 시행. 급여 여부는 치료 적응증 및 적용 기준에 따라 달라짐
 
 ### <mark style="color:orange;">보조 요법</mark>
 
@@ -197,7 +198,7 @@ graph TD
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-* 수술적 치료는 최적화된 약물 치료에도 불구하고 월경통이 지속되거나 2차성 원인이 강력히 의심될 때만 고려 \[SOGC 2025, strong recommendation, moderate-certainty evidence]
+* 원발성 월경통 자체에 수술을 일상적으로 시행하지 않음. 최적화된 약물 치료에도 통증이 지속되거나 2차성 원인이 강하게 의심되면 전문의가 진단·치료 목적 복강경 등의 필요성을 개별 판단 <mark style="color:$info;">[SOGC 2025, strong recommendation, moderate-certainty evidence]</mark>
 * 수술 여부 결정 전 2차성 원인 및 비부인과적 골반통 원인을 포함한 충분한 재평가 필요
 * 수술 전에는 전문의가 골반 진찰과 골반통의 부인과적·비부인과적 원인을 충분히 평가
 
@@ -220,7 +221,7 @@ N94.6 상세불명 월경통
 > **처방례 1. 급성 통증**
 >
 > ```
-> 폰탈 250 ㎎/C  초회 2C, 이후 6시간마다 1C(통증이 심한 첫 2\~3일)
+> 부루펜 200 ㎎/T  2T tid(통증이 심한 첫 2~3일)
 > ```
 >
 > _✽ 월경 주기가 예측되면 시작 1\~2일 전, 예측하기 어려우면 통증·출혈이 시작될 때 복용. 다른 NSAID와 중복하지 않음_
@@ -300,3 +301,19 @@ N94.6 상세불명 월경통
 * 통증이 점점 심해지거나 성관계 시 아픈 증상이 새로 생긴 경우
 * 열이 나거나 냄새 나는 질 분비물이 동반되면 당일 진료받으세요.
 * **갑자기 아랫배가 심하게 아프거나, 임신 가능성이 있으면서 통증·출혈·어지럼/실신이 있으면 즉시 응급실로 가세요.**
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* SOGC. [Guideline No. 345: Primary Dysmenorrhea](https://pubmed.ncbi.nlm.nih.gov/40216328/). J Obstet Gynaecol Can. 2025;47:102840.
+* ACOG. [Diagnosis of Endometriosis. Clinical Practice Guideline No. 11](https://doi.org/10.1097/AOG.0000000000006181). Obstet Gynecol. 2026;147:432–448.
+* ESHRE. [Endometriosis guideline](https://www.eshre.eu/Guideline/Endometriosis). 2022.
+* Marjoribanks J, et al. [Nonsteroidal anti-inflammatory drugs for dysmenorrhoea](https://doi.org/10.1002/14651858.CD001751.pub3). Cochrane Database Syst Rev. 2015;CD001751.
+* CDC. [U.S. Medical Eligibility Criteria for Contraceptive Use, 2024](https://www.cdc.gov/contraception/hcp/usmec/index.html).
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라 — 의약품 품목허가정보](https://nedrug.mfds.go.kr/index). 국내 제품별 적응증·용법·금기 및 허가 상태 확인.

@@ -22,7 +22,7 @@ FIGO에서는 menorrhagia, metrorrhagia, menometrorrhagia, dysfunctional uterine
 * 월경 빈도(frequency, 생식연령) : 정상 간격 대략 24\~38일
   * 드문 월경(infrequent menstruation; 과거 oligomenorrhea) : 월경 간격 ＞38일
   * 잦은 월경(frequent menstruation; 과거 polymenorrhea) : 월경 간격 ＜24일
-* 월경 규칙성(regularity, 18~~45세) : 최근 6개월 동안 가장 짧은 주기와 가장 긴 주기의 차이가 18~~25세 및 42~~45세는 ≤9일, 26~~41세는 ≤7일이면 정상 범위; 18세 미만과 45세 초과에는 이 기준을 그대로 적용하지 않음
+* 월경 규칙성(regularity, 18\~45세) : 최근 6개월 동안 가장 짧은 주기와 가장 긴 주기의 차이가 18\~25세 및 42\~45세는 ≤9일, 26\~41세는 ≤7일이면 정상 범위; 18세 미만과 45세 초과에는 이 기준을 그대로 적용하지 않음
 * 월경 기간(duration, 생식연령 성인) : 정상은 대체로 ≤8일(FIGO)
 * heavy menstrual bleeding(HMB; 과거 menorrhagia) : 환자의 신체적·사회적·정서적·물질적 삶의 질을 방해할 정도의 과도한 월경 출혈
   * 과거 연구에서 ≥80 ㎖/cycle을 정량 기준으로 사용하였으나, 실제 임상에서는 출혈 부담·빈혈·삶의 질 영향을 중시
@@ -87,24 +87,24 @@ FIGO의 PALM-COEIN 체계는 **비임신 생식연령 여성의 AUB**를 PALM(�
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 혈역학적 불안정(빈맥, 저혈압, 실신/전실신)을 동반한 심한 출혈 또는 중증 빈혈 → large-bore IV access, 수액/혈액제제 필요성 평가, 응급 산부인과 협진; 원인과 중증도에 따라 약물·자궁내 tamponade·hysteroscopy/D\&C 등 지혈 처치
-* 임신 가능성이 있는 여성의 출혈과 심한 또는 편측 복통, 어깨끝 통증, 실신/전실신 → 자궁외임신 등 임신 관련 응급질환 우선 배제; 질 출혈량이 적어도 응급질환 가능
-* 출혈과 함께 흉통, 안정 시 호흡곤란 또는 의식 변화 → 중증 빈혈·순환부전 가능성으로 즉시 평가
+* 심한 출혈과 혈역학적 불안정(빈맥·저혈압·실신/전실신) 또는 순환부전 소견
+* 임신 가능성이 있는 환자의 출혈과 심한/편측 복통·어깨끝 통증·실신(자궁외임신 가능성; 질 출혈량이 적어도 위험)
+* 출혈과 흉통·안정 시 호흡곤란·의식 변화 동반
 
-<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 혈역학적으로 안정적이어도 1시간마다 패드가 흠뻑 젖는 출혈이 반복되는 경우(당일); 어지럼증·실신·흉통·호흡곤란이 동반되면 즉각 조치
-* 폐경 후 출혈 - 1회 또는 소량 spotting이라도 신속히 산부인과 평가를 연결
-* 지속 또는 반복되는 성교 후 출혈, 육안적 자궁경부 병변
-* 자궁내막암 위험 인자가 있으면서 지속되는 AUB
-* 약물 치료에도 지속되는 HMB 또는 철결핍빈혈 악화
+* 혈역학적으로 안정적이어도 1시간마다 패드가 흠뻑 젖는 출혈 반복(당일 평가 대상)
+* 폐경 후 발생한 출혈·spotting(1회 또는 소량 포함; HT의 예정된 소퇴성 출혈은 별도 판단)
+* 지속·반복되는 성교 후 출혈 또는 육안적 자궁경부 병변
+* 자궁내막암 위험 인자와 지속성 AUB
+* 치료에도 지속되는 HMB 또는 악화되는 철결핍빈혈
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 급성 AUB는 치료 시작 후 48~~72시간 내 반응 평가; 만성·비응급 AUB는 출혈 일지를 기록하여 수주~~3개월 내 반응 평가
-* 출혈이 지속/재발하거나 양상이 변하면 원인 재평가 및 필요시 산부인과 의뢰
+* 급성 AUB 치료 시작 후 48~72시간에도 뚜렷한 출혈 감소가 없음
+* 만성 AUB 치료 중 출혈의 지속·재발 또는 양상 변화
 
 ## <mark style="color:green;">진단</mark>
 
@@ -212,7 +212,7 @@ flowchart TD
 
 * 병력 : 출혈 시점·양·재발 여부, HRT, tamoxifen, 항응고제, 비만/당뇨/가족력 등 자궁내막암 위험 인자
 * 골반·질경검사 : 외음부/질 위축, 질 병변, 자궁경부 병변, polyp 및 실제 출혈원 확인
-* **대부분 : TVUS + endometrial tissue sampling**
+* **대부분의 자발성·예상 밖 PMB : TVUS + endometrial tissue sampling**. 주기적 HT의 예정된 소퇴성 출혈은 투여 요법에 따라 판단하고, 전신 HT 초기 부정출혈의 별도 기준은 치료·모니터링 항목 참조
 * **TVUS 단독 triage를 고려할 수 있는 제한적 상황**
   * 첫 1회의 PMB
   * 자궁내막이 전체적으로 명확히 보이고 두께 ≤4 ㎜
@@ -258,7 +258,7 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* HMB에서 철결핍/빈혈이 있으면 철분 치료(☞ [철결핍빈혈](../230_/193_-iron-def-anemia.md))
+* HMB에서 철결핍/빈혈이 있으면 출혈 조절과 철분 보충을 함께 시행; 식이 조절만으로 대체하지 않음. 경구 철분 불내성·흡수장애·반응 부족 또는 신속한 보충 필요 시 정주 철분 고려(☞ [철결핍빈혈](../230_/193_-iron-def-anemia.md))
 * 체중 관리, 규칙적인 운동 등은 PCOS/배란 장애 및 자궁내막암 위험 감소에 도움
 * 월경 일지를 이용하여 출혈의 빈도·기간·양과 치료 반응을 기록
 
@@ -299,7 +299,7 @@ flowchart TD
   * <mark style="color:blue;">\[야스민]</mark> : ethinyl estradiol(EE) 30 ㎍ + drospirenone 3 ㎎; 21일 복용 → 7일 휴약
   * <mark style="color:blue;">\[야즈]</mark> : EE 20 ㎍ + drospirenone 3 ㎎; 24일 활성정 → 4일 위약
 * progestin 단독
-  * medroxyprogesterone acetate(MPA) : 국내 기능성 자궁출혈 허가 용법은 주기 제16일 또는 제21일부터 5~~10 ㎎ qd ×5~~10일; 예: 제16일부터 10 ㎎ qd ×10일 <mark style="color:blue;">\[프로베라]</mark>
+  * medroxyprogesterone acetate(MPA) : 국내 기능성 자궁출혈 허가 용법은 주기 제16일 또는 제21일부터 5\~10 ㎎ qd ×5\~10일; 예: 제16일부터 10 ㎎ qd ×10일 <mark style="color:blue;">\[프로베라]</mark>
   * depot medroxyprogesterone acetate(DMPA) : 150 ㎎ IM q3개월 - 장기 월경 억제의 선택지(국외 지침 용법; 국내 제형·적응증·가용성 별도 확인). 초기 불규칙 출혈, 골밀도 감소 및 임신능 회복 지연을 고려하며 급성 지혈의 단독 1차 약제로 사용하지 않음
   * 짧은 주기요법은 무배란성 자궁내막 보호·소퇴성 출혈 유도가 주목적이며, HMB 감소 효과가 LNG-IUS나 더 긴 progestin 요법과 같지는 않음
   * norethindrone/norethisterone 계열은 제형·성분별 용량이 다르므로 norethindrone acetate와 0.35 ㎎ norethindrone POP를 혼용하지 않도록 주의
@@ -318,8 +318,8 @@ flowchart TD
 #### <mark style="color:$primary;">Tranexamic acid</mark>
 
 * antifibrinolytic 작용; 월경 시작과 함께 복용하여 HMB 기간에만 사용
-* 국내 도란사민캡슐 : 250 ㎎/C; 통상 성인 1일 750~~2,000 ㎎을 3~~4회 분복하며 연령·증상에 따라 조정. 성기출혈이 허가 효능에 포함됨
-* 국외 HMB 요법인 1,000~~1,300 ㎎ tid ×최대 4~~5일은 국내 통상 용량과 구분; 국내 제품에 그대로 옮겨 통상 허가 용법으로 제시하지 않음
+* 국내 도란사민캡슐 : 250 ㎎/C; 통상 성인 1일 750\~2,000 ㎎을 3\~4회 분복하며 연령·증상에 따라 조정. 성기출혈이 허가 효능에 포함됨
+* 국외 HMB 요법인 1,000\~1,300 ㎎ tid ×최대 4\~5일은 국내 통상 용량과 구분; 국내 제품에 그대로 옮겨 통상 허가 용법으로 제시하지 않음
 * HMB에서는 출혈이 많은 월경 기간에만 단기간 사용; 처방례의 4\~5일은 치료 예시이며 국내 허가상 일률적인 최대 사용기간은 아님
 * 활동성 혈전색전증, 중증 신부전 및 thrombin 병용은 국내 금기; 신기능 저하에서는 축적 위험과 감량 필요성 평가
 * 혈전색전증 병력·혈전성향증 등 고위험에서는 대안을 우선 검토. COC와의 일상적 병용을 피하고, 국내 허가사항의 호르몬 피임제 병용 시 혈전 위험 및 비호르몬 대체 피임 권고를 확인
@@ -331,7 +331,7 @@ flowchart TD
 * 월경 시작 또는 직전부터 출혈이 많은 기간 동안 사용
 * ibuprofen : 400 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
 * naproxen sodium : 275 ㎎ tid <mark style="color:blue;">\[아나프록스]</mark>
-* mefenamic acid : 500 ㎎ 1회 이후 250 ㎎ q6h <mark style="color:blue;">\[폰탈]</mark>
+
 * 소화성 궤양, 신기능 저하, NSAID 과민증 등 금기/주의 확인; 다른 NSAID와 중복하지 않음
 * VWD·혈소판 기능장애 등 출혈장애가 확인되었거나 의심되는 HMB에서는 NSAID를 일상적으로 사용하지 않고 혈액내과와 상의; 항응고제 복용 시에도 출혈 위험을 확인
 
@@ -356,6 +356,7 @@ flowchart TD
 * endometrial ablation : 향후 임신을 원하지 않는 HMB 환자에서 선택적으로 고려; 악성/전암성 병변 배제 필요. 피임 시술이 아니므로 시술 후에도 효과적인 피임 필요
 * D\&C 단독은 만성 HMB의 지속적 치료로 권장하지 않으며, 급성 지혈 또는 자궁경검사와 함께 시행하는 진단적 처치와 구분
 * hysterectomy : 약물·보존적 치료 실패, 중증 구조적 질환, 악성/전암성 병변 등에서 definitive treatment
+* 주기적 HT의 예정된 소퇴성 출혈과 전신 HT 시작·변경 초기의 부정출혈은 투여 방식·시점 및 위험도에 따라 평가함. 첫 6개월(시작) 또는 3개월(변경) 이내라도 과다·지속 출혈이나 고위험 소견은 기다리지 않고 평가하며, 그 이후의 예상 밖 출혈은 신속한 평가 필요(☞ [폐경기증후군](../226_/108_-menopause-syndrome.md)) <mark style="color:$info;">[NICE NG23; BMS 2024/2026]</mark>
 * 폐경 후 출혈은 원인에 따라 위축성 질염 치료, polypectomy, EIN/암 치료 등 원인 특이적으로 치료
 
 ### <mark style="color:orange;">모니터링</mark>
@@ -485,7 +486,9 @@ N95.0 폐경 후 출혈 Postmenopausal bleeding
 
 ***
 
-### 주요 참고 지침 및 허가자료
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * FIGO. [The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions](https://doi.org/10.1002/ijgo.12666).
 * ACOG Practice Bulletin No. 128. [Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women](https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2012/07/diagnosis-of-abnormal-uterine-bleeding-in-reproductive-aged-women) (2012).
@@ -496,4 +499,9 @@ N95.0 폐경 후 출혈 Postmenopausal bleeding
 * Munro MG, et al. [Oral medroxyprogesterone acetate and combination oral contraceptives for acute uterine bleeding: a randomized controlled trial](https://pubmed.ncbi.nlm.nih.gov/17012455/) (2006).
 * Southern California Permanente Medical Group. [Acute Uterine Bleeding Unrelated to Pregnancy: A Practice Guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC3783080/) (2013).
 * [2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome](https://doi.org/10.1016/j.fertnstert.2023.07.025).
-* 국내 허가자료 : 식약처 의약품안전나라 [도란사민캡슐](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197200091), [야즈정](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807400); [프로베라정 국내 제품설명서](https://labeling.pfizer.com/ShowLabeling.aspx?id=16179), [미레나 국내 허가사항](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB1200), [폰탈 제조사 제품정보](https://www.yuhan.co.kr/Mobile/Products/List/?YPRD_IDX=1796\&mode=view). 제품 허가정보 확인일: 2026-10-02.
+* NICE. [Menopause: identification and management. NG23](https://www.nice.org.uk/guidance/ng23). 2026 개정.
+* British Menopause Society. [Management of unscheduled bleeding on hormone replacement therapy](https://thebms.org.uk/publications/bms-guidelines/management-of-unscheduled-bleeding-on-hormone-replacement-therapy-hrt/). 2024; 2026 검토본.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라 — 의약품 품목허가정보](https://nedrug.mfds.go.kr/index). 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
