@@ -5,8 +5,6 @@
 * 객혈(hemoptysis) : 하기도에서 발생한 혈액을 기침과 함께 배출하는 것; blood-streaked sputum부터 다량의 혈액 배출까지 다양
 * 소량 객혈은 점액농성 또는 화농성 가래에 혈액이 줄무늬 또는 점상으로 묻어 나오는 형태가 흔함
 * 기관지 점막의 자극 또는 손상으로 발생할 수 있음
-* 가래 : 거품 있음, 액체 or clot, 선홍색 or 분홍색
-* 병력 : 폐질환력(+), 구역/구토(-)
 * 건강한 젊은 비흡연자에서 명확한 URI와 연관된 일회성 극소량 객혈은 임상 판단에 따라 제한적 평가와 경과 관찰이 가능하나, 지속·반복되거나 위험인자가 있으면 영상검사를 포함한 추가 평가 시행
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -25,17 +23,16 @@
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * Hb ＜8 g/㎗ (객혈과 관련된 급성 저하가 아니거나 혈역학적으로 안정된 경우)
-  * 급성 저하·혈역학적 불안정이 동반되면 위 Tier 1 적용
+  * 급성 저하·혈역학적 불안정이 동반되면 위 '즉각 조치' 항목에 준함
 * 폐동맥류/가성동맥류(예: 결핵성 Rasmussen aneurysm), 폐동정맥기형(PAVM), aspergilloma 또는 병변의 폐동맥 침범 등 고위험 혈관성 원인 의심
 * 거품 섞인 분홍색 가래 + 기좌 호흡·야간 발작성 호흡 곤란 `심부전`
+* 발열·야간 발한·체중 감소 동반 또는 결핵 위험인자  `폐결핵`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 체중 감소, 피로, malaise
-* 과도한 흡연력
+* 체중 감소, 피로, malaise  `폐암`  `결핵`
+* 40세 초과·30갑년 초과 흡연자에서 발생한 객혈  `폐암`
 * 소량이라도 반복되는 객혈 `폐암`
-
-※ 기도 폐쇄(asphyxia) 위험 시 즉각 대응; 소량의 객혈이라도 기도를 막으면 질식사 가능. 호흡 곤란·호흡음 감소·산소포화도 저하가 있으면 즉시 기도 확보 및 응급 의뢰
 
 ## <mark style="color:green;">원인 및 감별</mark>
 
@@ -55,6 +52,7 @@
   * 승모판 협착증 : 좌심방 압력 상승 → 폐정맥 고혈압으로 객혈 유발
 * 약제 유발
   * 항응고제(와파린, DOAC, 헤파린/저분자헤파린) : 용량 과다 또는 상호작용
+  * 항혈소판제(aspirin, P2Y12 억제제) : 특히 항응고제와 병용 시
   * 항혈관신생제(Bevacizumab) : 특히 편평세포폐암에서 치명적 대량 출혈 위험
   * 세포독성 항암제 : 일부 약제에서 폐출혈 유발 가능
 * 의인성(iatrogenic) : 기관지 내시경 생검, 경피적 폐 생검, BAL 후 발생 가능; 최근 시술력 확인
@@ -69,11 +67,11 @@
 
 * 진찰 첫 단계 : 구인두 후벽에서 흐르는 혈액이 기침과 섞여 나와 객혈로 오인될 수 있음
   * 구강·비강 시진 우선 시행; 구강(잇몸, 혀, 인두) 및 비강을 육안으로 먼저 확인
-  * 필요 시 후두경 또는 비경 검사로 상기도 출혈원 확인
+  * 필요시 후두경 또는 비경 검사로 상기도 출혈원 확인
 
 <table><thead><tr><th width="113">항목</th><th width="162">객혈</th><th width="172">토혈</th><th>상기도/구강 출혈 (Pseudohemoptysis)</th></tr></thead><tbody><tr><td>선행 증상</td><td>기침</td><td>구역/구토</td><td>비충혈, 후비루, 구강·인후 불편감</td></tr><tr><td>색깔</td><td>선홍색 또는 분홍색</td><td>암적색 또는 커피색</td><td>선홍색 (코피와 동일)</td></tr><tr><td>성상</td><td>거품 있음, 액체 or clot</td><td>음식 잔류물 혼재 가능</td><td>거품 없음, 인두 타고 넘어옴</td></tr><tr><td>pH</td><td>알칼리성</td><td>산성</td><td>-</td></tr><tr><td>기저질환</td><td>폐/심장 질환</td><td>위장/식도 질환</td><td>비염, 비중격 질환, 구강·인후두 질환</td></tr><tr><td>이후 증상</td><td>혈성 가래 지속 가능</td><td>흑색 변 동반 가능</td><td>구강·비강 검진 시 출혈원 확인</td></tr></tbody></table>
 
-_<mark style="color:$info;">※ 표의 소견은 병력·진찰과 함께 참고하는 보조적 지표이며, 개별 소견만으로 단정하지 않음(예: 혈액을 삼킨 후 구토하거나, 객혈이 혈괴 형태·거품 없는 양상으로 나타나는 예외가 있을 수 있음). pH는 참고 항목이며 실제 임상에서 직접 측정은 거의 이루어지지 않음; 음식물 잔류물(food particles) 유무는 감별에 참고할 수 있는 소견 중 하나임. 최종 감별은 병력·구강 및 비강 진찰, 필요 시 후두경·상부위장관 내시경을 종합하여 판단</mark>_
+_<mark style="color:$info;">※ 표의 소견은 병력·진찰과 함께 참고하는 보조적 지표이며, 개별 소견만으로 단정하지 않음(예: 혈액을 삼킨 후 구토하거나, 객혈이 혈괴 형태·거품 없는 양상으로 나타나는 예외가 있을 수 있음). pH는 참고 항목이며 실제 임상에서 직접 측정은 거의 이루어지지 않음; 음식물 잔류물(food particles) 유무는 감별에 참고할 수 있는 소견 중 하나임. 최종 감별은 병력·구강 및 비강 진찰, 필요시 후두경·상부위장관 내시경을 종합하여 판단</mark>_
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -106,7 +104,7 @@ graph TD
     B -- "구강·비강 출혈<br/>(pseudohemoptysis)" --> C["해당 경로로 전환<br/>(ENT/치과 등)"]
     B -- "구역·구토 선행<br/>(hematemesis)" --> D["소화기 경로로<br/> 전환"]
     B -- "YES" ---> E["Red Flags<br/>즉각 응급 해당?"]
-    E -- "YES" --> F["<u>응급 경로</u><br/>①기도확보(intubation 고려)<br/>②출혈측 확인 시 아래로 측와위,<br/>   불명확하면 상체 거상<br/>③산소 공급, 목표 94–98%<br/>   (고탄산혈증 위험: 88–92%)<br/>④즉시 응급실·ICU 전원<br/>⑤안정 시 CTA → BAE<br/>   기도 조작 필요 시 <br/>기관지내시경 우선 가능"]
+    E -- "YES" --> F["<u>응급 경로</u><br/>①기도확보(intubation 고려)<br/>②출혈측 확인 시 아래로 측와위,<br/>   불명확하면 상체 거상<br/>③산소 공급, 목표 94–98%<br/>   (고탄산혈증 위험: 88–92%)<br/>④즉시 응급실·ICU 전원<br/>⑤안정 시 CTA → BAE<br/>   기도 조작 필요시 <br/>기관지내시경 우선 가능"]
     E -- "NO" --> G["<u>기본 평가</u><br/>병력: 흡연·TB·기관지확장증<br/>항응고제·암 위험<br/>증상: 발열·체중감소·흉통<br/>진찰: 구강·비강 확인<br/>검사: CXR, CBC ± 응고"]
     G --> H["CT 적응증 해당?"]
     H -- "YES" --> I["CT 시행<br/>(원인 확인 + 출혈 위치 파악)"]
@@ -160,7 +158,7 @@ graph TD
   * 항응고제 관련 : 마지막 복용 시간·신기능·출혈 중증도·혈전색전 위험을 함께 평가하여 중단 및 reversal 필요성 결정 (☞ 처방례 3 참조)
   * 심부전 : 임상적 울혈이 확인된 경우 이뇨제, nitrate (☞ [호흡곤란](007_-dyspnea.md#management))
 * 소량\~중등도 객혈 지혈 보조
-  * tranexamic acid 경구 : 국내 대표 경구 제제 허가사항 기준 보통 성인 1일 750\~2,000 ㎎을 3\~4회 분할 투여(예 500 ㎎ tid); 단기 사용 고려
+  * tranexamic acid 경구 : 국내 대표 경구 제제 허가사항 기준 보통 성인 1일 750\~2,000 ㎎을 3\~4회 분할 투여(예: 500 ㎎ tid) <mark style="color:blue;">\[트란사민]</mark>; 단기 사용 고려
     * 금기 : 활동성 혈전색전증, 중증 신부전(허가사항상 투여 금기)
     * 신중 투여 : 혈전증 병력 또는 고위험 상태(DVT·PE 병력 등), 신부전(혈중농도 상승 가능)
     * 혈뇨, 특히 상부요로 출혈 : 혈괴에 의한 요로폐쇄 가능성 고려
@@ -191,12 +189,10 @@ graph TD
 
 * 국내에는 현재 시판되는 4F-PCC가 없음. aPCC인 <mark style="color:blue;">\[훼이바]</mark>는 국내 허가·공급되지만 허가 적응증은 응고인자 억제인자를 보유한 혈우병 환자의 출혈 관리이며, DOAC 역전 목적 사용은 허가 외 사용이므로 혈액학·수혈의학 전문의 및 기관 protocol에 따름
 * dabigatran <mark style="color:blue;">\[프라닥사]</mark> ↔ idarucizumab <mark style="color:blue;">\[프락스바인드]</mark>
-* rivaroxaban <mark style="color:blue;">\[자렐토]</mark>·apixaban <mark style="color:blue;">\[엘리퀴스]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음
-  * andexanet alfa는 안전성 문제로 미국 판매 중단, 국내 미공급
+* rivaroxaban <mark style="color:blue;">\[자렐토]</mark>·apixaban <mark style="color:blue;">\[엘리퀴스]</mark>·edoxaban <mark style="color:blue;">\[릭시아나]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음
+  * rivaroxaban·apixaban의 특이 역전제였던 andexanet alfa는 안전성 문제로 미국 판매 중단, 국내 미공급
   * FFP와 vitamin K는 역전제로 사용하지 않으며 비특이적 지혈제 사용 여부는 전문의 및 기관 protocol에 따라 결정
-* edoxaban <mark style="color:blue;">\[릭시아나]</mark> ↔ 국내에 승인·공급되는 특이 역전제 없음
-  * FFP와 vitamin K는 역전제로 사용하지 않으며 비특이적 지혈제 사용 여부는 전문의 및 기관 protocol에 따라 결정
-* warfarin ↔ 4F-PCC + IV vitamin K가 우선이나, 국내에서 4F-PCC를 사용할 수 없으면 FFP + IV vitamin K
+* warfarin(중증·생명위협 출혈) ↔ 4F-PCC + IV vitamin K 5\~10 ㎎이 우선이나, 국내에서 4F-PCC를 사용할 수 없으면 FFP + IV vitamin K 5\~10 ㎎
 * UFH(미분획 헤파린)/LMWH(저분자량 헤파린) 복용 중인 경우 → protamine 고려 (LMWH는 부분적 중화만 가능)
 
 ***
@@ -216,9 +212,11 @@ graph TD
 > **처방례 1. 소량 객혈 - 지역사회획득폐렴(CAP)이 임상적으로 의심되는 경우**
 >
 > ```
-> Amoxicillin/Clavulanate 625 ㎎ 1T tid × 7일 (CAP 치료; 중증도·기저질환에 따라 항생제 선택 조정)
-> Tranexamic acid 500 ㎎ 1T tid × 3~5일 (지혈 보조)
+> 오구멘틴 625 ㎎/T 1T tid × 7일 (CAP 치료)
+> 트란사민 250 ㎎/C 2C tid × 3~5일 (지혈 보조)
 > ```
+>
+> _✽ 항생제는 중증도·동반질환·비정형 병원체 가능성과 국내 내성 양상에 따라 선택함. 국내 외래 CAP 지침은 β-lactam 단독요법을 인정하며, 비정형 폐렴이 의심되면 macrolide 병용을 고려함 (☞ 폐렴)_
 >
 > _✽ 객혈 자체는 항생제 적응증이 아니며, 세균성 감염이 임상적으로 확인된 경우에 한해 해당 질환의 표준 처방을 따름; 단순 급성 기관지염에서는 일률적인 항생제 투여를 권고하지 않음. 기관지확장증의 감염성 악화가 의심되는 경우 가능하면 항생제 투여 전 객담 배양검사를 시행하고, 이전 배양 결과·지역 내성 양상·임상적 중증도를 고려하여 항생제를 선택(중증 환자에서는 배양 결과를 기다리느라 치료를 지연하지 않음); Pseudomonas 과거 배양력이 있으면 해당 감수성 결과에 따른 항녹농균 항생제 고려_
 >
@@ -227,7 +225,7 @@ graph TD
 > **처방례 2. 소량 객혈 - 기침 억제 병용**
 >
 > ```
-> Tranexamic acid 500 ㎎ 1T tid × 3~5일
+> 트란사민 250 ㎎/C 2C tid × 3~5일
 > Codeine phosphate 20 ㎎ 1T bid~tid
 > 또는 Dextromethorphan 15 ㎎ 1T tid
 > ```
@@ -242,7 +240,7 @@ graph TD
 > [와파린]
 > ※ 판단 기준 : 출혈 중증도, INR, 혈전색전 위험을 함께 평가
 > → 비중증 소량 객혈 : warfarin 일시 중단 여부를 개별 결정하고 INR 확인; routine vitamin K는 일반적으로 필요하지 않음
-> → major/life-threatening bleeding : 즉시 warfarin 중단 + FFP + IV vitamin K, 응급 전원
+> → major/life-threatening bleeding : 즉시 warfarin 중단 + FFP + IV vitamin K 5~10 ㎎(서서히 주입), 응급 전원
 >
 > [DOAC]
 > ※ 판단 기준 : 마지막 복용 시간 및 eGFR 확인 (신기능 저하 시 약물 축적 가능)
@@ -276,7 +274,7 @@ graph TD
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **Tranexamic acid (경구/흡입)**
+> **Tranexamic acid (트란사민) - 경구/흡입**
 >
 > * 경구는 보통 성인 1일 750\~2,000 ㎎을 3\~4회 분할 투여하며(제품별 허가사항 확인), 단기(3\~5일) 지혈 보조 목적으로 사용; 결핵·종양 등 근본 원인 평가를 지연시키지 않아야 합니다
 > * 활동성 혈전색전증·중증 신부전 환자에게는 투여하지 않으며, DVT·PE 병력·고위험 상태에서는 신중 투여
@@ -341,8 +339,8 @@ graph TD
 * [Olsen KM, et al. ACR Appropriateness Criteria® Hemoptysis. J Am Coll Radiol. 2020;17(5S):S148-S159.](https://pubmed.ncbi.nlm.nih.gov/32370959/) - 객혈의 중증도·재발에 따른 영상검사와 색전술 평가
 * [Society of Chest Imaging and Interventions. Society of Chest Imaging and Interventions Consensus Guidelines for the Interventional Radiology Management of Hemoptysis. Indian J Radiol Imaging. 2023;33(3):361-372.](https://doi.org/10.1055/s-0043-1762552) - 생명위협 객혈의 기도·순환 안정, 출혈 위치 확인과 기관지동맥색전술
 * [Tomaselli GF, et al. 2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants. J Am Coll Cardiol. 2020;76(5):594-622.](https://pubmed.ncbi.nlm.nih.gov/32680646/) - 항응고제 관련 중증 출혈의 약물 중단·역전·재개 판단; 이후 안전성 정보와 함께 해석
+* [U.S. Food and Drug Administration. Update on the Safety of Andexxa by AstraZeneca: FDA Safety Communication. December 18, 2025.](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication) - 혈전색전증 안전성 문제와 미국 판매 중단 관련 자료
 
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 지혈제·항응고 역전 관련 제제의 국내 적응증·투여법·안전성과 허가 외 사용 여부
-* [U.S. Food and Drug Administration. Update on the Safety of Andexxa by AstraZeneca: FDA Safety Communication. December 18, 2025.](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication) - 혈전색전증 안전성 문제와 미국 판매 중단 관련 자료; 국내 허가·공급·기관 역전 protocol과 구분
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

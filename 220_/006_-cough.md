@@ -8,7 +8,7 @@
   * 위식도역류가 기침에 기여하는 환자가 있으나 인과관계 판단이 쉽지 않으며, 특히 전형적 역류 증상이 없는 환자에서는 PPI의 기침 개선 효과가 제한적임
 * 흡연 관련 만성 기침은 금연 후 대부분 호전하므로 금연 상담을 우선 시행
 * ACEI 복용 중인 환자에서는 약물 유발 기침을 항상 먼저 배제할 것
-  * ACEI 외에도 opioid, 전립선 관련 약제, 안과용 prostanoid 점안액, statin, NSAID 등이 기침을 유발할 수 있으며, 비선택적 β차단제는 기침 수용체 자극이 아닌 직접적 기관지 수축을 통해 기침을 악화시킬 수 있음; DPP-4i는 보조적 원인으로 고려
+  * ACEI 외에도 opioid, 안과용 prostanoid 점안액, statin, NSAID 등이 기침을 유발할 수 있다는 보고가 있으며(약물별 빈도·근거 수준은 다름), 비선택적 β차단제(점안 timolol 포함)는 기침 수용체 자극이 아닌 직접적 기관지 수축을 통해 기침을 악화시킬 수 있음; DPP-4i는 보조적 원인으로 고려
 * 급성 기침의 대부분은 바이러스 감염(감기, 급성 기관지염)이 원인으로 항생제의 관습적·일상적 처방은 삼가야 함
   * 가래 색깔(화농성 여부)만으로는 세균 감염 여부나 항생제 반응을 예측할 수 없으므로 단순 급성 기관지염에서 항생제의 근거로 사용하지 않음
   * 항생제는 폐렴, 백일해, 전신 상태가 매우 불량하거나 합병증 고위험군, COPD 급성악화 등 별도의 항생제 적응증이 있을 때 고려
@@ -19,7 +19,7 @@
 
 * 아나필락시스 (갑작스러운 기침 및 호흡곤란)
 * 호흡 곤란, 빈호흡(＞30회/분)
-* 저혈압(SBP ＜90 또는 DBP ＜60 ㎜Hg)
+* SBP ＜90 ㎜Hg 또는 말초 저관류·의식 변화를 동반하는 저혈압
 * 빈맥(＞130회/분)
   * 소아에서는 연령별 정상 호흡수·심박수·혈압 및 호흡곤란 기준을 적용
 * 설명할 수 없는 급성 흉통
@@ -27,17 +27,19 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 객혈
+* 객혈  `폐암`  `결핵`  `기관지확장증`
 * ＞3일 지속되는 발열
-* 결핵 또는 면역 저하 위험군
-* 구토, 연하곤란 동반
-* 잦은 흡인성 폐렴 병력 또는 섭식장애
-* 55세 이상 30갑년 이상 흡연자, 또는 45세 이상 흡연자에서 새로 발생한 기침 또는 기존 기침 양상의 변화
+* 결핵 위험인자(접촉력, 과거 결핵, 고령 등) 동반  `폐결핵`
+* 면역저하 상태  `기회감염`  `폐결핵`
+* 구토, 연하곤란 동반  `흡인`
+* 잦은 흡인성 폐렴 병력 또는 섭식장애  `흡인`
+* 55세 이상 30갑년 이상 흡연자, 또는 45세 이상 흡연자에서 새로 발생한 기침 또는 기존 기침 양상의 변화  `폐암`
+* 곤봉지 또는 경부/쇄골 위 림프절병증  `폐암`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 다음 증상이 ＞3주 동반 : 흉부/어깨 통증, 쉰 목소리, 곤봉지, 경부/쇄골 위 림프절병증
-* 설명할 수 없는 체중 감소
+* ＞3주 지속되는 흉부/어깨 통증 또는 쉰 목소리  `폐암`
+* 설명할 수 없는 체중 감소  `폐암`  `결핵`
 * 경험적 치료에 반응하지 않음
 
 ## <mark style="color:green;">기간에 따른 분류 및 원인</mark>
@@ -89,14 +91,14 @@
 * 반복적 기침이 tic의 핵심 특성인 억제 가능성(suppressibility), 주의 전환 시 감소(distractibility), 암시에 의한 변화(suggestibility), 변동성(variability), 기침 직전의 전구 감각(premonitory sensation) 등을 보일 때 의심
 * 소아·청소년에서 더 흔하지만 성인에서도 발생 가능
 * barking/honking 형태의 기침 소리 또는 수면 중 기침 소실만으로 진단하거나 배제해서는 안 됨
-* 다른 의학적 원인을 충분히 평가한 후 진단하며, 필요 시 틱 장애 또는 신경정신의학적 동반 질환을 함께 평가
+* 다른 의학적 원인을 충분히 평가한 후 진단하며, 필요시 틱 장애 또는 신경정신의학적 동반 질환을 함께 평가
 
 **Somatic cough syndrome** (somatic cough disorder; 과거 psychogenic cough)
 
 * 다른 의학적 원인을 충분히 평가하여 배제한 뒤에도 기침이 지속되면서 신체증상장애(somatic symptom disorder)의 진단 기준을 충족하는 경우 고려
 * 기침 자체 또는 이에 대한 과도하고 지속적인 생각·불안·행동으로 상당한 고통이나 일상 기능 저하가 나타날 수 있음
 * 기침의 음색, 야간 소실 여부, 관찰자의 유무만으로 진단하지 않음
-* 필요 시 [신체증상장애](../221_/031_-somatic-symptom-disorder.md), [우울증](../221_/027_-depression.md), [불안장애](../221_/025_-anxiety-disorder.md) 등 동반 질환을 평가
+* 필요시 [신체증상장애](../221_/031_-somatic-symptom-disorder.md), [우울증](../221_/027_-depression.md), [불안장애](../221_/025_-anxiety-disorder.md) 등 동반 질환을 평가
 
 #### <mark style="color:$primary;">ACE inhibitor-induced cough</mark>
 
@@ -104,7 +106,7 @@
 * 대부분 ACEI 투여 개시 수일\~수주 내 시작하지만 수개월 후 시작되는 경우도 있음
 * 인후부 가려움, 따끔거림, 또는 긁는 느낌
 * ACEI 중단 후 대개 1\~4주 이내 소실하며, 일부에서는 최대 약 3개월 지속될 수 있음; 재투약 시 재발
-* 여성에서 더 흔함
+* 여성 및 동아시아인에서 더 흔함
 * DPP-4 억제제는 보조적 약물 원인으로 고려할 수 있으며, 특히 ACEI 병용 시 bradykinin/substance P 관련 이상반응 위험이 증가할 수 있음
 
 #### <mark style="color:$primary;">비천식성 호산구성 기관지염 (Non-asthmatic eosinophilic bronchitis, NAEB)</mark>
@@ -165,7 +167,7 @@
   * 고령은 단독 적응증으로 보기보다 동반 위험인자와 임상 양상을 고려하여 검사 문턱을 낮춤
 * 객담 검사 : 만성 productive cough 또는 감염·기관지확장증 등이 의심되는 경우 배양검사를 고려
   * 결핵 위험인자 또는 임상·영상 소견이 있으면 AFB 도말/배양 및 분자검사 시행
-  * 객담 세포진(sputum cytology)은 흡연자·고령자의 폐암 선별검사로, routine 시행하지 않음
+  * 객담 세포진(sputum cytology)은 폐암 선별 목적으로 권장되지 않으며 routine 시행하지 않음
 * HRCT : 만성 기침에서 기본 평가(흉부 X선, 폐 기능 검사) 및 단계적 경험적 치료 실패 후 고려
   * 비전형적 양상이나 red flag 소견이 새로 나타난 경우에는 조기 시행
 * FeNO(호기산화질소) : 호산구성 기도 염증을 직접 확진하는 검사가 아니라 간접적으로 추정하는 보조 검사
@@ -199,7 +201,6 @@
 
 ```mermaid
 graph TD
-    %% 텍스트 양옆에 &emsp;를 추가하여 가로 길이를 강제로 늘립니다.
     Start["배제 증상/징후✽"]
     Start -- "해당사항 없음" --> Symptomatic["대증 치료"]
     FOOTNOTE["✽<u>배제 증상/징후</u><br/>• 객혈, 호흡곤란, 쉰 목소리, <br/>구토, 연하곤란<br/>• 전신증상(발열, 체중감소,<br/> 사지부종 동반 체중 증가)<br/>• 비정상 호흡음, <br/>부잡음(악설음, 천명, 협착음)<br/>• 기저 폐질환 및 <br/>심질환 악화 소견<br/>• 잦은 흡인성 폐렴, 섭식장애<br/>• 55세 이상 30갑년 이상 <br/>흡연자, 또는 45세 이상 <br/>흡연자의 새 기침·양상 변화<br/>• >2주 지속"]
@@ -211,9 +212,10 @@ graph TD
     RedFlags -- "있음" --> CT["흉부 CT 촬영, <br/>기관지 내시경검사"]
     RedFlags -- "없음" --> PFT["폐 기능검사(기관지확장제 <br/>반응 포함) ±기관지 유발 검사²⁾"]
     CT -- "정상" --> Maintain
+    CT -- "비정상" --> TreatCause
     PFT -- "정상" --> Maintain
     PFT -- "비정상" --> TreatBase["기저/원인 질환에 대한 <br/>평가 및 치료¹⁾"]
-style Start fill:#f5f5f5,stroke:#333
+style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 style FOOTNOTE fill:#f5f5f5,stroke:#333
 classDef yellow fill:#fff9c4,stroke:#ffe082
 class RedFlags yellow
@@ -228,13 +230,13 @@ class Xray,CT,PFT lightGreen
 ¹⁾_증상 지속 시 아급성 및 만성 기침 알고리듬에 따름_\
 ²⁾_검사가 어려울 경우 경험적 치료를 고려할 수 있음_
 
-<p align="center"><strong>급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 개정 기침진료지침. 2020.</mark></em></p>
+<p align="center"><strong>급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 대한결핵 및 호흡기학회 개정 기침진료지침 2020)</mark></em></p>
 
 ***
 
 ```mermaid
 graph TD
-    Start["3~8주의 기침"] --> Xray["병력청취, 신체진찰<br/>흉부 X선 ± 부비동 촬영"]
+    Start["3~8주의 기침"] --> Xray["병력청취, 신체진찰<br/>흉부 X선"]
     
     Xray -- "비정상" --> TreatCause["원인 질환 치료 및 <br/>추가 검사"]
     
@@ -253,9 +255,9 @@ graph TD
     
     FollowUp -- "악화 및 재발" --> Chronic
     %% 스타일 설정
-    style Start fill:#f5f5f5,stroke:#333
-    style RedFlags fill:#ffebee,stroke:#c62828
-    style PostInfectious fill:#fff9c4,stroke:#fbc02d
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style RedFlags fill:#fff9c4,stroke:#ffe082
+    style PostInfectious fill:#fff9c4,stroke:#ffe082
     style FollowUp fill:#e1f5fe,stroke:#01579b
     style TreatCause fill:#e1f5fe,stroke:#01579b
     style Chronic fill:#e1f5fe,stroke:#01579b
@@ -264,7 +266,7 @@ graph TD
 
 _\*임상적 특성을 고려하여 Pertussis 또는 Mycoplasma 감염이 의심되면 이에 대한 검사 및 치료를 시행할 수 있음_
 
-<p align="center"><strong>아급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 개정 기침진료지침. 2020.</mark></em></p>
+<p align="center"><strong>아급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 대한결핵 및 호흡기학회 개정 기침진료지침 2020)</mark></em></p>
 
 ***
 
@@ -273,10 +275,10 @@ graph TD
     Start["성인 만성기침 ≥8주<br/>• 병력 및 신체검사<br/>• Red flag 확인<br/>• ACEI/흡연/직업·환경 노출 확인"]
     Start --> Basic["기본 평가<br/>• 흉부 X선<br/>• 폐 기능검사<br/>• ± FeNO / 혈중 eosinophils"]
     Basic --> Abnormal["이상 소견 또는<br/>특이적 임상 단서?"]
-    Abnormal -- "있음" --> Specific["추정 질환에 대한 <br/>표적 검사·치료<br/>• 감염/결핵/<br/>기관지확장증<br/>• 악성질환/심부전 등<br/>• 필요 시 CT<br/>·기관지내시경"]
+    Abnormal -- "있음" --> Specific["추정 질환에 대한 <br/>표적 검사·치료<br/>• 감염/결핵/<br/>기관지확장증<br/>• 악성질환/심부전 등<br/>• 필요시 CT<br/>·기관지내시경"]
     Abnormal -- "없음" --> Traits["치료 가능한 특성<br/>(treatable traits) 평가"]
     Traits --> Eos["T2/eosinophilic <br/>airway disease 의심<br/>CVA/NAEB <br/>→ ICS 중심 치료"]
-    Traits --> Upper["비염/비부비동염 소견<br/>→ 비강 steroid ±<br/> 항히스타민제 등"]
+    Traits --> Upper["비염/비부비동염 소견<br/>→ 비강 스테로이드 ±<br/> 항히스타민제 등"]
     Traits --> Reflux["Heartburn/<br/>regurgitation 또는<br/>객관적 acid reflux 근거<br/>→ 생활습관 교정 ± PPI"]
     Traits --> Productive["만성 productive <br/>cough<br/>→ 감염·<br/> 기관지확장증 등 평가"]
     Eos --> FU["치료 반응 평가"]
@@ -287,9 +289,10 @@ graph TD
     FU -- "호전" --> Maintain["필요 기간 치료 후 <br/> 단계적 감량·추적"]
     FU -- "지속" --> Add["추가 평가<br/>• Methacholine challenge<br/>• 유도객담 eosinophils<br/>• Chest CT<br/>• ENT/후두 평가<br/>• 식도 생리검사 등 선택"]
     Add --> RCC["RCC/UCC 여부 평가<br/>+ 기침과민 특성 확인<br/>→ cough control therapy<br/>± neuromodulator"]
-    style Start fill:#f5f5f5,stroke:#333
-    style Traits fill:#fff9c4,stroke:#fbc02d
-    style FU fill:#f5f5f5,stroke:#333
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style Abnormal fill:#fff9c4,stroke:#ffe082
+    style Traits fill:#fff9c4,stroke:#ffe082
+    style FU fill:#fff9c4,stroke:#ffe082
     style RCC fill:#ffebee,stroke:#ef5350
     style Maintain fill:#e1f5fe,stroke:#01579b
 ```
@@ -305,8 +308,9 @@ graph TD
 * 금연 : 흡연 관련 만성 기침은 금연 후 대부분 호전하며, 금연은 가장 중요한 치료 중 하나임
 * 직업적 노출 회피 또는 차단; 미세먼지·황사 등 대기오염 심한 날에는 외출 자제 및 보건용 마스크(KF80 이상) 착용 권고
 * 원인 치료, 기저질환 치료
-* 대증약은 원인과 임상 양상에 따라 제한적으로 선택 : [진해제](../223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../223_/060_-common-cold.md#decongestant), [비강 steroid](../222_/051_-allergic-rhinitis.md#steroid)(UACS 등 상기도 원인 시); 흡입 스테로이드(ICS)는 천식/CVA·호산구성 기도질환이 의심될 때 사용
-* ACEI를 복용 중인 경우 ARB(안지오텐신 수용체 차단제)로 교체
+* 대증약은 원인과 임상 양상에 따라 제한적으로 선택 : [진해제](../223_/060_-common-cold.md#antitussive), [항히스타민제](../222_/051_-allergic-rhinitis.md#undefined-20), [코 울혈 제거제](../223_/060_-common-cold.md#decongestant), [비강 스테로이드](../222_/051_-allergic-rhinitis.md#steroid)(UACS 등 상기도 원인 시); 흡입 스테로이드(ICS)는 천식/CVA·호산구성 기도질환이 의심될 때 사용
+  * 꿀은 소아 급성 기침의 증상 완화에 도움이 될 수 있음(무처치·diphenhydramine 대비 효과가 보고되었으나 dextromethorphan 대비 우월성은 확인되지 않음); 1세 미만 금기(보툴리누스균 위험)
+* ACEI 복용 중 기침이 있으면 ACEI를 중단하고 필요시 ARB(안지오텐신 수용체 차단제) 등으로 교체(중단 후 호전 여부로 약물 유발을 판단)
   * ARB는 bradykinin 경로에 영향을 주지 않으므로 기침 부작용이 현저히 낮음
 
 #### <mark style="color:$primary;">기침 억제 재활 치료 (Cough Suppression Therapy)</mark>
@@ -324,13 +328,13 @@ graph TD
 
 #### <mark style="color:$primary;">알레르기비염, 후비루</mark>
 
-* 항히스타민제, 비내 steroid (☞ [알레르기비염](../222_/051_-allergic-rhinitis.md#management))
+* 항히스타민제, 비내 스테로이드 (☞ [알레르기비염](../222_/051_-allergic-rhinitis.md#management))
 
 #### <mark style="color:$primary;">감염후기침</mark>
 
 * 대부분 자연 호전하므로 경과 관찰(safety netting)과 증상 완화 설명이 기본; 백일해, 천식/CVA, UACS 등 다른 원인을 배제
-* ICS·기관지확장제 등이 감염후기침의 자연 경과를 의미 있게 바꾼다는 일관된 근거는 없으므로 routine 처방하지 않으며, 천식/CVA 등 별도 적응증이 별도로 의심될 때에만 제한적으로 trial 고려
-* 전신 steroid의 routine 사용은 권장하지 않음
+* ICS·기관지확장제 등이 감염후기침의 자연 경과를 의미 있게 바꾼다는 일관된 근거는 없으므로 routine 처방하지 않으며, 천식/CVA 등 별도 적응증이 의심될 때에만 제한적으로 trial 고려
+* 전신 스테로이드의 routine 사용은 권장하지 않음
 
 #### <mark style="color:$primary;">GERD</mark>
 
@@ -345,18 +349,20 @@ graph TD
 #### <mark style="color:$primary;">백일해</mark>
 
 * 항생제 치료: azithromycin(1차), clarithromycin 또는 TMP-SMX(대안; 생후 2개월 미만 영아 및 임신부에는 금기)
+  * 국내에서도 마크로라이드 내성 백일해균이 보고됨. 내성이 의심되거나 확인되면 가능한 경우 배양·감수성검사를 시행하고 TMP-SMX를 대안으로 고려함. 단, 항생제 치료 후 기침 지속만으로 내성을 판단하지 않음
 * 항생제는 전파 억제가 주목적이며, 후기 발작성 기침 자체의 지속 기간을 크게 줄이지는 못함
 * 1세 이상은 기침 시작 3주 이내, 1세 미만 영아·임신 말기는 6주까지 치료 고려(그 이후는 균 배출이 없어 치료 의미가 제한적)
 * 노출 후 예방(PEP)은 동일 항생제를 노출 후 21일 이내에 시행하며, 대상은 (1) 환자의 무증상 동거 가족 전체, (2) 중증 백일해 고위험군(영아, 임신 말기 등), (3) 고위험군과 접촉할 사람이며, 그 밖의 모든 일상 접촉자에게 routine 시행하지는 않음
+* 백일해는 제2급 감염병으로 환자 및 의사환자 진단 시 24시간 이내 신고
 
 #### <mark style="color:$primary;">상기도기침증후군</mark>
 
 * 비염·비부비동염 등 상기도 질환의 임상 소견에 따라 표적 치료
-* 기침 및 코 증상 : 비내 분무 steroid ± 경구 항히스타민제
+* 기침 및 코 증상 : 비내 분무 스테로이드 ± 경구 항히스타민제
   * 알레르기비염에서는 2세대 항히스타민제를 우선 고려
-* 후비루·비폐색 등 증상이 뚜렷한 경우 원인 질환에 따라 비강 세척, 비내 steroid 등을 병용
+* 후비루·비폐색 등 증상이 뚜렷한 경우 원인 질환에 따라 비강 세척, 비내 스테로이드 등을 병용
 * 충분한 치료에도 호전되지 않거나 만성 비부비동염·구조적 질환이 의심되면 비부비동 CT 또는 이비인후과 평가를 고려
-* 단순 UACS의 진단 목적으로 부비강 단순 X선 또는 전신 steroid를 routine 사용하지 않음
+* 단순 UACS의 진단 목적으로 부비강 단순 X선 또는 전신 스테로이드를 routine 사용하지 않음
 * 호전되지 않으면 천식/CVA, NAEB, GERD 및 다른 만성기침 원인을 재평가
 
 #### <mark style="color:$primary;">Tic cough / Somatic cough syndrome</mark>
@@ -403,7 +409,8 @@ graph TD
 
 * RCC에서 근거 수준이 가장 높은 opioid는 저용량 서방형 morphine임(Morice 등, AJRCCM 2007).
   * codeine은 대사 변이가 크고 COPD 관련 기침 RCT에서 위약 대비 이점을 보이지 못해 BTS 2023은 만성기침 치료제로 권장하지 않음
-* 예 : 서방형 morphine 5\~10 ㎎ bid로 단기 시작, 반응 확인 후 지속 여부 결정; 변비·졸림·오남용 위험 모니터링 (마약류 규정 준수 필수)
+* 해외 연구·지침 용량은 서방형 morphine 5\~10 ㎎ bid이나 국내에서는 서방형 5 ㎎ 제형 공급이 확인되지 않음; 서방정은 분할하지 않으며, 제형 문제로 시작 용량을 일률적으로 높이지 않음 - 전문진료에서 시작을 권장
+* 반응 확인 후 지속 여부 결정; 변비·졸림·오남용 위험 모니터링 (마약류 규정 준수 필수)
 
 <mark style="color:cyan;">**P2X3 수용체 길항제**</mark>
 
@@ -433,8 +440,8 @@ graph TD
 > **처방례 1. 상기도 기침증후군**
 >
 > ```
-> 페니라민 4 ㎎/T 3T #3 (클로르페니라민; 1세대 항히스타민제, 기침 반사 억제 효과)
-> 비내 steroid (예: fluticasone) 제품별 용법에 따라 사용
+> 페니라민 2 ㎎/T 6T #3 (클로르페니라민; 1세대 항히스타민제, 기침 반사 억제 효과)
+> 비내 스테로이드 (예: fluticasone) 제품별 용법에 따라 사용
 > 프리비투스 현탁액 5 ㎖* tid (필요시) (500 ㎖ 병 제품)
 > 트로키/사탕/껌 (필요시)
 > ```
@@ -502,7 +509,7 @@ graph TD
 #### <mark style="color:$primary;">기침 완화를 위해 이렇게 하세요</mark>
 
 * **수분 충분히 섭취** : 물을 자주 마시면 기도 점막을 촉촉하게 유지하고 가래 배출을 도와줍니다
-* **꿀 활용** : 상기도 감염 후 기침이 지속될 때 따뜻한 물이나 차에 꿀을 타서 마시면 증상 완화에 도움이 될 수 있습니다 (소아 대상 Cochrane review에서 무처치·디펜히드라민 대비 효과가 보고되었으나, 덱스트로메토르판 대비 우월성은 확인되지 않음; 성인에서는 참고 수준). 단, 1세 미만 영아에게는 절대 주지 마십시오 (보툴리누스균 위험)
+* **꿀 활용** : 따뜻한 물이나 차에 꿀을 타서 마시면 기침 완화에 도움이 될 수 있습니다. 단, 1세 미만 영아에게는 절대 주지 마십시오 (보툴리누스균 위험)
 * **가습기 사용** : 건조한 실내 공기는 기침을 악화시킵니다. 실내 습도를 30\~50%로 유지하십시오 (50%를 넘으면 오히려 곰팡이·집먼지진드기가 늘어날 수 있습니다). 가습기 물은 매일 갈아 주고 필터·물통을 주기적으로 세척하며, 벽이나 창에 결로가 생기면 습도를 낮추십시오
 * **금연** : 흡연은 만성 기침의 가장 강력한 유발·악화 요인입니다
 * **역류 관리** : 야식·과식·기름진 음식을 피하고, 식후 바로 눕지 마십시오
@@ -535,6 +542,6 @@ graph TD
 * [Rouadi PW, et al. WAO-ARIA consensus on chronic cough: Executive summary. World Allergy Organ J. 2025;18(3):101034.](https://doi.org/10.1016/j.waojou.2025.101034) - 일차의료·전문 진료의 만성기침 관리와 원인별 치료
 * [Chang AB, et al. Managing Chronic Cough as a Symptom in Children and Management Algorithms: CHEST Guideline and Expert Panel Report. Chest. 2020;158(1):303-329.](https://doi.org/10.1016/j.chest.2020.01.042) - 14세 이하 소아의 4주 초과 만성기침과 소아별 평가·치료 알고리듬
 
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 진해제·codeine·신경조절 약물의 적응증·소아 제한·안전성과 난치성 기침 목적의 허가 여부
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

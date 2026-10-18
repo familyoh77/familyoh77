@@ -17,6 +17,7 @@
 * 지속성 빈맥, 특히 HR ＞150회/분이면서 저혈압·의식 변화·허혈성 흉통·급성 심부전 등 혈역학적 불안정 동반
 * [Syncope](../221_/021_-syncope.md) or near-syncope 동반, 특히 지속성 빈맥·비정상 ECG·구조적 심장 질환이 함께 있는 경우
 * High-grade AV block, 지속성 심실빈맥, pre-excited AF(WPW pattern을 동반한 AF)
+* 운동 중 실신 또는 두근거림 직후의 실신  `악성 심실부정맥`  `비후성 심근병증`
 * 갑작스러운 편측 마비·안면 마비·언어 장애 등 새로운 국소 신경학적 증상 `뇌졸중` `색전증`
 
 {% hint style="info" %}
@@ -31,14 +32,12 @@ HR ＞150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
 * 고위험 구조적 심장 질환이 있거나 유전성 심장 질환·Sudden arrhythmic death syndrome 가족력
 * 경미하거나 비전형적인 흉부 불편감이 반복되면서 수면을 방해할 정도로 지속되는 두근거림
 * 하지 부종 등 심부전 가능성을 시사하는 소견
-* 박동기 또는 심장 제세동기 삽입 환자에서 새로운 두근거림 - 기기 오작동 감별 필요
+* 박동기 또는 심장 제세동기 삽입 환자에서 새로운 두근거림  `기기 오작동`  `부정맥`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 짧게 지속되는 빠르거나 쿵거리는 느낌, short fluttering이 있으나 상위 Red flag가 없는 경우
-* 단독 PAC/PVC가 의심되고 정상 ECG이며 구조적 심장 질환·고위험 가족력이 없고, 빈번하지 않으며 다형성·couplet·NSVT 양상이 아닌 경우
-* 느린 박동감이 있으나 정상 ECG이고 증상성 서맥·실신이 없으며 구조적 심장 질환·고위험 가족력이 없는 경우
-* 흉부 불편감 동반 없이 수면을 방해하는 정도의 두근거림만 단독으로 있는 경우
+* 새로 발생하거나 빈도·지속시간이 증가하는 반복성 두근거림  `발작성 부정맥`
+* PVC burden ≥10%의 빈번한 PVC  `PVC 유발 심근병증`
 
 ## <mark style="color:green;">원인</mark>
 
@@ -57,7 +56,7 @@ HR ＞150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
   3. "pounding in the neck"(neck pulsations) : 규칙적이고 뚜렷한 경정맥 박동은 AVNRT 등 심방·심실이 거의 동시에 수축하는 SVT를 시사하며, 일부에서는 현저한 jugular venous pulsation(cannon A wave 양상)이 관찰될 수 있음
 * Chest pain 동반 → 허혈성 심질환; 동반 흉통이 몸을 앞으로 숙일 때 호전되는 양상이면 심막 질환 고려
 * Light-headedness, presyncope or syncope → 저혈압, 중증 부정맥
-* 운동·힘든 작업 시 발생 → 동빈맥, SVT, 심실성 부정맥, 허혈성 심질환, 판막 질환·심근병증 등을 포괄하여 평가; 필요 시 운동부하검사 또는 운동 중 ECG 기록으로 확인
+* 운동·힘든 작업 시 발생 → 동빈맥, SVT, 심실성 부정맥, 허혈성 심질환, 판막 질환·심근병증 등을 포괄하여 평가; 필요시 운동부하검사 또는 운동 중 ECG 기록으로 확인
 
 ### <mark style="color:orange;">비심장 원인</mark>
 
@@ -103,12 +102,15 @@ HR ＞150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
 **약물**
 
 * 교감 신경 항진제(예: 다이어트 약물, 충혈 제거제, 천식 흡입제), 항부정맥제, 혈관 확장제, 항콜린제, β-차단제 금단, 카페인(예: 커피, 코코아, 초콜릿, 에너지 드링크), 니코틴, 코카인, 암페타민, 알코올
+* ADHD 치료제(methylphenidate 등 중추신경자극제), theophylline
 * GLP-1 수용체 작용제(삭센다, 오젬픽 등) : 경도의 심박수 증가(평균 2\~4 bpm) 유발 가능
 * Levothyroxine : 과잉 투여 시 빈맥·두근거림 유발 - TSH 확인 필수
 * SGLT2 억제제 : 직접적인 대표적 부정맥 유발 약물이라기보다, volume depletion·저혈압이 동반된 경우 이차적 빈맥/두근거림이 나타날 수 있으므로 수분 상태와 혈압을 함께 평가
 * 항암 치료 : 일부 tyrosine kinase inhibitor는 QT 연장·AF·심실성 부정맥을, anthracycline은 심근손상/심부전을 통해 이차적으로 두근거림을 유발할 수 있음
 
-**허브 및 영양 보충제, 특정 음식**
+**허브·영양보충제**
+
+* 마황(ephedra) 함유 제품, 고용량 카페인 함유 보충제·다이어트 보조제, 요힘빈 등
 
 ## <mark style="color:green;">진단</mark>
 
@@ -138,7 +140,7 @@ HR ＞150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
   * CBC, 전해질(K, Mg)·신기능, TSH, 혈당 등은 병력·진찰 및 의심 원인에 따라 선택
 * 심초음파(ECHO) : 구조적 심장 질환이 의심되는 경우 시행
   * 심잡음 청취, 비정상 ECG(좌심실 비대, ST 변화, pre-excitation 등), 심부전·심근병증·판막 질환 의심 → 심초음파 적극 시행
-  * 운동 중 두근거림 또는 실신 동반 → 구조적 심장 질환 여부에 따라 심초음파 및 필요 시 운동부하 평가/심장내과 의뢰 고려
+  * 운동 중 두근거림 또는 실신 동반 → 구조적 심장 질환 여부에 따라 심초음파 및 필요시 운동부하 평가/심장내과 의뢰 고려
 * BNP/NT-proBNP : 하지 부종·호흡 곤란 등 심부전이 시사되는 경우 기본 검사에 추가 고려
 
 {% hint style="danger" %}
@@ -162,6 +164,16 @@ HR ＞150회/분은 고위험 지속성 빈맥을 시사하는 실용적 기준�
 _AVNRT=Atrioventricular Nodal Reentrant Tachycardia_
 
 _✽위 심박수·양상 범위는 흔한 경향이며 절대적 진단 기준은 아님. 고령자·AV node 차단제 복용자에서는 SVT가 150회/분 미만일 수 있고, AF는 170회/분을 넘을 수 있으며, 공황·탈수·갑상선항진증에서는 130회/분을 넘을 수 있음_
+
+### <mark style="color:orange;">저위험으로 경과 관찰이 가능한 경우</mark>
+
+* Red Flags가 없고 아래에 해당하면 설명·안심과 경과 관찰을 우선할 수 있음
+  * 짧게 지속되는 빠르거나 쿵거리는 느낌, short fluttering
+  * 단독 PAC/PVC가 의심되고 정상 ECG이며 구조적 심장 질환·고위험 가족력이 없고, 빈번하지 않으며 다형성·couplet·NSVT 양상이 아닌 경우
+  * 느린 박동감이 있으나 정상 ECG이고 증상성 서맥·실신이 없으며 구조적 심장 질환·고위험 가족력이 없는 경우
+  * 흉부 불편감 동반 없이 수면을 방해하는 정도의 두근거림만 단독으로 있는 경우
+* 증상이 반복·지속되거나 양상이 변하면 증상 빈도에 맞춘 장기 심전도 모니터링으로 재평가
+* Couplet은 추가 평가가 필요한 복잡성 소견이나 그것만으로 PVC 유발 심근병증을 시사하지는 않음; 다형성·NSVT·운동 관련 악화·실신·기저 심질환이 동반되면 '당일\~수일 내 평가' 이상으로 판단
 
 ### <mark style="color:orange;">빈번한 PAC/PVC - burden 확인이 필요한 경우</mark>
 
@@ -217,6 +229,7 @@ graph TD
     Sinus --> Sinus1["원인 교정 우선<br/>(빈혈·갑상선<br/>·탈수·발열 등)"]
     Sinus1 -->|"지속 증상"| Sinus2["IST 등 감별 후<br/>원인별 치료"]
     Anxiety --> Anxiety1["☞ 불안장애<br/>CBT/SSRI 등 <br/>장기 치료 고려"]
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     style WPW fill:#ff6b6b,stroke:#c0392b,color:#fff
     style ER1 fill:#f39c12,stroke:#e67e22,color:#fff
     style Anxiety1 fill:#9b59b6,stroke:#7d3c98,color:#fff
@@ -271,13 +284,13 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
   * [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb) : propranolol 10\~120 ㎎/d <mark style="color:blue;">\[인데놀]</mark>, bisoprolol 2.5\~10 ㎎/d <mark style="color:blue;">\[콩코르]</mark>
     * 1차 진료에서는 저용량(예: bisoprolol 2.5 ㎎/d)으로 시작해 반응·내약성에 따라 서서히 증량
     * metoprolol tartrate <mark style="color:blue;">\[베타록정 100 ㎎]</mark>은 2026년 상반기 국내 공급이 중단되었으므로 해당 제품 처방 시 유통 여부 확인 필요
-  * [non-DHP계 CCB](../225_/095_-hypertension.md#calcium-channel-blocker-ccb) : diltiazem 120\~180 ㎎/d <mark style="color:blue;">\[헤르벤]</mark>, verapamil 120\~360 ㎎/d <mark style="color:blue;">\[이솦틴]</mark>
+  * [non-DHP계 CCB](../225_/095_-hypertension.md#calcium-channel-blocker-ccb) : diltiazem 서방형 120\~360 ㎎/d <mark style="color:blue;">\[헤르벤]</mark>(AF 심박수 조절 목적은 허가 외 사용), verapamil 120\~360 ㎎/d <mark style="color:blue;">\[이솦틴]</mark>
 
 <mark style="color:cyan;">**β-차단제 금기·주의**</mark>
 
 * 안정 시 맥박 ＜55회/분은 감량·보류를 고려할 기준이나 모든 환자에게 동일하게 적용되는 절대 기준은 아님
   * 운동선수·평소 서맥이 있는 무증상 환자에서는 정상일 수 있으므로 증상·혈압·AV conduction·기저 심박수를 함께 고려
-* 기능하는 인공심박동기가 없는 2-3도 AV block
+* 기능하는 인공심박동기가 없는 2-3도 AV block 또는 동기능부전(sick sinus syndrome)
 * 중증 천식·활동성 기관지경련 (기관지경련 위험 - 불가피 시 β₁-선택성 약물 저용량 사용)
   * COPD 자체는 모든 β-차단제의 절대 금기는 아니며 심혈관 적응증이 있으면 β₁-선택성 약제를 신중히 사용할 수 있음
 * 증상성 저혈압
@@ -285,7 +298,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 <mark style="color:cyan;">**non-DHP CCB 금기·주의**</mark>
 
 * HFrEF (심수축 기능 저하 심부전) - 금기
-* 기능하는 인공심박동기가 없는 2-3도 AV block
+* 기능하는 인공심박동기가 없는 2-3도 AV block 또는 동기능부전(sick sinus syndrome)
 * 중증 저혈압
 
 {% hint style="info" %}
@@ -345,7 +358,7 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 * 비선택적 β-차단제로 기관지경련 위험 - 천식·활동성 기관지경련 환자에게는 원칙적으로 금기; COPD 자체는 절대 금기는 아니나 신중해야 하며, 불가피하게 사용해야 하는 경우 [β₁-선택성 약물](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb)(예: bisoprolol)을 저용량부터 사용하고 호흡기 증상을 면밀히 모니터링
 * 투여 전 및 추적 시 맥박 확인 - 안정 시 맥박 ＜55회/분은 감량·보류를 고려할 기준이나, 평소 서맥이 있는 무증상 환자 등에서는 증상·혈압·AV conduction을 함께 보아 개별화
 * 당뇨 환자 주의 : β-차단제(특히 비선택적 인데놀)는 저혈당 시 나타나는 두근거림·떨림 등의 경고 증상을 은폐할 수 있음 - 당뇨 환자에서 설명 필수
-* 임산부·수유부, 중증 말초혈관질환, Raynaud 현상에도 주의
+* 임신부·수유부, 중증 말초혈관질환, Raynaud 현상에도 주의
 
 ***
 
@@ -433,6 +446,6 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 * [Zeppenfeld K, et al. 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022;43(40):3997-4126.](https://doi.org/10.1093/eurheartj/ehac262) - PVC burden·구조적 심질환 평가와 심실부정맥 위험 관리
 * [Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT): a randomised controlled trial. Lancet. 2015;386(10005):1747-1753.](https://doi.org/10.1016/S0140-6736(15)61485-4) - 안정된 SVT에서 modified Valsalva의 시행 방법과 전환 효과
 
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - β-차단제·non-DHP CCB·항부정맥제의 제형별 적응증·금기와 SVT·AF 조절 목적의 허가 외 사용 여부
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

@@ -2,10 +2,9 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 호흡곤란(dyspnea) : 주관적으로 느끼는 다양한 정도의 숨가쁨
 * 정의 : 호흡 시 불편감에 대한 주관적 경험으로, 질적으로 다른 여러 감각이 다양한 강도로 나타나는 증상
 * 기간에 따른 실용적 분류(문헌에 따라 기준이 다를 수 있음)
-  * 급성 ≤4주, 아급성 4\~8주, 만성 ≥8주
+  * 급성 ＜4주, 아급성 4\~8주, 만성 ＞8주
 * 유병률 : 응급실 내원 사유의 약 3\~4%를 차지
   * 지역사회 만성 호흡곤란은 고령·심폐질환 동반 인구에서 특히 흔함
 
@@ -33,16 +32,18 @@
 * 호흡 시 부근육 사용
 * 초조, 혼돈, 의식 저하
 * 빈맥(＞130회/분)
-* 지속적인 압박성 흉통, 실신·식은땀·혈역학 이상이 동반된 흉통, 갑작스러운 흉막성 흉통
-* 흡기 시 stridor(거친 고음성 호흡음) `상기도 폐쇄`(이물 흡인, 아나필락시스 등)
+* 지속적인 압박성 흉통, 실신·식은땀·혈역학 이상이 동반된 흉통, 갑작스러운 흉막성 흉통  `ACS`  `대동맥 박리`  `폐색전증`
+* 흡기 시 stridor(거친 고음성 호흡음)  `상기도 폐쇄`  `이물 흡인`  `아나필락시스`
 * 가능한 알레르겐 노출 후 갑작스러운 목 조임·쉰 목소리·호흡곤란·기관지경련 또는 저혈압/실신(피부 증상은 동반되지 않을 수 있음) `아나필락시스`
 * 생명 위협 천식 징후 - 말을 끝까지 잇지 못함, silent chest(청진상 천명음마저 소실), 피로·의식 변화
 * 휴식 중 발생 + 활력징후 이상(빈호흡, 빈맥, 저혈압, SpO₂ 저하 등) 동반
 * 사지 위약·shallow breathing 동반 `신경근육 질환`
+* 편측 호흡음 감소와 함께 저혈압, 기관 편위, 경정맥 확장 중 하나 이상 동반  `긴장성 기흉`
+* 저혈압과 함께 경정맥 확장, 심음 감소, pulsus paradoxus 중 하나 이상 동반  `심낭압전`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 휴식 중에도 지속되는 호흡곤란 또는 새로 발생한 안정 시 호흡곤란; 활력징후 이상이 동반되면 Tier 1 적용
+* 휴식 중에도 지속되는 호흡곤란 또는 새로 발생한 안정 시 호흡곤란; 활력징후 이상이 동반되면 '즉각 조치' 항목에 준함
 * 수포음(crackles), 호흡음 감소
 * 발열(＞38.5℃) + 저산소혈증·빈호흡 동반, 또는 면역저하 상태
 * ≥65세에서 급성 발생 + 전신 쇠약·의식 변화 동반
@@ -122,6 +123,8 @@
 * Methotrexate : 간질성 폐렴
 * 항암치료 관련 : immune checkpoint inhibitor-associated pneumonitis, bleomycin 등
   * 항암치료 중 새로 발생한 마른기침·호흡곤란·저산소혈증에서 약물성 폐렴 고려
+* Ticagrelor : 투약 초기 호흡곤란이 흔하며(PLATO에서 약 14%) 대개 경도·일시적임; 새 호흡곤란을 곧바로 약물 부작용으로 단정하지 말고 심부전·기관지경련 등을 먼저 감별
+* 기관지경련 유발 약물 : β차단제(특히 비선택적 β차단제, 점안제 포함)는 천식·COPD를 악화시킬 수 있으며, aspirin·NSAID는 AERD(aspirin-exacerbated respiratory disease) 환자에서 기관지경련을 유발할 수 있음
 
 ## <mark style="color:green;">진단</mark>
 
@@ -143,7 +146,7 @@
 * SpO₂, 흉부 X선, ECG, CBC/anemia study, CRP, basic chemistry panel
 * BNP 또는 NT-proBNP : 심부전 의심 시 시행
   * NT-proBNP 해석 기준 <mark style="color:$info;">\[ESC 2021]</mark>
-    * Acute setting (응급·입원) : ＜300 pg/㎖ 시 심부전 배제 가능
+    * Acute setting (응급·입원) : NT-proBNP ＜300 pg/㎖ 또는 BNP ＜100 pg/㎖ 시 심부전 배제 가능
       * rule-in cut-off : ＞450 pg/㎖ (＜50세), ＞900 pg/㎖ (50\~75세), ＞1,800 pg/㎖ (＞75세)
     * Non-acute setting (외래·만성) : NT-proBNP ＜125 pg/㎖ 또는 BNP ＜35 pg/㎖ 시 심부전 배제 가능
       * 외래 환자에서는 이 낮은 기준치를 적용해야 과소 진단을 방지할 수 있음
@@ -250,12 +253,12 @@ graph TD
     B -->|No| D["활력징후 평가<br/>SpO₂ · RR · HR"]
     D -->|SpO₂ 저하 또는 심한 respiratory distress| E["산소/환기 지원<br/>즉시 평가 진행"]
     D -->|RR≥24 또는 HR≥120, SpO₂ 정상| M["산소는 적응증 있을 때 투여<br/>즉시 원인 평가"]
-    D -->|안정| F["병력 + 신체 검진<br/>ECG · CXR · SpO₂<br/>필요 시 BNP · D-dimer"]
+    D -->|안정| F["병력 + 신체 검진<br/>ECG · CXR · SpO₂<br/>필요시 BNP · D-dimer"]
     M --> F
     E --> F
     F --> G[주요 임상 단서]
     G --> H["<u>Cardiac</u><br/>orthopnea·BNP↑<br/>crackle·leg edema<br/>→ 울혈·혈압 확인 후<br/>이뇨제/nitrate 적용"]
-    G --> I["<u>Pulmonary(천식/COPD)</u><br/>wheeze·<br/>기관지확장제 반응<br/>→ SABA ± ipratropium<br/>악화 시에만 steroid"]
+    G --> I["<u>Pulmonary(천식/COPD)</u><br/>wheeze·<br/>기관지확장제 반응<br/>→ SABA ± ipratropium<br/>악화 시에만 스테로이드"]
     G --> J["<u>PE 의심</u><br/>급성 흉막통·<br/>설명 안 되는 빈맥<br/>→ 사전확률 평가<br/>낮음/중간: D-dimer<br/>높음: 즉시 영상"]
     G --> N["<u>기흉 의심</u><br/>급성 흉통·<br/>편측 호흡음 감소<br/>→ CXR/POCUS <br/>즉시 확인"]
     G --> K1["<u>Anxiety/과호흡</u><br/>정상 SpO₂·상황 유발<br/>→ 조절 호흡;<br/> 기질적 원인<br/>배제 후 진단"]
@@ -288,7 +291,7 @@ class B,D,G yellow
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-* 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보; 필요 시 즉시 119 호출 및 전원
+* 기도 확보 : 의식 저하 또는 심한 호흡 부전 시 우선 확보; 필요시 즉시 119 호출 및 전원
 * 앉은 자세 유지(대부분의 호흡곤란); 단, 쇼크·저혈압 또는 아나필락시스가 의심되면 해당 질환의 체위 원칙(눕히고 다리 거상 등)을 따름
 * 과호흡(공황/불안) 관리 : 복식호흡 유도, 조절 호흡(pursed-lip breathing)
   * pursed-lip breathing : 코로 2초 들이쉬고, 입술을 오므린 채 4초 천천히 내쉼
@@ -308,20 +311,20 @@ class B,D,G yellow
     * 고유량 비강 캐뉼러(HFNC) : 2차 의료기관 이상에서 적용; 급성 저산소성 호흡 부전에서 고려. COPD 급성 악화에서는 선택적으로 사용할 수 있으나, 급성 고탄산혈증성 호흡 부전에서는 NIV가 우선이며 HFNC가 NIV를 대체하지 않음
   * 비침습적 양압 환기(NIV; CPAP 또는 bilevel PAP) : 고탄산혈증을 동반한 COPD 급성 악화 및 급성 심인성 폐부종에서 우선 고려; 2차 의료기관 이상에서 적용 또는 전원 결정의 지표로 활용. 기도 보호 불가, 지속적 구토/흡인 위험, 심한 의식 저하, 혈역학적 불안정/쇼크 등에서는 적용이 부적절하거나 실패 위험이 높아 조기 invasive airway/전원 고려
 * [Nitrate](../225_/097_-angina-pectoris.md#nitrate) : 급성 심인성 폐부종 또는 협심증 의심 시에만 적용; 일반 호흡곤란에 루틴 사용하지 않음
-  * nitroglycerin 0.6 ㎎ 설하 투여 <mark style="color:blue;">\[명문니트로글리세린설하정 0.6 ㎎]</mark>
+  * nitroglycerin 0.6 ㎎ 설하 투여 <mark style="color:blue;">\[니트로글리세린]</mark>
   * 금기 : SBP ＜90 ㎜Hg; PDE5 억제제(sildenafil 24시간, tadalafil 48시간 이내) 복용
   * 하벽 심근경색(inferior MI) 의심 시 우심실 경색 동반 가능성이 있으므로 투여에 주의; 우심실은 preload 의존성이 높아 NTG로 인한 혈압 강하가 급격히 악화될 수 있음
 * 이뇨제 : 폐부종에 적용; 빠른 효과를 위하여 가능하면 비경구로 투여
   * 투여 전 혈압 확인 필수 : SBP ＜90 ㎜Hg 등 쇼크·저관류 소견이 있으면 임의 투여하지 않고 즉시 전원
-  * furosemide 40 ㎎ IV (= 20 ㎎/2 ㎖ × 2 앰플), 1\~2분 이상 천천히 투여; 필요 시 반복 <mark style="color:blue;">\[라식스주사 20 ㎎/2 ㎖]</mark>; 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
+  * furosemide 40 ㎎ IV (= 20 ㎎/2 ㎖ × 2 앰플), 1\~2분 이상 천천히 투여; 필요시 반복 <mark style="color:blue;">\[라식스]</mark>; 이뇨제 기사용 환자는 기존 경구 용량에 준하여 조정
 * 빈맥 관리(혈역학적으로 안정된 규칙적 narrow-QRS SVT에 한정)
-  * modified Valsalva maneuver 우선 시도(반좌위에서 15초간 Valsalva 후 즉시 상체를 눕히며(supine) 하지 45° 거상 15초 유지; 상체를 눕히는 것이 핵심 - 정맥 환류 증가로 미주신경 자극 효과 극대화; 표준 Valsalva보다 동율동 전환율 높음)
+  * modified Valsalva maneuver 우선 시도 (☞ [두근거림](009_-palpitation.md#management))
   * 경동맥동 마사지는 죽상경화증·고령·허혈성 심질환 환자에서 피하며, 숙련된 환경에서만 시행
   * 혈역학적으로 불안정(저혈압·의식 변화 동반)하면 즉시 동기화 심율동전환(synchronized cardioversion)이 가능한 기관으로 이송
 * 기관지 확장제
   * salbutamol(SABA) : nebulizer 2.5\~5 ㎎ 또는 MDI + spacer <mark style="color:blue;">\[</mark>[벤토린](../223_/071_-asthma.md#v-short-acting-inhaled-beta2-agonist-saba)<mark style="color:blue;">]</mark>
-  * 중증 천식 악화 또는 COPD exacerbation 시 : ipratropium(SAMA) nebulizer 0.5 ㎎ 또는 MDI + spacer <mark style="color:blue;">\[아트로벤트]</mark> 병용 고려(경증\~중등도 천식 악화에는 일률 병용하지 않음); 자세한 반복 간격·흡입 용량은 COPD 챕터 참조
-* Steroid : COPD exacerbation 또는 asthma exacerbation에만 적용; 적응증 없이 루틴 사용 금함
+  * 중증 천식 악화 또는 COPD exacerbation 시 : ipratropium(SAMA) nebulizer 0.5 ㎎ <mark style="color:blue;">\[아트로벤트]</mark> 병용 고려(경증\~중등도 천식 악화에는 일률 병용하지 않음); 자세한 반복 간격·흡입 용량은 COPD 챕터 참조
+* 스테로이드 : COPD exacerbation 또는 asthma exacerbation에만 적용; 적응증 없이 루틴 사용 금함
   * [천식](../223_/071_-asthma.md) 급성 악화 : prednisolone 40\~50 ㎎/d <mark style="color:blue;">\[</mark>[소론도](../223_/071_-asthma.md#undefined-50)<mark style="color:blue;">]</mark>(5 ㎎/T), 5\~7일
   * [COPD](../223_/072_-copd.md) 급성 악화 : prednisone-equivalent 40 ㎎/d, 5일
 
@@ -349,10 +352,10 @@ class B,D,G yellow
 >
 > ```
 > 벤토린 에보할러(MDI) 100 ㎍/puff 2~4 puff(spacer 사용) 필요시 반복
-> 아트로벤트 에보할러(MDI) 20 ㎍/puff 2 puff 살부타몰과 병용(중증 천식 악화 또는 COPD 악화 시)
+> 아트로벤트 흡입액 0.5 ㎎/2 ㎖ 1앰플 nebulizer (살부타몰과 병용; 중증 천식 악화 또는 COPD 악화 시)
 > ```
 >
-> _✽기관지 확장제에 반응이 없거나 저산소혈증이 동반되면 즉시 재평가; steroid 병용 여부 및 상세 반복 간격·용량은_ [_천식_](../223_/071_-asthma.md)_/_[_COPD_](../223_/072_-copd.md) _챕터 참조; 네뷸라이저가 필요한 중증 상황이라면 해당 제형·용량으로 대체_
+> _✽기관지 확장제에 반응이 없거나 저산소혈증이 동반되면 즉시 재평가; 스테로이드 병용 여부 및 상세 반복 간격·용량은_ [_천식_](../223_/071_-asthma.md)_/_[_COPD_](../223_/072_-copd.md) _챕터 참조; 네뷸라이저가 필요한 중증 상황이라면 해당 제형·용량으로 대체_
 
 > **처방례 3. 아나필락시스 의심(상기도 폐쇄 증상 동반)**
 >
@@ -390,7 +393,7 @@ class B,D,G yellow
 > * 눈에 들어가지 않도록 주의하십시오 - 녹내장이 있는 경우 악화될 수 있습니다.
 > * 전립선 비대증이 있는 경우 소변이 더 어려워질 수 있으니 불편하면 알려 주십시오.
 
-> **에피네프린 자동주사기 (에피펜) - 아나필락시스**
+> **에피네프린 자동주사기 (젝스트 등) - 아나필락시스**
 >
 > * 목 조임, 쉰 목소리, 전신 두드러기, 어지럼 등 아나필락시스 징후가 나타나면 지체 없이 대퇴 외측 근육에 주사하고, 호전 여부를 기다리지 말고 곧바로 119를 부르십시오. 옷 위에서도 주사할 수 있습니다.
 > * 두드러기 같은 피부 증상이 없어도 아나필락시스일 수 있으니, 목 조임·호흡곤란·어지럼 등이 있으면 주저하지 마십시오.
@@ -453,6 +456,6 @@ class B,D,G yellow
 * [Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention. 2026.](https://ginasthma.org/2026-gina-strategy-report/) - 천식 악화의 중증도 평가·초기 치료와 의뢰 판단
 * [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation. 2026;153(12).](https://doi.org/10.1161/CIR.0000000000001415) - 성인 급성 폐색전증의 진단·위험 분류, 초기 치료와 입원·의뢰 판단
 
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 기관지확장제·이뇨제 등 초기 치료 약물의 적응증·제형별 용량·금기·상호작용
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
