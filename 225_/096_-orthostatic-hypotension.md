@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 진단 기준 : 앙와위 또는 좌위에서 기립 후 3분 이내에 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg 감소; 증상 유무와 관계없이 진단 가능
+* 진단 기준 : 5분 이상 앙와위 안정 후 기립 3분 이내에 지속적인 SBP ≥20 또는 DBP ≥10 ㎜Hg 감소; 기립 1분·3분에 측정하며 증상 유무와 관계없이 진단 가능. 좌위 검사는 대안이나 음성이라도 의심되면 앙와위에서 재검
 * 어지럼·실신·시야 흐림 등의 증상이 동반될 수 있음
 * 다른 이름 : 체위저혈압 (Postural hypotension)
 * 유병률 : 지역사회·일차 의료 기관 17\~19%, 요양 시설 입소자 약 31%; 고령자(65세 이상)의 최대 1/4에서 발생
@@ -12,20 +12,20 @@
 
 <mark style="color:cyan;">**Initial OH**</mark>
 
-* 기립 후 15초 이내에 SBP ≥40 ㎜Hg or DBP ≥20 ㎜Hg 급감 후 30\~60초 내 자연 회복되는 형태; 기립 직후(15\~30초) 측정으로만 포착 가능
+* 기립 후 15초 이내 SBP ＞40 또는 DBP ＞20 ㎜Hg의 일시적 급감 후 대개 30\~60초 내 회복; 일반 커프 혈압계로 포착하기 어려우며 객관적 확인에는 active standing 중 연속 beat-to-beat 혈압 측정이 필요 <mark style="color:$info;">\[Lancet Neurol 2022]</mark>
 * 청소년·젊은 성인에서 흔하나 임상적 의미는 제한적인 경우가 많음(대부분 양성 경과)
-* 진단 후 불필요한 추가 검사(자율신경 검사, 틸트 테이블 검사 등)로 이어지지 않도록 주의
+* 전형적인 병력과 양성 경과에서는 불필요한 검사 회피; 반복 실신·외상·비전형적 증상이나 심장성 실신 의심 소견이 있으면 추가 평가
 
 <mark style="color:cyan;">**Classical OH**</mark>
 
-* 기립 후 3분 이내에 OH 기준(SBP ≥20 or DBP ≥10 ㎜Hg 감소) 충족
-* 앙와위 고혈압이 있는 환자에서는 기립성 혈압 저하가 과소평가되지 않도록 SBP ≥30 ㎜Hg 감소를 보정 기준으로 고려; 일부 합의문에서는 DBP ≥15 ㎜Hg 감소도 함께 사용
+* 기립 후 3분 이내 지속적인 SBP ≥20 또는 DBP ≥10 ㎜Hg 감소로 OH 기준 충족
+* 앙와위 고혈압에서는 높은 기저혈압으로 인한 과대진단을 줄이기 위해 SBP ≥30 ㎜Hg 감소 기준을 고려할 수 있음. 이는 모든 환자의 20/10 기준을 대체하는 것은 아니며, 30 ㎜Hg 미만 하락이라도 증상·기립 저혈압을 함께 평가 <mark style="color:$info;">\[AHA 2024]</mark>
 
 <mark style="color:cyan;">**Delayed OH**</mark>
 
-* 기립 후 3분\~10분 사이에 새롭게 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg 감소가 발생하는 형태
-* sympathetic adrenergic dysfunction의 경미하거나 초기 형태
-* 기립 3분 후 측정 시 정상이지만 증상이 지속되는 경우 5\~10분까지 연장 측정하여 진단
+* 기립 3분 이후 새롭게 지속적인 SBP ≥20 또는 DBP ≥10 ㎜Hg 감소가 발생; 10분 이후에도 나타날 수 있음
+* 일부에서 교감신경 기능장애의 초기 형태이며, 원인·경과에 따라 장기 추적 고려
+* 3분 검사 음성이나 의심되면 5\~10분 이상 연장 측정; 필요 시 기립경사검사로 더 오래 관찰
 
 {% hint style="info" %}
 **기립 시 맥박 반응으로 병인 추정**
@@ -33,7 +33,7 @@
 • 혈압 하강 + HR 증가가 뚜렷함 → non-neurogenic OH 가능성이 높음. 단, β차단제·서맥성 부정맥·심박동기 등 HR 반응을 제한하는 요인을 확인\
 • **ΔHR/ΔSBP <0.5 bpm/㎜Hg** → neurogenic OH를 강하게 시사; 단독 진단 기준은 아님\
 • 단순한 경험적 기준으로 ΔHR <15 bpm은 neurogenic, ≥15 bpm은 non-neurogenic을 시사할 수 있으나 ΔHR/ΔSBP 비율이 더 유용함\
-• 혈압 하강이 OH 기준에 미치지 않으면서 기립 후 10분 이내 HR ≥30 bpm의 지속적 상승과 기립불내증 증상이 있으면 [POTS](../221_/030_-autonomic-dysfunction.md#undefined-1)(Postural orthostatic tachycardia syndrome) 의심
+• 지속성 OH 없이 기립 10분 이내 HR ≥30 bpm(12\~19세 ≥40 bpm) 상승과 기립불내증이 있으면 [POTS](../221_/030_-autonomic-dysfunction.md#undefined-1) 의심. 확진에는 증상 ≥3개월 및 탈수·빈혈·갑상선항진증·약물 등 다른 빈맥 원인 배제가 필요
 {% endhint %}
 
 ### <mark style="color:orange;">병인에 따른 분류</mark>
@@ -48,9 +48,9 @@
 
 <mark style="color:cyan;">**Non-neurogenic OH**</mark>
 
-* 자율신경 반사궁 자체는 정상이나, 혈량·심박출량 부족 또는 정맥 저류 과다로 인해 정상적인 보상성 혈관 수축이 따라가지 못해 발생
+* 혈량·심박출량 부족 또는 정맥 저류·약물 작용이 주요 원인; 노화·당뇨병 등의 자율신경 기능 저하와 복합적으로 작용할 수 있음
 * 원인
-  * 혈액량 감소 (Hypovolemia) : 수분 섭취 부족, 발열, 심한 설사·구토, 과도한 발한, 이뇨제 과다 사용; 배뇨·배변 후 일시적 혈압 하락
+  * 혈액량 감소 (Hypovolemia) : 수분 섭취 부족, 발열, 심한 설사·구토, 과도한 발한, 이뇨제 과다 사용 (배뇨·배변 관련 반사성 실신과는 구분)
   * 정맥 저류 증가 : 음주, 식사(→ 식후 저혈압), 격렬한 운동, 기온 상승, 장기간 와상·기립, 패혈증, 임신
   * 심장 기능 이상 : 서맥(동기능 부전, 방실 차단), 심장 판막 질환, 심부전, 심근경색
   * 약물 : 항고혈압제(특히 α1-차단제·이뇨제), β차단제, nitrate, 일부 CCB·ACEi·ARB, PDE-5 억제제, 진정제·수면제, 항우울제·항정신병제, opioid, 항파킨슨병제(levodopa, dopamine agonist), 알코올
@@ -74,7 +74,7 @@
 * 중증 증상 : 인지 장애(일시적 혼돈), 실신(fall risk↑, 골절 위험)
 * 증상은 기상 직후 아침에 가장 심하고, 식후·더운 환경·운동 후에 악화됨
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 이송**</mark>
 
@@ -88,9 +88,9 @@
 * 기립성 저혈압과 함께 파킨슨 증상(보행 장애, 정지 떨림, 경직) 동반
 * ECG 이상 (서맥, 심블록, QT 연장) 동반
 
-<mark style="color:$info;">외래 추적 / 추가 평가 계획</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 비약물 치료 및 약물 조정에도 4주 이상 증상 지속되거나 낙상 반복
+* 비약물 치료 및 약물 조정에도 증상 지속 → 원인·치료 재평가; 반복 실신·낙상은 4주를 기다리지 않고 조기 의뢰
 * 젊은 환자 (＜40세)에서 원인 불명의 기립성 저혈압 → Initial OH 포함 드문 이차 원인 배제
 * 당뇨병 환자에서 nOH 의심 시 → 자율신경 기능 검사 및 당뇨 관리 재평가
 
@@ -98,13 +98,13 @@
 
 ### <mark style="color:orange;">Active Standing Test (기본 진단 방법)</mark>
 
-1. 앙와위 또는 좌위에서 5분 이상 안정 후 혈압·맥박 측정 (필요시 배뇨 후 시행)
+1. 앙와위에서 5분 이상 안정 후 혈압·맥박 측정 (필요시 배뇨 후 시행); 좌위 검사는 대안이며 음성이라도 의심되면 앙와위에서 재검
 2. 기립 후 아래 시점에서 혈압·맥박 반복 측정
 
-<table><thead><tr><th width="167.6190185546875">측정 시점</th><th width="170.47625732421875">임상적 의미</th><th>비고</th></tr></thead><tbody><tr><td>기립 직후(≤15초)</td><td>Initial OH 감지</td><td>SBP ≥40 또는 DBP ≥20 감소 후 빠른 회복</td></tr><tr><td>1분</td><td>초기 혈압 적응 평가</td><td>Classical OH 조기 발견</td></tr><tr><td>3분</td><td>Classical OH 확인</td><td>SBP ≥20 또는 DBP ≥10 감소 시 진단</td></tr><tr><td>5~10분 이상</td><td>Delayed OH 평가</td><td>3분 정상이나 증상 지속 시 연장; 필요 시 기립경사검사로 더 오래 관찰</td></tr></tbody></table>
+<table><thead><tr><th width="167.6190185546875">측정 시점</th><th width="170.47625732421875">임상적 의미</th><th>비고</th></tr></thead><tbody><tr><td>기립 직후(≤15초)</td><td>Initial OH 평가</td><td>SBP ＞40 또는 DBP ＞20 감소 후 빠른 회복; 일반 커프 측정으로 확인하기 어려워 필요 시 연속 beat-to-beat 측정</td></tr><tr><td>1분</td><td>초기 혈압 적응 평가</td><td>Classical OH 조기 발견</td></tr><tr><td>3분</td><td>Classical OH 확인</td><td>SBP ≥20 또는 DBP ≥10 감소 시 진단</td></tr><tr><td>5~10분 이상</td><td>Delayed OH 평가</td><td>3분 정상이나 증상 지속 시 연장; 필요 시 기립경사검사로 더 오래 관찰</td></tr></tbody></table>
 
 {% hint style="info" %}
-**진단 시 주의** : 고혈압 환자에서 OH가 발견되었다고 강압제를 자동으로 감량·중단하지 않는다. 2025 AHA/ACC 가이드라인은 집중적 혈압강하 자체가 OH를 일관되게 증가시키지는 않았다고 보며, 증상성 OH 또는 약물 시작·증량 후 증상이 발생한 경우 개별적으로 평가한다. 2024 ESC 가이드라인은 증상성 OH에서 더 완화된 혈압 목표를 고려할 수 있다고 권고한다.
+**진단 시 주의** : 고혈압 환자에서 OH가 발견되었다고 강압제를 자동으로 감량·중단하지 않는다. 무증상 OH만으로 강압 치료를 보류하지 않으며, 증상성 OH·낙상 위험·실제 기립혈압·약물 시작 또는 증량과의 시간적 관계를 평가하여 개별화함 <mark style="color:$info;">\[2025 AHA/ACC]</mark>. 증상성 OH에서는 더 완화된 목표를 고려할 수 있음 <mark style="color:$info;">\[2024 ESC]</mark>.
 {% endhint %}
 
 ### <mark style="color:orange;">Neurogenic vs. Non-neurogenic OH 감별</mark>
@@ -133,55 +133,40 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="196.19049072265625">감별 질환</th><th width="404.761962890625">감별 포인트</th><th>조치</th></tr></thead><tbody><tr><td>반사성 실신 (미주신경성)</td><td>유발 자세 불특정; 전구증상(오심·발한) 동반; 기립 외 자극(통증·공포)에서도 발생</td><td>(☞ <a href="../221_/022_-reflex-syncope-neurally-mediated-syncope.md">반사성 실신</a>)</td></tr><tr><td>POTS</td><td>기립 10분 내 HR ≥30 bpm 상승이 지속적으로 유지; 혈압 하강 미미; 주로 젊은 여성</td><td>신경과 협진</td></tr><tr><td>Initial OH</td><td>기립 15초 이내 급감 후 자연 회복; 일반적인 측정으로 놓칠 수 있음</td><td>즉시 측정 추가</td></tr><tr><td>심인성 어지럼·실신</td><td>서맥/빈맥, ECG 이상 동반</td><td>의뢰</td></tr><tr><td>전정계 어지럼 (BPPV 등)</td><td>회전성 어지럼, 체위 변환 시 유발; 혈압 변화 없음</td><td>(☞ <a href="097_-dizziness.md">어지럼</a>)</td></tr><tr><td>저혈당</td><td>공복 또는 인슐린 사용 중; 혈당 측정으로 감별</td><td>혈당 측정</td></tr></tbody></table>
+<table><thead><tr><th width="196.19049072265625">감별 질환</th><th width="404.761962890625">감별 포인트</th><th>조치</th></tr></thead><tbody><tr><td>반사성 실신 (미주신경성)</td><td>유발 자세 불특정; 전구증상(오심·발한) 동반; 기립 외 자극(통증·공포)에서도 발생</td><td>(☞ <a href="../221_/022_-reflex-syncope-neurally-mediated-syncope.md">반사성 실신</a>)</td></tr><tr><td>POTS</td><td>기립 10분 내 HR ≥30 bpm(12~19세 ≥40)의 지속적 상승; 지속성 OH 없음; 증상 ≥3개월 및 다른 빈맥 원인 배제</td><td>신경과 협진</td></tr><tr><td>Initial OH</td><td>기립 15초 이내 급감 후 자연 회복; 일반적인 측정으로 놓칠 수 있음</td><td>전형적 병력 확인; 필요 시 연속 beat-to-beat 측정</td></tr><tr><td>심장성 어지럼·실신</td><td>서맥/빈맥, ECG 이상 동반</td><td>의뢰</td></tr><tr><td>전정계 어지럼 (BPPV 등)</td><td>회전성 어지럼, 체위 변환 시 유발; 혈압 변화 없음</td><td>(☞ <a href="097_-dizziness.md">어지럼</a>)</td></tr><tr><td>저혈당</td><td>공복 또는 인슐린 사용 중; 혈당 측정으로 감별</td><td>혈당 측정</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-
     Start([기립성 저혈압 의심])
-style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    HR0["기립 시 HR·혈압 동시 평가"]
-style HR0 fill:#e8f8e8,stroke:#4caf50
-    POTS["POTS 의심<br/>(혈압 하강 미미 +<br/>HR≥30bpm 지속 상승)"]
-    T0["측정 시점?"]
-    T1["즉시(15~30초)<br/>SBP≥40 or DBP≥20"]
-    T2["1분·3분<br/>SBP≥20 or DBP≥10"]
-    T3["5~10분<br/>SBP≥20 or DBP≥10"]
-    InitOH["Initial OH<br/>(젊은 환자, 자연 회복)<br/>→ 과잉 검사 주의"]
-    HR["HR 보상 반응 평가"]
-    NonNeuro["Non-neurogenic OH<br/>(탈수·약물·심장)"]
-    Neuro["Neurogenic OH<br/>(자율신경 부전)"]
-classDef pink fill:#fde8f0,stroke:#e91e8c
-class InitOH,Neuro,POTS,NonNeuro pink
-    NonTx["•원인 교정<br/>(탈수·약물·심장 치료)<br/>•지속 증상 시 약물 개별화"]
-    SupineHTN["Supine HTN<br/>동반?"]
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class T0,HR,SupineHTN yellow
-classDef white fill:#fff,stroke:#333
-class T1,T2,T3 white
-    NTx1["Midodrine<br/>Droxidopa"]
-    NTx2["Pyridostigmine<br/>(선택적 보조요법)"]
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class NTx1,NTx2,NonTx sky
-    Start --> HR0
-    HR0 -- "혈압 하강 미미 +<br/>빈맥 단독" --> POTS
-    HR0 -- "OH 기준 충족<br/>(측정 시점 확인)" ---> T0
-    T0 --> T1
-    T0 --> T2
-    T0 --> T3
-    T1 --> InitOH
-    T2 --> HR
-    T3 --> HR
-    HR -- "ΔHR/ΔSBP ≥0.5" --> NonNeuro
-    HR -- "ΔHR/ΔSBP <0.5" --> Neuro
-    NonNeuro --> NonTx
-    Neuro --> SupineHTN
-    SupineHTN -- "없음" --> NTx1
-    SupineHTN -- "있음" --> NTx2
-    NTx1 -. "불충분 시 병용" .-> NonTx
-    NTx2 -. "불충분 시 병용" .-> NonTx
+    BP["앙와위 5분 안정 후 혈압·맥박<br/>기립 1분·3분 및 증상 확인"]
+    Time{"혈압 하락 시점과 양상"}
+    Init["15초 이내 일시적 급감 후 회복<br/>Initial OH 병력 평가<br/>필요 시 연속 beat-to-beat 측정"]
+    Classic["3분 이내 지속적 SBP ≥20 또는 DBP ≥10 ㎜Hg 감소<br/>Classical OH"]
+    Delay["3분 이후 지속적 SBP ≥20 또는 DBP ≥10 ㎜Hg 감소<br/>Delayed OH: 필요 시 관찰 연장"]
+    Other["OH 기준 미달<br/>POTS·반사성 실신·심장성 원인 등 감별"]
+    HR["병력·약물·HR 보상 반응 평가<br/>ΔHR/ΔSBP ＜0.5는 nOH 시사<br/>약물·부정맥의 영향 확인"]
+    Cause["탈수·출혈·약물·심장 질환 교정<br/>자율신경부전 평가"]
+    NonTx["모든 환자에서 비약물 치료<br/>앙와위·기립·야간 혈압과 증상 추적"]
+    Persist{"기능을 제한하는 증상 지속?"}
+    Drug["nOH·nSH 중증도 및 국내 금기 고려<br/>승압제 선택·용량·시간 개별화<br/>Pyridostigmine은 선택적 보조요법"]
+    Follow["치료 반응·낙상·nSH 재평가<br/>필요 시 전문의 의뢰"]
+    Start ---> BP ---> Time
+    Time -- "일시적" ---> Init
+    Time -- "3분 이내" ---> Classic
+    Time -- "3분 이후" ---> Delay
+    Time -- "기준 미달" ---> Other
+    Classic ---> HR
+    Delay ---> HR
+    HR ---> Cause ---> NonTx ---> Persist
+    Init ---> NonTx
+    Persist -- "예" ---> Drug ---> Follow
+    Persist -- "아니요" ---> Follow
+    classDef blue fill:#e3f2ff,stroke:#2196f3
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class BP,HR,Cause,NonTx,Drug,Follow blue
+    class Time,Persist yellow
 ```
 
 <p align="center"><strong>기립성 저혈압 진단 및 관리 알고리듬</strong></p>
@@ -193,11 +178,11 @@ class NTx1,NTx2,NonTx sky
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 치료 목표 : 혈압 정상화가 아닌 증상 완화 및 낙상·장기 손상 예방. 비약물 치료를 우선하고, 조절되지 않는 경우에만 약물을 추가. nOH에서는 Midodrine 또는 Droxidopa가 근거 수준이 가장 높은 1차 약물.
-* 급성 증상 발생 시 : **즉시 앉거나 눕고** 가능하면 다리를 올려 낙상을 예방한다. 안전하게 앉거나 누운 뒤 수분 섭취가 가능한 경우 물 350\~500 ㎖를 빠르게 마시는 방법을 고려할 수 있다.
+* 급성 증상 발생 시 : **즉시 앉거나 눕고** 가능하면 다리를 올려 낙상을 예방한다. 안전하게 앉거나 누운 뒤 의식이 명료하고 삼킬 수 있으며 수분 제한이 없는 경우 물 350\~500 ㎖를 빠르게 마시는 방법을 고려할 수 있다.
 * 기저 질환 치료 : 당뇨병(혈당 조절), 파킨슨병, 심장 질환, 빈혈
 * 복용 중인 모든 약물 검토 - 유발 또는 악화 약물을 최소화하거나 대체
 * 혈압 모니터링 : 앙와위·좌위·기립 자세와 취침 전 등 다양한 상황에서 측정. 식후 증상이 의심되면 식전 및 식후 30·60·90·120분에 측정
-* 고혈압 치료 환자 : OH가 있다고 해서 강압제를 일률적으로 감량하지 않는다. 증상·낙상 위험·기립 혈압 및 좌위/앙와위 혈압을 함께 보아 개별화한다. 2024 ESC는 증상성 OH에서 더 완화된 목표를 고려할 수 있다고 권고한다.
+* 고혈압 치료 환자 : OH만으로 강압제를 일률적으로 감량하지 않음. 비강압제 유발 약물·탈수 등을 먼저 교정하고 증상·낙상 위험·기립 및 좌위/앙와위 혈압을 함께 보아 개별화 <mark style="color:$info;">\[AHA 2024; ESC 2024]</mark>
 
 ### <mark style="color:orange;">Supine Hypertension 관리 (nOH 환자)</mark>
 
@@ -205,7 +190,10 @@ class NTx1,NTx2,NonTx sky
 * OH 치료와 상충되므로 개별화된 접근 필요
 * 24시간 활동혈압 모니터링(ABPM)으로 야간 혈압 패턴을 평가하면 치료 조정에 유용
 
-<table><thead><tr><th width="210">앙와위 BP</th><th>조치</th></tr></thead><tbody><tr><td>SBP 140~159 ㎜Hg</td><td>침상 머리 올림(약 10~20°), pressor 약물의 늦은 시간 복용 회피, 경과 관찰</td></tr><tr><td>SBP 160~179 ㎜Hg</td><td>침상 머리 올림, 야간 BP·ABPM 확인; 증상과 nOH 중증도에 따라 개별화</td></tr><tr><td>SBP ≥180 또는 DBP ≥110 ㎜Hg</td><td>자율신경 전문 진료를 고려하고, 필요 시 취침 전 단시간 작용 항고혈압제를 선택적으로 사용. 장시간 작용 약물로 아침 OH를 악화시키지 않도록 주의</td></tr></tbody></table>
+<table><thead><tr><th width="210">앙와위 BP</th><th>조치</th></tr></thead><tbody><tr><td>SBP 140~159 또는 DBP 90~99 ㎜Hg</td><td>침상 머리 올림(약 10~20°), pressor 약물의 늦은 시간 복용 회피, 경과 관찰</td></tr><tr><td>SBP 160~179 또는 DBP 100~109 ㎜Hg</td><td>침상 머리 올림, 야간 BP·ABPM 확인; 증상과 nOH 중증도에 따라 개별화</td></tr><tr><td>SBP ≥180 또는 DBP ≥110 ㎜Hg</td><td>자율신경 전문 진료를 고려하고, 필요 시 취침 전 단시간 작용 항고혈압제를 선택적으로 사용. 장시간 작용 약물로 아침 OH를 악화시키지 않도록 주의</td></tr></tbody></table>
+
+* SBP와 DBP가 다른 범주이면 높은 범주 적용; 심한 두통·흉통·호흡곤란·신경학적 이상 또는 급성 장기손상 의심 시 혈압 범주와 관계없이 긴급 평가
+* 밤중에 일어설 때 저혈압·낙상 위험을 안내하고, 취침 전 약물 조정 후 아침 기립혈압 재평가
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -213,13 +201,13 @@ class NTx1,NTx2,NonTx sky
 
 * 천천히 일어남 (특히 아침 기상 시) : 수 분간 앉아 있은 후 기립; 지지가 될 가구·벽체를 잡고 일어남; 누운 상태에서 가벼운 운동 후 기립
 * [Counter-pressure maneuver](../221_/022_-reflex-syncope.md#counter-pressure-maneuver) (기립 직전·직후 시행) - 하지 정맥 환류를 증가시켜 즉각적 혈압 유지에 효과적 : 하지 등척성 수축 (isometric leg contraction), 발목 배굴 (feet dorsiflexion), 다리 꼬기·쪼그려 앉기 (leg crossing / squatting), 다리 올리기 (leg elevation), 악력 등척성 운동 (hand grip isometric)
-* 취침 시 머리 부위를 약 10\~20° 상승 - 야간 앙와위 고혈압 완화에도 기여
+* 취침 시 침상 머리 쪽을 올려 상체를 약 10\~20° 상승 - 야간 앙와위 고혈압 완화에도 기여
 
 ### <mark style="color:orange;">환경·식이 관리</mark>
 
 * 더운 환경 회피 (목욕탕, 찜질방, 더운 날씨의 야외 운동)
-* 수분 제한이 없는 경우 하루 약 2.0~~2.5 L의 수분 섭취를 고려. 물 480~~500 ㎖를 짧은 시간 내에 마시면 약 30\~90분 동안 일시적인 pressor effect를 기대할 수 있음
-* 염분 증량은 모든 환자에게 일률적으로 권하지 않으며, 혈압이 낮고 체액·염분 제한이 없는 환자에서 하루 6\~10 g 정도의 식염을 고려. 고혈압·심부전·CKD에서는 개별화
+* 수분 제한이 없는 경우 하루 약 2.0\~2.5 L의 수분 섭취를 고려. 물 480\~500 ㎖를 짧은 시간 내에 마시면 약 30\~90분 동안 일시적인 pressor effect를 기대할 수 있음
+* 염분 증량은 모든 환자에게 일률적으로 권하지 않으며, 혈압이 낮고 체액·염분 제한이 없는 환자에서 하루 6\~10 g 정도의 식염을 고려. 고혈압·앙와위 고혈압·심부전·CKD에서는 저염 치료와 상충할 수 있어 임의 증량하지 않고 개별화
 * 과음 회피. 카페인은 효과가 일관되지 않아 routine 권고하지 않음
 * 복대(abdominal binder)를 우선 고려하고, 필요 시 허벅지까지 올라오는 압박 스타킹을 병용. 압박의 목적은 정맥 저류 감소이며 하지 부종 자체의 치료 목적은 아님
 
@@ -248,8 +236,10 @@ class NTx1,NTx2,NonTx sky
 * nOH 1차 선택제 (비신경성 OH에도 사용)
 * 기전 : 말초 선택적 α-1-adrenergic agonist → 혈관 저항↑; BBB 통과 안 함
 * 부작용 : supine hypertension, 소름(piloerection), 가려움, 요저류, 위장 장애
-* 금기 : 조절되지 않는 고혈압, 심한 심질환, 신부전, 요저류 (예: 심한 전립선 비대증) - 방광 출구 저항을 높여 급성 요폐 유발 가능, 갑상선 중독증, 갈색세포종
-* 국내 허가사항 용법 : 성인 1회 2.5 ㎎, 1일 2\~3회 경구투여. 장기치료 시 최소 유효량 사용. 누운자세 고혈압 위험을 줄이기 위해 늦어도 취침 4시간 전 복용 <mark style="color:blue;">\[미드론]</mark>
+* 국내 허가사항상 금기 : 고혈압, 심한 심질환, 급성 신장염, 갑상선기능항진증, 갈색세포종, 폐쇄각 녹내장, 혈관경련·혈관폐색, 배뇨장애(특히 전립선종), 빈맥성 부정맥
+* 신중 투여 : 심한 신장애, 부정맥; 신 기능·배뇨 및 앙와위·기립혈압 확인
+* 국제 nOH 문헌에는 nSH 동반 시 전문적으로 용량·시각을 조절한 사용이 제시되나, 국내의 고혈압 금기와 구분하며 nSH 환자의 일반 외래 처방으로 적용하지 않음
+* 국내 허가사항 용법 : 성인 1회 2.5 ㎎(2.5 ㎎정 1정), 1일 2\~3회 경구투여; 연령·증상에 따라 증감. 장기치료 시 최소 유효량 사용. 누운자세 고혈압 위험을 줄이기 위해 늦어도 취침 4시간 전 복용 <mark style="color:blue;">\[미드론]</mark>
 
 #### <mark style="color:$primary;">Droxidopa</mark>
 
@@ -266,16 +256,18 @@ class NTx1,NTx2,NonTx sky
 * 부작용 : supine hypertension, 저칼륨혈증, 부종, 두통, 심부전 악화
   * 혈중 K와 체중을 정기적으로 확인; 저칼륨혈증은 식이 또는 K 보충을 임의로 시행하지 말고 검사 결과에 따라 조정
   * 급격한 체중 증가, 부종, 호흡곤란은 체액 과다·심부전 악화 가능성이 있으므로 감량 또는 중단을 검토
-* 주의 : 심부전, CKD, 저칼륨혈증, supine hypertension 등에서는 특히 주의. 국내 허가 적응증은 부신피질 기능부전 관련 질환이며 **OH 치료는 허가 적응증 외 사용**
+* OH 치료 목적에서 심부전 동반 시 사용을 피함 <mark style="color:$info;">\[AHA 2024]</mark>. CKD·저칼륨혈증·supine hypertension에서는 위험을 면밀히 평가. 국내 허가 적응증은 부신피질 기능부전 관련 질환이며 **OH 치료는 허가 적응증 외 사용**
 * 용법 : 일반적으로 0.05\~0.2 ㎎ qd 범위에서 개별화하되 국내 허가사항 및 off-label 사용을 확인 <mark style="color:blue;">\[플로리네프]</mark>
 
 #### <mark style="color:$primary;">Pyridostigmine</mark>
 
-* 기전 : acetylcholinesterase 억제 → postganglionic sympathetic 신경 norepinephrine 분비↑ → OH 개선
+* 기전 : acetylcholinesterase 억제로 자율신경절의 콜린성 전달을 강화 → 잔여 교감신경 반응을 이용하여 기립혈압 개선
 * 특징 : supine hypertension을 상대적으로 덜 악화시키는 것으로 알려져 있어 nOH + 앙와위 고혈압에서 선택적 보조요법으로 고려
 * 부작용 : 콜린 증상(과다 침 분비, 발한, 설사, 다발 수축, 복통)
-* 금기 : 기계적 장·요 폐쇄
-* 국내 허가 적응증은 중증근무력증이며 **OH 치료는 허가 적응증 외 사용**. 연구에서는 30~~60 ㎎ bid~~tid 범위가 사용됨 <mark style="color:blue;">\[메스티논]</mark>
+* 국내 허가사항상 금기 : 기질적 소화기·요로 폐색/협착/경련, 기관지천식·경련성 기관지염, 파킨슨증후군, 갑상선기능항진증 등. 서맥·부정맥·신 기능 저하에서도 주의; Parkinson병 관련 nOH에 일반적인 대안으로 제시하지 않음
+* 국내 허가 적응증은 중증근무력증이며 **OH 치료는 허가 적응증 외 사용**. 연구에서는 30\~60 ㎎ bid\~tid 범위가 사용됨; 국내 메스티논은 60 ㎎정으로, 1회 30 ㎎ 투여 시 ½정에 해당 <mark style="color:blue;">\[메스티논]</mark>
+
+* 효과는 제한적이며 잔여 자율신경 기능에 따라 다름; 38명 자료의 후향 분석에서 중증 자율신경부전·nSH 동반군의 효과가 제한적이었으므로 nSH 여부만으로 자동 선택하지 않음 <mark style="color:$info;">\[Hypertension 2025]</mark>
 
 #### <mark style="color:$primary;">Octreotide</mark>
 
@@ -286,6 +278,8 @@ class NTx1,NTx2,NonTx sky
 * 혈당·맥박·앙와위 혈압을 모니터링하고 장기 사용 시 담낭 이상을 확인
 
 ### <mark style="color:orange;">기타 약물</mark>
+
+* Acarbose : 생활요법에도 식후 저혈압이 지속되는 선택된 자율신경부전·당뇨병 환자에서 전문적으로 고려 가능; 소규모 시험에서 식후 혈압 하락 감소가 보고됨. 식후 저혈압 치료는 허가 외 사용이며 복부팽만·설사 등 내약성 및 당뇨병 치료와 함께 판단 <mark style="color:$info;">\[Hypertension 2007; J Investig Med 2017]</mark>
 
 * Desmopressin (dDAVP) : 야간 다뇨가 아침 저혈량의 주요 원인인 일부 nOH에서 제한적으로 고려할 수 있으나 저나트륨혈증 위험 때문에 routine use를 권하지 않음 <mark style="color:blue;">\[미니린]</mark>
 * Atomoxetine : 일부 nOH에서 대안으로 연구되었으나 국내 일차진료에서 routine 처방할 근거가 부족
@@ -315,28 +309,29 @@ I95.1 기립성 저혈압
 > 플로리네프 0.1 ㎎/T　　1T　qd
 > ```
 >
-> _✽ 수분·염분 보충이 가능한 환자에서 체액 감소가 지속되고 다른 원인 교정만으로 불충분한 경우 전문적으로 고려. 국내에서는 OH가 허가 적응증 외 사용이므로 적응증·급여 및 부작용을 확인한다. 부종·저칼륨혈증·앙와위 혈압 상승·심부전 악화를 모니터링._
+> _✽ 수분·염분 보충이 가능한 환자에서 체액 감소가 지속되고 다른 원인 교정만으로 불충분하며 심부전이 없는 선별 환자에서 전문적으로 고려. 국내에서는 OH가 허가 적응증 외 사용이므로 적응증·급여 및 부작용을 확인한다. 부종·저칼륨혈증·앙와위 혈압 상승·심부전 악화를 모니터링._
 
 > **처방례 3. Neurogenic OH - Midodrine**
 >
 > ```
-> 미드론 5 ㎎/T　　2T　#2 (아침, 점심)
+> 미드론 2.5 ㎎/T　　1회 2T (5 ㎎)　bid (아침, 점심)
 > ```
 >
-> _✽ nOH에서 증상이 지속되는 경우 고려. 국내 허가 용량 범위와 환자 내약성을 확인하고, 취침 4시간 전 이후에는 복용하지 않는다. nSH 여부를 함께 추적._
+> _✽ 국내 금기가 없는 환자에서 1회 2.5 ㎎으로 시작 후 증상이 지속될 때 증량한 예. nOH라는 이유만으로 처음부터 고용량을 사용하지 않음. 취침 4시간 전까지 투여를 마치고 앙와위·기립혈압·배뇨를 추적; nSH 발생 시 재평가._
 
 > **처방례 4. Neurogenic OH + Supine Hypertension - Pyridostigmine 선택적 사용**
 >
 > ```
-> 메스티논 30 ㎎/T　　2T　#2 (아침, 점심)
+> 메스티논 60 ㎎/T　　1회 ½T (30 ㎎)　bid (아침, 점심)
 > ```
 >
-> _✽ nOH에서 nSH가 문제이고 비약물 치료 및 원인 교정만으로 불충분한 경우 보조적으로 고려. 국내에서는 OH가 허가 적응증 외 사용이다. 복통·설사·발한 등 콜린성 부작용을 관찰._
+> _✽ 파킨슨증후군·천식·기질적 장/요로 폐색 등 국내 금기가 없는 선별 환자에서 전문적으로 고려하는 보조요법; nSH가 있다는 이유만으로 선택하지 않음. OH는 허가 외 사용. 효과·서맥·복통·설사·발한을 평가._
 
 > **처방례 5. 중증 식후 저혈압 - Octreotide 전문치료**
 >
 > ```
-> 산도스타틴 50 ㎍/앰플　　1앰플　식전 30분 SC
+> 산도스타틴주사 0.1 ㎎/㎖ (1 ㎖/앰플)
+> 　　1회 0.5 ㎖ (50 ㎍)　주 식사 전 SC (전문의 지시)
 > ```
 >
 > _✽ 생활요법에도 반복적인 실신·낙상이 발생하는 중증 자율신경부전의 식후 저혈압에서 전문 진료하에 고려. 국내 허가 적응증 외 사용이므로 제제 허가사항과 급여 여부를 확인하고, 혈당·맥박·앙와위 혈압을 모니터링한다._
@@ -398,7 +393,7 @@ I95.1 기립성 저혈압
 * **천천히 일어나십시오.** 아침에는 침대 가장자리에 잠시 앉아 있다가 천천히 기립하세요.
 * 증상이 생기면 즉시 앉거나 누워서 넘어지는 것을 피하십시오.
 * 기립 직전에 다리를 꼬거나, 발목을 위아래로 움직이거나, 허벅지·엉덩이 근육에 힘을 주는 동작을 하면 도움이 될 수 있습니다.
-* 수분 제한이 없다면 하루 **2.0\~2.5 L 정도의 물**을 충분히 마시고, 의사의 지시가 있다면 염분 섭취를 늘릴 수 있습니다.
+* 수분 제한이 없다면 하루 **2.0\~2.5 L 정도의 물**을 고려할 수 있습니다. **고혈압·누운 자세의 고혈압·심부전·신장질환**이 있으면 소금이나 물을 임의로 늘리지 말고 담당 의사의 지시를 따르십시오.
 * 아침이나 활동 전에 **물 약 480\~500 ㎖를 짧은 시간 내에** 마시면 일시적으로 혈압을 올리는 데 도움이 될 수 있습니다.
 * **복대나 허벅지까지 올라오는 압박 스타킹**을 사용하면 다리와 배에 혈액이 고이는 것을 줄이는 데 도움이 될 수 있습니다.
 * 더운 목욕, 찜질방은 피하고 오래 서 있는 시간을 줄이십시오.
@@ -420,8 +415,49 @@ I95.1 기립성 저혈압
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
-* 일어서다가 \*\*실신(의식 소실)\*\*이 발생하거나 넘어져 다쳤을 때
+* 일어서다가 **실신(의식 소실)**이 발생하거나 넘어져 다쳤을 때
 * **가슴 통증이나 호흡 곤란**이 함께 생길 때
 * 실신이 운동 중 또는 누워 있는 상태에서 발생했을 때
 * 말이 어눌해지거나 한쪽 팔다리에 힘이 빠지는 등 새로운 신경학적 증상이 있을 때
 * 치료 중에도 반복 실신·낙상이 계속되거나 증상이 빠르게 악화될 때
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* Juraschek SP, et al. Orthostatic Hypotension in Adults With Hypertension: A Scientific Statement From the AHA. Hypertension. 2024;81:e16–e30. - 고혈압과 OH 병존, 강압제 조정, 비약물·약물 치료
+  * https://doi.org/10.1161/HYP.0000000000000236
+* Wieling W, et al. Diagnosis and treatment of orthostatic hypotension. Lancet Neurol. 2022;21:735–746. - Initial·classical·delayed OH 및 연속 혈압 측정
+  * https://doi.org/10.1016/S1474-4422(22)00169-7
+* Gibbons CH, et al. The recommendations of a consensus panel for the screening, diagnosis, and treatment of neurogenic orthostatic hypotension and associated supine hypertension. J Neurol. 2017;264:1567–1582.
+  * https://doi.org/10.1007/s00415-016-8375-x
+* Fanciulli A, et al. Consensus statement on the definition of neurogenic supine hypertension in cardiovascular autonomic failure. Clin Auton Res. 2018;28:355–362. - nSH 정의 및 중증도
+  * https://doi.org/10.1007/s10286-018-0529-8
+* 대한고혈압학회. 고혈압 진료지침 2026. 제6판 수정본. - 국내 고혈압 환자의 기립혈압 평가와 목표 개별화
+  * https://www.koreanhypertension.org/reference/guide?idno=10446&mode=read
+* AHA/ACC et al. 2025 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults.
+  * https://doi.org/10.1161/CIR.0000000000001356
+* McEvoy JW, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. Eur Heart J. 2024;45:3912–4018.
+  * https://doi.org/10.1093/eurheartj/ehae178
+* NICE. Hypertension in adults: diagnosis and management. NG136. - 앙와위·기립 측정, 좌위 검사 음성 시 재검
+  * https://www.nice.org.uk/guidance/ng136/chapter/recommendations
+* Vernino S, et al. Postural orthostatic tachycardia syndrome (POTS): State of the science and clinical care from a 2019 NIH Expert Consensus Meeting - Part 1. Auton Neurosci. 2021;235:102828.
+  * https://doi.org/10.1016/j.autneu.2021.102828
+* Okamoto LE, et al. Clinical Correlates of Efficacy of Pyridostigmine in the Treatment of Orthostatic Hypotension. Hypertension. 2025;82:489–497. - 자율신경 기능·nSH에 따른 효과 차이; 38명 자료의 후향 분석
+  * https://doi.org/10.1161/HYPERTENSIONAHA.124.24050
+* Shibao C, et al. Acarbose, an alpha-glucosidase inhibitor, attenuates postprandial hypotension in autonomic failure. Hypertension. 2007;50:54–61.
+  * https://pubmed.ncbi.nlm.nih.gov/17515447/
+* Effectiveness of acarbose in treating elderly patients with diabetes with postprandial hypotension. J Investig Med. 2017. - 고령 당뇨병 환자 무작위시험
+  * https://pubmed.ncbi.nlm.nih.gov/28213385/
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태; 미드론·메스티논·산도스타틴의 제형·함량 및 국내 금기와 국제 문헌을 구분
+  * https://nedrug.mfds.go.kr/index
+* 건강보험심사평가원. 약제 급여기준 및 DUR 정보. - 허가 외 사용과 국내 급여 적용 구분
+  * https://www.hira.or.kr
+* US FDA / DailyMed. Droxidopa prescribing information. - 미국 nOH 적응증·용법; 국내 일반 처방과 구분
+  * https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=droxidopa

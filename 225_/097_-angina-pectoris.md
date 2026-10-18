@@ -29,7 +29,7 @@
 
 ANOCA/INOCA\
 ├ **Vasospastic angina** : 심외막 관상동맥 연축 → CCB 1차 선택, 필요 시 nitrate 추가\
-├ **Coronary microvascular dysfunction(CMD)** : 미세혈관의 구조적/기능적 이상 → β-차단제, CCB, ranolazine 등을 증상 및 혈역학에 따라 선택; endothelial dysfunction이 확인되면 ACEi 고려\
+├ **Coronary microvascular dysfunction(CMD)** : 미세혈관의 구조적/기능적 이상 → β-차단제, CCB 등을 증상 및 혈역학에 따라 선택; endothelial dysfunction이 확인되면 ACEi 고려\
 └ **Overlap endotype** : 연축과 CMD가 함께 존재할 수 있어 기전에 따른 병합 치료 고려
 
 * 2024 ESC CCS 가이드라인은 지속적인 ANOCA/INOCA 증상이 있는 경우 관상동맥 기능검사(CFR, IMR, acetylcholine provocation 등)를 통해 endotype을 규명하고 치료를 개별화하는 접근을 강조함
@@ -40,7 +40,7 @@ ANOCA/INOCA\
   * STEMI, NSTEMI, unstable angina 포함
 * **전형적 협심증 (typical angina)** : 전형적 특징 3가지를 모두 충족
 * **Possibly cardiac angina (구 atypical angina)** : 전형적 특징 중 2가지 해당 - \[2021 AHA/ACC] 권고에 따라 "atypical" 대신 "possibly cardiac" 사용(☞ [흉통](../220_/002_-chest-pain.md))
-* **비심장성 흉통 (non-cardiac chest pain)** : 전형적 협심증의 특징이 없거나 1가지만 해당
+* **비협심증성 양상의 흉통** : 전형적 협심증 특징이 0~1개인 전통적 분류; 이 개수만으로 심장성 원인을 배제하지 않음. 비심장성 흉통(non-cardiac chest pain)은 병력·위험도·검사를 종합하여 심장질환 가능성이 낮다고 판단한 경우에 사용 <mark style="color:$info;">[AHA/ACC 흉통 2021]</mark>
 * **협심증 유사 증상 (angina equivalent)** : 힘든 활동/스트레스와 관련하여 흉통 없이 호흡 곤란, 발한, 피로감, 구역, 소화불량, 복통 등의 비특이적 증상 발생; 여성, 고령, 당뇨병 환자에서 더 흔함 (☞ [흉통](../220_/002_-chest-pain.md))
 * **진료 현황** \[우리나라] : 2020년 협심증(I20) 진료 환자 약 66.9만 명(2016년 대비 7.0% 증가); 60대가 전체 환자의 32.9%로 가장 많음; 심장 질환은 우리나라 사망 원인 2위(1위 - 암)
 
@@ -80,6 +80,7 @@ ANOCA/INOCA\
 2. **유발 요인** : 어떤 수준 이상의 힘든 작업이나 운동, 정서적 스트레스
 3. **완화 요인** : 휴식 또는 nitroglycerin 설하 투여로 30초\~수 분 이내 호전
    * 보통 자세나 호흡에 따라 달라지지 않음
+   * Nitroglycerin에 반응해도 식도 연축 등 다른 원인일 수 있으므로, 반응만으로 심근 허혈을 확진하지 않음 <mark style="color:$info;">[AHA/ACC 흉통 2021]</mark>
 
 * 20분 이상 지속되는 경우 불안정 협심증 이상의 ACS 가능성 증가(전형적 MI는 흔히 30분 이상 지속 - ☞ [흉통](../220_/002_-chest-pain.md))
 
@@ -119,7 +120,7 @@ ANOCA/INOCA\
 * 새로운 호흡 곤란이 동반된 흉통
 * 혈압이 조절되지 않거나 처음으로 심전도 이상이 발견된 경우
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 협심증 위험 인자가 복수인 비전형 흉통
 * 운동 시 유발되는 흉통이 생활 습관 개선 후에도 지속
@@ -275,7 +276,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 **4단계 - 최적 약물 치료**
 
 * 증상 완화 : β-차단제, CCB 또는 지속형 nitrate 중 환자의 심박수·혈압·좌심실 기능·동반질환에 맞춰 선택
-* 증상 지속 시 다른 계열 약제를 추가하거나 ranolazine 등 추가 항협심증제를 고려
+* 증상 지속 시 혈압·심박수·LVEF를 고려하여 다른 계열의 국내 사용 가능한 항협심증제를 추가
 * 2차 예방 : aspirin 또는 clopidogrel, 고강도 statin 및 적응증에 따른 ACEi/ARB, SGLT2i/GLP-1RA 등
 * 저용량 colchicine 0.5 ㎎/d는 2024 ESC에서 죽상경화성 CAD가 있는 CCS 환자의 이차 예방에 고려할 수 있음(미국 2023 가이드라인은 선택적 사용을 권고)
 
@@ -331,12 +332,12 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 
 * 항협심증제 선택은 증상의 빈도와 중증도뿐 아니라 심박수, 혈압, LVEF, 신기능, 천식/COPD, vasospastic angina 여부 및 약물 상호작용을 함께 고려하여 개별화
 * 1차 항협심증 치료 : **β-차단제 또는 CCB**를 기본으로 하며, **지속형 nitrate**도 적절한 환자에서 선택 가능
-* 초기 치료에도 증상이 지속되면 다른 계열을 추가하거나 ranolazine 등 추가 치료를 고려
+* 초기 치료에도 증상이 지속되면 다른 계열의 국내 사용 가능한 항협심증제를 추가하거나 조합을 조정
 * 약물치료에도 삶의 질을 해치는 협심증이 지속되면 허혈 및 해부학적 위험도를 재평가하여 revascularization을 고려
 
 ### <mark style="color:orange;">항협심증제 상황별 선택</mark>
 
-<table data-search="false"><thead><tr><th width="220">상황</th><th>우선 고려</th></tr></thead><tbody><tr><td>빈맥/고혈압 동반</td><td>β-차단제</td></tr><tr><td>서맥 또는 저혈압 경향</td><td>DHP-CCB 또는 ranolazine 등 심박수·혈압 영향이 적은 약제</td></tr><tr><td>Vasospastic angina</td><td>CCB 1차; 필요 시 nitrate 추가. β-차단제는 일반적으로 피함</td></tr><tr><td>HFrEF</td><td>예후 개선 근거가 있는 β-차단제(carvedilol, bisoprolol, metoprolol succinate); CCB는 약제별 주의</td></tr><tr><td>활동성/중증 천식</td><td>β-차단제를 피하고 CCB 또는 다른 항협심증제 고려</td></tr><tr><td>COPD (심혈관 적응증 있음)</td><td>필요 시 심선택적 β₁-차단제를 우선 고려; 호흡기 증상 모니터링</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="220">상황</th><th>우선 고려</th></tr></thead><tbody><tr><td>빈맥/고혈압 동반</td><td>β-차단제</td></tr><tr><td>서맥, 혈압 유지</td><td>Amlodipine 등 DHP-CCB 고려; β-차단제·non-DHP CCB는 서맥 악화에 주의</td></tr><tr><td>저혈압 경향</td><td>혈압 저하 원인을 먼저 평가하고 혈관확장제 용량을 조절; 추가 항협심증제는 혈역학과 국내 사용 가능성을 고려하여 선택</td></tr><tr><td>Vasospastic angina</td><td>CCB 1차; 필요 시 nitrate 추가. β-차단제는 일반적으로 피함</td></tr><tr><td>HFrEF</td><td>예후 개선 근거가 있는 β-차단제(carvedilol, bisoprolol, metoprolol succinate); CCB는 약제별 주의</td></tr><tr><td>활동성/중증 천식</td><td>β-차단제를 피하고 CCB 또는 다른 항협심증제 고려</td></tr><tr><td>COPD (심혈관 적응증 있음)</td><td>필요 시 심선택적 β₁-차단제를 우선 고려; 호흡기 증상 모니터링</td></tr></tbody></table>
 
 ✽ 2024 ESC는 항협심증제를 고정된 1·2차 순서보다 환자의 혈압·심박수·좌심실 기능·동반질환과 허혈 기전에 맞추어 조합하는 'diamond' 접근을 강조함.
 
@@ -355,8 +356,9 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 * cardioselective β₁-차단제를 선호할 수 있으며, ISA가 있는 약제는 허혈성 심질환의 장기 치료에는 일반적으로 선호하지 않음 (☞ [β-차단제](095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb))
 * atenolol : 신기능 저하자 주의; 25\~200 ㎎/d <mark style="color:blue;">\[테놀민]</mark>
 * bisoprolol : 2.5\~10 ㎎/d <mark style="color:blue;">\[콩코르]</mark>
-* carvedilol : 6.25\~50 ㎎/d <mark style="color:blue;">\[딜라트렌 에스알]</mark>
-* metoprolol succinate : 25\~400 ㎎/d <mark style="color:blue;">\[푸로롤 서방]</mark>
+* carvedilol 속방형 : 6.25\~50 ㎎/d를 보통 2회 분할 <mark style="color:blue;">\[딜라트렌]</mark>; 서방형은 별도 용량체계를 사용하며 속방형과 mg 대 mg으로 대체하지 않음
+  * carvedilol 서방형 : 1일 1회 투여 <mark style="color:blue;">\[딜라트렌에스알정]</mark>; 심부전 시작·목표용량은 심부전 챕터 참조
+* metoprolol succinate 서방형 : 국외 근거 용량과 국내 제품의 염·함량 표기를 구분하여 사용; HFrEF 용량은 심부전 챕터 참조
 
 {% hint style="info" %}
 **COPD는 β-차단제의 절대 금기가 아님** - 심혈관 적응증이 있으면 심선택적 β₁-차단제를 저용량에서 시작하여 호흡기 증상을 관찰하면서 사용할 수 있음. 반면 활동성/중증 기관지경련성 천식에서는 β-차단제를 피하는 것이 일반적이며, 꼭 필요한 경우 전문적인 감독하에 개별적으로 판단.
@@ -400,7 +402,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 ### <mark style="color:orange;">Nitrate</mark>
 
 * 작용 : smooth muscle 이완 → 동맥/정맥 혈관 확장, preload↓, 혈압↓, 심근 산소 요구량↓ → 협심증 완화 및 예방
-* 부작용 : 두통, 어지럼, 저혈압(특히 고령), 홍조 - 지속 복용 시 완화; 충분한 수분 섭취 권고
+* 부작용 : 두통, 어지럼, 저혈압(특히 고령), 홍조 - 두통은 지속 복용 시 완화될 수 있음; 탈수 여부를 평가하되 심부전 동반 시 일률적인 수분 증량은 피함
 * 금기/주의 : PDE5 억제제(sildenafil, tadalafil 등)와 병용 금기; 저혈압 및 비후성 폐쇄성 심근병증에서는 주의
 
 #### <mark style="color:$primary;">속효성 제제 (급성 발작 치료)</mark>
@@ -412,7 +414,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 
 #### <mark style="color:$primary;">지속성 제제 (예방 목적)</mark>
 
-* 장기 사용 시 약제 내성 발생 - 예방법 : 최소 유효 용량, 1일 8시간 이상 nitrate-free interval 유지
+* 장기 사용 시 내성 예방을 위해 제형·복용시간을 조정하여 하루 약 8~12시간의 nitrate-free 또는 저농도 구간을 확보함. 1일 1회 서방형은 보통 아침에 복용하며, 모든 제형에 12시간의 완전 무약물 상태를 일률적으로 적용하지 않음 <mark style="color:$info;">[KSIC CCS 2026]</mark>
 * isosorbide dinitrate : 40\~80 ㎎/d <mark style="color:blue;">\[이소켓 서방]</mark>
 * isosorbide-5-mononitrate : 30\~240 ㎎/d <mark style="color:blue;">\[임듈 지속]</mark>
 
@@ -423,12 +425,12 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 * Statin 보조제 (add-on) : 목표 미달성 시 ezetimibe 추가; 추가 미달성 시 PCSK9 억제제(evolocumab, alirocumab) 또는 inclisiran, bempedoic acid 순차 추가
 * Lipoprotein(a) 상승 : PCSK9 억제제가 Lp(a)를 일부 낮출 수 있으나, **Lp(a) 자체만으로 PCSK9 억제제를 시작하는 적응증은 아님**
 * 약물 상호작용 : 자몽주스는 simvastatin/atorvastatin 등의 농도를 높일 수 있으므로 과량 섭취를 피하고 약제별 상호작용을 확인
-* 비폐쇄성 CAD(INOCA/ANOCA) 환자에서도 미세혈관 기능 개선 및 심혈관 사건 예방을 위해 고강도 statin과 ACEi/ARB의 조기 적극 치료가 권고됨
+* ANOCA/INOCA의 statin·ACEi/ARB는 죽상경화 플라크, 이상지질혈증, 고혈압, CKD 등 개별 적응증과 허혈 기전에 따라 선택함. 모든 환자에서 고강도 statin·ACEi/ARB·aspirin의 일률적 병합이 사건을 감소시키는 것으로 기술하지 않음; WARRIOR에서는 여성 의심 ANOCA/INOCA 환자에서 해당 집중치료 전략의 우월성이 입증되지 않았음 <mark style="color:$info;">[WARRIOR 2026]</mark>
 
 #### <mark style="color:$primary;">고강도 Statin</mark>
 
 * atorvastatin : 40\~80 ㎎/d <mark style="color:blue;">\[리피토]</mark>
-* rosuvastatin : 20\~40 ㎎/d <mark style="color:blue;">\[크레스토]</mark>
+* rosuvastatin : 국내 고강도 용량 **20 ㎎/d** <mark style="color:blue;">\[크레스토]</mark>; 국내 최대 허가용량 20 ㎎/d, 아시아계 환자에서 40 ㎎ 투여 금기 <mark style="color:$info;">[국내 허가사항]</mark>
 
 #### <mark style="color:$primary;">Ezetimibe 및 복합제</mark>
 
@@ -449,6 +451,17 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 {% endhint %}
 
 ### <mark style="color:orange;">항혈소판제</mark>
+
+{% hint style="info" %}
+**AF 등으로 장기 항응고가 필요한 CAD 환자**
+
+* 아래 단일 항혈소판/DAPT 원칙은 **별도의 장기 항응고 적응증이 없는 환자**를 기본 대상으로 함
+* AF + 안정 CAD에서 재관류술 후 1년이 지났거나 재관류술이 필요하지 않고 스텐트 혈전증 병력이 없으면 **항응고제 단독**이 기본임. Aspirin 또는 clopidogrel을 자동으로 장기 추가하지 않음
+* 최근 PCI/ACS에서는 항응고제와 항혈소판제의 병용을 개별화함. 보통 짧은 삼중요법 후 항응고제 + clopidogrel로 전환하며, 시술 상황·허혈 및 출혈위험에 따라 기간을 결정함. 장기 항응고가 필요한 환자에게 일반 DAPT 기간을 그대로 적용하지 않음
+* CAD 사건 예방용 rivaroxaban 2.5 ㎎ bid + aspirin은 AF 뇌졸중 예방용 항응고 용량을 대체하지 않음
+
+<mark style="color:$info;">[ACC/AHA AF 2023; ESC AF 2024]</mark>
+{% endhint %}
 
 #### <mark style="color:$primary;">Aspirin</mark>
 
@@ -478,7 +491,11 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 
 ```mermaid
 graph TD
-    A([Stable CAD 환자]) --> B[단일 항혈소판요법 또는<br/>PCI 후 DAPT]
+    A([Stable CAD 환자]) --> Q{장기 항응고 적응증?}
+    Q -- 아니오 --> B[단일 항혈소판요법 또는<br/>PCI 후 DAPT]
+    Q -- 예 --> R{최근 PCI 또는 ACS?}
+    R -- 아니오 --> S[안정 CAD: 항응고 단독 기본<br/>재관류 후 1년 경과·스텐트 혈전증 병력 없음]
+    R -- 예 --> T[단기 항혈소판 병용<br/>기간·조합은 전문의와 개별화]
     B --> C{최근 PCI?}
     C -- 아니오 --> D[aspirin 75~100 ㎎/d<br/>또는 clopidogrel 75 ㎎/d]
     C -- 예 --> E[aspirin + clopidogrel]
@@ -490,7 +507,7 @@ graph TD
 
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class C,F yellow
+class C,F,Q,R yellow
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class B,E,D sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
@@ -503,23 +520,23 @@ class G,H,I blue
 
 ***
 
-### <mark style="color:orange;">Ranolazine</mark>
+### <mark style="color:orange;">Ranolazine (국외 치료 선택지)</mark>
 
-* 작용 : late sodium channel 차단 → myocyte Ca overload 감소 → 협심증 증상↓, 운동 능력↑; 혈압/맥박에 영향 없음 - 저혈압 경향 또는 서맥 환자에서 특히 유용
-* 적응증 : β-차단제, CCB, 지속형 nitrate에도 증상이 지속되는 환자에서 추가
-* 부작용 : 어지럼, 변비, 구역, 두통, QT 연장
-* 금기/주의 : 중증 간기능 장애, 강력한 CYP3A 억제제와 병용 금기; QT 연장 위험 및 신기능 저하를 고려
-* 500\~1,000 ㎎ bid <mark style="color:blue;">\[라넥사]</mark> (국내 비급여; 실제 처방 시 허가용량·상호작용 확인)
+* 작용 : late sodium current 억제 → 심근 Ca 과부하 감소; 심박수·혈압에 미치는 영향이 작아 국외에서는 기존 항협심증제에 대한 추가 요법으로 사용
+* **국내 라넥사서방정은 2026-03-23 허가 취하**. 국내 비급여 처방 가능 약제로 제시하지 않음 <mark style="color:$info;">[식약처 품목정보]</mark>
+* 국내 일반 처방례에서는 제외하며, 국외 용량·적응증을 국내 허가용량으로 혼용하지 않음
+* 부작용 : 어지럼, 변비, 구역, 두통, QT 연장; 강력한 CYP3A 억제제 병용 및 신·간기능 장애에 주의
 
 ### <mark style="color:orange;">Ivabradine</mark>
 
 * 작용 : SA node의 funny current(If) 억제 → 심박수↓ (혈압/심수축력에 영향 없음)
-* 적응증 : LVEF ≤35% + HR ≥70인 심부전 환자에서 β-차단제 병용 또는 금기 시
-* 금기 : 심방세동, 서맥(안정 시 HR ＜60회/분), sick sinus syndrome, verapamil 또는 diltiazem과의 병용(SIGNIFY 분석에서 위해 신호와 연관되어 EMA가 금기로 지정)
+* 심부전에서 고려 : 안정된 증상성 HF, LVEF ≤35%, **동성리듬**, 안정 시 HR ≥70회/분에서 최대 내약 β-차단제 등 표준치료 후 고려하거나 β-차단제를 사용할 수 없을 때 고려; **국내 심부전 허가·급여의 심박수 기준은 ≥75회/분** (☞ 심부전)
+* 투여 전 안정 시 **HR <70회/분은 국내 허가상 금기**; sick sinus syndrome, 중증 저혈압, verapamil/diltiazem 병용 등에도 금기. AF 심박수 조절에는 사용하지 않으며 동성리듬 여부를 확인함
+* 투여 중 지속적인 HR <50회/분 또는 서맥 증상 발생 시 감량하고, 감량에도 지속되면 중단함 <mark style="color:$info;">[국내 허가사항]</mark>
 * 5\~7.5 ㎎ bid <mark style="color:blue;">\[프로코라란]</mark>
 
 {% hint style="danger" %}
-**정상 LV 기능을 가진 협심증 환자에서 Ivabradine 추가는 권고되지 않음** - SIGNIFY trial(NEJM, 2014)에서 임상적 심부전이 없는 안정 CAD 환자(LVEF ＞40%)에 ivabradine을 추가했을 때 전체적으로 예후 개선이 없었고, 활동제한성 협심증(CCS ≥II) 하위군에서는 오히려 1차 종료점이 증가하는 위해 신호가 관찰됨. 이를 반영해 \[AHA/ACC 2023]은 정상 LV 기능 CCD 환자에서 표준 항협심증 치료에 ivabradine을 추가하는 것을 "potentially harmful"로 명시함. 즉 이 약은 HFrEF + 빈맥 적응증에서만 확립된 근거를 가지며, 단순히 "β-차단제 금기 + 동리듬 + HR ≥70"인 일반 협심증 환자에게 증상 완화 목적으로 추가하는 용도로는 권장되지 않음
+**정상 LV 기능을 가진 협심증 환자에서 Ivabradine 추가는 권고되지 않음** - SIGNIFY trial(NEJM, 2014)에서 임상적 심부전이 없는 안정 CAD 환자(LVEF ＞40%)에 ivabradine을 추가했을 때 전체적으로 예후 개선이 없었고, 활동제한성 협심증(CCS ≥II) 하위군에서는 오히려 1차 종료점이 증가하는 위해 신호가 관찰됨. 이를 반영해 \[AHA/ACC 2023]은 정상 LV 기능 CCD 환자에서 표준 항협심증 치료에 ivabradine을 추가하는 것을 "potentially harmful"로 명시함. 국내에는 동성리듬·HR ≥70회/분인 만성 안정형 협심증의 증상적 치료 적응증이 별도로 남아 있으나, 이는 정상 LV 기능 CCD에서의 추가 투여를 지지하는 지침 권고 또는 예후 개선 근거와 동일하지 않음. 허가와 지침 권고를 구분하여 판단함
 {% endhint %}
 
 ### <mark style="color:orange;">GLP-1RA 및 SGLT2i</mark>
@@ -527,6 +544,8 @@ class G,H,I blue
 * 당뇨병이 있는 CCD 환자에서 SGLT2i 또는 GLP-1RA 사용 권고 (주요 CV event 감소)
 * LVEF ≤40%인 CCD 환자에서 SGLT2i 사용 권고 (CV 사망, 심부전 입원 감소; 당뇨병 유무 무관)
 * 당뇨병이 없더라도 **심부전이 동반된 CCD**에서는 LVEF에 따라 SGLT2i가 권고/고려됨. 단순히 LVEF >40%인 CCD라는 이유만으로 SGLT2i를 추가하는 것은 권고되지 않음
+
+* **비당뇨 과체중/비만 + 기존 ASCVD** : SELECT에서 BMI ≥27 kg/m², 기존 심혈관질환이 있는 비당뇨 성인에 semaglutide 2.4 ㎎ 주 1회 투여 시 MACE가 감소함. 당뇨병이나 HF가 없는 환자에서도 해당 임상 특성·국내 적응증에 따라 고려할 수 있으며, 모든 GLP-1RA의 계열 효과로 일반화하지 않음 <mark style="color:$info;">[SELECT 2023]</mark>
 
 ### <mark style="color:orange;">Aldosterone 차단제 (MRA)</mark>
 
@@ -562,7 +581,8 @@ class G,H,I blue
 #### <mark style="color:$primary;">Nicorandil</mark>
 
 * 작용 : 관동맥 확장 효과
-* 치료 효과에 대한 근거 미흡; 일부 국가에서 2차 선택제로 사용
+* 기존 항협심증제로 증상이 충분히 조절되지 않는 환자에서 추가 증상 완화 목적으로 고려; 사망 감소 효과가 확립된 약제로 기술하지 않음
+* 주의 : 구강·위장관·피부 등의 궤양, 출혈·천공 가능; 궤양 의심 시 약제 관련성을 평가하고 중단·대체 고려. PDE5 억제제와 병용 금기 <mark style="color:$info;">[KSIC CCS 2026]</mark>
 * 10\~30 ㎎/d #2\~3 <mark style="color:blue;">\[시그마트]</mark>
 
 #### <mark style="color:$primary;">오메가-3 (ω-3 지방산)</mark>
@@ -585,7 +605,7 @@ class G,H,I blue
 ### <mark style="color:orange;">무증상 또는 안정 상태의 CAD 환자에서 이차 예방</mark>
 
 * **확인된 CAD는 증상이 없더라도 이차 예방 원칙을 적용** : 고강도 statin을 기본으로 LDL-C 목표에 맞춰 ezetimibe/PCSK9 억제제 등을 추가
-* 폐쇄성 CAD가 있으면 aspirin 75\~100 ㎎/d 또는 적절한 경우 clopidogrel 75 ㎎/d를 장기 단일요법으로 사용
+* 별도의 장기 항응고 적응증이 없는 폐쇄성 CAD에서는 aspirin 75\~100 ㎎/d 또는 적절한 경우 clopidogrel 75 ㎎/d를 장기 단일요법으로 사용; AF 동반 시 위 항혈전요법 원칙 적용
 * β-차단제는 최근 MI, LVEF ≤50%, 협심증, 부정맥, 조절되지 않는 고혈압 등 명확한 적응증이 있을 때 사용
 * ACEi/ARB는 고혈압, 당뇨병, CKD, 심부전/LV dysfunction 등 동반질환에 따라 사용
 * SGLT2i/GLP-1RA는 당뇨병 또는 심부전 등 해당 적응증이 있을 때 사용
@@ -633,7 +653,7 @@ graph TD
     D --> E[β-차단제 또는 CCB 또는<br/>지속형 nitrate 선택]
     E --> F{증상 지속?}
     F -- 아니오 --> G[GDMT 유지<br/>개별 간격 추적]
-    F -- 예 --> H[다른 계열 추가<br/>또는 ranolazine 등 고려]
+    F -- 예 --> H[다른 계열 추가<br/>또는 국내 사용 가능한 추가 약제 고려]
     H --> I{삶의 질 저하 지속<br/>또는 고위험 CAD?}
     I -- 아니오 --> G
     I -- 예 --> J[CCTA/Stress imaging/ICA<br/>허혈·해부학적 위험 재평가]
@@ -684,30 +704,30 @@ I25.5 허혈성 심근병증
 > **처방례 2. 안정 협심증 - β-차단제 + 지속형 nitrate**
 >
 > ```
-> 딜라트렌 에스알 16 ㎎/C   1C   qd
-> 임듈 지속 60 ㎎/C          1C   qd  (12시간 이상 nitrate-free interval 유지)
+> 딜라트렌에스알정 16 ㎎/T   1T   qd
+> 임듈지속정 60 ㎎/T          1T   qd  (아침에 복용)
 > ```
 >
-> _✽β-차단제를 기반으로 지속형 nitrate 병용; 복용 시간을 고정하여 nitrate-free interval 확보._\
+> _✽β-차단제를 기반으로 지속형 nitrate 병용; 서방형을 아침에 일정하게 복용하여 야간 저농도 구간을 확보함._\
 > _※ 모니터링 : 복용 초기 기립성 저혈압·서맥 증상(어지럼, 실신성 전조) 확인; 고정된 맥박 목표보다는 증상과 혈압·심박수에 따라 용량 조절_
 
-> **처방례 3. β-차단제 금기(활동성 천식, 중증 서맥 등) - Non-DHP CCB + 지속형 nitrate**
+> **처방례 3. 기관지경련으로 β-차단제 사용 곤란, 서맥·전도장애·LV 수축기 기능저하 없음 - Non-DHP CCB + 지속형 nitrate**
 >
 > ```
 > 헤르벤 서방캡슐 180 ㎎/C   1C   qd
-> 임듈 지속 60 ㎎/C           1C   qd
+> 임듈지속정 60 ㎎/T           1T   qd
 > ```
 >
-> _✽활동성 천식, 중증 서맥 등 β-차단제 금기 시 diltiazem 선택(단순 COPD는 더 이상 금기로 보지 않음 - 심선택적 β-차단제 사용 가능). Non-DHP CCB + nitrate 병용 가능._\
+> _✽기관지경련 때문에 β-차단제 사용이 어려우며 혈압·심박수가 유지되는 경우의 예시. 중증 서맥·전도장애 또는 HFrEF에서는 diltiazem을 선택하지 않음. 단순 COPD는 β-차단제의 절대 금기가 아님._\
 > _※ 모니터링 : 서맥·방실차단 징후(맥박, 실신) 확인; β-차단제와의 중복 병용 시작하지 않음_
 
-> **처방례 4. β-차단제 금기 + 서맥/저혈압 경향 - Ranolazine**
+> **처방례 4. β-차단제 사용 곤란 + 서맥, 혈압 유지 - DHP CCB**
 >
 > ```
-> 라넥사 서방정 500 ㎎/T       1T   bid
+> 노바스크 5 ㎎/T   1T   qd
 > ```
 >
-> _✽Ranolazine은 심박수와 혈압을 크게 낮추지 않아 서맥 또는 저혈압 경향에서 고려할 수 있음. 강력한 CYP3A 억제제 병용 및 QT 연장 위험을 확인._
+> _✽Amlodipine은 심박수를 직접 낮추지 않으므로 서맥 환자에서 고려할 수 있으나, 저혈압이 있으면 적합하지 않을 수 있음. 증상성 서맥·실신은 원인 평가가 우선임. 혈압·말초 부종 및 협심증 증상에 따라 용량을 조절함._
 
 > **처방례 5. 이차 예방 - 기본 약물**
 >
@@ -716,7 +736,7 @@ I25.5 허혈성 심근병증
 > 아토르바스타틴 40 ㎎/T        1T   qd
 > ```
 >
-> _✽확인된 CAD의 기본 이차 예방 예시. LDL-C 목표 미달성 시 ezetimibe 등 추가. β-차단제는 최근 MI, LVEF 저하, 협심증, 부정맥 등 적응증이 있을 때 추가하고, ACEi/ARB도 고혈압·당뇨병·CKD·심부전/LV dysfunction 등의 적응증에 따라 추가._\
+> _✽장기 항응고 적응증이 없는 확인된 CAD의 기본 이차 예방 예시. LDL-C 목표 미달성 시 ezetimibe 등 추가. β-차단제는 최근 MI, LVEF 저하, 협심증, 부정맥 등 적응증이 있을 때 추가하고, ACEi/ARB도 고혈압·당뇨병·CKD·심부전/LV dysfunction 등의 적응증에 따라 추가._\
 > _※ 모니터링 : 위장관 출혈 징후, statin 관련 근육 증상 및 LDL-C 추적_
 
 > **처방례 6. 이차 예방 + 당뇨병 동반 - SGLT2i 병용**
@@ -727,7 +747,7 @@ I25.5 허혈성 심근병증
 > 자디앙 10 ㎎/T                1T   qd
 > ```
 >
-> _✽당뇨병이 동반된 CCD에서는 심혈관 이득이 입증된 SGLT2i 또는 GLP-1RA를 고려. SGLT2i는 심부전이 동반되면 당뇨병 유무와 관계없이 적응증에 따라 사용. ACEi/ARB와 β-차단제는 별도 적응증에 따라 추가._\
+> _✽장기 항응고 적응증이 없는 예시. 당뇨병이 동반된 CCD에서는 심혈관 이득이 입증된 SGLT2i 또는 GLP-1RA를 고려. SGLT2i는 심부전이 동반되면 당뇨병 유무와 관계없이 적응증에 따라 사용. ACEi/ARB와 β-차단제는 별도 적응증에 따라 추가._\
 > _※ 모니터링 : 생식기 진균감염·탈수·체위성 저혈압, 신기능 및 혈당 추적_
 
 ***
@@ -736,7 +756,7 @@ I25.5 허혈성 심근병증
 
 * **Nitroglycerin 설하정** : 흉통 발생 시 앉아서 설하에 투여; 5분 후에도 호전되지 않거나 악화되면 즉시 119 연락. 안정 협심증에서 증상이 호전되는 경우에도 총 3회 이내 원칙. **PDE5 억제제와 병용 금지** - 실데나필 복용 후 24시간, 타다라필 복용 후 48시간 이내에는 nitroglycerin을 사용하지 않음
 * **β-차단제** : 임의로 중단하지 않도록 교육; 갑자기 끊으면 심근 허혈 유발 가능; 맥박이 50회/분 미만이면 의사와 상담
-* **지속형 Nitrate** : 두통이 흔히 발생하나 계속 복용하면 호전됨; 12시간 이상의 nitrate-free interval 유지 (내성 예방)
+* **지속형 Nitrate** : 두통이 흔히 발생하나 계속 복용하면 호전됨; 제형·복용시간에 따라 하루 약 8~12시간의 무약물 또는 저농도 구간 확보 (내성 예방); 1일 1회 서방형은 보통 아침 복용
 * **Aspirin** : 식후 복용 권장; 위장 증상 발생 시 보고; 임의 중단 금지 (혈전 위험 증가)
 * **Statin** : 처방된 시간에 규칙적으로 복용; 근육통/근력저하/짙은 소변이 나타나면 상담. 자몽주스는 일부 statin(simvastatin, atorvastatin 등)과 상호작용할 수 있으므로 과량 섭취를 피함
 * **ACEi/ARB** : 기침(ACEi), 어지럼 발생 시 의사와 상담; 임의 중단 금지
@@ -777,3 +797,24 @@ I25.5 허혈성 심근병증
 
 **약 복용에 관하여**\
 처방된 모든 약은 임의로 중단하지 마세요. 특히 니트로글리세린은 항상 지참하고, 제조사 권고에 따라 정기적으로 새 약으로 교체하세요.
+
+***
+
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+- AHA/ACC. Guideline for the Evaluation and Diagnosis of Chest Pain. 2021. doi:10.1016/j.jacc.2021.07.053.
+- AHA/ACC et al. Guideline for the Management of Patients With Chronic Coronary Disease. 2023. doi:10.1161/CIR.0000000000001168.
+- ESC. Guidelines for the management of chronic coronary syndromes. 2024. doi:10.1093/eurheartj/ehae177.
+- Korean Society of Interventional Cardiology. Expert Consensus for the Management of Chronic Coronary Syndrome: Part 1; Part 2. 2026. doi:10.4070/kcj.2026.0191; doi:10.4070/kcj.2026.0192.
+- Women’s IschemiA TRial to Reduce Events In Non-ObstRuctive CAD (WARRIOR): a randomised controlled trial. 2026. https://pubmed.ncbi.nlm.nih.gov/41932694/ — 여성 의심 ANOCA/INOCA의 일률적 집중 약물치료 전략 평가.
+- Lincoff AM et al. Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. N Engl J Med. 2023. doi:10.1056/NEJMoa2307563.
+- ACC/AHA/ACCP/HRS. Guideline for the Diagnosis and Management of Atrial Fibrillation. 2023. doi:10.1016/j.jacc.2023.08.017.
+- ESC/EACTS. Guidelines for the management of atrial fibrillation. 2024. doi:10.1093/eurheartj/ehae176.
+- ESC. Guidelines for the management of heart failure. 2026. doi:10.1093/eurheartj/ehag100.
+
+### 허가·급여 확인 자료
+
+- 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태. https://nedrug.mfds.go.kr/index
+- 건강보험심사평가원. 약제급여기준 — 임상적 권고·품목허가와 구분하여 적용. https://www.hira.or.kr

@@ -8,7 +8,7 @@
 
 #### <mark style="color:$primary;">분류</mark>
 
-<table><thead><tr><th width="228">유형</th><th>정의</th></tr></thead><tbody><tr><td><strong>처음 진단된(First diagnosed)</strong></td><td>이전에 진단된 적이 없는 AF; 지속기간이나 증상 유무와 관계없이 적용</td></tr><tr><td><strong>발작성(Paroxysmal)</strong></td><td>대부분 48시간 이내 자연 종료되며, 최대 7일까지 지속될 수 있음; 7일 이내에 중재 없이 또는 중재 후 동율동으로 회복되는 경우 포함</td></tr><tr><td><strong>지속성(Persistent)</strong></td><td>7일 이상 지속되거나 약물 또는 전기적 심율동전환 등 중재가 필요한 AF</td></tr><tr><td><strong>장기 지속성(Long-standing persistent)</strong></td><td>1년 이상 지속되는 AF에서 동율동 회복을 시도하기로 한 경우</td></tr><tr><td><strong>영구성(Permanent)</strong></td><td>환자와 의료진이 동율동으로 회복하기 위한 추가 시도를 하지 않기로 결정한 AF</td></tr></tbody></table>
+<table><thead><tr><th width="228">유형</th><th>정의</th></tr></thead><tbody><tr><td><strong>처음 진단된(First diagnosed)</strong></td><td>이전에 진단된 적이 없는 AF; 지속기간이나 증상 유무와 관계없이 적용</td></tr><tr><td><strong>발작성(Paroxysmal)</strong></td><td>대부분 48시간 이내 자연 종료되며, 최대 7일까지 지속될 수 있음; 7일 이내에 중재 없이 또는 중재 후 동율동으로 회복되는 경우 포함</td></tr><tr><td><strong>지속성(Persistent)</strong></td><td>7일 이상 지속되는 AF; 7일 이상 지속된 뒤 약물 또는 전기적 심율동전환으로 동율동으로 회복한 경우도 포함</td></tr><tr><td><strong>장기 지속성(Long-standing persistent)</strong></td><td>1년 이상 지속되는 AF에서 동율동 회복을 시도하기로 한 경우</td></tr><tr><td><strong>영구성(Permanent)</strong></td><td>환자와 의료진이 동율동으로 회복하기 위한 추가 시도를 하지 않기로 결정한 AF</td></tr></tbody></table>
 
 {% hint style="info" %}
 **AHRE/subclinical AF는 위 임상적 AF 분류와 별도로 평가**
@@ -52,7 +52,7 @@
 * 조기 리듬 조절 또는 카테터 절제술을 고려하는 증상성 AF
 * 항응고 치료가 필요하나 출혈 위험 또는 약물 상호작용이 복잡한 경우
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 증상은 경미하나 재발이 반복되거나 AF burden이 증가하는 경우
 * 웨어러블·삽입형 기기에서 AHRE/subclinical AF가 반복 발견되는 경우
@@ -104,7 +104,7 @@ graph TD
     Score -->|"저위험"| NoOAC["항응고제 불필요"]
     Score -->|"항응고 적응증"| OAC["DOAC 우선 고려<br/>금기 시 VKA"]
     Score -->|"중간 위험"| Consider["추가 위험인자·출혈위험·<br/>환자선호를 고려하여 개별화"]
-    OAC --> Rate["<u>심박수 조절</u><br/>β-차단제·non-DHP CCB·Digoxin"]
+    OAC --> Rate["<u>심박수 조절</u><br/>β-차단제·non-DHP CCB·Digoxin<br/>LVEF·혈역학에 따라 선택"]
     Consider --> Rate
     NoOAC --> Rate
     Rate --> RhythmQ["증상 지속·젊은 환자·<br/>최근 진단·HFrEF 등?"]
@@ -184,9 +184,13 @@ AF를 단순히 "있다/없다"로만 보지 않고, 모니터링 기간 동안 
 생체판막(Bioprosthetic valve) 또는 판막성형술(repair)은 기계판막과 동일하게 취급하지 않습니다. 다만 수술 시기, 판막 종류 및 동반 질환에 따라 항응고 전략이 달라질 수 있으므로 순환기내과와 상의합니다.
 {% endhint %}
 
-<table><thead><tr><th width="177">약제</th><th>용량</th><th>비고</th></tr></thead><tbody><tr><td>Dabigatran <mark style="color:blue;">[프라닥사]</mark></td><td>150 ㎎ 1T #2 (표준) / 110 ㎎ 1T #2 (CrCl 30~50, 75세 이상, verapamil 병용 또는 출혈위험 증가 시 고려)</td><td>CrCl을 기준으로 용량 조절; CrCl ＜30 ㎖/min 금기</td></tr><tr><td>Rivaroxaban <mark style="color:blue;">[자렐토]</mark></td><td>20 ㎎ 1T #1 저녁 식사와 함께</td><td>CrCl 15~49 ㎖/min에서는 15 ㎎ #1; CrCl 15 미만은 일반적으로 사용하지 않음</td></tr><tr><td>Apixaban <mark style="color:blue;">[엘리퀴스]</mark></td><td>5 ㎎ 1T #2</td><td>다음 3가지 중 2가지 이상 해당 시 2.5 ㎎ #2 : ① 연령 ≥80세, ② 체중 ≤60 ㎏, ③ 혈청 크레아티닌 ≥1.5 ㎎/㎗</td></tr><tr><td>Edoxaban <mark style="color:blue;">[릭시아나]</mark></td><td>60 ㎎ 1T #1</td><td>CrCl 15~50 ㎖/min 또는 체중 ≤60 ㎏ 또는 특정 P-gp 억제제 병용 시 30 ㎎ #1</td></tr></tbody></table>
+<table><thead><tr><th width="177">약제</th><th>용량</th><th>비고</th></tr></thead><tbody><tr><td>Dabigatran <mark style="color:blue;">[프라닥사]</mark></td><td>150 ㎎ 1C bid (표준) / 110 ㎎ 1C bid (CrCl 30~50, 75세 이상, verapamil 병용 또는 출혈위험 증가 시 고려)</td><td>CrCl을 기준으로 용량 조절; CrCl ＜30 ㎖/min 금기</td></tr><tr><td>Rivaroxaban <mark style="color:blue;">[자렐토]</mark></td><td>20 ㎎ 1T #1 저녁 식사와 함께</td><td>CrCl 15~49 ㎖/min에서는 15 ㎎ #1; CrCl 15 미만은 일반적으로 사용하지 않음</td></tr><tr><td>Apixaban <mark style="color:blue;">[엘리퀴스]</mark></td><td>5 ㎎ 1T #2</td><td>다음 3가지 중 2가지 이상 해당 시 2.5 ㎎ #2 : ① 연령 ≥80세, ② 체중 ≤60 ㎏, ③ 혈청 크레아티닌 ≥1.5 ㎎/㎗. <strong>CrCl 15~29 ㎖/min이면 연령·체중과 무관하게 2.5 ㎎ bid</strong>; CrCl &lt;15 또는 투석에서는 권장되지 않음</td></tr><tr><td>Edoxaban <mark style="color:blue;">[릭시아나]</mark></td><td>60 ㎎ 1T #1</td><td>CrCl 15~50 ㎖/min 또는 체중 ≤60 ㎏ 또는 특정 P-gp 억제제 병용 시 30 ㎎ #1</td></tr></tbody></table>
 
-* 국내 건강보험 급여기준 : 비판막성 AF이면서 CHA₂DS₂-VASc 1점 이상(또는 이에 준하는 뇌졸중 위험인자 동반) 시 NOAC 급여 인정; 처방 전 각 약제의 최신 급여기준 확인
+* **국내 NOAC 급여와 임상적 항응고 적응증은 구분**함. 비판막성 AF에서 다음 중 하나에 해당하는 고위험군에 급여 인정 <mark style="color:$info;">[HIRA NOAC 고시]</mark>
+  * 뇌졸중·TIA·혈전색전증 병력 또는 75세 이상
+  * 또는 6가지 위험인자(심부전, 고혈압, 당뇨병, 혈관성질환, 65~74세, 여성) 중 2가지 이상
+  * 또는 진료기록부에 전기적 심율동전환술/도자절제술 시행·예정이 확인되는 경우의 별도 인정기간: 심율동전환술 3주 전~4주 후, 도자절제술 3주 전~8주 후
+  * 단순히 CHA₂DS₂-VASc 1점이거나 전문의 의뢰 예정이라는 이유만으로 급여 인정으로 기술하지 않음
 * **NOAC 용량은 eGFR이 아니라 각 약제 허가사항과 지침에서 제시하는 CrCl 기준을 우선 사용**하고, Cockcroft-Gault 방식의 CrCl을 확인하여 처방
 * 신기능 및 간기능 확인 후 약제 선택; 고령자·저체중·신기능 저하에서는 특히 주의
 * 출혈 위험 평가(HAS-BLED)를 참고하되, 출혈 위험이 높다는 이유만으로 항응고 치료를 중단해서는 안 됨. 교정 가능한 출혈 위험인자(혈압 조절, NSAID/항혈소판제 병용, 음주, 약물 상호작용 등)를 먼저 교정
@@ -202,6 +206,16 @@ AF를 단순히 "있다/없다"로만 보지 않고, 모니터링 기간 동안 
 삽입형 심장기기에서 발견된 AHRE/subclinical AF에서는 일률적인 항응고의 근거가 부족합니다. 2024년 ARTESiA와 NOAH-AFNET 6을 종합한 메타분석에서는 DOAC이 허혈성 뇌졸중을 약 32% 감소시키는 대신 major bleeding을 약 62% 증가시켰습니다. 따라서 특히 짧은 에피소드에서는 뇌졸중 위험도, AHRE 지속시간, 출혈위험 및 환자 선호도를 함께 고려하여 선택적으로 결정합니다. 국내 2024 대한부정맥학회 지침도 24시간 이상 지속되는 AHRE/subclinical AF이면서 뇌졸중 위험이 높은 환자에서 순임상적 이익과 환자 선호도를 고려한 선택적 항응고를 제시합니다.
 {% endhint %}
 
+{% hint style="info" %}
+**관상동맥질환 동반 시 항혈전요법**
+
+* 장기 항응고가 필요한 AF + 안정 CAD에서, 재관류술 후 1년 경과 또는 재관류술이 필요하지 않은 CAD이고 스텐트 혈전증 병력이 없으면 **항응고제 단독**이 기본임. Aspirin/clopidogrel을 자동으로 장기 추가하지 않음
+* 최근 PCI/ACS에서는 보통 짧은 삼중요법(항응고제 + aspirin + clopidogrel) 후 항응고제 + clopidogrel로 전환함. Aspirin은 일반적으로 1주 이내 중단을 고려하되, 스텐트 혈전증 위험이 높은 경우 최대 1개월 등으로 개별화함. 이후 병용 기간도 elective PCI/ACS·출혈위험에 따라 결정함
+* CAD 예방용 rivaroxaban 2.5 ㎎ bid + aspirin은 AF 항응고 용량을 대체하지 않음 (☞ [협심증](097_-angina-pectoris.md))
+
+<mark style="color:$info;">[ACC/AHA AF 2023; ESC AF 2024]</mark>
+{% endhint %}
+
 * 경피적 좌심방이 폐쇄술(LAAO) : 장기간 항응고제 사용에 금기 또는 중대한 출혈 위험으로 장기간 항응고 유지가 어려운 고위험 환자에서 순환기내과 협진을 통해 고려
 
 ### <mark style="color:orange;">R - Reduce symptoms by rate and rhythm control</mark>
@@ -213,7 +227,7 @@ AF를 단순히 "있다/없다"로만 보지 않고, 모니터링 기간 동안 
 
 <mark style="color:cyan;">**1차 약제**</mark>
 
-<table><thead><tr><th width="146">약제</th><th>처방 예시</th><th>주의</th></tr></thead><tbody><tr><td>β-차단제</td><td>콩코르(비소프롤롤) 2.5~5 ㎎ #1 또는<br>푸로롤서방정(메토프롤롤 숙신산염) 47.5 ㎎ #1</td><td>심박수 조절의 대표적 1차 약제; 천식·중증 기관지경련, 급성 비대상성 심부전에서는 주의; HFrEF에서는 적절한 β-차단제 선택</td></tr><tr><td>non-DHP CCB</td><td>헤르벤 서방정 90 ㎎ #2 또는<br>이솝틴 서방정 240 ㎎ #1</td><td>딜티아젬·베라파밀; LVEF ≤40%인 HFrEF에서는 사용하지 않음</td></tr><tr><td>Digoxin</td><td>디곡신 0.0625~0.25 ㎎ #1</td><td>HFrEF 또는 다른 약제의 효과·내약성이 제한적인 경우 고려; 운동 시 심박수 조절 효과가 제한적이며 신기능에 따라 용량 조절 필요</td></tr></tbody></table>
+<table><thead><tr><th width="146">약제</th><th>처방 예시</th><th>주의</th></tr></thead><tbody><tr><td>β-차단제</td><td>콩코르(비소프롤롤) 2.5~5 ㎎ qd</td><td>심박수 조절의 대표적 1차 약제; 천식·중증 기관지경련, 급성 비대상성 심부전에서는 주의; HFrEF에서는 적절한 β-차단제 선택</td></tr><tr><td>non-DHP CCB</td><td>헤르벤 서방정 90 ㎎ #2 또는<br>이솝틴 서방정 240 ㎎ #1</td><td>딜티아젬·베라파밀; 2024 AF 지침에서 LVEF ≤40%는 사용하지 않음. 심부전이 동반되면 2026 HF 지침의 HFrEF(LVEF &lt;50%) 회피 원칙도 적용하여 판단</td></tr><tr><td>Digoxin</td><td>디곡신 0.0625~0.25 ㎎ #1</td><td>HFrEF 또는 다른 약제의 효과·내약성이 제한적인 경우 고려; 운동 시 심박수 조절 효과가 제한적이며 신기능에 따라 용량 조절 필요</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">리듬 조절 (Rhythm Control)</mark>
 
@@ -267,7 +281,7 @@ _(감별진단에서 다룬 심방조동은 I48.3 정형 심방조동, I48.4 비
 > _(CHA₂DS₂-VASc 고위험군, 신기능 정상, 비판막성 AF)_
 >
 > ```
-> 푸로롤서방정 47.5 ㎎/T  1T  #1
+> 콩코르 2.5 ㎎/T  1T  qd
 > 엘리퀴스 5 ㎎/T  1T  #2
 > ```
 
@@ -277,7 +291,7 @@ _(감별진단에서 다룬 심방조동은 I48.3 정형 심방조동, I48.4 비
 >
 > ```
 > 콩코르 2.5 ㎎/T  1T  #1
-> 프라닥사 110 ㎎/T  1T  #2
+> 프라닥사 110 ㎎/C  1C  bid
 > ```
 >
 > ※ 다비가트란 110 ㎎ #2는 75세 이상 또는 CrCl 30~50 mL/min 등 출혈위험이 증가한 경우 고려할 수 있음. CrCl ＜30 mL/min에서는 금기.
@@ -290,12 +304,12 @@ _(감별진단에서 다룬 심방조동은 I48.3 정형 심방조동, I48.4 비
 > 자렐토 20 ㎎/T  1T  #1 저녁 식사와 함께
 > ```
 >
-> ※ CHA₂DS₂-VASc 1점(남성)은 항응고를 고려할 수 있는 구간으로, 추가 위험인자·출혈위험·환자선호를 함께 평가하여 결정한다. 위험인자가 전혀 없는 경우에는 항응고제 없이 리듬 조절 논의를 위한 의뢰만 진행한다. 젊고 증상성인 조기 AF에서는 항부정맥제 또는 카테터 절제술을 통한 조기 리듬 조절 여부를 순환기내과와 상의한다.
+> ※ 이 예시는 임상적 판단에 따른 항응고 고려 사례이며 자동 급여 인정 사례는 아님. 단순 의뢰 예정은 심율동전환술/절제술 전후 급여 요건과 다름. CHA₂DS₂-VASc 1점(남성)은 항응고를 고려할 수 있는 구간으로, 추가 위험인자·출혈위험·환자선호를 함께 평가하여 결정한다. 위험인자가 전혀 없는 경우에는 항응고제 없이 리듬 조절 논의를 위한 의뢰만 진행한다. 젊고 증상성인 조기 AF에서는 항부정맥제 또는 카테터 절제술을 통한 조기 리듬 조절 여부를 순환기내과와 상의한다.
 
 {% hint style="danger" %}
 **WPW 증후군 동반 AF - AV node 차단제 금기**
 
-pre-excited AF에서는 β-차단제·non-DHP CCB·Digoxin 등 AV node 차단제를 사용하지 않는다. 부전도로를 통한 심실 전도가 증가하여 VF 위험이 있으므로 **즉시 응급 의뢰 및 필요 시 synchronized electrical cardioversion**이 원칙이다.
+pre-excited AF에서는 β-차단제·non-DHP CCB·Digoxin·adenosine 등 AV node 차단제를 사용하지 않음. **정맥 amiodarone도 피함**. 부전도로를 통한 심실 전도가 증가하여 VF 위험이 있으므로 **즉시 응급 의뢰 및 필요 시 synchronized electrical cardioversion**이 원칙이다.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -319,9 +333,11 @@ pre-excited AF에서는 β-차단제·non-DHP CCB·Digoxin 등 AV node 차단제
 > * 수술·시술·발치가 필요한 경우 항응고제 복용 사실을 미리 알리십시오.
 > * 리바록사반(자렐토)은 AF 용량인 15 ㎎ 또는 20 ㎎을 음식과 함께 복용하십시오.
 > * 다비가트란(프라닥사)은 캡슐을 열거나 씹지 말고 그대로 삼키십시오(개봉 시 흡수율 증가로 출혈 위험 상승). 습기에 민감하므로 원래 포장(블리스터)에 보관하고 미리 다른 약통에 옮겨 담지 마십시오.
-> * 복용을 잊은 경우 : 1일 2회 약제(다비가트란·아픽사반)는 다음 복용 시간이 6시간 이상 남았으면 즉시 복용, 그 이내면 건너뛰고 다음 정규 시간에 복용. 1일 1회 약제(리바록사반·에독사반)는 당일 중 기억나면 복용하되 다음날로 넘어갔다면 건너뛰기. 두 번 복용을 한 번에 하지 마십시오.
+> * **다비가트란 복용 누락** : 다음 복용까지 6시간 이상 남았으면 복용하고, 6시간 미만이면 건너뛴 뒤 다음 정규 시간에 복용하십시오. 누락분을 보충하려고 두 배로 복용하지 마십시오.
+> * **아픽사반 복용 누락** : 기억나는 즉시 복용하고 기존 1일 2회 일정을 계속하십시오. 두 배로 복용하지 마십시오. 다음 복용 시점이 임박했거나 복용 여부가 불확실하면 의료진·약사에게 확인하십시오.
+> * **리바록사반·에독사반(AF 1일 1회 용법) 복용 누락** : 당일 중 기억나면 복용하고 다음날에는 정해진 용량을 복용하십시오. 다음날로 넘어간 누락분을 보충하거나 두 배로 복용하지 마십시오.
 
-> **콩코르(비소프롤롤)·푸로롤(메토프롤롤) / 헤르벤(딜티아젬) - 심박수 조절제**
+> **콩코르(비소프롤롤) / 헤르벤(딜티아젬) - 심박수 조절제**
 >
 > * 약을 갑자기 중단하지 마십시오. 중단이 필요하면 의사와 상의하십시오.
 > * 맥박이 지나치게 느려지거나 심한 어지럼·실신·호흡곤란이 생기면 즉시 진료를 받으십시오.
@@ -371,3 +387,19 @@ pre-excited AF에서는 β-차단제·non-DHP CCB·Digoxin 등 AV node 차단제
 * 극심한 흉통 또는 심한 호흡 곤란
 * 두근거림과 함께 실신 또는 심한 어지럼이 발생할 때
 * 대변이 검고 끈적거리거나 피를 토하는 등 심한 출혈이 의심될 때
+
+***
+
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+- 대한부정맥학회. 2024 심방세동 일반 치료 진료지침; 심방세동 NOAC 치료 진료지침. https://k-hrs.org/expert/guide/atrial
+- ACC/AHA/ACCP/HRS. Guideline for the Diagnosis and Management of Atrial Fibrillation. 2023. doi:10.1016/j.jacc.2023.08.017.
+- ESC/EACTS. Guidelines for the management of atrial fibrillation. 2024. doi:10.1093/eurheartj/ehae176.
+- ESC. Guidelines for the management of heart failure. 2026. doi:10.1093/eurheartj/ehag100. — HF 동반 AF의 심박수 조절 및 non-DHP CCB 회피 원칙.
+
+### 허가·급여 확인 자료
+
+- 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태. https://nedrug.mfds.go.kr/index
+- 건강보험심사평가원. 약제급여기준 — 임상적 권고·품목허가와 구분하여 적용. https://www.hira.or.kr

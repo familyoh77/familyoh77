@@ -11,10 +11,10 @@
 * 혈압과 위험
   * BP 115/75 ㎜Hg부터 20/10 ㎜Hg 증가마다 심혈관 질환 사망률이 2배씩 증가
   * SBP 10\~20 ㎜Hg, DBP 5\~10 ㎜Hg 하락 시 뇌졸중 30\~40%, 허혈성 심질환 15\~20% 감소
-  * 고위험 환자에서의 3개월의 고혈압 치료 지연은 심혈관 사망률 2배 증가와 관련
+  * 치료 시작과 강화 시점은 혈압 수준, 급성 장기 손상 및 심혈관 위험도에 따라 결정; 고위험군에서 불필요한 치료 지연을 피함
   * 고령자에서 지나친 혈압 하강은 어지럼, 실신, 낙상 위험을 높일 수 있으므로 노쇠도·기립성 저혈압·치료 내약성을 고려하여 개별화
-  * DBP ＜70 ㎜Hg 시 심혈관 합병증의 위험이 증가할 수 있음 (J-curve phenomenon)
-    * DBP 70\~80 ㎜Hg에서 위험이 가장 낮았고, DBP ＜60 ㎜Hg에서는 심혈관 사고 위험이 증가되었다는 보고가 있음
+  * 낮은 DBP와 심혈관 위험의 J-curve는 주로 관찰연구에서 보고됨; 기저 질환·동맥 경직·역인과의 영향을 고려하며 DBP ＜70 ㎜Hg만으로 자동 감량·중단하지 않음 <mark style="color:$info;">\[2024 ESC]</mark>
+    * DBP가 낮으면 증상, 기립 혈압, 관상동맥질환, 장기 관류 및 내약성을 함께 평가하여 목표와 약제를 조정
   * 젊은 연령에서는 SBP와 DBP 상승 모두 CV event 위험 증가와 관련되고, ≥50세에서는 SBP와 맥압(SBP와 DBP의 차이)이 DBP보다 CV event에 대해 더 큰 예측력을 가짐
 * 증상
   * 이차성 및 장기 손상 이외에는 보통 무증상
@@ -26,7 +26,7 @@
 
 <table><thead><tr><th width="136">영역</th><th width="400">병태생리 변화 → 구조적/기능적 결과</th><th>임상적 의미</th></tr></thead><tbody><tr><td>Brain</td><td>소혈관 손상, 내피기능장애 → 백질병변, 미세경색, 미세출혈, 뇌위축</td><td>인지저하, 혈관성 치매, 뇌졸중</td></tr><tr><td>Eye</td><td>미세혈관 재형성 → 고혈압망막병증</td><td>전신 미세혈관 손상의 지표</td></tr><tr><td>Heart</td><td>압력 과부하, 혈관경직 증가 → LVH, LA/LV 확장, CAD</td><td>AF, MI, HF 위험 증가</td></tr><tr><td>Kidney</td><td>사구체내압 상승, 세동맥 경화 → 알부민뇨, 사구체경화, GFR 감소</td><td>CKD 진행 및 CV risk 증가</td></tr><tr><td>Large/medium arteries</td><td>죽상경화, 혈관 석회화 → 동맥경직 증가</td><td>pulse pressure 상승, ASCVD 증가</td></tr><tr><td>Micro-circulation</td><td>내피기능장애, 혈관반응성 증가, 혈관 재형성, 섬유화/염증 → 말초혈관저항 증가</td><td>고혈압의 지속 및 장기 손상 악순환</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">심뇌혈관질환(CVD)의 위험 인자</mark> \[대한고혈압학회]
+#### <mark style="color:$primary;">심뇌혈관질환(CVD)의 위험 인자</mark> <mark style="color:$info;">\[대한고혈압학회]</mark>
 
 * 연령 : 남 ≥45세, 여 ≥55세; ≥65세는 2개의 위험 인자로 간주
 * 조기(남 ＜55세, 여 ＜65세) 심혈관 질환 부모/형제 가족력
@@ -44,21 +44,22 @@
 * Blood vessel : peripheral arterial disease
 * Eye : retinopathy
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+###  <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치 또는 응급 의뢰**</mark>
 
-* BP ≥180/110 ㎜Hg이면서 급성 표적 장기 손상(HMOD)이 의심되거나 확인된 경우: 고혈압성 응급으로 즉시 평가·입원 치료
+* (SBP ≥180 또는 DBP ≥110 ㎜Hg)이면서 급성 표적 장기 손상(HMOD)이 의심되거나 확인된 경우: 고혈압성 응급으로 즉시 평가·입원 치료
   * 뇌증/급성 신경학적 이상, 급성 심부전·폐부종, ACS, AKI, 급성 대동맥증후군, 자간증/중증 전자간증 등
+* 심한 고칼륨혈증, 고칼륨혈증 관련 ECG 변화 또는 급격한 신 기능 악화·핍뇨 → 긴급 평가; 혈압 수치와 관계없이 판단
 
 <mark style="color:$warning;">**당일 또는 조기 의뢰**</mark>
 
 * 이뇨제를 포함하여 3제 이상 항고혈압제 투여에도 조절되지 않는 고혈압
 * 급격한 발생, 젊은 연령, 저칼륨혈증, 치료 저항 → 이차성 고혈압
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 악화되면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 악화되면 의뢰</mark>
 
-* eGFR ≤30, 단백뇨 ≥500 ㎎/d, 4개월간 eGFR ＞30% 급감, 고칼륨혈증 → 중증 신장 이상
+* 지속적인 eGFR ＜30 또는 뚜렷한 단백뇨 → 신장 전문 평가 계획; 급성 악화 여부에 따라 의뢰 시점 조정
 * 잘 조절되던 혈압이 뚜렷한 이유 없이 상승
 
 ### <mark style="color:orange;">고혈압 유형</mark>
@@ -74,7 +75,7 @@
 
 #### <mark style="color:$primary;">이완기 단독 고혈압 (Isolated diastolic hypertension, IDH)</mark>
 
-* 정의 : SBP ＜140 ㎜Hg & DBP ≥90 ㎜Hg (AHA 기준 DBP ≥80 ㎜Hg)
+* 정의 : SBP ＜140 ㎜Hg & DBP ≥90 ㎜Hg (ACC/AHA 기준: SBP ＜130 ㎜Hg & DBP ≥80 ㎜Hg)
 * 역학 : 젊은 성인에서 흔함
 * 원인 : 말초혈관 저항 증가가 주된 기전; 비만, 과도한 음주, 흡연, 스트레스, 수면 무호흡증; 이차성 원인 - 신실질 질환, 신혈관성 고혈압, 원발성 알도스테론증, 갑상선 기능 저하증
 * 예후 : DBP ≥90 ㎜Hg에서는 장기적으로 심혈관 위험이 증가할 수 있음; 단, DBP 80\~89 ㎜Hg 단독 상승의 임상적 중요성은 논란
@@ -94,9 +95,9 @@
 
 #### <mark style="color:$primary;">가면 고혈압 (Masked hypertension)</mark>
 
-* 정의 : 진료실 혈압 ＜140/90 ㎜Hg & 진료실 이외 혈압 ＞135/85 ㎜Hg
+* 정의 : 진료실 SBP ＜140 및 DBP ＜90 ㎜Hg이나 가정혈압 또는 주간 ABPM 평균 SBP ≥135 또는 DBP ≥85 ㎜Hg; 야간·24시간 ABPM은 각각의 진단 기준을 적용
   * 고혈압 치료 상태에서는 HT with reverse white coat effect 또는 masked uncontrolled HT으로 표현
-* 역학 : 조절되는 고혈압 환자의 35%; 고혈압 약제의 갯수, 높은 공복혈당에서 더 흔함
+* 역학 : 조절되는 고혈압 환자의 35%; 고혈압 약제의 개수, 높은 공복혈당에서 더 흔함
 * 예후 : 일중 고혈압이 과소 평가되어 심혈관 질환의 발생 위험이 증가될 수 있음
 * 의심 : 진료실 혈압은 정상이지만 표적 장기 미세 손상이 있거나 심혈관 위험도가 높은 경우, 또는 진료실 혈압이 고혈압 전단계인 경우 가면 고혈압 감별 필요
 * 조치 : 생활 습관 개선
@@ -111,28 +112,28 @@
 * 진단 : 검증된 상완 커프 혈압계와 HBPM/ABPM을 우선 사용하며, 실제 혈압과 진료실혈압의 불일치가 지속되면 전문적인 추가 평가 고려
 * 조치 : 실제 혈압을 확인하기 전에 항고혈압제를 임의로 감량·중단하지 않음
 
-#### <mark style="color:$primary;">청소년 수축기 고혈압 (Adolescent/Juvenile ISH)</mark>
+#### <mark style="color:$primary;">청소년·젊은 성인의 수축기 단독 고혈압 (ISH in the young)</mark>
 
-* 정의 : 청소년기(특히 키가 빠르게 자라는 남자 청소년)에서 대동맥 길이 증가에 비해 혈관 탄력성이 일시적으로 과도하게 증가하면서 맥압파 증폭(pulse wave amplification)이 커져 말초(상완동맥)에서 SBP가 높게 측정되는 현상
-* 역학 : 우리나라 청소년 고혈압 유병률은 약 10%; 이 중 일부가 해당하나 정확한 유병률은 불명
-* 예후 : 장기 추적 연구에서 대부분 성인이 되면 정상화
-* 진단 : 진짜 고혈압 감별을 위해 반복 진료실혈압 및 HBPM/ABPM을 시행; 필요 시 중심동맥압 평가 등 전문의 평가를 고려
-  * Juvenile ISH가 아닌 진짜 고혈압을 의심해야 하는 경우 : DBP도 함께 높음, 비만 동반, 고혈압 증상(두통, 시력 변화, 심계항진) 동반, 표적 장기 손상 의심 소견(좌심실비대, 단백뇨, 망막 변화), 가족력 없이 혈압이 매우 높은 경우(SBP ≥160 ㎜Hg), 키·체중 성장이 정체되거나 전신 증상 동반(신질환, 내분비 질환 시사)
-* 조치 : 생활 습관 관리(비만 예방, 운동, 저염식), 6개월\~1년 간격으로 혈압 재측정; 비만 동반·DBP도 높은 경우·표적 장기 손상 의심 시 → 이차성 고혈압 감별 및 전문의 의뢰
-  * 약물 치료 : 원칙적으로 불필요 (중심 대동맥압은 정상인 경우가 많아 실제 심혈관 부담은 크지 않음)
+* 특징 : 일부에서는 말초 맥압파 증폭으로 상완 SBP가 중심동맥압보다 높게 측정되나, 백의 고혈압·지속성 고혈압 등 다양한 표현형이 포함됨
+* 예후 : 일률적으로 양성이거나 성인기에 정상화되는 상태로 간주하지 않음; 혈압의 지속성, 비만, 중심동맥압·동맥 경직 및 HMOD에 따라 위험이 다름 <mark style="color:$info;">\[2024 ESC]</mark>
+* 진단 : 반복 진료실혈압과 ABPM으로 백의효과·지속성 고혈압을 구분; 필요 시 중심동맥압·동맥 경직 평가 및 이차성 고혈압 감별
+  * 청소년은 연령·성별·키에 맞는 소아청소년 혈압 기준과 검증된 ABPM 해석 기준을 적용
+  * DBP 동반 상승, 비만, 현저한 SBP 상승, 성장 지연, 단백뇨·좌심실비대 등 HMOD 의심 시 전문의 평가
+* 조치 : 체중·염분·운동 등 생활요법과 주기적 추적; ABPM에서 정상이고 HMOD가 없으면 약물 없이 관찰 가능
+  * 약물 치료 : 지속성 고혈압, HMOD 및 위험도에 따라 개별화하며 '원칙적으로 불필요'로 단정하지 않음
 
 #### <mark style="color:$primary;">야간 혈압 강하 부재 (Non-dipper)</mark>
 
 * 정의 : 주간 혈압 대비 야간 혈압의 감소가 ＜10%
 * 원인 : 중증 HMOD, 심혈관계 질환 동반, 좌심실비대, 당뇨병, 신질환, 이차성 고혈압
   * Non-dipper 자체는 원인이라기보다 동반 질환 및 24시간 혈압 패턴을 반영하는 지표이며, 복용 시간과의 관계는 일관되지 않음
-* 예후 : 좌심실 비대, 심근경색, 뇌졸중 등의 심혈관계 질환 위험이 3배 더 높음
+* 예후 : 좌심실 비대 및 심뇌혈관 사건 위험 증가와 연관되며, 위험의 크기는 동반 질환과 야간 혈압 수준에 따라 다름
 * 진단 : (재현성이 떨어지므로) 반복하여 24시간 활동혈압 측정(ABPM) 측정
 * 조치 : 당뇨병, 신질환, 수면무호흡증, 이차성 고혈압 등 동반 원인을 평가·치료; 야간 혈압이 높으면 약제의 지속시간·복약 순응도·투여 시각을 개별적으로 재평가
 
 #### <mark style="color:$primary;">Reverse dipper</mark>
 
-* 정의 : 야간 혈압이 주간 혈압에 비해 상승 (야간 강하율 ＜0%, 즉 야간 혈압 ≥ 주간 혈압)
+* 정의 : 야간 혈압이 주간 혈압에 비해 상승 (야간 강하율 ＜0%, 즉 야간 혈압 ＞ 주간 혈압)
 * 원인 : 수면 무호흡증, 자율신경 이상, 만성 신질환, 당뇨병성 신경병증, 야간 고나트륨 섭취
 * 예후 : 출혈성 뇌졸중 위험 증가; Non-dipper보다 심혈관 예후 불량; HMOD(좌심실비대, 단백뇨) 진행 위험
 * 의심 : 진료실 혈압은 조절되나 HMOD가 진행하는 경우, 새벽 두통·기상 직후 혈압 상승, 수면 무호흡증 동반 고혈압, 당뇨병·만성 신질환 환자에서 혈압 조절 불량
@@ -152,7 +153,7 @@
 #### <mark style="color:$primary;">아침 고혈압 (Morning hypertension)</mark>
 
 * 정의 : 기상 직후 혈압이 높게 측정되는 상태로, 가정혈압에서는 아침 평균 혈압 ≥135/85 ㎜Hg 등을 이용하여 평가
-* 예후 : 뇌졸중 발생의 가장 강력한 독립 인자; 심비대, 경동맥 내중막 비후와 관련됨
+* 예후 : 뇌졸중 등 심혈관 사건 및 HMOD 위험 증가와 관련; 아침고혈압과 기상 전후의 혈압 상승폭(morning surge)을 구분
 * 원인 및 대처
   * 약효 지속 부족 : 장시간 작용 약제로 변경 또는 투여 시각 조정
   * 야간 고혈압 동반 : ABPM으로 야간 혈압 확인 - non-dipper 패턴 평가
@@ -162,7 +163,7 @@
 
 #### <mark style="color:$primary;">기립성 저혈압</mark> <mark style="color:$primary;">(Orthostatic hypotension)</mark>
 
-* 앉거나 누운 자세에서 일어선 후 1분 및 3분에 측정하여 SBP ≥20 ㎜Hg 또는 DBP ≥10 ㎜Hg 하락, 또는 SBP가 ＜90 ㎜Hg으로 저하되면서 관련 증상이 발생하는 상태 (☞ [기립성 저혈압](096_-orthostatic-hypotension.md))
+* 앙와위에서 5분 이상 안정 후 기립 1분 및 3분에 혈압·맥박을 측정; 3분 이내 지속적인 SBP ≥20 또는 DBP ≥10 ㎜Hg 감소 시 진단하며 증상은 필수 조건이 아님. 좌위 검사가 음성이어도 의심되면 앙와위에서 재검. 기립 SBP ＜90 ㎜Hg와 저관류 증상도 임상적으로 중요 (☞ [기립성 저혈압](096_-orthostatic-hypotension.md))
 
 ## <mark style="color:green;">원인</mark>
 
@@ -174,11 +175,11 @@
 ### <mark style="color:orange;">이차성 고혈압 (Secondary hypertension)</mark>
 
 * 비율 : 전체 고혈압 환자의 약 5\~10%; 젊은 연령이나 난치성(혹은 저항성) 고혈압에서는 10\~35%까지 높게 보고됨
-* 원인 : 폐쇄수면무호흡증(가장 흔함), 콩팥 질환, 갑상선 질환, 부갑상선항진증, 원발성 aldosteronism, 쿠싱증후군, 갈색세포종, 대동맥 축착, 약물
-  * 유발 약물 : 경구 피임제 (특히 고에스트로겐제), 스테로이드, NSAID 장기 투여, 식욕 억제제, TCA, SNRI(venlafaxine 등), pseudoephedrine, clozapine, olanzapine, cyclosporine, tacrolimus, erythropoietin, amphetamine류(ADHD 약제), VEGF 억제제·TKI, 안드로겐 차단요법(ADT), tizanidine, MAOI
-    * 대안 \[2025 ACC/AHA] : NSAID → 국소 NSAID·acetaminophen(＜4 g/d); 비충혈제거제 → 생리식염수·비강 스테로이드; cyclosporine → tacrolimus; 조절 안 되는 여성의 경구피임제 → 저용량 또는 progestin-only; 경구 clonidine은 서서히 감량 후 중단
+* 원인 : 폐쇄수면무호흡증, 콩팥 질환, 갑상선 질환, 부갑상선항진증, 원발성 aldosteronism, 쿠싱증후군, 갈색세포종, 대동맥 축착, 약물
+  * 유발 약물 : 경구 피임제 (특히 고에스트로겐제), 스테로이드, NSAID 장기 투여, 식욕 억제제, TCA, SNRI(venlafaxine 등), pseudoephedrine, clozapine, olanzapine, cyclosporine, tacrolimus, erythropoietin, amphetamine류(ADHD 약제), VEGF 억제제·TKI, 안드로겐 차단요법(ADT), tizanidine·clonidine의 갑작스러운 중단, MAOI
+    * 대안 <mark style="color:$info;">\[2025 ACC/AHA]</mark> : NSAID → 국소 NSAID·acetaminophen(＜4 g/d); 비충혈제거제 → 생리식염수·비강 스테로이드; cyclosporine → tacrolimus; 조절 안 되는 여성의 경구피임제 → 저용량 또는 progestin-only; 경구 clonidine은 서서히 감량 후 중단
   * OSA 감별 : STOP-BANG 점수 ≥3점 시 수면다원검사 고려
-    * OSA 동반 과체중 고혈압은 체중 감량 + CPAP; 저항성 고혈압 + 중등도 이상 OSA는 CPAP 치료 \[2025 ACC/AHA]
+    * OSA 동반 과체중 고혈압은 체중 감량 + CPAP; 저항성 고혈압 + 중등도 이상 OSA는 CPAP 치료 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
 * 감별 검사 대상
   1. 갑자기 발생한 고혈압
   2. 연령, 병력, 신체 진찰, 고혈압의 중증도나 기본 검사실 검사상 이차성 고혈압이 의심됨
@@ -186,11 +187,11 @@
   4. 잘 조절되던 혈압이 뚜렷한 이유 없이 상승
 
 {% hint style="info" %}
-**\[젊은 고혈압 환자]** 장기적 심혈관질환 위험 감소와 조기 예방 효과 강화를 위하여 20\~39세 젊은 고혈압 환자를 핵심 관리 대상으로 제시; 40세 미만 고혈압 환자에서 이차성 고혈압 선별검사를 적극 권고, 젊은 고혈압 환자에서 표적장기 손상 평가를 통해 고위험군을 조기 선별하고 필요 시 신속한 약물 치료 시작 고려 \[2026 대한고혈압학회]
+**\[젊은 고혈압 환자]** 장기적 심혈관질환 위험 감소와 조기 예방 효과 강화를 위하여 20\~39세 젊은 고혈압 환자를 핵심 관리 대상으로 제시; 40세 미만 고혈압 환자에서 이차성 고혈압 선별검사를 적극 권고, 젊은 고혈압 환자에서 표적장기 손상 평가를 통해 고위험군을 조기 선별하고 필요 시 신속한 약물 치료 시작 고려 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 {% endhint %}
 
 {% hint style="info" %}
-**\[난치성 고혈압 환자]** 저칼륨혈증 여부와 관계없이 원발성 aldosteronism을 감별; 아래 중 하나라도 해당하는 경우 혈장 알도스테론 농도, 혈장 레닌 활성, 알도스테론/레닌 비율(ARR) 측정을 권고 \[대한고혈압학회]
+**\[난치성 고혈압 환자]** 저칼륨혈증 여부와 관계없이 원발성 aldosteronism을 감별; 아래 중 하나라도 해당하는 경우 혈장 알도스테론 농도, 혈장 레닌 활성, 알도스테론/레닌 비율(ARR) 측정을 권고 <mark style="color:$info;">\[대한고혈압학회]</mark>
 
 • 난치성(저항성) 고혈압\
 • 부신 우연종(adrenal incidentaloma)\
@@ -199,18 +200,19 @@
 • 폐쇄성 수면무호흡증\
 • 40세 미만 뇌졸중 가족력 또는 일차성 알도스테론증 가족력
 
-✽ \[2025 ACC/AHA] 2기 고혈압(≥140/90 ㎜Hg)에서도 선별 고려; 선별 양성 시 고혈압 전문의 또는 내분비내과 의뢰\
-✽ 선별검사 전 MRA(스피로놀락톤 등)는 중단하나, 그 외 대부분의 항고혈압제는 중단하지 않고 유지
+✽ <mark style="color:$info;">\[2025 ACC/AHA]</mark> 2기 고혈압(≥140/90 ㎜Hg)에서도 선별 고려; 선별 양성 시 고혈압 전문의 또는 내분비내과 의뢰\
+✽ 초기 ARR 선별은 대부분의 항고혈압제를 유지한 상태에서 시행 가능; MRA는 안전하게 중단할 수 있으면 통상 4주 이상 중단 후 검사. 저칼륨혈증을 교정하고, 간섭 약물·검사법·레닌 억제 여부를 함께 해석. 중단이 어렵거나 결과가 임상상과 맞지 않으면 전문의와 무중단 검사 또는 약물 조정 후 재검을 계획 <mark style="color:$info;">\[대한고혈압학회 2026; Endocrine Society 2025]</mark>
+* Endocrine Society 2025는 모든 고혈압 환자의 PA 선별을 조건부로 제안하나, 국내 지침은 고위험군 중심 선별을 권고; 자원·전문성 및 검사 실행 가능성을 고려
 {% endhint %}
 
 #### <mark style="color:$primary;">이차성 고혈압의 주요 원인과 진단 접근법</mark>
 
-<table><thead><tr><th width="124">원인</th><th width="203">과거력</th><th width="123">신체 진찰</th><th>진단 검사</th></tr></thead><tbody><tr><td><strong>콩팥 실질병</strong></td><td>요로감염 또는 폐색 병력, 진통제 남용, 다낭콩팥병 가족력</td><td>복부 중앙 (다낭콩팥병)</td><td>•콩팥 초음파, 콩팥병에 대한 세부 검사<br>•소변 내 단백질·적혈구·백혈구 양성, eGFR 감소</td></tr><tr><td><strong>콩팥 동맥 협착</strong></td><td>섬유근육 형성이상·고혈압 조기 발현(여성), 죽상동맥경화증·갑자기 발현, 악화 및 치료 저항성·반복적 폐부종</td><td>복부 잡음</td><td>•양측 콩팥 크기 차이 ＞1.5 cm; Duplex 도플러 콩팥 초음파, CT, MR Angiography, 동맥 내 혈관 조영<br>•ACEI/ARB 투여 후 eGFR 급감</td></tr><tr><td><strong>원발성 알도스테론증</strong></td><td>근력 저하, 고혈압 조기 발병 ≤40세</td><td>-</td><td>•ARR 측정 (상승); 확진 검사: 부신 CT, 부신 정맥 혈액 채취<br>•저칼륨혈증</td></tr><tr><td><strong>갈색세포종</strong></td><td>발작 또는 지속적인 고혈압에 동반되는 두통, 발한, 심계항진; 가족력</td><td>신경섬유종증 징후 (café-au-lait 반점)</td><td>•24시간 소변 내 메타네프린 및 노르메타네프린 (상승); 복부·골반 CT 또는 MRI (부신 종양)</td></tr><tr><td><strong>쿠싱증후군</strong></td><td>빠른 체중 증가, 다모, 다낭성 난소 병력</td><td>중심성 비만, 달 얼굴, 복부 선홍색 선조, 근력 저하</td><td>•24시간 소변 내 유리 코티솔 (상승); 덱사메타손 억제 검사 (비억제); 심야 타액 코티솔 (상승)<br>•고혈당</td></tr></tbody></table>
+<table><thead><tr><th width="124">원인</th><th width="203">과거력</th><th width="123">신체 진찰</th><th>진단 검사</th></tr></thead><tbody><tr><td><strong>콩팥 실질병</strong></td><td>요로감염 또는 폐색 병력, 진통제 남용, 다낭콩팥병 가족력</td><td>복부 중앙 (다낭콩팥병)</td><td>•콩팥 초음파, 콩팥병에 대한 세부 검사<br>•소변 내 단백질·적혈구·백혈구 양성, eGFR 감소</td></tr><tr><td><strong>콩팥 동맥 협착</strong></td><td>섬유근육 형성이상·고혈압 조기 발현(여성), 죽상동맥경화증·갑자기 발현, 악화 및 치료 저항성·반복적 폐부종</td><td>복부 잡음</td><td>•양측 콩팥 크기 차이 ＞1.5 cm; Duplex 도플러 콩팥 초음파, CT, MR Angiography, 동맥 내 혈관 조영<br>•ACEI/ARB 투여 후 eGFR 급감</td></tr><tr><td><strong>원발성 알도스테론증</strong></td><td>근력 저하, 고혈압 조기 발병 ≤40세</td><td>-</td><td>•알도스테론·레닌·ARR로 선별; 필요 시 알도스테론 억제 검사<br>•부신 CT 및 부신정맥채혈(AVS)은 수술을 고려할 때 병변·편측성 평가<br>•저칼륨혈증이 없어도 배제 불가</td></tr><tr><td><strong>갈색세포종</strong></td><td>발작 또는 지속적인 고혈압에 동반되는 두통, 발한, 심계항진; 가족력</td><td>신경섬유종증 징후 (café-au-lait 반점)</td><td>•24시간 소변 내 메타네프린 및 노르메타네프린 (상승); 복부·골반 CT 또는 MRI (부신 종양)</td></tr><tr><td><strong>쿠싱증후군</strong></td><td>빠른 체중 증가, 다모, 다낭성 난소 병력</td><td>중심성 비만, 달 얼굴, 복부 선홍색 선조, 근력 저하</td><td>•24시간 소변 내 유리 코티솔 (상승); 덱사메타손 억제 검사 (비억제); 심야 타액 코티솔 (상승)<br>•고혈당</td></tr></tbody></table>
 
 _ARR=aldosterone-to-renin ratio_
 
 {% hint style="info" %}
-**신동맥 협착의 관리** \[2025 ACC/AHA]
+**신동맥 협착의 관리** <mark style="color:$info;">\[2025 ACC/AHA]</mark>
 
 • 죽상경화성 : RAS 차단제 포함 강압 치료 + 고강도 스타틴 + 금연 + 항혈소판제 + (당뇨병 시) 혈당 조절\
 • 내과 치료 실패(조절 불량·저항성 고혈압, 신기능 악화, 급성 심부전) 시 재관류(PTRA/스텐트) 의뢰 고려\
@@ -219,7 +221,7 @@ _ARR=aldosterone-to-renin ratio_
 
 #### <mark style="color:$primary;">연령별 이차성 고혈압 원인</mark>
 
-<table data-header-hidden><thead><tr><th width="312"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="73"></th></tr></thead><tbody><tr><td><strong>질환명 / 연령 (yr)</strong> [2023 ESH]</td><td><strong>1~12</strong></td><td><strong>13~18</strong></td><td><strong>19~40</strong></td><td><strong>41~65</strong></td><td><strong>＞65세</strong></td></tr><tr><td>Mild aortic syndrome</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Coarctation of aorta</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Renal parenchymal disease</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Renovascular HT - FMD</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>RV HT - Atherosclerotic Dz.</td><td></td><td></td><td></td><td>●</td><td>●</td></tr><tr><td>Monogenic disorders</td><td>●</td><td>●</td><td>●</td><td></td><td></td></tr><tr><td>Pheochromocytoma &#x26; paraganglioma</td><td></td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Primary aldosteronism</td><td></td><td></td><td>●</td><td>●</td><td></td></tr><tr><td>Cushing Syndrome</td><td></td><td></td><td></td><td>●</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="312"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="77"></th><th width="73"></th></tr></thead><tbody><tr><td><strong>질환명 / 연령 (yr)</strong> [2023 ESH]</td><td><strong>1~12</strong></td><td><strong>13~18</strong></td><td><strong>19~40</strong></td><td><strong>41~65</strong></td><td><strong>＞65세</strong></td></tr><tr><td>Mid-aortic syndrome</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Coarctation of aorta</td><td>●</td><td>●</td><td></td><td></td><td></td></tr><tr><td>Renal parenchymal disease</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Renovascular HT - FMD</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>RV HT - Atherosclerotic Dz.</td><td></td><td></td><td></td><td>●</td><td>●</td></tr><tr><td>Monogenic disorders</td><td>●</td><td>●</td><td>●</td><td></td><td></td></tr><tr><td>Pheochromocytoma &#x26; paraganglioma</td><td></td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Primary aldosteronism</td><td></td><td></td><td>●</td><td>●</td><td></td></tr><tr><td>Cushing Syndrome</td><td></td><td></td><td></td><td>●</td><td></td></tr></tbody></table>
 
 ## <mark style="color:green;">진단</mark>
 
@@ -231,7 +233,7 @@ _ARR=aldosterone-to-renin ratio_
 * ≥1주 간격(ESH에서는 1\~4주)으로 ≥2회 방문 측정하여 모두 고혈압 기준에 해당되면 진단
 * ≥180/110 ㎜Hg, 혈압 관련 증상, HMOD, CVD 등이 있는 경우에는 바로 진단 가능
 * 고혈압으로 진단하기 전에 진료실 이외 혈압(활동/가정혈압) 측정을 권고
-* ESH는 Grade 1·2·3으로 고혈압을 분류하는 한편 BP value에 기초하여 Stage를 분류
+* ESH는 혈압 수준으로 Grade 1·2·3을, HMOD·동반 질환에 따라 Stage를 구분
   * Stage 1 : 합병증 없는 고혈압; HMOD 또는 확인된 CVD 없음, CKD stage 1 또는 2
   * Stage 2 : HMOD 있음, CKD grade 3, 당뇨병 등이 있음
   * Stage 3 : 확인된 CVD, CKD stage 4 또는 5
@@ -241,7 +243,6 @@ _ARR=aldosterone-to-renin ratio_
 <table><thead><tr><th width="108">구분</th><th width="100">의료기관</th><th width="100">HBPM</th><th width="114">주간 ABPM</th><th width="114">야간 ABPM</th><th width="114">아침 ABPM</th><th>24시간 ABPM</th></tr></thead><tbody><tr><td><strong>정상 혈압</strong></td><td>120/80</td><td>120/80</td><td>120/80</td><td>100/65</td><td>120/80</td><td>115/75</td></tr><tr><td><strong>고혈압</strong></td><td>140/90</td><td>135/85</td><td>135/85</td><td>120/70</td><td>135/85</td><td>130/80</td></tr></tbody></table>
 
 　_HBPM/ABPM=Home/Ambulatory BP monitoring._\
-　_HBPM은 진료실 측정 혈압보다 평균 12/7 ㎜Hg 낮음._\
 　_✽ 2026년 대한고혈압학회 : 아침 평균 혈압 기준(≥135/85_ ㎜_Hg)을 진단 기준표에 신규 추가_
 
 ***
@@ -250,7 +251,7 @@ _ARR=aldosterone-to-renin ratio_
 graph TD
     A([진료실 혈압 측정])
     A -->B1["<120/80"]--> C[정상 혈압]
-    A -->B2[120-139/80-89]--> D[고혈압 전단계]
+    A -->B2["SBP 120-129 및 DBP <80<br/>또는 SBP 130-139 또는 DBP 80-89"]--> D[주의혈압 또는 고혈압 전단계]
     A -->B3[140-159/90-99]--> E[고혈압 1기]
     A -->B4[160-179/100-109]--> F[고혈압 2기]
     A -->B5["≥180/110"]--> G[고혈압 2기, 중증]
@@ -264,7 +265,7 @@ style F fill:#f8a0c0,stroke:#d01f5a
 style G fill:#f06090,stroke:#c62828
     
     C --> H[40세 이상?]
-    H -->|NO| I[3년*마다 검사]
+    H -->|NO| I[2년마다 검사]
     H -->|YES| J[1년마다 검사]
     D --> K[고위험 요인 보유?]
     K -->|NO| J
@@ -282,7 +283,7 @@ class N,B5 peach
 
 <p align="center"><strong>고혈압 선별 검사 알고리즘</strong> <em><mark style="color:$info;">Ref. 대한고혈압학회 고혈압 진료지침 2026 분류 기준 적용; 알고리듬 구조는 2023 ESH Guidelines</mark></em></p>
 
-_\*대한고혈압학회는 2년마다 측정 권고_
+_서로 다른 범주에 속하면 높은 혈압 범주를 적용; 고혈압 범주를 먼저 판정함_
 
 ***
 
@@ -290,7 +291,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 #### <mark style="color:$primary;">선별 측정 대상</mark>
 
-* ≥20세 모든 성인에 대하여 2년마다 진료실혈압 측정 \[대한고혈압학회]
+* ≥20세 모든 성인에 대하여 2년마다 진료실혈압 측정 <mark style="color:$info;">\[대한고혈압학회]</mark>
   * 고혈압 또는 고혈압전단계 진단 시 가정혈압 또는 활동혈압 측정
 * 다음의 경우에는 매년 진료실혈압 측정 : 고혈압전단계, ≥40세, 고혈압 가족력, 비만
 
@@ -306,7 +307,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 1. 측정 자세 : 등받이에 등을 기대고 다리를 꼬지 않은 상태에서 발이 바닥에 닿게 앉음
    * 등받이가 없는 의자에서 측정 시 DBP 6 ㎜Hg, 다리를 꼰 상태에서 측정 시 SBP 2\~8 ㎜Hg, 팔이 지지되지 않은 상태에서 측정 시 \~10% 상승됨
-2. 커프 감기 : 맨팔 또는 얇은 옷 위에, cuff 하단을 위팔의 팔꿈치 주름(elbow crease) 2\~3 ㎝ 상부에 위치
+2. 커프 감기 : 맨팔에, cuff 하단을 위팔의 팔꿈치 주름(elbow crease) 2\~3 ㎝ 상부에 위치
 3. 팔의 위치 : mid-arm이 심장 높이(흉골의 중간 부위)가 되고 팔을 힘이 들어가지 않게 약간 구부려 책상 위에 얹어 놓은 상태에서 측정
    * 팔이 심장 높이보다 아래에 위치하면 혈압이 높게 측정됨
 4. 측정 : 손목 맥박이 사라지고 나서 20\~30 ㎜Hg 더 올린 후 매 박동 또는 1초마다 2 ㎜Hg 정도로 서서히 감압하며 측정; 분명한 심박동음이 들리기 시작하는 Korotkoff 음 1기를 SBP로, 심박동음이 사라지는 Korotkoff 음 5기를 DBP로 정함; 2 ㎜Hg 단위로 기록
@@ -319,7 +320,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 **측정 유의 사항**
 
-* \[2025 ACC/AHA] 진료실에서는 청진법보다 검증된 자동(oscillometric) 혈압계를 우선 사용; 측정 결과는 환자에게 구두 및 서면으로 알림
+* <mark style="color:$info;">\[2025 ACC/AHA]</mark> 진료실에서는 청진법보다 검증된 자동(oscillometric) 혈압계를 우선 사용; 측정 결과는 환자에게 구두 및 서면으로 알림
 * 심박동음이 너무 약한 경우 커프를 풀고 팔을 위로 들고 주먹을 쥐었다 펴는 동작을 10회 정도 반복한 후 측정
 * 누워서 측정하는 경우에는 상지에 베개를 받침
   * 누운 자세가 선 자세보다 SBP로 8 ㎜Hg 높음
@@ -330,7 +331,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 * 진료실혈압보다 심혈관 질환과의 연관성이 높음
 * 대상 : 모든 고혈압 환자; 특히 백의/가면 고혈압 의심, 심한 진료실혈압 변동, 약제 반응 미흡 시
-  * \[2025 ACC/AHA] 진료실 SBP 130\~160 또는 DBP 80\~100 ㎜Hg → 백의 고혈압 배제; 진료실 혈압 ＜130/80 ㎜Hg(미치료 또는 치료 중) → 가면(비조절) 고혈압 배제
+  * <mark style="color:$info;">\[2025 ACC/AHA]</mark> 진료실 SBP 130\~160 또는 DBP 80\~100 ㎜Hg → 백의 고혈압 배제; 진료실 혈압 ＜130/80 ㎜Hg(미치료 또는 치료 중) → 가면(비조절) 고혈압 배제
 * 심한 부정맥이나 임신 중에는 부정확할 수 있음
 * 혈압계 선택 : 위팔 혈압계를 권고; 위팔이 매우 굵은 경우에는 손목 혈압계를 고려; 손가락 혈압계는 측정 오차가 많아 권고하지 않음; 혈압계의 주기적 점검을 권고
 * 측정 시각
@@ -343,8 +344,8 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 * 원리 : 맥파전도시간(PTT), 광혈류측정(PPG) 기반 맥파 속도 및 파형 분석으로 혈압 추정; 스마트워치·반지형 혈압계 등으로 상용화
 * 장점 : 커프 압박 없이 일상생활·수면 중 연속 측정 가능; 혈압 변동성 평가 및 자가관리 향상에 기여 가능
 * 국내 현황 : 반지형 혈압계는 식약처 허가 + 24시간 활동혈압감시 건강보험 수가 적용
-* 한계 및 주의 : 기기별 정확도 차이가 크며, 표준화된 임상 적용 지침 미비; SBP가 매우 높거나 낮은 경우, 심방세동·말초혈관질환·당뇨병·말기 신부전·임신 등에서는 기기별 정확도가 저하될 수 있으므로 특히 주의; 진료실 밖 혈압 측정 시 보조적 혈압 감시 수단으로 활용을 고려할 수 있음\[2026 대한고혈압학회]. 단, 진단·치료 결정은 검증된 커프형 혈압계 기준으로 판단
-* \[2025 ACC/AHA] 정확도 검증이 미흡하여 커프리스 혈압계는 사용하지 않도록 권고 - 대한고혈압학회(보조적 활용 고려)와 입장이 다름
+* 한계 및 주의 : 기기별 정확도 차이가 크며, 표준화된 임상 적용 지침 미비; SBP가 매우 높거나 낮은 경우, 심방세동·말초혈관질환·당뇨병·말기 신부전·임신 등에서는 기기별 정확도가 저하될 수 있으므로 특히 주의; 진료실 밖 혈압 측정 시 보조적 혈압 감시 수단으로 활용을 고려할 수 있음<mark style="color:$info;">\[2026 대한고혈압학회]</mark>. 단, 진단·치료 결정은 검증된 커프형 혈압계 기준으로 판단
+* <mark style="color:$info;">\[2025 ACC/AHA]</mark> 정확도 검증이 미흡하여 커프리스 혈압계는 사용하지 않도록 권고 - 대한고혈압학회(보조적 활용 고려)와 입장이 다름
 
 #### <mark style="color:$primary;">활동 혈압 측정</mark>
 
@@ -365,7 +366,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 9. 사회 경제적 상태
 
 {% hint style="info" %}
-**무증상 장기 손상 정의** \[대한고혈압학회]
+**무증상 장기 손상 정의** <mark style="color:$info;">\[대한고혈압학회]</mark>
 
 • 뇌 : 뇌실 주위 백질 고강도 신호, 미세 출혈, 무증상 뇌경색\
 • 심장 : 좌심실 비대\
@@ -417,7 +418,7 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 
 * 무증상 장기 손상에 대한 뇌, 심장, 콩팥, 혈관 검사
 * 이차성 고혈압의 진단을 위한 검사
-  * \[2025 ACC/AHA] UACR(또는 UPCR)과 혈청 Ca은 기본 검사에 포함 (2017 지침의 선택 검사에서 상향)
+  * <mark style="color:$info;">\[2025 ACC/AHA]</mark> UACR(또는 UPCR)과 혈청 Ca은 기본 검사에 포함 (2017 지침의 선택 검사에서 상향)
 * 심혈관 사망률을 예측하는 무증상 표적 장기 손상 지표 : ⓵ (미세)알부민뇨, ⓶ 경동맥-대퇴 맥파 전달 속도 증가, ⓷ 좌심실비대, ⓸ 경동맥 플라크
 
 　<mark style="color:purple;">※ 단백뇨↑와 GFR↓가 모두 있는 경우에 어느 하나만 있는 경우보다 심혈관 및 신질환 위험이 크게 증가함</mark>
@@ -445,26 +446,26 @@ _\*대한고혈압학회는 2년마다 측정 권고_
 * 약물 치료
   * 비약물 치료를 동시에 시행
   * 약물 치료 전 백의 고혈압 등 일시적 혈압 상승을 감별
-  * 일반적인 고혈압전단계 (＜140/90 ㎜Hg)는 약물 치료 대상이 아님
+  * 저위험·중위험 고혈압전단계는 생활요법 우선; 심혈관질환 또는 당뇨병·CKD·HMOD 동반 시 아래 치료 시작 기준을 적용
   * 혈압 수준 및 심뇌혈관질환의 위험 인자, 표적 장기 손상 유무를 고려하여 치료 방법 결정
   * 심한 야간 저혈압 주의 (허혈성 시신경증 유발 가능)
 
 {% hint style="info" %}
-**\[2025 ACC/AHA]** 주요 변경 사항 : ⓵ 치료 기준으로 ASCVD 계산기 대신 PREVENT (Predicting Risk of CVD Events) 위험 계산기 사용 권고 - 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 데이터 포함; ⓶ 치료 시작 기준 위험도를 ≥10% → ≥7.5%로 낮춤; ⓷ 원발성 알도스테론증 스크리닝 강화; ⓸ β-차단제는 강한 적응증(허혈성 심질환, 부정맥, 심부전) 없이는 1차 약제로 사용하지 않음; atenolol은 임신 계획·임신 중 금기
+**<mark style="color:$info;">\[2025 ACC/AHA]</mark>** 주요 변경 사항 : ⓵ 치료 기준으로 ASCVD 계산기 대신 PREVENT (Predicting Risk of CVD Events) 위험 계산기 사용 권고 - 심장·콩팥·대사 건강 지표를 통합하고 더 다양한 인종·민족 데이터 포함; ⓶ 치료 시작 기준 위험도를 ≥10% → ≥7.5%로 낮춤; ⓷ 원발성 알도스테론증 스크리닝 강화; ⓸ β-차단제는 강한 적응증(허혈성 심질환, 부정맥, 심부전) 없이는 1차 약제로 사용하지 않음; atenolol은 임신 계획·임신 중 금기
 {% endhint %}
 
 {% hint style="info" %}
-**\[2026 대한고혈압학회]** 주요 변경 사항 : ⓵ 혈압 분류에 이완기단독고혈압(IDH) 추가; ⓶ 소금 섭취 권고량 6 g → 5 g(나트륨 2,000 ㎎) 하향 조정; ⓷ 모든 당뇨병 환자의 목표 혈압 ＜130/80 ㎜Hg로 단일화; ⓸ 뇌졸중 목표 수축기혈압 ＜140 → ＜130 ㎜Hg; ⓹ 만성콩팥병 목표 혈압 ＜140/90 → ＜130/80 ㎜Hg; ⓺ 운동 권고 유산소 중강도 주 150분 이상 + 저항성 운동 병행; ⓻ 전자담배도 중단 권고; ⓼ ARNI, SGLT2 억제제, 피네레논, 알도스테론합성효소 억제제를 항고혈압제로 추가
+**<mark style="color:$info;">\[2026 대한고혈압학회]</mark>** 주요 변경 사항 : ⓵ 혈압 분류에 이완기단독고혈압(IDH) 추가; ⓶ 소금 섭취 권고량 6 g → 5 g(나트륨 2,000 ㎎) 하향 조정; ⓷ 모든 당뇨병 환자의 목표 혈압 ＜130/80 ㎜Hg로 단일화; ⓸ 뇌졸중 목표 수축기혈압 ＜140 → ＜130 ㎜Hg; ⓹ 만성콩팥병 목표 혈압 ＜140/90 → ＜130/80 ㎜Hg; ⓺ 운동 권고 유산소 중강도 주 150분 이상 + 저항성 운동 병행; ⓻ 전자담배도 중단 권고; ⓼ ARNI, SGLT2 억제제, 피네레논, 알도스테론합성효소 억제제를 항고혈압제로 추가
 {% endhint %}
 
 #### <mark style="color:$primary;">목표 혈압</mark>
 
 **대한고혈압학회** (2026)
 
-<table><thead><tr><th width="317.952392578125">대상</th><th width="116.666748046875">목표 혈압</th><th>1차 선택제²⁾</th></tr></thead><tbody><tr><td>저위험군 및 중위험군 고혈압, 노인 고혈압</td><td>&#x3C;140/90</td><td>-</td></tr><tr><td>임신</td><td>&#x3C;140/90</td><td>nifedipine ER, amlodipine (1차); labetalol (주사제); methyldopa·hydralazine</td></tr><tr><td>고위험군 고혈압¹⁾, 당뇨병, 심혈관질환(관상동맥질환·말초혈관질환·복부대동맥류·심부전), 만성콩팥병, 뇌졸중</td><td>&#x3C;130/80²⁾</td><td>알부민뇨 동반 CKD/DM 시 ACEI/ARB; 만성콩팥병에 SGLT2 억제제</td></tr></tbody></table>
+<table><thead><tr><th width="317.952392578125">대상</th><th width="116.666748046875">목표 혈압</th><th>약제 선택 / 비고</th></tr></thead><tbody><tr><td>저위험군 및 중위험군 고혈압, 노인 고혈압</td><td>&#x3C;140/90</td><td>-</td></tr><tr><td>임신</td><td>&#x3C;140/90</td><td>nifedipine ER, amlodipine (1차); labetalol (주사제); methyldopa·hydralazine</td></tr><tr><td>고위험군 고혈압¹⁾, 당뇨병, 심혈관질환(관상동맥질환·말초혈관질환·복부대동맥류·심부전), 만성콩팥병, 뇌졸중</td><td>&#x3C;130/80²⁾</td><td>알부민뇨 동반 CKD/DM 시 ACEI/ARB; 만성콩팥병에 SGLT2 억제제</td></tr></tbody></table>
 
 　_¹⁾ 고위험군: 무증상 장기 손상 또는 심뇌혈관질환 위험 인자 3개 이상 동반_\
-　_²⁾ 만성콩팥병에서 표준화된 측정법(AOBP)으로 혈압 측정 시 SBP ＜120_ ㎜_Hg 조절 고려 가능. 뇌졸중 중 두개내혈관협착 동반 뇌경색은 ＜140/90_ ㎜_Hg 권고_
+　_²⁾ 만성콩팥병에서 표준화된 진료실혈압 측정법으로 혈압 측정 시 SBP ＜120_ ㎜_Hg 조절 고려 가능. 뇌졸중 중 두개내혈관협착 동반 뇌경색은 ＜140/90_ ㎜_Hg 권고_
 
 **ESH** (2023)
 
@@ -494,7 +495,7 @@ graph TD
 style S1 fill:#eeeeee,stroke:#888888,stroke-width:2px
     S2[≥140/90 ㎜Hg 이상<br/>또는 의심?¹⁾]
     S3[가정혈압 또는 <br/>24시간 활동혈압²⁾]
-    S22[심혈관 질환?]
+    S22["심혈관질환 또는<br/>DM·CKD·HMOD?"]
     S23[130/80 ㎜Hg?]
 classDef yellow fill:#fff9c4,stroke:#ffe082
 class S2,S22,S23 yellow
@@ -513,7 +514,7 @@ class S6,S7 pink
     S11[생활 요법 or 약물 치료]
     S12[생활 요법 & 약물 치료]
     S13[생활 요법 & 추적 관찰]
-    S14[생활 요법 & 약물 치료]
+    S14["생활요법 및 약물 고려<br/>심혈관질환 없고 DM·CKD·HMOD만 있으면<br/>3개월 생활요법 후 ≥130/80 시 고려"]
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class S11,S13 sky
 classDef blue fill:#d0e8ff,stroke:#1a6abf
@@ -545,33 +546,33 @@ class S10,S12,S14 blue
 
 <p align="center"><strong>고혈압 치료 계획</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 대한고혈압학회 고혈압 진료지침, 2026. 그림 13.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 대한고혈압학회 고혈압 진료지침 2026, 권고 8 및 그림 13을 바탕으로 재구성.</mark></em></p>
 
 　_¹⁾ 일부 환자는 목표 혈압에 따라 고혈압전단계부터 약물 치료를 고려함. ²⁾ 권장 검사._\
 　_³⁾ 심뇌혈관 위험도 평가 : 위험 인자, 무증상 장기 손상, 심혈관 질환 유무 평가_
 
 ***
 
-**혈압의 정도와 심뇌혈관 위험도에 따른 단일 또는 병용 약제 선택**
+**혈압과 동반 질환에 따른 치료 시작 요약**
 
-<table><thead><tr><th width="215.4761962890625">구분</th><th width="154">고혈압전단계</th><th width="200.761962890625">1기 고혈압</th><th width="176.7939453125">2기 고혈압</th></tr></thead><tbody><tr><td>동반 위험 인자 0개</td><td><mark style="background-color:blue;">생활 요법</mark></td><td><mark style="color:orange;background-color:yellow;">생활 요법 또는 약물 요법¹⁾</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 1~2개</td><td><mark style="color:orange;background-color:yellow;">생활 요법</mark></td><td><mark style="background-color:$warning;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>동반 위험 인자 ≥3개,<br>DM &#x26; 동반 위험 인자 ≥1개,<br>무증상 장기 손상</td><td><mark style="background-color:$warning;">생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr><tr><td>심뇌혈관질환, 만성콩팥병</td><td><mark style="background-color:$danger;">약물²⁾ &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td><td><mark style="background-color:$danger;">약물 &#x26; 생활 요법</mark></td></tr></tbody></table>
+<table><thead><tr><th>상황</th><th>치료 시작</th></tr></thead><tbody><tr><td>주의혈압·저위험/중위험 고혈압전단계</td><td>생활요법 및 추적</td></tr><tr><td>심혈관질환 동반 고혈압전단계</td><td>SBP ≥130 또는 DBP ≥80 ㎜Hg에서 생활요법과 약물 치료 고려</td></tr><tr><td>당뇨병·CKD·HMOD 동반 고혈압전단계 (기존 심혈관질환 없음)</td><td>3개월 생활요법 후에도 SBP ≥130 또는 DBP ≥80 ㎜Hg이면 약물 치료 고려 가능</td></tr><tr><td>1기 고혈압, 저위험군</td><td>생활요법 우선; 수주~3개월 후에도 미조절이면 약물 치료 고려</td></tr><tr><td>1기 고혈압, 중위험·고위험군</td><td>생활요법과 약물 치료 병행</td></tr><tr><td>2기 고혈압</td><td>생활요법과 약물 치료 즉시 병행; 저용량 2제 병용 우선 고려</td></tr></tbody></table>
 
-※ 10년간 CVD 발생률 기준 : <mark style="background-color:blue;">저위험: ＜5%</mark>, <mark style="color:orange;background-color:yellow;">중저위험: 5\~10%</mark>, <mark style="background-color:$warning;">중위험: 10\~15%</mark>, <mark style="background-color:$danger;">고위험: ≥15%</mark>
+<mark style="color:$info;">\[대한고혈압학회 2026]</mark>
 
-_¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위험 인자가 생기거나, 자주 추적 관리가 어려운 경우 조기 약물 치료 고려. ²⁾ 단백뇨 또는 당뇨병성 신질환이 있는 경우 치료 지연 금지_
+* 단일제 또는 병용 여부는 시작 혈압, 목표와의 차이, HMOD, 노쇠도·기립성 저혈압 및 내약성에 따라 결정; 신장·심장 보호 적응증의 약물은 해당 질환 지침도 함께 적용
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 ### <mark style="color:orange;">생활 요법 및 효과</mark>
 
-<table data-header-hidden><thead><tr><th width="135.857177734375"></th><th width="334.952392578125"></th><th width="126"></th><th width="125"></th></tr></thead><tbody><tr><td><strong>권고 내용</strong></td><td><strong>목표</strong></td><td><strong>SBP 강하 효과 - 고혈압 환자</strong></td><td><strong>SBP 강하 효과 - 정상 혈압자</strong></td></tr><tr><td><strong>체중 감량</strong></td><td>BMI 25; 허리둘레 남 90/여 85 ㎝</td><td>-5¹⁾</td><td>-2/3</td></tr><tr><td><strong>건강 식이</strong><br>(DASH diet)</td><td>권장: 식이섬유, 과일, 야채, 통곡물, 저지방 유제품, 생선; 제한: 포화 지방, 총지방</td><td>-11</td><td>-3</td></tr><tr><td><strong>Na 섭취 제한</strong></td><td>소금 섭취 제한 5 g/d (나트륨 2,000 ㎎)</td><td>-5~6</td><td>-2~3</td></tr><tr><td><strong>K 섭취 권장</strong></td><td>3.5~5 g/d; K 풍부 식이 권장</td><td>-4~5</td><td>-2</td></tr><tr><td><strong>금연/절주</strong></td><td>남 ≤2 SD/d, 여 ≤1 SD/d</td><td>-4</td><td>-3</td></tr><tr><td><strong>유산소 운동</strong></td><td>90~150분/주; 가급적 매일; 심박수 예비율²⁾ 65~75%</td><td>-5~8</td><td>-2~4</td></tr><tr><td><strong>동적 저항 운동</strong></td><td>90~150분/주; 1RM³⁾의 50~80%; 6종목 × 3set × 10회 반복/set</td><td>-4</td><td>-2</td></tr><tr><td><strong>등척성 저항 운동</strong></td><td>4×2분(hand grip), 운동 사이 1분 휴식, 최대 수축력의 30~40%; 3sessions/주, 8~10주</td><td>-5</td><td>-4</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="135.857177734375"></th><th width="334.952392578125"></th><th width="126"></th><th width="125"></th></tr></thead><tbody><tr><td><strong>권고 내용</strong></td><td><strong>목표</strong></td><td><strong>SBP 강하 효과 - 고혈압 환자</strong></td><td><strong>SBP 강하 효과 - 정상 혈압자</strong></td></tr><tr><td><strong>체중 감량</strong></td><td>BMI ＜25; 허리둘레 남 ＜90/여 ＜85 ㎝</td><td>-5¹⁾</td><td>-2/3</td></tr><tr><td><strong>건강 식이</strong><br>(DASH diet)</td><td>권장: 식이섬유, 과일, 야채, 통곡물, 저지방 유제품, 생선; 제한: 포화 지방, 총지방</td><td>-11</td><td>-3</td></tr><tr><td><strong>Na 섭취 제한</strong></td><td>소금 섭취 제한 5 g/d (나트륨 2,000 ㎎)</td><td>-5~6</td><td>-2~3</td></tr><tr><td><strong>K 섭취 권장</strong></td><td>3.5~5 g/d; K 풍부 식이 권장</td><td>-4~5</td><td>-2</td></tr><tr><td><strong>금연/절주</strong></td><td>남 ≤2 SD/d, 여 ≤1 SD/d</td><td>-4</td><td>-3</td></tr><tr><td><strong>유산소 운동</strong></td><td>중강도 ≥150분/주 또는 고강도 ≥75분/주; 가급적 주 5~7일 분산; 강도는 체력·동반 질환에 따라 조정²⁾</td><td>-5~8</td><td>-2~4</td></tr><tr><td><strong>동적 저항 운동</strong></td><td>90~150분/주; 1RM³⁾의 50~80%; 6종목 × 3set × 10회 반복/set</td><td>-4</td><td>-2</td></tr><tr><td><strong>등척성 저항 운동</strong></td><td>4×2분(hand grip), 운동 사이 1분 휴식, 최대 수축력의 30~40%; 3sessions/주, 8~10주</td><td>-5</td><td>-4</td></tr></tbody></table>
 
 　_¹⁾ 체중 1 kg 감량 시 SBP 1 mmHg 감소 효과_\
 　_²⁾ Heart rate reserve = 최대 심박수(220 - 연령) - 휴식 시 심박수_\
 　_³⁾ RM (repetition maximum): 정해진 횟수의 리프트를 할 수 있는 최대 무게_
 
 {% hint style="info" %}
-**칼륨 기반 소금 대체제**(예: KCl 혼합 저나트륨 소금) 사용이 고혈압 관리에 유용. 단, CKD 환자 또는 칼륨 배출을 억제하는 약제(ACEI/ARB/MRA) 복용 환자에서는 제외 \[2025 ACC/AHA]. 사용 시 24시간 요 Na·K 또는 혈청 K 모니터링 고려
+**칼륨 기반 소금 대체제**(예: KCl 혼합 저나트륨 소금) 사용이 고혈압 관리에 유용. 단, CKD 환자 또는 칼륨 배출을 억제하는 약제(ACEI/ARB/MRA) 복용 환자에서는 제외 <mark style="color:$info;">\[2025 ACC/AHA]</mark>. 사용 시 24시간 요 Na·K 또는 혈청 K 모니터링 고려
 {% endhint %}
 
 ### <mark style="color:orange;">운동 요법</mark>
@@ -579,7 +580,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 　☞ [운동 지침](../231_/216_-physical-activity-guideline.md)
 
 * 효과 : 수축기 및 이완기 혈압 감소, 심혈관 질환 발병 위험 감소
-* 유산소운동 : 중강도 150분/주 이상 또는 고강도 75분/주 이상 (걷기, 뛰기, 자전거타기, 수영 등); 주 5\~7일 분산 권고 \[2026 대한고혈압학회]
+* 유산소운동 : 중강도 150분/주 이상 또는 고강도 75분/주 이상 (걷기, 뛰기, 자전거타기, 수영 등); 주 5\~7일 분산 권고 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 * 저항성 운동 병행 : 스쿼트, 팔굽혀펴기, 덤벨 등 근력 운동을 유산소운동과 병행 권고
 * 심장병 등 위험 인자가 있는 경우는 허용 운동 강도에 대한 평가 필요
 
@@ -590,13 +591,13 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 ### <mark style="color:orange;">마음 요법 (Mind-body Therapy)</mark>
 
 {% hint style="info" %}
-스트레스 완화가 혈압 감소에 도움이 된다는 근거에 기반하여 비약물 치료 전략에 마음 요법을 추가 \[대한고혈압학회]
+스트레스 완화가 혈압 감소에 도움이 된다는 근거에 기반하여 비약물 치료 전략에 마음 요법을 추가 <mark style="color:$info;">\[대한고혈압학회]</mark>
 {% endhint %}
 
 * 호흡 훈련 : 완서호흡(slow breathing) 연습; 기기 보조 호흡 훈련 포함
 * 마음챙김(Mindfulness) : 마음챙김 명상(MBSR), 마음챙김 기반 인지치료
 * 명상 : 초월 명상, 집중 명상 등
-* 처방 예 \[2025 ACC/AHA] : 초월 명상 20분 × 2회/일, 기기 보조 호흡 훈련 ＜10회/분 × 15분/일, 요가
+* 처방 예 <mark style="color:$info;">\[2025 ACC/AHA]</mark> : 초월 명상 20분 × 2회/일, 기기 보조 호흡 훈련 ＜10회/분 × 15분/일, 요가
 * 효과 : SBP 평균 약 4\~5 ㎜Hg 감소 (개인차 있음); 불안·스트레스 감소 부가 이점
 * 적용 대상 : 스트레스 요인이 뚜렷한 고혈압 환자, 비약물 치료를 선호하는 환자, 약제 부작용으로 약물 용량 제한이 있는 경우
 
@@ -609,8 +610,8 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 　☞ [영양 지침](../231_/217_-nutritiondiet-guideline.md#dash-diet-the-dietary-approaches-to-stopping-hypertension)
 
 * 권장 : 과일 및 채소(8\~10 serv./d), 저지방 유제품(2\~3 serv./d), 생선(2회/wk)
-* 제한 : 음주(금주 권고; 어려우면 남 ≤2 SD/d, 여 ≤1 SD/d 및 음주량 50% 이상 감소 \[2025 ACC/AHA]), 소금(＜5 g/d, 나트륨으로 ＜2 g; 2022년 기준 6 g/d에서 하향 조정), 단순 당(예: 설탕), 포화지방, 붉은 고기
-  * 카페인 : 일시적으로 혈압을 상승시킬 수 있음; 하루 2잔의 커피는 일반적으로 고혈압의 위험 인자는 아님; 카페인 ＜300 ㎎/d, 중증 비조절 고혈압에서는 커피 1잔/d 이하 \[2025 ACC/AHA]
+* 제한 : 음주(금주 권고; 어려우면 남 ≤2 SD/d, 여 ≤1 SD/d 및 음주량 50% 이상 감소 <mark style="color:$info;">\[2025 ACC/AHA]</mark>), 소금(＜5 g/d, 나트륨으로 ＜2 g; 2022년 기준 6 g/d에서 하향 조정), 단순 당(예: 설탕), 포화지방, 붉은 고기
+  * 카페인 : 일시적으로 혈압을 상승시킬 수 있음; 하루 2잔의 커피는 일반적으로 고혈압의 위험 인자는 아님; 카페인 ＜300 ㎎/d, 중증 비조절 고혈압에서는 커피 1잔/d 이하 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
 
 #### <mark style="color:$primary;">저염 식이</mark>
 
@@ -636,7 +637,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
   * 적극적 생활요법 시행
   * 심혈관질환 동반 시 약물 치료 고려
     * _심혈관질환 : 관상동맥질환, 심부전, 복부대동맥류, 말초혈관질환_
-  * 고위험 환자(CVD, CKD, 당뇨병, HMOD 또는 높은 심혈관 위험) → 생활요법과 약물 치료를 함께 고려
+  * 심혈관질환이 없는 당뇨병·CKD·HMOD 동반 고위험군 → 3개월 생활요법 후에도 SBP ≥130 또는 DBP ≥80 ㎜Hg이면 약물 치료 고려 가능
 * 1기 고혈압 (140\~159/90\~99 ㎜Hg)
   * 저위험군 : 적극적 생활요법 우선, 효과 미흡 시 약물 치료 고려
   * 중위험군 또는 고위험군 : 생활요법 + 약물 치료 즉시 병행
@@ -683,7 +684,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
   * chlorthalidone·indapamide : HCTZ보다 강압 효과가 우수하다고 알려져 있으나, 저나트륨혈증·저칼륨혈증 등 전해질 이상 발생 주의
     * 강압 효과는 chlorthalidone ≥ indapamide ＞ HCTZ 순이라는 인식이 있으나, 실제 임상 결과(심혈관사건 감소) 면에서 우월성이 입증되지 않았고 부작용은 HCTZ보다 많다는 연구 결과가 나오면서 선호 제제를 지정할 근거가 없어짐
 
-<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 [1]</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 [1]</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스]</mark></td><td>1.25~5 [1]</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 [1]</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>hydrochlorothiazide</td><td><mark style="color:blue;">[다이크로짇]</mark></td><td>6.25~50 [1]</td></tr><tr><td>chlorthalidone</td><td><mark style="color:blue;">[하이그로톤]</mark></td><td>12.5~50 [1]</td></tr><tr><td>indapamide</td><td><mark style="color:blue;">[후루덱스서방정]</mark></td><td>서방형 1.5 ㎎ [1]; 속방형 용량과 구분</td></tr><tr><td>metolazone</td><td><mark style="color:blue;">[메토라]</mark></td><td>2.5~10 [1]</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Potassium-sparing agent</mark>
 
@@ -719,13 +720,13 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 효과 : 인슐린 작용 개선, 단백뇨 개선, 신부전 진행 억제, 심부전 환자 사망률 감소
 * 주의/금기 : 임신, 탈수·저혈량, 양측성 신동맥협착 또는 기능하는 단일 신장의 신동맥협착, 고칼륨혈증; 치료 시작 후 Cr/eGFR 및 K의 변화를 확인
   * s-Cr 3.0 ㎎/㎗ 이상이라는 단일 수치만으로 절대 금기로 판단하지 않으며, CKD 중증도와 변화 양상을 고려하여 개별화
-  * 만성 콩팥병 환자에서 투여 전 및 투여 후 1\~2주/3개월/6개월에 칼륨 및 신 기능 검사 시행
-  * 시작 또는 증량 2\~4주 후 K·eGFR 확인; eGFR ＜30%의 일시적 감소는 중단 사유가 아님 (＞30% 감소 또는 고칼륨혈증 시 재평가) \[2025 ACC/AHA]
+  * 투여 전 및 시작·증량 2\~4주 후 Cr/eGFR·K 확인; CKD 중증, 고령, 저혈량 또는 이뇨제·MRA 병용 등 고위험군은 1\~2주 내 조기 확인
+  * 시작·증량 후 4주 이내 s-Cr ＞30% 상승 시 저혈량·NSAID·신동맥협착 등 원인을 재평가; 증상성 저혈압 또는 교정되지 않는 고칼륨혈증 시 감량·중단 고려. 경미하고 안정적인 초기 eGFR 감소만으로 자동 중단하지 않음 <mark style="color:$info;">\[KDIGO 2024]</mark>
   * 당뇨병 환자에서 투여 시 eGFR, s-K 모니터링
   * eGFR ＜30인 환자에서도 신질환의 추가 손상 없이 심혈관 이득을 얻을 수 있다는 보고가 있음
   * ACEI와 ARB의 병용은 피하며, ACEI/ARB와 direct renin inhibitor의 병용도 피함
-* 당뇨병을 동반한 고혈압 환자에서 ACEI 또는 ARB는 eGFR ＜60 또는 알부민뇨 ≥30 ㎎/g로 확인된 CKD가 있는 경우 권고; 경미한 알부민뇨 (＜30 ㎎/g)가 있는 경우에도 당뇨병성 신장 질환의 진행 지연을 위해 고려
-* CKD를 동반한 고혈압 환자에서 eGFR ＜60 with 알부민뇨 ≥30 ㎎/g인 경우 ACEI 또는 ARB 사용을 권고
+* 당뇨병 동반 고혈압에서 UACR ≥30 ㎎/g의 지속적 알부민뇨 또는 eGFR ＜60인 CKD가 있으면 ACEI/ARB 우선 고려; UACR ＜30은 정상~경도 증가(A1)이며 신장 보호만을 위한 별도 우선 적응증으로 간주하지 않음
+* CKD G1\~G4에서 A2(30\~299 ㎎/g) 또는 A3(≥300 ㎎/g) 알부민뇨가 있으면 eGFR이 보존되어도 ACEI/ARB 고려; 당뇨병 및 알부민뇨 등급에 따라 권고 강도가 다름 <mark style="color:$info;">\[KDIGO 2024]</mark>
 
 #### <mark style="color:$primary;">Angiotensin-Converting Enzyme Inhibitor (ACEI) / Angiotensin II Receptor Blocker (ARB)</mark>
 
@@ -736,7 +737,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 **ACEI**
 
-<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>alacepril</td><td><mark style="color:blue;">[세타프릴]</mark></td><td>25~75 [1 or 2]</td></tr><tr><td>captopril</td><td><mark style="color:blue;">[카프릴]</mark></td><td>25~200 [2]</td></tr><tr><td>cilazapril</td><td><mark style="color:blue;">[실라자프릴]</mark></td><td>1.25~5 [1]</td></tr><tr><td>enalapril</td><td><mark style="color:blue;">[레니프릴]</mark></td><td>5~40 [1 or 2]</td></tr><tr><td>fosinopril</td><td><mark style="color:blue;">[포시릴]</mark></td><td>10~40 [1 or 2]</td></tr><tr><td>imidapril</td><td><mark style="color:blue;">[타나트릴]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lisinopril</td><td><mark style="color:blue;">[제스트릴]</mark></td><td>5~40 [1]</td></tr><tr><td>perindopril</td><td><mark style="color:blue;">[아서틸]</mark></td><td>4~8 [1]</td></tr><tr><td>quinapril</td><td><mark style="color:blue;">[아큐프릴]</mark></td><td>5~80 [1 or 2]</td></tr><tr><td>ramipril</td><td><mark style="color:blue;">[트리테이스]</mark></td><td>2.5~20 [1 or 2]</td></tr></tbody></table>
+<table><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>alacepril</td><td><mark style="color:blue;">[세타프릴]</mark></td><td>25~75 [1 or 2]</td></tr><tr><td>captopril</td><td><mark style="color:blue;">[카프릴]</mark></td><td>25~200 [2]</td></tr><tr><td>cilazapril</td><td><mark style="color:blue;">[실라자프릴]</mark></td><td>서방형 1.5 ㎎ [1]; 속방형 용량과 구분</td></tr><tr><td>enalapril</td><td><mark style="color:blue;">[레니프릴]</mark></td><td>5~40 [1 or 2]</td></tr><tr><td>fosinopril</td><td><mark style="color:blue;">[포시릴]</mark></td><td>10~40 [1 or 2]</td></tr><tr><td>imidapril</td><td><mark style="color:blue;">[타나트릴]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lisinopril</td><td><mark style="color:blue;">[제스트릴]</mark></td><td>5~40 [1]</td></tr><tr><td>perindopril</td><td><mark style="color:blue;">[아서틸]</mark></td><td>4~8 [1]</td></tr><tr><td>quinapril</td><td><mark style="color:blue;">[아큐프릴]</mark></td><td>5~80 [1 or 2]</td></tr><tr><td>ramipril</td><td><mark style="color:blue;">[트리테이스]</mark></td><td>2.5~20 [1 or 2]</td></tr></tbody></table>
 
 **ARB**
 
@@ -759,11 +760,11 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * non-DHP계 : 반사성 빈맥이 없고 심박수·방실전도를 억제하여 비후성 심근증이나 일부 빈맥성 부정맥에 사용; 2~3도 방실전도 장애, 심한 서맥, HFrEF에서는 피함
 * 부작용
   * non-DHP계 : 변비, 심장 전도 장애, 서맥성 부정맥
-  * DHP계 : 안면 홍조, 두통, 말초 부종; thiazide 또는 ACEI 병용 시 말초 부종 감소
+  * DHP계 : 안면 홍조, 두통, 말초 부종; 부종은 주로 모세혈관 정수압 변화에 의하며 체액 과다와 구분. 감량·약제 변경 또는 ACEI/ARB 병용 고려; 부종만을 이유로 이뇨제를 추가하지 않음
 
 **DHP 계**
 
-<table data-search="false"><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올메카]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine ER</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>30~90(최대 120) [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 [1]</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="180">성분명</th><th width="130">상품명</th><th>용량/일 [투여횟수]</th></tr></thead><tbody><tr><td>amlodipine</td><td><mark style="color:blue;">[노바스크]</mark></td><td>2.5~10 [1]</td></tr><tr><td>barnidipine</td><td><mark style="color:blue;">[올데카]</mark></td><td>5~15 [1]</td></tr><tr><td>benidipine</td><td><mark style="color:blue;">[코디핀]</mark></td><td>2~8 [1]</td></tr><tr><td>cilnidipine</td><td><mark style="color:blue;">[시나롱]</mark></td><td>5~20 [1]</td></tr><tr><td>efonidipine</td><td><mark style="color:blue;">[핀디]</mark></td><td>20~60 [1]</td></tr><tr><td>felodipine</td><td><mark style="color:blue;">[무노발]</mark></td><td>2.5~10 [1]</td></tr><tr><td>lacidipine</td><td><mark style="color:blue;">[박사르]</mark></td><td>2~4 [1]</td></tr><tr><td>lercanidipine</td><td><mark style="color:blue;">[자니딘]</mark></td><td>5~20 [1]</td></tr><tr><td>manidipine</td><td><mark style="color:blue;">[마디핀]</mark></td><td>5~20 [1]</td></tr><tr><td>nicardipine</td><td><mark style="color:blue;">[페리디핀]</mark></td><td>60~90 [2]</td></tr><tr><td>nifedipine ER</td><td><mark style="color:blue;">[아달라트오로스]</mark></td><td>30~90(최대 120) [1]</td></tr><tr><td>nisoldipine</td><td><mark style="color:blue;">[씨스코]</mark></td><td>10~60 [1]</td></tr></tbody></table>
 
 **non-DHP 계**
 
@@ -781,7 +782,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * ISA(+) 제제(Intrinsic sympathomimetic activity) : 약간의 교감 신경 활성 효과; β-차단제 치료 시 서맥증을 보이는 환자들에게 유용; 심근경색 환자에서는 금기
 
 {% hint style="info" %}
-**\[2025 ACC/AHA]** β-차단제는 강한 적응증이 없으면 1차 약제로 권고하지 않음. 적응증으로 사용할 경우 cardioselective BB 중 bisoprolol, metoprolol succinate, nebivolol 선호. Atenolol은 뇌졸중, LVH, MI 예방 효과가 다른 BB보다 열등하다는 근거가 있어 가급적 피함. 특히 고령자·당뇨병·대사증후군 환자에서는 혈관 확장 효과가 있는 nebivolol 또는 carvedilol이 대사적으로 더 유리함.
+**<mark style="color:$info;">\[2025 ACC/AHA]</mark>** β-차단제는 강한 적응증이 없으면 1차 약제로 권고하지 않음. 적응증으로 사용할 경우 cardioselective BB 중 bisoprolol, metoprolol succinate, nebivolol 선호. Atenolol은 뇌졸중, LVH, MI 예방 효과가 다른 BB보다 열등하다는 근거가 있어 가급적 피함. 특히 고령자·당뇨병·대사증후군 환자에서는 혈관 확장 효과가 있는 nebivolol 또는 carvedilol이 대사적으로 더 유리함.
 {% endhint %}
 
 **Cardioselective**
@@ -820,7 +821,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 * 부작용 : 졸음, 입마름, 반동성 혈압 상승, 기립성 저혈압, 성기능장애, 여러 약물 상호 작용
 * clonidine : 0.1\~0.6 ㎎/d #2 (국내 경구 강압제 상업적 유통 없음; 수입 필요); weekly patch 0.1\~0.3 ㎎/d
 * guanfacine : 1\~3 ㎎ qd
-* methyldopa : 250\~2,000 ㎎ bid
+* methyldopa : 초기 250 ㎎ bid\~tid; 통상 총 500\~2,000 ㎎/d을 2\~4회 분복, 최대 3,000 ㎎/d (국외 용법; 국내 상업적 유통 없음)
 
 ### <mark style="color:orange;">혈관 확장제 (Direct vasodilator)</mark>
 
@@ -837,12 +838,12 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 ### <mark style="color:orange;">안지오텐신수용체-네프릴리신억제제 (ARNI)</mark>
 
 {% hint style="info" %}
-심부전이 동반된 고혈압 환자에서 ACEI 또는 ARB보다 우선 권고; 염분 감수성이 높은 고혈압 환자에서 사용 고려; 난치성(혹은 저항성) 고혈압 환자에서 ACEI/ARB를 ARNI로 변경 고려 가능 \[2026 대한고혈압학회]
+심부전이 동반된 고혈압 환자에서 ACEI 또는 ARB보다 우선 권고; 염분 감수성이 높은 고혈압 환자에서 사용 고려; 난치성(혹은 저항성) 고혈압 환자에서 ACEI/ARB를 ARNI로 변경 고려 가능 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 {% endhint %}
 
 * 성분명 : sacubitril/valsartan <mark style="color:blue;">\[엔트레스토]</mark>
 * Sacubitril : Neprilysin(중성 엔도펩티다제) 억제제
-  * BNP, ANP(나트륨이뇨펩타이드), Bradykinin, Adrenomedullin, Substance P 분해/불활성화 → 이뇨·나트륨 배설↑, 혈관 확장, 심장 섬유화·비대 억제, 교감신경 억제
+  * BNP, ANP(나트륨이뇨펩타이드), Bradykinin, Adrenomedullin, Substance P의 분해/불활성화 억제 → 이뇨·나트륨 배설↑, 혈관 확장, 심장 섬유화·비대 억제, 교감신경 억제
   * Angiotensin II도 분해하므로 단독 사용 시 Angiotensin II가 축적되어 RAS가 오히려 활성화되기 때문에 반드시 ARB와 병용
 * 용법 : 49/51 ㎎ bid로 시작 → 2\~4주 간격으로 증량 → 최대 97/103 ㎎ bid
 * 주의/금기 : ACEI와 병용 금지(최소 36시간 간격), 임신, 혈관부종 병력
@@ -851,12 +852,12 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 ### <mark style="color:orange;">나트륨-포도당 공동수송체 2 억제제 (SGLT2 inhibitor)</mark>
 
 {% hint style="info" %}
-심부전이 동반되었거나, 알부민뇨가 존재하거나, eGFR이 감소한 CKD 동반 고혈압 환자에서 사용 권고; ASCVD이 동반된 당뇨병 환자에서 GLP-1 수용체작용제 또는 SGLT2 억제제를 포함한 치료 권고 \[2026 대한고혈압학회]
+심부전이 동반되었거나, 알부민뇨가 존재하거나, eGFR이 감소한 CKD 동반 고혈압 환자에서 사용 권고; ASCVD이 동반된 당뇨병 환자에서 GLP-1 수용체작용제 또는 SGLT2 억제제를 포함한 치료 권고 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 {% endhint %}
 
 * 부가 강압 효과 : 평균 SBP 3\~5 ㎜Hg 감소
 * empagliflozin <mark style="color:blue;">\[자디앙]</mark>, dapagliflozin <mark style="color:blue;">\[포시가]</mark>, canagliflozin <mark style="color:blue;">\[인보카나]</mark> (☞ [당뇨병](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor))
-* 주의 : 요로 감염, 생식기 진균 감염; eGFR ＜45에서 혈당 강하 효과 감소 (심혈관·신장 보호 효과는 유지); 케톤산증 주의
+* 주의 : 체액 감소·증상성 저혈압(특히 고령·이뇨제 병용 시); 체액 상태·기립혈압을 확인하고 필요 시 이뇨제 조정. 요로 감염, 생식기 진균 감염; eGFR ＜45에서 혈당 강하 효과 감소 (심혈관·신장 보호 효과는 유지); 케톤산증 주의
 
 ## <mark style="color:green;">항고혈압제 선택 Tips</mark>
 
@@ -869,7 +870,7 @@ _¹⁾ 수주\~3개월 간 생활 요법에 효과가 미미하거나 추가 위
 
 #### <mark style="color:$primary;">병용 요법</mark>
 
-1. 단일제 : 표적 장기 손상이 없고 평균 혈압이 목표보다 20/10 ㎜Hg 이내로 높은 경우에 단일제로 시작 → 2\~3개월 후 목표 이하로 조절되지 않으면 증량 또는 약제 추가
+1. 단일제 : 표적 장기 손상이 없고 평균 혈압이 목표보다 20/10 ㎜Hg 이내로 높은 경우에 단일제로 시작 → 2\~4주 후 혈압·내약성을 평가하고 목표 미달 시 증량 또는 약제 추가
 2. 병용 요법 : 2기 고혈압(≥160/100 ㎜Hg)에서는 저용량 2제 요법을 우선 고려하고, 1기 고혈압에서도 HMOD·고위험군 또는 목표보다 크게 높은 혈압에서는 병용을 고려; 가능하면 SPC를 선택
    * 1차 병용 : ACEI/ARB + CCB 또는 T/TL diuretic
    * 저위험 1기 고혈압에서는 단일제로 시작할 수 있으며, 추적 중 목표 미달 시 다른 계열을 추가
@@ -891,9 +892,9 @@ graph LR
 <p align="center"><strong>항고혈압제 병용 요법</strong></p>
 
 _굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_\
-\&#xNAN;_(1) ACEI/ARB+BB :_ 회피 (_혈압 강하 효과 미약)_\
-\&#xNAN;_(2) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
-\&#xNAN;_(3) thiazide+구세대 BB(atenolol 등) : 회피 (인슐린 저항성 증가, 이상지질혈증 발생 위험 증가)_<br>
+_(1) ACEI/ARB+BB :_ 단순 고혈압의 우선 병용 조합은 아니나, HFrEF·관상동맥질환·맥박 조절 등 적응증이 있으면 병용\
+_(2) non-DHP CCB + BB : 회피 (심장 전도 장애)_\
+_(3) thiazide+구세대 BB(atenolol 등) : 회피 (인슐린 저항성 증가, 이상지질혈증 발생 위험 증가)_<br>
 
 ***
 
@@ -926,16 +927,19 @@ _굵은 실선 - 권고; 보통 실선 - 가능, 점선 - 권고 안 함_\
 
 **3제 복합제**
 
-* losartan/amlodipine/HCTZ <mark style="color:blue;">\[아모잘탄 플러스]</mark>
+* losartan/amlodipine/chlorthalidone <mark style="color:blue;">\[아모잘탄 플러스]</mark>
 * olmesartan/amlodipine/HCTZ <mark style="color:blue;">\[세비카 에이치씨티]</mark>
 * telmisartan/amlodipine/chlorthalidone <mark style="color:blue;">\[트루셋]</mark>
 
-<mark style="color:cyan;">**단일제형복합제**</mark><mark style="color:cyan;">(SPC,</mark> <mark style="color:cyan;">Single-Pill Combination)</mark> <mark style="color:cyan;">**분류 체계**</mark> \[대한고혈압학회]
+<mark style="color:cyan;">**단일제형복합제**</mark><mark style="color:cyan;">(SPC,</mark> <mark style="color:cyan;">Single-Pill Combination)</mark> <mark style="color:cyan;">**분류 체계**</mark> <mark style="color:$info;">\[대한고혈압학회]</mark>
 
 * 통상적인 시작 용량을 기준으로 4단계로 분류
 * 임상적 의의 : 초저·저용량 SPC가 부작용 증가 없이 우수한 혈압 조절 효과를 보일 수 있음, 단일제형으로 약물 개수·복용 횟수를 줄여 치료 지속성(adherence) 향상; 저용량 복합제로 치료 시작 고려
 
-<table><thead><tr><th width="140">분류</th><th width="200">특징</th><th>예시</th></tr></thead><tbody><tr><td><strong>초저용량 SPC</strong></td><td>각 성분의 최저 용량 이하 조합</td><td>amlodipine 2.5 ㎎ + olmesartan 10 ㎎ 등</td></tr><tr><td><strong>저용량 SPC</strong></td><td>각 성분의 최저 시작 용량 조합</td><td>amlodipine 5 ㎎ + ARB 저용량 등</td></tr><tr><td><strong>표준용량 SPC</strong></td><td>각 성분의 통상 시작 용량 조합</td><td>amlodipine 5 ㎎ + ARB 표준 용량 등</td></tr><tr><td><strong>고용량 SPC</strong></td><td>각 성분의 최대 또는 고용량 조합</td><td>amlodipine 10 ㎎ + ARB 고용량 등</td></tr></tbody></table>
+<table><thead><tr><th>분류</th><th>정의</th></tr></thead><tbody><tr><td>초저용량 SPC</td><td>포함 약제 절반 이상이 통상 시작 용량의 ⅓ 이하</td></tr><tr><td>저용량 SPC</td><td>포함 약제 절반 이상이 통상 시작 용량의 ½</td></tr><tr><td>표준용량 SPC</td><td>포함 약제 절반 이상이 통상 시작 용량</td></tr><tr><td>고용량 SPC</td><td>포함 약제 절반 이상이 통상 시작 용량의 2배 내지 최대 용량</td></tr></tbody></table>
+
+<mark style="color:$info;">\[대한고혈압학회 2026, 표 17]</mark>
+
 
 ***
 
@@ -961,7 +965,7 @@ class Check0,Check1,Check2,Check3 yellow
 style Resistant fill:#f8a0c0,stroke:#d01f5a
     Action2["복약 순응도 확인<br/>Spironolactone 추가 고려<br/>또는 의뢰"]
 style Action2 fill:#fff3e0,stroke:#e65100
-    FU["최소 연 1회 추적 관찰"]
+    FU["안정 후 3~6개월 추적<br/>위험도·내약성에 따라 개별화"]
 style FU fill:#e8f8e8,stroke:#4caf50
     Start --YES--> T0
 
@@ -987,19 +991,19 @@ style FU fill:#e8f8e8,stroke:#4caf50
 
 <p align="center"><strong>항고혈압제 단계적 치료 알고리듬</strong> <em><mark style="color:$info;">Ref. 2023 ESH Guidelines</mark></em></p>
 
-_¹⁾ BP 120/70\~139/89 ㎜Hg, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
-\&#xNAN;_²⁾ 1\~3개월 후 혈압 평가 (가급적 1개월에 평가)_\
-\&#xNAN;_\*어느 단계에서든 적응증(angina, post-myocardial infarction, systolic heart failure, or heart rate control) 해당 시 BB 추가_
+_¹⁾ 약물 치료 적응증이 있으면서 목표에 가까운 경도 혈압 상승, 중등도 이상의 쇠약, 증상이 있는 기립성 저혈압, ≥85세_\
+_²⁾ 시작·조정 후 2\~4주에 혈압·내약성 평가_\
+_\*어느 단계에서든 적응증(angina, post-myocardial infarction, systolic heart failure, or heart rate control) 해당 시 BB 추가_
 
 #### <mark style="color:$primary;">상황별 약제 선택</mark>
 
 <table><thead><tr><th width="167">상황</th><th width="116">ACEI/ARB</th><th width="106">베타차단제</th><th width="106">칼슘차단제</th><th width="88">이뇨제</th><th>기타</th></tr></thead><tbody><tr><td>심부전 (HFrEF)</td><td>○</td><td>○</td><td></td><td>○</td><td>ARNI 우선*</td></tr><tr><td>좌심실비대</td><td>○</td><td></td><td>○</td><td></td><td></td></tr><tr><td>관상동맥질환</td><td>○</td><td>○</td><td>○</td><td></td><td></td></tr><tr><td>만성콩팥병</td><td>○</td><td></td><td></td><td></td><td>SGLT2i*</td></tr><tr><td>뇌졸중</td><td>○</td><td></td><td>○</td><td>○</td><td></td></tr><tr><td>노인 ISH</td><td>○</td><td></td><td>○</td><td>○</td><td></td></tr><tr><td>심근경색 후</td><td>○</td><td>○</td><td></td><td></td><td></td></tr><tr><td>심방세동 예방/조절</td><td>○ (예방)</td><td>○ (조절)</td><td></td><td></td><td></td></tr><tr><td>당뇨병 + 알부민뇨</td><td>○ (1차)</td><td></td><td>○</td><td>○</td><td>SGLT2i*</td></tr></tbody></table>
 
-_\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알부민뇨) \[2026 대한고혈압학회]_
+_\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알부민뇨) <mark style="color:$info;">\[2026 대한고혈압학회]</mark>_
 
 #### <mark style="color:$primary;">고혈압 약제의 절대적/상대적 금기</mark>
 
-<table><thead><tr><th width="109.5238037109375">약제</th><th width="154.66668701171875">적극적 적응</th><th width="95">적용 가능</th><th width="152.19049072265625">주의</th><th width="140.84454345703125">금기</th></tr></thead><tbody><tr><td>ACEI/ARB</td><td>심부전, CKD</td><td></td><td>양측성 신동맥협착, 고칼륨혈증</td><td>임신, 혈관부종</td></tr><tr><td>베타차단제</td><td>협심증, 심근경색증</td><td>빈맥성 부정맥</td><td>혈당 이상 증가, 말초혈관질환</td><td>천식, 심한 서맥</td></tr><tr><td>칼슘차단제</td><td>노인 고혈압, ISH, 협심증</td><td></td><td>심부전</td><td>서맥(non-DHP)</td></tr><tr><td>이뇨제</td><td>심부전, ISH</td><td></td><td>혈당 이상 증가</td><td>통풍, 저칼륨혈증</td></tr></tbody></table>
+<table><thead><tr><th>계열</th><th>금기·피해야 하는 상황</th><th>주의 / 예외</th></tr></thead><tbody><tr><td>ACEI</td><td>임신, ACEI 관련 혈관부종 병력</td><td>양측 또는 기능성 단일 신장의 신동맥협착·고칼륨혈증·저혈량에서는 피하거나 원인 교정 및 전문 평가</td></tr><tr><td>ARB</td><td>임신, 해당 ARB 관련 혈관부종 병력</td><td>ACEI 혈관부종 병력을 모든 ARB의 절대 금기로 일반화하지 않으며, 필요한 경우 위험 설명 후 신중히 대체; 신동맥협착·고칼륨혈증 주의</td></tr><tr><td>β-차단제</td><td>심한 서맥, 심박동기 없는 2~3도 방실차단, 쇼크·급성 비대상성 심부전; 비선택성 제제는 천식에서 피함</td><td>기관지경련 질환에서 반드시 필요한 경우 β1 선택성 제제의 적응증·제품별 금기 확인; COPD를 일괄 금기로 간주하지 않음</td></tr><tr><td>DHP-CCB</td><td>중증 저혈압·쇼크 등 제품별 금기</td><td>말초 부종; amlodipine 등의 HFrEF 사용을 non-DHP와 동일하게 금기 처리하지 않음</td></tr><tr><td>non-DHP CCB</td><td>HFrEF, 심한 서맥, 심박동기 없는 2~3도 방실차단</td><td>β-차단제와 병용 시 서맥·전도장애·심부전 위험</td></tr><tr><td>T/TL·loop 이뇨제</td><td>심한 체액·전해질 고갈, 무뇨 등 제품별 금기</td><td>통풍·고요산혈증은 대체약·요산 조절 여부를 고려; 저칼륨혈증을 교정하고 Na·K·Cr 추적</td></tr><tr><td>K 보존성 이뇨제·MRA</td><td>고칼륨혈증, 제품별 중증 신장애 금기</td><td>ACEI/ARB 병용 시 K·신 기능 면밀히 추적; 저칼륨혈증을 이 계열 전체의 금기로 쓰지 않음</td></tr></tbody></table>
 
 ### <mark style="color:orange;">고혈압 약제의 대표적 부작용</mark>
 
@@ -1016,7 +1020,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 　☞ [항혈소판제](../231_/214_-anti-thrombotics-anti-coagulants.md#aspirin)
 
 * 고혈압 자체는 aspirin의 적응증이 아님. 심혈관질환이 있는 경우에는 2차 예방 목적으로 사용
-* 1차 예방 : 출혈 위험이 낮은 40~70세의 고위험 고혈압 환자에서 개별적으로 고려할 수 있으나, routine 사용은 권고하지 않음; ≥60세에서는 1차 예방 목적으로 새로 시작하지 않음
+* 1차 예방 : 출혈 위험이 낮은 40~70세의 고위험 고혈압 환자에서 개별적으로 고려할 수 있으나, routine 사용은 권고하지 않음; USPSTF는 ≥60세에서 1차 예방 목적으로 새로 시작하지 않도록 권고 (아래 국내 권고와 구분)
 * 금기 : 높은 위장 출혈 위험 (예: 활동성 소화성 궤양), 출혈성 소인, aspirin 과민
 * 용량 : 100 ㎎ (75\~162 ㎎)
 * aspirin 과민 ASCVD 환자에서 clopidogrel (75 ㎎/d) <mark style="color:blue;">\[플라빅스]</mark> 고려
@@ -1035,7 +1039,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 ### <mark style="color:orange;">항콜레스테롤제</mark>
 
 * 대상 : 중등도 이상 위험도를 가진 고혈압 환자, 심혈관 질환이 있는 고혈압 환자
-*   LDL-C 치료 시작과 목표 수치는 심혈관질환 발생 위험도와 기저 심혈관질환 유무에 따라 결정 \[2026 대한고혈압학회] (이전 기준: CVD가 없는 경우 ＜130, CVD가 있는 경우 ＜70으로 고정)
+*   LDL-C 치료 시작과 목표 수치는 심혈관질환 발생 위험도와 기저 심혈관질환 유무에 따라 결정 <mark style="color:$info;">\[2026 대한고혈압학회]</mark> (이전 기준: CVD가 없는 경우 ＜130, CVD가 있는 경우 ＜70으로 고정)
 
     (☞ 이상지질혈증 [LDL-C 목표](099_-dyslipidemia.md#undefined-11))
 
@@ -1043,15 +1047,15 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 ### <mark style="color:orange;">비만과 고혈압</mark>
 
-* 비만은 고혈압 환자에서 독립적인 핵심 관리 대상임 \[2026 대한고혈압학회]
+* 비만은 고혈압 환자에서 독립적인 핵심 관리 대상임 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 * 체중 감량 우선 : 과체중·비만 고혈압 환자에서 체중 감량을 통한 혈압 강하 권고
   * 체중 5\~10% 감량 시 SBP 5\~20 ㎜Hg 감소 기대; 체중 1 ㎏ 감량마다 SBP \~1 ㎜Hg 감소
   * 목표 BMI ＜25 ㎏/㎡, 허리둘레 남 ＜90 ㎝/여 ＜85 ㎝
 * 약제 선택 : 비만 고혈압에서 'RAS 차단제(ACEI/ARB) + CCB' 조합이 대사적으로 유리
   * β-차단제·thiazide는 인슐린 저항성 악화 가능성 주의
-* \[2025 ACC/AHA] 당뇨병 유무와 관계없이 BMI ≥27 ㎏/㎡에서 GLP-1 RA 등 인크레틴 제제, BMI ≥35 ㎏/㎡에서 비만대사수술 고려 (국내 비만 적응증은 비급여)
+* <mark style="color:$info;">\[2025 ACC/AHA]</mark> 당뇨병 유무와 관계없이 BMI ≥27 ㎏/㎡에서 GLP-1 RA 등 인크레틴 제제, BMI ≥35 ㎏/㎡에서 비만대사수술 고려 (국내 비만 적응증은 비급여)
 
-<mark style="color:cyan;">**당뇨병 동반 비만 고혈압**</mark> \[2026 대한고혈압학회]
+<mark style="color:cyan;">**당뇨병 동반 비만 고혈압**</mark> <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 
 * [GLP-1 수용체작용제](../230_/191_-obesity.md#glp-1-receptor-agonist-glp-1-ra) : 체중 및 혈압 동시 감소 효과; ASCVD 동반 당뇨병에서 권고
 * [SGLT2 억제제](../226_/101_.md#sglt2i-sodium-glucose-cotransporter-2-inhibitor) : 체중 감량(약 2\~4 ㎏) + 혈압 강하(SBP 3\~5 ㎜Hg) + 심장·신장 보호 효과
@@ -1060,7 +1064,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 ### <mark style="color:orange;">고령자</mark>
 
 * 목표 혈압 : 일반적으로 ＜140/90 ㎜Hg를 기본으로 하되, 고위험·CVD·CKD가 있는 ≥65세에서는 SBP ＜130 ㎜Hg를 개별적으로 고려; 노쇠, ≥85세, 여명 제한, 증상성 기립성 저혈압에서는 개별화
-* 무증상 기립성 저혈압은 강압 치료를 보류할 이유가 아니며, 이 경우에도 SBP ＜130 ㎜Hg를 목표로 함; 약제 시작·추가 시 증상성 기립성 저혈압 평가 \[2025 ACC/AHA]
+* 무증상 기립성 저혈압은 강압 치료를 보류할 이유가 아니며, 이 경우에도 SBP ＜130 ㎜Hg를 목표로 함; 약제 시작·추가 시 증상성 기립성 저혈압 평가 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
 * 건강한 ≥65세는 SBP ≥140 ㎜Hg에서 약물 치료를 고려; 노쇠·≥85세·여명 제한·증상성 기립성 저혈압에서는 치료 시작과 목표를 개별화
 * 초고령자나 노쇠한 고령자에 대해서는 추가 연구 필요
 
@@ -1076,7 +1080,7 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 * 젊은 성인 용량의 ½로 시작하여 서서히 증량
 * β-차단제는 일반적인 1차 약제로는 선택하지 않되, 협심증·심근경색 후·HFrEF·빈맥성 부정맥 등 적응증이 있으면 사용
-* 기립 혈압을 주기적으로 측정; 이때 식후 혈압 저하를 피하기 위하여 식사 4시간 후 측정
+* 기립 혈압을 주기적으로 측정; 표준 검사 외에 아침·식후 등 실제 증상 발생 시간에도 추가 측정하고 식사·복약·자세와 증상을 함께 기록
 
 ### <mark style="color:orange;">임신</mark>
 
@@ -1086,18 +1090,18 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 * 약물 치료 대상 : 고혈압이 있는 임신부에서 SBP ≥140 또는 DBP ≥90 시 약물 치료 시작 또는 강화
   * 15분 내 반복 측정에서 SBP ≥160 또는 DBP ≥110 으로 확인된 임산부(중증 고혈압)는 즉각적인 입원 치료 권고
   * 수유기 : 혈압 ≥140/90 ㎜Hg 시 약물 치료 유지 또는 시작
-* 목표 혈압 : ＜140/90 ㎜Hg \[2026 대한고혈압학회]; DBP ＜80 ㎜Hg까지 과도하게 낮추지 않도록 주의
-* 혈압 측정은 임신부에서 정확도가 검증된 혈압계 사용 \[2025 ACC/AHA]
+* 목표 혈압 : ＜140/90 ㎜Hg <mark style="color:$info;">\[2026 대한고혈압학회]</mark>; DBP ＜80 ㎜Hg까지 과도하게 낮추지 않도록 주의
+* 혈압 측정은 임신부에서 정확도가 검증된 혈압계 사용 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
 * 조기에 고혈압 치료 시작, 병용요법보다 단일요법 증량 우선 고려
 * 전자간증 위험이 중등도 이상인 고위험 임신부에서 저용량 아스피린 75\~150 ㎎/d 투여 권고; 임신 12\~16주경 시작하여 분만 전까지(대개 36주경까지) 지속
 
 #### <mark style="color:$primary;">약제 선택</mark>
 
 {% hint style="info" %}
-임신 중 사용 가능한 항고혈압제 순서 및 국내 이용 가능성이 변경됨. 니페디핀 서방형과 암로디핀이 1차 선택제로 공식 추가됨 \[2026 대한고혈압학회]
+임신 중 사용 가능한 항고혈압제 순서 및 국내 이용 가능성이 변경됨. 니페디핀 서방형과 암로디핀이 1차 선택제로 공식 추가됨 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 {% endhint %}
 
-<table><thead><tr><th width="155">약제</th><th width="100">국내 이용성</th><th width="100.142822265625">수유 안전성</th><th>주요 사항</th></tr></thead><tbody><tr><td><strong>nifedipine ER</strong><br><mark style="color:blue;">[아달라트 오로스]</mark></td><td>매우 원활</td><td><p>L2</p><p>Safe</p></td><td>임부금기 2등급(사유 입력 필요); 동물 기형 보고 있으나 임상에서 1차 치료제로 널리 사용; 모유 이행 극미량</td></tr><tr><td><strong>amlodipine</strong><br><mark style="color:blue;">[노바스크]</mark></td><td>매우 원활</td><td><p>L3</p><p>Caution</p></td><td>임부금기 등급이 2등급에서 '주의'로 변경(2026); 니페디핀 부작용 시 효과적 대안; 최근 임신 중 안전성 자료 축적; 반감기가 길지만 부작용 보고 드뭄; 국내 허가사항상 수유부는 여전히 투여 금지</td></tr><tr><td><strong>labetalol</strong><br><mark style="color:blue;">[라베신 주]</mark></td><td>제한적</td><td><p>L2</p><p>Safe</p></td><td>α/β 차단제; 임신성 고혈압 1차 권고 약제; 경구 제형은 국내 시판 안됨 → 한국희귀·필수의약품센터(KOEDC) 신청 필요</td></tr><tr><td><strong>methyldopa</strong></td><td>제한적</td><td>-</td><td>중추성 α2 작용제; 국내 상업적 유통 중단; 긴급도입 의약품으로 KOEDC 신청 시 1~2주 내 도입 가능</td></tr><tr><td><strong>hydralazine</strong></td><td>제한적</td><td>-</td><td>혈관확장제; 경구제 2024년 국내 공급 중단·허가 자진 취하; 주사제도 KOEDC 수입 필요; 응급 시 사용</td></tr></tbody></table>
+<table><thead><tr><th width="155">약제</th><th width="100">국내 이용성</th><th width="100.142822265625">수유 안전성</th><th>주요 사항</th></tr></thead><tbody><tr><td><strong>nifedipine ER</strong><br><mark style="color:blue;">[아달라트 오로스]</mark></td><td>매우 원활</td><td><p>L2</p><p>Safe</p></td><td>임부금기 2등급(사유 입력 필요); 동물 기형 보고 있으나 임상에서 1차 치료제로 널리 사용; 모유 이행 극미량</td></tr><tr><td><strong>amlodipine</strong><br><mark style="color:blue;">[노바스크]</mark></td><td>매우 원활</td><td><p>L3</p><p>Caution</p></td><td>DUR 임부금기 2등급; 허가사항상 임부 신중 투여; 니페디핀 부작용 시 효과적 대안; 최근 임신 중 안전성 자료 축적; 반감기가 길지만 부작용 보고 드뭄; 국내 허가사항상 수유부는 여전히 투여 금지</td></tr><tr><td><strong>labetalol</strong><br><mark style="color:blue;">[라베신 주]</mark></td><td>제한적</td><td><p>L2</p><p>Safe</p></td><td>α/β 차단제; 임신성 고혈압 1차 권고 약제; 경구 제형은 국내 시판 안됨 → 한국희귀·필수의약품센터(KOEDC) 신청 필요</td></tr><tr><td><strong>methyldopa</strong></td><td>제한적</td><td>-</td><td>중추성 α2 작용제; 국내 상업적 유통 중단; 긴급도입 의약품으로 KOEDC 신청 시 1~2주 내 도입 가능</td></tr><tr><td><strong>hydralazine</strong></td><td>제한적</td><td>-</td><td>혈관확장제; 경구제 2024년 국내 공급 중단·허가 자진 취하; 주사제도 KOEDC 수입 필요; 응급 시 사용</td></tr></tbody></table>
 
 <mark style="color:cyan;">**금기**</mark>
 
@@ -1106,18 +1110,18 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 <mark style="color:cyan;">**응급 상황 (중증 고혈압 ≥160/110)**</mark>
 
-* labetalol 정주, 경구 nifedipine 또는 hydralazine 정주 등으로 신속히 혈압을 낮추며, 일반적으로 30\~60분 이내에 SBP ＜160 및 DBP ＜110 ㎜Hg를 목표로 함 \[2025 ACC/AHA]
+* labetalol 정주, 경구 nifedipine 또는 hydralazine 정주 등으로 신속히 혈압을 낮추며, 일반적으로 30\~60분 이내에 SBP ＜160 및 DBP ＜110 ㎜Hg를 목표로 함 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
   * 임신 응급 시 경구 속효성 nifedipine 사용은 일반 성인의 급성 중증 고혈압(설하 투여 비권고)과 구분; 빈맥 시 속효성 nifedipine, 천식·심근질환·심차단·서맥 시 labetalol은 피함
 * Magnesium sulphate : 전자간증·자간증 예방 및 경련 치료
 
-<mark style="color:cyan;">**수유기 약제 선택**</mark> \[2026 대한고혈압학회]
+<mark style="color:cyan;">**수유기 약제 선택**</mark> <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 
 * 우선 권장 : nifedipine ER (L2, 모유 이행 극미량), enalapril (L2, 만삭아 수유 시 안전), amlodipine (L3), labetalol (L2)
 * 주의 : hydrochlorothiazide (L3, 모유량 감소 위험)
 * 비선호 : atenolol은 영아에 대한 축적·서맥 위험 때문에 피하는 것이 바람직하며, ARB는 수유 중 자료가 제한되어 대체 약제가 있으면 우선하지 않음
 
 {% hint style="info" %}
-**국내 공급 현황** \[2026년 기준]: labetalol 경구제·methyldopa·hydralazine 경구제는 국내 상업 유통이 없어 [KOEDC](https://www.kodc.or.kr/index)를 통해 병원 단위로 수입 신청 필요. 현실적으로는 nifedipine ER 또는 amlodipine이 1차 선택 됨
+**국내 공급 현황** <mark style="color:$info;">\[2026년 기준]</mark>: labetalol 경구제·methyldopa·hydralazine 경구제는 국내 상업 유통이 없어 [KOEDC](https://www.kodc.or.kr/index)를 통해 병원 단위로 수입 신청 필요. 현실적으로는 nifedipine ER 또는 amlodipine이 1차 선택 됨
 {% endhint %}
 
 ### <mark style="color:orange;">수술</mark>
@@ -1126,30 +1130,30 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 * 기존의 복용 약물은 지속
 * 심장 외 수술의 경우 ACEI/ARB, 이뇨제 등은 일시 중단을 고려할 수 있음
 * BB이나 중추성 교감 신경 작용제는 갑자기 중단하지 않음 (교감 신경계 과활성, 반동성 혈압 상승, angina 위험)
-* SBP ≥180 또는 DBP ≥110 ㎜Hg이면 주요 정규 수술 연기 고려; β-차단제 미복용자에게 수술 당일 β-차단제를 새로 시작하지 않음 \[2025 ACC/AHA]
+* SBP ≥180 또는 DBP ≥110 ㎜Hg이면 주요 정규 수술 연기 고려; β-차단제 미복용자에게 수술 당일 β-차단제를 새로 시작하지 않음 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
 
 #### <mark style="color:$primary;">수술 후(Postoperative) 고혈압</mark>
 
 * 술후 고혈압은 흔함(입원 환자의 최대 72%까지 보고); 통증·불안·저체온·저산소증·수분 과다·항고혈압제 중단 등이 다인성으로 작용
 * 무증상 술후 고혈압에 대한 as-needed(PRN) 정맥/경구 항고혈압제 투여는 권장되지 않음 - 급성 신손상 위험 증가(VA 코호트, HR 1.23) 및 재원 기간 연장과 관련
 * 자동 혈압계 단회 측정은 SBP ±14\~33 ㎜Hg의 오차가 있을 수 있음 - 통증·방광팽만·체위 등 교란 요인 확인 없이 수치만으로 치료 결정을 내리지 않음
-* 새로운 표적 장기 손상의 증거(뇌증, 급성 신손상, 심근허혈, 대동맥박리 등) 없으면 치료 적응증이 아니며, 증상 발생 시에만 평가·치료
+* 증상 또는 급성 표적 장기 손상 의심 소견(뇌증, AKI, 심근허혈, 대동맥박리 등)이 있으면 즉시 평가·치료; 무증상 수치 상승만으로 PRN 급강압하지 않으며, 반복 측정·유발 요인 교정·기존 약제 재개 및 지속성 고혈압의 장기 치료 계획을 수립
 * ACEI/ARB 등 기존 항고혈압제는 임상적으로 가능한 한 조기에 재개 (재개 지연이 30일 사망률 증가와 연관된 관찰 연구 있음)
-* hydralazine은 반응 예측이 어렵고 작용 지속이 길어 급성 치료의 1차 약제로 권장되지 않음 \[2025 ACC/AHA]
+* hydralazine은 반응 예측이 어렵고 작용 지속이 길어 급성 치료의 1차 약제로 권장되지 않음 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
 
 {% hint style="info" %}
-**입원 중 무증상 고혈압 과다치료의 흔한 원인** \[JAMA Surg 2026]
+**입원 중 무증상 고혈압 과다치료의 흔한 원인** <mark style="color:$info;">\[JAMA Surg 2026]</mark>
 측정 오류(체위·통증·방광팽만 등 미고려) · 일괄 PRN 처방 세트 · 간호 알림에 대한 진찰 없는 원격 처방 · 최신 관리 지침에 대한 숙지 부족
 {% endhint %}
 
 ### <mark style="color:orange;">만성콩팥병</mark>
 
 * 목표 혈압 (☞ [만성콩팥병](../227_/112_-chronic-kidney-disease-ckd.md))
-  * 모든 만성콩팥병 환자 : ＜130/80 ㎜Hg
-  * AOBP(Automated Office Blood Pressure)으로 측정 시 SBP ＜120 ㎜Hg 목표고려
+  * 만성콩팥병 동반 고혈압 : 내약 시 ＜130/80 ㎜Hg; 노쇠·증상성 OH·투석 등은 개별화
+  * 비투석 CKD에서 표준화된 진료실혈압으로 측정하고 내약성이 있으면 SBP ＜120 ㎜Hg 목표 고려
 
 {% hint style="info" %}
-\[KDIGO 2021, 2024 CKD 지침에서 재확인] 표준화된 진료실 혈압(자동 진료실 혈압, AOBP) 측정 시 SBP ＜120 ㎜Hg를 권고. 일반적인 청진법 혈압 측정에는 그대로 적용되지 않으므로 측정 방법 확인 필요
+<mark style="color:$info;">\[KDIGO 2021, 2024 CKD]</mark> 비투석 CKD의 SBP ＜120 ㎜Hg 목표는 표준화된 준비·자세·커프·반복 측정 절차와 내약성을 전제로 함. AOBP는 선호할 수 있는 방법이며 표준 절차를 지킨 청진법도 가능; 비표준화된 일상 진료실 측정치에 그대로 적용하지 않음
 {% endhint %}
 
 #### <mark style="color:$primary;">약제 선택</mark>
@@ -1162,17 +1166,17 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 * non-DHP CCB (diltiazem, verapamil) : 혈압이 조절되지 않거나 s-Cr 상승이 지속되는 경우 고려
 
 {% hint style="info" %}
-\[2026 대한고혈압학회] **CKD 동반 고혈압**
+<mark style="color:$info;">\[2026 대한고혈압학회]</mark> **CKD 동반 고혈압**
 
 • SGLT2 억제제 : CKD 동반 고혈압 환자에서 권고 (심혈관 보호 및 신장 보호 효과 입증; SBP 3\~5 ㎜Hg 강압 효과)\
 • Finerenone - 비스테로이드성 MRA : 당뇨병 + 고혈압 + 알부민뇨 + eGFR ≥25인 CKD 환자에서 권고\
 • Chlorthalidone : eGFR ＜30에서도 혈압 조절 목적으로 고려 가능\
-• 목표 혈압 : 모든 CKD 환자에서 ＜130/80 ㎜Hg; AOBP로는 SBP ＜120 ㎜Hg 고려
+• 목표 혈압 : CKD 동반 고혈압에서 내약 시 ＜130/80 ㎜Hg; 비투석 CKD에서 표준화 진료실혈압 SBP ＜120 ㎜Hg 고려
 {% endhint %}
 
 ### <mark style="color:orange;">관상동맥병</mark>
 
-* ≥130/80 ㎜Hg에서 치료 시작, 목표 혈압 ＜130/80 ㎜Hg \[2026 대한고혈압학회]
+* ≥130/80 ㎜Hg에서 치료 시작, 목표 혈압 ＜130/80 ㎜Hg <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 * 목표 맥박수 60\~80/분 \[ESH]
 * 선택 약제 : ACEI/ARB, BB
   * angina가 있는 CAD 환자의 경우 BB, DHP/non-DHP CCB
@@ -1181,25 +1185,25 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 
 #### <mark style="color:orange;">심부전</mark>
 
-* 목표 혈압 : 고혈압 동반 심부전 또는 심부전 고위험 환자에서 일반적으로 ＜130/80 ㎜Hg를 고려하되, 증상·관류 상태 및 약제 내약성을 고려하여 개별화 \[2026 대한고혈압학회]
+* 목표 혈압 : 고혈압 동반 심부전 또는 심부전 고위험 환자에서 일반적으로 ＜130/80 ㎜Hg를 고려하되, 증상·관류 상태 및 약제 내약성을 고려하여 개별화 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 * 심부전 예방을 위하여 SGLT-2i 고려
 
 <mark style="color:cyan;">**치료**</mark>
 
 * ejection fraction 감소 시(HFrEF) : 사망률·재입원률 감소가 입증된 약제(ARNI/ACEI/ARB, β-차단제, MRA, SGLT2i)를 우선 사용
-  * ARNI(sacubitril/valsartan)는 ACEI/ARB보다 우선 권고 \[2026 대한고혈압학회, I/A]; ARNI 사용 불가 시 ACEI 또는 ARB로 대체
+  * ARNI(sacubitril/valsartan)는 ACEI/ARB보다 우선 권고 <mark style="color:$info;">\[2026 대한고혈압학회, I/A]</mark>; ARNI 사용 불가 시 ACEI 또는 ARB로 대체
   * 1차 병용 : ARNI(또는 ACEI/ARB) + β-차단제 + spironolactone + SGLT2i
   * 위 병용에도 미조절 시 → thiazide계 이뇨제 추가 → 그래도 미조절 시 → DHP-CCB 추가
-* HFpEF \[2025 ACC/AHA] : 체액 과부하에는 이뇨제; β-차단제는 부정맥·ACS 등 특정 적응증 외에는 피함; 당뇨병 유무와 관계없이 SGLT2i 고려(저혈압 모니터링)
+* HFpEF <mark style="color:$info;">\[2025 ACC/AHA]</mark> : 체액 과부하에는 이뇨제; β-차단제는 부정맥·ACS 등 특정 적응증 외에는 피함; 당뇨병 유무와 관계없이 SGLT2i 고려(저혈압 모니터링)
 * 증상이 있는 hypervolemia(폐 &/또는 말초 부종) 시 : 이뇨제
 * non-DHP CCB(verapamil, diltiazem)는 좌심실 수축 기능을 저하시킬 수 있으므로 주의
-* α-차단제는 신경호르몬계 활성화, 수분 저류, 심부전 악화를 유발할 수 있어 사용에 주의 \[2026 대한고혈압학회]
+* α-차단제는 신경호르몬계 활성화, 수분 저류, 심부전 악화를 유발할 수 있어 사용에 주의 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 * 어지럼증 등 증상을 동반한 심부전 환자에서 ＜120/60 ㎜Hg으로 과도하게 저하되는 경우 사망률 증가와 관련될 수 있으므로 주의
 
 #### <mark style="color:orange;">심방세동</mark>
 
-* 목표 혈압 ＜130/80 ㎜Hg, 특히 심부전 동반 시; 생활습관 개선을 통한 혈압 강하는 심방세동 재발 감소에 도움 \[2025 ACC/AHA]
-* 심방세동 동반 고혈압 환자에서는 ARB가 심방세동 재발 감소에 도움이 될 수 있어 사용을 고려 \[2026 대한고혈압학회]
+* 목표 혈압 ＜130/80 ㎜Hg, 특히 심부전 동반 시; 생활습관 개선을 통한 혈압 강하는 심방세동 재발 감소에 도움 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
+* 심방세동 동반 고혈압 환자에서는 ARB가 심방세동 재발 감소에 도움이 될 수 있어 사용을 고려 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 * 항응고제 사용 여부는 혈압 수치만으로 결정하지 않으며, 검증된 혈전색전 위험도(예: CHA₂DS₂-VASc 또는 CHA₂DS₂-VA)와 출혈 위험을 종합하여 결정. 혈압은 출혈 위험을 줄이기 위해 적극적으로 조절
 * β-차단제 : 안정 시 심박수 110회/분 미만 유지가 80회/분 미만 유지에 비해 심혈관 사건 예방에 불리하지 않음; 증상이 있고 교감신경이 활성화된 경우에는 안정 시 심박수를 80회/분 미만으로 관리
 
@@ -1210,24 +1214,24 @@ _\*ARNI(심부전 동반 시 ACEI/ARB보다 우선), SGLT2i(CKD·심부전·알�
 * 뇌졸중·TIA·뇌내출혈 이차 예방 : thiazide계 이뇨제, ACEI 또는 ARB로 ＜130/80 ㎜Hg; 고혈압 병력이 없어도 평균 ≥130/80 ㎜Hg이면 약물 고려
 * 치매·경도인지장애 예방 : SBP ＜130 ㎜Hg 목표
 
-　_\[2025 ACC/AHA]_
+　_<mark style="color:$info;">\[2025 ACC/AHA]</mark>_
 
 ### <mark style="color:orange;">당뇨병</mark>
 
 * 당뇨병 환자의 목표 혈압
-  * \[2026 대한고혈압학회] 모든 당뇨병 환자 - ＜130/80 ㎜Hg; 위험인자 유무와 무관하게 목표 혈압 단일화
-  * \[ADA 2026] 안전하게 달성 가능한 경우 ＜130/80 ㎜Hg; 고심혈관·신장 위험에서는 SBP ＜120 ㎜Hg를 고려할 수 있으며, 개별화 필요
+  * <mark style="color:$info;">\[2026 대한고혈압학회]</mark> 모든 당뇨병 환자 - ＜130/80 ㎜Hg; 위험인자 유무와 무관하게 목표 혈압 단일화
+  * <mark style="color:$info;">\[ADA 2026]</mark> 안전하게 달성 가능한 경우 ＜130/80 ㎜Hg; 고심혈관·신장 위험에서는 SBP ＜120 ㎜Hg를 고려할 수 있으며, 개별화 필요
 
 #### <mark style="color:$primary;">ADA 권고안</mark>
 
 ```mermaid
 flowchart TD
-    Start1["BP >140/90 & <160/100"]
-    Start2["BP ≥160/100"]
+    Start1["확인된 SBP 130-149 또는 DBP 80-89<br/>단, SBP ≥150 또는 DBP ≥90이면 2제 분기"]
+    Start2["확인된 SBP ≥150 또는 DBP ≥90"]
 style Start1 fill:#e8f8e8,stroke:#4caf50
 style Start2 fill:#d5f5e3,stroke:#27ae60
 
-    Start1 --> S1["단일 약제"]
+    Start1 --> S1["생활요법 + 단일 약제"]
     Start2 --> S2["생활습관 개선 + 2제 병용"]    
     S1 --> Check1["알부민뇨 or CAD?¹⁾"]
     Check1 -- NO --> Drugs1["ACEI/ARB, <br/>CCB²⁾, 이뇨제³⁾"]
@@ -1261,12 +1265,12 @@ class S1,S2,Drugs1,Drugs2,Drugs3,Drugs4 sky
 
 <p align="center"><strong>당뇨병 동반 고혈압 치료 알고리듬 (ADA)</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. ADA. Standards of Medical Care in Diabetes 2024. Fig 10.2</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. ADA. Standards of Care in Diabetes 2026. 권고 10.6~10.9 및 Fig 10.2에 따라 재구성; 비임신 성인에 적용</mark></em></p>
 
 _CAD = coronary artery disease_\
-\&#xNAN;_¹⁾ ACEi 또는 ARB : CAD 또는 u-Alb/Cr ratio 30\~299 ㎎/g 동반 환자에서 제안; u-Alb/Cr ratio ≥300 ㎎/g 환자에서 강력히 권고_\
-\&#xNAN;_²⁾ Dihydropyridine calcium channel blocker_\
-\&#xNAN;_³⁾ Thiazide-like diuretic : 장기 작용제 (예: chlorthalidone, indapamide)가 심혈관 질환을 감소시키는 효과가 있어 선호_
+_¹⁾ ACEi 또는 ARB : CAD 또는 u-Alb/Cr ratio 30\~299 ㎎/g 동반 환자에서 제안; u-Alb/Cr ratio ≥300 ㎎/g 환자에서 강력히 권고_\
+_²⁾ Dihydropyridine calcium channel blocker_\
+_³⁾ Thiazide-like diuretic : 장기 작용제 (예: chlorthalidone, indapamide)가 심혈관 질환을 감소시키는 효과가 있어 선호_
 
 ***
 
@@ -1279,12 +1283,12 @@ _CAD = coronary artery disease_\
 ### <mark style="color:orange;">난치성 고혈압 (Difficult-to-control Hypertension)</mark>
 
 {% hint style="info" %}
-기존 '저항성 고혈압' 용어를 포괄하는 '난치성 고혈압' 개념 도입. 이뇨제를 포함한 3제 이상의 항고혈압제를 최대 내약 용량으로 사용하더라도 목표 혈압에 도달하지 못해 전문가의 추가 평가나 치료가 필요한 모든 상황을 포함 \[2026 대한고혈압학회]
+난치성 고혈압은 일반적인 약물 치료에도 조절되지 않아 지속적인 치료 개입이 필요한 포괄적 개념; 임상연구에서는 통상 2제 이상에도 목표 미달인 경우를 포함. 이뇨제 포함 3제 최적 용량에도 미조절인 저항성과 5제 이상에도 미조절인 불응성을 구분 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 
 • 저항성 고혈압 : 3제(이뇨제 포함) 최대 내약 용량에도 목표 혈압 미달\
 • 불응성 고혈압 : 5제 이상에도 목표 혈압 미달\
-• 난치성 고혈압 : 위 두 경우를 모두 아우르는 상위 개념\
-• \[2025 ACC/AHA] 4제 이상으로 목표 혈압에 도달한 경우도 저항성 고혈압(조절된 저항성)에 포함
+• 난치성 고혈압 : 2제 이상에도 미조절인 경우부터 평가를 시작할 수 있는 상위 개념; 4차 약제 추가는 기본 3제·복약·진료실 밖 혈압 확인 후 결정\
+• <mark style="color:$info;">\[2025 ACC/AHA]</mark> 4제 이상으로 목표 혈압에 도달한 경우도 저항성 고혈압(조절된 저항성)에 포함
 {% endhint %}
 
 * 저항성 고혈압 \[ESH 기준] : ACEI/ARB + CCB + Thiazide 3제 최대 내약 용량에도 ≥140/90 ㎜Hg; 고혈압 환자의 \~5%
@@ -1306,49 +1310,49 @@ _CAD = coronary artery disease_\
 * 검사 : 전해질, 혈당, BUN, Cr, U/A; 모든 난치성(혹은 저항성) 고혈압 환자에서 aldosterone-to-renin ratio (ARR) 측정 고려; 기타 이차성 고혈압 감별 검사
 * 의뢰
 
-**난치성**(또는 저항성) **고혈압 단계별 치료 요약** \[2026 대한고혈압학회]
+**난치성**(또는 저항성) **고혈압 단계별 치료 요약** <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 
 1. ACEI/ARB + CCB + T/TL 정규 용량 3제 요법 → 미조절 시 이뇨제 최적화: T/TL 정규 용량 조절 또는 eGFR ＜30 시 loop diuretic으로 변경
-2. → 4차 약제로 Spironolactone 추가 (eGFR ≥45에서 권고 \[2025 ACC/AHA]); 투여 1\~2주 내 혈청 K 확인
+2. → 4차 약제로 Spironolactone 추가 (eGFR ≥45에서 권고 <mark style="color:$info;">\[2025 ACC/AHA]</mark>); 투여 1\~2주 내 혈청 K 확인
 3. → Spironolactone 사용 어려운 경우(여성형유방 등) → Amiloride 추가 고려 또는 대안으로 α-차단제, β-차단제 등 고려
 4. 추가 치료 고려(병행 가능)
    * ACEI/ARB를 ARNI로 변경 고려
    * 알도스테론합성효소억제제(ASI) 추가 고려 - 표준 치료 최적화 후 제한적 사용 권고
    * 콩팥교감신경차단술(renal sympathetic denervation, RDN) 고려 - 초음파·고주파 기반 카테터 시술; 약제 최적화에도 불응하거나 약제 불내성이 있는 환자에서 공유의사결정을 거쳐 선별적으로 고려
-     * \[2025 ACC/AHA] 대상 - 진료실 SBP 140\~180 & DBP ≥90 ㎜Hg, eGFR ≥40; 제외 - 신경성 기립성 저혈압, 임신, FMD, 신동맥 스텐트·동맥류·유의한 협착, 신장 종양 또는 기능성 부신 종양
+     * <mark style="color:$info;">\[2025 ACC/AHA]</mark> 대상 - 진료실 SBP 140\~180 & DBP ≥90 ㎜Hg, eGFR ≥40; 제외 - 신경성 기립성 저혈압, 임신, FMD, 신동맥 스텐트·동맥류·유의한 협착, 신장 종양 또는 기능성 부신 종양
 5. 의뢰
 
 ### <mark style="color:orange;">고혈압성 위기</mark>
 
 {% hint style="info" %}
-기존 '고혈압성 긴박(Hypertensive urgency)' 용어는 개념적 혼란을 방지하기 위해 폐지하고, 급성 장기 손상 유무에 따라 '고혈압성 응급'과 '급성 중증 고혈압'으로 구분함 \[2026 대한고혈압학회]
+기존 '고혈압성 긴박(Hypertensive urgency)' 용어는 개념적 혼란을 방지하기 위해 폐지하고, 급성 장기 손상 유무에 따라 '고혈압성 응급'과 '급성 중증 고혈압'으로 구분함 <mark style="color:$info;">\[2026 대한고혈압학회]</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">고혈압성 응급 (Hypertensive emergency)</mark>
 
-* 심한 고혈압 (≥180/110 ㎜Hg)과 함께 급성 고혈압성 표적장기 손상(HMOD)이 발생한 상태
+* 심한 고혈압 (SBP ≥180 또는 DBP ≥110 ㎜Hg)과 함께 급성 고혈압성 표적장기 손상(HMOD)이 발생한 상태
 * 뇌증, 급성 뇌졸중/뇌내출혈, 급성 심부전·폐부종, ACS, AKI, 급성 대동맥증후군, 자간증/중증 전자간증 등이 해당
 
 <mark style="color:cyan;">**조치**</mark>
 
 * 입원하여 연속적인 혈압 및 표적장기 상태를 모니터링하면서 임상 상황에 맞는 정주용 단시간 작용 약제로 치료
 * 대동맥박리가 없으면 일반적으로 첫 1시간 동안 MAP를 약 20~25% 감소시키는 것을 고려하되, 질환별 목표를 우선 적용
-  * \[2025 ACC/AHA] SBP 기준 첫 1시간 ≤25% 감소 → 2\~6시간 내 ＜160/100 → 24\~48시간 동안 130\~140 ㎜Hg; 대동맥박리는 첫 1시간 내 SBP ＜120
+  * <mark style="color:$info;">\[2025 ACC/AHA]</mark> SBP 기준 첫 1시간 ≤25% 감소 → 2\~6시간 내 ＜160/100 → 24\~48시간 동안 130\~140 ㎜Hg; 대동맥박리는 첫 1시간 내 SBP ＜120
 * 급격한 과도한 강압은 콩팥·뇌·심근의 관류 저하를 초래할 수 있으므로 피함
 
 <mark style="color:cyan;">**임상 양상별 정맥내 강압제 선택**</mark>
 
-<table><thead><tr><th>임상 양상</th><th width="187.619140625">Timeline/Target</th><th width="198.3809815625">주요 정주 약제</th><th width="149.317626953125">핵심 사항</th></tr></thead><tbody><tr><td>악성 고혈압 TMA/AKI</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>장기 관류를 고려하여 점진적 강압</td></tr><tr><td>고혈압성 뇌증</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>과도한 급강압 금지</td></tr><tr><td>급성 뇌경색, 재관류치료 없음</td><td>BP ≥220/120이면 초기 약 15% 감소 고려</td><td>labetalol, nicardipine 등</td><td>＜220/120이면 일반적으로 급성기 강압하지 않음</td></tr><tr><td>급성 뇌경색, IV thrombolysis</td><td>치료 전 ＜185/110; 치료 후 ＜180/105</td><td>labetalol, nicardipine 등</td><td>2026 AHA/ASA</td></tr><tr><td>급성 뇌경색, EVT 후</td><td>SBP ＜140의 집중 강압은 피함</td><td>개별화</td><td>2026 AHA/ASA: 집중 강압은 기능적 예후 악화 가능</td></tr><tr><td>급성 뇌내출혈</td><td>SBP 150~220이면 130~＜140 ㎜Hg로 낮추어 ≥7일 유지; ＜130이면 강압제 보류</td><td>nicardipine, labetalol 등</td><td>변동 최소화하며 부드럽게 조절 (2025 ACC/AHA, 2022 AHA/ASA)</td></tr><tr><td>급성 관상동맥증후군/폐부종</td><td>임상 상황에 따라 신속한 강압</td><td>NTG, nicardipine 등</td><td>허혈·관류 상태를 함께 고려</td></tr><tr><td>급성 대동맥증후군</td><td>SBP ＜120, HR ＜60</td><td>esmolol 또는 labetalol + 혈관확장제</td><td>즉시 치료</td></tr><tr><td>자간증/중증 전자간증/HELLP</td><td>SBP ＜160 및 DBP ＜110</td><td>labetalol, nifedipine 또는 hydralazine + Mg sulphate</td><td>신속한 강압 및 경련 예방</td></tr></tbody></table>
+<table><thead><tr><th>임상 양상</th><th width="187.619140625">Timeline/Target</th><th width="198.3809815625">주요 정주 약제</th><th width="149.317626953125">핵심 사항</th></tr></thead><tbody><tr><td>악성 고혈압 TMA/AKI</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>장기 관류를 고려하여 점진적 강압</td></tr><tr><td>고혈압성 뇌증</td><td>첫 1시간 MAP 약 20~25% 감소</td><td>labetalol, nicardipine</td><td>과도한 급강압 금지</td></tr><tr><td>급성 뇌경색, 재관류치료 없음</td><td>BP ≥220/120이면 초기 약 15% 감소 고려</td><td>labetalol, nicardipine 등</td><td>＜220/120이면 일반적으로 급성기 강압하지 않음</td></tr><tr><td>급성 뇌경색, IV thrombolysis</td><td>치료 전 ＜185/110; 치료 후 ＜180/105</td><td>labetalol, nicardipine 등</td><td>2026 AHA/ASA</td></tr><tr><td>급성 뇌경색, EVT 후</td><td>SBP ＜140의 집중 강압은 피함</td><td>개별화</td><td>2026 AHA/ASA: 집중 강압은 기능적 예후 악화 가능</td></tr><tr><td>급성 뇌내출혈</td><td>SBP 150~220이면 130~＜140 ㎜Hg로 낮추어 ≥7일 유지; ＜130이면 강압제 보류</td><td>nicardipine, labetalol 등</td><td>2025 ACC/AHA 기준; 2022 AHA/ASA의 목표·유지 범위와 구분</td></tr><tr><td>급성 관상동맥증후군/폐부종</td><td>임상 상황에 따라 신속한 강압</td><td>NTG, nicardipine 등</td><td>허혈·관류 상태를 함께 고려</td></tr><tr><td>급성 대동맥증후군</td><td>SBP ＜120, HR ＜60</td><td>esmolol 또는 labetalol + 혈관확장제</td><td>즉시 치료</td></tr><tr><td>자간증/중증 전자간증/HELLP</td><td>SBP ＜160 및 DBP ＜110</td><td>labetalol, nifedipine 또는 hydralazine + Mg sulphate</td><td>신속한 강압 및 경련 예방</td></tr></tbody></table>
 
 _TMA=thrombotic micro-angiopathy, AKI=acute kidney injury, MAP=mean arterial pressure, NTG=Nitroglycerin_
 
 <p align="center"><em><mark style="color:$info;">Ref. 2026 KSH; 2025 AHA/ACC high BP guideline; 2026 AHA/ASA acute ischemic stroke guideline; 2022 AHA/ASA spontaneous ICH guideline.</mark></em></p>
 
-※ 급성 자발성 ICH에서 SBP 150~220 ㎜Hg이면 SBP 130~140 ㎜Hg 미만으로 신속히 낮추어 최소 7일간 유지하고 혈압 변동을 최소화; SBP ＜130 ㎜Hg이면 강압제 투여를 보류 \[2025 ACC/AHA]
+※ 급성 자발성 ICH에서 SBP 150~220 ㎜Hg이면 SBP 130~＜140 ㎜Hg로 낮추어 최소 7일 유지하고 혈압 변동을 최소화; SBP ＜130 ㎜Hg이면 강압제를 보류 <mark style="color:$info;">\[2025 ACC/AHA]</mark>. 2022 AHA/ASA는 경도~중등도 ICH에서 목표 140, 유지 범위 130~150 ㎜Hg를 제시하며 중증·큰 혈종·수술 필요 환자는 개별화
 
 #### <mark style="color:$primary;">급성 중증 고혈압 (Acute Severe Hypertension)</mark>
 
-* 정의 : 혈압이 ≥180/110 ㎜Hg로 급격히 상승하였으나 고혈압에 의한 급성 장기 손상이 명확히 확인되지 않은 경우
+* 정의 : SBP ≥180 또는 DBP ≥110 ㎜Hg로 급격히 상승하였으나 고혈압에 의한 급성 장기 손상이 명확히 확인되지 않은 경우
 
 <mark style="color:cyan;">**조치**</mark>
 
@@ -1362,7 +1366,7 @@ _TMA=thrombotic micro-angiopathy, AKI=acute kidney injury, MAP=mean arterial pre
 
 * 목표 혈압 도달 시까지 2\~4주 간격 방문 (약물 새로 시작하거나 조정 시); 안정 후 3\~6개월 간격 추적 관찰
 * 약물 투여 후 1개월 내 목표 혈압에 도달하지 못하면 증량 또는 다른 계열의 추가 약제 투여
-* 이뇨제·ACEI/ARB·MRA 시작 또는 증량 2\~4주 후 전해질·eGFR 확인; 새로 시작하거나 강화한 경우 조절될 때까지 매월 추적 \[2025 ACC/AHA]
+* 이뇨제·ACEI/ARB·MRA 시작 또는 증량 2\~4주 후 전해질·eGFR 확인; 새로 시작하거나 강화한 경우 조절될 때까지 매월 추적 <mark style="color:$info;">\[2025 ACC/AHA]</mark>
 * 안정 후 전해질과 콩팥 기능 검사는 연 1\~2회 시행 고려
 
 ***
@@ -1475,7 +1479,7 @@ flowchart LR
 
 <table><thead><tr><th width="208.5714111328125">임상 상황</th><th width="240">우선 선택 약제</th><th>목표 혈압 / 비고</th></tr></thead><tbody><tr><td>DM + 알부민뇨</td><td>ACEI 또는 ARB</td><td>&#x3C;130/80; SGLT2i 병용 권고</td></tr><tr><td>만성콩팥병 (CKD)</td><td>ACEI/ARB + SGLT2i</td><td>&#x3C;130/80; chlorthalidone은 eGFR&#x3C;30에서도 선택적 고려</td></tr><tr><td>심부전 (HFrEF)</td><td>ARNI 우선 → ACEI/ARB 대체</td><td>&#x3C;130/80; BB + MRA + SGLT2i 병용</td></tr><tr><td>관상동맥질환</td><td>β-차단제 + ACEI/ARB</td><td>&#x3C;130/80</td></tr><tr><td>심방세동</td><td>β-차단제 (맥박 조절)</td><td>항응고 여부는 혈전색전 위험도와 출혈 위험으로 결정</td></tr><tr><td>뇌졸중</td><td>ACEI/ARB + CCB 또는 이뇨제</td><td>대부분 SBP &#x3C;130; 급성기 및 두개내혈관협착은 개별화</td></tr><tr><td>난치성(혹은 저항성) 고혈압</td><td>3제 기반 + Spironolactone</td><td>가성 저항성·이차성 원인 배제 후 추가; 필요 시 신장신경차단술 고려</td></tr><tr><td>Spironolactone 불내성</td><td>Amiloride</td><td>대안으로 고려</td></tr><tr><td>비만 고혈압</td><td>체중 감량 + RAS 차단제 + CCB</td><td>당뇨병 동반 시 GLP-1RA 또는 SGLT2i 고려</td></tr><tr><td>염분 감수성 고혈압</td><td>ARNI 고려</td><td>선별된 환자에서 고려</td></tr><tr><td>임신 고혈압</td><td>Nifedipine ER / Amlodipine (1차 고려)</td><td>&#x3C;140/90; ACEI·ARB·MRA 금기</td></tr><tr><td>고령 고혈압 (≥65세)</td><td>CCB 또는 이뇨제 또는 RAS 차단제</td><td>목표는 위험도·노쇠도·기립성 저혈압을 고려하여 개별화</td></tr></tbody></table>
 
-_\[2026 대한고혈압학회] SGLT2i - 심부전·CKD·DM 동반 시; ARNI - 심부전 동반 시 ACEI/ARB보다 우선_
+_<mark style="color:$info;">\[2026 대한고혈압학회]</mark> SGLT2i - 심부전·CKD·DM 동반 시; ARNI - 심부전 동반 시 ACEI/ARB보다 우선_
 
 ***
 
@@ -1521,7 +1525,7 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 >       valsartan/amlodipine/HCTZ 복합제로 교체 고려
 > ```
 >
-> _✽단일 제형 복합제 선택으로 순응도 향상. 말초 부종 발생 시 HCTZ 또는 thiazide-like 추가 시 감소 효과 있음._
+> _✽단일 제형 복합제 선택으로 순응도 향상. 말초 부종은 체액 과다와 구분하여 CCB 감량·변경을 고려하고, 부종만을 이유로 이뇨제를 추가하지 않음._
 
 > **처방례 4. 2기 고혈압, 3제 병용요법 (조절 불량)**
 >
@@ -1543,10 +1547,10 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 > **처방례 6. 고령자 (75세) 수축기 단독 고혈압**
 >
 > ```
-> indapamide 1.25 mg  1T  qd (아침)
+> 후루덱스서방정 1.5 mg  1T  qd (아침)
 > ```
 >
-> _✽고령자 저용량으로 시작, 기립성 저혈압 모니터링. DBP ＜70 ㎜Hg 시 용량 감소 또는 중단 고려._
+> _✽고령자 저용량으로 시작, 기립성 저혈압 모니터링. DBP가 낮으면 증상·기립혈압·관상동맥질환·관류 상태를 함께 평가하여 조정; DBP ＜70만으로 자동 감량·중단하지 않음. 서방정은 쪼개지 않고 복용._
 
 ***
 
@@ -1561,6 +1565,7 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 * **성기능** : 이뇨제·β-차단제(nebivolol 제외)는 성기능 저하와 관련될 수 있으므로 불편하면 임의 중단하지 말고 상의; ARB가 가장 유리
 * **가정 혈압 모니터링** : 아침(기상 후 1시간 이내, 혈압약 복용 전)과 저녁(취침 1시간 전)에 측정하여 기록; 측정 전 5분 이상 안정 필요
 * **생활 습관** : 저염식 (1일 소금 **5 g 이하**, 나트륨 2,000 ㎎ 이하), 음주 줄이기/가능하면 금주, 금연(전자담배 포함), 규칙적 운동 병행이 약물 효과를 높임
+* **기립성 저혈압 동반 시** : 소금·물을 임의로 늘리거나 혈압약을 중단하지 말고, 누운 혈압·선 혈압과 증상을 함께 기록하여 상담
 
 ***
 
@@ -1605,5 +1610,49 @@ R03.0 고혈압의 진단 없이 혈압수치 상승
 * 혈압이 정상으로 느껴져도 처방된 약은 매일 빠짐없이 복용하세요
 * 의사와 상의 없이 임의로 감량·중단하지 마세요
 * 새로운 약(소염진통제, 한약, 건강기능식품 포함)을 시작하기 전에 반드시 의사에게 알려주세요
+* 일어설 때 어지럽다면 식사·복약 시간과 혈압을 기록해 상담하세요. 누웠을 때 고혈압이 동반될 수 있으므로 소금·물 섭취나 약 용량을 임의로 바꾸지 마세요
 
 고혈압 관리는 단기간에 끝나는 치료가 아닙니다. 가정 혈압 기록을 외래에 가져오면 약 조절과 합병증 예방에 큰 도움이 됩니다.
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* 대한고혈압학회. 고혈압 진료지침 2026. 제6판 수정본. - 국내 진단·목표 혈압·치료 시작, SPC 분류, 난치성 고혈압 및 임신 관리
+  * https://www.koreanhypertension.org/reference/guide?idno=10446&mode=read
+* Lee EM, et al. Highlights of the 2026 Korean Society of Hypertension guidelines for the management of hypertension: what's new and what has changed. Clin Hypertens. 2026;32:e31.
+  * https://doi.org/10.5646/ch.2026.32.e31
+* AHA/ACC et al. 2025 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. - PREVENT, 약물 치료 및 급성 ICH 혈압 관리
+  * https://doi.org/10.1161/CIR.0000000000001356
+* McEvoy JW, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. Eur Heart J. 2024;45:3912–4018.
+  * https://doi.org/10.1093/eurheartj/ehae178
+* Mancia G, et al. 2023 ESH Guidelines for the management of arterial hypertension. J Hypertens. 2023;41:1874–2071.
+  * https://doi.org/10.1097/HJH.0000000000003480
+* American Diabetes Association. Cardiovascular Disease and Risk Management: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S216–S245.
+  * https://doi.org/10.2337/dc26-s010
+* KDIGO. 2021 Clinical Practice Guideline for the Management of Blood Pressure in CKD; 2024 Clinical Practice Guideline for the Evaluation and Management of CKD. - 표준화 혈압, RAS 차단제 및 신장 보호 약물
+  * https://kdigo.org/guidelines/blood-pressure-in-ckd/
+  * https://kdigo.org/guidelines/ckd-evaluation-and-management/
+* Endocrine Society. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. 2025. - ARR 선별, 간섭 약물, 확진·편측성 평가
+  * https://www.endocrine.org/clinical-practice-guidelines/primary-aldosteronism-2
+* Juraschek SP, et al. Orthostatic Hypotension in Adults With Hypertension: A Scientific Statement From the AHA. Hypertension. 2024;81:e16–e30.
+  * https://doi.org/10.1161/HYP.0000000000000236
+* AHA/ASA. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage; 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke. - 급성 뇌졸중 유형별 혈압 관리
+  * https://doi.org/10.1161/STR.0000000000000407
+  * https://doi.org/10.1161/STR.0000000000000513
+* USPSTF. Aspirin Use to Prevent Cardiovascular Disease: Preventive Medication. 2022. - 국내 권고와 연령 기준의 차이를 구분
+  * https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/aspirin-to-prevent-cardiovascular-disease-preventive-medication
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태
+  * https://nedrug.mfds.go.kr/index
+* 건강보험심사평가원. 약제 급여기준 및 DUR 정보. - 고혈압약제 급여, 임부금기 및 용량·제형 관련 사항
+  * https://www.hira.or.kr
+* 한국희귀·필수의약품센터. - 국내 미유통 경구 labetalol·methyldopa 및 hydralazine 등 공급 경로
+  * https://www.kodc.or.kr/index
+* US FDA / DailyMed. BAXFENDY (baxdrostat) prescribing information, 2026. - 미국 승인 적응증·용법·전해질 모니터링; 국내 처방과 구분
+  * https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1fc1ee7-facc-4099-b3db-a4c1daeaa4be
