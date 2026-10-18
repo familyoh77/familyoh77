@@ -5,7 +5,7 @@
 * 구강건조증(xerostomia)은 입이 마르다고 느끼는 주관적 증상이며, 타액분비저하(hyposalivation)는 타액 분비량이 객관적으로 감소한 상태임
 * 침의 기능 : 구강 점막 보호, 소화 효소(amylase, lipase) 함유, 항균 작용(lactoferrin, lysozyme, sIgA(분비형 면역글로불린 A), lactoperoxidase), 완충 작용, 발음 보조
 * 유병률 : 성인의 약 10\~46%; 노인 및 다약제 복용자에서 높음
-  * 메타분석에서 고령자 구강건조(xerostomia)의 통합 유병률은 약 21%, 객관적 타액분비저하는 약 12\~13%였으나 연구 간 이질성이 큼. 전체 성인 유병률과 구분하여 해석 <mark style="color:$info;">\[Gerodontology 2026]</mark>
+  * 50세 이상 성인을 대상으로 한 연구들의 메타분석에서 주관적 구강 건조의 통합 유병률은 약 21%였으며, 타액분비저하는 비자극 전타액 기준 약 12%, 자극 전타액 기준 약 13%였음. 연구 간 이질성이 커 해석에 주의함 <mark style="color:$info;">\[Gerodontology 2026]</mark>
 * 합병증 : 삼킴곤란, 수면 장애, 구취, 충치(특히 치경부 우식증), 치주 질환, 구강 칸디다증, 미각 장애, 영양 섭취 저하
 * 두 핵심 개념 : xerostomia (입마름 호소) / hyposalivation (타액 분비 감소) - 증상이 있어도 분비량은 정상일 수 있고, 분비량이 줄어도 증상이 없을 수 있음
   * Xerostomia & 정상 분비량 → 구강 호흡, 타액 성상 변화, 약물, 불안, burning mouth syndrome 등 평가
@@ -68,29 +68,29 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 호흡곤란·협착음·침흘림·급성 음성 변화 또는 경부·구강저의 빠른 종창 `심경부 감염` `Ludwig angina` `상기도 폐쇄`
-* 침도 삼키지 못하는 연하곤란 또는 반복 흡인 `상기도 폐쇄` `심경부 감염`
+* 호흡곤란·협착음·침흘림·급성 음성 변화 또는 경부·구강저의 빠른 종창  `심경부 감염` `Ludwig angina` `상기도 폐쇄`
+* 침도 삼키지 못하는 연하곤란 또는 반복 흡인  `상기도 폐쇄` `심경부 감염`
 * 기립성 어지럼·핍뇨·의식 변화를 동반한 탈수
-* 심한 다음·다뇨와 함께 구토·복통·의식 변화 `고혈당 위기`
-* 침샘 부위 종창과 함께 고열·저혈압·의식 변화 또는 빠르게 번지는 발적 `패혈증` `농양` `괴사성 근막염`
+* 심한 다음·다뇨와 함께 구토·복통·의식 변화  `고혈당 위기`
+* 침샘 부위 종창과 함께 고열·저혈압·의식 변화 또는 빠르게 번지는 발적  `패혈증` `농양` `괴사성 근막염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 급성 통증성 침샘 종창 + 발열·도관 개구부 농성 배액·주변 발적 (면역 저하자 또는 전신 증상 동반 시 당일) `급성 세균성 침샘염`
-* 단단하거나 고정된 무통성 침샘 종괴, 빠르게 커지는 종괴, 안면신경 마비·감각 이상 동반 `침샘 종양`
-* 편측 침샘 종창의 지속 또는 반복 `침샘 결석` `침샘관 협착` `만성 침샘염` `침샘 종양`
-* Sjögren disease 환자의 지속성 이하선 종대, 원인 불명 발열·체중 감소 또는 자반 `림프종`
-* 광범위 구강 점막 병변·백태와 함께 심한 연하통, 경구 섭취 저하 또는 발열 `중증 구강 칸디다증` `식도 칸디다증`
-* ICI 투여 중·후 새로 발생한 심한 구강 건조 또는 침샘 종창 `ICI 연관 건조증후군`
-* 새로 생긴 다음·다뇨·체중 감소를 동반한 구강 건조 `조절되지 않는 당뇨병` `고칼슘혈증`
+* 급성 통증성 침샘 종창 + 발열·도관 개구부 농성 배액·주변 발적  `급성 세균성 침샘염`
+* 단단하거나 고정된 무통성 침샘 종괴, 빠르게 커지는 종괴, 안면신경 마비·감각 이상 동반  `침샘 종양`
+* 편측 침샘 종창의 지속 또는 반복  `침샘 결석` `침샘관 협착` `만성 침샘염` `침샘 종양`
+* Sjögren disease 환자의 지속성 이하선 종대, 원인 불명 발열·체중 감소 또는 자반  `림프종`
+* 광범위 구강 점막 병변·백태와 함께 심한 연하통, 경구 섭취 저하 또는 발열  `중증 구강 칸디다증` `식도 칸디다증`
+* ICI 투여 중·후 새로 발생한 심한 구강 건조 또는 침샘 종창  `ICI 연관 건조증후군`
+* 새로 생긴 다음·다뇨·체중 감소를 동반한 구강 건조  `조절되지 않는 당뇨병` `고칼슘혈증`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 비-약물 치료 4\~6주 후 또는 원인 약물 조정 후에도 지속되는 건조증 `Sjögren disease` `분비량 정상 구강건조`
-* 구강 건조 + 안구 건조 + 관절통·피로감·반복 침샘 종창 `Sjögren disease`
-* 반복되는 충치·치주 질환 악화 `타액분비저하 합병증`
-* 당뇨 조절 불량과 동반된 구강 건조 지속 `조절 불량 당뇨병`
-* 작열감·미각 변화가 주증상이고 구강 소견·분비량이 정상 `구강작열감증후군`
+* 비-약물 치료 4\~6주 후 또는 원인 약물 조정 후에도 지속되는 건조증  `Sjögren disease` `분비량 정상 구강 건조`
+* 구강 건조 + 안구 건조 + 관절통·피로감·반복 침샘 종창  `Sjögren disease`
+* 반복되는 충치·치주 질환 악화  `타액분비저하 합병증`
+* 당뇨 조절 불량과 동반된 구강 건조 지속  `조절 불량 당뇨병`
+* 작열감·미각 변화가 주증상이고 구강 소견·분비량이 정상  `구강작열감증후군`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -99,7 +99,7 @@
 
 #### <mark style="color:$primary;">문진</mark>
 
-* **구강건조 선별 질문 (Fox 4문항)** : 다음 질문 중 하나 이상이 양성이면 약물력·구강검진 및 필요시 타액 분비량을 추가 평가함. 문진만으로 타액 분비 저하를 확진하지 않음
+* **구강 건조 선별 질문 (Fox 4문항)** : 다음 질문 중 하나 이상이 양성이면 약물력·구강검진 및 필요시 타액 분비량을 추가 평가함. 문진만으로 타액분비저하를 확진하지 않음
   1. 식사할 때 입이 마르다고 느끼십니까?
   2. 음식을 삼키기 어렵습니까?
   3. 마른 음식을 삼킬 때 물을 마셔야 합니까?
@@ -112,9 +112,10 @@
 * Bedside signs of hyposalivation
   * 거울 점착 징후 (mirror sticking sign) : 구강 점막에 치경 거울을 대었을 때 달라붙음
   * 구순 건조 징후 (lipstick sign) : 윗 앞니에 립스틱이 묻어남 (여성 환자)
-* Clinical Oral Dryness Score (CODS, Challacombe scale) : 다음10개 소견을 각 1점으로 합산
-  * ① 치경(구강 거울 또는 설압자)이 협점막에 붙음, ② 치경이 혀에 붙음, ③ 거품 같은 침, ④ 구강저 침 고임 없음, ⑤ 혀 유두 위축, ⑥ 잇몸 표면 매끈함, ⑦ 점막이 건조·위축되어 유리처럼 번들거림(특히 구개), ⑧ 혀의 분엽·균열, ⑨ 2개 초과 치아에서 활동성 치경부 우식 또는 최근 6개월 이내 수복한 치경부 우식, ⑩ 구개에 음식 찌꺼기·점액 등 debris가 들러붙어 있음(틀니로 덮였던 부위는 제외)
+* Clinical Oral Dryness Score (CODS, Challacombe scale) : 다음 10개 소견을 각 1점으로 합산
+  * ① 치경(구강 거울)이 협점막에 붙음, ② 치경이 혀에 붙음, ③ 거품 같은 침, ④ 구강저 침 고임 없음, ⑤ 혀 유두 위축, ⑥ 잇몸 표면 매끈함, ⑦ 점막이 건조·위축되어 유리처럼 번들거림(특히 구개), ⑧ 혀의 분엽·균열, ⑨ 2개 초과 치아에서 활동성 치경부 우식 또는 최근 6개월 이내 수복한 치경부 우식, ⑩ 구개에 음식 찌꺼기·점액 등 debris가 들러붙어 있음(틀니로 덮였던 부위는 제외)
   * 1\~3점 경증 / 4\~6점 중등도 / 7\~10점 중증 - 중증이면 Sjögren disease 등 원인 평가 및 의뢰
+  * 치경이 없으면 설압자로 같은 소견을 관찰할 수 있으나, CODS의 정식 채점은 치경 기준임
   * CODS는 임상적 건조 소견을 평가하는 도구이며 타액 분비량 자체를 측정하지 않음. 분비량 확인이 필요하면 sialometry를 시행하고, 점수가 낮아도 임상 단서가 있으면 원인 평가를 진행 <mark style="color:$info;">\[Odontology 2018]</mark>
 * 이하선·악하선 촉진 - 종창, 압통, 종괴 여부
 * 치아 : 치경부 우식증, 다발성 우식증
@@ -152,7 +153,7 @@
 
 * 원인 범주와 잔여 침샘 기능에 따라 치료 방향을 결정
 
-<table data-search="false"><thead><tr><th width="133">원인 범주</th><th>주요 단서</th><th>핵심 평가</th><th>우선 조치</th></tr></thead><tbody><tr><td>약물 유발</td><td>다약제 복용; 신규 약물 투여 후 증상 시작; 항콜린 부담↑</td><td>처방·OTC 약물 검토</td><td>가능하면 원인 약물 교체·감량; 전체 약물 최적화</td></tr><tr><td>자가면역 (Sjögren)</td><td>안구 건조 + 관절통 + 피로감; 반복 이하선 종창</td><td>anti-SSA, ANA 등 선택 검사</td><td>류마티스내과 의뢰; 잔여 침샘 기능이 있으면 pilocarpine 고려</td></tr><tr><td>치료 관련</td><td>두경부 방사선 치료력; 조혈모세포이식(GVHD); ICI 투여 후 급성 발생</td><td>치료력 확인; 잔여 침샘 기능</td><td>원 치료과 협진; 불소 전략 즉시 시작; 잔여 기능이 있으면 pilocarpine(방사선 후)</td></tr><tr><td>대사·전신</td><td>다음·다뇨 (당뇨); 탈수; CKD</td><td>혈당/HbA1c; 신기능·전해질</td><td>기저 질환·체액 상태 교정</td></tr><tr><td>폐쇄·구조</td><td>식사 중 통증·종창 (결석); 편측 지속 종창 (종양 등)</td><td>타액선 초음파 ± CT/MRI</td><td>영상 검사; 이비인후과·구강악안면외과 의뢰</td></tr><tr><td>분비량 정상인 구강건조</td><td>구강 소견·분비량 정상</td><td>구강 호흡, 약물, 타액 성상, 점막질환·burning mouth 재평가</td><td>원인별 치료; 필요시 구강내과·정신건강 평가</td></tr><tr><td>환경·구강 호흡</td><td>코막힘·코골이; 건조 환경; OSA 의심</td><td>비강 검진; 수면 평가</td><td>비강 호흡 교정; 가습 및 CPAP 최적화</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="133">원인 범주</th><th>주요 단서</th><th>핵심 평가</th><th>우선 조치</th></tr></thead><tbody><tr><td>약물 유발</td><td>다약제 복용; 신규 약물 투여 후 증상 시작; 항콜린 부담↑</td><td>처방·OTC 약물 검토</td><td>가능하면 원인 약물 교체·감량; 전체 약물 최적화</td></tr><tr><td>자가면역 (Sjögren)</td><td>안구 건조 + 관절통 + 피로감; 반복 이하선 종창</td><td>anti-SSA, ANA 등 선택 검사</td><td>류마티스내과 의뢰; 잔여 침샘 기능이 있으면 pilocarpine 고려</td></tr><tr><td>치료 관련</td><td>두경부 방사선 치료력; 조혈모세포이식(GVHD); ICI 투여 후 급성 발생</td><td>치료력 확인; 잔여 침샘 기능</td><td>원 치료과 협진; 불소 전략 즉시 시작; 잔여 기능이 있으면 pilocarpine(방사선 후)</td></tr><tr><td>대사·전신</td><td>다음·다뇨 (당뇨); 탈수; CKD</td><td>혈당/HbA1c; 신기능·전해질</td><td>기저 질환·체액 상태 교정</td></tr><tr><td>폐쇄·구조</td><td>식사 중 통증·종창 (결석); 편측 지속 종창 (종양 등)</td><td>타액선 초음파 ± CT/MRI</td><td>영상 검사; 이비인후과·구강악안면외과 의뢰</td></tr><tr><td>분비량 정상인 구강 건조</td><td>구강 소견·분비량 정상</td><td>구강 호흡, 약물, 타액 성상, 점막질환·burning mouth 재평가</td><td>원인별 치료; 필요시 구강내과·정신건강 평가</td></tr><tr><td>환경·구강 호흡</td><td>코막힘·코골이; 건조 환경; OSA 의심</td><td>비강 검진; 수면 평가</td><td>비강 호흡 교정; 가습 및 CPAP 최적화</td></tr></tbody></table>
 
 ***
 
@@ -164,10 +165,10 @@ graph TD
     D --> E["약물 유발?"]
     E -- 예 --> F["원인 약물 교체<br/>·감량 + 항콜린 <br/>부담 재검토"]
     E -- 아니오 --> G["원인 범주?"]
-    G -- "Sjögren<br/>·자가면역" --> H["anti-SSA, <br/>ANA 등<br/>류마티스과 협진"]
+    G -- "Sjögren<br/>·자가면역" --> H["anti-SSA, <br/>ANA 등<br/>류마티스내과 협진"]
     G -- "두경부 방사선<br/>·GVHD·ICI" --> S["원 치료과 협진<br/>불소 전략 <br/>즉시 시작"]
     G -- "당뇨·CKD<br/>·탈수" --> I["혈당/HbA1c<br/>·신기능<br/>기저 질환 조절"]
-    G -- "OSA<br/>·구강호흡" --> P["수면 평가<br/>비강호흡교정"]
+    G -- "OSA<br/>·구강호흡" --> P["수면 평가<br/>비강 호흡 교정"]
     G -- "뚜렷한 <br/>원인 없음" --> J
     F --> J["비-약물 치료 + 인공 침<br/>+ 불소 전략"]
     H --> J
@@ -195,13 +196,13 @@ graph TD
 
 ```
 
-> _심한 건조 소견·다발성 우식증·Sjögren disease 의심 단서가 있으면 4\~6주 경과를 기다리지 않고 처음부터 객관적 평가와 치과 관리를 병행함. CODS는 분비량 측정을 대체하지 않음._
->
-> _약물 유발성 등 허가 적응증 이외의 원인에서는 pilocarpine을 routine으로 추가하지 않으며, 잔여 침샘 기능이 부족한 경우 인공 침·구강 습윤과 원인별 전문 진료를 중심으로 관리함._
-
 <p align="center"><strong>구강건조증 진단 및 치료 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Price EJ et al., Rheumatology 2025; Mercadante V et al., J Clin Oncol 2021; Hong C et al., Support Care Cancer 2024)</mark></em></p>
+
+> 심한 건조 소견·다발성 우식증·Sjögren disease 의심 단서가 있으면 4\~6주 경과를 기다리지 않고 처음부터 객관적 평가와 치과 관리를 병행함. CODS는 분비량 측정을 대체하지 않음.
+>
+> 약물 유발성 등 허가 적응증 이외의 원인에서는 pilocarpine을 routine으로 추가하지 않으며, 잔여 침샘 기능이 부족한 경우 인공 침·구강 습윤과 원인별 전문 진료를 중심으로 관리함.
 
 ***
 
@@ -245,8 +246,8 @@ graph TD
 * 불소 치약 사용 필수
   * 성인 일반 관리 : 불소 1,350\~1,500 ppm 치약을 하루 2회 이상 사용하고, 닦은 뒤 뱉되 물로 많이 헹구지 않음
   * 고위험군 (방사선 치료 후·Sjögren disease·다발성 우식증) : 불소 1,450\~1,500 ppm 치약을 사용하고, 치과에서 불소 바니시·전문가용 불소 겔 등 추가 불소 전략을 병행
-  * 해외 지침에서 고위험군에 고려하는 2,800\~5,000 ppm 처방용 치약은 일반 성인용 1,350\~1,500 ppm 치약과 구분하며, 국내 사용 가능한 제형에 맞추어 치과에서 불소 전략을 결정 <mark style="color:$info;">\[Delivering better oral health]</mark>
-  * 0.05% NaF 불소 양치액(불소 이온 약 225\~230 ppm)을 1일 1회 병용할 수 있으며, 칫솔질과 다른 시간에 사용하고 뱉음. 보건소·치과에서 제공하는 경우가 있음 <mark style="color:$info;">\[Delivering better oral health]</mark>
+  * 해외 지침에서 고위험군에 고려하는 2,800\~5,000 ppm 처방용 치약은 일반 성인용 1,350\~1,500 ppm 치약과 구분하며, 국내 사용 가능한 제형에 맞추어 치과에서 불소 전략을 결정 <mark style="color:$info;">\[Delivering better oral health 2021]</mark>
+  * 0.05% NaF 불소 양치액(불소 이온 약 225\~230 ppm)을 1일 1회 병용할 수 있으며, 칫솔질과 다른 시간에 사용하고 뱉음. 보건소·치과에서 제공하는 경우가 있음 <mark style="color:$info;">\[Delivering better oral health 2021]</mark>
   * 불소 젤과 맞춤 트레이의 농도·적용 시간은 제품과 치과 처방에 따르며 일률적으로 20분 적용하지 않음
   * 불소 바니시(fluoride varnish) : 치과에서 3\~6개월마다 적용
 * 알코올 무함유 구강 청정액 선택
@@ -281,8 +282,8 @@ graph TD
 * 증상이 있을 때 구강 점막·혀·입천장에 고루 사용하며, 취침 전 사용은 야간 증상 완화에 도움
 * 구강이나 인후에 1\~2회 직접 분무하며, 습기를 유지하는 데 필요한 만큼 또는 의사의 지시에 따라 사용 (40 ㎖/병) <mark style="color:blue;">\[제로바액]</mark>
 * 스프레이형, 젤형, 구강 세정형 등 다양한 제형이 있으며, 일반적으로 알코올 무함유·저자극 제품을 우선 고려
-  * <mark style="color:blue;">제로바액</mark>은 에탄올(95)이 포함되어 있으므로 알코올 무함유 제품으로 분류하지 않음. 이는 원료 규격으로, 완제품의 에탄올 농도를 뜻하지 않으며 이 표기만으로 자극성을 판단하지 않음. 사용 시 따가움·점막 자극이 있으면 다른 제형을 검토
-* pH 확인 권장 : 일부 인공 침 제품은 보존 목적으로 산성 pH를 띨 수 있음 → 치아 부식 방지를 위해 중성(pH 7.0 근처) 제품 선택 권고
+  * <mark style="color:blue;">\[제로바액]</mark>은 첨가제에 에탄올(95)이 포함되어 있어 알코올 무함유 제품으로 분류하지 않음. '(95)'는 원료 규격 표기로 완제품의 에탄올 농도를 뜻하지 않으며, 이 표기만으로 자극성을 판단하지 않음. 사용 시 따가움·점막 자극이 있으면 다른 제형을 검토
+* pH 확인 권장 : 일부 인공 침 제품은 보존 목적으로 산성 pH를 띨 수 있음 → 치아 부식 방지를 위해 중성(pH 7.0 근처) 제품 선택 권고. 단, 모든 제품이 pH가 공개되어 있지는 않음
 
 ### <mark style="color:orange;">침 분비 촉진제 (Sialagogue)</mark>
 
@@ -308,7 +309,7 @@ graph TD
 
 #### <mark style="color:$primary;">cevimeline</mark>
 
-* M1·M3 수용체 작용제로 해외에서 Sjögren disease 구강건조에 사용 - 국내 미허가
+* M1·M3 수용체 작용제로 해외에서 Sjögren disease 구강 건조에 사용 - 국내 미허가
 
 ### <mark style="color:orange;">기타</mark>
 
@@ -352,7 +353,7 @@ graph TD
 > 제로바액  40 ㎖/병  필요시 구강 또는 인후에 1~2회 직접 분무
 > ```
 >
-> _✽ 잔여 침샘 기능이 있는 유의한 구강 건조에서 pilocarpine을 고려하며 6주 후 반응과 내약성을 평가. 전신 치료는 장기 침범과 질병 활성도에 따라 류마티스내과에서 결정하며, hydroxychloroquine을 구강건조 자체의 치료제로 routine 사용하지 않음. 안구 건조는 안과 협진 및 별도 치료 필요. 중등도 간장애에서는 초기 5 ㎎ bid로 시작하고 중증 간장애에서는 사용을 권장하지 않음._
+> _✽ 잔여 침샘 기능이 있는 유의한 구강 건조에서 pilocarpine을 고려하며 6주 후 반응과 내약성을 평가. 전신 치료는 장기 침범과 질병 활성도에 따라 류마티스내과에서 결정하며, hydroxychloroquine을 구강 건조 자체의 치료제로 routine 사용하지 않음. 안구 건조는 안과 협진 및 별도 치료 필요. 중등도 간장애에서는 초기 5 ㎎ bid로 시작하고 중증 간장애에서는 사용을 권장하지 않음._
 
 > **처방례 4. 약물 유발성 - 원인 약물 교체 불가 시**
 >
@@ -360,7 +361,7 @@ graph TD
 > 제로바액  40 ㎖/병  필요시 구강 또는 인후에 1~2회 직접 분무
 > ```
 >
-> _✽ 항콜린제, 항정신병약, 항우울제 등 교체가 어려운 경우 인공 침과 무설탕·비산성 껌(필요시 저작)으로 증상 관리. 약물 유발성 구강건조에 대한 pilocarpine 사용은 국내 허가 적응증이 아니므로 routine으로 추가하지 않음. 우식 위험에 따라 3\~6개월 간격으로 치과 추적._
+> _✽ 항콜린제, 항정신병약, 항우울제 등 교체가 어려운 경우 인공 침과 무설탕·비산성 껌(필요시 저작)으로 증상 관리. 약물 유발성 구강 건조에 대한 pilocarpine 사용은 국내 허가 적응증이 아니므로 routine으로 추가하지 않음. 우식 위험에 따라 3\~6개월 간격으로 치과 추적._
 
 ***
 
@@ -440,7 +441,7 @@ graph TD
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-### 임상 근거
+### <mark style="color:orange;">임상 근거</mark>
 
 * Price EJ, et al. British Society for Rheumatology guideline on management of adult and juvenile onset Sjögren disease. Rheumatology (Oxford). 2025;64(2):409-439. [원문](https://doi.org/10.1093/rheumatology/keae152)
 * Mercadante V, et al. Salivary Gland Hypofunction and/or Xerostomia Induced by Nonsurgical Cancer Therapies: ISOO/MASCC/ASCO Guideline. J Clin Oncol. 2021;39(25):2825-2843. [원문](https://doi.org/10.1200/JCO.21.01208)
@@ -449,12 +450,12 @@ graph TD
 * Fox PC, Busch KA, Baum BJ. Subjective reports of xerostomia and objective measures of salivary gland performance. J Am Dent Assoc. 1987;115(4):581-584.
 * Osailan SM, et al. Clinical assessment of oral dryness: development of a scoring system related to salivary flow and mucosal wetness. Oral Surg Oral Med Oral Pathol Oral Radiol. 2012;114(5):597-603.
 * Jager DHJ, et al. Clinical oral dryness score: evaluation of a new screening method for oral dryness. Odontology. 2018;106(4):439-444. [원문](https://doi.org/10.1007/s10266-018-0339-4)
-* Office for Health Improvement and Disparities. Delivering better oral health: an evidence-based toolkit for prevention. Chapter 2: summary guidance tables for dental teams. [원문](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-2-summary-guidance-tables-for-dental-teams)
+* Office for Health Improvement and Disparities. Delivering better oral health: an evidence-based toolkit for prevention. 4th ed. 2021. Chapter 2: summary guidance tables for dental teams. [원문](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-2-summary-guidance-tables-for-dental-teams)
 * Fregnani ER, et al. MASCC/ISOO Clinical Practice Statement: management of oral complications of immunotherapy. Support Care Cancer. 2025;33:851. [원문](https://doi.org/10.1007/s00520-025-09806-x)
 * Cohen L, et al. Acupuncture for Chronic Radiation-Induced Xerostomia in Head and Neck Cancer: A Multicenter Randomized Clinical Trial. JAMA Netw Open. 2024;7(5):e2410421. [원문](https://doi.org/10.1001/jamanetworkopen.2024.10421)
 * Linares MF, et al. Laser Acupuncture on the Management of Xerostomia in Sjögren's Disease: A Randomized Clinical Trial. Oral Dis. 2026;32(7):1912-1922. [원문](https://doi.org/10.1111/odi.70241)
 * Kamnoedboon P, et al. A Systematic Review and Meta-Analysis of the Global Prevalence of Dry Mouth in Older Adults. Gerodontology. 2026;43(3):383-402. [원문](https://doi.org/10.1111/ger.70076)
 
-### 허가·급여 확인 자료
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
