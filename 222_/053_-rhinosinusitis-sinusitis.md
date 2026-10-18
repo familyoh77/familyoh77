@@ -15,10 +15,10 @@
 * Subacute rhinosinusitis : ＞4주, ＜12주; ARS 또는 CRS에 준해 임상적으로 개별 판단
 * Chronic rhinosinusitis (CRS) : ≥12주
 * Recurrent acute rhinosinusitis (RARS) : ABRS가 연 4회 이상 발생하고 각 episode 사이에는 무증상
-* Acute bacterial rhinosinusitis (ABRS) : ARS(≤4주) 중 bacterial criteria 충족
+* Acute bacterial rhinosinusitis (ABRS) : ARS(≤4주) 중 다음 bacterial criteria 하나 이상 충족
   1. ≥10일 지속 without improvement
   2. severe onset : ≥39℃ 고열 + (농성 비루 또는 안면통)이 발병 초기부터 3\~4일 연속 지속
-  3. double worsening 중 하나 이상 해당
+  3. double worsening
 
 ## <mark style="color:green;">원인</mark>
 
@@ -51,32 +51,32 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 안구 돌출·안구 운동 장애/통증·복시·시력 저하, 또는 눈 주위 부종·발적이 있으면서 안와 침범을 배제할 수 없음 `안와 연조직염` `골막하 농양`
-* 새로 발생한 극심하거나 진행성인 두통, 수막 자극 증상(경부 강직 등), 의식 변화 또는 국소 신경학적 이상(고열이 없어도 해당) `뇌수막염` `경막하/경막외 농양` `해면정맥동 혈전증`
-* 이마의 말랑한 부종(전두동염 경과 중) `Pott's puffy tumor(전두골 골수염)`
+* 안구 돌출·안구 운동 장애/통증·복시·시력 저하, 또는 눈 주위 부종·발적이 있으면서 안와 침범을 배제할 수 없음  `안와 연조직염` `골막하 농양`
+* 새로 발생한 극심하거나 진행성인 두통, 수막 자극 증상(경부 강직 등), 의식 변화 또는 국소 신경학적 이상(고열이 없어도 해당)  `뇌수막염` `경막하/경막외 농양` `해면정맥동 혈전증`
+* 이마의 말랑한 부종(전두동염 경과 중)  `Pott's puffy tumor(전두골 골수염)`
 * 고열, 심한 전신 쇠약, 중독성 외모(toxic appearance) 등 패혈증 징후
-* 당뇨병·면역 저하자에서 급속히 진행하는 편측 안면통·부종, 비점막 창백/괴사·검은 가피 또는 뇌신경마비(검은 가피가 없어도 해당) `급성 침습성 진균성 비부비동염`
-* Mucocele이 의심되면서 신경학적 증상 또는 안와 침범 소견이 동반 `mucopyocele` `안와/두개내 합병증`
+* 당뇨병·면역 저하자에서 급속히 진행하는 편측 안면통·부종, 비점막 창백/괴사·검은 가피 또는 뇌신경마비(검은 가피가 없어도 해당)  `급성 침습성 진균성 비부비동염`
+* Mucocele이 의심되면서 신경학적 증상 또는 안와 침범 소견이 동반  `mucopyocele` `안와/두개내 합병증`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 눈꺼풀 부종·발적이 있으나 시력·안구 운동이 정상이고 안구 돌출이 없음 **(당일)** `눈꺼풀앞 연조직염`&#x20;
-* 면역 저하자에서 새로 발생한 비부비동염 증상 또는 통상적 치료에 반응하지 않는 편측 안면통 **(당일)** `비전형적 감염` `침습성 진균성 비부비동염`&#x20;
-* Mucocele가 의심되면서 새로 눈 주위 부종·통증이 발생하나 안와 침범·신경학적 소견은 없음 **(당일)** `mucopyocele`
-* 적절한 항생제 투여 중 언제든 악화하거나 3\~5일 내 호전되지 않음 `치료 실패` `합병증`&#x20;
-* 편측 코 막힘·출혈·악취성 분비물이 지속되거나 치료에 반응하지 않음 `종양` `이물` `치성 부비동염`
+* 눈꺼풀 부종·발적이 있으나 시력·안구 운동이 정상이고 안구 돌출이 없음 **(당일)**  `눈꺼풀앞 연조직염`&#x20;
+* 면역 저하자에서 새로 발생한 비부비동염 증상 또는 통상적 치료에 반응하지 않는 편측 안면통 **(당일)**  `비전형적 감염` `침습성 진균성 비부비동염`&#x20;
+* Mucocele이 의심되면서 새로 눈 주위 부종·통증이 발생하나 안와 침범·신경학적 소견은 없음 **(당일)**  `mucopyocele`
+* 적절한 항생제 투여 중 언제든 악화하거나 3\~5일 내 호전되지 않음  `치료 실패` `합병증`&#x20;
+* 편측 코막힘·출혈·악취성 분비물이 지속되거나 치료에 반응하지 않음  `종양` `이물` `치성 부비동염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 연 4회 이상 반복되고 발작 사이에는 무증상
-* 12주 이상 지속되는 코 막힘·비루·후각 저하
+* ABRS가 연 4회 이상 반복되고 각 episode 사이에는 무증상  `RARS`
+* 12주 이상 지속되는 코막힘·비루·후각 저하  `CRS`
 * 큰 폐쇄성 비용종, 합병증이 없는 mucocele 또는 수술이 필요할 수 있는 구조적 병변 의심
 
 ## <mark style="color:green;">임상 양상 및 진단</mark>
 
 #### <mark style="color:$primary;">급성 비부비동염 임상 진단</mark>
 
-* 다음을 모두 충족하고 증상 기간이 ≤4이면 ARS로 임상 진단
+* 성인에서 다음을 모두 충족하고 증상 기간이 ≤4주이면 ARS로 임상 진단
   1. 농성 비루(전방 또는 후방)
   2. 코막힘 또는 안면 통증·압박감 중 하나 이상
 * 후각 저하·발열·두통·치통·기침·피로감 등은 진단을 보조하지만 단독으로 ARS를 진단하지 않음
@@ -85,20 +85,20 @@
 #### <mark style="color:$primary;">세균 감염(ABRS) 임상 진단</mark>
 
 * 다음 중 하나 이상 해당 시 ABRS로 임상 진단(배양 확인이 아닌 추정 진단)
-  1. 농성 콧물·코 막힘·안면 압통 등 ARS 증상이 호전 없이 ≥10일 지속
-  2. 발병 초기부터 최소 3\~4일 연속 심한 증상 지속 : 발열(≥39℃) + 농성 비루 또는 안면통
+  1. 농성 콧물·코막힘·안면 압통 등 ARS 증상이 호전 없이 ≥10일 지속
+  2. 발병 초기부터 최소 3\~4일 연속 심한 증상 지속 : 발열(≥39℃) + (농성 비루 또는 안면통)
   3. 초기 증상 호전 후 다시 악화('double worsening') - 새 발열·두통 또는 비루 증가 등이 나타나는 이봉성(二峯性) 양상
 
 {% hint style="info" %}
-AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 **초기 호전 후 재악화**임. 발병 초기 ≥39℃ 고열과 **농성 비루 또는 안면통**이 3\~4일 연속 지속되는 severe onset은 IDSA 2012 기준으로 함께 평가하며, 중증 감염이면 즉시 항생제 치료 고려
+<mark style="color:$info;">\[AAO-HNSF 2025]</mark>의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 **초기 호전 후 재악화**임. 발병 초기 ≥39℃ 고열과 **농성 비루 또는 안면통**이 3\~4일 연속 지속되는 severe onset은 <mark style="color:$info;">\[IDSA 2012]</mark> 기준으로 함께 평가하며, 중증 감염이면 즉시 항생제 치료 고려
 {% endhint %}
 
 #### <mark style="color:$primary;">ABRS 진단 및 항생제 투여 결정 가이드</mark>
 
-<table><thead><tr><th width="127">질문 항목</th><th>상태 확인</th><th>권고 사항</th></tr></thead><tbody><tr><td><strong>증상 기간</strong></td><td>10일 미만이며 호전 중</td><td>항생제 불필요; 대증 치료</td></tr><tr><td><strong>ABRS,</strong> <br><strong>합병증 없음</strong></td><td>10일 이상 호전 없음 또는 double worsening</td><td>추적이 보장되면 진단 후 보통 3~5일 주의 관찰; 경과에 따라 조정</td></tr><tr><td><strong>중증/고위험</strong></td><td>≥39℃ 고열과 농성 비루 또는 안면통이 3~4일 연속 지속, 면역 저하 등</td><td>즉시 항생제 치료를 개별적으로 고려</td></tr><tr><td><strong>관찰 중 실패</strong></td><td>보통 3~5일 관찰 후 호전 없음 또는 관찰 중 악화</td><td>항생제 시작</td></tr><tr><td><strong>Red Flags</strong></td><td>안와 부종, 안구 운동 장애, 시력 변화, 의식 변화</td><td>즉각 조치</td></tr></tbody></table>
+<table><thead><tr><th width="127">질문 항목</th><th>상태 확인</th><th>권고 사항</th></tr></thead><tbody><tr><td><strong>증상 기간</strong></td><td>10일 미만이며 호전 중</td><td>항생제 불필요; 대증 치료</td></tr><tr><td><strong>ABRS,</strong> <br><strong>합병증 없음</strong></td><td>10일 이상 호전 없음 또는 double worsening</td><td>추적이 보장되면 진단 후 보통 3~5일 주의 관찰; 경과에 따라 조정</td></tr><tr><td><strong>중증/고위험</strong></td><td>≥39℃ 고열 + (농성 비루 또는 안면통)이 3~4일 연속 지속, 면역 저하 등</td><td>즉시 항생제 치료를 개별적으로 고려</td></tr><tr><td><strong>관찰 중 실패</strong></td><td>보통 3~5일 관찰 후 호전 없음 또는 관찰 중 악화</td><td>항생제 시작</td></tr><tr><td><strong>Red Flags</strong></td><td>안와 부종, 안구 운동 장애, 시력 변화, 의식 변화</td><td>즉각 조치</td></tr></tbody></table>
 
 > _합병증 없는 성인 ABRS에서 추적이 보장되면 항생제 없이 주의 관찰함._ \
-> _AAO-HNSF 2025의 권고문은 관찰 기간을 고정하지 않으나, 같은 지침의 흐름도는 '진단 후 3\~5일 내 호전 없음' 또는 '언제든 악화'를 재평가 기준으로 제시하므로 보통 3\~5일 관찰하고 진단 시점과  증상 기간에 따라 조정함. 항생제 시작 후의 무반응 평가에도 별도로 3\~5일을 적용함._
+> _AAO-HNSF 2025의 권고문은 관찰 기간을 고정하지 않으나, 같은 지침의 흐름도는 '진단 후 3\~5일 내 호전 없음' 또는 '언제든 악화'를 재평가 기준으로 제시하므로 보통 3\~5일 관찰하고 진단 시점과 증상 기간에 따라 조정함. 항생제 시작 후의 무반응 평가에도 별도로 3\~5일을 적용함._
 
 #### <mark style="color:$primary;">소아 ABRS 진단 기준</mark>
 
@@ -113,7 +113,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
   * 소아의 직접적인 단기 대 장기 비교 근거는 제한적이며, 중증 환자에서는 더 긴 치료가 필요할 수 있음
 * amoxicillin 또는 amoxicillin/clavulanate가 1차 선택; 내성 위험·중증도에 따라 clav. 포함 여부와 용량 결정
   * amoxicillin 45 ㎎/㎏/d #2(저위험) 또는 90 ㎎/㎏/d #2(＜2세, 어린이집, 최근 4주 내 항생제 사용 등에서 고용량 투여)
-  * amoxicillin/clav. 고용량 : amoxicillin 90 ㎎/㎏/d + clav. 약 6.4 ㎎/㎏/d #2; 14:1 제형 사용 <mark style="color:blue;">\[아모크라네오시럽]</mark>
+  * amoxicillin/clav. 고용량 : amoxicillin 90 ㎎/㎏/d + clav. 약 6.4 ㎎/㎏/d #2; 14:1 제형 사용 <mark style="color:blue;">\[아모크라네오]</mark>
     * 허가기준 : 소아 재발성 급성부비동염, 최근 3개월 이내 급성중이염/급성부비동염으로 항생제 투여 경험이 있으면서 2세 이하 또는 어린이집 재원인 경우; ≥3개월 연령에서 amoxicillin 90 ㎎/㎏/d #2로 7일 투여; ≥40 ㎏ 소아·성인에서 사용 경험 없음
   * 4:1·7:1 제형을 같은 부피로 대체하거나 amoxicillin 고용량에 맞춰 일률 증량하지 않음(clav. 과량 주의)
 
@@ -133,7 +133,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
   * 색깔만으로 원인 감별 불가
 * 혈흔 동반 : 편측(종양·이물·코 후빔), 양측(육아종증·출혈 경향·코 후빔)
 
-**코 막힘**
+**코막힘**
 
 * 편측 → 비중격 만곡, 이물, 폴립, 종양
 * 양측 → 비염, 폴립, S자 비중격 만곡
@@ -188,6 +188,49 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 ***
 
 ```mermaid
+    graph TD
+    Start(["비부비동염이 의심되는 성인"]) --> Red["Red Flags 즉각 조치 항목?"]
+    Red -- Yes --> ER["즉각 조치"]
+    Red -- No --> Urgent["Red Flags <br/>당일~수일 내 평가 항목?"]
+    Urgent -- Yes --> SameDay["당일~수일 내 평가<br/>(본문 '당일' 표시 항목은 당일 평가)"]
+    Urgent -- No ---> Duration["증상 기간"]
+    Duration -- "≤4주" --> ARS["ARS 증상 조합?"]
+    ARS -- No --> Alt["다른 진단 평가"]
+    ARS -- Yes --> ABRS["ABRS 기준?"]
+    ABRS -- No --> Viral["바이러스성 ARS<br/>대증 치료"]
+    ABRS -- Yes --> Risk["중증·면역 저하<br/>·즉시 치료 필요?"]
+    Risk -- Yes --> Antibiotic["항생제 치료·필요시 전문 의뢰"]
+    Risk -- No --> Follow["추적이 보장됨?"]
+    Follow -- Yes --> Watch["진단 후 보통 3~5일 주의 관찰<br/>진단 시점·경과에 따라 조정"]
+    Follow -- No --> Antibiotic
+    Watch --> Improve["관찰 기간 내 호전?<br/>언제든 악화 시 재평가"]
+    Improve -- Yes --> End["치료 종료"]
+    Improve -- "No/악화" --> Antibiotic
+    Antibiotic --> First["Amoxicillin±clavulanate <br/>5~7일<br/>알레르기·내성 위험은 <br/>약제 표 참조"]
+    First --> Fail["투여 3~5일 내 호전 없음<br/>또는 언제든 악화?"]
+    Fail -- No --> End
+    Fail -- Yes --> Reassess["진단·합병증 재평가<br/>항생제 변경"]
+    Duration -- "＞4주, ＜12주" --> Subacute["ARS 또는 CRS에 <br/>준해 개별 판단"]
+    Duration -- "≥12주" --> CRScheck["증상 + 객관적 염증?"]
+    CRScheck -- Yes --> CRS["CRS"]
+    CRScheck -- No --> Alt2["다른 진단 평가"]
+    CRS --> Phenotype["비용종·동반 질환<br/>·endotype 평가"]
+    Phenotype --> Basic["고용량 식염수 세척 <br/>+ 비내 스테로이드"]
+    Basic --> Control["조절됨?"]
+    Control -- Yes --> Maintain["유지 치료"]
+    Control -- No --> Refer["이비인후과 의뢰<br/>수술 / 선별적 <br/>생물학제 평가"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    class Start start
+    classDef danger fill:#f8d7da,stroke:#c0392b
+    class ER danger
+    classDef urgent fill:#ffe0b2,stroke:#fb8c00
+    class SameDay urgent
+    classDef decision fill:#fff9c4,stroke:#ffe082
+    class Red,Urgent,Duration,ARS,ABRS,Risk,Follow,Improve,Fail,CRScheck,Control decision
+    classDef treatment fill:#e3f2fd,stroke:#1e88e5
+    class Viral,Watch,Antibiotic,First,Reassess,Basic,Maintain,Refer treatment
+    classDef dx fill:#f96,stroke:#e65100,stroke-width:2px
+    class CRS dx
 ```
 
 <p align="center"><strong>비부비동염 관리 알고리듬</strong></p>
@@ -210,7 +253,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 * 동반 질환 치료 : 알레르기비염, 당뇨
 * 합병증 없이 치료된 비부비동염에 대한 추가 평가는 불필요
 
-☞  약물 및 비약물 치료제에 대하여 [알레르기비염](051_-allergic-rhinitis.md#management) 챕터 참조
+☞ 약물 및 비약물 치료제에 대하여 [알레르기비염](051_-allergic-rhinitis.md#management) 챕터 참조
 
 ### <mark style="color:orange;">비강 세척 (Nasal Saline Irrigation)</mark>
 
@@ -219,15 +262,15 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 * 등장성 생리식염수(0.9%) : 일반적 유지 세척; 자극 없이 장기 사용 가능
 * 고장성 식염수(hypertonic saline, 2\~3%) : 일부 연구에서 등장성보다 증상 개선이 컸으나 결과가 일관되지 않으며 작열감·자극감이 더 흔함; 환자 선호와 내약성에 따라 선택
 * 고용량 세척에는 증류수·멸균수 또는 끓였다가 식힌 물만 사용하고, 수돗물을 그대로 사용하지 않음
-* 세척 방법
+* 세척 방법 (☞ [알레르기비염](051_-allergic-rhinitis.md#undefined-18))
 
 ### <mark style="color:orange;">코 울혈 제거제 (Decongestants)</mark>
 
-* ABRS에서 경구·비내 울혈 제거제를 routine 보조요법으로 사용하지 않음; 심한 코 막힘에 한해 단기간 선택적으로 고려
+* ABRS에서 경구·비내 울혈 제거제를 routine 보조요법으로 사용하지 않음; 심한 코막힘에 한해 단기간 선택적으로 고려
 * 경구 : 비충혈 완화 목적
   * pseudoephedrine : 30\~60 ㎎ 1일 3\~4회; 최대 240 ㎎/d, 최소 4시간 간격 <mark style="color:blue;">\[슈다페드]</mark>
   * 국내 주요 금기 : 고혈압 포함 심혈관질환, 갑상선기능항진증, 당뇨병, 중증 신장애, 폐쇄각녹내장, 크롬친화세포종, 수유부, MAO 억제제 투여 중/중단 후 2주 이내; 다른 교감신경흥분제·β차단제 병용도 금기
-    * 전립선비대증·방광 기능 이상은 신중 투여
+    * 신중 투여 : 전립선비대증·방광 기능 이상, 고령자, 임부, 디기탈리스 투여 중, 안압 상승
 * 비내 : 강력한 혈관 수축 효과; 반동성 비충혈 예방을 위해 연속 사용 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않음 (비급여)
   * phenylephrine <mark style="color:blue;">\[시네프린]</mark>, naphazoline/chlorpheniramine 복합제 <mark style="color:blue;">\[나리스타]</mark>, xylometazoline <mark style="color:blue;">\[오트리빈]</mark>, oxymetazoline <mark style="color:blue;">\[레스피비엔]</mark>
 
@@ -236,7 +279,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 * 비내 스테로이드 : 알레르기비염 동반 시 유효; ABRS에서도 증상 완화에 도움
   * budesonide <mark style="color:blue;">\[나리타점비액]</mark>, mometasone <mark style="color:blue;">\[나조넥스나잘]</mark>, fluticasone furoate <mark style="color:blue;">\[아바미스나잘]</mark>
   * 약 10일 이상 호전 없는 경우 ≥12세에서 고용량 비내 스테로이드 14일 고려(예 : mometasone 총 200 ㎍ bid) <mark style="color:$info;">\[NICE 2017]</mark>
-  * 나조넥스 허가 : 성인 및 ≥12세의 중증 세균 감염이 없는 급성 비부비동염에 대하여 각 비공 2번 씩 bid. 이 적응증·용량은 국내 허가 사항이며, 14일은 NICE에서 제시한 치료기간임
+  * 나조넥스 허가 : 성인 및 ≥12세의 중증 세균 감염이 없는 급성 비부비동염에 대하여 각 비공 2번씩 bid. 이 적응증·용량은 국내 허가 사항이며, 14일은 NICE에서 제시한 치료기간임
   * 아바미스 허가 : 알레르기비염 적응; 알레르기비염 없이 ARS·CRS 자체를 치료하는 사용은 허가 외임
 * 경구 스테로이드 : ABRS에서 routine 사용은 권장하지 않음
   * 단독요법은 효과가 없고 항생제 병용 시 단기 증상 완화 가능성이 보고되었으나 근거의 확실성이 낮음
@@ -247,7 +290,6 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 * 효과 : 비부비동염 자체에 대한 효과는 입증 안 됨; 점액 점도 증가 및 점막 건조로 악영향 가능
 * 알레르기 증상이 심하게 동반된 경우에만 고려
   * cetirizine 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>, levocetirizine 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark>, fexofenadine 120 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>, loratadine 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
-  * 비내 : azelastine 알레르기비염 기본 용량(각 비공 1번 분무 bid) - 단일제 없음
 
 ### <mark style="color:orange;">진통제</mark>
 
@@ -264,7 +306,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 
 * 대부분 항생제 투여 불필요 - ABRS 기준 충족 시 선택적 적용
 * macrolide(azithromycin, clarithromycin), TMP/SMX는 내성 때문에 초기 경험적 치료로 권장하지 않음
-* 투여 기간 : amoxicillin ± clav.는 합병증 없는 대부분의 성인에서 5\~7일 <mark style="color:$info;">\[AAO-HNSF 2025];</mark> 중증도·치료 반응에 따라 개별화하되 호전 중인 잔여 증상만으로 자동 연장하지 않음
+* 투여 기간 : amoxicillin ± clav.는 합병증 없는 대부분의 성인에서 5\~7일 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>; 중증도·치료 반응에 따라 개별화하되 호전 중인 잔여 증상만으로 자동 연장하지 않음
 * 적절한 항생제 투여 후 3\~5일 내 호전되지 않거나 언제든 악화하면 진단·합병증을 재평가한 뒤 ABRS 진단이 맞으면 항생제 변경
 
 #### <mark style="color:$primary;">내성 위험군</mark>
@@ -275,7 +317,9 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 
 #### <mark style="color:$primary;">항생제 선택</mark>
 
-<table><thead><tr><th width="149">구분</th><th width="204">약물</th><th>성인 용량·기간</th></tr></thead><tbody><tr><td><strong>저위험군 1차</strong></td><td>amoxicillin <mark style="color:blue;">[파목신]</mark></td><td>500 ㎎ tid ×5~7일</td></tr><tr><td><strong>β-lactamase 생성균 등 위험 시</strong></td><td>amoxicillin/clav. <mark style="color:blue;">[오구멘틴]</mark></td><td>표준 용량 500/125 ㎎ tid ×5~7일; 폐렴구균 내성 고위험군의 고용량 요법은 아래 주석 참조</td></tr><tr><td><strong>Type I Pc 알레르기</strong></td><td>doxycycline <mark style="color:blue;">[모노신]</mark></td><td>성인 100 ㎎ bid 또는 200 ㎎ qd ×5~7일</td></tr><tr><td><strong>Non-type I Pc 알레르기</strong></td><td>cefpodoxime <mark style="color:blue;">[바난]</mark> 또는 cefixime <mark style="color:blue;">[포세프]</mark></td><td>cefpodoxime 200 ㎎(100 ㎎ 2T) bid 또는 cefixime 200 ㎎(100 ㎎ 2C) bid ×5~7일; 필요시 clindamycin 450 ㎎ tid 병용을 전문적으로 고려 <mark style="color:$info;">[AAO-HNSF 2025]</mark></td></tr><tr><td><strong>다른 대안이 없는 경우</strong></td><td>levofloxacin <mark style="color:blue;">[크라비트]</mark> 또는 moxifloxacin <mark style="color:blue;">[아벨록스]</mark></td><td>levofloxacin 500 ㎎ qd ×10~14일; moxifloxacin 400 ㎎ qd ×7일. 다른 적절한 대안이 없는 경우에만 사용; levofloxacin은 신기능에 따른 용량 조절 필요</td></tr></tbody></table>
+<table><thead><tr><th width="149">구분</th><th width="204">약물</th><th>성인 용량·기간</th></tr></thead><tbody><tr><td><strong>저위험군 1차</strong></td><td>amoxicillin <mark style="color:blue;">[파목신]</mark></td><td>500 ㎎ tid ×5~7일</td></tr><tr><td><strong>β-lactamase 생성균 등 위험 시</strong></td><td>amoxicillin/clav. <mark style="color:blue;">[오구멘틴]</mark></td><td>표준 용량 500/125 ㎎ tid ×5~7일; 폐렴구균 내성 고위험군의 고용량 요법은 아래 주석 참조</td></tr><tr><td><strong>Type I Pc 알레르기</strong></td><td>doxycycline <mark style="color:blue;">[모노신]</mark></td><td>성인 100 ㎎ bid 또는 200 ㎎ qd ×5~7일</td></tr><tr><td><strong>Non-type I Pc 알레르기</strong></td><td>cefpodoxime <mark style="color:blue;">[바난]</mark> 또는 cefixime <mark style="color:blue;">[포세프]</mark></td><td>cefpodoxime 200 ㎎(100 ㎎ 2T) bid 또는 cefixime 400 ㎎/d ×5~7일; 필요시 clindamycin 450 ㎎ tid 병용을 전문적으로 고려 <mark style="color:$info;">[AAO-HNSF 2025]</mark></td></tr><tr><td><strong>다른 대안이 없는 경우</strong></td><td>levofloxacin <mark style="color:blue;">[크라비트]</mark> 또는 moxifloxacin <mark style="color:blue;">[아벨록스]</mark></td><td>levofloxacin 500 ㎎ qd ×10~14일; moxifloxacin 400 ㎎ qd ×7일. 다른 적절한 대안이 없는 경우에만 사용; levofloxacin은 신기능에 따른 용량 조절 필요</td></tr></tbody></table>
+
+> cefixime 용량 기준 : 국내 포세프 허가는 성인 일반 50\~100 ㎎ bid, 중증·효과 불충분 시 200 ㎎ bid이며, AAO-HNSF 2025의 ABRS 대체요법 용량은 400 ㎎ qd임. 1일 총량은 같으나 투여 간격이 다름
 
 > _Non-type I penicillin 알레르기의 cephalosporin 대체요법은 중증 지연형 과민반응이 없는 경우에 한함. SJS/TEN·DRESS 등 중증 피부반응 또는 약물 관련 장기 손상 병력에서는 단순한 non-type I로 분류하여 β-lactam을 대체 처방하지 않고 전문 평가 <mark style="color:$info;">\[JACI 2022]</mark>_
 
@@ -292,7 +336,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 
 * 합병증 없는 성인 ABRS에서 추적이 보장되면 항생제 없이 대증 치료하며 진단 후 보통 3\~5일 관찰; 진단 시점과 증상 경과에 따라 조정
 * 지연 처방을 할 경우 “언제든 악화하거나 정해진 관찰 기간(보통 진단 후 3\~5일) 내 호전하지 않으면 복용을 시작하고 의료진에게 알릴 것”을 안내
-* 중증 감염, 면역 저하, 합병증 의심 또는 다른 세균 감염이 동반된 경우에는 관찰 대상이 아니며 즉시 치료 개시
+* 중증 감염, 면역 저하, 합병증 의심 또는 다른 세균 감염이 동반된 경우에는 관찰 대상이 아니며 즉시 치료 고려
 
 ### <mark style="color:orange;">치료 실패 시 조치</mark>
 
@@ -325,7 +369,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 * CRSwNP에서는 type 2 염증(호산구, IL-4/IL-5/IL-13)이 흔하지만 모든 환자에게 동일하지 않고, CRSsNP도 type 2 염증을 보일 수 있으므로 비용종 유무만으로 endotype을 단정하지 않음
   * CRSwNP + 천식 + COX-1 억제제 과민반응이면 [AERD/NERD](051_-allergic-rhinitis.md#drug-induced-rhinitis) 고려; 전문 의뢰
 
-### <mark style="color:green;">원인 및 위험 인자</mark>
+### <mark style="color:orange;">원인 및 위험 인자</mark>
 
 * 고령, 면역 저하, 알레르기, 환경 자극/오염 지속 노출
 * 해부학적 이상, mucociliary 기능 저하(cystic fibrosis, primary ciliary dyskinesia)
@@ -350,15 +394,16 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 #### <mark style="color:$primary;">치성 부비동염 (Odontogenic Sinusitis)</mark>
 
 * 상악동 바닥과 상악 후방 치아(제1·2대구치, 제2소구치)의 치근이 매우 근접하거나 상악동 내로 돌출되어, 치근단 감염·치주염·임플란트 시술 합병증 등이 상악동염으로 직접 파급될 수 있음
-* 최근 임플란트 및 상악 치과 시술 증가로 치성 상악동염 비율이 높아지는 추세 - 일부 연구에서 상악동염의 25\~40%가 치성 원인으로 보고
+* 상악동염, 특히 편측성 상악동염의 중요한 원인이며 임플란트 등 상악 치과 시술 증가로 비중이 커지는 추세
 
 <mark style="color:cyan;">**임상 단서**</mark>
 
+* 치통이나 최근 치과 시술력이 없어도 배제할 수 없음
 * 편측성 상악동염이 가장 흔하지만 양측성도 가능
 * 악취를 동반한 농성 비루(foul-smelling purulent discharge) - 구강 혐기성균(_Fusobacterium_, _Prevotella_ 등) 감염의 특징
 * 비강 내시경 소견 : 중비도(middle meatus)의 국소적인 농(mucopus) - 일반 바이러스성 비부비동염에 비해 편측 중비도에 국한된 농이 특징적
 * 상악 치아 통증·최근 발치/임플란트 시술 병력
-* 항생제만으로 일시 호전 후 반복 재발 - 치과적 원인이 해결되지 않으면 항생제 종료 후 수 주 내 재발하는 패턴이 특징적; 이 패턴이 반복되면 치성 원인을 적극 의심
+* 항생제로 일시 호전되더라도 치과적 원인이 해결되지 않으면 지속하거나 재발할 수 있음; 반복되면 치성 원인을 적극 의심
 
 <mark style="color:cyan;">**진단**</mark>
 
@@ -388,7 +433,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 
 ***
 
-## <mark style="background-color:$warning;">Management - 만성 비부비동염</mark>
+## <mark style="color:green;">Management - 만성 비부비동염</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -398,7 +443,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 * 일반 CRS에 국소 또는 전신 항진균제를 사용하지 않음
   * 급성 침습성 진균성 비부비동염과 allergic fungal rhinosinusitis는 별도 전문 치료 영역
 
-☞  약물 및 비약물 치료제에 대하여 [알레르기비염](051_-allergic-rhinitis.md#management) 챕터 참조
+☞ 약물 및 비약물 치료제에 대하여 [알레르기비염](051_-allergic-rhinitis.md#management) 챕터 참조
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -423,7 +468,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 
 #### <mark style="color:$primary;">경구 스테로이드</mark>
 
-* 주로 심한 CRSwNP에서 비용종·코 막힘·후각 저하를 단기간 개선하지만 효과는 일시적이고 반복 사용의 전신 위해가 누적
+* 주로 심한 CRSwNP에서 비용종·코막힘·후각 저하를 단기간 개선하지만 효과는 일시적이고 반복 사용의 전신 위해가 누적
 * CRSsNP를 포함한 모든 CRS의 기본 치료로 사용하지 않으며, 전문의 판단하에 가능한 짧은 기간·최소 유효용량으로 제한
 * 처방 전 당뇨병·골다공증·녹내장·감염·정신과적 부작용 위험과 최근 전신 스테로이드 누적 사용량 확인
 
@@ -436,8 +481,8 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
   3. 현저한 삶의 질 저하(SNOT-22 ≥40)
   4. 후각검사로 확인한 무후각
   5. 규칙적인 흡입 스테로이드 치료가 필요한 동반 천식
-* 수술력이 없는 환자는 수술 부적합·금기 등 예외적 상황에서 전문기관이 적합성을 평가하며, 수술 대안·환자 선호 및 국내 허가·급여 범위를 함께 고려
-* dupilumab : IL-4Rα 차단 → IL-4·IL-13 동시 억제; 성인(18세 이상) CRSwNP 추가 유지 치료로 2021년 국내 허가(300 ㎎ 제품), 300 ㎎ SC q2w <mark style="color:blue;">\[듀피젠트주]</mark>; CRSwNP 자체의 적응증으로 투여하면 약값 전액 본인부담이며, 동반 중증 천식 등 별도 급여 적응증을 충족하는 경우와 구분 <mark style="color:$info;">\[HIRA 고시 제2026-159호]</mark>
+* 수술력이 없는 환자는 수술 부적합·금기 사유, 질병 부담과 위 기준, 환자 선호를 고려하여 전문기관에서 생물학적 제제 적합성을 별도로 평가함
+* dupilumab : IL-4Rα 차단 → IL-4·IL-13 동시 억제; 성인(18세 이상) CRSwNP 추가 유지 치료로 2021년 국내 허가(300 ㎎ 제품), 300 ㎎ SC q2w <mark style="color:blue;">\[듀피젠트]</mark>; CRSwNP 자체의 적응증으로 투여하면 약값 전액 본인부담이며, 동반 중증 천식 등 별도 급여 적응증을 충족하는 경우와 구분 <mark style="color:$info;">\[HIRA 고시 제2026-159호]</mark>
 * 기타 : mepolizumab(IL-5 차단), omalizumab(IgE 차단), tezepelumab(TSLP 차단; 2025년 10월 FDA에서 12세 이상 CRSwNP 추가 유지 치료 허가) 등; 국외 CRSwNP 허가를 국내 허가·급여로 해석하지 않음
 * CRSsNP에는 생물학적 제제를 routine으로 사용하지 않음 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>
 * 일차진료에서의 역할 : 생물학적 제제 처방 자체는 이비인후과·알레르기내과 전문 의뢰 영역. 일차 의원에서는 아래 기준 해당 시 적극적으로 의뢰
@@ -502,7 +547,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 > [타이레놀] 500 ㎎/T   1회 1~2T   tid prn   (통증/발열 시; 최대 6T/d)
 > ```
 >
-> _✽ Type I penicillin 알레르기가 확인된 성인의 대체 처방례. 식도 자극 예방을 위해 충분한 물과 함께 복용하고 30분간 눕지 않도록 교육. **칼슘·마그네슘·알루미늄 함유 제산제 및 철분제와 간격**을 두며 임신부와 8세 미만 소아의 단순 ABRS에는 사용하지 않음._
+> _✽ Type I penicillin 알레르기가 확인된 성인의 대체 처방례. 식도 자극 예방을 위해 충분한 물과 함께 복용하고 30분간 눕지 않도록 교육. **칼슘·마그네슘·알루미늄 함유 제산제 및 철분제와 간격**을 두며 임부·수유부 및 12세 미만 소아의 단순 ABRS에는 사용하지 않음._
 >
 > _✽ 다른 적절한 대안이 없어 fluoroquinolone이 필요한 성인의 대체 처방례(국내 허가 기간) :_
 >
@@ -516,7 +561,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 >
 > ```
 > [오구멘틴] 625 ㎎/T   1T   tid   × 5~7일
-> [아바미스] 27.5 ㎍/puff   각 비강 2 puffs   qd
+> [아바미스나잘] 27.5 ㎍/puff   각 비공 2 puffs   qd
 > [씨잘] 5 ㎎/T   1T   qd   저녁
 > ```
 >
@@ -525,7 +570,7 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 > **처방례 6. 만성 비부비동염 - 기본 유지 치료**
 >
 > ```
-> [아바미스] 27.5 ㎍/puff   각 비강 2 puffs   qd   (CRS 자체 치료는 허가 외)
+> [아바미스나잘] 27.5 ㎍/puff   각 비공 2 puffs   qd   (CRS 자체 치료는 허가 외)
 > ```
 >
 > _✽ CRS의 기본 치료는 비내 스테로이드 장기 유지 + 고용량 식염수 비강 세척. 아바미스의 국내 허가 적응증은 알레르기비염으로, 이 처방례에서 CRS 자체를 치료하는 사용은 허가 외임. 성인 CRSwNP에서는 비용종 적응증이 있는 mometasone 제제를 선택할 수 있음._
@@ -593,8 +638,8 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 2. **수분 섭취** : 탈수되지 않도록 평소 수분 섭취를 유지하십시오. 심장·신장질환으로 수분을 제한하는 경우에는 기존 지시를 따르십시오.
 3. **실내 환경** : 지나치게 건조하지 않게 하고, 가습기를 사용하면 깨끗하게 관리하십시오. 증기 흡입의 치료 효과는 입증되지 않았으며 뜨거운 물 증기는 화상 위험이 있어 피하십시오.
 4. **온찜질** : 편안함을 위해 미지근한 수건을 댈 수 있으나, 비부비동염 증상을 개선한다는 근거는 부족합니다.
-5. **편안한 자세** : 머리를 조금 높였을 때 코 막힘이 덜하다면 그 자세로 쉬어도 됩니다.
-6. **진통제** : 두통이나 안면 통증이 있을 때 처방·안내된 용량의 이부프로펜이나 타이레놀을 복용하십시오. 아스피린·소염진통제 복용 후 코막힘·천명·호흡곤란이 있었던 분은 이부프로펜을 임의로 복용하지 말고 의료진에게 알려 주십시오. 타이레놀도 과거 내약 용량과 반응 병력을 고려하여 선택합니다.
+5. **편안한 자세** : 머리를 조금 높였을 때 코막힘이 덜하다면 그 자세로 쉬어도 됩니다.
+6. **진통제** : 두통이나 안면 통증이 있을 때 처방·안내된 용량의 이부프로펜이나 타이레놀을 복용하십시오. 아스피린·소염진통제 복용 후 코막힘·천명·호흡곤란이 있었던 분은 이부프로펜을 임의로 복용하지 말고 의료진에게 알려 주십시오. 이런 분은 타이레놀을 포함한 진통제 선택도 의료진과 상의하십시오.
 {% endhint %}
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
@@ -638,5 +683,8 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
 * [건강보험심사평가원. 고시 제2026-159호 - 약제 급여기준(dupilumab).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801\&sno=1\&mtgMtrRegSno=0005) - CRSwNP 및 동반 질환별 급여 범위 확인
