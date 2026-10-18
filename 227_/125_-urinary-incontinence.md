@@ -38,16 +38,17 @@
 <mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
 
 * 새로 발생한 요폐/요실금이 **안장 마취(saddle anesthesia), 하지 위약, 변실금**과 동반 → 마미증후군(cauda equina syndrome) 의심, 즉시 응급 평가
-* 급성 요폐(완전 배뇨 불가) + 하복부 팽만·통증
+* 급성 요폐(완전 배뇨 불가) + 하복부 팽만·통증 또는 혈괴로 인한 요폐
+* 발열·빈맥·저혈압·의식 변화 등을 동반한 요로 패혈증 의심
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 감염과 무관한 육안적 혈뇨(여성의 경우 월경과의 감별 필요) → 악성종양 배제 위한 비뇨의학과 의뢰
+* 새로 발생한 육안적 혈뇨(여성은 월경과 감별; 감염 동반 시 치료 후 소실 여부 확인, 지속·재발 시 비뇨의학과 평가)
 * 배뇨 조절과 무관하게 지속적으로(중단 없이) 새는 유출, 특히 골반/전립선 방사선 치료·요실금 수술·광범위 골반 수술·자궁탈출증 병력이 있는 경우 → 누공(fistula) 의심
-* 새로 발생한 국소 신경학적 이상 소견(마미증후군 소견 제외)
+* 새 신경학적 이상을 동반한 배뇨 증상(급성 편측 마비·언어장애 등 뇌졸중 또는 급성 척수병변 소견은 즉각 조치)
 * 원인 미상의 갑작스런 발생, 복부/골반 통증 동반
 
-<mark style="color:$info;">**외래 추적 및 추가 평가**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 적절한 기간의 보존적 치료에도 반응이 불충분한 경우(예: SUI/MUI의 supervised PFMT ≥3개월, OAB/UUI의 방광훈련·약물치료 후 재평가)
 * 반복되는 요로 감염(EAU/AUA 기준 : ≥3회/12개월 또는 ≥2회/6개월), 특히 혈뇨·배뇨장애·고잔뇨 등이 동반되면 추가 평가
@@ -62,7 +63,7 @@
 
 ### <mark style="color:orange;">검사</mark>
 
-* 실험실 검사 : U/A, 배양 검사(선택); 신 기능, 혈당
+* 실험실 검사 : U/A를 기본으로 시행; 감염 의심 시 소변 배양. 신기능·혈당은 신질환·다뇨·당뇨병 등이 의심될 때 선택
 * 전립선 검사(남성)
 * 여성 골반 진찰 : 외음부·질 위축, 골반장기탈출증(POP), 골반저근육 수축력 평가; 필요 시 cough stress test
 * 신경학적 검사 : 감각 이상 진찰, 근 위축 진찰, foot dorsiflexion, foot plantarflexion, toe extension, anal reflex, bulbocavernosus reflex
@@ -83,7 +84,7 @@
 ⑤ 갑작스럽고 참기 힘든 요의 때문에 화장실에 도착하기 전에 소변이 조금이라도 샌다.\
 ⑥ 갑작스럽고 참기 힘든 요의 때문에 빨리 화장실에 가야 한다.
 
-▸▶판정 : 각 문항을 0\~5점(전혀=0 \~ 항상=5)으로 채점; Stress score(①+②+③) ≥4점 → 긴장 요실금 의심, Urge score(④+⑤+⑥) ≥6점 → 절박 요실금 의심. 두 기준 모두 충족하면 혼합형 가능성을 평가 [Bradley CS, et al. Neurourol Urodyn 2010]. 여성에서 개발·검증된 도구이며 문진·진찰을 대신하지 않음
+▸▶판정 : 각 문항을 0\~5점(전혀=0 \~ 항상=5)으로 채점; Stress score(①+②+③) ≥4점 → 긴장 요실금 의심, Urge score(④+⑤+⑥) ≥6점 → 절박 요실금 의심. 두 기준 모두 충족하면 혼합형 가능성을 평가 <mark style="color:$info;">[Bradley CS, et al. Neurourol Urodyn 2010]</mark>. 여성에서 개발·검증된 도구이며 문진·진찰을 대신하지 않음
 
 #### <mark style="color:$primary;">3 Incontinence Questions (3IQ)</mark>
 
@@ -112,7 +113,7 @@
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-* 진성 요실금과 감별이 필요한 상황 : 요도-질 누공 등에 의한 지속적(체위 무관) 유출, 야뇨증(nocturnal enuresis, 수면 중에만 발생), 빈뇨/절박감만 있고 실제 유출은 없는 순수 과민성 방광
+* 지속적 유출은 요도-질/방광-질 누공 등 요도 외 요실금을 감별. 수면 중 불수의적 유출인 야뇨증(nocturnal enuresis)도 요실금의 양상 중 하나로, 깨어 소변을 보는 야간뇨(nocturia)와 구별. 실제 유출 없이 빈뇨·절박감만 있으면 OAB dry를 고려
 * painful bladder syndrome, interstitial cystitis, 방광 종양, 방광 결석 : 요실금보다는 빈뇨·절박감·통증으로 발현하는 경우가 많으나 감별이 필요; Red Flags 항목(혈뇨, 반응 불량) 참고
 
 ***
@@ -158,7 +159,7 @@ graph TD
 ## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="info" %}
-**단계별 치료 전략**\
+**치료 선택과 공동 의사결정**\
 AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 환자의 선호·내약성을 고려한 **공동 의사결정(shared decision-making)**을 강조함. 행동 치료·물리 치료·약물 치료는 순차적이라기보다 병행 가능한 선택지로 접근
 {% endhint %}
 
@@ -189,15 +190,15 @@ AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 
 ### <mark style="color:orange;">방광 훈련, 물리 요법</mark>
 
 * 골반저근운동(PFMT)과 방광훈련은 서로 다른 중재임. 절박감이 왔을 때 안전한 범위에서 배뇨를 잠시 미루는 방법은 방광훈련에 해당하며, 요폐·고잔뇨가 의심되면 먼저 배뇨 상태를 평가
-* continence pessary : 요도·방광경부를 기계적으로 지지하여 복압 상승 시 요누출을 감소시킴; 긴장 요실금에서 비수술적 치료를 원하는 경우 고려
+* continence pessary : 여성에서 요도·방광경부를 기계적으로 지지하여 복압 상승 시 요누출을 감소시킴; 긴장 요실금에서 비수술적 치료를 원하는 경우 고려
 * 시간제 배뇨, 패턴 배뇨
 * 바이오피드백
-* 경피적 후경골신경 자극술(PTNS, percutaneous tibial nerve stimulation) : 절박 요실금의 최소침습 치료 옵션. 행동·약물 치료에 반응이 불충분하거나 부작용이 있는 경우뿐 아니라 환자 선호에 따라 약물치료 전에도 전문의와 상담 가능 [AUA/SUFU 2024]
+* 경피적 후경골신경 자극술(PTNS, percutaneous tibial nerve stimulation) : 절박 요실금의 최소침습 치료 옵션. 행동·약물 치료에 반응이 불충분하거나 부작용이 있는 경우뿐 아니라 환자 선호에 따라 약물치료 전에도 전문의와 상담 가능 <mark style="color:$info;">[AUA/SUFU 2024]</mark>
 
 ### <mark style="color:orange;">Kegel exercise (골반저 근육 운동, PFMT)</mark>
 
 * 적용 : 절박, 긴장, 혼합형 요실금
-* Supervised training(전문 인력의 지도하에 시행)이 자가 운동만 하는 경우보다 유의하게 효과가 크므로, 가능하면 물리치료사·전문 간호사의 지도를 받도록 권장
+* 정확한 골반저근 수축을 확인하고 Supervised training(전문 인력의 지도하에 시행)을 권장; 가능하면 물리치료사·전문 간호사의 지도를 받으며 최소 3개월 시행
 * 단계별 방법 :
   1. 올바른 근육 확인 : 방귀를 참거나 소변을 참는 느낌으로 항문·질·요도 주변을 안쪽·위쪽으로 조이는 근육을 확인; 처음에는 전문가의 지도하에 정확한 수축 여부를 확인하는 것이 바람직
   2. 수축 : 확인된 골반저근을 조여 10초간 유지(처음에는 3\~5초부터 시작해 점차 늘림); 복부·엉덩이·허벅지 근육은 힘을 주지 않고 골반저근만 사용
@@ -226,46 +227,47 @@ AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 
 
 * 약제별 국내 허가 용량과 신·간기능을 확인하고 시작 → 증상 완화, 환자 만족도, 부작용을 관찰하면서 조정 (☞ [전립선비대증](124_-benign-prostatic-hyperplasia-bph.md))
 * 보통 서방형 제제가 부작용이 적음
-* 6(4\~12)주 치료 후 효과 판단
+* 약물 시작·변경 후 4\~8주에 효과·부작용을 재평가; 충분한 이득이 없거나 부작용이 있으면 용량·계열·치료 방법 조정 <mark style="color:$info;">[AUA/SUFU 2024]</mark>
 
 ### <mark style="color:orange;">절박 요실금 (Urge incontinence)</mark>
 
-* 지속형 antimuscarinics 또는 β3-작용제로 시작 → 실패 시 증량, 다른 antimuscarinics로 교체, 또는 계열 간 병용 고려 [AUA/SUFU 2024]
+* 지속형 antimuscarinics 또는 β3-작용제로 시작 → 실패 시 증량, 다른 antimuscarinics로 교체, 또는 계열 간 병용 고려 <mark style="color:$info;">[AUA/SUFU 2024]</mark>
 
 #### <mark style="color:$primary;">Antimuscarinics</mark>
 
 * 작용 : 불수의적 배뇨근 수축을 억제하여 절박뇨·빈뇨·절박 요실금을 감소시킴; OAB/절박 요실금 및 절박 증상이 동반된 혼합형 요실금에 적용
 * 제제 간 효과 차이는 명확하지 않음
 * 부작용 : 입마름, 눈 마름, 두통, 변비, 빈맥, 시야 흐림, 졸음, 섬망/인지 변화(특히 고령자). 약제별 CYP 대사·상호작용 확인
-* 주의/금기 : 요폐/중증 방광출구폐색, 위장관 폐색 또는 심한 위장관 운동저하, 조절되지 않는 협우각녹내장; 신·간기능에 따른 용량조절 및 약제별 허가사항 확인 필요
+* 주의/금기 : 요폐·위장관 폐색/위정체 및 협우각·폐쇄각녹내장 여부를 확인. 녹내장 금기 범위는 성분별로 다르며, propiverine은 국내 허가상 폐쇄우각녹내장 금기; 조절되는 개방각녹내장은 일률적 금기가 아니며 안과 상담 및 성분별 허가사항에 따라 판단; 유의한 방광출구폐색·신/간기능 장애에서는 성분별로 사용 여부·용량을 결정
   * ✽고령자에서는 anticholinergic burden 누적에 따른 인지기능 저하 위험을 고려하여 β3-작용제를 우선 고려하거나 최소 유효 용량 사용
-* darifenacin : 7.5 qd / 15 qd (시작//최대 ㎎)
-* fesoterodine : 4 qd / 8 qd <mark style="color:blue;">\[토비애즈]</mark>
-* imidafenacin : 0.1 bid / 0.2 bid <mark style="color:blue;">\[유리토스]</mark>
-* oxybutynin : 2.5\~5 bid\~tid / 5 qid <mark style="color:blue;">\[디트로판]</mark>
-* propiverine : 20 qd / 20 bid <mark style="color:blue;">\[비유피-4]</mark>
-* solifenacin : 5 qd / 10 qd <mark style="color:blue;">\[베시케어]</mark>
+* fesoterodine : 4 ㎎ qd 시작 / 최대 8 ㎎ qd <mark style="color:blue;">\[토비애즈]</mark>
+* imidafenacin : 0.1 ㎎ bid 시작 / 최대 0.2 ㎎ bid <mark style="color:blue;">\[유리토스]</mark>
+* oxybutynin(속방형) : 통상 5 ㎎ bid\~tid, 최대 20 ㎎/일; 고령·취약 환자에서는 저용량 시작 또는 대안 약제 고려 <mark style="color:blue;">\[디트로판]</mark>
+* propiverine : 20 ㎎ qd 식후 시작; 효과 불충분하고 안전성에 문제가 없으면 20 ㎎ bid까지 <mark style="color:blue;">\[비유피-4]</mark>
+* solifenacin : 5 ㎎ qd 시작 / 최대 10 ㎎ qd <mark style="color:blue;">\[베시케어]</mark>
+  * CrCl ≤30 ㎖/min·Child-Pugh B 또는 강력한 CYP3A4 억제제 병용 시 최대 5 ㎎/일; 중증 신장애/중등도 간장애와 강력한 CYP3A4 억제제가 겹치면 병용 금기, 중증 간장애는 투여 금기 <mark style="color:$info;">[국내 허가사항]</mark>
 * tolterodine SR : 4 ㎎ qd가 통상 용량; 신·간기능 장애, 강력한 CYP3A4 억제제 병용 또는 이상반응 시 2 ㎎ qd로 감량 <mark style="color:blue;">\[디트루시톨SR캡슐]</mark>
 * trospium : 20 ㎎ bid가 국내 허가상 성인 용량; 연령·증상에 따라 조정 <mark style="color:blue;">\[스파스몰리트당의정]</mark>
 
 #### <mark style="color:$primary;">β3-작용제 (β3-adrenoceptor agonist)</mark>
 
 * 작용 : detrusor muscle에 대한 선택적 β3-수용체 자극 → smooth muscle 이완
-* antimuscarinics에 비해 입마름·인지기능 관련 부작용이 적어 고령자·다제약물 환자에서 선호; antimuscarinics와 병용 가능 [AUA/SUFU 2024]
+* antimuscarinics에 비해 입마름·인지기능 관련 부작용이 적어 고령자·다제약물 환자에서 선호; antimuscarinics와 병용 가능 <mark style="color:$info;">[AUA/SUFU 2024]</mark>
 * 부작용 : 빈맥, 요로감염
-* mirabegron : 국내 허가사항상 성인(노인 포함) 권장량 50 ㎎ qd. 중증 신장애·중등도 간장애 또는 일부 강력한 CYP3A 저해제 병용 상황에서는 25 ㎎ qd 등 용량 조절이 필요하므로 허가사항 확인; 효과 평가는 수 주에 걸쳐 시행. 조절되지 않는 중증 고혈압(수축기 ≥180 mmHg 또는 이완기 ≥110 mmHg)에서는 금기; 혈압 및 방광출구폐쇄/요폐 위험을 확인 <mark style="color:blue;">\[베타미가]</mark>
-* vibegron : 50 ㎎ qd, 식후 투여 (2022년 국내 허가, 2023년 비급여로 출시; 2026년 8월 기준 급여 미등재로 전액 본인부담); mirabegron 대비 상대적으로 혈압에 미치는 영향이 적음; 방광출구폐쇄 환자·항무스카린제 병용 시 소변 정체 위험 증가로 신중 투여, 신·간기능 장애 시 국내 허가사항 확인 필요 <mark style="color:blue;">\[베오바]</mark>
+* mirabegron : 국내 허가사항상 성인(노인 포함) 권장량 50 ㎎ qd. 중증 신장애·중등도 간장애 또는 일부 강력한 CYP3A 저해제 병용 상황에서는 25 ㎎ qd 등 용량 조절이 필요하므로 허가사항 확인; 효과 평가는 수 주에 걸쳐 시행. 조절되지 않는 중증 고혈압(수축기 ≥180 mmHg 또는 이완기 ≥110 mmHg)에서는 금기이며 심각한 심장질환도 국내 허가상 금기; 말기 신장질환(GFR ＜15 ㎖/min/1.73㎡ 또는 투석)·Child-Pugh C에서는 권장되지 않음. 혈압 및 방광출구폐쇄/요폐 위험을 확인 <mark style="color:blue;">\[베타미가]</mark>
+* vibegron : 50 ㎎ qd 식후 <mark style="color:blue;">\[베오바정]</mark>; 국내 허가 OAB 적응증 범위에서 급여 인정(2026년 9월 1일 시행). 심각한 심장질환·QT 연장·신장애·간장애·방광출구폐쇄에서는 신중 투여; 항무스카린제 병용 시에도 요폐 징후를 관찰. 해외 75 ㎎ 자료를 국내 50 ㎎ 용법과 혼동하지 않음 <mark style="color:$info;">[HIRA 2026; 국내 허가사항]</mark>
+* mirabegron 상호작용 : 중등도 CYP2D6 억제제로 flecainide·propafenone·일부 TCA 등 병용약의 노출을 높일 수 있음. digoxin 병용 시작 시 최저용량과 혈중농도 추적을 고려 <mark style="color:$info;">[국내 허가사항]</mark>
 
 ### <mark style="color:orange;">긴장 요실금 (Stress incontinence)</mark>
 
-* PFMT(최소 3개월) 및 continence pessary가 1차 치료; ✽긴장 요실금 자체에 대해 FDA 승인된 약물은 없음
-* SNRI : duloxetine - 국내 SUI 적응증 허가 외 사용. 증상 감소 효과는 있으나 완치율이 낮고 오심·어지럼 등 부작용 및 치료 중단률이 높아 1차 치료로 사용하지 않음. 수술을 원하지 않거나 적합하지 않고 약물치료를 원하는 경우에 한해 전문의와 상의; 사용 시 저용량에서 시작하여 서서히 증량·감량. 국내 원개발품 심발타는 2026년 7월 품목허가 취하됨
+* PFMT(최소 3개월)가 1차 치료이며 여성은 continence pessary도 고려; ✽긴장 요실금 자체에 대해 FDA 승인된 약물은 없음
+* SNRI : duloxetine - 국내 SUI 적응증 허가 외 사용. 증상 감소 효과는 있으나 완치율이 낮고 오심·어지럼 등 부작용 및 치료 중단률이 높아 1차 치료로 사용하지 않음. 수술을 원하지 않거나 적합하지 않고 약물치료를 원하는 경우에 한해 전문의와 상의; 사용 시 저용량에서 시작하여 서서히 증량·감량.
 
 ### <mark style="color:orange;">혼합형 요실금 (Mixed incontinence)</mark>
 
 * 주된 증상(절박 vs 긴장)에 따라 우선 치료 방향 결정
 * 절박 요소 : antimuscarinics 또는 β3-작용제
-* 긴장 요소 : PFMT, continence pessary
+* 긴장 요소 : PFMT, 여성에서 continence pessary
 
 ### <mark style="color:orange;">범람 요실금 (Overflow incontinence)</mark>
 
@@ -289,10 +291,10 @@ AUA/SUFU 과민성방광 가이드라인(2024)은 단계적(step) 치료 대신 
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-* 국소 vaginal estrogen : GSM/질 위축이 동반된 폐경 여성에서 고려; 요로·질 증상 및 일부 요실금 증상 개선에 도움이 될 수 있음 [EAU 2025]. 전신(systemic) estrogen은 요실금을 개선하지 않으며 오히려 악화시킬 수 있어 요실금 치료 목적으로 사용하지 않음
-* 간헐적 도뇨를 우선 고려; 유치 도뇨관은 적응증과 감염·요도손상 위험을 따져 필요한 기간에 한하여 사용
+* 국소 vaginal estrogen : GSM/질 위축이 동반된 폐경 여성에서 고려; 요로·질 증상 및 일부 요실금 증상 개선에 도움이 될 수 있음 <mark style="color:$info;">[EAU 2025]</mark>. 전신(systemic) estrogen은 요실금을 개선하지 않으며 오히려 악화시킬 수 있어 요실금 치료 목적으로 사용하지 않음
+* 요폐·배출 장애로 도뇨가 필요한 환자에서는 간헐적 도뇨를 우선 고려; 유치 도뇨관은 적응증과 감염·요도손상 위험을 따져 사용. 요실금 자체만을 이유로 일률적으로 도뇨하지 않음
 * bladder neck suspension 또는 suburethral sling : 긴장형 요실금에 적용
-* sacral neuromodulation, onabotulinumtoxinA 배뇨근 내 주사 : 절박 요실금에서 치료 부담·선호에 따라 전문의와 상의. onabotulinumtoxinA 주사 전 PVR을 확인하고 요폐·요로감염 위험과 필요 시 간헐적 자가도뇨 가능성을 상담
+* sacral neuromodulation, onabotulinumtoxinA 배뇨근 내 주사 : 절박 요실금에서 치료 부담·선호에 따라 전문의와 상의. 보톡스의 국내 OAB 적응증은 **18세 이상에서 항콜린제 치료가 어렵거나 적절히 조절되지 않는 경우**임. 주사 전 PVR·요로감염 여부 및 필요 시 간헐적 자가도뇨 가능성을 평가(☞ 과민성 방광 챕터) <mark style="color:$info;">[국내 보톡스 허가사항]</mark>
 
 ***
 
@@ -318,7 +320,7 @@ R32 상세불명의 요실금 Unspecified urinary incontinence
 > 베시케어정 5 ㎎/T   1T   qd
 > ```
 >
-> _✽1차 선택 antimuscarinic; 4\~6주 후 효과 및 입마름·변비 등 부작용 평가 후 필요시 10 mg으로 증량_
+> _✽1차 선택 antimuscarinic; 4\~6주 후 효과 및 입마름·변비 등 부작용 평가 후 필요시 10 ㎎으로 증량; CrCl ≤30 ㎖/min·Child-Pugh B·강력한 CYP3A4 억제제 병용 시 5 ㎎/일 상한 및 병용 금기 확인_
 
 > **처방례 2. 절박 요실금, 고령자 또는 인지저하 위험군**
 >
@@ -335,13 +337,13 @@ R32 상세불명의 요실금 Unspecified urinary incontinence
 > continence pessary 고려 (비수술적 지지 치료를 원하는 경우)
 > ```
 >
-> _✽긴장 요실금은 PFMT·continence pessary가 1차 치료이며 FDA 승인 약물은 없음; 최소 3개월의 적절한 PFMT에도 증상이 지속되고 치료를 원하는 경우 전문의 의뢰 및 수술적 치료 고려_
+> _✽긴장 요실금은 PFMT가 1차 치료이며 여성은 continence pessary도 고려; FDA 승인 약물은 없음; 최소 3개월의 적절한 PFMT에도 증상이 지속되고 치료를 원하는 경우 전문의 의뢰 및 수술적 치료 고려_
 
 > **처방례 4. 범람 요실금(BPH 동반 남성)**
 >
 > ```
 > 요폐·고잔뇨 확인 시 우선 방광 배출 확보 및 원인 평가
-> 하루날디정 0.2 ㎎/T   1T   qd (BPH에 의한 방광출구폐쇄 확인 시)
+> 하루날디정 0.2 ㎎/T   1T   qd 식후 (BPH에 의한 방광출구폐쇄가 원인으로 판단될 때)
 > 전립선 비대·진행 위험이 확인되면 아보다트연질캡슐 0.5 ㎎/C   1C   qd 병용 고려
 > ```
 >
@@ -354,7 +356,7 @@ R32 상세불명의 요실금 Unspecified urinary incontinence
 > 지도하 골반저근운동(PFMT) 및 방광훈련 병행
 > ```
 >
-> _✽주된 증상(절박 vs 긴장)에 따라 우선 치료 방향을 정하되, 약물(절박 요소) + 행동 치료(긴장 요소)를 함께 진행_
+> _✽주된 증상(절박 vs 긴장)에 따라 우선 치료 방향을 정하되, 약물(절박 요소) + 행동 치료(긴장·절박 요소)를 함께 진행_
 
 ***
 
@@ -362,15 +364,15 @@ R32 상세불명의 요실금 Unspecified urinary incontinence
 
 > **Antimuscarinics 복약 지도**
 >
-> * 효과는 서서히 나타나며 4\~6주(최대 12주) 복용 후 판정합니다.
+> * 약물 시작·변경 후 4\~8주에 효과와 부작용을 평가합니다. 부작용이 있으면 그 전에 상담합니다.
 > * 서방형 제제가 속효형보다 입마름 등 부작용이 적으므로 우선 선택합니다.
 > * 고령 환자, 특히 여러 약을 함께 복용 중이거나 인지기능 저하가 있는 경우 항콜린 부담이 누적되어 혼동·기억력 저하로 이어질 수 있어 정기적 재평가가 필요합니다.
-> * 조절되지 않는 녹내장, 중증 위장관/요로 폐색이 있으면 사용하지 않습니다.
+> * 요폐·위장관 폐색/위정체 및 협우각·폐쇄각녹내장 등 성분별 금기를 확인합니다. 녹내장이 있으면 종류와 치료 상태를 알려주십시오.
 
 > **β3-작용제 복약 지도**
 >
 > * mirabegron은 효과를 수 주에 걸쳐 평가합니다. 국내 허가상 성인·노인 권장량은 50 ㎎ 1일 1회이며, 신·간기능 장애 및 병용약에 따라 감량이 필요할 수 있습니다. 고혈압 환자는 치료 전·치료 중 혈압을 확인합니다.
-> * vibegron은 혈압에 미치는 영향이 상대적으로 적습니다.
+> * vibegron은 국내 50 ㎎ 1일 1회 식후 용법을 따릅니다. mirabegron과 같은 중증 고혈압 금기는 없으나 심장질환·QT 연장·배출 장애가 있으면 신중히 사용합니다.
 
 > **Duloxetine 복약 지도**
 >
@@ -384,7 +386,7 @@ R32 상세불명의 요실금 Unspecified urinary incontinence
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 적절한 기간의 치료(SUI/MUI는 지도하 PFMT 최소 3개월, OAB/UUI는 방광훈련 최소 6주 및 선택한 치료의 효과 평가)에도 증상이 호전되지 않는 경우
-> * 감염과 무관한 **혈뇨**가 발생한 경우 - 조기 내원
+> * 눈으로 보이는 **혈뇨**가 새로 발생한 경우 - 당일 연락하거나 내원; 혈괴 때문에 소변을 볼 수 없으면 즉시 응급 진료
 > * 갑작스런 **배뇨 곤란/요폐**, 하지 위약, 회음부 감각 저하가 동반되는 경우 - 즉시 내원
 > * 약물 복용 중 심한 입마름·변비·인지 변화 등 부작용이 발생한 경우
 
@@ -430,12 +432,19 @@ R32 상세불명의 요실금 Unspecified urinary incontinence
 
 ***
 
-## 참고문헌
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * American Urological Association/SUFU. [The AUA/SUFU Guideline on the Diagnosis and Treatment of Idiopathic Overactive Bladder](https://www.auanet.org/guidelines-and-quality/guidelines/idiopathic-overactive-bladder). 2024.
 * NICE. [Urinary incontinence and pelvic organ prolapse in women: management (NG123)](https://www.nice.org.uk/guidance/ng123/chapter/recommendations). 2019.
 * NICE. [Lower urinary tract symptoms in men: management (CG97)](https://www.nice.org.uk/guidance/cg97/chapter/recommendations). 2010.
-* Bradley CS, et al. [The Questionnaire for Urinary Incontinence Diagnosis (QUID): validity and responsiveness to change](https://pubmed.ncbi.nlm.nih.gov/19787711/). Neurourol Urodyn. 2010;29:727–734.
+* Bradley CS, et al. [The Questionnaire for Urinary Incontinence Diagnosis (QUID): validity and responsiveness to change in women undergoing non-surgical therapies for treatment of stress predominant urinary incontinence](https://pubmed.ncbi.nlm.nih.gov/19787711/). Neurourol Urodyn. 2010;29:727–734.
 * Brown JS, et al. [The sensitivity and specificity of a simple test to distinguish between urge and stress urinary incontinence (3IQ)](https://pubmed.ncbi.nlm.nih.gov/16702587/). Ann Intern Med. 2006.
-* Basra R, et al. [Design and validation of the Bladder Control Self-Assessment Questionnaire (B-SAQ)](https://pubmed.ncbi.nlm.nih.gov/17129667/). Eur Urol. 2007.
-* 국내 의약품 허가정보: [베타미가서방정25㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2014010200016), [베오바정50㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2022110100005), [디트루시톨SR캡슐4㎎](https://health.kr/searchDrug/result_take.asp?drug_cd=A11AOOOOO3053), [스파스몰리트당의정](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A1310A0221). 처방 전 해당 제품의 최신 허가사항 확인
+* Basra R, et al. [Design and validation of a new screening instrument for lower urinary tract dysfunction: the bladder control self-assessment questionnaire (B-SAQ)](https://pubmed.ncbi.nlm.nih.gov/17129667/). Eur Urol. 2007.
+* European Association of Urology. [Guidelines on the Management of Non-neurogenic Male LUTS](https://uroweb.org/guidelines/management-of-non-neurogenic-male-luts). 2026.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라 — 의약품 품목허가정보](https://nedrug.mfds.go.kr/index). 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
+* 건강보험심사평가원. [Vibegron 경구제 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260901&mtgMtrRegSno=0005&sno=2). 고시 제2026-176호; 2026년 9월 1일 시행.
