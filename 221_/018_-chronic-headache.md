@@ -32,19 +32,23 @@ flowchart TD
     B -- "아니오" --> D["급성기/대증 두통약<br/>과용 기준 충족?"]
     D -- "예" --> E["MOH 진단<br/>기저 원발두통도 함께 평가"]
     D -- "아니오" --> F["시작 시점 명확 +<br/>24시간 이내 지속<br/>·중단 없는 두통?"]
-    E --> E1["매일두통 시작이<br/>약물과용보다 명확히 선행?"]
-    E1 -- "예" --> G["NDPH + MOH 병존 진단<br/>2차 원인 배제"]
+    E --> E1["시작 시점 명확·24시간 이내 지속<br/>+ 매일두통이 약물과용보다 선행?"]
+    E1 -- "예" --> H2["항상 편측 지속통 +<br/>동측 자율신경 증상/초조?"]
+    H2 -- "예" --> I
+    H2 -- "아니오" --> G["NDPH + MOH 병존 진단<br/>2차 원인 배제"]
     E1 -- "아니오" --> H["항상 편측 지속통 +<br/>동측 자율신경 증상/초조?"]
-    F -- "예" --> G1["NDPH 고려<br/>2차 원인 배제"]
+    F -- "예" --> H3["항상 편측 지속통 +<br/>동측 자율신경 증상/초조?"]
+    H3 -- "예" --> I
+    H3 -- "아니오" --> G1["NDPH 고려<br/>2차 원인 배제"]
     F -- "아니오" --> H
     H -- "예" --> I["Hemicrania continua 고려<br/>indomethacin 완전반응 확인"]
     H -- "아니오" --> J["수면 중에만 발생하여<br/>잠에서 깨게 함?"]
     J -- "예" --> K["Hypnic headache 고려<br/>이차성 야간두통 원인 확인"]
     J -- "아니오" --> L["Chronic migraine vs<br/>Chronic tension-type <br/>headache"]
 
-    style A fill:#eceff1,stroke:#455a64,stroke-width:2px
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,D,F,E1,H,J yellow
+class B,D,F,E1,H,H2,H3,J yellow
 
     style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
     style E fill:#ffe0b2,stroke:#ef6c00,stroke-width:2px
@@ -164,7 +168,7 @@ F. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1,2)</sup>
 
 * 기존 두통질환이 있는 환자에서 ≥15일/월 두통이 있으면서, 급성기·대증 치료 약제를 ＞3개월 동안 다음 기준 이상 과용하면 약물과용두통을 고려
   * 다음 약제를 한 달에 ≥10일 복용 : triptan, opioid, ergotamine, 복합진통제
-  * 다음 약제를 한 달에 ≥15일 복용: acetaminophen, aspirin, NSAID 등 단순진통제
+  * 다음 약제를 한 달에 ≥15일 복용 : acetaminophen, aspirin, NSAID 등 단순진통제
   * 한 달에 합계 ≥10일 : 여러 약물군을 번갈아 사용하여 개별 약물군은 과용 기준에 미달하더라도 전체 급성기·대증 약물 사용일수가 기준을 충족하는 경우
 * MOH는 기저 두통질환을 대체하는 개념이 아니며, 만성 편두통·긴장형두통 등과 각각의 기준을 충족하면 함께 진단
 
@@ -184,7 +188,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:orange;">치료 방침</mark>
+### <mark style="color:orange;">치료 원칙</mark>
 
 * 생활 치료 : 수면 개선, 규칙적 유산소 운동, 스트레스 관리, 두통 일지 작성
 * 유발 요인 제거, 만성 편두통 또는 만성 긴장형두통 치료
@@ -265,21 +269,21 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 * MOH 동반 편두통에서도 예방치료를 제공하며, 근거가 있는 CGRP 단클론항체, atogepant, onabotulinumtoxinA, topiramate를 우선 고려 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
 * 단, 국내 실제 사용 순서는 각 성분의 허가사항과 보험 급여 기준에 따라 달라질 수 있음
 
-<table><thead><tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 국내 현황</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제 (SC)</td><td>Galcanezumab <mark style="color:blue;">[앰겔러티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎); 기준 충족 시 급여</td></tr><tr><td>Fremanezumab <mark style="color:blue;">[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC; 기준 충족 시 급여</td></tr><tr><td>Erenumab (Aimovig)</td><td>70~140 ㎎/월 SC; <em>국내 미도입</em></td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab <mark style="color:blue;">[바이엡티]</mark></td><td>100 ㎎/12주 IV, 일부 환자 300 ㎎/12주; <em>2026년 5월 국내 허가, 출시·급여 여부 최신 확인</em></td></tr><tr><td rowspan="2">경구용 Gepant¹⁾</td><td>Rimegepant <mark style="color:blue;">[너텍구강붕해정]</mark></td><td>75 ㎎; 급성기 치료 + 삽화성 편두통 예방(격일 복용); 만성 편두통 예방 적응증 없음; 2026년 9월 국내 출시, 비급여</td></tr><tr><td>Atogepant <mark style="color:blue;">[아큅타]</mark></td><td>60 ㎎ qd; 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd; 삽화성·만성 편두통 예방; 비급여</td></tr></tbody></table>
+<table><thead><tr><th width="142">구분</th><th width="223">성분명 [상품명]</th><th>용법 · 국내 현황</th></tr></thead><tbody><tr><td rowspan="3">항체 주사제 (SC)</td><td>Galcanezumab <mark style="color:blue;">[앰겔러티]</mark></td><td>120 ㎎/월 SC (초회 240 ㎎); 기준 충족 시 급여</td></tr><tr><td>Fremanezumab <mark style="color:blue;">[아조비]</mark></td><td>225 ㎎/월 or 675 ㎎/분기 SC; 기준 충족 시 급여</td></tr><tr><td>Erenumab (Aimovig)</td><td>70~140 ㎎/월 SC; <em>국내 미도입</em></td></tr><tr><td>항체 주사제 (IV)</td><td>Eptinezumab <mark style="color:blue;">[바이엡티]</mark></td><td>100 ㎎/12주 IV, 일부 환자 300 ㎎/12주; <em>2026년 5월 국내 허가, 출시·급여 여부 최신 확인</em></td></tr><tr><td rowspan="2">경구용 Gepant¹⁾</td><td>Rimegepant <mark style="color:blue;">[너텍]</mark></td><td>75 ㎎; 급성기 치료 + 삽화성 편두통 예방(격일 복용); 만성 편두통 예방 적응증 없음; 2026년 9월 국내 출시, 비급여</td></tr><tr><td>Atogepant <mark style="color:blue;">[아큅타]</mark></td><td>60 ㎎ qd; 강력한 CYP3A4 억제제·OATP 억제제 병용 또는 중증 신장애·ESRD 시 10 ㎎ qd; 삽화성·만성 편두통 예방; 비급여</td></tr></tbody></table>
 
 > ¹⁾_Gepant는 현재까지 기존 단순진통제·triptan과 같은 MOH 유발 신호가 확립되지 않았으나 장기 자료는 제한적임. 기존 진통제·triptan 과용 환자에서 유용할 수 있음_
 >
-> ※ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701\&sno=4\&mtgMtrRegSno=0005) : galcanezumab·fremanezumab은 ICHD-3에 부합하는 만 18세 이상 만성 편두통 환자 중 ① 최소 1년 이상 편두통 병력 및 투여 전 최소 6개월간 월 두통일수 ≥15일(그중 편두통형 두통 ≥8일), ② MIDAS ≥21점 또는 HIT-6 ≥60점, ③ 3종 이상의 편두통 예방약 치료 실패(각 약제를 최대 내약 용량으로 8주 이상 투여해도 월 편두통일수가 50% 이상 감소하지 않았거나, 부작용 또는 금기로 사용할 수 없는 경우)를 모두 충족할 때 급여 인정. 투여 후 3개월마다 반응을 평가하며 월 편두통일수가 기저치 대비 50% 이상 감소한 경우 지속 투여를 인정하고 최대 투여기간은 12개월. 경구 gepant는 비급여. 급여 기준은 변경될 수 있으므로 최신 HIRA 고시 확인
+> ※ [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701\&sno=4\&mtgMtrRegSno=0005) : galcanezumab·fremanezumab은 ICHD-3에 부합하는 만 18세 이상 만성 편두통 환자 중 ① 최소 1년 이상 편두통 병력 및 투여 전 최소 6개월간 월 두통일수 ≥15일(그중 편두통형 두통 ≥8일), ② MIDAS ≥21점 또는 HIT-6 ≥60점, ③ topiramate, divalproex, amitriptyline, flunarizine, propranolol 또는 nadolol 중 3종 이상의 편두통 예방약 치료 실패(각 약제를 최대 내약 용량으로 8주 이상 투여해도 월 편두통일수가 50% 이상 감소하지 않았거나, 부작용 또는 금기로 사용할 수 없는 경우)를 모두 충족할 때 급여 인정. 투여 후 3개월마다 반응을 평가하며 월 편두통일수가 기저치 대비 50% 이상 감소한 경우 지속 투여를 인정하고 최대 급여 인정기간은 12개월. 경구 gepant는 비급여. 급여 기준은 변경될 수 있으므로 최신 HIRA 고시 확인
 
 ***
 
 ## <mark style="color:red;">질병코드</mark>
 
-* G44.2 긴장형두통
-* G44.3 만성 외상후 두통
-* G44.4 달리 분류되지 않은 약물유발 두통
-* G44.8 기타 명시된 두통증후군
-* G93.2 양성 두개내고혈압/특발성 두개내고혈압
+* G44.2 긴장형두통 Tension-type headache
+* G44.3 만성 외상후 두통 Chronic post-traumatic headache
+* G44.4 달리 분류되지 않은 약물유발 두통 Drug-induced headache, NEC
+* G44.8 기타 명시된 두통증후군 Other specified headache syndromes
+* G93.2 양성 두개내고혈압/특발성 두개내고혈압 Benign intracranial hypertension
 * 편두통(G43 계열)은 별도 편두통 챕터의 질병코드 참조
 
 ***
@@ -385,7 +389,7 @@ C. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
 #### <mark style="color:$primary;">만성 두통이란 무엇인가요?</mark>
 
-* 한 달에 15일 이상, ＞3개월 두통이 지속되는 상태입니다.
+* 한 달에 15일 이상 두통이 3개월 넘게 지속되는 상태입니다.
 * 만성 편두통, 만성 긴장형두통, 약물과용두통 등 다양한 형태가 있습니다.
 
 #### <mark style="color:$primary;">약물과용두통이란 무엇인가요?</mark>

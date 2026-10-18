@@ -6,33 +6,33 @@
   * 전형적으로 편측성·박동성의 중등도-중증 통증이 4\~72시간 지속되며 구역·구토, 빛공포증·소리공포증을 동반; 환자의 약 20\~30%(1/4\~1/3)에서 시각·감각 등의 조짐(aura)이 선행
   * 두통이 ＞3개월, ≥15일/월(그중 ≥8일/월 편두통 특징) 지속되면 만성 편두통으로 구분
 * 편두통은 전 세계 질병부담연구에서 장애생존연수(years lived with disability, YLD) 기준 주요 원인 중 하나로, 1차 진료에서 저평가·저치료되는 경향이 있음
-* 국내 1년 유병률 : 5\~6% - 2009 Korean Headache Survey 6.1%(여성 9.2%, 남성 2.9%), 2018 Korean Sleep-Headache Survey 5.2%; 여성에서 약 3배 흔함 (Kim et al., J Clin Neurol 2012; Kim et al., J Clin Neurol 2021)
+* 국내 1년 유병률 : 5\~6% - 2009 Korean Headache Survey 6.1%(여성 9.2%, 남성 2.9%), 2018 Korean Sleep-Headache Survey 5.2%; 여성에서 약 3배 흔함 <mark style="color:$info;">\[J Clin Neurol 2012; J Clin Neurol 2021]</mark>
 * 1년에 1회\~1주에 수회 빈도로 재발
 * 연령이 증가하면서 강도와 빈도가 감소할 수 있음
 
 ### <mark style="color:orange;">분류 </mark><mark style="color:$info;">\[ICHD-3]</mark>
 
-1. Migraine without aura
-2. Migraine with aura
-   * 2.1 Migraine with typical aura
-     * 2.1.1 Migraine with typical aura with headache
-     * 2.1.2 Migraine with typical aura without headache
-   * 2.2 Migraine with brainstem aura
-   * 2.3 Hemiplegic migraine
-     * 2.3.1 Familial hemiplegic migraine
-     * 2.3.2 Sporadic hemiplegic migraine
-   * 2.4 Retinal migraine
-3. Chronic migraine
-4. Complications of migraine
-5. Probable migraine
-6. Episodic syndromes that may be associated with migraine
-   * 6.1 Recurrent gastrointestinal disturbance
-     * 6.1.1 Cyclical vomiting syndrome
-     * 6.1.2 Abdominal migraine
-   * 6.2 Benign paroxysmal vertigo
-   * 6.3 Benign paroxysmal torticollis
+1. 1.1 Migraine without aura
+2. 1.2 Migraine with aura
+   * 1.2.1 Migraine with typical aura
+     * 1.2.1.1 Typical aura with headache
+     * 1.2.1.2 Typical aura without headache
+   * 1.2.2 Migraine with brainstem aura
+   * 1.2.3 Hemiplegic migraine
+     * 1.2.3.1 Familial hemiplegic migraine
+     * 1.2.3.2 Sporadic hemiplegic migraine
+   * 1.2.4 Retinal migraine
+3. 1.3 Chronic migraine
+4. 1.4 Complications of migraine
+5. 1.5 Probable migraine
+6. 1.6 Episodic syndromes that may be associated with migraine
+   * 1.6.1 Recurrent gastrointestinal disturbance
+     * 1.6.1.1 Cyclic vomiting syndrome
+     * 1.6.1.2 Abdominal migraine
+   * 1.6.2 Benign paroxysmal vertigo
+   * 1.6.3 Benign paroxysmal torticollis
 
-* 월경 관련 편두통(Menstrual migraine) : 월경 시작일을 day 1로 할 때 day -2\~+3에 최소 3주기 중 2주기 이상 발생
+* 월경 관련 편두통(Menstrual migraine; ICHD-3 부록 진단) : 월경 시작일을 day 1로 할 때 day -2\~+3에 최소 3주기 중 2주기 이상 발생
   * 순수 월경편두통(pure menstrual migraine) : 이 기간에만 편두통이 발생
   * 월경 관련 편두통(menstrually-related migraine) : 이 기간 외에도 편두통이 발생
 * Status migrainosus : ＞72시간 지속되는 심한 편두통
@@ -83,26 +83,27 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-* 일반적인 두통의 경고 징후(SNOOP 등)는 [두통 Red Flags 참조](015_-headache.md#red-flags); 아래는 편두통에 특이적인 위험 신호
+* 일반적인 두통의 경고 징후(SNNOOP10)는 [두통 Red Flags 참조](015_-headache.md#red-flags); 아래는 편두통에 특이적인 위험 신호
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 새로 발생한 운동 조짐(편마비 등) 또는 기존보다 악화된 운동 조짐 `뇌졸중` `hemiplegic migraine`
-* 비운동성 조짐이 60분 이상 지속되거나 갑작스러운 음성 신경학적 증상(감각 소실, 실어증 등) 동반 `뇌졸중` `TIA`
-* 처음 발생한 구음장애, 현훈, 이명, 청력저하, 복시, 운동실조, 의식저하 등 뇌간 증상 (뇌졸중 배제 전까지) `뇌졸중` `뇌간조짐`
+* 새로 발생한 운동 조짐(편마비 등) 또는 기존보다 악화된 운동 조짐  `뇌졸중` `hemiplegic migraine`
+* 단일 비운동성 조짐 증상이 60분을 초과하여 지속  `뇌졸중` `TIA`
+* 갑작스럽게 발생한 음성 신경학적 증상(감각 소실·마비·실어증 등) 또는 완전히 회복되지 않는 결손 - 지속시간과 무관  `뇌졸중` `TIA`
+* 처음 발생한 구음장애, 현훈, 이명, 청력저하, 복시, 운동실조, 의식저하 등 뇌간 증상 (뇌졸중 배제 전까지)  `뇌졸중` `뇌간조짐`
 * Status migrainosus(72시간 이상 지속) 중 탈수·전해질 불균형 동반
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 평소와 확연히 다른 두통 양상 또는 급격한 악화
 * 새로 발생하거나 평소와 다른 양상의 조짐
-* 이미 진단된 뇌간조짐편두통 또는 반신마비편두통의 전형적·반복적 발작 패턴 `뇌간조짐` `반신마비편두통`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 적절한 급성기·예방 치료에도 반응이 미흡
 * 두통 빈도 증가로 약물과용두통(MOH) 위험이 있음
 * 만성 편두통으로 진행
+* 이미 진단된 뇌간조짐편두통·반신마비편두통 환자의 발작 빈도 증가 또는 치료 반응 변화  `뇌간조짐` `반신마비편두통`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -111,7 +112,7 @@
 * 영상검사 : 일률적인 영상검사는 권고하지 않음; 경고 징후에 해당되는 경우 고려
 * 설문지 작성 : 통증의 수준과 장애 정도 및 치료 경과 파악
   * MIDAS(Migraine Disability Assessment Test, 편두통 장애 평가 검사)
-    * 지난 3개월 동안 두통으로 인해 학교·직장, 가사, 가족·사회·여가 활동에서 상실되거나 생산성이 절반 이하로 감소한 일수를 합산하는 5문항 자가평가 도구 (☞ [MIDAS 영문서식](https://headaches.org/wp-content/uploads/midas.pdf),[한국인 연구](https://www.jkna.org/upload/pdf/200003005.pdf))
+    * 지난 3개월 동안 두통으로 인해 학교·직장, 가사, 가족·사회·여가 활동에서 상실되거나 생산성이 절반 이하로 감소한 일수를 합산하는 5문항 자가평가 도구 (☞ [MIDAS 영문서식](https://headaches.org/wp-content/uploads/midas.pdf), [한국인 연구](https://www.jkna.org/upload/pdf/200003005.pdf))
     * 판정 : 0\~5점(MIDAS Ⅰ)=장애가 없거나 미약; 6\~10점(MIDAS Ⅱ)=경도 장애; 11\~20점(MIDAS Ⅲ)=중등도 장애; ≥21점(MIDAS Ⅳ)=중증 장애
 * 편두통 vs [긴장형두통](017_-tension-type-headache.md) 감별
 
@@ -135,8 +136,8 @@ D. 두통이 있는 동안 다음 중 ≥1가지 해당
 
 E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
-> _¹⁾무조짐편두통의 모든 진단 기준을 충족하지만 ＜5번의 발작만 있었으면 개연무조짐편두통(Probable migraine without aura)으로 분류_\
-> _&#xB2;⁾편두통 상태에서 잠이 들었다가 잠에서 깰 때 두통이 없었다면 깨어날 때까지의 시간을 발작 시간으로 간주_
+> ¹⁾_무조짐편두통의 모든 진단 기준을 충족하지만 ＜5번의 발작만 있었으면 개연무조짐편두통(Probable migraine without aura)으로 분류_\
+> ²⁾_편두통 상태에서 잠이 들었다가 잠에서 깰 때 두통이 없었다면 깨어날 때까지의 시간을 발작 시간으로 간주_
 
 #### <mark style="color:$primary;">Migraine with aura (조짐 편두통)</mark>
 
@@ -162,9 +163,9 @@ C. 다음의 여섯 가지 특징 중 ≥3가지 해당
 
 D. 다른 ICHD-3 진단으로 더 잘 설명되지 않음
 
-> _¹⁾예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
-> _&#xB2;⁾실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
-> _&#xB3;⁾섬광암점과 따끔거림은 조짐의 양성 증상임_
+> ¹⁾_예: 한 번의 조짐 동안 3가지 증상이 생길 때 최대 허용 시간은 3×60분; 운동 증상은 72시간까지 지속 가능_\
+> ²⁾_실어증은 항상 편측 증상으로 간주함; 구음장애는 때에 따라 다름_\
+> ³⁾_섬광암점과 따끔거림은 조짐의 양성 증상임_
 
 #### <mark style="color:$primary;">Chronic migraine (만성 편두통)</mark>
 
@@ -186,7 +187,7 @@ D. 다른 ICHD-3 진단 기준에 더 부합하지 않음
 flowchart TD
     A["반복성 두통 환자"] --> B["Red flags 또는 <br/>비전형적 신경학적 소견?"]
     B -- "Yes" --> C["2차성 두통 평가<br/>응급평가·영상검사·의뢰"]
-    B -- "No" --> D["4–72시간 지속 + 다음 중 ≥2<br/>·편측성/박동성/중등도–중증<br/>/일상 활동으로 악화"]
+    B -- "No" --> D["4~72시간 지속 + 다음 중 ≥2<br/>·편측성/박동성/중등도~중증<br/>/일상 활동으로 악화"]
     D -- "No" --> E["긴장형두통 등 <br/>다른 두통 재평가"]
     D -- "Yes" --> F["구역·구토 또는<br/>빛공포증 + 소리공포증?"]
     F -- "No" --> E
@@ -227,13 +228,13 @@ flowchart TD
 
 * 유사한 양상으로 내원할 수 있는 질환, 특히 놓치면 위험한 이차성 두통과의 감별이 중요
 
-<table><thead><tr><th width="145">질환</th><th>편두통과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>긴장형두통</td><td>양측성·압박성, 일상 활동에 의한 악화 없음, 구역/구토 드묾</td><td>통증 강도 경함, 오심 동반 적음</td></tr><tr><td>군발두통</td><td>편측 안와/측두부 극심한 통증, 자율신경 증상(눈물, 코막힘) 동반, 15~180분의 짧은 발작</td><td>발작이 훨씬 짧고 반복적(1일 수회), 초조·안절부절 양상</td></tr><tr><td>지주막하출혈(SAH)</td><td>돌발적 "벼락두통"(thunderclap), 생애 최악의 두통</td><td>수 초~수 분 내 최고 강도 도달 → 즉시 영상 검사</td></tr><tr><td>거대세포동맥염(GCA)</td><td>새로 발생한 두통(주로 ≥50세), 측두동맥 압통, 턱파행</td><td>ESR/CRP 상승, 시력 저하 위험 → 즉시 스테로이드 및 안과/류마티스내과 의뢰</td></tr><tr><td>뇌졸중 / TIA</td><td>국소 신경학적 결손이 조짐과 유사하게 나타날 수 있음</td><td>비운동성 조짐 ≥60분 지속, 음성 신경학적 증상, 새로 발생한 운동 조짐 → 영상 검사</td></tr><tr><td>약물과용두통(MOH)</td><td>기존 편두통 환자에서 두통이 매일 또는 거의 매일 발생</td><td>진통제·트립탄 사용일수 증가 병력</td></tr></tbody></table>
+<table><thead><tr><th width="145">질환</th><th>편두통과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>긴장형두통</td><td>양측성·압박성, 일상 활동에 의한 악화 없음, 구역/구토 드묾</td><td>통증 강도 경함, 오심 동반 적음</td></tr><tr><td>군발두통</td><td>편측 안와/측두부 극심한 통증, 자율신경 증상(눈물, 코막힘) 동반, 15~180분의 짧은 발작</td><td>발작이 훨씬 짧고 반복적(1일 수회), 초조·안절부절 양상</td></tr><tr><td>지주막하출혈(SAH)</td><td>돌발적 "벼락두통"(thunderclap), 생애 최악의 두통</td><td>1분 미만에 최고 강도 도달(벼락두통) → 즉시 영상 검사. 수 분에 걸쳐 최고조에 이른 급성 중증 두통도 SAH 평가 대상</td></tr><tr><td>거대세포동맥염(GCA)</td><td>새로 발생한 두통(주로 ≥50세), 측두동맥 압통, 턱파행</td><td>ESR/CRP 상승, 시력 저하 위험 → 즉시 스테로이드 및 안과/류마티스내과 의뢰</td></tr><tr><td>뇌졸중 / TIA</td><td>국소 신경학적 결손이 조짐과 유사하게 나타날 수 있음</td><td>단일 비운동성 조짐 ＞60분, 갑작스러운 음성 증상, 새 운동 조짐, 불완전 회복 → 영상 검사</td></tr><tr><td>약물과용두통(MOH)</td><td>기존 편두통 환자에서 두통이 매일 또는 거의 매일 발생</td><td>진통제·트립탄 사용일수 증가 병력</td></tr></tbody></table>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:orange;">치료 방침</mark>
+### <mark style="color:orange;">치료 원칙</mark>
 
 * 생활 습관 개선
 * 필요시 약물 치료 : 급성 편두통 증상 완화, 편두통 예방
@@ -263,8 +264,9 @@ flowchart TD
 ### <mark style="color:orange;">진통제</mark>
 
 * ibuprofen : 400\~800 ㎎ <mark style="color:blue;">\[부루펜]</mark>
-* naproxen : 500\~550 ㎎ <mark style="color:blue;">\[낙센]</mark>
-* aspirin : 500\~1,000 ㎎ <mark style="color:blue;">\[로날]</mark>
+* naproxen : 500 ㎎ <mark style="color:blue;">\[낙센]</mark>
+* naproxen sodium : 국내 편두통 허가 용법은 초회 825 ㎎, 필요시 275\~550 ㎎ 추가, 1일 최대 1,375 ㎎ <mark style="color:blue;">\[아나프록스]</mark>
+* aspirin : 500\~1,000 ㎎ <mark style="color:blue;">\[바이엘아스피린]</mark>
 * dexketoprofen : 25 ㎎
 * acetaminophen : 650\~1,300 ㎎ <mark style="color:blue;">\[타이레놀]</mark> (NSAID보다 효과가 적다는 보고가 있음)
 
@@ -289,13 +291,6 @@ flowchart TD
 >
 > _✽ 용량과 재투여 간격은 국내 허가사항을 우선 확인_
 
-<mark style="color:cyan;">**CYP3A4 상호작용 주의**</mark>
-
-* Rimegepant : 강력한 CYP3A4 억제제(예: clarithromycin, itraconazole)와 병용을 피하고, 중등도 CYP3A4 억제제 병용 시 48시간 이내 추가 복용을 피함
-* Atogepant : 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 허가사항에 따라 감량
-* Triptans : eletriptan은 강력한 CYP3A4 억제제(ketoconazole, itraconazole, clarithromycin, ritonavir, nefazodone 등) 투여 중 및 투여 중단 후 최소 72시간 이내 병용 금기(국내 미출시이나 안전성 정보로 기재)
-* Ergotamine 계열 : CYP3A4 억제제와 병용 시 혈관 수축 부작용(맥각 중독) 위험이 크게 높아지므로 병용 금기에 준하여 관리해야 함
-
 ### <mark style="color:orange;">Gepants (CGRP receptor antagonist)</mark>
 
 * 기전 : CGRP 수용체 차단 → 삼차신경 통증 전달 억제; triptan과 달리 혈관 수축 작용 없음
@@ -306,7 +301,7 @@ flowchart TD
 * rimegepant 75 ㎎ 구강붕해정 <mark style="color:blue;">\[너텍]</mark>(비급여) : 급성기 1정(최대 75 ㎎/24시간); 삽화성 편두통 예방은 75 ㎎ 격일 복용
   * 30일 동안 18회 초과 사용의 안전성은 확립되지 않음
 * ubrogepant 50\~100 ㎎ : 급성기 치료 (국내 미허가)
-* atogepant는 예방 전용(급성기 치료 적응증 없음) - 상세는 하단 「CGRP 수용체 길항제(경구 예방제)」 참조
+* atogepant는 예방 전용(급성기 치료 적응증 없음) - 상세는 하단 「CGRP 수용체 길항제 (Gepant 계열, 경구 예방제)」 참조
 
 ### <mark style="color:orange;">Ditans</mark>
 
@@ -324,6 +319,13 @@ flowchart TD
 * 주의/금기 : 고혈압, 심혈관·말초혈관 질환, 간/신 장애, 패혈증, 임신, 24시간 내 triptan 복용, 강력한 CYP3A4 억제제 병용
 * caffeine 복합제(ergo. 1 ㎎ + caff. 100 ㎎) : 초회 2정 → 필요시 30분마다 1정 추가(최대 6정/발작·10정/주) <mark style="color:blue;">\[크래밍]</mark>
 
+### <mark style="color:orange;">급성기·예방 약제의 CYP3A4 상호작용</mark>
+
+* Rimegepant : 강력한 CYP3A4 억제제(예: clarithromycin, itraconazole)와 병용을 피하고, 중등도 CYP3A4 억제제 병용 시 48시간 이내 추가 복용을 피함
+* Atogepant : 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd로 감량
+* Triptans : eletriptan은 강력한 CYP3A4 억제제(ketoconazole, itraconazole, clarithromycin, ritonavir, nefazodone 등) 투여 중 및 투여 중단 후 최소 72시간 이내 병용 금기(국내 미출시이나 안전성 정보로 기재)
+* Ergotamine 계열 : CYP3A4 억제제와 병용 시 혈관 수축 부작용(맥각 중독) 위험이 크게 높아지므로 병용 금기에 준하여 관리해야 함
+
 ### <mark style="color:orange;">항구토제</mark>
 
 * dopamine 수용체 차단제는 편두통 증상을 감소시키는 부가 효과를 지님
@@ -337,7 +339,7 @@ flowchart TD
 ### <mark style="color:orange;">Steroid</mark>
 
 * 일률적인 사용은 하지 않음; 주로 응급실에서 주사로 투여
-* dexamethasone : 급성 통증 완화가 아닌 두통 재발(recurrence) 예방 목적으로 투여 <mark style="color:blue;">\[덱타손 주]</mark>
+* dexamethasone : 급성 통증 완화가 아닌 두통 재발(recurrence) 예방 목적으로 투여 <mark style="color:blue;">\[덱사메타손주]</mark>
   * 위약 대비 재발 위험을 유의미하게 줄인다는 근거 있음
 
 ***
@@ -347,7 +349,7 @@ flowchart TD
     A["급성 편두통 발작"] --> B["가능한 발작 초기에 치료"]
     B --> C["구역·구토가 심한가?"]
     C -- "Yes" --> D["항구토제 추가<br/>경구 외 제형 고려"]
-    C -- "No" --> E["경증–중등도이고 기능장애가 크지 않은가?"]
+    C -- "No" --> E["경증~중등도이고 기능장애가 크지 않은가?"]
     D --> E
     E -- "Yes" --> F["NSAID 또는 acetaminophen"]
     F --> G["충분한 반응?"]
@@ -373,7 +375,7 @@ flowchart TD
 
 ## <mark style="color:green;">편두통의 예방적 약물 치료</mark>
 
-#### <mark style="color:$primary;">예방 치료 대상</mark>
+### <mark style="color:orange;">예방 치료 대상</mark>
 
 * 생활습관 개선과 적절한 급성기 치료에도 불구하고 편두통으로 인한 유의미한 일상생활 장애
 * 두통 빈도가 적더라도 급성기 치료에 반응하지 않거나 두통으로 인한 장애가 있는 경우
@@ -383,7 +385,7 @@ flowchart TD
 * 급성기 치료의 의학적 금기가 있는 경우
 * 환자가 예방 치료를 선호하는 경우
 
-#### <mark style="color:$primary;">예방 치료 용법</mark>
+### <mark style="color:orange;">예방 치료 용법</mark>
 
 * 예방 치료 목표 : 일반적으로 두통 빈도 ≥50% 감소를 목표로 하되, 만성 편두통에서는 두통일수 ≥30% 감소와 기능·삶의 질 개선도 임상적으로 의미 있는 반응으로 평가할 수 있음; 빈도·강도·동반 증상·급성약 사용·환자별 목표를 함께 평가
 * 저용량 투여 → 2\~4주마다 효과와 부작용 평가 → 효과가 나타날 때까지 증량
@@ -426,10 +428,16 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 * amitriptyline : 10\~50 ㎎/d hs <mark style="color:blue;">\[에트라빌]</mark>
   * 부작용 : 졸음, 입마름, 변비, 소변 저류, 심장 전도 장애, 체중 증가
   * 주의/금기 : 고령, BPH, 녹내장, 발작, 심장 질환 (보험주의; 우울증 동반 시 급여)
-  * 대안 : nortriptyline 10\~75 ㎎/d hs <mark style="color:blue;">\[시나논]</mark> - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함 (보험주의)
+  * 대안 : nortriptyline 10\~75 ㎎/d hs <mark style="color:blue;">\[센시발]</mark> - amitriptyline의 활성 대사체로 항콜린 부작용이 다소 적어 내약성이 우수하나 편두통 예방에 대한 직접 근거는 amitriptyline보다 약함 (보험주의)
 * venlafaxine XR : 37.5\~150 ㎎/d <mark style="color:blue;">\[이팩사 XR]</mark>
   * 부작용 : 구역, 혈압 상승
   * 주의/금기 : 고혈압
+
+#### <mark style="color:$primary;">칼슘통로차단제</mark>
+
+* flunarizine : 5\~10 ㎎/d <mark style="color:blue;">\[씨베리움]</mark>
+  * 부작용 : 체중 증가, 졸림, 입마름, 어지럼증, 저혈압, 우울
+  * 주의/금기 : 심한 우울, 파킨슨병, 추체외로 증상
 
 ### <mark style="color:orange;">CGRP 표적 예방치료 및 기타 예방 치료</mark>
 
@@ -448,9 +456,9 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
   * 고혈압 및 Raynaud 현상 발생 여부를 모니터링
 * fremanezumab <mark style="color:blue;">\[아조비]</mark> : 225 ㎎/월 또는 675 ㎎/분기 SC (조건부 급여)
   * 체중 45 ㎏ 이상 6\~17세 소아·청소년 삽화성 편두통 예방 적응증 추가 (2026)
-* galcanezumab <mark style="color:blue;">\[엠겔러티]</mark> : 120 ㎎/월 SC (초회 240 ㎎) (조건부 급여)
+* galcanezumab <mark style="color:blue;">\[앰겔러티]</mark> : 120 ㎎/월 SC (초회 240 ㎎) (조건부 급여)
   * 국내 군발두통용 100 ㎎ 품목은 2024년 허가 취하되어 현재 편두통 예방 적응증으로 사용
-* erenumab <mark style="color:blue;">\[에이모빅]</mark> : 70\~140 ㎎/월 SC (수용체 결합형; 2026년 9월 기준 국내 미허가·미출시)
+* erenumab(Aimovig) : 70\~140 ㎎/월 SC (수용체 결합형; 2026년 9월 기준 미허가·미출시)
 * eptinezumab <mark style="color:blue;">\[바이엡티]</mark> : 100 ㎎ 또는 300 ㎎/분기 IV (0.9% 생리식염수 100 ㎖ 희석 후 약 30분간 정맥 점적 주입, 연 4회); 국내 최초 CGRP 정맥주입 예방치료제 (2026년 5월 국내 허가 - 출시 예정)
 
 #### <mark style="color:$primary;">CGRP 수용체 길항제 (Gepant 계열, 경구 예방제)</mark>
@@ -460,10 +468,9 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
   * atogepant는 예방 전용, rimegepant는 급성 치료와 삽화성 편두통 예방에 사용
 * Atogepant는 기존 경구 예방치료 2\~4종에 실패한 삽화성 편두통 환자에서도 효과가 입증됨(ELEVATE 임상)
 * 부작용 : 구역, 변비, 졸림/피로; 드물게 간효소 상승
-* 금기/주의 : 성분 과민증; 중증 간기능 장애에서는 사용을 피함
-* 용량 조절 : 강력한 CYP3A4 억제제 또는 OATP 억제제 병용 시 10 ㎎ qd; 중증 신장애 또는 ESRD에서도 10 ㎎ qd
-* atogepant <mark style="color:blue;">\[아큅타정]</mark> : 60 ㎎ qd (삽화성·만성 편두통 모두 적응)
-  * 강력한 CYP3A4 억제제 또는 OATP 억제제 병용, 중증 신장애 또는 ESRD에서는 10 ㎎ qd로 감량
+* 금기 : 성분 과민증, 중증 간장애(Child-Pugh C)
+* 용량 조절 : 강력한 CYP3A4 억제제 또는 OATP 억제제 병용, 중증 신장애(CLcr 15\~29 ㎖/min)·ESRD에서 10 ㎎ qd
+* atogepant <mark style="color:blue;">\[아큅타]</mark> : 60 ㎎ qd (삽화성·만성 편두통 모두 적응)
   * 국내 최초 경구 CGRP 예방치료제로 2023년 11월 식약처 허가(비급여)
 
 #### <mark style="color:$primary;">OnabotulinumtoxinA (Botox)</mark>
@@ -480,9 +487,6 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 
 * 삽화성 편두통 예방에 telmisartan·nifedipine·enalapril의 근거를 낮은 확실성으로 평가, 널리 사용되는 candesartan은 해당 지침의 분석 기준상 근거 불충분 <mark style="color:$info;">\[AAN/AHS 2026]</mark>
   * 국내외 다른 지침과 환자의 동반 고혈압을 함께 고려하여 개별 선택
-* flunarizine : 5\~10 ㎎/d <mark style="color:blue;">\[씨베리움]</mark>
-  * 부작용 : 체중 증가, 졸림, 입마름, 어지럼증, 저혈압, 우울
-  * 주의/금기 : 심한 우울, 파킨슨병, 추체외로 증상
 * candesartan : 4\~16 ㎎/d <mark style="color:blue;">\[아타칸]</mark>
   * 부작용 : 저혈압, 고칼륨혈증, 신기능 악화
   * 주의/금기 : 임신, 중증 신기능 저하 또는 고칼륨혈증 위험 환자에서 신중 사용
@@ -492,15 +496,12 @@ _Ref. Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adul
 
 #### <mark style="color:$primary;">Gabapentinoid</mark>
 
-* 근거 부족으로 사용하지 않을 것을 제안 <mark style="color:$info;">\[대한두통학회 2021]</mark>
-* 부작용 : 어지럼증, 졸음, 균형 장애
-* gabapentin : 300\~900 ㎎/d <mark style="color:blue;">\[뉴론틴]</mark>
-* pregabalin : 50\~300 ㎎/d <mark style="color:blue;">\[리리카]</mark>
+* gabapentin, pregabalin : 편두통 예방에는 근거 부족으로 사용하지 않을 것을 제안 <mark style="color:$info;">\[대한두통학회 2021]</mark>
 
 #### <mark style="color:$primary;">기타</mark>
 
 * 아래 약제는 편두통 예방에 대한 근거가 제한적이고 대부분 국내 허가 외 사용이므로 routine으로 권고하지 않음
-* tizanidine(근이완) : 4\~24 ㎎/d <mark style="color:blue;">\[실다루드]</mark>
+* tizanidine(근이완) : 4\~24 ㎎/d <mark style="color:blue;">\[티자리드]</mark> (편두통 예방은 허가 외 사용; 국내 근연축 허가 용량과 다름)
 * memantine(신경 보호) : 5\~20 ㎎/d <mark style="color:blue;">\[에빅사]</mark>
 * cyproheptadine(항히스타민) : 4\~8 ㎎ tid
 * zonisamide(항전간) : 50\~100 ㎎/d <mark style="color:blue;">\[엑세그란]</mark>
@@ -540,13 +541,13 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 
 ## <mark style="color:red;">질병코드</mark>
 
-* G43 - 편두통 - Migraine
-* G43.0 - 전조(조짐)가 없는 편두통 - Migraine without aura
-* G43.1 - 전조(조짐)가 있는 편두통 - Migraine with aura
-* G43.2 - 편두통 지속 상태 - Status migrainosus
-* G43.3 - 합병된 편두통 - Complicated migraine
-* G43.8 - 기타 편두통 - Other migraine
-* G43.9 - 상세불명의 편두통 - Migraine, unspecified
+* G43 편두통 Migraine
+* G43.0 전조(조짐)가 없는 편두통 Migraine without aura
+* G43.1 전조(조짐)가 있는 편두통 Migraine with aura
+* G43.2 편두통 지속 상태 Status migrainosus
+* G43.3 합병된 편두통 Complicated migraine (ICHD-3의 ICD-10 대응표에서 만성 편두통에 대응)
+* G43.8 기타 편두통 Other migraine
+* G43.9 상세불명의 편두통 Migraine, unspecified
 
 ***
 
@@ -626,7 +627,7 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 편두통 발작이 72시간을 넘어 지속되는 경우
-> * 팔다리 마비·언어 장애·시야 장애 등 신경 증상이 60분 이상 지속되는 경우 - 즉시 응급실 방문
+> * 팔다리 마비·말 어눌함·언어 장애가 **갑자기** 생기거나 처음 겪는 신경 증상이 나타나면 기다리지 말고 즉시 응급실을 방문하십시오. 평소와 같은 조짐이라도 1시간을 넘게 지속되면 즉시 응급실을 방문하십시오.
 > * 두통 빈도가 늘거나 트립탄·복합진통제를 한 달 10일 이상, 또는 단순 진통제를 한 달 15일 이상 복용하게 되는 경우
 
 ***
@@ -647,7 +648,7 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 
 #### <mark style="color:$primary;">어떻게 치료하나요?</mark>
 
-* **급성기 치료** : 두통 발생 즉시 진통제(NSAIDs) 또는 트립탄을 복용합니다. 조용하고 어두운 곳에서 휴식을 취하십시오.
+* **급성기 치료** : 두통 발생 즉시 소염진통제 등 진통제 또는 트립탄을 복용합니다. 조용하고 어두운 곳에서 휴식을 취하십시오.
 * **예방 치료** : 편두통이 한 달에 4일 이상이거나 빈도가 적어도 일상생활에 큰 지장을 준다면 예방약을 고려합니다. 효과는 수 주에 걸쳐 서서히 나타납니다.
 
 #### <mark style="color:$primary;">약 복용 시 꼭 지켜주세요</mark>
@@ -665,7 +666,7 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
-* 처음 발생했거나 갑작스럽고 평소 조짐과 다른 팔다리 마비·언어 장애·시야 장애, 또는 신경 증상이 60분 이상 지속되는 경우
+* 처음 발생했거나 갑작스럽고 평소 조짐과 다른 팔다리 마비·언어 장애·시야 장애, 또는 신경 증상이 1시간을 넘게 지속되는 경우
 * 두통이 72시간 이상 지속되는 경우
 * 평소와 전혀 다른 양상의 두통이 갑자기 나타난 경우
 
@@ -681,6 +682,8 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 * \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
 * \[AAN/AHS 2026] [Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adults: Practice Guideline Recommendations. Headache. 2026.](https://doi.org/10.1111/head.70199) - 예방치료 대상·약제 선택 및 약물과용 동반 환자의 치료
 * \[AHS ED 2025] [Robblee J, et al. 2025 guideline update to acute treatment of migraine for adults in the emergency department: The American Headache Society evidence assessment of parenteral pharmacotherapies. Headache. 2026;66(1):53-76.](https://doi.org/10.1111/head.70016) - 응급실 비경구 치료·신경차단술; status migrainosus만의 근거와 구분
+* \[J Clin Neurol 2012] [Kim BK, et al. Prevalence and impact of migraine and tension-type headache in Korea. J Clin Neurol. 2012;8(3):204-211.](https://doi.org/10.3988/jcn.2012.8.3.204) - 2009 Korean Headache Survey의 국내 편두통 유병률
+* \[J Clin Neurol 2021] [Kim KM, et al. Prevalence, disability, and management patterns of migraine in Korea: nationwide survey data from 2009 and 2018. J Clin Neurol. 2021;17(1):77-85.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7840323/) - 2018 Korean Sleep-Headache Survey의 국내 편두통 유병률
 * \[대한두통학회 2021] [대한두통학회. 편두통 예방치료 약제 진료지침. 2021.](https://headache.or.kr/bbs/board.php?bo_table=3_5_1_1&wr_id=4) - 국내 예방치료 권고; 이후 개정 지침과 함께 해석
 * [Puledda F, et al. International Headache Society global practice recommendations for the acute pharmacological treatment of migraine. Cephalalgia. 2024;44(8):3331024241252666.](https://pubmed.ncbi.nlm.nih.gov/39133176/) - 편두통 급성기 약제 선택·단계적 치료 및 과용 방지
 * [Charles AC, et al. Calcitonin gene-related peptide-targeting therapies are a first-line option for the prevention of migraine: An American Headache Society position statement update. Headache. 2024;64(4):333-341.](https://doi.org/10.1111/head.14692) - CGRP 표적 예방치료의 초기 선택; 국내 급여 기준과 구분

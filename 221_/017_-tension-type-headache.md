@@ -111,7 +111,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 * ICHD-3는 긴장형두통을 두개 주위 근육 압통 유무에 따라 하위 분류함
   * 촉진은 진단의 객관성을 높이고 치료 전후 비교에 활용. 단, 압통 여부가 진단의 필수 조건은 아님
-* 검사 부위 : 전두근(Frontal), 측두근(Temporal), 교근(Masseter), 흉쇄유돌근(SCM), 두판상근(Splenius), 승모근(Trapezius)
+* 검사 부위 : 전두근(Frontal), 측두근(Temporal), 교근(Masseter), 익돌근(Pterygoid), 흉쇄유돌근(SCM), 두판상근(Splenius), 승모근(Trapezius)
 * 검사 방법 : 둘째·셋째 손가락으로 작은 원을 그리듯 회전하며 일정한 압력으로 촉진
 * 점수화 : 각 부위를 좌우 각각 0\~3점의 Local tenderness score로 기록하고, 각 부위 점수를 합산하여 Total tenderness score(TTS)로 기록
   * 동일 환자를 추적할 때는 가능한 한 같은 부위·같은 순서·유사한 압력으로 반복 측정하여 치료 전후 변화를 비교
@@ -167,17 +167,18 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 * ibuprofen : 400 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[부루펜]</mark>
   * VA/DoD 2023은 급성 TTH에 ibuprofen 400 ㎎을 제안(weak for); 반복 복용 시 NSAID의 최소 유효용량·최단기간 원칙 적용
-* naproxen : 275\~500 ㎎ 필요시 <mark style="color:blue;">\[낙센, 아나프록스]</mark>
+* naproxen : 250\~500 ㎎ 필요시 <mark style="color:blue;">\[낙센]</mark> 또는 naproxen sodium 275\~550 ㎎ 필요시 <mark style="color:blue;">\[아나프록스]</mark>
 * acetaminophen : 1,000 ㎎ 두통 시작 시 필요시 복용 <mark style="color:blue;">\[타이레놀]</mark>
   * VA/DoD 2023은 급성 TTH에 acetaminophen 1,000 ㎎을 제안(weak for)
   * 총 1일 용량은 연령, 체중, 간질환, 음주 여부 및 병용제의 acetaminophen 함량을 고려
-* aspirin : 500\~1,000 ㎎ 필요시 <mark style="color:blue;">\[바이엘아스피린정500㎎]</mark>
+* aspirin : 500\~1,000 ㎎ 필요시 <mark style="color:blue;">\[바이엘아스피린]</mark>
 
 ### <mark style="color:orange;">2차 선택 - 급성기</mark>
 
 #### <mark style="color:$primary;">Caffeine 복합제</mark>
 
-* caffeine 130/acetaminophen 500/aspirin 500 ㎎ 필요시
+* acetaminophen 500 ㎎ + aspirin 500 ㎎ + caffeine 130 ㎎ (연구에서 사용된 1회 총용량)
+  * 국내 카페인 함유 복합진통제는 성분·함량이 달라 동일 조합으로 간주하지 않음
   * 효과는 있으나 1차로 권장되지 않음; 단순진통제보다 약물과용 위험이 높으므로 사용을 최소화
   * 복합 진통제를 ≥10일/월, >3개월 사용하면서 두통이 ≥15일/월이면 MOH 진단을 고려
 
@@ -230,7 +231,7 @@ E. 다른 ICHD-3 진단으로 더 잘 설명되지 않음<sup>1\~3)</sup>
 
 ## <mark style="color:red;">질병코드</mark>
 
-* G44.2 긴장형두통
+* G44.2 긴장형두통 Tension-type headache
 
 ***
 
