@@ -245,15 +245,15 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 ### <mark style="color:orange;">항히스타민제</mark>
 
 * 효과 : 비부비동염 자체에 대한 효과는 입증 안 됨; 점액 점도 증가 및 점막 건조로 악영향 가능
-* 알레르기 증상 심하게 동반 시에만 고려 (☞ [알레르기비염](051_-allergic-rhinitis.md#undefined-24))
+* 알레르기 증상이 심하게 동반된 경우에만 고려
   * cetirizine 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>, levocetirizine 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark>, fexofenadine 120 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>, loratadine 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
-  * 비내 : azelastine 알레르기비염 기본 용량 : 각 비공 1번 분무 bid(연령·증상에 따라 증감) <mark style="color:blue;">\[아젭틴비액]</mark>
+  * 비내 : azelastine 알레르기비염 기본 용량(각 비공 1번 분무 bid) - 단일제 없음
 
 ### <mark style="color:orange;">진통제</mark>
 
-* 통증·발열 시 필요에 따라 비마약성 진통제 선택
-  * ibuprofen 200\~400 ㎎ q6\~8h prn; 위장관·신장·심혈관 위험과 항응고제 병용 여부 확인 <mark style="color:blue;">\[부루펜]</mark>
-  * acetaminophen 500\~1,000 ㎎ q6\~8h prn; 일반적으로 최대 3,000 ㎎/d, 간질환·과음 환자는 감량 <mark style="color:blue;">\[타이레놀]</mark>
+* 통증·발열 시 필요에 따라 비마약성 진통제 선택 (☞ [통증](../220_/001_-pain.md#management))
+  * ibuprofen : 200\~400 ㎎ q6\~8h prn; 위장관·신장·심혈관 위험과 항응고제 병용 여부 확인 <mark style="color:blue;">\[부루펜]</mark>
+  * acetaminophen : 500\~1,000 ㎎ q6\~8h prn; 일반적으로 최대 3,000 ㎎/d, 간질환·과음 환자는 감량 <mark style="color:blue;">\[타이레놀]</mark>
 * Tramadol 등 opioid는 단순 비부비동염 통증에 routine으로 사용하지 않음
 
 ### <mark style="color:orange;">점액용해제 (Mucolytics)</mark>
@@ -264,8 +264,8 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 
 * 대부분 항생제 투여 불필요 - ABRS 기준 충족 시 선택적 적용
 * macrolide(azithromycin, clarithromycin), TMP/SMX는 내성 때문에 초기 경험적 치료로 권장하지 않음
-* 투여 기간 : amoxicillin ± clav.는 합병증 없는 대부분의 성인에서 5\~7일 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>; 중증도·치료 반응에 따라 개별화하되 호전 중인 잔여 증상만으로 자동 연장하지 않음. 다른 약제의 국내 허가 기간은 아래 표와 구분
-* 적절한 항생제 투여 후 3\~5일 내 호전되지 않거나 언제든 악화하면 진단·합병증을 재평가한 뒤 ABRS가 맞으면 항생제 변경
+* 투여 기간 : amoxicillin ± clav.는 합병증 없는 대부분의 성인에서 5\~7일 <mark style="color:$info;">\[AAO-HNSF 2025];</mark> 중증도·치료 반응에 따라 개별화하되 호전 중인 잔여 증상만으로 자동 연장하지 않음
+* 적절한 항생제 투여 후 3\~5일 내 호전되지 않거나 언제든 악화하면 진단·합병증을 재평가한 뒤 ABRS 진단이 맞으면 항생제 변경
 
 #### <mark style="color:$primary;">내성 위험군</mark>
 
@@ -275,59 +275,57 @@ AAO-HNSF 2025의 핵심 진단 기준은 **10일 이상 호전 없음** 또는 *
 
 #### <mark style="color:$primary;">항생제 선택</mark>
 
-<table><thead><tr><th width="149">구분</th><th width="204">약물</th><th>성인 용량·기간</th></tr></thead><tbody><tr><td>저위험군 1차</td><td>amoxicillin <mark style="color:blue;">[파목신]</mark></td><td>500 ㎎ tid ×5~7일</td></tr><tr><td>β-lactamase 생성균 등 위험 시</td><td>amoxicillin/clav. <mark style="color:blue;">[오구멘틴]</mark></td><td>표준 용량 500/125 ㎎ tid ×5~7일; 폐렴구균 내성 고위험군의 고용량 요법은 아래 주석 참조</td></tr><tr><td>Type I Pc 알레르기</td><td>doxycycline <mark style="color:blue;">[모노신]</mark></td><td>성인 100 ㎎ bid 또는 200 ㎎ qd ×5~7일</td></tr><tr><td>Non-type I Pc 알레르기</td><td>cefpodoxime <mark style="color:blue;">[바난]</mark> 또는 cefixime <mark style="color:blue;">[포세프]</mark></td><td>cefpodoxime 200 ㎎(100 ㎎ 2T) bid 또는 cefixime 200 ㎎(100 ㎎ 2C) bid ×5~7일; 필요시 clindamycin 450 ㎎ tid 병용을 전문적으로 고려 <mark style="color:$info;">[AAO-HNSF 2025]</mark></td></tr><tr><td>다른 대안이 없는 경우</td><td>levofloxacin <mark style="color:blue;">[크라비트]</mark> 또는 moxifloxacin <mark style="color:blue;">[아벨록스]</mark></td><td>국내 허가 기준 : levofloxacin 500 ㎎ qd ×10~14일; moxifloxacin 400 ㎎ qd ×7일. 다른 적절한 대안이 없는 경우에만 사용; levofloxacin은 신기능에 따른 용량 조절 필요</td></tr></tbody></table>
+<table><thead><tr><th width="149">구분</th><th width="204">약물</th><th>성인 용량·기간</th></tr></thead><tbody><tr><td><strong>저위험군 1차</strong></td><td>amoxicillin <mark style="color:blue;">[파목신]</mark></td><td>500 ㎎ tid ×5~7일</td></tr><tr><td><strong>β-lactamase 생성균 등 위험 시</strong></td><td>amoxicillin/clav. <mark style="color:blue;">[오구멘틴]</mark></td><td>표준 용량 500/125 ㎎ tid ×5~7일; 폐렴구균 내성 고위험군의 고용량 요법은 아래 주석 참조</td></tr><tr><td><strong>Type I Pc 알레르기</strong></td><td>doxycycline <mark style="color:blue;">[모노신]</mark></td><td>성인 100 ㎎ bid 또는 200 ㎎ qd ×5~7일</td></tr><tr><td><strong>Non-type I Pc 알레르기</strong></td><td>cefpodoxime <mark style="color:blue;">[바난]</mark> 또는 cefixime <mark style="color:blue;">[포세프]</mark></td><td>cefpodoxime 200 ㎎(100 ㎎ 2T) bid 또는 cefixime 200 ㎎(100 ㎎ 2C) bid ×5~7일; 필요시 clindamycin 450 ㎎ tid 병용을 전문적으로 고려 <mark style="color:$info;">[AAO-HNSF 2025]</mark></td></tr><tr><td><strong>다른 대안이 없는 경우</strong></td><td>levofloxacin <mark style="color:blue;">[크라비트]</mark> 또는 moxifloxacin <mark style="color:blue;">[아벨록스]</mark></td><td>levofloxacin 500 ㎎ qd ×10~14일; moxifloxacin 400 ㎎ qd ×7일. 다른 적절한 대안이 없는 경우에만 사용; levofloxacin은 신기능에 따른 용량 조절 필요</td></tr></tbody></table>
 
-_✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증 지연형 과민반응이 없는 경우에 한함**. SJS/TEN·DRESS 등 중증 피부반응 또는 약물 관련 장기 손상 병력에서는 단순한 non-type I로 분류하여 β-lactam을 대체 처방하지 않고 전문 평가 <mark style="color:$info;">\[JACI 2022]</mark>_
+> _Non-type I penicillin 알레르기의 cephalosporin 대체요법은 중증 지연형 과민반응이 없는 경우에 한함. SJS/TEN·DRESS 등 중증 피부반응 또는 약물 관련 장기 손상 병력에서는 단순한 non-type I로 분류하여 β-lactam을 대체 처방하지 않고 전문 평가 <mark style="color:$info;">\[JACI 2022]</mark>_
 
-{% hint style="info" %}
-**폐렴구균 내성 고위험군의 고용량 요법**
-
-국외 지침의 amoxicillin/clav. 고용량은 \*\*2,000/125 ㎎ bid(amoxicillin 4 g/d)\*\*임. 국내 속방형 복합제와 국외 고용량 제형은 투여간격·제형을 포함하여 구분해야 하며, 복합제 정수만 늘리면 clav. 과량 위험이 있음. 고용량이 필요한 환자는 중증도·감수성·가용 제형을 고려하여 전문적으로 치료 요법 결정 <mark style="color:$info;">\[AAO-HNSF 2025; IDSA 2012]</mark>.
-{% endhint %}
-
-> <mark style="color:$info;">**\[AAO-HNSF 2025]**</mark> : amoxicillin 단독 또는 amoxicillin/clav.를 1차로 5\~7일 사용. 건강한 경증\~중등도 저위험군에서는 amoxicillin 단독을 고려하고, β-lactamase 생성균·중증·고위험군에서는 amoxicillin/clav.를 우선 고려\
-> <mark style="color:$info;">**\[대한감염학회 2017]**</mark> : amoxicillin 단독도 1차 선택에 포함
-
-> <mark style="color:$info;">**\[NICE 2017]**</mark>\
-> ≤10일 증상에는 항생제 미사용 원칙. ＞10일 호전 없는 경우 세균 감염 가능성에 따라 처방. 1차 : phenoxymethylpenicillin (Pc VK) 500 ㎎ qid ×5d; 대체 : doxycycline 200 ㎎ 1일 후 100 ㎎ qd ×4d, clarithromycin 500 ㎎ bid ×5d; 임신부에서 진정한 Pc 알레르기 등으로 macrolide가 필요한 경우 : erythromycin 500\~1,000 ㎎ bid ×5d; 2차 또는 고위험군 : amoxicillin/clav. 500/125 ㎎ tid ×5d
+* **폐렴구균 내성 고위험군의 고용량 요법 :** 국외 지침의 amoxicillin/clav. 고용량은 2,000/125 ㎎ bid (amoxicillin 4 g/d)임. 국내 속방형 복합제와 국외 고용량 제형은 투여간격·제형을 포함하여 구분해야 하며, 단순히 투여 약제 수를 늘리면 clav. 과량 위험이 있음. 고용량이 필요한 환자는 중증도·감수성·가용 제형을 고려하여 전문적으로 치료 요법 결정 <mark style="color:$info;">\[AAO-HNSF 2025; IDSA 2012]</mark>
+* <mark style="color:$info;">**\[AAO-HNSF 2025]**</mark> : amoxicillin 단독 또는 amoxicillin/clav.를 1차로 5\~7일 사용. 건강한 경증\~중등도 저위험군에서는 amoxicillin 단독을 고려하고, β-lactamase 생성균·중증·고위험군에서는 amoxicillin/clav.를 우선 고려
+* <mark style="color:$info;">**\[대한감염학회 2017]**</mark> : amoxicillin 단독도 1차 선택에 포함
+* <mark style="color:$info;">**\[NICE 2017]**</mark> : ≤10일 증상에는 항생제 미사용 원칙. ＞10일 호전 없는 경우 세균 감염 가능성에 따라 처방
+  * 1차 : phenoxymethylpenicillin (Pc VK) 500 ㎎ qid ×5d
+  * 대체 : doxycycline 200 ㎎ 1일 후 100 ㎎ qd ×4d, clarithromycin 500 ㎎ bid ×5d
+  * 임신부에서 진정한 Pc 알레르기 등으로 macrolide가 필요한 경우 : erythromycin 500\~1,000 ㎎ bid ×5d
+  * 2차 또는 고위험군 : amoxicillin/clav. 500/125 ㎎ tid ×5d
 
 #### <mark style="color:$primary;">주의 관찰 및 지연 처방</mark>
 
-* 합병증 없는 성인 ABRS에서 추적이 보장되면 항생제 없이 대증 치료하며 **진단 후 보통 3\~5일 관찰**; 진단 시점과 증상 경과에 따라 조정
-* 지연 처방을 사용할 경우 “언제든 악화하거나 정해진 관찰 기간(보통 진단 후 3\~5일) 내 호전하지 않으면 복용을 시작하고 의료진에게 알릴 것”을 명확히 안내
-* 중증 감염, 면역 저하, 합병증 의심 또는 다른 세균 감염이 동반된 경우에는 주의 관찰의 대상이 아님
+* 합병증 없는 성인 ABRS에서 추적이 보장되면 항생제 없이 대증 치료하며 진단 후 보통 3\~5일 관찰; 진단 시점과 증상 경과에 따라 조정
+* 지연 처방을 할 경우 “언제든 악화하거나 정해진 관찰 기간(보통 진단 후 3\~5일) 내 호전하지 않으면 복용을 시작하고 의료진에게 알릴 것”을 안내
+* 중증 감염, 면역 저하, 합병증 의심 또는 다른 세균 감염이 동반된 경우에는 관찰 대상이 아니며 즉시 치료 개시
 
 ### <mark style="color:orange;">치료 실패 시 조치</mark>
 
 * 항생제 시작 후 3\~5일 내 호전되지 않거나 언제든 악화하면 재평가 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>
 * 복약 순응도와 ABRS 진단을 재확인하고 편두통·치성 감염·알레르기비염·종양 등 다른 원인 및 안와/두개내 합병증 배제
-* ABRS가 확인되면 초기 약제의 항균 범위를 고려하여 항생제 변경; amoxicillin 사용 중 실패하면 amoxicillin/clav. 등으로 변경 고려
+* ABRS가 재확인되면 초기 약제의 항균 범위를 고려하여 항생제 변경
+  * amoxicillin 사용 중 실패한 경우에는 amoxicillin/clav. 등으로 변경 고려
 * 반복 실패·면역 저하·비전형적 경과에서는 내시경 유도 배양 및 감수성 검사, CT, 이비인후과 의뢰 고려
 * 증상이 서서히 호전 중이라는 이유만으로 항생제를 10\~14일 자동 연장하지 않음
 
 ***
 
-## ■ 만성 비부비동염 (CRS)
+## ■ **만성 비부비동염 (CRS)**
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 주요 증상(코 막힘, 전방 비루/후비루, 안면 통증·압박감, 후각 저하) 중 2가지 이상이 12주 이상 지속되고, 비강 내시경·전비경 또는 CT에서 비부비동 염증의 객관적 증거가 확인되는 질환
-  * <mark style="color:$info;">\[EPOS 2020]</mark> : 코 막힘 또는 비루 중 하나는 반드시 포함. 안면 통증·후각 저하만 있고 비루·코 막힘이 없으면 CRS 진단 불충분
+* 주요 증상 ① 코막힘, ② 전방 비루/후비루, ③ 안면 통증·압박감, ④ 후각 저하 중 2가지 이상이 ≥12주 지속되고, 비강 내시경·전비경 또는 CT에서 비부비동 염증의 객관적 증거가 확인되는 질환
+  * <mark style="color:$info;">\[EPOS 2020]</mark> : 코막힘 또는 비루 중 하나는 반드시 포함. 안면 통증·후각 저하만 있고 비루·코막힘이 없으면 CRS 진단 불충분
 * CRS는 단순한 반복 감염이 아니라 다양한 표현형과 endotype을 가진 만성 염증 질환
 * 장기 조절이 필요한 경우가 많고 일부 표현형은 재발이 흔함; 충분한 1차 치료에도 조절되지 않으면 의뢰
 
 {% hint style="info" %}
-**안면 통증·후각 저하만 있고 코 막힘·비루가 전혀 없는 경우**에는 비부비동염보다 삼차신경통·편두통·안면 통증 증후군을 먼저 감별. 비부비동염 치료(항생제·비내 스테로이드) 시도 전에 신경학적 원인을 우선 평가
+**안면 통증·후각 저하만 있고 코막힘·비루가 전혀 없는 경우**에는 비부비동염보다 삼차신경통·편두통·안면 통증 증후군을 먼저 감별. 비부비동염 치료(항생제·비내 스테로이드) 시도 전에 신경학적 원인을 우선 평가
 {% endhint %}
 
 #### <mark style="color:$primary;">CRS 아형 분류 (최신 지견)</mark>
 
-* 임상 표현형 : \*\*CRS without nasal polyps (CRSsNP)\*\*와 **CRS with nasal polyps (CRSwNP)**
+* 임상 표현형 : CRS without nasal polyps (CRSsNP)와 CRS with nasal polyps (CRSwNP)
 * <mark style="color:$info;">\[EPOS 2020]</mark> 분류 : primary/secondary → localized/diffuse → type 2/non-type 2 염증으로 세분
 * CRSwNP에서는 type 2 염증(호산구, IL-4/IL-5/IL-13)이 흔하지만 모든 환자에게 동일하지 않고, CRSsNP도 type 2 염증을 보일 수 있으므로 비용종 유무만으로 endotype을 단정하지 않음
   * CRSwNP + 천식 + COX-1 억제제 과민반응이면 [AERD/NERD](051_-allergic-rhinitis.md#drug-induced-rhinitis) 고려; 전문 의뢰
 
-### <mark style="color:orange;">위험 인자</mark>
+### <mark style="color:green;">원인 및 위험 인자</mark>
 
 * 고령, 면역 저하, 알레르기, 환경 자극/오염 지속 노출
 * 해부학적 이상, mucociliary 기능 저하(cystic fibrosis, primary ciliary dyskinesia)
@@ -336,14 +334,14 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
 
 ## <mark style="color:green;">진단</mark>
 
-* 증상 : 코 막힘·비루·안면 통증/압박감·후각 저하 중 2개 이상, 12주 이상; 코 막힘 또는 비루 중 하나는 필수 <mark style="color:$info;">\[EPOS 2020]</mark>
+* 증상 : 코막힘·비루·안면 통증/압박감·후각 저하 중 2개 이상, 12주 이상; 코막힘 또는 비루 중 하나는 필수 <mark style="color:$info;">\[EPOS 2020]</mark>
 * 객관적 염증 증거 : 전비경/비강 내시경의 비용종·중비도 부종·농성 분비물 또는 CT의 부비동 점막 염증
 * 비용종 유무를 확인하고 천식, cystic fibrosis, 면역 결핍, 원발성 섬모운동 이상, AERD 등 치료를 변경하는 동반 질환 평가 (AERD는 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>에 새로 추가)
 
 #### <mark style="color:$primary;">감별</mark>
 
-* 알레르기비염 (☞ [알레르기비염](051_-allergic-rhinitis.md))
-* 비알레르기비염 (☞ [비알레르기비염](052_-non-allergic-rhinitis.md))
+* [알레르기비염](051_-allergic-rhinitis.md)
+* [비알레르기비염](052_-non-allergic-rhinitis.md)
 * 2차성 비염 : 임신, 갑상선저하증
 * 구조적 이상 : 비용종, 이물, 비중격 만곡, 편도/아데노이드 비대
 * 편두통, 안면 통증 증후군(facial pain syndrome)
@@ -354,7 +352,7 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
 * 상악동 바닥과 상악 후방 치아(제1·2대구치, 제2소구치)의 치근이 매우 근접하거나 상악동 내로 돌출되어, 치근단 감염·치주염·임플란트 시술 합병증 등이 상악동염으로 직접 파급될 수 있음
 * 최근 임플란트 및 상악 치과 시술 증가로 치성 상악동염 비율이 높아지는 추세 - 일부 연구에서 상악동염의 25\~40%가 치성 원인으로 보고
 
-**임상 단서**
+<mark style="color:cyan;">**임상 단서**</mark>
 
 * 편측성 상악동염이 가장 흔하지만 양측성도 가능
 * 악취를 동반한 농성 비루(foul-smelling purulent discharge) - 구강 혐기성균(_Fusobacterium_, _Prevotella_ 등) 감염의 특징
@@ -362,14 +360,16 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
 * 상악 치아 통증·최근 발치/임플란트 시술 병력
 * 항생제만으로 일시 호전 후 반복 재발 - 치과적 원인이 해결되지 않으면 항생제 종료 후 수 주 내 재발하는 패턴이 특징적; 이 패턴이 반복되면 치성 원인을 적극 의심
 
-**진단**
+<mark style="color:cyan;">**진단**</mark>
 
-* 치과용 panoramic X선은 선별에 사용할 수 있으나 치근단 병변을 놓칠 수 있음; dental CT/CBCT 또는 부비동 CT로 치근단 병변·상악동 바닥 침범 평가
+* 치과용 panoramic X선은 선별에 사용할 수 있으나 치근단 병변을 놓칠 수 있음
+* dental CT/CBCT 또는 부비동 CT로 치근단 병변·상악동 바닥 침범 평가
 
-**치료**
+<mark style="color:cyan;">**치료**</mark>
 
 * 원인 치아 치료(근관 치료, 발치, 임플란트 관련 처치) 없이는 항생제만으로 완치가 어려움
-* 전신 증상·급성 감염 등 항생제 적응이 있으면 amoxicillin/clav. 등 구강 혐기성균을 포함하는 약제를 고려; metronidazole의 일률적 추가 병용은 권장하지 않고 배양·중증도·치과 처치 계획에 따라 결정
+* 전신 증상·급성 감염 등 항생제 적응이 있으면 amoxicillin/clav. 등 구강 혐기성균을 포함하는 약제를 고려
+  * metronidazole의 일률적 추가 병용은 권장하지 않고 배양·중증도·치과 처치 계획에 따라 결정
 * 치과 협진. 필요시 이비인후과+구강악안면외과 협진
 
 ### <mark style="color:orange;">검사</mark>
@@ -380,23 +380,25 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
 * 알레르기·면역 검사 : 병력상 동반 알레르기 또는 면역 결핍이 의심될 때 선택적으로 시행
 
 {% hint style="info" %}
-합병증 없는 ARS에는 CT 촬영 불필요
-
-* uncomplicated ARS/ABRS에서는 CT 검사는 보류
-* CT 적응 : 합병증 의심(안와 침범·두개내 파급), CRS 객관적 확진·치료 불응 원인 평가, 수술 전 해부학적 평가
-* 바이러스성 상기도 감염에서도 CT상 점막 비후·분비물 저류가 나타날 수 있어 영상 소견만으로 세균성을 확정할 수 없음
+**합병증 없는 ARS에는 CT 촬영 불필요**\
+• uncomplicated ARS/ABRS에서는 CT 검사는 보류\
+• CT 적응 : 합병증 의심(안와 침범·두개내 파급), CRS 객관적 확진·치료 불응 원인 평가, 수술 전 해부학적 평가\
+• 바이러스성 상기도 감염에서도 CT상 점막 비후·분비물 저류가 나타날 수 있어 영상 소견만으로 세균성을 확정할 수 없음
 {% endhint %}
 
 ***
 
-## <mark style="color:green;">Management - 만성 비부비동염</mark>
+## <mark style="background-color:$warning;">Management - 만성 비부비동염</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 모든 CRS의 기본 치료는 고용량 식염수 비강 세척과 비내 스테로이드
 * 알레르기비염·천식·AERD 등 동반 질환을 함께 치료하고, 비용종 유무 및 type 2 염증 가능성에 따라 치료를 단계화
 * 급성 악화나 치성 감염이 없는 안정된 CRS에 항생제를 routine으로 처방하거나 CT·수술 전 필수 선행치료로 요구하지 않음 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>
-* 일반 CRS에 국소 또는 전신 항진균제를 사용하지 않음; 급성 침습성 진균성 비부비동염과 allergic fungal rhinosinusitis는 별도 전문 치료 영역
+* 일반 CRS에 국소 또는 전신 항진균제를 사용하지 않음
+  * 급성 침습성 진균성 비부비동염과 allergic fungal rhinosinusitis는 별도 전문 치료 영역
+
+☞  약물 및 비약물 치료제에 대하여 [알레르기비염](051_-allergic-rhinitis.md#management) 챕터 참조
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -404,21 +406,20 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
 
 * 안정된 CRS에 경험적 항생제를 routine으로 사용하지 않음 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>
 * 급성 세균성 악화, 치성 부비동염, 안와/두개내 합병증 등 감염이 명확한 상황에서만 임상 양상과 배양 결과에 따라 선택
-* 저용량 장기 macrolide를 일률적으로 사용하지 않음. MACRO 무작위시험에서는 비내 치료에 추가한 3개월 clarithromycin이 위약 대비 6개월 삶의 질을 유의하게 개선하지 못했으며, 일부 non-type 2/저호산구성 CRSsNP에서의 선별적 효과는 여전히 불확실함. 내성·QT 연장 등 위해를 고려하여 전문의가 제한적으로 판단 <mark style="color:$info;">\[Lancet 2025]</mark>
+* 저용량 장기 macrolide를 일률적으로 사용하지 않음
+  * MACRO 무작위시험에서는 비내 치료에 추가한 3개월 clarithromycin이 위약 대비 6개월 삶의 질을 유의하게 개선하지 못했으며, 일부 non-type 2/저호산구성 CRSsNP에서의 선별적 효과는 여전히 불확실함. 내성·QT 연장 등 위해를 고려하여 전문의가 제한적으로 판단 <mark style="color:$info;">\[Lancet 2025]</mark>
 
 ### <mark style="color:orange;">스테로이드</mark>
 
 #### <mark style="color:$primary;">비내 스테로이드</mark>
 
-* CRS의 핵심 장기 유지 치료 (☞ [알레르기비염](051_-allergic-rhinitis.md#steroid))
-* 국내 허가 구분 : 나조넥스는 성인 비용종에 허가; CRSsNP 자체를 치료하거나 아바미스를 알레르기비염 없이 CRS에 사용하는 경우는 허가 외 사용으로 구분
-
-**스테로이드 비강 세척** (Off-label, 비급여)
-
-* 심한 CRS, 특히 FESS 후 일반 비내 스프레이로 조절되지 않는 환자에서 부비동 내 약물 전달을 높이기 위해 전문의가 선택적으로 고려
-* 방법의 예 : budesonide 흡입용 현탁액 0.5 ㎎/2 ㎖ <mark style="color:blue;">\[풀미코트 레스퓰]</mark>을 생리식염수 약 240 ㎖에 혼합하여 1일 1\~2회 비강 세척
-* <mark style="color:blue;">\[나리타점비액]</mark> 등 비강분무제는 위 용량의 세척용 ampule이 아니므로 혼합 세척 제품으로 표기하지 않음
-* 장기 고용량 사용 시 드물게 HPA axis·안압에 영향을 줄 수 있으므로 총 스테로이드 노출, 녹내장 위험, 반복 경구 스테로이드 사용 등을 고려하여 개별 모니터링
+* CRS의 핵심 장기 유지 치료
+* 허가 사항 : <mark style="color:blue;">\[나조넥스나잘]</mark>은 성인 비용종에 허가; CRSsNP 자체를 치료하거나 <mark style="color:blue;">\[아바미스나잘]</mark>을 알레르기비염 없이 CRS에 사용하는 경우는 허가 외 사용으로 구분
+* **스테로이드 비강 세척** (Off-label, 비급여)
+  * 심한 CRS, 특히 FESS 후 일반 비내 스프레이로 조절되지 않는 환자에서 부비동 내 약물 전달을 높이기 위해 전문의가 선택적으로 고려
+  * 방법 예 : budesonide 흡입용 현탁액 0.5 ㎎/2 ㎖ <mark style="color:blue;">\[풀미코트 레스퓰]</mark>을 생리식염수 240 ㎖에 혼합하여 1일 1\~2회 비강 세척
+  * <mark style="color:blue;">\[나리타점비액]</mark> 등 비강분무제는 위 용량의 세척용 ampule이 아니므로 혼합 세척 제품으로 표기하지 않음
+  * 장기 고용량 사용 시 드물게 HPA axis·안압에 영향을 줄 수 있으므로 총 스테로이드 노출, 녹내장 위험, 반복 경구 스테로이드 사용 등을 고려하여 개별 모니터링
 
 #### <mark style="color:$primary;">경구 스테로이드</mark>
 
@@ -436,8 +437,8 @@ _✽Non-type I penicillin 알레르기의 cephalosporin 대체요법은 **중증
   4. 후각검사로 확인한 무후각
   5. 규칙적인 흡입 스테로이드 치료가 필요한 동반 천식
 * 수술력이 없는 환자는 수술 부적합·금기 등 예외적 상황에서 전문기관이 적합성을 평가하며, 수술 대안·환자 선호 및 국내 허가·급여 범위를 함께 고려
-* dupilumab : IL-4Rα 차단 → IL-4·IL-13 동시 억제; 성인(18세 이상) CRSwNP 추가 유지 치료로 2021년 국내 허가(300 ㎎ 제품), 300 ㎎ SC q2w <mark style="color:blue;">\[듀피젠트]</mark>; CRSwNP 자체의 적응증으로 투여하면 약값 전액 본인부담이며, 동반 중증 천식 등 별도 급여 적응증을 충족하는 경우와 구분 <mark style="color:$info;">\[HIRA 고시 제2026-159호]</mark>
-* 기타 : mepolizumab(IL-5 차단), omalizumab(IgE 차단), tezepelumab(TSLP 차단; 2025년 10월 FDA에서 **12세 이상** CRSwNP 추가 유지 치료 허가) 등; 국외 CRSwNP 허가를 국내 허가·급여로 해석하지 않음
+* dupilumab : IL-4Rα 차단 → IL-4·IL-13 동시 억제; 성인(18세 이상) CRSwNP 추가 유지 치료로 2021년 국내 허가(300 ㎎ 제품), 300 ㎎ SC q2w <mark style="color:blue;">\[듀피젠트주]</mark>; CRSwNP 자체의 적응증으로 투여하면 약값 전액 본인부담이며, 동반 중증 천식 등 별도 급여 적응증을 충족하는 경우와 구분 <mark style="color:$info;">\[HIRA 고시 제2026-159호]</mark>
+* 기타 : mepolizumab(IL-5 차단), omalizumab(IgE 차단), tezepelumab(TSLP 차단; 2025년 10월 FDA에서 12세 이상 CRSwNP 추가 유지 치료 허가) 등; 국외 CRSwNP 허가를 국내 허가·급여로 해석하지 않음
 * CRSsNP에는 생물학적 제제를 routine으로 사용하지 않음 <mark style="color:$info;">\[AAO-HNSF 2025]</mark>
 * 일차진료에서의 역할 : 생물학적 제제 처방 자체는 이비인후과·알레르기내과 전문 의뢰 영역. 일차 의원에서는 아래 기준 해당 시 적극적으로 의뢰
   1. 충분한 비내 스테로이드·비강 세척에도 큰 양측 비용종과 후각 소실이 지속
