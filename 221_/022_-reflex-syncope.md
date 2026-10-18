@@ -20,7 +20,7 @@
 
 ## <mark style="color:green;">종류</mark>
 
-#### <mark style="color:$primary;">혈관미주신경성 실신 Vasovagal Syncope (VVS), Neurocardiogenic Syncope</mark>
+### <mark style="color:orange;">혈관미주신경성 실신 Vasovagal Syncope (VVS), Neurocardiogenic Syncope</mark>
 
 * 가장 흔한 반사성 실신
 * 유발 인자 : 불쾌한 광경·소리·냄새, 공포, 통증, 채혈·주사 등 의료 시술, 장시간 기립, 고온·혼잡한 환경, 운동 직후(post-exertional)
@@ -29,19 +29,19 @@
 * 실신 후 피로·구역이 남을 수 있으며, 의식 소실 후 짧고 불규칙한 근간대성 움직임이 나타날 수 있음(convulsive syncope)
   * 지남력은 대개 신속히 회복함. 수 분 이상 지속되는 혼돈, 의식 회복 전부터 시작하는 규칙적 강직간대운동, 측면 혀 깨물기 등은 뇌전증 발작을 더 시사
 
-#### <mark style="color:$primary;">상황 실신 Situational Syncope</mark>
+### <mark style="color:orange;">상황 실신 Situational Syncope</mark>
 
 * 특정 행위 중 또는 직후 반복되는 반사성 실신
 * 유발 인자 : 기침, 재채기, 큰 웃음, 배뇨, 배변, 삼킴·식도 자극, 내장 통증, 운동 직후, 부는 악기 연주, 역도 등
 * 같은 상황에서 반복된 병력이 진단에 도움을 주지만, 전조 증상은 짧거나 없을 수 있음
 * 기침 원인 치료, 배뇨 시 앉은 자세 등 유발 상황에 맞춘 대처를 병행
 
-#### <mark style="color:$primary;">목동맥굴증후군 Carotid Sinus Syndrome (CSS)</mark>
+### <mark style="color:orange;">목동맥굴증후군 Carotid Sinus Syndrome (CSS)</mark>
 
 * 주로 40세 이후에서 발생하며 머리 회전, 면도, 목을 조이는 옷 등 목동맥굴 압박과 연관될 수 있음
 * 단순 목동맥굴 과민반응(carotid sinus hypersensitivity)과 달리, 진단을 위해서는 목동맥굴 마사지 중 평소의 실신·전실신 증상이 재현되어야 함
 
-#### <mark style="color:$primary;">비전형적 반사성 실신 Atypical Forms</mark>
+### <mark style="color:orange;">비전형적 반사성 실신 Atypical Forms</mark>
 
 * 뚜렷한 유발 인자나 전형적인 전조가 없을 수 있으므로, 다른 원인을 충분히 배제하고 유사한 반사 기전이 검사에서 재현될 때 진단
 
@@ -49,29 +49,30 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 운동 중 또는 누운 자세에서 발생한 실신
-* 실신과 동시에 발생한 흉통·호흡곤란·저산소증, 또는 실신 전후로 시작되어 회복 후에도 지속되는 심계항진
-* 회복 후에도 지속되는 의식 변화, 국소 신경학적 이상, 심한 두통
-* 지속적인 저혈압·서맥·빈맥 또는 활동성 출혈·심한 빈혈·폐색전증 의심
-* 중증 두부 외상이나 기타 심각한 손상 동반
-* Mobitz II형 또는 3도 방실차단, 지속성 심실빈맥, 명백한 허혈성 변화 등 즉각적인 처치가 필요한 ECG 이상
+* 운동 중 또는 누운 자세에서 발생한 실신으로 현재 활력징후가 불안정하거나 증상이 지속되거나 위험 부정맥이 기록된 경우  `심장성 실신`
+* 실신과 동시에 발생한 흉통·호흡곤란·저산소증, 또는 실신 전후로 시작되어 회복 후에도 지속되는 심계항진  `급성 관상동맥증후군` `폐색전증` `부정맥`
+* 회복 후에도 지속되는 의식 변화, 국소 신경학적 이상, 심한 두통  `뇌졸중` `지주막하출혈` `뇌전증 발작`
+* 지속적인 저혈압·서맥·빈맥 또는 활동성 출혈·심한 빈혈·폐색전증 의심  `쇼크` `부정맥` `중증 출혈` `폐색전증`
+* 중증 두부 외상이나 기타 심각한 손상 동반  `두개내출혈`
+* Mobitz II형 또는 3도 방실차단, 지속성 심실빈맥, 명백한 허혈성 변화 등 즉각적인 처치가 필요한 ECG 이상  `부정맥성 실신` `급성 관상동맥증후군`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 알려진 구조적 심질환·심부전 또는 이전 심근경색
-* 명백한 QT 연장·단축, pre-excitation(WPW), bifascicular block 또는 기타 유의한 전도장애, type 1 Brugada pattern 등 비정상 ECG
-* 실신 직전 갑작스럽게 시작된 심계항진
-* 앉은 자세에서 갑자기 발생하거나 전조 증상 없이 발생한 실신
-* 젊은 연령의 돌연사 가족력 또는 Long QT syndrome, Brugada syndrome, CPVT 등 유전성 부정맥 가족력
-* 첫 실신이거나 이전과 양상이 달라졌으며 반사성 실신으로 확신하기 어려운 경우
-* 40세 초과에서 서맥·무수축 기전이 강하게 의심되는 중증·예측 불가능한 재발성 실신
+* 운동 중 또는 누운 자세에서 발생한 실신으로 완전히 회복되어 현재 안정적인 경우  `구조적 심질환` `부정맥`
+* 알려진 구조적 심질환·심부전 또는 이전 심근경색  `구조적 심질환`
+* 명백한 QT 연장·단축, pre-excitation(WPW), bifascicular block 또는 기타 유의한 전도장애, type 1 Brugada pattern 등 비정상 ECG  `부정맥성 실신` `유전성 부정맥`
+* 실신 직전 갑작스럽게 시작된 심계항진  `부정맥성 실신`
+* 앉은 자세에서 갑자기 발생하거나 전조 증상 없이 발생한 실신  `부정맥성 실신`
+* 젊은 연령의 돌연사 가족력 또는 Long QT syndrome, Brugada syndrome, CPVT 등 유전성 부정맥 가족력  `유전성 부정맥`
+* 첫 실신이거나 이전과 양상이 달라졌으며 반사성 실신으로 확신하기 어려운 경우  `심장성 실신` `비실신성 TLOC`
+* 40세 초과에서 서맥·무수축 기전이 강하게 의심되는 중증·예측 불가능한 재발성 실신  `심장억제형 반사성 실신`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 전형적인 유발 상황과 전조가 있으나 실신이 반복되거나 일상생활·직업에 지장
+* 전형적인 유발 상황과 전조가 있으나 실신이 반복되거나 일상생활·직업에 지장  `재발성 반사성 실신`
 * 외상 위험이 높거나 전조가 짧아 안전한 자세를 취하기 어려움
 * 혈압강하약·이뇨제·질산염·향정신성 약물 등 약물 관련 저혈압이 의심
-* 동반된 기립불내성 또는 낙상이 반복
+* 동반된 기립불내성 또는 낙상이 반복  `기립성 저혈압` `POTS`
 * 실신으로 인한 반복적 외상(골절·열상 등)이 발생
 
 ## <mark style="color:green;">진단</mark>
@@ -119,7 +120,7 @@
 
 ### <mark style="color:orange;">주요 감별</mark>
 
-<table data-search="false"><thead><tr><th width="152">감별 진단</th><th>주요 단서</th><th>확인·대응</th></tr></thead><tbody><tr><td>혈관미주신경성 실신</td><td>불쾌한 자극·통증·장시간 기립, 창백·발한·구역·시야 변화 등의 전조</td><td>전형적인 병력과 정상 초기 평가가 핵심</td></tr><tr><td>상황 실신</td><td>기침·배뇨·배변·삼킴 등 특정 행위 중 또는 직후 반복</td><td>유발 상황과 증상의 시간적 연관성 확인</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">기립성 저혈압</a></td><td>기립 후 지속적인 혈압 감소와 기립불내성</td><td>표준 기립 혈압 측정. Initial OH는 필요 시 beat-to-beat monitoring</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">식후저혈압</a></td><td>주로 고령자·자율신경기능장애 환자에서 식후 일정 시간이 지나 증상과 혈압 감소</td><td>식전·식후 혈압 평가. 삼킴과 동시에 발생하는 상황 실신과 구분</td></tr><tr><td>심장성 실신</td><td>심폐질환, 비정상 ECG, 운동 중·누운 자세 실신, 전조 없는 돌발 실신</td><td>고위험도에 따라 응급 평가·심장검사</td></tr><tr><td>뇌전증 발작</td><td>지속적 발작 후 혼돈, 측면 혀 깨물기, 의식 소실 전부터 시작한 규칙적 강직간대운동</td><td>임상적으로 의심될 때 신경학적 평가·EEG</td></tr><tr><td>심인성 가성실신(PPS)</td><td>반복적이고 수 분 이상 길게 지속되는 "의식 소실" 삽화, 눈을 감고 있는 경우가 많고 외상이 드묾, 발작 중 혈압·맥박이 감소하지 않음</td><td>목격자 동영상·tilt test 중 정상 혈역학과 증상의 동시성 확인; 정신건강의학과 협진 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="152">감별 진단</th><th>주요 단서</th><th>확인·대응</th></tr></thead><tbody><tr><td>혈관미주신경성 실신</td><td>불쾌한 자극·통증·장시간 기립, 창백·발한·구역·시야 변화 등의 전조</td><td>전형적인 병력과 정상 초기 평가가 핵심</td></tr><tr><td>상황 실신</td><td>기침·배뇨·배변·삼킴 등 특정 행위 중 또는 직후 반복</td><td>유발 상황과 증상의 시간적 연관성 확인</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">기립성 저혈압</a></td><td>기립 후 지속적인 혈압 감소와 기립불내성</td><td>표준 기립 혈압 측정. Initial OH는 필요시 beat-to-beat monitoring</td></tr><tr><td><a href="../225_/096_-orthostatic-hypotension.md">식후저혈압</a></td><td>주로 고령자·자율신경기능장애 환자에서 식후 일정 시간이 지나 증상과 혈압 감소</td><td>식전·식후 혈압 평가. 삼킴과 동시에 발생하는 상황 실신과 구분</td></tr><tr><td>심장성 실신</td><td>심폐질환, 비정상 ECG, 운동 중·누운 자세 실신, 전조 없는 돌발 실신</td><td>고위험도에 따라 응급 평가·심장검사</td></tr><tr><td>뇌전증 발작</td><td>지속적 발작 후 혼돈, 측면 혀 깨물기, 의식 소실 전부터 시작한 규칙적 강직간대운동</td><td>임상적으로 의심될 때 신경학적 평가·EEG</td></tr><tr><td>심인성 가성실신(PPS)</td><td>반복적이고 수 분 이상 길게 지속되는 "의식 소실" 삽화, 눈을 감고 있는 경우가 많고 외상이 드묾, 발작 중 혈압·맥박이 감소하지 않음</td><td>목격자 동영상·tilt test 중 정상 혈역학과 증상의 동시성 확인; 정신건강의학과 협진 고려</td></tr></tbody></table>
 
 ### <mark style="color:orange;">진단 및 치료 알고리듬</mark>
 
@@ -132,7 +133,7 @@ flowchart LR
         A(["실신 병력·진찰<br/>기립 혈압·12유도 ECG"]) --> B["고위험 소견?"]
         B -->|있음| C["응급·심장 평가"]
         B -->|없음| D["전형적 반사성 실신?"]
-        D -->|아니오| E["표적검사<br/>·ECG 모니터링<br/>필요 시 ILR"]
+        D -->|아니오| E["표적검사<br/>·ECG 모니터링<br/>필요시 ILR"]
     end
     subgraph TX["치료 선택"]
         direction TB
@@ -146,7 +147,7 @@ flowchart LR
     D -->|예| F
     E --> L
     classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef questionNode fill:#fff,stroke:#333
+    classDef questionNode fill:#fff9c4,stroke:#ffe082
     classDef urgentNode fill:#f96,stroke:#e65100,stroke-width:2px
     class A startNode
     class B,D,G,I questionNode
@@ -279,6 +280,8 @@ flowchart LR
 
 * R55.0 혈관미주신경성 실신 Vasovagal syncope
 * R55.8 기타 실신 및 허탈 Other syncope and collapse
+* G90.0 특발성 말초성 자율신경병증 Idiopathic peripheral autonomic neuropathy
+  * 경동맥동실신(carotid sinus syndrome)이 포함됨
 
 ***
 
@@ -407,7 +410,8 @@ flowchart LR
 * \[ESC 2021] [Glikson M, et al. 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy. Eur Heart J. 2021;42(35):3427-3520.](https://doi.org/10.1093/eurheartj/ehab364) - 무수축이 확인된 선별 반사성 실신 환자의 심박동기 적응증
 * [Sheldon R, et al. Midodrine for the Prevention of Vasovagal Syncope: A Randomized Clinical Trial. Ann Intern Med. 2021;174(10):1349-1356.](https://doi.org/10.7326/M20-5415) - POST-4; midodrine의 재발 예방 효과
 * [Sheldon R, et al. Fludrocortisone for the Prevention of Vasovagal Syncope: A Randomized, Placebo-Controlled Trial. J Am Coll Cardiol. 2016;68(1):1-9.](https://doi.org/10.1016/j.jacc.2016.04.030) - POST-2; fludrocortisone의 1차 결과와 적용 한계
-* Sheldon RS, et al. A proof of principle study of atomoxetine for the prevention of vasovagal syncope: the Prevention of Syncope Trial VI. Europace. 2019. - POST VI; tilt 유발 실신에 대한 atomoxetine의 효과
+* [Sheldon RS, et al. A proof of principle study of atomoxetine for the prevention of vasovagal syncope: the Prevention of Syncope Trial VI. Europace. 2019;21(11):1733-1741.](https://doi.org/10.1093/europace/euz250) - POST VI; tilt 유발 실신에 대한 atomoxetine의 효과
+* [Tajdini M, et al. Int J Cardiol Heart Vasc. 2021;34:100789.](https://doi.org/10.1016/j.ijcha.2021.100789) - atomoxetine 소규모 파일럿 RCT; 실신·전실신 복합 종료점
 * \[COMFORTS-II 2025] [Tavolinejad H, et al. Using Compression Stockings to Prevent Recurrence of Vasovagal Syncope: A Randomized Sham-Controlled Trial. J Am Coll Cardiol. 2025;86(6):412-422.](https://doi.org/10.1016/j.jacc.2025.05.049) - 허벅지 길이 압박 스타킹의 재발 예방 효과
 * [Aksu T, et al. Cardioneuroablation for the treatment of reflex syncope and functional bradyarrhythmias: A Scientific Statement of EHRA/HRS/APHRS/LAHRS. Europace. 2024;26(8):euae206.](https://doi.org/10.1093/europace/euae206) - CNA의 근거 한계·환자 선택과 안전성
 
