@@ -49,7 +49,7 @@
 * 임신부에서 새로 진단된 갑상선저하증
 * TSH가 현저히 높고 중증 증상 또는 장기 기능 이상이 동반됨
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 치료에도 불구하고 TSH가 정상화되지 않거나 증상이 해결되지 않음
 * 시작 용량에서 2\~3차례 증량하거나 200 ㎍/d에도 조절되지 않음
@@ -65,7 +65,7 @@
 
 #### <mark style="color:$primary;">검사 결과에 영향을 주는 요인</mark>
 
-<table><thead><tr><th width="240">검사 소견</th><th>영향 요인</th></tr></thead><tbody><tr><td>TSH↑</td><td>비-갑상선 질환의 회복기, 약물(dopamine 대항제, amiodarone)</td></tr><tr><td>TSH↓</td><td>비갑상선 질환, chorionic gonadotropin↑(임신 초기, molar pregnancy, choriocarcinoma), TSH 분비 억제 약물(고용량 dopamine 또는 agonist, dobutamine, steroid, octreotide)</td></tr><tr><td>s-TBG↓ (total T4↓ 유발)</td><td>androgen, danazol, steroid, nicotinic acid</td></tr><tr><td>s-TBG↑ (total T4↑ 유발)</td><td>estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil, clofibrate, heroin, mitotane</td></tr><tr><td>T4-TBG 결합 방해 (free T4↑)</td><td>salicylate, salsalate, furosemide, heparin, NSAID</td></tr><tr><td>TSH↓, free T4/T3↑ (위양성 가능)</td><td>biotin(비오틴) 복용 - 면역측정법(immunoassay) 간섭; 일반 함량(모발·피부 영양제 등) 복용 시 검사 최소 48시간(2일) 전 중단, 고용량(10 ㎎/일 이상) 복용 시에는 최소 7일 전 중단 권장</td></tr></tbody></table>
+<table><thead><tr><th width="240">검사 소견</th><th>영향 요인</th></tr></thead><tbody><tr><td>TSH↑</td><td>비-갑상선 질환의 회복기, 약물(dopamine 대항제, amiodarone)</td></tr><tr><td>TSH↓</td><td>비갑상선 질환, chorionic gonadotropin↑(임신 초기, molar pregnancy, choriocarcinoma), TSH 분비 억제 약물(고용량 dopamine 또는 agonist, dobutamine, steroid, octreotide)</td></tr><tr><td>s-TBG↓ (total T4↓ 유발)</td><td>androgen, danazol, steroid, nicotinic acid</td></tr><tr><td>s-TBG↑ (total T4↑ 유발)</td><td>estrogen, tamoxifen, raloxifene, methadone, 5-fluorouracil, clofibrate, heroin, mitotane</td></tr><tr><td>T4-TBG 결합 방해 (free T4↑)</td><td>salicylate, salsalate, furosemide, heparin, NSAID</td></tr><tr><td>TSH↓, free T4/T3↑ (위양성 가능)</td><td>biotin(비오틴) 복용 - 면역측정법(immunoassay) 간섭; 복용량·마지막 복용 시각·신기능과 검사 플랫폼에 따라 간섭 정도가 달라짐. 검사 전 복용 사실을 알리고 검사실 권고에 따라 중단 기간을 결정; 5~10 ㎎/d에서도 간섭할 수 있으며 일부 검사법에서는 48~72시간 이상 필요할 수 있음.</td></tr></tbody></table>
 
 * TBG는 T4/T3 결합능의 약 70\~75%를 차지하는 주된 결합단백질로, 위 표의 약물 외에 질환·생리 상태에 의해서도 변동할 수 있음 (✽ transthyretin·albumin은 결합친화도가 낮아 total 수치에 미치는 영향이 미미함)
   * TBG를 저하시키는 상황(합성 감소) : 만성 간질환, 영양 결핍
@@ -182,7 +182,7 @@ _\*TSH는 검사실·측정법·연령별 참고구간을 우선 적용함. 대�
     * 심장 질환 동반 환자는 TSH가 high-normal range로 유지되도록 낮은 용량으로 시작
   * TSH를 기준으로 4\~6주마다 12.5\~25 ㎍/d씩 증량
   * 치료 중단 후 6주 이내 재개할 때는 심장 문제·체중 감소가 없으면 이전 용량으로 재개
-* 공복 및 일정한 시간에 투여 : 예) 아침 식전 30\~60분 또는 취침 전(마지막 식사 2\~4시간 후)
+* 공복 및 일정한 시간에 투여 : 예) 아침 식전 30\~60분 또는 취침 전(마지막 식사 후 최소 3시간)
   * [ ] 취침 전 복용 시 아침 복용보다 T4가 약간 높고 TSH가 낮아지는 경향이 있는 것으로 보고됨 - 수면 중에는 공복 상태가 자연히 유지되어 커피·음식·칼슘제 등 흡수 저해 요인이 적고, 야간 위장관 운동 저하로 약물-점막 접촉 시간이 길어져 약물 흡수가 증가하기 때문으로 추정
 * 칼슘·철분·알루미늄/마그네슘 제산제, sucralfate, 담즙산 결합수지 등 직접 결합해 흡수를 방해하는 약제와는 4시간 이상 분리; 커피는 약제 복용 최소 30\~60분 경과 후 음용
 * 제조사마다 약효 차이가 있을 수 있으므로 가급적 동일 제조사·동일 제품 유지; 제품 변경 시 6주 후 TSH 재검
@@ -214,7 +214,7 @@ _\*TSH는 검사실·측정법·연령별 참고구간을 우선 적용함. 대�
 
 **T3 병용 고려 전 확인 순서**
 
-1. 현성 갑상선저하증 진단이 확실한지 확인 - 과거 TSH ≥10 mIU/L 또는 치료 전 fT4 저하가 문서로 확인되어야 함; 확인되지 않으면 T3 시도보다 levothyroxine을 6주간 중단 후 TSH를 재검하는 방안을 우선 고려
+1. 치료 전 기록·갑상선 수술/방사성요오드 치료력 등으로 원발성 갑상선저하증의 객관적 근거를 확인함. BTA/SfE 2023은 T3 고려 전 확인할 근거로 과거 TSH ≥10 mIU/L 및/또는 fT4 저하를 제시하지만, TSH ≥10만으로 fT4 정상인 환자를 현성 저하증으로 재분류하지 않음. 진단이 불확실한 비임신 환자에서만 내분비내과 판단하에 LT4 중단 후 약 6주째 재검을 고려; 임신·임신 준비, 갑상선전절제/방사성요오드 치료 후 명확한 영구 저하증에는 이 중단 시험을 적용하지 않음 <mark style="color:$info;">\[BTA/SfE 2023]</mark>
 2. 지속 증상을 설명할 수 있는 동반 질환을 배제 - 갑상선저하증 증상은 비특이적이며, 정상 갑상선 기능인 사람의 60%도 유사 증상을 호소할 수 있음
 3. levothyroxine 용량을 먼저 최적화 - TSH를 참고치 하한부(0.3\~2.0 mIU/L)로 3\~6개월간 유지한 후 반응을 평가; 일부에서 TSH 0.1\~0.3 mIU/L의 짧은 관찰을 고려할 수 있으나, 고령·심혈관질환·골다공증 위험 환자에서는 피하고 TSH＜0.1 mIU/L는 허용하지 않음
 
@@ -227,11 +227,11 @@ _\*TSH는 검사실·측정법·연령별 참고구간을 우선 적용함. 대�
 * TSH가 참고치 내에서 유지된 상태로 최소 3\~6개월간 병용 후 반응을 평가하며, 증상 호전이 없으면 levothyroxine 단독으로 복귀
 * 모니터링은 원칙적으로 TSH만으로 하되, TSH가 낮거나 억제된 경우 fT3/fT4를 추가 측정 - liothyronine 복용 사실을 검사 의뢰서에 기재
 * 반감기가 짧아 이론적으로는 1일 2회 분할 복용이 원칙(예 : 아침·오후로 나눔)이지만 국내 유통 liothyronine 정제는 5 ㎍ 단일 함량으로<mark style="color:blue;">\[테트로닌]</mark> 분할이 어려워 실제로는 저용량(예 : 5 ㎍/d) 1일 1회 복용으로 처방되는 경우가 많음 - 처방 시 반감기·혈중 농도 변동을 환자에게 설명하고, 용량이 늘어나는 경우(10 ㎍/d 이상) bid 분할 투여를 우선 고려
-* 감량/중단 시 : liothyronine 5 ㎍은 levothyroxine 약 15 ㎍(1:3 비율)로 대체; 용량 변경 6\~8주 후 TSH 재검; 안정적으로 병용 중이며 TSH가 정상인 환자를 일률적으로 감량할 필요는 없음
+* 감량/중단 시 : 일반적인 전환에서는 BTA/SfE 2023의 근삿값에 따라 liothyronine 5 ㎍을 levothyroxine 약 15 ㎍(1:3 비율)로 대체; 임신 전 전환은 아래 ATA 2026의 별도 근삿값을 참고하고 검사 결과로 조정함; 용량 변경 6\~8주 후 TSH 재검; 안정적으로 병용 중이며 TSH가 정상인 환자를 일률적으로 감량할 필요는 없음
 * DIO2, MCT10 등 유전자 다형성이 T4/T3 병용요법 반응과 관련될 수 있다는 소규모 연구가 있으나, 근거가 충분하지 않아 치료 반응 예측을 위한 유전자 검사는 현재 임상에서 권고되지 않음
 
 {% hint style="danger" %}
-**Liothyronine 장기 사용의 안전성 우려** : 과량 투여로 지속적인 TSH 억제가 발생하면 심방세동 등 부정맥과 골소실 위험이 증가할 수 있으므로 TSH를 참고범위 내로 유지하며 장기 추적이 필요하다. 국내 연구(Yi 등, _Thyroid_ 2022)에서는 liothyronine(단독 또는 levothyroxine 병용) 사용이 levothyroxine 단독 사용에 비해 심부전 및 뇌졸중 발생 위험 증가와 연관되었으며, 특히 1년 이상 사용군에서 이러한 연관성이 더 뚜렷하였다. 다만 이는 관찰연구 결과이므로 인과관계를 의미하는 것은 아니다. 장기 사용 시에는 TSH, 심박수, 부정맥(특히 심방세동)을 추적하고, 폐경 후 여성 등 골다공증 위험이 높은 환자에서는 골밀도 평가를 고려한다.
+**Liothyronine 장기 사용의 안전성** : 과량 투여로 지속적인 TSH 억제가 발생하면 부정맥과 골소실 위험이 증가할 수 있으므로 TSH를 참고범위 내로 유지함. 국내 관찰연구에서는 LT3 사용과 심부전·뇌졸중 위험 증가의 연관성이 보고되었으나, 2025년 체계적 문헌고찰·메타분석에서는 심방세동·심부전·뇌졸중 위험 증가가 통계적으로 명확하지 않았음. 관찰연구의 교란과 일부 결과의 넓은 신뢰구간 때문에 인과관계나 장기 안전성이 확정된 것은 아님. TSH·심박수·부정맥을 추적하고, 폐경 후 여성 등 골다공증 고위험군에서는 골밀도 평가를 고려함 <mark style="color:$info;">\[Yi 2022; Bahl 2025]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">모니터링</mark>
@@ -253,21 +253,21 @@ _\*TSH는 검사실·측정법·연령별 참고구간을 우선 적용함. 대�
 
 #### <mark style="color:$primary;">임신 준비(preconception) 단계</mark>
 
-* 목표 TSH : 0.5\~2.5 mIU/L(참고치 내에서 안전역 확보 목적) \[ATA 2026]
+* 목표 TSH : 0.5\~2.5 mIU/L(참고치 내에서 안전역 확보 목적) <mark style="color:$info;">\[ATA 2026]</mark>
 * Liothyronine·천연 갑상선 추출물(desiccated thyroid) 복용 중이면 임신 시도 전 LT4 단독으로 전환 - 태아 뇌는 모체에서 오는 T4에 의존하므로 T3 우세 상태는 태아 갑상선호르몬 공급에 불리할 수 있음
-  * 전환 비율 : liothyronine 5 ㎍ ≈ LT4 20 ㎍(1:4)
+  * 임신 전 LT4 단독 전환 시 ATA 2026의 근삿값 : liothyronine 5 ㎍ ≈ LT4 20 ㎍(1:4). 일반 병용 감량 시 BTA/SfE 2023의 1:3과 출처·적용 상황이 다르므로 임의로 혼용하지 않고, 전환 후 갑상선기능으로 적정함
 
 #### <mark style="color:$primary;">임신 중 관리</mark>
 
-* 임신 중 새로 확인된 현성 갑상선저하증 : 지체 없이 LT4를 시작. 대체로 1.5\~1.7 ㎍/㎏/d를 기준으로 산정하고 임신에 따른 요구량 증가(약 20\~30%)를 반영해 개별화
-  * 임신 참고치 상한을 넘지만 TSH＜6 mIU/L인 경미한 이상은 fT4, 증상, 임신 주수와 환자 선호를 반영해 즉시 치료하거나 1\~3주 내 재검하는 방안을 공동 결정; TSH ≥6 mIU/L이거나 fT4 저하가 명확하면 치료를 시작
+* 임신 중 새로 확인된 현성 갑상선저하증(TSH 상승 + fT4 저하) : LT4 치료가 원칙임. 대체로 1.5\~1.7 ㎍/㎏/d에 임신에 따른 요구량 증가(약 20\~30%)를 반영해 개별화함
+  * 경미한 현성 저하증(TSH가 임신 참고치 상한 초과~＜6 mIU/L)이면 환자 선호와 임상 상태에 따라 즉시 치료 또는 1\~3주 내 확인 검사를 공동 결정할 수 있음. 현성 저하증에서 TSH ≥6 mIU/L이면 치료함. 이 6 mIU/L 기준을 fT4가 정상인 무증상 저하증에 그대로 적용하지 않음 <mark style="color:$info;">\[ATA 2026]</mark>
 * 이미 LT4를 복용 중인 여성 : 임신 확인 즉시 약 25% 증량(예 : 평소 stable dose에서 주 2회 추가 복용) 후 적정; 이후 임신 12주까지 약 25%, 20주까지 약 50% 증량이 필요한 경우가 많음
   * 임신 전 TSH＜1.5 mIU/L, 임신 전 LT4 용량 ＞100 ㎍/d, 또는 주 2정 추가 방식으로 일괄 증량한 경우 과잉치료 위험이 다소 높으므로 증량 폭을 개별화
 * 모니터링(TSH, free/total T4) : 임신 전반기 4주마다 + 임신 3분기 중 최소 1회(약 30주 전후) + 용량 조정 후 4\~6주 후 + 분만 6주 후
-* 조절 목표
-  * TSH : 검사실·지역의 임신 분기별(trimester-specific) 참고구간이 있으면 최우선 사용
+* 진단 참고구간과 치료 목표
+  * 진단·검사 해석 : 검사실·지역의 임신 분기별(trimester-specific) TSH 참고구간을 최우선 사용
     * 분기별 참고구간이 없으면 1분기에 0.1\~4.0 mIU/L를 대안으로 사용할 수 있음. 해당 검사실의 비임신 상한이 ＞4.5 mIU/L이면 임신 전반기에는 비임신 상한에서 약 0.5 mIU/L를 낮춰 적용하고, 이후 임신 후반기로 갈수록 비임신 범위로 회복하는 방식도 허용됨
-  * 이미 LT4를 복용 중인 여성(임신 전·임신 중 공통) : TSH를 참고구간 내, ＜2.5 mIU/L으로 유지하는 것을 목표로 함(임신에 따른 요구량 증가에 대비한 안전역)
+  * LT4 치료 중 목표(기존 복용자와 임신 중 신규 치료자) : TSH를 참고구간 내에서 ＜2.5 mIU/L로 유지하는 것을 목표로 고려함. 위의 0.1~4.0 mIU/L는 진단을 위한 대안 참고구간으로, 치료 목표와 구분함
   * total T4 : estrogen에 의한 TBG 증가로 자연히 상승 - 임신 7주부터 주당 5%씩 증가하여 16주경 최대 50% 증가로 정체(plateau)하므로, 비임신 참고치 상한에 이 증가율을 적용해 해석(비임신 참고치 그대로 적용하지 않음)
 * 임신 중에는 liothyronine을 사용하지 않음
 * ✽TPOAb/TgAb는 태반을 통과하나 Graves병의 TRAb와 달리 태아 갑상선을 직접 자극하지 않아, 태아 초음파 등 별도의 태아 모니터링은 필요하지 않음(☞ 항진증 챕터의 태아/신생아 모니터링과 대비되는 이유)
@@ -275,7 +275,7 @@ _\*TSH는 검사실·측정법·연령별 참고구간을 우선 적용함. 대�
 #### <mark style="color:$primary;">임신 중 무증상 갑상선저하증</mark>
 
 * 임신 1분기에 반복 검사로 지속되는 무증상 갑상선저하증이 확인되면 TSH, TPO Ab, 과거력 및 환자 선호를 함께 고려해 LT4 시작을 공동 결정
-* 임신 1분기 이후 처음 발견된 경미한 무증상 갑상선저하증은 일반적으로 새로 LT4를 시작하지 않음. 다만 TSH가 현저히 높거나 fT4가 낮으면 현성 갑상선저하증으로 재분류해 치료
+* 임신 1분기 이후 처음 발견된 경미한 무증상 저하증은 일반적으로 새로 LT4를 시작하지 않음. 다만 분기 경계 직후 발견되거나 TSH가 상승하는 경우에는 임신 주수·검사 추세를 반영해 개별 판단함. TSH 상승과 fT4 저하가 함께 확인되면 현성 저하증으로 재분류해 치료하며, TSH가 현저히 높으면 신속히 재평가·협진함. TSH 정상 + fT4 단독 저하는 고립성 저티록신혈증으로 별도 평가하며 LT4를 일률적으로 투여하지 않음 <mark style="color:$info;">\[ATA 2026]</mark>
 * 치료를 시작한다면 TSH·체중·임신 주수에 따라 보통 25\~75 ㎍/d 범위에서 개별화하고 4주 간격으로 조절
 * 임신 중 처음 시작한 경증 환자는 분만 직후 감량 또는 중단을 검토하고 약 6주 후 TSH 재검. 특히 분만 시 LT4 ≤75 ㎍/d이면 중단 시험을 적극 고려
 
@@ -285,7 +285,7 @@ _\*TSH는 검사실·측정법·연령별 참고구간을 우선 적용함. 대�
 
 <mark style="color:cyan;">**영아 모니터링**</mark>
 
-* Levothyroxine은 생리적 대체 호르몬으로 모유 이행량이 임상적으로 무의미하여, 항갑상선제(MMI·PTU)와 달리 수유 중 용량 상한이나 영아 갑상선기능 모니터링이 필요하지 않음
+* Levothyroxine은 생리적 대체 호르몬으로 모유 이행량이 적어 수유를 위한 별도 용량 상한이나 영아 갑상선기능 정기 검사가 필요하지 않음. 통상적인 저용량 MMI/PTU 수유에서도 영아 TFT를 일률적으로 시행하지 않고 성장·발달을 관찰함. 태내 TRAb·항갑상선제 노출에 따른 신생아 추적은 수유 중 약물 노출과 구분함
 
 #### <mark style="color:$primary;">Euthyroid TPOAb 양성 여성 - LT4 치료 대상 아님</mark>
 
@@ -447,7 +447,7 @@ E89.0 처치후 갑상선기능저하증
 > 씬지로이드정 0.1 ㎎/T   1T   qd  아침 식전 30~60분
 > ```
 >
-> _✽임신 중 새로 확인된 현성 갑상선저하증은 대체로 1.5\~1.7 ㎍/㎏/d를 기준으로 산정하고 임신에 따른 요구량 증가(약 20\~30%)를 반영해 개별화; 기존 복용자는 확인 즉시 약 25% 증량(예 : 주 2회 추가 복용); 목표 TSH는 임신 분기별 참고구간을 우선 사용하고, 없으면 1분기 0.1\~4.0 mIU/L를 대안으로 고려; 임신 전반기 4주마다 + 3분기 중 1회 + 용량 조정 4\~6주 후 + 분만 6주 후 재평가 (ATA 2026)_
+> _✽임신 중 새로 확인된 현성 갑상선저하증은 대체로 1.5\~1.7 ㎍/㎏/d를 기준으로 산정하고 임신에 따른 요구량 증가(약 20\~30%)를 반영해 개별화; 기존 복용자는 확인 즉시 약 25% 증량(예 : 주 2회 추가 복용); 치료 목표는 TSH를 임신 참고구간 내에서 ＜2.5 mIU/L로 유지하는 것으로 고려; 진단 참고구간과 구분함; 임신 전반기 4주마다 + 3분기 중 1회 + 용량 조정 4\~6주 후 + 분만 6주 후 재평가 <mark style="color:$info;">\[ATA 2026]</mark>_
 
 > **처방례 4. 무증상 갑상선저하증, 중증(TSH＞10) + 관상동맥질환/심부전 동반 (성인 ＜70세, 치료 대상)**
 >
@@ -473,7 +473,7 @@ E89.0 처치후 갑상선기능저하증
 
 > **복용 시간과 방법**
 >
-> * 공복에, 매일 같은 시간에 복용하도록 지도(아침 식전 30\~60분 또는 취침 전 - 마지막 식사 2\~4시간 후 중 하나를 선택해 일관되게 유지)
+> * 공복에, 매일 같은 시간에 복용하도록 지도(아침 식전 30\~60분 또는 취침 전 - 마지막 식사 후 최소 3시간 중 하나를 선택해 일관되게 유지)
 > * 칼슘·철분제, 제산제, 종합 비타민 등 흡수를 방해하는 약제·음식과는 최소 4시간 간격을 두고 복용
 > * 커피는 흡수를 감소시킬 수 있으므로 복용 후 최소 30\~60분이 지난 뒤에 마시도록 안내
 > * 하루 복용을 깜빡한 경우 : 그날 안에 기억나면 즉시 복용; 다음 날까지 기억하지 못했다면 다음 날 평소 용량의 2배를 한 번에 복용해도 됨(단, 협심증 등 심장 질환이 있는 환자는 임의로 배수 복용하지 말고 병원에 문의하도록 안내)
@@ -521,7 +521,7 @@ E89.0 처치후 갑상선기능저하증
 
 ### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
-* **매일 같은 시간, 빈속에 드십시오.** 아침 식사 30\~60분 전이나 잠들기 직전(마지막 식사 후 2\~4시간 뒤) 중 편한 시간을 정해 꾸준히 지키는 것이 중요합니다
+* **매일 같은 시간, 빈속에 드십시오.** 아침 식사 30\~60분 전이나 잠들기 직전(마지막 식사 후 최소 3시간 뒤) 중 편한 시간을 정해 꾸준히 지키는 것이 중요합니다
 * **철분제, 칼슘제, 제산제, 종합 비타민과는 4시간 이상 간격**을 두고 드십시오. 함께 드시면 약효가 떨어질 수 있습니다
 * 증상이 좋아졌다고 **임의로 중단하거나 용량을 바꾸지 마십시오.** 대부분 평생 복용해야 하는 약이며, 용량 조절은 혈액 검사 결과를 보고 의사가 결정합니다
 * 처방받은 것과 **같은 제품을 계속 사용**하십시오. 다른 제품으로 바꾸면 흡수량이 달라질 수 있습니다
@@ -540,3 +540,30 @@ E89.0 처치후 갑상선기능저하증
 ### <mark style="color:$primary;">예약일보다 일찍 상담하세요</mark>
 
 * 약을 꾸준히 복용했는데도 증상이 나아지지 않거나 검사 수치가 계속 정상으로 돌아오지 않는 경우
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### 임상 근거
+
+* 대한갑상선학회. 2023 대한갑상선학회 무증상갑상선기능저하증 진료 권고안. Int J Thyroidol. 2023;16:32–50. — 국내 TSH 참고치, 연령별 치료 선별. [원문](https://doi.org/10.11106/ijt.2023.16.1.32)
+
+* Centanni M, et al. ETA guidelines for the use of levothyroxine sodium preparations in monotherapy to optimize the treatment of hypothyroidism. Eur Thyroid J. 2025;14:e250123. — LT4 복용·상호작용·제형 및 모니터링. [원문](https://doi.org/10.1530/ETJ-25-0123)
+
+* Korevaar TIM, et al. American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. — 임신 전·중·산후 관리. [원문](https://doi.org/10.1177/10507256261445624)
+
+* Ahluwalia R, et al. Use of liothyronine (T3) in hypothyroidism: Joint British Thyroid Association/Society for endocrinology consensus statement. Clin Endocrinol (Oxf). 2023;99:206–216. — 제한적 병용 시험과 전환·추적. [원문](https://doi.org/10.1111/cen.14935)
+
+* Yi, et al. Heart Failure and Stroke Risks in Users of Liothyronine With or Without Levothyroxine Compared with Levothyroxine Alone: A Propensity Score-Matched Analysis. Thyroid. 2022. — 국내 관찰연구의 안전성 신호. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35570696/)
+
+* Bahl S, et al. Risk of Death and Adverse Effects in Patients on Liothyronine: A Multisource Systematic Review and Meta-analysis. J Clin Endocrinol Metab. 2025;110:3278–3288. — LT3 안전성 통합 분석. [원문](https://doi.org/10.1210/clinem/dgaf449)
+
+* Li D, et al. AACC Guidance Document on Biotin Interference in Laboratory Tests. J Appl Lab Med. 2020;5:575–587. — 용량·측정법에 따른 비오틴 간섭과 검사 전 중단. [원문](https://doi.org/10.1093/jalm/jfz010)
+
+### 허가·급여 확인 자료
+
+* 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
+
+[https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)

@@ -24,7 +24,7 @@
 ### <mark style="color:orange;">당뇨병전단계 (Prediabetes)</mark>
 
 * 생활 습관 중재, 체중 감량 등 예방 조치 우선; 당뇨병 예방을 위해 주 150분 이상 중강도 이상의 신체 활동, 과체중/비만 시 체중의 5% 이상 감량·유지 (☞ [당뇨병 관리](100_-diabetes-mellitus.md#prediabetes))
-* 과체중/비만인 당뇨병전단계 성인에서 T2DM 예방을 위해 metformin 사용을 고려할 수 있음 \[제한적권고]
+* 과체중/비만인 당뇨병전단계 성인에서 T2DM 예방을 위해 metformin 사용을 고려할 수 있음 \[제한적권고]. 국내 당뇨병전단계 예방 목적은 허가 외 사용이며 비급여임
 
 ### <mark style="color:orange;">1형 당뇨병 (T1DM)</mark>
 
@@ -33,18 +33,18 @@
 * T1DM 성인에서 MDI 또는 인슐린 펌프 치료 시 연속 혈당 측정기(CGM)를 연동한 치료를 권고
 * MDI 시 초단기 작용 인슐린 유사체 및 장기 작용 인슐린 유사체를 우선 사용
 * 자동 인슐린 주입기(AID, Automated Insulin Delivery)를 안전하게 사용할 수 있는 모든 T1DM 성인에서-저혈당 위험과 A1C를 모두 낮추기 위해- AID 사용을 권고
-  * AID는 T1DM 성인·소아뿐 아니라 다회 인슐린 주사(MDI)·인슐린 펌프(CSII)·센서 강화 펌프 치료 중인 T2DM 환자에서도 우선 고려되는 인슐린 전달 방식이며, 기저 인슐린만 사용 중인 T2DM 환자가 개별화된 혈당 목표에 도달하지 못하는 경우에도 AID 사용을 고려할 수 있음 \[ADA 2026]
-  * AID·연속피하인슐린주입(CSII) 시작 전 C-peptide 검사, 자가항체 결과, 인슐린 치료 기간을 확인해야 한다는 요건은 없음 - 필요 시 지연 없이 기기 사용을 시작할 수 있음
+  * AID는 T1DM 성인·소아뿐 아니라 다회 인슐린 주사(MDI)·인슐린 펌프(CSII)·센서 강화 펌프 치료 중인 T2DM 환자에서도 우선 고려되는 인슐린 전달 방식이며, 기저 인슐린만 사용 중인 T2DM 환자가 개별화된 혈당 목표에 도달하지 못하는 경우에도 AID 사용을 고려할 수 있음 <mark style="color:$info;">[ADA 2026]</mark>
+  * ADA의 임상적 AID·연속피하인슐린주입(CSII) 시작 요건에 C-peptide·자가항체 결과 또는 특정 인슐린 치료 기간은 포함되지 않음. 국내 기기 허가·급여 요건과는 구분
 * 저혈당 무감지증이나 중증 저혈당이 발생한 T1DM 성인에게는 저혈당 예방과 저혈당 인지 능력 회복을 위한 전문화·특화된 교육 시행
 * CGM 상시 사용에도 불구하고 저혈당 위험이 높으나 AID를 사용할 수 없는 T1DM 성인에게는 기저 인슐린 주입 중단 알고리듬을 내장한 센서 강화 인슐린 펌프(SAP) 사용을 고려
-* **비만 동반 T1DM** : BMI ≥30 ㎏/㎡(아시아계 ≥27.5)인 T1DM 성인에서는 일반 성인과 동일한 비만 관리 전략(GLP-1 기반 치료 및/또는 대사수술)을 고려할 수 있음 \[ADA 2026 신규]
+* **비만 동반 T1DM** : BMI ≥30 ㎏/㎡(아시아계 ≥27.5)인 T1DM 성인에서는 일반 성인과 동일한 비만 관리 전략(GLP-1 기반 치료 및/또는 대사수술)을 고려할 수 있음 <mark style="color:$info;">[ADA 2026 신규]</mark>
   * GLP-1 기반 약제는 T1DM의 혈당 강하 적응증으로 허가된 치료가 아니며 인슐린을 대체할 수 없음. 공동 의사결정에 따라 비만 치료 목적으로 개별화하고, 인슐린 감량에 따른 저혈당·케톤증 위험을 교육·모니터링함
 
 ### <mark style="color:orange;">2형 당뇨병 (T2DM)</mark>
 
 * 진단 즉시 생활 습관 교정과 자기 관리 방법을 적극적으로 교육하고 지속하도록 모니터링
 * 과이화 작용 증상(체중 감소, 다음, 다뇨 등)과 동반된 고혈당의 경우 인슐린 치료를 시행
-  * A1C 9%를 기준으로 인슐린 치료 여부를 결정하는 것은 근거가 빈약하고 현실에 맞지 않음. A1C 9% 이하에서도 과이화 작용 증상이 있으면 인슐린 치료가 필요하고, A1C 9% 이상이더라도 반드시 인슐린이 필요한 것은 아닐 수 있음 \[KDA 2025]
+  * A1C 9%를 기준으로 인슐린 치료 여부를 결정하는 것은 근거가 빈약하고 현실에 맞지 않음. A1C 9% 이하에서도 과이화 작용 증상이 있으면 인슐린 치료가 필요하고, A1C 9% 이상이더라도 반드시 인슐린이 필요한 것은 아닐 수 있음 <mark style="color:$info;">[KDA 2025]</mark>
 * KDA 2025에서는 metformin을 모든 환자의 일률적인 1차 약제로 우선 권고하지 않으며, 초기부터 동반 질환과 약제 특성을 고려하여 선택함. 다만 ASCVD·심부전·CKD·비만 등 특정 동반질환이 없는 일반적인 T2DM 환자에서는 비용·안전성·혈당 강하 효과와 장기간의 임상 경험을 고려할 때 metformin이 여전히 합리적인 기본 약제임
 * 심부전 동반 시 심부전 이익이 입증된 SGLT2i를 A1C 수치와 무관하게 우선 사용하고 금기나 부작용이 없는 한 유지
 * 알부민뇨가 있거나 eGFR 감소 시 신장 이익이 입증된 SGLT2i를 A1C 수치와 무관하게 우선 사용하고 금기나 부작용이 없는 한 유지
@@ -104,7 +104,7 @@ class INS,P,MAINTAIN blue
 
 ### <mark style="color:orange;">임상 상황별 우선 약제</mark>
 
-<table data-search="false"><thead><tr><th width="180">임상 상황</th><th width="230">우선 약제</th><th>임상 Pearls</th></tr></thead><tbody><tr><td>심부전(HFrEF/전반)</td><td>SGLT2i</td><td>A1C와 무관하게 우선 사용; 삼투성 이뇨에 따른 체액량 감소·저혈압 주의</td></tr><tr><td>증상성 HFpEF + 비만</td><td>효과가 입증된 GLP-1 기반 약제(semaglutide 2.4 ㎎ 또는 tirzepatide)</td><td>A1C와 무관하게 치료 계획에 포함; semaglutide는 증상·운동능력 개선, tirzepatide는 증상 및 심부전 악화 사건 감소 근거</td></tr><tr><td>CKD / 알부민뇨</td><td>SGLT2i</td><td>지침상 eGFR ≥20에서 신장 보호 목적으로 권고하나 실제 시작 기준은 성분별 국내 허가사항 확인; eGFR &#x3C;45에서 혈당 강하 효과 제한적</td></tr><tr><td>진행된 CKD (eGFR &#x3C;30) / 투석</td><td>신장 배설 의존성이 낮은 GLP-1 기반 약제</td><td>투석 환자에서도 고려할 수 있으나 exenatide·lixisenatide 등은 신기능 제한이 있으므로 성분별 허가사항 확인</td></tr><tr><td>ASCVD 동반</td><td>GLP-1 RA (dulaglutide, liraglutide, semaglutide) 또는 SGLT2i</td><td>심혈관 보호 입증 약제 우선; GLP-1 RA는 체중 감소·뇌졸중 예방에도 유리</td></tr><tr><td>비만 동반</td><td>Tirzepatide 또는 Semaglutide</td><td>T2DM 동반 비만에서 tirzepatide의 72주 체중 감소는 약 13~15%(위약 대비 약 10~12%); 초기 GI 부작용을 줄이기 위해 저용량부터 증량</td></tr><tr><td>생검 확인 MASH 또는 간섬유화 고위험</td><td>GLP-1 RA 우선</td><td>MASH 이득 입증 약제를 혈당 관리 목적으로 우선 사용 \[ADA 2026]; pioglitazone 또는 tirzepatide도 고려 가능</td></tr><tr><td>저혈당 우려 (고령·불규칙 식사)</td><td>DPP-4i / SGLT2i / GLP-1 RA</td><td>SU·meglitinide 회피; linagliptin은 CKD에서도 용량 조절 불필요</td></tr><tr><td>비용 부담</td><td>Metformin, Sulfonylurea</td><td>저렴·효과 검증; SU는 저혈당 위험 - 고령·신기능 저하 시 glibenclamide 회피</td></tr><tr><td>허혈성 뇌졸중 동반</td><td>GLP-1 RA 또는 Pioglitazone</td><td>출혈성 뇌졸중에는 적용 안 됨; TZD는 심부전(NYHA III/IV) 환자에서 금기</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="180">임상 상황</th><th width="230">우선 약제</th><th>임상 Pearls</th></tr></thead><tbody><tr><td>심부전(HFrEF/전반)</td><td>SGLT2i</td><td>A1C와 무관하게 우선 사용; 삼투성 이뇨에 따른 체액량 감소·저혈압 주의</td></tr><tr><td>증상성 HFpEF + 비만</td><td>효과가 입증된 GLP-1 기반 약제(semaglutide 2.4 ㎎ 또는 tirzepatide)</td><td>A1C와 무관하게 치료 계획에 포함; semaglutide는 증상·운동능력 개선, tirzepatide는 증상 및 심부전 악화 사건 감소 근거</td></tr><tr><td>CKD / 알부민뇨</td><td>SGLT2i</td><td>지침상 eGFR ≥20에서 신장 보호 목적으로 권고하나 실제 시작 기준은 성분별 국내 허가사항 확인; eGFR &#x3C;45에서 혈당 강하 효과 제한적</td></tr><tr><td>진행된 CKD (eGFR &#x3C;30) / 투석</td><td>신장 배설 의존성이 낮은 GLP-1 기반 약제</td><td>투석 환자에서도 고려할 수 있으나 exenatide·lixisenatide 등은 신기능 제한이 있으므로 성분별 허가사항 확인</td></tr><tr><td>ASCVD 동반</td><td>GLP-1 RA (dulaglutide, liraglutide, semaglutide) 또는 SGLT2i</td><td>심혈관 보호 입증 약제 우선; GLP-1 RA는 체중 감소·뇌졸중 예방에도 유리</td></tr><tr><td>비만 동반</td><td>Tirzepatide 또는 Semaglutide</td><td>T2DM 동반 비만에서 tirzepatide의 72주 체중 감소는 약 13~15%(위약 대비 약 10~12%); 초기 GI 부작용을 줄이기 위해 저용량부터 증량</td></tr><tr><td>생검 확인 MASH 또는 간섬유화 고위험</td><td>GLP-1 RA 우선</td><td>MASH 이득 입증 약제를 혈당 관리 목적으로 우선 사용 <mark style="color:$info;">[ADA 2026]</mark>; pioglitazone 또는 tirzepatide도 고려 가능</td></tr><tr><td>저혈당 우려 (고령·불규칙 식사)</td><td>DPP-4i / SGLT2i / GLP-1 RA</td><td>SU·meglitinide 회피; linagliptin은 CKD에서도 용량 조절 불필요</td></tr><tr><td>비용 부담</td><td>Metformin, Sulfonylurea</td><td>저렴·효과 검증; SU는 저혈당 위험 - 고령·신기능 저하 시 glibenclamide 회피</td></tr><tr><td>허혈성 뇌졸중 동반</td><td>GLP-1 RA 또는 Pioglitazone</td><td>출혈성 뇌졸중에는 적용 안 됨; TZD는 심부전 환자에서 회피하며 국내 성분별 금기를 적용</td></tr></tbody></table>
 
 {% hint style="info" %}
 복합 질환 동반 시 단독 인자 기준이 아니라 우선 순위를 종합 판단. 예) CKD + ASCVD → SGLT2i 우선, GLP-1 RA 병용 고려
@@ -128,11 +128,12 @@ _<mark style="color:$info;">Ref. KDA 당뇨병 진료지침 제9판. 2025. 표 6
 * 부작용 : 소화 장애(＞10%; 설사, 구역, 구토, 복부팽만, 식욕부진, 소화불량, 변비, 복통), Vit B12 결핍, 피부 발진, 젖산증
   * 장기 투여 환자에서 주기적인 Vit B12 측정 고려; 특히 빈혈 또는 말초신경병증 동반 시 적극 권고
 * 주의 : 신부전, 고령, 중증 감염, 탈수, 심/폐/간부전
-* 금기 : 신장 장애(eGFR ＜30), 급성 및 만성 대사산증
-  * eGFR 30\~44에서는 새로 시작하지 않는 것이 원칙이며, 기존 사용 시 이득·위험을 재평가하여 감량(통상 ≤1,000 ㎎/d) 및 면밀한 신기능 모니터링; ＜30 시 투여 금지
-* 요오드 조영제 관련
-  * 정맥 투여 : eGFR 30\~60인 경우 당일부터 48시간까지 중단 및 신기능 평가 후 재개; eGFR ≥60이면 중단 불필요
-  * 동맥 투여 : 신기능과 무관하게 당일부터 48시간까지 중단 및 신기능 평가 후 재개
+* 금기 : 급성 및 만성 대사산증, 중증 신장애. 국제 권고에서는 eGFR ＜30에서 사용하지 않으며 30\~44에서는 신규 시작을 피하고 기존 사용 시 ≤1,000 ㎎/d로 감량·유지를 고려하지만, 국내 품목허가 기준이 더 엄격할 수 있음
+  * **다이아벡스엑스알 서방정** : eGFR 45\~＜60에서는 유산산증 위험인자가 없을 때 시작 500 ㎎ qd, 최대 1,000 ㎎/d; eGFR ＜45이면 중단. 국제 권고의 30 절단값을 이 제품의 국내 허가용법으로 적용하지 않음 <mark style="color:$info;">[국내 품목허가정보]</mark>
+* 요오드 조영제 관련 : 영상의학 지침과 국내 제품허가의 중단 기준을 구분
+  * 다이아벡스엑스알 국내 허가 : eGFR ＞60은 검사 시점 또는 사전에 중단, eGFR 45\~60은 **조영제 투여 48시간 전 중단**. 투여 후 최소 48시간이 지나 신기능을 재평가하여 안정적일 때 재개
+  * AKI·탈수·저산소증 또는 동맥 조영술 등 고위험 상황은 신기능과 시술 특성을 함께 평가. 일부 영상의학 지침에서 eGFR ≥30이고 AKI가 없는 정맥 조영제 검사는 중단을 요구하지 않더라도 이를 모든 국내 품목에 동일 적용하지 않음
+
 * 용법 : 식사와 함께 복용; 저용량으로 시작 → 2\~3주 간격 증량 (효과 발현이 늦음)
 
 <table><thead><tr><th width="160">성분명</th><th width="220">상품명</th><th width="200">1일 용량 (㎎)</th><th>작용시간 (hr)</th></tr></thead><tbody><tr><td>metformin</td><td><mark style="color:blue;">[다이아벡스]</mark></td><td>500~2,550 #2~3</td><td>6~12</td></tr><tr><td>metformin SR</td><td><mark style="color:blue;">[다이아벡스엑스알 서방]</mark></td><td>500~2,000 #1~2</td><td>24</td></tr></tbody></table>
@@ -166,15 +167,14 @@ _※ 지침에서는 CKD 환자에게 eGFR ≥20에서 SGLT2i 사용을 권고�
 
 * 작용 : incretin 분해 억제(GLP-1↑, GIP↑); 포도당 의존 인슐린 분비↑, 글루카곤 분비↓, 식후 혈당 강하 (✽아시아인에게 더 효과적이라는 보고가 있음)
 * A1C 감소 효과 : 0.5\~1.0%
-* 대사 : 신장(linagliptin 제외-담즙/장 배설)
+* 대사·배설 : 성분별 차이가 있으며, linagliptin은 주로 담즙·장으로 배설. 신장 배설 여부만으로 용량 조절을 결정하지 않음
 * 부작용 : 설사, 복통, 비인두염, 상기도 감염, 췌장염, 중증 관절통·물집유사물집증(계열 이상반응), 심부전으로 인한 입원 위험 증가(saxagliptin)
-* 주의 : 신장애(용량 조절; linagliptin 제외), 유당 함유 제품을 복용하는 유당 불내성 환자, 췌장염, 심부전(saxagliptin에서 입원 증가 근거가 가장 분명하며 alogliptin도 심부전 환자에서 주의)
+* 주의 : 신장애(성분별 용량 조절 여부는 아래 표 참조), 유당 함유 제품을 복용하는 유당 불내성 환자, 췌장염, 심부전(saxagliptin에서 입원 증가 근거가 가장 분명하며 alogliptin도 심부전 환자에서 주의)
 * 용법 : 식사와 관계없이 복용
 
-<table data-search="false"><thead><tr><th width="200">성분명 [상품명]</th><th width="128">1일 용량 (㎎)</th><th width="100">eGFR 45~59</th><th width="100">eGFR 30~44</th><th width="100">eGFR 15~29</th><th>&#x3C;15</th></tr></thead><tbody><tr><td>alogliptin <mark style="color:blue;">[네시나]</mark></td><td>25 qd</td><td>12.5</td><td>12.5</td><td>6.25</td><td>6.25</td></tr><tr><td>anagliptin <mark style="color:blue;">[가드렛]</mark></td><td>100 bid</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>100</td><td>자료 없음</td></tr><tr><td>evogliptin <mark style="color:blue;">[슈가논]</mark></td><td>5 qd</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>gemigliptin <mark style="color:blue;">[제미글로]</mark></td><td>50 qd</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>linagliptin¹⁾ <mark style="color:blue;">[트라젠타]</mark></td><td>5 qd</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>saxagliptin <mark style="color:blue;">[온글라이자]</mark></td><td>2.5~5 qd</td><td>5 ㎎²⁾</td><td>2.5</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>sitagliptin <mark style="color:blue;">[자누비아]</mark></td><td>25~100 qd</td><td>100</td><td>50</td><td>25</td><td>(좌동)</td></tr><tr><td>teneligliptin <mark style="color:blue;">[테넬리아]</mark></td><td>20 qd</td><td>용량 조절 필요 없음</td><td>(좌동)</td><td>(좌동)</td><td>(좌동)</td></tr><tr><td>vildagliptin <mark style="color:blue;">[가브스]</mark></td><td>50 bid</td><td>100 ㎎³⁾</td><td>50</td><td>(좌동)</td><td>(좌동)</td></tr></tbody></table>
+<table><thead><tr><th>성분명 [상품명]</th><th>일반 용법</th><th>신기능에 따른 용법</th></tr></thead><tbody><tr><td>alogliptin <mark style="color:blue;">[네시나]</mark></td><td>25 ㎎ qd</td><td>국내 단일제: CrCl ≥50 — 25 ㎎ qd; 30~＜50 — 12.5 ㎎ qd; ＜30 또는 혈액투석 — 6.25 ㎎ qd</td></tr><tr><td>anagliptin <mark style="color:blue;">[가드렛]</mark></td><td>100 ㎎ bid</td><td>CrCl ≥30 — 조절 불필요; ＜30 또는 ESRD — 100 ㎎ qd</td></tr><tr><td>evogliptin <mark style="color:blue;">[슈가논]</mark></td><td>5 ㎎ qd</td><td>신장애에서 용량 조절 불필요; 중증 신장애·말기 신질환에서는 임상경험의 제한을 고려</td></tr><tr><td>gemigliptin <mark style="color:blue;">[제미글로]</mark></td><td>50 ㎎ qd</td><td>신장애에서 용량 조절 불필요</td></tr><tr><td>linagliptin <mark style="color:blue;">[트라젠타]</mark></td><td>5 ㎎ qd</td><td>신장애·투석에서 용량 조절 불필요</td></tr><tr><td>saxagliptin <mark style="color:blue;">[온글라이자]</mark></td><td>2.5~5 ㎎ qd</td><td>eGFR ≥45 — 조절 불필요; ＜45 또는 혈액투석 — 2.5 ㎎ qd; 혈액투석일은 투석 후 투여</td></tr><tr><td>sitagliptin <mark style="color:blue;">[자누비아]</mark></td><td>100 ㎎ qd</td><td>eGFR ≥45 — 100 ㎎ qd; 30~＜45 — 50 ㎎ qd; ＜30 또는 투석 — 25 ㎎ qd</td></tr><tr><td>teneligliptin <mark style="color:blue;">[테넬리아]</mark></td><td>20 ㎎ qd</td><td>신장애에서 용량 조절 불필요</td></tr><tr><td>vildagliptin <mark style="color:blue;">[가브스]</mark></td><td>50 ㎎ bid</td><td>CrCl ≥50 — 조절 불필요; ＜50 또는 ESRD — 50 ㎎ qd. SU와의 2제 병용은 신기능이 양호해도 50 ㎎ qd</td></tr></tbody></table>
 
-_¹⁾ linagliptin은 신장 배설이 거의 없어 모든 CKD 단계에서 용량 조절 불필요; CKD 환자에서 선호._\
-_²⁾ eGFR ≥45에서 용량 조절 필요 없음. ³⁾ eGFR ≥50에서 용량 조절 필요 없음._
+_✽표의 CrCl(㎖/min)과 eGFR(㎖/min/1.73㎡)은 서로 다른 지표임. 성분별 국내 허가에 사용된 지표와 절단값을 표시하였으며, 고정 복합제에는 metformin 등 동반 성분의 추가 제한이 적용됨. <mark style="color:$info;">[국내 품목허가정보]</mark>_
 
 ### <mark style="color:orange;">Thiazolidinedione (TZD)</mark>
 
@@ -182,11 +182,11 @@ _²⁾ eGFR ≥45에서 용량 조절 필요 없음. ³⁾ eGFR ≥50에서 용�
 * A1C 감소 효과: 0.5\~1.4%
 * 대사 : 간
 * 부작용 : 심부전 악화, 체중↑, 부종, Hb↓, 골절 위험↑(특히 여성)
-* 금기 : NYHA Class III/IV 심부전, 활동성 방광암(pioglitazone)
+* 금기 : 심부전·심부전 병력 등 국내 성분별 금기 및 활동성 방광암(pioglitazone). 국내 액토스는 심부전 환자에서 치료를 시작하지 않으며, 증상성 심부전에서 사용하지 않음; 해외의 NYHA III/IV 기준만으로 국내 허가를 축소 해석하지 않음
 * 주의 : 심부전, 간장애, 중증 신장애; 신기능 저하 시 용량 조절은 불필요하나 체액 저류 가능성 때문에 권장하지 않음
 * 용법 : 식사와 관계없이 복용
 
-<table><thead><tr><th width="250">성분명 [상품명]</th><th width="198">1일 용량 (㎎)</th><th>반감기 (hr)</th></tr></thead><tbody><tr><td>lobeglitazone <mark style="color:blue;">[듀비에]</mark></td><td>0.5 qd</td><td>9.5(남), 15(여)</td></tr><tr><td>pioglitazone* <mark style="color:blue;">[액토스]</mark></td><td>15~30 qd (최대 45 ㎎)</td><td>3~7</td></tr></tbody></table>
+<table><thead><tr><th width="250">성분명 [상품명]</th><th width="198">1일 용량 (㎎)</th><th>반감기 (hr)</th></tr></thead><tbody><tr><td>lobeglitazone <mark style="color:blue;">[듀비에]</mark></td><td>0.5 qd</td><td>9.5(남), 15(여)</td></tr><tr><td>pioglitazone* <mark style="color:blue;">[액토스]</mark></td><td>15~30 qd (국내 최대 30 ㎎/d)</td><td>3~7</td></tr></tbody></table>
 
 _✽rosiglitazone은 국내 유통 품목 없음._
 
@@ -298,7 +298,7 @@ _\*pioglitazone은 MASLD/MASH(대사기능장애 관련 지방간 질환)에서 
 * A1C 감소 효과 : 0.8\~1.5%
 * 부작용 : 위장 장애(구역, 구토, 설사), 췌장염, 담석증, 급성 신장 손상, 심박수 증가
 * 주의 : 췌장염 과거력, 급성 신장 손상, 중증 간장애, 신장애, 중증 위마비를 포함한 중증 위장관 질환, 당뇨병성 망막병증(특히 semaglutide - 급격한 혈당 강하 시 망막병증 악화 보고; 망막병증 병력 있는 환자에서 안과 모니터링 강화 권고); DPP-4i와는 병용하지 않음
-  * 눈 건강 관련 근거는 상반됨 : 비동맥염성 앞허혈시신경병증(NAION), 녹내장, 신생혈관 황반변성(AMD), 당뇨망막병증 진행과의 연관성이 보고되나 연구 간 결과가 일치하지 않음 \[ADA 2026]; 이에 따라 GLP-1 RA 치료 시작 전후 안과 평가·추적을 개별화하는 것이 합리적임
+  * 눈 건강 : 급격한 혈당 개선에 따른 망막병증 초기 악화와 NAION을 구분. EMA는 2025년 semaglutide의 NAION을 매우 드문 이상반응으로 판단함. 갑작스러운 시력 소실·급격한 시력 악화 시 즉시 안과 평가하고, NAION 확진 시 semaglutide 중단. 녹내장·신생혈관 AMD 등 관찰연구의 결과를 확정적인 계열 효과로 일반화하지 않음 <mark style="color:$info;">[EMA 2025; ADA 2026]</mark>
 * 금기 : 갑상선 수질암 또는 MEN2의 과거력 또는 가족력(semaglutide·liraglutide·dulaglutide 등 해당 경고가 있는 성분; exenatide 즉시방출제·lixisenatide에는 계열 공통 금기로 일률 적용하지 않고 제품별 허가사항 확인)
 * 주사제 기반 병용 고려 시 기저 인슐린보다 GLP-1 RA를 우선 선택
 * ASCVD 확인 또는 위험 인자가 있는 경우 심혈관 질환 예방 효과가 입증된 GLP-1 RA 추천
@@ -322,7 +322,7 @@ _¹⁾ 심혈관 질환 예방 효과가 입증됨(ASCVD 동반 시 우선 선�
 
 * GLP-1 및 GIP(glucose-dependent insulinotropic polypeptide) receptor에 모두 작용
 * 작용 : 인슐린 생산↑, 간 당 생성↓, 위장관 통과 지연(포만감 유지), 식욕 억제; 혈당 강하 + 체중 감소
-* A1C 및 체중 감소 효과 : 비만 동반 T2DM 대상 연구(SURMOUNT-2)에서 위약 대비 A1C 1.55\~1.57%, 체중 9.6\~11.6% 감소(72주, 10 ㎎·15 ㎎ 용량); 현재 승인된 약제 중 가장 강력한 혈당·체중 감소 효과 \[ADA 2026]
+* A1C 및 체중 감소 효과 : 비만 동반 T2DM 대상 연구(SURMOUNT-2)에서 위약 대비 A1C 1.55\~1.57%, 체중 9.6\~11.6% 감소(72주, 10 ㎎·15 ㎎ 용량); 현재 승인된 약제 중 가장 강력한 혈당·체중 감소 효과 <mark style="color:$info;">[ADA 2026]</mark>
 * 심혈관 이득 : dulaglutide 대비 비열등성 확인(SURPASS-CVOT 2025); 추가 심혈관 이득 가능성 제시 (KDA 2025 ASCVD 우선 약제에는 아직 미포함 - semaglutide, liraglutide, dulaglutide 중심)
 * 금기 : 갑상선 수질암 또는 MEN2의 과거력 또는 가족력
 * 주의 : 췌장염, GLP-1 RA에 과민 반응 병력, 중증 위장관 질환, 급성 신장 손상, 중증 간장애, 당뇨병 망막병증, 급성 담낭 질환
@@ -345,7 +345,7 @@ _¹⁾ 심혈관 질환 예방 효과가 입증됨(ASCVD 동반 시 우선 선�
 
 ## <mark style="color:green;">인슐린</mark>
 
-> **\[최신 동향]** CGM과 AI/머신러닝을 이용한 혈당 예측 기술은 빠르게 발전하고 있으며, 딥러닝 기반 혈당 예측 모델, foundation model(예: GluFormer), 개인 맞춤형 중재 등이 활발히 연구되고 있다. 현재 가장 성숙하게 임상에 적용된 분야는 AID(automated insulin delivery) 시스템이며, 그 외 AI 기반 혈당 예측 기술은 아직 주요 진료지침의 공식 권고에는 포함되어 있지 않다 _\[대한당뇨병학회 KDA Weekly Brief 2026년 제17호]_
+> **\[최신 동향]** CGM과 AI/머신러닝을 이용한 혈당 예측 기술은 빠르게 발전하고 있으며, 딥러닝 기반 혈당 예측 모델, foundation model(예: GluFormer), 개인 맞춤형 중재 등이 활발히 연구되고 있다. 현재 가장 성숙하게 임상에 적용된 분야는 AID(automated insulin delivery) 시스템이며, 그 외 AI 기반 혈당 예측 기술은 아직 주요 진료지침의 공식 권고에는 포함되어 있지 않다 _<mark style="color:$info;">[대한당뇨병학회 KDA Weekly Brief 2026년 제17호]</mark>_
 
 ### <mark style="color:orange;">인슐린 요법의 선택</mark>
 
@@ -355,8 +355,8 @@ _¹⁾ 심혈관 질환 예방 효과가 입증됨(ASCVD 동반 시 우선 선�
 * 과이화 작용 증상이 동반된 고혈당의 경우 인슐린 치료를 시행
 * 기저 인슐린으로 공복 혈당이 조절된 뒤에도 식후 고혈당이 두드러지거나 A1C가 목표에 도달하지 않으면 GLP-1 기반 약제 또는 식사 인슐린 추가를 고려; 혼합형 인슐린은 식사 패턴과 환자 선호를 고려한 대안
 * 식사 또는 운동에 따른 인슐린 용량 조절이 필요하며 특히 식후 당 조절이 필요한 경우에는 식사 시간을 고려하여 주사
-* 다음 중 하나 이상이 있으면 기저 인슐린 추가 증량보다 식사 인슐린 또는 GLP-1 RA 추가를 고려(Overbasalization 주의) : 기저 인슐린 용량이 대략 ＞0.5 U/㎏/d, 공복 혈당은 목표 범위이나 A1C는 여전히 높음, 취침 전-아침 또는 식후-식전 혈당 차이가 큼, 저혈당·야간 저혈당 또는 큰 혈당 변동성 → Basal-plus(식사 인슐린 1회 추가) 또는 GLP-1 RA 병용으로 전환
-  * 위의 경우에서 단순한 기저 인슐린 추가 증량은 혈당 조절의 효과 없이 저혈당과 체중 증가를 초래
+* 공복 혈당이 목표 범위인데 A1C가 높거나 아래 임상 징후가 있으면 기저 인슐린 추가 증량보다 식사 인슐린 또는 GLP-1 기반 약제 추가를 고려(Overbasalization 주의) : 취침 전-아침 또는 식후-식전 혈당 차이가 큼, 저혈당·야간 저혈당 또는 큰 혈당 변동성 → Basal-plus(식사 인슐린 1회 추가) 또는 GLP-1 RA 병용으로 전환
+  * 기저 인슐린 ＞0.5 U/㎏/d 자체만으로 과다 투여를 확정하거나 치료를 전환하지 않음. 혈당 패턴·저혈당·주사법을 함께 평가하며, 식후 고혈당을 기저 인슐린 증량으로만 교정하면 저혈당과 체중 증가 위험이 커짐
 
 {% hint style="info" %}
 주사제 강화 단계 (Injectable Escalation Ladder) **:** 경구제 최적화 → GLP-1 RA 또는 Tirzepatide → GLP-1 RA + 기저 인슐린 → Basal-plus(기저 + 식사 1회) → Basal-bolus(기저 + 매 식전 식사 인슐린)
@@ -365,7 +365,7 @@ _¹⁾ 심혈관 질환 예방 효과가 입증됨(ASCVD 동반 시 우선 선�
 {% endhint %}
 
 {% hint style="info" %}
-인슐린 요법의 선택은 특정 A1C cut-off 기준보다는 증상, 공복 및 식후 혈당 양상, 저혈당 위험 등을 종합하여 개별화 - A1C 9%만을 기준으로 획일적으로 선택하는 접근은 권고하지 않음. 과이화 작용이 있을 때는 A1C 9% 이하에서도 인슐린을 사용해야 하고, A1C 9% 이상이더라도 인슐린 치료가 반드시 필요한 것은 아닐 수 있음 \[KDA 2025]
+인슐린 요법의 선택은 특정 A1C cut-off 기준보다는 증상, 공복 및 식후 혈당 양상, 저혈당 위험 등을 종합하여 개별화 - A1C 9%만을 기준으로 획일적으로 선택하는 접근은 권고하지 않음. 과이화 작용이 있을 때는 A1C 9% 이하에서도 인슐린을 사용해야 하고, A1C 9% 이상이더라도 인슐린 치료가 반드시 필요한 것은 아닐 수 있음 <mark style="color:$info;">[KDA 2025]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">인슐린 요법의 비교</mark>
@@ -395,13 +395,14 @@ _²⁾ degludec/aspart: 기저와 식사 인슐린 역할을 하나의 주사로
 
 _LAA=long-acting insulin analog; MDI=multiple daily injections; RAA=rapid-acting insulin analog; URAA=ultra-rapid-acting insulin analog; AID=Automated Insulin Delivery_\
 ✽ +와 $ 기호는 각 항목 간 상대적 비교를 나타냄\
-✽Insulin-only bionic pancreas(예: iLet) : 체중만 입력하면 별도의 탄수화물 계산(carbohydrate counting) 없이 완전 자동으로 인슐린을 조절하는 차세대 AID. 기존 hybrid closed-loop 대비 환자의 입력 부담이 크게 줄어듦
+✽Insulin-only bionic pancreas(예: iLet) : 초기 체중 입력을 바탕으로 용량을 적응 조절하며 정밀한 탄수화물 g 계산은 필요하지 않지만, **식사 종류와 평소 대비 양(보통·많음·적음)을 알리는 입력은 필요**함. 식사 입력이 전혀 필요 없는 완전 자동 시스템으로 설명하지 않음 <mark style="color:$info;">[제조사 사용안내]</mark>
 
 <p align="center"><em><mark style="color:$info;">Ref. ADA. Standards of Care in Diabetes. 2026. Figure 9.1</mark></em></p>
 
 ### <mark style="color:orange;">인슐린 치료 시작 용량 및 용량 조절</mark>
 
 * 일일 총 인슐린 용량(Total Daily Insulin Dose, TDD) 결정 및 기저:식사 배분
+* 아래의 일일 용량·3일 간격 증량 표는 **매일 투여하는 인슐린**에 적용. 주 1회 icodec 또는 icodec/semaglutide에는 적용하지 않음
 * 식사 또는 운동에 따른 인슐린 용량 조절이 필요하며 특히 식후 당 조절이 필요한 경우에는 식사 시간을 고려하여 주사
 
 <table><thead><tr><th width="111.90478515625">인슐린 종류</th><th width="242.3809814453125">시작 용량</th><th width="218.09521484375">용량 조절</th><th>저혈당 발생 시</th></tr></thead><tbody><tr><td>기저 인슐린</td><td>10 U/d 또는 0.1~0.2 U/㎏/d</td><td>목표 공복 혈당 기준으로 3일 간격 2 U씩 증량(입증된 다른 조절 방법 사용 가능)</td><td>원인 분석 후 특별한 원인 없으면 10~20% 감량</td></tr><tr><td>식사 인슐린</td><td>4 U/d 또는 기저 인슐린의 10%; A1C &#x3C;8%이면 기저 인슐린 4 U/d 또는 10% 감량 고려</td><td>주 2회 1~2 U 또는 10~15% 증량</td><td>(상동)</td></tr><tr><td>혼합 인슐린</td><td>초치료 시 10~12 U/d 또는 0.3 U/㎏/d; 기저 인슐린의 2/3를 오전, 1/3을 오후 또는 1/2씩 분할</td><td>주 1~2회 1~2 U 또는 10~15% 증량</td><td>원인 분석 후 2~4 U 또는 10~20% 감량</td></tr></tbody></table>
@@ -417,7 +418,7 @@ _(제시된 구간은 예시이며, 개별화된 목표 공복 혈당에 맞추�
 #### <mark style="color:$primary;">T1DM 환자에서의 인슐린 용량 추정 공식 (탄수화물 비율 · 민감도 인자 기반)</mark>
 
 * 신규 진단 환자에서는 임상 상태에 따라 초기 일일 총 인슐린 용량(Total Daily Dose, TDD)을 대략 0.4\~0.5 U/㎏/d로 추정한 뒤, 실제 혈당·식사·활동·잔존 인슐린 분비에 따라 신속히 개별 조정
-* 일부 문헌은 신규 환자에서 `450÷체중(㎏)`, `1800÷체중(㎏)`의 체중 기반 근사식을 제시하지만 표준적인 TDD 기반 공식보다 많은 식사·교정 인슐린이 산출될 수 있으므로 독립적인 처방 공식으로 사용하지 않음 _\[JAMA 2026 Type 1 Diabetes Review. doi:10.1001/jama.2026.0048]_
+* 일부 문헌은 신규 환자에서 `450÷체중(㎏)`, `1800÷체중(㎏)`의 체중 기반 근사식을 제시하지만 표준적인 TDD 기반 공식보다 많은 식사·교정 인슐린이 산출될 수 있으므로 독립적인 처방 공식으로 사용하지 않음 _<mark style="color:$info;">[JAMA 2026 Type 1 Diabetes Review. doi:10.1001/jama.2026.0048]</mark>_
 
 - 탄수화물 비율(Carbohydrate Ratio, CR) : 인슐린 1단위에 해당하는 탄수화물량(g) ≈ 450\~500 ÷ TDD(U)
 - 인슐린 민감도 인자(Insulin Sensitivity Factor, ISF) : 속효성/초속효성 인슐린 1단위가 낮추는 혈당(㎎/㎗) ≈ 1800 ÷ TDD(U)
@@ -453,7 +454,7 @@ _(제시된 구간은 예시이며, 개별화된 목표 공복 혈당에 맞추�
 ### <mark style="color:orange;">CGM 데이터 판독 및 관리 실무</mark>
 
 * 데이터 확보 기간
-  * 최소 **2주**간의 대체로 완전한 데이터로 임상적으로 의미 있는 패턴(평일·주말, 식사·활동 편차) 파악 가능 _\[JAMA Intern Med 2026]_
+  * 최소 **2주**간의 대체로 완전한 데이터로 임상적으로 의미 있는 패턴(평일·주말, 식사·활동 편차) 파악 가능 _<mark style="color:$info;">[JAMA Intern Med 2026]</mark>_
   * 치료 변경(특히 고혈당 조정)은 짧은 구간이 아닌 **최소 1주 이상**의 데이터에 근거할 것; 특정 문제 troubleshooting 목적이면 더 짧은 구간도 활용 가능
   * 안정적 혈당 조절, 저혈당 위험이 낮은 요법, 모니터링 피로가 있는 환자는 상시 착용 대신 연 수회 2\~4주씩 간헐 사용도 대안
   * 단일 수치보다 추세(trend)에 근거하여 해석·조정
@@ -461,7 +462,7 @@ _(제시된 구간은 예시이며, 개별화된 목표 공복 혈당에 맞추�
   * 수면·휴식 중 센서 부착 부위에 압력이 가해지면 인위적으로 낮은 수치가 나타날 수 있음 - 증상과 CGM 수치가 맞지 않으면 반드시 손끝 혈당으로 재확인
   * lag time(혈당 급변 시 수 분의 반응 지연)과는 별개의 현상이므로 감별할 것 (☞ [저혈당, 당뇨병성](103_-hypoglycemia-diabetic.md))
 * 알람 관리 : 과도한 알람은 순응도를 떨어뜨리고 불안을 유발할 수 있음 - 알람이 잦으면 정확도를 손끝 혈당으로 확인하고, 목표 범위·알람 역치를 환자 상태에 맞게 개별화(고위험군은 다소 완화된 역치 고려)
-* 핵심 지표 : TIR(70\~180 ㎎/㎗, 목표 ＞70%), TAR·TBR(상기 표 참조), GMI(수 주 이상 사용 시 A1C 추정에 유용); 혈당 변동성 증가는 불규칙한 투약 시점·식사 패턴을 시사할 수 있음
+* 핵심 지표 : TIR(70\~180 ㎎/㎗, 목표 ＞70%), TAR·TBR(상기 표 참조), GMI(평균 센서 혈당 기반 지표로 실제 검사실 A1C와 다를 수 있음); 혈당 변동성 증가는 불규칙한 투약 시점·식사 패턴을 시사할 수 있음
 
 ### <mark style="color:orange;">CGM 부착 부위 피부 관리</mark>
 
@@ -503,25 +504,25 @@ R73.9 상세불명의 고혈당증
 >
 > ```
 > Empagliflozin 10 ㎎ (자디앙)          1T  qd  식사 무관
-> Metformin HCl SR 1,000 ㎎ (다이아벡스엑스알)  1T  qd  pc (아침)
+> Metformin HCl SR 1,000 ㎎ (다이아벡스엑스알)  1T  qd  석식과 함께
 > ```
 >
-> _✽심부전·CKD 동반 시 A1C 수치와 무관하게 SGLT2i를 우선 사용하고 금기·부작용 없는 한 유지(KDA 2025 권고). 생식기 진균 감염 주의 및 위생 교육; 수술·금식·중증 질환 시 중단_
+> _✽심부전·CKD 동반 시 A1C 수치와 무관하게 SGLT2i를 우선 사용하고 금기·부작용 없는 한 유지(KDA 2025 권고). 이 처방례는 eGFR ≥45에서 다이아벡스엑스알 1,000 ㎎을 이미 복용 중인 환자를 가정함. Empagliflozin의 장기 보호 목적 시작 기준(eGFR ≥20)과 metformin 기준을 구분. 생식기 진균 감염 주의 및 위생 교육; 수술·금식·중증 질환 시 중단_
 
 > **처방례 3. T2DM + ASCVD - GLP-1 RA 또는 SGLT2i 우선**
 >
 > ```
 > Dulaglutide 0.75 ㎎ (트루리시티 주)   1회/주  SQ
-> Metformin HCl SR 1,000 ㎎ (다이아벡스엑스알)  1T  qd  pc
+> Metformin HCl SR 1,000 ㎎ (다이아벡스엑스알)  1T  qd  석식과 함께
 > ```
 >
-> _✽ASCVD 동반 시 심혈관 이익 입증 GLP-1 RA(dulaglutide, liraglutide, semaglutide) 또는 SGLT2i를 포함한 치료 우선 선택(KDA 2025). 구역·구토는 처음에 흔하며 서서히 줄어들므로 저용량 유지 후 증량_
+> _✽ASCVD 동반 시 심혈관 이익 입증 GLP-1 RA(dulaglutide, liraglutide, semaglutide) 또는 SGLT2i를 포함한 치료 우선 선택(KDA 2025). metformin 기존 복용자에서 추가하는 임상 예시이며, 국내 GLP-1 급여 인정 단계·조합과는 구분. 구역·구토는 처음에 흔하며 서서히 줄어들므로 저용량 유지 후 증량_
 
 > **처방례 4. T2DM + 비만 - GLP-1/GIP dual agonist**
 >
 > ```
 > Tirzepatide 2.5 ㎎ (마운자로)         1회/주  SQ
-> Metformin HCl SR 1,000 ㎎ (다이아벡스엑스알)  1T  qd  pc
+> Metformin HCl SR 1,000 ㎎ (다이아벡스엑스알)  1T  qd  석식과 함께
 > ```
 >
 > _✽2.5 ㎎은 시작 용량이며 4주 후 5 ㎎으로 증량; 이후 필요 시 4주 이상 간격으로 2.5 ㎎씩 증량(최대 15 ㎎/wk). T2DM 동반 비만 연구에서 72주 체중 감소는 약 13\~15%(위약 대비 약 10\~12%)로, 혈당과 체중을 함께 조절할 때 우선 고려_
@@ -529,12 +530,12 @@ R73.9 상세불명의 고혈당증
 > **처방례 5. T2DM 혈당 조절 불량 - 기저 인슐린 추가**
 >
 > ```
-> Metformin HCl SR 1,000 ㎎ (다이아벡스엑스알)  1T  qd  pc
+> Metformin HCl SR 1,000 ㎎ (다이아벡스엑스알)  1T  qd  석식과 함께
 > Empagliflozin 10 ㎎ (자디앙)          1T  qd  식사 무관
 > Insulin glargine U100 (란투스)         10 U  취침 전  SQ
 > ```
 >
-> _✽기저 인슐린 10 U(또는 0.1\~0.2 U/㎏/d)로 시작, 3일마다 공복 혈당에 따라 2 U씩 증량(개별화된 목표 공복 혈당까지 - 일반적으로 80\~130 ㎎/㎗ 범위에서 설정); 취침 전 간식 필요 여부 교육; SGLT2i 병용 시 DKA 위험 주의_
+> _✽metformin 1,000 ㎎을 이미 복용 중인 환자의 추가 치료 예시. 기저 인슐린 10 U(또는 0.1\~0.2 U/㎏/d)로 시작, 3일마다 공복 혈당에 따라 2 U씩 증량(개별화된 목표 공복 혈당까지 - 일반적으로 80\~130 ㎎/㎗ 범위에서 설정); 취침 전 간식 필요 여부 교육; SGLT2i 병용 시 DKA 위험 주의_
 
 > **처방례 6. T1DM - MDI (다회 인슐린 요법)**
 >
@@ -561,11 +562,11 @@ R73.9 상세불명의 고혈당증
 * 소변으로 당을 배출시키는 약으로, 요로 감염·생식기 감염이 생길 수 있습니다 - 위생 관리에 신경 쓰세요.
 * 탈수되지 않도록 수분을 섭취하되, 심부전·신장질환으로 수분 제한을 안내받은 경우 담당 의사의 지시에 따르세요.
 * 수술·금식·중증 질환 시에는 복용을 중단하고 의사에게 알리세요(케톤산증 위험).
-* 소변에서 단맛이 나거나 요당 검사지 양성이 나오는 것은 이 약의 정상적인 작용입니다.
+* 요당 검사지 양성은 이 약의 예상되는 작용이며 이것만으로 혈당 조절 상태를 판단하지 않습니다.
 
 **α-glucosidase inhibitor, α-Gi (예: 아카보스, 보글리보스)**
 
-* 식사 시작과 동시에(첫 숟갈과 함께) 복용해야 효과가 있습니다; 식후 복용은 효과가 없습니다.
+* Acarbose는 식사 직전 또는 첫 숟갈과 함께, voglibose는 식사 직전에 복용하세요. 식사와 투여 시점을 맞추어야 효과를 얻을 수 있습니다.
 * 복부팽만, 방귀, 무른 변이 흔하며 저용량부터 시작하면 줄어듭니다.
 * **다른 혈당강하제(특히 인슐린, SU)와 병용 중 저혈당이 발생하면 설탕(sucrose)의 분해가 지연될 수 있으므로 포도당(글루코스) 정제·겔로 교정하십시오** (상세 ☞ [저혈당, 당뇨병성](103_-hypoglycemia-diabetic.md)).
 
@@ -575,7 +576,7 @@ R73.9 상세불명의 고혈당증
 * 지방이 많거나 매운 음식, 과식을 피하면 위장 증상이 경감됩니다.
 * 음식은 소량씩 꼭꼭 씹어 천천히 드시면 위 배출 지연으로 인한 불편감을 줄일 수 있습니다.
 * 구토·설사 시 탈수되지 않도록 수분을 섭취하되, 심부전·신장질환으로 수분 제한을 안내받은 경우 담당 의사의 지시에 따르세요.
-* 주사는 매주 같은 요일에, 복부·허벅지·팔 상부를 돌아가면서 놓으세요.
+* **주 1회 제제**는 매주 같은 요일에 투여하세요. Liraglutide 및 일부 인슐린/GLP-1 복합제는 매일, exenatide 즉시방출제는 하루 2회 투여하므로 처방된 제품의 투여 간격을 구분하세요. 주사 부위는 돌아가며 사용하세요.
 * 복통·구토가 심하거나 등 방향으로 퍼지는 통증이 있으면 즉시 내원하세요(췌장염 가능성).
 
 **인슐린**
@@ -583,7 +584,7 @@ R73.9 상세불명의 고혈당증
 * 저혈당 증상(손 떨림, 식은땀, 두근거림, 어지럼증)이 나타나면 즉시 빠르게 흡수되는 당질 15 g을 섭취하고 15분 후 혈당을 재측정하세요(**15-15 rule**). α-Gi 복용 중에는 포도당 정제·겔을 사용하세요.
 * 주사 부위를 매번 바꿔 지방 비대를 예방하세요; 지방 비대 부위에 주사하면 흡수가 불규칙해집니다.
 * 미개봉 인슐린은 냉장(2\~8℃) 보관하며, 개봉 후 허용 온도와 사용기간은 제품에 따라 다르므로 해당 제품의 설명서에 따르세요(대개 4\~8주).
-* **인슐린을 사용하는 저혈당 고위험 환자에게 글루카곤을 처방하고, 가족·간병인이 보관 위치와 사용법을 숙지하도록 교육하세요.** (KDA 2025 신규 권고)
+* **인슐린을 사용하는 모든 환자 또는 저혈당 고위험군에게 글루카곤을 처방하고, 가족·간병인이 보관 위치와 사용법을 숙지하도록 교육하세요.** <mark style="color:$info;">[ADA 2026]</mark>
 
 ***
 
@@ -597,7 +598,7 @@ R73.9 상세불명의 고혈당증
 
 **GLP-1 기반 주사(트루리시티, 오젬픽, 마운자로 등)** - 처음에 메슥거림이 있을 수 있으나 보통 2\~4주 후에 가라앉습니다. 지방이 많은 음식이나 과식은 피하고, 음식은 소량씩 천천히 드세요. 구토·설사 시 탈수되지 않도록 하되 수분 제한을 안내받았다면 그 지시에 따르세요. 심한 복통이 생기면 즉시 병원에 오세요.
 
-**인슐린 주사** - 저혈당(손 떨림, 식은땀, 두근거림)이 올 수 있습니다. 언제나 당질 15 g에 해당하는 포도당 제품이나 주스를 가지고 다니세요. 주사는 같은 자리에 반복하지 말고 돌아가며 놓으세요. 펜형 인슐린의 개봉 후 보관 온도와 사용기간은 제품마다 다르므로 설명서에 따르세요(대개 4\~8주). 저혈당 위험이 있다면 글루카곤을 처방받아 집에 두고, 가족에게 사용법을 알려두세요.
+**인슐린 주사** - 저혈당(손 떨림, 식은땀, 두근거림)이 올 수 있습니다. 언제나 당질 15 g에 해당하는 포도당 제품이나 주스를 가지고 다니세요. 주사는 같은 자리에 반복하지 말고 돌아가며 놓으세요. 펜형 인슐린의 개봉 후 보관 온도와 사용기간은 제품마다 다르므로 설명서에 따르세요(대개 4\~8주). 인슐린을 사용하거나 저혈당 위험이 높으면 응급용 글루카곤 처방과 사용법을 상담하고 가족에게도 알려 주세요.
 
 **공통 주의사항**
 
@@ -606,3 +607,23 @@ R73.9 상세불명의 고혈당증
 * 새로운 약(한약, 건강보조식품 포함)을 시작할 때 반드시 알려 주세요.
 * 발 상처나 감각 이상이 생기면 즉시 알려 주세요.
 * CGM(연속 혈당 측정기)을 사용하는 일반 성인은 목표 범위 내 시간(TIR) 70% 이상을 흔히 목표로 하지만, 고령자·저혈당 고위험군에서는 목표를 개별화합니다.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* 대한당뇨병학회. 당뇨병 진료지침 제9판. 2025; 영문판: 2025 Clinical Practice Guidelines for Diabetes Management in Korea: Recommendation of the Korean Diabetes Association. Diabetes Metab J. 2025;49:582–783. [https://doi.org/10.4093/dmj.2025.0469](https://doi.org/10.4093/dmj.2025.0469)
+* American Diabetes Association. 9. Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes—2026. [https://doi.org/10.2337/dc26-S009](https://doi.org/10.2337/dc26-S009)
+* American Diabetes Association. 6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises; 7. Diabetes Technology; 11. Chronic Kidney Disease and Risk Management; 16. Diabetes Care in the Hospital. Standards of Care in Diabetes—2026. [진료지침 모음](https://diabetesjournals.org/care/issue/49/Supplement_1)
+* American Diabetes Association; European Association for the Study of Diabetes. Management of type 2 diabetes, 2026: a consensus report. [https://doi.org/10.1007/s00125-026-06855-7](https://doi.org/10.1007/s00125-026-06855-7)
+* Jacobsen LM, Schatz DA. Type 1 Diabetes: A Review. JAMA. 2026;335:1070–1083. [https://doi.org/10.1001/jama.2026.0048](https://doi.org/10.1001/jama.2026.0048)
+* Beta Bionics. iLet Bionic Pancreas — Meal Announcements Guide/FAQs. 정밀 탄수화물 계산과 식사 알림의 차이. [제조사 사용안내](https://www.betabionics.com/faqs/)
+* Dower JA, et al. Continuous Glucose Monitoring in Type 2 Diabetes and Beyond: A Review. JAMA Intern Med. 2026;186:1166–1173. [https://doi.org/10.1001/jamainternmed.2026.2772](https://doi.org/10.1001/jamainternmed.2026.2772)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보. 국내 제품별 적응증·용법·금기 및 허가 상태 확인. [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+* 건강보험심사평가원. [일반원칙] 당뇨병용제 — 보건복지부 고시 제2026-117호(2026.6.1. 시행); 개별 급여기준이 있는 약제는 해당 고시 적용. [보험인정기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?brdScnBltNo=4&isPopupYn=Y&mtgHmeDd=20260601&mtgMtrRegSno=13&sno=1)
+* European Medicines Agency. PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy. 2025 — 해외 안전성 판단과 국내 허가사항을 구분. [EMA 발표](https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy)
