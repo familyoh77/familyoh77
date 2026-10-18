@@ -19,33 +19,35 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* vital sign 불안정 (저혈압, 빈맥, 빈호흡)
+* vital sign 불안정 (저혈압, 빈맥, 빈호흡) `쇼크`
 * 복부 강직, 반동 압통 `복막염`
-* 대량 토혈·지속적 위장관 출혈, 또는 혈역학적 불안정·실신·복막자극이 동반된 출혈
+* 대량 토혈·지속적 위장관 출혈, 또는 혈역학적 불안정·실신·복막자극이 동반된 출혈 `위장관 출혈`
 * 박동성 복부 종괴 (특히 고령·흡연·죽상동맥경화 환자) `AAA 파열`
-* 가임기 여성의 급성 하복부·골반통 + 혈역학적 불안정·실신/전실신·복막자극 소견·심한 편측 지속통 또는 의미 있는 질출혈 `자궁외임신 파열 의심`
+* 가임기 여성의 급성 하복부·골반통 + 혈역학적 불안정·실신/전실신·복막자극 소견·심한 편측 지속통 또는 의미 있는 질출혈 `자궁외임신 파열`
 * 갑작스러운 극심한 복통 ("내 인생 최악의 통증") `혈관 사고(AAA, 대동맥 박리)` `천공` `장간막 허혈` `비전형적 급성 MI`(고령·당뇨 환자)
 * 갑작스러운 상복부·복부 통증 + 흉통 또는 등 통증 + 사지 간 맥박·혈압 차이 또는 신경학적 증상 동반 `대동맥 박리`
+* 갑작스러운 심한 편측 하복부·골반통 + 구역·구토 `난소염전`
+* 발열·오한 + 황달 + 저혈압 또는 의식 변화 `급성 담관염` `패혈증`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 통증이 지속적으로 악화되거나, 반복 구토로 경구 섭취가 불가능하거나, 국소 압통·복막 자극 소견이 새로 나타남
 * 재평가 시 활력징후·진찰 소견이 변화
-* 흑변·혈변·토혈이 있으나 활력징후가 안정적
-* 발열 동반
-* 황달 동반
-* 복부 종괴 또는 복부 장기 비대 (박동성 제외)
+* 흑변·혈변·토혈이 있으나 활력징후가 안정적 `위장관 출혈`
+* 발열 동반 `복강내 감염`
+* 황달 동반 `담관염` `간염` `담도 폐쇄`
+* 복부 종괴 또는 복부 장기 비대 (박동성 제외) `복강내 종양`
 * 고령(특히 ≥60\~65세), frailty 또는 중대한 동반 질환
 * 심방세동·혈관 질환 환자의 급성 복통 `장간막 허혈`
-* 가임기 여성의 급성 하복부·골반통 (활력징후 안정, 즉각 위험 소견 없음)
+* 가임기 여성의 급성 하복부·골반통 (활력징후 안정, 즉각 위험 소견 없음) `자궁외임신` `골반염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 설명되지 않는 체중 감소
-* 원인이 설명되지 않는 빈혈 (예: 철결핍빈혈)
+* 설명되지 않는 체중 감소 `악성 종양`
+* 원인이 설명되지 않는 빈혈 (예: 철결핍빈혈) `대장암` `위장관 출혈`
 * 복통 양상의 변화
 * 같은 문제로 반복적인 진료
-* 가족력 (난소 또는 창자의 악성 종양, 가족성 대장폴립증 등)
+* 가족력 (난소 또는 창자의 악성 종양, 가족성 대장폴립증 등) `대장암` `난소암`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -205,6 +207,7 @@ flowchart TD
     class C red
     classDef yellow fill:#fff9c4,stroke:#ffe082
     class B,D,I,M,O yellow
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>우상복부·상복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria 등)</mark></em></p>
@@ -263,6 +266,7 @@ flowchart TD
     class E,R,T red
     classDef yellow fill:#fff9c4,stroke:#ffe082
     class B,G,H,J,O,S,C yellow
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>하복부 복통의 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : ACR Appropriateness Criteria 등)</mark></em></p>
@@ -389,8 +393,6 @@ flowchart TD
     L --> M["진단 확인?"]
     M -- Yes --> N["원인별 치료 <br>또는 의뢰"]
     M -- No --> O["관찰 가능한 환경에서<br>serial examination<br>·필요 시 반복 검사"]
-    classDef startNode fill:#e8f5e9,stroke:#388e3c
-    class A startNode
     classDef red fill:#ffcdd2,stroke:#c62828
     class C red
     classDef orangeBox fill:#fff3e0,stroke:#e65100
@@ -398,6 +400,7 @@ flowchart TD
     classDef yellow fill:#fff9c4,stroke:#ffe082
     class B,D,F,M yellow
 
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><strong>복통 관리 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성</mark></em></p>
@@ -494,17 +497,16 @@ flowchart TD
 >
 > _✽ 통증 조절 후 비조영 CT로 결석 확인 권장(임신 시 초음파 우선)_
 
-> **처방례 2. 중등도\~중증 급성 복통 (비opioid 진통제로 불충분하거나 금기인 경우, 진단 미확정 상태에서의 단기 통증 조절)**
+> **처방례 2. 중증 질환 가능성이 낮아 외래 귀가가 결정된 급성 복통 - 단기 통증 조절**
 >
 > ```
-> 타이레놀 ER 650 ㎎ q6h 필요시 - 1차 고려
-> 트라마돌 캡슐 50 ㎎ 1회 투여 후 재평가; 필요시 q6-8h (일반 성인에서 최대 400 ㎎/d)
+> 타이레놀 500 ㎎ 1~2T q6h 필요시 (1일 최대 4 g)
+> 트리돌 50 ㎎ 1C q6~8h 필요시 - 비opioid로 불충분하거나 금기인 경우에 한함 (일반 성인 최대 400 ㎎/d)
 >   ※ 고령자, 신·간기능 저하 시 감량 또는 투여 간격 연장
-> 맥페란정 10 ㎎ 오심 동반 시 필요시 투여 (1일 최대 3회, 단기간 사용)
->   ※ 진단 미확정 환자는 1회 투여 후 통증·전신 상태를 재평가하며 disposition 결정
+> 맥페란 10 ㎎ 오심 동반 시 필요시 (1일 최대 3회, 단기간 사용)
 > ```
 >
-> _✽ 진단 확인 전이라도 적절한 통증 조절은 표준 치료이나, 진단 미확정 상태에서의 반복적 opioid 투여는 증상 변화 인지와 재평가를 방해할 수 있으므로 경증\~중등도는 acetaminophen 또는 원인에 적합한 NSAID를 우선 고려하고, tramadol은 비opioid로 불충분하거나 금기인 경우 최소유효용량·최단기간·재평가를 전제로 사용_
+> _✽ 귀가 시 통증 악화·발열·지속 구토·혈변 발생 시 즉시 재내원하도록 안내; 관찰 중 1회 투여는 위 Management의 진통제 사용 원칙을 따름_
 >
 > _✽ Tramadol : 세로토닌 증후군·경련·어지럼·낙상 위험이 있어 serotonergic drug(SSRI/SNRI/MAOI 등) 병용·간질 병력자에서 주의; 항경련제(gabapentinoid) 또는 항콜린제 병용 시 CNS 억제·호흡 억제 또는 진정·착란·변비 심화 위험이 상가적으로 증가하므로 병용 여부를 반드시 확인_
 >
@@ -578,6 +580,6 @@ flowchart TD
 * [Manterola C, et al. Analgesia in patients with acute abdominal pain. Cochrane Database Syst Rev. 2011;(1):CD005660.](https://pubmed.ncbi.nlm.nih.gov/21249672/) - 진단 전 opioid 진통제 사용과 임상 소견·진단 지연에 관한 근거
 * [OpenStax College. Anatomy and Physiology: Autonomic Reflexes and Homeostasis.](https://openstax.org/books/anatomy-and-physiology/pages/15-2-autonomic-reflexes-and-homeostasis) - 본문 연관통 그림 출처
 
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 진통제·진경제·항균제의 적응증·용량·금기와 임신·신기능 관련 주의사항
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

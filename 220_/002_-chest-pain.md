@@ -20,7 +20,7 @@
 * 압박·조임·무거움·쥐어짜는 느낌 → 허혈 가능성 높음; 즉각 ECG 및 트로포닌 평가
 * 찌르는·예리한·흡기 관련·자세 의존성 → 허혈 가능성 낮음 → 심낭염, 근골격, 흉막 원인 고려
 * Burning 및 right-sided pain은 단독 소견만으로 ACS를 배제하는 근거가 되지 않으며, 전체 임상 맥락과 함께 판단
-* 니트로글리세린으로 호전된다는 사실만으로 허혈로 진단하면 안 됨 (식도 연축도 이에반응함)
+* 니트로글리세린으로 호전된다는 사실만으로 허혈로 진단하면 안 됨 (식도 연축도 이에 반응함)
 * ✽ 허혈 가능성이 낮다고 해서 응급질환 가능성이 낮다는 의미는 아님; tearing·ripping 양상은 오히려 급성 대동맥 증후군(AAS)을 시사할 수 있으므로 별도로 감별할 것
 
 ## <mark style="color:green;">분류 및 원인</mark>
@@ -87,18 +87,18 @@
 * 흉통 + 신경학적 결손 (경동맥·척추동맥 침범 시사) `대동맥 박리`
 * 심한 구토/구역질 직후 발생한 급성 흉통 ± 피하기종/호흡곤란/쇼크 `식도 파열`
 * 편측 호흡음 소실 + 저혈압·빈맥 + 기관 변위 `긴장성 기흉`
+* 현재 흉통이 지속되거나, 최근 12시간 이내 흉통이 있었고 ECG 이상 또는 ECG 시행 불가 `ACS`
+* 흉통 + 새로 발생한 수축기 잡음 + 급성 호흡곤란/폐부종 또는 저혈압 - 유두근 기능부전/파열에 의한 급성 승모판 역류 시사 `급성 MR` `유두근 파열`
+* 위장 출혈 동반 (특히 복부대동맥류/대동맥 수술 병력) `대동맥장누공`
 
-<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark> <mark style="color:$warning;">- 이 챕터의 ACS 의심 항목은 원칙적으로 당일 평가</mark>
 
-* 휴식 시 흉통 발생 `불안정 협심증` `NSTEMI`
+* 최근 12시간 이내 흉통이 현재 소실되었고 ECG가 정상이거나, 마지막 흉통이 12\~72시간 전인 경우 `ACS`
 * 새로 발생하거나 악화된 야간·휴식 시 흉통, 특히 지속성 또는 진행성 `ACS`
   * 야간 흉통 단독은 GERD·관상동맥연축 등에서도 발생할 수 있으므로 전체 임상 맥락과 함께 판단
-* 새로 발생한 심한 흉통 `ACS`
 * 과거에 비해 적은 활동에서 흉통 발생 - 진행성 협심증 시사 `ACS`
 * 흉통·호흡곤란과 함께 pulsus paradoxus가 확인되거나 심낭삼출 위험인자가 있는 경우 `심낭 압전`
-  * 천식·COPD 등에서도 나타날 수 있어 단독 소견만으로 판단하지 않으며, 혈역학적 불안정이 동반되면 즉각이송
-* 위장 출혈 동반 (특히 복부대동맥류/대동맥 수술 병력) `대동맥장누공`
-* 흉통 + 새로 발생한 수축기 잡음 + 급성 호흡곤란/폐부종 또는 저혈압 - 유두근 기능부전/파열에 의한 급성 승모판 역류 시사 `급성 MR` `유두근 파열`
+  * 천식·COPD 등에서도 나타날 수 있어 단독 소견만으로 판단하지 않음
 * 최근 평가 후에도 원인이 규명되지 않은 흉통이 반복·악화되거나 양상이 변한 경우 (미진단 ACS/AAS 등 생명위협 원인 재평가)
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -148,6 +148,7 @@ flowchart TD
     style P fill:#1565c0,color:#fff
     style M fill:#4a148c,color:#fff
 
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 4</mark></em></p>
@@ -301,6 +302,7 @@ flowchart TD
     style J fill:#4a148c,color:#fff
     style K fill:#1b5e20,color:#fff
     style K1 fill:#1b5e20,color:#fff
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
 
 <p align="center"><em><mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain. Fig 7</mark></em></p>
@@ -339,7 +341,7 @@ _✽ Stanford 분류 : Type A = 상행대동맥 침범(응급 수술 대상), Ty
 
 _✽ 등 아래쪽이나 복부로 통증이 이동(Migrating pain)하는 양상은 대동맥 박리 범위를 시사하는 중요한 단서가 됨_
 
-_<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis & Pericarditis Guidelines</mark>_
+_<mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1; 2021 AHA/ACC Chest Pain Guideline, 2022 ACC/AHA Aortic Disease Guideline, 2025 ESC Myocarditis & Pericarditis Guidelines</mark>_
 
 #### <mark style="color:$primary;">Acute Coronary Syndrome (ACS)</mark>
 
@@ -382,7 +384,7 @@ _¹⁾진단 기준으로는 사용 불가 (식도 연축도 반응함)_
 
 <table><thead><tr><th width="139.42108154296875">질환</th><th width="134.89471435546875">시작 / 기간</th><th width="193.1578369140625">증상</th><th width="109.73681640625">부위</th><th width="150.22454833984375">동반 특징</th></tr></thead><tbody><tr><td><strong>Pulmonary embolism</strong></td><td>sudden onset</td><td>pleuritic (말초 PE); pressure/angina-like (중심 PE, RV ischemia)</td><td>종종 환측 측부</td><td>호흡 곤란, 빈호흡, 빈맥, 저혈압</td></tr><tr><td><strong>Pulmonary hypertension</strong></td><td>variable; often exertional</td><td>pressure</td><td>substernal</td><td>호흡 곤란, 정맥압 증가 소견</td></tr><tr><td><strong>Pneumonia or Pleuritis</strong></td><td>variable</td><td>pleuritic</td><td>편측, 종종 국소화</td><td>호흡 곤란, 기침, 열, rale, 가끔 rub</td></tr><tr><td><strong>Spontaneous pneumothorax</strong></td><td>sudden onset</td><td>pleuritic</td><td>환측 측부</td><td>호흡 곤란, 이환부 호흡음 감소</td></tr></tbody></table>
 
-<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1.</mark></em></p>
 
 #### <mark style="color:$primary;">Wells Score</mark>
 
@@ -469,7 +471,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 <table data-search="false"><thead><tr><th width="142">질환</th><th width="150">시작 / 기간</th><th width="150">증상</th><th width="134">부위</th><th>동반 특징</th></tr></thead><tbody><tr><td><strong>Esophageal reflux</strong></td><td>10~60분</td><td>burning</td><td>substernal, 상복부</td><td>식후 누웠을 때 악화; 제산제로 호전</td></tr><tr><td><strong>Esophageal spasm</strong></td><td>2~30분</td><td>pressure, tightness, burning</td><td>retrosternal</td><td>angina 유사, dysphagia</td></tr><tr><td><strong>Peptic ulcer</strong></td><td>장시간; 식후 60~90분</td><td>burning</td><td>상복부, substernal</td><td>음식/제산제로 호전</td></tr><tr><td><strong>Gallbladder disease</strong></td><td>장시간</td><td>aching or colicky</td><td>상복부, RUQ, 때때로 back</td><td>식후 발생 가능</td></tr><tr><td><strong>Costo-chondritis</strong></td><td>variable</td><td>aching</td><td>sternal</td><td>압통이 특징이며 뚜렷한 국소 부종은 없음; 이환부 압박으로 증상 재현(국소 부종·발적 동반 시 Tietze 증후군이나 감염성 병변 감별 필요)</td></tr><tr><td><strong>Cervical disk disease</strong></td><td>variable; 갑자기</td><td>aching; numbness 포함</td><td>팔, 어깨</td><td>목 움직임으로 악화</td></tr><tr><td><strong>Trauma or strain</strong></td><td>보통 일정함</td><td>aching</td><td>이환부</td><td>움직임/촉지로 증상 재현</td></tr><tr><td><strong>Herpes zoster</strong></td><td>보통 장기간</td><td>sharp or burning</td><td>피부 분절 분포</td><td>통증부 수포성 발적</td></tr><tr><td><strong>Emotional &#x26; psychiatric conditions</strong></td><td>variable; 순식간 또는 장시간</td><td>variable; 종종 공포가 있는 호흡곤란/조임</td><td>variable; substernal</td><td>증상을 유발하는 상황 요인이 있음; 공황/우울 병력</td></tr></tbody></table>
 
-<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2020. Table 11-1.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Harrison's Principles of internal medicine 20th ed. 2018. Table 11-1.</mark></em></p>
 
 ***
 
@@ -514,7 +516,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 #### <mark style="color:$primary;">대동맥 박리 의심 시 처치</mark>
 
 * 통증 조절 + 즉각 이송이 우선
-* 혈압·심박수 조절 : Beta-blocker (목표: HR 60\~80, SBP ＜120 ㎜Hg 또는 장기 관류를 유지하는 최저 혈압)
+* 혈압·심박수 조절 : Beta-blocker (목표: HR 60\~80 <mark style="color:$info;">\[2022 ACC/AHA]</mark>, 2024 ESC는 ≤60 제시; SBP ＜120 ㎜Hg 또는 장기 관류를 유지하는 최저 혈압)
   * Labetalol IV 또는 Esmolol IV - 혈역학적 모니터링이 가능한 응급환경에서 사용
   * 약물 투여 때문에 응급 이송이 지연되어서는 안 됨
 * nitroglycerin 단독 사용 금지 (반사성 빈맥으로 대동맥 벽 전단력 증가)
@@ -560,7 +562,7 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 > **처방례 3. 응급 질환을 배제한 근골격성 흉통**
 >
 > ```
-> 타이레놀 이알 650 ㎎/T q6~8h 필요시
+> 타이레놀8시간이알서방정 650 ㎎ 2T q8h 필요시 (24시간 최대 6정)
 > ```
 >
 > _✽ 흉벽 압통으로 통증이 재현되고 다른 red flags가 없을 때 사용; NSAID 병용 시 위장관·신장·심혈관 위험을 고려해 개별 판단. 압통 재현은 ACS 가능성을 낮추지만 완전히 배제하지는 못하므로, 통증 양상이 변하거나 지속되면 재평가 필요_
@@ -687,8 +689,9 @@ _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and D
 * [Isselbacher EM, et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation. 2022;146(24):e334-e482.](https://pubmed.ncbi.nlm.nih.gov/36322642/) - 급성 대동맥증후군의 위험 평가·확진 영상과 치료·이송 판단
 * [Schulz-Menger J, et al. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025;46(40):3952-4041.](https://doi.org/10.1093/eurheartj/ehaf192) - 심낭염·심근염의 진단 기준, 고위험 소견과 검사
 * [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation. 2026;153(12).](https://doi.org/10.1161/CIR.0000000000001415) - 성인 급성 폐색전증의 진단·위험 분류, 초기 치료와 입원·의뢰 판단
+* [Katz PO, et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56.](https://doi.org/10.14309/ajg.0000000000001538) - 전형적 가슴쓰림·역류 증상에서 PPI 경험적 치료와 반응 불충분 시 객관적 검사
 * Jameson JL, et al., eds. Harrison's Principles of Internal Medicine. 20th ed. McGraw-Hill; 2018. - 본문 감별 표 출처(Table 11-1)
 
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - aspirin의 제형·적응증과 nitroglycerin 설하정·주사제의 적응증·금기; 국제 ACS 지침과 국내 허가 차이
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
