@@ -174,7 +174,7 @@ flowchart TD
     B -->|"즉각 위험·정신증·조증"| C["영아 안전 확보<br/>응급 이송·입원 평가"]
     B -->|"즉각 위험 없음"| D["양극성장애 배제<br/>중증도·기능·수유·<br/>과거 반응 평가"]
     D -->|"경증"| E["CBT·IPT<br/>지지·수면·사회적 개입"]
-    D -->|"중등증"| F["심리치료 또는 항우울제<br/>필요 시 병행"]
+    D -->|"중등증"| F["심리치료 또는 항우울제<br/>필요시 병행"]
     D -->|"중증 비정신병성"| G["항우울제+심리치료<br/>정신건강의학과 협진"]
     E --> H["초기 1~2주, <br/>안정화 후 2~4주<br/>척도·기능·안전성 추적"]
     F --> H
@@ -235,25 +235,25 @@ flowchart TD
 
 * 임신부에서 SSRI의 위약 대조 RCT는 거의 없어 안전성 근거는 주로 관찰 연구에 의존함
   * 핵심 한계는 적응증에 의한 교란(confounding by indication)으로, 약물 지속군은 중증·재발성 질환 및 다른 위험 요인이 더 많을 수 있음
-* 미치료·저치료된 모성 우울증은 조산(OR 1.46), 저체중출생(OR 1.90), 제왕절개(위험차 +3.5%p), 임신오조(OR 5.2)와 연관됨 <mark style="color:$info;">\[Wisner et al, JAMA Psychiatry 2026]</mark>; 우울 증상은 임신성 고혈압·전자간증 위험 약 3배 증가와도 연관되며, 기전으로 교감신경 활성 증가가 제시됨 <mark style="color:$info;">\[Kurki et al, Obstet Gynecol 2000]</mark>
+* 미치료·저치료된 모성 우울증은 조산(OR 1.46), 저체중출생(OR 1.90), 제왕절개(위험차 +3.5%p), 임신오조(OR 5.2)와 연관됨 <mark style="color:$info;">\[JAMA Psychiatry 2026]</mark>; 임신 초기 우울 증상은 전자간증 발생 오즈 증가와 연관됨(보정 OR 2.5; 불안은 OR 3.2) <mark style="color:$info;">\[Obstet Gynecol 2000]</mark>
   * SSRI 노출의 잠재적 위험과 함께 평가
-* 심장 기형 재평가 : 초기 연구는 특히 paroxetine 1분기 노출 후 위험 증가를 보고했으나, 모성 우울증과 다른 특성을 보정한 대규모 코호트에서 SSRI와 심장 기형의 연관성은 유의하지 않았음(보정 RR 1.06, 95% CI 0.93\~1.22) <mark style="color:$info;">\[Huybrechts et al, NEJM 2014]</mark>. 다만 관찰 연구로 작은 잔여 위험을 완전히 배제할 수는 없음
-* 절대위험 상담 : 전체 선천 기형 약 3/100 vs 항우울제 노출 3.2/100, 심장 기형 약 1/100 vs 1.1/100으로 제시됨 <mark style="color:$info;">\[Wisner et al, JAMA Psychiatry 2026]</mark> (SSRI뿐 아니라 우울증 치료 약물 전반에 관한 설명 자료)
-* 자폐스펙트럼장애 등 신경발달장애 : 비보정 위험비는 2배 가까이 높았으나(1.81, 95% CI 1.69\~1.92), 우울증 및 기타 모성 특성을 보정하면 크게 감소하고(1.06, 95% CI 0.96\~1.17), 노출 여부만 다른 형제자매를 비교하면 연관성이 소실됨(0.86, 95% CI 0.60\~1.23) <mark style="color:$info;">\[Suarez et al, JAMA Intern Med 2022]</mark>
+* 심장 기형 재평가 : 초기 연구는 특히 paroxetine 1분기 노출 후 위험 증가를 보고했으나, 모성 우울증과 다른 특성을 보정한 대규모 코호트에서 SSRI와 심장 기형의 연관성은 유의하지 않았음(보정 RR 1.06, 95% CI 0.93\~1.22) <mark style="color:$info;">\[NEJM 2014]</mark>. 다만 관찰 연구로 작은 잔여 위험을 완전히 배제할 수는 없음
+* 절대위험 상담 : 전체 선천 기형 약 3/100 vs 항우울제 노출 3.2/100, 심장 기형 약 1/100 vs 1.1/100으로 제시됨 <mark style="color:$info;">\[JAMA Psychiatry 2026]</mark> (SSRI뿐 아니라 우울증 치료 약물 전반에 관한 설명 자료)
+* 자폐스펙트럼장애 등 신경발달장애 : 비보정 위험비는 2배 가까이 높았으나(1.81, 95% CI 1.69\~1.92), 우울증 및 기타 모성 특성을 보정하면 크게 감소하고(1.06, 95% CI 0.96\~1.17), 노출 여부만 다른 형제자매를 비교하면 연관성이 소실됨(0.86, 95% CI 0.60\~1.23) <mark style="color:$info;">\[JAMA Intern Med 2022]</mark>
   * 장기 기능장애를 일관되게 입증한 근거는 없음
-* 임신 후기 SSRI 노출과 PPHN : 보정 OR 1.28(95% CI 1.01\~1.64)의 작은 연관성이 보고되었으며, 절대위험은 1,000명당 약 3명 vs 2명 수준(비보정 31.5 vs 20.8/10,000)이고 잔여 교란 가능성이 있음 <mark style="color:$info;">\[Huybrechts et al, JAMA 2015]</mark>
+* 임신 후기 SSRI 노출과 PPHN : 보정 OR 1.28(95% CI 1.01\~1.64)의 작은 연관성이 보고되었으며, 절대위험은 1,000명당 약 3명 vs 2명 수준(비보정 31.5 vs 20.8/10,000)이고 잔여 교란 가능성이 있음 <mark style="color:$info;">\[JAMA 2015]</mark>
   * 특정 SSRI만의 위험으로 단정하거나 이를 이유로 필요한 치료를 보류하지 않고 절대위험과 미치료 우울증 위험을 함께 설명함
 * 신생아 적응 증후군(Poor Neonatal Adaptation Syndrome, PNAS) : 임신 후기 SSRI 노출 신생아의 최대 30%에서 jitteriness(신경과민), 호흡곤란, 과민성, 빈맥, 수유 곤란 등이 나타날 수 있음
   * 대부분 self-limited; 수일\~2주 내 조용한 환경, 포대기·피부접촉, 소량씩 자주 수유하는 지지치료로 호전됨
   * 출생 직후 호흡·체온·수유 상태를 임상적으로 관찰하고 증상이 있으면 저혈당·호흡곤란 등 중증도를 평가
   * 건강한 만삭아·후기 미숙아에게 일률적인 추가 검사를 요구하지 않음
   * SSRI+benzodiazepine 병용 시에는 관찰을 강화
-* 핀란드 대규모 코호트에서는 SSRI 치료군이 약물치료를 받지 않은 정신질환 산모군보다 오히려 후기 조산(late preterm)·조기 조산(early preterm)·제왕절개 위험이 각각 16%, 48%, 30% 낮았음(치료군 다수가 관해 상태였을 가능성이 설명으로 제시됨) <mark style="color:$info;">\[Malm et al, Am J Psychiatry 2015]</mark>
+* 핀란드 대규모 코호트에서는 SSRI 치료군이 약물치료를 받지 않은 정신질환 산모군보다 오히려 후기 조산(late preterm)·조기 조산(early preterm)·제왕절개 위험이 각각 16%, 48%, 30% 낮았음(치료군 다수가 관해 상태였을 가능성이 설명으로 제시됨) <mark style="color:$info;">\[Am J Psychiatry 2015]</mark>
 * 산후 출혈 : 분만 전 1개월 이내 SSRI·SNRI 노출은 산후 출혈 위험의 소폭 증가(2배 미만)와 연관되나, 적응증에 의한 교란의 영향이 있을 수 있음
   * 복용 사실을 분만 담당 의료진과 공유하되, 이를 이유로 필요한 치료를 중단하지 않음
 * 중단과 재발 : 임신 전부터 항우울제를 복용하던 환자, 특히 중증·재발성 우울증에서는 임신 중 중단 시 재발 위험이 증가할 수 있음
-  * 전문 프로그램 코호트에서는 HR 5.0(95% CI 2.8\~9.1)이 보고됨 <mark style="color:$info;">\[Cohen et al, JAMA 2006]</mark>; 메타분석에서도 중단 시 재발 위험은 중증·재발성 우울증에서 뚜렷했으나(RR 2.30, 95% CI 1.58\~3.35) 경증·중등증에서는 통계적으로 유의하지 않았음(RR 1.59, 95% CI 0.83\~3.04) <mark style="color:$info;">\[Bayrampour et al, J Clin Psychiatry 2020]</mark>
-  * 지역사회 산전 코호트에서는 지속군과 중단군의 재발에 차이가 없었으며(HR 0.88, 95% CI 0.51\~1.50) <mark style="color:$info;">\[Yonkers et al, Epidemiology 2011]</mark>, 이 연구에서도 과거 4회 이상 삽화는 재발 위험인자였음
+  * 전문 프로그램 코호트에서는 HR 5.0(95% CI 2.8\~9.1)이 보고됨 <mark style="color:$info;">\[JAMA 2006]</mark>; 메타분석에서도 중단 시 재발 위험은 중증·재발성 우울증에서 뚜렷했으나(RR 2.30, 95% CI 1.58\~3.35) 경증·중등증에서는 통계적으로 유의하지 않았음(RR 1.59, 95% CI 0.83\~3.04) <mark style="color:$info;">\[J Clin Psychiatry 2020]</mark>
+  * 지역사회 산전 코호트에서는 지속군과 중단군의 재발에 차이가 없었으며(HR 0.88, 95% CI 0.51\~1.50) <mark style="color:$info;">\[Epidemiology 2011]</mark>, 이 연구에서도 과거 4회 이상 삽화는 재발 위험인자였음
   * 과거 삽화 수·중증도, 이전 중단 후 재발, 치료 반응 및 환자 선호를 반영하여 개별 결정
 * 캐나다의 주산기 기분·불안장애 지침도 유사한 원칙, 즉 치료의 이익과 미치료 위험의 균형, 개별화된 의사결정을 권고함 <mark style="color:$info;">\[CANMAT 2024]</mark>
 * 임신 중 약동학 변화로 일부 항우울제 혈중 농도가 낮아질 수 있으므로, 증상 악화 시 복약순응도와 진단을 재확인하고 검증 척도로 추적하면서 용량을 개별 조정함
@@ -274,10 +274,10 @@ Society of Maternal-Fetal Medicine은 SSRI의 위험이 대개 '미치료 우울
 * 신생아와의 적절한 접촉 유지 (예: 신생아 마사지)
 * 밝은 환경 유지, 활동
 * 규칙적 신체활동 : 산후 회복 상태에 맞춰 걷기 등 가벼운 활동부터 점진적으로 늘림
-* 수면 박탈 적극 관리 : 보호자와 야간 돌봄·수유 시간을 미리 나누고 필요 시 분유 보충을 고려하며, 휴대전화 알림을 줄여 가능한 수면 구간을 보호함
+* 수면 박탈 적극 관리 : 보호자와 야간 돌봄·수유 시간을 미리 나누고 필요시 분유 보충을 고려하며, 휴대전화 알림을 줄여 가능한 수면 구간을 보호함
 * 실제 수면시간과 수면욕구 감소·기분 변화를 간단히 기록
   * 양극성장애·산후정신증 고위험군에서 '잠을 거의 자지 않아도 피곤하지 않은 상태'를 경고 신호로 평가
-* 신생아 수면 관리 (필요 시 주변의 도움 요청)
+* 신생아 수면 관리 (필요시 주변의 도움 요청)
 * 적당한 영양 및 수분 섭취
 * 균형 잡힌 식사와 결핍 교정
   * 복합 vitamin·미네랄·오메가-3를 산후우울증 치료 목적으로 일률 처방하지 않음
@@ -451,7 +451,7 @@ F53은 출산 후 6주 이내 시작되고 다른 분류 기준을 충족하지 
 > **처방례 3.** 불안 동반 또는 sertraline 대체
 >
 > ```
-> 렉사프로 10 ㎎/T  0.5T  qd  아침  7~14일
+> 렉사프로 5 ㎎/T  1T  qd  아침  7~14일
 > 이후 렉사프로 10 ㎎/T  1T  qd  아침
 > ※ 간기능 저하 시 10 ㎎/d 이하로 유지
 > ※ 모유 이행량 적음 - 수유 중 사용 가능
@@ -548,15 +548,15 @@ _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성�
 * \[CANMAT 2024] [Vigod SN, et al. Canadian Network for Mood and Anxiety Treatments 2024 Clinical Practice Guideline for the Management of Perinatal Mood, Anxiety, and Related Disorders. Can J Psychiatry. 2025;70(6):429-489.](https://doi.org/10.1177/07067437241303031) - 임신·산후·수유 시기별 치료와 근거 수준; 지침명은 2024, 출판은 2025년
 * [왕성민 외. 한국형 우울장애 약물치료 알고리듬 2025 (IV): 여성 및 노인. 신경정신의학. 2025;64(3):213-220.](https://doi.org/10.4306/jknpa.2025.64.3.213) - 여성·주산기 우울장애의 국내 전문가 합의에 따른 약물 선택
 * \[BMJ 2020] [Levis B, et al. Accuracy of the Edinburgh Postnatal Depression Scale (EPDS) for screening to detect major depression among pregnant and postpartum women: systematic review and meta-analysis of individual participant data. BMJ. 2020;371:m4022.](https://doi.org/10.1136/bmj.m4022) - EPDS 절단점별 민감도·특이도와 확진 면담의 필요성
-* \[Wisner et al, JAMA Psychiatry 2026] [Wisner KL, et al. Depression and SSRI Treatment During Pregnancy: Prioritizing Maternal Mental Health. JAMA Psychiatry. Published online August 12, 2026.](https://doi.org/10.1001/jamapsychiatry.2026.2405) - 미치료 우울증과 SSRI 노출의 위험·이익, 절대위험 상담
-* \[Kurki et al, Obstet Gynecol 2000] [Kurki T, et al. Depression and anxiety in early pregnancy and risk for preeclampsia. Obstet Gynecol. 2000;95(4):487-490.](https://doi.org/10.1016/S0029-7844(99)00602-X) - 임신 초기 우울·불안과 전자간증 위험
-* \[Huybrechts et al, NEJM 2014] [Huybrechts KF, et al. Antidepressant Use in Pregnancy and the Risk of Cardiac Defects. N Engl J Med. 2014;370(25):2397-2407.](https://doi.org/10.1056/NEJMoa1312828) - 모성 우울증 보정 후 SSRI와 심장 기형
-* \[Huybrechts et al, JAMA 2015] [Huybrechts KF, et al. Antidepressant Use Late in Pregnancy and Risk of Persistent Pulmonary Hypertension of the Newborn. JAMA. 2015;313(21):2142-2151.](https://doi.org/10.1001/jama.2015.5605) - 임신 후기 노출과 PPHN의 절대위험
-* \[Suarez et al, JAMA Intern Med 2022] [Suarez EA, et al. Association of Antidepressant Use During Pregnancy With Risk of Neurodevelopmental Disorders in Children. JAMA Intern Med. 2022;182(11):1149-1160.](https://doi.org/10.1001/jamainternmed.2022.4268) - 보정·형제 비교 분석에서 신경발달장애 연관성 소실
-* \[Malm et al, Am J Psychiatry 2015] [Malm H, et al. Pregnancy Complications Following Prenatal Exposure to SSRIs or Maternal Psychiatric Disorders: Results From Population-Based National Register Data. Am J Psychiatry. 2015;172(12):1224-1232.](https://doi.org/10.1176/appi.ajp.2015.14121575) - 핀란드 코호트의 조산·제왕절개 위험
-* \[Cohen et al, JAMA 2006] [Cohen LS, et al. Relapse of Major Depression During Pregnancy in Women Who Maintain or Discontinue Antidepressant Treatment. JAMA. 2006;295(5):499-507.](https://doi.org/10.1001/jama.295.5.499) - 전문 프로그램 코호트의 중단 후 재발
-* \[Bayrampour et al, J Clin Psychiatry 2020] [Bayrampour H, et al. The Risk of Relapse of Depression During Pregnancy After Discontinuation of Antidepressants: A Systematic Review and Meta-Analysis. J Clin Psychiatry. 2020;81(4):19r13134.](https://doi.org/10.4088/JCP.19r13134) - 중증도별 중단 후 재발 위험
-* \[Yonkers et al, Epidemiology 2011] [Yonkers KA, et al. Does antidepressant use attenuate the risk of a major depressive episode in pregnancy? Epidemiology. 2011;22(6):848-854.](https://doi.org/10.1097/EDE.0b013e3182306847) - 지역사회 산전 코호트의 지속·중단군 재발 비교
+* \[JAMA Psychiatry 2026] [Wisner KL, et al. Depression and SSRI Treatment During Pregnancy: Prioritizing Maternal Mental Health. JAMA Psychiatry. Published online August 12, 2026.](https://doi.org/10.1001/jamapsychiatry.2026.2405) - 미치료 우울증과 SSRI 노출의 위험·이익, 절대위험 상담
+* \[Obstet Gynecol 2000] [Kurki T, et al. Depression and anxiety in early pregnancy and risk for preeclampsia. Obstet Gynecol. 2000;95(4):487-490.](https://doi.org/10.1016/S0029-7844(99)00602-X) - 임신 초기 우울·불안과 전자간증 위험
+* \[NEJM 2014] [Huybrechts KF, et al. Antidepressant Use in Pregnancy and the Risk of Cardiac Defects. N Engl J Med. 2014;370(25):2397-2407.](https://doi.org/10.1056/NEJMoa1312828) - 모성 우울증 보정 후 SSRI와 심장 기형
+* \[JAMA 2015] [Huybrechts KF, et al. Antidepressant Use Late in Pregnancy and Risk of Persistent Pulmonary Hypertension of the Newborn. JAMA. 2015;313(21):2142-2151.](https://doi.org/10.1001/jama.2015.5605) - 임신 후기 노출과 PPHN의 절대위험
+* \[JAMA Intern Med 2022] [Suarez EA, et al. Association of Antidepressant Use During Pregnancy With Risk of Neurodevelopmental Disorders in Children. JAMA Intern Med. 2022;182(11):1149-1160.](https://doi.org/10.1001/jamainternmed.2022.4268) - 보정·형제 비교 분석에서 신경발달장애 연관성 소실
+* \[Am J Psychiatry 2015] [Malm H, et al. Pregnancy Complications Following Prenatal Exposure to SSRIs or Maternal Psychiatric Disorders: Results From Population-Based National Register Data. Am J Psychiatry. 2015;172(12):1224-1232.](https://doi.org/10.1176/appi.ajp.2015.14121575) - 핀란드 코호트의 조산·제왕절개 위험
+* \[JAMA 2006] [Cohen LS, et al. Relapse of Major Depression During Pregnancy in Women Who Maintain or Discontinue Antidepressant Treatment. JAMA. 2006;295(5):499-507.](https://doi.org/10.1001/jama.295.5.499) - 전문 프로그램 코호트의 중단 후 재발
+* \[J Clin Psychiatry 2020] [Bayrampour H, et al. The Risk of Relapse of Depression During Pregnancy After Discontinuation of Antidepressants: A Systematic Review and Meta-Analysis. J Clin Psychiatry. 2020;81(4):19r13134.](https://doi.org/10.4088/JCP.19r13134) - 중증도별 중단 후 재발 위험
+* \[Epidemiology 2011] [Yonkers KA, et al. Does antidepressant use attenuate the risk of a major depressive episode in pregnancy? Epidemiology. 2011;22(6):848-854.](https://doi.org/10.1097/EDE.0b013e3182306847) - 지역사회 산전 코호트의 지속·중단군 재발 비교
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
 

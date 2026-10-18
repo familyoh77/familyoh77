@@ -10,7 +10,7 @@
 * 실제 발생한 위험에 비하여 과도하고 지속되며 조절하기 어려운, 불편하고 일상생활에 지장을 주는 걱정; 일상적인 상황에 대하여 과도한 불안감
 * 불안감을 유발하는 실체나 상황을 피하기 위해 부적절한 행동을 취하기도 함
 * 흔히 주요우울증, 지속적인 기분 저하, 사회불안장애 등을 동반
-* 유병률 : 일차진료 환자의 불안장애 유병률은 19.5%이며(GAD 7.6%, PTSD 8.6%, 공황장애 6.8%, 사회불안장애 6.2%), 불안장애 간 동반 이환이 흔함 <mark style="color:$info;">\[Kroenke, Ann Intern Med 2007]</mark>
+* 유병률 : 일차진료 환자의 불안장애 유병률은 19.5%이며(GAD 7.6%, PTSD 8.6%, 공황장애 6.8%, 사회불안장애 6.2%), 불안장애 간 동반 이환이 흔함 <mark style="color:$info;">\[Ann Intern Med 2007]</mark>
   * 우리나라 불안장애 평생 유병률 - 9.3%, 1년 유병률 - 3.1%(여성 4.7%, 남성 1.6%; 여성이 2.9배) <mark style="color:$info;">\[정신건강실태조사 2021]</mark>
   * 미국의 평생 유병률 조사에서 GAD는 여성 약 7%, 남성 약 4%로 보고됨
 * GAD의 발병 연령은 특정공포증·분리불안장애 등 일부 불안장애보다 상대적으로 늦을 수 있음(연구와 정의에 따라 다름)
@@ -116,7 +116,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
     ⑦ 마치 끔찍한 일이 생길 것 같은 두려움을 느낀다.
 * 배점 : 전혀 없음 = 0점, 수일 = 1점, 절반 이상 = 2점, 거의 매일 = 3점
 * 판정 : 0\~4점 = minimal, 5\~9점 = mild, 10\~14점 = moderate, 15\~21점 = severe
-  * 10점 이상 : GAD 민감도 89%, 특이도 82% <mark style="color:$info;">\[Spitzer, Arch Intern Med 2006]</mark>; USPSTF 근거 검토의 통합 결과는 민감도 79%, 특이도 89% <mark style="color:$info;">\[Evidence Review 2023]</mark>
+  * 10점 이상 : GAD 민감도 89%, 특이도 82% <mark style="color:$info;">\[Arch Intern Med 2006]</mark>; USPSTF 근거 검토의 통합 결과는 민감도 79%, 특이도 89% <mark style="color:$info;">\[JAMA 2023]</mark>
 * 해석 원칙 : GAD-7은 선별·중증도·치료 경과 측정 도구이며 확진 도구가 아님. 10점 이상이면 추가 진단 평가가 필요하지만, 치료 시작·증량·감량은 진단, 기능 손상, 자살 위험, 동반질환, 치료 경과, 환자 선호와 관해 후 유지기간을 함께 고려하여 결정
 
 **\[기능 곤란도 문항]** (참고 문항) 위에 해당되는 사항이 있다면 그로 인하여 직장이나 집안일, 또 다른 사람들과 지내는 것이 얼마나 힘듭니까?
@@ -129,7 +129,7 @@ F. 다른 정신 질환으로 더 잘 설명되지 않음
 * GAD-7 1번과 2번 문항만으로 시행
 * 합계 점수 ≥3점인 경우 GAD를 의심(민감도 86%, 특이도 83%) 하고 추가 평가 시행
 * 0\~2점이더라도 임상적 의심이 강한 경우에는 GAD-7 전체 시행 권고
-* 메타분석에서는 민감도 약 76%, 특이도 약 81%로 원연구보다 낮게 보고됨 <mark style="color:$info;">\[Plummer, Gen Hosp Psychiatry 2016]</mark>
+* 메타분석에서는 민감도 약 76%, 특이도 약 81%로 원연구보다 낮게 보고됨 <mark style="color:$info;">\[Gen Hosp Psychiatry 2016]</mark>
 
 #### <mark style="color:$primary;">Penn State Worry Questionnaire (PSWQ)</mark>
 
@@ -209,7 +209,7 @@ graph TD
     Q1 -->|"예"| Dx["GAD-7 + 임상면담<br>DSM-5-TR 기준 확인"]
     Dx --> Q2["GAD 확진 + 중등도 이상<br>또는 유의한 기능 손상"]
     Q2 -->|"아니오"| Low["심리교육·자가관리<br>저강도 심리중재 후 재평가"]
-    Q2 -->|"예"| Tx["공유의사결정<br>CBT 또는 SSRI/SNRI, <br>필요 시 병행"]
+    Q2 -->|"예"| Tx["공유의사결정<br>CBT 또는 SSRI/SNRI, <br>필요시 병행"]
     Tx --> Q3["4~6주 반응 평가"]
     Q3 -->|"반응"| Keep["치료 유지<br>관해 후 12개월 이상"]
     Q3 -->|"부분 반응"| Opt["순응도 확인, 증량<br>또는 CBT 추가"]
@@ -268,7 +268,7 @@ graph TD
 
 * GAD-7을 선별·중증도 참고자료로 사용하며 임상면담으로 GAD를 확진
 * 경도·역치하 증상, 기능 손상 경미 시 심리교육, 자가관리·저강도 심리중재 후 재평가
-* 확진된 GAD에서 중등도 이상 증상 또는 유의한 기능 손상 시 환자 선호에 따라 CBT 또는 SSRI/SNRI, 필요 시 병행
+* 확진된 GAD에서 중등도 이상 증상 또는 유의한 기능 손상 시 환자 선호에 따라 CBT 또는 SSRI/SNRI, 필요시 병행
 
 **Step 3. 치료 반응 평가**
 
@@ -328,7 +328,8 @@ graph TD
 
 * 첫 3개월 동안 2\~4주마다, 이후 3개월마다 약효와 부작용 평가
   * 새로운 약제 투여 시 일반적으로 2\~4주 내 F/U
-  * 24세 이하, 자살사고·과거 자살시도, 양극성장애 가능성, 심한 초기 activation·불면, BZD 병용 또는 물질사용장애가 있으면 1주 이내 또는 더 이른 시점에 F/U
+  * 30세 미만은 투약 후 1주 이내 첫 추적, 이후 첫 4주간 매주 자살사고·자해 위험과 초조를 확인함 <mark style="color:$info;">\[NICE CG113]</mark>. 자살위험이 높으면 연령과 관계없이 위험도에 따라 같은 강도 또는 더 자주 추적함. 24세 이하는 식약처·FDA 자살 관련 경고 대상임
+  * 자살사고·과거 자살시도, 양극성장애 가능성, 심한 초기 activation·불면, BZD 병용 또는 물질사용장애가 있으면 1주 이내 또는 더 이른 시점에 F/U
 
 ### <mark style="color:orange;">초기 약물치료 전략</mark>
 
@@ -405,8 +406,8 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
   * 위험 약물 : MAO 억제제, linezolid, 정맥용 methylene blue, tramadol(오피오이드계 진통제), fentanyl, dextromethorphan(일반 감기약), St. John's wort, lithium, tryptophan, buspirone
   * triptan 병용 위험은 실제로는 매우 낮은 것으로 평가되나 병용 여부는 확인 필요
 * QT 간격 연장 : escitalopram은 용량 의존적으로 QT가 연장될 수 있음
-  * 대책 : 권장 최대 20 ㎎/d를 초과하지 않음. 고령자는 초회량을 5 ㎎로 절반 감량하고, 통상 10 ㎎/d를 넘지 않는 것이 실무적으로 흔히 쓰이는 상한임
-    * QT 연장 약물 병용·기저 심질환·저칼륨혈증 등 위험이 있으면 ECG와 전해질 확인 고려
+  * 대책 : 권장 최대 20 ㎎/d를 초과하지 않으며 QT 연장 유발 약물과의 병용은 금기. 고령자는 5 ㎎/d로 시작하고 QT 연장 위험을 고려하여 통상 10 ㎎/d 이내로 사용함. 국내 허가사항은 초기용량 절반 감량 및 더 낮은 최대용량 고려로 기재되어 있으며, 구체적 상한 수치는 명시하지 않음
+    * 기저 심질환·저칼륨혈증 등 QT 위험인자가 있으면 ECG와 전해질 확인 고려
 * 폐쇄각 녹내장 : SSRI/SNRI 공통으로 산동(mydriasis) 효과에 의해 안압이 상승할 수 있음
   * 대책 : 위험 환자(고령, 좁은 전방각)에서 투여 전 안과 확인 권고
 * 고령자 : SSRI/SNRI 투여 시 저나트륨혈증(SIADH) 위험을 고려하여 고위험군에서 기저 및 투약 초기 전해질 확인
@@ -467,7 +468,6 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 
 * 의존·인지저하·낙상·교통사고 등 위해 위험을 지니므로 위기 상황의 단기 완화 목적으로만 제한적으로 사용
 * 남용·오용·중독, 신체의존과 금단 반응(갑작스러운 중단 시 생명을 위협할 수 있음) 위험이 있음
-* 대체약 선택 시에도 hydroxyzine의 항콜린·진정·QT 위험 등 환자별 위해를 함께 비교
 * SSRI/SNRI의 효과가 나타날 때까지 위기 동안 단기 투여
 * 장기적 경과를 개선시키지는 못함
 * 저용량으로 시작 (☞ [항불안제](../231_/213_-antidepressants-and-anxiolytics.md#benzodiazepine))
@@ -478,7 +478,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
   * 장시간 작용 약제(clonazepam, diazepam 등)로 전환할 수 있으나 일률적으로 선호하지 않으며 간기능·병용약을 고려. 고령자에서는 장시간형 전환이 오히려 부적절할 수 있음
 * 역설적 탈억제(Paradoxical disinhibition) : 드물게 고령자, 기질적 뇌질환(치매·뇌손상) 환자, 소아에서 BZD 복용 후 오히려 불안·흥분·공격성이 심해지는 반응이 나타날 수 있음. 이 경우 추가 투여를 보류하고 즉시 평가. 다만 수주 이상 규칙적으로 복용한 환자는 금단 위험을 고려하여 갑자기 중단하지 말고 개별화된 속도로 감량
 
-<table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (㎎/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam <mark style="color:blue;">[자낙스]</mark></td><td align="center">0.25~4</td><td align="center">11~15</td></tr><tr><td>lorazepam <mark style="color:blue;">[아티반]</mark></td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>bromazepam <mark style="color:blue;">[브로마제팜]</mark></td><td align="center">3~18</td><td align="center">10~20</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide <mark style="color:blue;">[리버티]</mark></td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>diazepam <mark style="color:blue;">[바리움]</mark></td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
+<table><thead><tr><th width="251.52630615234375">성분명 [상품명]</th><th width="130.15789794921875" align="center">용량 (㎎/d)</th><th width="129.8076171875" align="center">반감기 (hr)</th></tr></thead><tbody><tr><td>alprazolam <mark style="color:blue;">[자낙스]</mark></td><td align="center">0.25~4</td><td align="center">11~15</td></tr><tr><td>lorazepam <mark style="color:blue;">[아티반]</mark></td><td align="center">0.5~6</td><td align="center">10~14</td></tr><tr><td>bromazepam <mark style="color:blue;">[브로마제팜]</mark></td><td align="center">3~18</td><td align="center">10~20</td></tr><tr><td>clonazepam <mark style="color:blue;">[리보트릴]</mark></td><td align="center">0.5~4</td><td align="center">18~50</td></tr><tr><td>chlordiazepoxide <mark style="color:blue;">[리버티]</mark></td><td align="center">5~100</td><td align="center">30~100</td></tr><tr><td>diazepam <mark style="color:blue;">[디아제팜]</mark></td><td align="center">4~40</td><td align="center">50~100</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">항정신병 약물</mark>
 
@@ -530,15 +530,15 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 > 렉사프로 5 ㎎/T  1T  qd  조식 후  (첫 1~2주)
 > → 2주 후 10 ㎎ qd로 증량; 4~6주 후 효과 평가
 > ※ 투약 초기 불안 일시 악화(jitteriness syndrome) 가능 - 저용량 시작 이유 설명
-> ※ 24세 이하: 투여 초기와 용량 변경 시 자살사고·행동 악화 여부를 면밀히 확인
-> ※ 권장 최대 20 ㎎/d를 초과하지 않음. 심질환·전해질 이상 또는 QT 연장 유발 약물 병용 시 ECG 고려
-> ※ 고령자: 5 ㎎로 절반 감량하여 시작, 통상 10 ㎎/d를 넘지 않음(국내 허가사항상 구체적 상한 미명시); 투약 2~4주 후 전해질(Na) 확인(SIADH 위험)
+> ※ 30세 미만: 1주 이내 첫 추적 후 첫 4주간 매주 자살사고·자해 위험과 초조 확인 [NICE CG113]; 자살위험이 높으면 연령과 무관하게 같은 강도 이상으로 추적
+> ※ 권장 최대 20 ㎎/d. QT 연장 유발 약물과 병용 금기; 심질환·전해질 이상 등 QT 위험인자가 있으면 ECG 고려
+> ※ 고령자: 5 ㎎/d로 시작, 통상 10 ㎎/d 이내; 저나트륨혈증 고위험군은 투약 전 및 시작·증량 1~2주 후 Na 확인
 > ```
 
 > **처방례 2.** GAD - 초기치료, SNRI 단독 (불안+통증 동반 또는 SSRI 불내성)
 >
 > ```
-> 이팩사 엑스알 서방 37.5 ㎎/C  1C  qd  조식 후  (첫 4~7일)
+> 이팩사엑스알서방캡슐 37.5 ㎎  1C  qd  조식 후  (첫 4~7일)
 > → 내약성 확인 후 75 ㎎ qd로 증량; 이후 반응과 내약성에 따라 1주 이상 간격으로 조절(최대 225 ㎎/d)
 > ※ 투여 전 및 치료 중 정기적으로 혈압 확인 - 특히 고용량에서 용량 의존적 상승 가능
 > ※ 갑작스러운 중단 금지 (discontinuation syndrome 위험)
@@ -585,7 +585,7 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 > 졸로푸트 50 ㎎/T  0.5T  qd  조식 후  (첫 1~2주)
 > → 반응·내약성에 따라 1~2주 간격으로 25 ㎎씩 증량
 > ※ 저용량으로 시작 - "start low, go slow" 원칙
-> ※ 투약 초기·용량 변경 시 저나트륨혈증(SIADH) 위험 - 2~4주 후 전해질(Na) 확인
+> ※ 저나트륨혈증(SIADH) 고위험군은 투약 전 및 시작·증량 1~2주 후 전해질(Na) 확인
 > ※ NSAID·항혈소판제·항응고제 병용 시 위장관 출혈 위험 증가 - 병용약 확인
 > ※ 낙상 위험 평가 및 안내
 > ※ sertraline의 GAD 적응증은 국내 허가 외 사용(국내 허가 적응증: 우울증, 성인·소아 강박장애, 공황장애, PTSD, 사회불안장애, 월경전불쾌장애)
@@ -666,12 +666,12 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 * [Kim MK, et al. Korean Guidelines for the Treatment of Generalized Anxiety Disorder 2024: Initial and Maintenance Treatment Strategies for the Pharmacological Treatment of Generalized Anxiety Disorder. Anxiety Mood. 2024;20(2):54-64.](https://doi.org/10.24986/anxmod.2024.20.2.004) - 2024 한국형 범불안장애 치료지침; 국내 전문가 합의의 초기·유지 전략
 * \[NICE CG113] [NICE. Generalised anxiety disorder and panic disorder in adults: management. Clinical guideline CG113. 2011; updated 2020.](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations) - CBT·SSRI/SNRI 우선 치료, 고강도 CBT 회기 수와 BZD 사용 범위
 * \[USPSTF 2023] [US Preventive Services Task Force. Screening for Anxiety Disorders in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023;329(24):2163-2170.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/anxiety-adults-screening) - 선별 대상 연령·등급 및 65세 이상 근거 불충분
-* \[Evidence Review 2023] [O'Connor E, et al. Anxiety Screening: Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023;329(24):2171-2184.](https://doi.org/10.1001/jama.2023.6369) - 선별 도구의 통합 민감도·특이도
+* \[JAMA 2023] [O'Connor E, et al. Anxiety Screening: Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023;329(24):2171-2184.](https://doi.org/10.1001/jama.2023.6369) - 선별 도구의 통합 민감도·특이도
 * \[JAMA Intern Med 2026] [Shepardson RL, et al. Treatment of Anxiety for Adults in Primary Care Settings: A Review. JAMA Intern Med. 2026;186(7):878-889.](https://doi.org/10.1001/jamainternmed.2026.0395) - 일차의료의 근거 기반 심리·약물 치료와 협력 진료
 * \[ASAM 2025] [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존 평가·개별 감량 속도와 금단 관리
-* \[Spitzer, Arch Intern Med 2006] [Spitzer RL, et al. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006;166(10):1092-1097.](https://doi.org/10.1001/archinte.166.10.1092) - GAD-7 원개발 연구와 선별 도구의 성능
-* \[Plummer, Gen Hosp Psychiatry 2016] [Plummer F, et al. Screening for anxiety disorders with the GAD-7 and GAD-2: a systematic review and diagnostic metaanalysis. Gen Hosp Psychiatry. 2016;39:24-31.](https://doi.org/10.1016/j.genhosppsych.2015.11.005) - GAD-7 메타분석의 민감도·특이도
-* \[Kroenke, Ann Intern Med 2007] [Kroenke K, et al. Anxiety disorders in primary care: prevalence, impairment, comorbidity, and detection. Ann Intern Med. 2007;146(5):317-325.](https://doi.org/10.7326/0003-4819-146-5-200703060-00004) - 일차진료 환자의 불안장애 유병률
+* \[Arch Intern Med 2006] [Spitzer RL, et al. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006;166(10):1092-1097.](https://doi.org/10.1001/archinte.166.10.1092) - GAD-7 원개발 연구와 선별 도구의 성능
+* \[Gen Hosp Psychiatry 2016] [Plummer F, et al. Screening for anxiety disorders with the GAD-7 and GAD-2: a systematic review and diagnostic metaanalysis. Gen Hosp Psychiatry. 2016;39:24-31.](https://doi.org/10.1016/j.genhosppsych.2015.11.005) - GAD-7 메타분석의 민감도·특이도
+* \[Ann Intern Med 2007] [Kroenke K, et al. Anxiety disorders in primary care: prevalence, impairment, comorbidity, and detection. Ann Intern Med. 2007;146(5):317-325.](https://doi.org/10.7326/0003-4819-146-5-200703060-00004) - 일차진료 환자의 불안장애 유병률
 * \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://doi.org/10.1176/appi.books.9780890425787) - 범불안장애 진단 기준
 * \[정신건강실태조사 2021] 보건복지부·국립정신건강센터. 2021년 정신건강실태조사. - 국내 불안장애 평생·1년 유병률
 * Ferri FF. Ferri's Clinical Advisor 2024. Elsevier; 2024. - 본문 표 출처(Table E2)

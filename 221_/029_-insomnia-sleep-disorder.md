@@ -96,7 +96,7 @@
 * 신체 증상 : 두통, 소화 장애
 * 장기적 건강 위험과의 연관성 (만성 불면 시)
   * 심혈관 질환(고혈압, 심근경색), 당뇨병 위험 증가와 연관되지만 개인 환자에서 인과관계를 단정하지 않음
-  * 우울증 발병 위험 약 2배 증가 (Baglioni et al., J Affect Disord 2011 메타분석)
+  * 우울증 발생과 연관됨(OR 2.60) <mark style="color:$info;">\[J Affect Disord 2011]</mark>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -130,7 +130,7 @@
 * 병력(예: 통증성 질환), 정신건강 상태, 약물·카페인·nicotine·음주 및 물질사용 경력
 * 수면 이력 : 수면/기상 시간, 근무/활동 시간, 불면 패턴(입면 지연, 유지 장애), 주간 졸음 여부
   * 수면 일지 작성 : 취침/기상/밤중 각성 시간, 야간 배뇨 시간/배뇨량, 수면 환경, 낮잠, 음주, 스트레스, 기분 등을 기록
-  * 필요 시 활동기록계(actigraphy)로 수면 패턴을 보조 평가
+  * 필요시 활동기록계(actigraphy)로 수면 패턴을 보조 평가
 * 신체진찰 : 체중/BMI, 상기도·심폐·신경학적 소견, 하지불안증후군 및 동반 질환 단서 확인
 * 검사실검사 : CBC, ferritin/TSAT, TSH, 간/신장기능 등
   * 병력·진찰에서 빈혈/철결핍, 갑상선질환, 신장질환 등 특정 원인이 의심될 때 선택적으로 시행
@@ -144,7 +144,7 @@
 #### <mark style="color:$primary;">주간 졸림증 자가 진단 - 한국형 주간 졸음 자가평가 척도(K-ESS)</mark>
 
 * 독서, TV 시청, 공공장소 착석, 차량 내 착석, 오후 누워서 휴식, 앉아서 대화, 점심 식후 착석, 대중교통 내 기대 있을 때 등 8가지 일상 상황에서의 졸림 정도를 자가설문 (☞ [대한수면의학회 온라인 자가검사](https://www.sleep.or.kr/html/?pmode=sleepiness))
-* 판정 : 0\~10점 정상범위, ≥11점이면 과도한 주간졸림 가능성을 평가하며, 점수가 높을수록 졸림 정도가 심함
+* 판정 : ＜10점 정상, 10\~13점 주간졸림 있음, 14\~18점 중등도, ≥19점 심함(대한수면의학회 온라인 검사 기준)
 * 점수만으로 OSA·기면병 등을 진단하지 않음
 * 심한 과도한 주간졸림이 두드러지면 불면장애 자체뿐 아니라 수면부족, OSA, 기면병, 약물 영향을 우선 재평가
 
@@ -215,7 +215,7 @@
 * 치료
   * 아동기 비렘수면 각성장애는 특별한 치료를 요하지 않을 수 있음
   * 렘수면 행동장애는 위험 물건 제거, 침대 주변 완충, 동침자 보호 등 침실 안전조치가 우선
-  * 필요 시 즉시 방출 melatonin 또는 clonazepam을 선택적으로 고려하되, clonazepam은 고령자·인지저하·보행장애·OSA에서 특히 주의
+  * 필요시 즉시 방출 melatonin 또는 clonazepam을 선택적으로 고려하되, clonazepam은 고령자·인지저하·보행장애·OSA에서 특히 주의
 
 #### <mark style="color:$primary;">기면병(Narcolepsy) 및 특발성 과다수면증 (Idiopathic Hypersomnia)</mark>
 
@@ -442,7 +442,7 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 * 매일 일정한 시간에 기상 (주말 포함, 평소 기상 시간 ±1시간 이내)
 * 규칙적으로 운동하되, 늦은 시간의 (강한) 운동이 실제 입면을 방해하면 시간·강도를 조정
 * 침실 환경 : 어둡고, 조용하고, 본인에게 편안하고 서늘하게
-* 배가 고프지 않게 함. 필요 시 우유나 가벼운 스낵 등 간단한 음식 섭취. 취침 직전 과식은 회피
+* 배가 고프지 않게 함. 필요시 우유나 가벼운 스낵 등 간단한 음식 섭취. 취침 직전 과식은 회피
 * 카페인이나 약물 복용 시 반감기와 개인 민감도를 고려하여 늦은 오후·저녁 섭취 회피 (커피, 차, 콜라, 에너지 음료, 일부 진통제)
 * 술에 의존하지 않음. 술은 잠을 빠르게 들게 할 수 있지만 자주 깨게 하고 수면 후반부 각성을 유발하며, 수면무호흡증 악화·코골이 유발 위험
 * 잠자리에서 스마트폰·TV·태블릿 사용을 줄임. 밝은 빛뿐 아니라 자극적인 콘텐츠와 침대-각성 연합도 수면을 방해할 수 있음
@@ -458,7 +458,7 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 * 위 과정을 잠들 때까지 반복
 * 기상 시간을 일정하게 유지
 * 잠자리는 잠을 자는 용도로만 사용(성생활 제외). 침대에서 독서·식사·업무·TV 시청 회피
-* 낮잠은 피하며, 필요 시 오후 3시 이전 30분 이내로만 잠
+* 낮잠은 피하며, 필요시 오후 3시 이전 30분 이내로만 잠
 
 #### <mark style="color:$primary;">3. 수면 제한법 (Sleep restriction therapy)</mark>
 
@@ -652,7 +652,7 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
   * 남용·오용·중독, 신체 의존과 금단 반응(급격한 중단 시 경련 등 생명 위협 가능) 위험
   * opioid와 병용 시 심한 진정, 호흡 억제, 혼수, 사망 위험
 * 국내에서 수면 목적으로 처방 가능한 BZD는 제한적임
-* triazolam : 성인 0.125\~0.25 ㎎ 취침 전 투여; 고령자·쇠약 환자는 0.125 ㎎으로 시작하고 필요 시 0.25 ㎎까지 <mark style="color:blue;">\[트리람]</mark>
+* triazolam : 성인 0.125\~0.25 ㎎ 취침 전 투여; 고령자·쇠약 환자는 0.125 ㎎으로 시작하고 필요시 0.25 ㎎까지 <mark style="color:blue;">\[트리람]</mark>
   * 보통 7\~10일간 사용하며 최대 2\~3주를 초과하지 않음
   * 지속 투여 후 중단 시 점진적으로 감량
 
@@ -704,7 +704,7 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 
 ### <mark style="color:orange;">권고 약제</mark>
 
-<table><thead><tr><th width="148">약제</th><th width="285">주요 대상 및 시작용량</th><th>핵심 주의사항</th></tr></thead><tbody><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td>입면·수면 유지; 성인 1 ㎎ 취침 직전 시작, 필요 시 최대 3 ㎎; 고령자·중증 간장애·강력 CYP3A4 억제제 병용 시 최대 2 ㎎</td><td>반감기 약 6시간; 미각 이상, 어지럼, 다음날 기능 저하, 복합수면행동; 충분한 수면 시간을 확보</td></tr><tr><td>zaleplon<br><mark style="color:blue;">[잘레딥]</mark></td><td>주로 입면 장애; 성인 10 ㎎, 고령자·쇠약 환자 5 ㎎</td><td>반감기 약 1시간(초단시간)이지만 다음날 졸림과 복합수면행동 가능; 동일한 밤에 임의로 추가 복용하지 않음</td></tr><tr><td>zolpidem 속방형<br><mark style="color:blue;">[스틸녹스]</mark></td><td>주로 입면 장애; 국내 허가상 성인 10 ㎎, 노인·쇠약 환자 5 ㎎; 다음날 기능저하 위험이 우려되면 낮은 용량부터 시작</td><td>반감기 약 2~2.5시간; 국내 허가상 치료 기간은 가능한 짧게, 최대 4주(감량 기간 포함); 최소 7~8시간 수면 확보. 복합수면행동이 발생하면 즉시 중단; 기억상실이나 비정상 행동이 발생하면 복용을 중지하고 신속히 평가</td></tr><tr><td>zolpidem 서방형<br><mark style="color:blue;">[스틸녹스CR]</mark></td><td>입면 및 수면 유지 장애; 국내 제품은 6.25 ㎎과 12.5 ㎎이며 환자별로 가장 낮은 유효용량을 선택</td><td>이중 방출로 작용 지속 시간이 속방형보다 김(반감기 자체는 유사); 분할·분쇄하지 않고 통째로 복용; 다음날 잔류 졸림이 속방형보다 클 수 있어 운전·위험작업 주의; 치료 기간은 가능한 짧게</td></tr><tr><td>doxepin<br><mark style="color:blue;">[사일레노]</mark></td><td>수면 유지 장애; 성인 6 ㎎, 고령자는 3 ㎎ 시작(최대 6 ㎎)</td><td>반감기 약 15시간(활성 대사체 nordoxepin 약 31시간); 취침 전 30분 이내, 식후 3시간 이내 복용하지 않음; 다음날 졸림·어지럼 가능</td></tr><tr><td>DORA</td><td>입면·수면 유지 장애에 고려 가능한 계열</td><td>반감기는 약제별 상이(예: lemborexant 약 17~19시간); narcolepsy 금기, 다음날 졸림·수면마비·입면/각성 시 환각·복합수면행동 가능</td></tr></tbody></table>
+<table><thead><tr><th width="148">약제</th><th width="285">주요 대상 및 시작용량</th><th>핵심 주의사항</th></tr></thead><tbody><tr><td>eszopiclone<br><mark style="color:blue;">[조피스타]</mark></td><td>입면·수면 유지; 성인 1 ㎎ 취침 직전 시작, 필요시 최대 3 ㎎; 고령자·중증 간장애·강력 CYP3A4 억제제 병용 시 최대 2 ㎎</td><td>반감기 약 6시간; 미각 이상, 어지럼, 다음날 기능 저하, 복합수면행동; 충분한 수면 시간을 확보</td></tr><tr><td>zaleplon<br><mark style="color:blue;">[잘레딥]</mark></td><td>주로 입면 장애; 성인 10 ㎎, 고령자·쇠약 환자 5 ㎎</td><td>반감기 약 1시간(초단시간)이지만 다음날 졸림과 복합수면행동 가능; 동일한 밤에 임의로 추가 복용하지 않음</td></tr><tr><td>zolpidem 속방형<br><mark style="color:blue;">[스틸녹스]</mark></td><td>주로 입면 장애; 국내 허가상 성인 10 ㎎, 노인·쇠약 환자 5 ㎎; 다음날 기능저하 위험이 우려되면 낮은 용량부터 시작</td><td>반감기 약 2~2.5시간; 국내 허가상 치료 기간은 가능한 짧게, 최대 4주(감량 기간 포함); 최소 7~8시간 수면 확보. 복합수면행동이 발생하면 즉시 중단; 기억상실이나 비정상 행동이 발생하면 복용을 중지하고 신속히 평가</td></tr><tr><td>zolpidem 서방형<br><mark style="color:blue;">[스틸녹스CR]</mark></td><td>입면 및 수면 유지 장애; 국내 제품은 6.25 ㎎과 12.5 ㎎이며 환자별로 가장 낮은 유효용량을 선택</td><td>이중 방출로 작용 지속 시간이 속방형보다 김(반감기 자체는 유사); 분할·분쇄하지 않고 통째로 복용; 다음날 잔류 졸림이 속방형보다 클 수 있어 운전·위험작업 주의; 치료 기간은 가능한 짧게</td></tr><tr><td>doxepin<br><mark style="color:blue;">[사일레노]</mark></td><td>수면 유지 장애; 성인 6 ㎎, 고령자는 3 ㎎ 시작(최대 6 ㎎)</td><td>반감기 약 15시간(활성 대사체 nordoxepin 약 31시간); 취침 전 30분 이내, 식후 3시간 이내 복용하지 않음; 다음날 졸림·어지럼 가능</td></tr><tr><td>DORA</td><td>입면·수면 유지 장애에 고려 가능한 계열</td><td>반감기는 약제별 상이(예: lemborexant 약 17~19시간); narcolepsy 금기, 다음날 졸림·수면마비·입면/각성 시 환각·복합수면행동 가능</td></tr></tbody></table>
 
 > _반감기는 건강한 성인에서의 대표값이며 연령, 간기능 및 약물 상호작용에 따라 달라질 수 있음. 반감기는 임상적 작용 지속 시간이나 다음날 기능저하와 동일한 개념이 아님._
 >
@@ -768,7 +768,7 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 > ```
 > 조피스타 1 ㎎/T  1T  취침 직전
 > ※ 최소 7~8시간 수면 시간 확보; 같은 밤에 추가 복용하지 않음
-> ※ 효과와 다음날 기능을 평가해 필요 시 최대 3 ㎎까지 증량
+> ※ 효과와 다음날 기능을 평가해 필요시 최대 3 ㎎까지 증량
 > ※ 고령자·중증 간장애·강력 CYP3A4 억제제 병용 시 최대 2 ㎎
 > ※ 미각 이상, 어지럼, 다음날 졸림, 복합수면행동 설명
 > ```
@@ -901,8 +901,9 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 * [Riemann D, et al. The European Insomnia Guideline: An update on the diagnosis and treatment of insomnia 2023. J Sleep Res. 2023;32(6):e14035.](https://doi.org/10.1111/jsr.14035) - 불면 평가, CBT-I 우선 치료와 약물 선택·기간
 * \[AASM 2021] [Edinger JD, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2021;17(2):255-262.](https://doi.org/10.5664/jcsm.8986) - CBT-I 및 개별 행동·심리 치료의 권고 강도
 * \[AASM 2017] [Sateia MJ, et al. Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017;13(2):307-349.](https://doi.org/10.5664/jcsm.6470) - 수면제별 권고와 근거 한계; 이후 지침·허가사항과 함께 해석
-* \[AASM 2026] [Buysse DJ, et al. Combination treatment for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2026;22(1):56.](https://doi.org/10.1007/s44470-025-00038-8) - CBT-I·약물 병용과 각 단독 치료의 비교 및 조건부 권고
+* \[AASM 2026] [Buysse DJ, et al. Combination treatment for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2026;22:56.](https://doi.org/10.1007/s44470-025-00038-8) - CBT-I·약물 병용과 각 단독 치료의 비교 및 조건부 권고
 * \[VA/DoD 2025] [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Chronic Insomnia Disorder and Obstructive Sleep Apnea. Version 3.0. 2025.](https://www.healthquality.va.gov/guidelines/CD/insomnia/) - CBT-I, 단기 약물 치료와 동반 수면무호흡 평가
+* \[J Affect Disord 2011] [Baglioni C, et al. Insomnia as a predictor of depression: a meta-analytic evaluation of longitudinal epidemiological studies. J Affect Disord. 2011;135(1-3):10-19.](https://doi.org/10.1016/j.jad.2011.01.011) - 불면증과 이후 우울증 발생의 연관성
 * [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존·금단 위험 평가, 개별 감량 계획과 CBT 등 보조 치료
 
 ### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>

@@ -97,8 +97,7 @@
 
 * 실행 의도가 있거나 수단에 접근 가능한 구체적 자살사고, 최근 자살 시도·중단된 시도, 스스로 안전을 유지하기 어려운 상태 `고위험 자살 위기`
 * 타인에 대한 위해 의도 또는 계획 `타해 위험`
-* 환청·망상·심한 와해 행동 동반 `정신병적 우울증` `조증·혼재성 삽화` `물질 유발 정신병`
-  * 조증·혼재성 증상, 물질·약물 유발 상태 및 일차성 정신병적 장애를 함께 감별하되 응급 평가를 지연하지 않음
+* 환청·망상·심한 와해 행동 동반 `정신병적 우울증` `조증·혼재성 삽화` `물질 유발 정신병` `일차성 정신병적 장애`
 * 무언증·혼미·거부증·자세 유지 `긴장증`
 * 출산 후 수주 이내 급격한 혼돈·환각·망상 `산후 정신병`
 * 음식·수분 거부로 신체 상태 급격히 악화 `탈수·영양실조`
@@ -107,7 +106,7 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 자살·자해 사고 또는 수동적 죽음 소망이 있으나 즉각 위해가 명확하지 않음: 당일 구조화 평가 후 위험도와 보호요인에 따라 의뢰 시급성 결정 `자살 위험`
+* 자살·자해 사고 또는 수동적 죽음 소망이 있으나 즉각 위해가 명확하지 않음 `자살 위험`
 * 과거 조증/경조증 삽화 `양극성 장애`
 * 우울 삽화 중 초조·과민·사고 비약·수면 욕구 감소·과대성 동반 `혼재성 양상` `양극성 장애`
 * 항우울제 시작·증량 후 새로 생긴 초조·불안·충동성(특히 25세 미만) `항우울제 관련 활성화`
@@ -232,13 +231,13 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
   1. 일을 하는 것에 대한 흥미나 재미가 거의 없음
   2. 가라앉은 느낌, 우울감 혹은 절망감
 * 배점 : 2개 항목에 각각 전혀 아니다=0점, 여러날 동안=1점, 일주일 이상=2점, 거의 매일=3점
-* 판정 : 민감도/특이도 - ≥3점 기준 시 72%/85%, ≥2점 기준 시 91%/67% <mark style="color:$info;">\[Levis, JAMA 2020]</mark>
+* 판정 : 민감도/특이도 - ≥3점 기준 시 72%/85%, ≥2점 기준 시 91%/67% <mark style="color:$info;">\[JAMA 2020]</mark>
   * 민감도를 중시하면 ≥2점에서 PHQ-9로 진행
   * 양성 시 PHQ-9 등 추가 평가
 
 #### [<mark style="color:$primary;">PHQ-9</mark>](https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_Korean%20for%20Korea.pdf)
 
-* 민감도/특이도 : 성인에서 ≥10점 기준 88%/85% <mark style="color:$info;">\[Levis, BMJ 2019]</mark>; 대상군과 진단 면담 방식에 따라 달라질 수 있음
+* 민감도/특이도 : 성인에서 ≥10점 기준 88%/85% <mark style="color:$info;">\[BMJ 2019]</mark>; 대상군과 진단 면담 방식에 따라 달라질 수 있음
   * cut-off를 ≥15점으로 높이면 민감도↓/특이도↑
 * 질문 : 지난 2주 동안, 아래 나열되는 증상들에 얼마나 자주 시달렸습니까?
   1. 일을 하는 것에 대한 흥미나 재미가 거의 없음
@@ -267,7 +266,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 
 #### <mark style="color:$primary;">WHO-5 Well-being index</mark>
 
-* 민감도/특이도 : 일차진료 환자에서 CIDI로 확인한 ICD-10 우울장애 선별 시 93%/64% <mark style="color:$info;">\[Henkel et al., BMJ 2003]</mark>; 대상군·절단점·진단 준거에 따라 달라짐
+* 민감도/특이도 : 일차진료 환자에서 CIDI로 확인한 ICD-10 우울장애 선별 시 93%/64% <mark style="color:$info;">\[BMJ 2003]</mark>; 대상군·절단점·진단 준거에 따라 달라짐
 * 질문 : 지난 2주일 중 다음 상태가 얼마나 있었습니까?
   1. 나는 유쾌하고 기분이 좋다.
   2. 나는 차분하고 편안하다.
@@ -337,7 +336,7 @@ H. 증상이 사회적, 직업적, 또는 다른 중요한 기능 영역에서 �
 graph TD
     Start(["우울 증상 호소 또는 <br>선별 대상 성인"]) --> P2["PHQ-2"]
     P2 --> Q1["PHQ-2 양성?"]
-    Q1 -->|아니오| Obs["경과 관찰, <br>필요 시 재검"]
+    Q1 -->|아니오| Obs["경과 관찰, <br>필요시 재검"]
     Q1 -->|예| P9["PHQ-9 + 진단 면담<br>기능 손상·기간 평가"]
     P9 --> Q2["자살·자해 사고?"]
     Q2 -->|예| Risk["의도·계획·수단·과거 시도<br>악화·보호요인 평가"]
@@ -391,8 +390,8 @@ graph TD
 ### <mark style="color:orange;">생활 습관 중재</mark>
 
 * [식이](../231_/217_-nutritiondiet-guideline.md) : 지중해식 식단 - 채소·과일·전곡류·생선·올리브유
-  * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT가 있음 <mark style="color:$info;">\[SMILES trial, BMC Med 2017]</mark>
-* [운동](../231_/216_-physical-activity-guideline.md) : 걷기·조깅, 요가, 근력운동이 우울 증상 감소에 효과적이며 강도가 높을수록 효과가 큼 <mark style="color:$info;">\[네트워크 메타분석, BMJ 2024]</mark>
+  * 식이 중재가 중등도 이상 우울증의 보조 치료로 효과를 보인 RCT(SMILES)가 있음 <mark style="color:$info;">\[BMC Med 2017]</mark>
+* [운동](../231_/216_-physical-activity-guideline.md) : 걷기·조깅, 요가, 근력운동이 우울 증상 감소에 효과적이며 강도가 높을수록 효과가 큼 <mark style="color:$info;">\[BMJ 2024]</mark>
 * 디지털 치료기기(DTx) : CBT 기반 디지털 중재를 경증\~중등도 우울증의 보조치료로 고려할 수 있음
   * 국내에서는 2025년 블루케어-티([BlueKare-T](https://www.bluekare.kr/), CBT 기반 모바일), 2026년 [치유 포레스트 N](https://www.mindsai.co.kr/ko/cheeu)(VR 기반)이 우울장애 디지털치료기기로 허가됨. "의사 진료 → 처방 → 환자가 앱 설치·사용"의 방식으로 적용하며 제품별 적응증·대상·임상 근거, 처방 가능 기관과 비용·급여 여부를 확인
 
@@ -434,7 +433,7 @@ graph TD
   * 고위험군은 PPI 병용 고려
 * escitalopram, sertraline : 약물 상호 작용이 적음
 * escitalopram : 10 ㎎/d, 10\~20 ㎎/d <mark style="color:blue;">\[렉사프로]</mark>
-  * 고령자는 5 ㎎으로 시작하고 최대 10 ㎎/d (QT 연장)
+  * 고령자는 5 ㎎/d로 시작하고 통상 10 ㎎/d 이내 (QT 연장; 국내 허가사항은 구체적 상한 수치 미명시)
 * fluoxetine : 20 ㎎/d 아침, 20\~60 ㎎/d <mark style="color:blue;">\[푸록틴]</mark> (8세 이상 소아·청소년 주요우울장애 FDA 승인)
   * 신경성 폭식증 적응
 * paroxetine : 10 ㎎/d, 20\~50 ㎎/d <mark style="color:blue;">\[세로자트]</mark>; CR 25 ㎎/d, 25\~62.5 ㎎/d <mark style="color:blue;">\[팍실 CR]</mark>
@@ -473,7 +472,7 @@ graph TD
 * 주의 : 고령(부작용 증가), 녹내장, BPH, 갑상선항진증, 심혈관 질환, 부정맥, 간질환, 당뇨병(혈당 상승), MAOI 투여
 * 부작용 : 입마름, 시야 흐림, 변비, 요 정체, 빈맥, 혼돈
 * 과량 복용 시 치명적이므로 자살 위험 환자에서는 처방량을 제한 (예: 1주분)
-* amitriptyline : 30\~75 ㎎/d를 2\~3회 분할 투여, 필요 시 150 ㎎/d까지 점차 증량, 드물게 300 ㎎/d까지 증량 <mark style="color:blue;">\[에트라빌]</mark>
+* amitriptyline : 30\~75 ㎎/d를 2\~3회 분할 투여, 필요시 150 ㎎/d까지 점차 증량, 드물게 300 ㎎/d까지 증량 <mark style="color:blue;">\[에트라빌]</mark>
 * imipramine : 25\~50 ㎎/d, 100\~300 ㎎/d <mark style="color:blue;">\[이미프라민]</mark>
 * nortriptyline : 25 ㎎/d, 50\~150 ㎎/d <mark style="color:blue;">\[센시발]</mark>
 
@@ -481,7 +480,7 @@ graph TD
 
 * trazodone : 150 ㎎/d에서 시작(분할 투여), 외래 최대 400 ㎎/d·입원 최대 600 ㎎/d <mark style="color:blue;">\[트리티코]</mark>
   * 지속발기증(priapism) 주의
-* bupropion XL : 150 ㎎ qd로 시작, 필요 시 300 ㎎ qd로 증량 <mark style="color:blue;">\[웰부트린 XL]</mark>
+* bupropion XL : 150 ㎎ qd로 시작, 필요시 300 ㎎ qd로 증량 <mark style="color:blue;">\[웰부트린 XL]</mark>
   * 정신운동 지체, 피로감, 집중력 저하에 유용
   * 초기 불안·불면 악화 가능
   * 뇌전증 또는 현재·과거 신경성 식욕부진증·폭식증 환자에게 금기; 강력한 CYP2D6 억제 작용
@@ -691,7 +690,7 @@ graph TD
 
 > 삽화 횟수뿐 아니라 중증도, 잔류 증상, 정신병적 양상, 자살 위험, 중단 후 재발, 동반 질환 및 환자 선호에 따라 개별화하며, 세 번째 삽화라는 이유만으로 평생 복용을 자동 결정하지 않음
 
-* 1차 진료에서 장기 복용 중 안정된 환자의 항우울제 중단 시 52주 재발률 56% vs 유지군 39% <mark style="color:$info;">\[ANTLER trial, NEJM 2021]</mark>
+* 1차 진료에서 장기 복용 중 안정된 환자의 항우울제 중단 시 52주 재발률 56% vs 유지군 39%(ANTLER 시험) <mark style="color:$info;">\[NEJM 2021]</mark>
   * 조기 중단은 재발을 높이며, 재발 횟수가 증가할수록 치료가 더 어려워짐
 * 장기 유지 치료는 반복 삽화, 잔류 증상, 중증·정신병적 삽화, 자살 위험, 만성 경과, 동반 질환 및 중단 후 재발 병력을 종합하여 결정함. 출처가 불분명한 연령 조합만으로 기간을 정하지 않음
 
@@ -710,7 +709,7 @@ graph TD
 * 원칙 : 갑작스러운 중단 금지. 수 주\~수개월에 걸쳐 서서히 감량. 용량이 낮아질수록 더 천천히 감량
 
 {% hint style="info" %}
-대규모 메타분석에서 중단 증상은 평균적으로 경미·일시적이었고 가장 흔한 것은 어지럼이었음 <mark style="color:$info;">\[Kalfas, JAMA Psychiatry 2025]</mark>. 중단 후 뒤늦게 발생한 지속적 우울 증상은 재발 가능성을 평가하되, 감량 시점·신체 및 감각 증상·재투여 반응 등을 통해 지연성 중단 증상과 감별함
+대규모 메타분석에서 중단 증상은 평균적으로 경미·일시적이었고 가장 흔한 것은 어지럼이었음 <mark style="color:$info;">\[JAMA Psychiatry 2025]</mark>. 중단 후 뒤늦게 발생한 지속적 우울 증상은 재발 가능성을 평가하되, 감량 시점·신체 및 감각 증상·재투여 반응 등을 통해 지연성 중단 증상과 감별함
 {% endhint %}
 
 ## <mark style="color:green;">치료 저항성 우울증 (Treatment resistant depression, TRD)</mark>
@@ -787,8 +786,8 @@ graph TD
 > **처방례 1.** 기본 - SSRI 단독
 >
 > ```
-> 렉사프로 10 ㎎/T  0.5T  qd  조식 후  (첫 1~2주)
-> → 1~2주 후 1T qd로 증량
+> 렉사프로 5 ㎎/T  1T  qd  조식 후  (첫 1~2주)
+> → 1~2주 후 10 ㎎/d로 증량
 > ※ 1차 판정 4~6주, 최종 판정 6~8주(최대 12주)
 > ※ 18~25세 또는 자살 위험이 높은 환자: 시작·증량 1주 이내 검토 후 필요에 따라 자주 모니터링
 > ※ 고령자 중 저체중, 낮은 기초 Na·과거 저나트륨혈증, 이뇨제 등 위험약물 병용 시 투약 전 Na 확인 및 시작·증량 1~2주 후 재검 고려
@@ -798,8 +797,8 @@ graph TD
 > **처방례 2.** SNRI 선택 (통증 동반 또는 SSRI 불내성)
 >
 > ```
-> 이팩사 XR 서방 37.5 ㎎/C  1C  qd  조식 후  (첫 1~2주)
-> → 2주 후 75 ㎎으로 증량; 필요 시 최대 225 ㎎까지
+> 이팩사엑스알서방캡슐 37.5 ㎎  1C  qd  조식 후  (첫 1~2주)
+> → 2주 후 75 ㎎으로 증량; 필요시 최대 225 ㎎까지
 > ※ 고용량 시 용량 의존적 혈압 상승 가능(특히 venlafaxine) - 혈압 모니터링
 > ※ discontinuation syndrome 위험 높음 - 갑작스러운 중단 금지, 반드시 서서히 감량
 > ```
@@ -825,8 +824,8 @@ graph TD
 > **처방례 5.** 고령자
 >
 > ```
-> 렉사프로 10 ㎎/T  0.5T  qd  조식 후
-> ※ 5 ㎎으로 시작, 최대 10 ㎎/d (QT 연장)
+> 렉사프로 5 ㎎/T  1T  qd  조식 후
+> ※ 5 ㎎/d로 시작, 통상 10 ㎎/d 이내 (QT 연장)
 > ※ 투약 전·시작 1~2주 후 Na 확인 (SIADH 고위험군)
 > ※ NSAID·항혈소판제 병용 시 위장관 출혈 위험 - PPI 고려
 > ※ 낙상 위험 평가; paroxetine·TCA 등 항콜린성 약제 회피
@@ -915,12 +914,12 @@ graph TD
 * \[NICE NG222, 2022] [NICE. Depression in adults: treatment and management. NICE guideline NG222. 2022.](https://www.nice.org.uk/guidance/ng222/chapter/Recommendations) - 중증도·선호에 따른 치료, St John's wort 비권고, 재발 예방과 항우울제 중단
 * \[USPSTF 2023] [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023;329(23):2057-2067.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-depression-suicide-risk-adults) - 임신·산후 여성을 포함한 성인 우울증 선별과 후속 평가 체계; 자살위험 선별 권고와 구분
 * \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://www.psychiatry.org/psychiatrists/practice/dsm) - 진단 기준과 감별; APA의 후속 정정·개정 자료와 함께 확인
-* \[Levis, BMJ 2019] [Levis B, et al. Accuracy of Patient Health Questionnaire-9 (PHQ-9) for screening to detect major depression: individual participant data meta-analysis. BMJ. 2019;365:l1476.](https://doi.org/10.1136/bmj.l1476) - PHQ-9 절단점별 진단 정확도와 선별검사의 한계
-* \[Levis, JAMA 2020] [Levis B, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis. JAMA. 2020;323(22):2290-2300.](https://doi.org/10.1001/jama.2020.6504) - PHQ-2 절단점별 민감도·특이도
-* \[Henkel et al., BMJ 2003] [Henkel V, et al. Identifying depression in primary care: a comparison of different methods in a prospective cohort study. BMJ. 2003;326(7382):200-201.](https://doi.org/10.1136/bmj.326.7382.200) - 일차진료 우울장애 선별 도구의 민감도·특이도
-* \[SMILES trial, BMC Med 2017] [Jacka FN, et al. A randomised controlled trial of dietary improvement for adults with major depression (the 'SMILES' trial). BMC Med. 2017;15(1):23.](https://doi.org/10.1186/s12916-017-0791-y) - 식이 중재의 보조 치료 효과
-* \[ANTLER trial, NEJM 2021] [Lewis G, et al. Maintenance or Discontinuation of Antidepressants in Primary Care. N Engl J Med. 2021;385(14):1257-1267.](https://doi.org/10.1056/NEJMoa2106356) - 장기 복용 환자의 유지·중단 후 재발과 중단 증상
-* \[Kalfas, JAMA Psychiatry 2025] [Kalfas M, et al. Incidence and Nature of Antidepressant Discontinuation Symptoms: A Systematic Review and Meta-Analysis. JAMA Psychiatry. 2025;82(9):896-904.](https://doi.org/10.1001/jamapsychiatry.2025.1362) - 항우울제 중단 증상의 빈도와 양상
+* \[BMJ 2019] [Levis B, et al. Accuracy of Patient Health Questionnaire-9 (PHQ-9) for screening to detect major depression: individual participant data meta-analysis. BMJ. 2019;365:l1476.](https://doi.org/10.1136/bmj.l1476) - PHQ-9 절단점별 진단 정확도와 선별검사의 한계
+* \[JAMA 2020] [Levis B, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis. JAMA. 2020;323(22):2290-2300.](https://doi.org/10.1001/jama.2020.6504) - PHQ-2 절단점별 민감도·특이도
+* \[BMJ 2003] [Henkel V, et al. Identifying depression in primary care: a comparison of different methods in a prospective cohort study. BMJ. 2003;326(7382):200-201.](https://doi.org/10.1136/bmj.326.7382.200) - 일차진료 우울장애 선별 도구의 민감도·특이도
+* \[BMC Med 2017] [Jacka FN, et al. A randomised controlled trial of dietary improvement for adults with major depression (the 'SMILES' trial). BMC Med. 2017;15(1):23.](https://doi.org/10.1186/s12916-017-0791-y) - 식이 중재의 보조 치료 효과
+* \[NEJM 2021] [Lewis G, et al. Maintenance or Discontinuation of Antidepressants in Primary Care. N Engl J Med. 2021;385(14):1257-1267.](https://doi.org/10.1056/NEJMoa2106356) - 장기 복용 환자의 유지·중단 후 재발과 중단 증상
+* \[JAMA Psychiatry 2025] [Kalfas M, et al. Incidence and Nature of Antidepressant Discontinuation Symptoms: A Systematic Review and Meta-Analysis. JAMA Psychiatry. 2025;82(9):896-904.](https://doi.org/10.1001/jamapsychiatry.2025.1362) - 항우울제 중단 증상의 빈도와 양상
 * [Noetel M, et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024;384:e075847.](https://doi.org/10.1136/bmj-2023-075847) - 운동의 우울증 치료 효과와 연구별 근거 확실성
 * 전겸구, 최상진, 양병창. 통합적 한국판 CES-D 개발. 한국심리학회지: 건강. 2001;6(1):59-76. - 한국판 CES-D 자가검진 도구
 * 기백석. 한국판 노인 우울 척도 단축형의 표준화 예비연구. 신경정신의학. 1996;35(2):298-307. - 한국판 GDS 단축형
