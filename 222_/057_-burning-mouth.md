@@ -146,6 +146,31 @@ Clonazepam이나 국소마취제에 대한 반응은 BMS를 확진하거나 말�
 ***
 
 ```mermaid
+flowchart TD
+    A(["구강 작열감·혀 통증 호소"]) --> R["Red Flags<br/>즉각 조치·당일~수일 내 평가 <br/>항목?"]
+    R -->|"있음"| Q["즉각 조치 또는<br/>당일~수일 내 평가"]
+    R -->|"없음"| B["구강 점막 병변?"]
+    B -->|"있음"| C["병변별 검사·치료 또는 의뢰<br/>필요시 도말·배양·생검"]
+    B -->|"없음"| D["병력·구강/신경 진찰<br/>약물·치과 시술·입마름 평가"]
+    D --> E["국소·전신 원인이<br/>증상을 설명하는가?"]
+    E -->|"예"| F["원인 귀속 구강 점막 통증<br/>원인 질환 치료·약물 검토"]
+    E -->|"아니오"| G["ICHD-3 / ICOP-1<br/>기준 충족?"]
+    G -->|"기간만 3개월 미만<br/>나머지 기준 충족"| H["Probable BMS 고려<br/>대증치료·추적 재평가"]
+    G -->|"충족"| I["BMS 진단<br/>교육·비약물 치료"]
+    G -->|"불충족"| X["진단 재검토<br/>전문의 의뢰"]
+    I --> T["통증·입마름·미각 변화<br/>수면·심리사회 요인 평가"]
+    T --> U["국소 clonazepam 등<br/>근거·위험 설명 후 <br/>단일 치료 시도"]
+    U --> V["반응·부작용 평가<br/>불응·진단 불확실 시 <br/>전문의 의뢰"]
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+style C fill:#ffcdd2,stroke:#b71c1c
+style Q fill:#ffcdd2,stroke:#b71c1c
+style I fill:#f96,stroke:#e65100
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,E,G,R yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class F,H,U,V,X sky
+classDef orange fill:#fdebd0,stroke:#e67e22
+class T orange
 ```
 
 <p align="center"><strong>혀 통증·BMS 진단 및 치료 알고리듬</strong></p>
