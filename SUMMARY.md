@@ -63,7 +63,7 @@
   * [구내염 Stomatitis](222_/054_-stomatitis.md)
   * [입안 칸디다증 Oral Candidiasis](222_/055_-oral-candidiasis.md)
   * [입안마름증 (구강건조증) Dry Mouth, Xerostomia](222_/056_-dry-mouth.md)
-  * [혀 통증·구강 작열통 Glossodynia, Burning Mouth Syndrome](222_/057_-burning-mouth.md)
+  * [혀 통증, 구강작열감증후군 Glossodynia, Burning Mouth Syndrome](222_/057_-burning-mouth.md)
   * [목쉼 Hoarseness, Dysphonia](222_/058_-hoarseness.md)
 * [Part 4. 호흡기계 질환](223_/README.md)
   * [호흡기 질환의 임상적 진단](223_/059_-respdz.md)
