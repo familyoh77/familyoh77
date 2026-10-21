@@ -12,42 +12,46 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 혈역학적 불안정 또는 심한 호흡부전 + 편측 호흡음 현저한 감소/소실 `긴장성 기흉`
-* 한 단어도 말하기 어려움, silent/quiet chest, 청색증, 역설 호흡, 호흡근 피로, 심한 보조호흡근 사용, tripod 자세, 의식 저하·혼돈 `임박한 호흡부전`
-* 보조 산소에도 목표 SpO₂에 도달하지 못하거나 빠르게 악화하는 저산소증 `급성 호흡부전`
-* 새로 발생하거나 악화한 PaCO₂ 상승 + pH ＜7.35의 산증 `급성·급성-만성 환기부전`
-* 천식 악화에서 PEF ＜50%, 실내공기 SpO₂ ＜92% 또는 성인 RR ＞30회/분 `중증 천식 악화`
-* 신발생 stridor + 호흡 곤란·저산소증·침 흘림·음성 변화·의식 변화 `상기도 폐쇄` `후두개염` `이물 흡인`
-* 급성 호흡 곤란·기관지경련·후두 증상 + 두드러기·혈관부종, 또는 알려진/가능성이 높은 원인 알레르겐(식품·약물·벌독 등) 노출 후 급성 기관지경련·후두 증상·저혈압(피부 증상 없이도 가능) `anaphylaxis`
-* 객혈 + 기도 유지 곤란·저산소증·혈역학적 불안정 또는 지속적 다량 출혈 `생명위협 객혈`
+* 혈역학적 불안정 또는 심한 호흡부전 + 편측 호흡음 현저한 감소/소실  `긴장성 기흉`
+* 한 단어도 말하기 어려움, silent/quiet chest, 청색증, 역설 호흡, 호흡근 피로, 심한 보조호흡근 사용, tripod 자세, 의식 저하·혼돈  `임박한 호흡부전`
+* 보조 산소에도 목표 SpO₂에 도달하지 못하거나 빠르게 악화하는 저산소증  `급성 호흡부전`
+* 새로 발생하거나 악화한 PaCO₂ 상승 + pH ＜7.35의 산증  `급성·급성-만성 환기부전`
+* 천식 악화에서 PEF ＜50%, 실내공기 SpO₂ ＜92% 또는 성인 RR ＞30회/분  `중증 천식 악화`
+* 신발생 stridor + 호흡 곤란·저산소증·침 흘림·음성 변화·의식 변화  `상기도 폐쇄` `후두개염` `이물 흡인`
+* 급성 호흡 곤란·기관지경련·후두 증상 + 두드러기·혈관부종, 또는 알려진/가능성이 높은 원인 알레르겐(식품·약물·벌독 등) 노출 후 급성 기관지경련·후두 증상·저혈압(피부 증상 없이도 가능)  `anaphylaxis`
+* 객혈 + 기도 유지 곤란·저산소증·혈역학적 불안정 또는 지속적 다량 출혈  `생명위협 객혈`
 
-<mark style="color:$warning;">**당일 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* RR ≥30회/분(1분 전체를 측정) 또는 지속적인 빈호흡(호흡근 피로·의식 변화 등 즉각 조치 소견은 없음) `호흡부전 진행` `폐렴` `폐색전증`
-* 새로 확인된 안정 시 저산소증 또는 기저치보다 의미 있는 SpO₂ 저하, 특히 반복 측정에서도 ≤92% `급성 저산소증`
-* 특별한 유발 요인 없는 급성 호흡 곤란 + 빈맥·흉통·실신·저산소증 또는 DVT 징후 `폐색전증`
-* 흉막삼출 + 진행하는 호흡 곤란 `대량 흉막삼출` `농흉`
-* 새로 발생한 객혈 + 호흡 곤란·흉통·저산소증 또는 전신 상태 악화 `폐색전증` `폐렴` `폐암`
-* 고령·면역억제 환자에서 빠르게 진행하는 폐렴 증상 또는 전신 상태 악화 `중증 폐렴` `패혈증`
-* 호흡 곤란 없이 새로 발생한 stridor `상기도 폐쇄`&#x20;
+* RR ≥30회/분(1분 전체를 측정) 또는 지속적인 빈호흡(호흡근 피로·의식 변화 등 즉각 조치 소견은 없음)  `호흡부전 진행` `폐렴` `폐색전증`
+* 새로 확인된 안정 시 저산소증 또는 기저치보다 의미 있는 SpO₂ 저하, 특히 반복 측정에서도 ≤92%  `급성 저산소증`
+* 특별한 유발 요인 없는 급성 호흡 곤란 + 빈맥·흉통·실신·저산소증 또는 DVT 징후  `폐색전증`
+* 흉막삼출 + 진행하는 호흡 곤란  `대량 흉막삼출` `농흉`
+* 새로 발생한 원인 불명의 객혈·혈담  `폐암` `폐결핵` `기관지확장증` `폐색전증`
+* 증상(발열·야간 발한·체중 감소 등)과 위험인자(결핵 접촉·과거 결핵·면역억제 등)를 종합하여 활동성 폐결핵이 의심됨  `폐결핵`
+* 고령·면역억제 환자에서 빠르게 진행하는 폐렴 증상 또는 전신 상태 악화  `중증 폐렴` `패혈증`
+* 호흡 곤란 없이 새로 발생한 stridor  `상기도 폐쇄`
+* 기침이 있는 55\~80세 30갑년 이상 흡연자, 또는 45세 초과 흡연자의 새 기침·기침 양상 변화·음성 변화  `폐암`
+* 새로 발견된 원인 불명의 곤봉지, 쇄골 위 림프절병증 또는 지속성·원인 불명의 경부 림프절병증  `폐암` `기관지확장증` `간질성 폐질환`
+* 45세 이상 또는 흡연자에서 ＞3주 지속되는 원인 불명의 쉰 목소리  `후두암` `폐암`
+* 지속성·원인 불명의 경부 종괴를 동반한 쉰 목소리(연령·흡연력·경과 기간과 무관)  `후두암` `두경부암`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 원인 불명으로 2주 이상 지속되는 기침, 특히 발열·야간 발한·체중 감소·혈담 동반 또는 결핵 고위험군 `폐결핵`
-* 성인에서 8주 초과 지속되는 기침 `천식` `호산구성 기관지염` `상기도 기침 증후군` `GERD`
-* 소아에서 4주 초과 지속되는 기침 `지속성 세균성 기관지염` `이물 흡인` `천식`
-* 흡연자(특히 40세 이상)의 기침 양상 변화·지속되는 쉰 목소리·혈담 `폐암`
-* 안정 상태에서 경계 또는 경도 SpO₂ 저하가 반복되나 즉각 위험이 낮음 `만성 저산소증` `수면 관련 저환기`
-* 새로 발견된 곤봉지(clubbing) `폐암` `기관지확장증` `간질성 폐질환`
+* 다른 경고 소견 없이 원인 불명으로 2주 이상 지속되는 기침  `폐결핵`
+* 성인에서 8주 초과 지속되는 기침  `천식` `호산구성 기관지염` `상기도 기침 증후군` `GERD`
+* 소아에서 4주 초과 지속되는 기침  `지속성 세균성 기관지염` `이물 흡인` `천식`
+* ＞3주 지속되는 원인 불명의 쉰 목소리(위 고위험 소견 없음)  `후두암` `성대 질환`
+* 안정 상태에서 경계 또는 경도 SpO₂ 저하가 반복되나 즉각 위험이 낮음  `만성 저산소증` `수면 관련 저환기`
 
 {% hint style="info" %}
-**조기 평가 항목의 초기 검사** : 2주 기준은 결핵 선별, 8주(소아 4주) 기준은 만성 기침의 원인 평가를 위한 것으로, 만성 기침에서도 먼저 흉부 X선으로 결핵 등 구조적 이상을 확인. 성인 만성 기침은 흉부 X선 + spirometry(가능하면 기관지확장제 반응)로 평가하고, 이용 가능하면 FeNO·말초혈액 호산구 고려. 소아는 흉부 X선과 시행 가능한 연령에서 spirometry를 고려하고 지속적 습성 기침·이물 흡인 등을 감별. 반복되는 경도 SpO₂ 저하는 평소 수치·기저 질환을 확인하고 필요시 운동·야간 저산소증 및 ABGA 평가 <mark style="color:$info;">\[ERS 2020]</mark>
+**조기 평가 항목의 초기 검사** : 당일\~수일 내 평가 항목 중 흡연자의 폐암 의심 소견, 곤봉지·림프절병증과 쉰 목소리 관련 항목은 수일 내, 나머지는 당일 평가 대상. 흡연자 연령 기준은 국내 기침진료지침을 따름 <mark style="color:$info;">\[Tuberc Respir Dis 2021]</mark>. 2주 기준은 결핵 선별, 8주(소아 4주) 기준은 만성 기침의 원인 평가를 위한 것으로, 만성 기침에서도 먼저 흉부 X선으로 결핵 등 구조적 이상을 확인. 성인 만성 기침은 흉부 X선 + spirometry(가능하면 기관지확장제 반응)로 평가하고, 이용 가능하면 FeNO·말초혈액 호산구 고려. 소아는 흉부 X선과 시행 가능한 연령에서 spirometry를 고려하고 지속적 습성 기침·이물 흡인 등을 감별. 반복되는 경도 SpO₂ 저하는 평소 수치·기저 질환을 확인하고 필요시 운동·야간 저산소증 및 ABGA 평가 <mark style="color:$info;">\[ERS 2020]</mark>
 {% endhint %}
 
 {% hint style="danger" %}
 **응급 처치 원칙**
 
-* 즉각 조치 대상은 기도·산소화·환기 및 혈역학을 평가·안정화하고 응급 이송. 긴장성 기흉이 임상적으로 의심되면 영상 때문에 처치를 지연하지 않고 숙련된 의료진이 즉시 감압 후 흉관 삽입. Anaphylaxis이면 IM epinephrine 우선. 생명 위협 객혈은 출혈량 수치보다 기도·산소화·혈역학 영향으로 판단
+* 즉각 조치 대상은 기도·산소화·환기 및 혈역학을 평가·안정화하고 응급 이송. 긴장성 기흉이 임상적으로 의심되면 영상 때문에 처치를 지연하지 않고 숙련된 의료진이 즉시 감압 후 흉관 삽입. Anaphylaxis이면 IM epinephrine 우선. 생명위협 객혈은 출혈량 수치보다 기도·산소화·혈역학 영향으로 판단
 * PaCO₂ 상승 + 산증은 기저 혈액가스·HCO₃⁻·임상 경과와 함께 해석하여 급성·급성-만성 호흡성 산증 및 혼합성 산염기 이상을 감별. 환기 지원이 가능한 환경에서 의식·기도 보호·호흡노력·원인·초기 치료 반응에 따라 NIV/침습 환기를 결정. COPD 악화에서 초기 최적 치료 후에도 pH ＜7.35 및 PaCO₂ ＞6.5 kPa(약 49 ㎜Hg)가 지속되면 NIV 적응증을 평가하며, 이 기준을 모든 원인에 일률 적용하지 않음 <mark style="color:$info;">\[BTS/ICS 2016]</mark>
 * 신발생 stridor는 호흡 곤란이 없어도 당일 긴급 상기도 평가가 필요하며, 호흡 곤란·저산소증·침 흘림·의식 변화 등 기도 위협 소견이 동반되면 즉각 조치
 {% endhint %}
@@ -63,7 +67,7 @@
 * 호기 연장 + wheezing → 천식·COPD 등 기류제한 시사
   * barrel chest는 장기간 과팽창의 비특이적 소견이며 초기 기류제한을 의미하지 않음
 * 흡기 시 경부 근육 수축 + 역설 호흡 → 상기도 폐쇄 또는 심한 호흡근 피로
-* 새로이 흡기성 stridor 발생 → 후두·성문·성문하 협착, 이물, anaphylaxis → 긴급도 평가
+* 새로 발생한 흡기성 stridor → 후두·성문·성문하 협착, 이물, anaphylaxis → 긴급도 평가
 * 저산소증이 있으나 호흡 곤란 호소가 적음 → 주관적 증상에 의존하지 않고 SpO₂·호흡수·의식·전신 상태와 원인 질환을 평가
 * SpO₂가 유지되어도 빠른 호흡수 → 폐색전증 초기, 대사성 산증, 통증·불안, 패혈증, 임박한 호흡부전 등 감별
   * 빈호흡 자체를 곧바로 보상성 과호흡으로 단정하지 않음
@@ -147,14 +151,14 @@ graph TD
     A(["호흡기 증상 환자<br/>기침 · 호흡 곤란 · 흉통<br/>객혈 · stridor"]) --> B["초기 안정화 평가<br/>SpO₂ · RR · 활력징후<br/>의식 · 호흡노력"]
     B -->|"Red Flags<br/>즉각 조치 항목 해당"| C["<b>즉각 처치 / 이송</b><br/>기도 · 산소화 · 환기<br/>원인별 응급 처치"]
     B --->|해당 없음| D["주 증상 + 발생 속도<br/>위험 인자 분류"]
-    D --->|호흡 곤란| E["☞ 호흡 곤란 챕터<br/>심장·폐·혈관<br/>·대사 원인"]
-    D -->|"성인 기침 ＜8주"| F["급성·아급성 기침<br/>Red flag·폐렴·결핵 <br/>가능성에 따라<br/>선별적 CXR·검사"]
-    D -->|"성인 ≥8주 또는 <br/>소아 ＞4주"| G["만성 기침 <br/>원인 평가<br/>CXR + 시행 가능한 <br/>spirometry<br/>성인: ±FeNO·호산구"]
-    D -->|객혈| H["진성 객혈<br/>·중증도 확인<br/>CXR → <br/>적응증에 따라<br/>조영 CT/CTA<br/>·결핵 검사"]
-    D -->|흉통| I["ACS·PE<br/>·대동맥질환<br/>기흉·폐렴/<br/>흉막염 감별"]
+    D --->|호흡 곤란| E["☞ 호흡 곤란 챕터<br/>심장·폐·혈관·<br/>대사 원인"]
+    D -->|"성인 기침 ≤8주"| F["급성·아급성 기침<br/>Red Flags·폐렴·결핵<br/>가능성에 따라<br/>선별적 CXR·검사"]
+    D -->|"성인 ＞8주 또는<br/>소아 ＞4주"| G["만성 기침<br/>원인 평가<br/>CXR + 시행 가능한<br/>spirometry<br/>성인: ±FeNO·호산구"]
+    D -->|객혈| H["진성 객혈·<br/>중증도 확인<br/>CXR →<br/>적응증에 따라<br/>조영 CT/CTA·<br/>결핵 검사"]
+    D -->|흉통| I["ACS·PE·<br/>대동맥질환<br/>기흉·폐렴/<br/>흉막염 감별"]
     D --->|stridor| J["상기도 폐쇄 평가<br/>anaphylaxis이면<br/>IM epinephrine 우선"]
-    D --->|비정상 <br/>호흡 패턴| K["혈액가스·혈당<br/>·전해질·신기능<br/>·심장/신경계 평가"]
-    I --> L["ECG·hs-cTn<br/>·CXR/POCUS<br/>PE 사전확률 <br/>기반 검사"]
+    D --->|"비정상<br/>호흡 패턴"| K["혈액가스·혈당·<br/>전해질·신기능·<br/>심장/신경계 평가"]
+    I --> L["ECG·hs-cTn·<br/>CXR/POCUS<br/>PE 사전확률<br/>기반 검사"]
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 style B fill:#fff9c4,stroke:#ffe082
 style D fill:#fff9c4,stroke:#ffe082
@@ -196,45 +200,61 @@ class E,J,K,L peach
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-*   GINA. Global Strategy for Asthma Management and Prevention / Summary Guide. 2026. - 급성 천식의 중증도 평가, PEF 구간 및 산소 목표
+* GINA. Global Strategy for Asthma Management and Prevention / Summary Guide. 2026. - 급성 천식의 중증도 평가, PEF 구간 및 산소 목표
 
-    https://ginasthma.org/2026-gina-summary-guide/
-*   BTS. Guideline for oxygen use in adults in healthcare and emergency settings. 2017. - 성인 급성 환자와 고탄산혈증 위험 환자의 산소 목표·혈액가스 재평가
+  [https://ginasthma.org/2026-gina-summary-guide/](https://ginasthma.org/2026-gina-summary-guide/)
 
-    https://doi.org/10.1136/thoraxjnl-2016-209729
-*   ATS. Diagnosis and Management of Community-acquired Pneumonia: An Official American Thoracic Society Clinical Practice Guideline. 2025 온라인 발표; Am J Respir Crit Care Med. 2026;212(1):24-44. - 적절한 숙련도가 있는 환경에서 폐초음파를 흉부 X선의 진단 대안으로 조건부 권고
+* BTS. Guideline for oxygen use in adults in healthcare and emergency settings. 2017. - 성인 급성 환자와 고탄산혈증 위험 환자의 산소 목표·혈액가스 재평가
 
-    https://doi.org/10.1164/rccm.202507-1692ST
-*   NICE. Pneumonia: diagnosis and management. NG250. 2025. - 성인 폐렴의 임상 평가, 영상 및 CRB-65·CURB-65 활용
+  [https://doi.org/10.1136/thoraxjnl-2016-209729](https://doi.org/10.1136/thoraxjnl-2016-209729)
 
-    https://www.nice.org.uk/guidance/ng250
-*   ERS. Guidelines on the diagnosis and treatment of chronic cough in adults and children. 2020. - 성인·소아 만성 기침의 기간 기준과 초기 검사
+* ATS. Diagnosis and Management of Community-acquired Pneumonia: An Official American Thoracic Society Clinical Practice Guideline. 2025 온라인 발표; Am J Respir Crit Care Med. 2026;212(1):24-44. - 적절한 숙련도가 있는 환경에서 폐초음파를 흉부 X선의 진단 대안으로 조건부 권고
 
-    https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/
-*   McKeever TM, et al. Using venous blood gas analysis in the assessment of COPD exacerbations: a prospective cohort study. Thorax. 2016;71(3):210-215. - COPD 악화에서 정맥혈 pH·HCO₃⁻의 활용과 PCO₂ 대체의 한계
+  [https://doi.org/10.1164/rccm.202507-1692ST](https://doi.org/10.1164/rccm.202507-1692ST)
 
-    https://thorax.bmj.com/content/71/3/210
-*   BTS/ICS. Guideline for the ventilatory management of acute hypercapnic respiratory failure in adults. 2016. - 급성 고탄산혈증성 호흡부전 평가와 NIV 적용
+* NICE. Pneumonia: diagnosis and management. NG250. 2025. - 성인 폐렴의 임상 평가, 영상 및 CRB-65·CURB-65 활용
 
-    https://doi.org/10.1136/thoraxjnl-2015-208209
-*   ATS. Evaluation and Management of Obesity Hypoventilation Syndrome: An Official ATS Clinical Practice Guideline. 2019. - 비만저환기증후군의 정의와 진단 접근
+  [https://www.nice.org.uk/guidance/ng250](https://www.nice.org.uk/guidance/ng250)
 
-    https://doi.org/10.1164/rccm.201905-1071ST
-*   ATS. Home Oxygen Therapy for Adults with Chronic Lung Disease: An Official ATS Clinical Practice Guideline. 2020. - 안정기 중증 저산소증과 장기산소요법 평가 기준
+* 대한결핵및호흡기학회. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273. - 성인 기침의 기간 분류와 경고 소견
 
-    https://pmc.ncbi.nlm.nih.gov/articles/PMC7667898/
-*   GOLD/GLI. Joint statement from GOLD/GLI regarding the use of spirometry to define airflow obstruction and diagnose COPD. Eur Respir J. 2026;67(4):2502574. - 임상 맥락을 포함한 COPD 진단과 경계 결과 재평가
+  [https://doi.org/10.4046/trd.2021.0038](https://doi.org/10.4046/trd.2021.0038)
 
-    https://doi.org/10.1183/13993003.02574-2025
-*   AHA/ACC 및 다학회. Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. 2026. - 사전확률 기반 진단과 연령보정 D-dimer
+* ERS. Guidelines on the diagnosis and treatment of chronic cough in adults and children. 2020. - 성인·소아 만성 기침의 기간 기준과 초기 검사
 
-    https://doi.org/10.1161/CIR.0000000000001415
-*   WAO. World Allergy Organization Anaphylaxis Guidance 2020. - 피부 증상이 없는 anaphylaxis와 진단 기준
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/)
 
-    https://pmc.ncbi.nlm.nih.gov/articles/PMC7607509/
-*   질병관리청. 국가건강정보포털: 결핵. - 국내 결핵 의심 증상과 진단 접근
+* McKeever TM, et al. Using venous blood gas analysis in the assessment of COPD exacerbations: a prospective cohort study. Thorax. 2016;71(3):210-215. - COPD 악화에서 정맥혈 pH·HCO₃⁻의 활용과 PCO₂ 대체의 한계
 
-    https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts\_sn=6561
+  [https://thorax.bmj.com/content/71/3/210](https://thorax.bmj.com/content/71/3/210)
+
+* BTS/ICS. Guideline for the ventilatory management of acute hypercapnic respiratory failure in adults. 2016. - 급성 고탄산혈증성 호흡부전 평가와 NIV 적용
+
+  [https://doi.org/10.1136/thoraxjnl-2015-208209](https://doi.org/10.1136/thoraxjnl-2015-208209)
+
+* ATS. Evaluation and Management of Obesity Hypoventilation Syndrome: An Official ATS Clinical Practice Guideline. 2019. - 비만저환기증후군의 정의와 진단 접근
+
+  [https://doi.org/10.1164/rccm.201905-1071ST](https://doi.org/10.1164/rccm.201905-1071ST)
+
+* ATS. Home Oxygen Therapy for Adults with Chronic Lung Disease: An Official ATS Clinical Practice Guideline. 2020. - 안정기 중증 저산소증과 장기산소요법 평가 기준
+
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC7667898/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7667898/)
+
+* GOLD/GLI. Joint statement from GOLD/GLI regarding the use of spirometry to define airflow obstruction and diagnose COPD. Eur Respir J. 2026;67(4):2502574. - 임상 맥락을 포함한 COPD 진단과 경계 결과 재평가
+
+  [https://doi.org/10.1183/13993003.02574-2025](https://doi.org/10.1183/13993003.02574-2025)
+
+* AHA/ACC 및 다학회. Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. 2026. - 사전확률 기반 진단과 연령보정 D-dimer
+
+  [https://doi.org/10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)
+
+* WAO. World Allergy Organization Anaphylaxis Guidance 2020. - 피부 증상이 없는 anaphylaxis와 진단 기준
+
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC7607509/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7607509/)
+
+* 질병관리청. 국가건강정보포털: 결핵. - 국내 결핵 의심 증상과 진단 접근
+
+  [https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6561](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6561)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
