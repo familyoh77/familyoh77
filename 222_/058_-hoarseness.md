@@ -126,9 +126,56 @@
 ***
 
 ```mermaid
+graph TD
+    Title["<b><u>＜4주 목쉼</u></b>"]
+    style Title fill:none,stroke:none,font-size:18px
+    Start(["목쉼 환자"])
+    Start --> Q1["즉각 조치 항목에 해당?"]
+    Q1 -- 예 --> E["기도 확보·산소 공급 등<br/>응급 조치 후 이송;<br/>필요시 119"]
+    Q1 -- 아니오 --> Q2["당일~수일 내 평가 항목에 <br/>해당?"]
+    Q2 -- 예 --> QH["성대 출혈 의심?"]
+    QH -- 예 --> H["즉시 발성 중단;<br/>가능하면 <br/>당일 후두 평가"]
+    QH -- 아니오 --> L["당일~수일 내<br/>후두경 평가"]
+    Q2 -- 아니오 --> Q3["명확한 상기도감염 또는<br/>일시적 음성 과사용?"]
+    Q3 -- 예 --> S["상대적 음성 휴식,<br/>수분·자극 회피,<br/>원인별 대증 치료"]
+    Q3 -- 아니오 --> O["원인 평가 <br/>+ 음성 위생;<br/>후두경 조기 고려"]
+    S --> Q4["발병 후 4주 이내 호전?"]
+    O --> Q4
+    Q4 -- 예 --> C["경과 관찰;<br/>재발 시 재평가"]
+    Q4 -- 아니오 --> L2["후두경 검사 또는<br/>이비인후과 의뢰"]
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+    classDef question fill:#fff9c4,stroke:#ffe082;
+    classDef blue fill:#E3F2FD,stroke:#90CAF9;
+    classDef green fill:#E8F5E9,stroke:#A5D6A7;
+    classDef red fill:#FFEBEE,stroke:#EF9A9A;
+    class Start start;
+    class Q1,Q2,QH,Q3,Q4 question;
+    class S,O,C blue;
+    class H,L,L2 green;
+    class E red;
+
+
 ```
 
 ```mermaid
+graph TD
+    Title["<b><u>≥4주 지속되는 목쉼</u></b>"]
+    style Title fill:none,stroke:none,font-size:18px
+    Start(["발병 후 4주까지 <br/>호전되지 않음"])
+    Start --> L["후두경 검사 또는 의뢰"]
+    L --> Q["후두 소견과 병력상<br/>원인 확인?"]
+    Q -- 예 --> T["원인별 치료<br/>음성치료·수술·약물·기저질환 <br/>관리"]
+    Q -- 아니오 --> W["전문 음성 평가<br/>·후두 미세진동 검사;<br/>필요시 원인에 따른 <br/>CT·MRI·검사실 검사"]
+    T --> F["치료 반응·음성 관련<br/>삶의 질 추적"]
+    W --> F
+    classDef start fill:#eeeeee,stroke:#888888,stroke-width:2px;
+    classDef question fill:#fff9c4,stroke:#ffe082;
+    classDef blue fill:#E3F2FD,stroke:#90CAF9;
+    classDef green fill:#E8F5E9,stroke:#A5D6A7;
+    class Start start;
+    class Q question;
+    class T,F blue;
+    class L,W green;
 ```
 
 > _경과 관찰 중 증상이 지속적으로 악화하거나 위험 소견이 새로 발생하면 4주를 기다리지 않고 재평가함._
