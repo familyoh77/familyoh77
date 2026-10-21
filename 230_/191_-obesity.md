@@ -518,7 +518,7 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 
 {% hint style="danger" %}
 **임신·피임**  
-체중감량 약물은 임신 중 사용하지 않는다. Semaglutide는 계획임신 최소 2개월 전에 중단한다. 가임 여성에게 phentermine/topiramate를 투여할 때는 투여 전 및 매월 임신검사와 효과적인 피임이 필요하다. Tirzepatide는 경구 호르몬피임제 노출을 낮출 수 있다. 미국 허가사항은 시작 후 4주 및 매 증량 후 4주간 비경구 피임법으로 변경하거나 차단피임법을 추가하도록 안내하며, 국내 허가의 상호작용 정보와 함께 피임 상담에 반영한다.
+체중감량 약물은 임신 중 사용하지 않는다. Semaglutide는 계획임신 최소 2개월 전에 중단한다. Efpeglenatide는 계획임신 최소 9주 전에 중단하고 마지막 투여 후 9주 이상 효과적인 피임을 유지함. 경구피임약과의 약동학 상호작용은 평가되지 않아 치료 시작 시 다른 효과적인 피임 방법이 권장됨. 가임 여성에게 phentermine/topiramate를 투여할 때는 투여 전 및 매월 임신검사와 효과적인 피임이 필요하다. Tirzepatide는 경구 호르몬피임제 노출을 낮출 수 있다. 미국 허가사항은 시작 후 4주 및 매 증량 후 4주간 비경구 피임법으로 변경하거나 차단피임법을 추가하도록 안내하며, 국내 허가의 상호작용 정보와 함께 피임 상담에 반영한다.
 {% endhint %}
 
 **Liraglutide** <mark style="color:blue;">\[삭센다 주]</mark>
@@ -541,6 +541,19 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 * 체중 관련 합병증이 있는 비만/과체중 성인의 장기 투약에서 우선 권고 \[AGA 2022]
 * **용법** : 0.25 ㎎ qwk SC × 4주 → 0.5 ㎎ × 4주 → 1.0 ㎎ × 4주 → 1.7 ㎎ × 4주 → **2.4 ㎎ qwk SC** (유지)
 * 성인 국내 허가사항에는 일률적인 16주·5% 중단 규칙이 없음. 유지용량 도달 후 체중·허리둘레·합병증 개선, 내약성과 환자 선호를 정기적으로 평가하여 지속 여부 결정
+
+**Efpeglenatide(에페글레나타이드)** <mark style="color:blue;">\[에페오토인젝터주]</mark>
+
+* **국내 허가** : 2026-10-07 허가된 국산 GLP-1 RA. 품목허가와 실제 판매·공급 개시는 구분함
+* **성인 적응증** : **당뇨병이 없는** 초기 BMI ≥30 또는 BMI ≥27~＜30 + 체중 관련 동반질환(고혈압·이상지질혈증·OSA·심혈관질환 등). 저열량 식사·운동의 보조제로 사용함
+* **용법** : 주 1회 **복부 피하주사**. 2 ㎎ × 2주 → 4 ㎎ × 2주 → 6 ㎎ × 4주 → 8 ㎎ × 4주 → **10 ㎎ 주 1회 유지**(13주차부터; 최대용량). 내약성이 부족하면 증량 연기 또는 이전 용량으로 감량 고려
+* **임상 근거** : 한국인 총 448명 무작위배정 3상. 허가문서의 전체분석군 분석에서 40주 체중 변화율 −9.02%(위약 −0.89%), 5% 이상 감량 달성률 75.05%(위약 13.53%)
+* **부작용** : 설사·구역·변비·소화불량·주사 부위 반응 등
+* **금기** : MTC 개인력·가족력, MEN2, 성분 과민반응
+* **권장되지 않는 환자** : 당뇨병, 중등증~중증 신장애, 간장애, 중증 정신질환 병력, NYHA IV 심부전, 다른 체중관리 제품 투여 중인 환자. 19세 미만·75세 이상은 안전성·유효성 미확립
+* **임신·수유** : 사용하지 않음. 계획임신·피임은 상단 안내 참고
+
+_<mark style="color:$info;">Ref. 식품의약품안전처, 에페오토인젝터주 허가사항. 40주 효과는 다중대체법을 적용한 전체분석군 결과이며 회사의 중간 톱라인 9.75%와 혼용하지 않음.</mark>_
 
 #### <mark style="color:$primary;">GLP-1 / GIP Dual Agonist</mark>
 
@@ -585,13 +598,13 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 
 ### <mark style="color:orange;">약물 효과 비교</mark>
 
-<table><thead><tr><th width="230">성분명 [상품명]</th><th width="190">대표 연구·평균 체중 변화¹⁾</th><th>주요 부작용 / 주의</th></tr></thead><tbody><tr><td>Phentermine <mark style="color:blue;">\[아디펙스]</mark></td><td>단기 감량 효과; 국내 단일제는 총 3개월 이내 사용</td><td>[부] 입마름, 불면, 혈압·맥박 상승<br>[금] 심혈관질환, 중등도~중증 고혈압 등 제품별 확인</td></tr><tr><td>Orlistat <mark style="color:blue;">\[제니칼]</mark></td><td>XENDOS 1년 시점: 120 ㎎ tid −9.6%<br>위약 −5.6%</td><td>[부] 지방변, 변실금; Vit A/D/E/K 흡수 저하²⁾<br>[주] 흡수장애·담즙정체 금기</td></tr><tr><td>Phentermine/topiramate <mark style="color:blue;">\[큐시미아]</mark></td><td>CONQUER, 56주<br>15/92 ㎎ −9.8%<br>7.5/46 ㎎ −7.8%<br>위약 −1.2%</td><td>[부] 감각·인지 이상, 불면<br>[금] 임신·녹내장·갑상선항진증·MAOI, 국내 심혈관 금기 등<br>[주] 신장·간기능별 최대용량</td></tr><tr><td>Naltrexone/bupropion <mark style="color:blue;">\[콘트라브]</mark></td><td>COR-I, 당뇨병 없음, 56주<br>총 32/360 ㎎/day −6.1%<br>위약 −1.3%</td><td>[부] 구역, 불면, 혈압·맥박 상승<br>[금] 발작·양극성장애·신경성 섭식장애·opioid·75세 이상 등<br>[주] 신장·간기능 제한</td></tr><tr><td>Liraglutide <mark style="color:blue;">\[삭센다]</mark></td><td>SCALE Obesity and Prediabetes, 당뇨병 없음, 56주<br>3.0 ㎎ −8.0%<br>위약 −2.6%</td><td>[부] 구역, 구토, 설사<br>[주] 췌장염·담낭질환·탈수; MTC/MEN2 금기</td></tr><tr><td>Semaglutide <mark style="color:blue;">\[위고비]</mark></td><td>STEP-1, 당뇨병 없음, 68주<br>2.4 ㎎ −14.9%<br>위약 −2.4%</td><td>[부] 구역, 구토<br>[주] 췌장염·담낭질환·탈수·당뇨망막병증; 급격한 시력 저하<br>[이득] SELECT 해당군 MACE 상대위험 −20%</td></tr><tr><td>Tirzepatide <mark style="color:blue;">\[마운자로]</mark></td><td>SURMOUNT-1, 당뇨병 없음, 72주³⁾<br>15 ㎎ −20.9%<br>위약 −3.1%</td><td>[부] 구역, 설사, 변비<br>[주] 췌장염·담낭질환·경구피임제 상호작용<br>[금] MTC/MEN2 등</td></tr></tbody></table>
+<table><thead><tr><th width="230">성분명 [상품명]</th><th width="190">대표 연구·평균 체중 변화¹⁾</th><th>주요 부작용 / 주의</th></tr></thead><tbody><tr><td>Phentermine <mark style="color:blue;">\[아디펙스]</mark></td><td>단기 감량 효과; 국내 단일제는 총 3개월 이내 사용</td><td>[부] 입마름, 불면, 혈압·맥박 상승<br>[금] 심혈관질환, 중등도~중증 고혈압 등 제품별 확인</td></tr><tr><td>Orlistat <mark style="color:blue;">\[제니칼]</mark></td><td>XENDOS 1년 시점: 120 ㎎ tid −9.6%<br>위약 −5.6%</td><td>[부] 지방변, 변실금; Vit A/D/E/K 흡수 저하²⁾<br>[주] 흡수장애·담즙정체 금기</td></tr><tr><td>Phentermine/topiramate <mark style="color:blue;">\[큐시미아]</mark></td><td>CONQUER, 56주<br>15/92 ㎎ −9.8%<br>7.5/46 ㎎ −7.8%<br>위약 −1.2%</td><td>[부] 감각·인지 이상, 불면<br>[금] 임신·녹내장·갑상선항진증·MAOI, 국내 심혈관 금기 등<br>[주] 신장·간기능별 최대용량</td></tr><tr><td>Naltrexone/bupropion <mark style="color:blue;">\[콘트라브]</mark></td><td>COR-I, 당뇨병 없음, 56주<br>총 32/360 ㎎/day −6.1%<br>위약 −1.3%</td><td>[부] 구역, 불면, 혈압·맥박 상승<br>[금] 발작·양극성장애·신경성 섭식장애·opioid·75세 이상 등<br>[주] 신장·간기능 제한</td></tr><tr><td>Liraglutide <mark style="color:blue;">\[삭센다]</mark></td><td>SCALE Obesity and Prediabetes, 당뇨병 없음, 56주<br>3.0 ㎎ −8.0%<br>위약 −2.6%</td><td>[부] 구역, 구토, 설사<br>[주] 췌장염·담낭질환·탈수; MTC/MEN2 금기</td></tr><tr><td>Semaglutide <mark style="color:blue;">\[위고비]</mark></td><td>STEP-1, 당뇨병 없음, 68주<br>2.4 ㎎ −14.9%<br>위약 −2.4%</td><td>[부] 구역, 구토<br>[주] 췌장염·담낭질환·탈수·당뇨망막병증; 급격한 시력 저하<br>[이득] SELECT 해당군 MACE 상대위험 −20%</td></tr><tr><td>Efpeglenatide <mark style="color:blue;">\[에페오토인젝터주]</mark></td><td>국내 3상, 당뇨병 없음, 40주<br>10 ㎎ −9.02%<br>위약 −0.89%<br>전체분석군·다중대체법</td><td>[부] 위장관 증상·주사 부위 반응<br>[금] MTC/MEN2·과민반응<br>[주] 당뇨병·중등증~중증 신장애·간장애 등 투여 비권장</td></tr><tr><td>Tirzepatide <mark style="color:blue;">\[마운자로]</mark></td><td>SURMOUNT-1, 당뇨병 없음, 72주³⁾<br>15 ㎎ −20.9%<br>위약 −3.1%</td><td>[부] 구역, 설사, 변비<br>[주] 췌장염·담낭질환·경구피임제 상호작용<br>[금] MTC/MEN2 등</td></tr></tbody></table>
 
 ¹⁾ 생활 중재를 병행한 각 연구의 baseline 대비 평균 변화. 대상·기간·결측치 처리·분석 기준이 달라 서로 다른 시험의 수치로 약제 우열을 직접 결정하지 않음. 당뇨병 동반군에서는 감량률이 달라질 수 있음\
 ²⁾ Cyclosporine·levothyroxine·항경련제 및 warfarin 상호작용 점검\
 ³⁾ 치료 중단 여부와 관계없는 treatment-regimen estimand. 치료 지속을 가정한 efficacy estimand는 22.5% vs 2.4%로 별도 수치임
 
-_<mark style="color:$info;">Ref. AGA Clinical Practice Guideline on Pharmacological Interventions for Adults with Obesity, 2022; STEP-1 (NEJM 2021); SURMOUNT-1 (NEJM 2022); SELECT (NEJM 2023); Canadian Adult Obesity CPG: Pharmacotherapy, 2025 update</mark>_
+_<mark style="color:$info;">Ref. AGA Clinical Practice Guideline on Pharmacological Interventions for Adults with Obesity, 2022; STEP-1 (NEJM 2021); SURMOUNT-1 (NEJM 2022); SELECT (NEJM 2023); Canadian Adult Obesity CPG: Pharmacotherapy, 2025 update; 식품의약품안전처 에페오토인젝터주 허가사항</mark>_
 
 
 
@@ -730,6 +743,11 @@ E66.9 상세불명의 비만
 * 자살 충동, 기분 변화, 불안이 심해지면 중단하고 즉시 평가; 경련 시 응급 평가하며 재투여하지 않음
 * opioid 진통제를 복용 중이거나 발작 병력이 있는 경우 반드시 의사에게 알림
 
+**Efpeglenatide - 에페오토인젝터주**
+
+* 주 1회 복부에 주사하며 매번 위치를 바꿈. 다른 제품의 증량 일정·주사 부위를 그대로 적용하지 않음
+* 임신 계획 최소 9주 전 중단, 마지막 투여 후 9주 이상 피임 유지; 임신·수유 중 사용하지 않음
+
 **경구용 GLP-1 수용체 작용제 - 리벨서스(세마글루티드 정, T2DM 적응증)**
 
 * **반드시 공복**에 120 ㎖ 이하의 물로만 복용; 복용 후 최소 30분간 음식, 음료, 다른 약물 섭취 금지 (생체이용률에 직접 영향)
@@ -789,7 +807,9 @@ E66.9 상세불명의 비만
 
 ***
 
-### <mark style="color:orange;">수정·보완 근거</mark>
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * 대한비만학회. [2024 비만 진료지침: 진단·평가·치료](https://doi.org/10.7570/jomes25042). J Obes Metab Syndr. 2025.
 * AASLD. [NAFLD/MASLD 평가·관리 Practice Guidance](https://doi.org/10.1097/HEP.0000000000000323). 2023.
@@ -798,8 +818,14 @@ E66.9 상세불명의 비만
 * NICE. [NG246: Physical activity and diet](https://www.nice.org.uk/guidance/ng246/chapter/Physical-activity-and-diet). 2025.
 * Greenway FL, et al. [COR-I](https://pubmed.ncbi.nlm.nih.gov/20673995/). Lancet. 2010; Pi-Sunyer X, et al. [SCALE Obesity and Prediabetes](https://doi.org/10.1056/NEJMoa1411892). NEJM. 2015.
 * Jastreboff AM, et al. [SURMOUNT-1](https://doi.org/10.1056/NEJMoa2206038). NEJM. 2022; Aronne LJ, et al. [SURMOUNT-5](https://doi.org/10.1056/NEJMoa2416394). NEJM. 2025.
-* 식품의약품안전처. [큐시미아 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905406); [마운자로 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301986). 광동제약. [콘트라브 국내 제품정보](https://www.ekdp.com/product/items_view.do?s=484).
-* EMA. [Semaglutide와 NAION 안전성 검토](https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy). 2025; ASA 등. [수술 전 GLP-1 다학회 안내](https://www.asahq.org/about-asa/newsroom/news-releases/2024/10/new-multi-society-glp-1-guidance). 2024.
+
+* ASA 등. [수술 전 GLP-1 다학회 안내](https://www.asahq.org/about-asa/newsroom/news-releases/2024/10/new-multi-society-glp-1-guidance). 2024.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/). 큐시미아·마운자로·에페오토인젝터주 국내 허가사항. 에페글레나타이드의 40주 3상 결과는 허가문서의 전문가용 임상시험 정보에 근거함.
+* 광동제약. [콘트라브 국내 제품정보](https://www.ekdp.com/product/items_view.do?s=484).
+* EMA. [Semaglutide와 NAION 안전성 검토](https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy). 2025.
 * FDA. [Orforglipron(Foundayo) 허가 발표](https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program). 2026.4.1; Novo Nordisk. [미국 경구 Wegovy 허가 발표](https://www.novonordisk-us.com/media/press-releases/wegovy-pill-fda-approval-obesity.html). 2025.12.22.
 
-*검토 기준일: 2026-10-04. 해외 지침·허가사항은 국내 품목허가·급여 기준과 구분하여 적용.*
+*기존 본문 검토 기준일: 2026-10-04. 에페글레나타이드 허가사항 추가 반영: 2026-10-21. 해외 지침·허가사항은 국내 품목허가·급여 기준과 구분하여 적용.*
