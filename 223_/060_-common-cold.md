@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 코, 비강, 인후, 후두 등 상기도에서의 단일 또는 복수의 바이러스 감염에 의해 콧물, 코 막힘, 기침 등을 주증상으로, 두통, 근육통, 발열 등의 전신 증상이 발생하는 질환
+* 코, 비강, 인후, 후두 등 상기도에서의 단일 또는 복수의 바이러스 감염에 의해 콧물, 코막힘, 기침 등을 주증상으로, 두통, 근육통, 발열 등의 전신 증상이 발생하는 질환
 * 빈도 : 소아 6\~8회/년, 성인 2\~3회/년
 * 재감염 : 바이러스마다 다양한 혈청형과 변종이 있으며 잠복기가 짧고 항체 수명이 짧아 쉽게 재감염됨
 * 바이러스 배출 및 전염력 : 대개 증상 발생 전후와 초기 수일에 높지만 바이러스·연령·면역 상태에 따라 다르며, 증상 호전 후에도 바이러스가 검출될 수 있음
@@ -31,7 +31,7 @@
 ### <mark style="color:orange;">위험 인자</mark>
 
 * 소아: 특히 ＜3세, 위쪽 형제가 있는 경우
-* 유아원 등원 : 특히 등원 첫 해에 50% 이상 빈도 증가(12회/년 발병); 학교 입학 후에는 유아원을 다녔던 아동이 감기에 덜 걸림
+* 유아원 등원 : 등원 첫해에 감기 빈도가 크게 증가(연 최대 12회까지); 학교 입학 후에는 유아원을 다녔던 아동이 감기에 덜 걸림
 * 계절 : 주로 초가을\~늦은 봄; 낮은 실내 습도는 비강 점막의 섬모 운동(mucociliary clearance)을 저하시켜 바이러스 침투를 용이하게 함
 * 흡연, 스트레스, 피로
 * 고령은 감기 발생 빈도 자체보다 비전형적 발현, 중증화 및 합병증 위험과 관련
@@ -42,13 +42,13 @@
   * 발열이 없거나 미미한 경우 많음 → 중증 감염임에도 체온이 정상으로 보일 수 있음
   * 비특이적 증상 (전신 쇠약감, 식욕 저하, 기능 저하, 섬망 등)으로 발현 가능
 * 합병증 위험 ↑ : 폐렴, 중이염, 심부전 악화 등; 조기 재평가 권장
-* 약물 부작용 위험 증가 : 항히스타민제 → 낙상·섬망; decongestant → 혈압 상승·전립선 증상 악화
+* 약물 부작용 위험 증가 : 항히스타민제 → 낙상·섬망; 코 울혈 제거제 → 혈압 상승·전립선 증상 악화
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 일반적 경과 : 인후 불편감, 콧물·코 막힘, 재채기, 기침 등이 서서히 나타나며 2\~3일째 가장 심함; 경과 중 콧물이 누렇거나 진해질 수 있으나 그 자체는 세균 감염의 증거가 아님
+* 일반적 경과 : 인후 불편감, 콧물·코막힘, 재채기, 기침 등이 서서히 나타나며 2\~3일째 가장 심함; 경과 중 콧물이 누렇거나 진해질 수 있으나 그 자체는 세균 감염의 증거가 아님
 * 약물 치료는 전체 이환 기간을 크게 단축하지 못하므로 가장 불편한 증상 1\~2개를 대상으로 단기간 사용
-* 콧물/코 막힘: 거의 모든 환자에서 발생; 보통 빨리 호전
+* 콧물/코막힘: 거의 모든 환자에서 발생; 보통 빨리 호전
 * 재채기 : 환자의 ⅔에서 초기에 발생
 * 기침 : 환자의 ½에서 발생; 보통 코 증상 발생 후 출현; 가벼운 기침은 다른 증상이 호전된 이후에도 2\~3주간 지속될 수 있음
 * 목구멍의 통증 또는 자극, 쉰 목소리, 두통, 전신 권태감 등이 동반될 수 있음
@@ -58,36 +58,40 @@
   * 고령자에서는 발열 없이 발현 가능
 * 구토/설사 : 흔하지 않음
 
-###  <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**Tier 1 - 즉각 응급 조치 및 이송, 필요시 119 호출**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 심한 호흡곤란, 빠른 호흡, 청색증, 산소포화도 저하
-* 의식 변화, 경련, 쇼크 소견
-* 심한 두통·목 강직과 의식 변화 또는 신경학적 이상 (중추신경계 감염 의심)
-* 안구운동 통증·제한, 복시, 시력 저하, 안구돌출을 동반한 안와 주위 부종·발적 (안와 봉와직염 의심)
-* 급격한 침 흘림, 연하곤란, 흡기성 협착음 또는 호흡곤란 (후두개염·심경부감염 의심)
-* 생후 3개월 미만 영아에서 38℃ 이상 발열
+* 심한 호흡곤란, 빠른 호흡, 청색증, 산소포화도 저하  `폐렴` `중증 하기도 감염`
+* 의식 변화, 경련, 쇼크 소견  `패혈증` `중추신경계 감염`
+* 심한 두통·목 강직과 의식 변화 또는 신경학적 이상  `중추신경계 감염`
+* 안구운동 통증·제한, 복시, 시력 저하, 안구돌출을 동반한 안와 주위 부종·발적  `안와 연조직염`
+* 이마 부종 또는 심한 전두부 두통을 동반한 비부비동염 증상  `Pott's puffy tumor` `두개내 합병증`
+* 급격한 침 흘림, 연하곤란, 흡기성 협착음 또는 호흡곤란  `후두개염` `심경부감염`
+* 코 이물이 단추형 전지 또는 자석으로 의심됨  `점막 괴사` `비중격 천공`
+* 생후 3개월 미만 영아에서 38℃ 이상 발열  `중증 세균 감염`
 
-<mark style="color:$warning;">**Tier 2 - 당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 탈수, 지속적 구토 또는 경구 섭취 곤란
-* 고열이 3\~4일 이상 지속되거나 전신 상태가 뚜렷하게 악화
-* 심한 귀 통증·이루 또는 급격한 청력 저하 (중이염 등 평가)
-* 심한 일측 인후통, 개구장애, 구개수 편위, 웅얼거리는 음성 (편도주위농양 의심)
-* 소아의 편측 악취성 콧물 또는 코 이물 의심; 단, 단추형 전지나 자석이 의심되면 즉시 제거 가능한 응급 진료
+* 고열이 3\~4일 이상 지속되거나 전신 상태가 뚜렷하게 악화  `세균성 합병증` `인플루엔자`
+* 빈호흡, 국소 수포음, 흉막성 흉통 또는 새로 생긴 천명  `폐렴` `천식 악화`
+* 소아의 흉벽 함몰, 비익 확장, 수유량 감소 또는 무호흡 발작  `세기관지염` `하기도 감염`
+* 심한 귀 통증·이루 또는 급격한 청력 저하  `급성 중이염`
+* 심한 일측 인후통, 개구장애, 구개수 편위, 웅얼거리는 음성  `편도주위농양`
+* 소아의 편측 악취성 콧물  `코 이물`
 
-<mark style="color:$info;">**Tier 3 - 조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 증상이 10일 이상 호전 없이 지속되거나 호전 후 다시 악화 (급성 세균성 비부비동염 등 감별)
-* 성인에서 기침이 3주 이상 지속하면 감염 후 기침·천식·상기도기침증후군 등을 감별하고, 8주 이상이면 만성 기침으로 평가; 소아는 4주를 넘으면 소아 만성 기침으로 평가
-* 알레르기비염, 혈관운동성 비염, 약물 비염 등 감별이 필요한 경우
-* 흡연자, 면역저하자 또는 만성 심폐질환자에서 증상이 지속되거나 기저질환이 악화
+* 증상이 10일 이상 호전 없이 지속되거나 호전 후 다시 악화  `급성 세균성 비부비동염`
+* 성인에서 3주 이상 또는 소아에서 4주를 넘어 지속되는 기침  `감염 후 기침` `천식` `상기도기침증후군`
+* 계절성·노출 관련 반복 증상, 자극·날씨 변화로 유발되는 콧물 또는 코 울혈 제거제 장기 사용력  `알레르기비염` `혈관운동성 비염` `약물 비염`
+* 흡연자, 면역저하자 또는 만성 심폐질환자에서 지속되는 증상 또는 기저질환 악화  `COPD 악화` `심부전 악화`
 
 ## <mark style="color:green;">합병증</mark>
 
 * [중이염](../222_/048_-otitis-media.md) : 감기에 걸린 소아의 5\~30%에서 발생; 유아원 등원 시 더 많이 발생
-* [비부비동염](../222_/053_-rhinosinusitis-sinusitis.md) : 콧물·코 막힘·안면 통증/압박감 등이 10일 이상 호전 없이 지속되거나 호전 후 다시 악화하면 급성 세균성 비부비동염을 의심
+* [비부비동염](../222_/053_-rhinosinusitis-sinusitis.md) : 콧물·코막힘·안면 통증/압박감 등이 10일 이상 호전 없이 지속되거나 호전 후 다시 악화하면 급성 세균성 비부비동염을 의심
   * 이중 악화 (double worsening) : 처음 호전되던 코 증상·기침·발열 등이 다시 악화하는 양상; 발열이 반드시 동반되어야 하는 것은 아님
 * [폐렴](068_-pneumonia.md) : 세균성 폐렴은 드묾; 고령자·면역 저하자에서 위험 증가
 * [천식](071_-asthma.md) 악화 : 바이러스성 호흡기감염은 흔한 천식 악화 유발 인자
@@ -103,15 +107,15 @@
 * 인플루엔자·COVID-19 항바이러스 치료 대상, 유행·노출 관리가 필요한 경우 또는 폐렴·세균성 합병증 등 대체 진단이 의심되는 경우에는 결과가 처치에 미치는 영향을 고려하여 표적 검사
 * 농성 콧물은 상피 세포 및 중성구 유입과 관련된 일반적인 경과이며, 이것으로 세균 감염 또는 비부비동염을 판단할 수 없음
 
-<table><thead><tr><th width="120">질환</th><th>감별에 도움이 되는 양상</th><th>확인 사항</th></tr></thead><tbody><tr><td>인플루엔자</td><td>갑작스러운 발병, 발열·오한·근육통·두통 등 전신 증상이 현저</td><td>유행 상황, 고위험군, 항바이러스 치료 가능 시 검사 고려</td></tr><tr><td>COVID-19</td><td>감기와 임상적으로 구분되지 않을 수 있음</td><td>유행·노출력, 고위험군, 항바이러스 치료 가능 시 검사 고려</td></tr><tr><td>알레르기비염</td><td>코·눈 가려움, 반복적 재채기, 수양성 콧물; 발열 없음</td><td>계절성·노출 연관성과 반복 경과</td></tr><tr><td>급성 세균성 비부비동염</td><td>10일 이상 무호전 또는 호전 후 재악화; 농성 비루와 코 막힘/안면 통증</td><td>안구·신경학적 합병증 소견</td></tr><tr><td>급성 기관지염</td><td>기침이 주 증상이며 흔히 2\~3주 지속</td><td>폐렴을 시사하는 활력징후·국소 폐 소견 배제</td></tr><tr><td>백일해</td><td>발작적 기침, 흡기성 whoop, 기침 후 구토; 초기에는 감기와 유사</td><td>지속 기간, 접촉력, 예방접종력</td></tr><tr><td>인두염/편도염</td><td>인후통이 주 증상; 기침·콧물 동반 시 바이러스성 가능성이 높음</td><td>GAS 평가 기준 및 필요 시 신속항원검사</td></tr></tbody></table>
+<table><thead><tr><th width="120">질환</th><th>감별에 도움이 되는 양상</th><th>확인 사항</th></tr></thead><tbody><tr><td>인플루엔자</td><td>갑작스러운 발병, 발열·오한·근육통·두통 등 전신 증상이 현저</td><td>유행 상황, 고위험군, 항바이러스 치료 가능 시 검사 고려</td></tr><tr><td>COVID-19</td><td>감기와 임상적으로 구분되지 않을 수 있음</td><td>유행·노출력, 고위험군, 항바이러스 치료 가능 시 검사 고려</td></tr><tr><td>알레르기비염</td><td>코·눈 가려움, 반복적 재채기, 수양성 콧물; 발열 없음</td><td>계절성·노출 연관성과 반복 경과</td></tr><tr><td>급성 세균성 비부비동염</td><td>10일 이상 무호전 또는 호전 후 재악화; 농성 비루와 코막힘/안면 통증</td><td>안구·신경학적 합병증 소견</td></tr><tr><td>급성 기관지염</td><td>기침이 주 증상이며 흔히 2\~3주 지속</td><td>폐렴을 시사하는 활력징후·국소 폐 소견 배제</td></tr><tr><td>백일해</td><td>발작적 기침, 흡기성 whoop, 기침 후 구토; 초기에는 감기와 유사</td><td>지속 기간, 접촉력, 예방접종력</td></tr><tr><td>인두염/편도염</td><td>인후통이 주 증상; 기침·콧물 동반 시 바이러스성 가능성이 높음</td><td>GAS 평가 기준 및 필요시 신속항원검사</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. Treatment of the Common Cold. AFP 2019;100(5); CDC Common Cold</mark></em></p>
 
-### <mark style="color:orange;">감별 진단</mark>
+### <mark style="color:orange;">감별</mark>
 
 * 기침 (☞ [기침](../220_/006_-cough.md))
 * 편측의 피가 섞인 악취가 나는 콧물 → 코 이물
-* 10일 이상 호전 없이 지속되는 농성 비루·코 막힘·안면 통증 또는 호전 후 재악화 → 급성 세균성 비부비동염 (☞ [비부비동염](../222_/053_-rhinosinusitis-sinusitis.md))
+* 10일 이상 호전 없이 지속되는 농성 비루·코막힘·안면 통증 또는 호전 후 재악화 → 급성 세균성 비부비동염 (☞ [비부비동염](../222_/053_-rhinosinusitis-sinusitis.md))
 * 현저한 코 가려움 및 재채기 → 알레르기비염 (☞ [알레르기비염](../222_/051_-allergic-rhinitis.md))
 * 자극감, 날씨 변화, 매운 음식 등에 의해 유발 → 혈관운동성 비염
 * 코 울혈 제거제 사용력 → 약물 비염
@@ -120,7 +124,7 @@
 
 ### <mark style="color:orange;">감염 후 기침 (Postinfectious Cough, PIC)</mark>
 
-* 정의 : 성인에서 급성 호흡기감염 후 3\~8주간 지속되는 아급성 기침; 감기의 급성기와 구별. 소아는 4주를 넘는 기침을 만성 기침으로 평가하므로 성인의 8주 기준을 그대로 적용하지 않음 <mark style="color:$info;">[CMAJ 2024; ERS 2020]</mark>
+* 정의 : 성인에서 급성 호흡기감염 후 3\~8주간 지속되는 아급성 기침; 감기의 급성기와 구별. 소아는 4주를 넘는 기침을 만성 기침으로 평가하므로 성인의 8주 기준을 그대로 적용하지 않음 <mark style="color:$info;">\[CMAJ 2024; Eur Respir J 2020]</mark>
 * 기전 : 감염 후 지속되는 기도 염증·점액 과분비·일시적 기도 과민성과 기침 반사 민감화 등이 관여
 * 진단 : 배제 진단으로, 정상 흉부 진찰과 자연 호전 경과를 확인하고 천식, 상기도기침증후군, 위식도역류, ACE 억제제 사용, 백일해 등을 감별
 * 치료 : Red Flags가 없으면 자연 경과 설명과 추적 관찰이 기본이며, 흡입 스테로이드·기관지확장제·경구 약물을 routine으로 권고할 근거는 부족
@@ -132,19 +136,15 @@
 
 ```mermaid
 flowchart TD
-    A(["감기 유사 증상"]) --> X{"Red Flags 또는<br/>고위험군?"}
-    X -->|Yes| E["응급도 판단 및 원인 평가<br/>폐렴·인플루엔자·COVID-19·합병증 감별"]
-    X -->|No| B["가장 불편한 증상<br/>1~2개 선택"]
+    A(["감기 유사 증상"]) --> X["Red Flags 또는<br/>고위험군?"]
+    X -->|예| E["응급도 판단 및 원인 평가<br/>폐렴·인플루엔자·<br/>COVID-19·합병증 감별"]
+    X -->|아니오| B["가장 불편한 증상<br/>1~2개 선택<br/>＜2세 복합 감기약<br/>사용 안 함"]
 
     B -->|콧물·재채기| R["생리식염수<br/>성인: 1세대 항히스타민제<br/>선택적 단기 사용"]
-
-    B -->|코 막힘| C["생리식염수<br/>성인: 비내 충혈제거제 원칙 3일 이내, 최대 5일<br/>경구제는 금기·상호작용 확인"]
-
+    B -->|코막힘| C["생리식염수<br/>성인: 비내 코 울혈 제거제<br/>원칙 3일 이내, 최대 5일<br/>경구제는<br/>금기·상호작용 확인"]
     B -->|기침| K["따뜻한 음료·꿀 ≥1세<br/>성인 진해제 1종 선택 가능<br/>천명 시 천식·기도폐쇄 평가"]
-
     B -->|발열·통증| F["acetaminophen 또는 NSAID<br/>복합제 중복 성분 확인"]
-
-    B -->|인후통| S["수분 섭취·가글<br/>해열진통제 또는 국소 진통제"]
+    B -->|인후통| S["수분 섭취·가글<br/>해열진통제<br/>인후 사탕 ≥6세"]
 
     R --> Z["환자 교육 + 경과 관찰"]
     C --> Z
@@ -152,23 +152,25 @@ flowchart TD
     F --> Z
     S --> Z
 
-    Z --> Y{"10일 이내 호전?"}
-    Y -->|Yes| END["자연 회복"]
-    Y -->|No 또는 재악화| RE["재평가<br/>세균성 비부비동염·폐렴 등 감별"]
+    Z --> Y["코·전신 증상<br/>10일 이내 호전?"]
+    Y -->|예| END["자연 회복"]
+    Y -->|아니오 또는 재악화| RE["재평가<br/>세균성 비부비동염·폐렴 등 감별"]
+    END -.->|기침만 3주 이상 지속| PIC["감염 후 기침 평가"]
 
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-style E fill:#ffe6e6,stroke:#c62828,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#f39c12
-class X,B,Y yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class R,C,K,F,S sky
-style END fill:#d0e8ff,stroke:#1a6abf
-style RE fill:#f0e6ff,stroke:#8e44ad
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style E fill:#ffe6e6,stroke:#c62828,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class X,B,Y yellow
+    classDef sky fill:#e3f2ff,stroke:#2196f3
+    class R,C,K,F,S sky
+    style END fill:#d0e8ff,stroke:#1a6abf
+    style RE fill:#f0e6ff,stroke:#8e44ad
+    style PIC fill:#f0e6ff,stroke:#8e44ad
 ```
 
 <p align="center"><strong>감기 접근 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Treatment of the Common Cold. AFP 2019;100(5); CDC Common Cold</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Treatment of the Common Cold. AFP 2019;100(5); CDC Common Cold)</mark></em></p>
 
 ***
 
@@ -180,16 +182,16 @@ style RE fill:#f0e6ff,stroke:#8e44ad
 * 항히스타민제, 코 울혈 제거제, 진해제 등은 효과가 제한적이므로 연령·기저질환·병용약을 확인하고 가장 불편한 증상에만 단기간 사용
 * 단순 감기에는 항생제가 효과 없고 일반적인 감기 바이러스를 대상으로 한 특이 항바이러스제도 없음
 * 다만 인플루엔자 또는 COVID-19가 의심되고 항바이러스 치료 대상이 될 수 있는 환자는 조기에 검사·평가
-  * 인플루엔자가 의심되는 고위험군·중증 또는 진행성 환자는 검사 결과를 기다리느라 항바이러스 치료를 지연하지 않으며, 발병 48시간이 지났어도 치료 대상이 될 수 있음 <mark style="color:$info;">[CDC Influenza]</mark>
+  * 인플루엔자가 의심되는 고위험군·중증 또는 진행성 환자는 검사 결과를 기다리느라 항바이러스 치료를 지연하지 않으며, 발병 48시간이 지났어도 치료 대상이 될 수 있음 <mark style="color:$info;">\[CDC Influenza]</mark>
 
 ### <mark style="color:orange;">증상 중심 치료 선택</mark>
 
 * 공식적인 표현형 분류가 아니라, 가장 불편한 증상 1\~2개를 선택하여 불필요한 다제 처방을 줄이기 위한 실용적 접근
 
-<table><thead><tr><th width="140">주요 증상</th><th width="210">선택적 대증 치료</th><th>유의 사항</th></tr></thead><tbody><tr><td>수양성 콧물·재채기</td><td>성인에서 1세대 항히스타민제 단기 고려</td><td>효과는 제한적; 졸림·항콜린 부작용 확인</td></tr><tr><td>코 막힘</td><td>생리식염수; 성인에서 비내 충혈제거제 단기 고려</td><td>연속 3일 이내 원칙, 최대 5일; 고혈압·심혈관질환 등 확인</td></tr><tr><td>기침</td><td>따뜻한 음료, ≥1세에서 꿀; 성인 진해제는 선택적 사용</td><td>효과 근거가 제한적이며 진해제 병용은 피함</td></tr><tr><td>발열·두통·근육통</td><td>acetaminophen 또는 NSAID</td><td>복합 감기약의 중복 성분과 금기 확인</td></tr><tr><td>현저한 전신 증상</td><td>해열진통제와 수분 섭취</td><td>인플루엔자·COVID-19 감별 및 조기 항바이러스 치료 대상 확인</td></tr></tbody></table>
+<table><thead><tr><th width="140">주요 증상</th><th width="210">선택적 대증 치료</th><th>유의 사항</th></tr></thead><tbody><tr><td>수양성 콧물·재채기</td><td>성인에서 1세대 항히스타민제 단기 고려</td><td>효과는 제한적; 졸림·항콜린 부작용 확인</td></tr><tr><td>코막힘</td><td>생리식염수; 성인에서 비내 코 울혈 제거제 단기 고려</td><td>연속 3일 이내 원칙, 최대 5일; 고혈압·심혈관질환 등 확인</td></tr><tr><td>기침</td><td>따뜻한 음료, ≥1세에서 꿀; 성인 진해제는 선택적 사용</td><td>효과 근거가 제한적이며 진해제 병용은 피함</td></tr><tr><td>발열·두통·근육통</td><td>acetaminophen 또는 NSAID</td><td>복합 감기약의 중복 성분과 금기 확인</td></tr><tr><td>현저한 전신 증상</td><td>해열진통제와 수분 섭취</td><td>인플루엔자·COVID-19 감별 및 조기 항바이러스 치료 대상 확인</td></tr></tbody></table>
 
 {% hint style="info" %}
-**소아 감기약** : ＜2세에서는 충혈제거제 또는 항히스타민제가 포함된 기침·감기약을 사용하지 않음. 2\~6세에서도 효과 부족과 과량·중복 복용 위험 때문에 routine 사용을 피하고, 필요한 경우 연령별 허가사항과 체중을 확인하여 개별 성분을 선택
+**소아 감기약** : ＜2세에서는 코 울혈 제거제 또는 항히스타민제가 포함된 기침·감기약을 사용하지 않음. 2\~6세에서도 효과 부족과 과량·중복 복용 위험 때문에 routine 사용을 피하고, 필요한 경우 연령별 허가사항과 체중을 확인하여 개별 성분을 선택
 {% endhint %}
 
 **최소 처방 원칙**
@@ -211,10 +213,10 @@ style RE fill:#f0e6ff,stroke:#8e44ad
 
 * **농성 콧물 = 항생제 필요 ❌** - 감기의 정상 경과이며 세균 감염 지표가 아님
 * **5일 이상 감기 → 항생제 ❌** - 세균 감염 의심 기준은 10일 이상 지속 또는 이중 악화(double worsening)
-* **기침 2주 = 폐렴 ❌** - 기침 기간만으로 폐렴을 진단하거나 항생제를 처방하지 않음. 활력징후·SpO₂·국소 폐 소견을 평가하고 폐렴이 의심되면 흉부 X선 등 적절한 영상검사를 시행; 숙련된 환경에서는 폐초음파도 대안이 될 수 있음. 영상검사 때문에 중증 환자의 치료·이송을 지연하지 않음. 고령자는 기침·발열 없이 전신 쇠약·식욕 저하 등으로 나타날 수 있음 <mark style="color:$info;">[ATS CAP 2025; NICE NG250]</mark>
+* **기침 2주 = 폐렴 ❌** - 기침 기간만으로 폐렴을 진단하거나 항생제를 처방하지 않음. 활력징후·SpO₂·국소 폐 소견을 평가하고 폐렴이 의심되면 흉부 X선 등 적절한 영상검사를 시행; 숙련된 환경에서는 폐초음파도 대안이 될 수 있음. 영상검사 때문에 중증 환자의 치료·이송을 지연하지 않음. 고령자는 기침·발열 없이 전신 쇠약·식욕 저하 등으로 나타날 수 있음 <mark style="color:$info;">\[Am J Respir Crit Care Med 2025; NICE NG250]</mark>
 * **발열 없음 = 바이러스성 확실 ❌** - 세균 감염·합병증도 발열 없이 발현 가능 (특히 고령자)
-* **비내 충혈제거제 장기 사용 ❌** - 연속 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않아 반동성 비염을 예방
-* **＜2세 복합 기침·감기약 ❌** - 특히 충혈제거제·항히스타민제 함유 제품은 중대한 부작용 위험 때문에 사용하지 않음
+* **비내 코 울혈 제거제 장기 사용 ❌** - 연속 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않아 반동성 비염을 예방
+* **＜2세 복합 기침·감기약 ❌** - 특히 코 울혈 제거제·항히스타민제 함유 제품은 중대한 부작용 위험 때문에 사용하지 않음
 * **이중 악화 간과 ❌** - 처음 호전되던 코 증상·기침·발열 등이 다시 악화하면 세균성 비부비동염, 폐렴 등 합병증을 재평가; 이중 악화만으로 항생제를 자동 처방하지 않음
 {% endhint %}
 
@@ -232,6 +234,7 @@ style RE fill:#f0e6ff,stroke:#8e44ad
   * 가습기 사용 시 위생 관리 필수; 뜨거운 증기 흡입은 효과가 불확실하고 화상 위험이 있어 피함
 * 식염수 코 분무 또는 세척 : 일시적 증상 완화 가능 (☞ [알레르기비염](../222_/051_-allergic-rhinitis.md#undefined-16))
   * 세척에는 멸균수·증류수 또는 1분 이상 끓였다 식힌 물을 사용하고 기구를 세척·건조; 수돗물을 그대로 사용하지 않음
+  * 6세 이하 소아에서 고장성 식염수 점비가 감기 기간을 단축할 가능성을 보인 RCT가 있으나 예비 결과임 <mark style="color:$info;">\[ERS 2024]</mark>
 * 꿀 : 야간 기침 완화; ≥1세에서 사용 (＜1세 영아 보툴리즘 위험으로 금기); 취침 전 2.5\~10 ㎖ 고려
   * 2018 Cochrane 검토와 이후 연구에서 소아의 기침 빈도·중증도 및 수면을 일부 개선할 가능성이 있으나 근거 확실성은 낮음; 성인에서는 근거 제한적
 * 수액 치료 : 탈수가 발생하지 않은 한 권고하지 않음; 소아에서 전해질 불균형 위험
@@ -252,7 +255,7 @@ style RE fill:#f0e6ff,stroke:#8e44ad
 ### <mark style="color:orange;">진해제 (Antitussive)</mark>
 
 * 감기 기침에 대하여 일관된 강력한 효과를 보이는 진해제는 없으나, 일부 환자에서 증상 완화 목적의 선택적 사용은 가능함
-  * codeine : 성인 급성 기침 연구에서 위약 대비 유익이 입증되지 않음; dihydrocodeine 복합제 역시 단순 감기에서 유익이 확립되지 않았으며 부작용·의존성·호흡 억제 위험을 고려하여 일상적 사용 비권고 <mark style="color:$info;">[NICE NG120]</mark>
+  * codeine : 성인 급성 기침 연구에서 위약 대비 유익이 입증되지 않음 <mark style="color:$info;">\[NICE NG120]</mark>; dihydrocodeine 복합제 역시 단순 감기에서 유익이 확립되지 않았으며 부작용·의존성·호흡 억제 위험을 고려하여 일상적 사용 비권고
   * dextromethorphan : mixed evidence
   * levodropropizine : 일부 메타분석에서 긍정적 결과
 * 코 분비물과 상기도 자극이 기침에 관여할 수 있으며, 1세대 항히스타민제는 일부 성인에서 단기간 약간의 도움이 될 수 있음
@@ -273,14 +276,15 @@ style RE fill:#f0e6ff,stroke:#8e44ad
 * 부작용 : 졸림
 * <mark style="color:blue;">\[프리비투스]</mark> 성인 5 ㎖ tid; 2\~4세 2 ㎖ bid; 소아 단순 감기에서 routine 사용하지 않음
 
-**오피오이드성 진해제 — dihydrocodeine 복합제**
+**오피오이드성 진해제 - dihydrocodeine 복합제**
 
 * 기전/효과 : 연수 기침 중추 억제; 감기 기침에 대한 효과는 제한적이며 routine 사용하지 않음
 * 부작용 : 졸음, 변비, 소화 장애
-* 복합제로 시판 : <mark style="color:blue;">\[코푸 시럽]</mark> 20 ㎖/포 tid (허가 용법), <mark style="color:blue;">\[코데닝]</mark> 6T #3; ＜12세 사용 금지
+* 복합제로 시판 : <mark style="color:blue;">\[코푸시럽]</mark> 20 ㎖/포 tid (허가 용법), <mark style="color:blue;">\[코데닝]</mark> 6T #3; ＜12세 사용 금지
   * 12\~18세에서도 비만, 폐쇄성 수면무호흡증 또는 중증 폐질환 등 호흡 억제 위험이 있는 경우 투여 금지
-  * <mark style="color:blue;">\[코푸 시럽]</mark> 10 ㎖ 중 : dihydrocodeine 5 ㎎/methylephedrine 13.1 ㎎/chlorpheniramine 1.5 ㎎/ammonium chloride 0.1 g; 1회 20 ㎖ tid
+  * <mark style="color:blue;">\[코푸시럽]</mark> 10 ㎖ 중 : dihydrocodeine 5 ㎎/methylephedrine 13.1 ㎎/chlorpheniramine 1.5 ㎎/ammonium chloride 0.1 g; 1회 20 ㎖ tid
   * <mark style="color:blue;">\[코데닝]</mark> : dihydrocodeine 5 ㎎/methylephedrine 17.5 ㎎/chlorpheniramine 1.5 ㎎/guaifenesin 50 ㎎; 6T #3
+  * 두 제품 모두 methylephedrine(교감신경흥분제)과 chlorpheniramine을 함유하므로 pseudoephedrine·다른 항히스타민제와 병용하지 않음
 
 #### <mark style="color:$primary;">비중추성</mark>
 
@@ -317,7 +321,7 @@ style RE fill:#f0e6ff,stroke:#8e44ad
 * 단순 감기 기침에는 권고하지 않으며, 천명·기관지경련 또는 객관적 기류 제한이 있는 경우에만 해당 질환에 따라 선택
 * 부작용 : 떨림, 불안감
 * salbutamol <mark style="color:blue;">\[벤토린 에보할러]</mark> : 속효성 기관지확장제가 필요할 때 제품별 허가 용법 확인
-* 경구·경피 β2-agonist 및 LABA를 단순 감기 기침 치료 목적으로 사용하지 않음
+* 경구·경피 β2-agonist(tulobuterol 패취 등) 및 LABA를 단순 감기 기침 치료 목적으로 사용하지 않음
 
 **Ipratropium**
 
@@ -334,8 +338,7 @@ style RE fill:#f0e6ff,stroke:#8e44ad
 **항히스타민제** (진해 목적)
 
 * 기전/효과 : 진정 및 항콜린 작용; 1세대는 후비루와 인후 불편감을 포함한 급성 기침에 약간의 효과; 2세대는 효과 없음; 임상적 효과는 제한적이며 부작용 대비 선택적 사용 권장 (☞ [항히스타민제](../231_/212_-antihistamines.md))
-* chlorpheniramine : 성인 2\~6 ㎎ bid\~qid (최대 24 ㎎/d) <mark style="color:blue;">\[페니라민]</mark>; 소아는 연령별 허가 용법 확인
-* clemastine : 1 ㎎/T 1T bid <mark style="color:blue;">\[마스질]</mark>
+* chlorpheniramine·clemastine 용량은 아래 콧물 치료제의 항히스타민제 항목 참조
 
 **박하, 자일리톨, 기타 사탕/껌**
 
@@ -351,7 +354,7 @@ style RE fill:#f0e6ff,stroke:#8e44ad
 
 * 분비 촉진제 (expectorant) : 고장성 식염수 aerosol, guaifenesin, 이온 통로 조절제
 * 점액 조절제 (mucoregulator) : carbocysteine 등
-* 점액 용해제 (mucolytics) : N-acetylcysteine, bromhexine, erdosteine, sobrerol, ambroxol
+* 점액 용해제 (mucolytics) : N-acetylcysteine, bromhexine, erdosteine, sobrerol
 * 점액 활성제 (mucokinetics) : ambroxol, acebrophylline 등
 
 <table data-header-hidden><thead><tr><th width="257"></th><th></th><th></th></tr></thead><tbody><tr><td>성분명 <mark style="color:blue;">[상품명]</mark></td><td>용법</td><td>비고</td></tr><tr><td>guaifenesin¹⁾ <mark style="color:blue;">[코데닝]</mark></td><td>2T tid (복합제)</td><td>단순 감기에서 근거 제한적; chlorpheniramine·dihydrocodeine 등 중복 주의</td></tr><tr><td>carbocysteine <mark style="color:blue;">[리나치올]</mark></td><td>500 ㎎/C tid</td><td>점액 조절</td></tr><tr><td>acetylcysteine <mark style="color:blue;">[뮤테란]</mark></td><td>200 ㎎/C tid</td><td>단순 감기에서 routine 사용하지 않음</td></tr><tr><td>bromhexine <mark style="color:blue;">[비졸본]</mark></td><td>8 ㎎/T 1\~2T tid</td><td>근거 제한적</td></tr><tr><td>erdosteine <mark style="color:blue;">[엘도스]</mark></td><td>300 ㎎/C bid\~tid</td><td>단순 감기에서 routine 사용하지 않음</td></tr><tr><td>sobrerol <mark style="color:blue;">[소부날]</mark></td><td>200 ㎎/C bid</td><td>단순 감기에서 routine 사용하지 않음</td></tr><tr><td>ambroxol <mark style="color:blue;">[뮤코펙트]</mark></td><td>30 ㎎/T tid</td><td>점액 활성; 근거 제한적</td></tr><tr><td>acebrophylline <mark style="color:blue;">[설포라제]</mark></td><td>100 ㎎/C bid</td><td>단순 감기에서 routine 사용하지 않음</td></tr></tbody></table>
@@ -378,16 +381,16 @@ _1) 코데닝은 guaifenesin 단일제가 아닌 오피오이드성 진해제 �
 
 #### <mark style="color:$primary;">비내 항콜린제</mark>
 
-* 기전/효과 : 수양성 콧물을 줄일 수 있으나 코 막힘에는 효과 없음
+* 기전/효과 : 수양성 콧물을 줄일 수 있으나 코막힘에는 효과 없음
 * 부작용 : 비점막 자극, 코피
 * 성인에서 수양성 비루가 특히 불편한 경우 단기간 선택 가능; 녹내장·전립선비대 등 항콜린제 주의 대상 확인
 * 국내에는 비강 분무용 제제가 유통되지 않아 처방 시 유통 여부 확인 필요
 
-### <mark style="color:orange;">코 막힘 치료제 (Decongestant)</mark>
+### <mark style="color:orange;">코막힘 치료제 (Decongestant)</mark>
 
-* 기전 : 코 막힘 및 콧물 일부는 혈관 확장과 관련
+* 기전 : 코막힘 및 콧물 일부는 혈관 확장과 관련
 
-#### <mark style="color:$primary;">비내 울혈 제거제</mark>
+#### <mark style="color:$primary;">비내 코 울혈 제거제</mark>
 
 * 부작용 : 약물 반동성 비염
 * 소아에서의 연구는 부족함
@@ -400,7 +403,7 @@ _1) 코데닝은 guaifenesin 단일제가 아닌 오피오이드성 진해제 �
 * 효과 : 일부 연구에서 약간의 효과; 소아에서의 연구는 부족함
 * 약물 반동성 비염 위험 없음; 국소 자극 없음
 * 부작용 : CNS 자극, 혈압 상승, 가슴 두근거림, 불안, 불면증, 수면 장애; 안압 상승 (녹내장 환자 주의)
-* 경구 phenylephrine은 코 막힘 개선 효과가 입증되지 않아 권고하지 않음; 미국 FDA는 2024년 유효성 부족을 근거로 OTC 비충혈제거제 성분에서 제외하는 명령안을 제안함; 이 유효성 평가는 비내 제형에 동일하게 적용하지 않음 <mark style="color:$info;">[FDA Oral Phenylephrine]</mark>
+* 경구 phenylephrine은 코막힘 개선 효과가 입증되지 않아 권고하지 않음; 미국 FDA는 2024년 유효성 부족을 근거로 OTC 코 울혈 제거제 성분에서 제외하는 명령안을 제안함; 이 유효성 평가는 비내 제형에 동일하게 적용하지 않음 <mark style="color:$info;">\[FDA Oral Phenylephrine]</mark>
 * pseudoephedrine : 60 ㎎/T ½\~1T tid\~qid <mark style="color:blue;">\[슈다페드]</mark>
   * 성인 최대 240 ㎎/d; 복합 감기약과 pseudoephedrine 단일제 중복 복용 시 과량 투여 주의
   * 국내 투여 금기 : 고혈압을 포함한 심혈관질환·심한 관동맥질환, 갑상선기능항진증, 당뇨병, 중증 신장애, 폐쇄각녹내장, 크롬친화세포종, 수유부
@@ -416,7 +419,7 @@ _1) 코데닝은 guaifenesin 단일제가 아닌 오피오이드성 진해제 �
 ### <mark style="color:orange;">진통·해열제</mark>
 
 * acetaminophen 또는 NSAID는 발열·두통·근육통·인후통을 완화하지만 코 증상·기침 또는 전체 이환 기간을 줄이지는 못함
-* naproxen : 250\~275 ㎎ bid, 필요 시 단기간 사용 <mark style="color:blue;">\[아나프록스, 낙센]</mark> (보험주의)
+* naproxen : 250\~275 ㎎ bid, 필요시 단기간 사용 <mark style="color:blue;">\[아나프록스, 낙센]</mark> (보험주의)
 * ibuprofen : 200\~400 ㎎ q6\~8h prn <mark style="color:blue;">\[부루펜]</mark>; 성인 일반의약품 자가 복용은 제품별 1일 최대 용량 확인
 * acetaminophen 일반정 : 500\~1,000 ㎎ q6h prn <mark style="color:blue;">\[타이레놀]</mark>; 성인 최대 4 g/d, 고령·저체중·간질환 등은 감량하고 복합제 중복 성분 확인
 
@@ -428,7 +431,7 @@ _1) 코데닝은 guaifenesin 단일제가 아닌 오피오이드성 진해제 �
 
 #### <mark style="color:$primary;">아연 (zinc)</mark>
 
-* 2024 Cochrane 검토에서 경구 아연이 감기 기간을 줄일 가능성이 있었으나 근거 확실성이 낮고 제형·용량 간 이질성이 큼; routine recommendation은 아님
+* 2024 Cochrane 검토에서 경구 아연이 감기 기간을 줄일 가능성이 있었으나 근거 확실성이 낮고 제형·용량 간 이질성이 큼; routine으로 권고하지 않음
 * 경구 사탕(lozenge)·시럽 등으로 투여한 연구가 있으나 표준 용량을 확정할 수 없음; 쓴맛, 구역 등 비중대한 이상반응이 증가할 수 있음
 * 장기간 또는 고용량 복용 시 구리 결핍 및 약물 상호작용 위험에 주의
 
@@ -438,7 +441,7 @@ _1) 코데닝은 guaifenesin 단일제가 아닌 오피오이드성 진해제 �
 
 #### <mark style="color:$primary;">비타민 C (vitamin C)</mark>
 
-* 효과 : 규칙적 투여 시 증상 중증도 및 유병 기간 소폭 감소; 임상적 의미는 제한적; routine recommendation은 아님
+* 효과 : 규칙적 투여 시 증상 중증도 및 유병 기간 소폭 감소; 임상적 의미는 제한적; routine으로 권고하지 않음
 * 감기 발생 후 투여를 시작한 경우의 효과는 불확실
 * 고용량 routine 투여는 권고하지 않으며 신결석 위험, 철 과부하 등 개인 위험을 고려
 
@@ -446,7 +449,7 @@ _1) 코데닝은 guaifenesin 단일제가 아닌 오피오이드성 진해제 �
 
 * 비타민 D 결핍과 호흡기감염 위험의 연관성이 보고되었으나 감기 예방을 위한 일률적 보충 근거는 불충분; 결핍이 확인되면 일반적인 결핍 치료 원칙에 따라 교정
 * 충분한 비타민 D 상태에서 추가 보충의 감기 예방 효과는 입증되지 않음
-* routine recommendation은 아님
+* routine으로 권고하지 않음
 
 #### <mark style="color:$primary;">Echinacea purpurea</mark>
 
@@ -454,18 +457,18 @@ _1) 코데닝은 guaifenesin 단일제가 아닌 오피오이드성 진해제 �
 
 #### <mark style="color:$primary;">probiotics</mark>
 
-* 일부 연구에서 상기도감염 예방 효과가 보고되었으나 균주·용량별 결과가 일관되지 않아 routine recommendation은 아님
+* 일부 연구에서 상기도감염 예방 효과가 보고되었으나 균주·용량별 결과가 일관되지 않아 routine으로 권고하지 않음
 
 #### <mark style="color:$primary;">마늘</mark>
 
-* 감기 예방·치료 효과를 판단할 근거가 부족하여 routine recommendation은 아님
+* 감기 예방·치료 효과를 판단할 근거가 부족하여 routine으로 권고하지 않음
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:red;">질병코드</mark>
 
-J00 급성 비인두염 \[감기]\
-J06.9 상세불명의 급성 상기도감염
+* J00 급성 비인두염[감기] Acute nasopharyngitis[common cold]
+* J06.9 상세불명의 급성 상기도감염 Acute upper respiratory infection, unspecified
 
 ***
 
@@ -496,7 +499,7 @@ J06.9 상세불명의 급성 상기도감염
 >                               (= 약 150~225 ㎎/회, 24시간 최대 5회)
 > ```
 >
-> _✽ 제품 농도에 따라 ㎖를 환산. ＜2세에서는 충혈제거제·항히스타민제 함유 기침·감기약을 사용하지 않으며, 2\~6세도 routine 복합 감기약을 피함. ≥1세에서는 취침 전 꿀 2.5\~5 ㎖를 고려할 수 있음._
+> _✽ 제품 농도에 따라 ㎖를 환산. ＜2세에서는 코 울혈 제거제·항히스타민제 함유 기침·감기약을 사용하지 않으며, 2\~6세도 routine 복합 감기약을 피함. ≥1세에서는 취침 전 꿀 2.5\~5 ㎖를 고려할 수 있음._
 
 > **처방례 4. 고령자 - 발열·통증 위주의 최소 처방**
 >
@@ -504,9 +507,9 @@ J06.9 상세불명의 급성 상기도감염
 > 타이레놀 일반정 500 ㎎/T  1T  q6~8h  prn  발열·통증 시
 > ```
 >
-> _✽ 고령자에서 1세대 항히스타민제·경구 충혈제거제는 낙상·섬망·요폐·혈압 상승 위험으로 가급적 회피하고, 오피오이드성 진해제도 변비·과진정·호흡 억제에 주의. Acetaminophen은 일반적으로 최대 2,000\~3,000 ㎎/d 범위에서 개별화하며 체중 ＜50 ㎏, 쇠약·영양불량, 간질환 또는 과음이 있으면 2,000 ㎎/d 이하를 고려. NSAIDs는 신기능 저하·위장관 출혈·심부전 위험을 확인._
+> _✽ 고령자에서 1세대 항히스타민제·경구 코 울혈 제거제는 낙상·섬망·요폐·혈압 상승 위험으로 가급적 회피하고, 오피오이드성 진해제도 변비·과진정·호흡 억제에 주의. Acetaminophen은 일반적으로 최대 2,000\~3,000 ㎎/d 범위에서 개별화하며 체중 ＜50 ㎏, 쇠약·영양불량, 간질환 또는 과음이 있으면 2,000 ㎎/d 이하를 고려. NSAIDs는 신기능 저하·위장관 출혈·심부전 위험을 확인._
 
-> **처방례 5. 성인 - 코 막힘이 가장 불편한 경우**
+> **처방례 5. 성인 - 코막힘이 가장 불편한 경우**
 >
 > ```
 > 오트리빈멘톨 0.1%분무제  각 비공 1회 1번  bid~tid
@@ -522,16 +525,16 @@ J06.9 상세불명의 급성 상기도감염
 
 * **항히스타민제 (1세대)** - 졸음 부작용이 있으므로 복용 중 운전·기계 조작·음주를 삼가도록 안내; 소아에서 역설적 흥분이 나타나면 즉시 복용 중단; 고령자에서 낙상·섬망 위험 증가
 * **비내 코 울혈 제거제** - 연속 3일 이내를 원칙으로 하고 길어도 5일을 넘기지 않음 (반동성 비염 예방)
-* **dihydrocodeine 함유 복합제** - ＜12세에서 사용 금지; 졸음·변비·호흡 억제가 발생할 수 있으므로 음주·운전과 다른 진정제 병용 금지
+* **dihydrocodeine 함유 복합제** - ＜12세에서 사용 금지; 졸음·변비·호흡 억제가 발생할 수 있으므로 음주·운전과 다른 진정제 병용 금지; methylephedrine 함유 제품은 pseudoephedrine과 병용하지 않음
 * **benzonatate (지콜)** - ＜10세 사용 금지; 캡슐을 씹거나 빨지 않고 통째로 삼키도록 안내하며, 소아 우발 복용 시 소량으로도 치명적일 수 있으므로 손이 닿지 않는 곳에 보관
 * **acetaminophen** - 제품별 1일 최대 용량을 지키고 다른 감기 복합제와 acetaminophen 중복 성분을 반드시 확인; 고령자·저체중·쇠약·영양불량·간질환·과음 환자는 감량
-* **경구 충혈제거제(pseudoephedrine)** - 고혈압 포함 심혈관질환, 갑상선기능항진증·당뇨병·중증 신장애·폐쇄각녹내장·크롬친화세포종·수유부 및 MAO 억제제·다른 교감신경흥분제·β차단제 병용은 국내 금기; 전립선비대 등은 신중 투여. 불면을 유발할 수 있어 늦은 오후 이후 복용을 피하고, 갑작스러운 심한 두통·시각 이상·경련 등이 발생하면 즉시 중단하고 응급 평가
+* **경구 코 울혈 제거제(pseudoephedrine)** - 고혈압 포함 심혈관질환, 갑상선기능항진증·당뇨병·중증 신장애·폐쇄각녹내장·크롬친화세포종·수유부 및 MAO 억제제·다른 교감신경흥분제·β차단제 병용은 국내 금기; 전립선비대 등은 신중 투여. 불면을 유발할 수 있어 늦은 오후 이후 복용을 피하고, 갑작스러운 심한 두통·시각 이상·경련 등이 발생하면 즉시 중단하고 응급 평가
 * **항생제는 필요 없음** - 감기는 바이러스 감염이므로 항생제가 효과 없음을 명확히 설명; 농성 콧물·5일 이상 증상만으로는 항생제 적응증이 아님을 안내
 * **기침 지속 안내** - 다른 증상이 회복된 이후에도 기침은 2\~3주 지속될 수 있음을 안내; 3주 이상 지속되면 재진하고 소아는 4주를 넘으면 만성 기침 평가, 성인은 8주 이상이면 만성 기침 평가
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:blue;">환자 안내서</mark>
 
 **감기란?**\
 감기는 바이러스가 코와 목을 감염시켜 생기는 질환입니다. 보통 7\~10일이면 저절로 낫습니다. 약을 먹어도 완치 기간을 크게 줄이지는 못하며, 불편한 증상을 완화하는 데 도움이 됩니다.
@@ -584,52 +587,18 @@ J06.9 상세불명의 급성 상기도감염
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* CDC. About Common Cold / Manage Common Cold. — 감기의 자연 경과, 대증 치료·소아 감기약 주의 및 재평가 기준
-
-  https://www.cdc.gov/common-cold/treatment/
-
-* NICE. Cough (acute): antimicrobial prescribing. NG120. — 급성 기침의 대증 치료와 항생제 사용 제한
-
-  https://www.nice.org.uk/guidance/ng120
-
-* Postinfectious cough in adults. CMAJ. 2024;196:E157. — 성인 감염 후 기침의 정의·감별 및 약물 근거의 한계
-
-  https://doi.org/10.1503/cmaj.231523
-
-* ERS. Guidelines on the diagnosis and treatment of chronic cough in adults and children. 2020. — 성인과 소아의 만성 기침 평가 기준 구분
-
-  https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/
-
-* Cochrane. Zinc for the prevention and treatment of the common cold. 2024. CD014914. — 아연의 감기 예방·치료 효과와 이상반응, 근거 확실성
-
-  https://www.cochrane.org/evidence/CD014914_zinc-prevention-and-treatment-common-cold
-
-* Cochrane. Immediate versus delayed versus no antibiotics for respiratory infections. 2023. — 지연 처방과 무처방의 항생제 사용률·만족도 비교; 단순 감기의 항생제 적응증을 의미하지 않음
-
-  https://www.cochrane.org/evidence/CD004417_delayed-antibiotic-prescriptions-respiratory-tract-infections
-
-* CDC. Influenza Antiviral Medications: Summary for Clinicians. — 고위험군·중증 또는 진행성 인플루엔자 의심 시 검사 때문에 항바이러스 치료를 지연하지 않는 원칙
-
-  https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html
-
-* ATS. Diagnosis and Management of Community-acquired Pneumonia. 2025. — 숙련된 환경에서 폐초음파를 흉부 X선의 진단 대안으로 조건부 권고
-
-  https://doi.org/10.1164/rccm.202507-1692ST
-
-* NICE. Pneumonia: diagnosis and management. NG250. 2025. — 감기와 감별할 폐렴의 임상·영상 평가
-
-  https://www.nice.org.uk/guidance/ng250
+* [CDC. About Common Cold / Manage Common Cold.](https://www.cdc.gov/common-cold/treatment/) - 감기의 자연 경과, 대증 치료·소아 감기약 주의 및 재평가 기준
+* [NICE. Cough (acute): antimicrobial prescribing. NG120.](https://www.nice.org.uk/guidance/ng120) - 급성 기침의 대증 치료와 항생제 사용 제한
+* [Liang K, et al. Postinfectious cough in adults. CMAJ. 2024;196(5):E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 정의·감별 및 약물 근거의 한계
+* [Morice AH, et al. ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020;55:1901136.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/) - 성인과 소아의 만성 기침 평가 기준 구분
+* [Cochrane. Zinc for the prevention and treatment of the common cold. 2024. CD014914.](https://www.cochrane.org/evidence/CD014914_zinc-prevention-and-treatment-common-cold) - 아연의 감기 예방·치료 효과와 이상반응, 근거 확실성
+* [Cochrane. Immediate versus delayed versus no antibiotics for respiratory infections. 2023. CD004417.](https://www.cochrane.org/evidence/CD004417_delayed-antibiotic-prescriptions-respiratory-infections) - 지연 처방과 무처방의 항생제 사용률·만족도 비교; 단순 감기의 항생제 적응증을 의미하지 않음
+* [CDC. Influenza Antiviral Medications: Summary for Clinicians.](https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html) - 고위험군·중증 또는 진행성 인플루엔자 의심 시 검사 때문에 항바이러스 치료를 지연하지 않는 원칙
+* [ATS. Diagnosis and Management of Community-acquired Pneumonia. Am J Respir Crit Care Med. 2025.](https://doi.org/10.1164/rccm.202507-1692ST) - 숙련된 환경에서 폐초음파를 흉부 X선의 진단 대안으로 조건부 권고
+* [NICE. Pneumonia: diagnosis and management. NG250. 2025.](https://www.nice.org.uk/guidance/ng250) - 감기와 감별할 폐렴의 임상·영상 평가
+* [Ramalingam S, et al. Hypertonic saline nose drops as a treatment in children with the common cold (ELVIS-Kids trial). ERS Congress 2024, abstract OA1985.](https://www.ersnet.org/?p=43487) - 소아 감기에서 고장성 식염수 점비의 증상 기간 단축 (학회 발표 예비 결과)
+* [미국 FDA. Key Information about Nonprescription, Over-the-Counter (OTC), Oral Phenylephrine.](https://www.fda.gov/drugs/understanding-over-counter-medicines/key-information-about-nonprescription-over-counter-otc-oral-phenylephrine) - 경구 phenylephrine의 유효성 평가와 OTC 명령안
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 식품의약품안전처. 의약품안전나라 — 국내 의약품의 품목허가정보, 적응증·용법·금기 및 안전성 정보
-
-  https://nedrug.mfds.go.kr/index
-
-* 건강보험심사평가원. 약제 급여기준 및 급여목록 — 국내 약제의 급여 적용 및 인정 기준
-
-  https://www.hira.or.kr
-
-* 미국 FDA. Key Information about Nonprescription, Over-the-Counter (OTC), Oral Phenylephrine — 경구 phenylephrine의 유효성 평가와 OTC 명령안의 자료
-
-  https://www.fda.gov/drugs/understanding-over-counter-medicines/key-information-about-nonprescription-over-counter-otc-oral-phenylephrine
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
