@@ -394,6 +394,25 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Dykewicz MS, et al. Rhinitis 2020: A practice parameter update. J Allergy Clin Immunol 2020;146(4):721-767.
+* Hellings PW, et al. Non-allergic rhinitis: Position paper of the European Academy of Allergy and Clinical Immunology. Allergy 2017;72(11):1657-1665.
+* Wise SK, et al. International consensus statement on allergy and rhinology: Allergic rhinitis - 2023. Int Forum Allergy Rhinol 2023;13(4):293-859.
+* Ellegård EK, Hellgren M, Karlsson NG. Fluticasone propionate aqueous nasal spray in pregnancy rhinitis. Clin Otolaryngol Allied Sci 2001;26(5):394-400. - 순수 임신성 비염에서 비내 스테로이드 효과를 평가한 무작위 위약 대조시험. [https://doi.org/10.1046/j.1365-2273.2001.00491.x](https://doi.org/10.1046/j.1365-2273.2001.00491.x)
+* Lundberg M, et al. Surgical Management of Non-Allergic Rhinitis - An EAACI Task Force Position Paper. Allergy 2026. doi:10.1111/all.70424. - 비-알레르기비염의 표현형별 수술·시술 선택. [https://doi.org/10.1111/all.70424](https://doi.org/10.1111/all.70424)
+* American Academy of Otolaryngology-Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Updated May 2026. - 약물치료 불응성 만성 비염의 후비신경 시술. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
+* American College of Radiology. ACR Appropriateness Criteria®: Sinonasal Disease. - 단순 비염과 구분되는 비부비동 질환·합병증·CSF 누출 의심 시 영상검사 선택. [https://acsearch.acr.org/docs/69502/Narrative/](https://acsearch.acr.org/docs/69502/Narrative/)
+* Children’s Health Queensland. Foreign body in the nose - Emergency management in children. 2025. - 비강 이물, 특히 단추형 전지의 즉시 제거 및 자석 관련 처치. [https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -448,22 +467,3 @@ graph TD
 
 **③ 코막힘 분무제(오트리빈 등)는 연속 3일 이내로 사용하고 길어도 5일을 넘기지 마세요** - 짧게 쉬면서 자주 반복 사용하면 반동성 코막힘 위험이 커질 수 있습니다.
 {% endhint %}
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Dykewicz MS, et al. Rhinitis 2020: A practice parameter update. J Allergy Clin Immunol 2020;146(4):721-767.
-* Hellings PW, et al. Non-allergic rhinitis: Position paper of the European Academy of Allergy and Clinical Immunology. Allergy 2017;72(11):1657-1665.
-* Wise SK, et al. International consensus statement on allergy and rhinology: Allergic rhinitis - 2023. Int Forum Allergy Rhinol 2023;13(4):293-859.
-* Ellegård EK, Hellgren M, Karlsson NG. Fluticasone propionate aqueous nasal spray in pregnancy rhinitis. Clin Otolaryngol Allied Sci 2001;26(5):394-400. - 순수 임신성 비염에서 비내 스테로이드 효과를 평가한 무작위 위약 대조시험. [https://doi.org/10.1046/j.1365-2273.2001.00491.x](https://doi.org/10.1046/j.1365-2273.2001.00491.x)
-* Lundberg M, et al. Surgical Management of Non-Allergic Rhinitis - An EAACI Task Force Position Paper. Allergy 2026. doi:10.1111/all.70424. - 비-알레르기비염의 표현형별 수술·시술 선택. [https://doi.org/10.1111/all.70424](https://doi.org/10.1111/all.70424)
-* American Academy of Otolaryngology-Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Updated May 2026. - 약물치료 불응성 만성 비염의 후비신경 시술. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
-* American College of Radiology. ACR Appropriateness Criteria®: Sinonasal Disease. - 단순 비염과 구분되는 비부비동 질환·합병증·CSF 누출 의심 시 영상검사 선택. [https://acsearch.acr.org/docs/69502/Narrative/](https://acsearch.acr.org/docs/69502/Narrative/)
-* Children’s Health Queensland. Foreign body in the nose - Emergency management in children. 2025. - 비강 이물, 특히 단추형 전지의 즉시 제거 및 자석 관련 처치. [https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

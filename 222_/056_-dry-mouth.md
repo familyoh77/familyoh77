@@ -399,6 +399,29 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Price EJ, et al. British Society for Rheumatology guideline on management of adult and juvenile onset Sjögren disease. Rheumatology (Oxford). 2025;64(2):409-439. [원문](https://doi.org/10.1093/rheumatology/keae152)
+* Mercadante V, et al. Salivary Gland Hypofunction and/or Xerostomia Induced by Nonsurgical Cancer Therapies: ISOO/MASCC/ASCO Guideline. J Clin Oncol. 2021;39(25):2825-2843. [원문](https://doi.org/10.1200/JCO.21.01208)
+* Hong C, et al. MASCC/ISOO Clinical Practice Statement: Management of salivary gland hypofunction and xerostomia in cancer patients. Support Care Cancer. 2024;32(8):548. [원문](https://doi.org/10.1007/s00520-024-08688-9)
+* Shiboski CH, et al. 2016 American College of Rheumatology/European League Against Rheumatism Classification Criteria for Primary Sjögren's Syndrome: A Consensus and Data-Driven Methodology Involving Three International Patient Cohorts. Arthritis Rheumatol. 2017;69(1):35-45. [원문](https://doi.org/10.1002/art.39859)
+* Fox PC, Busch KA, Baum BJ. Subjective reports of xerostomia and objective measures of salivary gland performance. J Am Dent Assoc. 1987;115(4):581-584.
+* Osailan SM, et al. Clinical assessment of oral dryness: development of a scoring system related to salivary flow and mucosal wetness. Oral Surg Oral Med Oral Pathol Oral Radiol. 2012;114(5):597-603.
+* Jager DHJ, et al. Clinical oral dryness score: evaluation of a new screening method for oral dryness. Odontology. 2018;106(4):439-444. [원문](https://doi.org/10.1007/s10266-018-0339-4)
+* Office for Health Improvement and Disparities. Delivering better oral health: an evidence-based toolkit for prevention. 4th ed. 2021. Chapter 2: summary guidance tables for dental teams. [원문](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-2-summary-guidance-tables-for-dental-teams)
+* Fregnani ER, et al. MASCC/ISOO Clinical Practice Statement: management of oral complications of immunotherapy. Support Care Cancer. 2025;33:851. [원문](https://doi.org/10.1007/s00520-025-09806-x)
+* Cohen L, et al. Acupuncture for Chronic Radiation-Induced Xerostomia in Head and Neck Cancer: A Multicenter Randomized Clinical Trial. JAMA Netw Open. 2024;7(5):e2410421. [원문](https://doi.org/10.1001/jamanetworkopen.2024.10421)
+* Linares MF, et al. Laser Acupuncture on the Management of Xerostomia in Sjögren's Disease: A Randomized Clinical Trial. Oral Dis. 2026;32(7):1912-1922. [원문](https://doi.org/10.1111/odi.70241)
+* Kamnoedboon P, et al. A Systematic Review and Meta-Analysis of the Global Prevalence of Dry Mouth in Older Adults. Gerodontology. 2026;43(3):383-402. [원문](https://doi.org/10.1111/ger.70076)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -436,26 +459,3 @@ graph TD
 * 귀 앞이나 턱 아래 침샘 부위가 **갑자기 붓고 아프면서 열이 나면** - 침샘 감염이나 결석일 수 있으므로 당일 진료받으십시오.
 * 입 안에 **흰 반점이나 하얀 막**이 생기면 - 구강 칸디다증(곰팡이 감염)일 수 있습니다.
 * 입 마름과 함께 **안구 건조, 관절통, 피로감 또는 반복되는 침샘 종창**이 동반되면 - 쇼그렌증후군 검사가 필요합니다.
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Price EJ, et al. British Society for Rheumatology guideline on management of adult and juvenile onset Sjögren disease. Rheumatology (Oxford). 2025;64(2):409-439. [원문](https://doi.org/10.1093/rheumatology/keae152)
-* Mercadante V, et al. Salivary Gland Hypofunction and/or Xerostomia Induced by Nonsurgical Cancer Therapies: ISOO/MASCC/ASCO Guideline. J Clin Oncol. 2021;39(25):2825-2843. [원문](https://doi.org/10.1200/JCO.21.01208)
-* Hong C, et al. MASCC/ISOO Clinical Practice Statement: Management of salivary gland hypofunction and xerostomia in cancer patients. Support Care Cancer. 2024;32(8):548. [원문](https://doi.org/10.1007/s00520-024-08688-9)
-* Shiboski CH, et al. 2016 American College of Rheumatology/European League Against Rheumatism Classification Criteria for Primary Sjögren's Syndrome: A Consensus and Data-Driven Methodology Involving Three International Patient Cohorts. Arthritis Rheumatol. 2017;69(1):35-45. [원문](https://doi.org/10.1002/art.39859)
-* Fox PC, Busch KA, Baum BJ. Subjective reports of xerostomia and objective measures of salivary gland performance. J Am Dent Assoc. 1987;115(4):581-584.
-* Osailan SM, et al. Clinical assessment of oral dryness: development of a scoring system related to salivary flow and mucosal wetness. Oral Surg Oral Med Oral Pathol Oral Radiol. 2012;114(5):597-603.
-* Jager DHJ, et al. Clinical oral dryness score: evaluation of a new screening method for oral dryness. Odontology. 2018;106(4):439-444. [원문](https://doi.org/10.1007/s10266-018-0339-4)
-* Office for Health Improvement and Disparities. Delivering better oral health: an evidence-based toolkit for prevention. 4th ed. 2021. Chapter 2: summary guidance tables for dental teams. [원문](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-2-summary-guidance-tables-for-dental-teams)
-* Fregnani ER, et al. MASCC/ISOO Clinical Practice Statement: management of oral complications of immunotherapy. Support Care Cancer. 2025;33:851. [원문](https://doi.org/10.1007/s00520-025-09806-x)
-* Cohen L, et al. Acupuncture for Chronic Radiation-Induced Xerostomia in Head and Neck Cancer: A Multicenter Randomized Clinical Trial. JAMA Netw Open. 2024;7(5):e2410421. [원문](https://doi.org/10.1001/jamanetworkopen.2024.10421)
-* Linares MF, et al. Laser Acupuncture on the Management of Xerostomia in Sjögren's Disease: A Randomized Clinical Trial. Oral Dis. 2026;32(7):1912-1922. [원문](https://doi.org/10.1111/odi.70241)
-* Kamnoedboon P, et al. A Systematic Review and Meta-Analysis of the Global Prevalence of Dry Mouth in Older Adults. Gerodontology. 2026;43(3):383-402. [원문](https://doi.org/10.1111/ger.70076)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

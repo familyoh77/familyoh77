@@ -366,6 +366,25 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Eye Contact Lens 2022] [Alsoudi AF, et al. Efficacy of Care and Antibiotic Use for Chalazia and Hordeola. Eye Contact Lens. 2022;48(4):162-168.](https://doi.org/10.1097/ICL.0000000000000859) - 항생제 추가와 치료 성공률에 관한 후향 관찰연구
+* \[Korean J Ophthalmol 2025] [Management Practice for Hordeolum and Chalazion: A Survey of the Korean Society of Ophthalmic Plastic and Reconstructive Surgery (KSOPRS) Members. Korean J Ophthalmol. 2025;39(3):222-240.](https://doi.org/10.3341/kjo.2025.0024) - 국내 진료 관행 설문; 치료 효과를 검증한 비교시험과 구분
+* \[UCSF IDMP] [UCSF Infectious Diseases Management Program. Periorbital/Preseptal Cellulitis.](https://idmp.ucsf.edu/content/periorbital-preseptal-cellulitis) - 소아 눈꺼풀앞 연조직염의 항생제 선택; 국내 제품별 허가 용량은 별도 적용 (확인일 2026-10-11)
+* \[Sci Rep 2021] [Jun SY, et al. Clinical characteristics of Demodex-associated recurrent hordeola: an observational, comparative study. Sci Rep. 2021;11(1):21398.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8560857/) - 재발성 다래끼군의 Demodex 검출률(59.5% vs 17.5%)
+* [Lindsley K, Nichols JJ, Dickersin K. Non-surgical interventions for acute internal hordeolum. Cochrane Database Syst Rev. 2017;1:CD007742.](https://doi.org/10.1002/14651858.CD007742.pub4) - 속다래끼 보존 치료의 무작위시험 근거 부족
+* [American Academy of Ophthalmology. What Are Chalazia and Styes?](https://www.aao.org/eye-health/diseases/what-are-chalazia-styes) - 환자 교육 자료; 알고리듬 참고 문헌 (확인일 2026-10-11)
+* [The Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Periorbital and orbital cellulitis.](https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/) - 소아 눈꺼풀앞·안와 연조직염의 평가와 입원 기준; 알고리듬 참고 문헌 (확인일 2026-10-11)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -431,22 +450,3 @@ graph TD
 **Q. 항생제를 사용해야 더 빨리 낫나요?** A. 단순 다래끼는 항생제 없이도 좋아지는 경우가 많고, 항생제를 추가해도 치료 성공률이 높아진다는 근거는 부족합니다. 항생제 안약·안연고·먹는 약은 모든 다래끼에 필요한 것이 아니며, 고름이 저절로 빠지는 것 자체는 회복 과정일 수 있습니다. 주변 피부로 감염이 퍼지거나 눈꺼풀 가장자리의 세균 감염이 함께 있는 경우 등 특정 상황에서만 의사가 선택합니다. 심한 속다래끼는 안과 평가에 따라 먹는 항생제나 배농이 필요할 수 있습니다.
 
 **Q. 다래끼가 났을 때 눈 화장을 해도 되나요?** A. 염증 부위를 자극하고 화장품이 오염될 수 있으므로 완전히 나을 때까지 피하십시오. 오래되거나 병변 발생 전후 사용하여 오염이 의심되는 마스카라와 아이라이너는 교체하는 것이 좋습니다.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Eye Contact Lens 2022] [Alsoudi AF, et al. Efficacy of Care and Antibiotic Use for Chalazia and Hordeola. Eye Contact Lens. 2022;48(4):162-168.](https://doi.org/10.1097/ICL.0000000000000859) - 항생제 추가와 치료 성공률에 관한 후향 관찰연구
-* \[Korean J Ophthalmol 2025] [Management Practice for Hordeolum and Chalazion: A Survey of the Korean Society of Ophthalmic Plastic and Reconstructive Surgery (KSOPRS) Members. Korean J Ophthalmol. 2025;39(3):222-240.](https://doi.org/10.3341/kjo.2025.0024) - 국내 진료 관행 설문; 치료 효과를 검증한 비교시험과 구분
-* \[UCSF IDMP] [UCSF Infectious Diseases Management Program. Periorbital/Preseptal Cellulitis.](https://idmp.ucsf.edu/content/periorbital-preseptal-cellulitis) - 소아 눈꺼풀앞 연조직염의 항생제 선택; 국내 제품별 허가 용량은 별도 적용 (확인일 2026-10-11)
-* \[Sci Rep 2021] [Jun SY, et al. Clinical characteristics of Demodex-associated recurrent hordeola: an observational, comparative study. Sci Rep. 2021;11(1):21398.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8560857/) - 재발성 다래끼군의 Demodex 검출률(59.5% vs 17.5%)
-* [Lindsley K, Nichols JJ, Dickersin K. Non-surgical interventions for acute internal hordeolum. Cochrane Database Syst Rev. 2017;1:CD007742.](https://doi.org/10.1002/14651858.CD007742.pub4) - 속다래끼 보존 치료의 무작위시험 근거 부족
-* [American Academy of Ophthalmology. What Are Chalazia and Styes?](https://www.aao.org/eye-health/diseases/what-are-chalazia-styes) - 환자 교육 자료; 알고리듬 참고 문헌 (확인일 2026-10-11)
-* [The Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Periorbital and orbital cellulitis.](https://www.rch.org.au/clinicalguide/guideline_index/Periorbital_and_orbital_cellulitis/) - 소아 눈꺼풀앞·안와 연조직염의 평가와 입원 기준; 알고리듬 참고 문헌 (확인일 2026-10-11)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

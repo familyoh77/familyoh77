@@ -459,6 +459,25 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[AAO-HNSF 2014] [Rosenfeld RM, et al. Clinical Practice Guideline: Acute Otitis Externa. Otolaryngol Head Neck Surg. 2014;150(1 Suppl):S1-S24.](https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/aoe/) - 국소 치료 우선·비이독성 약제 선택·48~72시간 재평가
+* \[BMJ Open 2023] [Hodgson SH, et al. UK consensus definitions for necrotising otitis externa: a Delphi study. BMJ Open. 2023;13:e061349.](https://doi.org/10.1136/bmjopen-2022-061349) - 괴사성 외이염의 합의 정의와 완치 판정
+* \[Am Fam Physician 2026] [Kasper SA, et al. Ear Pain: Diagnosing Common and Uncommon Causes. Am Fam Physician. 2026;114(3):238-247.](https://www.aafp.org/afp/2026/0900/ear-pain) - 성인 이통의 연관통 비중과 원발성·이차성 이통 감별
+* \[ACR 2025] [Agarwal M, et al. ACR Appropriateness Criteria® Inflammatory Ear Disease. J Am Coll Radiol. 2025;22(5S):S300-S318.](https://doi.org/10.1016/j.jacr.2025.02.026) - 합병 외이염·괴사성 외이염의 영상검사 선택
+* \[J Laryngol Otol 2024] [Lodhi S, et al. Diagnostic criteria and core outcome set development for necrotising otitis externa: the COSNOE Delphi consensus study. J Laryngol Otol. 2024;138:913-920.](https://pubmed.ncbi.nlm.nih.gov/38644734/) - 괴사성 외이염의 진단 기준·용어 합의
+* [Jackson EA, Geer K. Acute Otitis Externa: Rapid Evidence Review. Am Fam Physician. 2023;107(2):145-151.](https://www.aafp.org/afp/2023/0200/acute-otitis-externa) - 1차 진료의 감별과 전신 항생제 사용 범위
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* \[FDA 2025] [U.S. Food and Drug Administration. CLOTIC (clotrimazole) - Marketing Approval, 2025-09-26.](https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=520516) - 진균성 외이염 치료제의 미국 허가 확인; 국내 허가와 구분
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -503,22 +522,3 @@ graph TD
 * 귀 주변 피부가 붉게 부어오르거나 열이 날 때
 * 얼굴 한쪽이 처지거나 마비되는 느낌이 들 때 **(즉시 응급실)**
 * 당뇨 또는 면역 저하 상태에서 외이염이 낫지 않을 때
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[AAO-HNSF 2014] [Rosenfeld RM, et al. Clinical Practice Guideline: Acute Otitis Externa. Otolaryngol Head Neck Surg. 2014;150(1 Suppl):S1-S24.](https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/aoe/) - 국소 치료 우선·비이독성 약제 선택·48~72시간 재평가
-* \[BMJ Open 2023] [Hodgson SH, et al. UK consensus definitions for necrotising otitis externa: a Delphi study. BMJ Open. 2023;13:e061349.](https://doi.org/10.1136/bmjopen-2022-061349) - 괴사성 외이염의 합의 정의와 완치 판정
-* \[Am Fam Physician 2026] [Kasper SA, et al. Ear Pain: Diagnosing Common and Uncommon Causes. Am Fam Physician. 2026;114(3):238-247.](https://www.aafp.org/afp/2026/0900/ear-pain) - 성인 이통의 연관통 비중과 원발성·이차성 이통 감별
-* \[ACR 2025] [Agarwal M, et al. ACR Appropriateness Criteria® Inflammatory Ear Disease. J Am Coll Radiol. 2025;22(5S):S300-S318.](https://doi.org/10.1016/j.jacr.2025.02.026) - 합병 외이염·괴사성 외이염의 영상검사 선택
-* \[J Laryngol Otol 2024] [Lodhi S, et al. Diagnostic criteria and core outcome set development for necrotising otitis externa: the COSNOE Delphi consensus study. J Laryngol Otol. 2024;138:913-920.](https://pubmed.ncbi.nlm.nih.gov/38644734/) - 괴사성 외이염의 진단 기준·용어 합의
-* [Jackson EA, Geer K. Acute Otitis Externa: Rapid Evidence Review. Am Fam Physician. 2023;107(2):145-151.](https://www.aafp.org/afp/2023/0200/acute-otitis-externa) - 1차 진료의 감별과 전신 항생제 사용 범위
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* \[FDA 2025] [U.S. Food and Drug Administration. CLOTIC (clotrimazole) - Marketing Approval, 2025-09-26.](https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=520516) - 진균성 외이염 치료제의 미국 허가 확인; 국내 허가와 구분

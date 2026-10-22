@@ -341,6 +341,24 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [AAO-HNSF. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1 Suppl):S1-S42.](https://doi.org/10.1177/0194599817751030) - 후두경 평가 시점, 경험적 약물 제한 및 음성 치료 원칙
+* [AAO-HNS. AAO37: Dysphonia: Laryngeal Examination+. 2026.](https://www.entnet.org/resource/aao37-dysphonia-laryngeal-examination-2026/) - 2018 진료지침에 근거한 진료 질 평가 지표; 독립된 개정 진료지침은 아님
+* [Katz PO, et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56.](https://doi.org/10.14309/ajg.0000000000001538) - 식도 외 증상에서 역류검사와 PPI 시험 치료 대상 선정
+* [O'Hara J, et al. Use of proton pump inhibitors to treat persistent throat symptoms: multicentre, double blind, randomised, placebo controlled trial. BMJ. 2021;372:m4903.](https://www.bmj.com/content/372/bmj.m4903) - 지속적 인후 증상에 대한 TOPPITS 무작위시험
+* [Yadlapati R, et al. The San Diego Consensus for Laryngopharyngeal Symptoms and Laryngopharyngeal Reflux Disease. Am J Gastroenterol. 2026;121(2):322-336. 온라인 선출판 2025.](https://doi.org/10.14309/ajg.0000000000003482) - 후두 증상과 역류질환의 구분, 후두경·증상 점수만으로 LPR을 확진하지 않는 원칙
+* [대한후두음성언어의학회. Guidelines for the Management of Unilateral Vocal Fold Paralysis From the Korean Society of Laryngology, Phoniatrics and Logopedics. Clin Exp Otorhinolaryngol. 2020;13(4):340-360.](https://doi.org/10.21053/ceo.2020.00409) - 일측 성대 마비의 평가 및 흡인 위험 시 조기 성문 폐쇄 개선 치료
+* [미국 NIDCD. Hoarseness.](https://www.nidcd.nih.gov/health/hoarseness) - 성대 출혈 의심 시 즉각적인 음성 휴식과 신속한 진료
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -382,21 +400,3 @@ graph TD
 * **목쉼이 계속 악화될 때** - 4주를 기다리지 말고 조기 평가
 * **목쉼이 발병 후 4주까지 호전되지 않을 때** - 후두경 검사 또는 이비인후과 의뢰
 * **흡연력이 있거나 최근 목·가슴 수술 또는 기관삽관 후 발생했을 때** - 증상 기간과 관계없이 조기 평가
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [AAO-HNSF. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1 Suppl):S1-S42.](https://doi.org/10.1177/0194599817751030) - 후두경 평가 시점, 경험적 약물 제한 및 음성 치료 원칙
-* [AAO-HNS. AAO37: Dysphonia: Laryngeal Examination+. 2026.](https://www.entnet.org/resource/aao37-dysphonia-laryngeal-examination-2026/) - 2018 진료지침에 근거한 진료 질 평가 지표; 독립된 개정 진료지침은 아님
-* [Katz PO, et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56.](https://doi.org/10.14309/ajg.0000000000001538) - 식도 외 증상에서 역류검사와 PPI 시험 치료 대상 선정
-* [O'Hara J, et al. Use of proton pump inhibitors to treat persistent throat symptoms: multicentre, double blind, randomised, placebo controlled trial. BMJ. 2021;372:m4903.](https://www.bmj.com/content/372/bmj.m4903) - 지속적 인후 증상에 대한 TOPPITS 무작위시험
-* [Yadlapati R, et al. The San Diego Consensus for Laryngopharyngeal Symptoms and Laryngopharyngeal Reflux Disease. Am J Gastroenterol. 2026;121(2):322-336. 온라인 선출판 2025.](https://doi.org/10.14309/ajg.0000000000003482) - 후두 증상과 역류질환의 구분, 후두경·증상 점수만으로 LPR을 확진하지 않는 원칙
-* [대한후두음성언어의학회. Guidelines for the Management of Unilateral Vocal Fold Paralysis From the Korean Society of Laryngology, Phoniatrics and Logopedics. Clin Exp Otorhinolaryngol. 2020;13(4):340-360.](https://doi.org/10.21053/ceo.2020.00409) - 일측 성대 마비의 평가 및 흡인 위험 시 조기 성문 폐쇄 개선 치료
-* [미국 NIDCD. Hoarseness.](https://www.nidcd.nih.gov/health/hoarseness) - 성대 출혈 의심 시 즉각적인 음성 휴식과 신속한 진료
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

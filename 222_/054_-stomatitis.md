@@ -639,6 +639,36 @@ class REFER,FOLLOW blue
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Elad S, et al. MASCC/ISOO clinical practice guidelines for the management of mucositis secondary to cancer therapy. Cancer. 2020;126(19):4423-4431.
+* Hatemi G, et al. EULAR recommendations for the management of Behçet's syndrome: 2025 update. Ann Rheum Dis. 2026;85(6):1010-1025. doi:10.1016/j.ard.2026.02.009.
+* Hatemi G, et al. Trial of apremilast for oral ulcers in Behçet's syndrome (RELIEF). N Engl J Med. 2019;381(20):1918-1928.
+* International Team for the Revision of the International Criteria for Behçet's Disease (ITR-ICBD). The International Criteria for Behçet's Disease (ICBD). J Eur Acad Dermatol Venereol. 2014;28(3):338-347.
+* Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50.
+* Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.
+* Warnakulasuriya S, et al. Oral potentially malignant disorders: a consensus report from an international seminar on nomenclature and classification, convened by the WHO Collaborating Centre for Oral Cancer. Oral Dis. 2021;27(8):1862-1880.
+* NICE. Suspected cancer: recognition and referral (NG12).
+* Rugo HS, et al. Prevention of everolimus-related stomatitis in women with hormone receptor-positive, HER2-negative metastatic breast cancer using dexamethasone mouthwash (SWISH): a single-arm, phase 2 trial. Lancet Oncol. 2017;18(5):654-662.
+* Alli BY, et al. Effect of sodium lauryl sulfate on recurrent aphthous stomatitis: a systematic review. J Oral Pathol Med. 2019;48(5):358-364.
+* Amir J, et al. Treatment of herpes simplex gingivostomatitis with aciclovir in children: a randomised double blind placebo controlled study. BMJ. 1997;314(7097):1800-1803.
+* Ruddy KJ, et al. Dexamethasone to prevent everolimus-induced stomatitis (Alliance MIST Trial: A221701). Semin Oncol. 2023;50(1-2):7-10. doi:10.1053/j.seminoncol.2023.01.001.
+* Amarilyo G, et al. Consensus treatment plans for periodic fever, aphthous stomatitis, pharyngitis and adenitis syndrome (PFAPA): a framework to evaluate treatment responses from the childhood arthritis and rheumatology research alliance (CARRA) PFAPA work group. Pediatr Rheumatol Online J. 2020;18:31. doi:10.1186/s12969-020-00424-x.
+* Fioredda F, et al. The European Guidelines on Diagnosis and Management of Neutropenia in Adults and Children: A Consensus Between the European Hematology Association and the EuNet-INNOCHRON COST Action. HemaSphere. 2023;7(4):e872. doi:10.1097/HS9.0000000000000872.
+* Hopper SM, et al. Topical lidocaine to improve oral intake in children with painful infectious mouth ulcers: a blinded, randomized, placebo-controlled trial. Ann Emerg Med. 2014;63(3):292-299. doi:10.1016/j.annemergmed.2013.08.022.
+* NICE. Uveitis. Clinical Knowledge Summaries - 포도막염 의심 시 당일 안과 의뢰.
+* Matea DM, et al. Reactive Infectious Mucocutaneous Eruption (RIME) Associated with Mycoplasma pneumoniae: Clinical and Immunological Insights from Pediatric Cases. Microorganisms. 2026;14(2):364. doi:10.3390/microorganisms14020364.
+* 대한가정의학회. 일차진료의를 위한 호스피스·완화의료 진료 매뉴얼.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 가글 용제(품명: 헥사메딘가글액 등). 고시 제2018-253호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&mtgMtrRegSno=0023\&sno=1) - 외래 인정 용량 및 입원환자·암환자의 인정 범위
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -687,33 +717,3 @@ class REFER,FOLLOW blue
 * **면역력이 떨어진 상태**(항암 치료 중, 고용량 스테로이드 복용 중, HIV 등)에서 구내염이 생긴 경우
 * methotrexate 복용 중 심한 구내염과 함께 발열·출혈·멍이 생긴 경우 - 다음 복용을 보류하고 즉시 진료를 받으십시오
 * 갑상선약·clozapine·sulfasalazine·항암제 복용 중 **발열·인후통과 함께 입안이 허는** 경우 - 즉시 진료를 받으십시오
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Elad S, et al. MASCC/ISOO clinical practice guidelines for the management of mucositis secondary to cancer therapy. Cancer. 2020;126(19):4423-4431.
-* Hatemi G, et al. EULAR recommendations for the management of Behçet's syndrome: 2025 update. Ann Rheum Dis. 2026;85(6):1010-1025. doi:10.1016/j.ard.2026.02.009.
-* Hatemi G, et al. Trial of apremilast for oral ulcers in Behçet's syndrome (RELIEF). N Engl J Med. 2019;381(20):1918-1928.
-* International Team for the Revision of the International Criteria for Behçet's Disease (ITR-ICBD). The International Criteria for Behçet's Disease (ICBD). J Eur Acad Dermatol Venereol. 2014;28(3):338-347.
-* Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50.
-* Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.
-* Warnakulasuriya S, et al. Oral potentially malignant disorders: a consensus report from an international seminar on nomenclature and classification, convened by the WHO Collaborating Centre for Oral Cancer. Oral Dis. 2021;27(8):1862-1880.
-* NICE. Suspected cancer: recognition and referral (NG12).
-* Rugo HS, et al. Prevention of everolimus-related stomatitis in women with hormone receptor-positive, HER2-negative metastatic breast cancer using dexamethasone mouthwash (SWISH): a single-arm, phase 2 trial. Lancet Oncol. 2017;18(5):654-662.
-* Alli BY, et al. Effect of sodium lauryl sulfate on recurrent aphthous stomatitis: a systematic review. J Oral Pathol Med. 2019;48(5):358-364.
-* Amir J, et al. Treatment of herpes simplex gingivostomatitis with aciclovir in children: a randomised double blind placebo controlled study. BMJ. 1997;314(7097):1800-1803.
-* Ruddy KJ, et al. Dexamethasone to prevent everolimus-induced stomatitis (Alliance MIST Trial: A221701). Semin Oncol. 2023;50(1-2):7-10. doi:10.1053/j.seminoncol.2023.01.001.
-* Amarilyo G, et al. Consensus treatment plans for periodic fever, aphthous stomatitis, pharyngitis and adenitis syndrome (PFAPA): a framework to evaluate treatment responses from the childhood arthritis and rheumatology research alliance (CARRA) PFAPA work group. Pediatr Rheumatol Online J. 2020;18:31. doi:10.1186/s12969-020-00424-x.
-* Fioredda F, et al. The European Guidelines on Diagnosis and Management of Neutropenia in Adults and Children: A Consensus Between the European Hematology Association and the EuNet-INNOCHRON COST Action. HemaSphere. 2023;7(4):e872. doi:10.1097/HS9.0000000000000872.
-* Hopper SM, et al. Topical lidocaine to improve oral intake in children with painful infectious mouth ulcers: a blinded, randomized, placebo-controlled trial. Ann Emerg Med. 2014;63(3):292-299. doi:10.1016/j.annemergmed.2013.08.022.
-* NICE. Uveitis. Clinical Knowledge Summaries - 포도막염 의심 시 당일 안과 의뢰.
-* Matea DM, et al. Reactive Infectious Mucocutaneous Eruption (RIME) Associated with Mycoplasma pneumoniae: Clinical and Immunological Insights from Pediatric Cases. Microorganisms. 2026;14(2):364. doi:10.3390/microorganisms14020364.
-* 대한가정의학회. 일차진료의를 위한 호스피스·완화의료 진료 매뉴얼.
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 가글 용제(품명: 헥사메딘가글액 등). 고시 제2018-253호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201\&mtgMtrRegSno=0023\&sno=1) - 외래 인정 용량 및 입원환자·암환자의 인정 범위

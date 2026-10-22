@@ -565,6 +565,34 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[AAO-HNSF 2016] [Rosenfeld RM, et al. Clinical practice guideline: otitis media with effusion (update). Otolaryngol Head Neck Surg. 2016;154(1 Suppl):S1-S41.](https://doi.org/10.1177/0194599815623467) - OME의 진단·청력 검사·관찰 기간과 고위험군
+* \[NICE 2023] [NICE. Otitis media with effusion in under 12s. NICE guideline NG233. 2023.](https://www.nice.org.uk/guidance/ng233) - 초기 청력 평가·3개월 재평가, 청각기기·자가통기와 튜브·아데노이드 수술
+* \[AAO-HNSF 2022] [Rosenfeld RM, et al. Clinical practice guideline: tympanostomy tubes in children (update). Otolaryngol Head Neck Surg. 2022;166(1 Suppl):S1-S55.](https://doi.org/10.1177/01945998211065662) - 튜브 삽입 적응증(OME·rAOM), 아데노이드 병행, 튜브 이루의 국소 항생제와 추적·재삽입
+* \[AAP 2013] [Lieberthal AS, et al. The diagnosis and management of acute otitis media. Pediatrics. 2013;131(3):e964-e999.](https://doi.org/10.1542/peds.2012-3488) - rAOM 정의와 AOM 진단·치료 기준
+* \[NEJM 2021] [Hoberman A, et al. Tympanostomy Tubes or Medical Management for Recurrent Acute Otitis Media. N Engl J Med. 2021;384(19):1789-1799.](https://doi.org/10.1056/NEJMoa2027278) - 6\~35개월 rAOM에서 튜브 삽입과 약물 치료의 2년 AOM 발생률 비교
+* \[Lancet 2018] [Francis NA, et al. Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial. Lancet. 2018;392(10147):557-568.](https://doi.org/10.1016/S0140-6736\(18\)31490-9) - 경구 스테로이드의 OME 청력 개선 이득이 입증되지 않음
+* \[Cochrane 2023] [Webster KE, et al. Autoinflation for otitis media with effusion (OME) in children. Cochrane Database Syst Rev. 2023;9:CD015253.](https://doi.org/10.1002/14651858.CD015253.pub2) - 자가통기의 단기 OME·삶의 질 효과와 청력 근거의 불확실성
+* \[Cochrane 2020] [de Sévaux JLH, et al. Pneumococcal conjugate vaccines for preventing acute otitis media in children. Cochrane Database Syst Rev. 2020;11:CD001480.](https://doi.org/10.1002/14651858.CD001480.pub6) - PCV의 저위험·고위험 영아 AOM 예방 효과
+* \[Cochrane 2016] [Azarpazhooh A, et al. Xylitol for preventing acute otitis media in children up to 12 years of age. Cochrane Database Syst Rev. 2016;8:CD007095.](https://doi.org/10.1002/14651858.CD007095.pub3) - 보육시설 소아의 xylitol 예방 효과와 순응도 한계
+* \[Eur J Pediatr 2026] [Leskinen N, Renko M, Kuitunen I. Nirsevimab reduced acute otitis media infections in infants - a nationwide interrupted time-series analysis. Eur J Pediatr. 2026;185:827.](https://doi.org/10.1007/s00431-026-07508-y) - nirsevimab 도입 후 영아 AOM 발생 감소의 관찰 자료
+* \[Eur Radiol 2025] [Touska P, Connor SEJ. ESR Essentials: imaging of middle ear cholesteatoma - practice recommendations by the European Society of Head and Neck Radiology. Eur Radiol. 2025;35:2053-2064.](https://doi.org/10.1007/s00330-024-11021-x) - ESHNR 영상 권고; 진주종 CT·non-EPI DWI MRI와 합병증 영상
+* \[Cochrane 2025] [Bhutta MF, et al. Aural toilet (ear cleaning) for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013057.](https://doi.org/10.1002/14651858.CD013057.pub3) - 귀 청소 단독 효과의 불확실성
+* \[Cochrane 2025] [Head K, et al. Antibiotics versus topical antiseptics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013056.](https://doi.org/10.1002/14651858.CD013056.pub3) - 퀴놀론 점이액과 국소 살균제의 비교
+* \[Cochrane 2025] [Chong LY, et al. Topical versus systemic antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013053.](https://doi.org/10.1002/14651858.CD013053.pub3) - 국소·전신 항생제의 단기 이루 소실 비교
+* \[Cochrane 2025] [Chong LY, et al. Systemic antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013052.](https://doi.org/10.1002/14651858.CD013052.pub3) - 국소 치료에 전신 항생제를 추가하는 이득
+* \[Cochrane 2025] [Brennan-Jones CG, et al. Topical antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013051.](https://doi.org/10.1002/14651858.CD013051.pub3) - 국소 항생제 간 비교와 근거 확실성
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [통계청. 제9차 한국표준질병·사인분류(KCD-9) 개정 고시. 통계청고시 제2025-299호.](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000260878) - 질병코드 확인 (확인일 2026-10-14)
+
+***
+
 ## <mark style="color:blue;">환자 안내서 - 재발 중이염</mark>
 
 {% hint style="info" %}
@@ -592,31 +620,3 @@ graph TD
 * 귀약을 7일 넘게 써도 분비물이 계속될 때
 * 귀 뒤가 붓거나 빨개질 때, 고열이나 심한 처짐이 있을 때 **(즉시 진료)**
 * 말을 잘 못 알아듣거나 TV 소리를 크게 할 때
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[AAO-HNSF 2016] [Rosenfeld RM, et al. Clinical practice guideline: otitis media with effusion (update). Otolaryngol Head Neck Surg. 2016;154(1 Suppl):S1-S41.](https://doi.org/10.1177/0194599815623467) - OME의 진단·청력 검사·관찰 기간과 고위험군
-* \[NICE 2023] [NICE. Otitis media with effusion in under 12s. NICE guideline NG233. 2023.](https://www.nice.org.uk/guidance/ng233) - 초기 청력 평가·3개월 재평가, 청각기기·자가통기와 튜브·아데노이드 수술
-* \[AAO-HNSF 2022] [Rosenfeld RM, et al. Clinical practice guideline: tympanostomy tubes in children (update). Otolaryngol Head Neck Surg. 2022;166(1 Suppl):S1-S55.](https://doi.org/10.1177/01945998211065662) - 튜브 삽입 적응증(OME·rAOM), 아데노이드 병행, 튜브 이루의 국소 항생제와 추적·재삽입
-* \[AAP 2013] [Lieberthal AS, et al. The diagnosis and management of acute otitis media. Pediatrics. 2013;131(3):e964-e999.](https://doi.org/10.1542/peds.2012-3488) - rAOM 정의와 AOM 진단·치료 기준
-* \[NEJM 2021] [Hoberman A, et al. Tympanostomy Tubes or Medical Management for Recurrent Acute Otitis Media. N Engl J Med. 2021;384(19):1789-1799.](https://doi.org/10.1056/NEJMoa2027278) - 6\~35개월 rAOM에서 튜브 삽입과 약물 치료의 2년 AOM 발생률 비교
-* \[Lancet 2018] [Francis NA, et al. Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial. Lancet. 2018;392(10147):557-568.](https://doi.org/10.1016/S0140-6736\(18\)31490-9) - 경구 스테로이드의 OME 청력 개선 이득이 입증되지 않음
-* \[Cochrane 2023] [Webster KE, et al. Autoinflation for otitis media with effusion (OME) in children. Cochrane Database Syst Rev. 2023;9:CD015253.](https://doi.org/10.1002/14651858.CD015253.pub2) - 자가통기의 단기 OME·삶의 질 효과와 청력 근거의 불확실성
-* \[Cochrane 2020] [de Sévaux JLH, et al. Pneumococcal conjugate vaccines for preventing acute otitis media in children. Cochrane Database Syst Rev. 2020;11:CD001480.](https://doi.org/10.1002/14651858.CD001480.pub6) - PCV의 저위험·고위험 영아 AOM 예방 효과
-* \[Cochrane 2016] [Azarpazhooh A, et al. Xylitol for preventing acute otitis media in children up to 12 years of age. Cochrane Database Syst Rev. 2016;8:CD007095.](https://doi.org/10.1002/14651858.CD007095.pub3) - 보육시설 소아의 xylitol 예방 효과와 순응도 한계
-* \[Eur J Pediatr 2026] [Leskinen N, Renko M, Kuitunen I. Nirsevimab reduced acute otitis media infections in infants - a nationwide interrupted time-series analysis. Eur J Pediatr. 2026;185:827.](https://doi.org/10.1007/s00431-026-07508-y) - nirsevimab 도입 후 영아 AOM 발생 감소의 관찰 자료
-* \[Eur Radiol 2025] [Touska P, Connor SEJ. ESR Essentials: imaging of middle ear cholesteatoma - practice recommendations by the European Society of Head and Neck Radiology. Eur Radiol. 2025;35:2053-2064.](https://doi.org/10.1007/s00330-024-11021-x) - ESHNR 영상 권고; 진주종 CT·non-EPI DWI MRI와 합병증 영상
-* \[Cochrane 2025] [Bhutta MF, et al. Aural toilet (ear cleaning) for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013057.](https://doi.org/10.1002/14651858.CD013057.pub3) - 귀 청소 단독 효과의 불확실성
-* \[Cochrane 2025] [Head K, et al. Antibiotics versus topical antiseptics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013056.](https://doi.org/10.1002/14651858.CD013056.pub3) - 퀴놀론 점이액과 국소 살균제의 비교
-* \[Cochrane 2025] [Chong LY, et al. Topical versus systemic antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013053.](https://doi.org/10.1002/14651858.CD013053.pub3) - 국소·전신 항생제의 단기 이루 소실 비교
-* \[Cochrane 2025] [Chong LY, et al. Systemic antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013052.](https://doi.org/10.1002/14651858.CD013052.pub3) - 국소 치료에 전신 항생제를 추가하는 이득
-* \[Cochrane 2025] [Brennan-Jones CG, et al. Topical antibiotics for chronic suppurative otitis media. Cochrane Database Syst Rev. 2025;6:CD013051.](https://doi.org/10.1002/14651858.CD013051.pub3) - 국소 항생제 간 비교와 근거 확실성
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [통계청. 제9차 한국표준질병·사인분류(KCD-9) 개정 고시. 통계청고시 제2025-299호.](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000260878) - 질병코드 확인 (확인일 2026-10-14)

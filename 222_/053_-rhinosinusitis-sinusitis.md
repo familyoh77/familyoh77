@@ -611,6 +611,32 @@
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Payne SC, et al. Clinical Practice Guideline: Adult Sinusitis Update. Otolaryngol Head Neck Surg. 2025;173(Suppl 1):S1-S56. - 성인 ABRS 진단·주의 관찰·항생제 및 CRS 관리 [https://doi.org/10.1002/ohn.1344](https://doi.org/10.1002/ohn.1344)
+* Shin JJ, et al. Clinical Practice Guideline: Surgical Management of Chronic Rhinosinusitis. Otolaryngol Head Neck Surg. 2025;172(Suppl 2):S1-S47. - 수술 의뢰·수술 전 치료의 개별화 [https://doi.org/10.1002/ohn.1287](https://doi.org/10.1002/ohn.1287)
+* Fokkens WJ, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020 (EPOS 2020). Rhinology. 2020;58(Suppl S29):1-464. - CRS 정의·표현형·치료 경로 [https://www.epos2020.eu/Documents/supplement\_29.pdf](https://www.epos2020.eu/Documents/supplement_29.pdf)
+* Fokkens WJ, et al. EPOS/EUFOREA update on indication and evaluation of Biologics in Chronic Rhinosinusitis with Nasal Polyps 2023. Rhinology. 2023;61(3):194-202. - 생물학적 제제 선정·반응 평가 [https://doi.org/10.4193/Rhin22.489](https://doi.org/10.4193/Rhin22.489)
+* Chow AW, et al. IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults. Clin Infect Dis. 2012;54(8):e72-e112. - 중증 발병 기준·고용량 항생제·치료 실패 평가 [https://doi.org/10.1093/cid/cis370](https://doi.org/10.1093/cid/cis370)
+* Wald ER, et al. Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years. Pediatrics. 2013;132(1):e262-e280. - 소아 진단·관찰·항생제 치료 [https://publications.aap.org/pediatrics/article/132/1/e262/31288/](https://publications.aap.org/pediatrics/article/132/1/e262/31288/)
+* NICE. Sinusitis (acute): antimicrobial prescribing (NG79). 2017. - 대증 치료·비내 스테로이드·임신 중 항생제 선택; 영국 권고와 국내 허가 구분 [https://www.nice.org.uk/guidance/ng79](https://www.nice.org.uk/guidance/ng79)
+* 대한감염학회 외. 성인 급성 상기도 감염 항생제 사용 지침. 2017. - 국내 성인 급성 세균성 비부비동염 항생제 선택
+* Philpott C, et al. The clinical effectiveness of clarithromycin versus endoscopic sinus surgery for adults with chronic rhinosinusitis with and without nasal polyps (MACRO): a pragmatic, multicentre, three-arm, randomised, placebo-controlled phase 4 trial. Lancet. 2025;406(10506):926-939. - 장기 clarithromycin의 일률적 사용을 지지하지 않는 무작위시험 [https://doi.org/10.1016/S0140-6736(25)01248-6](https://doi.org/10.1016/S0140-6736\(25\)01248-6)
+* American Academy of Pediatrics, Committee on Infectious Diseases. Red Book: 2024-2027 Report of the Committee on Infectious Diseases. 33rd ed. Systems-Based Treatment Table: Acute sinusitis. - 소아 급성 세균성 비부비동염의 항생제 선택 및 5\~7일 치료기간. [https://publications.aap.org/redbook/book/755/chapter/14074070/Systems-Based-Treatment-Table](https://publications.aap.org/redbook/book/755/chapter/14074070/Systems-Based-Treatment-Table)
+* Khan DA, et al. Drug allergy: A 2022 practice parameter update. J Allergy Clin Immunol 2022;150(6):1333-1393. - AERD에서의 진통제 선택 및 중증 지연형 약물 과민반응 평가. [https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
+
+* [건강보험심사평가원. 고시 제2026-159호 - 약제 급여기준(dupilumab).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801\&sno=1\&mtgMtrRegSno=0005) - CRSwNP 및 동반 질환별 급여 범위 확인
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -662,29 +688,3 @@
 
 **③ 증상이 10일 이상 지속되거나 갑자기 나빠지면 병원을 방문하세요** - 세균 감염으로 진행했거나 합병증이 생겼을 수 있습니다.
 {% endhint %}
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Payne SC, et al. Clinical Practice Guideline: Adult Sinusitis Update. Otolaryngol Head Neck Surg. 2025;173(Suppl 1):S1-S56. - 성인 ABRS 진단·주의 관찰·항생제 및 CRS 관리 [https://doi.org/10.1002/ohn.1344](https://doi.org/10.1002/ohn.1344)
-* Shin JJ, et al. Clinical Practice Guideline: Surgical Management of Chronic Rhinosinusitis. Otolaryngol Head Neck Surg. 2025;172(Suppl 2):S1-S47. - 수술 의뢰·수술 전 치료의 개별화 [https://doi.org/10.1002/ohn.1287](https://doi.org/10.1002/ohn.1287)
-* Fokkens WJ, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020 (EPOS 2020). Rhinology. 2020;58(Suppl S29):1-464. - CRS 정의·표현형·치료 경로 [https://www.epos2020.eu/Documents/supplement\_29.pdf](https://www.epos2020.eu/Documents/supplement_29.pdf)
-* Fokkens WJ, et al. EPOS/EUFOREA update on indication and evaluation of Biologics in Chronic Rhinosinusitis with Nasal Polyps 2023. Rhinology. 2023;61(3):194-202. - 생물학적 제제 선정·반응 평가 [https://doi.org/10.4193/Rhin22.489](https://doi.org/10.4193/Rhin22.489)
-* Chow AW, et al. IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults. Clin Infect Dis. 2012;54(8):e72-e112. - 중증 발병 기준·고용량 항생제·치료 실패 평가 [https://doi.org/10.1093/cid/cis370](https://doi.org/10.1093/cid/cis370)
-* Wald ER, et al. Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years. Pediatrics. 2013;132(1):e262-e280. - 소아 진단·관찰·항생제 치료 [https://publications.aap.org/pediatrics/article/132/1/e262/31288/](https://publications.aap.org/pediatrics/article/132/1/e262/31288/)
-* NICE. Sinusitis (acute): antimicrobial prescribing (NG79). 2017. - 대증 치료·비내 스테로이드·임신 중 항생제 선택; 영국 권고와 국내 허가 구분 [https://www.nice.org.uk/guidance/ng79](https://www.nice.org.uk/guidance/ng79)
-* 대한감염학회 외. 성인 급성 상기도 감염 항생제 사용 지침. 2017. - 국내 성인 급성 세균성 비부비동염 항생제 선택
-* Philpott C, et al. The clinical effectiveness of clarithromycin versus endoscopic sinus surgery for adults with chronic rhinosinusitis with and without nasal polyps (MACRO): a pragmatic, multicentre, three-arm, randomised, placebo-controlled phase 4 trial. Lancet. 2025;406(10506):926-939. - 장기 clarithromycin의 일률적 사용을 지지하지 않는 무작위시험 [https://doi.org/10.1016/S0140-6736(25)01248-6](https://doi.org/10.1016/S0140-6736\(25\)01248-6)
-* American Academy of Pediatrics, Committee on Infectious Diseases. Red Book: 2024-2027 Report of the Committee on Infectious Diseases. 33rd ed. Systems-Based Treatment Table: Acute sinusitis. - 소아 급성 세균성 비부비동염의 항생제 선택 및 5\~7일 치료기간. [https://publications.aap.org/redbook/book/755/chapter/14074070/Systems-Based-Treatment-Table](https://publications.aap.org/redbook/book/755/chapter/14074070/Systems-Based-Treatment-Table)
-* Khan DA, et al. Drug allergy: A 2022 practice parameter update. J Allergy Clin Immunol 2022;150(6):1333-1393. - AERD에서의 진통제 선택 및 중증 지연형 약물 과민반응 평가. [https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보. - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-
-  [https://nedrug.mfds.go.kr/index](https://nedrug.mfds.go.kr/index)
-
-* [건강보험심사평가원. 고시 제2026-159호 - 약제 급여기준(dupilumab).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260801\&sno=1\&mtgMtrRegSno=0005) - CRSwNP 및 동반 질환별 급여 범위 확인

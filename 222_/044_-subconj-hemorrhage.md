@@ -211,6 +211,25 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[PLoS One 2015] [Hu DN, et al. Incidence of Non-Traumatic Subconjunctival Hemorrhage in a Nationwide Study in Taiwan from 2000 to 2011. PLoS One. 2015;10(7):e0132762.](https://doi.org/10.1371/journal.pone.0132762) - 청구자료 기반 발생률·위험 인자
+* \[Sci Rep 2023] [Hong IH, Cho BJ, Choi SH. Association between subconjunctival hemorrhage and hemorrhagic disorders: a nationwide population-based study. Sci Rep. 2023;13(1):22237.](https://doi.org/10.1038/s41598-023-49428-z) - 국내 표본코호트에서 뇌출혈·주요 위장관 출혈 위험
+* \[J Am Heart Assoc 2024] [Javaid M, et al. Bleeding Risk in Patients Receiving Omega-3 Polyunsaturated Fatty Acids: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. J Am Heart Assoc. 2024;13:e032390.](https://doi.org/10.1161/JAHA.123.032390) - 일반 오메가-3와 고용량 정제 EPA의 출혈 위험; SCH 직접 근거와 구분
+* [Tarlan B, Kiratli H. Subconjunctival hemorrhage: risk factors and potential indicators. Clin Ophthalmol. 2013;7:1163-1170.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3702240/) - 재발·지속성 출혈과 전신 원인 평가
+* [American Academy of Ophthalmology, EyeWiki. Subconjunctival Hemorrhage.](https://eyewiki.org/Subconjunctival_Hemorrhage) - 감별 및 관리 알고리듬 참고 (확인일 2026-10-11)
+* [StatPearls. Subconjunctival Hemorrhage.](https://www.ncbi.nlm.nih.gov/books/NBK551666/) - 감별 및 관리 알고리듬 참고 (확인일 2026-10-11)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 히알루론산나트륨 점안제 급여기준. 고시 제2024-235호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&sno=3&mtgMtrRegSno=0005) - 내인성 각결막상피장애 급여 대상과 1일 사용량 (확인일 2026-10-11)
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -269,22 +288,3 @@ graph TD
 
 **전부 '해당 없음'이고, 눈을 다치지 않았으며, 다른 부위 출혈이나 열이 없다면 경과를 관찰합니다. 아기에게 생긴 경우는 병원을 방문하십시오.**
 {% endhint %}
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[PLoS One 2015] [Hu DN, et al. Incidence of Non-Traumatic Subconjunctival Hemorrhage in a Nationwide Study in Taiwan from 2000 to 2011. PLoS One. 2015;10(7):e0132762.](https://doi.org/10.1371/journal.pone.0132762) - 청구자료 기반 발생률·위험 인자
-* \[Sci Rep 2023] [Hong IH, Cho BJ, Choi SH. Association between subconjunctival hemorrhage and hemorrhagic disorders: a nationwide population-based study. Sci Rep. 2023;13(1):22237.](https://doi.org/10.1038/s41598-023-49428-z) - 국내 표본코호트에서 뇌출혈·주요 위장관 출혈 위험
-* \[J Am Heart Assoc 2024] [Javaid M, et al. Bleeding Risk in Patients Receiving Omega-3 Polyunsaturated Fatty Acids: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. J Am Heart Assoc. 2024;13:e032390.](https://doi.org/10.1161/JAHA.123.032390) - 일반 오메가-3와 고용량 정제 EPA의 출혈 위험; SCH 직접 근거와 구분
-* [Tarlan B, Kiratli H. Subconjunctival hemorrhage: risk factors and potential indicators. Clin Ophthalmol. 2013;7:1163-1170.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3702240/) - 재발·지속성 출혈과 전신 원인 평가
-* [American Academy of Ophthalmology, EyeWiki. Subconjunctival Hemorrhage.](https://eyewiki.org/Subconjunctival_Hemorrhage) - 감별 및 관리 알고리듬 참고 (확인일 2026-10-11)
-* [StatPearls. Subconjunctival Hemorrhage.](https://www.ncbi.nlm.nih.gov/books/NBK551666/) - 감별 및 관리 알고리듬 참고 (확인일 2026-10-11)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 히알루론산나트륨 점안제 급여기준. 고시 제2024-235호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&sno=3&mtgMtrRegSno=0005) - 내인성 각결막상피장애 급여 대상과 1일 사용량 (확인일 2026-10-11)

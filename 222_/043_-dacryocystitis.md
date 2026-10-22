@@ -295,6 +295,20 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Am J Rhinol Allergy 2024] [Li J, Wang J, Sun C. Early Endonasal Dacryocystorhinostomy for Acute Dacryocystitis: A Systematic Review and Meta-Analysis. Am J Rhinol Allergy. 2024;38(3):185-191.](https://doi.org/10.1177/19458924241237009) - 급성기 조기 수술과 지연 수술의 비교
+* [American Academy of Ophthalmology, EyeWiki. Dacryocystitis.](https://eyewiki.org/Dacryocystitis) - 누낭염의 감별·전신 항생제·배농 및 수술 판단 (확인일 2026-10-11)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -329,17 +343,3 @@ graph TD
 * **시력이 흐려지거나, 눈을 돌리기 불편하거나, 눈이 튀어나오는 느낌**이 드는 경우 - 응급 상황
 * **양쪽 눈이 붓거나 물체가 두 개로 보이고, 심한 두통 또는 졸림·의식 변화**가 동반되는 경우 - 발열 유무와 관계없이 응급 상황
 * 아기의 눈 안쪽 아래가 빨갛게 붓는 경우에는 집에서 누르거나 마사지하지 말고 당일 진료를 받으십시오. 생후 1개월 이내 아기라면 응급 상황입니다.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Am J Rhinol Allergy 2024] [Li J, Wang J, Sun C. Early Endonasal Dacryocystorhinostomy for Acute Dacryocystitis: A Systematic Review and Meta-Analysis. Am J Rhinol Allergy. 2024;38(3):185-191.](https://doi.org/10.1177/19458924241237009) - 급성기 조기 수술과 지연 수술의 비교
-* [American Academy of Ophthalmology, EyeWiki. Dacryocystitis.](https://eyewiki.org/Dacryocystitis) - 누낭염의 감별·전신 항생제·배농 및 수술 판단 (확인일 2026-10-11)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

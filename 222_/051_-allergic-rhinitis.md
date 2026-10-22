@@ -720,6 +720,35 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Sousa-Pinto B, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines-2024-2025 Revision: Part I-Guidelines on Intranasal Treatments. Allergy 2025. [https://doi.org/10.1111/all.70131](https://doi.org/10.1111/all.70131)
+* Vieira RJ, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines-2024-2025 Revision: Part II-Guidelines on Oral and Ocular Treatments. Allergy 2026. [https://doi.org/10.1111/all.70305](https://doi.org/10.1111/all.70305)
+* 대한천식알레르기학회. 알레르기비염 진료지침: 파트 1. 약물치료의 업데이트. Allergy Asthma Respir Dis 2023;11(3):117-125. [https://doi.org/10.4168/aard.2023.11.3.117](https://doi.org/10.4168/aard.2023.11.3.117)
+* 대한천식알레르기학회. 알레르기비염 진료지침: 파트 2. 비약물치료의 업데이트. Allergy Asthma Respir Dis 2023;11(3):126-134. [https://doi.org/10.4168/aard.2023.11.3.126](https://doi.org/10.4168/aard.2023.11.3.126)
+* Min JY, et al. The KAAACI Guidelines for Sublingual Immunotherapy. Allergy Asthma Immunol Res 2024;16(1):9-21. [https://doi.org/10.4168/aair.2024.16.1.9](https://doi.org/10.4168/aair.2024.16.1.9)
+* Wise SK, et al. International Consensus Statement on Allergy and Rhinology: Allergic Rhinitis-2023. Int Forum Allergy Rhinol 2023;13(4):293-859.
+* Bousquet J, et al. Next-generation Allergic Rhinitis and Its Impact on Asthma (ARIA) guidelines for allergic rhinitis based on Grading of Recommendations Assessment, Development and Evaluation (GRADE) and real-world evidence. J Allergy Clin Immunol 2020;145(1):70-80.e3. [https://doi.org/10.1016/j.jaci.2019.06.049](https://doi.org/10.1016/j.jaci.2019.06.049)
+* Dykewicz MS, et al. Rhinitis 2020: A practice parameter update. J Allergy Clin Immunol 2020;146(4):721-767.
+* Scadding GK, et al. BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis (Revised Edition 2017). Clin Exp Allergy 2017;47(7):856-889.
+* Rajan JP, et al. Prevalence of aspirin-exacerbated respiratory disease among asthmatic patients: A meta-analysis. J Allergy Clin Immunol 2015;135(3):676-681.
+* Rondón C, et al. Specific immunotherapy in local allergic rhinitis: A randomized, double-blind placebo-controlled trial with Phleum pratense subcutaneous allergen immunotherapy. Allergy 2018;73(4):905-915. [https://doi.org/10.1111/all.13350](https://doi.org/10.1111/all.13350)
+* Lee LA, et al. Growth velocity reduced with once-daily fluticasone furoate nasal spray in prepubescent children with perennial allergic rhinitis. J Allergy Clin Immunol Pract 2014. [https://pubmed.ncbi.nlm.nih.gov/25017530/](https://pubmed.ncbi.nlm.nih.gov/25017530/)
+* Bérard A, et al. Intranasal triamcinolone use during pregnancy and the risk of adverse pregnancy outcomes. J Allergy Clin Immunol 2016;138(1):97-104.e7. [https://doi.org/10.1016/j.jaci.2016.01.021](https://doi.org/10.1016/j.jaci.2016.01.021)
+* American Academy of Otolaryngology-Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Approved 2023, updated 2026. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
+* U.S. FDA. FDA requires Boxed Warning about serious mental health side effects for asthma and allergy drug montelukast (Singulair); advises restricting use for allergic rhinitis. 2020. [https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug)
+* U.S. FDA. FDA requires warning about rare but severe itching after stopping long-term use of oral allergy medicines cetirizine or levocetirizine (Zyrtec, Xyzal, and other trade names). 2025. [https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines)
+* Khan DA, et al. Drug allergy: A 2022 practice parameter update. J Allergy Clin Immunol 2022;150(6):1333-1393. - AERD에서의 진통제 선택 및 중증 지연형 약물 과민반응 평가. [https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 보험인정기준 - 약제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000410) - LTRA·비강분무 복합제 등의 급여 범위 확인; 리알트리스 소아 급여 확대는 보건복지부 고시 제2026-42호(2026년 3월 1일 시행)에 반영
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -809,32 +838,3 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 **③ 코 세척을 생활화하세요** - 올바른 물과 세척액을 사용한 하루 1\~2회 생리식염수 코 세척은 증상 완화에 도움이 되는 안전한 보조요법입니다.
 {% endhint %}
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Sousa-Pinto B, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines-2024-2025 Revision: Part I-Guidelines on Intranasal Treatments. Allergy 2025. [https://doi.org/10.1111/all.70131](https://doi.org/10.1111/all.70131)
-* Vieira RJ, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines-2024-2025 Revision: Part II-Guidelines on Oral and Ocular Treatments. Allergy 2026. [https://doi.org/10.1111/all.70305](https://doi.org/10.1111/all.70305)
-* 대한천식알레르기학회. 알레르기비염 진료지침: 파트 1. 약물치료의 업데이트. Allergy Asthma Respir Dis 2023;11(3):117-125. [https://doi.org/10.4168/aard.2023.11.3.117](https://doi.org/10.4168/aard.2023.11.3.117)
-* 대한천식알레르기학회. 알레르기비염 진료지침: 파트 2. 비약물치료의 업데이트. Allergy Asthma Respir Dis 2023;11(3):126-134. [https://doi.org/10.4168/aard.2023.11.3.126](https://doi.org/10.4168/aard.2023.11.3.126)
-* Min JY, et al. The KAAACI Guidelines for Sublingual Immunotherapy. Allergy Asthma Immunol Res 2024;16(1):9-21. [https://doi.org/10.4168/aair.2024.16.1.9](https://doi.org/10.4168/aair.2024.16.1.9)
-* Wise SK, et al. International Consensus Statement on Allergy and Rhinology: Allergic Rhinitis-2023. Int Forum Allergy Rhinol 2023;13(4):293-859.
-* Bousquet J, et al. Next-generation Allergic Rhinitis and Its Impact on Asthma (ARIA) guidelines for allergic rhinitis based on Grading of Recommendations Assessment, Development and Evaluation (GRADE) and real-world evidence. J Allergy Clin Immunol 2020;145(1):70-80.e3. [https://doi.org/10.1016/j.jaci.2019.06.049](https://doi.org/10.1016/j.jaci.2019.06.049)
-* Dykewicz MS, et al. Rhinitis 2020: A practice parameter update. J Allergy Clin Immunol 2020;146(4):721-767.
-* Scadding GK, et al. BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis (Revised Edition 2017). Clin Exp Allergy 2017;47(7):856-889.
-* Rajan JP, et al. Prevalence of aspirin-exacerbated respiratory disease among asthmatic patients: A meta-analysis. J Allergy Clin Immunol 2015;135(3):676-681.
-* Rondón C, et al. Specific immunotherapy in local allergic rhinitis: A randomized, double-blind placebo-controlled trial with Phleum pratense subcutaneous allergen immunotherapy. Allergy 2018;73(4):905-915. [https://doi.org/10.1111/all.13350](https://doi.org/10.1111/all.13350)
-* Lee LA, et al. Growth velocity reduced with once-daily fluticasone furoate nasal spray in prepubescent children with perennial allergic rhinitis. J Allergy Clin Immunol Pract 2014. [https://pubmed.ncbi.nlm.nih.gov/25017530/](https://pubmed.ncbi.nlm.nih.gov/25017530/)
-* Bérard A, et al. Intranasal triamcinolone use during pregnancy and the risk of adverse pregnancy outcomes. J Allergy Clin Immunol 2016;138(1):97-104.e7. [https://doi.org/10.1016/j.jaci.2016.01.021](https://doi.org/10.1016/j.jaci.2016.01.021)
-* American Academy of Otolaryngology-Head and Neck Surgery. Position Statement: PNN Ablation for the Treatment of Chronic Rhinitis. Approved 2023, updated 2026. [https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/](https://www.entnet.org/resource/position-statement-posterior-nasal-nerve/)
-* U.S. FDA. FDA requires Boxed Warning about serious mental health side effects for asthma and allergy drug montelukast (Singulair); advises restricting use for allergic rhinitis. 2020. [https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug)
-* U.S. FDA. FDA requires warning about rare but severe itching after stopping long-term use of oral allergy medicines cetirizine or levocetirizine (Zyrtec, Xyzal, and other trade names). 2025. [https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines)
-* Khan DA, et al. Drug allergy: A 2022 practice parameter update. J Allergy Clin Immunol 2022;150(6):1333-1393. - AERD에서의 진통제 선택 및 중증 지연형 약물 과민반응 평가. [https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf](https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 보험인정기준 - 약제 급여기준.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000410) - LTRA·비강분무 복합제 등의 급여 범위 확인; 리알트리스 소아 급여 확대는 보건복지부 고시 제2026-42호(2026년 3월 1일 시행)에 반영

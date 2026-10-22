@@ -338,6 +338,25 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Ophthalmology 2024] [American Academy of Ophthalmology. Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86.](https://www.aaojournal.org/article/S0161-6420%2824%2900008-3/fulltext) - 안검염·MGD 치료 및 전신 약제의 선택적 사용
+* \[Am J Ophthalmol 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
+* \[JAMA Ophthalmol 2023] [Upaphong P, Tangmonkongvoragul C, Phinyo P. Pulsed Oral Azithromycin vs 6-Week Oral Doxycycline for Moderate to Severe Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2023;141(5):423-429.](https://doi.org/10.1001/jamaophthalmol.2023.0302) - 중등도~중증 MGD에서 두 경구 항생제의 효과·내약성 비교
+* \[NEJM 2018] [Dry Eye Assessment and Management Study Research Group. n-3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med. 2018;378:1681-1690.](https://doi.org/10.1056/NEJMoa1709691) - DREAM trial; 오메가-3 보충의 효과 평가
+* \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
+* \[J Ocul Pharmacol Ther 2025] [Hong S, et al. A Multicenter, Randomized, Clinical Trial Assessing the Effect of rTG-Omega 3 Supplementation on Meibomian Gland Dysfunction Patients after Cataract Surgery. J Ocul Pharmacol Ther. 2025;41(2):65-74.](https://doi.org/10.1089/jop.2024.0160) - 백내장 수술 후 MGD 환자 대상 국내 다기관시험
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [U.S. Food and Drug Administration. Drugs@FDA - FDA-Approved Drugs.](https://www.accessdata.fda.gov/scripts/cder/daf/) - 국외 허가 약제의 제품별 허가서·처방정보 확인; 국내 허가와 구분
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -393,22 +412,3 @@ graph TD
 * 아이에게 안검염이 있으면서 눈부심이나 충혈이 심한 경우(뚜렷한 각막 이상·시력 저하·심한 통증이 있으면 즉시 진료)
 * 눈꺼풀 병변이 **한쪽만 점점 악화**되거나, 궤양·출혈이 생기는 경우
 * **2\~4주 이상 관리해도 호전이 없는 경우**
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Ophthalmology 2024] [American Academy of Ophthalmology. Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86.](https://www.aaojournal.org/article/S0161-6420%2824%2900008-3/fulltext) - 안검염·MGD 치료 및 전신 약제의 선택적 사용
-* \[Am J Ophthalmol 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
-* \[JAMA Ophthalmol 2023] [Upaphong P, Tangmonkongvoragul C, Phinyo P. Pulsed Oral Azithromycin vs 6-Week Oral Doxycycline for Moderate to Severe Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2023;141(5):423-429.](https://doi.org/10.1001/jamaophthalmol.2023.0302) - 중등도~중증 MGD에서 두 경구 항생제의 효과·내약성 비교
-* \[NEJM 2018] [Dry Eye Assessment and Management Study Research Group. n-3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med. 2018;378:1681-1690.](https://doi.org/10.1056/NEJMoa1709691) - DREAM trial; 오메가-3 보충의 효과 평가
-* \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
-* \[J Ocul Pharmacol Ther 2025] [Hong S, et al. A Multicenter, Randomized, Clinical Trial Assessing the Effect of rTG-Omega 3 Supplementation on Meibomian Gland Dysfunction Patients after Cataract Surgery. J Ocul Pharmacol Ther. 2025;41(2):65-74.](https://doi.org/10.1089/jop.2024.0160) - 백내장 수술 후 MGD 환자 대상 국내 다기관시험
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [U.S. Food and Drug Administration. Drugs@FDA - FDA-Approved Drugs.](https://www.accessdata.fda.gov/scripts/cder/daf/) - 국외 허가 약제의 제품별 허가서·처방정보 확인; 국내 허가와 구분

@@ -332,6 +332,25 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Br J Ophthalmol 2019] [Sa HS, et al. Prognostic factors for local recurrence, metastasis and survival for sebaceous carcinoma of the eyelid: observations in 100 patients. Br J Ophthalmol. 2019;103(7):980-984.](https://doi.org/10.1136/bjophthalmol-2018-312635) - 피지선암의 림프절 전이율과 5년 질환특이생존율
+* \[Korean J Ophthalmol 2025] [Management Practice for Hordeolum and Chalazion: A Survey of the Korean Society of Ophthalmic Plastic and Reconstructive Surgery (KSOPRS) Members. Korean J Ophthalmol. 2025;39(3):222-240.](https://doi.org/10.3341/kjo.2025.0024) - 국내 진료 관행 설문; 치료 효과를 검증한 비교시험과 구분
+* \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
+* \[Ophthalmic Plast Reconstr Surg 2016] [Aycinena ARP, et al. Incision and Curettage Versus Steroid Injection for the Treatment of Chalazia: A Meta-Analysis. Ophthalmic Plast Reconstr Surg. 2016;32(3):220-224.](https://doi.org/10.1097/IOP.0000000000000483) - 병변 내 주사와 절개·소파술의 성공률 비교
+* \[Am J Ophthalmol 2011] [Ben Simon GJ, et al. Intralesional triamcinolone acetonide injection versus incision and curettage for primary chalazia: a prospective, randomized study. Am J Ophthalmol. 2011;151(4):714-718.](https://pubmed.ncbi.nlm.nih.gov/21257145/) - 본문에 제시한 단일 무작위시험의 치료 성공률
+* \[Eye Contact Lens 2022] [Alsoudi AF, et al. Efficacy of Care and Antibiotic Use for Chalazia and Hordeola. Eye Contact Lens. 2022;48(4):162-168.](https://doi.org/10.1097/ICL.0000000000000859) - 항생제 추가와 치료 성공률에 관한 후향 관찰연구
+* [Park JK, Vyas C, Dagi Glass LR. Chalazia: A Scoping Review to Identify the Evidence Behind Treatments. Ophthalmic Plast Reconstr Surg. 2025;41:134-142.](https://doi.org/10.1097/IOP.0000000000002840) - 치료법별 근거 정리; 알고리듬 참고 문헌
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -396,22 +415,3 @@ graph TD
 **Q. 콩다래끼를 손으로 짜면 안 되나요?** A. 삼가십시오. 강하게 누르거나 짜면 염증이 퍼져 감염·연조직염(눈꺼풀 주변 피부 감염)으로 악화될 수 있습니다.
 
 **Q. 같은 자리에 계속 재발하는데 왜 그런가요?** A. 동일 부위의 반복 재발은 마이봄샘 기능 장애, 지루피부염, rosacea 등 기저 원인이 있는 경우가 많습니다. 드물게는 피지선암이 콩다래끼처럼 보일 수 있으므로 안과에서 재평가하고, 비전형 소견이 있으면 생검을 고려해야 합니다.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Br J Ophthalmol 2019] [Sa HS, et al. Prognostic factors for local recurrence, metastasis and survival for sebaceous carcinoma of the eyelid: observations in 100 patients. Br J Ophthalmol. 2019;103(7):980-984.](https://doi.org/10.1136/bjophthalmol-2018-312635) - 피지선암의 림프절 전이율과 5년 질환특이생존율
-* \[Korean J Ophthalmol 2025] [Management Practice for Hordeolum and Chalazion: A Survey of the Korean Society of Ophthalmic Plastic and Reconstructive Surgery (KSOPRS) Members. Korean J Ophthalmol. 2025;39(3):222-240.](https://doi.org/10.3341/kjo.2025.0024) - 국내 진료 관행 설문; 치료 효과를 검증한 비교시험과 구분
-* \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
-* \[Ophthalmic Plast Reconstr Surg 2016] [Aycinena ARP, et al. Incision and Curettage Versus Steroid Injection for the Treatment of Chalazia: A Meta-Analysis. Ophthalmic Plast Reconstr Surg. 2016;32(3):220-224.](https://doi.org/10.1097/IOP.0000000000000483) - 병변 내 주사와 절개·소파술의 성공률 비교
-* \[Am J Ophthalmol 2011] [Ben Simon GJ, et al. Intralesional triamcinolone acetonide injection versus incision and curettage for primary chalazia: a prospective, randomized study. Am J Ophthalmol. 2011;151(4):714-718.](https://pubmed.ncbi.nlm.nih.gov/21257145/) - 본문에 제시한 단일 무작위시험의 치료 성공률
-* \[Eye Contact Lens 2022] [Alsoudi AF, et al. Efficacy of Care and Antibiotic Use for Chalazia and Hordeola. Eye Contact Lens. 2022;48(4):162-168.](https://doi.org/10.1097/ICL.0000000000000859) - 항생제 추가와 치료 성공률에 관한 후향 관찰연구
-* [Park JK, Vyas C, Dagi Glass LR. Chalazia: A Scoping Review to Identify the Evidence Behind Treatments. Ophthalmic Plast Reconstr Surg. 2025;41:134-142.](https://doi.org/10.1097/IOP.0000000000002840) - 치료법별 근거 정리; 알고리듬 참고 문헌
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

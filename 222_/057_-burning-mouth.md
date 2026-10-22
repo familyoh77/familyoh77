@@ -408,6 +408,29 @@ class T orange
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Headache Classification Committee of the International Headache Society. The International Classification of Headache Disorders, 3rd edition (ICHD-3). Cephalalgia. 2018;38(1):1-211. - 13.11 Burning mouth syndrome 및 13.2.1 Glossopharyngeal neuralgia. [BMS 진단 기준](https://ichd-3.org/13-painful-cranial-neuropathies-and-other-facial-pains/13-11-burning-mouth-syndrome-bms/); [설인신경통 진단 기준](https://ichd-3.org/13-painful-cranial-neuropathies-and-other-facial-pains/13-2-glossopharyngeal-neuralgia/13-2-1-glossopharyngeal-neuralgia/)
+* International Classification of Orofacial Pain, 1st edition (ICOP). Cephalalgia. 2020;40(2):129-221. [원문](https://doi.org/10.1177/0333102419893823)
+* Currie CC, et al. Developing a research diagnostic criteria for burning mouth syndrome: Results from an international Delphi process. J Oral Rehabil. 2021;48(3):308-331. [원문](https://doi.org/10.1111/joor.13123)
+* El-Rubaiy M, et al. Optimized and validated clinical diagnostic criteria for burning mouth syndrome. Cephalalgia. 2026;46(6):03331024261455835. - 수정 기준 제안 연구이며 공식 ICHD-3/ICOP-1 개정을 의미하지 않음. [원문](https://doi.org/10.1177/03331024261455835)
+* Wu S, et al. Worldwide prevalence estimates of burning mouth syndrome: A systematic review and meta-analysis. Oral Dis. 2022;28(6):1431-1440. [원문](https://doi.org/10.1111/odi.13868)
+* Alvarenga-Brant R, et al. Treatments for Burning Mouth Syndrome: A Network Meta-analysis. J Dent Res. 2023;102(2):135-145. [원문](https://doi.org/10.1177/00220345221130025)
+* Gremeau-Richard C, et al. Topical clonazepam in stomatodynia: a randomised placebo-controlled study. Pain. 2004;108(1-2):51-57. [서지](https://pubmed.ncbi.nlm.nih.gov/15109507/)
+* Aravena-Ávila CL, Santander-Sandoval JF, Rivera C. Clinical–Psychological Characteristics and Clonazepam Outcomes in Burning Mouth Syndrome: A Systematic Review Based on the SWiM Approach. J Oral Pathol Med. 2026;55(9):994-1007. [원문](https://doi.org/10.1111/jop.70164)
+* Lu C, Zhou X, Yang C, et al. Efficacy and safety of photobiomodulation combined with oral cryotherapy on oral mucosa pain in patients with burning mouth syndrome: a multi-institutional, randomized, controlled trial. BMC Med. 2025;23:196. [원문](https://doi.org/10.1186/s12916-025-04015-z)
+* de Andrade Silva AP, et al. Is Capsaicin Effective in Relieving the Symptoms of Burning Mouth Syndrome? A Systematic Review. J Oral Rehabil. 2026;53(10):1985-1996. [원문](https://doi.org/10.1111/joor.70275)
+* EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA). Scientific opinion on the relationship between intake of alpha-lipoic acid (thioctic acid) and the risk of insulin autoimmune syndrome. EFSA J. 2021;19(6):6577. [원문](https://doi.org/10.2903/j.efsa.2021.6577)
+* Health Canada. Summary Safety Review - Alpha Lipoic Acid - Assessing the Potential Risk of Low Blood Sugar (Hypoglycemic Episodes). 2016. [안전성 검토](https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-alpha-lipoic-acid-assessing-potential-risk-low-blood-sugar-hypoglycemic.html)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -449,26 +472,3 @@ class T orange
 * **한쪽 얼굴이나 혀의 감각 변화가 새로 생기면** 신속히 진료받으십시오. **갑자기 발생했거나 말이 어눌해짐·팔다리 힘 빠짐·시력 이상 등이 동반되면 즉시 119에 도움을 요청하십시오**
 
 > 💡 **기억하세요:** 스트레스나 불안이 증상을 악화시킬 수 있습니다. 심리적으로 힘든 부분이 있다면 함께 상담해 주세요. 인지행동치료(CBT)는 통증에 대처하고 동반 불안·수면 문제를 관리하는 데 도움이 될 수 있습니다.
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Headache Classification Committee of the International Headache Society. The International Classification of Headache Disorders, 3rd edition (ICHD-3). Cephalalgia. 2018;38(1):1-211. - 13.11 Burning mouth syndrome 및 13.2.1 Glossopharyngeal neuralgia. [BMS 진단 기준](https://ichd-3.org/13-painful-cranial-neuropathies-and-other-facial-pains/13-11-burning-mouth-syndrome-bms/); [설인신경통 진단 기준](https://ichd-3.org/13-painful-cranial-neuropathies-and-other-facial-pains/13-2-glossopharyngeal-neuralgia/13-2-1-glossopharyngeal-neuralgia/)
-* International Classification of Orofacial Pain, 1st edition (ICOP). Cephalalgia. 2020;40(2):129-221. [원문](https://doi.org/10.1177/0333102419893823)
-* Currie CC, et al. Developing a research diagnostic criteria for burning mouth syndrome: Results from an international Delphi process. J Oral Rehabil. 2021;48(3):308-331. [원문](https://doi.org/10.1111/joor.13123)
-* El-Rubaiy M, et al. Optimized and validated clinical diagnostic criteria for burning mouth syndrome. Cephalalgia. 2026;46(6):03331024261455835. - 수정 기준 제안 연구이며 공식 ICHD-3/ICOP-1 개정을 의미하지 않음. [원문](https://doi.org/10.1177/03331024261455835)
-* Wu S, et al. Worldwide prevalence estimates of burning mouth syndrome: A systematic review and meta-analysis. Oral Dis. 2022;28(6):1431-1440. [원문](https://doi.org/10.1111/odi.13868)
-* Alvarenga-Brant R, et al. Treatments for Burning Mouth Syndrome: A Network Meta-analysis. J Dent Res. 2023;102(2):135-145. [원문](https://doi.org/10.1177/00220345221130025)
-* Gremeau-Richard C, et al. Topical clonazepam in stomatodynia: a randomised placebo-controlled study. Pain. 2004;108(1-2):51-57. [서지](https://pubmed.ncbi.nlm.nih.gov/15109507/)
-* Aravena-Ávila CL, Santander-Sandoval JF, Rivera C. Clinical–Psychological Characteristics and Clonazepam Outcomes in Burning Mouth Syndrome: A Systematic Review Based on the SWiM Approach. J Oral Pathol Med. 2026;55(9):994-1007. [원문](https://doi.org/10.1111/jop.70164)
-* Lu C, Zhou X, Yang C, et al. Efficacy and safety of photobiomodulation combined with oral cryotherapy on oral mucosa pain in patients with burning mouth syndrome: a multi-institutional, randomized, controlled trial. BMC Med. 2025;23:196. [원문](https://doi.org/10.1186/s12916-025-04015-z)
-* de Andrade Silva AP, et al. Is Capsaicin Effective in Relieving the Symptoms of Burning Mouth Syndrome? A Systematic Review. J Oral Rehabil. 2026;53(10):1985-1996. [원문](https://doi.org/10.1111/joor.70275)
-* EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA). Scientific opinion on the relationship between intake of alpha-lipoic acid (thioctic acid) and the risk of insulin autoimmune syndrome. EFSA J. 2021;19(6):6577. [원문](https://doi.org/10.2903/j.efsa.2021.6577)
-* Health Canada. Summary Safety Review - Alpha Lipoic Acid - Assessing the Potential Risk of Low Blood Sugar (Hypoglycemic Episodes). 2016. [안전성 검토](https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-alpha-lipoic-acid-assessing-potential-risk-low-blood-sugar-hypoglycemic.html)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

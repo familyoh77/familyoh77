@@ -384,6 +384,46 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Tunkel DE, et al. [Clinical Practice Guideline: Nosebleed (Epistaxis)](https://doi.org/10.1177/0194599819890327). Otolaryngol Head Neck Surg 2020;162(1 Suppl):S1-S38
+  * 초기 지혈, 흡수성 패킹, 내시경 평가, 소작 범위 및 항혈전제 복용자 관리의 기본 근거
+* Reuben A, et al. [The Use of Tranexamic Acid to Reduce the Need for Nasal Packing in Epistaxis (NoPAC): Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/33612282/). Ann Emerg Med 2021;77(6):631-640
+  * 압박·혈관수축제 후 지속 출혈 성인에서 국소 TXA의 패킹 감소 효과가 확인되지 않은 다기관 RCT
+* Hosseinialhashemi M, et al. [Intranasal Topical Application of Tranexamic Acid in Atraumatic Anterior Epistaxis: A Double-Blind Randomized Clinical Trial](https://doi.org/10.1016/j.annemergmed.2022.04.010). Ann Emerg Med 2022;80(3):182-188
+  * 국소 TXA의 패킹 필요성 감소를 보고한 RCT; NoPAC과 대상·적용법 차이에 유의
+* Drake I, et al. [Is It Safe to Cauterise Both Sides of the Nasal Septum at the Same Time in Children With Nosebleeds?](https://doi.org/10.1111/coa.14258). Clin Otolaryngol 2025;50(2):295-299
+  * 제한적인 양측 동시 질산은 소작의 소아 후향 안전성 자료; 무위험을 확정하는 근거는 아님
+* Lou Z, et al. [Efficacy and Safety of Simultaneous Bilateral Nasal Cauterization in Pediatric Recurrent Anterior Epistaxis: A Prospective Randomized Controlled Trial](https://doi.org/10.1177/19458924261437216). Am J Rhinol Allergy 2026;40(5):394-401
+  * 소아 양측 소작에서 질산은·전기·고주파 방식별 효과·합병증을 비교한 소규모 RCT
+* Tran QK, et al. [Is antibiotic prophylaxis necessary for anterior epistaxis with packing? Insights from a large database](https://doi.org/10.1016/j.ajem.2025.03.040). Am J Emerg Med 2025;93:64-72
+* Tran QK, et al. [Prophylactic antibiotics for immunosuppressed individuals with anterior nasal packing: A propensity score matched analysis](https://doi.org/10.1016/j.ajem.2025.10.065). Am J Emerg Med 2026;99:451-470 (온라인 출판 2025)
+  * 두 연구 모두 관찰연구로, 전방 패킹의 일률적인 예방적 항생제 이득이 확인되지 않음; 수술 후·후방 패킹에 그대로 일반화하지 않음
+* Tomaselli GF, et al. [2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants](https://doi.org/10.1016/j.jacc.2020.04.053). J Am Coll Cardiol 2020;76(5):594-622
+  * 출혈 중증도·항응고 강도·혈전 위험에 따른 중단·역전·재개 판단
+* O'Shea RS, et al. [AGA Clinical Practice Guideline on the Management of Coagulation Disorders in Patients With Cirrhosis](https://doi.org/10.1053/j.gastro.2021.08.015). Gastroenterology 2021;161(5):1615-1627.e1
+  * 간경변에서 INR 단독 판단 및 예방적 교정의 한계
+* Faughnan ME, et al. [Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia](https://hhtguidelines.org/). Ann Intern Med 2020;173(12):989-1001
+  * HHT 진단·빈혈 평가 및 단계별 코피 관리; 진단 기준은 현행 지침 사이트의 진단·보충표도 확인
+* Al-Samkari H, et al. [Pomalidomide for Epistaxis in Hereditary Hemorrhagic Telangiectasia](https://doi.org/10.1056/NEJMoa2312749). N Engl J Med 2024;391(11):1015-1027
+* Zhang E, et al. [Pomalidomide for hereditary hemorrhagic telangiectasia: after trial longitudinal assessment study (PATH-HHT ATLAS)](https://doi.org/10.1182/bloodadvances.2025018382). Blood Adv 2026;10(5):1799-1808
+  * HHT 코피의 pomalidomide 무작위시험 및 후속 장기 관찰연구; 전문기관의 허가 외 치료 판단 근거
+* Connell NT, et al. [ASH ISTH NHF WFH 2021 guidelines on the management of von Willebrand disease](https://doi.org/10.1182/bloodadvances.2020003264). Blood Adv 2021;5(1):301-325
+  * DDAVP의 반응 평가·금기 및 저나트륨혈증 예방 근거
+* Royal Children's Hospital Melbourne. [Epistaxis](https://www.rch.org.au/clinicalguide/guideline_index/Epistaxis/); [Nasal fracture](https://www.rch.org.au/clinicalguide/guideline_index/Nasal_fracture/)
+* Children's Health Queensland. [Foreign body in the nose - Emergency management in children](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose)
+  * 소아 출혈·외상 및 버튼전지·자석 이물의 긴급도 확인
+* Mayo Clinic. [Petroleum jelly: Safe for a dry nose?](https://www.mayoclinic.org/diseases-conditions/pneumonia/expert-answers/petroleum-jelly/faq-20057784)
+  * 장기간 비강 내 지방성 연고 사용과 드문 지방성 폐렴 위험에 관한 확인 자료
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -458,43 +498,3 @@ graph TD
 
 **③ 지혈 후 최소 24시간은 코를 세게 풀거나 후비지 마세요** - 새로 형성된 혈전이 떨어져 재출혈이 생길 수 있습니다. 재채기는 입을 열고 하십시오. 소작 치료를 받았다면 보통 최소 1주간 코 풀기와 격렬한 활동을 피하고, 소작·패킹 후에는 의료진이 안내한 관리 기간을 따르십시오.
 {% endhint %}
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Tunkel DE, et al. [Clinical Practice Guideline: Nosebleed (Epistaxis)](https://doi.org/10.1177/0194599819890327). Otolaryngol Head Neck Surg 2020;162(1 Suppl):S1-S38
-  * 초기 지혈, 흡수성 패킹, 내시경 평가, 소작 범위 및 항혈전제 복용자 관리의 기본 근거
-* Reuben A, et al. [The Use of Tranexamic Acid to Reduce the Need for Nasal Packing in Epistaxis (NoPAC): Randomized Controlled Trial](https://pubmed.ncbi.nlm.nih.gov/33612282/). Ann Emerg Med 2021;77(6):631-640
-  * 압박·혈관수축제 후 지속 출혈 성인에서 국소 TXA의 패킹 감소 효과가 확인되지 않은 다기관 RCT
-* Hosseinialhashemi M, et al. [Intranasal Topical Application of Tranexamic Acid in Atraumatic Anterior Epistaxis: A Double-Blind Randomized Clinical Trial](https://doi.org/10.1016/j.annemergmed.2022.04.010). Ann Emerg Med 2022;80(3):182-188
-  * 국소 TXA의 패킹 필요성 감소를 보고한 RCT; NoPAC과 대상·적용법 차이에 유의
-* Drake I, et al. [Is It Safe to Cauterise Both Sides of the Nasal Septum at the Same Time in Children With Nosebleeds?](https://doi.org/10.1111/coa.14258). Clin Otolaryngol 2025;50(2):295-299
-  * 제한적인 양측 동시 질산은 소작의 소아 후향 안전성 자료; 무위험을 확정하는 근거는 아님
-* Lou Z, et al. [Efficacy and Safety of Simultaneous Bilateral Nasal Cauterization in Pediatric Recurrent Anterior Epistaxis: A Prospective Randomized Controlled Trial](https://doi.org/10.1177/19458924261437216). Am J Rhinol Allergy 2026;40(5):394-401
-  * 소아 양측 소작에서 질산은·전기·고주파 방식별 효과·합병증을 비교한 소규모 RCT
-* Tran QK, et al. [Is antibiotic prophylaxis necessary for anterior epistaxis with packing? Insights from a large database](https://doi.org/10.1016/j.ajem.2025.03.040). Am J Emerg Med 2025;93:64-72
-* Tran QK, et al. [Prophylactic antibiotics for immunosuppressed individuals with anterior nasal packing: A propensity score matched analysis](https://doi.org/10.1016/j.ajem.2025.10.065). Am J Emerg Med 2026;99:451-470 (온라인 출판 2025)
-  * 두 연구 모두 관찰연구로, 전방 패킹의 일률적인 예방적 항생제 이득이 확인되지 않음; 수술 후·후방 패킹에 그대로 일반화하지 않음
-* Tomaselli GF, et al. [2020 ACC Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants](https://doi.org/10.1016/j.jacc.2020.04.053). J Am Coll Cardiol 2020;76(5):594-622
-  * 출혈 중증도·항응고 강도·혈전 위험에 따른 중단·역전·재개 판단
-* O'Shea RS, et al. [AGA Clinical Practice Guideline on the Management of Coagulation Disorders in Patients With Cirrhosis](https://doi.org/10.1053/j.gastro.2021.08.015). Gastroenterology 2021;161(5):1615-1627.e1
-  * 간경변에서 INR 단독 판단 및 예방적 교정의 한계
-* Faughnan ME, et al. [Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia](https://hhtguidelines.org/). Ann Intern Med 2020;173(12):989-1001
-  * HHT 진단·빈혈 평가 및 단계별 코피 관리; 진단 기준은 현행 지침 사이트의 진단·보충표도 확인
-* Al-Samkari H, et al. [Pomalidomide for Epistaxis in Hereditary Hemorrhagic Telangiectasia](https://doi.org/10.1056/NEJMoa2312749). N Engl J Med 2024;391(11):1015-1027
-* Zhang E, et al. [Pomalidomide for hereditary hemorrhagic telangiectasia: after trial longitudinal assessment study (PATH-HHT ATLAS)](https://doi.org/10.1182/bloodadvances.2025018382). Blood Adv 2026;10(5):1799-1808
-  * HHT 코피의 pomalidomide 무작위시험 및 후속 장기 관찰연구; 전문기관의 허가 외 치료 판단 근거
-* Connell NT, et al. [ASH ISTH NHF WFH 2021 guidelines on the management of von Willebrand disease](https://doi.org/10.1182/bloodadvances.2020003264). Blood Adv 2021;5(1):301-325
-  * DDAVP의 반응 평가·금기 및 저나트륨혈증 예방 근거
-* Royal Children's Hospital Melbourne. [Epistaxis](https://www.rch.org.au/clinicalguide/guideline_index/Epistaxis/); [Nasal fracture](https://www.rch.org.au/clinicalguide/guideline_index/Nasal_fracture/)
-* Children's Health Queensland. [Foreign body in the nose - Emergency management in children](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose)
-  * 소아 출혈·외상 및 버튼전지·자석 이물의 긴급도 확인
-* Mayo Clinic. [Petroleum jelly: Safe for a dry nose?](https://www.mayoclinic.org/diseases-conditions/pneumonia/expert-answers/petroleum-jelly/faq-20057784)
-  * 장기간 비강 내 지방성 연고 사용과 드문 지방성 폐렴 위험에 관한 확인 자료
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

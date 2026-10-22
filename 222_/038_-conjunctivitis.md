@@ -621,6 +621,26 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Ophthalmology 2024] [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙
+* \[ARIA-EAACI 2026] [Vieira RJ, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines - 2024-2025 Revision: Part II - Guidelines on Oral and Ocular Treatments. Allergy. 2026;81(6):1947-1970.](https://doi.org/10.1111/all.70305) - 경구·점안 항히스타민제 비교 등 알레르기 치료 권고
+* \[Cochrane 2023] [Chen YY, et al. Antibiotics versus placebo for acute bacterial conjunctivitis. Cochrane Database Syst Rev. 2023;3:CD001211.](https://doi.org/10.1002/14651858.CD001211.pub4) - 항생제의 회복률 개선과 자연 회복
+* \[CDC 2021] [Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.](https://www.cdc.gov/mmwr/volumes/70/rr/rr7004a1.htm) - 임균·클라미디아 결막염과 신생아 감염의 전신 치료
+* \[MMWR 2018] [Cope JR, et al. Corneal Infections Associated with Sleeping in Contact Lenses - Six Cases, United States, 2016-2018. MMWR Morb Mortal Wkly Rep. 2018;67(32):877-881.](https://www.cdc.gov/mmwr/volumes/67/wr/mm6732a2.htm) - 렌즈 착용 중 수면과 각막 감염 위험
+* [Leonardi A, et al. Management of ocular allergy. Allergy. 2019;74(9):1611-1630.](https://doi.org/10.1111/all.13786) - 점안 약제 분류와 알레르기 결막염 치료 (안약제 종류 표 참고 문헌)
+* Differentiating conjunctivitis of diverse origins. Surv Ophthalmol. 1993;38 Suppl. - 원인별 결막염 감별 (감별표 참고 문헌)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -667,23 +687,3 @@ _<mark style="color:$info;">Ref. Vieira RJ, et al. ARIA-EAACI Guidelines - 2024-
 * 콘택트렌즈 착용 중 **통증·눈부심·시력저하**가 있으면 기다리지 말고 **즉시** 병원을 방문하십시오.
 * 생후 4주(28일) 이내 신생아에게 눈 충혈이나 분비물이 나타나는 경우
 * 화학물질이 눈에 들어간 경우 - 즉시 충분히 씻어내면서 응급 진료
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Ophthalmology 2024] [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙
-* \[ARIA-EAACI 2026] [Vieira RJ, et al. Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines - 2024-2025 Revision: Part II - Guidelines on Oral and Ocular Treatments. Allergy. 2026;81(6):1947-1970.](https://doi.org/10.1111/all.70305) - 경구·점안 항히스타민제 비교 등 알레르기 치료 권고
-* \[Cochrane 2023] [Chen YY, et al. Antibiotics versus placebo for acute bacterial conjunctivitis. Cochrane Database Syst Rev. 2023;3:CD001211.](https://doi.org/10.1002/14651858.CD001211.pub4) - 항생제의 회복률 개선과 자연 회복
-* \[CDC 2021] [Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.](https://www.cdc.gov/mmwr/volumes/70/rr/rr7004a1.htm) - 임균·클라미디아 결막염과 신생아 감염의 전신 치료
-* \[MMWR 2018] [Cope JR, et al. Corneal Infections Associated with Sleeping in Contact Lenses - Six Cases, United States, 2016-2018. MMWR Morb Mortal Wkly Rep. 2018;67(32):877-881.](https://www.cdc.gov/mmwr/volumes/67/wr/mm6732a2.htm) - 렌즈 착용 중 수면과 각막 감염 위험
-* [Leonardi A, et al. Management of ocular allergy. Allergy. 2019;74(9):1611-1630.](https://doi.org/10.1111/all.13786) - 점안 약제 분류와 알레르기 결막염 치료 (안약제 종류 표 참고 문헌)
-* Differentiating conjunctivitis of diverse origins. Surv Ophthalmol. 1993;38 Suppl. - 원인별 결막염 감별 (감별표 참고 문헌)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)

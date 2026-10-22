@@ -360,6 +360,26 @@ _Candida auri&#x73;_&#xC758; 내성·의료기관 감염관리와 무증상 집�
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/)
+* Cornely OA, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. Lancet Infect Dis. 2025;25(5):e280-e293. - 구강인두·식도 칸디다증은 부록 pp 141\~144 참조. [서지](https://pubmed.ncbi.nlm.nih.gov/39956121/)
+* Scheibler E, et al. Stability and efficacy of combined nystatin and chlorhexidine against suspensions and biofilms of Candida albicans. Arch Oral Biol. 2018;89:70-76. doi:10.1016/j.archoralbio.2018.02.009. - 시험관 연구; 임상적으로 검증된 최소 투여 간격을 제시하는 근거는 아님. [서지](https://pubmed.ncbi.nlm.nih.gov/29477025/)
+* Baldino MEL, et al. Nystatin effect on chlorhexidine efficacy against Streptococcus mutans as planktonic cells and mixed biofilm with Candida albicans. Clin Oral Investig. 2022;26(1):633-642. doi:10.1007/s00784-021-04041-0. - 시험관 연구; 병용 상호작용의 임상적 영향은 미확립. [서지](https://pubmed.ncbi.nlm.nih.gov/34160701/)
+* National Institutes of Health. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Candidiasis (Mucocutaneous). - 빈번하거나 중증인 재발에서의 선택적 억제요법 및 임신 중 치료 원칙. [지침](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/candidiasis)
+* Global Initiative for Asthma. Summary Guide for Asthma Management and Prevention. 2026. - 유지치료용 ICS 사용 후 구강 세척과 pMDI의 spacer 사용. [자료](https://ginasthma.org/2026-gina-summary-guide/)
+* NHS. How and when to take or use nystatin. - 구강 현탁액 사용 후 약 30분간 음식·음료 회피. [복약 안내](https://www.nhs.uk/medicines/nystatin/how-and-when-to-take-or-use-nystatin/)
+* Mølgaard-Nielsen D, et al. Association Between Use of Oral Fluconazole During Pregnancy and Risk of Spontaneous Abortion and Stillbirth. JAMA. 2016;315(1):58-67. [서지](https://pubmed.ncbi.nlm.nih.gov/26746458/)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* 건강보험심사평가원. \[일반원칙] 항진균제. - Posaconazole의 침습성 진균감염 예방 및 항진균제별 급여 인정 범위. [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0018)
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -399,23 +419,3 @@ _Candida auri&#x73;_&#xC758; 내성·의료기관 감염관리와 무증상 집�
 * 발열이나 전신 쇠약감이 동반되는 경우
 * 치료 3일 내 좋아지는 경향이 없거나 7일 후에도 증상·병변이 지속되는 경우
 * 흰 반점이 닦아도 지워지지 않거나 점점 커지는 경우
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/)
-* Cornely OA, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. Lancet Infect Dis. 2025;25(5):e280-e293. - 구강인두·식도 칸디다증은 부록 pp 141\~144 참조. [서지](https://pubmed.ncbi.nlm.nih.gov/39956121/)
-* Scheibler E, et al. Stability and efficacy of combined nystatin and chlorhexidine against suspensions and biofilms of Candida albicans. Arch Oral Biol. 2018;89:70-76. doi:10.1016/j.archoralbio.2018.02.009. - 시험관 연구; 임상적으로 검증된 최소 투여 간격을 제시하는 근거는 아님. [서지](https://pubmed.ncbi.nlm.nih.gov/29477025/)
-* Baldino MEL, et al. Nystatin effect on chlorhexidine efficacy against Streptococcus mutans as planktonic cells and mixed biofilm with Candida albicans. Clin Oral Investig. 2022;26(1):633-642. doi:10.1007/s00784-021-04041-0. - 시험관 연구; 병용 상호작용의 임상적 영향은 미확립. [서지](https://pubmed.ncbi.nlm.nih.gov/34160701/)
-* National Institutes of Health. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Candidiasis (Mucocutaneous). - 빈번하거나 중증인 재발에서의 선택적 억제요법 및 임신 중 치료 원칙. [지침](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/candidiasis)
-* Global Initiative for Asthma. Summary Guide for Asthma Management and Prevention. 2026. - 유지치료용 ICS 사용 후 구강 세척과 pMDI의 spacer 사용. [자료](https://ginasthma.org/2026-gina-summary-guide/)
-* NHS. How and when to take or use nystatin. - 구강 현탁액 사용 후 약 30분간 음식·음료 회피. [복약 안내](https://www.nhs.uk/medicines/nystatin/how-and-when-to-take-or-use-nystatin/)
-* Mølgaard-Nielsen D, et al. Association Between Use of Oral Fluconazole During Pregnancy and Risk of Spontaneous Abortion and Stillbirth. JAMA. 2016;315(1):58-67. [서지](https://pubmed.ncbi.nlm.nih.gov/26746458/)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* 건강보험심사평가원. \[일반원칙] 항진균제. - Posaconazole의 침습성 진균감염 예방 및 항진균제별 급여 인정 범위. [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701\&sno=2\&mtgMtrRegSno=0018)

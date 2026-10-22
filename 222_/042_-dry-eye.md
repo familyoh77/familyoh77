@@ -449,6 +449,24 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Am J Ophthalmol 2025] [Wolffsohn JS, et al. TFOS DEWS III: Diagnostic Methodology. Am J Ophthalmol. 2025;279:387-450.](https://doi.org/10.1016/j.ajo.2025.05.033) - OSDI-6, 눈물막 검사와 원인 기전 평가
+* \[Am J Ophthalmol 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
+* \[NEJM 2018] [Dry Eye Assessment and Management Study Research Group. n-3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med. 2018;378:1681-1690.](https://doi.org/10.1056/NEJMoa1709691) - DREAM trial; 오메가-3 보충의 효과 평가
+* \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
+* [Kim DH, et al. New Korean Guidelines for the Diagnosis and Management of Dry Eye Disease. Korean J Ophthalmol. 2024;38(2):156-163.](https://doi.org/10.3341/kjo.2023.0076) - 국내 건성안 진단·치료 지침
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -490,21 +508,3 @@ graph TD
 * 인공 눈물 등 치료를 해도 **4\~6주 이내에 호전이 없는 경우** - 외래 재평가
 * 구강 건조·반복되는 침샘 부종·관절통 등 전신 증상이 함께 나타나는 경우 - Sjögren syndrome 등 감별을 위한 외래 평가
 * 치료를 꾸준히 했는데도 통증·불편감이 계속 심한 경우 - 외래 재평가
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Am J Ophthalmol 2025] [Wolffsohn JS, et al. TFOS DEWS III: Diagnostic Methodology. Am J Ophthalmol. 2025;279:387-450.](https://doi.org/10.1016/j.ajo.2025.05.033) - OSDI-6, 눈물막 검사와 원인 기전 평가
-* \[Am J Ophthalmol 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
-* \[NEJM 2018] [Dry Eye Assessment and Management Study Research Group. n-3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med. 2018;378:1681-1690.](https://doi.org/10.1056/NEJMoa1709691) - DREAM trial; 오메가-3 보충의 효과 평가
-* \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
-* [Kim DH, et al. New Korean Guidelines for the Diagnosis and Management of Dry Eye Disease. Korean J Ophthalmol. 2024;38(2):156-163.](https://doi.org/10.3341/kjo.2023.0076) - 국내 건성안 진단·치료 지침
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)

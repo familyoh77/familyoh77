@@ -292,6 +292,27 @@ _※ 2024년 ACEP는 엄격하게 선별한 성인 단순 각막 미란(simple c
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Cochrane 2025] [Ng SM, et al. Antibiotic prophylaxis for corneal abrasion. Cochrane Database Syst Rev. 2025;9:CD014617.](https://doi.org/10.1002/14651858.CD014617.pub3) - 예방적 항생제 효과와 근거 확실성의 한계
+* \[Cochrane 2016] [Lim CHL, Turner A, Lim BX. Patching for corneal abrasion. Cochrane Database Syst Rev. 2016;7:CD004764.](https://www.cochrane.org/evidence/CD004764_eye-patches-corneal-abrasion) - 단순 각막 찰과상에서 눈 패치의 효과
+* \[Acad Emerg Med 2021] [Yu CW, et al. Topical pain control for corneal abrasions: A systematic review and meta-analysis. Acad Emerg Med. 2021;28(8):890-908.](https://doi.org/10.1111/acem.14222) - 국소 NSAID의 48시간 통증 감소와 경구 진통제 사용 감소
+* \[Am Fam Physician 2013] [Wipperman JL, Dorsch JN. Evaluation and management of corneal abrasions. Am Fam Physician. 2013;87(2):114-120.](https://www.aafp.org/pubs/afp/issues/2013/0115/p114.html) - 재진 기준과 파상풍 예방
+* \[Ann Emerg Med 2024] [Green SM, et al. Use of Topical Anesthetics in the Management of Patients With Simple Corneal Abrasions: Consensus Guidelines From the American College of Emergency Physicians. Ann Emerg Med. 2024;83(5):477-489.](https://doi.org/10.1016/j.annemergmed.2024.01.004) - 엄격히 선별된 단순 각막 찰과상에 대한 제한적 권고
+* \[Cochrane 2023] [Sulewski M, et al. Topical ophthalmic anesthetics for corneal abrasions. Cochrane Database Syst Rev. 2023;8:CD015091.](https://doi.org/10.1002/14651858.CD015091.pub2) - 국소 마취제의 통증·상피 치유·합병증 근거 확실성 평가 (본문 "Cochrane(2023)")
+* [Leslie L, Liu SH, Kuo IC. Topical ophthalmic anesthetics for corneal abrasions: findings from a Cochrane systematic review and meta-analysis. Commun Med. 2025;5:393.](https://doi.org/10.1038/s43856-025-00979-4) - 국소 마취제 외래 자가사용의 유효성·안전성 근거 한계
+* [American Academy of Ophthalmology, EyeWiki. Removal of Corneal Foreign Bodies.](https://eyewiki.org/Removal_of_Corneal_Foreign_Bodies) - 각막 이물 제거·관통 손상 감별 및 추적 (확인일 2026-10-11)
+* [MSD Manual Professional Version. How To Remove a Foreign Body From the Eye.](https://www.msdmanuals.com/professional/eye-disorders/how-to-do-eye-procedures/how-to-remove-a-foreign-body-from-the-eye) - 표면·박힌 이물 제거 방법과 주의사항 (확인일 2026-10-11)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -349,24 +370,3 @@ _※ 2024년 ACEP는 엄격하게 선별한 성인 단순 각막 미란(simple c
 * 일반 안경은 측면 보호가 없어 충분하지 않습니다. 작업용 보호 안경을 별도로 사용하십시오.
 * 콘택트렌즈 착용자는 이물이 렌즈 아래에 끼기 쉬우므로 작업 시 특히 주의가 필요합니다.
 * 잔디 깎기, 화단 관리 등 야외 작업에서도 분진·식물 파편이 눈에 들어갈 수 있으므로 보호 안경 착용을 권장합니다.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Cochrane 2025] [Ng SM, et al. Antibiotic prophylaxis for corneal abrasion. Cochrane Database Syst Rev. 2025;9:CD014617.](https://doi.org/10.1002/14651858.CD014617.pub3) - 예방적 항생제 효과와 근거 확실성의 한계
-* \[Cochrane 2016] [Lim CHL, Turner A, Lim BX. Patching for corneal abrasion. Cochrane Database Syst Rev. 2016;7:CD004764.](https://www.cochrane.org/evidence/CD004764_eye-patches-corneal-abrasion) - 단순 각막 찰과상에서 눈 패치의 효과
-* \[Acad Emerg Med 2021] [Yu CW, et al. Topical pain control for corneal abrasions: A systematic review and meta-analysis. Acad Emerg Med. 2021;28(8):890-908.](https://doi.org/10.1111/acem.14222) - 국소 NSAID의 48시간 통증 감소와 경구 진통제 사용 감소
-* \[Am Fam Physician 2013] [Wipperman JL, Dorsch JN. Evaluation and management of corneal abrasions. Am Fam Physician. 2013;87(2):114-120.](https://www.aafp.org/pubs/afp/issues/2013/0115/p114.html) - 재진 기준과 파상풍 예방
-* \[Ann Emerg Med 2024] [Green SM, et al. Use of Topical Anesthetics in the Management of Patients With Simple Corneal Abrasions: Consensus Guidelines From the American College of Emergency Physicians. Ann Emerg Med. 2024;83(5):477-489.](https://doi.org/10.1016/j.annemergmed.2024.01.004) - 엄격히 선별된 단순 각막 찰과상에 대한 제한적 권고
-* \[Cochrane 2023] [Sulewski M, et al. Topical ophthalmic anesthetics for corneal abrasions. Cochrane Database Syst Rev. 2023;8:CD015091.](https://doi.org/10.1002/14651858.CD015091.pub2) - 국소 마취제의 통증·상피 치유·합병증 근거 확실성 평가 (본문 "Cochrane(2023)")
-* [Leslie L, Liu SH, Kuo IC. Topical ophthalmic anesthetics for corneal abrasions: findings from a Cochrane systematic review and meta-analysis. Commun Med. 2025;5:393.](https://doi.org/10.1038/s43856-025-00979-4) - 국소 마취제 외래 자가사용의 유효성·안전성 근거 한계
-* [American Academy of Ophthalmology, EyeWiki. Removal of Corneal Foreign Bodies.](https://eyewiki.org/Removal_of_Corneal_Foreign_Bodies) - 각막 이물 제거·관통 손상 감별 및 추적 (확인일 2026-10-11)
-* [MSD Manual Professional Version. How To Remove a Foreign Body From the Eye.](https://www.msdmanuals.com/professional/eye-disorders/how-to-do-eye-procedures/how-to-remove-a-foreign-body-from-the-eye) - 표면·박힌 이물 제거 방법과 주의사항 (확인일 2026-10-11)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

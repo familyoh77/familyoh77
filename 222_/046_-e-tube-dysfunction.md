@@ -446,6 +446,30 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[JAMA Otolaryngol Head Neck Surg 2019] [Shan A, et al. Prevalence of Eustachian Tube Dysfunction in Adults in the United States. JAMA Otolaryngol Head Neck Surg. 2019;145(10):974-975.](https://doi.org/10.1001/jamaoto.2019.1917) - tympanometry 기준 미국 성인 유병률(4.6%)
+* \[Am J Emerg Med 1998] [Jones JS, Sheffield W, White LJ, Bloom MA. A double-blind comparison between oral pseudoephedrine and topical oxymetazoline in the prevention of barotrauma during air travel. Am J Emerg Med. 1998;16(3):262-264.](https://pubmed.ncbi.nlm.nih.gov/9596428/) - 비행 전 pseudoephedrine 120 ㎎과 oxymetazoline의 압력손상 예방 비교
+* \[PLoS One 2018] [Smith ME, et al. Eustachian tube dysfunction: A diagnostic accuracy study and proposed diagnostic pathway. PLoS One. 2018;13(11):e0206946.](https://doi.org/10.1371/journal.pone.0206946) - tympanometry 등 이관기능검사의 진단 정확도
+* \[Otolaryngol Head Neck Surg 2019] [Tucci DL, et al. Clinical Consensus Statement: Balloon Dilation of the Eustachian Tube. Otolaryngol Head Neck Surg. 2019;161(1):6-17.](https://doi.org/10.1177/0194599819848423) - 성인 폐쇄성 ETD의 풍선확장술 대상과 사전 평가
+* \[Laryngoscope 2012] [McCoul ED, Anand VK, Christos PJ. Validating the clinical assessment of eustachian tube dysfunction: The Eustachian Tube Dysfunction Questionnaire (ETDQ-7). Laryngoscope. 2012;122(5):1137-1141.](https://pubmed.ncbi.nlm.nih.gov/?term=McCoul+ETDQ-7+2012) - ETDQ-7 개발과 절단값(≥14.5)
+* \[Otolaryngol Head Neck Surg 2018] [Teixeira MS, et al. Accuracy of the ETDQ-7 Questionnaire for Identifying Persons with Eustachian Tube Dysfunction. Otolaryngol Head Neck Surg. 2018;158(1):83-89.](https://doi.org/10.1177/0194599817731729) - 객관적 이관기능검사 대비 민감도 54%·특이도 78%
+* \[J Laryngol Otol 2024] [Nibhanupudy TJ, et al. Efficacy of intranasal corticosteroid sprays in relieving clinical signs of Eustachian tube dysfunction: a systematic review and meta-analysis of randomised, controlled trials. J Laryngol Otol. 2024;138(11):1065-1072.](https://doi.org/10.1017/S0022215124000756) - 비강 스테로이드의 tympanometry 개선 효과 평가
+* \[Laryngoscope 2022] [Mehta NK, et al. Medical Management for Eustachian Tube Dysfunction in Adults: A Systematic Review and Meta-Analysis. Laryngoscope. 2022;132(4):849-856.](https://doi.org/10.1002/lary.29878) - 성인 ETD의 약물·보존 치료 근거 한계
+* \[CMAJ 2015] [Williamson I, et al. Effect of nasal balloon autoinflation in children with otitis media with effusion in primary care: an open randomized controlled trial. CMAJ. 2015;187(13):961-969.](https://doi.org/10.1503/cmaj.141608) - 소아 삼출성 중이염의 비강 풍선 자가 통기
+* [Schilder AGM, et al. Eustachian tube dysfunction: consensus statement on definition, types, clinical presentation and diagnosis. Clin Otolaryngol. 2015;40(5):407-411.](https://doi.org/10.1111/coa.12475) - ETD 유형과 증상·객관적 소견을 종합한 진단
+* [Eustachian tube dysfunction in adults. CMAJ. 2025;197(37):E1227.](https://doi.org/10.1503/cmaj.250163) - 1차 진료의 성인 ETD 평가와 초기 관리 요약
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 이관 풍선 확장술 - 자-566-1, 의료행위전문평가위원회 회의결과 및 최종고시 안내. 2020.](https://www.hira.or.kr/bbsDummy.do?brdBltNo=46107&brdScnBltNo=4&pgmid=HIRAA030051000009) - 국내 행위 정의·등재 근거; 현행 선별급여 기준은 시술 시 별도 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -515,27 +539,3 @@ PET 환자는 autophony를 일시적으로 줄이려고 반복적으로 코를 �
 
 * 한쪽 귀에서만 증상이 수 주 이상 지속되는 경우
 * 3개월 이상 치료해도 호전이 없는 경우
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[JAMA Otolaryngol Head Neck Surg 2019] [Shan A, et al. Prevalence of Eustachian Tube Dysfunction in Adults in the United States. JAMA Otolaryngol Head Neck Surg. 2019;145(10):974-975.](https://doi.org/10.1001/jamaoto.2019.1917) - tympanometry 기준 미국 성인 유병률(4.6%)
-* \[Am J Emerg Med 1998] [Jones JS, Sheffield W, White LJ, Bloom MA. A double-blind comparison between oral pseudoephedrine and topical oxymetazoline in the prevention of barotrauma during air travel. Am J Emerg Med. 1998;16(3):262-264.](https://pubmed.ncbi.nlm.nih.gov/9596428/) - 비행 전 pseudoephedrine 120 ㎎과 oxymetazoline의 압력손상 예방 비교
-* \[PLoS One 2018] [Smith ME, et al. Eustachian tube dysfunction: A diagnostic accuracy study and proposed diagnostic pathway. PLoS One. 2018;13(11):e0206946.](https://doi.org/10.1371/journal.pone.0206946) - tympanometry 등 이관기능검사의 진단 정확도
-* \[Otolaryngol Head Neck Surg 2019] [Tucci DL, et al. Clinical Consensus Statement: Balloon Dilation of the Eustachian Tube. Otolaryngol Head Neck Surg. 2019;161(1):6-17.](https://doi.org/10.1177/0194599819848423) - 성인 폐쇄성 ETD의 풍선확장술 대상과 사전 평가
-* \[Laryngoscope 2012] [McCoul ED, Anand VK, Christos PJ. Validating the clinical assessment of eustachian tube dysfunction: The Eustachian Tube Dysfunction Questionnaire (ETDQ-7). Laryngoscope. 2012;122(5):1137-1141.](https://pubmed.ncbi.nlm.nih.gov/?term=McCoul+ETDQ-7+2012) - ETDQ-7 개발과 절단값(≥14.5)
-* \[Otolaryngol Head Neck Surg 2018] [Teixeira MS, et al. Accuracy of the ETDQ-7 Questionnaire for Identifying Persons with Eustachian Tube Dysfunction. Otolaryngol Head Neck Surg. 2018;158(1):83-89.](https://doi.org/10.1177/0194599817731729) - 객관적 이관기능검사 대비 민감도 54%·특이도 78%
-* \[J Laryngol Otol 2024] [Nibhanupudy TJ, et al. Efficacy of intranasal corticosteroid sprays in relieving clinical signs of Eustachian tube dysfunction: a systematic review and meta-analysis of randomised, controlled trials. J Laryngol Otol. 2024;138(11):1065-1072.](https://doi.org/10.1017/S0022215124000756) - 비강 스테로이드의 tympanometry 개선 효과 평가
-* \[Laryngoscope 2022] [Mehta NK, et al. Medical Management for Eustachian Tube Dysfunction in Adults: A Systematic Review and Meta-Analysis. Laryngoscope. 2022;132(4):849-856.](https://doi.org/10.1002/lary.29878) - 성인 ETD의 약물·보존 치료 근거 한계
-* \[CMAJ 2015] [Williamson I, et al. Effect of nasal balloon autoinflation in children with otitis media with effusion in primary care: an open randomized controlled trial. CMAJ. 2015;187(13):961-969.](https://doi.org/10.1503/cmaj.141608) - 소아 삼출성 중이염의 비강 풍선 자가 통기
-* [Schilder AGM, et al. Eustachian tube dysfunction: consensus statement on definition, types, clinical presentation and diagnosis. Clin Otolaryngol. 2015;40(5):407-411.](https://doi.org/10.1111/coa.12475) - ETD 유형과 증상·객관적 소견을 종합한 진단
-* [Eustachian tube dysfunction in adults. CMAJ. 2025;197(37):E1227.](https://doi.org/10.1503/cmaj.250163) - 1차 진료의 성인 ETD 평가와 초기 관리 요약
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 이관 풍선 확장술 - 자-566-1, 의료행위전문평가위원회 회의결과 및 최종고시 안내. 2020.](https://www.hira.or.kr/bbsDummy.do?brdBltNo=46107&brdScnBltNo=4&pgmid=HIRAA030051000009) - 국내 행위 정의·등재 근거; 현행 선별급여 기준은 시술 시 별도 확인

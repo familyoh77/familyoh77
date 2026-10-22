@@ -303,6 +303,30 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Ophthalmology 2024] [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙
+* \[Am J Ophthalmol 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
+* \[AAO 2014] [White ML, Chodosh J. Herpes Simplex Virus Keratitis: A Treatment Guideline. American Academy of Ophthalmology. 2014.](https://www.aao.org/clinical-statement/herpes-simplex-virus-keratitis-treatment-guideline) - HSV 각막염의 치료·재발 예방; 국내 경구제 허가와 구분
+* \[CDC 2021] [Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.](https://www.cdc.gov/mmwr/volumes/70/rr/rr7004a1.htm) - 임균·클라미디아 결막염과 신생아 감염의 전신 치료
+* \[AAO 2025] [Marmor MF, et al. Special AAO Report: Recommendations on Screening for Hydroxychloroquine Retinopathy (2025 Revision). Ophthalmology. 2026;133:439-450.](https://doi.org/10.1016/j.ophtha.2025.11.001) - hydroxychloroquine 용량과 망막병증 선별검사
+* \[NEJM 2018] [Dry Eye Assessment and Management Study Research Group. n-3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med. 2018;378:1681-1690.](https://doi.org/10.1056/NEJMoa1709691) - DREAM trial; 오메가-3 보충의 효과 평가
+* \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
+* [American Academy of Ophthalmology. Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86.](https://www.aaojournal.org/article/S0161-6420%2824%2900008-3/fulltext) - 안검염·MGD 치료 및 전신 약제의 선택적 사용 (AAO 2023년 발표, 2024년 게재)
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)
+* [건강보험심사평가원. 히알루론산나트륨 점안제 급여기준. 고시 제2024-235호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&sno=3&mtgMtrRegSno=0005) - 내인성 각결막상피장애 급여 대상과 1일 사용량 (확인일 2026-10-11)
+* [U.S. Food and Drug Administration. Drugs@FDA - FDA-Approved Drugs.](https://www.accessdata.fda.gov/scripts/cder/daf/) - 국외 허가 약제의 제품별 허가서·처방정보 확인; 국내 허가와 구분
+* [European Medicines Agency. PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy. 2025.](https://www.ema.europa.eu/pt/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy) - semaglutide의 NAION 안전성 평가; 국내 허가사항 반영 여부는 별도 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -337,27 +361,3 @@ MGD·안구주사·만성 안검염에 대한 경구 tetracycline계·azithromyc
 * 눈 주위가 심하게 붓고 눈을 움직일 때 아프거나 물체가 둘로 보임
 * 스테로이드 안약을 쓰는 중에 통증이나 시력 저하가 새로 생김
 * 화학물질이 눈에 들어간 경우 : 즉시 흐르는 물이나 생리식염수로 충분히 씻으면서 응급 진료를 받으십시오.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Ophthalmology 2024] [Cheung AY, et al. Conjunctivitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P134-P204.](https://www.aaojournal.org/article/S0161-6420%2824%2900009-5/fulltext) - 결막염의 진단·항생제 및 스테로이드 사용 원칙
-* \[Am J Ophthalmol 2025] [Jones L, et al. TFOS DEWS III: Management and Therapy. Am J Ophthalmol. 2025;279:289-386.](https://doi.org/10.1016/j.ajo.2025.05.039) - 원인 기전에 따른 건성안·MGD 치료
-* \[AAO 2014] [White ML, Chodosh J. Herpes Simplex Virus Keratitis: A Treatment Guideline. American Academy of Ophthalmology. 2014.](https://www.aao.org/clinical-statement/herpes-simplex-virus-keratitis-treatment-guideline) - HSV 각막염의 치료·재발 예방; 국내 경구제 허가와 구분
-* \[CDC 2021] [Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.](https://www.cdc.gov/mmwr/volumes/70/rr/rr7004a1.htm) - 임균·클라미디아 결막염과 신생아 감염의 전신 치료
-* \[AAO 2025] [Marmor MF, et al. Special AAO Report: Recommendations on Screening for Hydroxychloroquine Retinopathy (2025 Revision). Ophthalmology. 2026;133:439-450.](https://doi.org/10.1016/j.ophtha.2025.11.001) - hydroxychloroquine 용량과 망막병증 선별검사
-* \[NEJM 2018] [Dry Eye Assessment and Management Study Research Group. n-3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease. N Engl J Med. 2018;378:1681-1690.](https://doi.org/10.1056/NEJMoa1709691) - DREAM trial; 오메가-3 보충의 효과 평가
-* \[JAMA Ophthalmol 2024] [Eom Y, et al. Re-Esterified Triglyceride ω-3 Fatty Acids in Dry Eye Disease With Meibomian Gland Dysfunction: A Randomized Clinical Trial. JAMA Ophthalmol. 2024;142(7):617-624.](https://doi.org/10.1001/jamaophthalmol.2024.1482) - 국내 다기관 무작위시험; 오메가-3 보충의 효과 평가
-* [American Academy of Ophthalmology. Blepharitis Preferred Practice Pattern. Ophthalmology. 2024;131(4):P50-P86.](https://www.aaojournal.org/article/S0161-6420%2824%2900008-3/fulltext) - 안검염·MGD 치료 및 전신 약제의 선택적 사용 (AAO 2023년 발표, 2024년 게재)
-
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 「일반원칙」 일회용 인공누액제. 고시 제2026-133호 (2026-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&sno=1&mtgMtrRegSno=0003) - 기전별 약제 분류와 동일 기전 내 급여 인정 범위 (확인일 2026-10-11)
-* [건강보험심사평가원. 히알루론산나트륨 점안제 급여기준. 고시 제2024-235호.](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&sno=3&mtgMtrRegSno=0005) - 내인성 각결막상피장애 급여 대상과 1일 사용량 (확인일 2026-10-11)
-* [U.S. Food and Drug Administration. Drugs@FDA - FDA-Approved Drugs.](https://www.accessdata.fda.gov/scripts/cder/daf/) - 국외 허가 약제의 제품별 허가서·처방정보 확인; 국내 허가와 구분
-* [European Medicines Agency. PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy. 2025.](https://www.ema.europa.eu/pt/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy) - semaglutide의 NAION 안전성 평가; 국내 허가사항 반영 여부는 별도 확인
