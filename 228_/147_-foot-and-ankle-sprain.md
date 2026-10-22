@@ -54,31 +54,48 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 명백한 변형·탈구, 피부 긴장이나 피부 괴사 위험 소견 → 신경혈관 상태 확인, 적절한 초기 보호 및 응급 정형외과 의뢰; 혈행 장애가 있으면 숙련된 의료진의 긴급 정복 필요
-* 원위부 맥박 소실, 감각 이상, 창백·냉감 등 신경혈관 손상 징후
-* 손상 정도에 비해 불균형하게 심하거나 빠르게 악화되는 통증, 팽팽한 부종, 발가락 수동 신전 시 심한 통증 등 → 구획증후군 의심. 모든 징후가 갖추어질 때까지 기다리지 않으며 원위부 맥박이 정상이어도 배제되지 않음
-* 개방골절이 의심되는 상처(골 노출, 깊은 창상, 심한 변형 동반 등) - 응급 창상 처치·항생제·파상풍 예방 및 정형외과 의뢰
+* 명백한 변형·탈구, 심한 피부 긴장 또는 피부 괴사 위험  `탈구·불안정 손상`
+* 원위부 맥박 소실, 창백·냉감 또는 새 감각·운동 이상  `신경혈관 손상`
+* 손상 정도에 비해 심하거나 빠르게 악화되는 통증, 팽팽한 부종, 발가락 수동 신전 시 심한 통증  `급성 구획증후군`
+* 골 노출·깊은 창상·심한 변형 등 골절 부위와 연결될 수 있는 상처  `개방골절 의심`
+* 외상 경과로 설명되지 않는 뜨겁게 부은 관절, 심한 수동 ROM 제한 ± 발열; 급속한 발적·전신상태 악화 포함  `패혈성 관절염·중증 감염`
+* 새로 발생한 호흡곤란·흉통·실신, 특히 편측 종아리 부종·통증 동반  `폐색전증 의심`
+
+✽즉시 신경혈관 상태 확인·보호 및 응급 진료·전문의로 연결함. 탈구에 혈행 장애가 있으면 숙련된 의료진의 긴급 정복이 필요함. **원위부 맥박이 정상이어도 구획증후군을 배제하지 않으며** 모든 징후가 나타날 때까지 기다리지 않음. 개방골절은 응급 창상 처치·조기 항생제·파상풍 예방조치 후 정형외과 의뢰함. 감염 의심은 발열이 없어도 긴급 관절천자·외과 평가 필요성을 판단하며 단순 염좌로 관찰하지 않음. 폐색전증 의심은 응급 평가함 <mark style="color:$info;">[SANJO 2023; NICE NG158]</mark>.
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* Ottawa ankle/foot rule 양성(해당 통증 영역에서 규정된 골 압통 또는 손상 직후와 진료 시 모두 4걸음 체중부하 불가) → 당일 X선 검사; 신경병증·고에너지 외상 등 적용이 부적절한 상황에서는 rule 음성이어도 임상적으로 판단함
-* 고에너지 외상(교통사고, 고소 낙상 등)을 동반한 손상
-* syndesmotic(high ankle) sprain 의심(경비골 원위부 압통, squeeze/external rotation test 양성 등) → 초기 보호·고정 및 목발로 체중부하 제한, 발목 X선과 필요시 추가 영상·정형외과 평가로 안정성 확인; 심한 체중부하 장애·관절 이개 의심 시 당일 평가
-* 중족부 심한 통증·부종, plantar ecchymosis, TMT joint 압통 또는 forefoot stress pain 등 Lisfranc injury 의심 → 당일 평가. 체중부하를 중단하고 고정; 통증이 허용하면 체중부하 X선, 불가능하면 강요하지 말고 비체중부하 X선 후 필요시 CT/MRI 및 정형외과 평가
-* Achilles tendon rupture 의심(갑작스러운 후방 통증·파열감, single-leg heel raise 불가, Thompson test 양성 등) → 당일 평가·조기 정형외과 의뢰. 초기에는 발목을 족저굴곡 상태로 보호·고정하고 체중부하를 제한하며 강제 배굴·스트레칭을 피함; 능동 족저굴곡이 일부 가능해도 파열이 배제되지 않음
-* 심한 부종·반상출혈과 현저한 기능 제한으로 체중부하가 거의 불가능한 경우 - 골절·중증 인대 손상 동반 여부 확인 및 초기 보호/고정 방침 결정
+* Ottawa ankle/foot rule 양성 또는 규칙 적용이 부적절한 상황의 임상적 골절 의심 **(당일)**  `골절 감별`
+* 교통사고·고소 낙상 등 고에너지 외상  `복합 손상 가능성`
+* 경비골 원위부 압통, squeeze/external rotation test 양성 또는 외회전 손상 기전  `Syndesmotic 손상 의심`
+* 중족부 심한 통증·부종, plantar ecchymosis, TMT 압통 또는 forefoot stress pain **(당일)**  `Lisfranc 손상 의심`
+* 갑작스러운 후방 통증·파열감, 족저굴곡 약화 또는 Thompson test 양성 **(당일)**  `아킬레스건 파열 의심`
+* 심한 부종·반상출혈과 거의 불가능한 체중 부하  `중증 인대·동반 손상`
+* 고정·활동 감소 후 새 편측 종아리 부종·통증 ± 열감/발적 **(당일)**  `DVT 의심`
 
-<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+✽골절 의심·Ottawa 양성은 당일 해당 부위 X선을 시행함. 신경병증·고에너지 외상 등에서는 규칙 음성만으로 검사를 생략하지 않음. Syndesmotic 손상은 고정·목발 및 체중 부하 제한 후 X선과 필요시 추가 영상·정형외과 평가로 안정성을 확인하며, 심한 보행 장애·관절 이개 의심은 당일 평가함.
 
-* 초기 X선이 정상이더라도 국소 골압통·체중부하 장애가 지속되거나 경과가 예상보다 나쁘면 조기 재평가함. 특히 손상 후 1주 초과~3주 미만의 지속 통증에서 잠복골절·골연골·힘줄 손상 등이 의심되면 비조영 MRI 또는 CT를 고려함(ACR Acute Trauma to the Ankle). 수주 후에도 통증·부종·기능 제한이 남으면 OLT, 거골 골절, 비골건 손상, syndesmotic injury, impingement 및 중족부 Lisfranc injury를 재평가하며 4~6주까지 일률적으로 기다리지 않음
-* 반복적인 "giving-way"·재발성 염좌 또는 불안정감이 지속되면 즉시 구조화된 균형·근력·고유수용감각 재활을 시행; 수개월의 적절한 재활에도 지속되면 CAI 평가 및 정형외과/스포츠의학 의뢰
-* 고령자의 저에너지 외상에서는 골절과 낙상 위험을 함께 평가; 골다공증 검사는 연령·취약골절 병력·기타 위험인자에 따라 결정하며 반복 염좌 자체를 검사 적응증으로 삼지 않음
+✽Lisfranc 손상은 체중 부하를 중단·고정하고 당일 평가함. 통증이 허용하면 체중 부하 X선, 불가능하면 강요하지 않고 비체중부하 X선 후 필요시 CT/MRI·정형외과 평가함. 아킬레스건 파열은 족저굴곡 위치로 보호·고정하고 체중 부하 제한 후 당일 의뢰하며 강제 배굴·스트레칭을 피함; 일부 능동 족저굴곡이 가능해도 파열을 배제하지 않음. 심한 기능 제한은 골절·동반 손상과 초기 고정 필요성을 평가함. DVT 의심은 Wells 점수에 따른 D-dimer·압박 초음파 진단 경로로 당일 평가하고 폐색전증 증상은 즉각 응급 평가함 <mark style="color:$info;">[NICE NG158]</mark>.
+
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 초기 X선이 정상이지만 지속되는 국소 골 압통·체중 부하 장애 또는 예상보다 나쁜 경과  `잠복골절·동반 손상`
+* 반복적인 giving-way·재발성 염좌 또는 지속되는 불안정감  `만성 발목 불안정성(CAI)`
+* 고령자의 저에너지 외상 또는 반복 낙상  `골절·낙상 위험`
+
+✽초기 X선 음성 후 1주 초과~3주 미만의 지속 통증에서 잠복골절·골연골·힘줄 손상 등이 의심되면 비조영 MRI 또는 CT를 고려함 <mark style="color:$info;">[ACR Acute Trauma to the Ankle]</mark>. 수주 후에도 통증·부종·기능 제한이 남으면 OLT·거골 골절·비골건·syndesmosis·impingement·Lisfranc 손상을 재평가하며 4~6주까지 일률적으로 기다리지 않음. 반복 giving-way는 구조화된 균형·근력·고유수용감각 재활을 시작하고 수개월의 적절한 재활에도 지속되면 CAI 평가·정형외과/스포츠의학 의뢰함. 고령자는 골절과 낙상 위험을 함께 평가하며 골다공증 검사는 연령·취약골절 병력·기타 위험인자에 따르고 반복 염좌 자체를 적응증으로 삼지 않음.
 
 ## <mark style="color:green;">진단</mark>
 
 ✽ [Foot anatomy](https://www.orthopaedia.com/anatomy-of-the-foot-ankle/), [Foot muscle(3D)](https://www.innerbody.com/anatomy/muscular/leg-foot)
+
+### <mark style="color:orange;">기본 진찰</mark>
+
+* 손상 기전·직후 보행 여부와 현재 체중 부하, 과거 손상·수술·항응고제 사용을 확인함
+* 피부·상처·변형·부종·멍, 발등/뒤정강동맥 맥박·모세혈관 재충만·감각·운동을 평가하고 고정 전후 신경혈관 상태를 기록함
+* 복사뼈뿐 아니라 근위 비골, 주상골, 제5중족골 기저부와 근위 골간, TMT 관절·발바닥 중족부, 아킬레스건을 확인함. 골절·파열·불안정 손상 의심 시 보행·한발 뒤꿈치 들기·강한 스트레스 검사를 강요하지 않음
 
 ### <mark style="color:orange;">유발 검사</mark>
 
@@ -87,6 +104,7 @@
 * manual squeeze test : supine position에서 검사자가 환자의 아래쪽에 위치하여 양손을 종아리 중간 ⅓ 측부에 놓고 압박; 경비골 원위부(발목 관절 바로 위)에서 통증 발생 시 양성 - ankle syndesmosis 평가
 * external rotation test : 무릎 90° 굴곡, 발목 중립 자세에서 발을 외회전; 경비골 원위부 통증 유발 시 양성 - syndesmosis 평가
 * crossed-leg test : 환자가 건측 무릎 위에 환측 종아리 중간 부위를 가로질러 얹고, 검사자가 환측 무릎 내측을 아래로 눌러 경비골 원위부 통증 유발 여부 확인 - syndesmosis 손상 평가
+* Thompson(calf-squeeze) test : 엎드린 자세에서 발을 침상 끝에 두고 종아리를 압박하여 족저굴곡 반응을 건측과 비교함. 족저굴곡 소실·뚜렷한 감소는 아킬레스건 파열을 시사하며 부분 파열 등에서는 정상 반응이 가능함; 의심이 지속되면 초음파 등 추가 평가함. 파열 의심 환자에게 한발 뒤꿈치 들기를 반복시켜 확인하지 않음
 * **Maisonneuve fracture 스크리닝** : syndesmotic injury 또는 medial ankle injury가 의심되면 근위 비골까지 촉진하고 무릎·하퇴도 평가함. 근위 비골 압통이나 손상 기전·발목 영상상 의심 소견이 있으면 무릎과 발목을 포함한 경골·비골 전장 X선을 고려함; 근위 비골 통증이 뚜렷하지 않다는 이유만으로 배제하지 않음
 
 {% hint style="info" %}
@@ -109,8 +127,9 @@
 ### <mark style="color:orange;">골절 감별 : Ottawa ankle rules</mark>
 
 * 민감도는 높으나 완벽하지 않음. Bachmann 등(BMJ 2003)의 메타분석에서는 전체 97.6%, 손상 48시간 이내 평가 연구에서 99.6%로 보고되었으며, 연구 집단·검사 시점에 따라 달라짐; rule 음성으로 모든 발·발목 손상을 배제하지 않음
-* 적용 시 주의 : 감각 저하·신경병증, 의사소통·협조가 어려운 환자, 고에너지 외상, 임신 등에서는 rule만으로 영상검사를 결정하지 않음. 소아에서는 주로 **5세 이상이며 진찰에 협조하고 손상 전 정상 보행이 가능했던 경우**에 활용함; 임신 중에도 골절이 의심되면 필요한 영상검사를 지연하지 않음
-* 고령자에서는 민감도는 유지되나 특이도가 낮아 방사선 촬영 비율이 증가하는 경향이 보고됨 (Seyhan et al. 2024)
+* 2026년 메타분석에서는 통합 민감도 92%·특이도 35%로 보고되어 과거의 높은 민감도 수치를 모든 진료 환경에 적용하지 않음. 포함 연구의 비뚤림 위험·집단 및 방법 차이를 고려해야 하며, 규칙 음성이어도 지속되는 국소 골 압통·보행 장애·비전형적 경과는 재평가함 <mark style="color:$info;">[Sharifi Razavi et al. 2026]</mark>
+* 적용 시 주의 : 감각 저하·신경병증, 의사소통·협조가 어려운 환자, 고에너지 외상, 임신 등에서는 rule만으로 영상검사를 결정하지 않음. 소아에서는 진찰에 협조하고 손상 전 정상 보행이 가능해야 함. ACR 문서의 연령 범위는 발목 외상 **5세 이상**, 발 외상 **5세 초과**로 표현되어 있어 부위별 적용 범위를 구별함; 임신 중에도 골절이 의심되면 필요한 영상검사를 지연하지 않음
+* 고령자의 저에너지 외상도 국소 골 압통·보행 장애를 충분히 평가함. Seyhan 등(2024)의 65세 이상 160명 연구에서 민감도 98.3%·특이도 86%였으나, 젊은 집단과 직접 비교한 결과가 아니므로 고령에서 특이도가 반드시 더 낮다는 근거로 해석하지 않음 <mark style="color:$info;">[Seyhan et al. 2024]</mark>
 
 #### <mark style="color:$primary;">Ankle 골절 가능성(X선 검사 대상)</mark>
 
@@ -137,7 +156,7 @@ Ottawa rules는 복사뼈·중족부의 특정 골절을 선별하는 도구임.
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-* 부종·압통이 유사하게 나타날 수 있는 발목·발 주변 손상의 감별; 특히 **Lisfranc injury는 단순 염좌로 오인하기 쉬워 놓치지 말아야 할 foot injury**로 항상 염두에 둔다
+* 부종·압통이 유사하게 나타날 수 있는 발목·발 주변 손상의 감별; 특히 **Lisfranc injury는 단순 염좌로 오인하기 쉬워 놓치지 말아야 할 foot injury**로 항상 염두에 둠
 
 <table><thead><tr><th width="150">질환</th><th width="230">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td>Lisfranc injury</td><td>중족부 통증·부종, plantar ecchymosis, TMT joint 압통, forefoot abduction/pronation stress 통증</td><td>단순 염좌로 오인 가능; 체중부하 중단·고정; 통증이 허용하면 weight-bearing X선, 불가능하거나 X선 정상·불명확해도 의심이 높으면 CT/MRI와 정형외과 평가</td></tr><tr><td>Achilles tendon rupture</td><td>갑작스러운 후방 발목/종아리 통증, "뒤에서 차인 듯한" 느낌, plantar flexion 약화, single-leg heel raise 불가, Thompson test 양성</td><td>능동 족저굴곡이 가능해도 파열 배제 불가; 초기 족저굴곡 고정·체중부하 제한 및 당일 평가, 불확실하면 초음파 등 고려</td></tr><tr><td>Maisonneuve fracture</td><td>medial ankle injury 또는 syndesmosis 손상 + proximal fibula fracture; 근위 비골 압통이 경미할 수도 있음</td><td>syndesmotic/medial injury에서 근위 비골까지 촉진 필수; 의심 시 tibia/fibula 전체 영상</td></tr><tr><td>비골건 아탈구·파열(Peroneal tendon subluxation/tear)</td><td>가쪽 복사뼈 후방 압통, 저항성 eversion 시 통증·아탈구 재현</td><td>염좌로 오인되기 쉬움; 반복 손상 시 의심</td></tr><tr><td>거골 골연골 병변(Osteochondral lesion of talus)</td><td>수주 후에도 지속되는 심부 통증, 부종, mechanical locking/catching</td><td>MRI 고려</td></tr><tr><td>제5중족골 근위부 골절</td><td>기저부 견열골절(zone 1)과 골간단–골간 이행부의 Jones 골절(zone 2)을 구분; 기저부 및 그 원위부까지 촉진</td><td>X선으로 위치·전위 평가; Jones 골절은 불유합 위험이 높아 정형외과 평가, 기저부 압통만으로 선별하면 놓칠 수 있음</td></tr><tr><td>Occult fracture</td><td>예상보다 심하거나 지속되는 국소 골압통·체중부하 통증</td><td>초기 X선 음성이라도 임상적 의심이 높으면 재촬영/CT/MRI 고려</td></tr><tr><td>삼각골(Os trigonum) 증후군</td><td>발목 후방 통증, 강한 plantar flexion 시 악화</td><td>과거력·측면 X선 참고</td></tr><tr><td>만성 발목 불안정성(CAI)</td><td>반복적인 giving-way·재발성 염좌·불안정감, 기능 저하</td><td>CAIT 등 검증된 설문지로 평가; IAC의 12개월 기준은 주로 연구 대상 선정 기준이며 임상적 재활을 12개월까지 미루지 않음</td></tr><tr><td>발목 관절염/류마티스 관절염</td><td>외상력 불분명, 아침 강직, 다관절 침범</td><td>영상·혈액 검사</td></tr></tbody></table>
 
@@ -162,6 +181,7 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support, 통증�
 
 * Grade I\~II sprain(대부분) : 고정보다 **기능적 치료**(통증이 허용하는 조기 체중부하 + external support + 단계적 운동)가 표준
 * Grade III/severe sprain : 초기 **단기 고정(최대 약 10일)** 을 고려할 수 있으나, 이후 가능한 빨리 기능적 재활로 전환
+* 하퇴 고정·체중 부하 제한 시에는 과거 VTE, 암, 에스트로겐 사용, 활동 감소 등 혈전 위험과 출혈 위험을 평가함. 모든 염좌에 항응고제를 일률적으로 사용하지 않고 VTE 위험이 출혈 위험보다 큰 경우 예방요법을 개별 고려함 <mark style="color:$info;">[NICE NG89]</mark>
 * Syndesmotic sprain : **안정성 확인 전에는 고정·목발 및 체중부하 제한**을 우선함. 안정 손상은 보존적 치료가 원칙이지만 초기 비체중부하·고정 기간은 전문의와 결정하고 이후 통증·안정성에 따라 보호적 부분 체중부하 및 재활로 전환함; ESSKA-AFAS(2016)는 안정 손상에서 약 3주 비체중부하를 제안함. 불안정 또는 diastasis 손상은 수술적 고정 평가가 필요하며, 외측 염좌의 최대 10일 고정·조기 보행 원칙을 그대로 적용하지 않음
 * External support : lace-up 또는 semirigid brace 등 기능적 지지를 손상 정도·부종·활동 수준에 따라 선택함. AFP 2025의 초기 5~10일 지지를 회복 전 기간의 최대 착용 기간으로 해석하지 않음; 이후에도 보행·활동 중 사용을 조정하며, 2018 근거 기반 지침에서는 기능적 지지를 대체로 4~6주 사용하도록 권고함. 중증 외측 염좌의 단기 고정과 활동 중 기능적 보조기를 구분함
 * 발 염좌 : 중족부·발가락 등 손상 위치와 안정성을 확인해 보호·부하·재활을 결정함. Lisfranc 손상이나 골절이 의심되는 발에 외측 발목 염좌의 조기 체중부하 원칙을 그대로 적용하지 않음
@@ -187,9 +207,10 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support, 통증�
 
 ### <mark style="color:orange;">예방/재활 운동</mark>
 
+* 보조 치료 : 관절가동범위 제한·통증이 있으면 통증 없는 범위의 관절·연부조직 도수치료를 운동과 함께 고려함. 치료용 초음파는 급성 외측 발목 염좌 치료에 권고하지 않으며 진단용 초음파와 구별함 <mark style="color:$info;">[JOSPT 2021]</mark>
 * 초기 운동 : 골절·불안정 손상을 배제한 뒤 통증이 허용하는 ROM 및 보행 훈련부터 시작함; 통증·부종이 뚜렷하게 늘면 부하를 줄이고 재평가함
 * 균형 : 안전한 지지물을 잡고 한쪽 다리 서기부터 시작해 유지 시간을 점차 늘림; 이후 공받기·불안정한 지지면 등으로 진행함
-* 근력 강화 : 저항밴드 운동, 양발 뒤꿈치 들기에서 한발 뒤꿈치 들기로 진행함; 계단 끝에서 뒤꿈치를 내리는 운동은 가동범위·통증과 동반 아킬레스건 손상 여부를 고려해 선택함
+* 근력 강화 : 저항밴드 운동, 양발 뒤꿈치 들기에서 한발 뒤꿈치 들기로 진행함; 계단 끝에서 뒤꿈치를 내리는 운동은 가동범위·통증과 동반 아킬레스건 손상 여부를 고려해 선택함. 부착부 아킬레스건병증에서는 초기 깊은 배굴·계단 아래로 뒤꿈치 내리기를 줄임(☞ [발의 통증](146_-foot-pain.md))
 * 후기 운동 : 통증 없는 정상 보행·기본 근력·균형을 확보한 뒤 점프·착지·방향 전환·종목별 훈련으로 진행함. 점프나 bounding을 급성기 운동으로 일률적으로 처방하지 않음
 * 표적화된 신경근육 재활 프로그램은 통상 **8\~12주**간 시행 (AFP 2025)
 * 운동 시 발목 보호 장구(브레이스/테이핑) 적용 - 재발 방지에 근거 있음(특히 기존 손상력 있는 경우); 복귀 후에도 활동 시 **최대 12개월**까지 브레이스 착용을 지속하는 것이 재발 방지에 도움이 될 수 있음(Grade B, AFP 2025). 실제 착용 기간·강도는 활동 수준과 재발 위험에 따라 개별적으로 조정
@@ -223,8 +244,12 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support, 통증�
 * naproxen : <mark style="color:blue;">[낙센정 250 ㎎ / 낙센에프정 500 ㎎]</mark>. 국내 염좌 등 골격근장애 허가 용법은 초회 500 ㎎, 이후 6~8시간 간격으로 250 ㎎, 1일 총량 최대 1,250 ㎎임(연령·증상에 따라 조절). naproxen sodium 275 ㎎ 제형은 naproxen 250 ㎎에 해당하며 제품·염형을 구분해 표기함
 * tramadol : 단순 염좌에서 통상 사용하지 않음. 비아편유사제 치료가 부적절하거나 조절되지 않는 예외적인 심한 급성 통증에서는 골절·구획증후군 등 누락 손상을 먼저 재평가하고, 필요성이 명확할 때만 개별적으로 최소량·최단기간 고려함; 졸림·낙상·호흡억제·의존성 및 SSRI/SNRI 등과의 세로토닌증후군·경련 위험을 확인함
 * 국소 NSAID : 국한된 통증에서는 경구제에 앞서 고려 가능. ketoprofen <mark style="color:blue;">[케토톱플라스타]</mark>는 환부에 1일 2회 부착함; piroxicam <mark style="color:blue;">[트라스트]</mark> 등은 해당 제형 허가 용법에 따름. 상처·습진 부위에는 사용하지 않으며, 경구 NSAID와의 일률적 병용을 피함
-* ketoprofen 외용제 : 광과민반응에 주의하여 사용 중과 중단 후 **2주간** 적용 부위를 옷으로 가리고 햇빛·자외선 노출을 피함; 발진·물집 등이 생기면 중단함
+* ketoprofen 외용제 : 케토톱플라스타는 15세 미만 및 임신 6개월 이상에서 사용하지 않음. 광과민반응에 주의하여 사용 중과 중단 후 **2주간** 적용 부위를 옷으로 가리고 햇빛·자외선 노출을 피함; 발진·물집 등이 생기면 중단함
 * 경구 NSAID 공통 주의 : 소화성궤양·위장관 출혈, 신장기능 저하·탈수, 심부전·심혈관 위험, 항응고제 병용 및 임신 여부 등을 확인하고 최소 유효용량·최단기간 사용함; 다른 경구 NSAID를 중복하지 않음
+  * 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
+* Acetaminophen 대안 선택 시 : 타이레놀정·타이레놀8시간이알서방정은 국내 허가상 소화성궤양, 심한 간·신장·심장기능 장애, aspirin 천식/병력, 바르비탈계 약물·TCA 복용 등에서 금기임. NSAID가 부적절하다는 이유만으로 자동 선택하지 않고 acetaminophen 자체의 금기를 먼저 확인함
+
+* 경구 NSAID와 임신 : 임신 20주 이후에는 태아 신기능 저하·양수과소 위험 때문에 필요한 예외적 경우를 제외하고 피하며, 임신 후기에는 사용하지 않음. 저용량 aspirin 복용자는 ibuprofen의 항혈소판 작용 간섭 가능성을 확인함 <mark style="color:$info;">[제품 허가사항; FDA 안전성 서한]</mark>
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
@@ -280,10 +305,11 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support, 통증�
 > **처방례 3. 중증(Grade III/severe sprain), 통증 조절이 필요한 경우**
 >
 > ```
-> 타이레놀정 500 ㎎/T  1~2T를 4~6시간 간격 필요시(1일 3~4회 이내)  3일분
+> 타이레놀정 500 ㎎/T  1~2T tid 필요시, 복용 간격 최소 4~6시간  3일분
+> 이 처방례에서는 1일 최대 6T(3,000 ㎎)
 > ```
 >
-> _✽초기 단기 고정(최대 약 10일)을 고려할 수 있으나 이후 조기에 기능적 재활로 전환. acetaminophen 총 일일 최대 용량은 [약물 치료](#약물-치료) 참조; 심한 통증이 지속되면 누락 손상과 구획증후군 등을 먼저 재평가하며 tramadol을 통상적으로 추가하지 않음_
+> _✽초기 단기 고정(최대 약 10일)을 고려할 수 있으나 이후 조기에 기능적 재활로 전환. 이 처방례의 보수적 상한 3,000 ㎎/일은 일반정의 국내 허가 최대량 4,000 ㎎/일과 구별하며 감기약·복합제 성분도 합산함; 심한 통증이 지속되면 누락 손상과 구획증후군 등을 먼저 재평가하며 tramadol을 통상적으로 추가하지 않음_
 
 > **처방례 4. Syndesmotic(High ankle) sprain 의심**
 >
@@ -360,13 +386,15 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support, 통증�
 ### <mark style="color:$primary;">이럴 때는 진료를 받으세요</mark>
 
 * **즉시 응급 진료** : 발이 차갑거나 창백해지고 감각이 이상해짐, 눈에 띄는 변형·깊은 상처, 매우 심하거나 빠르게 악화되는 통증
-* **당일 평가** : 다친 직후와 현재 모두 몇 걸음 걷기 어려움, 발바닥 중간 멍·심한 발등 통증, 뒤에서 차인 듯한 느낌과 뒤꿈치 들기 어려움
+* **당일 평가** : 다친 직후와 현재 모두 몇 걸음 걷기 어려움, 발바닥 중간 멍·심한 발등 통증, 뒤에서 차인 듯한 느낌과 뒤꿈치 들기 어려움. 고정 후 새로 종아리가 붓고 아프거나 관절이 뜨겁게 붓는 경우도 당일 확인받으십시오. 호흡곤란·흉통·실신이 동반되면 즉시 응급 진료를 받으십시오
 * **조기 재진** : 48~72시간 동안 통증·부기가 악화됨, 1주가 지나도 뼈의 특정 부위가 뚜렷하게 아프고 걷기 어려움; 예정된 진료일까지 기다리지 마십시오
 * **추적 평가** : 수주가 지나도 통증·부종이 지속되거나, 잠김 또는 발목이 반복해서 꺾이는 느낌이 남음
 
 ***
 
-### 참고문헌
+## 주요 참고문헌 및 확인 자료
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * Waterman BR, et al. The epidemiology of ankle sprains in the United States. J Bone Joint Surg Am. 2010;92:2279–2284. [doi:10.2106/JBJS.I.01537](https://doi.org/10.2106/JBJS.I.01537).
 * Waterman BR, et al. Epidemiology of ankle sprain at the United States Military Academy. Am J Sports Med. 2010;38:797–803. [doi:10.1177/0363546509350757](https://doi.org/10.1177/0363546509350757).
@@ -382,6 +410,17 @@ JOSPT CPG(2021)는 급성 외측 발목 염좌에서 **external support, 통증�
 * Bachmann LM, et al. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and mid-foot: systematic review. BMJ. 2003;326:417. [doi:10.1136/bmj.326.7386.417](https://doi.org/10.1136/bmj.326.7386.417).
 * Qaseem A, et al. Nonpharmacologic and Pharmacologic Management of Acute Pain From Non–Low Back, Musculoskeletal Injuries in Adults: A Clinical Guideline From the American College of Physicians and American Academy of Family Physicians. Ann Intern Med. 2020;173:739–748. [doi:10.7326/M19-3602](https://doi.org/10.7326/M19-3602).
 * Dubois B, Esculier JF. Soft-tissue injuries simply need PEACE and LOVE. Br J Sports Med. 2020;54:72–73. [doi:10.1136/bjsports-2019-101253](https://doi.org/10.1136/bjsports-2019-101253). ✽논설(editorial)임.
-* 국내 제품 정보: 식품의약품안전처 [타이레놀정 500 ㎎](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106092), [타이레놀8시간이알서방정](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200407); 종근당 [낙센정 250 ㎎](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000002), [낙센에프정 500 ㎎](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000003); 한독 [케토톱](https://www.handok.co.kr/page/ketotop). 제품 정보 확인일: 2026-10-03.
+* NICE. **Venous thromboembolism in over 16s (NG89).** Lower limb immobilisation. [권고 원문](https://www.nice.org.uk/guidance/ng89/chapter/Recommendations)
+* NICE. **Venous thromboembolic diseases (NG158).** [권고 원문](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations)
+* Ravn C, et al. **Guideline for management of septic arthritis in native joints (SANJO).** J Bone Jt Infect. 2023;8:29–37. [원문](https://jbji.copernicus.org/articles/8/29/2023/)
 
-* Ketoprofen 광과민 경고: European Medicines Agency, [Ketoprofen topical formulations: product information](https://www.ema.europa.eu/en/documents/referral/ketoprofen-article-107-referral-annex-iii_en.pdf).
+* Seyhan AU, et al. **The role of Ottawa ankle rules in geriatric emergency department visits.** Ulus Travma Acil Cerrahi Derg. 2024;30(4):271–275. [doi:10.14744/tjtes.2024.39240](https://doi.org/10.14744/tjtes.2024.39240)
+* Sharifi Razavi D, Seiri M, Farrokhi M. **Revisiting the Diagnostic Accuracy of Ottawa Ankle Rules for Ankle Fractures: A Systematic Review and Meta-Analysis.** Arch Acad Emerg Med. 2026;14(1):e24. [doi:10.22037/aaem.v14i1.3051](https://doi.org/10.22037/aaem.v14i1.3051)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/) — 부루펜정 200 ㎎, 낙센정/낙센에프정, 타이레놀정 500 ㎎/타이레놀8시간이알서방정 650 ㎎, 케토톱플라스타의 허가사항
+* 종근당 [낙센정 250 ㎎](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000002), [낙센에프정 500 ㎎](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000003)
+* 한독 [케토톱 제품 정보](https://www.handok.co.kr/page/ketotop) — 플라스타 제형과 다른 케토톱 제형의 용법을 구별
+* European Medicines Agency. [Ketoprofen topical formulations: product information](https://www.ema.europa.eu/en/documents/referral/ketoprofen-article-107-referral-annex-iii_en.pdf) — 광과민반응·중단 후 2주 자외선 회피
+* FDA. [NSAID 임신 20주 이후 사용에 대한 안전성 서한](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic) — 산과적 적응으로 처방하는 저용량 aspirin은 별도 권고를 따름

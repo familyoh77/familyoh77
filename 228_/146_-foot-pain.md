@@ -19,33 +19,43 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급성 하지허혈 징후(갑작스러운 심한 통증, 차갑고 창백한 발, 맥박 감소·소실, 감각·운동 장애 등) → 혈관외과 응급 의뢰
-* 외상 후 손상 정도에 비해 극심한 통증·팽팽한 부종, 수동 신장 시 통증 악화 ± 감각 이상 → 급성 구획증후군 의심, 맥박이 만져져도 응급 수술 평가
-* 개방성 골절, 명백한 변형·탈구를 동반한 외상 → 응급 정형외과 의뢰
-* 이학적 소견에 비해 불균형적으로 심한 통증 또는 급속히 진행하는 발적·부종 ± 전신 독성 소견 → 괴사성 근막염 의심, 응급 의뢰; 수포·피부 괴사가 나타날 때까지 기다리지 않음
-* 당뇨병 환자의 발 감염에서 전신 독성 징후(발열·빈맥·저혈압 등 패혈증 소견)가 있는 중증 감염, 또는 심부 농양·광범위 괴저·괴사성 감염·구획증후군·중증 허혈을 동반한 중등도 감염 → 긴급 외과 평가; 감염과 허혈이 함께 있으면 혈관 전문의도 긴급 협진 [IWGDF/IDSA 2023]
-* 급성 비외상성 단관절의 심한 통증·부종·발적 및 수동 ROM의 현저한 제한 ± 발열 → 패혈성 관절염 우선 배제; 응급 관절천자/전문의 평가
-* 편측 하지 부종·통증과 함께 새로 발생한 호흡곤란·흉통·실신 → 폐색전증 의심, 응급 평가 [NICE NG158]
+* 갑작스러운 심한 통증, 차갑고 창백한 발, 맥박 감소·소실, 감각·운동 장애  `급성 하지허혈`
+* 외상 후 손상 정도에 비해 극심한 통증·팽팽한 부종, 수동 신장 시 통증 악화 ± 감각 이상  `급성 구획증후군`
+* 개방창을 동반한 골절 의심 또는 명백한 변형·탈구  `개방골절·탈구`
+* 진찰 소견에 비해 불균형적으로 심한 통증, 급속히 진행하는 발적·부종 ± 전신 독성 소견  `괴사성 연부조직 감염`
+* 당뇨병성 발 감염에서 패혈증 소견, 또는 심부 농양·광범위 괴저·괴사성 감염·구획증후군·중증 허혈 동반  `중증·복합 당뇨병성 발 감염`
+* 급성 비외상성 단관절의 심한 통증·부종·발적과 수동 ROM의 현저한 제한 ± 발열  `패혈성 관절염`
+* 편측 하지 부종·통증과 새로 발생한 호흡곤란·흉통·실신  `폐색전증 의심`
+
+✽즉시 평가·보호 조치를 시행하고 응급 진료·전문의로 연결함. 급성 허혈은 혈관외과, 구획증후군·개방골절·탈구는 응급 정형외과 평가가 필요함. **맥박이 만져져도 구획증후군을 배제하지 않으며**, 괴사성 감염은 수포·피부 괴사가 나타날 때까지 기다리지 않음. 당뇨병성 중증 감염 또는 위 합병증을 동반한 중등도 감염은 긴급 외과 평가, 감염과 허혈이 함께 있으면 혈관 전문의도 긴급 협진함 <mark style="color:$info;">[IWGDF/IDSA 2023]</mark>. 패혈성 관절염은 응급 관절천자·전문의 평가가 필요하며 발열이 없어도 배제되지 않음. 폐색전증 의심은 응급 평가함 <mark style="color:$info;">[NICE NG158]</mark>.
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 외상 후 국소 골 압통 또는 체중 부하 불가 → 골절 의심, 당일 평가. 급격한 활동 증가 후 지속되는 국소 골 압통·체중 부하 통증 → 스트레스 골절 감별; 주상골 또는 제5중족골 근위부 등 고위험 부위가 의심되면 당일 고정·체중 부하 제한 및 조기 영상검사·정형외과 평가
-* 편측 하지 부종·발적·열감 → DVT 또는 봉와직염 의심, 당일 평가(DVT 의심 시 Wells 점수로 임상 가능성을 판단하고 그 결과에 따라 D-dimer·압박 초음파 검사를 시행; Homans sign만으로 진단하거나 배제하지 않음) [NICE NG158]
-* 당뇨병 환자에서 전신상태는 안정적이나 발적·부종을 동반한 깊은 궤양, probe-to-bone 양성 소견 → 골수염/심부 연부조직 감염 의심, 당일 평가
-* 급성 1st MTP 통증·발적·부종 → 통풍 발작 의심, 당일 평가; 발열이 없어도 패혈성 관절염은 배제되지 않으며, 위의 응급 관절염 소견이 있으면 즉각 평가
-* 당뇨병성 말초신경병증 환자에서 새로 발생한 편측 발의 부종·발적·온도 상승(통증은 없거나 경미할 수 있으나 있을 수도 있음) → active Charcot neuro-osteoarthropathy 의심, 당일 평가; 확진을 기다리지 말고 즉시 무릎 높이 고정 및 부하 경감(knee-high immobilization/off-loading)을 시작하고 전문의 의뢰. 초기 X선이 정상이어도 의심이 지속되면 MRI 시행 [IWGDF 2023]
-* 새로 발생하거나 진행하는 근력 저하(foot drop 포함) 또는 확산되는 감각 저하 → 당일 신경학적 평가; 요통과 함께 배뇨·배변 장애·회음부 감각 저하가 동반되면 마미증후군 가능성으로 즉각 응급 평가
-* 갑작스러운 후족부 통증·"뚝" 소리/파열감 + plantar flexion 약화 또는 Thompson test 양성 → Achilles tendon rupture 의심, 당일 평가; 발목을 족저굴곡 위치로 부목 고정하고 체중 부하 제한 후 정형외과 의뢰. 일부 능동 족저굴곡이 가능해도 파열을 배제하지 못함
-* 외상 후 TMT 관절 압통·부종, 발바닥 중족부의 멍 또는 체중 부하 곤란 → Lisfranc 손상 의심, 당일 고정·체중 부하 제한 및 영상검사·정형외과 평가
-* 지속적 허혈성 휴식통, 낫지 않는 발 궤양 또는 괴저 → 만성 사지위협허혈(CLTI) 의심, 신속한 혈관 평가; 급성 허혈 또는 감염 동반 괴저는 즉각 조치
+* 외상 후 국소 골 압통·체중 부하 불가, 또는 활동 증가 후 지속되는 국소 골 압통·체중 부하통  `골절·스트레스 골절`
+* 편측 하지 부종·발적·열감 **(당일)**  `DVT·봉와직염 의심`
+* 당뇨병 환자의 발적·부종을 동반한 깊은 궤양 또는 probe-to-bone 양성 소견 **(당일)**  `골수염·심부 감염`
+* 급성 제1 MTP 통증·발적·부종 **(당일)**  `통풍·감염 감별`
+* 당뇨병성 말초신경병증 환자의 새 편측 발 부종·발적·온도 상승; 통증은 없거나 경미할 수 있음 **(당일)**  `활동성 Charcot 의심`
+* 새로 발생하거나 진행하는 근력 저하(foot drop 포함) 또는 확산되는 감각 저하 **(당일)**  `진행성 신경학적 이상`
+* 갑작스러운 후족부 통증·“뚝” 소리/파열감, 족저굴곡 약화 또는 Thompson test 양성 **(당일)**  `아킬레스건 파열 의심`
+* 외상 후 TMT 관절 압통·부종, 발바닥 중족부 멍 또는 체중 부하 곤란 **(당일)**  `Lisfranc 손상 의심`
+* 지속적 허혈성 휴식통, 낫지 않는 발 궤양 또는 괴저  `만성 사지위협허혈(CLTI)`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+✽외상성 골절 의심은 당일 평가함. 주상골·제5중족골 근위부 등 고위험 스트레스 골절은 당일 고정·체중 부하 제한과 조기 영상·정형외과 평가가 필요함. DVT는 Wells 점수에 따른 D-dimer·압박 초음파 진단 경로를 적용하고 Homans sign으로 진단·배제하지 않음 <mark style="color:$info;">[NICE NG158]</mark>. 급성 단관절염은 통풍으로 단정하지 말고 위 응급 감염 소견이 있으면 즉각 평가함.
 
-* 초기 보존적 치료(4\~6주)에도 호전 없는 족저근막염, Morton neuroma 등 → 진단·치료 수행을 재평가하고, 비전형적 소견 또는 지속적 기능 제한이 있으면 영상검사·전문과 의뢰 고려
-* 신발 교정에도 지속되는 무지외반증(bunion) 등 구조적 변형 → 정형외과/족부 전문의 의뢰
-* 급성 징후 없는 만성 다발 관절 침범 → 류마티스내과 협진 고려
+✽**활동성 Charcot 의심 시 확진을 기다리지 않고 즉시 무릎 높이 고정·부하 경감(knee-high immobilization/off-loading)을 시작**하고 당일 평가·전문의 의뢰함. 피부가 온전해도 의심하며 궤양이 있으면 감염도 함께 평가함. 초기 X선이 정상이어도 의심이 지속되면 MRI를 시행함. 목발 등 보조기구로 부하를 줄이되 이후 체중 부하 허용 정도는 전문의와 개별 결정하며, 모든 환자에게 장기간 완전 비체중부하를 일률적으로 적용하지 않음 <mark style="color:$info;">[IWGDF 2023]</mark>.
+
+✽아킬레스건 파열은 족저굴곡 위치로 보호·고정하고 체중 부하 제한 후 당일 정형외과 평가함; 일부 능동 족저굴곡이 가능해도 배제하지 않음. Lisfranc 손상은 체중 부하를 중단·고정하고 당일 영상·정형외과 평가함. 진행성 신경학적 이상에 요통·배뇨/배변 장애·회음부 감각 저하가 동반되면 마미증후군 가능성으로 즉각 응급 평가함. CLTI는 신속히 혈관 평가로 연결하고 급성 허혈·감염 동반 괴저는 즉각 조치함.
+
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 초기 보존치료에도 지속되는 족저근막염·Morton neuroma 등의 통증·기능 제한  `치료 반응 불충분`
+* 신발 교정에도 지속되는 무지외반증 등 구조적 변형의 증상  `구조적 원인`
+* 급성 위험 징후 없는 만성 다발 관절 침범  `전신 염증성 질환`
+
+✽초기 4\~6주에 진단·치료 수행·부하를 재평가하고 비전형적 소견이나 지속적 기능 제한이 있으면 영상·전문과 의뢰를 고려함. 증상성 구조적 변형은 족부 정형외과, 만성 다발 관절 침범은 류마티스내과 협진을 고려함. 새 위험 징후가 생기면 예정된 추적일까지 기다리지 않음.
 
 ***
 
@@ -109,7 +119,7 @@
 * 최대 압통 부위를 한 손가락으로 특정하고, 뼈·관절·힘줄·족저근막의 압통, 능동·수동 ROM 및 저항 운동 시 통증을 비교
 * 부위별 검사 : 족저근막 windlass test, 종골 squeeze test, Morton neuroma의 forefoot compression/Mulder test, 족근관 부위 Tinel sign, 아킬레스건 파열의 Thompson test 등. 단일 검사 음성만으로 해당 질환을 배제하지 않음
 * 후경골건 기능부전/PCFD 의심 시 한 발 뒤꿈치 들기(single-leg heel rise) 수행과 뒤꿈치 내반 여부 평가; 급성 손상 또는 체중 부하가 위험한 경우 시행하지 않음
-* 당뇨병 환자의 보호감각은 10-g 모노필라멘트 또는 Ipswich touch test에 더하여 진동·통각·온도감각 중 적어도 한 검사를 함께 시행 [ADA 2026]
+* 당뇨병 환자의 보호감각은 10-g 모노필라멘트 또는 Ipswich touch test에 더하여 진동·통각·온도감각 중 적어도 한 검사를 함께 시행 <mark style="color:$info;">[ADA 2026]</mark>
 
 ### <mark style="color:orange;">통증 부위에 따른 감별 진단</mark>
 
@@ -190,52 +200,52 @@
 
 ### <mark style="color:orange;">영상 검사 원칙</mark>
 
-* 비외상성 족저근막염 등 전형적 임상 양상은 병력·이학적 검사만으로 진단 가능하며 일상적 방사선 촬영은 불필요 [ACFAS Clinical Consensus Statement, 2018]
-* 만성 발 통증에서 구조적·골성 원인의 영상평가가 필요한 경우 radiography가 일반적인 1차 검사이며, 정렬·변형 평가가 중요한 경우 체중 부하 촬영을 고려 [ACR Appropriateness Criteria® Chronic Foot Pain, Update 2025]
+* 비외상성 족저근막염 등 전형적 임상 양상은 병력·이학적 검사만으로 진단 가능하며 일상적 방사선 촬영은 불필요 <mark style="color:$info;">[ACFAS Clinical Consensus Statement, 2018]</mark>
+* 만성 발 통증에서 구조적·골성 원인의 영상평가가 필요한 경우 radiography가 일반적인 1차 검사이며, 정렬·변형 평가가 중요한 경우 체중 부하 촬영을 고려 <mark style="color:$info;">[ACR Appropriateness Criteria® Chronic Foot Pain, Update 2025]</mark>
 * 규칙 적용이 가능한 급성 midfoot 외상에서는 Ottawa Foot Rules 적용 : midfoot 통증 + (① navicular 골 압통, ② 5th metatarsal base 골 압통, ③ 손상 직후 및 진료 시점 모두 4걸음 체중 부하 불가) 중 하나라도 해당 시 족부 X선 촬영
-  * ✽ 성인 및 5세 초과 소아의 급성 외상에서 적용을 고려하되, 감각신경병증·의사소통/협조 곤란 등으로 진찰이 신뢰되지 않거나 지연 내원한 경우 규칙 음성만으로 영상검사를 생략하지 않음. Calcaneus body·toe/MTP 손상 및 Lisfranc 손상은 별도의 임상 판단이 필요. 특히 발바닥 중족부 멍, TMT 관절 압통·부종 또는 체중 부하 곤란으로 Lisfranc 손상이 의심되면 Ottawa 음성이라도 고정·체중 부하 제한 후 영상 및 전문의 평가가 필요
+  * ✽ 성인 및 5세 초과 소아의 급성 외상에서 적용을 고려하되(ACR Acute Trauma to the Foot의 적용 범위), 소아는 손상 전 정상 보행이 가능하고 진찰에 협조해야 함. 감각신경병증·의사소통/협조 곤란 등으로 진찰이 신뢰되지 않거나 지연 내원한 경우 규칙 음성만으로 영상검사를 생략하지 않음. Calcaneus body·toe/MTP 손상 및 Lisfranc 손상은 별도의 임상 판단이 필요. 특히 발바닥 중족부 멍, TMT 관절 압통·부종 또는 체중 부하 곤란으로 Lisfranc 손상이 의심되면 Ottawa 음성이라도 고정·체중 부하 제한 후 영상 및 전문의 평가가 필요
   * ✽ 별도의 Ottawa Ankle Rules : malleolar zone 통증 + (내측 또는 외측 malleolus 후연 원위 6㎝/끝의 골 압통, 또는 손상 직후 및 진료 시점 모두 4걸음 체중 부하 불가) 중 하나라도 있으면 발목 X선 촬영. 부종 자체는 판정 기준이 아니며 Foot Rules와 적용 부위를 구별
 * 초기 X선 음성이나 스트레스 골절이 강하게 의심되는 경우(특히 navicular 등 고위험 부위) → MRI 우선 고려(필요시 CT 추가); 초음파는 표재성 연부조직 병변 평가에 선택적으로 사용
-* Lisfranc 손상이 의심되는 경우 → 가능한 때 체중 부하 족부 X선 고려. X선이 정상·불명확해도 임상적 의심이 지속되면 CT(잠재 골절·관절 정렬) 또는 MRI(인대 손상) 평가 및 정형외과 의뢰 [ACR Appropriateness Criteria® Acute Trauma to the Foot]
-* 진단이 모호하거나 적절한 치료에도 기능 제한이 지속되어 연부조직 병변 감별이 필요한 경우 → 초음파 또는 비조영 MRI 고려; 비전형적 소견·파열·골절·감염 의심 시 3개월을 기다리지 않음 [ACR Chronic Foot Pain, Update 2025]
+* Lisfranc 손상이 의심되는 경우 → 가능한 때 체중 부하 족부 X선 고려. X선이 정상·불명확해도 임상적 의심이 지속되면 CT(잠재 골절·관절 정렬) 또는 MRI(인대 손상) 평가 및 정형외과 의뢰 <mark style="color:$info;">[ACR Appropriateness Criteria® Acute Trauma to the Foot]</mark>
+* 진단이 모호하거나 적절한 치료에도 기능 제한이 지속되어 연부조직 병변 감별이 필요한 경우 → 초음파 또는 비조영 MRI 고려; 비전형적 소견·파열·골절·감염 의심 시 3개월을 기다리지 않음 <mark style="color:$info;">[ACR Chronic Foot Pain, Update 2025]</mark>
 
 ### <mark style="color:orange;">선택적 검사</mark>
 
 * 전형적인 기계적 발 통증에서 일상적 혈액검사는 불필요
 * 감염 또는 염증성 질환 의심 시 CBC·CRP/ESR 등 선택; 정상 염증수치만으로 감염을 배제하지 않음
-* 패혈성 관절염 가능성이 있는 급성 단관절염은 관절액 세포수·결정검사·Gram 염색·배양을 위한 긴급 관절천자/전문의 평가; 혈청 요산 정상만으로 통풍을 배제하지 않으며 결정이 확인되어도 동반 감염은 가능 [SANJO 2023]
-* 당뇨병성 발 골수염 의심 시 probe-to-bone, 단순 X선 및 ESR/CRP 등을 조합하여 평가하고, 불확실하면 MRI 고려; probe-to-bone 한 검사만으로 확진하거나 배제하지 않음 [IWGDF/IDSA 2023]
+* 패혈성 관절염 가능성이 있는 급성 단관절염은 관절액 세포수·결정검사·Gram 염색·배양을 위한 긴급 관절천자/전문의 평가; 혈청 요산 정상만으로 통풍을 배제하지 않으며 결정이 확인되어도 동반 감염은 가능 <mark style="color:$info;">[SANJO 2023]</mark>
+* 당뇨병성 발 골수염 의심 시 probe-to-bone, 단순 X선 및 ESR/CRP 등을 조합하여 평가하고, 불확실하면 MRI 고려; probe-to-bone 한 검사만으로 확진하거나 배제하지 않음 <mark style="color:$info;">[IWGDF/IDSA 2023]</mark>
 
 ***
 
 ```mermaid
 graph TD
-    Start(["발의 통증"]) --> Red{"즉각 조치가 필요한 위험 징후?"}
-    Red -- 예 --> Urgent["응급 평가·의뢰"]
-    Red -- 아니오 --> Day{"본문의 당일 평가 소견?"}
-    Day -- 예 --> DayCare["원인별 당일 평가·의뢰"]
-    DayCare --> Protect["Charcot·Lisfranc·파열·골절 의심:<br>확진 전 고정·부하 제한, 적절한 영상검사"]
-    Day -- 아니오 --> Trauma{"외상력이 있는가?"}
-    Trauma -- 있음 --> TraumaEval{"급성 midfoot 손상이며<br>Ottawa 규칙 적용이 가능한가?"}
-    TraumaEval -- 예 --> Ottawa{"Ottawa Foot Rules 양성?<br>골 압통 또는 손상 직후·진료 시 모두<br>4걸음 체중 부하 불가"}
-    Ottawa -- 예 --> XR["X선 촬영"]
-    Ottawa -- 아니오 --> Recheck["잠재 골절·규칙 적용 부위 외 손상 재평가"]
-    TraumaEval -- 아니오 --> Clinical["손상 부위·진찰에 따라 영상검사 판단"]
-    Clinical -- 영상검사 필요 --> XR
-    Clinical -- 중대한 손상 의심 낮음 --> SoftTissue["연부조직 손상 평가·보존치료·추적"]
-    XR --> XResult{"골절·탈구 확인?"}
-    XResult -- 예 --> OrthoRef["고정·부하 제한·정형외과 평가"]
-    XResult -- 아니오 --> Recheck
-    Recheck -- 골절 등 의심 지속 --> Advanced["고정·부하 제한 후 CT 또는 MRI<br>전문의 평가"]
-    Recheck -- 중대한 손상 의심 낮음 --> SoftTissue
-    Trauma -- 없음 --> Vascular{"파행·신경병증·만성 당뇨발 소견?"}
-    Vascular -- 예 --> VascularEval["PAD·신경병증 등 원인별 평가"]
-    Vascular -- 아니오 --> Location{"통증 부위는?"}
-    Location -- 전족부 --> ForefootDx["전족부 감별표"]
-    Location -- 중족부 --> MidfootDx["중족부 감별표"]
-    Location -- 후족부 --> RearfootQ{"첫걸음 통증·내측 종골 압통<br>및 다른 원인 의심 낮음?"}
-    RearfootQ -- 예 --> PFDx["족저근막염 임상 진단"]
-    RearfootQ -- 아니오 --> OtherRear["기타 후족부 감별표"]
+    Start(["발의 통증"]) ---> Red{"즉각 조치가 필요한 위험 징후?"}
+    Red -- 예 ---> Urgent["응급 평가·의뢰"]
+    Red -- 아니오 ---> Day{"본문의 당일 평가 소견?"}
+    Day -- 예 ---> DayCare["원인별 당일 평가·의뢰"]
+    DayCare ---> Protect["Charcot·Lisfranc·파열·골절 의심: 확진 전 고정·부하 제한, 적절한 영상검사"]
+    Day -- 아니오 ---> Trauma{"외상력이 있는가?"}
+    Trauma -- 있음 ---> TraumaEval{"급성 midfoot 손상이며 Ottawa 규칙 적용이 가능한가?"}
+    TraumaEval -- 예 ---> Ottawa{"Ottawa Foot Rules 양성? 골 압통 또는 손상 직후·진료 시 모두 4걸음 체중 부하 불가"}
+    Ottawa -- 예 ---> XR["X선 촬영"]
+    Ottawa -- 아니오 ---> Recheck["잠재 골절·규칙 적용 부위 외 손상 재평가"]
+    TraumaEval -- 아니오 ---> Clinical["손상 부위·진찰에 따라 영상검사 판단"]
+    Clinical -- 영상검사 필요 ---> XR
+    Clinical -- 중대한 손상 의심 낮음 ---> SoftTissue["연부조직 손상 평가·보존치료·추적"]
+    XR ---> XResult{"골절·탈구 확인?"}
+    XResult -- 예 ---> OrthoRef["고정·부하 제한·정형외과 평가"]
+    XResult -- 아니오 ---> Recheck
+    Recheck -- 골절 등 의심 지속 ---> Advanced["고정·부하 제한 후 CT 또는 MRI 전문의 평가"]
+    Recheck -- 중대한 손상 의심 낮음 ---> SoftTissue
+    Trauma -- 없음 ---> Vascular{"파행·신경병증·만성 당뇨발 소견?"}
+    Vascular -- 예 ---> VascularEval["PAD·신경병증 등 원인별 평가"]
+    Vascular -- 아니오 ---> Location{"통증 부위는?"}
+    Location -- 전족부 ---> ForefootDx["전족부 감별표"]
+    Location -- 중족부 ---> MidfootDx["중족부 감별표"]
+    Location -- 후족부 ---> RearfootQ{"첫걸음 통증·내측 종골 압통 및 다른 원인 의심 낮음?"}
+    RearfootQ -- 예 ---> PFDx["족저근막염 임상 진단"]
+    RearfootQ -- 아니오 ---> OtherRear["기타 후족부 감별표"]
     style PFDx fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
@@ -255,6 +265,13 @@ graph TD
 <table><thead><tr><th width="170">주요 원인군</th><th>1차 치료 방향</th></tr></thead><tbody><tr><td>과사용성 건병증(tendinopathy), 근막염</td><td>활동·부하 조절, 진단에 맞는 점진적 근력·건 부하 운동, 스트레칭; 필요시 단기간 진통제. 아킬레스건 실질 내 corticosteroid 주사는 피함</td></tr><tr><td>구조적 변형(bunion, hammertoe 등)</td><td>넓은 신발, 패딩·교정기; 증상 지속 시 정형외과 의뢰</td></tr><tr><td>신경성(Morton neuroma, tarsal tunnel)</td><td>넓은 신발, 신경 압박·국소 부하 감소; Morton neuroma에서는 중족골두 바로 근위부 패드 고려. 지속 시 원인 재평가 및 전문의 치료</td></tr><tr><td>외상성(골절, 염좌)</td><td>골절·파열 의심 시 고정 및 체중 부하 제한·정형외과 평가; 단순 염좌는 중증도에 따른 기능적 재활</td></tr><tr><td>전신 염증성(통풍, RA)</td><td>감염 배제 후 질환별 치료; 급성 통풍에는 적응에 따라 NSAID·colchicine·corticosteroid 중 선택. RA는 질병조절항류마티스제 치료를 위한 협진</td></tr><tr><td>혈관성(PAD)</td><td>증상·허혈 정도 평가, 금연·심혈관 위험인자 및 적응에 따른 약물 관리·운동치료; 휴식통·궤양·괴저는 신속한 혈관 평가</td></tr></tbody></table>
 
 ***
+
+### <mark style="color:orange;">아킬레스건병증의 운동 처방</mark>
+
+* 중간부(midportion, 부착부 근위 약 2\~6㎝)와 부착부(insertional)를 구분하며, **파열이 의심되면 아래 부하 운동을 시작하지 않음**
+* 중간부 건병증 : 교육·활동 조절과 허용 가능한 범위에서 점진적 건 부하 운동을 1차로 시행함. 편심성 운동만 고집하지 않고 저항성 뒤꿈치 들기 등 부하를 통증·기능·다음 날 반응에 맞춰 조정하며, 장기간 완전 휴식은 피함. 2024 JOSPT 지침의 대상은 중간부 건병증임 <mark style="color:$info;">[JOSPT 2024]</mark>
+* 부착부 건병증 : 종골과 건 사이의 압박을 줄이도록 초기에는 바닥 높이에서 뒤꿈치 들기를 시행하고, 계단 아래로 뒤꿈치를 깊이 내리는 동작·강한 종아리 스트레칭 등 끝범위 배굴을 줄임. 필요시 일시적 heel lift를 부하 운동과 함께 사용하고 점진적으로 운동 범위를 조절함. 통증을 유발하는 압박을 줄이는 것이며 건 부하 운동 전체를 중단하는 의미는 아님 <mark style="color:$info;">[Pringels et al. 2025]</mark>
+* 2025년 무작위시험은 운동을 하는 만성 부착부 건병증 환자 42명에서 **배굴 제한·종아리 스트레칭 제외·heel lift를 포함한 복합 재활**의 이점을 보였음. Heel lift 단독 효과나 모든 환자에서의 동일 효과로 확대 해석하지 않음 <mark style="color:$info;">[Pringels et al. 2025]</mark>
 
 ## <mark style="color:green;">족저근막염 Plantar Fasciitis - 발뒤꿈치 통증의 가장 흔한 원인</mark>
 
@@ -282,7 +299,7 @@ graph TD
 
 ### <mark style="color:orange;">진단</mark>
 
-* 전형적 병력(아침 첫 걸음/휴식 후 보행 시작 통증)과 anteromedial calcaneus 압통이 있고 다른 원인이 의심되지 않으면 임상적으로 진단 가능하며 일상적 영상검사는 불필요 [ACFAS 2018]
+* 전형적 병력(아침 첫 걸음/휴식 후 보행 시작 통증)과 anteromedial calcaneus 압통이 있고 다른 원인이 의심되지 않으면 임상적으로 진단 가능하며 일상적 영상검사는 불필요 <mark style="color:$info;">[ACFAS 2018]</mark>
 * 초음파 또는 비조영 MRI : 진단이 모호하거나 적절한 치료에도 호전이 불충분한 경우 고려; 초음파의 근막 비후·저에코 등은 보조 소견이며 영상 단독으로 확진하지 않음. 골절·파열·감염 등 의심 시 조기에 검사
 * X선 : 골극(calcaneal spur) 확인 목적보다는 스트레스 골절 등 다른 골격 원인 감별을 위해 고려 - 골극은 무증상에서도 흔하며 단독으로 통증의 원인을 확정하거나 치료 방침을 결정하지 않음
 
@@ -295,7 +312,7 @@ graph TD
 {% hint style="info" %}
 **단계별 치료 전략**
 
-1차 치료는 교육·활동/신발 조정, 족저근막 및 종아리 스트레칭에 테이핑·도수치료·점진적 운동치료를 조합함 [JOSPT/APTA 2023 CPG]. 아침 첫걸음 통증이 지속되면 1\~3개월간 night splint를 권고함 [JOSPT/APTA 2023, Grade A]. 표준 보존치료에 반응이 불충분하면 단계적으로 ESWT 또는 맞춤 교정기 등을 추가함 [BJSM Best Practice Guide, 2021]. Corticosteroid 주사는 단기 통증 완화 가능성과 파열·지방패드 위축 위험을 함께 고려하여 선택적으로 사용함.
+1차 치료는 교육·활동/신발 조정, 족저근막 및 종아리 스트레칭에 테이핑·도수치료·점진적 운동치료를 조합함 <mark style="color:$info;">[JOSPT/APTA 2023 CPG]</mark>. 아침 첫걸음 통증이 지속되면 1\~3개월간 night splint를 권고함 <mark style="color:$info;">[JOSPT/APTA 2023, Grade A]</mark>. 표준 보존치료에 반응이 불충분하면 단계적으로 ESWT 또는 맞춤 교정기 등을 추가함 <mark style="color:$info;">[BJSM Best Practice Guide, 2021]</mark>. 일반적인 비염증성 족저 발뒤꿈치 통증에는 corticosteroid 주사를 통상적 단계 치료로 넣지 않음; 지침 간 권고 차이는 아래 약물 치료 참조.
 {% endhint %}
 
 #### <mark style="color:$primary;">보존적 치료 (1차)</mark>
@@ -303,39 +320,42 @@ graph TD
 * 적정 체중 유지
 * 편안한 착화감·완충력·아치 지지를 갖춘 신발 선택; 지나치게 높은 굽 또는 지지·완충력이 부족한 얇고 평평한 신발은 피하고, 맨발로 딱딱한 바닥을 걷는 활동을 줄임
 * 족저근막 특이적 스트레칭 및 비복근-가자미근 스트레칭, 마사지, 냉찜질, 뒤꿈치 쿠션/패드
-* 관절·연부조직 제한에 대한 도수치료, 발·발목 근육의 저항 운동을 포함한 강화·신경근 재훈련 [JOSPT/APTA 2023]
-* 테이핑(다른 물리치료와 병행 시 단기 효과) [JOSPT/APTA 2023]
-* trigger point dry needling(건식침; 비복근·가자미근·발바닥 근육의 근막통증 유발점) : 숙련된 시술자가 통증·기능 개선을 위한 보조 치료로 시행 가능 [JOSPT/APTA 2023, Grade B]
-* 아침 첫 걸음 통증이 두드러진 환자에서 야간 부목(약간의 ankle dorsiflexion 유지)을 1\~3개월 권고 [JOSPT/APTA 2023, Grade A]
-* 맞춤 또는 기성 발 교정기(orthoses) : 단독 치료보다는 스트레칭·교육·테이핑 등 다른 보존치료와 병행하여 사용 [JOSPT/APTA 2023]. BJSM BPG의 단계적 추가 순서는 core approach → ESWT → custom orthoses이며, 모든 환자에게 이 순서를 강제하는 것은 아님 [BJSM Best Practice Guide, 2021]
+* 관절·연부조직 제한에 대한 도수치료, 발·발목 근육의 저항 운동을 포함한 강화·신경근 재훈련 <mark style="color:$info;">[JOSPT/APTA 2023]</mark>
+* 테이핑(다른 물리치료와 병행 시 단기 효과) <mark style="color:$info;">[JOSPT/APTA 2023]</mark>
+* trigger point dry needling(건식침; 비복근·가자미근·발바닥 근육의 근막통증 유발점) : 숙련된 시술자가 통증·기능 개선을 위한 보조 치료로 시행 가능 <mark style="color:$info;">[JOSPT/APTA 2023, Grade B]</mark>
+* 아침 첫 걸음 통증이 두드러진 환자에서 야간 부목(약간의 ankle dorsiflexion 유지)을 1\~3개월 권고 <mark style="color:$info;">[JOSPT/APTA 2023, Grade A]</mark>
+* 맞춤 또는 기성 발 교정기(orthoses) : 단독 치료보다는 스트레칭·교육·테이핑 등 다른 보존치료와 병행하여 사용 <mark style="color:$info;">[JOSPT/APTA 2023]</mark>. BJSM BPG의 단계적 추가 순서는 core approach → ESWT → custom orthoses이며, 모든 환자에게 이 순서를 강제하는 것은 아님 <mark style="color:$info;">[BJSM Best Practice Guide, 2021]</mark>
 * 운동 변경
   * 조절 : 통증을 악화시키는 달리기·점프·장시간 보행/서기를 일시적으로 줄이고 통증과 다음 날 반응을 보며 점진적으로 회복; 모든 체중 부하 활동의 일률적 중단은 피함
   * 선택 : 족저근막에 부하가 덜한 운동. 예) 고정식 자전거, 수영
-* 치료용 초음파(ultrasound therapy) : 스트레칭 효과를 높이기 위한 일상적 추가 치료로 권고하지 않음; 진단용 초음파와 구별 [JOSPT/APTA 2023]
+* 치료용 초음파(ultrasound therapy) : 스트레칭 효과를 높이기 위한 일상적 추가 치료로 권고하지 않음; 진단용 초음파와 구별 <mark style="color:$info;">[JOSPT/APTA 2023]</mark>
 
 #### <mark style="color:$primary;">약물 치료</mark>
 
 * 경구 NSAID : 통증으로 기능·재활이 제한될 때 최소 유효용량으로 단기간 선택적 사용; 족저근막염 자체의 회복을 촉진하는 근거는 부족하므로 일률적으로 처방하지 않음. 위장관·신장·심혈관 위험 고려
+  * 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
+* Acetaminophen 대안을 선택할 때 : 타이레놀정·타이레놀8시간이알서방정은 국내 허가상 소화성궤양, 심한 간·신장·심장기능 장애, aspirin 천식/병력, 바르비탈계 약물·TCA 복용 등에서 금기임. NSAID가 부적절하다는 이유만으로 자동 선택하지 않고 acetaminophen 자체의 금기를 먼저 확인함
+* 경구 NSAID와 임신 : 임신 20주 이후에는 태아 신기능 저하·양수과소 위험 때문에 필요한 예외적 경우를 제외하고 피하며, 임신 후기에는 사용하지 않음. 저용량 aspirin 복용자는 ibuprofen의 항혈소판 작용 간섭 가능성을 확인함 <mark style="color:$info;">[제품 허가사항; FDA 안전성 서한]</mark>
 * 국소(외용) NSAID : 국소 근골격계 통증에 대한 일반적 진통 전략으로 선택적으로 고려하되, 족저근막염 특이적 효과의 근거는 제한적이며 전신 부작용도 완전히 없어지는 것은 아님; 제품별 국내 허가 범위·피부 상태 확인
-* 국소 corticosteroid 주사 : 단기 통증 경감이 가능하나 효과의 크기·지속기간은 불확실하며, 반복 주사 시 족저근막 파열 및 발뒤꿈치 지방패드 위축 위험이 있으므로 반복 주사는 피하거나 최소화하고, 가능한 경우 초음파 유도 하 시행을 고려
+* 국소 corticosteroid 주사 : **ASRA 등 2025 다학제 지침은 비염증성 족저 발뒤꿈치 통증에서 주사를 피하도록 권고함(Grade D)**. 과거 ACFAS 2018 합의문의 선택적 사용 입장과 권고가 다르므로, 본 장에서는 일반적인 기계적·퇴행성 족저근막염에 통상 시행하지 않는 접근을 채택함. 보존치료에 반응하지 않는 류마티스성 염증성 발뒤꿈치 통증은 전문의가 별도 평가하며 해당 지침은 선택적 주사를 허용함(Grade C); 일반 족저근막염의 반복 주사 근거로 확대하지 않음 <mark style="color:$info;">[ASRA 등 2025; ACFAS 2018]</mark>
 
 {% hint style="danger" %}
 **⚠️ 국소 스테로이드 주사 관련 주의**\
-반복적인 족저근막 국소 스테로이드 주사는 족저근막 파열 및 지방패드 위축을 유발할 수 있으므로, 동일 부위 반복 주사는 피하거나 최소화하고 가능한 경우 초음파 유도 하 시행을 고려하십시오. 주사 직후 격렬한 체중 부하 활동은 피하도록 안내가 필요합니다.
+족저근막 파열·지방패드 위축 위험을 설명하고 일반적인 비염증성 족저근막염에는 주사를 통상 시행하지 않음. 초음파 유도가 이러한 적응증 판단을 대체하거나 임상적 유효성을 보장하지 않음. 예외적으로 전문의 판단하에 시행한 경우 주사 후 격렬한 체중 부하 활동을 피하도록 안내함.
 {% endhint %}
 
 #### <mark style="color:$primary;">시술적 치료 (난치성)</mark>
 
-* 단계적 접근 : core approach(개별 교육·족저근막 스트레칭·테이핑) → 호전 불충분 시 ESWT → 이후에도 호전 불충분 시 맞춤 교정기 추가 [BJSM Best Practice Guide, 2021]. 수술은 이 BPG의 단계적 권고에 포함된 필수 다음 단계가 아니며 별도로 전문의가 판단
-* extracorporeal shock wave therapy(ESWT) : 교육·스트레칭·테이핑 등 충분한 core conservative treatment에도 임상적으로 의미 있는 호전이 없을 때 단계적 추가 치료로 고려 [BJSM Best Practice Guide, 2021]
-* endoscopic/open fasciotomy : 6\~12개월의 충분한 보존적 치료에도 활동 제한이 지속되는 난치성 환자에서 정형외과/족부 전문의 의뢰 후 고려하는 최후 선택지; 비복근 단축이 뚜렷한 경우 gastrocnemius recession 등 다른 수술도 전문의가 평가 [ACFAS 2018 전문가 합의]
+* 단계적 접근 : core approach(개별 교육·족저근막 스트레칭·테이핑) → 호전 불충분 시 ESWT → 이후에도 호전 불충분 시 맞춤 교정기 추가 <mark style="color:$info;">[BJSM Best Practice Guide, 2021]</mark>. 수술은 이 BPG의 단계적 권고에 포함된 필수 다음 단계가 아니며 별도로 전문의가 판단
+* extracorporeal shock wave therapy(ESWT) : 교육·스트레칭·테이핑 등 충분한 core conservative treatment에도 임상적으로 의미 있는 호전이 없을 때 단계적 추가 치료로 고려 <mark style="color:$info;">[BJSM Best Practice Guide, 2021]</mark>
+* endoscopic/open fasciotomy : 6\~12개월의 충분한 보존적 치료에도 활동 제한이 지속되는 난치성 환자에서 정형외과/족부 전문의 의뢰 후 고려하는 최후 선택지; 비복근 단축이 뚜렷한 경우 gastrocnemius recession 등 다른 수술도 전문의가 평가 <mark style="color:$info;">[ACFAS 2018 전문가 합의]</mark>
 
 ## <mark style="color:green;">비-약물 치료 및 예방 (공통 원칙)</mark>
 
 * 볼이 넓고 완충력이 있는 신발 선택; 발에 맞지 않거나 지지·완충력이 부족한 신발 회피
 * 급격한 운동량·보행량 증가 지양, 점진적 활동량 조정
 * 체중 관리
-* 당뇨병 환자 : 매일 발 육안 검사, 적절한 발톱 관리, 최소 연 1회 포괄적 발 검사(피부·변형·보호감각·혈관 평가). 감각 저하 또는 궤양·절단 과거력이 있으면 매 방문 시 발 확인. 보호감각 평가는 10-g 모노필라멘트 또는 Ipswich touch test에 진동·통각·온도감각 중 한 검사를 추가. 파행·휴식통·발맥박 감소 등 PAD 의심 소견이 있으면 ABI와 발가락혈압/TBI 등 평가(당뇨병·CKD에서는 동맥 석회화로 ABI가 정상 또는 높게 나타나도 PAD를 배제하지 못함); 무증상 고위험군에서는 PAD 진단이 관리 방침을 바꿀 때 ABI 선별검사 고려. 상처 발생 시 조기 내원 교육 [ADA Standards of Care 2026]
+* 당뇨병 환자 : 매일 발 육안 검사, 적절한 발톱 관리, 최소 연 1회 포괄적 발 검사(피부·변형·보호감각·혈관 평가). 감각 저하 또는 궤양·절단 과거력이 있으면 매 방문 시 발 확인. 보호감각 평가는 10-g 모노필라멘트 또는 Ipswich touch test에 진동·통각·온도감각 중 한 검사를 추가. 파행·휴식통·발맥박 감소 등 PAD 의심 소견이 있으면 ABI와 발가락혈압/TBI 등 평가(당뇨병·CKD에서는 동맥 석회화로 ABI가 정상 또는 높게 나타나도 PAD를 배제하지 못함); 무증상 고위험군에서는 PAD 진단이 관리 방침을 바꿀 때 ABI 선별검사 고려. 상처 발생 시 조기 내원 교육 <mark style="color:$info;">[ADA Standards of Care 2026]</mark>
 
 ***
 
@@ -343,17 +363,19 @@ graph TD
 
 M79.67 사지의 통증, 발목 및 발 Pain in limb, ankle and foot
 
-M72.2 발바닥근막성 섬유종증 Plantar fascial fibromatosis [발바닥근막염의 코딩에도 사용; 임상적으로 두 질환은 구별]
+M72.2 발바닥근막성 섬유종증 Plantar fascial fibromatosis (발바닥근막염의 코딩에도 사용; 임상적으로 두 질환은 구별)
 
 M77.3 종골돌기 Calcaneal spur
 
-✽원인 질환이 확인되면 증상 코드만 사용하는 대신 해당 진단을 기록함. 영상에서 종골돌기가 보인다는 이유만으로 족저근막염을 종골돌기로 대체 코딩하지 않음. 실제 적용은 KCD-9 분류표·색인 및 청구 시점의 심사평가원 기준으로 확인; 위 세 코드의 KCD-9 개별 원문 대조는 이번 검토에서 완료하지 못함.
+✽원인 질환이 확인되면 증상 코드만 사용하는 대신 해당 진단을 기록함. 영상에서 종골돌기가 보인다는 이유만으로 족저근막염을 종골돌기로 대체 코딩하지 않음. 실제 적용은 KCD-9 분류표·색인 및 청구 시점의 심사평가원 기준으로 확인함.
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
 ✽성인의 단기 증상 조절 예시이며, 교육·활동/신발 조절·스트레칭을 병행함. 아래 NSAID 용량·빈도는 최소 유효용량을 고려한 예시로, 모든 질환의 제품 허가 표준 요법을 뜻하지 않음. 족저근막염이 제품 허가 효능에 별도로 명시되지 않은 약제는 허가 범위를 확인함.
+
+✽Naproxen의 급성 골격근장애·건염·윤활낭염 허가 용법은 초회 500 ㎎ 후 250 ㎎ q6~8h, 초회량 포함 최대 1,250 ㎎/d임. 아래 250 ㎎ bid PRN은 보수적인 단기 증상 조절 예시이며 급성 통풍 용법과 구분함.
 
 > **처방례 1. 경증 족저근막염**
 >
@@ -379,10 +401,10 @@ M77.3 종골돌기 Calcaneal spur
 > ```
 > (정형외과/재활의학과 의뢰)
 > 진단·보존치료 수행 재평가 후 ESWT 등 추가 치료 검토
-> 필요시 위험·효과를 설명하고 선택적으로 초음파 유도 corticosteroid 주사 고려
+> 일반적인 비염증성 족저근막염에는 corticosteroid 주사를 통상 시행하지 않음
 > ```
 >
-> _✽4\~6주에도 호전이 불충분하면 우선 진단·순응도·스트레칭 수행 여부·신발 및 활동 조절·다른 heel pain 원인을 재평가; 충분한 core conservative treatment에도 기능 제한이 지속되는 경우 ESWT 또는 선택적 corticosteroid 주사를 단계적으로 고려하며, 반복 주사는 족저근막 파열·지방패드 위축 위험이 있어 피하거나 최소화하고 가능한 경우 초음파 유도 하 시행을 고려_
+> _✽4\~6주에도 호전이 불충분하면 우선 진단·순응도·스트레칭 수행 여부·신발 및 활동 조절·다른 heel pain 원인을 재평가; 충분한 core conservative treatment에도 기능 제한이 지속되는 경우 ESWT·교정기 등 추가 치료를 검토함. 염증성 enthesitis가 의심되면 류마티스 질환을 별도 평가하며 주사를 보존치료 실패의 자동 다음 단계로 두지 않음_
 
 > **처방례 4. 당뇨병 동반 환자의 근골격계 통증 — 감염·허혈·Charcot 등 배제 후, NSAID를 피하려는 경우**
 >
@@ -412,7 +434,7 @@ M77.3 종골돌기 Calcaneal spur
 
 > **국소 스테로이드 주사 관련**
 >
-> * 효과는 일시적이며 반복 주사는 족저근막 파열, 지방패드 위축 위험이 있으므로 피하거나 최소화해야 함을 설명
+> * 일반적인 비염증성 족저근막염에는 통상 권고하지 않으며, 과거 일부 지침과 권고가 다름을 설명. 시행 여부는 적응증·대안·파열/지방패드 위축 위험을 전문의와 논의
 > * 주사 후 수일간 격렬한 체중 부하 활동은 피하도록 안내
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -447,7 +469,7 @@ M77.3 종골돌기 Calcaneal spur
 ### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
 * 소염진통제를 처방받았다면 통증 조절을 위해 처방된 기간·용법대로 사용하십시오. 장기 복용이 필요한 치료는 아니므로 이후 지속 여부를 의료진과 상의하십시오
-* 병원에서 맞는 스테로이드 주사는 효과가 일시적이며 반복 주사는 근막 파열이나 지방패드 위축 위험이 있어 가급적 최소화합니다
+* 일반적인 족저근막염에는 스테로이드 주사를 보통 권하지 않습니다. 근막 파열이나 발뒤꿈치 지방패드 위축 위험이 있으며, 통증의 원인과 다른 치료 방법을 먼저 확인합니다
 
 ### <mark style="color:$primary;">다음과 같은 경우 다시 진료를 받으세요</mark>
 
@@ -457,7 +479,9 @@ M77.3 종골돌기 Calcaneal spur
 
 ***
 
-### 참고 문헌
+## 주요 참고문헌 및 확인 자료
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * Koc TA Jr, et al. **Heel Pain–Plantar Fasciitis: Revision 2023.** J Orthop Sports Phys Ther. 2023;53(12):CPG1–CPG39. [doi:10.2519/jospt.2023.0303](https://doi.org/10.2519/jospt.2023.0303)
 * Morrissey D, et al. **Management of plantar heel pain: a best practice guide informed by a systematic review, expert clinical reasoning and patient values.** Br J Sports Med. 2021;55:1106–1118. [doi:10.1136/bjsports-2019-101970](https://doi.org/10.1136/bjsports-2019-101970)
@@ -471,4 +495,12 @@ M77.3 종골돌기 Calcaneal spur
 * NICE. **Venous thromboembolic diseases: diagnosis, management and thrombophilia testing (NG158).** [권고 원문](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations)
 * Ravn C, et al. **Guideline for management of septic arthritis in native joints (SANJO).** J Bone Jt Infect. 2023;8:29–37. [원문](https://jbji.copernicus.org/articles/8/29/2023/)
 * AAOS OrthoInfo. [Stress Fractures of the Foot and Ankle](https://www.orthoinfo.org/diseases--conditions/stress-fractures-of-the-foot-and-ankle/), [Toe and Forefoot Fractures](https://www.orthoinfo.org/diseases--conditions/toe-and-forefoot-fractures/), [Achilles Tendinitis](https://www.orthoinfo.org/diseases--conditions/achilles-tendinitis/)
-* 국내 제품 정보 : 식약처 [부루펜정 200 ㎎](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700120), 종근당 [낙센정 250 ㎎](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000002), 식약처 [타이레놀정 500 ㎎](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106092)
+* Chimenti RL, et al. **Achilles Pain, Stiffness, and Muscle Power Deficits: Midportion Achilles Tendinopathy Revision – 2024.** J Orthop Sports Phys Ther. 2024;54(12):CPG1–CPG32. [doi:10.2519/jospt.2024.0302](https://doi.org/10.2519/jospt.2024.0302)
+* Pringels L, et al. **Effectiveness of reducing tendon compression in the rehabilitation of insertional Achilles tendinopathy: a randomised clinical trial.** Br J Sports Med. 2025;59:640–650. [doi:10.1136/bjsports-2024-109138](https://doi.org/10.1136/bjsports-2024-109138)
+* Benzon HT, et al. **Use and safety of corticosteroid injections in joints and musculoskeletal soft tissue: guidelines from ASRA Pain Medicine, AAPM, ASIPP and IPSIS.** 2025 온라인 발표. [doi:10.1136/rapm-2024-105656](https://doi.org/10.1136/rapm-2024-105656)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처 [의약품안전나라](https://nedrug.mfds.go.kr/) — 부루펜정 200 ㎎, 낙센정 250 ㎎, 타이레놀정 500 ㎎의 효능·용법·금기·주의사항
+* 종근당 [낙센정 제품 정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000002) — 급성 골격근장애의 허가 용법과 본 장의 저용량 필요시 처방례를 구별
+* FDA. [NSAID 임신 20주 이후 사용에 대한 안전성 서한](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic) — 산과적 적응으로 처방하는 저용량 aspirin은 별도 권고를 따름

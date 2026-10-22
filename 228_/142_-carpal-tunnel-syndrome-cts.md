@@ -13,16 +13,16 @@
 
 ### <mark style="color:orange;">위험 인자</mark>
 
-* 연령 : 중년에서 흔함; 연령과 위험의 관계가 일률적으로 증가하는 것은 아님 [APTA/JOSPT 2026]
+* 연령 : 중년에서 흔함; 연령과 위험의 관계가 일률적으로 증가하는 것은 아님 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
 * 성별 : 여성(남성의 2\~5배)
-* 비만/높은 BMI, 높은 손·손목 반복 동작 노출 \[AAOS 2016 Strong evidence]
-* 폐경 주변기, wrist ratio/index 증가, 류마티스 관절염, 정신사회적 요인, 원예, 원위부 상지 건병증, 조립라인 작업, 일부 컴퓨터 관련 작업, 진동 노출, 건염, 작업장에서의 강한 악력/힘 사용 \[AAOS 2016 Moderate evidence]
+* 비만/높은 BMI, 높은 손·손목 반복 동작 노출 <mark style="color:$info;">[AAOS 2016 Strong evidence]</mark>
+* 폐경 주변기, wrist ratio/index 증가, 류마티스 관절염, 정신사회적 요인, 원예, 원위부 상지 건병증, 조립라인 작업, 일부 컴퓨터 관련 작업, 진동 노출, 건염, 작업장에서의 강한 악력/힘 사용 <mark style="color:$info;">[AAOS 2016 Moderate evidence]</mark>
   * ✽ 위 위험 인자의 근거 수준은 AAOS **2016** 지침의 분류임. AAOS 2024 지침은 단순한 키보드 사용량(high keyboard use) 자체와 CTS 발생 간 연관성을 뒷받침할 신뢰할 만한 근거가 없다는 실무진 합의 의견(committee opinion)을 제시함; 직업적 요인 중 반복·힘 사용·진동과 단순 키보드 사용은 구분하여 평가
-* 투석, 섬유근통, 정맥류, 원위 요골 골절 \[AAOS 2016 Limited evidence]
-* 신체 활동/운동과 발생 위험 감소의 연관성이 보고됨 \[AAOS 2016 Moderate evidence]; 후속 근거 평가에서는 보호 효과의 근거가 제한적이므로 개인의 운동이 CTS를 예방한다고 단정하지 않음
-* 경구 피임약, 호르몬 대체요법 : AAOS 2016은 발생 위험 증가·감소와 연관성이 없다고 평가했으나(Moderate evidence), 후속 근거는 상충함 \[APTA/JOSPT 2026]; 위험 여부를 확정적으로 단정하지 않음
+* 투석, 섬유근통, 정맥류, 원위 요골 골절 <mark style="color:$info;">[AAOS 2016 Limited evidence]</mark>
+* 신체 활동/운동과 발생 위험 감소의 연관성이 보고됨 <mark style="color:$info;">[AAOS 2016 Moderate evidence]</mark>; 후속 근거 평가에서는 보호 효과의 근거가 제한적이므로 개인의 운동이 CTS를 예방한다고 단정하지 않음
+* 경구 피임약, 호르몬 대체요법 : AAOS 2016은 발생 위험 증가·감소와 연관성이 없다고 평가했으나(Moderate evidence), 후속 근거는 상충함 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>; 위험 여부를 확정적으로 단정하지 않음
 * 전신 연관 질환 : 당뇨병, RA, 갑상선저하증, 신부전
-  * 고령자의 양측 CTS에 원인 불명 심부전/심실벽 비후, 요추관협착증 등 다른 단서가 동반되면 ATTR 아밀로이드증 감별을 고려; 양측 CTS만으로 일률적 선별 검사를 시행하지는 않음. 수술 환자에서 아밀로이드증 위험 인자가 여러 개인 경우 건활막 병리검사는 개별적으로 고려 가능 \[AAOS 2024 Consensus]
+  * 고령자의 양측 CTS에 원인 불명 심부전/심실벽 비후, 요추관협착증 등 다른 단서가 동반되면 ATTR 아밀로이드증 감별을 고려; 양측 CTS만으로 일률적 선별 검사를 시행하지는 않음. 수술 환자에서 아밀로이드증 위험 인자가 여러 개인 경우 건활막 병리검사는 개별적으로 고려 가능 <mark style="color:$info;">[AAOS 2024 Consensus]</mark>
 * 체액/호르몬 변화 : 임신, 비만, CHF
   * 임신 관련 CTS는 출산 후 호전되는 경우가 많으나 수주~수개월 이상 지속될 수 있음; 지속적 감각저하·근력저하가 있으면 재평가
 
@@ -47,25 +47,31 @@
 
 ### <mark style="color:orange;">임상 경과 및 증상 변이</mark>
 
-* 일부 CTS 환자에서는 불안·우울 등 정신사회적 요인이 동반되며(약 30% 보고), 증상·기능 장애와 연관될 수 있으나 인과관계에 대한 근거는 일관되지 않음 \[APTA/JOSPT 2026]
-* 정중신경 영역을 벗어난 extramedian symptom spread는 central sensitization 가능성을 시사할 수 있으나, 이를 확진하는 표준화된 방법은 없으며 근거도 제한적임 \[APTA/JOSPT 2026]
+* 일부 CTS 환자에서는 불안·우울 등 정신사회적 요인이 동반되며(약 30% 보고), 증상·기능 장애와 연관될 수 있으나 인과관계에 대한 근거는 일관되지 않음 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
+* 정중신경 영역을 벗어난 extramedian symptom spread는 central sensitization과 관련될 가능성이 제시되었으나 이를 확진하는 표준화된 방법은 없으며 근거도 제한적임. 척골신경병증·경추 신경근병증·다발신경병증 등 다른 원인을 먼저 감별함 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 외상(원위 요골 골절, 관절 탈구, 손목 압궤 손상 등) 후 또는 급성 출혈·감염 등의 상황에서 급격히 발생·악화되는 손저림·감각저하와 심한 통증, 손목 부종/긴장감 → 급성 수근관증후군 의심; 비가역적 신경 손상 예방을 위해 응급 감압술이 필요할 수 있어 즉시 정형외과/수부외과 응급 의뢰
+* 외상(원위 요골 골절·탈구·압궤 손상 등), 급성 출혈·감염 등의 상황에서 급격히 발생·악화되는 정중신경 분포 저림·감각 저하와 심한 통증, 손목 부종·긴장감  `급성 수근관증후군 의심`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* Thenar 위축 또는 객관적인 thumb abduction/opposition weakness가 새로 확인되는 경우(빠른 진행 시 당일) → 진행된 신경 손상 가능성, 수부외과 조기 의뢰; 필요 시 신경전도/근전도 검사로 중증도 및 감별 평가(검사 때문에 의뢰를 지연하지 않음)
-* 임신 중 지속적 감각소실, 객관적 thenar weakness/atrophy 등 신경손상 소견이 새로 발생하거나 빠르게 진행하는 경우(빠른 진행 시 당일)
-* 정중신경 분포를 뚜렷하게 벗어난 지속적 감각이상에 목 통증·상지 방사통, 다른 신경학적 이상 등이 동반되는 경우 → 경추 신경근병증 등 감별 필요
+* 무지구 위축, 객관적인 엄지 벌림·맞섬 근력 저하 또는 지속적 감각소실; 빠른 진행 시 **(당일)**  `진행된 정중신경 손상 의심`
+* 임신 중 지속적 감각소실, 객관적 무지구 근력 저하·위축 등 신경손상 소견의 새로운 발생 또는 진행; 빠른 진행 시 **(당일)**  `임신 관련 CTS의 신경손상 의심`
+* 정중신경 분포를 뚜렷하게 벗어난 지속적 감각이상에 목 통증·상지 방사통 또는 다른 신경학적 이상 동반  `경추 신경근병증 등 감별`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 야간 neutral wrist splint를 중심으로 한 4\~8주 보존 치료에도 호전이 없는 경우 → 진단 재평가, 필요 시 신경전도검사 및 수부외과 의뢰
-* 양측성 증상이면서 갑상선기능저하증, 당뇨병, RA 등 전신 질환이 의심되는 경우 → 원인 질환 감별 검사 계획
+* 야간 중립위 부목을 중심으로 한 4~8주 보존 치료에도 호전이 없는 경우  `진단·중증도 재평가`
+* 양측성 증상이면서 갑상선기능저하증·당뇨병·RA 등 전신 질환이 의심되는 경우  `전신 질환 감별`
+
+#### <mark style="color:$primary;">평가·추적 원칙</mark>
+
+* 급성 CTS는 비가역적 신경 손상을 예방하기 위해 응급 감압술이 필요할 수 있으므로 즉시 정형외과·수부외과에 의뢰함
+* 지속 감각소실·객관적 근력 저하·무지구 위축이 있으면 수부외과 조기 평가를 연결함. 필요 시 신경전도·침근전도검사로 중증도·감별을 평가하되 검사나 steroid 치료 때문에 의뢰를 지연하지 않음
+* 4~8주는 진행성 신경손상이 없는 환자의 실무상 재평가 시점이며, 모든 환자에게 적용되는 수술 전환의 절대 기한은 아님
 
 ## <mark style="color:green;">진단</mark>
 
@@ -76,15 +82,15 @@
 * Phalen test : 1분간 손목 완전 굴곡 시(양 손등을 붙이고 있음) 증상 유발
 * reverse Phalen test : 양 손바닥을 붙인 채 손목 신전을 약 1분 유지하여 정중신경 지배 손가락의 증상 재현을 확인; 심한 통증·저림이 생기면 조기에 중단
 * two-point discrimination 저하 : 정중신경 지배 손가락에서 5 ㎜ 간격의 두 점을 구별하지 못하는 경우
-* thenar 위축 : 오랜 기간 지속된 환자들에서 thumb abduction \& opposition의 약화; CTS를 rule-in하는 데는 강한 연관성이 있으나, 위축이 없다고 CTS를 배제할 수는 없음 \[AAOS 2016 Strong evidence]
-* 감각검사 : 좌우·척골신경 영역과 비교하고, 가능하면 Semmes-Weinstein monofilament로 감각 역치를 평가 [APTA/JOSPT 2026 A]
-* ✽ Phalen test, Tinel test, Flick sign은 단독 소견만으로는 CTS를 rule-in/out하는 근거가 약함 \[AAOS 2016 Strong evidence] - CTS-6 등 여러 소견을 종합한 도구 사용을 권장; APTA/JOSPT 2026도 Phalen test, Tinel sign, Durkan(carpal compression) test를 CTS 의심 환자 진단에 함께 사용하도록(should use) 권고
+* thenar 위축 : 오랜 기간 지속된 환자들에서 thumb abduction \& opposition의 약화; CTS를 rule-in하는 데는 강한 연관성이 있으나, 위축이 없다고 CTS를 배제할 수는 없음 <mark style="color:$info;">[AAOS 2016 Strong evidence]</mark>
+* 감각검사 : 좌우·척골신경 영역과 비교하고, 가능하면 Semmes-Weinstein monofilament로 감각 역치를 평가 <mark style="color:$info;">[APTA/JOSPT 2026 A]</mark>
+* ✽ Phalen test, Tinel test, Flick sign은 단독 소견만으로는 CTS를 rule-in/out하는 근거가 약함 <mark style="color:$info;">[AAOS 2016 Strong evidence]</mark> - CTS-6 등 여러 소견을 종합한 도구 사용을 권장; APTA/JOSPT 2026도 Phalen test, Tinel sign, Durkan(carpal compression) test를 CTS 의심 환자 진단에 함께 사용하도록(should use) 권고
 
 ### <mark style="color:orange;">보조 검사</mark>
 
-* 신경전도/근전도 검사 : 검사 방법과 기준에 따라 진단 정확도가 달라지며, 일반적으로 특이도는 높은 편이나 민감도는 검사법에 따라 차이가 큼. 진단이 불확실하거나 다른 신경병증과의 감별이 필요한 경우, 또는 중증도·예후 평가 결과가 치료 결정에 영향을 줄 것으로 판단되는 경우 시행; 전형적 임상 양상에서는 CTS-6를 이용한 임상진단이 가능 \[AAOS 2024 Strong evidence]. 초기·경증 CTS에서는 정상 결과가 나올 수 있으므로 정상 검사만으로 배제하지 않음; 침근전도는 탈신경 또는 다른 신경병증의 감별이 필요한 경우 추가하며 모든 환자에서 필수는 아님
+* 신경전도/근전도 검사 : 검사 방법과 기준에 따라 진단 정확도가 달라지며, 일반적으로 특이도는 높은 편이나 민감도는 검사법에 따라 차이가 큼. 진단이 불확실하거나 다른 신경병증과의 감별이 필요한 경우, 또는 중증도·예후 평가 결과가 치료 결정에 영향을 줄 것으로 판단되는 경우 시행; 전형적 임상 양상에서는 CTS-6를 이용한 임상진단이 가능 <mark style="color:$info;">[AAOS 2024 Strong evidence]</mark>. 초기·경증 CTS에서는 정상 결과가 나올 수 있으므로 정상 검사만으로 배제하지 않음; 침근전도는 탈신경 또는 다른 신경병증의 감별이 필요한 경우 추가하며 모든 환자에서 필수는 아님
 * 초음파 검사 : carpal tunnel inlet에서 정중신경 cross-sectional area(CSA) 증가가 진단을 지지함. 측정 위치·방법과 연구에 따라 diagnostic cutoff가 달라 단일 CSA 수치를 절대 진단 기준으로 사용하지 않음
-* MRI, upper limb neurodynamic test(ULNT) : 통상적인 CTS 진단 목적의 사용은 권장되지 않음 \[AAOS 2024 Moderate evidence] - 다른 원인 배제가 필요한 경우에 한해 고려
+* MRI, upper limb neurodynamic test(ULNT) : 통상적인 CTS 진단 목적의 사용은 권장되지 않음 <mark style="color:$info;">[AAOS 2024 Moderate evidence]</mark> - 다른 원인 배제가 필요한 경우에 한해 고려
 * 실험실 검사 : routine panel로 시행하지 않으며, 병력·진찰상 이차성 원인이 의심될 때 선택적으로 시행(예: glucose/HbA1c, TSH, pregnancy test, RA 관련 검사 등)
 
 ### <mark style="color:orange;">CTS-6</mark>
@@ -104,13 +110,13 @@
 
 **증상 분포/선별 도구**
 
-* Katz-Stirrat Hand Symptom Diagram(HSD) : CTS 의심 환자에서 증상의 위치와 양상을 파악하기 위해 사용 \[APTA/JOSPT 2026 should use]
-* 직업 관련 CTS 선별 : Katz-Stirrat HSD 또는 Kamath-Stothard questionnaire를 초기 선별 도구로 고려할 수 있음 \[APTA/JOSPT 2026 may use]
+* Katz-Stirrat Hand Symptom Diagram(HSD) : CTS 의심 환자에서 증상의 위치와 양상을 파악하기 위해 사용 <mark style="color:$info;">[APTA/JOSPT 2026 should use]</mark>
+* 직업 관련 CTS 선별 : Katz-Stirrat HSD 또는 Kamath-Stothard questionnaire를 초기 선별 도구로 고려할 수 있음 <mark style="color:$info;">[APTA/JOSPT 2026 may use]</mark>
 
 ### <mark style="color:orange;">치료 반응 평가</mark>
 
 * 초기와 추적 시 야간 각성, 저림 빈도, 지속적 감각저하, 엄지 근력 및 일상 기능을 비교함
-* 필요 시 Boston Carpal Tunnel Questionnaire의 Symptom Severity Scale(BCTQ-SSS)로 증상, DASH 또는 QuickDASH로 상지 기능의 변화를 평가 [APTA/JOSPT 2026 B]; CTS-6는 진단 도구이므로 치료 반응 평가 도구와 구분
+* 필요 시 Boston Carpal Tunnel Questionnaire의 Symptom Severity Scale(BCTQ-SSS)로 증상, DASH 또는 QuickDASH로 상지 기능의 변화를 평가 <mark style="color:$info;">[APTA/JOSPT 2026 B]</mark>; CTS-6는 진단 도구이므로 치료 반응 평가 도구와 구분
 
 ### <mark style="color:orange;">감별 진단</mark>
 
@@ -171,43 +177,46 @@ graph TD
 * 지속적 감각저하, thenar weakness/atrophy 또는 중증 electrodiagnostic abnormality 등 진행되었거나 진행성인 신경손상 의심 : steroid 단계를 거치지 않고 수부외과 조기 의뢰 및 수술적 감압술 고려
 * 증상 악화 요인 조절 : 반복적인 극단적 wrist flexion/extension, 강한 gripping, 진동 노출 등 증상을 유발하는 활동을 줄이거나 작업방식 조정; 인체 공학적 생활 도구(예: 책상, 키보드) 활용, 규칙적 휴식
 
+* 최신 비교 근거 : DISTRICTS 공개표지 무작위시험은 6주 이상 증상이 있고 전기진단 또는 초음파로 확인된 CTS 환자 934명에서 수술로 시작하는 전략과 스테로이드 주사로 시작하는 전략을 비교함. 추가 치료를 허용한 18개월 추적에서 평가자료가 있는 환자의 회복률은 61%(243/401) 대 45%(180/404), RR 1.36(95% CI 1.19~1.56)이었음. 수술 초기의 손바닥 통증·회복 부담도 함께 설명하고 지속적 증상·기능장애와 환자 선호에 따라 선택함. 이 결과를 모든 초기 경증 환자에게 즉시 수술을 권하는 근거로 일반화하지 않음. 시험에서 사용한 6문항 증상척도는 위의 진단용 CTS-6와 다른 도구임 <mark style="color:$info;">[DISTRICTS, Lancet 2025]</mark>
+
 ## <mark style="color:green;">비-약물 치료 및 생활·작업환경 조정</mark>
 
-* neutral wrist splint : 수면 중 중립위에 가까운 자세(대략 0도)로 손목을 유지하는 전완 기반 보조기 적용; 4\~8주 꾸준히 착용 후 재평가; 야간 착용만으로 불충분하면 주간 착용 확대 또는 손목 각도 조정을 고려할 수 있음 \[APTA/JOSPT 2026]
+* neutral wrist splint : 수면 중 중립위에 가까운 자세(대략 0도)로 손목을 유지하는 전완 기반 보조기 적용; 4\~8주 꾸준히 착용 후 재평가; 야간 착용만으로 불충분하면 맞춤 상태를 확인하고 주간 착용 확대 등을 고려함 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
 * 주간 보조기 : 야간 착용으로 증상 조절이 불충분하면 증상 유발 활동 중 착용을 고려; 피부 압박·불편감·기능 제한을 확인하고, 손목을 과도하게 굴곡·신전시키는 각도 조정은 피함
 * 냉찜질 : 단독 효과에 대한 근거는 제한적
-* 보조기+스트레칭 : 무지구 위축이 없고 two-point discrimination이 정상인 경증\~중등도 환자에서 병용을 고려할 수 있음 [APTA/JOSPT 2026 C]; 운동 중 저림·통증이 증가하면 중단
-* Neuromobilization(신경 활주 운동) : 연구 결과가 상충하여 단독 효과에 대한 명확한 권고를 내리기 어려움 \[APTA/JOSPT 2026]
-* Manual therapy(경추부·상지) : 경증\~중등도 CTS에서 단기 통증 및 기능 개선 목적으로 시행을 고려할 수 있음 \[APTA/JOSPT 2026 may perform]
-* 치료용 초음파 : 장기적인 증상 개선 효과가 입증되지 않음 \[AAOS 2024 Limited option (downgraded)]; **열성 치료 초음파(thermal ultrasound)**는 경증~중등도 CTS에 사용하지 않을 것을 권고 \[APTA/JOSPT 2026]. 진단용 정중신경 초음파와 구분
-* 지압, 인슐린 주입, 영양보충제 : 대조군/위약 대비 우월성이 입증되지 않아 일상적으로 권장하지 않음 \[AAOS 2024 Limited option (downgraded)]
-* 레이저 치료(저출력/고강도), 키네시오 테이핑(경증 CTS), 간섭파, 표재열, 심부열(diathermy) : 단기 증상·통증 개선 목적의 사용을 고려할 수 있으나(may use/may recommend) \[APTA/JOSPT 2026], 레이저·키네시오 테이핑의 장기적 환자보고결과 개선은 확인되지 않음 [AAOS 2024 Limited option (downgraded)]
-* 체외충격파치료(ESWT) : 경증\~중등도 CTS에서 단기·중기(＜6개월) 증상 및 기능 개선 목적으로 고려할 수 있으며, radial ESWT를 focused ESWT보다 우선 고려할 수 있음 \[APTA/JOSPT 2026]; 다만 ESWT의 장기적 환자보고결과 개선은 확인되지 않음 [AAOS 2024 Limited option (downgraded)]
-* 이온영동/포노포레시스(스테로이드 병용), 자기 치료 : 사용하지 않을 것을 권고 \[APTA/JOSPT 2026]
+* 보조기+스트레칭 : 무지구 위축이 없고 two-point discrimination이 정상인 경증\~중등도 환자에서 병용을 고려할 수 있음 <mark style="color:$info;">[APTA/JOSPT 2026 C]</mark>; 운동 중 저림·통증이 증가하면 중단
+* Neuromobilization(신경 활주 운동) : 연구 결과가 상충하여 단독 효과에 대한 명확한 권고를 내리기 어려움 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
+* Manual therapy(경추부·상지) : 경증\~중등도 CTS에서 단기 통증 및 기능 개선 목적으로 시행을 고려할 수 있음 <mark style="color:$info;">[APTA/JOSPT 2026 may perform]</mark>
+* 치료용 초음파 : AAOS 2024는 장기적인 개선이 없다고 제시함. APTA/JOSPT 2026은 열성(연속파)·비열성(펄스파) 모두 근거가 상충하여 권고를 제시하지 않음; 열성 초음파를 사용하지 말라는 문구는 2019년 권고임. 진단용 정중신경 초음파와 구분함 <mark style="color:$info;">[AAOS 2024 Limited option (downgraded); APTA/JOSPT 2026]</mark>
+* 지압, 인슐린 주입, 영양보충제 : 대조군/위약 대비 우월성이 입증되지 않아 일상적으로 권장하지 않음 <mark style="color:$info;">[AAOS 2024 Limited option (downgraded)]</mark>
+* 레이저 치료(저출력/고강도), 키네시오 테이핑(경증 CTS), 간섭파, 표재열, 심부열(diathermy) : 단기 증상·통증 개선 목적의 사용을 고려할 수 있으나(may use/may recommend) <mark style="color:$info;">[APTA/JOSPT 2026]</mark>, 레이저·키네시오 테이핑의 장기적 환자보고결과 개선은 확인되지 않음 <mark style="color:$info;">[AAOS 2024 Limited option (downgraded)]</mark>
+* 체외충격파치료(ESWT) : 경증\~중등도 CTS에서 단기·중기(＜6개월) 증상 및 기능 개선 목적으로 고려할 수 있으며, radial ESWT를 focused ESWT보다 우선 고려할 수 있음 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>; 다만 ESWT의 장기적 환자보고결과 개선은 확인되지 않음 <mark style="color:$info;">[AAOS 2024 Limited option (downgraded)]</mark>
+* 이온영동/포노포레시스(스테로이드 병용), 자기 치료 : 사용하지 않을 것을 권고 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
 * 증상 악화 요인 조절 : 반복적인 극단적 wrist flexion/extension, 강한 gripping, 진동 노출 등 증상을 유발하는 활동을 줄이거나 작업방식 조정; 인체 공학적 도구(책상, 키보드) 활용, 규칙적 휴식; 운동은 증상을 유발하지 않는 범위에서 시행
 
 ## <mark style="color:green;">약물 치료</mark>
 
-### <mark style="color:orange;">NSAID</mark>
+### <mark style="color:orange;">동반 통증의 진통제</mark>
 
-* CTS 자체에 대한 치료 효과는 입증되지 않았으며, 위약 대비 우월성도 확인되지 않음 \[AAOS 2024 Limited option (downgraded)] - routine treatment로 권장하지 않으며, 동반된 비특이적 손목·근골격계 통증의 단기 진통 목적으로만 제한적으로 사용
+* CTS 자체에 대한 치료 효과는 입증되지 않았으며, 위약 대비 우월성도 확인되지 않음 <mark style="color:$info;">[AAOS 2024 Limited option (downgraded)]</mark> - routine treatment로 권장하지 않으며, 동반된 비특이적 손목·근골격계 통증의 단기 진통 목적으로만 제한적으로 사용
 * ibuprofen : 동반 통증에 200\~400 ㎎ tid, 최소 유효용량·최단기간 사용 <mark style="color:blue;">\[부루펜정]</mark>; 고용량을 CTS의 표준 처방으로 사용하지 않음
 * naproxen : 동반 골격근장애 통증의 국내 허가 용법은 초회 500 ㎎ 후 250 ㎎을 6\~8시간 간격으로 필요 시 투여(최대 1,250 ㎎/일) <mark style="color:blue;">\[낙센정 250 ㎎]</mark>; CTS 자체의 치료 용법과 구분
-* 위장관 출혈·소화성 궤양, 신기능 저하, 심부전·심혈관 위험, 항응고제 병용 등을 평가; 서로 다른 NSAID를 중복하지 않음
+* NSAID 안전성 : 국내 부루펜 허가상 위장관 궤양·출혈 및 그 병력, 기관지천식 및 그 병력, 아스피린/NSAID 과민반응 병력, 중증 신·간·심장기능 장애 등은 금기. PPI 병용으로 금기를 해소할 수 없음. 심혈관 위험과 항응고·항혈소판제 병용도 평가하며, 탈수·이뇨제+ACE 억제제/ARB 병용 시 급성 콩팥손상에 주의함. 다른 경구 NSAID와 중복하지 않으며 저용량 아스피린 복용자는 이부프로펜의 항혈소판 효과 간섭도 고려함 <mark style="color:$info;">[국내 허가사항]</mark>
+* Acetaminophen을 동반 통증에 선택하는 경우 : 국내 타이레놀 허가상 소화성궤양, 중증 간·신장·심장기능 장애, 아스피린/NSAID 유발 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제 복용 등은 금기. NSAID 금기 환자에게도 자동으로 안전한 대안은 아니며, 복용 중 음주를 피함. 복합제 함량을 합산하고 고령·저체중·간질환 등에서는 상한을 개별 적용함 <mark style="color:$info;">[국내 허가사항]</mark>
 
 ### <mark style="color:orange;">Steroid 터널 내 주사</mark>
 
 * landmark technique에서는 proximal wrist crease의 palmaris longus tendon ulnar side 접근이 사용됨. Palmaris longus가 선천적으로 없을 수 있고 median nerve 또는 tendon 내 주입 위험이 있으므로 해부학적 landmark를 정확히 확인하며, 숙련도가 낮거나 해부학이 불명확하면 초음파 유도하 주사를 고려
-* 단기(수 주\~수개월) 증상 완화 목적으로 사용하며, 장기적인 patient-reported outcome 개선 효과는 입증되지 않음 \[AAOS 2024 Strong evidence] - 반복 주사보다는 반응 평가 후 수술적 치료 여부를 조기에 결정하는 데 활용하고, 반응이 없으면 수술적 치료를 미루지 않음
+* 단기(수 주\~수개월) 증상 완화 목적으로 사용하며, 장기적인 patient-reported outcome 개선 효과는 입증되지 않음 <mark style="color:$info;">[AAOS 2024 Strong evidence]</mark> - 반복 주사보다는 반응 평가 후 수술적 치료 여부를 조기에 결정하는 데 활용하고, 반응이 없으면 수술적 치료를 미루지 않음
 * 주의/금기 : 주사 부위 감염이나 전신 감염이 있으면 시행하지 않음; 터널 내 종괴가 의심되면 원인 평가를 우선. 항응고제·항혈소판제 복용 또는 출혈 위험은 일률적 절대 금기로 취급하지 않고 약제·응고 상태·시술 위험을 개별 평가
-* 연구·임상 사용 예 : triamcinolone acetonide 20\~40 ㎎ 또는 methylprednisolone acetate 20\~40 ㎎ 1회; 최적 약제·용량은 확립되지 않았으며 고용량의 우월성도 일관되지 않음. CTS의 신경 주위 국소 주사에 적합한 제형인지 확인 [Karimzadeh et al. 2019]
+* 연구·임상 사용 예 : triamcinolone acetonide 20\~40 ㎎ 또는 methylprednisolone acetate 20\~40 ㎎ 1회; 최적 약제·용량은 확립되지 않았으며 고용량의 우월성도 일관되지 않음. CTS의 신경 주위 국소 주사에 적합한 제형인지 확인 <mark style="color:$info;">[Karimzadeh et al. 2019]</mark>
 * 국내 허가 범위 : <mark style="color:blue;">[트리암주 40 ㎎/㎖]</mark>의 관절강·점액낭·건초 주사 허가를 CTS의 수근관 내 정중신경 주위 주사에 그대로 적용할 수 없음; 이 목적의 사용은 **허가 외 사용**으로 설명함. 국소마취제 혼합은 필수가 아니며, 혼합할 경우 제품별 적합성과 총 주입량을 확인
 * 무균적으로 시행하고 신경·혈관·건 내 주입을 피함. 주삿바늘 삽입 또는 주입 중 전기 오는 듯한 통증·손가락으로 뻗치는 저림, 비정상적인 저항이 생기면 즉시 중단하고 위치를 재평가
 * 이상반응 : 일시적 통증 악화, 피부 탈색·피하 지방 위축, 감염, 드문 정중신경 손상·건 손상; 당뇨병 환자는 주사 후 수일간 일시적 혈당 상승 가능성을 설명하고 혈당 확인
 
 ### <mark style="color:orange;">Platelet-rich plasma (PRP) Injections</mark>
 
-* 통증 감소와 신경전도 향상 효과가 있다는 예비 연구 수준의 보고가 있었으나, AAOS 2024 지침에서는 leukocyte-rich/leukocyte-poor PRP 모두 비수술 치료로서 장기적 이득에 대한 근거가 없다고 명시함 \[Strong evidence] - 일상적 사용은 권장하지 않음
+* 통증 감소와 신경전도 향상 효과가 있다는 예비 연구 수준의 보고가 있었으나, AAOS 2024 지침에서는 leukocyte-rich/leukocyte-poor PRP 모두 비수술 치료로서 장기적 이득에 대한 근거가 없다고 명시함 <mark style="color:$info;">[Strong evidence]</mark> - 일상적 사용은 권장하지 않음
 
 ### <mark style="color:orange;">경구 Steroid</mark>
 
@@ -219,11 +228,11 @@ graph TD
 
 * 적응증 : 다른 치료에 반응이 없는 경우, thenar 위축/근력저하·지속 감각저하 등 진행된 신경 손상 소견, 중증 신경전도검사 이상
 * Decompression : transverse carpal ligament를 dividing; open, mini-open, endoscopic technique이 사용되며, AAOS 2024는 mini-open과 endoscopic release 간 patient-reported outcome에 유의한 차이가 없음을 Strong evidence로 제시함
-* 국소마취만으로 시행 가능 \[AAOS 2024 Strong evidence]; 외래/진료실 환경에서도 안전하게 시행 가능하다는 보고가 있음(제한적 근거)
+* 국소마취만으로 시행 가능 <mark style="color:$info;">[AAOS 2024 Strong evidence]</mark>; 외래/진료실 환경에서도 안전하게 시행 가능하다는 보고가 있음(제한적 근거)
 * 수술 후 관리
-  * 통상적인 부목 고정/보조기는 권장되지 않음 \[AAOS 2024 Moderate evidence]
-  * 통상적인 감독하 재활 치료는 필요하지 않으나, 환자 교육 차원의 간단한 손목·손가락 운동은 고려할 수 있음 \[AAOS 2024 Moderate evidence]
-  * 통증 관리는 NSAID/acetaminophen 사용 \[AAOS 2024 Strong evidence]
+  * 통상적인 부목 고정/보조기는 권장되지 않음 <mark style="color:$info;">[AAOS 2024 Moderate evidence]</mark>
+  * 통상적인 감독하 재활 치료는 필요하지 않으나, 환자 교육 차원의 간단한 손목·손가락 운동은 고려할 수 있음 <mark style="color:$info;">[AAOS 2024 Moderate evidence]</mark>
+  * 통증 관리는 NSAID/acetaminophen 사용 <mark style="color:$info;">[AAOS 2024 Strong evidence]</mark>
   * 예방적 항생제는 통상적으로 필요하지 않음
 * 대부분 장기적으로 호전되지만 일부에서 증상이 지속·재발할 수 있으며, revision surgery가 필요한 비율은 보고에 따라 대략 0.3\~7% 정도로 다양함
 
@@ -262,12 +271,12 @@ G56.0 손목터널증후군 Carpal tunnel syndrome
 >
 > ```
 > neutral wrist splint  야간 착용
-> 아세트아미노펜 500 ㎎  통증 시, 필요하면 6시간 간격
+> 타이레놀정500㎎  1정  통증 시, 필요하면 6시간 간격
 >   ※ 최소 유효용량·최단기간; 이 예에서는 최대 2,000 ㎎/일
 >   ※ 다른 아세트아미노펜 함유 약과 중복하지 않음
 > ```
 >
-> _✽임신 관련 CTS에서는 splint 등 비약물적 치료를 우선하며, 진통이 필요하면 acetaminophen을 우선 고려함(저림 자체를 치료하는 약은 아님). NSAID는 임신 20주 이후에는 원칙적으로 회피하며, 불가피한 20\~30주 사용은 태아 신장기능 저하·양수과소 위험 때문에 최소 유효용량·최단기간으로 제한; 30주 이후에는 fetal ductus arteriosus 조기 폐쇄 위험 때문에 사용을 회피함. 출산 후 호전되는 경우가 많지만 수개월 이상 지속될 수 있으므로, 감각저하·근력저하가 남거나 악화하면 재평가함._
+> _✽임신 관련 CTS에서는 splint 등 비약물적 치료를 우선하며, 진통이 필요하면 acetaminophen을 우선 고려함(저림 자체를 치료하는 약은 아님). NSAID는 임신 20주 이후에는 원칙적으로 회피하며, 불가피한 20\~30주 사용은 태아 신장기능 저하·양수과소 위험 때문에 최소 유효용량·최단기간으로 제한; 30주 이후에는 fetal ductus arteriosus 조기 폐쇄 위험 때문에 사용을 회피함(FDA). 이와 별도로 국내 부루펜 허가상 임신 말기 3개월은 금기임. 출산 후 호전되는 경우가 많지만 수개월 이상 지속될 수 있으므로, 감각저하·근력저하가 남거나 악화하면 재평가함._
 
 > **처방례 4. Thenar 위축/지속적 감각저하 등 진행성 신경손상 의심**
 >
@@ -317,7 +326,7 @@ G56.0 손목터널증후군 Carpal tunnel syndrome
 
 ### <mark style="color:$primary;">왜 손저림이 생기나요?</mark>
 
-* 손목 안쪽의 좁은 통로를 지나는 신경이 반복적인 손목 사용, 손목 부기, 임신, 갑상선 질환 등으로 눌려서 발생합니다.
+* 손목 안쪽의 좁은 통로를 지나는 신경이 눌리면서 생깁니다. 손목 부기, 임신, 당뇨병·갑상선 질환 등과 관련될 수 있으며, 강하게 쥐는 동작·반복 작업·진동 노출이 위험을 높일 수 있습니다. 단순한 키보드 사용량 자체가 원인이라는 근거는 명확하지 않습니다.
 
 ### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
@@ -375,17 +384,21 @@ G56.0 손목터널증후군 Carpal tunnel syndrome
 
 ***
 
-## 참고문헌
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * [AAOS. Management of Carpal Tunnel Syndrome: Evidence-Based Clinical Practice Guideline (2024)](https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/carpal-tunnel-2024/cts-cpg.pdf).
 * [AAOS. Management of Carpal Tunnel Syndrome: Evidence-Based Clinical Practice Guideline (2016)](https://www.aaos.org/globalassets/quality-and-practice-resources/carpal-tunnel/cts_cpg_4-25-19.pdf). 위험 인자의 당시 근거 수준과 개별 진찰 소견을 인용.
-* [Erickson M, et al. Hand Pain and Sensory Deficits: Carpal Tunnel Syndrome: Revision 2026. J Orthop Sports Phys Ther. 2026](https://www.orthopt.org/uploads/content_files/files/Hand_Pain_CTS_jospt.2026.0301_new.pdf).
+* Erickson M, et al. Hand Pain and Sensory Deficits: Carpal Tunnel Syndrome: Revision 2026. J Orthop Sports Phys Ther. 2026;56(4):CPG1-CPG79. [doi:10.2519/jospt.2026.0301](https://doi.org/10.2519/jospt.2026.0301)
+* Palmbergen WAC, et al. Surgery versus corticosteroid injection for carpal tunnel syndrome (DISTRICTS): an open-label, multicentre, randomised controlled trial. Lancet. 2025;405(10495):2153-2163. [doi:10.1016/S0140-6736(25)00368-X](https://doi.org/10.1016/S0140-6736(25)00368-X)
 * [Padua L, et al. Long term follow-up of carpal tunnel syndrome during pregnancy: a cohort study (2007)](https://pubmed.ncbi.nlm.nih.gov/17918501/).
 * [Malige A, Matullo KS. Hand Corticosteroid Injections in Patients on “Blood Thinners” (2020)](https://pubmed.ncbi.nlm.nih.gov/30880479/).
 * [Karimzadeh A, et al. The comparison of the effectiveness between different doses of local methylprednisolone injection versus triamcinolone in Carpal Tunnel Syndrome: a double-blind clinical trial. J Pain Res. 2019;12:579–584](https://pmc.ncbi.nlm.nih.gov/articles/PMC6368124/). 주사 용량의 연구 예시; 최적 용량의 확정 근거와 구분.
-* [신풍제약. 트리암주 제품정보](https://shinpoong.co.kr/sub2/2_2.php?cate=0067_0085_&mode=view&p_idx=145). 국내 허가 효능·투여경로 확인.
-* [유한양행. 소론도정 제품정보](https://yuhan.co.kr/Products/List/?YPRD_IDX=1828&cid=176&mode=view). 국내 CTS 적응증 미기재 확인.
-* [종근당. 낙센정 제품정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000002). 동반 골격근장애 통증의 허가 용법.
 * [Werner RA, et al. Reverse Phalen's maneuver as an aid in diagnosing carpal tunnel syndrome. Arch Phys Med Rehabil. 1994](https://pubmed.ncbi.nlm.nih.gov/8024425/).
 * [AAOS OrthoInfo. Therapeutic Exercise Program for Carpal Tunnel Syndrome](https://www.orthoinfo.org/globalassets/pdfs/a00789_therapeutic-exercise-program-for-carpal-tunnel_final.pdf). 운동은 증상 없는 범위로 조정하여 안내.
 * [FDA. NSAIDs in pregnancy: avoid use at 20 weeks or later](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic).
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 부루펜정, 낙센정, 타이레놀정500㎎, 트리암주, 소론도정의 국내 허가 용법·금기·투여경로 확인 자료. CTS의 트리암주 정중신경 주위 주사 및 소론도정 경구 치료는 허가 외 사용으로 구분함.

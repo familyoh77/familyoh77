@@ -16,37 +16,41 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* ≥50세에서 새로 발생한 시력저하·복시·일과성 흑암시 등과 함께 GCA가 의심되는 경우 → **즉시 안과·응급/류마티스 평가 및 치료**, 비가역적 시력소실 위험; 새로운 두통·두피 압통·턱 파행이 모두 동반되어야 하는 것은 아님
-* 급성 호흡곤란·저산소증·폐출혈 의심 + 혈뇨·단백뇨 또는 급성 신기능 악화 → **pulmonary-renal syndrome / ANCA-associated vasculitis, anti-GBM disease 등 의심**; 객혈이 없더라도 급격한 Hb 감소·새로운 양측 폐음영이 있으면 폐포출혈 가능성을 평가
-* 알려진 또는 의심되는 전신 자가면역질환에서 경련·의식 변화·급성 신기능 악화·심한 흉통/호흡곤란 → 중추신경계, 신장, 심장·폐의 장기 위협 침범 평가
-* Systemic sclerosis 의심/진단 환자에서 새로운 혈압 상승 또는 급성 신기능 악화, 미세혈관병성 용혈·혈소판 감소 등 → **scleroderma renal crisis 의심**; 평소보다 혈압이 상승했는지 확인하고, 중증 고혈압이 없거나 정상 혈압이어도 신위기를 배제하지 않음
-* 면역억제제·고용량 steroid·생물학적 제제 치료 중 고열, 저혈압, 의식 변화, 호흡곤란 등 → **중증 감염/sepsis 우선 배제**
-* 갑자기 심하게 붓고 뜨거운 관절(단일 또는 여러 관절), 발열·오한 유무와 무관 → **화농성 관절염 우선 배제**, 의심되면 신속한 관절천자 및 응급 평가; 면역억제 환자에서는 발열·염증반응이 뚜렷하지 않을 수 있음
-* 전신적으로 빠르게 진행하는 자반/출혈성 발진 + 발열·전신 상태 불량 → 수막알균혈증 등 중증 감염 또는 전신 혈관염 감별
-* 빠르게 진행하는 근력저하 + 연하곤란·흡인 또는 호흡근 약화/호흡곤란 → 중증 inflammatory myopathy 등 신경근육질환의 장기 위협 침범 평가
-* 급성 국소 신경학적 결손, 폐색전증·급성 사지 허혈 등 급성 혈전 의심 소견 → APS 확진·항체 재검을 기다리지 말고 응급 평가
-* Still disease 등에서 지속 고열 + ferritin 급상승, 혈구수 감소, 간기능 이상·응고장애 → **macrophage activation syndrome(MAS)/HLH 의심**, 중증 감염과 함께 긴급 평가
+* ≥50세에서 GCA가 의심되는 새 시력저하·복시·일과성 흑암시(두통·두피 압통·턱 파행이 모두 동반되지 않아도 해당)  `GCA·시력소실 위험`
+* 급성 호흡곤란·저산소증·폐출혈 의심 + 혈뇨·단백뇨 또는 급성 신기능 악화; 객혈 없이 급격한 Hb 감소·새로운 양측 폐음영도 가능  `폐-신장 증후군·폐포출혈`
+* 알려진 또는 의심되는 전신 자가면역질환에서 경련·의식 변화·급성 신기능 악화·심한 흉통/호흡곤란  `장기 위협 침범`
+* Systemic sclerosis 환자에서 새 혈압 상승 또는 급성 신기능 악화 ± 미세혈관병성 용혈·혈소판 감소; 중증 고혈압이 없거나 정상 혈압이어도 가능  `전신경화증 신위기`
+* 면역억제 치료 중 고열·저혈압·의식 변화·호흡곤란 등  `중증 감염·패혈증`
+* 갑자기 심하게 붓고 뜨거운 관절(단일 또는 여러 관절), 발열·오한 유무와 무관; 면역억제 중에는 발열·염증반응이 약할 수 있음  `화농성 관절염`
+* 빠르게 진행하는 자반/출혈성 발진 + 발열·전신 상태 불량  `중증 감염·전신 혈관염`
+* 빠르게 진행하는 근력저하 + 연하곤란·흡인 또는 호흡근 약화/호흡곤란  `중증 근염·신경근육질환`
+* 급성 국소 신경학적 결손, 폐색전증·급성 사지 허혈 등 급성 혈전 의심 소견  `혈전증·APS 가능`
+* Still disease 등에서 지속 고열 + ferritin 급상승, 혈구수 감소, 간기능 이상·응고장애  `MAS·HLH`
+* Methotrexate(MTX)를 실수로 매일 복용하거나 예정량보다 과량 복용(무증상도 해당)  `MTX 중독`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* ≥50세에서 새로운 두통·두피 압통·턱 파행 등으로 GCA가 의심되는 경우(시각증상이 없어도) → **당일 평가**; 임상적으로 강하게 의심되면 검사 결과를 기다리지 않고 고용량 glucocorticoid 시작
-* 객관적인 관절 종창/활막염이 있고 염증성 관절염이 의심되는 경우 → **6주를 기다리지 말고 조기 류마티스내과 의뢰**; RF/anti-CCP 음성 또는 ESR/CRP 정상이어도 의뢰를 지연하지 않음
-* 염증성 요통, 지속성 부착부염·dactylitis, 건선/손발톱 변화·포도막염·염증성 장질환과 연관된 관절 증상 → 척추관절염·건선관절염 평가
-* 광과민 발진·뺨 발진, 반복 구강궤양, Raynaud 현상 + 피부경화, Gottron papule, 객관적 근위부 근력저하 등 특징적 전신 소견
-* 설명되지 않는 cytopenia, 지속적 단백뇨/혈뇨, 반복 장막염 등 전신 자가면역질환의 장기 침범 의심
-* ≥50세에서 양측 어깨/골반대 통증과 현저한 조조강직 → polymyalgia rheumatica(PMR) 고려; 새 두통·턱 파행 등으로 GCA가 의심되면 당일 평가, 시각증상이 있으면 즉각 조치로 격상
-* 반복 혈전 또는 특징적인 임신 합병증 병력 + antiphospholipid syndrome(APS) 의심
-* 반복 구강궤양 + 생식기 궤양·안구염·혈관 또는 신경계 증상 → Behçet disease 의심; 충혈·안구통·눈부심 등 포도막염 의심은 **당일 안과 평가**, 갑작스러운 시력저하·급성 신경계/혈관 증상은 즉각 조치
-* 잠에서 깰 정도의 지속적 심한 골·관절통 + 혈소판 감소, 백혈구 감소 또는 현저한 증가 → 혈액·종양 질환의 신속한 평가; 출혈·중증 감염·전신 상태 악화가 동반되면 즉각 조치
-* 소아에서 지속되는 객관적 관절염, 근력저하 + 특징적 발진, 원인불명 지속 발열 등 → JIA/JDM/자가염증질환 감별을 위해 소아청소년과·소아류마티스 전문 평가
+* ≥50세에서 새 두통·두피 압통·턱 파행 등 GCA 의심 소견, 시각증상 없음 **(당일)**  `GCA`
+* 객관적인 관절 종창/활막염과 염증성 관절염 의심 소견; RF/anti-CCP 음성 또는 ESR/CRP 정상도 해당  `초기 염증성 관절염`
+* 염증성 요통, 지속성 부착부염·dactylitis 또는 건선·손발톱 변화·포도막염·염증성 장질환과 연관된 관절 증상  `척추관절염·건선관절염`
+* 광과민 발진·뺨 발진, 반복 구강궤양, Raynaud 현상 + 피부경화, Gottron papule, 객관적 근위부 근력저하 등 특징적 전신 소견  `결합조직질환·근염`
+* 설명되지 않는 cytopenia, 지속적 단백뇨/혈뇨, 반복 장막염  `전신 자가면역질환·장기 침범`
+* ≥50세에서 양측 어깨/골반대 통증과 현저한 조조강직  `류마티스성 다발근통·GCA 동반 가능`
+* 반복 혈전 또는 특징적인 임신 합병증 병력  `APS 의심`
+* 반복 구강궤양 + 생식기 궤양·안구염·혈관 또는 신경계 증상  `베체트병`
+* 충혈·안구통·눈부심 등 포도막염 의심 증상 **(당일 안과 평가)**  `포도막염·시력 위협`
+* 잠에서 깰 정도의 지속적 심한 골·관절통 + 혈소판 감소, 백혈구 감소 또는 현저한 증가  `혈액·종양 질환`
+* 소아의 지속되는 객관적 관절염, 근력저하 + 특징적 발진, 원인불명 지속 발열  `JIA·JDM·자가염증질환`
 
-<mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 지속·진행 시 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* ANA 등 자가항체가 우연히 양성이지만 관련 임상 증상·징후가 없는 경우 → 무분별한 추가 자가항체 panel보다 임상적 추적 및 필요 시 선택적 재평가
-* 섬유근육통 등 nociplastic pain syndrome이 의심되고 객관적 염증 소견이 없는 경우 → 해당 질환 평가·관리 (☞ [섬유근육통](153_-fibromyalgia.md))
-* 갑상선 질환, patellofemoral pain syndrome, 퇴행성·과사용 질환 등 류마티스 유사 질환이 의심되는 경우 → 해당 원인 평가 우선
+* 관련 임상 증상·징후 없이 우연히 확인된 ANA 등 자가항체 양성  `임상 경과 관찰`
+* 객관적 염증 소견 없이 섬유근육통 등 nociplastic pain syndrome 의심 (☞ [섬유근육통](153_-fibromyalgia.md))  `비염증성 통증`
+* 갑상선 질환, patellofemoral pain syndrome, 퇴행성·과사용 질환 등 류마티스 유사 질환 의심  `다른 원인 감별`
+
+*관찰 중 시각증상·급성 신경계/혈관 증상·급성 신기능 악화·저산소증 등 상위 단계 소견이 발생하면 즉각 조치로 격상함. 객관적 활막염은 6주를 기다리지 않고 조기 의뢰함. GCA가 강하게 의심되면 확진 검사 때문에 glucocorticoid 첫 투여를 지연하지 않으며, 급성 혈전 치료도 APS 항체 재검을 기다리지 않음. MTX 과량 복용 시 추가 복용을 중단하고 즉시 응급 평가함.*
 
 ***
 
@@ -60,7 +64,7 @@
 * 관절 증상은 monoarthritis / oligoarthritis / polyarthritis, 급성 / 만성, 대칭 / 비대칭, 소관절 / 대관절 분포를 함께 평가
 * 관절 외 증상(피부·점막, 눈·입 건조, Raynaud 현상, 근력저하, 폐·신장·신경계 증상, 혈전·임신력)이 진단 방향을 결정하는 중요한 단서
 * 급성 단관절염에서는 **화농성 관절염을 신속히 평가하고 결정유발관절염을 감별**; 관절액의 세포수/분획, Gram stain·배양, 결정 검사를 시행하며 결정이 검출되어도 동반 감염을 배제하지 못함
-  * 패혈증이 없으면 가능하면 항생제 전에 관절액·필요한 혈액배양 검체를 확보하되, 패혈증/쇼크에서는 천자 때문에 항생제 투여를 지연하지 않음 (SANJO 2023)
+  * 패혈증이 없으면 가능하면 항생제 전에 관절액·필요한 혈액배양 검체를 확보하되, 패혈증/쇼크에서는 천자 때문에 항생제 투여를 지연하지 않음 <mark style="color:$info;">(SANJO 2023)</mark>
 
 ### <mark style="color:orange;">증상·징후 기반 초고속 감별</mark>
 
@@ -94,6 +98,7 @@ _JDM=juvenile dermatomyositis; JIA=juvenile idiopathic arthritis; PFAPA=periodic
 * **Cr/eGFR, AST/ALT** : 장기 침범 및 향후 약물치료 baseline 평가
 * **혈압, urinalysis ± urine protein quantification** : 혈뇨·단백뇨·원주 등 신장 침범 선별에 중요; 의심 소견이 있으면 요침사와 spot urine protein/creatinine ratio 등으로 평가
 * 특징적인 호흡기·신경계·근육·혈관 소견이 있으면 정상 기본검사만으로 추적 종료하지 않고, 해당 장기 평가와 전문 의뢰를 진행
+* 확진된 SLE에서는 신장 침범 병력이 없어도 적어도 6~12개월마다, 또는 신장 외 flare 발생 시 단백뇨를 선별함. UPCR ＞0.5 g/g 또는 다른 원인으로 설명되지 않는 신기능 저하가 있으면 신장내과·류마티스내과에서 신장생검을 검토함(조건부 권고); 이 수치 미만이어도 활동성 요침사·진행성 이상이 있으면 의뢰를 미루지 않음. 급성 신기능 악화는 응급 평가 대상임 <mark style="color:$info;">(ACR 2024 lupus nephritis guideline; 2025년 출판)</mark>
 
 #### <mark style="color:$primary;">임상적으로 의심되는 질환에 따라 선택</mark>
 
@@ -140,7 +145,10 @@ _JDM=juvenile dermatomyositis; JIA=juvenile idiopathic arthritis; PFAPA=periodic
 * 일차진료의 핵심은 장기 위협·감염을 신속히 구분하고, 지속성 염증성 질환이 의심되면 조기에 류마티스 전문의와 협진하는 것
 * 원인 질환이 확정되지 않은 상태에서 일률적으로 DMARD나 면역억제제를 시작하지 않음
 * 급성 단관절염이나 원인불명 발열에서 **감염이 충분히 배제되지 않은 상태의 경험적 steroid 투여는 화농성 관절염·감염을 가릴 수 있으므로 주의**; 다만 강하게 의심되는 GCA 등 치료 지연으로 장기 손상이 우려되는 경우에는 긴급 평가와 치료를 병행
-* NSAID는 일부 염증성 관절·근골격계 증상의 단기 완화에 사용할 수 있으나 disease-modifying effect는 없으며 원인 질환의 평가·치료를 지연시켜서는 안 됨; 고령·심혈관질환 기저 환자에서는 심혈관 위험 증가 가능성을 고려해 최소 유효 용량·최단 기간 사용 (☞ [진통제](../220_/001_-pain.md#nsaid))
+* NSAID는 일부 염증성 관절·근골격계 증상의 단기 완화에 사용할 수 있으나 disease-modifying effect는 없으며 원인 질환의 평가·치료를 지연시켜서는 안 됨; 확립된 심혈관질환·심부전에서는 경구 NSAID 회피를 우선하며, 고령·위험인자 보유 환자에서도 GI·신장·CV 위험과 제품별 금기를 평가한 뒤 불가피한 경우 최소 유효 용량·최단 기간 사용 (☞ [진통제](../220_/001_-pain.md#nsaid))
+  * 국내 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임. 부루펜정의 위장관 궤양/출혈 병력·기관지천식 병력 등 제품별 금기는 PPI로 해소하지 않음
+  * SLE·혈관염 등에서 신장 침범이 의심되거나 확인된 경우 NSAID를 회피하고 신기능·요검사 및 원인 질환의 평가·치료를 우선함. NSAID 자체가 신기능을 악화시켜 질환 활동성에 따른 변화와의 구분을 어렵게 할 수 있음
+  * MTX 복용 환자는 일반약 NSAID를 임의로 추가하지 않음. 저용량 주 1회 MTX와의 병용도 제품별 허가·DUR 및 CBC·간·신기능 감시 계획을 확인함(151 참조)
 
 ### <mark style="color:orange;">질환조절 및 면역억제 치료의 원칙</mark>
 
@@ -151,7 +159,7 @@ _JDM=juvenile dermatomyositis; JIA=juvenile idiopathic arthritis; PFAPA=periodic
 * SLE, systemic vasculitis, inflammatory myopathy, systemic sclerosis 등에서는 치료 목표와 약제 선택이 서로 다르므로 전문의 협진 하에 시행
 * 치료 전후 감염 위험, CBC/LFT/신기능 등 약제별 모니터링을 시행
   * bDMARD/tsDMARD 시작 전에는 잠복결핵 screening을 시행; csDMARD·glucocorticoid·기타 면역억제제에서는 치료 강도와 위험인자에 따라 평가
-  * 면역억제 치료 전 HBsAg, anti-HBc, anti-HBs로 B형간염 상태를 확인하고 필요 시 HBV DNA 평가·간 전문의 협진; anti-HBc 양성 환자는 HBsAg 음성이어도 특히 rituximab 등에서 재활성화 위험이 있어 항바이러스 예방/감시 계획을 수립 (EULAR 2022)
+  * 면역억제 치료 전 HBsAg, anti-HBc, anti-HBs로 B형간염 상태를 확인하고 필요 시 HBV DNA 평가·간 전문의 협진; anti-HBc 양성 환자는 HBsAg 음성이어도 특히 rituximab 등에서 재활성화 위험이 있어 항바이러스 예방/감시 계획을 수립 <mark style="color:$info;">(EULAR 2022)</mark>
 
 #### <mark style="color:$primary;">Glucocorticoid</mark>
 
@@ -162,29 +170,30 @@ _JDM=juvenile dermatomyositis; JIA=juvenile idiopathic arthritis; PFAPA=periodic
 * 총론에서 하나의 ㎎/㎏ 용량을 모든 류마티스 질환에 적용하지 않으며, **질환별 권고와 전문의 판단에 따라 용량·감량 계획을 결정**
 * 가능한 최소 유효 용량과 기간을 사용하고 장기 투여 시 당뇨, 고혈압, 감염, 백내장/녹내장, 부신억제 등 합병증을 예방·모니터링
 * 장기간 사용한 steroid는 임의로 갑자기 중단하지 않음
-* **GCA가 임상적으로 강하게 의심되면 시각증상이 없어도 고용량 glucocorticoid를 즉시 시작**하고 당일 전문 평가를 진행; 혈관 초음파/생검 등 확진 검사를 계획하되 결과를 기다리며 치료를 지연하지 않음 (BSR 2020)
+* **GCA가 임상적으로 강하게 의심되면 시각증상이 없어도 고용량 glucocorticoid를 즉시 시작**하고 당일 전문 평가를 진행; 혈관 초음파/생검 등 확진 검사를 계획하되 결과를 기다리며 치료를 지연하지 않음 <mark style="color:$info;">(BSR 2020)</mark>
   * 시력소실 위험이 있으면 IV methylprednisolone pulse를 우선 고려하는 것은 ACR/VF의 **조건부 권고**이며, 즉시 안과·류마티스 전문 평가를 시행; IV 치료 준비나 전원 때문에 glucocorticoid 첫 투여를 지연하지 않음
-  * 두개 허혈 증상이 없는 GCA에서는 고용량 경구 glucocorticoid가 일반적인 초기 치료 (ACR/VF 2021)
-* **성인 systemic sclerosis에서는 glucocorticoid가 신위기 위험과 연관되므로 가능한 최소화**; 특히 prednisolone equivalent >10 ㎎/day 사용에 주의하고, 필요한 경우 전문의와 협의하며 혈압·신기능을 면밀히 감시 (BSR 2024)
+  * 두개 허혈 증상이 없는 GCA에서는 고용량 경구 glucocorticoid가 일반적인 초기 치료 <mark style="color:$info;">(ACR/VF 2021)</mark>
+* **성인 systemic sclerosis에서는 glucocorticoid가 신위기 위험과 연관되므로 가능한 최소화**; 특히 prednisolone equivalent ＞10 ㎎/day 사용에 주의하고, 필요한 경우 전문의와 협의하며 혈압·신기능을 면밀히 감시 <mark style="color:$info;">(BSR 2024)</mark>
+* **전신경화증 신위기는 glucocorticoid 증량으로 치료하는 상태가 아님.** 의심 시 즉시 입원·전문 평가하며, 진단되면 ACE 억제제를 신속히 시작·조절하는 것이 치료의 핵심임; 정상 혈압 신위기는 저혈압을 피하도록 전문의 감독하에 조절함 <mark style="color:$info;">(BSR 2024)</mark>
 
 #### <mark style="color:$primary;">Glucocorticoid-induced osteoporosis(GIOP) 예방</mark>
 
-* 장기간 glucocorticoid(대략 prednisolone equivalent ≥2.5 ㎎/day를 ≥3개월) 사용이 예상되거나 지속되는 성인에서는 초기 골절 위험을 평가
+* 장기간 glucocorticoid(대략 prednisolone equivalent ≥2.5 ㎎/day를 3개월 초과) 사용이 예상되거나 지속되는 성인에서는 초기 골절 위험을 평가
 * calcium/vitamin D 섭취, 체중부하 운동, 금연 등 기본 예방을 시행
 * 성인에서는 골절력·임상 위험인자와 BMD ± 척추골절평가(VFA)/척추 X-ray를 평가하고, ≥40세에서는 FRAX도 활용; 필요 시 glucocorticoid 용량을 보정
-* **중등도·고위험·매우 높은 골절 위험군에는 골다공증 약물치료가 권고**됨; bisphosphonate, denosumab, 골형성 촉진제 등은 위험도·신기능·임신 가능성 등에 따라 선택 (ACR 2022 GIOP guideline; 2023년 출판)
+* **중등도·고위험·매우 높은 골절 위험군에는 골다공증 약물치료가 권고**됨; bisphosphonate, denosumab, 골형성 촉진제 등은 위험도·신기능·임신 가능성 등에 따라 선택 <mark style="color:$info;">(ACR 2022 GIOP guideline; 2023년 출판)</mark>
 
 #### <mark style="color:$primary;">Pneumocystis jirovecii pneumonia(PJP) 예방</mark>
 
 * 중등도–고용량 glucocorticoid를 수 주 이상 사용하는 경우, 특히 다른 면역억제제 병용·림프구감소·고령·기저 폐질환 등 추가 위험인자가 있으면 PJP 예방(TMP-SMX 등)을 고려
-  * 대략 prednisolone equivalent >15\~30 ㎎/day를 >2\~4주 사용하는 환자에서 PJP prophylaxis가 유익할 수 있다는 근거가 있으며(EULAR 2022), 절대적인 시작 cutoff가 아니라 개별 위험도 판단의 참고 범위로 활용
+  * 대략 prednisolone equivalent ＞15\~30 ㎎/day를 ＞2\~4주 사용하는 환자에서 PJP prophylaxis가 유익할 수 있다는 근거가 있으며 <mark style="color:$info;">(EULAR 2022)</mark>, 절대적인 시작 cutoff가 아니라 개별 위험도 판단의 참고 범위로 활용
   * 위 범위보다 낮은 용량이라도 고령, 병용 면역억제제, 기저 폐질환 등 위험인자가 여러 개 겹치면 예방을 고려할 수 있음
   * TMP-SMX 선택 시 신기능·K·CBC 및 약물 상호작용을 확인; **methotrexate와 병용하면 혈구감소/골수억제 위험이 증가할 수 있어**, 예방 용량이라도 전문의와 병용 필요성·대체약·검사 계획을 검토
 
 #### <mark style="color:$primary;">예방접종</mark>
 
 * 면역억제 치료 전 가능한 예방접종 상태를 확인하고, 비생백신(불활성화·재조합 백신 등)은 질환 상태와 치료약제에 따라 적절한 시기에 시행
-* 인플루엔자, 폐렴구균, 재조합 대상포진 백신 등의 필요성을 확인하고 국내 허가·접종 권고와 연령·위험도에 맞추어 계획; 고용량 glucocorticoid/rituximab 치료 중이라도 인플루엔자 접종은 권장되며, 다른 비생백신은 면역반응을 고려해 투여 시점을 조정 (ACR 2022 vaccination guideline)
+* 인플루엔자, 폐렴구균, 재조합 대상포진 백신 등의 필요성을 확인하고 국내 허가·접종 권고와 연령·위험도에 맞추어 계획; 고용량 glucocorticoid/rituximab 치료 중이라도 인플루엔자 접종은 권장되며, 다른 비생백신은 면역반응을 고려해 투여 시점을 조정 <mark style="color:$info;">(ACR 2022 vaccination guideline)</mark>
 * **생백신은 면역억제 치료 중 일반적으로 피하며**, 불가피한 경우 약제 종류·용량·투여 간격과 질환 활성도에 따라 중단 시기가 다르므로 전문의와 접종 계획을 조정
 * 모든 DMARD에 동일하게 “접종 2주 전\~6주 후 중단”하는 식의 획일적 규칙을 적용하지 않음
 
@@ -192,7 +201,8 @@ _JDM=juvenile dermatomyositis; JIA=juvenile idiopathic arthritis; PFAPA=periodic
 
 * 임신을 계획하는 환자는 임신 전 질환 활성도와 항류마티스 약물을 검토하고 안정적인 질환 상태에서 계획임신을 권장; 여성의 임신 중 노출과 남성의 부계 노출은 약제별 권고가 다르므로 구분
 * methotrexate, mycophenolate 등 임신 중 금기/부적합 약물은 계획임신 전에 중단·전환; hydroxychloroquine 등 임신 중 유지가 권장되는 약물은 임의로 중단하지 않음
-* SLE, APS 등 임신 합병증 위험이 높은 질환은 임신 전 류마티스내과·산부인과 협진을 권장; anti-SSA/Ro·anti-SSB/La 양성에서는 태아·신생아 루푸스 위험과 임신 중 감시 계획을 상담 (EULAR 2024 update; 2025년 출판)
+* Sulfasalazine은 국제 지침에서는 임신 적합 약제이나 **국내 조피린장용정 허가사항에는 임신·수유 금기**가 기재되어 있어 구분함; 근거·허가 차이를 설명하고 산과·류마티스내과에서 약제·폴산 보충을 함께 결정함 (☞ [류마티스관절염](151_-rheumatoid-arthritis.md))
+* SLE, APS 등 임신 합병증 위험이 높은 질환은 임신 전 류마티스내과·산부인과 협진을 권장; anti-SSA/Ro·anti-SSB/La 양성에서는 태아·신생아 루푸스 위험과 임신 중 감시 계획을 상담 <mark style="color:$info;">(EULAR 2024 update; 2025년 출판)</mark>
 
 ***
 
@@ -236,6 +246,7 @@ D69.0 알레르기성 자반증 Allergic purpura (IgA vasculitis 포함; 구 Hen
 >
 > * 처방된 면역조절제는 임의로 중단하거나 용량을 변경하지 않도록 안내
 > * methotrexate를 복용하는 환자에서는 **주 1회 복용**임을 반드시 확인하고, 복용 요일을 정해 매일 복용하는 투약 오류를 예방
+> * MTX를 매일 또는 과량 복용했다면 증상이 없어도 추가 복용을 중단하고 즉시 응급 평가
 > * methotrexate 복용 중 새 항생제를 처방받을 때 복용 사실을 알리고, 특히 TMP-SMX는 병용 위험을 확인
 > * 약제에 따라 CBC, LFT, 신기능 등의 정기 모니터링이 필요하므로 검사 일정을 지키도록 안내
 > * 새로운 약·건강기능식품을 시작하거나 수술·시술·예방접종 예정이 있으면 담당 의료진과 상의
@@ -306,11 +317,14 @@ D69.0 알레르기성 자반증 Allergic purpura (IgA vasculitis 포함; 구 Hen
 * 전신경화증이 있고 혈압이 갑자기 오르거나 소변량이 줄어드는 경우
 * 근력이 급격히 떨어지면서 삼키기 어렵거나 숨쉬기가 힘든 경우
 * 면역억제 치료 중 고열·오한·의식 변화 등 심한 감염이 의심되는 경우
+* 메토트렉세이트(MTX)를 실수로 매일 또는 과량 복용한 경우: 증상이 없어도 추가 복용을 중단하고 즉시 응급 진료를 받으십시오.
 * 자반이나 피부 발진이 빠르게 넓어지면서 발열·전신 상태 불량이 동반되는 경우
 
 ***
 
-## <mark style="color:orange;">주요 참고문헌</mark>
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * BSR. [British Society for Rheumatology guideline on diagnosis and treatment of giant cell arteritis](https://doi.org/10.1093/rheumatology/kez672). 2020 — GCA 의심 시 치료 지연 방지.
 * ACR/VF. [2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Giant Cell Arteritis and Takayasu Arteritis](https://doi.org/10.1002/acr.24632). 2021 — 시력소실 위험에 따른 초기 glucocorticoid 치료.
@@ -328,4 +342,11 @@ D69.0 알레르기성 자반증 Allergic purpura (IgA vasculitis 포함; 구 Hen
 * Soontrapa P, et al. [Disease spectrum of myopathies with elevated aldolase and normal creatine kinase](https://doi.org/10.1111/ene.16117). 2024 — 정상 CK를 보이는 근염의 임상 근거.
 * AHA. [Update on Diagnosis and Management of Kawasaki Disease: A Scientific Statement From the American Heart Association](https://doi.org/10.1161/CIR.0000000000001295). 2024 — 의심 환자의 조기 소아 평가.
 * Croatian Society of Medical Biochemistry and Laboratory Medicine. [Assessment of antinuclear antibodies (ANA): National recommendations](https://pmc.ncbi.nlm.nih.gov/articles/PMC8047791/). 2021 — ANA 검사 선택·해석 및 반복검사의 한계.
+* ACR. [2024 American College of Rheumatology Guideline for the Screening, Treatment, and Management of Lupus Nephritis](https://doi.org/10.1002/acr.25528). 2025년 출판 — SLE 단백뇨 선별 및 신장생검 검토 기준.
+
+* KDIGO. [2024 Clinical Practice Guideline for the Management of Lupus Nephritis.](https://kdigo.org/wp-content/uploads/2024/01/KDIGO-2024-Lupus-Nephritis-Guideline.pdf) — 신장 침범에서 신독성 노출 및 급성 신손상 예방 원칙.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 항류마티스 약제의 국내 적응증·용법·금기 확인.
 * 건강보험심사평가원·질병관리청. [류마티스관절염 적정성 평가 관련 상병 분류](https://www.hira.or.kr/bbsDummy.do?brdBltNo=47708&brdScnBltNo=4&pgmid=HIRAA010006011100), [류마티스성 다발근통](https://helpline.kdca.go.kr/cdchelp/ph/rdiz/selectRdizInfDetail.do?rdizCd=RA201810016) 등 — 국내 질병코드 명칭 확인.

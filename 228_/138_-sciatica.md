@@ -1,10 +1,11 @@
-# 좌골신경통 (요천추 신경근병증) Sciatica, Lumbosacral Radiculopathy
+# 좌골신경통·요천추 신경근병증 Sciatica, Lumbosacral Radiculopathy
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 좌골신경통(sciatica) : 주로 L4\~S1 신경근의 자극 또는 압박으로 둔부에서 하지로 뻗치는 신경근성 통증(radicular pain). 감각 이상이 흔히 동반되며, 객관적 근력 약화·감각 저하·반사 감소가 동반되면 **요천추 신경근병증(lumbosacral radiculopathy)**으로 평가함
 * 관련 용어 : lumbosacral radicular syndrome, radicular pain, nerve root pain. 신경근성 통증과 신경근병증은 동반될 수 있으나 동의어는 아님; 객관적 신경학적 결손 없이 방사통만 나타날 수도 있음
 * L5, S1 이환이 가장 흔함
+* NICE NG59의 약물·시술 권고에서 급성은 ＜3개월, 만성은 ≥3개월임. 요통 챕터의 일반 기간 분류(급성 ＜6주, 아급성 6\~12주, 만성 ＞12주)와 구분하여 해석함
 * 역학 : 진단 기준과 조사 대상에 따라 유병률·발생률 차이가 큼. 추간판탈출증에 의한 좌골신경통은 주로 중년에서, 퇴행성 협착에 의한 증상은 고령자에서 흔함
 * 자연 경과 : 대부분 보존적 치료로 수주\~수개월 내 호전되며, 많은 환자에서 초기 4\~6주 동안 뚜렷한 호전을 보임. 일부에서는 증상이 지속되거나 재발할 수 있음
 
@@ -34,26 +35,35 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치**</mark> <mark style="color:$danger;">- 생명 위협 또는 영구적 신경 손상 가능성</mark>
 
-* 마미증후군(cauda equina syndrome) 의심 소견 : 새로운 요폐(urinary retention), 배뇨감각·소변 줄기 변화 또는 배뇨 시 힘주기, 배변 조절 곤란, 회음부 주위 감각 저하(안장 마취), 양측 하지 위약, 급성 성기능 장애 → 응급 MRI 및 즉시 신경외과/정형외과 의뢰. 모든 소견이 함께 나타나거나 완전 요폐·실금이 발생할 때까지 기다리지 않으며, 편측 하지 증상만 있어도 배제하지 않음
-* 급속 진행성이거나 심한 근력 약화(예: 완전 족하수)
-* 암 병력이 있는 환자의 새 신경근성 방사통, 보행장애, 위약, 감각장애 또는 배뇨·배변장애 → 전이성 척수/마미 압박을 의심하여 즉시 전문의 평가 및 긴급 MRI 경로로 의뢰(NICE NG234)
-* 척추 감염·경막외농양 의심에 신경학적 결손 또는 패혈증 소견이 동반됨
-* 갑작스러운 심한 등·복부 통증과 실신·저혈압, 또는 급성 하지 통증과 냉감·창백·맥박 소실 → 대동맥 질환·급성 하지허혈 등 혈관성 응급질환 감별
+응급 평가·전문과 의뢰를 즉시 시행함. 말총 압박·경막외농양 등 신경 압박이 의심되면 응급 MRI를 우선하고, 중증 외상·혈관 응급질환은 원인별 응급 영상·치료 경로를 적용함.
+
+* 새 요저류, 배뇨감각·소변줄기 변화·배뇨 시 힘주기, 소변·대변 조절 변화, 회음부·생식기 감각 저하 또는 성기능 변화, 양측 또는 진행하는 하지 위약·보행 장애 `말총증후군 의심`
+* 급속히 진행하는 신경학적 결손 또는 새로 발생한 중증 근력 저하·뚜렷한 족하수 `중증 신경근 압박`
+* 현재 또는 과거 암 환자의 새 신경근성 방사통, 보행 장애, 위약, 감각 이상 또는 배뇨·배변 장애 `전이성 척수·말총 압박 의심`
+* 심한 국소 척추통에 신경학적 결손·패혈증이 동반되거나 경막외농양이 의심됨 `척추 감염 응급`
+* 고에너지 외상(교통사고·고소 추락 등) 후 통증, 불안정 척추 손상 또는 외상 후 신경학적 이상 `중증 척추 외상`
+* 갑작스러운 심한 등·복부 통증과 실신·저혈압, 또는 급성 하지 통증과 냉감·창백·맥박 소실 `대동맥 질환·급성 하지허혈`
+
+✽말총증후군은 모든 소견이 함께 나타나거나 완전 요저류·실금이 생길 때까지 기다리지 않으며, 편측 하지 증상만 있어도 배제하지 않음. 전이성 척수 압박 의심 시 MRI는 가능한 빨리, 24시간 이내 시행함. <mark style="color:$info;">[NICE NG234]</mark>
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 중증 외상 후 발생(골절 의심) (당일)
-* 발열, 최근 감염·척추 시술, IV 약물 사용 또는 면역저하 등 위험 단서와 심한 척추 통증으로 척추 감염·경막외농양 의심 (당일); 발열이 없어도 배제하지 않음
-* 암 병력과 새로 발생한 지속성·진행성 허리 통증 등 척추 전이 의심 (당일); 새 신경근성 방사통이나 신경학적 증상이 동반되면 위의 즉각 조치 항목 적용
-* 새로 발생한 근력 약화이나 중증·급속 진행성은 아닌 경우 (당일); 근력 등급·보행·족하수 여부를 기록하고 조기 영상검사·전문의뢰 필요성 판단
-* 설명할 수 없는 체중 감소가 다른 의심 소견과 동반되거나 진행하는 경우 (조기 평가)
+아래의 당일 항목은 당일 평가함. 위의 즉각 조치 소견이 생기면 긴급도를 상향함.
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+* 새로 발생한 경도 근력 저하이나 중증·급속 진행성은 아님 **(당일)** `초기 신경근병증`
+* 발열, 최근 균혈증·감염·척추 시술, 정맥 주사 약물 사용 또는 면역저하 등 위험 단서와 심한 국소 척추통·압통 **(당일)** `척추 감염 의심`
+* 암 병력과 새 지속성·진행성 허리 통증·야간통 **(당일)** `척추 전이 의심`
+* 고령·골다공증·만성 steroid 사용 환자의 새 국소 요통·척추골 압통, 또는 경미한 외상 후 심한 통증 **(당일~수일 내; 심한 통증·보행 곤란은 당일)** `취약골절 의심`
+* 설명할 수 없는 체중 감소가 다른 의심 소견과 동반되거나 진행함 `종양 등 감별`
 
-* 비정형 통증 또는 예상과 다른 경과 - 연령만으로 영상검사 여부를 결정하지 않고 암·감염·골절 위험과 신경학적 소견을 함께 평가
-* 6주 이상 지속되거나 일상 기능 제한이 계속되는 경우 - 진단 재평가 및 필요 시 영상검사/전문의뢰
+✽척추 감염은 발열이 없어도 가능함. 새 근력 저하는 MRC 등급·보행·족하수 여부를 기록하고 조기 영상·전문의뢰 필요성을 판단함. 척추 전이만 의심되더라도 24시간 이내 전문과 상담·평가 후 통상 1주 이내 MRI를 계획하며, 새 신경근성 방사통·신경학적 증상이 있으면 즉각 조치 항목을 적용함. <mark style="color:$info;">[NICE NG234]</mark>
+
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 비정형 통증 또는 예상과 다른 경과; 연령만으로 영상검사 여부를 결정하지 않음 `진단 재평가`
+* 6주 전후에도 호전이 없거나 기능 제한이 지속됨 `지속성 신경근통`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -73,10 +83,10 @@
 * crossed SLR : 건측 SLR 시행 중 환측의 전형적인 방사통이 재현되면 양성
 * Bragard sign : SLR 양성 각도에서 다리를 살짝 내린 뒤 발목을 배굴시켜 방사통이 재현되는지 평가; Bowstring test : SLR 양성 각도에서 무릎을 살짝 굴곡한 뒤 오금부를 압박하여 방사통 재현 여부 확인. 보조적 검사이며 단독으로 신경근 압박을 확정하지 않음
 * SLR은 주로 L5·S1 신경근 자극 평가에 활용하며, crossed SLR은 일반 SLR보다 특이도가 높고 민감도는 낮은 편임. 대퇴 전방 통증 등 L2\~L4 병변이 의심되면 femoral nerve stretch test를 함께 고려
-* [slump test](https://www.youtube.com/watch?v=HFGfP84uwEo) : 앉은 자세에서 흉·요추 굴곡, 경추 굴곡, 무릎 신전 및 발목 배굴을 단계적으로 시행하여 평소의 신경근성 하지 통증이 재현되는지 평가; 추간판탈출증에서 SLR보다 민감할 수 있으나(Majlesi 등, 2008) 단독으로 진단하지 않고 다른 임상소견과 함께 해석
-* 마미증후군 의심 시 : saddle/perineal sensation, 하지 신경학적 검사, 새로운 요폐(urinary retention)·배뇨감각 변화를 신속히 평가하고 즉시 MRI 의뢰
-  ✽digital rectal examination(DRE)의 anal tone 검사는 진단 정확도가 낮고 거짓 안심을 줄 수 있음. 정상 소견을 근거로 응급 MRI 의뢰를 늦추거나 마미증후군을 배제하지 않음
-  ✽방광 초음파의 배뇨 후 잔뇨량(PVR)은 보조적으로 활용할 수 있으나, PVR ＜200 ㎖라도 불완전 마미증후군이 가능하므로 의심 증상이 있으면 응급 MRI를 지연하지 않음(Todd 등, 2022)
+* [slump test](https://www.youtube.com/watch?v=HFGfP84uwEo) : 앉은 자세에서 흉·요추 굴곡, 경추 굴곡, 무릎 신전 및 발목 배굴을 단계적으로 시행하여 평소의 신경근성 하지 통증이 재현되는지 평가; 추간판탈출증을 평가한 소규모 연구에서 SLR보다 민감했으나 <mark style="color:$info;">[Majlesi 등, 2008]</mark> 단독으로 진단하지 않고 다른 임상 소견과 함께 해석
+* 말총증후군(cauda equina syndrome, 마미증후군) 의심 시 : saddle/perineal sensation, 하지 신경학적 검사, 새로운 요폐(urinary retention)·배뇨감각 변화를 신속히 평가하고 즉시 MRI 의뢰
+  ✽digital rectal examination(DRE)의 anal tone 검사는 진단 정확도가 낮고 거짓 안심을 줄 수 있음. 정상 소견을 근거로 응급 MRI 의뢰를 늦추거나 말총증후군을 배제하지 않음
+  ✽방광 초음파의 배뇨 후 잔뇨량(PVR)은 보조적으로 활용할 수 있으나, PVR ＜200 ㎖라도 불완전 말총증후군이 가능하므로 의심 증상이 있으면 응급 MRI를 지연하지 않음 <mark style="color:$info;">[Todd 등, 2022]</mark>
 * 하지 맥박 검사 : 혈관 질환과 감별
 
 ### <mark style="color:orange;">통증-기능 평가</mark>
@@ -87,7 +97,7 @@
 
 * Red Flag나 진행성 신경학적 결손이 없으면 일률적인 초기 영상검사는 피함. 6주 전후에도 증상이 지속·악화하여 수술·주사 등 치료를 고려하고, 검사 결과가 치료 방침을 바꿀 가능성이 있을 때 영상검사 고려; 호전 중이라면 6주 경과만으로 MRI를 시행하지 않음
 * X선 : 진단적 가치가 높지 않음; 일률적 검사는 권고하지 않음
-* MRI : 신경근 압박 원인·위치와 임상 소견의 일치 여부를 평가하는 데 유용; 일반적인 추간판탈출증·협착 평가에는 비조영 MRI를 우선 고려. 마미증후군이 의심되면 응급 시행, 감염·종양 또는 중증·진행성 신경학적 결손이 의심되면 긴급도에 따라 조기 시행하고 조영 여부는 목적에 맞게 결정
+* MRI : 신경근 압박 원인·위치와 임상 소견의 일치 여부를 평가하는 데 유용; 일반적인 추간판탈출증·협착 평가에는 비조영 MRI를 우선 고려. 말총증후군이 의심되면 응급 시행, 감염·종양 또는 중증·진행성 신경학적 결손이 의심되면 긴급도에 따라 조기 시행하고 조영 여부는 목적에 맞게 결정
 * CT : 골절·골성 병변 평가에 유용하며, MRI 시행이 불가능한 경우 대안으로 고려; 필요한 경우 전문의가 CT myelography 여부를 결정
 * 초음파 : 복부 질환 의심 시 고려(예: abdominal aortic aneurysm)
 * 신경전도 검사, 근전도 검사 : 진찰·영상 소견이 불일치하거나 말초신경병증과의 감별이 필요한 경우 보조적으로 고려; 모든 좌골신경통 환자에게 일률적으로 시행하지 않음
@@ -97,26 +107,26 @@
 
 * 하지로 뻗치는 통증·저림을 유발할 수 있는 질환들과의 감별
 
-<table><thead><tr><th width="160">질환</th><th width="250">좌골신경통과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>척추관협착증에 의한 신경성 파행<br>(neurogenic claudication)</td><td>보행 시 악화, 앉거나 허리를 굽히면 호전; 양측성인 경우가 많음</td><td>허리를 굽히면(예: 카트를 밀며 걷기) 완화되는 양상; 협착 자체도 신경근성 통증의 원인이므로 동반 여부 평가</td></tr><tr><td>심부둔부증후군<br>(deep gluteal syndrome; 이상근증후군 포함)</td><td>둔부 공간의 좌골신경 포착에 의한 통증; 둔부 심부 압통·착석 시 악화</td><td>FAIR test·seated piriformis stretch/active piriformis test 등은 보조적; 요추·고관절 원인 감별. 요추 MRI에서 압박이 없다는 사실만으로 진단하지 않음</td></tr><tr><td>상위 요추 신경근병증(L2\~L4)<br>/대퇴신경병증</td><td>대퇴 전방에서 무릎·종아리 내측까지 통증·감각 이상 가능; 후방 하지 방사통은 드묾</td><td>Femoral nerve stretch test, 무릎 신전 근력·슬개건반사 평가; 고관절 내전 약화는 대퇴신경 단독 병변보다 신경근/신경총 병변을 시사</td></tr><tr><td>Common peroneal neuropathy</td><td>발목 배굴·족지 신전·외번 약화(foot drop)와 감각 이상이 종아리 외측\~발등에 주로 분포; 요통은 흔하지 않음</td><td>비골두 부위 압통·Tinel 징후; L5 신경근병증과 달리 tibialis posterior(내번)는 보존됨</td></tr><tr><td>말초혈관질환<br>(vascular claudication)</td><td>신경학적 결손·감각 이상이 동반되는 경우는 드묾</td><td>자세 변화와 무관하게 보행 시 악화; 하지 맥박 저하 또는 소실</td></tr><tr><td>고관절 병변<br>(골관절염 등)</td><td>서혜부 통증이 주 증상; 방사통은 대개 무릎 상부까지</td><td>고관절 운동범위 제한, 서혜부 통증 유발 검사 양성</td></tr><tr><td>Greater trochanteric pain syndrome</td><td>대전자 부위 국소 압통이 주 증상</td><td>옆으로 누우면 악화; 대전자부 직접 압통</td></tr><tr><td>천장관절통(SI joint pain)</td><td>방사통이 대개 무릎 상부까지; 신경학적 결손 없음</td><td>천장관절 유발검사(compression, FABER 등) 양성</td></tr><tr><td>임신 관련 골반대 통증</td><td>특정 신경근 dermatome과 불일치; 골반 전방·후방 통증 우세</td><td>임신 중 발생, posterior pelvic pain provocation test 양성</td></tr><tr><td>당뇨병성 말초신경병증</td><td>대개 양측 발끝에서 시작하는 원위부 대칭성 감각 이상; 진행 시 양말-장갑 분포</td><td>특정 신경근 dermatome과 불일치하는 분포; 당뇨병력</td></tr><tr><td>대상포진(herpes zoster)</td><td>피부분절을 따르는 통증이 발진에 선행하거나 발진과 동반됨</td><td>수포성 발진(피부분절 분포); 발진 전에는 감별 어려울 수 있음</td></tr></tbody></table>
+<table><thead><tr><th width="160">질환</th><th width="250">좌골신경통과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>척추관협착증에 의한 신경성 파행<br>(neurogenic claudication)</td><td>보행 시 악화, 앉거나 허리를 굽히면 호전; 양측성인 경우가 많음</td><td>허리를 굽히면(예: 카트를 밀며 걷기) 완화되는 양상; 협착 자체도 신경근성 통증의 원인이므로 동반 여부 평가</td></tr><tr><td>심부둔부증후군<br>(deep gluteal syndrome; 이상근증후군 포함)</td><td>둔부 공간의 좌골신경 포착에 의한 통증; 둔부 심부 압통·착석 시 악화</td><td>FAIR test·seated piriformis stretch/active piriformis test 등은 보조적; 요추·고관절 원인 감별. 요추 MRI에서 압박이 없다는 사실만으로 진단하지 않음</td></tr><tr><td>상위 요추 신경근병증(L2\~L4)<br>/대퇴신경병증</td><td>대퇴 전방에서 무릎·종아리 내측까지 통증·감각 이상 가능; 후방 하지 방사통은 드묾</td><td>Femoral nerve stretch test, 무릎 신전 근력·슬개건반사 평가; 고관절 내전 약화는 대퇴신경 단독 병변보다 신경근/신경총 병변을 시사</td></tr><tr><td>Common peroneal neuropathy</td><td>발목 배굴·족지 신전·외번 약화(foot drop)와 감각 이상이 종아리 외측\~발등에 주로 분포; 요통은 흔하지 않음</td><td>비골두 부위 압통·Tinel 징후; L5 신경근병증과 달리 tibialis posterior(내번)는 보존됨</td></tr><tr><td>말초혈관질환<br>(vascular claudication)</td><td>신경학적 결손·감각 이상이 동반되는 경우는 드묾</td><td>자세 변화와 무관하게 보행 시 악화; 하지 맥박 저하 또는 소실</td></tr><tr><td>고관절 병변<br>(골관절염 등)</td><td>서혜부 통증이 주 증상; 방사통은 대개 무릎 상부까지</td><td>고관절 운동범위 제한, 서혜부 통증 유발 검사 양성</td></tr><tr><td>Greater trochanteric pain syndrome</td><td>대전자 부위 국소 압통이 주 증상</td><td>옆으로 누우면 악화; 대전자부 직접 압통</td></tr><tr><td>천장관절통(SI joint pain)</td><td>주로 둔부·대퇴부로 연관통; 무릎 아래까지 뻗칠 수도 있으며 객관적 신경학적 결손은 보통 없음</td><td>여러 천장관절 통증 유발검사의 조합으로 평가; 단일 FABER 또는 통증 분포만으로 확진하지 않음</td></tr><tr><td>임신 관련 골반대 통증</td><td>특정 신경근 dermatome과 불일치; 골반 전방·후방 통증 우세</td><td>임신 중 발생, posterior pelvic pain provocation test 양성</td></tr><tr><td>당뇨병성 말초신경병증</td><td>대개 양측 발끝에서 시작하는 원위부 대칭성 감각 이상; 진행 시 양말-장갑 분포</td><td>특정 신경근 dermatome과 불일치하는 분포; 당뇨병력</td></tr><tr><td>대상포진(herpes zoster)</td><td>피부분절을 따르는 통증이 발진에 선행하거나 발진과 동반됨</td><td>수포성 발진(피부분절 분포); 발진 전에는 감별 어려울 수 있음</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    A(["좌골신경통 의심: 특징적 하지 방사통 ± 감각 이상/신경학적 결손"]) --> B{"Red Flags 선별"}
-    B -->|즉각 조치 항목| C["응급 평가·원인별 긴급 영상검사 및 전문의뢰"]
-    B -->|당일~수일 내 평가 항목| D["해당 긴급도에 따른 평가·영상검사·의뢰"]
-    B -->|즉각·조기 평가 항목 없음| E["설명·활동 유지·자가관리, 필요 시 단기 NSAID·운동치료"]
-    E --> F{"치료 중 경과 확인"}
-    F -->|마미 증상·중증/급속 진행성 위약 등| C
-    F -->|새 경도 위약| D
-    F -->|급성·중증 통증으로 기능 제한 심함| K["전문의 평가: 경막외 주사 등 이득·위험 논의"]
-    F -->|증상 안정| G{"수주 후 재평가"}
-    G -->|호전| L["점진적 활동 복귀"]
-    G -->|6주 전후 지속·기능 제한 및 시술·수술 고려| H["MRI 고려: 결과가 치료 방침을 바꿀 때"]
-    H --> I{"영상·임상 소견 일치?"}
-    I -->|불일치| M["진단 재평가"]
-    I -->|일치·심한 통증 또는 기능장애 지속| J["원인·증상 기간에 따라 수술·시술 전문의 상담"]
+    A(["좌골신경통 의심: 특징적 하지 방사통 ± 감각 이상/신경학적 결손"]) ---> B{"Red Flags 선별"}
+    B --->|즉각 조치 항목| C["응급 평가·원인별 긴급 영상검사 및 전문의뢰"]
+    B --->|당일~수일 내 평가 항목| D["해당 긴급도에 따른 평가·영상검사·의뢰"]
+    B --->|즉각·조기 평가 항목 없음| E["설명·활동 유지·자가관리, 필요 시 단기 NSAID·운동치료"]
+    E ---> F{"치료 중 경과 확인"}
+    F --->|말총 증상·중증/급속 진행성 위약 등| C
+    F --->|새 경도 위약| D
+    F --->|급성·중증 통증으로 기능 제한 심함| K["전문의 평가: 경막외 주사 등 이득·위험 논의"]
+    F --->|증상 안정| G{"수주 후 재평가"}
+    G --->|호전| L["점진적 활동 복귀"]
+    G --->|6주 전후 지속·기능 제한 및 시술·수술 고려| H["MRI 고려: 결과가 치료 방침을 바꿀 때"]
+    H ---> I{"영상·임상 소견 일치?"}
+    I --->|불일치| M["진단 재평가"]
+    I --->|일치·심한 통증 또는 기능장애 지속| J["원인·증상 기간에 따라 수술·시술 전문의 상담"]
     style C fill:#f96,stroke:#e65100,stroke-width:2px
     style D fill:#fff3e0,stroke:#e65100,stroke-width:2px
 ```
@@ -154,7 +164,7 @@ graph TD
 * 지속적인 근력 및 유연성 훈련 또는 활동
 * 운동 또는 활동 전에 준비 운동을 함
 * 급성 통증기에 증상을 악화시키는 무거운 들기·비틀기를 줄이고, 호전되면 점진적으로 활동 부하를 늘림(필요 시 장보기 카트 이용)
-* 물건을 들 때의 자세 주의 : 물건 정면에 다리를 벌리고 서서 허리는 세우고 무릎을 구부려 들어 올림, 가능한 한 물건을 몸 가까이 듦; 허리를 비틀지 않음
+* 물건을 몸 가까이 두고 무릎·고관절을 함께 사용하여 편안하게 들어 올림. 특정 자세 하나를 정답으로 강요하지 않으며, 통증이 심한 시기에는 무게·반복 들기·비틀기를 조절하고 호전 시 점진적으로 복귀함
 * 앉을 때 편안한 자세를 취하고 필요 시 허리 지지를 사용함; 한 가지 자세를 오래 유지하기보다 자주 자세를 바꿈
 * 의자·발받침은 체형과 증상에 맞춰 선택함
 * 장시간 앉아서 작업할 때는 자주 일어나 짧게 걷고, 간격·시간은 증상과 작업 환경에 맞춤
@@ -199,6 +209,7 @@ graph TD
 * ibuprofen : 성인 일반 통증용량 1회 200\~400 ㎎, 1일 3\~4회 범위에서 필요 시 단기간 사용 <mark style="color:blue;">\[부루펜정]</mark>. 국내 허가의 관절염 등 용량과 일반 통증용량을 구별하며 800 ㎎/회를 일률적인 시작·일반 용량으로 제시하지 않음
 * naproxen : <mark style="color:blue;">\[낙센정 250 ㎎, 낙센에프정 500 ㎎]</mark>. 국내 골격근장애(요천통 포함) 허가용량은 초회 500 ㎎ 후 필요 시 6\~8시간 간격으로 250 ㎎, 1일 총량 ≤1,250 ㎎; 연령·증상에 따라 조절. 250\~500 ㎎ bid는 관절염 등의 허가용법이므로 급성 통증용법과 구별함
 * 여러 NSAID를 병용하지 않으며 탈수·급성 신손상·활동성 궤양/출혈 등에서는 피함. 고위험 환자는 PPI 병용 등 위장 보호를 고려하되 신장·심혈관 위험까지 줄여주는 것은 아님
+* 제품별 금기 보완 : 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함 <mark style="color:$info;">[국내 허가사항]</mark>
 
 ### <mark style="color:orange;">경구 Steroid</mark>
 
@@ -331,19 +342,25 @@ M51.1　신경뿌리병증을 동반한 요추 및 기타 추간판장애 Lumbar
 * 소변이 평소처럼 나오지 않거나 소변 줄기·배뇨감각이 새로 변한 경우, 소변·대변을 조절하기 어렵거나 항문·회음부 주위 감각이 무뎌지는 경우
 * 다리에 힘이 심하게 빠지거나 힘이 빠지는 정도가 빠르게 심해지는 경우
 * 암 병력이 있으면서 다리로 뻗치는 새 통증, 보행장애·다리 힘 빠짐·배뇨장애가 생긴 경우
+* 교통사고·높은 곳에서 추락하는 등 큰 외상 후 통증이 시작된 경우
+* 갑작스러운 심한 허리·복부 통증과 실신·심한 어지럼, 또는 다리가 갑자기 아프고 차갑거나 창백해지는 경우
 
-다리에 새로 힘이 빠지지만 심하지 않은 경우에도 당일 진료를 받으십시오. 발열과 심한 허리 통증이 함께 있거나 최근 감염·척추 시술, 면역저하가 있으면서 심한 허리 통증이 생기면 발열이 없어도 당일 진료를 받으십시오. 원인 모를 체중 감소나 지속되는 비정상적인 통증이 있다면 늦추지 말고 원인을 확인하십시오.
+다리에 새로 힘이 빠지지만 심하지 않은 경우에도 당일 진료를 받으십시오. 발열과 심한 허리 통증이 함께 있거나 최근 감염·척추 시술, 면역저하가 있으면서 심한 허리 통증이 생기면 발열이 없어도 당일 진료를 받으십시오. 골다공증이 있거나 steroid를 장기간 사용하는 분은 가벼운 충격 후 생긴 통증도 골절일 수 있으므로 조기에 진료를 받고, 통증이 심하거나 걷기 어려우면 당일 진료를 받으십시오. 원인 모를 체중 감소나 지속되는 비정상적인 통증이 있다면 늦추지 말고 원인을 확인하십시오.
 
 
 ***
 
-### 주요 근거 및 참고 자료
+## 주요 참고문헌 및 확인 자료
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * [NICE NG59. Low back pain and sciatica in over 16s: assessment and management](https://www.nice.org.uk/guidance/ng59) — 2016년 제정, 좌골신경통 약물 권고 2020년 개정, 전체 지침 최종 개정 2026-07-29. 영상검사·비약물 치료·약물·경막외 주사·수술 권고 참조
 * [Lee JJ, et al. Evidence-Based Clinical Practice Guidelines for Patients With Lumbar Disc Herniation With Radiculopathy in South Korea. Neurospine. 2025;22:366–383](https://doi.org/10.14245/ns.2550094.047) — 요추 추간판탈출증의 운동·신경차단·수술에 관한 국내 지침; 모든 원인의 좌골신경통에 일괄 적용하지 않음
 * [NICE NG234. Spinal metastases and metastatic spinal cord compression](https://www.nice.org.uk/guidance/ng234) — 암 병력과 신경근성 통증 등 압박 의심 증상의 응급 평가 기준
+* NICE. [Spinal injury: assessment and initial management (NG41)](https://www.nice.org.uk/guidance/ng41). 2016. 중증 외상 후 척추 손상 평가·이송·영상 경로.
 * [ACR Appropriateness Criteria®: Low Back Pain](https://acsearch.acr.org/docs/69483/narrative/) — 초기 일률적 영상검사 제한 및 지속 증상·위험 소견의 영상검사 선택
-* [Todd NV, et al. Post-void bladder ultrasound in suspected cauda equina syndrome. Int Orthop. 2022](https://pubmed.ncbi.nlm.nih.gov/35182176/) — 잔뇨량 ＜200 ㎖만으로 마미증후군을 배제하지 않음
+* [Majlesi J, et al. The sensitivity and specificity of the Slump and the Straight Leg Raising tests in patients with lumbar disc herniation. J Clin Rheumatol. 2008;14(2):87–91](https://pubmed.ncbi.nlm.nih.gov/18391677/) — 신체검사 진단 정확도 연구; 결과를 모든 진료 환경에 일반화하지 않음
+* [Todd NV, et al. Post-void bladder ultrasound in suspected cauda equina syndrome. Int Orthop. 2022](https://pubmed.ncbi.nlm.nih.gov/35182176/) — 잔뇨량 ＜200 ㎖만으로 말총증후군을 배제하지 않음
 * [Tabrah J, et al. Can digital rectal examination be used to detect cauda equina compression? Musculoskelet Sci Pract. 2022](https://pubmed.ncbi.nlm.nih.gov/35180641/) — 항문 긴장도 검사의 진단 정확도 한계
 * [Oliveira CB, et al. Epidural corticosteroid injections for lumbosacral radicular pain. Cochrane Database Syst Rev. 2020;CD013577](https://www.cochrane.org/evidence/CD013577_corticosteroid-injections-treatment-sciatica) — 위약 대비 작은 단기 평균 효과
 * [Armon C, et al. Epidural Steroids for Cervical and Lumbar Radicular Pain and Spinal Stenosis Systematic Review Summary: Report of the AAN Guidelines Subcommittee. Neurology. 2025](https://pubmed.ncbi.nlm.nih.gov/39938000/) — 단기 통증·기능 개선과 장기 통증 효과의 불확실성
@@ -352,4 +369,6 @@ M51.1　신경뿌리병증을 동반한 요추 및 기타 추간판장애 Lumbar
 * [FDA. FDA requires label changes to warn of rare but serious neurologic problems after epidural corticosteroid injections for pain. 2014](https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-fda-requires-label-changes-warn-rare-serious-neurologic-problems-after) — 중대한 신경학적 위해 및 미국 경막외 투여 미승인 고지
 * [Chou R, et al. Systemic corticosteroids for radicular and non-radicular low back pain. Cochrane Database Syst Rev. 2022;CD012450](https://doi.org/10.1002/14651858.CD012450.pub2) — 전신 스테로이드의 제한적인 평균 효과
 * [Martin HD, et al. Deep gluteal syndrome. J Hip Preserv Surg. 2015;2:99–107](https://doi.org/10.1093/jhps/hnv029) — 이상근증후군을 포함한 둔부 공간의 좌골신경 포착
-* 국내 제품 용량: [의약품안전나라 부루펜정200밀리그램](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700120), [종근당 낙센에프정 제품정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000003), [아로베스트정 허가정보(식약처 자료)](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB1358) 참조
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/). 국내 ibuprofen·naproxen·afloqualone의 허가 효능·용법·안전성 및 시술에 사용하는 약제의 허가 투여경로 확인 자료.

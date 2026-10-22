@@ -1,4 +1,4 @@
-# 류마티스 관절염 Rheumatoid Arthritis (RA)
+# 류마티스관절염 Rheumatoid Arthritis (RA)
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -7,7 +7,7 @@
 * 호발 : 여성이 남성보다 2\~3배 흔하며, 발병 정점은 55\~75세
 * 유병률 : 성인의 약 0.5\~0.7%(전 세계 0.53%, 미국 0.74%; 국내 약 0.5% 내외로 추정)
 * 관절 및 연조직이 파괴되어 관절의 만성적이고 비가역적인 장애 발생; 조기 사망률 증가와 관련
-* 질병 초기(특히 발병 후 3\~6개월, "window of opportunity")에 적극적인 치료를 시작할수록 관해 도달률과 장기 예후가 우수함; 이상적으로는 증상 발현 6주 이내 진단 후 즉시 DMARD 시작
+* 질병 초기(특히 발병 후 3\~6개월, "window of opportunity")에 적극적인 치료를 시작할수록 관해 도달률과 장기 예후가 우수함; 객관적 관절종창이 확인되면 검사 결과를 기다리지 않고 조기 전문 평가를 의뢰하며, RA 진단 즉시 DMARD 시작
 * 예후 : 조기 DMARD 치료와 treat-to-target으로 관해·저활동도 도달 가능성이 높아지나, 관해율은 대상군·관해 정의·치료 전략·평가 시점에 따라 달라짐
   * 고역가 RF/ACPA, 높은 질병활성도 및 조기 골미란은 구조적 손상 위험과 관련
   * 지속적 염증, 심혈관질환, 폐질환, 감염 등은 초과 사망 위험과 관련; 질병활성도 조절과 동반 질환 관리가 중요함
@@ -21,7 +21,7 @@
 
 {% hint style="info" %}
 **Pre-RA**\
-임상적 관절염이 나타나기 전 자가면역·관절통 등의 위험 단계가 존재할 수 있음. RF/ACPA 양성만으로 RA 또는 향후 RA 발생을 확정하지 않으며, 혈청음성 위험 단계도 가능함. 2025 EULAR/ACR 위험 계층화 기준은 2차 진료에서 RA 위험이 있다고 판단된 관절통 환자를 대상으로 개발된 것으로, 무증상 일반 인구 선별 또는 RA 확진 기준이 아님.
+임상적 관절염이 나타나기 전 자가면역·관절통 등의 위험 단계가 존재할 수 있음. RF/ACPA 양성만으로 RA 또는 향후 RA 발생을 확정하지 않으며, 혈청음성 위험 단계도 가능함. 2025 EULAR/ACR 위험 계층화 기준은 2차 진료에서 RA 위험이 있다고 판단된 관절통 환자를 대상으로 개발된 것으로, 무증상 일반 인구 선별 또는 RA 확진 기준이 아님. 임상적 활막염이 없는 항체 양성·관절통만으로 예방적 DMARD를 일상적으로 시작하지 않으며, 전문 추적 및 필요 시 임상시험 참여를 검토함.
 {% endhint %}
 
 ### <mark style="color:orange;">나쁜 예후 인자 (Poor Prognostic Factors)</mark>
@@ -76,7 +76,7 @@
 * ✽관절 외 침범은 오래된 고활동도·혈청양성 RA에서 더 흔하지만, RA-ILD 등은 관절염보다 먼저 또는 질병 초기에 나타날 수도 있음
 
 {% hint style="info" %}
-**RA-ILD 선별 및 모니터링 (2023 ACR/CHEST guideline)**\
+**RA-ILD 선별 및 모니터링** <mark style="color:$info;">(2023 ACR/CHEST guideline)</mark>\
 고령, 남성, 흡연력, 높은 RA 질병활성도, 고역가 RF/ACPA 등 위험 인자를 가진 RA 환자는 무증상이어도 폐기능검사(PFT: spirometry, lung volume, DLCO) + 흉부 HRCT를 이용한 초기 선별검사를 고려하고, 위험 인자가 지속되는 경우 대략 연 1회 PFT 재선별을 고려함.\
 확진된 RA-ILD는 첫 1년간 3\~12개월 간격으로 PFT를 추적하고 안정화 후 간격을 늘리며, HRCT는 정기 반복 검사가 아니라 증상 악화·PFT 변화 등 임상적으로 필요한 경우에 시행함.
 {% endhint %}
@@ -85,30 +85,33 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* **발열 유무와 무관하게** 급성 단관절의 심한 통증·부종·열감 또는 현저한 관절운동 제한(특히 관절 내 스테로이드 주사 후, 인공관절, 면역억제제 사용 중) → 화농성 관절염 우선 배제 → 긴급 관절천자 및 적절한 항균 치료
-* 새로운 사지 위약, 보행 장애, 배뇨 장애 등 척수병증 소견(경부 통증이 없어도 해당) → 환축추 아탈구 등 경추 병변 의심 → 목의 과도한 움직임·교정을 피하고 응급 영상(경추 MRI) 및 신경외과/정형외과 의뢰
-* 흉통·호흡곤란 + 저혈압, 경정맥 확장 → 심낭 삼출/압전 의심
-* 급격한 시력 저하 또는 심한 안구통 → 공막염(scleritis), 말초성 궤양성 각막염(peripheral ulcerative keratitis) 의심 → 안과 응급
-* 손·발가락의 급성 허혈성 변화(청색증, 궤양, 괴사) → 류마티스 혈관염에 의한 digital ischemia 의심
-* 면역억제 치료 중 감염 의심 + 의식 변화·저혈압·호흡곤란, 또는 새로 발생한 심한 호흡곤란·저산소증 → 패혈증·중증 폐렴·ILD 급성 악화·폐색전증 등 응급 평가
-* MTX를 실수로 매일 복용하거나 예정량보다 과량 복용 → 증상 유무와 무관하게 추가 MTX를 중단하고 즉시 응급 평가(골수억제·점막염이 지연 발생할 수 있음)
+* **발열 유무와 무관하게** 급성 단관절의 심한 통증·부종·열감 또는 현저한 관절운동 제한(특히 관절 내 steroid 주사 후, 인공관절, 면역억제제 사용 중)  `화농성 관절염`
+* 새로운 사지 위약·보행 장애·배뇨 장애 등 척수병증 소견(경부 통증이 없어도 해당)  `환축추 아탈구·경추 척수병증`
+* 흉통·호흡곤란 + 저혈압·경정맥 확장  `심낭 삼출·심장압전`
+* 급격한 시력저하 또는 심한 안구통  `공막염·말초성 궤양성 각막염`
+* 손·발가락의 급성 청색증·허혈성 통증·괴사  `급성 사지 허혈·혈관염`
+* 면역억제 치료 중 감염 의심 + 의식 변화·저혈압·호흡곤란, 또는 새로 발생한 심한 호흡곤란·저산소증  `패혈증·중증 폐렴·ILD 악화·폐색전증`
+* MTX를 실수로 매일 복용하거나 예정량보다 과량 복용(무증상도 해당)  `MTX 중독`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 면역억제제 사용 중 발열·오한 또는 국소 감염 증상 → 당일 평가; 패혈증 소견이면 즉각 조치. IL-6 억제제 사용 시 발열·CRP 상승이 약할 수 있어 정상 CRP로 감염을 배제하지 않음
-* 새로 발생한 마른기침·경증 호흡곤란(심한 호흡곤란·저산소증은 즉각 조치) → RA-ILD, 약물유발 폐렴, 감염 등 감별을 위해 당일 평가 및 적절한 흉부 영상·협진
-* 다발성 피하결절 급속 증가, 자반, 다발성 단신경병증(mononeuritis multiplex) 소견 → 전신 혈관염 의심
-* 신경학적 결손이 없는 새로운 경부 통증·뻣뻣함 → 경추 불안정성 평가를 위한 영상 검사 필요
-* MTX·leflunomide 복용 중 임신 확인 → 해당 약물을 즉시 중단하고 당일 산과·류마티스내과 상담; MTX 노출 시 폴산 보충·태아 위험 평가, leflunomide 노출 시 신속 제거 요법 평가
+* 면역억제제 사용 중 발열·오한 또는 국소 감염 증상; IL-6 억제제 사용 중에는 발열·CRP 상승이 약할 수 있음 **(당일)**  `감염`
+* 새로 발생한 마른기침·경증 호흡곤란 **(당일)**  `RA-ILD·약물유발 폐렴·감염`
+* 충혈·안구통·눈부심 등 새로운 안구 염증 증상 **(당일 안과 평가)**  `공막염·각막염 등`
+* 자반 또는 새 다발성 단신경병증(mononeuritis multiplex) ± 결절 급속 증가 **(당일)**  `전신 혈관염`
+* MTX·LEF·SSZ 복용 중 심한 구내염, 인후통·발열, 멍·출혈 등 **(당일)**  `약물 독성·혈구감소·감염`
+* 신경학적 결손이 없는 새로운 경부 통증·뻣뻣함  `경추 불안정성`
+* MTX·leflunomide 복용 중 임신 확인 **(당일)**  `태아 약물 노출`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 표준 csDMARD 치료 3개월 내 임상적 호전이 없거나 6개월 내 치료 목표(관해 또는 저활동도)에 도달하지 못한 경우
-* 적절히 최적화한 csDMARD 전략에도 치료 목표에 도달하지 못한 경우 → bDMARD 추가(JAK 억제제는 위험 평가 후 고려)를 위한 류마티스내과 의뢰
-* bDMARD/tsDMARD 시작 전 잠복결핵, B형간염 스크리닝 필요
-* 심혈관 위험 인자를 가진 환자에서 JAK 억제제 사용을 고려할 때 위험-이익 재평가 필요
+* 표준 csDMARD 치료 3개월 내 충분한 임상적 개선이 없거나 6개월 내 치료 목표(관해 또는 저활동도) 미달성  `치료 전략 재평가`
+* 적절히 최적화한 csDMARD 전략에도 치료 목표 미달성  `bDMARD 추가·JAK 억제제 위험 평가`
+* bDMARD/tsDMARD 시작 예정이며 잠복결핵·B형간염 등 선별 및 예방 계획이 필요한 상태  `치료 전 감염 평가`
+
+*화농성 관절염 의심 시 긴급 관절천자·배양 및 항균 치료를 계획하고 패혈증이면 항생제를 지연하지 않음. 척수병증 의심 시 목의 과도한 움직임·교정을 피하고 응급 경추 MRI 및 척추 전문 평가를 시행함. MTX 과량 복용 시 추가 MTX를 중단하고 즉시 응급 평가함. MTX·LEF 복용 중 임신 확인 시 해당 약을 중단하고 당일 산과·류마티스내과와 상담함. 심한 호흡곤란·저산소증·시력저하·급성 신경계 결손 등은 즉각 조치로 격상함.*
 
 ***
 
@@ -177,22 +180,18 @@ _Ref. 2010 ACR/EULAR. Rheumatoid arthritis classification criteria. Arthritis Rh
 * CBC : 경증 정상구성 정상색소 빈혈, 반응성 혈소판증가증 소견
 * 전해질, Cr, LFT, U/A : 동반 질환 및 약물 시작 전 기저치 평가를 위해 시행
 
-#### RA 검사 항체들의 정확도
-
-☞ [류마티스질환](150_-rheumatoid-disease.md)
-
 ### <mark style="color:orange;">감별 진단</mark>
 
 * 대칭적 다발관절통·조조강직으로 내원하는 경우 아래 질환들과의 감별이 필요
 
-<table><thead><tr><th width="140">질환</th><th width="260">RA와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>골관절염(OA)</td><td>염증보다 퇴행성 변화가 주 기전</td><td>DIPJ·CMC 관절 호발, 조조강직 &#x3C;30분, 전신 증상 없음, RF/ACPA 음성</td></tr><tr><td>전신홍반루푸스(SLE)</td><td>비미란성 관절염, 다장기 침범</td><td>피부발진, 광과민성, 신장·혈액학적 이상, ANA 고역가, anti-dsDNA</td></tr><tr><td>건선성 관절염</td><td>비대칭성, 축성 침범 흔함</td><td>DIPJ 침범, 손발톱 병변, dactylitis, 건선 피부병변, RF/ACPA 대개 음성</td></tr><tr><td>결정관절병증(통풍, CPPD)</td><td>급성 발작 또는 만성 다발관절염 가능</td><td>통풍은 제1 MTP 발작이 흔하고 CPPD는 무릎·손목 침범이 흔함; 관절액 결정·배양검사. 정상 요산으로 통풍을 배제하거나 결정 존재로 감염을 배제하지 않음</td></tr><tr><td>반응성/바이러스성 관절염</td><td>선행 감염 후 자연 호전 경향</td><td>선행 위장관·비뇨생식기 감염 또는 파보바이러스 B19·간염 병력, 자가항체 대개 음성</td></tr><tr><td>다발근육통(PMR)</td><td>관절 자체보다 근위부 통증·강직</td><td>50세 이상, 어깨·골반대 통증, ESR/CRP 현저히 상승, 저용량 스테로이드에 극적 반응</td></tr><tr><td>섬유근육통</td><td>중추성 통증 증후군, 활막염 없음</td><td>전신 통증·피로·수면장애, 객관적 활막염 없음; 압통점 개수는 필수 진단요건이 아님, RA와 동반 가능</td></tr></tbody></table>
+<table><thead><tr><th width="140">질환</th><th width="260">RA와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>골관절염(OA)</td><td>염증보다 퇴행성 변화가 주 기전</td><td>DIPJ·CMC 관절 호발, 조조강직은 흔히 30분 미만, 전신 염증 증상은 보통 없음; RF/ACPA 음성이 진단 요건은 아니며 우연한 항체 양성·RA 동반 가능</td></tr><tr><td>전신홍반루푸스(SLE)</td><td>비미란성 관절염, 다장기 침범</td><td>피부발진, 광과민성, 신장·혈액학적 이상, ANA 고역가, anti-dsDNA</td></tr><tr><td>건선성 관절염</td><td>비대칭 또는 대칭성 관절염; DIP·부착부·축성 침범 가능</td><td>DIPJ 침범, 손발톱 병변, dactylitis, 건선 피부병변, RF/ACPA 대개 음성</td></tr><tr><td>결정관절병증(통풍, CPPD)</td><td>급성 발작 또는 만성 다발관절염 가능</td><td>통풍은 제1 MTP 발작이 흔하고 CPPD는 무릎·손목 침범이 흔함; 관절액 결정·배양검사. 정상 요산으로 통풍을 배제하거나 결정 존재로 감염을 배제하지 않음</td></tr><tr><td>반응성/바이러스성 관절염</td><td>감염 전후 발생; 자연 호전 또는 지속·재발 가능</td><td>선행 위장관·비뇨생식기 감염 또는 파보바이러스 B19·간염 병력, 자가항체 대개 음성</td></tr><tr><td>류마티스성 다발근통(PMR)</td><td>관절 자체보다 근위부 통증·강직</td><td>50세 이상, 양측 어깨·골반대 통증/강직, ESR/CRP 상승이 흔함; 통증에 따른 운동 제한과 실제 근력저하 구분. Steroid 반응만으로 확진하지 않으며 GCA 증상 확인</td></tr><tr><td>섬유근육통</td><td>중추성 통증 증후군, 활막염 없음</td><td>전신 통증·피로·수면장애, 객관적 활막염 없음; 압통점 개수는 필수 진단요건이 아님, RA와 동반 가능</td></tr></tbody></table>
 
 #### <mark style="color:orange;">RA vs OA 비교</mark>
 
-<table><thead><tr><th width="90">구분</th><th width="260"><strong>RA</strong></th><th>OA</th></tr></thead><tbody><tr><td>기전</td><td>자가면역 질환에 의한 관절의 염증</td><td>연골·연골하골·활막 등 관절 전체의 변화</td></tr><tr><td>위험 인자</td><td>유전, 환경, 흡연, 비만</td><td>고령, 반복 동작(직업/운동), 과거 손상, 유전</td></tr><tr><td>초발 관절</td><td>MCPJ, PIPJ</td><td>DIPJ, Carpometacarpal</td></tr><tr><td>관절 증상</td><td>반복성, 대칭성; 손·손가락·팔꿈치·무릎·엉덩이 등 전신 관절 이환 가능</td><td>손·무릎·고관절 등, 여러 부위 이환 가능; 활동 시 통증 악화가 흔함</td></tr><tr><td>관절 강직</td><td>휴식 후 악화, 부종 동반, 조조강직 &#x3E;30분</td><td>휴식 후 짧은 강직, 조조강직은 흔히 &#x3C;30분; 통증은 활동 시 악화</td></tr><tr><td>관절 소견</td><td>soft, warm, tender</td><td>hard, bony</td></tr><tr><td>동반 증상</td><td>피로, 발열, 체중 감소, 식욕 감퇴</td><td>전신 증상 없음</td></tr><tr><td>진단</td><td>객관적 활막염·분포·경과와 감별진단; RF/ACPA 음성 또는 정상 ESR/CRP에서도 가능</td><td>임상 양상으로 진단 가능; 비전형적이거나 다른 질환 의심 시 영상 검사</td></tr><tr><td>치료</td><td>질병 조절 면역치료(DMARD) + 대증 치료</td><td>대증 치료, 관절 보호(운동, 체중 관리, NSAID)</td></tr><tr><td>경과</td><td>수 주 내 급격히 악화 가능</td><td>수년에 걸쳐 서서히 악화</td></tr><tr><td>예후</td><td>예측 어려움; 전신 침범 가능</td><td>구조적 변화는 비가역적이나 통증·기능은 치료로 개선 가능</td></tr></tbody></table>
+<table><thead><tr><th width="90">구분</th><th width="260"><strong>RA</strong></th><th>OA</th></tr></thead><tbody><tr><td>기전</td><td>자가면역 질환에 의한 관절의 염증</td><td>연골·연골하골·활막 등 관절 전체의 변화</td></tr><tr><td>위험 인자</td><td>유전, 환경, 흡연, 비만</td><td>고령, 반복 동작(직업/운동), 과거 손상, 유전</td></tr><tr><td>초발 관절</td><td>MCPJ, PIPJ</td><td>DIPJ, Carpometacarpal</td></tr><tr><td>관절 증상</td><td>반복성, 대칭성; 손·손가락·팔꿈치·무릎·엉덩이 등 전신 관절 이환 가능</td><td>손·무릎·고관절 등, 여러 부위 이환 가능; 활동 시 통증 악화가 흔함</td></tr><tr><td>관절 강직</td><td>휴식 후 악화, 부종 동반, 조조강직은 흔히 30분 이상</td><td>휴식 후 짧은 강직, 조조강직은 흔히 &#x3C;30분; 통증은 활동 시 악화</td></tr><tr><td>관절 소견</td><td>soft, warm, tender</td><td>hard, bony</td></tr><tr><td>동반 증상</td><td>피로, 발열, 체중 감소, 식욕 감퇴</td><td>전신 증상 없음</td></tr><tr><td>진단</td><td>객관적 활막염·분포·경과와 감별진단; RF/ACPA 음성 또는 정상 ESR/CRP에서도 가능</td><td>임상 양상으로 진단 가능; 비전형적이거나 다른 질환 의심 시 영상 검사</td></tr><tr><td>치료</td><td>질병 조절 면역치료(DMARD) + 대증 치료</td><td>대증 치료, 관절 보호(운동, 체중 관리, NSAID)</td></tr><tr><td>경과</td><td>수 주 내 급격히 악화 가능</td><td>수년에 걸쳐 서서히 악화</td></tr><tr><td>예후</td><td>예측 어려움; 전신 침범 가능</td><td>구조적 변화는 비가역적이나 통증·기능은 치료로 개선 가능</td></tr></tbody></table>
 
 MCP=metacarpophalangeal, PIP=proximal interphalangeal, DIP=distal interphalangeal\
-✽압통 및 팽창된 관절이 많을수록, 신체 장애가 심할수록 RA 가능성이 높음
+✽압통·종창 관절수와 기능 장애는 활성도·중증도 평가에 중요하나, 그 수치만으로 RA를 진단하지 않음
 
 ***
 
@@ -235,15 +234,15 @@ graph TD
 
 {% hint style="info" %}
 **Treat-to-target 원칙**\
-치료 목표는 모든 환자에서 지속적인 임상적 관해이며, 특히 조기 RA에서 중요함. 이미 1개 이상의 DMARD 치료에 실패한 오래된 병력의 환자에서는 저질병활성도가 대안적 목표가 될 수 있음. 저질병활성도 미만의 상태는 원칙적으로 받아들이지 않음(EULAR 2025 update, Recommendation 2).
+치료 목표는 모든 환자에서 지속적인 임상적 관해이며, 특히 조기 RA에서 중요함. 이미 1개 이상의 DMARD 치료에 실패한 오래된 병력의 환자에서는 저질병활성도가 대안적 목표가 될 수 있음. 저질병활성도를 초과하는 중등도·고활동도 상태가 지속되면 원칙적으로 치료 조정이 필요함. 동반 질환·환자 선호로 증량이 제한되는 경우는 개별화함 <mark style="color:$info;">(EULAR 2025 update, Recommendation 2)</mark>.
 {% endhint %}
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 진단 즉시 DMARD 치료 시작(EULAR 2025 Recommendation 1) - 빠른 진단, 빠른 활성도 파악, 빠른 염증 관리
+* 진단 즉시 DMARD 치료 시작 <mark style="color:$info;">(EULAR 2025 Recommendation 1)</mark> - 빠른 진단, 빠른 활성도 파악, 빠른 염증 관리
 * 활동성 질환에서는 1\~3개월 간격으로 CDAI 등 표준 지표를 이용해 자주 모니터링(☞ 하단 질병활성도 평가); 늦어도 치료 시작 후 3개월 내 개선이 없거나 6개월 내 목표에 도달하지 못하면 치료 조정, 목표 유지 시에는 모니터링 간격을 늘릴 수 있음
 * MTX가 1차 치료 전략의 핵심; MTX 금기 또는 조기 불내약 시 leflunomide 또는 sulfasalazine 고려
-* csDMARD 시작·변경 시 단기 Glucocorticoid 병용을 고려할 수 있으나, 가능한 한 신속히 감량하여 3개월 이내 중단(☞ 하단 Steroid)
+* csDMARD 시작·변경 시 단기 Glucocorticoid 병용을 고려할 수 있으나, 가능한 한 신속히 감량하여 통상 3개월 이내 중단을 목표로 함(☞ 하단 Steroid)
 * csDMARD 전략으로 목표에 도달하지 못하면 bDMARD를 추가; JAK 억제제도 심혈관·혈전·악성종양 위험 인자를 신중히 고려한 후 선택지가 될 수 있음
 * b/tsDMARD는 csDMARD와 병용이 원칙; csDMARD 병용이 어려운 환자에서는 IL-6 경로 억제제·JAK 억제제가 다소 유리할 수 있음
 * 첫 b/tsDMARD 실패 시 다른 기전의 b/tsDMARD 또는 동일 계열의 다른 약제로 교체; TNF 또는 IL-6R 억제제 1회 실패 후에는 다른 기전 제제 또는 동일 계열 2차 제제 모두 선택 가능; 동일 기전 2번째 약제에도 반응이 없으면 다른 기전으로 교체
@@ -255,12 +254,12 @@ graph TD
 
 ### <mark style="color:orange;">질병활성도 평가</mark>
 
-* 활동성 RA는 1\~3개월마다 표준화 지표로 평가; 1차 진료에서는 검사실 수치가 필요 없는 **CDAI**가 가장 실용적
+* 활동성 RA는 1\~3개월마다 표준화 지표로 평가; 1차 진료에서는 검사실 수치가 필요 없는 **CDAI**가 실용적
 * CDAI = SJC28 + TJC28 + 환자 전반 평가(0~10) + 의사 전반 평가(0~10), 범위 0~76; SDAI = CDAI + CRP(㎎/㎗). 검사 결과가 ㎎/L이면 10으로 나누어 환산
 
 <table><thead><tr><th width="140">지표</th><th width="110">관해</th><th width="120">저활동도</th><th width="120">중등도</th><th>고활동도</th></tr></thead><tbody><tr><td>CDAI</td><td>≤2.8</td><td>&#x3E;2.8~10</td><td>&#x3E;10~22</td><td>&#x3E;22</td></tr><tr><td>SDAI</td><td>≤3.3</td><td>&#x3E;3.3~11</td><td>&#x3E;11~26</td><td>&#x3E;26</td></tr><tr><td>DAS28-CRP</td><td>&#x3C;2.6</td><td>2.6~3.2</td><td>&#x3E;3.2~5.1</td><td>&#x3E;5.1</td></tr></tbody></table>
 
-_✽DAS28-CRP는 DAS28-ESR 절단값을 준용한 것으로 실제 값이 낮게 나와 관해를 과대평가할 수 있음_
+_✽DAS28-CRP는 DAS28-ESR 절단값을 준용한 것으로 실제 값이 낮게 나와 관해를 과대평가할 수 있음. EULAR 2025는 DAS28 기반 관해만으로 치료 목표 달성·DMARD 감량을 결정하지 않도록 강조하며, Boolean 2.0 또는 SDAI/CDAI 관해를 우선 활용함_
 
 * 3개월까지 질병활성도 약 50% 이상의 개선을 지향; 개선 정도·절대 활성도·내약성을 함께 평가하여 치료 조정. CDAI 반응 범주와 ACR20/50/70 반응은 다른 지표임
 * 28개 관절 지표에는 발목·발 관절이 포함되지 않으므로 별도 진찰; IL-6 억제제 등으로 CRP가 낮아져도 잔존 활막염이 있는지 확인
@@ -273,7 +272,7 @@ _✽DAS28-CRP는 DAS28-ESR 절단값을 준용한 것으로 실제 값이 낮게
 
 * 다음 모두를 동시에 충족
   1. 압통 관절수 ≤1개
-  2. 팽창 관절수 ≤1개
+  2. 종창 관절수 ≤1개
   3. CRP ≤1 ㎎/㎗
   4. 환자의 전반적 평가(PtGA) 0\~10점 스케일에서 ≤2점
 
@@ -284,7 +283,7 @@ _✽DAS28-CRP는 DAS28-ESR 절단값을 준용한 것으로 실제 값이 낮게
 * SDAI(simplified disease activity index) : 다음 항목 총점 ≤3.3
   1. CRP 수치(㎎/㎗)
   2. 28개 관절\* 중 압통 관절 수
-  3. 28개 관절\* 중 팽창 관절 수
+  3. 28개 관절\* 중 종창 관절 수
   4. 0\~10점 스케일의 환자의 전반적 평가 점수
   5. 0\~10점 스케일의 의사의 전반적 평가 점수
 
@@ -295,7 +294,7 @@ _✽DAS28-CRP는 DAS28-ESR 절단값을 준용한 것으로 실제 값이 낮게
 {% hint style="danger" %}
 **⚠️ JAK 억제제 계열 안전성 경고**\
 ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs TNF 억제제, NEJM 2022)에서 tofacitinib군의 MACE(3.4% vs 2.5%, HR 1.33)와 악성종양(비흑색종 피부암 제외 4.2% vs 2.9%, HR 1.48)이 모두 비열등성 경계를 넘었음. 정맥혈전색전증 위험도 증가.\
-미국 FDA는 tofacitinib·baricitinib·upadacitinib에 중증 감염·사망·악성종양·MACE·혈전증 경고를 적용하고 RA 사용 대상을 TNF 억제제 ≥1개에 불충분 반응 또는 불내약인 환자로 제한함. 이는 미국 규정이며 국내 처방 순서와 동일하지 않음. EULAR 2025는 csDMARD 실패 후 JAK 억제제를 위험 평가에 따라 고려함. 국내 제품 허가사항에도 고령·심혈관 및 악성종양 고위험군에 대한 사용 제한이 있으므로 확인해야 함.\
+미국 FDA는 tofacitinib·baricitinib·upadacitinib에 중증 감염·사망·악성종양·MACE·혈전증 경고를 적용하고 RA 사용 대상을 TNF 억제제 ≥1개에 불충분 반응 또는 불내약인 환자로 제한함. 이는 미국 규정이며 국내 처방 순서와 동일하지 않음. EULAR 2025는 csDMARD 실패 후 JAK 억제제를 위험 평가에 따라 고려함. 국내 젤잔즈 허가사항은 **65세 이상·심혈관계 고위험군·악성종양 위험군에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 사용**하도록 제한함. 다른 JAK 억제제도 제품별 제한을 적용함.\
 
 ✽65세 이상, 현재 또는 과거 흡연, 심혈관 위험, VTE·악성종양 병력 등을 확인하고 고위험군에서는 적합한 대체 치료를 우선 검토; 서로 다른 JAK 억제제의 위험 크기가 같거나 특정 약제가 안전하다고 단정하지 않음
 {% endhint %}
@@ -314,7 +313,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
   * 면역억제 치료 중에는 폐렴구균·재조합 대상포진 백신을 권고하고 인플루엔자 등 연령·위험에 맞는 접종 시행. 국내 접종 일정·허가 연령 적용. COVID-19 접종·약물 보류는 별도 최신 권고에 따름(ACR 2022 일반 백신 지침의 직접 대상이 아님)
   * JAK 억제제는 대상포진 위험을 증가시키므로, 가능하면 치료 시작 전 재조합 대상포진 백신(RZV; 생백신 아님) 접종 여부를 확인
   * ACR 2022: 질병활성도가 허락하면 인플루엔자 접종 후 MTX 2주 보류; 다른 비생백신 접종 시는 통상 유지. Rituximab 사용 중 인플루엔자는 시기를 놓치지 않고 접종하고 가능하면 다음 투여를 ≥2주 연기; 다른 비생백신은 가능하면 마지막 rituximab 후 ≥6개월·다음 투여 직전에 접종하고 이후 투여를 ≥2주 연기
-* 음식, 허브, 기타 대체 요법 : 효과가 명확히 입증된 방법은 없음
+* 음식·허브·기타 대체 요법으로 DMARD를 대체할 근거는 없음
   * ACR 2022 통합 치료 지침은 지중해식 식단을 조건부 권고; DMARD를 대체하지 않으며 영양·심혈관 관리의 보조 수단으로 활용
   * 관련 동반 질환 관리를 위해 gluten-free diet, 채식 등을 개별적으로 권고하는 경우가 있으나 RA 자체에 대한 근거는 부족
 
@@ -323,7 +322,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 관절 운동 범위 유지를 위한 스트레칭, 근육 강화, 유산소 운동
 * 이환 관절뿐 아니라 관련된 모든 근육 운동을 함께 시행
 * 관절 손상·활성도에 맞게 부하를 조절하며 통증·부종을 악화시키는 동작은 피함; 경추 불안정성이 의심되면 과도한 목 회전·신전 및 경추 교정을 피함
-* 활성기에는 심한 활동·운동을 피함
+* 활성기에는 통증·부종이 심한 관절의 부하를 줄이되 장기간 완전 휴식은 피하고, 허용 범위의 관절가동·근력 운동을 유지함
 * 조조강직 : 스트레칭, 따뜻한 샤워, 워밍업 운동, (취침 전) 유연성 운동
 * 손/손목 운동 : 설거지 또는 샤워 직후 시행 권장(손이 따뜻하고 유연해져 있음)
 * 유산소 운동 : 걷기·수영·사이클 등으로 시작하여 상태에 따라 강도·시간을 점진적으로 늘림; 모든 RA 환자에게 저강도 운동만 제한하지 않음
@@ -355,9 +354,9 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 
 * 1차 선택제
 * 경구 1차 선택; 효과 발현은 수 주 소요하며, 신기능·간질환·상호작용에 따라 중대한 독성 발생 가능
-* 용법 : 7.5~10 ㎎ **주 1회(qwk)** PO로 시작하여 반응·내약성에 따라 신속히 증량 <mark style="color:blue;">[유한메토트렉세이트정 2.5㎎]</mark>
+* 용법 : 통상 7.5~15 ㎎ **주 1회(qwk)** PO로 시작하여 반응·내약성에 따라 신속히 증량 <mark style="color:blue;">[유한메토트렉세이트정 2.5㎎]</mark>
   * **국내 이 경구 제품의 RA 허가 용량은 7.5~20 ㎎/wk, 주 최대 20 ㎎임.** 국제 지침의 4~8주 내 20~25 ㎎/wk 목표에서 경구 25 ㎎/wk는 이 제품의 허가 범위를 초과함. SC 제형으로 전환할 때도 해당 제품의 허가 상한을 확인
-  * ✽아시아 환자, 고령·저체중·신기능 저하 환자는 더 낮은 용량에서도 반응하거나 내약성이 제한될 수 있어 개별 조절
+  * ✽APLAR 2024 개정(2026년 출판)도 시작 용량 7.5~15 ㎎/wk를 제시함. 고령·저체중·신기능 저하·부작용 위험에 따라 낮게 시작하고 개별 증량 <mark style="color:$info;">(APLAR 2024 update)</mark>
   * 경구제로 시작하되 불내약·불충분 반응 시 주 1회 용량의 24시간 내 분할 또는 SC 전환 고려. 경구와 SC가 항상 동등하거나 비열등하다고 단정하지 않음; 비교 RCT에서는 SC의 반응률이 더 높았음
   * 지속적 관해 후의 감량은 MTX 고유의 고정 감량 스케줄이 아니라 전체 DMARD tapering 전략에 따라 개별화
   * ✽**매일 복용이 아닌 주 1회 복용**임을 반드시 강조·확인(과다 복용 시 심각한 골수 억제·간독성 위험) - 처방전·복약 라벨에 요일 명시 권장
@@ -367,14 +366,14 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 약물 상호작용·독성 주의
   * **TMP/SMX 또는 trimethoprim**은 folate 길항 및 골수억제 위험 때문에 가능하면 병용을 피함
   * 고용량 salicylate, 신배설을 저해하거나 신기능을 악화시키는 약물은 MTX 농도·독성을 높일 수 있어 주의
-  * 일반적인 저용량 MTX와 NSAID는 RA에서 병용할 수 있으나, 고령·신기능 저하·탈수 등에서는 신기능 및 MTX 독성을 면밀히 관찰
-* 금기/피해야 하는 상황 : 임신, 중증 간질환·골수억제, 중증 신기능 저하 등; CrCl <30 mL/min에서는 통상 피하고 30~59 mL/min에서는 감량 필요성을 제품 허가사항과 함께 판단
+  * RA의 저용량 주 1회 MTX와 NSAID 병용은 전문의 관리 아래 선택될 수 있으나, 모든 NSAID에서 허용되는 것으로 일반화하지 않고 선택 제품의 허가·DUR 병용금기를 우선 확인함. 항암 고용량 MTX와의 병용은 회피하며, 고령·신기능 저하·탈수에서는 MTX 신배설 감소·골수억제·신독성 위험을 평가하고 CBC·간·신기능을 추적함; 일반약 NSAID 임의 추가를 피함
+* 금기/피해야 하는 상황 : 임신, 중증 간질환·골수억제, 중증 신기능 저하 등; CrCl ＜30 mL/min에서는 통상 피하고 30~59 mL/min에서는 감량 필요성을 제품 허가사항과 함께 판단
 * 주의 및 개별 위험평가 : 과도한 음주, 비만·당뇨·MASLD 등 간독성 위험 인자, 활동성 감염, 기존 폐질환 등
   * 여성은 임신 전 MTX 중단이 필요함. 남성이 임신을 계획하는 경우 ACR은 MTX 지속을 조건부 권고하므로 일률적 중단은 필요하지 않으나, 제품 허가사항·지침 간 차이를 고려하여 개별 상담
 * 모니터링
-  * 투여 전 호흡기 증상·기저 폐질환 위험을 문진·진찰로 평가; 폐질환이 의심되거나 RA-ILD 고위험군(☞ 상단 RA-ILD 선별 hint)에서는 폐기능검사 및 적절한 흉부 영상(X선/HRCT)을 시행(모든 환자에서 일률적 흉부 X선을 요구하지는 않음, BSR 2025); B형간염 등 기저 감염 선별
-  * CBC·혈소판, AST/ALT·albumin, Cr/eGFR을 시작 전 및 시작 약 2주 후 확인; 이후 첫 3~6개월 매달, 안정 유지기 통상 3개월마다. 증량 약 2주 후 추가 검사, 고령·신기능 저하·병용 위험이면 더 자주 시행(BSR 2025)
-  * 간효소의 의미 있는 상승(예: 정상 상한의 >2배 또는 빠른 증가)은 재검만 기다리지 말고 MTX 보류·원인 평가 및 전문의 상담; 경미한 이상도 추세·병용약·증상을 고려하여 재검·감량 판단
+  * 투여 전 호흡기 증상·기저 폐질환 위험을 문진·진찰로 평가; 폐질환이 의심되거나 RA-ILD 고위험군(☞ 상단 RA-ILD 선별 hint)에서는 폐기능검사 및 적절한 흉부 영상(X선/HRCT)을 시행; 모든 환자에서 일률적 흉부 X선을 요구하지는 않음 <mark style="color:$info;">(BSR 2025)</mark>; B형간염 등 기저 감염 선별
+  * CBC·혈소판, AST/ALT·albumin, Cr/eGFR을 시작 전 및 시작 약 2주 후 확인; 이후 첫 3~6개월 매달, 안정 유지기 통상 3개월마다(저위험군에서는 개별 조정 가능). 증량 약 2주 후 추가 검사, 고령·신기능 저하·병용 위험이면 더 자주 시행 <mark style="color:$info;">(BSR 2025)</mark>
+  * 간효소의 의미 있는 상승(예: 정상 상한의 ＞2배 또는 빠른 증가)은 재검만 기다리지 말고 MTX 보류·원인 평가 및 전문의 상담; 경미한 이상도 추세·병용약·증상을 고려하여 재검·감량 판단
 
 #### <mark style="color:orange;">Leflunomide(LEF)</mark>
 
@@ -382,8 +381,8 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 부작용 : 발진, 설사, 구역, 탈모(가역적), 간 손상, 복통, 체중 감소, 고혈압
 * 용법 : 통상 20 ㎎ qd, 내약성이 좋지 않으면 10 ㎎ qd <mark style="color:blue;">[아라바]</mark>; 부하용량을 생략하여 시작할 수 있음
   * ✽과거에는 loading dose(100 ㎎ qd ×3d)를 시행했으나, 위장관·간 부작용 위험 증가로 최근에는 생략하고 유지용량으로 바로 시작하는 경우가 흔함
-* 반감기가 길어(약 2주) 중단 후에도 활성대사물이 오래 남음. 임신 계획·임신 노출·중대한 독성 시 중단 후 cholestyramine 8 g tid ×11일 신속 제거 요법을 전문의 감독하에 시행; 혈중 활성대사물 <0.02 ㎎/L를 ≥14일 간격으로 2회 확인하고, 기준 미달이면 제거 요법 반복 검토
-* 모니터링 : 시작 전 CBC·LFT·신기능·혈압, 이후 첫 6개월 적어도 매달 CBC/LFT, 유지기 6~8주 간격 등을 제품 허가사항·위험도에 따라 적용; ALT >3배 상승 시 중단하고 약제 관련성이 의심되면 신속 제거 검토
+* 반감기가 길어(약 2주) 중단 후에도 활성대사물이 오래 남음. 임신 계획·임신 노출·중대한 독성 시 중단 후 cholestyramine 8 g tid ×11일 신속 제거 요법을 전문의 감독하에 시행; 혈중 활성대사물 ＜0.02 ㎎/L를 ≥14일 간격으로 2회 확인하고, 기준 미달이면 제거 요법 반복 검토
+* 모니터링 : 시작 전 CBC·LFT·신기능·혈압, 이후 첫 6개월 적어도 매달 CBC/LFT, 유지기 6~8주 간격 등을 제품 허가사항·위험도에 따라 적용; ALT ＞3배 상승 시 중단하고 약제 관련성이 의심되면 신속 제거 검토
 * 임신·수유, 중증 간질환·중증 감염·심한 혈구감소 등 금기 확인; 신기능 저하 및 MTX 병용에서는 간·혈액 독성에 특히 주의
 
 #### <mark style="color:orange;">Sulfasalazine(SSZ)</mark>
@@ -404,7 +403,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 부작용 : DMARD 중 가장 적은 편; **망막병증**, 피부염, 근육 약화, hypoactive DTR, QT 연장(드묾)
 * 용법 : **실제 체중(actual body weight) 기준 ≤5 ㎎/㎏/d**을 초과하지 않도록 용량 설정, 통상 200\~400 ㎎/d #1\~2, 식사 또는 우유와 함께 복용 <mark style="color:blue;">\[할록신]</mark>
   * ✽AAO 2025 개정 권고도 실제체중 기준 ≤5 ㎎/㎏/d를 유지; 심한 비만에서는 체중 계산만으로 고용량을 정하지 말고 통상 400 ㎎/d 이하에서 개별 조절
-* 모니터링(AAO 2025 개정 권고) : 투여 직후 baseline 검사(안저, OCT, wide-field 자동형광 FAF)를 시행하여 기저 이상 여부 확인 및 추후 비교 기준 마련; 이후 **매년 OCT + wide-field FAF를 1차 선별검사**로 시행하되, 위험 인자가 없으면 첫 5년간은 연례 선별을 유예 가능; 시야검사·mfERG는 2차 확인 검사로 위치 변경; 신기능 저하, tamoxifen 병용, 고용량, 고령에서 치료 시작 등이 위험 인자로 조기·집중 선별 필요; 한국인을 포함한 동아시아 환자는 주변중심부(pericentral) 독성도 평가하도록 검사 범위를 확보. 순수 HCQ 단독 사용에서 CBC·U/A를 다른 csDMARD와 같은 간격으로 일률적 반복할 필요는 없으며 임상 상황에 따라 시행
+* 모니터링 <mark style="color:$info;">(AAO 2025 개정 권고)</mark> : 투여 직후 baseline 검사(안저, OCT, wide-field 자동형광 FAF)를 시행하여 기저 이상 여부 확인 및 추후 비교 기준 마련; 이후 **매년 OCT + wide-field FAF를 1차 선별검사**로 시행하되, 위험 인자가 없으면 첫 5년간은 연례 선별을 유예 가능; 시야검사·mfERG는 2차 확인 검사로 위치 변경; 신기능 저하, tamoxifen 병용, 고용량, 고령에서 치료 시작 등이 위험 인자로 조기·집중 선별 필요; 한국인을 포함한 동아시아 환자는 주변중심부(pericentral) 독성도 평가하도록 검사 범위를 확보. 순수 HCQ 단독 사용에서 CBC·U/A를 다른 csDMARD와 같은 간격으로 일률적 반복할 필요는 없으며 임상 상황에 따라 시행
 
 ### <mark style="color:orange;">targeted synthetic DMARD(tsDMARD) : Janus kinase(JAK) 억제제</mark>
 
@@ -412,11 +411,11 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 * 시작 전 CBC·혈소판, LFT·신기능·지질, 잠복결핵 및 HBV 등 평가; 치료 중 CBC/LFT·지질·신기능을 약제별 허가 일정에 따라 추적
 * 대상포진 위험 증가 → 재조합 대상포진 백신 접종 여부 확인; 특정 JAK 억제제가 더 안전하다고 일반화하지 않음
 * IL-6R 억제제와 마찬가지로 게실염·장천공 위험 증가 → 게실염 병력 환자에서 주의
-* tofacitinib 5 ㎎ bid <mark style="color:blue;">\[젤잔즈]</mark>
-* baricitinib : 통상 4 ㎎ qd; 고령·위험 인자·신기능 등에 따라 2 ㎎ qd <mark style="color:blue;">[올루미언트]</mark>; eGFR <30 mL/min/1.73㎡에서는 사용하지 않으며 감량은 제품 허가사항 적용
+* tofacitinib : 통상 5 ㎎ bid <mark style="color:blue;">[젤잔즈]</mark>; 중등도·중증 신장애 또는 중등도 간장애, 강력한 CYP3A4 억제제 또는 중등도 CYP3A4 + 강력한 CYP2C19 억제제(예: fluconazole) 병용 시 **5 ㎎ qd로 감량**. 중증 간장애에서는 금기이며 RA에 10 ㎎ bid를 사용하지 않음
+* baricitinib : 통상 4 ㎎ qd; 고령·위험 인자·신기능 등에 따라 2 ㎎ qd <mark style="color:blue;">[올루미언트]</mark>; eGFR ＜30 mL/min/1.73㎡에서는 사용하지 않으며 감량은 제품 허가사항 적용
 * upadacitinib 15 ㎎ qd <mark style="color:blue;">\[린버크]</mark>
 * filgotinib : 통상 200 ㎎ qd, 고령·신기능·위험 인자에 따라 100 ㎎ qd <mark style="color:blue;">[지셀레카]</mark>; 국내에 RA와 궤양성대장염 적응증이 있음
-* 신·간기능 저하, CYP 관련 상호작용 및 임신·수유 금기를 약제별 확인; bDMARD·다른 JAK 억제제와 병용하지 않음
+* 신·간기능 저하, CYP 관련 상호작용 및 임신·수유 금기를 약제별 확인; bDMARD·다른 JAK 억제제와 병용하지 않으며 azathioprine·cyclosporine 등 강력한 면역억제제 병용도 피함
 
 ### <mark style="color:orange;">b/tsDMARD 시작 전 감염 평가</mark>
 
@@ -451,7 +450,7 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 
 #### <mark style="color:orange;">T-cell costimulatory 억제제</mark>
 
-* abatacept : IV는 체중 <60 ㎏ 500 ㎎, 60~100 ㎏ 750 ㎎, >100 ㎏ 1,000 ㎎를 0·2·4주 및 이후 4주마다; SC는 125 ㎎ 매주 <mark style="color:blue;">[오렌시아 주]</mark>
+* abatacept : IV는 체중 ＜60 ㎏ 500 ㎎, 60~100 ㎏ 750 ㎎, ＞100 ㎏ 1,000 ㎎를 0·2·4주 및 이후 4주마다; SC는 125 ㎎ 매주 <mark style="color:blue;">[오렌시아 주]</mark>
 
 #### <mark style="color:orange;">anti-B cell(CD20)</mark>
 
@@ -472,12 +471,12 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 
 #### <mark style="color:orange;">전신 투여</mark>
 
-* csDMARD 시작 시 가교요법을 선택하면 최소 유효 용량으로 시작(예: prednisolone 5~7.5 ㎎/d)하고 빠르게 감량하여 **3개월 이내 중단** <mark style="color:blue;">[소론도]</mark>; 시작 시 중단 계획을 정함. 경구 투여가 어려우면 전문의가 주사제 대안을 검토하되 제형·국내 허가 용법을 확인(EULAR 2025)
-  * ✽GC는 DMARD 효과가 나타날 때까지 증상·염증을 조절하는 가교요법이며, 장기 RA 조절을 위한 DMARD 대체제가 아님
+* csDMARD 시작 시 가교요법을 선택하면 최소 유효 용량으로 시작(예: prednisolone 5~7.5 ㎎/d)하고 빠르게 감량하여 **통상 3개월 이내 중단을 목표로 함** <mark style="color:blue;">[소론도]</mark>; 시작 시 중단 계획을 정함. 경구 투여가 어려우면 전문의가 주사제 대안을 검토하되 제형·국내 허가 용법을 확인 <mark style="color:$info;">(EULAR 2025)</mark>
+  * ✽GC는 DMARD 효과가 나타날 때까지 증상·염증을 조절하는 가교요법이며, 장기 RA 조절을 위한 DMARD 대체제가 아님. 3개월은 감량·중단을 지향하는 실무 목표이며, 장기간 사용한 환자에게 일률적으로 갑자기 끊으라는 의미가 아님. GC 없이 목표를 유지하지 못하면 DMARD 전략을 재평가함
   * ✽감량 중 flare 시 감염·순응도·잔존 활막염을 확인하고 csDMARD 최적화 또는 b/tsDMARD 추가·변경 검토; 일시적 flare마다 곧바로 생물학적 제제를 추가하는 것은 아님
   * ✽ACR 2021은 단기 GC 병용 없이 csDMARD를 시작하도록 조건부 권고(매우 낮은 근거 수준)하여 EULAR와 입장이 다름
 * flare 조절을 위한 중등용량(15\~30 ㎎/d) 단기 투여는 류마티스내과 판단하에 제한적으로 시행
-* prednisone 환산 ≥2.5 ㎎/d를 >3개월 사용할 예정이면 조기에 골절 위험·BMD·척추골절 평가 및 칼슘·비타민D 섭취 최적화; 위험도에 따라 골다공증 약물 치료(☞ 골다공증)
+* prednisone 환산 ≥2.5 ㎎/d를 3개월 초과 사용할 예정이면 조기에 골절 위험·BMD·척추골절 평가 및 칼슘·비타민D 섭취 최적화; 위험도에 따라 골다공증 약물 치료(☞ 골다공증)
 
 #### <mark style="color:orange;">관절 내 주사</mark>
 
@@ -495,15 +494,20 @@ ORAL Surveillance(50세 이상 + 심혈관 위험 인자 ≥1개; tofacitinib vs
 
 * 위궤양·심혈관 위험 등 부작용을 고려하여 선택
 * 최소 유효 용량을 최단기간 사용; 충분한 NSAID 반응이 없어도 고용량을 지속하기보다 RA 염증 조절과 다른 통증 원인을 재평가
-* 투여 2주 후 반응 없으면 다른 종류로 교체
+* 단기간 사용 후 효과가 부족하면 활막염 지속·감염·비염증성 통증 등 원인을 재평가하고, 필요 시 NSAID 변경을 고려; 서로 다른 NSAID를 동시에 병용하지 않음
 * naproxen : 500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>
-* ibuprofen : 600\~800 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>
+* ibuprofen : 국내 RA 허가 기본 용법은 1회 200~600 ㎎, 1일 3~4회 <mark style="color:blue;">\[부루펜]</mark>; 저용량부터 효과·위험을 평가함. 허가상 1일 최고 3,200 ㎎을 목표량으로 사용하지 않으며, 800 ㎎/회를 일률적인 국내 기본 용법으로 제시하지 않음. 2,400 ㎎/d 이상의 고용량은 심혈관 위험에 특히 유의함
 * celecoxib : RA 국내 용법 100~200 ㎎ bid <mark style="color:blue;">[쎄레브렉스]</mark>; 필요 최소량을 선택
+  * 국내 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임. 위험인자만 있는 경우와 확립된 질환을 구분하며 임부·수유부·활동성 궤양/출혈·중증 신장애 등 국내 금기를 우선 적용함
+* 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
+* NSAID 시작 전 혈압·신기능·병용약을 확인하고 고위험 환자는 시작·증량 후 조기에 Cr/eGFR·K를 재확인함. 전신 steroid·항응고/항혈소판제 병용에서는 출혈 위험을 평가하고 가능한 회피·대안을 우선하며, 불가피하면 PPI 등 위장 보호를 검토함
 
 #### <mark style="color:orange;">기타 진통제</mark>
 
 * acetaminophen : 일반정은 500~1,000 ㎎를 필요시 4~6시간 간격(1회 최대 1,000 ㎎), **국내 타이레놀 650㎎ 서방정 허가 용법은 1,300 ㎎(2정)을 8시간 간격** <mark style="color:blue;">[타이레놀 / 타이레놀 이알]</mark>; 일반정 성인 허가 최대 4 g/d, 650㎎ 서방정 최대 3,900 ㎎/d. 서방정은 부수거나 씹지 않음. 만성 사용·고령·간독성 위험이면 더 낮은 일일 상한(예: 3 g/d 이하)을 설정하고 복합제 총량 포함
+  * 타이레놀정·타이레놀8시간이알서방정은 국내 허가상 소화성궤양, 심한 간·신장·심장기능 장애, aspirin 천식/병력, 바르비탈계 약물·TCA 복용 등에서 금기임. NSAID가 부적절하다는 이유만으로 자동 선택하지 않고 acetaminophen 자체의 금기를 먼저 확인함
 * tramadol : RA에서 일상적·장기 사용은 피하고 선택된 잔존 중증 통증에 단기간 고려; 50~100 ㎎/회, 신·간기능·연령에 따라 간격·상한 조정 <mark style="color:blue;">[트리돌]</mark>. 낙상·의존·경련·항우울제 병용 시 serotonin syndrome 위험 확인
+  * 경도–중등도 간·신기능 저하에서는 용량·투여간격을 개별 조정하되, 중증 신장애·간장애는 트리돌캡슐의 국내 허가상 금기이므로 감량 투여와 구분함
 * capsaicin 크림 : 잔존 국소 통증의 보조 옵션이나 RA 특이 근거는 제한적; 제품 농도·허가 용법 확인. 활성 활막염 치료를 대체하지 않음
 
 ***
@@ -546,6 +550,8 @@ M06.9 상세불명의 류마티스관절염
 > ```
 >
 > _✽성인 초기 처방 예(15 ㎎/wk); 7.5~10 ㎎/wk로 더 낮게 시작한 뒤 증량할 수도 있음. 이 경구 제품의 국내 RA 허가 상한은 20 ㎎/wk이며 국제 지침의 25 ㎎/wk와 구분. 기저 CBC·LFT·신기능 확인 및 시작·증량 후 추적. 쎄레브렉스 200 ㎎/d는 국내 RA 용법 100 ㎎ bid로 표기; 장기 자동 유지 없이 필요 기간만 병용_
+>
+> _✽국내 쎄레브렉스는 확립된 허혈성 심장질환·말초동맥질환·뇌혈관질환 및 NYHA II–IV 울혈성 심부전에서 투여 금기임. MTX 병용 시 제품별 허가·DUR 및 독성 감시 계획을 확인하며 일반약 NSAID를 임의로 추가하지 않음_
 
 > **처방례 2. MTX 불내약, SSZ 금기가 없는 경우**
 >
@@ -564,7 +570,7 @@ M06.9 상세불명의 류마티스관절염
 > 소론도 5 ㎎/T  1T  qd 아침
 > ```
 >
-> _✽DMARD 효과 발현 전 선택적 가교 치료; 시작할 때부터 감량 계획을 정하고 호전 시 신속히 감량하여 3개월 이내 중단. 모든 환자에게 GC 병용이 필수는 아님_
+> _✽DMARD 효과 발현 전 선택적 가교 치료; 시작할 때부터 감량 계획을 정하고 호전 시 신속히 감량하여 통상 3개월 이내 중단을 목표로 함. 모든 환자에게 GC 병용이 필수는 아님_
 
 > **처방례 4. csDMARD 전략 실패 → bDMARD 추가 (전문의 의뢰 후)**
 >
@@ -595,7 +601,7 @@ M06.9 상세불명의 류마티스관절염
 
 > **생물학적 제제/JAK 억제제 사용 시**
 >
-> * 자가주사제는 투여 전 실온에 미리 꺼내두고, 매번 주사 부위를 바꿔가며 투여
+> * 자가주사제는 제품별 안내 시간에 맞춰 실온에 두고, 매번 주사 부위를 바꾸어 투여; 전자레인지·뜨거운 물로 가열하지 않음
 > * 발열, 오한, 상처가 잘 낫지 않음 등 감염 징후가 있으면 즉시 병원 방문 및 다음 투여 보류
 > * 수술 예정 시 약제별 중단·재개 계획을 담당의와 미리 정함; 생물학적 제제와 JAK 억제제의 중단 기간은 다름(☞ 시술 및 기타 처치)
 > * JAK 억제제 복용 환자는 새로운 흉통, 호흡곤란, 하지 부종·통증(혈전 의심 소견) 발생 시 즉시 내원
@@ -621,12 +627,12 @@ M06.9 상세불명의 류마티스관절염
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
-**류마티스 관절염, 조기에 적극적으로 치료할수록 관절을 지킬 수 있습니다**
+**류마티스관절염, 조기에 적극적으로 치료할수록 관절을 지킬 수 있습니다**
 
-류마티스 관절염은 우리 몸의 면역 체계가 자신의 관절을 잘못 공격해서 생기는 만성 염증성 질환입니다. 방치하면 관절이 서서히 파괴되어 변형과 장애가 남을 수 있지만, 진단 초기에 약물 치료를 시작하면 관절 손상을 줄이고 일상생활을 유지하는 데 도움이 됩니다.
+류마티스관절염은 우리 몸의 면역 체계가 자신의 관절을 잘못 공격해서 생기는 만성 염증성 질환입니다. 방치하면 관절이 서서히 파괴되어 변형과 장애가 남을 수 있지만, 진단 초기에 약물 치료를 시작하면 관절 손상을 줄이고 일상생활을 유지하는 데 도움이 됩니다.
 {% endhint %}
 
-### <mark style="color:orange;">왜 류마티스 관절염이 생기나요?</mark>
+### <mark style="color:orange;">왜 류마티스관절염이 생기나요?</mark>
 
 * 정확한 원인은 아직 밝혀지지 않았지만, 유전적 소인이 있는 사람에게 흡연 등 환경 요인이 함께 작용하여 면역 체계가 관절을 공격하게 되는 것으로 추정됩니다
 * 여성에서 남성보다 2\~3배 흔하고 50\~70대에 가장 많이 생기지만, 어느 연령에서나 발생할 수 있습니다
@@ -637,7 +643,7 @@ M06.9 상세불명의 류마티스관절염
 * **꾸준히, 하지만 무리하지 않게 운동하십시오.** 걷기, 수영처럼 관절에 부담이 적은 운동이 좋으며, 관절이 많이 부어 있는 시기에는 심한 운동을 피하십시오
 * **아침에 관절이 뻣뻣하면 따뜻한 샤워나 스트레칭으로 풀어주십시오.**
 * **적정 체중을 유지하십시오.** 체중이 많이 나가면 관절 부담과 약물 반응 모두에 나쁜 영향을 줍니다
-* 혈압, 콜레스테롤, 혈당도 함께 관리하십시오. 류마티스 관절염 자체가 심장 혈관 질환의 위험을 높입니다
+* 혈압, 콜레스테롤, 혈당도 함께 관리하십시오. 류마티스관절염 자체가 심장 혈관 질환의 위험을 높입니다
 
 ### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
 
@@ -658,12 +664,12 @@ M06.9 상세불명의 류마티스관절염
 
 ***
 
-### 주요 참고문헌
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
 
-* 검토 기준일: 2026-10-03; 국제 지침과 국내 제품별 허가사항을 구분하여 반영함
+### <mark style="color:orange;">임상 근거</mark>
 
-* Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026. [doi:10.1016/j.ard.2026.01.023](https://doi.org/10.1016/j.ard.2026.01.023).
-* Smolen JS, et al. Rheumatoid Arthritis in Adults: A Review. JAMA. 2026 Sep 10. [doi:10.1001/jama.2026.15455](https://doi.org/10.1001/jama.2026.15455).
+* Smolen JS, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026;85(6):991-1009. [doi:10.1016/j.ard.2026.01.023](https://doi.org/10.1016/j.ard.2026.01.023).
+* Smolen JS, et al. Rheumatoid Arthritis in Adults: A Review. JAMA. 2026;336(14):1257-1271. [doi:10.1001/jama.2026.15455](https://doi.org/10.1001/jama.2026.15455).
 * Aletaha D, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. [doi:10.1002/art.27584](https://doi.org/10.1002/art.27584).
 * van der Heijde D, et al. EULAR definition of erosive disease in light of the 2010 ACR/EULAR rheumatoid arthritis classification criteria. Ann Rheum Dis. 2013;72:479-481. [원문](https://www.lacohorteespoir.fr/pages/articles/ESPOIR%2039.pdf).
 * Studenic P, et al. American College of Rheumatology/EULAR remission criteria for rheumatoid arthritis: 2022 revision. [doi:10.1136/ard-2022-223413](https://doi.org/10.1136/ard-2022-223413).
@@ -677,10 +683,17 @@ M06.9 상세불명의 류마티스관절염
 * Goodman SM, et al. 2022 ACR/AAHKS Guideline for the Perioperative Management of Antirheumatic Medication in Patients With Rheumatic Diseases Undergoing Elective Total Hip or Total Knee Arthroplasty. [doi:10.1002/acr.24893](https://doi.org/10.1002/acr.24893).
 * Marmor MF, et al. Special AAO Report: Recommendations on Screening for Hydroxychloroquine Retinopathy (2025 Revision). Ophthalmology. 2026;133:439-450. [학회 권고](https://aao.org/education/clinical-statement/revised-recommendations-on-screening-chloroquine-h).
 * Braun J, et al. Comparison of the clinical efficacy and safety of subcutaneous versus oral administration of methotrexate in patients with active rheumatoid arthritis. Arthritis Rheum. 2008;58:73-81. [doi:10.1002/art.23144](https://doi.org/10.1002/art.23144).
-* 국내 제품별 용법·주의사항: [유한메토트렉세이트정](https://www.yuhan.co.kr/Mobile/Products/List/?Category=308&YPRD_IDX=2482&cid=176&mode=view&p=1&sf=YPRD_SORT&sm=-1), [램시마주](https://www.celltrionph.com/ko-kr/product/introducedetail?modify_key=228), [조피린장용정 설명서](https://www.hanlim.com/_ce/data/product/201208/1795430658.pdf), [아라바정](https://www.whanin.com/_product/view.php?item=496), [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug).
 
 * van Steenbergen HW, et al. EULAR/ACR risk stratification criteria for development of rheumatoid arthritis in the risk stage of arthralgia. [doi:10.1002/art.43218](https://doi.org/10.1002/art.43218); [2026 정정문](https://doi.org/10.1002/art.70270).
 * NICE NG100. Rheumatoid arthritis in adults: management. [조기 의뢰·진단 권고](https://www.nice.org.uk/guidance/ng100/chapter/Recommendations).
 * England BR, et al. 2022 ACR Guideline for Exercise, Rehabilitation, Diet, and Additional Integrative Interventions for Rheumatoid Arthritis. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC10947582/).
 * Humphrey MB, et al. 2022 ACR Guideline for the Prevention and Treatment of Glucocorticoid-Induced Osteoporosis. [doi:10.1002/acr.25240](https://doi.org/10.1002/acr.25240).
-* 추가 국내 허가자료: [쎄레브렉스 100·200㎎](https://www.viatris.co.kr/-/media/project/common/viatriscokr/pdf/product-chart/celebrex100mg-200mg_20250602.pdf), [오렌시아 정맥주사](https://www.bms.com/assets/bms/korea/documents/pi_pdfs/orencia_iv-pi.pdf), [타이레놀8시간이알서방정](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200407), [심퍼니주](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500861).
+
+* Yamaoka K, et al. [2024 Update of the Asia-Pacific League of Associations for Rheumatology (APLAR) Recommendations for Rheumatoid Arthritis Management](https://pmc.ncbi.nlm.nih.gov/articles/PMC13309519/). 2026년 출판 — 아시아·태평양 지역의 MTX 시작·증량 및 치료 전략.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 국내 항류마티스 약제의 적응증·용법·금기·안전성 제한 확인. 유한메토트렉세이트정, 조피린장용정, 아라바정, 젤잔즈정 및 오렌시아주 등의 국내 제품 설명서를 함께 대조함.
+* 건강보험심사평가원. [건강보험심사평가원](https://www.hira.or.kr/) — 국내 b/tsDMARD의 선행 치료·질병활성도 및 반응 평가 등 급여 요건 확인 자료.
+
+* NHS Specialist Pharmacy Service. [Managing interactions with methotrexate.](https://www.sps.nhs.uk/articles/managing-interactions-with-methotrexate/) — 저용량 MTX와 NSAID 병용의 신배설·독성·감시 원칙; 국내 제품별 금기 및 DUR을 대체하지 않음.

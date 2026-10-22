@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* **만성 광범위 통증**과 피로, 수면 장애, 인지 증상 등이 함께 나타날 수 있는 만성 통증 질환으로, 현재는 대표적인 **nociplastic pain(통각가소성 통증)** 질환으로 이해됨 (IASP terminology)
+* **만성 광범위 통증**과 피로, 수면 장애, 인지 증상 등이 함께 나타날 수 있는 만성 통증 질환으로, 현재는 대표적인 **nociplastic pain(통각가소성 통증)** 질환으로 이해됨 <mark style="color:$info;">(IASP terminology)</mark>
 * 다른 이름 : 섬유근통(fibromyalgia syndrome, FMS)
 * 활동 후 통증·피로가 일시적으로 악화될 수 있으며, 통증의 강도·부위는 변동할 수 있음. 활동을 피하기보다 환자의 내약성에 맞춰 활동량을 조절함
 * 유병률 : 일반 인구에서 약 2\~4%로 보고되며, 적용한 진단기준과 연구집단에 따라 차이가 있음
@@ -53,28 +53,32 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 갑작스러운 편측 근력 저하·언어장애, 급성 의식 변화 → 뇌졸중 등 응급질환 평가
-* 빠르게 진행하는 근력 저하, 새로 발생한 요폐/대소변 조절 장애 또는 회음부 감각 저하 → 척수압박·마미증후군 등 응급 평가
-* 급성으로 심하게 아프고 붓는 관절, 발적·열감 또는 운동 제한(발열 유무와 무관) → 감염성 관절염 배제를 위한 즉각 평가; 결정성 관절염도 감별
-* 구체적인 자살 계획·의도, 최근 자해/자살 시도 또는 안전 확보가 어려운 상태 → 혼자 두지 않고 즉각 응급 평가/119 연계
-* 50세 이상에서 새 두통·두피 압통·턱 파행, 특히 시력 저하/복시가 동반됨 → 거대세포동맥염 의심, 즉각 평가
-* 심한 근력 저하에 연하곤란·호흡곤란이 동반되거나, 심한 근육통과 짙은 소변/소변량 감소가 나타남 → 중증 근질환·횡문근융해증 응급 평가
+* 갑작스러운 편측 근력저하·언어장애 또는 급성 의식 변화  `뇌졸중 등 응급질환`
+* 빠르게 진행하는 근력저하, 새 요폐·대소변 조절 장애 또는 회음부 감각저하  `척수압박·말총증후군`
+* 급성으로 심하게 아프고 붓는 관절, 발적·열감 또는 운동 제한(발열 유무와 무관)  `화농성 관절염·결정관절염`
+* 구체적인 자살 계획·의도, 최근 자해/자살 시도 또는 안전 확보가 어려운 상태  `즉각적 자해·자살 위험`
+* ≥50세에서 GCA가 의심되는 새 시력저하·복시·일과성 흑암시; 두통·턱 파행이 모두 동반되지 않아도 해당  `GCA·시력소실 위험`
+* 심한 근력저하 + 연하곤란·호흡곤란, 또는 심한 근육통 + 짙은 소변·소변량 감소  `중증 근질환·횡문근융해증`
+* 약물 복용 후 깨우기 어려운 졸음·반응 저하·느린 호흡, 또는 고열·초조·발한·간대성 근경련/근육 강직  `호흡억제·세로토닌증후군`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 원인 불명의 뚜렷한 체중 감소, 지속 발열 또는 야간 발한 → 악성종양·감염·전신 염증성 질환 평가; 활력징후 불안정 등 전신 상태가 나쁘면 즉각 조치
-* 지속적인 관절 종창 또는 현저한 조조강직 → 염증성 관절염 평가. ESR/CRP 정상만으로 배제하지 않음
-* 50세 이상에서 새로 발생한 양측 어깨/골반대 통증·현저한 조조강직 → 류마티스성 다발근통(PMR) 평가; ESR/CRP 확인
-* 객관적 근력 저하·국소 감각 소실·반사 이상 → CK 등 선택 검사 및 신경과/류마티스내과 평가. CK 정상만으로 근질환을 배제하지 않음
-* 자살사고가 있으나 즉각 위험은 낮다고 판단되는 경우 → 당일 자살위험 평가·안전계획 수립 및 정신건강의학과 연계
+* 원인 불명의 뚜렷한 체중 감소, 지속 발열 또는 야간 발한  `악성종양·감염·전신 염증성 질환`
+* 지속적인 관절 종창 또는 현저한 조조강직; 정상 ESR/CRP도 해당  `염증성 관절염`
+* ≥50세에서 새 양측 어깨/골반대 통증·현저한 조조강직  `류마티스성 다발근통`
+* ≥50세에서 새 두통·두피 압통·턱 파행 등 GCA 의심 소견, 시각증상 없음 **(당일)**  `GCA`
+* 객관적 근력저하·국소 감각 소실·반사 이상  `근질환·신경병증`
+* 자살사고가 있으나 즉각 위험은 낮다고 판단되는 상태 **(당일)**  `자살위험 평가 필요`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 치료 시작·변경 후 2~4주에 내약성·수면·기능을 확인하고, 적절한 치료를 8~12주 시행했음에도 반응이 불충분하면 진단·동반질환·치료 순응도를 재평가함
-* 중등도 이상의 우울·불안이 지속되어 기능을 저해하거나, 심한 기능 장애로 일상·직장 생활이 곤란함 → 정신건강의학과·재활의학과·통증클리닉 협진 고려
-* 인지 증상이 지속되면 수면장애·우울·약물 영향을 먼저 평가하고, 진행성 인지 저하·객관적 이상이 있으면 신경과/신경심리 평가 고려
+* 치료 시작·변경 후 2~4주 내약성 평가 또는 적절한 치료를 8~12주 시행해도 반응 불충분  `치료 반응·진단·동반질환 재평가`
+* 지속되는 중등도 이상 우울·불안 또는 일상·직장 생활을 제한하는 심한 기능 장애  `정신건강·재활·통증 진료 협력`
+* 지속적 인지 증상 또는 수면장애·우울·약물 영향 가능성  `인지 증상·가역적 요인 평가`
+
+*활력징후 불안정, 급격한 신경학적 악화·시각증상 등 상위 단계 소견이 생기면 즉각 조치로 격상함. GCA가 강하게 의심되면 확진 검사를 기다리며 glucocorticoid 치료를 지연하지 않고 당일 전문 평가를 병행함. 자해·자살 위험이 임박하면 혼자 두지 않고 119/응급실로 연결하며, 자살사고는 당일 위험 평가·안전계획·정신건강의학과 연계를 시행함. CK 정상만으로 근질환을 배제하지 않음. 진행성 인지 저하·객관적 이상은 신경과/신경심리 평가를 고려함.*
 
 ***
 
@@ -91,6 +95,7 @@
 * Vit D, Vit B12, folate, Mg 등은 결핍을 의심할 병력·진찰 소견이나 위험요인이 있을 때 선택적으로 시행
 * ANA, RF, anti-CCP 등 자가항체 검사는 류마티스 질환이 임상적으로 의심되는 경우에만 시행
 * Statin 등 근육 증상을 유발할 수 있는 약물을 확인하고, 코골이·무호흡·주간 졸림, 하지불안 증상 등 치료 가능한 수면장애를 평가함
+* 야간 하지 증상은 **실제 통증성 근육 수축이 있으면 NLC**, 안정 시 다리를 움직이고 싶은 충동과 움직이는 동안의 호전이 핵심이면 RLS를 감별함. FM과 동반될 수 있으며, gabapentinoid의 FM·신경병증성 통증 치료를 특발성 NLC 예방 처방으로 확장하지 않음 (☞ [야간 하지 경련](148_-nocturnal-leg-cramp.md))
 * 영상 검사는 구조적·염증성 질환 등 다른 원인의 배제가 필요한 경우 시행
 
 ### <mark style="color:orange;">질병 영향 평가 : Fibromyalgia Impact Questionnaire(FIQ)</mark>
@@ -144,7 +149,7 @@ FIQ는 2009년 **FIQR(Revised Fibromyalgia Impact Questionnaire)**로 개정되�
 ### <mark style="color:orange;">1차진료 선별 : Fibromyalgia Rapid Screening Tool(FiRST)</mark>
 
 * 광범위 만성 통증 환자에서 섬유근육통 가능성을 빠르게 선별하기 위해 개발된 **6문항 yes/no 자가설문**
-* 원 개발 연구에서 **5점 이상(6문항 중 ≥5개 양성)**을 cut-off로 사용했으며, 민감도 90.5%, 특이도 85.7%를 보였음 [Perrot 등, 2010]
+* 원 개발 연구에서 **5점 이상(6문항 중 ≥5개 양성)**을 cut-off로 사용했으며, 민감도 90.5%, 특이도 85.7%를 보였음 <mark style="color:$info;">[Perrot 등, 2010]</mark>
 * **FiRST는 진단 기준이 아니라 선별도구**이므로 양성이라고 섬유근육통으로 확진하지 않으며, 병력·진찰 및 ACR 2016 WPI/SSS/generalized pain 기준으로 확인
 * RA, 척추관절염, 골관절염 등 다른 만성 광범위 통증 질환에서도 양성이 가능하므로 red flag 및 객관적 염증·신경학적 이상 여부를 함께 평가
 
@@ -189,8 +194,8 @@ FIQ는 2009년 **FIQR(Revised Fibromyalgia Impact Questionnaire)**로 개정되�
 
 ```mermaid
 flowchart TD
-    A["3개월 이상 광범위 통증 / 피로 / 수면장애"] ---> B{"응급 소견?"}
-    B --->|"예"| C["즉각 평가 / 응급 의뢰"]
+    A["3개월 이상 광범위 통증 / 피로 / 수면장애"] ---> B{"즉각 또는 당일~수일 내 평가 항목?"}
+    B --->|"예"| C["Red Flags의 응급도에 따라 평가·의뢰"]
     B --->|"아니오"| D["병력 / 진찰 / 선택 검사로 감별 및 동반질환 평가"]
     D ---> E{"WPI / SSS / 광범위 통증 4/5 영역 / 3개월 충족?"}
     E --->|"아니오"| F["다른 원인 재평가 / 추적"]
@@ -214,15 +219,15 @@ flowchart TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-* 안심시킴, 병에 대하여 이해시킴 : 퇴행성 질환이 아니며 생명을 위협하지 않음. 치료가 어렵고 빠른 치료법은 없지만 증상을 완화시키고 삶의 질을 향상시킬 수 있음
+* 질환의 특성과 변동하는 경과를 설명하고 통증 경험을 인정함. 꾸준한 관리로 통증·수면·기능을 개선할 수 있음을 안내하며, 동반 우울·불안·수면장애 및 자살위험을 별도로 평가함
 * **기본 치료** : 질환 교육 + 규칙적 운동 + 수면·생활습관 관리
 * 통증·수면장애·우울/불안·기능장애 등 주된 증상에 따라 인지행동치료(CBT), 약물, 재활치료를 개별적으로 추가함. 초기부터 증상·기능 저하가 심하면 기본 치료와 함께 병행 가능
-* 치료 목표는 통증·수면·일상 기능의 개선으로 합의함. 약물은 한 가지씩 평가하고, 효과가 없거나 부작용이 이득을 넘으면 감량·변경함
-* EULAR 2017 권고 : 비약물 치료(환자 교육, 유산소 운동)를 먼저 시행하고, 반응이 불충분할 때 개별화된 추가 치료(약물·심리·재활)를 단계적으로 병행 \[EULAR 2017]
+* 치료 목표는 통증·수면·일상 기능의 개선으로 합의함. 약물은 한 가지씩 평가하고, 효과가 없거나 부작용이 이득을 넘으면 감량·변경함. 8~12주는 통합 치료 반응의 재평가 시점이며, 개별 약제의 무효·독성이 분명하면 이 기간 또는 급여상 13주까지 기다리며 지속하지 않음
+* EULAR 2017 권고 : 비약물 치료(환자 교육, 유산소 운동)를 먼저 시행하고, 반응이 불충분할 때 개별화된 추가 치료(약물·심리·재활)를 단계적으로 병행 <mark style="color:$info;">[EULAR 2017]</mark>
 
 ***
 
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
+## <mark style="color:green;">비약물 치료 및 예방</mark>
 
 * 운동, 수면 환경 개선, 적정 체중 유지
 * 인지행동치료(CBT) : 통증 대처·기능 개선 및 동반 우울·불안에 활용
@@ -234,7 +239,7 @@ flowchart TD
 * 유산소 운동과 근육 강화 운동을 기본으로 하며, 환자의 선호·관절 부담·체력에 따라 **수중 운동(aquatic exercise)**을 대안으로 고려
 * **Tai chi** 등 mind-body exercise도 선택 가능한 비약물치료로 고려할 수 있으며, 지속 가능성과 환자 선호를 중시
 * 낮은 강도·짧은 시간(예: 걷기 5~10분)으로 시작하여 통증·피로·회복 시간을 보며 서서히 늘림. 주 2~3회 등 가능한 빈도로 시작하고 시간을 나눠 시행할 수 있으며, 30~60분/회를 모든 환자의 목표로 강제하지 않음
-* 활동 후 다음 날 이후까지 심한 피로·인지 증상 등이 지연되어 오래 지속되는 **PEM**이 있으면 ME/CFS 동반 여부를 평가함. 동반 ME/CFS에서는 증상과 무관한 고정 증량 운동을 피하고, 에너지 한계 안에서 활동을 조절함 [NICE NG206]
+* 활동 후 다음 날 이후까지 심한 피로·인지 증상 등이 지연되어 오래 지속되는 **PEM**이 있으면 ME/CFS 동반 여부를 평가함. 동반 ME/CFS에서는 증상과 무관한 고정 증량 운동을 피하고, 에너지 한계 안에서 활동을 조절함 <mark style="color:$info;">[NICE NG206]</mark>
 
 ### <mark style="color:orange;">대체 요법</mark>
 
@@ -251,9 +256,11 @@ flowchart TD
 
 (☞ [통증](../220_/001_-pain.md#undefined-8))
 
-* acetaminophen : 섬유근육통 자체의 nociplastic pain에 대한 효과는 제한적이며, 다른 nociceptive pain이 동반된 경우 보조적으로 고려 <mark style="color:blue;">\[타이레놀]</mark>
+* acetaminophen : 섬유근육통 자체의 nociplastic pain에 대한 효과는 제한적이며, 다른 nociceptive pain이 동반된 경우 보조적으로 고려 <mark style="color:blue;">[타이레놀]</mark>
+  * **국내 타이레놀정 허가사항은 TCA 복용 환자에게 투여 금기임.** Amitriptyline·nortriptyline 치료 중 acetaminophen 단일제·함유 복합제를 일률적으로 추가하지 않음; 국내 허가상 제한과 국외 임상 관행을 구분함 <mark style="color:$info;">(식약처 국내 허가사항)</mark>
 * tramadol <mark style="color:blue;">\[트리돌]</mark> : 통상적인 1차 치료로 사용하지 않음. 다른 치료에도 심한 통증이 지속되는 선별된 환자에서 이득·위험을 평가하여 제한적으로 고려; 의존·금단 및 장기 사용 위험에 유의
   * 부작용 : 구역, 어지럼, 졸음, 변비 등. SNRI/SSRI/TCA 등 serotonergic 약물과 병용 시 serotonin syndrome 및 경련 위험에 주의
+  * 경도–중등도 간·신기능 저하에서는 용량·투여간격을 개별 조정하되, 중증 신장애·간장애는 트리돌캡슐의 국내 허가상 금기이므로 감량 투여와 구분함
   * EULAR 2017 : 약한 찬성 권고(weak for). 해당 권고가 단기간 구조요법의 기간·용량을 정한 것은 아니며, 본 챕터에서는 장기 정규 처방보다 제한적 사용과 조기 재평가를 권함
 * NSAID : 섬유근육통 자체에는 효과가 제한적이며, 골관절염 등 다른 nociceptive/inflammatory pain이 동반된 경우에만 고려
   * 동반질환에 필요한 경우 ibuprofen <mark style="color:blue;">\[부루펜]</mark>, naproxen <mark style="color:blue;">\[낙센]</mark> 등을 최소 유효 용량·최단 기간 사용하며, 신장·위장관·심혈관 위험을 평가함(용법은 통증 챕터 참조)
@@ -264,19 +271,23 @@ flowchart TD
 (☞ [항우울제](../231_/213_-antidepressants-and-anxiolytics.md))
 
 * 약제별로 효과가 다름. SNRI는 주로 통증 및 동반 기분 증상에, 저용량 amitriptyline은 통증·수면 증상에 고려하며, 모든 항우울제가 피로·수면을 개선하는 것은 아님
-* TCA + SSRI/SNRI 병용은 일부 환자에서 고려될 수 있으나 **routine 섬유근육통 치료 전략은 아니며**, serotonin syndrome, QT 연장, 항콜린 부작용 및 CYP2D6 억제에 따른 TCA 혈중농도 상승 가능성에 주의
+* **TCA + SSRI/SNRI는 일률적으로 병용하지 않음.** 병용이 필요하면 대체·전환 가능성을 먼저 검토하고 전문의와 협의; serotonin syndrome, QT 연장, 항콜린 부작용 및 CYP2D6 억제에 따른 TCA 혈중농도 상승 가능성을 평가함
 * 용량 : 저용량으로 시작 → 효과와 부작용을 감안하여 점차 증량; 중단 시 tapering
 
 {% hint style="info" %}
-**섬유근육통 관련 급여 기준 (HIRA) - 약제별 구분**\
-* **TCA(amitriptyline·nortriptyline 등)** : 섬유근육통 치료는 허가 외 사용이나, 2010 ACR 기준 + FIQ ≥40점 + pain VAS ≥40 ㎜의 확진 조건을 충족하면 허가사항 초과 급여 인정. duloxetine·pregabalin의 1개월 선행치료 조건과 구분함 [고시 제2018-18호]\
-* **duloxetine** : 섬유근육통으로 확진되고 TCA 또는 허가사항상 근골격계 질환의 동통에 사용할 수 있는 근이완제를 적어도 1개월 사용한 후에도 효과가 불충분한 경우 급여 인정. **pregabalin과의 병용투여는 인정하지 않음**\
-* **pregabalin** : 위와 같은 선행 치료 후 효과가 불충분한 경우 급여 인정. **duloxetine과의 병용투여는 인정하지 않음**\
-* **duloxetine·pregabalin** : 급여기준상 섬유근육통 확진은 **2010 ACR 진단기준에 부합하고 FIQ ≥40점, pain VAS ≥40 ㎜**인 경우이며, 투여개시 **13주 후 Pain VAS와 FIQ의 호전이 없으면 투여중단을 고려**\
-* **milnacipran** : 국내 허가사항에 **섬유근육통 치료** 적응증이 있으며, 현재 확인 가능한 HIRA 공개 세부기준상 **허가사항 범위 내 투여 시 요양급여를 원칙**으로 함. duloxetine/pregabalin에 적용되는 위의 TCA·근이완제 선행치료, FIQ/VAS 및 13주 반응평가 조건은 별도로 명시되어 있지 않음\
-* **gabapentin** : HIRA gabapentin 경구제 급여기준에는 섬유근육통이 급여 인정 상병으로 열거되어 있지 않음. FM 치료는 **허가 외 사용이며 근거가 제한적**임. 허가 외 처방의 급여·약값 부담 처리와 관련 절차를 확인\
-✽ 임상 진단은 ACR 2016 기준을 사용할 수 있으나, **보험 급여 판정에는 HIRA가 명시한 별도 기준**이 적용됨\
-✽ 급여기준은 변경될 수 있으므로 처방 시점의 최신 HIRA 고시를 반드시 확인
+**섬유근육통 관련 급여 기준 (HIRA) - 약제별 구분**
+
+* **TCA(amitriptyline·nortriptyline 등)** : 섬유근육통 치료는 허가 외 사용이나, 2010 ACR 기준 + FIQ ≥40점 + pain VAS ≥40 ㎜의 확진 조건을 충족하면 허가사항 초과 급여 인정. duloxetine·pregabalin의 1개월 선행치료 조건과 구분함 <mark style="color:$info;">[고시 제2018-18호]</mark>
+* **duloxetine** : 섬유근육통으로 확진되고 TCA 또는 허가사항상 근골격계 질환의 동통에 사용할 수 있는 근이완제를 적어도 1개월 사용한 후에도 효과가 불충분한 경우 급여 인정. **pregabalin과의 병용투여는 인정하지 않음**
+
+* **pregabalin** : 위와 같은 선행 치료 후 효과가 불충분한 경우 급여 인정. **duloxetine과의 병용투여는 인정하지 않음**
+
+* **duloxetine·pregabalin** : 급여기준상 섬유근육통 확진은 **2010 ACR 진단기준에 부합하고 FIQ ≥40점, pain VAS ≥40 ㎜**인 경우이며, 투여개시 **13주 후 Pain VAS와 FIQ의 호전이 없으면 투여중단을 고려**
+
+* **milnacipran** : 국내 허가사항에 **섬유근육통 치료** 적응증이 있으며, 현재 확인 가능한 HIRA 공개 세부기준상 **허가사항 범위 내 투여 시 요양급여를 원칙**으로 함. duloxetine/pregabalin에 적용되는 위의 TCA·근이완제 선행치료, FIQ/VAS 및 13주 반응평가 조건은 별도로 명시되어 있지 않음
+* **gabapentin** : HIRA gabapentin 경구제 급여기준에는 섬유근육통이 급여 인정 상병으로 열거되어 있지 않음. FM 치료는 **허가 외 사용이며 근거가 제한적**임. 허가 외 처방의 급여·약값 부담 처리와 관련 절차를 확인
+
+✽ 임상 진단은 ACR 2016 기준을 사용할 수 있으나, **보험 급여 판정에는 HIRA가 명시한 별도 기준**이 적용됨
 {% endhint %}
 
 #### <mark style="color:$primary;">SNRI</mark>
@@ -284,14 +295,14 @@ flowchart TD
 * 부작용 : 구역, 어지럼
 * duloxetine : 30 ㎎ qd ×1주 → 60 ㎎ qd <mark style="color:blue;">\[드록틴]</mark>
   * FM에서 60 ㎎/d 초과는 추가 이득의 근거가 없고 이상반응이 증가하므로 권하지 않음
-  * 간질환, CrCl ＜30 ㎖/분 또는 투석 환자에서는 사용하지 않음. 과음, 조절되지 않는 고혈압 및 상호작용 약물도 확인함
+  * **간질환, CrCl ＜30 ㎖/분 또는 투석 환자, 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장은 국내 허가상 금기**임. MAO 억제제 병용도 금기이며, 약제 전환 시 허가된 휴약 간격을 적용함; 과음·상호작용·저나트륨혈증 위험을 확인하고 혈압·맥박 및 기립성 증상을 평가함
 * milnacipran : 1일째 12.5 ㎎, 2\~3일째 12.5 ㎎ bid, 4\~7일째 25 ㎎ bid, 8일째부터 50 ㎎ bid(1일 100 ㎎, **권장 유지 용량**); 반응·내약성에 따라 100 ㎎ bid(1일 200 ㎎)까지 증량 가능 <mark style="color:blue;">\[익셀]</mark>
   * 국내 허가문서에는 3개월 초과 위약대조시험에서 유효성이 관찰되지 않았다는 문구가 있음. 이를 모든 환자에서 3개월 후 효과가 사라진다는 뜻으로 해석하지 않으며, duloxetine도 같은 취지의 문구가 있어 장기 유지 여부를 반응·내약성으로 재평가함
   * 혈압·맥박, 배뇨곤란 및 신기능을 확인함. 국내 허가상 CrCl 30~＜60 ㎖/분은 25 ㎎ bid, 10~＜30 ㎖/분은 25 ㎎ qd로 감량; 더 심한 신장애는 허가사항을 확인하여 전문 평가함
 
 #### <mark style="color:$primary;">SSRI</mark>
 
-* **SSRI는 섬유근육통의 통증 자체를 위한 routine 치료로 권고하지 않으며(EULAR 2017), 동반 우울·불안장애의 적응증이 있을 때 고려**
+* **SSRI는 섬유근육통의 통증 자체를 위한 routine 치료로 권고하지 않으며 <mark style="color:$info;">(EULAR 2017)</mark>, 동반 우울·불안장애의 적응증이 있을 때 고려**
 * 부작용 : 구역, 설사, 성욕 감소, 두통, 불면증/졸림, serotonin syndrome, CYP450 효소 억제
 * 예 : fluoxetine <mark style="color:blue;">\[푸록틴]</mark>, paroxetine CR <mark style="color:blue;">\[팍실 CR]</mark>, sertraline <mark style="color:blue;">\[졸로푸트]</mark>
 * 용량·증량·최대량은 동반 우울/불안장애의 진단과 약제별 허가사항에 따름(항우울제 챕터 참조). FM 진통 목적의 공통 용량 범위를 제시하지 않음
@@ -314,12 +325,12 @@ flowchart TD
   * 신기능 저하 시 CrCl에 따라 용량을 줄임. 고령자·허약 환자는 더 낮게 시작하여 천천히 증량함. 중단 시 최소 1주 이상 점진적으로 감량하며 장기 복용자는 더 느린 감량이 필요할 수 있음
   * 신경병증성 통증의 최대 600 ㎎/d를 FM에 적용하지 않음. 서방형(CR)은 적응증·용법이 다르므로 일반형과 그대로 대체하지 않음
 * gabapentin <mark style="color:blue;">\[뉴론틴]</mark> : **FM 허가 외 사용**. 단일 소규모 시험의 1,200~2,400 ㎎/d 분할 용량이 있으나 근거가 부족하며, EULAR 2017은 연구 목적 사용으로 평가함. pregabalin과 동등한 표준 선택지로 제시하지 않음; 사용 시 신기능별 감량 필요
-* 두 약제 모두 opioid·benzodiazepine·다른 진정제 병용, 고령·호흡기 질환에서 과진정·호흡억제 위험에 주의함 [FDA 2019]
+* 두 약제 모두 opioid·benzodiazepine·다른 진정제 병용, 고령·호흡기 질환에서 과진정·호흡억제 위험에 주의함 <mark style="color:$info;">[FDA 2019]</mark>
 
 ### <mark style="color:orange;">수면제</mark>
 
 * 최소 유효 용량 사용
-* 급성 불면증 : 최대 2\~4주 사용
+* 급성 불면증에 수면제를 선택하면 통상 2\~4주 이내 단기 사용을 원칙으로 하되, 구체적 기간·중단 방법은 약제별 허가와 효과·위험에 따라 결정함
 * 만성 불면장애 : CBT-I를 우선 고려하며, 수면무호흡·하지불안증후군·우울 등 동반 원인을 치료함. 수면제 지속 여부는 약제별 허가기간, 효과·위험에 따라 재평가함
 * zolpidem : 섬유근육통 자체의 치료제로 routine 권고하지 않음. 별도의 불면장애가 진단되고 비약물치료만으로 불충분한 경우에 한해 최소 유효 용량·단기간 사용을 고려 <mark style="color:blue;">\[스틸녹스]</mark>
 
@@ -352,7 +363,8 @@ flowchart TD
 
 * **acetyl-L-carnitine, S-adenosyl-L-methionine(SAMe)** : 일부 소규모 연구에서 효과 신호가 보고되었으나 근거가 제한적이며 routine 치료로 권고하기 어려움
 * **Mg + malic acid** : 초기 소규모 연구가 있었으나 후속 체계적 문헌고찰에서 일관된 임상적 효과가 확인되지 않아 routine 사용을 권고하지 않음
-* **Low-dose naltrexone(LDN)** : 초기 소규모 시험에서는 통증 감소 신호가 있었으나, 2024년 6 ㎎/d·12주 무작위시험에서는 위약보다 통증 감소가 우월하지 않았음. 결과가 일관되지 않아 표준치료로 권고할 근거가 부족함. **국내 섬유근육통 적응증 미허가·off-label**로 routine 처방하지 않음
+* **Low-dose naltrexone(LDN)** : 초기 소규모 시험에서는 통증 감소 신호가 있었으나, 2024년 6 ㎎/d·12주 무작위시험에서는 위약보다 통증 감소가 우월하지 않았음. **2026년 INNOVA 시험**(여성 98명 무작위배정, 4.5 ㎎/d 추가요법, 12개월 추적)에서도 주 평가변수인 3개월 통증 감소의 유의한 우월성이 없었고 6·12개월 추적에서도 일관된 임상적 이득을 입증하지 못함. 따라서 **국내 FM 적응증 미허가·허가 외 사용**이며 routine 처방하지 않음 <mark style="color:$info;">(Due Bruun 등 2024; Rodríguez-Freire 등 2026)</mark>
+  * tramadol·codeine 등 opioid와 병용하지 않음. Naltrexone의 opioid 진통 차단·급성 금단 유발 위험은 저용량에서도 배제할 수 없으며, 연구 단계라는 이유로 다른 진통제에 임의로 추가하지 않음
 * **Cannabinoid** : 소규모 연구가 있으나 효과와 안전성에 대한 근거가 불충분하고 표준 치료로 확립되지 않음. routine 치료로 권고하지 않음
 
 ***
@@ -374,17 +386,18 @@ flowchart TD
 > ```
 > 에트라빌(amitriptyline) 10 ㎎/T  1T  취침 시
 > ※ 섬유근육통 허가 외 사용; TCA 급여 확진 조건 확인
+> ※ acetaminophen(타이레놀 및 함유 복합제) 병용 금기: 국내 허가사항
 > ※ 2\~4주 간격으로 효과·부작용을 보며 저용량 범위에서 증량 고려
 > ```
 >
-> _✽ 비약물치료(교육·운동·수면관리)를 병행하면서 저용량 TCA로 시작하여 통증과 수면을 동시에 개선. 최소 4주 이상 치료 후 효과와 내약성을 평가_
+> _✽ 비약물치료(교육·운동·수면관리)를 병행하면서 저용량 TCA로 시작하여 통증과 수면을 동시에 개선. 통상 4주 정도 후 효과와 내약성을 평가하되, 심한 부작용이 생기면 기다리지 않고 재평가_
 
 > **처방례 2. 중등도\~중증 - 우울 동반**
 >
 > ```
 > 드록틴(duloxetine) 30 ㎎/C  1C  아침
 > ※ 내약성을 확인하여 1주 후 60 ㎎ qd로 증량
-> ※ 간질환, CrCl ＜30 ㎖/분에서는 사용하지 않음
+> ※ 간질환, CrCl ＜30 ㎖/분·투석, 조절되지 않는 고혈압·조절되지 않는 협우각 녹내장 등 금기 확인
 > ```
 >
 > _✽ 우울·불안이 동반되거나 통증 phenotype상 SNRI가 적합할 때 고려. 급여 적용 여부는 duloxetine 최신 HIRA 고시를 확인하고, pregabalin과의 병용 급여 제한에 유의_
@@ -421,7 +434,8 @@ flowchart TD
 
 > **부작용 모니터링**
 >
-> * TCA : 입마름, 변비, 체중 증가, 기립성 저혈압 - 고령자는 더 낮은 용량에서 시작
+> * TCA : 입마름, 변비, 체중 증가, 기립성 저혈압 - 고령자는 가급적 대안을 우선 검토하고 선택 시 더 낮은 용량에서 시작
+> * TCA 복용 중 타이레놀 등 acetaminophen 함유 진통제·감기약을 임의로 추가하지 않음(국내 허가상 금기)
 > * pregabalin/gabapentin : 졸음, 어지럼, 하지 부종, 체중 증가 - 운전·기계 조작 시 주의 고지
 > * duloxetine/milnacipran : 초기 구역, 혈압·맥박 상승 가능 - 치료 전후 확인
 > * 심한 졸음·반응 저하·느린 호흡, 고열·초조·근육 떨림/강직은 응급 평가 필요(호흡억제·세로토닌증후군 가능)
@@ -431,14 +445,14 @@ flowchart TD
 > * 치료 시작·변경 후 2~4주에 재진하여 내약성을 확인하고, 8~12주 적절한 치료에도 호전이 없으면 재평가함. duloxetine·pregabalin 급여의 13주 평가는 별도로 시행함
 > * 새로운 관절 부종, 발열, 급격한 체중 감소가 동반되는 경우 - 즉시 내원
 > * 약물 복용 후 심한 어지럼, 실신, 심한 부종이 발생하는 경우 - 즉시 내원
-> * 자살사고가 생기면 당일 도움을 요청함. 구체적 계획·의도 또는 자해 위험이 있으면 혼자 있지 않고 119/응급실로 연결; 자살예방상담전화 109도 안내함
+> * 자살사고가 생기면 당일 도움을 요청함. 구체적 계획·의도 또는 자해 위험이 있으면 혼자 있지 않고 119/응급실로 연결; 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)도 안내함
 
 ***
 
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
-**섬유근육통, 관절이나 근육이 상한 병이 아닙니다**
+**섬유근육통, 통증을 느끼고 조절하는 신경계가 예민해진 상태입니다**
 
 섬유근육통은 몸의 통증을 느끼고 조절하는 신경계 자체가 예민해져서 생기는 만성 통증 질환입니다. 섬유근육통 자체가 관절을 변형시키거나 조직을 파괴하는 병은 아닙니다. 통증은 실제로 느끼는 증상이며, 염증성 관절염이나 다른 질환이 함께 생길 수 있으므로 새로운 증상은 확인해야 합니다.
 {% endhint %}
@@ -461,19 +475,22 @@ flowchart TD
 * 처방된 약은 통증을 완전히 없애기보다 **참을 수 있는 수준으로 줄이고 기능을 회복**시키는 것이 목표입니다
 * 효과는 서서히 나타날 수 있으므로 처방대로 복용하고, 보통 2~4주에 효과와 부작용을 확인하십시오. 심한 부작용이 생기면 예정된 재진까지 기다리지 말고 연락하십시오
 * 졸음, 어지럼이 있는 초기에는 운전이나 위험한 작업을 피하십시오
+* 에트라빌·센시발 같은 삼환계 항우울제를 복용한다면 타이레놀 성분이 든 진통제·감기약을 임의로 함께 먹지 마십시오. 국내 허가사항에서 함께 복용하지 않도록 정하고 있습니다
 * 임신을 계획 중이거나 임신·수유 중이라면 약을 임의로 중단하지 말고, 복용 중인 약의 지속·변경 여부를 의료진과 상의하십시오
 
 ### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 갑자기 관절이 붓고 심하게 아프거나 뜨거울 때(열이 없어도 확인이 필요합니다)
 * 갑자기 살이 많이 빠지거나 열이 계속될 때
+* 50세 이후 새 두통·씹을 때 턱 통증이 생기면 시력 변화가 없어도 당일 진료를 받으십시오. 갑자기 시력이 떨어지거나 둘로 보이거나 눈앞이 캄캄해지면 즉시 진료를 받으십시오
 * 갑자기 한쪽 팔다리에 힘이 빠지거나 말이 어눌해질 때, 약 복용 뒤 깨우기 어렵거나 호흡이 느려질 때는 119 또는 응급실로 연락하십시오
-* 죽고 싶다는 생각이 들면 당일 의료진이나 **자살예방상담전화 109**에 도움을 요청하십시오. 구체적인 계획이 있거나 자신을 해칠 위험이 있으면 혼자 있지 말고 119 또는 응급실로 바로 연락하십시오
-
+* 죽고 싶다는 생각이 들면 당일 의료진이나 **자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**에 도움을 요청하십시오. 구체적인 계획이 있거나 자신을 해칠 위험이 있으면 혼자 있지 말고 119 또는 응급실로 바로 연락하십시오
 
 ***
 
-### 주요 근거 및 허가·급여 자료
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * Wolfe F, et al. **2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria.** Semin Arthritis Rheum. 2016;46:319–329. [원문](https://doi.org/10.1016/j.semarthrit.2016.08.012)
 * Macfarlane GJ, et al. **EULAR revised recommendations for the management of fibromyalgia.** Ann Rheum Dis. 2017;76:318–328. [원문](https://doi.org/10.1136/annrheumdis-2016-209724)
@@ -484,14 +501,15 @@ flowchart TD
 * Bennett RM, et al. **The Revised Fibromyalgia Impact Questionnaire (FIQR): validation and psychometric properties.** Arthritis Res Ther. 2009;11:R120. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC2745803/)
 * NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. FM에 ME/CFS가 동반된 경우의 활동 조절 근거임. [권고](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)
 * Due Bruun K, et al. **Naltrexone 6 mg once daily versus placebo in women with fibromyalgia: a randomised, double-blind, placebo-controlled trial.** Lancet Rheumatol. 2024;6:e31–e39. [원문](https://doi.org/10.1016/S2665-9913(23)00278-3)
+* Rodríguez-Freire C, et al. **Efficacy of Low-Dose Naltrexone in Women With Fibromyalgia Syndrome: A 12-Month Randomised, Double-Blind, Placebo-Controlled Single-Centre Clinical Trial (INNOVA Study).** Eur J Pain. 2026;30(6):e70321. [원문](https://doi.org/10.1002/ejp.70321)
+* Mackie SL, et al. **British Society for Rheumatology guideline on diagnosis and treatment of giant cell arteritis.** Rheumatology (Oxford). 2020;59(3):e1-e23. [원문](https://doi.org/10.1093/rheumatology/kez672)
+* FDA. **Gabapentin·pregabalin의 심각한 호흡곤란 위험 안전성 공지**, 2019-12-19. [안전성 공지](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 드록틴·익셀·리리카 일반형·타이레놀정 등의 국내 적응증·용법·금기 확인.
 * HIRA. **Duloxetine 경구제**, 고시 제2016-263호(2017-01-01 시행). [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20170101&mtgMtrRegSno=0003&sno=1)
 * HIRA. **Gabapentin 경구제**, 고시 제2019-191호(2019-09-01 시행). [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901&mtgMtrRegSno=0006&sno=6)
 * HIRA. **Pregabalin 일반형 경구제**, 고시 제2019-191호(2019-09-01 시행). [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20190901&mtgMtrRegSno=0013&sno=6)
 * HIRA. **Amitriptyline·Nortriptyline·Milnacipran 등**, 고시 제2018-18호(2018-02-01 시행). [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20180201&mtgMtrRegSno=0006&sno=1)
-* 식품의약품안전처. **드록틴캡슐30밀리그램 허가사항**. [의약품안전나라](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402409)
-* 식품의약품안전처 허가정보. **익셀캡슐50㎎**(약학정보원 제공). [허가 용법·주의사항](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ACCCCC0075)
-* 비아트리스코리아. **리리카 일반형 캡슐 국내 제품설명서**. [제품정보 및 최신 설명서](https://www.viatris.co.kr/ko-kr/products/product-details/lyrica-capsule)
 * FDA. **TONMYA (cyclobenzaprine hydrochloride sublingual tablets)**, 최초 승인 2025-08-15. [허가문서](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219428s000lbl.pdf)
-* FDA. **Gabapentin·pregabalin의 심각한 호흡곤란 위험 안전성 공지**, 2019-12-19. [안전성 공지](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication)
-
-✽ 허가·급여 자료는 2026-10-03 검토 시 접근 가능한 공개 자료를 확인한 것임. 고시 게시일이 오래되었다는 이유만으로 폐지된 기준은 아니나, 처방·청구 시 최신 개정 여부와 제품별 허가·공급 상태를 재확인함.

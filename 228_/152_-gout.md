@@ -41,24 +41,33 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 심한 통증·부종·열감을 보이는 급성 관절염에서 감염이 의심되는 경우 → **패혈성 관절염**에 대한 즉각 평가 또는 응급 의뢰 ; **발열이 없어도 배제할 수 없으며**, 통풍 병력이나 MSU 결정 확인만으로 동반 감염을 배제하지 않음
-* 급성 단관절염 + 전신 독성 징후(고열, 저혈압, 빈맥, 의식 변화) → 패혈증 의심, 응급 이송
-* 면역저하 상태, 최근 관절 수술·주사, 인공 관절에서 발생한 급성 관절염 → 감염 가능성을 적극적으로 평가하고 즉각 의뢰 고려
+* 급성 관절의 심한 통증·부종·열감과 감염 의심 소견; 발열이 없거나 MSU 결정이 확인된 경우도 해당  `패혈성 관절염`
+* 급성 관절염 + 고열·저혈압·빈맥·의식 변화  `패혈증`
+* 면역저하, 최근 관절 수술·주사 또는 인공관절에서 발생한 급성 관절염  `관절 감염`
+* Allopurinol 등 ULT 복용 중 새 발진 + 발열·점막 병변·수포·안면 부종 또는 전신 증상  `중증 약물 과민반응·SJS/TEN·DRESS`
+* Colchicine 과량·중복 복용(무증상도 해당), 또는 복용 후 심한 설사·구토·근력 저하·저림·출혈  `Colchicine 중독`
+
+감염 의심 시 즉각 천자·배양 및 응급 평가를 시행함. 중증 약물 과민반응이나 colchicine 중독 의심 시 해당 약을 중단하고 즉시 응급 평가함; allopurinol은 전신 증상이 없는 새 발진도 즉시 중단하고 당일 평가함.
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 새로 발생한 급성 단관절염으로 통풍·감염 여부가 불명확함 → 당일 평가·관절 천자 고려 ; 감염이 의심되면 상단 즉각 조치에 따름
-* 진단이 불명확한 다관절염(대칭성, 소관절 침범 등) → RA 등 감별을 위해 류마티스내과 협진 고려
-* CKD stage ≥3 또는 진행성 신기능 저하 환자에서 급성 발작 약물 선택이 어려운 경우 → 신장내과 자문 고려
-* Tophi 파열·궤양, 피부 발적·배액 등 국소 감염 의심 → 당일 평가 ; 전신 증상이나 관절 감염 의심 시 즉각 의뢰
+* 새로 발생한 급성 단관절염으로 통풍·감염 여부 불명확 **(당일)**  `급성 단관절염 감별`
+* 진단이 불명확한 다관절염·대칭성 소관절 침범  `RA 등 염증성 관절염`
+* CKD stage ≥3 또는 진행성 신기능 저하로 급성 발작 약제 선택 곤란  `신기능에 따른 치료 조정`
+* Tophi 파열·궤양 + 피부 발적·배액 **(당일)**  `국소 감염`
+* Benzbromarone 복용 중 식욕부진·심한 권태감·진한 소변·황달 **(당일)**  `약물유발 간손상`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+국소 감염에서도 전신 증상이나 관절 감염이 의심되면 즉각 평가함. Benzbromarone 간손상 의심 시 즉시 중단하고 간기능을 평가함.
 
-* 적절한 1차 항염증 치료 후 **24~48시간 내 뚜렷한 호전이 없거나 악화** → 복약·용량·진단을 조기에 재평가 ; 감염 가능성이 있으면 당일 또는 즉각 평가하고 5~7일까지 기다리지 않음
-* 요산 저하제 치료 중임에도 목표 SU 미도달 또는 연 ≥2회 재발 지속 → 약제 변경·병용 고려
-* 목표 SU 유지에도 tophi·잦은 발작이 지속되면 복약순응도·치료 기간·투여 용량을 확인하고 류마티스내과에서 치료 강화 고려
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 적절한 1차 항염증 치료 후 **24~48시간 내 뚜렷한 호전이 없음**  `진단·복약·용량 재평가`
+* ULT 치료 중 목표 SU 미도달 또는 연 ≥2회 재발 지속  `요산 저하 치료 강화`
+* 목표 SU 유지에도 tophi·잦은 발작 지속  `순응도·치료 기간·잔존 결정 침착 평가`
+
+증상이 악화하거나 감염 가능성이 있으면 위 재평가 시점까지 기다리지 않고 당일 또는 즉각 평가함.
 
 ## <mark style="color:green;">진단</mark>
 
@@ -105,7 +114,7 @@ _²⁾ 가능하면 ULT 미투여 상태에서 발작 시작 ＞4주 후 측정�
 
 * 급성 단관절염으로 내원한 경우 감별해야 할 주요 질환들 - 특히 패혈성 관절염은 반드시 배제
 
-<table><thead><tr><th width="140">질환</th><th width="260">통풍과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>패혈성 관절염</td><td>세균 감염에 의한 관절염 ; 통풍과 동시 발생 가능하며 임상 양상만으로 완전히 구분 어려움</td><td>발열이 없어도 가능 ; 활액 그람염색·배양 시행(음성 그람염색만으로 배제 불가) ; 지연 시 관절 파괴·패혈증 위험 → 감별 우선</td></tr><tr><td>가성통풍(CPPD)</td><td>Ca pyrophosphate 결정에 의한 관절염 ; 통풍과 임상상 매우 유사</td><td>호발 부위(무릎 등), 고령, X선 연골석회화 ; 편광현미경에서 양성 복굴절 결정 (☞ 가성통풍 참조)</td></tr><tr><td>봉와직염</td><td>피부·연부조직 감염 ; 관절강 침범 없음</td><td>관절보다 넓은 경계 불명확한 발적 ; 관절 운동 범위는 비교적 유지</td></tr><tr><td>류마티스 관절염</td><td>자가면역성 만성 다발 관절염</td><td>대칭적 소관절 침범, 조조강직 ＞1시간, RF/anti-CCP 양성</td></tr><tr><td>건선성 관절염/반응성 관절염</td><td>혈청음성 척추관절병증</td><td>건선 병력, 부착부염, 손발가락염(dactylitis)</td></tr><tr><td>골관절염 급성 악화</td><td>퇴행성 관절 질환</td><td>서서히 진행, 사용 시 악화, 발적·발열 상대적으로 경미</td></tr></tbody></table>
+<table><thead><tr><th width="140">질환</th><th width="260">통풍과의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>패혈성 관절염</td><td>세균 감염에 의한 관절염 ; 통풍과 동시 발생 가능하며 임상 양상만으로 완전히 구분 어려움</td><td>발열이 없어도 가능 ; 활액 그람염색·배양 시행(음성 그람염색만으로 배제 불가) ; 지연 시 관절 파괴·패혈증 위험 → 감별 우선</td></tr><tr><td>가성통풍(CPPD)</td><td>Ca pyrophosphate 결정에 의한 관절염 ; 통풍과 임상상 매우 유사</td><td>호발 부위(무릎 등), 고령, X선 연골석회화 ; 편광현미경에서 양성 복굴절 결정 (☞ 가성통풍 참조)</td></tr><tr><td>봉와직염</td><td>피부·연부조직 감염 ; 관절강 침범 없음</td><td>관절보다 넓은 경계 불명확한 발적 ; 관절 운동 범위는 비교적 유지</td></tr><tr><td>류마티스 관절염</td><td>자가면역성 만성 다발 관절염</td><td>대칭적 소관절 침범, 흔히 30분 이상인 조조강직, RF/anti-CCP가 진단에 도움되나 음성도 가능; 강직 시간·혈액검사만으로 배제하지 않음 (☞ 류마티스 관절염)</td></tr><tr><td>건선성 관절염/반응성 관절염</td><td>혈청음성 척추관절병증</td><td>건선 병력, 부착부염, 손발가락염(dactylitis)</td></tr><tr><td>골관절염 급성 악화</td><td>퇴행성 관절 질환</td><td>서서히 진행, 사용 시 악화, 발적·발열 상대적으로 경미</td></tr></tbody></table>
 
 ## <mark style="color:green;">무증상 고요산혈증 (Asymptomatic Hyperuricemia)</mark>
 
@@ -113,7 +122,7 @@ _²⁾ 가능하면 ULT 미투여 상태에서 발작 시작 ＞4주 후 측정�
 * 치료 : 무증상 고요산혈증 자체만을 이유로 일률적인 요산 저하제 치료를 시행하는 것은 일반적으로 권하지 않음
   * 대부분의 고요산혈증 환자에서 통풍이 발생하지 않음
   * 무증상 고요산혈증에서 CKD 진행 지연만을 목적으로 ULT를 투여하는 것은 권하지 않음 [KDIGO 2024, 권고 3.14.2(2D)] ; KCR 2023은 이 질문에 대해 이득·위해가 불명확하여 권고를 제시하지 못함
-  * 심혈관 질환과의 연관성도 관찰연구에서 반복적으로 보고되나, 멘델리안 무작위화(Mendelian randomization) 연구들은 요산치와 심혈관 위험 사이의 인과관계를 뒷받침하지 못하고 있어 심혈관 예방 목적의 요산 저하 치료는 아직 근거가 불충분함
+  * 심혈관 질환과의 연관성이 곧 치료 효과를 의미하지는 않으며, 무증상 고요산혈증에서 심혈관 사건 예방만을 목적으로 ULT를 일률적으로 투여할 근거는 부족함
 * 예외 : acute urate nephropathy(예 : 종양용해증후군 위험군) 예방 등 별도의 적응증이 있는 경우에는 요산 저하 치료를 고려
 
 ***
@@ -131,7 +140,7 @@ graph TD
     I --->|아니오| J["감염·진단·복약 재평가"]
     J ---> B
     I --->|예| K["항염증 치료 종료 시점·추적 계획"]
-    F ---> L["기존 ULT 유지, 새 ULT 적응증 별도 판단"]
+    F ---> L["발작만을 이유로 기존 ULT 중단하지 않음; 중증 이상반응은 중단·평가"]
 ```
 
 <p align="center"><strong>급성 통풍 발작의 관리 알고리듬</strong></p>
@@ -143,7 +152,7 @@ graph TD
 ## <mark style="background-color:$warning;">Management</mark>
 
 {% hint style="info" %}
-**급성기-만성기는 별개의 결정** - 급성 발작 치료(항염증)와 요산 저하제(ULT) 치료(요산 조절)는 각각 독립적으로 판단하며, 이미 ULT를 투여 중이던 환자는 발작 중에도 **중단하지 않고 유지**함.
+**급성기-만성기는 별개의 결정** - 급성 발작 치료(항염증)와 요산 저하제(ULT) 치료(요산 조절)는 각각 독립적으로 판단하며, 이미 ULT를 투여 중이던 환자는 **발작만을 이유로 중단하지 않음**. 단, 새 발진·중증 과민반응·간손상 등 약물 이상반응이 의심되면 해당 약을 중단·평가함.
 {% endhint %}
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -158,7 +167,7 @@ graph TD
 
 {% hint style="info" %}
 **발작 중 요산 저하제(ULT) 시작 가능 여부**\
-ULT 적응증이 있으면 급성 발작 중에도 항염증 치료를 병용하면서 새 ULT를 시작할 수 있음 [ACR 2020·KCR 2023, 조건부 권고]. 모든 약제의 국내 허가사항이 이 권고와 일치하는 것은 아님 ; **페브릭 국내 허가사항은 발작이 진정된 뒤 시작하도록 명시**하므로 febuxostat 처방 시 이를 구분함. 이미 복용 중인 ULT는 유지함
+ULT 적응증이 있으면 급성 발작 중에도 항염증 치료를 병용하면서 새 ULT를 시작할 수 있음 [ACR 2020·KCR 2023, 조건부 권고]. 모든 약제의 국내 허가사항이 이 권고와 일치하는 것은 아님 ; **자이로릭·페브릭·유리논 국내 허가사항은 급성 발작이 진정된 뒤 시작하도록 명시**함. 따라서 발작 중 allopurinol·febuxostat·benzbromarone의 신규 시작은 지침 권고와 국내 허가사항의 차이를 검토해야 함. 이미 복용 중인 ULT는 발작만을 이유로 중단하지 않으며 약물 이상반응은 별도로 평가함
 {% endhint %}
 
 ***
@@ -201,13 +210,16 @@ Colchicine은 과량 복용·상호작용 시 치명적 독성이 발생할 수 
 * 국내 급성 통풍 허가 용법 : 초회 1.2 ㎎ → 1시간 후 0.6 ㎎(초기 총 1.8 ㎎) ; 고용량 반복 loading은 시행하지 않음 <mark style="color:blue;">[콜킨]</mark>
 * 이후 지속 치료가 필요하면 저용량 0.6 ㎎ qd~bid를 임상 경과·신기능에 따라 개별 결정(급성기 지속 요법은 지침·문헌 용법) ; 예방 복용 중 발생한 발작에서는 국내 허가사항에 따라 초기 요법 후 **최소 12시간 뒤** 예방 용량 재개. 예방 용량과 초기 용량이 중복되지 않도록 복용 계획을 명시
 * 부작용 : 소화기 증상(구역, 구토, 복통, 설사), 신경근육병증, 재생불량빈혈, 간/신 기능 저하
-* 주의 : 고령·경증~중등도 신·간장애에서는 독성 모니터링과 감량·투여 간격 조절을 검토 ; clarithromycin·azole 항진균제·ritonavir·cyclosporine 외 verapamil·diltiazem 등과도 상호작용 확인. Statin·fibrate 병용 시 근육병증 위험에 주의
+* 주의 : 고령·경증~중등도 신·간장애에서는 독성 모니터링과 감량·투여 간격 조절을 검토 ; clarithromycin·azole 항진균제·ritonavir·cyclosporine 외 verapamil·diltiazem 등과도 상호작용 확인. Statin·fibrate 병용 시 근육병증 위험에 주의. **Clarithromycin·nirmatrelvir/ritonavir(팍스로비드) 등은 국내 병용금기 정보를 확인하고 함께 처방하지 않음**; 자몽·자몽주스도 피함
 
 #### <mark style="color:$primary;">NSAID</mark>
 
 * 유효 항염증 용량을 가능한 짧게 사용하고 호전 시 감량·종료 ; 모든 환자에게 최대 용량 2일을 일률적으로 적용하지 않음
 * 약제간의 일반적인 효과 차이는 없음
 * 주의 : 소화성 궤양, 신 기능 저하 ; CKD 또는 심부전 환자에서는 회피 고려
+  * 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
+  * 활동성 궤양/출혈·중증 신장애·심부전 등으로 NSAID가 부적절하면 colchicine 또는 corticosteroid를 각각의 금기·상호작용에 따라 선택함. Acetaminophen은 급성 통풍의 항염증 치료를 대체하지 않음
+  * 장기 저용량 NSAID 예방에서도 혈압·신기능·K 및 GI 위험을 재평가하고 필요 시 위장 보호를 병용하되, PPI로 NSAID 금기를 해소하지 않음
 * naproxen 국내 급성 통풍 허가 용법 : 초회 750 ㎎ → 발작 소실 시까지 250 ㎎ q8h <mark style="color:blue;">[낙센]</mark> ; naproxen sodium은 초회 825 ㎎ → 275 ㎎ q8h <mark style="color:blue;">[아나프록스]</mark>
 * naproxen 500 ㎎ bid는 급성 통풍 연구·지침에서 사용하는 대안 요법이며 위 국내 적응증별 허가 용법과 구분 <mark style="color:blue;">[낙센에프]</mark>
 * ibuprofen : 국내 허가상 1회 200~600 ㎎, 1일 3~4회 ; 급성기에는 예를 들어 400~600 ㎎ tid~qid를 위험도에 따라 선택. 허가상 최고 3.2 g/d이나 이를 목표 용량으로 삼지 않으며 고용량의 심혈관·위장관·신장 위험에 주의 <mark style="color:blue;">[부루펜]</mark>
@@ -285,13 +297,14 @@ graph TD
 
 * 1차 선택제
 * 작용 : xanthine oxidase 억제
-* 부작용 : 발진, 가려움, 간 효소 수치 증가, eosinophilia ; 이뇨제, Pc 계열 병용 시 증가
+* 부작용 : 발진, 가려움, 간 효소 수치 증가, eosinophilia ; ampicillin·amoxicillin 병용 시 발진 위험 증가. CKD·thiazide 병용 등은 과민반응 위험 평가에 반영함
 * 주의 : warfarin 병용 시 INR 모니터링 ; **azathioprine·6-mercaptopurine 병용은 치명적 골수억제 위험 때문에 회피**. 불가피한 병용은 해당 약제를 통상 용량의 약 1/4로 감량하고 전문의 감독 아래 빈번한 혈액검사를 시행(국내 허가사항)
 * 시작 : ≤100 ㎎ qd, CKD에서는 더 낮게(예 : 50 ㎎/d) 시작 → SU·안전성을 보며 2~4주마다 증량 [ACR 2020] <mark style="color:blue;">[자이로릭]</mark>
 * 국내 허가상 최대 800 ㎎/d, 1회 최대 300 ㎎이며 고용량은 분할·식후 투여 ; 경증의 100~300 ㎎/d만을 모든 환자의 유지 용량으로 제한하지 않음
 * **신부전에서 지침과 국내 허가 용량을 구분** : 자이로릭 허가사항은 CrCl 10~20 ㎖/min에서 100~200 ㎎/d, ＜10에서 ≤100 ㎎/d 또는 더 긴 간격을 명시함. ACR의 CKD에서도 SU 목표에 따라 증량하는 원칙은 이 허가 제한과 항상 일치하지 않으므로, 제한을 넘는 증량은 전문의 자문과 허가 외 사용 검토가 필요
 * 자이로릭 허가사항의 성별 목표치와 별개로, 현행 통풍 지침의 치료 목표는 SU ＜6 ㎎/㎗를 적용
 * colchicine과 병용 가능
+* 자이로릭 국내 허가사항은 급성 발작이 진정된 뒤 새로 시작하도록 명시함; 이미 투여 중 발생한 발작에는 기존 용량을 유지하며 항염증제로 치료함(약물 이상반응은 예외)
 
 {% hint style="danger" %}
 **⚠️ Allopurinol 과민반응 증후군(AHS) / SCAR**\
@@ -319,10 +332,10 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 * 작용 : 신세뇨관에서 urate 재흡수 차단(URAT1 억제)으로 요산 배설 촉진
 * 국내 요산배설촉진제의 대표 약제 <mark style="color:blue;">[유리논]</mark>
 * 대상 : XOI 투여 곤란 또는 효과 부족 시 대체 또는 추가 투여
-* 국내 유리논 허가상 금기 : **신기능 장애, 신장 결석의 병적 소인, 간장애, 임신 가능 여성·임부** ; CrCl ＜20만을 금기 경계로 제시하지 않음
+* 국내 유리논 허가상 금기 : **신기능 장애, 신장 결석의 병적 소인, 간장애, 임부 또는 임신하고 있을 가능성이 있는 여성** ; CrCl ＜20만을 금기 경계로 제시하지 않음
 * 간독성 : 급성 중증 간염·치명적 간부전 가능 ; **적어도 시작 후 6개월 동안 반드시 정기적 간기능 검사**, 이후에도 추적. 식욕부진·구역·권태감·진한 소변·황달 시 즉시 중단·평가
 * 부작용 : 광과민 반응, 위장 장애, 설사
-* 용법 : 25\~50 ㎎ qd로 시작, 유지 50 ㎎ qd\~tid
+* 용법 : 25\~50 ㎎ qd로 시작, 유지 50 ㎎ qd\~tid ; **급성 발작이 진정된 뒤 새로 시작함**(국내 허가사항)
 
 **Probenecid**
 
@@ -339,7 +352,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 * 작용 : 요산의 수용성 purine 분해 산물인 allantoin으로의 전환을 촉진
 * 대상 : 충분한 경구 ULT 등에도 SU 목표 달성 실패 및 **잦은 재발(≥2회/년) 또는 해결되지 않는 피하 tophi**가 있는 경우
 * anaphylaxis·주입 반응 위험이 큰 전문 치료제로 국내 일반 처방 알고리듬의 직접적인 다음 단계로 제시하지 않음 ; 실제 접근 가능 여부는 전문기관에서 확인
-* 국외 참고 용법 : 8 ㎎ IV 격주 ; 투여 전 G6PD 결핍 확인(결핍 시 금기), 매 주입 전 SU·주입 반응 모니터링 및 면역조절제 병용 여부 등은 전문의가 결정
+* 국외 참고 용법 : 8 ㎎ IV 격주. 미국 허가는 통상 methotrexate **15 ㎎ 주 1회**와 엽산 병용을 권고하며, MTX는 첫 주입 최소 4주 전 시작함; MTX가 금기이거나 부적절하면 단독요법 가능. 투여 전 G6PD 결핍 확인(결핍 시 금기), 매 주입 전 SU 및 주입 반응 감시·전처치가 필요하며 전문기관에서 시행함 <mark style="color:$info;">[KRYSTEXXA 국외 허가사항]</mark>
 
 ### <mark style="color:orange;">발작 예방 항염 요법 (Anti-inflammatory Prophylaxis)</mark>
 
@@ -349,7 +362,7 @@ CKD 환자에서 ＞100 ㎎/d으로 투여를 시작하는 것은 Stevens-Johnso
 * 저용량 colchicine : 0.6 ㎎ qd\~bid ; 경증~중등도 신장애에서 감량·간격 조절 검토, 중증 신장애는 국내 허가상 금기 <mark style="color:blue;">\[콜킨]</mark>
 * 저용량 NSAID 지침 예 : naproxen 250 ㎎ bid <mark style="color:blue;">[낙센]</mark> ; naproxen sodium 제형은 275 ㎎ bid <mark style="color:blue;">[아나프록스]</mark>. 장기 예방 요법은 국내 급성 통풍 치료 용법과 구분하고 위장관·심혈관·신장 위험 평가
 * 저용량 steroid : colchicine 및 NSAID를 사용할 수 없거나 효과 부족 시 고려
-  * prednisolone : 5\~10 ㎎ qd 아침 <mark style="color:blue;">\[소론도]</mark>
+  * prednisolone : 5\~10 ㎎ qd 아침 <mark style="color:blue;">\[소론도]</mark> ; 장기간 유지 근거가 제한적이므로 최저 용량·최단 기간으로 사용함. Prednisone 상당량 ≥2.5 ㎎/d를 ＞3개월 사용할 예정이면 골절 위험을 평가함 (☞ [골다공증](149_-osteoporosis.md))
 
 ***
 
@@ -369,7 +382,7 @@ M10.9 상세불명의 통풍 Gout, unspecified
 >
 > ```
 > 콜킨 0.6 ㎎/T 2T stat → 1시간 후 1T  (급성기 loading)
-> 또는 낙센에프정 500 ㎎/T 2T #2  (지침·문헌 대안 용법)
+> 또는 낙센에프정 500 ㎎/T 1T bid  (지침·문헌 대안 용법)
 > ```
 >
 > _✽경증/중등도에서는 위 두 약제 중 한 가지를 선택 ; 병용은 중증도·반응에 따라 결정. Colchicine 금기·상호작용 및 NSAID 국내 급성 통풍 허가 용법은 본문 참조_
@@ -399,7 +412,7 @@ M10.9 상세불명의 통풍 Gout, unspecified
 > 콜킨 0.6 ㎎/T 1T qd  (예방 요법, 최소 3~6개월)
 > ```
 >
-> _✽HLA-B\*58:01 음성·중증 과민반응 병력 없음과 병용약을 확인한 뒤 시작 ; CKD에서는 더 낮은 시작 용량 검토. ULT 시작 시 초기 발작 예방을 위해 저용량 colchicine을 최소 3\~6개월 병용 ; 2\~4주마다 SU 확인 후 증량_
+> _✽급성 발작이 진정된 뒤 시작(국내 허가사항). HLA-B\*58:01 음성·중증 과민반응 병력 없음과 병용약을 확인 ; CKD에서는 더 낮은 시작 용량 검토. ULT 시작 시 초기 발작 예방을 위해 저용량 colchicine을 최소 3\~6개월 병용 ; 2\~4주마다 SU 확인 후 증량_
 
 > **처방례 5. Allopurinol 알레르기 또는 HLA-B\*58:01 양성 환자**
 >
@@ -416,7 +429,8 @@ M10.9 상세불명의 통풍 Gout, unspecified
 > **Colchicine 복용 시 주의**
 >
 > * 발작이 시작되면 처방받은 계획에 따라 가능한 한 빨리 복용하십시오. 처음 복용한 용량을 임의로 반복하거나 예방 용량과 겹쳐 먹지 마십시오.
-> * 구역, 구토, 설사 등 소화기 증상이 나타나면 용량 조절 또는 중단이 필요할 수 있으므로 알려주세요.
+> * **심한 설사·구토, 근력 저하·근육통, 저림, 멍·출혈이 생기면 복용을 중단하고 즉시 진료받으십시오.** 가벼운 소화기 증상도 임의로 용량을 늘리지 말고 의료진에게 알리십시오.
+> * 실수로 처방량보다 많이 먹었거나 초기 용량을 중복 복용했다면 증상이 없어도 더 복용하지 말고 즉시 응급 진료받으십시오.
 > * clarithromycin, itraconazole 등 특정 항생제·항진균제와 병용하면 중독 위험이 높아지므로 새로운 약 처방 시 반드시 colchicine 복용 사실을 알려야 합니다.
 
 > **Allopurinol 시작 시 발진 교육**
@@ -427,7 +441,7 @@ M10.9 상세불명의 통풍 Gout, unspecified
 > **요산 저하제 시작 초기의 발작 증가 가능성**
 >
 > * 요산 저하제를 새로 시작하면 오히려 일시적으로 발작이 증가할 수 있음을 미리 설명하고, 예방을 위한 저용량 colchicine/NSAID를 함께 처방한 이유를 안내합니다.
-> * 임의로 요산 저하제를 중단하지 않도록 하며, 발작이 있어도 이미 복용 중인 요산 저하제는 유지해야 함을 강조합니다.
+> * 발작만을 이유로 이미 복용 중인 요산 저하제를 중단하지 않도록 안내합니다. 단, 새 발진·발열·점막 병변·황달 등 약물 이상반응이 의심되면 해당 약을 중단하고 즉시 평가받아야 합니다.
 
 > **NSAID·Steroid 단기 사용 시 주의**
 >
@@ -460,7 +474,7 @@ M10.9 상세불명의 통풍 Gout, unspecified
 
 * **처방받은 약을 최대한 빨리 복용하십시오.** 발작 초기에 치료할수록 좋지만 늦게 시작했더라도 진료를 받아 치료할 수 있습니다.
 * 이환된 관절은 얼음찜질을 하고, 최대한 부하를 주지 않도록 쉬어 주십시오.
-* 이미 요산 저하제(예 : 자이로릭, 페브릭)를 복용 중이라면 **발작이 있어도 임의로 중단하지 마십시오.**
+* 이미 요산 저하제(예 : 자이로릭, 페브릭)를 복용 중이라면 **발작만을 이유로 임의로 중단하지 마십시오.** 다만 새 발진·열·입안 헐음·황달 등이 생기면 해당 약을 중단하고 즉시 진료받으십시오.
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
@@ -473,7 +487,7 @@ M10.9 상세불명의 통풍 Gout, unspecified
 
 * 요산 저하제(자이로릭, 페브릭 등)는 매일 꾸준히 복용해야 효과가 있으며, 임의로 중단하면 요산이 다시 올라가 재발할 수 있습니다.
 * **자이로릭(알로푸리놀) 복용 후 피부 발진, 가려움, 열이 나면 즉시 복용을 중단하고 병원에 오십시오.** 드물지만 심각한 피부 부작용의 신호일 수 있습니다.
-* 콜킨(콜히친)을 복용 중에는 새로운 약(특히 항생제)을 처방받을 때 반드시 콜히친 복용 사실을 알려 주십시오.
+* 콜킨(콜히친)을 복용 중에는 새로운 약(특히 항생제·코로나19 먹는 치료제)을 처방받을 때 반드시 콜히친 복용 사실을 알려 주십시오. 심한 설사·구토·근력 저하가 생기면 복용을 중단하고 즉시 진료받으십시오. 과량·중복 복용했다면 증상이 없어도 응급 진료가 필요합니다.
 
 #### <mark style="color:$primary;">이럴 때는 병원을 방문하세요</mark>
 
@@ -504,8 +518,22 @@ M10.9 상세불명의 통풍 Gout, unspecified
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-* 급성 CPP 관절염도 패혈성 관절염을 우선 감별 ; 발열이 없어도 감염이 가능하고 CPP 결정 확인만으로 동반 감염을 배제하지 않음. 감염 의심 시 즉각 천자·배양 및 응급 평가(☞ 상단 통풍 Red Flags 참조)
-* 젊은 연령에서 발생한 CPPD(특히 ＜60세) 또는 재발성·다관절성 CPPD → 부갑상선기능항진증, 혈색소침착증, 저마그네슘혈증 등 기저 대사 질환 감별을 위해 관련 검사 및 전문과 의뢰 고려
+<mark style="color:$danger;">**즉각 조치**</mark>
+
+* 급성 관절염 + 감염 의심, 전신 상태 악화·저혈압·의식 변화; 발열이 없거나 CPP 결정이 확인되어도 해당  `패혈성 관절염·패혈증`
+* 갑작스러운 심한 경부 통증·경부 강직 + 발열 또는 신경학적 이상  `수막염·척추 감염 등 응급 감별`
+
+급성 경부 통증은 CPPD의 crowned dens syndrome에서도 발생할 수 있으나 감염·신경학적 응급질환을 먼저 감별함. 감염이 의심되면 즉각 천자·배양 및 응급 평가함(☞ 상단 통풍 Red Flags 참조).
+
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+
+* 처음 발생한 급성 관절염 또는 평소와 다른 심한 발작 **(당일)**  `감염·다른 관절염 감별`
+* 항염증 치료에도 악화하거나 24~48시간 내 호전이 없음  `진단·치료 반응 재평가`
+
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* ＜60세에서 발생한 CPPD 또는 반복되는 다관절성 발작  `부갑상선기능항진증·혈색소침착증·저마그네슘혈증 등`
+* 지속적 활막염·기능 저하 또는 잦은 재발  `만성 CPP 염증성 관절염·다른 염증성 관절염`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -513,6 +541,7 @@ M10.9 상세불명의 통풍 Gout, unspecified
 * ＜60세, 반복 발작 또는 대사 질환 의심 시 Ca, Mg, P, ALP, ferritin·TSAT 등을 평가 ; 고칼슘혈증이면 PTH, 임상 단서가 있으면 TSH 추가. 지속적 ALP 저하는 저인산분해효소증 평가 단서
 * X선 검사 : 비특이적, 연골석회화(chondrocalcinosis) 소견이 도움될 수 있음
 * 초음파 검사 : 연골 내 CPP 침착을 확인하는 데 유용하며, 일부 상황에서는 단순 X선보다 민감할 수 있음
+* 축성 CPPD·crowned dens syndrome 의심 시 일반 CT가 치돌기 주변 석회화 평가에 유용함; 말초 CPPD의 일률적 CT 검사와 구분함 <mark style="color:$info;">[EULAR 영상 권고 2023]</mark>
 
 ## <mark style="background-color:$warning;">Management</mark>
 
@@ -527,6 +556,7 @@ M10.9 상세불명의 통풍 Gout, unspecified
 * colchicine : 0.6 ㎎ qd~bid 등 저용량을 개별 선택(허가 외) ; 초기 loading은 모든 고령 CPPD 환자에 일률적으로 적용하지 않으며 신·간기능·상호작용에 따라 회피 또는 조정 <mark style="color:blue;">[콜킨]</mark>
 * prednisolone : 예를 들어 30 ㎎/d 단기 투여 후 반응에 따라 종료·조정 ; 모든 환자에게 7~10일 감량을 의무화하지 않음 <mark style="color:blue;">[소론도]</mark>
 * COLCHICORT 2023 : ≥65세 급성 CPP 관절염에서 저용량 colchicine과 prednisone의 24시간 통증 감소가 동등했고 이상반응 양상은 달랐음(설사 vs 혈압·혈당 상승) ; 환자별 선택을 지지하는 근거이며 고령 환자에 대한 용량·금기 확인이 필요
+* Prednisolone 10 vs 30 ㎎/d ×7일을 비교한 79명 규모 공개 RCT에서는 완전 증상 소실 시간의 차이가 없었음. 초기 호전 속도·중증도·동반 질환을 고려해 저용량도 선택할 수 있으나, 소규모 연구만으로 모든 환자에서 동등하거나 더 안전하다고 단정하지 않음 <mark style="color:$info;">[Clinical Rheumatology 2024]</mark>
 * triamcinolone : 관절 내 주사 10\~40 ㎎ 1회 <mark style="color:blue;">\[트리암시놀론]</mark>
 
 ### <mark style="color:orange;">만성</mark>
@@ -557,7 +587,7 @@ M11.2 기타 연골석회증 Other chondrocalcinosis
 > 또는 콜킨 0.6 ㎎/T 1T qd 또는 1T bid  (허가 외, 환자별 조절)
 > ```
 >
-> _✽감염을 배제한 뒤 한 가지를 선택 ; 고령·신기능 저하에서는 특히 colchicine 금기·상호작용을 확인. 1~2개 관절이면 관절 흡인·관절 내 steroid도 고려_
+> _✽감염을 배제한 뒤 한 가지를 선택 ; prednisolone은 중증도·혈당·혈압에 따라 더 낮은 용량도 검토(본문 10 vs 30 ㎎ 연구는 7일 요법). 고령·신기능 저하에서는 특히 colchicine 금기·상호작용을 확인. 1~2개 관절이면 관절 흡인·관절 내 steroid도 고려_
 
 > **처방례 2. 재발 예방**
 >
@@ -570,7 +600,9 @@ M11.2 기타 연골석회증 Other chondrocalcinosis
 
 ***
 
-## 참고 지침 및 주요 근거
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * ACR. [2012 Guidelines for Management of Gout. Part 2: Therapy and Antiinflammatory Prophylaxis of Acute Gouty Arthritis](https://doi.org/10.1002/acr.21773). 급성기 반응 평가·병용·용량에 대한 보조 근거이며 ULT 결정·예방 기간은 2020 권고를 우선 적용.
 * 대한류마티스학회. [Korean guidelines for the management of gout](https://pmc.ncbi.nlm.nih.gov/articles/PMC10493448/). 2023.
@@ -585,10 +617,15 @@ M11.2 기타 연골석회증 Other chondrocalcinosis
 * ACR/EULAR. [The 2023 ACR/EULAR Classification Criteria for Calcium Pyrophosphate Deposition Disease](https://doi.org/10.1002/art.42619).
 * EULAR. [EULAR recommendations for calcium pyrophosphate deposition. Part II: management](https://pubmed.ncbi.nlm.nih.gov/21257614/). 2011.
 * Pascart T, et al. [COLCHICORT 무작위시험](https://pubmed.ncbi.nlm.nih.gov/38251496/). Lancet Rheumatol. 2023.
-* 국내 약제 : 식약처 허가정보를 수록한 제품별 자료([콜킨](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A1291A0210), [자이로릭](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0500A0069), [페브릭](https://health.kr/searchDrug/result_drug.asp?drug_cd=2013060300005), [유리논](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A3780A0272), [부루펜](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0500A0097), [아나프록스](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB2070)) 및 [종근당 낙센에프 제품정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000003). 국내 허가 용법과 지침·문헌 용법이 다른 부분은 본문에서 구분함.
-* Probenecid : [DailyMed 국외 허가사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab497fd8-00c3-4364-b003-b39d21fbdf38).
-
 * Finckh A, et al. [Methotrexate in chronic-recurrent calcium pyrophosphate deposition disease: no significant effect in a randomized crossover trial](https://pubmed.ncbi.nlm.nih.gov/25315665/). 2014.
 * Doehner W, et al. [Uric Acid and SGLT2 Inhibition With Empagliflozin in Heart Failure With Preserved Ejection Fraction: The EMPEROR-Preserved Trial](https://pubmed.ncbi.nlm.nih.gov/39453357/). JACC Heart Fail. 2024.
-* Pegloticase : [KRYSTEXXA 제조사 투여·안전성 안내](https://www.krystexxahcp.com/rheumatology/dosing-and-infusing/dosing-and-preparation), 국외 참고용.
 * Campion EW, et al. [Asymptomatic hyperuricemia. Risks and consequences in the Normative Aging Study](https://pubmed.ncbi.nlm.nih.gov/3826098/). Am J Med. 1987.
+* [Efficacy and safety of 10 mg versus 30 mg of oral prednisolone for acute CPP crystal arthritis](https://doi.org/10.1007/s10067-024-07184-z). Clin Rheumatol. 2024.
+* White WB, et al. [Cardiovascular Safety of Febuxostat or Allopurinol in Patients with Gout (CARES)](https://doi.org/10.1056/NEJMoa1710895). N Engl J Med. 2018.
+* Mackenzie IS, et al. [Long-term cardiovascular safety of febuxostat compared with allopurinol in patients with gout (FAST)](https://doi.org/10.1016/S0140-6736(20)32234-0). Lancet. 2020.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 콜킨·자이로릭·페브릭·유리논·낙센·아나프록스·부루펜 등의 국내 용법·금기·상호작용 확인 자료. 국내 허가와 지침·문헌 용법의 차이는 본문에 구분함.
+* Probenecid. [DailyMed 국외 허가사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab497fd8-00c3-4364-b003-b39d21fbdf38).
+* Pegloticase. [KRYSTEXXA 제조사 투여·안전성 안내](https://www.krystexxahcp.com/other-specialties/efficacy/krystexxa-with-methotrexate) — MTX 병용·G6PD 결핍·주입 반응에 관한 국외 참고 자료.

@@ -27,7 +27,7 @@
 * 전해질 이상(저칼슘혈증, 저마그네슘혈증 등), 신부전/혈액투석, 간경화 등은 임상적으로 의심될 때 감별
 * 당뇨병, 갑상선기능저하증, 말초혈관질환, 중추/말초 신경질환 등과 동반될 수 있음
 * 임신, 특히 임신 후반기에서 흔함
-* 일반 성인과 달리 임신부 대상 개별 연구에서는 magnesium·calcium 등 경구 보충제가 낮은 확실성 수준에서 증상 완화 신호를 보인 바 있으나, Cochrane 종합 리뷰는 어떤 경구 보충제도 효과·안전성에 대한 근거가 명확하지 않다고 결론지음(Cochrane review); 확인된 결핍이 있으면 교정
+* 일반 성인과 달리 임신부 대상 개별 연구에서는 magnesium·calcium 등 경구 보충제가 낮은 확실성 수준에서 증상 완화 신호를 보인 바 있으나, Cochrane 종합 리뷰는 어떤 경구 보충제도 효과·안전성에 대한 근거가 명확하지 않다고 결론지음 <mark style="color:$info;">(Cochrane review)</mark>; 확인된 결핍이 있으면 교정
 
 #### <mark style="color:$primary;">약물 연관성</mark>
 
@@ -50,31 +50,33 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 갑작스러운 심한 하지 통증과 창백·냉감·맥박 감소/소실, 감각이상 또는 운동마비 → 급성 하지 허혈 의심; 전형적인 모든 징후가 갖춰질 때까지 기다리지 않음
-* 외상·압박 또는 격한 운동 이후 예상보다 심한 통증, 수동적 신전 시 통증, 팽팽한 구획/부종, 진행하는 감각·운동 이상 → 급성 구획증후군 의심; 말초맥박이 유지되어도 배제할 수 없음
-* 새로운 요폐·배뇨감각 변화, 안장부 감각저하, 배변 조절 장애 또는 급속 진행 근력저하 → 말총증후군(cauda equina syndrome) 등 감별; 심한 요통이나 양측 하지 증상이 반드시 동반되는 것은 아님
-* DVT 의심 소견과 함께 호흡곤란·흉통·실신·저산소증이 있거나, 한쪽 다리 전체의 심한 부종·청색증이 발생 → 폐색전증 또는 중증 정맥폐쇄 의심
-* 전신성 강직/테타니와 부정맥·심전도 이상, 후두경련 또는 의식 변화 → 중대한 전해질 이상 등 평가
-* 임신·산후에 심한 두통, 시각 증상, 명치/우상복부 통증, 호흡곤란 또는 중증 고혈압(수축기 ≥160 또는 이완기 ≥110 mmHg) → 자간전증 등 즉시 산과 평가
-* 심한 근육통·근력저하와 짙은 소변 또는 소변량 감소 → 횡문근융해증 의심
+* 갑작스러운 심한 하지 통증 + 창백·냉감·맥박 감소/소실·감각이상·운동마비 중 일부 또는 여러 소견  `급성 하지 허혈`
+* 외상·압박·격한 운동 이후 예상보다 심한 통증, 수동적 신전 시 통증, 팽팽한 구획/부종 또는 진행하는 감각·운동 이상; 말초맥박이 유지되어도 가능  `급성 구획증후군`
+* 새 요폐·배뇨감각 변화, 안장부 감각저하, 배변 조절 장애 또는 급속 진행 근력저하; 심한 요통·양측 하지 증상이 없어도 해당  `말총증후군·척수압박`
+* DVT 의심 소견 + 호흡곤란·흉통·실신·저산소증, 또는 한쪽 다리 전체의 심한 부종·청색증  `폐색전증·중증 정맥폐쇄`
+* 전신성 강직/테타니 + 부정맥·심전도 이상·후두경련·의식 변화  `중대한 전해질 이상`
+* 임신·산후에 심한 두통·시각 증상·명치/우상복부 통증·호흡곤란 또는 중증 고혈압(수축기 ≥160 또는 이완기 ≥110 ㎜Hg)  `자간전증 등 산과 응급`
+* 심한 근육통·근력저하 + 짙은 소변 또는 소변량 감소  `횡문근융해증`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 급성 편측 하지 부종 ± 통증/압통/열감(특히 최근 수술·부동, 암, 과거 VTE 등) → DVT 감별 **(당일)**; 응급 소견은 위 항목에 따라 즉각 조치
-* 새로 발생하거나 진행하는 객관적 근력저하 또는 뚜렷한 신경학적 결손 → **당일 평가**; 급속 진행은 즉각 조치
-* 발/발가락의 지속적 안정 시 통증, 다리를 올리면 악화되고 아래로 내리면 완화되는 야간 통증, 치유되지 않는 궤양 → 중증 하지 허혈 평가 **(당일)**
-* 보행 시 반복적으로 유발되고 휴식으로 호전되는 안정된 파행 → 말초동맥질환 평가 계획; 급성 악화·안정 시 통증은 위 기준 적용
-* 임신 중 새 고혈압(≥140/90 mmHg) 또는 갑작스러운 부종과 함께 산과적 이상 소견 → **당일 산과 평가**; 하지부종만으로 자간전증을 진단하지 않음
+* 급성 편측 하지 부종 ± 통증·압통·열감(최근 수술·부동, 암, 과거 VTE 등이 있으면 위험 증가) **(당일)**  `DVT`
+* 새로 발생하거나 진행하는 객관적 근력저하 또는 뚜렷한 신경학적 결손 **(당일)**  `신경·근육 질환`
+* 발/발가락의 지속적 안정 시 통증, 다리를 올리면 악화·내리면 완화되는 야간 통증 또는 치유되지 않는 궤양 **(당일)**  `만성 사지 위협 허혈`
+* 임신 중 새 고혈압(수축기 ≥140 또는 이완기 ≥90 ㎜Hg) 또는 갑작스러운 부종 + 다른 산과적 이상 소견 **(당일 산과 평가)**  `임신성 고혈압·자간전증 의심`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 하룻밤에 수회 반복되거나 수면을 현저히 방해하는 경우
-* 경련 사이에도 통증이 지속되는 경우 → NLC만으로 설명하지 않고 재평가; 매우 심한 지속 통증은 즉시 위험도 평가
-* 신체 다른 부위의 반복적 경련 또는 안정된 만성 감각저하·저림이 동반되는 경우
-* 간경화, 말기신질환/혈액투석 환자에서 새롭게 발생하거나 현저히 악화된 경련 → 체액 상태, 투석 관련 요인, 전해질 이상 및 기저질환 악화 여부 평가; 전신상태 불량이나 중대한 전해질 이상이 의심되면 당일 또는 즉각 평가
-* 4~6주간의 비약물 치료에도 충분히 호전되지 않는 경우; 증상이 심하면 이 기간을 기다리지 않고 재평가
+* 하룻밤에 수회 반복되거나 수면을 현저히 방해하는 경련  `빈번한 NLC`
+* 경련 사이에도 통증이 지속됨  `다른 통증 원인 감별`
+* 다른 신체 부위의 반복적 경련 또는 안정된 만성 감각저하·저림  `이차 원인·신경병증`
+* 보행 시 반복 유발되고 휴식으로 호전되는 안정된 파행, 안정 시 통증·궤양 없음  `말초동맥질환`
+* 간경화·말기신질환/혈액투석 환자에서 새로 발생하거나 현저히 악화된 경련, 전신 상태 안정  `체액·전해질·투석 관련 요인`
+* 4~6주간 비약물 치료에도 충분한 호전 없음  `진단·치료 반응 재평가`
+
+*급성 허혈·구획증후군은 모든 전형적 징후가 갖춰질 때까지 기다리지 않음. 갑자기 악화되는 통증·빠르게 진행하는 근력저하·전신 상태 악화·중대한 전해질 이상이 의심되면 상위 단계로 격상함. 하지부종만으로 자간전증을 진단하지 않음. 증상이 심하면 4~6주를 기다리지 않고 재평가함.*
 
 ***
 
@@ -90,7 +92,7 @@
 
 * NLC는 통증을 동반한 급성·일시적 근육 수축/경직이라는 점에서 아래 질환들과 구분됨
 
-<table><thead><tr><th width="150">질환</th><th width="260">NLC와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>하지불안증후군(RLS) (☞ <a href="036_-restless-legs-syndrome.md">하지불안증후군</a>)</td><td>안정 시 다리를 움직이고 싶은 충동이 핵심이며 움직이는 동안 호전되고 저녁/밤에 악화; 통증성 근육 수축은 진단 특징이 아님</td><td>"움직이고 싶은 충동" 중심 vs NLC는 "통증성 근육 경직"; 두 질환은 동반 가능</td></tr><tr><td>말초동맥질환/간헐성 파행</td><td>간헐성 파행은 보행·운동 시 유발되고 휴식 시 수분 내 호전; 중증 허혈은 안정 시/야간에도 통증 가능</td><td>운동 유발성, 말초맥박 저하, ABI 이상 가능</td></tr><tr><td>말초신경병증</td><td>화끈거림, 저림, 감각저하가 지속적이거나 야간에 악화; 별도의 근육 경련이 동반될 수도 있음</td><td>감각증상 중심, 신경학적 진찰 이상 가능</td></tr><tr><td>만성 정맥부전</td><td>다리의 무거움·부종·둔통이 장시간 서 있을 때 악화</td><td>부종, 피부 변화, 정맥류; 급성 근육 경직과 구별</td></tr><tr><td>근육통/근염(Myositis, myalgia)</td><td>급성 경련성 통증보다 지속적 통증·근력저하가 흔함; CK 상승 가능</td><td>통증의 지속성, 근력저하, 검사 소견</td></tr><tr><td>주기성 사지운동증(PLMD)</td><td>수면 중 반복적·상동적인 다리 움직임; 통증 없이 본인이 인지하지 못하는 경우가 많음</td><td>사지운동 자체(PLMS)와 PLMD를 구분; PLMD는 수면다원검사 소견과 임상적 수면/주간 기능장애를 확인하고 다른 원인을 배제</td></tr><tr><td>Hypnic myoclonus (입면기 근경련)</td><td>잠들 무렵 순간적인 전신 또는 사지의 튐; 통증이 일반적이지 않음</td><td>매우 짧은 지속시간, 통증성 지속 경직 없음</td></tr><tr><td>척추관협착증/신경근병증</td><td>보행·기립 또는 특정 자세에서 악화되는 통증·저림; 허리 굴곡으로 호전될 수 있음</td><td>자세 의존성, 방사통·감각저하·근력저하 동반 가능</td></tr></tbody></table>
+<table><thead><tr><th width="150">질환</th><th width="260">NLC와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>하지불안증후군(RLS) (☞ <a href="036_-restless-legs-syndrome.md">하지불안증후군</a>)</td><td>안정 시 다리를 움직이고 싶은 충동이 핵심이며 움직이는 동안 호전되고 저녁/밤에 악화; 통증성 근육 수축은 진단 특징이 아님</td><td>"움직이고 싶은 충동" 중심 vs NLC는 "통증성 근육 경직"; 두 질환은 동반 가능</td></tr><tr><td>말초동맥질환/간헐성 파행</td><td>간헐성 파행은 보행·운동 시 유발되고 휴식 시 수분 내 호전; 중증 허혈은 안정 시/야간에도 통증 가능</td><td>운동 유발성, 말초맥박 저하, ABI 이상 가능</td></tr><tr><td>말초신경병증</td><td>화끈거림, 저림, 감각저하가 지속적이거나 야간에 악화; 별도의 근육 경련이 동반될 수도 있음</td><td>감각증상 중심, 신경학적 진찰 이상 가능</td></tr><tr><td>만성 정맥부전</td><td>다리의 무거움·부종·둔통이 장시간 서 있을 때 악화</td><td>부종, 피부 변화, 정맥류; 급성 근육 경직과 구별</td></tr><tr><td>근육통/근염(Myositis, myalgia)</td><td>급성 경련성 통증보다 지속적 통증·근력저하가 흔함; CK 상승 가능</td><td>통증의 지속성, 근력저하, 검사 소견</td></tr><tr><td>주기성 사지운동증(PLMD)</td><td>수면 중 반복적·상동적인 다리 움직임; 통증 없이 본인이 인지하지 못하는 경우가 많음</td><td>사지운동 자체(PLMS)와 PLMD를 구분; PLMD는 수면다원검사 소견과 임상적 수면/주간 기능장애를 확인하고 다른 원인을 배제</td></tr><tr><td>Hypnic myoclonus (입면기 근경련)</td><td>잠들 무렵 순간적인 전신 또는 사지의 튐; 통증이 일반적이지 않음</td><td>매우 짧은 지속시간, 통증성 지속 경직 없음</td></tr><tr><td>척추관협착증/신경근병증</td><td>보행·기립 또는 특정 자세에서 악화되는 통증·저림; 허리 굴곡으로 호전될 수 있음</td><td>자세 의존성, 방사통·감각저하·근력저하 동반 가능</td></tr><tr><td>섬유근육통(FM) (☞ <a href="153_-fibromyalgia.md">섬유근육통</a>)</td><td>3개월 이상 광범위 통증·피로·비회복성 수면 등이 주 양상; 순간적인 통증성 근육 경직과 구분</td><td>NLC·RLS와 동반 가능; FM 치료 약물의 효과를 NLC 예방 효과로 간주하지 않음</td></tr></tbody></table>
 
 ***
 
@@ -143,15 +145,15 @@ Red Flags가 없는 특발성 NLC는 비약물 치료가 1차입니다. 전형�
 * 온찜질 또는 따뜻한 목욕은 근육 이완에 도움이 될 수 있으며, 일부 환자는 냉찜질에서 증상 완화를 느낌
 * 탈수 위험이 있거나 수분 섭취가 부족한 경우에는 적절한 수분 섭취를 권고하되, 심부전·신부전 등 수분 제한이 필요한 환자는 개별 조정
 * 과도한 운동·장시간의 같은 자세 등 개인별 유발 요인을 줄이고, 무리가 없는 수준의 규칙적 신체활동 유지
-* 취침 전 calf + hamstring stretching : Cochrane 2021에서는 강도 감소의 근거 확실성은 낮고, 빈도 감소의 근거 확실성은 매우 낮음; 위험이 낮아 우선 시도하되 효과를 보장하지 않음. 종아리는 무릎을 편 상태에서 발목을 발등굽힘(dorsiflexion)하여 비복근을 신전하고, 햄스트링(허벅지 뒤쪽)도 함께 규칙적으로 스트레칭
+* 취침 전 calf + hamstring stretching : <mark style="color:$info;">Cochrane 2021</mark>에서는 강도 감소의 근거 확실성은 낮고, 빈도 감소의 근거 확실성은 매우 낮음; 위험이 낮아 우선 시도하되 효과를 보장하지 않음. 종아리는 무릎을 편 상태에서 발목을 발등굽힘(dorsiflexion)하여 비복근을 신전하고, 햄스트링(허벅지 뒤쪽)도 함께 규칙적으로 스트레칭
 * 취침 전 수 분간 가벼운 고정식 자전거 운동 등을 시도할 수 있음
-* Compression stockings(무릎 아래 의료용 압박스타킹) : 2026년 50~85세 121명 대상 3군 RCT에서 4주 관찰 후 4주간 **기상 직후부터 취침 전까지 주간 착용** 시 placebo 대비 경련 빈도 감소(보정 평균차 −1.43회/주; 95% CI −2.36~−0.50); 통증·경련 관련 야간 각성도 감소. 취침 중 착용 요법을 평가한 연구가 아님. 4명이 이상반응으로 중단하였으며 중대한 이상반응은 없었음
-* 압박스타킹의 적용 제한 : 말초동맥질환(의심 포함), 중증 신경병증/감각장애, eGFR <30 mL/min, 폐부종·심부전에 의한 심한 하지부종, 활동성 피부병변 등은 연구에서 제외됨. 적합성·규격·압박 강도를 개별 평가; 연구 제외가 곧 모든 상황에서 절대금기를 뜻하지는 않음. 착용군 눈가림이 불가능한 단일 단기 연구이므로 일률적 표준치료로 권고하기에는 근거가 부족함([Trials 2026;27:216](https://doi.org/10.1186/s13063-025-09370-z))
+* Compression stockings(무릎 아래 의료용 압박스타킹) : 2026년 50~85세 121명 무작위배정(주 분석 114명) 3군 RCT에서 4주 관찰 후 4주간 **기상 직후부터 취침 전까지 주간 착용** 시 placebo 대비 경련 빈도 감소(보정 평균차 −1.43회/주; 95% CI −2.36~−0.50); 통증·경련 관련 야간 각성도 감소. 취침 중 착용 요법을 평가한 연구가 아님. 4명이 이상반응으로 중단하였으며 중대한 이상반응은 없었음
+* 압박스타킹의 적용 제한 : 말초동맥질환(의심 포함), 중증 신경병증/감각장애, eGFR ＜30 mL/min, 폐부종·심부전에 의한 심한 하지부종, 활동성 피부병변 등은 연구에서 제외됨. 적합성·규격·압박 강도를 개별 평가; 연구 제외가 곧 모든 상황에서 절대금기를 뜻하지는 않음. 대상자 선정·결과 평가가 주로 자가보고에 의존하고 착용군 눈가림이 불가능한 단일 단기 연구이므로 일률적 표준치료로 권고하기에는 근거가 부족함 <mark style="color:$info;">([Trials 2026;27:216](https://doi.org/10.1186/s13063-025-09370-z))</mark>
 
 <figure><img src="../.gitbook/assets/야간경련1.png" alt=""><figcaption></figcaption></figure>
 
 종아리 스트레칭\
-Ref. Patient.info [Cramps in the Leg](https://patient.info/bones-joints-muscles/cramps-in-the-leg)
+<mark style="color:$info;">Ref. Patient.info [Cramps in the Leg](https://patient.info/bones-joints-muscles/cramps-in-the-leg)</mark>
 
 ***
 
@@ -163,25 +165,27 @@ Ref. Patient.info [Cramps in the Leg](https://patient.info/bones-joints-muscles/
 
 ### <mark style="color:orange;">Mg 제제</mark>
 
-* 특발성 NLC → 일률적 투여를 권장하지 않음 : 비임신 성인, 주로 고령자 대상 연구에서 일관된 유의한 예방 효과는 확인되지 않음(Cochrane 2020). Magnesium oxide monohydrate를 **60일** 투여한 단일 RCT에서는 빈도 감소가 보고되었으나 30일에는 유의한 차이가 없었으며, 이를 60일 이상 장기투여의 효과가 확립된 것으로 해석하지 않음; 특정 Mg 제형을 표준적으로 권고할 근거는 부족([Nutr J 2021;20:90](https://doi.org/10.1186/s12937-021-00747-9))
+* 특발성 NLC → 일률적 투여를 권장하지 않음 : 비임신 성인, 주로 고령자 대상 연구에서 일관된 유의한 예방 효과는 확인되지 않음 <mark style="color:$info;">(Cochrane 2020)</mark>. Magnesium oxide monohydrate를 **60일** 투여한 단일 RCT에서는 빈도 감소가 보고되었으나 30일에는 유의한 차이가 없었으며, 이를 60일 이상 장기투여의 효과가 확립된 것으로 해석하지 않음; 특정 Mg 제형을 표준적으로 권고할 근거는 부족 <mark style="color:$info;">([Nutr J 2021;20:90](https://doi.org/10.1186/s12937-021-00747-9))</mark>
 * 2026년 발표된 3군 RCT(compression stockings vs magnesium vs placebo, 50\~85세 121명)에서도 magnesium은 placebo 대비 유의한 차이가 없어(보정 평균차 −0.20; 95% CI −1.49\~1.09; *Trials* 2026;27:216) 해당 연구에서도 예방 효과를 입증하지 못함
 * 저마그네슘혈증 교정 목적 → 결핍이 확인되거나 강하게 의심되는 경우에는 원인 교정의 일부로 보충 가능
-* 신기능 저하에서는 Mg 축적 위험이 있으므로 주의
+* 신기능 저하에서는 Mg 축적 위험이 있으므로 주의; 설사·복통 등 위장관 부작용도 확인함
 
 ### <mark style="color:orange;">Vit B 복합체</mark>
 
 * 일부 소규모 RCT에서 효과 가능성이 보고되었으나 근거 수준은 낮아 일률적 치료로 권고하기 어려움
 * 비약물 치료에 반응하지 않는 환자에서 근거의 한계를 설명한 뒤 제한적으로 trial을 고려할 수 있음
 * 비타민 결핍 위험(영양불량, 과도한 음주, 위축성 위염, 위절제술 등)이 있으면 해당 결핍 여부를 별도로 평가
-* B6(pyridoxine) 함유 제품은 여러 보충제의 중복 복용과 장기 고용량 사용에 따른 말초신경병증 위험을 확인; NLC 치료 목적으로 고용량을 장기간 투여하지 않음
+* B6(pyridoxine) 함유 제품은 종합비타민·Mg/아연 복합제 등을 포함한 **전체 일일 섭취량과 중복 복용**을 확인함. 말초신경병증은 50 ㎎/d 미만에서도 보고되어 고용량·장기 복용에만 국한하지 않으며, 개인별 안전 하한이 확립되어 있지 않음. 새 손발 저림·화끈거림·감각저하가 나타나면 B6 보충제를 중단하고 평가함; NLC 목적으로 고용량을 장기간 투여하지 않음 <mark style="color:$info;">(TGA 안전성 공지)</mark>
 
 ### <mark style="color:orange;">non-DHP CCB</mark>
 
-* Diltiazem : 극소규모 이중맹검 crossover 연구(N=13, 2주)에서 경련 빈도 감소가 보고되었으나(경련 강도에는 효과 없음) 표본이 매우 작고 방법론적 세부사항이 부족하여, 근거가 매우 제한적인 허가 외 선택지([Age Ageing 2001;30:91-92](https://doi.org/10.1093/ageing/30.1.91))
+* Diltiazem : 극소규모 이중맹검 crossover 연구(N=13, 2주)에서 경련 빈도 감소가 보고되었으나(경련 강도에는 효과 없음) 표본이 매우 작고 방법론적 세부사항이 부족하여, 근거가 매우 제한적인 허가 외 선택지 <mark style="color:$info;">([Age Ageing 2001;30:91-92](https://doi.org/10.1093/ageing/30.1.91))</mark>
 * Verapamil : 신뢰할 만한 무작위 대조 근거가 부족하여 일률적 치료로 권고하지 않음
 * 빈번하고 심한 NLC가 비약물 치료에 반응하지 않을 때, 2주간의 diltiazem trial 후 경련 빈도·강도로 재평가
-* 저혈압, 서맥, 동기능부전/방실전도장애 및 심부전을 확인. 중증 울혈성 심부전, 수축기혈압 <90 mmHg, 박동기 없는 동기능부전·2/3도 방실차단, 임신·임신 가능성 및 ivabradine 병용은 국내 허가상 금기; 수유 중에는 투여를 피함
+* 저혈압, 서맥, 동기능부전/방실전도장애 및 심부전을 확인. 중증 울혈성 심부전, 수축기혈압 ＜90 mmHg, 박동기 없는 동기능부전·2/3도 방실차단, 임신·임신 가능성 및 ivabradine 병용은 국내 허가상 금기; 수유 중에는 투여를 피함
 * β차단제·digoxin 등 심박수 저하 약물과 CYP3A4 관련 상호작용을 확인하고, 투여 전·중 혈압과 맥박을 평가; 전도장애 단서가 있으면 심전도 확인
+  * 통풍으로 colchicine을 복용 중이면 diltiazem·verapamil이 colchicine 노출·독성을 증가시킬 수 있으므로 병용 대안·감량 필요성과 제품별 금기를 확인함(152 참조). 단순히 30 ㎎ 저용량이라는 이유로 상호작용을 배제하지 않음
+  * Simvastatin·lovastatin 병용 시 노출 증가로 근육병증·횡문근융해증 위험이 높아질 수 있음. 대체 statin 또는 제품별 용량 제한을 검토하고 근육통·근력저하·진한 소변이 나타나면 평가함
 * 연구 용량의 예 : diltiazem 30 ㎎ 취침 전 <mark style="color:blue;">[헤르벤정]</mark>; 국내 허가 효능은 협심증·본태성고혈압이며, **NLC 치료와 이 용법은 허가 외 사용**. 헤르벤서방정 90 ㎎·서방캡슐 180 ㎎으로 대체하여 동일한 시험 용법으로 간주하지 않음
 
 ### <mark style="color:orange;">Gabapentin</mark>
@@ -190,6 +194,7 @@ Ref. Patient.info [Cramps in the Leg](https://patient.info/bones-joints-muscles/
 * 당뇨병성 신경병증성 통증·대상포진 후 신경통 등 gabapentin 치료가 적절한 별도 신경병증성 통증이 동반된 경우에만 해당 질환 치료로 고려
 * 단순히 신경근병증/좌골신경통이 있다는 이유만으로 사용하지 않음; NICE NG59는 좌골신경통에 gabapentinoid를 권고하지 않음
 * 고령자는 졸림·어지럼·낙상 위험과 신기능을 고려하여 용량·증량 속도 조절; opioid 등 중추신경 억제제 병용 또는 호흡기질환에서는 호흡억제 위험에 주의
+* Gabapentin 용량 조절에는 허가사항의 CrCl 기준을 적용함(001의 신기능별 용량표 참조). NSAID·acetaminophen은 경련 예방약이 아니며, 별도 통증에 쓰더라도 야간 경련 치료로 장기 처방하지 않음
 * 지속 복용 후 감량·중단은 적어도 1주 이상에 걸쳐 점진적으로 시행
 
 ### <mark style="color:orange;">근이완제</mark>
@@ -214,7 +219,7 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 * 약물·비약물 치료에도 지속되는 중증 경련에서는 진단을 재평가하고, 필요 시 신경과·재활의학과 등 관련 진료과 의뢰
-* Botulinum toxin 국소 주사 : 국내 요추관협착증 동반 야간 종아리 경련 환자 50명 대상 연구에서 효과가 보고되었으나, 특발성 NLC 전체에 일반화하지 않음. NLC 목적은 허가 외 사용이며 일률적 치료가 아님; 해당 기저질환 평가 후 전문과에서 제한적으로 검토([Arch Phys Med Rehabil 2017;98:957-963](https://doi.org/10.1016/j.apmr.2017.01.017))
+* Botulinum toxin 국소 주사 : 국내 요추관협착증 동반 야간 종아리 경련 환자 50명 대상 연구에서 효과가 보고되었으나, 특발성 NLC 전체에 일반화하지 않음. NLC 목적은 허가 외 사용이며 일률적 치료가 아님; 해당 기저질환 평가 후 전문과에서 제한적으로 검토 <mark style="color:$info;">([Arch Phys Med Rehabil 2017;98:957-963](https://doi.org/10.1016/j.apmr.2017.01.017))</mark>
 
 ***
 
@@ -261,8 +266,9 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 
 > **마그네슘**
 >
-> * 특발성 NLC에서 routine 복용의 효과는 확실하지 않으며, 특히 단기간 사용은 유의한 이득이 확인되지 않았습니다.
+> * 특발성 NLC의 예방 효과는 일관되게 확인되지 않았으며, 복용 기간을 늘리면 효과가 확립되는 것으로 해석하지 않습니다.
 > * 신장기능이 저하된 환자는 마그네슘 축적 위험이 있으므로 임의 복용을 피하고 의료진과 상의합니다.
+> * 마그네슘·종합비타민 제품에 B6가 함께 들어 있는지 확인합니다. 새 손발 저림·화끈거림·감각저하가 생기면 B6 보충제를 중단하고 상담합니다.
 
 > **Diltiazem**
 >
@@ -310,6 +316,7 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 * 탈수가 의심되거나 평소 수분 섭취가 적다면 적절한 수분을 섭취하십시오. 다만 심장·신장 질환으로 수분 제한이 있는 경우 담당의와 상의하십시오.
 * 과도한 운동이나 오랜 시간 같은 자세로 있는 것이 경련을 유발한다면 이를 줄이십시오.
 * 최근 새로 시작했거나 용량을 변경한 약이 있다면 의료진에게 알리십시오.
+* 의료용 압박스타킹의 낮 시간 착용에서 도움이 된 소규모 연구가 있지만, 다리 혈액순환·감각·피부 상태를 먼저 확인하고 의료진과 선택하십시오. 연구는 잠자는 동안 착용하는 방법을 평가한 것이 아닙니다.
 
 #### <mark style="color:$primary;">약은 꼭 먹어야 하나요?</mark>
 
@@ -326,10 +333,11 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 * 회음부 감각이 둔해지거나 갑자기 소변이 나오지 않거나 소변·대변 조절에 문제가 생길 때(허리 통증이 심하지 않아도 해당)
 * 임신·출산 후 심한 두통, 시야 이상, 명치/오른쪽 윗배 통증 또는 숨참이 생길 때
 
-
 ***
 
-### 참고문헌
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * Garrison SR, et al. Nocturnal leg cramps and prescription use that precedes them: a sequence symmetry analysis. Arch Intern Med. 2012;172:120-126. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22157068/)
 * Garrison SR, et al. Magnesium for skeletal muscle cramps. Cochrane Database Syst Rev. 2020;9:CD009402. [Cochrane](https://www.cochrane.org/evidence/CD009402_magnesium-muscle-cramps)
@@ -338,13 +346,17 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 * Barna O, et al. A randomized, double-blind, placebo-controlled, multicenter study assessing the efficacy of magnesium oxide monohydrate in the treatment of nocturnal leg cramps. Nutr J. 2021;20:90. [원문](https://doi.org/10.1186/s12937-021-00747-9)
 * Kuusipalo A, et al. Secondary prevention of leg cramps using compression stockings or magnesium supplements: a three-arm randomized clinical trial. Trials. 2026;27:216. [원문](https://doi.org/10.1186/s13063-025-09370-z)
 * Voon WC, Sheu SH. Diltiazem for nocturnal leg cramps. Age Ageing. 2001;30:91-92. [원문](https://doi.org/10.1093/ageing/30.1.91)
-* Tan J, et al. Vitamin K₂ in Managing Nocturnal Leg Cramps: A Randomized Clinical Trial. JAMA Intern Med. 2024;184:1443-1448. 2025년 수정 재출판본 기준. [원문](https://doi.org/10.1001/jamainternmed.2024.5726)
+* Tan J, et al. Vitamin K₂ in Managing Nocturnal Leg Cramps: A Randomized Clinical Trial. JAMA Intern Med. 2024;184(12):1443-1447. 2025년 수정 재출판본 기준. [원문](https://doi.org/10.1001/jamainternmed.2024.5726)
 * Tan J, Zhu R. Notice of Retraction and Replacement. JAMA Intern Med. 2025;185:904. [공지](https://doi.org/10.1001/jamainternmed.2025.2160)
 * Park SJ, et al. Botulinum Toxin Treatment for Nocturnal Calf Cramps in Patients With Lumbar Spinal Stenosis: A Randomized Clinical Trial. Arch Phys Med Rehabil. 2017;98:957-963. [원문](https://doi.org/10.1016/j.apmr.2017.01.017)
 * NICE. Low back pain and sciatica in over 16s: assessment and management (NG59). [권고](https://www.nice.org.uk/guidance/ng59/chapter/recommendations)
 * NICE. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing (NG158). [권고](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations)
 * NICE. Hypertension in pregnancy: diagnosis and management (NG133). [권고](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
-* HK이노엔. [헤르벤정 제품정보](https://www.inno-n.com/business/medicine/view?bpc_cd=P107&no=193); 국내 허가사항 전재: [약학정보원](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0100A0199)
-* 비아트리스코리아. [뉴론틴캡슐 국내 제품설명서](https://www.viatris.co.kr/-/media/project/common/viatriscokr/pdf/product-chart/updated-pdfs/neurontin-cap_20240513.pdf)
 * TGA. [Peripheral neuropathy with supplementary vitamin B6 (pyridoxine)](https://www.tga.gov.au/news/safety-updates/peripheral-neuropathy-supplementary-vitamin-b6-pyridoxine)
 * FDA/DailyMed. [Quinine sulfate boxed warning 및 사용상 주의사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f567d5c7-ea5d-49a7-a035-b47208135f73)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 헤르벤정·뉴론틴캡슐 등의 국내 적응증·용법·금기 확인. Diltiazem의 NLC 치료는 허가 외 사용이며, gabapentin은 별도 신경병증성 통증 적응증과 구분함.
+
+* FDA/DailyMed. [Diltiazem hydrochloride tablets — Statins.](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b733c439-905b-4e8f-8fc0-acde148974c4&type=display) — simvastatin·lovastatin 노출 증가와 근육 독성; 수치상 용량 제한은 국내 선택 제품의 허가사항과 구분하여 적용함.

@@ -45,29 +45,32 @@
 
 #### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 외상 후 움직일 수 없음/체중 부하 불가, 뚜렷한 하지 변형·단축, 신경혈관 이상 또는 심한 출혈 → 골절·탈구 의심; 응급 평가. 고령자에서는 경미한 낙상만으로도 골절이 발생할 수 있음
-  * 전위된 대퇴골 경부/전자부 골절에서는 외회전·단축이 흔함; 후방 고관절 탈구에서는 굴곡·내전·내회전 자세가 흔함. 외회전 소견이 없다고 골절·탈구를 배제하지 않음
-* 급성 비외상성 심한 고관절 통증, 체중 부하 불가 또는 현저한 수동 ROM 통증/제한 ± 발열·국소 열감/홍반 → 화농성 관절염 의심; 고령, 당뇨병, 면역저하, 최근 관절 시술/인공관절 치환술 병력이 있는 환자는 발열이 없어도 배제하지 않음
-  * 소아에서 **Kocher–Caird(수정 Kocher) 기준**(발열 >38.5°C, 체중 부하 불가, ESR>40 mm/h, WBC>12,000/mm³, CRP>20 mg/L)은 화농성 관절염과 일과성 활막염 감별의 보조 도구임. 임상적으로 감염이 의심되면 기준 개수나 CRP 수치와 관계없이 즉시 평가하고, 정형외과 협진 및 관절 천자를 고려
-  * CRP 상승은 의심을 높이는 보조 소견이지만 비특이적이며, CRP 단독 상승으로 화농성 관절염을 진단하거나 정상 수치로 배제할 수 없음
-  * 미취학 아동에서 발열·염증 소견이 뚜렷하지 않을 수 있음. 확진 환자 129명(3개월~5세)을 대상으로 한 연구에서 Kocher 기준 ≥3개 또는 수정 기준 ≥4개의 민감도는 각각 56.6%였음. _Kingella kingae_ 감염에서도 전형적인 기준이 충족되지 않을 수 있으므로 기준 미충족만으로 안심하지 않음 [Hagedoorn et al. J Pediatr Orthop 2023;43:e608–e613; doi:10.1097/BPO.0000000000002441]
-* 급성 또는 빠르게 진행하는 하지 위약·감각 소실, 회음부 감각 저하, 새로 발생한 요폐/요실금·대변 조절 이상 → cauda equina syndrome 등 급성 신경학적 응급질환 의심, 응급 이송
-* 청소년에서 급성 고관절·서혜부·무릎 통증과 보행 불가 → 불안정 SCFE 의심; 체중 부하·유발검사를 금지하고 즉시 정형외과 응급 평가
+* 외상 후 체중 부하 불가, 뚜렷한 하지 변형·단축, 신경혈관 이상 또는 심한 출혈  `골절·탈구`
+* 급성 비외상성 심한 고관절 통증, 체중 부하 불가 또는 현저한 수동 ROM 통증/제한 ± 발열·열감; 고령·당뇨병·면역저하·최근 관절 시술/인공관절 병력에서는 발열이 없어도 주의  `화농성 관절염`
+* 급성 또는 빠르게 진행하는 하지 위약·감각 소실, 회음부 감각 저하, 새로 발생한 요폐/요실금·대변 조절 이상  `마미증후군 등 신경학적 응급`
+* 청소년의 고관절·서혜부·무릎 통증과 절뚝거림, 고관절 내회전 제한 또는 굴곡 시 비자발적 외회전; 만성·서서히 진행하는 증상도 포함  `SCFE 의심`
+
+✽골절·탈구·감염·급성 신경학적 응급질환은 즉시 응급 평가/이송. **SCFE가 의심되면 즉시 체중 부하를 금지하고 정형외과에 긴급 의뢰하여 당일 평가**함; 내원 전 목발 도움으로도 보행이 불가능했거나 급격히 악화하면 불안정 SCFE 가능성이 있어 응급 이송하며 frog-leg 자세·유발검사를 강요하지 않음. 평가 전에는 휠체어·침상으로 이동하며 보행 가능 여부를 다시 시험하지 않음. 다른 의심 골절도 평가 전 체중 부하를 금지함 <mark style="color:$info;">[RCH SUFE 응급 지침]</mark>.
+
+✽전위된 대퇴골 경부/전자부 골절에서는 외회전·단축, 후방 고관절 탈구에서는 굴곡·내전·내회전 자세가 흔함. 전형적 자세가 없다고 골절·탈구를 배제하지 않으며, 고령자에서는 경미한 낙상만으로도 골절 가능.
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 의도하지 않은 체중 감소, 암 병력, 지속·진행하는 휴식통/야간통 → 골 전이 등 악성 종양 평가; 야간통만으로 악성 종양을 단정하지 않음
-* 고령자의 낙상·경미한 외상 후 지속되는 고관절/서혜부 통증, 특히 체중 부하 곤란 (당일) → X선이 정상이거나 불확실해도 불현성 골절 의심; 체중 부하를 금지하고 당일 추가 영상검사 및 정형외과 평가 (☞ 불현성 골절)
-* 청소년의 급성/아급성 고관절·서혜부·무릎 통증(특히 비만, 내회전 제한) (당일) → 대퇴골두 골단분리증(SCFE) 의심; 체중 부하를 금지하고 당일 정형외과 평가. 보행 불가/불안정 SCFE가 의심되면 즉각 조치로 상향하고 frog-leg 자세를 강요하지 않음
-* 운동·훈련 증가 후 지속되는 체중 부하성 서혜부 통증, 특히 절뚝거림 동반 (당일) → 대퇴골경부 피로골절 의심; 운동·체중 부하 중단, X선이 정상이면 비조영 MRI 우선 고려
-* glucocorticoid 사용·과음 등 위험 인자와 지속되는 서혜부 통증 → 골괴사 가능성을 조기에 평가; X선 정상이어도 MRI 및 정형외과 의뢰 고려
+* 고령자의 낙상·경미한 외상 후 지속되는 고관절/서혜부 통증, 특히 체중 부하 곤란 **(당일)**  `불현성 골절`
+* 운동·훈련 증가 후 지속되는 체중 부하성 서혜부 통증, 특히 절뚝거림 동반 **(당일)**  `대퇴골경부 피로골절`
+* 의도하지 않은 체중 감소, 암 병력, 지속·진행하는 휴식통/야간통  `악성 질환 감별`
+* glucocorticoid 사용·과음 등 위험 인자와 지속되는 서혜부 통증  `골괴사 의심`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+✽의심 골절은 운동·체중 부하를 중단하고 당일 추가 영상검사·정형외과 평가. 초기 X선이 정상이어도 배제하지 않음(☞ 불현성 골절). 골괴사는 X선 정상이어도 MRI·조기 의뢰를 고려함. 야간통 단독으로 악성 종양을 단정하지 않음.
 
-* 초기 보존적 치료 후 통증·보행·기능을 2\~4주 내 재평가; 악화 시 조기 재평가. 지속적인 외전 약화·Trendelenburg 소견, 기계적 잠김 또는 호전 없는 통증은 추가 영상검사·의뢰 고려
-* 소아의 절뚝거림은 성인과 같은 수 주 관찰 원칙을 적용하지 않음; 진단이 불확실하면 조기 추적, 7일 이상 지속되거나 재발하면 추가 평가 (☞ 소아·청소년의 고관절 통증)
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 초기 보존적 치료에도 지속되는 통증·보행/기능 저하, 지속적인 외전 약화·Trendelenburg 소견 또는 기계적 잠김  `추가 평가 필요`
+* 소아의 지속·재발하는 절뚝거림 또는 불확실한 진단  `소아 고관절 질환`
+
+✽성인은 초기 치료 후 2\~4주 내 재평가하되 악화 시 앞당김. 소아에게 같은 수 주 관찰 원칙을 적용하지 않으며, 증상이 지속되면 발생 7일 이내 재평가하고 7일 이상 지속/재발하면 추가 평가함. 보행 불가·발열·악화 시 즉시 재평가(☞ 소아·청소년의 고관절 통증).
 
 ***
 
@@ -82,11 +85,12 @@
 
 #### <mark style="color:orange;">영상 검사</mark>
 
-* X선 검사 : 외상성 골절 의심 또는 지속되는 비외상성 통증의 초기 영상검사; 정상 X선만으로 불현성 골절이나 초기 골괴사를 배제하지 않음
+* X선 검사 : 외상성 골절 의심 또는 원인 불명의 지속되는 비외상성 통증에서 영상검사가 필요하면 우선 선택; 정상 X선만으로 불현성 골절이나 초기 골괴사를 배제하지 않음
   * 급성 외상 : AP pelvis + 증상측 hip lateral view; 골절 의심 시 아픈 고관절을 무리하게 움직이는 자세는 피함
-  * SCFE 의심 청소년 : 양측 고관절이 포함된 AP pelvis 및 측면상으로 평가; 불안정 SCFE가 의심되면 frog-leg lateral 대신 환측 cross-table lateral view 고려 [POSNA, SCFE Study Guide]
+  * SCFE 의심 청소년 : 양측 고관절이 포함된 AP pelvis 및 측면상으로 평가; 불안정 SCFE가 의심되면 frog-leg lateral 대신 환측 cross-table lateral view 고려 <mark style="color:$info;">[POSNA, SCFE Study Guide]</mark>
   * 만성/비외상성 통증 : AP pelvis ± lateral view로 OA·FAI·dysplasia 등 구조적 병변 평가; 필요 시 체중 부하 AP 촬영. FAI(cam/pincer 형태) 감별에는 Dunn 45° view 등 추가 측면상으로 대퇴골두-경부 이행부 평가. 영상상 형태 이상만으로 FAI 증후군을 진단하지 않음
-  * 외상 후 X선이 음성·불확실하나 불현성 골절이 의심되면 비조영 MRI 또는 CT로 신속히 평가(ACR 2024에서는 둘 다 적절). NICE CG124는 MRI를 우선 권고하며 24시간 내 MRI 불가 또는 금기이면 CT를 고려; CT 음성 후에도 의심이 지속되면 MRI 시행. 골수 병변(불현성 골절, 골괴사 등) 평가에는 MRI가 특히 유용 (☞ Red Flags) [ACR Appropriateness Criteria, Acute Hip Pain: 2024 Update]
+  * 외상 후 X선이 음성·불확실하나 불현성 골절이 의심되면 비조영 MRI 또는 CT로 신속히 평가(ACR 2024에서는 둘 다 적절). NICE CG124는 MRI를 우선 권고하며 24시간 내 MRI 불가 또는 금기이면 CT를 고려; CT 음성 후에도 의심이 지속되면 MRI 시행. 골수 병변(불현성 골절, 골괴사 등) 평가에는 MRI가 특히 유용 (☞ Red Flags) <mark style="color:$info;">[ACR Appropriateness Criteria, Acute Hip Pain: 2024 Update]</mark>
+* ✽45세 이상에서 활동 관련 관절통과 아침 강직이 없거나 30분 이내인 전형적 OA 양상은 임상적으로 진단 가능하며, 다른 원인·비전형적 소견이 없으면 진단·비수술 치료 추적 목적으로 영상을 일률적으로 시행하지 않음 <mark style="color:$info;">[NICE NG226]</mark>
 * MRI : 진찰·초기 영상검사에서 의심한 병변을 확인할 필요가 있을 때(특히 대퇴골두 osteonecrosis, labral tear, 불현성 골절); 관절순 파열 의심 시 고해상도 3-T hip protocol MRI로 평가 가능하며, 장비·판독 경험·임상 상황에 따라 MR arthrography 고려. 무증상자에게도 관절순 영상 이상이 있으므로 증상·진찰과 함께 해석 _✽전통적으로 MR arthrography가 labral tear의 diagnostic test of choice로 여겨져 왔으나(AFP 2014), 최근에는 3-T non-arthrographic MRI의 진단 정확도가 개선되어 장비·판독 경험에 따라 우선 고려되기도 함_
   * ✽Osteonecrosis 초기(Stage I)는 X선상 정상으로 보이는 경우가 흔함; 고용량/장기간 glucocorticoid 사용, 과음 등 위험 인자가 있는 환자가 지속적인 서혜부 통증을 호소하면 X선이 정상이더라도 조기 MRI를 고려
 * 초음파 : 둔근힘줄·점액낭·관절삼출 평가 및 snapping hip의 동적 관찰, 천자·주사 유도에 유용; 관절삼출만으로 일과성 활막염과 화농성 관절염을 구분할 수 없음
@@ -95,7 +99,7 @@
 
 #### <mark style="color:orange;">실험실 검사</mark>
 
-* 관절 천자(joint aspiration) : 자가 관절의 화농성 관절염이 의심되면 신속히 시행(고관절은 보통 영상 유도하); 활액의 배양·Gram 염색, WBC/호중구 비율, 결정 검사를 시행하고 필요 시 혈액배양 채취. 활액 세포수·Gram 염색·배양의 음성 결과 하나만으로 감염을 배제하지 않음. 가능하면 검체 채취 후 경험적 항생제 시작; 패혈증·패혈성 쇼크에서는 항생제 투여를 지연하지 않음 [EBJIS SANJO guideline. J Bone Jt Infect 2023;8:29–37]
+* 관절 천자(joint aspiration) : 자가 관절의 화농성 관절염이 의심되면 신속히 시행(고관절은 보통 영상 유도하); 활액의 배양·Gram 염색, WBC/호중구 비율, 결정 검사를 시행하고 필요 시 혈액배양 채취. 활액 세포수·Gram 염색·배양의 음성 결과 하나만으로 감염을 배제하지 않음. 가능하면 검체 채취 후 경험적 항생제 시작; 패혈증·패혈성 쇼크에서는 항생제 투여를 지연하지 않음 <mark style="color:$info;">[EBJIS SANJO guideline. J Bone Jt Infect 2023;8:29–37]</mark>
 * Bursal aspiration : 통상적인 GTPS/trochanteric bursitis에서는 일반 진단검사로 사용하지 않으며, 감염성 점액낭염 또는 crystal disease 등이 의심되는 특별한 상황에서 선택적으로 고려
 * 혈액 검사 : 단순 기계적 통증에 일률적으로 시행하지 않음; 감염·염증성 관절질환·악성 질환 등 임상 의심에 따라 CBC, ESR, CRP 등을 선택. 염증성 질환이 의심되면 관련 증상에 맞춰 추가 검사·의뢰
 * 소아 화농성 관절염 의심 시 : CBC, ESR, CRP 및 영상검사로 평가하되, 수치가 정상이거나 예측기준을 충족하지 않아도 배제하지 않음. 정형외과와 신속히 상의하여 관절 천자 및 배양을 포함한 진단·치료 결정
@@ -152,7 +156,7 @@
 <mark style="color:$primary;">**Straight leg raise(SLR) test**</mark>
 
 * [방법 ](https://www.aafp.org/afp/2014/0101/p27): 누운 자세에서 다리를 쭉 펴고 힘을 뺀 상태에서 하지를 수동 거상
-  * 30\~70° 거상 시 무릎 아래로 방사되는 좌골신경성 통증이 재현되면 lumbar nerve-root irritation/radiculopathy 시사(발목 배굴 시 악화, 무릎/고관절 굴곡 시 완화)
+  * 30\~70° 거상 시 무릎 아래로 방사되는 좌골신경성 통증이 재현되면 lumbar nerve-root irritation/radiculopathy 시사(발목 배굴 시 악화될 수 있으며, 무릎을 굽히거나 고관절 거상 각도를 낮추면 완화될 수 있음)
   * 70° 이상에서의 후대퇴부 국소 당김·통증만으로는 양성으로 판단하지 않으며 hamstring tightness 또는 hip/posterior soft-tissue origin 고려
 * 고관절 자체 질환의 진단검사가 아니라 lumbar radiculopathy와 연관통 감별에 주로 사용
 
@@ -160,7 +164,7 @@
 
 * 방법 : 건측을 아래로 하여 옆으로 눕히고 골반을 고정; 검사측 무릎을 약 90° 굴곡한 상태에서 고관절을 외전·신전한 뒤, 다리를 지지하며 천천히 내전시켜 가동범위·증상을 확인. 무릎을 편 modified Ober 변형도 있음
 * 해석 : 골반이 기울어지는 보상 없이 내전이 제한되면 양성 소견으로 기록; 통증 여부를 별도로 기록. 특정 둔근을 각각 검사하거나 장경인대 단축·GTPS를 확진하는 검사로 사용하지 않음
-* 사체 연구에서 장경인대 절단 후에도 내전 범위가 유의하게 변하지 않았고 둔근·관절낭의 영향이 확인되어, 장경인대의 긴장도를 단독 측정하는 검사로서 타당성이 제한됨 [Willett et al. Am J Sports Med 2016;44:696–701]
+* 사체 연구에서 장경인대 절단 후에도 내전 범위가 유의하게 변하지 않았고 둔근·관절낭의 영향이 확인되어, 장경인대의 긴장도를 단독 측정하는 검사로서 타당성이 제한됨 <mark style="color:$info;">[Willett et al. Am J Sports Med 2016;44:696–701]</mark>
 
 <mark style="color:$primary;">**기타**</mark>
 
@@ -183,7 +187,7 @@ _<mark style="color:$info;">(Ref. Evaluation of the Patient with Hip Pain. AFP 2
 
 <table><thead><tr><th width="180">진단</th><th width="360">임상 양상</th><th>병력/위험 인자</th></tr></thead><tbody><tr><td><strong>Meralgia paresthetica</strong></td><td>(외측대퇴피신경 압박에 의한) 대퇴 전외측 감각 저하·저림·화끈거림; 순수 감각신경 병변으로 근력·심부건반사는 보존. 위약·반사 변화가 있으면 요추 신경근병증 등 다른 원인을 평가</td><td>복부 비만, 임신, 조이는 내의</td></tr><tr><td><strong>운동선수의 서혜부 통증</strong><br>(과거 athletic pubalgia / sports hernia로 통칭)</td><td>내전근 관련: 국소 압통 및 저항성 내전 시 통증; 장요근 관련: 압통, 저항성 굴곡/신전 스트레칭 시 통증; 서혜관 관련: 서혜관 부위 통증·압통, 저항성 복근 수축·기침/Valsalva 시 악화 가능; 치골 관련: 치골결합 부위 압통. 실제 탈장 및 관절 내 원인과 감별</td><td>심한 운동(예: 축구, 럭비, 하키, 역도)</td></tr></tbody></table>
 
-✽운동선수의 서혜부 통증은 여러 병태가 겹칠 수 있음. Doha agreement는 모호한 sports hernia/athletic pubalgia보다 내전근·장요근·서혜관·치골 관련 임상 분류를 권장 [Br J Sports Med 2015;49:768–774]
+✽운동선수의 서혜부 통증은 여러 병태가 겹칠 수 있음. Doha agreement는 모호한 sports hernia/athletic pubalgia보다 내전근·장요근·서혜관·치골 관련 임상 분류를 권장 <mark style="color:$info;">[Br J Sports Med 2015;49:768–774]</mark>
 
 <mark style="color:$primary;">**Anterolateral hip and groin pain**</mark>
 
@@ -224,7 +228,7 @@ _\*Conditions associated with Greater trochanter pain syndrome_
 * 임상 양상 : 서혜부/전방 고관절 통증, 체중 부하 시 악화, 보행 장애 및 고관절 수동 운동 시 통증. 개별 유발검사 양성만으로 골절을 확진하거나 배제하지 않음
 * 검사 : 초기 X선이 정상일 수 있음. 골절 의심 시 체중 부하·운동을 중단하고 신속히 추가 영상검사
   * 외상 후 불현성 골절 : 비조영 MRI 또는 CT가 적절; NICE는 MRI 우선, 24시간 내 불가/금기 시 CT 고려. CT 음성 후에도 의심이 남으면 MRI
-  * 대퇴골경부 피로/불충분골절 : X선 음성·불확실 시 비조영 MRI 우선; 초기 골수 변화 평가에 유리하며, 재촬영만 기다리며 운동을 지속하지 않음 [ACR Stress Fracture: 2024 Update]
+  * 대퇴골경부 피로/불충분골절 : X선 음성·불확실 시 비조영 MRI 우선; 초기 골수 변화 평가에 유리하며, 재촬영만 기다리며 운동을 지속하지 않음 <mark style="color:$info;">[ACR Stress Fracture: 2024 Update]</mark>
 * 고령자의 경도 외상 후 지속 통증·체중 부하 곤란, 또는 운동선수의 지속되는 활동 관련 서혜부 통증에서 특히 주의 (☞ Red Flags)
 
 #### <mark style="color:orange;">소아·청소년의 고관절 통증</mark>
@@ -232,8 +236,9 @@ _\*Conditions associated with Greater trochanter pain syndrome_
 * 고관절 병변은 절뚝거림·대퇴부 또는 무릎 통증만으로 나타날 수 있음; 양측 고관절 및 인접 관절을 평가
 * 일과성 활막염(transient synovitis) : 감염 등 긴급 원인을 배제한 뒤 고려. 진통 후 보행 가능하고 전신 상태가 양호한 저위험 환자는 휴식·체중별 진통제와 추적 계획을 세워 관찰; 증상이 지속되면 절뚝거림 발생 7일 이내 재평가; 악화·발열·보행 불가 시 즉시 재평가, 7일 이상 지속/재발하면 추가 평가
 * Perthes disease : 지속되는 절뚝거림·내회전/외전 제한을 보이면 영상검사 및 소아정형외과 평가
-* SCFE : 비만 청소년에서 흔하지만 정상 체중에서도 발생; 내회전 제한 및 굴곡 시 비자발적 외회전이 단서. 의심 시 체중 부하 금지·당일 의뢰, 보행 불가이면 응급 평가
-* 초음파상 삼출이나 Kocher–Caird 기준 미충족만으로 화농성 관절염을 배제하지 않음 (☞ Red Flags) [RCH, The limping or non-weight bearing child; POSNA SCFE Study Guide]
+* SCFE : 비만 청소년에서 흔하지만 정상 체중에서도 발생; 내회전 제한 및 굴곡 시 비자발적 외회전이 단서. 의심 시 즉시 체중 부하 금지·정형외과 긴급 의뢰 및 당일 평가, 내원 전 목발 도움으로도 보행이 불가능했다면 응급 이송
+* 소아 화농성 관절염 감별 : **Kocher–Caird(수정 Kocher) 기준**은 발열 ＞38.5°C, 체중 부하 불가, ESR ＞40 ㎜/h, WBC ＞12,000/㎣, CRP ＞20 ㎎/L를 사용하는 보조 도구임. CRP 상승은 비특이적이며 정상 수치·기준 미충족으로 감염을 배제하지 않음. 확진 환자 129명(3개월\~5세)의 연구에서 Kocher 기준 ≥3개 또는 수정 기준 ≥4개의 민감도는 각각 56.6%였음; _Kingella kingae_ 감염은 발열·염증 소견이 경미할 수 있음. 감염 의심 시 기준 개수와 관계없이 신속한 정형외과 평가·관절 천자/배양을 고려함 <mark style="color:$info;">[Hagedoorn et al. J Pediatr Orthop 2023;43:e608–e613]</mark>
+* 초음파상 삼출이나 Kocher–Caird 기준 미충족만으로 화농성 관절염을 배제하지 않음 (☞ Red Flags) <mark style="color:$info;">[RCH, The limping or non-weight bearing child; POSNA SCFE Study Guide]</mark>
 
 ***
 
@@ -315,21 +320,23 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 
 #### <mark style="color:orange;">진통제</mark>
 
-* NSAID : ibuprofen 200\~400 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>, naproxen 250\~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>; 필요 시 증상·위험도에 따라 증량 가능하나 고용량은 최소 기간만 사용 _✽국내 식약처 허가사항상 경증·중등도 동통에는 ibuprofen 1회 200\~400 ㎎, 1일 3\~4회이며, 관절염 등에는 1회 200\~600 ㎎까지(1일 최고 3,200 ㎎) 사용 가능_
+* NSAID : ibuprofen 200\~400 ㎎ tid <mark style="color:blue;">\[부루펜]</mark>, naproxen은 고관절 OA에서 250~500 ㎎ bid <mark style="color:blue;">\[낙센]</mark>; 필요 시 증상·위험도에 따라 증량 가능하나 고용량은 최소 기간만 사용 _✽국내 식약처 허가사항상 경증·중등도 동통에는 ibuprofen 1회 200\~400 ㎎, 1일 3\~4회이며, 관절염 등에는 1회 200\~600 ㎎까지(1일 최고 3,200 ㎎) 사용 가능_
+  * 급성 연부조직 통증·GTPS에 naproxen을 사용하는 경우 골격근장애·건염·윤활낭염 용법(초회 500 ㎎ 후 250 ㎎ q6~8h, 초회량 포함 최대 1,250 ㎎/d)을 구분하고 최소 유효 용량으로 조절함
+  * 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함 <mark style="color:$info;">[국내 제품 허가사항]</mark>
 * acetaminophen 일반정 : 500\~1,000 ㎎, 4시간 이상 간격을 두고 필요 시 1일 최대 3회 <mark style="color:blue;">\[타이레놀정 500 ㎎]</mark>; 이 챕터에서는 총 3,000 ㎎/일 이내를 기본 상한으로 적용하며, 간질환·과음·저체중·영양불량이 있으면 추가 감량/회피를 개별 판단 _✽AAOS 2023 hip OA 가이드라인에서 NSAID는 강력 권고(Strong)인 반면, acetaminophen은 근거 불충분으로 Option(Consensus) 수준에 그침 - 1차 선택제는 아니며, NSAID 금기/불내약성이 있으면 단기·간헐적 대안으로 고려; 고령 자체만으로 자동 선택하지 않음_
 
-* ✽Acetaminophen 650 ㎎ 서방정은 일반정과 용법이 다름; 타이레놀8시간이알서방정의 국내 허가 용법은 1회 2정(1,300 ㎎), 8시간 간격, 24시간 최대 6정(3,900 ㎎)이며 분할·분쇄하지 않음. 일반정 500 ㎎의 국내 허가상 최대량은 4,000 ㎎/일이지만, 이 챕터의 처방은 보수적으로 3,000 ㎎/일 이내로 제시함. 허가 최대량을 상시 목표량으로 사용하지 않음 [식약처 허가사항]
-* Acetaminophen도 제품 허가상 금기(활동성 소화성궤양, 심한 간·신장장애 등)를 확인; NSAID의 대안이라는 이유로 모든 환자에게 안전한 것으로 설명하지 않음
+* ✽Acetaminophen 650 ㎎ 서방정은 일반정과 용법이 다름; 타이레놀8시간이알서방정의 국내 허가 용법은 1회 2정(1,300 ㎎), 8시간 간격, 24시간 최대 6정(3,900 ㎎)이며 분할·분쇄하지 않음. 일반정 500 ㎎의 국내 허가상 최대량은 4,000 ㎎/일이지만, 이 챕터의 처방은 보수적으로 3,000 ㎎/일 이내로 제시함. 허가 최대량을 상시 목표량으로 사용하지 않음 <mark style="color:$info;">[식약처 허가사항]</mark>
+* Acetaminophen도 국내 제품 허가상 금기(소화성궤양, 심한 간·신장·심장기능 장애, aspirin 천식/병력, 바르비탈계 약물·삼환계 항우울제 복용 등)를 확인; NSAID의 대안이라는 이유로 모든 환자에게 안전한 것으로 설명하지 않음. Warfarin 병용 시 반복 투여에 따른 INR 상승에 유의하고, flucloxacillin 병용·글루타치온 고갈 상태에서는 고음이온차 대사성 산증 위험도 고려 <mark style="color:$info;">[국내 acetaminophen 허가사항]</mark>
 * NSAID 안전성 : ibuprofen·naproxen 등 두 종류 이상의 NSAID를 중복하지 않음. 활동성 위장관 출혈/궤양, 중증 신장·심장 질환, 탈수 및 주요 병용약을 확인; 위험이 높으면 회피 또는 대안 선택. 골관절염에서 경구 NSAID 사용 시 위장관 보호제(PPI 등) 병용을 고려하며, NICE NG226은 동시 위장관 보호를 권고. 반복/지속 사용 또는 고위험 환자는 혈압·신기능 등을 추적; ibuprofen은 저용량 aspirin의 항혈소판 효과를 감소시킬 수 있어 대안 검토
-* 임신 : NSAID는 임신 20주 이후 양수과소증/태아 신장기능 장애 및 동맥관 수축 위험에 유의하여 원칙적으로 회피, 임신 말기 3개월은 금기; 불가피한 사용은 전문 판단 [부루펜 허가사항]
+* 임신 : NSAID는 임신 20주 이후 양수과소증/태아 신장기능 장애 및 동맥관 수축 위험에 유의하여 원칙적으로 회피, 임신 말기 3개월은 금기; 불가피한 사용은 전문 판단 <mark style="color:$info;">[부루펜 허가사항]</mark>
 * 고관절 OA는 심부 관절 병변이므로 국소 NSAID의 효과를 무릎 OA와 동일하게 기대하지 않음; 대전자 주변 표재 통증의 단기 사용은 별도로 판단
 
 #### <mark style="color:orange;">스테로이드</mark>
 
-* 국소(관절강내/점액낭) corticosteroid injection : 적응증이 확인된 경우(예: symptomatic hip OA, 일부 GTPS)에 선택적으로 시행
+* 국소 corticosteroid injection : 고관절 OA는 **관절강내**, 일부 GTPS는 **대전자 주변/점액낭**을 표적으로 선택적으로 시행함. GTPS 자체를 이유로 고관절 관절강내 주사를 시행하지 않음
 * 관절강내(intra-articular) 주사는 감염 및 rapidly progressive osteoarthritis(RPOA), subchondral insufficiency fracture 등 관절 손상 위험을 고려하여 적응증을 엄격히 하고, 초음파 또는 투시 유도하 시행
 * 고관절 통증 자체를 이유로 전신 corticosteroid를 일률적으로 사용하지 않음
-* 건주위/점액낭 주사는 힘줄 내 직접 주입을 피하고 반복 시 건 손상 위험에 유의. 반복 주사의 간격·횟수는 치료 반응, 이전 주사 이력, 조직 손상·감염 위험에 따라 개별 결정. 인공고관절 치환술 예정 3개월 이내에는 해당 관절의 스테로이드 주사를 피하도록 권고되며(특히 1개월 이내 주의), 최근 주사 여부와 수술 시점을 수술의와 상의 [ASRA 등 다학회 지침. Reg Anesth Pain Med 2025; doi:10.1136/rapm-2024-105656]
+* 건주위/점액낭 주사는 힘줄 내 직접 주입을 피하고 반복 시 건 손상 위험에 유의. 반복 주사의 간격·횟수는 치료 반응, 이전 주사 이력, 조직 손상·감염 위험에 따라 개별 결정. 인공고관절 치환술 예정 3개월 이내에는 해당 관절의 스테로이드 주사를 피하도록 권고되며(특히 1개월 이내 주의), 최근 주사 여부와 수술 시점을 수술의와 상의 <mark style="color:$info;">[ASRA 등 다학회 지침. Reg Anesth Pain Med 2025; doi:10.1136/rapm-2024-105656]</mark>
 
 #### <mark style="color:orange;">항생제</mark>
 
@@ -339,8 +346,9 @@ Red Flags 배제 후, 통증 부위(anterior/lateral/posterior)와 유발 기전
 
 ### <mark style="color:green;">시술 및 기타 처치</mark>
 
-* 관절강내 국소마취제 주사는 통증의 관절 내 기원 확인에 도움이 될 수 있으나 반응만으로 확진하지 않음; corticosteroid 주사는 OA·일부 GTPS의 단기 치료 목적; 고관절 **관절강내** 주사는 심부 관절이므로 초음파(US) 또는 투시(fluoroscopy) 유도하 시행을 권장하며, 대전자 주변 주사는 표적과 임상 상황에 따라 영상 유도 여부를 결정; tendon substance 내 직접 주입은 피하며, 반응 불량·재발 시 정형외과/재활의학과 의뢰; 관절강내 주사는 RPOA 등 관절 손상 위험을 고려하여 반복 시행에 신중
-* 체외충격파치료(ESWT) : 보존적 치료에 반응 없는 난치성 GTPS/건병증에서 고려 가능; 일부 연구에서 단기·중기 통증 개선이 보고되었으나 연구 간 이질성·편향 위험이 크고 기능 개선의 임상적 의미와 장기 효과는 불확실. 2024 메타분석에서는 focused 방식의 통증 감소가 radial보다 컸으나 근거의 한계 때문에 일률적인 우열·효과를 단정하지 않음; 1차 운동치료를 대체하지 않음 [JBJS Rev 2024;12:e24.00091; Musculoskeletal Care 2024;22:e1892]
+* 관절강내 국소마취제 주사는 통증의 관절 내 기원 확인에 도움이 될 수 있으나 반응만으로 확진하지 않음; corticosteroid 주사는 OA에서는 관절강내, 일부 GTPS에서는 대전자 주변/점액낭에 단기 통증 조절 목적으로 시행; 고관절 **관절강내** 주사는 심부 관절이므로 초음파(US) 또는 투시(fluoroscopy) 유도하 시행을 권장하며, 대전자 주변 주사는 표적과 임상 상황에 따라 영상 유도 여부를 결정; tendon substance 내 직접 주입은 피하며, 반응 불량·재발 시 정형외과/재활의학과 의뢰; 관절강내 주사는 RPOA 등 관절 손상 위험을 고려하여 반복 시행에 신중
+* 체외충격파치료(ESWT) : 보존적 치료에 반응 없는 난치성 GTPS/건병증에서 고려 가능; 일부 연구에서 단기·중기 통증 개선이 보고되었으나 연구 간 이질성·편향 위험이 크고 기능 개선의 임상적 의미와 장기 효과는 불확실. 2024 메타분석에서는 focused 방식의 통증 감소가 radial보다 컸으나 근거의 한계 때문에 일률적인 우열·효과를 단정하지 않음; 1차 운동치료를 대체하지 않음 <mark style="color:$info;">[JBJS Rev 2024;12:e24.00091; Musculoskeletal Care 2024;22:e1892]</mark>
+* PRP(혈소판풍부혈장) 주사 : GTPS에서 일상적 사용을 뒷받침하는 근거가 충분하지 않음. 2025년 난치성 GTPS의 위약 대조 RCT(79명)에서 leukocyte-rich PRP는 위약 대비 유의한 추가 이득을 보이지 않았으며, 다른 제형·시술법까지 동등한 것으로 일반화하지 않음 <mark style="color:$info;">[Atchia et al. JBJS 2025;107:444–451]</mark>
 * 관절 천자(aspiration) : 화농성 관절염 의심 시 응급 진단 및 배양 목적으로 시행 (즉시 정형외과 의뢰)
 
 ***
@@ -368,7 +376,7 @@ S72 대퇴골의 골절 Fracture of femur
 > **처방례 1. 경증 염좌·건병증**
 >
 > ```
-> acetaminophen 500 ㎎/T  1~2T, 필요 시 최대 tid  (총 3,000 ㎎/일 이내)
+> acetaminophen 500 ㎎/T  1~2T, 최소 4시간 간격으로 필요 시 최대 tid  (총 3,000 ㎎/일 이내)
 > ```
 >
 > _✽경증 염좌·건병증의 단기 통증 조절에 선택 가능; NSAID 금기 또는 위장관·신장 위험이 높은 환자에서 대안으로 고려; 고령자에서도 간기능·영양 상태·병용 약물을 확인 후 사용_
@@ -468,23 +476,31 @@ S72 대퇴골의 골절 Fracture of femur
 * 열이 나지 않아도 고관절을 움직이기 몹시 아프거나 붓고 뜨거운 경우
 * 다리에 갑자기 힘이 빠지거나 감각이 떨어지고, 특히 회음부 감각 저하나 소변·대변 조절 이상이 생긴 경우
 * 넘어지거나 다친 뒤 통증이 지속되거나 걷기 어려운 경우: 검사 전에는 무리해서 걷지 마십시오
+* 청소년이 무릎·사타구니 통증과 함께 절뚝거리거나 발을 바깥으로 돌려 걷는 경우: 즉시 걷지 않게 하고 휠체어 등으로 이동하여 당일 긴급 진료를 받으십시오
 
 
 ***
 
-### <mark style="color:green;">주요 참고문헌</mark>
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * American Academy of Orthopaedic Surgeons. [Management of Osteoarthritis of the Hip: Evidence-Based Clinical Practice Guideline](https://www.aaos.org/quality/quality-programs/osteoarthritis-of-the-hip/). 2023-12-01.
 * American College of Radiology. [Acute Hip Pain](https://acsearch.acr.org/docs/3082587/Narrative/). Revised 2024; [Stress (Fatigue/Insufficiency) Fracture, Including Sacrum, Excluding Other Vertebrae](https://acsearch.acr.org/docs/69435/Narrative/). Revised 2024.
 * NICE. [Hip fracture: management (CG124)](https://www.nice.org.uk/guidance/cg124/chapter/recommendations); [Osteoarthritis in over 16s: diagnosis and management (NG226)](https://www.nice.org.uk/guidance/ng226/chapter/recommendations).
 * Ravn C, et al. [Guideline for management of septic arthritis in native joints (SANJO)](https://jbji.copernicus.org/articles/8/29/2023/). J Bone Jt Infect. 2023;8:29–37.
 * Hagedoorn NN, et al. [Comparison of Clinical Prediction Rules in Pre-school Aged Children With Septic Hip Arthritis Due to Different Pathogens](https://doi.org/10.1097/BPO.0000000000002441). J Pediatr Orthop. 2023;43:e608–e613.
+* Royal Children's Hospital. [Slipped upper femoral epiphysis (SUFE): Emergency Department](https://www.rch.org.au/clinicalguide/guideline_index/fractures/Slipped_upper_femoral_epiphysis_SUFE_-_Emergency_Department/).
 * POSNA. [SCFE (Slipped Capital Femoral Epiphysis) Study Guide](https://posna.org/physician-education/study-guide/scfe-(slipped-capital-femoral-epiphysis)); Royal Children's Hospital. [The limping or non-weight bearing child](https://www.rch.org.au/clinicalguide/guideline_index/The_limping_or_non-weight_bearing_child/).
 * Griffin DR, et al. [The Warwick Agreement on femoroacetabular impingement syndrome](https://doi.org/10.1136/bjsports-2016-096743). Br J Sports Med. 2016;50:1169–1176.
 * Weir A, et al. [Doha agreement meeting on terminology and definitions in groin pain in athletes](https://doi.org/10.1136/bjsports-2015-094869). Br J Sports Med. 2015;49:768–774.
 * Willett GM, et al. [An Anatomic Investigation of the Ober Test](https://pubmed.ncbi.nlm.nih.gov/26755689/). Am J Sports Med. 2016;44:696–701.
 * Mellor R, et al. [Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC5930290/). BMJ. 2018;361:k1662.
 * [Extracorporeal Shockwave Therapy for Greater Trochanteric Pain Syndrome: A Systematic Review with Meta-Analysis of Randomized Clinical Trials](https://pubmed.ncbi.nlm.nih.gov/39297780/). JBJS Rev. 2024;12:e24.00091; [Is shockwave therapy effective in the management of greater trochanteric pain syndrome?](https://pubmed.ncbi.nlm.nih.gov/38777616/). Musculoskeletal Care. 2024;22:e1892.
+* Atchia I, et al. [Efficacy of Platelet-Rich Plasma Versus Placebo for the Treatment of Greater Trochanteric Pain Syndrome: A Double-Blinded Randomized Controlled Trial](https://doi.org/10.2106/JBJS.24.00763). J Bone Joint Surg Am. 2025;107(5):444–451.
 * Benzon HT, et al. [Use and safety of corticosteroid injections in joints and musculoskeletal soft tissue](https://doi.org/10.1136/rapm-2024-105656). 다학회 지침, 온라인 출판 2025.
-* [Hip Fractures: A Review](https://pubmed.ncbi.nlm.nih.gov/42461643/). JAMA. 2026; doi:10.1001/jama.2026.11895.
-* 식품의약품안전처. [타이레놀정500밀리그람 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106092); [타이레놀8시간이알서방정 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200407). [부루펜정400밀리그램 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300343); 종근당 [낙센정 제품정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000002). 국내 약제 용량은 제형·제품별 허가사항을 확인.
+* Johannesdottir F, et al. [Hip Fractures: A Review](https://doi.org/10.1001/jama.2026.11895). JAMA. 2026;336(6):496–507.
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/): 타이레놀정500밀리그람·타이레놀8시간이알서방정·부루펜정의 제품별 허가사항.
+* 종근당. [낙센정 제품정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000002).

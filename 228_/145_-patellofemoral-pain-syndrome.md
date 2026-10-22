@@ -46,29 +46,32 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 외상 후 급격한 관절 종창(수 시간 내, 혈관절증 의심) - 특히 슬개골 골절, 슬개골 탈구/신전기전 파열(급성 대퇴사두근건·슬개건 파열) 가능성
-* 외상 후 무릎을 능동적으로 신전하거나 하지직거상(straight-leg raise)을 하지 못함 → 신전기전 손상 의심(통증에 의한 억제와 감별); 일시적 억제라고 단정하고 평가를 미루지 않음
-* 청소년에서 외상 후 갑작스러운 경골결절(tibial tubercle)의 심한 통증·종창과 신전 장애 → 경골결절 견열골절 등 급성 신전기전 손상 의심
-* 급성 심한 관절통과 함께 현저한 관절운동 제한/체중부하 불가, 관절 발적·열감 또는 큰 삼출액이 있으면 화농성 관절염 우선 배제 - 전신 발열 유무와 무관하게 의심 시 즉시 평가
-* 신경혈관 손상 징후(원위부 냉감·창백·맥박 소실)
-* 청소년의 무릎 통증에 절뚝거림·고관절 내회전 제한 또는 외회전 보행 동반 → 대퇴골두 골단분리증(SCFE) 의심; 체중부하를 중단하고 당일 정형외과 평가(체중부하 불가·급격한 악화 시 즉시 응급 평가)
+* 외상 후 수 시간 내 급격한 관절 종창(혈관절증 의심), 뚜렷한 변형 또는 체중 부하 불가  `골절·탈구·급성 인대 손상`
+* 외상 후 무릎의 능동 신전 또는 하지직거상(straight-leg raise) 불가, 청소년의 갑작스러운 경골결절 통증·종창과 신전 장애  `신전기전 손상·견열골절`
+* 급성 심한 관절통과 현저한 관절운동 제한/체중 부하 불가, 관절 발적·열감 또는 큰 삼출액; 발열이 없어도 주의  `화농성 관절염`
+* 원위부 냉감·창백·맥박 소실 또는 감각·운동 장애  `신경혈관 손상`
+* 청소년의 무릎 통증에 절뚝거림·고관절 내회전 제한 또는 외회전 보행 동반  `SCFE 의심`
+
+✽급성 손상·감염·신경혈관 손상은 즉시 응급 평가/의뢰. 신전 불가를 통증 억제로 단정하지 않음. **SCFE가 의심되면 즉시 체중 부하를 금지하고 정형외과에 긴급 의뢰하여 당일 평가**함; 내원 전 목발 도움으로도 보행이 불가능했거나 급격히 악화하면 응급 이송하며 평가 전 휠체어·침상으로 이동하고 보행·고관절 유발검사를 강행하지 않음 <mark style="color:$info;">[RCH SUFE 응급 지침]</mark>(☞ [고관절 통증](143_-hip-pain.md)).
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* **지속적인 true locking(수동으로도 무릎이 완전히 펴지지 않는 기계적 차단)** → 전위된 반월연골 파열·관절내 유리체 의심; **당일 평가·긴급 정형외과 의뢰**, MRI를 기다리느라 의뢰를 지연하지 않음
-* 새로 생긴 뚜렷한 삼출액, 반복적인 catching 또는 giving-way → 반월연골·인대 손상·슬개대퇴 불안정성 등을 평가; 삼출액이 없어도 반복 증상은 평가 대상임
-* 최근 슬개골 아탈구/탈구가 의심되거나 뚜렷한 불안정감 → 슬개대퇴 불안정성 평가(급성 외상 후 큰 삼출액·신전 장애가 있으면 즉시 평가)
-* 안정 시에도 지속되는 통증, 야간통, 체중 감소 동반 → 골종양 등 감별 필요
+* 지속적인 true locking(수동으로도 무릎이 완전히 펴지지 않는 기계적 차단) **(당일)**  `전위된 반월연골 파열·유리체`
+* 새로 생긴 뚜렷한 삼출액, 반복적인 catching 또는 giving-way  `관절내 병변·불안정성`
+* 최근 슬개골 아탈구/탈구 의심 또는 뚜렷한 불안정감  `슬개대퇴 불안정성`
+* 지속·진행하는 휴식통/야간통, 국소 골 압통 또는 체중 감소·암 병력  `골종양 등 감별`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+✽True locking은 당일 평가·긴급 정형외과 의뢰하며 MRI를 기다리느라 의뢰를 지연하지 않음. 급성 외상 후 큰 삼출액·신전 장애는 즉각 조치 항목으로 상향함. 삼출액이 없어도 반복적인 catching/giving-way는 평가 대상이며, 야간통 단독으로 골종양을 단정하지 않음.
 
-* 활동 조절 및 8\~12주간의 구조화된 운동 치료 후에도 통증·기능 호전이 없는 경우\
-  ✽긴 증상 기간, 높은 연령, 낮은 기저 슬관절 신전근력은 무릎 중심 운동 치료의 반응과 연관된 예후 지표로 보고되었으나(Deng 등, JOSPT Open 2025 meta-regression), 탐색적 연구 결과이므로 개별 환자의 예후를 단독으로 판단하는 기준으로 사용하지 않음
-* 반복적으로 재발하는 경증 증상
-* 청소년의 tibial tubercle 국소 압통·부종(특히 급성장기) → 전형적 Osgood-Schlatter병 등 견인성 골단염 감별; 대부분 비응급 보존적 치료 대상
-* 심리사회적 요인(불안·우울, 통증에 대한 두려움-회피 행동)이 회복을 저해하는 것으로 보이는 경우
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 구조화된 운동 치료에도 지속되는 통증·기능 저하 또는 반복 재발  `치료 반응 불충분`
+* 청소년의 경골결절 국소 압통·부종, 특히 급성장기  `견인성 골단염 감별`
+* 불안·우울, 통증에 대한 두려움-회피 행동 등 회복을 저해하는 심리사회적 요인  `회복 저해 요인`
+
+✽초기 2\~4주에 수행·부하를 점검하고 **6주·12주에 통증·AKPS·기능을 재평가**함. 6주에 의미 있는 변화가 없으면 부하·운동 수행 및 보조 치료를 검토하며, 12주에도 호전이 없으면 PFP 진단 자체와 감별진단을 재고함. 새 위험 신호·악화 시 해당 시점까지 기다리지 않음 <mark style="color:$info;">[Ophey et al. KSSTA 2025]</mark>.
 
 ***
 
@@ -79,7 +82,7 @@
 * PFP는 특이적인 단일 검사가 없는 임상 진단이며, 영상검사는 진단 확립보다는 감별 목적으로 사용됨
 * 진단 기준(JOSPT 2019 CPG) : ① 슬개골 후방 또는 주위의 통증이 ② 쪼그려 앉기 등 슬개대퇴 관절에 부하가 걸리는 동작으로 재현되고 ③ 다른 무릎 통증 원인이 배제될 때 진단
 * 핵심 진단 검사 : **쪼그려 앉기(squat) 시 슬개골 후방/주위 통증 재현**이 PFP를 시사하는 근거 수준이 가장 높은 단일 임상 검사로 권고됨(JOSPT 2019 CPG); 계단 오르내리기, 무릎 꿇기 등 다른 부하 동작으로도 재현 가능
-* **치료 반응 평가 척도** : Kujala Anterior Knee Pain Scale (AKPS, 0\~100점)을 사용할 수 있음(JOSPT 2019 CPG); 점수가 높을수록 기능 상태가 좋으며, 초기 평가 후 추적 시 통증·기능 변화의 정량적 평가에 활용
+* **치료 반응 평가 척도** : Kujala Anterior Knee Pain Scale (AKPS, 0\~100점)을 사용할 수 있음(JOSPT 2019 CPG); 점수가 높을수록 기능 상태가 좋으며, 초기 평가 후 추적 시 통증·기능 변화의 정량적 평가에 활용. 네덜란드 2025 지침은 10점 이상 개선을 임상적으로 의미 있는 변화의 참고값으로 사용하나, 통증·활동 목표·환자 체감과 함께 판단함 <mark style="color:$info;">[Ophey et al. KSSTA 2025]</mark>
 
 ### <mark style="color:orange;">신체검사</mark>
 
@@ -121,7 +124,7 @@ _<mark style="color:$info;">Ref. Management of Patellofemoral Pain Syndrome. AFP
 #### <mark style="color:$primary;">Patellar apprehension test</mark>
 
 * [방법](https://www.youtube.com/watch?v=4TnCQppTy1g) : 똑바로 눕히고 무릎을 약 20~30° 굴곡하고 대퇴사두근을 이완한 상태에서 슬개골을 내측에서 외측으로 밀어 움직임(탈구될 때까지 강제로 밀지 않음)
-* 외측에서 apprehension(슬개골이 탈구될 것 같은 불안감)·방어성 quadriceps 수축 또는 검사 회피 반응이 나타나면 양성 - 단순 통증보다 apprehension 자체가 핵심 소견이며, 슬개대퇴 불안정성(외측 구조물 tightness가 아닌 재발성 아탈구/탈구 위험) 시사 - 단순 PFP보다 불안정성 감별에 더 특이적인 검사
+* 외측으로 밀 때 apprehension(슬개골이 탈구될 것 같은 불안감)·방어성 quadriceps 수축 또는 검사 회피 반응이 나타나면 양성 - 단순 통증보다 apprehension 자체가 핵심 소견이며, 슬개대퇴 불안정성(외측 구조물 tightness가 아닌 재발성 아탈구/탈구 위험) 시사 - 단순 PFP보다 불안정성 감별에 더 특이적인 검사
 
 ### <mark style="color:orange;">영상 검사</mark>
 
@@ -154,7 +157,7 @@ graph TD
     D --->|아니요| X["다른 무릎·고관절·요추 원인 평가"]
     D --->|예| F["PFP 임상 진단·통증 및 AKPS 기록"]
     F ---> H["교육·활동 조절과 개별화된 운동 치료 함께 시작"]
-    H ---> I{"초기 추적 후 8~12주까지 반응 평가"}
+    H ---> I{"초기 수행 점검 후 6주·12주 반응 평가"}
     I --->|호전| J["점진적 활동·스포츠 복귀 및 운동 유지"]
     I --->|미호전·악화| K["진단·운동 수행·부하 재평가 및 필요 시 의뢰"]
 
@@ -170,7 +173,7 @@ graph TD
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. [JOSPT 2019 CPG] Willy RW, et al. Patellofemoral Pain. J Orthop Sports Phys Ther. 2019;49(9):CPG1-CPG95; Neal BS, et al. Best practice guide for patellofemoral pain based on synthesis of a systematic review, the patient voice and expert clinical reasoning. Br J Sports Med. 2024;58(24):1486-1495.</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. [JOSPT 2019 CPG] Willy RW, et al. Patellofemoral Pain. J Orthop Sports Phys Ther. 2019;49(9):CPG1-CPG95; Neal BS, et al. Best practice guide for patellofemoral pain based on synthesis of a systematic review, the patient voice and expert clinical reasoning. Br J Sports Med. 2024;58(24):1486-1495; Ophey M, et al. Knee Surg Sports Traumatol Arthrosc. 2025;33(2):457-469.</mark></em></p>
 
 ***
 
@@ -184,7 +187,7 @@ PFP는 대개 점진적으로 발생하는 부하 관련 통증으로, 장기간
 
 ### <mark style="color:orange;">치료 방침</mark>
 
-<table><thead><tr><th width="90">구성</th><th width="260">핵심 치료</th><th>비고</th></tr></thead><tbody><tr><td>기본 교육</td><td>환자 교육 + 활동 조절(통증 유발 부하의 일시적 감량, 완전 중단이 아님)</td><td>모든 환자</td></tr><tr><td>핵심 운동</td><td>교육 + knee-targeted exercise 중심의 운동 치료(우선 8~12주 계획, 중간 평가에 따라 조절); 개별 평가에 따라 hip-targeted exercise 병합</td><td>교육·활동 조절과 함께 시작하는 1차 핵심 치료; 2024 Best Practice Guide는 환자 양상에 따른 개별화를 강조. VMO 단독 분리 강화보다 대퇴사두근 전체 및 고관절 복합체 운동에 집중</td></tr><tr><td>보조 수단</td><td>필요에 따라 기성 foot orthosis, 개별화된 슬개골 테이핑, 도수치료, movement/running retraining 등을 운동·교육에 병행</td><td>기성 깔창은 단기 증상 개선이 예상되는 환자에게 고려; 도수치료를 단독 치료로 사용하지 않음. 슬개대퇴 보조기·슬리브·스트랩은 PFP 치료에 일상적으로 처방하지 않음(JOSPT 2019 CPG)</td></tr><tr><td>재평가</td><td>초기 2~4주에 수행·부하·통증을 점검하고, 8~12주간의 적절한 치료 후에도 호전이 없으면 진단, 운동 순응도·부하, 감별진단을 재평가하고 소견에 따라 영상검사 또는 의뢰</td><td>8\~12주는 수술 결정 기준이 아님. 재발성 탈구 등 별도의 구조적 질환이 확인되면 해당 질환에 따라 전문의가 치료를 판단</td></tr></tbody></table>
+<table><thead><tr><th width="90">구성</th><th width="260">핵심 치료</th><th>비고</th></tr></thead><tbody><tr><td>기본 교육</td><td>환자 교육 + 활동 조절(통증 유발 부하의 일시적 감량, 완전 중단이 아님)</td><td>모든 환자</td></tr><tr><td>핵심 운동</td><td>교육 + knee-targeted exercise 중심의 운동 치료(우선 6~12주 계획, 중간 평가에 따라 조절); 개별 평가에 따라 hip-targeted exercise 병합</td><td>교육·활동 조절과 함께 시작하는 1차 핵심 치료; 2024 Best Practice Guide는 환자 양상에 따른 개별화를 강조. VMO 단독 분리 강화보다 대퇴사두근 전체 및 고관절 복합체 운동에 집중</td></tr><tr><td>보조 수단</td><td>필요에 따라 기성 foot orthosis, 개별화된 슬개골 테이핑, 도수치료, movement/running retraining 등을 운동·교육에 병행</td><td>기성 깔창은 단기 증상 개선이 예상되는 환자에게 고려; 도수치료를 단독 치료로 사용하지 않음. 슬개대퇴 보조기·슬리브·스트랩은 PFP 치료에 일상적으로 처방하지 않음(JOSPT 2019 CPG)</td></tr><tr><td>재평가</td><td>초기 2~4주에 수행·부하를 점검하고 6주·12주에 통증·AKPS·기능 평가; 6주 무반응이면 운동·보조 치료를 검토하고, 12주에도 호전이 없으면 진단·감별진단을 재고하여 소견에 따라 영상검사 또는 의뢰</td><td>6~12주는 수술 결정 기준이 아님. 재발성 탈구 등 별도의 구조적 질환이 확인되면 해당 질환에 따라 전문의가 치료를 판단</td></tr></tbody></table>
 
 * 근력·유연성·움직임 조절 등 여러 임상적 요소가 함께 관찰될 수 있어 개별화된 접근이 원칙
 * 고관절 근력 저하는 향후 PFP 발생의 전향적 위험 인자로는 확립되어 있지 않지만(☞ 원인 및 위험 인자 참조), hip+knee 강화 운동이 통증·기능을 호전시킨다는 **치료적 유효성 근거는 확립**되어 있음 - 위험 인자 여부와 치료 원칙은 별개로 판단할 것
@@ -197,12 +200,13 @@ PFP는 대개 점진적으로 발생하는 부하 관련 통증으로, 장기간
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* **운동 치료(1차 핵심 치료)** : 환자 교육과 함께 knee-targeted exercise를 기본으로 개별화된 빈도와 강도로(예 : 주 2\~3회 이상의 구조화된 운동을 환자 상태와 부하 내성에 맞추어 조절) 우선 8~12주를 계획하고 중간 반응에 따라 조정하며, 고관절 근력 저하·운동조절 이상 등 개별 평가 결과에 따라 hip-targeted exercise를 병합
+* **운동 치료(1차 핵심 치료)** : 환자 교육과 함께 knee-targeted exercise를 기본으로 개별화된 빈도와 강도로(예 : 주 2\~3회 이상의 구조화된 운동을 환자 상태와 부하 내성에 맞추어 조절) 우선 6~12주를 계획하고 중간 반응에 따라 조정하며, 고관절 근력 저하·운동조절 이상 등 개별 평가 결과에 따라 hip-targeted exercise를 병합
   * Hip+knee 병합 운동은 적절한 환자에서 통증과 기능 개선에 효과적이며, 모든 환자에게 동일한 프로그램을 일률적으로 적용하기보다 임상 양상에 따라 구성
   * 체중부하 운동(얕은 스쿼트·낮은 계단 오르기 등)과 비체중부하 무릎 신전 운동을 통증·수행 능력에 맞게 선택하며, 필요하면 고관절 외전·신전·외회전 운동을 병합함. 처음에는 낮은 저항·횟수·굴곡 범위에서 시작하여 점진적으로 늘림
   * 운동 중 통증은 환자가 감당할 수 있는 경미한 범위로 제한하고 운동 후·다음 날의 증상도 확인함. 통증이 뚜렷하게 증가하거나 다음 날까지 악화되면 저항·횟수·동작 범위를 낮추며, 새 종창·잠김·불안정성은 재평가함; 모든 환자에게 동일한 통증 점수 한계를 적용하지 않음
-  * **초기 2~4주에 통증·AKPS·운동 수행과 부하를 점검**하고, 8~12주에 전반적 반응을 평가함. 8~12주는 효과가 처음 나타나는 최소 기간이 아니며, 악화·새 Red Flag가 있으면 조기 평가함
+  * **초기 2~4주에 운동 수행·부하를 점검하고, 6주·12주에 통증·AKPS·기능을 평가**함. 6주 무반응이면 치료 구성을 검토하고, 12주에도 호전이 없으면 진단 자체를 재고함. 수주 내 호전될 수도 있으며 악화·새 Red Flag는 즉시 재평가함 <mark style="color:$info;">[Ophey et al. KSSTA 2025]</mark>
 * 활동 조절 : 통증을 심하게 유발하는 활동(쪼그려 앉기, 계단, 달리기 등)의 강도·빈도를 일시적으로 낮추고 필요하면 해당 활동만 잠시 중단함; 견딜 수 있는 일상 활동·대체 운동을 유지하며 장기간의 완전한 안정·고정은 피함. 청소년 운동선수는 보호자와 함께 전체 훈련 부하·학교 체육·스포츠 복귀 계획을 조정함
+* ✽보조 치료의 적용 시점에는 지침 간 차이가 있음. JOSPT 2019·BJSM 2024는 적절한 환자에서 초기 운동 수행을 돕는 테이핑·깔창 등을 허용하며, 네덜란드 2025 지침은 운동 우선 후 6주 이상 의미 있는 호전이 없을 때 추가를 검토함. 일괄 처방하지 않고 필요·즉시 반응·비용을 함께 판단함 <mark style="color:$info;">[Willy 2019; Neal 2024; Ophey 2025]</mark>
 * Foot orthosis(기성품) : 단기(대개 6주 이내) 통증 감소를 위해 선택적으로 고려; 특히 과도한 발 회내가 있거나 착용 직후 증상이 개선되는 환자에서 운동 치료와 병행. 맞춤형 깔창의 기성품 대비 우월성은 확립되지 않음
 * 슬개골 테이핑 : 운동 치료 초기 통증 감소를 위한 단기 보조 수단으로 개별화하여 시도; 슬개골 보조기·슬리브·스트랩은 PFP 치료에 일상적으로 권장되지 않음
 * 신발 : 활동에 적합한 쿠셔닝·지지력을 갖춘 신발 착용
@@ -217,7 +221,7 @@ PFP는 대개 점진적으로 발생하는 부하 관련 통증으로, 장기간
 
 ## <mark style="color:green;">약물 치료</mark>
 
-* 약물은 운동 치료를 대체하지 않으며, PFP 자체에 대한 질환 특이적 약물 근거는 제한적임(Cochrane review, Heintjes 등 2004 : NSAID가 단기 통증 감소에 제한적 근거를 보였으나 3개월 후 전체 통증 개선은 확인되지 않음). 운동 치료를 가능하게 하기 위한 **최소 유효 용량으로 단기간** 증상 조절 목적으로만 사용
+* 약물은 일률적으로 처방하지 않으며, 교육·부하 조절만으로 충분한 경증 PFP에는 생략 가능함. 통증이 활동·운동을 방해할 때 단기·선택적으로 고려함. 네덜란드 2025 지침은 진통제를 심한 통증에 한정하도록 보수적으로 권고함 <mark style="color:$info;">[Ophey et al. KSSTA 2025]</mark>. 약물은 운동 치료를 대체하지 않으며, PFP 자체에 대한 질환 특이적 약물 근거는 제한적임(Cochrane review, Heintjes 등 2004 : NSAID가 단기 통증 감소에 제한적 근거를 보였으나 3개월 후 전체 통증 개선은 확인되지 않음). 운동 치료를 가능하게 하기 위한 **최소 유효 용량으로 단기간** 증상 조절 목적으로만 사용
 
 ✽아래 용량은 성인 예시(acetaminophen 해당 제품은 12세 이상 허가)이며, 소아·청소년은 제형별 허가와 연령·체중에 따라 별도 조절함. PFP 약물 효과 근거와 일반 진통 목적의 국내 제품 허가 용법을 구분함.
 
@@ -228,14 +232,18 @@ PFP는 대개 점진적으로 발생하는 부하 관련 통증으로, 장기간
   * diclofenac gel <mark style="color:blue;">[볼타렌에멀겔]</mark> : 12세 이상, 1회 2~4 g을 1일 3~4회 도포. 7일간 사용 후 개선이 없거나 악화되면 중단·재평가; 의사 지시 없이 근육·관절 손상에 7일을 넘겨 사용하지 않으며, 제품 허가상 14일 이상 사용하지 않음. **12세 미만·임부·수유부·NSAID 과민반응 병력은 사용 금기**; 상처·습진·점막에 사용하거나 밀봉하지 않음
   * ketoprofen 첩부제 <mark style="color:blue;">[케토톱플라스타]</mark> : 1일 2회 부착; **15세 미만 사용 금기**, 사용 중 및 사용 후 2주까지 부착 부위의 자외선 노출을 피함(광과민 반응). 임신기간 6개월 이상은 금기이며, 그 이전 임신·수유도 사용 전 평가가 필요함
 * 경구 NSAID를 두 종류 이상 병용하지 않으며, 국소제와의 병용도 전신 흡수·신장 및 위장관 위험을 고려하여 일률적으로 권하지 않음
+* 제품별 금기 보완 : 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함 <mark style="color:$info;">[국내 허가사항]</mark>
+* 경구 NSAID : 활동성 소화성궤양/출혈, 중증 신장·심장 질환, 탈수·항응고제 병용을 확인. Ibuprofen은 저용량 aspirin의 항혈소판 효과를 감소시킬 수 있음. 임신 20주 이후는 태아 신장기능 장애·양수과소증 위험 등을 고려해 원칙적으로 회피하고, 임신 말기 3개월은 금기임; 국소제는 위의 제품별 임신 금기를 적용함 <mark style="color:$info;">[국내 NSAID 허가사항]</mark>
+* Acetaminophen : 국내 제품 허가상 소화성궤양, 심한 간·신장·심장기능 장애, aspirin 천식/병력, 바르비탈계 약물·삼환계 항우울제 복용 등은 금기임. Warfarin 병용 시 반복 투여에 따른 INR 상승에 유의함; 음주를 피하고 감량이 필요하면 일반정 등 용량 조절이 쉬운 제형을 선택함 <mark style="color:$info;">[국내 acetaminophen 허가사항]</mark>
 
 ***
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 * 국소 스테로이드 주사 : PFP는 일차적으로 염증성 병태가 아니므로 일상적으로 권장되지 않음(PFP에 대한 유효성 근거가 부족하며 반복 주사에는 연골·건 손상 위험도 고려)
+* PRP·증식치료(prolotherapy) : 단순 PFP에서 임상적 이득을 입증할 근거가 충분하지 않아 일상적으로 시행하지 않음. 네덜란드 2025 지침은 PFP의 주사치료를 권고하지 않음 <mark style="color:$info;">[Ophey et al. KSSTA 2025]</mark>
 * 관절강 내 hyaluronic acid 주사 : 단순 PFP에서 일상적으로 권장되지 않음; Hart 등 2019 sham-controlled RCT에서는 두 군 모두 가정 운동을 시행했고, HA 주사는 sham 주사 대비 임상적으로 유의한 추가 이득을 보이지 않음
-* 수술적 치료 : 단순 PFP에 일상적으로 시행하지 않음. 운동 치료 8\~12주 후 호전이 없다는 이유만으로 수술을 결정하지 않으며 진단·부하·운동 수행을 재평가. 재발성 슬개골 탈구 등 별도의 구조적 질환이 확인된 경우 그 질환의 적응증에 따라 정형외과에서 판단. 만성 PFP의 관절경 추가 효과는 운동 치료 단독 대비 확인되지 않았음
+* 수술적 치료 : 단순 PFP에 일상적으로 시행하지 않음. 운동 치료 6~12주 후 호전이 없다는 이유만으로 수술을 결정하지 않으며 진단·부하·운동 수행을 재평가. 재발성 슬개골 탈구 등 별도의 구조적 질환이 확인된 경우 그 질환의 적응증에 따라 정형외과에서 판단. 만성 PFP의 관절경 추가 효과는 운동 치료 단독 대비 확인되지 않았음
 
 ***
 
@@ -255,23 +263,23 @@ M22.4 무릎뼈의 연골연화 (슬개골 연골연화증) Chondromalacia patel
 
 ✽성인 예시이며 약물 처방과 별개로 교육·활동 조절·운동 치료를 함께 시행함; 통증 정도만으로 특정 약물이나 고정된 용량을 자동 선택하지 않음.
 
-> **처방례 1. 경증**
+> **처방례 1. 일상 활동을 방해하는 통증 - acetaminophen 단기 사용 예**
 >
 > ```
 > 타이레놀8시간이알서방정 650 ㎎/T  2T  q8h  필요시(1일 최대 6T)
 > ```
 >
-> _✽경증에서는 통증 시 필요에 따라 acetaminophen 사용; 다른 감기약·진통제와 성분 중복에 유의. 운동 치료(무릎 중심, 필요 시 고관절 운동 병합)를 1차 치료로 함께 안내_
+> _✽경증에는 약물을 생략할 수 있으며, 약물이 필요한 환자에서 단기·필요 시 사용함. 6정/일은 제품 허가 상한으로 상시 목표량이 아님; 다른 감기약·진통제와 성분 중복에 유의. 운동 치료(무릎 중심, 필요 시 고관절 운동 병합)를 1차 치료로 함께 안내_
 
-> **처방례 2. 중등도**
+> **처방례 2. 단기 진통이 필요하고 NSAID 사용이 적절한 경우**
 >
 > ```
 > 부루펜정 200 ㎎/T  2T  tid  필요시(단기간)
 > ```
 >
-> _✽중등도 통증에는 NSAID를 단기간 사용; 위장관·신장 위험 인자가 있는 경우 다른 진통 전략을 개별화; 활동성 소화성 궤양·중증 신장장애 등에서는 acetaminophen도 제품 금기 확인이 필요하며 국소제 역시 전신 위험이 전혀 없는 것은 아님_
+> _✽통증 강도만으로 자동 선택하지 않고, NSAID의 이득·위험을 판단해 단기간 사용; 위장관·신장 위험 인자가 있는 경우 다른 진통 전략을 개별화; 활동성 소화성 궤양·중증 신장장애 등에서는 acetaminophen도 제품 금기 확인이 필요하며 국소제 역시 전신 위험이 전혀 없는 것은 아님_
 
-> **처방례 3. 국소 외용제 중심(전신 부작용 회피가 필요한 경우)**
+> **처방례 3. 경구제 사용이 부담스러워 국소 외용제를 선택한 경우**
 >
 > ```
 > 볼타렌에멀겔  1회 2~4 g  환부에 1일 3~4회 도포(7일 후 재평가)
@@ -282,8 +290,8 @@ M22.4 무릎뼈의 연골연화 (슬개골 연골연화증) Chondromalacia patel
 > **처방례 4. 만성·재발성 PFP - 약물보다 운동 치료·추적 중심**
 >
 > * 약물 정규 처방 없음
-> * knee-targeted exercise + 필요 시 hip-targeted exercise를 8\~12주 구조화하여 시행
-> * AKPS·통증 기저치 기록; 초기 2~4주 점검 후 8~12주에 전반적 반응 재평가
+> * knee-targeted exercise + 필요 시 hip-targeted exercise를 6\~12주 구조화하여 시행
+> * AKPS·통증 기저치 기록; 초기 2~4주 수행 점검 후 6주·12주에 반응 재평가
 > * 두려움-회피 행동, 불안·우울 등 회복 저해 요인 동반 시 함께 평가
 >
 > _✽증상 기간이 길거나 초기 슬관절 신전근력이 낮은 경우 치료 반응이 늦을 수 있으므로, 조기 중단보다 순응도·운동 부하·진단 적절성을 재평가_
@@ -306,11 +314,11 @@ M22.4 무릎뼈의 연골연화 (슬개골 연골연화증) Chondromalacia patel
 >
 > * 완전한 안정(rest)이나 무릎 고정은 권장하지 않음 - 근력 약화를 유발하여 오히려 회복을 지연시킬 수 있음
 > * 경미하고 감당할 수 있는 통증 범위에서 부하를 늘리되 운동 후·다음 날 악화되면 강도·횟수를 낮춤; 통증·AKPS·일상 기능의 호전을 함께 목표로 함
-> * 우선 8~12주를 계획하되 초기 2~4주에 수행·통증을 점검함; 수주 내 호전될 수도 있으며 만성 증상은 더 오래 걸릴 수 있음
+> * 우선 6~12주를 계획하되 초기 2~4주에 수행을 점검하고 6주·12주에 통증·기능을 평가함; 수주 내 호전될 수도 있으며 만성 증상은 더 오래 걸릴 수 있음
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 8\~12주간의 활동 조절과 운동 치료에도 증상이 호전되지 않는 경우
+> * 6주에 의미 있는 호전이 없으면 치료 구성을 점검하고, 12주에도 호전이 없으면 진단을 포함해 재평가
 > * 실제로 무릎이 **계속 펴지지 않는 걸림(true locking)**은 당일 평가; 새 삼출액·반복적인 catching 또는 giving-way는 당일~수일 내 평가
 > * 외상 후 무릎을 펴지 못하거나 수 시간 내 심하게 붓는 경우, 관절이 붉고 뜨거우며 심하게 아픈 경우 - 즉시 평가
 
@@ -342,38 +350,45 @@ M22.4 무릎뼈의 연골연화 (슬개골 연골연화증) Chondromalacia patel
 #### <mark style="color:$primary;">운동은 어떻게 하나요?</mark>
 
 * **가장 중요한 치료는 허벅지(대퇴사두근)를 중심으로 한 운동 치료이며, 필요하면 엉덩이 근육 강화 운동을 함께 합니다.** 약물보다 운동 치료가 치료의 핵심입니다.
-* 우선 8~12주간 꾸준히 운동할 계획을 세우고, 시작 후 2~4주에 운동 방법과 통증을 점검하십시오. 수주 내 좋아질 수도 있지만 오래된 증상은 회복에 더 많은 시간이 필요할 수 있습니다.
+* 우선 6~12주간 꾸준히 운동할 계획을 세우고, 시작 후 2~4주에 운동 방법을 점검하고 6주·12주에 통증과 기능을 평가하십시오. 수주 내 좋아질 수도 있지만 오래된 증상은 회복에 더 많은 시간이 필요할 수 있습니다.
 * 운동 중에는 감당할 수 있는 가벼운 불편감 범위로 강도를 조절하십시오. 운동 후 통증이 크게 늘거나 다음 날까지 더 아프면 강도·횟수를 줄이십시오. 붓기나 걸림이 새로 생기면 진료를 받으십시오.
 * 구체적인 운동 방법은 아래 안내서를 참고하십시오: [무릎 컨디셔닝 프로그램(미국정형외과학회)](https://www.orthoinfo.org/recovery/knee-conditioning-program/)
 
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
-* 통증이 심할 때 타이레놀이나 소염진통제를 필요에 따라 사용할 수 있으나, **약은 증상 조절을 돕는 보조 수단이며, 활동 조절과 운동을 대신하지 않습니다.**
+* 가벼운 통증에는 약 없이 활동 조절과 운동으로 관리할 수 있습니다. 통증이 일상 활동이나 운동을 방해하면 의료진과 상의하여 타이레놀이나 소염진통제를 짧게 사용할 수 있으나, **약은 증상 조절을 돕는 보조 수단이며, 활동 조절과 운동을 대신하지 않습니다.**
 * 소염진통제는 장기간 복용하면 속쓰림, 위장 출혈 등의 부작용이 있을 수 있어 짧은 기간만 사용하십시오.
 * 바르는 소염진통제도 연령 제한과 임신·수유 금기 등 주의사항을 확인하십시오. 볼타렌에멀겔은 7일 사용 후에도 개선이 없으면 진료를 받고 14일 이상 사용하지 마십시오. 케토톱은 사용 중과 중단 후 2주까지 붙였던 부위가 햇빛에 노출되지 않도록 하십시오.
 
 #### <mark style="color:$primary;">이럴 때는 진료를 받으세요</mark>
 
-* **즉시 평가** : 다친 뒤 무릎을 펴지 못하거나 수 시간 내 심하게 붓는 경우; 무릎 관절이 붉고 뜨거우며 심하게 아픈 경우
-* **당일~수일 내 평가** : 실제로 무릎이 계속 펴지지 않는 걸림은 **당일 평가**가 필요합니다. 새로 붓거나 무릎이 빠질 듯한 불안정감·주저앉는 증상이 반복되는 경우도 평가받으십시오. 청소년이 무릎 통증과 함께 절뚝거리거나 고관절 움직임이 제한되면 걷지 않게 하고 당일 진료를 받으십시오.
-* **외래 재평가** : 시작 후 2~4주에 운동 방법·통증을 점검하고, 8~12주간 활동 조절과 운동을 꾸준히 했는데도 호전이 없으면 치료 계획을 다시 평가합니다. 통증이 악화되면 그 전에 진료를 받으십시오.
+* **즉시 평가** : 다친 뒤 무릎을 펴지 못하거나 수 시간 내 심하게 붓는 경우; 무릎 관절이 붉고 뜨거우며 심하게 아픈 경우. 청소년이 무릎 통증과 함께 절뚝거리거나 고관절 움직임이 제한되면 즉시 걷지 않게 하고 당일 긴급 진료를 받으십시오. 전혀 걷지 못하거나 급격히 악화하면 응급실로 가십시오.
+* **당일~수일 내 평가** : 실제로 무릎이 계속 펴지지 않는 걸림은 **당일 평가**가 필요합니다. 새로 붓거나 무릎이 빠질 듯한 불안정감·주저앉는 증상이 반복되는 경우도 평가받으십시오.
+* **외래 재평가** : 시작 후 2~4주에 운동 방법을 점검하고, 6주·12주에 통증과 기능을 평가합니다. 6주에 호전이 없으면 치료 구성을 점검하며 12주에도 호전이 없으면 다른 원인이 있는지 다시 평가합니다. 통증이 악화되면 그 전에 진료를 받으십시오.
 
 
 ***
 
-### 주요 참고문헌
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * Willy RW, et al. Patellofemoral Pain: Clinical Practice Guidelines. J Orthop Sports Phys Ther. 2019;49(9):CPG1–CPG95. [doi:10.2519/jospt.2019.0302](https://doi.org/10.2519/jospt.2019.0302)
 * Neal BS, et al. Best practice guide for patellofemoral pain based on synthesis of a systematic review, the patient voice and expert clinical reasoning. Br J Sports Med. 2024;58(24):1486–1495. [doi:10.1136/bjsports-2024-108110](https://doi.org/10.1136/bjsports-2024-108110)
+* Ophey M, et al. Dutch multidisciplinary guideline on anterior knee pain: Patellofemoral pain and patellar tendinopathy. Knee Surg Sports Traumatol Arthrosc. 2025;33(2):457–469. [doi:10.1002/ksa.12367](https://doi.org/10.1002/ksa.12367) (온라인 출판 2024).
 * Crossley KM, et al. 2016 Patellofemoral pain consensus statement from the 4th International Patellofemoral Pain Research Retreat, Manchester. Part 1. Br J Sports Med. 2016;50:839–843. [doi:10.1136/bjsports-2016-096384](https://doi.org/10.1136/bjsports-2016-096384)
 * Smith BE, et al. Incidence and prevalence of patellofemoral pain: A systematic review and meta-analysis. PLoS One. 2018;13:e0190892. [doi:10.1371/journal.pone.0190892](https://doi.org/10.1371/journal.pone.0190892)
 * Neal BS, et al. Risk factors for patellofemoral pain: a systematic review and meta-analysis. Br J Sports Med. 2019;53:270–281. [doi:10.1136/bjsports-2017-098890](https://doi.org/10.1136/bjsports-2017-098890)
 * Lankhorst NE, et al. Factors that predict a poor outcome 5–8 years after the diagnosis of patellofemoral pain: a multicentre observational analysis. Br J Sports Med. 2016;50:881–886. [doi:10.1136/bjsports-2015-094664](https://doi.org/10.1136/bjsports-2015-094664)
 * Wride J, Bannigan K. Investigating the prevalence of anxiety and depression in people living with patellofemoral pain in the UK: the Dep-Pf Study. Scand J Pain. 2019;19:375–382. [doi:10.1515/sjpain-2018-0347](https://doi.org/10.1515/sjpain-2018-0347)
-* Deng F, et al. What Prognostic Indicators and Treatment Mechanisms Exist for Efficacious Treatments in People With Patellofemoral Pain? A Secondary Meta-Regression With an Updated Search. JOSPT Open. 2025;3:193–209. [doi:10.2519/josptopen.2025.0119](https://doi.org/10.2519/josptopen.2025.0119)
-* Neal BS, et al. Prognosis of Patellofemoral Pain: A Systematic Review With Evidence- and Gap-Map. JOSPT. 2025. [doi:10.2519/jospt.2025.13491](https://doi.org/10.2519/jospt.2025.13491)
+* Deng F, et al. What Prognostic Indicators and Treatment Mechanisms Exist for Efficacious Treatments in People With Patellofemoral Pain? A Secondary Meta-Regression With an Updated Search. JOSPT Open. 2025;3(2):193–209. [doi:10.2519/josptopen.2025.0119](https://doi.org/10.2519/josptopen.2025.0119)
+* Neal BS, et al. Prognosis of Patellofemoral Pain: A Systematic Review With Evidence- and Gap-Map. J Orthop Sports Phys Ther. 2025;55(10):661–670. [doi:10.2519/jospt.2025.13491](https://doi.org/10.2519/jospt.2025.13491)
 * Hart JM, et al. Prospective, Randomized, Double-Blind Evaluation of the Efficacy of a Single-Dose Hyaluronic Acid for the Treatment of Patellofemoral Chondromalacia. Orthop J Sports Med. 2019;7:2325967119854192. [doi:10.1177/2325967119854192](https://doi.org/10.1177/2325967119854192)
 * Heintjes EM, et al. Pharmacotherapy for patellofemoral pain syndrome. Cochrane Database Syst Rev. 2004;CD003470. [doi:10.1002/14651858.CD003470.pub2](https://doi.org/10.1002/14651858.CD003470.pub2)
+* Royal Children's Hospital. [Slipped upper femoral epiphysis (SUFE): Emergency Department](https://www.rch.org.au/clinicalguide/guideline_index/fractures/Slipped_upper_femoral_epiphysis_SUFE_-_Emergency_Department/).
 * AAOS OrthoInfo. [Slipped Capital Femoral Epiphysis (SCFE)](https://www.orthoinfo.org/en/diseases--conditions/slipped-capital-femoral-epiphysis-scfe/)
 * NHS Right Decisions. [MRI Criteria: locked knee의 긴급 정형외과 의뢰](https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/surgery-and-orthopaedics/orthopaedic-and-trauma-surgery/knee/mri-criteria/)
-* 국내 제품 정보(2026-10-03 확인) : 식품의약품안전처 [타이레놀8시간이알서방정](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200407), [볼타렌에멀겔](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108778), [케토톱플라스타](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300356), [부루펜정200밀리그램](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700120); 종근당 [낙센정](https://ckdpharm.com/product/productView.do?prodCode=CKD0000002)
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/): 타이레놀8시간이알서방정·부루펜정·볼타렌에멀겔·케토톱플라스타의 제품별 허가사항.
+* 종근당. [낙센정 제품정보](https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000002).
