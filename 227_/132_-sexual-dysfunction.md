@@ -51,25 +51,31 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 발기가 4시간 이상 지속되는 경우(통증 유무와 무관) → 즉시 응급실/비뇨의학과 평가; 특히 단단한 발기와 음경통은 허혈성 지속발기증을 시사하며 지연 시 영구적 발기부전 위험이 증가함
-* 급성 신경학적 결손을 동반한 새로운 발기 이상(척수 손상·뇌졸중 의심)
-* 지속되는 흉통, 안정 시 호흡곤란·실신 등 급성 심혈관 증상 → 성행위·ED 약물 보류, 즉시 응급 평가
-* PDE5i 복용 후 갑작스러운 뚜렷한 시력 저하 → 복용 중단, 즉시 안과/응급 평가
+* 4시간 이상 지속되는 발기(통증 유무와 무관)  `지속발기증`
+* 발기 중 외상 후 파열음·갑작스러운 발기 소실·심한 통증·급속한 부종/멍·변형  `음경골절 의심`
+* 급성 신경학적 결손을 동반한 새로운 발기 이상  `척수 손상` `뇌졸중 의심`
+* 지속 흉통, 안정 시 호흡곤란 또는 실신  `급성 심혈관 사건 의심`
+* PDE5i 복용 후 갑작스러운 뚜렷한 시력 저하  `급성 시력 손상`
+
+→ 즉시 응급실/비뇨의학과 또는 해당 전문과 평가. 급성 심혈관 증상에서는 성행위·ED 약물을 보류하며, 약물 관련 급성 시력 손상은 복용 중단 후 응급 안과 평가함. 음경골절 의심은 일반 외래 예약으로 지연하지 않음 <mark style="color:$info;">[EAU Urological Trauma, 2026]</mark>.
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* PDE5i 복용 후 갑작스러운 청력 저하·이명 → 복용 중단, 당일 이비인후과 평가
-* 최근 골반/회음부 외상 또는 갑자기 생긴 통증성 음경 변형 → 당일 비뇨의학과 평가
-* 새로 발생한 ED와 함께 운동 시 흉통·호흡곤란이 있거나 성행위 관련 중간/불명확·고위험군에 해당 → 심장 평가 우선(안정 시 증상은 즉각 조치)
-* 고위험 심장 상태가 의심되면 증상이 가볍더라도 성행위·ED 약물을 보류하고 순환기내과 평가
+* PDE5i 복용 후 갑작스러운 청력 저하·이명 **(당일)**  `돌발성 난청 의심`
+* 최근 골반/회음부 외상 후 새로운 ED(응급 손상 소견 없음) **(당일)**  `외상 후 발기 이상`
+* 새 ED와 운동 시 흉통·호흡곤란 또는 성행위 관련 중간/불명확·고위험 상태  `심혈관 위험`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+→ 급성 청력 저하는 약물 중단 후 당일 이비인후과 평가. 심혈관 중간/불명확 위험은 재분류하며, 고위험 상태는 안정화 전까지 성행위·ED 약물을 보류함. 안정 시 증상은 즉각 조치에 해당함.
 
-* 만성 음경 만곡·Peyronie disease, 과거 골반 수술·방사선 치료 병력, 뚜렷한 성욕 저하 → 외래에서 비뇨의학과/내분비 평가 계획
-* PDE5i 등 1차 경구 치료에 반응이 부족하거나 환자·배우자가 만족하지 못하는 경우(적절한 용량·복용법·성적 자극 확인 후에도) → 비뇨기과/성의학 전문의 의뢰, 2차 치료 고려
-* 심인성 요소가 뚜렷하나 상담·생활 중재에도 개선이 없는 경우 → 정신건강의학과/부부상담 의뢰
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 만성 음경 만곡·Peyronie disease, 과거 골반 수술/방사선 치료 또는 뚜렷한 성욕 저하  `기질성 원인 평가`
+* 적절한 용량·복용법·성적 자극을 확인한 후에도 1차 치료 반응 부족  `치료 반응 부족`
+* 상담·생활 중재에도 지속되는 심인성 요소  `심리·관계 요인`
+
+→ 비뇨의학과·내분비·성의학 또는 정신건강 전문 평가를 계획하고, 복용법 재교육·상담·치료 변경을 고려함.
 
 ### <mark style="color:green;">진단</mark>
 
@@ -184,6 +190,7 @@ flowchart TD
 
 * 주의/금기 : 질산염/NO donor·riociguat 병용 금기. 저혈압, 조절되지 않는 고혈압, 불안정 심혈관 질환, 중증 간/신기능 장애, NAION 병력은 약제별 허가사항 확인. Vardenafil은 선천성 QT 연장 및 class IA/III 항부정맥제 병용 시 피함
 * 저용량 또는 투여 간격 조절 검토 : 고령, 신·간기능 저하, α-차단제 또는 CYP3A4 억제제 병용; 강력한 CYP3A4 억제제는 약제에 따라 금기 또는 엄격한 용량 제한이므로 단순 감량으로 처리하지 않음
+* 요로결석 MET로 새로 tamsulosin을 시작하는 환자도 기존 PDE5i 복용 여부를 확인함; ED 치료 중이라는 이유로 α-차단제를 자동 추가하지 않고 혈압·기립성 증상·용량을 함께 평가함(☞ 요로 결석)
 * 고지방식은 특히 sildenafil·vardenafil의 발현을 지연시킬 수 있음; tadalafil은 음식 영향이 적으나 과량 음주는 모든 PDE5i에서 어지럼·저혈압 및 성기능 저하 위험을 높임
 
 <table><thead><tr><th>성분명 / 대표 제품</th><th>필요시 복용법</th><th>매일 복용법</th><th>효과 발현 / 반응 가능 시간</th></tr></thead><tbody><tr><td>sildenafil <mark style="color:blue;">[비아그라]</mark></td><td>50 ㎎ 시작, 반응·내약성에 따라 25~100 ㎎; 약 1시간 전</td><td>ED의 표준 매일 요법 없음</td><td>약 30~60분 / 최대 약 12시간</td></tr><tr><td>vardenafil <mark style="color:blue;">[레비트라 등]</mark></td><td>10 ㎎ 시작, 반응·내약성에 따라 5~20 ㎎; 약 25~60분 전</td><td>ED의 표준 매일 요법 없음</td><td>약 30~60분 / 최대 약 10시간</td></tr><tr><td>tadalafil <mark style="color:blue;">[시알리스]</mark></td><td>10 ㎎ 시작, 필요시 20 ㎎; 적어도 30분 전</td><td>5 ㎎ 1일 1회; 심한 신장애에서는 비권장, 간장애는 개별 위험-이익 평가</td><td>약 30분부터, 최대 효과 약 2시간 / 최대 36시간</td></tr><tr><td>mirodenafil <mark style="color:blue;">[엠빅스]</mark></td><td>50~100 ㎎; 약 1시간 전</td><td>표준 매일 요법 없음</td><td>약 1시간 / 비교적 짧은 작용</td></tr><tr><td>udenafil <mark style="color:blue;">[자이데나]</mark></td><td>100 ㎎ 시작, 필요시 200 ㎎; 약 30분~12시간 전</td><td>빈번한 사용(주 ≥3회)이 필요한 경우 50 ㎎ 1일 1회, 필요시 75 ㎎</td><td>약 30~60분 / 최대 약 24시간</td></tr></tbody></table>
@@ -193,7 +200,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">Testosterone</mark>
 
-* Hypogonadism(testosterone deficiency) 환자에서 적용; 정상 testosterone 상태에서는 효과 없음
+* 성선기능저하증에 합당한 증상·징후와 별도 날짜의 아침 testosterone 반복 저하가 함께 확인된 환자에서 적용; 정상 testosterone인 ED에서는 치료제로 사용하지 않음
 * PDE5i와 병용 시 PDE5i 효과를 향상시킬 가능성이 있음(특히 PDE5i 단독 무반응 + 낮은 testosterone 조합)
 
 {% hint style="info" %}
@@ -203,10 +210,10 @@ flowchart TD
 
 * 주요 이상반응 : 적혈구증가증, 여드름·지성피부, 부종, 여성형유방증, 혈압 상승, 정자 생성 억제; 비강 제형은 코 자극·비출혈, 경피 제형은 피부 자극·타인 전이 위험이 있음. 제형별 이상반응 빈도를 전체 testosterone 제제에 일률적으로 적용하지 않음
 * 치료 전 평가 : 40세 이상에서는 PSA 측정. PSA 4.0 ng/mL 초과 또는 전립선암 고위험군에서 3.0 ng/mL 초과 시(Endocrine Society 기준) 비뇨의학적 평가 후 치료 여부 결정; 직장수지검사 이상 소견도 전문 평가
-* 금기/주의 : 활동성 전립선암·남성 유방암, 가까운 장래 임신/가임력 유지 희망 시 외인성 testosterone을 투여하지 않음. 치료 전 Hct >50%이면 원인 평가 및 치료 보류를 고려; 치료 중 Hct ≥54%이면 감량·일시 중단 등 조치. 치료되지 않은 중증 수면무호흡증, 중증 하부요로증상, 조절되지 않는 심부전, 혈전성향 및 최근 6개월 내 심근경색·뇌졸중에서는 투여를 피하고 전문 평가
-* 모니터링 : 증상·testosterone·Hct·혈압을 치료 전 및 시작 3~6개월 후, 12개월 및 이후 최소 연 1회 확인(위험도에 따라 더 자주, 제형별 농도 측정 시점 준수). PSA·전립선 위험은 연령·기저 위험에 따라 추적. 첫 12개월 내 PSA가 기저치보다 >1.4 ng/㎖ 증가하거나 >4 ng/㎖로 확인되면 비뇨의학과 평가; 3~6개월의 적절한 치료에도 임상적 이득이 없으면 지속 여부 재평가
+* 금기/주의 : 활동성 전립선암·남성 유방암, 가까운 장래 임신/가임력 유지 희망 시 외인성 testosterone을 투여하지 않음. 치료 전 Hct ＞50%이면 원인 평가 및 치료 보류를 고려; 치료 중 Hct ≥54%이면 감량·일시 중단 등 조치. 치료되지 않은 중증 수면무호흡증, 중증 하부요로증상, 조절되지 않는 심부전, 혈전성향 및 최근 6개월 내 심근경색·뇌졸중에서는 투여를 피하고 전문 평가
+* 모니터링 : 증상·testosterone·Hct·혈압을 치료 전 및 시작 3~6개월 후, 12개월 및 이후 최소 연 1회 확인(위험도에 따라 더 자주, 제형별 농도 측정 시점 준수). PSA·전립선 위험은 연령·기저 위험에 따라 추적. 첫 12개월 내 PSA가 기저치보다 ＞1.4 ng/㎖ 증가하거나 ＞4 ng/㎖로 확인되면 비뇨의학과 평가; 3~6개월의 적절한 치료에도 임상적 이득이 없으면 지속 여부 재평가
 * 용법 : 비강 겔·근육 주사 등 국내 허가 제품의 용법을 따름. 경피 겔·경구제·패취의 허가 상태, 공급 중단 여부와 이유를 제형 전체로 일반화하지 말고 개별 제품 기준으로 확인함
-* testosterone nasal gel <mark style="color:blue;">[나테스토나잘겔]</mark> : 1회 펌프 작동 시 5.5 ㎎; 양쪽 비공에 각 1회씩, 1일 2회(총 22 ㎎) 시작. 최소 30일 후 오전 투여 20분~2시간 뒤 채혈한 testosterone이 <300 ng/dL이면 1일 3회(총 33 ㎎)로 증량 고려; 최대 용량에서도 지속 저하 또는 임상효과 부족이면 다른 치료법 검토
+* testosterone nasal gel <mark style="color:blue;">[나테스토나잘겔]</mark> : 1회 펌프 작동 시 5.5 ㎎; 양쪽 비공에 각 1회씩, 1일 2회(총 22 ㎎) 시작. 최소 30일 후 오전 투여 20분~2시간 뒤 채혈한 testosterone이 ＜300 ng/dL이면 1일 3회(총 33 ㎎)로 증량 고려; 최대 용량에서도 지속 저하 또는 임상효과 부족이면 다른 치료법 검토
   * ✽ 1일 2회 투여 시 최소 6시간 간격, 1일 3회 투여 시 약 6\~8시간 간격으로 투여
 * testosterone undecanoate <mark style="color:blue;">[네비도]</mark> : 1,000 ㎎/4 ㎖를 매우 천천히 심부 둔부 근육 주사(혈관내 주입 금지); 첫 투여 간격은 농도·증상에 따라 6주까지 단축 가능하며 이후 10~14주 간격. 투여 직후 기침·호흡곤란 등 폐유성 미세색전증 및 아나필락시스 가능성에 대비하여 관찰
 * ✽ Testosterone 저하가 확인되지 않은 PDE5i 무반응만으로 호르몬을 추가하지 않음; 임신 계획이 있으면 남성난임 전문의와 가임력을 보존하는 대안을 검토
@@ -376,6 +383,8 @@ N48.4 기질적 원인의 발기부전 Impotence of organic origin
 * TCA : clomipramine 15 ㎎ <mark style="color:blue;">[네노마 등 조루증 허가 제제]</mark> : 성행위 2~6시간 전 15 ㎎, 최대 24시간 내 1회; 4주 또는 6회 후 재평가. 일반 항우울제 제형의 용량을 조루증 허가 용법에 그대로 적용하지 않음
   * 주요 이상반응 : 구역, 어지럼·졸음, 구갈·변비·배뇨곤란 등 항콜린작용, 기립성 저혈압 및 심장 전도 이상
   * 금기/주의 : 주요 정신과 질환 또는 병력, MAOI·SSRI/SNRI 등 세로토닌성 약물 병용, 심한 심장 질환·부정맥, 녹내장, 중증 요폐 위험 등 제품 허가사항 확인. 조루증용 15 ㎎ 제제는 여성·19세 미만·65세 이상 등에 금기이며, 항우울제 치료를 중단하여 이 약으로 대체하지 않음
+  * 네노마는 MAOI·SSRI/SNRI·트립탄 등과 **투여 전후 각각 14일 이내 사용 금기**임; dapoxetine의 중단 후 7일 기준을 적용하지 않음. 다른 조루증 치료제와 병용하지 않음 <mark style="color:$info;">[네노마 국내 허가사항]</mark>
+  * 항콜린작용이 있는 clomipramine·amitriptyline 등과 고형 potassium citrate 서방정(유로시트라케이)의 병용은 해당 칼륨 제제 허가상 금기(위장관 정체·점막 손상 위험). 국내 타이레놀 서방정도 TCA 복용자를 금기로 규정하므로 결석 진통제 처방 시 함께 점검함 <mark style="color:$info;">[유로시트라케이·타이레놀8시간이알 국내 허가사항]</mark>
 * SSRI(off-label) : sertraline, paroxetine, fluoxetine 등은 매일 투여(daily regimen)의 근거가 더 확립되어 있음; on-demand 투여도 가능하나 효과는 상대적으로 낮을 수 있음. 부작용은 성욕 저하, 발기부전, 체중 증가, 불면 등이며, 국내에서는 조루증에 대해 허가 외(off-label) 사용에 해당하므로 처방 전 환자 설명 및 동의가 필요 (☞ 항우울제)
 * α1-adrenoceptor antagonist는 사정량 감소·무사정을 유발할 수 있어 조루증의 일상적인 치료로 사용하지 않음(☞ 하부요로증상 약제)
 * PDE5 inhibitor : ED 동반 시 ED 치료를 우선함. 조루 약물을 추가할 때는 기립성 저혈압·실신 위험과 해당 제품 허가사항을 개별 검토; dapoxetine과의 병용을 모든 환자에게 일률적으로 권하지 않음
@@ -430,19 +439,25 @@ Dorsal neurectomy, 히알루론산을 이용한 glans penis augmentation(귀두 
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 발열·오한, 급성 요폐, 심한 고환/회음부 통증 등 급성 감염·고환염전·요폐를 시사하는 증상 → 원인에 따라 즉각 평가
+* 발열·오한과 전신 상태 악화, 급성 요폐 또는 갑작스러운 심한 고환통  `중증 감염` `요폐` `고환염전 의심`
+
+→ 원인에 따라 즉시 응급실/비뇨의학과 평가함. 고환염전은 발열 유무와 무관하게 배제함.
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 지속되거나 심한 혈정액(특히 40세 이상, 육안적 혈뇨·배뇨 증상·체중 감소 동반) → 종양성 원인 배제 위해 비뇨의학과 의뢰
+* 지속되거나 심한 혈정액, 특히 ≥40세 또는 육안적 혈뇨·배뇨 증상·체중 감소 동반  `종양성 원인 평가`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+→ 비뇨의학과 조기 평가; 혈괴 요폐·혈역학적 이상은 즉각 조치함.
 
-* 반복 통증성 사정의 결석 또는 무사정·불임의 폐쇄성 원인 의심 → 비뇨의학과 전문 평가 계획
-* 행동 요법·국소 마취제·1차 약물 치료에도 조루 증상이 호전되지 않는 경우
-* 단발성 경미한 혈정액이 4\~6주 내 재발 없이 소실되지 않는 경우
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 반복 통증성 사정, 무사정 또는 불임과 폐쇄성 원인 의심  `기질성 사정장애`
+* 행동 요법·국소 마취제·1차 약물 치료에도 지속되는 조루  `치료 반응 부족`
+* 젊은 환자의 단발성 경미한 혈정액이 4–6주 내 소실되지 않음  `지속 혈정액`
+
+→ 비뇨의학과/성의학 전문 평가를 계획함. ≥40세·반복 혈정액·혈뇨 동반에서는 단순 추적을 기다리지 않음.
 
 ***
 
@@ -461,7 +476,7 @@ F52.3 절정감장애 Orgasmic dysfunction(비기질성 지연사정·무절정 
 > **처방례 1. 평생형 조기사정, on-demand 선호**
 >
 > ```
-> 프릴리지 30 ㎎/T   1T   관계 1\~3시간 전 필요시
+> 프릴리지 30 ㎎/T   1T   관계 1~3시간 전 필요시
 > ```
 >
 > _✽ 초회 저용량으로 시작, 효과·내약성에 따라 60 ㎎까지 증량; 기립성 저혈압 증상(어지럼) 사전 설명_
@@ -469,7 +484,7 @@ F52.3 절정감장애 Orgasmic dysfunction(비기질성 지연사정·무절정 
 > **처방례 2. 국소요법 선호 또는 전신 부작용 우려**
 >
 > ```
-> 엠라 크림   관계 15\~30분 전 귀두 도포 후 관계 직전 세척
+> 엠라 크림   관계 15~30분 전 귀두 도포 후 관계 직전 세척
 > ```
 >
 > _✽ 조루증에 허가 외 사용. 관계 직전 충분히 세척하고, 파트너 전이·감각 저하 및 콘돔 재질 적합성을 설명; 과량·넓은 부위 도포를 피함_
@@ -488,7 +503,7 @@ F52.3 절정감장애 Orgasmic dysfunction(비기질성 지연사정·무절정 
 > 네노마 15 ㎎/T   1T   관계 2~6시간 전 필요시
 > ```
 >
-> _✽ 최대 24시간 내 1회. 주요 정신과 질환·심장 질환, 세로토닌성 약물 복용 및 연령 금기 확인; dapoxetine 또는 다른 항우울제와 함께 복용하지 않음_
+> _✽ 최대 24시간 내 1회. 주요 정신과 질환·심장 질환 및 연령 금기 확인; 다른 조루증 치료제와 병용하지 않음. MAOI·SSRI/SNRI·트립탄 등은 투여 전후 각각 14일 이내 금기이며, 고형 potassium citrate 서방정·타이레놀 서방정 병용도 확인_
 
 ***
 
@@ -501,6 +516,11 @@ F52.3 절정감장애 Orgasmic dysfunction(비기질성 지연사정·무절정 
 > * 음주와 함께 복용하지 않도록 안내
 > * 최소 물 1컵과 복용; 어지럼·식은땀·구역 등 실신 전구증상 시 즉시 누워 쉬고 운전·위험 작업을 피함
 > * 다른 항우울제, tramadol, 조루약을 임의로 추가하지 않음; 고열·심한 초조·진전/근육경직·의식 변화 시 세로토닌 증후군 가능성으로 즉시 평가
+
+> **네노마 및 TCA 병용약 확인**
+>
+> * 네노마는 다른 조루약과 함께 복용하지 않으며, MAOI·SSRI/SNRI·트립탄 등은 전후 각각 14일 간격을 확인함
+> * 유로시트라케이 같은 고형 칼륨 서방정과 타이레놀 서방정을 임의로 추가하지 않음
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -534,18 +554,24 @@ F52.3 절정감장애 Orgasmic dysfunction(비기질성 지연사정·무절정 
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 임신 가능성과 급성 심한 골반통·실신·출혈, 패혈증 소견 또는 급성 성폭력 피해로 긴급 의료·안전 지원이 필요한 경우 → 즉시 평가/연계
+* 임신 가능성과 급성 심한 골반통·실신·출혈, 패혈증 소견 또는 긴급 의료·안전 지원이 필요한 급성 성폭력 피해  `자궁외임신 의심` `중증 감염` `급성 피해`
+
+→ 즉시 응급 평가 또는 긴급 지원으로 연계함.
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 발열·골반통·비정상 분비물 → 감염/PID 평가(중증이면 즉각 조치)
-* 폐경 후 출혈, 반복 성교 후 출혈, 외음부의 궤양·종괴·지속 병변 → 산부인과 조기 평가
+* 발열·골반통·비정상 분비물 **(당일)**  `PID 의심`
+* 폐경 후 출혈, 반복 성교 후 출혈 또는 외음부 궤양·종괴·지속 병변  `기질적 병변 평가`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+→ 감염은 당일 평가하고, 중증이면 즉각 조치함. 출혈·외음부 병변은 산부인과 조기 평가함.
 
-* 원인 치료에도 지속되는 성교통, 삽입장애, HSDD 또는 트라우마 관련 증상 → 산부인과·성의학·정신건강 전문 평가
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 원인 치료에도 지속되는 성교통·삽입장애·HSDD 또는 트라우마 관련 증상  `지속 성기능장애`
+
+→ 산부인과·성의학·정신건강 전문 평가를 계획함.
 
 ### <mark style="color:green;">치료</mark>
 
@@ -569,7 +595,7 @@ DHEA 질좌제(prasterone)와 경구 SERM ospemifene이 NAMS 등 국외 지침�
 
 {% hint style="info" %}
 **국외 승인 HSDD 치료제 (국내 미허가)**\
-· flibanserin : 미국에서 65세 미만 여성의 후천성·전반적 HSDD에 승인(2025년 12월 폐경 후 여성까지 적응증 확대, 생식 상태 무관). 매일 취침 전 복용\
+· flibanserin : 미국에서 65세 미만 여성의 후천성·전반적 HSDD에 승인(2025년 12월 폐경 후 여성까지 적응증 확대). 매일 취침 전 복용하며 8주 내 개선이 없으면 중단함. 음주와 가까운 시간 복용 시 심한 저혈압·실신 위험; 중등도/강력한 CYP3A4 억제제 및 간장애는 금기. 생식 상태와 임신·수유 안전성은 별개로 평가함\
 · bremelanotide : 미국에서 폐경 전 여성의 후천성·전반적 HSDD에 승인. 관계 전 피하주사\
 2026년 기준 국내에는 HSDD 적응증으로 허가된 제제가 아니므로 해외 제품 사용 여부와 관계없이 국내 허가·안전성 정보를 별도로 확인함.
 {% endhint %}
@@ -608,7 +634,9 @@ N95.2 폐경후 위축성 질염 Postmenopausal atrophic vaginitis
 
 ***
 
-### 참고 지침 및 주요 근거
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
 
 * [EAU Guidelines on Sexual and Reproductive Health (2026): Management of Erectile Dysfunction](https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/management-of-erectile-dysfunction), [Disorders of Ejaculation](https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/disorders-of-ejaculation), [Male Hypogonadism](https://uroweb.org/guidelines/sexual-and-reproductive-health/chapter/male-hypogonadism)
 * [Endocrine Society: Testosterone Therapy in Men With Hypogonadism (2018)](https://www.endocrine.org/clinical-practice-guidelines/testosterone-therapy)
@@ -620,6 +648,10 @@ N95.2 폐경후 위축성 질염 Postmenopausal atrophic vaginitis
 * [Brown et al. Gabapentin for the Treatment of Vulvodynia: A Randomized Controlled Trial (2018)](https://pubmed.ncbi.nlm.nih.gov/29742655/)
 * [TRAVERSE: Cardiovascular Safety of Testosterone-Replacement Therapy (2023)](https://www.nejm.org/doi/full/10.1056/NEJMoa2215025); [FDA testosterone labeling changes (2025)](https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products)
 * [FDA Addyi prescribing information, revised December 2025](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/022526s013lbl.pdf)
-* 국내 제품 허가사항 대조(식약처 자료를 제공하는 약학정보원): [자이데나 50 ㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2010100800003), [자이데나 100 ㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AOOOOO7701), [프릴리지](https://health.kr/searchDrug/result_drug.asp?drug_cd=2009090700541), [네노마 15 ㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=2013032100009), [나테스토나잘겔](https://health.kr/searchDrug/result_drug.asp?drug_cd=2018060700006), [시알리스 5 ㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11AKP08G3782). 허가·공급·급여는 서로 다른 정보이며 실제 처방 시 해당 품목의 최신 상태 확인
 
-* 국내 제품 제조사 정보: [시알리스 5 ㎎ — 한독](https://www.handok.co.kr/product/detail?idx=45), [네비도 — SK케미칼](https://www.skchemicals.com/ls/product_view.aspx?serno=1229)
+* [EAU Guidelines on Urological Trauma (2026)](https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Urological-Trauma-2026.pdf): 음경골절 평가·치료.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/): 국내 품목별 효능·효과, 용법·용량, 금기·주의사항 확인 자료.
+* 본문 관련 국내 품목: 시알리스, 자이데나, 프릴리지, 네노마, 나테스토나잘겔, 네비도 및 병용약인 유로시트라케이·타이레놀 서방정.
