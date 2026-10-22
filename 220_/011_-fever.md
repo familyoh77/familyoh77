@@ -417,6 +417,29 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Geneva II, et al. Normal Body Temperature: A Systematic Review. Open Forum Infect Dis. 2019;6(4):ofz032.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6456186/) - 측정 부위·연령 등에 따른 체온 차이와 정상 체온 해석
+* [NICE. Fever in under 5s: assessment and initial management. NICE guideline NG143. 2019; updated 2021.](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations) - 5세 미만 발열의 위험 분류·검사·해열제와 재진 안내
+* [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. 2023; updated May 27, 2026.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days) - 전신 상태가 양호한 90일 이하 발열 영아의 연령별 검사·치료·추적; 전신 상태 불량 영아와 구분
+* [Dionisopoulos Z, et al. Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis. JAMA Pediatr. 2026;180(8):838-850.](https://doi.org/10.1001/jamapediatrics.2026.1815) - 60\~90일 발열 영아의 균혈증·수막염 위험 추정과 연구 대상의 범위
+* [O'Grady NP, et al. Society of Critical Care Medicine and the Infectious Diseases Society of America Guidelines for Evaluating New Fever in Adult Patients in the ICU. Crit Care Med. 2023;51(11):1570-1586.](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/) - 성인 ICU의 새로운 발열·체온 측정과 표적 검사; 일반 외래에 일괄 적용하지 않음
+* [Prescott HC, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54(4):725-812.](https://doi.org/10.1097/CCM.0000000000007075) - 성인 패혈증·패혈성 쇼크의 조기 인지·소생술·항균제와 체온 관리
+* [Wright WF, et al. State-of-the-Art Review: Contemporary Ambulatory Approach to Adult Fever of Unknown Origin. Clin Infect Dis. 2026;82(6):909-926.](https://doi.org/10.1093/cid/ciag158) - 성인 외래 불명열의 단계별 평가와 임상 단서에 따른 추가 검사
+* [Barletta JF, et al. Society of Critical Care Medicine guidelines for the treatment of heat stroke. Crit Care Med. 2025;53(2):e490-e500.](https://sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke) - 열사병의 적극적 냉각·초기 치료; 감염성 발열의 해열과 구분
+* [Rogal SS, et al. AASLD Practice Guidance: Palliative care and symptom-based management in decompensated cirrhosis. Hepatology. 2022;76(3):819-853.](https://doi.org/10.1002/hep.32378) - 간경변에서 acetaminophen의 통상 최대 2 g/d 사용; 국내 제품의 심한 간장애 금기와 구분
+* [Zhang Q, et al. Interaction between acetaminophen and warfarin in adults receiving long-term oral anticoagulants: a randomized controlled trial. Eur J Clin Pharmacol. 2011;67(3):309-314.](https://doi.org/10.1007/s00228-010-0975-2) - acetaminophen 2\~3 g/d 반복 투여에 따른 INR 상승과 모니터링
+* [U.S. Food and Drug Administration. FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic) - 임신 20주 이후 태아 신기능·양수과소증 위험 및 30주 이후 회피; 국내 제품의 임신 후기 금기와 구분
+* [U.S. Food and Drug Administration. Concomitant Use of Ibuprofen and Aspirin: Potential for Attenuation of the Anti-Platelet Effect of Aspirin. 2006.](https://www.fda.gov/media/76636/download) - 속방형 aspirin 81 ㎎과 ibuprofen 400 ㎎의 투약 간격 자료 및 장용·반복 투여의 한계
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -451,26 +474,3 @@ graph TD
 #### <mark style="color:$primary;">이럴 때는 다시 진료를 받으세요</mark>
 
 * 열이 예상보다 오래 지속되거나 악화되거나, 수분 섭취 저하·지속되는 심한 통증·새로운 증상이 생기는 경우
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Geneva II, et al. Normal Body Temperature: A Systematic Review. Open Forum Infect Dis. 2019;6(4):ofz032.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6456186/) - 측정 부위·연령 등에 따른 체온 차이와 정상 체온 해석
-* [NICE. Fever in under 5s: assessment and initial management. NICE guideline NG143. 2019; updated 2021.](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations) - 5세 미만 발열의 위험 분류·검사·해열제와 재진 안내
-* [Canadian Paediatric Society. Management of well-appearing febrile young infants aged ≤90 days. 2023; updated May 27, 2026.](https://cps.ca/en/documents/position/management-of-well-appearing-febrile-young-infants-aged-90-days) - 전신 상태가 양호한 90일 이하 발열 영아의 연령별 검사·치료·추적; 전신 상태 불량 영아와 구분
-* [Dionisopoulos Z, et al. Prevalence of Invasive Bacterial Infections Among Febrile Infants Aged 60 to 90 Days: A Systematic Review and Meta-Analysis. JAMA Pediatr. 2026;180(8):838-850.](https://doi.org/10.1001/jamapediatrics.2026.1815) - 60\~90일 발열 영아의 균혈증·수막염 위험 추정과 연구 대상의 범위
-* [O'Grady NP, et al. Society of Critical Care Medicine and the Infectious Diseases Society of America Guidelines for Evaluating New Fever in Adult Patients in the ICU. Crit Care Med. 2023;51(11):1570-1586.](https://www.idsociety.org/practice-guideline/new-fever-in-critically-ill-patients/) - 성인 ICU의 새로운 발열·체온 측정과 표적 검사; 일반 외래에 일괄 적용하지 않음
-* [Prescott HC, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54(4):725-812.](https://doi.org/10.1097/CCM.0000000000007075) - 성인 패혈증·패혈성 쇼크의 조기 인지·소생술·항균제와 체온 관리
-* [Wright WF, et al. State-of-the-Art Review: Contemporary Ambulatory Approach to Adult Fever of Unknown Origin. Clin Infect Dis. 2026;82(6):909-926.](https://doi.org/10.1093/cid/ciag158) - 성인 외래 불명열의 단계별 평가와 임상 단서에 따른 추가 검사
-* [Barletta JF, et al. Society of Critical Care Medicine guidelines for the treatment of heat stroke. Crit Care Med. 2025;53(2):e490-e500.](https://sccm.org/clinical-resources/guidelines/guidelines/guideline-for-the-treatment-of-heat-stroke) - 열사병의 적극적 냉각·초기 치료; 감염성 발열의 해열과 구분
-* [Rogal SS, et al. AASLD Practice Guidance: Palliative care and symptom-based management in decompensated cirrhosis. Hepatology. 2022;76(3):819-853.](https://doi.org/10.1002/hep.32378) - 간경변에서 acetaminophen의 통상 최대 2 g/d 사용; 국내 제품의 심한 간장애 금기와 구분
-* [Zhang Q, et al. Interaction between acetaminophen and warfarin in adults receiving long-term oral anticoagulants: a randomized controlled trial. Eur J Clin Pharmacol. 2011;67(3):309-314.](https://doi.org/10.1007/s00228-010-0975-2) - acetaminophen 2\~3 g/d 반복 투여에 따른 INR 상승과 모니터링
-* [U.S. Food and Drug Administration. FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic) - 임신 20주 이후 태아 신기능·양수과소증 위험 및 30주 이후 회피; 국내 제품의 임신 후기 금기와 구분
-* [U.S. Food and Drug Administration. Concomitant Use of Ibuprofen and Aspirin: Potential for Attenuation of the Anti-Platelet Effect of Aspirin. 2006.](https://www.fda.gov/media/76636/download) - 속방형 aspirin 81 ㎎과 ibuprofen 400 ㎎의 투약 간격 자료 및 장용·반복 투여의 한계
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

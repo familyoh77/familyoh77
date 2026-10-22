@@ -536,6 +536,24 @@ flowchart TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Scheirey CD, et al. ACR Appropriateness Criteria® Acute Nonlocalized Abdominal Pain. J Am Coll Radiol. 2018;15(11S):S217-S231.](https://pubmed.ncbi.nlm.nih.gov/30392591/) - 성인 비국소성 급성 복통의 영상검사 선택; 소아·국소 복통은 해당 기준과 구분
+* \[ACG 2026] [Peery AF, et al. ACG Clinical Guideline: Colonic Diverticulitis. Am J Gastroenterol. 2026;121(7):1549-1561.](https://doi.org/10.14309/ajg.0000000000004047) - 저위험 비복잡 게실염의 항생제 선택적 사용과 회복 후 대장내시경
+* [Lee JG, et al. Evidence-based clinical practice guidelines for diagnosis and medical management of acute colonic diverticulitis developed by the Korean Association for the Study of Intestinal Diseases (KASID). Intest Res. 2026;24(3):428-463.](https://doi.org/10.5217/ir.2025.00299) - 국내 게실염의 진단·내과적 치료; 환자 위험도에 따른 항생제·입원 판단
+* \[ACG 2024] [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024;119(3):419-437.](https://pubmed.ncbi.nlm.nih.gov/38857482/) - 급성 췌장염의 초기 관리, 조기 경구 섭취와 합병증 평가
+* [Manterola C, et al. Analgesia in patients with acute abdominal pain. Cochrane Database Syst Rev. 2011;(1):CD005660.](https://pubmed.ncbi.nlm.nih.gov/21249672/) - 진단 전 opioid 진통제 사용과 임상 소견·진단 지연에 관한 근거
+* [OpenStax College. Anatomy and Physiology: Autonomic Reflexes and Homeostasis.](https://openstax.org/books/anatomy-and-physiology/pages/15-2-autonomic-reflexes-and-homeostasis) - 본문 연관통 그림 출처
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -565,21 +583,3 @@ flowchart TD
 * **복통 위치와 시작 시간, 동반 증상을 메모**해 두면 진료 시 도움이 됩니다
 * **식이 조절** : 응급질환이 배제되고 의료진이 경구 섭취가 가능하다고 판단한 경우, 소화기 원인의 복통은 기름지고 자극적인 음식, 과음을 피하고 소량씩 자주 드시는 것이 도움됩니다
 * **수분 보충** : 의료진이 경구 섭취가 가능하다고 판단한 경우, 구토나 설사가 동반되면 탈수가 되지 않도록 물이나 이온 음료를 조금씩 자주 드십시오
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Scheirey CD, et al. ACR Appropriateness Criteria® Acute Nonlocalized Abdominal Pain. J Am Coll Radiol. 2018;15(11S):S217-S231.](https://pubmed.ncbi.nlm.nih.gov/30392591/) - 성인 비국소성 급성 복통의 영상검사 선택; 소아·국소 복통은 해당 기준과 구분
-* \[ACG 2026] [Peery AF, et al. ACG Clinical Guideline: Colonic Diverticulitis. Am J Gastroenterol. 2026;121(7):1549-1561.](https://doi.org/10.14309/ajg.0000000000004047) - 저위험 비복잡 게실염의 항생제 선택적 사용과 회복 후 대장내시경
-* [Lee JG, et al. Evidence-based clinical practice guidelines for diagnosis and medical management of acute colonic diverticulitis developed by the Korean Association for the Study of Intestinal Diseases (KASID). Intest Res. 2026;24(3):428-463.](https://doi.org/10.5217/ir.2025.00299) - 국내 게실염의 진단·내과적 치료; 환자 위험도에 따른 항생제·입원 판단
-* \[ACG 2024] [Tenner S, et al. American College of Gastroenterology Guidelines: Management of Acute Pancreatitis. Am J Gastroenterol. 2024;119(3):419-437.](https://pubmed.ncbi.nlm.nih.gov/38857482/) - 급성 췌장염의 초기 관리, 조기 경구 섭취와 합병증 평가
-* [Manterola C, et al. Analgesia in patients with acute abdominal pain. Cochrane Database Syst Rev. 2011;(1):CD005660.](https://pubmed.ncbi.nlm.nih.gov/21249672/) - 진단 전 opioid 진통제 사용과 임상 소견·진단 지연에 관한 근거
-* [OpenStax College. Anatomy and Physiology: Autonomic Reflexes and Homeostasis.](https://openstax.org/books/anatomy-and-physiology/pages/15-2-autonomic-reflexes-and-homeostasis) - 본문 연관통 그림 출처
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

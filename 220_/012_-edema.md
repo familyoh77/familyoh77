@@ -511,6 +511,26 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [NICE. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. NICE guideline NG158. 2020; updated 2023.](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations) - 2-level Wells·D-dimer·초음파 경로와 검사 지연 시 임시 항응고; 본문 알고리듬 출처
+* [Goss JA, Greene AK. Sensitivity and Specificity of the Stemmer Sign for Lymphedema: A Clinical Lymphoscintigraphic Study. Plast Reconstr Surg Glob Open. 2019;7(6):e2295.](https://doi.org/10.1097/GOX.0000000000002295) - Stemmer sign의 민감도·특이도와 위양성·위음성의 한계
+* [European Society of Cardiology. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026.](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/heart-failure/) - 심부전의 개정 EF·단계 분류와 울혈·비보상 상태 관리
+* [Biggins SW, et al. Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases. Hepatology. 2021;74(2):1014-1048.](https://doi.org/10.1002/hep.31884) - 간경화성 복수의 이뇨제·체중·신기능·전해질 관리
+* [European Association for the Study of the Liver. EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis. J Hepatol. 2018;69(2):406-460.](https://doi.org/10.1016/j.jhep.2018.03.024) - 첫 발생·재발성 복수의 이뇨제 시작 전략
+* [De Maeseneer MG, et al. European Society for Vascular Surgery (ESVS) 2022 Clinical Practice Guidelines on the Management of Chronic Venous Disease of the Lower Limbs. Eur J Vasc Endovasc Surg. 2022;63(2):184-267.](https://pubmed.ncbi.nlm.nih.gov/35027279/) - 만성 정맥질환의 압박·중재와 venoactive drug의 적용
+* [Gloviczki P, et al. The 2023 Society for Vascular Surgery, American Venous Forum, and American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the lower extremities. Part II. J Vasc Surg Venous Lymphat Disord. 2024;12(1):101670.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/) - 압박 치료·정맥순환개선제의 약제별 권고 수준; MPFF와 단일 diosmin의 근거 구분
+* Rakel RE, Rakel DP, eds. Textbook of Family Medicine. 9th ed. Elsevier; 2016. - 본문 감별 표 출처(Table 27-23)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -549,23 +569,3 @@ graph TD
 * 붓는 부위에 발열, 발적, 열감 또는 압통이 있는 경우
 * 임신 20주 이후 또는 출산 후 얼굴·손 부종과 고혈압, 지속 두통, 시야 변화 또는 명치·우상복부 통증이 있으나 위의 즉시 응급실 이용 기준에는 해당하지 않는 경우
 * 이뇨제를 복용해도 부종이 빠르게 악화되거나 심한 어지럼, 탈수 증상이 있는 경우
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [NICE. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing. NICE guideline NG158. 2020; updated 2023.](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations) - 2-level Wells·D-dimer·초음파 경로와 검사 지연 시 임시 항응고; 본문 알고리듬 출처
-* [Goss JA, Greene AK. Sensitivity and Specificity of the Stemmer Sign for Lymphedema: A Clinical Lymphoscintigraphic Study. Plast Reconstr Surg Glob Open. 2019;7(6):e2295.](https://doi.org/10.1097/GOX.0000000000002295) - Stemmer sign의 민감도·특이도와 위양성·위음성의 한계
-* [European Society of Cardiology. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026.](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/heart-failure/) - 심부전의 개정 EF·단계 분류와 울혈·비보상 상태 관리
-* [Biggins SW, et al. Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases. Hepatology. 2021;74(2):1014-1048.](https://doi.org/10.1002/hep.31884) - 간경화성 복수의 이뇨제·체중·신기능·전해질 관리
-* [European Association for the Study of the Liver. EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis. J Hepatol. 2018;69(2):406-460.](https://doi.org/10.1016/j.jhep.2018.03.024) - 첫 발생·재발성 복수의 이뇨제 시작 전략
-* [De Maeseneer MG, et al. European Society for Vascular Surgery (ESVS) 2022 Clinical Practice Guidelines on the Management of Chronic Venous Disease of the Lower Limbs. Eur J Vasc Endovasc Surg. 2022;63(2):184-267.](https://pubmed.ncbi.nlm.nih.gov/35027279/) - 만성 정맥질환의 압박·중재와 venoactive drug의 적용
-* [Gloviczki P, et al. The 2023 Society for Vascular Surgery, American Venous Forum, and American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the lower extremities. Part II. J Vasc Surg Venous Lymphat Disord. 2024;12(1):101670.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/) - 압박 치료·정맥순환개선제의 약제별 권고 수준; MPFF와 단일 diosmin의 근거 구분
-* Rakel RE, Rakel DP, eds. Textbook of Family Medicine. 9th ed. Elsevier; 2016. - 본문 감별 표 출처(Table 27-23)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

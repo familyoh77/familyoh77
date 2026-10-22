@@ -393,6 +393,24 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Wigginton JG, et al. Part 9: Adult Advanced Life Support: 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2025;152(16 Suppl 2).](https://doi.org/10.1161/CIR.0000000000001376) - 혈역학적 불안정 빈맥·서맥과 응급 전기·약물 치료
+* [Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. Eur Heart J. 2020;41(5):655-720.](https://doi.org/10.1093/eurheartj/ehz467) - AVNRT·AVRT의 급성·장기 치료, pre-excitation의 약물 제한과 절제술
+* [Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2024;45(36):3314-3414.](https://doi.org/10.1093/eurheartj/ehae176) - AF 심박수 조절·뇌졸중 예방과 CHA₂DS₂-VA; 2023 미국 지침의 점수 체계와 구분
+* [Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation. 2024;149(1):e1-e156.](https://doi.org/10.1161/CIR.0000000000001193) - AF 진단·심박수 조절·항응고와 CHA₂DS₂-VASc의 적용; 지침명은 2023, 출판은 2024년
+* [Zeppenfeld K, et al. 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022;43(40):3997-4126.](https://doi.org/10.1093/eurheartj/ehac262) - PVC burden·구조적 심질환 평가와 심실부정맥 위험 관리
+* [Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT): a randomised controlled trial. Lancet. 2015;386(10005):1747-1753.](https://doi.org/10.1016/S0140-6736(15)61485-4) - 안정된 SVT에서 modified Valsalva의 시행 방법과 전환 효과
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -431,21 +449,3 @@ _※ AF/HFrEF 분기의 β-차단제 ± digoxin은 혈역학적으로 안정된 
 * 새로운 빠른 두근거림이 수시간 지속되거나 이전보다 빈도·강도가 증가하는 경우
 * 이전에 구조적 심장 질환을 진단받은 분에서 새로운 두근거림이 발생한 경우
 * 반복적인 두근거림과 함께 어지럼, 운동 시 증상, 하지 부종 등이 동반되는 경우
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Wigginton JG, et al. Part 9: Adult Advanced Life Support: 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2025;152(16 Suppl 2).](https://doi.org/10.1161/CIR.0000000000001376) - 혈역학적 불안정 빈맥·서맥과 응급 전기·약물 치료
-* [Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. Eur Heart J. 2020;41(5):655-720.](https://doi.org/10.1093/eurheartj/ehz467) - AVNRT·AVRT의 급성·장기 치료, pre-excitation의 약물 제한과 절제술
-* [Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2024;45(36):3314-3414.](https://doi.org/10.1093/eurheartj/ehae176) - AF 심박수 조절·뇌졸중 예방과 CHA₂DS₂-VA; 2023 미국 지침의 점수 체계와 구분
-* [Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation. 2024;149(1):e1-e156.](https://doi.org/10.1161/CIR.0000000000001193) - AF 진단·심박수 조절·항응고와 CHA₂DS₂-VASc의 적용; 지침명은 2023, 출판은 2024년
-* [Zeppenfeld K, et al. 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J. 2022;43(40):3997-4126.](https://doi.org/10.1093/eurheartj/ehac262) - PVC burden·구조적 심질환 평가와 심실부정맥 위험 관리
-* [Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT): a randomised controlled trial. Lancet. 2015;386(10005):1747-1753.](https://doi.org/10.1016/S0140-6736(15)61485-4) - 안정된 SVT에서 modified Valsalva의 시행 방법과 전환 효과
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

@@ -589,6 +589,27 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[2021 AHA/ACC] [Gulati M, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Circulation. 2021;144(22):e368-e454.](https://doi.org/10.1161/CIR.0000000000001029) - 흉통 표현·초기 ECG·troponin 평가와 위험도별 진단 경로; 본문 그림·표 출처
+* \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline] [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation. 2025;151(13):e771-e862.](https://doi.org/10.1161/CIR.0000000000001309) - ACS 의심·확진 시 항혈소판 치료, 재관류와 초기 처치
+* \[2014 AHA/ACC NSTE-ACS Guideline] [Amsterdam EA, et al. 2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes. Circulation. 2014;130(25):e344-e426.](https://doi.org/10.1161/CIR.0000000000000134) - 코카인·메스암페타민 관련 흉통의 β차단제 주의
+* [ACC/ESC/AHA/WHF Joint Task Force. Fifth Universal Definition of Myocardial Infarction (2026). J Am Coll Cardiol. 2026.](https://doi.org/10.1016/j.jacc.2026.07.025) - 심근손상·심근경색의 정의, 성별 특이 troponin 기준과 MINOCA 작업 진단
+* [Isselbacher EM, et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation. 2022;146(24):e334-e482.](https://pubmed.ncbi.nlm.nih.gov/36322642/) - 급성 대동맥증후군의 위험 평가·확진 영상과 치료·이송 판단
+* [Schulz-Menger J, et al. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025;46(40):3952-4041.](https://doi.org/10.1093/eurheartj/ehaf192) - 심낭염·심근염의 진단 기준, 고위험 소견과 검사
+* [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation. 2026;153(12).](https://doi.org/10.1161/CIR.0000000000001415) - 성인 급성 폐색전증의 진단·위험 분류, 초기 치료와 입원·의뢰 판단
+* [Katz PO, et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56.](https://doi.org/10.14309/ajg.0000000000001538) - 전형적 가슴쓰림·역류 증상에서 PPI 경험적 치료와 반응 불충분 시 객관적 검사
+* Jameson JL, et al., eds. Harrison's Principles of Internal Medicine. 20th ed. McGraw-Hill; 2018. - 본문 감별 표 출처(Table 11-1)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -674,24 +695,3 @@ Wells score가 진단 가능성 평가 도구라면, PESI(Pulmonary Embolism Sev
 * 체중 감량과 금연이 증상 완화에 도움이 됩니다
 
 _<mark style="color:$info;">Ref. 2021 AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain; 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Acute Coronary Syndromes; 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease; 질병관리청</mark>_
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[2021 AHA/ACC] [Gulati M, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain. Circulation. 2021;144(22):e368-e454.](https://doi.org/10.1161/CIR.0000000000001029) - 흉통 표현·초기 ECG·troponin 평가와 위험도별 진단 경로; 본문 그림·표 출처
-* \[2025 ACC/AHA/ACEP/NAEMSP/SCAI ACS Guideline] [Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation. 2025;151(13):e771-e862.](https://doi.org/10.1161/CIR.0000000000001309) - ACS 의심·확진 시 항혈소판 치료, 재관류와 초기 처치
-* \[2014 AHA/ACC NSTE-ACS Guideline] [Amsterdam EA, et al. 2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes. Circulation. 2014;130(25):e344-e426.](https://doi.org/10.1161/CIR.0000000000000134) - 코카인·메스암페타민 관련 흉통의 β차단제 주의
-* [ACC/ESC/AHA/WHF Joint Task Force. Fifth Universal Definition of Myocardial Infarction (2026). J Am Coll Cardiol. 2026.](https://doi.org/10.1016/j.jacc.2026.07.025) - 심근손상·심근경색의 정의, 성별 특이 troponin 기준과 MINOCA 작업 진단
-* [Isselbacher EM, et al. 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation. 2022;146(24):e334-e482.](https://pubmed.ncbi.nlm.nih.gov/36322642/) - 급성 대동맥증후군의 위험 평가·확진 영상과 치료·이송 판단
-* [Schulz-Menger J, et al. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025;46(40):3952-4041.](https://doi.org/10.1093/eurheartj/ehaf192) - 심낭염·심근염의 진단 기준, 고위험 소견과 검사
-* [Creager MA, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation. 2026;153(12).](https://doi.org/10.1161/CIR.0000000000001415) - 성인 급성 폐색전증의 진단·위험 분류, 초기 치료와 입원·의뢰 판단
-* [Katz PO, et al. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56.](https://doi.org/10.14309/ajg.0000000000001538) - 전형적 가슴쓰림·역류 증상에서 PPI 경험적 치료와 반응 불충분 시 객관적 검사
-* Jameson JL, et al., eds. Harrison's Principles of Internal Medicine. 20th ed. McGraw-Hill; 2018. - 본문 감별 표 출처(Table 11-1)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

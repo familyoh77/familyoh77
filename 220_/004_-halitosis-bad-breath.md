@@ -329,6 +329,23 @@ class C,D2,K yellow
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Seemann R, et al. Halitosis management by the general dental practitioner - results of an international consensus workshop. J Breath Res. 2014;8(1):017101.](https://doi.org/10.1088/1752-7155/8/1/017101) - 구강 내 원인 평가·치과 치료와 비구강성·주관적 구취의 접근; 본문 알고리듬의 원칙
+* [Kumbargere Nagraj S, et al. Interventions for managing halitosis. Cochrane Database Syst Rev. 2019;12:CD012213.](https://doi.org/10.1002/14651858.CD012213.pub2) - 설태 제거·구강세정제 등 중재의 효과와 낮음~매우 낮음의 근거 확실성
+* [Huang N, et al. Efficacy of probiotics in the management of halitosis: a systematic review and meta-analysis. BMJ Open. 2022;12(12):e060753.](https://bmjopen.bmj.com/content/12/12/e060753) - 프로바이오틱스의 단기 구취 개선과 균주·용량·연구 이질성
+* [Passadakis G, et al. Effectiveness of Probiotics in Managing Oral Halitosis: A Systematic Review of Randomized Controlled Trials. J Int Soc Prev Community Dent. 2025;15(4):301-312.](https://doi.org/10.4103/jispcd.jispcd_19_25) - 프로바이오틱스 연구의 후속 정리; 표준 구강 위생·원인 치료를 대체할 근거와 구분
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. 가글 용제(헥사메딘가글액 등) 급여기준. 고시 제2018-253호 (2018-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201&mtgMtrRegSno=0023&sno=1) - 입원·암환자 및 외래환자의 인정 범위·용량; 처방 시 현행 기준 확인 (확인일 2026-10-11)
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -371,20 +388,3 @@ class C,D2,K yellow
 * 구취와 함께 심한 인후통, 코막힘, 속쓰림이 동반되는 경우
 * 구취와 함께 삼킴 곤란(음식이 걸리는 느낌)이 동반되는 경우 - 특히 고령 환자에서 식도 문제 가능성
 * 구취 때문에 사람들을 피하게 되거나 일상생활에 지장이 생기는 경우 - 이는 치료 가능한 심리적 문제이므로 전문가 상담이 필요합니다
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Seemann R, et al. Halitosis management by the general dental practitioner - results of an international consensus workshop. J Breath Res. 2014;8(1):017101.](https://doi.org/10.1088/1752-7155/8/1/017101) - 구강 내 원인 평가·치과 치료와 비구강성·주관적 구취의 접근; 본문 알고리듬의 원칙
-* [Kumbargere Nagraj S, et al. Interventions for managing halitosis. Cochrane Database Syst Rev. 2019;12:CD012213.](https://doi.org/10.1002/14651858.CD012213.pub2) - 설태 제거·구강세정제 등 중재의 효과와 낮음~매우 낮음의 근거 확실성
-* [Huang N, et al. Efficacy of probiotics in the management of halitosis: a systematic review and meta-analysis. BMJ Open. 2022;12(12):e060753.](https://bmjopen.bmj.com/content/12/12/e060753) - 프로바이오틱스의 단기 구취 개선과 균주·용량·연구 이질성
-* [Passadakis G, et al. Effectiveness of Probiotics in Managing Oral Halitosis: A Systematic Review of Randomized Controlled Trials. J Int Soc Prev Community Dent. 2025;15(4):301-312.](https://doi.org/10.4103/jispcd.jispcd_19_25) - 프로바이오틱스 연구의 후속 정리; 표준 구강 위생·원인 치료를 대체할 근거와 구분
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. 가글 용제(헥사메딘가글액 등) 급여기준. 고시 제2018-253호 (2018-12-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20181201&mtgMtrRegSno=0023&sno=1) - 입원·암환자 및 외래환자의 인정 범위·용량; 처방 시 현행 기준 확인 (확인일 2026-10-11)

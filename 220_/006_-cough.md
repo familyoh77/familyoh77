@@ -495,6 +495,23 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Joo H, et al. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273.](https://doi.org/10.4046/trd.2021.0038) - 대한결핵 및 호흡기학회 개정 기침진료지침 2020의 요약 논문; 본문 급성·아급성 기침 알고리듬 출처
+* [Parker SM, et al. British Thoracic Society Clinical Statement on chronic cough in adults. Thorax. 2023;78(Suppl 6):s3-s19.](https://doi.org/10.1136/thorax-2023-220592) - treatable-traits·기침 과민성 접근, 경험적 PPI와 난치성 기침 치료
+* [Morice AH, et al. ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020;55(1):1901136.](https://doi.org/10.1183/13993003.01136-2019) - 성인·소아 만성기침의 평가와 항염증·신경조절·기침 조절 치료
+* [Rouadi PW, et al. WAO-ARIA consensus on chronic cough: Executive summary. World Allergy Organ J. 2025;18(3):101034.](https://doi.org/10.1016/j.waojou.2025.101034) - 일차의료·전문 진료의 만성기침 관리와 원인별 치료
+* [Chang AB, et al. Managing Chronic Cough as a Symptom in Children and Management Algorithms: CHEST Guideline and Expert Panel Report. Chest. 2020;158(1):303-329.](https://doi.org/10.1016/j.chest.2020.01.042) - 14세 이하 소아의 4주 초과 만성기침과 소아별 평가·치료 알고리듬
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -532,20 +549,3 @@ graph TD
 * 뚜렷한 원인 없이 기침이 2주 이상 계속되면 진료 (결핵 등 확인)
 * 쉰 목소리, 설명되지 않는 체중 감소, 목 또는 쇄골 위 림프절 부종이 새로 생긴 경우에는 원인 평가
 * 기침이 8주 이상 지속되거나 적절한 치료에도 호전되지 않는 경우에는 만성 기침 원인에 대한 계획적 평가
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Joo H, et al. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273.](https://doi.org/10.4046/trd.2021.0038) - 대한결핵 및 호흡기학회 개정 기침진료지침 2020의 요약 논문; 본문 급성·아급성 기침 알고리듬 출처
-* [Parker SM, et al. British Thoracic Society Clinical Statement on chronic cough in adults. Thorax. 2023;78(Suppl 6):s3-s19.](https://doi.org/10.1136/thorax-2023-220592) - treatable-traits·기침 과민성 접근, 경험적 PPI와 난치성 기침 치료
-* [Morice AH, et al. ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020;55(1):1901136.](https://doi.org/10.1183/13993003.01136-2019) - 성인·소아 만성기침의 평가와 항염증·신경조절·기침 조절 치료
-* [Rouadi PW, et al. WAO-ARIA consensus on chronic cough: Executive summary. World Allergy Organ J. 2025;18(3):101034.](https://doi.org/10.1016/j.waojou.2025.101034) - 일차의료·전문 진료의 만성기침 관리와 원인별 치료
-* [Chang AB, et al. Managing Chronic Cough as a Symptom in Children and Management Algorithms: CHEST Guideline and Expert Panel Report. Chest. 2020;158(1):303-329.](https://doi.org/10.1016/j.chest.2020.01.042) - 14세 이하 소아의 4주 초과 만성기침과 소아별 평가·치료 알고리듬
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

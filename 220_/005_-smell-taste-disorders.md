@@ -376,6 +376,24 @@ class B,D,D2,F,P yellow
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Whitcroft KL, et al. Position paper on olfactory dysfunction: 2023. Rhinology. 2023;61(33):1-108.](https://doi.org/10.4193/Rhin22.483) - 후각장애의 분류·검사·감별과 후각훈련·약물 치료; 본문 그림 출처
+* [Tan BKJ, et al. Prognosis and persistence of smell and taste dysfunction in patients with covid-19: meta-analysis with parametric cure modelling of recovery curves. BMJ. 2022;378:e069503.](https://doi.org/10.1136/bmj-2021-069503) - 초기 유행기 자료에 기반한 회복률·지속성 장애의 모델 추정; 현재 환자의 개별 예후와 구분
+* [Albazee E, et al. Olfactory Training for COVID-19-Related Olfactory Dysfunction: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Turk Arch Otorhinolaryngol. 2026;64(2).](https://doi.org/10.4274/tao.2026.2026-3-27) - 10개 RCT의 객관적 후각기능·삶의 질 결과와 민감도 분석·이질성
+* [Philpott CM, et al. The APOLLO trial: a proof-of-concept study for vitamin A nasal drops in COVID-19-related postinfectious olfactory dysfunction. Chem Senses. 2026;51:bjag001.](https://doi.org/10.1093/chemse/bjag001) - 비강 vitamin A의 위약대조 시험 결과; 다른 감염 후 후각장애에 일괄 적용하지 않음
+* [Mozaffar B, et al. The Effectiveness of Zinc Supplementation in Taste Disorder Treatment: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. J Nutr Metab. 2023;2023:6711071.](https://doi.org/10.1155/2023/6711071) - 미각장애에서 아연 보충의 효과와 제형·용량·평가법 차이
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [보건복지부·한국영양학회. 2025 한국인 영양소 섭취기준 및 후속 정정 자료.](https://www.kns.or.kr/fileroom/fileroom_view.asp?BoardID=Kdr&idx=167) - 아연의 일반 영양섭취 기준·상한섭취량; 결핍 치료 목적의 의학적 투여와 구분 (확인일 2026-10-11)
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -425,21 +443,3 @@ class B,D,D2,F,P yellow
 * 냄새가 왜곡되어 불쾌한 냄새로 느껴지거나(이취증, Parosmia), 실제로 없는 냄새가 느껴지는 경우(환각취, Phantosmia) - 특히 새로 발생한 경우
 * 체중이 지속적으로 감소하거나 식사가 어려운 경우
 * 후각·미각 소실로 인한 **우울감, 고독감**이 생기면 주치의와 상담하십시오 (☞ [우울증](../221_/027_-depression.md))
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Whitcroft KL, et al. Position paper on olfactory dysfunction: 2023. Rhinology. 2023;61(33):1-108.](https://doi.org/10.4193/Rhin22.483) - 후각장애의 분류·검사·감별과 후각훈련·약물 치료; 본문 그림 출처
-* [Tan BKJ, et al. Prognosis and persistence of smell and taste dysfunction in patients with covid-19: meta-analysis with parametric cure modelling of recovery curves. BMJ. 2022;378:e069503.](https://doi.org/10.1136/bmj-2021-069503) - 초기 유행기 자료에 기반한 회복률·지속성 장애의 모델 추정; 현재 환자의 개별 예후와 구분
-* [Albazee E, et al. Olfactory Training for COVID-19-Related Olfactory Dysfunction: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Turk Arch Otorhinolaryngol. 2026;64(2).](https://doi.org/10.4274/tao.2026.2026-3-27) - 10개 RCT의 객관적 후각기능·삶의 질 결과와 민감도 분석·이질성
-* [Philpott CM, et al. The APOLLO trial: a proof-of-concept study for vitamin A nasal drops in COVID-19-related postinfectious olfactory dysfunction. Chem Senses. 2026;51:bjag001.](https://doi.org/10.1093/chemse/bjag001) - 비강 vitamin A의 위약대조 시험 결과; 다른 감염 후 후각장애에 일괄 적용하지 않음
-* [Mozaffar B, et al. The Effectiveness of Zinc Supplementation in Taste Disorder Treatment: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. J Nutr Metab. 2023;2023:6711071.](https://doi.org/10.1155/2023/6711071) - 미각장애에서 아연 보충의 효과와 제형·용량·평가법 차이
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [보건복지부·한국영양학회. 2025 한국인 영양소 섭취기준 및 후속 정정 자료.](https://www.kns.or.kr/fileroom/fileroom_view.asp?BoardID=Kdr&idx=167) - 아연의 일반 영양섭취 기준·상한섭취량; 결핍 치료 목적의 의학적 투여와 구분 (확인일 2026-10-11)
