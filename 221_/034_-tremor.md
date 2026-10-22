@@ -567,6 +567,23 @@ class P,R,S,T,U,X yellow
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[Mov Disord 2018] [Bhatia KP, et al. Consensus Statement on the classification of tremors. From the task force on tremor of the International Parkinson and Movement Disorder Society. Mov Disord. 2018;33(1):75-87.](https://doi.org/10.1002/mds.27121) - 본태떨림·ET-plus와 다른 떨림 증후군의 분류·감별
+* \[Mov Disord 2026] [Dash D, et al. Update on Medical Treatments for Essential Tremor: An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review. Mov Disord. 2026;41(4):815-825.](https://doi.org/10.1002/mds.70184) - 본태떨림 약제의 효과와 낮거나 매우 낮은 근거 확실성; 기존 약제의 사용 금지로 해석하지 않음
+* \[J Neurol 2026] [Jesuthasan A, et al. Orthostatic tremor and its subtypes: a single centre cohort of 74 patients. J Neurol. 2026;273(2):100.](https://doi.org/10.1007/s00415-026-13625-3) - 기립떨림 하위 유형·치료 반응; 단일기관 코호트의 적용 한계
+* [Elias WJ, et al. A Randomized Trial of Focused Ultrasound Thalamotomy for Essential Tremor. N Engl J Med. 2016;375(8):730-739.](https://doi.org/10.1056/NEJMoa1600159) - 약물 불응성 본태떨림에서 일측 집속초음파 시상절개술의 효과·이상반응; 양측 시술에 일괄 적용하지 않음
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - propranolol·primidone·topiramate 등 떨림 치료 약물의 적응증·안전성과 허가 외 사용 여부
+* [건강보험심사평가원. 「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정. 고시 제2018-18호: Primidone 경구제 관련.](https://www.hira.or.kr/bbsDummy.do?brdBltNo=6722&brdScnBltNo=4&pageIndex=2&pgmid=HIRAA020002000100) - 본태떨림의 primidone 급여 관련 개정 자료; 처방 시 후속 개정·현행 기준 확인 (확인일 2026-10-11)
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -615,20 +632,3 @@ class P,R,S,T,U,X yellow
 * 원인을 모르는 한쪽 떨림이 새로 생기거나 손발이 뻣뻣하고 동작이 느려지면 가능한 빨리 진료를 받으십시오.
 * 한쪽 눈이 반복해서 강하게 감기거나 경련이 뺨·입가로 퍼지면 진료를 받으십시오. 청력 저하나 얼굴 감각 변화가 함께 생겨도 조기에 평가받으십시오. 갑자기 얼굴 한쪽이 처지거나 말이 어눌해지면 즉시 응급진료를 받으십시오.
 * 약을 먹은 뒤 숨이 차거나, 쓰러지거나, 심하게 어지럽거나, 맥박이 지나치게 느려지면 즉시 진료를 받으십시오.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[Mov Disord 2018] [Bhatia KP, et al. Consensus Statement on the classification of tremors. From the task force on tremor of the International Parkinson and Movement Disorder Society. Mov Disord. 2018;33(1):75-87.](https://doi.org/10.1002/mds.27121) - 본태떨림·ET-plus와 다른 떨림 증후군의 분류·감별
-* \[Mov Disord 2026] [Dash D, et al. Update on Medical Treatments for Essential Tremor: An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review. Mov Disord. 2026;41(4):815-825.](https://doi.org/10.1002/mds.70184) - 본태떨림 약제의 효과와 낮거나 매우 낮은 근거 확실성; 기존 약제의 사용 금지로 해석하지 않음
-* \[J Neurol 2026] [Jesuthasan A, et al. Orthostatic tremor and its subtypes: a single centre cohort of 74 patients. J Neurol. 2026;273(2):100.](https://doi.org/10.1007/s00415-026-13625-3) - 기립떨림 하위 유형·치료 반응; 단일기관 코호트의 적용 한계
-* [Elias WJ, et al. A Randomized Trial of Focused Ultrasound Thalamotomy for Essential Tremor. N Engl J Med. 2016;375(8):730-739.](https://doi.org/10.1056/NEJMoa1600159) - 약물 불응성 본태떨림에서 일측 집속초음파 시상절개술의 효과·이상반응; 양측 시술에 일괄 적용하지 않음
-
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - propranolol·primidone·topiramate 등 떨림 치료 약물의 적응증·안전성과 허가 외 사용 여부
-* [건강보험심사평가원. 「요양급여의 적용기준 및 방법에 관한 세부사항(약제)」 일부개정. 고시 제2018-18호: Primidone 경구제 관련.](https://www.hira.or.kr/bbsDummy.do?brdBltNo=6722&brdScnBltNo=4&pageIndex=2&pgmid=HIRAA020002000100) - 본태떨림의 primidone 급여 관련 개정 자료; 처방 시 후속 개정·현행 기준 확인 (확인일 2026-10-11)

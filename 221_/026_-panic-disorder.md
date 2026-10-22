@@ -473,6 +473,27 @@ Alprazolam은 짧은 반감기로 투여 간 금단과 반동불안이 나타날
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://www.psychiatry.org/psychiatrists/practice/dsm) - 진단 기준과 감별; APA의 후속 정정·개정 자료와 함께 확인
+* \[NICE CG113] [NICE. Generalised anxiety disorder and panic disorder in adults: management. Clinical guideline CG113. 2011; updated 2020.](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations) - 공황장애의 CBT·항우울제 치료, 추적 시점과 benzodiazepine 사용 제한
+* \[WHO mhGAP 2023] [World Health Organization. Benzodiazepines in treatment of adults with generalized anxiety disorder and/or panic disorder. mhGAP evidence centre. 2023.](https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/anxiety/benzodiazepines-in-treatment-of-adults-with-generalized-anxiety-disorder-and-or-panic-disorder) - benzodiazepine의 통상적 사용 제한과 급성 중증 불안에서의 단기 사용 범위
+* [World Health Organization. Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological and substance use disorders. 3rd ed. 2023.](https://www.who.int/publications/i/item/9789240084278) - mhGAP 불안 모듈 전체 권고
+* [김민경 외. 2018 한국형 공황장애 치료지침서: 초기 및 유지 약물치료 전략. 대한불안의학회지. 2018;14(2):53-62.](https://public.anxiety.or.kr/html/?pmode=journal&seq=242&smode=view) - 국내 전문가 합의에 따른 초기·유지 치료; benzodiazepine에 관한 국제 지침과의 차이 확인
+* [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존·금단 위험 평가, 개별 감량 계획과 CBT 등 보조 치료
+* \[Depress Anxiety 2009] [Furukawa TA, et al. Evidence-based guidelines for interpretation of the Panic Disorder Severity Scale. Depress Anxiety. 2009;26(10):922-929.](https://doi.org/10.1002/da.20532) - PDSS 중증도 구간과 반응·관해 기준; 임상의 평정판 기준
+* \[Front Psychiatry 2026] [Muotri RW, et al. Brief intermittent intense exercise as interoceptive exposure for panic disorder: a randomized controlled clinical trial. Front Psychiatry. 2026;16:1739639.](https://doi.org/10.3389/fpsyt.2025.1739639) - 감독하 고강도 간헐운동을 이용한 신체감각 노출; 단일 RCT
+* [장윤영, 문은수, 김원. 국내외 불안장애 약물치료 지침에서의 벤조디아제핀 처방 기준: 공황장애와 범불안장애를 중심으로. 대한불안의학회지. 2025;21(2):35-41.](https://doi.org/10.24986/anxmod.2025.21.2.001) - 국내외 지침 간 BZD 권고 차이
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - SSRI/SNRI·benzodiazepine의 공황장애 적응증, 용량·금기·상호작용·중단 시 주의사항
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -564,24 +585,3 @@ graph LR
 * 공황 발작의 빈도가 갑자기 늘어나거나 일상생활이 불가능할 때
 * 우울감이 심해지거나 스스로를 해치고 싶은 생각이 들 때 - 즉시 내원 또는 **자살예방 상담전화 109**
 * 약 복용 후 심한 부작용(혈압 이상, 심한 위장 장애 등)이 나타날 때
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://www.psychiatry.org/psychiatrists/practice/dsm) - 진단 기준과 감별; APA의 후속 정정·개정 자료와 함께 확인
-* \[NICE CG113] [NICE. Generalised anxiety disorder and panic disorder in adults: management. Clinical guideline CG113. 2011; updated 2020.](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations) - 공황장애의 CBT·항우울제 치료, 추적 시점과 benzodiazepine 사용 제한
-* \[WHO mhGAP 2023] [World Health Organization. Benzodiazepines in treatment of adults with generalized anxiety disorder and/or panic disorder. mhGAP evidence centre. 2023.](https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/anxiety/benzodiazepines-in-treatment-of-adults-with-generalized-anxiety-disorder-and-or-panic-disorder) - benzodiazepine의 통상적 사용 제한과 급성 중증 불안에서의 단기 사용 범위
-* [World Health Organization. Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological and substance use disorders. 3rd ed. 2023.](https://www.who.int/publications/i/item/9789240084278) - mhGAP 불안 모듈 전체 권고
-* [김민경 외. 2018 한국형 공황장애 치료지침서: 초기 및 유지 약물치료 전략. 대한불안의학회지. 2018;14(2):53-62.](https://public.anxiety.or.kr/html/?pmode=journal&seq=242&smode=view) - 국내 전문가 합의에 따른 초기·유지 치료; benzodiazepine에 관한 국제 지침과의 차이 확인
-* [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존·금단 위험 평가, 개별 감량 계획과 CBT 등 보조 치료
-* \[Depress Anxiety 2009] [Furukawa TA, et al. Evidence-based guidelines for interpretation of the Panic Disorder Severity Scale. Depress Anxiety. 2009;26(10):922-929.](https://doi.org/10.1002/da.20532) - PDSS 중증도 구간과 반응·관해 기준; 임상의 평정판 기준
-* \[Front Psychiatry 2026] [Muotri RW, et al. Brief intermittent intense exercise as interoceptive exposure for panic disorder: a randomized controlled clinical trial. Front Psychiatry. 2026;16:1739639.](https://doi.org/10.3389/fpsyt.2025.1739639) - 감독하 고강도 간헐운동을 이용한 신체감각 노출; 단일 RCT
-* [장윤영, 문은수, 김원. 국내외 불안장애 약물치료 지침에서의 벤조디아제핀 처방 기준: 공황장애와 범불안장애를 중심으로. 대한불안의학회지. 2025;21(2):35-41.](https://doi.org/10.24986/anxmod.2025.21.2.001) - 국내외 지침 간 BZD 권고 차이
-
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - SSRI/SNRI·benzodiazepine의 공황장애 적응증, 용량·금기·상호작용·중단 시 주의사항

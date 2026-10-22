@@ -614,6 +614,30 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Kim MK, et al. Korean Guidelines for the Treatment of Generalized Anxiety Disorder 2024: Initial and Maintenance Treatment Strategies for the Pharmacological Treatment of Generalized Anxiety Disorder. Anxiety Mood. 2024;20(2):54-64.](https://doi.org/10.24986/anxmod.2024.20.2.004) - 2024 한국형 범불안장애 치료지침; 국내 전문가 합의의 초기·유지 전략
+* \[NICE CG113] [NICE. Generalised anxiety disorder and panic disorder in adults: management. Clinical guideline CG113. 2011; updated 2020.](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations) - CBT·SSRI/SNRI 우선 치료, 고강도 CBT 회기 수와 BZD 사용 범위
+* \[USPSTF 2023] [US Preventive Services Task Force. Screening for Anxiety Disorders in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023;329(24):2163-2170.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/anxiety-adults-screening) - 선별 대상 연령·등급 및 65세 이상 근거 불충분
+* \[JAMA 2023] [O'Connor E, et al. Anxiety Screening: Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023;329(24):2171-2184.](https://doi.org/10.1001/jama.2023.6369) - 선별 도구의 통합 민감도·특이도
+* \[JAMA Intern Med 2026] [Shepardson RL, et al. Treatment of Anxiety for Adults in Primary Care Settings: A Review. JAMA Intern Med. 2026;186(7):878-889.](https://doi.org/10.1001/jamainternmed.2026.0395) - 일차의료의 근거 기반 심리·약물 치료와 협력 진료
+* \[ASAM 2025] [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존 평가·개별 감량 속도와 금단 관리
+* \[Arch Intern Med 2006] [Spitzer RL, et al. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006;166(10):1092-1097.](https://doi.org/10.1001/archinte.166.10.1092) - GAD-7 원개발 연구와 선별 도구의 성능
+* \[Gen Hosp Psychiatry 2016] [Plummer F, et al. Screening for anxiety disorders with the GAD-7 and GAD-2: a systematic review and diagnostic metaanalysis. Gen Hosp Psychiatry. 2016;39:24-31.](https://doi.org/10.1016/j.genhosppsych.2015.11.005) - GAD-7 메타분석의 민감도·특이도
+* \[Ann Intern Med 2007] [Kroenke K, et al. Anxiety disorders in primary care: prevalence, impairment, comorbidity, and detection. Ann Intern Med. 2007;146(5):317-325.](https://doi.org/10.7326/0003-4819-146-5-200703060-00004) - 일차진료 환자의 불안장애 유병률
+* \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://doi.org/10.1176/appi.books.9780890425787) - 범불안장애 진단 기준
+* \[정신건강실태조사 2021] 보건복지부·국립정신건강센터. 2021년 정신건강실태조사. - 국내 불안장애 평생·1년 유병률
+* Ferri FF. Ferri's Clinical Advisor 2024. Elsevier; 2024. - 본문 표 출처(Table E2)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -655,27 +679,3 @@ BZD 병합 기간은 8주가 최다 응답(28.1%)이었으나 4주·12주·지�
 * 불안 증상이 갑자기 심해지거나 일상생활이 불가능한 경우
 * 우울감이 심해지거나 스스로를 해치고 싶은 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
 * 약 복용 후 심한 부작용(혈압 이상, 심한 위장 장애 등)이 나타나는 경우
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Kim MK, et al. Korean Guidelines for the Treatment of Generalized Anxiety Disorder 2024: Initial and Maintenance Treatment Strategies for the Pharmacological Treatment of Generalized Anxiety Disorder. Anxiety Mood. 2024;20(2):54-64.](https://doi.org/10.24986/anxmod.2024.20.2.004) - 2024 한국형 범불안장애 치료지침; 국내 전문가 합의의 초기·유지 전략
-* \[NICE CG113] [NICE. Generalised anxiety disorder and panic disorder in adults: management. Clinical guideline CG113. 2011; updated 2020.](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations) - CBT·SSRI/SNRI 우선 치료, 고강도 CBT 회기 수와 BZD 사용 범위
-* \[USPSTF 2023] [US Preventive Services Task Force. Screening for Anxiety Disorders in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023;329(24):2163-2170.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/anxiety-adults-screening) - 선별 대상 연령·등급 및 65세 이상 근거 불충분
-* \[JAMA 2023] [O'Connor E, et al. Anxiety Screening: Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2023;329(24):2171-2184.](https://doi.org/10.1001/jama.2023.6369) - 선별 도구의 통합 민감도·특이도
-* \[JAMA Intern Med 2026] [Shepardson RL, et al. Treatment of Anxiety for Adults in Primary Care Settings: A Review. JAMA Intern Med. 2026;186(7):878-889.](https://doi.org/10.1001/jamainternmed.2026.0395) - 일차의료의 근거 기반 심리·약물 치료와 협력 진료
-* \[ASAM 2025] [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존 평가·개별 감량 속도와 금단 관리
-* \[Arch Intern Med 2006] [Spitzer RL, et al. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006;166(10):1092-1097.](https://doi.org/10.1001/archinte.166.10.1092) - GAD-7 원개발 연구와 선별 도구의 성능
-* \[Gen Hosp Psychiatry 2016] [Plummer F, et al. Screening for anxiety disorders with the GAD-7 and GAD-2: a systematic review and diagnostic metaanalysis. Gen Hosp Psychiatry. 2016;39:24-31.](https://doi.org/10.1016/j.genhosppsych.2015.11.005) - GAD-7 메타분석의 민감도·특이도
-* \[Ann Intern Med 2007] [Kroenke K, et al. Anxiety disorders in primary care: prevalence, impairment, comorbidity, and detection. Ann Intern Med. 2007;146(5):317-325.](https://doi.org/10.7326/0003-4819-146-5-200703060-00004) - 일차진료 환자의 불안장애 유병률
-* \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://doi.org/10.1176/appi.books.9780890425787) - 범불안장애 진단 기준
-* \[정신건강실태조사 2021] 보건복지부·국립정신건강센터. 2021년 정신건강실태조사. - 국내 불안장애 평생·1년 유병률
-* Ferri FF. Ferri's Clinical Advisor 2024. Elsevier; 2024. - 본문 표 출처(Table E2)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인

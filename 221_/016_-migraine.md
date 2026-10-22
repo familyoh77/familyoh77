@@ -632,6 +632,27 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
+* \[AAN/AHS 2026] [Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adults: Practice Guideline Recommendations. Headache. 2026.](https://doi.org/10.1111/head.70199) - 예방치료 대상·약제 선택 및 약물과용 동반 환자의 치료
+* \[AHS ED 2025] [Robblee J, et al. 2025 guideline update to acute treatment of migraine for adults in the emergency department: The American Headache Society evidence assessment of parenteral pharmacotherapies. Headache. 2026;66(1):53-76.](https://doi.org/10.1111/head.70016) - 응급실 비경구 치료·신경차단술; status migrainosus만의 근거와 구분
+* \[J Clin Neurol 2012] [Kim BK, et al. Prevalence and impact of migraine and tension-type headache in Korea. J Clin Neurol. 2012;8(3):204-211.](https://doi.org/10.3988/jcn.2012.8.3.204) - 2009 Korean Headache Survey의 국내 편두통 유병률
+* \[J Clin Neurol 2021] [Kim KM, et al. Prevalence, disability, and management patterns of migraine in Korea: nationwide survey data from 2009 and 2018. J Clin Neurol. 2021;17(1):77-85.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7840323/) - 2018 Korean Sleep-Headache Survey의 국내 편두통 유병률
+* \[대한두통학회 2021] [대한두통학회. 편두통 예방치료 약제 진료지침. 2021.](https://headache.or.kr/bbs/board.php?bo_table=3_5_1_1&wr_id=4) - 국내 예방치료 권고; 이후 개정 지침과 함께 해석
+* [Puledda F, et al. International Headache Society global practice recommendations for the acute pharmacological treatment of migraine. Cephalalgia. 2024;44(8):3331024241252666.](https://pubmed.ncbi.nlm.nih.gov/39133176/) - 편두통 급성기 약제 선택·단계적 치료 및 과용 방지
+* [Charles AC, et al. Calcitonin gene-related peptide-targeting therapies are a first-line option for the prevention of migraine: An American Headache Society position statement update. Headache. 2024;64(4):333-341.](https://doi.org/10.1111/head.14692) - CGRP 표적 예방치료의 초기 선택; 국내 급여 기준과 구분
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. Fremanezumab 주사제(아조비) 급여기준. 고시 제2024-130호 (2024-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701&sno=4&mtgMtrRegSno=0005) - 본문 연결 고시의 투여 대상·평가·기간 확인; 다른 CGRP 약제는 제품별 기준 별도 조회 (확인일 2026-10-11)
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -671,24 +692,3 @@ _Ref. Robblee J, et al. 2025 guideline update to acute treatment of migraine for
 * 평소와 전혀 다른 양상의 두통이 갑자기 나타난 경우
 
 ***
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
-* \[AAN/AHS 2026] [Potrebic S, et al. Pharmacologic Treatment for Migraine Prevention in Adults: Practice Guideline Recommendations. Headache. 2026.](https://doi.org/10.1111/head.70199) - 예방치료 대상·약제 선택 및 약물과용 동반 환자의 치료
-* \[AHS ED 2025] [Robblee J, et al. 2025 guideline update to acute treatment of migraine for adults in the emergency department: The American Headache Society evidence assessment of parenteral pharmacotherapies. Headache. 2026;66(1):53-76.](https://doi.org/10.1111/head.70016) - 응급실 비경구 치료·신경차단술; status migrainosus만의 근거와 구분
-* \[J Clin Neurol 2012] [Kim BK, et al. Prevalence and impact of migraine and tension-type headache in Korea. J Clin Neurol. 2012;8(3):204-211.](https://doi.org/10.3988/jcn.2012.8.3.204) - 2009 Korean Headache Survey의 국내 편두통 유병률
-* \[J Clin Neurol 2021] [Kim KM, et al. Prevalence, disability, and management patterns of migraine in Korea: nationwide survey data from 2009 and 2018. J Clin Neurol. 2021;17(1):77-85.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7840323/) - 2018 Korean Sleep-Headache Survey의 국내 편두통 유병률
-* \[대한두통학회 2021] [대한두통학회. 편두통 예방치료 약제 진료지침. 2021.](https://headache.or.kr/bbs/board.php?bo_table=3_5_1_1&wr_id=4) - 국내 예방치료 권고; 이후 개정 지침과 함께 해석
-* [Puledda F, et al. International Headache Society global practice recommendations for the acute pharmacological treatment of migraine. Cephalalgia. 2024;44(8):3331024241252666.](https://pubmed.ncbi.nlm.nih.gov/39133176/) - 편두통 급성기 약제 선택·단계적 치료 및 과용 방지
-* [Charles AC, et al. Calcitonin gene-related peptide-targeting therapies are a first-line option for the prevention of migraine: An American Headache Society position statement update. Headache. 2024;64(4):333-341.](https://doi.org/10.1111/head.14692) - CGRP 표적 예방치료의 초기 선택; 국내 급여 기준과 구분
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. Fremanezumab 주사제(아조비) 급여기준. 고시 제2024-130호 (2024-07-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240701&sno=4&mtgMtrRegSno=0005) - 본문 연결 고시의 투여 대상·평가·기간 확인; 다른 CGRP 약제는 제품별 기준 별도 조회 (확인일 2026-10-11)

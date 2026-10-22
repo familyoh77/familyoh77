@@ -342,6 +342,22 @@ graph TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[CDC Yellow Book 2026] [Golding JF. Motion Sickness. In: CDC Yellow Book 2026: Health Information for International Travel. Published April 23, 2025.](https://www.cdc.gov/yellow-book/hcp/travel-air-sea/motion-sickness.html) - 비약물 예방·약제 선택과 투여 시점 (확인일 2026-10-11)
+* \[Bárány Society 2021] [Cha YH, et al. Motion sickness diagnostic criteria: Consensus Document of the Classification Committee of the Bárány Society. J Vestib Res. 2021;31(5):327-344.](https://doi.org/10.3233/VES-200005) - 멀미·시각유발 멀미 및 장애의 진단 기준
+* [Karrim N, et al. Antihistamines for motion sickness. Cochrane Database Syst Rev. 2022;10:CD012715.](https://doi.org/10.1002/14651858.CD012715.pub2) - 항히스타민제의 예방 효과와 졸음 등 이상반응
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [U.S. Food and Drug Administration. FDA adds warning about serious risk of heat-related complications with antinausea patch Transderm Scōp (scopolamine transdermal system). Drug Safety Communication. June 18, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-adds-warning-about-serious-risk-heat-related-complications-antinausea-patch-transderm-scop) - scopolamine 경피제의 고체온·열 관련 합병증 경고
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -391,19 +407,3 @@ graph TD
 * 움직임이 끝난 뒤에도 구토가 계속되어 물을 마시기 어렵거나 소변량이 줄어든 경우
 * 배·비행기에서 내린 뒤 흔들리는 느낌이 이틀 넘게 계속되는 경우
 * 예방 조치와 약에도 멀미가 심해 여행이나 일상생활이 어려운 경우
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[CDC Yellow Book 2026] [Golding JF. Motion Sickness. In: CDC Yellow Book 2026: Health Information for International Travel. Published April 23, 2025.](https://www.cdc.gov/yellow-book/hcp/travel-air-sea/motion-sickness.html) - 비약물 예방·약제 선택과 투여 시점 (확인일 2026-10-11)
-* \[Bárány Society 2021] [Cha YH, et al. Motion sickness diagnostic criteria: Consensus Document of the Classification Committee of the Bárány Society. J Vestib Res. 2021;31(5):327-344.](https://doi.org/10.3233/VES-200005) - 멀미·시각유발 멀미 및 장애의 진단 기준
-* [Karrim N, et al. Antihistamines for motion sickness. Cochrane Database Syst Rev. 2022;10:CD012715.](https://doi.org/10.1002/14651858.CD012715.pub2) - 항히스타민제의 예방 효과와 졸음 등 이상반응
-
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [U.S. Food and Drug Administration. FDA adds warning about serious risk of heat-related complications with antinausea patch Transderm Scōp (scopolamine transdermal system). Drug Safety Communication. June 18, 2025.](https://www.fda.gov/drugs/drug-safety-and-availability/fda-adds-warning-about-serious-risk-heat-related-complications-antinausea-patch-transderm-scop) - scopolamine 경피제의 고체온·열 관련 합병증 경고

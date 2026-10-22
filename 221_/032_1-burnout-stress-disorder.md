@@ -448,6 +448,35 @@ _<mark style="color:$info;">✽ 다음 처방례는 번아웃 치료가 아니�
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[ICD-11 QD85] [World Health Organization. Burn-out an "occupational phenomenon": International Classification of Diseases. 2019.](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases) - ICD-11 QD85의 정의·3가지 차원과 질병 진단과의 구분
+* \[ICD-11 6B43] [World Health Organization. ICD-11 for Mortality and Morbidity Statistics: Adjustment disorder (6B43).](https://icd.who.int/browse/) - 적응장애의 진단 범주·기준; 현행 ICD-11 브라우저에서 6B43 확인
+* \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://www.psychiatry.org/psychiatrists/practice/dsm) - 진단 기준과 감별; APA의 후속 정정·개정 자료와 함께 확인
+* [World Health Organization. WHO Guidelines on Mental Health at Work. 2022.](https://www.who.int/publications/i/item/9789240053052) - 조직 수준 중재·관리자 교육·업무 복귀와 근거 수준
+* \[JAMA 2018] [Rotenstein LS, et al. Prevalence of Burnout Among Physicians: A Systematic Review. JAMA. 2018;320(11):1131-1150.](https://doi.org/10.1001/jama.2018.12777) - 의사 번아웃 유병률 추정과 정의·도구에 따른 변이
+* [Maslach C, et al. Maslach Burnout Inventory Manual. 4th ed. Mind Garden; 2016.](https://www.mindgarden.com/117-maslach-burnout-inventory-mbi) - MBI의 하위 영역·측정·해석; 척도 사용 조건 확인
+* \[Stress Health 2004] [Rohland BM, Kruse GR, Rohrer JE. Validation of a single-item measure of burnout against the Maslach Burnout Inventory among physicians. Stress Health. 2004;20(2):75-79.](https://doi.org/10.1002/smi.1002) - 의사 대상 단일 문항 번아웃 측정의 타당도와 적용 한계
+* \[JGIM 2015] [Dolan ED, et al. Using a single item to measure burnout in primary care staff: a psychometric evaluation. J Gen Intern Med. 2015;30(5):582-587.](https://doi.org/10.1007/s11606-014-3112-6) - 일차의료 직원의 단일 문항 측정; 임상 확진 검사와 구분
+* \[Lancet 2016] [West CP, et al. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281.](https://doi.org/10.1016/S0140-6736(16)31279-X) - 의사 대상 개인·조직 중재의 효과와 연구 간 이질성
+* \[JAMA Intern Med 2017] [Panagioti M, et al. Controlled Interventions to Reduce Burnout in Physicians: A Systematic Review and Meta-analysis. JAMA Intern Med. 2017;177(2):195-205.](https://doi.org/10.1001/jamainternmed.2016.7674) - 의사 번아웃 중재 효과와 조직 수준 접근의 근거
+* [Sateia MJ, et al. Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017;13(2):307-349.](https://doi.org/10.5664/jcsm.6470) - 수면제별 권고와 근거 한계; 이후 지침·허가사항과 함께 해석
+* [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Chronic Insomnia Disorder and Obstructive Sleep Apnea. Version 3.0. 2025.](https://www.healthquality.va.gov/guidelines/CD/insomnia/) - CBT-I, 단기 약물 치료와 동반 수면무호흡 평가
+* [2023 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. J Am Geriatr Soc. 2023;71(7):2052-2081.](https://doi.org/10.1111/jgs.18372) - 고령자의 benzodiazepine·수면제 등 잠재적 부적절 약물과 안전성
+* \[NASEM, 2024] [National Academies of Sciences, Engineering, and Medicine. A Long COVID Definition: A Chronic, Systemic Disease State with Profound Consequences. 2024.](https://www.nationalacademies.org/read/27768/chapter/3) - 지속 피로·활동 후 증상 악화의 감별을 위한 Long COVID 정의
+* [Montero-Marín J, et al. A new definition of burnout syndrome based on Farber's proposal. J Occup Med Toxicol. 2009;4:31.](https://doi.org/10.1186/1745-6673-4-31) - 번아웃 하위 유형의 개념적 제안; 공식 진단 분류와 구분
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [통계청. 제9차 한국표준질병·사인분류 개정 고시. 통계청고시 제2025-299호. 2025.](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000260878) - 국내 진단 분류·코딩의 확인 자료; ICD-11 정의와 국내 적용을 구분
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - escitalopram·lorazepam·propranolol·trazodone의 적응증·안전성과 번아웃 자체에 대한 허가 여부
+* [의정부시 보건소. 정신건강 심리상담 바우처 사업 안내. 2026.](https://ui4u.go.kr/health/contents.do?mId=0304030000) - 심리상담 지원 대상·신청·이용의 공공기관 확인 자료; 해당 지역의 현행 시행 안내 확인 (확인일 2026-10-11)
+* 국가법령정보센터. [근로기준법](https://www.law.go.kr/법령/근로기준법) 제76조의2·제76조의3, [산업안전보건법](https://www.law.go.kr/법령/산업안전보건법) 제41조, [산업재해보상보험법 시행령](https://www.law.go.kr/법령/산업재해보상보험법시행령) 별표 3. - 직장 내 괴롭힘·고객 폭언 등의 보호 조치와 업무상 질병 관련 확인 자료; 상담·의뢰 시 현행 조문 확인 (확인일 2026-10-11)
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -527,32 +556,3 @@ _<mark style="color:$info;">✽ 다음 처방례는 번아웃 치료가 아니�
 * 누군가를 해치고 싶은 생각이 강하게 들 때
 * 술이나 수면제·안정제를 끊은 뒤 손 떨림, 경련, 정신이 혼미해지는 증상이 나타날 때
 * 잠을 거의 자지 않아도 피곤하지 않고 말과 행동이 지나치게 많아질 때
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[ICD-11 QD85] [World Health Organization. Burn-out an "occupational phenomenon": International Classification of Diseases. 2019.](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases) - ICD-11 QD85의 정의·3가지 차원과 질병 진단과의 구분
-* \[ICD-11 6B43] [World Health Organization. ICD-11 for Mortality and Morbidity Statistics: Adjustment disorder (6B43).](https://icd.who.int/browse/) - 적응장애의 진단 범주·기준; 현행 ICD-11 브라우저에서 6B43 확인
-* \[DSM-5-TR] [American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). 2022.](https://www.psychiatry.org/psychiatrists/practice/dsm) - 진단 기준과 감별; APA의 후속 정정·개정 자료와 함께 확인
-* [World Health Organization. WHO Guidelines on Mental Health at Work. 2022.](https://www.who.int/publications/i/item/9789240053052) - 조직 수준 중재·관리자 교육·업무 복귀와 근거 수준
-* \[JAMA 2018] [Rotenstein LS, et al. Prevalence of Burnout Among Physicians: A Systematic Review. JAMA. 2018;320(11):1131-1150.](https://doi.org/10.1001/jama.2018.12777) - 의사 번아웃 유병률 추정과 정의·도구에 따른 변이
-* [Maslach C, et al. Maslach Burnout Inventory Manual. 4th ed. Mind Garden; 2016.](https://www.mindgarden.com/117-maslach-burnout-inventory-mbi) - MBI의 하위 영역·측정·해석; 척도 사용 조건 확인
-* \[Stress Health 2004] [Rohland BM, Kruse GR, Rohrer JE. Validation of a single-item measure of burnout against the Maslach Burnout Inventory among physicians. Stress Health. 2004;20(2):75-79.](https://doi.org/10.1002/smi.1002) - 의사 대상 단일 문항 번아웃 측정의 타당도와 적용 한계
-* \[JGIM 2015] [Dolan ED, et al. Using a single item to measure burnout in primary care staff: a psychometric evaluation. J Gen Intern Med. 2015;30(5):582-587.](https://doi.org/10.1007/s11606-014-3112-6) - 일차의료 직원의 단일 문항 측정; 임상 확진 검사와 구분
-* \[Lancet 2016] [West CP, et al. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281.](https://doi.org/10.1016/S0140-6736(16)31279-X) - 의사 대상 개인·조직 중재의 효과와 연구 간 이질성
-* \[JAMA Intern Med 2017] [Panagioti M, et al. Controlled Interventions to Reduce Burnout in Physicians: A Systematic Review and Meta-analysis. JAMA Intern Med. 2017;177(2):195-205.](https://doi.org/10.1001/jamainternmed.2016.7674) - 의사 번아웃 중재 효과와 조직 수준 접근의 근거
-* [Sateia MJ, et al. Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017;13(2):307-349.](https://doi.org/10.5664/jcsm.6470) - 수면제별 권고와 근거 한계; 이후 지침·허가사항과 함께 해석
-* [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Chronic Insomnia Disorder and Obstructive Sleep Apnea. Version 3.0. 2025.](https://www.healthquality.va.gov/guidelines/CD/insomnia/) - CBT-I, 단기 약물 치료와 동반 수면무호흡 평가
-* [2023 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. J Am Geriatr Soc. 2023;71(7):2052-2081.](https://doi.org/10.1111/jgs.18372) - 고령자의 benzodiazepine·수면제 등 잠재적 부적절 약물과 안전성
-* \[NASEM, 2024] [National Academies of Sciences, Engineering, and Medicine. A Long COVID Definition: A Chronic, Systemic Disease State with Profound Consequences. 2024.](https://www.nationalacademies.org/read/27768/chapter/3) - 지속 피로·활동 후 증상 악화의 감별을 위한 Long COVID 정의
-* [Montero-Marín J, et al. A new definition of burnout syndrome based on Farber's proposal. J Occup Med Toxicol. 2009;4:31.](https://doi.org/10.1186/1745-6673-4-31) - 번아웃 하위 유형의 개념적 제안; 공식 진단 분류와 구분
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [통계청. 제9차 한국표준질병·사인분류 개정 고시. 통계청고시 제2025-299호. 2025.](https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2100000260878) - 국내 진단 분류·코딩의 확인 자료; ICD-11 정의와 국내 적용을 구분
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - escitalopram·lorazepam·propranolol·trazodone의 적응증·안전성과 번아웃 자체에 대한 허가 여부
-* [의정부시 보건소. 정신건강 심리상담 바우처 사업 안내. 2026.](https://ui4u.go.kr/health/contents.do?mId=0304030000) - 심리상담 지원 대상·신청·이용의 공공기관 확인 자료; 해당 지역의 현행 시행 안내 확인 (확인일 2026-10-11)
-* 국가법령정보센터. [근로기준법](https://www.law.go.kr/법령/근로기준법) 제76조의2·제76조의3, [산업안전보건법](https://www.law.go.kr/법령/산업안전보건법) 제41조, [산업재해보상보험법 시행령](https://www.law.go.kr/법령/산업재해보상보험법시행령) 별표 3. - 직장 내 괴롭힘·고객 폭언 등의 보호 조치와 업무상 질병 관련 확인 자료; 상담·의뢰 시 현행 조문 확인 (확인일 2026-10-11)

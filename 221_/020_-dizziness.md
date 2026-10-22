@@ -781,6 +781,32 @@ flowchart TD
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Edlow JA, et al. Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): Acute dizziness and vertigo in the emergency department. Acad Emerg Med. 2023;30(5):442-486.](https://doi.org/10.1111/acem.14728) - 시간 경과·유발 인자에 따른 어지럼 평가, HINTS와 영상검사
+* [Sars C, et al. When to Use the HINTS Examination in Patients With Dizziness: A Review. JAMA Neurol. Published online September 21, 2026.](https://doi.org/10.1001/jamaneurol.2026.2942) - HINTS 적용 대상과 검사자 숙련도·해석의 한계
+* \[국제 전정장애 분류(ICVD)] [Strupp M, et al. Acute unilateral vestibulopathy/vestibular neuritis: Diagnostic criteria. Consensus document of the committee for the classification of vestibular disorders of the Bárány Society. J Vestib Res. 2022;32(5):389-406.](https://doi.org/10.3233/VES-220201) - AUVP 용어와 진단 기준
+* [von Brevern M, et al. Benign paroxysmal positional vertigo: Diagnostic criteria. J Vestib Res. 2015;25(3-4):105-117.](https://doi.org/10.3233/VES-150553) - Bárány Society BPPV 진단 기준
+* \[AAO-HNS 2017] [Bhattacharyya N, et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngol Head Neck Surg. 2017;156(3 Suppl):S1-S47.](https://doi.org/10.1177/0194599816689667) - 체위검사·정복술 및 전정억제제의 비일상적 사용
+* \[Front Neurol 2026] [Xin H, Fang N, Wu M. Comparative efficacy and safety of repositioning maneuvers for posterior canal benign paroxysmal positional vertigo: a network meta-analysis. Front Neurol. 2026;17:1762375.](https://doi.org/10.3389/fneur.2026.1762375) - 후반고리관 정복술 비교와 단기·장기 근거의 차이
+* \[Neurology 2020] [Jeong SH, et al. Prevention of benign paroxysmal positional vertigo with vitamin D supplementation: A randomized trial. Neurology. 2020;95(9):e1117-e1125.](https://doi.org/10.1212/WNL.0000000000010343) - 비타민 D가 낮은 환자의 보충과 BPPV 재발 예방
+* [Basura GJ, et al. Clinical Practice Guideline: Ménière's Disease. Otolaryngol Head Neck Surg. 2020;162(2 Suppl):S1-S55.](https://doi.org/10.1177/0194599820909438) - 메니에르병 진단·청력 평가와 유지치료 선택
+* [Lempert T, et al. Vestibular migraine: Diagnostic criteria (Update). J Vestib Res. 2022;32(1):1-6.](https://doi.org/10.3233/VES-201644) - Bárány Society·IHS 공동 전정편두통 진단 기준
+* \[J Neurol 2020] [Kim HJ, Lee JO, Choi JY, Kim JS. Etiologic distribution of dizziness and vertigo in a referral-based dizziness clinic in South Korea. J Neurol. 2020;267(8):2252-2259.](https://doi.org/10.1007/s00415-020-09831-2) - 국내 의뢰 기반 어지럼 클리닉의 원인 분포
+* \[JAMA Neurol 2023] [Strupp M, et al. The Semont-Plus Maneuver or the Epley Maneuver in Posterior Canal Benign Paroxysmal Positional Vertigo: A Randomized Clinical Study. JAMA Neurol. 2023;80(8):798-804.](https://doi.org/10.1001/jamaneurol.2023.1408) - 자가 정복술의 증상 소실 기간 비교
+* [Adrion C, et al. Efficacy and safety of betahistine treatment in patients with Meniere's disease: primary results of a long term, multicentre, double blind, randomised, placebo controlled, dose defining trial (BEMED trial). BMJ. 2016;352:h6816.](https://doi.org/10.1136/bmj.h6816) - betahistine 48·144 ㎎/d의 발작 예방 효과 없음
+* \[Bárány Society 2017] [Staab JP, et al. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): Consensus document of the committee for the Classification of Vestibular Disorders of the Bárány Society. J Vestib Res. 2017;27(4):191-208.](https://doi.org/10.3233/VES-170622) - PPPD의 진단 기준과 감별
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* [건강보험심사평가원. Ginkgo biloba extract 경구제 급여기준. 고시 제2025-34호 (2025-03-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250301&sno=1&mtgMtrRegSno=0008) - 허가 적응증과 급여 인정 범위의 구분 (확인일 2026-10-11)
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -818,29 +844,3 @@ flowchart TD
 * **이석증 재발 예방** : 비타민 D가 부족한 경우 보충제를 복용하면 재발을 줄일 수 있습니다.
 * 안정제(전정억제제)는 급성기 단기 사용에 한하며, 장기 복용은 뇌의 균형 회복을 방해합니다.
 * 갑자기 일어날 때는 천천히 움직이십시오.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Edlow JA, et al. Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): Acute dizziness and vertigo in the emergency department. Acad Emerg Med. 2023;30(5):442-486.](https://doi.org/10.1111/acem.14728) - 시간 경과·유발 인자에 따른 어지럼 평가, HINTS와 영상검사
-* [Sars C, et al. When to Use the HINTS Examination in Patients With Dizziness: A Review. JAMA Neurol. Published online September 21, 2026.](https://doi.org/10.1001/jamaneurol.2026.2942) - HINTS 적용 대상과 검사자 숙련도·해석의 한계
-* \[국제 전정장애 분류(ICVD)] [Strupp M, et al. Acute unilateral vestibulopathy/vestibular neuritis: Diagnostic criteria. Consensus document of the committee for the classification of vestibular disorders of the Bárány Society. J Vestib Res. 2022;32(5):389-406.](https://doi.org/10.3233/VES-220201) - AUVP 용어와 진단 기준
-* [von Brevern M, et al. Benign paroxysmal positional vertigo: Diagnostic criteria. J Vestib Res. 2015;25(3-4):105-117.](https://doi.org/10.3233/VES-150553) - Bárány Society BPPV 진단 기준
-* \[AAO-HNS 2017] [Bhattacharyya N, et al. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngol Head Neck Surg. 2017;156(3 Suppl):S1-S47.](https://doi.org/10.1177/0194599816689667) - 체위검사·정복술 및 전정억제제의 비일상적 사용
-* \[Front Neurol 2026] [Xin H, Fang N, Wu M. Comparative efficacy and safety of repositioning maneuvers for posterior canal benign paroxysmal positional vertigo: a network meta-analysis. Front Neurol. 2026;17:1762375.](https://doi.org/10.3389/fneur.2026.1762375) - 후반고리관 정복술 비교와 단기·장기 근거의 차이
-* \[Neurology 2020] [Jeong SH, et al. Prevention of benign paroxysmal positional vertigo with vitamin D supplementation: A randomized trial. Neurology. 2020;95(9):e1117-e1125.](https://doi.org/10.1212/WNL.0000000000010343) - 비타민 D가 낮은 환자의 보충과 BPPV 재발 예방
-* [Basura GJ, et al. Clinical Practice Guideline: Ménière's Disease. Otolaryngol Head Neck Surg. 2020;162(2 Suppl):S1-S55.](https://doi.org/10.1177/0194599820909438) - 메니에르병 진단·청력 평가와 유지치료 선택
-* [Lempert T, et al. Vestibular migraine: Diagnostic criteria (Update). J Vestib Res. 2022;32(1):1-6.](https://doi.org/10.3233/VES-201644) - Bárány Society·IHS 공동 전정편두통 진단 기준
-* \[J Neurol 2020] [Kim HJ, Lee JO, Choi JY, Kim JS. Etiologic distribution of dizziness and vertigo in a referral-based dizziness clinic in South Korea. J Neurol. 2020;267(8):2252-2259.](https://doi.org/10.1007/s00415-020-09831-2) - 국내 의뢰 기반 어지럼 클리닉의 원인 분포
-* \[JAMA Neurol 2023] [Strupp M, et al. The Semont-Plus Maneuver or the Epley Maneuver in Posterior Canal Benign Paroxysmal Positional Vertigo: A Randomized Clinical Study. JAMA Neurol. 2023;80(8):798-804.](https://doi.org/10.1001/jamaneurol.2023.1408) - 자가 정복술의 증상 소실 기간 비교
-* [Adrion C, et al. Efficacy and safety of betahistine treatment in patients with Meniere's disease: primary results of a long term, multicentre, double blind, randomised, placebo controlled, dose defining trial (BEMED trial). BMJ. 2016;352:h6816.](https://doi.org/10.1136/bmj.h6816) - betahistine 48·144 ㎎/d의 발작 예방 효과 없음
-* \[Bárány Society 2017] [Staab JP, et al. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): Consensus document of the committee for the Classification of Vestibular Disorders of the Bárány Society. J Vestib Res. 2017;27(4):191-208.](https://doi.org/10.3233/VES-170622) - PPPD의 진단 기준과 감별
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. Ginkgo biloba extract 경구제 급여기준. 고시 제2025-34호 (2025-03-01 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250301&sno=1&mtgMtrRegSno=0008) - 허가 적응증과 급여 인정 범위의 구분 (확인일 2026-10-11)

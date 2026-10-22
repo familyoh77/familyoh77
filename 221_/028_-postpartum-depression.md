@@ -491,6 +491,36 @@ _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성�
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[ACOG 2023] [American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum. Clinical Practice Guideline No. 4. Obstet Gynecol. 2023;141(6):1232-1261.](https://doi.org/10.1097/AOG.0000000000005200) - 주산기 우울·불안 선별 시점, 양극성장애·자살위험 평가와 감별
+* [American College of Obstetricians and Gynecologists. Treatment and Management of Mental Health Conditions During Pregnancy and Postpartum. Clinical Practice Guideline No. 5. Obstet Gynecol. 2023;141(6):1262-1288.](https://doi.org/10.1097/AOG.0000000000005202) - 임신·수유 중 심리·약물 치료의 선택과 위험·이익 상담
+* \[ACOG 2026] [American College of Obstetricians and Gynecologists. Zuranolone and Brexanolone for the Treatment of Postpartum Depression. Obstet Gynecol. 2026;147(1):e24-e28.](https://doi.org/10.1097/AOG.0000000000006093) - 산후우울증 특이 치료의 대상·투여·안전성; [2026년 정정문](https://pubmed.ncbi.nlm.nih.gov/41855550/)과 함께 확인하며 국내 허가·접근성과 구분
+* \[USPSTF 2023] [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023;329(23):2057-2067.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-depression-suicide-risk-adults) - 임신·산후 여성을 포함한 성인 우울증 선별과 후속 평가 체계; 자살위험 선별 권고와 구분
+* \[USPSTF 2019] [US Preventive Services Task Force. Interventions to Prevent Perinatal Depression: US Preventive Services Task Force Recommendation Statement. JAMA. 2019;321(6):580-587.](https://doi.org/10.1001/jama.2019.0007) - 고위험 임신부·산후 여성의 상담 중재(B등급)
+* \[AAP 2019] [Earls MF, et al. Incorporating Recognition and Management of Perinatal Depression Into Pediatric Practice. Pediatrics. 2019;143(1):e20183259.](https://doi.org/10.1542/peds.2018-3259) - 영아 검진 방문 시 모성 우울 선별
+* \[CANMAT 2024] [Vigod SN, et al. Canadian Network for Mood and Anxiety Treatments 2024 Clinical Practice Guideline for the Management of Perinatal Mood, Anxiety, and Related Disorders. Can J Psychiatry. 2025;70(6):429-489.](https://doi.org/10.1177/07067437241303031) - 임신·산후·수유 시기별 치료와 근거 수준; 지침명은 2024, 출판은 2025년
+* [왕성민 외. 한국형 우울장애 약물치료 알고리듬 2025 (IV): 여성 및 노인. 신경정신의학. 2025;64(3):213-220.](https://doi.org/10.4306/jknpa.2025.64.3.213) - 여성·주산기 우울장애의 국내 전문가 합의에 따른 약물 선택
+* \[BMJ 2020] [Levis B, et al. Accuracy of the Edinburgh Postnatal Depression Scale (EPDS) for screening to detect major depression among pregnant and postpartum women: systematic review and meta-analysis of individual participant data. BMJ. 2020;371:m4022.](https://doi.org/10.1136/bmj.m4022) - EPDS 절단점별 민감도·특이도와 확진 면담의 필요성
+* \[JAMA Psychiatry 2026] [Wisner KL, et al. Depression and SSRI Treatment During Pregnancy: Prioritizing Maternal Mental Health. JAMA Psychiatry. Published online August 12, 2026.](https://doi.org/10.1001/jamapsychiatry.2026.2405) - 미치료 우울증과 SSRI 노출의 위험·이익, 절대위험 상담
+* \[Obstet Gynecol 2000] [Kurki T, et al. Depression and anxiety in early pregnancy and risk for preeclampsia. Obstet Gynecol. 2000;95(4):487-490.](https://doi.org/10.1016/S0029-7844(99)00602-X) - 임신 초기 우울·불안과 전자간증 위험
+* \[NEJM 2014] [Huybrechts KF, et al. Antidepressant Use in Pregnancy and the Risk of Cardiac Defects. N Engl J Med. 2014;370(25):2397-2407.](https://doi.org/10.1056/NEJMoa1312828) - 모성 우울증 보정 후 SSRI와 심장 기형
+* \[JAMA 2015] [Huybrechts KF, et al. Antidepressant Use Late in Pregnancy and Risk of Persistent Pulmonary Hypertension of the Newborn. JAMA. 2015;313(21):2142-2151.](https://doi.org/10.1001/jama.2015.5605) - 임신 후기 노출과 PPHN의 절대위험
+* \[JAMA Intern Med 2022] [Suarez EA, et al. Association of Antidepressant Use During Pregnancy With Risk of Neurodevelopmental Disorders in Children. JAMA Intern Med. 2022;182(11):1149-1160.](https://doi.org/10.1001/jamainternmed.2022.4268) - 보정·형제 비교 분석에서 신경발달장애 연관성 소실
+* \[Am J Psychiatry 2015] [Malm H, et al. Pregnancy Complications Following Prenatal Exposure to SSRIs or Maternal Psychiatric Disorders: Results From Population-Based National Register Data. Am J Psychiatry. 2015;172(12):1224-1232.](https://doi.org/10.1176/appi.ajp.2015.14121575) - 핀란드 코호트의 조산·제왕절개 위험
+* \[JAMA 2006] [Cohen LS, et al. Relapse of Major Depression During Pregnancy in Women Who Maintain or Discontinue Antidepressant Treatment. JAMA. 2006;295(5):499-507.](https://doi.org/10.1001/jama.295.5.499) - 전문 프로그램 코호트의 중단 후 재발
+* \[J Clin Psychiatry 2020] [Bayrampour H, et al. The Risk of Relapse of Depression During Pregnancy After Discontinuation of Antidepressants: A Systematic Review and Meta-Analysis. J Clin Psychiatry. 2020;81(4):19r13134.](https://doi.org/10.4088/JCP.19r13134) - 중증도별 중단 후 재발 위험
+* \[Epidemiology 2011] [Yonkers KA, et al. Does antidepressant use attenuate the risk of a major depressive episode in pregnancy? Epidemiology. 2011;22(6):848-854.](https://doi.org/10.1097/EDE.0b013e3182306847) - 지역사회 산전 코호트의 지속·중단군 재발 비교
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 주산기 사용 약물의 임신·수유 주의사항과 산후우울증 특이 치료제의 국내 허가 여부
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -531,33 +561,3 @@ _✽비정형 항정신병제 증강, lithium, zuranolone 및 ECT는 양극성�
 * 스스로를 해치거나 죽고 싶다는 생각이 드는 경우 - 즉시 내원 또는 **자살예방 상담전화 109**
 * 아기를 해칠 의도·계획이 있거나, 아기를 해치라는 목소리가 들리거나, 현실과 다른 확신이 드는 경우 - 아기와 단둘이 있지 말고 즉시 내원
 * 환청, 망상, 심한 혼란, 잠을 거의 자지 않아도 피곤하지 않으면서 지나치게 들뜨거나 행동이 빨라지는 경우 - 산후 정신증·조증 가능성이 있으므로 즉시 내원
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[ACOG 2023] [American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum. Clinical Practice Guideline No. 4. Obstet Gynecol. 2023;141(6):1232-1261.](https://doi.org/10.1097/AOG.0000000000005200) - 주산기 우울·불안 선별 시점, 양극성장애·자살위험 평가와 감별
-* [American College of Obstetricians and Gynecologists. Treatment and Management of Mental Health Conditions During Pregnancy and Postpartum. Clinical Practice Guideline No. 5. Obstet Gynecol. 2023;141(6):1262-1288.](https://doi.org/10.1097/AOG.0000000000005202) - 임신·수유 중 심리·약물 치료의 선택과 위험·이익 상담
-* \[ACOG 2026] [American College of Obstetricians and Gynecologists. Zuranolone and Brexanolone for the Treatment of Postpartum Depression. Obstet Gynecol. 2026;147(1):e24-e28.](https://doi.org/10.1097/AOG.0000000000006093) - 산후우울증 특이 치료의 대상·투여·안전성; [2026년 정정문](https://pubmed.ncbi.nlm.nih.gov/41855550/)과 함께 확인하며 국내 허가·접근성과 구분
-* \[USPSTF 2023] [US Preventive Services Task Force. Screening for Depression and Suicide Risk in Adults: US Preventive Services Task Force Recommendation Statement. JAMA. 2023;329(23):2057-2067.](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-depression-suicide-risk-adults) - 임신·산후 여성을 포함한 성인 우울증 선별과 후속 평가 체계; 자살위험 선별 권고와 구분
-* \[USPSTF 2019] [US Preventive Services Task Force. Interventions to Prevent Perinatal Depression: US Preventive Services Task Force Recommendation Statement. JAMA. 2019;321(6):580-587.](https://doi.org/10.1001/jama.2019.0007) - 고위험 임신부·산후 여성의 상담 중재(B등급)
-* \[AAP 2019] [Earls MF, et al. Incorporating Recognition and Management of Perinatal Depression Into Pediatric Practice. Pediatrics. 2019;143(1):e20183259.](https://doi.org/10.1542/peds.2018-3259) - 영아 검진 방문 시 모성 우울 선별
-* \[CANMAT 2024] [Vigod SN, et al. Canadian Network for Mood and Anxiety Treatments 2024 Clinical Practice Guideline for the Management of Perinatal Mood, Anxiety, and Related Disorders. Can J Psychiatry. 2025;70(6):429-489.](https://doi.org/10.1177/07067437241303031) - 임신·산후·수유 시기별 치료와 근거 수준; 지침명은 2024, 출판은 2025년
-* [왕성민 외. 한국형 우울장애 약물치료 알고리듬 2025 (IV): 여성 및 노인. 신경정신의학. 2025;64(3):213-220.](https://doi.org/10.4306/jknpa.2025.64.3.213) - 여성·주산기 우울장애의 국내 전문가 합의에 따른 약물 선택
-* \[BMJ 2020] [Levis B, et al. Accuracy of the Edinburgh Postnatal Depression Scale (EPDS) for screening to detect major depression among pregnant and postpartum women: systematic review and meta-analysis of individual participant data. BMJ. 2020;371:m4022.](https://doi.org/10.1136/bmj.m4022) - EPDS 절단점별 민감도·특이도와 확진 면담의 필요성
-* \[JAMA Psychiatry 2026] [Wisner KL, et al. Depression and SSRI Treatment During Pregnancy: Prioritizing Maternal Mental Health. JAMA Psychiatry. Published online August 12, 2026.](https://doi.org/10.1001/jamapsychiatry.2026.2405) - 미치료 우울증과 SSRI 노출의 위험·이익, 절대위험 상담
-* \[Obstet Gynecol 2000] [Kurki T, et al. Depression and anxiety in early pregnancy and risk for preeclampsia. Obstet Gynecol. 2000;95(4):487-490.](https://doi.org/10.1016/S0029-7844(99)00602-X) - 임신 초기 우울·불안과 전자간증 위험
-* \[NEJM 2014] [Huybrechts KF, et al. Antidepressant Use in Pregnancy and the Risk of Cardiac Defects. N Engl J Med. 2014;370(25):2397-2407.](https://doi.org/10.1056/NEJMoa1312828) - 모성 우울증 보정 후 SSRI와 심장 기형
-* \[JAMA 2015] [Huybrechts KF, et al. Antidepressant Use Late in Pregnancy and Risk of Persistent Pulmonary Hypertension of the Newborn. JAMA. 2015;313(21):2142-2151.](https://doi.org/10.1001/jama.2015.5605) - 임신 후기 노출과 PPHN의 절대위험
-* \[JAMA Intern Med 2022] [Suarez EA, et al. Association of Antidepressant Use During Pregnancy With Risk of Neurodevelopmental Disorders in Children. JAMA Intern Med. 2022;182(11):1149-1160.](https://doi.org/10.1001/jamainternmed.2022.4268) - 보정·형제 비교 분석에서 신경발달장애 연관성 소실
-* \[Am J Psychiatry 2015] [Malm H, et al. Pregnancy Complications Following Prenatal Exposure to SSRIs or Maternal Psychiatric Disorders: Results From Population-Based National Register Data. Am J Psychiatry. 2015;172(12):1224-1232.](https://doi.org/10.1176/appi.ajp.2015.14121575) - 핀란드 코호트의 조산·제왕절개 위험
-* \[JAMA 2006] [Cohen LS, et al. Relapse of Major Depression During Pregnancy in Women Who Maintain or Discontinue Antidepressant Treatment. JAMA. 2006;295(5):499-507.](https://doi.org/10.1001/jama.295.5.499) - 전문 프로그램 코호트의 중단 후 재발
-* \[J Clin Psychiatry 2020] [Bayrampour H, et al. The Risk of Relapse of Depression During Pregnancy After Discontinuation of Antidepressants: A Systematic Review and Meta-Analysis. J Clin Psychiatry. 2020;81(4):19r13134.](https://doi.org/10.4088/JCP.19r13134) - 중증도별 중단 후 재발 위험
-* \[Epidemiology 2011] [Yonkers KA, et al. Does antidepressant use attenuate the risk of a major depressive episode in pregnancy? Epidemiology. 2011;22(6):848-854.](https://doi.org/10.1097/EDE.0b013e3182306847) - 지역사회 산전 코호트의 지속·중단군 재발 비교
-
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 주산기 사용 약물의 임신·수유 주의사항과 산후우울증 특이 치료제의 국내 허가 여부

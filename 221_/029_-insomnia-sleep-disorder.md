@@ -819,6 +819,26 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[ICSD-3-TR] [American Academy of Sleep Medicine. International Classification of Sleep Disorders, 3rd edition, text revision (ICSD-3-TR). 2023.](https://shop.aasm.org/products/icsd-3-text-revision-ebook) - 불면장애·수면장애의 분류와 진단 기준
+* [Riemann D, et al. The European Insomnia Guideline: An update on the diagnosis and treatment of insomnia 2023. J Sleep Res. 2023;32(6):e14035.](https://doi.org/10.1111/jsr.14035) - 불면 평가, CBT-I 우선 치료와 약물 선택·기간
+* \[AASM 2021] [Edinger JD, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2021;17(2):255-262.](https://doi.org/10.5664/jcsm.8986) - CBT-I 및 개별 행동·심리 치료의 권고 강도
+* \[AASM 2017] [Sateia MJ, et al. Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017;13(2):307-349.](https://doi.org/10.5664/jcsm.6470) - 수면제별 권고와 근거 한계; 이후 지침·허가사항과 함께 해석
+* \[AASM 2026] [Buysse DJ, et al. Combination treatment for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2026;22:56.](https://doi.org/10.1007/s44470-025-00038-8) - CBT-I·약물 병용과 각 단독 치료의 비교 및 조건부 권고
+* \[VA/DoD 2025] [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Chronic Insomnia Disorder and Obstructive Sleep Apnea. Version 3.0. 2025.](https://www.healthquality.va.gov/guidelines/CD/insomnia/) - CBT-I, 단기 약물 치료와 동반 수면무호흡 평가
+* \[J Affect Disord 2011] [Baglioni C, et al. Insomnia as a predictor of depression: a meta-analytic evaluation of longitudinal epidemiological studies. J Affect Disord. 2011;135(1-3):10-19.](https://doi.org/10.1016/j.jad.2011.01.011) - 불면증과 이후 우울증 발생의 연관성
+* [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존·금단 위험 평가, 개별 감량 계획과 CBT 등 보조 치료
+
+### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - benzodiazepine·Z-drug·DORA 및 기타 수면 관련 약물의 적응증, 용량·기간·안전성·허가 외 사용 여부
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -889,23 +909,3 @@ _✽ Step 1 & 2 는_ "불면증 진단 및 치료 알고리듬" _참조_
 #### <mark style="color:$primary;">다음 진료 때 가져오세요</mark>
 
 기록하신 수면일기를 **다음 진료 시 꼭 지참**해 주세요. 주치의와 함께 패턴을 분석하여 치료 방향을 결정합니다.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[ICSD-3-TR] [American Academy of Sleep Medicine. International Classification of Sleep Disorders, 3rd edition, text revision (ICSD-3-TR). 2023.](https://shop.aasm.org/products/icsd-3-text-revision-ebook) - 불면장애·수면장애의 분류와 진단 기준
-* [Riemann D, et al. The European Insomnia Guideline: An update on the diagnosis and treatment of insomnia 2023. J Sleep Res. 2023;32(6):e14035.](https://doi.org/10.1111/jsr.14035) - 불면 평가, CBT-I 우선 치료와 약물 선택·기간
-* \[AASM 2021] [Edinger JD, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2021;17(2):255-262.](https://doi.org/10.5664/jcsm.8986) - CBT-I 및 개별 행동·심리 치료의 권고 강도
-* \[AASM 2017] [Sateia MJ, et al. Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline. J Clin Sleep Med. 2017;13(2):307-349.](https://doi.org/10.5664/jcsm.6470) - 수면제별 권고와 근거 한계; 이후 지침·허가사항과 함께 해석
-* \[AASM 2026] [Buysse DJ, et al. Combination treatment for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2026;22:56.](https://doi.org/10.1007/s44470-025-00038-8) - CBT-I·약물 병용과 각 단독 치료의 비교 및 조건부 권고
-* \[VA/DoD 2025] [Department of Veterans Affairs/Department of Defense. VA/DoD Clinical Practice Guideline for the Management of Chronic Insomnia Disorder and Obstructive Sleep Apnea. Version 3.0. 2025.](https://www.healthquality.va.gov/guidelines/CD/insomnia/) - CBT-I, 단기 약물 치료와 동반 수면무호흡 평가
-* \[J Affect Disord 2011] [Baglioni C, et al. Insomnia as a predictor of depression: a meta-analytic evaluation of longitudinal epidemiological studies. J Affect Disord. 2011;135(1-3):10-19.](https://doi.org/10.1016/j.jad.2011.01.011) - 불면증과 이후 우울증 발생의 연관성
-* [Brunner E, et al. Joint Clinical Practice Guideline on Benzodiazepine Tapering: Considerations When Risks Outweigh Benefits. J Gen Intern Med. 2025;40(12):2814-2859.](https://doi.org/10.1007/s11606-025-09499-2) - ASAM 등 공동 지침; 신체의존·금단 위험 평가, 개별 감량 계획과 CBT 등 보조 치료
-
-### <mark style="color:orange;">허가·급여 및 안전성 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - benzodiazepine·Z-drug·DORA 및 기타 수면 관련 약물의 적응증, 용량·기간·안전성·허가 외 사용 여부

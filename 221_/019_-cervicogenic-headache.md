@@ -389,6 +389,24 @@ class B,F,I,L,N yellow
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
+* [Robinson CL, et al. Prevalence and relative frequency of cervicogenic headache in population- and clinic-based studies: A systematic review and meta-analysis. Cephalalgia. 2025;45(3):3331024251322446.](https://doi.org/10.1177/03331024251322446) - 본문 유병률·상대빈도 수치와 연구 한계
+* [Eldaya RW, et al. ACR Appropriateness Criteria® Cervical Pain or Cervical Radiculopathy: 2024 Update. J Am Coll Radiol. 2025;22(5S):S136-S162.](https://doi.org/10.1016/j.jacr.2025.02.035) - 경부통·신경근병증 및 경추성두통 의심 시 영상검사 선택
+* [Hurley RW, et al. Consensus practice guidelines on interventions for cervical spine (facet) joint pain from a multispecialty international working group. Reg Anesth Pain Med. 2022;47(1):3-59.](https://rapm.bmj.com/content/47/1/3) - 후관절 진단·예후 차단과 고주파치료의 환자 선택
+* [Koonalinthip N, et al. The Comparative Efficacy of Treatments for Cervicogenic Headache: A Systematic Review and Network Meta-Analysis of Randomised Controlled Trials. Eur J Pain. 2026;30(2):e70219.](https://doi.org/10.1002/ejp.70219) - 비약물·약물·중재 치료 비교와 근거의 이질성
+* [Rushton A, et al. International Framework for Examination of the Cervical Region for Potential of Vascular Pathologies of the Neck Prior to Musculoskeletal Intervention: International IFOMPT Cervical Framework. J Orthop Sports Phys Ther. 2023;53(1):7-22.](https://pubmed.ncbi.nlm.nih.gov/36099171/) - 경추 수기치료 전 혈관병리 평가와 위치유발검사의 한계
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -426,21 +444,3 @@ class B,F,I,L,N yellow
 * 외상 후 심한 두통·목 통증이 생긴 경우
 
 ***
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* \[ICHD-3] [Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211.](https://ichd-3.org/) - 두통의 분류·진단 기준 및 약물과용 기준
-* [Robinson CL, et al. Prevalence and relative frequency of cervicogenic headache in population- and clinic-based studies: A systematic review and meta-analysis. Cephalalgia. 2025;45(3):3331024251322446.](https://doi.org/10.1177/03331024251322446) - 본문 유병률·상대빈도 수치와 연구 한계
-* [Eldaya RW, et al. ACR Appropriateness Criteria® Cervical Pain or Cervical Radiculopathy: 2024 Update. J Am Coll Radiol. 2025;22(5S):S136-S162.](https://doi.org/10.1016/j.jacr.2025.02.035) - 경부통·신경근병증 및 경추성두통 의심 시 영상검사 선택
-* [Hurley RW, et al. Consensus practice guidelines on interventions for cervical spine (facet) joint pain from a multispecialty international working group. Reg Anesth Pain Med. 2022;47(1):3-59.](https://rapm.bmj.com/content/47/1/3) - 후관절 진단·예후 차단과 고주파치료의 환자 선택
-* [Koonalinthip N, et al. The Comparative Efficacy of Treatments for Cervicogenic Headache: A Systematic Review and Network Meta-Analysis of Randomised Controlled Trials. Eur J Pain. 2026;30(2):e70219.](https://doi.org/10.1002/ejp.70219) - 비약물·약물·중재 치료 비교와 근거의 이질성
-* [Rushton A, et al. International Framework for Examination of the Cervical Region for Potential of Vascular Pathologies of the Neck Prior to Musculoskeletal Intervention: International IFOMPT Cervical Framework. J Orthop Sports Phys Ther. 2023;53(1):7-22.](https://pubmed.ncbi.nlm.nih.gov/36099171/) - 경추 수기치료 전 혈관병리 평가와 위치유발검사의 한계
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
