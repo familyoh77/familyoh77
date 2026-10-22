@@ -49,7 +49,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
   * 두드러기끼리 융합하여 polycyclic, serpiginous, annular pattern을 보일 수 있음
 * 부종 외 증상 : 가려움, 작열감
 * 경과 : 개별 팽진이 비교적 빠르게 발생 → 한 부위의 병소는 사라지고 다른 부위에 새로 발생하는 양상이 흔하며, **개별 팽진은 대개 수십 분\~수 시간 지속하고 24시간 이내 흔적 없이 소실**
-* 같은 병변이 24시간 이상 지속하거나 통증·작열감이 두드러지고 자반·색소침착을 남기면 두드러기혈관염 등 다른 질환을 의심(아래 감별 참조). 단, 지연 압박 두드러기는 병변이 24시간 이상 지속할 수 있어 자극 병력을 함께 확인
+* 같은 병변이 24시간을 초과하여 지속하거나 통증·작열감이 두드러지고 자반·색소침착을 남기면 두드러기혈관염 등 다른 질환을 의심(아래 감별 참조). 단, 지연 압박 두드러기는 병변이 24시간 이상 지속할 수 있어 자극 병력을 함께 확인
 
 ### <mark style="color:orange;">혈관부종</mark>
 
@@ -73,7 +73,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 ### <mark style="color:orange;">접촉성 두드러기 (Contact Urticaria)</mark>
 
-* 원인 : 라텍스, 쐐기풀, 화학 물질 등 특정 물질에 대한 직접적 접촉 (☞ p.881)
+* 원인 : 라텍스, 쐐기풀, 화학 물질 등 특정 물질에 대한 직접적 접촉 (☞ 접촉피부염 및 접촉성 두드러기 관련 절)
 
 ### <mark style="color:orange;">만성 유발성 두드러기 (Chronic Inducible Urticaria, CIndU)</mark>
 
@@ -85,26 +85,34 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark> <mark style="color:$danger;">- 기도 폐쇄·아나필락시스 위험</mark>
+{% hint style="danger" %}
+**즉각 조치**
 
-* 두드러기/혈관부종과 함께 호흡곤란, 천명, 협착음(stridor), 삼킴곤란, 음성 변화 → 후두부종·기도 폐쇄 임박
-* 피부·점막 증상과 저혈압·실신·의식 변화 또는 심한 복통·반복 구토가 동반 → 아나필락시스 의심 → 즉시 epinephrine IM 및 응급 이송. **원인 알레르겐 노출 후 급성 저혈압·기관지수축·후두 증상이 있으면 피부 증상이 없어도 아나필락시스 가능**
-* 급속히 진행하는 혀·구인두·후두 부종(원인이 알레르기성이든 HAE 급성 발작이든 무관)
+* 두드러기/혈관부종과 호흡곤란·천명·협착음·삼킴곤란·음성 변화  `후두부종·기도 폐쇄`
+* 피부·점막 증상과 저혈압·실신·의식 변화 또는 심한 경련성 복통·반복 구토; 원인 알레르겐 노출 후 급성 저혈압·기관지수축·후두 증상은 피부 소견 없이도 가능  `아나필락시스`
+* 급속히 진행하는 혀·구인두·후두 부종; 알레르기성 여부와 무관  `기도 폐쇄` `HAE 급성 발작`
+{% endhint %}
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+{% hint style="warning" %}
+**당일~수일 내 평가**
 
-* ACEI 복용 중 새로 발생한 팽진 없는 혈관부종 → **ACEI 즉시 중단·재투여 금지, 당일 평가**. 기도 증상 또는 급속 진행 시 즉각 조치 → ACEI 유발 혈관부종 의심(☞ Red Flags 하단 진단 알고리듬)
-* ＜20세 발병, 재발성 혈관부종의 가족력, 원인 불명의 반복적 복통, 팽진 없는 부종, 통상적 치료(항히스타민제·글루코코르티코이드·에피네프린)에 반응하지 않는 부종 → HAE/AAE 의심 → C4, C1 esterase inhibitor 검사 및 알레르기내과·임상면역학과 의뢰(☞ 진단 > 감별 진단 하단 HAE/AAE 항목)
-* 개별 병변이 24시간 이상 같은 부위에 지속하거나 통증/작열감·색소침착·자반(non-blanchable)이 두드러짐 → 두드러기혈관염(urticarial vasculitis) 의심 → 피부 생검 위한 조기 의뢰
-* 설명되지 않는 재발성 발열, 관절/골 통증, malaise 동반 → autoinflammatory disease 의심 → 류마티스내과/면역학과 협진
-* 발열, 체중감소, 림프절병증 등 전신 증상 동반 → 이차성 원인(감염, 혈액암, 자가면역질환) 감별 위한 조기 평가
+* ACEI 복용 중 새로 발생한 팽진 없는 혈관부종 **(당일)**  `ACEI 유발 혈관부종`
+* 어린 나이에 시작한 재발성 혈관부종, 가족력·반복 복통, 팽진 없는 부종 또는 항히스타민제 등에 반응하지 않는 부종  `HAE·AAE 감별`
+* 개별 병변이 24시간을 초과하여 같은 부위에 지속되거나 통증·작열감·잔여 색소침착·자반이 두드러짐 **(당일)**  `두드러기혈관염 감별`
+* 설명되지 않는 재발성 발열·관절/골 통증·권태감  `자가염증질환`
+* 발열·체중감소·림프절병증 등 전신 증상  `감염·혈액종양·자가면역질환`
+{% endhint %}
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+{% hint style="info" %}
+**조기 평가 및 추적**
 
-* 적절한 2세대 H1-항히스타민제 증량에도 조절되지 않는 만성 두드러기 → 표적치료 논의 위한 의뢰. 통상 2\~4주마다 재평가하며 심한 증상·삶의 질 저하가 있으면 4주를 기다리지 않고 의뢰
-* 두드러기·혈관부종으로 인한 수면장애, 불안/우울, 등교·출근 지장 등 삶의 질 저하가 뚜렷함
-* 유발 요인이 뚜렷한 만성 유발성 두드러기 중 일상생활 지장이 큰 경우 → 유발 검사 및 전문 관리 고려
-* NSAID 관련이 의심되나 확진되지 않은 경우 → 알레르기내과 유발 검사 고려
+* 적절한 2세대 H1-항히스타민제 증량에도 조절되지 않는 만성 두드러기  `치료 불충분`
+* 수면장애·불안/우울·등교/출근 지장 등 뚜렷한 삶의 질 저하  `질병 부담`
+* 자극에 의해 유발되며 일상생활 지장이 큰 두드러기  `만성 유발성 두드러기`
+* NSAID 관련성이 의심되나 확인되지 않은 경우  `약물 과민반응 평가`
+{% endhint %}
+
+기도 증상·급속 진행 부종은 원인 확정 전에 응급 처치·이송함. 아나필락시스 가능성이 있으면 epinephrine IM을 즉시 투여하고 기도 확보에 대비함. ACEI 유발 혈관부종은 ACEI를 즉시 중단하고 동 계열을 재투여하지 않음. 두드러기혈관염이 의심되면 피부과 생검과 전신침범 평가를 고려하되, 지연 압박 두드러기의 자극 병력도 확인함. 안정된 만성 두드러기는 통상 2~4주마다 재평가하며 심한 증상·기능 장애가 있으면 예정일까지 기다리지 않고 의뢰함.
 
 ## <mark style="color:green;">진단</mark>
 
@@ -123,7 +131,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 {% hint style="info" %}
 **증상 일지·척도 활용**\
-증상 일지 작성이 진단·경과 파악에 도움이 됨. 증상 정도 및 치료 반응 평가를 위해 Dermatology Life Quality Index(DLQI), weekly Urticaria Activity Score(UAS7), Angioedema Activity Score(AAS), Urticaria Control Test(UCT) 등을 사용할 수 있음
+증상 일지 작성이 진단·경과 파악에 도움이 됨. 증상 정도 및 치료 반응 평가를 위해 Dermatology Life Quality Index(DLQI), weekly Urticaria Activity Score(UAS7), Angioedema Activity Score(AAS), Urticaria Control Test(UCT), Angioedema Control Test(AECT) 등을 사용할 수 있음
 {% endhint %}
 
 #### <mark style="color:$primary;">UAS7 실사용 예시</mark>
@@ -133,6 +141,12 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 <table><thead><tr><th width="120">점수</th><th>팽진 수(24시간)</th><th>소양감 강도</th></tr></thead><tbody><tr><td>0</td><td>없음</td><td>없음</td></tr><tr><td>1</td><td>경증: ＜20개</td><td>경증: 있으나 불편하지 않음</td></tr><tr><td>2</td><td>중등도: 20\~50개</td><td>중등도: 불편하지만 일상생활·수면을 방해하지 않음</td></tr><tr><td>3</td><td>중증: ＞50개 또는 넓게 융합된 팽진</td><td>중증: 일상생활 또는 수면을 방해함</td></tr></tbody></table>
 
 * **UAS7 = 7일간 일일 점수 합계(0\~42점)**. 같은 환자에서 치료 전후 변화를 추적하는 데 특히 유용함
+* UAS7은 **팽진·가려움의 활성도**를 평가하며 혈관부종만 있는 환자의 활성도를 충분히 반영하지 못함. 혈관부종은 AAS 및 AECT를 함께 사용함
+* **UCT** : 통상 최근 4주를 평가하는 4문항, 0~16점. ＜12점은 조절 불충분, 12~15점은 잘 조절되지만 잔여 증상 확인이 필요하고, 16점은 완전 조절을 뜻함
+* **AECT** : 4문항, 0~16점으로 ≥10점은 잘 조절된 혈관부종에 해당함. 4주 또는 3개월 회상형 중 동일한 판본을 사용하여 추적함
+
+<p align="center"><em><mark style="color:$info;">Ref. International Urticaria Guideline 2026, 질병 활성도·조절도 평가 및 Fig. 3.</mark></em></p>
+
 
 ### <mark style="color:orange;">검사</mark>
 
@@ -168,7 +182,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-<table><thead><tr><th width="140">질환</th><th>두드러기와의 차이점</th></tr></thead><tbody><tr><td>벌레 물림</td><td>수일 지속, 벌레 노출 병력</td></tr><tr><td>아토피피부염</td><td>반구진, 비늘, 특징적 분포(굴측부 등)</td></tr><tr><td>접촉피부염</td><td>불분명한 경계, 구진</td></tr><tr><td>고정약진</td><td>재노출 때 같은 자리에 재발, 가려움·작열감 가능, 경계가 뚜렷한 반·수포와 잔여 색소침착</td></tr><tr><td>두드러기혈관염(urticarial vasculitis)</td><td>가려움보다 작열감; 색소침착 또는 자반(non-blanchable), 물집, 흉터; 24시간 이상 같은 부위 지속</td></tr><tr><td>IgA 혈관염(과거 Henoch–Schönlein 자반증)</td><td>하지 분포, 자색반, 전신 증상</td></tr><tr><td>다형홍반</td><td>수일 지속, 홍채 모양 구진, 표적판 모양, 발열 동반</td></tr><tr><td>장미색 잔비늘증</td><td>수 주간 지속, herald patch, Christmas tree pattern, 간혹 가려움</td></tr><tr><td>바이러스성 발진</td><td>소양감 유무 다양, 전구 증상·발열·반구진 가능; 개별 병변은 수일 지속</td></tr></tbody></table>
+<table><thead><tr><th width="140">질환</th><th>두드러기와의 차이점</th></tr></thead><tbody><tr><td>벌레 물림</td><td>수일 지속, 벌레 노출 병력</td></tr><tr><td>아토피피부염</td><td>반구진, 비늘, 특징적 분포(굴측부 등)</td></tr><tr><td>접촉피부염</td><td>불분명한 경계, 구진</td></tr><tr><td>고정약진</td><td>재노출 때 같은 자리에 재발, 가려움·작열감 가능, 경계가 뚜렷한 반·수포와 잔여 색소침착</td></tr><tr><td>두드러기혈관염(urticarial vasculitis)</td><td>가려움보다 작열감; 색소침착 또는 자반(non-blanchable), 때로 물집; 대개 24시간을 초과하여 같은 부위에 지속. 단순 팽진과 달리 잔여 색소·자반이 단서이며 흉터가 전형적인 소견은 아님</td></tr><tr><td>IgA 혈관염(과거 Henoch–Schönlein 자반증)</td><td>하지 분포, 자색반, 전신 증상</td></tr><tr><td>다형홍반</td><td>수일 지속, 홍채 모양 구진, 표적판 모양, 발열 동반</td></tr><tr><td>장미색 잔비늘증</td><td>수 주간 지속, herald patch, Christmas tree pattern, 간혹 가려움</td></tr><tr><td>바이러스성 발진</td><td>소양감 유무 다양, 전구 증상·발열·반구진 가능; 개별 병변은 수일 지속</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">유전성 혈관부종(Hereditary angioedema, HAE) 및 후천성 혈관부종(AAE)</mark>
 
@@ -189,7 +203,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * HAE Type I(C1-INH 결핍형 HAE 중 약 85%) : C1-INH 단백의 양적 결핍(SERPING1 유전자 이형접합 돌연변이)
 * HAE Type II(C1-INH 결핍형 HAE 중 약 15%) : C1-INH 단백량은 정상/증가되어 있으나 기능 이상
 * HAE-nC1-INH(정상 C1-INH 유전성 혈관부종, 과거 Type III) : C4, C1-INH 항원량·기능 모두 정상; factor XII, plasminogen, angiopoietin-1, kininogen-1 등의 유전자 이상과 관련; 특히 F12 관련 아형은 여성에서 호발하고 에스트로겐에 의해 악화될 수 있으나 모든 아형에 동일하게 적용되지는 않음
-* 후천성(AAE) : C1-INH에 대한 자가항체 생성 또는 소모 증가(림프증식성 질환·자가면역질환 동반)로 발생; 중년 이후 발병, 가족력 없음이 HAE와의 핵심 감별점
+* 후천성(AAE) : C1-INH에 대한 자가항체 생성 또는 소모 증가(림프증식성 질환·자가면역질환 동반)로 발생; 중년 이후 발병·가족력 없음·동반 질환은 AAE를 시사하는 단서이나, HAE도 새 변이 등으로 가족력이 없을 수 있어 연령·가족력만으로 구분하지 않음
 
 **진단 검사**
 
@@ -204,7 +218,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 * HAE/AAE 발작은 항히스타민제·스테로이드·에피네프린에 반응하지 않으므로 별도의 bradykinin 표적 치료제가 필요함(☞ 약물 치료 > HAE·AAE 치료)
 * ACEI는 HAE/AAE 환자에서 절대 금기(bradykinin 분해 억제로 발작을 중증화시킬 수 있음) - 환자별 위험을 고려해 대체 강압제를 선택(ARB도 혈관부종 가능성이 있어 개별 판단)
-* 발치·내시경·삽관·수술 등 침습적 처치 전에는 반드시 단기예방 계획을 수립함
+* 발치·내시경·삽관·수술 등 처치 전에는 부위·기도 자극·과거 발작·장기예방 상태를 평가하여 단기예방 필요성과 급성발작 대처 계획을 전문의와 수립함. 모든 저위험 처치에 동일한 예방약을 자동 투여하는 의미는 아님
 
 ***
 
@@ -270,7 +284,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * cetirizine : 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
 * levocetirizine : 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark>
 * fexofenadine : 180 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>
-* bilastine : 국외 표준 용량 20 ㎎ qd; 음식·과일주스 섭취 1시간 전 또는 2시간 후 공복 복용. 국내 품목·공급 및 원문에 기재된 제품명 ‘비스텔’은 확인되지 않아 국내 처방 시 별도 확인 필요
+* bilastine(국외 옵션) : 20 ㎎ qd; 음식·과일주스 섭취 1시간 전 또는 2시간 후 공복 복용. 국내 사용 가능한 품목·공급을 확인하지 못했으므로 국내 대표 처방례에는 포함하지 않음
 * mizolastine : 10 ㎎ qd <mark style="color:blue;">\[미졸렌]</mark> _(QT 연장 위험·상호작용을 고려하여 증량은 회피)_
 
 * cetirizine·levocetirizine 등은 신기능에 따른 용량 조절 필요. 소아는 해당 제형의 연령·체중별 허가 용량을 따르며 성인 용량·4배 증량을 그대로 적용하지 않음
@@ -282,7 +296,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * chlorpheniramine : **성인 1회 2\~6 ㎎, 1일 2\~4회**, 최대 24 ㎎/d <mark style="color:blue;">\[페니라민정 2 ㎎]</mark>. 고령자·요폐·녹내장·진정제 병용 등에 주의하며 가능하면 2세대로 대체
 * 1세대 약제를 취침 전에 복용해도 다음 날 진정·운전 능력 저하가 남을 수 있음
 
-<p align="center"><em>Ref. 태극제약 아디팜정 및 유한양행 페니라민정 제품 허가정보.</em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 태극제약 아디팜정 및 유한양행 페니라민정 제품 허가정보.</mark></em></p>
 
 #### <mark style="color:$primary;">H2-항히스타민제 (H2AH)</mark>
 
@@ -315,7 +329,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 
 * icatibant(bradykinin B2 receptor antagonist) <mark style="color:blue;">\[피라지르]</mark> : 국내 만 2세 이상 C1-INH 결핍 HAE 급성발작 적응증. **성인 30 ㎎ 복부 SC**, 불충분한 반응 또는 재발 시 최소 6시간 간격 추가(최대 3회/24시간). 교육 후 성인 자가주사 가능
   * 소아(2\~17세)는 **체중별 10\~30 ㎎** 적용; ＜2세 또는 ＜12 ㎏은 권장 용량이 확립되지 않음. 소아 발작 당 반복 주사의 근거가 제한적이므로 성인 반복 용법을 그대로 적용하지 않음
-  * 급여의 대상·처방량 제한은 최신 HIRA 기준 확인. 후두 발작은 자가주사 후에도 반드시 응급실에서 평가
+  * 국내 급여상 자가투여 1회 처방량은 기본 2회분이며, 누적 3회 이상 자가투여 경험이 있으면서 최근 3개월 동안 월 1회 이상 급성 발작 또는 추가투여가 필요했던 급성 발작을 경험한 경우 4회분까지 인정됨. 이는 **보유·처방량 기준**으로 24시간 최대 투여 횟수와 다름. 후두 발작은 자가주사 후에도 반드시 응급실에서 평가
 * C1-inhibitor concentrate(혈장유래) : 20 IU/㎏ IV <mark style="color:blue;">\[베리너트]</mark>; 국내 허가되어 있으나 상시 공급이 원활하지 않을 수 있어 처방 전 재고 확인 필요
 * C1-inhibitor concentrate(재조합) : <mark style="color:blue;">\[루코네스트]</mark>; 국내 희귀의약품 접근·공급은 전문센터에서 확인. 연령·제품별 용량·토끼 단백 알레르기 등 금기는 실제 사용 제품 허가사항을 따름
 * 국제 신규 경구 발작치료제 **sebetralstat**(plasma kallikrein inhibitor)도 2025 WAO 지침(2026년 출판)에 포함. 국내 허가·공급은 확인되지 않았으므로 실제 사용 가능 여부는 전문센터에서 별도 확인
@@ -348,7 +362,7 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * tranexamic acid : 예방 효과가 상대적으로 낮아 다른 유효 치료를 사용할 수 없는 경우 제한적으로 고려
 * **장기예방 중에도 급성 발작치료제를 준비**. 임신·수유 중 HAE는 pdC1-INH를 우선 고려하여 전문의 관리
 
-<p align="center"><em>Ref. WAO/EAACI 2021 revision(2022 출판); 2025 WAO HAE Guidelines(2026 출판), doi:10.1016/j.waojou.2026.101335. 국내 약제 접근성은 대한천식알레르기학회 전문가 의견서(2022) 및 최신 제품·HIRA 정보를 함께 확인.</em></p>
+<p align="center"><em><mark style="color:$info;">Ref. WAO/EAACI 2021 revision(2022 출판); 2025 WAO HAE Guidelines(2026 출판), doi:10.1016/j.waojou.2026.101335. 국내 약제 접근성은 대한천식알레르기학회 전문가 의견서(2022) 및 최신 제품·HIRA 정보를 함께 확인.</mark></em></p>
 
 ### <mark style="color:orange;">면역 조절제 및 표적 치료제 (CSU)</mark>
 
@@ -360,7 +374,8 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * 고용량 2세대 H1AH에도 조절되지 않는 CSU의 **확립된 add-on 표적치료제(강한 권고)**
 * 대표 용법 : **300 ㎎ SC 4주마다** <mark style="color:blue;">\[졸레어]</mark>. 국내 CSU 적응증은 H1AH 불응 성인·만 12세 이상 청소년; 국내 허가 용량은 150 또는 300 ㎎ q4wk이며 국제 지침의 권장 시작 용량은 300 ㎎
 * CSU 용량은 체중·총 IgE 수치로 결정하지 않으며 기존 H1AH를 유지. 아나필락시스 가능성을 설명하고 의료기관 투여·관찰 및 자가투여 요건은 제품 허가사항에 따름
-* 국내 급여는 허가와 별개로 최신 HIRA 고시 확인
+* 반응이 늦게 나타나는 환자가 있으므로 초기 무반응만으로 즉시 실패로 단정하지 않음. 충분한 투여 후에도 조절되지 않으면 전문의가 용량 증량·투여 간격 단축을 **허가 외**로 고려하거나 다른 표적치료로 조정함
+* CSU 허가와 천식 등 다른 적응증의 급여를 구분하며, 다른 질환의 급여 요건을 CSU에 적용하지 않음
 
 #### <mark style="color:$primary;">Dupilumab</mark>
 
@@ -378,8 +393,12 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * 기전 : mast cell·basophil의 BTK signaling을 선택적으로 억제하여 Fc receptor downstream activation 및 매개물질 방출을 감소
 * 용법 : 25 ㎎ bid <mark style="color:blue;">\[랩시도]</mark>
 * **국내 허가 : H1AH로 적절히 조절되지 않는 성인 CSU(2026년 4월)**. 2026년 9월 유한양행·한국노바티스의 국내 유통·판매 협약 발표; 공급·급여는 별도 확인
-* 출혈·멍·점상출혈, 항응고/항혈소판제 병용, 수술 계획 및 CYP3A 상호작용을 확인. 생백신 병용은 회피하며 세부 제한·투여 중단 계획은 국내 제품 허가사항에 따름
-* 위 안전성 항목은 국외 제품설명서도 참고했으며 국가별 세부 허가 차이를 확인해야 함
+* 출혈·멍·점상출혈과 항응고/항혈소판제 병용 위험을 평가함. 수술 유형·출혈 위험에 따라 **수술 전 3~7일 및 수술 후 3~7일 중단을 고려**하며, 처방의·수술의가 중단·재개를 결정함
+* 음식과 관계없이 물로 통째로 복용하며 쪼개거나 부수거나 씹지 않음. 복용을 빠뜨렸으면 예정된 다음 용량을 복용하고 보충하려고 추가 복용하지 않음
+* 생백신·약독화 생백신은 치료 중 피함. CYP3A 억제·유도 약물, 좁은 치료역의 P-gp/BCRP 기질 등과의 상호작용을 검토함
+* 국내 허가·기본 용법은 국내 자료를 적용하며, 상세 상호작용·간장애 제한은 국가별 차이가 있어 국외 허가사항을 그대로 국내 기준으로 일반화하지 않음
+
+<p align="center"><em><mark style="color:$info;">Ref. 국내 허가사항 재게시 자료의 용법·용량; Novartis Rhapsido SmPC, 용법·상호작용·안전성 항목.</mark></em></p>
 
 #### <mark style="color:$primary;">Cyclosporine</mark>
 
@@ -422,7 +441,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 * KAAACI/KDA 2020 지침은 국내 CSU 진료의 근거로 참고하되, H1AH 병용·H2AH 추가와 omalizumab·cyclosporine 등을 나란히 제시했던 기존 도표를 최신 국제 지침의 권고 강도·치료 순서와 혼용하지 않음
 * 아래는 **2026 국제 지침 중심으로 정리한 현재 단계치료**이며, 국내 허가와 건강보험 기준은 별도로 확인
 
-<p align="center"><em>Ref. KAAACI/KDA. Evidence-Based Practice Guidelines for Chronic Spontaneous Urticaria in Korean Adults and Children: Parts 1 and 2. Allergy Asthma Immunol Res. 2020.</em></p>
+<p align="center"><em><mark style="color:$info;">Ref. KAAACI/KDA. Evidence-Based Practice Guidelines for Chronic Spontaneous Urticaria in Korean Adults and Children: Parts 1 and 2. Allergy Asthma Immunol Res. 2020.</mark></em></p>
 
 ### <mark style="color:orange;">만성 두드러기 단계별 치료 \[International Urticaria Guideline, 2026]</mark>
 
@@ -455,7 +474,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 * **omalizumab 300 ㎎ SC q4wk** : 고용량 2세대 H1AH 불응 CSU에서 확립된 add-on 치료(강한 권고)
 * dupilumab, remibrutinib : 2026 지침에서 add-on으로 제안한 옵션. 국내 허가 범위(dupilumab ≥12세, remibrutinib 성인), 동반질환·기존 반응·선호도·급여를 고려
 * 기존 H1AH는 유효·내약 용량으로 유지하며 표적치료제를 일률적으로 동시에 병용하지 않음
-* 치료 반응과 질병 조절도(UCT/UAS7)를 정기적으로 평가하고, 충분히 조절되면 단계적 감량/중단 가능성을 검토
+* 치료 반응과 질병 조절도(UCT/UAS7, 혈관부종은 AAS/AECT)를 정기적으로 평가함. **완전 조절이 3~6개월 유지**되면 약제별 용량 감량·간격 연장 등 단계 하향을 개별적으로 검토하며, 증상 호전 직후 모든 약을 일괄 중단하지 않음
 
 **3rd Line / 난치성 CSU**
 
@@ -486,19 +505,21 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 
 ### <mark style="color:red;">질병코드</mark>
 
-<table><thead><tr><th width="100">코드</th><th>한글</th><th>영문·적용 참고</th></tr></thead><tbody><tr><td>L50.0</td><td>알레르기성 두드러기</td><td>Allergic urticaria</td></tr><tr><td>L50.1</td><td>특발성 두드러기</td><td>Idiopathic urticaria; CSU에 사용 가능</td></tr><tr><td>L50.2</td><td>한랭 및 열에 의한 두드러기</td><td>Urticaria due to cold and heat</td></tr><tr><td>L50.3</td><td>피부묘기성 두드러기</td><td>Dermatographic urticaria</td></tr><tr><td>L50.4</td><td>진동성 두드러기</td><td>Vibratory urticaria</td></tr><tr><td>L50.5</td><td>콜린성 두드러기</td><td>Cholinergic urticaria</td></tr><tr><td>L50.6</td><td>접촉두드러기</td><td>Contact urticaria</td></tr><tr><td>L50.88</td><td>기타 두드러기</td><td>Other urticaria; 별도 아형 코드가 없는 경우</td></tr><tr><td>L50.9</td><td>상세불명의 두드러기</td><td>Urticaria, unspecified</td></tr><tr><td>T78.3</td><td>혈관신경성부종</td><td>Angioneurotic oedema; 원인·분류상 제외항목 확인</td></tr><tr><td>D84.1</td><td>보체계통의 결함</td><td>Defects in the complement system; 유전성 혈관부종 포함</td></tr></tbody></table>
+<table><thead><tr><th width="100">코드</th><th>한글</th><th>영문·적용 참고</th></tr></thead><tbody><tr><td>L50.0</td><td>알레르기성 두드러기</td><td>Allergic urticaria</td></tr><tr><td>L50.1</td><td>특발성 두드러기</td><td>Idiopathic urticaria; CSU에 사용 가능</td></tr><tr><td>L50.2</td><td>한랭 및 열에 의한 두드러기</td><td>Urticaria due to cold and heat</td></tr><tr><td>L50.3</td><td>피부묘기성 두드러기</td><td>Dermatographic urticaria</td></tr><tr><td>L50.4</td><td>진동성 두드러기</td><td>Vibratory urticaria</td></tr><tr><td>L50.5</td><td>콜린성 두드러기</td><td>Cholinergic urticaria</td></tr><tr><td>L50.6</td><td>접촉두드러기</td><td>Contact urticaria</td></tr><tr><td>L50.80</td><td>만성 두드러기</td><td>Chronic urticaria; 만성 경과가 확인된 경우 검토</td></tr><tr><td>L50.81</td><td>재발성 주기성 두드러기</td><td>Recurrent periodic urticaria</td></tr><tr><td>L50.88</td><td>기타 두드러기</td><td>Other urticaria; 별도 아형 코드가 없는 경우</td></tr><tr><td>L50.9</td><td>상세불명의 두드러기</td><td>Urticaria, unspecified</td></tr><tr><td>T78.3</td><td>혈관신경성부종</td><td>Angioneurotic oedema; 원인·분류상 제외항목 확인</td></tr><tr><td>D84.1</td><td>보체계통의 결함</td><td>Defects in the complement system; 유전성 혈관부종 포함</td></tr></tbody></table>
 
-* CIndU 전체를 L50.8 하나로 묶지 않고 확인된 아형의 구체적 코드 사용. L50.8은 상위 범주이며 기타 두드러기는 세부 코드 L50.88을 확인
+* CIndU는 확인된 아형의 구체적 코드를 사용함. L50.8은 상위 범주이며 하위에 L50.80(만성), L50.81(재발성 주기성), L50.88(기타)이 있음. 만성 두드러기를 모두 L50.88로 처리하지 않으며 임상 진단·분류에 맞춰 선택함
 * D84.1을 단순 의심만으로 확진처럼 기재하지 않으며 실제 진단·진료 환경·청구 규칙에 따라 코드 결정
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
+별도 표시가 없으면 신기능이 정상인 성인의 예시임. 소아·신장애·간장애는 연령·제품별 허가 용량과 감량 기준을 적용함.
+
 > **처방례 1. 급성 두드러기, 경증\~중등도**
 >
 > ```
-> 세티리진 10 ㎎/T   1T   qd
+> 지르텍(cetirizine) 10 ㎎/T   1T   qd
 > ※ 원칙적으로 2세대 H1AH를 우선 사용. 야간 증상이 매우 심해 1세대 약제를 예외적으로 단기 사용할 경우 진정·인지저하·낙상 위험을 고려
 > ※ 원인으로 의심되는 음식·약물 회피 안내
 > ```
@@ -508,14 +529,14 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > **처방례 2. 만성 자발성 두드러기, 1차 치료 반응 부족 → 증량**
 >
 > ```
-> 펙소페나딘 180 ㎎/T   1T   qd (표준 용량)
+> 알레그라(fexofenadine) 180 ㎎/T   1T   qd (표준 용량)
 > ↓ 2\~4주 후에도 미호전 시
-> 펙소페나딘 180 ㎎/T   1T   bid (1일 360 ㎎; 2배, 허가 외 증량)
+> 알레그라(fexofenadine) 180 ㎎/T   1T   bid (1일 360 ㎎; 2배, 허가 외 증량)
 > ↓ 재평가 후 필요시
-> 펙소페나딘 180 ㎎/T   2T   bid (1일 720 ㎎; 최대 4배, 허가 외 증량)
+> 알레그라(fexofenadine) 180 ㎎/T   2T   bid (1일 720 ㎎; 최대 4배, 허가 외 증량)
 > ```
 >
-> _✽mizolastine은 증량 대상에서 제외. 2\~4주 간격으로 단계적으로 조정하며, 심한 난치성인 경우 2주 간격도 가능_
+> _✽신기능이 정상인 성인 예시임. 신장애에서는 fexofenadine 시작 용량을 감량하므로 이 증량례를 그대로 적용하지 않음. Mizolastine은 증량 대상에서 제외. 2\~4주 간격으로 단계적으로 조정하며, 심한 난치성인 경우 2주 간격도 가능_
 
 > **처방례 3. 2세대 H1AH 증량에도 반응 부족한 만성 두드러기 → 2차 치료**
 >
@@ -524,7 +545,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > (기존 2세대 H1AH의 유효·내약 용량 병용 유지)
 > ```
 >
-> _✽omalizumab은 강한 권고의 2차 치료제. 총 IgE·BHRA로 반응 예측을 시도할 수 있으나 절대적이지 않음. 급여기준은 변경될 수 있어 처방 전 HIRA 고시 확인 필요. 성인 CSU에서는 랩시도(remibrutinib) 25 ㎎ bid도 국내 허가 옵션이며 출혈·상호작용·공급·급여 등을 고려하여 선택_
+> _✽omalizumab은 강한 권고의 2차 치료제. 총 IgE·BHRA로 반응 예측을 시도할 수 있으나 절대적이지 않음. 다른 적응증의 급여를 CSU에 그대로 적용하지 않음. 성인 CSU에서는 랩시도(remibrutinib) 25 ㎎ bid도 국내 허가 옵션이며 출혈·상호작용·공급·급여 등을 고려하여 선택_
 
 > **처방례 4. 급성 악화기 단기 스테로이드 병용(심한 증상 또는 H1AH 무반응)**
 >
@@ -540,7 +561,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > **처방례 5. 성인 아나필락시스 또는 알레르기성 기도부종 의심 시 응급 처치**
 >
 > ```
-> 에피네프린 1:1,000   0.3~0.5 ㎖   IM (대퇴부 전외측)   즉시
+> 에피네프린 1 ㎎/㎖(1:1,000)   0.3~0.5 ㎎(0.3~0.5 ㎖)   IM (대퇴부 전외측)   즉시
 > ※ 반응 불충분 시 5분 간격 반복; 소아는 0.01 ㎎/㎏(1회 최대 0.5 ㎎)
 > ```
 >
@@ -599,7 +620,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 > * 2\~4주간의 표준 치료(항히스타민제 규칙 복용)에도 증상이 호전되지 않는 경우
 > * 호흡곤란, 쉰 목소리, 삼킴곤란, 입술·혀·목의 급격한 부종이 동반되는 경우 - **즉시 응급실 내원**
 > * 어지럼증·실신 또는 전신 두드러기와 함께 심한 경련성 복통·반복 구토가 발생하는 경우 - **즉시 응급실 내원(아나필락시스 의심)**
-> * 개별 팽진이 하루 이상 같은 자리에 남거나 통증·색소침착을 남기는 경우
+> * 개별 팽진이 하루를 넘겨 같은 자리에 남거나 통증·색소침착·멍을 남기는 경우
 > * 원인 불명의 발열, 관절통, 체중감소가 함께 있는 경우
 
 ***
@@ -629,7 +650,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
-* **항히스타민제는 가려울 때만 먹는 약이 아니라 매일 정해진 시간에 꾸준히 복용하는 약입니다.** 그래야 재발을 줄이는 효과가 있습니다
+* **특히 만성 두드러기에서는 항히스타민제를 매일 정해진 용량으로 꾸준히 복용하는 것이 중요합니다.** 증상이 없어지는 시점과 약을 줄이거나 중단할 시점은 담당 의사와 정하십시오
 * 항히스타민제로 졸리면 운전·위험한 작업·음주를 피하고 의료진과 상의하십시오. 취침 전에 복용해도 다음 날 졸음이 남을 수 있으며, 스스로 증량하지 마십시오
 * 스테로이드를 처방받았다면 **정해진 기간(보통 며칠)만 복용**하고 임의로 연장하지 마십시오
 * 주사제(omalizumab)나 새로운 먹는 약(remibrutinib)을 처방받은 경우, 효과가 나타나기까지 몇 주가 걸릴 수 있으니 정해진 일정대로 꾸준히 사용하십시오
@@ -650,19 +671,24 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 
 ***
 
-### 참고문헌 및 허가정보
+## 주요 참고문헌 및 확인 자료
 
-* Zuberbier T, et al. The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria. Allergy. 2026;81:2582–2632. [doi:10.1111/all.70210](https://doi.org/10.1111/all.70210).
-* Gómez de la Fuente E, et al. Progression From Acute to Chronic Urticaria: A Systematic Review. JAMA Dermatol. 2026;162:824–828. [doi:10.1001/jamadermatol.2026.1901](https://doi.org/10.1001/jamadermatol.2026.1901).
-* KAAACI/KDA. Evidence-Based Practice Guidelines for Chronic Spontaneous Urticaria in Korean Adults and Children. Allergy Asthma Immunol Res. 2020; Parts 1 and 2.
-* The 2025 WAO Guidelines for the classification, diagnosis, and treatment of hereditary angioedema, with consideration of worldwide disparities. World Allergy Organ J. 2026;19:101335. [doi:10.1016/j.waojou.2026.101335](https://doi.org/10.1016/j.waojou.2026.101335).
+### <mark style="color:orange;">임상 근거</mark>
+
+* Zuberbier T, et al. The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria. Allergy. 2026;81(8):2582–2632. [doi:10.1111/all.70210](https://doi.org/10.1111/all.70210).
+* Gómez de la Fuente E, et al. Progression From Acute to Chronic Urticaria: A Systematic Review. JAMA Dermatol. 2026;162(8):824–828. [doi:10.1001/jamadermatol.2026.1901](https://doi.org/10.1001/jamadermatol.2026.1901).
+* KAAACI/KDA. Evidence-Based Practice Guidelines for Chronic Spontaneous Urticaria in Korean Adults and Children. Part 1. Definition, Methodology and First-line Management. *Allergy Asthma Immunol Res.* 2020;12(4):563–578. [doi:10.4168/aair.2020.12.4.563](https://doi.org/10.4168/aair.2020.12.4.563); Part 2. Management of H1-Antihistamine-Refractory Chronic Urticaria. 2020;12(5):750–770. [doi:10.4168/aair.2020.12.5.750](https://doi.org/10.4168/aair.2020.12.5.750).
+* The 2025 WAO Guidelines for the classification, diagnosis, and treatment of hereditary angioedema, with consideration of worldwide disparities. World Allergy Organ J. 2026;19(5):101335. [doi:10.1016/j.waojou.2026.101335](https://doi.org/10.1016/j.waojou.2026.101335).
 * Maurer M, et al. WAO/EAACI HAE Guideline—2021 revision and update. World Allergy Organ J. 2022;15:100627. [본문](https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/).
 * 소아, 임산부 및 수유부에서의 유전성 혈관부종: 전문가 의견서. Allergy Asthma Respir Dis. 2022;10:131–138. [doi:10.4168/aard.2022.10.3.131](https://doi.org/10.4168/aard.2022.10.3.131).
 * ESE/Endocrine Society. Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency. 2024. [지침](https://academic.oup.com/jcem/article/109/7/1657/7667842).
 * ASCIA. Acute Management of Anaphylaxis. 2026. [지침](https://allergy.org.au/hp/anaphylaxis/acute-management-guidelines).
-* 국내 허가 용량: [태극제약 아디팜정](https://www.taiguk.co.kr/product/view.jsp?pid=AHG72486), [유한양행 페니라민정](https://www.yuhan.co.kr/Products/List/?YPRD_IDX=1865&cid=177&mode=view), [사노피 듀피젠트 제품정보](https://www.sanofi.com/ko/south-korea/product-information/dupixent-prefilled-injection-300mg-dupilumab-recombinant) 및 연결된 식약처 허가사항.
-* 국내 허가사항 조회 보완: [듀피젠트](https://health.kr/searchDrug/result_drug.asp?drug_cd=2018040200003), [졸레어](https://health.kr/searchDrug/result_drug.asp?drug_cd=2016053000001), [피라지르](https://www.connectdi.com/cont/drug/?dl_idx=33341&pap=detail). 약학정보원·의약품 DB의 허가사항 재게시 자료를 참고하였으며 최종 처방은 식약처 원문 기준.
-* 유한양행. 랩시도 국내 허가 및 유통·판매 협약 발표(2026-09-07). [보도자료](https://admin.yuhan.co.kr/Mobile/Customer/NoticeList/index.asp?Cateid=221&IDX=60561&mode=view&no=319&p=1&sm=-1).
-* 국외 안전성 보완: [Remibrutinib SmPC](https://www.medicines.org.uk/emc/product/102515/smpc), [Bilastine SmPC](https://www.medicines.org.uk/emc/product/101237/smpc). 국외 허가사항을 국내 허가로 대체하지 않음.
-* HIRA. Lanadelumab 주사제 급여기준 신설(2026-03-01 시행). [고시](https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53096&brdScnBltNo=4&pgmid=HIRAA030069000400).
-* 질병코드 세분화 참고: [2026 의료급여사업안내](https://welfare.dobong.go.kr/user/cmmn/file/fileDown.do?atchFileId=70e260278bb148e69c02653f03982616&fileSn=1); 실제 청구 시 현행 분류·상세 코드 확인.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 항히스타민제, 졸레어·듀피젠트·랩시도, 피라지르·탁자이로 등의 적응증·연령·용법 확인 자료.
+* HIRA. [Lanadelumab 주사제 급여기준 신설, 고시 제2026-42호(2026-03-01 시행)](https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53096&brdScnBltNo=4&pgmid=HIRAA030069000400).
+* HIRA. [Icatibant 주사제, 고시 제2024-235호(2024-12-01 시행)](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&mtgMtrRegSno=0010&sno=3) — 자가투여 1회 처방량 기준.
+* 유한양행. 랩시도 국내 허가 및 유통·판매 협약 발표(2026-09-07). 국내 허가·기본 용법 보완에는 식약처 허가사항 재게시 자료도 참고함; 재게시 자료와 국외 SmPC를 국내 원문과 동일한 자료로 취급하지 않음.
+* 국외 안전성 보완: [Remibrutinib SmPC](https://www.medicines.org.uk/emc/product/102515/smpc), [Bilastine SmPC](https://www.medicines.org.uk/emc/product/101237/smpc).
+* 질병코드: 현행 한국표준질병·사인분류; 세분화 보완 자료는 [2026 의료급여사업안내](https://welfare.dobong.go.kr/user/cmmn/file/fileDown.do?atchFileId=70e260278bb148e69c02653f03982616&fileSn=1).

@@ -41,7 +41,14 @@
 * 합병증 : 연조직염, 림프관염, 화농성 림프절염, 드물게 **post-streptococcal glomerulonephritis (PSGN)**
   * PSGN은 사슬알균 피부감염 후 약 3주까지의 잠복기를 거쳐 발생할 수 있음(인두염 후의 약 10일과 구분). 눈두덩·하지 부종, 고혈압, 콜라색 소변 또는 소변량 감소 → **당일 소변검사·혈압·신기능 평가 및 필요 시 소아청소년과/신장내과 의뢰**
   * 현미경혈뇨만 보이는 무증상 PSGN도 가능. 혈뇨·단백뇨를 단순한 일과성 변화로 단정하지 않고 평가함. 합병증 증상이 없는 전형적 농가진에서 일률적인 소변검사는 필요하지 않음
-* <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p><strong>PSGN 예방에 대한 주의</strong> : GAS 농가진의 항생제 치료는 감염 치료와 전파 감소에 중요하지만, <strong>PSGN 발생을 확실히 예방한다는 근거는 불충분</strong>함.</p></div>
+
+{% hint style="info" %}
+**GAS 감염 후 비화농성 합병증**
+
+GAS 농가진의 항생제 치료는 감염 치료와 전파 감소에 중요하지만, **PSGN 발생을 확실히 예방한다는 근거는 불충분**함. CDC 2025는 최근 근거에 따라 **농가진을 포함한 GAS 피부감염 뒤에도 급성 류마티스열이 발생할 수 있음**을 명시함. 이를 국내 농가진에서 흔한 합병증으로 일반화하지 않으며, 합병증 소견이 없는 환자에게 일률적인 소변검사·심장검사를 시행하는 근거로 해석하지 않음
+
+<mark style="color:$info;">Ref. CDC. Clinical Guidance for Group A Streptococcal Impetigo; Clinical Guidelines for Post-Streptococcal Glomerulonephritis, 2025.</mark>
+{% endhint %}
 
 ### <mark style="color:orange;">수포성 농가진 (Bullous impetigo)</mark>
 
@@ -56,30 +63,42 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치**</mark>
+{% hint style="danger" %}
+**Tier 1 - 즉각 조치**
 
-* 빠르게 진행하는 광범위 홍반·부종에 병변에 비해 심한 통증, 피부 괴사·자색 변화 또는 심부 감염 소견 → 괴사성 연조직 감염 의심, 응급 평가
-* 저혈압·의식 변화·말초 관류 저하 등 패혈증/전신 독성 소견(고열이 없어도 배제하지 않음)
-* 광범위 수포·피부 압통·박리, 특히 영아 → **SSSS 의심**, 즉시 응급실/입원 평가
-* 영아의 광범위 표피 박리와 수유 감소·소변량 감소·처짐 등 탈수 소견
-* PSGN 의심 환자의 호흡곤란·폐부종, 심한 고혈압에 동반된 두통·의식 변화 또는 현저한 핍뇨
+응급실 이송 및 입원·전문과 평가를 즉시 시행함
 
-<mark style="color:$warning;">**당일 평가**</mark>
+* 빠르게 진행하는 광범위 홍반·부종과 병변에 비해 심한 통증, 피부 괴사·자색 변화 또는 심부 감염 소견  `괴사성 감염`
+* 저혈압·의식 변화·말초 관류 저하 등 전신독성 소견(고열이 없어도 배제하지 않음)  `패혈증`
+* 광범위 수포·피부 압통·박리, 특히 영아  `SSSS 의심`
+* 영아의 광범위 표피 박리와 수유 감소·소변량 감소·처짐  `탈수`
+* PSGN 의심 환자의 호흡곤란·폐부종, 심한 고혈압에 동반된 두통·의식 변화 또는 현저한 핍뇨  `중증 신염 합병증`
+{% endhint %}
 
-* **신생아의 농가진 또는 영아(≤1세)의 수포성 농가진** → 소아청소년과 평가/의뢰
-* 면역저하자의 광범위 농가진
-* 전신 상태 불량, 발열·활동 저하 또는 광범위 수포성 병변
-* 병변 주변으로 퍼지는 홍반·열감·압통 등 연조직염 동반
-* 적절한 치료 중에도 빠르게 악화함(전신 독성·괴사성 감염 소견이면 즉각 조치)
-* 농가진 이후 수 주 내 부종, 고혈압, 육안적 혈뇨(콜라색 소변) 또는 소변량 감소 → **PSGN 의심**
+{% hint style="warning" %}
+**Tier 2 - 당일 평가**
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark>
+당일 평가 후 소아청소년과 등 전문진료·입원 필요성을 판단함. 전신독성·괴사성 감염 소견이면 Tier 1을 적용함
 
-* 전신 상태가 안정적인 농창(ecthyma) → 경구 항생제를 시작하고 반응 확인; 광범위·심부 진행 또는 치료 실패 시 의뢰
-* 치료 시작 후 48\~72시간 내 호전이 없거나 치료 종료 후에도 지속됨 → 진단·복약 이행·내성을 재평가하고 배양 고려; 안정적인 치료 실패만으로 응급 의뢰하지 않음
-* 잦은 재발 → 병변 배양, 필요 시 비강 보균 및 제균요법 평가
-* MRSA 또는 집단 발생 의심 → 배양 및 감염관리 평가
-* 반복적인 피부 장벽 손상 질환(아토피피부염, 옴 등) 동반
+* 신생아의 농가진 또는 영아(1세 미만)의 수포성 농가진  `영아 감염`
+* 면역저하자의 광범위 농가진  `면역저하`
+* 전신 상태 불량, 발열·활동 저하 또는 광범위 수포성 병변  `중증 감염`
+* 병변 주변으로 퍼지는 홍반·열감·압통  `연조직염`
+* 적절한 치료 중에도 빠르게 악화하는 병변  `치료 중 악화`
+* 농가진 이후 수 주 내 부종, 고혈압, 육안적 혈뇨(콜라색 소변) 또는 소변량 감소  `PSGN 의심`
+{% endhint %}
+
+{% hint style="info" %}
+**Tier 3 - 조기 평가 및 추적**
+
+진단·복약 이행·내성 및 재발 요인을 평가함. 농창은 경구 항생제로 치료하고 반응을 확인하며, 악화·심부 진행·전신 증상은 Tier 1 또는 Tier 2에 따라 평가함
+
+* 전신 상태가 안정적인 농창(ecthyma)  `심부 농피증`
+* 치료 시작 후 48–72시간 내 호전이 없거나 치료 종료 후에도 지속되는 안정적 병변  `반응 지연`
+* 잦은 재발  `반복 감염`
+* MRSA 또는 집단 발생 의심  `내성균·집단 발생`
+* 반복적인 피부 장벽 손상 질환(아토피피부염, 옴 등) 동반  `재발 위험`
+{% endhint %}
 
 ## <mark style="color:green;">진단</mark>
 
@@ -173,7 +192,7 @@ flowchart TD
 
 ### <mark style="color:orange;">사회 복귀 및 접촉자 관리</mark>
 
-(☞ [피부감염](165_-skin-and-soft-tissue-infection.md))
+(☞ [피부감염](165_-skin-soft-tissue-infection.md))
 
 * 적절한 항생제 치료 시작 후 **필요한 제외 기간이 지나고**, 전신 상태가 양호하며 노출 병변을 덮을 수 있으면 학교·직장 복귀를 판단함
 * 미국 CDC의 GAS 농가진 안내(AAP 기준 인용)는 **최소 12시간**을 제시하며, 집단 발생이나 의료종사자에서는 **최소 24시간**을 고려. 국내 공통 법정 복귀 기준으로 단정하지 않음
@@ -192,7 +211,7 @@ flowchart TD
   * **지침 요법** : IDSA는 bid ×5일, NICE는 tid ×5일. 임상 반응에 따라 치료 기간을 판단하되, 반복·장기간 사용은 피함
   * **국내 허가 용법** : 에스로반은 1일 2\~3회, 10일간 소량 도포. 본문과 처방례의 **5일 요법은 지침에 따른 단기 요법이며 국내 허가 기간과 다름**
   * 피부용 연고를 눈·구강·비강 점막에 사용하지 않음. 제균 목적의 비강 투여는 별도 비강용 제형·허가사항을 확인함
-  * 에스로반 국내 첨부문서상 **임부·임신 가능성이 있는 여성·수유부 및 신질환 환자는 투여금기**. 신질환 금기는 PEG 연고기제의 손상 피부 흡수·신장 배설과 관련됨. 임신·수유에서도 외국 지침만 근거로 국내 금기를 무시하지 않음
+  * 에스로반 국내 첨부문서상 **임부·임신하고 있을 가능성이 있는 여성·수유부 및 신질환 환자는 투여금기**. 신질환 금기는 PEG 연고기제의 손상 피부 흡수·신장 배설과 관련됨. 임신·수유에서도 외국 지침만 근거로 국내 금기를 무시하지 않음
 * **fusidic acid 2%** <mark style="color:blue;">\[후시딘]</mark> : 반복적 경험 사용은 피함. 국내 단일 대학병원 피부감염 유래 S. aureus 965주(2010\~2013년)의 내성률이 **44.0%**, mupirocin은 **8.4%**였음([Baek 등, 2016](https://pubmed.ncbi.nlm.nih.gov/26892888/)). **현재 전국 또는 지역사회 농가진만의 내성률로 일반화할 수 없음**. 과거 사용력·지역 감수성·배양 결과를 반영하여 선택함
 * **ozenoxacin 1%** <mark style="color:blue;">\[오자넥스크림]</mark> : 농가진의 단기 국소 치료로 국내 허가된 **비불소화 quinolone계** 항생제
   * **bid ×5일**, 성인 및 **생후 2개월 이상** 소아
@@ -223,7 +242,11 @@ flowchart TD
 **기간**
 
 * NICE는 일반적으로 **5일**, 병변의 범위·중증도에 따라 **7일**까지 고려
-* IDSA와 국내 2017 피부·연조직 감염 지침은 농가진·농창 경구 치료에 **7일** 요법을 제시. 본 처방례는 7일로 통일하되 반응에 따라 개별화함
+* IDSA와 국내 2017 피부·연조직 감염 지침은 농가진·농창 경구 치료에 **7일** 요법을 제시. 본 처방례는 지침상 7일 요법을 기본으로 하되 원인균·반응에 따라 개별화함
+* 국내 cefadroxil 소아 용법에는 β-용혈성연쇄구균 감염에 적어도 10일 투여한다는 문구가 있음. **GAS가 확인되거나 강하게 의심되면 해당 허가 문구와 지침의 7일 요법을 구분하여 기간을 결정함**; 7일을 모든 품목의 허가 기간으로 일반화하지 않음
+* 농가진·농창의 경구 7일 요법과 165 챕터의 비복잡성 연조직염 5일 요법은 대상 질환이 다름
+
+<mark style="color:$info;">Ref. NICE NG153, 2020; IDSA SSTI guideline, 2014; 국내 SSTI 지침, 2017; 국내 cefadroxil 품목정보.</mark>
 
 **경험적 선택**
 
@@ -233,8 +256,8 @@ flowchart TD
 * amoxicillin 또는 penicillin 단독은 경험적 MSSA 치료에 부적절. **배양에서 GAS만 확인되면** 좁은 범위 penicillin계로 조정 가능
 * MRSA 의심/확인 시 **clindamycin, doxycycline, TMP/SMX** 등을 배양 결과와 지역 내성률에 따라 선택
   * **clindamycin** : 배양 감수성과 **C. difficile 대장염 위험**을 확인. erythromycin 내성·clindamycin 감수성 S. aureus는 **D-test**로 유도성 내성을 확인하고 양성이면 피함
-  * **doxycycline** : 농가진에서는 임신·수유 및 어린 소아의 국내 제품별 금기를 확인하고 대체약 우선. GAS에 대한 경험적 보장이 불확실하므로 연조직염 등 GAS 감염이 중요하면 적절한 β-lactam 병용 또는 다른 약제 선택
-  * **TMP/SMX** : **생후 2개월 미만 금기**. IDSA는 MRSA 농가진의 선택지로 제시하나, GAS 동시 감염/연조직염이 임상적으로 중요하면 **β-lactam 병용 또는 두 균을 치료하는 다른 약제**를 고려. 신기능·고칼륨혈증 위험과 병용약, 임신·수유 관련 국내 금기/주의 확인
+  * **doxycycline** : 국내 독시정 등에는 농가진이 명시 적응증에 없어 **허가 외 사용**임. 임부·임신하고 있을 가능성이 있는 여성·수유부 및 12세 미만은 원칙적으로 금기이며, 농가진에는 대체약을 우선함. Retinoid 계열과 병용하지 않음. GAS에 대한 경험적 보장이 불확실하므로 연조직염 등 GAS 감염이 중요하면 적절한 β-lactam 병용 또는 다른 약제 선택
+  * **TMP/SMX** : 셉트린정의 국내 명시 적응증에 농가진이 없어 **허가 외 사용**이며, **생후 2개월 미만·임부·임신하고 있을 가능성이 있는 여성·수유부·G6PD 결핍은 금기**임. **Methotrexate와 병용금기**임. IDSA는 MRSA 농가진의 선택지로 제시하나, GAS 동시 감염/연조직염이 임상적으로 중요하면 **β-lactam 병용 또는 두 균을 치료하는 다른 약제**를 고려. 신기능·고칼륨혈증 위험과 병용약, 임신·수유 관련 국내 금기/주의 확인
   * 국소 치료에 반응이 없다는 이유만으로 MRSA를 확진하지 않으며, 가능하면 약제를 바꾸기 전 병변 배양을 채취함
   * **소아 MRSA 치료는 실제 확보 가능한 제형과 국내 허가 용량을 확인**하여 결정. 국내에서 확인되지 않은 경구액 농도나 캡슐 분할량을 가정한 처방을 피함
 * β-lactam allergy에서는 알레르기 유형과 지역 내성률에 따라 대체약 선택
@@ -250,7 +273,7 @@ L01.1　농가진화(Impetiginization of other dermatoses) - 아토피피부염 
 
 L08.0　농피증(Pyoderma) - 농창(ecthyma) 등에 해당; 괴저성 농창(ecthyma gangrenosum)은 임상적으로 별개 질환이므로 혼동하지 않음
 
-✽정확한 하위 코드는 청구 전 KOICD(질병분류정보센터)에서 최신 KCD 개정판 기준으로 재확인할 것
+✽실제 진단·청구 시 기록된 병변과 원인에 맞는 KCD 세부 코드를 선택함
 
 ***
 
@@ -262,7 +285,7 @@ L08.0　농피증(Pyoderma) - 농창(ecthyma) 등에 해당; 괴저성 농창(ec
 > 에스로반 연고 2% 10 g/tube　병변에 소량 bid ×5일
 > ```
 >
-> _✽IDSA 단기 요법; 국내 허가 용법은 1일 2~3회 10일간으로 기간이 다름. 임부·임신 가능성이 있는 여성·수유부·신질환 환자는 에스로반 투여금기_
+> _✽IDSA 단기 요법; 국내 허가 용법은 1일 2~3회 10일간으로 기간이 다름. 임부·임신하고 있을 가능성이 있는 여성·수유부·신질환 환자는 에스로반 투여금기_
 
 > **처방례 2. 성인, 광범위·다발성 비수포성 농가진**
 >
@@ -270,15 +293,15 @@ L08.0　농피증(Pyoderma) - 농창(ecthyma) 등에 해당; 괴저성 농창(ec
 > 팔렉신캡슐 500 ㎎　1C qid ×7일
 > ```
 >
-> _✽Cephalexin 2 g/day, 정상 신기능 기준. 국소 항생제는 일상적으로 병용하지 않음. β-lactam 알레르기, MRSA 위험, 배양 결과에 따라 조정_
+> _✽Cephalexin 2 g/day, 정상 신기능 기준. 국내 허가 용량은 성인 1일 1–4 g, 통상 500 ㎎ bid–tid이며 위 qid는 지침 용법임. 국소 항생제는 일상적으로 병용하지 않음. β-lactam 알레르기, MRSA 위험, 배양 결과에 따라 조정_
 
 > **처방례 3. 20 ㎏ 소아, 다발성 농가진**
 >
 > ```
-> 보령듀리세프 건조시럽 250 ㎎/5 mL　1회 6 mL bid ×7일
+> 보령듀리세프 건조시럽 250 ㎎/5 mL　1회 6 mL bid ×7일 (지침상 기간)
 > ```
 >
-> _✽Cefadroxil 30 mg/kg/day를 2회 분할: 20 kg ×30 mg=600 mg/day, 1회 300 mg=6 mL(조제 후 50 mg/mL). 125 mg/5 mL 제품이면 1회 12 mL이므로 농도를 반드시 확인. 정상 신기능 기준; 조제 후 잘 흔들고 계량용 주사기로 투여. 국소 항생제는 일상적으로 병용하지 않음_
+> _✽Cefadroxil 30 mg/kg/day를 2회 분할: 20 kg ×30 mg=600 mg/day, 1회 300 mg=6 mL(조제 후 50 mg/mL). 125 mg/5 mL 제품이면 1회 12 mL이므로 농도를 반드시 확인. 정상 신기능 기준; 조제 후 잘 흔들고 계량용 주사기로 투여. GAS가 확인되거나 강하게 의심되면 국내 소아 허가사항의 최소 10일 문구를 고려하여 기간 결정. 국소 항생제는 일상적으로 병용하지 않음_
 
 > **처방례 4. 국소·소수 비수포성 농가진의 다른 국소 선택지**
 >
@@ -288,15 +311,6 @@ L08.0　농피증(Pyoderma) - 농창(ecthyma) 등에 해당; 괴저성 농창(ec
 >
 > _✽성인 및 생후 2개월 이상 소아. 적용 부위 100 cm² 이내, 12세 이하에서는 체표면적 2% 이내 조건도 충족해야 함. 3일 내 호전이 없으면 재평가; 광범위/전신성 MRSA 감염에는 이 처방을 적용하지 않음_
 
-### 참고 지침 및 주요 확인 자료
-
-* NICE. [**Impetigo: antimicrobial prescribing (NG153)**](https://www.nice.org.uk/guidance/ng153/chapter/Recommendations). 2020.
-* IDSA. [**Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update**](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/). 2014.
-* 대한감염학회 등. [**Clinical Guidelines for the Antibiotic Treatment for Community-Acquired Skin and Soft Tissue Infection**](https://doi.org/10.3947/ic.2017.49.4.301). 2017. 성인(16세 이상) 대상 지침으로 소아 용량의 직접 근거로 사용하지 않음.
-* CDC. [**Clinical Guidance for Group A Streptococcal Impetigo**](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html). 2025.
-* CDC. [**Clinical Guidelines for Post-Streptococcal Glomerulonephritis**](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/post-streptococcal-glomerulonephritis.html). 2025.
-* Baek YS, et al. [**Antimicrobial resistance of Staphylococcus aureus isolated from skin infections and its implications in various clinical conditions in Korea**](https://pubmed.ncbi.nlm.nih.gov/26892888/). Int J Dermatol. 2016;55:e191–e197. 2010~2013년 단일기관 피부감염 분리주 연구.
-* 국내 제품 정보 : [에스로반](https://www.jwbrand.co.kr/sroban/product), [에스로반 국내 첨부문서](https://common.health.kr/shared/images/insert_pdf/IN_A11A2190A0223_00.pdf), [팔렉신](https://m.dong-wha.co.kr/product/content.asp?t_d=09&t_idx=20&t_page=3), [보령듀리세프 건조시럽](https://pharm.boryung.co.kr/product/search_detail.do?SEQ=382), [오자넥스](https://www.bukwang.co.kr/product_view.php?ccode=001&idx=78).
 
 ***
 
@@ -366,3 +380,22 @@ L08.0　농피증(Pyoderma) - 농창(ecthyma) 등에 해당; 괴저성 농창(ec
 
 * 미국 CDC 안내에서는 적절한 항생제 치료 후 최소 12시간이 지나고 아이가 전반적으로 괜찮으며 병변을 덮을 수 있을 때 복귀할 수 있다고 합니다. 집단 발생에서는 최소 24시간을 고려하며, 실제 등원·등교는 해당 기관의 규정을 확인하십시오.
 * 어린이집이나 학교에 별도 규정이 있다면 그 규정을 따르십시오. 필요한 경우 **보육교사·보건교사 또는 해당 기관에 복귀 기준을 확인**하십시오.
+
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* NICE. [**Impetigo: antimicrobial prescribing (NG153)**](https://www.nice.org.uk/guidance/ng153/chapter/Recommendations). 2020.
+* IDSA. [**Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update**](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/). 2014.
+* 대한감염학회 등. [**Clinical Guidelines for the Antibiotic Treatment for Community-Acquired Skin and Soft Tissue Infection**](https://doi.org/10.3947/ic.2017.49.4.301). 2017. 성인(16세 이상) 대상 지침으로 소아 용량의 직접 근거로 사용하지 않음.
+* CDC. [**Clinical Guidance for Group A Streptococcal Impetigo**](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/impetigo.html). 2025.
+* CDC. [**Clinical Guidelines for Post-Streptococcal Glomerulonephritis**](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/post-streptococcal-glomerulonephritis.html). 2025.
+* Baek YS, et al. [**Antimicrobial resistance of Staphylococcus aureus isolated from skin infections and its implications in various clinical conditions in Korea**](https://pubmed.ncbi.nlm.nih.gov/26892888/). Int J Dermatol. 2016;55:e191–e197. 2010~2013년 단일기관 피부감염 분리주 연구.
+* [ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing. 2026](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/bacterial-skin-and-soft-tissue-infections----diagnosis-and-antibiotic-prescribing/) — 국소 경증의 외용 단독치료, 중증의 경구 단독치료 및 불필요한 병합 회피 원칙
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 에스로반연고·오자넥스크림·팔렉신캡슐·보령듀리세프건조시럽·셉트린정·독시정 등의 국내 적응증·제형·용법·기간·금기. 에스로반·오자넥스·팔렉신 제조사 자료 및 보령듀리세프의 식약처 제공 품목정보도 함께 대조함

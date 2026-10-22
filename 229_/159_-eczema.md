@@ -56,19 +56,22 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 저혈압·의식 변화 등 패혈증 의심, 빠르게 진행하는 병변에 비례하지 않는 극심한 통증·괴사 등 괴사성 연조직감염 의심 → 응급실 의뢰
-* eczema herpeticum 의심에 심한 전신증상·급속 확산·안구 증상이 동반됨 → 즉시 응급 평가; 눈 주위 병변은 당일 안과 평가도 필요함
+* 저혈압·의식 변화, 또는 빠르게 진행하는 병변에 비례하지 않는 극심한 통증·괴사  `패혈증·괴사성 연조직감염 의심`
+* 갑자기 발생한 통증성·단형성 소수포 또는 punched-out erosion(발열 유무와 무관)  `헤르페스성 습진 의심`
+* 눈 주위 herpes 병변 또는 안통·시력저하·광과민  `안구 침범 의심`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 퍼지는 홍반·열감·압통 등 cellulitis(연조직염) 의심; 발열이 없어도 당일 평가함
-* 갑자기 발생한 다수의 단형성(monomorphic) 소수포 또는 punched-out erosion, 통증 ± 발열·권태감 등 eczema herpeticum 의심 → 당일 피부과/응급 평가 및 신속한 전신 항바이러스 치료; 확진검사 결과를 기다리며 치료를 지연하지 않음
+* 퍼지는 홍반·열감·압통(발열 유무와 무관)  `연조직염 의심`
 
-<mark style="color:$info;">**조기 피부과 의뢰 및 외래 추적**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 국소 치료에도 2\~4주 내 뚜렷한 호전이 없거나 반복 재발: 진단·지속 노출·치료 순응도를 재평가하고 피부과 의뢰
-* 중등도\~중증 만성 손습진, 직업성 또는 알레르기 접촉피부염 의심, patch test가 필요한 경우 조기 의뢰
-* 치료 반응이 양호한 경증 병변은 보습·노출 회피를 유지하면서 재발 여부 추적
+* 적절한 국소치료에도 2\~4주 내 뚜렷한 호전이 없거나 반복 재발  `치료 반응 불충분·진단 재평가`
+* 중등증\~중증 만성 손습진, 직업성 또는 알레르기 접촉피부염 의심  `질환 조절 불충분·접촉알레르기 의심`
+
+{% hint style="info" %}
+헤르페스성 습진은 **전신 항바이러스 치료를 즉시 시작하고 당일 피부과 평가**를 연결함. 확진검사 결과를 기다리며 치료를 지연하지 않음. 눈 주위 병변·안구 증상은 당일 안과 평가도 필요함. 패혈증·괴사성 감염·심한 전신증상·급속 확산은 응급실 의뢰 대상으로 판단함. <mark style="color:$info;">[NICE CG57; 아토피피부염 챕터 참조]</mark>
+{% endhint %}
 
 ***
 
@@ -76,8 +79,9 @@
 graph TD
     Start(["손습진 의심 환자"]) ---> Hx["노출력·아토피 병력 확인; 손·발·손발톱 및 다른 피부 병변 확인"]
     Hx ---> Infection{"감염 위험 소견?"}
-    Infection --->|"패혈증·괴사성 감염, 중증 전신/안구 증상"| Emergency["즉각 조치: 응급실 의뢰"]
-    Infection --->|"연조직염 또는 eczema herpeticum 의심"| SameDay["당일 평가·감염 치료; 헤르페스 의심 시 항바이러스 치료 지연 금지"]
+    Infection --->|"패혈증·괴사성 감염·전신 불안정"| Emergency["즉각 조치: 응급실 의뢰"]
+    Infection --->|"eczema herpeticum 의심"| Herpes["즉시 전신 항바이러스 치료 + 당일 피부과 평가<br/>눈 주위·안구 증상: 당일 안과 평가 추가"]
+    Infection --->|"연조직염 의심"| SameDay["당일 평가·감염 치료"]
     Infection --->|"없음"| FirstLine["보습 + 자극·알레르겐 회피 + 부위·제형에 맞는 국소 steroid 단기 사용"]
     FirstLine ---> Reassess{"2~4주 후 반응 평가; 악화 시 더 일찍 평가"}
     Reassess --->|"호전"| Maintain["보습·노출 회피 유지; steroid 중단 또는 최소 빈도 유지"]
@@ -104,7 +108,7 @@ graph TD
 
 ***
 
-## <mark style="background-color:$warning;">치료</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">치료 방침</mark>
 
@@ -134,9 +138,10 @@ graph TD
 * delgocitinib 20 ㎎/g cream(국소 pan-JAK 억제제) <mark style="color:blue;">\[앤줍고]</mark> : 국소 steroid 치료에 반응하지 않거나 국소 steroid가 적절하지 않은 성인의 중등도\~중증 만성 손습진에서 고려; 손·손목의 병변에 얇게 bid(약 12시간 간격) 도포
   * 피부가 깨끗하거나 거의 깨끗해질 때까지 사용하고, 호전 후 중단하였다가 재발 시 필요에 따라 재시작함; 12주 치료 후 개선이 관찰되지 않으면 중단을 고려하고 진단·치료를 재평가함
   * 손·손목에만 사용하고 눈·입·점막 접촉을 피함; 같은 부위에 다른 치료용 외용제를 동시에 도포하지 않음. 도포 직전·직후 보습제 사용은 피함 (EMA 허가자료: 도포 전후 2시간 이내 보습제 병용은 연구되지 않음)
-  * 18세 미만의 안전성·유효성은 확립되지 않음; 임신 중에는 사용을 피하는 것이 바람직함. 수유 중에는 도포한 손·손목이 유두 또는 영아 피부에 직접 닿지 않도록 함 (EMA 허가자료)
+  * **국내 허가 대상은 성인**임. 해외 허가자료의 청소년 연령 확대를 국내에 그대로 적용하지 않음. 임신 중에는 사용을 피하는 것이 바람직하며, 수유 중에는 도포한 손·손목이 유두 또는 영아 피부에 직접 닿지 않도록 함 (임신·수유 주의: EMA 허가자료)
   * 도포 부위의 새로운 결절·치유되지 않는 병변 등을 확인하고 정기적으로 피부 상태를 평가함 (EMA 허가자료)
-  * 국내 급여: 2026년 9월 3일 약제급여평가위원회에서 급여 적정성이 인정됨. **심의 통과와 실제 급여 시행은 별개**이므로, 처방 시 최신 급여 고시·시행일과 비용을 확인함
+  * 국내 급여: 2026년 9월 3일 약제급여평가위원회에서 급여 적정성이 인정됨. **심의 통과와 실제 급여 등재·시행은 별개**임. <mark style="color:$info;">[HIRA 2026년 제9차 심의결과]</mark>
+* **최신 비교 근거** : DELTA FORCE 3상 무작위 직접 비교시험(성인 중증 CHE, 513명)에서 12주 HECSI의 보정 평균 감소는 delgocitinib 크림 67.6점, alitretinoin 51.5점으로 delgocitinib이 우월했음(군 간 차이 −16.1점, 95% CI −23.3\~−8.9). 특정 중증 환자군의 연구 결과로 해석하며, 경증·소아·모든 습진으로 확대하지 않음. delgocitinib 실패를 alitretinoin 또는 광선치료의 필수 선행조건으로 삼지 않음. <mark style="color:$info;">[DELTA FORCE. Lancet. 2025;405:1676–1688]</mark>
 * 2\~4주 후 초기 치료 반응 평가
   * 호전 : 국소 steroid 사용 빈도·역가를 줄이고 보습·자극 회피 중심의 유지치료
   * 불충분 : 진단, 순응도, 지속 노출을 재평가하고 patch test/피부과 의뢰 또는 치료 단계 상향 고려
@@ -151,7 +156,7 @@ graph TD
   * 임신·수유, 간기능부전·중증 신부전, 조절되지 않는 고지혈증·갑상선기능저하증 등 금기사항 확인; tetracycline계 항생제와 병용하지 않으며 비타민 A 보충제·다른 retinoid 병용을 피함
   * 치료 중 및 종료 후 1개월간 헌혈 금지; 두통·오심·시력장애가 함께 발생하면 두개내압 상승 가능성을 고려하여 중단 후 즉시 평가함
   * 과도한 햇빛·인공 UV 노출을 피하고 필요시 자외선 차단제 사용
-* 경구 steroid : 급성 중증 flare에서 예외적으로 단기간 rescue therapy로 고려; 반복·장기 투여는 피함
+* 경구 steroid : 성인의 급성 중증 flare에서 예외적으로 단기간 rescue therapy로 고려; 반복·장기 투여는 피함
 * 면역억제제 : methotrexate <mark style="color:blue;">\[메토트렉세이트]</mark>, azathioprine, cyclosporine 등은 난치성 중증 환자에서 피부과 전문의 평가 후 제한적으로 고려 (☞ p.820)
   * methotrexate·azathioprine의 손습진 치료는 허가 외 사용; cyclosporine도 아토피피부염 등 별도 허가 적응증에 해당하지 않는 손습진에서는 허가 외 사용임. 감염·혈압·신기능·간기능·혈구 수 등 약제별 모니터링이 필요함
 * 다한증이 주요 악화 인자인 일부 환자에서는 iontophoresis 등을 제한적으로 고려; botulinum toxin은 손바닥 다한증/손습진에 대한 허가 외 사용 및 제한적인 근거를 설명한 뒤 전문의가 판단함
@@ -183,7 +188,7 @@ graph TD
 > 앤줍고 크림 20 ㎎/g (2%)  손·손목 병변에 얇게  bid (약 12시간 간격)
 > ```
 >
-> _✽국소 steroid에 반응하지 않거나 적절하지 않은 성인 중등도\~중증 만성 손습진에서 고려; 깨끗하거나 거의 깨끗해지면 중단하고 재발 시 필요에 따라 재시작; 12주 후 개선이 없으면 중단 고려; 최신 급여 시행 여부와 비용 확인_
+> _✽국소 steroid에 반응하지 않거나 적절하지 않은 성인 중등도\~중증 만성 손습진에서 고려; 깨끗하거나 거의 깨끗해지면 중단하고 재발 시 필요에 따라 재시작; 12주 후 개선이 없으면 중단 고려_
 
 > **처방례 4. 중증 난치성 손습진**
 >
@@ -209,7 +214,6 @@ graph TD
 > * 병변이 깨끗하거나 거의 깨끗해지면 중단하고, 재발 시 의사의 안내에 따라 다시 사용합니다.
 > * 도포 직전·직후 다른 연고나 보습제를 겹쳐 바르지 말고, 사용 간격은 처방 지시를 따릅니다.
 > * 눈·입·점막에 닿지 않게 하며, 수유 중에는 도포한 손이 유두나 아기 피부에 직접 닿지 않도록 합니다.
-> * 처방 전에 현재 보험 적용 여부와 본인 부담 비용을 확인합니다.
 
 > **alitretinoin 복용 시 임신 예방**
 >
@@ -284,20 +288,20 @@ graph TD
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급속 확산, 심한 전신증상, 괴사 또는 병변에 비례하지 않는 심한 통증 등 중증 감염 의심 → 응급실 의뢰
+* 급속 확산·심한 전신증상·괴사 또는 병변에 비례하지 않는 심한 통증  `패혈증·괴사성 연조직감염 의심`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 조갑 주위 급성 화농성 감염·농양 의심: 농양이 있으면 배농을 고려함; 연조직염·전신증상·면역저하 등 동반 시 항생제 치료 여부를 결정함
-* 손끝의 군집성 수포와 통증은 herpetic whitlow(헤르페스성 손끝염)를 감별함; 의심 시 절개·배농하지 않음
+* 조갑 주위 급성 화농·농양, 확산하는 홍반·압통  `급성 조갑주위염·연조직염 의심`
+* 손끝의 군집성 수포와 통증  `헤르페스성 손끝염 의심`
 
-<mark style="color:$info;">**조기 피부과 의뢰 및 외래 추적**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 진균검사 음성인데도 병변이 지속되거나 진단이 불확실함, nail psoriasis 등 다른 조갑 질환과 감별이 어려움 → 조기 의뢰
-* 한 손가락의 지속적인 비대칭 조갑주위 병변·궤양·출혈·결절 또는 새로운 색소띠는 종양 등 다른 원인을 평가함
-* 경증 병변은 수 주 후 조갑주위 피부의 호전 여부를 확인함; 손톱 모양의 회복만으로 단기 치료 실패를 판단하지 않음
+* 진균검사 음성이지만 지속하는 병변, 진단 불확실, 조갑 건선 등과 감별 곤란  `다른 조갑 질환 감별`
+* 한 손가락의 지속적인 비대칭 조갑주위 병변·궤양·출혈·결절 또는 새로운 색소띠  `조갑 종양 감별`
+* 수 주간 조갑주위 염증이 호전되지 않거나 반복 재발  `진단·노출·치료 반응 재평가`
 
-## <mark style="background-color:$warning;">치료</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 * 손습진의 원인 회피 및 피부보호 원칙을 동일하게 적용
 * 손톱 손질, 손톱에 대한 충격 및 반복 자극을 피함
@@ -305,6 +309,8 @@ graph TD
 * 조갑주위 피부 염증은 중역가 국소 steroid를 단기간 사용하고 2\~4주 내 재평가함 (☞ p.1139)
 * clobetasol <mark style="color:blue;">\[더모베이트]</mark>는 **초고역가**로, 두꺼운 난치 병변 등에 제한하여 짧게 사용함; 얇은 조갑주위 피부에 기본 치료로 일률적으로 적용하지 않으며 피부 위축에 주의함
 * 조갑주위 감염은 임상적으로 감염이 확인되거나 의심될 때 적절히 치료; 만성 조갑주위염의 Candida 검출만으로 전신 항진균제를 일률적으로 사용하지 않음
+* 급성 세균성 농양은 배농을 고려하고 연조직염·전신증상·면역저하 여부에 따라 항생제를 결정함. **헤르페스성 손끝염은 절개·배농하지 않음.**
+* 수 주 후에는 조갑주위 피부 염증의 호전을 평가하며, 손톱 모양이 정상화되기까지 수개월이 걸릴 수 있음을 설명함
 
 ***
 
@@ -327,19 +333,19 @@ graph TD
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 패혈증·괴사성 연조직감염 의심 또는 급속한 전신 악화 → 응급실 의뢰
+* 저혈압·의식 변화·급속한 전신 악화, 괴사 또는 병변에 비례하지 않는 심한 통증  `패혈증·괴사성 연조직감염 의심`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 확산하는 홍반·열감·압통, 화농 등 연조직염 또는 뚜렷한 이차감염 의심; 단순 진물·균열만으로 감염을 판단하지 않음
+* 확산하는 홍반·열감·압통 또는 화농  `연조직염·이차감염 의심`
 
-<mark style="color:$info;">**조기 의뢰 및 외래 추적**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 국소 steroid 및 보습에도 수 주간 호전 없는 광범위 병변 → 진단 재평가/피부과 의뢰
-* 갑상선기능저하증, 신부전, 영양결핍 등 기저 질환이 의심되면 병력·신체 소견에 따라 TSH, 신기능 등 검사를 선택함
-* 치료 반응이 양호한 경증 병변은 보습 유지하며 계절적 재발 추적
+* 적절한 국소 steroid·보습에도 수 주간 호전 없는 광범위 병변  `진단 재평가`
+* 갑상선기능저하증·신부전·영양결핍을 시사하는 병력·전신 소견  `기저 질환 의심`
+* 새로 생긴 광범위 인설에 체중감소·전신증상 동반  `후천성 어린선·전신 질환 감별`
 
-## <mark style="background-color:$warning;">치료</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 * 피부 자극 및 환부에 대한 비누·강한 세정제 사용을 피함
 * 미지근한 물로 짧게 샤워
@@ -365,15 +371,22 @@ L85.3 피부건조증 Xerosis cutis
 * L60.8은 동반된 손발톱장애에 해당하며 조갑주위 피부염 자체의 코드와 구분함
 * L85.3은 피부건조증 코드로, 염증을 동반한 건조습진과 동일한 진단으로 간주하지 않음
 
-### 주요 참고자료
+## <mark style="color:blue;">주요 참고문헌 및 확인 자료</mark>
 
-* [2020 Korean Consensus Guidelines for Diagnosis and Treatment of Chronic Hand Eczema. Ann Dermatol. 2021;33:351–360](https://doi.org/10.5021/ad.2021.33.4.351)
-* [Bauer A, et al. S2k guideline diagnosis, prevention, and therapy of hand eczema. JDDG. 2023;21:1054–1074](https://doi.org/10.1111/ddg.15179)
-* [NICE NG190. Secondary bacterial infection of eczema: antimicrobial prescribing](https://www.nice.org.uk/guidance/ng190/chapter/Recommendations)
-* [Elocon(mometasone furoate 0.1% 연고) SmPC(국외 허가자료)](https://www.medicines.org.uk/emc/product/79/smpc)
-* [EMA. Anzupgo 20 mg/g cream: Product information](https://www.ema.europa.eu/en/documents/product-information/anzupgo-epar-product-information_en.pdf)
-* [심평원. 2026년 제9차 약제급여평가위원회 심의결과(2026-09-03)](https://www.hira.or.kr/bbsDummy.do?brdBltNo=11898&brdScnBltNo=4&pgmid=HI-RAA020041000100)
-* [알리톡 임신 방지 프로그램: 환자 가이드](https://www.toctino.com/assets/pdf/Korea/Patient%20Guide%20for%20PPP_v2.0.pdf), [Toctino SmPC(국외 허가자료)](https://www.medicines.org.uk/emc/product/7543/smpc)
-* [British Association of Dermatologists. Chronic paronychia](https://www.bad.org.uk/pils/chronic-paronychia), [DermNet. Herpetic whitlow](https://dermnetnz.org/topics/herpetic-whitlow), [DermNet. Asteatotic eczema](https://dermnetnz.org/topics/asteatotic-eczema)
+### <mark style="color:orange;">임상 근거</mark>
 
-_✽신약 급여·허가사항은 변경될 수 있으므로 처방 시 최신 국내 자료를 확인함; 국외 허가자료에서 추가한 안전수칙은 본문에 출처를 구분하여 표시함._
+* [2020 Korean Consensus Guidelines for Diagnosis and Treatment of Chronic Hand Eczema](https://doi.org/10.5021/ad.2021.33.4.351). Ann Dermatol. 2021;33:351–360.
+* [Bauer A, et al. S2k guideline diagnosis, prevention, and therapy of hand eczema](https://doi.org/10.1111/ddg.15179). JDDG. 2023;21:1054–1074.
+* [Giménez-Arnau AM, et al. DELTA FORCE: delgocitinib cream versus oral alitretinoin in adults with severe chronic hand eczema](https://doi.org/10.1016/S0140-6736(25)00001-7). Lancet. 2025;405(10490):1676–1688.
+* [NICE NG190. Secondary bacterial infection of eczema: antimicrobial prescribing](https://www.nice.org.uk/guidance/ng190/chapter/Recommendations).
+* [NICE CG57. Atopic eczema in under 12s: diagnosis and management](https://www.nice.org.uk/guidance/cg57/chapter/recommendations). 헤르페스성 습진의 즉시 치료·당일 전문 평가.
+* [British Association of Dermatologists. Chronic paronychia](https://www.bad.org.uk/pils/chronic-paronychia); [DermNet. Herpetic whitlow](https://dermnetnz.org/topics/herpetic-whitlow); [DermNet. Asteatotic eczema](https://dermnetnz.org/topics/asteatotic-eczema).
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/). 모리코트·앤줍고·알리톡 등 국내 품목허가 확인 자료.
+* [DOCCENT 국내 의약품 허가정보](https://doccent.com/). 앤줍고(품목기준코드 202502369)의 적응증·용법용량 국내 허가사항 전재 본문 확인.
+* [EMA. Anzupgo: Product information](https://www.ema.europa.eu/en/documents/product-information/anzupgo-epar-product-information_en.pdf). 보습제 도포 간격·임신·수유·피부검사 등 국외 안전성 자료; 국내 연령 적응증과 구분함.
+* [HIRA. 2026년 제9차 약제급여평가위원회 심의결과](https://www.hira.or.kr/bbsDummy.do?brdBltNo=11898&brdScnBltNo=4&pgmid=HIRAA020041000100). 급여 적정성 인정과 최종 등재·시행은 구별함.
+* [알리톡 임신 방지 프로그램: 환자 가이드](https://www.toctino.com/assets/pdf/Korea/Patient%20Guide%20for%20PPP_v2.0.pdf); [Toctino SmPC](https://www.medicines.org.uk/emc/product/7543/smpc). 국내 임신 예방 교육자료 및 국외 안전성 자료.
+* [Elocon(mometasone furoate 0.1% 연고) SmPC](https://www.medicines.org.uk/emc/product/79/smpc). 국외 제형·역가 참고자료.

@@ -70,6 +70,7 @@
 * 광알레르기성(photoallergic) : 감작된 환자에서 빛에 의해 변형된 항원에 대한 지연 과민반응; 가려운 습진성 병변으로 나타나며 비노출 부위로 퍼질 수 있음
 * 원인 : 일부 자외선차단제, 국소 NSAID(예: ketoprofen) 등; 원인 물질 회피와 광보호를 병행
 * 광알레르기 의심 시 일반 patch test만으로 놓칠 수 있어 피부과에서 **photopatch test** 고려
+* **국소 ketoprofen**은 사용 중뿐 아니라 **중단 후 2주까지** 도포 부위를 의복 등으로 가려 햇빛·인공 자외선 노출을 피하도록 교육함. 발진 발생 시 중단하고 평가함. <mark style="color:$info;">[EMA ketoprofen 안전성 검토]</mark>
 
 #### <mark style="color:$primary;">전신 접촉피부염 (Systemic contact dermatitis)</mark>
 
@@ -93,24 +94,26 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 강산·강알칼리 등 화학 화상, 광범위 괴사 또는 심한 수포
-* 눈 또는 점막의 화학물질 노출
-* 노출 직후 호흡곤란·천명·후두부종·저혈압·실신 등 anaphylaxis 의심(전신 두드러기 동반 여부와 무관; 특히 latex 노출력)
-  * epinephrine 근육주사와 응급 이송을 지연하지 않음
-* 광범위 박리, 심한 전신 증상 등 단순 접촉피부염으로 설명하기 어려운 중증 피부반응(SJS/TEN 등 감별 필요)
+* 강산·강알칼리 노출, 광범위 괴사·심한 수포 또는 눈·점막의 화학물질 노출  `화학 화상`
+* 노출 직후 호흡곤란·천명·후두부종·저혈압·실신(전신 두드러기 유무와 무관; 특히 latex 노출력)  `아나필락시스 의심`
+* 광범위 박리·점막 미란·심한 전신증상  `SJS/TEN 등 중증 피부반응 감별`
+* 갑자기 발생한 통증성·단형성 수포 또는 punched-out erosion  `헤르페스성 습진 의심`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 광범위·급속히 악화되는 피부염 또는 심한 얼굴·눈꺼풀·생식기 부종
-* 발열, 심한 통증, 화농, 빠르게 진행하는 홍반 등 이차 세균감염 의심
+* 광범위·급속히 악화되는 피부염 또는 심한 얼굴·눈꺼풀·생식기 부종  `중증 피부염`
+* 발열·화농·통증 증가·빠르게 진행하는 홍반  `이차 세균감염 의심`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 직업성 피부염으로 업무 지속이 어렵거나 반복 노출 회피가 곤란한 경우
-* 원인 불명의 반복성·만성 피부염 또는 patch test가 필요한 경우
-* 적절한 항원/자극 회피와 국소 치료에도 지속·재발하거나, 초기부터 ACD·직업성 접촉피부염이 강하게 의심되는 경우
-* 중증 만성 손습진 또는 전신 치료를 고려해야 하는 경우
-* 반복적인 전신 corticosteroid 투여가 필요하거나 장기 전신치료가 고려되는 경우 - 피부과 조기 의뢰
+* 직업성 피부염으로 업무 지속이 어렵거나 반복 노출 회피가 곤란  `직업성 노출`
+* 원인 불명의 반복성·만성 피부염, 초기부터 ACD가 강하게 의심되는 분포·병력  `접촉알레르기 감별`
+* 적절한 회피·국소치료에도 지속·재발하는 중증 만성 손습진 또는 광범위 피부염  `질환 조절 불충분`
+* 반복적인 전신 corticosteroid 투여가 필요한 경과  `진단·장기 치료전략 재평가`
+
+{% hint style="info" %}
+아나필락시스 의심 시 epinephrine 근육주사·응급 이송을 지연하지 않음. 화학 화상은 즉시 원인 제거·관류를 시작하며 눈 노출은 응급 안과 평가를 병행함. 헤르페스성 습진은 발열이 없어도 전신 항바이러스 치료를 즉시 시작하고 당일 피부과 평가를 연결함. 눈 주위 수포·안구 증상은 당일 안과 평가도 필요함(아토피피부염·습진 챕터 참조).
+{% endhint %}
 
 ***
 
@@ -133,7 +136,10 @@
   * 표준 항원 시리즈(예: European baseline series에 준한 국내 시리즈)를 기본으로 하고, 표준 series에 포함되지 않은 직업·취미 관련 의심 물질은 **성분 확인 후 적절한 농도·vehicle을 설정하여 환자 자신의 제품 또는 추가 allergen series로 피부과에서 검사**를 고려; 원제품을 임의 농도로 직접 적용하지 않음
   * 판독은 홍반만 있는 반응을 곧바로 양성으로 판단하지 않으며, infiltration·papule·vesicle 여부와 시간 경과를 함께 보아 **doubtful/irritant reaction과 allergic reaction을 구분**
   * 양성은 해당 항원에 대한 감작을 의미하며 **실제 노출·병변과의 관련성이 있어야 현재 ACD의 원인으로 판단**. 음성도 미검사 항원·농도·면역억제 등의 영향으로 ACD를 완전히 배제하지 못함
-  * **검사 전·검사 중 주의** : 검사 부위의 강한 국소 corticosteroid 및 전신 corticosteroid/면역억제 치료는 반응을 약화시킬 수 있으므로 임의 중단하지 말고 의뢰 기관 지시에 따라 조정. patch 부착 중에는 검사 부위를 젖게 하거나 땀이 많이 나는 격렬한 운동·심한 마찰을 피함
+  * **검사 전 약물 확인** : 검사 부위에 사용하는 TCS·TCI·국소 JAK 억제제와 경구 corticosteroid·면역억제제·생물의약품 등은 결과 해석에 영향을 줄 수 있음. 치료 중 양성 반응이 가능하더라도 **음성만으로 ACD를 배제하지 않으며**, 필요 시 검사 조건을 조정한 재검을 검토함.
+    * ESCD 2026은 검사 부위의 저\~중역가 TCS는 7일, 고역가 TCS는 14일 전 중단을 제시함. 실제 중단 여부·기간은 질환 상태와 검사 기관 지시에 따라 정하며, 전신치료제를 환자가 임의로 끊지 않도록 함.
+    * 항히스타민제도 복용 내역을 알림. 첩포검사에서의 영향은 연구·전문가 의견이 일치하지 않아, 즉시형 피부단자검사의 중단 규칙을 그대로 적용하거나 일률적으로 계속 복용하도록 지시하지 않음. <mark style="color:$info;">[ESCD diagnostic patch testing guideline 2026, §8.1]</mark>
+  * patch 부착 중에는 검사 부위를 젖게 하거나 땀이 많이 나는 격렬한 운동·심한 마찰을 피함
 * 즉시형 latex allergy 또는 protein contact dermatitis가 의심되면 patch test만으로 평가하지 않으며, 병력에 따라 skin-prick/prick-to-prick test 또는 specific IgE 등 별도 평가 고려
 * 광알레르기 의심 시 photopatch test를 의뢰하고, 백선 의심 시 KOH 검사 등을 시행. 피부생검만으로 ICD와 ACD를 확실히 구분하기는 어려움
 
@@ -189,7 +195,7 @@ graph TD
 * 냉찜질, wet dressing, 보습제로 피부장벽 회복
 * 국소 corticosteroid가 염증 치료의 기본
 * 항히스타민제는 피부염 자체의 염증 치료제가 아니라 **소양증, 특히 야간 소양증의 보조요법**
-* 항생제는 **임상적으로 이차 세균감염이 있을 때만** 사용
+* 항생제는 **임상적으로 이차 세균감염이 있을 때만** 범위·중증도에 따라 선택함. 전신상태가 양호한 경미한 감염성 악화에는 일률적으로 추가하지 않으며, 기저 습진의 보습·항염증 치료를 병행함. <mark style="color:$info;">[NICE NG190]</mark>
 * 진균감염이 의심되면 접촉피부염의 치료제가 아니라 **감별진단에 따라 확인·치료**
 
 ***
@@ -230,7 +236,7 @@ graph TD
   * hydrocortisone 1\~2.5% lotion <mark style="color:blue;">\[하티손로션1%, 하티손로션2.5%]</mark>
 * 몸통·사지 : 중간 역가
   * triamcinolone acetonide 0.1% cream <mark style="color:blue;">\[트리코트 등]</mark>
-  * mometasone furoate 0.1% cream <mark style="color:blue;">\[모리코트 등]</mark> - 제형·분류 체계에 따라 역가 분류가 다를 수 있음
+  * mometasone furoate 0.1% cream <mark style="color:blue;">\[모리코트크림 등]</mark> - 크림과 연고의 역가를 동일하게 간주하지 않음. 같은 성분의 연고는 고역가로 분류될 수 있으므로 손습진 챕터의 모리코트연고와 제형을 구분함
 * 손바닥·발바닥 또는 심한 태선화 병소 : 중\~고역가를 고려하고, 필요하면 초고역가를 **단기간만** 선택
   * clobetasol propionate 0.05% <mark style="color:blue;">\[더모베이트]</mark>
   * **초고역가** 제제임을 구분하며 통상 1\~2주 이내 사용 후 재평가; 얼굴·간찰부에는 사용하지 않음
@@ -299,8 +305,8 @@ graph TD
   * **국내 허가(2025-09-08)** : 국소 corticosteroid 치료에 반응하지 않거나 해당 치료가 적절하지 않은 성인의 중등증\~중증 만성 손습진. ICD·ACD·아토피성 등 여러 원인이 포함될 수 있으나 일반 접촉피부염 전체의 적응증은 아님
   * **국내 용법** : 손·손목 환부에 1일 2회(약 12시간 간격) 얇게 도포하고 깨끗해지거나 거의 깨끗해질 때까지 치료; 재발 시 재시작 가능. 12주 후 개선이 없으면 중단 고려
   * 동일 부위에 다른 국소 제제를 함께 적용하는 것은 국내 허가상 권장되지 않음. 임신 중 가급적 피하며, 도포 부위 피부 검진 등 허가상 주의사항 확인
-  * 국내 처방 도입이 확인되며, 2026-09-03 약제급여평가위원회에서 급여 적정성을 인정받음. **심의 결과가 최종 급여 등재·시행을 뜻하지 않으므로 처방 시 최신 고시 확인**
-* dupilumab 등 생물학적제제는 표준 1차 치료가 아니며, 회피에도 반응하지 않는 **중증 난치성 ACD**에서 소규모 연구·증례 수준의 근거를 바탕으로 off-label 사용이 시도되고 있음(2026년 기준 대규모 RCT 근거는 부족)
+  * 국내 허가 대상은 성인으로, 해외 연령 확대를 국내에 그대로 적용하지 않음. 2026년 9월 약제급여평가위원회의 급여 적정성 인정은 **최종 급여 등재·시행과 구분**함. <mark style="color:$info;">[HIRA 2026년 제9차 심의결과; 습진 챕터 참조]</mark>
+* dupilumab 등 생물학적제제는 **일반 ACD/ICD의 표준 치료가 아님**. 아토피피부염 적응증에 해당하는 손 병변과 비아토피성 ACD를 구분하며, 후자의 사용은 전문의가 제한된 근거를 검토하여 판단하는 허가 외 사용임. 만성 손습진 연구 결과를 모든 접촉피부염으로 일반화하지 않음
 * 중증 만성 손습진에서 강력한 국소 steroid에 반응하지 않으면 **alitretinoin** <mark style="color:blue;">\[알리톡연질캡슐]</mark> 등 전문 치료를 고려할 수 있음. 임신·수유 금기와 임신예방프로그램, 지질·간기능 등 감시가 필요하며 일반 급성 접촉피부염에 사용하지 않음
 * phototherapy 또는 systemic therapy가 필요한 경우에는 원인·표현형·동반 아토피피부염 여부에 따라 전문적으로 선택
 * cyclosporine·methotrexate 등은 단순 ACD/ICD에 관행적으로 사용하지 않으나, 난치성 중증 만성 손습진에서는 피부과에서 선택적으로 고려(허가 외 사용 및 감시 필요)
@@ -365,14 +371,14 @@ L25　상세불명의 접촉피부염　Unspecified contact dermatitis
 > **처방례 5. 중증 광범위 ACD/옻 피부염**
 >
 > ```
-> Prednisolone 0.5~1 ㎎/㎏/d (통상 40~60 ㎎/d 범위)로 시작
+> Prednisolone 0.5~1 ㎎/㎏/d로 시작 (통상 최대 40~60 ㎎/d 범위)
 > 중증 옻 피부염은 임상 반응에 따라 총 14~21일에 걸쳐 치료·감량
 > 다른 중증 ACD는 반응과 노출 제거 여부에 따라 기간을 개별화
 > 병변 부위에 맞는 국소 corticosteroid 병용
 > 야간 소양증 심하면 Hydroxyzine 10 ㎎/T　[아디팜]　1~2T  hs  prn  단기간 고려
 > ```
 >
-> _✽너무 짧은(5~7일) 투여는 특히 중증 Toxicodendron 피부염에서 rebound dermatitis를 유발할 수 있음_
+> _✽너무 짧은(5\~7일) 투여는 특히 중증 Toxicodendron 피부염에서 rebound dermatitis를 유발할 수 있음_
 
 ***
 
@@ -406,7 +412,7 @@ L25　상세불명의 접촉피부염　Unspecified contact dermatitis
 >
 > * 적절한 회피·치료에도 증상이 지속·재발하거나, 초기부터 알레르기성·직업성 접촉피부염이 강하게 의심되는 경우
 > * 화농, 발열, 빠르게 번지는 홍반 등 이차 감염이 의심되는 경우 - 당일 평가
-> * 호흡곤란, 전신 두드러기 등 즉시형 알레르기 증상이 나타나는 경우 - 즉시 응급 평가
+> * 노출 직후 호흡곤란·목 부종·실신 등 전신 알레르기 반응이 의심되는 경우 - 두드러기가 없어도 즉시 응급 평가
 > * 원인이 불분명한 채로 반복·재발하는 경우 - patch test를 위한 피부과 의뢰 논의
 
 ***
@@ -426,7 +432,7 @@ L25　상세불명의 접촉피부염　Unspecified contact dermatitis
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
-* **원인이 되는 물질을 확인하고 피하십시오.** 최근 새로 사용한 화장품, 세제, 금속 액세서리, 식물 접촉 등을 돌이켜보고 의료진에게 알려주십시오.
+* **원인이 되는 물질을 확인하고 피하십시오.** 화장품, 세제, 금속 액세서리, 식물 접촉 등을 돌이켜보고 의료진에게 알려주십시오. 오랫동안 써 온 제품도 나중에 알레르기를 일으킬 수 있습니다.
 * **옻 등 식물 수지가 닿았다면 가능한 한 빨리 비누와 물로 씻어내십시오.** 옷과 도구에 남은 수지도 제거하십시오.
 * **강산·강알칼리 등으로 화학 화상이 의심되면 즉시 응급 평가가 필요합니다.** 마른 분말은 먼저 조심스럽게 털어내고 다량의 흐르는 물로 충분히 씻으면서 도움을 요청하십시오. 다른 약품으로 중화하거나 연고를 바르지 마십시오.
 * **손을 씻은 뒤에는 바로 보습제를 바르십시오.** 무향·저자극 제품을 권장합니다.
@@ -449,18 +455,21 @@ L25　상세불명의 접촉피부염　Unspecified contact dermatitis
 
 ***
 
-Ref. Uter W, et al. [European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing—Recommendations on Best Practice (Update 2026)](https://doi.org/10.1111/cod.70195). Contact Dermatitis. 2026;95:237–275.
+## <mark style="color:blue;">주요 참고문헌 및 확인 자료</mark>
 
-Ref. Thyssen JP, et al. [Guidelines for diagnosis, prevention, and treatment of hand eczema](https://doi.org/10.1111/cod.14035). Contact Dermatitis. 2022;86:357–378.
+### <mark style="color:orange;">임상 근거</mark>
 
-Ref. Kim HJ, et al. [2020 Korean Consensus Guidelines for Diagnosis and Treatment of Chronic Hand Eczema](https://doi.org/10.5021/ad.2021.33.4.351). Ann Dermatol. 2021;33:351–360.
+* Uter W, et al. [European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing—Recommendations on Best Practice (Update 2026)](https://doi.org/10.1111/cod.70195). Contact Dermatitis. 2026;95(3):237–275.
+* Thyssen JP, et al. [Guidelines for diagnosis, prevention, and treatment of hand eczema](https://doi.org/10.1111/cod.14035). Contact Dermatitis. 2022;86:357–378.
+* Kim HJ, et al. [2020 Korean Consensus Guidelines for Diagnosis and Treatment of Chronic Hand Eczema](https://doi.org/10.5021/ad.2021.33.4.351). Ann Dermatol. 2021;33:351–360.
+* Usatine RP, Riojas M. [Diagnosis and Management of Contact Dermatitis](https://www.aafp.org/afp/2010/0801/p249). Am Fam Physician. 2010;82(3):249–255.
+* Scheinman PL, et al. [Contact dermatitis](https://doi.org/10.1038/s41572-021-00271-4). Nat Rev Dis Primers. 2021;7:38.
+* [NICE NG190. Secondary bacterial infection of eczema: antimicrobial prescribing](https://www.nice.org.uk/guidance/ng190/chapter/Recommendations). 2021.
 
-Ref. Usatine RP, Riojas M. [Diagnosis and Management of Contact Dermatitis](https://www.aafp.org/afp/2010/0801/p249). Am Fam Physician. 2010;82:249–255.
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-Ref. Scheinman PL, et al. [Contact dermatitis](https://doi.org/10.1038/s41572-021-00271-4). Nat Rev Dis Primers. 2021;7:38.
-
-Ref. 식품의약품안전처. 앤줍고크림(델고시티닙) 의약품 품목허가 보고서 및 국내 허가사항(허가일 2025-09-08).
-
-Ref. 건강보험심사평가원. [2026년 제9차 약제급여평가위원회 심의결과](https://www.hira.or.kr/bbsDummy.do?brdBltNo=11898&brdScnBltNo=4&pgmid=HI-RAA020041000100). 2026-09-03.
-
-Ref. 국내 제품 허가 용법: [아디팜정(태극제약)](https://www.taiguk.co.kr/product/view.jsp?pid=AHG72486), [페니라민정(유한양행)](https://www.yuhan.co.kr/Products/List/?YPRD_IDX=1865&cid=176&mode=view), 트리코트크림(동광제약 제품설명서). 검토 기준일 2026-10-04.
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/). 국소 steroid·항히스타민제·앤줍고 등의 국내 적응증·용법·주의사항 확인 자료.
+* [태극제약 제품정보](https://www.taiguk.co.kr/). 아디팜정의 성인 피부과 용법·고령자 제한 확인 자료.
+* 국내 제품 설명서: 페니라민정(유한양행), 트리코트크림·모리코트크림/연고(동광제약), 하티손로션(한미약품). 성분명뿐 아니라 제품·농도·제형을 구분함.
+* [HIRA. 2026년 제9차 약제급여평가위원회 심의결과](https://www.hira.or.kr/bbsDummy.do?brdBltNo=11898&brdScnBltNo=4&pgmid=HIRAA020041000100). 앤줍고의 급여 적정성 인정 자료; 최종 등재·시행과 구분함.
+* [EMA. Ketoprofen topical — referral](https://www.ema.europa.eu/fr/medicines/human/referrals/ketoprofen-topical). 사용 중·중단 후 2주 광보호 등 국외 안전성 자료.

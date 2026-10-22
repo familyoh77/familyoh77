@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">피부 병변의 기술</mark>
 
-일차 병변은 질환에서 직접 나타나는 기본 형태를, 이차 병변은 경과·손상·긁기·치유 등으로 생긴 변화를 기술하는 용어임. 실제 병변에서는 두 형태가 함께 관찰될 수 있으며, 이 구분이 반드시 시간 순서를 뜻하지는 않음.
+일차 병변은 질환에서 직접 나타나는 기본 형태를, 이차 병변은 경과·손상·긁기·치유 등으로 생긴 변화를 기술하는 용어임. 실제 병변에서는 두 형태가 함께 관찰될 수 있으며, 이 구분이 반드시 시간 순서를 뜻하지는 않음. 형태학적 용어는 진찰 소견을 기술하는 도구이며, 병명이나 원인을 확정하는 기준은 아님.
 
 ### <mark style="color:orange;">일차 병변 (Primary lesions)</mark>
 
@@ -40,7 +40,7 @@
 </tbody>
 </table>
 
-_✽크기 경계는 출처에 따라 5 ㎜ 또는 1 ㎝ 등으로 다르게 제시됨. 이 챕터에서는 ILDS 2016 용어집과 일치하도록 macule/papule/vesicle은 ≤1 ㎝, patch/plaque/bulla는 ＞1 ㎝로 통일함. 결절은 크기와 함께 깊이·촉진 소견을 평가해야 함._\
+_✽크기 경계는 출처에 따라 5 ㎜ 또는 1 ㎝ 등으로 다르게 제시됨. 이 챕터에서는 macule/papule/vesicle은 ≤1 ㎝, patch/plaque/bulla는 ＞1 ㎝로 통일함. ILDS 2016은 papule/vesicle과 plaque/bulla에 이 경계를 제시하며, macule은 본래 크기 제한 없이 정의하되 북미에서 사용하는 macule(≤1 ㎝)/patch(＞1 ㎝) 구분을 함께 소개함. 결절은 크기와 함께 깊이·촉진 소견을 평가해야 함._\
 _✽'반(patch)'은 일부 국내 문헌에서 '반점'과 혼용되기도 하나, 본문에서는 macule(반점)과 구분되는 1 ㎝ 초과의 평평한 색조 변화 병변을 지칭함._
 
 ### <mark style="color:orange;">혈관·출혈성 병변 및 기타 용어</mark>
@@ -60,8 +60,8 @@ _✽Petechiae/purpura/ecchymosis의 크기 경계는 문헌에 따라 다르므�
 피부 병변은 다음 항목을 일정한 순서로 기록하면 진찰 소견을 일관되게 전달하는 데 도움이 됨.
 
 1. **일차 병변 (Primary lesion)** : macule, papule, plaque, nodule, wheal, vesicle, bulla, pustule 등
-2. **색(Color)** : erythematous, violaceous, hyperpigmented, hypopigmented 등
-3. **크기(Size)** : ㎜ 또는 ㎝ 단위로 실측; 필요하면 장경 × 단경을 함께 기록
+2. **색(Color)** : erythematous, violaceous, hyperpigmented, hypopigmented(저색소성), depigmented(탈색소성) 등
+3. **크기(Size)** : ㎜ 또는 ㎝ 단위로 최대 직경을 실측; 필요하면 장경 × 단경을 함께 기록
 4. **모양(Shape)** : round, oval, annular, targetoid 등
 5. **경계(Border)** : well-defined / ill-defined
 6. **배열(Configuration)** : discrete, confluent, grouped, linear, annular, reticular, serpiginous 등
@@ -80,7 +80,7 @@ _✽Petechiae/purpura/ecchymosis의 크기 경계는 문헌에 따라 다르므�
 * **압박 시 색 변화** : 홍반·표재성 혈관확장은 대개 압박 시 옅어지지만, 자반은 색이 사라지지 않음. 필요하면 투명한 판으로 눌러 확인하는 유리압박검사(압시법, diascopy)를 활용함
 * **표면·형태** : 수포는 긴장성/이완성, 비늘은 색·두께·부착 정도·위치, 궤양은 깊이·바닥·변연·주변 피부 상태를 추가 기록함
 * **시간 경과·증상** : 시작 시점, 개별 병변의 지속시간, 새 병변 발생·확산·재발, 가려움·통증·출혈을 기록함. 필요하면 최근 약물·접촉물질·감염·외상·일광 노출을 함께 확인함
-* **개별 병변과 전체 발진의 기간 구분** : 두드러기는 발진 전체가 수일 이상 지속되어도 개별 팽진은 대개 24시간 이내 소실함. 같은 자리의 병변이 24시간 넘게 지속되거나 통증·자반·잔여 색소침착을 보이면 두드러기혈관염 등 다른 원인을 감별함
+* **개별 병변과 전체 발진의 기간 구분** : 두드러기는 발진 전체가 수일 이상 지속되어도 개별 팽진은 대개 24시간 이내 소실함. 같은 자리의 병변이 24시간을 초과하여 지속되거나 통증·자반·잔여 색소침착을 보이면 두드러기혈관염 등 다른 원인을 감별함
 * **피부색 고려** : 피부색이 짙으면 홍반이 선명한 붉은색보다 자색·갈색으로 보이거나 덜 뚜렷할 수 있어 촉진 소견과 주변 정상 피부를 함께 비교함
 * **경과 사진** : 환자 동의를 얻고 크기 비교용 자를 함께 두어 같은 부위·조명·거리에서 기록하면 경과 비교에 도움이 됨
 
@@ -98,13 +98,15 @@ _✽Petechiae/purpura/ecchymosis의 크기 경계는 문헌에 따라 다르므�
 
 * ABCDE는 흑색종을 의심하는 단서이며, 모든 항목을 충족해야 의심하는 것은 아님. 양성 병변도 일부 소견을 보일 수 있어 진찰·피부경검사(dermoscopy)·필요 시 조직검사로 평가함
 * 결절성·무색소성 흑색종은 대칭적이거나 단색일 수 있으며, 피부색·분홍색·붉은색 병변으로도 나타날 수 있음. 빠르게 커지는 단단한 융기 병변이나 원인 불명의 지속적인 궤양·출혈을 주의함
-* 손바닥·발바닥 및 손발톱도 확인함. 특히 성인에서 한 손발톱에 새로 생기거나 넓어지는 세로 색소띠, 불규칙한 색조·경계, 손발톱 주위 피부로 이어지는 색소침착(Hutchinson sign), 손발톱 변형·출혈은 전문 평가가 필요한 소견임. Hutchinson sign 자체가 흑색종의 확진 소견은 아님
+* 손바닥·발바닥 및 손발톱도 확인함. 특히 성인에서 한 손발톱에 새로 생기거나 넓어지는 세로 색소띠, 불규칙한 색조·경계, 손발톱 주위 피부로 이어지는 색소침착(Hutchinson sign), 손발톱 변형·출혈은 전문 평가가 필요한 소견임. Hutchinson sign 자체가 흑색종의 확진 소견은 아니며, 이 소견이 없다고 손발톱 흑색종을 배제할 수 없음
 * 의심 병변은 장기적인 단순 관찰로 평가를 미루지 않고 신속히 피부과에 의뢰하여 피부경검사와 적절한 조직검사 여부를 결정함
 {% endhint %}
 
-## 참고문헌
+## 주요 참고문헌 및 확인 자료
 
-1. Nast A, Griffiths CE, Hay R, Sterry W, Bolognia JL. The 2016 International League of Dermatological Societies' revised glossary for the description of cutaneous lesions. *Br J Dermatol.* 2016;174(6):1351–1358. [doi:10.1111/bjd.14419](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.14419).
+### <mark style="color:orange;">임상 근거</mark>
+
+1. Nast A, Griffiths CE, Hay R, Sterry W, Bolognia JL. The 2016 International League of Dermatological Societies' revised glossary for the description of cutaneous lesions. *Br J Dermatol.* 2016;174(6):1351–1358. [doi:10.1111/bjd.14419](https://doi.org/10.1111/bjd.14419); [ILDS 공개 원문](https://ilds.contentfiles.net/media/documents/ILDS-Glossary-Cutaneous-Lesions.pdf).
 2. [DermNet. Terminology in dermatology](https://dermnetnz.org/topics/terminology).
 3. [MSD Manual Professional Edition. Description of Skin Lesions](https://www.msdmanuals.com/professional/dermatologic-disorders/approach-to-the-dermatologic-patient/description-of-skin-lesions).
 4. [American Academy of Dermatology. What to look for: ABCDEs of melanoma](https://www.aad.org/public/diseases/skin-cancer/abcdes-melanoma).

@@ -8,7 +8,7 @@
 * 종기(furuncle): 모낭 감염이 진피와 피하조직까지 깊어져 통증성 염증성 결절과 농포를 형성한 상태
 * 큰종기(carbuncle): 인접한 여러 모낭의 종기가 융합되어 여러 배농구와 격벽을 형성한 깊은 감염
 * 호발 부위 : 마찰·압력·습기에 노출되는 털이 많은 부위(목, 겨드랑이, 엉덩이, 사타구니, 허벅지 등)
-* 작은 종기(furuncle)는 온습포 후 자연 배농되기도 하지만, 피부농양, 크기가 큰 종기(large furuncle) 및 모든 큰종기(carbuncle)는 충분한 절개 및 배농이 치료의 핵심임 [IDSA SSTI Guideline, 2014].
+* 작은 종기(furuncle)는 온습포 후 자연 배농되기도 하지만, 피부농양, 크기가 큰 종기(large furuncle) 및 모든 큰종기(carbuncle)는 충분한 절개 및 배농이 치료의 핵심임 <mark style="color:$info;">Ref. IDSA SSTI Guideline, 2014</mark>.
 * 흉터를 남기거나 재발할 수 있음. 재발성 종기증은 흔히 12개월에 3회 이상 발생하는 경우를 말함. 재발은 드물지 않으며 보고율은 대상 집단, 원인균 및 추적기간에 따라 크게 다름.
 
 ## <mark style="color:green;">원인</mark>
@@ -45,32 +45,41 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
-
-* 저혈압, 의식 변화, 빈호흡 등 패혈증 또는 혈역학적 불안정
-* 외견에 비해 심한 통증, 빠른 진행, 긴장성 부종, 수포·자반·괴사, 염발음 또는 감각저하 등 괴사성 연조직 감염 의심
-* 회음부 병변에서 심한 통증·빠른 진행·괴사 또는 전신독성 등 Fournier gangrene 의심
-* 눈 주위 병변과 시력저하, 복시, 안구돌출 또는 안구운동통
-* 심부 손 감염, 건초·관절·근육 침범 의심
-
-<mark style="color:$warning;">**당일 평가**</mark>
-
-* 얼굴 중앙부(danger triangle: 드물지만 해면정맥동 혈전증 등 심부 합병증 위험), 손, 유방 등 해부학적 고위험 부위
-* 크거나 깊은 병변, 신경·혈관에 인접한 병변 또는 진료실에서 안전하고 충분한 배농이 어려운 경우
-* 면역저하 또는 조절되지 않는 당뇨 환자에서 발생한 급성 농양, 다발성 병변
-* 광범위하거나 빠르게 확대되는 주변 연조직염
-* 배농 후 병변 확대 또는 새로운 발열·오한 등 전신 증상 : 당일 재평가하며, 혈역학적 불안정·괴사성 감염 소견이 있으면 즉각 조치
-* 항문주위·회음부 농양 - 적절한 외과적 배농이 필요하며, 항문누공의 동반 또는 추후 형성 가능성을 고려하여 외과 평가
-
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
-
-* 배농 후 24\~48시간 내 호전 여부를 재평가함. 단순한 홍반·경결 또는 소량 배액의 잔존만으로 치료 실패를 판단하지 않음
-* 통증·종창이 지속되거나 배액이 줄지 않으면 잔여 농양·격벽·배액구 폐쇄 여부를 확인하고 재배농 또는 의뢰를 고려함
-* 같은 부위에 반복되는 농양 - 화농성 한선염·모소낭·표피낭종 감별 필요
-
 {% hint style="danger" %}
-**⚠️ 괴사성 연조직 감염 및 Fournier gangrene 의심 시**\
-피부 소견에 비해 통증이 현저히 심하거나 짧은 시간 내 급속히 진행하면 즉시 외과·응급 평가를 의뢰함. 진단을 확인하기 위해 영상검사(CT/MRI)를 기다리며 수술적 평가를 지연하지 않음.
+**Tier 1 - 즉각 조치**
+
+응급실·외과 평가를 즉시 시행함. 괴사성 감염·Fournier gangrene은 영상검사 때문에 외과 평가와 수술을 지연하지 않음
+
+* 저혈압, 의식 변화, 빈호흡 등 전신독성 또는 혈역학적 불안정  `패혈증`
+* 외견에 비해 심한 통증, 빠른 진행, 긴장성 부종, 수포·자반·괴사, 염발음 또는 감각저하  `괴사성 감염`
+* 회음부 병변에서 심한 통증·빠른 진행·괴사 또는 전신독성  `Fournier 괴저`
+* 눈 주위 병변과 시력저하, 복시, 안구돌출 또는 안구운동통  `안와 감염`
+* 심부 손 감염, 급성 감염성 건초염·화농성 관절염 또는 구획증후군 의심  `심부 응급질환`
+* 호중구감소증에서 발열 동반  `호중구감소성 발열`
+{% endhint %}
+
+{% hint style="warning" %}
+**Tier 2 - 당일 평가**
+
+당일 전문과 평가 후 안전한 배농 방법과 입원·정주 치료 필요성을 결정함. 혈역학적 불안정·괴사성 감염 소견이 있으면 Tier 1을 적용함
+
+* 얼굴 중앙부, 손, 유방 등 해부학적 고위험 부위  `주요 부위 농양`
+* 크거나 깊은 병변, 신경·혈관 인접 병변 또는 진료실 배농이 어려운 병변  `배농 곤란`
+* 면역저하·조절되지 않는 당뇨 환자의 급성 농양, 다발성 병변  `고위험 숙주`
+* 광범위하거나 확대되는 주변 연조직염  `확산성 감염`
+* 배농 후 병변 확대 또는 새로운 발열·오한  `치료 중 악화`
+* 항문주위·회음부 농양  `특수 부위 농양`
+* 전신상태가 안정적이나 화농성 근육염 등 심부 감염 의심  `심부 감염`
+{% endhint %}
+
+{% hint style="info" %}
+**Tier 3 - 조기 평가 및 추적**
+
+배농 후 24–48시간 내 상처·배농·통증·종창을 확인함. 잔여 농양·격벽·배액구 폐쇄를 평가하고 필요 시 재배농·의뢰함; 악화·새 전신 증상은 당일 재평가함
+
+* 통증·종창이 호전되지 않거나 배액이 줄지 않는 안정적 경과  `반응 지연`
+* 단순 홍반·경결 또는 소량 배액의 잔존  `치유 경과 평가`
+* 같은 부위의 반복 농양  `국소 원인 평가`
 {% endhint %}
 
 ## <mark style="color:green;">진단</mark>
@@ -81,11 +90,11 @@
 
 #### <mark style="color:$primary;">미생물 검사</mark>
 
-* 농양과 큰종기의 농 검체로 그람염색 및 배양 검사를 권고함. 다만 전형적인 단순 병변은 배양 없이 치료할 수 있음 [IDSA SSTI Guideline, 2014; 질병관리청 피부·연조직 감염 지침, 2026년 4월 발행].
+* 농양과 큰종기의 농 검체로 그람염색 및 배양 검사를 권고함. 다만 전형적인 단순 병변은 배양 없이 치료할 수 있음 <mark style="color:$info;">Ref. IDSA SSTI Guideline, 2014; 질병관리청 2026 피부·연조직 감염 항생제 적정사용 실무지침</mark>.
 * 재발, 중증, 면역저하, 치료 실패, 집단발생 또는 비전형적 노출에서는 배농 시 배양 검사를 적극 시행함.
 * 염증성 표피낭종은 낭 내용물 유출에 따른 무균성 염증인 경우가 많으므로 routine culture를 시행하지 않음.
 * 패혈증, 중증 면역저하 또는 균혈증이 의심되는 경우 혈액배양, CBC, CRP, lactate, 신·간기능 등을 평가함.
-* 근육 침범이 의심되면 MRI(불가능하면 CT 등), 혈액배양 및 농 배양으로 화농성 근육염(pyomyositis)을 평가함. CK는 정상인 경우가 흔하므로 정상 CK로 배제하지 않음 [IDSA SSTI Guideline, 2014].
+* 근육 침범이 의심되면 MRI(불가능하면 CT 등), 혈액배양 및 농 배양으로 화농성 근육염(pyomyositis)을 평가함. CK는 정상인 경우가 흔하므로 정상 CK로 배제하지 않음 <mark style="color:$info;">Ref. IDSA SSTI Guideline, 2014</mark>.
 
 #### <mark style="color:$primary;">영상 검사</mark>
 
@@ -102,34 +111,34 @@
 
 ```mermaid
 graph TD
-    Start([피부 화농성 병변 의심]) ---> RF{Tier 1: 즉각 조치 대상?}
-    RF -- Yes ---> ER[응급실·외과 즉시 의뢰]
-    RF -- No ---> Risk{Tier 2: 당일 평가 대상?}
-    Risk -- Yes ---> SameDay[당일 시술·전문과 평가]
-    Risk -- No ---> Small{작은 종기이며 심부 농양 소견 없음?}
-    Small -- Yes ---> Warm[온습포, 자연 배농 관찰]
-    Small -- No ---> Fluct{농양이 명확한가?}
-    Fluct -- 불명확 ---> US[가능한 환경에서 POCUS]
-    US ---> Fluid{액체저류 확인?}
-    Fluid -- No ---> Other[연조직염·낭종 등 다른 진단 평가]
-    Fluid -- Yes ---> ID[절개 및 배농 I&D]
+    Start(["피부 화농성 병변 의심"]) ---> RF{"Tier 1: 즉각 조치 대상?"}
+    RF -- Yes ---> ER["응급실·외과 즉시 의뢰"]
+    RF -- No ---> Risk{"Tier 2: 당일 평가 대상?"}
+    Risk -- Yes ---> SameDay["당일 시술·전문과 평가"]
+    Risk -- No ---> Small{"작은 종기이며 심부 농양 소견 없음?"}
+    Small -- Yes ---> Warm["온습포, 자연 배농 관찰"]
+    Small -- No ---> Fluct{"농양이 명확한가?"}
+    Fluct -- 불명확 ---> US["가능한 환경에서 POCUS"]
+    US ---> Fluid{"액체저류 확인?"}
+    Fluid -- No ---> Other["연조직염·낭종 등 다른 진단 평가"]
+    Fluid -- Yes ---> ID["절개 및 배농 I&D"]
     Fluct -- 명확 ---> ID
-    ID ---> CultureQ{재발·중증·면역저하 또는 치료 실패?}
-    CultureQ -- Yes ---> Culture[농 배양 및 감수성검사]
-    CultureQ -- No ---> OptionalCulture[농 배양 권고; 전형적 단순 병변은 생략 가능]
-    OptionalCulture ---> Abx{항생제 병용 필요 또는 선택?}
+    ID ---> CultureQ{"재발·중증·면역저하 또는 치료 실패?"}
+    CultureQ -- Yes ---> Culture["농 배양 및 감수성검사"]
+    CultureQ -- No ---> OptionalCulture["농 배양 권고; 전형적 단순 병변은 생략 가능"]
+    OptionalCulture ---> Abx{"항생제 병용 필요 또는 선택?"}
     Culture ---> Abx
-    Abx -- Yes ---> Sys[전신 항생제 병용]
-    Abx -- No ---> Wound[상처 관리]
+    Abx -- Yes ---> Sys["전신 항생제 병용"]
+    Abx -- No ---> Wound["상처 관리"]
     Sys ---> Recheck
-    Wound ---> Recheck[24~48시간 재평가]
+    Wound ---> Recheck["24~48시간 재평가"]
     Warm ---> Recheck
     Other ---> Recheck
-    Recheck ---> Better{호전됨?}
-    Better -- No/악화 ---> Triage{Tier 1 소견 새로 발생?}
+    Recheck ---> Better{"호전됨?"}
+    Better -- No/악화 ---> Triage{"Tier 1 소견 새로 발생?"}
     Triage -- Yes ---> ER
-    Triage -- No ---> Refer[잔여 농양·배양 평가; 재배농·전문과 의뢰]
-    Better -- Yes ---> Done[예정된 치료·상처 추적; 재발 시 국소 원인 평가]
+    Triage -- No ---> Refer["잔여 농양·배양 평가; 재배농·전문과 의뢰"]
+    Better -- Yes ---> Done["예정된 치료·상처 추적; 재발 시 국소 원인 평가"]
 
     style ER fill:#f96,stroke:#e65100,stroke-width:2px
     style SameDay fill:#fff3e0,stroke:#e65100,stroke-width:2px
@@ -140,7 +149,7 @@ graph TD
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 질병관리청 피부·연조직 감염 지침 (2026년 4월 발행); IDSA SSTI Guideline (2014 update); BMJ Rapid Recommendation, Antibiotics after I&D for uncomplicated skin abscesses (2018)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. 질병관리청 2026 피부·연조직 감염 항생제 적정사용 실무지침; IDSA SSTI Guideline (2014 update); BMJ Rapid Recommendation, Antibiotics after I&D for uncomplicated skin abscesses (2018)</mark></em></p>
 
 ***
 
@@ -202,7 +211,7 @@ graph TD
 * 과거 MRSA 감염·보균, 밀접 접촉 집단 내 MRSA 발생 또는 초기 치료 실패 : 항생제를 사용할 경우 MRSA 활성 약제 선택을 고려함
 * 해부학적 고위험 부위 또는 심부 감염 : 당일 전문과 평가하며, 심부 손 감염·괴사성 감염 등은 즉각 조치
 
-충분히 배농된 단순 농양에서도 항생제를 병용하면 치료 성공률과 새로운 병변 발생을 소폭 개선할 수 있음 [Talan et al., NEJM 2016; Daum et al., NEJM 2017]. 다만 대부분은 I&D만으로 호전됨. 질병관리청 지침은 충분히 배농된 단순 병변에서 항생제의 일률적 병용을 권고하지 않음. BMJ 2018은 TMP/SMX 또는 clindamycin 병용을 약하게 권고하므로, 이득·설사 등 부작용·국내 감수성 및 환자 선호를 설명하고 결정함. 이 근거는 MRSA가 흔한 국외 연구에서 도출되었으며 β-lactam 병용으로 같은 이득을 기대할 수는 없음. Doxycycline은 MRSA 활성 대안이나 위 두 RCT의 직접 시험 약제가 아님.
+충분히 배농된 단순 농양에서도 항생제를 병용하면 치료 성공률과 새로운 병변 발생을 소폭 개선할 수 있음 <mark style="color:$info;">Ref. Talan et al., NEJM 2016; Daum et al., NEJM 2017</mark>. 다만 대부분은 I&D만으로 호전됨. 질병관리청 지침은 충분히 배농된 단순 병변에서 항생제의 일률적 병용을 권고하지 않음. BMJ 2018은 TMP/SMX 또는 clindamycin 병용을 약하게 권고하므로, 이득·설사 등 부작용·국내 감수성 및 환자 선호를 설명하고 결정함. 이 근거는 MRSA가 흔한 국외 연구에서 도출되었으며 β-lactam 병용으로 같은 이득을 기대할 수는 없음. Doxycycline은 MRSA 활성 대안이나 위 두 RCT의 직접 시험 약제가 아님.
 
 ### <mark style="color:orange;">경구 항생제</mark>
 
@@ -211,22 +220,22 @@ graph TD
 #### <mark style="color:$primary;">MSSA 및 연쇄구균 치료가 필요한 경우</mark>
 
 * amoxicillin/clavulanate 500/125 ㎎ tid 또는 875/125 ㎎ bid <mark style="color:blue;">\[오구멘틴 등]</mark>
-* cephalexin 500 ㎎ qid <mark style="color:blue;">\[팔렉신 등]</mark> : 신기능에 따라 감량함. 단순 MSSA·연쇄구균 감염에서는 1세대 cephalosporin을 우선 고려하고, amoxicillin/clavulanate는 복합감염 가능성 등을 함께 판단하여 선택함.
+* cephalexin 500 ㎎ qid <mark style="color:blue;">\[팔렉신 등]</mark> : 지침 용법이며, 국내 허가 기본 용법은 500 ㎎ bid–tid(성인 1일 1–4 g 범위)임. 신기능에 따라 감량함. 단순 MSSA·연쇄구균 감염에서는 1세대 cephalosporin을 우선 고려하고, amoxicillin/clavulanate는 복합감염 가능성 등을 함께 판단하여 선택함.
 * clindamycin 300\~450 ㎎ qid(6시간마다) <mark style="color:blue;">\[훌그램 등]</mark>
   * β-lactam 사용이 어렵거나 배양·감수성에 따라 선택함. Erythromycin 내성·clindamycin 감수성 균주에서는 유도성 내성(D-test)을 확인하며, D-test 양성이면 사용하지 않음. 중증 설사·혈변 및 C. difficile 감염 위험을 고려함.
 
 #### <mark style="color:$primary;">MRSA가 의심되거나 확인된 경우</mark>
 
 * doxycycline 100 ㎎ bid <mark style="color:blue;">\[영풍독시사이클린정100㎎ 등]</mark>
-  * MRSA 피부농양 치료는 제품별 국내 허가 적응증을 확인함. 영풍독시사이클린정의 피부농양 치료는 허가 외 사용임.
+  * MRSA 피부농양 치료는 제품별 국내 허가 적응증을 확인함. 영풍독시사이클린정의 피부농양 치료는 허가 외 사용임. 국내 통상 유지량은 1일 100 ㎎이고 중증 감염에는 100 ㎎ q12h를 유지할 수 있으며, 본 장의 100 ㎎ bid는 SSTI 지침 용법임.
 * TMP/SMX 160/800\~320/1,600 ㎎ bid <mark style="color:blue;">\[셉트린정]</mark> : 국내 피부농양 치료는 허가 외 사용이며 급여 인정 여부는 별도 확인함.
   * **국내 셉트린정은 TMP/SMX 80/400 ㎎/정임. 1회 2\~4정 bid에 해당하며, 국외 DS 1\~2정 bid와 정수·함량을 혼동하지 않음.**
   * 국내 허가 상용량은 1회 2정 bid임. 질병관리청 지침의 MRSA 확정 치료 용량 및 Talan 연구 용량은 TMP/SMX 320/1,600 ㎎ bid, 즉 셉트린정 1회 4정 bid에 해당함. 이 고용량은 국내 허가사항의 심한 감염 시 1회 최대 3정 범위도 초과하므로 일률적으로 적용하지 않음.
-  * 신기능에 따라 감량함. 국내 허가 용량 기준 CrCl 15\~30 mL/min은 상용량의 1/2, <15 mL/min은 투여 금기임. 국외 고용량을 선택할 때는 적용 용량 기준을 명확히 하고 신기능·K를 확인함.
-  * ACEi/ARB·spironolactone 병용에 따른 고칼륨혈증, warfarin 병용에 따른 INR 상승, methotrexate 병용에 따른 골수억제 위험을 확인함. 중증 발진·점막 병변이 발생하면 즉시 중단·평가함.
+  * 신기능에 따라 감량함. 국내 허가 용량 기준 **CrCl 15–30 ㎖/min은 통상 용량의 1/2, 15 ㎖/min 이하는 투여가 권장되지 않음**. 혈중 농도를 모니터할 수 없는 중증 신부전은 금기임. 허가 외 고용량을 선택할 때는 적용 용량 기준을 명확히 하고 신기능·K를 확인함.
+  * ACEi/ARB·spironolactone 병용에 따른 고칼륨혈증과 warfarin 병용에 따른 INR 상승에 주의함. **Methotrexate와는 국내 병용금기**임. 새 발진·점막 병변이 발생하면 즉시 중단·평가함.
 * clindamycin 300\~450 ㎎ qid(6시간마다) : 감수성이 확인되거나 지역 내 감수성이 충분한 경우
 
-Doxycycline과 TMP/SMX는 동반된 연쇄구균성 비화농성 연조직염에 대한 효과가 불확실할 수 있음. 광범위한 주변 연조직염이 있으면 amoxicillin/clavulanate 또는 cephalexin 병용을 고려하거나, 배양·감수성에 따라 단일 약제를 선택함. 국내 셉트린정은 임부·임신 가능성이 있는 여성·수유부 및 생후 2개월 미만 영아에서 금기임. G6PD 결핍도 금기임. 국내 doxycycline 제품(예: 영풍독시사이클린정)은 임부·수유부 및 12세 미만 소아에서 원칙적으로 금기이며, 중증·생명 위협 질환에서만 예외를 둠. 단기간 doxycycline의 치아 착색 위험에 관한 국외 근거를 일반 피부농양의 소아 처방 근거로 확대하지 않음.
+Doxycycline과 TMP/SMX는 동반된 연쇄구균성 비화농성 연조직염에 대한 효과가 불확실할 수 있음. 광범위한 주변 연조직염이 있으면 amoxicillin/clavulanate 또는 cephalexin 병용을 고려하거나, 배양·감수성에 따라 단일 약제를 선택함. 국내 셉트린정은 임부·임신하고 있을 가능성이 있는 여성·수유부 및 생후 2개월 미만 영아에서 금기임. G6PD 결핍도 금기임. 국내 doxycycline 제품(예: 영풍독시사이클린정)은 임부·수유부 및 12세 미만 소아에서 원칙적으로 금기이며, 중증·생명 위협 질환에서만 예외를 둠. 단기간 doxycycline의 치아 착색 위험에 관한 국외 근거를 일반 피부농양의 소아 처방 근거로 확대하지 않음. 국내 doxycycline 품목의 신부전·중증 간기능 이상·중증 근무력증 및 retinoid 병용금기를 함께 적용함.
 
 MRSA와 연쇄구균을 동시에 포괄해야 하면서 β-lactam 사용이 어려운 경우, 감수성이 확인되었거나 지역 내 감수성이 충분하다면 clindamycin 단독요법을 고려할 수 있음. 유도성 내성(D-test)과 *C. difficile* 감염 위험을 함께 고려함.
 
@@ -236,13 +245,14 @@ MRSA와 연쇄구균을 동시에 포괄해야 하면서 β-lactam 사용이 어
 * MRSA 활성 항생제 병용 근거의 주요 RCT는 7일(Talan 2016) 또는 10일(Daum 2017) 치료임. MRSA 농양을 일률적으로 5일에 종료하지 않으며, 약제·배양 결과·임상 반응에 따라 결정함.
 * 치료 반응이 느리거나 병변이 광범위한 경우, 면역저하 환자 : 임상 반응에 따라 7\~10일까지 연장
 * 재발성 농양 : 조기 배농·배양 후 확인된 원인균에 유효한 항생제를 5\~10일 투여
+* 지침의 단기 요법을 모든 품목의 허가 기간으로 설명하지 않음. 국내 훌그램의 β-용혈성 사슬알균 감염에는 최소 10일 투여가 바람직하다는 문구가 있어, 원인균과 허가사항을 함께 고려함
 * 균혈증·골관절 감염·화농성 근육염 등 심부 감염에는 위 기간을 적용하지 않으며, 감염 부위와 배양·배농 결과에 따라 별도로 결정함.
 
 ### <mark style="color:orange;">중증 감염</mark>
 
 * 패혈증, 빠른 진행, 심부 감염, 괴사성 감염 의심 또는 경구치료 불가능 시 입원 및 외과·감염내과 평가가 필요함.
 * 배양, 신기능 및 지역 감수성에 따라 vancomycin, linezolid 등 MRSA 활성 정주 항생제와 필요한 광범위 항생제를 선택함.
-* 중증 침습성 MRSA 감염에서 vancomycin은 고정 용량보다 신기능·체중을 반영하여 투여하고, 가능한 경우 AUC/MIC 400\~600을 목표로 모니터링함.
+* 중증 침습성 MRSA 감염에서 vancomycin은 고정 용량보다 신기능·실제 체중을 반영하여 투여하고, MIC 1 ㎎/L를 가정할 때 AUC24 400–600 ㎎·h/L(AUC/MIC 400–600)를 목표로 모니터링함; 단순 외래 농양에 이 목표를 일률적으로 적용하지 않음.
 
 ### <mark style="color:orange;">재발성 농양 및 집락제거</mark>
 
@@ -251,6 +261,7 @@ MRSA와 연쇄구균을 동시에 포괄해야 하면서 β-lactam 사용이 어
 * 재발 병변은 조기에 배농·배양하고 배양 결과에 따라 5\~10일간 치료함.
 * 반복되는 *S. aureus* 감염 또는 가족·밀접 접촉 집단 내 반복 전파에서는 활동성 감염을 치료한 뒤 다음 5일 집락제거 요법을 고려함(IDSA: 약한 권고, 낮은 근거수준). 첫 단순 농양에서 일률적으로 시행하지 않음.
   * 비강용 mupirocin 2% bid : 양쪽 전비공에 적용하는 요법. **비강용 제형의 사용 가능 여부를 먼저 확인함. 국내 피부용 mupirocin 연고(예: 에스로반)는 허가사항상 코 등 점막 표면에 사용하지 않도록 되어 있으므로 임의로 비강용 제형을 대체하지 않음.** 피부용 제형의 비강 집락제거는 허가 외 사용이므로 전문과·감염관리팀과 상의하여 적용 여부를 결정함.
+  * **국내 비강용 제형 예는 에스와이무피로신나잘연고임.** 허가 적응증은 특정 고위험군의 비강 MRSA 제균이고, 용법은 **1일 3회·필요한 최소 기간(약 3일)**임. 위 IDSA의 bid ×5일 및 일반 재발성 MSSA 탈집락은 국내 허가 범위와 구분되는 허가 외 사용이며, 비강 손상 부위에는 사용하지 않음
   * 매일 4% chlorhexidine 피부 세정 : 세정용 수성 제제를 사용하고 제품별 접촉 시간·헹굼 방법을 따름. 눈·귀·얼굴·점막·생식기 내부 및 열린 농양강에 닿지 않도록 함. 피부자극·과민반응을 확인하며 알코올 함유 수술용 소독액으로 대체하지 않음
   * 수건, 침구, 잠옷 및 의복을 매일 세탁하고 개인위생 물품을 공유하지 않음
 * 가족 내 반복 전파가 있으면 활동성 병변이 있는 동거인도 평가하고, 동시 집락제거의 대상·시기를 개별 결정함. 무증상 동거인 모두에게 자동으로 처방하지 않음.
@@ -260,9 +271,10 @@ MRSA와 연쇄구균을 동시에 포괄해야 하면서 β-lactam 사용이 어
 
 ### <mark style="color:orange;">진통제</mark>
 
+* acetaminophen을 우선 고려하고, NSAID는 위험요인을 평가하여 선택적으로 사용함
 * ibuprofen 200\~400 ㎎ tid\~qid 필요 시 <mark style="color:blue;">\[부루펜]</mark>
-  * 위장관 출혈, 신기능 저하, 심혈관질환 및 항응고제 사용 여부를 확인함.
-* NSAID 금기 시 acetaminophen을 사용함.
+  * 국내 허가상 **위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응, 중증 신·간·심장 기능장애 등은 금기**임. 임신 말기 3개월은 금기이며 임신 20주 이후에는 원칙적으로 피함
+  * 탈수·항응고제 병용 등 위험을 평가하고 다른 NSAID와 병용하지 않음. 단기간 최소 유효용량을 사용하며, 심한 통증·빠른 진행을 진통제로 가리지 않음
 
 ***
 
@@ -322,14 +334,14 @@ L02.9　상세불명 부위의 피부 고름집(농양), 종기 및 큰종기
 > 4% chlorhexidine 피부 세정　1일 1회 × 5일 (세정용 수성 제제)
 > ```
 >
-> _✽국내 피부용 mupirocin을 비강용으로 임의 대체하지 않음. 비강용 제형 확보가 어렵다면 전문과·감염관리팀과 대안을 상의함. Chlorhexidine은 열린 농양강에 사용하지 않으며 제품별 사용법을 따름. 수건·침구·잠옷을 매일 세탁하고 개인위생 물품 공유를 금지. 집락제거만으로 재발을 완전히 막지 못하므로 국소 원인(화농성 한선염, 모소낭, 이물질 등) 평가가 우선._
+> _✽위 bid ×5일은 국외 지침 요법임. 에스와이무피로신나잘연고의 국내 허가 용법은 tid·약 3일이며 적응증도 특정 고위험군의 비강 MRSA 제균이므로, 이 처방례는 허가 범위와 구분되는 허가 외 사용임. 국내 피부용 mupirocin을 비강용으로 임의 대체하지 않음. 비강용 제형 확보가 어렵다면 전문과·감염관리팀과 대안을 상의함. Chlorhexidine은 열린 농양강에 사용하지 않으며 제품별 사용법을 따름. 수건·침구·잠옷을 매일 세탁하고 개인위생 물품 공유를 금지. 집락제거만으로 재발을 완전히 막지 못하므로 국소 원인(화농성 한선염, 모소낭, 이물질 등) 평가가 우선._
 
 > **처방례 5. 중증·전신독성 또는 심부·고위험 부위 감염**
 >
 > ```
 > 외래 경구 처방 보류
-> 전신독성·혈역학적 불안정·괴사성 감염·심부 손 감염·건초/관절/근육 침범 의심 : 즉시 응급실·외과 평가
-> 안정적인 고위험 부위·크거나 깊은 피부농양 : 당일 전문과 평가, 입원 정주치료 여부 결정
+> 전신독성·혈역학적 불안정·괴사성 감염·심부 손 감염·급성 감염성 건초염/화농성 관절염 의심 : 즉시 응급실·외과 평가
+> 안정적인 고위험 부위·크거나 깊은 피부농양·화농성 근육염 의심 : 당일 전문과 평가, 입원 정주치료 여부 결정
 > ```
 >
 > _✽Fournier gangrene, 괴사성 근막염 등이 의심되면 영상검사로 수술 평가를 지연하지 않음._
@@ -348,7 +360,7 @@ L02.9　상세불명 부위의 피부 고름집(농양), 종기 및 큰종기
 >
 > * 항생제가 처방된 경우 증상이 빨리 좋아지더라도 임의로 중단하지 말고 처방된 기간을 완료하도록 안내합니다. 치료 기간은 배농 상태·약제·배양·임상 반응을 재평가하여 의사가 조정합니다. 단순한 잔여 홍반만으로 항생제를 연장하지 않으며, 악화하면 잔여 농양 여부를 확인합니다.
 > * TMP/SMX·doxycycline은 연쇄구균 연조직염 커버가 불완전할 수 있어, 주변 홍반이 넓어지면 재내원하도록 설명합니다.
-> * TMP/SMX 복용 중 ACEi/ARB, spironolactone 병용 시 고칼륨혈증 위험이 있어 필요 시 신기능·전해질 검사를 안내합니다. Warfarin·methotrexate 병용 여부도 확인합니다.
+> * TMP/SMX 복용 중 ACEi/ARB, spironolactone 병용 시 고칼륨혈증 위험이 있어 필요 시 신기능·전해질 검사를 안내합니다. Warfarin 병용 여부를 확인하고, methotrexate와는 함께 복용하지 않도록 설명합니다.
 > * Doxycycline은 충분한 물과 함께 복용하고 복용 후 바로 눕지 않도록 안내합니다. 철분·칼슘·마그네슘 함유 제제 및 제산제와 복용 간격을 두고 햇빛 노출을 줄이도록 설명합니다.
 > * 새 발진·수포·점막 병변·호흡곤란은 즉시 투약 중단·평가 대상입니다. 심하거나 지속적인 설사·혈변, 특히 clindamycin 복용 중 또는 종료 후 발생한 경우 C. difficile 감염을 평가합니다.
 
@@ -408,11 +420,16 @@ L02.9　상세불명 부위의 피부 고름집(농양), 종기 및 큰종기
 
 ***
 
-### <mark style="color:$info;">주요 참고 근거</mark>
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
-* [질병관리청, 피부·연조직 감염 항생제 지침(2026년 4월 발행)](https://www.kdca.go.kr/bbs/kdca/263/307011/download.do) : 화농성 감염 및 항생제 용량표.
+### <mark style="color:orange;">임상 근거</mark>
+
+* [질병관리청. 2026 피부·연조직 감염 항생제 적정사용을 위한 실무지침](https://www.kdca.go.kr/bbs/kdca/55/306857/download.do) — 공식 게시 제목은 2026 실무지침이며 PDF 표지에는 2025가 표기되어 있음
 * [IDSA, Skin and Soft Tissue Infections Guideline, 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/) : 배농, 배양, 재발성 농양, 집락제거 및 화농성 근육염.
 * [BMJ Rapid Recommendation, 2018;360:k243](https://www.bmj.com/content/360/bmj.k243) : 단순 농양 배농 후 항생제 병용의 선택.
 * [Talan et al., NEJM 2016;374:823–832](https://pubmed.ncbi.nlm.nih.gov/26962903/) 및 [Daum et al., NEJM 2017;376:2545–2555](https://pubmed.ncbi.nlm.nih.gov/28657870/) : TMP/SMX·clindamycin 병용 RCT.
-* 국내 제품 허가정보(식약처 자료의 약학정보원 제공본): [셉트린정](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A0500A0065), [훌그램캡슐](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A1270A0184), [영풍독시사이클린정100㎎](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11A2500A0389).
-* [에스로반연고 제품설명서](https://common.health.kr/shared/images/insert_pdf/IN_A11A2190A0223_00.pdf) : 피부용 mupirocin의 비강·점막 사용 제한.
+* [ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing. 2026](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/bacterial-skin-and-soft-tissue-infections----diagnosis-and-antibiotic-prescribing/)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 셉트린정·훌그램캡슐·영풍독시사이클린정·팔렉신캡슐·부루펜정·에스로반연고·에스와이무피로신나잘연고 등 국내 적응증·제형·용법·금기

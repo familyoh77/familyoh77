@@ -3,13 +3,13 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 정의 : 6주 이상 지속되거나 간헐적으로 반복되는 가려움증(피부 또는 인접 점막의 불쾌한 감각으로, 흔히 긁고 싶은 충동을 유발)
-* 수면·일상생활·정신건강에 큰 부담을 주며 삶의 질을 현저히 낮출 수 있음 \[European Guideline on Chronic Pruritus, 2025]
+* 수면·일상생활·정신건강에 큰 부담을 주며 삶의 질을 현저히 낮출 수 있음 <mark style="color:$info;">[European S2k Guideline on Chronic Pruritus, 2025]</mark>
 * 유병률 : 조사 대상·정의·기간에 따라 차이가 커 단일 수치로 일반화하기 어려움; 고령자는 피부건조증·동반질환·다약제 복용을 함께 평가
 * 관련 요인 : 피부건조증, 아토피성 질환, 간·콩팥 질환, 약물, 불안·우울 등; 연관성이 있다고 모두 독립적인 원인 또는 위험 인자는 아님
 * 원발 피부병변/소견 : 홍반, 구진, 수포, 팽진, 인설, 피부건조 등; 가려움 시작 전에 있었는지 확인
-* 긁음에 따른 이차 병변 : 긁힌 자국(excoriation), 가피, 태선화, 색소 변화, 양진성 구진·결절, 흉터 등
-* 피부위축은 약물·기저질환과도 관련될 수 있으며, 괴사·궤양은 단순 긁음으로 단정하지 않고 감염·혈관염 등 별도 원인을 평가
-* 만성 가려움-긁기 악순환(itch-scratch cycle)은 수면 장애, 불안·우울, 삶의 질 저하로 이어지므로 신체적 원인 감별과 함께 심리적 부담도 함께 평가
+* 긁음에 따른 이차 병변 : 긁힌 자국(excoriation), 딱지(crust), 태선화, 색소 변화, 양진성 구진·결절, 흉터 등
+* 피부위축은 약물·기저질환과도 관련될 수 있으며, 괴사성 가피(eschar)·궤양은 단순 긁음으로 단정하지 않고 감염·혈관염 등 별도 원인을 평가
+* 만성 가려움-긁기 악순환(itch-scratch cycle)은 수면 장애, 불안·우울, 삶의 질 저하로 이어지므로 신체적 원인 감별과 함께 심리적 부담도 평가
 
 ## <mark style="color:green;">원인 (원인에 따른 분류)</mark>
 
@@ -17,6 +17,7 @@
 
 * **피부 상태에 따른 임상 분류** : I군은 원발 피부질환/염증이 있는 피부, II군은 가려움 시작 당시 정상으로 보였던 피부, III군은 뚜렷한 만성 이차 긁음 병변이 있는 경우; 서로 겹칠 수 있으며 III군에서도 피부·전신·신경·약물 등 원인을 계속 찾음
 * 아래는 **원인 분류**이며 위 임상 분류와 구분
+* 만성 양진(chronic prurigo, CPG)은 만성 가려움과 반복적인 긁음으로 양진성 병변이 생긴 상태이며 결절성 양진(PN)은 그 주요 아형임. 긁음 병변이 뚜렷해도 기저 원인 평가를 계속함
 
 #### <mark style="color:$primary;">Dermatological</mark>
 
@@ -32,7 +33,7 @@
 
 #### <mark style="color:$primary;">Neurological</mark>
 
-* multiple sclerosis, neuromyelitis optica spectrum disorder, small-fiber neuropathy, 뇌·척수 병변, notalgia paresthetica, brachioradial pruritus, postherpetic neuralgia
+* multiple sclerosis, neuromyelitis optica spectrum disorder, small-fiber neuropathy, 뇌·척수 병변, notalgia paresthetica, brachioradial pruritus, postherpetic pruritus(대상포진 후 가려움)
 
 #### <mark style="color:$primary;">Psychiatric / psychosomatic (정신적·심리적 요인 관련)</mark>
 
@@ -55,35 +56,36 @@
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 {% hint style="danger" %}
-**즉각 조치 또는 의뢰 — 생명 위협 또는 즉각적 위해 가능성**
+**즉각 조치**
 
-* 급성 전신 가려움/두드러기·혈관부종과 함께 호흡곤란·쌕쌕거림·후두 증상·저혈압/실신 → 아나필락시스 의심, 즉시 epinephrine 근육주사 및 응급 이송; 피부 증상 없이도 아나필락시스가 가능
-* 새 약물 복용 후 피부 통증, 광범위한 수포·박리, 점막 미란 또는 발열·얼굴부종·장기 이상 → 중증 피부약물이상반응 의심, 즉시 응급 평가
-* 황달과 함께 발열·우상복부 통증·저혈압/의식저하가 동반된 경우 → 급성 담관염/담도 폐쇄 의심, 즉시 응급 평가
-* 황달과 함께 의식 변화 또는 명백한 출혈 경향/응고장애가 동반된 경우 → 급성 간부전 가능성, 즉시 응급 평가
-* 자살 계획·의도·수단, 최근 자해 또는 즉각적인 안전 확보가 어려운 경우 → 혼자 두지 않고 응급 정신건강 평가/이송
+* 급성 가려움/두드러기·혈관부종과 호흡곤란·천명·후두 증상·저혈압/실신; 피부 소견 없이도 가능  `아나필락시스`
+* 최근 약물 노출과 피부 통증·광범위 수포/박리·점막 미란 또는 발열·안면부종·장기 이상  `중증 피부약물이상반응`
+* 황달·담즙정체 의심 소견과 발열·오한·우상복부 통증 또는 패혈증 소견; 저혈압·의식저하가 없더라도 가능  `급성 담관염·담도 폐쇄`
+* 황달과 의식 변화 또는 명백한 출혈 경향/응고장애  `급성 간부전 등 중증 간질환`
+* 자살 계획·의도·수단, 최근 자해 또는 즉각적인 안전 확보가 어려운 상태  `즉각적 자해 위험`
 {% endhint %}
 
 {% hint style="warning" %}
 **당일~수일 내 평가**
 
-* 새 황달, 짙은 소변, 회백색 대변을 동반한 가려움 → 담즙정체 의심, 간담도 평가(당일)
-* 임신 중 새로 발생한 전신 또는 손바닥·발바닥 가려움(원발 발진이 없고 특히 밤에 심한 경우; 황달이 없어도 가능) → 임신 중 간내 담즙정체 의심, 산부인과 평가 및 혈청 총담즙산·간효소 검사(당일)
-* 자살사고가 있으나 즉각적인 계획·의도가 확인되지 않은 경우에도 당일 위험도 평가 및 안전 계획
-* 설명되지 않는 체중 감소, 야간 발한, 림프절병증 또는 비장비대 동반 → 혈액종양 질환(특히 Hodgkin's disease) 의심
-* 수포 발생 전 뚜렷한 원발 병변 없이 심한 가려움이 지속되는 고령 환자 → subtle/invisible dermatosis(예: bullous pemphigoid 전구기) 의심, 피부과 의뢰
-* 가족·동거인·시설 내 다수에서 동시 발생 → 옴(scabies) 의심, 접촉자 관리 및 피부과 의뢰
-* 만성 콩팥병 환자에서 중등도\~중증의 가려움이 새로 발생하거나 악화되고, 신기능·투석 적절도·Ca/P/PTH 등 교정 가능한 요인 평가 후에도 지속되는 경우 → 신장내과 협진
+* 새 황달·짙은 소변·회백색 대변을 동반한 가려움 **(당일)**  `담즙정체`
+* 임신 중 새 전신/손발바닥 가려움, 특히 원발 발진 없이 밤에 심함; 황달이 없을 수 있음 **(당일)**  `임신 중 간내 담즙정체`
+* 즉각적인 계획·의도가 확인되지 않은 경우라도 자살사고가 있음 **(당일)**  `정신건강 위험 평가`
+* 원인 불명 체중 감소·야간 발한·림프절병증·비장비대  `혈액종양 질환`
+* 고령에서 뚜렷한 원발 병변 없이 심한 가려움 지속 또는 두드러기/습진 같은 병변  `수포성 유사천포창 전구기 등`
+* 가족·동거인·시설 내 다수에서 동시 발생  `옴 등 전염성 피부질환`
+* 만성콩팥병 환자에서 새로 발생하거나 악화하는 중등도~중증 가려움  `CKD 관련 가려움·동반 원인`
 {% endhint %}
 
 {% hint style="info" %}
-**외래 추적 / 추가 평가 계획 — 호전 없으면 의뢰**
+**조기 평가 및 추적**
 
-* 1st-step lab screening에서 이상이 없고, 4\~6주간 원인에 따른 치료와 보습·피부장벽 관리 ± 적응증에 맞는 증상 치료에도 반응하지 않는 경우
-* 원인 불명으로 지속되어 chronic prurigo, lichenification 등 2차 긁음 병변으로 진행하는 경우
-* 국소·전신 치료에도 반복 재발하거나 난치성으로 진행하여 질환 특이 생물학적제제·면역억제제 등을 검토해야 하는 경우
-* 심한 수면·기능 장애가 있으면 4\~6주를 기다리지 않고 조기 의뢰
+* 1차 검사에서 뚜렷한 이상이 없으나 4~6주간 원인별 치료·보습·적응증에 맞는 증상 치료에도 지속되는 가려움  `치료 불충분`
+* 원인 불명으로 지속되며 양진·태선화 등 만성 긁음 병변으로 진행  `만성 양진·CPUO`
+* 반복 재발하거나 질환 특이 전신치료가 필요한 난치성 가려움  `전문 치료 필요`
 {% endhint %}
+
+아나필락시스 의심 시 epinephrine IM과 응급 이송을 즉시 시행함. 담관염·중증 간질환 또는 중증 피부약물이상반응은 응급 평가함. 자해 위험이 임박하면 혼자 두지 않고 안전 확보와 응급 평가/이송을 진행함. 임신 중 담즙정체 의심은 당일 산부인과에서 총담즙산·간효소를 평가함. 옴 의심은 환자 진료와 접촉자 관리를 함께 진행함. 심한 수면·기능 장애는 4~6주까지 기다리지 않고 조기 의뢰함.
 
 ***
 
@@ -168,7 +170,7 @@ flowchart LR
 
 <p align="center"><strong>만성 가려움증 진단 알고리듬</strong></p>
 
-<p align="center"><em>Ref. Weisshaar E, et al. European Guideline on Chronic Pruritus. Acta Derm Venereol. 2025;105:adv44220. Fig. 1 및 Tables 3–4를 참고하여 일차진료용으로 재구성.</em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Weisshaar E, et al. European S2k Guideline on Chronic Pruritus. Acta Derm Venereol. 2025;105:adv44220. Fig. 1 및 Tables 3–4를 참고하여 일차진료용으로 재구성.</mark></em></p>
 
 ***
 
@@ -178,7 +180,7 @@ flowchart LR
 
 * 피부 건조 관리
 * 증상에 대한 약물 치료
-* 기저 피부 질환이 있으면 이를 치료, 기저 피부 질환이 없으면 전신 질환 감별
+* 피부질환 유무에 관계없이 전신·약물·신경학적 원인이 함께 있는지 평가하고 확인된 원인을 치료함
 
 ### <mark style="color:orange;">단계별 치료 접근</mark>
 
@@ -262,7 +264,7 @@ flowchart LR
 
 #### <mark style="color:$primary;">Capsaicin</mark>
 
-* 작용 : 감각 신경 끝에서의 탈감작 효과. neuropathic itch에 유효
+* 작용 : 감각 신경 끝의 TRPV1 활성화 후 탈감작. 일부 국소 신경병증성 가려움에서 효과를 기대할 수 있으나 질환별 근거가 제한적임
 * 반복 도포에 따른 탈감작 효과이며, 효과 발현 시점은 농도·사용 빈도·질환에 따라 다름
 * 부작용 : 초기 작열감
 * 저농도 제제(예: 0.025%)를 선택된 국소 신경병증성 가려움에서 고려(가려움 치료는 허가 외 사용); 손상 피부·점막·눈 주변은 피하고 사용 후 손 씻기. 국내 제제의 허가·실제 공급 여부는 처방 시 확인
@@ -273,7 +275,7 @@ flowchart LR
   * pramoxine 1%, polidocanol 함유 제제 등에 해외 연구가 있으나 국내 제품의 성분·허가·공급은 별도 확인
   * lidocaine/prilocaine <mark style="color:blue;">\[엠라]</mark>는 시술 전 피부마취제이며 만성 가려움의 반복·전신 도포용으로 처방하지 않음; 넓은 면적·손상 피부·밀봉 도포 시 전신독성/메트헤모글로빈혈증 위험
 * 습포 : 깨끗한 차가운 물을 적신 천 또는 시판 0.9% 생리식염수를 짧게 사용; Burow 용액은 제품별 농도·희석 지시를 따르고 가정용 티스푼으로 식염수를 조제하지 않음
-* calamine/zinc oxide <mark style="color:blue;">\[칼라민 로션]</mark>(비급여)
+* calamine/zinc oxide <mark style="color:blue;">\[칼라민 로션]</mark>
 * camphor(2%), menthol(1%)
 
 ### <mark style="color:orange;">전신 치료제</mark>
@@ -298,7 +300,7 @@ flowchart LR
 
 **진정성·항콜린 부담이 있는 제제**
 
-* hydroxyzine <mark style="color:blue;">\[아디팜정 10 ㎎]</mark> : 국내 피부과 영역 허가 용량 30\~60 ㎎/d, 2\~3회 분할; 최소 유효용량·최단 기간 사용
+* hydroxyzine <mark style="color:blue;">\[아디팜정 10 ㎎]</mark> : 국내 피부과 영역 성인 허가 용량 30\~60 ㎎/d, 2\~3회 분할; 성인 최대 100 ㎎/d. 최소 유효용량·최단 기간 사용
   * 고령자는 사용이 권장되지 않으며, 불가피하면 성인 권장량의 절반으로 시작하고 최대 50 ㎎/d
   * QT 연장/Torsades de pointes 위험 : QT 연장·유의한 서맥·저칼륨/저마그네슘혈증·QT 연장 약제 병용 등 위험 요인을 확인
 * chlorpheniramine <mark style="color:blue;">\[페니라민정 2 ㎎]</mark> : 국내 성인 허가 용법 1회 2\~6 ㎎, 1일 2\~4회; 최대 24 ㎎/d
@@ -335,7 +337,7 @@ flowchart LR
 * 부작용 : 어지럼, 졸음, 두통, 구역, 말초 부종, 체중 증가, 착란; 고령자에서는 낙상 위험에 특히 주의
 * **start low, go slow** : 고령자·신기능 저하 환자에서는 더 낮은 용량으로 시작
 * gabapentin : 보통 100\~300 ㎎ hs부터 시작하여 반응·내약성에 따라 qd\~tid로 서서히 증량 <mark style="color:blue;">\[뉴론틴]</mark>
-* pregabalin : 보통 25\~75 ㎎ hs 또는 qd부터 시작하여 필요 시 서서히 증량 <mark style="color:blue;">\[리리카]</mark>; 혈액투석 환자에서는 25 ㎎ qd 또는 투석일 중심의 저용량 regimen으로 시작 가능
+* pregabalin : 보통 25\~75 ㎎ hs 또는 qd부터 시작하여 필요 시 서서히 증량 <mark style="color:blue;">\[리리카]</mark>; 혈액투석 환자는 아래 CKD 관련 가려움 절의 저용량 요법을 신장내과와 선택하며, 일반 성인 요법에 투석 후 용량을 임의 추가하지 않음
 * 두 약제 모두 신기능과 혈액투석에 따른 용량 조절 필수 (☞ 통증 챕터의 신장애 환자 gabapentinoid 용량 참조)
 * opioid·benzodiazepine 등 중추신경억제제 병용, 호흡기질환·고령·신장애에서 호흡억제 위험에 주의; 투여 시작/증량 후 졸림·보행·호흡 상태를 확인
 * 갑자기 중단하지 않고, 중단이 필요하면 통상 1주 이상에 걸쳐 감량
@@ -352,7 +354,7 @@ flowchart LR
 #### <mark style="color:$primary;">항류코트리엔제 - 제한적 옵션</mark>
 
 * montelukast는 CKD-associated pruritus의 소규모 연구가 있으나 근거가 제한되어 일차진료의 통상 치료로 권고하지 않음(가려움 치료는 허가 외)
-* montelukast를 선택적으로 사용한다면 신경정신계 이상반응(악몽·불면·기분 변화·자살사고 등)을 설명하고 모니터링
+* montelukast를 선택적으로 사용한다면 신경정신계 이상반응(악몽·불면·기분 변화·자살사고 등)을 설명하고 모니터링하며, 새 증상이 나타나면 중단하고 신속히 평가함
 * pranlukast를 같은 계열이라는 이유로 만성 가려움 치료에 대체 적용할 근거는 불충분
 
 #### <mark style="color:$primary;">면역억제제 (Immunomodulator therapy): Cyclosporine</mark>
@@ -369,21 +371,26 @@ flowchart LR
 
 #### <mark style="color:$primary;">생물학적제제 (Biologics)</mark>
 
-* 대상 : 국소·전신 1차 치료에 반응하지 않는 아토피피부염 또는 결절성 양진(prurigo nodularis) 동반 중증 만성 가려움; 피부과 의뢰 후 처방
-* nemolizumab(IL-31 수용체 α 길항제) <mark style="color:blue;">\[넴루비오]</mark> : 중등도\~중증 아토피피부염 및 결절성 양진 치료제로 국내 허가(2026년); 적응증·연령·체중에 따라 투여 regimen이 다르므로 최신 제품설명서 확인; IL-31 신호 차단을 통해 가려움 유발 감각신경 활성화를 억제
-* dupilumab(IL-4Rα 길항제) <mark style="color:blue;">\[듀피젠트]</mark> : 아토피피부염 및 성인 결절성 양진 등의 국내 적응증 보유; 질환별 연령·치료 요건·급여 기준 확인
+* 대상 : 전신요법이 필요한 아토피피부염 또는 결절성 양진(prurigo nodularis) 등에서 해당 약제의 허가 요건을 만족하는 환자. 기존 전신 면역억제제 실패가 모든 생물학적제제의 필수 허가 요건은 아니며, 국소치료 반응·중증도·질병 부담에 따라 피부과에서 선택함
+* nemolizumab(IL-31 수용체 α 길항제) <mark style="color:blue;">\[넴루비오]</mark> : 국내에서 전신요법 대상인 **12세 이상 청소년·성인의 중등도~중증 아토피피부염**, **18세 이상 성인의 중등도~중증 결절성 양진**에 허가(2026년). 아토피피부염은 국소치료 불충분 또는 권장되지 않는 경우에 해당하며, 질환·체중별 용법을 구분함; IL-31 신호 차단을 통해 가려움 유발 감각신경 활성화를 억제
+* dupilumab(IL-4Rα 길항제) <mark style="color:blue;">\[듀피젠트]</mark> : 국내에서 국소치료 불충분/권장되지 않는 **생후 6개월 이상 중등도~중증 아토피피부염** 및 **성인 중등도~중증 결절성 양진** 등에 허가. **성인 수포성 유사천포창**도 국내 적응증에 포함되므로, 고령자의 심한 가려움에서 해당 질환이 확인되면 전문과 치료 옵션으로 고려함. 용법·연령·급여는 적응증별로 구분
 * ✽아토피피부염·결절성 양진 이외의 전신성·신경병증성·원인 불명 만성 가려움에 이들 약제를 사용하는 것은 허가 외이며, 일반 만성 가려움의 표준 치료로 확대하지 않음
+
+<p align="center"><em><mark style="color:$info;">Ref. 국내 듀피젠트 허가사항·사노피 제품정보; 넴루비오 국내 허가사항 재게시 자료.</mark></em></p>
 
 #### <mark style="color:$primary;">JAK 억제제 (Small molecules)</mark>
 
-* 대상 : 국소·전신 1차 치료에 반응하지 않는 **중등도\~중증 아토피피부염 동반 만성 가려움**에서 질환 특이 systemic therapy로 고려; 피부과 평가 후 도입
-* upadacitinib <mark style="color:blue;">\[린버크]</mark>, abrocitinib <mark style="color:blue;">\[시빈코]</mark> : 성인 및 만 12세 이상 청소년
+* 대상 : 전신요법이 필요한 **중등도~중증 아토피피부염 동반 만성 가려움**에서 약제별 국내 허가 요건과 기존 치료 반응·위험인자를 평가하여 질환 특이 systemic therapy로 고려; 피부과 평가 후 도입
+* upadacitinib <mark style="color:blue;">\[린버크]</mark> : 성인 및 **만 12세 이상·체중 40 ㎏ 이상 청소년**의 아토피피부염 허가 용법을 적용
+* abrocitinib <mark style="color:blue;">\[시빈코]</mark> : 성인 및 만 12세 이상 청소년
 * baricitinib <mark style="color:blue;">\[올루미언트]</mark> : 전신요법 대상 **2세 이상 소아 및 성인**의 중등도\~중증 아토피피부염에 국내 허가; 소아 체중·신기능에 따른 용량 확인
 * 장점 : 비교적 빠른 itch reduction을 기대할 수 있음
 * 주요 부작용/경고 : 대상포진·중증 감염, 정맥혈전색전증(VTE), 주요 심혈관계 이상반응(MACE), 악성종양, 이상지질혈증 등; CBC, 간기능, 지질 등 정기 모니터링 필요
 * 치료 전 결핵·HBV/HCV 등 감염 선별과 예방접종 상태를 확인; 65세 이상·심혈관/악성종양 고위험군에서는 국내 허가상 사용 제한을 제품별 검토
 * 다른 JAK 억제제·생물학적 면역조절제와 병용하지 않으며, 아토피피부염에서 cyclosporine 등 강력한 면역억제제와의 병용도 권장되지 않음; 임신·수유 금기와 피임 기간은 품목별 확인
 * CPG/CPUO에서 JAK 억제제 사용은 제한된 연구 근거에 기반한 off-label 치료이며, **AD-associated CP에 대한 on-label 사용과 구분**해야 함
+
+<p align="center"><em><mark style="color:$info;">Ref. 국내 린버크·올루미언트 품목정보 및 한국애브비 린버크 제품설명서.</mark></em></p>
 
 #### <mark style="color:$primary;">자외선 빛 치료(Phototherapy)</mark>
 
@@ -419,13 +426,13 @@ flowchart LR
   * 다른 경구약 흡수를 저해하므로 **다른 약은 cholestyramine 투여 최소 1시간 전 또는 4\~6시간 후**에 복용; 변비·복부팽만과 장기 사용 시 지용성 비타민 결핍에 주의
 * **2차 옵션(허가 외)** : rifampicin을 저용량에서 시작하여 보통 300\~600 ㎎/d 범위로 조절
   * 간독성, 용혈, 신손상 및 다수의 약물상호작용에 주의하고 치료 전후 간기능 모니터링
-  * 총빌리루빈 >2.5 ㎎/dL 등 유의한 황달에서는 사용을 피함(AASLD); 시작·증량 초기에는 간기능을 더 자주 확인
+  * AASLD의 비대상성 간경변 관련 권고에서는 총빌리루빈 ＞2.5 ㎎/dL이면 사용을 피하도록 함. 다른 담즙정체성 질환에도 이 수치를 일률적인 허가 금기로 적용하지 않고 간장애·황달·상호작용을 전문과가 평가하며, 시작·증량 초기에는 간기능을 더 자주 확인
 * **opioid-modulating therapy**
   * naltrexone(허가 외) : 12.5 ㎎/d 등 저용량부터 시작하여 반응에 따라 최대 50 ㎎/d로 단계적 증량; 현재 opioid 사용·의존, 급성 간염/간부전 등 금기 확인
   * naloxone 정맥 투여는 전문과/입원 환경에서 고려하며 일반 외래 처방으로 사용하지 않음
 * **기타 선택적 옵션** : sertraline 75\~100 ㎎/d 등
 * **UDCA** : PBC 등의 기저질환 치료제이며 PBC/PSC 가려움 자체의 표준 antipruritic은 아님. **임신 중 간내 담즙정체에서는 산부인과가 모체 증상 치료의 1차 약제로 사용**하므로 별도로 구분
-* **최신 해외 옵션** : linerixibat(IBAT 억제제; <mark style="color:blue;">\[Lynavoy]</mark>)은 2026년 3월 미국 FDA에서 성인 PBC 관련 담즙정체성 가려움에 승인. 설사·간검사 이상·지용성 비타민 결핍 등에 주의; 국내 허가·공급 확인 전에는 국내 처방 옵션으로 제시하지 않음
+* **최신 해외 옵션** : linerixibat(IBAT 억제제; <mark style="color:blue;">\[Lynavoy]</mark>)은 2026년 3월 미국 FDA에서 성인 PBC 관련 담즙정체성 가려움에 승인. 설사·간검사 이상·지용성 비타민 결핍 등에 주의하며, 미국 허가상 비대상성 간경변 또는 과거/현재의 비대상화 사건이 있으면 사용을 피함. 국내 허가·공급 확인 전에는 국내 처방 옵션으로 제시하지 않음
 * PBC/PSC의 다른 질환 특이 치료는 간담도 전문과에서 결정하며, 일반 만성 가려움 치료로 확대하지 않음
 
 ***
@@ -451,7 +458,7 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 > **처방례 1. 경증 - 피부건조증 동반 특발성 만성 가려움**
 >
 > ```
-> 유리아 크림(10%) 1일 2회  전신 도포
+> 유리아 크림(10%) 1일 2회  건조한 피부에 도포
 > ```
 >
 > _✽보습을 우선하고, urea가 상처·염증 부위에서 따갑다면 무향료 단순 보습제로 변경. 두드러기 등 히스타민성 증상이 함께 있을 때만 cetirizine(지르텍) 10 ㎎ qd 등의 병용을 검토; 신기능·졸림 확인._
@@ -461,7 +468,7 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 > ```
 > 뉴론틴(gabapentin) 100 ㎎  1캡슐  hs로 시작
 > 반응·내약성에 따라 수일~1주 간격으로 단계적 증량
-> 유리아 크림(10%) 1일 2회  전신 도포
+> 유리아 크림(10%) 1일 2회  건조한 피부에 도포
 > ```
 >
 > _✽가려움에는 허가 외 사용. 항히스타민 무반응만으로 신경병증성 가려움을 진단하지 않으며, 분포·화끈거림·감각 이상 등 단서를 확인. 신기능에 따라 용량 조절하고 시작/증량 후 졸림·보행·호흡 상태를 확인._
@@ -570,22 +577,25 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 * **119/응급실** : 가려움·두드러기와 함께 숨이 차거나 목이 붓고 어지러워 쓰러지는 경우, 피부에 넓게 물집·벗겨짐이 생기거나 입·눈 점막이 헐고 전신 상태가 나쁜 경우
 * **당일 진료** : 새로 황달·짙은 소변이 나타나는 경우, 임신 중 발진 없이 온몸이나 손바닥·발바닥이 가려운 경우
 * **수일 내 진료** : 이유 없는 체중 감소·야간 발한·림프절 부기가 나타나는 경우
-* 가려움 때문에 잠을 거의 못 자거나 우울감이 심해지면 진료를 앞당기십시오. 자살사고가 있으면 당일 도움을 받고, 자해할 계획이나 즉각적인 위험이 있으면 혼자 있지 말고 119/응급실로 도움을 요청하십시오. 자살예방상담전화 109도 이용할 수 있습니다.
+* 가려움 때문에 잠을 거의 못 자거나 우울감이 심해지면 진료를 앞당기십시오. 자살사고가 있으면 당일 도움을 받고, 자해할 계획이나 즉각적인 위험이 있으면 혼자 있지 말고 119/응급실로 도움을 요청하십시오. 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)도 이용할 수 있습니다.
 
 
 ***
 
-### 주요 참고자료
+## 주요 참고문헌 및 확인 자료
 
-* Weisshaar E, et al. European Guideline on Chronic Pruritus: In cooperation with the European Dermatology Forum (EDF). Acta Derm Venereol. 2025;105:adv44220. [원문](https://doi.org/10.2340/actadv.v105.44220)
+### <mark style="color:orange;">임상 근거</mark>
+
+* Weisshaar E, et al. European S2k Guideline on Chronic Pruritus: In cooperation with the European Dermatology Forum (EDF). Acta Derm Venereol. 2025;105:adv44220. [원문](https://doi.org/10.2340/actadv.v105.44220)
 * 대한아토피피부염학회. Consensus-Based Guidelines for the Treatment of Atopic Dermatitis in Korea (Part I): Basic Therapy, Topical Therapy, and Conventional Systemic Therapy. 2025. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318780/)
 * American Academy of Dermatology. [아토피피부염 진료지침 및 2025 집중 개정](https://www.aad.org/member/clinical-quality/guidelines/atopic-dermatitis)
 * SMFM Consult Series #53. Intrahepatic cholestasis of pregnancy. 2021. [권고](https://publications.smfm.org/publications/374-society-for-maternal-fetal-medicine-consult-series-53/)
 * AASLD. [담즙정체성 가려움 치료](https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/scratching-itch-management-pruritus-cholestatic)
-* 국내 약제 : [아디팜 제품정보](https://www.taiguk.co.kr/product/view.jsp?pid=AHG72486), [페니라민 제품정보](https://yuhan.co.kr/Products/List/?YPRD_IDX=1865&cid=177&mode=view), [모리코트크림 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300107), [올루미언트 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708280), [레밋치구강붕해정 제품정보](https://www.skchemicals.com/ls/product_view.aspx?serno=953), [갈더마코리아 제품 안내](https://www.galderma.com/kr-kr/korea)
-* 안전성 : [EMA hydroxyzine QT 위험](https://www.ema.europa.eu/en/medicines/human/referrals/hydroxyzine), [FDA gabapentinoid 호흡억제](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication)
-* 보조자료 : [보습제와 외용제 도포 간격(NHS)](https://www.nhs.uk/tests-and-treatments/emollients/), [FDA montelukast 신경정신계 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug), [자살예방상담전화 109](https://www.129.go.kr/109)
-* 해외 신약 : [difelikefalin 제품설명서](https://www.medicines.org.uk/emc/product/13735/smpc), [linerixibat 미국 허가사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c00317c8-709c-4707-a6d1-632bff123026)
-* [레밋치구강붕해정 제품설명서(2026-04 개정)](https://www.skchemicals.com/imgup/ls/products/pdf/ls_35.pdf)
+* 안전성 : [EMA hydroxyzine QT 위험](https://www.ema.europa.eu/en/medicines/human/referrals/hydroxyzine), [FDA gabapentinoid 호흡억제](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication), [FDA montelukast 신경정신계 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug).
+* 보조자료 : [보습제와 외용제 도포 간격(NHS)](https://www.nhs.uk/tests-and-treatments/emollients/), [자살예방상담전화 109](https://www.129.go.kr/109?oai_link_source=model_response_hotline).
 
-✽검토 기준일: 2026-10-03. 허가와 급여·출시·실제 공급은 별개이며, 국내 확인이 불충분한 해외 약제는 국내 처방 가능성을 단정하지 않음.
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 아디팜·페니라민·모리코트·올루미언트·린버크·듀피젠트·넴루비오·레밋치 등의 품목정보 확인 자료.
+* 국내 제조·수입사 제품설명서: SK케미칼 레밋치구강붕해정(2026-04 개정), 한국애브비 린버크서방정(2026), 사노피 듀피젠트 제품정보. 넴루비오의 국내 적응증·연령은 허가사항 재게시 자료도 참고함.
+* 해외 치료 옵션 : [difelikefalin 제품설명서](https://www.medicines.org.uk/emc/product/13735/smpc), [linerixibat 미국 허가사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c00317c8-709c-4707-a6d1-632bff123026). 국외 승인을 국내 허가·급여·공급으로 해석하지 않음.
