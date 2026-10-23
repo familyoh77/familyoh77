@@ -87,7 +87,7 @@
 * 심한 일측 인후통, 개구장애, 구개수 편위, 웅얼거리는 음성 `편도주위농양`
 * 소아의 편측 악취성 콧물 `코 이물`
 
-<mark style="color:$info;">**조기 평가 및 추적**</mark>&#x20;
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 증상이 10일 이상 호전 없이 지속되거나 호전 후 다시 악화 `급성 세균성 비부비동염`
 * 성인에서 3주 이상 또는 소아에서 4주를 넘어 지속되는 기침 `감염 후 기침` `천식` `상기도기침증후군`
@@ -176,7 +176,7 @@ flowchart TD
 
 <p align="center"><strong>감기 접근 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Treatment of the Common Cold. AFP 2019;100(5);</mark></em> <br><em><mark style="color:$info;">CDC Common Cold)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌 : Treatment of the Common Cold. AFP 2019;100(5);</mark></em><br><em><mark style="color:$info;">CDC Common Cold)</mark></em></p>
 
 ***
 
@@ -559,9 +559,40 @@ flowchart TD
 
 ***
 
+##
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [CDC. About Common Cold / Manage Common Cold.](https://www.cdc.gov/common-cold/treatment/) - 감기의 자연 경과, 대증 치료·소아 감기약 주의 및 재평가 기준
+* [DeGeorge KC, Ring DJ, Dalrymple SN. Treatment of the Common Cold. Am Fam Physician. 2019;100(5):281-289.](https://www.aafp.org/pubs/afp/issues/2019/0901/p281.html) - 감기의 자연 경과와 성인·소아 대증 치료 근거
+* [CDC. Outpatient Clinical Care for Pediatric Populations.](https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html) - 소아 세균성 비부비동염의 지속·악화·중증 발병 기준 및 감기약 사용 주의
+* [NICE. Bronchiolitis in children: diagnosis and management. NG9.](https://www.nice.org.uk/guidance/ng9) - 소아 무호흡·중증 호흡곤란의 응급 의뢰 기준
+* [NICE. Hearing loss in adults: assessment and management. NG98.](https://www.nice.org.uk/guidance/ng98) - 외이·중이 원인으로 설명되지 않는 급성 청력 저하의 신속 의뢰 기준
+* [NICE. Cough (acute): antimicrobial prescribing. NG120.](https://www.nice.org.uk/guidance/ng120) - 급성 기침의 대증 치료와 항생제 사용 제한
+* [Smith SM, et al. Over-the-counter (OTC) medications for acute cough in children and adults in community settings. Cochrane Database Syst Rev. 2014;(11):CD001831.](https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001831.pub5/information) - 급성 기침에서 dextromethorphan 등 OTC 진해제의 성인·소아 효과
+* [Liang K, et al. Postinfectious cough in adults. CMAJ. 2024;196(5):E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 정의·감별 및 약물 근거의 한계
+* [Morice AH, et al. ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020;55:1901136.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/) - 성인과 소아의 만성 기침 평가 기준 구분
+* [Cochrane. Zinc for the prevention and treatment of the common cold. 2024. CD014914.](https://www.cochrane.org/evidence/CD014914_zinc-prevention-and-treatment-common-cold) - 아연의 감기 예방·치료 효과와 이상반응, 근거 확실성
+* [Cochrane. Immediate versus delayed versus no antibiotics for respiratory infections. 2023. CD004417.](https://www.cochrane.org/evidence/CD004417_delayed-antibiotic-prescriptions-respiratory-tract-infections) - 지연 처방과 무처방의 항생제 사용률·만족도 비교; 단순 감기의 항생제 적응증을 의미하지 않음
+* [CDC. Influenza Antiviral Medications: Summary for Clinicians.](https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html) - 고위험군·중증 또는 진행성 인플루엔자 의심 시 검사 때문에 항바이러스 치료를 지연하지 않는 원칙
+* [Jones BE, et al. Diagnosis and Management of Community-acquired Pneumonia: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med. 2026;212(1):24-44.](https://doi.org/10.1164/rccm.202507-1692ST) - 숙련된 환경에서 폐초음파를 흉부 X선의 진단 대안으로 조건부 권고
+* [NICE. Pneumonia: diagnosis and management. NG250. 2025.](https://www.nice.org.uk/guidance/ng250) - 감기와 감별할 폐렴의 임상·영상 평가
+* [Cunningham S, et al. A randomised controlled trial of hypertonic saline nose drops as a treatment in children with the common cold (ELVIS-Kids trial). Eur Respir J. 2024;64(Suppl 68):OA1985.](https://doi.org/10.1183/13993003.congress-2024.OA1985) - 소아 감기에서 고장성 식염수 점비의 증상 기간 단축 (학회 발표 예비 결과)
+* [미국 FDA. Key Information about Nonprescription, Over-the-Counter (OTC), Oral Phenylephrine.](https://www.fda.gov/drugs/understanding-over-counter-medicines/key-information-about-nonprescription-over-counter-otc-oral-phenylephrine) - 경구 phenylephrine의 유효성 평가와 OTC 명령안
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
-**감기란?**\
+<mark style="color:$primary;">감기란?</mark>\
 감기는 바이러스가 코와 목을 감염시켜 생기는 질환입니다. 보통 7\~10일이면 저절로 낫습니다. 약을 먹어도 낫는 기간은 거의 줄지 않으며, 불편한 증상을 다소 덜어 주는 데 도움이 될 수 있습니다.
 
 **감기의 정상적인 경과**
@@ -606,30 +637,3 @@ flowchart TD
 
 **항생제는 필요하지 않습니다**\
 감기는 바이러스가 원인이므로 항생제가 효과 없습니다. 항생제를 불필요하게 복용하면 내성균이 생겨 나중에 꼭 필요할 때 효과가 떨어질 수 있습니다. 담당 의사가 항생제를 처방하지 않았다면, 이것은 정상적인 진료입니다.
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [CDC. About Common Cold / Manage Common Cold.](https://www.cdc.gov/common-cold/treatment/) - 감기의 자연 경과, 대증 치료·소아 감기약 주의 및 재평가 기준
-* [DeGeorge KC, Ring DJ, Dalrymple SN. Treatment of the Common Cold. Am Fam Physician. 2019;100(5):281-289.](https://www.aafp.org/pubs/afp/issues/2019/0901/p281.html) - 감기의 자연 경과와 성인·소아 대증 치료 근거
-* [CDC. Outpatient Clinical Care for Pediatric Populations.](https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html) - 소아 세균성 비부비동염의 지속·악화·중증 발병 기준 및 감기약 사용 주의
-* [NICE. Bronchiolitis in children: diagnosis and management. NG9.](https://www.nice.org.uk/guidance/ng9) - 소아 무호흡·중증 호흡곤란의 응급 의뢰 기준
-* [NICE. Hearing loss in adults: assessment and management. NG98.](https://www.nice.org.uk/guidance/ng98) - 외이·중이 원인으로 설명되지 않는 급성 청력 저하의 신속 의뢰 기준
-* [NICE. Cough (acute): antimicrobial prescribing. NG120.](https://www.nice.org.uk/guidance/ng120) - 급성 기침의 대증 치료와 항생제 사용 제한
-* [Smith SM, et al. Over-the-counter (OTC) medications for acute cough in children and adults in community settings. Cochrane Database Syst Rev. 2014;(11):CD001831.](https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001831.pub5/information) - 급성 기침에서 dextromethorphan 등 OTC 진해제의 성인·소아 효과
-* [Liang K, et al. Postinfectious cough in adults. CMAJ. 2024;196(5):E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 정의·감별 및 약물 근거의 한계
-* [Morice AH, et al. ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020;55:1901136.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/) - 성인과 소아의 만성 기침 평가 기준 구분
-* [Cochrane. Zinc for the prevention and treatment of the common cold. 2024. CD014914.](https://www.cochrane.org/evidence/CD014914_zinc-prevention-and-treatment-common-cold) - 아연의 감기 예방·치료 효과와 이상반응, 근거 확실성
-* [Cochrane. Immediate versus delayed versus no antibiotics for respiratory infections. 2023. CD004417.](https://www.cochrane.org/evidence/CD004417_delayed-antibiotic-prescriptions-respiratory-tract-infections) - 지연 처방과 무처방의 항생제 사용률·만족도 비교; 단순 감기의 항생제 적응증을 의미하지 않음
-* [CDC. Influenza Antiviral Medications: Summary for Clinicians.](https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html) - 고위험군·중증 또는 진행성 인플루엔자 의심 시 검사 때문에 항바이러스 치료를 지연하지 않는 원칙
-* [Jones BE, et al. Diagnosis and Management of Community-acquired Pneumonia: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med. 2026;212(1):24-44.](https://doi.org/10.1164/rccm.202507-1692ST) - 숙련된 환경에서 폐초음파를 흉부 X선의 진단 대안으로 조건부 권고
-* [NICE. Pneumonia: diagnosis and management. NG250. 2025.](https://www.nice.org.uk/guidance/ng250) - 감기와 감별할 폐렴의 임상·영상 평가
-* [Cunningham S, et al. A randomised controlled trial of hypertonic saline nose drops as a treatment in children with the common cold (ELVIS-Kids trial). Eur Respir J. 2024;64(Suppl 68):OA1985.](https://doi.org/10.1183/13993003.congress-2024.OA1985) - 소아 감기에서 고장성 식염수 점비의 증상 기간 단축 (학회 발표 예비 결과)
-* [미국 FDA. Key Information about Nonprescription, Over-the-Counter (OTC), Oral Phenylephrine.](https://www.fda.gov/drugs/understanding-over-counter-medicines/key-information-about-nonprescription-over-counter-otc-oral-phenylephrine) - 경구 phenylephrine의 유효성 평가와 OTC 명령안
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
