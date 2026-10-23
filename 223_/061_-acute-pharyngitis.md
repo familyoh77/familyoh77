@@ -173,6 +173,37 @@
 ***
 
 ```mermaid
+graph TD
+    A["인후통 환자"] --> B["Red Flags 해당?"]
+    B -->|"즉각 조치 또는 <br/>당일~수일 내 평가 항목"| C["해당 긴급도에 따른 <br/>조치 및 평가"]
+    B -->|"없음 또는 <br/>조기 평가 및 <br/>추적 항목만"| D["명백한 바이러스 소견?"]
+    D -->|있음| E0["대증 치료와 <br/>경과 관찰"]
+    D -->|없음| F["연령별 검사 전략"]
+    F -->|≥19세| G["변형 Centor와 노출력 평가"]
+    G -->|"＜3점<br/>(고위험군 <br/>제외)"| E0
+    G -->|"≥3점<br/>(낮은 점수라도 <br/>고위험군은 <br/>검사 고려)"| H0["GAS RADT<br/>(오른쪽 흐름도 연결)"]
+    G -->|"≥3점이며 <br/>검사 불가: <br/>경험적 치료 <br/>선택적 고려"| I0["항생제 치료"]
+    F -->|"≥3세 ＜19세"| J["임상상과 <br/>노출력으로 <br/>검사 결정"]
+    J -->|검사 필요| H["GAS RADT"]
+    J -->|불필요| E["대증 치료와 <br/>경과 관찰"]
+    F -->|＜3세| K["통상 무검사, <br/>유증상 밀접 접촉 등에서 <br/>선택적 검사"]
+    K -->|검사 필요| H
+    K -->|불필요| E
+    H -->|"성인 또는 <br/>＜3세 <br/>음성"| E
+    H -->|"≥3세 <br/>소아·청소년 <br/>음성"| L["인후 배양"]
+    L -->|양성| I
+    L -->|음성| E
+    I --> M["amoxicillin 10일 <br/>또는 알레르기에 <br/>따른 대체제"]
+    H -->|양성| I["항생제 치료"]
+
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef y fill:#fff9c4,stroke:#ffe082
+    class B,D,F,G,J,K,L y
+    style C fill:#ffcccc,stroke:#cc0000
+    classDef p fill:#e3f2ff,stroke:#2196f3
+    class E,E0,M p
+    classDef lightGreen fill:#e8f8e8,stroke:#4caf50
+    class H,H0 lightGreen
 ```
 
 > _고위험군 : 급성 류마티스열 과거력, 확진 GAS 환자와의 가정 내 접촉, 성홍열·국소 합병증 의심_\
