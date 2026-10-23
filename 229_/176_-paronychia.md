@@ -10,7 +10,7 @@
 * 적절히 치료하면 급성 병변은 대개 수일\~1주 내 호전되지만, 만성 병변의 손발톱주름 장벽과 cuticle 회복에는 수 주\~수개월이 걸릴 수 있음
 * 치료에 반응하지 않는 **단일 손발톱의 만성 병변**은 편평세포암·흑색종 등 악성 종양 감별이 필요함
 
-✽ 근거 : Leggit JC. Acute and Chronic Paronychia. *American Family Physician*. 2017;96(1):44-51.
+<mark style="color:$info;">[Leggit. Am Fam Physician. 2017; Tosti et al. J Am Acad Dermatol. 2002]</mark>
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -34,30 +34,28 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 독성 외관, 패혈증 소견, 빠르게 진행하는 광범위 감염 또는 피부 괴사
-* 굴곡건초염 의심 : 손가락 굴곡 자세, 건초를 따른 압통, 방추형 부종, 수동 신전 시 심한 통증(Kanavel signs)
-* 신경혈관 장애, 구획증후군 또는 심부 공간 감염 의심
-* 급성 진행성 감염과 함께 골수염·관절 침범이 의심되는 경우
+* 전신독성·저혈압, 빠르게 진행하는 광범위 감염 또는 피부 괴사  `패혈증·괴사성 감염 의심`
+* 손가락 굴곡 자세, 건초를 따른 압통, 방추형 부종, 수동 신전 시 심한 통증(Kanavel signs)  `화농성 굴곡건초염 의심`
+* 감각 저하·창백·청색증 등 신경혈관 장애, 구획증후군 또는 심부 공간 감염 의심 소견  `신경혈관 장애·심부감염`
+* 급성 진행성 감염과 함께 관절 침범 또는 골수염이 의심되는 경우  `관절·골 침범 의심`
 
-<mark style="color:$warning;">**당일 평가 및 필요 시 의뢰**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
-* 명확한 농양, 손발톱 아래 농양, 손발톱 양측으로 이어진 horseshoe abscess
-* 손끝바닥의 긴장성 부종과 심한 박동성 통증(felon 의심)
-* 주변 연조직염·림프관염, 발열 또는 전신 증상
-* 면역저하, 조절 불량 당뇨병, 중증 말초혈관질환에서 발생한 급성 병변
-* 이물질 의심 또는 감염이 동반된 외상
+* 명확한 농양, 손발톱 아래 농양, 손발톱 양측으로 이어진 horseshoe abscess  `손발톱주위·조갑하 농양`
+* 손끝바닥의 긴장성 부종과 심한 박동성 통증  `Felon 의심`
+* 주변 연조직염·림프관염, 발열 또는 전신 증상  `확산성 세균감염`
+* 면역저하·조절 불량 당뇨병·중증 말초혈관질환 환자에서 발생한 급성 병변  `고위험군 감염`
+* 이물질이 의심되거나 감염이 동반된 외상  `이물질·외상성 감염`
 
-<mark style="color:$warning;">**조기 피부과 평가**</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 적절한 치료에도 호전되지 않는 단일 손발톱 병변 → 조기 피부과 평가 고려
-* 종괴·궤양·반복 출혈·불규칙 색소 병변 동반 → 추적만 반복하지 말고 신속히 피부과에 의뢰하여 조직검사 필요성을 평가
+* 적절한 치료에도 호전되지 않는 단일 손발톱 병변, 종괴·궤양·반복 출혈·불규칙 색소 병변  `손발톱 단위 종양·국소 원인 의심`
+* 반복 재발하거나 여러 손발톱을 침범하는 만성 병변  `노출·접촉피부염·이차감염 재평가`
+* 약물 유발이 의심되거나 손발톱 변형이 진행하는 경우  `약물·구조적 원인 평가`
 
-<mark style="color:$info;">**외래 추적 / 추가 평가 계획**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
-
-* 반복 재발하거나 여러 손발톱을 침범하는 만성 병변
-* 약물 유발 손발톱주위염이 의심되거나 손발톱 변형이 진행하는 경우
+즉각 조치 소견은 응급 평가 및 수부외과 협진을 연결함. 농양·felon은 당일 배농 필요성을 평가하며, 광범위 연조직염·고위험군은 전신 항균치료 및 입원 필요성을 판단함. 지속성 단일 병변·종양 의심 병변은 추적만 반복하지 않고 신속히 피부과 평가 및 필요 시 조직검사를 진행함.
 
 ## <mark style="color:green;">진단</mark>
 
@@ -67,7 +65,7 @@
 * **KOH·진균배양** : 동반 손발톱진균증 또는 칸디다 감염이 의심될 때 시행; 만성 손발톱주름에서 Candida 배양 양성만으로 병원성 감염을 확진하거나 항진균제를 시작하지 않음
 * **HSV PCR** : 군집성 수포 또는 herpetic whitlow가 의심될 때 우선 고려; Tzanck 검사를 routine 선별검사로 사용하지 않음
 * **영상검사** : 이물질·골 침범이 의심되면 단순 X선 고려. 정상 X선으로 초기 골수염·심부감염이 배제되지 않으며, 의심이 지속되면 전문과 평가와 초음파·MRI 등 추가 검사를 고려
-* **Retronychia 초음파** : 임상적으로 불명확하거나 보존치료에 반응하지 않으면 고주파 초음파를 고려; 2개 이상의 근위부 조갑판 중첩, 조갑판 기시부와 원위지골 사이 거리 감소, 근위부 손발톱주름 비후·도플러 혈류 증가가 진단을 지지
+* **Retronychia 초음파** : 임상적으로 불명확하거나 보존치료에 반응하지 않으면 고주파 초음파를 고려; 근위부 조갑판 중첩, 조갑판 기시부 주위 저에코성 염증, 근위부 손발톱주름 비후·도플러 혈류 증가가 진단을 지지
 * **조직검사** : 치료에 반응하지 않는 단일 만성 병변 또는 악성 종양 의심 소견이 있을 때 시행·의뢰
 
 ### <mark style="color:orange;">감별 진단</mark>
@@ -86,7 +84,7 @@ graph TD
     B --->|"Yes"| C["Herpetic whitlow 의심"]
     C ---> C1["진단 불명확 시 HSV PCR<br/>절개·배농 금기<br/>항바이러스 치료 적응증 평가"]
     B --->|"No"| D{"Kanavel signs 또는<br/>손끝바닥 긴장성 부종+박동통?"}
-    D --->|"Yes"| E["굴곡건초염 · felon 의심<br/>응급 수부외과 협진"]
+    D --->|"Yes"| E["굴곡건초염: 즉각 수부외과 협진<br/>Felon: 당일 수부외과 평가"]
     D --->|"No"| F{"악화·완화를 포함하여<br/>6주 이상 지속?"}
     F --->|"No, 급성"| G{"농양 형성?"}
     G --->|"No"| T{"연조직염·림프관염·전신증상<br/>또는 고위험군?"}
@@ -103,7 +101,7 @@ graph TD
     V --->|"Yes"| G
     V --->|"No"| W{"지속성 단일 병변 또는<br/>종괴·궤양·출혈·불규칙 색소?"}
     W --->|"Yes"| R["조기 피부과 평가<br/>조직검사·국소 원인 평가"]
-    W --->|"No"| M["자극 회피 + 장벽 회복<br/>중간강도 steroid, 2~4주 내 재평가"]
+    W --->|"No"| M["자극 회피 + 장벽 회복<br/>국소 steroid, 2~4주 내 재평가"]
     M ---> N{"호전?"}
     N --->|"No / 재발"| O["진단·자극·이차감염 재평가<br/>임상 의심 시 KOH·배양"]
     N --->|"Yes"| P["감량 · 중단"]
@@ -150,7 +148,7 @@ graph TD
 * 박리된 손발톱판은 가능한 범위에서 짧게 정리하고 물·세제 등 습윤 노출을 중단하며, 세척 후 충분히 건조
 * 초산 습포·침지는 선택적 보조요법이며, 녹색조갑증후군 자체의 표준 농도·기간과 효과를 확립한 근거는 부족함. 의료진이 농도·방법을 정한 경우에만 고려하고 자극·통증·침연이 생기면 중단; 가정용 식초를 환자가 임의로 희석·사용하지 않도록 안내
 * 지속성·중증 병변, 면역저하 환자 또는 초기 치료 실패 시 세균배양을 시행하고 감수성에 따라 국소 항녹농균제를 선택
-* 국소 gentamicin 또는 tobramycin 점안액·ciprofloxacin 점이액 등을 박리된 손발톱판 아래에 사용하는 방법이 보고되어 있으나 **off-label**이며 근거는 주로 증례보고 수준임
+* Tobramycin 등 항녹농균 항생제 단일 성분 점안액을 박리된 손발톱판 아래에 사용하는 방법이 보고됨. **국내 적응증 외 사용**이며 표준 용법은 확립되지 않았고, 근거는 주로 증례보고 수준임 <mark style="color:$info;">[Bae et al. 2014]</mark>
 
 #### <mark style="color:$primary;">농양이 있는 병변</mark>
 
@@ -174,6 +172,7 @@ graph TD
 **구강 상재균 노출이 없는 경우**
 
 * cephalexin : 500 ㎎ qid ×5\~7d <mark style="color:blue;">\[팔렉신]</mark>
+  * 위 분할용법은 피부·연조직감염 지침의 성인 용법임. 국내 팔렉신 허가사항은 성인 1일 1~4 g, 보통 500 ㎎씩 1일 2~3회이며 중증도에 따라 증량함. 임상 중증도·신기능에 맞춰 투여 간격을 정함 <mark style="color:$info;">[IDSA SSTI guideline 2014; 국내 cephalexin 허가사항]</mark>
 
 **손톱 물어뜯기·손가락 빨기 등 구강 상재균 노출이 있는 경우**
 
@@ -190,7 +189,7 @@ graph TD
   * erythromycin 내성·clindamycin 감수성 균주는 유도성 clindamycin 내성(D-test)을 확인하고 양성이면 사용하지 않음
 * TMP/SMX와 doxycycline은 연쇄알균에 대한 활성이 불확실하므로 비농성 연조직염이 동반되면 cephalexin 등 β-lactam 병용을 고려
 
-✽ 위 용량은 신기능이 정상인 성인의 일반적인 **예시 처방**임. 신·간기능, 임신·수유, 연령, 약물 알레르기, 병용약물 및 지역 내성 자료에 따라 조정함. 대개 5\~7일 후 반응을 평가하되 호전이 불충분하면 배농 적절성·내성·심부감염을 먼저 재평가하고 기간 연장을 판단함. 전신독성·빠른 진행·심부감염 또는 발열성 호중구감소증에서는 외래 경구치료만 시행하지 않고 응급 평가·정맥 항균치료 필요성을 판단함.
+✽ 위 용량은 신기능이 정상인 성인의 일반적인 **예시 처방**임. 신·간기능, 임신·수유, 연령, 약물 알레르기, 병용약물 및 지역 내성 자료에 따라 조정함. 총 투여기간은 보통 5\~7일로 시작하되, **48\~72시간 내 초기 반응을 재평가**함. 악화하면 그 전에 평가하고, 호전이 불충분하면 배농 적절성·내성·심부감염을 먼저 확인한 뒤 기간 연장을 판단함. 전신독성·빠른 진행·심부감염 또는 발열성 호중구감소증에서는 외래 경구치료만 시행하지 않고 응급 평가·정맥 항균치료 필요성을 판단함.
 
 * TMP/SMX 사용 시 신기능·고칼륨혈증 위험 및 ACE inhibitor/ARB·spironolactone·warfarin 등 병용약물을 확인
 * doxycycline은 충분한 물과 함께 복용하고 복용 후 바로 눕지 않으며, 철분·칼슘·제산제와의 간격 및 광과민에 주의; 임신·소아는 별도 평가
@@ -199,13 +198,14 @@ graph TD
 
 * 핵심 치료는 물·세제·화학물질 등 자극 노출을 차단하고 손발톱주름 장벽을 회복시키는 것
 * 손 씻기 후 보습제를 바르고, 습한 작업 시 면장갑 위에 방수장갑을 착용
-* 성인의 자극성 만성 병변에 중간 강도 국소 corticosteroid 연고를 얇게 qd\~bid로 단기간 사용하고 2\~4주 내 반응을 재평가; 호전 시 감량·중단하며, 급성 감염이 동반되면 먼저 해당 감염을 평가·치료
+* 성인의 자극성 만성 병변에 부위·중증도에 맞는 국소 corticosteroid 연고를 얇게 qd\~bid로 단기간 사용하고 2\~4주 내 반응을 재평가; 호전 시 감량·중단하며, 급성 감염이 동반되면 먼저 해당 감염을 평가·치료
   * prednicarbate 0.25% <mark style="color:blue;">\[더마톱 연고]</mark> — 국내 허가사항상 성인 4주 이상(소아 3주 이상) 연속 투여하지 않음; 1세 이하 영아 금기
 * 국소 steroid에 반응하지 않거나 반복 재발하면 진단·자극 노출 및 이차감염을 재평가한 뒤 성인에서 tacrolimus 0.1% 연고 bid ×3주를 2차 선택으로 제한적으로 고려(국내 적응증 외 사용). 단일 손발톱의 지속성·비전형적 병변은 약제를 바꾸기 전에 종양·retronychia 등 국소 원인 평가를 우선 <mark style="color:blue;">\[프로토픽 연고]</mark>
-  * 45명 대상 무작위 비맹검 비교연구에서 tacrolimus 0.1% 연고가 betamethasone 17-valerate 0.1%보다 높은 호전율을 보였으나, 소규모 단일 연구라는 한계가 있음[Rigopoulos et al. Br J Dermatol. 2009](https://doi.org/10.1111/j.1365-2133.2008.08988.x)
+  * 45명 대상 무작위 비맹검 비교연구에서 tacrolimus 0.1% 연고가 betamethasone 17-valerate 0.1%보다 높은 호전율을 보였으나, 소규모 단일 연구라는 한계가 있음 <mark style="color:$info;">[Rigopoulos et al. Br J Dermatol. 2009]</mark>
 * 일반적인 자극성 만성 손발톱주위염에서는 clobetasol 0.05%, diflucortolone valerate 0.3% 같은 고역가\~초고역가 제제를 routine 1차 치료로 사용하지 않음
   * diflucortolone valerate 0.3%는 실제 세균·진균·바이러스 감염이 확인되거나 의심되는 병변에는 국내 허가사항상 투여 금기
-* 항진균제는 일률적으로 사용하지 않음. Candida 배양 양성만으로는 집락화와 감염을 구분할 수 없으며, 임상 소견과 진균검사를 함께 판단하여 동반 칸디다증 또는 손발톱진균증이 확인된 경우에 치료함 [Tosti et al. J Am Acad Dermatol. 2002](https://pubmed.ncbi.nlm.nih.gov/12077585/)
+* 항진균제는 일률적으로 사용하지 않음. Candida 배양 양성만으로는 집락화와 감염을 구분할 수 없으며, 임상 소견과 진균검사를 함께 판단하여 동반 칸디다증 또는 손발톱진균증이 확인된 경우에 치료함 <mark style="color:$info;">[Tosti et al. J Am Acad Dermatol. 2002]</mark>
+* 2026년 97명 후향적 연구에서도 Candida 검출이 흔했으나 항미생물치료 반응은 제한적이었고, 국소 corticosteroid 기반 치료와 손 관리 병행 후 90.7%에서 호전이 관찰됨. 비무작위·순차 치료 연구여서 약제별 효과나 최적 기간을 확정할 수 없으며, 연구의 평균 치료기간 약 4개월을 국내 steroid 연속 허가기간으로 적용하지 않음 <mark style="color:$info;">[Galili et al. Dermatol Pract Concept. 2026]</mark>
 * thymol 4% 알코올 조제는 국내 표준 제형과 근거가 불명확하여 routine 처방하지 않음
 * 약물 유발이 의심되면 원인 약제를 임의로 중단하지 말고 처방 전문과와 감량·대체 가능성을 협의
 
@@ -248,7 +248,7 @@ graph TD
 > 부루펜 200 ㎎/T　통증 시 1회 2T, 1일 최대 3회, 단기간
 > ```
 >
-> _✽성인 예시. 온수 침수 10\~15분씩 하루 3\~4회, 2\~3일간 시행 후 충분히 건조. 48\~72시간 내 호전 없으면 재진. NSAID는 소화성궤양·신기능저하·탈수·항응고제 복용 여부와 임신 등을 확인하고 필요 시 acetaminophen으로 대체함._
+> _✽성인 예시. 온수 침수 10\~15분씩 하루 3\~4회, 2\~3일간 시행 후 충분히 건조. 48\~72시간 내 호전 없으면 재진. Ibuprofen은 소화성궤양 또는 그 병력, 기관지천식, 중증 신장애 및 NSAID 과민반응 등 국내 금기사항을 확인하고, 탈수·항응고제 복용·임신 여부도 평가함. 부적합하면 acetaminophen 대체를 고려함._
 
 ### <mark style="color:purple;">처방례 2. 손톱 물어뜯기 후 주변 연조직염이 동반된 경우</mark>
 
@@ -265,7 +265,7 @@ graph TD
 > 온수 침수 10~15분씩 1일 2~3회, 2~3일간
 > ```
 >
-> _✽배농 후 세척·드레싱과 단기 침수를 시행하고 24\~48시간 내 재평가한다. 단순 농양이 적절히 배농되었다면 경구항생제를 일률적으로 추가하지 않는다. 국소 mupirocin은 잔여 표재성 감염 또는 배액이 지속될 때 선택적으로 고려한다._
+> _✽배농 후 세척·드레싱과 단기 침수를 시행하고 24\~48시간 내 재평가함. 단순 농양이 적절히 배농되었다면 경구항생제를 일률적으로 추가하지 않음. 국소 mupirocin은 잔여 표재성 감염이 있을 때 선택적으로 고려하며, 배액이 지속되면 잔여 농양·배농 적절성을 우선 재평가함._
 
 ### <mark style="color:purple;">처방례 4. 만성 손발톱주위염(6주 이상, 여러 손발톱 침범)</mark>
 
@@ -329,7 +329,7 @@ graph TD
 
 * 연고는 정해진 기간만 바르십시오. 특히 스테로이드 연고를 임의로 오래 바르면 피부가 얇아질 수 있습니다.
 * 경구항생제가 처방된 경우 증상이 좋아져도 처방된 날짜까지 복용하십시오.
-* 만성 손발톱주위염은 대부분 곰팡이 감염 자체가 아니므로 항진균제가 항상 필요한 것은 아닙니다. 진균 감염이 확인되거나 의심될 때 의사의 지시에 따라 사용하십시오.
+* 만성 손발톱주위염은 대부분 곰팡이 감염 자체가 아니므로 항진균제가 항상 필요한 것은 아닙니다. 진료와 진균검사로 동반 곰팡이 감염의 치료가 필요하다고 판단한 경우에 사용하십시오.
 * 항암제·표적치료제를 사용하는 중 손발톱주위염이 생겨도 약을 임의로 중단하지 말고 처방한 의료진과 상의하십시오.
 * 물집(수포)이 여러 개 뭉쳐서 생긴 경우에는 짜거나 터뜨리지 말고 병원에 알리십시오.
 
@@ -354,3 +354,21 @@ L03.00 손가락의 연조직염 Cellulitis of finger
 L03.01 발가락의 연조직염 Cellulitis of toe
 
 ✽ 감염성 손발톱주위염에 적용하며, 만성 자극·알레르기 접촉피부염이나 약물 유발 병변은 확인된 원인·진단에 맞는 코드를 선택함.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Leggit JC. Acute and Chronic Paronychia. Am Fam Physician. 2017;96(1):44–51. [원문](https://www.aafp.org/pubs/afp/issues/2017/0701/p44.html)
+* Stevens DL, et al. Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update by the IDSA. Clin Infect Dis. 2014;59(2):e10–e52. [지침](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
+* Tosti A, et al. Topical steroids versus systemic antifungals in the treatment of chronic paronychia: An open, randomized double-blind and double dummy study. J Am Acad Dermatol. 2002;47(1):73–76. [서지](https://pubmed.ncbi.nlm.nih.gov/12077585/)
+* Rigopoulos D, et al. Efficacy and safety of tacrolimus ointment 0.1% vs. betamethasone 17-valerate 0.1% in the treatment of chronic paronychia: An unblinded randomized study. Br J Dermatol. 2009;160(4):858–860. [서지](https://pubmed.ncbi.nlm.nih.gov/19120329/)
+* Galili E, et al. Efficacy of Topical Steroidal Treatment and Hand-Care Modification in Chronic Paronychia: A Retrospective Study. Dermatol Pract Concept. 2026;16(2):6123. [원문](https://dpcj.org/index.php/dpc/article/view/6123)
+* Bae Y, et al. Green nail syndrome treated with the application of tobramycin eye drop. Ann Dermatol. 2014;26(4):514–516. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4135110/)
+* Lacouture ME, et al. Clinical practice guidelines for the prevention and treatment of EGFR inhibitor-associated dermatologic toxicities. Support Care Cancer. 2011;19:1079–1095. [지침](https://pmc.ncbi.nlm.nih.gov/articles/PMC3128700/)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 — 의약품 품목허가정보.](https://nedrug.mfds.go.kr/) — 에스로반, 팔렉신, 오구멘틴, 셉트린, 바이브라마이신, 훌그램, 더마톱, 프로토픽, 부루펜 등의 국내 적응증·용법·금기 확인. 점안액의 손발톱 도포·만성 손발톱주위염의 tacrolimus 사용 및 TMP/SMX의 피부·연조직감염 치료는 적응증 외 사용임. 확인일: 2026-10-23

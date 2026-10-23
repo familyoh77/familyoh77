@@ -13,7 +13,7 @@
 ### <mark style="color:orange;">발생 관련 최신 지견</mark>
 
 * COVID-19 감염 후 대상포진 발생 위험 증가가 관찰연구와 메타분석에서 보고됨
-* 반면 COVID-19 백신 접종 후 대상포진 위험 증가 여부는 연구 결과가 일관되지 않고 인과관계가 확립되지 않음(JAMA Netw Open 2022;5:e2242240; J Infect Dis 2023;228:1326; JAAD 2023 메타분석)
+* 반면 COVID-19 백신 접종 후 대상포진 위험 증가 여부는 연구 결과가 일관되지 않고 인과관계가 확립되지 않음. <mark style="color:$info;">[JAMA Netw Open 2022;5:e2242240; J Infect Dis 2023;228:1326–1335]</mark>
   * 이러한 관찰 결과를 COVID-19 예방접종 제한의 근거로 해석하지 않으며, 발생 시 조기 진단·치료 원칙은 동일함
 
 ### <mark style="color:orange;">합병증 위험 인자</mark>
@@ -71,7 +71,7 @@
 * 안구 통증, 충혈, 눈부심, 시력저하, 각막 이상이 있으면 전신 항바이러스제를 즉시 시작하고 당일 안과 의뢰
 * Hutchinson sign이 있으면 안구 증상이 없어도 당일 안과 평가
 * V1 발진만 있고 안구 증상·Hutchinson sign이 없어도 전신 항바이러스제를 시작하고 조기 안과 평가를 계획함
-  * 안구 합병증은 피부 발진 이후 지연되어 발생할 수 있으므로 새 눈 통증·충혈·눈부심·시력 변화 시 당일 재평가
+  * 안구 합병증은 피부 발진 이후 지연되어 발생할 수 있으므로 초기 안과검사가 정상이어도 피부 치유 후까지 안과 추적을 계획함. 새 눈 통증·충혈·눈부심·시력 변화 시 당일 재평가. <mark style="color:$info;">[NIH VZV 지침 2026]</mark>
 
 ### <mark style="color:orange;">Herpes zoster oticus 및 Ramsay Hunt syndrome</mark>
 
@@ -97,31 +97,33 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**Tier 1 - 즉각 조치 또는 의뢰**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 의식 변화, 경련, 수막자극징후, 급성 국소 신경학적 결손 또는 뇌졸중 의심
-* 호흡곤란, 저혈압, 심한 전신독성 또는 폐렴·간염 등 내장 침범 의심
-* 급격한 시력저하, 심한 안구 통증 또는 급성 망막괴사 의심
-* 새로 발생한 사지 근력저하, 보행장애, 척수병증 의심
-* 천수 대상포진에 요폐, 대소변 장애 또는 회음부 감각저하 동반
-* 중증 면역저하자에서 파종성·출혈괴사성 병변 또는 빠른 진행
+* 의식 변화, 경련, 수막자극징후, 급성 국소 신경학적 결손 또는 뇌졸중 의심  `중추신경계·뇌졸중`
+* 호흡곤란, 저혈압, 심한 전신독성 또는 폐렴·간염 등 내장 침범 의심  `내장 침범·쇼크`
+* 급격한 시력저하, 심한 안구 통증 또는 급성 망막괴사 의심  `안과 응급`
+* 새로 발생한 사지 근력저하, 보행장애, 척수병증 의심  `운동신경·척수 침범`
+* 천수 대상포진에 요폐, 대소변 장애 또는 회음부 감각저하 동반  `천수 신경계 합병증`
+* 중증 면역저하자에서 파종성·출혈괴사성 병변 또는 빠른 진행  `중증 면역저하`
 
-<mark style="color:$warning;">**Tier 2 - 당일 평가 및 필요시 의뢰**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* V1 분포 발진과 안구 통증·충혈·눈부심·시력 변화·각막 이상 또는 Hutchinson sign
-* 이개·외이도 수포와 안면마비, 청력저하 또는 현훈(Ramsay Hunt syndrome 의심)
-* 면역저하자의 대상포진 또는 다분절·파종성 대상포진 — 당일 중증도·입원 필요성 평가 및 감염내과 등 협진
-* 경구약으로 조절되지 않는 심한 통증, 광범위 발진 또는 출혈괴사성 병변
-* 임신 중 중증·파종성 대상포진 또는 산과적 고위험 상태
+아래 항목은 **당일 평가·협진**함; 눈·귀·신경계 침범 또는 중증 감염이 의심되면 치료를 지연하지 않음.
 
-<mark style="color:$info;">**Tier 3 - 조기 평가 및 외래 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+* V1 분포 발진과 안구 통증·충혈·눈부심·시력 변화·각막 이상 또는 Hutchinson sign  `안구 침범 위험`
+* 이개·외이도 수포와 안면마비, 청력저하 또는 현훈(Ramsay Hunt syndrome 의심)  `Ramsay Hunt 의심`
+* 면역저하자의 대상포진 또는 다분절·파종성 대상포진 — 당일 중증도·입원 필요성 평가 및 감염내과 등 협진  `면역저하·파종`
+* 경구약으로 조절되지 않는 심한 통증, 광범위 발진 또는 출혈괴사성 병변  `중증 통증·발진`
+* 임신 중 중증·파종성 대상포진 또는 산과적 고위험 상태  `임신 고위험`
 
-* V1 발진만 있고 안구 증상·Hutchinson sign이 없는 경우 — 조기 안과 평가 및 증상 변화 시 당일 평가
-* 진단이 불확실하거나 반복 재발하여 HSV 등 감별이 필요한 경우; 생식기·둔부 병변에서 특히 주의
-* 발진 초기 3\~5일의 새 수포는 자연 경과일 수 있으나, 치료 중 병변이 계속 확대되거나 발진 발생 7일 이후에도 새 수포가 출현하면 조기 재평가
-* 적절한 치료에도 호전이 없거나 국소 2차 세균감염이 의심됨; 빠른 악화·확대되는 홍반·발열·전신 증상이 있으면 당일 평가로 상향
-* 발진 발생 4주 이후에도 중등도 이상의 신경병성 통증이 지속됨
-* 1차 PHN 치료에 반응하지 않거나 약물 부작용으로 치료가 어려움
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* V1 발진만 있고 안구 증상·Hutchinson sign이 없는 경우 — 조기 안과 평가 및 증상 변화 시 당일 평가  `V1 침범`
+* 진단이 불확실하거나 반복 재발하여 HSV 등 감별이 필요한 경우; 생식기·둔부 병변에서 특히 주의  `감별 진단`
+* 발진 초기 3\~5일의 새 수포는 자연 경과일 수 있으나, 치료 중 병변이 계속 확대되거나 발진 발생 7일 이후에도 새 수포가 출현하면 조기 재평가  `치료 반응 불량`
+* 적절한 치료에도 호전이 없거나 국소 2차 세균감염이 의심됨; 빠른 악화·확대되는 홍반·발열·전신 증상이 있으면 당일 평가로 상향  `2차 세균감염`
+* 발진 발생 4주 이후에도 중등도 이상의 신경병성 통증이 지속됨  `지속성 통증`
+* 1차 PHN 치료에 반응하지 않거나 약물 부작용으로 치료가 어려움  `PHN 치료 조정`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -150,11 +152,11 @@
 
 ```mermaid
 flowchart TD
-    A["대상포진 의심"] ---> B{"Tier 1 Red Flag?"}
+    A["대상포진 의심"] ---> B{"Red Flags의 즉각 조치 항목?"}
     B --->|예| C["즉각 응급평가·입원 여부 결정"]
     B --->|아니오| D{"전형적 발진 또는 진단 근거 충분?"}
     D --->|아니오| E["감별 진단·필요시 PCR·조기 재평가"]
-    D --->|예| F{"Tier 2 당일 평가 항목?"}
+    D --->|예| F{"Red Flags의 당일 평가가 필요한 항목?"}
     F --->|예| G["즉시 전신 항바이러스제 + 당일 평가·협진"]
     F --->|아니오| H["경구 항바이러스제 적응증·시점 판단 + 통증 치료"]
     H ---> I["피부·통증 추적; V1 발진이면 조기 안과 평가"]
@@ -204,7 +206,7 @@ flowchart TD
 * 합병증이 없고 모든 병변이 가피화된 젊은 면역정상자가 발진 7일 이후 내원한 경우 기대 이득은 제한적
 * 항바이러스제는 급성 통증과 새 병변 발생·치유 기간을 줄이지만 PHN 발생을 확실히 예방하지는 못함
 
-<table><thead><tr><th width="170">성분명 [상품명]</th><th width="200">성인 예시 용법</th><th>주요 주의사항</th></tr></thead><tbody><tr><td><strong>acyclovir</strong><br><mark style="color:blue;">\[메노바 등]</mark></td><td>800 ㎎ 1일 5회 × 7\~10일</td><td>신기능에 따라 감량, 충분한 수분섭취<br>두통, 구역, 신독성·신경독성</td></tr><tr><td><strong>valacyclovir</strong><br><mark style="color:blue;">\[발트렉스 등]</mark></td><td>1 g tid × 7일</td><td>신기능에 따라 감량<br>두통, 구역, 복통, 드물게 신경독성</td></tr><tr><td><strong>famciclovir</strong><br><mark style="color:blue;">\[팜비어 등]</mark></td><td><strong>국내 허가 기준 : 250 ㎎ tid × 7일</strong></td><td>신기능에 따라 감량<br>해외 문헌의 500 ㎎ tid는 국내 일반 성인 허가 용량과 다름</td></tr><tr><td><strong>IV acyclovir</strong><br><mark style="color:blue;">\[에크로바주 등]</mark></td><td>10 ㎎/㎏ IV q8h<br>치료 기간은 침범 장기·면역상태·반응에 따라 결정</td><td>중증 면역저하, 파종성·내장 또는 중증 신경계 합병증<br>신기능에 따라 용량·간격 조절, bolus 투여 금지<br>적절한 수분상태를 유지하고 최소 1시간 이상 점적</td></tr></tbody></table>
+<table><thead><tr><th width="170">성분명 [상품명]</th><th width="200">성인 예시 용법</th><th>주요 주의사항</th></tr></thead><tbody><tr><td><strong>acyclovir</strong><br><mark style="color:blue;">\[메노바 등]</mark></td><td>800 ㎎ 1일 5회 × 7일<br>(메노바 국내 허가; 취침시간 제외 약 4시간 간격)</td><td>신기능에 따라 감량, 충분한 수분섭취<br>두통, 구역, 신독성·신경독성</td></tr><tr><td><strong>valacyclovir</strong><br><mark style="color:blue;">\[발트렉스 등]</mark></td><td>1 g tid × 7일</td><td>신기능에 따라 감량<br>두통, 구역, 복통, 드물게 신경독성</td></tr><tr><td><strong>famciclovir</strong><br><mark style="color:blue;">\[팜비어 등]</mark></td><td><strong>국내 허가 기준 : 250 ㎎ tid × 7일</strong></td><td>신기능에 따라 감량<br>해외 문헌의 500 ㎎ tid는 국내 일반 성인 허가 용량과 다름</td></tr><tr><td><strong>IV acyclovir</strong><br><mark style="color:blue;">\[에크로바주 등]</mark></td><td>10 ㎎/㎏ IV q8h<br>치료 기간은 침범 장기·면역상태·반응에 따라 결정</td><td>중증 면역저하, 파종성·내장 또는 중증 신경계 합병증<br>신기능에 따라 용량·간격 조절, bolus 투여 금지<br>적절한 수분상태를 유지하고 최소 1시간 이상 점적</td></tr></tbody></table>
 
 * 파종성·내장 침범에서는 IV acyclovir로 시작하고 새 수포 발생이 멎고 임상적으로 호전되면 경구제로 전환할 수 있음; 총 10\~14일을 예로 들 수 있으나 CNS·망막 침범이나 지속성 면역저하에서는 더 긴 치료 등 전문의 결정이 필요함
 * 면역저하자라도 경증 국소 병변이고 경구 투여·면밀한 추적이 가능하면 경구 치료를 선택할 수 있음; 면역저하라는 이유만으로 IV 요법을 일률 적용하지 않음
@@ -244,7 +246,8 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
 * ZEDS 2025 : 최근 1년 내 각막염 또는 홍채염이 확인된 면역정상·비임신 성인 HZO 환자(eGFR ≥45 mL/min/1.73 ㎡)에서 valacyclovir 1 g qd를 12개월 투여함
   * 12개월 일차 평가변수는 통계적으로 유의하지 않았으나, 18개월 이차 평가 및 각막염·홍채염의 반복 악화에서 이득이 관찰됨
   * 재발성·지속성 안구 염증 환자에서 안과의사가 고려할 수 있는 **국내 허가 외 용법**임; 단순 V1 피부 발진이나 일반 PHN 예방에 일률 적용하지 않음
-  * 급성기 1 g tid ×7일 요법과 구분하며, 신기능·부작용을 추적함 [JAMA Ophthalmol 2025;143:269–276](https://doi.org/10.1001/jamaophthalmol.2024.6114)
+  * 급성기 1 g tid ×7일 요법과 구분하며, 신기능·부작용을 추적함. <mark style="color:$info;">[JAMA Ophthalmol 2025;143:269–276]</mark>
+* NIH 2026 HIV 기회감염 지침은 HZO 관련 각막염·포도막염의 신생·악화 억제를 위해 valacyclovir 1 g qd ×12개월을 권고함(AII). 면역정상자 시험 결과를 HIV 감염인에게 외삽한 권고이므로 HIV 환자의 직접 무작위시험 근거와 구분하며, 국내에서는 허가 외 용법으로 안과·감염내과 협진하 적용함. <mark style="color:$info;">[NIH VZV 지침 2026]</mark>
 
 ### <mark style="color:orange;">국소 항바이러스제와 스테로이드</mark>
 
@@ -259,10 +262,12 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
 
 * 경증 통증
   * acetaminophen 500\~1,000 ㎎ q6\~8h 필요시 <mark style="color:blue;">\[타이레놀]</mark>
-  * 일반 성인 최대 4,000 ㎎/day를 넘지 않으며 다른 복합제의 함량도 합산함; 서방제는 해당 제품의 최대용량·투여 간격을 따름. 고령·쇠약·저체중·간질환·과음 위험에서는 3,000 ㎎/day 이하 등 더 낮은 한도를 개별 결정
+  * 일반적으로 최대 3,000 ㎎/day를 사용하고, 정상 성인의 허가상 최대 4,000 ㎎/day를 넘지 않음. 다른 복합제의 함량도 합산함; 서방제는 해당 제품의 최대용량·투여 간격을 따름. 고령·쇠약·저체중·간질환·과음 위험에서는 더 낮은 한도를 개별 결정
+  * 국내 타이레놀 허가사항상 TCA(amitriptyline·nortriptyline 등)·바르비탈계 약물 복용자는 금기임; 급성 통증 치료 중 PHN 약제로 전환할 때도 확인함. <mark style="color:$info;">[국내 타이레놀 허가사항]</mark>
 * NSAID가 적합한 환자
   * ibuprofen 200\~400 ㎎ tid 필요시 <mark style="color:blue;">\[부루펜]</mark> - 가능한 최저 유효용량으로 단기간 사용
-  * 신장질환, 심혈관질환, 소화성궤양, 항응고제 복용 또는 고령자에서 주의
+  * 국내 부루펜 금기 : 위장관궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, aspirin/NSAID 과민반응 병력, 심한 신장·간·심장기능장애·고혈압, 임신 말기 3개월 등
+  * 임신 20주 이후에는 태아 신기능장애·양수과소증 위험으로 가급적 피함. 탈수·신장질환, 심혈관질환, 항응고제 복용 또는 고령자에서는 대체 약제를 우선 고려하고 NSAID 2종을 병용하지 않음. <mark style="color:$info;">[국내 부루펜 허가사항]</mark>
 * 중등도\~중증의 신경병성 통증은 gabapentinoid 또는 저용량 TCA를 조기에 고려할 수 있으나 PHN 예방 효과가 입증된 것은 아님
 * 피부 관리 : 냉습포, calamine <mark style="color:blue;">\[칼라민]</mark>, aluminum acetate 습포 또는 colloidal oatmeal bath
   * 수포를 터뜨리거나 병변에 붙는 폐쇄성 드레싱을 사용하지 않음
@@ -282,16 +287,18 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
 * 여러 진정성 약제를 동시에 시작하지 않음
 * Gabapentin과 pregabalin을 일상적으로 병용하지 않음; 중단 시 최소 1주 이상에 걸쳐 감량하며 장기·고용량 투여 시 더 천천히 감량할 수 있음
 * Gabapentinoid와 opioid·benzodiazepine 등 중추신경억제제를 병용하면 호흡억제 위험이 증가하므로 고령·호흡기질환 환자는 특히 주의
-* TCA의 신경병성 통증 치료는 국내 허가 외 사용임; 부정맥·QT 연장 위험, 녹내장·요폐 및 항콜린 부작용을 확인
+* TCA의 신경병성 통증 치료는 국내 허가 외 사용임; 부정맥·QT 연장 위험, 녹내장·요폐 및 항콜린 부작용을 확인. 국내 acetaminophen 제품의 TCA 병용 금기에도 유의하며 tramadol 병용 시 세로토닌증후군·경련 위험이 증가함
 
-<table><thead><tr><th width="150">약제</th><th width="230">시작 및 증량 예시</th><th>주요 주의사항</th></tr></thead><tbody><tr><td><strong>lidocaine patch</strong><br><mark style="color:blue;">\[리도탑 카타플라스마]</mark></td><td>통증 부위의 손상되지 않은 피부에 1\~3매<br>최대 12시간 부착 후 12시간 휴약</td><td>열린 상처·활성 수포 위에 부착하지 않음<br>국소 피부반응</td></tr><tr><td><strong>gabapentin</strong><br><mark style="color:blue;">\[뉴론틴 등]</mark></td><td>300 ㎎ hs → 300 ㎎ bid → 300 ㎎ tid<br>고령자는 100\~300 ㎎ hs부터 더 천천히 증량<br>통상 900\~1,800 ㎎/day, 필요시 최대 3,600 ㎎/day</td><td>신기능에 따른 감량 필수<br>졸림, 어지럼, 부종, 낙상</td></tr><tr><td><strong>pregabalin</strong><br><mark style="color:blue;">\[리리카 등]</mark></td><td>75 ㎎ bid 또는 50 ㎎ tid로 시작<br>반응·내약성에 따라 150\~300 ㎎/day<br>정상 신기능에서 최대 600 ㎎/day</td><td>신기능에 따른 감량 필수<br>졸림, 어지럼, 부종, 체중증가</td></tr><tr><td><strong>amitriptyline</strong><br><mark style="color:blue;">\[에트라빌]</mark></td><td>10\~25 ㎎ hs로 시작<br>1\~2주 간격으로 서서히 증량</td><td>항콜린작용, 기립저혈압, 진정, QT 연장<br>고령자는 가능한 한 회피하거나 매우 저용량 사용</td></tr><tr><td><strong>nortriptyline</strong><br><mark style="color:blue;">\[센시발]</mark></td><td>10\~25 ㎎ hs로 시작<br>1\~2주 간격으로 서서히 증량</td><td>amitriptyline보다 항콜린·진정 작용이 상대적으로 적지만 고령자 주의</td></tr><tr><td><strong>capsaicin 0.075% cream</strong><br><mark style="color:blue;">\[다이악센]</mark></td><td>소량 1일 3\~4회(4시간 이상 간격)<br>수 주간 규칙적으로 사용</td><td>초기 작열감·발적, 점막·손상 피부 회피<br>도포 후 손 씻기, 가열·온수욕 회피<br>처방 전 제품·공급 여부 확인</td></tr><tr><td><strong>tramadol ± acetaminophen</strong><br><mark style="color:blue;">\[울트라셋 등]</mark></td><td>다른 치료가 불충분한 중증 통증의 단기 구조요법</td><td>진정, 낙상, 변비, 의존성, 경련, 세로토닌증후군<br>신·간기능 및 병용약물 확인</td></tr></tbody></table>
+<table><thead><tr><th width="150">약제</th><th width="230">시작 및 증량 예시</th><th>주요 주의사항</th></tr></thead><tbody><tr><td><strong>lidocaine patch</strong><br><mark style="color:blue;">\[리도탑 카타플라스마]</mark></td><td>통증 부위의 손상되지 않은 피부에 1\~3매<br>최대 12시간 부착 후 12시간 휴약</td><td>열린 상처·활성 수포 위에 부착하지 않음<br>찜질팩·전기장판 등 외부 열원 회피<br>국소 피부반응</td></tr><tr><td><strong>gabapentin</strong><br><mark style="color:blue;">\[뉴론틴 등]</mark></td><td>300 ㎎ hs → 300 ㎎ bid → 300 ㎎ tid<br>고령자는 100\~300 ㎎ hs부터 더 천천히 증량<br>통상 900\~1,800 ㎎/day, 필요시 최대 3,600 ㎎/day</td><td>신기능에 따른 감량 필수<br>졸림, 어지럼, 부종, 낙상</td></tr><tr><td><strong>pregabalin</strong><br><mark style="color:blue;">\[리리카 등]</mark></td><td>75 ㎎ bid 또는 50 ㎎ tid로 시작<br>반응·내약성에 따라 150\~300 ㎎/day<br>정상 신기능에서 최대 600 ㎎/day</td><td>신기능에 따른 감량 필수<br>졸림, 어지럼, 부종, 체중증가</td></tr><tr><td><strong>amitriptyline</strong><br><mark style="color:blue;">\[에트라빌]</mark></td><td>10\~25 ㎎ hs로 시작<br>1\~2주 간격으로 서서히 증량</td><td>항콜린작용, 기립저혈압, 진정, QT 연장<br>고령자는 가능한 한 회피하거나 매우 저용량 사용</td></tr><tr><td><strong>nortriptyline</strong><br><mark style="color:blue;">\[센시발]</mark></td><td>10\~25 ㎎ hs로 시작<br>1\~2주 간격으로 서서히 증량</td><td>amitriptyline보다 항콜린·진정 작용이 상대적으로 적지만 고령자 주의</td></tr><tr><td><strong>capsaicin 0.075% cream</strong><br><mark style="color:blue;">\[다이악센]</mark></td><td>소량 1일 3\~4회(4시간 이상 간격)<br>수 주간 규칙적으로 사용</td><td>초기 작열감·발적, 점막·손상 피부 회피<br>피부 상처가 치유된 뒤 사용<br>도포 후 손 씻기, 가열·온수욕·붕대 밀폐 회피</td></tr><tr><td><strong>tramadol ± acetaminophen</strong><br><mark style="color:blue;">\[울트라셋 등]</mark></td><td>다른 치료가 불충분한 중증 통증의 단기 구조요법</td><td>진정, 낙상, 변비, 의존성, 경련, 세로토닌증후군<br>신·간기능 및 병용약물 확인</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Gabapentinoid 신기능 조절</mark>
 
-<table><thead><tr><th width="140">약제</th><th width="125">CrCl (mL/min)</th><th>성인 1일 총량 및 분할 예시</th></tr></thead><tbody><tr><td rowspan="5"><strong>gabapentin</strong></td><td>≥60</td><td>900\~3,600 ㎎/day, tid</td></tr><tr><td>30\~59</td><td>400\~1,400 ㎎/day, bid</td></tr><tr><td>&gt;15\~29</td><td>200\~700 ㎎ qd</td></tr><tr><td>15</td><td>100\~300 ㎎ qd</td></tr><tr><td>&lt;15</td><td>CrCl 15의 용량을 청소율에 비례하여 추가 감량</td></tr><tr><td rowspan="4"><strong>pregabalin</strong></td><td>≥60</td><td>시작 150 ㎎/day, bid 또는 tid</td></tr><tr><td>30\~59</td><td>시작 75 ㎎/day, bid 또는 tid</td></tr><tr><td>15\~29</td><td>시작 25\~50 ㎎/day, qd 또는 bid</td></tr><tr><td>&lt;15</td><td>시작 25 ㎎ qd</td></tr></tbody></table>
+<table><thead><tr><th width="140">약제</th><th width="125">CrCl (mL/min)</th><th>성인 용량 요약</th></tr></thead><tbody><tr><td rowspan="5"><strong>gabapentin</strong><br>(국내 뉴론틴 허가사항의 신장애 표)</td><td>≥80</td><td>900\~2,400 ㎎/day, tid</td></tr><tr><td>50 이상 80 미만</td><td>600\~1,800 ㎎/day, tid</td></tr><tr><td>30 이상 50 미만</td><td>300\~900 ㎎/day, tid</td></tr><tr><td>15 이상 30 미만</td><td>평균 150\~600 ㎎/day; 150 ㎎/day는 100 ㎎ tid를 격일 투여하는 방식</td></tr><tr><td>15 미만</td><td>평균 150\~300 ㎎/day에서 CrCl에 비례해 추가 감량; 투여일·횟수 개별 조정</td></tr><tr><td rowspan="4"><strong>pregabalin</strong></td><td>≥60</td><td>시작 150 ㎎/day, bid 또는 tid</td></tr><tr><td>30 이상 60 미만</td><td>시작 75 ㎎/day, bid 또는 tid</td></tr><tr><td>15 이상 30 미만</td><td>시작 25\~50 ㎎/day, qd 또는 bid</td></tr><tr><td>15 미만</td><td>시작 25 ㎎ qd</td></tr></tbody></table>
 
-* Gabapentin 표는 증량 후 1일 총량 범위이며 시작용량을 뜻하지 않음; 고령·쇠약 환자는 더 낮게 시작할 수 있으며 효과·진정·어지럼·낙상 위험을 보면서 서서히 증량
-* 혈액투석 환자는 유지용량 외에 투석 후 보충용량이 필요하므로 제품설명서 또는 약제부 확인
+* Gabapentin 표는 국내 허가사항의 일반 신장애 용량표이며, 시작용량을 뜻하지 않음. 같은 허가사항의 신경병증성 통증 항목은 정상 신기능 성인에서 최대 3,600 ㎎/day를 별도로 명시함; 통상 900\~1,800 ㎎/day부터 반응·내약성을 평가함. 고령·쇠약 환자는 더 낮게 시작하고 서서히 증량함
+* 국내 뉴론틴 표는 1일 총량의 tid 분할을 기본으로 하며, 평균 150 ㎎/day는 100 ㎎ tid 격일 투여를 뜻함. 150 ㎎을 매일 한 번 복용하는 용법으로 바꾸어 읽지 않음
+* Gabapentin 혈액투석 : 국내 뉴론틴 허가 예시는 초회 300\~400 ㎎, 이후 4시간 투석 직후 200\~300 ㎎이며 비투석일에는 투여하지 않음. Pregabalin은 신기능별 유지용량 외에 투석 후 보충용량을 적용함. 잔여 신기능·투석 조건에 따른 최종 용량은 약제부·전문의와 결정함
+* Pregabalin 행은 시작용량만 표시함; 증량 시에도 해당 신기능 구간의 최대용량을 적용함. <mark style="color:$info;">[국내 뉴론틴·리리카 허가사항]</mark>
 
 {% hint style="info" %}
 급성 대상포진에서 amitriptyline 또는 gabapentinoid를 예방적으로 투여하여 PHN을 감소시킨다는 근거는 확립되지 않았으므로 일상적인 PHN 예방 목적으로 사용하지 않습니다. 다만 급성 신경병성 통증 자체의 치료 목적으로는 환자별로 고려할 수 있습니다.
@@ -308,7 +315,7 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
   * 경막외·척추주위·늑간신경차단 등 : 선별적 사용(조건부 권고), 시술별 근거수준은 낮음\~매우 낮음
   * 약물치료에 박동성 고주파술(pulsed radiofrequency)을 추가 : 강한 권고, 근거수준 낮음
   * 신경차단·박동성 고주파술 등에도 불응하면 척수자극술을 전문의가 선별적으로 고려
-* 시술은 출혈·감염·신경손상 및 흉부 시술의 기흉 위험, 항응고제 복용 여부와 환자 선호를 평가하여 결정 [Korean J Pain 2026;39:171–190](https://doi.org/10.3344/kjp.25161)
+* 시술은 출혈·감염·신경손상 및 흉부 시술의 기흉 위험, 항응고제 복용 여부와 환자 선호를 평가하여 결정 <mark style="color:$info;">[Korean J Pain 2026;39:171–190]</mark>
 
 ## <mark style="color:green;">예방접종</mark>
 
@@ -317,7 +324,7 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
 * 대상포진 과거력이 있어도 접종 가능; 면역정상 50세 이상 성인은 수두 과거력이 기억나지 않아도 접종 전 항체검사가 일반적으로 필요하지 않음
 * 수두 감수성(VZV 면역 없음)이 확인되면 수두 예방을 별도로 평가함; **RZV는 수두 백신을 대체하지 못함**
 * 젊은 면역저하자에서 수두·수두 백신·대상포진의 기록이 없으면 병력·접종 기록과 필요시 혈청검사로 VZV 면역 여부를 평가
-* 대한감염학회 2023 권고
+* 대한감염학회 2023 대상포진 권고
   * **RZV** <mark style="color:blue;">\[싱그릭스]</mark> : 50세 이상 성인에게 권고
   * **RZV** <mark style="color:blue;">\[싱그릭스]</mark> : 대상포진 위험이 증가한 18세 이상 중증 면역저하자에게 권고
   * 0.5 ㎖ IM 2회, 2\~6개월 간격; 최소 간격 4주
@@ -326,6 +333,7 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
   * RZV는 생백신이 아니므로 acyclovir·valacyclovir·famciclovir 복용 중에도 접종 가능
 * **ZVL** <mark style="color:blue;">\[스카이조스터]</mark> : 국내에서 50세 이상 성인에게 1회 SC 접종할 수 있으나 예방효과와 지속성, 면역저하자 사용 가능성을 고려하면 RZV가 우선 선호됨
   * 생백신이므로 임신부 및 중증 면역저하자에게 금기
+  * Acyclovir·valacyclovir·famciclovir는 생백신의 효과를 낮출 수 있으므로 가능하면 접종 24시간 전부터 접종 후 14일까지 피함; 치료상 필수이면 접종 시기를 조정함(☞ [수두](179_-varicella.md))
   * 조스타박스는 국내 공급이 중단됨
 
 * ZVL 기접종자도 RZV 2회 접종 가능
@@ -335,7 +343,8 @@ brivudine 종료 후 최소 4주가 지난 뒤 fluoropyrimidine 또는 flucytosi
 
 ### <mark style="color:orange;">효과와 접종 후 안내</mark>
 
-* RZV는 임상시험에서 50세 이상 대상포진 예방효과가 90% 이상이었으며 10년 장기 추적자료가 보고됨
+* RZV는 초기 임상시험에서 면역정상 50세 이상 대상포진 예방효과가 90% 이상이었음
+* ZOE-LTFU 최종 분석(2025) : 접종 후 11년까지 추적하였으며, 장기 추적기간(대략 접종 후 6\~11년)의 예방효과는 50세 이상에서 79.8%, 11년차 예방효과는 82.0%였음. 장기 추적은 역사적 대조군을 사용했으며, 초기 무작위시험의 90% 이상 효과가 11년 내내 유지된다는 뜻은 아님. <mark style="color:$info;">[eClinicalMedicine 2025;83:103241]</mark>
 * ZVL은 연령 증가 및 시간 경과에 따라 예방효과가 감소
 * RZV는 주사부위 통증, 발적, 근육통, 피로, 두통, 오한, 발열 등 반응원성이 비교적 흔함
   * 1차 접종 후 반응이 있었더라도 금기가 아니라면 예정대로 2차 접종을 완료
@@ -392,10 +401,11 @@ G53.0\* 대상포진후신경통 Postzoster neuralgia (B02.2†)
 >
 > ```
 > 팜비어 250 ㎎/T　3T　#3　×7일
-> 타이레놀이알 650 ㎎/T　3T　#3　필요시
+> 타이레놀 500 ㎎/T　1~2T q6~8h 필요시 ×3일
+> ※ 일반적으로 최대 3,000 ㎎/day; 복합제 함량 합산
 > ```
 >
-> _✽ Famciclovir 250 ㎎ tid는 국내 허가 기준입니다. 발진 발생 72시간 이내 시작을 원칙으로 하며, 신기능에 따라 감량합니다._
+> _✽ Famciclovir 250 ㎎ tid는 국내 허가 기준입니다. 발진 발생 72시간 이내 시작을 원칙으로 하며, 신기능에 따라 감량합니다. 진통제는 속방형 예시이며, 타이레놀8시간이알서방정 650 ㎎을 사용할 때의 국내 허가 용법은 1회 2정, 최소 8시간 간격, 24시간 최대 6정입니다._
 
 > **처방례 2.** Valacyclovir를 선택한 급성 대상포진
 >
@@ -404,7 +414,7 @@ G53.0\* 대상포진후신경통 Postzoster neuralgia (B02.2†)
 > 부루펜 200 ㎎/T　3T　#3　필요시, 단기간
 > ```
 >
-> _✽ 발트렉스 500 ㎎은 1회 2정씩 1일 3회 복용합니다. 부루펜은 신장·심혈관·위장관 위험이 낮은 환자에서 최저 유효용량으로 단기간 사용합니다. 덱시부프로펜 서방제(맥시부펜이알)는 일반정의 tid 용법과 혼용하지 않습니다._
+> _✽ 발트렉스 500 ㎎은 1회 2정씩 1일 3회 복용합니다. 부루펜은 위장관궤양·출혈 병력, 기관지천식 병력 등 국내 금기가 없고 신장·심혈관·위장관 위험이 낮은 환자에서 최저 유효용량으로 단기간 사용합니다. 덱시부프로펜 서방제(맥시부펜이알)는 일반정의 tid 용법과 혼용하지 않습니다._
 
 > **처방례 3.** 국소 이질통이 동반된 PHN
 >
@@ -413,7 +423,7 @@ G53.0\* 대상포진후신경통 Postzoster neuralgia (B02.2†)
 > 리도탑 카타플라스마 5매/P　통증 부위에 1일 최대 3매, 12시간 부착 후 12시간 휴약
 > ```
 >
-> _✽ Amitriptyline의 PHN 치료는 국내 허가 외 사용입니다. 고령·쇠약 환자에서는 lidocaine 단독 또는 신기능에 맞춘 저용량 gabapentinoid를 우선 고려하며, TCA 사용 시 항콜린·기립저혈압·부정맥 위험을 평가합니다._
+> _✽ Amitriptyline의 PHN 치료는 국내 허가 외 사용입니다. 고령·쇠약 환자에서는 lidocaine 단독 또는 신기능에 맞춘 저용량 gabapentinoid를 우선 고려하며, TCA 사용 시 항콜린·기립저혈압·부정맥 위험을 평가합니다. 국내 타이레놀 허가사항상 TCA 병용은 금기이므로 처방례 1의 acetaminophen을 그대로 추가하지 않습니다._
 
 > **처방례 4.** 정상 신기능 성인의 PHN
 >
@@ -490,25 +500,29 @@ G53.0\* 대상포진후신경통 Postzoster neuralgia (B02.2†)
 #### <mark style="color:$primary;">예방접종이 권고됩니다</mark>
 
 * 대상포진을 앓은 적이 있어도 다시 생길 수 있으므로, 급성기가 지난 뒤 대상포진 예방접종을 상담하십시오.
-* 50세 이상 성인에게는 대상포진 예방접종이 권고되므로 의료진과 접종을 상담하십시오.
+* 50세 이상 성인, 질환·치료로 대상포진 위험이 높은 18세 이상 면역저하자는 의료진과 재조합 대상포진 백신 접종을 상담하십시오.
 
 ***
 
-### <mark style="color:$info;">주요 참고 자료</mark>
+### <mark style="color:$info;">주요 참고문헌 및 확인 자료</mark>
 
-* [CDC. Clinical Overview of Shingles](https://www.cdc.gov/shingles/hcp/clinical-overview/index.html)
-* [CDC. Laboratory Testing for VZV](https://www.cdc.gov/chickenpox/php/laboratories/index.html)
-* [CDC. Isolation Precautions, Appendix A](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html)
+#### ① 임상 근거
+
+* [CDC. Clinical Overview of Shingles](https://www.cdc.gov/shingles/hcp/clinical-overview/index.html), [Laboratory Testing for VZV](https://www.cdc.gov/chickenpox/php/laboratories/index.html), [Isolation Precautions, Appendix A](https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html)
 * [NHS Ayrshire & Arran. Varicella zoster virus infections](https://aaamedicines.org.uk/guidelines/infections-secondary-care/varicella-zoster-virus-infections/)
-* [대한감염학회. Recommendations for Adult Immunization, 2023](https://doi.org/10.3947/ic.2023.0072) (Infect Chemother 2024;56:188–203)
-* [CDC. Shingles Vaccine Recommendations](https://www.cdc.gov/shingles/hcp/vaccine-considerations/index.html)
-* [CDC. Shingrix Use in Immunocompromised Adults](https://www.cdc.gov/shingles/hcp/vaccine-considerations/immunocompromised-adults.html)
-* [동화약품. 클로비어정 제품정보·국내 famciclovir 용법](https://m.dong-wha.co.kr/product/content.asp?t_d=07&t_idx=320&t_page=2)
-* [한미약품. 맥시부펜ER정 제품정보](https://hanmi.co.kr/business/product/finder/detail-402.hm)
-* [동화약품. 에트라빌정 제품정보](https://m.dong-wha.co.kr/product/content.asp?t_d=07&t_idx=55&t_page=1)
-* [Pfizer. Neurontin prescribing information](https://labeling.pfizer.com/ShowLabeling.aspx?id=630) (gabapentin 신기능별 용량 및 안전성 참고)
-* [NIH. VZV Disease: Adult and Adolescent OIs](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/varicella-zoster) (면역저하·파종성 대상포진 치료 참고)
-* [UKTIS. Aciclovir/Valaciclovir in Pregnancy](https://uktis.org/monographs/use-of-aciclovir-in-pregnancy/)
-* [Pfizer. Lyrica prescribing information](https://labeling.pfizer.com/ShowLabeling.aspx?id=561) (pregabalin 신기능별 용량 및 안전성 참고)
-* [ZEDS. Low-Dose Valacyclovir in HZO](https://doi.org/10.1001/jamaophthalmol.2024.6114) (JAMA Ophthalmol 2025;143:269–276)
-* [대한통증학회. Clinical practice guidelines for the management of refractory PHN](https://doi.org/10.3344/kjp.25161) (Korean J Pain 2026;39:171–190)
+* [대한감염학회. Recommendations for Adult Immunization, 2023](https://doi.org/10.3947/ic.2023.0072). Infect Chemother. 2024;56:188–203
+* [대한감염학회. 2026 성인예방접종 개정안](https://www.ksid.or.kr/content/info/vaccine_rule_2026.php) — 개정 대상 백신 확인
+* [CDC. Shingles Vaccine Recommendations](https://www.cdc.gov/shingles/hcp/vaccine-considerations/index.html), [Shingrix Use in Immunocompromised Adults](https://www.cdc.gov/shingles/hcp/vaccine-considerations/immunocompromised-adults.html)
+* [NIH. VZV Disease: Adult and Adolescent OIs (2026)](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/varicella-zoster) — 면역저하·파종성 감염 및 HIV 감염인의 HZO 억제요법
+* [UKTIS. Use of Aciclovir/Valaciclovir in Pregnancy](https://uktis.org/monographs/use-of-aciclovir-in-pregnancy/)
+* [Cohen EJ, et al. Low-Dose Valacyclovir in Herpes Zoster Ophthalmicus: The Zoster Eye Disease Randomized Clinical Trial](https://doi.org/10.1001/jamaophthalmol.2024.6114). JAMA Ophthalmol. 2025;143:269–276
+* [Kang HY, et al. Clinical practice guidelines for the management of refractory postherpetic neuralgia by the Korean Pain Society](https://doi.org/10.3344/kjp.25161). Korean J Pain. 2026;39:171–190
+* [Strezova A, et al. Final analysis of the ZOE-LTFU trial to 11 years post-vaccination](https://doi.org/10.1016/j.eclinm.2025.103241). eClinicalMedicine. 2025;83:103241
+* [Akpandak I, et al. Assessment of Herpes Zoster Risk Among Recipients of COVID-19 Vaccine](https://doi.org/10.1001/jamanetworkopen.2022.42240). JAMA Netw Open. 2022;5:e2242240
+* [Yoon JG, et al. Herpes Zoster Reactivation After mRNA and Adenovirus-Vectored Coronavirus Disease 2019 Vaccination](https://doi.org/10.1093/infdis/jiad297). J Infect Dis. 2023;228:1326–1335
+* [Taquet M, et al. The recombinant shingles vaccine is associated with lower risk of dementia](https://doi.org/10.1038/s41591-024-03201-5). Nat Med. 2024;30:2777–2781
+* [Eyting M, et al. A natural experiment on the effect of herpes zoster vaccination on dementia](https://doi.org/10.1038/s41586-025-08800-x). Nature. 2025;641:438–446
+
+#### ② 허가·급여 확인 자료
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 메노바, 발트렉스, 팜비어, 뉴론틴, 리리카, 리도탑 카타플라스마, 다이악센, 에트라빌, 센시발, 타이레놀, 부루펜, 싱그릭스·스카이조스터 등 국내 허가사항

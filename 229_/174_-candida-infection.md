@@ -19,7 +19,7 @@
 * 주요 균종별 감수성 유의점
   * _C. krusei_는 fluconazole에 고유 내성이 있음
   * _C. glabrata_는 azole 감수성이 낮거나 다양하므로, 고용량 fluconazole은 감수성이 확인된 경우에만 고려
-  * _C. parapsilosis_는 다른 균종보다 echinocandin MIC가 높을 수 있으나 이를 곧바로 임상적 내성으로 간주하지 않으며, 침습성 감염에서는 감수성 결과를 함께 해석
+  * _C. parapsilosis_는 다른 균종보다 echinocandin MIC가 높을 수 있으나 이를 곧바로 임상적 내성으로 간주하지 않음. Fluconazole 내성 균주의 의료기관 내 전파도 국제적으로 보고되어 침습성 감염에서는 지역 역학과 실제 감수성 결과로 약제를 선택함 <mark style="color:$info;">[ECMM/ISHAM/ASM 2025]</mark>
 
 <table><thead><tr><th width="165">임상 범주</th><th>주요 위험 인자</th></tr></thead><tbody><tr><td>구강·인두</td><td>틀니, 흡입 스테로이드, 구강건조, 최근 광범위 항생제, 당뇨병 조절 불량, HIV·항암치료·이식 등 면역저하</td></tr><tr><td>식도</td><td>HIV, 혈액종양, 항암치료, 장기이식, 고용량 또는 장기간 전신 스테로이드</td></tr><tr><td>피부주름</td><td>비만, 고온다습, 마찰, 요실금·기저귀, 당뇨병, 피부장벽 손상</td></tr><tr><td>음문질</td><td>최근 항생제, 임신, 조절되지 않는 당뇨병, SGLT2 억제제, 면역저하; 상당수에서는 뚜렷한 유발 인자가 없음</td></tr><tr><td>귀두포피</td><td><strong>포경수술을 받지 않은 남성</strong>, 포피 협착(phimosis), 당뇨병, SGLT2 억제제, 비만, 과도한 세정·국소 자극</td></tr><tr><td>침습성 감염</td><td>중환자실 장기 입원, 중심정맥관, 광범위 항생제, 총정맥영양(TPN), 호중구감소, 장기·조혈모세포이식, 최근 복부수술·문합부 누출, 혈액투석, 초극소저체중아</td></tr></tbody></table>
 
@@ -33,7 +33,7 @@
 * 피부백선(tinea)과 손발톱백선(tinea unguium)은 dermatophyte 감염으로 칸디다증이 아님
 * _Candida_가 손발톱을 침범하면 칸디다 손발톱진균증(candidal onychomycosis)으로 구분
 * **만성 손발톱주위염은 대개 반복적인 습윤·자극과 피부장벽 손상에 따른 염증성 질환**이며, _Candida_ 배양 양성만으로 칸디다 감염으로 단정하지 않음; 확인된 동반 감염에 한해 항진균 치료를 고려
-* 피부백선·손발톱백선은 감별진단 또는 관련 챕터로 참조 : [피부백선](172_-dermatophytosis-tinea.md), [손발톱백선](173_-onychomycosis-tinea-unguium.md), [손발톱주위염](176_-paronychia.md)
+* 피부백선·손발톱백선은 감별진단 또는 관련 챕터로 참조 : [피부백선](172_-dermatophytosis-tinea.md), [손발톱진균증](173_-onychomycosis.md), [손발톱주위염](176_-paronychia.md)
 {% endhint %}
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -85,7 +85,7 @@
 * 피부·구강·질 등 비멸균 부위의 배양 양성은 증상과 전형적인 병변이 동반될 때 임상적 의미가 있음
 {% endhint %}
 
-## <mark style="color:green;">부위별 진료</mark>
+## <mark style="background-color:$warning;">Management</mark>
 
 ### <mark style="color:orange;">구강·인두 칸디다증</mark>
 
@@ -97,15 +97,15 @@
 
 * 국소 항진균제만으로 치료하지 않으며 전신 치료가 필수
 * 위험 인자와 증상으로 식도 칸디다증이 의심되며 안정적이고 경구 섭취가 가능한 환자에서는 내시경 전에 경험적 항진균 치료를 시행할 수 있음; 원인 불명의 연하곤란을 일률적으로 칸디다증으로 간주하지 않음
-* IDSA 권고 : fluconazole 200\~400 ㎎ PO qd ×14\~21d가 1차 치료. 수분 섭취 불가·전신상태 불량은 즉각 조치, 섭취 곤란·중증 면역저하는 당일 평가(Red Flags 참조)
-* **국내 허가 용량과 구분** : 디푸루칸캡슐50㎎의 성인 식도 칸디다증 허가 용법은 50 ㎎ qd ×14\~30d, 난치성은 100 ㎎ qd임. 위 200\~400 ㎎/d는 지침 권고에 근거한 **허가 용량 외 사용**이며, 지침 용량을 국내 허가 용량으로 표기하지 않음
-* NIH OI 지침(HIV 감염자) : 첫날 200 ㎎ 후 100\~200 ㎎(최대 400 ㎎) PO 또는 IV qd ×14\~21d; echinocandin은 fluconazole보다 재발률이 높게 보고됨
+* IDSA 권고 : fluconazole 200\~400 ㎎ PO qd ×14\~21d가 1차 치료. 수분 섭취 불가·전신상태 불량은 즉각 조치, 섭취 곤란·중증 면역저하는 당일 평가(Red Flags 참조) <mark style="color:$info;">[IDSA 2016]</mark>
+* **국내 허가 용량과 구분** : 디푸루칸캡슐50㎎의 성인 식도 칸디다증 허가 용법은 50 ㎎ qd ×14\~30d, 난치성은 100 ㎎ qd임. 위 200\~400 ㎎/d는 지침 권고에 근거한 **허가 용량 외 사용**이며, 지침 용량을 국내 허가 용량으로 표기하지 않음 <mark style="color:$info;">[디푸루칸캡슐50㎎ 국내 허가사항]</mark>
+* NIH OI 지침(HIV 감염자) : 첫날 200 ㎎ 후 100\~200 ㎎(최대 400 ㎎) PO 또는 IV qd ×14\~21d; echinocandin은 fluconazole보다 재발률이 높게 보고됨 <mark style="color:$info;">[NIH OI Candidiasis; 2024 개정·2026 검토]</mark>
 * 치료 시작 후 **7일 이내 뚜렷한 임상 호전이 없으면** 내시경과 조직검사를 통해 내성 _Candida_, CMV·HSV 식도염 등 다른 원인을 평가
 
 ### <mark style="color:orange;">피부 칸디다증</mark>
 
 * 기본 관리 : 피부주름을 건조하게 유지하고 마찰·밀폐·요실금을 교정; 비만·당뇨병 등 유발 인자 관리
-* 1차 : 국소 azole계 사용. 예) clotrimazole 1% <mark style="color:blue;">[카네스텐크림]</mark>은 국내 허가상 1일 2\~3회 얇게 도포, 피부진균증의 일반적 치료 기간은 3\~4주; 병변·제품별 용법과 임상 반응에 따라 조정
+* 1차 : 국소 azole계 사용. 예) clotrimazole 1% <mark style="color:blue;">\[카네스텐크림]</mark>은 국내 허가상 1일 2\~3회 얇게 도포, 피부진균증의 일반적 치료 기간은 3\~4주; 병변·제품별 용법과 임상 반응에 따라 조정 <mark style="color:$info;">[카네스텐크림 국내 허가사항]</mark>
 * nystatin 국소제는 _Candida_에는 유효하지만 dermatophyte에는 효과가 없음; 국외 치료 대안으로 언급되며 국내 처방 시 해당 외용 제형의 허가·공급 여부를 확인
 * 광범위하거나 국소 치료에 반응하지 않으면 KOH·배양 등으로 진단을 재확인하고 경구 항진균제 필요성을 평가; 단순 국소 병변에 경구제를 일률적으로 사용하지 않음
 * 스테로이드·항진균제 복합제를 일상적으로 사용하지 않음 - 임상 형태를 가리고 피부 위축과 감염 지속을 초래할 수 있음
@@ -124,15 +124,16 @@
 
 * 무증상 질 집락은 치료하지 않으며, VVC는 전형적인 증상·소견과 KOH 검경·배양 등으로 진단. 가려움·분비물만으로 확진하지 않으며, 증상이 있는데 검경이 음성이면 배양 등을 고려
 * 단순 VVC(비임신) : 질내 국소 azole 또는 fluconazole 150 ㎎ PO 1회; 피부용 크림을 질내 제형으로 대체하지 않음
-* 재발성 VVC는 CDC 기준 **1년 미만 동안 증상이 있는 감염이 3회 이상**인 경우; 재발성·중증·non-albicans 또는 면역저하·조절 불량 당뇨병은 복잡성 감염으로 평가
+* 재발성 VVC는 CDC 기준 **1년 미만 동안 증상이 있는 감염이 3회 이상**인 경우; 재발성·중증·non-albicans 또는 면역저하·당뇨병 동반은 복잡성 감염으로 분류하며, 특히 혈당 조절 불량 시 치료 반응 저하와 유발 인자 교정 필요성을 평가함 <mark style="color:$info;">[CDC STI 2021]</mark>
 * 상세한 uncomplicated/complicated/RVVC·임신·non-albicans 치료는 **122 음문질 감염증** 참조
 * 무증상 성 파트너의 routine 치료는 권고하지 않으며, 증상이 있는 남성 파트너는 귀두포피염 여부를 평가·치료
 
 #### <mark style="color:$primary;">칸디다 귀두포피염(Candidal balanoposthitis)</mark>
 
+* 아래 유럽 지침 용법은 16세 이상을 대상으로 하며, 소아에게 경구 fluconazole 150 ㎎ 단회요법 등을 일률적으로 적용하지 않음 <mark style="color:$info;">[유럽 귀두포피염 지침 2022; 2023 출간]</mark>
 * 귀두포피염의 원인은 다양하며 Candida는 전체 사례의 일부에 불과함; 배양에서 검출되어도 기저 피부질환에 동반된 기회감염일 수 있음
 * 비약물 치료 : 비누·향제품·과도한 세정 중단, 미온수로 부드럽게 씻고 충분히 건조; 포피를 억지로 젖히지 않으며 세정 후에는 원위치로 돌려 감돈포경 예방
-* 1차 : clotrimazole cream 1%를 bid ×7\~14d(유럽 지침); <mark style="color:blue;">[카네스텐크림]</mark> 국내 허가 용법은 1일 2\~3회 ×1\~2주
+* 1차 : clotrimazole cream 1%를 bid ×7\~14d(유럽 지침); <mark style="color:blue;">\[카네스텐크림]</mark> 국내 허가 용법은 1일 2\~3회 ×1\~2주
 * 국외 지침의 대안 : miconazole cream 2%; imidazole 알레르기 또는 내성 의심 시 nystatin cream 100,000 units/g. 국내에서는 해당 단일 성분 외용 제형의 허가·공급 여부를 확인
 * 증상이 심한 경우 fluconazole 150 ㎎ PO 1회 고려(유럽 지침); **국내 디푸루칸캡슐 허가 용법에 귀두포피염의 150 ㎎ 단회요법은 명시되어 있지 않으므로 허가 외 요법으로 구분**. 간·신장 기능, QT 연장 위험 및 병용약물 확인
 * 염증이 현저한 경우에만 국소 imidazole과 hydrocortisone 1% 등 저강도 스테로이드의 짧은 병용을 고려하며, 스테로이드 단독 장기 사용은 피함
@@ -143,16 +144,25 @@
 ### <mark style="color:orange;">침습성 칸디다증</mark>
 
 * 외래 경험적 경구 치료 대상이 아니며 신속한 입원·감염내과 평가 필요
-* 성인 candidemia의 초기 치료는 대개 echinocandin이며(ECMM/ISHAM/ASM 2025는 주 1회 정주하는 echinocandin인 rezafungin도 선택지로 포함; 미허가), 혈액배양 음전 확인·감수성 결과·전이성 병소 평가에 따라 조정. 감염된 중심정맥관의 안전한 제거 및 복강 농양 배액 등 감염원 관리를 함께 시행; 안구·중추신경계 감염은 약물의 조직 침투를 고려하여 별도 치료
+* 성인 candidemia의 초기 치료는 대개 echinocandin이며(ECMM/ISHAM/ASM 2025는 국외 신규 선택지인 주 1회 정주 rezafungin도 포함하며, 국내 처방 가능한 약제와 구분함), 혈액배양 음전 확인·감수성 결과·전이성 병소 평가에 따라 조정함. 감염된 중심정맥관의 안전한 제거 및 복강 농양 배액 등 감염원 관리를 함께 시행; 안구·중추신경계 감염은 약물의 조직 침투를 고려하여 별도 치료
 * 안구 통증·비문증·시력 변화가 있으면 당일 안과 평가하며, 급격하거나 심한 시력 저하는 즉각 조치
-* 무증상 candidemia의 산동 안저검사는 지침 간 차이가 있음. IDSA 2016은 비호중구감소 환자에서 진단 후 1주 이내, 호중구감소 환자에서는 회복 후 1주 이내 검사를 권고; AAO 2022는 무증상 환자의 일률적 검진을 권고하지 않음. **ECMM/ISHAM/ASM 2025는 안구 증상, 지속 candidemia, 면역억제 또는 증상을 표현하기 어려운 환자에서 안저검사를 제시**하므로 기관 프로토콜과 협진에 따라 결정
-* 혈액배양을 매일 또는 격일로 반복하여 음전을 확인(IDSA); ECMM/ISHAM/ASM 2025는 매일 추적하여 3회 연속 음성을 확인하고, 지속 음전이 시작된 첫날부터 14일 치료하도록 권고
+* 무증상 candidemia의 산동 안저검사는 지침 간 차이가 있음. IDSA 2016은 비호중구감소 환자에서 진단 후 1주 이내, 호중구감소 환자에서는 회복 후 1주 이내 검사를 권고; AAO 2022는 무증상 환자의 일률적 검진을 권고하지 않음. **ECMM/ISHAM/ASM 2025는 안구 증상, 지속 candidemia, 면역억제 또는 증상을 표현하기 어려운 환자에서 안저검사를 제시**하므로 기관 프로토콜과 협진에 따라 결정 <mark style="color:$info;">[IDSA 2016; AAO 2022; ECMM/ISHAM/ASM 2025]</mark>
+* 혈액배양을 매일 또는 격일로 반복하여 음전을 확인(IDSA); ECMM/ISHAM/ASM 2025는 매일 추적하여 **3일 연속 음성**을 확인하고, 그 연속 음성이 시작된 첫날부터 14일 치료하도록 권고. 같은 날 채취한 여러 배양 세트의 음성을 3일 연속 음성과 동일시하지 않음 <mark style="color:$info;">[ECMM/ISHAM/ASM 2025]</mark>
 * 치료 기간은 발열 소실일이나 3번째 음성 결과일부터 새로 계산하지 않음. **전이성 합병증이 없는 candidemia는 혈액배양 음전 후 최소 2주** 치료하며 관련 증상이 소실되어야 함; 호중구감소 환자는 호중구 회복도 필요. 안구·심내막·중추신경계·골관절 등 심부 침범이 있으면 병소별로 더 장기간 치료
+* 적절한 치료에도 혈액배양 양성이 지속되면 카테터·심내막염·심부 병소 등 조절되지 않은 감염원을 다시 평가하며, 특히 치료 5일째에도 양성이면 감염원 재검색을 적극 시행함 <mark style="color:$info;">[ECMM/ISHAM/ASM 2025]</mark>
 
 {% hint style="info" %}
 **_Candida auris_ (_Candidozyma auris_)**
 
-의료기관 내 전파와 다제내성이 문제가 되는 균종임. 중증 기저질환, 장기 입원, 중심정맥관·인공호흡기 등 침습적 기구 사용 환자에서 주로 문제가 되며, 감염 또는 집락이 의심·확인되면 감염관리 및 감염내과 자문이 필요함. **무증상 집락 자체를 항진균제로 치료하지 않지만, 집락 환자도 감염 환자와 마찬가지로 전파 방지 조치가 필요함.** 시설 유형과 기관 지침에 따른 접촉주의 또는 강화 장벽주의, 손 위생, 전용 또는 철저히 소독한 의료기구 사용, _C. auris_에 효과가 확인된 소독제를 이용한 매일 및 퇴실 시 환경소독을 시행함. 전과·전원 시 감염 또는 집락 사실을 인계하며, 감염관리 부서 및 관할 보건당국의 지침을 따름.
+의료기관 내 전파와 다제내성이 문제가 되는 균종임. 중증 기저질환, 장기 입원, 중심정맥관·인공호흡기 등 침습적 기구 사용 환자에서 주로 문제가 되며, 감염 또는 집락이 의심·확인되면 감염관리 및 감염내과 자문이 필요함.
+
+* **국내에서는 2026년 3월 29일부터 제4급 법정감염병 및 의료관련감염병으로 지정**되어 표본감시기관이 환자·병원체 보유자를 신고·보고함. 일반적인 피부·점막 칸디다증 전체가 신고 대상이 된 것은 아님 <mark style="color:$info;">[질병관리청 2026]</mark>
+* **무증상 집락 자체를 항진균제로 치료하지 않지만, 집락 환자도 전파 방지 조치가 필요함.** 국내에서는 질병관리청 「2026년도 칸디다 오리스 관리지침」에 따른 격리·접촉주의, 손 위생 및 접촉자 선별검사를 적용함
+* 의료기구는 전용으로 사용하거나 사용 후 적절히 소독하고, _C. auris_에 효과가 확인된 소독제로 매일 및 퇴실 시 환경소독을 시행함. 일부 일반 소독제, 특히 4급 암모늄화합물만을 유효성분으로 하는 제품은 효과가 불충분할 수 있음
+* 집락은 장기간 지속될 수 있으며 확립된 제균법은 없음. 항진균제나 chlorhexidine 세정만으로 집락 제거·격리 해제를 보장하지 않음
+* 전과·전원 시 감염 또는 집락 사실을 인계하고, 격리 해제는 치료 완료 여부만으로 결정하지 않고 국내 지침 및 감염관리 부서와 협의함
+
+<mark style="color:$info;">[질병관리청 칸디다 오리스 관리지침 2026; CDC Infection Control Guidance 2026]</mark>
 {% endhint %}
 
 ## <mark style="color:green;">약물 안전성</mark>
@@ -160,9 +170,12 @@
 * 국소제도 제형과 적용 부위에 따라 용법이 다르므로 실제 제품 첨부문서 확인
 * 경구 azole계는 CYP 매개 약물상호작용, QT 연장 및 간독성 가능성이 있어 복용 중인 모든 약물을 검토
 * fluconazole 반복 투여 전 신기능·간기능 및 위험에 따른 전해질·심전도 확인; warfarin, sulfonylurea, 일부 statin, tacrolimus·cyclosporine 및 QT 연장 약물 등과의 상호작용 검토
+* **단회 150 ㎎도 약물상호작용 확인이 필요함.** 국내 허가·DUR상 domperidone·erythromycin·pimozide 등 병용금기를 확인하며, fluconazole의 효소억제효과는 중단 후에도 4\~5일 지속될 수 있음 <mark style="color:$info;">[디푸루칸캡슐 국내 허가·DUR]</mark>
 * fluconazole은 신장 배설 약물로 **반복 투여 시 CrCl ≤50 ㎖/min(비투석)은 초기 용량 후 유지용량을 통상 50%로 감량**; 혈액투석 시 투석 후 용량 등 별도 조정. 단회 150 ㎎ 요법은 통상 신기능에 따른 감량이 필요하지 않음
 * 국내 디푸루칸캡슐 허가사항은 임부·임신 가능 여성 및 수유부를 금기로 명시하므로 국제 지침과 구분하여 확인
+* **가임 여성의 피임** : 이 챕터에서 예시한 **디푸루칸캡슐50㎎**의 국내 허가사항은 투여기간 및 마지막 용량 투여 후 **약 1개월간 피임**하도록 명시함. 다른 제품에는 해당 제품의 허가문구를 적용함 <mark style="color:$info;">[디푸루칸캡슐50㎎ 국내 허가사항]</mark>
 * 임신 중 VVC에는 **7일간의 국소 azole 치료만 권고**하며 경구 fluconazole은 사용하지 않음. 단회 150 ㎎도 임신 부작용 가능성이 보고되었고, 특히 임신 1기의 고용량(400\~800 ㎎/d)·장기 노출은 특징적인 선천기형과 연관될 수 있음. 생명을 위협하는 침습성 감염의 전신 치료는 감염내과·산부인과 협진으로 개별 결정
+* 경구 항진균제 복용 중 황달·진한 소변·지속적인 심한 피로·광범위 발진·물집·점막병변 등이 발생하면 약물 이상반응을 의심하여 복용을 중단하고 즉시 평가함. 호흡곤란·얼굴부종·실신은 응급 평가 대상임
 * 반복적인 경험적 azole 사용은 진단 지연과 내성 선별 위험이 있으므로 치료 실패 시 배양·균종 동정 및 감수성 검사 고려
 
 ## <mark style="color:green;">예방</mark>
@@ -217,7 +230,7 @@ _✽†는 원인질환, *는 발현질환 코드로 해당 병기 규칙을 따
 > 디푸루칸캡슐50㎎ (Fluconazole)   1회 4캡슐(200 ㎎)   PO qd ×14~21d
 > ```
 >
-> _✽IDSA 지침에 근거한 성인 예시이며 **국내 허가 용량 외 사용**. 지침 권고 범위는 200\~400 ㎎/d; 국내 허가 용량은 본문 참조. NIH HIV 지침은 첫날 200 ㎎, 이후 100\~200 ㎎/d(필요시 400 ㎎/d까지)로 제시함. 면역상태·신기능·간기능·QT 연장·병용약물·임신 및 수유 여부를 확인. 수분 섭취 불가·전신상태 불량은 즉각 조치, 섭취 곤란·중증 면역저하는 당일 평가하며, 치료 7일 이내 호전이 없으면 내시경·조직검사로 재평가._
+> _✽IDSA 지침에 근거한 성인 예시이며 **국내 허가 용량 외 사용**임. 지침 권고 범위는 200\~400 ㎎/d; 국내 허가 용량은 본문 참조. NIH HIV 지침은 첫날 200 ㎎, 이후 100\~200 ㎎/d(필요시 400 ㎎/d까지)로 제시함. 면역상태·신기능·간기능·QT 연장·병용약물·임신 및 수유 여부를 확인하고 가임 여성은 제품별 피임 지침을 안내. 수분 섭취 불가·전신상태 불량은 즉각 조치, 섭취 곤란·중증 면역저하는 당일 평가하며, 치료 7일 이내 호전이 없으면 내시경·조직검사로 재평가._
 
 ***
 
@@ -227,7 +240,8 @@ _✽†는 원인질환, *는 발현질환 코드로 해당 병기 규칙을 따
 > * 국소제는 병변과 주변에 얇게 바르고, 피부주름은 바르기 전에 충분히 말립니다.
 > * 경구 항진균제를 복용할 때에는 다른 약과의 상호작용이 많으므로 복용 중인 모든 약과 임신·수유 여부를 의료진에게 알립니다.
 > * 생식기에 사용하는 크림은 라텍스 콘돔의 효과를 낮출 수 있으므로 제품별 주의사항을 확인합니다.
-> * 치료 중 황달, 진한 소변, 심한 피로, 두근거림·실신 등이 생기면 즉시 진료받습니다.
+> * 치료 중 황달, 진한 소변, 심한 피로, 광범위 발진·물집·입안 헐음이 생기면 경구 항진균제 복용을 중단하고 즉시 진료받습니다. 숨참·얼굴부종·실신이 생기면 응급 평가를 받습니다.
+> * 디푸루칸캡슐50㎎을 복용하는 가임 여성은 투여 중 및 마지막 복용 후 약 1개월간 피임합니다. 다른 제품을 복용할 때에는 해당 제품의 안내를 따릅니다.
 > * 표준 치료에도 호전되지 않거나 곧 재발하면 임의로 같은 약을 반복하지 말고 진단과 균종을 재평가합니다.
 
 ***
@@ -269,12 +283,14 @@ _✽†는 원인질환, *는 발현질환 코드로 해당 병기 규칙을 따
 * Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/)
 * Cornely OA, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. Lancet Infect Dis. 2025;25(5):e280-e293. [서지](https://doi.org/10.1016/S1473-3099(24)00749-7)
 * 2022 European Guideline for the Management of Balanoposthitis. J Eur Acad Dermatol Venereol. 2023. [서지](https://doi.org/10.1111/jdv.18954)
-* National Institutes of Health. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Candidiasis (Mucocutaneous). [지침](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/candidiasis)
+* National Institutes of Health. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Candidiasis (Mucocutaneous). 2024 개정·2026 검토. [지침](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/candidiasis)
 * Centers for Disease Control and Prevention. Sexually Transmitted Infections Treatment Guidelines, 2021: Vulvovaginal Candidiasis. [지침](https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm)
 * Breazzano MP, et al. American Academy of Ophthalmology Recommendations on Screening for Endogenous Candida Endophthalmitis. Ophthalmology. 2022. [서지](https://doi.org/10.1016/j.ophtha.2021.07.015)
-* Centers for Disease Control and Prevention. Infection Control Guidance: Candida auris. [지침](https://www.cdc.gov/candida-auris/hcp/infection-control/index.html)
+* Centers for Disease Control and Prevention. Infection Control Guidance: Candida auris. 2026. [지침](https://www.cdc.gov/candida-auris/hcp/infection-control/index.html)
+* 질병관리청. 2026년도 칸디다 오리스 관리지침(소아·청소년 항진균제 용법·용량 추가판). [지침](https://kdca.go.kr/bbs/kdca/55/306943/download.do)
+* 질병관리청. 칸디다 오리스 감염증, 제4급 법정감염병 신규 지정. 2026. [보도자료](https://www.kdca.go.kr/kdca/2847/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2RjYSUyRjQxJTJGMzEwNTQ5JTJGYXJ0Y2xWaWV3LmRvJTNGcGFzc3dvcmQlM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNmZpbmRPcG53cmQlM0QlMjZmaW5kV29yZCUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2ZmluZFR5cGUlM0QlMjZmaW5kQ2)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* 통계청. KCD-9 주요 개정 내역. [자료](https://mods.go.kr/boardDownload.es?bid=11103\&list_no=443895\&seq=1)
+* 통계청. 제9차 한국표준질병·사인분류 개정(안). 2025. [자료](https://mods.go.kr/boardDownload.es?bid=11103\&list_no=443895\&seq=1)

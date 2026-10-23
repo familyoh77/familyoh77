@@ -94,29 +94,32 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 응급 평가 또는 입원 치료**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 의식 변화, 성격 변화, 경련, 국소 신경학적 결손, 심한 두통·경부강직 → HSV 뇌염·수막염 의심
-* 쇼크, 파종성 수포, 급격한 전신 악화, 중증 간염·폐렴 → 파종성 HSV 의심
-* 신생아의 수포·발열·저체온·수유 저하·처짐 또는 경련 → 병변이 없어도 신생아 HSV 배제 필요
-* Eczema herpeticum에 전신독성, 급속한 진행 또는 광범위 병변이 동반된 경우
-* 요폐, 중증 탈수 또는 통증·섭취 불가로 외래에서 수분·경구약을 유지할 수 없는 경우
+* 의식 변화, 성격 변화, 경련, 국소 신경학적 결손, 심한 두통·경부강직 → HSV 뇌염·수막염 의심  `CNS 감염`
+* 쇼크, 파종성 수포, 급격한 전신 악화, 중증 간염·폐렴 → 파종성 HSV 의심  `파종성 감염`
+* 신생아 및 생후 6주 이내 영아의 수포·발열·저체온·수유 저하·처짐 또는 경련 → 피부 병변이나 산모의 알려진 HSV 병력이 없어도 신생아 HSV 평가 필요  `신생아·어린 영아`
+* Eczema herpeticum에 전신독성, 급속한 진행 또는 광범위 병변이 동반된 경우  `중증 헤르페스습진`
+* 요폐, 중증 탈수 또는 통증·섭취 불가로 외래에서 수분·경구약을 유지할 수 없는 경우  `입원·수액 치료`
+* 급격하거나 심한 시력저하 → 즉각 안과 응급 평가  `안과 응급`
 
-<mark style="color:$warning;">**당일 전문의 평가**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* HSV가 의심되는 병변과 함께 안구통, 눈부심, 시력저하, 편측 충혈 또는 각막병변 의심 → 당일 안과 의뢰
-* Eczema herpeticum 의심 → 발열 유무와 관계없이 즉시 전신 항바이러스제를 시작하고 당일 피부과 평가; 눈 주위 침범 시 당일 안과 평가도 시행
-* 중증 면역저하자의 광범위·괴사성·비전형적 또는 지속성 병변
-* 심한 생식기 통증·배뇨곤란 또는 탈수 위험이 있으나 수분·경구약 복용이 가능한 경우
-* 임신 후반기에 처음 발생한 생식기 HSV, 또는 분만 시점의 생식기 병변·전구 증상 → 산과와 즉시 협진
-* 적절한 항바이러스 치료 중 빠르게 진행하는 병변 또는 면역저하자에서 내성 HSV 의심
+아래 항목은 **당일 평가·협진**함. 안구 침범·헤르페스습진·중증 면역저하에서는 검사 결과를 기다리느라 치료를 지연하지 않음.
 
-<mark style="color:$info;">**외래 치료 후 추적 / 재평가**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
+* HSV가 의심되는 병변과 함께 안구통, 눈부심, 시력저하, 편측 충혈 또는 각막병변 의심 → 당일 안과 의뢰  `안구 침범`
+* Eczema herpeticum 의심 → 발열 유무와 관계없이 즉시 전신 항바이러스제를 시작하고 당일 피부과 평가; 눈 주위 침범 시 당일 안과 평가도 시행  `헤르페스습진`
+* 중증 면역저하자의 광범위·괴사성·비전형적 또는 지속성 병변  `중증 면역저하`
+* 심한 생식기 통증·배뇨곤란 또는 탈수 위험이 있으나 수분·경구약 복용이 가능한 경우  `중증 생식기 증상`
+* 임신 후반기에 처음 발생한 생식기 HSV, 또는 분만 시점의 생식기 병변·전구 증상 → 산과와 즉시 협진  `임신·분만`
+* 적절한 항바이러스 치료 중 빠르게 진행하는 병변 또는 면역저하자에서 내성 HSV 의심  `치료 실패·내성`
 
-* 첫 임상 발현 생식기 헤르페스 : 검사 결과를 기다리지 말고 즉시 치료하고 병변 치유까지 추적
-* 잦은 재발, 삶의 질 저하, 전파 불안 또는 임신 계획이 있는 환자 → 억제치료·파트너 상담 평가
-* 2\~3주 이상 낫지 않는 구강·생식기 궤양 또는 비전형 병변 → 다른 감염, 염증성 질환 및 악성종양 재평가
-* 치료 후에도 남는 안정된 병변 → 순응도·용량·대체 진단을 조기 재평가하고 필요 시 전문의 의뢰; 진행·전신 증상 또는 면역저하가 있으면 상위 등급으로 평가
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
+
+* 첫 임상 발현 생식기 헤르페스 : 검사 결과를 기다리지 말고 즉시 치료하고 병변 치유까지 추적  `첫 임상 발현`
+* 잦은 재발, 삶의 질 저하, 전파 불안 또는 임신 계획이 있는 환자 → 억제치료·파트너 상담 평가  `억제치료·상담`
+* 2\~3주 이상 낫지 않는 구강·생식기 궤양 또는 비전형 병변 → 다른 감염, 염증성 질환 및 악성종양 재평가  `비치유 궤양`
+* 치료 후에도 남는 안정된 병변 → 순응도·용량·대체 진단을 조기 재평가하고 필요 시 전문의 의뢰; 진행·전신 증상 또는 면역저하가 있으면 상위 등급으로 평가  `치료 반응 재평가`
 
 ***
 
@@ -161,16 +164,16 @@
 
 (☞ [구내염](../222_/054_-stomatitis.md))
 
-<table><thead><tr><th width="110">구분</th><th width="230">재발성 아프타성 구내염</th><th>재발성 구강 헤르페스</th></tr></thead><tbody><tr><td>초기 병소</td><td>수포 없이 궤양으로 시작</td><td>소수포가 빠르게 파열되어 궤양 형성</td></tr><tr><td>호발 위치</td><td>볼·입술 안쪽, 구강바닥, 연구개, 구강전정 등 비각화·가동점막</td><td>경구개, 부착치은, 입술 가장자리 등 각화점막</td></tr><tr><td>병변 양상</td><td>경계가 뚜렷한 원형 궤양과 홍반성 테두리</td><td>군집성·점상 얕은 궤양</td></tr><tr><td>전구 증상</td><td>뚜렷하지 않은 경우가 많음</td><td>작열감·저림·가려움이 선행할 수 있음</td></tr><tr><td>통상 경과</td><td>대개 1\~2주</td><td>대개 수일\~2주</td></tr></tbody></table>
+<table><thead><tr><th width="110">구분</th><th width="230">재발성 아프타성 구내염</th><th>재발성 구강 헤르페스</th></tr></thead><tbody><tr><td>초기 병소</td><td>수포 없이 궤양으로 시작</td><td>소수포가 빠르게 파열되어 궤양 형성</td></tr><tr><td>호발 위치</td><td>볼·입술 안쪽, 구강바닥, 연구개, 구강전정 등 비각화·가동점막</td><td>구강 내: 경구개·부착치은 등 각화점막<br>구순포진: 입술 가장자리</td></tr><tr><td>병변 양상</td><td>경계가 뚜렷한 원형 궤양과 홍반성 테두리</td><td>군집성·점상 얕은 궤양</td></tr><tr><td>전구 증상</td><td>뚜렷하지 않은 경우가 많음</td><td>작열감·저림·가려움이 선행할 수 있음</td></tr><tr><td>통상 경과</td><td>대개 1\~2주</td><td>대개 수일\~2주</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 flowchart TD
-    A(["HSV 의심 수포·미란·궤양"]) ---> B{"즉각 응급 평가 항목?"}
+    A(["HSV 의심 수포·미란·궤양"]) ---> B{"Red Flags의 즉각 조치 항목?"}
     B --->|Yes| C(["즉시 응급 평가 · 필요 시 입원/IV 치료"])
-    B --->|No| R{"당일 전문의 평가 항목?"}
-    R --->|Yes| S(["당일 의뢰 · 안구: 스테로이드 금지 · 헤르페스습진: 즉시 전신치료"])
+    B --->|No| R{"Red Flags의 당일 평가가 필요한 항목?"}
+    R --->|Yes| S(["당일 의뢰 · 안구: 경험적 스테로이드 시작 금지 · 헤르페스습진: 즉시 전신치료"])
     R --->|No| D{"병변 위치?"}
     D ---> E["구강·입술"]
     D ---> F["생식기·항문주위"]
@@ -197,7 +200,7 @@ flowchart TD
 
 {% hint style="info" %}
 **부위별 우선순위**\
-구강·안면은 탈수·경구섭취 여부, 생식기는 "첫 임상 발현인가 재발인가", 안구는 "당일 안과 의뢰가 필요한가"를 가장 먼저 판단한다.
+구강·안면은 탈수·경구섭취 여부, 생식기는 "첫 임상 발현인가 재발인가", 안구는 "당일 안과 의뢰가 필요한가"를 가장 먼저 판단함.
 {% endhint %}
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -239,23 +242,33 @@ flowchart TD
 
 * 임상적 이득은 제한적이며 전구기 또는 병변 초기부터 사용해야 함
 * acyclovir 5% cream : 5회/d ×5\~10일 <mark style="color:blue;">\[바이버]</mark>
-* penciclovir 1% cream : 16세 이상, 깨어 있는 동안 q2h ×4일 <mark style="color:blue;">\[펜시비어]</mark>; 2026년 2월 생산 중지 관련 병원 공지가 있어 처방 전 공급 여부 확인
+* penciclovir 1% cream <mark style="color:blue;">\[펜시비어]</mark> : 2026년 2월 생산 중지·코드 불용 공지가 있어 기본 처방 선택지에서 제외함. 기존 국내 허가 용법은 16세 이상, 깨어 있는 동안 q2h ×4일임. <mark style="color:$info;">[대구파티마병원 약제부 공지 2026-02-19]</mark>
 * docosanol 10% cream : 성인 및 12세 이상에서 5회/d(미국 일반의약품 허가 기준, 국내 제품 미확인)
 * 피부용 cream은 눈·구강 안쪽 등 점막에 바르지 않음; 치은구내염에는 국소 acyclovir의 효과가 입증되지 않음
 
 ### <mark style="color:orange;">구강·안면 감염 - 경구 항바이러스제</mark>
 
-<table><thead><tr><th width="200">임상 상황</th><th width="230">예시 요법</th><th>비고</th></tr></thead><tbody><tr><td>성인 중증 원발성 치은구내염</td><td>acyclovir 400 ㎎ tid 또는 200 ㎎ 5회/d ×7\~10일</td><td>조기 치료 고려; 탈수·섭취 불가 시 입원 평가. 국내 피부·점막 HSV 허가 요법은 아래 표 참조</td></tr><tr><td rowspan="3">재발성 구순포진 episodic therapy</td><td>valacyclovir 2 g bid ×1일<br>(성인·12세 이상 국내 허가)</td><td rowspan="3">전구 증상부터 즉시 시작; valacyclovir는 구진·수포·궤양 발생 후 시작했을 때의 유효성이 국내 허가사항상 확립되지 않음. 아래 두 요법은 성인 국외 근거 기반이며 국내 허가 용법과 구분</td></tr><tr><td>famciclovir 1,500 ㎎ 1회</td></tr><tr><td>acyclovir 400 ㎎ 5회/d ×5일</td></tr><tr><td>빈번하거나 중증인 재발의 억제치료</td><td>acyclovir 400 ㎎ bid 또는 valacyclovir 500 ㎎\~1 g qd</td><td>구순포진 억제는 국내 허가 외 사용; 재발 빈도·중증도와 환자 선호를 확인하고 필요성 재평가</td></tr></tbody></table>
+* 건강한 정상 면역자의 경증 재발성 구순포진은 대증 치료로 충분한 경우가 많음. 병변이 심하거나 재발이 빈번하고 일상생활에 지장을 주는 경우 조기 경구 치료·억제요법의 이득을 개별 평가함. <mark style="color:$info;">[HSE 2026]</mark>
+
+<table><thead><tr><th width="200">임상 상황</th><th width="230">예시 요법</th><th>비고</th></tr></thead><tbody><tr><td>성인 중증 원발성 치은구내염</td><td>acyclovir 400 ㎎ tid ×7\~10일(국외 임상 용법)<br>국내 허가 : 200 ㎎ 5회/d ×5일, 중증 초발 감염은 연장 가능</td><td>400 ㎎ tid는 정상 면역 성인의 국내 허가 용량과 다름. 조기 치료 고려; 탈수·섭취 불가 시 입원 평가</td></tr><tr><td rowspan="3">재발성 구순포진 episodic therapy</td><td>valacyclovir 2 g bid ×1일<br>(성인·12세 이상 국내 허가; 정상 신기능)</td><td rowspan="3">전구 증상부터 즉시 시작; valacyclovir는 구진·수포·궤양 발생 후 시작했을 때의 유효성이 국내 허가사항상 확립되지 않음. Famciclovir 단회 요법은 성인 국외 근거 기반의 국내 허가 외 사용임. Acyclovir는 국내 피부·점막 HSV 허가 용법을 제시함</td></tr><tr><td>famciclovir 1,500 ㎎ 1회</td></tr><tr><td>acyclovir 200 ㎎ 5회/d ×5일<br>(국내 피부·점막 HSV 허가)</td></tr><tr><td>빈번하거나 중증인 재발의 억제치료</td><td>acyclovir 400 ㎎ bid 또는 valacyclovir 500 ㎎\~1 g qd</td><td>Acyclovir 400 ㎎ bid는 국내 정상 면역자의 피부·점막 HSV 예방 허가 용량과 일치함. Valacyclovir의 구순포진 억제는 국내 허가 외 사용임. 재발 빈도·중증도와 환자 선호에 따라 필요성 재평가</td></tr></tbody></table>
 
 {% hint style="info" %}
 valacyclovir 2 g bid ×1일과 famciclovir 1,500 ㎎ 1회 요법은 **재발성 구순포진**의 episodic therapy이며, 원발성 헤르페스 치은구내염 용법이 아님. Famciclovir 1,500 ㎎ 1회는 국내 팜비어의 허가 용법에 포함되지 않음.
 {% endhint %}
 
-* 소아 원발성 치은구내염 : 정상 면역자는 대개 수분·진통 치료만으로 호전. 증상 발생 72시간 이내이며 심한 통증 또는 탈수가 있으면 경구 acyclovir 10 ㎎/㎏/회(최대 400 ㎎/회), 1일 5회 고려; 새 병변이 더 이상 생기지 않을 때까지 치료하고 경과에 따라 기간 결정 [RCH 2025]
-  * 국내 허가사항의 소아 피부·점막 HSV 용량과 다를 수 있으므로 지침 용량으로 구분; 면역저하·섭취 불가·중증이면 소아과 협진 및 IV 치료 평가
+* 소아 원발성 치은구내염 : 정상 면역자는 대개 수분·진통 치료만으로 호전. 증상 발생 72시간 이내이며 심한 통증 또는 탈수가 있으면 경구 acyclovir 10 ㎎/㎏/회(최대 400 ㎎/회), 1일 5회 고려; 새 병변이 더 이상 생기지 않을 때까지 치료하고 경과에 따라 기간 결정. <mark style="color:$info;">[RCH 2025]</mark>
+  * 국내 메노바의 소아 피부·점막 HSV 허가 용량(2세 이상 200 ㎎ 5회/d, 2세 미만 성인량의 1/2)과 다른 지침 용량으로 구분; 면역저하·섭취 불가·중증이면 소아과 협진 및 IV 치료 평가
 
 {% hint style="info" %}
 아래 생식기 헤르페스 기본 요법은 **신기능이 정상인 정상 면역 성인**의 지침 용량임. 첫 임상 발현·억제치료는 국내 성매개감염 진료지침 2023과 CDC 2021이 일치하며, 재발 단기치료에는 CDC의 추가 선택 요법을 함께 제시함. 소아·HIV 감염자·기타 면역저하자·신장애 환자에게 동일 요법을 일률적으로 적용하지 않음.
+{% endhint %}
+
+### <mark style="color:orange;">국내 제품 허가 용법과 진료지침의 차이</mark>
+
+<table><thead><tr><th width="110">성분명</th><th width="230">국내 허가 용법(주로 성인 기준)</th><th>국내 진료지침 2023·CDC 2021과 대조 시 주의</th></tr></thead><tbody><tr><td>acyclovir</td><td>피부·점막 HSV 치료 200 ㎎ 5회/d ×5일, 중증 초발 감염은 연장 가능<br>억제 200 ㎎ qid 또는 400 ㎎ bid</td><td>400 ㎎ tid는 정상 면역자의 국내 치료 허가 용량과 다름. 중증 면역저하·흡수장애의 허가상 증량 예외와 구분</td></tr><tr><td>famciclovir</td><td>생식기 첫 발현 250 ㎎ tid ×5일<br>재발 125 ㎎ bid ×5일<br>억제 250 ㎎ bid</td><td>CDC 첫 임상 발현 기간은 7\~10일. 처방 목적에 따라 국내 허가 용법과 구분 표기</td></tr><tr><td>valaciclovir</td><td>생식기 첫 발현 500 ㎎ bid, 최대 10일<br>재발 500 ㎎ bid ×5일<br>구순포진 2 g bid ×1일<br>생식기 억제: 정상 면역자 500 ㎎/d(500 ㎎ qd 또는 250 ㎎ bid), 면역저하자 500 ㎎ bid</td><td>국내 진료지침·CDC 첫 발현은 1 g bid ×7\~10일, 억제 1 g qd도 권고하나 국내 정상 면역자 허가 용량과 차이. 재발은 국내 지침 1 g qd ×5일, CDC는 500 ㎎ bid ×3일도 권고</td></tr></tbody></table>
+
+{% hint style="info" %}
+**진료지침·제품 허가사항·건강보험 급여 인정기준은 각각 구분함.** 팜비어 허가사항의 6\~12개월 간격 휴약 문구와 CDC의 일률적 휴약 불필요 권고에도 차이가 있음. 지침에 따른 허가 외 용량·기간을 사용하는 경우 그 차이를 설명하고 급여 적용 여부를 구분함.
 {% endhint %}
 
 ### <mark style="color:orange;">생식기 헤르페스 - 첫 임상 발현 (모든 환자 치료)</mark>
@@ -289,17 +302,25 @@ valacyclovir 2 g bid ×1일과 famciclovir 1,500 ㎎ 1회 요법은 **재발성 
 Acyclovir·valacyclovir·famciclovir는 신장으로 배설되므로 신기능 저하 시 용량 또는 투여 간격을 조절함. 조절 기준은 약제·적응증·요법별로 다르므로 제품별 허가사항의 CrCl 기준을 확인함. 고령자·탈수 환자는 약물 축적에 따른 신독성과 의식 변화·환각·떨림 등의 신경독성 위험이 증가함.
 {% endhint %}
 
+#### <mark style="color:$primary;">구순포진 valacyclovir 1일 요법의 신기능 조절</mark>
+
+<table><thead><tr><th width="190">성인 CrCl (mL/min)</th><th>1회 용량·총 투여 횟수</th></tr></thead><tbody><tr><td>≥50</td><td>2 g씩 12시간 간격, 총 2회</td></tr><tr><td>30 이상 50 미만</td><td>1 g씩 12시간 간격, 총 2회</td></tr><tr><td>10 이상 30 미만</td><td>500 ㎎씩 12시간 간격, 총 2회</td></tr><tr><td>10 미만</td><td>500 ㎎ 1회만</td></tr></tbody></table>
+
+* 위 표는 **성인 재발성 구순포진의 1일 요법**에 한정함; 생식기 감염·억제치료의 감량 기준과 혼용하지 않음
+* 혈액투석일에는 투석 종료 후 투여함. 소아·청소년의 CrCl ＜50 mL/min/1.73 ㎡ 투여 자료가 없으므로 성인 감량표를 그대로 적용하지 않음. <mark style="color:$info;">[국내 발트렉스 허가사항]</mark>
+
 ### <mark style="color:orange;">헤르페스습진·손가락 헤르페스</mark>
 
-* Eczema herpeticum : 의심 즉시 전신 항바이러스제를 시작하고 당일 피부과 의뢰; 검사 결과나 발열을 기다리지 않음. 전신 상태가 양호하고 경구 복용이 가능하면 경구 치료, 중증·광범위·급속 진행·면역저하·섭취 불가이면 입원·IV acyclovir 평가; 눈 주위 병변은 당일 안과 평가 [NICE CG57; PCDS]
+* Eczema herpeticum : 의심 즉시 전신 항바이러스제를 시작하고 당일 피부과 의뢰; 검사 결과나 발열을 기다리지 않음. 전신 상태가 양호하고 경구 복용이 가능하면 경구 치료, 중증·광범위·급속 진행·면역저하·섭취 불가이면 입원·IV acyclovir 평가; 눈 주위 병변은 당일 안과 평가. <mark style="color:$info;">[NICE CG57; PCDS]</mark>
 * Herpetic whitlow : 병변을 덮고 접촉을 피하며 진통 치료; 세균성 농양처럼 절개·배농하지 않음. 면역저하자·중증·재발 또는 초기 병변에서는 전신 항바이러스 치료 고려
 
 ### <mark style="color:orange;">HIV 감염자의 생식기 헤르페스</mark>
 
 * 첫 임상 발현은 기본 요법으로 시작하되 병변 치유까지 치료 연장이 필요할 수 있음
 * 재발 치료 : acyclovir 400 ㎎ tid 또는 famciclovir 500 ㎎ bid 또는 valacyclovir 1 g bid ×5\~10일
-* 억제치료 : acyclovir 400\~800 ㎎ bid\~tid 또는 famciclovir 500 ㎎ bid 또는 valacyclovir 500 ㎎ bid
-* 신기능·면역 상태·치유 반응에 따라 조절; 다른 면역저하 상태는 원인·중증도에 따라 전문의와 결정. HIV 감염자의 억제치료는 증상 조절에 효과적이나 파트너에게 HSV-2 또는 HIV 전파를 줄이는 목적으로 사용하지 않음 [국내 성매개감염 진료지침 2023; CDC 2021]
+* 억제치료(국내 2023·CDC 2021) : acyclovir 400\~800 ㎎ bid\~tid 또는 famciclovir 500 ㎎ bid 또는 valacyclovir 500 ㎎ bid
+  * NIH HSV 지침(2025 개정·2026 재검토)은 valacyclovir 500 ㎎ bid를 우선 요법으로, acyclovir 400 ㎎ bid 또는 famciclovir 500 ㎎ bid를 대안으로 제시함. 면역상태·재발 정도·순응도에 따라 전문의와 선택하며, 고용량 acyclovir를 일률 적용하지 않음. <mark style="color:$info;">[NIH HSV 지침]</mark>
+* 신기능·면역 상태·치유 반응에 따라 조절; 다른 면역저하 상태는 원인·중증도에 따라 전문의와 결정. HIV 감염자의 억제치료는 증상 조절에 효과적이나 파트너에게 HSV-2 또는 HIV 전파를 줄이는 목적으로 사용하지 않음. <mark style="color:$info;">[국내 성매개감염 진료지침 2023; CDC 2021]</mark>
 
 ### <mark style="color:orange;">중증·파종성·CNS 감염</mark>
 
@@ -308,13 +329,15 @@ Acyclovir·valacyclovir·famciclovir는 신장으로 배설되므로 신기능 �
 * HSV-2 수막염은 최적 치료 근거가 제한적이나 IV acyclovir 5\~10 ㎎/㎏ q8h로 시작하고 임상 호전 후 valacyclovir 1 g tid로 전환하여 총 10\~14일 치료. Valacyclovir 500 ㎎ bid는 재발 수막염 예방에 효과가 없어 이 목적으로 권고하지 않음
 * HSV 뇌염은 IV acyclovir 10 ㎎/㎏ q8h로 14\~21일 치료하며 신기능에 따라 조절하고 신경과·감염내과 협진; 의심 즉시 경험적 IV 치료를 시작하고 PCR 결과를 기다리지 않음
 * IV acyclovir는 충분히 희석하여 최소 1시간에 걸쳐 주입하고 수분 상태·신기능을 추적함; 급속 정주를 피함
-* 적절한 치료에도 병변이 지속·진행하면 먼저 순응도, 신기능에 맞는 용량, 대체 진단을 재평가함. 특히 면역저하자에서는 acyclovir 내성을 고려하여 바이러스 배양과 감수성검사를 시행하고 감염내과와 협진
+* 적절한 치료에도 병변이 지속·진행하면 먼저 순응도, 신기능에 맞는 용량, 대체 진단을 재평가함. 특히 면역저하자에서 치료 시작 7\~10일 내 호전이 시작되지 않으면 내성을 의심하고 바이러스 배양·감수성검사 및 감염내과 협진을 시행함. <mark style="color:$info;">[NIH HSV 지침]</mark>
   * acyclovir 내성주는 valacyclovir에도 내성이며 대부분 famciclovir에도 내성
-  * acyclovir 내성 HSV의 우선 대체 치료는 IV foscarnet; cidofovir 등은 전문의가 상황에 따라 고려. 두 약제 모두 신독성이 크므로 집중 모니터링이 필요
+  * CDC 2021·NIH HSV 지침의 acyclovir 내성 HSV 우선 구제요법은 IV foscarnet이며, cidofovir 등은 전문의가 상황에 따라 고려함. 두 약제 모두 신독성이 크므로 집중 모니터링이 필요함. 이후 미국에서 허가된 pritelivir는 아래 국외 허가 항목과 구분함
 
 {% hint style="info" %}
-**연구·국외 허가 동향**\
-Pritelivir(helicase-primase inhibitor)는 면역저하자의 난치성 HSV 감염(acyclovir 내성 유무 모두 포함)을 대상으로 개발된 약제임. 개발사 AiCuris의 2026년 4월 16일 발표에 따르면 3상 PRIOH-1에서 연구자 선택 치료보다 완전 병변 치유가 우수했고, 2026년 1분기 FDA 신약허가신청서(NDA) 제출 후 우선심사 대상으로 지정되었으며 PDUFA 목표 시점은 2026년 4분기임. 우선심사 지정은 허가를 의미하지 않으며 허가·도입 상태는 이후 갱신이 필요함. 같은 계열의 amenamevir는 일본에서 2017년 대상포진, 2023년 재발성 단순포진의 환자 주도 치료(초기 증상 후 6시간 이내 식후 1,200 ㎎ 1회)로 허가됨; 국내 처방 시 허가·공급 여부를 별도로 확인함.
+**최신 국외 허가 동향**\
+**Pritelivir [Hovilpri]는 2026년 10월 9일 미국 FDA 허가를 받음.** 허가 대상은 acyclovir·valacyclovir·famciclovir에 불응하는 피부·점막 HSV 감염이 있는 **면역저하 성인**이며, 내성 확인 유무와 관계없이 적용됨. Helicase-primase inhibitor 계열의 경구 약제로, PRIOH-1 무작위 공개 비교시험에서 28일 이내 전체 병변 치유율은 63% 대 34%였음. 정상 면역자의 통상적 구순포진·생식기 재발 치료나 CNS·신생아 HSV에 일반화하지 않음. 미국 허가와 국내 허가·공급은 별개이며 국내 사용 가능 품목을 확인하지 못했으므로 본 챕터의 국내 기본 처방에는 포함하지 않음. <mark style="color:$info;">[FDA 승인 안내 2026; Asahi Kasei 2026-10-13]</mark>
+
+Amenamevir는 일본에서 2017년 대상포진, 2023년 재발성 단순포진의 환자 주도 치료(초기 증상 후 6시간 이내 식후 1,200 ㎎ 1회)로 허가됨. 이는 **일본 허가 용법**이며 국내 기본 처방으로 제시하지 않음. <mark style="color:$info;">[Maruho 2023]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">임신·수유 및 신생아</mark>
@@ -323,12 +346,15 @@ Pritelivir(helicase-primase inhibitor)는 면역저하자의 난치성 HSV 감�
 * 임신 중 첫 발현·재발 모두 필요 시 acyclovir로 치료; 중증은 IV 치료. Acyclovir는 임신·수유 중 사용 경험이 가장 많으며 국내 허가사항에 따라 치료상 이익과 위험을 평가; famciclovir는 임신 자료가 제한적이므로 우선 선택하지 않음
 * 임신 3분기에 비감염 임신부는 생식기 HSV가 있는 파트너와 질성교를, 구순포진이 있는 파트너로부터 구강성교를 받는 것을 피하도록 상담
 * 분만에 가까운 시기에 새로 획득한 생식기 HSV는 신생아 전파 위험이 약 30\~50%로 높으므로 모체태아의학·감염 전문의와 협진. 재발성 감염 또는 임신 전반기에 획득한 감염에서는 위험이 1% 미만
-* 재발성 생식기 헤르페스의 임신 36주 이후 억제치료 : acyclovir 400 ㎎ tid 또는 valacyclovir 500 ㎎ bid
+* 임신부의 발열과 원인 불명 중증 간염에서는 피부·생식기 병변이 없어도 파종성 HSV 간염을 고려하고 즉시 입원·경험적 IV acyclovir를 평가함. <mark style="color:$info;">[CDC 2021]</mark>
+* 재발성 생식기 헤르페스의 임신 36주 이후 억제치료 : acyclovir 400 ㎎ tid 또는 valacyclovir 500 ㎎ bid; 지침 용법이며 국내 비임신 정상 면역자의 허가 억제 용량과 구분
 * 분만 진통 시 활동성 생식기 병변 또는 전구 증상이 있으면 제왕절개를 권고하되, 제왕절개도 신생아 전파 위험을 완전히 제거하지는 못함. 병변·전구 증상이 없으면 질식분만 가능
 * 임신 36주 이후 억제치료는 만삭 재발·제왕절개 필요성을 줄이나 신생아 감염을 완전히 예방하지는 못함. 생식기 HSV 병력이 없는 무증상 항체 양성 임신부에게 일률적으로 투여하지 않음
 * Acyclovir의 수유 중 사용은 CDC에서 가능하다고 보지만 국내 메노바 허가사항에는 치료 중 수유 중단 문구가 있음; 지침과 국내 허가사항의 차이를 설명하고 산과·소아과와 약제 및 수유 계획 결정
-* 유방에 활동성 HSV 병변이 있으면 해당 유방의 직접 수유와 유축유 수유를 병변 치유까지 중단하고 해당 유축유는 폐기; 병변을 완전히 덮고 손 위생을 지키면 반대쪽 정상 유방에서 수유 가능 [CDC 2025]
-* 신생아 HSV 의심 시 즉시 입원·소아감염 전문의 협진 및 IV acyclovir; 신생아 표준 예시 20 ㎎/㎏ q8h, 피부·눈·구강형 14일, CNS·파종형 21일. 재태연령·신기능에 따라 간격 조절 및 종료 전 평가가 필요하므로 전문의 관리하에 시행
+* 유방에 활동성 HSV 병변이 있으면 해당 유방의 직접 수유와 유축유 수유를 병변 치유까지 중단하고 해당 유축유는 폐기; 병변을 완전히 덮고 손 위생을 지키면 반대쪽 정상 유방에서 수유 가능. <mark style="color:$info;">[CDC 2025]</mark>
+* 신생아 HSV 의심 시 즉시 입원·소아감염 전문의 협진 및 IV acyclovir; 정상 신기능의 신생아 표준 예시 20 ㎎/㎏ q8h, 피부·눈·구강형 14일, CNS·파종형 최소 21일. 재태연령·신기능에 따라 간격 조절하며 급성기 경구 acyclovir로 대체하지 않음
+  * 발병 초기 CSF HSV PCR 음성만으로 CNS 감염을 배제하지 않음. CNS형은 치료 종료 무렵 CSF PCR을 확인하고 양성이면 치료 연장·반복 검사를 시행함
+  * CNS형은 급성기 치료 후 경구 acyclovir 억제치료 6개월과 신경발달·시력·청력 추적을 계획함. 피부·눈·구강형 또는 CNS 침범 없는 파종형도 재발 억제 목적의 치료 여부를 소아감염 전문의가 결정함; 체표면적·성장에 따른 용량 조정과 혈구·신기능 추적이 필요함. <mark style="color:$info;">[Canadian Paediatric Society 2025 개정·2026 재확인]</mark>
 
 ### <mark style="color:orange;">안구 감염</mark>
 
@@ -339,7 +365,7 @@ Pritelivir(helicase-primase inhibitor)는 면역저하자의 난치성 HSV 감�
 
 * 활동성 상피각막염 : 국소 또는 경구 항바이러스제 단독 치료가 기본이며 국소 스테로이드는 금기
 * 기질각막염·내피염·포도막염 : 안과 전문의 감독하에 항바이러스제를 병용하면서 국소 스테로이드를 사용할 수 있음
-* 구체적인 점안제 선택·용량·치료기간은 병변 층과 범위에 따라 달라지므로 안과 진찰 후 결정
+* 구체적인 점안제 선택·용량·치료기간은 병변 층과 범위에 따라 달라지므로 안과 진찰 후 결정; 재발성 기질각막염 등에서는 안과 전문의가 장기 경구 억제요법을 고려함
 
 ***
 
@@ -375,7 +401,7 @@ A60.9 상세불명의 항문생식기 헤르페스바이러스 감염
 
 ## <mark style="color:purple;">처방례</mark>
 
-* 신기능이 정상인 정상 면역 성인 예시. `T`는 하루 총 정수, `#`는 하루 분복 횟수이며 전체 처방 정수는 괄호에 별도 표기
+* 신기능이 정상인 정상 면역 성인 예시. `T`는 정제 수를 뜻하며 아래 처방의 `nT #m`은 하루 총 n정을 m회로 나누어 복용한다는 의미임. 전체 처방 정수는 괄호에 별도 표기
 
 > **처방례 1. 재발성 구순포진 - 전구기 또는 최초 증상 시**
 >
@@ -383,6 +409,7 @@ A60.9 상세불명의 항문생식기 헤르페스바이러스 감염
 > 발트렉스정 500 ㎎ 8T #2 ×1일 (총 8정)
 > ※ 1회 4정, 12시간 간격으로 총 2회 복용
 > ※ 전구 증상(따끔거림·가려움) 인지 즉시 복용해야 효과적
+> ※ 성인 CrCl ≥50 mL/min 기준; 신장애에서는 위 감량표 적용, 1일 요법을 반복 연장하지 않음
 > ```
 
 > **처방례 2. 첫 임상 발현 생식기 헤르페스**
@@ -393,7 +420,7 @@ A60.9 상세불명의 항문생식기 헤르페스바이러스 감염
 > ※ 검사 결과를 기다리지 않고 임상 의심 시 즉시 시작
 > ```
 >
-> _✽국내 성매개감염 진료지침 2023·CDC 2021 기준 예시. 팜비어 국내 초발 허가 기간은 5일이므로 기간 차이를 구분하고 급여 기준은 별도 확인_
+> _✽국내 성매개감염 진료지침 2023·CDC 2021 기준 예시. 팜비어 국내 초발 허가 기간은 5일이므로 국내 허가 외 기간임을 구분_
 
 > **처방례 3. 재발성 생식기 헤르페스 episodic therapy**
 >
@@ -412,15 +439,7 @@ A60.9 상세불명의 항문생식기 헤르페스바이러스 감염
 > ```
 
 {% hint style="info" %}
-처방례 2는 국내 진료지침·CDC 기준의 7일 요법으로 팜비어 허가 기간(5일)과 차이가 있음. 처방례 3은 CDC의 3일 요법으로 발트렉스 국내 재발 허가 기간(5일)과 차이가 있음. 처방례 4의 acyclovir 400 ㎎ bid는 국내 허가 용량과 일치함. 허가사항과 건강보험 인정기준은 별도로 확인함.
-{% endhint %}
-
-### <mark style="color:orange;">국내 제품 허가 용법과 진료지침의 차이</mark>
-
-<table><thead><tr><th width="110">성분명</th><th width="230">국내 허가 용법</th><th>국내 진료지침 2023·CDC 2021과 대조 시 주의</th></tr></thead><tbody><tr><td>acyclovir</td><td>치료 200 ㎎ 5회/d ×5일, 중증 초발 감염은 연장 가능<br>억제 200 ㎎ qid 또는 400 ㎎ bid</td><td>CDC 첫 임상 발현 요법은 400 ㎎ tid ×7\~10일을 우선 제시</td></tr><tr><td>famciclovir</td><td>생식기 첫 발현 250 ㎎ tid ×5일<br>재발 125 ㎎ bid ×5일<br>억제 250 ㎎ bid</td><td>CDC 첫 임상 발현 기간은 7\~10일. 처방 목적에 따라 국내 허가 용법과 구분 표기</td></tr><tr><td>valaciclovir</td><td>생식기 첫 발현 500 ㎎ bid, 최대 10일<br>재발 500 ㎎ bid ×5일<br>구순포진 2 g bid ×1일<br>생식기 억제: 정상 면역자 500 ㎎/d(500 ㎎ qd 또는 250 ㎎ bid), 면역저하자 500 ㎎ bid</td><td>국내 진료지침·CDC 첫 발현은 1 g bid ×7\~10일, 억제 1 g qd도 권고하나 국내 정상 면역자 허가 용량과 차이. 재발은 국내 지침 1 g qd ×5일, CDC는 500 ㎎ bid ×3일도 권고</td></tr></tbody></table>
-
-{% hint style="info" %}
-**진료지침·제품 허가사항·건강보험 급여 인정기준은 각각 구분함.** 팜비어 허가사항의 6\~12개월 간격 휴약 문구와 CDC의 일률적 휴약 불필요 권고에도 차이가 있음. 처방·청구 전 제품별 최신 허가사항과 급여기준을 각각 확인함.
+처방례 2의 팜비어 7일, 처방례 3의 발트렉스 3일은 진료지침에 따른 **국내 허가 외 기간**임(각 제품의 국내 허가 기간은 5일). 처방례 4의 acyclovir 400 ㎎ bid는 국내 허가 용량과 일치함. 허가사항과 건강보험 인정기준은 별도로 확인함.
 {% endhint %}
 
 ***
@@ -484,23 +503,28 @@ A60.9 상세불명의 항문생식기 헤르페스바이러스 감염
 * 임신 중이거나 임신을 계획한다면 생식기 헤르페스 병력을 반드시 산과 의료진에게 알려야 합니다.
 * 신생아가 물집, 발열, 축 처짐, 잘 먹지 않는 증상을 보이면 즉시 응급 진료를 받으십시오.
 
-
 ***
 
-### <mark style="color:$info;">주요 참고 자료</mark>
+### <mark style="color:$info;">주요 참고문헌 및 확인 자료</mark>
+
+#### ① 임상 근거
 
 * [질병관리청·대한요로생식기감염학회. 성매개감염 진료지침 2023 — 성기단순포진](https://stiguide.kr/성기단순포진-herpes/)
 * [CDC. STI Treatment Guidelines — Genital Herpes (2021)](https://www.cdc.gov/std/treatment-guidelines/herpes.htm)
-* [식품의약품안전처. 발트렉스정500밀리그램 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511001)
-* [팜비어정250 mg 국내 제품설명서](https://www.novartis.com/kr-ko/sites/novartis_kr/files/famvir-250.pdf) — 이전 판매사 자료; 최신 품목 허가사항은 별도 확인
-* [RCH. HSV Gingivostomatitis (2025년 11월 개정)](https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/)
+* [NIH. Herpes Simplex Virus: Adult and Adolescent OIs](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/herpes-simplex) — 2025 개정·2026 재검토; HIV 감염인의 치료·억제요법과 내성 평가 참고
+* [RCH. HSV Gingivostomatitis (2025)](https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/)
+* [HSE. Recurrent cold sores guideline (2026)](https://healthservice.hse.ie/documents/7948/Recurrent_cold_sores_guideline.pdf) — 정상 면역자의 일상적인 경구 치료 제한 및 acyclovir 200 ㎎ 5회/d ×5일 참고
 * [NICE CG57. Atopic eczema in under 12s — 헤르페스습진 즉시 치료·당일 의뢰](https://www.nice.org.uk/guidance/cg57/chapter/recommendations)
 * [PCDS. Eczema herpeticum](https://www.pcds.org.uk/clinical-guidance/eczema-eczema-herpeticum)
-* [CDC. Herpes Simplex Virus and Breastfeeding (2025)](https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html)
-* [AiCuris. Pritelivir FDA 우선심사·3상 결과 발표 (2026-04-16)](https://www.aicuris.com/press-release/aicuris-receives-fda-priority-review-for-pritelivir-nda-and-presents-new-phase-3-data-at-escmid-2026/)
-* [Maruho. Amenamevir 재발성 단순포진 일본 허가 (2023-02-24)](https://www.maruho.co.jp/english/information/20230224.html)
-* [대구파티마병원 약제부 공지 — 펜시비어 크림 생산 중지 관련 (2026-02-19)](https://www.fatima.kr/main/contents.do?a_num=88924595&v_page=13)
-
 * [NHS. Herpetic whitlow](https://www.nhs.uk/conditions/herpetic-whitlow/)
-* [DailyMed. Acyclovir injection — 최소 1시간 주입·신독성 주의](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=babdbce2-5cbd-4943-bc38-9ebdd696a77a)
-* [메노바정 국내 허가사항 수록 정보 — 용량·휴약·수유 문구](https://health.kr/searchDrug/result_drug.asp?drug_cd=A11ABBBBB1184)
+* [CDC. Herpes Simplex Virus and Breastfeeding (2025)](https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html)
+* [Canadian Paediatric Society. Prevention and management of neonatal HSV infections](https://cps.ca/en/documents/position/prevention-management-neonatal-herpes-simplex-virus-infections) — 2025 개정·2026 재확인
+
+#### ② 허가·급여 확인 자료
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 메노바·발트렉스·팜비어·바이버·펜시비어 등 국내 허가사항
+* [FDA. Pritelivir(Hovilpri) 허가 안내 (2026)](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-drug-treat-lesions-caused-herpes-simplex-virus) — 미국 허가 대상·효과 확인
+* [Asahi Kasei. Hovilpri FDA 승인 발표 (2026-10-13)](https://www.asahi-kasei.com/news/2026/e261013)
+* [Maruho. Amenamevir 재발성 단순포진 일본 허가 (2023)](https://www.maruho.co.jp/english/information/20230224.html)
+* [대구파티마병원 약제부. 펜시비어크림 생산 중지·코드 불용 공지 (2026-02-19)](https://www.fatima.or.kr/main/contents.do?a_num=88924595&v_page=13)
+* [DailyMed. Acyclovir injection](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=babdbce2-5cbd-4943-bc38-9ebdd696a77a) — 최소 1시간 주입·신독성 주의
