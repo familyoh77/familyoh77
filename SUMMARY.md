@@ -69,7 +69,7 @@
   * [호흡기 질환의 임상적 진단](223_/059_-respdz.md)
   * [감기 Common Cold](223_/060_-common-cold.md)
   * [급성 인두염 Acute Pharyngitis](223_/061_-acute-pharyngitis.md)
-  * [인후두역류증 Laryngopharyngeal Reflux, LPR](223_/062_-laryngopharyngeal-reflux-lpr.md)
+  * [인후두역류증 Laryngopharyngeal Reflux, LPR](223_/062_-laryngopharyngeal-reflux.md)
   * [후두염 Laryngitis](223_/063_-laryngitis.md)
   * [편도염 Tonsillitis](223_/064_-tonsillitis.md)
   * [편도 주위 농양 Peritonsillar Abscess](223_/065_-peritonsillar-abscess.md)
