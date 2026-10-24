@@ -33,31 +33,31 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 분비물을 삼키지 못하는 심한 침흘림, 빠르게 진행하는 구강저·경부 부종 `기도 폐쇄`
-* 협착음(stridor), 호흡 곤란, 저산소증·청색증, tripod position `기도 폐쇄` `급성 후두개염`
-* 의식 저하 또는 호흡 피로 징후 `호흡부전`
-* 악하 공간 부종·경결, 혀 거상 `Ludwig's angina`
-* 경부 강직·운동 제한, 하악각 아래 경부 종창 `후인두 농양` `부인두 농양`
-* 영상에서 부인두·후인두 등 심부 경부 공간으로의 확산 `심부 경부 감염`
-* 인후통 수일 후 고열 지속 + 흉쇄유돌근 전연 압통 + 흉통·기침·혈담 `Lemierre syndrome`
-* 구강 내 출혈·객혈 또는 편도 부위 박동성 종괴 `경동맥 침식` `가성동맥류`
-* 흉골 뒤 통증, 경부 하부·흉벽 부종 `하행 괴사성 종격동염`
-* 저혈압, 빈맥, 의식 변화 `패혈증`
+* 분비물을 삼키지 못하는 심한 침흘림, 빠르게 진행하는 구강저·경부 부종  `기도 폐쇄`
+* 협착음(stridor), 호흡 곤란, 저산소증·청색증, tripod position  `기도 폐쇄` `급성 후두개염`
+* 의식 저하 또는 호흡 피로 징후  `호흡부전`
+* 악하 공간 부종·경결, 혀 거상  `Ludwig's angina`
+* 경부 강직·운동 제한, 하악각 아래 경부 종창  `후인두 농양` `부인두 농양`
+* 영상에서 부인두·후인두 등 심부 경부 공간으로의 확산  `심부 경부 감염`
+* 인후통 수일 후 고열 지속 + 흉쇄유돌근 전연 압통 + 흉통·기침·혈담  `Lemierre syndrome`
+* 구강 내 출혈·객혈 또는 편도 부위 박동성 종괴  `경동맥 침식` `가성동맥류`
+* 흉골 뒤 통증, 경부 하부·흉벽 부종  `하행 괴사성 종격동염`
+* 저혈압, 빈맥, 의식 변화  `패혈증`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
 * 소아 또는 면역 저하 환자(면역억제제, 조절되지 않는 당뇨병, HIV 등)의 PTA 의심
-* 심한 개구 장애로 구강 내 관찰·시술이 불가능 `하극·심부 농양`
-* 경구 수분·약물 섭취 불가
-* 양측성 편도 주위 팽윤 `양측성 PTA`
-* 배농 후 24\~48시간에도 개구 장애·발열·인후통 미호전 또는 그 전 악화 `배농 불충분` `다방성 농양`
-* 항생제 치료 중 편측 팽윤·연하통 진행 `연조직염의 농양 진행`
+* 심한 개구 장애로 구강 내 관찰·시술이 불가능  `하극·심부 농양`
+* 경구 수분·약물 섭취 불가  `탈수`
+* 양측성 편도 주위 팽윤  `양측성 PTA`
+* 배농 후 24\~48시간에도 개구 장애·발열·인후통 미호전 또는 그 전 악화  `배농 불충분` `다방성 농양`
+* 항생제 치료 중 편측 팽윤·연하통 진행  `연조직염의 농양 진행`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* PTA 회복 후 반복성 편도염 병력 또는 PTA 2회 이상 `재발성 PTA`
-* 항생제에 반응하지 않는 편측 편도 비대·무통성 궤양 `편도 종양`
-* 양측 편도 비대 + 후경부 림프절병증·비장비대 또는 amoxicillin 투여 후 발진 `전염성 단핵구증`
+* PTA 회복 후 반복성 편도염 병력 또는 PTA 2회 이상  `재발성 PTA`
+* 항생제에 반응하지 않는 편측 편도 비대·무통성 궤양  `편도 종양`
+* 양측 편도 비대 + 후경부 림프절병증·비장비대 또는 amoxicillin 투여 후 발진  `전염성 단핵구증`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -95,7 +95,7 @@
 
 #### <mark style="color:$primary;">PTA vs 중증 편도염 vs 급성 후두개염 감별</mark>
 
-<table data-search="false"><thead><tr><th width="105">항목</th><th>편도 주위 농양 (PTA)</th><th>중증 편도염</th><th>급성 후두개염</th></tr></thead><tbody><tr><td><strong>발병 양상</strong></td><td>점진적 (수일)</td><td>급성</td><td>급격할 수 있음</td></tr><tr><td><strong>통증 부위</strong></td><td>편측, 매우 심함</td><td>대개 양측</td><td>구강 소견에 비해 연하통이 매우 심함</td></tr><tr><td><strong>Trismus</strong></td><td>흔함</td><td>드묾</td><td>대개 없음</td></tr><tr><td><strong>음성 변화</strong></td><td>Muffled “hot potato” voice</td><td>경미할 수 있음</td><td>먹먹하거나 쉰 음성</td></tr><tr><td><strong>침흘림</strong></td><td>가능</td><td>드묾</td><td>분비물 처리 곤란 시 발생</td></tr><tr><td><strong>호흡 곤란</strong></td><td>드묾 (진행 시 발생)</td><td>대개 없음</td><td>기도 폐쇄 위험</td></tr><tr><td><strong>Stridor</strong></td><td>비전형적</td><td>비전형적</td><td>나타나면 중증 기도 폐쇄 시사</td></tr><tr><td><strong>자세</strong></td><td>특별한 자세 없음</td><td>정상</td><td>Tripod position 가능</td></tr><tr><td><strong>구강 시진</strong></td><td>연구개 부종 + anterior pillar bulging + uvula 반대측 편위</td><td>양측 편도 비대 ±<br>삼출물</td><td>구강 소견이 정상 또는 경미할 수 있음</td></tr><tr><td><strong>기도 위험도</strong></td><td>진행 정도에 따라 다름</td><td>대개 낮음</td><td>매우 높음 - 즉시 대응</td></tr><tr><td><strong>진단 확인</strong></td><td>Aspiration / 초음파; 필요시 조영 증강 CT</td><td>임상 진단</td><td>기도가 안정적이면 ENT의 flexible nasolaryngoscopy; X-ray/CT는 보조 검사</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="105">항목</th><th>편도 주위 농양 (PTA)</th><th>중증 편도염</th><th>급성 후두개염</th></tr></thead><tbody><tr><td><strong>발병 양상</strong></td><td>점진적 (수일)</td><td>급성</td><td>급격할 수 있음</td></tr><tr><td><strong>통증 부위</strong></td><td>편측, 매우 심함</td><td>대개 양측</td><td>구강 소견에 비해 연하통이 매우 심함</td></tr><tr><td><strong>Trismus</strong></td><td>흔함</td><td>드묾</td><td>대개 없음</td></tr><tr><td><strong>음성 변화</strong></td><td>Muffled “hot potato” voice</td><td>경미할 수 있음</td><td>먹먹하거나 쉰 음성</td></tr><tr><td><strong>침흘림</strong></td><td>가능</td><td>드묾</td><td>분비물 처리 곤란 시 발생</td></tr><tr><td><strong>호흡 곤란</strong></td><td>드묾 (진행 시 발생)</td><td>대개 없음</td><td>기도 폐쇄 위험</td></tr><tr><td><strong>Stridor</strong></td><td>비전형적</td><td>비전형적</td><td>나타나면 중증 기도 폐쇄 시사</td></tr><tr><td><strong>자세</strong></td><td>특별한 자세 없음</td><td>정상</td><td>Tripod position 가능</td></tr><tr><td><strong>구강 시진</strong></td><td>연구개 부종 + anterior pillar bulging + 목젖 반대측 편위</td><td>양측 편도 비대 ±<br>삼출물</td><td>구강 소견이 정상 또는 경미할 수 있음</td></tr><tr><td><strong>기도 위험도</strong></td><td>진행 정도에 따라 다름</td><td>대개 낮음</td><td>매우 높음 - 즉시 대응</td></tr><tr><td><strong>진단 확인</strong></td><td>Aspiration / 초음파; 필요시 조영 증강 CT</td><td>임상 진단</td><td>기도가 안정적이면 ENT의 flexible nasolaryngoscopy; X-ray/CT는 보조 검사</td></tr></tbody></table>
 
 {% hint style="danger" %}
 **급성 후두개염(epiglottitis)은 성인에서도 발생하며, 구강 소견이 정상에 가까워 PTA로 오인될 수 있음.** 구강 소견에 비해 심한 연하통, 분비물 처리 곤란, 호흡 곤란 또는 협착음이 있으면 즉시 기도 평가와 이비인후과 협진이 필요함. 기도 불안정 시 영상이나 무리한 인두 검사를 위해 기도 확보를 지연하지 않음
@@ -103,7 +103,7 @@
 
 #### <mark style="color:$primary;">기타 감별 질환</mark>
 
-<table data-search="false"><thead><tr><th width="139.58819580078125">질환</th><th width="318.11767578125">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td><strong>편도 주위</strong><br><strong>연조직염</strong></td><td>PTA와 소견이 중복될 수 있음; 초음파에서 명확한 농양 cavity 없음</td><td>항생제 치료 후 24~48시간 재평가</td></tr><tr><td><strong>편도 내 농양</strong><br><strong>(intratonsillar abscess)</strong></td><td>편도 실질 내 농양; 연구개 팽윤과 구개수 편위가 적음</td><td>초음파·CT로 감별</td></tr><tr><td><strong>전염성 단핵구증</strong><br><strong>(EBV)</strong></td><td>양측성 심한 편도 비대, 후경부 림프절병증, 비장비대; CBC 및 필요시 EBV 특이 항체</td><td>amoxicillin 함유 제제 투여 금기(발진 위험); PTA와 공존 가능</td></tr><tr><td><strong>부인두 농양</strong></td><td>하악각 아래 경부 종창, 사경, 편도의 내측 전위</td><td>조영 증강 CT; 즉시 이비인후과 의뢰</td></tr><tr><td><strong>후인두 농양</strong></td><td>경부 강직, 경부 굴곡 제한, 인두후벽 팽윤</td><td>기도가 안정적이면 조영 증강 CT; 즉시 이비인후과 의뢰</td></tr><tr><td><strong>Ludwig's</strong><br><strong>angina</strong></td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험; 주로 치성 감염에서 기원</td><td>응급 기도 평가·확보</td></tr><tr><td><strong>치성 감염</strong></td><td>하악 대구치 우식·치주 농양 동반</td><td>치과·구강외과 협진</td></tr><tr><td><strong>편도 종양</strong></td><td>무통성; 항생제 무반응; 편측 편도 비대 지속</td><td>악성 종양 배제 위해 이비인후과 평가·조직검사</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="139.58819580078125">질환</th><th width="318.11767578125">감별 포인트</th><th>비고</th></tr></thead><tbody><tr><td><strong>편도 주위</strong><br><strong>연조직염</strong></td><td>PTA와 소견이 중복될 수 있음; 초음파에서 명확한 농양 cavity 없음</td><td>항생제 치료 후 24~48시간 재평가</td></tr><tr><td><strong>편도 내 농양</strong><br><strong>(intratonsillar abscess)</strong></td><td>편도 실질 내 농양; 연구개 팽윤과 목젖 편위가 적음</td><td>초음파·CT로 감별</td></tr><tr><td><strong>전염성 단핵구증</strong><br><strong>(EBV)</strong></td><td>양측성 심한 편도 비대, 후경부 림프절병증, 비장비대; CBC 및 필요시 EBV 특이 항체</td><td>amoxicillin 함유 제제 투여 금기(발진 위험); PTA와 공존 가능</td></tr><tr><td><strong>부인두 농양</strong></td><td>하악각 아래 경부 종창, 사경, 편도의 내측 전위</td><td>조영 증강 CT; 즉시 이비인후과 의뢰</td></tr><tr><td><strong>후인두 농양</strong></td><td>경부 강직, 경부 굴곡 제한, 인두후벽 팽윤</td><td>기도가 안정적이면 조영 증강 CT; 즉시 이비인후과 의뢰</td></tr><tr><td><strong>Ludwig's</strong><br><strong>angina</strong></td><td>악하 공간 부종·경결, 혀 거상, 기도 폐쇄 위험; 주로 치성 감염에서 기원</td><td>응급 기도 평가·확보</td></tr><tr><td><strong>치성 감염</strong></td><td>하악 대구치 우식·치주 농양 동반</td><td>치과·구강외과 협진</td></tr><tr><td><strong>편도 종양</strong></td><td>무통성; 항생제 무반응; 편측 편도 비대 지속</td><td>악성 종양 배제 위해 이비인후과 평가·조직검사</td></tr></tbody></table>
 
 {% hint style="warning" %}
 외래에서 절대 놓치면 안 되는 3가지 :\
@@ -182,8 +182,8 @@ flowchart TD
 
 <mark style="color:cyan;">**Drain vs No Drain 결정 원칙**</mark>
 
-* 배농 우선 대상: 영상 또는 진단적 흡인으로 확인된 임상적으로 의미 있는 농양, 현저한 trismus·침흘림·muffled voice, 항생제 치료 실패
-* 배농 보류 가능 대상: 영상에서 명확한 농양 cavity가 없고 연조직염이 의심되는 경우, 또는 기도·심부 확산 위험이 없고 증상이 경미한 선택된 비복잡성 병변으로, 신뢰할 수 있는 24\~48시간 추적이 가능한 경우
+* 배농 우선 대상 : 영상 또는 진단적 흡인으로 확인된 임상적으로 의미 있는 농양, 현저한 trismus·침흘림·muffled voice, 항생제 치료 실패
+* 배농 보류 가능 대상 : 영상에서 명확한 농양 cavity가 없고 연조직염이 의심되는 경우, 또는 기도·심부 확산 위험이 없고 증상이 경미한 선택된 비복잡성 병변으로, 신뢰할 수 있는 24\~48시간 추적이 가능한 경우
 * 농양 크기만으로 배농 여부를 결정하지 않으며 증상, 위치, 기도 위험, 면역 상태와 추적 가능성을 함께 판단
 
 <mark style="color:cyan;">**Needle aspiration safety checklist**</mark>
@@ -216,7 +216,8 @@ flowchart TD
 
 ### <mark style="color:orange;">Incision & Drainage (I\&D)</mark>
 
-* 대상 : Needle aspiration으로 충분히 배농되지 않거나 다방성 농양, 재축적 또는 적절한 항생제 치료에도 반응이 없는 경우
+* 전문의 판단에 따라 일차 배농법으로 선택할 수 있음
+* Needle aspiration으로 충분히 배농되지 않거나 다방성 농양·재축적 또는 적절한 항생제 치료에도 반응이 없는 경우 특히 고려
 * 전문과에서 시행
 
 ### <mark style="color:orange;">배농 후 관찰 및 귀가</mark>
@@ -233,7 +234,7 @@ flowchart TD
 * 급성기 편도 절제술(quinsy tonsillectomy)은 선택된 환자에서 시행할 수 있으나 routine 치료는 아님
 
 {% hint style="info" %}
-2025년 성인 41명(CT로 확인된 1 ㎝ 이상 농양)의 단일기관 무작위시험에서 즉시 편도 절제술군의 48시간 치료 성공률이 국소마취 I\&D군보다 높아 조기 종료됨(100% vs 75%; I\&D 실패 5명 중 4명은 농양 위치 확인 실패). 다만 수술 후 출혈은 절제술군 7/21명(33%), 배농군 0/20명이었고 절제술군 5/21명은 지혈을 위한 재수술이 필요했음. 효능과 출혈 위험을 함께 해석해야 하며 이 출혈률을 일반적인 수술 위험으로 확대하거나 모든 PTA의 routine 치료를 변경하는 근거로 일반화하지 않음 <mark style="color:$info;">\[Am J Otolaryngol 2025]</mark>\
+2025년 성인 41명(CT로 확인된 1 ㎝ 이상 농양)의 단일기관 무작위시험에서 즉시 편도 절제술군의 48시간 치료 성공률이 국소마취 I\&D군보다 높았음(100% vs 75%; I\&D 실패 5명 중 4명은 농양 위치 확인 실패). 다만 수술 후 출혈은 절제술군 7/21명(33%), 배농군 0/20명이었고 절제술군 5/21명은 지혈을 위한 재수술이 필요했음. 효능과 출혈 위험을 함께 해석해야 하며 이 출혈률을 일반적인 수술 위험으로 확대하거나 모든 PTA의 routine 치료를 변경하는 근거로 일반화하지 않음 <mark style="color:$info;">\[Am J Otolaryngol 2025]</mark>\
 2026년 단일기관 후향적 코호트(321명)에서도 I\&D 후 동측 재발(8.6% vs 0%)은 많았으나 수술 합병증은 편도 절제술군이 많았음(13.6% vs 1.7%) <mark style="color:$info;">\[Sci Rep 2026]</mark>
 {% endhint %}
 
@@ -265,7 +266,7 @@ flowchart TD
 
 ### <mark style="color:orange;">경구 (외래)</mark>
 
-* 1차 : amoxicillin/clavulanate 625 ㎎ tid <mark style="color:blue;">\[오구멘틴 625 ㎎]</mark>
+* 1차 : amoxicillin/clav. 625 ㎎ tid <mark style="color:blue;">\[오구멘틴 625 ㎎]</mark>
 * 대안 : amoxicillin/sulbactam 1,000 ㎎(2정) tid <mark style="color:blue;">\[박타목신 500 ㎎]</mark>
 * 중증 즉시형 페니실린 알레르기 : clindamycin 300\~450 ㎎ q6\~8h <mark style="color:blue;">\[훌그램 150 ㎎]</mark>; 지역 내성률과 _C. difficile_ 감염 위험 고려
 * 경증 비즉시형 페니실린 반응은 병력을 재평가하고 필요시 cefuroxime axetil 500 ㎎ bid + metronidazole 500 ㎎ tid 등 cephalosporin + metronidazole 요법 고려
@@ -285,7 +286,7 @@ flowchart TD
 * naproxen sodium : 275 ㎎ tid 또는 550 ㎎ bid <mark style="color:blue;">\[아나프록스]</mark> (보험주의)
 * ibuprofen : 400 ㎎ tid\~qid <mark style="color:blue;">\[부루펜]</mark>
 * acetaminophen : 500\~1,000 ㎎ q6\~8h; 최대 4 g/d이나 일반적으로 3 g/d 이하 권장
-  * &#x20;acetaminophen ER 650 ㎎ <mark style="color:blue;">\[타이레놀 ER]</mark> : 8시간 간격 투여, 1회 최대 2정·1일 최대 6정. 간질환, 과음, 고령·저체중 환자는 최대량을 낮춤
+  * acetaminophen ER 650 ㎎ <mark style="color:blue;">\[타이레놀 ER]</mark> : 8시간 간격 투여, 1회 최대 2정·1일 최대 6정. 간질환, 과음, 고령·저체중 환자는 최대량을 낮춤
   * acetaminophen 함유 제제 복용 시 일일 총량을 합산하여 1일 용량을 제한
 * 중증 통증 : tramadol 또는 경구 opioid 단기 병용 고려
 * NSAIDs는 제품별 금기를 먼저 확인
@@ -356,7 +357,7 @@ flowchart TD
 > * 복용 중 부작용이 생기거나 24\~48시간 내 호전되지 않으면 임의로 약을 바꾸지 말고 처방기관에 연락하십시오.
 > * 오구멘틴은 위장 장애를 줄이기 위해 식사 시작 시 복용하고, 훌그램은 식사와 관계없이 복용할 수 있습니다.
 
-> **오구멘틴(amoxicillin/clavulanate) 주의 사항**
+> **오구멘틴(amoxicillin/clav.) 주의 사항**
 >
 > * 가장 흔한 부작용은 구역·구토·설사입니다. 심한 설사나 복통이 지속되면 즉시 내원하십시오.
 > * 페니실린 계열 알레르기가 있으신 분은 반드시 처방 전에 말씀해 주십시오.
