@@ -1,4 +1,4 @@
-# 편도 주위 농양 Peritonsillar Abscess, PTA
+# 편도 주위 농양 Peritonsillar Abscess
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -14,7 +14,7 @@
 * 대부분 호기성·혐기성 균주의 복합 감염
 * 호기성 균주 : Group A Streptococcus (GAS, _S. pyogenes_), _Streptococcus anginosus_ group, _S. aureus_, _H. influenzae_
 * 혐기성 균주 : _Fusobacterium necrophorum_, _Peptostreptococcus_ spp., _Prevotella_ spp.
-* 임상 포인트 : _F. necrophorum_은 청소년·젊은 성인에서 상대적으로 많으며, _S. anginosus_ group 검출 환자는 이들보다 평균 연령이 높았음 <mark style="color:$info;">\[Sci Rep 2026]</mark>
+* 임상 포인트 : \_F. necrophorum\_은 청소년·젊은 성인에서 상대적으로 많으며, _S. anginosus_ group 검출 환자는 이들보다 평균 연령이 높았음 <mark style="color:$info;">\[Sci Rep 2026]</mark>
   * _F. necrophorum_ 감염은 Lemierre syndrome(경정맥 패혈성 혈전정맥염 + 혐기성 패혈 전이)의 주요 원인균임을 항상 기억할 것
 
 ## <mark style="color:green;">임상 양상</mark>
@@ -31,31 +31,31 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 분비물을 삼키지 못하는 심한 침흘림, 빠르게 진행하는 구강저·경부 부종  `기도 폐쇄`
-* 협착음(stridor), 호흡 곤란, 저산소증·청색증, tripod position  `기도 폐쇄` `급성 후두개염`
-* 의식 저하 또는 호흡 피로 징후  `호흡부전`
-* 악하 공간 부종·경결, 혀 거상  `Ludwig's angina`
-* 경부 강직·운동 제한, 하악각 아래 경부 종창  `후인두 농양` `부인두 농양`
-* 영상에서 부인두·후인두 등 심부 경부 공간으로의 확산  `심부 경부 감염`
-* 인후통 수일 후 고열 지속 + 흉쇄유돌근 전연 압통 + 흉통·기침·혈담  `Lemierre syndrome`
-* 구강 내 출혈·객혈 또는 편도 부위 박동성 종괴  `경동맥 침식` `가성동맥류`
-* 흉골 뒤 통증, 경부 하부·흉벽 부종  `하행 괴사성 종격동염`
-* 저혈압, 빈맥, 의식 변화  `패혈증`
+* 분비물을 삼키지 못하는 심한 침흘림, 빠르게 진행하는 구강저·경부 부종 `기도 폐쇄`
+* 협착음(stridor), 호흡 곤란, 저산소증·청색증, tripod position `기도 폐쇄` `급성 후두개염`
+* 의식 저하 또는 호흡 피로 징후 `호흡부전`
+* 악하 공간 부종·경결, 혀 거상 `Ludwig's angina`
+* 경부 강직·운동 제한, 하악각 아래 경부 종창 `후인두 농양` `부인두 농양`
+* 영상에서 부인두·후인두 등 심부 경부 공간으로의 확산 `심부 경부 감염`
+* 인후통 수일 후 고열 지속 + 흉쇄유돌근 전연 압통 + 흉통·기침·혈담 `Lemierre syndrome`
+* 구강 내 출혈·객혈 또는 편도 부위 박동성 종괴 `경동맥 침식` `가성동맥류`
+* 흉골 뒤 통증, 경부 하부·흉벽 부종 `하행 괴사성 종격동염`
+* 저혈압, 빈맥, 의식 변화 `패혈증`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 소아 또는 면역 저하 환자(면역억제제, 조절되지 않는 당뇨병, HIV 등)의 PTA 의심 **(당일)**
-* 심한 개구 장애로 구강 내 관찰·시술이 불가능 **(당일)**  `하극·심부 농양`
-* 경구 수분·약물 섭취 불가 **(당일)**  `탈수`
-* 양측성 편도 주위 팽윤 **(당일)**  `양측성 PTA`
-* 배농 후 24\~48시간에도 개구 장애·발열·인후통 미호전 또는 그 전 악화 **(당일)**  `배농 불충분` `다방성 농양`
-* 항생제 치료 중 편측 팽윤·연하통 진행 **(당일)**  `연조직염의 농양 진행`
+* 심한 개구 장애로 구강 내 관찰·시술이 불가능 **(당일)** `하극·심부 농양`
+* 경구 수분·약물 섭취 불가 **(당일)** `탈수`
+* 양측성 편도 주위 팽윤 **(당일)** `양측성 PTA`
+* 배농 후 24\~48시간에도 개구 장애·발열·인후통 미호전 또는 그 전 악화 **(당일)** `배농 불충분` `다방성 농양`
+* 항생제 치료 중 편측 팽윤·연하통 진행 **(당일)** `연조직염의 농양 진행`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* PTA 회복 후 반복성 편도염 병력 또는 PTA 2회 이상  `재발성 PTA`
-* 항생제에 반응하지 않는 편측 편도 비대·무통성 궤양  `편도 종양`
-* 양측 편도 비대 + 후경부 림프절병증·비장비대 또는 amoxicillin 투여 후 발진  `전염성 단핵구증`
+* PTA 회복 후 반복성 편도염 병력 또는 PTA 2회 이상 `재발성 PTA`
+* 항생제에 반응하지 않는 편측 편도 비대·무통성 궤양 `편도 종양`
+* 양측 편도 비대 + 후경부 림프절병증·비장비대 또는 amoxicillin 투여 후 발진 `전염성 단핵구증`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -109,30 +109,31 @@
 
 ```mermaid
 flowchart TD
-    A["편도 주위 농양 의심"] --> B["기도 위험·심부 확산·패혈증 징후?"]
-    B -- 있음 --> C["즉시 응급 이송·기도 확보 준비"]
-    B -- 없음 --> D["전형적 소견·숙련된 시술 가능?"]
-    D -- 예 --> G["진단적 흡인 또는 절개 배농"]
-    D -- 아니오 --> E["초음파·필요시 조영 CT 또는 ENT 의뢰"]
+    A["편도 주위 농양 의심"] --> B["기도 위험·심부 확산<br/>·패혈증 징후?"]
+    B -- 있음 --> C["즉시 응급 이송<br/>·기도 확보 준비"]
+    B -- 없음 --> D["전형적 소견<br/>·숙련된 시술 가능?"]
+    D -- 예 --> G["진단적 흡인 <br/>또는 절개 배농"]
+    D -- 아니오 --> E["초음파·필요시 조영 CT <br/>또는 ENT 의뢰"]
     E --> Q["농양 확인?"]
-    Q -- 아니오 --> F["연조직염 치료·항생제와 진통제"]
-    Q -- 예 --> R["전문의가 약물 단독 치료 대상으로 판단?"]
+    Q -- 아니오 --> F["연조직염 치료<br/>·항생제와 진통제"]
+    Q -- 예 --> R["전문의가 약물 단독 <br/>치료 대상으로 판단?"]
     R -- 아니오 --> G
-    R -- 예 --> S["약물 치료·즉시 배농 가능한 체계 확보"]
+    R -- 예 --> S["약물 치료<br/>·즉시 배농 가능한 <br/>체계 확보"]
     G --> H["충분한 배농?"]
-    H -- 아니오 --> J["당일 ENT 재평가·영상 또는 추가 배농"]
-    H -- 예 --> O["출혈·기도 안정과 경구 섭취 확인"]
-    O --> I["항생제 통상 총 10일·증상 치료"]
-    I --> K["24~48시간 내 재평가"]
+    H -- 아니오 --> J["당일 ENT 재평가<br/>·영상 또는 추가 배농"]
+    H -- 예 --> O["출혈·기도 안정과 <br/>경구 섭취 확인"]
+    O --> I["항생제 통상 <br/>총 10일·증상 치료"]
     F --> K
     S --> K
     K --> M["임상 호전?"]
-    M -- 예 --> N["처방 기간 완료·재발 시 절제술 상담"]
     M -- 아니오 --> J
     I -- 그 전에 악화 --> J
+    I --> K["24~48시간 내 재평가"]
     F -- 그 전에 악화 --> J
     S -- 그 전에 악화 --> J
     J -- 응급 징후 동반 --> C
+    M -- 예 ---> N["처방 기간 완료·재발 시 <br/>절제술 상담"]
+
     classDef question fill:#fff9c4,stroke:#ffe082
     class B,D,Q,R,H,M question
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
@@ -227,7 +228,6 @@ flowchart TD
 ## <mark style="color:green;">항생제</mark>
 
 * 아래 용량은 신기능이 정상인 성인 기준. 신기능 저하 시 약제별 용량·간격을 조정(예: amoxicillin/clavulanate는 CrCl ＜30 ㎖/분에서 투여 간격 연장)
-
 * 목표 균주 : GAS 및 _Streptococcus anginosus_ group, _Fusobacterium necrophorum_ 등 구강 혐기성균
 * 국내에서는 다균성 감염을 고려하여 amoxicillin/clavulanate가 기본 경구제로 흔히 사용됨. 북유럽에서는 충분히 배농된 면역 정상 환자에서 penicillin V 단독요법이 표준으로 쓰이며, 이 자료는 혐기성균 약제를 일률적으로 병용할 필요가 없다는 근거로 해석. Metronidazole 또는 clindamycin을 모든 환자에게 일률적으로 추가하지 않음
 * 2026년 스웨덴 889명 후향적 관찰연구에서 β-lactam 단독군(96% penicillin)은 clindamycin 또는 metronidazole 병용군보다 30일 이내 인두편도염·PTA 재발이 증가하지 않았음. 관찰연구이므로 약제 간 동등성, 배농 생략 또는 중증 감염에서의 협범위 요법 안전성을 입증한 결과는 아님 <mark style="color:$info;">\[Clin Microbiol Infect 2026]</mark>
@@ -368,69 +368,55 @@ flowchart TD
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* Long B, Gottlieb M. Managing Peritonsillar Abscess. Ann Emerg Med. 2023;82:101-107. - 진단, 기도 평가, 배농 및 외래·입원 치료.
+*   Long B, Gottlieb M. Managing Peritonsillar Abscess. Ann Emerg Med. 2023;82:101-107. - 진단, 기도 평가, 배농 및 외래·입원 치료.
 
-  [https://pubmed.ncbi.nlm.nih.gov/36669912/](https://pubmed.ncbi.nlm.nih.gov/36669912/)
+    [https://pubmed.ncbi.nlm.nih.gov/36669912/](https://pubmed.ncbi.nlm.nih.gov/36669912/)
+*   Forner D et al. Medical Intervention Alone vs Surgical Drainage for Treatment of Peritonsillar Abscess: A Systematic Review and Meta-analysis. Otolaryngol Head Neck Surg. 2020;163:915-922. - 선택된 환자의 약물 단독 치료 근거와 한계.
 
-* Forner D et al. Medical Intervention Alone vs Surgical Drainage for Treatment of Peritonsillar Abscess: A Systematic Review and Meta-analysis. Otolaryngol Head Neck Surg. 2020;163:915-922. - 선택된 환자의 약물 단독 치료 근거와 한계.
+    [https://pubmed.ncbi.nlm.nih.gov/32482146/](https://pubmed.ncbi.nlm.nih.gov/32482146/)
+*   Kim DJ et al. Test characteristics of ultrasound for the diagnosis of peritonsillar abscess: A systematic review and meta-analysis. Acad Emerg Med. 2023;30:859-869. - 초음파 진단 정확도(구강 내·경부).
 
-  [https://pubmed.ncbi.nlm.nih.gov/32482146/](https://pubmed.ncbi.nlm.nih.gov/32482146/)
+    [https://doi.org/10.1111/acem.14660](https://doi.org/10.1111/acem.14660)
+*   Voruz F et al. Diagnosis of Peritonsillar Abscess - A Prospective Study Comparing Clinical with CT Findings in 133 Consecutive Patients. Diagnostics. 2025;15:228. - 임상 소견과 조영 CT의 진단 성능.
 
-* Kim DJ et al. Test characteristics of ultrasound for the diagnosis of peritonsillar abscess: A systematic review and meta-analysis. Acad Emerg Med. 2023;30:859-869. - 초음파 진단 정확도(구강 내·경부).
+    [https://doi.org/10.3390/diagnostics15020228](https://doi.org/10.3390/diagnostics15020228)
+*   Chang BA et al. Needle aspiration versus incision and drainage for the treatment of peritonsillar abscess. Cochrane Database Syst Rev. 2016;12:CD006287. - 두 배농법의 재발 비교와 근거 확실성.
 
-  [https://doi.org/10.1111/acem.14660](https://doi.org/10.1111/acem.14660)
+    [https://doi.org/10.1002/14651858.CD006287.pub4](https://doi.org/10.1002/14651858.CD006287.pub4)
+*   MSD Manual Professional Edition. How To Drain a Peritonsillar Abscess. Updated 2025. - 천자 방향·깊이 제한, 바늘 가드 고정과 배농 후 관찰.
 
-* Voruz F et al. Diagnosis of Peritonsillar Abscess - A Prospective Study Comparing Clinical with CT Findings in 133 Consecutive Patients. Diagnostics. 2025;15:228. - 임상 소견과 조영 CT의 진단 성능.
+    [https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/how-to-do-throat-procedures/how-to-drain-a-peritonsillar-abscess](https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/how-to-do-throat-procedures/how-to-drain-a-peritonsillar-abscess)
+*   University of Iowa. Peritonsillar Abscess (PTA) Management. Updated 2023. - 항생제 용량·치료 기간 및 배농·퇴원 기준.
 
-  [https://doi.org/10.3390/diagnostics15020228](https://doi.org/10.3390/diagnostics15020228)
+    [https://iowaprotocols.medicine.uiowa.edu/protocols/peritonsillar-abscess-pta-management](https://iowaprotocols.medicine.uiowa.edu/protocols/peritonsillar-abscess-pta-management)
+*   Moen CM et al. A systematic review of the role of penicillin versus penicillin plus metronidazole in the management of peritonsillar abscess. J Laryngol Otol. 2023;137:992-996. - Metronidazole의 일률적인 추가 투여에 대한 근거 검토.
 
-* Chang BA et al. Needle aspiration versus incision and drainage for the treatment of peritonsillar abscess. Cochrane Database Syst Rev. 2016;12:CD006287. - 두 배농법의 재발 비교와 근거 확실성.
+    [https://pubmed.ncbi.nlm.nih.gov/37194922/](https://pubmed.ncbi.nlm.nih.gov/37194922/)
+*   Loggarfve M et al. Efficacy of beta-lactam monotherapy versus clindamycin or addition of metronidazole in peritonsillar abscess - an observational cohort study with a focus on Fusobacterium necrophorum. Clin Microbiol Infect. 2026. doi:10.1016/j.cmi.2026.07.044. - 889명 후향적 연구의 30일 재발 비교; 약제 동등성 또는 배농 생략을 입증한 연구는 아님.
 
-  [https://doi.org/10.1002/14651858.CD006287.pub4](https://doi.org/10.1002/14651858.CD006287.pub4)
+    [https://pubmed.ncbi.nlm.nih.gov/42546922/](https://pubmed.ncbi.nlm.nih.gov/42546922/)
+*   van de Loo J et al. The microbiological spectrum and clinical course of adolescents and adults with peritonsillar abscesses. Sci Rep. 2026;16:23994. - 321명 후향적 코호트의 원인균 분포·연령 특성·감수성, I\&D와 편도 절제술의 재발·합병증.
 
-* MSD Manual Professional Edition. How To Drain a Peritonsillar Abscess. Updated 2025. - 천자 방향·깊이 제한, 바늘 가드 고정과 배농 후 관찰.
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC13434115/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13434115/)
+*   Voruz F et al. A randomized clinical trial of peritonsillar abscess treatment comparing drainage and tonsillectomy. Am J Otolaryngol. 2025;46(6):104745. - 성인 41명의 단일기관 시험; 48시간 성공률과 수술 후 출혈을 함께 해석.
 
-  [https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/how-to-do-throat-procedures/how-to-drain-a-peritonsillar-abscess](https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/how-to-do-throat-procedures/how-to-drain-a-peritonsillar-abscess)
+    [https://pubmed.ncbi.nlm.nih.gov/41192203/](https://pubmed.ncbi.nlm.nih.gov/41192203/)
+*   Lee YJ et al. The Efficacy of Corticosteroids in the Treatment of Peritonsillar Abscess: A Meta-Analysis. Clin Exp Otorhinolaryngol. 2016;9(2):89-97. - 스테로이드 병용의 단기 증상 개선과 근거의 한계.
 
-* University of Iowa. Peritonsillar Abscess (PTA) Management. Updated 2023. - 항생제 용량·치료 기간 및 배농·퇴원 기준.
+    [https://synapse.koreamed.org/articles/1157561](https://synapse.koreamed.org/articles/1157561)
+*   CDC. Laboratory Testing for Epstein-Barr Virus (EBV). - EBV 동반 감별과 Monospot의 한계.
 
-  [https://iowaprotocols.medicine.uiowa.edu/protocols/peritonsillar-abscess-pta-management](https://iowaprotocols.medicine.uiowa.edu/protocols/peritonsillar-abscess-pta-management)
+    [https://www.cdc.gov/epstein-barr/php/laboratories/](https://www.cdc.gov/epstein-barr/php/laboratories/)
+*   CDC. Clinical Features of Penicillin Allergy. - 중증 지연형 약물반응의 분류와 전문 평가.
 
-* Moen CM et al. A systematic review of the role of penicillin versus penicillin plus metronidazole in the management of peritonsillar abscess. J Laryngol Otol. 2023;137:992-996. - Metronidazole의 일률적인 추가 투여에 대한 근거 검토.
-
-  [https://pubmed.ncbi.nlm.nih.gov/37194922/](https://pubmed.ncbi.nlm.nih.gov/37194922/)
-
-* Loggarfve M et al. Efficacy of beta-lactam monotherapy versus clindamycin or addition of metronidazole in peritonsillar abscess - an observational cohort study with a focus on Fusobacterium necrophorum. Clin Microbiol Infect. 2026. doi:10.1016/j.cmi.2026.07.044. - 889명 후향적 연구의 30일 재발 비교; 약제 동등성 또는 배농 생략을 입증한 연구는 아님.
-
-  [https://pubmed.ncbi.nlm.nih.gov/42546922/](https://pubmed.ncbi.nlm.nih.gov/42546922/)
-
-* van de Loo J et al. The microbiological spectrum and clinical course of adolescents and adults with peritonsillar abscesses. Sci Rep. 2026;16:23994. - 321명 후향적 코호트의 원인균 분포·연령 특성·감수성, I\&D와 편도 절제술의 재발·합병증.
-
-  [https://pmc.ncbi.nlm.nih.gov/articles/PMC13434115/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13434115/)
-
-* Voruz F et al. A randomized clinical trial of peritonsillar abscess treatment comparing drainage and tonsillectomy. Am J Otolaryngol. 2025;46(6):104745. - 성인 41명의 단일기관 시험; 48시간 성공률과 수술 후 출혈을 함께 해석.
-
-  [https://pubmed.ncbi.nlm.nih.gov/41192203/](https://pubmed.ncbi.nlm.nih.gov/41192203/)
-
-* Lee YJ et al. The Efficacy of Corticosteroids in the Treatment of Peritonsillar Abscess: A Meta-Analysis. Clin Exp Otorhinolaryngol. 2016;9(2):89-97. - 스테로이드 병용의 단기 증상 개선과 근거의 한계.
-
-  [https://synapse.koreamed.org/articles/1157561](https://synapse.koreamed.org/articles/1157561)
-
-* CDC. Laboratory Testing for Epstein-Barr Virus (EBV). - EBV 동반 감별과 Monospot의 한계.
-
-  [https://www.cdc.gov/epstein-barr/php/laboratories/](https://www.cdc.gov/epstein-barr/php/laboratories/)
-
-* CDC. Clinical Features of Penicillin Allergy. - 중증 지연형 약물반응의 분류와 전문 평가.
-
-  [https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html](https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html)
+    [https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html](https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+*   건강보험심사평가원. 약제급여기준 및 약제급여목록 - 국내 약제 급여기준 및 급여 상태 확인.
 
-* 건강보험심사평가원. 약제급여기준 및 약제급여목록 - 국내 약제 급여기준 및 급여 상태 확인.
-
-  [https://www.hira.or.kr](https://www.hira.or.kr)
+    [https://www.hira.or.kr](https://www.hira.or.kr)
 
 ***
 
