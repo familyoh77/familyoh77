@@ -99,7 +99,7 @@
 * 광범위 박리·점막 미란·심한 전신증상  `SJS/TEN 등 중증 피부반응 감별`
 * 갑자기 발생한 통증성·단형성 수포 또는 punched-out erosion  `헤르페스성 습진 의심`
 
-<mark style="color:$warning;">**당일 평가**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 광범위·급속히 악화되는 피부염 또는 심한 얼굴·눈꺼풀·생식기 부종  `중증 피부염`
 * 발열·화농·통증 증가·빠르게 진행하는 홍반  `이차 세균감염 의심`
@@ -231,19 +231,22 @@ graph TD
 #### <mark style="color:$primary;">[Steroid](../231_/211_-topical-corticosteroids.md)</mark>
 
 * 병변의 부위·두께·중증도에 맞는 역가를 선택
-* 도포 횟수는 제품 허가사항과 역가에 따라 설정. mometasone은 1일 1회, hydrocortisone은 1일 1\~3회, 트리코트크림은 1일 2\~3회가 국내 허가 용법이며, 호전 시 감량·중단
+* 도포 횟수는 제품 허가사항과 역가에 따라 설정. 모리코트크림(mometasone)은 1일 1회, 하티손로션(hydrocortisone)은 1일 1\~3회가 국내 허가 용법이며, 호전 시 감량·중단함. 제품 변경 시 도포 횟수도 해당 제품에 맞추어 변경함
 * 얼굴·눈꺼풀·목·겨드랑이·사타구니 등 얇은/겹치는 부위 : 저역가를 짧게 사용
   * hydrocortisone 1\~2.5% lotion <mark style="color:blue;">\[하티손로션1%, 하티손로션2.5%]</mark>
 * 몸통·사지 : 중간 역가
-  * triamcinolone acetonide 0.1% cream <mark style="color:blue;">\[트리코트 등]</mark>
-  * mometasone furoate 0.1% cream <mark style="color:blue;">\[모리코트크림 등]</mark> - 크림과 연고의 역가를 동일하게 간주하지 않음. 같은 성분의 연고는 고역가로 분류될 수 있으므로 손습진 챕터의 모리코트연고와 제형을 구분함
+  * mometasone furoate 0.1% cream <mark style="color:blue;">\[모리코트크림 등]</mark> - 크림과 연고의 역가를 동일하게 간주하지 않음. **KADA 2025 기준 0.1% 크림은 Class III\~IV, 연고는 Class II**로 구분함. 모리코트크림은 **2세 이하 영아 금기**, 소아 3주 이상 연용하지 않으며 밀봉붕대법을 삼감
 * 손바닥·발바닥 또는 심한 태선화 병소 : 중\~고역가를 고려하고, 필요하면 초고역가를 **단기간만** 선택
-  * clobetasol propionate 0.05% <mark style="color:blue;">\[더모베이트]</mark>
-  * **초고역가** 제제임을 구분하며 통상 1\~2주 이내 사용 후 재평가; 얼굴·간찰부에는 사용하지 않음
+  * clobetasol propionate 0.05% 크림 <mark style="color:blue;">\[베타베이트크림]</mark>
+  * **초고역가** 제제임을 구분하며 1일 1\~2회 단기 사용. 2주 이상 연속 치료·주 50 g 초과 사용을 피하며 24개월 미만은 금기임; 얼굴·간찰부에는 사용하지 않음
 * 급성기 호전 후에는 도포 횟수·역가를 줄이거나 중단
-* 밀폐 요법은 약물 흡수를 크게 증가시키므로 제한적으로 사용하며 모낭염, 위축 등 부작용에 주의 (☞ p.868)
+* 밀폐 요법은 약물 흡수를 크게 증가시키므로 제한적으로 사용하며 모낭염, 위축 등 부작용에 주의함. **모리코트크림 등 제품의 밀봉붕대법 제한을 우선**함 (☞ p.868)
 * 만성 반복 병변은 원인 노출·동반 ACD를 재평가하고, 장기 국소 치료가 필요하면 최소 유효 역가의 간헐적 치료를 개별적으로 고려 (☞ p.869)
 * 눈꺼풀에는 눈에 들어가지 않도록 소량 사용하며, 반복·장기 사용 시 안압 상승·녹내장 가능성에 주의
+
+{% hint style="info" %}
+트리코트크림0.1%와 모리코트연고는 허가정보 전재본에 2026-07-01, 더모베이트연고는 2025-10-22 취소일이 표시되어 현재 처방용 예에서 제외함. 모리코트크림·더모베이트액 등 다른 제형까지 취소된 것으로 일반화하지 않으며, 기생산품의 유통·급여 종료는 별도로 확인함. <mark style="color:$info;">[약학정보원 품목별 허가정보; 2026-10-24 확인]</mark>
+{% endhint %}
 
 #### <mark style="color:$primary;">[Calcineurin 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor)</mark>
 
@@ -251,6 +254,7 @@ graph TD
 * 특히 얼굴·눈꺼풀·간찰부 등 국소 steroid 장기 사용을 피하고 싶은 반복성 병변에서 피부과적 판단 하에 고려
 * 도포 초기에 **작열감·따가움(burning/stinging)**이 나타날 수 있으나 대개 며칠간 지속 사용하면서 감소함을 안내
 * 접촉피부염에서의 사용은 off-label이며, 특히 소아 접촉피부염에 대한 유효성 근거는 제한적
+* 보습제 병용은 성분별로 구분함: tacrolimus는 같은 부위 보습제와 적어도 2시간 간격을 두는 EMA 제품 지침을 참고하고, pimecrolimus는 도포 후 보습제 사용이 가능함.
 * tacrolimus 0.1% ointment <mark style="color:blue;">\[프로토픽]</mark> : 아래 처방례는 성인용. 0.1%는 아토피피부염 허가상 만 16세 이상 제형이며 소아에 그대로 적용하지 않음
 * pimecrolimus 1% <mark style="color:blue;">\[엘리델]</mark>
 
@@ -341,13 +345,13 @@ L25　상세불명의 접촉피부염　Unspecified contact dermatitis
 > **처방례 2. 손·몸통의 중등도 접촉피부염**
 >
 > ```
-> Triamcinolone acetonide 0.1% cream　[트리코트 등]　환부에 얇게 도포  bid~tid  ×1~2주
+> Mometasone furoate 0.1% cream　[모리코트크림]　환부에 얇게 도포  qd  ×1~2주
 > 가려움이 의미 있으면 Cetirizine 10 ㎎/T　[지르텍]　1T  qd  prn
 > 야간 소양증·수면장애가 주증상이면 위 항히스타민제 대신
 > Hydroxyzine 10 ㎎/T　[아디팜]　1~2T  hs  prn  단기간
 > ```
 >
-> _✽습윤 작업 관련이면 보호장갑·보습 등 비약물 조치를 함께 교육; 반응이 불충분하거나 초기부터 ACD·직업성 피부염이 강하게 의심되면 patch test 의뢰를 고려_
+> _✽성인의 손·몸통 병변 예이며 얼굴·눈꺼풀 처방으로 적용하지 않음. 모리코트크림은 하루 1회이며 밀봉붕대법을 삼감. 습윤 작업 관련이면 보호장갑·보습 등 비약물 조치를 함께 교육; 반응이 불충분하거나 초기부터 ACD·직업성 피부염이 강하게 의심되면 patch test 의뢰를 고려_
 
 > **처방례 3. 안면·눈꺼풀 등 얇은 피부 부위 접촉피부염**
 >
@@ -459,6 +463,8 @@ L25　상세불명의 접촉피부염　Unspecified contact dermatitis
 
 ### <mark style="color:orange;">임상 근거</mark>
 
+* Ko HC, et al. [KADA 치료 합의지침 Part I](https://doi.org/10.5021/ad.24.153). Ann Dermatol. 2025;37(4):201–215. 제형별 국소 스테로이드 역가(Table 2).
+
 * Uter W, et al. [European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing—Recommendations on Best Practice (Update 2026)](https://doi.org/10.1111/cod.70195). Contact Dermatitis. 2026;95(3):237–275.
 * Thyssen JP, et al. [Guidelines for diagnosis, prevention, and treatment of hand eczema](https://doi.org/10.1111/cod.14035). Contact Dermatitis. 2022;86:357–378.
 * Kim HJ, et al. [2020 Korean Consensus Guidelines for Diagnosis and Treatment of Chronic Hand Eczema](https://doi.org/10.5021/ad.2021.33.4.351). Ann Dermatol. 2021;33:351–360.
@@ -470,6 +476,8 @@ L25　상세불명의 접촉피부염　Unspecified contact dermatitis
 
 * [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/). 국소 steroid·항히스타민제·앤줍고 등의 국내 적응증·용법·주의사항 확인 자료.
 * [태극제약 제품정보](https://www.taiguk.co.kr/). 아디팜정의 성인 피부과 용법·고령자 제한 확인 자료.
-* 국내 제품 설명서: 페니라민정(유한양행), 트리코트크림·모리코트크림/연고(동광제약), 하티손로션(한미약품). 성분명뿐 아니라 제품·농도·제형을 구분함.
+* 국내 제품 설명서: 페니라민정(유한양행), 모리코트크림(동광제약), 베타베이트크림(고려제약), 하티손로션(한미약품). 성분명뿐 아니라 제품·농도·제형을 구분함.
+* [약학정보원](https://www.health.kr/). 모리코트크림·베타베이트크림 용법과 트리코트크림(A11A0130A0207)·모리코트연고(A11AOOOOO0864)·더모베이트연고(2017020100030)의 취소일 표시 확인(2026-10-24).
+* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic). 보습제 도포 간격 등 국외 복약지도 참고자료.
 * [HIRA. 2026년 제9차 약제급여평가위원회 심의결과](https://www.hira.or.kr/bbsDummy.do?brdBltNo=11898&brdScnBltNo=4&pgmid=HIRAA020041000100). 앤줍고의 급여 적정성 인정 자료; 최종 등재·시행과 구분함.
 * [EMA. Ketoprofen topical — referral](https://www.ema.europa.eu/fr/medicines/human/referrals/ketoprofen-topical). 사용 중·중단 후 2주 광보호 등 국외 안전성 자료.

@@ -237,7 +237,7 @@ flowchart LR
 * 도포량 : 전신 피부건조증/습진이 있는 성인은 대략 250\~500 g/주를 참고하되 면적·제형·중증도에 따라 조절; 국소 가려움 환자 모두의 고정 목표량은 아님
 * 종류 : 무향료 크림/연고, petroleum jelly <mark style="color:blue;">\[바셀린]</mark>, glycerol, urea(5\~10%) <mark style="color:blue;">\[유리아]</mark> 등; urea·lactate는 염증·긁힌 상처에서 따가울 수 있어 이 경우 단순 보습제를 선택
   * 겨울철에는 기름기가 많은 제제 선택
-* steroid 외용제와 병용 : 한 제품씩 바르고 다음 제품까지 충분한 간격(실무적으로 20\~30분)을 둠. 보습제의 크림/연고 구분만으로 도포 순서를 일률적으로 정하지 않으며, 제품별 지시를 따름
+* steroid 외용제와 병용 : 한 제품씩 바르고 다음 제품까지 몇 분간 간격을 둘 수 있음(NICE). 일부 지침은 20\~30분을 안내하지만 모든 환자에게 필수적인 대기시간으로 제시하지 않음. 보습제의 크림/연고 구분만으로 도포 순서를 일률적으로 정하지 않으며 제품별 지시를 따름. TCI·delgocitinib의 별도 병용 지침과 구분함. <mark style="color:$info;">[NICE CG57; 국소 스테로이드 챕터]</mark>
 
 ### <mark style="color:orange;">이완 요법</mark>
 
@@ -257,10 +257,14 @@ flowchart LR
 * 태선화된 병변은 부위·연령에 적합한 중등도 이상 역가의 외용제를 고려; 선택된 양진 결절의 병변 내 주사는 피부과에서 판단
 * 염증이 없는 정상 피부의 가려움에 일률적으로 사용하지 않음; 감염·옴이 의심되면 원인 치료 없이 steroid만 도포하지 않음
 * 역가·제형·부위·연령에 맞춰 사용 기간을 결정하고 통상 1\~2주 후 반응 재평가; 모든 제제·질환에 일률적인 2주 상한을 적용하지 않음
-* clobetasol propionate 0.05%(매우 강한 역가) <mark style="color:blue;">\[더모베이트 연고/액]</mark> : 얼굴·접힘 부위의 무분별한 사용과 장기 연용을 피하고 해당 제품의 용법·기간 준수
+* clobetasol propionate 0.05%는 **초고역가(Class I)**임. 피부 병변에는 <mark style="color:blue;">\[베타베이트연고·크림]</mark> 등 부위·제형에 맞는 제품을 선택하고, <mark style="color:blue;">\[더모베이트액]</mark>은 **두피용 액제**로 구분함. 해당 제품은 2주 이상 연속 치료·주 50 g(액제 50 mL) 이상 사용을 피하며 24개월 미만은 금기임. 베타베이트연고는 치료면적 BSA 20% 이내로 제한함. 얼굴·접힘 부위의 기본 치료나 일률적 유지치료로 사용하지 않음.
+* 더모베이트연고는 허가정보 전재본에 **2025-10-22 취소일**, **2026-06-01 급여 삭제 이력**이 표시되어 현재 처방용 제품 예에서 제외함. 더모베이트액 등 다른 제형까지 취소된 것으로 일반화하지 않음. <mark style="color:$info;">[약학정보원 품목별 허가정보; 2026-10-24 확인]</mark>
 * mometasone furoate 0.1% <mark style="color:blue;">\[모리코트 크림/로션]</mark> : 역가는 제형·분류 체계에 따라 달라짐; 크림은 국내 허가상 **1일 1회** 얇게 도포, 밀봉붕대법은 피함
 * 재발하는 아토피피부염에서는 조절 후 간헐적 유지요법 또는 TCI 전환을 고려; TCI의 질환·연령 적응증 확인 (☞ p.1143)
   * tacrolimus <mark style="color:blue;">\[프로토픽]</mark>, pimecrolimus <mark style="color:blue;">\[엘리델]</mark>
+  * TCI는 원인 피부질환에 따라 선택함. 아토피피부염의 국내 허가범위와 다른 질환에서의 허가 외 사용을 구분하며, 원인 불명 가려움 전체에 일률적으로 적용하지 않음. 아토피피부염의 tacrolimus 주 2회 유지요법을 다른 질환이나 pimecrolimus에 자동 적용하지 않음.
+
+* TCI와 보습제의 병용은 성분별로 구분함. Tacrolimus와 같은 부위 보습제는 적어도 2시간 간격을 두는 EMA 제품 지침을 참고하고, pimecrolimus는 도포 후 보습제 사용이 가능함(☞ [국소 칼시뉴린 억제제](../231_/211_-topical-corticosteroids.md#calcineurin-inhibitor)).
 
 #### <mark style="color:$primary;">Capsaicin</mark>
 
@@ -507,7 +511,7 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 > **보습제, 왜 가장 중요한가**
 >
 > * 특히 피부건조증 동반 환자에서 보습을 충분히 합니다. 전신 건조증/습진이 있는 성인의 주 250\~500 g은 참고량이며 병변 면적·제형에 따라 조절합니다.
-> * steroid 외용제와 한꺼번에 섞어 바르지 않고 충분한 간격(실무적으로 20\~30분)을 두며 제품별 지시를 따릅니다.
+> * steroid 외용제와 보습제는 한꺼번에 섞지 말고 한 제품씩 바릅니다. 다음 제품까지 몇 분간 간격을 둘 수 있으며, 20\~30분 대기가 모든 환자에게 필수인 것은 아닙니다. Tacrolimus 등 다른 항염 외용제는 별도 안내에 따릅니다.
 
 > **항히스타민제 사용 시 유의점**
 >
@@ -592,9 +596,12 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 * SMFM Consult Series #53. Intrahepatic cholestasis of pregnancy. 2021. [권고](https://publications.smfm.org/publications/374-society-for-maternal-fetal-medicine-consult-series-53/)
 * AASLD. [담즙정체성 가려움 치료](https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/scratching-itch-management-pruritus-cholestatic)
 * 안전성 : [EMA hydroxyzine QT 위험](https://www.ema.europa.eu/en/medicines/human/referrals/hydroxyzine), [FDA gabapentinoid 호흡억제](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication), [FDA montelukast 신경정신계 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug).
-* 보조자료 : [보습제와 외용제 도포 간격(NHS)](https://www.nhs.uk/tests-and-treatments/emollients/), [자살예방상담전화 109](https://www.129.go.kr/109?oai_link_source=model_response_hotline).
+* 보조자료 : [NICE CG57 외용제 도포 간격](https://www.nice.org.uk/guidance/cg57/chapter/Recommendations), [보습제와 외용제 도포 간격(NHS)](https://www.nhs.uk/tests-and-treatments/emollients/), [자살예방상담전화 109](https://www.129.go.kr/109?oai_link_source=model_response_hotline).
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [약학정보원](https://www.health.kr/) — 더모베이트연고(2017020100030)의 취소·급여 삭제 이력, 베타베이트연고(A11A1590A0045)·크림(A11A1590B0021) 및 더모베이트액(2018032700006)의 제형·용법·사용 제한 확인(2026-10-24).
+* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic) — tacrolimus와 같은 부위 보습제의 2시간 간격 등 국외 복약지도 참고자료.
 
 * [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 아디팜·페니라민·모리코트·올루미언트·린버크·듀피젠트·넴루비오·레밋치 등의 품목정보 확인 자료.
 * 국내 제조·수입사 제품설명서: SK케미칼 레밋치구강붕해정(2026-04 개정), 한국애브비 린버크서방정(2026), 사노피 듀피젠트 제품정보. 넴루비오의 국내 적응증·연령은 허가사항 재게시 자료도 참고함.
