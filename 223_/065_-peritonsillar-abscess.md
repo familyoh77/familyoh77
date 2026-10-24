@@ -108,38 +108,6 @@
 ***
 
 ```mermaid
-flowchart TD
-    A["편도 주위 농양 의심"] --> B["기도 위험·심부 확산<br/>·패혈증 징후?"]
-    B -- 있음 --> C["즉시 응급 이송<br/>·기도 확보 준비"]
-    B -- 없음 --> D["전형적 소견<br/>·숙련된 시술 가능?"]
-    D -- 예 --> G["진단적 흡인 <br/>또는 절개 배농"]
-    D -- 아니오 --> E["초음파·필요시 조영 CT <br/>또는 ENT 의뢰"]
-    E --> Q["농양 확인?"]
-    Q -- 아니오 --> F["연조직염 치료<br/>·항생제와 진통제"]
-    Q -- 예 --> R["전문의가 약물 단독 <br/>치료 대상으로 판단?"]
-    R -- 아니오 --> G
-    R -- 예 --> S["약물 치료<br/>·즉시 배농 가능한 <br/>체계 확보"]
-    G --> H["충분한 배농?"]
-    H -- 아니오 --> J["당일 ENT 재평가<br/>·영상 또는 추가 배농"]
-    H -- 예 --> O["출혈·기도 안정과 <br/>경구 섭취 확인"]
-    O --> I["항생제 통상 <br/>총 10일·증상 치료"]
-    F --> K
-    S --> K
-    K --> M["임상 호전?"]
-    M -- 아니오 --> J
-    I -- 그 전에 악화 --> J
-    I --> K["24~48시간 내 재평가"]
-    F -- 그 전에 악화 --> J
-    S -- 그 전에 악화 --> J
-    J -- 응급 징후 동반 --> C
-    M -- 예 ---> N["처방 기간 완료·재발 시 <br/>절제술 상담"]
-
-    classDef question fill:#fff9c4,stroke:#ffe082
-    class B,D,Q,R,H,M question
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style C fill:#ffcdd2,stroke:#c62828
-    style J fill:#fff3e0,stroke:#e65100
-    style N fill:#d0e8ff,stroke:#1a6abf
 ```
 
 <p align="center"><strong>편도 주위 농양 진단 및 치료 알고리듬</strong></p>
