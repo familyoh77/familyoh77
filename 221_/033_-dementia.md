@@ -668,8 +668,8 @@ flowchart TD
 ### <mark style="color:orange;">항불안제</mark>
 
 * 대상 : 현저한 불안증, 다른 약제에 반응하지 않는 급성기 불안증
-* 용법 : 단기 작용 benzodiazepine 저용량, 단기 사용
-* 장기 작용제는 낙상 등의 위험성 있음; 장기 투여 시 행동 이상 악화 위험이 있음
+* 비약물 중재와 원인 교정이 우선이며 benzodiazepine은 원칙적으로 회피. 다른 접근이 어렵고 급성의 심한 불안에 불가피하면 저용량·최단기간으로 제한함
+* 단시간 작용제도 장시간 작용제보다 낙상·인지저하·섬망 측면에서 안전하지 않으며, 장기 투여 시 행동 이상과 의존·금단 위험을 함께 평가함
 * 장기 사용 주의 : benzodiazepine 장기 투여는 치매 발생 위험 증가와 관련될 수 있으며, 낙상·섬망·인지저하 위험을 높임; 최소 용량·최단 기간 원칙 준수, 가능하면 비약물 접근 우선
 * lorazepam : 0.25\~0.5 ㎎ 필요시, 단기 사용 <mark style="color:blue;">\[아티반]</mark>
 
@@ -680,12 +680,12 @@ flowchart TD
   * 5 ㎎ 취침 직전, 필요시 최대 10 ㎎ <mark style="color:blue;">\[데이비고]</mark> (비급여)
   * 치매 환자 대상 근거는 제한적
   * ✽suvorexant는 경도\~중등도 AD 환자 불면 RCT 근거가 있으나 국내 미허가
-* trazodone : 소규모 연구 근거에 그치므로 진정·기립저혈압·낙상 위험을 고려하여 선택적으로 사용
+* trazodone : 치매 환자의 수면에 대한 근거는 소규모 연구에 그치며, 만성 불면증 단독 치료의 통상적 1차 약제로 권하지 않음. 선택적으로 사용하더라도 진정·기립저혈압·낙상 위험과 실제 이득을 재평가
   * 25\~100 ㎎ <mark style="color:blue;">\[트리티코]</mark>
-* mirtazapine : 우울증·식욕저하가 동반된 경우 선택할 수 있으나 치매 관련 불면의 표준 치료로 권고할 근거는 부족
+* mirtazapine : 우울증 치료 적응증이 있으면서 식욕저하·체중감소 또는 불면이 동반된 경우 선택할 수 있으나, 단순 식욕촉진 또는 치매 관련 불면만을 위한 표준 치료로 권고할 근거는 부족
   * 7.5\~15 ㎎ <mark style="color:blue;">\[레메론]</mark>
-* zolpidem : 낙상·섬망 위험 때문에 최소 용량·최단 기간 사용
-  * 고령자는 5 ㎎ hs부터 고려 <mark style="color:blue;">\[스틸녹스]</mark>
+* zolpidem : 치매·고령 환자에서는 낙상·섬망 위험 때문에 원칙적으로 회피하며, 비약물 접근과 대안을 검토한 뒤 불가피한 경우만 최저용량·최단기간 사용
+  * 고령자는 5 ㎎ hs로 제한하고 원칙적으로 증량하지 않음. 치료기간과 감량 계획은 「불면증」(029장) 참조 <mark style="color:blue;">\[스틸녹스]</mark>
 * benzodiazepine : 주간 진정, 내성, 반동성 불면, 인지저하, 낙상, 섬망 등의 위험이 있음 (회피)
 * diphenhydramine : 인지 기능에 대한 나쁜 영향, 남성 배뇨 장애를 유발할 수 있음 (회피)
 
@@ -808,6 +808,7 @@ _<mark style="color:$info;">✽ 원인질환과 치매 발현을 함께 표시�
 * [Jack CR Jr, et al. Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup. Alzheimers Dement. 2024;20(8):5143-5169.](https://doi.org/10.1002/alz.13859) - 생물학적 진단·병기 기준; 임상 적용 대상과 IWG 견해의 차이 확인
 * [Dubois B, et al. Alzheimer Disease as a Clinical-Biological Construct - An International Working Group Recommendation. JAMA Neurol. 2024;81(12):1304-1311.](https://doi.org/10.1001/jamaneurol.2024.3770) - 임상 증상과 바이오마커를 함께 해석하는 IWG 견해; 무증상자 진단에 관한 논쟁
 * [Palmqvist S, et al. Alzheimer's Association Clinical Practice Guideline on the use of blood-based biomarkers in the diagnostic workup of suspected Alzheimer's disease within specialized care settings. Alzheimers Dement. 2025;21(7):e70535.](https://doi.org/10.1002/alz.70535) - 인지장애 환자의 전문 진료 환경에서 혈액 바이오마커 사용; 무증상 일반인 선별과 구분
+* [American Geriatrics Society 2023 updated AGS Beers Criteria](https://doi.org/10.1111/jgs.18372) - BZD·Z-drug의 고령자 위험과 ChEI 관련 서맥·실신; 상세 약물 검토는 215장 참조
 * [NICE. Dementia: assessment, management and support for people living with dementia and their carers. NICE guideline NG97. 2018.](https://www.nice.org.uk/guidance/ng97/chapter/Recommendations) - 치매 유형별 약물 선택, 행동·심리 증상과 돌봄 지원
 * [McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89(1):88-100.](https://doi.org/10.1212/WNL.0000000000004058) - 루이소체치매의 핵심 임상 특징·바이오마커와 약물 주의사항
 * \[Brain 2011] [Rascovsky K, et al. Sensitivity of revised diagnostic criteria for the behavioural variant of frontotemporal dementia. Brain. 2011;134(Pt 9):2456-2477.](https://doi.org/10.1093/brain/awr179) - bvFTD 진단 기준

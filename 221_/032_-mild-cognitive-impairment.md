@@ -147,7 +147,7 @@
 * 약물 검토 : 처방약, 일반약, 건강기능식품을 포함하여 항콜린성·진정성 부담과 최근 변경 확인
 * 진찰 : 신경학적 검사, 보행, 파킨슨증, 국소 신경 징후, 청력·시력 및 전신 상태
 * 인지·기능 평가
-  * 검증된 인지 선별검사와 함께 [IADL](../231_/215_-care-of-the-older-patient.md#adl-iadl)을 평가
+  * 검증된 인지 선별검사와 함께 [IADL](../231_/215_-elderly.md)을 평가
   * 선별검사가 정상이어도 병력상 의심이 높거나 고학력·높은 병전 기능 환자에서는 정밀 신경심리검사를 고려
   * 국내 국가 치매조기검진과 치매안심센터에서는 [CIST](033_-dementia.md#cist-cognitive-impairment-screening-test)(Cognitive Impairment Screening Test)를 1단계 선별검사로 사용하며, 의료기관에서는 [K-MMSE-2](033_-dementia.md#k-mmse-mini-mental-state-examination)도 활용 중임
   * CIST와 K-MMSE-2는 MCI 확진 검사가 아니며, 특히 K-MMSE-2는 정상 노화와 MCI의 구분 민감도에 한계가 있음
@@ -283,7 +283,7 @@ flowchart TD
 * 관찰 연구에서는 준수도가 높을수록 인지 저하가 느렸으나, 인지 정상 고령자 대상 RCT에서는 대조 식사와 인지 변화에 유의한 차이가 없었음 <mark style="color:$info;">\[NEJM 2023]</mark>
 * 아래 표에는 원 식사법의 와인을 제외한 권장 식품군 9개를 제시함. 인지 보호를 목적으로 음주를 시작하거나 유지하도록 권하지 않음
 
-<table data-search="false"><thead><tr><th>권장 식품군</th><th>기준</th><th>제한 식품군</th><th>기준</th></tr></thead><tbody><tr><td>녹색 잎채소</td><td>주 6회 이상</td><td>붉은 고기</td><td>주 4회 미만</td></tr><tr><td>기타 채소</td><td>하루 1회 이상</td><td>버터·마가린</td><td>하루 1큰술 미만</td></tr><tr><td>베리류</td><td>주 2회 이상</td><td>치즈</td><td>주 1회 미만</td></tr><tr><td>견과류</td><td>주 5회 이상</td><td>과자·단 음식</td><td>주 5회 미만</td></tr><tr><td>콩류</td><td>주 3회 이상</td><td>튀김·패스트푸드</td><td>주 1회 미만</td></tr><tr><td>통곡물</td><td>하루 3회 이상</td><td></td><td></td></tr><tr><td>생선</td><td>주 1회 이상</td><td></td><td></td></tr><tr><td>가금류</td><td>주 2회 이상</td><td></td><td></td></tr><tr><td>올리브유</td><td>주된 식용유</td><td></td><td></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>권장 식품군</th><th>기준</th><th>제한 식품군</th><th>기준</th></tr></thead><tbody><tr><td>녹색 잎채소</td><td>주 6회 이상</td><td>붉은 고기</td><td>주 4회 미만</td></tr><tr><td>기타 채소</td><td>하루 1회 이상</td><td>버터·마가린</td><td>하루 1큰술 미만</td></tr><tr><td>베리류</td><td>주 2회 이상</td><td>치즈</td><td>주 1회 미만</td></tr><tr><td>견과류</td><td>주 5회 이상</td><td>과자·단 음식</td><td>주 5회 미만</td></tr><tr><td>콩류</td><td>주 3회 초과(통상 ≥4회)</td><td>튀김·패스트푸드</td><td>주 1회 미만</td></tr><tr><td>통곡물</td><td>하루 3회 이상</td><td></td><td></td></tr><tr><td>생선</td><td>주 1회 이상</td><td></td><td></td></tr><tr><td>가금류</td><td>주 2회 이상</td><td></td><td></td></tr><tr><td>올리브유</td><td>주된 식용유</td><td></td><td></td></tr></tbody></table>
 
 ### <mark style="color:orange;">감각·수면·동반 질환</mark>
 
@@ -297,6 +297,7 @@ flowchart TD
 ### <mark style="color:orange;">안전과 향후 계획</mark>
 
 * 운전, 약물 복용, 금전 관리, 사기 취약성, 조리·화기 사용, 낙상 위험을 평가
+  * 인지검사 점수나 MCI 진단명만으로 운전 적합성을 확정하지 않으며, 실제 운전행동·사고·근접사고 이력·시력·약물 등을 함께 평가함. 상세 평가는 [고령 환자 진료](../231_/215_-elderly.md) 참조
 * 독립성이 유지될 때 환자의 선호, 의료 의사결정 대리인, 재정·생활 계획을 논의할 기회를 제공
 
 ### <mark style="color:orange;">디지털 치료기기</mark>

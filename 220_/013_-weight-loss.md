@@ -15,7 +15,7 @@
 * 내분비 장애 : 당뇨병, 갑상선기능항진증
 * 만성 감염 : 결핵, HIV 등; 발열, 야간 발한, 림프절 비대 동반
 * 만성 장기질환 : 심부전, 만성폐쇄성폐질환, 만성콩팥병, 만성 간질환 등
-* 약물 부작용 : metformin, GLP-1 수용체 작용제, GIP/GLP-1 이중작용제(tirzepatide), digoxin, SSRIs, opioids, 일부 항경련제 등(식욕 저하·오심·미각 변화 등 기전)
+* 약물 부작용 : metformin, GLP-1 수용체 작용제, GIP/GLP-1 이중작용제(tirzepatide), digoxin, cholinesterase 억제제(donepezil·rivastigmine·galantamine), SSRIs, opioids, 일부 항경련제 등(식욕 저하·오심·미각 변화 등 기전)
 * 사회적 문제 : 알코올 사용 장애, 사회적 고립, 식사 접근성 저하(이동 불편·장보기 어려움), 경제적 문제(식비 부족), 돌봄 공백(caregiver 부재)
 * 섭식·영양 문제 : 과도한 식이 제한, 음식 불안정성(food insecurity)
 * 원인 미상 : 고령 환자 연구에서는 검사에도 불구하고 약 25%에서 원인을 찾지 못함
@@ -23,7 +23,7 @@
 #### <mark style="color:$primary;">체중 감소와 관련된 부작용이 있는 약물들</mark>
 
 * 미각/후각 변화 : allopurinol, 항생제, 항콜린제, 항히스타민제, ACEI, levodopa, CCB, propranolol, selegiline, spironolactone
-* 식욕 저하 : 항생제, 일부 항경련제, 일부 항정신병약, benzodiazepine, digoxin, levodopa, metformin, opioids, SSRIs, theophylline, GLP-1 수용체 작용제(예: semaglutide, liraglutide), GIP/GLP-1 이중작용제(tirzepatide)
+* 식욕 저하 : 항생제, 일부 항경련제, 일부 항정신병약, benzodiazepine, digoxin, cholinesterase 억제제(donepezil·rivastigmine·galantamine), levodopa, metformin, opioids, SSRIs, theophylline, GLP-1 수용체 작용제(예: semaglutide, liraglutide), GIP/GLP-1 이중작용제(tirzepatide)
 * 체중 감소 : SGLT2 억제제 (당뇨 고령 환자에서 의도하지 않은 체중 감소를 악화시킬 수 있음)
 * 입마름 : 항콜린제, 항히스타민제, clonidine, loop diuretics
 * 소화불량 : bisphosphonate, doxycycline, gold, iron, NSAID, potassium
@@ -45,7 +45,7 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 최근 1개월 내 평소 체중의 ≥5% 비의도적 감소 또는 최근 수주 내 ADL/IADL 저하·보행 불안정·반복 낙상 등 명확한 기능 저하  `악성 종양`  `중증 기저질환`
+* 최근 1개월 내 평소 체중의 ≥5% 비의도적 감소 또는 최근 수주에 새로 발생하거나 진행하는 ADL/IADL 저하·보행 불안정·반복 낙상 등 명확한 기능 저하  `악성 종양`  `중증 기저질환`
 * 즉각 조치 항목에 해당하지 않는 새로 확인된 저Na·저K·저P·저Mg·고Ca 또는 저혈당  `악성 종양`  `부신기능저하증`  `재급식 위험`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -146,6 +146,7 @@
 * 선별 양성 또는 낮은 근력이 확인되면 가능한 경우 BIA·DXA 등으로 근육량을 평가
   * 종아리 둘레는 위험 선별, 악력은 근력 평가이며 어느 하나만으로 근감소증을 확진하지 않음
   * AWGS 2025에서는 낮은 근육량과 낮은 근력이 함께 있을 때 근감소증으로 진단하며, 신체수행능력은 진단 필수 기준이 아니라 결과·기능 평가에 활용
+  * 근육량 미측정 상태의 possible sarcopenia와 측정 결과 근육량이 정상인 경우를 구분하며, 상세 분류·악력 측정방법·연령별 기준은 [고령 환자 진료](../231_/215_-elderly.md) 참조
 * MNA-SF : 고령 환자의 영양 상태 선별 도구(총 14점). 12\~14점 정상 영양 상태, 8\~11점 영양불량 위험, 0\~7점 영양불량으로 해석하며, 선별 결과가 11점 이하이면 종합 영양평가를 시행하거나 의뢰
   * MNA-SF의 전체 문항과 시행 방법은 원문 서식을 그대로 사용해야 하므로, 본문에서는 문항표를 재현하지 않고 [MNA® 공식 서식(Nestlé, 건강의료인용)](https://www.mna-elderly.com/mna-forms)을 참조한다
 
@@ -290,7 +291,8 @@ class B,W,E,G,I,L,O yellow
 * GLP-1 수용체 작용제·tirzepatide : 치료 적응증, 혈당 조절, 심혈관·신장 이득, 영양 상태를 재평가한 뒤 감량 또는 중단 고려
 * metformin : 위장관 부작용·식욕저하와의 시간적 연관성을 확인하고 필요시 용량 감량 또는 대체 고려
 * SSRI : 약물 시작/증량과 체중 감소의 시간적 연관성을 확인하고 대체 약물의 적응증과 부작용을 비교하여 조정
-* digoxin, theophylline, 일부 항경련제·항생제·opioid 등도 식욕 저하·오심·미각 변화의 원인이 될 수 있음
+* digoxin, cholinesterase 억제제(donepezil·rivastigmine·galantamine), theophylline, 일부 항경련제·항생제·opioid 등도 식욕 저하·오심·체중감소의 원인이 될 수 있음
+  * Cholinesterase 억제제는 시작·증량과 섭취량·체중 변화의 연관성을 확인하고 인지·기능상 이득과 위해를 함께 평가하여 조정함. 임의로 중단하지 않으며 상세 관리는 「치매」(033장) 참조
 
 #### <mark style="color:$primary;">D. 식욕 유지형 체중 감소</mark>
 
