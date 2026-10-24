@@ -1,4 +1,4 @@
-# 도핑 방지 가이드
+# 도핑 방지 가이드 Doping Prevention Guide
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -13,7 +13,7 @@
 * 선수는 자신의 체내에서 검출된 금지물질에 대해 고의성·과실 여부와 무관하게 책임을 짐(세계도핑방지규약 제2.1조)
 * 처방 의사나 약사의 부주의한 처방·조제로 인한 양성 반응도 선수 본인의 제재로 이어질 수 있음 → 1차 진료의의 확인 의무가 실질적으로 중요
 * 의사도 선수지원인력(Athlete Support Personnel)으로서 부당한 금지물질·금지방법의 투여, 공모·방조 등에 관여하면 별도의 도핑방지규정위반 책임이 생길 수 있음. 다만 규약상 «투여»의 정의는 선의의 의료진이 정당하고 적법한 치료 목적으로 시행한 행위를 제외하며, 선수에게 필요한 TUE·기록 의무는 별도로 확인
-* 처방 전 반드시 <mark style="color:blue;">\[한국도핑방지위원회 금지약물검색]</mark> 등 공식 도구로 확인할 것 (☞ 문서 하단 링크)
+* 처방 전 반드시 <mark style="color:blue;">\[한국도핑방지위원회 금지약물검색]</mark> 등 공식 도구로 확인함(☞ 문서 하단 링크)
 
 {% hint style="info" %}
 **2026년도 금지목록 국제표준 주요 변경사항** (2026. 1. 1. 시행, 한국도핑방지위원회 공지 기준)\
@@ -24,9 +24,13 @@
 ⑤ S1·S2·S4·S6 — 선수와 관계자의 식별을 돕기 위한 예시 물질 다수 추가(신규 금지물질 지정이 아니라 기존 금지 범주에 대한 예시 보강)
 {% endhint %}
 
+{% hint style="info" %}
+**2027년 시행 예정 자료 — 2026년 기준과 구분** : WADA는 2026년 9월 21일 2027 금지목록과 변경 설명서를 공표했으며 **2027년 1월 1일부터 시행**함. S5의 eplerenone·finerenone, S4의 imlunestrant·seladelpar 등을 예시로 추가하고, 미승인 펩티드의 S0 해당 가능성을 명확히 함. 예시 추가가 곧 그 전까지 허용되었다는 뜻은 아님. S9에는 질내 투여를 허용 경로로 명시함. 2027 모니터링 프로그램에서 codeine·hydrocodone·dermorphin 및 유사체와 경기기간 외 fentanyl·tramadol은 제외되지만, **fentanyl·tramadol의 경기기간 중 금지는 유지**됨. 2027년 진료·경기에는 금지목록뿐 아니라 새 규약·ISTUE도 해당 시행본으로 다시 확인함.
+{% endhint %}
+
 ***
 
-## <mark style="color:green;">금지 약물 및 방법 분류 체계</mark>
+### <mark style="color:$primary;">금지 약물 및 방법 분류 체계</mark>
 
 ### <mark style="color:orange;">상시 금지 약물 및 방법 (경기기간 내·외 모두 적용)</mark>
 
@@ -38,24 +42,7 @@
 
 <table><thead><tr><th width="70">코드</th><th width="230">계열</th><th>대표 예시 / 비고</th></tr></thead><tbody><tr><td>S6</td><td>흥분제</td><td>amphetamine, methylphenidate 등. 요중 기준은 cathine 5 µg/mL, ephedrine·methylephedrine 각각 10 µg/mL, pseudoephedrine 150 µg/mL 초과. Epinephrine은 비강·안과 등 국소 투여 또는 국소마취제와의 병용 시 금지되지 않음. 근육·정맥 투여는 경기기간 중 금지에 해당하나 아나필락시스에서는 즉시 치료하고 소급 TUE 절차 확인</td></tr><tr><td>S7</td><td>마약류</td><td>buprenorphine, fentanyl 및 유도체, morphine, oxycodone, methadone, tramadol 등. Codeine·dihydrocodeine·hydrocodone·tapentadol 등 일부 비금지 성분은 2026 모니터링 대상이며, dextromethorphan은 금지목록에 포함되지 않음</td></tr><tr><td>S8</td><td>카나비노이드류</td><td>천연·합성 카나비노이드는 경기기간 중 금지하며, THC 관련 요검사는 WADA 기술문서의 역치·판정기준에 따라 해석. CBD 자체는 금지되지 않지만 CBD 제품에 THC·다른 카나비노이드가 혼입될 수 있어 제품 사용의 안전을 보장하지 않음</td></tr><tr><td>S9</td><td>glucocorticoid</td><td>경기기간 중 경구(구강점막·협점막·치은·설하 포함), 직장 및 모든 주사 경로(정맥·근육·피하·관절강내·건주위·경막외 등) 금지. 허가용량·치료 적응증 내 흡입, 비강, 점안, 귀, 피부, 항문주위 및 치아 근관 내 투여는 금지되지 않음</td></tr></tbody></table>
 
-* **2026 모니터링 프로그램 예시** : bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradrol, synephrine 등은 금지물질이 아니며 사용 추세만 감시한다. Codeine 등 일부 마약성 진통제, 경기기간 외 fentanyl·tramadol, ecdysterone, hypoxen, **18세 미만 여성에서의 GnRH 유사체**, semaglutide·tirzepatide 관련 표지자 등도 포함된다. 모니터링 자체는 도핑방지규정위반이나 제재를 의미하지 않는다.
-
-{% hint style="danger" %}
-**⚠️ 관절강내·근육내 글루코코르티코이드 주사, 경기기간 중 금지 — 유효한 TUE가 있으면 승인 범위 내 사용 가능**\
-2022년 개정 이후 경구·직장뿐 아니라 관절강내(intra-articular)·건주위(peritendinous)·경막외(epidural) 등 **모든 주사 경로**의 글루코코르티코이드가 경기기간 중 금지된다. 경기기간 외 투여라도 경기기간 중 검출될 수 있으므로 단순히 경기 전날만 피해서는 안 되며, 아래 성분·경로별 휴약기간을 확인해야 한다. 경기기간 중 투여가 계획되면 사전 TUE를 원칙으로 하고, 응급치료는 TUE 때문에 지연하지 않는다.
-{% endhint %}
-
-#### <mark style="color:$primary;">Glucocorticoid 투여경로별 경기기간 중 상태</mark>
-
-<table><thead><tr><th width="160">경기기간 중 상태</th><th>투여경로</th></tr></thead><tbody><tr><td><mark style="color:red;">금지</mark></td><td>경구·구강점막·협점막·치은·설하, 직장, 모든 주사 경로(정맥·근육·피하·관절강내·관절주위·건주위·경막외 등)</td></tr><tr><td>금지되지 않음</td><td>흡입, 비강, 점안, 귀, 피부, 항문주위, 치아 근관 내 투여 — 제조사의 허가용량과 치료 적응증 내에서 사용</td></tr></tbody></table>
-
-#### <mark style="color:$primary;">WADA glucocorticoid 휴약기간</mark>
-
-<table><thead><tr><th width="150">경로</th><th>성분</th><th width="100">휴약기간</th></tr></thead><tbody><tr><td>경구(구강점막·협점막·치은·설하 포함)</td><td>아래 예외 성분을 제외한 glucocorticoid</td><td>3일</td></tr><tr><td>경구</td><td>Triamcinolone, triamcinolone acetonide</td><td>10일</td></tr><tr><td>근육주사</td><td>Betamethasone, dexamethasone, methylprednisolone</td><td>5일</td></tr><tr><td>근육주사</td><td>Prednisolone, prednisone</td><td>10일</td></tr><tr><td>근육주사</td><td>Triamcinolone acetonide</td><td><mark style="color:red;">60일</mark></td></tr><tr><td>국소주사(관절강내·관절주위·건주위·건내 등)</td><td>아래 예외 성분을 제외한 glucocorticoid</td><td>3일</td></tr><tr><td>국소주사</td><td>Prednisolone, prednisone, triamcinolone acetonide, triamcinolone hexacetonide</td><td>10일</td></tr><tr><td>직장</td><td>아래 예외 성분을 제외한 glucocorticoid</td><td>3일</td></tr><tr><td>직장</td><td>Triamcinolone diacetate, triamcinolone acetonide</td><td>10일</td></tr></tbody></table>
-
-{% hint style="warning" %}
-**휴약기간 계산과 한계** : 마지막 투여 시점부터 **경기기간 시작 시점**까지 계산한다. 위 표는 제조사의 최대 허가용량 내 사용을 바탕으로 한 최소 권고기간으로, 음성 결과를 보장하지 않음. 고용량·반복투여·서방형 제제에서는 더 오래 검출될 수 있음. 정맥·피하·경막외 등 표에 별도 기간이 없는 경로에는 국소주사 3일을 일률적으로 적용하지 말고 관할 도핑방지기구에 확인. 성분·제형·용량·경로·주사 부위와 투여시각을 상세히 기록함.
-{% endhint %}
+* **2026 모니터링 프로그램 예시** : bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradrol, synephrine 등은 금지물질이 아니며 사용 추세만 감시함. Codeine 등 일부 마약성 진통제, 경기기간 외 fentanyl·tramadol, ecdysterone, hypoxen, **18세 미만 여성에서의 GnRH 유사체**, semaglutide·tirzepatide 등도 포함됨. 모니터링 자체는 도핑방지규정위반이나 제재를 의미하지 않음.
 
 ### <mark style="color:orange;">특정 경기에 대한 금지 약물</mark>
 
@@ -73,20 +60,20 @@
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 조치 또는 처방 보류**</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 * 아나필락시스 → **근육주사 epinephrine을 즉시 투여하고 응급 이송**. 경기기간 중 S6에 해당하더라도 치료를 지연하지 말고 진단·용량·경로·시간을 기록한 뒤 소급 TUE 절차 확인. Glucocorticoid는 epinephrine을 대체하는 1차 치료제가 아님
 * 중증 천식 악화 등에서 경구·직장·주사 glucocorticoid 또는 허용량을 초과하는 β-2 작용제가 필요한 경우 → **필요한 치료를 우선 시행**하고 소급 TUE 요건을 KADA·관할 연맹에 즉시 확인
 * 경기기간 중 morphine·oxycodone·tramadol·fentanyl 등 S7 약물이 불가피한 급성 중증 통증(골절, 수술 후 등) → 필요한 진통을 우선 제공하고 기록한 뒤 소급 TUE 대상 여부를 즉시 확인
-* S1(동화작용제), S2(EPO·성장호르몬 계열), S4(insulin 등), S5 약물이 치료상 필요한 경우 → 처방 전 허용 대안을 검토하되 대체 불가하면 TUE 절차 확인. 중추성 요붕증 등의 desmopressin 치료도 S5에 해당하며, insulin이 필요한 당뇨병 등에서 TUE 때문에 필수 치료를 중단하거나 지연하지 않음
+* Insulin 누락에 따른 케톤산증 위험, 중추성 요붕증에서 desmopressin 중단에 따른 중증 탈수 등 필수 치료의 지연이 위험한 경우 → 치료를 우선하고 진단·투여기록 및 소급 TUE 요건을 확인함
 
-<mark style="color:$warning;">**당일 또는 사전 확인이 필요한 상황**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 치료상 금지 약물·방법 사용이 예견되는 만성질환(당뇨병으로 insulin 필요, 천식으로 경구 스테로이드 반복 필요, P1 종목 선수의 부정맥으로 β-차단제 필요, 신질환·심부전으로 이뇨제 필요 등) → **사전 TUE** 신청 절차 조기 안내
+* S1·S2·S4·S5 등 상시 금지 약물 또는 금지방법 사용이 예견되는 만성질환(당뇨병으로 insulin 필요, 천식으로 경구 스테로이드 반복 필요, P1 종목 선수의 부정맥으로 β-차단제 필요, 신질환·심부전으로 이뇨제 필요 등) → **사전 TUE** 신청 절차 조기 안내
 * 관절강내 스테로이드 주사 등 시술적 처치가 필요하나 경기 일정이 임박한 경우 → 성분·경로별 휴약기간 확인, 시기 조정 및 TUE 상담
 * 선수 여부가 불명확하나 국가대표·실업팀·학교 운동부 소속이 의심되는 환자 → 진료 시작 시 확인 질문 추가
 
-<mark style="color:$info;">**외래 추적 / 문서화가 필요한 상황**</mark> <mark style="color:$info;">- 즉각 위험은 낮으나 추후 검사에서 문제될 수 있음</mark>
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 경기기간 외 glucocorticoid를 사용한 뒤 경기 일정이 다가오는 경우 → 성분·경로별 휴약기간과 서방형 여부를 확인하고 진단·대체 치료 검토·성분·용량·경로·투여시각 기록 보관
 * 감기약·건강기능식품·해외직구 보충제 등 비처방 물질 복용 이력이 있는 선수 → 성분 확인 및 기록 습관화 교육
@@ -94,7 +81,7 @@
 
 ***
 
-## <mark style="color:green;">평가 — 처방 전 확인 절차</mark>
+## <mark style="color:green;">진단 및 처방 전 평가</mark>
 
 1. **선수 여부 확인** : 국가대표·실업팀·학교운동부 소속, 국제·국내 경기연맹 등록 여부, KADA 등록검사대상자명부(RTP) 포함 여부를 문진에 포함
 2. **경기기간 여부 확인** : 세계도핑방지규약상 경기기간은 원칙적으로 "선수가 참가할 경기 전날 23:59부터 해당 경기 및 관련 검체 채취 절차 종료 시까지". 다만 특정 종목은 WADA가 승인한 별도 정의가 적용될 수 있으므로 소속 국제·국내경기연맹의 최신 규정 확인
@@ -104,29 +91,17 @@
 
 ***
 
-## <mark style="color:green;">치료목적사용면책(TUE)</mark>
-
-* 정의 : 선수가 진단된 질환의 치료를 위해 금지물질·금지방법 사용이 불가피할 때, 소정 절차를 거쳐 예외적으로 사용을 인정받는 제도(세계도핑방지기구 치료목적사용면책 국제표준, ISTUE)
-* 통상 승인 요건(ISTUE 2023 제4.2조, 4가지 모두 충족) : ① 관련 임상 근거로 뒷받침되는 진단된 질환의 치료에 해당 물질·방법이 필요함 ② 정상 건강상태로 회복되는 수준을 넘어서는 부가적 경기력 향상을 초래하지 않음 ③ 해당 질환에 적응되는 치료이며 합리적인 비금지 치료 대안이 없음 ④ 치료 필요성이, 당시 금지된 물질·방법을 TUE 없이 과거 사용한 결과로 전부 또는 일부 발생한 것이 아님
-* «치료하지 않으면 중대한 건강 손상이 발생해야 함»은 현행 제4.2조의 필수 문구가 아님. 대체 치료를 모두 시도하여 실패해야만 신청할 수 있는 것도 아니며, 선택한 치료가 적절한 이유를 의학적으로 설명함
-
-### <mark style="color:$primary;">신청 유형</mark>
-
-* **사전 TUE** : 사전 신청 대상 선수의 계획된 사용은 금지되는 투여 전에 신청·승인받는 것이 원칙. KADA 안내상 경기기간 중 금지물질·방법은 원칙적으로 경기 30일 전까지, 상시 금지물질·방법은 치료 필요가 확인되는 즉시 신청
-* **소급 TUE** : 금지물질·방법을 사용·소지한 뒤 신청하는 방식. 응급·긴급 치료, 사전에 신청할 충분한 시간·기회가 없었던 경우, 해당 선수 수준에서 사전 신청 의무가 없었던 경우, 경기기간 중에만 금지되는 물질을 경기기간 외에 치료 목적으로 사용한 경우(제4.1(e)조) 등 ISTUE가 정한 요건을 충족해야 함. 소급 신청 자격과 의학적 승인 요건 충족은 별개임
-* 단순한 착오나 사전 신청 누락만으로는 소급 승인이 보장되지 않는다. 응급치료는 TUE 결정을 기다리느라 지연하지 말고, 사용 직후 정확한 의무기록을 준비하여 KADA·관할 연맹에 즉시 확인한다.
-* **경기기간 외 glucocorticoid 투여** : 휴약기간을 확보하지 못했어도 자동으로 사전 TUE를 신청해야 하는 것은 아님. 투여 당시 의무기록을 준비하고 관할기관 정책을 확인하며, 경기기간 중 검사에서 비정상분석결과(AAF)가 보고되면 소급 TUE 신청. 휴약기간을 확보한 경우에도 기록 보관
-* TUE 승인 후에는 승인된 물질·방법, 용량·빈도·경로·기간을 준수하고 변경·만료 시 갱신 필요성 확인. 처방전이나 진단서만으로 TUE가 성립하지 않음
-
-### <mark style="color:$primary;">국내 신청 절차</mark>
-
-* 국내 관할 선수는 한국도핑방지위원회(KADA)의 «TUE 마법사» 등으로 사전 신청 대상과 제출기관을 확인
-* 국제수준선수는 소속 국제연맹(IF)에 신청해야 할 수 있으며, 국내에서 승인된 TUE도 국제연맹·종합대회 주최기관의 별도 인정이 필요한지 확인
-* 처방 의사는 진단명, 검사 소견, 치료 필요성, 대체 치료 검토 내역을 포함한 소견서 작성에 협조
-
-{% hint style="info" %}
-**주의** : TUE의 의학적 승인 기준은 ISTUE에 따라 공통으로 적용되지만 신청기관, 사전 신청 의무가 적용되는 선수 수준, 유효기간 및 국제대회 인정 절차는 관할 경기단체에 따라 달라질 수 있다. 최신 요건은 KADA와 관할 국제·국내경기연맹에서 확인한다.
-{% endhint %}
+```mermaid
+flowchart TD
+    A["선수 여부·종목·경기 일정 확인"] ---> B{"응급·긴급 치료가 필요한가?"}
+    B --->|예| C["필요한 치료·기록 및 소급 TUE 검토"]
+    B --->|아니요| D["성분·경로·용량·시술 금지 여부 조회"]
+    D ---> E{"금지물질·방법에 해당하는가?"}
+    E --->|아니요| F["적응증·허가용법에 따라 사용 및 기록"]
+    E --->|예| G{"합리적인 비금지 대안이 있는가?"}
+    G --->|예| F
+    G --->|아니요| H["관할기관·사전 신청 대상 확인 및 TUE 검토"]
+```
 
 ***
 
@@ -140,17 +115,70 @@
 
 ***
 
+### <mark style="color:orange;">치료목적사용면책(TUE)</mark>
+
+* 정의 : 선수가 진단된 질환의 치료를 위해 금지물질·금지방법 사용이 불가피할 때, 소정 절차를 거쳐 예외적으로 사용을 인정받는 제도(세계도핑방지기구 치료목적사용면책 국제표준, ISTUE)
+* 통상 승인 요건(ISTUE 2023 제4.2조, 4가지 모두 충족) : ① 관련 임상 근거로 뒷받침되는 진단된 질환의 치료에 해당 물질·방법이 필요함 ② 정상 건강상태로 회복되는 수준을 넘어서는 부가적 경기력 향상을 초래하지 않음 ③ 해당 질환에 적응되는 치료이며 합리적인 비금지 치료 대안이 없음 ④ 치료 필요성이, 당시 금지된 물질·방법을 TUE 없이 과거 사용한 결과로 전부 또는 일부 발생한 것이 아님
+* «치료하지 않으면 중대한 건강 손상이 발생해야 함»은 현행 제4.2조의 필수 문구가 아님. 대체 치료를 모두 시도하여 실패해야만 신청할 수 있는 것도 아니며, 선택한 치료가 적절한 이유를 의학적으로 설명함
+
+#### <mark style="color:$primary;">신청 유형</mark>
+
+* **사전 TUE** : 사전 신청 대상 선수의 계획된 사용은 금지되는 투여 전에 신청·승인받는 것이 원칙. KADA 안내상 경기기간 중 금지물질·방법은 원칙적으로 경기 30일 전까지, 상시 금지물질·방법은 치료 필요가 확인되는 즉시 신청
+* **소급 TUE** : 금지물질·방법을 사용·소지한 뒤 신청하는 방식. 응급·긴급 치료, 사전에 신청할 충분한 시간·기회가 없었던 경우, 해당 선수 수준에서 사전 신청 의무가 없었던 경우, 경기기간 중에만 금지되는 물질을 경기기간 외에 치료 목적으로 사용한 경우(제4.1(e)조) 등 ISTUE가 정한 요건을 충족해야 함. 소급 신청 자격과 의학적 승인 요건 충족은 별개임
+* 단순한 착오나 사전 신청 누락만으로는 소급 승인이 보장되지 않음. 응급치료는 TUE 결정을 기다리느라 지연하지 말고, 사용 직후 정확한 의무기록을 준비하여 KADA·관할 연맹에 즉시 확인함.
+* **경기기간 외 glucocorticoid 투여** : 휴약기간을 확보하지 못했어도 자동으로 사전 TUE를 신청해야 하는 것은 아님. 투여 당시 의무기록을 준비하고 관할기관 정책을 확인하며, 경기기간 중 검사에서 비정상분석결과(AAF)가 보고되면 소급 TUE 신청. 휴약기간을 확보한 경우에도 기록 보관
+* TUE 승인 후에는 승인된 물질·방법, 용량·빈도·경로·기간을 준수하고 변경·만료 시 갱신 필요성 확인. 처방전이나 진단서만으로 TUE가 성립하지 않음
+
+#### <mark style="color:$primary;">국내 신청 절차</mark>
+
+* 국내 관할 선수는 한국도핑방지위원회(KADA)의 «TUE 마법사» 등으로 사전 신청 대상과 제출기관을 확인
+* 국제수준선수는 소속 국제연맹(IF)에 신청해야 할 수 있으며, 국내에서 승인된 TUE도 국제연맹·종합대회 주최기관의 별도 인정이 필요한지 확인
+* 처방 의사는 진단명, 검사 소견, 치료 필요성, 대체 치료 검토 내역을 포함한 소견서 작성에 협조
+
+{% hint style="info" %}
+**주의** : TUE의 의학적 승인 기준은 ISTUE에 따라 공통으로 적용되지만 신청기관, 사전 신청 의무가 적용되는 선수 수준, 유효기간 및 국제대회 인정 절차는 관할 경기단체에 따라 달라질 수 있음. 최신 요건은 KADA와 관할 국제·국내경기연맹에서 확인함.
+{% endhint %}
+
+***
+
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
+
+* 처방약·일반약·한약·건강기능식품·보충제의 전체 사용 목록을 확인하고, 복합제는 성분별로 조회함.
+* 제품명·제조번호·처방전·투여기록을 보관함. 도핑검사 시 최근 사용 약물과 보충제를 신고하되, 신고 자체가 TUE를 대신하지는 않음.
+* 보충제의 제3자 배치검사도 오염 위험을 완전히 없애지 못함. KADA 검색 결과가 없다는 이유만으로 사용 가능하다고 판단하지 않음.
+
+***
+
 ## <mark style="color:green;">약물 치료 — 1차 진료 상황별 안전 처방 전략</mark>
+
+{% hint style="danger" %}
+**⚠️ 관절강내·근육내 글루코코르티코이드 주사, 경기기간 중 금지 — 유효한 TUE가 있으면 승인 범위 내 사용 가능**\
+2022년 개정 이후 경구·직장뿐 아니라 관절강내(intra-articular)·건주위(peritendinous)·경막외(epidural) 등 **모든 주사 경로**의 글루코코르티코이드가 경기기간 중 금지됨. 경기기간 외 투여라도 경기기간 중 검출될 수 있으므로 단순히 경기 전날만 피해서는 안 되며, 아래 성분·경로별 휴약기간을 확인해야 함. 경기기간 중 투여가 계획되면 사전 TUE를 원칙으로 하고, 응급치료는 TUE 때문에 지연하지 않음.
+{% endhint %}
+
+### <mark style="color:orange;">Glucocorticoid</mark>
+
+#### <mark style="color:$primary;">Glucocorticoid 투여경로별 경기기간 중 상태</mark>
+
+<table><thead><tr><th width="160">경기기간 중 상태</th><th>투여경로</th></tr></thead><tbody><tr><td><mark style="color:red;">금지</mark></td><td>경구·구강점막·협점막·치은·설하, 직장, 모든 주사 경로(정맥·근육·피하·관절강내·관절주위·건주위·경막외 등)</td></tr><tr><td>금지되지 않음</td><td>흡입, 비강, 점안, 귀, 피부, 항문주위, 치아 근관 내 투여 — 제조사의 허가용량과 치료 적응증 내에서 사용</td></tr></tbody></table>
+
+#### <mark style="color:$primary;">WADA glucocorticoid 휴약기간</mark>
+
+<table><thead><tr><th width="150">경로</th><th>성분</th><th width="100">휴약기간</th></tr></thead><tbody><tr><td>경구(구강점막·협점막·치은·설하 포함)</td><td>아래 예외 성분을 제외한 glucocorticoid</td><td>3일</td></tr><tr><td>경구</td><td>Triamcinolone, triamcinolone acetonide</td><td>10일</td></tr><tr><td>근육주사</td><td>Betamethasone, dexamethasone, methylprednisolone</td><td>5일</td></tr><tr><td>근육주사</td><td>Prednisolone, prednisone</td><td>10일</td></tr><tr><td>근육주사</td><td>Triamcinolone acetonide</td><td><mark style="color:red;">60일</mark></td></tr><tr><td>국소주사(관절강내·관절주위·건주위·건내 등)</td><td>아래 예외 성분을 제외한 glucocorticoid</td><td>3일</td></tr><tr><td>국소주사</td><td>Prednisolone, prednisone, triamcinolone acetonide, triamcinolone hexacetonide</td><td>10일</td></tr><tr><td>직장</td><td>아래 예외 성분을 제외한 glucocorticoid</td><td>3일</td></tr><tr><td>직장</td><td>Triamcinolone diacetate, triamcinolone acetonide</td><td>10일</td></tr></tbody></table>
+
+{% hint style="warning" %}
+**휴약기간 계산과 한계** : 마지막 투여 시점부터 **경기기간 시작 시점**까지 계산함. 위 표는 제조사의 최대 허가용량 내 사용을 바탕으로 한 최소 권고기간으로, 음성 결과를 보장하지 않음. 고용량·반복투여·서방형 제제에서는 더 오래 검출될 수 있음. 정맥·피하·경막외 등 표에 별도 기간이 없는 경로에는 국소주사 3일을 일률적으로 적용하지 말고 관할 도핑방지기구에 확인. 성분·제형·용량·경로·주사 부위와 투여시각을 상세히 기록함.
+{% endhint %}
 
 ### <mark style="color:orange;">감기·상기도 감염 (비충혈·기침)</mark>
 
-<table><thead><tr><th width="170">상황</th><th width="240">주의·금지 약물</th><th>대안</th></tr></thead><tbody><tr><td>비충혈</td><td>Pseudoephedrine·ephedrine은 경기기간 중 요중 기준 적용(S6). Pseudoephedrine은 경기기간 시작 최소 24시간 전 중단 권고</td><td>생리식염수 비강세척·분무, 단기간의 oxymetazoline 등 국소 비충혈제. 경구 phenylephrine은 금지물질은 아니지만 비충혈 개선 효과가 불확실하여 일률적 대체약으로 권하지 않음</td></tr><tr><td>기침·진해</td><td>Codeine은 WADA 금지목록에는 없지만 2026 모니터링 대상이며, 진정·반응속도 저하와 morphine 대사를 고려하여 사용기록 보관. Tramadol 등 S7 성분은 경기기간 중 금지</td><td>Dextromethorphan(비금지)</td></tr><tr><td>발열·통증</td><td>—</td><td>Acetaminophen, NSAIDs(전신 금지 아님)</td></tr></tbody></table>
+<table><thead><tr><th width="170">상황</th><th width="240">주의·금지 약물</th><th>대안</th></tr></thead><tbody><tr><td>비충혈</td><td>Pseudoephedrine·ephedrine은 경기기간 중 요중 기준 적용(S6). Pseudoephedrine은 경기기간 시작 최소 24시간 전 중단 권고</td><td>생리식염수 비강세척·분무, 단기간의 oxymetazoline 등 국소 비충혈제. 경구 phenylephrine은 금지물질은 아니지만 비충혈 개선 효과가 불확실하여 일률적 대체약으로 권하지 않음</td></tr><tr><td>기침·진해</td><td>Codeine은 WADA 금지목록에는 없지만 2026 모니터링 대상이며, 진정·반응속도 저하와 morphine 대사를 고려하여 사용기록 보관. Tramadol 등 S7 성분은 경기기간 중 금지</td><td>Dextromethorphan(비금지)</td></tr><tr><td>발열·통증</td><td>—</td><td>Acetaminophen, NSAIDs(비금지; 제품별 금기 확인)</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Pseudoephedrine의 24시간은 **경기 시작**이 아니라 통상 경기 전날 23:59인 **경기기간 시작**을 기준으로 한다. 고용량·반복복용과 개인차가 있어 중단이 요중 기준 이하를 보장하지 않으며, 계속 치료해야 하면 허용 대안 또는 TUE 필요성을 확인한다.
+Pseudoephedrine의 24시간은 **경기 시작**이 아니라 통상 경기 전날 23:59인 **경기기간 시작**을 기준으로 함. 고용량·반복복용과 개인차가 있어 중단이 요중 기준 이하를 보장하지 않으며, 계속 치료해야 하면 허용 대안 또는 TUE 필요성을 확인함.
 {% endhint %}
 
-### <mark style="color:orange;">알레르기 비염·결막염</mark>
+### <mark style="color:orange;">알레르기비염·결막염</mark>
 
 * 대부분의 경구·비강·점안 항히스타민제는 금지 목록에 해당하지 않음(cetirizine, loratadine, fexofenadine 등 통상 사용 가능)
 * 비강용 glucocorticoid(fluticasone, mometasone 등)는 허가용량·치료 적응증 내 비강 경로로 사용하면 금지되지 않음
@@ -177,7 +205,7 @@ Pseudoephedrine의 24시간은 **경기 시작**이 아니라 통상 경기 전�
 ### <mark style="color:orange;">고혈압·부종</mark>
 
 * thiazide, furosemide 등 이뇨제는 은폐제(S5)로 상시 금지 — 대체로 ACE 억제제, ARB, 칼슘차단제 우선 고려
-* β-차단제는 전 종목에서 금지되는 것은 아니나 P1 해당 종목에서 제한된다. 양궁·사격 및 수중 종목 중 프리다이빙·스피어피싱·표적사격에서는 훈련기간을 포함해 상시 금지
+* β-차단제는 전 종목에서 금지되는 것은 아니나 P1 해당 종목에서 제한됨. 양궁·사격 및 수중 종목 중 프리다이빙·스피어피싱·표적사격에서는 훈련기간을 포함해 상시 금지
 
 ### <mark style="color:orange;">불면·불안</mark>
 
@@ -195,12 +223,6 @@ Pseudoephedrine의 24시간은 **경기 시작**이 아니라 통상 경기 전�
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
-
-* 도핑 방지 상담 자체에 대응하는 단일 질병코드는 없으며, 실제 진료에서는 천식·당뇨병·고혈압·근골격계 질환 등 치료 대상 기저질환과 진료 목적에 맞는 코드를 적용한다.
-
-***
-
 ## <mark style="color:purple;">처방례</mark>
 
 _✽아래는 성인 처방 예시이며, 실제 제품의 허가용법·제형과 환자 상태 및 도핑 규정을 함께 확인함._
@@ -212,9 +234,9 @@ _✽아래는 성인 처방 예시이며, 실제 제품의 허가용법·제형�
 > 옥시메타졸린 0.05% 비강분무제  각 비강 1~2 puff  bid  최대 3일
 > ```
 >
-> _✽제품별 국내 허가용법을 확인한다. Pseudoephedrine은 경기기간 중 요중 기준이 적용되며 경기기간 시작 최소 24시간 전 중단을 권고하지만 음성을 보장하지 않는다. 경구 phenylephrine은 금지물질은 아니나 비충혈 개선 효과가 불확실하여 일률적 대체약으로 사용하지 않는다._
+> _✽제품별 국내 허가용법을 확인함. Pseudoephedrine은 경기기간 중 요중 기준이 적용되며 경기기간 시작 최소 24시간 전 중단을 권고하지만 음성을 보장하지 않음. 경구 phenylephrine은 금지물질은 아니나 비충혈 개선 효과가 불확실하여 일률적 대체약으로 사용하지 않음._
 
-> **처방례 2. 알레르기 비염 동반 선수**
+> **처방례 2. 알레르기비염 동반 선수**
 >
 > ```
 > 세티리진 10 mg/T  1T  qd
@@ -226,11 +248,10 @@ _✽아래는 성인 처방 예시이며, 실제 제품의 허가용법·제형�
 > **처방례 3. 무릎 통증(활막염), 관절강내 스테로이드 주사가 필요하나 경기가 임박한 경우**
 >
 > ```
-> NSAID 외용 젤 1일 3~4회 도포
-> naproxen 250 mg/T  1T  bid  pc
+> naproxen 250 mg/T  1T  bid  pc  필요시 단기간
 > ```
 >
-> _✽관절강내 glucocorticoid 주사는 경기기간 중 금지된다. 경기기간 전 시행도 대부분 3일, prednisolone·prednisone·triamcinolone acetonide·hexacetonide는 10일의 휴약기간을 고려하며, 서방형 제제·전신흡수 가능성과 기록 보관에 유의한다. 경기기간 중 시술이 필요하면 사전 TUE를 원칙으로 한다._
+> _✽국소 통증에는 경구 NSAID 대신 제품별 허가용법에 따른 외용 NSAID를 선택할 수 있음. 경구·외용 NSAID를 일률적으로 병용하지 않음. 관절강내 glucocorticoid 주사는 경기기간 중 금지됨. 경기기간 전 시행도 대부분 3일, prednisolone·prednisone·triamcinolone acetonide·hexacetonide는 10일의 휴약기간을 고려하며, 서방형 제제·전신흡수 가능성과 기록 보관에 유의함. 경기기간 중 시술이 필요하면 사전 TUE를 원칙으로 함._
 
 > **처방례 4. 흡입 스테로이드 포함 유지치료와 증상완화제를 사용하는 천식 선수**
 >
@@ -239,7 +260,7 @@ _✽아래는 성인 처방 예시이며, 실제 제품의 허가용법·제형�
 > 부데소니드/포르모테롤 160/4.5 µg (심비코트터부헬러)  1회 1흡입  bid (유지치료)
 > ```
 >
-> _✽유지치료와 증상완화제의 구성은 천식 조절 상태와 치료계획에 따라 선택하며, 이 예시는 중증 급성 악화의 전체 처방이 아님. 제품별 1회 흡입량·표시용량·전달용량과 모든 흡입기의 합산량을 확인하여 salbutamol·formoterol의 구간별 및 24시간 허용 상한을 관리함. 환자 안전을 위해 필요한 천식 치료를 제한해서는 안 되며, 허용량 초과 또는 경구·주사용 glucocorticoid가 불가피한 중증 악화는 치료를 우선하고 소급 TUE 대상 여부를 즉시 확인한다._
+> _✽유지치료와 증상완화제의 구성은 천식 조절 상태와 치료계획에 따라 선택하며, 이 예시는 중증 급성 악화의 전체 처방이 아님. 제품별 1회 흡입량·표시용량·전달용량과 모든 흡입기의 합산량을 확인하여 salbutamol·formoterol의 구간별 및 24시간 허용 상한을 관리함. 환자 안전을 위해 필요한 천식 치료를 제한해서는 안 되며, 허용량 초과 또는 경구·주사용 glucocorticoid가 불가피한 중증 악화는 치료를 우선하고 소급 TUE 대상 여부를 즉시 확인함._
 
 > **처방례 5. 급성 중등도 통증, 마약성 진통제 회피가 필요한 경우**
 >
@@ -248,7 +269,7 @@ _✽아래는 성인 처방 예시이며, 실제 제품의 허가용법·제형�
 > 이부프로펜 400 mg/T  1T  tid  pc
 > ```
 >
-> _✽두 약물은 증상·금기·위험에 따라 선택 또는 병용하며, acetaminophen은 다른 복합제 포함 1일 총 4 g을 넘기지 않음(간질환 등에서는 별도 용량 검토). 650 mg 서방정을 사용할 때는 이 일반정 복용 간격을 적용하지 말고 해당 제품의 허가용법을 따름. NSAIDs·acetaminophen은 금지 목록에 해당하지 않아 우선 고려. 통증 조절이 불충분하면 필요한 진통을 부당하게 제한하지 말고 S7 해당 여부를 확인하여 사용기록을 남긴 뒤, 경기기간 중 사용은 소급 TUE 대상 여부를 관할기관에 확인한다._
+> _✽두 약물은 증상·금기·위험에 따라 선택 또는 병용하며, acetaminophen은 다른 복합제 포함 1일 총 4 g을 넘기지 않음(반복 복용 시 보수적으로 3 g/d 이하를 고려하고, 간경변에서는 2 g/d 이하 등 별도 용량 검토). 650 mg 서방정을 사용할 때는 이 일반정 복용 간격을 적용하지 말고 해당 제품의 허가용법을 따름. NSAIDs·acetaminophen은 금지 목록에 해당하지 않아 우선 고려함. NSAID는 활동성 위장관 궤양·출혈, 중증 신장·심장질환, NSAID 과민반응 및 임신 등 금기·주의를 제품별로 확인하며, ibuprofen은 위장관 궤양·출혈 또는 그 병력 및 기관지천식 또는 그 병력 등 국내 허가 금기에 유의함. 통증 조절이 불충분하면 필요한 진통을 부당하게 제한하지 말고 S7 해당 여부를 확인하여 사용기록을 남긴 뒤, 경기기간 중 사용은 소급 TUE 대상 여부를 관할기관에 확인함._
 
 ***
 
@@ -313,11 +334,24 @@ _✽아래는 성인 처방 예시이며, 실제 제품의 허가용법·제형�
 
 ***
 
+### <mark style="color:red;">질병코드</mark>
+
+* 도핑 방지 상담 자체에 대응하는 단일 질병코드는 없으며, 실제 진료에서는 천식·당뇨병·고혈압·근골격계 질환 등 치료 대상 기저질환과 진료 목적에 맞는 코드를 적용함.
+
+***
+
 ☞ [한국도핑방지위원회-금지약물검색](https://www.kada-ad.or.kr/kada?where=drug/drug_search)\
 ☞ [한국도핑방지위원회-치료목적사용면책(TUE)](https://www.kada-ad.or.kr/) — «치료목적사용면책» 메뉴에서 최신 신청 대상·절차 확인
 
-### <mark style="color:blue;">주요 근거</mark>
+### <mark style="color:blue;">참고문헌</mark>
 
+#### 임상 근거
+
+* [ASCIA. Guidelines — Acute Management of Anaphylaxis, 2026](https://allergy.org.au/hp/anaphylaxis/acute-management-guidelines)
+
+#### 허가·급여 확인 자료
+
+* [WADA. 2027 Prohibited List 및 변경 설명서·모니터링 프로그램](https://www.wada-ama.org/en/resources/2027-prohibited-list) — 2027. 1. 1. 시행 예정
 * [WADA. The 2026 Prohibited List](https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf) — 2026. 1. 1. 시행
 * [WADA. Summary of Major Modifications and Explanatory Notes: 2026 Prohibited List](https://www.wada-ama.org/sites/default/files/2025-09/2026_list_explanatory_note_en_final_september_2025.pdf)
 * [WADA. The 2026 Monitoring Program](https://www.wada-ama.org/sites/default/files/2025-09/2026_list_monitoring_program_en_final_clean_september_2025.pdf)
@@ -325,9 +359,8 @@ _✽아래는 성인 처방 예시이며, 실제 제품의 허가용법·제형�
 * [WADA. Glucocorticoids and Therapeutic Use Exemptions, September 2025](https://www.wada-ama.org/sites/default/files/2025-09/glucocorticoids_and_therapeutic_use_exemptions_september_2025.pdf)
 * [WADA. TUE Physician Guidelines: Intravenous infusions and/or injections, October 2023](https://www.wada-ama.org/sites/default/files/2023-10/tue_physician_guidelines_iv_infusion_october_2023.pdf)
 * [WADA. The Prohibited List — Frequently asked questions](https://www.wada-ama.org/en/prohibited-list)
-* [ASCIA. Guidelines — Acute Management of Anaphylaxis, 2026](https://allergy.org.au/hp/anaphylaxis/acute-management-guidelines)
 * [한국오가논. 나조넥스나잘스프레이 제품정보](https://www.organon.com/korea/our-focus/products-list/)
 * [대원제약. 심비코트터부헬러160/4.5마이크로그램 제품정보](https://www.daewonpharm.com/products/sub02_01_view.jsp?PRD_NO=1523&lang=1&mb=02&mm=22&ms=211)
-* [식품의약품안전처. 타이레놀정500밀리그람 허가사항](https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106092)
+* [식품의약품안전처. 의약품안전나라](https://nedrug.mfds.go.kr/) — 국내 제품별 허가사항 확인
 
-_✽금지목록 적용 연도: 2026년. 검토일: 2026. 10. 4. 다음 연도 목록은 공표 시점과 시행일을 구분하여 적용함._
+_✽금지목록 적용 연도: 2026년. 검토일: 2026. 10. 25. 다음 연도 목록은 공표 시점과 시행일을 구분하여 적용함._
