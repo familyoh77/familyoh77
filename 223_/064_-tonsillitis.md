@@ -51,28 +51,28 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 개구 장애(trismus)  `편도주위농양`
-* 목소리 변화(hot potato voice) + 구개수의 반대측 편위  `편도주위농양`
-* 호흡 곤란 또는 흡기성 협착음(stridor)  `후두 부종` `심부경부감염`
-* 과도한 침 흘림(drooling) + 삼킴 불능  `후두개염` `심부경부감염`
-* 경부 강직 + 발열  `수막염` `심부경부감염`
-* 의식 변화, 저혈압 또는 쇼크 징후  `패혈증` `연쇄알균 독성 쇼크 증후군`
-* 초기 인후통 후 일시적 호전 → 수일 뒤 고열 재발 + 경부 통증·종창  `Lemierre 증후군`
-* 편도절제술 후 구강·인두 출혈(특히 술후 5\~10일)  `편도절제 후 출혈`
+* 개구 장애(trismus) `편도주위농양`
+* 목소리 변화(hot potato voice) + 구개수의 반대측 편위 `편도주위농양`
+* 호흡 곤란 또는 흡기성 협착음(stridor) `후두 부종` `심부경부감염`
+* 과도한 침 흘림(drooling) + 삼킴 불능 `후두개염` `심부경부감염`
+* 경부 강직 + 발열 `수막염` `심부경부감염`
+* 의식 변화, 저혈압 또는 쇼크 징후 `패혈증` `연쇄알균 독성 쇼크 증후군`
+* 초기 인후통 후 일시적 호전 → 수일 뒤 고열 재발 + 경부 통증·종창 `Lemierre 증후군`
+* 편도절제술 후 구강·인두 출혈(특히 술후 5\~10일) `편도절제 후 출혈`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 빠르게 진행하는 일측성 편도 비대, 궤양·출혈, 경부 종괴, 체중 감소 또는 지속적 편측 귀 방사통  `림프종` `편도 악성 종양`
-* 항생제 치료에도 48\~72시간 내 호전 없는 심한 세균성 편도염  `치료 실패` `편도주위농양` `EBV 감염`
-* 전신 증상 악화(경구 섭취 불량, 고열 지속)  `탈수`
-* GABHS 감염 후 수 주 이내 이동성 다발관절염, 흉통·호흡곤란·두근거림, 무도병 또는 특징적 발진  `급성 류마티스열`
-* GABHS 감염 1\~3주 후 콜라색 소변, 눈꺼풀·하지 부종 또는 혈압 상승  `연쇄알균 감염 후 사구체신염`
+* 빠르게 진행하는 일측성 편도 비대, 궤양·출혈, 경부 종괴, 체중 감소 또는 지속적 편측 귀 방사통 `림프종` `편도 악성 종양`
+* 항생제 치료에도 48\~72시간 내 호전 없는 심한 세균성 편도염 `치료 실패` `편도주위농양` `EBV 감염`
+* 전신 증상 악화(경구 섭취 불량, 고열 지속) `탈수`
+* GABHS 감염 후 수 주 이내 이동성 다발관절염, 흉통·호흡곤란·두근거림, 무도병 또는 특징적 발진 `급성 류마티스열`
+* GABHS 감염 1\~3주 후 콜라색 소변, 눈꺼풀·하지 부종 또는 혈압 상승 `연쇄알균 감염 후 사구체신염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 항생제 치료 완료 후에도 재발하는 반복성 편도염  `재발성 편도염`
+* 항생제 치료 완료 후에도 재발하는 반복성 편도염 `재발성 편도염`
 * 반복되는 증상성 편도결석으로 생활에 불편이 있는 경우
-* 소아에서 편도·아데노이드 비대와 코골이, 구강 호흡, 목격된 수면 무호흡 또는 성장·학업·행동 문제가 동반된 경우  `소아 폐쇄성 수면무호흡`
+* 소아에서 편도·아데노이드 비대와 코골이, 구강 호흡, 목격된 수면 무호흡 또는 성장·학업·행동 문제가 동반된 경우 `소아 폐쇄성 수면무호흡`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -135,43 +135,10 @@ _<mark style="color:$info;">(Ref. 질병관리청·대한항균요법학회. 202
 ***
 
 ```mermaid
-flowchart TD
-    A["급성 편도염 의심"] --> B{"기도 위협·심부 감염 등 응급 징후?"}
-    B -- 있음 --> C["즉각 처치·응급 의뢰"]
-    B -- 없음 --> D{"GAS 밀접 접촉·류마티스열 병력 등 고위험 요인?"}
-    D -- 있음 --> R["점수와 무관하게 검사·추가 평가"]
-    D -- 없음 --> E{"명확한 바이러스 시사 소견?"}
-    E -- 있음 --> G["항생제 없이 대증 치료"]
-    E -- 없음 --> F{"연령?"}
-    F -- 3세 미만 --> U["점수 적용 안 함·선택적 검사 판단"]
-    F -- 3세 이상 --> H{"McIsaac 점수?"}
-    H -- "≤1점" --> G
-    H -- 2점 --> T{"소아·청소년에서 GAS 의심?"}
-    T -- 예 --> I["RADT 시행"]
-    T -- 아니오 --> G
-    H -- 3점 이상 --> I
-    R -- GAS 검사 적응증 --> I
-    U -- 검사 필요 --> I
-    U -- 검사 불필요 --> G
-    I -- 양성 --> K["항생제 치료·amoxicillin 10일 등"]
-    I -- "음성·3세 이상 소아청소년" --> L["인후 배양 확인"]
-    I -- 음성·성인 --> G
-    L -- 양성 --> K
-    L -- 음성 --> G
-    I -- 검사 불가능 --> J{"성인·3점 이상이며 경험적 치료 선택?"}
-    J -- 아니오 --> N["검사 가능 기관·추적 계획 결정"]
-    J -- 예 --> K
-    G --> V["호전 없으면 재평가·항생제 사용 시 48~72시간 기준"]
-    K --> V
-    N --> V
-    V --> P["악화·합병증 징후는 예정일 전 즉시 재평가"]
-    classDef warning fill:#fff9c4,stroke:#ffe082
-    class B,D,E,F,H,T,J warning
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style C fill:#ffcdd2,stroke:#c62828
-    style K fill:#e3f2ff,stroke:#2196f3
-    style G fill:#e8f8e8,stroke:#4caf50
 ```
+
+> _검사를 시행할 수 없는 경우 McIsaac ≥3점인 성인에 한해 경험적 항생제를 제한적으로 고려하며, 소아·청소년은 검사 가능 기관과 추적 계획을 정함._\
+> _대증 치료 또는 항생제 치료 후 호전이 없으면 재평가하고(항생제 사용 시 48\~72시간 기준), 악화·합병증 징후가 있으면 예정일 전에 즉시 재평가함._
 
 <p align="center"><strong>급성 편도염 진단 및 치료 알고리듬</strong></p>
 
@@ -268,7 +235,6 @@ flowchart TD
 **1세대 세팔로스포린** (1차)
 
 * SJS/TEN·DRESS 등 중증 피부반응 또는 약물 유발 장기 손상 병력은 제외. 이러한 중증 지연형 반응에서는 관련 β-lactam을 임의로 대체하지 말고 약물 알레르기 전문 평가
-
 * cephalexin 500 ㎎ bid × 10일 <mark style="color:blue;">\[팔렉신]</mark>
   * 소아 : 20 ㎎/㎏/회 bid (최대 500 ㎎/회) × 10일; 국내에는 시럽 제형이 없음
 * cefadroxil 1,000 ㎎ qd × 10일 <mark style="color:blue;">\[듀리세프]</mark>
@@ -489,73 +455,57 @@ _<mark style="color:$info;">(Ref. Korean J Lab Med 2010; J Med Microbiol 2019; J
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* 질병관리청·대한항균요법학회. 2026 급성 상기도 감염 항생제 적정사용을 위한 실무지침. 2026년 4월 발행(표지 연도 2025). - 19세 이상 성인의 검사 전략, 항생제 선택·용량 및 치료 실패 평가.
+*   질병관리청·대한항균요법학회. 2026 급성 상기도 감염 항생제 적정사용을 위한 실무지침. 2026년 4월 발행(표지 연도 2025). - 19세 이상 성인의 검사 전략, 항생제 선택·용량 및 치료 실패 평가.
 
-  [https://www.kdca.go.kr/bbs/kdca/55/306853/download.do](https://www.kdca.go.kr/bbs/kdca/55/306853/download.do)
+    [https://www.kdca.go.kr/bbs/kdca/55/306853/download.do](https://www.kdca.go.kr/bbs/kdca/55/306853/download.do)
+*   IDSA. Clinical Practice Guideline Update on Group A Streptococcal (GAS) Pharyngitis. 2025. - Part 1(임상점수에 따른 검사 대상 결정): 임상점수의 역할, 고위험군과 3세 미만의 예외.
 
-* IDSA. Clinical Practice Guideline Update on Group A Streptococcal (GAS) Pharyngitis. 2025. - Part 1(임상점수에 따른 검사 대상 결정): 임상점수의 역할, 고위험군과 3세 미만의 예외.
+    [https://www.idsociety.org/practice-guideline/streptococcal-pharyngitis2/](https://www.idsociety.org/practice-guideline/streptococcal-pharyngitis2/)
+*   Shulman ST et al. Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America. Clin Infect Dis. 2012;55:e86-e102. - 항생제 종류·용량·기간, 보균자 관리.
 
-  [https://www.idsociety.org/practice-guideline/streptococcal-pharyngitis2/](https://www.idsociety.org/practice-guideline/streptococcal-pharyngitis2/)
+    [https://pubmed.ncbi.nlm.nih.gov/22965026/](https://pubmed.ncbi.nlm.nih.gov/22965026/)
+*   CDC. Clinical Guidance for Group A Streptococcal Pharyngitis. 2025. - GAS 원인 비율, 소아 RADT 음성 후 배양, 표준 치료와 복귀 기준.
 
-* Shulman ST et al. Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America. Clin Infect Dis. 2012;55:e86-e102. - 항생제 종류·용량·기간, 보균자 관리.
+    [https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html)
+*   CDC. Laboratory Testing for Epstein-Barr Virus (EBV). - EBV 특이항체 판정과 Monospot의 한계.
 
-  [https://pubmed.ncbi.nlm.nih.gov/22965026/](https://pubmed.ncbi.nlm.nih.gov/22965026/)
+    [https://www.cdc.gov/epstein-barr/php/laboratories/](https://www.cdc.gov/epstein-barr/php/laboratories/)
+*   CDC. Clinical Features of Penicillin Allergy. - 페니실린 알레르기 위험 분류 및 중증 지연형 반응의 전문 평가.
 
-* CDC. Clinical Guidance for Group A Streptococcal Pharyngitis. 2025. - GAS 원인 비율, 소아 RADT 음성 후 배양, 표준 치료와 복귀 기준.
+    [https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html](https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html)
+*   Corticosteroids for sore throat: a clinical practice guideline. BMJ. 2017;358:j4090. - 단회 스테로이드의 약한 권고와 적용 범위; routine·반복 처방의 근거는 아님.
 
-  [https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html)
+    [https://www.bmj.com/content/358/bmj.j4090](https://www.bmj.com/content/358/bmj.j4090)
+*   Mitchell RB et al. Clinical Practice Guideline: Tonsillectomy in Children (Update). Otolaryngol Head Neck Surg. 2019;160(1\_suppl):S1-S42. - 소아 수술 적응증, PSG 및 수술 후 입원 관찰.
 
-* CDC. Laboratory Testing for Epstein-Barr Virus (EBV). - EBV 특이항체 판정과 Monospot의 한계.
+    [https://pubmed.ncbi.nlm.nih.gov/30798778/](https://pubmed.ncbi.nlm.nih.gov/30798778/)
+*   Wilson JA et al. Conservative management versus tonsillectomy in adults with recurrent acute tonsillitis in the UK (NATTINA): a multicentre, open-label, randomised controlled trial. Lancet. 2023;401:2051-2059. - 적응증을 충족한 성인 재발성 편도염에서 수술의 효과와 위험.
 
-  [https://www.cdc.gov/epstein-barr/php/laboratories/](https://www.cdc.gov/epstein-barr/php/laboratories/)
+    [https://pubmed.ncbi.nlm.nih.gov/37209706/](https://pubmed.ncbi.nlm.nih.gov/37209706/)
+*   Evidence-Based Interventions. Tonsillectomy for recurrent tonsillitis. Reviewed 2024. - 재발 빈도, 일상생활 장애 및 공동 의사결정.
 
-* CDC. Clinical Features of Penicillin Allergy. - 페니실린 알레르기 위험 분류 및 중증 지연형 반응의 전문 평가.
+    [https://ebi.aomrc.org.uk/interventions/tonsillectomy-for-recurrent-tonsillitis/](https://ebi.aomrc.org.uk/interventions/tonsillectomy-for-recurrent-tonsillitis/)
+*   Bitar MA et al. The effect of tonsillectomy on the immune system: a systematic review and meta-analysis. Int J Pediatr Otorhinolaryngol. 2015;79:1184-1191. - 편도절제술 후 면역기능 변화에 대한 체계적 검토.
 
-  [https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html](https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html)
+    [https://pubmed.ncbi.nlm.nih.gov/26055199/](https://pubmed.ncbi.nlm.nih.gov/26055199/)
+*   Redline S et al. Adenotonsillectomy for Snoring and Mild Sleep Apnea in Children: A Randomized Clinical Trial. JAMA. 2023;330(21):2084-2095. - PATS 시험: 경증 소아 수면 호흡 장애의 증상·삶의 질 개선과 실행기능·주의력 결과.
 
-* Corticosteroids for sore throat: a clinical practice guideline. BMJ. 2017;358:j4090. - 단회 스테로이드의 약한 권고와 적용 범위; routine·반복 처방의 근거는 아님.
+    [https://jamanetwork.com/journals/jama/fullarticle/2812479](https://jamanetwork.com/journals/jama/fullarticle/2812479)
+*   Koh E, Kim S. Decline in erythromycin resistance in group A streptococci from acute pharyngitis due to changes in the emm genotypes rather than restriction of antibiotic use. Korean J Lab Med. 2010;30(5):485-490. - 2002년과 2009년 국내 소아 인두염 분리주의 내성률 변화.
 
-  [https://www.bmj.com/content/358/bmj.j4090](https://www.bmj.com/content/358/bmj.j4090)
+    [https://doi.org/10.3343/kjlm.2010.30.5.485](https://doi.org/10.3343/kjlm.2010.30.5.485)
+*   Kim S et al. Predominance of emm4 and antibiotic resistance of Streptococcus pyogenes in acute pharyngitis in a southern region of Korea. J Med Microbiol. 2019;68(7):1053-1058. - 2017년 창원 지역 소아 인두염 분리주의 erythromycin 내성률 3.2%.
 
-* Mitchell RB et al. Clinical Practice Guideline: Tonsillectomy in Children (Update). Otolaryngol Head Neck Surg. 2019;160(1_suppl):S1-S42. - 소아 수술 적응증, PSG 및 수술 후 입원 관찰.
+    [https://doi.org/10.1099/jmm.0.001005](https://doi.org/10.1099/jmm.0.001005)
+*   Cho YN et al. Distribution of emm genotypes in group A streptococcus isolates of Korean children from 2012 to 2019. J Microbiol Immunol Infect. 2022;55(4):671-677. - 국내 소아 GAS 분리주 169개 중 erythromycin 내성 2개(1.2%); 성홍열·침습성 감염 등을 포함한 자료로 단순 외래 인두염 자료와 구분.
 
-  [https://pubmed.ncbi.nlm.nih.gov/30798778/](https://pubmed.ncbi.nlm.nih.gov/30798778/)
+    [https://doi.org/10.1016/j.jmii.2022.05.001](https://doi.org/10.1016/j.jmii.2022.05.001)
+*   Liu X et al. High macrolide resistance in Streptococcus pyogenes strains isolated from children with pharyngitis in China. Pediatr Pulmonol. 2009;44(5):436-441. - 중국 소아 인두염 분리주의 높은 macrolide 내성률 보고.
 
-* Wilson JA et al. Conservative management versus tonsillectomy in adults with recurrent acute tonsillitis in the UK (NATTINA): a multicentre, open-label, randomised controlled trial. Lancet. 2023;401:2051-2059. - 적응증을 충족한 성인 재발성 편도염에서 수술의 효과와 위험.
+    [https://doi.org/10.1002/ppul.20976](https://doi.org/10.1002/ppul.20976)
+*   ASCP. Routine Reflex Throat Cultures Should Be Avoided Following a Negative Group A Streptococcus (GAS) Molecular NAAT Result in Patients Without Additional Clinical Indications. - 검증된 고감도 NAAT 음성 후 통상 확인 배양 생략; 지속되는 임상적 의심 등 예외 고려.
 
-  [https://pubmed.ncbi.nlm.nih.gov/37209706/](https://pubmed.ncbi.nlm.nih.gov/37209706/)
-
-* Evidence-Based Interventions. Tonsillectomy for recurrent tonsillitis. Reviewed 2024. - 재발 빈도, 일상생활 장애 및 공동 의사결정.
-
-  [https://ebi.aomrc.org.uk/interventions/tonsillectomy-for-recurrent-tonsillitis/](https://ebi.aomrc.org.uk/interventions/tonsillectomy-for-recurrent-tonsillitis/)
-
-* Bitar MA et al. The effect of tonsillectomy on the immune system: a systematic review and meta-analysis. Int J Pediatr Otorhinolaryngol. 2015;79:1184-1191. - 편도절제술 후 면역기능 변화에 대한 체계적 검토.
-
-  [https://pubmed.ncbi.nlm.nih.gov/26055199/](https://pubmed.ncbi.nlm.nih.gov/26055199/)
-
-* Redline S et al. Adenotonsillectomy for Snoring and Mild Sleep Apnea in Children: A Randomized Clinical Trial. JAMA. 2023;330(21):2084-2095. - PATS 시험: 경증 소아 수면 호흡 장애의 증상·삶의 질 개선과 실행기능·주의력 결과.
-
-  [https://jamanetwork.com/journals/jama/fullarticle/2812479](https://jamanetwork.com/journals/jama/fullarticle/2812479)
-
-* Koh E, Kim S. Decline in erythromycin resistance in group A streptococci from acute pharyngitis due to changes in the emm genotypes rather than restriction of antibiotic use. Korean J Lab Med. 2010;30(5):485-490. - 2002년과 2009년 국내 소아 인두염 분리주의 내성률 변화.
-
-  [https://doi.org/10.3343/kjlm.2010.30.5.485](https://doi.org/10.3343/kjlm.2010.30.5.485)
-
-* Kim S et al. Predominance of emm4 and antibiotic resistance of Streptococcus pyogenes in acute pharyngitis in a southern region of Korea. J Med Microbiol. 2019;68(7):1053-1058. - 2017년 창원 지역 소아 인두염 분리주의 erythromycin 내성률 3.2%.
-
-  [https://doi.org/10.1099/jmm.0.001005](https://doi.org/10.1099/jmm.0.001005)
-
-* Cho YN et al. Distribution of emm genotypes in group A streptococcus isolates of Korean children from 2012 to 2019. J Microbiol Immunol Infect. 2022;55(4):671-677. - 국내 소아 GAS 분리주 169개 중 erythromycin 내성 2개(1.2%); 성홍열·침습성 감염 등을 포함한 자료로 단순 외래 인두염 자료와 구분.
-
-  [https://doi.org/10.1016/j.jmii.2022.05.001](https://doi.org/10.1016/j.jmii.2022.05.001)
-
-* Liu X et al. High macrolide resistance in Streptococcus pyogenes strains isolated from children with pharyngitis in China. Pediatr Pulmonol. 2009;44(5):436-441. - 중국 소아 인두염 분리주의 높은 macrolide 내성률 보고.
-
-  [https://doi.org/10.1002/ppul.20976](https://doi.org/10.1002/ppul.20976)
-
-* ASCP. Routine Reflex Throat Cultures Should Be Avoided Following a Negative Group A Streptococcus (GAS) Molecular NAAT Result in Patients Without Additional Clinical Indications. - 검증된 고감도 NAAT 음성 후 통상 확인 배양 생략; 지속되는 임상적 의심 등 예외 고려.
-
-  [https://www.ascp.org/news/effective-test-utilization/effective-test-utilization-recommendations/effective-test-utilization-recommendation-details/ba3cbaf3-0d8f-49b0-ad8c-04ca297816c4](https://www.ascp.org/news/effective-test-utilization/effective-test-utilization-recommendations/effective-test-utilization-recommendation-details/ba3cbaf3-0d8f-49b0-ad8c-04ca297816c4)
+    [https://www.ascp.org/news/effective-test-utilization/effective-test-utilization-recommendations/effective-test-utilization-recommendation-details/ba3cbaf3-0d8f-49b0-ad8c-04ca297816c4](https://www.ascp.org/news/effective-test-utilization/effective-test-utilization-recommendations/effective-test-utilization-recommendation-details/ba3cbaf3-0d8f-49b0-ad8c-04ca297816c4)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
