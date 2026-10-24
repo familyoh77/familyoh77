@@ -176,6 +176,7 @@ graph TD
   * 처방 전 간질환, 심부전/심실기능 저하 병력, 임신·임신 계획, CYP3A4 약물상호작용을 확인; 지루피부염 치료에는 심부전/심실기능 저하 또는 그 병력 환자와 임부에서 사용하지 않음
   * 간기능 검사를 고려하며 반복 pulse·간질환 위험이 있으면 추적 검사 계획; 황달·진한 소변·심한 피로 또는 부종·호흡곤란 발생 시 중단하고 평가
   * simvastatin/lovastatin, 일부 항부정맥제, 경구 midazolam 등 병용금기 약물을 확인. 캡슐은 식사 직후 복용하며 PPI/H2차단제 등 위산 억제제가 흡수를 줄일 수 있음
+  * 다른 질환으로 복용 중인 항히스타민제도 확인함. Itraconazole은 강력한 CYP3A4 억제제이며 **rupatadine과의 병용을 피함**(국외 rupatadine SmPC의 명시적 회피 권고). 국내 처방 전에는 두 제품의 최신 국내 허가사항과 대체약을 확인함. 지루피부염 가려움만을 이유로 항히스타민제를 일률적으로 추가하지 않음(☞ 212 항히스타민제) <mark style="color:$info;">[Rupatadine SmPC]</mark>
 * **fluconazole** : 위약대조 연구에서는 **300 ㎎을 주 1회 ×2주** 사용했으나 군 간 유의한 차이가 없었음; 일상적 처방이나 표준 대안으로 권장하기 어려움
 * 장기간의 연속 경구 azole 치료는 지루피부염의 일반적인 치료법으로 사용하지 않음
 
@@ -339,3 +340,5 @@ graph TD
 * [FDA. Zoryve topical foam 0.3% prescribing information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/217242s005lbl.pdf). 9세 이상 지루피부염, 1일 1회, 간장애 금기·가연성 주의 등 국외 허가자료.
 
 * [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic). 보습제 도포 간격 등 국외 복약지도 참고자료.
+
+* [Rupatadine 10 mg tablets SmPC](https://www.medicines.org.uk/emc/product/2501/smpc). Itraconazole 등 강력한 CYP3A4 억제제 병용 회피에 관한 국외 안전성 보완 자료.

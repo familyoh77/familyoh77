@@ -287,7 +287,10 @@ Aspirin, NSAID는 비알레르기성 기전(COX-1 억제)으로 기존 두드러
 * bilastine(국외 옵션) : 20 ㎎ qd; 음식·과일주스 섭취 1시간 전 또는 2시간 후 공복 복용. 국내 사용 가능한 품목·공급을 확인하지 못했으므로 국내 대표 처방례에는 포함하지 않음
 * mizolastine : 10 ㎎ qd <mark style="color:blue;">\[미졸렌]</mark> _(QT 연장 위험·상호작용을 고려하여 증량은 회피)_
 
-* cetirizine·levocetirizine 등은 신기능에 따른 용량 조절 필요. 소아는 해당 제형의 연령·체중별 허가 용량을 따르며 성인 용량·4배 증량을 그대로 적용하지 않음
+* cetirizine·levocetirizine은 신기능에 따라 용량·투여간격을 조절하되 **제품별 평가 지표와 금기 기준을 구분함**. 지르텍정(cetirizine)은 CrCl 기준으로 조절하며 **CrCl ＜10 mL/min에서 금기**임. 씨잘정(levocetirizine)은 eGFR 기준으로 조절하며 **eGFR ＜15 mL/min 또는 혈액투석 환자에서 금기**임. 씨잘정은 eGFR 30~＜60 mL/min에서 5 ㎎을 2일마다, 15~＜30 mL/min의 비투석 환자는 5 ㎎을 3일마다 투여함. 성분별 상세 조절은 212 항히스타민제를 참조함 <mark style="color:$info;">[지르텍정·씨잘정 국내 허가사항]</mark>
+* 국내 알레그라정120·180 ㎎은 경증~중증 신부전 성인의 시작 용량을 **60 ㎎ 1일 1회**로 제시함. 정상 신기능 성인의 표준·증량 용법을 신장애 환자에게 그대로 적용하지 않음
+* 소아는 해당 제형의 연령·체중별 허가 용량을 따르며 성인 용량·4배 증량을 그대로 적용하지 않음
+* **장기 복용 중단 후 가려움** : cetirizine·levocetirizine을 수개월 이상 매일 복용한 뒤 중단하면 드물게 수일 내 심한 전신 가려움이 발생할 수 있음. 원래 질환의 재발과 다른 원인을 감별하고 의료진과 대처를 결정함. 모든 장기 복용자에게 일률적인 감량 중단을 지시할 근거는 부족하며 확립된 표준 감량법은 없음 <mark style="color:$info;">[FDA 2025; 212 항히스타민제]</mark>
 * fexofenadine은 물로 복용하고 과일주스 동시 복용을 피하며, 알루미늄·마그네슘 함유 제산제와 간격을 둠
 
 #### <mark style="color:$primary;">1세대(예외적 단기 사용)</mark>
@@ -431,7 +434,7 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 ### <mark style="color:orange;">특수 환자</mark>
 
 * 소아 : 2세대 H1AH를 우선하되 연령·체중·제형별 허가 용량 확인. 고용량 증량·표적치료는 소아 근거와 허가 범위에 따라 전문의 판단
-* 임신·수유 : 필요하면 loratadine 또는 cetirizine 등 자료가 비교적 축적된 2세대 약제를 위험–이득 평가 후 고려. 국내 제품별 임신·수유 제한을 우선 확인하며 고용량 증량·표적치료는 개별 판단
+* 임신·수유 : 국제 자료에서 loratadine·cetirizine 등 사용 경험이 비교적 축적된 2세대 약제를 고려하지만 국내 제품별 제한을 우선 확인함. **클라리틴정은 임부·수유부 금기**, 지르텍정은 임신·수유 중 주의가 필요함. 고용량 증량·표적치료는 개별 판단함(☞ 212 항히스타민제)
 * 고령자·신장/간기능 저하 : 진정·낙상·항콜린 부담 및 성분별 용량 조절 필요성 확인
 
 ***
@@ -690,5 +693,6 @@ autologous serum/plasma skin test(ASST/APST)는 일상적으로 시행하지 않
 * HIRA. [Lanadelumab 주사제 급여기준 신설, 고시 제2026-42호(2026-03-01 시행)](https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53096&brdScnBltNo=4&pgmid=HIRAA030069000400).
 * HIRA. [Icatibant 주사제, 고시 제2024-235호(2024-12-01 시행)](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20241201&mtgMtrRegSno=0010&sno=3) — 자가투여 1회 처방량 기준.
 * 유한양행. 랩시도 국내 허가 및 유통·판매 협약 발표(2026-09-07). 국내 허가·기본 용법 보완에는 식약처 허가사항 재게시 자료도 참고함; 재게시 자료와 국외 SmPC를 국내 원문과 동일한 자료로 취급하지 않음.
+* FDA. [Cetirizine·levocetirizine 장기 복용 중단 후 드문 심한 가려움 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines). 2025-05-16.
 * 국외 안전성 보완: [Remibrutinib SmPC](https://www.medicines.org.uk/emc/product/102515/smpc), [Bilastine SmPC](https://www.medicines.org.uk/emc/product/101237/smpc).
 * 질병코드: 현행 한국표준질병·사인분류; 세분화 보완 자료는 [2026 의료급여사업안내](https://welfare.dobong.go.kr/user/cmmn/file/fileDown.do?atchFileId=70e260278bb148e69c02653f03982616&fileSn=1).

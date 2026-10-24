@@ -218,7 +218,9 @@ graph TD
 #### <mark style="color:$primary;">국소 도포제</mark>
 
 * 국소 항염 치료에 반응하지 않는 소양증에서 선택적 보조요법; LSC에 대한 근거는 제한적임
-* doxepin 5% : 해외 문헌의 선택지; 국내 처방례에는 포함하지 않음
+* doxepin 5% cream : 국외 허가 참고이며 국내 처방례에는 포함하지 않음. 미국 허가는 성인 아토피피부염 또는 LSC의 중등도 가려움에 대한 **최대 8일의 단기 치료**임
+  * 접촉감작·알레르기접촉피부염과 전신 흡수에 따른 졸음·항콜린성 이상반응이 가능함. 장기·광범위 사용을 피하며 **밀폐붕대·비닐·hydrocolloid와 병용하지 않음**. 아래 hydrocolloid 항목의 긁기 차단 원칙을 doxepin 도포 부위에 적용하지 않음
+  * 경구 doxepin 3~6 ㎎ <mark style="color:blue;">[사일레노]</mark>의 수면유지 불면증 용법과 구분하며, 경구 저용량 제제를 LSC 소양증 치료제로 대체하지 않음 <mark style="color:$info;">[미국 doxepin 5% cream 허가사항; 212 항히스타민제]</mark>
 * capsaicin 0.075% : 신경병성 소양증이 의심될 때 선택적 고려; LSC/소양증에는 국내 허가 외 사용. <mark style="color:blue;">\[다이악센]</mark>은 신경통·관절통 등의 일시적 완화용으로 1일 3\~4회(4시간 이상 간격) 도포; 작열감·홍반이 흔하고 얼굴·생식기·점막·상처에는 사용하지 않음 (☞ p.14)
 * pramoxine 1% : 해외에서 국소 가려움 완화에 사용하나 국내 <mark style="color:blue;">\[프라렉신]</mark>은 치질 증상 완화용이며 허가사항상 항문 부위에만 사용함; 일반 LSC 피부 병변의 기본 처방으로 제시하지 않음
 
@@ -378,3 +380,5 @@ L28.0 만성 단순태선 Lichen simplex chronicus
 * [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 국내 품목별 적응증·용법·금기·주의사항 확인 자료
 * [Medsafe. Adverse effects from inappropriate use of topical corticosteroids. Prescriber Update. 2026;47(2):22–24](https://www.medsafe.govt.nz/profs/PUArticles/June2026/Adverse-effects-topical-corticosteroids.html) — 국외 안전성 보완 자료; 국내 제품별 허가사항을 대체하지 않음
 * [FDA. Gabapentin·pregabalin의 중대한 호흡억제 위험에 대한 안전성 정보](https://www.fda.gov/media/133681/download) — 중추신경억제제 병용·호흡기 위험인자·고령자 주의
+
+* [DailyMed. Doxepin hydrochloride cream 5%](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd8d5edd-7b08-4061-86e6-c4179da89c0d). 성인 AD/LSC의 최대 8일 단기 사용, 접촉감작·전신 진정 및 밀폐 병용 회피에 관한 국외 허가자료.

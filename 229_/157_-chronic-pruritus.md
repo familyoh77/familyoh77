@@ -316,7 +316,10 @@ flowchart LR
 * loratadine : 10 ㎎ qd <mark style="color:blue;">\[클라리틴]</mark>
 * fexofenadine : 180 ㎎ qd <mark style="color:blue;">\[알레그라]</mark>
 * cetirizine : 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
-* cetirizine도 졸림이 생길 수 있으며 신기능에 따른 감량 필요; fexofenadine도 신장애 시 용량 조절
+* **허가 범위 구분** : 클라리틴정 및 알레그라정180 ㎎의 피부 관련 국내 허가 적응증은 만성 특발성 두드러기임. 이를 두드러기 없이 발생하는 비특이적 만성 가려움 전체의 허가로 확대하지 않음. 해당 범위를 벗어난 사용은 허가 외이며, 비히스타민성 가려움에서의 효과도 제한적임
+* 지르텍정은 피부가려움증 및 하이드로코티손 외용제와 병용하는 습진·피부염에 국내 허가가 있음. 허가 적응증의 존재와 원인질환별 임상 효과·권고 수준은 구분함 <mark style="color:$info;">[국내 제품별 허가사항]</mark>
+* cetirizine도 졸림이 생길 수 있으며 신기능에 따른 감량 필요. 국내 지르텍정은 **CrCl ＜10 mL/min에서 금기**임. Fexofenadine은 국내 알레그라정120·180 ㎎ 허가사항상 신부전 성인의 시작 용량이 **60 ㎎ 1일 1회**임. 구체적인 장기기능별 조절은 212 항히스타민제를 참조함
+* **장기 복용 중단 후 가려움** : cetirizine·levocetirizine을 수개월 이상 매일 복용한 뒤 중단하면 드물게 수일 내 심한 전신 가려움이 발생할 수 있음. 원래 질환의 재발과 다른 원인을 감별하고 의료진과 대처를 결정함. 모든 장기 복용자에게 일률적인 감량 중단을 지시할 근거는 부족하며 확립된 표준 감량법은 없음 <mark style="color:$info;">[FDA 2025; 212 항히스타민제]</mark>
 
 #### <mark style="color:$primary;">항우울제 (TCA, SSRI, NaSSA 등)</mark>
 
@@ -595,6 +598,7 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 * American Academy of Dermatology. [아토피피부염 진료지침 및 2025 집중 개정](https://www.aad.org/member/clinical-quality/guidelines/atopic-dermatitis)
 * SMFM Consult Series #53. Intrahepatic cholestasis of pregnancy. 2021. [권고](https://publications.smfm.org/publications/374-society-for-maternal-fetal-medicine-consult-series-53/)
 * AASLD. [담즙정체성 가려움 치료](https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/scratching-itch-management-pruritus-cholestatic)
+* FDA. [Cetirizine·levocetirizine 장기 복용 중단 후 드문 심한 가려움 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines). 2025-05-16.
 * 안전성 : [EMA hydroxyzine QT 위험](https://www.ema.europa.eu/en/medicines/human/referrals/hydroxyzine), [FDA gabapentinoid 호흡억제](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication), [FDA montelukast 신경정신계 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug).
 * 보조자료 : [NICE CG57 외용제 도포 간격](https://www.nice.org.uk/guidance/cg57/chapter/Recommendations), [보습제와 외용제 도포 간격(NHS)](https://www.nhs.uk/tests-and-treatments/emollients/), [자살예방상담전화 109](https://www.129.go.kr/109?oai_link_source=model_response_hotline).
 

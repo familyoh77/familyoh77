@@ -233,7 +233,7 @@
 
 ### <mark style="color:orange;">중증도별 치료 방침</mark>
 
-<table><thead><tr><th width="102">중증도</th><th>1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증,<br>간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)<br>• 비내 스테로이드(INCS) 중 선택</td><td>코막힘이 주 증상이면 INCS 우선; 안구 증상을 함께 조절하려면 OAH 고려</td></tr><tr><td>경증,<br>지속적</td><td>• INCS 우선<br>• 안구 증상 등 추가 이득이 있으면 OAH 고려<br>• 코 증상 조절 불충분 시 INCS+INAH 고정 복합제로 전환</td><td>수성 콧물 지속 시 비내 ipratropium 추가; 심한 코막힘에는 비내 혈관수축제를 예외적으로 연속 3일 이내(길어도 5일) 사용; 12세 미만은 피함</td></tr><tr><td>중등증<br>~중증</td><td>• INCS 또는<br>• INCS+INAH 고정 복합제</td><td>단일요법으로 충분한 개선이 어렵거나 빠른 조절이 필요하면 복합제 고려; 계절성 AR - <mark style="color:blue;">딜라스틴·리알트리스</mark>, 통년성 AR - <mark style="color:blue;">딜라스틴·모테손플러스</mark>(국내 허가 기준); 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증,<br>지속적<br>(불응성)</td><td>• INCS+INAH 고정 복합제<br>• 순응도·분무법·진단 재평가</td><td>• 경구 스테로이드는 매우 심하거나 난치성인 경우에만 전문가 판단하에 5~7일을 예외적으로 고려<br>• 천식 동반·NERD 등 특정 상황에서 LTRA 선택적 추가*<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="102">중증도</th><th>1차 선택</th><th>비고 및 추가 옵션</th></tr></thead><tbody><tr><td>경증,<br>간헐적</td><td>• 경구 항히스타민제(OAH)<br>• 비내 항히스타민제(INAH)는 국내 사용 가능한 단독 품목·공급을 확인한 경우<br>• 비내 스테로이드(INCS) 중 선택</td><td>코막힘이 주 증상이면 INCS 우선; 안구 증상을 함께 조절하려면 OAH 고려</td></tr><tr><td>경증,<br>지속적</td><td>• INCS 우선<br>• 안구 증상 등 추가 이득이 있으면 OAH 고려<br>• 코 증상 조절 불충분 시 INCS+INAH 고정 복합제로 전환</td><td>수성 콧물 지속 시 비내 ipratropium 추가; 심한 코막힘에는 비내 혈관수축제를 예외적으로 연속 3일 이내(길어도 5일) 사용; 12세 미만은 피함</td></tr><tr><td>중등증<br>~중증</td><td>• INCS 또는<br>• INCS+INAH 고정 복합제</td><td>단일요법으로 충분한 개선이 어렵거나 빠른 조절이 필요하면 복합제 고려; 계절성 AR - <mark style="color:blue;">딜라스틴·리알트리스</mark>, 통년성 AR - <mark style="color:blue;">딜라스틴·모테손플러스</mark>(국내 허가 기준); 수성 콧물 지속 시 ipratropium 추가</td></tr><tr><td>중증,<br>지속적<br>(불응성)</td><td>• INCS+INAH 고정 복합제<br>• 순응도·분무법·진단 재평가</td><td>• 경구 스테로이드는 매우 심하거나 난치성인 경우에만 전문가 판단하에 5~7일을 예외적으로 고려<br>• 천식 동반·NERD 등 특정 상황에서 LTRA 선택적 추가*<br>• 증상 지속 : 면역 요법 평가<br>• 구조적 이상 : 이비인후과 의뢰</td></tr></tbody></table>
 
 > \*_LTRA(montelukast 등)는 routine 중증 옵션이 아님. 다른 치료로 조절되지 않고 경구 치료를 강하게 선호하거나 천식·NERD가 동반된 경우 선택적으로 고려. OAH+LTRA의 routine 병용은 권고하지 않으며, FDA 박스형 경고(신경정신계 부작용)를 고려하여 처방 전 위험-이익을 충분히 논의_
 
@@ -440,7 +440,7 @@ class Cause1,Cause2,Cause3,Rescue orange
 * 알레르겐 노출 전 예방적으로 사용할 때는 제제별 약동학과 허가 용법에 따라 미리 투여
 * 2세대 제제 우선 선택 - 졸음·항콜린 부작용 적거나 없음
 * 1세대 제제는 진정·인지 및 항콜린 부작용 때문에 AR에서는 권고하지 않음; 난치성 NAR 후비루에 보조적으로 고려한다는 의견이 있으나 근거가 부족하고 위험-이익을 개별 평가
-* 항히스타민제 증량 또는 동일 계열 병용은 효과 상승 없이 부작용 증가 → 효과부족 시 INCS 등 다른 약제 병용 권고
+* **알레르기비염에서는** 경구 항히스타민제의 표준 용량 초과 증량·동일 계열 병용을 일상적으로 권하지 않음. 추가 효과 근거가 제한적이므로 효과 부족 시 INCS 또는 INCS+INAH 고정 복합제 등으로 조정함. 만성 두드러기의 최대 4배 증량 원칙과 구분함(☞ 212 항히스타민제)
 * cetirizine : 일부 졸음; 5\~10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
 * levocetirizine : 일부에서 졸음 가능; 5 ㎎ qd <mark style="color:blue;">\[씨잘]</mark>
   * cetirizine·levocetirizine을 장기 연속 복용하다 중단한 뒤 드물게 심한 전신 가려움이 발생할 수 있음(대개 중단 후 수일 이내); 발생 시 평가·상담. 모든 환자에게 일률적으로 감량 중단을 지시할 근거는 부족함 <mark style="color:$info;">\[FDA 2025]</mark>
@@ -563,7 +563,8 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 * 비-약물 치료(비강 세척) 우선 선택
 * 증상이 임상적으로 의미 있으면 임신 초기에도 위험-이익을 평가하여 비교적 안전성이 확립된 국소 치료를 사용할 수 있음 (✽ FDA의 과거 A/B/C/D/X 임신 등급은 현재 사용하지 않음)
-* 필요시 경구 항히스타민제는 loratadine 또는 cetirizine을 우선 고려
+* 국제 임신 자료에서는 사용 경험이 축적된 loratadine 또는 cetirizine을 고려하지만, 이를 국내 제품의 허가로 해석하지 않음
+  * **국내 클라리틴정(loratadine)은 임부·수유부 금기**이며, 지르텍정(cetirizine)은 임신 중 주의가 필요함. 임신 중 약제 선택은 개별 제품의 최신 국내 허가사항과 위험-이익을 확인하여 결정함 <mark style="color:$info;">[국내 제품별 허가사항; 212 항히스타민제]</mark>
   * 진정성 제제가 필요하면 chlorpheniramine을 선택할 수 있음
 * INCS 단일제 : 임신 안전성 자료가 가장 풍부한 budesonide를 우선 고려
   * mometasone 또는 fluticasone 단일제 유지도 위험-이익 평가 후 고려
@@ -576,7 +577,8 @@ class Cause1,Cause2,Cause3,Rescue orange
 
 ### <mark style="color:orange;">수유 중</mark>
 
-* 경구 항히스타민제 : cetirizine·loratadine 등 비진정성 2세대 제제를 우선 선택
+* 경구 항히스타민제 : 국제 수유 자료에서는 cetirizine·loratadine 등 진정이 상대적으로 적은 2세대 제제를 선호하지만, 국내 제품의 허가사항을 별도로 확인함
+  * **국내 클라리틴정은 수유부 금기**, 지르텍정은 수유 중 주의가 필요함. 투여 필요성과 영아의 졸림·수유 상태를 함께 평가함 <mark style="color:$info;">[국내 제품별 허가사항; 212 항히스타민제]</mark>
   * 1세대 제제는 영아 졸음과 모유량 감소 가능성이 있어 최소 유효 용량으로 단기간 사용하고 영아를 관찰
 * INCS 단일제 : 전신 흡수가 적어 일반적으로 사용을 고려할 수 있으나 제품별 허가사항과 위험-이익을 확인
   * 복합제에 동일하게 적용하지 않음

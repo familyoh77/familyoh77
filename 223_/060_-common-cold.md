@@ -391,8 +391,10 @@ flowchart TD
 
 #### <mark style="color:$primary;">항히스타민제</mark>
 
-* 감기에서의 콧물은 히스타민보다 kinin·콜린성 자극과 관련되므로, 2세대 항히스타민제 (항알레르기 작용)는 감기 콧물에 효과 없음
+* 감기에서의 콧물은 히스타민보다 kinin·콜린성 자극과 관련되므로, **단순 바이러스성 감기의 콧물·재채기 완화를 목적으로 2세대 항히스타민제를 일상적으로 사용하지 않음**. 동반 알레르기비염의 치료 필요성은 별도로 판단함
 * 1세대 : 항콜린 작용으로 성인의 콧물을 단기간 일부 줄일 수 있으나 임상적 효과는 작고 부작용이 있어 선택적으로 사용
+  * 항히스타민제 단독요법은 성인의 초기 1~2일 전반적 증상에 제한적 이득이 있지만, 콧물·재채기·코막힘의 임상적으로 의미 있는 개선은 확인되지 않았으며 중장기 이득도 확인되지 않음 <mark style="color:$info;">[Cochrane 2015]</mark>
+  * 고령자·낙상/섬망 위험 환자는 원칙적으로 피함. 녹내장·전립선비대 등 하부요로폐색·MAO 억제제 복용 등 제품별 금기, 임신·수유 제한과 진정제·음주·복합 감기약 중복 여부를 확인한 성인에서만 단기간 고려함(☞ 212 항히스타민제)
 * 부작용 : 졸음, 입마름, paradoxical hyperactivity, 호흡 저하 (과사용 시)
 * chlorpheniramine : 성인 2\~6 ㎎ bid\~qid (최대 24 ㎎/d) <mark style="color:blue;">\[페니라민]</mark>
 * clemastine : 1 ㎎/T 1T bid <mark style="color:blue;">\[마스질]</mark>
@@ -515,7 +517,7 @@ flowchart TD
 > 타이레놀 일반정 500 ㎎/T  1~2T  q6h  prn  발열·통증 시
 > ```
 >
-> _✽ 2세대 항히스타민제는 감기 콧물에 효과가 없으며, 1세대도 이득이 작으므로 단기간 선택적으로 사용_
+> _✽단순 바이러스성 감기의 콧물·재채기 완화 목적으로 2세대 항히스타민제를 일상적으로 사용하지 않음; 동반 알레르기비염은 별도로 치료함. 위 처방은 고령·낙상/섬망 위험, 녹내장·요폐 관련 금기, 임신·수유 제한, 진정제·음주 및 다른 항히스타민제 중복 여부를 확인한 성인 예시임. 1세대도 이득이 작으므로 필요한 경우에만 단기간 사용_
 
 > **처방례 3. 소아 - 발열·통증 (2\~5세, 체중 15 ㎏ 예시)**
 >
@@ -579,6 +581,8 @@ flowchart TD
 * [NICE. Pneumonia: diagnosis and management. NG250. 2025.](https://www.nice.org.uk/guidance/ng250) - 감기와 감별할 폐렴의 임상·영상 평가
 * [Cunningham S, et al. A randomised controlled trial of hypertonic saline nose drops as a treatment in children with the common cold (ELVIS-Kids trial). Eur Respir J. 2024;64(Suppl 68):OA1985.](https://doi.org/10.1183/13993003.congress-2024.OA1985) - 소아 감기에서 고장성 식염수 점비의 증상 기간 단축 (학회 발표 예비 결과)
 * [미국 FDA. Key Information about Nonprescription, Over-the-Counter (OTC), Oral Phenylephrine.](https://www.fda.gov/drugs/understanding-over-counter-medicines/key-information-about-nonprescription-over-counter-otc-oral-phenylephrine) - 경구 phenylephrine의 유효성 평가와 OTC 명령안
+
+* De Sutter AIM, et al. [Antihistamines for the common cold. Cochrane Database Syst Rev. 2015;11:CD009345.](https://www.cochrane.org/evidence/CD009345_antihistamines-common-cold) — 항히스타민제 단독요법의 제한적 단기 효과와 임상적 의미.
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
