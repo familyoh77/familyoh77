@@ -13,7 +13,7 @@
 <table><thead><tr><th width="160">기간</th><th width="135">분류</th><th>핵심 의미</th></tr></thead><tbody><tr><td>＜3주</td><td><strong>급성 기침</strong></td><td>급성 기관지염이 흔하지만 감기·폐렴·인플루엔자·COVID-19·천식 악화 등 감별</td></tr><tr><td>3주 이상~8주 미만</td><td><strong>아급성 기침</strong></td><td>감염 후 기침(PIC)이 흔하나 백일해·천식·UACS·GERD 등 감별</td></tr><tr><td>≥8주</td><td><strong>만성 기침</strong></td><td>천식·UACS·GERD·결핵 등 체계적 평가 필요</td></tr></tbody></table>
 
 {% hint style="info" %}
-**Post-Infectious Cough (**[**PIC**](060_-common-cold.md#postinfectious-cough-pic)**)** : 성인에서 호흡기 감염 후 기침이 3주 이상\~8주 미만 지속되는 아급성 기침. 다른 원인을 배제한 뒤 진단하며 대부분 자연 호전함. 단순 PIC에는 항생제가 필요하지 않고, reassurance와 경과 관찰·safety-netting이 치료의 핵심임. 단순 PIC에 ICS·기관지확장제를 routine으로 사용할 근거는 부족하며, 천식/CVA·비천식성 호산구성 기관지염(NAEB) 등 별도 치료 적응증이 있으면 해당 질환을 치료함. 소아는 4주를 넘는 기침을 만성 기침으로 평가하며 성인의 8주 기준을 그대로 적용하지 않음. <mark style="color:$info;">\[CMAJ 2024; Eur Respir J 2020]</mark>
+**Post-Infectious Cough (**[**PIC**](060_-common-cold.md#postinfectious-cough-pic)**)** : 성인에서 호흡기 감염 후 기침이 3주 이상\~8주 미만 지속되는 아급성 기침. 다른 원인을 배제한 뒤 진단하며 대부분 자연 호전함. 단순 PIC에는 항생제가 필요하지 않고, reassurance와 경과 관찰·safety-netting이 치료의 핵심임. 단순 PIC에 ICS·기관지확장제를 routine으로 사용할 근거는 부족하며, 천식/기침형 천식(CVA)·비천식성 호산구성 기관지염(NAEB) 등 별도 치료 적응증이 있으면 해당 질환을 치료함. 소아는 4주를 넘는 기침을 만성 기침으로 평가하며 성인의 8주 기준을 그대로 적용하지 않음. <mark style="color:$info;">\[CMAJ 2024; Eur Respir J 2020]</mark>
 {% endhint %}
 
 ## <mark style="color:green;">원인</mark>
@@ -49,25 +49,26 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 심한 호흡 곤란, 호흡 보조근 사용·흉벽 함몰, 청색증, 의식 변화, 혈역학적 불안정 `중증 폐렴` `호흡부전` `패혈증`
-* 빠르게 악화하거나 지속되는 심한 저산소증 `호흡부전` `중증 폐렴` `폐색전증`
-* 기도 유지 또는 가스교환을 위협하는 대량 객혈 `대량 객혈`
+* 심한 호흡 곤란, 호흡 보조근 사용·흉벽 함몰, 청색증, 의식 변화, 혈역학적 불안정  `중증 폐렴` `호흡부전` `패혈증`
+* 빠르게 악화하거나 지속되는 심한 저산소증  `호흡부전` `중증 폐렴` `폐색전증`
+* 기도 유지 또는 가스교환을 위협하는 대량 객혈  `대량 객혈`
+* 새로 발생한 심한 흉통, 특히 호흡 곤란·실신·식은땀을 동반하는 경우  `급성 관상동맥증후군` `폐색전증` `기흉`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 반복 측정에서도 새로 확인되는 SpO₂ ＜94%(COPD 등 기저 저산소증 환자는 평소 기저치 대비 의미 있는 감소), 즉각적 호흡부전 소견은 없음 `폐렴` `COPD 악화` `폐색전증`
-* 성인에서 빈맥(≥100회/분)·빈호흡(≥24회/분)·체온 ≥38℃ 중 하나 이상, 또는 국소 crackle·기관지 호흡음·egophony `폐렴`
-* 고령·면역 저하·만성 심폐질환 환자의 전신 상태 또는 호흡기 증상 악화 `폐렴` `COPD 악화` `심부전 악화`
-* 발작성 기침, 흡기성 whoop, 기침 후 구토 또는 백일해 환자 접촉력(기침 2주 미만 포함) `백일해`
-* 반복·지속되는 혈담, 흡연·고령 등 위험 요인이 있는 환자의 혈담, 또는 체중 감소·야간 발한 동반 `결핵` `폐암`
+* 반복 측정에서도 새로 확인되는 SpO₂ ＜94%(COPD 등 기저 저산소증 환자는 평소 기저치 대비 의미 있는 감소), 즉각적 호흡부전 소견은 없음  `폐렴` `COPD 악화` `폐색전증`
+* 성인에서 빈맥(≥100회/분)·빈호흡(≥24회/분)·체온 ≥38℃ 중 하나 이상, 또는 국소 crackle·기관지 호흡음·egophony  `폐렴`
+* 고령·면역 저하·만성 심폐질환 환자의 전신 상태 또는 호흡기 증상 악화  `폐렴` `COPD 악화` `심부전 악화`
+* 발작성 기침, 흡기성 whoop, 기침 후 구토 또는 백일해 환자 접촉력(기침 2주 미만 포함)  `백일해`
+* 반복·지속되는 혈담, 흡연·고령 등 위험 요인이 있는 환자의 혈담, 또는 체중 감소·야간 발한 동반  `결핵` `폐암`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 성인에서 3주 이상 지속되는 기침(8주 이상은 만성 기침) `감염 후 기침` `백일해` `천식` `UACS` `GERD`
-* 소아에서 4주를 넘는 기침 `소아 만성 기침`
-* 뚜렷한 원인 없이 2주 이상 지속되거나 호전이 없는 기침 `결핵`
-* 반복적 기관지염 또는 적절한 치료에도 호전 없음 `천식` `COPD` `GERD` `UACS`
-* ACEI 복용 중 발생한 기침 `ACEI 유발 기침`
+* 성인에서 3주 이상 지속되는 기침(8주 이상은 만성 기침)  `감염 후 기침` `백일해` `천식` `UACS` `GERD`
+* 소아에서 4주를 넘는 기침  `소아 만성 기침`
+* 뚜렷한 원인 없이 2주 이상 지속되거나 호전이 없는 기침  `결핵`
+* 반복적 기관지염 또는 적절한 치료에도 호전 없음  `천식` `COPD` `GERD` `UACS`
+* ACEI 복용 중 발생한 기침  `ACEI 유발 기침`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -86,7 +87,7 @@
 * 백일해 의심 시 : 비인두 검체 PCR(대체로 기침 시작 후 3\~4주 이내 시행; 3주 이후에는 민감도 감소) 또는 배양(첫 2주가 가장 적합); 가능하면 항생제 시작 전 채취하며 항생제 투여 5일 이후 PCR은 통상 권장하지 않음(검사 때문에 치료를 지연하지 않음)
 
 {% hint style="info" %}
-**급성 호흡기감염에서 CRP point-of-care** : 16세 이상에서 임상 평가 후 하기도감염의 항생제 필요성이 불확실할 때 보조적으로 활용함. 합병증 없는 급성 기관지염의 routine 검사나 소아용 기준은 아니며, 확진된 COVID-19에는 적용하지 않음. 초기 폐렴·고령자·면역 저하자에서는 낮은 CRP만으로 폐렴을 배제하지 않음 <mark style="color:$info;">\[</mark>_<mark style="color:$info;">NICE NG237, 2023</mark>_<mark style="color:$info;">]</mark>
+**급성 호흡기감염에서 CRP point-of-care** : 16세 이상에서 임상 평가 후 하기도감염의 항생제 필요성이 불확실할 때 보조적으로 활용함. 합병증 없는 급성 기관지염의 routine 검사나 소아용 기준은 아니며, 확진된 COVID-19에는 적용하지 않음. 초기 폐렴·고령자·면역 저하자에서는 낮은 CRP만으로 폐렴을 배제하지 않음 <mark style="color:$info;">\[NICE 2023]</mark>
 
 * CRP ＜20 ㎎/L → 항생제를 통상 처방하지 않음\
   CRP 20\~100 ㎎/L → 임상 소견·위험 인자와 종합하여 back-up 항생제 여부 판단\
@@ -97,13 +98,13 @@
 
 #### <mark style="color:$primary;">질환별 감별표</mark>
 
-<table data-search="false"><thead><tr><th width="130">질환</th><th>시사하는 소견</th><th>비고</th></tr></thead><tbody><tr><td><strong>폐렴</strong></td><td>빈맥(≥100/분), 빈호흡(≥24/분), 체온 ≥38℃ 중 하나 또는 국소 폐음 이상</td><td>흉부 X선 고려</td></tr><tr><td><strong>COVID-19</strong><br><strong>·인플루엔자</strong></td><td>급성 발열·근육통·인후통, 유행 또는 노출력</td><td>결과가 치료·감염 관리에 영향을 주면 항원검사 또는 PCR</td></tr><tr><td><strong>백일해</strong></td><td>발작성 기침, 흡기성 whoop, 기침 후 구토, 환자 접촉력</td><td>기침 2주 미만도 가능; 시기별 PCR·배양</td></tr><tr><td><strong>천식</strong></td><td>반복 기침·wheezing, 운동/알레르겐 유발, 기관지확장제 반응</td><td>안정 후 폐기능 검사 등으로 확인</td></tr><tr><td><strong>감기(URI)</strong></td><td>콧물·코막힘·재채기 등 코 증상 우세, 기침 경미</td><td>상기도 증상 우세</td></tr><tr><td><strong>COPD 악화</strong></td><td>기저 COPD, 호흡 곤란·기침·객담이 평소보다 악화</td><td>폐렴·심부전·폐색전증 등 감별</td></tr><tr><td><strong>GERD</strong></td><td>식후·야간 기침, 속쓰림, 목이물감</td><td>동반 증상과 전체 임상상에 따라 평가</td></tr><tr><td><strong>약제 유발 기침</strong></td><td>ACEI 복용력, 복용 후 수 주 내 기침 시작</td><td>대체 약제 검토; 중단 후 경과 관찰</td></tr><tr><td><strong>결핵</strong></td><td>원인 불명 또는 호전 없는 2주 이상 기침, 접촉력·발한·체중 감소·혈담; 고위험군은 기간과 무관하게 평가</td><td>객담 항산균 도말·배양·핵산증폭검사</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="130">질환</th><th>시사하는 소견</th><th>비고</th></tr></thead><tbody><tr><td><strong>폐렴</strong></td><td>빈맥(≥100/분), 빈호흡(≥24/분), 체온 ≥38℃ 중 하나 또는 국소 폐음 이상</td><td>흉부 X선 고려</td></tr><tr><td><strong>COVID-19</strong><br><strong>·인플루엔자</strong></td><td>급성 발열·근육통·인후통, 유행 또는 노출력</td><td>결과가 치료·감염 관리에 영향을 주면 항원검사 또는 PCR</td></tr><tr><td><strong>백일해</strong></td><td>발작성 기침, 흡기성 whoop, 기침 후 구토, 환자 접촉력</td><td>기침 2주 미만도 가능; 시기별 PCR·배양</td></tr><tr><td><strong>천식</strong></td><td>반복 기침·wheezing, 운동/알레르겐 유발, 기관지확장제 반응</td><td>안정 후 폐기능 검사 등으로 확인</td></tr><tr><td><strong>감기(URI)</strong></td><td>콧물·코막힘·재채기 등 코 증상 우세, 기침 경미</td><td>상기도 증상 우세</td></tr><tr><td><strong>COPD 악화</strong></td><td>기저 COPD, 호흡 곤란·기침·객담이 평소보다 악화</td><td>폐렴·심부전·폐색전증 등 감별</td></tr><tr><td><strong>GERD</strong></td><td>식후·야간 기침, 속쓰림, 목이물감</td><td>동반 증상과 전체 임상상에 따라 평가</td></tr><tr><td><strong>약제 유발 기침</strong></td><td>ACEI 복용력; 투여 시작 후 수시간~수개월 뒤 발생할 수 있음</td><td>대체 약제 검토; 중단 후 경과 관찰</td></tr><tr><td><strong>결핵</strong></td><td>원인 불명 또는 호전 없는 2주 이상 기침, 접촉력·발한·체중 감소·혈담; 고위험군은 기간과 무관하게 평가</td><td>객담 항산균 도말·배양·핵산증폭검사</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">질환별 임상 소견</mark>
 
-<table data-search="false"><thead><tr><th width="105">소견</th><th>급성 기관지염</th><th>폐렴</th><th>천식 악화</th></tr></thead><tbody><tr><td><strong>핵심 병태</strong></td><td>대개 바이러스성 기도 염증</td><td>폐 실질 감염</td><td>가변적 기류 제한</td></tr><tr><td><strong>발병</strong></td><td>URTI 후 점진적</td><td>급성·아급성; 전신 상태 악화 가능</td><td>반복적 / trigger 기반</td></tr><tr><td><strong>기침</strong></td><td>건성 또는 습성</td><td>건성 또는 습성</td><td>건성 ± 야간·운동 유발 기침</td></tr><tr><td><strong>가래 양상</strong>*</td><td>점액성·화농성 혼재</td><td>화농성·혈성 객담 가능</td><td>점액성·희고 끈적함</td></tr><tr><td><strong>발열</strong></td><td>없음 또는 미열</td><td>흔하지만 고령자·면역 저하자에서는 없을 수 있음</td><td>드묾</td></tr><tr><td><strong>호흡 곤란</strong></td><td>없거나 경미</td><td>가능</td><td>발작적</td></tr><tr><td><strong>청진</strong></td><td>diffuse rhonchi / wheeze (기침 후 변할 수 있음)</td><td>focal crackle·기관지 호흡음·egophony 등</td><td>diffuse wheeze; 심한 경우 호흡음 감소</td></tr><tr><td><strong>Vital sign</strong></td><td>대개 정상</td><td>빈호흡·빈맥·발열 가능</td><td>중증도에 따라 빈호흡·빈맥</td></tr><tr><td><strong>SpO₂</strong></td><td>대개 정상</td><td>감소 가능</td><td>중증 시 감소</td></tr><tr><td><strong>흉부 X선</strong></td><td>침윤 없음</td><td>새로운 침윤</td><td>대개 정상</td></tr><tr><td><strong>치료 방향</strong></td><td>설명·대증 치료</td><td>중증도 평가 및 원인에 따른 치료</td><td>기관지확장제 등 천식 지침에 따른 치료</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="105">소견</th><th>급성 기관지염</th><th>폐렴</th><th>천식 악화</th></tr></thead><tbody><tr><td><strong>핵심 병태</strong></td><td>대개 바이러스성 기도 염증</td><td>폐 실질 감염</td><td>가변적 기류 제한</td></tr><tr><td><strong>발병</strong></td><td>URI 후 점진적</td><td>급성·아급성; 전신 상태 악화 가능</td><td>반복적 / trigger 기반</td></tr><tr><td><strong>기침</strong></td><td>건성 또는 습성</td><td>건성 또는 습성</td><td>건성 ± 야간·운동 유발 기침</td></tr><tr><td><strong>가래 양상</strong>*</td><td>점액성·화농성 혼재</td><td>화농성·혈성 객담 가능</td><td>점액성·희고 끈적함</td></tr><tr><td><strong>발열</strong></td><td>없음 또는 미열</td><td>흔하지만 고령자·면역 저하자에서는 없을 수 있음</td><td>드묾</td></tr><tr><td><strong>호흡 곤란</strong></td><td>없거나 경미</td><td>가능</td><td>발작적</td></tr><tr><td><strong>청진</strong></td><td>diffuse rhonchi / wheeze (기침 후 변할 수 있음)</td><td>focal crackle·기관지 호흡음·egophony 등</td><td>diffuse wheeze; 심한 경우 호흡음 감소</td></tr><tr><td><strong>Vital sign</strong></td><td>대개 정상</td><td>빈호흡·빈맥·발열 가능</td><td>중증도에 따라 빈호흡·빈맥</td></tr><tr><td><strong>SpO₂</strong></td><td>대개 정상</td><td>감소 가능</td><td>중증 시 감소</td></tr><tr><td><strong>흉부 X선</strong></td><td>침윤 없음</td><td>새로운 침윤</td><td>대개 정상</td></tr><tr><td><strong>치료 방향</strong></td><td>설명·대증 치료</td><td>중증도 평가 및 원인에 따른 치료</td><td>기관지확장제 등 천식 지침에 따른 치료</td></tr></tbody></table>
 
-> _\*녹색 또는 노란 가래 색만으로 바이러스와 세균 감염 감별 또는 색만으로 병원체를 판별하는 것음함 불가_
+> \*녹색 또는 노란 가래 색만으로 바이러스와 세균 감염을 감별하거나 병원체를 판별할 수 없음
 
 ***
 
@@ -115,7 +116,7 @@ flowchart TD
     D -- "예" --> E["폐렴·결핵 등 평가<br/>흉부 X선 고려"]
     D -- "아니요" ---> F["기침 기간?"]
     F -- "성인≥8주/소아＞4주" --> CC["만성 기침 평가"]
-    F -- "성인≥3주,＜8주" --> PIC["아급성 기침<br/>PIC·백일해<br/>·천식 등 감별"]
+    F -- "성인≥3주,＜8주" --> PIC["아급성 기침<br/>흉부 X선<br/>PIC·백일해·천식 등 감별"]
     F -- "성인＜3주/소아≤4주" --> G["급성 기침 원인 평가<br/>급성 기관지염 등 고려"]
     PIC --> PH["백일해 의심?"]
     PH -- "예" ---> P2["PCR·배양 <br/>± macrolide<br/>접촉자 관리"]
@@ -123,7 +124,7 @@ flowchart TD
     G --> H["특정 치료가 필요한 원인?"]
     H -- "인플루엔자<br/>·COVID-19" ---> AV["고위험군<br/>·치료 시기 평가<br/>항바이러스제 고려"]
     H -- "백일해 의심" --> P["PCR <br/>± macrolide<br/>전파 차단<br/>·접촉자 관리"]
-    H -- "없음" --> SUP["대증 치료<br/>항생제 사용 안 함"]
+    H -- "없음" --> SUP["대증 치료<br/>항생제 통상 불필요<br/>전신 상태 불량·합병증 고위험군은<br/>본문 기준으로 별도 판단"]
     SUP --> SX["천명·기류 제한?"]
     SX -- "예" --> AIR["천식·COPD 평가<br/>해당 지침에 따라 치료"]
     SX -- "아니요" --> FU["예상 경과<br/>·재진 기준 설명"]
@@ -155,7 +156,7 @@ flowchart TD
 * 백일해 확진 또는 강력 의심 시에는 시기·전파 위험을 고려하여 macrolide 사용
   * 초기 치료는 증상 중증도를 줄일 수 있고 발작성 기침이 확립된 후에는 주로 전파 차단 목적(아래 참조)
 * 고령·면역 저하·기저 심폐질환 등 합병증 고위험군에서 전신 상태가 좋지 않거나 경과가 악화되면 폐렴·COPD 악화·기관지확장증 악화 등 구체적 진단을 재평가
-  * 폐렴 여부 또는 항생제 필요성이 불확실하면 흉부 X선과 필요시 CRP를 활용하고, 임상 판단에 따라 즉시 또는 back-up 항생제 고려
+  * 폐렴 여부 또는 항생제 필요성이 불확실하면 흉부 X선과 필요시 CRP를 활용(항생제 고려 대상은 아래 항생제 항목 참조)
   * COPD 급성 악화는 급성 기관지염의 항생제 예외가 아닌 별도 진단이며, 항생제 적응증과 약제는 COPD 지침에 따름
 
 {% hint style="danger" %}
@@ -171,7 +172,7 @@ flowchart TD
   * 가습기 사용 시 매일 물 교체·청결 관리, 과습·곰팡이·세균 번식 주의
   * 뜨거운 증기 흡입은 화상 위험 때문에 피함
 * 꿀(honey): 1세 이상에서 급성 기침의 단기 증상 완화에 제한적인 근거가 있어 선택적으로 시도 가능
-  * 당뇨병·벌꿀 알레르기·열량에 주의; 12개월 미만에서는 금기(영아 보툴리즘 위험)
+  * 당뇨병·벌꿀 알레르기·열량에 주의; 12개월 미만에서는 금기(영아 보툴리누스증 위험)
 * 기저 질환 관리 : 천식, 부비동염, 위식도역류(GERD)
 * 예방접종 : 연령·위험도에 따라 인플루엔자·COVID-19·폐렴구균·RSV 백신과 Tdap(영아 돌봄자·의료인 우선, 임신부는 매 임신 27\~36주) 권고. 이는 특정 급성 기관지염 치료가 아니라 중증 호흡기감염 예방 목적
 
@@ -188,21 +189,25 @@ flowchart TD
 ### <mark style="color:orange;">진해제</mark>
 
 * 근거 제한 : 진해제의 효과 근거는 제한적임. dextromethorphan은 성인 급성 기침에서 연구 결과가 일관되지 않고 근거의 질이 낮으며, codeine의 뚜렷한 효과는 확인되지 않음. 사용하더라도 수면·일상생활을 방해하는 심한 기침에 단기간 제한 <mark style="color:$info;">\[NICE 2019]</mark>
-* dextromethorphan : 15\~30 ㎎ q6\~8h prn; 일일 최대 120 ㎎(단기 사용). 과량·남용, 졸림 주의
+* dextromethorphan : 15\~30 ㎎ q6\~8h prn; 일일 최대 120 ㎎(해외 단일제 기준, 단기 사용). 과량·남용, 졸림 주의
   * MAO 억제제 복용 중·중단 후 2주 이내에는 사용하지 않음. 다른 세로토닌성 약물 병용 시 serotonin syndrome 위험에 주의
-  * 국내에는 단일제가 없고 복합제로만 유통됨. 일반의약품 복합제는 1회 7.5\~15 ㎎ 정도로, 정해진 용법으로 복용하면 1일 60 ㎎ 이하임. 1일 60 ㎎을 넘는 전문의약품 복합제는 향정신성의약품임
+  * 국내 유통 복합제는 제품별 허가 용법·용량과 향정신성의약품 해당 여부를 확인함. 해외 단일제의 최대 용량을 국내 복합제에 그대로 적용하지 않음
   * 복합 성분(acetaminophen·pseudoephedrine·chlorpheniramine 등)과 총용량을 확인 <mark style="color:blue;">\[타이레놀콜드에스]</mark>, <mark style="color:blue;">\[코푸시럽에스]</mark> (코푸시럽에스는 코푸시럽과 성분이 다름)
 * levodropropizine : 60 ㎎ tid(적어도 6시간 간격; 어지럼·졸림 가능) <mark style="color:blue;">\[드로피진]</mark>
   * 주요 금기 : 임부·임신 가능성이 있는 여성·수유부, 기관지 점액 분비 증가·점액섬모기능이상, 중증 간장애. 중증 심부전·신장부전 및 고령자는 신중 투여
 * codeine·dihydrocodeine 함유 진해제 : 급성 기관지염에서 routine 사용을 권고하지 않음 - 효과 근거가 약하고 호흡 억제(특히 고령자)·변비·남용 우려. 심한 기침으로 수면이 어려울 때 성인에서 단기간 제한적으로 사용
-  * 국내 허가사항에 따라 12세 미만은 금기이며, 호흡기능이 손상된 12\~18세에서는 사용하지 않음. 제품별 연령 제한 확인 <mark style="color:blue;">\[코데닝] \[코대원포르테시럽]</mark>
+  * 제품 예 : <mark style="color:blue;">\[코데닝]</mark>, <mark style="color:blue;">\[코대원포르테시럽]</mark> - 모두 dihydrocodeine 함유 복합제임
+  * 국내 허가사항에 따라 12세 미만은 금기이며, 12세 이상 18세 미만 중 비만·폐색성 수면무호흡증후군·중증 폐질환이 있는 환자에는 투여를 피함. 제품별 연령 제한과 금기를 확인함
+  * 코데닝정의 주요 금기 : 수유부, 녹내장, 전립선비대 등 하부요로폐색성 질환, MAO 억제제 복용 중·중단 후 2주 이내
+  * 코데닝정은 다른 진해거담제·감기약·항히스타민제·진정제와 병용하지 않음. 다른 진해제에 추가하는 방식으로 처방하지 않고 선택·대체하며, 복합제별 중복 성분·상호작용을 확인함
 * 생약 제제: Pelargonium sidoides <mark style="color:blue;">\[움카민]</mark>은 성인 급성 기관지염 증상 완화에 저품질 근거가 있음
   * ivy leaf 제제는 근거 불충분. 사용하더라도 항생제 대체가 아닌 대증 치료로 설명
 
 ### <mark style="color:orange;">점액 용해제</mark>
 
 * 임상시험 근거가 제한적임. 합병증 없는 급성 기관지염에서 routine 사용을 권하지 않음
-* 선택적으로 사용할 때의 성인 허가 용량 예: ambroxol 30 ㎎ tid <mark style="color:blue;">\[뮤코펙트]</mark>, n-acetylcysteine(NAC) 200 ㎎ tid <mark style="color:blue;">\[뮤테란]</mark>, erdosteine 300 ㎎ bid\~tid <mark style="color:blue;">\[엘도스]</mark>
+* 선택적으로 사용할 때의 성인 허가 용량 예: ambroxol 30 ㎎ tid(계속 치료 시 30 ㎎ bid) <mark style="color:blue;">\[뮤코펙트]</mark>, N-acetylcysteine(NAC) 200 ㎎ tid <mark style="color:blue;">\[뮤테란]</mark>, erdosteine 300 ㎎ bid\~tid <mark style="color:blue;">\[엘도스]</mark>
+  * ambroxol은 심한 신장애·심한 간장애에 금기
   * NAC는 급성질환 200 ㎎ tid와 만성질환 200 ㎎ bid를 구분함. COPD 악화 예방 연구의 고용량을 단순 급성 기관지염에 적용하지 않음. 위·십이지장궤양 환자에는 금기
   * erdosteine은 급성 호흡기질환에서 연속 10일 이상 투여하지 않음. 간경변·중증 간장애·CrCl ＜25 ㎖/min·소화성궤양 등 금기와 경증\~중등도 간장애의 1일 300 ㎎ 상한을 확인함
 * 진해제와 점액 용해제 모두 효과 근거가 제한적이므로 일률적으로 함께 처방하지 않음
@@ -235,7 +240,7 @@ flowchart TD
   * 합병증 고위험군 : 즉시 또는 back-up 항생제 처방 고려 <mark style="color:$info;">\[NICE 2019]</mark>
     * 중대한 심장·폐·신장·간·신경근육 질환, 면역 저하
     * 65세 초과이면서 최근 1년 내 입원·당뇨병·울혈성 심부전·경구 스테로이드 복용 중 2개 이상(80세 초과는 1개 이상)
-* 고위험군의 성인 항생제(5일) : doxycycline 200 ㎎ 1일, 이후 100 ㎎ qd × 4일 <mark style="color:blue;">\[모노신]</mark>; 대안 amoxicillin 500 ㎎ tid <mark style="color:blue;">\[곰실린]</mark> 또는 clarithromycin 250\~500 ㎎ bid <mark style="color:blue;">\[클래리시드]</mark>. 임신부는 doxycycline을 쓰지 않고 amoxicillin 우선
+* 고위험군의 성인 항생제(5일) : doxycycline 200 ㎎ 1일차, 이후 100 ㎎ qd × 4일 <mark style="color:blue;">\[모노신]</mark>; 대안 amoxicillin 500 ㎎ tid <mark style="color:blue;">\[곰실린]</mark> 또는 clarithromycin 250\~500 ㎎ bid <mark style="color:blue;">\[클래리시드]</mark>. 임신부는 doxycycline을 쓰지 않고 amoxicillin 우선
 
 #### <mark style="color:$primary;">백일해</mark>&#x20;
 
@@ -324,7 +329,7 @@ _Mycoplasma pneumonia&#x65;_&#xC758; 국내 macrolide 내성은 주로 소아 �
 > 지스로맥스 250 ㎎/T  1T  qd  (2~5일차)
 > ```
 >
-> _✽ 통상 성인은 기침 시작 3주 이내 치료를 고려하며, 첫 1\~2주 치료는 증상 중증도를 줄일 수 있음. 유효 항생제 치료 시작 후 5일까지 비말 격리하고 밀접 접촉자 중 예방요법 대상을 평가. 제2급 감염병으로 신고._
+> _✽ 통상 성인은 기침 시작 3주 이내 치료를 고려하며, 첫 1\~2주 치료는 증상 중증도를 줄일 수 있음. 유효 항생제 치료 시작 후 5일까지 등교·출근 제한 등 격리하고 밀접 접촉자 중 예방요법 대상을 평가. 제2급 감염병으로 신고._
 
 > **처방례 4. 인플루엔자 의심 - 고위험 성인**
 >
@@ -397,6 +402,7 @@ _Mycoplasma pneumonia&#x65;_&#xC758; 국내 macrolide 내성은 주로 소아 �
 * [CDC. Best Practices for Use of Polymerase Chain Reaction for Diagnosing Pertussis.](https://www.cdc.gov/pertussis/php/pcr-bestpractices/index.html) - 백일해 PCR의 적절한 검체와 검사 시기
 * [CDC. Influenza Antiviral Medications: Summary for Clinicians.](https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html) - 고위험군 조기 치료와 성인 oseltamivir 신기능별 용량 조절
 * [Joo H, et al. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273.](https://doi.org/10.4046/trd.2021.0038) - 아급성 기침의 병력·신체진찰·흉부 X선 평가 및 CVA·호산구성 기관지염의 치료
+* [Dicpinigaitis PV. Angiotensin-converting enzyme inhibitor-induced cough: ACCP evidence-based clinical practice guidelines. Chest. 2006;129(1 Suppl):169S-173S.](https://doi.org/10.1378/chest.129.1_suppl.169S) - ACEI 기침의 발생 시기와 평가
 * [Postinfectious cough in adults. CMAJ. 2024;196:E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 자연 경과와 약물 근거의 한계
 * [ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/) - 성인·소아 만성 기침의 기간 기준과 초기 평가
 * [질병관리청. 국가결핵관리지침. 2026.](https://www.kdca.go.kr/bbs/kdca/55/304426/download.do) - 2주 이상 기침 등 결핵 의심 증상·위험 인자에 따른 평가
@@ -426,7 +432,7 @@ _Mycoplasma pneumonia&#x65;_&#xC758; 국내 macrolide 내성은 주로 소아 �
 
 * **적절히 수분을 섭취하십시오**: 탈수되지 않도록 물·따뜻한 차를 드십시오. 억지로 과도하게 마실 필요는 없습니다.
 * **금연**: 흡연은 기관지 염증을 악화시키고 회복을 늦춥니다. 주변 흡연도 피하십시오.
-* **실내 환경**: 건조하다면 적절한 습도를 유지할 수 있습니다. 가습기를 사용할 경우 매일 물을 교체하고 청결히 관리하며, 뜨거운 증기 흡입은 화상 위험 때문에 피하십시오.
+* **실내 환경**: 건조하다면 습도를 40\~60% 정도로 유지하십시오. 습도가 너무 높으면 곰팡이가 생기기 쉽습니다. 가습기를 사용할 경우 매일 물을 교체하고 청결히 관리하며, 뜨거운 증기 흡입은 화상 위험 때문에 피하십시오.
 * **대기 오염·찬 공기**: 미세먼지가 심한 날에는 외출을 자제하고, 마스크를 착용하십시오.
 * **꿀**: 따뜻한 물에 소량 타서 마시면 기침 완화에 도움이 될 수 있습니다. 당뇨병이나 벌꿀 알레르기가 있으면 주의하고, **12개월 미만 영아에게는 절대 주지 마십시오**(영아 보툴리누스증 위험).
 * **충분한 휴식**: 무리한 활동은 회복을 늦춥니다.
@@ -436,6 +442,7 @@ _Mycoplasma pneumonia&#x65;_&#xC758; 국내 macrolide 내성은 주로 소아 �
 * **진해제**: 기침이 심해 잠을 자기 어렵거나 일상생활이 불편할 때 복용합니다. 항생제가 아닙니다.
 * **항생제를 처방받지 않은 경우**: 이 기침은 바이러스가 원인이므로 항생제가 필요하지 않습니다. 항생제를 임의로 구입해 드시지 마십시오.
 * **항생제를 처방받은 경우**: 증상이 좋아져도 처방 기간을 끝까지 복용하십시오.
+* **백일해로 진단된 경우**: 항생제를 시작하고 5일이 지날 때까지 학교·직장에 가지 말고 마스크를 쓰십시오. 특히 아기나 임신부와의 접촉을 피하십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 응급실 또는 119를 이용하세요</mark>
 
