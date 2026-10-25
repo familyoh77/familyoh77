@@ -3,12 +3,12 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 임상적 정의 : 다른 원인으로 설명되지 않는 만성 기침과 객담이 2년 연속으로 각각 연간 ≥3개월 동안 지속되는 상태
-* 만성 기관지염은 임상적 증상 표현형으로, 폐활량검사가 정상인 환자에서도 발생할 수 있음
-  * 기관지확장제 후 FEV₁/FVC ＜0.70의 지속성 기류 제한이 동반되면 COPD의 만성 기관지염 표현형으로 분류
-  * 기류 제한이 없는 만성 기관지염도 향후 폐 기능 저하·COPD 발생 및 호흡기 사건 위험 증가와 연관되므로 추적 필요
-  * pre-COPD : 기관지확장제 후 기류 폐쇄가 없으면서 호흡기 증상 및/또는 구조적·기능적 이상이 있는 상태
-  * PRISm(preserved ratio impaired spirometry) : 기관지확장제 후 FEV₁/FVC ≥0.70이면서 FEV₁ ＜80% 예측치인 상태. 정상 폐활량검사와 구분하며, 필요시 폐용적 검사 등으로 원인을 평가함
-  * pre-COPD·PRISm은 추적 대상이지만 모두 COPD로 진행하는 것은 아니며, 정상 검사로 회복되거나 비폐쇄성 상태가 지속될 수도 있음 <mark style="color:$info;">\[GOLD 2026]</mark>
+* 만성 기관지염은 기류 제한으로 정의되는 COPD와 달리 증상으로 정의되는 임상 표현형으로, 폐활량검사가 정상인 환자에서도 발생할 수 있음
+* 기관지확장제 후 FEV₁/FVC ＜0.70의 지속성 기류 제한이 동반되면 COPD의 만성 기관지염 표현형으로 분류
+* 기류 제한이 없는 만성 기관지염도 향후 폐 기능 저하·COPD 발생 및 호흡기 사건 위험 증가와 연관되므로 추적 필요
+* pre-COPD : 기관지확장제 후 기류 폐쇄가 없으면서 호흡기 증상 및/또는 구조적·기능적 이상이 있는 상태
+* PRISm(preserved ratio impaired spirometry) : 기관지확장제 후 FEV₁/FVC ≥0.70이면서 FEV₁ ＜80% 예측치인 상태. 정상 폐활량검사와 구분하며, 필요시 폐용적 검사 등으로 원인을 평가함
+* pre-COPD·PRISm은 추적 대상이지만 모두 COPD로 진행하는 것은 아니며, 정상 검사로 회복되거나 비폐쇄성 상태가 지속될 수도 있음 <mark style="color:$info;">\[GOLD 2026]</mark>
 * 유병률은 정의, 연령, 흡연 및 환경 노출에 따라 크게 다름. 흡연자에서 흔하지만 비흡연자에서도 발생 가능
 * 만성 객담 과분비는 폐 기능 저하, 호흡기 감염·악화 및 삶의 질 저하와 연관되지만, 폐기종·폐암·폐성심 등을 만성 기관지염 자체의 직접 합병증으로 단정하지 않음
 
@@ -39,31 +39,31 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 새로 발생한 안정 시 심한 호흡 곤란, 문장 단위 대화 불가, 청색증  `중증 ECOPD` `급성 호흡부전`
-* SpO₂의 급격한 저하 또는 안정 시 ＜88%(평소 수치와 산소치료 여부를 함께 고려)  `급성 호흡부전`
-* 의식 변화, 심한 혼동, 졸림  `고탄산혈증`
-* 호흡 보조근 사용, 역설적 흉복벽 운동, 호흡 피로  `환기부전`
-* 혈역학적 불안정, 새로 발생한 중증 부정맥, 지속되는 압박성 흉통 또는 갑작스러운 흉통과 심한 호흡 곤란  `폐색전증` `급성 관상동맥증후군` `기흉`
-* 다량 객혈 또는 객혈과 호흡 곤란·저산소증·혈역학적 이상 동반  `대량 객혈`
-* 동맥혈 가스 분석상 급성 호흡성 산증  `급성 고탄산성 호흡부전`
+* 새로 발생한 안정 시 심한 호흡 곤란, 문장 단위 대화 불가, 청색증 `중증 ECOPD` `급성 호흡부전`
+* SpO₂의 급격한 저하 또는 안정 시 ＜88%(평소 수치와 산소치료 여부를 함께 고려) `급성 호흡부전`
+* 의식 변화, 심한 혼동, 졸림 `고탄산혈증`
+* 호흡 보조근 사용, 역설적 흉복벽 운동, 호흡 피로 `환기부전`
+* 혈역학적 불안정, 새로 발생한 중증 부정맥, 지속되는 압박성 흉통 또는 갑작스러운 흉통과 심한 호흡 곤란 `폐색전증` `급성 관상동맥증후군` `기흉`
+* 다량 객혈 또는 객혈과 호흡 곤란·저산소증·혈역학적 이상 동반 `대량 객혈`
+* 동맥혈 가스 분석상 급성 호흡성 산증 `급성 고탄산성 호흡부전`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 새로 발생하거나 평소보다 악화된 안정 시 호흡 곤란, 호흡수·심박수의 뚜렷한 증가, 지속되는 고열  `ECOPD` `폐렴`
-* **(당일)** 평소보다 새로 감소한 SpO₂(88% 이상 포함)와 호흡 곤란 악화  `ECOPD` `폐렴`
-* **(당일)** 위 즉각 조치 항목에 해당하지 않는 새 흉통 또는 편측 호흡음 감소  `폐렴` `기흉` `폐색전증` `급성 심장질환`
-* **(당일)** 새로 발생한 소량 객혈  `폐암` `폐결핵` `기관지확장증`
-* 원인 불명의 체중 감소·야간 발한  `폐암` `폐결핵`
-* **(당일)** 중증 COPD 또는 재택 산소치료 환자의 평소보다 뚜렷한 증상 악화  `중등도~중증 ECOPD`
-* 초기 치료 48\~72시간 후에도 호전이 없거나 악화  `치료 실패` `폐렴` `내성균`
+* **(당일)** 새로 발생하거나 평소보다 악화된 안정 시 호흡 곤란, 호흡수·심박수의 뚜렷한 증가, 지속되는 고열 `ECOPD` `폐렴`
+* **(당일)** 평소보다 새로 감소한 SpO₂(88% 이상 포함)와 호흡 곤란 악화 `ECOPD` `폐렴`
+* **(당일)** 위 즉각 조치 항목에 해당하지 않는 새 흉통 또는 편측 호흡음 감소 `폐렴` `기흉` `폐색전증` `급성 심장질환`
+* **(당일)** 새로 발생한 소량 객혈 `폐암` `폐결핵` `기관지확장증`
+* 원인 불명의 체중 감소·야간 발한 `폐암` `폐결핵`
+* **(당일)** 중증 COPD 또는 재택 산소치료 환자의 평소보다 뚜렷한 증상 악화 `중등도~중증 ECOPD`
+* 초기 치료 48\~72시간 후에도 호전이 없거나 악화 `치료 실패` `폐렴` `내성균`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* COPD 환자에서 최근 1년 내 중등도 이상 악화 ≥1회  `악화 재발 위험`
-* COPD가 확인되지 않은 상태에서 반복되는 호흡기 증상 악화  `천식` `기관지확장증`
-* 진행하는 운동 시 호흡 곤란, 활동 시 산소포화도 저하  `COPD` `간질성 폐질환`
-* 금연 실패 또는 직업·환경 노출 지속  `COPD 진행 위험` `폐암 위험`
-* 만성 다량 농성 객담 또는 반복 폐렴  `기관지확장증` `비결핵항산균 폐질환`
+* COPD 환자에서 최근 1년 내 중등도 이상 악화 ≥1회 `악화 재발 위험`
+* COPD가 확인되지 않은 상태에서 반복되는 호흡기 증상 악화 `천식` `기관지확장증`
+* 진행하는 운동 시 호흡 곤란, 활동 시 산소포화도 저하 `COPD` `간질성 폐질환`
+* 금연 실패 또는 직업·환경 노출 지속 `COPD 진행 위험` `폐암 위험`
+* 만성 다량 농성 객담 또는 반복 폐렴 `기관지확장증` `비결핵항산균 폐질환`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -94,28 +94,6 @@
 ***
 
 ```mermaid
-flowchart TD
-    A(["만성 기침 + 객담"]) --> B["Red Flags의 즉각 조치/<br/>당일~수일 내 평가 항목에 해당?"]
-    B -- "예" --> C["즉각 조치 또는<br/>당일~수일 내 평가"]
-    B -- "아니오" --> D["병력·진찰 + CXR<br/>Spirometry"]
-    D --> E["기관지확장제 후<br/>FEV₁/FVC ＜0.70?"]
-    E -- "예" --> F["증상·노출력 및 검사 품질 검토<br/>COPD 확인 시 해당 지침 적용"]
-    E -- "아니오" --> G["비폐쇄성 만성 기관지염 가능<br/>정의·다른 원인 및 PRISm 확인"]
-    G --> H["금연·노출 회피<br/>원인 질환 치료"]
-    G --> I["객담 불편 지속 시<br/>점액용해제 제한적 시험"]
-    G --> J["LABA/LAMA·ICS·장기 macrolide<br/>routine 사용하지 않음"]
-    F --> K["급성 증상 악화?"]
-    K -- "예" --> L["ECOPD 중증도·감별 평가<br/>SABA ± SAMA"]
-    K -- "아니오" --> M["증상·악화력·호산구에 따라<br/>유지 흡입치료"]
-    L --> N["항생제 적응증 확인<br/>농성 객담 + 추가 증상 / 이전 배양 양성<br/>또는 기계환기 필요 여부<br/>중등도·중증이면 전신 스테로이드"]
-style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,E,K yellow
-classDef L_red fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-class C L_red
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class F,H,I,L,M,N sky
-style J fill:#fde8f0,stroke:#e91e8c
 ```
 
 <p align="center"><strong>만성 기관지염 진단·치료 알고리듬</strong></p>
@@ -347,7 +325,7 @@ J44.1은 급성 악화를 동반한 COPD 코드임. 폐활량검사와 임상 �
 * [Bronchodilators in Tobacco-Exposed Persons with Symptoms and Preserved Lung Function. N Engl J Med. 2022.](https://doi.org/10.1056/NEJMoa2204752) - RETHINC 무작위시험; 폐기능이 보존된 유증상 흡연 노출군에서 이중 기관지확장제의 증상 개선 효과가 입증되지 않음
 * [Cochrane. Mucolytic agents versus placebo for chronic bronchitis or chronic obstructive pulmonary disease. 2019. CD001287.](https://doi.org/10.1002/14651858.CD001287.pub6) - 점액용해제의 악화 예방 효과와 연구 간 이질성
 * [Dal Negro RW, et al. Erdosteine reduces the exacerbation rate and duration in COPD (RESTORE). Eur Respir J. 2017.](https://doi.org/10.1183/13993003.00711-2017) - erdosteine 600 ㎎/일의 COPD 악화 감소
-* [Zheng JP, et al. Twice daily N-acetylcysteine 600 mg for exacerbations of COPD (PANTHEON). Lancet Respir Med. 2014.](https://doi.org/10.1016/S2213-2600%2814%2970019-0) - 고용량 NAC의 COPD 악화 감소
+* [Zheng JP, et al. Twice daily N-acetylcysteine 600 mg for exacerbations of COPD (PANTHEON). Lancet Respir Med. 2014.](https://doi.org/10.1016/S2213-2600\(14\)70019-0) - 고용량 NAC의 COPD 악화 감소
 * [Papadopoulou E, et al. Mucolytics for acute exacerbations of chronic obstructive pulmonary disease: a meta-analysis. Eur Respir Rev. 2023.](https://doi.org/10.1183/16000617.0141-2022) - 급성 악화 중 점액용해제 보조요법의 치료 성공·증상 개선과 한계
 * [Sciurba FC, et al. Mepolizumab to Prevent Exacerbations of COPD with an Eosinophilic Phenotype (MATINEE). N Engl J Med. 2025.](https://doi.org/10.1056/NEJMoa2413181) - 삼제요법 중 악화가 지속되는 호산구성 COPD의 추가 유지치료
 * [Zhou Y, et al. Effect of high-dose N-acetylcysteine on exacerbations and lung function in patients with mild-to-moderate COPD. Nat Commun. 2024.](https://doi.org/10.1038/s41467-024-51079-1) - 경증\~중등도 COPD 968명에서 NAC 600 ㎎ bid 2년 투여의 전체 악화율·폐기능 개선 미입증
@@ -360,8 +338,8 @@ J44.1은 급성 악화를 동반한 COPD 코드임. 폐활량검사와 임상 �
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* [건강보험심사평가원. Roflumilast 경구제 급여기준, 고시 제2021-270호(2021.11.1. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20211101&mtgMtrRegSno=0002&sno=4) - FEV₁·악화력 및 LABA/LAMA 병용 조건
-* [건강보험심사평가원. Mepolizumab 주사제 급여기준, 고시 제2026-133호(2026.7.1. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&mtgMtrRegSno=0004&sno=1) - 중증 호산구성 천식의 급여기준이며, 해당 고시에는 COPD 급여가 명시되지 않음
+* [건강보험심사평가원. Roflumilast 경구제 급여기준, 고시 제2021-270호(2021.11.1. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20211101\&mtgMtrRegSno=0002\&sno=4) - FEV₁·악화력 및 LABA/LAMA 병용 조건
+* [건강보험심사평가원. Mepolizumab 주사제 급여기준, 고시 제2026-133호(2026.7.1. 시행).](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701\&mtgMtrRegSno=0004\&sno=1) - 중증 호산구성 천식의 급여기준이며, 해당 고시에는 COPD 급여가 명시되지 않음
 * 허가·급여 확인일 : 2026-10-25. 누칼라오토인젝터주 2026-10-22 변경 허가의 성인 COPD 적응증과 100 ㎎ 매 4주 용량을 확인함. 생물학제제의 COPD 급여 신설 여부는 처방 시점의 최신 고시를 다시 확인함
 
 ***
