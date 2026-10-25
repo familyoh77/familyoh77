@@ -3,11 +3,11 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 임상적 정의 : 다른 원인으로 설명되지 않는 만성 기침과 객담이 2년 연속으로 각각 연간 ≥3개월 지속되는 상태
-* 만성 기관지염은 기류 제한으로 정의되는 COPD와 달리, 증상으로 정의되는 임상 표현형으로, 폐활량검사가 정상인 환자에서도 발생할 수 있음
+* 만성 기관지염은 기류 제한으로 정의되는 COPD와 달리 증상으로 정의되는 임상 표현형이며, 폐활량검사가 정상인 환자에서도 발생할 수 있음
 * 기관지확장제 투여 후에도 FEV₁/FVC ＜0.70의 지속성 기류 제한이 있으면 COPD의 만성 기관지염 표현형으로 분류
 * 기류 제한이 없는 만성 기관지염도 향후 폐 기능 저하와 COPD 발생 및 호흡기 사건 증가와 연관되므로 추적 관찰이 필요
 * pre-COPD : 호흡기 증상 및/또는 구조적·기능적 이상은 있지만, 기관지확장제 투여 후 기류 폐쇄가 없는 상태
-* PRISm(preserved ratio impaired spirometry) : 기관지확장제 투여 후 FEV₁/FVC ≥0.70이지만 FEV₁ ＜80% 예측치인 상태. 비율이 보존되어도 정상이 아니며, 필요시 폐용적 검사로 제한성 장애 등을 감별함
+* PRISm(preserved ratio impaired spirometry) : 기관지확장제 투여 후 FEV₁/FVC ≥0.70이지만 FEV₁ ＜80% 예측치인 상태. FEV₁/FVC가 정상이어도 정상 폐활량검사로 보지 않으며, 필요시 폐용적 검사로 제한성 장애 등을 감별함
 * pre-COPD와 PRISm은 추적 대상이지만 모두 COPD로 진행하지는 않으며, 폐활량검사가 정상화되거나 기류 폐쇄 없이 같은 상태가 유지될 수도 있음 <mark style="color:$info;">\[GOLD 2026]</mark>
 * 유병률은 정의, 연령, 흡연 및 환경 노출에 따라 크게 다름. 흡연자에서 흔하지만 비흡연자에서도 발생 가능
 * 만성 객담 과분비는 폐 기능 저하, 호흡기 감염·악화 및 삶의 질 저하와 연관되지만, 폐기종·폐암·폐성심 등을 만성 기관지염 자체의 직접 합병증으로 단정하지 않음
@@ -33,43 +33,43 @@
 
 * COPD 급성 악화(exacerbation of COPD, ECOPD) : 수일에 걸쳐(통상 ≤14일) 호흡 곤란 및/또는 기침·객담이 평소보다 악화되는 사건; 빈호흡·빈맥이 동반될 수 있음
 * 기류 제한이 확인되지 않은 환자 : 증상이 급격히 악화되어도 곧바로 ECOPD로 진단하지 않고 급성 기관지염, 폐렴, 천식, 기관지확장증 악화, 폐색전증, 심부전, 기흉 등을 평가
-* 고전적 Anthonisen 3가지 증상 - 호흡 곤란 증가, 객담량 증가, 객담 농성 증가; COPD의 급성 악화를 정의하고(확진 기준은 아님), 항생제 필요성 판단에 참고
+* 고전적 Anthonisen 3가지 증상 - 호흡 곤란 증가, 객담량 증가, 객담 농성 증가; 원래 악화의 유형 분류 기준이며, 현재는 확진 기준이 아니라 항생제 필요성 판단에 참고함
 * ECOPD 중증도는 투여한 약제나 입원 여부만으로 분류하지 않고 호흡 곤란 정도, 호흡수, 심박수, SaO₂, 의식상태와 필요시 CRP·동맥혈 가스 분석을 종합하여 평가
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 새로 발생한 안정 시 심한 호흡 곤란, 문장 단위 대화 불가, 청색증 `중증 ECOPD` `급성 호흡부전`
-* SpO₂의 급격한 저하 또는 안정 시 ＜88% `급성 호흡부전`
-* 의식 변화, 심한 혼동, 졸림 `고탄산혈증`&#x20;
-* 호흡 보조근 사용, 역설적 흉복벽 운동, 호흡 피로 `환기부전`
-* 혈역학적 불안정, 새로 발생한 중증 부정맥, 지속되는 압박성 흉통 또는 갑작스러운 흉통과 심한 호흡 곤란 `폐색전증` `급성 관상동맥증후군` `기흉`&#x20;
+* 새로 발생한 안정 시 심한 호흡 곤란, 문장 단위 대화 불가, 청색증  `중증 ECOPD` `급성 호흡부전`
+* SpO₂의 급격한 저하 또는 안정 시 ＜88%(재택 산소치료 환자는 평소 수치와 비교)  `급성 호흡부전`
+* 의식 변화, 심한 혼동, 졸림  `고탄산혈증`&#x20;
+* 호흡 보조근 사용, 역설적 흉복벽 운동, 호흡 피로  `환기부전`
+* 혈역학적 불안정, 새로 발생한 중증 부정맥, 지속되는 압박성 흉통 또는 갑작스러운 흉통과 심한 호흡 곤란  `폐색전증` `급성 관상동맥증후군` `기흉`&#x20;
 * 다량 객혈 또는 객혈과 호흡 곤란·저산소증·혈역학적 이상 동반
-* 동맥혈 가스 분석상 급성 호흡성 산증 `급성 고탄산성 호흡부전`
+* 동맥혈 가스 분석상 급성 호흡성 산증  `급성 고탄산성 호흡부전`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 새로 발생하거나 평소보다 악화된 안정 시 호흡 곤란, 호흡수·심박수의 뚜렷한 증가, 지속되는 고열 `ECOPD` `폐렴`
-* 평소보다 새로 감소한 SpO₂(88% 이상 포함)와 호흡 곤란 악화 `ECOPD` `폐렴`
-* 위 즉각 조치 항목에 해당하지 않는 새 흉통 또는 편측 호흡음 감소 `폐렴` `기흉` `폐색전증` `급성 심장질환`
-* 새로 발생한 소량 객혈 `폐암` `폐결핵` `기관지확장증`&#x20;
-* 중증 COPD 또는 재택 산소치료 환자의 평소보다 뚜렷한 증상 악화 `중등도~중증 ECOPD`&#x20;
+* 새로 발생하거나 평소보다 악화된 안정 시 호흡 곤란, 호흡수·심박수의 뚜렷한 증가, 지속되는 고열  `ECOPD` `폐렴`
+* 평소보다 새로 감소한 SpO₂(88% 이상 포함)와 호흡 곤란 악화  `ECOPD` `폐렴`
+* 위 즉각 조치 항목에 해당하지 않는 새 흉통 또는 편측 호흡음 감소  `폐렴` `기흉` `폐색전증` `급성 심장질환`
+* 새로 발생한 소량 객혈  `폐암` `폐결핵` `기관지확장증`&#x20;
+* 중증 COPD 또는 재택 산소치료 환자의 평소보다 뚜렷한 증상 악화  `중등도~중증 ECOPD`&#x20;
+* 초기 치료 48\~72시간 후에도 호전이 없거나 악화  `치료 실패` `폐렴` `내성균`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 초기 치료 48\~72시간 후에도 호전이 없거나 악화 `치료 실패` `폐렴` `내성균`
-* 원인 불명의 체중 감소·야간 발한 `폐암` `폐결핵`
-* COPD 환자에서 최근 1년 내 중등도 이상 악화 ≥1회 `악화 재발 위험`
-* COPD가 확인되지 않은 상태에서 반복되는 호흡기 증상 악화 `천식` `기관지확장증`
-* 진행하는 운동 시 호흡 곤란, 활동 시 산소포화도 저하 `COPD` `간질성 폐질환`
-* 금연 실패 또는 직업·환경 노출 지속 `COPD 진행 위험` `폐암 위험`
-* 만성 다량 농성 객담 또는 반복 폐렴 `기관지확장증` `비결핵항산균 폐질환`
+* 원인 불명의 체중 감소·야간 발한  `폐암` `폐결핵`
+* COPD 환자에서 최근 1년 내 중등도 이상 악화 ≥1회  `악화 재발 위험`
+* COPD가 확인되지 않은 상태에서 반복되는 호흡기 증상 악화  `천식` `기관지확장증`
+* 진행하는 운동 시 호흡 곤란, 활동 시 산소포화도 저하  `COPD` `간질성 폐질환`
+* 금연 실패 또는 직업·환경 노출 지속  `COPD 진행 위험` `폐암 위험`
+* 만성 다량 농성 객담 또는 반복 폐렴  `기관지확장증` `비결핵항산균 폐질환`
 
 ## <mark style="color:green;">진단</mark>
 
 * 임상 진단 : 다른 원인을 배제한 후 2년 연속으로 각각 연간 ≥3개월 동안 지속되는 기침·객담
-  * 위 정의는 만성 기관지염의 고전적 분류 기준으로, 성인에서 기침이 ≥8주 지속되면 만성 기침 평가를 시작하며, 진단·치료를 위해 2년을 기다리지 않음 (☞ [기침](../220_/006_-cough.md))
+  * 위 정의는 만성 기관지염의 고전적 분류 기준임. 성인에서 기침이 ≥8주 지속되면 만성 기침 평가를 시작하며, 진단·치료를 위해 2년을 기다리지 않음 (☞ [기침](../220_/006_-cough.md))
 * 병력 : 흡연력(pack-year), 전자담배·가열담배, 직업·환경 노출, 복용약(ACE 억제제 등), 천식·알레르기, 역류, 반복 감염·결핵 병력 확인
 * 폐기능 검사(spirometry) : COPD·천식 등 기류 제한 유무를 확인하기 위해 시행
   * COPD는 임상적으로 의심되는 환자에서 기관지확장제 투여 후 FEV₁/FVC ＜0.70으로 확인
@@ -78,7 +78,7 @@
 * 흉부 X선 : 만성 기침의 기본 평가로 폐렴, 종괴, 결핵, 심부전 및 기타 구조적 질환 감별
 * 흉부 CT 고려 : 혈담, 비대칭적 국소 천명음, 체중 감소·야간 발한, 반복 폐렴, 다량 농성 객담, 기관지확장증 의심, 흉부 X선 이상 또는 치료에 반응하지 않는 증상
 * 객담 검사 : 모든 환자에게 routine으로 시행하지 않음
-  * 적응증 : 반복되는 농성 객담, 기관지확장증, 중증 기류 제한, 잦은 악화, 최근 항생제 사용, 과거 Pseudomonas 검출 또는 초기 치료 실패 시 일반 세균 배양
+  * 적응증 : 반복되는 농성 객담, 기관지확장증, 중증 기류 제한, 잦은 악화, 최근 항생제 사용, 과거 _Pseudomonas_ 검출 또는 초기 치료 실패 시 일반 세균 배양
   * 결핵·비결핵항산균 의심 시 항산균 도말·배양 및 분자검사
 * 혈액 검사 : 임상 상황에 따라 CBC, CRP. 혈중 호산구는 COPD의 ICS 반응 가능성 평가에 활용할 수 있으나 만성 기관지염이나 천식을 단독 진단하지 못함
 * 증상 평가 : COPD가 확인된 환자에서 CAAT(Chronic Airways Assessment Test; 기존 CAT와 문항·점수 호환) ≥10 또는 mMRC ≥2를 높은 증상 부하의 기준으로 사용하여 유지치료 선택과 추적에 활용
@@ -96,10 +96,10 @@
 
 ```mermaid
 flowchart TD
-    A["만성 기침 + 객담"] --> B["Red Flags의 즉각 조치/<br/>당일~수일 내 평가 <br/>항목에 해당?"]
-    B -- "예" --> C["즉각 조치 또는<br/>당일~수일 내 평가"]
+    A["만성 기침 + 객담"] --> B["Red Flags의 즉각 조치/<br/>당일 평가 <br/>항목에 해당?"]
+    B -- "예" --> C["즉각 조치 또는<br/>당일 평가"]
     B -- "아니오" --> D["병력·진찰 + CXR<br/>Spirometry"]
-    D --> E["기관지확장제 후<br/>FEV₁/FVC ＜0.70?"]
+    D --> E["기관지확장제 투여 후<br/>FEV₁/FVC ＜0.70?"]
     E -- "예" --> F["증상·노출력 및 <br/>검사 품질 검토<br/>COPD 확인 시 해당 지침 적용"]
     E -- "아니오" --> G["비폐쇄성 만성 기관지염 가능<br/>정의·다른 원인 및 <br/>PRISm 확인"]
     G --> H["금연·노출 회피<br/>원인 질환 치료"]
@@ -135,7 +135,7 @@ style J fill:#fde8f0,stroke:#e91e8c
 * COPD 급성 악화 후 추적 : 초기 치료 48\~72시간 후의 반응 확인과 별도로, 회복 후 흡입기 사용법·유지치료·동반 질환과 호흡 재활 필요성을 재평가 <mark style="color:$info;">\[GOLD 2026]</mark>
   * 악화로 입원을 했던 경우는 퇴원 후 1\~4주 이내 초기 추적하고, 12\~16주에 회복 상태·폐기능·산소치료 필요성을 재평가함
   * 중등도 악화 1회부터 유지치료 강화를 검토함
-* 기류 제한이 없으면 COPD 흡입제·전신 스테로이드·항생제의 경험적 장기 투여를하지 않고 다른 원인과 동반 질환을 치료
+* 기류 제한이 없으면 COPD 흡입제·전신 스테로이드·항생제의 경험적 장기 투여를 하지 않고 다른 원인과 동반 질환을 치료
 * [예방접종](../231_/210_-vaccination.md) : 연령·기저질환·국내 권고에 따라 인플루엔자, 코로나19, 폐렴구균, RSV 등 접종 여부 확인
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
@@ -154,20 +154,21 @@ style J fill:#fde8f0,stroke:#e91e8c
 
 * 비폐쇄성 만성 기관지염 : 금연·노출 회피와 원인 평가 후에도 불편한 객담이 지속될 때 제한적 증상 시험으로만 사용
 * COPD : NAC·carbocisteine은 주로 ICS를 사용하지 않는 환자에서 악화 감소 가능성이 제시됨. Erdosteine 600 ㎎/일은 ICS 병용 여부와 관계없이 주로 경증 악화 감소 근거가 있으므로, 모든 점액용해제에 동일한 ICS 제한을 적용하지 않음 <mark style="color:$info;">\[GOLD 2026; Eur Respir J 2017]</mark>
-* 점액용해제는 만성 기관지염 또는 COPD에서 악화를 소폭 줄일 수 있으나 연구 간 이질성이 크며, 삶의 질 개선은 작고 임상적으로 의미 있는 차이에 미치지 못할 수 있음 <mark style="color:$info;">\[Cochrane 2019]</mark>; 일률적으로 적용하지 않음
+* 점액용해제는 만성 기관지염 또는 COPD에서 악화를 소폭 줄일 수 있으나 연구 간 이질성이 크며, 삶의 질 개선은 작고 임상적으로 의미 있는 차이에 미치지 못할 수 있어 일률적으로 적용하지 않음 <mark style="color:$info;">\[Cochrane 2019]</mark>
 * 급성 악화 중 보조요법으로 추가하면 치료 성공·증상 개선이 일부 결과에서 중등도 확실성으로 보고되었으나, 연구 간 약제·용량 차이가 커서 효과 크기와 장기 경과 개선은 제한적으로 해석함 <mark style="color:$info;">\[Eur Respir Rev 2023]</mark>
 * erdosteine : 점액용해·항산화 작용
   * 300 ㎎ bid\~tid <mark style="color:blue;">\[엘도스]</mark>; 경증·중등도 간장애에서는 1일 300 ㎎ 한도
-  * 금기 : 중증 신장애(CrCl ＜25 ㎖/min), 중증 간장애·간경변, 소화성궤양, 시스타티오닌 합성효소 결핍
+  * 금기 : 중증 신장애(CrCl ＜25 ㎖/min), 중증 간장애·간경변, 소화성궤양, 시스타티오닌 합성효소 결핍, 해당 제형의 유당 관련 유전 질환
   * 급성 호흡기질환에는 연속 10일 이상 투여하지 않음
   * 만성 질환에서는 임상적 이득과 이상반응을 재평가하며 기간을 개별화
 * N-acetylcysteine(NAC) : 점액용해·항산화 작용
   * 급성질환 200 ㎎ tid, 만성질환 200 ㎎ bid <mark style="color:blue;">\[뮤테란]</mark>
-  * 고용량 NAC의 효과는 연구 간 일관되지 않으며 일률적 장기 투여를 권하지 않음 <mark style="color:$info;">\[Nat Commun 2024]</mark>
+  * COPD 악화 예방 연구의 고용량 NAC 600 ㎎ bid는 위 경구 200 ㎎ 제제의 만성질환 허가 용량(200 ㎎ bid)을 초과하는 허가 외 용량임. 연구 결과가 일관되지 않아 일률적인 장기 투여를 권하지 않음 <mark style="color:$info;">\[Lancet Respir Med 2014; Nat Commun 2024]</mark>
   * 금기 : 과민반응, 위·십이지장궤양, 해당 제형의 유당 관련 유전 질환
   * 천식 환자의 기관지연축과 객담 배출 능력을 확인함
   * 아목시실린·독시사이클린 등 경구 항생제와는 ≥2시간 간격을 둠
 * 일정 기간 사용 후 객담·기침·삶의 질의 임상적 이득이 없으면 중단함
+* 객담이 많은 환자에서는 진해제 병용으로 기침반사가 억제되어 객담 배출이 저하될 수 있으므로 주의함
 
 {% hint style="info" %}
 비폐쇄성 만성 기관지염의 장기 질병 경과를 일관되게 개선하는 표준 약물치료는 확립되지 않음. COPD가 동반되면 해당 지침에 따른 치료로 증상·악화 위험을 줄임. 장기 추적에서 증상 변화와 폐기능을 재평가함.
@@ -184,7 +185,7 @@ style J fill:#fde8f0,stroke:#e91e8c
 {% hint style="info" %}
 **COPD 만성 기관지염 표현형의 추가 치료** : 적절한 유지 흡입치료에도 악화가 반복되는 COPD에서 고려하며 호흡기내과와 협의함 (☞ [COPD](072_-copd.md))
 
-* roflumilast : 500 ㎍ qd <mark style="color:blue;">\[닥사스]</mark> - GOLD 2026 추적 치료에서는 LABA/LAMA 또는 ICS/LABA/LAMA 유지치료에도 악화가 지속되는 COPD 중 만성 기관지염 증상, FEV₁ ＜50% 예측치 및 이전 입원을 요한 급성 악화 병력이 있는 환자에서 추가를 고려함 <mark style="color:$info;">\[GOLD 2026]</mark>
+* roflumilast : 500 ㎍ qd <mark style="color:blue;">\[닥사스]</mark> - GOLD 2026 추적 치료에서는 LABA/LAMA 또는 ICS/LABA/LAMA 유지치료에도 악화가 지속되는 COPD 중 만성 기관지염 증상과 FEV₁ ＜50% 예측치를 동반한 환자에서 추가를 고려함. 특히 이전 입원을 요한 급성 악화 병력이 있는 경우 고려 가치가 높으나, 입원 병력을 모든 환자의 필수조건으로 해석하지 않음 <mark style="color:$info;">\[GOLD 2026]</mark>
   * 국내 허가 : 증상 악화 병력이 있고 만성 기관지염을 수반한 중증 COPD에서 기관지확장제의 부가 유지요법
   * 국내 급여 : 위 허가 범위에서 ① FEV₁ ＜50% 예측치 또는 ② β₂ 작용제·항콜린제 등의 지속 투여에도 연 ≥2회 악화 시 투여소견서로 인정하며, LABA 또는 LAMA 1종과 병용하는 기준임. 임상 지침의 선택 기준과 급여 조건을 구분함 <mark style="color:$info;">\[심평원 고시 제2021-270호]</mark>
   * 체중 감소·설사·불면·우울 증상을 관찰함. 성분 과민증, Child-Pugh B·C, 자살 관념·행동 관련 우울증 병력, 중증 면역학적 질환·급성 감염, 암(기저세포암종 제외), 면역억제제 투여(단기 전신 스테로이드 제외), 잠복 감염, NYHA III·IV 심부전 등은 국내 허가상 금기임
@@ -221,7 +222,6 @@ style J fill:#fde8f0,stroke:#e91e8c
 * 지역 내성률, 최근 항생제 사용, 과거 배양 결과, 알레르기와 동반 질환을 고려하여 선택
 * 객담배양은 잦은 악화, 중증 기류 제한, 기계환기, 기관지확장증, 과거 _Pseudomonas_ 검출 또는 치료 실패 시 시행
 * 외래 치료 기간은 통상 5일 이내이며(약제별 요법을 따름), 48\~72시간 후 반응을 확인함
-* 모든 환자를 동등한 경험적 1차 선택으로 사용하지 않음
 * amoxicillin 단독은 일부 지침의 선택지이지만, 지역 감수성과 β-lactamase 생성균(_H. influenzae, M. catarrhalis_) 위험을 고려하여 선택함
 * amoxicillin/clavulanate : 500/125 ㎎(총 625 ㎎) tid × 5일 <mark style="color:blue;">\[오구멘틴]</mark>&#x20;
   * 금기 : 페니실린 과민증·중증 β-lactam 과민반응 병력 및 이 약 관련 황달·간장애 병력
@@ -239,8 +239,8 @@ style J fill:#fde8f0,stroke:#e91e8c
 
 * 비폐쇄성 만성 기관지염의 악화에 routine으로 사용하지 않음
 * COPD의 중등도·중증 급성 악화에서 회복 기간과 치료 실패를 줄이기 위해 사용
-* prednisolone : 40 ㎎ 1일 1회 × 5일 <mark style="color:blue;">\[소론도]</mark>
-  * NICE는 30 ㎎ 1일 1회 × 5일 권고 <mark style="color:$info;">\[GOLD 2026; NICE NG115]</mark>
+* prednisolone : 40 ㎎ 1일 1회 × 5일 <mark style="color:blue;">\[소론도]</mark> <mark style="color:$info;">\[GOLD 2026]</mark>
+  * NICE는 30 ㎎ 1일 1회 × 5일 권고 <mark style="color:$info;">\[NICE NG115]</mark>
 * 혈중 호산구 ≥300/μL를 급성기 전신 스테로이드의 확정적 투여 기준으로 사용하지 않음
 * 5일 단기요법은 일반적으로 감량 없이 종료할 수 있으나, 최근 반복 투여·장기 스테로이드 복용·부신기능저하 위험은 별도 평가
 
@@ -277,7 +277,7 @@ J44.1은 급성 악화를 동반한 COPD 코드임. 폐활량검사와 임상 �
 > **처방례 1. 비폐쇄성 만성 기관지염 - 불편한 객담에 대한 단기 시험**
 >
 > ```
-> 에르도스캡슐 300 ㎎/C   2C  #2  × 14일
+> 엘도스캡슐 300 ㎎/C   2C  #2  × 14일
 > ```
 >
 > _✽ 금연·노출 회피와 다른 원인 평가가 우선임. 중증 신·간장애 등 금기와 간장애 시 감량 기준을 확인하고, 임상적 이득이 없으면 관성적으로 장기 처방하지 않음._
@@ -347,7 +347,7 @@ J44.1은 급성 악화를 동반한 COPD 코드임. 폐활량검사와 임상 �
 > * 의식이 흐려지거나 문장 단위로 말하기 어려운 경우 - **즉시 응급실**
 > * 많은 양의 피를 기침으로 뱉거나 혈담과 호흡 곤란·어지럼이 동반되는 경우 - **즉시 응급실**
 > * 소량이라도 새로 혈담이 생기거나 산소포화도가 평소보다 낮아지고 숨참이 악화된 경우 - **당일 평가**
-> * 치료 48\~72시간 후에도 호전되지 않는 경우 - **재평가**
+> * 치료 48\~72시간 후에도 호전되지 않는 경우 - **당일 평가**
 > * 고열 또는 새로운 흉통이 발생하는 경우 - **당일 평가**(심한 흉통이나 심한 호흡 곤란 등 위험 소견은 즉시 응급실)
 
 ***
@@ -363,10 +363,10 @@ J44.1은 급성 악화를 동반한 COPD 코드임. 폐활량검사와 임상 �
 * [Bronchodilators in Tobacco-Exposed Persons with Symptoms and Preserved Lung Function. N Engl J Med. 2022.](https://doi.org/10.1056/NEJMoa2204752) - RETHINC 무작위시험; 폐기능이 보존된 유증상 흡연 노출군에서 이중 기관지확장제의 증상 개선 효과가 입증되지 않음
 * [Cochrane. Mucolytic agents versus placebo for chronic bronchitis or chronic obstructive pulmonary disease. 2019. CD001287.](https://doi.org/10.1002/14651858.CD001287.pub6) - 점액용해제의 악화 예방 효과와 연구 간 이질성
 * [Dal Negro RW, et al. Erdosteine reduces the exacerbation rate and duration in COPD (RESTORE). Eur Respir J. 2017.](https://doi.org/10.1183/13993003.00711-2017) - erdosteine 600 ㎎/일의 COPD 악화 감소
-* [Zheng JP, et al. Twice daily N-acetylcysteine 600 mg for exacerbations of COPD (PANTHEON). Lancet Respir Med. 2014.](https://doi.org/10.1016/S2213-2600\(14\)70019-0) - 고용량 NAC의 COPD 악화 감소
+* [Zheng JP, et al. Twice daily N-acetylcysteine 600 mg for exacerbations of COPD (PANTHEON). Lancet Respir Med. 2014.](https://doi.org/10.1016/S2213-2600%2814%2970019-0) - 고용량 NAC의 COPD 악화 감소 연구
+* [Zhou Y, et al. Effect of high-dose N-acetylcysteine on exacerbations and lung function in patients with mild-to-moderate COPD. Nat Commun. 2024.](https://doi.org/10.1038/s41467-024-51079-1) - 600 ㎎ bid 투여에서 전체 악화율·폐기능 개선 미입증
 * [Papadopoulou E, et al. Mucolytics for acute exacerbations of chronic obstructive pulmonary disease: a meta-analysis. Eur Respir Rev. 2023.](https://doi.org/10.1183/16000617.0141-2022) - 급성 악화 중 점액용해제 보조요법의 치료 성공·증상 개선과 한계
 * [Sciurba FC, et al. Mepolizumab to Prevent Exacerbations of COPD with an Eosinophilic Phenotype (MATINEE). N Engl J Med. 2025.](https://doi.org/10.1056/NEJMoa2413181) - 삼제요법 중 악화가 지속되는 호산구성 COPD의 추가 유지치료
-* [Zhou Y, et al. Effect of high-dose N-acetylcysteine on exacerbations and lung function in patients with mild-to-moderate COPD. Nat Commun. 2024.](https://doi.org/10.1038/s41467-024-51079-1) - 경증\~중등도 COPD 968명에서 NAC 600 ㎎ bid 2년 투여의 전체 악화율·폐기능 개선 미입증
 * [Bhatt SP, et al. Dupilumab for COPD with type 2 inflammation indicated by eosinophil counts (BOREAS). N Engl J Med. 2023.](https://doi.org/10.1056/NEJMoa2303951) - 만성 기관지염 증상·호산구 증가 COPD에서 dupilumab의 악화 감소
 * [Bhatt SP, et al. Dupilumab for COPD with blood eosinophil evidence of type 2 inflammation (NOTUS). N Engl J Med. 2024.](https://doi.org/10.1056/NEJMoa2401304) - BOREAS 결과의 재현
 * [Alpha-1 Foundation. The Diagnosis and Management of Alpha-1 Antitrypsin Deficiency in the Adult. 2016.](https://journal.copdfoundation.org/jcopdf/id/1115/The-Diagnosis-and-Management-of-Alpha-1-Antitrypsin-Deficiency-in-the-Adult) - 연령·인종과 관계없이 COPD 환자의 α₁-antitrypsin 결핍 검사 권고
