@@ -42,25 +42,25 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 심한 호흡 곤란, 호흡 보조근 사용·흉벽 함몰, 청색증, 의식 변화, 혈역학적 불안정 `중증 폐렴` `호흡부전` `패혈증`
-* 빠르게 악화하거나 지속되는 심한 저산소증 `호흡부전` `중증 폐렴` `폐색전증`
-* 기도 유지 또는 가스교환을 위협하는 대량 객혈 `대량 객혈`
+* 심한 호흡 곤란, 호흡 보조근 사용·흉벽 함몰, 청색증, 의식 변화, 혈역학적 불안정  `중증 폐렴` `호흡부전` `패혈증`
+* 빠르게 악화하거나 지속되는 심한 저산소증  `호흡부전` `중증 폐렴` `폐색전증`
+* 기도 유지 또는 가스교환을 위협하는 대량 객혈  `대량 객혈`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 반복 측정에서도 새로 확인되는 SpO₂ ＜94%(COPD 등 기저 저산소증 환자는 평소 기저치 대비 의미 있는 감소), 즉각적 호흡부전 소견은 없음 `폐렴` `COPD 악화` `폐색전증`
-* 성인에서 빈맥(≥100회/분)·빈호흡(≥24회/분)·체온 ≥38℃ 중 하나 이상, 또는 국소 crackle·기관지 호흡음·egophony `폐렴`
-* 고령·면역 저하·만성 심폐질환 환자의 전신 상태 또는 호흡기 증상 악화 `폐렴` `COPD 악화` `심부전 악화`
-* 발작성 기침, 흡기성 whoop, 기침 후 구토 또는 백일해 환자 접촉력(기침 2주 미만 포함) `백일해`
-* 반복·지속되는 혈담, 흡연·고령 등 위험 요인이 있는 환자의 혈담, 또는 체중 감소·야간 발한 동반 `결핵` `폐암`
+* 반복 측정에서도 새로 확인되는 SpO₂ ＜94%(COPD 등 기저 저산소증 환자는 평소 기저치 대비 의미 있는 감소), 즉각적 호흡부전 소견은 없음  `폐렴` `COPD 악화` `폐색전증`
+* 성인에서 빈맥(≥100회/분)·빈호흡(≥24회/분)·체온 ≥38℃ 중 하나 이상, 또는 국소 crackle·기관지 호흡음·egophony  `폐렴`
+* 고령·면역 저하·만성 심폐질환 환자의 전신 상태 또는 호흡기 증상 악화  `폐렴` `COPD 악화` `심부전 악화`
+* 발작성 기침, 흡기성 whoop, 기침 후 구토 또는 백일해 환자 접촉력(기침 2주 미만 포함)  `백일해`
+* 반복·지속되는 혈담, 흡연·고령 등 위험 요인이 있는 환자의 혈담, 또는 체중 감소·야간 발한 동반  `결핵` `폐암`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 성인에서 3주 이상 지속되는 기침(8주 이상은 만성 기침) `감염 후 기침` `백일해` `천식` `UACS` `GERD`
-* 소아에서 4주를 넘는 기침 `소아 만성 기침`
-* 뚜렷한 원인 없이 2주 이상 지속되거나 호전이 없는 기침 `결핵`
-* 반복적 기관지염 또는 적절한 치료에도 호전 없음 `천식` `COPD` `GERD` `UACS`
-* ACEI 복용 중 발생한 기침 `ACEI 유발 기침`
+* 성인에서 3주 이상 지속되는 기침(8주 이상은 만성 기침)  `감염 후 기침` `백일해` `천식` `UACS` `GERD`
+* 소아에서 4주를 넘는 기침  `소아 만성 기침`
+* 뚜렷한 원인 없이 2주 이상 지속되거나 호전이 없는 기침  `결핵`
+* 반복적 기관지염 또는 적절한 치료에도 호전 없음  `천식` `COPD` `GERD` `UACS`
+* ACEI 복용 중 발생한 기침  `ACEI 유발 기침`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -105,6 +105,30 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 ***
 
 ```mermaid
+flowchart TD
+    A(["기침 환자"]) --> B["Red Flags의 즉각 조치<br/>항목에 해당?"]
+    B -- "예" --> C["즉각 조치"]
+    B -- "아니요" ---> D["비정상 활력징후·저산소증<br/>·국소 폐 소견 또는 <br/>기타 위험 소견(객혈<br/>·결핵 위험·면역 저하)?"]
+    D -- "예" --> E["폐렴·결핵 등 평가<br/>흉부 X선 고려"]
+    D -- "아니요" ---> F["기침 기간?"]
+    F -- "성인≥8주/소아＞4주" --> CC["만성 기침 평가"]
+    F -- "성인≥3주,＜8주" --> PIC["아급성 기침<br/>PIC·백일해<br/>·천식 등 감별"]
+    F -- "성인＜3주/소아≤4주" --> G["급성 기침 원인 평가<br/>급성 기관지염 등 고려"]
+    PIC --> PH["백일해 의심?"]
+    PH -- "예" ---> P2["PCR·배양 <br/>± macrolide<br/>접촉자 관리"]
+    PH -- "아니요" --> PIC2["Reassurance·경과 관찰<br/>원인별 선택 치료"]
+    G --> H["특정 치료가 필요한 원인?"]
+    H -- "인플루엔자·COVID-19" ---> AV["고위험군<br/>·치료 시기 평가<br/>항바이러스제 고려"]
+    H -- "백일해 의심" --> P["PCR <br/>± macrolide<br/>전파 차단<br/>·접촉자 관리"]
+    H -- "없음" --> SUP["대증 치료<br/>항생제 사용 안 함"]
+    SUP --> SX["천명·기류 제한?"]
+    SX -- "예" --> AIR["천식·COPD 평가<br/>해당 지침에 따라 치료"]
+    SX -- "아니요" --> FU["예상 경과<br/>·재진 기준 설명"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class B,D,F,H,SX,PH question
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style G fill:#f96,stroke:#e65100,stroke-width:2px
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```
 
 <p align="center"><strong>급성 기관지염 진단 및 치료 알고리듬</strong></p>
@@ -168,7 +192,10 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 ### <mark style="color:orange;">점액 용해제</mark>
 
 * 합병증 없는 급성 기관지염에서 routine use를 권고하지 않음. 임상시험 근거가 제한적이며 기본 처방례에서 제외
-* 국내 허가 용량 예: ambroxol 30 ㎎ tid <mark style="color:blue;">\[뮤코펙트]</mark>, acetylcysteine 200 ㎎ bid\~tid <mark style="color:blue;">\[뮤테란]</mark>, erdosteine 300 ㎎ bid <mark style="color:blue;">\[엘도스]</mark>
+* 선택적으로 사용할 때의 성인 국내 허가 용량 예: ambroxol 30 ㎎ tid <mark style="color:blue;">\[뮤코펙트]</mark>, acetylcysteine(NAC) 200 ㎎ tid <mark style="color:blue;">\[뮤테란]</mark>, erdosteine 300 ㎎ bid\~tid <mark style="color:blue;">\[엘도스]</mark>
+  * NAC는 급성질환 200 ㎎ tid와 만성질환 200 ㎎ bid를 구분함. COPD 악화 예방 연구의 고용량을 단순 급성 기관지염에 적용하지 않음. 위·십이지장궤양 환자에는 금기
+  * erdosteine은 급성 호흡기질환에서 **연속 10일 이상 투여하지 않음**. 간경변·중증 간장애·CrCl ＜25 ㎖/min·소화성궤양 등 금기와 경증\~중등도 간장애의 1일 300 ㎎ 상한을 확인함
+  * 거담제와 진해제의 일률적 병용은 객담 배출을 저해할 수 있음. 특히 기관지 점액 분비가 증가한 환자에게 levodropropizine을 사용하지 않음
 
 ### <mark style="color:orange;">코 울혈 제거제</mark>
 
@@ -183,6 +210,7 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 * 단순 급성 기침에서 routine use 비권장. 천명·가변적 기류 제한이 있으면 천식·COPD 등 기저 기도질환을 평가하고 해당 지침에 따라 사용
 * 흡입제(경구제보다 우선): salbutamol(albuterol) 100 ㎍/puff, 1\~2 puff q4\~6h prn <mark style="color:blue;">\[벤토린 에보할러]</mark>; 국내 허가사항상 외래 자가 사용은 24시간 최대 8회 분무
   * 더 자주 필요하거나 기존 용량의 효과가 짧으면 임의 증량하지 말고 즉시 재평가; 의료진 감시하 급성 악화 반복 투여는 별도 프로토콜에 따름
+* salbutamol 주요 금기 : 성분 또는 교감신경흥분성 아민류 과민증, 비후성 심근병증
 * 진전·심계항진·빈맥·저칼륨혈증 등에 주의. 반복적으로 필요하거나 반응이 불충분하면 진단 재평가
 
 ### <mark style="color:orange;">항생제</mark>
@@ -211,7 +239,7 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 {% endhint %}
 
 {% hint style="warning" %}
-\_Mycoplasma pneumoniae\_의 국내 macrolide 내성은 주로 소아 폐렴 자료에서 보고된 것으로, 단순 급성 기관지염에 경험적 macrolide 또는 fluoroquinolone을 처방하는 근거가 아님. 폐렴이 의심되면 폐렴 지침에 따라 진단·치료함.
+_Mycoplasma pneumoniae_의 국내 macrolide 내성은 주로 소아 폐렴 자료에서 보고된 것으로, 단순 급성 기관지염에 경험적 macrolide 또는 fluoroquinolone을 처방하는 근거가 아님. 폐렴이 의심되면 폐렴 지침에 따라 진단·치료함.
 {% endhint %}
 
 ### <mark style="color:orange;">항바이러스제</mark>
@@ -225,7 +253,7 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 * 인플루엔자 신속항원검사(RAT) 또는 임상 진단 기반으로 처방; 음성이더라도 유행기·고위험군에서 임상적 판단으로 처방 가능
 * SARS-CoV-2 감염 가능성이 있고 고위험군이면 치료 가능 기간 내 검사와 항바이러스제 적합성·약물상호작용 평가 (☞ [코로나19](070_1_-covid-19.md))
 
-### <mark style="color:orange;">감염 후 기침과 흡입 치료</mark>
+### <mark style="color:orange;">감염 후 기침과 흡입 치료</mark>&#x20;
 
 * 단순 PIC는 대부분 자연 호전하며, 천식 등 기저 기도질환이 없는 환자에서 ICS·기관지확장제의 routine 사용을 뒷받침하는 근거는 불충분
 * 우선 reassurance, 유발 자극 회피, 경과 관찰 및 재진 기준을 설명
@@ -237,7 +265,7 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 ## <mark style="color:red;">질병코드</mark>
 
 * J20 급성 기관지염 Acute bronchitis
-* J20.0 \_Mycoplasma pneumoniae\_에 의한 급성 기관지염 Acute bronchitis due to Mycoplasma pneumoniae
+* J20.0 _Mycoplasma pneumoniae_에 의한 급성 기관지염 Acute bronchitis due to Mycoplasma pneumoniae
 * J20.9 상세불명의 급성 기관지염 Acute bronchitis, unspecified
 * J68.0 화학물질, 가스, 훈증기 및 물김에 의한 기관지염 및 폐렴 Bronchitis and pneumonitis due to chemicals, gases, fumes and vapours
 * A37.0 백일해균에 의한 백일해 Whooping cough due to Bordetella pertussis
@@ -301,8 +329,8 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 > **β2-agonist 흡입제 (벤토린 에보할러)**
 >
 > 1. 의사가 천명·기도 폐쇄를 확인하고 처방한 경우에만 사용합니다(단순 기침에는 사용하지 않음).
-> 2. 사용 전 잘 흔들고, 숨을 최대한 내쉰 뒤 흡입기를 입에 물고 천천히 깊게 들이마십니다.
-> 3. 흡입 후 10초간 숨을 멈추었다가 내쉽니다.
+> 2. 사용 전 잘 흔들고, 숨을 충분히 내쉰 뒤 흡입구를 입에 물고 **천천히 깊게 들이마시기 시작하면서 한 번 분사**합니다.
+> 3. 흡입 후 10초간 숨을 멈추었다가 내쉽니다. 두 번 흡입할 때는 약 30초 뒤에 같은 방법으로 반복합니다.
 > 4. **고령자·흡입기 사용이 서투른 환자**: 스페이서(spacer)를 함께 사용하면 폐 도달률이 크게 향상됩니다 - 처방 시 스페이서 제공 또는 사용법 교육 권장.
 > 5. 벤토린은 처방된 횟수를 지키고 24시간에 총 8번을 초과해 임의로 분사하지 마십시오. 더 자주 필요하거나 효과가 짧아지면 바로 재진하십시오.
 > 6. 드물게 손 떨림·심계항진이 나타날 수 있습니다.
