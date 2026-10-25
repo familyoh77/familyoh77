@@ -13,7 +13,7 @@
 <table><thead><tr><th width="160">기간</th><th width="135">분류</th><th>핵심 의미</th></tr></thead><tbody><tr><td>＜3주</td><td><strong>급성 기침</strong></td><td>급성 기관지염이 흔하지만 감기·폐렴·인플루엔자·COVID-19·천식 악화 등 감별</td></tr><tr><td>3주 이상~8주 미만</td><td><strong>아급성 기침</strong></td><td>감염 후 기침(PIC)이 흔하나 백일해·천식·UACS·GERD 등 감별</td></tr><tr><td>≥8주</td><td><strong>만성 기침</strong></td><td>천식·UACS·GERD·결핵 등 체계적 평가 필요</td></tr></tbody></table>
 
 {% hint style="info" %}
-**Post-Infectious Cough (**[**PIC**](060_-common-cold.md#postinfectious-cough-pic)**)** : 성인에서 호흡기 감염 후 기침이 3\~8주 지속되는 상태. 다른 원인을 배제한 뒤 진단하며 대부분 자연 호전함. 단순 PIC에는 항생제가 필요하지 않고, reassurance와 경과 관찰·safety-netting이 치료의 핵심임. 천식 등 기저 기도질환이 없는 환자에서 ICS·기관지확장제의 효과를 뒷받침하는 근거는 충분하지 않음. 소아는 4주를 넘는 기침을 만성 기침으로 평가하며 성인의 8주 기준을 그대로 적용하지 않음. <mark style="color:$info;">\[CMAJ 2024; Eur Respir J 2020]</mark>
+**Post-Infectious Cough (**[**PIC**](060_-common-cold.md#postinfectious-cough-pic)**)** : 성인에서 호흡기 감염 후 기침이 3주 이상\~8주 미만 지속되는 아급성 기침. 다른 원인을 배제한 뒤 진단하며 대부분 자연 호전함. 단순 PIC에는 항생제가 필요하지 않고, reassurance와 경과 관찰·safety-netting이 치료의 핵심임. 단순 PIC에 ICS·기관지확장제를 routine으로 사용할 근거는 부족하며, 천식/CVA·비천식성 호산구성 기관지염(NAEB) 등 별도 치료 적응증이 있으면 해당 질환을 치료함. 소아는 4주를 넘는 기침을 만성 기침으로 평가하며 성인의 8주 기준을 그대로 적용하지 않음. <mark style="color:$info;">\[CMAJ 2024; Eur Respir J 2020]</mark>
 {% endhint %}
 
 ## <mark style="color:green;">원인</mark>
@@ -75,10 +75,10 @@
 
 ### <mark style="color:orange;">검사</mark>
 
-* 건강한 성인에서 활력징후가 정상이고 국소 폐 소견·저산소증·위험 소견이 없으면 흉부 X선을 통상 시행하지 않음; 고령자·면역 저하자는 별도 판단
+* 합병증 없는 급성 기관지염이 의심되는 급성 기침(＜3주)에서, 건강한 성인의 활력징후가 정상이고 국소 폐 소견·저산소증·위험 소견이 없으면 흉부 X선을 통상 시행하지 않음; 고령자·면역 저하자는 별도 판단
 * 실험실 검사: 통상 불필요. 폐렴 등 감별이 불확실할 때 CBC·CRP를 선택적으로 시행; 결핵 의심 시 객담 항산균 도말·배양 및 핵산증폭검사
 * 흉부 X선: 비정상 활력징후, 저산소증, 국소 폐 소견, 객혈, 호흡 곤란, 전신 상태 악화 또는 결핵·종양 위험이 있을 때 시행
-  * 기침이 3주 이상이라는 이유만으로 일률적으로 촬영하지 않으며, 예상 경과를 벗어나 지속·악화되면 임상 위험에 따라 시행
+  * 성인에서 3주 이상\~8주 미만 지속되는 아급성 기침으로 재평가할 때에는 국내 지침에 따라 병력·신체진찰과 흉부 X선을 초기 평가에 포함함. 이미 시행한 적절한 흉부 영상이 있으면 결과와 이후 임상 경과를 확인하여 재촬영 필요성을 판단함 <mark style="color:$info;">\[Tuberc Respir Dis 2021]</mark>
   * 고령자·면역 저하자는 정상 체온 또는 비전형적 증상으로 폐렴이 나타날 수 있어 낮은 역치로 고려
 * 백일해 의심 시: 비인두 검체 PCR(대체로 기침 시작 후 3\~4주 이내; 3주 이후 민감도 감소) 또는 배양(첫 2주가 가장 적합); 가능하면 항생제 시작 전 채취하며 항생제 투여 5일 이후 PCR은 통상 권장하지 않음(검사 때문에 치료를 지연하지 않음)
 
@@ -237,9 +237,9 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 
 ### <mark style="color:orange;">감염 후 기침과 흡입 치료</mark>
 
-* 단순 PIC는 대부분 자연 호전하며, 천식 등 기저 기도질환이 없는 환자에서 ICS·기관지확장제의 routine 사용을 뒷받침하는 근거는 불충분
-* 우선 reassurance, 유발 자극 회피, 경과 관찰 및 재진 기준을 설명
-* 천명, 반복되는 야간·운동 유발 기침, 가역적 기류 제한 또는 호산구성 염증 등 천식성 기도질환을 시사하는 소견이 있으면 폐기능검사 등을 시행하고 해당 질환 지침에 따라 흡입 치료 고려
+* 단순 PIC는 대부분 자연 호전하며, ICS·기관지확장제의 routine 사용을 뒷받침하는 일관된 근거는 부족함 <mark style="color:$info;">\[CMAJ 2024]</mark>
+* 우선 reassurance, 유발 자극 회피, 경과 관찰 및 재진 기준을 설명함. 대증약은 필요한 경우 단기간 선택하고 호전 시 중단을 검토함
+* 천명, 반복되는 야간·운동 유발 기침, 가역적 기류 제한 또는 호산구성 염증 등 천식/CVA·NAEB를 시사하는 소견이 있으면 폐기능검사·호산구성 염증 평가 등을 임상 소견에 따라 선택하고 해당 질환 지침에 따라 표적 치료함. 천명이나 가역적 기류 제한의 부재만으로 CVA·NAEB를 배제하지 않음
 * 성인 기침이 8주 이상이면 만성 기침으로 재평가; 소아는 4주를 넘으면 평가하며 새 red flag는 기간과 무관하게 재평가
 
 ***
@@ -354,6 +354,7 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 * [송영준 등. 2024년 충청권 백일해의 역학적 특성: 성별 및 유행사례 중심으로. 주간 건강과 질병. 2026;19(5):233-252.](https://doi.org/10.56786/PHWR.2026.19.5.1) - 2024년 국내 백일해 발생 규모와 충청권 역학 자료
 * [CDC. Best Practices for Use of Polymerase Chain Reaction for Diagnosing Pertussis.](https://www.cdc.gov/pertussis/php/pcr-bestpractices/index.html) - 백일해 PCR의 적절한 검체와 검사 시기
 * [CDC. Influenza Antiviral Medications: Summary for Clinicians.](https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html) - 고위험군 조기 치료와 성인 oseltamivir 신기능별 용량 조절
+* [Joo H, et al. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273.](https://doi.org/10.4046/trd.2021.0038) - 아급성 기침의 병력·신체진찰·흉부 X선 평가 및 CVA·호산구성 기관지염의 치료
 * [Postinfectious cough in adults. CMAJ. 2024;196:E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 자연 경과와 약물 근거의 한계
 * [ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/) - 성인·소아 만성 기침의 기간 기준과 초기 평가
 * [질병관리청. 국가결핵관리지침. 2026.](https://www.kdca.go.kr/bbs/kdca/55/304426/download.do) - 2주 이상 기침 등 결핵 의심 증상·위험 인자에 따른 평가
@@ -409,5 +410,6 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 
 * 가래에 피가 반복해서 섞이거나 며칠 이상 계속될 때, 또는 흡연자·고령자의 혈담(피의 양이 많거나 숨이 차면 즉시 응급실)
 * 성인 기침이 3주 이상 지속되거나 점점 심해질 때; 아이는 기침이 4주를 넘으면 원인 평가가 필요합니다.
+* 성인 기침이 8주 이상 지속되면 감염 후 기침으로만 생각하지 말고 만성 기침 원인 평가를 받으십시오.
 * 뚜렷한 원인 없이 기침이 2주 이상 지속되거나 호전이 없을 때(결핵환자 접촉력·체중 감소·야간 발한이 있으면 더 서둘러 진료)
 * 진해제·기관지확장제가 계속 필요하거나 쌕쌕거림이 반복될 때

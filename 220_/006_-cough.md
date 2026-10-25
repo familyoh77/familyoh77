@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 기침은 1차 진료에서 가장 흔한 주소 중 하나로, 기도 내 이물·분비물 제거를 위한 방어 반사이지만 지속 시 삶의 질을 크게 저하시킴
-* 지속 기간에 따라 급성(＜3주), 아급성(3\~8주), 만성(＞8주)으로 분류하며, 이에 따라 원인과 접근법이 달라짐
+* 성인은 지속 기간에 따라 급성(＜3주), 아급성(3주 이상\~8주 미만), 만성(≥8주)으로 분류하며, 이에 따라 원인과 접근법이 달라짐
 * 만성 기침의 흔한 원인 : 천식(cough-variant asthma 포함), 상기도기침증후군(UACS), 비천식성 호산구성 기관지염(NAEB), 위식도역류질환(GERD)
   * 위식도역류가 기침에 기여하는 환자가 있으나 인과관계 판단이 쉽지 않으며, 특히 전형적 역류 증상이 없는 환자에서는 PPI의 기침 개선 효과가 제한적임
 * 흡연 관련 만성 기침은 금연 후 대부분 호전하므로 금연 상담을 우선 시행
@@ -57,19 +57,20 @@
 
 #### <mark style="color:$primary;">급성\~만성 기침</mark>
 
-* 알레르기비염, GERD, 감염후기침
+* 알레르기비염, GERD
 
-#### <mark style="color:$primary;">아급성 기침 (3\~8주)</mark>
+#### <mark style="color:$primary;">아급성 기침 (3주 이상\~8주 미만)</mark>
 
 * 감염후기침, 백일해, 기저 폐질환의 악화
-  * 감염후기침 (post-infectious cough) : 호흡기 감염 후 지속되는 3\~8주의 아급성 기침; 8주를 초과하면 천식/CVA, UACS, NAEB, GERD 등 다른 만성 기침 원인을 재평가
+  * 감염후기침, postinfectious cough, PIC : 성인에서 호흡기 감염 후 3주 이상\~8주 미만 지속되는 아급성 기침으로, 다른 원인을 배제한 뒤 진단함. 8주 이상 지속되면 천식/CVA, UACS, NAEB, GERD 등 만성 기침 원인을 재평가함 <mark style="color:$info;">\[CMAJ 2024]</mark>
 * 비감염성 : 만성 기침과 같은 원인들
 
-#### <mark style="color:$primary;">만성 기침 (＞8주)</mark>
+#### <mark style="color:$primary;">만성 기침 (≥8주)</mark>
 
 * 흔한 원인 : 천식/cough-variant asthma(CVA), 상기도기침증후군(UACS), 비천식성 호산구성 기관지염(NAEB), GERD
   * 역류에 의한 기침은 역류를 포함한 위장관의 자각 증상이 없어도 발생할 수 있음
-* 덜 흔한 원인 : 약물, 만성기관지염, COPD, 기관지확장증, 결핵, 기관지 자극(예: 흡연, 연기, 향수, 표백제), 감염후기침, 폐쇄성 수면무호흡증(OSA), tic cough, somatic cough syndrome, 기침과민증후군
+* 덜 흔한 원인 : 약물, 만성기관지염, COPD, 기관지확장증, 결핵, 기관지 자극(예: 흡연, 연기, 향수, 표백제), 폐쇄성 수면무호흡증(OSA), tic cough, somatic cough syndrome, 기침과민증후군
+  * 감염 후 시작된 기침도 만성화할 수 있으나, 8주 이상 지속되면 단순 PIC로 간주하여 관찰만 지속하지 않고 다른 원인과 기침과민 특성을 재평가함
 * 다인성 기침(multifactorial cough) : 단일 원인 치료에 반응하지 않는 만성 기침에서는 두 가지 이상의 원인이 동시에 작용할 가능성을 고려. 소아에서는 CVA와 UACS의 조합이, 성인에서는 atopic cough와 GERD의 조합이 흔한 것으로 보고됨
 
 #### <mark style="color:$primary;">소아 기침 시 유의 사항</mark>
@@ -163,6 +164,7 @@
 
 #### <mark style="color:$primary;">검사 및 대상</mark>
 
+* 아급성 기침 기본 평가 : 병력·신체진찰과 흉부 X선을 포함함. 이미 시행한 적절한 흉부 영상이 있으면 결과와 이후 임상 경과를 확인하여 재촬영 필요성을 판단함 <mark style="color:$info;">\[Tuberc Respir Dis 2021]</mark>
 * 만성기침 기본 평가 : 흉부 X선, 진단적 폐활량측정(spirometry) 및 기관지확장제 반응, CBC 및 혈중 호산구, 가능하면 FeNO, 산소포화도
   * 가래가 있는 기침이면 객담 배양을 선택적으로 시행
   * 흉부 X선이 정상이어도 기관지확장증·간질성 폐질환·조기 폐암을 완전히 배제하지는 못하므로, 경험적 치료에 반응하지 않거나 비전형적 소견이 있으면 추가 영상검사(HRCT 등)를 고려
@@ -241,24 +243,24 @@ class Xray,CT,PFT lightGreen
 
 ```mermaid
 graph TD
-    Start["3~8주의 기침"] --> Xray["병력청취, 신체진찰<br/>흉부 X선"]
+    Start["성인 3주 이상~8주 미만 기침"] --> Xray["병력청취, 신체진찰<br/>흉부 X선·기존 영상 확인"]
     
     Xray -- "비정상" --> TreatCause["원인 질환 치료 및 <br/>추가 검사"]
     
     Xray -- "정상" --> RedFlags["객혈, 일측성 천명음/협착음, 쉰 목소리,<br/>전신증상, 흡인위험(구토·연하곤란·잦은 폐렴·섭식장애),<br/>55~80세 30갑년 이상 또는<br/>45세 초과 흡연자의 새 기침·양상 변화"]
     RedFlags -- "있음" --> CT["흉부 CT 촬영 ±<br/>기관지내시경 검사"]
-    RedFlags -- "없음" --> PostInfectious["기침 시작 전 혹은 기침 <br/>+ 상기도 감염 증상"]
+    RedFlags -- "없음" --> PostInfectious["선행 호흡기 감염 병력?"]
     CT -- "비정상" --> TreatCause
     CT -- "정상" --> PFT["폐 기능검사와<br/>기관지유발 검사"]
     PFT -- "비정상" --> TreatCause
     PFT -- "정상" --> Chronic["만성 기침에 준한 <br/>평가와 치료"]
-    PostInfectious -- "있음" --> Symptomatic["대증 치료*"]
+    PostInfectious -- "있음" --> Symptomatic["자연 경과 설명·추적 관찰*<br/>± 단기 증상 완화"]
     PostInfectious -- "없음" --> Chronic
     
-    Symptomatic -- "호전" --> FollowUp["대증요법 지속 및 <br/>추적 평가"]
+    Symptomatic -- "호전" --> FollowUp["대증약 중단 검토 및<br/>추적 평가"]
     Symptomatic -- "호전 없음" --> Chronic
     
-    FollowUp -- "악화 및 재발" --> Chronic
+    FollowUp -- "악화·재발 또는 ≥8주 지속" --> Chronic
     %% 스타일 설정
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     style RedFlags fill:#fff9c4,stroke:#ffe082
@@ -269,15 +271,15 @@ graph TD
 
 ```
 
-_\*임상적 특성을 고려하여 Pertussis 또는 Mycoplasma 감염이 의심되면 이에 대한 검사 및 치료를 시행할 수 있음_
+_\*단순 PIC는 항생제 적응증이 아님. 백일해가 의심되면 기침 기간·노출력·전파 위험에 따라 검사와 치료를 고려함. 폐렴 등 별도 감염성 질환이 의심되면 해당 진단에 따라 평가·치료하며, 지속 기침만으로 Mycoplasma 감염을 추정하여 항생제를 처방하지 않음. 새 Red Flags는 기간과 무관하게 재평가함_
 
-<p align="center"><strong>아급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 대한결핵 및 호흡기학회 개정 기침진료지침 2020)</mark></em></p>
+<p align="center"><strong>아급성 기침의 진단적 접근</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : 대한결핵 및 호흡기학회 개정 기침진료지침 2020; CMAJ 2024)</mark></em></p>
 
 ***
 
 ```mermaid
 graph TD
-    Start["성인 만성기침 ＞8주<br/>• 병력 및 신체검사<br/>• Red flag 확인<br/>• ACEI/흡연/직업·환경 노출 확인"]
+    Start["성인 만성기침 ≥8주<br/>• 병력 및 신체검사<br/>• Red flag 확인<br/>• ACEI/흡연/직업·환경 노출 확인"]
     Start --> Basic["기본 평가<br/>• 흉부 X선<br/>• 폐 기능검사<br/>• ± FeNO / 혈중 eosinophils"]
     Basic --> Abnormal["이상 소견 또는<br/>특이적 임상 단서?"]
     Abnormal -- "있음" --> Specific["추정 질환에 대한 <br/>표적 검사·치료<br/>• 감염/결핵/<br/>기관지확장증<br/>• 악성질환/심부전 등<br/>• 필요시 CT<br/>·기관지내시경"]
@@ -337,9 +339,13 @@ graph TD
 
 #### <mark style="color:$primary;">감염후기침</mark>
 
-* 대부분 자연 호전하므로 경과 관찰(safety netting)과 증상 완화 설명이 기본; 백일해, 천식/CVA, UACS 등 다른 원인을 배제
-* ICS·기관지확장제 등이 감염후기침의 자연 경과를 의미 있게 바꾼다는 일관된 근거는 없으므로 routine 처방하지 않으며, 천식/CVA 등 별도 적응증이 의심될 때에만 제한적으로 trial 고려
+* 대부분 자연 호전하므로 자연 경과 설명과 경과 관찰·재진 기준 안내(safety-netting)가 기본; 백일해, 천식/CVA, NAEB, UACS 등 다른 원인을 배제함
+* 단순 PIC는 항생제 적응증이 아님
+* ICS·기관지확장제 등 약물의 routine 사용을 뒷받침하는 일관된 근거는 부족함. 증상 완화가 필요한 경우에만 대증약을 단기간 선택하고 호전 시 중단을 검토함 <mark style="color:$info;">\[CMAJ 2024]</mark>
+* 천식/CVA·NAEB 등 별도 치료 적응증이 의심되면 폐기능검사·호산구성 염증 평가 등을 임상 소견에 따라 선택하고 해당 질환 지침에 따라 표적 치료함. 천명이나 가역적 기류 제한의 부재만으로 CVA·NAEB를 배제하지 않음
 * 전신 스테로이드의 routine 사용은 권장하지 않음
+* neuromodulator는 일반적인 PIC 치료가 아니며, 원인 평가와 적절한 치료 후에도 지속되는 난치성 만성 기침에서 전문적 판단하에 고려함
+* 성인 기침이 8주 이상 지속되거나 호전 없이 지속·악화하면 원인을 재평가하며, 새 Red Flags는 기간과 무관하게 평가함
 
 #### <mark style="color:$primary;">GERD</mark>
 
@@ -500,6 +506,7 @@ graph TD
 ### <mark style="color:orange;">임상 근거</mark>
 
 * [Joo H, et al. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273.](https://doi.org/10.4046/trd.2021.0038) - 대한결핵 및 호흡기학회 개정 기침진료지침 2020의 요약 논문; 본문 급성·아급성 기침 알고리듬 출처
+* [Liang K, et al. Postinfectious cough in adults. CMAJ. 2024;196(5):E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 자연 경과, 감별 및 약물 근거의 한계
 * [Parker SM, et al. British Thoracic Society Clinical Statement on chronic cough in adults. Thorax. 2023;78(Suppl 6):s3-s19.](https://doi.org/10.1136/thorax-2023-220592) - treatable-traits·기침 과민성 접근, 경험적 PPI와 난치성 기침 치료
 * [Morice AH, et al. ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020;55(1):1901136.](https://doi.org/10.1183/13993003.01136-2019) - 성인·소아 만성기침의 평가와 항염증·신경조절·기침 조절 치료
 * [Rouadi PW, et al. WAO-ARIA consensus on chronic cough: Executive summary. World Allergy Organ J. 2025;18(3):101034.](https://doi.org/10.1016/j.waojou.2025.101034) - 일차의료·전문 진료의 만성기침 관리와 원인별 치료
@@ -523,7 +530,8 @@ graph TD
 #### <mark style="color:$primary;">기침이란 무엇인가요?</mark>
 
 * 기도에 들어온 이물질이나 분비물을 제거하려는 신체 반응입니다
-* 3주 미만은 급성(주로 감염), 3\~8주는 아급성, 8주가 넘으면 만성 기침으로 분류합니다
+* 성인은 3주 미만이면 급성(주로 감염), 3주 이상\~8주 미만이면 아급성, 8주 이상이면 만성 기침으로 분류합니다
+* 아이의 기침이 4주를 넘으면 성인의 8주 기준을 기다리지 말고 원인 평가를 받으십시오
 * 만성 기침의 흔한 원인에는 기침형 천식(cough-variant asthma), 상기도 기침 증후군, 비천식성 호산구성 기관지염(NAEB), 위식도 역류 등이 있습니다
 
 #### <mark style="color:$primary;">기침 완화를 위해 이렇게 하세요</mark>
@@ -538,7 +546,7 @@ graph TD
 #### <mark style="color:$primary;">흡입제·약물 복용 시 주의사항</mark>
 
 * 흡입 스테로이드 사용 후에는 반드시 입을 물로 헹궈 뱉어 내십시오 (구강 칸디다 예방)
-* 기침이 바로 멎지 않아도 처방대로 꾸준히 복용하십시오. 효과는 수일\~수주에 걸쳐 나타납니다
+* 천식 등 원인 질환의 치료약은 기침이 바로 멎지 않아도 처방대로 사용하십시오. 단순 감염 후 기침의 증상 완화 약은 필요한 기간에만 사용하고, 호전되면 중단 시기를 의료진과 확인하십시오
 * ACE 억제제(고혈압 약)를 복용 중인 경우, 약물 자체가 기침을 유발할 수 있습니다. 의사에게 알려 주십시오
 * ACE 억제제를 중단하거나 다른 약으로 바꾸어도 기침이 즉시 없어지는 것은 아닙니다. 대개 1\~4주에 걸쳐 호전하며 일부에서는 더 오래 지속될 수 있습니다
 
@@ -548,4 +556,4 @@ graph TD
 * 객혈이 새로 생기거나 고열·호흡 곤란이 지속되는 경우에는 조기에 진료
 * 뚜렷한 원인 없이 기침이 2주 이상 계속되면 진료 (결핵 등 확인)
 * 쉰 목소리, 설명되지 않는 체중 감소, 목 또는 쇄골 위 림프절 부종이 새로 생긴 경우에는 원인 평가
-* 기침이 8주 이상 지속되거나 적절한 치료에도 호전되지 않는 경우에는 만성 기침 원인에 대한 계획적 평가
+* 성인의 기침이 8주 이상 지속되거나 적절한 치료에도 호전되지 않으면 만성 기침 원인에 대한 계획적 평가를 받으십시오

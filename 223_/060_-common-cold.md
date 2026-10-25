@@ -130,14 +130,18 @@
 
 ### <mark style="color:orange;">감염 후 기침 (Postinfectious Cough, PIC)</mark>
 
-* 정의 : 성인에서 급성 호흡기감염 후 3\~8주간 지속되는 아급성 기침
-  * 소아에는 성인의 3\~8주 기준을 그대로 적용하지 않으며, 4주를 넘는 기침은 만성 기침으로 평가함 <mark style="color:$info;">\[Eur Respir J 2020]</mark>
+* 정의 : 성인에서 급성 호흡기감염 후 3주 이상\~8주 미만 지속되는 아급성 기침 <mark style="color:$info;">\[CMAJ 2024]</mark>
+  * 소아에는 성인의 기침 기간 기준을 그대로 적용하지 않으며, 4주를 넘는 기침은 만성 기침으로 평가함 <mark style="color:$info;">\[Eur Respir J 2020]</mark>
 * 기전 : 감염 후 지속되는 기도 염증·점액 과분비·일시적 기도 과민성과 기침 반사 민감화 등이 관여
-* 진단 : 배제 진단으로, 정상 흉부 진찰과 자연 호전 경과를 확인하고 천식, 상기도기침증후군, 위식도역류, ACE 억제제 사용, 백일해 등을 감별하여 진단
-* 치료 : Red Flags가 없으면 자연 경과 설명과 추적 관찰이 기본
+* 진단 : 배제 진단으로, 정상 흉부 진찰과 자연 호전 경과를 확인하고 천식/CVA, 비천식성 호산구성 기관지염(NAEB), 상기도기침증후군, 위식도역류, ACE 억제제 사용, 백일해 등을 감별하여 진단
+  * 성인의 아급성 기침 초기 평가에는 국내 지침에 따라 병력·신체진찰과 흉부 X선을 포함함. 이미 시행한 적절한 흉부 영상이 있으면 결과와 이후 임상 경과를 확인하여 재촬영 필요성을 판단함 <mark style="color:$info;">\[Tuberc Respir Dis 2021]</mark>
+* 치료 : Red Flags가 없으면 자연 경과 설명과 추적 관찰·재진 기준 안내가 기본
+  * 단순 PIC는 항생제 적응증이 아님
   * 흡입 스테로이드, 기관지확장제, 경구 약물 등을 routine으로 권고할 근거는 부족
-  * 천명 또는 가역적 기류 제한 등 천식성 소견이 있을 때만 해당 질환에 맞춘 표적 치료 고려
+  * 천식/CVA·NAEB 등 별도 치료 적응증을 시사하는 소견이 있으면 해당 질환을 평가하고 표적 치료를 고려함. 천명이나 가역적 기류 제한의 부재만으로 CVA·NAEB를 배제하지 않음
+  * 대증약은 필요한 경우 단기간 선택하고 호전 시 중단을 검토함
   * neuromodulator(amitriptyline, gabapentin)는 일반적인 PIC 치료가 아니며, 원인 평가를 마친 난치성 만성 기침에서 전문적 판단하에 고려 (☞ [기침](../220_/006_-cough.md))
+* 성인 기침이 8주 이상 지속되거나 호전 없이 지속·악화하면 만성 기침 원인 등을 재평가함
 * 객혈, 전신 증상, 연하곤란, 심한 호흡곤란, 지속되는 쉰 목소리 등 Red Flags가 있으면 기간과 무관하게 재평가
 
 ***
@@ -160,7 +164,7 @@ flowchart TD
     Z --> Y["코·전신 증상<br/>10일 이내 호전?"]
     Y -->|예| END["자연 회복"]
     Y -->|아니오 또는 재악화| RE["재평가<br/>세균성 비부비동염<br/>·폐렴 등 감별"]
-    END -.->|성인: 기침만 3주 이상 지속| PIC["감염 후 기침 평가"]
+    END -.->|성인: 기침만 3주 이상 지속| PIC["지속 기침 원인 평가<br/>3주 이상~8주 미만: PIC 등 감별<br/>≥8주: 만성 기침 평가"]
     END -.->|소아: 기침 4주 초과 지속| PC["만성 기침 원인 평가"]
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style E fill:#ffe6e6,stroke:#c62828,stroke-width:2px
@@ -557,7 +561,7 @@ flowchart TD
 * **acetaminophen** - 제품별 1일 최대 용량을 지키고 다른 감기 복합제와 acetaminophen 중복 성분을 반드시 확인; 고령자·저체중·쇠약·영양불량·간질환·과음 환자는 감량
 * **경구 코 울혈 제거제(pseudoephedrine)** - 고혈압 포함 심혈관질환, 갑상선기능항진증·당뇨병·중증 신장애·폐쇄각녹내장·크롬친화세포종·수유부 및 MAO 억제제·다른 교감신경흥분제·β차단제 병용은 국내 금기; 전립선비대 등은 신중 투여. 불면을 유발할 수 있어 늦은 오후 이후 복용을 피하고, 갑작스러운 심한 두통·시각 이상·경련 등이 발생하면 즉시 중단하고 응급 평가
 * **항생제는 필요 없음** - 감기는 바이러스 감염이므로 항생제가 효과 없음을 명확히 설명; 농성 콧물·5일 이상 증상만으로는 항생제 적응증이 아님을 안내
-* **기침 지속 안내** - 다른 증상이 회복된 이후에도 기침은 2\~3주 지속될 수 있음을 안내; 3주 이상 지속되면 재진하고 소아는 4주를 넘으면 만성 기침 평가, 성인은 8주를 초과하면 만성 기침 평가
+* **기침 지속 안내** - 다른 증상이 회복된 이후에도 기침은 2\~3주 지속될 수 있음을 안내; 3주 이상 지속되면 재진하고 소아는 4주를 넘으면 만성 기침 평가, 성인은 8주 이상이면 만성 기침 평가
 
 ***
 
@@ -572,6 +576,7 @@ flowchart TD
 * [NICE. Hearing loss in adults: assessment and management. NG98.](https://www.nice.org.uk/guidance/ng98) - 외이·중이 원인으로 설명되지 않는 급성 청력 저하의 신속 의뢰 기준
 * [NICE. Cough (acute): antimicrobial prescribing. NG120.](https://www.nice.org.uk/guidance/ng120) - 급성 기침의 대증 치료와 항생제 사용 제한
 * [Smith SM, et al. Over-the-counter (OTC) medications for acute cough in children and adults in community settings. Cochrane Database Syst Rev. 2014;(11):CD001831.](https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001831.pub5/information) - 급성 기침에서 dextromethorphan 등 OTC 진해제의 성인·소아 효과
+* [Joo H, et al. Revised Korean Cough Guidelines, 2020: Recommendations and Summary Statements. Tuberc Respir Dis. 2021;84(4):263-273.](https://doi.org/10.4046/trd.2021.0038) - 아급성 기침의 병력·신체진찰·흉부 X선 평가 및 CVA·호산구성 기관지염의 치료
 * [Liang K, et al. Postinfectious cough in adults. CMAJ. 2024;196(5):E157.](https://doi.org/10.1503/cmaj.231523) - 성인 감염 후 기침의 정의·감별 및 약물 근거의 한계
 * [Morice AH, et al. ERS guidelines on the diagnosis and treatment of chronic cough in adults and children. Eur Respir J. 2020;55:1901136.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6942543/) - 성인과 소아의 만성 기침 평가 기준 구분
 * [Cochrane. Zinc for the prevention and treatment of the common cold. 2024. CD014914.](https://www.cochrane.org/evidence/CD014914_zinc-prevention-and-treatment-common-cold) - 아연의 감기 예방·치료 효과와 이상반응, 근거 확실성
@@ -620,6 +625,7 @@ flowchart TD
 * 갑자기 잘 안 들릴 때 (당일 진료)
 * 증상이 10일 넘게 호전되지 않거나, 좋아지다가 다시 나빠질 때
 * 기침이 3주 이상 지속되거나 천명·흉통·객혈이 동반될 때; 아이의 기침이 4주를 넘으면 원인 평가가 필요합니다.
+* 성인의 기침이 8주 이상 지속되면 감염 후 기침으로만 생각하지 말고 만성 기침 원인 평가를 받으십시오.
 
 #### <mark style="color:$primary;">집에서 이렇게 하세요</mark>
 
