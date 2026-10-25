@@ -42,25 +42,25 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 심한 호흡 곤란, 호흡 보조근 사용·흉벽 함몰, 청색증, 의식 변화, 혈역학적 불안정  `중증 폐렴` `호흡부전` `패혈증`
-* 빠르게 악화하거나 지속되는 심한 저산소증  `호흡부전` `중증 폐렴` `폐색전증`
-* 기도 유지 또는 가스교환을 위협하는 대량 객혈  `대량 객혈`
+* 심한 호흡 곤란, 호흡 보조근 사용·흉벽 함몰, 청색증, 의식 변화, 혈역학적 불안정 `중증 폐렴` `호흡부전` `패혈증`
+* 빠르게 악화하거나 지속되는 심한 저산소증 `호흡부전` `중증 폐렴` `폐색전증`
+* 기도 유지 또는 가스교환을 위협하는 대량 객혈 `대량 객혈`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 반복 측정에서도 새로 확인되는 SpO₂ ＜94%(COPD 등 기저 저산소증 환자는 평소 기저치 대비 의미 있는 감소), 즉각적 호흡부전 소견은 없음  `폐렴` `COPD 악화` `폐색전증`
-* 성인에서 빈맥(≥100회/분)·빈호흡(≥24회/분)·체온 ≥38℃ 중 하나 이상, 또는 국소 crackle·기관지 호흡음·egophony  `폐렴`
-* 고령·면역 저하·만성 심폐질환 환자의 전신 상태 또는 호흡기 증상 악화  `폐렴` `COPD 악화` `심부전 악화`
-* 발작성 기침, 흡기성 whoop, 기침 후 구토 또는 백일해 환자 접촉력(기침 2주 미만 포함)  `백일해`
-* 반복·지속되는 혈담, 흡연·고령 등 위험 요인이 있는 환자의 혈담, 또는 체중 감소·야간 발한 동반  `결핵` `폐암`
+* 반복 측정에서도 새로 확인되는 SpO₂ ＜94%(COPD 등 기저 저산소증 환자는 평소 기저치 대비 의미 있는 감소), 즉각적 호흡부전 소견은 없음 `폐렴` `COPD 악화` `폐색전증`
+* 성인에서 빈맥(≥100회/분)·빈호흡(≥24회/분)·체온 ≥38℃ 중 하나 이상, 또는 국소 crackle·기관지 호흡음·egophony `폐렴`
+* 고령·면역 저하·만성 심폐질환 환자의 전신 상태 또는 호흡기 증상 악화 `폐렴` `COPD 악화` `심부전 악화`
+* 발작성 기침, 흡기성 whoop, 기침 후 구토 또는 백일해 환자 접촉력(기침 2주 미만 포함) `백일해`
+* 반복·지속되는 혈담, 흡연·고령 등 위험 요인이 있는 환자의 혈담, 또는 체중 감소·야간 발한 동반 `결핵` `폐암`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 성인에서 3주 이상 지속되는 기침(8주 이상은 만성 기침)  `감염 후 기침` `백일해` `천식` `UACS` `GERD`
-* 소아에서 4주를 넘는 기침  `소아 만성 기침`
-* 뚜렷한 원인 없이 2주 이상 지속되거나 호전이 없는 기침  `결핵`
-* 반복적 기관지염 또는 적절한 치료에도 호전 없음  `천식` `COPD` `GERD` `UACS`
-* ACEI 복용 중 발생한 기침  `ACEI 유발 기침`
+* 성인에서 3주 이상 지속되는 기침(8주 이상은 만성 기침) `감염 후 기침` `백일해` `천식` `UACS` `GERD`
+* 소아에서 4주를 넘는 기침 `소아 만성 기침`
+* 뚜렷한 원인 없이 2주 이상 지속되거나 호전이 없는 기침 `결핵`
+* 반복적 기관지염 또는 적절한 치료에도 호전 없음 `천식` `COPD` `GERD` `UACS`
+* ACEI 복용 중 발생한 기침 `ACEI 유발 기침`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -105,31 +105,6 @@ _<mark style="color:$info;">Ref. NICE NG237, 2023</mark>_
 ***
 
 ```mermaid
-flowchart TD
-    A(["기침 환자"]) ---> B["Red Flags의 즉각 조치<br/>항목에 해당?"]
-    B -- "예" ---> C["즉각 조치"]
-    B -- "아니요" ---> D["비정상 활력징후·저산소증·국소 폐 소견<br/>또는 기타 위험 소견(객혈·결핵 위험·면역 저하)?"]
-    D -- "예" ---> E["폐렴·결핵 등 평가<br/>흉부 X선 고려"]
-    D -- "아니요" ---> F["기침 기간?"]
-    F -- "성인 ≥8주 / 소아 ＞4주" ---> CC["만성 기침 평가"]
-    F -- "성인 3주 이상~8주 미만" ---> PIC["아급성 기침<br/>PIC·백일해·천식 등 감별"]
-    F -- "성인 ＜3주 / 소아 ≤4주" ---> G["급성 기침 원인 평가<br/>급성 기관지염 등 고려"]
-    PIC ---> PH["백일해 의심?"]
-    PH -- "예" ---> P2["PCR·배양 ± macrolide<br/>접촉자 관리"]
-    PH -- "아니요" ---> PIC2["Reassurance·경과 관찰<br/>원인별 선택 치료"]
-    G ---> H["특정 치료가 필요한 원인?"]
-    H -- "인플루엔자·COVID-19" ---> AV["고위험군·치료 시기 평가<br/>항바이러스제 고려"]
-    H -- "백일해 의심" ---> P["PCR ± macrolide<br/>전파 차단·접촉자 관리"]
-    H -- "없음" ---> SUP["대증 치료<br/>항생제 사용 안 함"]
-    SUP ---> SX["천명·기류 제한?"]
-    SX -- "예" ---> AIR["천식·COPD 평가<br/>해당 지침에 따라 치료"]
-    SX -- "아니요" ---> FU["예상 경과·재진 기준 설명"]
-
-    classDef question fill:#fff9c4,stroke:#ffe082
-    class B,D,F,H,SX,PH question
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style G fill:#f96,stroke:#e65100,stroke-width:2px
-    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```
 
 <p align="center"><strong>급성 기관지염 진단 및 치료 알고리듬</strong></p>
@@ -236,7 +211,7 @@ flowchart TD
 {% endhint %}
 
 {% hint style="warning" %}
-_Mycoplasma pneumoniae_의 국내 macrolide 내성은 주로 소아 폐렴 자료에서 보고된 것으로, 단순 급성 기관지염에 경험적 macrolide 또는 fluoroquinolone을 처방하는 근거가 아님. 폐렴이 의심되면 폐렴 지침에 따라 진단·치료함.
+\_Mycoplasma pneumoniae\_의 국내 macrolide 내성은 주로 소아 폐렴 자료에서 보고된 것으로, 단순 급성 기관지염에 경험적 macrolide 또는 fluoroquinolone을 처방하는 근거가 아님. 폐렴이 의심되면 폐렴 지침에 따라 진단·치료함.
 {% endhint %}
 
 ### <mark style="color:orange;">항바이러스제</mark>
@@ -250,7 +225,7 @@ _Mycoplasma pneumoniae_의 국내 macrolide 내성은 주로 소아 폐렴 자�
 * 인플루엔자 신속항원검사(RAT) 또는 임상 진단 기반으로 처방; 음성이더라도 유행기·고위험군에서 임상적 판단으로 처방 가능
 * SARS-CoV-2 감염 가능성이 있고 고위험군이면 치료 가능 기간 내 검사와 항바이러스제 적합성·약물상호작용 평가 (☞ [코로나19](070_1_-covid-19.md))
 
-### <mark style="color:orange;">감염 후 기침과 흡입 치료</mark>&#x20;
+### <mark style="color:orange;">감염 후 기침과 흡입 치료</mark>
 
 * 단순 PIC는 대부분 자연 호전하며, 천식 등 기저 기도질환이 없는 환자에서 ICS·기관지확장제의 routine 사용을 뒷받침하는 근거는 불충분
 * 우선 reassurance, 유발 자극 회피, 경과 관찰 및 재진 기준을 설명
@@ -262,7 +237,7 @@ _Mycoplasma pneumoniae_의 국내 macrolide 내성은 주로 소아 폐렴 자�
 ## <mark style="color:red;">질병코드</mark>
 
 * J20 급성 기관지염 Acute bronchitis
-* J20.0 _Mycoplasma pneumoniae_에 의한 급성 기관지염 Acute bronchitis due to Mycoplasma pneumoniae
+* J20.0 \_Mycoplasma pneumoniae\_에 의한 급성 기관지염 Acute bronchitis due to Mycoplasma pneumoniae
 * J20.9 상세불명의 급성 기관지염 Acute bronchitis, unspecified
 * J68.0 화학물질, 가스, 훈증기 및 물김에 의한 기관지염 및 폐렴 Bronchitis and pneumonitis due to chemicals, gases, fumes and vapours
 * A37.0 백일해균에 의한 백일해 Whooping cough due to Bordetella pertussis
