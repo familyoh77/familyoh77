@@ -95,6 +95,28 @@
 ***
 
 ```mermaid
+flowchart TD
+    A["만성 기침 + 객담"] --> B["Red Flags의 즉각 조치/<br/>당일~수일 내 평가 <br/>항목에 해당?"]
+    B -- "예" --> C["즉각 조치 또는<br/>당일~수일 내 평가"]
+    B -- "아니오" --> D["병력·진찰 + CXR<br/>Spirometry"]
+    D --> E["기관지확장제 후<br/>FEV₁/FVC ＜0.70?"]
+    E -- "예" --> F["증상·노출력 및 <br/>검사 품질 검토<br/>COPD 확인 시 해당 지침 적용"]
+    E -- "아니오" --> G["비폐쇄성 만성 기관지염 가능<br/>정의·다른 원인 및 <br/>PRISm 확인"]
+    G --> H["금연·노출 회피<br/>원인 질환 치료"]
+    G --> I["객담 불편 지속 시<br/>점액용해제 제한적 시험"]
+    G --> J["LABA/LAMA·ICS<br/>·장기 macrolide<br/>routine 사용하지 않음"]
+    F ---> K["급성 증상 악화?"]
+    K -- "예" --> L["ECOPD 중증도·감별 평가<br/>SABA ± SAMA"]
+    K -- "아니오" ---> M["증상·악화력<br/>·호산구에 따라<br/>유지 흡입치료"]
+    L --> N["항생제 적응증 확인<br/>농성 객담 + 추가 증상 <br/>/ 이전 배양 양성<br/>또는 기계환기 필요 여부<br/>중등도·중증이면 <br/>전신 스테로이드"]
+style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,E,K yellow
+classDef L_red fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+class C L_red
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class F,H,I,L,M,N sky
+style J fill:#fde8f0,stroke:#e91e8c
 ```
 
 <p align="center"><strong>만성 기관지염 진단·치료 알고리듬</strong></p>
@@ -153,8 +175,8 @@
 
 ### <mark style="color:orange;">기관지확장제</mark>
 
-* 기류 제한이 없는 만성 기관지염에서 LABA 또는 LAMA를 증상 치료 목적으로 routine 시험 투여하지 않음 <mark style="color:$info;">\[N Engl J Med 2022]</mark>
 * COPD가 확인되면 증상과 악화력에 따라 LABA/LAMA 등 유지 흡입치료를 선택 (☞ [COPD](072_-copd.md))
+  * 기류 제한이 없는 만성 기관지염에서 LABA/LAMA를 routine 투여하지 않음 <mark style="color:$info;">\[N Engl J Med 2022]</mark>
 * 천식이 동반되면 천식 지침에 따라 ICS 포함 치료
   * 호산구 증가만으로 천식-COPD 동반을 진단하지 않으며, COPD의 ICS 추가는 악화력·호산구 수치·폐렴 위험을 함께 고려함
 * theophylline 등 methylxanthine은 치료역이 좁고 약물상호작용이 많아 COPD 유지치료에 일상적으로 권하지 않음
@@ -172,14 +194,15 @@
 * 두 생물학제제 모두 비폐쇄성 만성 기관지염이나 급성 악화의 구제치료에는 사용하지 않음. 국내 허가 문구와 임상시험의 호산구 수치·악화력 기준을 구분하고, 확인한 mepolizumab 급여 고시(제2026-133호)는 중증 호산구성 천식 대상이며 COPD 급여를 명시하지 않음. COPD 허가가 곧 급여 적용을 뜻하지 않으므로 처방 시점의 최신 고시를 확인함
 {% endhint %}
 
-### <mark style="color:orange;">COPD 급성 악화 시 기관지확장제</mark>
+### <mark style="color:orange;">기관지확장제 - COPD 급성 악화 시</mark>&#x20;
 
-* SABA를 초기 기관지확장제로 사용하고 임상 상황에 따라 SAMA 병용
-* salbutamol : 100 ㎍/puff, 1\~2 puffs prn <mark style="color:blue;">\[벤토린 에보할러]</mark>; 국내 허가사항상 외래 자가 사용은 24시간 최대 총 8번 분사(8 puffs). 더 자주 필요하거나 효과가 짧으면 즉시 재평가하며, 의료진 감시하 급성 악화 반복 투여는 별도 프로토콜에 따름
-  * 금기 : 성분·교감신경흥분성 아민류 과민증, 비후성 심근병증. 반복 투여 시 빈맥·부정맥·저칼륨혈증에 유의함
-* ipratropium : 네뷸라이저용 500 ㎍/2 ㎖, 성인 1회 100\~500 ㎍ qid 흡입 <mark style="color:blue;">\[아트로벤트흡입액유디비]</mark> - 아래 처방례는 네뷸라이저용 제형 기준임
+* SABA를 초기 기관지확장제로 사용하고 임상 상황에 따라 SAMA 병용 (☞ [COPD](072_-copd.md))
+* salbutamol : 100 ㎍/puff, 1\~2 puffs prn <mark style="color:blue;">\[벤토린 에보할러]</mark>; 외래 자가 사용은 24시간 최대 총 8번 분사(8 puffs). 더 자주 필요하거나 효과가 짧으면 즉시 재평가하며, 의료진 감시하 급성 악화 반복 투여는 별도 프로토콜에 따름
+  * 금기 : 성분·교감신경흥분성 아민류 과민증, 비후성 심근병증
+  * 반복 투여 시 빈맥·부정맥·저칼륨혈증에 유의함
+* ipratropium : 네뷸라이저용 500 ㎍/2 ㎖, 성인 1회 100\~500 ㎍ qid 흡입 <mark style="color:blue;">\[아트로벤트흡입액유디비]</mark>&#x20;
   * 금기 : 폐쇄각 녹내장, 전립선비대증, 아트로핀 계열 약물 과민증
-  * 마스크 사용 시 약물이 눈에 들어가면 급성 폐쇄각 녹내장이 유발·악화될 수 있으므로 가능하면 마우스피스 사용
+  * 마스크 흡입 시 약물이 눈에 들어가면 급성 폐쇄각 녹내장이 유발·악화될 수 있으므로, 가능하면 마우스피스 사용
   * LAMA 유지치료 중인 환자는 항콜린 효과 중복을 고려
 * 중증 악화 또는 pMDI 사용이 어려운 상황에서는 네뷸라이저 제형을 고려
 
@@ -190,28 +213,34 @@
 ### <mark style="color:orange;">항생제 - COPD 급성 악화에서 선택적 사용</mark>
 
 * 비폐쇄성 만성 기관지염의 단순 증상 악화나 객담 색 변화만으로 항생제를 routine 처방하지 않음
-* COPD 급성 악화에서 다음 중 하나에 해당하면 항생제 투여 <mark style="color:$info;">\[GOLD 2026]</mark>:
-  * **객담 농성 증가**와 함께 호흡 곤란 증가·발열·객담량 증가 중 ≥1개가 동반됨
-  * 이전 급성 악화 시 객담배양 양성 병력이 있음 : GOLD 2026의 항생제 고려 조건이지만, 과거 균종·감수성, 집락화 가능성 및 현재 감염 소견을 종합하여 처방 여부와 항생제를 결정함
+* COPD 급성 악화에서 다음 중 하나에 해당하면 항생제 투여 <mark style="color:$info;">\[GOLD 2026]</mark>
+  * 객담 농성 증가와 함께 호흡 곤란 증가·발열·객담량 증가 중 ≥1개가 동반됨
+  * 이전 급성 악화 시 객담배양 양성 병력이 있음 - GOLD 2026의 항생제 고려 조건이지만, 과거 균종·감수성, 집락화 가능성 및 현재 감염 소견을 종합하여 처방 여부와 항생제를 결정함
   * 비침습 또는 침습 기계환기가 필요함
-* CRP, 최근 항생제 사용, 과거 배양 결과와 악화의 중증도는 항생제 필요성 판단과 약제 선택에 함께 참고함. Procalcitonin 단독 기준으로 항생제 투여·보류를 결정하지 않음 <mark style="color:$info;">\[GOLD 2026; NICE NG114]</mark>
-* 항생제는 지역 내성률, 최근 항생제 사용, 과거 배양 결과, 알레르기와 동반 질환을 고려하여 선택
-* 외래 치료 기간은 통상 5일 이내이며 약제별 검증된 요법을 따름(아래 azithromycin 예시는 3일). 48\~72시간 후 반응을 확인함
-* 객담배양은 잦은 악화, 중증 기류 제한, 기계환기, 기관지확장증, 과거 Pseudomonas 검출 또는 치료 실패에서 시행
-
-#### <mark style="color:$primary;">외래 항생제 예시</mark>
-
-* 아래는 성인 경구 요법의 예시이며, 모두를 동등한 경험적 1차 선택으로 사용하지 않음. 국내 감수성·최근 항생제 사용·개별 금기를 우선 확인함. amoxicillin 단독은 일부 지침의 선택지이나 지역 감수성과 β-lactamase 생성균(H. influenzae·M. catarrhalis) 위험을 고려하여 선택함
-* amoxicillin/clavulanate : 500/125 ㎎(총 625 ㎎) tid × 5일 <mark style="color:blue;">\[오구멘틴]</mark> - 페니실린 과민증·중증 β-lactam 과민반응 병력 및 이 약 관련 황달·간장애 병력 금기. 신기능 저하 시 용량·간격 조정
-* doxycycline : 첫날 100 ㎎ bid, 이후 100 ㎎ qd × 4일(총 5일) <mark style="color:blue;">\[모노신]</mark> <mark style="color:$info;">\[NICE NG114]</mark> - 국내 허가의 초회·유지 용량에 해당함. 중증 감염에서는 100 ㎎ bid 유지가 가능하나 외래 단순 악화에 일률 적용하지 않음. 임부·수유부·12세 미만 소아 등 국내 금기를 확인함
-* azithromycin : 500 ㎎(250 ㎎ 2정) qd × 3일 <mark style="color:blue;">\[지스로맥스]</mark> - QT 연장·저칼륨혈증·약물상호작용과 국내 내성률을 고려하여 선택적으로 사용함. 예방 목적으로 macrolide를 복용 중이면 다른 계열을 선택함
-* fluoroquinolone은 중대한 이상반응·내성 선택 및 결핵 진단 지연 위험을 고려하여 다른 적절한 대안이 없을 때만 선택함. Pseudomonas 위험이 높으면 위 표준 경구 요법을 그대로 적용하지 않고 배양 결과와 중증도에 맞춰 결정함
+* CRP, 최근 항생제 사용, 과거 배양 결과와 악화의 중증도는 항생제 필요성 판단과 약제 선택에 함께 참고함. procalcitonin 단독 기준으로 항생제 투여·보류를 결정하지 않음 <mark style="color:$info;">\[GOLD 2026; NICE NG114]</mark>
+* 지역 내성률, 최근 항생제 사용, 과거 배양 결과, 알레르기와 동반 질환을 고려하여 선택
+* 객담배양은 잦은 악화, 중증 기류 제한, 기계환기, 기관지확장증, 과거 _Pseudomonas_ 검출 또는 치료 실패 시 시행
+* 외래 치료 기간은 통상 5일 이내이며(약제별 요법을 따름), 48\~72시간 후 반응을 확인함
+* 모든 환자를 동등한 경험적 1차 선택으로 사용하지 않음
+* amoxicillin 단독은 일부 지침의 선택지이지만, 지역 감수성과 β-lactamase 생성균(_H. influenzae, M. catarrhalis_) 위험을 고려하여 선택함
+* amoxicillin/clavulanate : 500/125 ㎎(총 625 ㎎) tid × 5일 <mark style="color:blue;">\[오구멘틴]</mark>&#x20;
+  * 금기 : 페니실린 과민증·중증 β-lactam 과민반응 병력 및 이 약 관련 황달·간장애 병력
+  * 신기능 저하 시 용량·간격 조정
+* doxycycline : 첫날 100 ㎎ bid, 이후 100 ㎎ qd × 4일(총 5일) <mark style="color:blue;">\[모노신]</mark> <mark style="color:$info;">\[NICE NG114]</mark>&#x20;
+  * 중증 감염에서는 100 ㎎ bid 유지가 가능하나 외래 단순 악화에 일률 적용하지 않음
+  * 임부·수유부·12세 미만에서 금기&#x20;
+* azithromycin : 500 ㎎(250 ㎎ 2정) qd × 3일 <mark style="color:blue;">\[지스로맥스]</mark>&#x20;
+  * QT 연장·저칼륨혈증·약물상호작용과 국내 내성률을 고려하여 선택적으로 사용
+  * 예방 목적으로 macrolide를 복용 중이면 다른 계열을 선택
+* fluoroquinolone : 중대한 이상반응·내성 선택 및 결핵 진단 지연 위험을 고려하여 다른 적절한 대안이 없을 때만 선택
+* _Pseudomonas_ 위험이 높으면 표준 경구 요법을 그대로 적용하지 않고 배양 결과와 중증도에 맞춰 결정
 
 ### <mark style="color:orange;">전신 스테로이드 - COPD 급성 악화</mark>
 
 * 비폐쇄성 만성 기관지염의 악화에 routine으로 사용하지 않음
 * COPD의 중등도·중증 급성 악화에서 회복 기간과 치료 실패를 줄이기 위해 사용
-* prednisolone : 40 ㎎ **1일 1회** × 5일 <mark style="color:blue;">\[소론도]</mark>; NICE는 30 ㎎ 1일 1회 × 5일 권고 <mark style="color:$info;">\[GOLD 2026; NICE NG115]</mark>
+* prednisolone : 40 ㎎ 1일 1회 × 5일 <mark style="color:blue;">\[소론도]</mark>
+  * NICE는 30 ㎎ 1일 1회 × 5일 권고 <mark style="color:$info;">\[GOLD 2026; NICE NG115]</mark>
 * 혈중 호산구 ≥300/μL를 급성기 전신 스테로이드의 확정적 투여 기준으로 사용하지 않음
 * 5일 단기요법은 일반적으로 감량 없이 종료할 수 있으나, 최근 반복 투여·장기 스테로이드 복용·부신기능저하 위험은 별도 평가
 
