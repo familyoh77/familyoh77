@@ -71,7 +71,7 @@
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** CRB-65 ≥2점 또는 PSI ≥91점  `입원 필요`
+* **(당일)** CRB-65 ≥2점 또는 PSI ≥91점  `입원 평가 필요`
 * **(당일)** 치료 48\~72시간 후에도 뚜렷한 호전이 없음  `치료 실패` `농흉` `진단 오류`
 * CRB-65 1점 또는 PSI 71\~90점이면서 산소화·경구 섭취·돌봄 여건이 불확실함  `중등증 폐렴`
 * 흉부 X선상 다엽 침범 또는 흉막 삼출  `중증 폐렴` `농흉`
@@ -226,8 +226,9 @@ flowchart TD
 
 * PSI는 먼저 50세 이하이면서 주요 동반 질환과 이상 활력징후·의식 변화가 없는 환자를 Class I(최저위험)로 분류하고, 나머지 환자에게 점수를 적용
 * 판정 및 조치
-  * ≤70점(Class I\~II) = 대체로 외래 치료 가능
-  * 71\~90점(Class III) = 외래 또는 관찰·단기 입원 고려
+  * Class I(1단계 임상 선별에 해당) = 대체로 외래 치료 가능
+  * ≤70점(Class II) = 대체로 외래 치료 가능
+  * 71\~90점(Class III) = 관찰·단기 입원 또는 선별적 외래 치료 고려
   * ≥91점(Class IV\~V) = 입원 권장
 * PSI는 CURB-65에 비해 저위험군(외래 치료 가능 환자) 선별에 더 민감하며, 사망률 예측력이 높아 ATS/IDSA 가이드라인에서 우선 권고됨. 다만 계산이 복잡하므로 외래에서는 CRB-65로 초기 선별 후 필요시 PSI를 적용하는 단계적 접근이 실용적
 
@@ -270,7 +271,7 @@ _<mark style="color:$info;">Ref. PSI/PORT Score : https://www.mdcalc.com/psi-por
 
 * amoxicillin 1 g tid <mark style="color:blue;">\[파목신]</mark> (ATS/IDSA 고용량 요법. 국내 허가 기본 용법은 250\~500 ㎎ tid이며 연령·증상에 따라 증감)
 * doxycycline 100 ㎎ bid <mark style="color:blue;">\[모노신]</mark> 단독 요법은 ATS/IDSA의 선택지이나, 국내 지침(2018)은 폐렴구균의 높은 tetracycline 내성을 이유로 단독 요법을 권하지 않음. β-lactam과 respiratory FQ가 모두 부적합한 경우 등에 제한적으로 고려
-* penicillin 알레르기 : 알레르기 유형에 따라 cephalosporin(cefpodoxime, cefuroxime) 또는 respiratory FQ(결핵 가능성 평가 후)를 고려
+* penicillin 알레르기 : 알레르기 유형에 따라 cephalosporin(cefpodoxime, cefuroxime) 또는 respiratory FQ(결핵 가능성 평가 후)를 고려. 단, SJS/TEN·DRESS 등 중증 지연형 반응 병력이 있으면 β-lactam으로 경험적으로 대체하지 않고 전문 평가
 * Macrolide (azithromycin, clarithromycin)는 국내 내성률을 고려하여 경험적 단독 1차 선택에서 제외. 지역 폐렴구균 macrolide 내성률이 ＜25%임이 확인된 경우에만 단독요법 고려. Doxycycline 금기만으로 macrolide 단독요법을 선택하지 않고, penicillin 알레르기·동반 질환·약물 금기를 종합하여 대체 요법 결정
 
 #### <mark style="color:$primary;">동반 질환 있음¹⁾</mark>
@@ -332,7 +333,11 @@ _<mark style="color:$info;">\[CDC]</mark>_
 
 ```mermaid
 flowchart TD
-    A(["항생제 치료 또는 보류<br/>48~72시간 후"]) --> B["임상 반응?"]
+    A(["항생제 치료 또는 보류<br/>48~72시간 후"]) --> P["항생제 투여 여부?"]
+    P -- "보류" --> Q["임상 반응?"]
+    Q -- "호전" --> R["항생제 없이 경과 관찰 지속"]
+    Q -- "호전 없음 / 악화" --> J
+    P -- "투여" --> B["임상 반응?"]
 
     B -- "✅ 명확한 호전<br/>(해열, 증상 개선)" --> C["현 처방 유지"]
     C --> D["임상 안정 기준과<br/>최소 치료 기간 충족?"]
@@ -349,17 +354,16 @@ flowchart TD
     L -- "내성·흡수·용량 문제" --> O["검사 결과와 위험 인자에 따라<br/>표적 조정 또는 입원 치료"]
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 classDef question fill:#fff9c4,stroke:#ffe082
-class B,D,L question
+class P,Q,B,D,L question
 classDef sky fill:#e3f2ff,stroke:#2196f3
 class C,F,G sky
 classDef orange50 fill:#fff3e0,stroke:#e65100
 class N,O orange50
     style E fill:#d0e8ff,stroke:#1a6abf
+    style R fill:#d0e8ff,stroke:#1a6abf
     style M fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 
 ```
-
-> 항생제를 보류한 환자가 호전 중이면 경과 관찰을 지속하고, 호전이 없거나 악화하면 같은 재평가 경로를 따름
 
 <p align="center"><strong>48~72시간 재평가 및 항생제 조정 알고리듬</strong></p>
 
@@ -383,8 +387,8 @@ class N,O orange50
 ### <mark style="color:orange;">해열·진통제</mark>
 
 * acetaminophen 500\~1,000 ㎎ q6\~8h prn <mark style="color:blue;">\[타이레놀]</mark> (서방형은 650 ㎎ 2정 q8h, 1일 최대 6정(3.9 g); 일반 제형 1일 최대 4 g; 고령·간질환·음주자는 감량)
-* ibuprofen 200\~400 ㎎ tid\~qid prn <mark style="color:blue;">\[부루펜]</mark> (금기 : 소화성 궤양·위장관 출혈 또는 그 병력, 아스피린 천식(NSAID 유발 천식) 또는 그 병력, 중증 신장·심장·간기능장애. 고령·경증 신기능 저하에서는 신중 투여)
-* dexibuprofen 300 ㎎ tid prn <mark style="color:blue;">\[애니펜]</mark> (1일 최대 1,200 ㎎; 금기 : 소화성 궤양·위장관 출혈 또는 그 병력, 아스피린 천식(NSAID 유발 천식) 또는 그 병력, 중증 신장·심장·간기능장애. 고령·경증 신기능 저하에서는 신중 투여)
+* ibuprofen 200\~400 ㎎ tid\~qid prn <mark style="color:blue;">\[부루펜]</mark> (금기 : 소화성 궤양·위장관 출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린·다른 NSAID에 대한 천식·두드러기 등 과민반응 병력, 심한 고혈압, 중증 신장·심장·간기능장애. 임신 관련 금기는 제품별로 다르므로 허가사항 확인. 고령·경증 신기능 저하에서는 신중 투여)
+* dexibuprofen 300 ㎎ tid prn <mark style="color:blue;">\[애니펜]</mark> (1일 최대 1,200 ㎎; 금기는 ibuprofen과 같음)
 
 ## <mark style="color:green;">치료에 반응하지 않는 폐렴의 원인</mark>
 
@@ -530,6 +534,10 @@ class N,O orange50
 
 * REMAP-CAP Investigators. Effect of hydrocortisone on mortality in patients with severe community-acquired pneumonia. Intensive Care Med. 2025;51(4):665-680 - 중증 CAP의 hydrocortisone 고정 요법.
 
+* Lee MS et al. Guideline for Antibiotic Use in Adults with Community-acquired Pneumonia. Infect Chemother. 2018;50(2):160-198 - 국내 폐렴구균 내성을 고려한 외래 경험적 항생제 선택(macrolide·tetracycline 단독 요법 비권장).
+
+  https://doi.org/10.3947/ic.2018.50.2.160
+
 * Diehr P et al. Prediction of pneumonia in outpatients with acute cough - a statistical approach. J Chronic Dis. 1984;37(3):215-225 - 외래 폐렴 예측 규칙.
 
   https://pubmed.ncbi.nlm.nih.gov/6699126/
@@ -546,7 +554,9 @@ class N,O orange50
 
   https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html
 
-* 대한감염학회. 성인 폐렴구균 예방접종 권고(2026.5.26 개정) - 65세 이상·19\~64세 고위험군의 PCV21·PCV20·PCV15→PPSV23 선택과 혈청형 4 고려.
+* Song JY et al. Recommendations for Adult Pneumococcal Vaccination in Korea: 2026 Update Incorporating the 21-Valent Pneumococcal Conjugate Vaccine. Infect Chemother. 2026;58(3):291-299 - 65세 이상·19\~64세 고위험군의 PCV21·PCV20·PCV15→PPSV23 선택과 혈청형 4 고려.
+
+  https://doi.org/10.3947/ic.2026.0063
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
