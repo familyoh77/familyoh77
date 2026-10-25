@@ -108,6 +108,30 @@
 ***
 
 ```mermaid
+flowchart TD
+    A(["기침 환자"]) --> B["Red Flags의 즉각 조치<br/>항목에 해당?"]
+    B -- "예" --> C["즉각 조치"]
+    B -- "아니요" ---> D["비정상 활력징후·저산소증<br/>·국소 폐 소견 또는 <br/>기타 위험 소견(객혈<br/>·결핵 위험·면역 저하)?"]
+    D -- "예" --> E["폐렴·결핵 등 평가<br/>흉부 X선 고려"]
+    D -- "아니요" ---> F["기침 기간?"]
+    F -- "성인≥8주/소아＞4주" --> CC["만성 기침 평가"]
+    F -- "성인≥3주,＜8주" --> PIC["아급성 기침<br/>PIC·백일해<br/>·천식 등 감별"]
+    F -- "성인＜3주/소아≤4주" --> G["급성 기침 원인 평가<br/>급성 기관지염 등 고려"]
+    PIC --> PH["백일해 의심?"]
+    PH -- "예" ---> P2["PCR·배양 <br/>± macrolide<br/>접촉자 관리"]
+    PH -- "아니요" --> PIC2["Reassurance·경과 관찰<br/>원인별 선택 치료"]
+    G --> H["특정 치료가 필요한 원인?"]
+    H -- "인플루엔자<br/>·COVID-19" ---> AV["고위험군<br/>·치료 시기 평가<br/>항바이러스제 고려"]
+    H -- "백일해 의심" --> P["PCR <br/>± macrolide<br/>전파 차단<br/>·접촉자 관리"]
+    H -- "없음" --> SUP["대증 치료<br/>항생제 사용 안 함"]
+    SUP --> SX["천명·기류 제한?"]
+    SX -- "예" --> AIR["천식·COPD 평가<br/>해당 지침에 따라 치료"]
+    SX -- "아니요" --> FU["예상 경과<br/>·재진 기준 설명"]
+    classDef question fill:#fff9c4,stroke:#ffe082
+    class B,D,F,H,SX,PH question
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style G fill:#f96,stroke:#e65100,stroke-width:2px
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 ```
 
 <p align="center"><strong>급성 기관지염 진단 및 치료 알고리듬</strong></p>
