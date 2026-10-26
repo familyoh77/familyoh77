@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 호발 연령 : 10\~30세 (특히 12\~18세)
-* 평생 유병률 : 7\~8%
+* 평생 발병 위험 : 7\~8%
 * 사망 위험은 비복잡성 충수염에서 낮으나 천공·패혈증, 고령·쇠약 동반 시 증가하며 환자군과 치료 환경에 따라 달라짐
 * 음성 충수절제율은 임상 양상, 성별·연령 및 영상검사 전략에 따라 달라지며, CT 등 영상검사의 보편화로 과거보다 감소
 
@@ -27,10 +27,10 @@
 
 ### <mark style="color:orange;">복통 양상</mark>
 
-* 배꼽 주위의 막연한 통증으로 시작 → 4\~48시간 경과 후 우하복부(McBurney point)로 이동·악화
+* 배꼽 주위의 막연한 통증으로 시작 → 수시간에 걸쳐 우하복부(McBurney point)로 이동·악화할 수 있음; 이동 시점은 개인차가 커 특정 시간 범위를 진단 기준으로 사용하지 않음
 * 통증은 대체로 지속·진행하며 장산통처럼 뚜렷하게 반복되는 양상은 덜 전형적; 배변 후 일시적 호전만으로 충수염을 배제하지 않음
 * 걷기, 기침, 차량 진동 등 복부 움직임 시 현저하게 악화
-* 전형적인 양상은 환자의 약 50%에서만 나타남
+* 전형적인 증상 조합이 모두 나타나지 않는 경우도 흔하며, 통증 이동·식욕 부진·발열이 없다고 배제하지 않음
 
 ### <mark style="color:orange;">복통 외 증상</mark>
 
@@ -45,8 +45,8 @@
 * 특이 자세 : 앞으로 구부리고 오른쪽으로 기울임, 천천히 움직임, 앙와위에서 오른쪽 무릎을 굴곡하여 배 쪽으로 당김
 * 우하복부(McBurney point) 압통 및 반동 압통
   * 소아 : 반동 압통이 매우 심할 수 있으므로 부드러운 손가락 타진으로 대신
-  * 성인·소아 공통 : Heel drop test(Markle sign, 발뒤꿈치를 들었다가 바닥에 쿵 떨어뜨리게 함) 또는 Bed bump test(검사자가 침대를 살짝 흔듦)가 반동 압통보다 환자 친화적이며 복막 자극 확인에 유용
-* 복근 경직 (voluntary & involuntary guarding)
+  * 보행 가능한 환자에서 기침·가벼운 타진·발뒤꿈치 내리기(Heel drop test, Markle sign)로 복막 자극을 평가할 수 있음. 통증이 심하거나 고령·쇠약·낙상 위험이 있는 환자에게 뜀뛰기나 강한 충격을 요구하지 않으며, 음성 소견만으로 배제하지 않음
+* 복근 방어(guarding) : 통증·불안에 의한 수의적 긴장과 비자발적 방어·경직을 구분; 비자발적 경직은 복막 자극을 시사
 * 복막 자극 징후
 
 <div align="center" data-with-frame="true"><figure><img src="../.gitbook/assets/1999e11c-7c18-43d6-8927-3956c4ed1049.JPG" alt=""><figcaption></figcaption></figure></div>
@@ -55,30 +55,29 @@
 
 ### <mark style="color:orange;">비전형적 양상</mark>
 
-<table><thead><tr><th width="130">아형·대상</th><th>특징</th></tr></thead><tbody><tr><td>Retrocecal appendix</td><td>복통·압통이 덜하고 국소화 어려움; 우측 옆구리 통증, Psoas sign 양성</td></tr><tr><td>Pelvic appendicitis</td><td>전형적인 우하복부 압통이 약하거나 없을 수 있음; 하복부 통증, 요의·변의; 골반·직장 검사 시 압통, Obturator sign 양성</td></tr><tr><td>고령</td><td>증상이 약하고 모호함, 복부 압통 경미; 천공·사망률 높음</td></tr><tr><td>임신</td><td>압통 위치가 다소 상방·외측으로 이동할 수 있으나 임신 후기에도 우하복부 통증이 흔함; 복막 징후와 임상 점수의 진단 정확도가 낮아 검사실검사·영상검사를 적극적으로 시행</td></tr><tr><td>소아 (＜5세)</td><td>오심·구토·발열이 두드러짐; 진단 지연으로 천공률이 높음; 임상 점수가 낮게 나타날 수 있어 점수만으로 배제하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="130">아형·대상</th><th>특징</th></tr></thead><tbody><tr><td>Retrocecal appendix</td><td>복통·압통이 덜하고 국소화 어려움; 우측 옆구리 통증, Psoas sign 양성</td></tr><tr><td>Pelvic appendicitis</td><td>전형적인 우하복부 압통이 약하거나 없을 수 있음; 하복부 통증, 요의·변의; Obturator sign이 양성일 수 있음; 직장수지검사는 충수염 진단을 위해 일률적으로 시행하지 않고 별도 적응증이 있을 때 선택</td></tr><tr><td>고령</td><td>증상이 약하고 모호함, 복부 압통 경미; 천공·사망률 높음</td></tr><tr><td>임신</td><td>압통 위치가 다소 상방·외측으로 이동할 수 있으나 임신 후기에도 우하복부 통증이 흔함; 복막 징후와 임상 점수의 진단 정확도가 낮아 검사실검사·영상검사를 적극적으로 시행</td></tr><tr><td>소아 (＜5세)</td><td>오심·구토·발열이 두드러짐; 진단 지연으로 천공률이 높음; 임상 점수가 낮게 나타날 수 있어 점수만으로 배제하지 않음</td></tr></tbody></table>
 
-###  <mark style="color:$danger;">🚩 Red Flags!</mark>
+## <mark style="color:$danger;">🚩 Red Flags!</mark>
 
-<mark style="color:$danger;">**즉각 이송/응급 평가**</mark> <mark style="color:$danger;">- 천공·복막염 또는 패혈증 징후</mark>
+<mark style="color:$danger;">**즉각 조치**</mark>
 
-* 복부 전반 경직 (board-like rigidity) 및 반동 압통 → 범발성 복막염
-* 고열, 현저한 백혈구증가·CRP 상승, 지속·악화되는 통증 → 복잡성 충수염 가능성 증가
-* 복부 종괴 촉지 → 농양 또는 염증성 종괴 의심
-* 저혈압, 빈맥, 의식 변화 → 패혈성 쇼크
-* 고령·임산부 : 증상이 경미·비전형적이어도 천공·패혈증 위험이 높으므로 임상 의심 시 적극적 평가
+* 복부 전반의 비자발적 경직·반동 압통 → 즉각 응급 이송 및 외과 평가  `범발성 복막염`
+* 저혈압, 빈맥, 의식 변화·말초 관류 저하 → 즉각 응급 이송, 소생술·항생제 및 감염원 조절 평가  `패혈증·쇼크`
 
-<mark style="color:$warning;">**당일 응급 평가·외과 의뢰**</mark>
+* 갑작스러운 심한 하복부 통증·구토 또는 고환 통증·종창 → 즉각 응급 평가·해당 전문과 협진  `난소·고환 염전 의심`
 
-* 국소 복막 자극 징후, 진행성·지속성 우하복부 통증 또는 충수염이 중등도 이상 의심되거나 배제되지 않는 경우
-* 소아(특히 ＜5세)에서의 충수염 의심
-* 임신 중 원인 불명의 우하복부 또는 우측 복통
-* 임상 점수 고위험군(AIR ≥9, Alvarado ≥7 등) - 점수만으로 확진하지 않고 영상·외과 평가
+<mark style="color:$warning;">**당일 평가**</mark>
+
+* 진행·지속되는 우하복부 통증, 국소 복막 자극 또는 충수염을 배제하기 어려운 경우 → 당일 응급 평가·외과 의뢰  `급성 충수염 의심`
+* 고열·현저한 염증수치 상승·악화되는 통증 또는 복부 종괴 → 당일 응급 평가·외과 의뢰; 전신 불안정·범발성 복막 징후가 있으면 즉각 이송  `복잡성 충수염·농양 의심`
+* 고령·임신부·어린 소아(특히 ＜5세)에서 경미하거나 비전형적이어도 충수염이 의심되는 경우 → 당일 응급 평가  `비전형적 충수염`
+* 임신 중 원인 불명의 우측 복통 → 당일 응급·산과 평가  `충수염·산과 응급질환 감별`
+* AIR ≥9, Alvarado ≥7 등 고위험 점수 → 당일 영상·외과 평가; 점수만으로 확진하지 않음  `충수염 고위험`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 임상 점수 저위험군이고 다른 양성 진단이 더 타당하며 활력징후가 안정적인 경우에 한함
-* 12\~24시간 이내 재평가가 가능하고, 통증 악화·우하복부 국소화·발열·구토 발생 시 즉시 응급실을 방문하도록 안전망 교육
-* 충수염을 배제하기 어려우면 점수와 관계없이 당일 의뢰
+* 저위험 점수, 안정된 활력징후, 다른 양성 진단이 더 타당하고 신뢰할 수 있는 추적이 가능한 경우 → 12\~24시간 내 재평가  `저위험 복통`
+* 추적 중 통증 악화·우하복부 국소화·발열·지속 구토 → 즉시 응급실 방문; 충수염을 배제하기 어려우면 최초 점수와 관계없이 당일 의뢰  `진행성 복통`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -115,8 +114,8 @@
 
 #### <mark style="color:$primary;">실험실 검사</mark>
 
-* CBC (WBC 1\~2만, neutrophilia), 전해질, 간기능, CRP, 소변검사 (¼에서 혈뇨·농뇨)
-* 가임기 여성 β-hCG 필수 (자궁외임신 감별)
+* CBC·백혈구 감별계산, CRP; 상태에 따라 전해질·신기능·간기능·소변검사. 백혈구증가·호중구증가가 흔하지만 정상 또는 낮은 수치도 가능. 경미한 혈뇨·농뇨가 있어도 충수염을 배제하거나 요로감염으로 단정하지 않음
+* 임신 가능성이 있는 환자에서 소변 또는 혈청 β-hCG 확인 (자궁외임신 감별 및 영상 선택); 패혈증 의심 시 젖산·혈액배양 등을 추가하되 소생술·항생제 투여를 지연하지 않음
 
 #### <mark style="color:$primary;">영상 검사</mark>
 
@@ -127,9 +126,11 @@
 
 ### <mark style="color:orange;">감별</mark>
 
-<table><thead><tr><th width="122">질환</th><th width="446.8421630859375">주요 감별 포인트</th><th>핵심 검사</th></tr></thead><tbody><tr><td>Renal colic</td><td>심한 허리·하복부 통증, 서혜부 방사통; 혈뇨; 발작성</td><td>소변검사, CT</td></tr><tr><td>Gastro-enteritis</td><td>설사가 두드러지고 통증이 광범위함; 구토·설사가 복통보다 먼저 나타날 수 있음</td><td>임상 진단</td></tr><tr><td>Ectopic pregnancy</td><td>무월경·불규칙 출혈, 골반통; 임신 가능성이 있으면 증상 양상과 관계없이 배제</td><td>β-hCG, 골반 초음파</td></tr><tr><td>Ovarian torsion</td><td>갑작스럽고 심한 하복부(우측 또는 좌측) 통증과 동시에 현저한 구토; 복부·골반 종괴</td><td>골반 초음파</td></tr><tr><td>Ovarian cyst rupture</td><td>월경 주기 중간(여포낭종) 또는 후반부(황체낭종)에 갑작스러운 하복부 통증; 복강 내 출혈 시 어깨 방사통·혈역학적 불안정 가능</td><td>골반 초음파, β-hCG (자궁외임신 배제)</td></tr></tbody></table>
+<table><thead><tr><th width="122">질환</th><th width="446.8421630859375">주요 감별 포인트</th><th>핵심 검사</th></tr></thead><tbody><tr><td>Renal colic</td><td>심한 허리·하복부 통증, 서혜부 방사통; 혈뇨; 발작성</td><td>소변검사, CT</td></tr><tr><td>Gastro-enteritis</td><td>설사가 두드러지고 통증이 광범위함; 구토·설사가 복통보다 먼저 나타날 수 있음</td><td>임상 진단</td></tr><tr><td>Ectopic pregnancy</td><td>무월경·불규칙 출혈, 골반통; 임신 가능성이 있으면 증상 양상과 관계없이 배제</td><td>β-hCG, 골반 초음파</td></tr><tr><td>Ovarian torsion</td><td>갑작스럽고 심한 하복부(우측 또는 좌측) 통증과 동시에 현저한 구토; 복부·골반 종괴</td><td>골반 초음파·도플러; 혈류가 보이더라도 염전을 배제할 수 없음</td></tr><tr><td>Ovarian cyst rupture</td><td>월경 주기 중간(여포낭종) 또는 후반부(황체낭종)에 갑작스러운 하복부 통증; 복강 내 출혈 시 어깨 방사통·혈역학적 불안정 가능</td><td>골반 초음파, β-hCG (자궁외임신 배제)</td></tr></tbody></table>
 
-<table><thead><tr><th width="191">질환</th><th>감별 포인트</th></tr></thead><tbody><tr><td>Epiploic appendagitis</td><td>이동 없는 국소 복통·압통; 소화기 증상 없음; 실험실 정상</td></tr><tr><td>Mesenteric adenitis</td><td>최근 상기도 감염 병력 흔함; 발열·WBC 상승 동반 가능; 압통 위치가 체위에 따라 이동할 수 있음(Klein's sign)</td></tr><tr><td>Pyelonephritis</td><td>심한 옆구리 통증, 고열; 농뇨·세균뇨; 복부 경직 없음</td></tr><tr><td>급성 췌장염</td><td>상복부 통증·등 방사통, 구역·구토; lipase 상승 등으로 감별</td></tr><tr><td>Crohn disease</td><td>증상 반복; 설사 흔함; 관절·피부·안구 장외 증상</td></tr><tr><td>Cholecystitis</td><td>우상복부 통증·발열; 우측 어깨 방사통; LFT·bilirubin ↑</td></tr><tr><td>Meckel diverticulitis</td><td>충수염과 유사한 우하복부 통증·염증 소견; 출혈이 선행하지 않아도 발생하며 증상·징후만으로 구별 어려움</td></tr><tr><td>Cecal diverticulitis</td><td>증상·징후만으로 구별하기 어려우며 CT로 감별</td></tr><tr><td>Sigmoid diverticulitis</td><td>고령; 배변 습관 변화; 치골 상부 방사통; 발열·WBC ↑</td></tr><tr><td>Small bowel obstruction</td><td>복부 수술 병력; 심한 발작성 복통; 담즙성 구토·복부 팽만</td></tr><tr><td>Acute salpingitis/TOA</td><td>하복부에서 시작하는 지속 복통; 성병 병력; 질 분비물; 자궁경부 압통</td></tr></tbody></table>
+<table><thead><tr><th width="191">질환</th><th>감별 포인트</th></tr></thead><tbody><tr><td>Epiploic appendagitis</td><td>이동 없는 국소 복통·압통; 소화기 증상·전신 염증 소견이 비교적 적음; CT로 확인</td></tr><tr><td>Mesenteric adenitis</td><td>최근 상기도 감염 병력 흔함; 발열·WBC 상승 동반 가능; 초음파·CT에서 정상 충수를 확인하고 다른 원인을 배제하여 판단; 림프절 비대만으로 충수염을 배제하지 않음</td></tr><tr><td>Pyelonephritis</td><td>심한 옆구리 통증, 고열; 농뇨·세균뇨; 복막 자극은 비전형적이나 신체 소견만으로 배제하지 않음</td></tr><tr><td>급성 췌장염</td><td>상복부 통증·등 방사통, 구역·구토; lipase 상승 등으로 감별</td></tr><tr><td>Crohn disease</td><td>증상 반복; 설사 흔함; 관절·피부·안구 장외 증상</td></tr><tr><td>Cholecystitis</td><td>우상복부 통증·발열; 우측 어깨 방사통; LFT·bilirubin ↑</td></tr><tr><td>Meckel diverticulitis</td><td>충수염과 유사한 우하복부 통증·염증 소견; 출혈이 선행하지 않아도 발생하며 증상·징후만으로 구별 어려움</td></tr><tr><td>Cecal diverticulitis</td><td>증상·징후만으로 구별하기 어려우며 CT로 감별</td></tr><tr><td>Sigmoid diverticulitis</td><td>고령; 배변 습관 변화; 치골 상부 방사통; 발열·WBC ↑</td></tr><tr><td>Small bowel obstruction</td><td>복부 수술 병력; 심한 발작성 복통; 담즙성 구토·복부 팽만</td></tr><tr><td>Acute salpingitis/TOA</td><td>하복부에서 시작하는 지속 복통; 성병 병력; 질 분비물; 자궁경부 운동통·부속기 압통; 성병 병력이 없어도 가능</td></tr></tbody></table>
+
+* 남아·청소년의 하복부 통증에서는 고환 통증 호소가 없어도 필요 시 서혜부·음낭을 진찰하여 고환염전을 감별
 
 ***
 
@@ -176,6 +177,12 @@ graph TD
 **급성 충수염 - 외과적 응급 질환** : 충수염 가능성이 중등도 이상이거나 배제가 어려운 경우 당일 응급 평가·외과 협진. 1차 진료에서는 조기 인지, 금식, 적절한 진통·필요 시 수액 및 신속한 의뢰가 핵심. 항생제 단독 치료는 영상으로 비복잡성을 확인한 후 외과·응급의학과와 협의하여 병원 기반 프로토콜로 시행
 {% endhint %}
 
+### <mark style="color:orange;">비-약물 치료 및 초기 처치</mark>
+
+* 금식, 활력징후·관류·탈수 평가 및 필요 시 정맥 결정질 수액. 진통을 제공하고 검사·의뢰가 지연되지 않도록 함
+* 충수염 의심 복통을 변비로 간주하여 하제·관장을 시행하지 않음
+* 충수염의 일차 예방으로 입증된 약물·식이요법은 없음
+
 ### <mark style="color:orange;">수술 치료</mark>
 
 * 긴급 수술·감염원 조절 대상 : 범발성 복막염, 혈역학적 불안정·패혈증, 자유 천공 또는 비수술적 치료 실패. 임상 점수 자체는 수술 적응증이 아님
@@ -192,16 +199,18 @@ graph TD
 
 #### <mark style="color:$primary;">수술 전후 항생제</mark>
 
-* 수술 전 그람음성균·혐기성균을 포함하는 예방적 항생제를 투여하며, 수술기관의 프로토콜을 따름
+* 수술 전 장내 그람음성균·혐기성균을 포함하는 항생제를 투여. 비복잡성에서는 일반적으로 절개 전 60분 이내 예방적 단회 투여하며, 복잡성·패혈증에서는 치료적 항생제를 조기에 시작하고 수술 시 투여 간격을 확인
 * 성인 비복잡성 충수염 : 충수절제 후 항생제를 일률적으로 지속하지 않음
 * 성인 복잡성 충수염 : 충분한 감염원 조절 후에는 통상 2\~3일의 짧은 수술 후 항생제 치료를 고려. 감염원 조절이 불충분하거나 임상 호전이 없으면 잔여 농양·지속 감염을 재평가하며 단순히 기간만 연장하지 않음 <mark style="color:$info;">[WSES 2025; published 2026]</mark>
-* 소아는 소아외과 프로토콜에 따라 결정하며 성인 권고를 그대로 적용하지 않음
+* 소아도 비복잡성 충수절제 후 항생제를 일률적으로 지속하지 않음. 복잡성의 약제·용량·기간 및 경구 전환은 소아외과 프로토콜에 따라 결정
 
 ### <mark style="color:orange;">비수술적 치료 (항생제 치료)</mark>
 
 * 비수술적 치료 근거 : 선택된 비복잡성 성인 충수염에서 항생제 치료는 수술의 대안이 될 수 있음. CODA trial에서 항생제군의 90일 충수절제율은 29%(appendicolith 동반 41%, 미동반 25%), APPAC trial의 5년 누적 재발률은 39.1%였음. 10년 추적에서는 조직학적으로 확인한 재발률 37.8%, 누적 충수절제율 44.3%가 보고됨. 5년·10년 수치는 재발 정의·분모가 달라 단순 시계열로 비교하지 않으며, 연구 간에도 대상자·결과 정의를 구분하여 실패·재발 및 추후 수술 가능성을 설명 <mark style="color:$info;">[APPAC 2018; APPAC 10-year follow-up 2026]</mark>
 
 * 소아 : 성인 비수술 치료 결과를 그대로 일반화하지 않음. 5\~16세 대상 2025년 RCT에서 1년 치료 실패는 항생제군 34%, 수술군 7%로 항생제의 비열등성이 입증되지 않음. 항생제군은 주로 추후 충수절제, 수술군은 주로 음성 충수절제가 실패로 집계되어 합병증률과 동일한 지표가 아님. 소아외과에서 선별·상담하여 결정 <mark style="color:$info;">[St Peter et al. Lancet 2025]</mark>
+
+* 2026년 APAC RCT(7\~17세, 영상 확진·충수결석 없는 단순 충수염)에서는 1년 합병증이 비수술군 9.3%, 수술군 8.6%였고 비수술군 약 70%가 수술을 피함. 그러나 사전 비열등성 한계(5%p)를 충족하지 못했으므로 두 치료의 동등성을 입증한 결과로 해석하지 않음. 2025년 시험의 ‘치료 실패’와 이 시험의 ‘합병증’은 서로 다른 결과 지표임  <mark style="color:$info;">[van Amstel et al. BMJ Med 2026]</mark>
 
 **수술 vs. 항생제 치료 비교 (Shared Decision Making)**
 
@@ -226,14 +235,19 @@ graph TD
 * 임신 중 비수술 치료는 근거가 부족하여 일반적으로 권하지 않음
 * 농양·phlegmon은 비복잡성 충수염의 항생제 단독 근치 치료 대상에서는 제외되지만, 안정적인 복잡성 충수염의 별도 비수술 초기 관리 대상이 될 수 있음
 
-#### <mark style="color:$primary;">**항생제 프로토콜**</mark>
+### <mark style="color:orange;">약물 치료 — 항생제 프로토콜</mark>
 
 * 영상 확진 후 외과·응급의학과에서 시행하는 병원 기반 치료. 경험적 항생제는 지역 내성률, 중증도, 최근 항생제·의료기관 노출, 알레르기 및 신기능에 따라 선택
+* 아래 용량은 정상 신기능 성인 기준의 임상 프로토콜 예이며 소아·임신부에 그대로 적용하지 않음. 신기능·체중·간기능과 제품별 허가사항에 따라 조정
 * 기존 주요 임상시험은 초기 IV 후 경구 전환하여 총 7\~10일을 주로 사용했으나 최적 약제·기간에 단일 표준은 없음. 퇴원 처방은 입원 중 투여일을 포함한 총 치료기간으로 계산
 
-<table><thead><tr><th width="150">상황</th><th width="272.6314697265625">예시 약제</th><th>용량·용법</th></tr></thead><tbody><tr><td>비복잡성<br>초기 IV</td><td>ceftriaxone + metronidazole</td><td>ceftriaxone 2 g qd IV +<br>metronidazole 500 ㎎ q8h IV</td></tr><tr><td>대안</td><td>ampicillin-sulbactam <mark style="color:blue;">[유나신]</mark></td><td>3 g q6h IV<br>단, 지역 <em>E. coli</em> 감수성이 뒷받침될 때 사용</td></tr><tr><td>복잡성·중증</td><td>piperacillin-tazobactam 등</td><td>4.5 g q6~8h IV 등 병원 프로토콜<br>ESBL 감염이 의심·확인된 중환자에서는 meropenem 또는 imipenem-cilastatin 우선 고려</td></tr><tr><td>안정적이며 ESBL 위험이 있는 경우</td><td>ertapenem <mark style="color:blue;">[인반즈]</mark></td><td>1 g qd IV, 선택적 사용<br>중환자·저알부민혈증에서는 다른 carbapenem 우선 고려</td></tr><tr><td>경구 전환</td><td>amoxicillin-clavulanate <mark style="color:blue;">[오구멘틴]</mark></td><td>625 ㎎ tid, 식사 시작 때<br>입원 중 투여기간을 포함하여 총 기간 결정</td></tr><tr><td>중증 β-lactam 알레르기</td><td>ciprofloxacin + metronidazole</td><td>ciprofloxacin 500 ㎎ bid + metronidazole 500 ㎎ tid<br>지역 fluoroquinolone 내성률·금기·이상반응 확인</td></tr></tbody></table>
+<table><thead><tr><th width="150">상황</th><th width="272.6314697265625">예시 약제</th><th>용량·용법</th></tr></thead><tbody><tr><td>비복잡성<br>초기 IV</td><td>ceftriaxone + metronidazole</td><td>ceftriaxone 2 g qd IV +<br>metronidazole 500 ㎎ q8h IV</td></tr><tr><td>대안</td><td>ampicillin-sulbactam <mark style="color:blue;">[유나신]</mark></td><td>3 g q6h IV<br>단, 지역 <em>E. coli</em> 감수성이 뒷받침될 때 사용</td></tr><tr><td>복잡성·중증</td><td>piperacillin-tazobactam 등</td><td>4.5 g q6h IV 등 병원 프로토콜<br>q8h 연장주입 요법은 주입시간·신기능을 포함한 기관 프로토콜에 따름<br>ESBL 감염이 의심·확인된 중환자에서는 meropenem 또는 imipenem-cilastatin 우선 고려</td></tr><tr><td>안정적이며 ESBL 위험이 있는 경우</td><td>ertapenem <mark style="color:blue;">[인반즈]</mark></td><td>1 g qd IV, 선택적 사용<br>중환자·저알부민혈증에서는 다른 carbapenem 우선 고려</td></tr><tr><td>경구 전환</td><td>amoxicillin-clavulanate <mark style="color:blue;">[오구멘틴]</mark></td><td>500/125 ㎎(총 625 ㎎) tid, 식사 시작 때<br>임상 호전·경구 섭취 가능 및 감수성 자료가 뒷받침될 때 선택; 입원 중 투여기간 포함</td></tr><tr><td>중증 β-lactam 알레르기</td><td>ciprofloxacin + metronidazole</td><td>ciprofloxacin 500 ㎎ bid + metronidazole 500 ㎎ tid<br>지역 fluoroquinolone 내성률·금기·이상반응 확인</td></tr></tbody></table>
 
-<mark style="color:$info;">ESBL 감염의 중환자·저알부민혈증에서 ertapenem 사용 제한 [IDSA AMR Guidance].</mark>
+* amoxicillin/clavulanate는 지역 장내세균 감수성 또는 배양 결과가 뒷받침되어야 하며 모든 비수술 환자의 기본 경구약으로 간주하지 않음. β-lactam 중증 과민반응 또는 이 약에 의한 황달·간장애 병력이 있으면 사용하지 않음
+* ciprofloxacin은 국내 장내세균의 fluoroquinolone 내성을 고려하여 감수성이 뒷받침될 때 제한적으로 사용. 중증 지연형 β-lactam 반응은 별도 전문 평가가 필요하며, 단순 경증 발진 병력을 일괄 ‘중증 알레르기’로 분류하지 않음
+* 복잡성 감염으로 수술·배액 시 복강 내 검체 배양을 고려하여 항생제 축소·변경에 활용. 비복잡성 수술에서 일률적인 배양은 필요하지 않음  <mark style="color:$info;">[IDSA 2024]</mark>
+
+<mark style="color:$info;">ESBL 감염의 중환자·저알부민혈증에서는 ertapenem보다 meropenem 또는 imipenem-cilastatin을 우선 고려 [IDSA AMR Guidance].</mark>
 
 ### <mark style="color:orange;">수술 후 외래 관리</mark>
 
@@ -265,16 +279,16 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 > 오구멘틴 625 ㎎/T  1T  tid  식사 시작 때  × 퇴원 계획에 따른 잔여 치료기간
 > ```
 >
-> _✽영상으로 비복잡성 충수염을 확인하고 외과·응급의학과에서 비수술 치료를 결정한 환자의 연속 처방 예. 입원 중 항생제 투여기간을 포함하여 총 치료기간을 계산하고, 퇴원 시 지정한 약제·기간을 따름. 중증 β-lactam 알레르기 시 ciprofloxacin 500 ㎎ bid + metronidazole [후라시닐] 500 ㎎ tid를 고려할 수 있으나 지역 내성률·금기·이상반응을 확인. 증상 악화 시 즉시 재내원_
+> _✽영상으로 비복잡성 충수염을 확인하고 외과·응급의학과에서 비수술 치료를 결정한 환자의 연속 처방 예. 입원 중 항생제 투여기간을 포함하여 총 치료기간을 계산하고, 퇴원 시 지정한 약제·기간을 따름. 오구멘틴은 감수성 자료가 뒷받침될 때 사용하며, β-lactam 중증 과민반응 또는 해당 약에 의한 황달·간장애 병력이 있으면 사용하지 않음. 중증 β-lactam 알레르기 시 ciprofloxacin 500 ㎎ bid + metronidazole [후라시닐 250 ㎎/T, 1회 2T] 500 ㎎ tid는 감수성이 뒷받침될 때 병원에서 결정하는 대안이며 임의로 전환하지 않음. 증상 악화 시 즉시 재내원_
 
 > **처방례 2. 수술 후 통증 관리 (경증-중등도)**
 >
 > ```
-> 이부프로펜 400 ㎎/T  1T  tid  pc  × 3~5일
+> 부루펜 400 ㎎/T  1T  tid  pc  prn  × 최대 3~5일
 > 타이레놀 500 ㎎/T  1~2T  tid  prn  (4~6시간 간격, 통상 1일 최대 3 g)
 > ```
 >
-> _✽NSAID와 acetaminophen은 필요 시 함께 또는 시간차를 두고 사용 가능. 고령·저체중·영양불량·간질환·과음 환자는 acetaminophen 최대용량을 더 낮추며, 다른 복합제에 포함된 동일 성분의 중복을 확인. NSAID는 위장관 출혈·신기능 저하·심혈관질환 위험과 금기를 확인_
+> _✽NSAID와 acetaminophen은 필요 시 함께 또는 시간차를 두고 사용 가능. 고령·저체중·영양불량·간질환·과음 환자는 acetaminophen 최대용량을 더 낮추며, 다른 복합제에 포함된 동일 성분의 중복을 확인. 부루펜은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응, 심한 간·신장·심장기능부전·고혈압, 임신 말기 3개월 등 국내 허가 금기를 확인. 탈수·급성 신손상이 있으면 피하며, 임신 20주 이후에는 태아 신기능 저하·양수과소증 위험으로 원칙적으로 피함. 최저 유효용량을 최단기간 사용_
 >
 > _✽예상보다 심하거나 증가하는 수술 후 통증은 진통제 추가보다 출혈·농양·상처 합병증 등을 먼저 평가. Opioid가 필요하면 수술기관의 퇴원 계획에 따르고 변비·오심·졸림·낙상 위험과 acetaminophen 중복을 확인_
 
@@ -284,7 +298,7 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 > 타이레놀 500 ㎎/T  1~2T  prn  (4~6시간 간격, 통상 1일 최대 3 g)
 > ```
 >
-> _✽충수염 의심 시 금식하고 신속히 의뢰한다. 경구약은 구토·흡인 위험 및 수술 가능성을 고려하여 필요한 경우에만 소량의 물과 투여하며, 경구 투여가 부적절하면 비경구 진통을 고려한다. 진통제 투여 때문에 평가·이송을 지연하지 않으며, 구토·탈수 시 필요하면 정맥 수액을 시작_
+> _✽충수염 의심 시 금식하고 신속히 의뢰함. 경구약은 구토·흡인 위험 및 수술 가능성을 고려하여 필요한 경우에만 소량의 물과 투여하며, 경구 투여가 부적절하면 비경구 진통을 고려함. 진통제 투여 때문에 평가·이송을 지연하지 않으며, 구토·탈수 시 필요하면 정맥 수액을 시작_
 
 ***
 
@@ -295,6 +309,7 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 > 1. 항생제는 임의로 기간을 늘리거나 줄이지 말고 **퇴원 시 정해진 용량과 기간대로** 복용하십시오.
 > 2. amoxicillin/clavulanate는 위장 불편을 줄이기 위해 **식사 시작 때** 복용하십시오. 약제별 복용법은 퇴원 안내를 따르십시오.
 > 3. 설사, 복통, 구역이 심해지거나 발열이 다시 오르면 즉시 내원하십시오.
+> 4. 메트로니다졸을 처방받았다면 치료 중 및 마지막 복용 후 3일간 음주를 피하십시오. 호흡곤란·입술이나 목의 부종·심한 발진이 나타나면 복용을 중단하고 즉시 응급진료를 받으십시오.
 
 > **소염진통제 복용 안내 (수술 후 통증 관리)**
 >
@@ -328,7 +343,7 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 
 #### <mark style="color:$primary;">치료는 어떻게 받나요?</mark>
 
-* **수술 치료 (표준)** : 대부분 복강경(작은 구멍 3개)으로 충수를 제거합니다. 회복이 빠르고 합병증이 적습니다.
+* **수술 치료 (표준)** : 대부분 복강경(복부에 작은 절개를 내는 방법)으로 충수를 제거합니다. 회복이 빠르고 합병증이 적습니다.
 * **항생제 치료 (선택적)** : CT 등으로 단순 충수염을 확인한 일부 환자는 항생제만으로 치료할 수 있습니다. 초기 치료가 실패하거나 나중에 재발하여 수술이 필요할 수 있으며, 충수결석(appendicolith)이 있으면 실패·합병증 위험이 더 높습니다.
 * 충수 주변에 농양이 생겨 항생제·배액으로 먼저 치료한 경우에는 추후 영상검사·대장검사 또는 충수절제술이 필요할 수 있으므로 외과의 추적 계획을 따르십시오.
 * 어떤 치료를 선택하든 의사와 충분히 상의하십시오.
@@ -377,7 +392,7 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 
   [https://doi.org/10.1001/jama.2018.13201](https://doi.org/10.1001/jama.2018.13201)
 
-* Salminen P, et al. Antibiotic Therapy for Uncomplicated Acute Appendicitis: Ten-Year Follow-Up of the APPAC Randomized Clinical Trial. JAMA. 2026. - 10년 조직학적 재발률과 누적 충수절제율의 구분
+* Salminen P, et al. Antibiotic Therapy for Uncomplicated Acute Appendicitis: Ten-Year Follow-Up of the APPAC Randomized Clinical Trial. JAMA. 2026;335:1041–1049. - 10년 조직학적 재발률과 누적 충수절제율의 구분
 
   [https://doi.org/10.1001/jama.2025.25921](https://doi.org/10.1001/jama.2025.25921)
 
@@ -388,6 +403,14 @@ K37 상세불명의 충수염 - 급성·만성 여부가 명시되지 않은 경
 * IDSA. Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections. - ESBL 감염에서 중증도·저알부민혈증에 따른 carbapenem 선택
 
   [https://www.idsociety.org/practice-guideline/amr-guidance/](https://www.idsociety.org/practice-guideline/amr-guidance/)
+
+* van Amstel P, et al. Non-operative treatment strategy versus surgery for children with simple appendicitis: non-inferiority randomised controlled trial. BMJ Med. 2026;5:e002466. - APAC 소아 시험; 합병증 비열등성 미입증 및 수술 회피 결과
+
+  [https://doi.org/10.1136/bmjmed-2025-002466](https://doi.org/10.1136/bmjmed-2025-002466)
+
+* ACOG Committee Opinion No. 783. Adnexal Torsion in Adolescents. 2019. - 도플러 혈류가 보이더라도 난소염전 배제 불가
+
+  [https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents)
 
 ### 허가·급여 확인 자료
 
