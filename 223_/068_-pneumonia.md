@@ -2,19 +2,22 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 적용 범위 : 이하 항생제·중증도·치료 기간 권고는 주로 면역정상 성인의 지역사회획득폐렴(CAP)에 적용. 소아, 중증 면역저하자 및 병원획득폐렴은 별도 지침에 따라 평가·치료
-* 폐렴은 감염에 의해 terminal bronchiole 이하 폐 실질에 염증과 새로운 침윤이 발생하는 질환. 약물·방사선·과민반응 등에 의한 비감염성 폐장염(pneumonitis)과 구분
-* 경과 : 적절히 치료해도 증상별 회복 속도가 다름. 발열은 대개 1주 이내 호전하지만 기침·호흡 곤란은 수 주, 피로는 수개월 지속될 수 있으며 영상학적 음영 소실은 임상 증상보다 늦음
-* 재발성 폐렴 : 각 발병 사이 임상적·영상학적 호전이 확인된 별개의 폐렴이 반복되는 경우. 동일 부위 반복 시 기관지 폐쇄·이물·종양, 서로 다른 부위 반복 시 흡인·면역 저하·기관지확장증 등을 평가
+* 이하 항생제·중증도·치료 기간 권고는 주로 정상 면역 성인의 지역사회획득폐렴(CAP)에 적용
+  * 소아, 중증 면역저하자 및 병원획득폐렴은 별도 지침에 따라 평가·치료
+* 폐렴 : 감염에 의해 terminal bronchiole 이하 폐 실질에 염증과 새로운 침윤이 발생하는 질환
+  * 약물·방사선·과민반응 등에 의한 비감염성 폐장염(pneumonitis)과 구분
+* 경과 : 적절히 치료해도 증상별 회복 속도가 다름. 발열은 대개 1주 이내 호전하지만 기침·호흡 곤란은 수 주, 피로는 수개월 지속될 수 있으며, 영상학적 음영 소실은 임상 증상보다 늦음
+* 재발성 폐렴 : 각 발병 사이 임상적·영상학적 호전이 확인된 별개 폐렴의 반복
+  * 동일 부위 반복 시 기관지 폐쇄·이물·종양, 서로 다른 부위 반복 시 흡인·면역 저하·기관지확장증 등을 평가
 
 {% hint style="info" %}
-성인 CAP에서는 바이러스의 역할이 커졌지만 세균성 폐렴, 특히 _S. pneumoniae_는 여전히 중요한 원인임. 바이러스 검사 양성만으로 세균 동시감염을 배제할 수 없으며, 항생제 필요성은 치료 장소·중증도·동반 질환과 세균 감염 가능성을 함께 판단함. 일시적으로 호전된 뒤 발열·호흡기 증상이 다시 악화되면 2차 세균성 폐렴을 고려
+성인 CAP에서는 바이러스의 역할이 커졌지만 세균성 폐렴, 특히 _S. pneumonia&#x65;_&#xB294; 여전히 중요한 원인임. 바이러스 검사 양성만으로 세균 동시 감염을 배제할 수 없으며, 항생제 필요성은 치료 장소·중증도·동반 질환과 세균 감염 가능성을 함께 판단함. 일시적으로 호전된 뒤 발열·호흡기 증상이 다시 악화되면 2차 세균성 폐렴을 고려
 {% endhint %}
 
 ## <mark style="color:green;">원인</mark>
 
-* 바이러스 감염 : 검사법과 유행 시기에 따라 검출 비율이 크게 달라짐
-  * influenza, adenovirus, parainfluenza, coronavirus (SARS-CoV-2 포함), RSV
+* 바이러스 감염 : influenza, adenovirus, parainfluenza, coronavirus (SARS-CoV-2 포함), RSV
+  * 성인 CAP에서 바이러스가 검출되는 환자 비율은 검사법(특히 다중 PCR 사용 여부)에 따라, 바이러스 종류별 비중은 유행 시기에 따라 크게 달라짐
 * 세균 감염
   * 전형적 세균 : _S. pneumoniae_, _H. influenzae_, _S. aureus_, GAS, _M. catarrhalis_
   * 비전형적 세균 : _Legionella_ sp., _M. pneumoniae_, _C. pneumoniae_
@@ -22,7 +25,7 @@
 
 ### <mark style="color:orange;">상황별 주요 원인 세균</mark>
 
-<table><thead><tr><th width="230">상황</th><th>주요 원인균·해석</th></tr></thead><tbody><tr><td>COPD, 흡연</td><td><em>S. pneumoniae</em>, <em>H. influenzae</em>, <em>M. catarrhalis</em>. COPD·흡연만으로 녹농균 위험군으로 분류하지 않음</td></tr><tr><td>기관지확장증, 과거 녹농균 호흡기 분리력</td><td><em>P. aeruginosa</em> 가능성 증가</td></tr><tr><td>인플루엔자 후 악화</td><td><em>S. pneumoniae</em>, <em>S. aureus</em> 등 2차 세균성 폐렴</td></tr><tr><td>오염된 급수·배관·냉각탑 에어로졸 노출, 여행</td><td><em>Legionella</em></td></tr><tr><td>흡인 위험·불량한 치아 위생</td><td>일반 CAP 원인균과 구강 내 혼합 세균. 폐농양·농흉 시 혐기성균 고려</td></tr><tr><td>보호시설 거주</td><td>보호시설 거주만으로 MRSA·녹농균 광범위 치료를 결정하지 않고 과거 분리력·최근 입원 및 비경구 항생제 투여력을 확인</td></tr></tbody></table>
+<table><thead><tr><th width="211">상황</th><th>주요 원인균·해석</th></tr></thead><tbody><tr><td>COPD, 흡연</td><td><em>S. pneumoniae</em>, <em>H. influenzae</em>, <em>M. catarrhalis</em>. COPD·흡연만으로 녹농균 위험군으로 분류하지 않음</td></tr><tr><td>기관지확장증, 과거 녹농균 호흡기 분리력</td><td><em>P. aeruginosa</em> 가능성 증가</td></tr><tr><td>인플루엔자 후 악화</td><td><em>S. pneumoniae</em>, <em>S. aureus</em> 등 2차 세균성 폐렴</td></tr><tr><td>오염된 급수·배관·냉각탑 에어로졸 노출, 여행</td><td><em>Legionella</em></td></tr><tr><td>흡인 위험·불량한 치아 위생</td><td>일반 CAP 원인균과 구강 내 혼합 세균. 폐농양·농흉 시 혐기성균 고려</td></tr><tr><td>보호시설 거주</td><td>보호시설 거주만으로 MRSA·녹농균 광범위 치료를 결정하지 않고 과거 분리력·최근 입원 및 비경구 항생제 투여력을 확인</td></tr></tbody></table>
 
 {% hint style="info" %}
 **흡인 후 항생제 선택** : 위 내용물의 급성 흡인에 의한 화학적 흡인성 폐장염은 24\~48시간 내 지지 치료만으로 호전할 수 있어 일률적인 항생제가 필요하지 않음. 감염성 흡인성 폐렴에는 표준 CAP 항생제를 사용하고, 폐농양·농흉이 의심되는 경우에만 추가 혐기성균 치료를 고려
@@ -44,13 +47,14 @@
 * 전신 : 빈맥, 발열, 피로, 두통, 근육통
   * 고령에서는 발열 등의 임상 증상이 뚜렷하지 않을 수 있음
 
-### <mark style="color:orange;">임상 양상에 따른 원인 추정의 한계</mark>
+#### <mark style="color:$primary;">임상 양상에 따른 원인 추정의 한계</mark>
 
-* 급격한 고열·화농성 가래·국소 crackle은 세균성 폐렴을, 마른기침·두통·근육통·초기 청진 소견의 부재는 바이러스 또는 비전형적 세균을 시사할 수 있음
-* 그러나 임상 양상만으로 전형적 세균·비전형적 세균·바이러스를 신뢰성 있게 구별할 수 없으므로, 이를 단독으로 항생제 계열 선택의 기준으로 사용하지 않음
+* 급격한 고열·화농성 가래·국소 crackle은 세균성 폐렴을 시사
+* 마른기침·두통·근육통과 함께 초기에 청진 이상이 없거나 경미한 경우(영상 소견에 비해 청진 소견이 적음)는 바이러스 또는 비전형적 세균을 시사
+* 임상 양상만으로 전형적 세균·비전형적 세균·바이러스를 신뢰성 있게 구별할 수 없으며, 이를 단독으로 항생제 계열 선택의 기준으로 사용하지 않음
 * 경험적 항생제는 치료 장소와 중증도, 동반 질환, 최근 항생제 사용, 지역 내성, MRSA·녹농균 위험 인자, 바이러스 검사 결과와 약물 금기를 종합하여 선택
 
-### <mark style="color:orange;">마이코플라스마 폐렴</mark>
+#### <mark style="color:$primary;">마이코플라스마 폐렴</mark>
 
 * 마른기침, 가벼운 인두염, 미열, 오한, 설사 등 가벼운 증상으로 시작
 * 호흡 곤란은 드묾, 초기에 청진 소견이 뚜렷하지 않음
@@ -63,26 +67,26 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 호흡수 ≥30/분, 늑간 함몰, 청색증  `중증 폐렴` `호흡 부전`
-* SpO₂ ＜90% (＜92%도 주의)  `저산소혈증`
-* 수축기혈압 ＜90 ㎜Hg 또는 심박수 ≥125/분  `패혈증` `패혈성 쇼크`
-* 의식 저하 또는 혼란  `중증 폐렴` `패혈증`
-* 치료 중 호흡 곤란·산소화·의식·혈압이 악화됨  `치료 실패` `중증 폐렴`
+* 호흡수 ≥30/분, 늑간 함몰, 청색증 `중증 폐렴` `호흡 부전`
+* SpO₂ ＜90% (＜92%도 주의) `저산소혈증`
+* 수축기혈압 ＜90 ㎜Hg 또는 심박수 ≥125/분 `패혈증` `패혈성 쇼크`
+* 의식 저하 또는 혼란 `중증 폐렴` `패혈증`
+* 치료 중 호흡 곤란·산소화·의식·혈압이 악화됨 `치료 실패` `중증 폐렴`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** CRB-65 ≥2점 또는 PSI ≥91점  `입원 평가 필요`
-* **(당일)** 치료 48\~72시간 후에도 뚜렷한 호전이 없음  `치료 실패` `농흉` `진단 오류`
-* CRB-65 1점 또는 PSI 71\~90점이면서 산소화·경구 섭취·돌봄 여건이 불확실함  `중등증 폐렴`
-* 흉부 X선상 다엽 침범 또는 흉막 삼출  `중증 폐렴` `농흉`
-* 심한 구토, 경구 섭취 곤란, 탈수  `경구 치료 실패`
-* 고령(≥65세) 또는 면역 저하 환자의 중등증 이상 증상  `중증 폐렴`
-* 2주 이상 기침, 체중 감소, 야간 발한, 상엽 공동  `폐결핵`
-* 흉막성 흉통과 빈맥이 있으나 CXR 소견이 경미함  `폐색전증`
+* **(당일)** CRB-65 ≥2점 또는 PSI ≥91점 `입원 평가 필요`
+* **(당일)** 치료 48\~72시간 후에도 뚜렷한 호전이 없음 `치료 실패` `농흉` `진단 오류`
+* CRB-65 1점 또는 PSI 71\~90점이면서 산소화·경구 섭취·돌봄 여건이 불확실함 `중등증 폐렴`
+* 흉부 X선상 다엽 침범 또는 흉막 삼출 `중증 폐렴` `농흉`
+* 심한 구토, 경구 섭취 곤란, 탈수 `경구 치료 실패`
+* 고령(≥65세) 또는 면역 저하 환자의 중등증 이상 증상 `중증 폐렴`
+* 2주 이상 기침, 체중 감소, 야간 발한, 상엽 공동 `폐결핵`
+* 흉막성 흉통과 빈맥이 있으나 CXR 소견이 경미함 `폐색전증`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 임상·영상학적 호전 후 같은 부위 또는 다른 부위에 폐렴이 반복됨  `기관지 폐쇄` `흡인` `면역 저하`
+* 임상·영상학적 호전 후 같은 부위 또는 다른 부위에 폐렴이 반복됨 `기관지 폐쇄` `흡인` `면역 저하`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -91,87 +95,75 @@
 
 #### <mark style="color:$primary;">Diehr Rule - 성인 폐렴의 임상 진단 Tool</mark>
 
-_<mark style="color:$info;">\[J Chronic Dis 1984]</mark>_
-
 * 배점 : 콧물 −2점, 인후통 −1점, 근육통 +1점, 야간 발한 +1점, 가래(하루 종일) +1점, 호흡수 ＞25/분 +2점, 체온 ＞37.8℃ +2점.
-* 판정 : 점수가 높을수록 폐렴 가능성 증가 (1점≒8.8%, 2점≒10.3%, ≥4점≒29.4%; 원 연구집단의 관찰값).&#x20;
-* 단독 사용보다 임상 판단의 보조 도구로 활용
+* 판정 : 점수가 높을수록 폐렴 가능성 증가 (1점≒8.8%, 2점≒10.3%, ≥4점≒29.4%; 원 연구 집단의 관찰값)
+* 단독 사용보다 임상 판단의 보조 도구로 활용 <mark style="color:$info;">\[J Chronic Dis 1984]</mark>
 
 #### <mark style="color:$primary;">중증 CAP 진단 기준 (ATS/IDSA)</mark>
 
 * 주 기준 ≥1개 또는 부 기준 ≥3개 충족 시 중증 CAP
 
-**주 기준 (Major criteria)**
-
-* Vasopressor가 필요한 septic shock
-* 침습적 mechanical ventilation이 필요한 호흡 부전
-
-**부 기준 (Minor criteria)**
-
-* 호흡수 ≥30/분
-* PaO₂/FiO₂ ratio ≤250
-* Multilobar infiltrates
-* Confusion/disorientation
-* 요독증 (BUN ≥20 ㎎/㎗)
-* Leukopenia (WBC ＜4,000/㎕, 항암 치료 등이 아닌 감염으로 인한 경우)
-* Thrombocytopenia (PLT ＜100,000/㎕)
-* Hypothermia (중심 체온 ＜36℃)
-* 적극적인 수분 공급이 필요한 저혈압
+| <p></p><p><strong>주 기준 (Major criteria)</strong></p><ul><li>Vasopressor가 필요한 septic shock</li><li>침습적 mechanical ventilation이 필요한 호흡 부전</li></ul><p></p> | <p></p><p><strong>부 기준 (Minor criteria)</strong></p><ul><li>호흡수 ≥30/분</li><li>PaO₂/FiO₂ ratio ≤250</li><li>Multilobar infiltrates</li><li>Confusion/disorientation</li><li>요독증 (BUN ≥20 ㎎/㎗)</li><li>Leukopenia (WBC ＜4,000/㎕, 항암 치료 등이 아닌 감염으로 인한 경우)</li><li>Thrombocytopenia (PLT ＜100,000/㎕)</li><li>Hypothermia (중심 체온 ＜36℃)</li><li>적극적인 수분 공급이 필요한 저혈압</li></ul> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### <mark style="color:orange;">영상 검사</mark>
 
-* 병력·진찰 소견만으로 폐렴을 확진하거나 배제하기 어려우므로 폐렴이 의심되면 가능한 경우 흉부 X선 촬영을 권장; 특히 진단이 불확실하거나, vital sign 이상이 있거나, 고령 환자에서는 초기 CXR이 진단 정확도를 높임
-* 폐 초음파 (POCUS) : 숙련된 검사자가 표준화된 방법으로 시행할 수 있다면 CXR의 대안 또는 보조 검사로 활용 가능(ATS 2025 조건부 권고, 낮은 근거). consolidation(tissue sign), dynamic air bronchogram, pleural effusion 등을 확인할 수 있으나 B-line은 폐렴·폐부종·간질성 폐질환 등에서 나타나는 비특이적 소견이며, 심부 병변이나 종양·폐색전증 같은 대체 진단 평가에는 한계가 있음
-* 치료에 반응하는 경우 추적 영상 검사가 반드시 필요하지는 않음
-* 초기 영상에서 consolidation, air bronchogram, pleural effusion과 폐쇄성 병변 여부를 확인
-* 치료 중 악화하거나 48\~72시간에 호전이 없으면 즉시 영상 재평가
-* F/U X선 검사 대상 : 증상 지속·악화, 동일 부위 반복, 설명되지 않는 체중 감소, 흡연·50세 초과 등 폐암 위험이 있거나 초기 영상에서 폐쇄성 병변이 의심되는 경우 약 6주 후 고려
-  * 영상 소실은 수 주가 걸리며, 고령·다엽 침범·흡연자에서는 12주까지 늦어질 수 있음
-  * 5\~7일 내 회복된 환자에 대하여 일률적인 추적 흉부 영상 검사는 권고하지 않음
+* 흉부 X선 : 병력·진찰 소견만으로 폐렴을 확진하거나 배제하기 어려우므로 폐렴이 의심되면 가능한 경우 흉부 X선 촬영을 권장; 특히 진단이 불확실하거나, vital sign 이상이 있거나, 고령 환자에서는 초기 CXR이 진단 정확도를 높임
+  * consolidation, air bronchogram, pleural effusion과 폐쇄성 병변 여부를 확인
+* 폐 초음파 (POCUS) : 숙련된 검사자가 표준화된 방법으로 시행할 수 있다면 CXR의 대안 또는 보조 검사로 활용 가능 <mark style="color:$info;">\[ATS 2025 조건부 권고, 낮은 근거]</mark>
+  * consolidation(tissue sign), dynamic air bronchogram, pleural effusion 등을 확인할 수 있으나 B-line은 폐렴·폐부종·간질성 폐질환 등에서 나타나는 비특이적 소견이며, 심부 병변이나 폐쇄성 병변·종양·폐색전증 같은 대체 진단 평가에는 한계가 있음
+* 재평가 : 치료 중 악화하거나 48\~72시간에 호전이 없으면 즉시 영상 재평가(CXR 또는 POCUS, 필요시 CT)
+* 추적 영상 : 5\~7일 내 회복되어 치료에 반응하는 환자에서는 일률적인 추적 흉부 영상 검사를 권고하지 않음
+  * F/U X선 검사 대상 : 증상 지속·악화, 동일 부위 반복, 설명되지 않는 체중 감소, 흡연·50세 초과 등 폐암 위험이 있거나 초기 영상에서 폐쇄성 병변이 의심되는 경우 약 6주 후 고려
+  * 영상에서 병변 소실은 수 주가 걸리며, 고령·다엽 침범·흡연자에서는 12주까지 늦어질 수 있음
 
 ### <mark style="color:orange;">실험실 검사</mark>
 
 * 대상 : 중등증 이상의 증상 또는 예상과 다른 진행 시 고려
-* WBC : 백혈구 증가·호중구 우세는 세균 감염을 지지할 수 있으나 바이러스와 세균을 확정적으로 구별하지 못함. 감염으로 인한 WBC ＜4,000/㎕는 중증 CAP 부 기준
+* WBC : 백혈구 증가·호중구 우세는 세균 감염을 지지할 수 있으나 바이러스와 세균을 확정적으로 구별하지 못함.
+  * 감염으로 인한 WBC ＜4,000/㎕는 중증 CAP 부 기준
 * CRP
   * 진찰 후에도 하기도감염에서 항생제 필요성이 불확실할 때 보조적으로 사용 가능
   * 진찰 후에도 하기도감염에서 항생제 필요성이 불확실할 때에 한해 ＜20 ㎎/L이면 항생제를 일률적으로 처방하지 않고, 20\~100 ㎎/L이면 지연(back-up) 처방을 고려하며, ＞100 ㎎/L이면 즉시 항생제를 처방 <mark style="color:$info;">\[NICE 2023]</mark>. 이미 세균성 CAP가 의심되는 환자에서 낮은 CRP만으로 항생제를 보류하는 기준으로 쓰지 않음
   * 중증도·영상 소견과 함께 해석
 * Procalcitonin (PCT)
-  * 항생제 시작 결정에는 권장되지 않음
-  * PCT가 낮아도 세균성 폐렴을 배제할 수 없으므로 항생제 보류 판단에 단독으로 사용하지 않음
-  * 입원 환자에서 치료 실패가 우려되면 치료 3\~4일째 CRP 또는 PCT를 측정하여 높거나 충분히 감소하지 않으면 재평가 <mark style="color:$info;">\[NICE 2025]</mark>
+  * 중증 세균 감염과 패혈증을 진단하고 항생제 치료 효과를 평가하는 바이오마커
+  * 항생제 시작 결정에는 권장되지 않음; PCT가 낮아도 세균성 폐렴을 배제할 수 없으므로 항생제 보류 판단에 단독으로 사용하지 않음
   * PCT 감소 추세는 항생제 중단 판단에 보조적으로 활용 가능
-* 가래 그람염색·배양 및 혈액배양 : 외래와 비중증 입원 CAP에서 일률적으로 시행하지 않음. 중증 CAP, MRSA·녹농균 경험적 치료, 과거 호흡기 분리력 또는 최근 90일 내 입원하면서 비경구 항생제를 투여받은 경우에는 항생제 투여 전에 시행
+  * 입원 환자에서 치료 실패가 우려되면 치료 3\~4일째 CRP 또는 PCT를 측정하여 높거나 충분히 감소하지 않으면 재평가 <mark style="color:$info;">\[NICE 2025]</mark>
+* 가래 그람염색·배양 및 혈액배양 : 외래와 비중증 입원 CAP에서 일률적으로 시행하지 않음
+  * 중증 CAP, MRSA·녹농균 경험적 치료, 과거 호흡기 분리력 또는 최근 90일 내 입원하면서 비경구 항생제를 투여받은 경우에는 항생제 투여 전에 시행
   * 공동(cavity)이 있으면 결핵균 핵산증폭검사·AFB 도말/배양을 우선 고려하고, 숙주·노출·영상에 따라 진균 검사를 선택
 * _S. pneumoniae_ 소변 항원 : routine 검사하지 않으며 중증 CAP에서 고려
-* _Legionella_ 소변 항원 : 중증 CAP 또는 여행·유행 등 역학적 위험이 있을 때 고려; 중증이면 하기도 검체 배양 또는 핵산증폭검사 병행 고려
-* influenza 검사 : 지역사회 유행 시 신속 분자검사를 권장하며 신속 항원검사보다 선호. SARS-CoV-2·RSV 등 검사는 유행 상황과 치료·격리 결정에 따라 시행
+* _Legionella_ 소변 항원 : 중증 CAP 또는 여행·유행 등 역학적 위험이 있을 때 고려
+  * 중증이면 하기도 검체 배양 또는 핵산증폭검사 병행 고려
+* influenza 검사 : 지역사회 유행 시 신속 분자검사를 권장하며 신속 항원검사보다 선호
+  * SARS-CoV-2·RSV 등 검사는 유행 상황과 치료·격리 결정에 따라 시행
 * 중증, 치료 실패 시 기관지경 검사, 유의미한 흉막 삼출액이 있는 경우 thoracentesis 고려
 
 ### <mark style="color:orange;">감별</mark>
 
 * 항생제 치료에 반응하지 않을 때 반드시 고려
 
-<table><thead><tr><th width="134.21051025390625">감별 질환</th><th width="280">Key Clue</th><th>감별 검사</th></tr></thead><tbody><tr><td>폐색전증 (PE)</td><td>흉막성 통증 + 정상 또는 비특이적 CXR, 빈맥, 위험 인자</td><td>임상확률 평가, D-dimer, CT-PA</td></tr><tr><td>울혈성 심부전</td><td>양측성 침윤 + 발목 부종, 기좌호흡, BNP 상승</td><td>BNP/NT-proBNP, 심초음파</td></tr><tr><td>결핵</td><td>아급성 경과, 체중 감소, 야간 발한, 상엽 병변, 공동</td><td>CXR/CT, 객담 결핵균 핵산증폭검사·AFB 도말/배양. IGRA만으로 활동성 결핵을 진단·배제하지 않음</td></tr><tr><td>악성 종양</td><td>비해소성 폐렴, 흡연 병력, 체중 감소</td><td>흉부 CT, 기관지경</td></tr><tr><td>호산구성 폐렴</td><td>항생제 반응 없음, 혈액 호산구↑, 약물·기생충 노출</td><td>CBC differential, BAL</td></tr><tr><td>과민성 폐렴</td><td>항원(조류·곰팡이 등) 노출 병력, 재발성 경과</td><td>항원 회피 시 호전 여부, HRCT</td></tr></tbody></table>
+<table><thead><tr><th width="121">감별 질환</th><th width="331">Key Clue</th><th>감별 검사</th></tr></thead><tbody><tr><td><strong>폐색전증 (PE)</strong></td><td>흉막성 통증 + 정상 또는 비특이적 CXR, 빈맥, 위험 인자</td><td>임상확률 평가, D-dimer, CT-PA</td></tr><tr><td><strong>울혈성 심부전</strong></td><td>양측성 침윤 + 발목 부종, 기좌호흡, BNP 상승</td><td>BNP/NT-proBNP, 심초음파</td></tr><tr><td><strong>결핵</strong></td><td>아급성 경과, 체중 감소, 야간 발한, 상엽 병변, 공동</td><td>CXR/CT, 객담 결핵균 핵산증폭검사·AFB 도말/배양. IGRA만으로 활동성 결핵을 진단·배제하지 않음</td></tr><tr><td><strong>악성 종양</strong></td><td>비해소성 폐렴, 흡연 병력, 체중 감소</td><td>흉부 CT, 기관지경</td></tr><tr><td><strong>호산구성 폐렴</strong></td><td>항생제 반응 없음, 혈액 호산구↑, 약물·기생충 노출</td><td>CBC differential, BAL</td></tr><tr><td><strong>과민성 폐렴</strong></td><td>항원(조류·곰팡이 등) 노출 병력, 재발성 경과</td><td>항원 회피 시 호전 여부, HRCT</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 flowchart TD
-    A["외래 성인 CAP 의심"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
+    A["외래 성인 CAP 의심"] --> B["Red Flags의 즉각 조치 <br/>항목에 해당?"]
     B -- "예" --> C1["즉각 조치"]
     B -- "아니오" --> S["CRB-65 점수?"]
     S -- "2점 이상" --> C2["당일 병원 평가"]
-    S -- "0~1점" --> T["산소화·섭취·돌봄 및 추적 확보?"]
+    S -- "0~1점" --> T["산소화·섭취·돌봄 <br/>및 추적 확보?"]
     T -- "아니오" --> C3["당일 병원 평가"]
-    T -- "예" --> D["MRSA·녹농균 위험 또는 결핵 의심?"]
-    D -- "예" --> E["배양·결핵 검사 및 입원·전문의뢰 고려"]
-    D -- "아니오" --> F["바이러스 양성이고 동반 질환 없으며 세균 감염 가능성 낮음?"]
-    F -- "예" --> G["항생제 보류 고려 및 항바이러스 적응증 평가"]
+    T -- "예" --> D["MRSA·녹농균 위험 <br/>또는 결핵 의심?"]
+    D -- "예" --> E["배양·결핵 검사 및 <br/>입원·의뢰 고려"]
+    D -- "아니오" --> F["바이러스 양성이고 <br/>동반 질환 없으며 <br/>세균 가능성 낮음?"]
+    F -- "예" --> G["항생제 보류 고려 및 <br/>항바이러스 적응증 평가"]
     F -- "아니오" --> H["CAP 동반 질환?"]
-    H -- "없음" --> I["amoxicillin (doxycycline 단독은 제한적)"]
-    H -- "있음" --> J["(amox-clav 또는 cephalosporin) + (macrolide 또는 doxycycline), 또는 respiratory FQ"]
+    H -- "없음" --> I["amoxicillin <br/>(doxycycline 단독은 <br/>제한적)"]
+    H -- "있음" --> J["(amox-clav 또는 <br/>cephalosporin) + <br/>(macrolide 또는 <br/>doxycycline), 또는 <br/>respiratory FQ"]
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef question fill:#fff9c4,stroke:#ffe082
     class B,S,T,D,F,H question
@@ -180,9 +172,10 @@ flowchart TD
     style G fill:#fff3e0,stroke:#e65100
     classDef result fill:#d0e8ff,stroke:#1a6abf
     class I,J result
+
 ```
 
-> 항생제 보류 또는 투여 후 48\~72시간에 임상 경과를 확인하고, 이후 조치는 「48\~72시간 재평가 및 단계적 치료 조정」 알고리듬을 따름
+> _항생제 보류 또는 투여 후 48\~72시간에 임상 경과를 확인하고, 이후 조치는 「48\~72시간 재평가 및 단계적 치료 조정」 알고리듬을 따름_
 
 <p align="center"><strong>CAP 외래 항생제 선택 알고리듬</strong></p>
 
@@ -208,7 +201,8 @@ flowchart TD
 4. BP : SBP ＜90 또는 DBP ≤60 ㎜Hg
 5. ≥65세
 
-* 외래에서는 BUN을 제외한 CRB-65를 활용할 수 있고, 검사 가능한 경우 CURB-65 또는 PSI를 적용. 점수는 임상 판단·산소화·경구 섭취 가능성·돌봄 여건을 대체하지 않음
+* 외래에서는 BUN을 제외한 CRB-65를 활용할 수 있고, 검사 가능한 경우 CURB-65 또는 PSI를 적용
+* 점수는 임상 판단·산소화·경구 섭취 가능성·돌봄 여건을 대체하지 않음
 * 배점 : 각 항목에 1점씩 부여
 * CRB-65 판정 및 조치
   * 0점 = 대체로 외래 치료
@@ -222,7 +216,7 @@ flowchart TD
 
 #### <mark style="color:$primary;">PSI (Pneumonia Severity Index)</mark>
 
-<table><thead><tr><th width="281.6842041015625">위험 인자</th><th width="180.75494384765625">배점</th></tr></thead><tbody><tr><td><em>상황 요인</em></td><td></td></tr><tr><td>연령 (남성)</td><td>나이(yr)=점수</td></tr><tr><td>연령 (여성)</td><td>나이(yr)−10=점수</td></tr><tr><td>Nursing home 거주</td><td>+10</td></tr><tr><td><em>동반 질환</em></td><td></td></tr><tr><td>암</td><td>+30</td></tr><tr><td>만성 간질환</td><td>+20</td></tr><tr><td>CHF</td><td>+10</td></tr><tr><td>만성 신장 질환</td><td>+10</td></tr><tr><td>뇌혈관 질환</td><td>+10</td></tr><tr><td><em>진찰 소견</em></td><td></td></tr><tr><td>Altered mental status</td><td>+20</td></tr><tr><td>호흡수 ≥30/분</td><td>+20</td></tr><tr><td>SBP ＜90 ㎜Hg</td><td>+20</td></tr><tr><td>체온 ≥40℃ 또는 ＜35℃</td><td>+15</td></tr><tr><td>맥박 ≥125/분</td><td>+10</td></tr><tr><td><em>검사 소견</em></td><td></td></tr><tr><td>동맥혈 pH ＜7.35</td><td>+30</td></tr><tr><td>BUN ＞29 ㎎/㎗</td><td>+20</td></tr><tr><td>Na ＜130 m㏖/L</td><td>+20</td></tr><tr><td>Glucose ＞249 ㎎/㎗</td><td>+10</td></tr><tr><td>Hematocrit ＜30%</td><td>+10</td></tr><tr><td>PaO₂ ＜60 ㎜Hg</td><td>+10</td></tr><tr><td>흉부 X선상 pleural effusion</td><td>+10</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="222">위험 인자</th><th width="130">배점</th><th width="222">위험 인자</th><th width="130">배점</th></tr></thead><tbody><tr><td colspan="2"><em><strong>상황 요인</strong></em></td><td colspan="2"><em><strong>진찰 소견</strong></em></td></tr><tr><td>연령 (남성)</td><td>나이(yr)</td><td>Altered mental status</td><td>+20</td></tr><tr><td>연령 (여성)</td><td>나이(yr)−10</td><td>호흡수 ≥30/분</td><td>+20</td></tr><tr><td>Nursing home 거주</td><td>+10</td><td>SBP ＜90 ㎜Hg</td><td>+20</td></tr><tr><td colspan="2"><em><strong>동반 질환</strong></em></td><td>체온 ≥40℃ 또는 ＜35℃</td><td>+15</td></tr><tr><td>암</td><td>+30</td><td>맥박 ≥125/분</td><td>+10</td></tr><tr><td>만성 간질환</td><td>+20</td><td colspan="2"><em><strong>검사 소견</strong></em></td></tr><tr><td>CHF</td><td>+10</td><td>동맥혈 pH ＜7.35</td><td>+30</td></tr><tr><td>만성 신장 질환</td><td>+10</td><td>BUN ＞29 ㎎/㎗</td><td>+20</td></tr><tr><td>뇌혈관 질환</td><td>+10</td><td>Na ＜130 m㏖/L</td><td>+20</td></tr><tr><td></td><td></td><td>Glucose ＞249 ㎎/㎗</td><td>+10</td></tr><tr><td></td><td></td><td>Hematocrit ＜30%</td><td>+10</td></tr><tr><td></td><td></td><td>PaO₂ ＜60 ㎜Hg</td><td>+10</td></tr><tr><td></td><td></td><td>흉부 X선상 pleural effusion</td><td>+10</td></tr></tbody></table>
 
 * PSI는 먼저 50세 이하이면서 주요 동반 질환과 이상 활력징후·의식 변화가 없는 환자를 Class I(최저위험)로 분류하고, 나머지 환자에게 점수를 적용
 * 판정 및 조치
@@ -238,7 +232,8 @@ _<mark style="color:$info;">Ref. PSI/PORT Score : https://www.mdcalc.com/psi-por
 
 ### <mark style="color:orange;">항생제</mark>
 
-* 임상적으로 세균성 CAP 또는 세균 동시감염이 의심되면 경험적 항생제를 조기 투여. 호흡기 바이러스 양성인 동반 질환 없는 안정된 외래 환자에서 세균 감염 가능성이 낮다면 항생제 보류를 고려할 수 있음(ATS 2025 조건부 권고, 근거 수준 매우 낮음)
+* 임상적으로 세균성 CAP 또는 세균 동시감염이 의심되면 경험적 항생제를 조기 투여
+* 호흡기 바이러스 양성인 동반 질환 없는 안정된 외래 환자에서 세균 감염 가능성이 낮다면 항생제 보류를 고려할 수 있음 <mark style="color:$info;">\[ATS 2025 조건부 권고, 근거 수준 매우 낮음]</mark>
 * 선택 : 환자 위치(외래, 입원, or ICU), 위험 요인, 지역의 항생제 내성 패턴에 따른 경험적 선택
 
 {% hint style="info" %}
@@ -248,108 +243,108 @@ _<mark style="color:$info;">Ref. PSI/PORT Score : https://www.mdcalc.com/psi-por
 **투여 기간 및 중단 기준**
 
 * 매일 임상 안정성을 평가하며 다음 기준을 모두 충족하면 중단 시점을 결정
-  * 체온 ≤37.8℃
-  * 심박수 ＜100/분
-  * 호흡수 ＜24/분
-  * SBP ≥90 ㎜Hg
-  * SpO₂ ≥90% (room air 또는 환자의 평상시 산소 요구량)
+  * 체온 ≤37.8℃, 심박수 ＜100/분, 호흡수 ＜24/분, SBP ≥90 ㎜Hg, SpO₂ ≥90% (room air 또는 환자의 평상시 산소 요구량)
   * 정상 의식, 경구 섭취 및 약물 흡수 가능
-* 임상적으로 안정된 외래 및 입원 비중증 CAP에서는 최소 3일을 전제로 ＜5일 치료를 고려할 수 있음(ATS 2025 조건부 권고, 낮은 근거). 국내 외래에서는 5일 요법도 여전히 합리적. 단, 제품별 허가 투여 기간(예: 아벨록스 10일, 팩티브 7일)은 지침 기반 단기 치료와 다를 수 있음
-* 중증 CAP는 ≥5일 치료. MRSA·녹농균·_Legionella_ 등 특정 병원체, 균혈증, 폐농양·농흉 또는 폐외 감염은 병원체와 합병증에 따라 연장
-* 재평가 : 치료 시작 48\~72시간 내 호전이 없거나 언제든 악화하면 즉시 재평가; 호전 중인 모든 환자에게 종료 3일 후 방문을 일률적으로 요구하지 않음
+* 임상적으로 안정된 외래 및 입원 비중증 CAP에서는 최소 3일을 전제로 ＜5일 치료를 고려할 수 있음 <mark style="color:$info;">\[ATS 2025 조건부 권고, 낮은 근거]</mark>
+  * 외래에서는 5일 요법도 여전히 합리적
+  * 단, 제품별 허가 투여 기간(예: 아벨록스 10일, 팩티브 7일)은 지침 기반 단기 치료와 다를 수 있음
+* 중증 CAP는 ≥5일 치료
+  * MRSA·녹농균·_Legionella_ 등 특정 병원체, 균혈증, 폐농양·농흉 또는 폐외 감염은 병원체와 합병증에 따라 연장
+* 재평가 : 치료 시작 48\~72시간 내 호전이 없거나 언제든 악화하면 즉시 재평가
+  * 호전 중인 모든 환자에게 종료 3일 후 방문을 일률적으로 요구하지 않음
 
 {% hint style="danger" %}
 **한국 임상 환경 특이사항 (Korea-Specific)**
 
-* **Macrolide 단독 치료 비권장** : 국내 _S. pneumoniae_의 높은 macrolide 내성을 고려하면 경험적 단독 요법으로 일반적으로 권장하지 않음. _M. pneumoniae_의 소아 내성률을 성인에 그대로 적용하지 않음
-* **Fluoroquinolone 사용 전 결핵 가능성 평가** : FQ는 결핵 증상을 일시 억제하여 진단을 지연시킬 수 있음. 아급성 경과, 체중 감소, 야간 발한, 상엽 병변 등이 있으면 객담 결핵균 검사를 시행하고 가능하면 평가가 끝날 때까지 FQ를 보류
+* **Macrolide 단독 치료 비권장** : 국내 _S. pneumonia&#x65;_&#xC758; 높은 macrolide 내성을 고려하면 경험적 단독 요법으로 일반적으로 권장하지 않음. _M. pneumonia&#x65;_&#xC758; 소아 내성률을 성인에 그대로 적용하지 않음
+* **Fluoroquinolone(FQ) 사용 전 결핵 가능성 평가** : FQ는 결핵 증상을 일시 억제하여 진단을 지연시킬 수 있음. 아급성 경과, 체중 감소, 야간 발한, 상엽 병변 등이 있으면 객담 결핵균 검사를 시행하고 가능하면 평가가 끝날 때까지 FQ를 보류
 * **흡인성 폐렴** : 표준 CAP 치료에 별도의 혐기성균 약제를 routine으로 추가하지 않으며 폐농양·농흉 동반 시 고려. 급성 화학적 흡인성 폐장염은 항생제 없이 지지 치료 가능
 * **MRSA /&#x20;**_**P. aeruginosa**_**&#x20;위험 인자** : 과거 호흡기 검체 분리력이 가장 중요한 위험 인자; 최근 입원(90일 내) AND 비경구 항생제 투여력이 그 다음
 {% endhint %}
 
-#### <mark style="color:$primary;">동반 질환 없음 (MRSA / P. aeruginosa 위험 인자 없음)</mark>
+#### <mark style="color:$primary;">동반 질환 없음 (MRSA /</mark> <mark style="color:$primary;"></mark>_<mark style="color:$primary;">P. aeruginosa</mark>_ <mark style="color:$primary;"></mark><mark style="color:$primary;">위험 인자 없음)</mark>
 
-* amoxicillin 1 g tid <mark style="color:blue;">\[파목신]</mark> (ATS/IDSA 고용량 요법. 국내 허가 기본 용법은 250\~500 ㎎ tid이며 연령·증상에 따라 증감)
-* doxycycline 100 ㎎ bid <mark style="color:blue;">\[모노신]</mark> 단독 요법은 ATS/IDSA의 선택지이나, 국내 지침(2018)은 폐렴구균의 높은 tetracycline 내성을 이유로 단독 요법을 권하지 않음. β-lactam과 respiratory FQ가 모두 부적합한 경우 등에 제한적으로 고려
-* penicillin 알레르기 : 알레르기 유형에 따라 cephalosporin(cefpodoxime, cefuroxime) 또는 respiratory FQ(결핵 가능성 평가 후)를 고려. 단, SJS/TEN·DRESS 등 중증 지연형 반응 병력이 있으면 β-lactam으로 경험적으로 대체하지 않고 전문 평가
-* Macrolide (azithromycin, clarithromycin)는 국내 내성률을 고려하여 경험적 단독 1차 선택에서 제외. 지역 폐렴구균 macrolide 내성률이 ＜25%임이 확인된 경우에만 단독요법 고려. Doxycycline 금기만으로 macrolide 단독요법을 선택하지 않고, penicillin 알레르기·동반 질환·약물 금기를 종합하여 대체 요법 결정
+* amoxicillin : 1 g tid <mark style="color:blue;">\[파목신]</mark> <mark style="color:$info;">\[ATS/IDSA]</mark>
+  * 국내 허가 기본 용법은 250\~500 ㎎ tid이며 연령·증상에 따라 증감
+* doxycycline : 100 ㎎ bid <mark style="color:blue;">\[모노신]</mark> <mark style="color:$info;">\[ATS/IDSA]</mark>
+  * 국내 지침은 폐렴구균의 높은 tetracycline 내성을 이유로 단독 요법을 권하지 않음. β-lactam과 respiratory fluoroquinolone(FQ)가 모두 부적합한 경우 등에 제한적으로 고려
+* penicillin 알레르기 : 알레르기 유형에 따라 cephalosporin(cefpodoxime, cefuroxime) 또는 respiratory FQ(결핵 가능성 평가 후)를 고려
+  * 단, SJS/TEN·DRESS 등 중증 지연형 반응 병력이 있으면 β-lactam으로 경험적으로 대체하지 않고 전문 평가
+* Macrolide (azithromycin, clarithromycin)는 국내 내성률을 고려하여 경험적 단독 1차 선택에서 제외. 지역 폐렴구균 macrolide 내성률이 ＜25%임이 확인된 경우에만 단독요법 고려&#x20;
+  * doxycycline 금기만으로 macrolide 단독요법을 선택하지 않고, penicillin 알레르기·동반 질환·약물 금기를 종합하여 대체 요법 결정
 
-#### <mark style="color:$primary;">동반 질환 있음¹⁾</mark>
+#### <mark style="color:$primary;">동반 질환 있음</mark>
+
+* 동반 질환 : 만성 심장·폐·간·신질환, 당뇨병, 알코올 남용, 악성 종양, 무비증
 
 **다음 중 하나 + macrolide 또는 doxycycline 병용**
 
-* amoxicillin/clavulanate 500/125 ㎎ tid <mark style="color:blue;">\[오구멘틴]</mark>
+* amoxicillin/clavulanate : 500/125 ㎎ tid <mark style="color:blue;">\[오구멘틴]</mark>
   * ATS/IDSA에는 875/125 ㎎ bid와 서방형 2,000/125 ㎎ bid도 제시되어 있으나 875/125 ㎎ 제형은 국내 미유통이며, 서방형 용법은 일반 제형 정수를 늘려 대체할 수 없음
-* cefpodoxime 200 ㎎ bid (100 ㎎ 2정) <mark style="color:blue;">\[바난]</mark>
-* cefuroxime 500 ㎎ bid (250 ㎎ 2정) <mark style="color:blue;">\[진네트]</mark>
-* 병용 macrolide : azithromycin 500 ㎎ 1일 후 250 ㎎ qd ×4일 <mark style="color:blue;">\[지스로맥스]</mark> 또는 clarithromycin 500 ㎎ bid. 국내 폐렴구균의 높은 macrolide 내성은 단독 요법을 피하는 근거이며, β-lactam 병용 시 macrolide는 비전형균 치료를 위해 사용
-* 모노신은 국내 허가상 신부전, 중증 간기능장애, 임부·수유부, 레티노이드 병용 등이 금기이므로 만성 신질환 동반 환자에서는 허가사항을 확인
+* cefpodoxime : 200 ㎎ bid (100 ㎎ 2정) <mark style="color:blue;">\[바난]</mark>
+* cefuroxime : 500 ㎎ bid (250 ㎎ 2정) <mark style="color:blue;">\[진네트]</mark>
+* macrolide
+  * azithromycin 500 ㎎ 1일 후 250 ㎎ qd ×4일 <mark style="color:blue;">\[지스로맥스]</mark> 또는 clarithromycin 500 ㎎ bid <mark style="color:blue;">\[클래리시드]</mark>
+    * 국내 폐렴구균의 높은 macrolide 내성은 단독 요법을 피하는 근거이며, β-lactam 병용 시 macrolide는 비전형균 치료를 위해 사용
+* doxycycline <mark style="color:blue;">\[모노신]</mark>은  신부전, 중증 간기능장애, 임부·수유부, 레티노이드 병용 등이 금기
 
-**또는 단독 요법 (결핵 가능성 배제 후)**
+**또는 단독 요법  Respiratory fluoroquinolone(FQ)**&#x20;
 
-* Respiratory fluoroquinolone
-  * moxifloxacin 400 ㎎ qd <mark style="color:blue;">\[아벨록스]</mark>
-  * gemifloxacin 320 ㎎ qd <mark style="color:blue;">\[팩티브]</mark> (국내 허가 CAP 권장 기간 7일)
-  * FQ는 힘줄·신경·대동맥·QT 관련 중대한 이상반응 때문에 다른 항생제를 쓸 수 없을 때 선택하며, 전신 corticosteroid 병용 시 힘줄 손상 위험이 커짐
-  * 아벨록스는 QT 연장, 교정되지 않은 저칼륨혈증, 좌심실 박출률이 감소한 심부전, QT 연장 약물 병용 등이 금기이므로 동반 질환 환자에서 제품 금기를 확인
-
-¹⁾ 동반 질환 : 만성 심장·폐·간·신질환, 당뇨병, 알코올 남용, 악성 종양, 무비증
+* FQ는 힘줄·신경·대동맥·QT 관련 중대한 이상반응 때문에 다른 항생제를 쓸 수 없을 때 선택하며, 전신 corticosteroid 병용 시 힘줄 손상 위험이 커짐
+* 결핵 가능성 배제 후 선택
+* 공통 금기 : 퀴놀론계 과민반응 병력, 퀴놀론계로 인한 건염·건파열 병력, 소아·성장기 청소년, 임부·수유부
+* moxifloxacin 400 ㎎ qd <mark style="color:blue;">\[아벨록스]</mark> (허가 CAP 권장 기간 10일)
+  * 추가 금기 : QT 연장 질환, 전해질 이상(특히 교정되지 않은 저칼륨혈증), 서맥·부정맥 병력, 좌심실 박출률이 감소한 심부전, QT 연장 약물(IA·III군 항부정맥제, 항정신병약, 삼환계 항우울제 등) 병용, 중증 간장애 또는 아미노전달효소 정상의 5배 이상
+* gemifloxacin 320 ㎎ qd <mark style="color:blue;">\[팩티브]</mark> (허가 CAP 권장 기간 7일, 중증은 최대 14일)
+  * QT 연장 병력·전해질 이상·IA/III군 항부정맥제 병용 시 신중 투여; 발진이 나타나면 투여 중단
 
 #### <mark style="color:$primary;">확인된 Mycoplasma pneumoniae / Chlamydia pneumoniae</mark>
 
-* _M. pneumoniae_ : 성인에서 doxycycline 100 ㎎ bid를 고려할 수 있음. Macrolide 사용 여부는 감수성·지역 역학 및 임상 반응으로 결정하며, 국내 소아 내성률을 성인에 그대로 적용하지 않음. 반응이 없거나 대체 약제가 필요하면 respiratory fluoroquinolone 고려(결핵 가능성 평가 후)
-* _C. pneumoniae_ : macrolide(azithromycin 등) 또는 doxycycline을 선택할 수 있고, respiratory fluoroquinolone은 대안. _M. pneumoniae_의 macrolide 내성 문제를 동일하게 적용하지 않음
-
-_<mark style="color:$info;">\[CDC]</mark>_
+* _M. pneumoniae_ : 성인에서 doxycycline 100 ㎎ bid를 고려할 수 있음
+  * Macrolide 사용 여부는 감수성·지역 역학 및 임상 반응으로 결정하며, 소아 내성률을 성인에 그대로 적용하지 않음
+  * 반응이 없거나 대체 약제가 필요하면 respiratory FQ 고려(결핵 가능성 평가 후)
+* _C. pneumoniae_ : macrolide(azithromycin 등) 또는 doxycycline을 선택할 수 있음; 대체제 - respiratory FQ
+  * _M. pneumonia&#x65;_&#xC758; macrolide 내성 문제를 동일하게 적용하지 않음
 
 ### <mark style="color:orange;">NICE 지침 (NG250, 2025)</mark>
 
-* 성인은 5일 후 항생제 중단을 원칙으로 하되, 미생물학적 결과상 연장 필요 또는 임상적 불안정 시 예외. 불안정의 예는 최근 48시간 동안 발열이 있었거나 다음 소견²⁾이 2개 이상인 경우
-  * ²⁾SBP ＜90 ㎜Hg, 심박수 ＞100/분, 호흡수 ＞24/분, room air SpO₂ ＜90%
-  * 위 항목 수와 별개로 저산소혈증·저혈압 등 중대한 이상은 하나만 있어도 안전성 재평가 및 입원 필요성 판단
-* NICE는 임상 판단과 CRB-65(일차진료)·CURB-65(병원) 점수를 함께 사용하여 중증도를 정함. 사망 위험은 CRB-65 0점 낮음(＜1%), 1\~2점 중간(1\~10%), 3\~4점 높음(＞10%); CURB-65 0\~1점 낮음(＜3%), 2점 중간(3\~15%), 3\~5점 높음(＞15%)
-* 일차진료에서 CRB-65 ≥2점이면 병원 의뢰, 1점이면 안전망을 갖춘 일차진료 또는 의뢰 고려
+* 중증도 : 임상 판단과 CRB-65(일차진료)·CURB-65(병원) 점수를 함께 사용하여 저위험·중등도·고위험으로 판단
+  * CRB-65 점수와 사망 위험 : 0점 = 낮음(＜1%), 1\~2점 = 중간(1\~10%), 3\~4점 = 높음(＞10%)
+  * CURB-65 점수와 사망 위험 : 0\~1점 = 낮음(＜3%), 2점 = 중간(3\~15%), 3\~5점 = 높음(＞15%)
+* 치료 장소 : 사망 위험 구간과 별도로 판단
+  * 일차진료 : CRB-65 0점이면 일차진료에서 치료, 1점이면 일차진료 치료 또는 의뢰를 임상적으로 판단, ≥2점이면 병원 의뢰
+  * 병원 : CURB-65 0\~1점이면 귀가 후 일차진료 추적, 2점이면 단기 입원·당일 응급진료·재택 입원 또는 입원 고려, ≥3점이면 입원 또는 중환자 치료 고려
+  * 어느 경우든 악화 시 재방문 기준을 안내함(safety-netting)
 * 아래는 영국 NICE의 성인 요법으로, 국내 경험적 항생제 선택에는 앞서 제시한 국내 내성·금기 사항을 함께 적용
 
-**저위험**
+<table><thead><tr><th width="96">항목</th><th>1차 선택</th><th>대체</th></tr></thead><tbody><tr><td><strong>저위험</strong></td><td>amoxicillin 500 ㎎ tid ×5d</td><td>(penicillin 알레르기, 비전형 병원체 의심) doxycycline 200 ㎎ 1일 → 100 ㎎ qd ×4d, 또는 clarithromycin 500 ㎎ bid ×5d</td></tr><tr><td><strong>중등도</strong></td><td>amoxicillin 500 ㎎ tid ×5d, 비전형 병원체 의심 시 clarithromycin 500 ㎎ bid ×5d 추가</td><td>(penicillin 알레르기) doxycycline 또는 clarithromycin</td></tr><tr><td><strong>고위험</strong></td><td>amoxicillin/clavulanate 500/125 ㎎ tid(경구) 또는 1.2 g tid(정맥)* + clarithromycin 500 ㎎ bid</td><td>(penicillin 알레르기) levofloxacin 500 ㎎ bid</td></tr></tbody></table>
 
-* 1차 선택 : amoxicillin 500 ㎎ tid ×5d
-* 대체 (penicillin 알레르기, 비전형 병원체 의심) : doxycycline 200 ㎎ 1일 → 100 ㎎ qd ×4d, 또는 clarithromycin 500 ㎎ bid ×5d
+> _\*정맥 항생제는 48시간 이내 재평가하여 가능하면 경구로 전환; 48시간 정맥 투여를 반드시 완료해야 한다는 의미는 아님_
 
-**중등도**
+**투여 기간 및 중단**
 
-* 1차 선택 : amoxicillin 500 ㎎ tid ×5d, 비전형 병원체 의심 시 clarithromycin 500 ㎎ bid ×5d 추가
-* 대체 (penicillin 알레르기) : doxycycline 또는 clarithromycin
-
-**고위험**
-
-* 1차 선택 : amoxicillin/clavulanate 500/125 ㎎ tid(경구) 또는 1.2 g tid(정맥) + clarithromycin 500 ㎎ bid
-* 대체 (penicillin 알레르기) : levofloxacin 500 ㎎ bid
-* 정맥 항생제는 48시간 이내 재평가하여 가능하면 경구로 전환; 48시간 정맥 투여를 반드시 완료해야 한다는 의미는 아님
-
-### <mark style="color:orange;">48\~72시간 재평가 및 단계적 치료 조정</mark>
+* 성인은 5일 후 항생제 중단을 원칙으로 하되, 미생물학적 결과상 연장이 필요하거나 임상적으로 불안정하면 예외
+* 불안정 : 최근 48시간 내 발열, 또는 다음 소견 중 2개 이상 - SBP ＜90 ㎜Hg, 심박수 ＞100/분, 호흡수 ＞24/분, room air SpO₂ ＜90%
+* NICE의 항목 수 기준과 별개로 저산소혈증·저혈압 등 중대한 이상은 하나만 있어도 안전성을 재평가하고 입원 필요성을 판단
 
 ***
 
 ```mermaid
 flowchart TD
-    A(["항생제 치료 또는 보류<br/>48~72시간 후"]) --> P["항생제 투여 여부?"]
+    A["항생제 치료 또는 보류<br/>48~72시간 후"] --> P["항생제 투여 여부?"]
     P -- "보류" --> Q["임상 반응?"]
-    Q -- "호전" --> R["항생제 없이 경과 관찰 지속"]
-    Q -- "호전 없음 / 악화" --> J
+    Q -- "호전" --> R["항생제 없이 <br/>경과 관찰 지속"]
+    Q -- "호전 없음/악화" --> J
     P -- "투여" --> B["임상 반응?"]
-
-    B -- "✅ 명확한 호전<br/>(해열, 증상 개선)" --> C["현 처방 유지"]
+    B -- "명확한 호전<br/>(해열, 증상 개선)" --> C["현 처방 유지"]
     C --> D["임상 안정 기준과<br/>최소 치료 기간 충족?"]
     D -- "예" --> E["항생제 중단 고려"]
-    D -- "아니오" --> F["현 처방 유지하며 재평가"]
-
-    B -- "⚠ 부분 호전<br/>그러나 임상적으로 안정" --> G["복약 순응도·흡수 확인<br/>24~48시간 면밀히 추적"]
-
-    B -- "❌ 호전 없음 / 악화" --> J["즉시 재평가"]
+    D -- "아니오" --> F["현 처방 유지하며 <br/>재평가"]
+    B -- "부분 호전<br/>임상적으로는 안정" --> G["복약 순응도·흡수 확인<br/>24~48시간 면밀히 추적"]
+    B -- "호전 없음/악화" --> J["즉시 재평가"]
     J ---> K["산소화·CXR/POCUS<br/>필요시 CT·배양"]
     K --> L["원인 재평가"]
-    L -- "삼출·농흉·농양" --> M["입원 + 배액 등 추가 처치"]
+    L -- "삼출·농흉·농양" --> M["입원 + 배액 등 <br/>추가 처치"]
     L -- "진단 오류 가능" --> N["PE / CHF / TB<br/>/ 악성 종양 감별"]
     L -- "내성·흡수·용량 문제" --> O["검사 결과와 위험 인자에 따라<br/>표적 조정 또는 입원 치료"]
 style A fill:#eeeeee,stroke:#888888,stroke-width:2px
@@ -362,7 +357,6 @@ class N,O orange50
     style E fill:#d0e8ff,stroke:#1a6abf
     style R fill:#d0e8ff,stroke:#1a6abf
     style M fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-
 ```
 
 <p align="center"><strong>48~72시간 재평가 및 항생제 조정 알고리듬</strong></p>
@@ -371,28 +365,33 @@ class N,O orange50
 
 ### <mark style="color:orange;">항바이러스제</mark>
 
-* influenza 관련 폐렴·진행성 질환 또는 입원 환자는 발병 48시간 초과 시에도 oseltamivir를 신속히 시작. 경구·경관 투여나 흡수가 불가능한 경우 대안을 개별 평가 (☞ [인플루엔자](069_-influenza.md))
+* influenza 관련 폐렴·진행성 질환 또는 입원 환자는 발병 48시간 초과 시에도 oseltamivir를 신속히 시작
+* 경구·경관 투여나 흡수가 불가능한 경우 대안을 개별 평가 (☞ [인플루엔자](069_-influenza.md))
 * SARS-CoV-2 : 중증 진행 고위험군에서는 증상 발생 후 허용된 기간 내 항바이러스 치료 고려 (☞ [코로나19](070_1_-covid-19.md))
 * acyclovir 정맥 투여 : 면역 저하 환자의 HSV 폐렴에서 전문의 판단하에 고려. CMV 폐렴의 표준 치료제가 아니며 CMV 폐렴은 ganciclovir 기반 전문 치료가 필요
 * ribavirin : 중증 면역 저하자의 RSV 하기도감염 등 제한된 상황에서 전문의 판단하에 고려
 
-### <mark style="color:orange;">전신 corticosteroid</mark>
+### <mark style="color:orange;">전신 스테로이드</mark>
 
-* 비중증 CAP에서는 routine 사용하지 않음(ATS 2025 강한 권고)
-* 입원한 중증 CAP에서는 조기 전신 corticosteroid를 조건부로 고려할 수 있음(ATS 2025 조건부 권고, 낮은 근거). ATS는 중증 기준 충족 24시간 이내 시작, CRP 상승, ICU 입원, PaO₂/FiO₂ ＜300을 사용에 유리한 조건으로 제시
-* REMAP-CAP(ICU 중증 CAP, hydrocortisone 7일 고정 요법)에서는 사망률 감소가 확인되지 않아 <mark style="color:$info;">\[Intensive Care Med 2025]</mark> 연구별 결과가 일치하지 않음. 모든 중증 CAP에 일률적으로 적용하지 않고 조기 투여 가능성·호흡부전·염증 정도와 고혈당 등 위해를 고려하여 개별 결정
+* 비중증 CAP에서는 routine 사용하지 않음 <mark style="color:$info;">\[ATS 2025 강한 권고]</mark>
+* 입원한 중증 CAP에서는 조기 전신 스테로이드를 조건부로 고려할 수 있음 <mark style="color:$info;">\[ATS 2025 조건부 권고, 낮은 근거]</mark>
+  * 사용 고려 조건 : 중증 기준 충족 24시간 이내 시작, CRP 상승, ICU 입원, PaO₂/FiO₂ ＜300
+* REMAP-CAP(ICU 중증 CAP, hydrocortisone 7일 고정 요법)에서는 사망률 감소가 확인되지 않고<mark style="color:$info;">\[Intensive Care Med 2025]</mark> 연구별 결과가 일치하지 않음
+* 모든 중증 CAP에 일률적으로 적용하지 않고 조기 투여 가능성·호흡부전·염증 정도와 고혈당 등 위해를 고려하여 개별 결정
 * 입원한 고위험 CAP(쇼크, 심한 저산소증, 기계환기 필요 등)에서 항생제와 함께 정맥 hydrocortisone을 우선 고려하고, 부적합하면 dexamethasone 등 대체. 기간은 4\~7일 또는 퇴원 시까지 <mark style="color:$info;">\[NICE 2025]</mark>
 * 인플루엔자 관련 폐렴에는 위 중증 CAP 권고를 적용하지 않음. 불응성 패혈성 쇼크는 패혈증 지침에 따라 별도로 판단
 
 ### <mark style="color:orange;">해열·진통제</mark>
 
-* acetaminophen 500\~1,000 ㎎ q6\~8h prn <mark style="color:blue;">\[타이레놀]</mark> (서방형은 650 ㎎ 2정 q8h, 1일 최대 6정(3.9 g); 일반 제형 1일 최대 4 g; 고령·간질환·음주자는 감량)
-* ibuprofen 200\~400 ㎎ tid\~qid prn <mark style="color:blue;">\[부루펜]</mark> (금기 : 소화성 궤양·위장관 출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린·다른 NSAID에 대한 천식·두드러기 등 과민반응 병력, 심한 고혈압, 중증 신장·심장·간기능장애. 임신 관련 금기는 제품별로 다르므로 허가사항 확인. 고령·경증 신기능 저하에서는 신중 투여)
-* dexibuprofen 300 ㎎ tid prn <mark style="color:blue;">\[애니펜]</mark> (1일 최대 1,200 ㎎; 금기는 ibuprofen과 같음)
+* acetaminophen : 500\~1,000 ㎎ q6\~8h prn <mark style="color:blue;">\[타이레놀]</mark> (서방형은 650 ㎎ 2정 q8h, 1일 최대 6정(3.9 g); 일반 제형 1일 최대 4 g; 고령·간질환·음주자는 감량)
+* ibuprofen : 200\~400 ㎎ tid\~qid prn <mark style="color:blue;">\[부루펜]</mark>&#x20;
+  * 금기 : 소화성 궤양·위장관 출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린·다른 NSAID에 대한 천식·두드러기 등 과민반응 병력, 심한 고혈압, 중증 신장·심장·간기능장애
+  * 고령, 경증 신기능 저하에서는 신중 투여
+* dexibuprofen : 300 ㎎ tid prn <mark style="color:blue;">\[애니펜]</mark> (1일 최대 1,200 ㎎; 금기는 ibuprofen과 같음)
 
 ## <mark style="color:green;">치료에 반응하지 않는 폐렴의 원인</mark>
 
-#### <mark style="color:$primary;">1. 진단 오류 (Diagnostic Error)</mark>
+**1. 진단 오류 (Diagnostic Error)**
 
 * 폐렴으로 오인하기 쉬운 질환들; 항생제 반응이 없으면 반드시 재고
   * 울혈성 심부전, 폐색전증, 심근경색
@@ -400,14 +399,14 @@ class N,O orange50
   * 약제 유발성 폐질환, 호산구성 폐렴, 과민성 폐렴
   * 폐출혈, 폐쇄성 폐렴, 신부전
 
-#### <mark style="color:$primary;">2. 숙주 요인 (Host Problem)</mark>
+**2. 숙주 요인 (Host Problem)**
 
 * 치료가 적절하더라도 반응이 부족할 수 있는 상황
   * 국소 부위 폐쇄 (이물질, 종양에 의한 폐쇄)
   * 면역 저하 (HIV, 고용량 스테로이드, 항암 치료)
   * 폐렴 합병증 : 농흉, 폐렴 주위 삼출액, 폐농양
 
-#### <mark style="color:$primary;">3. 병원체·약제 요인 (Pathogen / Drug Issue)</mark>
+**3. 병원체·약제 요인 (Pathogen / Drug Issue)**
 
 * 항생제 선택이나 병원체에 문제가 있는 경우
   * 약제 요인 : 약제 선택/용량/용법 잘못, 약물열, 약물 상호 작용
@@ -424,17 +423,9 @@ class N,O orange50
 
 ## <mark style="color:green;">예방</mark>
 
-* 예방접종 : [폐렴](../231_/210_-vaccination.md#pneumococcal-pneumonia) 및 [인플루엔자](../231_/210_-vaccination.md#influenza)&#x20;
+* 예방접종 : [폐렴](../231_/210_-vaccination.md#pneumococcal-pneumonia) 및 [인플루엔자](../231_/210_-vaccination.md#influenza)
 * 금연
 * 손 씻기, 건강한 생활 습관 (충분한 영양 섭취, 규칙적 운동)
-
-### <mark style="color:orange;">성인 폐렴구균 예방접종</mark>
-
-* 접종 백신과 간격은 연령, 기저 질환, 과거 PCV·PPSV23 접종력 및 국내 허가·권고에 따라 달라짐
-* 대한감염학회(2026)는 65세 이상과 19\~64세 고위험군에게 PCV21 1회, PCV20 1회, 또는 PCV15 후 PPSV23을 권고함. PCV21은 혈청형 4를 포함하지 않으므로 혈청형 4가 흔한 상황에서는 PCV20 또는 PCV15→PPSV23을 선호할 수 있음. 국가예방접종은 65세 이상 PPSV23
-* 미국 ACIP는 50세 이상 모든 성인에게 PCV15, PCV20 또는 PCV21을 권고함. PCV15 사용 시 통상 1년 후 PPSV23을 1회 접종하고, 면역 저하·인공와우·뇌척수액 누출에서는 최소 8주 간격을 고려. PCV20 또는 PCV21 후에는 PPSV23이 필요하지 않음 <mark style="color:$info;">\[CDC]</mark>
-* PCV21이 모든 환자에서 PCV20보다 우선하는 것은 아니며, 혈청형 분포와 국내 백신 가용성을 고려
-* 국내 대상·접종력별 일정과 급여 기준은 [예방접종](../231_/210_-vaccination.md#pneumococcal-pneumonia) 챕터의 최신 표를 따름
 
 ***
 
@@ -516,59 +507,47 @@ class N,O orange50
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* Metlay JP et al. ATS/IDSA 성인 지역사회획득폐렴 지침. Am J Respir Crit Care Med. 2019;200(7):e45-e67 - 중증도 평가, 경험적 항생제, 미생물 검사 및 흡인성 폐렴 치료.
+*   Metlay JP et al. ATS/IDSA 성인 지역사회획득폐렴 지침. Am J Respir Crit Care Med. 2019;200(7):e45-e67 - 중증도 평가, 경험적 항생제, 미생물 검사 및 흡인성 폐렴 치료.
 
-  https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-cap-in-adults
+    https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-cap-in-adults
+*   Jones BE et al. Diagnosis and Management of Community-acquired Pneumonia: An Official ATS Clinical Practice Guideline. Am J Respir Crit Care Med. 2026;212(1):24-44 (온라인 2025.7.18) - 폐초음파, 바이러스 양성 CAP의 항생제, 단기 요법 및 corticosteroid.
 
-* Jones BE et al. Diagnosis and Management of Community-acquired Pneumonia: An Official ATS Clinical Practice Guideline. Am J Respir Crit Care Med. 2026;212(1):24-44 (온라인 2025.7.18) - 폐초음파, 바이러스 양성 CAP의 항생제, 단기 요법 및 corticosteroid.
+    https://doi.org/10.1164/rccm.202507-1692ST
+*   NICE. NG250: Pneumonia: diagnosis and management. 2025 - CRB-65에 따른 치료 장소, 성인 항생제 및 중단 기준, 정맥→경구 전환, 고위험 CAP의 corticosteroid.
 
-  https://doi.org/10.1164/rccm.202507-1692ST
+    https://www.nice.org.uk/guidance/ng250
+*   NICE. NG237: Suspected acute respiratory infection in over 16s: assessment at first presentation and initial management. 2023(2025 갱신) - 일차진료 CRP 절단점.
 
-* NICE. NG250: Pneumonia: diagnosis and management. 2025 - CRB-65에 따른 치료 장소, 성인 항생제 및 중단 기준, 정맥→경구 전환, 고위험 CAP의 corticosteroid.
-
-  https://www.nice.org.uk/guidance/ng250
-
-* NICE. NG237: Suspected acute respiratory infection in over 16s: assessment at first presentation and initial management. 2023(2025 갱신) - 일차진료 CRP 절단점.
-
-  https://www.nice.org.uk/guidance/ng237
-
+    https://www.nice.org.uk/guidance/ng237
 * REMAP-CAP Investigators. Effect of hydrocortisone on mortality in patients with severe community-acquired pneumonia. Intensive Care Med. 2025;51(4):665-680 - 중증 CAP의 hydrocortisone 고정 요법.
+*   Lee MS et al. Guideline for Antibiotic Use in Adults with Community-acquired Pneumonia. Infect Chemother. 2018;50(2):160-198 - 국내 폐렴구균 내성을 고려한 외래 경험적 항생제 선택(macrolide·tetracycline 단독 요법 비권장).
 
-* Lee MS et al. Guideline for Antibiotic Use in Adults with Community-acquired Pneumonia. Infect Chemother. 2018;50(2):160-198 - 국내 폐렴구균 내성을 고려한 외래 경험적 항생제 선택(macrolide·tetracycline 단독 요법 비권장).
+    https://doi.org/10.3947/ic.2018.50.2.160
+*   Diehr P et al. Prediction of pneumonia in outpatients with acute cough - a statistical approach. J Chronic Dis. 1984;37(3):215-225 - 외래 폐렴 예측 규칙.
 
-  https://doi.org/10.3947/ic.2018.50.2.160
+    https://pubmed.ncbi.nlm.nih.gov/6699126/
+*   CDC. Clinical Care of Mycoplasma pneumoniae Infection - 항생제 선택과 macrolide 치료 무반응 시 대안.
 
-* Diehr P et al. Prediction of pneumonia in outpatients with acute cough - a statistical approach. J Chronic Dis. 1984;37(3):215-225 - 외래 폐렴 예측 규칙.
+    https://www.cdc.gov/mycoplasma/hcp/clinical-care/index.html
+*   CDC. Clinical Overview of Chlamydia pneumoniae Infection - 병원체별 치료 선택.
 
-  https://pubmed.ncbi.nlm.nih.gov/6699126/
+    https://www.cdc.gov/cpneumoniae/hcp/clinical-overview/index.html
+*   CDC. Pneumococcal Vaccine Recommendations - 미국 성인 PCV·PPSV23 접종 일정; 국내 권고와 구분.
 
-* CDC. Clinical Care of Mycoplasma pneumoniae Infection - 항생제 선택과 macrolide 치료 무반응 시 대안.
+    https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html
+*   Song JY et al. Recommendations for Adult Pneumococcal Vaccination in Korea: 2026 Update Incorporating the 21-Valent Pneumococcal Conjugate Vaccine. Infect Chemother. 2026;58(3):291-299 - 65세 이상·19\~64세 고위험군의 PCV21·PCV20·PCV15→PPSV23 선택과 혈청형 4 고려.
 
-  https://www.cdc.gov/mycoplasma/hcp/clinical-care/index.html
-
-* CDC. Clinical Overview of Chlamydia pneumoniae Infection - 병원체별 치료 선택.
-
-  https://www.cdc.gov/cpneumoniae/hcp/clinical-overview/index.html
-
-* CDC. Pneumococcal Vaccine Recommendations - 미국 성인 PCV·PPSV23 접종 일정; 국내 권고와 구분.
-
-  https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html
-
-* Song JY et al. Recommendations for Adult Pneumococcal Vaccination in Korea: 2026 Update Incorporating the 21-Valent Pneumococcal Conjugate Vaccine. Infect Chemother. 2026;58(3):291-299 - 65세 이상·19\~64세 고위험군의 PCV21·PCV20·PCV15→PPSV23 선택과 혈청형 4 고려.
-
-  https://doi.org/10.3947/ic.2026.0063
+    https://doi.org/10.3947/ic.2026.0063
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+*   건강보험심사평가원. 약제 급여기준 및 보험인정기준 - 국내 약제의 급여 범위와 투여 조건 확인.
 
-* 건강보험심사평가원. 약제 급여기준 및 보험인정기준 - 국내 약제의 급여 범위와 투여 조건 확인.
+    https://www.hira.or.kr/
+*   질병관리청. 감염병 지침·공지 및 예방접종도우미 - 국내 감염관리와 국가예방접종 기준 확인.
 
-  https://www.hira.or.kr/
-
-* 질병관리청. 감염병 지침·공지 및 예방접종도우미 - 국내 감염관리와 국가예방접종 기준 확인.
-
-  https://www.kdca.go.kr/
+    https://www.kdca.go.kr/
 
 ***
 
