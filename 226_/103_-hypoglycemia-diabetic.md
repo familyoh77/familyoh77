@@ -8,7 +8,7 @@
 * T1DM에서는 질병 경과 중 저혈당에 대한 glucagon 반응이 저하될 수 있으며, 반복 저혈당이 동반되면 counter-regulatory response와 경고 증상이 더욱 약화되어 저혈당 불감증으로 이어질 수 있음
 * 평소 높은 혈당이 빠르게 낮아지면 혈당이 70 ㎎/㎗ 이상이어도 저혈당과 유사한 증상을 느낄 수 있음(상대적 저혈당); 실제 저혈당과 구분 필요
 * 분류
-  * Level 1 : ＜70 ㎎/㎗ & ≥54 ㎎/㎗; 주의가 필요한 저혈당. 증상이 있을 수도 없을 수도 있음
+  * Level 1 : ≥54 및 ＜70 ㎎/㎗; 저혈당 유발 약제 사용 환자에서 증상 유무와 관계없이 교정이 필요한 경고 범위
   * Level 2 : ＜54 ㎎/㎗; 즉각적인 조치가 필요한 임상적으로 유의한 저혈당
   * Level 3 : 혈당 수치와 관계없이, 저혈당 회복을 위해 다른 사람의 도움이 필요한 심한 인지·정신 또는 신체 기능 장애를 동반한 사건
 * Level 2 또는 3 저혈당이 한 번이라도 발생하면 치료 계획을 재평가해야 함 - 원인 확인, 약제 감량·변경, 혈당 목표의 개별화·일시적 완화 등
@@ -23,7 +23,7 @@
   * CGM 연동 저혈당 예측 중단·AID 시스템은 기존 인슐린요법보다 저혈당 위험을 낮출 수 있음
   * Sulfonylurea·meglitinide의 위험은 성분, 용량, 신기능, 식사 상태 및 병용약에 따라 달라 단순 서열화하기 어려움
   * 인슐린과 sulfonylurea 병용 시 위험 증가
-* 엄격한 혈당 조절, 최근의 빠른 혈당 강하, 큰 혈당 변동성(glycemic variability); 특히 저혈당 유발 약제를 사용하면서 A1C가 낮은 경우
+* 엄격한 혈당 조절, 최근의 빠른 혈당 강하, 큰 혈당 변동성(glycemic variability); 특히 저혈당 유발 약제를 사용하면서 A1C가 낮은 경우. A1C가 높아도 반복 저혈당이 공존할 수 있으므로 평균 수치만으로 위험을 배제하지 않음
 * 긴 당뇨병 유병 기간; T1DM은 유병 기간이 길지 않아도 위험이 높을 수 있음
 * 최근 3\~6개월 내 Level 2 또는 3 저혈당 과거력 - 재발의 강력한 예측 인자
 * 고령(특히 ≥75세), 소아·청소년 T1DM, 쇠약, 저체중, 임신
@@ -34,8 +34,9 @@
   * 인지기능 저하와 저혈당은 양방향 관계이므로 고위험 환자에서 정기적 인지기능 평가 권고
 * 신기능 저하·신부전, 진행성 간질환, 심부전·중증 급성 질환, 부신기능저하, 섭식장애·영양불량, 구토·설사, 위마비, 저혈당 불감증, 비만대사수술 과거력
 * Sulfonylurea와 상호작용할 수 있는 약물(예: fluoroquinolone, clarithromycin, trimethoprim/sulfamethoxazole, metronidazole, fluconazole 등) 또는 insulin·SU 효과에 영향을 주는 병용약
+* 원인 불명의 반복 저혈당 또는 insulin 필요량 감소가 있는 T1DM에서는 동반 자가면역 부신질환·갑상선질환 및 coeliac disease도 임상 소견에 따라 감별  <mark style="color:$info;">[ADA/EASD 2026]</mark>
 * 사회경제적 위기 : 식품 불안정, 저소득, 주거 불안정, 의료보장 미흡, 낮은 건강 문해력
-* 여성에서 위험 증가가 보고되지만 개인별 위험은 약제·질환·사회적 요인을 함께 평가 <mark style="color:$info;">[ADA 2026]</mark>
+* 여성에서 위험 증가가 보고되지만 개인별 위험은 약제·질환·사회적 요인을 함께 평가  <mark style="color:$info;">[ADA 2026]</mark>
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -43,10 +44,11 @@
 * Neuroglycopenic Sx. : 어지럼, 두통, 기력 약화, 감각·시각 이상, 말하기 힘듦, 협응 장애, 행동 변화, 인지 장애, 혼돈, 섬망, 발작, 의식 소실
 * 대개 autonomic Sx.이 neuroglycopenic Sx.보다 먼저 나타나 경고 신호 역할을 하지만, 저혈당 불감증에서는 경고 증상이 약해져 혼돈·행동 변화가 첫 증상으로 나타날 수 있음
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+## <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
+* 현재 혈당 ＜54 ㎎/㎗ - 무증상이어도 즉시 교정; 자가 대처가 불가능하거나 교정되지 않으면 응급 평가
 * 의식 저하·혼수·발작 또는 안전하게 삼킬 수 없는 상태
 * 저혈당 회복에 다른 사람의 도움이 필요한 Level 3 저혈당
 * Glucagon이 필요한 중증 저혈당 - 즉시 119 신고와 함께 투여하고 반응을 기다리며 이송을 지연하지 않음
@@ -59,7 +61,7 @@
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 현재 저혈당이 교정되어 안정적이나 약제·식사·신기능 변화에 대한 조정이 필요한 경우; 재발·지연 위험이 높으면 당일 응급 평가
-* 최근 수 주 내 반복적인 Level 2 저혈당
+* 최근 수 주 내 반복적인 Level 2 저혈당 - 당일 치료계획 재평가; 현재 저혈당이 지속되면 즉각 조치
 * 당뇨병 병력이 없는 환자의 원인 불명 공복 저혈당 또는 Whipple triad가 확인된 저혈당
 * 안정된 만성 신·간질환 또는 호르몬 결핍 가능성이 있어 저혈당 원인 평가와 치료계획 조정이 필요한 경우; 급성 악화·위기 의심 시 즉각 평가
 * 교정 후 안정된 음주·영양불량 관련 저혈당; 지속·재발하거나 경구 섭취가 어려우면 당일 응급 평가
@@ -67,21 +69,21 @@
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark> <mark style="color:$info;">- 즉각 위험 낮으나 호전 없으면 의뢰</mark>
 
-* 저혈당 불감증이 의심되나 현재 안정적이고 자가 대처가 가능
+* 저혈당 불감증이 의심되나 현재 안정적이고 자가 대처가 가능; Level 2/3가 동반되면 상위 단계 적용
 * 경미한 반복 저혈당(Level 1)으로 자가 대처가 가능
 * 저혈당에 대한 두려움(fear of hypoglycemia)으로 환자가 인슐린 투여 또는 혈당 조절을 회피
 
 ## <mark style="color:green;">진단</mark>
 
 * 현장에서는 모세혈관 혈당으로 신속히 확인하되, 의식 저하·발작 등 중증 증상이 있거나 측정이 즉시 불가능하면 검사를 기다리느라 치료를 지연하지 않음
-* CGM은 간질액 glucose를 측정하므로 빠른 혈당 변화 시 시간 지연이 있고 저혈당 범위의 정확도가 낮아질 수 있음. 증상이나 임상 상황과 맞지 않으면 손끝 혈당으로 재확인
+* CGM은 간질액 glucose를 측정하므로 빠른 혈당 변화 시 시간 지연이 있고 저혈당 범위의 정확도가 낮아질 수 있음. 증상이나 임상 상황과 맞지 않거나 회복 후에도 낮게 표시되면 손끝 혈당으로 재확인; 증상과 일치하는 명백한 저혈당은 재확인을 기다리느라 치료를 지연하지 않음
 * Whipple triad : ⓵ 저혈당에 합당한 증상·징후, ⓶ 신뢰할 수 있는 검사로 확인된 낮은 혈장 glucose, ⓷ 혈당 상승 후 증상·징후 해소
-  * 당뇨병 약제를 사용하지 않는 환자에서는 불필요한 검사를 피하기 위해 Whipple triad가 확인된 경우에 저혈당 질환을 평가
+  * 당뇨병 약제를 사용하지 않는 환자에서는 Whipple triad를 확인한 뒤 저혈당 질환을 평가. 확진의 혈당 근거는 신뢰할 수 있는 검사실 혈장 glucose로 하며 CGM·자가혈당계 수치만으로 확정하지 않음
   * 인슐린·분비촉진제 사용 환자에서 전형적인 증상이 있으나 즉시 측정할 수 없다면 치료 목적으로 저혈당으로 간주하여 조치 가능
 * 비당뇨병성 원인 불명 저혈당에서는 가능하면 저혈당 당시 탄수화물 투여 전에 critical sample 채취 : plasma glucose, insulin, C-peptide, proinsulin, β-hydroxybutyrate, SU/meglitinide 선별검사; 필요 시 insulin antibody, cortisol 등. 검체 확보 때문에 저혈당 치료를 지연하지 않음
 * 자발적 발생 당시 검사를 확보하지 못하면 전문기관에서 공복·야간 저혈당에는 감독하 최대 72시간 금식검사, 비수술성 식후 저혈당에는 감독하 mixed-meal test 고려
-  * 비만대사수술 후 저혈당(PBH)은 병력과 자발적 저혈당 당시 Whipple triad를 중심으로 진단하며 OGTT·mixed-meal test를 일률적인 확진검사로 시행하지 않음 <mark style="color:$info;">[Society for Endocrinology 2024]</mark>
-* 내인성 고인슐린혈증이 생화학적으로 확인된 뒤 췌장 CT/MRI, 내시경초음파 등의 병변 국소화 검사 시행 <mark style="color:$info;">[Endocrine Society 2009]</mark>
+  * 비만대사수술 후 저혈당(PBH)은 병력과 자발적 저혈당 당시 Whipple triad를 중심으로 진단하며 OGTT·mixed-meal test를 일률적인 확진검사로 시행하지 않음  <mark style="color:$info;">[Society for Endocrinology 2024]</mark>
+* 내인성 고인슐린혈증이 생화학적으로 확인된 뒤 췌장 CT/MRI, 내시경초음파 등의 병변 국소화 검사 시행  <mark style="color:$info;">[Endocrine Society 2009]</mark>
 
 ### <mark style="color:orange;">저혈당 위험 선별</mark>
 
@@ -118,6 +120,7 @@
 * CGM lag : 혈당이 빠르게 변할 때 간질액 glucose가 혈당 변화를 수 분 늦게 반영할 수 있음
 * 압박 저혈당(compression low) : 수면·휴식 중 센서 부위 압박으로 인위적으로 낮은 CGM 수치가 나타남
   * 증상 또는 임상 상황과 맞지 않는 CGM 수치는 손끝 혈당으로 재확인 (☞ [당뇨병 약물 치료](101_-dmdrugs.md#cgm-데이터-판독-및-관리-실무))
+* 말초관류 저하 : 쇼크·차가운 손·Raynaud 현상 등에서는 손끝 혈당이 실제보다 낮게 측정될 수 있음. 임상 소견과 불일치하면 검사실 혈장 glucose와 대조하되 중증 증상에서는 치료 우선
 * 검체성 저혈당 : 채혈 후 혈구가 시험관 안에서 glucose를 계속 소비하여 실제보다 낮게 측정됨. 백혈구증가증·적혈구증가증·혈소판증가증 또는 검체 처리 지연 시 의심
   * 신속한 혈장 분리 또는 적절한 glycolysis inhibitor 검체로 재검하고 임상 상태·모세혈관 혈당과 대조
 
@@ -130,6 +133,7 @@
   * 수 주 동안 저혈당 재발을 철저히 방지하여 인지능 회복 도모 : 혈당 목표 일시 완화, 원인 약제 감량·변경
   * 저혈당 경고 기능이 있는 real-time CGM, predictive low-glucose suspend 또는 AID 고려
   * 구조화된 저혈당 인지능 회복 교육 프로그램 또는 경험 있는 당뇨병 교육자·전문가에게 연계
+  * CGM/AID로 저혈당 노출이 줄어도 인지능이 자동으로 회복되는 것은 아니므로 증상 인지·재발을 별도로 추적  <mark style="color:$info;">[ADA/EASD 2026]</mark>
   * 당뇨병성 자율신경병증이 의심되면 별도 평가·관리하되 이를 저혈당 불감증의 유일한 원인으로 단정하지 않음
 
 #### <mark style="color:$primary;">반응성(식후) 저혈당</mark>
@@ -140,24 +144,24 @@
 
 ```mermaid
 graph TD
-    A([저혈당 의심]) --> B{안전하게 삼킬 수 있고<br/>의식이 명료한가?}
-    B -->|YES| C[가능하면 즉시 혈당 확인]
-    C -->|＜70 또는 측정 불가하나 전형적 증상| D[포도당 15 g 섭취<br/>개별 교육받은 AID 사용자는 5~10 g 고려]
-    C -->|≥70| E[측정값·혈당 추세 재확인<br/>상대적 저혈당·다른 원인 평가]
-    D --> F{15분 후 손끝 혈당<br/>여전히 ＜70인가?}
-    F -->|YES| D
-    F -->|NO| G[혈당 회복 후 증상 지속 시 다른 원인 평가<br/>다음 식사까지 1시간 이상이면 간식]
-    B -->|NO: 의식 저하·발작 등| H[즉시 119 신고<br/>경구 섭취 금지·측와위]
-    H --> I{IV 확보된<br/>의료기관인가?}
-    I -->|YES| J[IV dextrose 투여<br/>기관 프로토콜에 따라 적정]
-    I -->|NO| K[Glucagon 즉시 투여<br/>성인 주사 1 mg 또는 비강 3 mg]
-    K --> L[반응 없으면 IV dextrose 지연 금지<br/>재투여는 제품별 설명서·사전 계획에 따름]
-    J --> M[혈당·의식 반복 평가<br/>원인에 따라 탄수화물·IV dextrose 유지]
-    L --> M
-    G --> N{지속·재발 또는 중대한 용량 오류<br/>급성 질환·고위험 약제 관련 재발 위험?}
-    M --> O[응급실 평가·재발 관찰<br/>SU 반복 시 octreotide 고려]
-    N -->|YES| O
-    N -->|NO| P[원인 교정·치료계획 재평가<br/>자가혈당 추적]
+    A([저혈당 의심]) ---> B{안전하게 삼킬 수 있고<br/>의식이 명료한가?}
+    B --->|YES| C[가능하면 즉시 혈당 확인]
+    C --->|＜70 또는 측정 불가하나 전형적 증상| D[포도당 15 g 섭취<br/>개별 교육받은 AID 사용자는 5~10 g 고려]
+    C --->|≥70| E[측정값·혈당 추세 재확인<br/>상대적 저혈당·다른 원인 평가]
+    D ---> F{15분 후 손끝 혈당<br/>여전히 ＜70인가?}
+    F --->|YES| D
+    F --->|NO| G[혈당 회복 후 증상 지속 시 다른 원인 평가<br/>다음 식사까지 1시간 이상이면 간식]
+    B --->|NO: 의식 저하·발작 등| H[즉시 119 신고·경구 섭취 금지<br/>정상 호흡 시 측와위·호흡 없으면 CPR/AED]
+    H ---> I{IV 확보된<br/>의료기관인가?}
+    I --->|YES| J[IV dextrose 투여<br/>기관 프로토콜에 따라 적정]
+    I --->|NO| K[Glucagon 즉시 투여<br/>성인 주사 1 mg 또는 비강 3 mg]
+    K ---> L[반응 없으면 IV dextrose 지연 금지<br/>재투여는 제품별 설명서·사전 계획에 따름]
+    J ---> M[혈당·의식 반복 평가<br/>원인에 따라 탄수화물·IV dextrose 유지]
+    L ---> M
+    G ---> N{지속·재발 또는 중대한 용량 오류<br/>급성 질환·고위험 약제 관련 재발 위험?}
+    M ---> O[응급실 평가·재발 관찰<br/>SU 과량·반복 시 octreotide 병용 고려]
+    N --->|YES| O
+    N --->|NO| P[원인 교정·치료계획 재평가<br/>자가혈당 추적]
 
     style A fill:#eeeeee,stroke:#888888,stroke-width:2px
     style H fill:#ffcdd2,stroke:#c62828
@@ -169,7 +173,7 @@ graph TD
 
 <p align="center"><strong>저혈당 대처 알고리듬</strong></p>
 
-_✽경구 포도당·주사 glucagon 용량은 성인 기준; 소아는 개별 처방에 따르며 비강 glucagon의 국내 인정 연령은 4세 이상. 경구 처치를 반복해도 회복되지 않으면 응급 평가_
+_✽혈당 단위는 ㎎/㎗. 경구 포도당·주사 glucagon 용량은 성인 기준; 소아는 개별 처방에 따르며 비강 glucagon의 국내 인정 연령은 4세 이상. 경구 처치를 반복해도 회복되지 않으면 응급 평가_
 
 <p align="center"><em><mark style="color:$info;">저자 재구성(참고문헌 : ADA Standards of Care in Diabetes, Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises, 2026; KDA 당뇨병 진료지침 제9판, 2025; Endocrine Society, 2009)</mark></em></p>
 
@@ -183,16 +187,17 @@ _✽경구 포도당·주사 glucagon 용량은 성인 기준; 소아는 개별 
 
 ### <mark style="color:orange;">안전하게 삼킬 수 있을 때</mark>
 
-* 포도당 15 g 섭취 → 15분 후 혈당 재검 → ＜70 ㎎/㎗이면 반복 → 회복 후 다음 식사가 1시간 이상 남은 경우 복합 탄수화물이 포함된 간식 섭취
+* 성인은 포도당 15 g 섭취(국내 지침의 권고 범위 15\~20 g) → 15분 후 혈당 재검 → ＜70 ㎎/㎗이면 반복 → 회복 후 다음 식사가 1시간 이상 남은 경우 복합 탄수화물이 포함된 간식 섭취
 * 혈당이 회복되었는데도 증상이 지속되면 측정값을 재확인하고 다른 원인을 평가; CGM이 계속 낮게 보이면 손끝 혈당으로 재확인. 혼돈·국소 신경학적 이상이 지속되면 응급 평가
+* 소아는 성인 15 g을 일률 적용하지 않고 체중·치료기기·담당팀의 사전 교육에 따라 개별화
 * 운동 중·직후 발생한 저혈당은 활동으로 인한 glucose 소모가 지속될 수 있으므로 1차 교정 후 추가 탄수화물 필요 여부를 혈당 추세와 운동 상황에 따라 판단
 * 포도당 약 15 g에 해당하는 음식 예
   * 포도당 정제 또는 gel : 제품 표시에서 총 포도당 약 15 g이 되도록 사용
   * 설탕 함유 주스 또는 청량음료 : 제품 표시에서 탄수화물 약 15 g에 해당하는 양(대략 150 ㎖ 전후; 제품별 차이 있음)
-  * 설탕 또는 꿀 한 큰술 - α-glucosidase inhibitor 복용자는 사용하지 않음
+  * 설탕 또는 꿀 : 계량·제품 표시상 탄수화물 약 15 g에 해당하는 양; 한 큰술은 종류·계량에 따라 함량 차이가 있음. α-glucosidase inhibitor 병용자는 순수 포도당 사용
   * 사탕 : 제품별 탄수화물 함량을 확인하여 총량 약 15 g이 되도록 사용
 * 순수 포도당이 1차 선택이며, 지방·단백질이 많은 초콜릿·아이스크림은 흡수가 지연되어 초기 치료에 적합하지 않음
-* AID 사용자는 insulin delivery가 이미 감소·중단되므로 5\~10 g으로도 충분할 수 있음. 운동 동반, 수동 모드, 많은 insulin on board 등에서는 더 필요할 수 있으므로 기기·과거 반응에 따라 사전에 개별 교육 <mark style="color:$info;">[ADA 2026]</mark>
+* AID 사용자는 insulin delivery가 이미 감소·중단되므로 5\~10 g으로도 충분할 수 있음. 운동 동반, 수동 모드, 많은 insulin on board 등에서는 더 필요할 수 있으므로 기기·과거 반응에 따라 사전에 개별 교육  <mark style="color:$info;">[ADA 2026]</mark>
 
 {% hint style="danger" %}
 **Acarbose 등 α-glucosidase inhibitor를 다른 저혈당 유발 약제와 병용하는 환자** : α-glucosidase inhibitor 단독은 보통 저혈당을 일으키지 않지만, insulin·SU 등과 병용 중 발생한 저혈당은 sucrose(설탕)가 아니라 순수 포도당으로 치료. 과일주스·사탕은 성분이 일정하지 않으므로 포도당 정제·gel이 가장 예측 가능한 선택
@@ -200,22 +205,25 @@ _✽경구 포도당·주사 glucagon 용량은 성인 기준; 소아는 개별 
 
 ### <mark style="color:orange;">의식 저하·발작 또는 삼킬 수 없을 때</mark>
 
-* 즉시 119 신고; 음식·음료를 억지로 먹이지 않고 측와위 유지. 저혈당 교정을 위해 insulin을 추가 투여하지 않도록 보호자 교육
+* 즉시 119 신고; 기도·호흡을 확인하고 정상 호흡이 없으면 심폐소생술·AED 적용. 정상 호흡은 있으나 의식이 없으면 음식·음료·경구 gel을 먹이거나 입안에 넣지 않고 측와위 유지. 저혈당 교정을 위해 insulin을 추가 투여하지 않도록 보호자 교육
 * 비의료 현장 또는 IV 확보 전 glucagon
   * 주사형 : 성인 1 ㎎ IM 또는 SC; 소아는 체중별 제품설명서와 사전 처방 용량에 따름
   * 비강형 : 4세 이상 당뇨 환자에서 3 ㎎을 한쪽 비강에 1회 분무; 흡입할 필요 없음
   * 반응이 없으면 정맥 포도당 투여를 지연하지 않음. 재투여 여부·시점은 제품별 설명서와 사전 처방계획에 따르며, 재투여를 기다리느라 응급 이송을 지연하지 않음
 * 의료기관에서는 IV dextrose 투여 후 5\~15분 간격으로 혈당·의식을 반복 평가
-  * 기관 프로토콜에 따라 10% 또는 20% dextrose 등을 적정; 50% dextrose를 사용할 경우 고장성으로 인한 혈관외 유출·조직손상 및 반동성 고혈당에 주의
+  * 성인 용량 예 : 10% dextrose 200 ㎖ 또는 20% dextrose 100 ㎖(각 20 g)를 약 10\~15분에 걸쳐 IV 투여하고 약 10분 후 재평가; 필요 시 추가. 기관 프로토콜과 환자 상태에 따라 적정하며, 소아에는 성인 용량을 적용하지 않음  <mark style="color:$info;">[JBDS 2023]</mark>
+  * 50% dextrose는 고장성이므로 혈관외 유출·조직손상 및 과잉 교정에 주의
   * 재발 위험이 있으면 경구 탄수화물 또는 10% dextrose 등의 지속 공급을 원인·혈당 반응에 따라 적정; 5% dextrose만으로는 부족할 수 있음
 * 회복 후 원인 약제, 용량, 신·간기능, 식사·음주, 재발 여부를 평가. Level 3, 지속·반복 저혈당, 원인 불명이면서 급성 평가가 필요한 경우 또는 SU·지속형 insulin 관련 재발 위험이 높은 경우는 응급실 평가·관찰
 
 ### <mark style="color:orange;">Sulfonylurea 유발 지속·재발 저혈당</mark>
 
 * Sulfonylurea 과량복용 또는 dextrose 투여 후 반복되는 저혈당은 단순 경구 포도당 처치 후 귀가시키지 않고 응급실 이송·입원 관찰
-* Dextrose가 insulin 분비를 다시 촉진하여 재발할 수 있으므로 독성센터·응급의학과와 협의하여 octreotide 병용 고려
-  * 성인에서 흔히 octreotide 50\~100 ㎍ SC 또는 IV, 필요 시 6\~12시간 간격 반복; 구체적 용량·기간은 원인 성분, 신기능, 재발 여부 및 기관 중독 프로토콜에 따름
-* IV dextrose 및 octreotide 중단 후에도 지연 재발 가능. 관찰 기간은 약제·용량·신기능 및 마지막 치료 후 경과에 따라 개별화
+* Dextrose가 insulin 분비를 다시 촉진하여 재발할 수 있으므로 응급의학과·임상중독 전문가와 협의하여 octreotide 병용. 명백한 SU 과량복용으로 저혈당이 발생한 경우에는 최초 교정 후부터 조기 병용을 고려하며 반복될 때까지 기다리지 않음
+  * 성인 용량 예 : octreotide 속방 주사제 50\~100 ㎍ SC 후 필요 시 6\~12시간 간격 반복. IV bolus·지속 주입은 기관 중독 프로토콜에 따라 적용; 경로·용량·기간은 전문가와 결정
+  * SU 유발 저혈당 치료는 국내 허가 외 사용이며, 외인성 insulin 과량에 의한 저혈당에 일률적으로 사용하지 않음
+* IV dextrose 및 octreotide 중단 후에도 지연 재발 가능. 치료 중단 뒤 일반적으로 최소 12시간 추가 관찰을 고려하며, 지속형 약제·대량 노출·신기능 저하·재발 시 더 길게 관찰. 정상 식사 상태에서 혈당이 유지되는지도 확인하며 12시간 경과만으로 일률 퇴원시키지 않음  <mark style="color:$info;">[RCH 중독 지침; 기관별 중독 프로토콜]</mark>
+* 소아는 SU 1정만 우발적으로 섭취해도 지연성 중증 저혈당이 가능하므로 현재 무증상·정상 혈당이어도 응급 평가·관찰  <mark style="color:$info;">[RCH 중독 지침]</mark>
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
@@ -225,12 +233,20 @@ _✽경구 포도당·주사 glucagon 용량은 성인 기준; 소아는 개별 
 * Insulin 또는 분비촉진제 사용자는 운동 전 혈당·CGM 추세, insulin on board, 운동 종류·강도·시간에 따라 탄수화물 섭취 또는 insulin 감량을 개별화
 * 저혈당 위험이 있는 환자는 운전 전 혈당을 확인. 낮거나 하강 중이면 탄수화물 섭취 후 안전 범위로 회복했는지 재확인하고, 인지기능이 충분히 회복될 때까지 운전하지 않음
 * CGM 사용자는 저혈당 경고 기능을 활성화하고 경고 역치·공유 기능을 개인 상황에 맞게 설정
-* Insulin을 사용하는 모든 환자 또는 저혈당 고위험군에게 glucagon 처방; 가족·보호자·학교 관계자 등 주변인에게 보관 위치와 사용법 교육 <mark style="color:$info;">[ADA 2026]</mark>
-* 가정용 구급상자와 외출 가방에 경구 포도당을 준비
+* Insulin을 사용하는 모든 환자 또는 저혈당 고위험군에게 glucagon 처방; 가족·보호자·학교 관계자 등 주변인에게 보관 위치와 사용법 교육  <mark style="color:$info;">[ADA 2026]</mark>
+* 가정용 구급상자와 외출 가방에 경구 포도당을 준비; 학교·직장 등 공공장소 구급상자에도 비치 권고  <mark style="color:$info;">[ADA 2026, 권고 6.17]</mark>
 * 저혈당 불감증 또는 반복 Level 2/3 저혈당이 있으면 수 주 동안 저혈당 회피를 최우선으로 하여 혈당 목표를 일시 완화하고 약제를 조정
 * 인지기능을 정기적으로 평가하고 저하가 확인되면 치료계획을 단순화하며 보호자 참여를 강화
 * 저혈당 고위험군에서 real-time CGM 권고; T1DM에서 저혈당 예측 중단 기능 및 AID는 저혈당 감소에 도움
 * 저혈당 위험이 높거나 반복되면 엄격한 A1C 목표보다 저혈당 회피를 우선하여 목표와 약제를 개별화
+
+### <mark style="color:orange;">CGM 저혈당 지표와 치료계획 조정</mark>
+
+* 비임신 성인의 일반적인 TBR(time below range) 목표 : ＜70 ㎎/㎗인 시간 ＜4%, ＜54 ㎎/㎗인 시간 ＜1%. 고령·고위험군에서는 ＜70 ㎎/㎗인 시간 ＜1%를 우선하여 개별화; 임신·소아에는 별도 목표 적용
+* 목표를 초과하면 insulin·SU·meglitinide의 감량·변경, 식사·활동 패턴 및 CGM/AID 설정을 재검토. 중증 저혈당은 TBR 목표 달성 여부와 관계없이 치료계획 재평가  <mark style="color:$info;">[ADA 2026]</mark>
+* 야간·공복 저혈당은 기저 insulin의 과다, 식후 저혈당은 식사 insulin 용량·투여 시점·섭취량의 불일치를 우선 점검; 반복 교정 bolus에 의한 insulin stacking도 확인
+* T1DM에서는 저혈당 교정 후에도 기저 insulin을 임의로 완전히 중단하지 않음. 지속 주입 중 일시 중단·감량은 기기와 응급 프로토콜에 따라 시행하고 재개 계획을 마련  <mark style="color:$info;">[ADA/EASD 2026]</mark>
+* 고위험군의 기저 insulin은 NPH보다 장시간형 유사체, 기저-식사요법의 식사 insulin은 regular insulin보다 속효성 유사체를 우선 고려  <mark style="color:$info;">[Endocrine Society 2023]</mark>
 
 ### <mark style="color:orange;">방문 시기별 저혈당 예방 체크리스트</mark>
 
@@ -249,26 +265,29 @@ _✽ADA 2026 Table 6.7 재구성; 제시된 주기는 최소 권고이며 임상
 #### <mark style="color:$primary;">Glucagon</mark>
 
 * 의식 저하·발작 또는 삼킴 불가능으로 경구 섭취가 불가능한 경우 IV dextrose를 즉시 사용할 수 없는 현장에서 사용
-* Insulin 사용자 또는 저혈당 고위험군에게 미리 처방하고 주변인에게 사용법 교육; 재구성이 필요 없는 제형 우선 권고 <mark style="color:$info;">[ADA 2026]</mark>
+* Insulin 사용자 또는 저혈당 고위험군에게 미리 처방하고 주변인에게 사용법 교육; 재구성이 필요 없는 제형 우선 권고  <mark style="color:$info;">[ADA 2026]</mark>
 * 주사형 : 성인 1 ㎎, 사용 직전 동봉된 희석액으로 재구성하여 IM 또는 SC <mark style="color:blue;">[글루카겐하이포키트주]</mark>
-  * 소아는 체중별 용량으로 처방·교육하며 성인 1 ㎎을 일률 적용하지 않음. 긴급도입 제품의 소아 용량·재투여는 공급 제품 설명서에 따름
+  * 소아는 체중별 용량으로 처방·교육하며 성인 1 ㎎을 일률 적용하지 않음. 긴급도입 제품의 소아 용량은 공급 제품 설명서에 따름. 주사 후 대개 10분 내 반응하며, 반응이 없으면 IV dextrose로 전환; 응급 이송은 투여와 동시에 진행
 * 비강형 : 4세 이상 당뇨 환자에서 3 ㎎을 한쪽 비강에 1회 분무; 흡입 불필요, 1회용 <mark style="color:blue;">[바크시미나잘스프레이]</mark>
-* 국내 급여 : 2026년 1월 1일부터 주사형은 인정 범위 내 당뇨병 소아·성인의 중증 저혈당증, 비강형은 4세 이상 당뇨 환자의 중증 저혈당에 적용 <mark style="color:$info;">[보건복지부 고시 제2025-224호]</mark>
-* 즉시 119 신고와 함께 glucagon을 투여하고 측와위 유지. 반응이 없으면 IV dextrose를 지연하지 않으며, 재투여 여부·시점은 제품별 설명서와 사전 처방계획에 따름
+* 국내 공급·급여 : 한국희귀·필수의약품센터 긴급도입 품목으로, 식약처장이 인정한 범위에 따름. 2026년 1월 1일부터 주사형은 당뇨병 소아·성인의 중증 저혈당증 치료, 비강형은 4세 이상 당뇨 환자의 중증 저혈당에 급여 적용. 임상 권고상 사전 처방 대상과 국내 급여 인정 범위는 구분함  <mark style="color:$info;">[보건복지부 고시 제2025-224호]</mark>
+* 즉시 119 신고와 함께 glucagon을 투여하고 정상 호흡 시 측와위 유지. 정상 호흡이 없으면 CPR/AED 우선. 반응이 없으면 IV dextrose를 지연하지 않으며, 재투여 여부·시점은 제품별 설명서와 사전 처방계획에 따름
 * 회복하여 안전하게 삼킬 수 있으면 빠르게 흡수되는 탄수화물에 이어 지속성 탄수화물이 포함된 식사·간식 제공
-* 간 glycogen 고갈 상태(장시간 기아, 만성 저혈당, 알코올 관련 저혈당, 일부 glycogen storage disease)에서는 효과가 제한적 → IV dextrose 우선
+* 간 glycogen 고갈 상태(장시간 기아, 부신기능저하, 만성 저혈당, 알코올 관련 저혈당, 일부 glycogen storage disease)에서는 효과가 제한적 → IV dextrose 우선
+* 과민증·갈색세포종(크롬친화세포종)은 금기; insulinoma에서는 insulin 분비 촉진으로 재저혈당이 가능하여 주의. 흔한 이상반응은 구역·구토이며 비강형은 코·눈 자극도 가능
+* 비강형은 사용 직전까지 원래 밀봉 용기에 보관하고 시험 분사하지 않음. 주사형은 재구성 직후 사용; 제품별 보관 온도·유효기간을 교육  <mark style="color:$info;">[공급 제품 설명서]</mark>
 
 #### <mark style="color:$primary;">Dextrose 정맥 투여</mark>
 
 * 의료기관의 의식 저하·발작·삼킴 불가능 환자 또는 glucagon에 반응하지 않는 환자
-* 기관 프로토콜에 따라 IV dextrose를 투여하고 5\~15분 간격으로 혈당·의식을 재평가하며 추가 용량 적정
+* 성인 용량 예 : 10% dextrose 200 ㎖ 또는 20% dextrose 100 ㎖(각 20 g)를 약 10\~15분에 걸쳐 IV 투여; 약 10분 후 혈당·의식 재평가 및 필요 시 반복. 기관 프로토콜에 따라 적정  <mark style="color:$info;">[JBDS 2023]</mark>
 * 말초정맥에서는 10% 또는 20% dextrose 사용을 고려. 50% dextrose 사용 시 혈관외 유출에 따른 조직손상과 반동성 고혈당에 주의
 * 재발 위험이 있으면 경구 탄수화물 또는 IV dextrose 지속 주입을 원인과 반응에 따라 조정
 
 #### <mark style="color:$primary;">Octreotide</mark>
 
 * Sulfonylurea 과량복용 또는 dextrose 후 반복되는 저혈당에서 응급실·입원 환경에서 병용 고려
-* 성인에서 흔히 50\~100 ㎍ SC 또는 IV 후 필요 시 6\~12시간 간격 반복; 독성센터·응급의학과 및 기관 프로토콜에 따라 적용
+* 국내 허가 외 사용. 성인 용량 예 : 속방 주사제 50\~100 ㎍ SC 후 필요 시 6\~12시간 간격 반복; IV 투여·지속 주입은 응급의학과·임상중독 전문가 및 기관 프로토콜에 따라 적용. 장기지속형 제형은 사용하지 않음
+* 투여 경로·용량의 최적 표준은 확립되지 않음. 2026년 소규모 후향 연구의 경로별 결과만으로 지속 주입의 우열을 확정할 수 없음  <mark style="color:$info;">[Ryan 2025; Gupta 2026]</mark>
 
 ***
 
@@ -289,6 +308,8 @@ E16.0 혼수를 동반하지 않은 약물유발 저혈당
 E16.1 기타 저혈당
 
 E16.2 상세불명의 저혈당
+
+_✽당뇨병에 동반된 저혈당은 해당 E1x.63을 우선 검토하며 E16.0\~E16.2를 동일 사건에 기계적으로 중복 부여하지 않음. 혼수 동반 등은 임상 기록과 KCD 분류 지침에 따라 선택; E15는 비당뇨병성 저혈당성 혼수 코드임_
 
 ***
 
@@ -311,7 +332,7 @@ E16.2 상세불명의 저혈당
 > 글루카겐하이포키트주  성인 1 ㎎  사용 직전 재구성하여 대퇴부 또는 삼각근에 IM/SC
 > ※ 소아 주사 용량은 체중별 제품설명서와 사전 처방에 따름
 >
-> ※ 즉시 119 신고와 함께 투여하고 측와위 유지
+> ※ 즉시 119 신고와 함께 투여하고 정상 호흡 시 측와위 유지; 정상 호흡이 없으면 CPR/AED
 > ※ 반응이 없으면 IV dextrose를 지연하지 않음; 재투여는 제품별 설명서와 사전 처방계획에 따름
 > ```
 >
@@ -343,7 +364,7 @@ E16.2 상세불명의 저혈당
 >
 > * 환자 본인이 아니라 가족·동거인·보호자가 사용하는 구조약임을 안내
 > * 주사형은 사용 직전 재구성하고, 비강형은 한쪽 코에 1회 분무하며 흡입할 필요가 없음
-> * 즉시 119 신고와 함께 투여하고 구토에 대비해 환자를 옆으로 눕힘
+> * 즉시 119 신고와 함께 투여하고 정상 호흡 시 구토에 대비해 환자를 옆으로 눕힘; 정상 호흡이 없으면 CPR/AED
 > * 반응이 없으면 정맥 포도당 처치가 필요하며, 재투여는 제품별 설명서와 사전 교육 내용에 따름
 > * 유효기간을 정기적으로 확인하고 사용 후 재처방
 
@@ -381,7 +402,7 @@ E16.2 상세불명의 저혈당
 #### <mark style="color:$primary;">저혈당 증상이 느껴지면 어떻게 해야 하나요?</mark>
 
 * 가능하면 바로 혈당을 측정하십시오. 다만 심한 의식 저하나 발작이 있으면 측정을 기다리지 말고 119에 신고하십시오.
-* 안전하게 삼킬 수 있고 혈당이 70 ㎎/㎗ 미만이면 포도당 15 g을 즉시 섭취하십시오.
+* 안전하게 삼킬 수 있고 혈당이 70 ㎎/㎗ 미만이면 포도당 15 g을 즉시 섭취하십시오. Insulin이나 저혈당을 일으키는 약을 사용 중이고 평소와 같은 저혈당 증상이 있으나 바로 측정할 수 없다면, 먼저 같은 방법으로 대처하고 가능한 한 빨리 혈당을 확인하십시오.
   * 포도당 정제·gel은 제품 표시를 확인하여 총 포도당 약 15 g
   * 설탕 함유 주스·청량음료는 제품 표시에서 탄수화물 약 15 g에 해당하는 양
 * 15분간 기다린 뒤 다시 측정하고, 아직 70 ㎎/㎗ 미만이면 같은 양을 반복하십시오. 혈당이 회복되었는데도 증상이 남으면 당을 계속 먹지 말고 혈당을 재확인한 뒤 의료진의 평가를 받으십시오.
@@ -395,7 +416,7 @@ E16.2 상세불명의 저혈당
 * 처방받은 glucagon을 바로 사용하십시오.
   * 비강형 : 한쪽 코에 1회 분무합니다. 환자가 들이마실 필요는 없습니다.
   * 주사형 : 동봉된 설명에 따라 가루약을 희석액에 녹여 처방받은 용량을 허벅지나 팔에 주사합니다. 소아는 성인과 용량이 다를 수 있으므로 미리 교육받은 용량을 지키십시오.
-* 구토할 수 있으므로 환자를 옆으로 눕혀 두십시오. 저혈당을 고치려고 insulin을 추가 주사해서는 안 됩니다.
+* 정상 호흡이 있으면 구토에 대비해 환자를 옆으로 눕혀 두십시오. 정상적으로 숨 쉬지 않으면 119 안내에 따라 심폐소생술을 시작하고 AED를 사용하십시오. 저혈당을 고치려고 insulin을 추가 주사해서는 안 됩니다.
 * 깨어나지 않으면 119 지시에 따르십시오. 추가 투여는 처방받은 제품의 설명서와 미리 교육받은 계획에 따르고, 추가 투여를 기다리느라 이송을 늦추지 마십시오.
 * 사용 후에는 반드시 다시 처방받고 유효기간을 정기적으로 확인하십시오.
 
@@ -407,6 +428,8 @@ E16.2 상세불명의 저혈당
 * CGM을 사용한다면 저혈당 경고 기능을 켜 두십시오.
 * 저혈당이 반복되면 약 용량·종류, 목표 혈당 및 CGM/AID 사용을 담당 의료진과 재검토하십시오.
 * 혈당이 낮아져도 잘 느끼지 못한다면 반드시 의료진에게 알리십시오.
+* 운전 전에 혈당을 확인하고, 운전 중 증상이 생기면 안전한 곳에 정차한 뒤 대처하십시오. 혈당과 판단력이 충분히 회복될 때까지 운전을 재개하지 마십시오.
+* 본인에게 정해진 탄수화물 양이 다른 소아·AID 사용자는 미리 교육받은 계획을 따르십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 119에 신고하세요</mark>
 
@@ -422,10 +445,16 @@ E16.2 상세불명의 저혈당
 ### 임상 근거
 
 1. American Diabetes Association Professional Practice Committee for Diabetes. 6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S132–S149. [원문](https://doi.org/10.2337/dc26-S006)
-2. 대한당뇨병학회. 2025 당뇨병 진료지침. 제9판. 저혈당 평가·예방·관리.
+2. 대한당뇨병학회. 2025 당뇨병 진료지침. 제9판. 저혈당 평가·예방·관리. [학회 자료](https://diabetes.or.kr/bbs/download.php?code=guide&number=1596)
 3. McCall AL, et al. Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108:529–562. [원문](https://doi.org/10.1210/clinem/dgac596)
 4. Cryer PE, et al. Evaluation and Management of Adult Hypoglycemic Disorders: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2009;94:709–728. [원문](https://doi.org/10.1210/jc.2008-1410)
 5. Hazlehurst J, et al. Society for Endocrinology guidelines for the diagnosis and management of post-bariatric hypoglycaemia. Endocr Connect. 2024;13:e230285. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC11046333/)
+
+6. Holt RIG, et al. The management of type 1 diabetes in adults. The updated 2026 consensus report by the ADA and EASD. Diabetologia. Published online September 16, 2026; September 30 정정 반영본. [원문](https://doi.org/10.1007/s00125-026-06833-z)
+7. Joint British Diabetes Societies for Inpatient Care. Diabetes at the Front Door. Revised May 2023. Appendix 2: Treatment of hypoglycaemia. [원문](https://www.diabetes.org.uk/sites/default/files/2023-06/JBDS%2016%20Diabetes%20at%20the%20Front%20Door%20Guideline%20qr%20code.pdf)
+8. Royal Children's Hospital Melbourne. Clinical Practice Guidelines: Oral Hypoglycaemic Poisoning. Updated December 2020. [원문](https://www.rch.org.au/clinicalguide/guideline_index/Oral_Hypoglycaemic_Poisoning/)
+9. Ryan E, Rushton W. Variations in Octreotide Dosing in Published Reports of Sulfonylurea Toxicity: A Systematic Review, 1988-Present. J Med Toxicol. 2025;21:260–275. [원문](https://doi.org/10.1007/s13181-024-01054-5)
+10. Gupta M, et al. Octreotide Administration Methods in Sulfonylurea Poisoning: A Retrospective Chart Review. J Med Toxicol. 2026;22:415–422. [서지·초록](https://pubmed.ncbi.nlm.nih.gov/42687079/)
 
 ### 허가·급여 확인 자료
 
@@ -435,3 +464,7 @@ E16.2 상세불명의 저혈당
 * 건강보험심사평가원. 보건복지부 고시 제2025-224호 — Glucagon 주사제·외용제 급여기준 신설, 2026년 1월 1일 시행.
 
   [고시 및 급여기준](https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53046&brdScnBltNo=4&pgmid=HIRAA030069000400)
+
+* 건강보험심사평가원. 요양급여의 적용기준 및 방법에 관한 세부사항(약제), 2026년 7월판. Glucagon 외용제·주사제, 본문 537–538쪽. [원문](https://www.hira.or.kr/ebooksc/2026/10/BZ202610074155599.pdf)
+* Novo Nordisk. GlucaGen Hypokit 1 mg, Summary of Product Characteristics. 주사형의 투여 경로·반응 시간·금기 보조 확인 자료(국내 긴급도입 인정 범위 및 공급 설명서 우선). [제조사 설명서](https://www.medicines.org.uk/emc/product/1289/smpc)
+* 질병관리청. 진단 및 수술 코드 분류 지침. 당뇨병과 저혈당증의 분류 원칙. [자료](https://is.kdca.go.kr/cscdfile2/biz/ip/filecmmn/ipFileDown.do?fileId=191d48d46731)
