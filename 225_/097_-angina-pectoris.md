@@ -446,7 +446,7 @@ _PCI=Percutaneous Coronary Intervention, CABG=Coronary Artery Bypass Grafting_
 
 * evolocumab : 140 ㎎ q2wk 또는 420 ㎎ q4wk SC <mark style="color:blue;">\[레파타]</mark>
 * alirocumab : 75\~150 ㎎ q2wk SC <mark style="color:blue;">\[프랄런트]</mark>
-* inclisiran : PCSK9 mRNA 표적 siRNA; **284 ㎎ SC**(inclisiran sodium 300 ㎎), 최초·3개월 후·이후 6개월마다 <mark style="color:blue;">\[렉비오프리필드시린지]</mark>. LDL 강하 효과와 PCSK9 항체의 확립된 심혈관 사건 감소 근거를 동일시하지 않음
+* inclisiran : PCSK9 mRNA 표적 siRNA; **284 ㎎ SC**(inclisiran sodium **300 ㎎/1.5 ㎖**, 1프리필드시린지), 의료진이 최초·3개월 후·이후 6개월마다 투여 <mark style="color:blue;">\[렉비오프리필드시린지]</mark>. **국내 허가 약제이며 약학정보원 제품정보상 비급여** <mark style="color:$info;">[약학정보원, 2026-10-27 확인]</mark>. LDL 강하 효과와 PCSK9 항체의 확립된 심혈관 사건 감소 근거를 동일시하지 않음
 * bempedoic acid : **2026-10-14 국내 허가** <mark style="color:blue;">\[넥스레톨정180㎎]</mark>. 최대내약 statin 병용에도 LDL 조절이 불충분하거나 statin 불내성/금기인 성인의 지질저하 적응증, 권고 statin을 사용할 수 없는 고위험 성인의 심혈관 위험 감소 적응증이 있음. 허가 취득과 실제 공급·급여 등재를 구분하며, 이 장의 일반 처방례에는 포함하지 않음 <mark style="color:$info;">[수입사 허가 공지 2026-10-15]</mark>
 
 {% hint style="info" %}
@@ -828,7 +828,7 @@ class C,G blue
 ### <mark style="color:red;">보험 적용 시 구분</mark>
 
 * LDL-C 임상 목표(＜55 ㎎/㎗)와 약제 급여 개시 기준은 서로 다름. 단순 협심증 진단 또는 목표 미달성만으로 모든 비statin 약제의 급여가 인정되는 것은 아님
-* 위 evolocumab 기준은 해당 품목의 급여 조건이며, 다른 PCSK9 표적 약제에 자동 적용하지 않음. Inclisiran의 약제급여평가위원회 평가자료는 최종 급여 등재 고시와 구분함
+* 위 evolocumab 기준은 해당 품목의 급여 조건이며, 다른 PCSK9 표적 약제에 자동 적용하지 않음. **Inclisiran(렉비오프리필드시린지)은 약학정보원 제품정보상 비급여**임(2026-10-27 확인); 약제급여평가위원회 평가 이력과 실제 급여 적용을 혼동하지 않음
 * Colchicine의 심혈관 이차 예방은 국내 허가 외 사용으로, 통풍의 허가·급여를 그대로 적용하지 않음
 
 ***
@@ -861,6 +861,7 @@ class C,G blue
 - 식품의약품안전처. 의약품안전나라 — 국내 제품별 적응증·용법·금기 및 허가 상태. https://nedrug.mfds.go.kr/index
 - 건강보험심사평가원. Evolocumab 주사제 고시 제2024-37호(2024-03-01 시행). https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240301&mtgMtrRegSno=0004&sno=1
 - 건강보험심사평가원. Inclisiran sodium 약제급여평가위원회 공개자료(2026-06-12): 최종 급여 등재와 구분. https://www.hira.or.kr/bbsDummy.do?brdBltNo=47088&brdScnBltNo=4&pgmid=HIRAA030014040000
+- 약학정보원. 렉비오프리필드시린지 제품정보 — 인클리시란나트륨 300 ㎎/1.5 ㎖(인클리시란 284 ㎎), 투여 일정 및 비급여 표시 확인(2026-10-27).
 - 종근당. 딜라트렌 SR정 제품설명서(적응증별 용법·용량). https://www.ckdpharm.com/product/productView.do?prodCode=CKD0000541
 - HK이노엔. 헤르벤서방정90㎎ 용법 및 분할 금지 안내. https://www.inno-n.com/pr/notice/medicine/view/88
 - 한국유니팜. 이소트릴지속정60㎎ 제품정보(코오롱제약 품목). https://www.unipharmkorea.co.kr/sub/sub02_02.php?cat_no=&idx=50&mode=view
