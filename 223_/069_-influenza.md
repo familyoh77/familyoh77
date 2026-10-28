@@ -35,11 +35,11 @@
 
 * 원인 바이러스 : 계절성 인플루엔자는 주로 influenza A·B형에 의해 발생. C형은 대개 산발적이고 경한 감염을 일으킴
 * A형은 표면 단백질인 HA(hemagglutinin)와 NA(neuraminidase)의 종류에 따라 아형으로 분류함
-* HA : 숙주 세포 수용체에 결합하여 바이러스가 세포 안으로 들어가게 하며, 중화항체의 주요 표적임
-* NA : 증식한 바이러스가 감염 세포에서 떨어져 나오게 하며, neuraminidase inhibitor(oseltamivir 등)의 작용 부위임
-* 현재 사람에게 유행하는 계절성 A형은 A/H1N1pdm09(2009년 대유행 유래)와 A/H3N2
+  * HA : 숙주 세포 수용체에 결합하여 바이러스가 세포 안으로 들어가게 하며, 중화항체의 주요 표적임
+  * NA : 증식한 바이러스가 감염 세포에서 떨어져 나오게 하며, neuraminidase inhibitor(oseltamivir 등)의 작용 부위임
+* 현재 사람에게 유행하는 계절성 A형은 A/H1N1pdm09와 A/H3N2임
   * A/H1N1pdm09 : A형 인플루엔자 중 HA 1형·NA 1형 아형으로, 2009년 대유행(pandemic 2009)을 일으킨 바이러스에서 유래하여 현재 계절성으로 유행함
-  * H5N1·H7N9 등은 주로 조류에서 유래한 동물 인플루엔자임
+* H5N1·H7N9 등은 주로 조류에서 유래한 동물 인플루엔자임
 * B형은 아형 대신 Victoria·Yamagata 두 계통(lineage)으로 나뉘나, Yamagata 계통은 2020년 이후 전 세계적으로 검출되지 않음
 
 #### <mark style="color:$primary;">항원 변이</mark>
@@ -64,7 +64,7 @@
   * 발열이 없거나 증상이 비전형적일 수 있음
 * 기침(주로 마른기침), 인후통, 콧물
 * 소화기 증상 (주로 소아) : 구역/구토, 설사
-* 고령자 : 고열 없이 기력 저하·식욕 부진·섬망(delirium) 등으로 내원하는 경우도 많음; 고령자에서 독감 유행 시기에 이러한 증상이 있으면 독감을 고려해야 함
+* 고령자 : 고열 없이 기력 저하·식욕 부진·섬망(delirium) 등으로 내원하는 경우도 많음; 유행 시기에 이러한 증상이 있으면 독감을 고려해야 함
 
 <mark style="color:cyan;">**인플루엔자 관련 세균 동시감염·이차성 폐렴 의심 신호 (Bacterial Coinfection/Superinfection)**</mark>
 
@@ -77,29 +77,30 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 호흡 곤란, 청색증 또는 산소포화도 저하 `인플루엔자 폐렴` `호흡 부전`
-* 의식 변화(혼돈, 섬망, 깨우기 어려움), 지속적인 환각·이상 행동과 반응 저하 또는 경련 `인플루엔자 관련 뇌병증/뇌염`
-* 저혈압 또는 쇼크 징후 `패혈성 쇼크` `세균성 중복 감염`
+* 호흡 곤란, 청색증 또는 산소포화도 저하  `인플루엔자 폐렴` `호흡 부전`
+* 의식 변화(혼돈, 섬망, 깨우기 어려움), 지속적인 환각·이상 행동과 반응 저하 또는 경련  `인플루엔자 관련 뇌병증/뇌염`
+* 저혈압 또는 쇼크 징후  `패혈성 쇼크` `세균성 중복 감염`
 * 기립 시 현기증, 소변량 현저한 감소, 피부 탄력 저하를 동반한 중증 탈수
-* 심한·지속적인 흉통, 실신 또는 급격한 전신 상태 악화 `심근염` `급성 심근경색`
-* 진한 소변과 함께 소변량이 현저히 줄거나 전신 상태가 나쁨 `횡문근 융해증` `급성 콩팥손상`
-* 생후 3개월 미만 영아의 발열에 처짐·수유 저하·호흡 곤란 동반 `중증 세균 감염` `패혈증`
+* 새로 발생한 흉부 압박감·흉통이 지속·반복되거나 호흡 곤란·식은땀을 동반함(통증이 경미해도 해당)  `급성 관상동맥 증후군` `심근염`
+* 실신 또는 급격한 전신 상태 악화  `심근염` `패혈증`
+* 진한 소변과 함께 소변량이 현저히 줄거나 전신 상태가 나쁨  `횡문근 융해증` `급성 콩팥손상`
+* 생후 3개월 미만 영아의 발열에 처짐·수유 저하·호흡 곤란 동반  `중증 세균 감염` `패혈증`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 새로 발생한 흉부 압박감·흉통 또는 심계항진(경증 포함) `심근염` `급성 관상동맥 증후군`
-* 소아의 환각·이상 행동 `인플루엔자 관련 뇌병증/뇌염` `약물 관련 신경정신계 이상반응`
-* 지속적 구토로 경구 수분·약물 섭취 불가 `탈수`
-* 초기 호전 후 재악화·재발열, 화농성 객담 또는 국소 수포음 `세균성 중복 감염` `세균성 폐렴`
-* 고위험군에서 증상 악화 또는 예상보다 더딘 호전 `합병증 동반 인플루엔자`
-* 회복기 운동 시 호흡 곤란·흉통·심계항진 `심근염`
-* 소아의 심한 근육통·보행 거부 또는 진한 소변 `근염` `횡문근 융해증`
-* 생후 3개월 미만 영아의 38℃ 이상 발열 `중증 세균 감염`
+* 새로 발생한 심계항진 또는 경미하고 일시적인 흉통(지속·반복이나 호흡 곤란 동반 없음)  `심근염` `부정맥`
+* 소아의 환각·이상 행동  `인플루엔자 관련 뇌병증/뇌염` `약물 관련 신경정신계 이상반응`
+* 지속적 구토로 경구 수분·약물 섭취 불가  `탈수`
+* 초기 호전 후 재악화·재발열, 화농성 객담 또는 국소 수포음  `세균성 중복 감염` `세균성 폐렴`
+* 고위험군에서 증상 악화 또는 예상보다 더딘 호전  `합병증 동반 인플루엔자`
+* 회복기 운동 시 호흡 곤란·흉통·심계항진  `심근염`
+* 소아의 심한 근육통·보행 거부 또는 진한 소변  `근염` `횡문근 융해증`
+* 생후 3개월 미만 영아의 38℃ 이상 발열  `중증 세균 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 항바이러스제 투여 48\~72시간 후에도 호전 없음 `폐렴` `세균성 중복 감염` `다른 진단`
-* 기침·피로감이 2주 이상 지속되면서 호전되지 않거나 악화 `폐렴` `기저 질환 악화` `감염 후 기침`
+* 항바이러스제 투여 48\~72시간 후에도 호전 없음  `폐렴` `세균성 중복 감염` `다른 진단`
+* 기침·피로감이 2주 이상 지속되면서 호전되지 않거나 악화  `폐렴` `기저 질환 악화` `감염 후 기침`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -185,7 +186,7 @@ flowchart TD
     B -- "아니오" --> F["합병증 고위험군?"]
     F -- "예" --> G["<u>Oseltamivir 1차</u><br/>48시간 초과여도 고려<br/>Baloxavir 대안: 합병증 <br/>없는 비중증·48시간 이내<br/>임신·수유·중증 면역 저하 <br/>제외; 국내 연령·체중 확인"]
     F -- "아니오" --> H["증상 발생 <br/>48시간 이내?"]
-    H -- "예" --> I["<u>Oseltamivir <br/>또는 baloxavir</u><br/>shared decision"]
+    H -- "예" --> I["<u>Oseltamivir <br/>또는 baloxavir</u><br/>shared decision<br/>소아는 국내 허가 경고 확인"]
     H -- "아니오" --> J["<u>대증 치료</u>"]
     classDef question fill:#fff9c4,stroke:#ffe082
     class B,C,F,H question
@@ -209,7 +210,7 @@ flowchart TD
    * 입원, 중증(severe)·진행성 경과 → 임상적으로 인플루엔자가 의심되면 RAT 음성이나 검사 결과 대기로 지연하지 않고 oseltamivir 시작; 발병 48시간 초과여도 치료
    * 고위험군 외래 환자 (≥65세, ＜5세, 임신부, 면역 저하, 만성 질환 등) → 검사 결과를 기다리지 않고 가능한 한 빨리 시작; 발병 48시간 초과여도 고려 가능
 2. **선택적 투여 가능** - 비고위험군 + 증상 발생 48시간 이내 + 증상이 뚜렷하거나 환자 선호 높음\
-   → shared decision; 질병 기간 약 1일 단축
+   → shared decision; 질병 기간 약 1일 단축. Oseltamivir는 아래의 10세 이상 소아 관련 국내 허가 경고도 함께 고려
 3. **일반적으로 투여하지 않음** - 비고위험군 + 합병증 없는 경증(mild) + 증상 발생 ＞48시간 또는 회복 단계\
    → 대증치료 중심
 
@@ -239,9 +240,9 @@ flowchart TD
 
 <table><thead><tr><th width="147">증상</th><th>약제 선택</th><th>주의사항</th></tr></thead><tbody><tr><td><strong>발열·근육통·두통</strong></td><td>아세트아미노펜 (1차)<br>NSAID (필요시)</td><td>•18세 이하(19세 미만) : 아스피린 회피¹⁾<br>•고령·신기능 저하 : NSAID 주의 (탈수 동반 시 AKI 위험)<br>•중증·입원 환자 : 보조 치료 목적의 일상적 NSAID 사용 피함</td></tr><tr><td><strong>기침 (dry/ nonproductive)</strong></td><td>덱스트로메토르판, 레보드로프로피진</td><td>화농성 객담 있는 경우 과도한 진해 억제 피함; 독감 후 기침은 2주 이상 지속될 수 있으며 대체로 점차 호전됨</td></tr><tr><td><strong>인후통</strong></td><td>[경증] 트로키(lozenge), 생리식염수 가글; [중등증] 아세트아미노펜 또는 NSAID</td><td>-</td></tr><tr><td><strong>콧물 (수양성)</strong></td><td>항히스타민제</td><td>고령자 : 항콜린 부작용 (요폐, 인지 저하) 주의</td></tr><tr><td><strong>코막힘</strong></td><td>국소 코 울혈 제거제 (3일 이내)</td><td>3일 초과 연속 사용 시 반동성 비염 위험</td></tr><tr><td><strong>구역·구토</strong></td><td>Oseltamivir를 식사와 함께 복용</td><td>지속 시 탈수·약물 흡수 평가; 경구·경관 투여 불가 또는 흡수 불량 → peramivir IV 고려²⁾</td></tr></tbody></table>
 
-> _¹⁾인플루엔자 해열 목적으로 아스피린·살리실산 함유 제제 사용 회피 (Reye 증후군); 이 회피 권고는 인플루엔자의 해열 목적 사용에 관한 것임. 다른 질환으로 아스피린·살리실산 제제를 장기 처방받는 소아·청소년은 임의로 중단하지 않고 담당의와 상의함_
+> ¹⁾_인플루엔자 해열 목적으로 아스피린·살리실산 함유 제제 사용 회피 (Reye 증후군); 이 회피 권고는 인플루엔자의 해열 목적 사용에 관한 것임. 다른 질환으로 아스피린·살리실산 제제를 장기 처방받는 소아·청소년은 임의로 중단하지 않고 담당의와 상의함_
 >
-> _²⁾일률적인 위장관운동촉진제 병용은 권고하지 않음_
+> ²⁾_일률적인 위장관운동촉진제 병용은 권고하지 않음_
 
 {% hint style="info" %}
 **항생제** : 세균성 중복 감염 (광범위 폐렴, 호흡 부전, 저혈압, 초기 호전 후 악화)이 의심되는 경우에 한하여 사용 (☞ [폐렴](068_-pneumonia.md)); 인플루엔자 단독 감염에 대한 예방적 항생제는 권고하지 않음
@@ -266,7 +267,7 @@ flowchart TD
 
 **보험주의**
 
-* [oseltamivir ](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171101\&sno=1\&mtgMtrRegSno=0047)경구제·[zanamivir ](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171101\&sno=1\&mtgMtrRegSno=0048)흡입제는 허가사항과 급여기준을 충족하는 경우 급여. 신속항원검사 또는 PCR 양성이 확인되면 유행주의보·고위험군 여부와 별개로 인정 가능하나, 외래에서는 원칙적으로 초기 증상(기침·두통·인후통 등 2개 이상의 증상 및 고열) 발생 48시간 이내 투여 조건을 충족해야 함. 입원 환자는 의사 판단에 따라 48시간 이후에도 인정 가능
+* [oseltamivir](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171101\&sno=1\&mtgMtrRegSno=0047) 경구제·[zanamivir](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20171101\&sno=1\&mtgMtrRegSno=0048) 흡입제는 허가사항과 급여기준을 충족하는 경우 급여. 신속항원검사 또는 PCR 양성이 확인되면 유행주의보·고위험군 여부와 별개로 인정 가능하나, 외래에서는 원칙적으로 초기 증상(기침·두통·인후통 등 2개 이상의 증상 및 고열) 발생 48시간 이내 투여 조건을 충족해야 함. 입원 환자는 의사 판단에 따라 48시간 이후에도 인정 가능
 * 유행주의보 발령 시 다음 대상은 검사 없이 임상 증상과 의사 판단으로 급여 가능. 약제별 연령·임신 관련 기준이 다르며, 임상적 고위험군 정의와 급여상 대상은 같지 않음
 
 <table><thead><tr><th width="117">약제</th><th width="188">검사 없이 인정하는 소아 연령</th><th width="188">임신·출산 관련 기준</th><th>그 밖의 주요 대상</th></tr></thead><tbody><tr><td><strong>Oseltamivir</strong></td><td>생후 2주 이상을 포함한 만 9세 이하</td><td>임신 또는 출산 2주 이내 산모</td><td>만 65세 이상, 면역 저하, 대사·심장·폐·신장·간·혈액 질환, 신경계 질환·신경발달 장애, 장기간 아스피린 치료 중인 만 19세 이하 등</td></tr><tr><td><strong>Zanamivir</strong></td><td>만 7세 이상~12세 이하</td><td>임신 3개월 이상 임신부 또는 출산 2주 이내 산모</td><td>만 65세 이상 및 위 기저 질환자 등; 국내 허가와 흡입 적합성 확인</td></tr></tbody></table>
@@ -288,18 +289,20 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 #### <mark style="color:$primary;">Oseltamivir</mark>
 
 * 1차 선택제; 소아, 임신부, 고위험군, 입원 환자, 중증·복잡 경과 외래 환자에서 우선 선택
-* 용법 : 아래 용량을 1일 2회, 5일간 투여. 중증·장기 경과 또는 면역 저하 환자에서는 임상 경과와 필요한 경우 하기도 검체 RT-PCR 결과를 바탕으로 치료기간 연장을 개별 결정; 일률적인 고용량 투여는 권고하지 않음
+* 용법 : 일반적인 치료는 아래 표의 용량을 1일 2회, 5일간 투여(성인 신기능 저하·투석 환자는 아래 감량표 적용). 국내 타미플루 허가사항은 면역장애 환자에서 10일 투여를 권장함. 중증·장기 경과 또는 면역 저하 환자의 치료기간은 임상 경과와 필요한 경우 하기도 검체 RT-PCR 결과를 바탕으로 개별 결정; 일률적인 고용량 투여는 권고하지 않음
 * 부작용 : 구역, 구토 (식사와 함께 복용 시 감소)
 
 {% hint style="info" %}
 **신경정신계 이상** : 인플루엔자 자체 또는 치료 중 환각·이상 행동·경련 등이 발생할 수 있으며, oseltamivir와의 인과관계는 확립되지 않음. 투약 여부와 관계없이 소아·청소년의 안전 관찰 및 뇌병증/뇌염 감별 필요
+
+* **국내 허가 경고** : 타미플루 허가사항에는 10세 이상 소아에서 합병증·과거병력 등으로 고위험환자로 판단되는 경우를 제외하고 원칙적으로 사용하지 않는다는 경고가 있음. 해외 지침의 비고위험 소아·청소년에 대한 선택적 투여 권고와 구분하여 처방을 판단하며, 이 경고가 약물과 이상 행동의 인과관계 확립을 의미하지는 않음 <mark style="color:$info;">\[의약품안전나라]</mark>
 
 * 2025년 5\~17세 대상 대규모 코호트에서는 oseltamivir 치료가 미치료 인플루엔자보다 중대한 신경정신계 사건 감소와 연관됨 <mark style="color:$info;">\[JAMA Neurol 2025]</mark>. 관찰연구이므로 예방 효과를 확정하지 않으며, 보호자에게 적어도 2일간 소아·청소년이 혼자 있지 않도록 배려하고 창문·문 등 사고 위험을 관리하도록 안내; 이후에도 증상이 지속되면 안전 관찰을 이어감
 {% endhint %}
 
 * <mark style="color:blue;">\[타미플루]</mark> 30, 45, 75 ㎎/캡슐 / <mark style="color:blue;">\[한미플루 현탁용분말]</mark> 6 ㎎/㎖
 
-<table><thead><tr><th width="101">연령/체중</th><th width="120">체중</th><th width="113">치료 용량 (1회)</th></tr></thead><tbody><tr><td colspan="2"><strong>생후 2주~1세 미만 만삭아</strong></td><td>3 ㎎/㎏</td></tr><tr><td rowspan="4"><strong>1~12세</strong></td><td>≤15 ㎏</td><td>30 ㎎</td></tr><tr><td>＞15~23 ㎏</td><td>45 ㎎</td></tr><tr><td>＞23~40 ㎏</td><td>60 ㎎</td></tr><tr><td>＞40 ㎏</td><td>75 ㎎</td></tr><tr><td colspan="2"><strong>≥13세</strong> (고도 비만 포함)</td><td>75 ㎎</td></tr></tbody></table>
+<table><thead><tr><th width="101">연령</th><th width="120">체중</th><th width="113">치료 용량 (1회)</th></tr></thead><tbody><tr><td colspan="2"><strong>생후 2주~1세 미만 만삭아</strong></td><td>3 ㎎/㎏</td></tr><tr><td rowspan="4"><strong>1~12세</strong></td><td>≤15 ㎏</td><td>30 ㎎</td></tr><tr><td>＞15~23 ㎏</td><td>45 ㎎</td></tr><tr><td>＞23~40 ㎏</td><td>60 ㎎</td></tr><tr><td>＞40 ㎏</td><td>75 ㎎</td></tr><tr><td colspan="2"><strong>≥13세</strong> (고도 비만 포함)</td><td>75 ㎎</td></tr></tbody></table>
 
 * **임신부** : 임신 주수와 관계없이 인플루엔자 치료의 우선 선택제; 비임신 성인과 같은 용량 사용
   * 수유 중에도 우선 고려 가능
@@ -313,11 +316,11 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 
 <table><thead><tr><th>신기능</th><th>치료 용량</th><th>예방 용량</th></tr></thead><tbody><tr><td><strong>CrCl 31~60 ㎖/분</strong></td><td>30 ㎎ bid</td><td>30 ㎎ qd</td></tr><tr><td><strong>CrCl 11~30 ㎖/분</strong></td><td>30 ㎎ qd</td><td>30 ㎎ qod</td></tr><tr><td><strong>혈액투석(HD), CrCl ≤10 ㎖/분</strong></td><td>30 ㎎을 각 투석 직후 투여(치료기간 5일 이내)¹⁾</td><td>초회 30 ㎎ 후 격회 투석 직후 30 ㎎²⁾</td></tr><tr><td><strong>지속성 외래복막투석(CAPD), CrCl ≤10 ㎖/분</strong></td><td>투석 교환 직후 30 ㎎ 단회</td><td>투석 교환 직후 30 ㎎, 이후 주 1회²⁾</td></tr><tr><td><strong>투석하지 않는 ESRD</strong></td><td colspan="2">권고하지 않음</td></tr></tbody></table>
 
-> _¹⁾증상이 투석 사이에 발생하면 초회 용량을 즉시 투여할 수 있으며, 이후 투석 후 용량은 별도로 투여_
+> ¹⁾_증상이 투석 사이에 발생하면 초회 용량을 즉시 투여할 수 있으며, 이후 투석 후 용량은 별도로 투여_
 >
-> _²⁾예방기간과 투석 일정에 따라 조정하며 국내 허가사항 확인_
+> ²⁾_예방기간과 투석 일정에 따라 조정하며 국내 허가사항 확인_
 >
-> _투석 용량을 포함한 위 표는 성인 기준임. 소아 신기능 저하·투석 환자에게 그대로 적용하지 않으며 소아과·신장내과와 협의함_　
+> _투석 용량을 포함한 위 표는 성인 기준임. 소아 신기능 저하·투석 환자에게 그대로 적용하지 않으며 소아과·신장내과와 협의함_
 
 #### <mark style="color:$primary;">Zanamivir</mark>
 
@@ -328,9 +331,9 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 #### <mark style="color:$primary;">Baloxavir marboxil</mark>
 
 * 기전 : cap-dependent endonuclease 억제 → mRNA 전사 차단
-  * neuraminidase inhibitor와 다른 기전으로 내성 교차 없음
+  * neuraminidase inhibitor와 다른 바이러스 단백질을 표적으로 하며, 임상적으로 유의한 교차내성은 확인되지 않음
 * 특징 : 고위험 외래 환자 연구에서 단회 경구 투여로 5일간 투여한 oseltamivir보다 바이러스 부하를 빠르게 감소시켰고, 전체 증상 개선 시간은 oseltamivir와 비슷했음; 인플루엔자 B형 하위군에서는 oseltamivir보다 증상 개선 시간이 24시간 이상 짧았음 <mark style="color:$info;">\[Lancet Infect Dis 2020]</mark>
-* CENTERSTONE RCT : 합병증 저위험 5\~64세 지표환자를 발병 48시간 이내 치료하자 검사 확인 가정 내 전파가 placebo 대비 감소(9.5% vs 13.4%)했으나, 증상성 전파 감소는 유의하지 않았고 치료 중 내성 변이가 7.2%에서 발생함 <mark style="color:$info;">\[N Engl J Med 2025]</mark>. 모든 집단생활자에게 우선 처방하라는 의미로 확대 해석하지 않음
+* CENTERSTONE RCT : 합병증 저위험 5\~64세 지표환자를 발병 48시간 이내 치료하자 검사 확인 가정 내 전파가 placebo 대비 감소(9.5% vs 13.4%)했으나, 증상성 전파 감소는 유의하지 않았고 내성 평가가 가능했던 baloxavir군 지표환자 208명 중 15명(7.2%)에서 치료 중 내성 변이가 발생함 <mark style="color:$info;">\[N Engl J Med 2025]</mark>. 모든 집단생활자에게 우선 처방하라는 의미로 확대 해석하지 않음
   * 유전체 후속 분석(같은 시험의 탐색적 사후 분석)에서도 전파 감소 결과가 지지됨 <mark style="color:$info;">\[Clin Infect Dis 2026]</mark>
 * 적용 대상 : 합병증 없는 비-중증 인플루엔자에서 증상 발생 48시간 이내이고, 단회 복용이 유리한 경우 또는 인플루엔자 B형 등에서 고려
   * 임신부·수유부, 중증·입원 환자 및 중증 면역 저하자에게는 권고하지 않음
@@ -342,7 +345,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 
 <table><thead><tr><th width="190">연령</th><th width="150">체중</th><th>단회 용량 (치료·노출 후 예방)</th></tr></thead><tbody><tr><td rowspan="3"><strong>만 1세 이상~12세 미만</strong></td><td>10~＜20 ㎏</td><td>10 ㎎ (치료만)*</td></tr><tr><td>20~＜40 ㎏</td><td>20 ㎎</td></tr><tr><td>≥40 ㎏</td><td>40 ㎎</td></tr><tr><td rowspan="2"><strong>만 12세 이상 및 성인</strong></td><td>40~＜80 ㎏</td><td>40 ㎎</td></tr><tr><td>≥80 ㎏</td><td>80 ㎎</td></tr></tbody></table>
 
-> _\*국내 예방 용량은_ ≥_20 ㎏부터 제시됨._ ＜_20 ㎏  소아에게 치료 용량을 바탕으로 예방 투여하지 않음_
+> _\*국내 예방 용량은 ≥20 ㎏부터 제시됨. ＜20 ㎏ 소아에게 치료 용량을 바탕으로 예방 투여하지 않음_
 >
 > _소량 투여에는 현탁용과립 2 ㎎/㎖를 이용할 수 있으며(10 ㎎=5 ㎖, 20 ㎎=10 ㎖), 정제를 분할하여 소아 용량을 만들지 않음._\
 > _표에 없는 연령·체중 조합에 대해서는 전문가 평가(국내 소아 용량은 일부 해외 지침과 다름)_
@@ -371,11 +374,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 
 **성인 신기능별 단회 용량 (국내 허가)**
 
-| CrCl (㎖/분) | 기본 300 ㎎ 요법 | 기본 600 ㎎ 요법 |
-| ---------- | ----------- | ----------- |
-| ≥50        | 300 ㎎       | 600 ㎎       |
-| ≥30\~＜50   | 100 ㎎       | 200 ㎎       |
-| ≥10\~＜30   | 50 ㎎        | 100 ㎎       |
+<table><thead><tr><th>CrCl (㎖/분)</th><th>기본 300 ㎎ 요법</th><th>기본 600 ㎎ 요법</th></tr></thead><tbody><tr><td><strong>≥50</strong></td><td>300 ㎎</td><td>600 ㎎</td></tr><tr><td><strong>≥30~＜50</strong></td><td>100 ㎎</td><td>200 ㎎</td></tr><tr><td><strong>≥10~＜30</strong></td><td>50 ㎎</td><td>100 ㎎</td></tr></tbody></table>
 
 * CrCl ＜10 ㎖/분 또는 투석 환자에는 위 표를 단순 연장 적용하지 않고 투석 방식·일정과 약물 제거를 고려하여 전문 협의
 
@@ -401,13 +400,13 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 * 산발적 노출 후 투여 기간 : oseltamivir 허가사항은 접촉 후 2일 이내 시작하여 10일간(1일 1회) 투여이며, CDC 등 해외 지침은 마지막 노출 후 7일을 권고함
 * 장기 요양 시설 집단발생 : 최소 2주간 투여하면서 마지막 환자 확인 후 최소 7일까지 지속
 * 불활성화 인플루엔자 백신은 항바이러스제와 함께 접종 가능. 백신 접종 후 면역이 형성되는 약 2주간 예방 투여가 필요한지는 노출 지속 여부와 환자 위험도에 따라 결정
-* 약독화 생백신(LAIV) 접종 전에는 oseltamivir·zanamivir 48시간, peramivir 5일, baloxavir 17일의 간격을 두며, LAIV 접종 후에는 가능하면 2주간 항바이러스제 투여를 피함. 의학적으로 항바이러스제가 필요하면 치료를 우선하고 LAIV 재접종 여부를 판단
+* 약독화 생백신(LAIV, 비강 분무; 국내 2\~49세 허가, 국가예방접종 미포함) 접종 전에는 oseltamivir·zanamivir 48시간, peramivir 5일, baloxavir 17일의 간격을 두며, LAIV 접종 후에는 가능하면 2주간 항바이러스제 투여를 피함. 의학적으로 항바이러스제가 필요하면 치료를 우선하고 LAIV 재접종 여부를 판단
 
 #### <mark style="color:$primary;">노출 후 예방적 항바이러스제 용량</mark>
 
-**Oseltamivir** (예방 국내 허가 일반적으로 ≥1세; CDC는 생후 ≥3개월에서 권고):
+**Oseltamivir** (예방 국내 허가 ≥1세; CDC는 생후 ≥3개월에서 권고):
 
-<table><thead><tr><th width="150">연령</th><th width="191">체중</th><th width="165">예방 용량 (1회, qd)</th></tr></thead><tbody><tr><td colspan="2">3개월~＜1세 (국내 허가 외; CDC·AAP 권고)</td><td>3 ㎎/㎏</td></tr><tr><td rowspan="4">1~12세, </td><td>≤15 ㎏</td><td>30 ㎎</td></tr><tr><td>＞15~23 ㎏</td><td>45 ㎎</td></tr><tr><td>＞23~40 ㎏</td><td>60 ㎎</td></tr><tr><td>＞40 ㎏</td><td>75 ㎎</td></tr><tr><td colspan="2">≥13세</td><td>75 ㎎</td></tr></tbody></table>
+<table><thead><tr><th width="150">연령</th><th width="191">체중</th><th width="165">예방 용량 (1회, qd)</th></tr></thead><tbody><tr><td colspan="2">3개월~＜1세 (국내 허가 외; CDC·AAP 권고)</td><td>3 ㎎/㎏</td></tr><tr><td rowspan="4">1~12세</td><td>≤15 ㎏</td><td>30 ㎎</td></tr><tr><td>＞15~23 ㎏</td><td>45 ㎎</td></tr><tr><td>＞23~40 ㎏</td><td>60 ㎎</td></tr><tr><td>＞40 ㎏</td><td>75 ㎎</td></tr><tr><td colspan="2">≥13세</td><td>75 ㎎</td></tr></tbody></table>
 
 * 성인 신기능 저하 시 감량 : CrCl 31\~60 ㎖/분 → 30 ㎎ qd; CrCl 11\~30 ㎖/분 → 30 ㎎ qod
 
@@ -417,13 +416,9 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 * 예방 허가 연령 : ≥7세 (미국 ≥5세)
 * 천식·COPD 등 기도 질환자와 유단백 알레르기 환자에게 사용하지 않음
 
-**Baloxavir**&#x20;
+**Baloxavir**
 
-* 증상이 있는 환자와 밀접 접촉 후 48시간 이내 1회 투여
-
-<table><thead><tr><th>연령</th><th>체중</th><th>단회 예방 용량</th></tr></thead><tbody><tr><td rowspan="2">만 1세 이상~12세 미만</td><td>20~＜40 ㎏</td><td>20 ㎎</td></tr><tr><td>≥40 ㎏</td><td>40 ㎎</td></tr><tr><td rowspan="2">만 12세 이상 및 성인</td><td>40~＜80 ㎏</td><td>40 ㎎</td></tr><tr><td>≥80 ㎏</td><td>80 ㎎</td></tr></tbody></table>
-
-* 20 ㎏ 미만 소아에게 치료 용량을 근거로 예방 투여하지 않고, 필요시 다른 예방 약제 또는 전문 평가 고려
+* 증상이 있는 환자와 밀접 접촉 후 48시간 이내 1회 투여; 용량은 위 Baloxavir marboxil 용량표 참조(＜20 ㎏ 소아는 예방 용량 없음)
 
 ### <mark style="color:orange;">노출 전 항바이러스제 투여</mark>
 
@@ -432,17 +427,17 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 
 ### <mark style="color:orange;">격리 기간</mark>
 
-* 등교·등원·출근 복귀 권고 기준 : 다음 기간 동안 발열이 없고 증상이 전반적으로 호전될 때; 증상 호전 여부와 기관별 기준도 함께 확인하며, 복귀 기준 충족이 전염력의 완전 소실을 의미하지는 않음 <mark style="color:$info;">\[질병관리청 2026-2027]</mark>
+* 등교·등원·출근 복귀 권고 기준 : 다음 기간 동안 발열이 없고 증상이 전반적으로 호전될 때; 기관별 기준도 함께 확인하며, 복귀 기준 충족이 전염력의 완전 소실을 의미하지는 않음 <mark style="color:$info;">\[질병관리청 2026-2027]</mark>
   * 해열제를 복용하지 않은 경우 : 정상 체온 회복 후 최소 24시간
   * 해열제를 복용한 경우 : 마지막 복용 시점부터 48시간
 * 의료기관 종사자 : 해열제 없이 24시간 이상 발열이 없는 경우를 기본으로 하되, 지속되는 호흡기 증상과 담당 환자의 위험도를 고려하여 기관 감염관리 지침 적용. 조혈모세포이식 병동 등 보호환경 근무자는 더 엄격하게 적용
 * 중증 증상 또는 면역 저하자 : 의사 판단에 따라 격리 기간 연장 가능
-* 입원 환자 : 표준주의(standard precautions) + 비말주의(droplet precautions) 적용; 증상 발생 후 7일 또는 해열제 없이 발열 및 호흡기 증상이 소실된 후 24시간 중 더 긴 시점까지. 소아·중증 면역 저하자는 연장 고려
+* 입원 환자 : 표준주의(standard precautions) + 비말주의(droplet precautions) 적용; 증상 발생 후 7일 또는 해열제 없이 발열 및 호흡기 증상이 소실된 후 24시간 중 더 긴 시점까지. 소아·중증 면역 저하자는 연장 고려. 에어로졸 발생 시술 시에는 공기주의 추가
 
 {% hint style="info" %}
 **표준주의** : 환자 접촉 전후와 체액 노출 후의 손위생, 노출이 예상될 때 장갑·가운·마스크·보안경 등 개인보호구 착용, 호흡기 위생과 기침 예절, 안전한 주사 관리, 사용한 기구와 환경의 소독·청소
 
-**비말주의** : 코호트 격리, 환자 가까이에서 진료할 때의 수술용 마스크 착용, 환자 이동 시 환자 마스크 착용
+**비말주의** : 1인실 또는 코호트 격리, 의심·확진 환자의 병실에 들어갈 때 수술용 마스크 착용, 환자 이동 시 환자 마스크 착용
 {% endhint %}
 
 ### <mark style="color:orange;">예방접종</mark>
@@ -541,8 +536,8 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 > **타미플루(oseltamivir) 복용 방법**
 >
 > 1. **식사 중 또는 직후** 복용하십시오 - 구역·구토 부작용을 줄일 수 있습니다.
-> 2. **1일 2회(아침·저녁), 5일간** 복용하십시오. 증상이 호전되어도 처방된 기간을 완료하십시오. 임의로 중단하면 치료 효과가 충분하지 않을 수 있습니다.
-> 3. 복용을 잊은 경우 : 다음 복용 시간이 **2시간 이상** 남아 있으면 즉시 복용, **2시간 미만**이면 그냥 넘기고 다음 정해진 시간에 복용하십시오.
+> 2. 일반적인 치료는 **1일 2회(아침·저녁), 5일간** 복용합니다. 예방 목적이나 신기능 저하·투석·면역 저하 등에서는 복용 횟수·기간이 달라질 수 있으므로 **처방된 방법을 따르십시오.** 증상이 호전되어도 처방된 기간을 완료하십시오. 임의로 중단하면 치료 효과가 충분하지 않을 수 있습니다.
+> 3. 복용을 잊은 경우 : 다음 복용까지 **2시간을 초과하여** 남아 있으면 즉시 복용하고, **2시간 이내**이면 건너뛰고 다음 정해진 시간에 복용하십시오. 한 번에 두 배 용량을 복용하지 마십시오.
 
 > **소아 신경정신계 이상 반응 주의 (보호자 지도)**
 >
@@ -563,7 +558,7 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 
 > **격리 및 전파 예방**
 >
-> * 해열제를 사용하지 않고 정상 체온이 회복된 뒤 **최소 24시간** 이상 경과를 관찰하십시오. **해열제를 복용했다면 마지막 복용 시점부터 48시간까지** 경과 관찰이 필요합니다. 증상 호전 여부와 학교·직장의 복귀 기준도 확인하십시오. 복귀 기준을 충족해도 전염 가능성이 완전히 사라진 것은 아닙니다.
+> * 해열제를 복용하지 않고 정상 체온이 된 뒤 **최소 24시간**, 해열제를 복용했다면 **마지막 복용 후 48시간** 동안 열이 다시 나지 않고 증상이 나아질 때까지 학교·직장에 가지 마십시오. 학교·직장의 복귀 기준도 확인하십시오. 복귀 기준을 충족해도 전염 가능성이 완전히 사라진 것은 아닙니다.
 > * 외출 시 마스크 착용, 손 씻기 (30초 이상), 기침·재채기 시 팔꿈치로 가리기
 > * 회복 중에도 면역 저하자·고령자·임신부 등 고위험군과의 근접 접촉은 주의하십시오.
 
@@ -588,16 +583,18 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 * [Vandvik PO et al. Summary of WHO clinical practice guidelines for influenza. BMJ. 2026;392:e087397.](https://www.bmj.com/content/392/bmj-2025-087397) - WHO 2024 지침의 요약이며 별도의 WHO 2026 신규 지침은 아님
 * [NICE. Fever in under 5s: assessment and initial management. NG143.](https://www.nice.org.uk/guidance/ng143/chapter/recommendations) - 소아 발열에서 미온수 마사지·찜질의 일률적 사용을 권고하지 않음
 * [Gao Y et al. Antiviral Medications for Treatment of Nonsevere Influenza: A Systematic Review and Network Meta-Analysis. JAMA Intern Med. 2025.](https://doi.org/10.1001/jamainternmed.2024.7193) - WHO 2024 비-중증 환자 권고의 근거 메타분석
+* [Ison MG et al. Early treatment with baloxavir marboxil in high-risk adolescent and adult outpatients with uncomplicated influenza (CAPSTONE-2). Lancet Infect Dis. 2020;20(10):1204-1214.](https://doi.org/10.1016/S1473-3099\(20\)30004-9) - 고위험 외래 환자에서 baloxavir와 oseltamivir 비교
 * [Monto AS et al. Efficacy of Baloxavir Treatment in Preventing Transmission of Influenza. N Engl J Med. 2025;392:1582-1593.](https://doi.org/10.1056/NEJMoa2413156) - CENTERSTONE; 가정 내 검사 확인 전파 감소와 연구의 한계
 * [Lauring AS et al. Whole Genome Sequencing of Influenza Virus Transmission Pairs Confirms the Efficacy of Baloxavir in Reducing Household Transmission. Clin Infect Dis. 2026;ciag489.](https://doi.org/10.1093/cid/ciag489) - CENTERSTONE의 유전체 기반 탐색적 사후 분석
 * [Antoon JW et al. Influenza With and Without Oseltamivir Treatment and Neuropsychiatric Events Among Children and Adolescents. JAMA Neurol. 2025;82(10):1013-1021.](https://doi.org/10.1001/jamaneurol.2025.1995) - 인플루엔자 및 oseltamivir 치료와 중대한 신경정신계 사건의 연관성을 분석한 코호트
 * [Fazal A et al. Pediatric Influenza-Associated Encephalopathy and Acute Necrotizing Encephalopathy - United States, 2024-25 Influenza Season. MMWR Morb Mortal Wkly Rep. 2025;74(36):556-564.](https://www.cdc.gov/mmwr/volumes/74/wr/mm7436a1.htm) - 소아 인플루엔자 관련 뇌병증·급성 괴사성 뇌병증 사례 분석
 * [CDC. Rapid Diagnostic Testing for Influenza.](https://www.cdc.gov/flu/php/laboratories/rapidlab.html) - 유행률과 양성·음성예측도를 고려한 신속항원검사 해석
+* [CDC. Infection Prevention and Control Strategies for Seasonal Influenza in Healthcare Settings. 2026.](https://www.cdc.gov/flu/hcp/infection-control/healthcare-settings.html) - 의료기관 비말주의 기간과 병실 출입 시 마스크 착용
+* [AHA/ACC et al. Guideline for the Evaluation and Diagnosis of Chest Pain. 2021.](https://www.jacc.org/doi/10.1016/j.jacc.2021.07.053) - 급성 흉통·압박감의 신속한 평가 및 급성 관상동맥 증후군 의심 시 응급실 이송
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* 한국로슈. 조플루자 국내 제품설명서 - 정제 2026.9.9., 현탁용과립 2025.2.13. 치료·예방의 연령별·체중별 국내 허가 용량 대조
 * [건강보험심사평가원. 약제 급여기준 및 보험인정기준.](https://www.hira.or.kr/) - 국내 약제의 급여 범위와 투여 조건 확인
 * [질병관리청. 2026-2027절기 인플루엔자 유행주의보 발령(2026.9.11).](https://www.kdca.go.kr/bbs/kdca/42/312593/artclView.do) - 유행주의보 발령 기준, 고위험군 항바이러스제 급여 적용 범위
 * [질병관리청. 2026-2027절기 인플루엔자 관리지침.](https://www.kdca.go.kr/bbs/kdca/55/310104/download.do) - 국내 치료·예방 허가 연령, 복귀 권고, 국가예방접종 지원 대상 확인
@@ -658,5 +655,8 @@ _<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">보건복�
 * 어린이가 심한 근육통으로 걷지 못하거나 소변 색이 진해질 때
 * 생후 3개월 미만 아기에게 38℃ 이상의 열이 날 때
 * 처음에 나아지다가 갑자기 다시 나빠질 때
-* 기침·피로감이 2주 이상 지속되면서 좋아지지 않거나 악화할 때
 * 회복 중 새로운 흉통·호흡 곤란·가슴 두근거림·실신·운동 시 심한 숨참이 나타날 때
+
+#### <mark style="color:$primary;">이런 경우에는 조기에 다시 진료받으세요</mark>
+
+* 기침·피로감이 2주 이상 지속되면서 좋아지지 않거나 악화할 때는 다시 진료받으십시오. 호흡 곤란·흉통·의식 변화 등 위의 위험 신호가 동반되면 즉시 진료받으십시오.
