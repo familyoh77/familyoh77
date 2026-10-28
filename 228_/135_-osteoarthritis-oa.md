@@ -287,6 +287,37 @@ graph LR
 심혈관 질환 동반 또는 노쇠(frailty) 환자에서는 경구 NSAID 사용을 권고하지 않음. 위장관 동반질환이 있는 경우 COX-2 억제제 또는 NSAID+PPI 병용을 고려. 경구 NSAID를 부득이 사용하는 경우 최소 유효 용량으로 최단 기간만 사용
 {% endhint %}
 
+### <mark style="color:orange;">주요 약물·주사 치료의 관절별 권고</mark>
+
+{% hint style="info" %}
+**ACR 2026 권고 요약본 기준(2026년 9월 14일 공개)**\
+정식 논문 출판 전 공개된 요약본의 주요 항목을 정리함. 권고 강도는 치료 순서를 뜻하지 않으며, 강한 권고도 모든 환자에게 일률적으로 적용하지 않음. 금기·동반질환·이상반응 위험·환자 선호를 함께 판단. ‘—’는 해당 요약본에 그 부위의 별도 권고가 제시되지 않았다는 뜻이며, 반대 권고와 구분함.
+{% endhint %}
+
+<table><thead><tr><th>요법</th><th>손</th><th>무릎</th><th>고관절</th></tr></thead><tbody>
+<tr><td>국소 NSAID</td><td>강한 권고</td><td>강한 권고</td><td>—</td></tr>
+<tr><td>경구 NSAID</td><td>강한 권고</td><td>강한 권고</td><td>강한 권고</td></tr>
+<tr><td>관절내 steroid</td><td>조건부 권고</td><td>강한 권고</td><td>강한 권고</td></tr>
+<tr><td>Acetaminophen</td><td>조건부 권고</td><td>조건부 권고</td><td>조건부 권고</td></tr>
+<tr><td>Duloxetine</td><td>조건부 권고</td><td>조건부 권고</td><td>조건부 권고</td></tr>
+<tr><td>국소 capsaicin</td><td>조건부 반대</td><td>조건부 권고</td><td>—</td></tr>
+<tr><td>GLP-1 수용체 작용제</td><td>—</td><td>조건부 권고(비만 동반 시 체중 관리 목적)</td><td>—</td></tr>
+<tr><td>Methotrexate</td><td>조건부 권고(미란성 손 OA에 한함)</td><td>조건부 반대</td><td>조건부 반대</td></tr>
+<tr><td>관절내 hyaluronic acid(HA)</td><td>조건부 반대</td><td>조건부 반대</td><td>조건부 반대</td></tr>
+<tr><td>Opioid(tramadol 포함)</td><td>조건부 반대</td><td>조건부 반대</td><td>조건부 반대</td></tr>
+<tr><td>PRP 주사</td><td>—</td><td>강한 반대</td><td>강한 반대</td></tr>
+<tr><td>줄기세포 주사</td><td>—</td><td>강한 반대</td><td>강한 반대</td></tr>
+<tr><td>Glucosamine·chondroitin 및 복합제</td><td>강한 반대</td><td>강한 반대</td><td>강한 반대</td></tr>
+</tbody></table>
+
+* 무릎·손 OA에서는 국소 NSAID를 경구 NSAID보다 우선 고려하는 것이 조건부 권고됨; 고관절은 깊어 국소제의 관절 통증 개선 효과를 기대하기 어려움
+* 고관절 관절내 steroid 주사는 초음파 유도가 강한 권고임
+* GLP-1 수용체 작용제는 식사·운동과 병행하는 체중 관리 목적이며, OA 자체의 진통제·연골 재생제로 제시하지 않음. Methotrexate는 모든 손 OA로 확대 적용하지 않음
+* 국제 권고와 국내 허가·급여는 별개임. GLP-1 수용체 작용제는 국내 비만 치료 허가 기준에 따라 사용하고, methotrexate의 OA 사용은 국내 허가 외 사용으로 전문의와 검토
+* HA·PRP 등은 지침 간 평가가 다르므로 아래 해당 항목의 NICE·OARSI·AAOS 권고와 구분하여 해석
+
+<p align="center"><em><mark style="color:$info;">저자 재구성 (참고 문헌: ACR 2026 권고 요약본; 2026-10-28 확인)</mark></em></p>
+
 ### <mark style="color:orange;">경구제</mark>
 
 #### <mark style="color:$primary;">NSAID</mark>
