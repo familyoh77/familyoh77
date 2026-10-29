@@ -6,7 +6,7 @@
 * 전염 : 활동성 결핵 환자의 호흡기 분비물의 공기 매개 감염; 기침·재채기·말하기·웃기 등을 할 때 배출되어 수 시간 동안 공기 중에 떠다니며 감염을 일으킴
 * 경과 : 결핵균 노출 후 감염 여부는 전염원의 균량·기침, 접촉 시간, 환기 및 숙주의 면역 상태 등에 따라 달라짐
   * 감염된 사람의 일부는 감염 후 비교적 이른 시기에 결핵으로 진행하고, 대부분은 잠복결핵감염 상태로 지내며 일부에서 향후 결핵이 발병함
-* 결핵환자 또는 결핵의사환자를 진단·치료한 경우 24시간 이내 관할 보건소에 신고
+* 결핵 환자 또는 결핵 의사환자를 진단·치료한 경우 24시간 이내 관할 보건소에 신고
 
 {% hint style="info" %}
 전염력은 객담 도말 양성, 공동성 병변, 기침 강도, 균량과 밀접하게 연관됨. PCR(Xpert/NAAT)(+) 단독이면서 도말(-)인 환자는 전염력이 상대적으로 낮을 수 있으나, 최종 판단은 임상 소견을 종합하여 결정함
@@ -97,11 +97,35 @@
 ### <mark style="color:orange;">진단 및 조치</mark>
 
 * 폐결핵 의심 시 흉부 X선, 가래 항산균 도말 및 배양 검사, Tb-PCR 검사를 시행하고 결과에 따라 조치
-* 결핵환자 또는 결핵의사환자를 진단·치료한 경우 24시간 이내 관할 보건소에 신고
+* 결핵 환자 또는 결핵 의사환자를 진단·치료한 경우 24시간 이내 관할 보건소에 신고
 
 ***
 
 ```mermaid
+graph TD
+    Start["결핵 의심"]
+    Step1["3회(최소 2회)의 객담 <br/>AFB 도말 및 배양 검사<br/>+ 1회의 Xpert MTB/RIF <br/>또는 NAAT"]
+    Case1["•AFB (+)<br/>•Xpert MTB/RIF (+) <br/>또는 NAAT (+)"]
+    Case2["•AFB (-)<br/>•Xpert MTB/RIF (+) <br/>또는 NAAT (+)"]
+    Case3["•AFB (+)<br/>•Xpert MTB/RIF (-) <br/>또는 NAAT (-)"]
+    Case4["•AFB (-)<br/>•Xpert MTB/RIF (-) <br/>또는 NAAT (-)"]
+    Result1["결핵으로 진단"]
+    Result2["결핵으로 진단³⁾"]
+    Result3["NTM으로 추정²⁾"]
+    Result4["임상적 판단¹⁾"]
+    Start --> Step1
+    Step1 --> Case1
+    Step1 --> Case2
+    Step1 --> Case3
+    Step1 --> Case4
+    Case1 --> Result1
+    Case2 --> Result2
+    Case3 --> Result3
+    Case4 --> Result4
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+classDef pink fill:#fde8f0,stroke:#e91e8c
+class Result1,Result2,Result3,Result4 pink
+    style Step1 fill:#fff9c4,stroke:#ffe082
 ```
 
 > _NAAT = nucleic acid amplification test; NTM = nontuberculous mycobacteria (비결핵 항산균)_
@@ -243,9 +267,9 @@
 
 ## <mark style="color:green;">항결핵제 개요</mark>
 
-아래 표는 **성인 약제감수성 결핵**의 주요 약제 용량임. 소아는 연령·체중에 따른 별도 용량을 적용하며, 신기능 저하·투석 등에서는 용량 또는 투여 간격을 조정함.
+* 아래 표는 성인 약제감수성 결핵의 주요 약제 용량임. 신기능 저하·투석 등에서는 용량 또는 투여 간격을 조정함; 소아는 연령·체중에 따른 별도 용량을 적용함 <mark style="color:$info;">\[결핵 진료지침 2024]</mark>
 
-<table><thead><tr><th width="196.25">성분명 (약어)</th><th width="313.75">용량 및 투약 방법</th><th>주요 부작용</th></tr></thead><tbody><tr><td><strong>Isoniazid</strong> (INH, H)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복</td><td>간독성, 말초신경염, 피부 과민 반응</td></tr><tr><td><strong>Rifampicin</strong> (RIF, R)</td><td>8~12 ㎎/㎏ [450 ㎎ (&#x3C;50 ㎏) ~ 600 ㎎ (≥50 ㎏)] qd, 공복</td><td>간독성, 위장장애, 독감 유사 증상, 혈소판 감소증, 체액 색소 변화</td></tr><tr><td><strong>Ethambutol</strong> (EMB, E)</td><td>15~20 ㎎/㎏ qd, 공복 또는 식후; 실제 체중에 따라 용량 계산</td><td>시신경염(시력 저하, 색각 변화)</td></tr><tr><td><strong>Pyrazinamide</strong> (PZA, Z)</td><td>20~30 ㎎/㎏ [&#x3C;46 ㎏: 1,000 ㎎, 46~70 ㎏: 1,500 ㎎, ＞70 ㎏: 2,000 ㎎] qd, 공복 또는 식후</td><td>간독성, 관절통, 위장 장애</td></tr><tr><td><strong>Rifabutin</strong> (RFB)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복 또는 식후</td><td>간독성, 호중구 감소증</td></tr></tbody></table>
+<table><thead><tr><th width="164">성분명 (약어)</th><th>용량 및 투약 방법</th><th>주요 부작용</th></tr></thead><tbody><tr><td><strong>Isoniazid</strong> (INH, H)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복</td><td>간독성, 말초신경염, 피부 과민 반응</td></tr><tr><td><strong>Rifampicin</strong> <br>(RIF, R)</td><td>8~12 ㎎/㎏ [450 ㎎ (&#x3C;50 ㎏) ~ 600 ㎎ (≥50 ㎏)] qd, 공복</td><td>간독성, 위장장애, 독감 유사 증상, 혈소판 감소증, 체액 색소 변화</td></tr><tr><td><strong>Ethambutol</strong> <br>(EMB, E)</td><td>15~20 ㎎/㎏ qd, 공복 또는 식후; 실제 체중에 따라 용량 계산</td><td>시신경염(시력 저하, 색각 변화)</td></tr><tr><td><strong>Pyrazinamide</strong> <br>(PZA, Z)</td><td>20~30 ㎎/㎏ [&#x3C;46 ㎏: 1,000 ㎎, 46~70 ㎏: 1,500 ㎎, ＞70 ㎏: 2,000 ㎎] qd, 공복 또는 식후</td><td>간독성, 관절통, 위장 장애</td></tr><tr><td><strong>Rifabutin</strong> (RFB)</td><td>5 ㎎/㎏ [300 ㎎] qd, 공복 또는 식후</td><td>간독성, 호중구 감소증</td></tr></tbody></table>
 
 * Ethambutol 사용 시 치료 전 및 치료 중 정기적 시력·색각 검사가 필요하며, 신기능 저하 또는 고용량 투여 시 독성 위험이 증가
 * EMB는 실제 체중에 따라 투여량을 계산하고, 치료 기간·신기능·시각독성 위험을 고려하여 조정함. 치료 중 체중을 매달 확인하여 항결핵제 용량을 재평가함
@@ -254,38 +278,39 @@
 **내성결핵 약제**: MDR/RR-TB는 단기 전경구요법의 적응증과 약제감수성을 평가하여 전문기관에서 치료함. Bedaquiline·linezolid·fluoroquinolone 등은 현재 치료의 핵심 구성 약제이며, 종래 Group I\~V 분류를 처방 우선순위로 사용하지 않음. 주사제는 표준 대체약으로 임의 선택하지 않음
 {% endhint %}
 
-<p align="center"><em><mark style="color:$info;">Ref. 결핵 진료지침 2024</mark></em></p>
-
 #### <mark style="color:$primary;">Isoniazid (INH)</mark>
 
 * 100 ㎎/T <mark style="color:blue;">\[유한짓]</mark>
-* \[부작용] 말초신경염: Vit B6 결핍과 관련. 통상 용량(≤300 ㎎/d)에서는 흔하지 않으나 임신, 영양실조, 알코올 남용, 고령, 간질 기왕력, 만성콩팥병, 당뇨병에서 더 흔함
-  * 예방: 위 위험군에서 Pyridoxine 25\~50 ㎎/d 병용
+* 부작용 : 말초신경염: Vit B6 결핍과 관련. 통상 용량(≤300 ㎎/d)에서는 흔하지 않으나 임신, 영양실조, 알코올 남용, 고령, 간질 기왕력, 만성콩팥병, 당뇨병에서 더 흔함
+  * 예방 : 위 위험군에서 Pyridoxine 25\~50 ㎎/d 병용
 
 #### <mark style="color:$primary;">Rifampicin (RIF)</mark>
 
 * 150 ㎎/C, 300 ㎎/C, 600 ㎎/T <mark style="color:blue;">\[리팜핀]</mark>
-* \[부작용] 혈소판 감소: 투여 중단 후 주기적 혈소판 검사; 정상 회복 후에도 RIF는 재투여하지 않음
-* 주의: 소변·눈물·땀이 오렌지색으로 변색; 소프트 콘택트렌즈 착색 주의
-* 약물 상호 작용: 강력한 효소·수송체 유도제로서 경구 피임약, 항응고제, 면역억제제, 일부 항바이러스제·항진균제·항경련제·혈당강하제·심혈관계 약제의 효과를 감소시킬 수 있음. 병용 전 성분별 상호작용을 확인
+* 부작용 : 혈소판 감소: 투여 중단 후 주기적 혈소판 검사; 정상 회복 후에도 RIF는 재투여하지 않음
+* 주의 : 소변·눈물·땀이 오렌지색으로 변색; 소프트 콘택트렌즈 착색 주의
+* 약물 상호 작용 : 강력한 효소·수송체 유도제로서 경구 피임약, 항응고제, 면역억제제, 일부 항바이러스제·항진균제·항경련제·혈당강하제·심혈관계 약제의 효과를 감소시킬 수 있음. 병용 전 성분별 상호작용을 확인
 
 **Rifampicin의 주요 약물 상호작용**
 
-<table><thead><tr><th width="272.75">약제</th><th width="174.25">상호작용 결과</th><th>임상적 주의사항</th></tr></thead><tbody><tr><td>DOAC (rivaroxaban, apixaban 등)</td><td>노출량 현저히 감소</td><td>병용을 피하고 대체 항응고 전략을 검토</td></tr><tr><td>Tacrolimus / Cyclosporine</td><td>농도 현저히 감소</td><td>이식 거부 위험; 전문가 협진과 치료약물농도 모니터링 필요</td></tr><tr><td>Azole 항진균제</td><td>성분별 노출량 감소</td><td>병용 가능 여부와 대체제를 성분별로 확인</td></tr><tr><td>HIV 항레트로바이러스제</td><td>요법별로 상호작용 상이</td><td>항레트로바이러스 요법과 rifamycin 선택·용량을 감염 전문가와 조정</td></tr><tr><td>호르몬 피임제</td><td>피임 효과 감소</td><td>비호르몬성 또는 추가 피임법 사용</td></tr><tr><td>Warfarin</td><td>항응고 효과 감소</td><td>INR을 면밀히 추적하고 용량 조정</td></tr><tr><td>일부 혈당강하제·CCB·항경련제</td><td>약효 감소 가능</td><td>약제별 상호작용 확인 및 임상 지표 모니터링</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="259">약제</th><th width="161">상호작용 결과</th><th>임상적 주의사항</th></tr></thead><tbody><tr><td><strong>DOAC</strong> (rivaroxaban, apixaban)</td><td>노출량 현저히 감소</td><td>병용을 피하고 대체 항응고 전략을 검토</td></tr><tr><td><strong>Tacrolimus / Cyclosporine</strong></td><td>농도 현저히 감소</td><td>이식 거부 위험; 전문가 협진과 치료약물농도 모니터링 필요</td></tr><tr><td><strong>Azole 항진균제</strong></td><td>성분별 노출량 감소</td><td>병용 가능 여부와 대체제를 성분별로 확인</td></tr><tr><td><strong>HIV 항레트로바이러스제</strong></td><td>요법별로 상호작용 상이</td><td>항레트로바이러스 요법과 rifamycin 선택·용량을 감염 전문가와 조정</td></tr><tr><td><strong>호르몬 피임제</strong></td><td>피임 효과 감소</td><td>비호르몬성 또는 추가 피임법 사용</td></tr><tr><td><strong>Warfarin</strong></td><td>항응고 효과 감소</td><td>INR을 면밀히 추적하고 용량 조정</td></tr><tr><td><strong>일부 혈당강하제·CCB·항경련제</strong></td><td>약효 감소 가능</td><td>약제별 상호작용 확인 및 임상 지표 모니터링</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">Ethambutol (EMB)</mark>
 
 * 400 ㎎/T; 고용량 사용 시 2개월 후 감량 <mark style="color:blue;">\[마이암부톨 제피]</mark>
-* \[부작용] 시신경증 : 시력 저하, 적록 색맹, 중심 암증, 주변 시각 장애; 용량·투여 기간과 관련. 신기능 저하 또는 ≥25 ㎎/㎏/d 투여 시 위험 증가; 당뇨병 환자는 미세혈관 합병증으로 인해 기저적 시신경 취약성이 높으므로 정기 시력·색각 검사를 강화
-* 시력 모니터링 : 치료 전 기저 시력·색각 검사, 매 방문 시 시각 증상 확인; 고용량(≥25 ㎎/㎏/d), 2개월 초과 투여, 신기능 저하 시 매달 검사 (이상 발생 즉시 EMB 중단)
-* 어린 소아에서는 시신경병증 모니터링이 어려울 수 있으므로 주의함; WHO 소아 권장 용량은 20 ㎎/㎏/d(범위 15\~25 ㎎/㎏/d)이며 권장 용량에서 독성 위험은 낮음. 치료 기간·신기능·검사 협조도를 고려하여 관찰
+* 시신경증 부작용 : 시력 저하, 적록 색맹, 중심 암증, 주변 시각 장애
+  * 용량·투여 기간과 관련. 신기능 저하 또는 ≥25 ㎎/㎏/d 투여 시 위험 증가
+  * 당뇨병 환자는 미세혈관 합병증으로 인해 기저적 시신경 취약성이 높으므로 정기 시력·색각 검사를 강화
+  * 시력 모니터링 : 치료 전 기저 시력·색각 검사, 매 방문 시 시각 증상 확인; 고용량(≥25 ㎎/㎏/d), 2개월 초과 투여, 신기능 저하 시 매달 검사 (이상 발생 즉시 EMB 중단)
+  * 소아 : 어린 소아에서는 시신경병증 모니터링이 어려울 수 있으므로 주의함; WHO 소아 권장 용량은 20 ㎎/㎏/d(범위 15\~25 ㎎/㎏/d)이며 권장 용량에서 독성 위험은 낮음. 치료 기간·신기능·검사 협조도를 고려하여 관찰
 
 #### <mark style="color:$primary;">Pyrazinamide (PZA)</mark>
 
 * 250 ㎎/T, 500 ㎎/T <mark style="color:blue;">\[피라진아미드]</mark>
-* \[부작용] 관절통 : ⅓에서 주로 치료 2개월 이내에 발생 → 통풍이 아닌 관절통은 NSAID로 관리
-* \[부작용] 고요산혈증·통풍: PZA로 인한 고요산혈증은 매우 흔하나, 증상이 없는 무증상 고요산혈증만으로는 약제를 중단하지 않고 관찰; 실제 통풍 발작은 드묾. 통풍 환자 또는 2개월 이상 사용 시 요산 모니터링 시행
-* 급성 통풍성 관절염이 발생하면 PZA 중단과 대체 요법을 전문가와 평가함
+* 부작용
+  * 관절통 : ⅓에서 주로 치료 2개월 이내에 발생 → 통풍이 아닌 관절통은 NSAID로 관리
+  * 고요산혈증·통풍 : PZA로 인한 고요산혈증은 매우 흔하나, 증상이 없는 무증상 고요산혈증만으로는 약제를 중단하지 않고 관찰; 실제 통풍 발작은 드묾. 통풍 환자 또는 2개월 이상 사용 시 요산 모니터링 시행
+  * 급성 통풍성 관절염이 발생하면 PZA 중단과 대체 요법을 전문가와 평가함
 
 #### <mark style="color:$primary;">주사 항결핵제</mark>
 
@@ -296,25 +321,25 @@
 
 ### <mark style="color:orange;">치료 전 조치</mark>
 
-* 병력 청취: 항결핵제 부작용 발생 위험 평가, 임신 가능성
-* 기저 검사: 시력, CBC, LFT(AST, ALT, ALP, 빌리루빈), RFT(Cr)
-* 약제 감수성 검사: 치료 시작 시 얻은 배양 양성 결핵균에 대해 시행
+* 병력 청취 : 항결핵제 부작용 발생 위험 평가, 임신 가능성
+* 기저 검사 : 시력, CBC, LFT(AST, ALT, ALP, 빌리루빈), RFT(Cr)
+* 약제 감수성 검사 : 치료 시작 시 얻은 배양 양성 결핵균에 대해 시행
 
 ### <mark style="color:orange;">초치료 (New patient)</mark>
 
 #### <mark style="color:$primary;">치료 원칙</mark>
 
-1. 초치료 대상 : ⓵ 이전에 결핵 치료를 받은 적이 없거나, ⓶ ＜1개월의 결핵 치료를 받은 환자
+1. 초치료 대상 : 이전에 결핵 치료를 받은 적이 없거나, 1개월 미만의 결핵 치료를 받은 환자
 2. 초치료는 원칙적으로 H·R·Z·E 4제 병합으로 시작하며, 이후 약제감수성과 치료 반응에 따라 유효 약제 조합을 조정
 3. 최고 혈중 농도가 중요하므로 정확한 용량을 1일 1회 복용
 4. 간헐적으로 증식하는 균까지 멸균하기 위해 규칙적으로 6개월 이상 장기 치료
 
-#### <mark style="color:$primary;">표준 6개월 요법: 2HREZ/4HR(E)</mark>
+#### <mark style="color:$primary;">표준 6개월 요법 - 2HREZ/4HR(E)</mark>
 
-* 초기 집중 치료기 (2개월): H·R·Z·E 4제 병합
-* 유지 치료기 (4개월): H·R·E 3제; 약제 감수성 검사에서 INH·RIF에 감수성이 확인되면 그 시점에 EMB를 중단할 수 있음
+* 초기 집중 치료기 (2개월) : H·R·Z·E 4제 병합
+* 유지 치료기 (4개월) : H·R·E 3제; 약제 감수성 검사에서 INH·RIF에 감수성이 확인되면 그 시점에 EMB를 중단할 수 있음
 
-#### <mark style="color:$primary;">9개월 요법: 9HRE</mark>
+#### <mark style="color:$primary;">9개월 요법 - 9HRE</mark>
 
 * 초치료 시 PZA를 사용하지 못하는 경우 H·R·E 9개월 투여
 * 고정용량복합제는 복약 순응도를 높일 수 있으나 제품마다 성분·함량이 다르므로 최신 허가사항과 유통 여부를 확인하여 체중별 목표 용량에 맞게 처방
@@ -325,68 +350,71 @@
 
 #### <mark style="color:$primary;">기저 및 치료 중 추구 검사</mark>
 
-<table data-header-hidden><thead><tr><th width="203.7894287109375"></th><th width="55.368499755859375"></th><th width="43.789398193359375"></th><th width="44.842132568359375"></th><th width="44.8421630859375"></th><th width="44.84210205078125"></th><th width="44.84210205078125"></th><th width="44.84210205078125"></th><th width="44.84210205078125"></th><th width="44.8421630859375"></th><th width="49.05267333984375"></th></tr></thead><tbody><tr><td><strong>검사법</strong></td><td><strong>기저</strong></td><td><strong>1</strong>¹⁾</td><td><strong>2</strong></td><td><strong>3</strong></td><td><strong>4</strong></td><td><strong>5</strong></td><td><strong>6</strong></td><td><strong>7</strong></td><td><strong>8</strong></td><td><strong>9</strong>²⁾</td></tr><tr><td>미생물검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>객담항산균 도말&#x26;배양검사</td><td>●</td><td>●</td><td>●</td><td>○</td><td>○</td><td></td><td></td><td></td><td></td><td>○</td></tr><tr><td>Xpert MTB/RIF 검사</td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>신속감수성검사</td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>통상감수성검사</td><td></td><td></td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>흉부 X선/기타영상검사</td><td>●</td><td>○</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>●</td></tr><tr><td>임상적 평가</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>체중</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>증상&#x26;약물순응도 평가</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>시력평가</td><td>●</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>검사실 검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CBC</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>간기능</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>신기능</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>HIV</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B/C형 간염</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>당뇨</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>폐기능 검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>○</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="221.7894287109375">검사법</th><th width="55.368499755859375">기저</th><th width="43.789398193359375">1¹⁾</th><th width="44.842132568359375">2</th><th width="44.8421630859375">3</th><th width="44.84210205078125">4</th><th width="44.84210205078125">5</th><th width="44.84210205078125">6</th><th width="44.84210205078125">7</th><th width="44.8421630859375">8</th><th width="49.05267333984375">9²⁾</th></tr></thead><tbody><tr><td>미생물검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>객담항산균 도말&#x26;배양검사</td><td>●</td><td>●</td><td>●</td><td>○</td><td>○</td><td></td><td></td><td></td><td></td><td>○</td></tr><tr><td>Xpert MTB/RIF 검사</td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>신속감수성검사</td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>통상감수성검사</td><td></td><td></td><td>●</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>흉부 X선/기타영상검사</td><td>●</td><td>○</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>●</td></tr><tr><td>임상적 평가</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>체중</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>증상&#x26;약물순응도 평가</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>시력평가</td><td>●</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>검사실 검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CBC</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>간기능</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>신기능</td><td>●</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td><td></td></tr><tr><td>HIV</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B/C형 간염</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>당뇨</td><td>○</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>폐기능 검사</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>○</td></tr></tbody></table>
 
-　● 반드시 시행, ○ 필요시 시행
+> _● 반드시 시행, ○ 필요시 시행_\
+> _¹⁾치료 중 (단위: 개월), ²⁾치료 종결 (6개월 혹은 9개월 치료 종결 시점에 해당)_
 
-　¹⁾치료 중 (단위: 개월), ²⁾치료 종결 (6개월 혹은 9개월 치료 종결 시점에 해당)
-
-　_<mark style="color:$info;">Ref. 결핵 진료지침 2024, 표 II-5</mark>_
+<p align="center">　<em><mark style="color:$info;">Ref. 결핵 진료지침 2024, 표 II-5</mark></em></p>
 
 #### <mark style="color:$primary;">치료 효과 평가</mark>
 
-* 가래 도말 또는 배양 양성 환자: 치료 시작 후 2회 연속 음성이 나올 때까지 매달 도말·배양 검사 시행; 치료 종결 시점에 마지막 가래 검사 시행
-* 임상적으로 치료 실패가 의심되는 경우: 추가 가래 도말·배양 → 배양 양성 시 이 결핵균에 대해 약제 감수성 검사 추가 시행
+* 가래 도말 또는 배양 양성 환자 : 치료 시작 후 2회 연속 음성이 나올 때까지 매달 도말·배양 검사 시행, 치료 종결 시점에 마지막 가래 검사 시행
 * 흉부 X선 단독으로 치료 반응을 평가하지 않음
-* 역설적 반응 : 치료 도중(흔히 치료 시작 후 수주\~3개월 사이) 치료 실패 없이 면역 반응 증가로 임상 증상 및 영상 소견이 일시적으로 악화되는 현상(고열, 림프절염 발생/악화, CNS 병변 악화, 폐결핵 병변 악화, 흉수 증가); 항결핵제를 적절히 복용 중이며 객담 검사 음성이고 다른 질환의 가능성이 거의 없으면 기존 치료를 유지
-* 치료 종결 시점에 결핵 후 폐 질환에 대하여 평가; 호흡 곤란이 있거나 영상 검사에서 유의미한 후유증이 관찰되면 치료 종결 시점 혹은 종결 후 6개월 이내에 폐기능 검사 권고
+* 임상적으로 치료 실패가 의심되는 경우 : 추가 가래 도말·배양 → 배양 양성 시 이 결핵균에 대해 약제 감수성 검사 추가 시행
+* 역설적 반응 : 치료 도중(흔히 치료 시작 후 수주\~3개월 사이) 치료 실패 없이 면역 반응 증가로 임상 증상 및 영상 소견이 일시적으로 악화되는 현상(고열, 림프절염 발생/악화, CNS 병변 악화, 폐결핵 병변 악화, 흉수 증가)
+  * 항결핵제를 적절히 복용 중이며 객담 검사 음성이고 다른 질환의 가능성이 거의 없으면 기존 치료를 유지
+* 치료 종결 시점에 결핵 후 폐 질환에 대하여 평가
+  * 호흡 곤란이 있거나 영상 검사에서 유의미한 후유증이 관찰되면 치료 종결 시점 혹은 종결 후 6개월 이내에 폐기능 검사 권고
 
 #### <mark style="color:$primary;">초치료 결과 분류</mark>
 
-* 완치 : 치료 시작 시 세균학적으로 확진된 폐결핵 환자가 권고 치료를 완료하고, 세균학적 음전 이후 양전이나 치료 실패의 증거가 없는 경우
 * 완료 : 권고 치료를 완료했으나 완치 또는 실패의 정의에 해당하지 않는 경우
+* 완치 : 치료 시작 시 세균학적으로 확진된 폐결핵 환자가 치료를 완료하고, 세균학적 음전 이후 양전이나 치료 실패의 증거가 없는 경우
+* 치료 성공 : 완치 또는 완료된 경우
+* 세균학적 음전 : 최소 7일 간격으로 시행한 연속 2회 검사 음성(감수성결핵은 도말 또는 배양, 내성결핵은 배양 기준). 치료 4개월 이후 배양 양성은 실패 정의 자체가 아니라 치료 실패를 의심하여 재평가할 신호임
 * 실패 : 임상적·세균학적 무반응, 부작용, 추가 약제 내성 등으로 치료가 영구 중단되거나 새로운 치료 요법·전략으로 변경된 경우
 * 사망 : 치료 시작 전 또는 치료 중 원인과 무관하게 사망한 경우
 * 추적 방문 중단 : 치료를 시작하지 않았거나 연속 2개월 이상 치료가 중단된 경우
 * 평가 미정 : 위 치료 결과에 해당하지 않는 경우(다른 기관으로 전출되어 치료 결과를 알 수 없는 경우 포함; 추적 방문 중단은 제외)
-* 치료 성공 : 완치 또는 완료된 경우
-* 세균학적 음전 : 최소 7일 간격으로 시행한 연속 2회 검사 음성(감수성결핵은 도말 또는 배양, 내성결핵은 배양 기준). 치료 4개월 이후 배양 양성은 실패 정의 자체가 아니라 치료 실패를 의심하여 재평가할 신호임
 
 #### <mark style="color:$primary;">결핵 후 폐 질환 (Post-TB Lung Disease, PTLD)</mark>
 
 * 치료 종결 ≠ 폐 기능 회복 : 세균학적 치료 성공 후에도 상당수 환자에서 만성 폐 기능 손상이 남음
 * 주요 후유증 : 기관지 확장증, 만성 기류 제한(COPD 유사 패턴), 파괴폐(destroyed lung), 반복 세균 감염, 객혈, 제한성 환기 장애, 만성 저산소혈증
 * 위험 인자 : 치료 지연, 중증 병변, 공동 형성, 반복 결핵, 흡연, 당뇨병
-* 치료 종결 후에도 호흡기 증상·흉부 영상 이상·폐기능 저하가 지속되면 호흡기내과 의뢰 및 장기 추적 관리
+* 치료 종결 후에도 호흡기 증상·흉부 영상 이상·폐기능 저하가 지속되면 전문과 의뢰 및 장기 추적 관리
 
 ### <mark style="color:orange;">부작용 대처</mark>
 
 #### <mark style="color:$primary;">간독성</mark>
 
-* 증상: 간 효소 수치 상승, 전신 쇠약감, 구역, 구토, 우상복부 불쾌감, 가려움, 황달
+* 증상 : 간 효소 수치 상승, 전신 쇠약감, 구역, 구토, 우상복부 불쾌감, 가려움, 황달
   * 고령, 간질환 기왕력, 알코올 남용자에서 정기적 간 효소 검사
-* 조치: ALT ≥3×ULN + 간염 증상, 또는 ALT ≥5×ULN 시 INH·RIF·PZA 투여 중단
-* 재투여: 간염 증상이 호전되고 ALT ＜2×ULN으로 감소한 뒤 전문가 감독하에 시행. 기존 간질환으로 치료 전 ALT가 높았다면 정상화를 일률적으로 요구하지 않고 치료 전 기저 수준에 가까워졌는지 평가
-* RIF를 먼저 재투여하고 약 1주 후 간기능이 안정적이면 INH를 추가하는 방식 등을 사용. PZA 재투여는 간염 중증도·원인 가능성·치료 이득에 따라 결정하며, **중증 간염이었거나 PZA가 원인으로 의심되면 재투여를 피하고 치료기간 연장 등을 검토**
+* 조치 : ALT ≥3×ULN + 간염 증상, 또는 ALT ≥5×ULN 시 INH·RIF·PZA 투여 중단
+* 재투여 : 간염 증상이 호전되고 ALT ＜2×ULN으로 감소한 뒤 전문가 감독하에 시행. 기존 간질환으로 치료 전 ALT가 높았다면 정상화를 일률적으로 요구하지 않고 치료 전 기저 수준에 가까워졌는지 평가
+  * RIF를 먼저 재투여하고 약 1주 후 간기능이 안정적이면 INH를 추가하는 방식 등을 사용
+  * PZA 재투여는 간염 중증도·원인 가능성·치료 이득에 따라 결정하며, 중증 간염이었거나 PZA가 원인으로 의심되면 재투여를 피하고 치료기간 연장 등을 검토
 * 중증 결핵으로 간기능 회복 중에도 치료가 필요하면 약제감수성과 장기 기능을 고려해 간독성이 적은 유효 약제 조합을 전문가가 구성. 단일 약제로 대체하거나 임의로 주사제를 추가하지 않음 <mark style="color:$info;">\[Clin Infect Dis 2016]</mark>
 
 #### <mark style="color:$primary;">위장 장애</mark>
 
 * 구역·구토·식욕 저하가 심하거나 ＞1주 지속 시 먼저 간 검사로 간독성 여부 확인
-* 간독성과 무관한 경우: 복용 시간을 식후 또는 취침 전으로 변경하거나 증상 치료를 고려하되, 1일 용량을 임의로 나누어 복용하지 않음
+* 간독성과 무관한 경우 : 복용 시간을 식후 또는 취침 전으로 변경하거나 증상 치료를 고려하되, 1일 용량을 임의로 나누어 복용하지 않음
 
 #### <mark style="color:$primary;">피부 발진</mark>
 
-* 가려움을 동반한 국소 발진: 항히스타민제로 완화 시도
-* RIF 복용 중 출혈성 발진: 투여 중단 후 주기적 혈소판 수치 검사; 정상 회복 후에도 RIF는 재투여하지 않음
-* 점막 침범·수포·피부 박리 또는 발열·장기 침범을 동반한 전신 발진: 모든 의심 약제를 즉시 중단하고 응급 평가. SJS/TEN 또는 DRESS가 의심되면 원인 약제 재투여는 금기이며, 치료 재구성과 단계적 재투여는 결핵 전문가·알레르기 전문가와 상의
+* 가려움을 동반한 국소 발진 : 항히스타민제로 완화 시도
+* RIF 복용 중 출혈성 발진 : 투여 중단 후 주기적 혈소판 수치 검사
+  * 정상 회복 후에도 RIF는 재투여하지 않음
+* 점막 침범·수포·피부 박리 또는 발열·장기 침범을 동반한 전신 발진 : 모든 의심 약제를 즉시 중단하고 응급 평가. SJS/TEN 또는 DRESS가 의심되면 원인 약제 재투여는 금기이며, 치료 재구성과 단계적 재투여는 결핵 전문가·알레르기 전문가와 상의
 
 #### <mark style="color:$primary;">Drug Fever</mark>
 
 * 결핵 자체에 의한 발열과 약제에 의한 발열의 감별 필요
 * 약제열은 원인 약제 중단 후 대개 수일 이내 호전되지만 시점만으로 확진할 수 없으며, 결핵 자체·동반 감염·다른 약제에 의한 발열을 배제
 * 원인 약제 확인을 위한 단계적 재투여는 중증 과민반응이 아니었음을 확인한 뒤 전문가 감독하에 시행
-* 재투여 순서: RIF → INH → PZA → EMB 순으로 하나씩 저용량부터 시작하며, 각 약제 투여 후 최소 24\~48시간 동안 발열·발진·전신 증상 관찰
+* 재투여 순서 : RIF → INH → PZA → EMB 순으로 하나씩 저용량부터 시작하며, 각 약제 투여 후 최소 24\~48시간 동안 발열·발진·전신 증상 관찰
 
 {% hint style="warning" %}
 재투여 후 발열이 재현되면 해당 약제가 원인일 가능성이 높지만 단독으로 확진하지 않음. 중증 과민반응 병력이 있으면 재투여하지 말고 즉시 전문가에게 의뢰함
@@ -407,17 +435,19 @@
 * 2개월 이상 항결핵제 투여 중단 시 신고
 * 병력 청취 등으로 중단 원인을 파악하고 재치료 시 교육·상담·사회적 지지 제공
 * 치료 중단 후 재치료 시작 시 반드시 가래 배양 검사와 약제 감수성 검사를 시행
-* 재치료 처방은 중단 시점·누적 복용량·균량·약제감수성 결과를 종합하여 결정함. 과거 부작용이 있었다는 이유만으로 약제를 일률적으로 제외하지 말고 원인과 중증도를 재평가하며, 중증 부작용이면 전문가에게 의뢰하여 유효 약제로 처방을 재구성
+* 재치료 처방은 중단 시점·누적 복용량·균량·약제감수성 결과를 종합하여 결정함
+  * 과거 부작용이 있었다는 이유만으로 약제를 일률적으로 제외하지 말고 원인과 중증도를 재평가
+  * 중증 부작용이면 전문가에게 의뢰하여 유효 약제로 처방을 재구성
 
 **초기 집중 치료기 중단 시 대처**
 
-* 치료 중단 기간 ＜14일: 치료를 유지하면서 초기 집중 치료기 동안 복용해야 하는 약제들을 모두 복용한 후 유지기로 이행
-* 치료 중단 기간 ≥14일: 처음부터 치료를 다시 시작
+* 치료 중단 기간 ＜14일 : 치료를 유지하면서 초기 집중 치료기 동안 복용해야 하는 약제들을 모두 복용한 후 유지기로 이행
+* 치료 중단 기간 ≥14일 : 처음부터 치료를 다시 시작
 
-**유지기 중단 시 대처**
+**유지 치료기 중단 시 대처**
 
-* 예정된 유지기 총 투여 횟수의 ＜80% 복용 후 중단: 중단 기간 ＜2개월이면 남은 양을 모두 복용, ≥2개월이면 처음부터 다시 치료 시작
-* 예정된 유지기 총 투여 횟수의 ≥80% 복용: 치료 시작 시 도말 음성이었으면 치료 종결, 도말 양성이었으면 유지기 남은 기간을 모두 복용하고 종결
+* 예정된 유지기 총 투여 횟수의 ＜80% 복용 후 중단 : 중단 기간 ＜2개월이면 남은 양을 모두 복용, ≥2개월이면 처음부터 다시 치료 시작
+* 예정된 유지기 총 투여 횟수의 ≥80% 복용 : 치료 시작 시 도말 음성이었으면 치료 종결, 도말 양성이었으면 유지기 남은 기간을 모두 복용하고 종결
   * 예외 : 치료 시작 시 공동(cavity)이 있었거나 집중기 2개월 완료 시점에 배양 양성이었던 고위험군에서는 80% 달성 여부와 무관하게 전문가 판단에 따라 추가 복용을 고려함
 
 #### <mark style="color:$primary;">재발 결핵</mark>
@@ -441,39 +471,39 @@
 
 **다제 내성 (MDR) 결핵 및 광범위 약제 내성 (XDR) 결핵**
 
-* 정의: RR-TB는 RIF 내성, MDR-TB는 최소 INH와 RIF에 동시 내성, pre-XDR-TB는 MDR/RR-TB + fluoroquinolone 내성, XDR-TB는 pre-XDR-TB + bedaquiline 또는 linezolid 내성
+* 정의 : RR-TB는 RIF 내성, MDR-TB는 최소 INH와 RIF에 동시 내성, pre-XDR-TB는 MDR/RR-TB + fluoroquinolone 내성, XDR-TB는 pre-XDR-TB + bedaquiline 또는 linezolid 내성
 * 전문 의료기관에 의뢰
 * 치료 시작 전 최소한 INH·RIF 및 fluoroquinolone에 대한 신속감수성검사를 시행하고, 가능한 모든 구성 약제에 대한 감수성 결과를 확보
 * 국내 2024 지침에서는 fluoroquinolone 감수성 MDR/RR-TB에 6개월 BPaLM 또는 9개월 MDR-END 요법을 장기요법보다 우선 고려함
-  * BPaLM: bedaquiline + pretomanid + linezolid + moxifloxacin, 총 26주
-  * MDR-END: levofloxacin + delamanid + linezolid + pyrazinamide, 9개월 (배양 음전 지연 시 12개월까지 연장)
+  * BPaLM : bedaquiline + pretomanid + linezolid + moxifloxacin, 총 26주
+  * MDR-END : levofloxacin + delamanid + linezolid + pyrazinamide, 9개월(배양 음전 지연 시 12개월까지 연장)
 * Fluoroquinolone 내성 MDR-TB(pre-XDR-TB)에서는 적응증을 충족하면 6개월 BPaL 요법을 우선 고려
 * 18\~20개월 개별화 장기요법은 단기요법의 적응증을 충족하지 않거나 내성·부작용·치료 반응으로 단기요법을 유지할 수 없는 경우에 사용
 
 {% hint style="info" %}
-**내성결핵 단기요법의 적용**: BPaL/BPaLM은 개별 약제를 임의로 추가·제외하는 방식이 아니라 하나의 package regimen으로 운용함. BPaLM은 14세 이상이 대상이며, 연령, 임신·수유, 폐외결핵 부위, 이전 노출, 약제감수성, QT 간격, 골수억제 및 말초·시신경병증 위험을 평가해야 하고, 국가 사전심사·급여기준을 포함하여 반드시 결핵 전문가가 처방함. WHO 2025는 MDR/RR-TB에 fluoroquinolone 내성 여부에 따라 구성 약제를 조정하는 **6개월 BDLLfxC**(bedaquiline·delamanid·linezolid·levofloxacin·clofazimine) 요법을 선택지로 추가하고, FQ 감수성 MDR/RR-TB에서 수정 9개월 요법(BLMZ, BLLfxCZ, BDLLfxZ)도 장기요법보다 우선 권고함. WHO 제2판(2026)은 pre-XDR-TB에서 중증도에 따라 단기요법을 선택하도록 개정함. 국내 적용은 결핵 전문가가 국내 지침·허가·공급을 고려하여 결정함
+**내성결핵 단기요법의 적용** : BPaL/BPaLM은 개별 약제를 임의로 추가·제외하는 방식이 아니라 하나의 package regimen으로 운용함. BPaLM은 14세 이상이 대상이며, 연령, 임신·수유, 폐외 결핵 부위, 이전 노출, 약제감수성, QT 간격, 골수억제 및 말초·시신경병증 위험을 평가해야 하고, 국가 사전심사·급여기준을 포함하여 반드시 결핵 전문가가 처방함. WHO 2025는 MDR/RR-TB에 fluoroquinolone 내성 여부에 따라 구성 약제를 조정하는 **6개월 BDLLfxC**(bedaquiline·delamanid·linezolid·levofloxacin·clofazimine) 요법을 선택지로 추가하고, FQ 감수성 MDR/RR-TB에서 수정 9개월 요법(BLMZ, BLLfxCZ, BDLLfxZ)도 장기요법보다 우선 권고함. WHO 제2판(2026)은 pre-XDR-TB에서 중증도에 따라 단기요법을 선택하도록 개정함. 국내 적용은 결핵 전문가가 국내 지침·허가·공급을 고려하여 결정함
 {% endhint %}
 
 ### <mark style="color:orange;">특수 상황</mark>
 
 #### <mark style="color:$primary;">임신</mark>
 
-* 초치료: 6개월 표준 치료 \[2HREZ/4HR(E)] 또는 9개월 치료 \[9HRE]
-* 모유 수유: 1차 항결핵제 치료 시 모유 수유 가능; INH 투여 시 피리독신 병용
+* 초치료 : 6개월 표준 치료 \[2HREZ/4HR(E)] 또는 9개월 치료 \[9HRE]
+* 모유 수유 : 1차 항결핵제 치료 시 모유 수유 가능; INH 투여 시 피리독신 병용
 
 #### <mark style="color:$primary;">간질환자</mark>
 
-* 간 손상이 심하지 않은 만성 간질환자: 9HRE 및 정기적 간 효소 검사
-* 중증·불안정한 간 기능 변화를 보이는 만성 간질환자: 의뢰
+* 간 손상이 심하지 않은 만성 간질환자 : 9HRE 및 정기적 간 효소 검사
+* 중증·불안정한 간 기능 변화를 보이는 만성 간질환자 : 의뢰
 
 #### <mark style="color:$primary;">신질환자</mark>
 
-* 신기능 저하자: INH·RIF·moxifloxacin은 일반적으로 용량·간격 조절이 필요하지 않음. CrCl ＜30 ㎖/min 또는 혈액투석에서는 EMB·PZA를 감량하기보다 PZA 25\~35 ㎎/㎏, EMB 20\~25 ㎎/㎏를 주 3회 투여하며, 기타 약제는 신기능과 투석 여부에 따라 조정
-* 투석 환자: 투석 직후 항결핵제 투여
+* 신기능 저하자 : INH·RIF·moxifloxacin은 일반적으로 용량·간격 조절이 필요하지 않음. CrCl ＜30 ㎖/min 또는 혈액투석에서는 EMB·PZA를 감량하기보다 PZA 25\~35 ㎎/㎏, EMB 20\~25 ㎎/㎏를 주 3회 투여하며, 기타 약제는 신기능과 투석 여부에 따라 조정
+* 투석 환자 : 투석 직후 항결핵제 투여
 
 #### <mark style="color:$primary;">폐외 결핵</mark>
 
-<table><thead><tr><th width="220">부위</th><th width="148">치료 요법</th><th>비고</th></tr></thead><tbody><tr><td>결핵성 수막염</td><td>2HREZ/7<br>~10HR(E)</td><td>사망·신경학적 후유증 위험 높음; dexamethasone 또는 prednisolone 보조요법을 6~8주에 걸쳐 감량</td></tr><tr><td>결핵성 심낭염</td><td>2HREZ/4HR(E)</td><td>보조 스테로이드는 수축성 심낭염 위험과 HIV 상태 등을 고려하여 선택적으로 사용</td></tr><tr><td>결핵성 복막염, 장 결핵, 속립성 결핵, 비뇨생식기 결핵</td><td>2HREZ/4HR(E)</td><td>복막결핵은 복수·조직의 미생물학적 및 조직학적 검사를 함께 고려</td></tr><tr><td>결핵성 흉막염</td><td>2HREZ/4HR(E)</td><td>흉수 ADA는 보조검사이며 단독 확진 기준이 아님; 대량 흉수로 호흡곤란이 있거나 복잡 흉수·농흉이면 배액 고려</td></tr><tr><td>기관지 결핵</td><td>폐결핵과 동일</td><td>기관지 협착을 추적하며, 스테로이드는 routine으로 사용하지 않고 선택적으로 고려</td></tr><tr><td>림프절 결핵</td><td>2HREZ/4HR(E)</td><td>조직검사·배양 권고. 치료 중 일시적 확대는 역설적 반응일 수 있어 내성·순응도·다른 질환을 재평가하며, 일률적 절제는 권하지 않음</td></tr><tr><td>골·관절 결핵</td><td>6~9개월</td><td>약제 무반응·감염 진행·불안정성·신경 손상 시 수술 고려</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="165">부위</th><th width="154">치료 요법</th><th>비고</th></tr></thead><tbody><tr><td><strong>결핵성 수막염</strong></td><td>2HREZ/7<br>~10HR(E)</td><td>사망·신경학적 후유증 위험 높음; dexamethasone 또는 prednisolone 보조요법을 6~8주에 걸쳐 감량</td></tr><tr><td><strong>결핵성 심낭염</strong></td><td>2HREZ/4HR(E)</td><td>보조 스테로이드는 수축성 심낭염 위험과 HIV 상태 등을 고려하여 선택적으로 사용</td></tr><tr><td><strong>결핵성 복막염, 장 결핵, 속립성 결핵, 비뇨생식기 결핵</strong></td><td>2HREZ/4HR(E)</td><td>복막결핵은 복수·조직의 미생물학적 및 조직학적 검사를 함께 고려</td></tr><tr><td><strong>결핵성 흉막염</strong></td><td>2HREZ/4HR(E)</td><td>흉수 ADA는 보조검사이며 단독 확진 기준이 아님; 대량 흉수로 호흡곤란이 있거나 복잡 흉수·농흉이면 배액 고려</td></tr><tr><td><strong>기관지 결핵</strong></td><td>폐결핵과 동일</td><td>기관지 협착을 추적하며, 스테로이드는 routine으로 사용하지 않고 선택적으로 고려</td></tr><tr><td><strong>림프절 결핵</strong></td><td>2HREZ/4HR(E)</td><td>조직검사·배양 권고. 치료 중 일시적 확대는 역설적 반응일 수 있어 내성·순응도·다른 질환을 재평가하며, 일률적 절제는 권하지 않음</td></tr><tr><td><strong>골·관절 결핵</strong></td><td>6~9개월</td><td>약제 무반응·감염 진행·불안정성·신경 손상 시 수술 고려</td></tr></tbody></table>
 
 ## <mark style="color:green;">예방</mark>
 
@@ -482,7 +512,7 @@
 **격리**
 
 * 격리 개시 : 전염력 의심 때부터
-* 외출이 불가피한 경우 환자는 수술용 마스크를 착용하고, 전염성 결핵환자를 진료·시술하는 의료진은 적합성 검사를 거친 N95급 호흡보호구를 착용
+* 외출이 불가피한 경우 환자는 수술용 마스크를 착용하고, 전염성 결핵 환자를 진료·시술하는 의료진은 적합성 검사를 거친 N95급 호흡보호구를 착용
 
 **입원 명령 대상**
 
@@ -492,7 +522,7 @@
 
 **격리 해제 기준** (의료기관 내 공기주의 격리; 다음을 모두 충족하며, 3번은 초기 도말 양성 환자에 적용)
 
-1. 최소 2주간 효과적인 항결핵제로 치료 시행 (약제 내성 또는 낮은 복약 순응도에서는 전염 기간이 더 길 수 있음)
+1. 최소 2주간 효과적인 항결핵제로 치료 시행 - 약제 내성 또는 낮은 복약 순응도에서는 전염 기간이 더 길 수 있음
 2. 임상적 호전
 3. 초기 도말 양성 환자 : 추적 객담 도말검사 연속 ≥3회 음성(8\~24시간 간격으로 채취하며, 최소 1회는 아침 객담) 또는 배양검사 음성 확인
 4. 담당 의사가 약제감수성·복약 상태·증상과 객담검사 결과를 종합하여 전파 우려가 충분히 감소했다고 판단
@@ -501,8 +531,8 @@
 * 퇴원 후 재택 격리, 의료기관 내 격리 해제, 등교·출근 허용은 구분하며, 등교·출근은 국가결핵관리지침의 기준에 따름
 
 {% hint style="info" %}
-가래 도말검사 양성인 경우에도 임상 소견이 호전되어 퇴원이 가능할 경우에는 퇴원하여 균 음전 시까지 집에서 격리 치료할 수 있음. 재택 격리는 결핵관리 전담간호사 등과 연계하여 적절한 외래 치료가 가능하고, 환기가 잘 되는 독립된 공간이 있으며, 환자의 집에 6세 미만 소아나 면역저하자가 없는 경우에 고려함. 낮은 약제 순응도·통원 치료 불가능·지속적 균 배출(내성 결핵)의 경우 보다 장기간의 주의를 요함.\
-PCR 양성 지속은 격리 해제의 배제 기준이 아님 : PCR은 사균(dead bacilli)의 DNA를 수개월간 검출할 수 있으므로, 격리 해제 여부는 도말검사 음전 및 임상 소견을 기준으로 판단
+**가래 도말검사 양성**인 경우에도 임상 소견이 호전되어 퇴원이 가능할 경우에는 퇴원하여 균 음전 시까지 집에서 격리 치료할 수 있음. 재택 격리는 결핵관리 전담간호사 등과 연계하여 적절한 외래 치료가 가능하고, 환기가 잘 되는 독립된 공간이 있으며, 환자의 집에 6세 미만 소아나 면역저하자가 없는 경우에 고려함. 낮은 약제 순응도·통원 치료 불가능·지속적 균 배출(내성 결핵)의 경우 보다 장기간의 주의를 요함.\
+**PCR 양성 지속**은 격리 해제의 배제 기준이 아님 : PCR은 사균(dead bacilli)의 DNA를 수개월간 검출할 수 있으므로, 격리 해제 여부는 도말검사 음전 및 임상 소견을 기준으로 판단
 {% endhint %}
 
 ### <mark style="color:orange;">BCG 접종</mark>
@@ -512,62 +542,99 @@ PCR 양성 지속은 격리 해제의 배제 기준이 아님 : PCR은 사균(de
 ## <mark style="color:green;">접촉자 관리</mark>
 
 * 전염성 결핵 환자의 밀접 접촉자에 대하여 접촉자 조사 시행
-* 전염성 결핵 환자 접촉자의 1%가 결핵 진단; 접촉자의 20\~30%는 LTBI로 진단
+* 전염성 결핵 환자 접촉자의 1%가 결핵 진단, 접촉자의 20\~30%는 LTBI로 진단
 * LTBI가 진단되면 최근 감염 여부, 연령, 면역 상태, 동반질환, 간독성 및 약물 상호작용 위험을 평가하고 환자와 위험·편익을 논의하여 치료를 결정
 
 #### <mark style="color:$primary;">접촉자 분류</mark>
 
-* 가족 접촉자 : 전염 가능 기간에 같은 주거 공간에서 생활한 접촉자 (가족, 군 내무반, 요양 시설·기숙사 같은 방)
-* 밀접 접촉자 : 밀폐 공간에서 장시간 직접 접촉 (연속 8시간 이상 또는 누적 40시간 이상)
-* 일상 접촉자 : 가족·밀접 접촉자 이외; 일반적으로 조사 생략 (역학 조사반 판단 시에만 시행)
+* 가족 접촉자 : 전염 가능 기간에 같은 주거 공간에서 생활한 접촉자 - 가족, 군 내무반, 요양 시설·기숙사 같은 방
+* 밀접 접촉자 : 밀폐 공간에서 장시간 직접 접촉 - 연속 8시간 이상 또는 누적 40시간 이상
+* 일상 접촉자 : 가족·밀접 접촉자 이외; 일반적으로 조사 생략 - 역학 조사반 판단 시에만 시행
 
 #### <mark style="color:$primary;">**지표환자 검사 결과 및 전염 가능 기간**</mark>
 
 <table><thead><tr><th width="220">지표환자 검사 결과</th><th>전염 가능 기간 (소급 기준)</th></tr></thead><tbody><tr><td>도말 양성</td><td>증상 발생 3개월 전 또는 진단 3개월 전 중 더 이른 날부터</td></tr><tr><td>도말 음성 / PCR 양성</td><td>진단일로부터 1개월 전부터</td></tr><tr><td>도말·PCR 모두 음성</td><td>결핵 진단일부터</td></tr></tbody></table>
 
+* 결핵 지표환자 : 특정 집단 내에서 가장 먼저 발견되어 역학조사나 추가 확산의 단서를 제공한 최초의 결핵 환자
+
 #### <mark style="color:$primary;">**접촉자 검진 절차**</mark>
 
-기침·가래 등 결핵 증상 확인 및 흉부 X선 검사 → 결핵 의심 시 객담 등 추가 검사와 임상 평가 → 활동성 결핵으로 진단되면 결핵 치료, 활동성 결핵이 배제되면 LTBI 검사(TST &/or IGRA) → LTBI 양성이면 치료 적응 평가, 최초 음성이면 마지막 접촉 후 8\~10주 재검 여부 결정
+* 기침·가래 등 결핵 증상 확인 및 흉부 X선 검사 → 결핵 의심 시 객담 등 추가 검사와 임상 평가 → 활동성 결핵으로 진단되면 결핵 치료, 활동성 결핵이 배제되면 LTBI 검사(TST &/or IGRA) → LTBI 양성이면 치료 적응 평가, 최초 음성이면 마지막 접촉 후 8\~10주 재검 여부 결정
 
 {% hint style="warning" %}
-**소아·면역저하 접촉자**: 어린 소아(특히 만 5세 미만)와 중증 면역저하자는 최초 LTBI 검사가 음성이어도 활동성 결핵을 배제한 뒤 잠복기 예방치료(window prophylaxis)가 필요할 수 있음. 국내 연령별 소아 접촉자 알고리듬과 지표환자의 약제감수성에 따라 전문가가 약제·재검 시점·치료 지속 여부를 결정함
+**소아·면역저하 접촉자** : 어린 소아(특히 만 5세 미만)와 중증 면역저하자는 최초 LTBI 검사가 음성이어도 활동성 결핵을 배제한 뒤 잠복기 예방치료(window prophylaxis)가 필요할 수 있음. 국내 연령별 소아 접촉자 알고리듬과 지표환자의 약제감수성에 따라 전문가가 약제·재검 시점·치료 지속 여부를 결정함
 {% endhint %}
 
 #### <mark style="color:$primary;">**의료기관 종사자 관리**</mark>
 
 * 결핵예방법에 따라 의료기관 종사자는 매년 결핵검진(흉부 X선)을 받음
-* LTBI 법정 검진: 의무기관에 소속된 기간(다른 의무기관으로 이직하여 근무한 기간 포함) 중 1회가 원칙임. 최초 검진을 받지 않은 신규채용자는 채용일부터 1개월 이내 시행함. 결핵환자를 검진·치료하는 의료인, 결핵환자를 진단하는 의료기사, 결핵환자의 간호·진료를 보조하는 간호조무사는 매년 LTBI 검진 대상임
-* 신규 고용 시 기저 평가: 과거 LTBI 검진 결과와 결핵·LTBI 치료력을 확인하고, 법정 검진 이행 여부와 업무상 노출 위험에 따라 검사 필요성을 판단함. 과거 활동성 결핵이나 LTBI 치료력 또는 LTBI 검사 양성이 확인된 경우에는 면역학적 재검 대신 문진·진찰로 평가함
-
-<table><thead><tr><th width="71.25">군</th><th>해당 부서</th></tr></thead><tbody><tr><td>1군</td><td>호흡기 결핵 환자와 접촉 가능성이 높은 곳: 호흡기/감염 내과 외래·병동, 기관지 내시경실, 결핵균 검사실, 폐기능 검사실, 흉부 영상 촬영실, 내과 중환자실, 응급실, 소아호흡기알레르기 클리닉</td></tr><tr><td>2군</td><td>면역 약한 환자 접촉: 신생아실, 분만의료기관, 조산원, 산후조리원, 장기 이식 병동, 혈액암 병동, 투석실, HIV 관련 부서</td></tr><tr><td>3군</td><td>호흡기 감염 우려 부서: 치과, 흉부외과, 마취과, 부검/해부 병리 업무</td></tr></tbody></table>
-
-* 최초 기저검사: 향후 TST를 반복할 예정이면 증폭효과를 최근 감염에 의한 양전으로 오인하지 않도록 2단계 TST(two-step TST)를 고려함(첫 검사 음성 시 1\~4주 후 두 번째 검사). IGRA도 기저검사로 사용할 수 있음
-* 이후 주기적 LTBI 검사: 가능한 기저검사와 같은 방법을 사용. 2단계 TST를 매번 반복하는 것은 아니며, 접촉 후 잠복기를 고려한 8\~10주 재검(serial testing)과 구분
-* LTBI 치료 대상: LTBI 양성인 1·2·3군 종사자, 2년 이내 양전, 흉부 X선 상 과거 치료력 없이 자연 치유된 병변 + LTBI 양성
+* LTBI 법정 검진 : 의무기관에 소속된 기간(다른 의무기관으로 이직하여 근무한 기간 포함) 중 1회가 원칙임. 최초 검진을 받지 않은 신규 채용자는 채용일부터 1개월 이내 시행함. 결핵 환자를 검진·치료하는 의료인, 결핵 환자를 진단하는 의료기사, 결핵 환자의 간호·진료를 보조하는 간호조무사는 매년 LTBI 검진 대상임
+* 신규 고용 시 기저 평가 : 과거 LTBI 검진 결과와 결핵·LTBI 치료력을 확인하고, 법정 검진 이행 여부와 업무상 노출 위험에 따라 검사 필요성을 판단함. 과거 활동성 결핵이나 LTBI 치료력 또는 LTBI 검사 양성이 확인된 경우에는 면역학적 재검 대신 문진·진찰로 평가함
+* 최초 기저검사 : 향후 TST를 반복할 예정이면 증폭효과를 최근 감염에 의한 양전으로 오인하지 않도록 2단계 TST(two-step TST)를 고려함(첫 검사 음성 시 1\~4주 후 두 번째 검사). IGRA도 기저검사로 사용할 수 있음
+* 이후 주기적 LTBI 검사 : 가능한 기저검사와 같은 방법을 사용. 2단계 TST를 매번 반복하는 것은 아니며, 접촉 후 잠복기를 고려한 8\~10주 재검(serial testing)과 구분
+* LTBI 치료 대상 : LTBI 양성인 1·2·3군 종사자, 2년 이내 양전, 흉부 X선 상 과거 치료력 없이 자연 치유된 병변 + LTBI 양성
 * 법정 매년 대상 외 1·2·3군 종사자의 추가 주기적 LTBI 검진은 위험도에 따라 각 기관에서 결정함
+
+<table><thead><tr><th width="71.25">군</th><th>해당 부서</th></tr></thead><tbody><tr><td><strong>1군</strong></td><td><strong>호흡기 결핵 환자와 접촉 가능성이 높은 곳</strong> - 호흡기/감염 내과 외래·병동, 기관지 내시경실, 결핵균 검사실, 폐기능 검사실, 흉부 영상 촬영실, 내과 중환자실, 응급실, 소아호흡기알레르기 클리닉</td></tr><tr><td><strong>2군</strong></td><td><strong>면역 약한 환자 접촉</strong> - 신생아실, 분만의료기관, 조산원, 산후조리원, 장기 이식 병동, 혈액암 병동, 투석실, HIV 관련 부서</td></tr><tr><td><strong>3군</strong></td><td><strong>호흡기 감염 우려 부서</strong> - 치과, 흉부외과, 마취과, 부검/해부 병리 업무</td></tr></tbody></table>
 
 ## <mark style="color:green;">잠복결핵감염 (LTBI)</mark>
 
 {% hint style="info" %}
-**국내 LTBI 표준치료** : 국내에서는 rifamycin 기반 단기요법인 4R 또는 3HR을 우선 권고하고, 약물 상호작용·부작용 등을 고려하여 9H를 선택적으로 사용함. 6H는 9H 완료가 어렵거나 특별한 경우 고려할 수 있음. 3HP와 1HP는 국제 지침의 선택지이지만 국내에는 rifapentine이 상용 도입되지 않았고 국내 안전성 자료가 제한적이므로 표준 처방으로 제시하지 않음
+**LTBI 표준치료** : 국내에서는 rifamycin 기반 단기요법인 4R 또는 3HR을 우선 권고하고, 약물 상호작용·부작용 등을 고려하여 9H를 선택적으로 사용함. 6H는 9H 완료가 어렵거나 특별한 경우 고려할 수 있음. 3HP와 1HP는 국제 지침의 선택지이지만 국내에는 rifapentine이 상용 도입되지 않았고 국내 안전성 자료가 제한적이므로 표준 처방으로 제시하지 않음
 {% endhint %}
 
 * LTBI 양성 환자는 평생에 걸쳐 5\~10%에서 활동성 결핵이 발생 (이들 중 ½은 감염 후 2년 이내에 발생)
 
 #### <mark style="color:$primary;">선별 검사 대상</mark>
 
-<table><thead><tr><th width="101.57894897460938">권고 강도</th><th>대상</th></tr></thead><tbody><tr><td>시행</td><td>전염성 결핵 환자 접촉, HIV 감염, 면역억제제/TNF 길항제/생물학적 제제/소분자 억제제 투여(예정), 흉부 X선 상 과거 치료력 없는 자연 치유 결핵 병변, 규폐증</td></tr><tr><td>권고</td><td>스테로이드 장기 투여, 투석, 혈액암, 의료기관 종사자</td></tr><tr><td>고려</td><td>당뇨병, 고형암, 위절제술(예정)</td></tr><tr><td>제외</td><td>과거 활동성 결핵 또는 LTBI로 치료한 환자, LTBI 검사 양성으로 확인된 자 (이 경우 검사가 유용하지 않음)</td></tr></tbody></table>
-
+* 지표환자 : 성인은 호흡기결핵(폐결핵, 후두·기관지 결핵 등) 환자가 대상이며, 폐외결핵 단독은 대상이 아님
 * ≤96개월 소아 결핵 환자의 경우 폐외 결핵이더라도 접촉자 검진 시행 (가족 전염원 확인 목적)
-* 대형 강의실·복도 등 넓은 공간에서의 전염 가능성은 낮음.
+* 대형 강의실·복도 등 넓은 공간에서의 전염 가능성은 낮음
+
+<table><thead><tr><th width="80.57894897460938">권고 강도</th><th>대상</th></tr></thead><tbody><tr><td><strong>시행</strong></td><td>전염성 결핵 환자 접촉, HIV 감염, 면역억제제/TNF 길항제/생물학적 제제/소분자 억제제 투여(예정), 흉부 X선 상 과거 치료력 없는 자연 치유 결핵 병변, 규폐증</td></tr><tr><td><strong>권고</strong></td><td>스테로이드 장기 투여, 투석, 혈액암, 의료기관 종사자</td></tr><tr><td><strong>고려</strong></td><td>당뇨병, 고형암, 위절제술(예정)</td></tr><tr><td><strong>제외</strong></td><td>과거 활동성 결핵 또는 LTBI로 치료한 환자, LTBI 검사 양성으로 확인된 자 (이 경우 검사가 유용하지 않음)</td></tr></tbody></table>
 
 ***
 
 ```mermaid
+graph TD
+    Start["흉부 X선/CT상<br/>활동성 결핵 가능성이 낮은 <br/>치유 결핵 소견¹⁾"]
+    Q1["과거 적절한<br/>결핵 치료력?"]
+    HasTx["비활동성 결핵"]
+    Exam["<u>검사</u><br/>· 과거 흉부 X선과 비교<br/>· 세균학적 검사 예: 가래<br/>· 경과 관찰"]
+    ActiveTb["활동성 결핵"]
+    ActiveTx["결핵 치료"]
+    Inactive["비활동성 결핵"]
+    Q2["결핵 발병<br/>고위험군?"]
+    HighRisk["LTBI 치료"]
+    NotHigh["LTBI 검사"]
+    LTBINeg["경과 관찰"]
+    LTBIPos["LTBI 치료"]
+    Start --> Q1
+    Q1 -->|"있음"| HasTx
+    Q1 -->|"없음"| Exam
+    Exam --> ActiveTb
+    Exam --> Inactive
+    ActiveTb --> ActiveTx
+    Inactive --> Q2
+    Q2 -->|"고위험군²⁾"| HighRisk
+    Q2 -->|"고위험군 아님"| NotHigh
+    NotHigh -->|"LTBI ⊖"| LTBINeg
+    NotHigh -->|"LTBI ⊕"| LTBIPos
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    classDef yellow fill:#fff9c4,stroke:#ffe082
+    class Q1,Q2,NotHigh yellow
+    classDef pink fill:#fde8f0,stroke:#e91e8c
+    class HasTx,Inactive pink
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class LTBINeg sky
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class LTBIPos,HighRisk,ActiveTx blue
+style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style Exam fill:#ebfbee,stroke:#8ce99a
 ```
 
 > _¹⁾칼슘이 침착된 단순 결절 및 폐첨부와 기저부의 흉막 비후는 제외._\
-> _²⁾고위험군: HIV 감염, 장기 이식으로 면역억제제 복용자, TNF 길항제 사용자_
+> _&#xB2;⁾고위험군: HIV 감염, 장기 이식으로 면역억제제 복용자, TNF 길항제 사용자_
 
 <p align="center"><strong>자연 치유된 결핵 병변이 있는 경우의 검사 과정</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024, Ⅷ장 잠복결핵감염</mark></em></p>
 
@@ -575,14 +642,60 @@ PCR 양성 지속은 격리 해제의 배제 기준이 아님 : PCR은 사균(de
 
 #### <mark style="color:$primary;">LTBI 검사 방법 및 양성 기준</mark>
 
-<table><thead><tr><th width="180">검사</th><th width="220">양성 기준</th><th>비고</th></tr></thead><tbody><tr><td>TST</td><td>경결 ≥10 ㎜ (일반)<br>경결 ≥5 ㎜ (HIV 감염인)</td><td>BCG 접종력의 영향을 받을 수 있음</td></tr><tr><td>IGRA (QuantiFERON)</td><td>Nil ≤8.0 IU/㎖이면서 TB1−Nil 또는 TB2−Nil ≥0.35 IU/㎖이고 해당 Nil 값의 ≥25%; Nil ＞8.0 IU/㎖이면 미결정</td><td>BCG 접종에 영향 받지 않음</td></tr><tr><td>IGRA (T-SPOT)</td><td>음성 대조 보정과 대조군 적합성을 포함한 검사실·제조사 기준으로 판정</td><td>BCG 접종에 영향 받지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="75">검사</th><th width="131">제품</th><th width="309">양성 기준</th><th>비고</th></tr></thead><tbody><tr><td colspan="2">TST</td><td>경결 ≥10 ㎜ (일반),<br>경결 ≥5 ㎜ (HIV 감염인)</td><td>BCG 접종력의 영향을 받을 수 있음</td></tr><tr><td rowspan="2">IGRA </td><td>QuantiFERON</td><td>Nil ≤8.0 IU/㎖이면서 TB1−Nil 또는 TB2−Nil ≥0.35 IU/㎖이고 해당 Nil 값의 ≥25%; Nil ＞8.0 IU/㎖이면 미결정</td><td>BCG 접종에 영향 받지 않음</td></tr><tr><td>T-SPOT</td><td>음성 대조 보정과 대조군 적합성을 포함한 검사실·제조사 기준으로 판정</td><td>BCG 접종에 영향 받지 않음</td></tr></tbody></table>
 
-* HIV 감염인을 제외한 면역저하 성인의 TST 양성 기준도 원칙적으로 ≥10 ㎜임. 음성 결과만으로 LTBI를 배제하지 않으며, IGRA가 음성이면 TST 추가 등으로 보완함. IGRA의 미결정 결과는 음성으로 해석하지 않고 검체·면역 상태를 확인하여 재검 또는 다른 검사를 고려함. T-SPOT은 음성 대조 보정과 대조군 적합성을 포함한 검사실 판정(양성·음성·경계·무효)에 따름
-* 연령별 검사 선택은 위 IGRA 항목을 따름. 검사 결과가 임상 위험도와 불일치하면 접촉 강도·면역 상태·검사 시점을 함께 검토함
+* HIV 감염인을 제외한 면역저하 성인의 TST 양성 기준도 원칙적으로 ≥10 ㎜임
+* 음성 결과만으로 LTBI를 배제하지 않으며, IGRA가 음성이면 TST 추가 등으로 보완함
+* IGRA의 미결정 결과는 음성으로 해석하지 않고 검체·면역 상태를 확인하여 재검 또는 다른 검사를 고려함
+* T-SPOT은 음성 대조 보정과 대조군 적합성을 포함한 검사실 판정(양성·음성·경계·무효)에 따름
+* 연령별 검사 선택은 위 IGRA 항목을 따름
+* 검사 결과가 임상 위험도와 불일치하면 접촉 강도·면역 상태·검사 시점을 함께 검토함
 
 ***
 
 ```mermaid
+graph TD
+    %% 정상 면역 성인 경로
+    SN["LTBI 진단 검사가 필요한<br/><b>정상 면역 성인</b>"]
+    ExcN["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선<br/>필요시 세균학적 검사"]
+    BCG["과거 BCG 접종력?"]
+    TST1["TST 또는 IGRA"]
+    IGA1["IGRA"]
+    PosN1["LTBI ⊕"]
+    NegN1["LTBI ⊖"]
+    PosN2["LTBI ⊕"]
+    NegN2["LTBI ⊖"]
+    SN --> ExcN --> BCG
+    BCG -->|"영아 때 1회 접종<br/>또는 미접종"| TST1
+    BCG -->|"1세 이후 접종, 2회 이상 접종<br/>또는 접종력 불확실"| IGA1
+    TST1 -->|"TST ≥10 ㎜<br/>또는 IGRA ⊕"| PosN1
+    TST1 -->|"TST ＜10 ㎜<br/>또는 IGRA ⊖"| NegN1
+    IGA1 -->|"⊕"| PosN2
+    IGA1 -->|"⊖"| NegN2
+    %% 면역 저하 성인 경로
+    SI["LTBI 진단 검사가 필요한<br/><b>면역 저하 성인</b>"]
+    ExcI["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선<br/>필요시 세균학적 검사"]
+    IGA2["IGRA"]
+    PosI1["LTBI ⊕"]
+    NegIto["TST 시행"]
+    PosI2["LTBI ⊕"]
+    NegI2["검사상 LTBI ⊖<br/>노출·면역 상태에 <br/>따라 재평가"]
+    SI --> ExcI --> IGA2
+    IGA2 -->|"⊕"| PosI1
+    IGA2 -->|"⊖"| NegIto 
+    NegIto -->|"10 ㎜ 이상<br/>(HIV 감염인 5 ㎜ 이상)"| PosI2
+    NegIto -->|"기준 미만"| NegI2
+style SN fill:#fff3e0,stroke:#e65100,stroke-width:2px
+style SI fill:#fdebd0,stroke:#e67e22,stroke-width:2px
+style ExcN fill:#e8f8e8,stroke:#4caf50
+classDef green fill:#d5f5e3,stroke:#27ae60
+class ExcI green
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class BCG,TST1,IGA1,IGA2,NegIto yellow
+classDef white fill:#fff,stroke:#333
+class NegI2,NegN1,NegN2 white
+classDef blue fill:#d0e8ff,stroke:#1a6abf
+class PosN1,PosN2,PosI1,PosI2 blue
 ```
 
 <p align="center"><strong>잠복결핵감염 진단 알고리듬</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024, Ⅷ장 잠복결핵감염</mark></em></p>
@@ -592,13 +705,30 @@ PCR 양성 지속은 격리 해제의 배제 기준이 아님 : PCR은 사균(de
 #### <mark style="color:$primary;">치료 결정 및 기저 검사</mark>
 
 * 치료 결정 전 반드시 활동성 결핵의 가능성을 배제해야 함
-* 기저 검사: CBC, AST/ALT, 빌리루빈, B형/C형 간염 검사; 필요시 HIV, 임신 검사
+* 기저 검사 : CBC, AST/ALT, 빌리루빈, B형/C형 간염 검사; 필요시 HIV, 임신 검사
 * 간독성 위험군(만성 간질환, 알코올 남용, 고령)에서는 치료 중 매달 간기능 검사 시행
 * 모든 치료자는 매달 증상·복약 순응도·부작용·새로 시작한 병용약을 확인함
 
 ***
 
 ```mermaid
+graph TD
+    A["LTBI 검사 양성"] --> B["활동성 결핵 배제"]
+    B -->|"배제되지 않음"| C["추가 평가 및 <br/>전문가 의뢰"]
+    C -->|"활동성 결핵 진단"| CT["활동성 결핵 치료"]
+    B -->|"배제 완료"| D["기저 검사<br/>CBC·LFT·간염 검사"]
+    D --> E["RIF 사용 가능?"]
+    E -->|"<u>아니오</u><br/>중요 약물 상호작용 등"| F["9H 우선 고려<br/>필요시 6H"]
+    E -->|"예"| G["기간/방법 선택"]
+    G --> H["4R<br/>RIF 단독 4개월"]
+    G --> I["3HR<br/>INH+RIF 3개월"]
+    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style D fill:#e8f8e8,stroke:#4caf50
+    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+classDef yellow fill:#fff9c4,stroke:#ffe082
+class B,E,G yellow
+classDef sky fill:#e3f2ff,stroke:#2196f3
+class H,I,F sky
 ```
 
 <p align="center"><strong>LTBI 치료 약제 선택 알고리듬</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024</mark></em></p>
@@ -607,24 +737,24 @@ PCR 양성 지속은 격리 해제의 배제 기준이 아님 : PCR은 사균(de
 
 #### <mark style="color:$primary;">LTBI 치료 약제 및 용법</mark>
 
-* 아래 LTBI 약제 용량과 처방례는 성인 기준이며, 소아는 연령·체중별 용량을 적용
 * 전염원의 약제 감수성 결과가 있는 경우 이를 참고하여 요법 선택
 * 치료 완료 기준
-  * 9H: 12개월 내에 처방 약제의 80% 이상 복용
-  * 4R: 6개월 내에 처방 약제의 80% 이상 복용
-  * 3HR: 4개월 내에 처방 약제의 80% 이상 복용
+  * 9H : 12개월 내에 처방 약제의 80% 이상 복용
+  * 4R : 6개월 내에 처방 약제의 80% 이상 복용
+  * 3HR : 4개월 내에 처방 약제의 80% 이상 복용
   * 처방례의 120·90·270회는 목표 투여 횟수이며, 80%는 복약이 불완전했을 때 완료로 인정하는 판정 기준임. 환자에게는 처방된 전량 복용을 안내함
-* 재치료: 결핵 발병 위험군이 전염성 결핵 환자와 최근 접촉한 경우, 과거에 적절한 LTBI 치료를 완료하였더라도 재치료 고려
-* LTBI 치료 중 활동성 결핵이 발생한 경우: LTBI 치료에 사용 중이었던 약제를 포함한 초치료 표준 처방으로 새로이 치료 시작
 
-<table><thead><tr><th width="75">요법</th><th width="170">처방</th><th width="90">기간</th><th width="90">국내 권고</th><th>비고</th></tr></thead><tbody><tr><td>4R</td><td>Rifampicin 단독</td><td>4개월<br>(120회)</td><td>우선 권고</td><td>10 ㎎/㎏/d; ＜50 ㎏ 450 ㎎, ≥50 ㎏ 600 ㎎, 최대 600 ㎎. 약물 상호작용 확인</td></tr><tr><td>3HR</td><td>INH + Rifampicin</td><td>3개월<br>(90회)</td><td>우선 권고</td><td>INH 5 ㎎/㎏/d(최대 300 ㎎) + RIF 10 ㎎/㎏/d(최대 600 ㎎)</td></tr><tr><td>9H</td><td>INH 단독</td><td>9개월<br>(270회)</td><td>선택적 고려</td><td>5 ㎎/㎏/d, 최대 300 ㎎. 치료기간이 길고 간독성·완료율을 고려</td></tr><tr><td>6H</td><td>INH 단독</td><td>6개월<br>(180회)</td><td>제한적 대안</td><td>9H 완료가 어렵거나 특별한 경우 고려하되 예방효과가 낮을 수 있음</td></tr></tbody></table>
+<table><thead><tr><th width="73">요법</th><th width="117">처방</th><th width="91">기간</th><th width="108">국내 권고</th><th>비고</th></tr></thead><tbody><tr><td><strong>4R</strong></td><td>Rifampicin 단독</td><td>4개월<br>(120회)</td><td>우선 권고</td><td>10 ㎎/㎏/d; ＜50 ㎏ 450 ㎎, ≥50 ㎏ 600 ㎎, 최대 600 ㎎. 약물 상호작용 확인</td></tr><tr><td><strong>3HR</strong></td><td>INH + Rifampicin</td><td>3개월<br>(90회)</td><td>우선 권고</td><td>INH 5 ㎎/㎏/d(최대 300 ㎎) + RIF 10 ㎎/㎏/d(최대 600 ㎎)</td></tr><tr><td><strong>9H</strong></td><td>INH 단독</td><td>9개월<br>(270회)</td><td>선택적 고려</td><td>5 ㎎/㎏/d, 최대 300 ㎎. 치료기간이 길고 간독성·완료율을 고려</td></tr><tr><td><strong>6H</strong></td><td>INH 단독</td><td>6개월<br>(180회)</td><td>제한적 대안</td><td>9H 완료가 어렵거나 특별한 경우 고려하되 예방효과가 낮을 수 있음</td></tr></tbody></table>
+
+* 재치료 : 결핵 발병 위험군이 전염성 결핵 환자와 최근 접촉한 경우, 과거에 적절한 LTBI 치료를 완료하였더라도 재치료 고려
+* LTBI 치료 중 활동성 결핵이 발생한 경우 : LTBI 치료에 사용 중이었던 약제를 포함한 초치료 표준 처방으로 새로이 치료 시작
 
 {% hint style="info" %}
-**국외 rifapentine 요법**: WHO 등은 3HP(INH+rifapentine 주 1회×12회)와 1HP(INH+rifapentine 매일×28회)를 선택지로 제시함. 국내에서는 rifapentine의 도입·공급 및 최신 허가 상태를 확인하고, 전신 약물반응과 상호작용을 고려하여 결핵 전문가가 판단함
+**국외 rifapentine 요법** : WHO 등은 3HP(INH+rifapentine 주 1회×12회)와 1HP(INH+rifapentine 매일×28회)를 선택지로 제시함. 국내에서는 rifapentine의 도입·공급 및 최신 허가 상태를 확인하고, 전신 약물반응과 상호작용을 고려하여 결핵 전문가가 판단함
 {% endhint %}
 
 {% hint style="warning" %}
-**MDR/RR-TB 환자의 접촉자**: 지표환자의 약제감수성검사를 확인하고 결핵 전문가에게 의뢰함. WHO는 활동성 결핵을 배제한 접촉자에게 levofloxacin 6개월 예방치료를 권고하며, 국내에서도 2026년 1월부터 해당 치료에 요양급여 및 본인일부부담금 산정특례가 적용됨(2026 국가결핵관리지침). 지표환자가 INH 감수성이 확인된 RIF 단독내성이면 9H, MDR이거나 INH 내성 여부가 불명인 RR이면 6Lfx를 사용하며, 지표환자의 levofloxacin 내성이 확인되면 6Lfx 대상에서 제외하고 전문가가 개별 판단함
+**MDR/RR-TB 환자의 접촉자** : 지표환자의 약제감수성검사를 확인하고 결핵 전문가에게 의뢰함. WHO는 활동성 결핵을 배제한 접촉자에게 levofloxacin 6개월 예방치료를 권고하며, 국내에서도 2026년 1월부터 해당 치료에 요양급여 및 본인일부부담금 산정특례가 적용됨(2026 국가결핵관리지침). 지표환자가 INH 감수성이 확인된 RIF 단독내성이면 9H, MDR이거나 INH 내성 여부가 불명인 RR이면 6Lfx를 사용하며, 지표환자의 levofloxacin 내성이 확인되면 6Lfx 대상에서 제외하고 전문가가 개별 판단함
 {% endhint %}
 
 ***
@@ -654,7 +784,7 @@ PCR 양성 지속은 격리 해제의 배제 기준이 아님 : PCR은 사균(de
 >
 > _✽ 2개월 집중 치료기(4제 요법). 체중 60 ㎏ 기준(EMB 20 ㎎/㎏, PZA 25 ㎎/㎏). 진단·치료 시 24시간 이내 관할 보건소에 신고하며, 신고를 기다리느라 치료를 지연하지 않음. 약제 감수성 검사 결과에 따라 처방 조정. PZA·EMB는 공복이 어려우면 식후로 변경 가능. Pyridoxine은 임신·영양실조·알코올 남용·고령·당뇨병·만성콩팥병 등 말초신경염 위험군에서 병용._
 
-> **처방례 2. 활동성 폐결핵 초치료 - 유지기 (약제 감수성 확인 후)**
+> **처방례 2. 활동성 폐결핵 초치료 - 유지 치료기 (약제 감수성 확인 후)**
 >
 > ```
 > 유한짓 100 ㎎/T              3T qd 공복
