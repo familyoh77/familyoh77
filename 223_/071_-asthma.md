@@ -361,29 +361,7 @@
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-### <mark style="color:orange;">치료 방침</mark>
-
-* 모든 성인/청소년 천식 환자는 ICS-containing therapy를 받아야 함. SABA 단독 치료는 권고하지 않음 <mark style="color:$info;">\[GINA 2026]</mark>
-* 아래 Track 1/2 및 Step 1\~5 용량은 성인·청소년(≥12세) 기준. 6\~11세는 별도의 소아 치료표를 적용하며, 만 5세 이하는 별도의 진단·치료 접근이 필요
-* 현대 성인·청소년 천식 치료는 완화제 선택에 따라 Track 1과 Track 2로 구조화
-
-<table><thead><tr><th width="88">전략</th><th width="160">완화제</th><th width="160">유지 치료</th><th>핵심 원리</th></tr></thead><tbody><tr><td>Track 1<br>(선호)</td><td>저용량 ICS-formoterol<br>(AIR 요법)</td><td>Step 1~2: 없음<br>Step 3~4: ICS-formoterol</td><td>• 증상 시마다 ICS도 함께 투여<br>• SABA 기반 전략보다 중증 악화 감소<br>• 단일 흡입기 전략 가능(MART)</td></tr><tr><td>Track 2<br>(대체)</td><td>ICS-SABA 또는 <br>SABA</td><td>ICS 또는 <br>ICS-LABA</td><td>• SABA만으로 천식을 치료하지 않음<br>• 매일 유지 ICS 순응도가 낮으면 위험<br>• Track 1이 불가능하거나 비선호인 경우 선택</td></tr></tbody></table>
-
-> _MART= Maintenance and Reliever Therapy_
-
-#### <mark style="color:$primary;">Step별 Track 1 / Track 2 약물 흐름</mark>
-
-<table><thead><tr><th width="63.6842041015625">Step</th><th width="150">임상 상황</th><th width="280">Track 1(선호)
-완화제: 저용량 ICS-formoterol</th><th>Track 2(대체)
-완화제: ICS-SABA 또는 SABA</th></tr></thead><tbody><tr><td><strong>1~2</strong></td><td>증상이 드묾 또는 주 3~5일 미만</td><td>필요시 저용량 ICS-formoterol(AIR-only; 유지 없음)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff prn</td><td>필요시 저용량 ICS-SABA 또는 SABA 사용 때마다 즉시 저용량 ICS 흡입; Step 2에서는 매일 저용량 ICS + 완화제 가능<br><mark style="color:blue;">[풀미코트]</mark> 200 ㎍ qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>3</strong></td><td>대부분의 날 증상, 주 ≥1회 야간 각성 또는 폐 기능 저하</td><td>저용량 ICS-formoterol 유지 + 동일 흡입기 prn(MART)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff bid + prn</td><td>저용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 저용량 ICS + LTRA 또는 중간용량 ICS는 덜 효과적인 대안<br><mark style="color:blue;">[렐바 엘립타 100/25]</mark> qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>4</strong></td><td>매일 증상·주 ≥1회 야간 각성과 폐 기능 저하 또는 최근 악화; 또는 Step 3에도 조절 불량</td><td>중간용량 ICS-formoterol MART<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 2 puffs bid + 1 puff prn</td><td>중간용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 필요시 LAMA 또는 LTRA 추가</td></tr><tr><td><strong>5</strong></td><td>최적화된 Step 4에도 조절 불량</td><td colspan="2">전문가 의뢰, 표현형 평가, LAMA·azithromycin 또는 생물학적 제제 추가; 유지 OCS는 최후 수단 (☞ 아래 단계별 치료법)</td></tr></tbody></table>
-
-> _Salmeterol·vilanterol 등 formoterol 이외 LABA를 포함한 유지제에는 별도의 ICS-formoterol 완화제를 추가하지 않음. MART는 동일 ICS-formoterol 흡입기를 유지·완화에 함께 사용하는 요법임_
-
-<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Box 4-6.</mark></em></p>
-
-{% hint style="warning" %}
-위 임상 상황은 초기 치료 선택을 위한 기준임. **심비코트 터부헬러 160/4.5는 12세 이상에서 AIR-only 및 MART가 국내 허가된 용법**임. **심비코트 라피헬러 160/4.5는 국내 허가상 유지요법 전용**이며 AIR/MART에 사용하지 않음. 소아 AIR/MART 및 다른 제품·함량의 국외 지침 용법을 국내 허가용법과 구분함
-{% endhint %}
+### <mark style="color:orange;">치료 목표 및 관리 원칙</mark>
 
 * 목표 : 증상 조절, 비가역적 기류 제한/악화/사망 등 천식 관련 위험 최소화
 * 위험 인자 관리, 약물 치료, 알레르겐 면역 요법, 환경 관리, 환자 교육
@@ -752,12 +730,33 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 ### <mark style="color:orange;">천식 치료 약물 선택 원칙</mark>
 
+* 모든 천식 환자는 가능한 한 진단 초기부터 ICS 함유 치료를 받아야 함. SABA 단독 치료는 권고하지 않음 - 심한 악화 예방 불가, 빈번한 사용이 악화 위험 증가 <mark style="color:$info;">\[GINA 2026]</mark>
 * 대부분 저용량 ICS로 관리됨
-* SABA 단독 사용 권고하지 않음 - 심한 악화 예방 불가, 빈번한 사용이 악화 위험 증가
 * 완화제로 SABA보다 ICS-formoterol을 우선 권고
 * 천식 증상으로 ≥1회/주 깨어나거나 대부분의 날에 증상 → Step 3 이상 치료 선택
-* 중증 악화 방지 및 증상 조절을 위하여 모든 천식 환자에 가능한 한 초기에 ICS 함유 조절제 권고
-* 단계별 Track 1/2 약제와 대표 상품명은 Management의 "Step별 Track 1 / Track 2 약물 흐름" 표를 따름
+
+### <mark style="color:orange;">Track 1 / Track 2 치료 전략</mark>
+
+* 아래 Track 1/2 및 Step 1\~5 용량은 성인·청소년(≥12세) 기준. 6\~11세는 별도의 소아 치료표를 적용하며, 만 5세 이하는 별도의 진단·치료 접근이 필요
+* 현대 성인·청소년 천식 치료는 완화제 선택에 따라 Track 1과 Track 2로 구조화
+
+<table><thead><tr><th width="88">전략</th><th width="160">완화제</th><th width="160">유지 치료</th><th>핵심 원리</th></tr></thead><tbody><tr><td>Track 1<br>(선호)</td><td>저용량 ICS-formoterol<br>(AIR 요법)</td><td>Step 1~2: 없음<br>Step 3~4: ICS-formoterol</td><td>• 증상 시마다 ICS도 함께 투여<br>• SABA 기반 전략보다 중증 악화 감소<br>• 단일 흡입기 전략 가능(MART)</td></tr><tr><td>Track 2<br>(대체)</td><td>ICS-SABA 또는 <br>SABA</td><td>ICS 또는 <br>ICS-LABA</td><td>• SABA만으로 천식을 치료하지 않음<br>• 매일 유지 ICS 순응도가 낮으면 위험<br>• Track 1이 불가능하거나 비선호인 경우 선택</td></tr></tbody></table>
+
+> _MART= Maintenance and Reliever Therapy_
+
+#### <mark style="color:$primary;">Step별 Track 1 / Track 2 약물 흐름</mark>
+
+<table><thead><tr><th width="63.6842041015625">Step</th><th width="150">임상 상황</th><th width="280">Track 1(선호)
+완화제: 저용량 ICS-formoterol</th><th>Track 2(대체)
+완화제: ICS-SABA 또는 SABA</th></tr></thead><tbody><tr><td><strong>1~2</strong></td><td>증상이 드묾 또는 주 3~5일 미만</td><td>필요시 저용량 ICS-formoterol(AIR-only; 유지 없음)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff prn</td><td>필요시 저용량 ICS-SABA 또는 SABA 사용 때마다 즉시 저용량 ICS 흡입; Step 2에서는 매일 저용량 ICS + 완화제 가능<br><mark style="color:blue;">[풀미코트]</mark> 200 ㎍ qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>3</strong></td><td>대부분의 날 증상, 주 ≥1회 야간 각성 또는 폐 기능 저하</td><td>저용량 ICS-formoterol 유지 + 동일 흡입기 prn(MART)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff bid + prn</td><td>저용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 저용량 ICS + LTRA 또는 중간용량 ICS는 덜 효과적인 대안<br><mark style="color:blue;">[렐바 엘립타 100/25]</mark> qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>4</strong></td><td>매일 증상·주 ≥1회 야간 각성과 폐 기능 저하 또는 최근 악화; 또는 Step 3에도 조절 불량</td><td>중간용량 ICS-formoterol MART<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 2 puffs bid + 1 puff prn</td><td>중간용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 필요시 LAMA 또는 LTRA 추가</td></tr><tr><td><strong>5</strong></td><td>최적화된 Step 4에도 조절 불량</td><td colspan="2">전문가 의뢰, 표현형 평가, LAMA·azithromycin 또는 생물학적 제제 추가; 유지 OCS는 최후 수단 (☞ Step 4~5 추가 고려 사항)</td></tr></tbody></table>
+
+> _Salmeterol·vilanterol 등 formoterol 이외 LABA를 포함한 유지제에는 별도의 ICS-formoterol 완화제를 추가하지 않음. MART는 동일 ICS-formoterol 흡입기를 유지·완화에 함께 사용하는 요법임_
+
+<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Box 4-6.</mark></em></p>
+
+{% hint style="warning" %}
+위 임상 상황은 초기 치료 선택을 위한 기준임. **심비코트 터부헬러 160/4.5는 12세 이상에서 AIR-only 및 MART가 국내 허가된 용법**임. **심비코트 라피헬러 160/4.5는 국내 허가상 유지요법 전용**이며 AIR/MART에 사용하지 않음. 소아 AIR/MART 및 다른 제품·함량의 국외 지침 용법을 국내 허가용법과 구분함
+{% endhint %}
 
 ### <mark style="color:orange;">MART (Maintenance And Reliever Therapy)</mark>
 
