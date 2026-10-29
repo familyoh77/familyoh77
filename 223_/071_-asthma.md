@@ -64,7 +64,7 @@
 * 유전(아토피/기도 과민/기도 염증 관련 유전자), 비만, 연령/성별, 미숙아/저체중 출생아
   * 14세 이전에는 남자가 2배 더 많고, 성인기에는 여자가 더 많음
 
-### <mark style="color:orange;">유발 또는 악화 인자</mark>&#x20;
+### <mark style="color:orange;">유발 또는 악화 인자</mark>
 
 #### <mark style="color:$primary;">유발 인자</mark>
 
@@ -147,9 +147,9 @@
 * 급작스러운 천식 증상과 함께 두드러기·혈관부종 또는 저혈압 `아나필락시스`
 
 {% hint style="danger" %}
-**Silent chest (청진상 호흡음 소실) = 임박한 호흡 부전(impending respiratory failure) 징후.** wheezing 감소가 호전처럼 보일 수 있으나, 폐포 환기가 극감한 상태임. 즉시 응급 이송. \
-**ABGA 소견**: 중증 천식에서는 과호흡으로 PaCO₂가 낮은 것이 일반적임. \
-**심한 호흡 곤란이 지속되는 환자에서 "정상" PaCO₂ (35\~45** ㎜**Hg) 또는 상승은 환기 부전 진행을 의심하는 징후**로, 즉각적인 재평가와 처치가 필요함. \
+**Silent chest (청진상 호흡음 소실) = 임박한 호흡 부전(impending respiratory failure) 징후.** wheezing 감소가 호전처럼 보일 수 있으나, 폐포 환기가 극감한 상태임. 즉시 응급 이송.\
+**ABGA 소견**: 중증 천식에서는 과호흡으로 PaCO₂가 낮은 것이 일반적임.\
+**심한 호흡 곤란이 지속되는 환자에서 "정상" PaCO₂ (35\~45** ㎜**Hg) 또는 상승은 환기 부전 진행을 의심하는 징후**로, 즉각적인 재평가와 처치가 필요함.\
 호흡수·맥박수의 고정 절단값은 주로 성인·청소년 참고치이며, 소아는 연령과 PRAM 등 임상 점수를 함께 평가
 {% endhint %}
 
@@ -169,7 +169,7 @@
 * 증상이 있을 때도 가변적 기류 제한이 입증되지 않음 `대체 진단`
 
 {% hint style="warning" %}
-과거 ICU 입원·기도 삽관, 최근 1년 내 입원·응급실 방문, 현재 사용 중이거나 최근 중단한 경구 스테로이드(OCS), SABA 과사용은 천식 관련 사망의 고위험 인자임. \
+과거 ICU 입원·기도 삽관, 최근 1년 내 입원·응급실 방문, 현재 사용 중이거나 최근 중단한 경구 스테로이드(OCS), SABA 과사용은 천식 관련 사망의 고위험 인자임.\
 현재 중증 악화가 있으면 즉시 이송하고, 안정 상태에서도 조기에 치료를 재평가함
 {% endhint %}
 
@@ -257,7 +257,7 @@
 * 혈중 호산구 : 전형적 증상이 있으나 폐 기능 검사가 불가능하거나 음성일 때 참고치 이상이면 진단을 지지
   * 아토피 등 다른 질환에서도 증가하며, 정상이어도 천식을 배제하지 못함
 * 호기 산화질소(FeNO) 검사
-  * 아래  수치는 FeNO 해석 기준이며, 중증 천식의 잔존 T2 염증 평가 및 생물학적 제제 급여기준의 절단값과 구분함
+  * 아래 수치는 FeNO 해석 기준이며, 중증 천식의 잔존 T2 염증 평가 및 생물학적 제제 급여기준의 절단값과 구분함
   * 낮음 : 성인·청소년 ＜25 ppb, 소아 ＜20 ppb - 호산구성 염증 가능성이 낮지만 천식을 배제하지 못하며, 단독으로 ICS 감량을 결정하지 않음
   * 중간 : 성인·청소년 25\~50 ppb, 소아 20\~35 ppb - 임상 맥락 및 증상과 함께 해석
   * 높음 : 성인·청소년 ＞50 ppb, 소아 ＞35 ppb - 전형적 증상이 있으나 spirometry/PEF가 불가능하거나 음성일 때 T2 천식 진단을 지지; ICS 반응 가능성이 높음
@@ -270,7 +270,7 @@
 
 * 흉부 X선 : 정상 또는 과팽창 소견
   * 다른 질환 배제 목적으로 시행 - 폐렴, 기흉 등 합병증 의심 시 시행
-  * 급성 악화에서 routine 촬영은 권고하지 않음&#x20;
+  * 급성 악화에서 routine 촬영은 권고하지 않음
 
 ### <mark style="color:orange;">감별</mark>
 
@@ -351,6 +351,57 @@
 ***
 
 ```mermaid
+flowchart TD
+    Start["천식 의심<br/>만성 또는 반복적인 <br/>호흡기 증상"]
+    Q1["천식의 전형적인<br/>증상인가?"]
+    Q2["병력 및 신체검사 결과가<br/>천식 진단에 합당한가?"]
+    Q3["환자가 이미 ICS를 포함한<br/>치료를 하고 있는가?"]
+    Q4["중증 급성 악화 또는<br/>아나필락시스 징후가 있는가?"]
+    Q5["Spirometry 또는 PEF<br/>검사가 가능한가?"]
+    Q6["기관지확장제 전후 <br/>spirometry 또는 PEF<br/>가변적 호기 기류 제한이 <br/>확인되는가?"]
+    Q7["대체 진단이<br/>확인되는가?"]
+    Q8["1~3개월 후 치료 반응 평가<br/>(PEF 또는 spirometry 포함)<br/>증상 및 폐 기능이 <br/>호전되는가?"]
+    Step1["ICS 사용 중인 환자에서의<br/>진단 접근"]
+    Empirical["다른 진단 가능성이 낮으면<br/>경험적 ICS-containing 치료"]
+    Urgent["급성 악화 치료를 시작하면서<br/>즉시 응급 이송"]
+    Repeat["증상 시 반복 검사<br/>·기관지유발검사<br/>바이오마커·대체 진단 검토"]
+    Q9["재평가 후 가변적 호기<br/>기류 제한이 확인되는가?"]
+    ResultAsthma2["천식으로 치료 지속"]
+    ResultAlt["대체 진단 치료"]
+    Refer["상급 의뢰"]
+    Refer2["상급 의뢰"]
+    ResultAsthma3["천식으로 치료<br/>ICS-containing Tx."]
+    Start --> Q4
+    Q4 -- "예" --> Urgent
+    Q4 -- "아니오" --> Q1
+    Q1 -- "예" --> Q2
+    Q1 -- "아니오" --> Q7
+    Q2 -- "예" --> Q3
+    Q2 -- "아니오" --> Q7
+    Q7 -- "아니오" --> Q5
+    Q7 -- "예" --> ResultAlt
+    Q3 -- "예" --> Step1
+    Q3 -- "아니오" --> Q5
+    Q5 -- "아니오" --> Empirical
+    Q5 -- "예" --> Q6
+    Q6 -- "예" --> ResultAsthma3
+    Q6 -- "아니오" --> Repeat
+    Repeat --> Q9
+    Q9 -- "예" --> ResultAsthma3
+    Q9 -- "아니오" --> Refer
+    Empirical --> Q8
+    Q8 -- "예" --> ResultAsthma2
+    Q8 -- "아니오" --> Refer2
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef red fill:#ffcdd2,stroke:#c62828,stroke-width:1px
+    classDef green fill:#e8f8e8,stroke:#4caf50
+    class Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9 question
+    class Urgent,Refer,Refer2 red
+    class Step1,Repeat,Empirical,ResultAlt green
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style ResultAsthma2 fill:#f96,stroke:#e65100,stroke-width:2px
+    style ResultAsthma3 fill:#f96,stroke:#e65100,stroke-width:2px
+
 ```
 
 <p align="center"><strong>천식 진단 알고리듬</strong></p>
@@ -491,8 +542,6 @@
 ***
 
 ## <mark style="color:green;">약물 치료</mark>
-
-
 
 ### <mark style="color:orange;">흡입 도구 (Inhaler device)</mark>
 
@@ -740,15 +789,13 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 * 아래 Track 1/2 및 Step 1\~5 용량은 성인·청소년(≥12세) 기준. 6\~11세는 별도의 소아 치료표를 적용하며, 만 5세 이하는 별도의 진단·치료 접근이 필요
 * 현대 성인·청소년 천식 치료는 완화제 선택에 따라 Track 1과 Track 2로 구조화
 
-<table><thead><tr><th width="88">전략</th><th width="160">완화제</th><th width="160">유지 치료</th><th>핵심 원리</th></tr></thead><tbody><tr><td>Track 1<br>(선호)</td><td>저용량 ICS-formoterol<br>(AIR 요법)</td><td>Step 1~2: 없음<br>Step 3~4: ICS-formoterol</td><td>• 증상 시마다 ICS도 함께 투여<br>• SABA 기반 전략보다 중증 악화 감소<br>• 단일 흡입기 전략 가능(MART)</td></tr><tr><td>Track 2<br>(대체)</td><td>ICS-SABA 또는 <br>SABA</td><td>ICS 또는 <br>ICS-LABA</td><td>• SABA만으로 천식을 치료하지 않음<br>• 매일 유지 ICS 순응도가 낮으면 위험<br>• Track 1이 불가능하거나 비선호인 경우 선택</td></tr></tbody></table>
+<table><thead><tr><th width="88">전략</th><th width="160">완화제</th><th width="160">유지 치료</th><th>핵심 원리</th></tr></thead><tbody><tr><td>Track 1<br>(선호)</td><td>저용량 ICS-formoterol<br>(AIR 요법)</td><td>Step 1~2: 없음<br>Step 3~4: ICS-formoterol</td><td>• 증상 시마다 ICS도 함께 투여<br>• SABA 기반 전략보다 중증 악화 감소<br>• 단일 흡입기 전략 가능(MART)</td></tr><tr><td>Track 2<br>(대체)</td><td>ICS-SABA 또는<br>SABA</td><td>ICS 또는<br>ICS-LABA</td><td>• SABA만으로 천식을 치료하지 않음<br>• 매일 유지 ICS 순응도가 낮으면 위험<br>• Track 1이 불가능하거나 비선호인 경우 선택</td></tr></tbody></table>
 
 > _MART= Maintenance and Reliever Therapy_
 
 #### <mark style="color:$primary;">Step별 Track 1 / Track 2 약물 흐름</mark>
 
-<table><thead><tr><th width="63.6842041015625">Step</th><th width="150">임상 상황</th><th width="280">Track 1(선호)
-완화제: 저용량 ICS-formoterol</th><th>Track 2(대체)
-완화제: ICS-SABA 또는 SABA</th></tr></thead><tbody><tr><td><strong>1~2</strong></td><td>증상이 드묾 또는 주 3~5일 미만</td><td>필요시 저용량 ICS-formoterol(AIR-only; 유지 없음)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff prn</td><td>필요시 저용량 ICS-SABA 또는 SABA 사용 때마다 즉시 저용량 ICS 흡입; Step 2에서는 매일 저용량 ICS + 완화제 가능<br><mark style="color:blue;">[풀미코트]</mark> 200 ㎍ qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>3</strong></td><td>대부분의 날 증상, 주 ≥1회 야간 각성 또는 폐 기능 저하</td><td>저용량 ICS-formoterol 유지 + 동일 흡입기 prn(MART)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff bid + prn</td><td>저용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 저용량 ICS + LTRA 또는 중간용량 ICS는 덜 효과적인 대안<br><mark style="color:blue;">[렐바 엘립타 100/25]</mark> qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>4</strong></td><td>매일 증상·주 ≥1회 야간 각성과 폐 기능 저하 또는 최근 악화; 또는 Step 3에도 조절 불량</td><td>중간용량 ICS-formoterol MART<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 2 puffs bid + 1 puff prn</td><td>중간용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 필요시 LAMA 또는 LTRA 추가</td></tr><tr><td><strong>5</strong></td><td>최적화된 Step 4에도 조절 불량</td><td colspan="2">전문가 의뢰, 표현형 평가, LAMA·azithromycin 또는 생물학적 제제 추가; 유지 OCS는 최후 수단 (☞ Step 4~5 추가 고려 사항)</td></tr></tbody></table>
+<table><thead><tr><th width="63.6842041015625">Step</th><th width="150">임상 상황</th><th width="280">Track 1(선호) 완화제: 저용량 ICS-formoterol</th><th>Track 2(대체) 완화제: ICS-SABA 또는 SABA</th></tr></thead><tbody><tr><td><strong>1~2</strong></td><td>증상이 드묾 또는 주 3~5일 미만</td><td>필요시 저용량 ICS-formoterol(AIR-only; 유지 없음)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff prn</td><td>필요시 저용량 ICS-SABA 또는 SABA 사용 때마다 즉시 저용량 ICS 흡입; Step 2에서는 매일 저용량 ICS + 완화제 가능<br><mark style="color:blue;">[풀미코트]</mark> 200 ㎍ qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>3</strong></td><td>대부분의 날 증상, 주 ≥1회 야간 각성 또는 폐 기능 저하</td><td>저용량 ICS-formoterol 유지 + 동일 흡입기 prn(MART)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff bid + prn</td><td>저용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 저용량 ICS + LTRA 또는 중간용량 ICS는 덜 효과적인 대안<br><mark style="color:blue;">[렐바 엘립타 100/25]</mark> qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>4</strong></td><td>매일 증상·주 ≥1회 야간 각성과 폐 기능 저하 또는 최근 악화; 또는 Step 3에도 조절 불량</td><td>중간용량 ICS-formoterol MART<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 2 puffs bid + 1 puff prn</td><td>중간용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 필요시 LAMA 또는 LTRA 추가</td></tr><tr><td><strong>5</strong></td><td>최적화된 Step 4에도 조절 불량</td><td colspan="2">전문가 의뢰, 표현형 평가, LAMA·azithromycin 또는 생물학적 제제 추가; 유지 OCS는 최후 수단 (☞ Step 4~5 추가 고려 사항)</td></tr></tbody></table>
 
 > _Salmeterol·vilanterol 등 formoterol 이외 LABA를 포함한 유지제에는 별도의 ICS-formoterol 완화제를 추가하지 않음. MART는 동일 ICS-formoterol 흡입기를 유지·완화에 함께 사용하는 요법임_
 
