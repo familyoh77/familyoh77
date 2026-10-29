@@ -4,48 +4,32 @@
 
 * 원인균 : Mycobacterium tuberculosis complex(M. tuberculosis, M. bovis, M. africanum 등)
 * 전염 : 활동성 결핵 환자의 호흡기 분비물의 공기 매개 감염; 기침·재채기·말하기·웃기 등을 할 때 배출되어 수 시간 동안 공기 중에 떠다니며 감염을 일으킴
-* 경과 : 결핵균 노출 후 감염 여부는 전염원의 균량·기침, 접촉 시간, 환기 및 숙주의 면역 상태 등에 따라 달라짐. 감염된 사람의 일부는 감염 후 비교적 이른 시기에 결핵으로 진행하고, 대부분은 잠복결핵감염 상태로 지내며 일부에서 향후 결핵이 발병함
+* 경과 : 결핵균 노출 후 감염 여부는 전염원의 균량·기침, 접촉 시간, 환기 및 숙주의 면역 상태 등에 따라 달라짐
+  * 감염된 사람의 일부는 감염 후 비교적 이른 시기에 결핵으로 진행하고, 대부분은 잠복결핵감염 상태로 지내며 일부에서 향후 결핵이 발병함
 * 결핵환자 또는 결핵의사환자를 진단·치료한 경우 24시간 이내 관할 보건소에 신고
+
+{% hint style="info" %}
+전염력은 객담 도말 양성, 공동성 병변, 기침 강도, 균량과 밀접하게 연관됨. PCR(Xpert/NAAT)(+) 단독이면서 도말(-)인 환자는 전염력이 상대적으로 낮을 수 있으나, 최종 판단은 임상 소견을 종합하여 결정함
+{% endhint %}
 
 ### <mark style="color:orange;">용어 정의</mark>
 
-**초감염 결핵 (Primary tuberculosis)**
-
-* 결핵균 초감염 후 비교적 이른 시기에 발병하는 결핵
-
-**잠복결핵감염 (Latent TB infection, LTBI)**
-
-* 체내에 소수의 살아 있는 결핵균이 존재하지만 임상 증상이 없고 균이 외부로 배출되지 않아 타인에게 전파되지 않는 상태
-* TST 또는 IGRA로 결핵균 감염을 확인하고, 병력·증상·흉부 X선 및 필요시 세균학적 검사로 활동성 결핵을 배제한 후 진단함. 흉부 X선에 과거 치유 병변이 남아 있을 수 있으며 무증상인 모든 사람에게 객담 검사가 필요한 것은 아님
-
-**활동성 결핵**
-
-* 결핵 병변에서 결핵균이 증식하면서 병을 일으키고 있는 상태
-* 초감염 또는 LTBI의 재활성화에 의함
-* 분류
+* **초감염 결핵 (Primary tuberculosis)** : 결핵균 초감염 후 비교적 이른 시기에 발병하는 결핵
+* **활동성 결핵** : 결핵 병변에서 결핵균이 증식하면서 병을 일으키고 있는 상태. 초감염 또는 LTBI의 재활성화에 의함. 다음의 두 부류로 분류
   1. 도말·배양·PCR 검사 등 세균학적으로 진단된 결핵
   2. 세균학적으로 진단되지는 않았지만 증상, 영상/조직 검사 등으로 진단된 결핵
-
-**전염성 결핵**
-
-* 다음 중 하나 이상에 해당
+* **전염성 결핵** : 다음 중 하나 이상에 해당
   1. 호흡기 검체의 도말·배양·PCR 검사에서 양성
   2. 흉부 X선상 공동 관찰
   3. 주치의가 전염성이 있다고 판단하는 경우 (검사 결과 무관)
-
-{% hint style="info" %}
-전염력은 객담 도말 양성, 공동성 병변, 기침 강도, 균량과 밀접하게 연관됨. PCR(Xpert/NAAT) 양성 단독이면서 도말(-)인 환자는 전염력이 상대적으로 낮을 수 있으나, 최종 판단은 임상 소견을 종합하여 결정함
-{% endhint %}
-
-**재활성화 결핵 (Reactivation TB)**
-
-* LTBI 상태에서 면역 기전이 약해지면서 결핵균이 활성화되어 결핵이 발병한 상태
-* 일생 동안 LTBI의 5\~10%에서 결핵이 발병하며, 발병 사례의 ½이 감염 후 첫 2년 내 발생. 발병 위험은 HIV 감염·TNF 길항제 사용·투석 등에서 크게 높고, 당뇨병에서는 약 3배 높음
-
-**자연 치유된 결핵 병변 (Spontaneously healed TB lesion)**
-
-* 흉부 X선에서 유소견이면서 활동성 결핵이 배제되고 결핵이나 LTBI 치료 경력이 없는 경우
-* 결핵 발병 위험이 높으므로 활동성 결핵을 배제한 뒤 HIV 감염, 장기이식 관련 면역억제제 또는 TNF 길항제 사용 등 고위험군에서는 LTBI 검사 없이 치료할 수 있고, 그 외에는 LTBI 검사 결과와 치료의 위험·편익을 고려하여 결정
+* **잠복결핵감염 (Latent TB infection, LTBI)** : 체내에 소수의 살아 있는 결핵균이 존재하지만 임상 증상이 없고 균이 외부로 배출되지 않아 타인에게 전파되지 않는 상태
+  * TST 또는 IGRA로 결핵균 감염을 확인하고, 병력·증상·흉부 X선 및 필요시 세균학적 검사로 활동성 결핵을 배제한 후 진단함
+  * 흉부 X선에 과거 치유 병변이 남아 있을 수 있으며 무증상인 모든 사람에게 객담 검사가 필요한 것은 아님
+* **재활성화 결핵 (Reactivation TB)** : LTBI 상태에서 면역 기전이 약해지면서 결핵균이 활성화되어 결핵이 발병한 상태
+  * 일생 동안 LTBI의 5\~10%에서 결핵이 발병하며, 발병 사례의 ½이 감염 후 첫 2년 내 발생
+  * 발병 위험은 HIV 감염·TNF 길항제 사용·투석 등에서 크게 높고, 당뇨병에서는 약 3배 높음
+* **자연 치유된 결핵 병변 (Spontaneously healed TB lesion)** : 흉부 X선에서 유소견이면서 활동성 결핵이 배제되고 결핵이나 LTBI 치료 경력이 없는 경우
+  * 결핵 발병 위험이 높으므로 활동성 결핵을 배제한 뒤 HIV 감염, 장기이식 관련 면역억제제 또는 TNF 길항제 사용 등 고위험군에서는 LTBI 검사 없이 치료할 수 있고, 그 외에는 LTBI 검사 결과와 치료의 위험·편익을 고려하여 결정
 
 ### <mark style="color:orange;">고위험군</mark>
 
@@ -65,27 +49,27 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 대량 객혈 또는 급격히 진행하는 호흡 부전  `공동성 폐결핵` `결핵 후 기관지 확장증`
-* 극심한 두통, 의식 변화, 경부 강직, 광선 공포증  `결핵성 수막염`
-* 고열·전신 소모와 흉부 X선의 미만성 좁쌀 음영  `속립성 결핵`
-* 심낭 삼출과 저혈압·경정맥 팽대 등 쇼크 전구 증상  `결핵성 심낭염` `심장눌림증`
-* 척추 통증과 함께 새로 생긴 하지 위약·감각 저하·배뇨 장애  `척추 결핵` `척수 압박`
-* 점막 침범·수포·피부 박리 또는 발열·장기 침범을 동반한 전신 발진  `SJS/TEN` `DRESS`
+* 대량 객혈 또는 급격히 진행하는 호흡 부전 `공동성 폐결핵` `결핵 후 기관지 확장증`
+* 극심한 두통, 의식 변화, 경부 강직, 광선 공포증 `결핵성 수막염`
+* 고열·전신 소모와 흉부 X선의 미만성 좁쌀 음영 `속립성 결핵`
+* 심낭 삼출과 저혈압·경정맥 팽대 등 쇼크 전구 증상 `결핵성 심낭염` `심장눌림증`
+* 척추 통증과 함께 새로 생긴 하지 위약·감각 저하·배뇨 장애 `척추 결핵` `척수 압박`
+* 점막 침범·수포·피부 박리 또는 발열·장기 침범을 동반한 전신 발진 `SJS/TEN` `DRESS`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 간염 증상을 동반한 ALT ≥3×ULN 또는 증상 없는 ALT ≥5×ULN, 황달  `약물 유발 간손상`
-* **(당일)** 시력 저하·색각 변화·중심 암점  `ethambutol 시신경병증`
-* 치료 4개월 이후 배양 양성, 이전 치료 실패력 또는 RIF 내성 검출  `치료 실패` `MDR/RR-TB`
-* 중증 면역 저하자에서 뇌·척추·복막·신장 침범을 시사하는 증상  `폐외 결핵`
-* HIV 감염인 또는 면역억제제 투여 중 발생한 결핵  `면역저하 동반 결핵`
+* **(당일)** 간염 증상을 동반한 ALT ≥3×ULN 또는 증상 없는 ALT ≥5×ULN, 황달 `약물 유발 간손상`
+* **(당일)** 시력 저하·색각 변화·중심 암점 `ethambutol 시신경병증`
+* 치료 4개월 이후 배양 양성, 이전 치료 실패력 또는 RIF 내성 검출 `치료 실패` `MDR/RR-TB`
+* 중증 면역 저하자에서 뇌·척추·복막·신장 침범을 시사하는 증상 `폐외 결핵`
+* HIV 감염인 또는 면역억제제 투여 중 발생한 결핵 `면역저하 동반 결핵`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 2주 이상 지속되는 원인 불명의 기침  `폐결핵`
-* 치료 2개월 시점의 객담 배양 양성 지속  `치료 반응 지연` `약제 내성`
-* 간염 증상 없는 ALT ＜5×ULN의 경도 상승 또는 경미한 위장 증상  `항결핵제 간독성`
-* 치료 종결 후 지속되는 호흡 곤란·객담·반복 감염  `결핵 후 폐 질환`
+* 2주 이상 지속되는 원인 불명의 기침 `폐결핵`
+* 치료 2개월 시점의 객담 배양 양성 지속 `치료 반응 지연` `약제 내성`
+* 간염 증상 없는 ALT ＜5×ULN의 경도 상승 또는 경미한 위장 증상 `항결핵제 간독성`
+* 치료 종결 후 지속되는 호흡 곤란·객담·반복 감염 `결핵 후 폐 질환`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -106,63 +90,33 @@
 
 * 환자 접촉자 (☞ [접촉자 관리](070_-tuberculosis.md#접촉자-관리))
 * 뚜렷한 원인 없이 2주 이상 기침과 가래가 있는 경우 결핵 가능성을 고려하여 검사
-* 국가·지자체 또는 집단시설의 결핵검진 대상자는 해당 사업·시설의 기준에 따라 정기 흉부 X선 검진을 시행함. ≥65세라는 이유만으로 모든 개인에게 일률적으로 연 1회 검진을 적용하지는 않음
+* 국가·지자체 또는 집단시설의 결핵검진 대상자는 해당 사업·시설의 기준에 따라 정기 흉부 X선 검진을 시행
+  * ≥65세라는 이유만으로 모든 개인에게 일률적으로 연 1회 검진을 적용하지는 않음
 * 고령자·당뇨병·면역 저하자에서는 기침이 경미하거나 없더라도 설명되지 않는 흉부 X선 이상이 있으면 결핵 평가를 시행함
 
 ### <mark style="color:orange;">진단 및 조치</mark>
 
-폐결핵 의심 시 흉부 X선, 가래 항산균 도말 및 배양 검사, Tb-PCR 검사를 시행하고 결과에 따라 아래 알고리듬대로 조치함. 결핵환자 또는 결핵의사환자를 진단·치료한 경우 24시간 이내 관할 보건소에 신고함.
+* 폐결핵 의심 시 흉부 X선, 가래 항산균 도말 및 배양 검사, Tb-PCR 검사를 시행하고 결과에 따라 조치
+* 결핵환자 또는 결핵의사환자를 진단·치료한 경우 24시간 이내 관할 보건소에 신고
 
 ***
 
 ```mermaid
-graph TD
-    Start(["결핵 의심"])
-
-    Step1["3회(최소 2회)의 객담 도말 및 배양 검사<br/>+ 1회의 Xpert MTB/RIF 또는 NAAT"]
-
-    Case1["•AFB 도말(+)<br/>•Xpert MTB/RIF(+) 또는 NAAT(+)"]
-    Case2["•AFB 도말(-)<br/>•Xpert MTB/RIF(+) 또는 NAAT(+)"]
-    Case3["•AFB 도말(+)<br/>•Xpert MTB/RIF(-) 또는 NAAT(-)"]
-    Case4["•AFB 도말(-)<br/>•Xpert MTB/RIF(-) 또는 NAAT(-)"]
-
-    Result1["결핵으로 진단"]
-    Result2["결핵으로 진단³⁾"]
-    Result3["NTM으로 추정²⁾"]
-    Result4["임상적 판단¹⁾"]
-
-    Start --> Step1
-    Step1 --> Case1
-    Step1 --> Case2
-    Step1 --> Case3
-    Step1 --> Case4
-    Case1 --> Result1
-    Case2 --> Result2
-    Case3 --> Result3
-    Case4 --> Result4
-
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-classDef pink fill:#fde8f0,stroke:#e91e8c
-class Result1,Result2,Result3,Result4 pink
-    style Step1 fill:#fff9c4,stroke:#ffe082
-
 ```
 
-<p align="center"><strong>폐결핵 진단 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. 결핵 진료지침 2024</mark></em></p>
-
-NAAT = nucleic acid amplification test; NTM = nontuberculous mycobacteria (비결핵 항산균)
-
+> _NAAT = nucleic acid amplification test; NTM = nontuberculous mycobacteria (비결핵 항산균)_
+>
 > ¹⁾_도말(-) 폐결핵 : 임상 또는 영상 소견에서 폐결핵이 의심되지만 도말과 NAAT가 음성이고, 퀴놀론·아미노글리코시드 등 항결핵 효과가 있는 약제를 제외한 광범위 항생제 치료에 반응이 없거나 CT·유도객담·기관지내시경·조직검사 등에서 활동성 결핵을 시사하여 진료의사가 전기간 치료를 결정한 경우 임상적으로 진단할 수 있음. 배양 결과와 치료 반응을 추후 확인함_
 >
 > ²⁾_NTM으로 추정되더라도 다른 검체로 NAAT를 재검하고 PCR 억제 여부를 확인하며, 배양·균 동정 결과로 최종 판단함_
 >
 > ³⁾_과거 결핵 치료력이 있거나 사전 확률이 낮은 경우, Xpert Ultra trace 결과는 사균 DNA 검출 가능성을 고려하여 배양과 임상 소견으로 해석함_
 
+<p align="center"><strong>폐결핵 진단 알고리듬</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024</mark></em></p>
+
 ### <mark style="color:orange;">결핵(TB) vs 비결핵 항산균(NTM) 감별</mark>
 
-<table><thead><tr><th width="158.9473876953125">특징</th><th width="224.6842041015625">결핵 (TB)</th><th>비결핵 항산균 (NTM)</th></tr></thead><tbody><tr><td>전염성</td><td>있음</td><td>거의 없음 (사람 간 전파 드묾)</td></tr><tr><td>접촉자 조사</td><td>필요</td><td>불필요</td></tr><tr><td>법정 신고</td><td>필수</td><td>불필요</td></tr><tr><td>상엽 공동</td><td>흔함</td><td>가능 (M. kansasii 등)</td></tr><tr><td>면역 저하 시 위험</td><td>위험 ↑↑</td><td>위험 ↑</td></tr><tr><td>PCR (MTB)</td><td>양성이면 진단에 도움; 음성으로 배제 불가</td><td>음성</td></tr><tr><td>치료</td><td>표준 4제 요법 (지침 기반)</td><td>균종별 상이 (MAC, M. kansasii 등)</td></tr><tr><td>격리</td><td>초기 격리 필요</td><td>불필요</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="150">특징</th><th>결핵 (TB)</th><th>비결핵 항산균 (NTM)</th></tr></thead><tbody><tr><td>전염성</td><td>있음</td><td>거의 없음 (사람 간 전파 드묾)</td></tr><tr><td>접촉자 조사</td><td>필요</td><td>불필요</td></tr><tr><td>법정 신고</td><td>필수</td><td>불필요</td></tr><tr><td>상엽 공동</td><td>흔함</td><td>가능 (M. kansasii 등)</td></tr><tr><td>면역 저하 시 위험</td><td>위험 ↑↑</td><td>위험 ↑</td></tr><tr><td>PCR (MTB)</td><td>양성이면 진단에 도움; 음성으로 배제 불가</td><td>음성</td></tr><tr><td>치료</td><td>표준 4제 요법 (지침 기반)</td><td>균종별 상이 (MAC, M. kansasii 등)</td></tr><tr><td>격리</td><td>초기 격리 필요</td><td>불필요</td></tr></tbody></table>
 
 * 객담에서 NTM이 검출되어도 곧 NTM 폐질환은 아니며, 임상·영상·미생물 기준을 함께 충족해야 진단함
 
@@ -205,7 +159,7 @@ NAAT = nucleic acid amplification test; NTM = nontuberculous mycobacteria (비�
 
 * 가래 검체에 대한 자동화된 real-time PCR 검사 시스템
 * MTB DNA 및 RIF 내성 변이를 2시간 내에 진단
-* **Xpert Ultra** : 기존 Xpert 대비 민감도 향상 (특히 도말 음성·소아·저균량 결핵); 국내에서도 사용 증가 추세. trace 결과는 임상 맥락과 함께 해석 필요
+* Xpert Ultra : 기존 Xpert 대비 민감도 향상 (특히 도말 음성·소아·저균량 결핵); 국내에서도 사용 증가 추세. trace 결과는 임상 맥락과 함께 해석 필요
 * 결핵이 의심되는 환자의 초기 검체에서 시행하며, 특히 재치료·중증 결핵·HIV 감염 등 신속한 진단과 RIF 내성 확인이 필요한 경우 유용함
 * RIF 내성 가능성이 낮은 상황에서 내성으로 나오면 다른 검사로 확인 필요
 
@@ -218,29 +172,29 @@ NAAT = nucleic acid amplification test; NTM = nontuberculous mycobacteria (비�
 
 * 장점 : 저렴하고 검사 경험이 풍부하며, 최근 감염 및 발병 위험 평가에 활용 가능
 * 단점 : BCG·일부 NTM에 의한 위양성, 면역저하·중증 질환 등에 의한 위음성, 활동성 결핵과 LTBI 구별 불가, 2회 방문 및 시술·판독자 간 변이
-* 시행하지 않는 경우 : 과거 활동성 결핵 또는 LTBI 치료력이 있거나 이전 TST/IGRA 양성이 확인된 경우처럼 재검이 임상 결정에 도움이 되지 않는 경우, 과거 TST 후 수포·괴사·아나필락시스 등 중증 반응이 있었던 경우. 광범위한 피부병변 등으로 정확한 시행·판독이 어려우면 IGRA를 고려함
+* 적용 제외 대상 : 과거 활동성 결핵 또는 LTBI 치료력이 있거나 이전 TST/IGRA 양성이 확인된 경우처럼 재검이 임상 결정에 도움이 되지 않는 경우, 과거 TST 후 수포·괴사·아나필락시스 등 중증 반응이 있었던 경우. 광범위한 피부병변
+  * 정확한 시행·판독이 어려우면 IGRA를 고려함
 * BCG를 1세 이후 접종했거나 2회 이상 접종한 경우에는 TST를 금기시하기보다 위양성 가능성을 고려하여 IGRA를 우선함
 
 **검사 방법 (Mendel-Mantoux Test)**
 
 * 검사 항원 : 2TU PPD RT 23
 * 부위 : 정맥에서 멀리 떨어지고 피부 병변이 없는 팔꿈치 관절 5\~10 ㎝ 아래 전박 안쪽 피부
-* 주입 방법 : 0.1 ㎖ 피내 주사, 6\~10 ㎜의 팽진을 만듦; PPD가 많이 흘러나왔거나 팽진이 생기지 않은 경우 반대쪽 전박 또는 같은 쪽 이전 주사 부위에서 5 ㎝ 떨어진 곳에 재시행
+* 주입 방법 : 0.1 ㎖ [피내 주사](../231_/210_-vaccination.md#administration), 6\~10 ㎜의 팽진을 만듦; PPD가 많이 흘러나왔거나 팽진이 생기지 않은 경우 반대쪽 전박 또는 같은 쪽 이전 주사 부위에서 5 ㎝ 떨어진 곳에 재시행
 * 생백신과 동시 접종 가능; 따로 시행하는 경우 생백신 접종 4주 이후에 TST 시행
 
 **판독 방법**
 
-* 접종 후 48\~72시간 사이에 판독 (☞ [CDC Mantoux 교육자료](https://www.cdc.gov/tb/education/mantoux/))
-* 팔꿈치를 약간 구부린 상태에서 팔의 길이 방향과 직각으로 경결 부위의 가장 긴 지름을 ㎜ 단위로 측정(발적 부위는 측정하지 않음); 여러 차례 측정한 경우 최대값으로 판정
-* 수포나 괴사 반응이 있으면 크기와 모습을 병기 (예: 18B, 20V, 25N)
+* 접종 후 48\~72시간 사이에 판독 (☞ 질병청 [결핵상담사례집, Q126\~128](https://djcidc.or.kr/bbsDown/dataBoard_new/2024080247594966981.pdf))
+* 팔꿈치를 약간 구부린 상태에서 팔의 길이 방향과 직각으로(가로 직경) 경결 부위의 가장 긴 지름을 ㎜ 단위로 측정(발적 부위는 측정하지 않음); 여러 차례 측정한 경우 최대값으로 판정
+* 수포(bulla, vesicle)나 괴사(necrosis) 반응이 있으면 크기와 모습을 병기 (예: 18B, 20V, 25N)
 * 판정에 1세 이전에 접종한 BCG 접종력은 고려하지 않음
 
 **TST 양성 기준**
 
-<table><thead><tr><th width="193.6842041015625">대상</th><th>양성 기준</th></tr></thead><tbody><tr><td>일반</td><td>경결 ≥10 ㎜</td></tr><tr><td>HIV 감염자</td><td>경결 ≥5 ㎜</td></tr><tr><td>강양성</td><td>경결 ≥15 ㎜, 또는 경결 크기에 상관없이 수포(B)·소수포(V)·괴사(N) 동반</td></tr></tbody></table>
+<table><thead><tr><th width="117">대상</th><th>양성 기준</th></tr></thead><tbody><tr><td><strong>일반</strong></td><td>경결 ≥10 ㎜</td></tr><tr><td><strong>HIV 감염자</strong></td><td>경결 ≥5 ㎜</td></tr><tr><td><strong>강양성</strong></td><td>경결 ≥15 ㎜, 또는 경결 크기에 상관없이 수포(B)·소수포(V)·괴사(N) 동반</td></tr></tbody></table>
 
-* 영유아 접촉자는 연령, BCG 접종력과 접촉 위험도에 따른 별도의 국내 소아 접촉자 알고리듬을 적용하고 소아청소년과 또는 결핵 전문가와 상의
-
+* 영유아 접촉자는 연령, BCG 접종력과 접촉 위험도에 따른 별도의 소아 접촉자 알고리듬을 적용하고, 소아청소년과 또는 결핵 전문가와 상의
 * 지연(72시간 이후) 판독한 경우에도 양성에 해당되는 값을 보이면 양성으로 판정
 
 **투베르쿨린 연속검사 (serial TST)**
@@ -256,20 +210,18 @@ NAAT = nucleic acid amplification test; NTM = nontuberculous mycobacteria (비�
 #### <mark style="color:$primary;">인터페론감마 분비검사 (Interferon-gamma Releasing Assay, IGRA)</mark>
 
 * 원리 : 결핵균에 감작된 T 림프구를 결핵균 항원으로 자극하여 분비되는 인터페론 감마를 측정
-* 장점 : BCG 접종의 영향을 받지 않고 특이도가 높으며 1회 방문으로 완료 (<mark style="color:blue;">\[QuantiFERON]</mark>, <mark style="color:blue;">\[T-SPOT]</mark>)
+* 장점 : BCG 접종의 영향을 받지 않고 특이도가 높으며 1회 방문으로 완료
 * 단점 : 활동성 결핵과 LTBI 구별 불가, 까다로운 검체 관리(튜브 온도 관리, 채취 후 배양까지 시간 제한), 소아에서의 임상 자료 부족, 고비용
-* 5\~18세에서는 TST 또는 IGRA를 사용할 수 있음. 만 5세 미만에서는 TST를 원칙으로 하되, BCG를 1세 이후에 접종했거나 2회 이상 접종한 경우에는 만 5세 미만을 포함한 전 연령에서 IGRA로 결핵감염 여부를 확인함. 검사 선택에 관한 진료지침과 건강보험 급여기준은 구분하여 적용함
-
-**QuantiFERON-TB Gold Plus® 검사 시 주의**
-
-* QFT-Plus는 Nil, TB1, TB2, Mitogen의 4개 튜브를 사용함. 채혈량, 혼합, 보관 온도 및 배양 시작 시간은 검사실과 해당 키트의 최신 제조사 지침을 따름
+* 5\~18세에서는 TST 또는 IGRA를 사용할 수 있음. 만 5세 미만에서는 TST를 원칙으로 하되, BCG를 1세 이후에 접종했거나 2회 이상 접종한 경우에는 만 5세 미만을 포함한 전 연령에서 IGRA로 결핵감염 여부를 확인함
+* 제품 및 검사방법 : [<mark style="color:blue;">QuantiFERON</mark>](https://www.qiagen.com/us/tb-testing/what-is-quantiferon/how-does-qft-work?utm_source=chatgpt.com), [<mark style="color:blue;">T-SPOT</mark>](https://www.revvity.co.kr/category/automate-t-spottb-workflow?utm_source=chatgpt.com)
+  * QuantiFERON-TB Gold Plus® 검사 시 주의 : QFT-Plus는 Nil, TB1, TB2, Mitogen의 4개 튜브를 사용함. 채혈량, 혼합, 보관 온도 및 배양 시작 시간은 검사실과 해당 키트의 최신 제조사 지침을 따름
 
 ### <mark style="color:orange;">약제 감수성 검사</mark>
 
 * 모든 결핵 환자의 첫 배양 분리 균주에 대하여 최소한 INH 및 RIF에 대해 시행
 * INH 또는 RIF 내성이 확인되면 fluoroquinolone과 내성결핵 치료에 사용할 핵심 약제에 대해 가능한 신속 분자감수성검사와 통상감수성검사를 확대 시행
 * 치료 3개월 이후에도 배양 양성이거나 치료 실패가 의심되면 최근 배양 균주에 대해 약제감수성검사를 반복
-* 신속 내성 검사 : 치료 시작 시 INH/RIF 신속감수성검사를 시행하고, 재치료·치료 실패·내성결핵 접촉력 등에서는 추가 내성 여부를 조기에 확인
+* 신속감수성검사 : 치료 시작 시 INH/RIF에 대해 시행하고, 재치료·치료 실패·내성결핵 접촉력 등에서는 추가 내성 여부를 조기에 확인
 
 ### <mark style="color:orange;">조직 검사</mark>
 
@@ -281,7 +233,10 @@ NAAT = nucleic acid amplification test; NTM = nontuberculous mycobacteria (비�
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-* 국내 성인 약제감수성 결핵의 표준치료는 원칙적으로 6개월 이상의 복합요법임. WHO의 일부 선택 환자 대상 4개월 rifapentine-moxifloxacin 요법은 국내 허가·공급 및 지침 적용 여부를 확인해야 하므로 국내 표준 처방으로 사용하지 않음
+
+
+* 국내 성인 약제감수성 결핵의 표준치료는 원칙적으로 6개월 이상의 복합요법임
+  * WHO의 일부 선택 환자 대상 4개월 rifapentine-moxifloxacin 요법은 국내 표준 처방으로 사용하지 않음
 * 생후 3개월 이상 16세 미만의 비중증 약제감수성 결핵(말초 림프절 결핵, 기도 폐쇄가 없는 흉곽 내 림프절 결핵, 단순 흉막염, 속립성 음영이 없고 한 엽 이내에 국한된 비공동성 병변)에는 WHO가 4개월 2HRZ(E)/2HR 요법을 권고하므로 소아청소년과 또는 결핵 전문가에게 의뢰
 * 다제 내성 결핵, 치료 실패, 중증 폐외 결핵, 중증 간질환자는 전문 의료기관에 의뢰
 * 금연·금주 (특히 항결핵제의 간독성을 고려하여 치료 기간 중 금주)
@@ -375,51 +330,12 @@ PCR 양성 지속은 격리 해제의 배제 기준이 아님 : PCR은 사균(de
 ***
 
 ```mermaid
-graph TD
-    Start(["흉부 X선/CT상<br/>활동성 결핵 가능성이 낮은 <br/>치유 결핵 소견¹⁾"])
-    Q1["과거 적절한<br/>결핵 치료력?"]
-    HasTx["비활동성 결핵"]
-    Exam["<u>검사</u><br/>· 과거 흉부 X선과 비교<br/>· 세균학적 검사 예: 가래<br/>· 경과 관찰"]
-    ActiveTb["활동성 결핵"]
-    ActiveTx["결핵 치료"]
-    Inactive["비활동성 결핵"]
-    Q2["결핵 발병<br/>고위험군?"]
-    HighRisk["LTBI 치료"]
-    NotHigh["LTBI 검사"]
-    LTBINeg["경과 관찰"]
-    LTBIPos["LTBI 치료"]
-
-    Start --> Q1
-    Q1 -->|"있음"| HasTx
-    Q1 -->|"없음"| Exam
-    Exam --> ActiveTb
-    Exam --> Inactive
-    ActiveTb --> ActiveTx
-    Inactive --> Q2
-    Q2 -->|"고위험군²⁾"| HighRisk
-    Q2 -->|"고위험군 아님"| NotHigh
-    NotHigh -->|"LTBI⊖"| LTBINeg
-    NotHigh -->|"LTBI⊕"| LTBIPos
-
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    classDef yellow fill:#fff9c4,stroke:#ffe082
-    class Q1,Q2,NotHigh yellow
-    classDef pink fill:#fde8f0,stroke:#e91e8c
-    class HasTx,Inactive pink
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class LTBINeg sky
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class LTBIPos,HighRisk,ActiveTx blue
-style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    style Exam fill:#ebfbee,stroke:#8ce99a
-
 ```
 
-<p align="center"><strong>자연 치유된 결핵 병변이 있는 경우의 검사 과정</strong></p>
+> _¹⁾칼슘이 침착된 단순 결절 및 폐첨부와 기저부의 흉막 비후는 제외._\
+> _²⁾고위험군: HIV 감염, 장기 이식으로 면역억제제 복용자, TNF 길항제 사용자_
 
-<p align="center">¹⁾칼슘이 침착된 단순 결절 및 폐첨부와 기저부의 흉막 비후는 제외.<br>²⁾고위험군: HIV 감염, 장기 이식으로 면역억제제 복용자, TNF 길항제 사용자</p>
-
-<p align="center"><em><mark style="color:$info;">Ref. 결핵 진료지침 2024, Ⅷ장 잠복결핵감염</mark></em></p>
+<p align="center"><strong>자연 치유된 결핵 병변이 있는 경우의 검사 과정</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024, Ⅷ장 잠복결핵감염</mark></em></p>
 
 ***
 
@@ -428,64 +344,14 @@ style ActiveTb fill:#ffcdd2,stroke:#c62828,stroke-width:2px
 <table><thead><tr><th width="180">검사</th><th width="220">양성 기준</th><th>비고</th></tr></thead><tbody><tr><td>TST</td><td>경결 ≥10 ㎜ (일반)<br>경결 ≥5 ㎜ (HIV 감염인)</td><td>BCG 접종력의 영향을 받을 수 있음</td></tr><tr><td>IGRA (QuantiFERON)</td><td>Nil ≤8.0 IU/㎖이면서 TB1−Nil 또는 TB2−Nil ≥0.35 IU/㎖이고 해당 Nil 값의 ≥25%; Nil ＞8.0 IU/㎖이면 미결정</td><td>BCG 접종에 영향 받지 않음</td></tr><tr><td>IGRA (T-SPOT)</td><td>음성 대조 보정과 대조군 적합성을 포함한 검사실·제조사 기준으로 판정</td><td>BCG 접종에 영향 받지 않음</td></tr></tbody></table>
 
 * HIV 감염인을 제외한 면역저하 성인의 TST 양성 기준도 원칙적으로 ≥10 ㎜임. 음성 결과만으로 LTBI를 배제하지 않으며, IGRA가 음성이면 TST 추가 등으로 보완함. IGRA의 미결정 결과는 음성으로 해석하지 않고 검체·면역 상태를 확인하여 재검 또는 다른 검사를 고려함. T-SPOT은 음성 대조 보정과 대조군 적합성을 포함한 검사실 판정(양성·음성·경계·무효)에 따름
-
 * 연령별 검사 선택은 위 IGRA 항목을 따름. 검사 결과가 임상 위험도와 불일치하면 접촉 강도·면역 상태·검사 시점을 함께 검토함
 
 ***
 
 ```mermaid
-graph TD
-    %% 정상 면역 성인 경로
-    SN(["LTBI 진단 검사가 필요한<br/><b>정상 면역 성인</b>"])
-    ExcN["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선<br/>필요시 세균학적 검사"]
-    BCG["과거 BCG 접종력?"]
-    TST1["TST 또는 IGRA"]
-    IGA1["IGRA"]
-    PosN1["LTBI 양성"]
-    NegN1["LTBI 음성"]
-    PosN2["LTBI 양성"]
-    NegN2["LTBI 음성"]
-
-    SN --> ExcN --> BCG
-    BCG -->|"영아 때 1회 접종<br/>또는 미접종"| TST1
-    BCG -->|"1세 이후 접종, 2회 이상 접종<br/>또는 접종력 불확실"| IGA1
-    TST1 -->|"TST ≥10 ㎜<br/>또는 IGRA 양성"| PosN1
-    TST1 -->|"TST ＜10 ㎜<br/>또는 IGRA 음성"| NegN1
-    IGA1 -->|"양성"| PosN2
-    IGA1 -->|"음성"| NegN2
-
-    %% 면역 저하 성인 경로
-    SI(["LTBI 진단 검사가 필요한<br/><b>면역 저하 성인</b>"])
-    ExcI["<u>활동성 결핵 배제</u><br/>증상·병력·흉부 X선<br/>필요시 세균학적 검사"]
-    IGA2["IGRA"]
-    PosI1["LTBI 양성"]
-    NegIto["TST 시행"]
-    PosI2["LTBI 양성"]
-    NegI2["검사상 LTBI 음성<br/>노출·면역 상태에 따라 재평가"]
-
-    SI --> ExcI --> IGA2
-    IGA2 -->|"양성"| PosI1
-    IGA2 -->|"음성"| NegIto 
-    NegIto -->|"10 ㎜ 이상<br/>(HIV 감염인 5 ㎜ 이상)"| PosI2
-    NegIto -->|"기준 미만"| NegI2
-
-style SN fill:#fff3e0,stroke:#e65100,stroke-width:2px
-style SI fill:#fdebd0,stroke:#e67e22,stroke-width:2px
-style ExcN fill:#e8f8e8,stroke:#4caf50
-classDef green fill:#d5f5e3,stroke:#27ae60
-class ExcI green
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class BCG,TST1,IGA1,IGA2,NegIto yellow
-classDef white fill:#fff,stroke:#333
-class NegI2,NegN1,NegN2 white
-classDef blue fill:#d0e8ff,stroke:#1a6abf
-class PosN1,PosN2,PosI1,PosI2 blue
-
 ```
 
-<p align="center"><strong>잠복결핵감염 진단 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. 결핵 진료지침 2024, Ⅷ장 잠복결핵감염</mark></em></p>
+<p align="center"><strong>잠복결핵감염 진단 알고리듬</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024, Ⅷ장 잠복결핵감염</mark></em></p>
 
 ***
 
@@ -499,29 +365,9 @@ class PosN1,PosN2,PosI1,PosI2 blue
 ***
 
 ```mermaid
-graph TD
-    A(["LTBI 검사 양성"]) --> B["활동성 결핵 배제"]
-    B -->|"배제되지 않음"| C["추가 평가 및 전문가 의뢰"]
-    C -->|"활동성 결핵 진단"| CT["활동성 결핵 치료"]
-    B -->|"배제 완료"| D["기저 검사<br/>CBC·LFT·간염 검사"]
-    D --> E["RIF 사용 가능?"]
-    E -->|"<u>아니오</u><br/>중요 약물 상호작용 등"| F["9H 우선 고려<br/>필요시 6H"]
-    E -->|"예"| G["기간/방법 선택"]
-    G --> H["4R<br/>RIF 단독 4개월"]
-    G --> I["3HR<br/>INH+RIF 3개월"]
-
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style D fill:#e8f8e8,stroke:#4caf50
-    style C fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-classDef yellow fill:#fff9c4,stroke:#ffe082
-class B,E,G yellow
-classDef sky fill:#e3f2ff,stroke:#2196f3
-class H,I,F sky
 ```
 
-<p align="center"><strong>LTBI 치료 약제 선택 알고리듬</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. 결핵 진료지침 2024</mark></em></p>
+<p align="center"><strong>LTBI 치료 약제 선택 알고리듬</strong><br><em><mark style="color:$info;">Ref. 결핵 진료지침 2024</mark></em></p>
 
 ***
 
@@ -692,7 +538,6 @@ class H,I,F sky
 * 결핵 자체에 의한 발열과 약제에 의한 발열의 감별 필요
 * 약제열은 원인 약제 중단 후 대개 수일 이내 호전되지만 시점만으로 확진할 수 없으며, 결핵 자체·동반 감염·다른 약제에 의한 발열을 배제
 * 원인 약제 확인을 위한 단계적 재투여는 중증 과민반응이 아니었음을 확인한 뒤 전문가 감독하에 시행
-
 * 재투여 순서: RIF → INH → PZA → EMB 순으로 하나씩 저용량부터 시작하며, 각 약제 투여 후 최소 24\~48시간 동안 발열·발진·전신 증상 관찰
 
 {% hint style="warning" %}
@@ -705,7 +550,7 @@ class H,I,F sky
 
 * 치료 실패 결핵의 재치료는 전문가에게 의뢰
 * 치료 실패의 원인을 찾기 위한 병력 청취
-* 1·2차 항결핵제에 대한 약제 감수성 검사 및 INH/RIF에 대한 신속 내성 검사 시행
+* 1·2차 항결핵제에 대한 약제 감수성 검사 및 INH/RIF에 대한 신속감수성검사 시행
 * 치료 실패 후 재치료로 새로운 항결핵제를 추가할 때는 한 가지씩 추가하지 않음
 
 #### <mark style="color:$primary;">치료 중단 후 재치료</mark>
@@ -731,7 +576,7 @@ class H,I,F sky
 
 * 권고에 따른 초치료 종료 후 재발한 경우: 초치료 시 사용한 약제로 재치료
 * 초치료 종료 2년 이내에 재발한 경우: 치료 기간을 3개월 연장하여 9개월 요법으로 재치료
-* 결핵균에 대한 신속 내성 검사를 시행하여 다제 내성 결핵 여부 확인 및 처방 조정
+* 결핵균에 대한 신속감수성검사를 시행하여 다제 내성 결핵 여부 확인 및 처방 조정
 
 #### <mark style="color:$primary;">내성 결핵</mark>
 
@@ -750,7 +595,7 @@ class H,I,F sky
 
 * 정의: RR-TB는 RIF 내성, MDR-TB는 최소 INH와 RIF에 동시 내성, pre-XDR-TB는 MDR/RR-TB + fluoroquinolone 내성, XDR-TB는 pre-XDR-TB + bedaquiline 또는 linezolid 내성
 * 전문 의료기관에 의뢰
-* 치료 시작 전 최소한 INH·RIF 및 fluoroquinolone에 대한 신속 내성검사를 시행하고, 가능한 모든 구성 약제에 대한 감수성 결과를 확보
+* 치료 시작 전 최소한 INH·RIF 및 fluoroquinolone에 대한 신속감수성검사를 시행하고, 가능한 모든 구성 약제에 대한 감수성 결과를 확보
 * 국내 2024 지침에서는 fluoroquinolone 감수성 MDR/RR-TB에 6개월 BPaLM 또는 9개월 MDR-END 요법을 장기요법보다 우선 고려함
   * BPaLM: bedaquiline + pretomanid + linezolid + moxifloxacin, 총 26주
   * MDR-END: levofloxacin + delamanid + linezolid + pyrazinamide, 9개월 (배양 음전 지연 시 12개월까지 연장)
