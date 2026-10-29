@@ -27,12 +27,13 @@
 ### <mark style="color:orange;">2차성 무월경</mark>
 
 * physiologic : 임신/수유, 폐경
-* 기능성 시상하부 무월경(functional hypothalamic amenorrhea, FHA) : 급격한 체중 변화, 저체중 또는 에너지 가용성 부족(다이어트, IBD, 영양 흡수 장애, 소모성 질환 등), 심한 운동(여성 운동선수 세 요소/RED-S), 우울, 스트레스
+* 기능성 시상하부 무월경(functional hypothalamic amenorrhea, FHA) : 섭취 제한·과도한 운동 등에 따른 에너지 부족, 체중 감소, 심리적 스트레스; 정상 BMI에서도 가능함. 여성 운동선수 삼징후(Female Athlete Triad) 및 스포츠 관련 상대적 에너지 결핍(REDs)과 관련됨
+* 전신질환 관련 : 염증성 장질환·셀리악병 등 흡수 장애, 만성 신질환, 소모성 질환 등도 영양결핍·생식축 억제를 일으킬 수 있음. 기질적 질환에 의한 무월경을 FHA로 일괄 분류하지 않음
 * 내분비 질환 : 갑상선 기능 이상(저하증·항진증), hyperprolactinemia, 비조절 당뇨병, 쿠싱증후군
 * 중추성 원인 : 뇌하수체·시상하부 종양, 산후 대량출혈 후 Sheehan 증후군(수유 실패·피로·저혈압 동반 가능)
 * 난소 질환 : 다낭성난소증후군, 조기 난소기능부전(premature ovarian insufficiency, POI), 난소 종양
 * Outflow tract 이상 : Asherman 증후군(자궁강내 유착 - 소파술·자궁내막염 후), 자궁경부 협착
-* 약물 : 항우울제, 항정신병제, 화학요법, 피임제(특히 depot medroxyprogesterone)
+* 약물 : 항정신병제, 일부 항우울제, metoclopramide·domperidone 등 prolactin 상승 약제, opioid, 화학요법·GnRH 유사체, 호르몬 피임제(주사형 medroxyprogesterone, LNG-IUS, 임플란트, 연속 경구피임제 등)
 
 {% hint style="info" %}
 **다낭성난소증후군(PCOS) 진단 기준 (Rotterdam/국제 근거중심 가이드라인, 2023 개정)**
@@ -46,27 +47,29 @@
 
 ***
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### 🚩Red Flags
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 임신 가능성이 있는 무월경과 심한 복통·실신·저혈압·복막 자극 징후(자궁외임신 파열 가능성)
-* 갑작스러운 극심한 두통과 급성 시력/시야 저하·복시·안구운동 마비·의식 변화(뇌하수체졸중 가능성)
-* 심한 에너지 부족·섭식장애와 심한 서맥·저혈압·기립성 불안정·전해질 이상
+* 임신 가능성이 있는 무월경과 심한 복통·실신·저혈압·복막 자극 징후  `자궁외임신 파열`
+* 갑작스러운 극심한 두통과 급성 시력·시야 저하·복시·안구운동 마비·의식 변화  `뇌하수체졸중`
+* 심한 에너지 부족·섭식장애와 심한 서맥·저혈압·기립성 불안정·전해질 이상  `의학적 불안정`
+* 산후 대량출혈 병력과 심한 저혈압·구토·저혈당·의식 저하  `급성 부신기능저하`  `Sheehan 증후군`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 임신검사 양성과 복통·질출혈(혈역학적으로 안정적이어도 당일 평가 대상)
-* 새로 발생하거나 진행하는 두통·시야 이상(당일 평가 대상)
-* 급속 진행 남성화(음성 저하·음핵 비대 등) 또는 매우 높은 androgen 수치
-* 심한 저체중 또는 섭식장애 징후
+* 임신검사 양성과 복통·질출혈 **(당일)**  `자궁외임신`  `유산`
+* 새로 발생하거나 진행하는 두통·시야 이상 **(당일)**  `시상하부·뇌하수체 병변`
+* 급속 진행 남성화(목소리 저음화·음핵 비대 등) 또는 현저한 androgen 상승  `난소·부신 종양`
+* 심한 저체중 또는 섭식장애 징후  `영양결핍`  `섭식장애`
+* 초경이 없으면서 심하거나 반복되는 주기적 골반통·하복부 종괴·요폐  `생식기 유출로 폐쇄`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 13세까지 유방 발달 없음, 15세까지 초경 없음, 성장속도 저하·Turner 표현형 동반
-* 초기 검사 후에도 원인이 설명되지 않는 무월경 또는 지속성·진성 고프로락틴혈증
-* FHA에서 6개월 이상 무월경 또는 더 이른 시기의 심한 영양결핍·취약골절
-* POI 의심이나 초기 진단이 불확실한 경우
+* 13세까지 유방 발달 없음, 15세까지 초경 없음, 성장속도 저하·Turner 표현형  `사춘기 지연`  `성선 발달 이상`
+* 원인이 설명되지 않는 무월경 또는 지속성·진성 고프로락틴혈증  `내분비·중추성 질환`
+* FHA에서 6개월 이상 무월경 또는 더 이른 시기의 심한 영양결핍·취약골절  `골 건강 저하`
+* 40세 미만의 지속적 월경 이상·안면홍조·질건조 또는 FSH 상승  `조기 난소기능부전`
 
 ***
 
@@ -75,56 +78,60 @@
 * 임신 배제가 모든 평가의 첫 단계
 * 병력 : 초경·유방 발달 시점, 마지막 월경·이전 주기, 성생활·피임·임신 가능성, 수유, 식이·운동·체중 변화·스트레스, 약물, 자궁강 시술, 산후 출혈, 유즙 분비·두통·시야 이상, 다모증·남성화, 골절력 확인
 * 진찰 : 활력징후·기립성 변화, BMI·성장곡선, 유방 발달(Tanner stage), 갑상선·유즙 분비·androgen excess 소견; 1차성 무월경에서는 동의와 연령·상황을 고려한 외생식기/골반 평가로 유출로 폐쇄·질/자궁 발달 이상 확인
-* FHA는 배제 진단이며 정상 BMI에서도 에너지 가용성 부족으로 발생 가능함
+* FHA는 배제 진단이며 정상 BMI에서도 에너지 부족으로 발생 가능함. 후각 저하·소실은 선천성 GnRH 결핍(Kallmann 증후군)을, 산후 수유 실패·저혈압은 Sheehan 증후군을 시사함
 * 임신 가능성이 남거나 임상 소견과 맞지 않는 소변 hCG 음성은 혈청 hCG로 확인함. 피임제 사용 중 무월경은 약제에 의한 자궁내막 억제일 수 있으며, 임신 배제 후 증상·위험 인자에 따라 추가 검사 결정함
 
 ### <mark style="color:orange;">검사</mark>
 
-* 대상 : 일반 사항의 평가 시작 기준에 해당하는 경우; 경고 소견·임신 가능성이 있으면 해당 기간을 기다리지 않음
+* 대상 : 일반 사항의 평가 시작 기준에 해당하는 경우; 경고 소견·임신 가능성이 있으면 해당 기간을 기다리지 않음. FHA가 의심되면 월경 간격이 지속적으로 45일을 초과하거나 3개월 이상 무월경일 때 평가함 <mark style="color:$info;">[Endocrine Society 2017]</mark>
 * 1차 실험실 검사 : s/u-hCG, FSH, LH, estradiol(E2), prolactin, TSH
   * 선택 : 영양결핍·섭식장애·만성 전신질환 의심 시 CBC, 전해질, glucose, 신·간기능, ESR/CRP
-  * hyperandrogenism 의심 시 testosterone(total/free), DHEA-S, 아침 17-hydroxyprogesterone(17-OHP; nonclassic 선천성 부신과형성 선별); 상승 시 필요에 따라 ACTH 자극검사
+  * hyperandrogenism 의심 시 total testosterone 및 계산 free testosterone(예: SHBG 기반), DHEA-S, 아침 17-hydroxyprogesterone(17-OHP; 비전형 선천성 부신과형성 선별); 필요 시 ACTH 자극검사. Testosterone은 가능하면 LC-MS/MS로 측정하며 직접 free testosterone 면역측정은 정확도가 낮음
+  * 복합 경구피임제는 SHBG를 높이고 androgen을 낮춰 검사 해석을 방해함. 생화학적 확인이 꼭 필요하면 처방의와 상의하여 최소 3개월 중단하고 별도 피임을 적용함. 급속 남성화·종양 의심은 이 기간을 기다리지 않고 신속히 평가함 <mark style="color:$info;">[국제 PCOS 가이드라인 2023]</mark>
   * 중추성 질환/FHA 의심 또는 TSH 이상 시 free T4 추가; 뇌하수체 기능저하가 의심되면 아침 cortisol 등 추가 평가
-  * 비의인성 POI 확진 : 유전상담 후 karyotype 및 FMR1 premutation 검사; 원인 불명 POI는 21-hydroxylase 자가항체(양성이면 부신기능 평가), TSH 확인 <mark style="color:$info;">[국제 POI 가이드라인 2024/2025]</mark>
+  * Prolactin 경도 상승(예: 20~40 ng/mL; 검사실 기준 적용)은 채혈 스트레스·운동·유방 자극·약물·갑상선 및 신기능 영향을 확인하고 재검함. 특히 증상과 수치가 맞지 않는 지속적 경도 상승은 macroprolactin을 확인함. Macroprolactin 단독 상승으로 무월경을 설명하지 않으며, MRI·dopamine agonist를 자동 적용하지 않음 <mark style="color:$info;">[ASRM 2024]</mark>
+  * 비의인성 POI 확진 : 유전상담 후 karyotype 및 FMR1 premutation 검사; 원인 불명 POI는 21-hydroxylase 자가항체(양성이면 내분비내과에서 부신기능 평가), TSH 확인. 항난소항체 및 TPO 항체의 일괄 선별은 권장하지 않음 <mark style="color:$info;">[국제 POI 가이드라인 2024/2025]</mark>
 * 영상 검사 : 골반 초음파를 초기 평가에서 우선 고려(자궁·자궁내막·난소 평가; 가능한 경우 질식, 상황에 따라 경복부); 작은 저에스트로겐성 자궁이 초음파에서 불명확한 경우 MRI 등으로 확인한 뒤 자궁 무형성 판단
   * 뇌하수체 MRI : 설명되지 않는 지속성·진성 prolactin 상승, 심한/지속적 두통·시야 이상·비유도성 지속 구토·다뇨/갈증·국소 신경징후 또는 뇌하수체 호르몬 결핍/과잉 의심 시 시행함
   * 약물성 고프로락틴혈증 의심 시 처방의와 변경·중단 가능성을 검토하고 재검함; 항정신병제를 임의 중단하지 않음
 * 추가 검사(적응증에 따라) : saline infusion sonography 또는 hysteroscopy(Asherman 증후군 의심 시; hysteroscopy는 자궁강 평가의 gold standard), pelvic MRI(선천성 해부학적 이상 상세 평가)
 
 {% hint style="info" %}
-**참고 (ASRM Committee Opinion, 2024)**
+**검사 해석 시 주의 사항**
 
 * AMH는 무월경의 일괄 필수 검사가 아님. POI는 AMH 단독으로 진단하지 않으며, FSH 결과가 불명확할 때 임상상과 함께 보조적으로 활용함
 * POI : 40세 미만 + 4개월 이상 자발성 무월경/불규칙 월경 + FSH ＞25 IU/L; 불확실할 때만 4\~6주 후 재검하며 모든 환자에서 2회 상승이 필수는 아님. 호르몬제는 FSH를 낮추거나 월경 양상을 가릴 수 있으므로 약물 영향을 검토함 <mark style="color:$info;">[국제 POI 가이드라인 2024/2025]</mark>
-* 프로게스틴 소퇴 검사(progestin withdrawal test)는 과거 널리 쓰였으나 민감도·특이도가 낮음 - 무반응이 저에스트로겐 상태(폐경·FHA)와 유출로 폐쇄를 구분하지 못하므로 단독 판단 근거로 사용하지 않음
+* POI 평가의 FSH는 특정 월경주기일에 맞출 필요가 없음. 낮은 E2는 보조 소견이며 E2만으로 POI를 진단하지 않음
+* 단회 E2·FSH 수치는 변동과 약물 영향을 받으므로 병력·초음파와 함께 해석함. LH/FSH 비는 PCOS 진단 기준이 아님. FHA에서도 PCOM이 나타날 수 있으므로 초음파 형태만으로 PCOS로 판단하지 않음
+* 프로게스틴 소퇴 검사는 위양성·위음성이 있어 단독 확진 검사로 사용하지 않음. 무반응은 저에스트로겐 상태(FHA·POI)와 자궁내막 손상·유출로 폐쇄를 구분하지 못하며, 얇은 자궁내막에서는 출혈이 없을 수 있음 <mark style="color:$info;">[ASRM 2024]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">1차 검사 소견별 시사 진단</mark>
 
-<table><thead><tr><th width="220">1차 검사 소견</th><th width="220">시사 진단</th><th>다음 단계</th></tr></thead><tbody><tr><td>1차성 무월경 + 2차 성징 미발달/저신장 + FSH 상승</td><td>선천성 성선 저하(Gonadal dysgenesis, Turner syndrome 등)</td><td>karyotype 검사(Turner syndrome, Y 염색체 물질 확인)</td></tr><tr><td>FSH·LH 낮음/low-normal + E2 낮음, 자궁 있음</td><td>FHA/central hypogonadism, 체질적 사춘기 지연</td><td>에너지 균형·스트레스·체중 변화, 중추성 원인 평가</td></tr><tr><td>자궁 있음, 배란장애 + hyperandrogenism 소견(FSH는 흔히 정상; LH 상승 가능)</td><td>PCOS 우선 고려; 기타 androgen excess 원인 감별</td><td>testosterone, DHEA-S, 17-OHP; 필요 시 골반 초음파</td></tr><tr><td>FSH·LH 정상, 자궁 있음, 산부인과 시술력</td><td>Asherman 증후군(자궁강내 유착)</td><td>hysteroscopy</td></tr><tr><td>40세 미만 + 4개월 이상 무월경/희발월경 + FSH &gt;25 IU/L</td><td>조기 난소기능부전(POI)</td><td>진단 불확실 시 4~6주 후 FSH 재검 또는 AMH 고려; 비의인성 POI 확진 시 karyotype, FMR1; 원인 불명은 21-hydroxylase 자가항체</td></tr><tr><td>TSH 이상</td><td>갑상선 질환</td><td>TFT 추가, 갑상선 질환 치료</td></tr><tr><td>Prolactin 상승</td><td>고프로락틴혈증</td><td>경도 상승은 일시적 요인·약물 확인 후 재검; 지속 시 macroprolactin/TSH 평가, 설명되지 않는 진성·지속성 상승이면 pituitary MRI</td></tr><tr><td>자궁 없음, 46,XX, 여성 범위 testosterone</td><td>Müllerian agenesis</td><td>영상으로 확인, 신장 등 동반 기형 평가, 산부인과 의뢰</td></tr><tr><td>자궁 없음, 46,XY, 남성 범위 testosterone</td><td>Androgen 불감성 증후군 우선 고려</td><td>유전 상담; 사춘기 virilization이 있으면 5α-reductase 결핍 등 46,XY DSD 감별</td></tr></tbody></table>
+<table><thead><tr><th width="220">1차 검사 소견</th><th width="220">시사 진단</th><th>다음 단계</th></tr></thead><tbody><tr><td>1차성 무월경 + 2차 성징 미발달/저신장 + FSH 상승</td><td>선천성 성선 저하(Gonadal dysgenesis, Turner syndrome 등)</td><td>karyotype 검사(Turner syndrome, Y 염색체 물질 확인)</td></tr><tr><td>FSH·LH 낮음/low-normal + E2 낮음, 자궁 있음</td><td>FHA/central hypogonadism, 체질적 사춘기 지연</td><td>에너지 균형·스트레스·체중 변화, 중추성 원인 평가</td></tr><tr><td>자궁 있음, 배란장애 + hyperandrogenism 소견(FSH는 흔히 정상; LH 상승 가능)</td><td>PCOS 우선 고려; 기타 androgen excess 원인 감별</td><td>testosterone, DHEA-S, 17-OHP; 필요 시 골반 초음파</td></tr><tr><td>FSH·LH 정상, 자궁 있음, 산부인과 시술력</td><td>Asherman 증후군(자궁강내 유착)</td><td>hysteroscopy</td></tr><tr><td>40세 미만 + 4개월 이상 무월경/희발월경 + FSH ＞25 IU/L</td><td>조기 난소기능부전(POI)</td><td>진단 불확실 시 4~6주 후 FSH 재검 또는 AMH 고려; 비의인성 POI 확진 시 karyotype, FMR1; 원인 불명은 21-hydroxylase 자가항체</td></tr><tr><td>TSH 이상</td><td>갑상선 질환</td><td>TFT 추가, 갑상선 질환 치료</td></tr><tr><td>Prolactin 상승</td><td>고프로락틴혈증</td><td>경도 상승은 일시적 요인·약물 확인 후 재검; 지속 시 macroprolactin/TSH 평가, 설명되지 않는 진성·지속성 상승이면 pituitary MRI</td></tr><tr><td>자궁 없음, 46,XX, 여성 범위 testosterone</td><td>Müllerian agenesis</td><td>영상으로 확인, 신장 등 동반 기형 평가, 산부인과 의뢰</td></tr><tr><td>자궁 없음, 46,XY, 남성 범위 testosterone</td><td>Androgen 불감성 증후군 우선 고려</td><td>유전 상담; 사춘기 virilization이 있으면 5α-reductase 결핍 등 46,XY DSD 감별</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 flowchart TD
-    A["병력·성장·유방 발달·외생식기 평가"] ---> B{"임신 검사 양성?"}
-    B -- 예 ---> P["임신 평가 / 복통·출혈이면 자궁외임신 배제"]
-    B -- 아니오 ---> C["FSH·LH·E2·TSH·prolactin / 골반 초음파"]
-    C ---> T["TSH·prolactin 이상은 별도 평가 / 필요 시 뇌하수체 MRI"]
-    C ---> D{"자궁 확인됨?"}
-    D -- 아니오·불명확 ---> G["MRI 등으로 확인 / 자궁 없으면 핵형·testosterone"]
-    G ---> H["46,XX·여성 범위 testosterone: Müllerian agenesis / 46,XY·남성 범위: androgen 불감성 등 DSD"]
-    D -- 예 ---> E{"FSH·E2 및 임상상"}
-    E -- FSH 상승 ---> O["성선 발달 이상·난소기능부전 / 핵형 등 원인 평가"]
-    E -- FSH 낮음·정상과 E2 낮음 ---> L["중추성 원인·FHA·체질적 사춘기 지연 감별"]
-    E -- E2 유지·FSH 정상 범위 ---> N["PCOS 등 만성 무배란 평가 / 청소년 진단 기준 적용"]
-    E ---> V["주기적 골반통·유출로 이상: 폐쇄 평가 / 정상 호르몬도 폐쇄 배제 못함"]
+    A(["1차성 무월경 의심"]) --> A1["병력·성장·유방 발달·외생식기 평가"] --> B{"임신 검사 양성?"}
+    B -- 예 --> P(["임신 평가 / 복통·출혈이면 자궁외임신 배제"])
+    B -- 아니오 --> C["FSH·LH·E2·TSH·prolactin / 골반 초음파"]
+    C --> T(["TSH·prolactin 이상은 별도 평가 / 필요 시 뇌하수체 MRI"])
+    C --> D{"자궁 확인됨?"}
+    D -- 아니오·불명확 --> G["MRI 등으로 확인 / 자궁 없으면 핵형·testosterone"]
+    G --> H(["46,XX·여성 범위 testosterone: Müllerian agenesis / 46,XY·남성 범위: androgen 불감성 등 DSD"])
+    D -- 예 --> E{"FSH·E2 및 임상상"}
+    E -- FSH 상승 --> O["성선 발달 이상·난소기능부전 / 핵형 등 원인 평가"]
+    E -- FSH 낮음·정상과 E2 낮음 --> L(["중추성 원인·FHA·체질적 사춘기 지연 감별"])
+    E -- E2 유지·FSH 정상 범위 --> N["PCOS 등 만성 무배란 평가 / 청소년 진단 기준 적용"]
+    E --> V(["주기적 골반통·유출로 이상: 폐쇄 평가 / 정상 호르몬도 폐쇄 배제 못함"])
     classDef start fill:#EAE8F8,stroke:#B0A3E0,color:#333
     classDef test fill:#E2F0D9,stroke:#A9D08E,color:#333
     classDef decision fill:#FFF2CC,stroke:#FFE699,color:#333
     classDef action fill:#FCE4D6,stroke:#F4B08A,color:#333
     class A start
-    class C,G test
+    class A1,C,G test
     class B,D,E decision
     class P,T,H,O,L,N,V action
 ```
@@ -135,23 +142,23 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A["병력·진찰 / 피임제·자궁강 시술·산후 출혈 확인"] ---> B{"임신 검사 양성?"}
-    B -- 예 ---> P["임신 평가 / 복통·출혈이면 자궁외임신 배제"]
-    B -- 아니오 ---> C["FSH·LH·E2·TSH·prolactin / 골반 초음파"]
-    C ---> T["TSH·prolactin 이상 별도 평가 / 경도 갑상선 이상도 다른 원인 배제 못함"]
-    C ---> D{"FSH·E2 및 임상상"}
-    D -- FSH 상승 ---> O["40세 미만·월경 이상 4개월 이상·FSH ＞25: POI / 불확실 시 4–6주 후 재검"]
-    O ---> O2["원인 검사·DXA·호르몬 치료 / 40–44세는 조기폐경도 고려"]
-    D -- E2 낮음·FSH 낮음 또는 정상 ---> L["FHA·중추성 성선기능저하 감별 / 뇌하수체 증상·검사 이상 시 MRI"]
-    D -- E2 유지·만성 무배란 ---> N["PCOS 등 평가 / hyperandrogenism 없어도 성인 PCOS 가능"]
-    N ---> N2["androgen excess 시 testosterone·DHEA-S·17-OHP / 급속 남성화는 종양 배제"]
-    D ---> V["자궁강 시술력·내막 이상: 유착/협착 평가 / SIS 또는 자궁경"]
+    A(["2차성 무월경 의심"]) --> A1["병력·진찰 / 피임제·자궁강 시술·산후 출혈 확인"] --> B{"임신 검사 양성?"}
+    B -- 예 --> P(["임신 평가 / 복통·출혈이면 자궁외임신 배제"])
+    B -- 아니오 --> C["FSH·LH·E2·TSH·prolactin / 골반 초음파"]
+    C --> T(["TSH·prolactin 이상 별도 평가 / 경도 갑상선 이상도 다른 원인 배제 못함"])
+    C --> D{"FSH·E2 및 임상상"}
+    D -- FSH 상승 --> O["40세 미만·월경 이상 4개월 이상·FSH ＞25: POI / 불확실 시 4–6주 후 재검"]
+    O --> O2(["원인 검사·DXA·호르몬 치료 / 40–44세는 조기폐경도 고려"])
+    D -- E2 낮음·FSH 낮음 또는 정상 --> L(["FHA·중추성 성선기능저하 감별 / 뇌하수체 증상·검사 이상 시 MRI"])
+    D -- E2 유지·만성 무배란 --> N["PCOS 등 평가 / hyperandrogenism 없어도 성인 PCOS 가능"]
+    N --> N2(["androgen excess 시 testosterone·DHEA-S·17-OHP / 급속 남성화는 종양 배제"])
+    D --> V(["자궁강 시술력·내막 이상: 유착/협착 평가 / SIS 또는 자궁경"])
     classDef start fill:#EAE8F8,stroke:#B0A3E0,color:#333
     classDef test fill:#E2F0D9,stroke:#A9D08E,color:#333
     classDef decision fill:#FFF2CC,stroke:#FFE699,color:#333
     classDef action fill:#FCE4D6,stroke:#F4B08A,color:#333
     class A start
-    class C test
+    class A1,C test
     class B,D decision
     class P,T,O,O2,L,N,N2,V action
 ```
@@ -172,7 +179,7 @@ flowchart TD
 * nonclassic CAH : 무증상이면 치료가 불필요할 수 있으며, 임상적으로 의미 있는 hyperandrogenism 또는 임신 희망 환자에서 glucocorticoid를 선택적으로 고려
 * 해부학적 이상·종양에 대한 전문 치료; Müllerian agenesis의 질 기능 개선은 비수술적 확장술을 우선 고려함
 * 만성 무배란(PCOS 등)에서 unopposed estrogen 지속 시 자궁내막 보호 목적의 주기적 progestin, 복합경구피임제 또는 적합한 경우 52 ㎎ LNG-IUS 고려. PCOS 주기 조절·내막 보호 목적과 미레나의 국내 개별 허가 적응증을 구분함
-* 합병증으로서의 골다공증 평가 및 관리 (☞ p.804)
+* 저골밀도·골절 위험과 심혈관·정신건강을 원인에 맞게 평가하고 관리함
 
 ***
 
@@ -180,10 +187,13 @@ flowchart TD
 
 * 규칙적 식사, 균형 잡힌 영양 섭취; 저체중인 경우 점진적 체중 증량 목표 설정
 * 과도한 유산소·고강도 운동을 하는 경우 훈련량 조정 및 스포츠의학 상담
-* 여성 운동선수 세 요소(Female Athlete Triad)/RED-S 인지 - 에너지 가용성 저하, 무월경, 골밀도 저하가 함께 나타나는지 확인하고 영양사·스포츠의학·정신건강의학과 다학제 접근
+* 여성 운동선수 삼징후/REDs 인지 : 에너지 부족, 월경·배란 기능 저하, 골밀도 저하·골 스트레스 손상을 함께 평가하고 영양사·스포츠의학·정신건강의학과와 협진함. 세 요소가 모두 나타나야 평가하는 것은 아니며 고정된 에너지 가용성 수치 하나로 진단하지 않음
+* FHA 회복은 체중·섭취·운동·반복되는 자연 월경과 골 건강을 함께 추적함. 한 번 월경이 재개되었다고 배란·호르몬 상태·골 건강이 완전히 회복된 것으로 판단하지 않음 <mark style="color:$info;">[Female Athlete Triad Coalition 2025 update; 2026 권호]</mark>
 * 수면 위생 및 스트레스 관리; 필요시 정신건강의학과 의뢰
-* 골밀도 검사(DXA) : FHA에서 무월경 6개월 이상, 심한 영양결핍·에너지 부족 또는 취약골절이면 더 일찍 시행; POI는 진단 시 시행 권고함. PCOS 등 모든 무월경에 6개월 기준을 일괄 적용하지 않음(☞ p.804)
+* 골밀도 검사(DXA) : FHA에서 무월경 6개월 이상, 심한 영양결핍·에너지 부족 또는 취약골절이면 더 일찍 시행; POI는 진단 시 시행 권고함. PCOS 등 모든 무월경에 6개월 기준을 일괄 적용하지 않음
+* 청소년·폐경 전 여성의 DXA는 원칙적으로 Z-score를 사용함. Z-score ≤−2.0은 연령 기대치 미만이며 수치만으로 골다공증을 확진하지 않음; 청소년은 골절력·성장 상태를 함께 평가함 <mark style="color:$info;">[ISCD Official Positions]</mark>
 * 칼슘·비타민 D 섭취 및 결핍을 평가하고 필요 시 보충함
+* POI 추적 : 진단 시 혈당·지질, 이후 적어도 매년 혈압·체중·흡연 상태와 치료 순응도 확인; TSH는 정상이어도 5년마다 또는 증상 발생 시 재검함. 저골밀도·골다공증이면 DXA를 1~3년 간격으로 재평가하며, 초기 골밀도가 정상이고 적절한 호르몬 치료를 유지하면 5년 이내 반복 DXA의 이득은 작음 <mark style="color:$info;">[국제 POI 가이드라인 2024/2025]</mark>
 
 ***
 
@@ -196,39 +206,46 @@ flowchart TD
 ### <mark style="color:orange;">원인 질환에 대한 치료</mark>
 
 * 갑상선기능저하증 : levothyroxine <mark style="color:blue;">\[씬지로이드]</mark> - TSH 재검하며 용량 조정
-* 고프로락틴혈증 : prolactin 경도 상승은 약물·스트레스 등 일시적 요인 확인 후 재검하고, 지속 시 macroprolactin/TSH 평가; 설명되지 않는 진성·지속성 고프로락틴혈증은 pituitary MRI로 평가하고 원인에 따라 dopamine agonist - cabergoline <mark style="color:blue;">\[카버락틴]</mark>(주 1\~2회) 또는 bromocriptine 고려
+* 고프로락틴혈증 : 원인을 교정하고, 증상을 유발하는 prolactinoma 등은 전문의와 dopamine agonist 치료를 결정함. Cabergoline <mark style="color:blue;">\[카버락틴]</mark> 초기 예시는 **주당 총 0.5 ㎎**을 1~2회 분복(예: 0.25 ㎎씩 주 2회), 식사 직후 복용; 매달 prolactin·내약성을 확인하며 조절함. 주간 용법을 매일 복용하지 않도록 교육함
+  * 판막질환·섬유증 병력, 기립성 저혈압, 충동조절장애·정신증 위험을 확인하고 장기 치료 전 심장초음파 등 평가를 전문의와 계획함. 항정신병제 복용 환자에게 임의 추가하지 않음
+  * 임신 희망·임신 확인 시 약물 계획은 종양 크기·침범 정도에 따라 전문의가 결정함
 
 ### <mark style="color:orange;">기능성 시상하부 무월경(FHA) - 호르몬 치료</mark>
 
 * 1차 치료는 에너지 균형 회복(체중 증량, 운동량 조정, 영양 개선)과 심리적 지지이며, 치료 반응을 정기적으로 재평가 <mark style="color:$info;">[Endocrine Society 2017 Strong recommendation]</mark>
-* 월경 재개나 골밀도 개선만을 목적으로 한 복합 경구 피임제 단독 처방은 권장하지 않음 - 경구 estrogen은 간 초회통과 효과로 IGF-1을 억제하여 골밀도 개선 효과가 제한적임 <mark style="color:$info;">[Endocrine Society 2017]</mark>
-* 영양·심리·운동 조정을 충분히 시행했음에도 월경이 회복되지 않는 경우, 저골밀도/골 취약성을 함께 고려하여 경피 estradiol + 주기적 경구 progestin(경구 피임제가 아닌 형태) 단기 사용을 고려 <mark style="color:$info;">[Endocrine Society 2017 Conditional recommendation]</mark>. 지침은 모든 환자에 적용하는 고정 대기 기간을 정하지 않으므로 영양 회복 경과·골 위험에 따라 전문의와 결정함
+* 월경 재개나 골밀도 개선만을 목적으로 한 복합 경구 피임제 단독 처방은 권장하지 않음 - 특히 ethinyl estradiol 함유 경구피임제는 간 초회통과에 따른 IGF-1 억제 등으로 골밀도 개선 효과가 제한적임 <mark style="color:$info;">[Endocrine Society 2017]</mark>
+* 영양·심리·운동 조정을 충분히 시행했음에도 월경이 회복되지 않는 경우, 저골밀도/골 취약성을 함께 고려하여 경피 estradiol + 주기적 경구 progestin(경구 피임제가 아닌 형태) 단기 사용을 고려 <mark style="color:$info;">[Endocrine Society 2017 Conditional recommendation]</mark>. 2017 FHA 지침은 고정 대기 기간을 정하지 않았으나, 2025 운동선수 삼징후 합의문은 건강한 체중·에너지 상태 회복 후 6~12개월에도 자연 월경이 돌아오지 않거나 충분한 비약물 치료에도 지속될 때 호르몬 보충을 권고함. 새 골절·골 건강 악화가 있으면 특히 적극적으로 고려하며 모든 FHA에 일률적으로 12개월을 기다리게 하지 않음 <mark style="color:$info;">[Female Athlete Triad Coalition 2025 update; 2026 권호]</mark>
 * 주요 무작위시험은 17β-estradiol 패치 100 ㎍/일 전달(주 2회 교체) + micronized progesterone 200 ㎎/일, 매월 12일을 사용함 <mark style="color:$info;">[Ackerman 등 2019]</mark>. 패치의 일일 전달량과 겔에 바르는 ㎎ 용량은 직접 환산하지 않으며, 특정 저용량 겔의 동일한 골 효과가 입증된 것은 아님
 * 피임 목적으로 복합 경구피임제를 선택하면 자연 월경 회복을 가릴 수 있고 에너지 부족이 지속되면 골 소실도 계속될 수 있음을 설명함
+* FHA의 골 건강 개선을 위해 bisphosphonate·denosumab·testosterone·leptin을 일상적으로 사용하지 않음. 심한 저골밀도·반복 골절 또는 치료 불응은 골대사 전문의와 협진함
 
 ### <mark style="color:orange;">무배란성 무월경/불규칙 주기 - 호르몬제</mark> (☞ [피임](131_-contraception.md))
 
 * medroxyprogesterone acetate(MPA) <mark style="color:blue;">\[프로베라]</mark> : 국내 속발성 무월경 허가 용법은 5\~10 ㎎/일 ×5\~10일; 충분히 estrogen에 노출된 자궁내막의 전환에는 10 ㎎/일 ×10일. 중단 후 보통 3\~7일 내 소퇴성 출혈이 나타남
   * 지속적 자궁내막 보호가 필요한 만성 무배란은 1회 투여로 종료하지 않고 주기적 반복 계획을 세움(통상 1\~3개월마다, 위험도·출혈 양상에 따라 조정)
   * 마지막 투여 후 소퇴성 출혈이 발생하면 자궁내막이 충분한 estrogen에 노출되어 있었고 유출로가 개방되어 있음을 시사하며, 무배란성 무월경(예: PCOS)에 부합
-  * 출혈이 없으면 저에스트로겐 상태(FHA·POI) 또는 자궁내막 손상·유출로 이상을 고려
+  * 출혈이 없으면 임신 가능성·복약 이행을 다시 확인하고 저에스트로겐 상태(FHA·POI) 또는 자궁내막 손상·유출로 이상을 재평가함. 원인 확인 없이 반복 증량하지 않음
+  * 임신·임신 의심, 수유, 원인 미확인 생식기 출혈, 유방암·호르몬 의존성 종양, 혈전색전증·혈전성향증, 간질환 등 국내 금기를 확인함. 장기 반복 사용 시 수막종 병력을 확인하고, 수막종이 진단되면 중단함 <mark style="color:$info;">[프로베라 국내 설명서 2025 개정]</mark>
 * 만성 무배란/PCOS의 주기 조절·자궁내막 보호 : 복합 경구 피임제(예: ethinyl estradiol/drospirenone <mark style="color:blue;">\[야스민]</mark>)를 통상 용법으로 사용; 야스민의 국내 허가 적응증은 피임이므로 PCOS 주기 조절·자궁내막 보호 목적은 허가 외 사용임
 * 저에스트로겐 상태와 유출로/자궁내막 이상의 감별이 필요한 경우 : estrogen-progestin challenge test를 보조적으로 고려
-* 복합 경구피임제 전 혈압, 35세 이상 흡연, 조짐편두통, 혈전증 병력·위험, 중증 간질환 등 금기·위험을 확인함(☞ [피임](131_-contraception.md)); 단순히 비만·흡연 여부만으로 일괄 판단하지 않음
+* 복합 경구피임제 전 혈압, **35세 이상 흡연**, 조짐편두통, 혈전증 병력·위험, 중증 간질환 등 금기·위험을 확인함(☞ [피임](131_-contraception.md)). PCOS에 특정 복합제가 우월하다는 근거는 부족하므로 저용량 estrogen·개인별 혈전 위험을 고려하여 선택함
+  * Drospirenone 함유제는 고칼륨혈증 소인(신기능장애·간장애·부신부전)을 확인함. Spironolactone, ACE 억제제/ARB, 칼륨 보존성 이뇨제 등 칼륨 상승 약물을 장기 병용하면 첫 복용 주기에 혈청 칼륨을 확인함
 * PCOS 확진 시 혈압·지질·혈당 평가; 혈당은 BMI와 무관하게 75 g OGTT가 가장 정확하며 불가능하면 공복혈당/HbA1c를 고려함. 무증상 자궁내막암 일괄 선별은 권장하지 않지만 비정상 출혈·지속적 내막 비후는 조직검사 필요성 평가함 <mark style="color:$info;">[국제 PCOS 가이드라인 2023]</mark>
-* 임신 희망 시 복합 경구피임제 대신 원인별 불임 평가·배란 유도 상담을 의뢰함
+* Metformin은 PCOS에서 대사 위험이 높거나 복합 경구피임제를 사용할 수 없는 월경 불규칙 환자에서 고려할 수 있음(PCOS 목적 국내 허가 외 사용). 무월경이 지속되면 metformin만으로 자궁내막 보호가 충분하다고 보지 않으며 주기적 progestin 등을 별도 계획함 <mark style="color:$info;">[국제 PCOS 가이드라인 2023]</mark>
+* 임신 희망 시 원인별 난임 평가·배란 유도 상담을 의뢰함. PCOS의 무배란성 난임에서 다른 난임 요인이 없으면 letrozole이 지침상 1차 배란 유도제이나 국내 배란 유도 목적은 허가 외 사용임. FHA에는 PCOS의 배란 유도 요법을 그대로 적용하지 않고 에너지 상태를 먼저 교정함
 * 호르몬 치료의 기간·중단 여부는 원인에 따라 결정
   * FHA : 생활습관 교정을 지속하며 필요 시 단기 경피 E2 + 주기적 progestin 사용 후 정기 재평가
   * POI : 금기가 없으면 증상 유무와 무관하게 통상 자연 폐경 연령까지 호르몬 치료 권고; 자궁이 있으면 progestogen 병용. 골 보호를 위한 성인 지침 용량은 경구 E2 ≥2 ㎎/일 또는 경피 패치 전달량 ≥100 ㎍/일(또는 동등 용량)을 제안함. 사춘기 미완료 환자에는 성인 용량을 바로 적용하지 않고 점진적 사춘기 유도 요법을 사용함
-  * POI에서 복합 경구피임제를 호르몬 보충·피임 목적으로 선택하면 골 보호를 위해 연속 또는 연장 주기요법을 고려하며, 제품 허가 용법과 구분함 <mark style="color:$info;">[국제 POI 가이드라인 2024/2025]</mark>
-  * POI에서 난소 활동·자연 임신이 간헐적으로 가능하며 호르몬 대체요법은 피임 효과가 없으므로 피임·임신 희망을 별도로 상담함 <mark style="color:$info;">[국제 POI 가이드라인 2024/2025]</mark>
+  * 사춘기 미완료 POI는 소아내분비·산부인과에서 저용량 E2를 시작하여 약 2~3년에 걸쳐 증량하고, 대개 E2 시작 약 2년 뒤 또는 파탄출혈 발생 시 주기적 progestogen을 추가함. 복합 경구피임제는 사춘기 유도에 사용하지 않음
+  * POI에서 복합 경구피임제를 호르몬 보충·피임 목적으로 선택하면 골 보호를 위해 **연속 또는 연장 주기요법을 권고**하며, 제품 허가 용법과 구분함 <mark style="color:$info;">[국제 POI 가이드라인 2024/2025]</mark>
+  * POI에서 난소 활동·자연 임신이 간헐적으로 가능하며 호르몬 대체요법은 피임 효과가 없으므로 피임·임신 희망을 별도로 상담함. 자연 임신 가능성을 확실히 높이는 약물·시술은 입증되지 않았으므로 난임 전문상담을 제공함 <mark style="color:$info;">[국제 POI 가이드라인 2024/2025]</mark>
 
 ***
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 * Asherman 증후군(자궁강내 유착) : hysteroscopic adhesiolysis
-* Müllerian agenesis : 심리 지지·동반 기형 평가; 환자가 준비되고 원할 때 비수술적 질 확장술 우선, 실패하거나 충분한 상담 후 수술을 선호하면 질 조성술 고려함 - 전문 클리닉 의뢰. 질 조성술은 자궁을 형성하거나 월경을 회복시키는 치료가 아님[ACOG Committee Opinion 728]
+* Müllerian agenesis : 심리 지지·동반 기형 평가; 환자가 준비되고 원할 때 비수술적 질 확장술 우선, 실패하거나 충분한 상담 후 수술을 선호하면 질 조성술 고려함 - 전문 클리닉 의뢰. 질 조성술은 자궁을 형성하거나 월경을 회복시키는 치료가 아님 <mark style="color:$info;">[ACOG Committee Opinion 728]</mark>
 * 해부학적 폐쇄(imperforate hymen, transverse vaginal septum) : 수술적 교정
 * 뇌하수체 종양, 난소·부신 종양 의심 시 → 해당 전문과 의뢰
 
@@ -240,7 +257,9 @@ N91.0 원발성 무월경 Primary amenorrhoea
 
 N91.1 이차성 무월경 Secondary amenorrhoea
 
-N91.2 무월경, 상세불명 Amenorrhoea, unspecified
+N91.2 상세불명의 무월경 Amenorrhoea, unspecified
+
+✽KCD-9 기준. 원인 질환이 확진되면 해당 코드의 적용·병기 여부를 함께 판단함
 
 ***
 
@@ -260,7 +279,7 @@ N91.2 무월경, 상세불명 Amenorrhoea, unspecified
 > 야스민정 1T  qd  ×21일(휴약 7일), 매달 반복
 > ```
 >
-> _✽PCOS 주기 조절·자궁내막 보호 목적은 국내 허가 외 사용임(허가 적응증: 피임). 혈압·조짐편두통·흡연·혈전증 위험 등 사전 확인; 임신 희망 환자에서는 별도 치료 계획함._
+> _✽PCOS 주기 조절·자궁내막 보호 목적은 국내 허가 외 사용임(허가 적응증: 피임). 혈압·조짐편두통·35세 이상 흡연·혈전증 위험·신기능장애·부신부전 및 칼륨 상승 약물 병용을 사전 확인함. 임신 희망 환자에서는 별도 치료 계획함. POI의 호르몬 보충 목적으로는 이 21/7 용법을 그대로 적용하지 않고 연속·연장 요법을 별도 계획함._
 
 > **처방례 3. 기능성 시상하부 무월경, 충분한 생활습관 교정에도 월경이 회복되지 않는 경우**
 >
@@ -269,7 +288,7 @@ N91.2 무월경, 상세불명 Amenorrhoea, unspecified
 > 프로베라정 5 ㎎/T  2T  qd  ×12~14일/매월(자궁이 있는 경우)
 > ```
 >
-> _✽전문의 협진 후 사용하는 요법 예시임. FHA에 대한 estradiol 사용은 허가 외 사용임. 국내 에스트레바겔은 1회 펌프당 E2 0.5 ㎎이며 폐경 관련 estrogen 결핍의 통상 허가 용법은 1일 1.5 ㎎(3회 누름), 24\~28일임. 이 허가 용법을 FHA의 검증된 표준 용량으로 간주하지 않으며, 패치 연구의 100 ㎍/일 전달량과 겔 도포량을 직접 환산하지 않음. MPA 12\~14일은 국내 estrogen 병용 주기적 요법에 맞춘 예시이며, E2 용량·출혈 양상에 따라 조정함. 피임 효과는 없음._
+> _✽전문의 협진 후 사용하는 요법 예시임. FHA에 대한 estradiol 사용은 허가 외 사용임. 국내 에스트레바겔은 1회 펌프당 E2 0.5 ㎎이며 폐경 관련 estrogen 결핍의 통상 허가 용법은 1일 1.5 ㎎(3회 누름), 24\~28일임. 이 허가 용법을 FHA의 검증된 표준 용량으로 간주하지 않으며, 패치 연구의 100 ㎍/일 전달량과 겔 도포량을 직접 환산하지 않음. MPA 12\~14일은 폐경기 여성의 국내 estrogen 병용 주기적 허가 용법을 참고한 FHA 허가 외 요법 예시이며, E2 용량·출혈 양상에 따라 조정함. 본 처방례는 사춘기 유도용이 아님. 피임 효과는 없음._
 
 > **처방례 4. 갑상선기능저하증 동반**
 >
@@ -291,7 +310,7 @@ N91.2 무월경, 상세불명 Amenorrhoea, unspecified
 
 > **경피 에스트로겐 + 주기적 프로게스틴 요법**
 >
-> * 경피 17β-estradiol은 복합 경구피임제(ethinyl estradiol 함유)보다 FHA에서 골 건강 측면에 유리한 근거가 있습니다(간 초회통과 효과를 피함).
+> * 경피 17β-estradiol은 특히 패치 연구에서 ethinyl estradiol 함유 복합 경구피임제보다 골밀도에 유리한 근거가 있습니다. 겔과 패치는 투여량을 직접 환산할 수 없으며 골절 예방 효과까지 확립된 것은 아닙니다.
 > * 자궁이 있는 경우 자궁내막 보호를 위해 주기적 progestin을 병용하며, 본 처방례에서는 MPA를 매월 12~14일 투여합니다 - 임의로 생략하면 자궁내막증식증 위험이 증가합니다.
 > * FHA에서 월경 재개나 골밀도 개선 목적만으로 복합 경구피임제를 사용하지 않습니다. 피임 목적으로 사용할 때는 자연 월경 회복을 가릴 수 있으므로 영양·골 건강을 따로 추적합니다.
 > * 경피 에스트로겐 병용요법과 간헐적 프로베라 복용에는 피임 효과가 없으며, 월경이 돌아오기 전에도 임신할 수 있습니다.
@@ -303,6 +322,32 @@ N91.2 무월경, 상세불명 Amenorrhoea, unspecified
 > * 새로 생긴 유즙 분비만 있다면 외래 평가를 예약하고, 두통·시야 이상 동반 시 신속히 평가
 > * 호르몬제 사용 중 한쪽 다리의 통증·부종, 갑작스러운 흉통·호흡곤란(혈전증 의심) - 즉시 응급 평가
 > * FHA에서 무월경 6개월 이상 또는 심한 영양결핍·취약골절이 있는 경우 - 골밀도 평가 상담; POI는 진단 시 평가
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* ASRM Practice Committee. [Current evaluation of amenorrhea: a committee opinion](https://www.asrm.org/practice-guidance/practice-committee-documents/current-evaluation-of-amenorrhea/). Fertil Steril. 2024;122:52–61.
+* Gordon CM, et al. [Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline](https://www.endocrine.org/clinical-practice-guidelines/hypothalamic-amenorrhea). J Clin Endocrinol Metab. 2017;102:1413–1439.
+* Teede HJ, et al. [Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome](https://integration.asrm.org/practice-guidance/practice-committee-documents/recommendations-from-the-2023-international-evidence-based-guideline-for-the-assessment-and-management-of-polycystic-ovary-syndrome/). 2023.
+* ESHRE/ASRM/CRE-WHiRL/IMS. [Evidence-based guideline: premature ovarian insufficiency](https://academic.oup.com/hropen/article/2024/4/hoae065/7918369). Hum Reprod Open. 2024;2024:hoae065. [ASRM 게시본(2025)](https://www.asrm.org/practice-guidance/practice-committee-documents/evidence-based-guideline-premature-ovarian-insufficiency--2024/).
+* Ackerman KE, et al. [Oestrogen replacement improves bone mineral density in oligo-amenorrhoeic athletes: a randomised clinical trial](https://pubmed.ncbi.nlm.nih.gov/30301734/). Br J Sports Med. 2019;53:229–236.
+* ACOG Committee Opinion No. 728. [Müllerian Agenesis: Diagnosis, Management, and Treatment](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/01/mullerian-agenesis-diagnosis-management-and-treatment). 2018.
+* Society for Endocrinology. [Emergency management of pituitary apoplexy in adult patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC5314810/). Endocr Connect. 2016;5:G12–G15.
+* Monash University. [PCOS/PMOS 국제 지침 및 2026년 명칭 변경 안내](https://www.monash.edu/medicine/mchri/pcos/guideline).
+* Leeds Teaching Hospitals NHS Trust. [Polycystic Ovary Syndrome](https://www.leedsth.nhs.uk/patients/resources/polycystic-ovary-syndrome/) (주기적 progestogen 반복 간격 참고).
+* Williams NI, et al. [2025 Update to the Female Athlete Triad Coalition Consensus Statement Part 2: Clinical Guidelines for Screening, Diagnosis, Treatment, and Return to Play for Adolescents and Adults](https://link.springer.com/article/10.1007/s40279-025-02332-0). Sports Med. 2026;56:375–427. 2025-12-31 온라인 출판.
+* Petersenn S, et al. [Diagnosis and management of prolactin-secreting pituitary adenomas: a Pituitary Society international Consensus Statement](https://www.nature.com/articles/s41574-023-00886-5). Nat Rev Endocrinol. 2023;19:722–740.
+* ISCD. [Official Adult Positions](https://iscd.org/learn/official-positions/adult-positions/) 및 [Official Pediatric Positions](https://iscd.org/learn/official-positions/pediatric-positions/). DXA 해석 기준.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라 — 의약품 품목허가정보](https://nedrug.mfds.go.kr/index). 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
+* 프로베라정 5·10 ㎎ 국내 제품설명서(2025-06-09 개정): 속발성 무월경·estrogen 병용 용법 및 금기·장기 투여 주의사항 대조.
+* 야스민정·카버락틴정·에스트레바겔: 의약품안전나라 품목정보에서 적응증·용법·금기 확인(2026-10-29). 에스트레바겔 국내 판매는 제조·판매사 공지도 함께 확인.
+* KCD-9 상병분류기호: 사용자 제공 「KCD9_251216(4).xlsx」의 완전코드와 대조.
 
 ***
 
@@ -321,9 +366,10 @@ N91.2 무월경, 상세불명 Amenorrhoea, unspecified
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
-* **적정 체중을 유지하십시오.** 너무 마르거나 급격히 체중이 늘면 호르몬 균형이 깨질 수 있습니다.
+* **충분히 먹고 체중을 급격하게 줄이지 마십시오.** 체중이 정상이어도 먹는 양에 비해 운동량이 많으면 월경이 멈출 수 있습니다. 체중 조절 방향은 원인에 따라 달라지므로 의료진과 정하십시오.
 * **운동량을 조절하십시오.** 과도한 운동은 오히려 월경을 멈추게 할 수 있습니다.
 * **스트레스를 관리하십시오.** 심리적 부담이 큰 경우 상담이나 인지행동치료가 도움이 됩니다.
+* 월경이 한 번 돌아왔다고 치료를 임의로 끝내지 말고 주기·영양·뼈 건강을 계속 확인하십시오.
 
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
@@ -338,25 +384,4 @@ N91.2 무월경, 상세불명 Amenorrhoea, unspecified
 * **호르몬제 사용 중 한쪽 다리가 붓고 아프거나 갑자기 흉통·호흡곤란이 생기면 즉시 응급 평가를 받으십시오.**
 * 수유 중이 아닌데 유즙이 나오면 외래 진료를 예약하십시오.
 * 임신 가능성이 있는데 월경이 없으면 먼저 임신검사를 하십시오. 음성이어도 가능성이 남으면 진료를 받으십시오.
-* 15세까지 초경이 없거나 13세까지 유방 발달이 없으면 평가가 필요합니다. 이전에 규칙적이던 월경이 3개월, 불규칙하던 월경이 6개월 이상 없으면 진료를 받으십시오. 청소년에서 초경 후 1년이 지났는데 한 번이라도 월경 간격이 90일을 넘으면 더 일찍 상담하십시오.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* ASRM Practice Committee. [Current evaluation of amenorrhea: a committee opinion](https://www.asrm.org/practice-guidance/practice-committee-documents/current-evaluation-of-amenorrhea/). Fertil Steril. 2024;122:52–61.
-* Gordon CM, et al. [Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline](https://www.endocrine.org/clinical-practice-guidelines/hypothalamic-amenorrhea). J Clin Endocrinol Metab. 2017;102:1413–1439.
-* Teede HJ, et al. [Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome](https://integration.asrm.org/practice-guidance/practice-committee-documents/recommendations-from-the-2023-international-evidence-based-guideline-for-the-assessment-and-management-of-polycystic-ovary-syndrome/). 2023.
-* ESHRE/ASRM/CRE-WHiRL/IMS. [Evidence-based guideline: premature ovarian insufficiency](https://academic.oup.com/hropen/article/2024/4/hoae065/7918369). Hum Reprod Open. 2024;2024:hoae065. [ASRM 게시본(2025)](https://www.asrm.org/practice-guidance/practice-committee-documents/evidence-based-guideline-premature-ovarian-insufficiency--2024/).
-* Ackerman KE, et al. [Oestrogen replacement improves bone mineral density in oligo-amenorrhoeic athletes: a randomised clinical trial](https://pubmed.ncbi.nlm.nih.gov/30301734/). Br J Sports Med. 2019;53:229–236.
-* ACOG Committee Opinion No. 728. [Müllerian Agenesis: Diagnosis, Management, and Treatment](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/01/mullerian-agenesis-diagnosis-management-and-treatment). 2018.
-* Society for Endocrinology. [Emergency management of pituitary apoplexy in adult patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC5314810/). Endocr Connect. 2016;5:G12–G15.
-* Monash University. [PCOS/PMOS 국제 지침 및 2026년 명칭 변경 안내](https://www.monash.edu/medicine/mchri/pcos/guideline).
-* Leeds Teaching Hospitals NHS Trust. [Polycystic Ovary Syndrome](https://www.leedsth.nhs.uk/patients/resources/polycystic-ovary-syndrome/) (주기적 progestogen 반복 간격 참고).
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. [의약품안전나라 — 의약품 품목허가정보](https://nedrug.mfds.go.kr/index). 국내 제품별 적응증·용법·금기 및 허가 상태 확인.
+* 15세까지 초경이 없거나 13세까지 유방 발달이 없으면 평가가 필요합니다. 이전에 규칙적이던 월경이 3개월, 불규칙하던 월경이 6개월 이상 없으면 진료를 받으십시오. 유방 발달 후 3년이 지나도 초경이 없거나, 청소년에서 초경 후 1년이 지났는데 한 번이라도 월경 간격이 90일을 넘으면 더 일찍 상담하십시오.

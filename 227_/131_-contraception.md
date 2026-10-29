@@ -10,7 +10,9 @@
 
 * 개별 의학적 상태에 따른 피임법의 상대적 적합성은 4단계로 분류: Category 1(제한 없음), 2(이득이 위험보다 큼), 3(위험이 대체로 이득보다 큼; 다른 적합한 방법 우선), 4(용납 불가한 건강 위험; 사용하지 않음) <mark style="color:$info;">[CDC US MEC, 2024]</mark>
 * 2024년 개정에서 만성콩팥병(CKD)이 처음으로 별도 항목으로 추가되었으며, 비만·수술 전후·정맥혈전색전증(항응고제 병용 포함)·전신홍반루푸스·간경변·고형장기이식 등 다수 항목의 권고가 갱신됨 <mark style="color:$info;">[CDC US MEC, 2024]</mark>
-* U.S. SPR 2024는 기존 IUD 삽입 통증 관리 권고를 갱신함; lidocaine 국소 도포/자궁경부 주위 차단과 환자 중심의 통증 관리 계획을 강조함(하단 핵심 복약 지도 참고)
+* 이 장의 MEC 수치와 누락·보조 피임 알고리듬은 **CDC U.S. MEC/SPR 2024 기준**임. WHO MEC 6판·SPR 4판(2025)과 일부 분류·사용 지침이 다르므로 서로의 수치를 혼용하지 않음. 국내 제품 허가사항의 차이는 해당 항목에 별도로 표시함
+* WHO 「Expanding contraceptive options」(2026-09)는 복합 경구피임약의 연장·연속 복용, etonogestrel 이식제의 5년 사용 및 저용량 mifepristone 응급피임을 다룸; 국제 권고가 국내 허가를 자동으로 변경하지 않음 <mark style="color:$info;">[WHO, 2025·2026]</mark>
+* U.S. SPR 2024는 IUD 삽입 시 국소 lidocaine/자궁경부 주위 차단과 환자 중심의 통증 관리 계획을 강조함; ACOG 2025도 시술 전 통증 조절 선택지를 상담·제공하도록 권고함
 
 #### <mark style="color:$primary;">임신이 아니라고 합리적으로 확신할 수 있는 기준</mark>
 
@@ -30,15 +32,24 @@
 
 ✽Lactational amenorrhea method(LAM)는 **출산 후 6개월 미만 + 무월경 + 완전 또는 거의 완전 모유수유(전체 수유의 ≥85%가 모유수유)**의 세 조건을 모두 만족할 때 효과적인 일시적 피임법이며, 어느 한 조건이라도 충족하지 않게 되면 다른 피임법이 필요함
 
+## <mark style="color:green;">피임 전 평가</mark>
+
+* 향후 임신 계획, 사용자의 선호·복약 지속 가능성, 출혈 양상·월경통, 이전 피임 경험, STI 노출 및 비용·접근성을 확인함. 높은 효과만을 이유로 특정 방법을 강요하지 않으며, IUD·이식제는 원하면 언제든 제거 상담이 가능함
+* 마지막 정상 월경, **이번 주기의 모든 무방비 성교 날짜**, 기존 피임법의 누락·지연 및 마지막 사용일을 확인함. 응급피임 필요성과 정규 피임법 시작 가능성을 각각 판단함
+* 혈압(CHC), 임신 여부, 유방암·혈전·편두통 조짐·간질환, 산후·수유 및 상호작용 약물을 확인함. 건강한 사용자에게 혈전성향·간기능·지질·혈당 검사를 일률적으로 요구하지 않으며, drospirenone의 K 검사는 위험 인자에 따라 시행함
+* 지속 출혈·골반통이 있으면 임신/자궁외임신, STI·PID, 자궁경부 병변, 폴립·근종 등 기질적 질환과 약물 영향을 감별함. 과다 출혈·빈혈 증상에는 CBC 등 추가 검사를 고려함
+
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 호르몬 피임제/IUD 사용 중 급성 심한 하복부 통증과 무월경·비정상 질 출혈·실신 중 하나 이상 동반  `자궁외임신 의심`
+* 호르몬 피임제/IUD 사용 중 갑자기 발생한 심한 하복부 통증(무월경·비정상 질 출혈·실신 동반 시 특히)  `자궁외임신 의심`
 * 급성 흉통, 호흡곤란 또는 객혈(특히 estrogen 함유 제제 사용자)  `폐색전증 의심`
 * 한쪽 하지의 심한 부종·통증·발적·열감  `DVT 의심`
-* 신경학적 결손, 시야 소실/복시 또는 심한 구음 장애를 동반한 두통  `뇌졸중 의심`
-* IUD 삽입 후 심한 골반통, 고열·오한, 저혈압·빈맥 또는 복막 자극 징후  `중증 PID` `패혈증` `천공 의심`
+* 갑자기 발생한 편측 마비·감각 저하, 시야 소실/복시 또는 구음 장애(두통 유무와 무관)  `뇌졸중 의심`
+* 갑자기 시작된 극심한 두통  `뇌출혈 의심`
+* IUD 삽입 후 심한 골반통에 고열·오한, 저혈압·빈맥 또는 복막 자극 징후 동반  `중증 PID`  `패혈증`  `천공 의심`
+* 다량의 질 출혈에 실신·심한 어지럼·저혈압 동반  `급성 출혈`
 * IUD 삽입 중/후 비정상적으로 심한 통증·출혈 또는 천공 의심 소견  `자궁 천공 의심`
 
 → 응급 평가/의뢰. 천공 의심 시 진행 중인 삽입을 중단함; 임신 반응 양성을 평가의 필수 조건으로 삼지 않음.
@@ -46,21 +57,53 @@
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * CHC(estrogen 함유) 사용 중 새로 발생한 aura 동반 편두통 **(당일)**  `새 aura`
-* IUD 실이 새로 만져지지 않거나 길이가 현저히 변함(임신 징후 유무와 무관)  `위치 이상` `탈출 가능성`
+* IUD 실이 새로 만져지지 않거나 길이가 현저히 변함(임신 징후 유무와 무관)  `위치 이상`  `탈출 가능성`
+* IUD 사용 중 임신 검사 양성(통증·출혈 유무와 무관) **(당일)**  `자궁외임신 가능성`
 * 응급피임 후 3주 내 정상 월경/소퇴성 출혈 없음, 예정일보다 LNG 5일 이상·UPA 7일 초과 지연 또는 비정상 출혈·임신 증상  `피임 실패 가능성`
-* IUD 사용 중 새로 생긴 골반통, 발열 또는 화농성 분비물 **(당일)**  `감염` `천공` `부분 탈출 가능성`
+* IUD 사용 중 새로 생긴 골반통, 발열 또는 화농성 분비물 **(당일)**  `감염`  `천공`  `부분 탈출 가능성`
 
 → 새 aura에서는 estrogen을 즉시 중단하고 대체 피임을 상담함; 지속 신경학적 결손은 즉각 조치. IUD 위치 이상은 임신 검사·초음파로 확인하고 그 전에는 콘돔 사용/성관계 중지; 최근 무방비 성교가 있으면 응급피임도 평가함. 감염 의심 소견은 하나만 있어도 평가하며, 임신 의심에 심한 하복부 통증이 동반되면 응급 평가함.
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 새로운 피임법 시작 후 3개월 이상 지속되는 불규칙 출혈  `지속 출혈`
+* 지속되거나 새로 악화된 불규칙 출혈·성교 후 출혈  `임신`  `감염`  `기질적 병변 가능성`
 * 유방통·기분 변화·체중 변화 등 지속 부작용  `피임법 재평가`
 * DMPA 장기 사용과 골절·골다공증 고위험 인자 동반  `골 건강 위험`
 
-→ 지속 출혈은 임신·감염·기질적 원인과 약물 상호작용을 평가하고 피임법을 조정함. DMPA의 위험–편익을 재평가하되 routine DXA를 일률적으로 시행하지 않음.
+→ 경미한 초기 점상출혈은 흔하지만, 지속·악화 또는 새 출혈에는 임신·감염·기질적 원인과 약물 상호작용을 평가함. 증상이 있으면 3개월까지 기다리게 하지 않음. DMPA의 위험–편익을 재평가하되 routine DXA를 일률적으로 시행하지 않음.
 
 ***
+
+```mermaid
+flowchart TD
+    S["임신 가능성·피임 실패 의심 또는 피임 시작 상담"]
+    S --> A{"최근 5일 내 무방비 성교 또는 피임 실패?"}
+    A -- "있음" ---> B["응급피임 필요성 평가"]
+    A -- "없음" ---> C["임신을 합리적으로 배제 가능?"]
+    B -- "LNG 선택" ---> D["적격한 호르몬 피임법 즉시 시작·재개"]
+    B -- "UPA 선택" ---> E["5일간 호르몬 피임 보류·콘돔 사용"]
+    B -- "Cu-IUD 선택" ---> F["IUD 알고리듬 적용"]
+    C -- "가능" ---> G["방법별 적격성 확인 후 오늘 시작"]
+    C -- "불확실" ---> H["적격한 IUD 외 방법 시작 고려·2–4주 후 임신 검사"]
+    E ---> I["6일째부터 적격한 호르몬 피임법 시작·재개"]
+    D ---> J["시작·재개 후 7일간 보조 피임"]
+    I ---> K["시작·재개 후 7일 또는 다음 월경 중 먼저 오는 시점까지 보조 피임"]
+    G ---> L["방법·시점별 보조 피임"]
+    H ---> L
+```
+
+\*임신이 확진되었거나 응급 평가가 필요한 경우에는 이 알고리듬을 적용하지 않음. 각 호르몬 피임법의 금기·국내 허가사항을 먼저 확인함. 이 알고리듬의 시작·재개 원칙은 CDC 기준이며, 노레보원 국내 허가사항은 일반 호르몬 피임제를 다음 월경 시작 후 복용하도록 기재함. UPA 복용 후 5일 대기 기간 전체에도 콘돔 사용/성관계 중지가 필요함. CDC는 정규 피임 시작·재개 후 7일 또는 다음 월경 중 먼저 오는 시점까지 보조 피임을 권고하며, 국내 엘라원 허가사항은 다음 월경까지 비호르몬 피임 병용을 권고함. 첫 무방비 성교 후 5일을 넘었어도 배란일을 추정할 수 있고 배란 후 5일 이내라면 Cu-IUD 응급피임을 별도 평가함. 임신 가능성이 불확실하거나 응급피임을 시행한 경우 추적 임신 검사도 안내함
+
+<p align="center"><strong>호르몬 피임법 quick-start 알고리듬(IUD 제외)</strong></p>
+
+<p align="center"><em><mark style="color:$info;">Ref. CDC U.S. Selected Practice Recommendations for Contraceptive Use, 2024</mark></em></p>
+
+***
+
+## <mark style="color:$warning;">Management</mark>
+
+* 방법 선택 → 임신 배제·응급피임 판단 → 방법별 금기 확인 → 시작일·보조 피임·추적 계획을 함께 안내함
+* STI 예방이 필요하면 콘돔을 병용함. 콘돔 파손·피임 실패 후에는 응급피임과 함께 노출에 따른 STI 검사·예방 처치를 평가함
 
 ## <mark style="color:green;">Estrogen/Progestin 복합제 (combined hormonal contraceptive, CHC)</mark>
 
@@ -92,17 +135,19 @@
 
 * 작용 : 주로 배란 억제
 * 장점 : 효과적, 규칙적 월경 유도, 월경량/월경통/배란통 감소, 난소암/자궁내막암 위험 감소, 여드름 개선
-* 부작용 : 질 출혈, 무월경, 유방통, 우울, 다모증, 구역, 복부 팽만, 두통; 초기 수개월간 심함
+* 부작용 : 점상출혈/부정 출혈, 무월경, 유방통, 구역, 복부 팽만, 두통·기분 변화; 초기 수개월간 흔함. 일부 제제는 여드름·다모증 개선에도 사용됨
   * 중증 부작용 : stroke, thromboembolism, 고혈압, 심근경색, cholestatic jaundice
   * 저용량 제제에서도 VTE 위험 증가는 존재하며, 절대 위험은 낮지만 개인의 기저 혈전·심혈관 위험을 함께 평가
 * 약물 상호 작용
   * 효소 유도제(phenytoin, phenobarbital·primidone, carbamazepine·oxcarbazepine, topiramate, rifampin·rifabutin, St. John’s wort) 및 일부 항레트로바이러스제는 경구피임제/임플란트의 효과를 낮출 수 있음; IUD 등 대체 방법을 고려함
   * Estrogen 함유 피임제는 lamotrigine 농도를 낮춰 발작 조절을 악화시킬 수 있음; 중단·휴약 시 농도가 다시 상승할 수 있어 협진이 필요함
   * 대부분의 일반 항생제는 피임 효과를 유의하게 낮추지 않음; rifampin/rifabutin과 지속적인 구토·심한 설사는 별도로 평가함
+  * Drospirenone 함유 CHC(야스민·야즈)도 고칼륨혈증 소인·신장/간/부신 장애와 칼륨 증가 약물 병용을 확인함; 칼륨 증가 약물을 장기 병용하면 첫 투여 주기의 K 검사가 필요함
   * Tirzepatide는 경구 호르몬 피임제의 효과를 낮출 수 있어 투여 시작 후 4주 및 매 증량 후 4주간 비경구 피임법으로 변경하거나 콘돔을 병용함 <mark style="color:$info;">[미국 FDA 허가사항, 2026]</mark>
 * 임신 초기에 우연히 경구피임약을 복용한 것만으로 주요 선천기형 위험 증가가 입증되지는 않음; 임신 확인 시 중단함
 * 28일 주기법에 있어서 '4일간 위약 투여법'이 '7일간 위약 투여법'보다 배란 억제, 월경 기간 단축, 호르몬 소퇴 증상(예: 두통, 피로, 월경통, 복부 팽만) 감소의 장점이 있을 수 있음
-* 월경 횟수를 줄이기 위하여 위약을 3개월에 한 번만 복용하거나 위약 투여 기간 없이 복용하는 방법을 사용할 수 있음
+* 단상성 복합 경구피임제는 휴약/위약을 줄이거나 생략하여 연장·연속 복용할 수 있음. WHO 2026은 연장 주기(활성 정제를 계속 복용한 뒤 계획된 휴약) 최대 6개월 또는 무휴약 연속 복용 최대 1년을 선택지로 제안함(조건부 권고, 낮은 근거 확실성). 이는 안전성의 절대 상한을 뜻하지 않으며, 국내 제품의 허가용법·출혈 조절 계획과 구분함
+* 연장·연속 복용 중 불편한 돌발 출혈은 다른 원인을 배제한 뒤 3–4일 휴약을 고려할 수 있으나, **첫 21일 이내 또는 월 1회를 초과한 휴약은 피함**. 임의로 활성 정제 복용일을 줄이거나 휴약기간을 늘리지 않음 <mark style="color:$info;">[CDC U.S. SPR, 2024; WHO, 2026]</mark>
 
 #### <mark style="color:$primary;">용법</mark>
 
@@ -115,6 +160,7 @@
   * 2정 이상 연속 누락(≥48시간) : 가장 최근에 누락한 1정만 즉시 복용하고 그 이전 누락 정은 버림; 이후 예정대로 1일 1정 복용하되, 7일 연속 active pill을 복용할 때까지 콘돔 등 backup method 사용 또는 성관계 중지
   * 2정 이상 연속 누락이 마지막 active-pill 주에 발생했다면 휴약/위약 기간을 생략하고 현재 팩의 active pill 종료 다음 날 새 팩을 바로 시작
   * 첫 active-pill 주에 2정 이상 누락했고 최근 5일 내 무방비 성교가 있었다면 응급 피임을 고려(Cu-IUD 또는 LNG 우선; CDC 누락 알고리듬은 UPA를 제외함. 최근 progestin 노출 및 UPA 후 재개 지연 때문에 UPA 선택 시 개별 상담 필요)
+  * 1정 누락이라도 같은 주기 앞부분 또는 이전 주기의 마지막 활성 정제 주에 다른 누락이 있었으면 응급피임 필요성을 개별 평가함
 
 * 구토·심한 설사가 ≥48시간 지속되면 회복 후 활성 정제를 7일 연속 복용할 때까지 보조 피임; 마지막 활성 정제 주에 발생하면 휴약을 생략하고, 첫 주에 발생하며 최근 5일 내 무방비 성교가 있으면 응급피임 평가. 복용 직후 구토 시 재복용 여부는 국내 제품 설명서도 확인함
 
@@ -124,9 +170,7 @@
 * <mark style="color:blue;">\[머시론]</mark> (21T) : EE 20 ㎍ + desogestrel 0.15 ㎎, 21일간 복용 → 7일간 휴약
 * <mark style="color:blue;">\[야즈]</mark> (28T) : EE 20 ㎍ + drospirenone 3 ㎎, 24일간 연분홍색 → 4일간 흰색(위약) 복용
 * <mark style="color:blue;">\[멜리안]</mark>/<mark style="color:blue;">\[센스리베]</mark> (21T) : EE 20 ㎍ + gestodene 0.075 ㎎, 21일간 복용 → 7일간 휴약 (3세대; levonorgestrel 함유 복합제보다 VTE 위험이 높을 수 있어 부작용이 일률적으로 적다고 설명하지 않음)
-* <mark style="color:blue;">\[미니보라]</mark> (21T) : EE 30 ㎍ + levonorgestrel 0.15 ㎎, 21일간 복용 → 7일간 휴약 (2세대, 정맥혈전증 위험이 상대적으로 낮음)
-* \[Seasonale] (91T) : EE 30 ㎍ + levonorgestrel 0.15 ㎎, 12주간 복용 → 1주간 위약 복용 _(국내 미허가)_
-* \[Lybrel] (28T) : EE 20 ㎍ + levonorgestrel 0.09 ㎎, 위약 없이 연속 복용 _(국내 미허가)_
+* <mark style="color:blue;">\[미니보라30]</mark> (21T) : EE 30 ㎍ + levonorgestrel 0.15 ㎎, 21일간 복용 → 7일간 휴약 (2세대, 정맥혈전증 위험이 상대적으로 낮음)
 
 ### <mark style="color:orange;">주사제</mark>
 
@@ -135,7 +179,7 @@
 
 ### <mark style="color:orange;">패치</mark>
 
-* 용법 : 주 1회 같은 요일에 1매씩 교체 부착, 3주 부착 후 1주 휴약 _(국내 시판 제품 없음; 해외 제품 예 - Xulane, Twirla)_
+* 용법 : 주 1회 같은 요일에 1매씩 교체 부착, 3주 부착 후 1주 휴약 _(해외 제품 예 - Xulane, Twirla; 국내 처방례로 제시하지 않음)_
   * 교체/재부착이 예정보다 ＜48시간 지연 : 즉시 새 패치 부착, 추가 피임 불필요
   * ≥48시간 지연 : 즉시 새 패치 부착, 7일간 backup method 사용. 첫 주 지연+최근 5일 내 무방비 성교 시 응급피임 평가(Cu-IUD/LNG 우선); 세 번째 주 지연 시 휴약 주를 생략하고 새 주기를 시작함 <mark style="color:$info;">[CDC US SPR, 2024]</mark>
 * 부작용 : CHC 공통 부작용·혈전 위험 및 국소 피부 반응; 경구제와의 위험 차이는 제품별로 다름
@@ -143,40 +187,15 @@
 
 ### <mark style="color:orange;">질내 삽입링 (Vaginal Ring; 해외 방법)</mark>
 
+* 아래는 해외 제제의 용법이며 국내 통상 처방 선택지로 제시하지 않음
+
 * 용법 : 삽입 3주 후 제거 및 1주 휴약
   * 사용 중 빠져 나오면 제품 설명서에 따라 씻어 재삽입; 링 종류와 질 밖에 있었던 시간에 따라 보조 피임 기준이 다름
   * Etonogestrel/EE 링의 새 링 삽입·교체가 예정보다 ＜48시간 지연 : 즉시 삽입, 추가 피임 불필요
   * ≥48시간 지연 : 즉시 삽입, 7일간 backup method 사용. 첫 주 지연+최근 5일 내 무방비 성교 시 응급피임 평가(Cu-IUD/LNG 우선); 세 번째 주 지연 시 휴약 주를 생략함 <mark style="color:$info;">[CDC US SPR, 2024]</mark>. 이 48시간 기준을 segesterone acetate/EE 링에 적용하지 않음
 * 부작용 : CHC 공통 부작용 및 질염/질 분비물 증가
-* EE 2.7 ㎎, etonogestrel 11.7 ㎎ : 매일 EE 15 ㎍, etonogestrel 0.12 ㎎ 방출
+* 해외 etonogestrel/EE 링의 함량 : EE 2.7 ㎎, etonogestrel 11.7 ㎎; 매일 EE 15 ㎍, etonogestrel 0.12 ㎎ 방출
 * 해외 제품 예 : segesterone acetate/EE ring - 1년간(13주기) 재사용 가능한 링 _(Annovera, 국내 미허가)_
-
-***
-
-```mermaid
-flowchart TD
-    A["최근 5일 내 무방비 성교 또는 피임 실패?"]
-    A -- "있음" ---> B["응급피임 필요성 평가"]
-    A -- "없음" ---> C["임신을 합리적으로 배제 가능?"]
-    B -- "LNG 선택" ---> D["호르몬 피임 즉시 시작·재개"]
-    B -- "UPA 선택" ---> E["5일간 호르몬 피임 보류·콘돔 사용"]
-    B -- "Cu-IUD 선택" ---> F["IUD 알고리듬 적용"]
-    C -- "가능" ---> G["방법별 적격성 확인 후 오늘 시작"]
-    C -- "불확실" ---> H["IUD 외 방법 시작 가능·2–4주 후 임신 검사"]
-    E ---> I["6일째부터 호르몬 피임 시작·재개"]
-    D ---> J["시작·재개 후 7일간 보조 피임"]
-    I ---> K["시작·재개 후 7일 또는 다음 월경까지 보조 피임"]
-    G ---> L["방법·시점별 보조 피임"]
-    H ---> L
-```
-
-\*UPA 복용 후 5일 대기 기간 전체에도 콘돔 사용/성관계 중지가 필요함. CDC는 정규 피임 시작·재개 후 7일 또는 다음 월경 중 먼저 오는 시점까지 보조 피임을 권고하며, 국내 엘라원 허가사항은 다음 월경까지 비호르몬 피임 병용을 권고함. 임신 가능성이 불확실하거나 응급피임을 시행한 경우 추적 임신 검사도 안내함
-
-<p align="center"><strong>호르몬 피임법 quick-start 알고리듬(IUD 제외)</strong></p>
-
-<p align="center"><em><mark style="color:$info;">Ref. CDC U.S. Selected Practice Recommendations for Contraceptive Use, 2024</mark></em></p>
-
-***
 
 ## <mark style="color:green;">프로게스틴 단독</mark>
 
@@ -185,7 +204,7 @@ flowchart TD
 * 작용 : 제제에 따라 배란 억제, 자궁경부 점액 점도 증가 및 자궁내막 위축
 * 장점 : estrogen을 포함하지 않으며 월경량·월경통을 줄일 수 있음. U.S. MEC상 수유 중 또는 estrogen 금기 환자에게 적합한 방법이 많으나, 혈전·심혈관 위험과 국내 금기·주의사항은 제제별로 확인함; DMPA는 일부 혈전 고위험 상태에서 비선호
 * 고려 대상 : estrogen 사용이 어려운 경우. DVT 병력·CKD·수유 여부만으로 모든 progestin 제제를 허용하지 않음; 특히 drospirenone 경구제는 고칼륨혈증 위험과 국내 허가사항을 별도로 확인함
-* 부작용 : 불규칙 월경/무월경, 점상 질 출혈(복용 시작 후 수개월간), 공복감(체중 증가), 유방통
+* 부작용 : 불규칙 월경/무월경, 점상 질 출혈(시작 후 수개월간), 체중 변화(특히 DMPA에서 증가), 여드름·유방통
 * 주요 금기 : 현재 유방암은 implant/DMPA/POP 모두 U.S. MEC 4; 과거 유방암(5년 이상 재발 없음)은 대체로 MEC 3. 그 외 상태는 제제별 MEC를 개별 평가
 
 ### <mark style="color:orange;">경구제 (progestin-only pill, POP)</mark>
@@ -196,7 +215,7 @@ flowchart TD
 * 누락 대처(국내 허가) : 활성 정제 1정 누락 시 생각난 즉시 복용하고 예정대로 계속 복용; 2정 이상 누락 시 가장 최근 누락한 1정만 복용하고 이전 누락 정은 버리며 7일간 콘돔 병용. 위약 누락은 건너뛰고 다음 팩 시작일을 늦추지 않음
 * CDC drospirenone POP 누락 기준 : 예정 복용시각에서 ＜48시간 경과 시 즉시 복용·보조 피임 불필요; ≥48시간이면 재개 후 활성 정제 7일 연속 복용까지 보조 피임. 첫 주 누락+최근 5일 내 무방비 성교 시 응급피임 평가(Cu-IUD/LNG 우선)
 * 활성 정제 복용 3–4시간 내 구토·설사 시 국내 설명서에 따라 활성 정제 1정을 추가 복용; 반복되면 누락 대처를 적용함. CDC는 drospirenone POP 복용 중 구토·설사가 ＞24시간 지속되면 회복 후 7일간 보조 피임을 권고함
-* 주요 국내 제한 : 고칼륨혈증 소인(신장·간·부신 장애), 중등도/중증 신기능 장애·급성 신부전, 혈전성/혈전색전성 반응, 중증 간질환·간종양, progestin 민감성 암 및 원인 미확인 질 출혈 등 금기·주의사항 확인. 칼륨 증가 약물을 장기 병용하는 경우 첫 투여 주기 중 혈청 K 확인
+* 주요 국내 제한 : 고칼륨혈증 소인(신장·간·부신 장애), 중등도/중증 신기능 장애·급성 신부전, 혈전성/혈전색전성 반응, 중증 간질환·간종양, 자궁경부암 또는 progestin 민감성 암의 현재 질환/병력, C형간염 직접작용 항바이러스제(DAA) 투여 및 원인 미확인 질 출혈 등 금기·주의사항 확인. 칼륨 증가 약물을 장기 병용하는 경우 첫 투여 주기 중 혈청 K 확인
 * **수유 중에는 국내 슬린다 허가사항상 복용이 권장되지 않음**. 비수유 산모도 분만 후 4주 이내 시작하지 않도록 되어 있음. 국제 지침의 POP 계열 사용 가능 판단과 구분하며, 수유부에서는 IUD·임플란트 등 대안을 상담함
 * 효소 유도 약물 병용 중과 중단 후 28일간 추가 차단 피임을 사용하거나 영향을 받지 않는 방법으로 변경함. Potassium citrate 등 칼륨 보충제·칼륨 증가 약물의 장기 병용 시 시작 전 및 첫 투여 주기 중 K 확인; 신장·부신 장애 등 제품 자체 금기는 별도로 적용함 <mark style="color:$info;">[슬린다 국내 허가사항]</mark>
 * 해외 norethindrone/norgestrel POP는 복용 지연 ＞3시간 시 2일간 보조 피임 등 기준이 다름; 국내 슬린다에 이 기준을 적용하지 않음
@@ -210,14 +229,14 @@ flowchart TD
 * 첫 투여 : 임신 배제 시 어느 때나 가능하나 월경 시작 후 ＞7일에 시작하면 7일간 보조 피임
 * 가임력 회복 : 마지막 주사 후 임신까지 중앙값 약 10개월(IM 자료)이며 개인차가 큼; 18개월을 최장 회복기간으로 단정하지 않음
 * 부작용 : 불규칙 출혈 후 점차 무월경, 체중 증가, 두통, 골밀도 감소. 골밀도는 중단 후 회복될 수 있으나 완전 회복은 개인별로 다르며 골절에 대한 장기 영향은 불확실함
-* 골밀도 위험만으로 사용을 일률적으로 2년 이내로 제한하지는 않으나 위험–편익을 재평가함; 건강한 청소년·젊은 여성에게 DXA를 일률적으로 시행하지 않음
-* 장기간 MPA 주사 사용과 수막종 위험 증가가 보고됨. EMA는 수막종 또는 그 병력이 있으면 비종양성 적응증으로 사용하지 않도록 권고함; 사용 중 수막종 진단 시 중단 <mark style="color:$info;">[EMA PRAC, 2024]</mark>
+* 임상 지침에서는 골밀도 위험만으로 사용을 일률적으로 2년 이내로 제한하지는 않으나 위험–편익을 재평가함; 건강한 청소년·젊은 여성에게 DXA를 일률적으로 시행하지 않음. 다만 **미국 FDA 제품 허가사항은 다른 방법이 부적절한 경우 외에는 2년 초과 사용을 권장하지 않음**; 임상 권고와 제품 경고를 구분함
+* 장기간 MPA 주사 사용과 수막종 위험 증가가 보고됨. EMA는 수막종 또는 그 병력이 있으면 비종양성 적응증으로 사용하지 않도록 권고함; **FDA도 2025년 12월 수막종 경고를 추가**함. 진행하는 두통, 시청각 변화·경련·국소 신경 증상을 평가하고, 수막종 진단 시 중단함 <mark style="color:$info;">[EMA, 2024; FDA, 2025]</mark>
 
 ### <mark style="color:orange;">자궁 내 장치 : Levonorgestrel IUD</mark>
 
 * 작용 : 주로 자궁경부 점액 점도 증가, 정자 기능·이동 억제 및 자궁내막 위축에 의한 국소 피임 효과; 많은 사용자는 배란이 유지됨
 * 미레나는 국내에서 피임 외에 월경과다·월경곤란증·에스트로겐 대체요법 시 progestin 국소 적용에 허가됨; 카일리나·제이디스의 허가 효능을 동일하게 확장하지 않음
-* 국내 제품 허가용법은 월경 시작 7일 이내 삽입. CDC는 임신을 합리적으로 배제하면 다른 시점에도 삽입할 수 있다고 권고하며, 월경 시작 후 ＞7일 삽입 시 7일간 보조 피임; 국제 지침과 국내 허가용법을 구분함
+* 피임 목적 신규 삽입 시 국내 제품 허가용법은 월경 시작 7일 이내 삽입. CDC는 임신을 합리적으로 배제하면 다른 시점에도 삽입할 수 있다고 권고하며, 월경 시작 후 ＞7일 삽입 시 7일간 보조 피임; 국제 지침과 국내 허가용법을 구분함
 * 부작용 : 불규칙 월경(주로 첫 3\~6개월, 이후 호전)
 * 삽입 금기/보류 : 임신, 현재 PID·화농성 자궁경부염·임질/클라미디아 감염, 산후 패혈증·감염성 유산, 삽입이 불가능한 자궁강 변형, 평가 전 원인 미확인 출혈, 치료 전 자궁경부암/자궁내막암 및 현재 유방암 등. 자궁강을 변형하지 않는 자궁근종을 일률적 금기로 삼지 않음; 임신영양모세포질환은 hCG·자궁 내 병변 여부에 따라 MEC가 다름
 * 삽입 전 양손 골반 진찰·자궁경부 관찰 필요. STI 위험에 따른 임질/클라미디아 검사는 삽입 당일 시행할 수 있으며, 무증상이고 감염이 확인되지 않았다면 결과를 기다리며 삽입을 지연할 필요는 없음 <mark style="color:$info;">[CDC U.S. SPR, 2024]</mark>
@@ -226,16 +245,20 @@ flowchart TD
 * <mark style="color:blue;">\[카일리나]</mark> : levonorgestrel 19.5 ㎎, 매일 약 17.5 ㎍\~(차츰 감소) 방출, 5년간 작용; 미레나보다 소형이며 방출량이 적음
 * <mark style="color:blue;">\[제이디스]</mark> : levonorgestrel 13.5 ㎎, 매일 14 ㎍\~(차츰 감소) 5 ㎍ 방출, 3년간 작용; 출혈·무월경 양상은 용량 및 개인에 따라 다르므로 출혈 기간이 항상 더 길다고 단정하지 않음
 * 미레나 국내 허가사항은 삽입 후 4–12주 재검, 이후 연 1회 또는 증상에 따른 추가 평가를 제시함. 제거·다른 방법으로 전환할 때도 제거 전 7일 내 성교와 새 방법의 효과 발현 시점을 확인하여 피임 공백을 방지함 <mark style="color:$info;">[미레나 국내 허가사항]</mark>
+* 수유 중이거나 분만 후 36주 이내에 삽입하면 천공 위험이 상대적으로 증가함; 절대 위험은 낮으며 위험·이득과 삽입 시기를 상담함. 삽입 직후부터 심한 통증·과다 출혈이 있거나 실이 보이지 않으면 위치·천공을 확인함
+* **IUD 사용 중 임신** : 먼저 자궁외임신을 평가함. 자궁내임신을 유지하려는 경우, 실이 보이거나 자궁경관에서 안전하게 잡을 수 있으면 가능한 한 조기에 제거함; 제거하면 유산·감염·조산 위험이 낮아지지만 정상 임신 수준으로 완전히 회복되지는 않음. 실이 보이지 않으면 초음파로 위치를 확인하고 전문 평가하며 맹목적으로 제거하지 않음
+* IUD는 전체 임신 및 자궁외임신의 절대 위험을 낮추지만, **삽입 상태에서 임신한 경우에는 자궁외임신을 우선 배제**해야 함
 * IUD 삽입 시 통증 관리 : lidocaine spray/gel/cream 국소 도포 또는 자궁경부 주위 차단(paracervical block)이 통증 감소에 도움이 될 수 있음; NSAID 등 일반 진통제의 사전 투여는 삽입 자체의 통증 감소에는 일관된 효과가 입증되지 않으나, 삽입 후 월경통·경련 완화 목적으로는 도움이 될 수 있음; misoprostol 등 자궁경부 숙화제의 일상적 사용은 권장하지 않음(이전 삽입 실패 병력이 있는 경우 개별 고려) - 모든 환자에게 삽입 전 통증 관리 옵션을 상담하고 선호를 반영 <mark style="color:$info;">[ACOG 2025; CDC US SPR 2024]</mark>
 
 ***
 
 ```mermaid
 flowchart TD
-    A["임신을 합리적으로 배제 가능?"]
+    S["피임 시작 상담 또는 임신 가능성 의심"]
+    S --> A{"임신을 합리적으로 배제 가능?"}
 
-    A -- "가능" ---> B["적격성 확인 후 오늘 IUD 삽입 가능"]
-    A -- "불확실" ---> C["첫 무방비 성교 또는 추정 배란 후 5일 이내?"]
+    A -- "가능" ---> B["적격성·삽입 시기 확인 후 IUD 삽입"]
+    A -- "불확실" ---> C{"첫 무방비 성교 후 5일 이내 또는 추정 가능한 배란일로부터 5일 이내?"}
 
     C -- "해당" ---> D["응급피임으로 Cu-IUD 적응 여부 평가"]
     C -- "해당 없음·불확실" ---> E["IUD 삽입 보류 · 경구 응급피임 필요성 평가"]
@@ -259,7 +282,7 @@ flowchart TD
     class B,E,G,H,I,J,K blue
 ```
 
-\*LNG-IUD는 월경 시작 후 ＞7일 삽입 시 7일간 보조 피임. Cu-IUD 응급피임은 첫 무방비 성교 후 5일 이내 또는 배란일을 추정할 수 있을 때 배란 후 5일 이내인지 평가함; 최근 성교일만 보고 더 이전 성교에 따른 임신 가능성을 놓치지 않음. 임신 여부가 불확실하면 정규 IUD를 quick-start하지 않음. UPA 복용 후 LNG-IUD 시작 시점은 응급피임 항목의 원칙도 적용함
+\*임신이 확진되었거나 응급 평가가 필요한 경우에는 신규 삽입 알고리듬을 적용하지 않음. 위 알고리듬은 CDC 기준임. 국내 LNG-IUD의 피임 목적 신규 삽입은 월경 시작 7일 이내가 허가용법이며, 산후 삽입 시기는 아래 별도 기준을 확인함. LNG-IUD는 CDC 기준 월경 시작 후 ＞7일 삽입 시 7일간 보조 피임. Cu-IUD 응급피임은 첫 무방비 성교 후 5일 이내 또는 배란일을 추정할 수 있을 때 배란 후 5일 이내인지 평가함; 최근 성교일만 보고 더 이전 성교에 따른 임신 가능성을 놓치지 않음. 임신 여부가 불확실하면 정규 IUD를 quick-start하지 않음. UPA 복용 후 LNG-IUD 시작 시점은 응급피임 항목의 원칙도 적용함
 
 <p align="center"><strong>IUD 시작 알고리듬</strong></p>
 
@@ -269,12 +292,20 @@ flowchart TD
 
 ### <mark style="color:orange;">이식제 : Etonogestrel</mark>
 
-* 작용 : 경구제와 동일
+* 작용 : 주로 배란 억제 및 자궁경부 점액 점도 증가
 * 부작용 : 불규칙 출혈·점상출혈·무월경; 사용 중 출혈 양상은 예측하기 어렵고 일부에서는 불규칙 출혈이 지속될 수 있음
 * <mark style="color:blue;">\[임플라논엔엑스티이식제]</mark> : etonogestrel 68 ㎎, 비우세 팔 상완의 정해진 부위 피하에 삽입, 국내 허가 3년. 삽입·제거는 교육받은 의료진이 시행하고 삽입 직후 촉지 확인
 * 임신 배제 시 시작 가능; 월경 시작 후 ＞5일 삽입이면 7일간 보조 피임. 효소 유도 약물 병용 시 효과 저하 가능
 * 이식제가 만져지지 않으면 위치 확인 전까지 보조 피임; 영상으로 위치를 확인하지 않은 맹목적 제거는 피함
-* 국내 임플라논 사용기간 3년과 국외 제품의 허가기간·연장 사용 근거를 구분함; 국외 기간을 국내 제품에 자동 적용하지 않음
+* 미국 NEXPLANON은 **2026년 1월 피임 목적 5년으로 허가가 연장**되었고 WHO 2026도 etonogestrel 이식제의 최대 5년 사용을 선택지로 제안함. **국내 임플라논엔엑스티 허가기간은 3년**이므로 국제 근거·미국 허가를 국내 제품에 자동 적용하지 않음
+* 국내 산후 삽입 : 수유부는 분만 **4주 이후** 삽입하고 7일간 차단 피임; 비수유부는 **21–28일** 사이 삽입하며 권장 시기를 넘기면 7일간 차단 피임. CDC의 산후 즉시 삽입 가능 권고와 구분함 <mark style="color:$info;">[국내 임플라논엔엑스티 허가사항; FDA, 2026; WHO, 2026]</mark>
+
+### <mark style="color:orange;">피임 중 불규칙 출혈의 대처</mark>
+
+* 출혈량·기간·빈혈 증상, 누락·약물 상호작용과 임신·STI·자궁 병변을 확인함. 초기 점상출혈만으로 피임 효과가 저하되었다고 단정하지 않으며, 지속 사용·치료·교체·제거 중 사용자 선호를 확인함
+* **ENG 이식제** : 치료를 원하면 금기 확인 후 NSAID 5–7일 또는 단기간 COC/estrogen 등을 고려할 수 있음. CDC 2024에는 tamoxifen 7–10일, tranexamic acid 5일도 선택지로 제시되지만 ENG 이식제에 대한 직접 근거·혈전 위험·국내 허가가 서로 다르므로 일률적 처방례로 제시하지 않음. 이식제 관련 출혈 치료는 대체로 허가 외 사용이며 중단 후 재발할 수 있음
+* **Cu-IUD** : 불편한 출혈·경련에 NSAID 5–7일을 고려함(소화성궤양·신장·심혈관 위험 등 확인). **LNG-IUD** : 보통 첫 3–6개월 후 감소하므로 설명·평가가 우선이며, tranexamic acid·mefenamic acid를 일률적으로 처방할 근거는 충분하지 않음
+* CHC 중 돌발 출혈은 복용 누락·상호작용을 먼저 확인함. 무월경은 임신 가능성이 없으면 치료할 필요가 없으며, 새 무월경·임신 증상에는 임신 검사를 시행함 <mark style="color:$info;">[CDC U.S. SPR, 2024]</mark>
 
 ## <mark style="color:green;">비호르몬 피임</mark>
 
@@ -297,6 +328,14 @@ flowchart TD
 * 콘돔(남성용/여성용), diaphragm, sponge 등; 단독 사용 시 전형적 사용 실패율이 높아(상단 표 참고) 다른 방법과 병용하거나 STI 예방 목적을 함께 고려할 때 유용
 * 외용(남성용) 라텍스/합성 콘돔은 임신과 STI 위험을 함께 줄임; 라텍스 알레르기 시 polyurethane/polyisoprene 사용 가능. 내삽입형(여성용) 콘돔도 STI 예방에 도움이 될 수 있으나 근거는 더 제한적임. 천연막 콘돔은 STI 예방용으로 권고하지 않으며 외용·내삽입형 콘돔을 동시에 사용하지 않음
 
+* 콘돔은 성기 접촉 전부터 성교가 끝날 때까지 매번 새것을 사용함. 라텍스 콘돔에는 수성/실리콘계 윤활제를 사용하고 유성 윤활제는 피함; 두 겹으로 쓰지 않으며 파손·이탈 시 응급피임 필요성을 평가함
+
+### <mark style="color:orange;">영구 피임술</mark>
+
+* 난관 수술·정관절제술은 향후 임신 의사가 없고 충분히 상담한 경우 선택함; 복원 가능성을 보장하지 않으며, IUD·이식제 등 가역적 방법도 함께 설명함
+* 복강경/개복 난관 수술은 통상 즉시 효과가 있음. 정관절제술은 즉시 효과가 없으므로, **시술 후 정액 검사(PVSA)로 성공을 확인할 때까지** 다른 피임이 필요함. CDC는 시술 후 8–16주에 검사를 권고하며, 단순 사정 횟수만으로 성공을 판단하지 않음
+* 영구 피임술 후에도 드물게 임신할 수 있음; 임신 의심·하복부 통증 시 임신 및 자궁외임신을 평가함 <mark style="color:$info;">[CDC U.S. SPR, 2024]</mark>
+
 ## <mark style="color:green;">응급 피임제</mark>
 
 ### <mark style="color:orange;">일반 사항</mark>
@@ -308,11 +347,12 @@ flowchart TD
 * 응급피임 방법 중 copper IUD가 가장 효과적이며(해당 월경주기의 첫 무방비 성교 후 5일 내 삽입; 배란일을 추정할 수 있는 경우 배란 후 5일 이내라면 성교 후 5일이 지났어도 삽입 가능), 삽입 후에는 지속 피임법으로 그대로 사용할 수 있음. Cu-IUD를 응급피임으로 삽입한 경우 경구 응급피임제를 추가로 병용할 필요는 일반적으로 없음
 * LNG 복용 후 정규 호르몬 피임법은 즉시 시작/재개 가능; CDC는 이후 7일간 콘돔 사용 또는 성관계 중지를 권고함
 * UPA 복용 후에는 **5일 대기 기간 전체에 콘돔 사용/성관계 중지** → 6일째부터 호르몬 피임 시작/재개 → 이후 7일 또는 다음 월경 중 먼저 오는 시점까지 보조 피임 <mark style="color:$info;">[CDC U.S. SPR, 2024]</mark>. LNG와 UPA를 동시 병용하지 않음
-* 국내 노레보원·엘라원 허가사항은 다음 월경까지 비호르몬 피임 병용을 권고함; 위 CDC의 재개·보조 피임 원칙과 구분해 설명함
+* **국내 노레보원 허가용법은 다음 월경 시작 후 일반 호르몬 피임약을 복용하도록 기재**하며, 엘라원과 함께 다음 월경까지 비호르몬 피임 병용을 권고함. 따라서 위의 LNG 후 즉시 시작 및 UPA 후 6일째 시작은 **CDC 권고**로 구분하여 상담함
 * UPA와 같은 날 임플란트 등 의료진 시술 방법을 시작하는 예외는 재방문 접근성이 불확실한 경우 효과 저하 위험과 미시작 위험을 비교하여 판단함; LNG-IUD의 경우에도 기존 임신이 배제되어야 함
 * 추적 : 복용 후 3주 내 정상 월경/소퇴성 출혈이 없으면 임신 검사; 더 이르더라도 예정일보다 LNG 5일 이상·UPA 7일 초과 지연, 비정상 출혈 또는 임신 증상 시 검사. 마지막 무방비 성교 후 3주가 지나기 전의 음성 검사는 필요 시 다시 확인함
 * 경구 응급피임제는 복용 이후의 새로운 무방비 성교를 보호하지 않음; 다시 노출되면 그 성교에 대한 응급피임 필요성을 재평가함
-* 최근 4주 내 효소 유도제 복용 시 경구 응급피임 효과 저하 가능성이 있어 Cu-IUD 우선 고려. UPA는 병용을 피하며, Cu-IUD가 불가능하면 LNG 용량 조정 여부를 해당 제품 허가사항에 따라 판단함
+* 최근 4주 내 효소 유도제 복용 시 경구 응급피임 효과 저하 가능성이 있어 Cu-IUD 우선 고려. UPA는 피함. 일부 해외 지침의 LNG 3 ㎎ 1회 투여는 효과에 불확실성이 있고 **국내 노레보원 허가용량은 1.5 ㎎**이므로, 증량을 국내 허가용법으로 제시하지 않음
+* 같은 주기에 다시 무방비 성교가 있으면 이전 약제·복용일과 최근 progestin 노출을 확인해 재평가함. 국내 노레보원·엘라원 설명서는 같은 주기 반복 사용을 권장하지 않으므로 임의로 재복용하거나 두 약을 번갈아 복용하지 않게 하고, Cu-IUD 및 전문 상담으로 연결함
 
 ### <mark style="color:orange;">약제</mark>
 
@@ -326,17 +366,24 @@ flowchart TD
 
 * 작용 : 선택적 progesterone 수용체 조절제로 배란을 지연/억제함; 자궁내막 파괴나 성립된 임신의 중단을 주된 응급피임 기전으로 설명하지 않음
 * 체중/BMI 증가 시 효과 저하 가능성이 보고되나 근거는 확정적이지 않음; 체중에 따른 효과 저하가 없는 Cu-IUD가 가장 확실한 선택지
-* 경구 glucocorticoid 치료가 필요한 중증 천식, 중증 간장애 및 약물 상호작용은 국내 허가사항을 확인함
+* 경구 glucocorticoid 치료가 필요한 중증 천식에서는 UPA를 피하는 국제 권고가 있으며, 국내 엘라원은 경구 glucocorticoid로 조절되지 않는 중증 천식·중증 간장애를 신중 투여 대상으로 기재함
+* 국내 엘라원은 PPI·H₂ 차단제·제산제와 병용을 피하도록 기재함(위 pH 상승 약물에 의한 약동학 변화; 응급피임 1회 투여에서 임상 영향은 불확실). 효소 유도제와 별도로 복용약을 확인함
 * 용법 : 성교 120시간(5일) 내 복용; <mark style="color:blue;">\[엘라원]</mark> 30 ㎎/T 1T 1회
 
 #### <mark style="color:$primary;">Mifepristone</mark>
 
-* 해외에서 저용량 응급피임 사용이 연구된 progesterone 수용체 길항제임; 이 경우 배란 지연/억제가 주요 기전으로 임신중지 요법과 용량·목적을 구분함
+* Progesterone 수용체 길항제. **WHO 2026은 성교 후 가능한 한 빨리, 120시간 이내 10–50 ㎎ 1회 투여를 응급피임 선택지에 추가하도록 권고**함(강한 권고, 중등도 근거 확실성; 제형이 가능하면 10–25 ㎎ 선호). 배란 지연/억제가 주요 기전이며 임신중지 요법과 용량·목적을 구분함
 * 국내 응급피임 허가가 없어 본 챕터의 국내 처방 선택지에 포함하지 않음
 
 #### <mark style="color:$primary;">응급피임 방법 선택</mark>
 
 <table><thead><tr><th>방법</th><th>임상 선택 기준</th></tr></thead><tbody><tr><td>Cu-IUD</td><td>가장 효과적이며 삽입 후 지속 피임 가능; 첫 무방비 성교 후 5일 이내 또는 추정 배란 후 5일 이내</td></tr><tr><td>UPA 30 ㎎</td><td>120시간 이내 국내 허가; 특히 성교 후 72–120시간 또는 체중 증가 시 LNG보다 우선 고려. 최근 progestin 사용·효소 유도제·피임 재개 시점 함께 평가</td></tr><tr><td>LNG 1.5 ㎎</td><td>72시간 이내 국내 허가; 가능한 한 빨리 투여하며 정규 호르몬 피임을 즉시 재개해야 하는 경우에도 고려</td></tr></tbody></table>
+
+{% hint style="info" %}
+**52 ㎎ LNG-IUD의 응급피임 — 국제 근거와 국내 적용 구분**
+
+성교 후 5일 이내 52 ㎎ LNG-IUD를 삽입하는 응급피임 근거가 있으며, Society of Family Planning 권고(2023, 2026 재확인)는 이를 선택지에 포함함. 그러나 CDC U.S. SPR 2024의 IUD 응급피임 선택지는 Cu-IUD이고, 국내 미레나는 응급피임 적응증이 없음. 19.5 ㎎·13.5 ㎎ LNG-IUD로 근거를 확대하지 않으며, 이 장의 국내 응급피임 알고리듬에는 Cu-IUD를 제시함.
+{% endhint %}
 
 ✽관찰된 임신율은 성교 시점·배란일·연구집단에 따라 달라지므로 과거 연구의 ‘24/72/120시간 이내’ 누적 자료를 개별 환자의 시간 구간별 고정 실패율로 제시하지 않음. BMI만으로 방법을 자동 결정하지 않음.
 
@@ -349,7 +396,7 @@ flowchart TD
 * 출산 후 ＜21일 : CHC MEC 4(사용 금지)
 * 21~42일 : VTE 위험 인자가 있으면 CHC MEC 3(위험 부담에 따라 MEC 4 가능), 없으면 MEC 2
 * ＞42일 : CHC 사용에 산후 시기 자체로 인한 제한 없음
-* U.S. MEC상 POP·임플란트·DMPA는 산후 조기에 사용 가능한 경우가 많지만 제제별 국내 허가와 다름; 슬린다는 비수유 산모도 출산 후 4주 이내 시작하지 않도록 국내 경고가 있어 이를 우선 확인함
+* U.S. MEC상 POP·임플란트·DMPA는 산후 조기에 사용 가능한 경우가 많지만 국내 허가와 다름. **슬린다는 분만 후 4주 이내 시작하지 않음; 임플라논은 비수유부에서 분만 후 21–28일에 삽입**하며 권장 시기 이후 삽입 시 7일간 차단 피임
 
 ### <mark style="color:orange;">수유 중인 경우</mark>
 
@@ -357,12 +404,21 @@ flowchart TD
 * 21~＜30일 : CHC MEC 3; VTE 위험 인자가 있으면 MEC 4까지 높아질 수 있음
 * 30~42일 : VTE 위험 인자가 있으면 MEC 3(위험 부담에 따라 MEC 4 가능), 없으면 MEC 2
 * ＞42일 : CHC MEC 2이나, 수유 유지가 중요한 경우 estrogen에 의한 모유량 감소 가능성을 고려하여 progestin-only method를 우선 권고하는 경우가 흔함
-* U.S. MEC상 POP·임플란트는 산후 ＜30일 MEC 2, ≥30일 MEC 1. DMPA는 산후 초기·VTE 위험을 별도로 평가함. 그러나 국내 슬린다 허가사항은 수유 중 복용을 권장하지 않으므로 POP 계열 권고를 제품에 그대로 적용하지 않음
+* U.S. MEC상 POP·임플란트는 산후 ＜30일 MEC 2, ≥30일 MEC 1. DMPA는 산후 초기·VTE 위험을 별도로 평가함. WHO MEC 6판(2025)은 수유 중 산후 ＜6주 POP·임플란트·DMPA를 MEC 2로 분류함; CDC의 30일 기준과 혼용하지 않음
+* **국내 슬린다는 수유 중 비권고; 임플라논은 수유부에서 분만 4주 이후 삽입하고 7일간 차단 피임**. 국제 계열 권고를 개별 국내 제품에 그대로 적용하지 않음
 * IUD : CDC는 산후 즉시 삽입을 허용하나 탈출 위험이 더 높음. **국내 미레나·카일리나·제이디스 허가용법은 자궁 회복 후 분만 6주 이후 삽입**이므로 즉시 삽입 권고와 구분함; 회복 지연 시 12주까지 연기를 고려함. 산후 패혈증 시 삽입 금기
 * 수유 중 응급피임 : Cu-IUD 또는 LNG를 고려하며, 노레보원 국내 설명서는 복용 후 8시간 수유를 피하도록 권고함. 엘라원 국내 허가사항은 복용 후 최소 1주간 수유 생략을 권고하며, 수유 유지가 필요하면 유축·폐기 계획을 함께 상담함
 * 국제 권고 차이 : FSRH 2025는 UPA 1회 복용 후 수유 중단이 필요 없다고 권고함. 국내 엘라원 허가사항과 차이가 있으므로 두 기준을 혼용하지 않고 설명함
 
+✽야스민 국내 허가사항은 수유부에 투여하지 않도록 명시함. 위 CDC의 산후 MEC 수치만으로 수유부에게 국내 CHC 제품을 허용하지 않음.
+
 ✽VTE 위험 인자 : ≥35세, VTE 병력·혈전성향, BMI ≥30, 부동, 제왕절개, 산후 출혈·수혈, 전자간증, 흡연 등. CDC의 수유 중 CHC MEC 2 판단도 국내 개별 CHC 제품의 수유 관련 제한을 대체하지 않음.
+
+## <mark style="color:green;">폐경 이행기 피임</mark>
+
+* 40대 이후에도 자연 임신이 가능하므로 폐경이 확인되거나 적절한 중단 시점에 이를 때까지 피임이 필요함. 나이만으로 모든 호르몬 피임을 금지하지 않되 흡연·혈압·편두통·혈전 및 심혈관 위험을 재평가함
+* 호르몬 피임 중 무월경은 폐경 확정 근거가 아니며, 특히 CHC 사용 중 FSH 수치로 피임 중단을 결정하지 않음. 폐경 확인 방법과 전환 시점을 개별 상담함
+* **폐경 호르몬요법(MHT)은 피임법이 아님**. MHT의 자궁내막 보호 목적으로 미레나를 사용하는 경우 국내 허가상 5년 교체 기준을 유지하며 피임 목적 8년과 구분함 <mark style="color:$info;">[CDC U.S. SPR, 2024; FSRH 40세 이후 피임 지침; 국내 미레나 허가사항]</mark>
 
 ## <mark style="color:green;">일시적 월경 조절</mark>
 
@@ -384,19 +440,9 @@ flowchart TD
 
 ### <mark style="color:red;">질병코드</mark>
 
-Z30.0 일반적 피임 상담 및 조언
+<table><thead><tr><th>코드</th><th>KCD-9 명칭</th><th>적용 예·포함 사항</th></tr></thead><tbody><tr><td>Z30.0</td><td>피임에 관한 일반 상담 및 권고</td><td>피임 상담, 피임약의 초기 처방</td></tr><tr><td>Z30.1</td><td>(자궁내)피임장치의 삽입</td><td>IUD 신규 삽입</td></tr><tr><td>Z30.2</td><td>불임법</td><td>난관·정관 수술 등 영구 피임</td></tr><tr><td>Z30.4</td><td>피임약제의 감시</td><td>경구피임약 또는 기타 피임약제의 반복처방·추적</td></tr><tr><td>Z30.5</td><td>(자궁내)피임장치의 감시</td><td>장치의 조사, 재삽입 또는 제거</td></tr><tr><td>Z30.8</td><td>기타 피임관리</td><td>정관절제후 정자수확인 포함</td></tr><tr><td>Z30.9</td><td>상세불명의 피임관리</td><td>세부 관리 내용이 명시되지 않은 경우</td></tr></tbody></table>
 
-Z30.2 불임술(영구 피임술)
-
-Z30.4 피임약 사용의 감시
-
-Z30.5 자궁내 피임 장치 사용의 감시
-
-Z30.8 기타 명시된 피임 관리
-
-Z30.9 상세불명의 피임 관리
-
-✽청구용 상세 코드는 병원 청구 기준에 따라 상이할 수 있어 원내 기준 확인 필요
+✽제공된 KCD9_251216(4).xlsx의 「상병분류기호(완전코드)」 및 포함 용어와 대조함. 미국 ICD-10-CM의 세분코드를 국내 KCD에 대입하지 않음. 상병코드의 존재와 개별 약제·시술의 급여 인정은 별도임.
 
 ***
 
@@ -434,9 +480,9 @@ Z30.9 상세불명의 피임 관리
 > ```
 > 노레보원정 1.5 ㎎  1T  1회 즉시 복용
 > ※ 복용 3시간 이내 구토 시 같은 용량 재복용
-> ※ 정규 호르몬 피임 즉시 시작·재개 가능
+> ※ CDC 권고: 정규 호르몬 피임 즉시 시작·재개 가능
 > ※ CDC: 이후 7일간 콘돔 사용 또는 성관계 중지
-> ※ 국내 설명서: 다음 월경까지 비호르몬 피임 병용 권고
+> ※ 국내 설명서: 일반 호르몬 피임약은 다음 월경 시작 후 복용; 그때까지 비호르몬 피임 병용
 > ```
 >
 > _✽체중/BMI 증가·효소 유도제 복용·배란 시점에 따라 UPA 또는 Cu-IUD 우선 고려 가능. 복용 이후 새 성교는 보호하지 않음_
@@ -497,10 +543,40 @@ Z30.9 상세불명의 피임 관리
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 새로운 피임법 시작 후 3개월 이상 부정 출혈이 지속되는 경우
-> * **심한 하복부 통증**, **가슴 통증/호흡곤란**, **한쪽 다리의 심한 부종·통증**, **심한 두통이나 시야 이상**이 생긴 경우 - 즉시 내원
-> * IUD 실이 만져지지 않거나 삽입 부위 통증이 지속되는 경우
+> * 부정 출혈이 지속·악화하거나 성교 후 출혈이 생기는 경우(과다 출혈·통증이 있으면 3개월을 기다리지 않음)
+> * **심한 하복부 통증**, **가슴 통증/호흡곤란**, **한쪽 다리의 심한 부종·통증**, **갑작스러운 극심한 두통·마비·말 어눌함·시야 이상**이 생긴 경우 - 즉시 진료
+> * IUD 실이 만져지지 않거나 삽입 부위 통증이 지속되는 경우; IUD 사용 중 임신 검사 양성이면 통증이 없어도 당일 평가
 > * 응급피임 후 3주 내 정상 월경/소퇴성 출혈이 없으면 임신 검사; 예정일보다 LNG 5일 이상·UPA 7일 초과 지연 또는 비정상 출혈·임신 증상 시 더 일찍 검사
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### ＜임상 근거＞
+
+* WHO. [Medical eligibility criteria for contraceptive use, 6th ed.](https://www.who.int/publications/i/item/9789240115583) 및 [Selected practice recommendations for contraceptive use, 4th ed.](https://www.who.int/publications/i/item/9789240115606). 2025.
+* WHO. [WHO guidelines on expanding contraceptive options](https://www.who.int/publications/i/item/9789240124578). 2026-09-23.
+* CDC. [U.S. Medical Eligibility Criteria for Contraceptive Use, 2024](https://www.cdc.gov/mmwr/volumes/73/rr/rr7304a1.htm) 및 [Appendices](https://www.cdc.gov/mmwr/volumes/73/rr/rr7304a1_appendix.htm).
+* CDC. [U.S. Selected Practice Recommendations for Contraceptive Use, 2024](https://www.cdc.gov/mmwr/volumes/73/rr/rr7303a1.htm): [임신 배제 기준](https://www.cdc.gov/contraception/hcp/usspr/not-pregnant.html), [CHC](https://www.cdc.gov/contraception/hcp/usspr/combined-hormonal-contraceptives.html), [POP](https://www.cdc.gov/contraception/hcp/usspr/progestin-only-pills.html), [IUD](https://www.cdc.gov/contraception/hcp/usspr/intrauterine-contraception.html), [임플란트](https://www.cdc.gov/contraception/hcp/usspr/implants.html), [주사제](https://www.cdc.gov/contraception/hcp/usspr/injectables.html), [응급피임](https://www.cdc.gov/contraception/hcp/usspr/emergency-contraception.html).
+* FSRH. [Emergency Contraception](https://www.fsrh.org/Common/Uploaded%20files/documents/fsrh-guideline-emergency-contraception03dec2020-amendedjuly2023-11jul.pdf). Amended July 2023: 효소 유도제·LNG 3 ㎎ 및 상호작용 관련 참고.
+* FSRH. [Statement: Ulipristal Acetate and Breastfeeding](https://www.fsrh.org/Common/Uploaded%20files/documents/FSRH-Statement-Ulipristal-Acetate-and-Breastfeeding.pdf). January 2025.
+* ACOG. [Depot Medroxyprogesterone Acetate and Bone Effects](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2014/06/depot-medroxyprogesterone-acetate-and-bone-effects). Committee Opinion: 골밀도와 장기 사용의 임상적 판단.
+* FSRH. [Contraception for Women Aged over 40 Years](https://fsrh.org/Common/Uploaded%20files/documents/fsrh-guideline-contraception-for-women-aged-over-40-years.pdf): 폐경 이행기 피임·MHT 구분.
+* ACOG. [Pain Management for In-Office Uterine and Cervical Procedures](https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2025/05/pain-management-for-in-office-uterine-and-cervical-procedures). Clinical Consensus No. 9. 2025.
+* Society of Family Planning. [Emergency contraception](https://societyfp.org/clinical_guidances/society-of-family-planning-clinical-recommendation-emergency-contraception/). 2023; reaffirmed April 2026.
+* CDC. [Permanent contraception](https://www.cdc.gov/contraception/hcp/usspr/permanent-contraception.html), [When contraceptive protection is no longer needed](https://www.cdc.gov/contraception/hcp/usspr/contraception-not-needed.html). U.S. SPR 2024.
+* NHS SPS. [Choosing a medicine to delay periods](https://www.sps.nhs.uk/articles/choosing-a-medicine-to-delay-periods/). Updated May 2025.
+* EMA. [Medroxyprogesterone acetate — Risk of meningioma and measures to minimise this risk](https://www.ema.europa.eu/en/medicines/dhpc/medroxyprogesterone-acetate). 2024.
+* FDA. [Mounjaro (tirzepatide) Prescribing Information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/215866s009lbl.pdf). 2026.
+* FDA. NEXPLANON — 2026년 1월 피임 허가기간 5년 연장; [승인 문서](https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/021529Orig1s027ltr.pdf).
+* FDA. [DEPO-PROVERA CI Prescribing Information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/020246s074lbl021583s045lbl.pdf). December 2025: 수막종 경고 및 골밀도 관련 장기 사용 제한.
+
+### ＜허가·급여 확인 자료＞
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/): 국내 품목별 효능·효과, 용법·용량, 금기·주의사항 확인 자료.
+* 국내 허가 주요 대조 품목(2026-10-29): 슬린다(202401957), 미레나(200801711), 카일리나(201702435), 제이디스(201309383), 야스민(200801550)·야즈(200807400), 머시론(200009522), 엘라원(201104376), 노레보원(200700537), 임플라논엔엑스티(200109263). 괄호는 식약처 품목기준코드임. 노원질좌제는 한미약품 제품설명서와 대조함; 과거 해외 상품명 예시는 정리함.
+* 제공 자료: KCD9_251216(4).xlsx — 「상병분류기호(완전코드)」 Z30.0·Z30.1·Z30.2·Z30.4·Z30.5·Z30.8·Z30.9 및 포함 용어 대조.
+* 국내 허가 유무·내용과 실제 공급·개별 급여 인정은 별개임. 해외 방법으로 제시한 주사·패치·질내링과 과거 해외 상품의 현행 국내 공급은 확정하지 않음.
 
 ***
 
@@ -521,31 +597,16 @@ Z30.9 상세불명의 피임 관리
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
 * **경구 피임약은 매일 같은 시각에 복용하십시오.** 하루를 잊었다면 생각난 즉시 복용하고, 이틀 이상 잊었다면 병원이나 약국에 문의하세요.
-* **응급 피임약은 가능한 한 빨리 복용하십시오.** 복용 후 새로 하는 성관계까지 보호해 주지는 않습니다. 엘라원을 복용했다면 일반 호르몬 피임약은 5일을 기다린 뒤 시작하며, 기다리는 동안에도 콘돔을 쓰거나 성관계를 피해야 합니다.
+* **응급 피임약은 가능한 한 빨리 복용하십시오.** 복용 후 새로 하는 성관계까지 보호해 주지는 않습니다. 일반 피임약을 언제 시작할지는 처방 시 안내받은 일정을 따르고, 같은 주기에 피임 실패가 다시 생기면 임의로 약을 번갈아 먹지 말고 바로 상담하십시오. 엘라원을 복용했다면 일반 호르몬 피임약은 5일을 기다린 뒤 시작하며, 기다리는 동안에도 콘돔을 쓰거나 성관계를 피해야 합니다.
 * **응급피임 후 정상 월경이 없으면 임신 검사가 필요합니다.** 복용 후 3주가 지나기 전이라도 월경이 예정일보다 많이 늦거나 평소와 다른 출혈·임신 증상이 있으면 진료받으십시오.
 * **수유 중이라면 약을 처방받기 전에 말씀하십시오.** 국내 제품별로 수유 관련 주의사항이 다릅니다.
+* 피임약·자궁내장치·이식제 사용 중 가벼운 불규칙 출혈이 생길 수 있습니다. 출혈이 많거나 오래가고, 통증·발열·성교 후 출혈이 있으면 진료받으십시오.
+* 폐경 증상에 사용하는 호르몬요법만으로는 피임이 되지 않습니다.
 * **IUD 삽입 시 통증이 걱정된다면 미리 말씀해 주세요.** 국소마취 등 통증을 줄이는 방법을 제공받을 수 있습니다.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
 * 심한 배 아픔, 가슴 통증이나 숨참, 한쪽 다리가 심하게 붓고 아픈 경우
-* 심한 두통과 함께 눈이 잘 안 보이거나 물체가 두 개로 보이는 경우
+* 갑자기 극심한 두통이 생기거나, 두통과 관계없이 한쪽 팔다리에 힘이 빠지고 말이 어눌해지거나 눈이 잘 안 보이는 경우
 * 임신이 의심되는데 배가 한쪽으로 심하게 아픈 경우 (피임 중이라도 가능성 있음)
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* CDC. [U.S. Medical Eligibility Criteria for Contraceptive Use, 2024](https://www.cdc.gov/mmwr/volumes/73/rr/rr7304a1.htm) 및 [Appendices](https://www.cdc.gov/mmwr/volumes/73/rr/rr7304a1_appendix.htm).
-* CDC. [U.S. Selected Practice Recommendations for Contraceptive Use, 2024](https://www.cdc.gov/mmwr/volumes/73/rr/rr7303a1.htm): [임신 배제 기준](https://www.cdc.gov/contraception/hcp/usspr/not-pregnant.html), [CHC](https://www.cdc.gov/contraception/hcp/usspr/combined-hormonal-contraceptives.html), [POP](https://www.cdc.gov/contraception/hcp/usspr/progestin-only-pills.html), [IUD](https://www.cdc.gov/contraception/hcp/usspr/intrauterine-contraception.html), [임플란트](https://www.cdc.gov/contraception/hcp/usspr/implants.html), [주사제](https://www.cdc.gov/contraception/hcp/usspr/injectables.html), [응급피임](https://www.cdc.gov/contraception/hcp/usspr/emergency-contraception.html).
-* FSRH. [Statement: Ulipristal Acetate and Breastfeeding](https://www.fsrh.org/Common/Uploaded%20files/documents/FSRH-Statement-Ulipristal-Acetate-and-Breastfeeding.pdf). January 2025.
-* NHS SPS. [Choosing a medicine to delay periods](https://www.sps.nhs.uk/articles/choosing-a-medicine-to-delay-periods/). Updated May 2025.
-* EMA. [Medroxyprogesterone acetate — Risk of meningioma and measures to minimise this risk](https://www.ema.europa.eu/en/medicines/dhpc/medroxyprogesterone-acetate). 2024.
-* FDA. [Mounjaro (tirzepatide) Prescribing Information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/215866s009lbl.pdf). 2026.
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/): 국내 품목별 효능·효과, 용법·용량, 금기·주의사항 확인 자료.
-* 본문 관련 국내 품목: 슬린다, 미레나, 카일리나, 제이디스, 야스민·야즈, 엘라원, 노레보원, 임플라논엔엑스티, 프로베라, 노원질좌제.
+* 자궁내장치를 사용하는 중 임신 검사에서 양성이 나오면 통증이 없어도 당일 진료받으십시오
