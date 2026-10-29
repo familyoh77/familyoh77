@@ -1,11 +1,11 @@
-# 야간 하지 경련 Nocturnal Leg Cramps (NLC)
+# 야간 하지 경련 Nocturnal Leg Cramps, NLC
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 취침 중 또는 안정 시 갑자기 발생하여 수 초\~수 분간 지속되는 다리 및/또는 발의 불수의적 근육 긴장 또는 경련
 * 다른 이름 : sleep-related leg cramps, rest cramps, charley horse
 * 정의 : 통증을 동반한 불수의적 근육 수축으로, 대개 비복근(gastrocnemius)이나 발의 소근육을 침범하며 때로 허벅지에서도 발생
-* 이 챕터는 야간 하지 통증 중 통증성 근육 경련을 다룸; 실제 근육 수축 없이 지속되는 통증은 혈관·신경·근골격 질환 등 다른 원인을 평가
+* 이 챕터는 주로 성인의 야간 하지 통증 중 통증성 근육 경련을 다룸; 실제 근육 수축 없이 지속되는 통증은 혈관·신경·근골격 질환 등 다른 원인을 평가
 * 유병률 : 성인의 약 50~60%가 일생 중 경험하며, 나이가 들수록 흔해짐; 조사 기간·증상 정의에 따라 유병률이 달라짐
 * 통증으로 잠에서 깨어나며, 빈번히 반복되는 경우 수면의 질 저하 및 만성 피로로 이어질 수 있음
 * 임신부(특히 임신 후반기)에서도 흔히 발생
@@ -98,7 +98,7 @@
 
 ```mermaid
 graph TD
-    A["야간 하지 통증 또는 경련"] ---> B["병력·진찰 및 약물 검토"]
+    A["야간 하지 경련 의심"] ---> B["병력·진찰 및 약물 검토"]
     B ---> D{"즉각 또는 당일~수일 내 평가 항목?"}
     D --->|예| F["Red Flags의 응급도에 따라 평가·의뢰"]
     D --->|아니오| C{"통증성 근육 수축이 있고 신전으로 완화?"}
@@ -109,13 +109,13 @@ graph TD
     G --->|아니오| H["특발성 NLC: 일률적 혈액검사는 불필요"]
     P ---> Q["신전·스트레칭·유발 요인 조정"]
     H ---> Q
-    Q ---> I{"4~6주 후 충분히 호전? 심하면 더 일찍 평가"}
-    I --->|예| J["유지 및 재발 시 재교육"]
+    Q --->|보통 4~6주; 심하면 조기 평가| I{"추적 평가에서 충분히 호전?"}
+    I --->|예| J(["자가관리 유지·재발 시 재평가"])
     I --->|아니오| K["진단·이차 원인·치료 시행 여부 재평가"]
     K ---> L{"수면·일상생활에 상당한 지장?"}
     L --->|아니오| J
     L --->|예| M["근거·위험 설명 후 선별적 단기 약물 시험 또는 의뢰"]
-    M ---> N["반응·부작용 재평가; 무효 시 중단"]
+    M ---> N(["반응·부작용 재평가; 무효 시 중단"])
 
     style D fill:#fef9e7,stroke:#fff59d
     style F fill:#fdebed,stroke:#ffcdd2,stroke-width:2px
@@ -134,7 +134,7 @@ graph TD
 {% hint style="info" %}
 **단계별 치료 전략 (Step-wise Approach)**
 
-Red Flags가 없는 특발성 NLC는 비약물 치료가 1차입니다. 전형적인 경우 일률적 혈액검사나 약물 처방이 필요하지 않으며, 스트레칭·생활 습관 교정과 유발 가능 약물 검토를 우선합니다. 4\~6주 후에도 빈번한 경련으로 수면이나 일상생활에 상당한 지장이 지속될 때에만, 이차 원인을 재평가한 뒤 제한된 근거를 설명하고 선별적으로 off-label 약물 trial을 고려합니다.
+Red Flags가 없는 특발성 NLC는 비약물 치료가 1차입니다. 전형적인 경우 일률적 혈액검사나 약물 처방이 필요하지 않으며, 스트레칭·생활 습관 교정과 유발 가능 약물 검토를 우선합니다. 보통 4\~6주에 치료 반응을 재평가하되, 증상이 심하면 더 일찍 평가합니다. 이 기간은 실무상 추적 간격이며 반드시 기다려야 하는 기준은 아닙니다. 상당한 수면·일상생활 지장이 지속되면 진단과 이차 원인을 재평가하고, 의뢰 또는 제한적인 근거의 허가 외 약물 시험치료를 개별적으로 검토합니다.
 {% endhint %}
 
 ***
@@ -146,9 +146,10 @@ Red Flags가 없는 특발성 NLC는 비약물 치료가 1차입니다. 전형�
 * 탈수 위험이 있거나 수분 섭취가 부족한 경우에는 적절한 수분 섭취를 권고하되, 심부전·신부전 등 수분 제한이 필요한 환자는 개별 조정
 * 과도한 운동·장시간의 같은 자세 등 개인별 유발 요인을 줄이고, 무리가 없는 수준의 규칙적 신체활동 유지
 * 취침 전 calf + hamstring stretching : <mark style="color:$info;">Cochrane 2021</mark>에서는 강도 감소의 근거 확실성은 낮고, 빈도 감소의 근거 확실성은 매우 낮음; 위험이 낮아 우선 시도하되 효과를 보장하지 않음. 종아리는 무릎을 편 상태에서 발목을 발등굽힘(dorsiflexion)하여 비복근을 신전하고, 햄스트링(허벅지 뒤쪽)도 함께 규칙적으로 스트레칭
-* 취침 전 수 분간 가벼운 고정식 자전거 운동 등을 시도할 수 있음
-* Compression stockings(무릎 아래 의료용 압박스타킹) : 2026년 50~85세 121명 무작위배정(주 분석 114명) 3군 RCT에서 4주 관찰 후 4주간 **기상 직후부터 취침 전까지 주간 착용** 시 placebo 대비 경련 빈도 감소(보정 평균차 −1.43회/주; 95% CI −2.36~−0.50); 통증·경련 관련 야간 각성도 감소. 취침 중 착용 요법을 평가한 연구가 아님. 4명이 이상반응으로 중단하였으며 중대한 이상반응은 없었음
-* 압박스타킹의 적용 제한 : 말초동맥질환(의심 포함), 중증 신경병증/감각장애, eGFR ＜30 mL/min, 폐부종·심부전에 의한 심한 하지부종, 활동성 피부병변 등은 연구에서 제외됨. 적합성·규격·압박 강도를 개별 평가; 연구 제외가 곧 모든 상황에서 절대금기를 뜻하지는 않음. 대상자 선정·결과 평가가 주로 자가보고에 의존하고 착용군 눈가림이 불가능한 단일 단기 연구이므로 일률적 표준치료로 권고하기에는 근거가 부족함 <mark style="color:$info;">([Trials 2026;27:216](https://doi.org/10.1186/s13063-025-09370-z))</mark>
+* 스트레칭 시행 예 : 매일 취침 직전 종아리·햄스트링을 각각 **10초 유지 × 3회**, 반복 사이 약 10초 이완하며 6주간 시도한 연구가 있음. 벽이나 의자 등 안정된 지지물을 이용하고, 반동을 주거나 통증을 참으며 과도하게 늘리지 않음. 고령·균형장애 환자는 앉아서 시행하는 방법 등으로 조정 <mark style="color:$info;">([J Physiother 2012;58:17-22](https://doi.org/10.1016/S1836-9553(12)70068-1))</mark>
+* 취침 전 수 분간 가벼운 고정식 자전거 운동 등을 시도할 수 있으나, 경련 예방 효과를 뒷받침하는 임상시험 근거는 부족함
+* Compression stockings(무릎 아래 의료용 압박스타킹) : 2026년 50~85세 121명 무작위배정(주 분석 114명) 3군 RCT(주·야간 하지 경련을 포함)에서 4주 관찰 후 4주간 **기상 직후부터 취침 전까지 주간 착용** 시 placebo 대비 경련 빈도 감소(보정 평균차 −1.43회/주; 95% CI −2.36~−0.50); 통증·경련 관련 야간 각성도 감소. 취침 중 착용 요법을 평가한 연구가 아님. 4명이 이상반응으로 중단하였으며 중대한 이상반응은 없었음
+* 압박스타킹의 적용 제한 : 말초동맥질환(의심 포함), 중증 신경병증/감각장애, eGFR ＜30 mL/min, 폐부종·심부전에 의한 심한 하지부종, 활동성 피부병변 등은 연구에서 제외됨. 적합성·규격·압박 강도를 개별 평가; 연구 제외가 곧 모든 상황에서 절대금기를 뜻하지는 않음. 대상자 선정·결과 평가가 주로 자가보고에 의존하고 착용군 눈가림이 불가능하며, 당초 계획보다 적은 표본으로 모집을 종료한 단일 단기 연구이므로 일률적 표준치료로 권고하기에는 근거가 부족함 <mark style="color:$info;">([Trials 2026;27:216](https://doi.org/10.1186/s13063-025-09370-z))</mark>
 
 <figure><img src="../.gitbook/assets/야간경련1.png" alt=""><figcaption></figcaption></figure>
 
@@ -167,12 +168,13 @@ Red Flags가 없는 특발성 NLC는 비약물 치료가 1차입니다. 전형�
 
 * 특발성 NLC → 일률적 투여를 권장하지 않음 : 비임신 성인, 주로 고령자 대상 연구에서 일관된 유의한 예방 효과는 확인되지 않음 <mark style="color:$info;">(Cochrane 2020)</mark>. Magnesium oxide monohydrate를 **60일** 투여한 단일 RCT에서는 빈도 감소가 보고되었으나 30일에는 유의한 차이가 없었으며, 이를 60일 이상 장기투여의 효과가 확립된 것으로 해석하지 않음; 특정 Mg 제형을 표준적으로 권고할 근거는 부족 <mark style="color:$info;">([Nutr J 2021;20:90](https://doi.org/10.1186/s12937-021-00747-9))</mark>
 * 2026년 발표된 3군 RCT(compression stockings vs magnesium vs placebo, 50\~85세 121명)에서도 magnesium은 placebo 대비 유의한 차이가 없어(보정 평균차 −0.20; 95% CI −1.49\~1.09; *Trials* 2026;27:216) 해당 연구에서도 예방 효과를 입증하지 못함
+* 2026년 CoLaus|PsyCoLaus 관찰연구에서도 Mg 보충의 야간 경련 예방 이득은 확인되지 않음. 복용자에서 경련이 더 흔했다는 연관성은 역인과·잔여 교란 가능성이 있어, Mg가 경련을 유발한다는 인과 근거로 해석하지 않음 <mark style="color:$info;">([Eur J Nutr 2026](https://doi.org/10.1007/s00394-026-03910-2))</mark>
 * 저마그네슘혈증 교정 목적 → 결핍이 확인되거나 강하게 의심되는 경우에는 원인 교정의 일부로 보충 가능
 * 신기능 저하에서는 Mg 축적 위험이 있으므로 주의; 설사·복통 등 위장관 부작용도 확인함
 
 ### <mark style="color:orange;">Vit B 복합체</mark>
 
-* 일부 소규모 RCT에서 효과 가능성이 보고되었으나 근거 수준은 낮아 일률적 치료로 권고하기 어려움
+* 고혈압을 동반한 고령 환자 28명의 소규모 RCT에서 효과 가능성이 보고되었으나 근거 수준은 낮아 일률적 치료로 권고하기 어려움. 연구에 사용된 복합제·용량의 결과를 모든 시판 비타민 B 복합제에 일반화하지 않음 <mark style="color:$info;">([J Clin Pharmacol 1998;38:1151-1154](https://doi.org/10.1177/009127009803801210))</mark>
 * 비약물 치료에 반응하지 않는 환자에서 근거의 한계를 설명한 뒤 제한적으로 trial을 고려할 수 있음
 * 비타민 결핍 위험(영양불량, 과도한 음주, 위축성 위염, 위절제술 등)이 있으면 해당 결핍 여부를 별도로 평가
 * B6(pyridoxine) 함유 제품은 종합비타민·Mg/아연 복합제 등을 포함한 **전체 일일 섭취량과 중복 복용**을 확인함. 말초신경병증은 50 ㎎/d 미만에서도 보고되어 고용량·장기 복용에만 국한하지 않으며, 개인별 안전 하한이 확립되어 있지 않음. 새 손발 저림·화끈거림·감각저하가 나타나면 B6 보충제를 중단하고 평가함; NLC 목적으로 고용량을 장기간 투여하지 않음 <mark style="color:$info;">(TGA 안전성 공지)</mark>
@@ -181,8 +183,9 @@ Red Flags가 없는 특발성 NLC는 비약물 치료가 1차입니다. 전형�
 
 * Diltiazem : 극소규모 이중맹검 crossover 연구(N=13, 2주)에서 경련 빈도 감소가 보고되었으나(경련 강도에는 효과 없음) 표본이 매우 작고 방법론적 세부사항이 부족하여, 근거가 매우 제한적인 허가 외 선택지 <mark style="color:$info;">([Age Ageing 2001;30:91-92](https://doi.org/10.1093/ageing/30.1.91))</mark>
 * Verapamil : 신뢰할 만한 무작위 대조 근거가 부족하여 일률적 치료로 권고하지 않음
-* 빈번하고 심한 NLC가 비약물 치료에 반응하지 않을 때, 2주간의 diltiazem trial 후 경련 빈도·강도로 재평가
-* 저혈압, 서맥, 동기능부전/방실전도장애 및 심부전을 확인. 중증 울혈성 심부전, 수축기혈압 ＜90 mmHg, 박동기 없는 동기능부전·2/3도 방실차단, 임신·임신 가능성 및 ivabradine 병용은 국내 허가상 금기; 수유 중에는 투여를 피함
+* 빈번하고 심한 NLC가 비약물 치료에 반응하지 않을 때에도 diltiazem을 자동으로 다음 단계에 처방하지 않음. 개별적으로 시험치료를 선택한 경우 2주 후 경련 빈도·강도와 부작용을 재평가하고, 명확한 이득이 없으면 중단
+* 국내 허가상 금기 : 중증 울혈성 심부전, 박동기 없는 동기능부전·동방블록·2/3도 방실블록, 수축기혈압 ＜90 ㎜Hg 또는 쇼크, 과민반응 병력, 급성 심근경색·폐울혈, 임신·임신 가능성 및 ivabradine 병용. 수유 중에는 투여를 피함
+* 중증 간·신부전, 1도 방실블록 및 심부전에서는 신중 투여. 허가사항상 dantrolene 주입액 병용은 피하며, asunaprevir 병용은 DUR 병용금기임
 * β차단제·digoxin 등 심박수 저하 약물과 CYP3A4 관련 상호작용을 확인하고, 투여 전·중 혈압과 맥박을 평가; 전도장애 단서가 있으면 심전도 확인
   * 통풍으로 colchicine을 복용 중이면 diltiazem·verapamil이 colchicine 노출·독성을 증가시킬 수 있으므로 병용 대안·감량 필요성과 제품별 금기를 확인함(152 참조). 단순히 30 ㎎ 저용량이라는 이유로 상호작용을 배제하지 않음
   * Simvastatin·lovastatin 병용 시 노출 증가로 근육병증·횡문근융해증 위험이 높아질 수 있음. 대체 statin 또는 제품별 용량 제한을 검토하고 근육통·근력저하·진한 소변이 나타나면 평가함
@@ -195,7 +198,7 @@ Red Flags가 없는 특발성 NLC는 비약물 치료가 1차입니다. 전형�
 * 단순히 신경근병증/좌골신경통이 있다는 이유만으로 사용하지 않음; NICE NG59는 좌골신경통에 gabapentinoid를 권고하지 않음
 * 고령자는 졸림·어지럼·낙상 위험과 신기능을 고려하여 용량·증량 속도 조절; opioid 등 중추신경 억제제 병용 또는 호흡기질환에서는 호흡억제 위험에 주의
 * Gabapentin 용량 조절에는 허가사항의 CrCl 기준을 적용함(001의 신기능별 용량표 참조). NSAID·acetaminophen은 경련 예방약이 아니며, 별도 통증에 쓰더라도 야간 경련 치료로 장기 처방하지 않음
-* 지속 복용 후 감량·중단은 적어도 1주 이상에 걸쳐 점진적으로 시행
+* 지속 복용 후 중단은 용량·투여 기간·환자 상태를 고려하여 점진적으로 감량. 국내 허가사항의 예는 900~1,800 ㎎/d 복용 시 최소 1주 이상, 3,600 ㎎/d 복용 시 최소 3주 이상임; 모든 용량을 1주 만에 중단하는 것으로 해석하지 않음
 
 ### <mark style="color:orange;">근이완제</mark>
 
@@ -225,7 +228,8 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 
 ### <mark style="color:red;">질병코드</mark>
 
-* R25.2 경련 및 연축 Cramp and spasm
+* **R25.2 경련 및 연축 Cramp and spasm**
+* 제공된 KCD-9 엑셀의 「상병분류기호(전체)」와 「상병분류기호(완전코드)」에서 확인함(엑셀 원자료 표기 : R252). 특발성 NLC의 증상 코드로 사용하며, 이차 원인이 확인되면 해당 질환 코드를 임상 상황에 맞게 적용
 
 ***
 
@@ -253,7 +257,7 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 > 뉴론틴캡슐 300 ㎎  1C  취침 전 (신경병증성 통증 치료 시작 첫날의 예)
 > ```
 >
-> _✽국내 허가상 신경병증성 통증의 적정 예는 첫날 300 ㎎ 1회, 둘째 날 300 ㎎ 2회, 셋째 날부터 300 ㎎ 3회입니다. 이는 NLC 예방 용법이 아니며, 고령·허약·신기능 저하에서는 용량과 증량 간격을 개별 조절합니다. 단순 좌골신경통에 일률적으로 사용하지 않습니다. 졸림·어지럼·낙상 및 중추신경 억제제 병용 시 호흡억제에 주의하고, 지속 복용 후 중단 시 적어도 1주 이상 점진적으로 감량합니다._
+> _✽국내 허가상 신경병증성 통증의 적정 예는 첫날 300 ㎎ 1회, 둘째 날 300 ㎎ 2회, 셋째 날부터 300 ㎎ 3회입니다. 이는 NLC 예방 용법이 아니며, 고령·허약·신기능 저하에서는 용량과 증량 간격을 개별 조절합니다. 단순 좌골신경통에 일률적으로 사용하지 않습니다. 졸림·어지럼·낙상 및 중추신경 억제제 병용 시 호흡억제에 주의하고, 지속 복용 후 중단은 용량·기간에 따라 점진적으로 감량하며, 국내 허가사항은 900~1,800 ㎎/d에서 최소 1주 이상, 3,600 ㎎/d에서 최소 3주 이상을 예시합니다._
 
 ***
 
@@ -290,6 +294,39 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 
 ***
 
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Garrison SR, et al. Nocturnal leg cramps and prescription use that precedes them: a sequence symmetry analysis. Arch Intern Med. 2012;172:120-126. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22157068/)
+* Garrison SR, et al. Magnesium for skeletal muscle cramps. Cochrane Database Syst Rev. 2020;9:CD009402. [Cochrane](https://www.cochrane.org/evidence/CD009402_magnesium-muscle-cramps)
+* Luo L, et al. Interventions for leg cramps in pregnancy. Cochrane Database Syst Rev. 2020;12:CD010655. [Cochrane](https://www.cochrane.org/evidence/CD010655_interventions-leg-cramps-during-pregnancy)
+* Hallegraeff JM, et al. Stretching before sleep reduces the frequency and severity of nocturnal leg cramps in older adults: a randomised trial. J Physiother. 2012;58:17-22. [원문](https://doi.org/10.1016/S1836-9553(12)70068-1)
+* Hawke F, et al. Non-drug therapies for the secondary prevention of lower limb muscle cramps. Cochrane Database Syst Rev. 2021;5:CD008496. [Cochrane](https://www.cochrane.org/evidence/CD008496_non-drug-treatments-leg-and-foot-cramps)
+* Barna O, et al. A randomized, double-blind, placebo-controlled, multicenter study assessing the efficacy of magnesium oxide monohydrate in the treatment of nocturnal leg cramps. Nutr J. 2021;20:90. [원문](https://doi.org/10.1186/s12937-021-00747-9)
+* Kuusipalo A, et al. Secondary prevention of leg cramps using compression stockings or magnesium supplements: a three-arm randomized clinical trial. Trials. 2026;27:216. [원문](https://doi.org/10.1186/s13063-025-09370-z)
+* Stadie N, Heinzer R, Marques-Vidal P. Magnesium supplements, sleep quality, and nocturnal leg cramps: a combination of cross-sectional and prospective studies. Eur J Nutr. 2026. [원문](https://doi.org/10.1007/s00394-026-03910-2)
+* Chan P, et al. Randomized, double-blind, placebo-controlled study of the safety and efficacy of vitamin B complex in the treatment of nocturnal leg cramps in elderly patients with hypertension. J Clin Pharmacol. 1998;38:1151-1154. [원문](https://doi.org/10.1177/009127009803801210)
+* Voon WC, Sheu SH. Diltiazem for nocturnal leg cramps. Age Ageing. 2001;30:91-92. [원문](https://doi.org/10.1093/ageing/30.1.91)
+* Tan J, et al. Vitamin K₂ in Managing Nocturnal Leg Cramps: A Randomized Clinical Trial. JAMA Intern Med. 2024;184(12):1443-1448. 2025년 수정 재출판본 기준. [원문](https://doi.org/10.1001/jamainternmed.2024.5726)
+* Tan J, Zhu R. Notice of Retraction and Replacement. JAMA Intern Med. 2025;185:904. [공지](https://doi.org/10.1001/jamainternmed.2025.2160)
+* Park SJ, et al. Botulinum Toxin Treatment for Nocturnal Calf Cramps in Patients With Lumbar Spinal Stenosis: A Randomized Clinical Trial. Arch Phys Med Rehabil. 2017;98:957-963. [원문](https://doi.org/10.1016/j.apmr.2017.01.017)
+* NICE. Low back pain and sciatica in over 16s: assessment and management (NG59). [권고](https://www.nice.org.uk/guidance/ng59/chapter/recommendations)
+* NICE. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing (NG158). [권고](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations)
+* NICE. Hypertension in pregnancy: diagnosis and management (NG133). [권고](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
+* TGA. [Peripheral neuropathy with supplementary vitamin B6 (pyridoxine)](https://www.tga.gov.au/news/safety-updates/peripheral-neuropathy-supplementary-vitamin-b6-pyridoxine)
+* FDA/DailyMed. [Quinine sulfate boxed warning 및 사용상 주의사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f567d5c7-ea5d-49a7-a035-b47208135f73)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 헤르벤정·뉴론틴캡슐300밀리그램의 국내 적응증·용법·금기·감량 기준 확인(2026-10-29). Diltiazem의 NLC 치료는 허가 외 사용이며, gabapentin은 별도 신경병증성 통증 적응증과 구분함.
+
+* KCD-9. 제공된 `KCD9_251216(6).xlsx` — R252의 코드·한글명·영문명을 전체/완전코드 시트에서 직접 대조.
+
+* FDA/DailyMed. [Diltiazem hydrochloride tablets — Statins.](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b733c439-905b-4e8f-8fc0-acde148974c4&type=display) — simvastatin·lovastatin 노출 증가와 근육 독성; 수치상 용량 제한은 국내 선택 제품의 허가사항과 구분하여 적용함.
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -312,7 +349,7 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 예방하나요?</mark>
 
-* **자기 전 종아리 및 허벅지 뒤쪽(햄스트링) 스트레칭을 규칙적으로 시행하십시오.**
+* **자기 전 종아리 및 허벅지 뒤쪽(햄스트링) 스트레칭을 규칙적으로 시행하십시오.** 각각 10초씩 늘렸다가 풀기를 3회 반복하는 방법을 시도할 수 있습니다. 반동을 주거나 통증을 참으며 억지로 늘리지 마십시오. 서 있을 때 불안정하면 앉아서 시행하는 방법을 의료진에게 배우십시오.
 * 탈수가 의심되거나 평소 수분 섭취가 적다면 적절한 수분을 섭취하십시오. 다만 심장·신장 질환으로 수분 제한이 있는 경우 담당의와 상의하십시오.
 * 과도한 운동이나 오랜 시간 같은 자세로 있는 것이 경련을 유발한다면 이를 줄이십시오.
 * 최근 새로 시작했거나 용량을 변경한 약이 있다면 의료진에게 알리십시오.
@@ -320,7 +357,7 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 
 #### <mark style="color:$primary;">약은 꼭 먹어야 하나요?</mark>
 
-* 대부분은 약보다 스트레칭과 생활 습관 조절이 먼저입니다.
+* 대부분은 약보다 스트레칭과 생활 습관 조절이 먼저입니다. 이미 복용 중인 약은 임의로 끊지 말고 의료진과 조정하십시오.
 * **마그네슘은 특발성 야간 하지 경련에서 효과가 확실하지 않아 모든 환자에게 일률적으로 권하지 않습니다.** 결핍이 확인되거나 의심되는 경우에는 별도로 보충할 수 있습니다.
 * 반복적인 경련으로 수면이 심하게 방해되고 비약물 치료로도 호전되지 않을 때에는 의료진이 제한적인 근거를 설명한 뒤 약물 치료를 선별적으로 고려할 수 있습니다.
 * **퀴닌(quinine) 성분은 심각한 혈액 이상과 부정맥 등의 위험 때문에 야간 하지 경련 치료 목적으로 사용하지 않습니다.**
@@ -332,31 +369,3 @@ Quinine은 경련 빈도를 감소시킬 수 있으나 혈소판감소증, HUS/T
 * 다리에 힘이 빠지거나 감각이 급격히 둔해질 때
 * 회음부 감각이 둔해지거나 갑자기 소변이 나오지 않거나 소변·대변 조절에 문제가 생길 때(허리 통증이 심하지 않아도 해당)
 * 임신·출산 후 심한 두통, 시야 이상, 명치/오른쪽 윗배 통증 또는 숨참이 생길 때
-
-***
-
-## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Garrison SR, et al. Nocturnal leg cramps and prescription use that precedes them: a sequence symmetry analysis. Arch Intern Med. 2012;172:120-126. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22157068/)
-* Garrison SR, et al. Magnesium for skeletal muscle cramps. Cochrane Database Syst Rev. 2020;9:CD009402. [Cochrane](https://www.cochrane.org/evidence/CD009402_magnesium-muscle-cramps)
-* Luo L, et al. Interventions for leg cramps in pregnancy. Cochrane Database Syst Rev. 2020;12:CD010655. [Cochrane](https://www.cochrane.org/evidence/CD010655_interventions-leg-cramps-during-pregnancy)
-* Hawke F, et al. Non-drug therapies for the secondary prevention of lower limb muscle cramps. Cochrane Database Syst Rev. 2021;5:CD008496. [Cochrane](https://www.cochrane.org/evidence/CD008496_non-drug-treatments-leg-and-foot-cramps)
-* Barna O, et al. A randomized, double-blind, placebo-controlled, multicenter study assessing the efficacy of magnesium oxide monohydrate in the treatment of nocturnal leg cramps. Nutr J. 2021;20:90. [원문](https://doi.org/10.1186/s12937-021-00747-9)
-* Kuusipalo A, et al. Secondary prevention of leg cramps using compression stockings or magnesium supplements: a three-arm randomized clinical trial. Trials. 2026;27:216. [원문](https://doi.org/10.1186/s13063-025-09370-z)
-* Voon WC, Sheu SH. Diltiazem for nocturnal leg cramps. Age Ageing. 2001;30:91-92. [원문](https://doi.org/10.1093/ageing/30.1.91)
-* Tan J, et al. Vitamin K₂ in Managing Nocturnal Leg Cramps: A Randomized Clinical Trial. JAMA Intern Med. 2024;184(12):1443-1447. 2025년 수정 재출판본 기준. [원문](https://doi.org/10.1001/jamainternmed.2024.5726)
-* Tan J, Zhu R. Notice of Retraction and Replacement. JAMA Intern Med. 2025;185:904. [공지](https://doi.org/10.1001/jamainternmed.2025.2160)
-* Park SJ, et al. Botulinum Toxin Treatment for Nocturnal Calf Cramps in Patients With Lumbar Spinal Stenosis: A Randomized Clinical Trial. Arch Phys Med Rehabil. 2017;98:957-963. [원문](https://doi.org/10.1016/j.apmr.2017.01.017)
-* NICE. Low back pain and sciatica in over 16s: assessment and management (NG59). [권고](https://www.nice.org.uk/guidance/ng59/chapter/recommendations)
-* NICE. Venous thromboembolic diseases: diagnosis, management and thrombophilia testing (NG158). [권고](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations)
-* NICE. Hypertension in pregnancy: diagnosis and management (NG133). [권고](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations)
-* TGA. [Peripheral neuropathy with supplementary vitamin B6 (pyridoxine)](https://www.tga.gov.au/news/safety-updates/peripheral-neuropathy-supplementary-vitamin-b6-pyridoxine)
-* FDA/DailyMed. [Quinine sulfate boxed warning 및 사용상 주의사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f567d5c7-ea5d-49a7-a035-b47208135f73)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 헤르벤정·뉴론틴캡슐 등의 국내 적응증·용법·금기 확인. Diltiazem의 NLC 치료는 허가 외 사용이며, gabapentin은 별도 신경병증성 통증 적응증과 구분함.
-
-* FDA/DailyMed. [Diltiazem hydrochloride tablets — Statins.](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b733c439-905b-4e8f-8fc0-acde148974c4&type=display) — simvastatin·lovastatin 노출 증가와 근육 독성; 수치상 용량 제한은 국내 선택 제품의 허가사항과 구분하여 적용함.

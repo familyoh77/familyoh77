@@ -3,7 +3,7 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 골 형성과 골 흡수의 불균형에 의해 야기되는 골 질량(골밀도) 감소와 미세 구조 이상(골 조직 약화)을 특징으로 하는 전신적인 골격계 질환; 골 강도의 약화로 골절 위험성이 증가
-* 분류 : 원발성(제1형-폐경후 골다공증, 제2형-노인성 골다공증), 이차성(기저질환 또는 약물에 의한 골소실)
+* 분류 : 원발성(폐경 후·연령 관련 골다공증; 제1형/제2형은 전통적 분류), 이차성(기저질환 또는 약물에 의한 골소실)
 * 유병률 : 대상 연령, 측정 부위와 진단 방법에 따라 달라짐
   * 우리나라(2008\~2011년 국민건강영양조사, ≥50세 남성·폐경 여성, DXA 기준) : 골다공증 여성 38.0%, 남성 7.3%; 골감소증 여성 48.7%, 남성 46.5% \[Park 등, Yonsei Med J 2014]
   * 우리나라(2024년 국민건강영양조사, ≥65세; 2025.10.1 질병관리청 보도자료의 잠정치) : 골다공증 18.0%(남 3.8%, 여 31.6%). 대상 연령·측정 부위·조사 조건을 확인해야 하며, 위 DXA 조사 수치와 직접 비교하여 유병률 추세를 판단하지 않음
@@ -45,7 +45,7 @@
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 새로 발생한 요통과 함께 하지 위약·감각 저하·배뇨 또는 배변 장애  `척수·마미총 압박`
-* 외상 후 고관절 통증 + 보행 불능 또는 하지 단축·외회전  `대퇴골 골절`
+* 경미한 외상 후 또는 뚜렷한 외상 없이 발생한 심한 고관절 통증 + 체중 부하 불능 또는 하지 단축·외회전  `대퇴골 골절`
 * 급성 심한 요통 + 발열·전신 상태 악화  `척추 감염`
 * Romosozumab 투여 중 새 흉통·호흡곤란 또는 편측 위약·언어장애  `심근경색·뇌졸중`
 * 골흡수억제제 투여 후 경련·의식 변화·심한 근육 경련·부정맥 증상  `중증 저칼슘혈증`
@@ -57,7 +57,7 @@
 * Denosumab 다음 주사 일정 경과 또는 중단 예정인데 후속 요법이 없음  `반동성 골소실·척추 골절 위험`
 * 골흡수억제제 사용 중 구강의 노출 뼈·지속되는 누공·치유 지연  `약제관련악골괴사`
 
-비정형 대퇴골 골절 의심 시 양측 대퇴골 전체 X선을 확인하고, 정상 영상이어도 의심이 지속되면 MRI 등 추가 검사를 시행함. Denosumab 지연 시에는 신속히 투여·전환 계획을 마련하며, 급성 심한 요통이 동반되면 척추 골절을 평가함. 악골괴사 의심 시 치과/구강악안면외과와 협진함.
+고관절 골절이 의심되면 체중 부하를 피하고 신속히 영상검사·정형외과 평가를 시행함. 비정형 대퇴골 골절 의심 시 양측 대퇴골 전체 X선을 확인하고, 정상 영상이어도 의심이 지속되면 MRI 등 추가 검사를 시행함. Denosumab 지연 시에는 신속히 투여·전환 계획을 마련하며, 급성 심한 요통이 동반되면 척추 골절을 평가함. 악골괴사 의심 시 치과/구강악안면외과와 협진함.
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -84,7 +84,7 @@
 #### <mark style="color:$primary;">측정 부위</mark>
 
 * 척추(L1\~L4)와 고관절(total hip, femoral neck)을 기본 측정 부위로 사용
-* 고관절에서는 total hip 또는 femoral neck 중 더 낮은 T-score를 진단에 사용
+* 고관절에서는 total hip 또는 femoral neck 중 더 낮은 T-score를 진단에 사용. 양측 고관절을 측정한 경우 양측의 유효 대퇴경부·total hip 중 가장 낮은 값으로 진단하며, 양측 평균 T-score로 진단하지 않음; 양측을 반복 측정할 때 추적에는 평균 양측 total hip BMD를 사용할 수 있음
 * 고령자에서 척추는 압박 골절과 퇴행성 변화(골극) 등으로 실제보다 높게 평가될 수 있으므로 고관절 수치를 함께 해석
 * 33% radius(1/3 radius) : 척추/고관절을 측정·해석할 수 없는 경우, 부갑상선기능항진증, DXA table 한계를 초과하는 심한 비만 등에서 측정 고려
 
@@ -150,6 +150,7 @@
 2. ＜65세 폐경 여성 : 1개 이상의 골다공증 위험 인자가 있으면 임상 위험평가도구로 위험도를 평가하고, 골절 위험이 증가되어 있으면 DXA 시행 (Grade B)
 3. 남성 : 선별검사의 이득과 위해를 판단하기에 근거 불충분 (I statement)
 
+* FRAX는 40~90세 범위의 10년 골절 확률 평가 도구이며, 이 범위 밖의 연령을 임의로 대입하거나 소아·젊은 성인의 치료 여부를 이 수치로 결정하지 않음
 * 10년 골절 확률 : [FRAX](https://frax.shef.ac.uk/FRAX/tool.aspx?country=25)에서 대한민국 모델 선택; 주요 골다공증성 골절은 임상적 척추·고관절·원위 전완·근위 상완골 골절을 포함함
 * BMD 입력 시 **대퇴경부 BMD**를 사용하며 요추·total hip BMD를 대신 넣지 않음. 낙상, 최근·다발 골절, 2형 당뇨병 등은 표준 FRAX에 충분히 반영되지 않으므로 임상적으로 함께 판단함; FRAX 변화 자체를 약제 치료 반응 지표로 사용하지 않음
 
@@ -174,10 +175,11 @@
 
 ```mermaid
 graph TD
-    A["폐경 여성·50세 이상 남성: 골절력·DXA·임상 위험·FRAX 평가"]
-    A ---> L["저·중위험"]
-    A ---> H["고위험"]
-    A ---> V["초고위험"]
+    A["골다공증 의심: 폐경 여성·50세 이상 남성"]
+    A --> E["골절력·DXA·임상 위험·FRAX 평가"]
+    E ---> L["저·중위험"]
+    E ---> H["고위험: 약물 치료 적응증 충족"]
+    E ---> V["초고위험"]
     L ---> N["영양·운동·낙상 예방, 위험도 재평가"]
     H ---> R["항흡수제: alendronate·risedronate·zoledronate 또는 denosumab"]
     V ---> B["골형성 중심 치료 우선 고려: teriparatide 또는 romosozumab"]
@@ -200,8 +202,8 @@ Ref. 대한골대사학회 2024 치료 전략, Endocrine Society 2019/2020, NOGG
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-{% hint style="info" %}
-**치료 시작 여부는 BMD, 임상 위험인자 및 FRAX 등을 종합한 골절 위험도에 따라 결정하고, 위험도에 맞춰 정기적으로 재평가·약물 변경을 고려합니다.**
+{% hint style="warning" %}
+**치료 시작 여부는 BMD, 골절 병력과 임상 위험인자 및 FRAX 등을 종합하여 결정합니다. 최근 취약 골절은 재골절 위험이 높은 시기이므로 치료를 신속히 연계하고, denosumab은 후속 치료 계획 없이 지연·중단하지 않습니다.**
 {% endhint %}
 
 ### <mark style="color:orange;">치료 방침</mark>
@@ -219,7 +221,7 @@ Ref. 대한골대사학회 2024 치료 전략, Endocrine Society 2019/2020, NOGG
 
 #### <mark style="color:$primary;">낙상 예방</mark>
 
-* 시력 교정, 보행 교정, 균형 훈련, 어지럼 치료
+* 시력 교정, 보행 교정, 균형 훈련, 어지럼 치료; 기립성 저혈압·근감소증과 진정제·수면제 등 낙상 유발 약물을 함께 평가
 * 안전 장비 설치 : 손잡이 설치
 * 환경 개선 : 밝은 조명, 평평한 바닥
 * 낙상 위험 선별 도구 : CDC STEADI(Stopping Elderly Accidents, Deaths & Injuries) 등 표준화된 도구로 최근 1년 낙상력·보행/균형 이상·낙상 두려움을 정기 선별
@@ -288,10 +290,13 @@ Ref. 대한골대사학회 2024 치료 전략, Endocrine Society 2019/2020, NOGG
 
 #### <mark style="color:$primary;">칼슘 & Vit D 보충제</mark>
 
-<table><thead><tr><th width="140">상품명</th><th width="260">1정 성분 및 원소 칼슘</th><th>허가 용법 및 선택 원칙</th></tr></thead><tbody><tr><td><mark style="color:blue;">칼디텍츄어블정</mark></td><td>Ca carbonate 1,500 ㎎ + cholecalciferol 400 IU<br>원소 Ca 600 ㎎</td><td>성인 1일 1회 1~2정, 녹이거나 씹어서 복용<br>식사+보충제 총 섭취량을 계산하여 필요한 양만 선택</td></tr><tr><td><mark style="color:blue;">애드칼정</mark></td><td>Ca carbonate 240 ㎎ + Ca lactate hydrate 271.8 ㎎ + Ca gluconate hydrate 240 ㎎<br>총 원소 Ca 152.88 ㎎ + Vit D2 100 IU</td><td>보통 저녁 식후 바로 2정; 부족 시 아침·점심 식후 각각 1정 추가, 최대 4정/d<br>건조에르고칼시페롤 원료 0.118 ㎎을 순수 Vit D2 118 ㎍으로 환산하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="140">상품명</th><th width="260">1정 성분 및 원소 칼슘</th><th>허가 용법 및 선택 원칙</th></tr></thead><tbody><tr><td><mark style="color:blue;">칼디텍츄어블정</mark></td><td>Ca carbonate 1,500 ㎎ + cholecalciferol 400 IU<br>원소 Ca 600 ㎎</td><td>성인 1일 1회 1~2정, 녹이거나 씹어서 복용<br>식사+보충제 총 섭취량을 계산하여 필요한 양만 선택</td></tr><tr><td><mark style="color:blue;">애드칼큐정</mark></td><td>Ca citrate hydrate 475 ㎎(원소 Ca 100 ㎎) + Vit D3 1,000 IU<br>cyanocobalamin 1 ㎎ + thiamine nitrate 10 ㎎</td><td>성인 1일 1회 1정<br>원소 Ca 함량이 낮아 칼슘 부족량 전체를 충족하는지는 식사와 함께 계산; 비타민D 보충량도 합산</td></tr></tbody></table>
+
+* 기존 **애드칼정**은 제조사 공급중단 및 재고 소진에 따른 원외 코드 종료 공지가 있음(국립중앙의료원, 2026.4.28). **애드칼큐정과는 칼슘 염·원소 칼슘·Vit D 종류/함량이 다른 제품**이며 동일 용량으로 대체하지 않음. 제품 허가의 존속과 실제 공급은 구분함
 
 Ref. 각 제품설명서. 보충량은 식사·다른 복합제의 Ca/Vit D까지 합산하여 결정하며, 제품 허가와 실제 공급 여부는 별도로 확인함.
 
+* 칼슘·Vit D 복합경구제 급여에는 별도 일반원칙이 적용됨(HIRA 제2026-24호, 2026.2.1 시행). 허가 범위 안에서 골다공증치료제 등 해당 일반원칙을 충족하는지 판단하며, 영양 보충 필요성만으로 자동 급여되는 것은 아님
 * 건강한 일반 성인의 일차 골절 예방에 관한 보충제 연구·권고와, 골다공증 환자의 결핍 교정 및 치료제 보조요법을 구분함
 
 ### <mark style="color:orange;">Antiresorptive/Anabolic 약물 개관</mark>
@@ -303,12 +308,19 @@ Ref. 각 제품설명서. 보충량은 식사·다른 복합제의 Ca/Vit D까�
 #### <mark style="color:$primary;">대상</mark>
 
 * 다음에 해당되는 폐경 후 여성 및 ≥50세 남성
-  1. 고관절 또는 척추 취약 골절력(BMD와 관계없이 치료 고려); 다른 부위의 취약 골절도 위험도·BMD에 따라 치료 평가
+  1. 고관절 또는 척추 취약 골절력(다른 원인이 배제되면 BMD와 관계없이 약물 치료 권고); 다른 부위의 취약 골절도 위험도·BMD에 따라 치료 평가. DXA 예약이나 골절 유합 완료를 기다리느라 이차골절예방 치료를 불필요하게 미루지 않음
   2. 다른 원인이 배제된 유효 요추·대퇴경부·total hip T-score ≤-2.5(특정 상황에서는 33% radius)
   3. 낮은 골량(대퇴경부 또는 척추 골감소증)에서 FRAX에 따른 치료 역치를 넘는 경우. 미국 BHOF 기준은 10년 주요 골다공증성 골절 확률 ≥20% 또는 고관절 골절 확률 ≥3%를 사용하며, 국내에서는 국내 지침 및 보험 급여 기준을 함께 적용
 * 국내 급여 : 중심골 DXA T-score ≤-2.5, QCT ≤80 ㎎/㎤ 또는 영상으로 확인된 인정 부위의 골다공증성 골절 등. 약제별 세부 기준은 별도로 적용함(☞ [HIRA 일반원칙, 2026.3.1](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260301\&sno=1\&mtgMtrRegSno=0001))
 * BP·SERM 등의 치료로 -2.5＜T-score≤-2.0으로 개선된 경우에는 정해진 추적검사·기간 조건에 따라 추가 급여가 가능함; T-score가 -2.5를 넘었다는 이유만으로 치료를 임의 중단하지 않음. FRAX 고위험만으로 모든 약제가 자동 급여되는 것은 아님
 * Glucocorticoid 관련 denosumab 치료 종료 후 alendronate 또는 risedronate 경구제로 전환하는 경우에는 **마지막 denosumab 투여일로부터 7개월 이내 시작 시 최대 12개월** 급여 인정 조건이 있음(HIRA 일반원칙, 2026.3.1). 이는 해당 급여 조건이며, 임상적으로 7개월까지 의도적으로 지연하라는 뜻은 아님
+
+#### <mark style="color:$primary;">Glucocorticoid 유발 골다공증, GIOP</mark>
+
+* prednisone 상당량 ≥2.5 ㎎/d를 ＞3개월 사용하는 성인은 조기 위험평가와 DXA·VFA/척추 영상을 고려하며, 지속 사용 중 대체로 1~2년마다 재평가함. 일반 원발성 골다공증의 T-score ≤-2.5만 기다리지 않음
+* ACR 2022는 ≥40세에서 중등도 이상 골절 위험이면 약물 치료를 권고하고, 초고위험에서는 PTH 계열 우선 사용을 고려함. ＜40세는 FRAX가 검증되지 않아 골절력·약제 노출·Z-score·유의한 골소실로 평가함
+* ≥40세에서 prednisone ＞7.5 ㎎/d이면 표준 FRAX의 주요 골다공증성 골절 확률 ×1.15, 고관절 골절 확률 ×1.20의 용량 보정을 고려함; 최근·다발 골절과 낙상도 함께 판단함
+* 국내 경구 alendronate/risedronate(단일제 및 cholecalciferol 복합제) 급여는 **최근 6개월 내 ＞90일 및 prednisolone 누적 ≥450 ㎎** 노출과, 폐경 후 여성·≥50세 남성은 **T-score ＜-1.5**, 폐경 전 여성·＜50세 남성은 **Z-score ＜-3.0** 등 별도 조건을 적용함. 임상 위험평가 기준과 동일하지 않으며 주사제는 각 약제 고시를 적용함
 
 #### <mark style="color:$primary;">골감소증(osteopenia)군에서의 약물치료 근거</mark>
 
@@ -338,7 +350,7 @@ HIRA 고시 제2026-42호(2026.3.1 시행)에서 포스테오 등 teriparatide �
 #### <mark style="color:$primary;">선택 tips</mark>
 
 * 고위험군의 일반적인 1차 선택 → bisphosphonate 또는 denosumab 등 항흡수제(환자 선호도, 비용, 투여 방법, 신기능, 순응도 등을 고려)
-* 폐경 후 ＜10년의 골다공증 여성 환자 → bisphosphonate가 우선 고려되며, ＜60세 또는 폐경 후 ＜10년이면서 혈관운동증상이 있고 VTE·유방암·심혈관질환 위험이 낮고 다른 골다공증 약제가 부적절한 경우에 한해 MHT/tibolone 고려(하단 "Menopausal hormone therapy & tibolone" 참고)
+* 젊은 폐경 여성 → 일반적으로 BP 등 골절 예방 약제를 고려하되, MHT/tibolone의 적합성은 폐경 시점·증상·혈전·암·심혈관 위험에 따라 판단함. Endocrine Society 2019/2020은 증상이 있고 다른 약제가 부적절한 선별 환자를 제시하며, **NOGG 2024는 ≤60세의 골절 고위험·유해사건 저위험 폐경 여성에서 HRT를 1차 선택지로도 고려**함(조건부 권고). 모든 지침이 BP 실패 후에만 MHT를 허용하는 것으로 기술하지 않음
 * 남성과 폐경 ≥10년 여성 : 골절 위험과 금기에 따라 BP·denosumab 등 선택
 * 폐경 전 여성 : 이차성 원인 치료가 우선; 낮은 BMD만으로 BP를 일률 처방하지 않음. 취약 골절·지속적 골소실·glucocorticoid 사용 등에서는 임신 계획과 약제의 장기 잔류를 고려하여 전문의와 개별 결정
 * 골흡수억제제 사용이 어렵거나 치료 중에도 골절이 발생하는 고위험 환자 → teriparatide 등 골형성제 고려
@@ -353,7 +365,7 @@ HIRA 고시 제2026-42호(2026.3.1 시행)에서 포스테오 등 teriparatide �
 * 작용 : osteoclast의 골 흡수 억제(파골세포의 동원, 분화 및 작용 억제); 골에 장기간 잔류하며 잔류 효과는 약제별로 다름
 * 적용 : 폐경 후 여성과 남성의 골다공증 치료(ibandronate는 여성만 적용)
   * ibandronate는 비척추 또는 고관절 골절 위험 감소 목적으로는 권하지 않음
-* 부작용 : 위장관 증상(복통, 소화불량, 식도/위궤양), 시각 장애, 턱뼈 괴사(특히 암환자에서 주사제 등 고용량 사용 시), 장기(＞5년) 사용 시 대퇴골 간부 골절 위험 증가
+* 부작용 : 위장관 증상(복통, 소화불량, 식도/위궤양), 시각 장애, 턱뼈 괴사(특히 암환자에서 주사제 등 고용량 사용 시), 사용 기간이 길수록 비정형 대퇴골 골절 위험 증가(5년 이전에도 발생 가능)
   * MRONJ 병기설정(AAOMS 2022) : 0기(임상적 괴사 병변은 없으나 비특이적 소견·증상), 1기(무증상 골 노출/누공), 2기(감염·통증·발적 동반), 3기(감염 소견이 주위 조직으로 확대, 병적 골절 등) - 의심 시 병기에 관계없이 치과/구강악안면외과 평가
   * 장기 사용에 따른 atypical femur Fx 위험 증가보다 골절 예방 이득이 유의미하게 크다는 보고가 있음
   * 약물 중단 시 atypical femur Fx 위험은 빠르게 줄어듦
@@ -367,7 +379,9 @@ HIRA 고시 제2026-42호(2026.3.1 시행)에서 포스테오 등 teriparatide �
   * NOGG 2024 장기치료 고려 : 치료 시작 당시 ≥70세, 고관절/척추 골절력, prednisolone ≥7.5 ㎎/d 상당량 사용, 치료 중 취약 골절 등. 경구 BP 약 10년·zoledronate 약 6년까지의 연장 전략을 고려하되 개별 판단
   * 휴약 후 새 골절이 없으면 risedronate/ibandronate 약 18개월, alendronate 약 2년, zoledronate 약 3년 후 위험도 재평가(NOGG 2024). 새 골절·LSC를 초과한 BMD 감소·위험도 증가 시 더 일찍 치료 재개; 일률적인 장기 휴약은 피함
   * 치과 시술(발치, 임플란트) 시 주의 : 약제 종류, 투여 기간, 골절 위험 및 MRONJ 위험 인자를 종합하여 치과의사와 협의. 예방적 bisphosphonate drug holiday가 MRONJ 위험을 감소시키는지는 근거가 확립되지 않았으므로 중단 여부는 개별적으로 결정하며, denosumab은 반동성 골소실·척추골절 위험 때문에 임의로 중단하지 않음
-  * 국내 2025 다학제 MRONJ 입장문은 장기 BP 사용·추가 위험 인자가 있으면 alendronate/risedronate/ibandronate의 시술 전 약 2개월 휴약을 고려하고, IV zoledronate는 예정된 침습 시술을 마지막 투여 후 약 6\~12개월에 계획하는 등 약제별 전략을 제안함. Denosumab은 마지막 투여 3\~4개월 후 시술 및 약 6\~8주 치유를 통해 가능한 6개월 투여 간격 안에 맞추는 전략을 제안함. 이는 제한된 근거·전문가 합의에 따른 개별화 전략이며, 모든 환자의 일률적인 중단 기준으로 적용하지 않음
+  * **치과 치료 전후 약물 조정** : 대한골대사학회 2026 공개 권고 도표는 치료 시작 전 치과 검진과 협진을 강조함. 침습 시술은 ALN/RIS/IBN 마지막 투약 약 2개월 후, zoledronate 약 6~12개월 후, denosumab 약 3~4개월 후에 계획하고, 시술 후 약 6~8주 치유를 확인하여 재투여하는 전략을 제시함. 칼슘·Vit D, 호르몬요법, SERM은 해당 시술을 위한 일률적 중단 대상이 아님
+  * 위 시기는 예방적 휴약의 확정된 효과를 뜻하지 않으며, 골절 위험·치과 감염·시술 긴급성과 치유 상태에 따라 개별화함. 특히 denosumab은 **6개월 정기 투여가 원칙**이고, 치과 권고 도표의 '9개월 이상 지연 금지'를 9개월까지 안전하게 미뤄도 된다는 뜻으로 해석하지 않음; 지연이 예상되면 즉시 처방의·치과의사가 치료 연속성을 협의함
+  * CTX는 골다공증 치료 반응·denosumab 중단 후 골교체 추적에 활용할 수 있으나 **MRONJ 발생 위험 또는 발치 가능 시점을 예측하는 검사로 사용하지 않음** <mark style="color:$info;">[국내 다학제 MRONJ 입장문 2025·대한골대사학회 치과 약물 조정 권고 2026]</mark>
 
 #### <mark style="color:$primary;">Alendronate</mark>
 
@@ -428,11 +442,12 @@ Ref. NOGG 2024, Section 7을 반영하여 재구성.
 #### <mark style="color:$primary;">Denosumab</mark>
 
 * 작용 : RANKL(receptor activator of nuclear factor kappa B ligand)에 결합하는 단클론 항체로서, RANKL이 osteoclast의 생성, 분화 및 활성을 조절하는 RANK 수용체에 결합하는 것을 방해 → osteoclast 형성 억제 → 골 소실 감소
-* 효과(3년 치료) : 골밀도 척추 9.2%, 대퇴 6%↑; 골절 신규 영상학적 척추-68%, 비척추-20%, 대퇴-40% ↓
+* 효과(FREEDOM, 폐경 여성 3년 위약 대조) : 위약 대비 BMD 차이 요추 9.2%, total hip 6.0%; 신규 영상학적 척추·비척추·고관절 골절의 상대위험 감소는 각각 68%·20%·40%. 서로 다른 약제 연구의 백분율을 직접 비교하여 우열을 정하지 않음
 * 허가 사항 : 폐경 후 여성 골다공증 치료, 남성 골다공증의 골밀도 증가를 위한 치료, glucocorticoid 유발성 골다공증 치료, androgen 차단 요법을 받는 비전이성 전립선암의 골 소실 치료, 아로마타제 저해제 보조 요법을 받고 있는 여성 유방암의 골 소실 치료
 * 대사 : reticuloendothelial system에 의해 제거; 신장을 통해 배설되지 않아 신기능에 따른 용량 조절은 불필요
 * 주의 : 중단 시 급격한 골 소실(잔류 효과 없음) 및 반동 골절 위험
   * 저위험군에는 일반적으로 약물 치료가 불필요함; 젊은 환자라는 이유만으로 금기인 것은 아니지만 시작 전 장기 유지·중단 계획을 특히 신중히 마련함
+* 금기 : 저칼슘혈증, 임신, 성분 과민반응; 엑스지바 등 다른 denosumab 제제와 중복 투여하지 않음. 임신 가능성이 있으면 투여 전 임신 여부와 피임 계획을 확인함
 * 용법 : 60 ㎎ 피하주사, 6개월마다 <mark style="color:blue;">\[프롤리아프리필드시린지]</mark>; 매 투여 전 칼슘 확인, 저칼슘혈증 교정 및 적정 Ca/Vit D 확보
 * 치료 기간
   * denosumab을 투여받는 골다공증이 있는 폐경 여성에서 5\~10년 후 골절 위험도를 재평가하여 높은 골절 위험도가 지속되는 경우 투여를 지속하거나 다른 골다공증 요법을 시행할 것을 고려
@@ -454,7 +469,7 @@ Denosumab은 진행성 CKD(eGFR ＜30 ㎖/min/1.73m² 또는 투석 환자, 특�
 * 작용 : 골 형성 자극. 골흡수억제제와의 일률적인 병용은 권하지 않음; teriparatide+denosumab 병용은 DATA 연구에서 단독요법보다 BMD 증가가 컸으나 추가 골절 감소 효과는 확립되지 않았고 국내 일반적 허가·급여 순차치료와 구분함 <mark style="color:$info;">[DATA RCT 2013]</mark>
 * 적용 : 골절의 고위험군 또는 골 흡수 억제제 치료에도 골절이 계속 발생할 경우, 골 흡수 억제제 투여가 어렵거나 금기인 경우
 * 국내 허가 : 포스테오(teriparatide 20 ㎍/일)는 폐경 후 여성·골절 고위험 남성의 골다공증 및 골절 고위험 여성·남성의 지속적 glucocorticoid 관련 골다공증 치료. **테리본(teriparatide acetate 56.5 ㎍/주)은 골절 고위험 폐경 후 여성의 골다공증**으로 구분함
-* 부작용 : 근육통, 현훈, 구역, 두통
+* 부작용 : 근육통, 현훈, 구역, 두통, 일시적 고칼슘혈증·기립성 저혈압; 초기 투여 후 낙상에 주의
 * 금기/회피 대상 : 고칼슘혈증, 골 악성종양·골전이, 골격 방사선 치료 병력, Paget병·설명되지 않는 ALP 상승, 성장판 미폐쇄, 임신·수유 등; 제제별 국내 금기 및 중증 신장애 주의 확인
 * 치료 기간 : 일반적으로 18\~24개월 사용 후 항흡수제로 전환함. 국내 포스테오 허가·급여는 최대 24개월이며 일생 중 24개월 과정의 반복은 인정되지 않음; 국외의 치료 기간 규정을 국내 허가·급여에 그대로 적용하지 않음
 * teriparatide : <mark style="color:blue;">\[포스테오 주]</mark> 20 ㎍ 매일 피하주사; <mark style="color:blue;">\[테리본 주]</mark> 56.5 ㎍ 주 1회 SC, 투여 직전 N/S 1㎖에 용해하여 조제. **테리본 허가 최대 24개월(104주), 급여 최대 72주**로 구분함; 포스테오와 동일 제제·동일 허가 범위로 취급하지 않음
@@ -477,7 +492,7 @@ Denosumab 투여 후 이어서 teriparatide 등 PTH 제제로 전환하면, 억�
 
 {% hint style="danger" %}
 **⚠️ Romosozumab 심혈관 위험 경고 (FDA Boxed Warning)**\
-ARCH 연구에서 alendronate 대비 주요 심혈관 사건(심근경색, 뇌졸중, 심혈관 사망) 발생이 증가하는 경향이 관찰됨. 최근 1년 이내 심근경색·뇌졸중 병력이 있는 환자에서는 투여를 시작하지 않으며, 심혈관 위험 인자가 있는 환자에서는 투여 여부를 신중히 판단. 치료 중 심근경색·뇌졸중 발생 시 투여를 중단함.
+ARCH의 첫 12개월에 판정된 주요 심혈관 사건(MACE)은 romosozumab 2.0% 대 alendronate 1.1%(HR 1.87, 95% CI 1.11~3.14)로 증가함. FRAME 위약 대조에서는 같은 불균형이 관찰되지 않았으나, 이를 심혈관 안전성이 확정된 것으로 해석하지 않음. 최근 1년 이내 심근경색·뇌졸중 병력이 있는 환자에서는 투여를 시작하지 않으며, 심혈관 위험 인자가 있는 환자에서는 투여 여부를 신중히 판단. 치료 중 심근경색·뇌졸중 발생 시 투여를 중단함.
 {% endhint %}
 
 ### <mark style="color:orange;">SERM (Selective estrogen receptor modulator)</mark>
@@ -504,22 +519,22 @@ ARCH 연구에서 alendronate 대비 주요 심혈관 사건(심근경색, 뇌�
 
 ### <mark style="color:orange;">Menopausal hormone therapy & tibolone</mark>
 
-* 적용 : 아래 특성을 가진 폐경 여성에서 증상 완화와 골보호 효과를 함께 고려하여 estrogen ± progestogen 또는 tibolone 선택. 자궁이 있으면 전신 estrogen에 적절한 자궁내막 보호가 필요하며, 자궁절제 후에는 estrogen 단독 사용 가능
+* 적용 : 아래 특성을 가진 폐경 여성에서 증상 완화와 골보호 효과를 함께 고려하여 estrogen ± progestogen 또는 tibolone 선택. 아래는 Endocrine Society의 선별 기준이며, NOGG 2024의 더 넓은 HRT 1차 선택 권고는 위 선택 tips에 별도로 병기함. 자궁이 있으면 전신 estrogen에 적절한 자궁내막 보호가 필요하며, 자궁절제 후에는 estrogen 단독 사용 가능
   * ＜60세 또는 폐경 후 ＜10년, DVT 위험이 낮음, bisphosphonates 또는 denosumab를 적용할 수 없음, vasomotor symptom으로 고통 받음, 추가의 갱년기 증상이 있음, estrogen 치료에 금기가 아님, MI 또는 뇌졸중 병력이 없음, 유방암이 없음, 이 치료를 받을 의향이 있음
 
-✽구체적인 위험도 기반 치료 흐름은 상단 [진단 및 치료 알고리듬](149_-osteoporosis.md#진단) 참고
+✽구체적인 위험도 기반 치료 흐름은 상단의 골절 위험도별 알고리듬 및 약물 선택 항목 참고
 
 #### <mark style="color:$primary;">Estrogen</mark>
 
 * 작용 : osteoclastogenesis 억제
-* 골다공증 예방만을 위한 경우에는 estrogen 외의 약제를 우선 권고
+* 골다공증 예방만을 목적으로 일률적으로 estrogen을 시작하지 않음. 젊은 폐경 여성의 골절 고위험·낮은 유해사건 위험에서는 NOGG 2024가 HRT를 1차 선택지로도 고려하므로, 위 선택 기준과 허가 적응증에 따라 개별 판단
 * 제형·용량은 폐경 증상, 자궁 유무 및 혈전·암 위험에 따라 개별 선택함
 
 #### <mark style="color:$primary;">Tibolone</mark>
 
 * 작용 : 조직 특이적인 estrogen 유사 효과, 약한 androgen 효과
 * 효과 : 골 소실 예방, 폐경 증상 감소; 유방·자궁내막에 대한 영향이 기존 estrogen-progestogen therapy와는 다르나, 유방암·자궁내막 관련 위험이 전혀 없는 것은 아니므로 개별 위험도 평가 필요
-* 부작용 : 하복부 통증, 비정상적 체모 증가, 질 분비물, 질 출혈, 유방 압통, 체중 증가
+* 부작용 : 하복부 통증, 비정상적 체모 증가, 질 분비물, 질 출혈, 유방 압통, 체중 증가; 고령 여성에서는 뇌졸중 위험 증가에 특히 주의하며, 유방암·VTE·뇌졸중/관상동맥질환 병력 등 제품별 금기 확인
 * 용법 : 2.5 ㎎ qd <mark style="color:blue;">\[리비알]</mark>(일부 연구에서는 1.25 ㎎/d도 사용; 국내 허가사항 확인)
 
 \*HT(Hormonal therapy): uterus(-) 시 estrogen, uterus(+) 시 estrogen + progestin
@@ -580,6 +595,13 @@ Ref. NOGG 2024 Table 6 및 각 약제 주요 임상시험/메타분석을 바탕
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
+### <mark style="color:orange;">취약 골절 후 초기 관리</mark>
+
+* 고관절 골절 또는 신경학적 결손을 동반한 척추 골절은 신속히 전문기관으로 의뢰함. 안정된 척추 골절은 통증을 조절하며 가능한 조기 보행·재활을 시작하고 장기간 침상 안정을 피함
+* 진통제는 가장 낮은 유효 용량·짧은 기간으로 사용하며, 고령자의 NSAID는 위장관·신장·심혈관 위험을 고려함. Opioid가 필요하면 변비 예방과 진정·낙상 위험 관리를 병행함(001 통증 참조)
+* 보조기는 선별 환자의 통증·활동 보조를 위해 단기간 고려하며, 골절 유합을 촉진한다는 근거로 일률적으로 처방하지 않음. 통증에 맞춰 등 폄근·하지 근력·균형 훈련을 단계적으로 시행함
+* 고관절 골절 후에는 신기능·칼슘·Vit D·전신 상태가 허용하면 zoledronate 등 이차골절예방 약제를 신속히 검토함. 급성 골절 자체만을 이유로 골다공증 치료를 수개월 일률적으로 유예하지 않음 <mark style="color:$info;">[NOGG 2024, Sections 6·8]</mark>
+
 ### <mark style="color:orange;">경피적 척추성형술 / 후만풍선복원술 (Vertebroplasty/Kyphoplasty)</mark>
 
 * 대상 : 보존적 치료(진통제, 가능한 조기 보행·재활, 필요 시 단기간 보조기)에도 호전되지 않는 통증성 골다공증성 척추 압박골절
@@ -596,19 +618,17 @@ Ref. NOGG 2024 Table 6 및 각 약제 주요 임상시험/메타분석을 바탕
 
 ### <mark style="color:red;">질병코드</mark>
 
-M80 병적 골절을 동반한 골다공증
+저장된 **KCD9_251216(6).xlsx**의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」 시트와 대조함. 아래 M80·M81 및 4자리 분류는 **불완전코드(N)**이므로 진료기록에 맞는 부위 세분코드를 선택함.
 
-M80.0 병적 골절을 동반한 폐경후 골다공증
+<table><thead><tr><th>분류코드</th><th>KCD-9 공식 명칭</th></tr></thead><tbody><tr><td>M80</td><td>병적 골절을 동반한 골다공증</td></tr><tr><td>M80.0</td><td>병적 골절을 동반한 폐경후골다공증</td></tr><tr><td>M80.4</td><td>병적 골절을 동반한 약물유발 골다공증</td></tr><tr><td>M80.5</td><td>병적 골절을 동반한 특발성 골다공증</td></tr><tr><td>M80.8</td><td>병적 골절을 동반한 기타 골다공증</td></tr><tr><td>M80.9</td><td>병적 골절을 동반한 상세불명의 골다공증</td></tr><tr><td>M81</td><td>병적 골절이 없는 골다공증</td></tr><tr><td>M81.0</td><td>폐경후골다공증</td></tr><tr><td>M81.4</td><td>약물유발 골다공증</td></tr><tr><td>M81.5</td><td>특발성 골다공증</td></tr><tr><td>M81.8</td><td>기타 골다공증</td></tr><tr><td>M81.9</td><td>상세불명의 골다공증</td></tr></tbody></table>
 
-M80.9 병적 골절을 동반한 상세불명 골다공증
+**부위가 포함된 완전코드 예**
 
-M81 병적 골절이 없는 골다공증
+<table><thead><tr><th>완전코드 예</th><th>KCD-9 공식 명칭</th></tr></thead><tbody><tr><td>M80.05</td><td>병적 골절을 동반한 폐경후골다공증, 골반 부분 및 대퇴</td></tr><tr><td>M80.08</td><td>병적 골절을 동반한 폐경후골다공증, 기타 부분</td></tr><tr><td>M80.09</td><td>병적 골절을 동반한 폐경후골다공증, 상세불명 부분</td></tr><tr><td>M80.49</td><td>병적 골절을 동반한 약물유발 골다공증, 상세불명 부분</td></tr><tr><td>M80.99</td><td>병적 골절을 동반한 상세불명의 골다공증, 상세불명 부분</td></tr><tr><td>M81.09</td><td>폐경후골다공증, 상세불명 부분</td></tr><tr><td>M81.49</td><td>약물유발 골다공증, 상세불명 부분</td></tr><tr><td>M81.59</td><td>특발성 골다공증, 상세불명 부분</td></tr><tr><td>M81.89</td><td>기타 골다공증, 상세불명 부분</td></tr><tr><td>M81.99</td><td>상세불명의 골다공증, 상세불명 부분</td></tr></tbody></table>
 
-M81.0 폐경후골다공증
-
-M81.5 특발성 골다공증
-
-M81.9 상세불명의 골다공증
+* 부위의 마지막 자리 : 0 여러 부위, 1 어깨부분, 2 위팔, 3 아래팔, 4 손, 5 골반 부분 및 대퇴, 6 아래다리, 7 발목 및 발, 8 기타 부분, 9 상세불명 부분. **척주는 '기타 부분(8)'에 포함됨**; 예: 폐경후골다공증성 척추 골절은 M80.08의 포함 부위에 해당
+* M80 계열은 골다공증성 병적 골절 동반, M81 계열은 병적 골절 없음으로 구분함. 단순히 과거 골절력이 있다는 이유만으로 현재의 M80을 자동 선택하지 않으며, 골절의 현재 상태·원인·부위를 기록하여 코딩함
+* 약물유발 골다공증은 M80.4-/M81.4-를 검토하고 원인 약물을 명시함. 노년골다공증은 엑셀에서 M81.8-의 포함 명칭으로 확인되며, M81.0을 모든 노인에게 일률 적용하지 않음
 
 ***
 
@@ -628,6 +648,7 @@ M81.9 상세불명의 골다공증
 > 포사맥스플러스정(alendronate 70 ㎎ + cholecalciferol 2,800 IU)  1T  주 1회
 > ※ 아침 식사 최소 30분 전, 충분한 물(200 ㎖ 이상)과 함께 복용
 > ※ 복용 후 최소 30분 및 첫 식사 전까지 눕지 않음
+> ※ Vit D 2,800 IU/주는 일평균 400 IU에 해당; 식사·다른 보충제를 합쳐 부족분 별도 보충
 > ```
 
 > **처방례 3. 경구제 복용 곤란 또는 순응도 저하, 폐경 후 고위험군**
@@ -675,7 +696,7 @@ M81.9 상세불명의 골다공증
 > **골흡수억제제 장기 사용 시 주의사항 (턱뼈 괴사·비정형 대퇴골 골절)**
 >
 > * 발치, 임플란트 등 침습적 치과 시술 전에는 반드시 골다공증 약물 복용 사실을 알리도록 안내합니다.
-> * 예방적 bisphosphonate 휴약이 턱뼈 괴사 위험을 줄이는지는 근거가 확립되지 않았습니다. 약제 종류·투여 기간·골절 위험·MRONJ 위험 인자를 고려하여 치과의사와 중단 여부를 개별적으로 결정하며, denosumab은 임의로 중단하지 않습니다.
+> * 골다공증 치료 전 치과 검진과 구강위생 관리를 권합니다. 발치 등 침습 시술을 계획하면 처방의와 치과의사가 위의 2026 국내 약물 조정 권고와 골절 위험을 함께 검토합니다. 예방적 bisphosphonate 휴약이 턱뼈 괴사 위험을 줄이는지는 근거가 확립되지 않았습니다. 약제 종류·투여 기간·골절 위험·MRONJ 위험 인자를 고려하여 치과의사와 중단 여부를 개별적으로 결정하며, denosumab은 임의로 중단하지 않습니다.
 > * 서혜부·대퇴부의 새로운 둔통이 나타나면 즉시 보고하도록 교육합니다(비정형 대퇴골 골절의 전조 증상일 수 있음).
 > * 약제관련악골괴사(Medication-related Osteonecrosis of the Jaw, MRONJ) 위험 인자(AAOMS 2022; 국내 2025 다학제 MRONJ 입장문)
 
@@ -683,7 +704,7 @@ M81.9 상세불명의 골다공증
 
 > **Denosumab 중단 시 반드시 후속 약제를 연계하세요**
 >
-> * denosumab을 지연하거나 중단할 때는 반동성 골소실 및 다발성 척추 골절 위험이 있으므로, 마지막 투여 약 6개월 후 zoledronate IV 등 후속 항흡수제로 전환하는 계획을 미리 세웁니다. 예정된 6개월 투여 일정을 지키도록 리마인드 시스템 활용을 권장합니다.
+> * denosumab은 6개월마다 정해진 날짜에 투여하며, 치과 치료를 이유로 스스로 미루지 않습니다. 지연하거나 중단할 때는 반동성 골소실 및 다발성 척추 골절 위험이 있으므로, 마지막 투여 약 6개월 후 zoledronate IV 등 후속 항흡수제로 전환하는 계획을 미리 세웁니다. 예정된 6개월 투여 일정을 지키도록 리마인드 시스템 활용을 권장합니다.
 > * 진행성 만성신질환(특히 투석) 환자에서는 중증 저칼슘혈증 위험이 높으므로, 투여 전 혈청 칼슘을 교정하고 투여 후 정기적으로 모니터링합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -692,6 +713,52 @@ M81.9 상세불명의 골다공증
 > * 발치 등 치과 시술을 계획 중인 경우 - 사전에 반드시 내원
 > * 낙상 후 심한 요통, 고관절통, 보행 장애가 있는 경우 - 즉시 내원
 > * denosumab 투여 예정일을 놓쳤거나 다음 주사를 맞기 어려운 경우 - 2주를 기다리지 말고 즉시 치료기관에 연락
+
+***
+
+## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* ISCD. [2023 Official Adult Positions](https://iscd.org/official-positions-2023/) — DXA 측정부위·T/Z-score·VFA·LSC 및 추적검사 원칙
+* NOGG. [Full Guideline](https://www.nogg.org.uk/full-guideline) — 특히 Section 5(비약물요법), [Section 6](https://www.nogg.org.uk/full-guideline/section-6-pharmacological-treatment-options)(약물·순차치료), [Section 7](https://www.nogg.org.uk/full-guideline/section-7-strategies-management-osteoporosis-and-fracture-risk)(장기치료·휴약), Section 8(척추 골절 관리)
+* Endocrine Society. [Pharmacological Management of Osteoporosis in Postmenopausal Women, 2019/2020](https://www.endocrine.org/clinical-practice-guidelines/osteoporosis-in-postmenopausal-women)
+* 대한골대사학회. [골다공증 진료지침 2026 개정판 출간 공지](https://www.ksbmr.org/bbs/index.html?code=notice&mode=view&number=2006) — 2026.9.3 출간 확인. 개정판 전문은 이번 검토에서 열람하지 못했으므로 세부 권고를 2026판에서 직접 확인한 것으로 표기하지 않음
+* 대한골대사학회. 골다공증 진료지침 2024, 11판; [대한내분비학회 2024 지침 개정 소개](https://www.endocrinology.or.kr/webzine/202412/sub03.html) — 국내 골절 위험군 분류·치료 전략. 비공개 책자 세부 문구는 해당 원문 확인 필요
+* 대한폐경학회. The 2024 Guidelines for Osteoporosis: [Part I](https://e-jmm.org/DOIx.php?id=10.6118/jmm.24000), [Part II](https://e-jmm.org/DOIx.php?id=10.6118/jmm.300001)
+* USPSTF. [Osteoporosis to Prevent Fractures: Screening, 2025](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening)
+* Humphrey MB, et al. [2022 ACR Guideline for Glucocorticoid-Induced Osteoporosis](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.42646). Arthritis Rheumatol. 2023 — ≥2.5 ㎎/d, ＞3개월 glucocorticoid 사용자의 조기 위험평가
+* Diez-Perez A, et al. [IOF/ECTS recommendations for screening adherence to oral bisphosphonates, 2017](https://discovery.ucl.ac.uk/1547595/1/Horne_International%20Osteoporosis%20Foundation%20and%20European%20Calcified%20Tissue%20Society%20Working%20Group%20-%20Recommendations%20for%20the%20screening%20of%20adherence%20to%20oral%20bisphosphonates.pdf) — CTX ＞56% 또는 P1NP ＞38% 감소 기준
+* Siris ES, et al. [Effects of risedronate on fracture risk in postmenopausal women with osteopenia](https://link.springer.com/article/10.1007/s00198-007-0493-y). Osteoporos Int. 2008;19:681–686
+* Kanis JA, et al. [Raloxifene in women with osteopenia or osteoporosis: MORE reanalysis](https://pubmed.ncbi.nlm.nih.gov/13678769/). Bone. 2003;33:293–300
+* Reid IR, et al. [Fracture Prevention with Zoledronate in Older Women with Osteopenia](https://www.nejm.org/doi/full/10.1056/NEJMoa1808082). N Engl J Med. 2018;379:2407–2416
+* Sanders KM, et al. [Annual high-dose oral vitamin D and falls and fractures in older women](https://pubmed.ncbi.nlm.nih.gov/20460620/). JAMA. 2010;303:1815–1822 — 연 1회 500,000 IU 경구 투여 시험
+* 대한골대사학회. [치과 치료 전후 골다공증 약물 조정 지침, 2026.8.4](https://www.ksbmr.org/bbs/index.html?code=notice&mode=view&number=1979) — 게시된 MRONJ 임상권고안(2026) PDF 원본 도표 확인
+* 국내 다학제 위원회. [Medication-related osteonecrosis of the jaw: 2025 position statement](https://synapse.koreamed.org/upload/synapsexml/2008enm/pdf/enm-2025-2712.pdf) — 약제별 치과 시술 시기·휴약의 개별화
+* 보건복지부. [2025 한국인 영양소 섭취기준 활용](https://health.seoulmc.or.kr/uploadFiles/2025_%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%98%81%EC%96%91%EC%86%8C%EC%84%AD%EC%B7%A8%EA%B8%B0%EC%A4%80_%ED%99%9C%EC%9A%A9.pdf) — 칼슘·Vit D 섭취기준 및 상한섭취량
+* 질병관리청. [2024년 국민건강영양조사 결과 발표, 2025.10.1](https://m.korea.kr/briefing/pressReleaseView.do?endDate=2025-10-21\&newsId=156720998\&pageIndex=1\&period=\&repCode=B00023\&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98\&srchWord=\&startDate=2025-10-21) — ≥65세 골다공증 유병률 잠정치
+* Park EJ, et al. [Prevalence of Osteoporosis in the Korean Population Based on KNHANES, 2008–2011](https://www.ymj.or.kr/DOIx.php?id=10.3349/ymj.2014.55.4.1049). Yonsei Med J. 2014;55:1049–1057
+* Endocrine Society. [Vitamin D for the Prevention of Disease, 2024](https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease) — 일반 건강인의 질병 예방 지침으로 골다공증·저칼슘혈증 등의 임상 보충 적응증과 구분
+* Snyder PJ, et al. [Testosterone Treatment and Fractures in Men with Hypogonadism](https://pubmed.ncbi.nlm.nih.gov/38231621/). N Engl J Med. 2024;390:203–211
+* LeBoff MS, et al. [Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults](https://www.nejm.org/doi/10.1056/NEJMoa2202106). N Engl J Med. 2022;387:299–309 — VITAL 골절 보조시험
+* 대한골대사학회. [Position Statement: Vitamin D Intake to Prevent Osteoporosis and Fracture in Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9760769/). J Bone Metab. 2022;29:205–215.
+* Bolland MJ, et al. [Fracture Prevention with Infrequent Zoledronate in Women 50 to 60 Years of Age](https://doi.org/10.1056/NEJMoa2407031). N Engl J Med. 2025;392:239–248.
+* Tsai JN, et al. [Teriparatide and denosumab, alone or combined: the DATA study randomised trial](https://pubmed.ncbi.nlm.nih.gov/23683600/). Lancet. 2013 — BMD 평가변수 연구.
+
+* Cummings SR, et al. [Denosumab for Prevention of Fractures in Postmenopausal Women with Osteoporosis](https://www.nejm.org/doi/full/10.1056/NEJMoa0809493). N Engl J Med. 2009;361:756–765 — FREEDOM의 BMD·골절 효과
+* Saag KG, et al. [Romosozumab or Alendronate for Fracture Prevention in Women with Osteoporosis](https://www.nejm.org/doi/full/10.1056/NEJMoa1708322). N Engl J Med. 2017;377:1417–1427 — ARCH의 효과·심혈관 안전성
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 건강보험심사평가원. [골다공증치료제 일반원칙](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260301\&sno=1\&mtgMtrRegSno=0001), [teriparatide 주사제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260301\&sno=1\&mtgMtrRegSno=0006), [teriparatide acetate 주사제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260301\&sno=1\&mtgMtrRegSno=0007) — 고시 제2026-42호, 2026.3.1 시행
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 프롤리아·이베니티·포스테오·테리본 및 경구/주사 bisphosphonate, 칼슘·Vit D 복합제 등의 국내 적응증·용량·금기 확인 자료.
+* FDA. [Prolia prescribing information, 2025](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/125320Orig1s221lbl.pdf) — 진행성 CKD의 중증 저칼슘혈증 및 칼슘 모니터링.
+* 칼디텍츄어블정 제품설명서·종근당 애드칼큐정 제품정보 — 원소 칼슘·Vit D 함량 및 제형별 복용법 대조 자료. 기존 애드칼정과 구분함
+* 국립중앙의료원 약제부. [애드칼정 공급중단에 따른 원외 코드 종료, 2026.4.28](https://www.nmc.or.kr/mdntf/board/B0000073/27101) — 제조사 공급중단 공문 접수 및 해당 기관 원외 약국 재고 소진 확인
+* 건강보험심사평가원. [칼슘 및 비타민D 포함 복합경구제 일반원칙](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260201&mtgMtrRegSno=0007&sno=1) — 제2026-24호, 2026.2.1 시행
+* KCD-9 대조 자료 : 저장된 KCD9_251216(6).xlsx, 「상병분류기호(전체)」·「상병분류기호(완전코드)」.
+
+* FDA. [Zoledronic acid (Reclast) prescribing information, 2026.](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021817s032lbl.pdf) — NSAID 등 신독성 약물 병용·탈수·신장애의 신장 안전성 및 주입 후 급성기 반응에 대한 acetaminophen 사용 참고; 국내 제품 허가와 구분함.
 
 ***
 
@@ -713,7 +780,7 @@ M81.9 상세불명의 골다공증
 
 * **걷기와 근력·균형 운동을 꾸준히 하십시오.** 하루 약 30분, 주 5일을 목표로 하되 체력에 맞춰 나누어 시작할 수 있습니다. 척추 골절이 있으면 허리를 깊이 굽히거나 비트는 동작, 점프 운동은 의료진과 상의하여 조정하십시오.
 * **금연하고 음주를 줄이며 폭음을 피하십시오.** 흡연과 과음은 뼈를 직접 약하게 만듭니다.
-* **저지방 우유, 두부, 생선, 나물류 등 칼슘이 풍부한 음식을 매일 드십시오.** 짠 음식, 인스턴트식품, 카페인은 칼슘 배출을 늘릴 수 있어 줄이는 것이 좋습니다.
+* **저지방 우유, 두부, 생선, 나물류 등 칼슘이 풍부한 음식을 매일 드십시오.** 지나치게 짠 음식·과음·과도한 카페인은 줄이고, 단백질과 전체 식사량도 충분히 유지하십시오.
 * **집 안의 낙상 위험을 줄이십시오.** 문턱을 없애고, 화장실에 손잡이를 설치하고, 바닥의 물기·전선을 정리하십시오.
 * **시력이 나쁘거나 어지럼·보행 불안정이 있으면 진료를 받으십시오.** 원인과 복용약을 점검하고 낙상을 예방합니다.
 
@@ -722,7 +789,7 @@ M81.9 상세불명의 골다공증
 * **경구 골다공증약은 제제별 공복·자세 유지 시간을 지키십시오.** 알렌드로네이트·일반 리세드로네이트는 최소 30분, 이반드로네이트는 최소 60분 동안 눕지 않고 음식·다른 약을 기다립니다. 알렌드로네이트는 첫 식사 전까지도 눕지 마십시오. 물 한 컵과 함께 복용하고 처방된 제형의 복약지도를 따릅니다.
 * **주사제(데노수맙 등)는 정해진 날짜를 지켜 맞으십시오.** 특히 데노수맙은 중단하면 오히려 골절 위험이 급격히 높아질 수 있어, 다음 치료 계획 없이 임의로 중단해서는 안 됩니다.
 * **칼슘·비타민D는 식사와 다른 영양제의 섭취량을 합쳐 부족한 양만 보충하십시오.** 칼슘은 한 번에 많이 먹기보다 처방된 양을 나누어 복용합니다.
-* **치과에서 이를 뽑거나 임플란트를 하기 전에는 반드시 골다공증 약을 복용 중이라고 알리십시오.**
+* **치과에서 이를 뽑거나 임플란트를 하기 전에는 반드시 골다공증 약을 사용 중이라고 알리십시오.** 치과의사와 처방의사가 시술일·약물 일정을 함께 조정합니다. 특히 데노수맙 주사는 임의로 미루거나 끊지 마십시오.
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
 
@@ -730,41 +797,3 @@ M81.9 상세불명의 골다공증
 * 갑자기 키가 줄거나 등이 굽으면서 허리 통증이 심해지는 경우
 * 다리에 힘이 빠지거나 대소변 조절이 어려워지는 경우
 * 골다공증 약을 복용하는 중 허벅지나 사타구니에 새로운 통증이 생긴 경우
-
-***
-
-## <mark style="color:orange;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* ISCD. [2023 Official Adult Positions](https://iscd.org/official-positions-2023/) — DXA 측정부위·T/Z-score·VFA·LSC 및 추적검사 원칙
-* NOGG. [Full Guideline](https://www.nogg.org.uk/full-guideline) — 특히 Section 5(비약물요법), [Section 6](https://www.nogg.org.uk/full-guideline/section-6-pharmacological-treatment-options)(약물·순차치료), [Section 7](https://www.nogg.org.uk/full-guideline/section-7-strategies-management-osteoporosis-and-fracture-risk)(장기치료·휴약), Section 8(척추 골절 관리)
-* Endocrine Society. [Pharmacological Management of Osteoporosis in Postmenopausal Women, 2019/2020](https://www.endocrine.org/clinical-practice-guidelines/osteoporosis-in-postmenopausal-women)
-* 대한골대사학회. 골다공증 진료지침 2024, 11판; [대한내분비학회 2024 지침 개정 소개](https://www.endocrinology.or.kr/webzine/202412/sub03.html) — 국내 골절 위험군 분류·치료 전략. 비공개 책자 세부 문구는 해당 원문 확인 필요
-* 대한폐경학회. The 2024 Guidelines for Osteoporosis: [Part I](https://e-jmm.org/DOIx.php?id=10.6118/jmm.24000), [Part II](https://e-jmm.org/DOIx.php?id=10.6118/jmm.300001)
-* USPSTF. [Osteoporosis to Prevent Fractures: Screening, 2025](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening)
-* Humphrey MB, et al. [2022 ACR Guideline for Glucocorticoid-Induced Osteoporosis](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.42646). Arthritis Rheumatol. 2023 — ≥2.5 ㎎/d, ＞3개월 glucocorticoid 사용자의 조기 위험평가
-* Diez-Perez A, et al. [IOF/ECTS recommendations for screening adherence to oral bisphosphonates, 2017](https://discovery.ucl.ac.uk/1547595/1/Horne_International%20Osteoporosis%20Foundation%20and%20European%20Calcified%20Tissue%20Society%20Working%20Group%20-%20Recommendations%20for%20the%20screening%20of%20adherence%20to%20oral%20bisphosphonates.pdf) — CTX ＞56% 또는 P1NP ＞38% 감소 기준
-* Siris ES, et al. [Effects of risedronate on fracture risk in postmenopausal women with osteopenia](https://link.springer.com/article/10.1007/s00198-007-0493-y). Osteoporos Int. 2008;19:681–686
-* Kanis JA, et al. [Raloxifene in women with osteopenia or osteoporosis: MORE reanalysis](https://pubmed.ncbi.nlm.nih.gov/13678769/). Bone. 2003;33:293–300
-* Reid IR, et al. [Fracture Prevention with Zoledronate in Older Women with Osteopenia](https://www.nejm.org/doi/full/10.1056/NEJMoa1808082). N Engl J Med. 2018;379:2407–2416
-* Sanders KM, et al. [Annual high-dose oral vitamin D and falls and fractures in older women](https://pubmed.ncbi.nlm.nih.gov/20460620/). JAMA. 2010;303:1815–1822 — 연 1회 500,000 IU 경구 투여 시험
-* 국내 다학제 위원회. [Medication-related osteonecrosis of the jaw: 2025 position statement](https://synapse.koreamed.org/upload/synapsexml/2008enm/pdf/enm-2025-2712.pdf) — 약제별 치과 시술 시기·휴약의 개별화
-* 보건복지부. [2025 한국인 영양소 섭취기준 활용](https://health.seoulmc.or.kr/uploadFiles/2025_%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%98%81%EC%96%91%EC%86%8C%EC%84%AD%EC%B7%A8%EA%B8%B0%EC%A4%80_%ED%99%9C%EC%9A%A9.pdf) — 칼슘·Vit D 섭취기준 및 상한섭취량
-* 질병관리청. [2024년 국민건강영양조사 결과 발표, 2025.10.1](https://m.korea.kr/briefing/pressReleaseView.do?endDate=2025-10-21\&newsId=156720998\&pageIndex=1\&period=\&repCode=B00023\&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98\&srchWord=\&startDate=2025-10-21) — ≥65세 골다공증 유병률 잠정치
-* Park EJ, et al. [Prevalence of Osteoporosis in the Korean Population Based on KNHANES, 2008–2011](https://www.ymj.or.kr/DOIx.php?id=10.3349/ymj.2014.55.4.1049). Yonsei Med J. 2014;55:1049–1057
-* Endocrine Society. [Vitamin D for the Prevention of Disease, 2024](https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease) — 일반 건강인의 질병 예방 지침으로 골다공증·저칼슘혈증 등의 임상 보충 적응증과 구분
-* Snyder PJ, et al. [Testosterone Treatment and Fractures in Men with Hypogonadism](https://pubmed.ncbi.nlm.nih.gov/38231621/). N Engl J Med. 2024;390:203–211
-* LeBoff MS, et al. [Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults](https://www.nejm.org/doi/10.1056/NEJMoa2202106). N Engl J Med. 2022;387:299–309 — VITAL 골절 보조시험
-* 대한골대사학회. [Position Statement: Vitamin D Intake to Prevent Osteoporosis and Fracture in Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC9760769/). J Bone Metab. 2022;29:205–215.
-* Bolland MJ, et al. [Fracture Prevention with Infrequent Zoledronate in Women 50 to 60 Years of Age](https://doi.org/10.1056/NEJMoa2407031). N Engl J Med. 2025;392:239–248.
-* Tsai JN, et al. [Teriparatide and denosumab, alone or combined: the DATA study randomised trial](https://pubmed.ncbi.nlm.nih.gov/23683600/). Lancet. 2013 — BMD 평가변수 연구.
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 건강보험심사평가원. [골다공증치료제 일반원칙](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260301\&sno=1\&mtgMtrRegSno=0001), [teriparatide 주사제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260301\&sno=1\&mtgMtrRegSno=0006), [teriparatide acetate 주사제](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260301\&sno=1\&mtgMtrRegSno=0007) — 고시 제2026-42호, 2026.3.1 시행
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug) — 프롤리아·이베니티·포스테오·테리본 및 경구/주사 bisphosphonate, 칼슘·Vit D 복합제 등의 국내 적응증·용량·금기 확인 자료.
-* FDA. [Prolia prescribing information, 2025](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/125320Orig1s221lbl.pdf) — 진행성 CKD의 중증 저칼슘혈증 및 칼슘 모니터링.
-* 칼디텍츄어블정 제품설명서·종근당 애드칼정 제품정보 — 원소 칼슘·Vit D 함량 및 제형별 복용법 대조 자료.
-
-* FDA. [Zoledronic acid (Reclast) prescribing information, 2026.](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021817s032lbl.pdf) — NSAID 등 신독성 약물 병용·탈수·신장애의 신장 안전성 및 주입 후 급성기 반응에 대한 acetaminophen 사용 참고; 국내 제품 허가와 구분함.
