@@ -28,6 +28,12 @@
 * carpal tunnel syndrome
 * ulnar neuropathy(예 Guyon's canal syndrome)
 
+## <mark style="color:green;">임상 양상</mark>
+
+* 기계적 통증 : 쥐기·비틀기·체중 부하 등 특정 동작에서 악화하며 압통 위치에 따라 골·인대·힘줄 병변을 구분함
+* 신경 압박 : 신경 분포를 따르는 저림·감각 저하, 야간 증상, 진행 시 근력 저하·근 위축; 통증만으로 CTS를 진단하지 않음
+* 관절염·감염 : 종창·열감·운동 제한을 확인하고 다른 관절 이환·전신 증상을 함께 평가함; 갑자기 뜨겁고 심하게 부은 단관절은 감염을 우선 배제함
+
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 <mark style="color:$danger;">**즉각 조치**</mark>
@@ -35,7 +41,7 @@
 * 외상·과사용 후 손·아래팔의 손상 정도에 비해 과도한 심한 통증, 수동 신장 시 악화, 팽팽한 구획, 진행하는 이상감각·감각 저하; 맥박이 정상이어도 가능  `급성 구획증후군 의심`
 * 손가락 굴곡 자세, 수동 신전 시 통증, 균일한 종창, 굴곡건초를 따른 압통(Kanavel 징후); 발열이 없거나 4징후가 모두 나타나지 않아도 가능  `화농성 굴곡건초염 의심`
 * 급성으로 뜨겁고 부은 손목, 심한 관절통·종창·열감과 수동 운동 제한; 발열이 없어도 가능  `감염성 관절염 의심`
-* 개방성 골절, 심한 변형을 동반한 골절·탈구 또는 조절되지 않는 출혈; 월상골·월상골주위 탈구는 외견상 변형·신경 증상이 뚜렷하지 않아도 가능  `중증 손상` `수근골 탈구 의심`
+* 개방성 골절, 심한 변형을 동반한 골절·탈구 또는 조절되지 않는 출혈; 월상골·월상골주위 탈구는 외견상 변형·신경 증상이 뚜렷하지 않아도 가능  `중증 손상`  `수근골 탈구 의심`
 * 외상 후 급격히 심해지는 정중신경 분포 통증·저림·감각 저하 또는 급격한 근력 저하  `급성 수근관증후군·신경 손상 의심`
 * 창백·냉감, 맥박 소실 또는 모세혈관 재충만 지연  `급성 혈류 장애`
 
@@ -52,6 +58,7 @@
 * 일반적인 과사용성 통증이 적절한 활동 조절·부목 등 보존 치료 4~6주 후에도 호전되지 않거나 악화되는 경우  `진단·치료 반응 재평가`
 * 야간 중립위 부목을 중심으로 한 CTS 보존 치료 4~8주 후에도 호전이 없는 경우  `CTS 재평가`
 * 진단이 불명확한 지속성 통증  `원인 재평가`
+* 손목·손의 작은 관절에 지속되는 객관적 종창, 여러 관절 이환 또는 지속적 아침 강직  `염증성 관절염 의심`
 * 손상 정도에 비례하지 않는 지속성 통증·이질통, 피부색·온도·발한의 좌우 차이, 부종·운동 제한  `CRPS 등 감별`
 * 양성 결절종이 의심되나 지속·증가하거나 증상을 유발하는 경우  `종괴 추적 평가`
 
@@ -59,6 +66,7 @@
 
 * 감염성 관절염·화농성 건초염은 즉시 전문 평가함. 관절액의 세포 수·감별, 그람염색·배양·결정 검사를 시행하며, 정상 혈액검사나 관절액 결정만으로 감염을 배제하지 않음. 안정적인 환자는 가능하면 항생제 전 검체를 확보하되, 패혈증에서는 검체 채취 때문에 항생제를 지연하지 않음
 * 주상골 골절이 의심되면 초기 X선이 정상이더라도 고정하고 조기 MRI를 우선 고려함. MRI가 어렵거나 골성 상세 평가가 필요하면 CT를 선택할 수 있으며, 즉시 추가 영상이 어려우면 10~14일 내 재평가·X선 재촬영을 계획함. 재촬영이 정상이더라도 압통·임상적 의심이 지속되면 MRI/CT 또는 수부외과 평가로 연결함
+* 원인 불명의 지속성 활막염, 특히 손의 작은 관절이나 여러 관절이 이환된 경우 류마티스내과에 신속히 의뢰함. ESR/CRP가 정상이거나 RF·anti-CCP가 음성이어도 배제하지 않으며 검사 결과를 기다리느라 의뢰를 늦추지 않음 <mark style="color:$info;">[NICE NG100]</mark>
 * 급성 인대 손상·DRUJ 불안정성은 고정 후 조기 수부외과 평가함. 골절·감염·급성 신경 손상·불안정성을 일반적인 보존 치료의 4~6주 추적 일정까지 기다리지 않음. CRPS 의심 소견도 다른 원인을 감별하면서 조기 평가·재활을 연결함
 
 _<mark style="color:$info;">Ref. SANJO 2023; BSSH Scaphoid fracture standards; AAOS 2024; APTA/JOSPT 2026.</mark>_
@@ -101,15 +109,17 @@ TFCC = triangular fibrocartilage complex(triangular fibrocartilage, ulnar collat
 ### <mark style="color:orange;">영상 검사</mark>
 
 * 영상 선택은 외상 여부, 지속 기간, 압통 부위와 의심 질환에 따라 결정함; 전형적 경증 과사용성 건초염에서는 영상 없이 임상 진단 가능
-* X선 : 급성 외상에서 골절·탈구 평가의 초기 검사이며, 만성 지속성 손목 통증에서도 보통 초기 영상으로 적절함. 손목 PA·측면·사면 촬영을 기본으로 의심 손상에 맞는 추가 뷰를 선택함 <mark style="color:$info;">[ACR Acute Hand and Wrist Trauma 2018; Chronic Hand and Wrist Pain 2023 update]</mark>
-  * 주상골 골절은 초기 X선에서 보이지 않을 수 있음; 임상적으로 골절이 의심되면 고정 후 조기 MRI를 우선 고려하고(MRI가 어렵거나 골성 상세 평가가 필요하면 CT),, 즉시 추가 영상이 어려우면 10\~14일 후 임상 재평가 및 X선 재촬영; 압통·임상적 의심이 지속되면 재촬영도 정상이라고 배제하지 말고 MRI/CT 또는 수부외과 평가로 연결함. 가능한 한 2주 내 확진·치료 계획을 수립함 <mark style="color:$info;">[BSSH]</mark>
+* X선 : 급성 외상에서 골절·탈구 평가의 초기 검사이며, 만성 지속성 손목 통증에서도 보통 초기 영상으로 적절함. 손목 PA·측면·사면 촬영을 기본으로 의심 손상에 맞는 추가 뷰를 선택함. 주상골 골절 의심 시 전용 주상골 뷰를 포함한 4방향 촬영을 고려함 <mark style="color:$info;">[ACR Acute Hand and Wrist Trauma 2018; Chronic Hand and Wrist Pain 2023 update]</mark>
+  * 주상골 골절은 초기 X선에서 보이지 않을 수 있음; 임상적으로 골절이 의심되면 고정 후 조기 MRI를 우선 고려하고(MRI가 어렵거나 골성 상세 평가가 필요하면 CT), 즉시 추가 영상이 어려우면 10\~14일 후 임상 재평가 및 X선 재촬영; 압통·임상적 의심이 지속되면 재촬영도 정상이라고 배제하지 말고 MRI/CT 또는 수부외과 평가로 연결함. 가능한 한 2주 내 확진·치료 계획을 수립함 <mark style="color:$info;">[BSSH]</mark>
 * CT : X선에서 보이지 않는 골절 또는 골성 병변 평가에 고려
-* MRI : occult fracture, 무혈관괴사 및 인대·건 등 연조직 병변 평가에 고려
+* MRI : occult fracture, 무혈관괴사 및 인대·건 등 연조직 병변 평가에 고려; 만성 손목 통증에서 X선이 정상이거나 비특이적일 때 비조영 MRI 또는 MR arthrography를 다음 검사로 선택할 수 있음 <mark style="color:$info;">[ACR 2023 update]</mark>
 * 초음파 : 표재성 힘줄·건초염, 일부 인대 손상, 결절종 및 동적 힘줄 탈구 평가에 유용; 시술자에 따른 편차가 있으며 잠재 골절이나 복잡한 골성 병변을 배제하는 검사로 사용하지 않음
 * MR arthrography : X선 이후에도 TFCC·수근 인대 손상 의심이 지속될 때 전문 평가에 따라 고려
 * Arthroscopy : 영상 검사가 아닌 침습적 진단·치료 시술이며 수부외과에서 선택적으로 시행; bone scan은 초기 일률적 검사로 사용하지 않음
 
 ### <mark style="color:orange;">발생 기간별 감별</mark>
+
+✽아래 기간 구분은 감별을 돕기 위한 실무적 구분이며, 질환별 급·만성 정의나 영상 적응증을 일률적으로 정하는 기준은 아님
 
 #### <mark style="color:$primary;">급성(2주 미만)</mark>
 
@@ -133,7 +143,7 @@ _<mark style="color:$info;">Ref. Mirabelli MH, et al. AFP 2013;87(8):568-573. Ta
 * lunate tenderness → Kienböck's Dz.
 * scapholunate interval 압통(Lister's tubercle에서 원위 1.5 ㎝ 부위) → scapholunate 이상
 * distal carpal row, proximal hypothenar area 압통 → hamate hook의 손상(nonunion)
-* pisiform과 ulnar styloid 사이 공간 바로 원위부 압통 → TFCC injury
+* ulnar styloid와 FCU 건 사이, 척골두의 손바닥쪽·콩알뼈(pisiform)의 근위부 함요(fovea) 압통 → TFCC foveal 또는 ulnotriquetral 인대 손상
 * thenar eminence atrophy → CTS 등 정중신경 병변 평가; 무지구 피부 감각 저하나 전완 증상이 동반되면 근위부 정중신경병증 등도 감별
 * mid-carpal area(proximal & distal carpal rows 사이) 압통 → midcarpal strain, instability, arthritis
 * radius 원위부 외측면 압통 → de Quervain's tenosynovitis
@@ -154,7 +164,7 @@ _<mark style="color:$info;">Ref. Forman TA, et al. AFP 2005;72(9):1753-1758. Tab
 * 평소 약간의 통증, 최근 과사용 또는 힘든 작업 → 만성 질환의 급성 악화
 * 자발 발생 또는 반복 작업 관련 통증·부종·근력 약화 → 건병증·관절염·신경병증 등을 감별; 과거 외상이나 지속적인 국소 골성 압통이 있으면 불유합·무혈관괴사도 고려
 * 전신 증상(예: 발열, 야간 발한, 권태, 체중 감소, 만성 피로), 양측성 또는 다른 관절 이환 → 전신 질환
-* excessive extension 및 ulnar or radial deviation 상태에서의 급성 손상, 힘을 쓸 때 clicking or popping 소리 → 인대 손상(예: radial deviation 손상 시 scapholunate lig., ulnar deviation 손상 시 lunotriquetral lig.)
+* 손목이 과신전되거나 비틀린 급성 손상 후 통증성 clicking·popping 또는 불안정감 → 수근 인대 손상 고려; 손상 당시 편위 방향만으로 특정 인대 손상을 확정하지 않음
 
 ### <mark style="color:orange;">주요 감별 질환의 병력 및 진찰 소견</mark>
 
@@ -171,10 +181,11 @@ _<mark style="color:$info;">Ref. Red flags for potential serious conditions in p
 * 손목의 골과 인대 사이에서 median nerve entrapment에 의해 발생하는 정중신경의 압박성 신경병증 (☞ [수근관증후군](142_-carpal-tunnel-syndrome-cts.md))
 * 관련 요인/위험 인자 : 여성, 비만, 당뇨병, 갑상선저하증, RA, 임신, 원위요골 골절 후 변형 등; 반복적인 강한 힘 사용이나 진동 노출은 직업성 CTS 위험과 관련될 수 있으나 일반적인 키보드 사용과의 인과관계는 명확하지 않음
 * 증상 : 엄지·검지·중지 및 약지의 요측 절반(median nerve distribution)의 저림·통증·감각 저하가 전형적이며 밤에 심함; 손 사용이나 손목 굴곡 시 악화될 수 있음. Palmar cutaneous branch는 carpal tunnel을 통과하지 않아 thenar eminence의 감각은 대개 보존됨
-* 검사 : Tinel test, Phalen test, reverse Phalen test, carpal compression test; 전형적 임상 양상에서는 병력·이학적 소견에 기반한 CTS-6로 진단할 수 있으며, 신경전도/근전도·초음파를 일률적으로 시행할 필요는 없음 <mark style="color:$info;">[AAOS 2024 Strong evidence]</mark>
-  * CTS-6 구성 항목 : 정중신경 분포의 저림(3.5점), 야간 저림(4점), thenar 위축 또는 위약(5점), Phalen test 양성(5점), 두 점 식별능 저하(정중신경 지배 손가락에서 5 ㎜ 이하로 떨어진 두 점을 구별하지 못함; 4.5점), Tinel sign 양성(4점). 총 26점이며 12점 이상을 CTS 가능성을 뒷받침하는 기준으로 사용함; 단순한 감각 저하를 두 점 식별능 항목 대신 사용하지 않으며 비전형적 증상에서는 추가 평가가 필요함
+* 검사 : Tinel test, Phalen test, reverse Phalen test, carpal compression test; 전형적 임상 양상에서는 병력·이학적 소견에 기반한 CTS-6로 진단할 수 있으며, 신경전도/근전도·초음파를 일률적으로 시행할 필요는 없음 <mark style="color:$info;">[AAOS 2024; APTA/JOSPT 2026]</mark>
+  * CTS-6 구성 항목 : 정중신경 분포의 저림(3.5점), 야간 저림(4점), thenar 위축 또는 위약(5점), Phalen test 양성(5점), 두 점 식별능 저하(정중신경 지배 손가락의 정적 두 점 식별 역치가 5 ㎜를 초과; 4.5점), Tinel sign 양성(4점). 총 26점이며 12점 이상을 CTS 가능성을 뒷받침하는 기준으로 사용함; 단순한 감각 저하를 두 점 식별능 항목 대신 사용하지 않으며 비전형적 증상에서는 추가 평가가 필요함
   * 임상 진단이 불확실하거나 지속적 감각 소실·근력 약화가 있는 경우, 다른 신경병증 감별 또는 중증도 평가가 필요한 경우에는 신경전도/근전도검사 등을 선택적으로 시행함
-  * ✽AAOS 2024 지침은 일반적인 키보드 사용과 CTS 발생 사이에 명확한 연관성 근거가 없다고 명시함(작업 관련 CTS는 진동 노출, 강한 힘의 반복 사용 등과 더 관련)
+  * ✽AAOS 2024의 키보드 사용 관련 문구는 신뢰할 만한 근거가 부족한 상태에서의 전문가 합의(Consensus)이며, 인과관계 부재가 강한 근거로 입증되었다는 뜻은 아님
+* 비수술적 치료 : 경도~중등도에서는 악화 동작 조절과 함께 아래팔 기반 부목으로 손목을 중립위에 가깝게 유지하고 야간에 착용함. 2026 지침은 단기·중기 증상 및 기능 개선을 위해 이를 권고함; 4~8주 후 반응·착용 상태를 재평가하되 지속적 감각 소실·객관적 근력 저하는 조기에 전문 평가함 <mark style="color:$info;">[APTA/JOSPT 2026]</mark>
 
 #### <mark style="color:$primary;">de Quervain tenosynovitis (드퀘르뱅 건초염)</mark>
 
@@ -191,6 +202,17 @@ _<mark style="color:$info;">Ref. Red flags for potential serious conditions in p
 * X선으로 골절·척골 변이·퇴행성 변화를 먼저 평가하고 DRUJ 불안정성 여부를 확인함
 * DRUJ가 안정적이면 활동 조절·손목 부목과 단기 진통제로 치료할 수 있음; 지속 증상 또는 불안정성 소견 시 MRI 등 추가 영상 및 수부외과 의뢰 고려. 급성 불안정성은 조기에 의뢰함
 
+#### <mark style="color:$primary;">제1수근중수관절 골관절염 (Thumb CMC osteoarthritis)</mark>
+
+* 엄지 기저부 통증, 집기·병뚜껑 열기 등에서 악화, 관절의 돌출(squaring); grind test는 보조 소견이며 음성이라고 배제하지 않음
+* 필요시 X선으로 퇴행성 변화를 확인하고 de Quervain 건초염과 감별함
+* 관절 보호·활동 조절, 엄지 기저부를 지지하는 보조기와 운동을 적용함. 국소 NSAID를 먼저 고려하고 경구제는 개별 위험을 평가함; 기능장애가 지속되면 전문 평가함 <mark style="color:$info;">[ACR/AF 2019 guideline, published 2020]</mark>
+
+#### <mark style="color:$primary;">Kienböck disease (월상골 무혈관괴사)</mark>
+
+* 지속적인 배측 중앙 손목 통증·월상골 부위 압통, 운동 제한·악력 감소로 나타날 수 있음
+* 초기 X선은 정상일 수 있으므로 임상적 의심이 지속되면 MRI 및 수부외과 평가를 고려함; 병기에 따라 고정·수술 등 치료가 달라지므로 단순 염좌로 장기간 치료하지 않음 <mark style="color:$info;">[AAOS OrthoInfo]</mark>
+
 #### <mark style="color:$primary;">Ganglion cyst (결절종)</mark>
 
 * 손목에서 가장 흔한 양성 연조직 종괴; dorsal wrist(특히 scapholunate 부위)가 호발 부위
@@ -202,22 +224,38 @@ _<mark style="color:$info;">Ref. Red flags for potential serious conditions in p
 
 ```mermaid
 graph TD
-    Start(["손목 통증"]) ---> RF{"즉각 조치 Red Flags에 해당?"}
-    RF --->|예| ER["응급 이송·즉시 전문 평가"]
-    RF --->|아니오| Trauma{"급성 외상 또는 골절 의심?"}
-    Trauma --->|예| XR["신경·혈관·건 평가 + X선"]
-    XR ---> Result{"골절·탈구 확인?"}
-    Result --->|예| Fix["손상에 맞는 고정·의뢰"]
-    Result --->|아니오| Susp{"주상골 등 잠재 골절 의심?"}
-    Susp --->|예| Occult["고정 + 조기 MRI 우선 고려(상황에 따라 CT); 어려우면 10~14일 후 재평가·X선"]
-    Occult ---> Persist["압통 지속 시 음성 재촬영으로 배제하지 않음; MRI/CT·수부외과 평가"]
-    Susp --->|아니오| Soft["인대·건 손상 및 DRUJ 불안정성 평가; 의심 시 조기 의뢰"]
-    Trauma --->|아니오| Local["통증 위치·신경 증상·종괴·다관절 증상 확인"]
-    Local ---> Radial["요측: de Quervain, 1st CMC 관절염"]
-    Local ---> Ulnar["척측: TFCC, ECU, DRUJ 질환"]
-    Local ---> Dorsal["배측: ganglion, intersection, Kienbock 질환"]
-    Local ---> Neuro["신경: CTS, Guyon관·근위부 신경병증 감별"]
-    Local ---> Systemic["다관절·전신 증상: 염증성·결정성 관절염 등"]
+    Start(["손목 통증 의심"]) --> RF{"즉각 조치 소견?"}
+    RF -->|예| ER(["응급 이송·즉시 전문 평가"])
+    RF -->|아니오| Trauma{"외상 또는 골절 의심?"}
+    Trauma -->|예| XR["신경·혈관·건 평가 + X선"]
+    XR --> Result{"골절·탈구 확인?"}
+    Result -->|예| Fix["손상에 맞는 고정"]
+    Fix --> Refer(["수부외과·해당 전문과 평가"])
+    Result -->|아니오| Susp{"잠재 골절 의심 지속?"}
+    Susp -->|예| Occult["고정 + 조기 MRI 고려; 상황에 따라 CT"]
+    Occult --> Plan(["영상 결과에 따른 치료·전문 평가"])
+    Occult -.->|조기 추가 영상이 어려움| Follow["10~14일 재평가·X선"]
+    Follow --> Persist{"압통·골절 의심 지속?"}
+    Persist -->|예| Further["MRI/CT 또는 수부외과 평가"]
+    Further --> Plan
+    Persist -->|아니오| Care
+    Susp -->|아니오| Soft{"건·인대 손상 또는 불안정성 의심?"}
+    Soft -->|예| Refer
+    Soft -->|아니오| Care(["원인별 보존 치료·예정 추적"])
+    Trauma -->|아니오| Early{"진행성 결손·비전형적 종괴 등 조기 평가 소견?"}
+    Early -->|예| Refer
+    Early -->|아니오| Local["압통 위치·신경 증상·종괴·다관절 증상 평가"]
+    Local --> Mechanical["국소 통증: 건병증·관절염·TFCC 등 감별"]
+    Local --> Neuro["저림: CTS·척골신경 및 근위부 병변 감별"]
+    Local --> Mass["종괴: 결절종 여부 확인"]
+    Local --> Systemic["다관절·활막염: 염증성 질환 평가"]
+    Mechanical --> Care
+    Neuro --> Care
+    Mass --> Care
+    Systemic --> Refer
+    Care --> Recheck{"호전 없거나 진단 불명확?"}
+    Recheck -->|예| Refer
+    Recheck -->|아니오| End(["점진적 활동 복귀·경과 관찰"])
     classDef startNode fill:#eeeeee,stroke:#888888,stroke-width:2px
     classDef mainNode fill:#f96,stroke:#e65100,stroke-width:2px
     class Start startNode
@@ -254,62 +292,61 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
+* 급성 염좌·연조직 손상의 국소 통증은 국소 NSAID를 우선 고려함. 필요시 경구 NSAID 또는 acetaminophen을 선택하며, 이 원칙을 감염·골절·신경 압박의 원인 치료 대신 적용하지 않음 <mark style="color:$info;">[ACP/AAFP 2020]</mark>
 * 다음은 성인 용량이며 비특이적·과사용성 손목 통증의 증상 조절에 acetaminophen 또는 NSAID를 단기간 사용함; 동시 복용 약·위장관·신장·심혈관 위험과 임신 여부를 확인함. 손목터널증후군의 신경 압박 자체를 치료하는 약은 아님
   * acetaminophen(속방정) 500\~1,000 ㎎, 1일 3\~4회(4\~6시간 이상 간격) PRN <mark style="color:blue;">\[타이레놀정 500 ㎎]</mark> — 국내 허가 최대 4,000 ㎎/day(다른 복합제 포함); 최대량을 목표로 증량하지 않고 최소 유효량을 사용함. 허약 고령·저체중·간질환·음주 등에서는 감량 또는 회피 여부를 개별 판단하며, 심한 간장애는 금기이며 복용 중 음주를 피함
   * ibuprofen : 경증 통증은 200\~400 ㎎, 1일 3\~4회 PRN <mark style="color:blue;">\[부루펜정]</mark>. 국내 허가상 연조직손상·건염 등은 1회 200\~600 ㎎, 1일 3\~4회; 단순 손목 통증에 고용량을 일률적으로 사용하지 않음
   * naproxen : 염좌·건염 등은 초회 500 ㎎ 후 6\~8시간 간격으로 250 ㎎, 증상에 따라 조절하며 1일 총 1,250 ㎎을 넘지 않음 <mark style="color:blue;">\[낙센정]</mark>. 관절염의 허가 용법(250\~500 ㎎ bid)과 구분함
 * 국소(topical) NSAID : 경증 건초염·염좌의 국소 통증에 고려; 경구제보다 전신 노출은 적지만 신기능 저하 등 위험 요인이 있으면 사용 면적·기간과 병용약을 확인
-  * diclofenac gel <mark style="color:blue;">\[볼타렌에멀겔]</mark>, ketoprofen patch <mark style="color:blue;">\[케토톱플라스타]</mark>
+  * diclofenac gel <mark style="color:blue;">\[볼타렌에멀겔]</mark>, ketoprofen patch <mark style="color:blue;">\[케토톱플라스타]</mark>; 손상된 피부·눈·점막에는 사용하지 않고 밀봉붕대나 가열을 피함. 경구 NSAID와 일률적으로 중복하지 않으며 NSAID 과민반응 병력이 있으면 외용제도 제품별 금기를 확인함
   * ketoprofen 외용제 : 사용 중 및 중단 후 2주까지 적용 부위의 자외선 노출을 피함(광과민 반응); 15세 미만과 임신 6개월 이상에서는 사용하지 않음
-* NSAID 안전성 : 국내 부루펜 허가상 위장관 궤양·출혈 및 그 병력, 기관지천식 및 그 병력, 아스피린/NSAID 과민반응 병력, 중증 신·간·심장기능 장애 등은 금기. PPI 병용으로 금기를 해소할 수 없음. 항응고·항혈소판제 병용, 탈수, 이뇨제와 ACE 억제제/ARB 병용에서는 출혈·급성 콩팥손상 위험을 평가하고 다른 경구 NSAID와 중복하지 않음. 저용량 아스피린 복용자는 이부프로펜의 항혈소판 효과 간섭도 고려함. 임신 20주 이후는 태아 신기능·양수에 대한 위험 때문에 가급적 피하며, 부루펜은 임신 말기 3개월 금기임 <mark style="color:$info;">[국내 허가사항; FDA]</mark>
-* Acetaminophen 안전성 : 국내 타이레놀 허가상 소화성궤양, 중증 간·신장·심장기능 장애, 아스피린/NSAID 유발 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제 복용 등은 금기. NSAID 금기 환자에게도 자동으로 안전한 대안은 아니며, 복용 중 음주를 피함 <mark style="color:$info;">[국내 허가사항]</mark>
+* NSAID 안전성 : 국내 부루펜 허가상 위장관 궤양·출혈 및 그 병력, 기관지천식 및 그 병력, 아스피린/NSAID 과민반응 병력, 중증 신·간·심장기능 장애, 심한 고혈압·혈액 이상, CABG 전후 통증, 항암요법의 고용량 methotrexate 병용 등은 금기. PPI 병용으로 금기를 해소할 수 없음. 항응고·항혈소판제 병용, 탈수, 이뇨제와 ACE 억제제/ARB 병용에서는 출혈·급성 콩팥손상 위험을 평가하고 다른 경구 NSAID와 중복하지 않음. 저용량 아스피린 복용자는 이부프로펜의 항혈소판 효과 간섭도 고려함. 임신 20주 이후는 태아 신기능·양수에 대한 위험 때문에 가급적 피하며, 부루펜은 임신 말기 3개월 금기임. 수유 중에는 국내 허가사항에 따라 약물투여의 중요성을 고려하여 수유 또는 약물투여의 중단을 판단함 <mark style="color:$info;">[국내 허가사항]</mark>
+* Acetaminophen 안전성 : 국내 타이레놀정500㎎ 허가상 성분 과민증, 소화성궤양, 심한 혈액 이상, 중증 간·신장·심장기능 장애, 아스피린/NSAID 유발 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제 복용 등은 금기. NSAID 금기 환자에게도 자동으로 안전한 대안은 아니며, 복용 중 음주를 피함 <mark style="color:$info;">[국내 허가사항]</mark>
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
 * 스테로이드 국소 주사
   * de Quervain 건초염 : 활동 조절과 함께 corticosteroid injection을 조기에 고려할 수 있으며, 주사 후 3\~4주 thumb spica immobilization 병용을 1차 치료 전략으로 고려함(메타분석에 근거한 치료 제안). 주사 단독 대비 추가 기능 이득은 통계적으로 유의했지만 임상적으로 의미 있는 차이에는 미치지 못했음 <mark style="color:$info;">[Challoumas et al. JAMA Netw Open 2023]</mark>
   * 손목터널증후군 : 단기 증상 완화 효과는 있으나 장기적 이득은 입증되지 않음 <mark style="color:$info;">[AAOS 2024 Strong evidence]</mark>
-  * 주사 부위 감염·피부 탈색/위축, 드문 힘줄 손상 등의 가능성을 사전에 설명하고 감염 의심 부위에는 주사하지 않음; 건 실질 내 주입을 피하고, 해부학적 위치·격벽이 불분명하거나 이전 주사 효과가 없으면 초음파 유도 주사를 고려함
+  * 주사 부위 감염·피부 탈색/위축, 일시적 혈당 상승, 드문 힘줄·신경 손상 등의 가능성을 사전에 설명하고 감염 의심 부위에는 주사하지 않음; 건 실질 내 주입을 피하고, 해부학적 위치·격벽이 불분명하거나 이전 주사 효과가 없으면 초음파 유도 주사를 고려함
 * PRP(platelet-rich plasma) 주사 : 손목터널증후군의 비수술적 치료에서 장기적 이득이 입증되지 않음 <mark style="color:$info;">[AAOS 2024 Strong evidence]</mark>
 * 결절종(ganglion cyst) 흡인 : 증상이 있는 경우 고려하나 1년 내 50% 이상에서 재발할 수 있음 \[Pujalte et al. AFP 2024]. 손바닥쪽(volar) 결절종은 요골동맥 등과 가까워 위치 확인 없이 흡인하지 않으며 초음파 유도 또는 수부외과 평가를 고려함 <mark style="color:$info;">[BSSH]</mark>; 흡인 후 스테로이드 추가의 이득은 명확하지 않아 일률적으로 병용하지 않음
-* 수술 : CTS·de Quervain 건초염 등에서 보존 치료 반응, 신경손상·기능장애와 환자 선호에 따라 고려함. CTS에서 지속적 감각소실·객관적 엄지 근력 저하·무지구 위축이 있으면 보존 치료나 반복 주사로 의뢰를 지연하지 않음; 수술과 주사의 최신 비교 근거는 CTS 챕터 참조
+* 수술 : CTS·de Quervain 건초염 등에서 보존 치료 반응, 신경손상·기능장애와 환자 선호에 따라 고려함. CTS에서 지속적 감각소실·객관적 엄지 근력 저하·무지구 위축이 있으면 보존 치료나 반복 주사로 의뢰를 지연하지 않음; 수술과 주사의 최신 비교 근거는 CTS 챕터 참조. DISTRICTS(2025)는 6주 이상 증상이 있고 전기생리·초음파로 확인된 CTS에서 수술로 시작한 전략의 18개월 회복률이 주사로 시작한 전략보다 높았음(61% 대 45%). 이는 추가 치료가 허용된 초기 치료 전략 비교이며 모든 초기 경증 환자에게 즉시 수술을 권고하는 근거로 일반화하지 않음 <mark style="color:$info;">[Palmbergen et al. 2025]</mark>
   * 손목터널증후군 : mini-open과 endoscopic release 간 장기 결과의 차이는 없음; 국소 마취만으로 시행 가능하며, 수술 후 정기적 재활치료나 부목 고정을 일률적으로 시행할 필요는 없음 <mark style="color:$info;">[AAOS 2024]</mark>
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-M25.53 관절통, 아래팔(손목관절 포함) Pain in joint, forearm
+<table><thead><tr><th>코드</th><th>KCD-9 명칭 및 적용</th><th>코드 구분</th></tr></thead><tbody>
+<tr><td>M25.53</td><td>관절통, 아래팔 — 손목관절 포함</td><td>완전코드</td></tr>
+<tr><td>M25.54</td><td>관절통, 손 — 수근골·손가락·중수골 및 이들 뼈간의 관절 포함</td><td>완전코드</td></tr>
+<tr><td>M65.4</td><td>요골붓돌기힘줄윤활막염[드퀘르벵]</td><td>완전코드</td></tr>
+<tr><td>G56.0</td><td>손목터널증후군</td><td>완전코드</td></tr>
+<tr><td>M77.2</td><td>손목의 관절주위염</td><td>완전코드</td></tr>
+<tr><td>M67.43</td><td>결절종, 아래팔 — 손목관절 포함</td><td>완전코드</td></tr>
+<tr><td>M67.44</td><td>결절종, 손 — 수근골 포함</td><td>완전코드</td></tr>
+<tr><td>M19.03</td><td>기타 관절의 원발성 관절증, 아래팔 — 손목관절 포함</td><td>완전코드</td></tr>
+<tr><td>M19.04</td><td>기타 관절의 원발성 관절증, 손</td><td>완전코드</td></tr>
+<tr><td>M18.0</td><td>제1수근중수관절의 양쪽 원발성 관절증</td><td>완전코드</td></tr>
+<tr><td>M18.1</td><td>제1수근중수관절의 기타 원발성 관절증 — 한쪽 또는 NOS 포함</td><td>완전코드</td></tr>
+<tr><td>S52.5</td><td>요골 하단의 골절</td><td>불완전코드; 골절 형태 및 개방성·폐쇄성에 따른 세분류 필요</td></tr>
+<tr><td>S52.520</td><td>등쪽 경사를 동반한 요골 하단의 골절, 폐쇄성 — 콜리스골절, 폐쇄성</td><td>완전코드 예시</td></tr>
+<tr><td>S52.590 / S52.591</td><td>요골 하단의 상세불명 골절, 폐쇄성 / 개방성</td><td>완전코드; 상세한 골절 형태를 알 수 없을 때</td></tr>
+<tr><td>S52.6</td><td>척골과 요골 모두의 하단의 골절</td><td>불완전코드</td></tr>
+<tr><td>S52.60 / S52.61</td><td>척골과 요골 모두의 하단의 골절, 폐쇄성 / 개방성</td><td>완전코드</td></tr>
+<tr><td>S62</td><td>손목 및 손부위의 골절</td><td>상위 분류; 세분류 필요</td></tr>
+<tr><td>S62.00 / S62.01</td><td>손 주상골의 골절, 폐쇄성 / 개방성</td><td>완전코드</td></tr>
+<tr><td>S63</td><td>손목 및 손부위의 관절 및 인대의 탈구, 염좌 및 긴장</td><td>상위 분류; 세분류 필요</td></tr>
+<tr><td>S63.3</td><td>손목 및 수근골 인대의 외상성 파열</td><td>완전코드; 확인된 외상성 인대 파열에 적용</td></tr>
+<tr><td>S63.5</td><td>손목의 염좌 및 긴장</td><td>불완전코드</td></tr>
+<tr><td>S63.50</td><td>수근(관절)의 염좌 및 긴장</td><td>완전코드</td></tr>
+<tr><td>S63.59</td><td>손목의 상세불명 부분의 염좌 및 긴장</td><td>완전코드; 상세 부위를 알 수 없을 때</td></tr>
+<tr><td>S64</td><td>손목 및 손 부위의 신경의 손상</td><td>상위 분류; 세분류 필요</td></tr>
+<tr><td>S66</td><td>손목 및 손 부위의 근육 및 힘줄의 손상</td><td>상위 분류; 세분류 필요</td></tr>
+</tbody></table>
 
-M25.54 관절통, 손 Pain in joint, hand
-
-M65.4 요골경상돌기건초염\[드퀘르뱅] Radial styloid tenosynovitis [de Quervain]
-
-G56.0 손목터널증후군 Carpal tunnel syndrome
-
-M77.2 손목의 관절주위염 Periarthritis of wrist
-
-M67.44 결절종, 손(수근골 포함) Ganglion, hand
-
-M19.03 원발성 관절증, 아래팔 Primary arthrosis of other joints, forearm
-
-M19.04 원발성 관절증, 손 Primary arthrosis of other joints, hand
-
-S52.5 요골 하단의 골절 Fracture of lower end of radius
-
-S52.6 척골 및 요골 둘 다의 하단골절 Fracture of lower end of both ulna and radius
-
-S62 손목 및 손 부위의 골절 Fracture at wrist and hand level
-
-S63 손목 및 손 부위의 관절 및 인대의 탈구, 염좌 및 긴장 Dislocation, sprain and strain of joints and ligaments at wrist and hand level
-
-S63.5 손목의 염좌 및 긴장 Sprain and strain of wrist
-
-S64 손목 및 손 부위의 신경의 손상 Injury of nerves at wrist and hand level
-
-S66 손목 및 손 부위의 근육 및 힘줄의 손상 Injury of muscle and tendon at wrist and hand level
-
-✽원위요골·척골 골절은 손목 부근에 발생해도 S52 계열을 사용함. S62·S63·S64·S66은 상위 분류이며 실제 진단에 맞는 세부 코드를 선택함
+✽저장된 <code>KCD9_251216(6).xlsx</code>의 ‘상병분류기호(전체)’ 및 ‘상병분류기호(완전코드)’ 시트와 대조함. 원위요골·척골 골절은 손목 부근에 발생해도 S52 계열을 사용함. 제1수근중수관절의 관절증은 M19.04로 일괄 분류하지 않고 M18 계열에서 원발성·외상후·기타 이차성과 양측 여부에 맞게 선택함. 손목관절 결절종과 손·수근골 결절종은 병변의 실제 위치를 확인해 구분함. 외상성 TFCC 손상도 파열 구조·진단에 맞춰 선택하며 퇴행성 병변에 외상 코드를 일률적으로 사용하지 않음
 
 ***
 
@@ -355,11 +392,11 @@ S66 손목 및 손 부위의 근육 및 힘줄의 손상 Injury of muscle and te
 
 ***
 
-### <mark style="color:$success;">핵심 복약지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **NSAID/acetaminophen 복용 시 주의사항**
 >
-> * NSAID는 위장 장애를 줄이기 위해 식사와 함께 또는 식후에 복용할 수 있습니다. Acetaminophen은 식사와 관계없이 복용할 수 있습니다. 신기능 저하·소화성궤양 등 위험 요인이 있으면 NSAID 사용 여부를 먼저 확인하십시오.
+> * NSAID는 속쓰림 등 위장 불편을 줄이기 위해 식사와 함께 또는 식후에 복용할 수 있으나, 식후 복용으로 궤양·출혈 위험이 없어지는 것은 아닙니다. Acetaminophen은 식사와 관계없이 복용할 수 있습니다. 신기능 저하·소화성궤양 등 위험 요인이 있으면 NSAID 사용 여부를 먼저 확인하십시오.
 > * 항응고제 복용 중인 환자는 NSAID 병용 시 출혈 위험이 증가할 수 있습니다. 서로 다른 소염진통제를 임의로 함께 복용하지 마십시오.
 > * 감기약·복합진통제에 포함된 아세트아미노펜까지 총량에 포함하며, 중복 복용과 음주를 피하십시오.
 > * 케토톱 등 케토프로펜 외용제를 사용하면 사용 중과 중단 후 2주까지 붙인 부위의 자외선 노출을 피하십시오.
@@ -374,7 +411,7 @@ S66 손목 및 손 부위의 근육 및 힘줄의 손상 Injury of muscle and te
 
 > **스테로이드 국소 주사 관련 안내**
 >
-> * 주사 부위 감염·피부 탈색/위축, 드문 힘줄 손상 등의 가능성을 사전에 설명하십시오.
+> * 주사 부위 감염·피부 탈색/위축, 일시적 혈당 상승, 드문 힘줄·신경 손상 등의 가능성을 사전에 설명하십시오. 당뇨병 환자는 주사 후 혈당 변화를 확인하십시오.
 > * 손목터널증후군에서 국소 스테로이드 주사는 단기 증상 완화에는 도움이 되나 장기적 이득은 입증되지 않았습니다(AAOS 2024).
 > * 결절종 흡인은 재발이 흔하므로(일부 연구에서 1년 내 50% 이상) 경과 관찰·흡인·수술의 선택지를 함께 설명하십시오.
 
@@ -384,45 +421,6 @@ S66 손목 및 손 부위의 근육 및 힘줄의 손상 Injury of muscle and te
 > * 손·손목의 급격한 부종, 감각 저하, 창백, 맥박 소실 등 신경·혈관 증상이 발생하는 경우 — 즉시 내원
 > * 국소 열감, 홍반, 심한 압통 등 감염 징후가 발생하는 경우 — 즉시 내원
 > * 외상 후 심한 통증이 지속되거나 변형이 관찰되는 경우 — 즉시 내원
-
-***
-
-## <mark style="color:blue;">환자 안내서</mark>
-
-{% hint style="info" %}
-**손목 통증은 원인에 따라 치료가 달라집니다**
-
-손목 통증은 반복적인 사용이나 가벼운 손상으로 인한 힘줄·인대의 자극이나 손상이 흔한 원인입니다. 다만 넘어지면서 다친 경우나 저림·감각 이상이 동반되는 경우에는 정확한 진단이 필요합니다.
-{% endhint %}
-
-### <mark style="color:orange;">왜 손목이 아픈가요?</mark>
-
-* 손목은 여러 개의 작은 뼈와 인대, 힘줄이 좁은 공간에 모여 있어, 반복적인 사용이나 작은 손상에도 통증이 쉽게 발생합니다.
-* 컴퓨터·스마트폰 사용, 운동(골프, 테니스 등), 육아(아이 안기) 등 반복 동작이 흔한 유발 요인입니다.
-* 손을 짚고 넘어지는 경우 원위요골이나 손목뼈(주상골 등)에 골절이 생길 수 있습니다.
-
-### <mark style="color:orange;">일상생활에서 어떻게 관리하나요?</mark>
-
-* **통증을 유발하는 동작을 줄이십시오.** 반복적인 손목 사용을 피하고, 작업 중간에 자주 휴식을 취하십시오.
-* **질환에 맞는 부목을 사용하십시오.** 손목터널증후군에서는 야간에 손목을 중립위로 유지하는 부목이 도움이 되며, 드퀘르뱅 건초염에서는 엄지까지 고정하는 thumb spica 부목을 사용할 수 있습니다.
-* **초기 손상에는 냉찜질을 하십시오.** 손상 후 2일 이내 15분씩 하루 여러 차례 적용하며, 얼음이 피부에 직접 닿지 않도록 하십시오.
-* **손목 스트레칭과 근력 강화 운동**은 골절이나 불안정한 인대 손상이 없는지 확인한 뒤 통증이 가라앉으면 점진적으로 시작하십시오. 골절이 의심되거나 확진된 경우에는 정해진 고정 기간과 재검 일정을 지키십시오.
-* **드퀘르뱅 건초염이 있다면 엄지를 반복적으로 사용하는 동작(문자 입력, 아이 안기, 병뚜껑 열기 등)을 의식적으로 줄이십시오.**
-* **넘어짐을 예방하십시오.** 걸려 넘어질 물건을 치우고, 미끄럼 방지 신발을 착용하며, 특히 어르신은 집 안 조명을 밝게 유지하십시오. 손을 짚고 넘어지면서 손목뼈가 부러지는 경우가 흔합니다.
-
-### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
-
-* 소염진통제(NSAID)나 타이레놀은 통증이 심할 때 짧은 기간 사용하는 약입니다. 임의로 장기간 복용하지 마십시오.
-* 드퀘르뱅 건초염이나 손목터널증후군에서 스테로이드 주사는 증상 완화에 도움이 될 수 있습니다. 효과의 지속 기간과 주사 부위의 피부 변화 등 위험을 의사와 상의해 결정하십시오.
-
-### <mark style="color:orange;">이럴 때는 즉시 병원을 방문하세요</mark>
-
-* 넘어지거나 다친 후 손목이 심하게 붓거나 모양이 변한 경우
-* 손이나 손가락의 감각이 없어지거나 색깔이 창백해지는 경우
-* 손가락을 움직이기 어렵거나 힘이 빠지는 경우
-* 손목 주변이 뜨겁고 붉게 부어오르며 심하게 아프거나 움직이기 어려운 경우(열이 없어도 즉시 진료)
-* 넘어져 다친 뒤 엄지 쪽 손목 통증이 지속되는 경우(X선이 정상이었더라도 다시 평가)
-
 
 ***
 
@@ -445,7 +443,53 @@ S66 손목 및 손 부위의 근육 및 힘줄의 손상 Injury of muscle and te
 * Ravn C, et al. [Guideline for management of septic arthritis in native joints (SANJO)](https://jbji.copernicus.org/articles/8/29/2023/). J Bone Jt Infect. 2023;8:29-37.
 * Pujalte GGA, et al. [Injections of the Hand and Wrist: Part II](https://www.aafp.org/pubs/afp/issues/2024/1000/injections-hand-wrist-part-2.html). Am Fam Physician. 2024;110(4):402-410.
 * British Society for Surgery of the Hand. [Ganglion cysts](https://www.bssh.ac.uk/patients/conditions/20/ganglion_cysts).
+* Palmbergen WAC, et al. [Surgery versus corticosteroid injection for carpal tunnel syndrome (DISTRICTS)](https://pubmed.ncbi.nlm.nih.gov/40517008/). Lancet. 2025;405(10495):2153-2163.
+* American Academy of Orthopaedic Surgeons. [Kienböck’s Disease](https://www.orthoinfo.org/diseases--conditions/kienbocks-disease). OrthoInfo.
+* Kolasinski SL, et al. [2019 ACR/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee](https://pmc.ncbi.nlm.nih.gov/articles/PMC10518852/). Arthritis Care Res. 2020;72(2):149-162.
+* Qaseem A, et al. [Nonpharmacologic and Pharmacologic Management of Acute Pain From Non-Low Back, Musculoskeletal Injuries in Adults](https://pubmed.ncbi.nlm.nih.gov/32805126/). Ann Intern Med. 2020;173(9):739-748.
+* NICE. [Rheumatoid arthritis in adults: management, NG100 — Referral, diagnosis and investigations](https://www.nice.org.uk/guidance/ng100/chapter/Recommendations#referral-diagnosis-and-investigations).
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 타이레놀정500㎎, 부루펜정200㎎, 낙센정, 볼타렌에멀겔, 케토톱플라스타의 국내 허가 용법·금기·주의사항 확인 자료.
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 타이레놀정500㎎(품목기준코드 202106092), 부루펜정200㎎(197700120), 케토톱플라스타(199300356)의 현행 상세 허가사항을 확인함. 낙센정 용법·용량은 제조사 공개 자료로 교차 확인함. 
+* KCD-9 대조 자료 : 저장된 <code>KCD9_251216(6).xlsx</code> — 상병분류기호(전체), 상병분류기호(완전코드).
+* 검토 기준일 : 2026-10-29.
+
+***
+
+## <mark style="color:blue;">환자 안내서</mark>
+
+{% hint style="info" %}
+**손목 통증은 원인에 따라 치료가 달라집니다**
+
+손목 통증은 반복적인 사용이나 가벼운 손상으로 인한 힘줄·인대의 자극이나 손상이 흔한 원인입니다. 다만 넘어지면서 다친 경우나 저림·감각 이상이 동반되는 경우에는 정확한 진단이 필요합니다.
+{% endhint %}
+
+### <mark style="color:orange;">왜 손목이 아픈가요?</mark>
+
+* 손목은 여러 개의 작은 뼈와 인대, 힘줄이 좁은 공간에 모여 있어, 반복적인 사용이나 작은 손상에도 통증이 쉽게 발생합니다.
+* 컴퓨터·스마트폰 사용, 운동(골프, 테니스 등), 육아(아이 안기) 같은 동작이 통증을 유발하거나 악화할 수 있습니다. 다만 손목터널증후군을 비롯한 모든 손목 질환이 이런 사용 때문에 생기는 것은 아닙니다.
+* 손을 짚고 넘어지는 경우 원위요골이나 손목뼈(주상골 등)에 골절이 생길 수 있습니다.
+
+### <mark style="color:orange;">일상생활에서 어떻게 관리하나요?</mark>
+
+* **통증을 유발하는 동작을 줄이십시오.** 반복적인 손목 사용을 피하고, 작업 중간에 자주 휴식을 취하십시오.
+* **질환에 맞는 부목을 사용하십시오.** 손목터널증후군에서는 야간에 손목을 중립위로 유지하는 부목이 도움이 되며, 드퀘르뱅 건초염에서는 엄지까지 고정하는 thumb spica 부목을 사용할 수 있습니다.
+* **초기 손상에는 냉찜질을 하십시오.** 손상 후 2일 이내 15분씩 하루 여러 차례 적용하며, 얼음이 피부에 직접 닿지 않도록 하십시오.
+* **손목 스트레칭과 근력 강화 운동**은 골절이나 불안정한 인대 손상이 없는지 확인한 뒤 통증이 가라앉으면 점진적으로 시작하십시오. 골절이 의심되거나 확진된 경우에는 정해진 고정 기간과 재검 일정을 지키십시오.
+* **드퀘르뱅 건초염이 있다면 엄지를 반복적으로 사용하는 동작(문자 입력, 아이 안기, 병뚜껑 열기 등)을 의식적으로 줄이십시오.**
+* **손목의 혹을 세게 치거나 직접 바늘로 터뜨리지 마십시오.** 결절종처럼 보여도 다른 종괴일 수 있고, 특히 손바닥 쪽에는 혈관과 신경이 가까이 있습니다.
+* **넘어짐을 예방하십시오.** 걸려 넘어질 물건을 치우고, 미끄럼 방지 신발을 착용하며, 특히 어르신은 집 안 조명을 밝게 유지하십시오. 손을 짚고 넘어지면서 손목뼈가 부러지는 경우가 흔합니다.
+
+### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
+
+* 소염진통제(NSAID)나 타이레놀은 통증이 심할 때 짧은 기간 사용하는 약입니다. 임의로 장기간 복용하지 마십시오.
+* 드퀘르뱅 건초염이나 손목터널증후군에서 스테로이드 주사는 증상 완화에 도움이 될 수 있습니다. 효과의 지속 기간과 주사 부위의 피부 변화 등 위험을 의사와 상의해 결정하십시오.
+
+### <mark style="color:orange;">이럴 때는 즉시 병원을 방문하세요</mark>
+
+* 넘어지거나 다친 후 손목이 심하게 붓거나 모양이 변한 경우
+* 손이나 손가락의 감각이 없어지거나 색깔이 창백해지는 경우
+* 손가락을 움직이기 어렵거나 힘이 빠지는 경우
+* 손목 주변이 뜨겁고 붉게 부어오르며 심하게 아프거나 움직이기 어려운 경우(열이 없어도 즉시 진료)
+* 넘어져 다친 뒤 엄지 쪽 손목 통증이 지속되는 경우(X선이 정상이었더라도 다시 평가)

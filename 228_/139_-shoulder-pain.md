@@ -23,7 +23,13 @@
 * 반복적인 overhead activity, 어깨 부하 운동 : 배드민턴, 테니스, 야구, 배구, 역도
 * 부적절한 운동 : 준비 운동 부족, 빠른 부하 증가, 잘못된 운동 방법
 * 근력 저하 또는 불균형
-* 동반 질환 : 당뇨병, 갑상선 질환
+* 동반 질환 : 특히 동결견에서 당뇨병, 갑상선 질환, 이상지질혈증과 연관
+
+## <mark style="color:green;">임상 양상</mark>
+
+* 통증 위치·발병 양상·외상 여부, 야간통, 동작과의 관계 및 일상 기능(옷 입기·머리 빗기·손을 등 뒤로 보내기)의 변화를 확인
+* 능동 운동 제한이 주된 경우와 능동·수동 운동이 모두 제한되는 경우를 구분하고, 근력 저하·불안정감·감각 이상·전신 증상을 함께 평가 (☞ 감별 진단 및 질환별 상세 소견)
+* 야간통은 회전근개 이상·동결견에서도 흔함. 단독 야간통보다 휴식 시 지속성 통증, 전신 증상·암 병력 등 동반 단서를 중시
 
 ***
 
@@ -34,7 +40,7 @@
 * 운동과 관련되거나 갑자기 발생한 어깨·팔 통증에 흉부 불편감, 식은땀, 오심, 호흡곤란 등이 동반; 흉통이 뚜렷하지 않거나 우측 어깨 통증인 경우도 포함  `급성 관상동맥증후군 의심`
 * 외상 후 심한 변형, 개방성 손상 또는 원위부 맥박 소실·감각 저하·운동 마비  `골절·탈구` `신경혈관 손상`
 * 급격하거나 빠르게 진행하는 뚜렷한 신경학적 결손, 보행 이상·손의 서툼 등 척수병증 소견  `경추 척수·신경 병변`
-* 50세 이상에서 양측 어깨 통증·강직 등의 PMR 양상에 시력 저하·일과성 시력 소실 또는 복시 동반  `거대세포동맥염 의심`
+* 50세 이상에서 시력 저하·일과성 시력 소실 또는 복시가 새로 발생하고 새로운 두통·턱 파행·두피 압통 또는 PMR 양상이 동반; PMR 증상이 없어도 가능  `거대세포동맥염 의심`
 * 급성으로 시작된 심한 관절통과 수동 운동 시 극심한 통증·운동 제한, 관절의 발적·부종·열감 또는 발열; 발열이나 눈에 띄는 발적이 없어도 가능  `감염성 관절염 의심`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
@@ -51,7 +57,7 @@
 
 #### <mark style="color:$primary;">평가·추적 원칙</mark>
 
-* 평가 원칙 : 외상 후 골절·탈구가 의심되면 X선 검사 우선. 수동 ROM이 보존되어도 새로운 근력 저하·능동 거상 불능은 급성 RTC 파열을 평가하고 조기 의뢰함. 감염성 관절염이 임상적으로 의심되면 Tier 1에 따라 지체 없이 평가·관절천자를 진행함
+* 평가 원칙 : 외상 후 골절·탈구가 의심되면 X선 검사 우선. 수동 ROM이 보존되어도 새로운 근력 저하·능동 거상 불능은 급성 RTC 파열을 평가하고 조기 의뢰함. 감염성 관절염이 임상적으로 의심되면 즉각 조치 원칙에 따라 지체 없이 평가·관절천자를 진행함
 * 감별 주의 : 급성 석회성 건염의 흡수기에도 국소 발적·열감과 극심한 통증, 염증표지자 상승이 가능함. X선·초음파상 석회가 보이더라도 감염을 배제하지 않음 (☞ 석회성 건염 참조)
 * 추적 원칙 : 4~6주에 진단·운동 방법·치료 이행을 재평가함. RTC tendinopathy에서 적절한 비수술 치료 후 최대 12주 내 호전이 없으면 추가 영상을 고려하며, 심한 지속성 통증·기능장애는 전문과 의뢰함. 위험 소견·급성 파열은 이 기간을 기다리지 않음
 
@@ -85,7 +91,7 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 
 #### <mark style="color:$primary;">어깨 관절 검사 (Shoulder Examination)</mark>
 
-<table><thead><tr><th width="180">검사명</th><th width="330">검사 방법 [양성 소견]</th><th>의심 상태</th></tr></thead><tbody><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-2">Apley scratch test</a></td><td>팔을 (머리/허리) 뒤로 돌려 반대편 scapula의 상/하 부위를 만지도록 함 [운동 범위 감소 또는 좌우 차이]</td><td>Shoulder ROM screening</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-5">Neer's test</a></td><td>견갑골을 고정하고 상완을 내회전(엄지가 아래로 향함)한 상태에서 팔을 수동으로 전방 거상 [어깨 통증 재현]</td><td>Rotator cuff-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-6">Hawkins' test</a></td><td>팔꿈치 및 어깨 90° 굴곡 후 수동 내회전 [어깨 통증 재현]</td><td>Rotator cuff-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-3">Empty can test</a></td><td>팔을 scapular plane(관상면 앞 약 30°)에서 90° 정도 들어 올리고 엄지가 아래로 향하도록 상완을 내회전한 상태에서 검사자가 저항을 가하며 팔을 올리게 함 [통증 또는 건측보다 약화; 통증성 억제와 실제 근력 저하 구분]</td><td>RTC 이상 (supraspinatus)</td></tr><tr><td>Painful arc test</td><td>능동 외전 시 60\~120° 구간에서 통증 재현 (그 이전·이후 구간은 상대적으로 편안함) [해당 구간 통증]</td><td>RTC-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-4">External rotation / Infraspinatus strength test</a></td><td>팔을 몸에 붙이고 팔꿈치 90° 굴곡 후 검사자가 저항을 가하면서 외회전 [건측보다 약화]</td><td>RTC 이상 (infraspinatus, teres minor)</td></tr><tr><td><a href="https://www.youtube.com/watch?v=t9dSDVRbjn0">Lift-off test</a></td><td>손등을 허리 뒤(요추부)에 댄 상태에서 손을 등에서 뒤쪽으로 떼어내도록 함(능동 lift-off); 가능하면 그 자세에서 검사자가 저항을 추가 [손을 등에서 떼지 못하거나 건측보다 약화]. 통증·강직으로 자세 자체가 불가능하면 belly-press test(손바닥을 배에 대고 팔꿈치를 앞으로 빼며 누름) 또는 bear-hug test로 대체</td><td>RTC 이상 (subscapularis)</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qvwYEoeHPaA">Drop-arm test</a></td><td>팔을 수동으로 외전(약 90° 이상)시킨 후 천천히 능동적으로 내리도록 함 [유지하지 못하고 팔이 갑자기 떨어지거나 현저한 약화]</td><td>RTC tear</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-7">Cross-body test</a></td><td>어깨를 90° 굴곡시킨 뒤 팔을 몸통 앞을 가로질러 수동 수평 내전 [AC joint에 국한된 통증 재현]</td><td>AC joint 관절염</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qKqJRrms4u8">Apprehension test</a></td><td>누워서 어깨 90° 외전, 팔꿈치 90° 굴곡 상태에서 검사자가 어깨를 외회전 시킴 [탈구될 것 같은 apprehension/불안감 재현]</td><td>Anterior GH 불안정</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qKqJRrms4u8">Relocation test</a></td><td>Apprehension test 양성 시, 그 자세에서 상완골 근위부에 후방 압력 [apprehension/불안감 감소 또는 소실]</td><td>Anterior GH 불안정</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-10">Sulcus test</a></td><td>중립 자세에서 검사자가 팔꿈치 또는 손목을 아래로 당김 [acromion 측/하부 함몰; 건측·증상과 비교]</td><td>하방 관절 이완성(inferior laxity); 증상·탈구 병력과 함께 불안정증 판단</td></tr><tr><td><a href="https://www.youtube.com/watch?v=lAqg39HUV7I">Clunk test</a></td><td>누운 자세에서 검사자가 상완골두에 부하를 가하며 팔을 회전·거상 [통증을 동반한 덜컹거림/걸림]</td><td>Labrum 이상 가능; 무통성 소리만으로 양성·파열 판정하지 않음</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-15">Spurling's test</a></td><td>목을 환측으로 신전·회전시키고 조심스럽게 축성 압박 [평소 경험하는 팔 쪽 방사통 재현; 목·어깨의 국소 통증만으로는 양성 판정하지 않음]</td><td>Cervical nerve root 이상</td></tr></tbody></table>
+<table><thead><tr><th width="180">검사명</th><th width="330">검사 방법 [양성 소견]</th><th>의심 상태</th></tr></thead><tbody><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-2">Apley scratch test</a></td><td>팔을 (머리/허리) 뒤로 돌려 반대편 scapula의 상/하 부위를 만지도록 함 [운동 범위 감소 또는 좌우 차이]</td><td>Shoulder ROM screening</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-5">Neer's test</a></td><td>견갑골을 고정하고 상완을 내회전(엄지가 아래로 향함)한 상태에서 팔을 수동으로 전방 거상 [어깨 통증 재현]</td><td>Rotator cuff-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-6">Hawkins' test</a></td><td>팔꿈치 및 어깨 90° 굴곡 후 수동 내회전 [어깨 통증 재현]</td><td>Rotator cuff-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-3">Empty can test</a></td><td>팔을 scapular plane(관상면 앞 약 30°)에서 90° 정도 들어 올리고 엄지가 아래로 향하도록 상완을 내회전한 상태에서 검사자가 저항을 가하며 팔을 올리게 함 [통증 또는 건측보다 약화; 통증성 억제와 실제 근력 저하 구분]</td><td>RTC 이상 (supraspinatus)</td></tr><tr><td>Painful arc test</td><td>능동 외전 시 60~120° 구간에서 통증 재현 (그 이전·이후 구간은 상대적으로 편안함) [해당 구간 통증]</td><td>RTC-related/subacromial pain</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-4">External rotation / Infraspinatus strength test</a></td><td>팔을 몸에 붙이고 팔꿈치 90° 굴곡 후 검사자가 저항을 가하면서 외회전 [건측보다 약화]</td><td>RTC 이상 (infraspinatus, teres minor)</td></tr><tr><td><a href="https://www.youtube.com/watch?v=t9dSDVRbjn0">Lift-off test</a></td><td>손등을 허리 뒤(요추부)에 댄 상태에서 손을 등에서 뒤쪽으로 떼어내도록 함(능동 lift-off); 가능하면 그 자세에서 검사자가 저항을 추가 [손을 등에서 떼지 못하거나 건측보다 약화]. 통증·강직으로 자세 자체가 불가능하면 belly-press test(손바닥을 배에 대고 팔꿈치를 앞으로 빼며 누름) 또는 bear-hug test로 대체</td><td>RTC 이상 (subscapularis)</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qvwYEoeHPaA">Drop-arm test</a></td><td>팔을 수동으로 외전(약 90° 이상)시킨 후 천천히 능동적으로 내리도록 함 [유지하지 못하고 팔이 갑자기 떨어지거나 현저한 약화]</td><td>RTC tear</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-7">Cross-body test</a></td><td>어깨를 90° 굴곡시킨 뒤 팔을 몸통 앞을 가로질러 수동 수평 내전 [AC joint에 국한된 통증 재현]</td><td>AC joint 관절염</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qKqJRrms4u8">Apprehension test</a></td><td>누워서 어깨 90° 외전, 팔꿈치 90° 굴곡 상태에서 검사자가 어깨를 외회전 시킴 [탈구될 것 같은 apprehension/불안감 재현]</td><td>Anterior GH 불안정</td></tr><tr><td><a href="https://www.youtube.com/watch?v=qKqJRrms4u8">Relocation test</a></td><td>Apprehension test 양성 시, 그 자세에서 상완골 근위부에 후방 압력 [apprehension/불안감 감소 또는 소실]</td><td>Anterior GH 불안정</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-10">Sulcus test</a></td><td>중립 자세에서 검사자가 팔꿈치 또는 손목을 아래로 당김 [acromion 측/하부 함몰; 건측·증상과 비교]</td><td>하방 관절 이완성(inferior laxity); 증상·탈구 병력과 함께 불안정증 판단</td></tr><tr><td><a href="https://www.youtube.com/watch?v=lAqg39HUV7I">Clunk test</a></td><td>누운 자세에서 검사자가 상완골두에 부하를 가하며 팔을 회전·거상 [통증을 동반한 덜컹거림/걸림]</td><td>Labrum 이상 가능; 무통성 소리만으로 양성·파열 판정하지 않음</td></tr><tr><td><a href="https://www.aafp.org/afp/2000/0515/p3079.html#fig-15">Spurling's test</a></td><td>목을 환측으로 신전·회전시키고 조심스럽게 축성 압박 [평소 경험하는 팔 쪽 방사통 재현; 목·어깨의 국소 통증만으로는 양성 판정하지 않음]</td><td>Cervical nerve root 이상</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">이두근 검사 (Biceps Tendon Tests)</mark>
 
@@ -159,7 +165,7 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
   * resorptive phase에서는 국소 발적·열감을 동반한 급격한 통증, 때로 염증표지자 상승까지 보일 수 있어 화농성 관절염과 매우 유사할 수 있음. X선/초음파의 석회 침착 소견은 진단에 도움이 되지만, 그 소견만으로 감염을 배제하지 않음. 발열·전신 증상·고위험 인자의 유무와 무관하게 감염이 임상적으로 의심되면 관절천자 등 추가 평가를 우선함 (☞ Red Flags 참조)
 * 임상 양상 : 특별한 유발 손상 없이 갑자기 시작되는 심한 통증, 야간 통증, 현저한 능동·수동 운동 범위 제한(급성기)
 * 진단 : X선에서 rotator cuff 부착부의 석회 침착 확인(formative/resting phase에서는 균질하게 치밀한 음영, resorptive phase에서는 경계가 흐릿하고 솜털 모양); 증상이 애매한 경우 초음파로 확인 가능
-* 치료 : 급성기에는 금기가 없으면 단기간 진통제·냉찜질, 필요 시 단기간 arm sling으로 통증을 조절하고 가능한 범위에서 운동 재개. 증상이 지속되는 석회성 건병증에서는 주사, 초음파 유도 세척술(barbotage), 체외충격파치료(ESWT) 등을 선별적으로 논의하되, BMJ 2023 위약 대조시험에서 주평가 시점인 4개월의 기능 점수는 세척술+스테로이드 및 위약 세척술+스테로이드 모두 위약 시술보다 우월하지 않았음. JOSPT 2025는 초기 치료에 반응하지 않는 환자에서 세척술·ESWT를 선택적으로 권고하므로, 효과의 불확실성과 대안을 설명하고 결정함. 심한 난치성 통증·기능장애에서 수술적 치료 상담 고려 <mark style="color:$info;">[BMJ 2023; J Orthop Sports Phys Ther 2025]</mark>
+* 치료 : 급성기에는 금기가 없으면 단기간 진통제·냉찜질, 필요 시 단기간 arm sling으로 통증을 조절하고 가능한 범위에서 운동 재개. 증상이 지속되는 석회성 건병증에서는 주사, 초음파 유도 세척술(barbotage), 체외충격파치료(ESWT) 등을 선별적으로 논의하되, BMJ 2023 위약 대조시험에서 주평가 시점인 4개월의 기능 점수는 세척술+스테로이드 및 위약 세척술+스테로이드 모두 위약 시술보다 우월하지 않았으며, 24개월 추적에서도 우월성이 없었음(대상은 증상 ≥3개월인 성인; 급성 흡수기 환자에 그대로 일반화하지 않음). JOSPT 2025는 초기 치료에 반응하지 않는 환자에서 세척술·ESWT를 선택적으로 권고하므로, 효과의 불확실성과 대안을 설명하고 결정함. 심한 난치성 통증·기능장애에서 수술적 치료 상담 고려 <mark style="color:$info;">[BMJ 2023; J Orthop Sports Phys Ther 2025]</mark>
 
 #### <mark style="color:$primary;">이두건병증 (Biceps tendinopathy)</mark>
 
@@ -173,9 +179,10 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 **일반 사항**
 
 * 정의 : GH joint capsule의 진행성 섬유화/구축에 따른 어깨의 통증/강직, 운동 제한 (대한재활의학회 동결견 진료지침, 2025)
+* 지침 적용 범위 : 국내 2025 지침의 주 대상은 성인 원발성 동결견임. 골절·수술 후 등 이차성 강직은 원인 병변·손상 안정성과 재활 계획을 함께 평가
 * 진단은 원칙적으로 병력·신체검사에 기반한 임상 진단이며, 초음파·MRI는 확진이 아닌 보조적 도구로 활용 <mark style="color:$info;">[대한재활의학회 2025]</mark>
 * 기전 : 관절낭과 coracohumeral ligament 등의 염증·섬유화 및 구축 → 관절 용적 감소, 움직임 제한, 경직
-* 유병률 : 2\~5%(당뇨병 환자에서는 10\~20%까지), 50대 중반에서 가장 많음, 약 10%에서 반대편도 이환
+* 유병률 : 2\~5%(당뇨병 환자에서는 10\~20%까지), 50대 중반에서 가장 많음, 반대편 어깨에도 순차적으로 발생할 수 있음
 * 경과 : 자연 호전이 흔하지만 수개월~수년에 걸릴 수 있고 일부에서는 통증·운동 제한이 남음. 비치료 환자 51명의 장기 추적 연구에서는 94%가 정상에 가까운 기능·운동 범위를 회복하였으며 평균 이환 기간은 약 15개월이었으나, 이를 모든 환자의 회복률로 일반화하지 않음 <mark style="color:$info;">[Vastamäki H, et al. Clin Orthop Relat Res 2012; 국내 동결견 진료지침 2025]</mark>
 
 **원인 및 위험 인자**
@@ -263,7 +270,8 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 
 * 국소 압통 등 임상 양상
 * cross-body adduction test 양성 : AC joint 부위 통증 재현
-* X선 검사 : acromioclavicular joint에 OA 소견(AC joint OA)
+* X선 검사 : acromioclavicular joint에 OA 소견(AC joint OA). 외상성 AC 손상에서는 정렬·분리 정도와 동반 골절을 확인
+* 외상성 AC 손상 치료 : 저등급 손상은 단기간 sling·냉찜질·진통 후 점진적 ROM·근력 회복을 우선. 심한 변형·피부 압박, 지속되는 통증·불안정 또는 기능 장애는 정형외과 평가; 수술은 손상 정도·활동 요구·보존적 치료 반응에 따라 개별 결정 <mark style="color:$info;">[AAOS OrthoInfo, Shoulder Separation]</mark>
 
 ***
 
@@ -283,7 +291,27 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 
 * 각 소견은 상호 배타적이지 않으며, 여러 병변이 함께 있을 수 있음.
 
-<p align="center"><strong>어깨 통증 감별 진단 알고리듬</strong></p>
+### <mark style="color:orange;">어깨 통증 평가 알고리듬</mark>
+
+```mermaid
+flowchart TD
+    A["어깨 통증 의심"] --> B{"위험 소견 또는 주요 외상?"}
+    B -->|있음| C["Red Flags에 따라 즉각 또는 당일 평가·의뢰"]
+    B -->|없음| D["능동·수동 ROM, 근력 및 경추·신경 검사"]
+    D --> E{"주된 진찰 양상?"}
+    E -->|능동·수동 ROM 제한| F["동결견·GH OA 감별, 필요 시 X선"]
+    E -->|수동 ROM 보존, 저항 시 통증·약화| G["회전근개 관련 통증 평가, 파열 의심 시 초음파·MRI"]
+    E -->|국소 압통·불안정감·방사통 등| H["AC 관절·이두건·불안정증·경추 등 평가"]
+    F --> I["원인별 치료·운동 및 경과 관찰"]
+    G --> I
+    H --> I
+    I --> J{"4~6주 재평가에서 호전?"}
+    J -->|호전| K["활동·운동 단계적 회복 및 추적"]
+    J -->|호전 없음·악화| L["진단·치료 재검토, 추가 검사·의뢰"]
+```
+
+* 양측 어깨·골반대 통증과 아침 강직은 ROM 분기와 별개로 PMR 등 전신 질환을 평가. 위험 소견은 추적 중에도 재확인함
+* RTC tendinopathy의 적절한 비수술 치료 후 최대 12주 내 호전이 없으면 추가 영상을 고려하며, 심한 지속성 통증·기능장애는 의뢰. 급성 파열·새 위험 소견은 이 기간을 기다리지 않음
 
 <p align="center"><em><mark style="color:$info;">Ref. Burbank KM, et al. Chronic shoulder pain: part I. Evaluation and diagnosis. Am Fam Physician 2008;77(4); Sidhar K, et al. A Simplified Approach to Evaluate and Manage Shoulder Pain. J Am Board Fam Med 2024;37(6):1156-66; J Orthop Sports Phys Ther 2025;55(4):235-274</mark></em></p>
 
@@ -296,7 +324,7 @@ _<mark style="color:$info;">Ref. Woodward TW, et al. The painful shoulder: part 
 * 보존적 치료 : 행동 수정, 물리 치료, 약물 치료, 국소 steroid 주사
 * 회복 기간은 원인에 따라 수주에서 수개월 이상까지 다양하며, 만성 RTC tear·진행성 GH OA 등 일부 질환에서는 잔여 증상이나 기능 제한이 남을 수 있음
 
-<table><thead><tr><th width="170">원인 질환</th><th width="280">초기 선택</th><th>추가 선택</th></tr></thead><tbody><tr><td>AC 관절 골관절염</td><td>교육·활동 조절, 운동 치료, 필요 시 단기 진통제</td><td>지속되는 국소 통증에 AC 관절 주사; 선택적 수술 의뢰</td></tr><tr><td>동결견</td><td>통증 단계에 맞춘 운동·물리 치료; 심한 초기 통증에는 관절강 내 스테로이드 주사 고려</td><td>주사와 물리 치료 병합 또는 스테로이드 병합 관절낭 팽창술 고려; 난치성 기능 장애 시 전문과 의뢰</td></tr><tr><td>GH 불안정증</td><td>급성 골절·탈구 배제 및 처치, 이후 안정화 운동</td><td>재발성 불안정·골성 결손 등에 전문과 의뢰</td></tr><tr><td>GH 골관절염</td><td>교육·활동 조절, 운동 치료, 필요 시 단기 진통제</td><td>증상·기능 장애에 따라 주사 또는 관절치환술 상담; 히알루론산 주사 비권고</td></tr><tr><td>회전근개 관련 통증·부분 파열</td><td>교육·활동 조절, 점진적 운동 치료, 필요 시 단기 진통제</td><td>지속되는 통증에 1회 스테로이드 주사 고려; 의미 있는 근력 저하·난치성 기능 장애 시 의뢰</td></tr></tbody></table>
+<table><thead><tr><th width="170">원인 질환</th><th width="280">초기 선택</th><th>추가 선택</th></tr></thead><tbody><tr><td>AC 관절 골관절염</td><td>교육·활동 조절, 운동 치료, 필요 시 단기 진통제</td><td>지속되는 국소 통증에 AC 관절 주사; 선택적 수술 의뢰</td></tr><tr><td>동결견</td><td>통증 단계에 맞춘 운동·물리 치료; 심한 초기 통증에는 관절강 내 스테로이드 주사 고려</td><td>주사와 물리 치료 병합 또는 스테로이드 병합 관절낭 팽창술 고려; 난치성 기능 장애 시 전문과 의뢰</td></tr><tr><td>GH 불안정증</td><td>급성 골절·탈구 배제 및 처치, 이후 안정화 운동</td><td>재발성 불안정·골성 결손 등에 전문과 의뢰</td></tr><tr><td>GH 골관절염</td><td>교육·활동 조절, 운동 치료, 필요 시 단기 진통제</td><td>단기 진통 목적의 스테로이드 주사는 개별 검토(어깨 OA 특이 근거 제한); 심한 기능 장애는 관절치환술 상담. 히알루론산 주사 비권고</td></tr><tr><td>회전근개 관련 통증·부분 파열</td><td>교육·활동 조절, 점진적 운동 치료, 필요 시 단기 진통제</td><td>지속되는 통증에 1회 스테로이드 주사 고려; 의미 있는 근력 저하·난치성 기능 장애 시 의뢰</td></tr></tbody></table>
 
 _✽약물은 통증 완화를 위한 보조 선택이며 질환별 운동·주사 치료의 위치가 다름. Ref. 대한재활의학회 동결견 진료지침 2025; AAOS 회전근개 지침 2025; J Orthop Sports Phys Ther 회전근개 건병증 지침 2025._
 
@@ -315,7 +343,7 @@ _✽약물은 통증 완화를 위한 보조 선택이며 질환별 운동·주�
 * 온/냉찜질 : 증상·선호에 따라 단기 통증 완화 목적으로 선택; 외상 초기에는 냉찜질을 고려함. 피부와 찜질팩 사이에 천을 대고 한 번에 약 10~20분 적용; 감각 저하·순환 장애에서는 주의하고 화상·동상을 예방
 * 마사지·도수 치료 : 운동 치료를 보완하는 단기 통증 완화 목적으로 선택 가능; 수동적 치료만 반복하기보다 능동적 운동·교육을 함께 시행
 * 동결견에서 관절강 내 corticosteroid 주사와 물리 치료 병합은 통증·기능 개선에 도움이 될 수 있음(국내 동결견 진료지침 2025). 운동의 강도는 통증 단계·기능 제한·환자 선호에 맞추어 조절
-* 운동 치료 : ROM 회복 및 rotator cuff/scapular muscle의 점진적 강화·부하 운동을 증상에 맞추어 시행; 통증 완화 및 기능 개선의 핵심 치료
+* 운동 치료 : ROM 회복 및 rotator cuff/scapular muscle의 점진적 강화·부하 운동을 증상에 맞추어 시행; 통증 완화 및 기능 개선의 핵심 치료. 특정 고부하·편심성 운동이 모든 환자에서 우월한 것은 아니며, 반응에 따라 부하·빈도를 조절
 * 치료용 초음파(therapeutic ultrasound) : RTC 석회성·비석회성 건병증의 통증·기능 개선 목적으로 권고하지 않음 <mark style="color:$info;">[J Orthop Sports Phys Ther 2025]</mark>. 진단용·주사 유도용 초음파와 구분
 * ESWT : 석회성 RTC 건병증에서 선택적으로 고려 가능하나 비석회성 RTC 건병증에는 권고하지 않음 <mark style="color:$info;">[J Orthop Sports Phys Ther 2025]</mark>
 * iontophoresis 등 기타 물리적 modality : 근거가 불충분하며 능동적 운동·교육을 대체하지 않음
@@ -342,6 +370,7 @@ _✽약물은 통증 완화를 위한 보조 선택이며 질환별 운동·주�
   * ✽국내 타이레놀 허가상 소화성궤양, 중증 간·신장·심장기능 장애, 아스피린/NSAID 유발 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제 복용 등은 금기. 복용 중 음주를 피하며, NSAID 금기 환자에게도 자동으로 안전한 대안은 아님 <mark style="color:$info;">[국내 허가사항]</mark>
 * 국소 NSAID 겔/패치 : 전신 노출을 줄이고 싶은 환자에서 피부 상태·제형별 허가사항을 확인한 뒤 시도 가능. 일반 근골격계 통증에서는 경구제보다 전신 부작용이 적지만, 깊은 회전근개 병변에서 경구제와 동등한 효과가 입증된 것은 아님 <mark style="color:$info;">[J Orthop Sports Phys Ther 2025]</mark>
 * tramadol : 다른 진통 요법으로 조절되지 않는 심한 급성 통증에서 예외적으로 단기간 고려; 캡슐은 성인 1회 50 ㎎으로 시작, 허가상 1일 최대 400 ㎎. 고령·신기능/간기능 저하 시 용법을 조정하되 중증 신장애·간장애는 트리돌캡슐 허가상 금기임. 구체적 복용 간격과 1일 한도를 처방전에 명시 <mark style="color:blue;">\[트리돌캡슐50㎎]</mark>
+  * ✽75세 초과에서는 배설 지연으로 투여간격 연장을 고려. 수면무호흡·수면 관련 저산소증의 발생 또는 악화에도 주의 <mark style="color:$info;">[트리돌캡슐 국내 허가사항]</mark>
   * ✽의존·오남용, 경련 및 호흡억제 위험이 있음. 알코올·benzodiazepine·기타 중추신경 억제제 병용 시 진정·호흡억제 위험을 평가하며, 적절한 치료를 받지 않는 뇌전증 및 MAO 억제제 병용/중단 후 14일 이내는 금기. 임부·수유부도 트리돌캡슐 허가상 금기임. 최소 유효 용량·최단 기간 사용 <mark style="color:$info;">[국내 허가사항]</mark>
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
@@ -350,11 +379,12 @@ _✽약물은 통증 완화를 위한 보조 선택이며 질환별 운동·주�
 
 * 대상 : 동결견의 심한 초기 통증에서는 운동 치료와 병행하여 관절강 내 주사를 고려 가능. 회전근개 관련 통증에서는 운동·교육 등 초기 치료 후 통증으로 재활이 어렵거나 증상이 지속될 때 단기 통증·기능 개선을 위해 국소 마취제 병용 1회 주사를 고려 <mark style="color:$info;">[AAOS Clinical Practice Guideline for the Management of Rotator Cuff Injuries, 2025]</mark>
 * subacromial-subdeltoid bursa, glenohumeral joint, AC joint 등 병변 부위에 따라 시행; 필요 시 초음파 유도
-* 감염 의심·주사 부위 피부 감염에서는 시행하지 않으며 무균 술기를 준수함. 건 실질 내 주입은 피함
+* 감염 의심·주사 부위 피부 감염에서는 시행하지 않으며 무균 술기를 준수함. 건 실질 내 주입은 피함. 트리암주는 불안정한 관절강 내 투여도 금기이므로 탈구·불안정증 자체의 치료 목적으로 주사하지 않음
 * 동결견에서 triamcinolone acetonide 관절강 내 주사는 국내 지침에서 다루는 치료이나, 트리암주 허가 효능에 동결견은 명시되지 않아 허가 외 사용에 해당함; 적용 제품의 허가사항·급여기준을 별도 확인
 * 주사 유도법은 대상 병변·시술자의 숙련도·접근성을 고려. 동결견 관절강 내 주사는 초음파 유도의 임상적 우월성이 확립되지 않았지만 정확도는 높을 수 있으며, 회전근개 건병증의 견봉하 주사는 가능한 경우 초음파 유도가 단기 통증 조절에 도움이 될 수 있음 <mark style="color:$info;">[국내 동결견 진료지침 2025; J Orthop Sports Phys Ther 2025]</mark>
+* 용량 : 2025 ASRA 등 다학회 지침은 어깨 관절강 내·견봉하 주사의 초회 용량으로 triamcinolone acetonide 또는 methylprednisolone 환산 20 ㎎ 이하를 권고함. 국내 동결견 지침은 20 대 40 ㎎의 일관된 우열을 확정하지 않고 임상 판단을 권하므로, 40 ㎎을 필수 용량으로 삼지 않고 최소 유효 용량을 선택 <mark style="color:$info;">[Reg Anesth Pain Med 2025; 국내 동결견 지침 2025]</mark>
 * 질환 종류와 병변 부위에 따라 효과 차이가 있으며 장기 효과는 제한적일 수 있음
-* 반복 주사는 가급적 제한하며, 특히 rotator cuff tear가 있거나 수술을 고려하는 환자에서는 반복 corticosteroid injection이 회전근개 조직의 integrity를 저해하고 이후 봉합술 결과에 영향을 줄 수 있어 피하는 것이 바람직함 <mark style="color:$info;">[AAOS 2025]</mark>
+* 반복 주사는 가급적 제한하며, 특히 rotator cuff tear가 있거나 수술을 고려하는 환자에서는 반복 corticosteroid injection이 회전근개 조직과 이후 봉합술에 불리할 가능성이 있어 반복 여부를 신중히 결정(AAOS 권고 강도 제한적). 수술 직전 주사도 피하도록 수술팀과 시점을 협의하며, 이전 주사의 부위·용량·일자를 전달함 <mark style="color:$info;">[AAOS 2025]</mark>
 * AC joint 주사 시 주의 : AC joint는 피하 지방층이 얇은 표재성 부위이므로, 다른 관절강 내 주사보다 피부 위축(fat atrophy) 및 탈색(hypopigmentation) 위험이 상대적으로 높음 - 시술 전 환자에게 설명
 
 ### <mark style="color:orange;">기타, 수술</mark>
@@ -364,6 +394,7 @@ _✽약물은 통증 완화를 위한 보조 선택이며 질환별 운동·주�
 * suprascapular nerve block : 동결견에서 통증 완화 목적으로 고려할 수 있으나 근거 확실성은 매우 낮음. 관절강 내 스테로이드 주사를 대체하는 표준 치료로 일반화하지 않음 <mark style="color:$info;">[국내 동결견 진료지침 2025]</mark>
 * low-level laser therapy : adhesive capsulitis에서 일부 단기 효과가 보고되었으나 근거 제한
 * 보톡스 : 증거 불충분
+* 증식치료(prolotherapy) : 전층 회전근개 파열에 권고하지 않음 <mark style="color:$info;">[AAOS 2025]</mark>
 * PRP(platelet rich plasma) : RTC 건병증·부분 파열·전층 파열의 비수술 치료에서 routine 사용은 지지되지 않음. 봉합술 시 platelet-derived product는 환자 보고 결과 개선 목적으로 권고되지 않으나, liquid PRP의 재파열률 감소에는 제한적 근거가 있음 <mark style="color:$info;">[AAOS 2025]</mark>. 그 외 어깨 질환에서는 근거가 제한적
 * 단순 비외상성 RTC tendinopathy/견봉하 통증에서 견봉하 감압술은 위약 수술 대비 임상적으로 의미 있는 이득이 없어 통상 권고하지 않음. FIMPACT 위약 수술 대조시험의 10년 추적에서도 감압술은 위약 수술보다 통증·기능에서 의미 있는 이득을 보이지 않았음. 이는 급성 외상성 파열 등에 대한 선택적 봉합술과 구분함 <mark style="color:$info;">[J Orthop Sports Phys Ther 2025; BMJ 2025; JAMA Intern Med 2026]</mark>
 * 수술/정형외과 의뢰 : 골절·탈구 및 급성 외상 후 새로 발생한 현저한 근력 저하·전층 회전근개 파열 의심 시 조기 평가. 큰/진행성 파열 또는 적절한 비수술 치료에도 증상이 지속되는 경우에도 고려. 수술 결정은 파열 크기뿐 아니라 외상 여부, 증상·기능, 활동 수준, 근위축·지방변성, 연령·동반질환 등을 종합하여 판단
@@ -372,27 +403,34 @@ _✽약물은 통증 완화를 위한 보조 선택이며 질환별 운동·주�
 
 ### <mark style="color:red;">질병코드</mark>
 
-M19.01 기타 관절의 원발성 관절증, 어깨부분
+<table>
+<thead><tr><th width="110">코드</th><th>공식 한글명</th><th>적용 참고</th></tr></thead>
+<tbody>
+<tr><td>M19.01</td><td>기타 관절의 원발성 관절증, 어깨부분</td><td>원발성 GH·AC 관절증 등; 외상 후·이차성 관절증은 원인별 분류</td></tr>
+<tr><td>M25.51</td><td>관절통, 어깨부분</td><td>원인이 아직 확정되지 않은 어깨 관절통 등</td></tr>
+<tr><td>M75.0</td><td>어깨의 유착성 관절낭염</td><td>—</td></tr>
+<tr><td>M75.1</td><td>회전근개증후군</td><td>외상성으로 명시되지 않은 회전근개 파열 포함; 외상성 근육·힘줄 손상은 S46.0 하위코드와 구분</td></tr>
+<tr><td>M75.2</td><td>이두근 힘줄염</td><td>—</td></tr>
+<tr><td>M75.3</td><td>어깨의 석회성 힘줄염</td><td>—</td></tr>
+<tr><td>M75.4</td><td>어깨의 충격증후군</td><td>임상 용어의 충돌증후군에 대응하는 KCD-9 공식 명칭</td></tr>
+<tr><td>M75.5</td><td>어깨의 윤활낭염</td><td>—</td></tr>
+<tr><td>M75.9</td><td>상세불명의 어깨병변</td><td>—</td></tr>
+<tr><td>M24.41</td><td>관절의 재발성 탈구 및 불완전탈구, 어깨부분</td><td>재발성 탈구·불완전탈구에 해당할 때 적용; 급성 외상성 탈구와 구분</td></tr>
+<tr><td>S43.00</td><td>상완골의 전탈구</td><td>—</td></tr>
+<tr><td>S43.01</td><td>상완골의 후탈구</td><td>—</td></tr>
+<tr><td>S43.02</td><td>상완골의 하탈구</td><td>—</td></tr>
+<tr><td>S43.08</td><td>어깨의 기타 부분 탈구</td><td>—</td></tr>
+<tr><td>S43.09</td><td>어깨의 상세불명 탈구</td><td>상세 부위·방향을 확정하지 못한 경우; 확인된 방향에 맞는 코드를 우선</td></tr>
+<tr><td>S43.1</td><td>견쇄관절의 탈구</td><td>—</td></tr>
+<tr><td>S43.4</td><td>어깨관절의 염좌 및 긴장</td><td>회전근개 근육·힘줄 손상과 구분</td></tr>
+<tr><td>S43.5</td><td>견쇄관절의 염좌 및 긴장</td><td>—</td></tr>
+<tr><td>S46.00</td><td>어깨의 회전근개의 근육 및 힘줄의 손상, 열상</td><td>열상에 해당하는 손상</td></tr>
+<tr><td>S46.08</td><td>어깨의 회전근개의 근육 및 힘줄의 손상, 기타 및 상세불명의 손상</td><td>외상성 손상의 성격에 맞추어 적용</td></tr>
+</tbody></table>
 
-M25.51 관절통, 어깨부분
-
-M75.0 어깨의 유착성 관절낭염
-
-M75.1 회전근개 증후군
-
-M75.3 어깨의 석회성 건염
-
-M75.4 어깨의 충돌증후군
-
-M75.9 어깨병변, 상세불명
-
-S43.0 어깨관절의 탈구
-
-S43.1 견봉쇄골관절의 탈구
-
-S43.4 어깨관절의 염좌 및 긴장
-
-* 외상성 회전근개 손상은 M75.1로 일괄 분류하지 않고 손상 분류(S46.0 계열)의 해당 세분류 적용 여부를 확인함
+* 저장된 KCD9_251216(6).xlsx의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」 시트와 대조함. 위 표는 완전코드로 제시
+* S43.0(어깨관절의 탈구), S46.0(어깨의 회전근개의 근육 및 힘줄의 손상)은 불완전코드이므로 그대로 청구코드로 사용하지 않고 해당 하위 완전코드를 선택
+* M75.1만으로 모든 회전근개 손상을 포괄하지 않으며, 외상 여부와 실제 손상 조직·유형을 기록하여 분류함. M75.9는 구체적인 진단이 가능한 경우 대신 사용하지 않음
 
 ***
 
@@ -425,11 +463,11 @@ S43.4 어깨관절의 염좌 및 긴장
 > **처방례 4. 유착 관절낭염의 초기 심한 통증과 기능 제한**
 >
 > ```
-> 트리암주 (triamcinolone acetonide 40 ㎎/㎖)  1 ㎖ 관절강 내 주사 (1회, 필요 시 초음파 유도)
+> 트리암주 (triamcinolone acetonide 40 ㎎/㎖)  0.5 ㎖ (20 ㎎) 관절강 내 주사 (1회, 필요 시 초음파 유도)
 > 동결견 치료 목적: 허가 외 사용 (트리암주 허가사항 기준)
 > ```
 >
-> _✽40 ㎎은 사용 가능한 예시이며 20~40 ㎎ 범위의 선택은 증상·부작용 위험과 제품별 허가사항에 따라 개별 판단. 40 ㎎ 또는 초음파 유도를 모든 환자의 필수 조건으로 삼지 않음. 단기 통증·기능 개선 목적으로 운동 치료와 병행하고 반복 주사는 제한. 제품별 효능·급여기준도 확인. 감염을 배제하며 당뇨 환자에게 일시적 혈당 상승을 설명_
+> _✽2025 다학회 지침의 초회 저용량 권고를 반영한 예시. 국내 동결견 지침에서는 20~40 ㎎의 선택을 임상 판단에 맡기므로 40 ㎎을 오류·금기로 보지는 않음. 초음파 유도 여부도 개별 판단. 허가 외 사용을 설명하고 운동 치료와 병행하며 반복 주사는 제한. 감염·불안정 관절 금기를 확인하고 당뇨 환자에게 일시적 혈당 상승을 설명_
 
 ***
 
@@ -438,16 +476,23 @@ S43.4 어깨관절의 염좌 및 긴장
 > **NSAID 복용 시 주의 사항**
 >
 > * 위장 불편을 줄이기 위해 가능하면 음식과 함께 복용하도록 안내; 위장관 출혈 위험은 식사 여부와 별개로 환자 위험인자에 따라 평가
-> * 부루펜은 국내 허가상 위장관 궤양·출혈 및 그 병력, 기관지천식 및 그 병력, 아스피린/NSAID 과민반응 병력, 중증 신·간·심장기능 장애 등에서 금기. PPI 병용으로 금기를 해소할 수 없음
+> * 부루펜은 국내 허가상 위장관 궤양·출혈 및 그 병력, 기관지천식 및 그 병력, 아스피린/NSAID 과민반응 병력, 중증 신·간·심장기능 장애, 심한 고혈압 등에서 금기. PPI 병용으로 금기를 해소할 수 없음
 > * 65세 이상, 항응고·항혈소판제 병용 등은 위장관 출혈 위험을 추가 평가하고, 해당 약제의 금기가 없는 경우에 한해 필요 시 PPI 병용 고려. 저용량 아스피린 복용자는 이부프로펜의 항혈소판 효과 간섭도 고려하여 진통제를 선택
 > * 신기능 저하·탈수, 이뇨제와 ACE 억제제/ARB 병용에서는 급성 콩팥손상 위험 설명; 필요한 경우 크레아티닌·칼륨 확인
 > * 다른 경구 NSAID와 중복 복용하지 않음. 임신 20주 이후는 태아 신기능·양수에 대한 위험 때문에 가급적 피하며 필요한 경우 의료진이 개별 판단; 부루펜은 임신 말기 3개월 금기
 > * 최소 유효 용량·최단 기간 사용하고, 수일 이상 복용이 필요하거나 통증이 악화되면 원인과 부작용을 재평가
 
+> **Acetaminophen 복용 시 주의 사항**
+>
+> * 650 ㎎ 서방정은 최소 8시간 간격으로 복용하고 24시간 최대 6정(3,900 ㎎); 씹거나 으깨지 않고 그대로 삼킴
+> * 감기약·복합진통제에 포함된 같은 성분과 중복 복용하지 않으며 음주를 피함. 간질환·저체중·고령 등에서는 감량 여부를 처방자와 확인
+> * 과량 복용하면 증상이 없어도 즉시 응급 평가; 해독 치료가 필요할 수 있으므로 증상이 나타날 때까지 기다리지 않음
+
 > **Tramadol 처방 시 주의 사항**
 >
 > * 졸림·어지럼·낙상 위험 - 영향이 있는 동안 운전·기계 조작을 피함; 알코올·수면제·진정제 병용 시 호흡억제 위험
 > * SSRI, SNRI, TCA, triptan 등과 병용 시 세로토닌 증후군 위험 - 병용 약물 확인 필요
+> * 75세 초과에서는 투여간격 연장을 검토하고, 기존 수면무호흡 악화·지나친 졸림·느리거나 얕은 호흡이 생기면 즉시 평가
 > * 필요 최소 용량으로 가능한 짧게 사용; 의존·오남용 가능성이 있어 수일 이상 지속적으로 필요한 경우 원인 재평가 및 치료 방침 재검토
 
 > **관절강 내 steroid 주사 관련 안내**
@@ -466,6 +511,35 @@ S43.4 어깨관절의 염좌 및 긴장
 > * 갑자기 발생한 어깨·팔 통증에 가슴 불편감, 식은땀, 오심 또는 호흡곤란이 동반되는 경우 - 흉통이 없어도 즉시 응급실 방문
 > * 양측 어깨 통증·강직과 함께 새로운 두통·씹을 때 턱 통증이 생기면 당일 평가; 시력 저하·일과성 시력 소실·복시가 생기면 즉시 응급 평가
 > * 약물 복용 후 흑색변·혈변, 심한 위통, 피부 발진·두드러기·호흡곤란 등 알레르기 반응이 나타나는 경우 - 즉시 복용 중단 후 내원
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Sidhar K, et al. A Simplified Approach to Evaluate and Manage Shoulder Pain. J Am Board Fam Med. 2024;37(6):1156-1166. [doi:10.3122/jabfm.2024.240114R2](https://doi.org/10.3122/jabfm.2024.240114R2)
+* Lee BC, et al. Clinical Practice Guidelines for Diagnosis and Non-Surgical Treatment of Primary Frozen Shoulder. Ann Rehabil Med. 2025;49(3):113-138. [doi:10.5535/arm.250057](https://doi.org/10.5535/arm.250057)
+* Desmeules F, et al. Rotator Cuff Tendinopathy Diagnosis, Nonsurgical Medical Care, and Rehabilitation: A Clinical Practice Guideline. J Orthop Sports Phys Ther. 2025;55(4):235-274. [doi:10.2519/jospt.2025.13182](https://doi.org/10.2519/jospt.2025.13182)
+* AAOS. [Management of Rotator Cuff Injuries Evidence-Based Clinical Practice Guideline](https://www.aaos.org/globalassets/quality-and-practice-resources/rotator-cuff/rotator-cuff-2025/rotator-cuff-cpg.pdf). 2025-08-18.
+* AAOS. Management of Glenohumeral Joint Osteoarthritis Evidence-Based Clinical Practice Guideline. 2020.
+* Benzon HT, et al. Use and safety of corticosteroid injections in joints and musculoskeletal soft tissue: guidelines from ASRA Pain Medicine and collaborating societies. Reg Anesth Pain Med. 2025. [doi:10.1136/rapm-2024-105656](https://doi.org/10.1136/rapm-2024-105656)
+* AAOS OrthoInfo. [Shoulder Separation](https://www.orthoinfo.org/diseases--conditions/shoulder-separation/).
+* ACR. ACR Appropriateness Criteria® Chronic Shoulder Pain: 2022 Update; Acute Shoulder Pain: 2024 Update.
+* Haas R, Ibounig T, Buchbinder R. Management of Shoulder Pain in Primary Care: A Review. JAMA Intern Med. 2026;186(10):1256-1268. Published online 2026-08-17. [doi:10.1001/jamainternmed.2026.3135](https://doi.org/10.1001/jamainternmed.2026.3135)
+* Moosmayer S, et al. Ultrasound guided lavage with corticosteroid injection versus sham lavage with and without corticosteroid injection for calcific tendinopathy of shoulder: randomised double blinded multi-arm study. BMJ. 2023;383:e076447. [doi:10.1136/bmj-2023-076447](https://doi.org/10.1136/bmj-2023-076447)
+* Uhthoff HK, Loehr JW. Calcific Tendinopathy of the Rotator Cuff: Pathogenesis, Diagnosis, and Management. J Am Acad Orthop Surg. 1997;5(4):183-191. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10797220/)
+* Vastamäki H, et al. The Natural History of Idiopathic Frozen Shoulder: A 2- to 27-year Followup Study. Clin Orthop Relat Res. 2012;470(4):1133-1143. [doi:10.1007/s11999-011-2176-4](https://doi.org/10.1007/s11999-011-2176-4)
+* Sher JS, et al. Abnormal findings on magnetic resonance images of asymptomatic shoulders. J Bone Joint Surg Am. 1995;77(1):10-15. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7822341/)
+* Kanto K, et al. Arthroscopic subacromial decompression versus placebo surgery for subacromial pain syndrome: 10 year follow-up of the FIMPACT randomised, placebo surgery controlled trial. BMJ. 2025;391:e086201. [doi:10.1136/bmj-2025-086201](https://doi.org/10.1136/bmj-2025-086201)
+* Ravn C, et al. Guideline for management of septic arthritis in native joints (SANJO). J Bone Jt Infect. 2023;8:29-37. [doi:10.5194/jbji-8-29-2023](https://doi.org/10.5194/jbji-8-29-2023)
+* AAOS OrthoInfo. [Frozen Shoulder](https://www.orthoinfo.org/diseases--conditions/frozen-shoulder/).
+* NIAMS. [Polymyalgia Rheumatica and Giant Cell Arteritis](https://www.niams.nih.gov/health-topics/polymyalgia-rheumatica-giant-cell-arteritis).
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 부루펜정400㎎, 낙센정250㎎, 타이레놀8시간이알서방정, 트리돌캡슐50㎎, 트리암주의 국내 품목정보·허가 용법·금기 확인 자료. 동결견의 triamcinolone 관절강 내 주사는 트리암주 기준 허가 외 사용으로 구분함.
+* KCD-9 상병분류기호 엑셀(사용자 제공): 저장된 KCD9_251216(6).xlsx의 전체·완전코드 시트 대조(2026-10-29).
 
 ***
 
@@ -493,6 +567,7 @@ S43.4 어깨관절의 염좌 및 긴장
 ### <mark style="color:$primary;">약은 어떻게 복용하나요?</mark>
 
 * 소염진통제(NSAID)는 위장 불편을 줄이기 위해 음식과 함께 복용할 수 있으며, 타이레놀(acetaminophen)은 식사와 관계없이 복용할 수 있습니다. 정해진 용량과 기간을 지켜주십시오.
+* 타이레놀을 복용할 때는 감기약·다른 진통제에 같은 성분이 들어 있는지 확인하고 술을 피하십시오. 서방정은 씹거나 으깨지 말고 삼키십시오. 정해진 양을 넘겨 복용했다면 증상이 없어도 즉시 진료받으십시오.
 * 관절 내 주사 후 1\~2일간 통증이 일시적으로 심해질 수 있습니다. 열이 나거나 통증·붓기가 지속적으로 악화되면 즉시 진료받으십시오.
 
 ### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
@@ -505,29 +580,3 @@ S43.4 어깨관절의 염좌 및 긴장
 **재평가를 예약하세요**
 
 * 적절히 관리했는데도 4\~6주가 지나도록 통증이 나아지지 않거나 기능이 떨어지는 경우
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Sidhar K, et al. A Simplified Approach to Evaluate and Manage Shoulder Pain. J Am Board Fam Med. 2024;37(6):1156-1166. [doi:10.3122/jabfm.2024.240114R2](https://doi.org/10.3122/jabfm.2024.240114R2)
-* Lee BC, et al. Clinical Practice Guidelines for Diagnosis and Non-Surgical Treatment of Primary Frozen Shoulder. Ann Rehabil Med. 2025;49(3):113-138. [doi:10.5535/arm.250057](https://doi.org/10.5535/arm.250057)
-* Desmeules F, et al. Rotator Cuff Tendinopathy Diagnosis, Nonsurgical Medical Care, and Rehabilitation: A Clinical Practice Guideline. J Orthop Sports Phys Ther. 2025;55(4):235-274. [doi:10.2519/jospt.2025.13182](https://doi.org/10.2519/jospt.2025.13182)
-* AAOS. [Management of Rotator Cuff Injuries Evidence-Based Clinical Practice Guideline](https://www.aaos.org/globalassets/quality-and-practice-resources/rotator-cuff/rotator-cuff-2025/rotator-cuff-cpg.pdf). 2025-08-18.
-* AAOS. Management of Glenohumeral Joint Osteoarthritis Evidence-Based Clinical Practice Guideline. 2020.
-* ACR. ACR Appropriateness Criteria® Chronic Shoulder Pain: 2022 Update; Acute Shoulder Pain: 2024 Update.
-* Haas R, Ibounig T, Buchbinder R. Management of Shoulder Pain in Primary Care: A Review. JAMA Intern Med. 2026;186(10):1256-1268. Published online 2026-08-17. [doi:10.1001/jamainternmed.2026.3135](https://doi.org/10.1001/jamainternmed.2026.3135)
-* Moosmayer S, et al. Ultrasound guided lavage with corticosteroid injection versus sham lavage with and without corticosteroid injection for calcific tendinopathy of shoulder: randomised double blinded multi-arm study. BMJ. 2023;383:e076447. [doi:10.1136/bmj-2023-076447](https://doi.org/10.1136/bmj-2023-076447)
-* Uhthoff HK, Loehr JW. Calcific Tendinopathy of the Rotator Cuff: Pathogenesis, Diagnosis, and Management. J Am Acad Orthop Surg. 1997;5(4):183-191. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10797220/)
-* Sher JS, et al. Abnormal findings on magnetic resonance images of asymptomatic shoulders. J Bone Joint Surg Am. 1995;77(1):10-15. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7822341/)
-* Kanto K, et al. Arthroscopic subacromial decompression versus placebo surgery for subacromial pain syndrome: 10 year follow-up of the FIMPACT randomised, placebo surgery controlled trial. BMJ. 2025;391:e086201. [doi:10.1136/bmj-2025-086201](https://doi.org/10.1136/bmj-2025-086201)
-* Ravn C, et al. Guideline for management of septic arthritis in native joints (SANJO). J Bone Jt Infect. 2023;8:29-37. [doi:10.5194/jbji-8-29-2023](https://doi.org/10.5194/jbji-8-29-2023)
-* AAOS OrthoInfo. [Frozen Shoulder](https://www.orthoinfo.org/diseases--conditions/frozen-shoulder/).
-* NIAMS. [Polymyalgia Rheumatica and Giant Cell Arteritis](https://www.niams.nih.gov/health-topics/polymyalgia-rheumatica-giant-cell-arteritis).
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 부루펜정400㎎, 낙센정250㎎, 타이레놀8시간이알서방정, 트리돌캡슐50㎎, 트리암주의 국내 품목정보·허가 용법·금기 확인 자료. 동결견의 triamcinolone 관절강 내 주사는 트리암주 기준 허가 외 사용으로 구분함.

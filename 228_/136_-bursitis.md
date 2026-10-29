@@ -24,7 +24,7 @@
 
 * 주로 표재성 윤활낭(팔꿈치, 무릎)에서 발생; 대부분 피부 손상(찰과상, 자상, 곤충 물림)을 통한 직접 침투
 * 드물게 혈행성 파종(면역저하자, 균혈증 동반 시)
-* 원인균 : *Staphylococcus aureus*가 약 80% 이상으로 가장 흔함; 그 외 *Streptococcus* spp.
+* 원인균 : *Staphylococcus aureus*가 가장 흔함(표재성 감염성 윤활낭염의 기존 보고에서 약 80\~85%); 그 외 *Streptococcus* spp. 등. 비율은 대상군·지역에 따라 달라 수술 환자군 등에 동일하게 적용하지 않음
 
 #### <mark style="color:$primary;">만성</mark>
 
@@ -50,42 +50,46 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 급성 윤활낭염에 저혈압·의식 변화·호흡곤란 등 전신 상태 악화가 동반 → 패혈증/중증 전신 감염 의심 → 응급 평가
-* 수동 관절운동범위까지 심하게 제한 → 인접 관절강의 화농성 관절염 의심 → 응급 의뢰
-* 빠르게 진행하는 발적·종창에 외관에 비해 심한 통증, 수포·피부 괴사 또는 피부 아래 염발음 동반 → 괴사성 연부조직 감염 의심 → 즉각 응급 이송
+* 급성 국소 종창에 저혈압·의식 변화·호흡곤란 등 전신 상태 악화 동반  `패혈증`  `중증 전신 감염`
+* 급성 심한 관절통에 수동 관절운동 시 심한 통증·현저한 운동 제한 동반  `화농성 관절염`
+* 빠르게 진행하는 발적·종창에 외관에 비해 심한 통증, 수포·피부 괴사 또는 피부 아래 염발음 동반  `괴사성 연부조직 감염`
+* 갑자기 발생한 한쪽 하퇴 통증·부종에 호흡곤란·흉통·실신 동반  `폐색전증`
 
-<mark style="color:$warning;">**당일 평가**</mark>
+<mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 발적·국소 열감·압통이 뚜렷한 급성 표재성 윤활낭염(파동감이 뚜렷하지 않아도 감염 가능) → septic bursitis 의심, 당일 평가 및 항생제 치료; 가능하면 항생제 투여 전 안전한 경로로 낭액을 흡인하여 Gram stain·배양(흡인이 지연되거나 안전하지 않으면 치료를 지연하지 않고 경험적 항생제 개시)
-* 발열·오한을 동반한 급성 윤활낭염(전신 상태가 안정적이어도 당일 평가; 입원·정맥 항생제 필요성 판단)
-* 당뇨병, 만성 스테로이드 복용, 이식 후 등 감염 위험이 높은 환자의 급성 윤활낭염; 특히 면역저하자에서 감염이 의심되면 입원·정맥 항생제 치료를 적극 고려
-* 개방창·최근 관통상 부위 인접부의 급성 윤활낭염(감염 경로 의심)
-* 갑자기 발생한 한쪽 하퇴 통증·부종 → Baker 낭종 파열과 심부정맥혈전증(DVT) 감별을 위한 당일 평가; 호흡곤란·흉통·실신 동반 시 응급 평가
+* **(당일)** 발적·국소 열감·압통이 뚜렷한 급성 표재성 종창(발열·파동감이 없을 수도 있음)  `감염성 윤활낭염`
+* **(당일)** 발열·오한을 동반한 급성 윤활낭염  `감염성 윤활낭염`  `심재성 감염`
+* **(당일)** 당뇨병·면역억제 치료·장기이식 등 감염 위험 요인이 있는 환자의 급성 윤활낭염  `감염성 윤활낭염`
+* **(당일)** 개방창·최근 관통상에 인접한 급성 윤활낭염  `감염성 윤활낭염`  `잔류 이물`
+* **(당일)** 갑자기 발생한 한쪽 하퇴 통증·부종  `심부정맥혈전증`  `베이커낭종 파열`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 유발 요인 회피 및 보존적 치료 2\~4주 후에도 호전 없는 만성/재발성 윤활낭염
-* 반복 재발로 수술적 절제(bursectomy)를 고려해야 하는 경우 → 정형외과 의뢰
-* 기저 RA, 통풍 등 전신 질환이 의심되나 확진되지 않은 경우 → 류마티스내과 협진 고려
+* 유발 요인 회피 및 보존적 치료 2\~4주 후에도 호전 없는 만성·재발성 종창/통증  `지속성 윤활낭염`  `건·관절 병변`
+* 원인 불명으로 크기가 계속 증가하는 종괴 또는 윤활낭의 위치·형태에 맞지 않는 비전형적 종창  `연부조직 종양`
+* 반복 재발 또는 지속적인 일상 기능 제한  `만성 윤활낭염`  `수술 필요성 평가`
+* 다관절 증상·통풍결절 등 기저 염증성 질환의 단서 동반  `류마티스관절염`  `통풍`
 
 ***
 
 ## <mark style="color:green;">진단</mark>
 
 * 병력 : 최근 직업·운동 종목 변경, 반복 압박 동작, 외상·관통상 병력, 통풍·RA 등 기저 질환 여부
-* 진찰 : 부종의 국한 범위, 발적·열감, **능동/수동 운동범위 비교**(☞ 감별의 핵심 단서 참조)
+* 진찰 : 부종의 국한 범위, 발적·열감, 피부 상처·배액, **능동/수동 운동범위 비교**(☞ 감별의 핵심 단서 참조); 활력징후·전신 상태와 인접 관절·건·신경혈관 상태도 확인함
 * 영상/실험실 검사 : 전형적인 경증 비감염성 병변은 대개 임상 진단함. 감염·결정성 질환이 의심되거나 진단이 애매하고 다른 질환 감별이 필요하면 검사함
   * 초음파 : 낭액 저류·벽 비후 확인, 봉와직염·관절 삼출·건 병변과의 감별, 흡인 시 위치 안내에 유용; 초음파 소견만으로 감염 여부를 확정하지 않음
   * 단순 방사선(X-ray) : 외상·이물 의심, 만성/재발성 병변에서 석회화·골 이상 확인
   * MRI : 심재성 병변에서 진단이 불명확하거나 보존치료에 반응하지 않는 경우, 인접 골수염·농양 의심 시 선택적으로 고려; 심재성이라는 이유만으로 일률적으로 시행하지 않음
 * 국소 needle aspiration : **감염 또는 결정성 질환이 의심되면 진단 목적의 흡인을 우선 고려**; 가능하면 항생제 투여 전 무균적으로 시행하고 낭액의 WBC·분획, crystal, Gram stain·배양 검사함. 비감염성·비염증성 만성 표재성 종창에서 일률적인 흡인은 의인성 감염 위험 때문에 피함
-  * 흡인은 초음파 유도하에 시행하면 정확도와 안전성이 높아짐
+  * 심재성·작은 윤활낭이나 위치가 불명확한 경우 초음파 유도가 유용함; 표재성으로 위치가 명확한 모든 병변에 필수인 것은 아님
+  * 낭액은 일반 배양과 함께 검사실 지침에 따라 혈액배양병 접종을 고려하면 균 검출에 도움이 될 수 있음 <mark style="color:$info;">[1]</mark>
   * ✽비감염성 윤활낭염이 의심되더라도 덮고 있는 피부에 봉와직염(cellulitis)이 있는 경우 그 부위를 관통하는 천자는 가급적 피하고, 가능하면 감염되지 않은 피부를 통한 경로를 선택; 안전한 흡인 경로가 없더라도 감염 치료를 지연하지 않음
   * ✽낭액 WBC는 감염성·비감염성 병변 간 중복이 커서 보편적으로 확정된 cutoff가 없음. 작은 비교연구에서 ＞2,000/µL가 감염을 지지했으나, 낮은 수치도 감염을 배제하지 못함. **임상 소견·호중구 비율·Gram stain·배양을 종합 판단**하며, Gram stain 음성 또는 결정 양성만으로 동반 감염을 배제하지 않음 <mark style="color:$info;">[1]</mark>
   * ✽전신 상태가 안정적이고 면역기능이 보존되며 조기 재진이 확실한 일부 **주두(olecranon) 윤활낭염** 의심 환자에서는 흡인 없이 경험적 항생제로 치료한 관찰연구가 있음. 슬개골 앞·심재성 병변이나 모든 감염성 윤활낭염에 일반화하지 않으며, 진단 불확실·면역저하·중증·재발·치료 실패 시 낭액 배양과 전문 평가의 필요성이 커짐 <mark style="color:$info;">[2]</mark>
   * ✽외상 후 출혈성 낭액 저류가 크고 일상생활을 방해하면 골절 등을 배제한 뒤 감압 목적의 흡인을 선택적으로 고려함
-* 혈액검사 : septic bursitis 의심 시 CBC, CRP/ESR 고려; 중증·면역저하 환자에서는 blood culture 고려
+* 혈액검사 : septic bursitis 의심 시 CBC, CRP/ESR 고려; 발열·전신 감염 소견·면역저하 또는 중증 환자에서는 가능하면 항생제 투여 전 혈액배양을 고려하되 치료를 지연하지 않음
   * ✽정상 WBC·CRP가 초기 감염을 배제하지 않음 - 검사 정상이라도 임상 소견이 뚜렷하면 감염으로 접근
+* 계속 커지는 원인 불명의 종괴는 단순 윤활낭염으로 추정하여 관찰만 하지 않고 조기 초음파·전문 평가를 시행함; 초음파가 불명확해도 임상 의심이 지속되면 추가 평가함 <mark style="color:$info;">[12]</mark>
 
 #### Shoulder bursitis, Subacromial bursitis
 
@@ -154,6 +158,7 @@
 
 * 증상 : 무릎 내측 관절선 아래 약 5\~7 ㎝ 부위의 통증·압통; 서서히 발생하는 경우가 흔하며 계단 오르내리기, 운동, 의자에서 일어날 때 악화(야간통을 동반할 수도 있음)
 * 관련/위험 인자 : 무릎 골관절염, 비만, genu valgum
+* ✽거위발 부위 통증은 건·부착부 병변과 윤활낭 병변이 겹치는 임상 증후군임. 압통만으로 실제 윤활낭염을 확정하지 않으며 내측 구획 골관절염·반월판/MCL 병변을 감별함; 주사 등 침습적 치료를 고려하거나 진단이 불명확하면 초음파 등으로 표적 병변을 확인함 <mark style="color:$info;">[11]</mark>
 
 #### Retrocalcaneal bursitis
 
@@ -172,20 +177,20 @@
 
 ```mermaid
 graph TD
-    A(["관절 주변 국소 부종·통증"]) ---> R{"즉각 조치 Red Flags?"}
-    R --->|Yes| D["패혈증·화농성 관절염·괴사성 감염 등 평가\n응급 의뢰"]
+    A(["윤활낭염 의심\n관절 주변 국소 부종·통증"]) ---> R{"즉각 조치 Red Flags?"}
+    R --->|Yes| D(["패혈증·화농성 관절염·괴사성 감염 등 평가\n응급 의뢰"])
     R --->|No| B{"감염 의심?\n열감·홍반·압통, 상처, 발열·오한\n면역저하 및 임상 경과 종합"}
     B --->|Yes| E["당일 평가\n안전하면 항생제 전 낭액 배양\n치료 지연 없이 경험적 항생제"]
     E ---> F{"전신 증상·면역저하·광범위 감염\n또는 외래 추적 곤란?"}
-    F --->|Yes| G["입원·정맥 항생제 필요성 판단\n전문과 협진"]
+    F --->|Yes| G(["입원·정맥 항생제 필요성 판단\n전문과 협진"])
     F --->|No| H["외래 치료\n24~48시간 내 재평가\n악화 시 즉시 평가"]
     H ---> K{"치료 반응·배양 결과"}
-    K --->|호전| L["결과에 맞게 약제·기간 조정"]
+    K --->|호전| L(["결과에 맞게 약제·기간 조정"])
     K --->|악화 또는 무반응| G
     B --->|No| I{"외상·반복 압박·과사용\n또는 결정성·염증성 질환 단서?"}
-    I --->|외상 또는 과사용| J["유발요인 회피·보호·운동치료\n필요시 단기 진통소염제"]
-    I --->|결정성 또는 염증성| M["필요시 낭액 결정·배양 검사\n통풍·CPPD·류마티스질환 치료"]
-    I --->|단서 불명 또는 지속 증상| N["건·관절 병변 및 종괴 등 재평가\n선택적 영상검사·의뢰"]
+    I --->|외상 또는 과사용| J(["유발요인 회피·보호·운동치료\n필요시 단기 진통소염제"])
+    I --->|결정성 또는 염증성| M(["필요시 낭액 결정·배양 검사\n통풍·CPPD·류마티스질환 치료"])
+    I --->|단서 불명 또는 지속 증상| N(["건·관절 병변 및 종괴 등 재평가\n선택적 영상검사·의뢰"])
     style D fill:#ffcdd2,stroke:#c62828,stroke-width:2px
     style G fill:#fff3e0,stroke:#e65100,stroke-width:2px
     style H fill:#e1f5fe,stroke:#01579b,stroke-width:2px
@@ -194,7 +199,7 @@ graph TD
 
 <p align="center"><strong>윤활낭염 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: Baumbach SF et al. Arch Orthop Trauma Surg. 2014;134:359–370; Beyde A et al. Acad Emerg Med. 2022;29:6–14)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 재구성(참고 문헌: Baumbach SF et al. Arch Orthop Trauma Surg. 2014;134:359–370; Beyde A et al. Acad Emerg Med. 2022;29:6–14; Darrieutort-Laffite C et al. Joint Bone Spine. 2024;91:105664)</mark></em></p>
 
 ***
 
@@ -207,7 +212,7 @@ graph TD
 * 필요시 bursa aspiration(특히 감염 의심 시); 스테로이드 주사는 감염 배제 후 선택적으로 고려(비감염성 표재성 윤활낭염에는 통상 권장하지 않음)
 * 기저 감염, 기저 질환(RA, 통풍 등) 치료
 * 가능한 한 적당한 활동 유지(근 위축 및 관절 구축 예방), 운동 범위 유지
-* 경과 : 미세손상성·급성 외상성 비감염성 병변은 보존치료로 호전되는 경우가 많음; 결정성·류마티스질환 관련 병변은 기저 질환 치료가 필요하며, 만성 병변·GTPS는 회복에 수주~수개월이 걸릴 수 있음
+* 경과 : 미세손상성·급성 외상성 비감염성 병변은 보존치료로 호전되는 경우가 많음; 결정성·류마티스질환 관련 병변은 기저 질환 치료가 필요하며, 만성 병변·GTPS는 회복에 수주\~수개월이 걸릴 수 있음
 
 ***
 
@@ -232,15 +237,16 @@ graph TD
 * 경증 비감염성 표재성 병변에서는 국소 NSAID를 우선 고려할 수 있음; 심재성 병변의 통증 조절 효과는 제한될 수 있음 : ketoprofen <mark style="color:blue;">\[케토톱 플라스타/겔]</mark>, piroxicam <mark style="color:blue;">\[트라스트 패취/겔]</mark>
   * 상처·피부감염·습진 부위에 사용하지 않으며, 발진·접촉피부염 발생 시 중단함
   * ketoprofen : 사용 중 및 중단 후 2주 동안 도포·부착 부위를 옷 등으로 가려 햇빛·자외선 노출을 피함(광과민/광알레르기 위험) <mark style="color:$info;">[5]</mark>
-  * 트라스트 패취 : 기본 용법은 2일마다 1매; 목욕·샤워 후 또는 땀이 날 경우 1일 1매 사용 가능. 14세 이하·임신 3기·수유부에 사용하지 않음 <mark style="color:$info;">[국내 허가사항]</mark>
+  * 트라스트 패취 : 기본 용법은 2일마다 1매; 목욕·샤워 후 또는 땀이 날 경우 1일 1매 사용 가능. 14세 이하·임신 3기·수유부에 사용하지 않으며, 임신 1\~2기에도 안전성이 확립되지 않아 임의 사용을 피함. 아스피린/NSAID 유발 천식·두드러기·비염·혈관부종 병력에서도 금기이며 밀봉붕대법으로 사용하지 않음 <mark style="color:$info;">[국내 허가사항]</mark>
 * ✽capsaicin 크림<mark style="color:blue;">\[다이악센]</mark>은 국내 허가 효능이 당뇨병성 신경증·대상포진 후 신경통·RA/골관절염 수반 통증이며 윤활낭염은 명시된 적응증이 아니므로 1차로 권하지 않음
 
 ### <mark style="color:orange;">전신</mark>
 
 * ibuprofen 200\~400 ㎎ tid부터 반응에 따라 조절; 국내 허가 기본 용법은 1회 200\~600 ㎎, 1일 3\~4회(허가상 1일 최고 3,200 ㎎). 최소 유효 용량을 단기간 사용하고 2,400 ㎎/일 이상의 고용량은 심혈관 위험에 특히 유의함. 국내 부루펜 허가사항상 기관지천식 환자는 금기 <mark style="color:blue;">\[부루펜]</mark>
-* naproxen : 윤활낭염·건염·골격근장애의 국내 허가 용법은 초회 500 ㎎ 후 250 ㎎ q6~8h, 초회량 포함 1일 최대 1,250 ㎎임 <mark style="color:blue;">\[낙센]</mark>. 연령·증상·위험도에 따라 최소 유효 용량으로 조절하며 250~500 ㎎ bid의 관절염 용법과 구분함
+* naproxen : 윤활낭염·건염·골격근장애의 국내 허가 용법은 초회 500 ㎎ 후 250 ㎎ q6\~8h, 초회량 포함 1일 최대 1,250 ㎎임 <mark style="color:blue;">\[낙센]</mark>. 연령·증상·위험도에 따라 최소 유효 용량으로 조절하며 250\~500 ㎎ bid의 관절염 용법과 구분함
 * ✽NSAID 금기/신중 투여(신기능 저하·탈수, 소화성 궤양/출혈 병력, 항응고제 병용, 심혈관 질환·심부전) 시 acetaminophen으로 진통 대체 고려; 항염 효과는 기대하기 어려움
-  * 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
+  * 부루펜정은 국내 허가상 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, 아스피린/NSAID 과민반응 병력, 심한 신·간·심장기능 장애, 심한 고혈압, 임신 말기 3개월 등에서 금기임. PPI 병용으로 해당 금기를 해소하지 않으며, 이 금기를 모든 NSAID에 일률적으로 확대하지 않고 제품별로 적용함
+  * 임신 20주 이후 ibuprofen은 태아 신기능 장애·양수과소증 및 동맥관 수축 위험이 있어 피하는 것을 원칙으로 하며, 불가피한 투여 시 기간과 산전 모니터링 필요성을 판단함
   * 타이레놀정·타이레놀8시간이알서방정은 국내 허가상 소화성궤양, 심한 간·신장·심장기능 장애, aspirin 천식/병력, 바르비탈계 약물·TCA 복용 등에서 금기임. NSAID가 부적절하다는 이유만으로 자동 선택하지 않고 acetaminophen 자체의 금기를 먼저 확인함
 * ✽고위험 환자는 경구 NSAID 회피 여부·위장 보호 필요성을 판단하고, 필요시 혈압·신기능·K를 확인함; 서로 다른 경구 NSAID 또는 경구·국소 NSAID의 정규 병용을 피함
 
@@ -248,8 +254,8 @@ graph TD
 
 * lidocaine : 시술 시 국소 마취 목적으로 필요에 따라 사용; 약제 농도·총량·알레르기 병력 확인
 * steroid : 감염 배제 후 선택적으로 고려; triamcinolone acetonide 40 ㎎/㎖ <mark style="color:blue;">\[트리암시놀론주사40㎎ 등]</mark>
-  * 국내 관절강내·점액낭내·건초내 허가 용량은 1회 2\~40 ㎎이며 부위·병태에 따라 조절함. 모든 낭에 20\~40 ㎎을 일률 적용하지 않음 <mark style="color:$info;">[국내 허가사항]</mark>
-  * 견봉하-삼각근하 윤활낭 주사는 triamcinolone 20 ㎎으로도 40 ㎎과 비슷한 효과가 보고됨; 대전자 주위 주사는 20\~40 ㎎(0.5\~1.0 ㎖)이 사용되는 임상 예시임 <mark style="color:$info;">[6]</mark>
+  * 국내 관절강내·점액낭내·건초내 허가 용량은 1회 2\~40 ㎎, 원칙적으로 2주 이상 간격이며 부위·병태에 따라 조절함. 이는 2주마다 반복하라는 뜻이 아니며, 모든 낭에 20\~40 ㎎을 일률 적용하지 않음 <mark style="color:$info;">[국내 허가사항]</mark>
+  * 견봉하-삼각근하 윤활낭 주사는 triamcinolone 20 ㎎으로도 40 ㎎과 비슷한 효과가 보고되며, 2025 온라인 발표·2026 정식 게재 다학회 지침은 초기 용량을 triamcinolone 환산 20 ㎎ 이하로 권고함; 대전자 주위 주사는 20\~40 ㎎(0.5\~1.0 ㎖)이 사용되는 임상 예시임 <mark style="color:$info;">[6]</mark>
   * 표재성 윤활낭염(팔꿈치, 슬개골 앞)에 대한 steroid 주사는 단기 증상 완화에는 도움이 될 수 있으나, 장기 효과는 불확실하고 부작용(감염, 피부 위축) 우려가 있어 1차로는 일반적으로 권하지 않음
   * 건에 인접한 부위는 건 손상·파열 위험을 고려하고 건 내 주입을 피함. 특히 아킬레스건 주변/retrocalcaneal bursa 주사는 일차진료에서 통상 피하고 전문 평가 후 예외적으로 고려함
   * 주사 부위 피부감염·전신 감염이 있으면 시행하지 않음; 무균술을 준수하고 필요시 초음파로 표적·건·혈관·신경 위치 확인함
@@ -260,41 +266,51 @@ graph TD
 * septic bursitis에 적용; 경험적 항생제는 *S. aureus*(약 80\~85%)뿐 아니라 *Streptococcus* spp.까지 함께 표적
 * 외래 치료 대상 : 경증\~중등도 표재성 병변, 전신 상태 안정, 면역기능 보존 및 조기 재평가 가능
 * 일반적인 성인 경험적 경구 치료 예시 : cephalexin 500 ㎎ qid; 신기능에 따라 용량·간격 조절. MRSA는 치료하지 못하므로 위험인자와 배양 결과 확인
-  * ✽팔렉신의 국내 허가 적응증에는 연조직염·창상감염 등이 포함되나 감염성 윤활낭염이 별도 명시되어 있지는 않음. 위 처방은 감염성 윤활낭염에 대한 임상 치료 예시이며, 제품별 허가범위와 구분함 <mark style="color:$info;">[국내 허가사항]</mark>
-* Cephalosporin 사용이 곤란한 중증 즉시형 β-lactam 과민반응 병력 : clindamycin(지역 내 감수성 및 inducible resistance 고려하여 선택)
+  * ✽팔렉신의 국내 허가 적응증에는 연조직염·창상감염 등이 포함되나 감염성 윤활낭염이 별도 명시되어 있지는 않음. 국내 기본 성인 용법은 보통 500 ㎎ 1일 2\~3회, 1일 총량 1\~4 g 범위임. 위의 500 ㎎ qid(1일 2 g)는 감염성 윤활낭염에 사용하는 임상 치료 예시이며, 명시된 적응증·기본 분할 용법과 구분함 <mark style="color:$info;">[국내 허가사항]</mark>
+* Cephalosporin 사용이 곤란한 중증 즉시형 β-lactam 과민반응 병력 : clindamycin(지역 내 감수성 및 inducible resistance 고려하여 선택). SJS/TEN·DRESS 등 중증 지연형 약물반응 병력은 별도로 확인하고 대체 항생제를 전문적으로 판단함
 * MRSA 위험이 높은 경우(과거 MRSA 감염/보균, 최근 의료기관 노출 등; 지역 역학 함께 고려) : TMP-SMX 또는 doxycycline 고려
   * ✽TMP-SMX·doxycycline은 streptococcal coverage가 상대적으로 약하므로 필요시 streptococcus를 표적하는 약제와 병용 여부를 고려; 중증/입원 환자에서 MRSA 가능성이 높으면 vancomycin 등 IV 옵션 고려. 지역 내 내성률과 배양 결과에 따라 조정
 * 외래 uncomplicated 사례에서 실용적으로 10\~14일이 흔히 쓰이나, 근거가 강한 고정 기간은 아니며 **임상 반응·배양 결과·면역상태·배농 여부를 반드시 함께 고려하여 개별화**; 외래 치료 시 24\~48시간 내 재평가를 계획하고 악화하면 즉시 재평가
+* ✽2023 프랑스 전문가 권고(2024 정식 게재)는 중증 징후가 없는 외래 표재성 감염에서 10일 경구 항생제 치료를 제안함. 기존 10\~14일 예시는 유지하되 일률적인 고정 기간으로 사용하지 않음. 수술 후·균혈증·골수염 동반 사례에는 이 기간을 그대로 적용하지 않음 <mark style="color:$info;">[8,9]</mark>
 * 전신 감염 증상, 면역저하, 광범위 감염·외래 추적 곤란 또는 경구 치료 반응 불량 시 : 입원·IV 항생제 필요성 판단 및 정형외과/감염내과 협진; 고름 저류·격벽·지속 감염·이물 또는 반복 재발 시 재흡인/절개배농·윤활낭 절제 등을 고려함 <mark style="color:$info;">[2,7]</mark>
 * ✽심재성 감염 의심 병변에는 위의 외래 표재성 치료 경로를 그대로 적용하지 않고 조기 전문 평가 및 영상검사·배농 필요성을 판단함
 
 ***
 
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+* 흡인 : 감염·결정성 질환 감별 또는 큰 출혈성 종창의 감압 등 적응증을 구분함. 단순 만성 미세손상성 종창에는 일률적으로 시행하지 않으며, 반복 천자는 감염·지속 배액 위험을 고려함
+* 배농·수술 : 항생제에도 지속되는 감염, 배액이 되지 않는 농양·격벽성 고름 저류, 이물, 피부 손상·지속 배액 또는 기능을 제한하는 난치성 재발에서 정형외과 평가. 재발만으로 곧바로 절제하지 않고 압박 요인·통풍·RA·진단 오류 등을 먼저 재평가함
+* GTPS의 PRP : 연구 결과가 일관되지 않으며, 2025년 이중눈가림 위약 대조시험(79명)에서 유의한 우월성이 확인되지 않아 통상적 치료로 권하지 않음. 교육·부하 조절·둔근 강화 운동을 우선함 <mark style="color:$info;">[10]</mark>
+* 수술 후 항생제 기간 : 2024년 수술 환자 후향적 연구에서 21일 치료와 낮은 실패 위험의 연관성이 보고되었으나, 무작위시험으로 확립된 공통 표준은 아님. 배농/절제 결과·균혈증·골수염·면역상태에 따라 전문과에서 개별화함 <mark style="color:$info;">[9]</mark>
+
+***
+
 ### <mark style="color:red;">질병코드</mark>
 
-M06.2 류마티스윤활낭염 Rheumatoid bursitis
+✽KCD-9 「KCD9_251216(6).xlsx」의 ‘상병분류기호(전체)’ 및 ‘상병분류기호(완전코드)’ 시트와 대조함. 아래의 ‘상위 분류’는 실제 청구 시 부위에 맞는 완전코드를 선택해야 함.
 
-M70.2 주두윤활낭염 Olecranon bursitis
+<table><thead><tr><th>코드</th><th>KCD-9 명칭</th><th>적용 및 세부 코드 예시</th></tr></thead><tbody>
+<tr><td>M06.2</td><td>류마티스윤활낭염</td><td>상위 분류. M06.22 위팔(팔꿈치관절 포함), M06.26 아래다리(무릎관절 포함)</td></tr>
+<tr><td>M70.1</td><td>손의 윤활낭염</td><td>완전코드</td></tr>
+<tr><td>M70.2</td><td>주두윤활낭염</td><td>완전코드</td></tr>
+<tr><td>M70.3</td><td>팔꿈치의 기타 윤활낭염</td><td>완전코드</td></tr>
+<tr><td>M70.4</td><td>무릎뼈앞윤활낭염</td><td>완전코드</td></tr>
+<tr><td>M70.5</td><td>무릎의 기타 윤활낭염</td><td>완전코드. 슬개골 앞 이외의 비감염성 무릎 윤활낭염 등에서 병변에 맞게 선택</td></tr>
+<tr><td>M70.6</td><td>대퇴골돌기윤활낭염</td><td>완전코드. 엑셀에는 ‘대퇴골돌기힘줄염’도 같은 코드로 수록됨</td></tr>
+<tr><td>M70.7</td><td>고관절의 기타 윤활낭염</td><td>완전코드. ‘좌골윤활낭염’ 포함</td></tr>
+<tr><td>M71.0</td><td>윤활낭의 농양</td><td>상위 분류. M71.02 위팔(팔꿈치관절 포함), M71.06 아래다리(무릎관절 포함)</td></tr>
+<tr><td>M71.1</td><td>기타 감염성 윤활낭염</td><td>상위 분류. M71.12 위팔(팔꿈치관절 포함), M71.16 아래다리(무릎관절 포함)</td></tr>
+<tr><td>M71.2</td><td>오금의 윤활막낭[베이커]</td><td>완전코드</td></tr>
+<tr><td>M71.5</td><td>달리 분류되지 않은 기타 윤활낭염</td><td>상위 분류. M71.55 골반 부분 및 대퇴, M71.57 발목 및 발</td></tr>
+<tr><td>M71.8</td><td>기타 명시된 윤활낭병증</td><td>상위 분류. 확인된 병태·부위에 맞는 세부 코드 선택</td></tr>
+<tr><td>M71.9</td><td>상세불명의 윤활낭병증</td><td>상위 분류. 부위까지 상세불명인 경우 M71.99; 부위가 알려져 있으면 해당 부위 세부 코드 선택</td></tr>
+<tr><td>M75.5</td><td>어깨의 윤활낭염</td><td>완전코드</td></tr>
+</tbody></table>
 
-M70.4 무릎뼈앞윤활낭염 Prepatellar bursitis
-
-M70.6 대퇴골돌기윤활낭염(대전자 윤활낭염) Trochanteric bursitis
-
-M71.0 윤활낭의 농양 Abscess of bursa
-
-M71.1 기타 감염성 윤활낭염 Other infective bursitis
-
-M71.2 오금의 윤활막낭[베이커] Synovial cyst of popliteal space [Baker]
-
-M71.5 달리 분류되지 않은 기타 윤활낭염 Other bursitis, not elsewhere classified
-
-M71.8 기타 명시된 윤활낭병증 Other specified bursopathies
-
-M71.9 상세불명의 윤활낭병증 Bursopathy, unspecified
-
-M75.5 어깨의 윤활낭염 Bursitis of shoulder
-
-✽부위·원인·농양 여부에 맞게 코드를 선택함. GTPS 전체가 윤활낭염을 뜻하지 않으므로 둔근 건병증/파열이 주진단이면 확진 병변에 맞게 코딩함; 청구 시 해당 분류의 세부 부위 코드를 확인함
+* 원인·농양 여부·해부학적 부위에 따라 선택함. 감염성 병변을 단순 과사용성 M70 계열만으로 표시하지 않도록 주의함
+* GTPS 전체가 윤활낭염을 뜻하지 않음. M70.6에 ‘대퇴골돌기힘줄염’이 포함되지만 모든 둔근건 병변·파열을 자동으로 같은 코드로 처리하지 않으며, 확진된 둔부힘줄염은 M76.0 등 병변에 맞게 선택함
+* 팔꿈치는 이 엑셀의 세부 부위 분류상 ‘위팔’, 무릎은 ‘아래다리’에 포함됨. ICD-10-CM의 좌우 구분·긴 세분코드를 KCD-9에 그대로 적용하지 않음
 
 ***
 
@@ -311,7 +327,7 @@ M75.5 어깨의 윤활낭염 Bursitis of shoulder
 > **처방례 2.** 경구 NSAID가 필요한 성인 비감염성 윤활낭염(국소 NSAID 사용 중이면 중단)
 >
 > ```
-> 부루펜정 200 ㎎/T (ibuprofen)  1~2T  tid, 필요시 단기간
+> 부루펜정 200 ㎎/T (ibuprofen)  1\~2T  tid, 필요시 단기간
 > ```
 >
 > _✽부루펜은 국내 허가 효능에 활액낭염이 포함됨. 이 예시는 1일 600\~1,200 ㎎의 초기 단기 진통 용법이며 증상·위험도에 따라 조절함. 고령·심혈관/신장/위장관 고위험 환자에서는 경구 NSAID 회피와 대체 진통제를 우선 검토함. 경구·국소 NSAID의 정규 병용은 피함. 만성 반복 압박이 원인인 경우 보호대·자세 교정 등 유발 요인 관리가 약물보다 우선_
@@ -319,18 +335,18 @@ M75.5 어깨의 윤활낭염 Bursitis of shoulder
 > **처방례 3.** Septic bursitis(성인 외래 경증\~중등도 표재성 병변, 전신 증상 없음·면역기능 보존)
 >
 > ```
-> 팔렉신 500 ㎎/Cap (cephalexin)  1Cap  qid  #10~14일
+> 팔렉신 500 ㎎/Cap (cephalexin)  1Cap  qid  #10\~14일
 > ```
 >
-> _✽S. aureus(MSSA) 및 Streptococcus spp.를 표적; MRSA 위험·약물 알레르기·신기능 확인. 가능하면 치료 전 낭액 배양 후 결과에 따라 조정; 10\~14일은 통상적 예시이며 반응에 따라 기간 조절. 24\~48시간 내 재평가하고 그 전에 악화하거나 전신 증상이 생기면 즉시 평가/의뢰_
+> _✽500 ㎎ qid는 1일 총량 2 g의 임상 용법 예시이며 국내 기본 용법(보통 500 ㎎ 1일 2\~3회) 및 적응증의 표기와 구분함. S. aureus(MSSA) 및 Streptococcus spp.를 표적; MRSA 위험·약물 알레르기·신기능 확인. 가능하면 치료 전 낭액 배양 후 결과에 따라 조정; 10\~14일은 통상적 예시이며 반응에 따라 기간 조절. 24\~48시간 내 재평가하고 그 전에 악화하거나 전신 증상이 생기면 즉시 평가/의뢰_
 
 > **처방례 4.** Greater trochanteric pain syndrome, 보존치료에도 지속되는 통증으로 재활이 어려운 경우
 >
 > ```
-> 트리암시놀론주사40㎎ 40 ㎎/㎖  0.5~1.0 ㎖ (20~40 ㎎)  대전자 주위 국소 주사(1회)
+> 트리암시놀론주사40㎎ 40 ㎎/㎖  0.5\~1.0 ㎖ (20\~40 ㎎)  대전자 주위 국소 주사(1회)
 > ```
 >
-> _✽감염 배제 후 시행; 임상/초음파 소견에 따라 대전자 주위 윤활낭 또는 적절한 건 주위 공간에 주사하되 건 내 주입은 피함. 표재성 부위(팔꿈치·슬개골 앞)에는 권장하지 않음. 정기적인 반복 주사는 피하고 주사 반응과 재활 경과를 재평가함; 둔근 강화 운동 병행_
+> _✽감염 배제 후 시행; 이 예시 용량은 대전자 주위에 해당하며 견봉하 주사의 초기 용량 권고와 구분함. 급성·아급성 윤활낭염은 국내 허가 적응증이나 순수 둔근건병증에 대한 건 주위 주사는 해당 명시 적응증과 구분함. 임상/초음파 소견에 따라 대전자 주위 윤활낭 또는 적절한 건 주위 공간에 주사하되 건 내 주입은 피함. 표재성 부위(팔꿈치·슬개골 앞)에는 권장하지 않음. 정기적인 반복 주사는 피하고 주사 반응과 재활 경과를 재평가함; 둔근 강화 운동 병행_
 
 ***
 
@@ -364,6 +380,32 @@ M75.5 어깨의 윤활낭염 Bursitis of shoulder
 
 ***
 
+## 주요 참고문헌 및 확인 자료
+
+### <mark style="color:orange;">&lt;임상 근거&gt;</mark>
+
+1. Stell IM, Gransden WR. Simple tests for septic bursitis: comparative study. BMJ. 1998;316:1877–1880. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC28586/)
+2. Beyde A, et al. Efficacy of empiric antibiotic management of septic olecranon bursitis without bursal aspiration in emergency department patients. Acad Emerg Med. 2022;29:6–14. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC8766900/)
+3. Slouma M, et al. Bicipitoradial bursitis: A diagnosis challenge! Clin Case Rep. 2020;8:2265–2268. doi:10.1002/ccr3.3125. [원문](https://onlinelibrary.wiley.com/doi/full/10.1002/ccr3.3125)
+4. Mellor R, et al. Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy: prospective, single blinded, randomised clinical trial. BMJ. 2018;361:k1662. [원문](https://www.bmj.com/content/361/bmj.k1662)
+5. European Medicines Agency. Ketoprofen topical — referral: 광과민반응 및 사용 중·중단 후 2주 자외선 차단 권고. [자료](https://www.ema.europa.eu/en/medicines/human/referrals/ketoprofen-topical)
+6. Benzon HT, et al. Use and safety of corticosteroid injections in joints and musculoskeletal soft tissue: guidelines from the American Society of Regional Anesthesia and Pain Medicine, the American Academy of Pain Medicine, the American Society of Interventional Pain Physicians, and the International Pain and Spine Intervention Society. Reg Anesth Pain Med. 2026;51(7):746–773 (온라인 선공개 2025). doi:10.1136/rapm-2024-105656. [원문](https://doi.org/10.1136/rapm-2024-105656)
+7. Baumbach SF, Lobo CM, Badyine I, Mutschler W, Kanz KG. Prepatellar and olecranon bursitis: literature review and development of a treatment algorithm. Arch Orthop Trauma Surg. 2014;134:359–370. [서지·초록](https://pubmed.ncbi.nlm.nih.gov/24305696/)
+
+8. Darrieutort-Laffite C, et al. 2023 French recommendations for diagnosing and managing prepatellar and olecranon septic bursitis. Joint Bone Spine. 2024;91(2):105664. doi:10.1016/j.jbspin.2023.105664. [서지·초록](https://pubmed.ncbi.nlm.nih.gov/37995861/)
+9. El Zein S, et al. Optimal antibiotics duration following surgical management of septic olecranon bursitis: a 12-year retrospective analysis. J Bone Jt Infect. 2024;9:107–115. [원문](https://jbji.copernicus.org/articles/9/107/2024/)
+10. Atchia I, et al. Efficacy of Platelet-Rich Plasma Versus Placebo for the Treatment of Greater Trochanteric Pain Syndrome: A Double-Blinded Randomized Controlled Trial. J Bone Joint Surg Am. 2025;107(5):444–451. doi:10.2106/JBJS.24.00763. [서지·초록](https://pubmed.ncbi.nlm.nih.gov/39804899/)
+11. Atici A, et al. Poor Accuracy of Clinical Diagnosis in Pes Anserine Tendinitis Bursitis Syndrome. Indian J Orthop. 2022;56:116–124 (온라인 발표 2021). doi:10.1007/s43465-021-00424-3. [서지·초록](https://pubmed.ncbi.nlm.nih.gov/35070151/)
+12. NICE. Suspected cancer: recognition and referral (NG12), soft tissue sarcoma in adults, recommendations 1.11.4–1.11.5. [권고](https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer)
+
+### <mark style="color:orange;">&lt;허가·급여 확인 자료&gt;</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 부루펜정, 케토톱플라스타·겔, 트라스트패취·겔, 다이악센크림, 트리암시놀론주사40㎎, 팔렉신캡슐500㎎의 허가 효능·용법·주의사항
+* 국내 용법 대조 보조자료: SK케미칼·종근당·동화약품의 제품설명 자료(트라스트패취, 낙센정, 팔렉신캡슐500㎎). 개별 품목 링크는 생략함
+* 질병코드 확인: KCD-9 「KCD9_251216(6).xlsx」, 상병분류기호(전체)·상병분류기호(완전코드)
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -389,6 +431,7 @@ M75.5 어깨의 윤활낭염 Bursitis of shoulder
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
 * 처방받은 소염진통제는 필요한 최소 용량으로 짧게 복용하고, 좋아지면 줄이거나 중단합니다. 먹는 소염진통제와 파스를 임의로 겹쳐 쓰지 마십시오.
+* 임신·수유 중이거나 천식·약물 알레르기 병력이 있으면 먹는 약과 파스 모두 사용 전 의료진에게 알리십시오. 파스를 붙인 부위는 비닐이나 밀봉붕대로 덮지 마십시오.
 * 케토프로펜 성분의 파스·겔은 사용 중 및 중단 후 2주 동안 해당 부위를 옷으로 가려 햇빛·자외선 노출을 피하십시오. 파스·겔은 상처나 감염된 피부에 사용하지 마십시오.
 * 감염이 의심되어 항생제를 처방받은 경우, **증상이 좋아져도 임의로 중단하지 말고** 재진 때 안내받은 기간대로 복용하십시오.
 * 감염 치료 중에는 **24\~48시간 내 예정된 재진을 받으십시오.** 그 전에 증상이 악화되면 바로 병원에 연락하거나 방문하십시오.
@@ -401,23 +444,4 @@ M75.5 어깨의 윤활낭염 Bursitis of shoulder
 * 의식이 흐려지거나 실신·호흡곤란 등 전신 상태가 나빠지는 경우(응급실로 가십시오)
 * 갑자기 한쪽 종아리가 붓고 아픈 경우(당일 평가를 받으십시오)
 
-보호와 치료를 2\~4주간 시행해도 호전되지 않으면 예약 진료에서 원인과 치료 계획을 다시 확인하십시오.
-
-
-***
-
-## 주요 참고문헌 및 확인 자료
-
-### <mark style="color:orange;">임상 근거</mark>
-
-1. Stell IM, Gransden WR. Simple tests for septic bursitis: comparative study. BMJ. 1998;316:1877–1880. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC28586/)
-2. Beyde A, et al. Efficacy of empiric antibiotic management of septic olecranon bursitis without bursal aspiration in emergency department patients. Acad Emerg Med. 2022;29:6–14. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC8766900/)
-3. Slouma M, et al. Bicipitoradial bursitis: A diagnosis challenge! Clin Case Rep. 2020. doi:10.1002/ccr3.3125. [원문](https://onlinelibrary.wiley.com/doi/full/10.1002/ccr3.3125)
-4. Mellor R, et al. Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy: prospective, single blinded, randomised clinical trial. BMJ. 2018;361:k1662. [원문](https://www.bmj.com/content/361/bmj.k1662)
-5. European Medicines Agency. Ketoprofen topical — referral: 광과민반응 및 사용 중·중단 후 2주 자외선 차단 권고. [자료](https://www.ema.europa.eu/en/medicines/human/referrals/ketoprofen-topical)
-6. Benzon HT, et al. Use and safety of corticosteroid injections in joints and musculoskeletal soft tissue: guidelines from the American Society of Regional Anesthesia and Pain Medicine, the American Academy of Pain Medicine, the American Society of Interventional Pain Physicians, and the International Pain and Spine Intervention Society. Reg Anesth Pain Med. 2026;51(7):746–773 (온라인 선공개 2025). doi:10.1136/rapm-2024-105656. [원문](https://doi.org/10.1136/rapm-2024-105656)
-7. Baumbach SF, Lobo CM, Badyine I, Mutschler W, Kanz KG. Prepatellar and olecranon bursitis: literature review and development of a treatment algorithm. Arch Orthop Trauma Surg. 2014;134:359–370. [서지·초록](https://pubmed.ncbi.nlm.nih.gov/24305696/)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 부루펜정, 케토톱플라스타·겔, 트라스트패취·겔, 다이악센크림, 트리암시놀론주사40㎎, 팔렉신캡슐500㎎의 허가 효능·용법·주의사항
+보호와 치료를 2\~4주간 시행해도 호전되지 않으면 예약 진료에서 원인과 치료 계획을 다시 확인하십시오. 혹이 계속 커지거나 형태가 달라지면 이 기간을 기다리지 말고 진료를 받으십시오.

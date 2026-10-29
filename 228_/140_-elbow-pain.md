@@ -7,6 +7,7 @@
 * 정상 운동 범위 : 신전 0°~굴곡 140~150°; 전완 중립위 0°에서 회외(supination)·회내(pronation) 각각 약 80~90°
 * 진찰 시 다음 소견에 대하여 양측을 비교 : 홍반, 부종, 열감, 위축, deformity, 비대칭
 * 직업성 반복 부하가 지속되면 회복이 지연될 수 있으므로 작업 자세·도구·부하 조정이 중요
+* 외측상과염은 자연 경과로 호전되는 경우가 많으나 회복에 수개월~1년 이상 걸릴 수 있음. 단기간의 통증 감소와 건의 회복·재발 예방 효과를 구분하여 설명
 
 ## <mark style="color:green;">원인</mark>
 
@@ -17,7 +18,7 @@
 
 ### <mark style="color:orange;">외측 팔꿈치 통증 (Lateral elbow pain)</mark>
 
-<table><thead><tr><th width="230">진단</th><th>병인 / 임상 양상 / 진단 검사</th><th width="250">치료</th></tr></thead><tbody><tr><td><strong>외측상과염 (Lateral epicondylitis, Tennis elbow)</strong></td><td>• 반복적인 팔꿈치/손목 움직임<sup>1)</sup><br>• 잠행성; 주로 쓰는 팔 이환; 외측상과와 공통 신전근 기시부 압통<sup>2)</sup><br>• 손목 resisted extension 또는 radial deviation 시 통증, 악력 감소<br>• Cozen test, Mill test, book test, middle finger test; pain-free grip strength 평가<br>• 국소 마취 주사는 routine 진단검사가 아니며 진단이 불확실한 경우 전문진료에서 선택적으로 고려</td><td>• 활동/부하 조절, Ice, 필요 시 counterforce brace<br>• 점진적 스트레칭 및 근력 강화 운동(PT)<br>• 필요 시 단기간 국소 NSAID 우선 고려; 경구 NSAID는 위험을 평가하여 선택<br>• corticosteroid 주사는 외측상과염 치료에 사용하지 않도록 권고(BESS 2023, 강한 권고); PRP는 만성·난치성 사례에서 개별 검토 가능하나 placebo 대비 효과 미입증(근거 수준 매우 낮음)<br>• 12~24주에도 호전이 없으면 진단 재평가 및 정형외과 의뢰 고려</td></tr><tr><td><strong>후골간신경증후군 (Posterior interosseous nerve syndrome, PIN syndrome)</strong></td><td>• 운동신경병증: finger/thumb extension weakness 또는 finger drop이 핵심<br>• wrist extension은 남을 수 있으나 radial deviation이 나타날 수 있음<br>• 일반적으로 감각 소실 없음</td><td>• 자극 활동 중지, 부목, PT<br>• 새로 발생하거나 진행하는 운동 약화는 조기 전문의 평가; 보존적 치료에도 호전이 없으면 수술 가능성 검토</td></tr><tr><td><strong>Radial tunnel syndrome</strong></td><td>• 전완 외측부 통증<sup>3)</sup>; 뚜렷한 감각/운동 결손은 대개 없음<br>• 외측상과보다 약 3~5 ㎝ 원위부의 요골터널 부위 압통<br>• 제3수지 resisted extension(Maudsley test) 또는 resisted supination 시 전완 근위부 신전근 통증 발생</td><td>• 자극 활동 회피, 부목, PT<br>• NSAID<br>• 무효 시 전문의 평가/수술 고려</td></tr></tbody></table>
+<table><thead><tr><th width="230">진단</th><th>병인 / 임상 양상 / 진단 검사</th><th width="250">치료</th></tr></thead><tbody><tr><td><strong>외측상과염 (Lateral epicondylitis, Tennis elbow)</strong></td><td>• 반복적인 팔꿈치/손목 움직임<sup>1)</sup><br>• 잠행성; 주로 쓰는 팔 이환; 외측상과와 공통 신전근 기시부 압통<sup>2)</sup><br>• 손목 resisted extension 또는 radial deviation 시 통증, 악력 감소<br>• Cozen test, Mill test, book test, middle finger test; pain-free grip strength 평가<br>• 국소 마취 주사는 routine 진단검사가 아니며 진단이 불확실한 경우 전문진료에서 선택적으로 고려</td><td>• 활동/부하 조절, Ice, 필요 시 counterforce brace<br>• 점진적 스트레칭 및 근력 강화 운동(PT)<br>• 필요 시 단기간 국소 NSAID 우선 고려; 경구 NSAID는 위험을 평가하여 선택<br>• corticosteroid 주사는 외측상과염 치료에 사용하지 않도록 권고(BESS 2023, 강한 권고); PRP는 통상 권고하지 않음; 기존 종합근거와 2026년 일부 긍정적 위약 대조시험을 함께 고려하여 난치성 사례에서 불확실성 설명 후 개별 검토(아래 참조)<br>• 12~24주에도 호전이 없으면 진단 재평가 및 정형외과 의뢰 고려</td></tr><tr><td><strong>후골간신경증후군 (Posterior interosseous nerve syndrome, PIN syndrome)</strong></td><td>• 운동신경병증: finger/thumb extension weakness 또는 finger drop이 핵심<br>• wrist extension은 남을 수 있으나 radial deviation이 나타날 수 있음<br>• 일반적으로 감각 소실 없음</td><td>• 자극 활동 중지, 부목, PT<br>• 새로 발생하거나 진행하는 운동 약화는 당일~수일 내 전문의 평가; 보존적 치료에도 호전이 없으면 수술 가능성 검토</td></tr><tr><td><strong>Radial tunnel syndrome</strong></td><td>• 전완 외측부 통증<sup>3)</sup>; 뚜렷한 감각/운동 결손은 대개 없음<br>• 외측상과보다 약 3~5 ㎝ 원위부의 요골터널 부위 압통<br>• 제3수지 resisted extension(Maudsley test) 또는 resisted supination 시 전완 근위부 신전근 통증 발생</td><td>• 자극 활동 회피, 부목, PT<br>• 필요 시 단기 진통제<br>• 진단이 불확실하거나 충분한 보존적 치료에도 지속 시 전문의 재평가; 수술은 진단의 불확실성과 결과의 변동성을 설명한 뒤 선별적으로 검토</td></tr></tbody></table>
 
 _¹⁾ 초보 one-handed backhand stroke player에서 호발_\
 _²⁾ 압통은 외측상과에서 약 1 ㎝ 원위의 공통 신전근 부착부 주변에 두드러질 수 있으며, 특히 단요측수근신근(ECRB; Extensor Carpi Radialis Brevis)이 흔히 이환됨_\
@@ -28,7 +29,7 @@ _<mark style="color:$info;">Ref. Evaluation of elbow pain in adults. AFP 2014;89
 
 ### <mark style="color:orange;">내측 팔꿈치 통증 (Medial elbow pain)</mark>
 
-<table><thead><tr><th width="230">진단</th><th>병인 / 임상 양상 / 진단 검사</th><th width="250">치료</th></tr></thead><tbody><tr><td><strong>내측상과염 (Medial epicondylitis, Golfer's elbow)</strong></td><td>• 반복적인 elbow valgus stress 및 굴곡, 손목 회내 및 굴곡<sup>1)</sup><br>• 잠행성: medial epicondyle 압통; 손목 resisted flexion 및 회내 또는 ulnar deviation 시 통증; 악력 감소<br>• 국소 마취 주사는 routine 진단검사가 아니며 진단이 불확실한 경우 전문진료에서 선택적으로 고려</td><td>• 활동/부하 조절, Ice, Bracing; 스트레칭, 강화 훈련<br>• NSAID(경구/경피)<br>• 주사치료는 routine으로 사용하지 않고 난치성 사례에서 선택적으로 고려; 충분한 보존적 치료에도 지속 시 의뢰</td></tr><tr><td><strong>Cubital tunnel syndrome (Ulnar N.)</strong></td><td>• 지속적인 굴곡 상태/활동, medial epicondylitis 동반 가능<br>• 잠행성: 제5수지와 제4수지 척측 절반 및 손 척측의 저림·감각 저하; 악력 약화. 전완 내측까지 객관적인 감각 저하가 있으면 C8–T1 신경근/신경총 병변도 감별<br>• cubital tunnel Tinel sign; Wartenberg's sign</td><td>• 팔꿈치에 기대는 직접 압박 및 지속적인 굴곡 회피; 야간에 과도한 팔꿈치 굴곡 회피; 필요 시 약 30\~45°의 가벼운 굴곡을 유지하는 부목 고려, PT<br>• 진행성 근력저하 또는 무효 시 전문의 평가/수술</td></tr><tr><td><strong>Ulnar collateral ligament injury</strong></td><td>• 반복적인 elbow valgus stress; 운동선수(overhead throwing 동작)<br>• 유발 활동 후 통증 발생; valgus elbow instability; 팔꿈치 내측 bruising, 압통<br>• moving valgus stress test, milking maneuver</td><td>• 투구 등 외반 부하 활동 중단, Ice, 필요 시 단기간 NSAID<br>• 손상 정도와 투구 복귀 목표에 따른 재활·투구 동작 교정; 불안정성이 뚜렷하거나 경쟁적 투구 복귀를 원하면 조기 전문의 평가, 수술 여부는 개별 결정<sup>2)</sup></td></tr></tbody></table>
+<table><thead><tr><th width="230">진단</th><th>병인 / 임상 양상 / 진단 검사</th><th width="250">치료</th></tr></thead><tbody><tr><td><strong>내측상과염 (Medial epicondylitis, Golfer's elbow)</strong></td><td>• 반복적인 elbow valgus stress 및 굴곡, 전완 회내 및 손목 굴곡<sup>1)</sup><br>• 잠행성: medial epicondyle 압통; 손목 resisted flexion 및 회내 또는 ulnar deviation 시 통증; 악력 감소<br>• 국소 마취 주사는 routine 진단검사가 아니며 진단이 불확실한 경우 전문진료에서 선택적으로 고려</td><td>• 활동/부하 조절, Ice, Bracing; 스트레칭, 강화 훈련<br>• NSAID(경구/경피)<br>• 주사치료는 routine으로 사용하지 않고 난치성 사례에서 선택적으로 고려; 충분한 보존적 치료에도 지속 시 의뢰</td></tr><tr><td><strong>Cubital tunnel syndrome (Ulnar N.)</strong></td><td>• 지속적인 굴곡 상태/활동, medial epicondylitis 동반 가능<br>• 잠행성: 제5수지와 제4수지 척측 절반 및 손 척측의 저림·감각 저하; 악력 약화. 전완 내측까지 객관적인 감각 저하가 있으면 C8–T1 신경근/신경총 병변도 감별<br>• cubital tunnel Tinel sign; Wartenberg's sign</td><td>• 팔꿈치에 기대는 직접 압박 및 지속적인 굴곡 회피; 야간에 과도한 팔꿈치 굴곡 회피; 필요 시 약 30\~45°의 가벼운 굴곡을 유지하는 부목 고려, PT<br>• 객관적 근력저하·근위축 또는 보존적 치료에도 무효 시 전문의 평가; 진행성 약화는 당일~수일 내 평가, 수술 여부 개별 결정</td></tr><tr><td><strong>Ulnar collateral ligament injury</strong></td><td>• 반복적인 elbow valgus stress; 운동선수(overhead throwing 동작)<br>• 유발 활동 후 통증 발생; valgus elbow instability; 팔꿈치 내측 bruising, 압통<br>• moving valgus stress test, milking maneuver</td><td>• 투구 등 외반 부하 활동 중단, Ice, 필요 시 단기간 NSAID<br>• 손상 정도와 투구 복귀 목표에 따른 재활·투구 동작 교정; 불안정성이 뚜렷하거나 경쟁적 투구 복귀를 원하면 조기 전문의 평가, 수술 여부는 개별 결정<sup>2)</sup></td></tr></tbody></table>
 
 ¹⁾ 손목 굴곡-회내근 부착부(medial epicondyle의 전방 및 원위 5\~10 ㎜)\
 ²⁾ 수술은 일률적인 치료 기간으로 결정하지 않고 파열 정도·불안정성·운동 목표·재활 반응을 종합하여 판단
@@ -44,7 +45,7 @@ _³⁾ 수술 의뢰 여부는 지속 기간만으로 정하지 않고 재발·�
 ### <mark style="color:orange;">소아·청소년에서의 감별</mark>
 
 * **요골두 아탈구(pulled elbow, nursemaid’s elbow)** : 주로 1~4세에서 갑자기 팔을 사용하지 않으며 전완을 회내한 자세로 유지; 팔을 잡아당긴 병력이 없어도 가능. 전형적으로 뚜렷한 부종·멍·변형이나 골성 압통이 없음
-  * 전형적인 경우 임상진단 후 숙련된 의료진이 과회내(hyperpronation) 또는 회외-굴곡 정복을 시행하고 팔 사용 회복을 확인함. 뚜렷한 골성 압통·부종·멍·변형, 비전형적 외상 기전 또는 정복 실패 시 골절 등을 감별하여 X선·전문의 평가; 반복 정복만 지속하지 않음
+  * 전형적인 경우 임상진단 후 숙련된 의료진이 과회내(hyperpronation) 또는 회외-굴곡 정복을 시행하고 대개 5~30분 내 팔 사용 회복을 확인함. 뚜렷한 골성 압통·부종·멍·변형, 비전형적 외상 기전 또는 정복 실패 시 골절 등을 감별하여 X선·전문의 평가; 두 차례 정복 후에도 회복되지 않으면 X선 등 재평가하며 반복 정복만 지속하지 않음
 * **성장기 투구 손상** : 내측 통증은 내측상과 골단염(Little Leaguer’s elbow)·견열손상, 외측 통증은 상완골 소두(capitellum)의 박리성 골연골염(OCD) 가능. 투구를 중단하고 진찰·필요한 영상검사를 시행; 통증·운동 제한·잠김이 지속되면 조기 전문의 평가. 성인의 상과 건병증으로만 판단하여 운동을 지속시키지 않음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
@@ -72,6 +73,8 @@ _³⁾ 수술 의뢰 여부는 지속 기간만으로 정하지 않고 재발·�
 
 * 외측상과염에서 12~24주의 적절한 보존적 치료에도 호전 불충분  `진단 재평가·전문의 의뢰 고려`
 * 서서히 진행하는 강직, 반복되는 painful clicking/catching/locking  `관절내 병변 평가`
+* 다관절 부종·지속적인 아침 강직 또는 반복되는 팔꿈치 관절 종창  `염증성 관절염 감별`
+* 점점 심해지는 비기계적 안정 시·야간 통증 또는 설명되지 않는 체중 감소  `종양·감염 등 감별`
 * 진행하지 않는 간헐적 저림·감각 저하  `신경 포착 증후군 의심`
 
 #### <mark style="color:$primary;">평가·추적 원칙</mark>
@@ -99,9 +102,9 @@ Ref. Evaluation of elbow pain in adults. AFP 2014;89(8). Table 2; Elbow Instabil
 
 * 전형적인 tendinopathy는 임상진단이 우선이며 영상검사가 routine으로 필요하지 않음
 * 단순 X선 : 외상 후 골절·탈구가 의심되거나 만성 통증에서 운동 범위 제한, 기계적 증상, 골성 병변이 의심될 때 우선 고려. 전형적 건병증에서는 대개 불필요하며 검사해도 정상인 경우가 많음
-* Elbow extension test : 급성 외상 후 팔꿈치를 능동적으로 완전히 신전하지 못하면 X선 시행. 완전히 신전할 수 있어도 국소 골성 압통, 변형 또는 기능장애가 있으면 X선을 고려하고, 특히 소아에서는 검사 하나만으로 골절을 배제하지 않음. 저위험 사례에서 초기 X선을 생략하더라도 통증·기능장애가 지속되면 7~10일 내 재평가; 악화 시 즉시 재진
+* Elbow extension test : 급성 외상 후 팔꿈치를 능동적으로 완전히 신전하지 못하면 X선 시행. 완전히 신전할 수 있어도 국소 골성 압통, 변형 또는 기능장애가 있으면 X선을 고려하고, 특히 주두 골절 의심 또는 소아에서는 검사 하나만으로 골절을 배제하지 않음. 저위험 사례에서 초기 X선을 생략하더라도 통증·기능장애가 지속되면 7~10일 내 재평가; 악화 시 즉시 재진
 * 성인의 급성 외상 후 초기 X선이 정상·불확실해도 골절 의심이 지속되면 보호·고정 및 추적 평가를 계획하고, 필요에 따라 비조영 CT 또는 10~14일 후 재촬영을 선택(ACR 2024); 신경혈관 이상 등 위험 징후가 있으면 기다리지 않음
-* 초음파 : tendon pathology/tear, effusion 및 일부 신경 병변의 동적 평가에 유용
+* 초음파 : tendon pathology/tear, effusion 및 일부 신경 병변의 동적 평가에 유용; 검사자 숙련도에 영향을 받음. 성인의 급성 건·인대·근육 손상 의심에서 초기 X선이 정상·불확실하면 초음파 또는 비조영 MRI를 고려(ACR 2024)
 * MRI : 진단이 불확실하거나 깊은 연부조직·신경 포착·인대/연골/골연골 병변이 의심되는 경우, 또는 수술 전 평가에서 고려; 건·인대·신경 병변은 대개 비조영 MRI로 평가. 경험적 치료에 반응하지 않고 X선이 정상·비특이적인 만성 상과 통증/건파열 의심에서는 초음파 또는 비조영 MRI를 선택(ACR 2022)
 * MR arthrography : ligament tear, osteochondral defect, loose body 평가에 선택적으로 고려
 * CT : X선에서 명확하지 않은 골절·골극·관절내 유리체 등 골성 병변의 상세 평가에 선택적으로 사용
@@ -134,18 +137,21 @@ Ref. Evaluation of elbow pain in adults. AFP 2014;89(8). Table 2; Elbow Instabil
 
 ```mermaid
 graph TD
-    A["병력·외상력, 압통 위치, 능동·수동 ROM, 신경혈관 검사"]
-    A ---> B{"즉각 조치 항목에 해당?"}
-    B --->|예| B1["변형·혈류장애·구획증후군·감염성 관절염·패혈증 → 즉각 평가·응급 의뢰"]
-    B --->|아니오| C{"당일~수일 내 평가 항목에 해당?"}
-    C --->|예| C1["세균성 윤활낭염·골절·급성 잠김·소아 팔 사용 거부 → 당일 평가"]
-    C --->|예| C2["건파열·진행성 운동 약화·종괴 → Red Flags의 긴급도에 따라 조기 평가"]
-    C --->|아니오| D["통증 위치와 임상 양상으로 원인 평가"]
-    D ---> D1["상과 압통·부하 시 통증 → 건병증: 부하 조절·운동치료"]
-    D ---> D2["주두 종창 → 점액낭염; 저림 → 신경 포착·경추 병변"]
-    D ---> D3["강직·기계적 증상·다관절 이환 또는 성장기 투구 통증 → 원인별 검사·의뢰"]
-    D1 ---> E["대개 2~4주 재평가; 악화 시 조기 재진"]
-    E ---> F["외측상과염: 12~24주에도 호전 불충분 → 진단 재평가·전문의 의뢰 고려"]
+    A["팔꿈치 통증 의심"] --> A1["외상력·통증 위치·능동/수동 ROM·신경혈관 진찰"]
+    A1 --> B{"즉각 조치 소견?"}
+    B -->|예| B1(["즉각 평가·응급 의뢰"])
+    B -->|아니오| C{"당일~수일 내 평가 소견?"}
+    C -->|예| C0{"주요 소견"}
+    C0 -->|"감염성 윤활낭염·골절·급성 잠김·소아 팔 사용 거부"| C1(["당일 평가·원인별 처치"])
+    C0 -->|"건파열·새로운 운동 약화·종괴"| C2(["당일~수일 내 검사·전문의 평가"])
+    C -->|아니오| D{"통증 위치·동반 증상"}
+    D -->|"상과 압통·부하 시 통증"| D1["건병증: 부하 조절·점진적 운동"]
+    D -->|"주두 종창·저림"| D2["윤활낭염·신경 포착·경추 병변 평가"]
+    D -->|"강직·기계적 증상·다관절 이환·성장기 투구 통증"| D3["원인별 검사·필요 시 조기 의뢰"]
+    D1 --> E["대개 2~4주에 통증·기능 재평가; 악화 시 조기 재진"]
+    D2 --> E
+    D3 --> E
+    E --> F(["호전 시 점진적 복귀; 지속 시 진단 재평가·필요 시 의뢰"])
 ```
 
 <p align="center"><strong>팔꿈치 통증 관리 알고리듬</strong></p>
@@ -166,12 +172,15 @@ graph TD
 
 <table><thead><tr><th width="100">단계</th><th width="260">핵심 치료</th><th>대상</th></tr></thead><tbody><tr><td>Step 1</td><td>활동/부하 조절, 필요 시 냉찜질 및 단기 acetaminophen·국소 NSAID; 경구 NSAID는 위험을 평가하여 선택</td><td>위험 징후가 배제된 건병증 등 보존적 치료 대상</td></tr><tr><td>Step 2</td><td>점진적 스트레칭·근력 강화 운동(PT), 필요 시 counterforce bracing</td><td>초기부터 병행하거나 증상 지속 시 강화</td></tr><tr><td>Step 3</td><td>진단 재평가(신경 포착, 관절내 병변, 연관통 등); 필요 시 영상검사/전문의 의뢰</td><td>12~24주의 적절한 보존적 치료에도 호전이 불충분한 외측상과염; 비전형적 소견·위험 징후가 있으면 조기 시행</td></tr><tr><td>Step 4</td><td>전문의 평가 후 난치성 치료 옵션 개별 검토</td><td>의뢰 후에도 적절한 비수술적 치료에 반응하지 않고 심한 기능 제한이 지속되는 선별 환자(수술 등 검토)</td></tr></tbody></table>
 
-### <mark style="color:orange;">보존적 치료</mark>
+## <mark style="color:green;">비‑약물 치료 및 예방</mark>
 
 * Relative rest : 악화 동작의 일시적 감량·조절; 완전한 장기 고정은 피함. Counterforce brace는 활동 중 증상 완화를 원할 때 선택적으로 시도
 * Ice : 한 번에 약 10~15분, 피부와 냉찜질팩 사이에 천을 대고 적용. 감각 저하·순환 장애에서 주의하고 동상을 예방함
 * 작업·운동 자세 교정 및 ergonomic modification
 * 재활 치료, PT : 통증 허용 범위에서 점진적 resistance exercise(신전근/굴곡근의 concentric·eccentric 강화)와 스트레칭; 예: wrist extensor/flexor의 점진적 eccentric-concentric resistance exercise
+* 운동 구성은 통증·근력·기능에 따라 조절하며 편심성 운동만이 유일한 방법은 아님. 어깨·견갑대 약화가 동반되면 해당 근육 강화도 병행 고려; 2026년 소규모 무작위시험에서 추가 이득이 보고되었으나 모든 환자에게 같은 효과를 보장하지 않음
+* 기능 평가 : PRTEE(Patient-Rated Tennis Elbow Evaluation) 또는 DASH/QuickDASH, 통증 없는 악력 등으로 통증·기능 변화를 기록할 수 있음. 운동치료의 무치료 대비 장기 추가 이득은 연구·지침 간 차이가 있으므로 회복을 보장한다고 설명하지 않음
+* 작업 복귀·재발 예방 : 손목을 중립에 가깝게 유지하고 쥐는 힘·반복 횟수·도구 무게를 줄이며 작업 중 휴식; 통증·근력·기능에 따라 부하를 점진적으로 늘림
 * 추적 관리 : 통증·작업 기능·운동 순응도를 평가하며 대개 2\~4주에 재평가; 감염 의심 환자는 이 일정까지 기다리지 않음
 
 ## <mark style="color:green;">약물 치료</mark>
@@ -183,14 +192,15 @@ graph TD
 * acetaminophen 500~1,000 ㎎, 1일 3~4회(투여 간격 4~6시간) 필요 시(건강한 성인의 1일 최대 4,000 ㎎을 넘지 않되, 고령·저체중·간질환·음주 등에서는 더 낮은 한도를 개별 적용하고 다른 복합제의 함량 합산) <mark style="color:blue;">\[타이레놀정500㎎]</mark>
   * ✽국내 타이레놀 허가상 소화성궤양, 중증 간·신장·심장기능 장애, 아스피린/NSAID 유발 천식 또는 그 병력, 바르비탈계 약물·삼환계 항우울제 복용 등은 금기. 복용 중 음주를 피하며, NSAID 금기 환자에게도 자동으로 안전한 대안은 아님 <mark style="color:$info;">[국내 허가사항]</mark>
 * ibuprofen 200\~400 ㎎ tid\~qid, 필요 시 <mark style="color:blue;">\[부루펜정200㎎/400㎎]</mark>
-  * ✽국내 부루펜 허가상 위장관 궤양·출혈 및 그 병력, 기관지천식 및 그 병력, 아스피린/NSAID 과민반응 병력, 중증 신·간·심장기능 장애 등은 금기. 항응고·항혈소판제 병용과 심혈관 위험도 평가하며 최소 유효 용량으로 단기간 사용 <mark style="color:$info;">[국내 허가사항]</mark>
-* naproxen 건염·윤활낭염: 초회 500 ㎎, 이후 250 ㎎ q6~8h prn(1일 최대 1,250 ㎎; 연령·증상·위험에 따라 조절) <mark style="color:blue;">\[낙센정(250㎎)]</mark>
+  * ✽국내 부루펜 허가상 위장관 궤양·출혈 및 그 병력, 기관지천식 및 그 병력, 아스피린/NSAID 과민반응 병력, 중증 신·간·심장기능 장애, 심한 고혈압, 임신 말기 3개월, 고용량 methotrexate 병용 등은 금기. 항응고·항혈소판제 병용과 심혈관 위험도 평가하며 최소 유효 용량으로 단기간 사용 <mark style="color:$info;">[국내 허가사항]</mark>
+* naproxen 건염·윤활낭염: 초회 500 ㎎, 이후 250 ㎎ q6~8h prn(1일 최대 1,250 ㎎; 초회량 포함, 연령·증상·위험에 따라 조절) <mark style="color:blue;">\[낙센정(250㎎)]</mark>
 
 ### <mark style="color:orange;">국소 주사 치료</mark>
 
 * corticosteroid 국소 주사 : 외측상과염에서 단기 통증 완화는 가능하지만 중·장기 재발/예후를 개선하지 못하고 일부 시점에서는 위약보다 결과가 나쁠 수 있으며, BESS 2023 pathway는 사용하지 말 것을 강하게 권고함. 반복 주사는 건 약화·파열 및 국소 조직 손상 위험이 있어 피함. 트리암주의 국내 허가 효능에 상과염이 포함되어 있더라도 외측상과염의 임상 권고와는 구분함 <mark style="color:$info;">[BESS 2023; 국내 허가사항]</mark>
-* PRP(platelet-rich plasma) : 만성·난치성 lateral elbow tendinopathy에서 개별적으로 고려할 수 있으나 placebo 대비 통증·기능 개선 효과는 입증되지 않았고 근거 수준은 매우 낮음(BESS 2023, conditional neutral); 시행 시 placebo보다 이득이 없을 수 있음을 설명
-* dry needling : 일부 연구에서 통증·기능 개선이 보고됨. BESS 2023은 당시 검토한 근거에서 placebo 대비 이득을 확인할 자료가 부족하므로 이를 설명하도록 권고(conditional neutral); 효과가 없다는 확정이나 강한 비권고를 뜻하지 않으며 통상적인 운동치료를 대체하지 않음
+* PRP(platelet-rich plasma) : 기존 종합근거와 BESS 2023에서는 placebo 대비 일관된 이득이 확인되지 않아 통상 치료로 권고하지 않음. 다만 2026년 71명 대상 이중눈가림 위약 대조시험에서 leukocyte-poor PRP의 생리식염수 대비 이득이 보고됨. 제제 차이·소규모 표본·후향적 시험 등록 및 반복 검증 필요성을 고려하면 모든 PRP 제제의 효과가 확립되었다고 볼 수 없음; 난치성 사례에서 불확실성·비용을 설명한 뒤 전문의와 개별 검토 <mark style="color:$info;">[BESS 2023; Wałecka 등 2026]</mark>
+* 자가전혈(autologous whole blood) 주사 : PRP와 구분하며 외측상과염에 통상 사용하지 않음(BESS 2023, conditional against)
+* dry needling : 일부 연구에서 통증·기능 개선이 보고됨. BESS 2023은 당시 검토한 근거에서 placebo 대비 이득을 확인할 자료가 부족하므로 이를 설명하도록 권고(conditional neutral); 효과가 없다는 확정이나 강한 비권고를 뜻하지 않음. 2025~2026년 추가 소규모 시험에서 이득이 보고되었으나 비위약 비교·복합 중재·짧은 추적 등의 한계가 있어 장기적인 위약 대비 효과가 확립되었다고 설명하지 않으며, 통상적인 운동치료를 대체하지 않음
 
 {% hint style="info" %}
 **외측상과염 주사 치료의 위치**\
@@ -202,7 +212,7 @@ BESS 2023 경로에서는 활동/부하 조절과 운동치료를 중심으로 �
 ### <mark style="color:orange;">의뢰 및 추가 치료</mark>
 
 * 외측상과염은 12~24주의 적절한 활동 조절·운동치료에도 호전이 불충분하면 진단을 재평가하고 정형외과 의뢰 고려; 진행성 신경마비·힘줄 완전파열 등은 기다리지 않고 조기 평가
-* ESWT(체외충격파) : 외측상과염에서 BESS 2023 pathway는 사용하지 말 것을 강하게 권고함
+* ESWT(체외충격파) : 외측상과염에서 BESS 2023 pathway는 사용하지 말 것을 강하게 권고함. 2026년 43명 대상 무작위시험에서도 운동치료에 병행한 치료 용량 rESWT는 최소 용량 rESWT보다 우월하지 않았음; 이는 모든 ESWT 방식의 동등성·무효를 확정한 결과는 아님
 * botulinum toxin : 일부 난치성 tendinopathy에서 연구되었으나 근력저하 등 부작용과 제한된 근거로 routine 치료는 아님
 * 수술(open/arthroscopic release) : 장기간의 적절한 비수술적 치료에도 심한 통증·기능 제한이 지속되는 일부 환자에서 전문의와 개별 검토; placebo surgery 대비 명확한 우월성이 입증되지 않았음을 설명(BESS 2023, conditional neutral)
 
@@ -210,9 +220,13 @@ BESS 2023 경로에서는 활동/부하 조절과 운동치료를 중심으로 �
 
 ### <mark style="color:red;">질병코드</mark>
 
-M25.52 관절통, 위팔 Pain in joint, upper arm (팔꿈치 포함; 원인 미확정 관절통)
+M25.52 관절통, 위팔 Pain in joint, upper arm (KCD-9에 ‘관절통, 팔꿈치관절’도 동일 코드로 수록; 원인 미확정 관절통)
 
-M70.2 주두윤활낭염 Olecranon bursitis
+M70.2 주두윤활낭염 Olecranon bursitis (사용·과사용·압박 관련 비감염성 병변)
+
+M71.12 기타 감염성 윤활낭염, 위팔 Other infective bursitis, upper arm (팔꿈치 포함; 감염성 병변에 해당할 때)
+
+M71.02 윤활낭의 농양, 위팔 Abscess of bursa, upper arm (팔꿈치 포함; 농양이 확인된 경우)
 
 M77.0 내측상과염 Medial epicondylitis
 
@@ -221,6 +235,10 @@ M77.1 외측상과염 Lateral epicondylitis
 G56.2 척골신경의 병변 Lesion of ulnar nerve
 
 G56.3 요골신경의 병변 Lesion of radial nerve
+
+S53.0 요골머리의 탈구 Dislocation of radial head (요골두 아탈구 등 해당 손상 진단 시)
+
+✽ 위 코드는 저장된 KCD9_251216(6).xlsx의 「상병분류기호(완전코드)」 시트와 대조함. 원인이 확진되면 원인 진단을 우선하며, 감염성 윤활낭염·농양을 M70.2로 일괄 분류하지 않음. 미국 ICD-10-CM의 좌우 세분코드를 그대로 적용하지 않음
 
 ✽ 원위부 biceps tendon 병변은 M75.2(어깨 부위 이두근 힘줄염)에 해당하지 않으므로 본 코드 목록에서 제외함. 실제 청구 시 병변 형태(건병증/파열 등)에 맞는 KCD 코드를 확인
 
@@ -268,11 +286,12 @@ G56.3 요골신경의 병변 Lesion of radial nerve
 
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
-> **NSAID 사용 원칙**
+> **진통제 사용 원칙**
 >
 > * 가능한 최소 유효 용량으로 필요한 기간만 사용. 부루펜은 위장관 궤양·출혈 및 그 병력 등에서 국내 허가상 금기이므로 PPI를 병용하여 사용하지 않음. 고령·항응고제 병용 등 추가 위험인자가 있으면 약제별 금기를 먼저 확인하고 PPI 병용 또는 다른 진통 전략 고려
 > * 위장 불편이 있으면 음식과 함께 또는 식후 복용할 수 있으나, 식후 복용이 위궤양·출혈 위험 자체를 없애는 것은 아님
 > * 신기능 저하·탈수, 이뇨제와 ACE 억제제/ARB 병용에서는 급성 콩팥손상 위험을 평가하고 필요 시 크레아티닌·칼륨 확인. 중증 신장애는 부루펜 금기
+> * acetaminophen은 감기약·복합진통제에 포함된 함량까지 합산하고 술과 함께 복용하지 않음; 정해진 최대량을 넘겨 복용했다면 증상이 없어도 즉시 평가
 > * 다른 경구 NSAID와 중복 복용하지 않음. 임신 20주 이후는 태아 신기능·양수에 대한 위험 때문에 가급적 피하며 필요한 경우 의료진이 개별 판단; 부루펜은 임신 말기 3개월 금기
 > * 저용량 아스피린 복용자는 출혈 위험과 이부프로펜의 항혈소판 효과 간섭을 함께 고려하여 진통제를 선택
 
@@ -295,6 +314,40 @@ G56.3 요골신경의 병변 Lesion of radial nerve
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [BESS patient care pathway: Tennis elbow (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10395404/) — 운동치료, 주사·체외충격파, 의뢰 시점.
+* [BESS: Tennis Elbow, patient information and exercises](https://bess.ac.uk/tennis-elbow/) — 환자 자가관리와 6~12주 무호전 시 재진 안내.
+* [AAOS OrthoInfo: Ulnar Collateral Ligament Injury](https://www.orthoinfo.org/diseases--conditions/ulnar-collateral-ligament-ucl-injury/) — 투구 선수의 보존적·수술적 치료 결정.
+* [EBJIS: SANJO guideline (2023)](https://jbji.copernicus.org/articles/8/29/2023/) — 패혈성 관절염의 긴급 평가와 관절 천자.
+* [ACR Appropriateness Criteria: Acute Elbow and Forearm Pain (2024)](https://acsearch.acr.org/docs/3195154/Narrative/) — 성인의 급성 외상 및 초기 X선이 정상·불확실할 때의 후속 검사.
+* [ACR Appropriateness Criteria: Chronic Elbow Pain (2022)](https://acsearch.acr.org/docs/69423/Narrative/) — 영상검사 선택.
+* [AAFP: Common Superficial Bursitis (2017)](https://www.aafp.org/pubs/afp/issues/2017/0215/p224.html) — 윤활낭 흡인 및 감염 평가.
+* [AAFP: Acute Monoarthritis (2025)](https://www.aafp.org/pubs/afp/issues/2025/0600/acute-monoarthritis.html) — 패혈성 관절염 감별과 관절액 검사.
+* [AAOS OrthoInfo: Biceps Tendon Tear at the Elbow](https://www.orthoinfo.org/diseases--conditions/biceps-tendon-tear-at-the-elbow/) 및 [Triceps Tendon Tear at the Elbow](https://www.orthoinfo.org/diseases--conditions/triceps-tendon-tear-at-the-elbow/) — 원위 건파열의 진단·의뢰.
+* [AAOS OrthoInfo: Cubital Tunnel Syndrome](https://www.orthoinfo.org/diseases--conditions/ulnar-nerve-entrapment-at-the-elbow/) — 감각 분포, 압박·굴곡 회피, 운동 약화 평가.
+* [RCH Clinical Practice Guidelines: Pulled elbow (2023)](https://www.rch.org.au/clinicalguide/guideline_index/Pulled_Elbow/) — 요골두 아탈구의 진단·정복 및 X선 적응증.
+* [AAOS OrthoInfo: Throwing Injuries in the Elbow in Children](https://www.orthoinfo.org/diseases--conditions/throwing-injuries-in-the-elbow-in-children/) — 성장기 투구 손상 감별.
+* [Elbow Instability: Anatomy, Biomechanics, Diagnostic Maneuvers, and Testing (2017)](https://pubmed.ncbi.nlm.nih.gov/28160902/) — valgus stress·milking 검사 방법.
+* [Radial Tunnel Syndrome: Case Report and Comprehensive Critical Review of a Compression Neuropathy Surrounded by Controversy](https://pmc.ncbi.nlm.nih.gov/articles/PMC9896270/) — 요골터널증후군 진단 및 전기진단검사의 한계.
+* [Elbow extension test to rule out elbow fracture (BMJ 2008)](https://www.bmj.com/content/337/bmj.a2428) — 신전검사의 한계와 외상 후 추적 평가.
+
+* [Canadian Shoulder and Elbow Society position statement (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9503571/) — 운동치료·주사의 무치료/위약 대비 효과; 지침 간 해석 차이.
+* [Wałecka 등. PRP 위약 대조시험 (2026)](https://doi.org/10.1007/s00264-025-06719-6) — LP-PRP·LR-PRP·생리식염수 비교, 71명; 공개 초록의 시험 등록 문구 확인.
+* [Wilson 등. PRP 대 corticosteroid 무작위시험 (2026)](https://pubmed.ncbi.nlm.nih.gov/41552627/) — 활성 치료 간 비교로서 위약 대비 효과를 입증하는 연구와 구분.
+* [Wheeler 등. rESWT 무작위시험 (2026)](https://pubmed.ncbi.nlm.nih.gov/42712664/) — 운동 병행 시 치료 용량 대 최소 용량 비교.
+* [Tiryaki·Çelik. 회전근개·견갑대 강화 추가 무작위시험 (2026)](https://pubmed.ncbi.nlm.nih.gov/42177007/) — 운동 구성 개별화의 추가 근거; 공개 초록 확인.
+* [Dry needling과 편심성 운동 대 NSAID와 운동 무작위시험 (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12254548/) 및 [DN+MWM 무작위시험 (2026)](https://doi.org/10.1016/j.jbmt.2026.07.055) — 추가 임상시험의 결과와 비교군·추적 기간 한계.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 타이레놀정500㎎, 부루펜정400㎎, 낙센정250㎎, 트리암주의 국내 품목정보·허가 용법·금기 확인 자료. 트리암주의 상과염 허가와 외측상과염의 임상적 주사 비권고를 구분함.
+* KCD9_251216(6).xlsx — 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」; 기존 6개 코드와 추가 3개 코드의 존재·명칭·완전코드 여부 직접 대조(2026-10-29).
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -313,7 +366,7 @@ G56.3 요골신경의 병변 Lesion of radial nerve
 * **통증을 유발하는 동작을 줄이십시오.** 무거운 물건을 손목을 편 채로 들거나, 반복적으로 손목을 비트는 동작을 피하십시오.
 * **통증이 심할 때 냉찜질을 시도하십시오.** 한 번에 10\~15분 정도 하되 피부에 직접 닿지 않게 수건으로 감싸십시오.
 * **보조대(브레이스)를 활용하십시오.** 팔꿈치 아래쪽에 착용하면 일부 환자에서 활동 중 통증을 줄이는 데 도움이 될 수 있습니다.
-* **통증이 허용하는 범위에서 스트레칭과 근력 운동을 시작하십시오.** 완전히 좋아지기를 기다리지 말고, 참을 만한 수준에서 서서히 시작하는 것이 회복에 도움이 됩니다.
+* **통증이 허용하는 범위에서 스트레칭과 근력 운동을 시작하십시오.** 참을 만한 수준에서 서서히 시작하고, 통증이 뚜렷하게 심해지거나 다음 날까지 악화되면 강도·횟수를 줄이십시오. 회복 속도는 사람마다 다릅니다.
 
 ### <mark style="color:orange;">약은 어떻게 써야 하나요?</mark>
 
@@ -333,28 +386,3 @@ G56.3 요골신경의 병변 Lesion of radial nerve
 
 * 치료를 시작한 뒤 대개 2~4주에 다시 진료를 받아 통증·기능과 운동 방법을 확인하십시오. 더 아프거나 새 증상이 생기면 그보다 일찍 방문하십시오.
 * 활동 조절과 운동을 해도 6~12주 동안 호전이 없으면 진료를 받으십시오. 외측상과염은 적절한 치료를 12~24주 시행해도 충분히 좋아지지 않으면 추가 검사나 전문의 진료를 고려합니다.
-
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [BESS patient care pathway: Tennis elbow (2023)](https://bess.ac.uk/download/1419/patient-care-pathways/21119/tennis-elbow-2023.pdf) — 운동치료, 주사·체외충격파, 의뢰 시점.
-* [BESS: Tennis Elbow, patient information and exercises](https://bess.ac.uk/tennis-elbow/) — 환자 자가관리와 6~12주 무호전 시 재진 안내.
-* [AAOS OrthoInfo: Ulnar Collateral Ligament Injury](https://www.orthoinfo.org/diseases--conditions/ulnar-collateral-ligament-ucl-injury/) — 투구 선수의 보존적·수술적 치료 결정.
-* [EBJIS: SANJO guideline (2023)](https://jbji.copernicus.org/articles/8/29/2023/) — 패혈성 관절염의 긴급 평가와 관절 천자.
-* [ACR Appropriateness Criteria: Acute Elbow and Forearm Pain (2024)](https://acsearch.acr.org/docs/3195154/Narrative/) — 성인의 급성 외상 및 초기 X선이 정상·불확실할 때의 후속 검사.
-* [ACR Appropriateness Criteria: Chronic Elbow Pain (2022)](https://acsearch.acr.org/docs/69423/Narrative/) — 영상검사 선택.
-* [AAFP: Common Superficial Bursitis (2017)](https://www.aafp.org/pubs/afp/issues/2017/0215/p224.html) — 윤활낭 흡인 및 감염 평가.
-* [AAFP: Acute Monoarthritis (2025)](https://www.aafp.org/pubs/afp/issues/2025/0600/acute-monoarthritis.html) — 패혈성 관절염 감별과 관절액 검사.
-* [AAOS OrthoInfo: Biceps Tendon Tear at the Elbow](https://www.orthoinfo.org/diseases--conditions/biceps-tendon-tear-at-the-elbow/) 및 [Triceps Tendon Tear at the Elbow](https://www.orthoinfo.org/diseases--conditions/triceps-tendon-tear-at-the-elbow/) — 원위 건파열의 진단·의뢰.
-* [AAOS OrthoInfo: Cubital Tunnel Syndrome](https://www.orthoinfo.org/diseases--conditions/ulnar-nerve-entrapment-at-the-elbow/) — 감각 분포, 압박·굴곡 회피, 운동 약화 평가.
-* [RCH Clinical Practice Guidelines: Pulled elbow (2023)](https://www.rch.org.au/clinicalguide/guideline_index/Pulled_Elbow/) — 요골두 아탈구의 진단·정복 및 X선 적응증.
-* [AAOS OrthoInfo: Throwing Injuries in the Elbow in Children](https://www.orthoinfo.org/diseases--conditions/throwing-injuries-in-the-elbow-in-children/) — 성장기 투구 손상 감별.
-* [Elbow Instability: Anatomy, Biomechanics, Diagnostic Maneuvers, and Testing (2017)](https://pubmed.ncbi.nlm.nih.gov/28160902/) — valgus stress·milking 검사 방법.
-* [Radial Tunnel Syndrome: Case Report and Comprehensive Critical Review of a Compression Neuropathy Surrounded by Controversy](https://pmc.ncbi.nlm.nih.gov/articles/PMC9896270/) — 요골터널증후군 진단 및 전기진단검사의 한계.
-* [Elbow extension test to rule out elbow fracture (BMJ 2008)](https://www.bmj.com/content/337/bmj.a2428) — 신전검사의 한계와 외상 후 추적 평가.
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/) — 타이레놀정500㎎, 부루펜정400㎎, 낙센정250㎎, 트리암주의 국내 품목정보·허가 용법·금기 확인 자료. 트리암주의 상과염 허가와 외측상과염의 임상적 주사 비권고를 구분함.
