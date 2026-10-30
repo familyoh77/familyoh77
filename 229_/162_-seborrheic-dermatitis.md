@@ -4,7 +4,7 @@
 
 * 피지 분비가 많은 부위에 홍반과 비늘이 반복되는 만성 재발성 염증성 피부질환
 * 비듬(dandruff)은 두피에 국한된 경증형 또는 지루피부염과 연속선상에 있는 상태로 간주
-* 만성적으로 경과하면서 간헐적인 악화(active phase)를 보임
+* 성인형은 만성적으로 경과하면서 간헐적인 악화(active phase)를 보임; 영아형은 대개 자연 호전되며 성인형으로 반드시 이어지는 것은 아님
 * 계절적 변화 : 겨울\~이른 봄에 악화되는 경우가 많고 여름에 호전되는 경향
 * 유병률 : 성인에서 수% 정도로 흔하며 연구·진단 기준에 따라 차이가 큼; 비듬 수준의 경증형까지 포함하면 더 흔함; 영아형은 생후 수개월 내 흔함
 * 분포
@@ -25,9 +25,9 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-* 비듬 : fine, white scale
-* 심한 경우 yellowish, greasy scale 및 각질 아래 붉은 염증성 반/판
-* 가려움(보통 경증), 작열감; active phase 시 자각 증상 악화
+* 비듬 : 미세한 흰색 인설(fine, white scale); 염증이 거의 없거나 경미함
+* 전형적으로 황색의 기름진 인설과 각질 아래 홍반성 반/판; 건조한 흰색 인설만 나타날 수도 있음
+* 가려움(개인차가 있으며 두피에서는 심할 수 있음), 작열감; 악화기에 자각 증상 증가
 * 대개 피지 분비가 많은 부위에 대칭적으로 발생
 * 피부색이 짙은 환자에서는 홍반이 뚜렷하지 않을 수 있으며, 저색소성 미세 인설 또는 염증 후 색소 변화가 두드러질 수 있음(AFP, 2025)
 * 갑자기 매우 심해지거나 광범위하게 발생한 경우에는 면역저하 등 기저질환 가능성을 고려; 병력·위험요인과 동반 소견에 따라 HIV 검사 등을 시행하며, 지루피부염만으로 모든 환자에게 HIV 검사를 일률적으로 시행하지는 않음
@@ -42,7 +42,7 @@
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 퍼지는 발적·열감·부종·압통  `연조직염 의심`
-* 탈모·broken hair에 통증성 부종·농포·농성 분비물 동반  `독창·염증성 두부백선 의심`
+* 탈모·broken hair에 통증성 부종·농포·농성 분비물 동반 **(당일)**  `독창·염증성 두부백선 의심`
 * 안통·눈부심·시력저하 **(당일 안과 평가)**  `각막·안구 질환 감별`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
@@ -74,32 +74,37 @@
 * **입주위/구주위 피부염(periorificial dermatitis)** : 입·코·눈 주변의 작은 papule/pustule이 우세하고 장기간의 얼굴 steroid 사용력과 연관될 수 있음
 * **안검염(blepharitis)** : 지루피부염과 동반될 수 있으며 눈꺼풀 가장자리 인설·발적, 이물감 등을 확인; 안통·눈부심·시력저하는 당일 안과 평가
 * oozing & crusting, 농포, 통증 증가 시 2차 세균감염 감별
-* 진단이 불명확하거나 비전형적인 경우 **매우 드물게** cutaneous lupus 등 다른 염증성 피부질환 감별
+* 광과민성·흉터성 탈모·위축 등 비전형적 소견이 있으면 피부루푸스 등 다른 염증성 피부질환 감별
+* 영아에서 광범위하고 치료에 반응하지 않는 발진에 점상출혈·자반·미란, 성장부진 또는 반복감염이 동반되면 Langerhans 세포 조직구증·면역결핍 등도 감별하여 전문 평가
 
 ***
 
 ```mermaid
-graph TD
-    Start(["위험 징후 배제 후 지루피부염 진단"]) ---> Area{"침범 부위?"}
-    Area --->|두피| Scalp["항진균 샴푸: 제품별 용법<br/>노비프록스는 약 2주 무호전 시 중지·상담"]
-    Area --->|얼굴·간찰부| Face["ketoconazole 크림: 1일 1~2회, 2~4주"]
-    Scalp ---> ScalpSev{"염증·가려움이 뚜렷한가?"}
-    Face ---> FaceSev{"염증·가려움이 뚜렷한가?"}
-    ScalpSev --->|예| ScalpAnti["적절한 역가 steroid 단기 병용"]
-    FaceSev --->|예| FaceAnti["저역가 steroid 단기 병용"]
-    ScalpSev --->|아니오| Response{"제품별 평가 시점에 호전?"}
-    FaceSev --->|아니오| Response
-    ScalpAnti ---> Response
-    FaceAnti ---> Response
-    Response --->|예| Maintain["재발이 잦으면 부위·제품별 유지요법"]
-    Response --->|미호전| Reassess["진단·사용법·순응도 재평가"]
-    Reassess ---> OtherDx{"다른 진단 확인?"}
-    OtherDx --->|예| OtherTx["해당 질환 치료; 두부백선은 전신치료 필요"]
-    OtherDx --->|아니오| Derm["피부과 협진; 중증·난치성은 전신치료 검토"]
-    Maintain --->|얼굴 반복 재발| Calcineurin["calcineurin 억제제 고려: 허가 외 사용"]
+flowchart TD
+    Start(["지루피부염 의심"]) --> Red{"위험 징후?"}
+    Red -->|예| Urgent(["중증도에 따라 즉각 조치 또는 당일 평가"])
+    Red -->|아니오| Dx["분포·인설 확인; 비전형적이면 감별검사"]
+    Dx --> Infant{"영아인가?"}
+    Infant -->|예| Baby["보존적 관리 우선; 지속·광범위하면 진료"]
+    Baby --> BabyEnd(["호전 확인; 이상 소견 시 전문 평가"])
+    Infant -->|아니오| Area{"주 침범 부위?"}
+    Area -->|두피| Scalp["항진균 샴푸; 제품별 횟수·접촉 시간 준수"]
+    Area -->|얼굴·간찰부| Face["항진균 크림; 보통 2~4주"]
+    Scalp --> Inflammation{"염증·가려움이 뚜렷한가?"}
+    Face --> Inflammation
+    Inflammation -->|예| Anti["부위에 맞는 steroid 단기 병용; 얼굴은 저역가"]
+    Inflammation -->|아니오| Response{"제품별 평가 시점에 호전?"}
+    Anti --> Response
+    Response -->|예| Maintain(["재발 시 간헐적 항진균 유지; 얼굴은 TCI 허가 외 고려"])
+    Response -->|아니오| Reassess["진단·사용법·접촉알레르기·순응도 재평가"]
+    Reassess --> Other{"다른 질환 확인?"}
+    Other -->|예| OtherTx(["해당 질환 치료; 두부백선은 전신치료"])
+    Other -->|아니오| Derm(["피부과 협진; 중증·난치성 치료 검토"])
 ```
 
 <p align="center"><strong>지루피부염 진단 및 치료 알고리듬</strong></p>
+
+* 노비프록스액은 약 2주 무호전 시 중지·상담. TCI는 국소 calcineurin 억제제이며 지루피부염에는 허가 외 사용.
 
 ***
 
@@ -107,13 +112,15 @@ graph TD
 
 ### <mark style="color:orange;">치료 방침</mark>
 
+* 목표는 증상 조절과 재발 감소. 2026년 유럽 전문가 합의에서도 급성기 치료 후 간헐적 항진균 유지요법 및 steroid 사용을 줄이는 전략을 강조함. 성인 중심 합의이며 국내 허가사항을 대체하지 않음. <mark style="color:$info;">[Naldi, et al. JEADV. 2026]</mark>
+
 * **급성기**
   * 경증 : 국소 항진균제(ketoconazole, ciclopirox) 또는 항비듬 샴푸를 우선 사용
   * 염증 및 가려움이 뚜렷한 경우 : 국소 항진균제 + 국소 steroid의 단기간 병용
   * 얼굴/간찰부에서 반복적으로 재발하거나 steroid 반복 사용을 피해야 하는 경우 : topical calcineurin inhibitor를 steroid-sparing option으로 고려(off-label)
 * **유지요법**
   * 두피 : 재발이 잦으면 항진균 샴푸를 간헐적으로 지속; ketoconazole 2%액은 국내 허가에 따라 1\~2주마다 1회 재발방지 용법 사용
-  * 얼굴/몸통 : 재발 양상에 따라 항진균 크림을 주 1\~2회 등 간헐적으로 사용하거나 재발 초기에 치료; 샴푸와 크림의 유지 빈도를 일률적으로 동일하게 적용하지 않음
+  * 얼굴/몸통 : 재발 양상에 따라 항진균 크림을 주 1\~2회 등 간헐적으로 사용하거나 재발 초기에 치료; 구체적 유지 빈도는 임상적 선택이며, 코모졸크림의 국내 허가에 정해진 주 1\~2회 재발방지 용법이 있는 것으로 해석하지 않음
 * 악화 요인 회피 : 두피에 자극적인 hair spray, hair pomade, 염색제 등과의 관련이 있으면 중단/변경
 * 충분한 국소치료에도 반응이 없으면 단순히 약제를 강화하기 전에 진단, 사용법 및 순응도를 재평가. 노비프록스는 국내 허가사항에 따라 **약 2주 사용 후에도 개선이 없으면 중지하고 상담**하며, 모든 제제에서 4주까지 평가를 미루지 않음
 
@@ -134,10 +141,10 @@ graph TD
 * **크림** : ketoconazole 2% <mark style="color:blue;">\[코모졸크림]</mark> 등, 보통 1일 1회; 중증도에 따라 1일 2회 사용 가능. 대개 2\~4주 치료하며 증상이 소실된 후에도 수일간 지속 (☞ p.925)
 * **항진균 샴푸(일반의약품·비급여)**
 
-| 성분 및 국내 제품 | 급성기 용법 | 재발방지/유지요법 및 사용법 |
-| --- | --- | --- |
-| ketoconazole 2% <mark style="color:blue;">\[니조랄2%액]</mark> | 주 2회, 2\~4주 | 국내 허가 재발방지 용법: 1\~2주마다 1회; 3\~5분 접촉 후 충분히 헹굼 |
-| **ciclopirox olamine 1.5%** <mark style="color:blue;">\[노비프록스액]</mark> | 국내 허가: 주 2\~3회 또는 필요 시 사용; 약 2주 무호전 시 중지·상담 | 재발이 잦으면 주 1회 등 간헐적 유지 사용 고려(임상적 유지요법); 3\~5분 접촉 후 충분히 헹굼 |
+<table><thead><tr><th>성분 및 국내 제품</th><th>급성기 용법</th><th>재발방지/유지요법 및 사용법</th></tr></thead><tbody>
+<tr><td>ketoconazole 2% <mark style="color:blue;">[니조랄2%액]</mark></td><td>주 2회, 2~4주</td><td>국내 허가 재발방지 용법: 1~2주마다 1회; 3~5분 접촉 후 충분히 헹굼</td></tr>
+<tr><td><strong>ciclopirox olamine 1.5%</strong> <mark style="color:blue;">[노비프록스액]</mark></td><td>국내 허가: 주 2~3회 또는 필요 시 사용; 약 2주 무호전 시 중지·상담</td><td>재발이 잦으면 주 1회 등 간헐적 유지 사용 고려(임상적 유지요법); 3~5분 접촉 후 충분히 헹굼</td></tr>
+</tbody></table>
 
 * 노비프록스의 국내 성분·농도는 **시클로피록스올아민 1.5%**이며, 국외 ciclopirox 1% 샴푸와 구분
 * **노비프록스 연령·특수군** : 국내 허가사항에서 **12세 미만 소아 및 임신부·수유부는 사용 전 의사·약사와 상의할 대상**으로 기재됨. 소아 사용 여부는 개별 평가하며, 영아의 cradle cap에 성인용 처방을 그대로 적용하지 않음. <mark style="color:$info;">[노비프록스 국내 허가사항 전재본]</mark>
@@ -150,10 +157,10 @@ graph TD
 * 대상 : 항진균 샴푸/외용제만으로 조절되지 않는 뚜렷한 가려움·홍반 또는 급성 악화 (☞ p.1139)
 * **두피** : 병변 중증도에 따라 적절한 역가를 단기간 사용
   * 심한 flare에 한해 clobetasol propionate <mark style="color:blue;">\[더모베이트액]</mark> 등 **매우 강한 역가(superpotent)** 제제를 병변에 제한하여 짧게 사용; 경증의 기본 처방으로 사용하지 않음
-  * 더모베이트액은 1일 1\~2회 사용하며 **2주 이상 연속 사용 및 주 50 ㎖를 넘는 사용을 피함**; 건조한 두피에 적용하고 얼굴·눈꺼풀·간찰부에는 사용하지 않음
-* 더모베이트액은 두피용 액제로, 허가취소일이 표시된 더모베이트연고와 별도 품목임. 연고의 취소를 이유로 액제까지 일괄 제외하지 않음. <mark style="color:$info;">[약학정보원 품목별 허가정보; 2026-10-24 확인]</mark>
-* 더모베이트액의 알코올 함유 제형은 **도포 중·직후 화기·흡연을 피함**. 소아, 특히 24개월 미만 영아에게 성인 처방을 적용하지 않음(24개월 미만은 국내 금기).
-* **얼굴, 간찰부** : hydrocortisone 1% <mark style="color:blue;">\[락티케어에취씨로션1%]</mark> 등 저역가 제제를 얇게 사용; 대개 5\~7일 이내 호전을 확인하고 중단하며, 필요 시 진찰 후 최장 1\~2주 정도로 제한
+  * 더모베이트액은 1일 1\~2회 사용하며 **2주 이상 연속 사용 또는 주 50 ㎖ 이상 사용을 하지 않음**; 건조한 두피에 적용하고 얼굴·눈꺼풀·간찰부에는 사용하지 않음
+* 더모베이트액은 두피용 액제로 별도 품목이며, 국내 허가상 치료면적은 체표면적의 20%를 초과하지 않음. 백선·농가진 등 두피감염이 의심되면 사용에 앞서 감별하고 감염을 치료함. <mark style="color:$info;">[식약처 더모베이트액 허가사항; 2026-10-30 확인]</mark>
+* 더모베이트액은 가연성이므로 **도포 중·직후 화기·흡연·헤어드라이기 등 열원을 피함**. 국내 허가상 **24개월 미만 금기, 24개월 이상 18세 미만 사용 비권장**; 소아에게 성인 처방을 적용하지 않음.
+* **얼굴, 간찰부** : hydrocortisone 1% <mark style="color:blue;">\[락티케어에취씨로션1%]</mark> 등 저역가 제제를 얇게 사용; 보통 5\~7일 이내 호전을 확인하고 중단. **락티케어에취씨로션1%는 국내 허가상 치료기간 7일 이내**로 제한하며 사용 전 잘 흔듦(허가 용법 1일 1\~3회; 본 장에서는 보통 1일 1\~2회 사용). 지속되면 진단·치료전략을 재평가
 * 일반적으로 병변 부위에 1일 1\~2회 적용하며, 고역가 steroid는 장기 연속 사용을 피함
 * 주의 : 장기간·반복 사용 시 피부 위축, 모세혈관확장, steroid rosacea/periorificial dermatitis 등 부작용 위험이 증가하므로 특히 얼굴에는 반복적 장기 사용을 피함
 * 눈꺼풀에는 피부용 약제를 임의로 적용하지 않으며, steroid 반복 사용 시 안압 상승·녹내장·백내장 위험에 주의; 안검염 동반 시 눈꺼풀 위생 관리 및 필요 시 안과 협진
@@ -180,23 +187,46 @@ graph TD
 * **fluconazole** : 위약대조 연구에서는 **300 ㎎을 주 1회 ×2주** 사용했으나 군 간 유의한 차이가 없었음; 일상적 처방이나 표준 대안으로 권장하기 어려움
 * 장기간의 연속 경구 azole 치료는 지루피부염의 일반적인 치료법으로 사용하지 않음
 
+### <mark style="color:orange;">기타 전신치료 - 전문 진료</mark>
+
+* 저용량 경구 isotretinoin은 피지 분비가 많고 국소치료에 반응하지 않는 일부 중등도~중증 환자에서 피부과가 고려할 수 있는 **허가 외 치료**. 소규모 비교연구 및 2026년 전문가 합의가 있으나 1차 치료나 표준 유지요법으로 제시하지 않음.
+* 임신 중 금기이며 임신예방·검사, 간기능·공복 지질 및 병용약 검토가 필요하므로 본 장의 일상 처방례에는 포함하지 않음. <mark style="color:$info;">[Kamamoto, et al. 2017; Naldi, et al. 2026]</mark>
+
 ### <mark style="color:orange;">해외 치료 참고</mark>
 
-* **roflumilast foam 0.3% [Zoryve]** : 미국 FDA 허가상 **9세 이상** 지루피부염에 1일 1회 사용하는 국소 PDE-4 억제제. 국내 처방례와 구분하여 해외 치료 동향으로 소개하며, 경구 roflumilast 또는 다른 농도·크림 제형으로 대체하지 않음.
+* **roflumilast foam 0.3% [Zoryve]** : 미국 FDA 허가상 **9세 이상** 지루피부염에 1일 1회 사용하는 국소 PDE-4 억제제. 국내 허가·유통을 확인한 처방례가 아니므로 해외 치료 동향으로 소개함. 경구 roflumilast 또는 다른 농도·크림 제형으로 대체하지 않음.
   * 미국 허가상 중등도\~중증 간장애(Child-Pugh B/C)는 금기. 젖지 않은 피부·두피에 도포하며 가연성 제형이므로 도포 중·직후 화기·흡연을 피함. <mark style="color:$info;">[FDA Zoryve foam 허가사항]</mark>
-  * **최신 장기 자료** : 2026년 발표된 2상 공개시험(400명; 52주 치료 계획 등록자는 62명)에서 최대 52주까지 내약성과 효과 지속을 관찰함. 대조군이 없고 장기 관찰 집단이 작으므로, 기존 항진균제보다 우월하거나 장기간 위험이 없다고 해석하지 않음. <mark style="color:$info;">[Alexis AF, et al. Am J Clin Dermatol. 2026;27:189–198]</mark>
+  * **유효성 근거** : STRATUM 3상에서 8주 IGA 성공률(병변 소실/거의 소실 및 기저치 대비 2단계 이상 호전)은 79.5% 대 기제군 58.0%. 항진균제·TCI와의 직접 비교 결과는 아님. <mark style="color:$info;">[Blauvelt, et al. JAAD. 2024]</mark>
+  * **최신 장기 자료** : 2025년 11월 온라인 선게재·2026년 1월 정식 출판된 2상 공개시험(12세 이상 400명; 52주 치료 계획 등록자는 62명)에서 최대 52주까지 내약성과 효과 지속을 관찰함. 대조군이 없고 장기 관찰 집단이 작으므로, 기존 항진균제보다 우월하거나 장기간 위험이 없다고 해석하지 않음. <mark style="color:$info;">[Alexis AF, et al. Am J Clin Dermatol. 2026;27:189–198]</mark>
+
+### <mark style="color:orange;">영아 지루피부염 - 특수 상황</mark>
+
+* 두피의 아기머릿기름딱지(cradle cap)와 얼굴·몸통·접힘부위 병변을 구분하여 평가; 보통 생후 수주~수개월에 시작하며 대부분 생후 6~12개월까지 호전
+
+* 대부분 수개월에 걸쳐 자연 호전되므로 보존적 치료가 우선. 뚜렷한 통증·심한 가려움·탈모·악취가 있으면 전형적인 cradle cap으로 단정하지 않고 진료함
+* 무향 영아용 샴푸로 세정. 두꺼운 인설에는 소량의 **비식품성 오일(예: mineral oil)**로 미리 부드럽게 한 뒤 부드러운 솔/빗으로 느슨해진 각질만 제거하고 샴푸로 잔여 오일을 씻어냄; 각질을 억지로 긁거나 떼지 않음
+* 성인용 약용 샴푸·salicylic acid 함유제·강한 steroid를 보호자가 임의로 사용하지 않음
+* 홍반·염증이 뚜렷하거나 지속되는 경우 진료 후 hydrocortisone 1% 등 저역가 국소 steroid를 소범위에 5\~7일 정도 짧게 고려; 영아에서 제제별 금기·허가사항을 확인하고 기저귀 아래/밀봉 상태·넓은 부위의 장기 사용을 피함
+* 항진균 외용제는 진료 후 필요성을 판단하고 영아 허가·안전성 자료가 제한적일 수 있음을 고려
+* 광범위하거나 치료에 반응하지 않고 성장부진, 반복감염 등 다른 이상 소견이 동반되면 아토피피부염, 감염, 면역저하 등 다른 질환을 재평가; 점상출혈·자반·미란이 있으면 Langerhans 세포 조직구증도 감별
+
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+* 보통 시술은 필요하지 않음. 광범위하고 국소치료에 반응하지 않는 경우 피부과에서 UVB 광선치료 등을 선별 고려할 수 있으나 장기 근거가 제한적임; 일광욕·태닝을 자가치료로 권하지 않음.
 
 ***
 
 ## <mark style="color:red;">질병코드</mark>
 
-| 코드 | 한글 | 영문 |
-| --- | --- | --- |
-| L21 | 지루피부염 | Seborrhoeic dermatitis |
-| L21.0 | 두피지루 | Seborrhoea capitis |
-| L21.1 | 영아지루피부염 | Seborrhoeic infantile dermatitis |
-| L21.8 | 기타 지루피부염 | Other seborrhoeic dermatitis |
-| L21.9 | 상세불명의 지루피부염 | Seborrhoeic dermatitis, unspecified |
+<table><thead><tr><th>코드</th><th>한글</th><th>영문</th><th>선택 시 참고</th></tr></thead><tbody>
+<tr><td>L21</td><td>지루피부염</td><td>Seborrhoeic dermatitis</td><td>상위 분류·불완전코드; 아래 세부코드 선택</td></tr>
+<tr><td>L21.0</td><td>두피지루</td><td>Seborrhoea capitis</td><td>포함: 아기머릿기름딱지(Cradle cap)</td></tr>
+<tr><td>L21.1</td><td>영아지루피부염</td><td>Seborrhoeic infantile dermatitis</td><td>영아지루피부염; 두피 cradle cap의 L21.0 포함항목을 함께 고려</td></tr>
+<tr><td>L21.8</td><td>기타 지루피부염</td><td>Other seborrhoeic dermatitis</td><td>기타로 명시된 경우</td></tr>
+<tr><td>L21.9</td><td>상세불명의 지루피부염</td><td>Seborrhoeic dermatitis, unspecified</td><td>형태·부위 등을 상세히 특정하지 못한 경우</td></tr>
+</tbody></table>
+
+* KCD9_251216(6).xlsx의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」와 대조(2026-10-30). 엑셀의 L210·L211·L218·L219에 표시용 소수점을 붙임. L21은 완전코드 시트에 없으며 L21.0·L21.1·L21.8·L21.9 중 해당 세부코드로 기록함.
 
 ***
 
@@ -221,7 +251,7 @@ graph TD
 > 더모베이트액  건조한 두피 병변에 얇게 qd ×7일
 > ```
 >
-> _✽노비프록스는 약 2주 무호전 시 중지·상담. 더모베이트액은 매우 강한 역가 제제이므로 심한 두피 염증에 제한; 호전되면 즉시 중단하고 7일째 재평가. 2주 이상 연속 사용 및 주 50 ㎖ 초과 사용을 피하며 얼굴·눈꺼풀에는 사용하지 않음_
+> _✽노비프록스는 약 2주 무호전 시 중지·상담. 더모베이트액은 매우 강한 역가 제제이므로 심한 두피 염증에 제한; 호전되면 즉시 중단하고 7일째 재평가. 2주 이상 연속 사용 및 주 50 ㎖ 이상 사용을 피하며 얼굴·눈꺼풀에는 사용하지 않음_
 
 > **처방례 3. 반복성 얼굴 지루피부염**
 >
@@ -252,7 +282,7 @@ graph TD
 
 > **스테로이드 외용제는 단기간만 사용하도록 안내하십시오**
 >
-> * 두피는 병변 중증도에 맞는 역가를 짧게 사용하고, 더모베이트액 같은 초고역가 제제는 심한 악화에 제한하여 사용합니다. 2주 이상 연속 사용 및 주 50 ㎖ 초과 사용을 피합니다. 얼굴·간찰부에는 저역가 제제를 보통 5\~7일 정도 사용하고 호전을 확인하여 중단합니다.
+> * 두피는 병변 중증도에 맞는 역가를 짧게 사용하고, 더모베이트액 같은 초고역가 제제는 심한 악화에 제한하여 사용합니다. 2주 이상 연속 사용 및 주 50 ㎖ 이상 사용을 피합니다. 얼굴·간찰부에는 저역가 제제를 보통 5\~7일 정도 사용하고 호전을 확인하여 중단합니다.
 > * 반복적·장기적으로 사용하면 피부 위축, 모세혈관확장, steroid rosacea/periorificial dermatitis가 발생할 수 있음을 설명하고, 남은 약을 임의로 장기간 사용하지 않도록 안내하십시오.
 > * 얼굴에 반복 재발하여 steroid 반복 사용을 피해야 하는 경우 calcineurin 억제제(pimecrolimus, tacrolimus) 사용을 고려할 수 있음을 설명하십시오.
 
@@ -267,6 +297,40 @@ graph TD
 > * 병변 부위에 탈모, 국소 림프절병증이 동반되는 경우
 > * 갑자기 광범위하고 심하게 악화되는 경우 - 기저 면역저하 질환 감별 필요
 > * 얼굴에 스테로이드를 사용한 후 오히려 발적·여드름양 병변이 생기는 경우 - 추가 사용을 보류하고 내원; 이미 장기간 연용한 경우 감량·중단 방법을 진료 시 결정
+
+***
+
+## <mark style="color:blue;">주요 참고문헌 및 확인 자료</mark>
+
+* 임상 근거 및 허가자료 확인일: 2026-10-30.
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Naldi L, et al. [Practical recommendations for seborrheic dermatitis management: An expert consensus](https://doi.org/10.1111/jdv.70444). J Eur Acad Dermatol Venereol. 2026;40(9):1460–1468. 성인 중심 Delphi 합의; 국내 허가사항과 구분.
+* LeFevre NM, Braudis K, Feigenbaum LS. [Seborrheic Dermatitis: Diagnosis and Treatment](https://www.aafp.org/afp/2025/0800/seborrheic-dermatitis). Am Fam Physician. 2025;112(2):166–173.
+* [Proactive treatment of adult facial seborrhoeic dermatitis with 0.1% tacrolimus ointment](https://pubmed.ncbi.nlm.nih.gov/23388687/). Acta Derm Venereol. 2013. 성인 얼굴 병변의 주 2회 유지요법; 지루피부염에는 국내 허가 외 사용.
+* Kose O, et al. [Oral itraconazole for the treatment of seborrhoeic dermatitis: an open, noncomparative trial](https://pubmed.ncbi.nlm.nih.gov/15752285/). J Eur Acad Dermatol Venereol. 2005;19(2):172–175.
+* Ghodsi SZ, et al. [Efficacy of Oral Itraconazole in the Treatment and Relapse Prevention of Moderate to Severe Seborrheic Dermatitis](https://pubmed.ncbi.nlm.nih.gov/26016699/). Am J Clin Dermatol. 2015;16(5):431–437.
+* [Efficacy of oral fluconazole in the treatment of seborrheic dermatitis: a placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/17645378/). Am J Clin Dermatol. 2007.
+* Blauvelt A, et al. [Roflumilast foam 0.3% for adolescent and adult patients with seborrheic dermatitis: A randomized, double-blinded, vehicle-controlled, phase 3 trial](https://pubmed.ncbi.nlm.nih.gov/38253129/). J Am Acad Dermatol. 2024;90(5):986–993.
+* Kamamoto CSL, et al. [Low-dose oral isotretinoin for moderate to severe seborrhea and seborrheic dermatitis: a randomized comparative trial](https://pubmed.ncbi.nlm.nih.gov/27778328/). Int J Dermatol. 2017;56(1):80–85.
+* Alexis AF, et al. [Long-Term Safety and Efficacy of Roflumilast Foam 0.3% in Patients with Seborrheic Dermatitis: A Phase II, Open-Label Trial of up to 52 Weeks](https://doi.org/10.1007/s40257-025-00984-2). Am J Clin Dermatol. 2026;27(1):189–198.
+* [AAP. Seborrheic Dermatitis](https://doi.org/10.1542/aap.ppcqr.396224). 영아의 비전형적·난치성 병변 및 Langerhans 세포 조직구증 감별 참고.
+* [Seborrheic-like dermatitis and liver dysfunction in an infant: signs of Langerhans cell histiocytosis](https://pubmed.ncbi.nlm.nih.gov/34839984/). 영아 감별진단 증례.
+* [AAD. How to treat cradle cap](https://www.aad.org/public/everyday-care/hair-scalp-care/scalp/treat-cradle-cap).
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/). 국내 허가 확인의 기준 자료. 더모베이트액(품목기준코드 200209642), 락티케어에취씨로션1%(201201043), 엘리델크림1%(200209697)의 용법·주의사항 직접 확인; 기타 제품은 제조사 제품정보·첨부문서와 함께 검토.
+* [약학정보원](https://www.health.kr/). 노비프록스액 국내 허가사항 전재 본문(12세 미만·임신부·수유부 사전 상담, 약 2주 무호전 시 중지·상담) 및 더모베이트액 용법·주의사항 확인.
+* 제조사 제품정보·설명서: 태극제약 노비프록스액, 휴온스 니조랄2%액, 대화제약 코모졸크림. 성분·용법·두피 접촉 시간 확인 자료. 제품 안내 페이지의 존재만으로 실시간 약국 재고를 확정하지 않음.
+* KCD9_251216(6).xlsx. 상병분류기호(전체)·상병분류기호(완전코드), L21 계열 대조.
+* FDA 승인 Zoryve topical foam 0.3% 처방정보(DailyMed, 2026년 9월 개정). 9세 이상 지루피부염, 1일 1회, 중등도~중증 간장애 금기·가연성 주의 등 국외 허가자료. 국내 허가·유통을 확정한 자료가 아님.
+
+* EMA Protopic product information 및 Elidel SmPC. 성분별 보습제 사용법 등 국외 복약지도 참고자료.
+
+* Rupatadine 10 mg tablets SmPC. Itraconazole 등 강력한 CYP3A4 억제제 병용 회피에 관한 국외 안전성 보완 자료.
+* Isotretinoin capsules 미국 허가정보(DailyMed, 2026). 임신 금기, 간기능·지질 검사 등 안전성 보완 자료.
 
 ***
 
@@ -293,7 +357,7 @@ graph TD
 #### <mark style="color:$primary;">약은 어떻게 써야 하나요?</mark>
 
 * 항진균 샴푸·크림은 처방받은 기간만큼 꾸준히 사용하십시오. 며칠 사용 후 좋아졌다고 바로 중단하면 재발하기 쉽습니다.
-* 스테로이드 연고나 액제는 **의사가 안내한 부위와 기간만** 사용하십시오. 얼굴은 보통 5\~7일, 두피도 대개 1\~2주 이내로 짧게 사용합니다. 오래 바르면 피부가 얇아지거나 실핏줄이 비치거나, 오히려 여드름 같은 발진이 생길 수 있습니다. 눈꺼풀에 임의로 바르지 마십시오.
+* 스테로이드 연고나 액제는 **의사가 안내한 부위와 기간만** 사용하십시오. 락티케어에취씨로션1%는 잘 흔들어 사용하며 7일을 넘겨 바르지 마십시오. 더모베이트액은 도포 중·직후 헤어드라이기·화기·흡연을 피하십시오. 얼굴은 보통 5\~7일, 두피도 대개 1\~2주 이내로 짧게 사용합니다. 오래 바르면 피부가 얇아지거나 실핏줄이 비치거나, 오히려 여드름 같은 발진이 생길 수 있습니다. 눈꺼풀에 임의로 바르지 마십시오.
 
 #### <mark style="color:$primary;">다시 진료가 필요한 경우</mark>
 
@@ -306,39 +370,4 @@ graph TD
 * 갑자기 피부 전체가 붉어지고 넓게 벗겨지면서 전신상태가 나빠지는 경우
 * 얼굴이나 두피의 붉은 기·부종·통증이 퍼지는 경우에는 당일 진료를 받으십시오. 빠르게 심해지면서 고열·심한 통증·전신상태 악화가 동반되면 즉시 응급 진료를 받으십시오.
 * 머리카락이 빠지는 부위가 아프게 붓거나 고름이 나는 경우에는 당일 진료를 받으십시오.
-
-***
-
-## <mark style="color:green;">영아 지루피부염(Cradle cap) - 특수 상황</mark>
-
-* 대부분 수개월에 걸쳐 자연 호전되므로 보존적 치료가 우선. 뚜렷한 통증·심한 가려움·탈모·악취가 있으면 전형적인 cradle cap으로 단정하지 않고 진료함
-* 무향 영아용 샴푸로 세정. 두꺼운 인설에는 소량의 **비식품성 오일(예: mineral oil)**로 미리 부드럽게 한 뒤 부드러운 솔/빗으로 느슨해진 각질만 제거하고 샴푸로 잔여 오일을 씻어냄; 각질을 억지로 긁거나 떼지 않음
-* 성인용 약용 샴푸·salicylic acid 함유제·강한 steroid를 보호자가 임의로 사용하지 않음
-* 홍반·염증이 뚜렷하거나 지속되는 경우 진료 후 hydrocortisone 1% 등 저역가 국소 steroid를 소범위에 5\~7일 정도 짧게 고려; 영아에서 제제별 금기·허가사항을 확인하고 기저귀 아래/밀봉 상태·넓은 부위의 장기 사용을 피함
-* 항진균 외용제는 진료 후 필요성을 판단하고 영아 허가·안전성 자료가 제한적일 수 있음을 고려
-* 광범위하거나 치료에 반응하지 않고 성장부진, 반복감염 등 다른 이상 소견이 동반되면 아토피피부염, 감염, 면역저하 등 다른 질환을 재평가
-
-***
-
-## <mark style="color:blue;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* LeFevre NM, Braudis K, Feigenbaum LS. [Seborrheic Dermatitis: Diagnosis and Treatment](https://www.aafp.org/afp/2025/0800/seborrheic-dermatitis). Am Fam Physician. 2025;112(2):166–173.
-* [Proactive treatment of adult facial seborrhoeic dermatitis with 0.1% tacrolimus ointment](https://pubmed.ncbi.nlm.nih.gov/23388687/). Acta Derm Venereol. 2013. 성인 얼굴 병변의 주 2회 유지요법; 지루피부염에는 국내 허가 외 사용.
-* Kose O, et al. [Oral itraconazole for the treatment of seborrhoeic dermatitis: an open, noncomparative trial](https://pubmed.ncbi.nlm.nih.gov/15752285/). J Eur Acad Dermatol Venereol. 2005;19(2):172–175.
-* Ghodsi SZ, et al. [Efficacy of Oral Itraconazole in the Treatment and Relapse Prevention of Moderate to Severe Seborrheic Dermatitis](https://pubmed.ncbi.nlm.nih.gov/26016699/). Am J Clin Dermatol. 2015;16(5):431–437.
-* [Efficacy of oral fluconazole in the treatment of seborrheic dermatitis: a placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/17645378/). Am J Clin Dermatol. 2007.
-* Alexis AF, et al. [Long-Term Safety and Efficacy of Roflumilast Foam 0.3% in Patients with Seborrheic Dermatitis: A Phase II, Open-Label Trial of up to 52 Weeks](https://doi.org/10.1007/s40257-025-00984-2). Am J Clin Dermatol. 2026;27(1):189–198.
-* [AAD. How to treat cradle cap](https://www.aad.org/public/everyday-care/hair-scalp-care/scalp/treat-cradle-cap).
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/). 항진균 외용제·국소 steroid·itraconazole 국내 허가사항 확인 자료.
-* [약학정보원](https://www.health.kr/). 노비프록스액 국내 허가사항 전재 본문(12세 미만·임신부·수유부 사전 상담, 약 2주 무호전 시 중지·상담) 및 더모베이트액 용법·주의사항 확인.
-* 제조사 제품정보·설명서: 태극제약 노비프록스액, 휴온스 니조랄2%액, 대화제약 코모졸크림. 제형별 용법·두피 접촉 시간 확인 자료.
-* [FDA. Zoryve topical foam 0.3% prescribing information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/217242s005lbl.pdf). 9세 이상 지루피부염, 1일 1회, 간장애 금기·가연성 주의 등 국외 허가자료.
-
-* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic). 보습제 도포 간격 등 국외 복약지도 참고자료.
-
-* [Rupatadine 10 mg tablets SmPC](https://www.medicines.org.uk/emc/product/2501/smpc). Itraconazole 등 강력한 CYP3A4 억제제 병용 회피에 관한 국외 안전성 보완 자료.
+* 눈이 아프거나 빛을 보기 힘들거나 시력이 떨어지면 당일 안과 진료를 받으십시오.

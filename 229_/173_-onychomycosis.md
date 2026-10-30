@@ -38,6 +38,7 @@
 * 조갑박리(onycholysis) : 조갑판이 조갑상에서 분리됨
 * 조갑하 과각화(subungual hyperkeratosis)
 * 진행 시 조갑 전체의 변형과 소실
+* 초진 시 침범 조갑 수·면적, 근위부/반월(lunula)·조갑기질(matrix) 침범, 조갑하 각질 두께, 통증 및 동반 발백선을 기록하고 가능하면 사진으로 추적
 
 ### <mark style="color:orange;">임상형</mark>
 
@@ -64,7 +65,7 @@
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 * 단일 조갑의 새로 발생한 불규칙 종선 색소, 폭 증가, Hutchinson sign(조갑주위 피부까지 색소가 번짐), 출혈·궤양 또는 진행성 조갑 파괴  `조갑 종양 의심`
-* 면역저하자에서 새로 발생한 근위 조갑하 병변  `근위 조갑하형·면역저하`
+* 새로 발생한 근위 조갑하 병변, 특히 면역저하가 있거나 손톱·발톱이 함께 침범된 경우  `근위 조갑하형·면역상태 평가`
 * 적절한 치료와 순응도에도 호전하지 않거나 반복 재발하는 경우  `치료 실패·재발`
 * NDM·효모 감염이 의심되지만 원인균 확인이 어려운 경우  `원인균 확인 필요`
 * 심한 조갑비후·dermatophytoma·matrix 침범 또는 다수 조갑 침범  `중등도·중증 병변`
@@ -92,6 +93,9 @@
 비피부사상균성 사상균은 흔한 환경 오염균이므로 배양 1회 양성만으로 원인균으로 확정하지 않는다. 직접검경·조직검사에서 진균 요소가 확인되고 피부사상균이 배양되지 않으며 같은 NDM이 반복 배양되는지 평가한다.
 {% endhint %}
 
+* 근위 조갑하형 또는 손톱·발톱 동시 감염에서는 면역억제 약물과 기저질환을 확인하고, 병력·위험도에 따라 면역상태를 평가하며 필요 시 HIV 등 검사를 고려. 해당 양상만으로 면역결핍을 단정하지 않음 <mark style="color:$info;">[BAD 2026, R13]</mark>
+* 조갑경검사(dermoscopy/onychoscopy)는 원위부의 톱니 모양 경계·spikes 등을 확인하는 보조수단이며 진균검사를 대체하지 않음
+
 ### <mark style="color:orange;">감별 진단</mark>
 
 <table><thead><tr><th width="150">질환</th><th>감별 단서</th></tr></thead><tbody><tr><td>조갑건선</td><td>점상함몰(pitting), oil-drop sign, 조갑박리, 두피·팔꿈치·무릎 병변</td></tr><tr><td>반복 외상·노화성 조갑변형</td><td>압박 부위 또는 특정 발가락에 국한, 진균검사 음성</td></tr><tr><td>조갑 편평태선</td><td>종주름·조갑판 얇아짐, 익상편(pterygium), 피부·구강 병변</td></tr><tr><td>만성 조갑주위염</td><td>근위 조갑주름 염증과 소피 소실, 습기·자극물질 노출</td></tr><tr><td>녹농균 감염</td><td>녹색 또는 녹흑색 조갑 변색, 조갑박리</td></tr><tr><td>조갑하 흑색종</td><td>단일 조갑의 새롭거나 넓어지는 불규칙 종선 색소, Hutchinson sign</td></tr><tr><td>조갑하 편평세포암 등 종양</td><td>단일 조갑의 지속적인 파괴·출혈·궤양, 표준치료 불응</td></tr></tbody></table>
@@ -104,24 +108,26 @@
 
 ```mermaid
 flowchart TB
-    A([손발톱 변색·비후·박리]) ---> B{Red Flag?}
-    B -- 예 ---> C[위험도에 따라 즉각 조치·당일 평가·조기 의뢰]
-    B -- 아니오 ---> D[KOH ± PAS·배양·PCR]
-    D ---> E{진균 확인?}
-    E -- 아니오·의심 낮음 ---> F[건선·외상·편평태선·종양 평가]
-    E -- 아니오·의심 높음 ---> G[검체 위치 확인 후 재검·다른 검사]
-    G ---> D
-    E -- 예 ---> H{경증·국소 병변?}
-    H -- 예 ---> I[국소제 ± 조갑 정리]
-    H -- 아니오 ---> J{경구제 사용 가능?}
-    J -- 예 ---> K[원인균에 맞는 경구제 ± 선택적 국소제·조갑 정리]
-    J -- 아니오 ---> L[국소제 + 조갑 정리 ± 피부과 의뢰]
-    I ---> M[순응도·새 조갑 성장·발백선 동시 평가]
-    K ---> M
-    L ---> M
-    M ---> N{호전 불충분·재발?}
-    N -- 예 ---> O[진단·원인균·내성·dermatophytoma 재평가]
-    N -- 아니오 ---> P([정상 조갑 성장까지 추적])
+    A(["손발톱진균증 의심"]) --> B{"Red Flags?"}
+    B -- "예" --> C["위험도에 따라 즉각 조치·당일 평가·조기 의뢰"]
+    B -- "아니오" --> D["KOH ± PAS·배양·PCR"]
+    D --> E{"진균 확인?"}
+    E -- "아니오·의심 낮음" --> F(["다른 조갑질환 평가"])
+    E -- "아니오·의심 높음" --> G["검체 위치 확인 후 재검·검사 병합"]
+    G --> D
+    E -- "예" --> Q{"치료 이득·위험·환자 선호 평가"}
+    Q -- "관찰 선택·합병증 위험 낮음" --> R(["조갑관리·예방·경과관찰"])
+    Q -- "약물치료 선택" --> H{"경증·국소 병변?"}
+    H -- "예" --> I["국소제 ± 조갑 정리"]
+    H -- "아니오" --> J{"경구제 사용 가능?"}
+    J -- "예" --> K["원인균에 맞는 경구제 ± 국소제·조갑 정리"]
+    J -- "아니오" --> L["국소제·조갑관리 ± 피부과 의뢰"]
+    I --> M["순응도·새 조갑 성장·발백선 평가"]
+    K --> M
+    L --> M
+    M --> N{"호전 불충분·재발?"}
+    N -- "예" --> O(["진단·원인균·내성 재평가 및 필요 시 의뢰"])
+    N -- "아니오" --> P(["새 조갑 성장·재발 여부 추적"])
     style A fill:#f96,stroke:#e65100,stroke-width:2px
     style I fill:#e1f5fe,stroke:#01579b
     style K fill:#fff3e0,stroke:#e65100
@@ -130,23 +136,26 @@ flowchart TB
 
 <p align="center"><strong>손발톱진균증 진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. Park 등 국내 알고리듬 지침(J Mycol Infect 2018)과 Nenoff 등 S1 guideline(2023)을 참고하여 재구성; 치료 선택 기준은 아래 본문 참조</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. Park 등 국내 알고리듬 지침(J Mycol Infect 2018)과 Nenoff 등 S1 guideline(2023), BAD 지침(2026)을 참고하여 재구성; 치료 선택 기준은 아래 본문 참조</mark></em></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
 
+{% hint style="info" %}
+**2026년 최신 지침 반영** : BAD 지침(2026-10-22)은 성인 경구치료에서 terbinafine을 우선하고, 불응 시 감수성검사를 고려하도록 권고. 선택적 경구·국소 병용과 조갑 정리를 지지하며 레이저·광역학 단독치료의 근거는 불충분함. 영국 권고의 terbinafine 기간은 손톱 6~8주·발톱 12~16주이나, 아래 성인 기본 처방은 국내 허가와 통상 요법에 맞춰 손톱 6주·발톱 12주를 유지하고 연장 전 재평가함.
+{% endhint %}
+
 ### <mark style="color:orange;">치료 선택</mark>
 
-<table><thead><tr><th width="140">치료</th><th>주요 대상</th></tr></thead><tbody><tr><td>국소 항진균제</td><td>대체로 1~3개 조갑, 원위부 침범 &lt;50%, matrix/lunula 비침범, dermatophytoma 없음. 경구제 사용이 곤란한 경우에는 중증에서도 제한적 대안으로 고려하되 완치 가능성이 낮음을 설명</td></tr><tr><td>경구 항진균제</td><td>조갑판 ≥50% 침범, matrix 침범, 다수 조갑, 조갑하 과각화 &gt;2 mm, dermatophytoma, 국소치료 실패</td></tr><tr><td>병용치료</td><td>중증·재발성 병변, dermatophytoma 또는 단독치료 실패에서 고려. 국내 알고리듬 지침(2018)과 독일 S1 지침(2023)은 중등도·중증에서 경구·국소 병용을 권고하나, 모든 환자에게 필수로 적용하는 것은 아니며 중증도·순응도·비용을 함께 평가</td></tr><tr><td>경과관찰·조갑관리</td><td>증상이 거의 없고 치료 이득이 낮거나 환자가 약물치료를 원하지 않는 경우. 당뇨병·말초혈관질환에서는 합병증 위험을 함께 평가</td></tr></tbody></table>
+<table><thead><tr><th width="140">치료</th><th>주요 대상</th></tr></thead><tbody><tr><td>국소 항진균제</td><td>대체로 1~3개 조갑, 원위부 침범 ＜50%, matrix/lunula 비침범, dermatophytoma 없음. 경구제 사용이 곤란한 경우에는 중증에서도 제한적 대안으로 고려하되 완치 가능성이 낮음을 설명</td></tr><tr><td>경구 항진균제</td><td>조갑판 ≥50% 침범, matrix 침범, 다수 조갑, 조갑하 과각화 ＞2 mm, dermatophytoma, 국소치료 실패</td></tr><tr><td>병용치료</td><td>중증·재발성 병변, dermatophytoma 또는 단독치료 실패에서 고려. 국내 알고리듬 지침(2018)과 독일 S1 지침(2023)은 중등도·중증에서 경구·국소 병용을 권고하나, 모든 환자에게 필수로 적용하는 것은 아니며 중증도·순응도·비용을 함께 평가</td></tr><tr><td>경과관찰·조갑관리</td><td>증상이 거의 없고 치료 이득이 낮거나 환자가 약물치료를 원하지 않는 경우. 당뇨병·말초혈관질환에서는 합병증 위험을 함께 평가</td></tr></tbody></table>
 
 {% hint style="info" %}
-알고리듬의 **경증·국소 병변**은 대체로 1\~3개 조갑, 원위부 침범 &lt;50%, matrix/lunula 비침범, dermatophytoma 없음에 해당한다. 조갑판 ≥50% 침범, matrix/lunula 침범, 다수 조갑, 근위 조갑하형·전이영양형, 조갑하 과각화 &gt;2 mm, dermatophytoma 또는 적절한 국소치료 실패는 경구제 적합성을 평가한다.
+알고리듬의 **경증·국소 병변**은 대체로 1\~3개 조갑, 원위부 침범 ＜50%, matrix/lunula 비침범, dermatophytoma 없음에 해당한다. 조갑판 ≥50% 침범, matrix/lunula 침범, 다수 조갑, 근위 조갑하형·전이영양형, 조갑하 과각화 ＞2 mm, dermatophytoma 또는 적절한 국소치료 실패는 경구제 적합성을 평가한다.
 {% endhint %}
 
 * 손발톱을 짧게 자르고 두꺼운 조갑은 안전하게 얇게 정리. 당뇨병·신경병증·말초혈관질환 환자는 자가 사포질·절삭 중 손상에 주의
-* 조갑하 과각화가 심하거나 dermatophytoma가 있으면 약물 침투가 제한될 수 있다. 약물치료와 함께 전문가에 의한 기계적 조갑 삭제(debridement)를 고려하고, 선택된 환자에서는 주위 피부를 보호한 상태에서 40% 요소(urea)를 이용한 화학적 조갑연화·박리를 보조적으로 고려. 당뇨병·신경병증·말초혈관질환 환자의 자가 절삭·박리는 피함
-* 레이저·광역학치료는 완전완치와 장기 재발 예방에 대한 근거가 제한적임. 레이저의 일시적인 조갑 외관 개선을 진균학적 완치로 설명하지 않으며, 표준 항진균제 치료를 대체하는 1차 치료로 사용하지 않음
+* 조갑하 과각화·dermatophytoma에서는 약물 침투가 제한될 수 있으므로 보조적 조갑 처치를 검토(아래 ‘시술 및 기타 처치’ 참조)
 * 동반 발백선·손백선을 함께 치료하여 재감염원을 줄임
 * 조갑의 외형은 진균이 제거된 뒤에도 즉시 정상화되지 않음. 정상 조갑이 자라 나오는 데 손톱은 약 4\~6개월, 발톱은 12\~18개월이 걸릴 수 있음
 
@@ -163,7 +172,7 @@ flowchart TB
 
 ### <mark style="color:orange;">경구 항진균제 공통 원칙</mark>
 
-* 아래 용량과 치료기간은 성인에서 사용하는 대표적인 **예시**이다. 실제 처방은 원인균, 침범 범위, 간·신장 기능, 연령, 임신·수유 여부, 병용약물 및 제품별 국내 허가사항에 따라 조정
+* 아래 용량과 치료기간은 성인에서 사용하는 대표적인 **예시**이다. 실제 처방은 원인균, 침범 범위, 간·신장 기능, 연령, 임신·수유 여부, 병용약물 및 제품별 국내 허가사항에 따라 조정. **처방 시 최신 품목정보/급여기준 조회**
 * 치료 전 간질환, 신기능, 심부전, 임신 가능성, 복용 중인 모든 처방약·일반약·건강기능식품을 확인
 * Terbinafine 또는 itraconazole 투여 전 AST/ALT 등 기저 간기능검사(LFT)를 시행. 장기간 fluconazole을 투여하거나 간손상 위험인자가 있는 경우에도 기저 LFT를 확인
 * 활동성 또는 만성 간질환에서는 terbinafine이 금기이며, 다른 경구 항진균제도 자동 대체하지 말고 치료 필요성과 위험을 재평가
@@ -175,7 +184,7 @@ flowchart TB
 ### <mark style="color:orange;">Terbinafine</mark>
 
 * **우선 선택** : 피부사상균성 손발톱백선의 1차 경구제
-* **용법** : 250 ㎎ qd(라미실정 125 ㎎ 2정); 손톱 6주, 발톱 12주 <mark style="color:blue;">\[라미실정125㎎ 등]</mark> - 국내 허가사항은 조갑진균증에 통상 6주\~3개월로 제시
+* **용법** : 250 ㎎ qd(라미실정 125 ㎎ 2정), 음식과 무관하게 복용; 손톱 6주, 발톱 12주 <mark style="color:blue;">\[라미실정125㎎ 등]</mark> - 국내 허가사항은 조갑진균증에 통상 6주\~3개월로 제시
 * **금기** : 활동성 또는 만성 간질환, 성분 과민반응 병력, 중증 신부전, 호중구감소·범혈구감소·무과립구증·혈소판감소 등 혈액질환, 수유부(국내 허가사항)
 * **신기능 저하** : CrCl ＜50 ㎖/min에서는 국내 용법에 1일량 1/2 감량이 제시되어 있으나, 주의사항에는 충분히 연구되지 않아 권장되지 않는다고 병기되어 있음. 단순 감량 처방보다 국소치료 또는 전문의뢰를 우선 검토; 중증 신부전은 금기
 * **주의** : 건선 또는 피부 홍반루푸스 악화 가능성
@@ -187,11 +196,12 @@ flowchart TB
 
 * **선택 대상** : *Candida* 감염 또는 terbinafine을 사용할 수 없거나 효과가 불충분한 피부사상균 감염. NDM은 균종별 반응이 다양하며 *Fusarium*·*Scopulariopsis* 등은 치료가 어려울 수 있으므로 균종 확인 및 피부과 평가 후 선택
 * **주기요법** : 200 ㎎ bid 1주 복용 후 3주 휴약을 1주기로 하여 손톱에만 감염된 경우 2주기, 발톱 감염(손톱 동반 여부와 무관) 3주기
-* **지속요법** : 200 ㎎ qd × 3개월 <mark style="color:blue;">\[스포라녹스캡슐 등]</mark>
+* **지속요법** : 200 ㎎ qd × 3개월(국내 허가 요법) <mark style="color:blue;">\[스포라녹스캡슐 등]</mark>
 * **복용법** : 캡슐은 충분한 식사 직후 복용. PPI·H₂ 차단제 등 위산억제제는 흡수를 낮출 수 있으며 병용이 불가피하면 제품 지침에 따라 콜라 등 산성 음료를 고려하되 흡수 회복을 보장하지 않음. 제산제는 itraconazole 복용 최소 1시간 전 또는 2시간 후로 간격을 둠. 경구액은 캡슐과 복용법·생체이용률이 다르므로 서로 임의 대체하지 않음
 * **금기·중요 주의** : 손발톱진균증 치료 목적으로는 현재 또는 과거 울혈성심부전·심실기능장애 환자에게 사용하지 않음. 임부·임신 가능성이 있는 여성 및 수유부에게 사용하지 않음; 가임 여성에게 치료 중 및 종료 후 제품별 피임 지침을 안내
 * **상호작용** : 강력한 CYP3A4 억제제. Simvastatin·lovastatin, 일부 항부정맥제·진정수면제·항응고제 등 금기 또는 고위험 병용약이 많음. 일부 병용금기는 itraconazole 종료 후 2주까지 적용되므로 주기요법의 휴약기에도 새로운 약을 추가할 때 확인함 <mark style="color:$info;">[스포라녹스캡슐 국내 허가사항]</mark>
-* **이상반응** : 간독성, 위장관 증상, 부종, 심부전 악화, 말초신경병증
+* **이상반응** : 간독성, 위장관 증상, 부종, 심부전 악화, 말초신경병증. 새 고혈압·저칼륨혈증이 생기면 드문 가성 알도스테론증도 고려
+* **신장애·흡수 문제** : 신장애·면역저하에서 경구 생체이용률이 낮아질 수 있음. 불응 시 위산억제제·복약·흡수 상태를 검토하고 필요 시 전문기관에서 치료약물농도검사(TDM)를 고려. 경구액은 조갑진균증 캡슐 처방의 단순 대체제로 사용하지 않음
 
 ### <mark style="color:orange;">Fluconazole</mark>
 
@@ -200,6 +210,7 @@ flowchart TB
 * **주의** : 간질환에서 안전한 대체약이 아님. 드물게 중증 간독성이 발생할 수 있으며 반복 투여 시 CrCl ≤50 ㎖/min(비투석)은 일반적으로 유지용량 50% 감량이 필요하며, 주 1회 조갑진균증 요법도 신기능과 제품별 허가사항에 맞춰 조정
 * **상호작용** : CYP2C9·CYP2C19 억제 및 중등도 CYP3A4 억제. Warfarin, sulfonylurea, phenytoin, 일부 statin 및 QT 연장 약물과의 상호작용을 확인
 * **이상반응** : 두통, 위장관 증상, 발진, 간효소 상승, 드물게 QT 연장·torsades de pointes; 장기·고용량에서 탈모 가능
+* **임신 예방** : 장기 반복요법을 계획하는 가임 여성에게 치료 중 및 마지막 투여 후 1주까지 피임을 상담. 임신을 계획하면 치료를 미루는 방안을 우선 검토 <mark style="color:$info;">[EMA 2023 허가정보 개정 권고]</mark>
 
 ### <mark style="color:orange;">국소 항진균제</mark>
 
@@ -207,11 +218,26 @@ flowchart TB
 네일라카·외용액은 제형마다 도포 횟수, 라카 제거법, 파일링 필요 여부와 최대 사용기간이 다르다. 같은 성분이라도 제형에 따라 사용법이 다르므로 **처방·판매 시 제품별 허가사항을 반드시 확인**하고, 모든 제품에 동일한 사용법을 적용하지 않는다.
 {% endhint %}
 
-<table><thead><tr><th width="210">제제</th><th width="260">용법·특징</th><th>치료기간·주의</th></tr></thead><tbody><tr><td>Ciclopirox 8% 일반 네일라카 <mark style="color:blue;">\[로푸록스]</mark></td><td>첫째 달 격일, 둘째 달 주 2회 이상, 셋째 달 이후 주 1회. 주 1회 라카막을 제거하고 조갑을 정리</td><td>국내 해당 제품 허가사항상 적용기간은 6개월을 초과하지 않음. 6개월 내 충분히 호전하지 않으면 진단·치료를 재평가</td></tr><tr><td>Ciclopirox 8% 수용성 네일라카 <mark style="color:blue;">\[풀케어, 무조날에스네일라카 등]</mark></td><td>1일 1회, 가능하면 취침 전 손발톱 전체·주위 5 mm와 가능한 경우 조갑 끝 아랫면까지 도포. 약 30초 건조 후 최소 6시간 동안 씻지 않음. 파일링이나 유기용매를 이용한 제거는 불필요하며 이후 물로 제거 가능</td><td>건강한 손발톱이 자랄 때까지 사용하며 손톱 약 6개월, 발톱 9~12개월 예상. 동일 성분 일반 네일라카와 용법이 다름</td></tr><tr><td>Amorolfine 5% 네일라카 <mark style="color:blue;">\[로세릴]</mark></td><td>주 1~2회. 도포 전 감염 조갑을 갈아내고 기존 라카를 닦아냄</td><td>손톱 약 6개월, 발톱 9~12개월. 감염 조갑용 줄을 정상 조갑에 사용하지 않음. 조갑주위 염증·혈액순환장애·소아·임부·수유부 등은 국내 제품 금기 확인</td></tr><tr><td>Efinaconazole 10% 외용액 <mark style="color:blue;">\[주블리아 및 제네릭]</mark></td><td><strong>피부사상균에 의한 손발톱진균증</strong>에 사용. 감염된 손발톱 전체에 1일 1회 도포. 조갑판뿐 아니라 조갑주름·조갑상·hyponychium 및 가능한 조갑판 아랫면까지 도포</td><td>발톱 임상시험의 치료기간은 48주이며 반응에 따라 추적. 손톱 허가를 발톱의 48주 시험 결과와 동일시하지 않음. 정기적 라카 제거·파일링은 필수 아님. 피부 자극, 접촉피부염, 내향성발톱에 주의</td></tr><tr><td>Terbinafine 조갑 외용액(염산염 88 ㎎/mL) <mark style="color:blue;">\[무조날맥스]</mark></td><td>처음 4주간 1일 1회, 이후 주 1회. 손발톱 전체·주위 약 5 mm와 가능한 조갑 끝 아랫면에 얇게 도포. 약 30초 건조하고 최소 6시간 물 접촉을 피함. 유기용매·파일링으로 약막을 제거할 필요 없음</td><td>손톱 약 6개월, 발톱 9~12개월 목표. 일반의약품. 18세 미만·임부·임신 가능성이 있는 여성·수유부는 사용하지 않음. 피부백선용 저농도 terbinafine 외용액과 혼동하지 않음. 개봉 후 6개월 이내 사용하며 장기 치료기간과 한 병의 개봉 후 사용기간을 구분</td></tr></tbody></table>
+<table><thead><tr><th width="210">제제</th><th width="260">용법·특징</th><th>치료기간·주의</th></tr></thead><tbody><tr><td>Ciclopirox 8% 일반 네일라카 <mark style="color:blue;">\[로푸록스]</mark></td><td>첫째 달 격일, 둘째 달 주 2회 이상, 셋째 달 이후 주 1회. 주 1회 라카막을 제거하고 조갑을 정리</td><td>국내 해당 제품 허가사항상 적용기간은 6개월을 초과하지 않음. 6개월 내 충분히 호전하지 않으면 진단·치료를 재평가</td></tr><tr><td>Ciclopirox 8% 수용성 네일라카 <mark style="color:blue;">\[풀케어, 무조날에스네일라카 등]</mark></td><td>1일 1회, 가능하면 취침 전 손발톱 전체·주위 5 mm와 가능한 경우 조갑 끝 아랫면까지 도포. 약 30초 건조 후 최소 6시간 동안 씻지 않음. 파일링이나 유기용매를 이용한 제거는 불필요하며 이후 물로 제거 가능</td><td>건강한 손발톱이 자랄 때까지 사용하며 손톱 약 6개월, 발톱 9~12개월 예상. 동일 성분 일반 네일라카와 용법이 다름</td></tr><tr><td>Amorolfine 5% 네일라카 <mark style="color:blue;">\[로세릴]</mark></td><td>주 1~2회. 도포 전 감염 조갑을 갈아내고 기존 라카를 닦아냄</td><td>손톱 약 6개월, 발톱 9~12개월. 감염 조갑용 줄을 정상 조갑에 사용하지 않음. 조갑주위 염증·혈액순환장애·소아·임부·수유부 등은 국내 제품 금기 확인</td></tr><tr><td>Efinaconazole 10% 외용액 <mark style="color:blue;">\[주블리아 및 제네릭]</mark></td><td><strong>피부사상균에 의한 손발톱진균증</strong>에 사용. 씻거나 샤워·목욕 후 적어도 10분간 건조한 뒤 감염된 손발톱 전체에 1일 1회 도포. 조갑판뿐 아니라 조갑주름·조갑상·hyponychium 및 가능한 조갑판 아랫면까지 도포</td><td>발톱 임상시험의 치료기간은 48주. <strong>48주 초과 사용 시 유효성과 안전성은 확립되지 않았으므로</strong> 불응 시 재평가하고 관행적으로 연장하지 않음. 손톱 허가를 발톱의 48주 시험 결과와 동일시하지 않음. 정기적 라카 제거·파일링은 필수 아님. 피부 자극, 접촉피부염, 내향성발톱에 주의</td></tr><tr><td>Terbinafine 조갑 외용액(염산염 88 ㎎/mL) <mark style="color:blue;">\[무조날맥스]</mark></td><td>처음 4주간 1일 1회, 이후 주 1회. 손발톱 전체·주위 약 5 mm와 가능한 조갑 끝 아랫면에 얇게 도포. 약 30초 건조하고 최소 6시간 물 접촉을 피함. 유기용매·파일링으로 약막을 제거할 필요 없음</td><td>손톱 약 6개월, 발톱 9~12개월 목표. 일반의약품. 18세 미만·임부·임신 가능성이 있는 여성·수유부는 사용하지 않음. 피부백선용 저농도 terbinafine 외용액과 혼동하지 않음. 사용 중 매니큐어·네일 화장품 및 환부의 다른 외용약을 임의 병용하지 않음. 개봉 후 6개월 이내 사용하며 장기 치료기간과 한 병의 개봉 후 사용기간을 구분</td></tr></tbody></table>
 
 {% hint style="info" %}
 국소제 단독치료를 선택하는 범위와 제품의 허가범위는 같지 않음. 예를 들어 로세릴의 국내 적응증은 감염 면적 ≤80%이나, matrix 침범이나 중증 병변에서는 국소제 단독 완치 가능성이 낮아 경구제 적합성을 평가함. 당뇨병·말초혈관질환·조갑주위염이 있다고 모든 국소제를 일괄 선택하지 않고 **제품별 금기·주의사항**을 확인함. 풀케어 등 수용성 ciclopirox 제품은 18세 미만에게 사용하지 않도록 명시되어 있음.
 {% endhint %}
+
+{% hint style="info" %}
+**소아용 품목 구분** : 주블리아는 국내에서 **성인 및 6세 이상 소아**에게 1일 1회 사용하는 용법으로 확대되었다. 같은 efinaconazole 성분의 제네릭에 소아 허가가 자동으로 적용되는 것은 아니므로 품목별 용법·연령을 확인한다. 2018년 등 과거 첨부문서의 ‘소아 유효성·안전성 미확립’ 문구만으로 현재 주블리아 허가를 판단하지 않는다.
+{% endhint %}
+
+### <mark style="color:orange;">특수 환자</mark>
+
+* **소아·청소년** : 먼저 진균 감염을 확인하고 동반 발백선·가족 내 감염원을 평가. 경증에서는 주블리아 등 국내 연령 허가가 있는 국소제를 검토하고, 다수 조갑·matrix 침범은 피부과와 상의. 라미실정의 국내 소아 적응증은 두부백선이며, 그 체중별 용량을 소아 조갑진균증 허가 요법으로 옮기지 않음. 해외 지침의 소아 amorolfine 권고도 국내 로세릴의 소아 금기에 우선하지 않음
+* **당뇨병·고령·면역저하** : 궤양 위험, 감각·말초순환, 간·신기능 및 다약제 복용을 평가. 당뇨병 자체만으로 경구제를 배제하지 않으나 sulfonylurea–fluconazole 저혈당, 면역억제제·항레트로바이러스제–azole 상호작용에 특히 주의
+
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+* 심한 비후·dermatophytoma에서는 약물치료와 함께 전문가의 조갑 삭제·병변 제거를 고려. 조갑 제거만으로 진균이 완전히 제거된다고 설명하지 않음
+* 40% 요소를 이용한 연화·화학적 박리는 선택된 환자에서 주위 피부를 보호하며 시행하고, 당뇨병·신경병증·말초혈관질환 환자의 자가 절삭·박리는 피함
+* 레이저·광역학치료 단독요법의 완전완치·장기 재발 예방 근거는 부족하며 표준 항진균제 치료를 대체하는 1차 치료로 권하지 않음. 레이저의 일시적인 조갑 외관 개선을 진균학적 완치로 설명하지 않음
 
 ## <mark style="color:green;">치료반응과 예후</mark>
 
@@ -221,6 +247,7 @@ flowchart TB
 <table><thead><tr><th>제제·시험 요법</th><th>시험별 완치 결과</th><th>해석상 주의</th></tr></thead><tbody><tr><td>경구 terbinafine 250 ㎎/일, 12주</td><td>완전완치 38%</td><td>48주 평가(투약 종료 후 36주); 미국 허가 임상시험</td></tr><tr><td>경구 itraconazole 200 ㎎/일, 12주 연속요법</td><td>진균학적·임상적 완치 14%</td><td>임상적 완치는 잔여 조갑변형을 허용한 해당 시험의 정의이며, 완전히 정상인 조갑을 요구한 다른 시험과 기준이 다름. 주기요법 전체의 완치율로 일반화하지 않음</td></tr><tr><td>Ciclopirox 8% 미국 일반 네일라카, 매일 48주 + 정기 조갑 정리</td><td>완전완치 5.5~8.5%</td><td>48주 평가; 국내 로푸록스의 도포 요법 및 수용성 풀케어 제형의 완치율로 일반화하지 않음</td></tr><tr><td>Efinaconazole 10%, 매일 48주</td><td>완전완치 15.2~17.8%</td><td>52주 평가; 표적 발톱 침범 20~50%, matrix·dermatophytoma 비침범 대상</td></tr></tbody></table>
 
 * 위 수치는 각 제품의 허가 임상시험 자료에 근거함 <mark style="color:$info;">[Terbinafine·itraconazole·ciclopirox 미국 허가자료, efinaconazole 국내 첨부문서]</mark>. 완치 정의·대상·치료기간·조갑 정리 여부가 다르며 국내 실제 진료의 완치율을 그대로 뜻하지 않음
+* 감염이 제거되어도 기존 외상·matrix 손상에 따른 변형은 영구적으로 남을 수 있으므로, 외형의 완전 정상화만을 목표로 경구제를 반복하지 않음 <mark style="color:$info;">[BAD 2026, R5]</mark>
 * 재발 또는 재감염은 흔하며 동반 발백선, 불완전한 복약, 남은 감염 조갑, 가족 내 감염원, 반복 외상·습기 노출이 위험을 높임
 
 {% hint style="info" %}
@@ -242,18 +269,19 @@ flowchart TB
 3. KOH·PAS·배양 또는 PCR로 진단과 원인균을 다시 확인
 4. 발백선, 신발·손발톱 도구, 가족 내 감염 등 재감염원을 평가
 5. Dermatophytoma, NDM·혼합감염, 약물 흡수 저하 및 항진균제 내성을 고려
+6. 초기 사진·침범 면적과 비교하여 추적. 고령자는 성장 지연, 다약제 복용, 도포 부위에 손이 닿는지와 도움 제공 가능 여부도 확인
 
 {% hint style="info" %}
-손발톱백선의 주요 원인균인 **terbinafine 내성** *T. rubrum*도 국제적으로 보고됨 <mark style="color:$info;">[CDC Emerging Ringworm 2026]</mark>. 국내 *T. indotineae* 분자확진 2례는 몸통·샅 부위 또는 하지 피부 감염 사례이므로 이를 국내 손발톱 감염의 빈도나 확산 근거로 일반화하지 않음 <mark style="color:$info;">[Moon 등, J Mycol Infect 2025; 온라인 출간 2026]</mark>. 적절한 terbinafine 치료에도 실패하면 임의로 장기 연장하기보다 진단·균종·순응도·재감염원을 재평가하고, 가능한 경우 배양·분자 균종 동정·감수성검사 및 피부과 의뢰를 고려함.
+손발톱백선의 주요 원인균인 **terbinafine 내성** *T. rubrum*도 국제적으로 보고됨 <mark style="color:$info;">[CDC Emerging Ringworm 2026]</mark>. 국내 *T. indotineae* 분자확진 2례는 몸통·샅 부위 또는 하지 피부 감염 사례이므로 이를 국내 손발톱 감염의 빈도나 확산 근거로 일반화하지 않음 <mark style="color:$info;">[Moon 등, J Mycol Infect 2025; 온라인 출간 2026]</mark>. 적절한 terbinafine 또는 itraconazole 치료에도 실패하면 임의로 장기 연장하기보다 진단·균종·순응도·재감염원을 재평가하고, 가능한 경우 배양·분자 균종 동정·감수성검사 및 피부과 의뢰를 고려함 <mark style="color:$info;">[BAD 2026, R44]</mark>.
 {% endhint %}
 
 ***
 
 ## <mark style="color:red;">질병코드</mark>
 
-B35.1　손발톱백선　Tinea unguium - 피부사상균에 의한 경우
+<table><thead><tr><th>코드</th><th>KCD-9 한글명</th><th>영문명</th><th>적용</th></tr></thead><tbody><tr><td>B35.1</td><td>손발톱백선</td><td>Tinea unguium</td><td>피부사상균성 손발톱백선. 분류표 포함용어에 ‘손발톱진균증 Onychomycosis’도 수록</td></tr><tr><td>B37.2</td><td>피부 및 손발톱 칸디다증</td><td>Candidiasis of skin and nail</td><td>칸디다에 의한 감염이 임상·검사상 확인된 경우</td></tr></tbody></table>
 
-B37.2　피부 및 손발톱의 칸디다증　Candidiasis of skin and nail - 칸디다에 의한 경우
+✽저장된 KCD9_251216(6).xlsx의 ‘상병분류기호(전체)’ 및 ‘상병분류기호(완전코드)’와 대조함. 임상 용어의 정의와 분류표의 포함용어를 구분하며, 원인균이 확인되면 해당 원인균에 맞는 코드를 검토한다. NDM 감염을 일률적으로 피부사상균성 백선으로 기록하지 않는다.
 
 ***
 
@@ -318,7 +346,7 @@ Fluconazole은 "간 장애 시 대체약"이 아니다. 활동성 또는 유의�
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+## <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **치료 기간과 경과**
 >
@@ -332,6 +360,7 @@ Fluconazole은 "간 장애 시 대체약"이 아니다. 활동성 또는 유의�
 > * Terbinafine 복용 중 맛이나 냄새가 달라지거나 사라지면 약을 중단하고 처방 의료진에게 알립니다.
 > * Itraconazole 복용 중 숨참, 다리 부종, 갑작스러운 체중 증가가 생기면 복용을 중단하고 즉시 진료받습니다.
 > * 간기능검사는 증상이 없어도 정해진 일정에 받습니다.
+> * Fluconazole을 장기간 복용하는 가임 여성은 치료 중과 마지막 복용 후 1주간 적절한 피임을 유지합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -341,12 +370,37 @@ Fluconazole은 "간 장애 시 대체약"이 아니다. 활동성 또는 유의�
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [British Association of Dermatologists. Guideline for managing fungal nail infection (onychomycosis) 2026. Br J Dermatol. 2026 Oct 22; ljag318](https://doi.org/10.1093/bjd/ljag318) : 진단, 치료 선택, 특수 환자 및 치료 불응 시 평가
+* [AAD. Choosing Wisely](https://www.aad.org/member/clinical-quality/clinical-care/wisely) : 경구 항진균제 처방 전 진균 감염 확인
+* [Park J, et al. Korean Guideline for the Diagnosis and Treatment of Onychomycosis: Purpose and Process of Algorithm Guideline Development. J Mycol Infect. 2018;23(2):33–44](https://e-jmi.org/archive/detail/7?is_paper=y)
+* [Nenoff P, et al. S1 Guideline onychomycosis. J Dtsch Dermatol Ges. 2023;21(6):678–692](https://doi.org/10.1111/ddg.14988)
+* [CDC. Clinician Brief: Emerging Ringworm. 2026](https://www.cdc.gov/ringworm/hcp/clinical-overview/emerging-ringworm-facts-for-clinicians.html) : terbinafine 내성 T. rubrum 등 신종·내성 피부사상균
+* [Moon BY, et al. First Molecular Confirmation of Trichophyton indotineae in South Korea: A Case Report. J Mycol Infect. 2025;30(4):154–159](https://doi.org/10.17966/JMI.2025.30.4.154) : 온라인 출간 2026; 국내 피부 감염 2례이며 조갑 감염 자료는 아님
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [EMA. Fluconazole PSUSA/00001404/202303, 2023](https://www.ema.europa.eu/en/documents/psusa/fluconazole-cmdh-scientific-conclusions-and-grounds-variation-amendments-product-information-and-timetable-implementation-psusa-00001404-202303_en.pdf) : 장기요법의 임신·피임 상담
+* Itraconazole 추가 안전성 확인 : 미국 SPORANOX 공개 허가자료의 가성 알도스테론증(고혈압·저칼륨혈증) 시판 후 보고를 참고. 국내 개별 품목 허가 문구와 구분
+* 제조사 공개 첨부문서·공식 제품정보 : 라미실정, 스포라녹스캡슐, 로푸록스, 풀케어, 무조날맥스 및 동아ST 주블리아 소아 투여 확대 공지. 오래된 첨부문서는 현재 품목정보와 구분하여 검토
+* 사용자 제공 KCD9_251216(6).xlsx : B35.1·B37.2 명칭·영문명·포함용어 대조
+* **처방 시 최신 품목정보/급여기준 조회**. 국내 품목 허가와 실제 유통·공급·급여 인정 여부는 구분하여 확인
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) : 라미실정125㎎, 스포라녹스캡슐, 대웅푸루나졸정150㎎, 로푸록스네일라카, 풀케어·무조날에스네일라카, 로세릴네일라카, 주블리아외용액 및 무조날맥스외용액의 국내 적응증·용법·금기·주의사항
+* 완치율 대조 자료 : [Terbinafine 미국 허가자료](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50657431-1cd9-42dd-9cfc-57db8713d267), [Itraconazole 미국 허가자료](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6242b7ad-eaa0-a524-b6e0-ec33e63407db), [Ciclopirox 미국 허가자료](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=79084b47-7481-4926-9837-e08f633b1ddf) : 국내 제품의 용법·제형과 구분. Efinaconazole 수치는 국내 첨부문서의 발톱 임상시험 결과
+* [FDA. Lasers for temporary increase of clear nail in patients with onychomycosis — Product Code PDZ](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?productcode=PDZ&start_search=1) : 일시적인 정상 조갑 면적 증가 목적의 기기 분류이며 진균학적 완치 허가와 구분
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **손발톱무좀은 치료가 오래 걸리지만, 약이 듣지 않아서만은 아닙니다.**
 
-감염이 제거된 뒤에도 손발톱은 뿌리에서부터 새로 자라야 겉모습이 좋아집니다. 손톱은 약 4\~6개월, 발톱은 12\~18개월이 걸릴 수 있습니다.
+감염이 제거된 뒤에도 손발톱은 뿌리에서부터 새로 자라야 겉모습이 좋아집니다. 손톱은 약 4\~6개월, 발톱은 12\~18개월이 걸릴 수 있습니다. 원래 손발톱에 손상이 있으면 치료가 끝나도 일부 변형이 남을 수 있습니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">왜 손발톱에 무좀이 생기나요?</mark>
@@ -374,22 +428,3 @@ Fluconazole은 "간 장애 시 대체약"이 아니다. 활동성 또는 유의�
 #### <mark style="color:$primary;">이런 변화는 조기에 피부과 진료를 받으세요</mark>
 
 * 한 손발톱에 불규칙한 검은 세로줄이 새로 생기거나 넓어지는 경우, 손발톱 주변 피부까지 색소가 번지는 경우, 출혈·궤양·지속적인 파괴가 있는 경우에는 무좀약의 효과를 기다리지 말고 피부과 진료를 받으십시오.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [AAD. Choosing Wisely](https://www.aad.org/member/clinical-quality/clinical-care/wisely) : 경구 항진균제 처방 전 진균 감염 확인
-* [Park J, et al. Korean Guideline for the Diagnosis and Treatment of Onychomycosis: Purpose and Process of Algorithm Guideline Development. J Mycol Infect. 2018;23(2):33–44](https://e-jmi.org/archive/detail/7?is_paper=y)
-* [Nenoff P, et al. S1 Guideline onychomycosis. J Dtsch Dermatol Ges. 2023;21(6):678–692](https://doi.org/10.1111/ddg.14988)
-* [CDC. Clinician Brief: Emerging Ringworm. 2026](https://www.cdc.gov/ringworm/hcp/clinical-overview/emerging-ringworm-facts-for-clinicians.html) : terbinafine 내성 T. rubrum 등 신종·내성 피부사상균
-* [Moon BY, et al. First Molecular Confirmation of Trichophyton indotineae in South Korea: A Case Report. J Mycol Infect. 2025;30(4):154–159](https://doi.org/10.17966/JMI.2025.30.4.154) : 온라인 출간 2026; 국내 피부 감염 2례이며 조갑 감염 자료는 아님
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) : 라미실정125㎎, 스포라녹스캡슐, 대웅푸루나졸정150㎎, 로푸록스네일라카, 풀케어·무조날에스네일라카, 로세릴네일라카, 주블리아외용액 및 무조날맥스외용액의 국내 적응증·용법·금기·주의사항
-* 완치율 대조 자료 : [Terbinafine 미국 허가자료](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=50657431-1cd9-42dd-9cfc-57db8713d267), [Itraconazole 미국 허가자료](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6242b7ad-eaa0-a524-b6e0-ec33e63407db), [Ciclopirox 미국 허가자료](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=79084b47-7481-4926-9837-e08f633b1ddf) : 국내 제품의 용법·제형과 구분. Efinaconazole 수치는 국내 첨부문서의 발톱 임상시험 결과
-* [FDA. Lasers for temporary increase of clear nail in patients with onychomycosis — Product Code PDZ](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?productcode=PDZ&start_search=1) : 일시적인 정상 조갑 면적 증가 목적의 기기 분류이며 진균학적 완치 허가와 구분

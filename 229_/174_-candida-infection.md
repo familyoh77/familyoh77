@@ -1,4 +1,4 @@
-# 칸디다 감염 (Candidiasis) Candida Infection
+# 칸디다 감염 Candidiasis
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -25,7 +25,7 @@
 
 ## <mark style="color:green;">임상 양상</mark>
 
-<table><thead><tr><th width="165">부위</th><th width="280">주요 소견</th><th>핵심 감별·연결</th></tr></thead><tbody><tr><td>구강·인두</td><td>닦이는 백색 위막, 홍반·작열감, 틀니 구내염</td><td>상세 진단·치료는 055 구강 칸디다증 참조</td></tr><tr><td>식도</td><td>연하통, 연하곤란, 흉골후 통증·작열감</td><td>CMV·HSV 식도염, 역류·약제유발 식도염 감별</td></tr><tr><td>피부주름</td><td>경계가 비교적 뚜렷한 습윤성 홍반·미란과 주변 위성 구진·농포</td><td>역건선, erythrasma, 피부백선, 접촉피부염 감별</td></tr><tr><td>기저귀 부위</td><td>피부주름을 포함하는 선홍색 발진과 위성 병변</td><td>자극성 기저귀 피부염은 대개 피부주름을 덜 침범</td></tr><tr><td>귀두포피</td><td>가려움·통증, 반점형 홍반, 작은 구진·미란, 포피하 분비물</td><td>자극성 피부염, 건선, 경화태선, 세균감염, HSV·매독 등 감별</td></tr><tr><td>침습성 감염</td><td>항균제에 반응하지 않는 발열·오한, 저혈압 또는 침범 장기별 증상</td><td>증상이 비특이적이므로 위험 인자와 혈액·멸균 부위 배양이 중요</td></tr></tbody></table>
+<table><thead><tr><th width="165">부위</th><th width="280">주요 소견</th><th>핵심 감별·연결</th></tr></thead><tbody><tr><td>구강·인두</td><td>닦이는 백색 위막, 홍반·작열감, 틀니 구내염</td><td>상세 진단·치료는 055 구강 칸디다증 참조</td></tr><tr><td>식도</td><td>연하통, 연하곤란, 흉골후 통증·작열감</td><td>CMV·HSV 식도염, 역류·약제유발 식도염 감별</td></tr><tr><td>피부주름</td><td>경계가 비교적 뚜렷한 습윤성 홍반·미란과 주변 위성 구진·농포</td><td>역건선, erythrasma, 피부백선, 접촉피부염 감별</td></tr><tr><td>기저귀 부위</td><td>피부주름을 포함하는 선홍색 발진과 위성 병변</td><td>자극성 기저귀 피부염은 대개 피부주름을 덜 침범</td></tr><tr><td>음문질</td><td>외음 가려움·작열감, 외부 배뇨통, 홍반·부종, 덩어리진 백색 분비물</td><td>증상만으로 확진 불가; 세균질증·트리코모나스질염·접촉피부염 감별. 질 pH는 대개 ＜4.5</td></tr><tr><td>귀두포피</td><td>가려움·통증, 반점형 홍반, 작은 구진·미란, 포피하 분비물</td><td>자극성 피부염, 건선, 경화태선, 세균감염, HSV·매독 등 감별</td></tr><tr><td>침습성 감염</td><td>항균제에 반응하지 않는 발열·오한, 저혈압 또는 침범 장기별 증상</td><td>증상이 비특이적이므로 위험 인자와 혈액·멸균 부위 배양이 중요</td></tr></tbody></table>
 
 {% hint style="danger" %}
 **분류 실수 주의**
@@ -85,12 +85,40 @@
 * 피부·구강·질 등 비멸균 부위의 배양 양성은 증상과 전형적인 병변이 동반될 때 임상적 의미가 있음
 {% endhint %}
 
+***
+
+### 진단 및 치료 알고리듬
+
+```mermaid
+flowchart TD
+    A["칸디다 감염 의심"] --> B{"응급 소견 또는 혈액배양에서 Candida 검출?"}
+    B -->|예| C["즉각 조치·입원 평가"]
+    B -->|아니요| D{"침습성 감염 위험과 지속 발열?"}
+    D -->|예| E["당일 평가·혈액배양 및 병소 검사"]
+    D -->|아니요| F{"증상과 병변이 있는가?"}
+    F -->|아니요| G["집락 가능성 평가·일률적 항진균 치료 피함"]
+    F -->|예| H{"주된 침범 부위"}
+    H -->|식도 의심| I["전신 치료·7일 이내 반응 평가"]
+    H -->|피부·점막| J["부위별 검사·국소 치료 우선"]
+    I --> K{"치료 실패·재발·비전형 소견?"}
+    J --> K
+    K -->|예| L["진단 재평가·배양 및 균종 동정·필요시 의뢰"]
+    K -->|아니요| M["정해진 치료 완료·위험 인자 관리"]
+```
+
+_✽검출 부위와 숙주에 따라 예외가 있음. 무증상 칸디다뇨의 고위험 상황과 C. auris 집락의 감염관리는 본문 참조. 이 흐름도는 본문을 요약한 편집용 도식임._
+
+***
+
 ## <mark style="background-color:$warning;">Management</mark>
+
+* **처방 시 최신 품목정보/급여기준 조회**. 아래 성인 처방례를 영아·소아에게 그대로 적용하지 않음; 국소제도 제형·사용 부위·연령별 허가사항을 확인
 
 ### <mark style="color:orange;">구강·인두 칸디다증</mark>
 
 * 위막형, 홍반형, 틀니 구내염 등으로 나타날 수 있음
 * 상세 임상형·감별·처방은 **055 구강 칸디다증** 참조
+* 성인에서 뚜렷한 국소 유발 인자 없이 반복되거나 식도 침범이 의심되면 당뇨병·약물 노출·면역저하를 재평가하고, 위험도와 동의에 따라 HIV 검사 등을 고려. 단순 VVC만으로 HIV 감염을 시사하지는 않음
 * 연하통·연하곤란 또는 흉골후 통증이 동반되면 식도 침범 여부를 별도로 평가; 구강 병변이 없어도 식도 칸디다증은 가능
 
 ### <mark style="color:orange;">식도 칸디다증</mark>
@@ -125,6 +153,8 @@
 * 무증상 질 집락은 치료하지 않으며, VVC는 전형적인 증상·소견과 KOH 검경·배양 등으로 진단. 가려움·분비물만으로 확진하지 않으며, 증상이 있는데 검경이 음성이면 배양 등을 고려
 * 단순 VVC(비임신) : 질내 국소 azole 또는 fluconazole 150 ㎎ PO 1회; 피부용 크림을 질내 제형으로 대체하지 않음
 * 재발성 VVC는 CDC 기준 **1년 미만 동안 증상이 있는 감염이 3회 이상**인 경우; 재발성·중증·non-albicans 또는 면역저하·당뇨병 동반은 복잡성 감염으로 분류하며, 특히 혈당 조절 불량 시 치료 반응 저하와 유발 인자 교정 필요성을 평가함 <mark style="color:$info;">[CDC STI 2021]</mark>
+* **임신 중에는 질내 국소 azole을 7일간 사용하며 경구 fluconazole은 사용하지 않음**
+* 일반의약품 치료 후 증상이 지속되거나 치료 후 2개월 이내 재발하면 진찰·검사를 시행. Probiotics를 항진균 치료의 대체로 사용하지 않음
 * 상세한 uncomplicated/complicated/RVVC·임신·non-albicans 치료는 **122 음문질 감염증** 참조
 * 무증상 성 파트너의 routine 치료는 권고하지 않으며, 증상이 있는 남성 파트너는 귀두포피염 여부를 평가·치료
 
@@ -145,6 +175,7 @@
 
 * 외래 경험적 경구 치료 대상이 아니며 신속한 입원·감염내과 평가 필요
 * 성인 candidemia의 초기 치료는 대개 echinocandin이며(ECMM/ISHAM/ASM 2025는 국외 신규 선택지인 주 1회 정주 rezafungin도 포함하며, 국내 처방 가능한 약제와 구분함), 혈액배양 음전 확인·감수성 결과·전이성 병소 평가에 따라 조정함. 감염된 중심정맥관의 안전한 제거 및 복강 농양 배액 등 감염원 관리를 함께 시행; 안구·중추신경계 감염은 약물의 조직 침투를 고려하여 별도 치료
+* 경구 azole로의 단계적 전환은 자동으로 시행하지 않음. 2025 국제 지침에서는 echinocandin 치료 5일 이상 후 **혈역학적 안정, 혈액배양 음전, 비호중구감소, 감염원 조절, 경구 azole 투여 가능, 감수성 확인**을 모두 충족할 때 고려 <mark style="color:$info;">[ECMM/ISHAM/ASM 2025]</mark>
 * 안구 통증·비문증·시력 변화가 있으면 당일 안과 평가하며, 급격하거나 심한 시력 저하는 즉각 조치
 * 무증상 candidemia의 산동 안저검사는 지침 간 차이가 있음. IDSA 2016은 비호중구감소 환자에서 진단 후 1주 이내, 호중구감소 환자에서는 회복 후 1주 이내 검사를 권고; AAO 2022는 무증상 환자의 일률적 검진을 권고하지 않음. **ECMM/ISHAM/ASM 2025는 안구 증상, 지속 candidemia, 면역억제 또는 증상을 표현하기 어려운 환자에서 안저검사를 제시**하므로 기관 프로토콜과 협진에 따라 결정 <mark style="color:$info;">[IDSA 2016; AAO 2022; ECMM/ISHAM/ASM 2025]</mark>
 * 혈액배양을 매일 또는 격일로 반복하여 음전을 확인(IDSA); ECMM/ISHAM/ASM 2025는 매일 추적하여 **3일 연속 음성**을 확인하고, 그 연속 음성이 시작된 첫날부터 14일 치료하도록 권고. 같은 날 채취한 여러 배양 세트의 음성을 3일 연속 음성과 동일시하지 않음 <mark style="color:$info;">[ECMM/ISHAM/ASM 2025]</mark>
@@ -156,7 +187,7 @@
 
 의료기관 내 전파와 다제내성이 문제가 되는 균종임. 중증 기저질환, 장기 입원, 중심정맥관·인공호흡기 등 침습적 기구 사용 환자에서 주로 문제가 되며, 감염 또는 집락이 의심·확인되면 감염관리 및 감염내과 자문이 필요함.
 
-* **국내에서는 2026년 3월 29일부터 제4급 법정감염병 및 의료관련감염병으로 지정**되어 표본감시기관이 환자·병원체 보유자를 신고·보고함. 일반적인 피부·점막 칸디다증 전체가 신고 대상이 된 것은 아님 <mark style="color:$info;">[질병관리청 2026]</mark>
+* **국내에서는 2026년 3월 29일부터 제4급 법정감염병 및 의료관련감염병으로 지정**되어 표본감시기관이 환자·병원체 보유자를 7일 이내 신고함. 신고기준상 환자는 혈액에서 분리된 사람, 병원체 보유자는 혈액 이외 임상검체에서 분리된 사람이며 **귀 검체는 제외**함. 신고상 분류와 임상적 치료 적응증을 구분함. 일반적인 피부·점막 칸디다증 전체가 신고 대상이 된 것은 아님 <mark style="color:$info;">[질병관리청 2026]</mark>
 * **무증상 집락 자체를 항진균제로 치료하지 않지만, 집락 환자도 전파 방지 조치가 필요함.** 국내에서는 질병관리청 「2026년도 칸디다 오리스 관리지침」에 따른 격리·접촉주의, 손 위생 및 접촉자 선별검사를 적용함
 * 의료기구는 전용으로 사용하거나 사용 후 적절히 소독하고, _C. auris_에 효과가 확인된 소독제로 매일 및 퇴실 시 환경소독을 시행함. 일부 일반 소독제, 특히 4급 암모늄화합물만을 유효성분으로 하는 제품은 효과가 불충분할 수 있음
 * 집락은 장기간 지속될 수 있으며 확립된 제균법은 없음. 항진균제나 chlorhexidine 세정만으로 집락 제거·격리 해제를 보장하지 않음
@@ -178,7 +209,7 @@
 * 경구 항진균제 복용 중 황달·진한 소변·지속적인 심한 피로·광범위 발진·물집·점막병변 등이 발생하면 약물 이상반응을 의심하여 복용을 중단하고 즉시 평가함. 호흡곤란·얼굴부종·실신은 응급 평가 대상임
 * 반복적인 경험적 azole 사용은 진단 지연과 내성 선별 위험이 있으므로 치료 실패 시 배양·균종 동정 및 감수성 검사 고려
 
-## <mark style="color:green;">예방</mark>
+## <mark style="color:green;">비약물 치료 및 예방</mark>
 
 * 불필요한 광범위 항생제·항진균제 및 스테로이드 사용을 줄임
 * 유지치료용 흡입 스테로이드 사용 후 물로 입안을 충분히 헹구고 뱉으며, 흡입법을 점검; 가압식 정량흡입기(pMDI) 사용자는 필요시 spacer 사용
@@ -196,13 +227,13 @@
 * B37.3† 외음 및 질의 칸디다증 Candidiasis of vulva and vagina; N77.1* 병기
 * B37.40† 칸디다 요도염 Candidal urethritis; N37.0* 병기
 * B37.41† 칸디다귀두염 Candidal balanitis; N51.2* 병기
-* B37.48 기타 비뇨생식기 부위의 칸디다증 Other urogenital candidiasis
-* B37.7 칸디다패혈증 Candidal septicaemia
+* B37.48 기타 비뇨생식기 부위의 칸디다증 Other urogenital candidiasis — **칸디다 방광염(Candidal cystitis) 포함**
+* B37.7 칸디다패혈증 Candidal sepsis — 칸디다혈증(Candidemia) 포함
 * B37.80 칸디다식도염 Candidal esophagitis
 * B37.88 기타 부위의 칸디다증 Other sites of candidiasis
 * B37.9 상세불명의 칸디다증 Candidiasis, unspecified
 
-_✽†는 원인질환, *는 발현질환 코드로 해당 병기 규칙을 따름. B37.4·B37.8은 상위 범주이므로 부위가 확인되면 세분류를 선택. KCD-9에서 B37.40†의 표제어는 ‘칸디다 요도염’으로 변경되었으며 방광염에 그대로 적용하지 않음._
+_✽†는 원인질환, *는 발현질환 코드로 해당 병기 규칙을 따름. B37.4·B37.8은 상위 범주이므로 부위가 확인되면 세분류를 선택. 사용자 보관 KCD9_251216(6).xlsx의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」와 대조함. B37.40†는 칸디다 요도염이며, 칸디다 방광염은 B37.48의 포함 항목임. †·* 관계는 N37.0*, N51.2*, N77.1*의 역참조 항목도 확인함._
 
 ***
 
@@ -234,7 +265,7 @@ _✽†는 원인질환, *는 발현질환 코드로 해당 병기 규칙을 따
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+## <mark style="color:$success;">핵심 복약 지도</mark>
 
 > * 칸디다는 정상적으로 존재할 수 있어 검사 양성만으로 치료하는 것은 아닙니다.
 > * 국소제는 병변과 주변에 얇게 바르고, 피부주름은 바르기 전에 충분히 말립니다.
@@ -243,6 +274,30 @@ _✽†는 원인질환, *는 발현질환 코드로 해당 병기 규칙을 따
 > * 치료 중 황달, 진한 소변, 심한 피로, 광범위 발진·물집·입안 헐음이 생기면 경구 항진균제 복용을 중단하고 즉시 진료받습니다. 숨참·얼굴부종·실신이 생기면 응급 평가를 받습니다.
 > * 디푸루칸캡슐50㎎을 복용하는 가임 여성은 투여 중 및 마지막 복용 후 약 1개월간 피임합니다. 다른 제품을 복용할 때에는 해당 제품의 안내를 따릅니다.
 > * 표준 치료에도 호전되지 않거나 곧 재발하면 임의로 같은 약을 반복하지 말고 진단과 균종을 재평가합니다.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/)
+* Cornely OA, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. Lancet Infect Dis. 2025;25(5):e280-e293. [서지](https://doi.org/10.1016/S1473-3099(24)00749-7) · [원문](https://www.splm.cz/_download/00000196-ecee-d7b3-abb6-fcfeb50b0000)
+* 2022 European Guideline for the Management of Balanoposthitis. J Eur Acad Dermatol Venereol. 2023. [서지](https://doi.org/10.1111/jdv.18954)
+* National Institutes of Health. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Candidiasis (Mucocutaneous). 2024 개정·2026 검토. [지침](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/candidiasis)
+* Centers for Disease Control and Prevention. Sexually Transmitted Infections Treatment Guidelines, 2021: Vulvovaginal Candidiasis. [지침](https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm)
+* Breazzano MP, et al. American Academy of Ophthalmology Recommendations on Screening for Endogenous Candida Endophthalmitis. Ophthalmology. 2022. [서지](https://doi.org/10.1016/j.ophtha.2021.07.015)
+* Centers for Disease Control and Prevention. Infection Control Guidance: Candida auris. 2026. [지침](https://www.cdc.gov/candida-auris/hcp/infection-control/index.html)
+* 질병관리청. 2026년도 칸디다 오리스 관리지침(소아·청소년 항진균제 용법·용량 추가판). [지침](https://kdca.go.kr/bbs/kdca/55/306943/download.do)
+* 질병관리청. 칸디다 오리스 감염증, 제4급 법정감염병 신규 지정. 2026. [보도자료](https://www.kdca.go.kr/bbs/kdca/42/306087/download.do)
+
+* 질병관리청. 2026 법정감염병 진단·신고기준. 칸디다 오리스 감염증, p.183. [자료](https://kdca.go.kr/bbs/kdca/55/307100/download.do)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
+* 사용자 보관 KCD-9 엑셀: KCD9_251216(6).xlsx — 「상병분류기호(전체)」·「상병분류기호(완전코드)」의 B37 및 관련 발현질환 코드 직접 대조(2026-10-30)
+* 제품 확인: 디푸루칸캡슐50밀리그람(품목기준코드 200511060), 카네스텐크림(199906850)의 의약품안전나라 허가·DUR 정보 확인(2026-10-30). 허가·급여와 실제 공급 여부는 처방 시 재확인
 
 ***
 
@@ -272,25 +327,3 @@ _✽†는 원인질환, *는 발현질환 코드로 해당 병기 규칙을 따
 #### <mark style="color:$primary;">추적 진료가 필요한 경우</mark>
 
 * 치료해도 호전되지 않거나 짧은 기간에 반복되면 진단과 유발 원인을 다시 평가받으십시오.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Pappas PG, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725385/)
-* Cornely OA, et al. Global guideline for the diagnosis and management of candidiasis: an initiative of the ECMM in cooperation with ISHAM and ASM. Lancet Infect Dis. 2025;25(5):e280-e293. [서지](https://doi.org/10.1016/S1473-3099(24)00749-7)
-* 2022 European Guideline for the Management of Balanoposthitis. J Eur Acad Dermatol Venereol. 2023. [서지](https://doi.org/10.1111/jdv.18954)
-* National Institutes of Health. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Candidiasis (Mucocutaneous). 2024 개정·2026 검토. [지침](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/candidiasis)
-* Centers for Disease Control and Prevention. Sexually Transmitted Infections Treatment Guidelines, 2021: Vulvovaginal Candidiasis. [지침](https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm)
-* Breazzano MP, et al. American Academy of Ophthalmology Recommendations on Screening for Endogenous Candida Endophthalmitis. Ophthalmology. 2022. [서지](https://doi.org/10.1016/j.ophtha.2021.07.015)
-* Centers for Disease Control and Prevention. Infection Control Guidance: Candida auris. 2026. [지침](https://www.cdc.gov/candida-auris/hcp/infection-control/index.html)
-* 질병관리청. 2026년도 칸디다 오리스 관리지침(소아·청소년 항진균제 용법·용량 추가판). [지침](https://kdca.go.kr/bbs/kdca/55/306943/download.do)
-* 질병관리청. 칸디다 오리스 감염증, 제4급 법정감염병 신규 지정. 2026. [보도자료](https://www.kdca.go.kr/kdca/2847/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa2RjYSUyRjQxJTJGMzEwNTQ5JTJGYXJ0Y2xWaWV3LmRvJTNGcGFzc3dvcmQlM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNmZpbmRPcG53cmQlM0QlMjZmaW5kV29yZCUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2ZmluZFR5cGUlM0QlMjZmaW5kQ2)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
-* 통계청. 제9차 한국표준질병·사인분류 개정(안). 2025. [자료](https://mods.go.kr/boardDownload.es?bid=11103\&list_no=443895\&seq=1)

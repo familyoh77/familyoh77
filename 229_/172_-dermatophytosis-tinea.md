@@ -144,16 +144,16 @@
 
 ### <mark style="color:orange;">감별 진단</mark>
 
-* 부위와 병변 양상에 따라 흔히 오인되는 질환들을 감별. 활성 경계에서의 KOH 검사가 가장 유용한 감별 도구
+* 부위와 병변 양상에 따라 흔히 오인되는 질환들을 감별. 활성 경계에서의 KOH 검사가 유용한 초기 감별 도구이나, 음성이면 임상 소견에 따라 재채취·배양·생검 등으로 보완
 
-<table><thead><tr><th width="140">백선 유형</th><th width="230">주요 감별질환</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>발백선(지간형)</td><td>홍색음선(erythrasma), 자극·접촉피부염, 그람음성균 지간감염</td><td>산호색 형광(홍색음선), KOH 균사(백선); 심한 짓무름·악취·통증·삼출이면 세균감염·혼합감염도 평가</td></tr><tr><td>손백선</td><td>손습진, 접촉피부염, 건선</td><td>two feet–one hand 패턴; 편측성; KOH</td></tr><tr><td>몸백선·얼굴백선</td><td>화폐상습진, 건선, 장미색비강진, 원심성환상홍반, 아토피피부염, 지루피부염, 육아종성 질환, 2기 매독</td><td>활성 경계의 인설 KOH; 반려동물 접촉력; 만성·비전형 경과 시 매독 혈청검사 고려</td></tr><tr><td>샅백선</td><td>Candida 간찰진, 홍색음선, 역위건선, 지루피부염, 접촉피부염</td><td>위성 농포·음낭 침범(Candida), 산호색 형광(홍색음선), 음낭 보존 경향(백선이나 배제 근거는 아님)</td></tr></tbody></table>
+<table><thead><tr><th width="140">백선 유형</th><th width="230">주요 감별질환</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>발백선(지간형)</td><td>홍색음선(erythrasma), 자극·접촉피부염, 그람음성균 지간감염</td><td>산호색 형광(홍색음선), KOH 균사(백선); 심한 짓무름·악취·통증·삼출이면 세균감염·혼합감염도 평가</td></tr><tr><td>손백선</td><td>손습진, 접촉피부염, 건선</td><td>two feet–one hand 패턴; 편측성; KOH</td></tr><tr><td>몸백선·얼굴백선</td><td>화폐상습진, 건선, 장미색비강진, 원심성환상홍반, 아토피피부염, 지루피부염, 육아종성 질환, 2기 매독</td><td>활성 경계의 인설 KOH; 반려동물 접촉력; 만성·비전형 경과 시 매독 혈청검사 고려</td></tr><tr><td>샅백선</td><td>Candida 간찰진, 홍색음선, 역위건선, 지루피부염, 접촉피부염</td><td>위성 농포·음낭 침범(Candida), 산호색 형광(홍색음선), 음낭 보존 경향(백선이나 배제 근거는 아님)</td></tr><tr><td>두부백선</td><td>지루피부염, 두피건선, 원형탈모증, 발모벽</td><td>인설·부러진 모발·black dot·림프절병증을 확인하고 모발과 인설의 KOH·배양으로 보완. Kerion은 세균성 농양과 감별</td></tr><tr><td>수염백선·심부 모낭성 백선</td><td>세균성 모낭염·농양, 여드름성 질환</td><td>동물 접촉·면도·steroid 사용력, 모발 탈락·깊은 결절을 확인. 표면 KOH 음성이어도 배양·생검 고려</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
     A(["피부백선 의심"]) ---> B{"즉각 조치 또는 당일 평가 소견?"}
-    B -- 예 ---> C["응급 원인 평가 또는 당일 치료·의뢰"]
+    B -- 예 ---> C(["응급 원인 평가 또는 당일 치료·의뢰"])
     B -- 아니오 ---> D{"두부·수염·심부 모낭 침범?"}
     D -- 예 ---> E["검체 채취 후 경구치료 계획·피부과 평가"]
     D -- 아니오 ---> F{"전형적 국소 피부 병변?"}
@@ -169,7 +169,9 @@ graph TD
     G ---> N{"1~2주 내 호전 시작?"}
     N -- 예 ---> O["제품별 권장 기간까지 치료"]
     N -- 아니오 ---> J
-    J ---> P["순응도·재노출·심부 침범·내성 검토 및 필요 시 의뢰"]
+    O ---> M
+    M ---> Q(["임상·필요 시 진균학적 반응에 따라 종료·추적"])
+    J ---> P(["순응도·재노출·심부 침범·내성 검토 및 필요 시 의뢰"])
 ```
 
 <p align="center"><strong>피부백선증 진단 및 치료 알고리듬</strong></p>
@@ -208,25 +210,44 @@ graph TD
 * 심한 가려움에는 항진균치료와 함께 필요 시 항히스타민제를 고려함. 국소 corticosteroid 추가는 일상적 치료로 권하지 않으며, 예외적 사용이 필요하면 진균학적 확인 후 피부과와 상의하여 최저 역가·최단 기간으로 제한함
 * 중등도 이상 역가의 steroid 복합제는 단순 몸백선·샅백선 처방례에 포함하지 않음
 
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
+
+* 샤워 후 피부, 특히 발가락 사이를 완전히 건조
+* 통풍이 되는 신발을 번갈아 신고 양말·속옷은 매일 교환
+* 공동 샤워실·수영장·찜질방·라커룸에서 개인 슬리퍼 착용
+* 수건·양말·신발·의복·면도기·빗·모자·헤드기어·운동장비를 공유하지 않음
+* 의류·수건·침구는 세제로 세탁하고 섬유가 견딜 수 있는 온도의 세탁·건조 과정을 사용하여 완전히 건조
+* 손발톱깎이·줄 등은 공유하지 않고 사용 후 세척·소독
+* 병변을 긁거나 불필요하게 면도하지 않으며 병변을 만진 후 손을 씻음
+* 발백선과 손발톱백선을 함께 관리하여 자가접종과 재발을 줄임
+* 반려동물의 탈모·비늘성 병변은 수의사에게 평가
+* 진단되지 않은 피부 발진에 corticosteroid 또는 항진균제–corticosteroid 복합제를 임의로 사용하지 않음
+
+## <mark style="color:green;">약물 치료</mark>
+
+* 아래 경구 용량은 별도 표시가 없으면 **성인·정상 간·신기능 기준**이며, 소아 두부백선은 별도 체중표를 적용함.
+* **처방 시 최신 품목정보/급여기준 조회**. 허가 적응증·용법, 실제 공급 여부 및 보험 적용을 각각 확인함.
+
 ### <mark style="color:orange;">국소 항진균제</mark>
 
 * 병변과 주변 정상 피부 1\~2 ㎝까지 얇게 도포
-* 부위·제형·제품별 허가 용법이 다르므로 실제 처방 시 국내 허가사항 확인
+* 부위·제형·제품별 허가 용법이 다르므로 실제 처방 시 국내 허가사항 확인. 눈·점막·상처·미란에는 임의로 바르지 않으며, 얼굴·생식기 주변은 선택 제품의 적용부위 제한을 확인함
 * 두부백선·모낭 침범 수염백선·심부 모낭성 백선의 단독 치료로 사용하지 않음. 아래 피부용 크림·겔은 손발톱백선 단독 치료에도 적합하지 않음
 * Nystatin은 Candida 치료제이며 피부사상균 백선에는 효과가 없어 사용하지 않음
 * 소아·임신·수유 중에는 제제별 허가 제한을 확인함. 라미실크림1%·로세릴크림은 국내 허가사항상 소아·임부·수유부에게 사용하지 않음. 임신·수유 중 국소 피부백선에는 의사의 판단 아래 clotrimazole 등을 우선 고려함
 
-<table><thead><tr><th width="220">성분·제형 (대표 상품명)</th><th width="100">일반적 도포</th><th width="230">치료 기간</th><th>임상적 특징</th></tr></thead><tbody><tr><td>terbinafine 1% cream <mark style="color:blue;">\[라미실크림1%]</mark></td><td>몸·샅: qd~bid<br>지간·발바닥: bid</td><td>몸·샅백선 1~2주<br>지간형 발백선 1주<br>발바닥형 발백선 2주</td><td>국내 크림 허가용법; 각화가 심하거나 호전 불충분하면 재평가. 외용액·덤겔·원스 제형과 용법을 혼동하지 않음</td></tr><tr><td>butenafine 1% cream <mark style="color:blue;">\[멘탁스크림]</mark></td><td>qd</td><td>몸·샅백선 약 2주<br>발백선은 2~4주 고려</td><td>통상 임상 치료기간; 부위·반응 및 제품설명서에 따라 조정</td></tr><tr><td>clotrimazole 1% cream <mark style="color:blue;">\[카네스텐크림]</mark></td><td>bid~tid</td><td>피부백선 3~4주</td><td>국내 허가용법. 진균학적 완치가 확인되지 않으면 증상 소실 후 약 2주 추가 치료를 제품설명서에 따라 고려. Candida 동반 감염에도 유용</td></tr><tr><td>ketoconazole 2% cream <mark style="color:blue;">\[케토코나졸크림(태극)]</mark></td><td>qd</td><td>몸백선 3~4주<br>샅백선 2~4주<br>발백선 4~6주</td><td>피부백선 및 Malassezia 질환. 니조랄2%액(샴푸)과 제형·용법을 구분</td></tr><tr><td>sertaconazole 2% cream <mark style="color:blue;">\[더모픽스크림]</mark></td><td>qd~bid</td><td>4주를 원칙으로 함</td><td>국내 허가용법; 보통 2~4주에 효과가 나타나나 재발방지를 위해 4주 사용</td></tr><tr><td>amorolfine 0.25% cream <mark style="color:blue;">\[로세릴크림]</mark></td><td>qd, 저녁</td><td>최소 2~3주<br>발백선은 6주 필요 가능</td><td>임상적 치유 후 수일 추가 사용. 조갑용 네일라카와 제형을 혼동하지 않음</td></tr><tr><td>ciclopirox 0.77% gel <mark style="color:blue;">\[로푸록스겔]</mark></td><td>bid</td><td>4주</td><td>지간형 발백선에 대한 국내 허가용법. 크림·액제·네일라카의 적응증과 구분</td></tr></tbody></table>
+<table><thead><tr><th width="220">성분·제형 (대표 상품명)</th><th width="100">일반적 도포</th><th width="230">치료 기간</th><th>임상적 특징</th></tr></thead><tbody><tr><td>terbinafine 1% cream <mark style="color:blue;">\[라미실크림1%]</mark></td><td>몸·샅: qd~bid<br>지간·발바닥: bid</td><td>몸·샅백선 1~2주<br>지간형 발백선 1주<br>발바닥형 발백선 2주</td><td>국내 크림 허가용법; 각화가 심하거나 호전 불충분하면 재평가. 외용액·덤겔·원스 제형과 용법을 혼동하지 않음</td></tr><tr><td>butenafine 1% cream <mark style="color:blue;">\[멘탁스크림]</mark></td><td>qd</td><td>몸·샅백선 약 2주<br>발백선은 2~4주 고려</td><td>통상 임상 치료기간; 부위·반응 및 제품설명서에 따라 조정</td></tr><tr><td>clotrimazole 1% cream <mark style="color:blue;">\[카네스텐크림]</mark></td><td>bid~tid</td><td>피부백선 3~4주</td><td>국내 허가용법. 진균학적 완치가 확인되지 않으면 증상 소실 후 약 2주 추가 치료를 제품설명서에 따라 고려. Candida 동반 감염에도 유용</td></tr><tr><td>ketoconazole 2% cream <mark style="color:blue;">\[태극케토코나졸크림]</mark></td><td>qd<br>심하면 bid</td><td>증상 소실 후에도 수일 추가<br>치료기간은 부위·반응에 따라 조정</td><td>제조사 공개 용법은 보통 qd, 감염이 심하면 bid. 니조랄2%액(샴푸)과 제형·용법을 구분</td></tr><tr><td>sertaconazole 2% cream <mark style="color:blue;">\[더모픽스크림]</mark></td><td>qd~bid</td><td>4주를 원칙으로 함</td><td>국내 허가용법; 보통 2~4주에 효과가 나타나나 재발방지를 위해 4주 사용</td></tr><tr><td>amorolfine 0.25% cream <mark style="color:blue;">\[로세릴크림]</mark></td><td>qd, 저녁</td><td>최소 2~3주<br>발백선은 6주 필요 가능</td><td>임상적 치유 후 수일 추가 사용. 조갑용 네일라카와 제형을 혼동하지 않음</td></tr><tr><td>ciclopirox 0.77% gel <mark style="color:blue;">\[로푸록스겔]</mark></td><td>bid</td><td>4주</td><td>지간형 발백선에 대한 국내 허가용법. 크림·액제·네일라카의 적응증과 구분</td></tr></tbody></table>
 
 ### <mark style="color:orange;">경구 항진균제 안전성</mark>
 
-<table><thead><tr><th width="120">약제</th><th width="200">투여 전 확인</th><th>주요 주의·상호작용</th></tr></thead><tbody><tr><td>terbinafine</td><td>간질환 병력, AST/ALT<br>신기능 저하 여부</td><td>활동성·만성 간질환 금기. 간손상 증상 발생 시 즉시 중단·검사. CYP2D6 억제로 일부 항우울제·항정신병약·β-blocker 등과 상호작용. <strong>CrCl &lt;50 ㎖/min에서는 가급적 대체 치료 또는 전문가 자문을 우선 고려</strong>. 국내 허가사항의 용법·용량에는 1일 용량 1/2 감량이 제시되어 있으나, 사용상의 주의사항에는 충분히 연구되지 않아 투여가 권장되지 않는다는 문구가 병존함. 불가피하게 투여할 때는 제품설명서를 확인하여 감량·모니터링. 중증 신부전은 금기</td></tr><tr><td>itraconazole</td><td>간기능, 심부전·부종, 병용약</td><td>심부전·심실기능장애 또는 심부전 병력이 있으면 단순 피부백선 치료 목적으로 투여하지 않음. 강력한 CYP3A4 억제제로 다수의 병용금기(예: simvastatin, lovastatin, triazolam, 경구 midazolam). 캡슐은 충분한 식사 직후 복용하며 위산억제제는 흡수를 낮출 수 있음</td></tr><tr><td>fluconazole</td><td>신기능, 간기능, QT 연장 위험과 병용약</td><td>단회 투여는 일반적으로 신기능에 따른 용량조절이 필요하지 않음. 반복 투여 시 CrCl ≤50 ㎖/min인 비투석 환자는 첫날 상용량 투여 후 유지용량을 50%로 감량하거나 투여간격을 연장. 혈액투석 환자는 각 투석 후 상용량 투여. QT 연장 및 CYP2C9/2C19/3A4 관련 상호작용에 주의</td></tr></tbody></table>
+<table><thead><tr><th width="120">약제</th><th width="200">투여 전 확인</th><th>주요 주의·상호작용</th></tr></thead><tbody><tr><td>terbinafine</td><td>간질환 병력, AST/ALT<br>신기능 저하 여부</td><td>활동성·만성 간질환, 호중구감소·범혈구감소·무과립구증·혈소판감소 등의 혈액질환 금기. 간손상 증상 발생 시 즉시 중단·검사. CYP2D6 억제로 일부 항우울제·항정신병약·β-blocker 등과 상호작용. <strong>CrCl ＜50 ㎖/min에서는 가급적 대체 치료 또는 전문가 자문을 우선 고려</strong>. 국내 허가사항의 용법·용량에는 1일 용량 1/2 감량이 제시되어 있으나, 사용상의 주의사항에는 충분히 연구되지 않아 투여가 권장되지 않는다는 문구가 병존함. 불가피하게 투여할 때는 제품설명서를 확인하여 감량·모니터링. 중증 신부전은 금기</td></tr><tr><td>itraconazole</td><td>간기능, 심부전·부종, 병용약</td><td>심부전·심실기능장애 또는 심부전 병력이 있으면 단순 피부백선 치료 목적으로 투여하지 않음. 간효소 이상·활동성 간질환·다른 약물에 의한 간독성 병력이 있으면 단순 피부백선에는 대체 치료 우선. 강력한 CYP3A4 억제제로 다수의 병용금기(예: simvastatin, lovastatin, triazolam, 경구 midazolam, domperidone). 캡슐은 충분한 식사 직후 복용하며 위산억제제는 흡수를 낮출 수 있음</td></tr><tr><td>fluconazole</td><td>신기능, 간기능, QT 연장 위험과 병용약</td><td>단회 투여는 일반적으로 신기능에 따른 용량조절이 필요하지 않음. 반복 투여 시 CrCl ≤50 ㎖/min인 비투석 환자는 첫날 상용량 투여 후 유지용량을 50%로 감량하거나 투여간격을 연장. 혈액투석 환자는 각 투석 후 상용량을 투여하며 비투석일 용량은 신기능·투여일정에 따라 개별화. QT 연장 및 CYP2C9/2C19/3A4 관련 상호작용에 주의</td></tr></tbody></table>
 
-* 경구 terbinafine 투여 전 AST/ALT를 확인. 국내 허가사항에 따라 치료 4\~6주 후를 포함하여 초기 2개월 동안 월 1회 간기능검사를 시행하고 이후에도 정기적으로 추적함. 혈액질환 병력을 확인하고 정기 혈액검사를 시행하며 발열·인두통·쉽게 멍듦 등이 발생하면 CBC를 확인함 <mark style="color:$info;">[라미실정 국내 첨부문서]</mark>
-* Itraconazole은 투여 전 간질환과 병용약을 확인. 장기 투여, 기존 간질환, 다른 간독성 약물 병용 또는 간손상 의심 증상이 있으면 정기적으로 간기능을 추적하며, 간독성이 치료 첫 1개월 이내에도 발생할 수 있음에 유의
+* 경구 terbinafine 투여 전 AST/ALT를 확인. 국내 허가사항에 따라 치료 4\~6주 후를 포함하여 초기 2개월 동안 월 1회 간기능검사를 시행하고 이후에도 정기적으로 추적함. 혈액질환 병력을 확인하고 정기 혈액검사를 시행하며 발열·인두통·쉽게 멍듦 등이 발생하면 CBC를 확인함 <mark style="color:$info;">[국내 경구 terbinafine 첨부문서]</mark>
+* Itraconazole은 투여 전 간기능·간질환·병용약을 확인하고 **투여 중 정기적인 간기능검사를 시행**함. 간독성이 치료 첫 1개월 이내에도 발생할 수 있어, 장기 투여·간질환·간독성 약물 병용 시 특히 면밀히 추적함. 호흡곤란·부종·급격한 체중 증가가 생기면 심부전을 평가하고 중단. 장기 투여 중 새로 발생한 고혈압·저칼륨혈증은 가성 알도스테론증 가능성을 평가함
 * 지속되는 구역·식욕저하·심한 피로·우상복부 통증·황달·진한 소변·회색변이 발생하면 약을 중단하고 즉시 평가
 * 임신 중 단순 피부백선은 국소치료를 우선함. Itraconazole·fluconazole은 국내 허가사항상 임부·임신 가능 여성 및 수유부 금기이며, 경구 terbinafine도 수유부 금기. 불가피한 경구치료가 필요한 경우 전문과와 상의함
-* 경구 terbinafine의 손백선·얼굴백선·수염백선·Majocchi granuloma 및 성인 두부백선 사용은 해당 제품의 허가 적응증에 포함되는지 확인하고, 라미실정 기준 허가 외 사용으로 구분함
+* Fluconazole 처방 전 임신 계획과 피임을 확인함. **국내 확인 품목(씨플루코캡슐)은 투여 중 및 마지막 투여 후 약 1개월간 피임**을 명시함. 해외 SmPC의 마지막 투여 후 1주 권고와 구분하여 국내 선택 품목의 최신 허가사항을 우선 적용함
+* 경구 terbinafine의 손백선·얼굴백선·수염백선·Majocchi granuloma 및 성인 두부백선 사용은 해당 제품의 허가 적응증에 포함되는지 확인하고, 국내 경구 terbinafine 확인 품목 기준 허가 외 사용으로 구분함. Itraconazole의 얼굴백선·두부백선·수염백선·Majocchi granuloma 사용 역시 선택 품목의 적응증·용법을 별도 확인함
 * 경구제 투여 중 진행성 전신 발진·점막병변·수포, 호흡곤란·얼굴부종 등이 발생하면 즉시 중단하고 응급 평가함. Terbinafine의 지속적인 미각·후각 이상도 보고하도록 안내함
 
 ### <mark style="color:orange;">발백선·손백선</mark>
@@ -247,7 +268,7 @@ graph TD
   * itraconazole **100 ㎎ qd ×15일** - 국내 허가요법
   * itraconazole 200 ㎎ qd ×7일 - 문헌상 단기요법으로 보고되나 국내 허가 외 사용
   * terbinafine 250 ㎎ qd ×2\~4주
-  * fluconazole 150 ㎎ qwk ×2\~4주
+  * fluconazole 150 ㎎ qwk 또는 50 ㎎ qd ×2\~4주 - 몸·샅백선 국내 허가요법. 얼굴백선은 선택 품목의 적응증을 별도 확인함
 * 샅백선에서는 동반 발백선·손발톱백선을 반드시 확인
 
 ### <mark style="color:orange;">두부백선</mark>
@@ -258,10 +279,10 @@ graph TD
 
 **Terbinafine - *Trichophyton* 감염에서 우선 고려**
 
-<table><thead><tr><th width="120">체중</th><th width="150">1일 용량</th><th>국내 허가 치료기간</th></tr></thead><tbody><tr><td>&lt;20 ㎏</td><td>62.5 ㎎ qd</td><td rowspan="3">4주</td></tr><tr><td>20\~40 ㎏</td><td>125 ㎎ qd</td></tr><tr><td>&gt;40 ㎏</td><td>250 ㎎ qd</td></tr></tbody></table>
+<table><thead><tr><th width="120">체중</th><th width="150">1일 용량</th><th>국내 허가 치료기간</th></tr></thead><tbody><tr><td>＜20 ㎏</td><td>62.5 ㎎ qd</td><td rowspan="3">4주</td></tr><tr><td>20\~40 ㎏</td><td>125 ㎎ qd</td></tr><tr><td>＞40 ㎏</td><td>250 ㎎ qd</td></tr></tbody></table>
 
 * 국내 허가사항상 2세 이상 소아 두부백선에 사용. 2세 미만은 금기이며, 20 ㎏ 미만 소아는 사용 경험이 제한적이므로 유익성과 위험성을 검토
-* 62.5 ㎎ 투여 시 분할선이 있는 125 ㎎ 제형은 1/2정으로 투여할 수 있으며, 제품별 분할 가능 여부를 확인
+* 62.5 ㎎ 투여가 필요하면 제품별 정제 분할 가능성과 용량 정확도를 약사와 확인함. 125 ㎎ 정제라는 이유만으로 1/2정 분할의 적합성을 단정하지 않음
 * 치료 시작 2주 내 순응도·임상 반응·이상반응을 확인하고, 4주 치료 후 진균학적·임상적 반응을 재평가. *Microsporum* 의심·확인 또는 반응이 느린 경우 치료 연장·대체약을 고려할 수 있으나, 허가사항 외 임상 판단임을 구분
 * *Microsporum* 감염에서는 griseofulvin이 상대적으로 우수함. 국내에서는 **통상적인 처방·조달이 어려우며**, 국내 증례에서 한국희귀·필수의약품센터를 통한 해외 조달이 보고됨. 필요 시 최신 공급·조달 가능 여부를 확인하고 피부과와 상의함(Ann Dermatol 2023; doi:10.5021/ad.21.254)
 * *Microsporum* 의심·확인, terbinafine 반응 불충분 또는 복잡한 증례에서는 itraconazole 등 **국내 허가 외 대체요법**을 피부과와 상의
@@ -272,13 +293,15 @@ graph TD
 ### <mark style="color:orange;">항진균제 내성·신종 백선</mark>
 
 * *Trichophyton indotineae*는 광범위하고 염증이 심하며 재발성인 몸·샅·얼굴백선을 일으키고 terbinafine 내성을 보일 수 있음
-* 남아시아 등 해외 여행·거주, 감염자와의 밀접 접촉, 반복적인 steroid 복합제 사용, 적절한 terbinafine 치료 실패를 확인
+* 남아시아 등 해외 여행·거주, 감염자와의 밀접 접촉, 반복적인 steroid 복합제 사용, 적절한 terbinafine 치료 실패를 확인. **해외 노출력이 없어도 배제하지 않음**
+* Terbinafine 내성 *T. rubrum*도 보고되어, 내성 의심을 *T. indotineae*에만 한정하지 않음
 * 남아시아 외의 여러 지역에서도 발생이 보고됨. 지역별 감시자료가 제한적이므로 모든 지역에서의 일률적인 증가 추세로 단정하지 않음(☞ [AAD 신종 피부사상균 자료](https://www.aad.org/member/clinical-quality/clinical-care/emerging-diseases/dermatophytes))
 * 국내에서도 최초 분자확진 2례가 보고되었으나, 전국적인 감시자료가 부족하여 국내 유병률과 확산 범위는 아직 불명확함 <mark style="color:$info;">[Moon 등, J Mycol Infect 2025;30(4):154–159; 온라인 출간 2026]</mark>
 * 생식기·항문주위·둔부의 통증성 염증성 병변에서는 성접촉 관련 *T. mentagrophytes* genotype VII(TMVII)도 고려. **TMVII를 terbinafine 내성균과 동일시하지 않음**. 현재 근거에서는 경구 terbinafine에 반응하는 경우가 많음 <mark style="color:$info;">[CDC Emerging Ringworm 2026]</mark>
 * 내성 백선 의심 시 치료 전 검체를 채취하고 **피부과·감염내과와 협진**하여 균종 동정·감수성 검사 및 대체 경구치료(주로 itraconazole)를 결정
 * 내성 의심 백선은 일반 몸·샅백선의 국소 terbinafine 1\~2주 요법 또는 통상적인 단기 경구요법과 구분함. Itraconazole 치료는 흔히 6\~8주 이상 필요하며 임상적 소실 및 가능하면 KOH 음성까지 전문과에서 개별화함. 장기·대체 용법은 국내 허가용법과 구분하고 안전성·흡수·상호작용을 추적함
-* 검사 결과만 기다리느라 필요한 치료를 지연하지 않으며, 단순히 항진균제 용량을 증량하거나 corticosteroid 복합제를 추가하지 않음
+* 2026년 10월 IADVL 전문가 합의도 *T. indotineae*에 itraconazole을 우선하고, 약 4주 반응 평가 후 불충분하면 약제 변경을 검토하며 완치까지 충분히 치료하도록 제시함. 이는 국내 허가·급여기준과 구분되는 전문가 합의이며, 고용량 terbinafine 등 구제요법은 전문과에서 판단함
+* 검사 결과만 기다리느라 필요한 치료를 지연하지 않으며, 단순히 항진균제 용량을 증량하거나 corticosteroid 복합제를 추가하지 않음. 서로 다른 **경구 항진균제의 일률적인 병용도 권하지 않음**
 
 **TMVII 의심 시 접근**
 
@@ -289,19 +312,6 @@ graph TD
 <mark style="color:$info;">[CDC Clinical Overview of TMVII 2026]</mark>
 
 ***
-
-## <mark style="color:green;">비-약물 치료 및 예방</mark>
-
-* 샤워 후 피부, 특히 발가락 사이를 완전히 건조
-* 통풍이 되는 신발을 번갈아 신고 양말·속옷은 매일 교환
-* 공동 샤워실·수영장·찜질방·라커룸에서 개인 슬리퍼 착용
-* 수건·양말·신발·의복·면도기·빗·모자·헤드기어·운동장비를 공유하지 않음
-* 의류·수건·침구는 세제로 세탁하고 섬유가 견딜 수 있는 온도의 세탁·건조 과정을 사용하여 완전히 건조
-* 손발톱깎이·줄 등은 공유하지 않고 사용 후 세척·소독
-* 병변을 긁거나 불필요하게 면도하지 않으며 병변을 만진 후 손을 씻음
-* 발백선과 손발톱백선을 함께 관리하여 자가접종과 재발을 줄임
-* 반려동물의 탈모·비늘성 병변은 수의사에게 평가
-* 진단되지 않은 피부 발진에 corticosteroid 또는 항진균제–corticosteroid 복합제를 임의로 사용하지 않음
 
 ## <mark style="color:green;">관련 표재진균증 - 어루러기 Pityriasis versicolor</mark>
 
@@ -337,29 +347,23 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드</mark>
+## <mark style="color:green;">시술 및 기타 처치</mark>
 
-B35.0　수염 및 두피 백선
+* 단순 피부백선에는 시술이 필요하지 않음.
+* Kerion은 진균성 염증 병변이므로 단순 세균성 농양으로 오인하여 절개·배농하지 않음. 별도의 세균성 농양이 의심되면 전문과에서 평가함.
+* 깊은 모낭성 병변·Majocchi granuloma 의심 또는 진단 불확실 시 피부과에서 생검과 조직 진균배양을 고려함.
 
-B35.1　손발톱백선
+## <mark style="color:red;">질병코드</mark>
 
-B35.2　손백선
+<table><thead><tr><th width="100">KCD-9</th><th width="220">한글명</th><th>영문명</th></tr></thead><tbody><tr><td>B35.0</td><td>수염 및 두피 백선</td><td>Tinea barbae and tinea capitis</td></tr><tr><td>B35.1</td><td>손발톱백선</td><td>Tinea unguium</td></tr><tr><td>B35.2</td><td>손백선</td><td>Tinea manuum</td></tr><tr><td>B35.3</td><td>발백선</td><td>Tinea pedis</td></tr><tr><td>B35.4</td><td>체부백선</td><td>Tinea corporis</td></tr><tr><td>B35.6</td><td>사타구니백선</td><td>Tinea inguinalis [Tinea cruris]</td></tr><tr><td>B35.8</td><td>기타 피부백선증</td><td>Other dermatophytoses</td></tr><tr><td>B35.9</td><td>상세불명의 백선증</td><td>Dermatophytosis, unspecified</td></tr><tr><td>B36.0</td><td>어루러기</td><td>Pityriasis versicolor</td></tr></tbody></table>
 
-B35.3　발백선
-
-B35.4　체부백선
-
-B35.6　사타구니백선
-
-B35.8　기타 피부백선증
-
-B35.9　상세불명의 피부백선증
-
-B36.0　어루러기 - 비피부사상균성 표재진균증
+* 저장된 KCD9_251216(6).xlsx의 「상병분류기호(완전코드)」와 대조함. B35.8에는 육아종성 백선증이 포함되며, B36.0 어루러기는 피부사상균증과 구분함.
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
+
+* 경구 terbinafine 상품 예는 **무조날정125㎎**으로 정리함. 2026-10-23 인천세종병원 약제팀이 라미실정125㎎ 공급중단에 따른 대체를 공지함. 해당 공지를 전국의 허가취하 확정으로 확대 해석하지 않으며, 처방 시 제품별 공급·허가·급여상태를 재확인함. 라미실크림은 경구 정제와 별도 품목임.
 
 {% hint style="info" %}
 경구 항진균제 처방 전에는 가능하면 KOH 등으로 진단을 확인하고 간질환·신장기능·심부전·임신 가능성 및 병용약을 검토한다. 단순 국소 백선에는 경구제와 국소제를 일률적으로 병용하지 않는다.
@@ -376,7 +380,7 @@ B36.0　어루러기 - 비피부사상균성 표재진균증
 > **처방례 2. 광범위 각화형 발백선, KOH 양성**
 >
 > ```
-> 라미실정125㎎ 2T　qd ×2\~6주
+> 무조날정125㎎ 2T　qd ×2\~6주
 > 유리아크림　필요 시 qd\~bid
 > ```
 >
@@ -401,7 +405,7 @@ B36.0　어루러기 - 비피부사상균성 표재진균증
 > **처방례 5. 두부백선, 체중 20\~40 ㎏ 소아**
 >
 > ```
-> 라미실정125㎎ 1T　qd ×4주
+> 무조날정125㎎ 1T　qd ×4주
 > 케토코나졸 2% 샴푸　두피에 주 2회 ×2\~4주 (보조요법, 허가 외)
 > ```
 >
@@ -425,7 +429,7 @@ B36.0　어루러기 - 비피부사상균성 표재진균증
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+## <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **약 바르는 법**
 >
@@ -442,12 +446,38 @@ B36.0　어루러기 - 비피부사상균성 표재진균증
 > * 심한 피로, 식욕저하, 구역, 우상복부 통증, 황달, 진한 소변이 생기면 복용을 중단하고 즉시 진료받습니다.
 > * 광범위한 발진·물집·입안 헐음, 숨참·다리 부종이 생겨도 복용을 중단하고 즉시 진료받습니다.
 > * Terbinafine 복용 중 맛이나 냄새가 달라지거나 사라지면 복용을 중단하고 처방 의료진에게 알립니다.
+> * 임신을 계획하거나 가능성이 있으면 처방 전에 알립니다. Fluconazole은 국내 선택 제품의 피임기간을 지키며, 확인 품목은 마지막 복용 후 약 1개월까지 피임하도록 안내합니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
 > * 적절히 사용했는데도 병변이 넓어지거나 1\~2주 내 호전이 시작되지 않는 경우
 > * 두피에 비늘과 탈모가 생기거나 병변이 붓고 고름이 나는 경우
 > * 권장 치료 종료 후에도 붉은 활성 경계·비늘 등 감염 소견이 남아 있는 경우(색소 변화만 남은 경우와 구분)
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [Fuller LC, et al. British Association of Dermatologists’ guidelines for the management of tinea capitis 2014. Br J Dermatol. 2014;171:454–463](https://doi.org/10.1111/bjd.13196) : 균종에 따른 두부백선 치료·보조 샴푸·치료 반응 평가; 국내 허가용법과 구분
+* [AAD. Preventing and treating Trichophyton indotineae](https://www.aad.org/member/clinical-quality/clinical-care/emerging-diseases/dermatophytes/preventing-treating-trichophyton-indotineae) : 내성 의심 백선의 검사·치료·안전성
+* [CDC. Clinician Brief: Emerging Ringworm. 2026-10-13](https://www.cdc.gov/ringworm/hcp/clinical-overview/emerging-ringworm-facts-for-clinicians.html) : T. indotineae, TMVII, terbinafine 내성 T. rubrum 구분
+* [CDC. Clinical Overview of TMVII. 2026-10-08](https://www.cdc.gov/ringworm/hcp/clinical-overview/tmvii.html) : 검사·경구치료·전파 예방
+* [EUCAST. AST of Dermatophytes](https://www.eucast.org/fungi-afst/methodology-and-instructions/ast-of-dermatophytes/), [임상 breakpoint 자료](https://www.eucast.org/fungi-afst/clinical-breakpoints-and-interpretation/clinical-breakpoint-table/) : 검사법과 ECOFF·임상 breakpoint 구분
+* [Jung ES, et al. Three Cases of Recalcitrant Pediatric Tinea Capitis Successfully Treated with Griseofulvin. Ann Dermatol. 2023;35(Suppl 2):S247–S251](https://pubmed.ncbi.nlm.nih.gov/38061714/)
+* [Moon BY, et al. First Molecular Confirmation of Trichophyton indotineae in South Korea: A Case Report. J Mycol Infect. 2025;30(4):154–159](https://doi.org/10.17966/JMI.2025.30.4.154) : 온라인 출간 2026; 국내 분자확진 2례
+
+* [Khurana A, et al. IADVL consensus recommendations on Trichophyton indotineae infections: Using modified Delphi method. JEADV. Published online 2026-10-01](https://doi.org/10.1111/jdv.70693) : 내성 의심 백선의 전문가 합의; 공개 초록에서 확인 가능한 권고를 반영
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) : 무조날정125㎎ 등 경구 terbinafine·라미실크림1%, 스포라녹스캡슐, 씨플루코캡슐 등 fluconazole 경구제, 카네스텐크림, 로세릴크림, 더모픽스크림, 로푸록스겔 및 니조랄2%액 등의 국내 적응증·용법·금기·주의사항
+* [건강보험심사평가원](https://www.hira.or.kr/) : 실제 처방 시 품목별 최신 급여상태·기준 조회
+* [인천세종병원 약제팀. 라미실정125mg 공급중단에 따른 대체약제 안내. 2026-10-23](https://incheon.sejongh.co.kr/pharmacy/1587) : 공급 관련 실무 공지; 허가취하 확정 자료와 구분
+* 국외 안전성 보완 확인: Viatris. Diflucan 150 mg hard capsules, UK SmPC, §4.6(피임·임신 계획). 국내 확인 품목의 허가사항과 다름.
+* 저장 자료: KCD9_251216(6).xlsx, 「상병분류기호(완전코드)」·「삭제코드」·「신설코드」 대조
+* 확인일: 2026-10-30. 국내 허가사항과 해외 SmPC가 다른 경우 국내 선택 품목의 최신 허가사항을 우선함.
 
 ***
 
@@ -482,21 +512,3 @@ B36.0　어루러기 - 비피부사상균성 표재진균증
 * **열이 나면서 피부 병변이 매우 빠르게 번지거나 겉으로 보이는 것보다 통증이 심하면 즉시 응급실로 가십시오.**
 * 두피가 붓고 고름이 나며 머리카락이 빠르게 빠지는 경우, 또는 당뇨병·면역저하가 있으면서 병변이 붉어지고 아프거나 고름이 나면 당일 진료를 받으십시오.
 * 두피에 비늘·탈모가 생기거나, 정해진 기간 약을 사용해도 병변이 넓어지고 좋아지지 않으면 조기에 다시 진료받으십시오.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [AAD. Preventing and treating Trichophyton indotineae](https://www.aad.org/member/clinical-quality/clinical-care/emerging-diseases/dermatophytes/preventing-treating-trichophyton-indotineae) : 내성 의심 백선의 검사·치료·안전성
-* [CDC. Clinician Brief: Emerging Ringworm. 2026](https://www.cdc.gov/ringworm/hcp/clinical-overview/emerging-ringworm-facts-for-clinicians.html) : T. indotineae, TMVII, terbinafine 내성 T. rubrum 구분
-* [CDC. Clinical Overview of TMVII. 2026](https://www.cdc.gov/ringworm/hcp/clinical-overview/tmvii.html) : 검사·경구치료·전파 예방
-* [EUCAST. AST of Dermatophytes](https://www.eucast.org/fungi-afst/methodology-and-instructions/ast-of-dermatophytes/), [임상 breakpoint 자료](https://www.eucast.org/fungi-afst/clinical-breakpoints-and-interpretation/clinical-breakpoint-table/) : 검사법과 ECOFF·임상 breakpoint 구분
-* [Jung ES, et al. Three Cases of Recalcitrant Pediatric Tinea Capitis Successfully Treated with Griseofulvin. Ann Dermatol. 2023;35(Suppl 2):S247–S251](https://pubmed.ncbi.nlm.nih.gov/38061714/)
-* [Moon BY, et al. First Molecular Confirmation of Trichophyton indotineae in South Korea: A Case Report. J Mycol Infect. 2025;30(4):154–159](https://doi.org/10.17966/JMI.2025.30.4.154) : 온라인 출간 2026; 국내 분자확진 2례
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) : 라미실정·라미실크림1%, 스포라녹스캡슐, fluconazole 경구제, 카네스텐크림, 로세릴크림, 더모픽스크림, 로푸록스겔 및 니조랄2%액 등의 국내 적응증·용법·금기·주의사항

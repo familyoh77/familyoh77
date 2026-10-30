@@ -1,4 +1,4 @@
-# 당뇨병성 족부감염 Diabetic Foot Infection
+# 당뇨병성 족부감염 Diabetic Foot Infection, DFI
 
 > **핵심 원칙**  당뇨병성 족부궤양은 모두 세균이 집락화되어 있으나, **감염은 배양 결과가 아니라 임상 소견으로 진단함**. 감염 치료만으로는 충분하지 않으며, 배농·변연절제, 압력 제거(off-loading), 말초동맥질환 평가와 필요 시 재혈관화, 혈당 및 전신 상태 관리가 함께 이루어져야 함.
 
@@ -40,16 +40,16 @@
 4. 국소 열감
 5. 농성 분비물
 
-<table><thead><tr><th width="150">IWGDF/IDSA 등급</th><th>기준</th></tr></thead><tbody><tr><td>1 (비감염)</td><td>감염의 국소 또는 전신 증상·징후가 없음</td></tr><tr><td>2 (경증)</td><td>위 국소 소견 ≥2개로 감염이 확인되고, 전신 반응이 없으며 피부·피하조직에 국한됨. <strong>홍반이 있으면 창상 가장자리에서 &lt;2 ㎝</strong>; &gt;0.5 ㎝의 홍반은 진단 소견 중 하나이며 필수 조건은 아님</td></tr><tr><td>3 (중등증)</td><td>전신 증상이 없으나 홍반이 병변 주위 <strong>≥2 ㎝</strong>로 확장되거나, 피부·피하조직보다 깊은 구조(건, 근육, 관절, 뼈 등)를 침범</td></tr><tr><td>4 (중증)</td><td>족부감염과 관련된 SIRS 소견이 ≥2개: ① 체온 &gt;38℃ 또는 &lt;36℃ ② 맥박 &gt;90회/분 ③ 호흡수 &gt;20회/분 또는 PaCO₂ &lt;32 ㎜Hg ④ WBC &gt;12,000/㎣ 또는 &lt;4,000/㎣ 또는 band form &gt;10%</td></tr><tr><td>(O) 골수염</td><td>3(O), 4(O)처럼 해당 감염 등급 뒤에 골수염을 뜻하는 <strong>(O)</strong>를 덧붙임. 국소 감염 소견이 2개 미만이어도 골수염이 입증되면 SIRS 기준 &lt;2개는 3(O), ≥2개는 4(O)로 분류함. 골수염 자체만으로 입원이 필수인 것은 아님</td></tr></tbody></table>
+<table><thead><tr><th width="150">IWGDF/IDSA 등급</th><th>기준</th></tr></thead><tbody><tr><td>1 (비감염)</td><td>감염의 국소 또는 전신 증상·징후가 없음</td></tr><tr><td>2 (경증)</td><td>위 국소 소견 ≥2개로 감염이 확인되고, 전신 반응이 없으며 피부·피하조직에 국한됨. <strong>홍반이 있으면 창상 가장자리에서 ＜2 ㎝</strong>; ＞0.5 ㎝의 홍반은 진단 소견 중 하나이며 필수 조건은 아님</td></tr><tr><td>3 (중등증)</td><td>전신 증상이 없으나 홍반이 병변 주위 <strong>≥2 ㎝</strong>로 확장되거나, 피부·피하조직보다 깊은 구조(건, 근육, 관절, 뼈 등)를 침범</td></tr><tr><td>4 (중증)</td><td>족부감염과 관련된 SIRS 소견이 ≥2개: ① 체온 ＞38℃ 또는 ＜36℃ ② 맥박 ＞90회/분 ③ 호흡수 ＞20회/분 또는 PaCO₂ ＜32 ㎜Hg ④ WBC ＞12,000/㎣ 또는 ＜4,000/㎣ 또는 band form ＞10%</td></tr><tr><td>(O) 골수염</td><td>3(O), 4(O)처럼 해당 감염 등급 뒤에 골수염을 뜻하는 <strong>(O)</strong>를 덧붙임. 국소 감염 소견이 2개 미만이어도 골수염이 입증되면 SIRS 기준 ＜2개는 3(O), ≥2개는 4(O)로 분류함. 골수염 자체만으로 입원이 필수인 것은 아님</td></tr></tbody></table>
 
 > 홍반의 범위는 창상 가장자리에서 가장 멀리 확장된 방향으로 측정함. SIRS는 감염 중증도 분류에 사용하며, 패혈증·장기기능장애 여부는 별도로 평가함. <mark style="color:$info;">Ref. IWGDF/IDSA Infection Guideline, 2023.</mark>
 
 > **주의**  당뇨병성 신경병증, 말초동맥질환(PAD), 면역기능 저하가 있으면 통증·열감·홍반·발열이 미약할 수 있음. 정상 체온이나 정상 WBC만으로 중증 감염 또는 골수염을 배제하지 않음.
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### <mark style="color:$danger;">🚩 Red Flags</mark>
 
 {% hint style="danger" %}
-**Tier 1 - 즉각 조치**
+**즉각 조치**
 
 응급 안정화와 즉시 응급 이송·수술/혈관 협진을 시행함. 괴사성 감염·심부 농양·구획증후군 또는 급성 하지허혈이 의심되면 검사 때문에 이송·감염원 조절을 지연하지 않음
 
@@ -60,9 +60,9 @@
 {% endhint %}
 
 {% hint style="warning" %}
-**Tier 2 - 당일 평가**
+**당일 평가**
 
-당일 병원·다학제 족부 평가로 입원·배농·변연절제·정주 항생제 필요성을 결정함. 감염과 PAD가 함께 있으면 수술·혈관 전문과에 긴급 협진하며, 급성 관류 악화·빠른 진행·장기기능장애가 있으면 Tier 1을 적용함
+당일 병원·다학제 족부 평가로 입원·배농·변연절제·정주 항생제 필요성을 결정함. 감염과 PAD가 함께 있으면 수술·혈관 전문과에 긴급 협진하며, 급성 관류 악화·빠른 진행·장기기능장애가 있으면 즉각 조치 단계를 적용함
 
 * 모든 중증 감염 또는 PAD·중요 동반질환을 동반한 중등증 감염  `중증도·동반질환`
 * 심부 조직 침범, 골수염·화농성 관절염 의심, 노출된 뼈 또는 probe-to-bone 양성  `심부 감염`
@@ -74,9 +74,9 @@
 {% endhint %}
 
 {% hint style="info" %}
-**Tier 3 - 조기 평가 및 추적**
+**조기 평가 및 추적**
 
-안정된 경증 감염은 당일 치료를 시작하고 48시간 이내 초기 반응을 확인함. 1–2일 내 호전이 시작되지 않으면 조기에 재평가하고, 병변 확대·새 전신증상은 당일 평가하며 급격한 악화·장기기능장애는 Tier 1을 적용함
+안정된 경증 감염은 당일 치료를 시작하고 48시간 이내 초기 반응을 확인함. 1–2일 내 호전이 시작되지 않으면 조기에 재평가하고, 병변 확대·새 전신증상은 당일 평가하며 급격한 악화·장기기능장애는 즉각 조치 단계를 적용함
 
 * 전신상태와 병변 범위가 안정적인 경증 감염의 초기 치료 경과  `초기 반응 확인`
 * 안정적이나 1–2일 내 호전이 시작되지 않는 상태  `반응 지연`
@@ -94,6 +94,7 @@
 * 양측 발을 노출하고 궤양의 위치·크기·깊이, 홍반 범위, 농·괴사·악취, 파동감, 뼈 노출, 발 변형, 보호감각을 평가함.
 * 감염 중증도를 IWGDF/IDSA 분류로 기록함.
 * 족배·후경골동맥 맥박을 확인하되, 맥박 촉지만으로 PAD를 배제하지 않음. 족부 Doppler 파형과 ABI를 평가하고 가능하면 TBI/족지압을 함께 측정함. 당뇨병의 동맥 석회화로 ABI가 거짓으로 높을 수 있으므로, 정상 또는 높은 ABI만으로 PAD를 배제하지 않음.
+* 궤양·괴저 환자에서 맥박 소실, 발목압 ＜100 ㎜Hg 또는 족지압 ＜60 ㎜Hg 등 허혈 소견이 있으면 중증 허혈 기준에 못 미치더라도 혈관 전문과와 재혈관화 필요성을 상의함. 감염이 함께 있으면 긴급 수술·혈관 협진 대상으로 평가함. <mark style="color:$info;">Ref. IWGDF PAD Guideline, 2023, 권고 12–14.</mark>
 * 감염+PAD에서는 WIfI(Wound, Ischaemia, foot Infection) 분류를 이용해 절단 위험과 혈관중재 필요성을 평가함.
 * 적절한 감염 치료·압력 제거·창상관리에도 궤양이 악화하거나 4주에 면적이 약 50% 이상 줄지 않으면 혈관 상태와 재혈관화 필요성을 다시 평가함. 이는 창상 치유의 재평가 기준이며, 급성 감염·허혈의 의뢰를 4주까지 기다린다는 뜻은 아님 <mark style="color:$info;">Ref. IWGDF PAD Guideline, 2023.</mark>
 * 전신상태, 혈당, 신기능·간기능, 최근 항생제·입원력, 과거 MRSA/녹농균 배양, 약물 알레르기를 확인함.
@@ -105,6 +106,7 @@
   * 최근 항생제 노출이 없고 비전형·내성균 위험이 없는 급성 경증 감염은 배양 없이 경험적 치료를 시작할 수 있음.
   * 중등증·중증, 만성·재발성 감염, 최근 항생제 노출 또는 치료 실패에서는 배양을 적극 시행함.
   * 패혈증 또는 중증 전신 소견이 있으면 혈액배양을 고려하되 항생제 시작을 지연하지 않음.
+  * 원인균의 일차 확인에는 통상적인 배양·감수성검사를 사용함. 분자검사에서 검출되는 집락균·사균의 의미가 불명확하므로 이를 통상 배양의 일률적 대체검사로 사용하지 않음.
 * **골수염 초기검사**: probe-to-bone(PTB) 검사 + 단순 X선 + ESR 또는 CRP/PCT를 함께 평가함.
   * PTB 양성은 깊고 오래된 궤양, 뼈 노출 등 골수염의 사전확률이 높은 환자에서 진단 가능성을 높이고, PTB 음성은 사전확률이 낮은 환자에서 골수염 배제에 도움이 됨. PTB 결과 하나만으로 확진하거나 배제하지 않으며, 검사자가 숙련되지 않았다면 결과에 의존하지 않음.
   * 초기 X선이 정상이어도 의심이 높으면 2\~3주 뒤 반복할 수 있음. 다만 반복 촬영 시점까지 기다리며 MRI·전문과 평가를 지연하지 않음.
@@ -132,14 +134,14 @@
 
 ```mermaid
 flowchart TB
-    A["당뇨병 환자의 족부 병변"] ---> B{"임상적으로 족부감염 확인?"}
-    B -- "불명확" ---> R["염증표지자·영상·전문과 평가"]
-    R ---> B
-    B -- "아니요" ---> C["항생제 사용 안 함 · 창상관리·압력 제거·PAD 평가 · Charcot 감별"]
-    B -- "예" ---> D["IWGDF/IDSA 중증도 분류 · 필요 시 심부조직 배양·PAD 평가"]
-    D ---> E{"불안정 또는 즉시 수술 징후?"}
+    A["당뇨병성 족부감염 의심"] ---> E{"불안정 또는 응급 수술·혈관 징후?"}
     E -- "예" ---> F["응급 입원 · IV 항생제·긴급 수술/혈관 협진"]
-    E -- "아니요" ---> O{"중증 감염?"}
+    E -- "아니요" ---> B{"임상적으로 족부감염 확인?"}
+    B -- "불명확" ---> R["염증표지자·영상·전문과 평가"]
+    R ---> E
+    B -- "아니요" ---> C["비감염 병변 관리 · 항생제 사용 안 함 · 압력 제거·PAD 평가·Charcot 감별"]
+    B -- "예" ---> D["IWGDF/IDSA 중증도 분류 · 필요 시 심부조직 배양·PAD 평가"]
+    D ---> O{"중증 감염?"}
     O -- "예" ---> P["입원 · IV 항생제·수술 필요성 평가"]
     O -- "아니요" ---> G{"중등증 + PAD/중요 동반질환?"}
     G -- "예" ---> H["입원 고려 · 조기 수술·혈관 평가"]
@@ -154,7 +156,7 @@ flowchart TB
     K ---> L
     L -- "예" ---> M["배양 기반 표적·경구 치료로 전환 · 감염 해소까지 추적"]
     L -- "아니요" ---> N["관류·배농/변연절제·골수염·내성균 · 순응도·진단 재평가 및 상향 의뢰"]
-    N ---> D
+    N ---> E
 ```
 
 > 진단이 불명확하면 비감염으로 단정하지 말고 염증표지자·영상·전문과 평가로 확인함. 국소 소견이 미약해도 족부감염과 관련된 전신 반응 또는 입증된 골수염을 반영함. 임상적으로 불안정하면 검사 완료를 기다리지 않고 응급 치료·이송을 시행함. 외래 치료에는 조기 추적과 악화 시 즉시 병원 평가가 가능한 여건이 필요함.
@@ -181,16 +183,9 @@ flowchart TB
 * 통각성 통증에는 아세트아미노펜을 우선 고려하되 간질환·과음 여부를 확인함. NSAID는 신기능 저하, 탈수, PAD, 위장관 출혈 및 심혈관 위험을 평가한 뒤 필요한 경우에만 단기간 사용함. 새로 발생하거나 빠르게 악화되는 심한 통증은 진통제를 증량하기 전에 허혈, 심부 감염 또는 괴사성 감염을 재평가함.
 * povidone-iodine packing, 은제제, 꿀, 국소 항생제, 음압창상치료를 **감염 치료 목적의 보조요법**으로 일률적으로 사용하지 않음. 고압산소·국소 산소 치료 역시 감염 치료만을 목적으로 사용하지 않음. 음압창상치료 등 창상치유 목적의 별도 적응증은 구분함.
 
-### <mark style="color:orange;">입원 및 수술</mark>
-
-* 모든 중증 감염과, PAD 등 중요한 동반질환이 있는 중등증 감염은 입원을 고려함.
-* 중증 감염 또는 광범위 괴저, 괴사성 감염, 근막 아래 농양, 구획증후군, 중증 하지허혈이 동반된 중등증 감염은 **긴급 수술 협진** 대상임.
-* 중등증·중증 감염에서는 감염·괴사 조직 제거를 위한 조기 수술(대개 24\~48시간 이내)을 항생제와 함께 고려함.
-* 감염과 PAD가 동반되면 배농/절제와 재혈관화의 순서를 결정하기 위해 수술 및 혈관 전문과가 함께 평가함.
-
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 모든 당뇨병 환자에게 족부 궤양과 절단의 위험 인자를 확인하기 위해 매년 포괄적인 발 평가를 하고, 발 관리를 교육함.
+* 모든 당뇨병 환자에게 족부 궤양과 절단의 위험 인자를 확인하기 위해 매년 포괄적인 발 평가를 하고, 발 관리를 교육함. 국내 대한당뇨병학회 2025 지침도 연 1회 포괄적 평가·발 관리 교육 및 족부궤양의 다학제 치료를 권고함. <mark style="color:$info;">Ref. 대한당뇨병학회 2025 당뇨병 진료지침.</mark>
   * 10-g monofilament 검사 또는 Ipswich touch test에 다른 신경학적 검사(pinprick, 온도 감각, 128 Hz 진동 감각 등)를 하나 이상 병행함. Monofilament 감각 소실과 다른 검사 이상이 함께 있으면 LOPS(loss of protective sensation)를 확인함. 정상 monofilament 단독으로 초기 말초신경병증을 배제하지 않음 <mark style="color:$info;">Ref. ADA Standards of Care, 2026, Section 12.</mark>
 * 상처가 없는 발은 매일 미지근한 물 + 중성 비누로 짧게 세족(오래 담그지 않음); 활동성 궤양·감염은 별도 창상관리 지침에 따름; 발가락 사이 완전히 건조하고 보습제는 바르지 않음; 건조한 피부에는 보습제 도포(발뒤꿈치 중점); 통풍되는 신발과 땀 배출이 잘되는 양말 사용; 지속적인 발가락 사이 짓무름이나 백선은 평가·치료; 굳은살·티눈 자가 제거 금지
 * 발톱은 일자로 깎기; 맨발 금지(실내에서도 양말·실내화 착용)
@@ -218,18 +213,18 @@ flowchart TB
 
 * 임상적으로 감염되지 않은 궤양에는 예방 또는 상처치유 촉진 목적으로 전신·국소 항생제를 사용하지 않음.
 * 감염 중증도, 과거 배양, 최근 항생제·입원력, MRSA/내성 그람음성균 위험, 신·간기능, 알레르기, 약물상호작용, 지역 감수성 자료를 반영함.
-* 가능한 가장 좁은 범위로 시작하고, 배양 결과와 임상 반응에 따라 **표적 치료 및 가능한 경구제로 단계 낮춤**을 시행함.
+* 가능한 가장 좁은 범위로 시작하고, 배양 결과와 임상 반응에 따라 **표적 치료 및 가능한 경구제로 단계 낮춤**을 시행함. 경증에서 그람양성균만을 표적하는 IWGDF/IDSA 권고의 명시적 대상은 최근 항생제 노출이 없는 북미·서유럽 환자이므로, 국내에서는 병변 특성·최근 배양·지역 역학을 확인하여 적용함.
 * 경증 감염은 대부분 경구 치료가 가능함. 중증 감염은 신속한 비경구 치료와 감염원 조절이 필요함.
 * 녹농균은 온대 지역에서 일률적으로 경험적 표적으로 삼지 않음. 다만 IWGDF/IDSA는 아시아·북아프리카 거주자의 중등증·중증 감염에서 최근 수주 이내 해당 병변에 녹농균이 배양되었다면 경험적 표적 치료를 권고함. 국내에서도 이 조건, 침수·현저한 창상 짓무름, 지역 감수성 자료와 병원 역학을 함께 판단함.
 * tigecycline은 임상시험에서 ertapenem보다 성적이 나빴으므로 권고 선택지에서 제외함.
 
 ### <mark style="color:orange;">성인 경험적 치료 예</mark>
 
-> 아래 용량은 정상 신·간기능 성인의 예임. 신기능·간기능, 체중, 투석 여부, 약물상호작용에 따라 조절하고 중등증 이상은 병원 프로토콜 및 감염 전문의 자문을 우선함.
+> 아래 용량은 정상 신·간기능 성인의 예임. 신기능·간기능, 체중, 투석 여부, 약물상호작용에 따라 조절하고 중등증 이상은 병원 프로토콜 및 감염 전문의 자문을 우선함. **처방 시 최신 품목정보/급여기준 조회**. 지침상 권고와 국내 허가·급여 인정은 구분함.
 
-<table><thead><tr><th width="170">임상 상황</th><th width="180">주요 표적</th><th>예시</th></tr></thead><tbody><tr><td>경증, 최근 항생제·내성균 위험 없음</td><td>MSSA, 사슬알균</td><td>cephalexin 500 ㎎ po qid <mark style="color:blue;">\[팔렉신]</mark> 또는 amoxicillin/clavulanate 500/125 ㎎ po tid <mark style="color:blue;">\[오구멘틴]</mark></td></tr><tr><td>경증, 즉시형 β-lactam 알레르기</td><td>MSSA, 사슬알균</td><td>clindamycin 300\~450 ㎎ po q6h (qid; 150 ㎎ 캡슐 2\~3개/회) <mark style="color:blue;">\[훌그램]</mark>. 지역 내 내성률과 <em>C. difficile</em> 위험 확인</td></tr><tr><td>경증 + MRSA 위험</td><td>MRSA + 사슬알균</td><td>doxycycline 100 ㎎ po bid <mark style="color:blue;">\[신일모노독시엠]</mark> <strong>+ cephalexin 500 ㎎ po qid</strong>, 또는 TMP/SMX 160/800 ㎎ po bid (국내 <mark style="color:blue;">\[셉트린정]</mark> 80/400 ㎎ 2T/회; <strong>피부·연조직 감염은 국내 허가 외 사용</strong>) <strong>+ cephalexin 500 ㎎ po qid</strong>. 즉시형 β-lactam 알레르기에서는 감수성 자료와 환자 위험에 따라 대체 약제를 선택</td></tr><tr><td>중등증·중증, 녹농균·ESBL 위험 낮음</td><td>G(+), G(-), 필요 시 혐기성균</td><td>ampicillin/sulbactam 3 g IV q6h <mark style="color:blue;">\[유나신 주]</mark>, 또는 ceftriaxone 2 g IV q24h <mark style="color:blue;">\[트리악손 주]</mark> + metronidazole 500 ㎎ IV/po q8h, 또는 ertapenem 1 g IV q24h <mark style="color:blue;">\[인반즈 주]</mark> 등</td></tr><tr><td>중증·괴사/허혈 또는 녹농균 위험</td><td>광범위 G(+), G(-), 혐기성균 ± 녹농균</td><td>piperacillin/tazobactam 4.5 g IV q6h 등; q8h 연장주입 요법은 병원 프로토콜에 따름. ESBL 위험이 높으면 배양·지역 역학에 따라 carbapenem 고려</td></tr><tr><td>MRSA 위험 추가</td><td>위 요법 + MRSA</td><td>vancomycin(AUC 기반 TDM 및 신기능 조절) <mark style="color:blue;">\[반코마이신 주]</mark>, linezolid 600 ㎎ IV/po q12h <mark style="color:blue;">\[자이복스]</mark> 또는 daptomycin 4 ㎎/㎏ IV q24h <mark style="color:blue;">\[펜토신 주]</mark> (복합성 피부·연조직 감염 허가 용량; 황색포도구균 균혈증은 6 ㎎/㎏ q24h) 중 하나를 상황에 맞게 추가·대체</td></tr></tbody></table>
+<table><thead><tr><th width="170">임상 상황</th><th width="180">주요 표적</th><th>예시</th></tr></thead><tbody><tr><td>경증, 최근 항생제·내성균 위험 없음</td><td>MSSA, 사슬알균</td><td>cephalexin 500 ㎎ po qid <mark style="color:blue;">\[팔렉신]</mark> 또는 amoxicillin/clavulanate 500/125 ㎎ po tid <mark style="color:blue;">\[오구멘틴]</mark></td></tr><tr><td>경증, 즉시형 β-lactam 알레르기</td><td>MSSA, 사슬알균</td><td>clindamycin 300\~450 ㎎ po q6h (qid; 150 ㎎ 캡슐 2\~3개/회) <mark style="color:blue;">\[훌그램]</mark>. 지역 내 내성률과 <em>C. difficile</em> 위험 확인</td></tr><tr><td>경증 + MRSA 위험</td><td>MRSA + 사슬알균</td><td>doxycycline 100 ㎎ po bid <mark style="color:blue;">\[신일모노독시엠]</mark> <strong>+ cephalexin 500 ㎎ po qid</strong>, 또는 TMP/SMX 160/800 ㎎ po bid (국내 <mark style="color:blue;">\[셉트린정]</mark> 80/400 ㎎ 2T/회; <strong>피부·연조직 감염은 국내 허가 외 사용</strong>) <strong>+ cephalexin 500 ㎎ po qid</strong>. 즉시형 β-lactam 알레르기에서는 감수성 자료와 환자 위험에 따라 대체 약제를 선택</td></tr><tr><td>중등증·중증, 녹농균·ESBL 위험 낮음</td><td>G(+), G(-), 필요 시 혐기성균</td><td>ampicillin/sulbactam 3 g IV q6h <mark style="color:blue;">\[유나신 주]</mark>, 또는 ceftriaxone 2 g IV q24h <mark style="color:blue;">\[트리악손 주]</mark> + metronidazole 500 ㎎ IV/po q8h, 또는 대체 요법으로 ertapenem 1 g IV q24h <mark style="color:blue;">\[인반즈 주]</mark> 등</td></tr><tr><td>중증·괴사/허혈 또는 녹농균 위험</td><td>광범위 G(+), G(-), 혐기성균 ± 녹농균</td><td>piperacillin/tazobactam 4.5 g IV q6h 등의 병원 요법; 국내 타조신 허가 통상 용법은 4.5 g q8h이고 감염 정도·부위에 따라 1일 18 g까지 증량 가능. 연장주입은 병원 프로토콜에 따름. ESBL 위험이 높으면 배양·지역 역학에 따라 carbapenem 고려</td></tr><tr><td>MRSA 위험 추가</td><td>위 요법 + MRSA</td><td>vancomycin(AUC 기반 TDM 및 신기능 조절) <mark style="color:blue;">\[반코마이신 주]</mark>, linezolid 600 ㎎ IV/po q12h <mark style="color:blue;">\[자이복스]</mark> 또는 daptomycin 4 ㎎/㎏ IV q24h (복합성 피부·연조직 감염 허가 용량; 황색포도구균 균혈증은 6 ㎎/㎏ q24h) 중 하나를 상황에 맞게 추가·대체</td></tr></tbody></table>
 
-중등증에서 모든 환자에게 광범위 그람음성균·혐기성균 표적이 필요한 것은 아님. 최근 항생제·내성균 위험이 없고 괴사·허혈이 없는 경우에는 더 좁은 요법을 선택할 수 있음. 혐기성균 표적은 특히 허혈·괴사·가스 형성 병변에서 필요함. Ertapenem은 녹농균을 표적하지 않으며, 위 β-lactam 요법은 MRSA를 표적하지 않음.
+중등증에서 모든 환자에게 광범위 그람음성균·혐기성균 표적이 필요한 것은 아님. 최근 항생제·내성균 위험이 없고 괴사·허혈이 없는 경우에는 더 좁은 요법을 선택할 수 있음. 혐기성균 표적은 특히 허혈·괴사·가스 형성 병변에서 필요함. Ertapenem은 녹농균·장알균을 표적하지 않으며, 위 β-lactam 요법은 MRSA를 표적하지 않음. Ertapenem은 더 좁은 약제가 적절한 경우의 일률적인 우선 선택제가 아님.
 
 MRSA 위험은 특히 과거 MRSA 감염·집락 및 해당 병변의 배양 결과를 중시하며, 최근 입원·항생제 노출과 지역 역학을 함께 평가함. 최근 입원력 하나만으로 모든 경증 감염에 MRSA 약제를 자동 추가하지 않음. doxycycline과 TMP/SMX의 사슬알균 치료 신뢰도는 제한적이므로, 경증 감염에서 이를 MRSA 표적으로 선택하면서 사슬알균도 함께 표적해야 하면 cephalexin 등 β-lactam을 병용함.
 
@@ -238,11 +233,13 @@ MRSA 위험은 특히 과거 MRSA 감염·집락 및 해당 병변의 배양 결
 * Cephalexin 500 ㎎ qid는 지침 용법임. 국내 팔렉신 허가 성인 용량은 1일 1–4 g, 통상 500 ㎎ bid–tid이며 신기능에 따라 조절함. Amoxicillin/clavulanate는 경증에서도 복합균 가능성 등을 판단하여 선택하고, 단순 MSSA·연쇄구균 감염에는 더 좁은 약제를 우선 고려함. 페니실린 알레르기는 원인 약물·반응 유형과 중증도를 확인하며, 확인된 aminopenicillin 알레르기나 중증 지연형 반응에서 관련 β-lactam을 임의로 투여하지 않음
 * Clindamycin: 150 ㎎ 캡슐 2–3개 q6h가 300–450 ㎎ qid에 해당함. Erythromycin 내성·clindamycin 감수성 균주에서는 D-test를 확인하고 양성이면 사용하지 않음. 국내 훌그램 허가사항은 β-용혈성 사슬알균 감염에 최소 10일 이상 투여가 바람직하다고 기재하므로, 지침의 1–2주 범위와 함께 원인균·반응을 고려함. 지속적·심한 설사나 혈변은 C. difficile 감염 평가 대상임
 * Doxycycline: 신일모노독시엠의 **족부 연조직 감염 치료는 국내 허가 외 사용**임. 100 ㎎ bid는 지침 용법이며 국내 통상 유지량 1일 100 ㎎ 및 중증 감염 시 100 ㎎ q12h 용법과 구분함. 해당 품목은 신부전·중증 간기능 이상·중증 근무력증·레티노이드 병용, 임부·수유부 및 통상적 치료에서 12세 미만 소아에 금기임. 신부전 환자에게 국외의 ‘신기능 용량조절 불필요’ 문구만으로 처방하지 않음. 충분한 물과 함께 복용하고 바로 눕지 않으며 철·칼슘·마그네슘·제산제와 간격을 둠
-* TMP/SMX: 셉트린 1정은 TMP/SMX 80/400 ㎎이고 160/800 ㎎ bid는 1회 2정, 1일 총 4정임. 국내 족부 연조직 감염 치료는 허가 외 사용임. CrCl 15–30 ㎖/min은 통상 용량의 1/2, 15 ㎖/min 이하는 투여가 권장되지 않음; 혈중 농도를 모니터할 수 없는 중증 신부전은 금기임. 임부·임신하고 있을 가능성이 있는 여성·수유부·G6PD 결핍 및 생후 2개월 미만에 금기이며 **methotrexate와 병용하지 않음**. 신기능·혈청 K를 확인하고 ACEi/ARB·spironolactone의 고칼륨혈증, sulfonylurea의 저혈당, warfarin의 INR 상승을 추적함
+* TMP/SMX: 셉트린 1정은 TMP/SMX 80/400 ㎎이고 160/800 ㎎ bid는 1회 2정, 1일 총 4정임. 국내 족부 연조직 감염 치료는 허가 외 사용임. CrCl 15–30 ㎖/min은 통상 용량의 1/2로 감량하는 범위이나, **≤15 ㎖/min에서는 투여가 권장되지 않음**; 혈중 농도를 모니터할 수 없는 중증 신부전은 금기임. 임부·임신하고 있을 가능성이 있는 여성·수유부·G6PD 결핍·현저한 간세포 손상·중증 혈액질환·포르피린증 및 생후 2개월 미만에 금기이며 **methotrexate와 병용하지 않음**. 신기능·혈청 K를 확인하고 ACEi/ARB·spironolactone의 고칼륨혈증, sulfonylurea의 저혈당, warfarin의 INR 상승을 추적함
+* Piperacillin/tazobactam: 신기능에 따라 용량·간격을 조정함. Vancomycin 병용 시 급성 신손상 위험 증가가 보고되어 신기능을 면밀히 추적함. 국내 허가 점적주입 시간은 30분이며, 연장주입 요법은 별도의 병원 프로토콜로 관리함
+* Ertapenem: 국내 인반즈의 DFI 적응증은 **성인에서 골수염을 동반하지 않은 경우**임. 허가사항의 성인 CrCl ≤30 ㎖/min/1.73㎡에서는 500 ㎎ q24h로 감량하고 투석 시 별도 보충 용량을 확인함. Valproate/divalproex 병용은 혈중 농도 저하·돌발 발작 위험 때문에 권장되지 않으며, 단순 valproate 증량으로 상호작용이 해소되지 않을 수 있음
 * Linezolid: 국내 자이복스의 DFI 적응증은 **골수염이 동반되지 않은 경우**임. 골수염의 장기 치료를 이 적응증과 동일하게 설명하지 않음. CBC(특히 혈소판)를 매주 확인하고, MAO 억제제·세로토닌성 약물의 병용금기·상호작용과 인슐린·혈당강하제 병용 시 저혈당을 평가함. 국내 최대 투여기간은 28일이며 초과 투여의 안전성·유효성은 확립되지 않음
 * Daptomycin: CK를 최소 주 1회 확인하며(신기능 저하·statin 병용 등은 더 자주), 근육 증상·신기능을 모니터링하고 statin의 일시 중단 여부를 검토함. 골수염에서의 약제·용량은 감염 전문의가 별도로 결정함
 
-<mark style="color:$info;">Ref. 팔렉신·훌그램·신일모노독시엠·셉트린·자이복스 국내 품목정보; 답토마이신 약제 평가 자료.</mark>
+<mark style="color:$info;">Ref. 팔렉신·훌그램·신일모노독시엠·셉트린·타조신·인반즈·자이복스 국내 품목정보; 답토마이신 약제 평가 자료.</mark>
 
 ### <mark style="color:orange;">치료 기간</mark>
 
@@ -253,6 +250,15 @@ MRSA 위험은 특히 과거 MRSA 감염·집락 및 해당 병변의 배양 결
 * 적절한 치료 4주 후에도 감염 소견이 해소되지 않으면 단순히 항생제를 연장하지 말고 관류, 감염원 조절, 심부 농양·골수염, 내성균, 순응도와 진단 자체를 재평가함.
 * 골수염의 관해는 항생제 종료 후 최소 6개월 추적으로 판단함. 안정된 선택 환자에서는 감수성·경구 흡수·순응도가 확보된 경구 항생제 치료가 가능하며, 골수염이라는 이유만으로 6주 내내 정주 치료가 필수인 것은 아님
 * <mark style="color:$info;">Ref. IWGDF/IDSA Infection Guideline, 2023.</mark>
+
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+### <mark style="color:orange;">입원 및 수술</mark>
+
+* 모든 중증 감염과, PAD 등 중요한 동반질환이 있는 중등증 감염은 입원을 고려함.
+* 중증 감염 또는 광범위 괴저, 괴사성 감염, 근막 아래 농양, 구획증후군, 중증 하지허혈이 동반된 중등증 감염은 **긴급 수술 협진** 대상임.
+* 중등증·중증 감염에서는 감염·괴사 조직 제거를 위한 조기 수술(대개 24\~48시간 이내)을 항생제와 함께 고려함.
+* 감염과 PAD가 동반되면 배농/절제와 재혈관화의 순서를 결정하기 위해 수술 및 혈관 전문과가 함께 평가함.
 
 ### <mark style="color:orange;">골수염의 수술 여부</mark>
 
@@ -265,21 +271,14 @@ MRSA 위험은 특히 과거 MRSA 감염·집락 및 해당 병변의 배양 결
 
 ***
 
-### <mark style="color:red;">질병코드 (KCD)</mark>
+## <mark style="color:red;">질병코드</mark>
 
-E10.70 당뇨병성 족부궤양을 동반한 1형 당뇨병
+<table><thead><tr><th>코드</th><th>한글 명칭</th><th>영문 명칭</th></tr></thead><tbody><tr><td>E10.70</td><td>당뇨병성 족부궤양을 동반한 1형 당뇨병</td><td>Type 1 diabetes mellitus, with diabetic foot ulcer</td></tr><tr><td>E10.71</td><td>당뇨병성 족부궤양 및 괴저를 동반한 1형 당뇨병</td><td>Type 1 diabetes mellitus, with diabetic foot ulcer and gangrene</td></tr><tr><td>E10.72</td><td>기타 및 상세불명의 당뇨병성 족부합병증을 동반한 1형 당뇨병</td><td>Type 1 diabetes mellitus, with other and unspecified diabetic foot complications</td></tr><tr><td>E11.70</td><td>당뇨병성 족부궤양을 동반한 2형 당뇨병</td><td>Type 2 diabetes mellitus, with diabetic foot ulcer</td></tr><tr><td>E11.71</td><td>당뇨병성 족부궤양 및 괴저를 동반한 2형 당뇨병</td><td>Type 2 diabetes mellitus, with diabetic foot ulcer and gangrene</td></tr><tr><td>E11.72</td><td>기타 및 상세불명의 당뇨병성 족부합병증을 동반한 2형 당뇨병</td><td>Type 2 diabetes mellitus, with other and unspecified diabetic foot complications</td></tr></tbody></table>
 
-E10.71 당뇨병성 족부궤양 및 괴저를 동반한 1형 당뇨병
-
-E10.72 기타 및 상세불명의 당뇨병성 족부합병증을 동반한 1형 당뇨병
-
-E11.70 당뇨병성 족부궤양을 동반한 2형 당뇨병
-
-E11.71 당뇨병성 족부궤양 및 괴저를 동반한 2형 당뇨병
-
-E11.72 기타 및 상세불명의 당뇨병성 족부합병증을 동반한 2형 당뇨병
-
-병변에 따라 궤양의 해부학적 위치·중증도, 골수염, 연조직염 등 추가 코드를 함께 검토함.
+* KCD-9(2026-01-01 시행), 사용자 제공 `KCD9_251216(6).xlsx`의 ‘상병분류기호(완전코드)’와 대조함. 위 6개 코드 및 한글 명칭은 원문과 일치함.
+* 당뇨병 유형과 실제 족부합병증을 기록하여 선택함. 궤양이 없는 족부감염에 ‘족부궤양’ 코드를 일률적으로 적용하지 않으며, 감염 중증도와 궤양의 위치·깊이는 진료기록에 별도로 명시함.
+* 동반 질환이 확인되면 병변에 맞는 추가 코드를 검토함: L03.01 발가락의 연조직염, L03.11 다리의 연조직염; 골수염은 급·만성 및 부위에 따라 M86.-의 완전코드 선택(예: M86.17 기타 급성 골수염, 발목 및 발 / M86.97 상세불명의 골수염, 발목 및 발). 모두 위 엑셀과 대조함. 이 예시를 모든 환자에게 자동 병기하지 않음.
+* KCD-9의 L97은 ‘달리 분류되지 않은 다리의 궤양’이며, 미국 ICD-10-CM의 L97 부위·깊이 세분코드를 그대로 옮기지 않음. 추가코드 적용은 KCD 분류지침과 실제 진단에 따름.
 
 ***
 
@@ -315,12 +314,12 @@ E11.72 기타 및 상세불명의 당뇨병성 족부합병증을 동반한 2형
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+## <mark style="color:$success;">핵심 복약 지도</mark>
 
 * 처방된 항생제는 정해진 간격과 기간을 지키되, 발적이 번지거나 고름·악취가 증가하고 피부가 검거나 보라색으로 변하면 다음 예약일까지 기다리지 마십시오.
 * 처방된 압력 제거 장치와 체중 부하 범위, 드레싱 방법을 지키십시오. 감각이 둔해 통증이 없어도 감염이 악화될 수 있습니다.
 * 발을 매일 직접 또는 거울로 확인하십시오. 임의로 굳은살을 깎거나 물집을 터뜨리지 마십시오.
-* 심한 설사, 전신 발진, 호흡곤란 등 항생제 이상반응이 있으면 즉시 의료진에게 알리십시오.
+* 심한 설사·혈변은 당일 의료진에게 알리십시오. 새 전신 발진·물집·입안 헐음이 생기면 약을 중단하고 즉시 진료받으십시오. 호흡곤란·입술/혀 부종·실신이 동반되면 즉시 119 또는 응급실의 도움을 받으십시오.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -330,7 +329,32 @@ E11.72 기타 및 상세불명의 당뇨병성 족부합병증을 동반한 2형
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+확인 기준일: 2026-10-30. IWGDF의 현행 정식 지침은 2023판이며 차기 개정은 2027년 예정임. 2026년 골수염 배양검체 연구는 별도 최신 근거로 제시함.
+
+### <mark style="color:orange;">＜임상 근거＞</mark>
+
+* [대한당뇨병학회. 2025 당뇨병 진료지침 제9판](https://www.diabetes.or.kr/bbs/?code=guide&mode=view&number=2078) — 연 1회 포괄적 발 평가·교육, 신경병증 검사, 다학제 치료; [영문 근거 문서](https://doi.org/10.4093/dmj.2025.0469)
+* [IWGDF/IDSA. Guidelines on the Diagnosis and Treatment of Diabetes-Related Foot Infections, 2023](https://www.idsociety.org/practice-guideline/diabetic-foot-infections/) — 감염 분류, 배양·영상, 항생제 기간 및 수술 권고
+* [IWGDF Offloading Guideline, 2023](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-06-Offloading-Guideline.pdf) — 감염·허혈 동반 시 압력 제거 장치 선택
+* [Intersocietal IWGDF/ESVS/SVS PAD Guideline, 2023](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-05-PAD-Guideline.pdf) — 관류 평가·재혈관화와 창상 치유 지연
+* [IWGDF Prevention Guideline, 2023](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-02-Prevention-Guideline.pdf) — 위험군별 예방·자가 관리
+* [IWGDF Charcot Guideline, 2023](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-08-Charcot-Guideline.pdf) — 활동성 Charcot 감별·초기 고정 및 압력 제거
+* [ADA. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S261–S276](https://doi.org/10.2337/dc26-s012)
+* [ADA. Diabetes Care in the Hospital: Standards of Care in Diabetes—2026](https://doi.org/10.2337/dc26-s016) — SGLT2 억제제와 수술·급성기 관리
+* [NICE NG19. Diabetic foot problems: prevention and management](https://www.nice.org.uk/guidance/ng19/chapter/Recommendations) — 초기 재평가와 의뢰
+* [Lagrand RS, et al. Bone Biopsy not Superior to Ulcer Bed Biopsy-guided Antibacterial Therapy on Remission of Diabetic Foot Osteomyelitis: A Randomized Controlled Trial. Clin Infect Dis. 2026;82(3):436–442](https://doi.org/10.1093/cid/ciaf684) — 보존적 골수염 치료에서 배양검체에 따른 결과 비교
+
+### <mark style="color:orange;">＜허가·급여 확인 자료＞</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 팔렉신·오구멘틴·훌그램·신일모노독시엠·셉트린·타조신·인반즈·자이복스 등 국내 품목의 적응증·제형·용법·기간·금기
+* 사용자 제공 `KCD9_251216(6).xlsx` — 상병분류기호(완전코드) 시트에서 코드·한영 명칭 대조
+* [심평원 답토마이신 약제 평가 자료](https://common.health.kr/shared/docs/healthkr/boh_result/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C_%EB%8B%B5%ED%86%A0%EB%A7%88%EC%9D%B4%EC%8B%A0.pdf) — 복합성 연조직 감염과 황색포도구균 균혈증의 용량 구분
+
+***
+
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **당뇨발 감염, 조기 발견과 압력 제거가 가장 중요합니다**
@@ -364,24 +388,3 @@ E11.72 기타 및 상세불명의 당뇨병성 족부합병증을 동반한 2형
 * 고름이 나오거나 냄새가 나는 경우
 * 피부가 검게 또는 보라색으로 변하는 경우
 * 새 발열·오한은 당일 병원 진료를 받으십시오. 정신이 흐려지거나 쓰러짐·숨참·빠른 악화가 있으면 즉시 응급실로 가십시오.
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [IWGDF/IDSA. Guidelines on the Diagnosis and Treatment of Diabetes-Related Foot Infections, 2023](https://www.idsociety.org/practice-guideline/diabetic-foot-infections/) — 감염 분류, 배양·영상, 항생제 기간 및 수술 권고
-* [IWGDF Offloading Guideline, 2023](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-06-Offloading-Guideline.pdf) — 감염·허혈 동반 시 압력 제거 장치 선택
-* [Intersocietal IWGDF/ESVS/SVS PAD Guideline, 2023](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-05-PAD-Guideline.pdf) — 관류 평가·재혈관화와 창상 치유 지연
-* [IWGDF Prevention Guideline, 2023](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-02-Prevention-Guideline.pdf) — 위험군별 예방·자가 관리
-* [IWGDF Charcot Guideline, 2023](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-08-Charcot-Guideline.pdf) — 활동성 Charcot 감별·초기 고정 및 압력 제거
-* [ADA. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S261–S276](https://doi.org/10.2337/dc26-s012)
-* [ADA. Diabetes Care in the Hospital: Standards of Care in Diabetes—2026](https://doi.org/10.2337/dc26-s016) — SGLT2 억제제와 수술·급성기 관리
-* [NICE NG19. Diabetic foot problems: prevention and management](https://www.nice.org.uk/guidance/ng19/chapter/Recommendations) — 초기 재평가와 의뢰
-* [Lagrand RS, et al. Bone Biopsy not Superior to Ulcer Bed Biopsy-guided Antibacterial Therapy on Remission of Diabetic Foot Osteomyelitis: A Randomized Controlled Trial. Clin Infect Dis. 2026;82(3):436–442](https://doi.org/10.1093/cid/ciaf684) — 보존적 골수염 치료에서 배양검체에 따른 결과 비교
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 팔렉신·오구멘틴·훌그램·신일모노독시엠·셉트린·자이복스·펜토신 등 국내 품목의 적응증·제형·용법·기간·금기
-* [심평원 답토마이신 약제 평가 자료](https://common.health.kr/shared/docs/healthkr/boh_result/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C_%EB%8B%B5%ED%86%A0%EB%A7%88%EC%9D%B4%EC%8B%A0.pdf) — 복합성 연조직 감염과 황색포도구균 균혈증의 용량 구분

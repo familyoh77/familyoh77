@@ -59,7 +59,7 @@
 * 가려움, 작열감, 경도의 압통이 동반될 수 있으며 심한 통증은 흔하지 않음
 * **Pseudomonas(hot-tub) folliculitis** : 오염된 물 노출 후 수일 이내 가려움·압통을 동반한 구진농포가 발생하며, 수영복으로 덮인 부위에 흔함
 * **Malassezia folliculitis** : 가려운 단형성(monomorphic) 모낭성 구진·농포가 상부 흉부·등·어깨·얼굴/헤어라인에 발생
-  * 면포(comedone)가 없는 것이 acne vulgaris와의 중요한 감별점
+  * 면포(comedone)가 없는 것이 acne vulgaris와의 중요한 감별점; 다만 두 질환이 함께 있을 수 있으므로 면포가 일부 보인다고 Malassezia 병변을 배제하지 않음
   * 항생제 치료에 반응하지 않거나 악화될 수 있음
 * **Steroid-induced acneiform eruption/folliculitis** : 얼굴·몸통에 비슷한 크기의 단형성 구진·구진농포가 국소 또는 전신 steroid 치료 중 발생
 
@@ -70,7 +70,7 @@
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 {% hint style="danger" %}
-**Tier 1 - 즉각 조치**
+**즉각 조치**
 
 응급실 이송 및 해당 전문과 평가를 즉시 시행함
 
@@ -81,9 +81,9 @@
 {% endhint %}
 
 {% hint style="warning" %}
-**Tier 2 - 당일 평가**
+**당일~수일 내 평가**
 
-당일 평가 후 배농·전신 치료·입원 필요성을 판단함. 전신독성·괴사성 감염 소견이면 Tier 1을 적용함
+아래 감염 소견은 **당일** 평가 후 배농·전신 치료·입원 필요성을 판단함. 전신독성·괴사성 감염 소견이면 즉각 조치함
 
 * 주변 발적·열감·부종이 빠르게 퍼지는 cellulitis 또는 발열을 동반한 광범위 병변  `확산성 감염`
 * 면역저하자의 광범위·빠르게 진행하는 병변  `면역저하`
@@ -91,9 +91,9 @@
 {% endhint %}
 
 {% hint style="info" %}
-**Tier 3 - 조기 평가 및 추적**
+**조기 평가 및 추적**
 
-원인별 검사와 유발인자 교정을 시행하고 피부과 의뢰 필요성을 판단함. 악화·전신 증상이 있으면 Tier 1 또는 Tier 2를 적용함
+원인별 검사와 유발인자 교정을 시행하고 피부과 의뢰 필요성을 판단함. 악화·전신 증상이 있으면 당일 평가 또는 즉각 조치함
 
 * 두피 병변에 탈모·흉터 진행  `흉터성 탈모`
 * 반복되는 깊은 감염 또는 적절한 치료에도 호전되지 않는 광범위 병변  `반복 감염·치료 실패`
@@ -112,7 +112,8 @@
 * Malassezia/진균 감염이 의심되면 농포 또는 모낭 내용물을 채취하여 KOH 또는 Gram/MGG(May-Grünwald-Giemsa) 염색 등을 고려
   * 다수의 원형·난원형 **unipolar budding yeast**가 관찰되면 진단을 지지하며, hyphae는 흔하지 않음
   * Malassezia는 정상 피부 상재균이므로 피부 표면에서 효모가 관찰되는 것만으로 확진하지 않으며, 모낭 내용물의 소견과 임상 양상을 함께 판단
-  * 경구 항진균제를 시작하기 전에는 가능하면 직접 현미경검사로 확인; 진단이 불확실하거나 난치성이면 피부생검 등을 고려
+  * **경구 항진균제 투여 전에는 임상 양상과 직접 현미경검사로 진단을 뒷받침함**. 검사가 어렵거나 결과가 불명확하면 경험적 경구 azole을 반복하지 않고 피부과 평가; 필요 시 피부생검 등을 고려
+  * 전형적인 경증 병변의 외용 항진균제는 임상 판단으로 시작할 수 있으며, 불응 시 진단을 재평가함
 * Demodex 의심 시 피부 긁기·표준화 피부표면생검 등으로 밀도를 평가; 진드기 검출만으로 원인 질환을 확정하지 않음
 * 수포·미란·통증을 동반한 비전형적 병변은 HSV/VZV PCR을 고려
 * 반복·광범위·난치성 모낭염에서는 당뇨병, 면역억제 약물 등 기저 위험인자를 평가
@@ -129,19 +130,26 @@
 ***
 
 ```mermaid
-graph TD
-    Start(["모낭 중심 구진·농포"]) ---> Risk{"응급 위험 소견?"}
-    Risk --->|"괴사·패혈증·안와/두개내 합병증"| Urgent["즉각 조치"]
-    Risk --->|"없음"| Assess["당일 평가 대상 확인 후 병력·형태 평가"]
-    Assess ---> Bact["전형적 세균성 병변"]
-    Assess ---> Malz["가려운 단형성 병변·면포 없음"]
-    Assess ---> Special["물 노출·장기 항생제·약물·수포·안면 병변"]
-    Bact ---> BactTx["경증은 보존적 치료 또는 단기 외용제; 광범위·심부 감염은 배양 및 전신 치료 평가"]
-    Malz ---> MalzTx["Malassezia 감별; 외용 항진균제 우선, 경구 치료 전 진균 확인"]
-    Special ---> OtherTx["아형 요약표에 따라 원인별 검사·치료; 온수욕조 모낭염은 대증치료 우선"]
+flowchart TD
+    Start(["모낭염 의심"]) --> Risk{"즉각 조치 소견?"}
+    Risk -->|"괴사·전신독성·안와/두개내 합병증"| Urgent(["응급 이송·전문과 평가"])
+    Risk -->|"없음"| Severe{"확산성 감염·발열·농양 또는 면역저하의 빠른 진행?"}
+    Severe -->|"있음"| Same(["당일 평가: 배양·배농·전신 치료/입원 판단"])
+    Severe -->|"없음"| Assess["약물·면도·물 노출력 및 병변 형태 확인"]
+    Assess --> Bact["전형적 세균성 병변"]
+    Assess --> Malz["가려운 단형성 병변·면포 없음"]
+    Assess --> Special["물 노출·장기 항생제·약물·수포 등"]
+    Bact --> BactTx["아주 경미하면 보존적 치료; 필요 시 단기 외용 항균제"]
+    Malz --> MalzTx["Malassezia 감별; 외용 우선, 경구 치료 전 현미경 확인"]
+    Special --> OtherTx["원인별 검사·치료; 단순 온수욕조 모낭염은 대증치료"]
+    BactTx --> Review{"호전 및 진단 재평가"}
+    MalzTx --> Review
+    OtherTx --> Review
+    Review -->|"호전"| End(["유발인자 교정·재발 예방"])
+    Review -->|"불응·재발·탈모/흉터"| Refer(["배양·진균검사/생검 검토·피부과 의뢰"])
     style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     style Urgent fill:#ffcdd2,stroke:#c62828,stroke-width:2px
-    style Assess fill:#fff9c4,stroke:#ffe082
+    style Same fill:#fff9c4,stroke:#ffe082
 ```
 
 <p align="center"><strong>모낭염 감별 및 치료 접근 알고리듬</strong></p>
@@ -162,9 +170,6 @@ graph TD
 
 * 경증·국소 병변은 위생 관리, 마찰·폐쇄 회피, 온찜질 등의 보존적 치료만으로 호전될 수 있음
 * 따뜻한 찜질을 10\~15분씩 하루 3\~4회 시행할 수 있음; 뜨거운 찜질과 장시간 밀폐 드레싱은 피함
-* benzoyl peroxide : 세균성 모낭염의 보조 치료로 **5% wash를 샤워 시 5\~7일** 사용할 수 있음
-  * 국내에서는 benzoyl peroxide 2.5% 겔을 소량 qd(hs)로 시작하고 내약성에 따라 bid로 증량 가능 <mark style="color:blue;">\[파티마겔2.5%]</mark>(../%EB%B9%84%EB%B3%B4%ED%97%98/); 모낭염에는 허가 외 사용
-  * wash와 바른 채 두는 겔은 제형·사용법이 다름; 건조·자극과 모발·옷감 탈색에 주의 (☞ p.944)
 
 ### <mark style="color:orange;">예방</mark>
 
@@ -211,10 +216,14 @@ graph TD
 
 #### <mark style="color:$primary;">외용제</mark>
 
+* benzoyl peroxide : 세균성 모낭염의 보조 치료로 **5% wash를 샤워 시 5\~7일** 사용할 수 있음
+  * 국내에서는 benzoyl peroxide 2.5% 겔을 소량 qd(hs)로 시작하고 내약성에 따라 bid로 증량 가능 <mark style="color:blue;">\[파티마겔2.5%]</mark>(../%EB%B9%84%EB%B3%B4%ED%97%98/); 모낭염에는 허가 외 사용
+  * wash와 바른 채 두는 겔은 제형·사용법이 다름; 건조·자극과 모발·옷감 탈색에 주의
 * mupirocin 2% 연고 : 얇게 도포, bid\~tid, 보통 5\~7일 <mark style="color:blue;">\[에스로반]</mark>
   * **국내 허가 용법은 1일 2–3회 10일간**이며, 위 5–7일은 항생제 적정사용을 위한 단기 요법으로 허가 기간과 구분함. 반응이 없다고 자동으로 연장하지 않음
   * **신질환 환자, 임부·임신하고 있을 가능성이 있는 여성 및 수유부는 국내 에스로반 투여금기**임. 신질환 금기는 PEG 기제의 손상 피부 흡수·신장 배설과 관련됨; 눈·구강·비강 점막에 사용하지 않음
-* clindamycin 1% 외용액 : bid, 보통 5\~7일 <mark style="color:blue;">\[크레오신티외용액1%]</mark>(../%EB%B9%84%EB%B3%B4%ED%97%98/); 국내 허가는 심상성여드름으로 모낭염에는 허가 외 사용
+* clindamycin 1% 외용액 : 다른 적절한 외용 항균제를 사용하기 어려울 때 대안으로 고려, bid, 보통 5\~7일 <mark style="color:blue;">\[크레오신티외용액1%]</mark>(../%EB%B9%84%EB%B3%B4%ED%97%98/); 국내 허가는 심상성여드름으로 모낭염에는 허가 외 사용
+  * 크레오신티는 **clindamycin/lincomycin 과민반응, 국한성회장염·궤양성대장염·항생제 관련 대장염 병력, 임부·임신 가능 여성·수유부 및 12세 이하 소아에 국내 금기**임. 외용제라도 심한 설사·혈변이 나타나면 중단하고 평가함
 * 세균 감염이 의심되는 국소 병변에 단기간 사용; 장기·반복 사용은 내성 위험 때문에 피함
 * 3\~5일 내 호전이 없거나 악화되면 배양·진단·치료를 재평가함
 * 경구 항생제가 필요한 경우 외용 항생제를 일상적으로 병용하지 않음
@@ -224,8 +233,10 @@ graph TD
 #### <mark style="color:$primary;">MSSA(methicillin-susceptible S. aureus)</mark>
 
 * 광범위하거나 외용제만으로 부족한 경우 고려
-* cephalexin : 500 ㎎ qid ×5\~10d <mark style="color:blue;">\[팔렉신]</mark>
-* cephalexin 500 ㎎ qid는 지침 용법임. 국내 팔렉신 허가사항의 통상 용법은 500 ㎎ bid–tid, 성인 1일 용량 범위는 1–4 g임
+* cephalexin : 500 ㎎ qid, **우선 5\~7일**, 반응이 느리면 재평가 후 10일 정도까지 연장 여부를 판단 <mark style="color:blue;">\[팔렉신]</mark>
+* cephalexin 500 ㎎ qid는 ACE 2026 보충표의 성인 용법임. 국내 팔렉신 통상 용법은 500 ㎎ bid–tid, 성인 1일 용량 범위는 1–4 g임. 허가 적응증에는 연조직염·농가진·부스럼·옹종 등이 열거되어 있으나 단순 모낭염은 명시되어 있지 않음
+* cephalosporin 과민반응 환자에는 투여하지 않으며, penicillin 중증 즉시형/중증 지연형 알레르기 병력은 별도 평가함. 신장애에서는 감량·간격 조정이 필요함
+* 만성 모창이나 흉터성 탈모는 위 단기 요법만 반복하지 않고 피부과에서 진단·치료 기간을 개별화함
 * dicloxacillin : 국외 지침의 선택지이며, 국내 처방례에서는 cephalexin을 우선 제시함
 
 #### <mark style="color:$primary;">MRSA</mark>
@@ -233,7 +244,7 @@ graph TD
 * 단순 모낭염에서 일률적인 경험적 MRSA 치료는 필요하지 않음
 * MRSA 위험이 높거나 배양에서 확인된 경우 감수성에 따라 선택
   * TMP/SMX : 160/800 ㎎ bid ×5\~10d <mark style="color:blue;">\[셉트린]</mark>; 1정은 TMP/SMX 80/400 ㎎이므로 **1회 2정**
-    * 국내 모낭염 적응증은 허가사항에 포함되지 않으므로 **허가 외 사용**임. 위 1회 2정은 셉트린정의 일반 감염 허가 용량에 해당하지만 적응증은 별개임. 165 챕터의 1회 4정은 더 높은 지침 용량의 예이므로 모든 MRSA 모낭염에 일률적으로 증량하지 않음
+    * 국내 모낭염 적응증은 허가사항에 포함되지 않으므로 **허가 외 사용**임. 위 1회 2정은 셉트린정의 일반 감염 허가 용량에 해당하지만 적응증은 별개임. IDSA의 MRSA 피부감염 용량 범위는 TMP/SMX 160/800–320/1,600 ㎎ bid이며, 위 셉트린 1회 2정은 하한 용량의 예임; 감염 정도·체중·신기능을 고려하고 모든 모낭염에 고용량을 적용하지 않음
     * **임부·임신하고 있을 가능성이 있는 여성·수유부·G6PD 결핍 및 생후 2개월 미만은 국내 금기**임. **Methotrexate와 병용금기**이며, ACEi/ARB·spironolactone 병용 시 고칼륨혈증, warfarin 병용 시 INR 상승에 주의함; 신기능·혈청 K를 확인하고 고위험군은 조기에 추적함
   * doxycycline : 100 ㎎ bid ×5\~10d; 국내 독시정 등에는 모낭염이 명시 적응증에 없어 **허가 외 사용**임. 국내 통상 유지량은 1일 100 ㎎이며, 중증 감염의 100 ㎎ q12h 용법과 구분함
 * TMP/SMX·doxycycline의 연쇄구균 치료 효과는 불확실하므로 비화농성 cellulitis 동반 시 β-lactam 병용 등 별도 치료가 필요할 수 있음
@@ -246,17 +257,17 @@ graph TD
 * 대부분 자연 호전하므로 **항생제는 routine으로 필요하지 않음**
 * 오염된 수영장·온수욕조 사용을 중단하고 냉·습포 등 대증치료
 * 지속되거나 중증인 경우, 면역저하 또는 전신 증상이 동반되는 경우 배양검사 및 감수성에 따른 항녹농균 치료를 고려
-  * ciprofloxacin : 500\~750 ㎎ bid ×7\~14d <mark style="color:blue;">\[씨프로바이]</mark>; 경구 치료가 적절한 안정된 성인에서 감수성 확인 후 선택하고 반응에 따라 기간을 조정
+  * ciprofloxacin : 500 ㎎ bid, 통상 7일을 예로 고려하고 중증·복합감염에서만 750 ㎎ bid 또는 14일까지의 치료 필요성을 개별 판단 <mark style="color:blue;">\[씨프로바이]</mark>; 경구 치료가 적절한 안정된 성인에서 감수성 확인 후 선택하고 반응에 따라 기간을 조정
   * 국내 씨프로바이정은 250 ㎎ 제형을 기준으로 1회 500 ㎎ = 2정; 750 ㎎ 증량은 중증 복합감염에서 별도로 판단함
   * 위 용법은 녹농균 피부·연조직 감염 치료를 참고한 예이며, 단순 hot-tub 모낭염의 표준 항생제 요법을 의미하지 않음
-  * 건염·건파열, 말초신경병증 등 중대한 이상반응 위험과 신기능을 확인; tizanidine 병용 금기, 철분·칼슘·마그네슘 함유제와 투여 간격을 둠
+  * 건염·건파열, 말초신경병증 등 중대한 이상반응 위험과 신기능을 확인; **임부·임신 가능 여성·수유부, 18세 미만 성장기 청소년, 간질 및 quinolone 관련 힘줄장애 병력에는 국내 금기**임. 중증 근무력증에서는 사용을 피함. Tizanidine·ketoprofen 병용금기, 철분·칼슘·마그네슘 함유제와 투여 간격을 둠
   * 전신독성·패혈증 또는 중증 면역저하에서는 경구 처방에 그치지 않고 병원 평가 및 정주 치료를 고려
 
 #### <mark style="color:$primary;">여드름 환자의 Gram-negative folliculitis</mark>
 
 * 장기간 항생제 치료 중인 여드름 환자에서 발생하는 경우가 대표적
 * 배양검사 후 원인균 및 감수성에 따라 치료
-* 난치성에서는 피부과에서 isotretinoin을 고려할 수 있음(모낭염에는 허가 외 사용); 임신 예방·간기능/지질 평가가 필요하며 tetracycline계 항생제와 병용하지 않음 (☞ p.946)
+* 난치성에서는 피부과에서 isotretinoin을 고려할 수 있음(모낭염에는 허가 외 사용); 임신 예방·간기능/지질 평가가 필요하며 tetracycline계 항생제와 병용하지 않음 (☞ 여드름 챕터)
 
 ### <mark style="color:orange;">Malassezia folliculitis</mark>
 
@@ -264,15 +275,15 @@ graph TD
 * 아래 요법은 **Malassezia 모낭염에 대한 허가 외 사용**이며, 비듬·지루피부염·어루러기 허가 용법과 구분함
 * 면역정상자의 경증·국소 병변은 외용 항진균제 우선
   * ketoconazole 2% 또는 econazole 1% **단일성분 크림** : qd\~bid ×2\~4주; steroid 복합제를 일반적인 모낭염 치료로 사용하지 않음
-  * ketoconazole 2% 샴푸 : 보조 또는 유지요법으로 주 2\~3회, 3\~5분 유지 후 세척 <mark style="color:blue;">\[니조랄2%액]</mark>; 급성 병변에서 반응이 부족하면 크림 제형 등으로 조정
+  * ketoconazole 2% 샴푸 : 보조 또는 유지요법으로 주 2\~3회, 3\~5분 유지 후 세척 <mark style="color:blue;">\[니조랄2%액]</mark>; 심한 미란·손상 부위 및 자극이 심한 두피에는 사용을 피하고, 급성 병변에서 반응이 부족하면 크림 제형 등으로 조정
   * selenium sulfide 외용제를 대안으로 고려할 수 있으며, 제형별 사용 가능 부위·접촉 시간을 확인함
-* 광범위·중등도 이상, 외용치료 실패 또는 면역저하에서는 경구 azole 고려; 직접 현미경검사 등으로 진단을 뒷받침한 후 사용
+* 광범위·중등도 이상, 외용치료 실패 또는 면역저하에서는 경구 azole 고려; 임상 양상과 직접 현미경검사로 진단을 뒷받침한 후 사용
   * 면역정상 성인 예 : itraconazole 200 ㎎ qd ×1\~2주 <mark style="color:blue;">\[스포라녹스]</mark>
   * 또는 fluconazole 200 ㎎ qd ×1\~2주 <mark style="color:blue;">\[푸루나졸]</mark>
   * 위 1–2주 경구 요법은 **면역정상자에 대한 EADV 2023 표 2의 선택지**이며, fluconazole의 근거 수준은 itraconazole보다 낮음. 면역저하자에서는 용량·기간·상호작용을 개별화하고 피부과 평가
   * 경구 azole 전 간질환·임신/수유 여부·주요 상호작용과 기저 간기능을 평가하고, 간질환·반복/장기 치료·간독성 약물 병용 등에서는 치료 중에도 추적함. **간질환이 동반된 Malassezia 모낭염은 외용 항진균제를 우선**함; 경구 ketoconazole은 사용하지 않음
   * itraconazole은 이와 같은 표재성 감염 치료에서 **심부전/심실기능 저하 또는 그 병력, 임부·임신하고 있을 가능성이 있는 여성·수유부에 국내 금기**임. Simvastatin·lovastatin 등과의 병용금기를 확인함; 일반 캡슐은 식사 직후 복용하고 위산억제제에 의한 흡수 감소에 주의
-  * fluconazole은 신기능에 따른 용량 조정과 QT 연장·warfarin 등 상호작용 확인
+  * fluconazole은 신기능에 따른 용량 조정과 QT 연장·warfarin 등 상호작용 확인. **푸루나졸은 임부·임신 가능 여성·수유부에 국내 금기**임; **임신 가능 여성에게는 치료 중 및 마지막 투여 후 1주간 피임을 안내**함(EMA 2023 안전성 권고; 국내 허가 문구와 구분)
 * 재발 시 유발인자를 교정하고 외용 항진균제 유지요법을 고려; 예방 목적으로 경구 azole을 일률적으로 장기 투여하지 않음
 
 <mark style="color:$info;">Ref. [EADV Position statement: Recommendations on the diagnosis and treatment of Malassezia folliculitis, 2023](https://doi.org/10.1111/jdv.18982)</mark>
@@ -282,7 +293,7 @@ graph TD
 * 진단이 불확실하면 rosacea, perioral dermatitis 등과 감별
 * topical ivermectin 1% 크림 : 이환부에 얇게 qd 도포를 고려 <mark style="color:blue;">\[수란트라크림1%]</mark>; 국내 허가는 성인 주사의 염증성 병변으로, Demodex folliculitis에는 허가 외 사용
 * permethrin 5% <mark style="color:blue;">\[오메크린크림]</mark>(../%EB%B9%84%EB%B3%B4%ED%97%98/)도 피부과에서 대안으로 고려할 수 있으나, 국내 허가는 옴 치료이며 모낭충증에는 허가 외 사용; 얼굴 자극에 주의하고 옴의 전신 도포·세척 용법을 그대로 적용하지 않음
-* 눈·점막을 피하고 눈꺼풀 병변은 별도로 평가함; 치료 기간과 반응은 개별화하고 2\~4주 내 재평가
+* 눈·점막을 피하고 눈꺼풀에 수란트라를 바르지 않음. 임신 중 사용을 피하며 수유 여부를 개별 평가하고, 18세 미만의 안전성·유효성은 확립되지 않았음; 치료 기간과 반응은 개별화하고 2\~4주 내 재평가
 * 경구 ivermectin은 표준화된 단일 regimen이 확립되어 있지 않으므로 routine으로 제시하지 않으며, 중증·난치성 또는 진단이 불확실한 경우 피부과 진료를 권고
 
 ### <mark style="color:orange;">HSV/VZV folliculitis</mark>
@@ -290,20 +301,42 @@ graph TD
 * HSV 또는 VZV 감염이 의심되면 해당 질환의 표준 항바이러스 치료를 적용
 * HSV 치료 (☞ [단순포진](181_-herpes-simplex.md#management)); VZV는 대상포진의 표준 치료를 적용하고 안부·파종성 병변은 긴급 평가
 
+### <mark style="color:orange;">비감염성·약물 관련 모낭성 발진</mark>
+
+* 면도·왁싱 관련 가성모낭염은 제모 중단·마찰 회피가 기본이며, 세균성 농포가 확인되지 않으면 항생제를 반복하지 않음
+* steroid 관련 발진은 원인 약물의 필요성·용량을 검토하되 장기 전신 steroid를 임의로 갑자기 중단하지 않음; Malassezia 동반 여부에 따라 치료를 구분함
+* **EGFR 억제제 관련 구진농포성 발진**은 일차적으로 비감염성 염증임. 항암제를 임의 중단하지 않고 종양내과·피부과와 협의함
+  * 보습·자외선 차단·자극성 제품 회피를 시행하고, 중증도에 따라 국소 항염증제 또는 경구 doxycycline 등을 사용함(감염 치료와 다른 목적·기간의 허가 외 사용)
+  * 외용 항생제를 예방·치료에 일률적으로 사용하지 않으며, 심하거나 불응하면 이차 감염을 배양·감수성에 따라 치료함. 1\~2주 내 재평가함
+* 호산구성 모낭염은 피부생검·기저질환 평가 후 전문 치료; 감염성 모낭염의 항생제 요법을 그대로 적용하지 않음
+
+<mark style="color:$info;">Ref. [Apalla Z, et al. EGFR inhibitor-related acneiform rash: Europe/USA Delphi consensus. JEADV. 2025](https://doi.org/10.1111/jdv.20391)</mark>
+
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+* 단순 표재성 농포는 일상적으로 절개배농하지 않음. 파동감이 있는 농양·큰 종기로 진행하면 절개배농과 배양 필요성을 평가함 (☞ [종기](170_-abscess-furunculosis.md))
+* 흉터성 탈모, 심부 진균감염, 반복되는 동일 부위 농양 또는 진단 불명확·치료 불응은 피부과 의뢰; 필요 시 생검·국소 원인 평가를 시행함
+
 ***
 
 ## <mark style="color:red;">질병코드</mark>
 
-L73　기타 모낭장애　Other follicular disorders
+저장된 **KCD9_251216(6).xlsx**의 「상병분류기호(전체)」와 「상병분류기호(완전코드)」를 대조함. 아래 부위별 모낭염은 L02 계열의 **포함 용어**이며, 대표 분류명은 종기임.
 
-L73.1　수염 거짓모낭염　Pseudofolliculitis barbae
-
-L73.8　기타 명시된 모낭장애　Other specified follicular disorders (sycosis barbae 포함)
-
-L73.9　상세불명의 모낭장애　Follicular disorder, unspecified
+<table><thead><tr><th>코드</th><th>KCD-9 대표 분류명</th><th>해당 포함 용어 / 선택 시 유의점</th></tr></thead><tbody>
+<tr><td>L02.01</td><td>얼굴의 종기</td><td>얼굴의 모낭염 포함</td></tr>
+<tr><td>L02.11</td><td>목의 종기</td><td>목의 모낭염 포함</td></tr>
+<tr><td>L02.21</td><td>몸통의 종기</td><td>몸통의 모낭염 포함</td></tr>
+<tr><td>L02.31</td><td>둔부의 종기</td><td>둔부의 모낭염·둔부의 종기증 포함</td></tr>
+<tr><td>L02.41</td><td>사지의 종기</td><td>사지의 모낭염 포함</td></tr>
+<tr><td>L02.81</td><td>기타 부위의 종기</td><td>기타 부위의 모낭염 포함; 두피 등 부위·진단에 따라 검토</td></tr>
+<tr><td>L73.1</td><td>수염 거짓모낭염</td><td>Pseudofolliculitis barbae; 면도 관련 비감염성 병변과 모창을 구분</td></tr>
+<tr><td>L73.8</td><td>기타 명시된 모낭장애</td><td>모창(Sycosis barbae) 포함</td></tr>
+<tr><td>L73.9</td><td>상세불명의 모낭장애</td><td>유형·부위·원인이 구체화되지 않은 모낭장애에서 검토</td></tr>
+</tbody></table>
 
 {% hint style="info" %}
-**코드 선택** : 진료기록에 명시된 진단에 따라 세부 코드를 선택함. 비특이적 모낭염은 L73.9, 구체적으로 명시된 기타 모낭장애는 L73.8을 검토하며, 농양·종기 또는 원인별 진균·바이러스 질환이 확인되면 해당 질환의 코드를 확인함. L73은 상위 분류이므로 세부 코드가 있는 경우 이를 사용함.
+**코드 선택** : 모든 모낭염에 L73.9를 일률적으로 적용하지 않음. 기록된 진단·부위와 포함·제외 용어를 함께 확인하여 선택함. L02 계열의 대표 명칭이 ‘종기’라는 이유로 해당 코드에 수록된 부위별 ‘모낭염’을 누락하지 않으며, 코드 분류와 임상적 감염 깊이는 구분함. 원인별 진균·바이러스 질환이나 흉터성 탈모가 확인되면 해당 질환의 코드를 별도로 검토함. **L73은 불완전 상위 코드**이며, L02.0·L02.1 등의 상위 분류도 최종 세부 코드 대신 사용하지 않음.
 {% endhint %}
 
 ***
@@ -324,7 +357,7 @@ L73.9　상세불명의 모낭장애　Follicular disorder, unspecified
 > 팔렉신캡슐500㎎  1회 1캡슐  1일 4회  7일
 > ```
 >
-> _✽광범위 병변, 깊은 감염, cellulitis 동반 또는 전신 증상 등 적응증이 있을 때 사용함. 48\~72시간 내 반응을 확인하고 5\~10일 범위에서 조정함. 국내 허가 용량은 성인 1일 1\~4 g, 통상 500 ㎎ bid\~tid이며 위 qid는 피부 감염 치료에 사용하는 용법의 예임. 경구 항생제에 외용 항생제를 일률적으로 병용하지 않음._
+> _✽광범위 병변, 깊은 감염, cellulitis 동반 또는 전신 증상 등 적응증이 있을 때 사용함. 48\~72시간 내 반응을 확인하고 보통 5\~7일 치료함. 반응이 느리면 원인을 재평가한 뒤 10일 정도까지 연장 여부를 판단함. 국내 허가 용량은 성인 1일 1\~4 g, 통상 500 ㎎ bid\~tid이며 위 qid는 피부 감염 치료 지침 용법의 예임. 단순 모낭염은 팔렉신의 명시 적응증에 없으며 알레르기·신기능을 평가함. 경구 항생제에 외용 항생제를 일률적으로 병용하지 않음._
 
 > **처방례 3. 전신 치료가 필요한 MRSA 모낭염**
 >
@@ -359,6 +392,11 @@ L73.9　상세불명의 모낭장애　Follicular disorder, unspecified
 > * mupirocin(에스로반) 연고는 병변 부위에 1일 2\~3회 얇게 도포함.
 > * 신질환·임신 또는 임신 중일 가능성·수유 여부를 처방 전에 알리도록 함. 처방된 짧은 기간만 사용하고 임의로 연장하거나 반복 사용하지 않도록 안내함. 3–5일 내 호전이 없거나 악화되면 재평가함.
 
+> **외용 clindamycin과 경구 항진균제**
+>
+> * 크레오신티라도 심한 설사·혈변이 생기면 중단하고 진료를 받음. 장염 병력·임신/수유·소아 연령을 확인함.
+> * 경구 항진균제는 임의로 반복 복용하지 않음. Fluconazole 치료 중 및 마지막 복용 후 1주간 피임을 안내하고, 황달·진한 소변·심한 구역이 생기면 복용을 중단하고 진료를 받음.
+
 > **전신 항생제 처방 원칙**
 >
 > * 전신 항생제는 광범위·깊은 감염이나 전신 증상이 있을 때만 사용하며, 단순 국소 모낭염에는 routine으로 처방하지 않음.
@@ -378,9 +416,30 @@ L73.9　상세불명의 모낭장애　Follicular disorder, unspecified
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
-> * 치료 시작 후 3\~5일 내 호전이 없으면 재평가; 악화되면 기다리지 않고 내원
+> * 세균성 모낭염은 치료 시작 후 3\~5일 내 호전이 없으면 재평가(경구 항생제는 48\~72시간 내 반응 확인); 항진균 외용치료는 2\~4주 내 평가하며 악화되면 기다리지 않고 내원
 > * 발열, 광범위한 발적·부종 등 cellulitis가 의심되는 경우 - 즉시 내원
 > * 두피 병변에서 탈모나 흉터가 진행되는 경우 - 피부과 조기 진료
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">&lt;임상 근거&gt;</mark>
+
+* [Henning MAS, et al. Position statement: Recommendations on the diagnosis and treatment of Malassezia folliculitis. J Eur Acad Dermatol Venereol. 2023;37(7):1268–1275](https://doi.org/10.1111/jdv.18982) — 면역상태·간질환에 따른 치료 선택과 표 2의 경구 요법
+* [Apalla Z, et al. Management of human epidermal growth factor receptor inhibitors-related acneiform rash. JEADV. 2025](https://doi.org/10.1111/jdv.20391) — 온라인 발표 2024; 항암제 관련 비감염성 발진과 이차 감염의 구분
+* [IDSA. Skin and Soft Tissue Infections Guideline. 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
+* [ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing. 2026](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/bacterial-skin-and-soft-tissue-infections----diagnosis-and-antibiotic-prescribing/) — 국소·경증의 외용 단독치료 및 전신 치료 적응증
+* [Malaysia Ministry of Health. National Antimicrobial Guideline, A14: Skin & Soft Tissue Infections](https://sites.google.com/moh.gov.my/nag/contents/section-a-adult/a14-skin-soft-tissue-infections) — 경미한 모낭염의 보존적 치료 및 지속·광범위 병변 접근
+* [CDC. Preventing Hot Tub Rash. 2025](https://www.cdc.gov/healthy-swimming/prevention/preventing-hot-tub-rash.html)
+* [AAD. Bleach bath therapy](https://www.aad.org/public/diseases/eczema/childhood/itch-relief/bleach-bath) — 희석·사용법 참고; 아토피피부염 환자 안내이므로 모낭염의 직접 치료 근거와 구분함
+
+* [EMA. Fluconazole PSUSA/00001404/202303. 2023](https://www.ema.europa.eu/en/medicines/psusa/psusa-00001404-202303) — 임신 위험 및 치료 종료 후 1주간 피임 안내
+
+### <mark style="color:orange;">&lt;허가·급여 확인 자료&gt;</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 에스로반연고·크레오신티외용액·팔렉신캡슐·셉트린정·독시정·에스와이무피로신나잘연고·씨프로바이정·스포라녹스캡슐·푸루나졸·니조랄2%액·수란트라·오메크린 등의 국내 적응증·제형·용법·금기. 본문의 허가 외 사용 표시는 급여 인정 여부를 뜻하지 않음
+* KCD9_251216(6).xlsx — 저장된 KCD-9 상병분류기호 전체·완전코드 시트 직접 대조(2026-10-30)
 
 ***
 
@@ -419,20 +478,5 @@ L73.9　상세불명의 모낭장애　Follicular disorder, unspecified
 #### <mark style="color:$primary;">빠른 예약 진료가 필요한 경우</mark>
 
 * 두피 발진 부위에서 머리카락이 빠지거나 흉터가 생기는 경우
-* 3\~5일 치료해도 호전이 없거나 자주 재발하는 경우
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [Henning MAS, et al. Position statement: Recommendations on the diagnosis and treatment of Malassezia folliculitis. J Eur Acad Dermatol Venereol. 2023;37(7):1268–1275](https://doi.org/10.1111/jdv.18982) — 면역상태·간질환에 따른 치료 선택과 표 2의 경구 요법
-* [IDSA. Skin and Soft Tissue Infections Guideline. 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
-* [ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing. 2026](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/bacterial-skin-and-soft-tissue-infections----diagnosis-and-antibiotic-prescribing/) — 국소·경증의 외용 단독치료 및 전신 치료 적응증
-* [CDC. Preventing Hot Tub Rash. 2025](https://www.cdc.gov/healthy-swimming/prevention/preventing-hot-tub-rash.html)
-* [AAD. Bleach bath therapy](https://www.aad.org/public/diseases/eczema/childhood/itch-relief/bleach-bath) — 희석·사용법 참고; 아토피피부염 환자 안내이므로 모낭염의 직접 치료 근거와 구분함
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 에스로반연고·크레오신티외용액·팔렉신캡슐·셉트린정·독시정·에스와이무피로신나잘연고·씨프로바이정·스포라녹스캡슐·푸루나졸·니조랄2%액·수란트라·오메크린 등의 국내 적응증·제형·용법·금기. 본문의 허가 외 사용 표시는 급여 인정 여부를 뜻하지 않음
+* 세균성 모낭염 치료를 3\~5일 해도 호전이 없거나 자주 재발하는 경우
+* 곰팡이성 모낭염의 바르는 약은 보통 2\~4주 안에 효과를 확인합니다. 그 전이라도 악화되면 진료를 받으십시오.

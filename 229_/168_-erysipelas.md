@@ -8,14 +8,16 @@
   * 실제 임상에서는 두 질환이 겹치거나 명확히 구분되지 않을 수 있으며, 임상적 중복이 많아 IDSA 2014 지침에서도 erysipelas와 cellulitis를 같은 권고 항목에서 함께 다룸
 * 호발 부위 : 하지(가장 흔함), 얼굴(코·뺨·귀 주변)
 * 같은 부위에 재발하기 쉬움 : 하지 연조직염 병력이 있는 환자의 연간 재발률은 약 8\~20%로 보고됨 <mark style="color:$info;">Ref. IDSA 2014; 국내 SSTI 지침 2017</mark>. 이 수치는 단독만을 대상으로 한 국내 자료가 아닌 하지 연조직염 재발 자료임. 만성 부종·림프부종과 피부 장벽 손상이 있으면 재발 위험이 증가함
-* 합병증 : 농양, 균혈증·패혈증, 심부 감염, 반복 재발에 따른 림프부종 악화, 드물게 괴사성 연조직감염
+* 합병증 : 균혈증·패혈증, 반복 재발에 따른 림프부종 악화; 드물게 심부 감염
+  * 농양이나 괴사성 연조직감염 소견이 있으면 단순 단독의 범위를 벗어난 동반 감염 또는 다른 진단을 우선 재평가함
 
 ## <mark style="color:green;">원인</mark>
 
 * 주로 β-용혈성 사슬알균
   * A군 사슬알균(*Streptococcus pyogenes*)이 대표적
-  * C군·G군 사슬알균도 원인이 될 수 있음
+  * B군(*Streptococcus agalactiae*)·C군·G군 사슬알균도 원인이 될 수 있음
 * 전형적인 단독에서 *Staphylococcus aureus*와 MRSA는 주된 원인균이 아님
+  * 상처·궤양·화농성 배액이 있거나 연조직염과 구분이 불명확하면 MSSA 등 다른 원인균을 고려하여 항생제를 선택함
 
 ### <mark style="color:orange;">위험 인자</mark>
 
@@ -31,17 +33,17 @@
 * 비교적 빠르게 확대되는 선홍색 또는 짙은 홍색의 부종성 병변
   * 주위 정상 피부와 경계가 비교적 명확하고 약간 융기함
   * 열감, 통증, 압통 동반
-* **peau d'orange** : 모낭 주위 부종으로 귤껍질 같은 표면 형성
+* **peau d'orange** : 피부 부종으로 모낭 입구가 상대적으로 함몰되어 귤껍질 같은 표면 형성
 * 중증 병변에서는 수포·대수포가 형성되거나 회복기에 표피탈락이 나타날 수 있음
 * 림프관염과 국소 림프절병증이 동반될 수 있음
 * 얼굴 단독은 양측 뺨과 콧등을 연결하는 나비 모양 분포를 보일 수 있음
 * **Milian 귀 징후(Milian's ear sign)** : 얼굴의 경계 명확한 홍반·부종이 귓바퀴까지 침범하면, 깊은 피하조직이 거의 없는 귓바퀴를 침범하기 어려운 전형적 cellulitis보다 단독을 지지함
   * 단독에 특이적인 확진 소견은 아니며 이개연골막염, 외이도염, 접촉피부염 등과 감별해야 함
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### 🚩Red Flags
 
 {% hint style="danger" %}
-**Tier 1 - 즉각 조치**
+**즉각 조치**
 
 응급실 이송 및 해당 전문과 평가를 즉시 시행함. 괴사성 감염은 영상검사 때문에 외과 평가·수술을 지연하지 않음
 
@@ -53,9 +55,9 @@
 {% endhint %}
 
 {% hint style="warning" %}
-**Tier 2 - 당일 평가**
+**당일~수일 내 평가**
 
-당일 중증도와 정주 치료·입원 필요성을 평가함. 눈·코 주변 감염은 전문과 협진을 고려하며 얼굴 병변만으로 정주 치료·입원을 일률적으로 결정하지 않음
+아래 항목은 **당일 평가**를 원칙으로 하여 중증도와 정주 치료·입원 필요성을 판단함. 눈·코 주변 감염은 전문과 협진을 고려하며 얼굴 병변만으로 정주 치료·입원을 일률적으로 결정하지 않음
 
 * 눈·코 주변 또는 광범위한 얼굴 병변  `얼굴 감염`
 * 고열·빈맥 등 뚜렷한 전신증상이나 확대되는 병변  `진행성 감염`
@@ -66,9 +68,9 @@
 {% endhint %}
 
 {% hint style="info" %}
-**Tier 3 - 조기 평가 및 추적**
+**조기 평가 및 추적**
 
-안정적인 외래 환자는 48–72시간 이내 치료 반응을 확인함. 악화·발열 지속은 당일 재평가하며, 빠른 진행·심한 통증·전신독성은 Tier 1을 적용함
+안정적인 외래 환자는 48–72시간 이내 치료 반응을 확인함. 악화·발열 지속은 당일 재평가하며, 빠른 진행·심한 통증·전신독성은 즉각 조치 기준을 적용함
 
 * 적절한 경구 치료 후 48–72시간에도 호전이 시작되지 않으나 전신상태·병변 범위는 안정적임  `반응 지연`
 * 같은 부위의 반복 단독·연조직염  `반복 감염`
@@ -79,6 +81,8 @@
 
 * 병력과 임상 소견을 바탕으로 진단함
 * 하지 병변에서는 발가락 사이의 균열·인설·침연 및 족부백선을 확인함
+* 급성 하지 단독은 대개 한쪽에 발생함. 양측 하지에 대칭성 홍반이 있으면 정맥울혈피부염·림프부종 등 비감염성 원인을 우선 감별함
+* 눈·코 주변 병변은 안와전·안와 감염을 구별함. 안와전연조직염이나 부비동·치성 감염의 확산이 의심되면 전형적 경증 단독의 amoxicillin 단독 경로를 그대로 적용하지 않고 해당 감염에 맞추어 치료함
 * 병변의 범위를 피부 표시펜으로 표시하고 날짜를 기록하면 진행 여부 판단에 도움이 됨
 * 농양, 변동감 또는 화농성 배액이 있으면 전형적인 단독이 아니므로 화농성 피부 및 연조직감염을 평가함
 
@@ -109,9 +113,9 @@
 
 ```mermaid
 graph TD
-    Start(["급성 홍반·부종·통증 병변"]) ---> Q1{"즉각 조치 기준 해당?"}
+    Start(["급성 홍반·부종·통증: 단독 의심"]) ---> Q1{"즉각 조치 기준 해당?"}
     Q1 -- 예 ---> ER["즉시 응급실 이송 및 관련 전문과 평가"]
-    Q1 -- 아니오 ---> Q2{"당일 평가 기준 해당?"}
+    Q1 -- 아니오 ---> Q2{"당일 평가가 필요한 위험 인자?"}
     Q2 -- 예 ---> Refer["당일 중증도·정주 치료·입원 필요성 평가"]
     Q2 -- 아니오 ---> Q3{"농양·변동감·화농성 배액?"}
     Q3 -- 예 ---> Purulent["화농성 피부·연조직감염 평가 및 절개배농 고려"]
@@ -122,7 +126,7 @@ graph TD
     Reassess -- 예 ---> Continue["처방된 치료과정 계속"]
     Reassess -- 아니오 ---> Refer2["진단·복약·농양·심부감염 재평가 및 필요시 의뢰"]
     Continue ---> Day5{"5일째 통증·열감·전신증상 충분히 호전?"}
-    Day5 -- 예 ---> Complete["치료 종료 및 잔여 홍반·부종 추적"]
+    Day5 -- 예 ---> Complete(["치료 종료 및 재발 요인 관리"])
     Day5 -- 아니오 ---> Extend["진단 재평가 후 총 7~10일 등으로 연장 검토"]
 
     style ER fill:#f96,stroke:#e65100,stroke-width:2px
@@ -152,7 +156,7 @@ graph TD
 ### <mark style="color:orange;">비-약물 치료 및 예방</mark>
 
 * 이환부를 심장보다 높게 거상하여 부종을 줄임
-* 탈수를 피하도록 적절히 수분을 보충함
+* 탈수를 피하도록 적절히 수분을 보충함. 심부전·신장질환으로 수분 제한 중이면 기존 지시와 체액 상태를 고려함
 * 필요시 냉습포를 단기간 적용하여 불편감을 완화함
 * 족부백선, 발가락 사이 균열, 습진 등 침입 경로와 유발요인을 함께 치료함
 * 피부를 청결하게 유지하고 보습제를 사용하여 균열을 예방함
@@ -164,14 +168,14 @@ graph TD
 
 <mark style="color:$info;">Ref. Dräger S, et al. J Dtsch Dermatol Ges. 2025;23(10):1274–1280; Webb E, et al. EClinicalMedicine. 2026;98:104127.</mark>
 
-* 면도·찰과상·벌레물림 등 피부 손상을 예방하고 작은 상처도 조기에 세척·보호함
+* 비만이 있으면 체중 조절을 병행하고, 피부 손상을 예방하며 작은 상처도 조기에 세척·보호함
 * 자세한 공통 원칙은 (☞ [피부 및 연조직감염](165_-skin-soft-tissue-infection.md))을 참조함
 
 ### <mark style="color:orange;">약물 치료</mark>
 
 #### <mark style="color:$primary;">통증·발열 조절</mark>
 
-* acetaminophen을 우선 고려함
+* acetaminophen을 우선 고려함. 복합감기약·진통제의 동일 성분 중복을 확인하고 간질환·과음·저체중에서는 용량을 개별화함
 * NSAID는 신장애, 탈수, 위장관 출혈 위험, 고령자 및 항응고제 복용 여부를 확인한 후 선택적으로 사용함
 
 {% hint style="warning" %}
@@ -184,25 +188,31 @@ NSAID 자체가 단독에서 금기인 것은 아니며, 신장기능·탈수·�
 * 전형적인 경증 단독 : 사슬알균을 표적으로 하는 경구 β-lactam 항생제
   * 성인 amoxicillin 500 ㎎ tid PO <mark style="color:blue;">\[파목신캡슐500㎎]</mark> : 국내 제품 허가 용법은 1회 250\~500 ㎎, 1일 3회이며 연령·증상에 따라 증감함
   * **질병관리청 2026 실무지침도 amoxicillin 500 ㎎ tid를 제시함.** 본 처방례는 이 용법과 국내 제품 허가 용법에 맞춤; 2017 지침의 500 ㎎ q12h 또는 250 ㎎ q8h와 구분함
-  * 신기능 저하 시 제품별 허가사항에 따라 용량·간격을 조절함. 소아에는 성인 고정용량을 그대로 적용하지 않음
-* β-lactam을 사용할 수 없는 성인은 clindamycin 300\~450 ㎎ qid PO 등 대체 항생제를 반응 병력과 지역 내성률에 따라 선택함 <mark style="color:$info;">Ref. 국내 SSTI 지침 2017</mark>
+  * 신기능 저하 시 용량·간격을 조절함. 국내 2026 실무지침의 정상 신기능 용량을 그대로 적용하지 않음. 소아에는 체중별 별도 용법을 적용함
+  * 국내 파목신 허가사항에는 allopurinol과 병용투여하지 않도록 되어 있으며, methotrexate 배설 감소에 따른 독성 증가 가능성도 확인함
+* β-lactam을 사용할 수 없으면 알레르기 병력, 중증도, 지역 내성률 및 국내 허가사항을 함께 검토하여 대체 항생제를 선택함
+  * clindamycin 경구 용량은 국내 2017 지침 300\~450 ㎎ qid, 2026 실무지침 450 ㎎ qid로 제시됨. **다른 적절한 항생제를 사용할 수 없는 중증 감염에서** 개별적으로 판단함
+  * 국내 훌그램 허가사항은 경미한 세균감염에는 투여하지 않도록 경고함. 따라서 경증 단독의 일률적 대체약으로 제시하지 않음. 페니실린 알레르기 표지만으로 자동 선택하지 않음
   * 국내 훌그램캡슐은 150 ㎎/C이므로 1회 300 ㎎은 2C, 450 ㎎은 3C에 해당함
   * 사슬알균의 clindamycin·macrolide 내성은 지역·시기에 따라 달라짐. 감수성 결과가 있으면 반영하고, 반응이 없으면 재평가함
-  * clindamycin은 식도 자극을 줄이도록 충분한 물과 함께 복용함. 심한 설사·혈변·복통이 발생하면 Clostridioides difficile 감염을 평가함
+  * clindamycin은 식도 자극을 줄이도록 충분한 물과 함께 복용함. 심한 설사·혈변·복통이 발생하면 투여를 중단하고 *Clostridioides difficile* 감염을 평가함. 중단 후 수주 내에도 발생할 수 있음
 * 페니실린 알레르기는 원인 약물, 발생 시점, 증상, 중증도 및 확인 여부를 구분함 <mark style="color:$info;">Ref. Drug Allergy Practice Parameter 2022</mark>
   * 미확인·비아나필락시스 병력에서는 cephalosporin 사용이 가능한 경우가 많음. 확인된 aminopenicillin 알레르기에서는 같은 R1 곁사슬을 가진 약제를 피함(amoxicillin–cefadroxil, ampicillin–cephalexin 등)
   * 페니실린 아나필락시스 병력만으로 모든 cephalosporin이 금기는 아님. R1 곁사슬이 다른 약제(예: cefazolin)의 사용 여부는 적응증·병력에 따라 판단함
   * SJS/TEN·DRESS 등 중증 지연형 과민반응 병력이 있으면 원인 약물과 관련 β-lactam을 임의로 재투여하지 않고 전문과와 상의함
 * 합병증이 없고 임상적 호전이 확인되면 우선 5일 치료함 <mark style="color:$info;">Ref. IDSA 2014</mark>
   * 5일째 임상적 호전이 불충분하면 진단·합병증·복약을 재평가한 뒤 총 7\~10일 등으로 연장함. 잔여 홍반·부종만으로 자동 연장하지 않음
-  * **clindamycin 지침·허가사항 차이** : SSTI 지침의 5일 치료 원칙과 달리, 국내 훌그램 허가사항에는 β-용혈성 사슬알균 감염 시 최소 10일 이상 투여가 바람직하다는 문구가 있음. 처방례 2는 이를 반영하여 10일로 제시함
-* 중등도·중증 감염, 전신독성 또는 경구 투여 불가 시에는 당일 의뢰하여 cefazolin 등 정주 치료와 입원 필요성을 평가함
+  * **clindamycin 지침·허가사항 차이** : 단독·연조직염 지침의 단기 치료 원칙(국내 2026·IDSA 2014: 5일; ACE 2026: 보통 5\~7일)과 달리, 국내 훌그램 허가사항에는 β-용혈성 사슬알균 감염 시 최소 10일 이상 투여가 바람직하다는 문구가 있음. clindamycin을 선택할 때에는 이 차이와 대장염 위험을 함께 검토하여 기간을 결정함. 이를 모든 단독에서 10일 치료가 필요하다는 근거로 확대하지 않음
+* 뚜렷한 전신증상·광범위 병변 등 중등도 이상 감염은 가능하면 당일 중증도를 재평가함. 전신독성, 혈역학적 불안정, 심한 면역저하, 경구 복용 불가 또는 외래 치료 실패가 있으면 정주 치료·입원을 적극 고려함
+  * 안정적이며 경구 복용·추적이 가능한 환자에서는 중등도라는 분류만으로 경구 치료를 일률적으로 배제하지 않음
+  * 의뢰기관 정주 치료 예: cefazolin; 사슬알균성 단독이 명확하면 penicillin G 또는 ampicillin도 선택 가능함. 정주 치료는 48시간 안에 반응과 경구 전환 가능성을 재검토함
 * 전형적인 단독에 경험적 MRSA 항생제를 일률적으로 추가하지 않음 <mark style="color:$info;">Ref. IDSA 2014</mark> - MRSA 감염·보균 병력, 관통상, 주사약물 사용, 화농성 배액, SIRS 또는 초기 치료 실패가 있으면 단독이 아닌 연조직염·화농성 SSTI 가능성을 재평가하고 MRSA 표적 치료 여부를 결정함
 
 #### <mark style="color:$primary;">보조 치료 - 전신 스테로이드</mark>
 
-* 전신 스테로이드는 단독·연조직염에서 일상적으로 사용하지 않음. IDSA 2014는 일부 비당뇨 성인에 약하게 권고하였으나 ACE 2026은 보조 corticosteroid의 근거가 불충분하다고 정리함. 예외적으로 고려하더라도 괴사성 감염을 충분히 배제하고 혈당·면역상태·감염 진행 위험을 평가함
-* <mark style="color:$info;">Ref. IDSA SSTI guideline, 2014; ACE SSTI guideline, 2026.</mark>
+* 전신 스테로이드는 단독·연조직염에서 일상적으로 사용하지 않음. IDSA 2014는 일부 비당뇨 성인에서 고려할 수 있다고 약하게 권고하였으나, 2024년 체계적 문헌고찰은 임상 반응에 대한 스테로이드의 효과를 판단할 자료가 불충분하다고 결론냄
+* 예외적으로 고려하더라도 괴사성 감염을 충분히 배제하고 혈당·면역상태·감염 진행 위험을 평가함. 항생제·필요한 수술을 대신할 수 없음
+* <mark style="color:$info;">Ref. IDSA SSTI guideline, 2014; Hamill L, et al. CJEM. 2024;26:472–481.</mark>
 
 #### <mark style="color:$primary;">재발 예방을 위한 항생제 예방요법</mark>
 
@@ -215,7 +225,8 @@ NSAID 자체가 단독에서 금기인 것은 아니며, 신장기능·탈수·�
 
 ### <mark style="color:orange;">치료 반응 평가</mark>
 
-* 치료 초기 24시간 동안 홍반이 다소 확대될 수 있으나, 보통 48\~72시간 이내 전신증상과 국소 통증의 호전이 시작됨
+* 치료 초기 24\~48시간에는 염증반응으로 홍반·부종이 다소 증가할 수 있음. 다만 빠른 확대, 심한 통증, 발열·전신상태 악화를 정상 경과로 간주하지 않음
+* 보통 48\~72시간 이내 전신증상과 국소 통증의 호전이 시작됨. 안정적인 환자에서 잔여 홍반만을 이유로 조기에 항생제를 광범위하게 변경하지 않음
 * 피부색과 부종이 항생제 종료 시점까지 완전히 정상화되지 않을 수 있음
 * 48\~72시간 내 호전되지 않으면 다음을 재평가함
   * 진단 오류 : 정맥울혈피부염, DVT, 접촉피부염, 통풍 등
@@ -226,9 +237,18 @@ NSAID 자체가 단독에서 금기인 것은 아니며, 신장기능·탈수·�
 
 ***
 
-### <mark style="color:red;">질병코드 (KCD)</mark>
+### <mark style="color:orange;">시술 및 기타 처치</mark>
 
-A46 단독 Erysipelas
+* 전형적인 비화농성 단독은 절개배농이나 수술이 필요하지 않음. 국소 항생제만으로 치료하지 않음
+* 농양이 확인되면 절개배농 및 배양을 고려하고, 괴사성 감염이 의심되면 즉시 외과 평가·수술을 의뢰함
+
+***
+
+## <mark style="color:red;">질병코드</mark>
+
+<table><thead><tr><th>KCD-9</th><th>공식 한글명</th><th>영문명</th></tr></thead><tbody><tr><td>A46</td><td>단독(丹毒)</td><td>Erysipelas</td></tr></tbody></table>
+
+* A46은 완전코드이며 부위별 추가 세분코드가 없음
 
 ***
 
@@ -245,18 +265,13 @@ A46 단독 Erysipelas
 >
 > _✽48\~72시간 이내 치료 반응을 확인하며, 빠른 확대·심한 통증·전신상태 악화가 있으면 즉시 재평가함._
 
-> **처방례 2. β-lactam 과민반응이 있는 경증 단독**
+> **처방례 2. β-lactam 사용이 곤란한 경우**
 >
-> ```
-> 훌그램캡슐 150 ㎎/C 8C #4 × 10일 (1회 2C, 6시간마다)
-> 타이레놀 500 ㎎/T 3T #3 × 3일, 통증·발열 시 복용
-> ```
->
-> _✽β-lactam을 사용할 수 없고 지역 내성률상 clindamycin이 적절한 경우 선택함. 1회 300 ㎎ qid이며, 국내 허가사항의 β-용혈성 사슬알균 감염 투여기간 문구를 반영함. 48\~72시간 내 반응을 확인하고 C. difficile 감염 가능성을 설명함. 알레르기 병력만으로 clindamycin을 일률적으로 선택하지 않음._
+> 알레르기 유형과 대체 β-lactam 사용 가능성을 먼저 평가함. clindamycin은 국내 허가상 경미한 세균감염에 투여하지 않도록 경고되어 있으므로 경증 환자의 고정 처방례로 제시하지 않음. 대체 항생제 선택이 어렵거나 감염이 진행하면 감염내과·피부과와 상의함.
 
-> **처방례 3. 중등도·중증 단독**
+> **처방례 3. 중등도 이상 또는 외래 치료 곤란**
 >
-> 경구 처방으로 치료하지 않고 당일 의뢰하여 정주 항생제 및 입원 필요성을 평가함
+> 가능하면 당일 중증도와 정주 항생제·입원 필요성을 평가함. 전신독성·쇼크·괴사성 감염 의심이면 즉시 응급실로 이송함. 안정적이며 복약·추적이 가능한 경우 경구 치료 가능성도 함께 판단함.
 
 ***
 
@@ -264,7 +279,7 @@ A46 단독 Erysipelas
 
 > **항생제 복용 원칙**
 >
-> * 증상이 좋아져도 처방된 치료기간을 완료하도록 안내함(기본 amoxicillin 처방례는 5일, clindamycin 처방례는 10일). 중증 알레르기나 심한 설사 등이 발생하면 다음 복용을 보류하고 즉시 의료진과 상의함
+> * 증상이 좋아져도 처방된 치료기간을 완료하도록 안내함(기본 amoxicillin 처방례는 5일; 다른 약제는 지침·허가사항과 반응에 따라 결정). 중증 알레르기나 심한 설사 등이 발생하면 다음 복용을 보류하고 즉시 의료진과 상의함
 > * 48\~72시간 이내 호전이 시작되지 않거나 병변이 오히려 확대되면 재내원하도록 함
 > * amoxicillin 복용 시 발진, 설사 등 부작용 발생 여부를 확인하고, 페니실린 알레르기 과거력을 다시 한번 확인함
 
@@ -284,6 +299,30 @@ A46 단독 Erysipelas
 > * **극심한 통증**이 피부 소견에 비해 지나치게 심한 경우 - 즉시 내원
 > * 물집이 피가 섞인 색을 띠거나 피부 감각이 둔해지는 경우 - 즉시 내원
 > * 고열, 오한, 어지러움 등 전신 증상이 동반되는 경우 - 즉시 내원
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [질병관리청. 2026 피부·연조직 감염 항생제 적정사용을 위한 실무지침](https://www.kdca.go.kr/bbs/kdca/55/306857/download.do) — 공식 게시 제목은 2026 실무지침이며 PDF 표지에는 2025가 표기되어 있음
+* [국내 지역사회 획득 피부·연조직감염 항생제 지침. Infection & Chemotherapy 2017;49:301–325](https://doi.org/10.3947/ic.2017.49.4.301) : 단독·연조직염 항생제 및 재발 예방; Table 2의 성인 용량
+* [IDSA. Practice Guidelines for Skin and Soft Tissue Infections, 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/) : 검사, 5일 치료 원칙, 의뢰·입원 및 재발 예방
+* [CDC. Clinical Guidance for Group A Streptococcal Cellulitis, 2025](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/cellulitis.html)
+* [NICE NG141. Cellulitis and erysipelas: antimicrobial prescribing, 2019](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations) : 48~72시간 재평가, 눈·코 주변 감염 및 예방요법
+* [Khan et al. Drug allergy: A 2022 practice parameter update](https://doi.org/10.1016/j.jaci.2022.08.028) : β-lactam 과민반응과 곁사슬별 교차반응
+* [Thomas et al. Penicillin to Prevent Recurrent Leg Cellulitis. NEJM 2013](https://doi.org/10.1056/NEJMoa1206300)
+* [Webb et al. Compression Therapy to Prevent Recurrent Cellulitis of the Leg. NEJM 2020](https://doi.org/10.1056/NEJMoa1917197)
+* [Dräger S, et al. Treating cellulitis promptly with compression therapy reduces C-reactive protein-levels and symptoms—a randomized-controlled trial. J Dtsch Dermatol Ges. 2025;23(10):1274–1280](https://doi.org/10.1111/ddg.15829)
+* [Webb E, et al. Sustained benefit of compression therapy for preventing recurrent leg cellulitis: extended follow-up of a randomised controlled trial. EClinicalMedicine. 2026;98:104127](https://pubmed.ncbi.nlm.nih.gov/42597865/)
+* [Hamill L, et al. Anti-inflammatories as adjunct treatment for cellulitis: a systematic review and meta-analysis. CJEM. 2024;26:472–481](https://doi.org/10.1007/s43678-024-00718-z) : 스테로이드 보조요법의 근거 한계
+* [ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing. 2026](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/bacterial-skin-and-soft-tissue-infections----diagnosis-and-antibiotic-prescribing/)
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 파목신캡슐500밀리그램·훌그램캡슐의 적응증·용법·경고를 확인함(2026-10-30); 훌그램의 경미한 감염 투여 제한 및 사슬알균 감염 투여기간 차이 포함
+* 저장 자료: **KCD9_251216(6).xlsx** — 「상병분류기호(전체)」 718행 및 「상병분류기호(완전코드)」 574행의 A46 대조
 
 ***
 
@@ -311,13 +350,14 @@ A46 단독 Erysipelas
 
 * 처방된 항생제는 증상이 좋아진 것 같아도 처방된 기간 동안 빠짐없이 복용하십시오. 보통 5일로 시작하지만 항생제 종류와 치료 반응에 따라 10일 또는 그 이상이 필요할 수 있습니다. 붉은 자국이나 부기가 조금 남아 있다는 이유만으로 스스로 항생제를 더 복용하지 마십시오.
 * 항생제 복용 후 숨이 차거나 입술·혀가 붓는 경우 복용을 멈추고 즉시 응급실을 방문하십시오. 심한 설사·혈변·복통이 생기면 바로 의료진과 상의하십시오.
-* 통증이나 열에는 타이레놀(아세트아미노펜)을 우선 사용하는 것이 안전합니다.
-* 소염진통제(NSAID)를 드시던 중 통증이 갑자기 심해지면 복용을 멈추고 바로 병원에 연락하십시오.
+* 통증이나 열에는 처방받은 아세트아미노펜을 우선 고려합니다. 감기약 등과 성분이 겹치지 않게 하고, 간질환이 있거나 술을 자주 드시면 의료진에게 알리십시오.
+* 진통제를 먹어도 통증이 심해지거나 붉은 부위가 빠르게 넓어지면 약만 더 먹으며 기다리지 말고 바로 진료를 받으십시오.
 * 병변이 얼굴이나 눈 주위에 생겼다면 증상이 심하지 않더라도 당일 의료진과 상의하십시오.
 
-#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+#### <mark style="color:$primary;">이럴 때는 다시 진료를 받으세요</mark>
 
-* 항생제를 2\~3일 복용했는데도 붉은 부위가 계속 넓어지거나 나아지지 않을 때
+* **당일 재진료** : 항생제를 2\~3일 복용했는데도 호전이 시작되지 않을 때. 붉은 자국만 남는 경우와 구분하여 통증·열·몸 상태도 함께 확인합니다
+* **즉시 진료** : 붉은 부위가 빠르게 넓어지거나 다음 증상이 생길 때
 * 피부 소견에 비해 통증이 너무 심하다고 느껴질 때
 * 피가 섞인 물집이 생기거나 피부색이 검붉게 변할 때, 그 부위 감각이 둔해질 때
 * 고열, 오한, 어지러움 등 온몸이 아픈 느낌이 들 때
@@ -328,27 +368,4 @@ A46 단독 Erysipelas
 * 발을 청결하고 건조하게 유지하고, 무좀이 있으면 꾸준히 치료하십시오.
 * 보습제를 사용해 피부가 갈라지지 않도록 관리하십시오.
 * 다리 부기가 자주 있다면 병원에서 압박 스타킹 등 관리 방법을 상담하십시오.
-* 반복되는 경우 담당의와 예방 방법을 상의하십시오. 위험 요인을 관리해도 1년에 3\~4번 이상 반복되거나 병원 치료가 필요한 감염이 반복되면 예방적 항생제를 고려할 수 있습니다.
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [질병관리청. 2026 피부·연조직 감염 항생제 적정사용을 위한 실무지침](https://www.kdca.go.kr/bbs/kdca/55/306857/download.do) — 공식 게시 제목은 2026 실무지침이며 PDF 표지에는 2025가 표기되어 있음
-* [국내 지역사회 획득 피부·연조직감염 항생제 지침. Infection & Chemotherapy 2017;49:301–325](https://doi.org/10.3947/ic.2017.49.4.301) : 단독·연조직염 항생제 및 재발 예방; Table 2의 성인 용량
-* [IDSA. Practice Guidelines for Skin and Soft Tissue Infections, 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/) : 검사, 5일 치료 원칙, 의뢰·입원 및 재발 예방
-* [CDC. Clinical Guidance for Group A Streptococcal Cellulitis, 2025](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/cellulitis.html)
-* [NICE NG141. Cellulitis and erysipelas: antimicrobial prescribing, 2019](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations) : 48~72시간 재평가, 눈·코 주변 감염 및 예방요법
-* [Khan et al. Drug allergy: A 2022 practice parameter update](https://doi.org/10.1016/j.jaci.2022.08.028) : β-lactam 과민반응과 곁사슬별 교차반응
-* [Thomas et al. Penicillin to Prevent Recurrent Leg Cellulitis. NEJM 2013](https://doi.org/10.1056/NEJMoa1206300)
-* [Webb et al. Compression Therapy to Prevent Recurrent Cellulitis of the Leg. NEJM 2020](https://doi.org/10.1056/NEJMoa1917197)
-* [Dräger S, et al. Treating cellulitis promptly with compression therapy reduces C-reactive protein-levels and symptoms—a randomized-controlled trial. J Dtsch Dermatol Ges. 2025;23(10):1274–1280](https://doi.org/10.1111/ddg.15829)
-* [Webb E, et al. Sustained benefit of compression therapy for preventing recurrent leg cellulitis: extended follow-up of a randomised controlled trial. EClinicalMedicine. 2026;98:104127](https://pubmed.ncbi.nlm.nih.gov/42597865/)
-* [ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing. 2026](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/bacterial-skin-and-soft-tissue-infections----diagnosis-and-antibiotic-prescribing/)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 파목신캡슐·훌그램캡슐 등 국내 적응증·용법·금기; 파목신 제조사 제품정보를 함께 대조함
+* 감염을 반복해서 확인받은 경우 담당의와 예방 방법을 상의하십시오. 위험 요인을 관리해도 1년에 3\~4번 이상 반복되거나 병원 치료가 필요한 감염이 반복되면 예방적 항생제를 고려할 수 있습니다.

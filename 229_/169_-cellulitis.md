@@ -49,6 +49,7 @@ Soft tissue infection은 농양, 괴사근막염, 근육염 등을 포함하는 
 * 경계가 명확하지 않은 편평한 홍반, 열감, 부종, 압통
 * 림프관을 따라 근위부로 이어지는 선상 홍반(림프관염), 국소 림프절병증
 * 중등도 이상에서는 발열, 오한, 권태감 동반 가능
+  * 발열이 없다고 감염을 배제하지 않으며, 고령자·면역저하자는 전신 반응이 뚜렷하지 않을 수 있음
 * 물집이 생길 수 있으나, 파동·농성 배액·뚜렷한 고름집은 피부농양 등 화농성 SSTI를 시사
 * 병변 가장자리를 펜으로 표시하거나 사진으로 기록하면 진행 여부 평가에 도움
 
@@ -62,7 +63,7 @@ Soft tissue infection은 농양, 괴사근막염, 근육염 등을 포함하는 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 {% hint style="danger" %}
-**Tier 1 - 즉각 조치**
+**즉각 조치**
 
 응급실 이송 및 관련 전문과 평가를 즉시 시행함. 괴사성 감염은 낮은 LRINEC 점수나 비확정적 영상만으로 배제하지 않으며 영상검사 때문에 외과 평가·수술을 지연하지 않음
 
@@ -72,12 +73,13 @@ Soft tissue infection은 농양, 괴사근막염, 근육염 등을 포함하는 
 * 괴사성 근막염, 근괴사, 구획증후군 또는 Fournier gangrene 의심  `심부 응급질환`
 * 안구운동통, 복시, 시력저하, 안구돌출  `안와 감염`
 * 호중구감소증에서 발열 동반  `호중구감소성 발열`
+* 갑자기 차가워진 발, 창백·청색증, 새 감각저하·마비 또는 맥박 소실  `급성 사지허혈`
 {% endhint %}
 
 {% hint style="warning" %}
-**Tier 2 - 당일 평가**
+**당일~수일 내 평가**
 
-당일 중증도·특수 병원체·정주 치료·입원 필요성을 평가함. 악화 시 응급 위험 신호가 있으면 Tier 1을 적용함
+이 감염에서는 아래 항목을 **당일** 평가하여 중증도·특수 병원체·정주 치료·입원 필요성을 판단함. 응급 위험 신호가 있으면 즉각 조치함
 
 * 뚜렷한 발열·오한·빈맥·빈호흡 또는 전신상태 불량  `전신 감염`
 * 광범위한 병변 또는 치료 중 병변 확대·통증 악화  `진행성 감염`
@@ -89,9 +91,9 @@ Soft tissue infection은 농양, 괴사근막염, 근육염 등을 포함하는 
 {% endhint %}
 
 {% hint style="info" %}
-**Tier 3 - 조기 평가 및 추적**
+**조기 평가 및 추적**
 
-안정적인 외래 환자는 48–72시간 이내 재평가함. 발열 지속·병변 확대·통증 악화는 당일 재평가하며, 빠른 악화·전신독성은 Tier 1을 적용함
+안정적인 외래 환자는 48–72시간 이내 재평가함. 발열 지속·병변 확대·통증 악화는 당일 재평가하며, 빠른 악화·전신독성은 즉각 조치함
 
 * 치료 후 48–72시간 내 호전이 시작되지 않으나 전신상태·병변 범위는 안정적임  `반응 지연`
 * 반복되는 연조직염  `반복 감염`
@@ -113,7 +115,7 @@ Soft tissue infection은 농양, 괴사근막염, 근육염 등을 포함하는 
 
 {% hint style="info" %}
 **ALT-70 - 성인 하지 연조직염 진단 보조**\
-급성 하지 발적에서 pseudocellulitis 감별을 위한 참고용 보조 도구로 활용할 수 있으나 국내 인구에서 별도 검증되지 않았음(Asymmetry 3점, Leukocytosis ≥10,000/µL 1점, Tachycardia ≥90/min 1점, Age ≥70세 2점). 0\~2점이면 다른 진단을 적극 재평가하고, 3\~4점이면 진단이 불확실하므로 전문의 협의 또는 조기 재평가를 고려함. 5\~7점도 연조직염을 확진하지 않으며(전문가 판정 기준 위양성 상당수 보고), 경증 외래 환자에게 점수 계산만을 목적으로 CBC를 일률적으로 시행할 근거는 부족함. 2024년 검증연구는 교상, 최근 5일 이내 외상, 4주 이내 수술 부위 및 인공물 부위 등의 복잡창상을 제외하였으므로 이들에 적용하는 근거는 부족함. 발가락에만 국한된 병변도 영상 획득 문제로 제외되었음.
+급성 하지 발적에서 pseudocellulitis 감별을 위한 참고용 보조 도구로 활용할 수 있으나 국내 인구에 대한 별도 검증 근거는 확인하지 못했음(Asymmetry 3점, Leukocytosis ≥10,000/µL 1점, Tachycardia ≥90/min 1점, Age ≥70세 2점). 0\~2점이면 다른 진단을 적극 재평가하고, 3\~4점이면 진단이 불확실하므로 전문의 협의 또는 조기 재평가를 고려함. 5\~7점도 연조직염을 확진하지 않으며(전문가 판정 기준 위양성 상당수 보고), 경증 외래 환자에게 점수 계산만을 목적으로 CBC를 일률적으로 시행할 근거는 부족함. 2024년 검증연구는 교상, 최근 5일 이내 외상, 4주 이내 수술 부위 및 인공물 부위 등의 복잡창상을 제외하였으므로 이들에 적용하는 근거는 부족함. 발가락에만 국한된 병변도 영상 획득 문제로 제외되었음.
 <mark style="color:$info;">Ref. Pulia MS, et al. JAMA Dermatol. 2024;160(5):511–517.</mark>
 {% endhint %}
 
@@ -121,10 +123,11 @@ Soft tissue infection은 농양, 괴사근막염, 근육염 등을 포함하는 
 
 * 전형적인 경증 비화농성 연조직염: 배양검사 불필요
 * 농양·농성 배액: 고름의 그람염색·배양 고려
-* 혈액배양 고려
+* 혈액배양을 권고하거나 적극 고려할 상황
   * 저혈압·고열 등 중증 전신소견
   * 항암치료 중인 악성종양, 호중구감소증, 심한 세포매개 면역저하
   * 동물 물림, 담수·해수 노출 등 비전형적 병원체가 의심되는 경우
+* 혈액배양은 가능하면 항생제 투여 전에 채취하되, 패혈증이나 빠르게 진행하는 감염에서 치료를 지연하지 않음
 * CBC, Cr/eGFR, 전해질, CRP 등은 중등도·중증 환자의 장기기능과 중증도 평가에 선택적으로 시행
 * CK는 근괴사·괴사성 감염이 의심될 때 고려
 * 비전형적 노출·면역저하에서는 개방성 병변의 배양 또는 흡인·조직검사를 고려하고, 진균·항산균 검사는 역학적·면역학적 위험에 따라 선택
@@ -137,19 +140,20 @@ Soft tissue infection은 농양, 괴사근막염, 근육염 등을 포함하는 
 ***
 
 ```mermaid
-graph TD
-    Start(["발적·열감·부종·통증"]) ---> A["즉각 조치가 필요한 위험 신호?"]
-    A --->|예| B["즉각 응급 평가 및 치료"]
-    A --->|아니요| C["중등도 이상·경구 투여 곤란 또는 복잡·특수 감염?"]
-    C --->|예| D["당일 전문 평가; 입원·IV 항생제 등 선택"]
-    C --->|아니요| E["농양·농성 배액 있음?"]
-    E --->|예| F["절개·배농 ± 배양; 항생제 추가 여부 결정"]
-    E --->|아니요| G["경구 β-lactam; 통상 5일"]
-    D ---> H["48~72시간에 호전 시작?"]
-    F ---> H
-    G ---> H
-    H --->|예| I["감염 유형·중증도·반응에 따라 치료 완료"]
-    H --->|아니요| J["조기 재평가; 악화·전신증상은 당일 평가, 농양·오진·심부감염 확인"]
+flowchart TD
+    Start(["연조직염 의심"]) --> A{"즉각 조치가 필요한 위험 신호?"}
+    A -->|예| B(["즉각 응급 평가·외과 협의 및 치료"])
+    A -->|아니요| C{"전신상태 불량·경구 투여 곤란 또는 복잡·특수 감염?"}
+    C -->|예| D["당일 전문평가; 입원·IV 항생제 등 선택"]
+    D --> K(["입원 중 매일 재평가; 안정·호전 시 경구 전환"])
+    C -->|아니요| E{"농양·농성 배액 있음?"}
+    E -->|예| F["절개·배농 및 고름 배양; 항생제 추가 여부 결정"]
+    E -->|아니요| G["경구 β-lactam; 호전 시 통상 총 5일"]
+    F --> W["24–48시간 내 창상 확인"]
+    W --> H{"48–72시간 내 호전 시작?"}
+    G --> H
+    H -->|예| I(["감염 유형·반응에 맞추어 치료 완료; 재발 위험 관리"])
+    H -->|아니요| J(["조기 재평가; 악화 시 당일, 응급 신호 시 즉각 조치"])
 ```
 
 <p align="center"><strong>연조직염 진단·치료 흐름</strong></p>
@@ -171,7 +175,9 @@ graph TD
   * 빠른 확대, 통증 악화 또는 전신상태 악화는 초기 염증 반응으로 간주하지 말고 즉시 재평가
 * 호전이 없으면 농양, 오진, 복약 불이행, 내성균, 특수 노출, 허혈, 골수염·괴사성 감염을 재검토
 * IV 항생제는 중증도와 경구 복용 가능 여부에 따라 결정하고 48시간 전후에 재평가
-  * 안정되고 호전되면 경구제로 전환하며 **유효한 IV 치료 일수와 경구 치료 일수를 합산하여 총 치료 기간을 계산**
+  * 24시간 이상 발열이 없고 활력징후가 안정적이며, 통증·홍반이 감소하거나 더 이상 확대되지 않고 경구 섭취·흡수가 가능하면 경구 전환을 고려
+  * CRP·WBC가 정상화될 때까지 IV 치료를 유지할 필요는 없으며, 검사 수치만으로 전환 여부를 결정하지 않음
+  * **유효한 IV 치료 일수와 경구 치료 일수를 합산하여 총 치료 기간을 계산**
   * 경구제로 바꾼 날부터 치료 기간을 새로 시작하지 않음
 * 약제별 허가사항·지침에 근거하지 않은 일률적인 "경구 항생제 초회 2배 용량"은 사용하지 않음
   * Minocycline처럼 허가된 초회 용량이 있는 약제는 해당 용법을 따름
@@ -191,8 +197,8 @@ graph TD
   * 압박요법 전 말초맥박, 허혈 증상 및 말초동맥질환 위험을 평가
   * 말초동맥질환이 의심되면 ABI 등으로 동맥 관류를 확인하고, 당뇨병·만성콩팥병에서는 혈관 석회화로 ABI가 거짓으로 높을 수 있으므로 필요시 toe-brachial index 또는 혈관검사를 고려
 
-* 2025년 하지 연조직염 입원 성인 34명 무작위시험에서 항생제 시작 24시간 후 적용한 조절식 압박 랩은 증상을 줄였고 감염 악화가 관찰되지 않았음. 소규모 단일기관 연구이므로 모든 급성 감염에 즉시 압박하는 근거로 확대하지 않음
-* 만성 하지 부종·재발성 연조직염의 압박요법 무작위시험에 대한 2026년 연장 추적에서도 재발 예방 효과가 지속됨. 대조군의 압박요법 교차가 포함된 연장 추적 자료라는 한계가 있음
+* 2025년 하지 연조직염 입원 성인 무작위시험(분석 34명)에서 항생제 시작 24시간 후 적용한 조절식 압박 랩은 통증·주관적 증상을 줄였음. 전체 분석에서 CRP·홍반 면적의 군 간 차이는 유의하지 않았음. 소규모 단일기관 연구이며 비보상성 심부전 등은 제외되었으므로 모든 급성 감염의 일률적 압박 근거로 확대하지 않음
+* 만성 하지 부종·재발성 연조직염의 압박요법 무작위시험에 대한 2026년 연장 추적(90명, 추적 중앙값 18개월)에서도 재발은 압박군 20%, 대조군 47%로 차이가 유지됨. 대조군의 압박요법 교차가 포함된 공개형 단일기관 연장 추적 자료라는 한계가 있음
 
 <mark style="color:$info;">Ref. Dräger S, et al. J Dtsch Dermatol Ges. 2025;23(10):1274–1280; Webb E, et al. EClinicalMedicine. 2026;98:104127.</mark>
 
@@ -202,29 +208,33 @@ graph TD
 
 #### <mark style="color:$primary;">경증 경구 치료</mark>
 
-* Cephalexin 500 mg qid <mark style="color:blue;">\[팔렉신]</mark> - 1차 선택
-* Cefadroxil 500 mg bid <mark style="color:blue;">\[듀리세프]</mark> - 1차 선택
-* Cephradine 500 mg qid <mark style="color:blue;">\[세프라딘]</mark> - 1차 선택(동급 대안)
-* Clindamycin 300\~450 mg qid <mark style="color:blue;">\[훌그램]</mark> - 대체 선택(150 mg 캡슐 1회 2\~3개)
-  * 즉시형 β-lactam 과민반응 등 대체제가 필요한 경우 고려
+* Cephalexin 500 ㎎ qid <mark style="color:blue;">\[팔렉신]</mark> - 1차 선택
+* Cefadroxil 500 ㎎ bid <mark style="color:blue;">\[듀리세프]</mark> - 1차 선택
+* Cephradine 500 ㎎ qid - 국내 지침의 동급 대안
+* Clindamycin 300\~450 ㎎ qid <mark style="color:blue;">\[훌그램]</mark> - 대체 선택(150 ㎎ 캡슐 1회 2\~3개)
+  * β-lactam을 사용할 수 없고 감수성이 적절한 경우 고려; 국내 허가상 다른 항생제로 치료가 적당하지 않은 중증 감염에 사용하도록 제한되어 있어 경증에서 자동으로 선택하지 않음
   * 설사·C. difficile 감염 위험 및 지역 내 감수성 고려 - 배양균이 erythromycin 내성·clindamycin 감수성으로 보고되면 inducible resistance 확인을 위한 D-test 결과를 확인
 
 > Cephalexin, cefadroxil, cephradine은 병용하지 않고 환자 상태와 복약 편의, 신기능을 고려하여 하나를 선택함. 해외 지침의 약제명보다 국내 사용 가능한 제제와 지역 감수성을 우선함.
+
+* 항생제 알레르기는 원인 약제·발현 시점·증상을 확인함. β-lactam에 의한 아나필락시스 또는 SJS/TEN·DRESS 등 중증 지연형 반응 병력이 있으면 위 경구 β-lactam 처방례를 적용하지 말고 대체 약제를 개별 결정함
 
 {% hint style="info" %}
 **국내 허가와 지침 용법의 구분**
 
 * Cephalexin 500 ㎎ qid는 국내 지침 용법임. 팔렉신의 허가 성인 용량은 1일 1–4 g, 통상 500 ㎎ bid–tid로 기재되어 있어 기본 투여 횟수와 구분함
-* Cefadroxil 500 ㎎ bid는 국내 피부·피부조직 감염 허가 기본량 1일 1 g에 맞춘 용량임. 질병관리청 2026 표의 1,000 ㎎ bid는 더 높은 지침 용량이므로 같은 용량으로 혼동하지 않음
-* 비복잡성 연조직염의 지침상 5일 요법과 달리, 국내 훌그램 허가사항에는 β-용혈성 사슬알균 감염에 최소 10일 투여가 바람직하다는 문구가 있음. 5일을 모든 약제의 허가 기간으로 일반화하지 않음
+* Cefadroxil 500 ㎎ bid는 추가 확인한 **보령듀리세프건조시럽125 ㎎/5 mL**의 성인 피부·피부조직 감염 허가 용법인 **1일 1 g을 1~2회 분할**과 일치하는 용량임. 기존 성인 500 ㎎ bid를 유지함. 질병관리청 2026 표의 1,000 ㎎ bid는 더 높은 지침 용량이므로 구분함
+* 같은 제품의 소아 피부·피부조직 감염 허가 용법은 **1일 30 ㎎/㎏을 2회 분할**임. 조제 후 125 ㎎/5 mL는 25 ㎎/mL이며, 성인 캡슐 처방례를 소아에게 그대로 적용하지 않음
+* Cefadroxil의 **최소 10일**이라는 β-용혈성 사슬알균 감염 문구는 소아 **인두염·편도염** 용법 항목에 있으며, 피부감염 항목에는 별도 기간이 명시되어 있지 않음. 연조직염의 지침상 5일 요법과 구분하고 모든 연조직염에 10일을 일률적으로 적용하지 않음. 원인균·감염 부위·반응과 허가 문구를 함께 고려하여 기간을 결정함
+* 비복잡성 연조직염의 지침상 5일 요법과 달리, 국내 훌그램 허가사항에는 β-용혈성 사슬알균 감염에 최소 10일 투여가 바람직하다는 문구가 있음. 팔렉신에는 대부분의 급성 감염에서 증상 소실 후 최소 2일간 투여를 계속한다는 문구가 있음. 5일을 모든 약제의 허가 기간으로 일반화하지 않으며, 남아 있는 피부 변색만으로 항생제를 계속 연장하지 않음
 
-<mark style="color:$info;">Ref. 질병관리청 SSTI 실무지침, 2026; 팔렉신·cefadroxil·훌그램 국내 품목정보.</mark>
+<mark style="color:$info;">Ref. 질병관리청 SSTI 실무지침, 2026; 팔렉신·훌그램 국내 품목정보; 보령듀리세프건조시럽125 ㎎/5 mL 허가정보(약학정보원 수록, 식약처 출처, 2026-10-30 확인).</mark>
 {% endhint %}
 
 #### <mark style="color:$primary;">중등도·중증 또는 경구 투여 곤란</mark>
 
-* Cefazolin 1\~2 g IV q8h
-* Clindamycin 600\~900 mg IV q8h - β-lactam 사용이 곤란하고 감수성이 적절한 경우 대체
+* Cefazolin 1\~2 g IV q8h(질병관리청 2026 표의 성인 정상 신기능 용량은 2 g q8h)
+* Clindamycin 600\~900 ㎎ IV q8h - β-lactam 사용이 곤란하고 감수성이 적절한 경우 대체
 * 중증 전신감염 또는 MRSA 위험이 높으면 사슬알균과 MRSA를 함께 치료할 수 있는 vancomycin 기반 치료와 입원 평가
 * 심한 면역저하 또는 괴사성·다균성 감염이 의심되면 vancomycin에 piperacillin/tazobactam 또는 carbapenem 등을 병용하는 광범위 경험 치료를 입원·전문의 영역에서 고려
   * 괴사성 감염은 긴급 외과 평가·수술적 원인조절이 필수; 배양 결과에 따라 신속히 치료 범위를 좁힘
@@ -256,14 +266,14 @@ graph TD
 
 #### <mark style="color:$primary;">경구 항-MRSA 선택지 - 성인, 정상 신기능</mark>
 
-* TMP/SMX **160/800 mg bid** <mark style="color:blue;">\[셉트린]</mark> - 셉트린정(TMP/SMX 80/400 mg/정) **1회 2정, 1일 2회**
-  * 해외 지침의 범위는 1회 TMP/SMX 160/800\~320/1,600 mg bid(국내 셉트린정 2\~4정/회에 해당)
-  * 국내 허가상 중증 감염의 최대용량은 1회 3정임. **1회 4정 bid는 국내 허가용량 밖**이므로 통상 처방례로 제시하지 않음
+* TMP/SMX **160/800 ㎎ bid** <mark style="color:blue;">\[셉트린]</mark> - 셉트린정(TMP/SMX 80/400 ㎎/정) **1회 2정, 1일 2회**
+  * 해외 지침의 범위는 1회 TMP/SMX 160/800\~320/1,600 ㎎ bid(국내 셉트린정 2\~4정/회에 해당)
+  * 국내 허가상 일반 세균감염의 중증 감염 최대용량은 1회 3정임. 질병관리청 2026 확정적 치료 표의 1회 4정 bid도 이 허가용량과 구분함. **1회 4정 bid는 국내 허가용량 밖**이므로 통상 처방례로 제시하지 않음
   * 셉트린정의 피부농양·연조직염 치료는 **국내 허가 외 사용**
-* Doxycycline 100 mg bid <mark style="color:blue;">\[신일모노독시엠]</mark> - 국내 해당 품목의 피부농양·연조직염 치료는 **허가 외 사용**
-* Minocycline 초회 200 mg, 이후 100 mg q12h <mark style="color:blue;">\[미노씬]</mark> - 대체 선택
-  * 50 mg 캡슐로 초회 4개, 이후 1회 2개; 피부농양·연조직염 치료는 **국내 허가 외 사용**
-* Clindamycin 300\~450 mg qid <mark style="color:blue;">\[훌그램]</mark> - 대체 선택(감수성 확인 시; 150 mg 캡슐 1회 2\~3개)
+* Doxycycline 100 ㎎ bid <mark style="color:blue;">\[신일모노독시엠]</mark> - 국내 해당 품목의 피부농양·연조직염 치료는 **허가 외 사용**
+* Minocycline 초회 200 ㎎, 이후 100 ㎎ q12h <mark style="color:blue;">\[미노씬]</mark> - 대체 선택
+  * 50 ㎎ 캡슐로 초회 4개, 이후 1회 2개; 피부농양·연조직염 치료는 **국내 허가 외 사용**
+* Clindamycin 300\~450 ㎎ qid <mark style="color:blue;">\[훌그램]</mark> - 대체 선택(감수성 확인 시; 150 ㎎ 캡슐 1회 2\~3개)
 
 {% hint style="info" %}
 TMP/SMX와 doxycycline·minocycline의 β-용혈성 사슬알균 치료 신뢰도는 충분하지 않음. MRSA와 streptococci를 모두 치료해야 하면 clindamycin 단독(감수성 확인 시) 또는 TMP/SMX·doxycycline 중 하나에 cephalexin·amoxicillin 등 β-lactam을 병용함. Linezolid 등은 중증 β-lactam 알레르기, 다제내성 또는 전문의 치료 영역으로 국한함. Clindamycin은 지역 감수성, 유도성 내성(D-test), C. difficile 감염 위험을 고려하여 선택함.
@@ -279,7 +289,7 @@ TMP/SMX와 doxycycline·minocycline의 β-용혈성 사슬알균 치료 신뢰�
 #### <mark style="color:$primary;">중증 MRSA 감염</mark>
 
 * Vancomycin IV: 실제 체중과 신기능을 반영하여 투여
-  * 중증 침습성 MRSA 감염에서는 MIC 1 mg/L를 가정하여 **AUC24 400\~600 mg·h/L**(AUC/MIC 400\~600)를 목표로 모니터링
+  * 중증 침습성 MRSA 감염에서는 MIC 1 ㎎/L를 가정하여 **AUC24 400\~600 ㎎·h/L**(AUC/MIC 400\~600)를 목표로 모니터링
   * 이 목표는 주로 중증 침습성 감염 근거이며 경증 연조직염에 그대로 외삽하지 않음
 * Teicoplanin, linezolid 등 대체 약제는 전문의가 국내 허가·사용 가능 여부, 감염 부위, 균혈증 여부, 신기능 및 약물상호작용에 따라 선택
   * Linezolid는 혈구감소 및 serotonergic 약제와의 상호작용을 확인
@@ -292,14 +302,14 @@ TMP/SMX와 doxycycline·minocycline의 β-용혈성 사슬알균 치료 신뢰�
 * **동물·사람 물림:** 일반적인 cephalexin 단독은 부적절할 수 있음
   * 창상 세척·탐색, 파상풍 및 광견병 위험 평가, amoxicillin/clavulanate 등 혼합균 치료 고려
 * **담수·해수 노출:** 병변 배양과 당일 전문평가; 일반적인 1세대 cephalosporin 단독에 의존하지 않음
-  * *V. vulnificus* 의심 창상감염은 배양 결과를 기다리지 않고 조기 항생제와 외과 평가를 시행함. 전문치료 예: doxycycline 100 mg bid + ceftazidime 1\~2 g IV q8h
+  * *V. vulnificus* 의심 창상감염은 배양 결과를 기다리지 않고 조기 항생제와 외과 평가를 시행함. 전문치료 예: doxycycline 100 ㎎ bid + ceftazidime 1\~2 g IV q8h
   * 빠른 진행·출혈성 수포·전신 독성 소견은 간질환 유무와 관계없이 즉각 응급 평가
 * **얼굴·안와 주변, 손, 귓바퀴, 생식기:** 당일 전문평가; 안구운동통·복시·시력저하·안구돌출 또는 괴사성 감염 소견은 즉각 조치
 
 ### <mark style="color:orange;">해열·진통제</mark>
 
 * Acetaminophen을 우선 고려하고, NSAID는 환자별 위험에 따라 필요시 단기간 사용함
-* 부루펜 국내 허가상 **위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응, 중증 신·간·심장 기능장애 등은 금기**임. 임신 말기 3개월은 금기이며 임신 20주 이후에는 원칙적으로 피함
+* 부루펜 국내 허가상 **위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응, 중증 신·간·심장 기능장애, 심한 고혈압·혈액이상, CABG 전후 통증, 항암요법의 고용량 methotrexate 병용 등은 금기**임. 임신 말기 3개월은 금기이며 임신 20주 이후에는 원칙적으로 피함
 * 탈수·고령·항응고제 병용 등 위장관·신장·심혈관 위험을 평가하고, ibuprofen·dexibuprofen 등 NSAID 2종을 함께 사용하지 않음
 * 진통제로 통증이 가려지더라도 병변이 빠르게 진행하거나 불균형적으로 심한 통증이 있으면 괴사성 감염을 재평가
 
@@ -308,7 +318,14 @@ TMP/SMX와 doxycycline·minocycline의 β-용혈성 사슬알균 치료 신뢰�
 * 일상적으로 사용하지 않음. IDSA 2014의 일부 비당뇨 성인에 대한 약한 권고와 ACE 2026의 근거 불충분 판단을 구분함. 고려 시에도 괴사성 감염을 충분히 배제하고 혈당·면역상태·감염 진행 위험을 평가함
 * <mark style="color:$info;">Ref. IDSA SSTI guideline, 2014; ACE SSTI guideline, 2026.</mark>
 
-## <mark style="color:green;">치료반응 평가</mark>
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+* 농양이 없는 단순 비화농성 연조직염에 절개·배농을 시행하지 않음
+* 농양이 동반되면 절개·배농이 원인조절의 핵심이며, 재발성 농양은 이물·화농성 한선염 등 국소 원인을 확인
+* 괴사성 감염이 의심되면 긴급 외과 평가 및 수술적 탐색·괴사조직 제거; 영상·배양 결과를 기다리며 수술을 늦추지 않음
+* 물림·관통상은 이물, 힘줄·관절 침범을 확인하고, 손·안와·생식기 등 주요 부위는 해당 전문과와 협의
+
+### <mark style="color:orange;">치료반응 평가</mark>
 
 * 48–72시간: 발열·통증·병변 확대 여부와 복약 이행을 확인함. 호전이 시작되지 않으나 안정적이면 조기 재평가하고, 발열 지속·병변 확대·통증 악화는 당일 재평가함
 * 농양 배농 후에는 드레싱·재배농 필요성에 따라 24\~48시간 이내 창상 확인을 계획
@@ -328,7 +345,7 @@ TMP/SMX와 doxycycline·minocycline의 β-용혈성 사슬알균 치료 신뢰�
 * 만성 부종·림프부종과 정맥부전을 관리하고 적절한 압박요법 적용
 * 피부 보습, 상처 예방, 체중 및 혈당 관리
 * 위험인자를 충분히 교정했는데도 연 3\~4회 재발하면 감염내과·피부과 등 전문의와 예방적 항생제 고려
-  * 해외 주요 근거: Penicillin V 250 mg bid PO
+  * 해외 주요 근거: Penicillin V 250 ㎎ bid PO
     * 국내 경구 제형 수급이 어려움
   * 국내 지침상 경구 대안: Amoxicillin 고려
     * 예방 목적의 최적 용량과 기간은 확립되지 않았으므로 전문의와 개별 결정
@@ -342,13 +359,23 @@ TMP/SMX와 doxycycline·minocycline의 β-용혈성 사슬알균 치료 신뢰�
 
 ### <mark style="color:red;">질병코드</mark>
 
-L03 연조직염(봉와직염) 및 급성 림프관염 - 병변 부위에 따라 가장 구체적인 하위 코드를 선택
+* **L03의 KCD-9 대표 명칭은 ‘연조직염’**이며 급성 림프관염도 포함함. 엑셀에서 L03·L03.0·L03.1·L03.3은 불완전코드이므로 진료기록의 부위에 맞는 완전코드를 선택함
+* ‘봉와직염’은 임상에서 사용하는 병기 표현이며 아래 표는 엑셀 명칭을 따름
 
-H60.1 외이의 연조직염
+<table><thead><tr><th>코드</th><th>KCD-9 명칭</th></tr></thead><tbody><tr><td>L03.00</td><td>손가락의 연조직염</td></tr><tr><td>L03.01</td><td>발가락의 연조직염</td></tr><tr><td>L03.10</td><td>팔의 연조직염</td></tr><tr><td>L03.11</td><td>다리의 연조직염</td></tr><tr><td>L03.2</td><td>얼굴의 연조직염</td></tr><tr><td>L03.30</td><td>흉벽의 연조직염</td></tr><tr><td>L03.31</td><td>복벽의 연조직염</td></tr><tr><td>L03.32</td><td>배꼽의 연조직염</td></tr><tr><td>L03.33</td><td>사타구니의 연조직염</td></tr><tr><td>L03.34</td><td>등[둔부를 제외한 모든 부분]의 연조직염</td></tr><tr><td>L03.35</td><td>둔부의 연조직염</td></tr><tr><td>L03.36</td><td>회음의 연조직염</td></tr><tr><td>L03.38</td><td>몸통의 기타 및 상세불명 연조직염</td></tr><tr><td>L03.8</td><td>기타 부위의 연조직염</td></tr><tr><td>L03.9</td><td>상세불명의 연조직염</td></tr></tbody></table>
 
-N48.21 음경의 연조직염
+**별도 분류 부위**
 
-N73.0 급성 자궁주위조직염 및 골반연조직염
+<table><thead><tr><th>코드</th><th>KCD-9 명칭</th><th>적용 구분</th></tr></thead><tbody>
+<tr><td>H60.1</td><td>외이의 연조직염</td><td>귓바퀴·외이의 감염</td></tr>
+<tr><td>H05.0</td><td>안와의 급성 염증</td><td>안와의 연조직염 포함; 얼굴 피부의 L03.2와 구분</td></tr>
+<tr><td>N48.21</td><td>음경의 연조직염</td><td>음경·해면체 감염</td></tr>
+<tr><td>N73.0</td><td>급성 자궁주위조직염 및 골반연조직염</td><td>여성 골반 내 감염; 사타구니·회음 피부 감염의 코드가 아님</td></tr>
+</tbody></table>
+
+* 단독은 A46으로 별도 분류하며 피부농양·괴사성 감염은 확진 질환에 해당하는 코드를 적용함
+* 부위가 확인되면 L03.9를 관행적으로 선택하지 않으며, KCD-9에 없는 ICD-10-CM의 좌우 세분코드를 가져오지 않음
+* 대조 자료: 저장된 **KCD9_251216(6).xlsx**, ‘상병분류기호(전체)’ 및 ‘상병분류기호(완전코드)’ 시트(2026-10-30 확인)
 
 ***
 
@@ -357,20 +384,18 @@ N73.0 급성 자궁주위조직염 및 골반연조직염
 > **처방례 1. 경증 비화농성 연조직염, 정상 신기능**
 >
 > ```
-> 팔렉신 500 mg/C 4C  #4 × 5일
-> 부루펜 200 mg/T 6T  #3 × 필요시 단기간
+> 팔렉신 500 ㎎/C 4C  #4 × 5일
 > ```
 >
-> _✽Cephalexin 500 mg qid, ibuprofen 400 mg tid PRN(위장관·신장·심혈관 위험 확인). 48\~72시간 후 재평가하고 5일까지 호전이 불충분하면 진단과 치료 기간을 재검토함._
+> _✽Cephalexin 500 ㎎ qid. 해열·진통제는 증상이 있을 때만 별도로 선택함. 48\~72시간 후 재평가하고 5일까지 호전이 불충분하면 진단과 치료 기간을 재검토함._
 
 > **처방례 2. 경증 비화농성 연조직염, 복약 횟수 단순화**
 >
 > ```
-> 듀리세프 500 mg/C 2C  #2 × 5일
-> 애니펜 300 mg/T 3T  #3 × 필요시 단기간
+> 듀리세프 500 ㎎/C 2C  #2 × 5일
 > ```
 >
-> _✽Cefadroxil 500 mg bid, dexibuprofen 300 mg tid PRN(위장관·신장·심혈관 위험 확인). β-lactam 즉시형 과민반응과 신기능을 확인하고 48\~72시간 후 재평가함._
+> _✽Cefadroxil 500 ㎎ bid(1일 1 g), 정상 신기능 성인 기준. 신장애에서는 용량·투여 간격을 조절함. 5일은 비복잡성 연조직염이 호전하는 경우의 지침 요법임. 해열·진통제는 증상이 있을 때만 별도로 선택함. β-lactam 즉시형 과민반응과 신기능을 확인하고 48\~72시간 후 재평가함._
 
 {% hint style="danger" %}
 **⚠️ 처방례 적용 제외**\
@@ -395,6 +420,30 @@ N73.0 급성 자궁주위조직염 및 골반연조직염
 > * **즉시 응급실:** 빠른 확산, 매우 심한 통증, 출혈성 물집·검붉거나 검은 피부색, 의식 변화·실신·호흡곤란
 > * **당일 재진:** 새 발열·오한, 병변 확대·통증 악화
 > * **조기 재진:** 2–3일 후에도 호전이 시작되지 않으나 안정적인 경우 재평가 일정을 조기에 잡도록 안내합니다.
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [질병관리청. 2026 피부·연조직 감염 항생제 적정사용을 위한 실무지침](https://www.kdca.go.kr/bbs/kdca/55/306857/download.do) — 공식 게시 제목은 2026 실무지침이며 PDF 표지에는 2025가 표기되어 있음
+* [대한감염학회·대한항균요법학회 등. 지역사회획득 피부 및 연조직 감염 항생제 사용지침, 2017](https://doi.org/10.3947/ic.2017.49.4.301)
+* [IDSA. Skin and Soft Tissue Infections Guideline, 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
+* [NICE NG141. Cellulitis and erysipelas: antimicrobial prescribing, 2019](https://www.nice.org.uk/guidance/ng141) - 치료 기간, IV에서 경구 전환 및 재평가
+* [ALT-70 진단 보조도구 검증 연구. JAMA Dermatology, 2024](https://doi.org/10.1001/jamadermatol.2024.0091)
+* [Talan 등. 단순 피부농양 배농 후 TMP/SMX 무작위시험. NEJM, 2016](https://doi.org/10.1056/NEJMoa1507476)
+* [Daum 등. 작은 피부농양 배농 후 항생제 무작위시험. NEJM, 2017](https://doi.org/10.1056/NEJMoa1607033)
+* [ASHP/IDSA/PIDS/SIDP. Vancomycin 치료약물 모니터링 합의지침, 2020](https://www.idsociety.org/practice-guideline/vancomycin/)
+* [CDC. Clinical Overview of Vibriosis](https://www.cdc.gov/vibrio/hcp/clinical-overview/)
+* [Dräger S, et al. Treating cellulitis promptly with compression therapy reduces C-reactive protein-levels and symptoms—a randomized-controlled trial. J Dtsch Dermatol Ges. 2025;23(10):1274–1280](https://doi.org/10.1111/ddg.15829)
+* [Webb E, et al. Sustained benefit of compression therapy for preventing recurrent leg cellulitis: extended follow-up of a randomised controlled trial. EClinicalMedicine. 2026;98:104127](https://pubmed.ncbi.nlm.nih.gov/42597865/)
+* [ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing. 2026](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/bacterial-skin-and-soft-tissue-infections----diagnosis-and-antibiotic-prescribing/)
+* [ACC/AHA 등. 하지 말초동맥질환 지침, 2024](https://doi.org/10.1161/CIR.0000000000001251) — 급성 사지허혈의 응급 평가
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 팔렉신·cefadroxil·훌그램·셉트린·신일모노독시엠·미노씬·부루펜 등 국내 적응증·제형·용법·기간·금기. 보령듀리세프건조시럽125 ㎎/5 mL는 제공된 약학정보원의 식약처 출처 상세 허가정보를 추가 대조함(2026-10-30)
 
 ***
 
@@ -436,26 +485,3 @@ N73.0 급성 자궁주위조직염 및 골반연조직염
 * 항생제를 복용한 지 2–3일이 지나도 호전이 시작되지 않으면 조기에 재진하십시오. 계속 퍼지거나 통증·발열이 악화하면 당일 진료를 받으십시오.
 * 항생제 복용 중 심한 설사·혈변 또는 새로운 전신 발진이 생기는 경우
   * 입술·혀가 붓거나 숨이 차면 복용을 중단하고 즉시 응급실로 가십시오.
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [질병관리청. 2026 피부·연조직 감염 항생제 적정사용을 위한 실무지침](https://www.kdca.go.kr/bbs/kdca/55/306857/download.do) — 공식 게시 제목은 2026 실무지침이며 PDF 표지에는 2025가 표기되어 있음
-* [대한감염학회·대한항균요법학회 등. 지역사회획득 피부 및 연조직 감염 항생제 사용지침, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5754343/)
-* [IDSA. Skin and Soft Tissue Infections Guideline, 2014](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
-* [NICE NG141. Cellulitis and erysipelas: antimicrobial prescribing, 2019](https://www.nice.org.uk/guidance/ng141) - 치료 기간, IV에서 경구 전환 및 재평가
-* [ALT-70 진단 보조도구 검증 연구. JAMA Dermatology, 2024](https://doi.org/10.1001/jamadermatol.2024.0091)
-* [Talan 등. 단순 피부농양 배농 후 TMP/SMX 무작위시험. NEJM, 2016](https://doi.org/10.1056/NEJMoa1507476)
-* [Daum 등. 작은 피부농양 배농 후 항생제 무작위시험. NEJM, 2017](https://doi.org/10.1056/NEJMoa1607033)
-* [ASHP/IDSA/PIDS/SIDP. Vancomycin 치료약물 모니터링 합의지침, 2020](https://www.idsociety.org/practice-guideline/vancomycin/)
-* [CDC. Clinical Overview of Vibriosis](https://www.cdc.gov/vibrio/hcp/clinical-overview/)
-* [Dräger S, et al. Treating cellulitis promptly with compression therapy reduces C-reactive protein-levels and symptoms—a randomized-controlled trial. J Dtsch Dermatol Ges. 2025;23(10):1274–1280](https://doi.org/10.1111/ddg.15829)
-* [Webb E, et al. Sustained benefit of compression therapy for preventing recurrent leg cellulitis: extended follow-up of a randomised controlled trial. EClinicalMedicine. 2026;98:104127](https://pubmed.ncbi.nlm.nih.gov/42597865/)
-* [ACE. Bacterial skin and soft tissue infections—diagnosis and antibiotic prescribing. 2026](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/bacterial-skin-and-soft-tissue-infections----diagnosis-and-antibiotic-prescribing/)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 팔렉신·cefadroxil·훌그램·셉트린·신일모노독시엠·미노씬·부루펜 등 국내 적응증·제형·용법·기간·금기

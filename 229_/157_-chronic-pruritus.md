@@ -11,7 +11,7 @@
 * 피부위축은 약물·기저질환과도 관련될 수 있으며, 괴사성 가피(eschar)·궤양은 단순 긁음으로 단정하지 않고 감염·혈관염 등 별도 원인을 평가
 * 만성 가려움-긁기 악순환(itch-scratch cycle)은 수면 장애, 불안·우울, 삶의 질 저하로 이어지므로 신체적 원인 감별과 함께 심리적 부담도 평가
 
-## <mark style="color:green;">원인 (원인에 따른 분류)</mark>
+## <mark style="color:green;">원인</mark>
 
 \[International Forum for the Study of Itch, IFSI]
 
@@ -29,7 +29,7 @@
 * 혈액 : 진성 적혈구증가증 등 골수증식성 질환, 철결핍(빈혈이 없어도 가능)
 * 내분비·대사 : 갑상선 질환, 당뇨병, 부갑상선기능항진증 등
 * 감염 : HIV, 기생충(회충 등 장 기생충 포함)
-* 악성 종양 : 고형 종양, 림프종, 백혈병
+* 악성 종양 : 림프종·백혈병 등 혈액종양, 일부 고형 종양; 전신 가려움만으로 악성종양을 단정하지 않고 동반 증상·진찰·기본검사에 따라 평가
 
 #### <mark style="color:$primary;">Neurological</mark>
 
@@ -50,6 +50,15 @@
 
 * 약물 : opioid, 항고혈압제, 항생제, 소염제 등; 발진 없이 생기거나 약물성 담즙정체를 통해 발생할 수 있어 시작·증량 시점과 증상 발생의 관계를 확인
 * 원인 불명 만성 가려움(CPUO/PUO) : 적절한 피부·전신 평가 후에도 원인이 확인되지 않은 경우; 새 증상·진찰·검사 이상이 생기면 원인을 다시 평가
+
+***
+
+## <mark style="color:green;">임상 양상</mark>
+
+* 국소 또는 전신으로 나타나며 지속성·간헐성 모두 가능; 따가움·화끈거림·감각 이상이 동반되면 신경병증성 기여도 평가
+* 원발 발진이 없거나 긁은 자국만 보일 수 있음. 현재 병변뿐 아니라 **가려움이 처음 생겼을 때의 피부 상태**를 확인
+* 야간 악화·수면 장애·긁음 병변·불안·우울을 동반할 수 있으며, 야간 악화만으로 옴·혈액종양·심인성 원인을 구분하지 않음
+* 병력·진찰과 가려움 NRS, 수면·생활 기능의 변화를 함께 추적; 원인별 분포·유발 인자는 아래 감별 참조
 
 ***
 
@@ -104,14 +113,15 @@
   * LDH, TSH
   * HbA1c 또는 fasting glucose
   * ferritin, CRP
-* 검사 이상이 있으면 해당 장기·질환에 따라 표적 정밀검사를 시행
+* 검사 이상이 있으면 해당 장기·질환에 따라 표적 정밀검사를 시행. **기존 간·콩팥·갑상선 질환이 있다는 이유만으로 가려움의 원인을 확정하지 않으며**, 다른 피부질환·약물 원인도 확인
 * 1차 평가가 비특이적이면서 가려움이 지속되면 **2nd-step evaluation**
   * 병력 및 전신진찰 재평가
   * 기생충 검사(노출력·호산구증 등 임상적 의심 시 stool microscopy/PCR 또는 serology)
   * 흉부 X선 : 림프절병증, 만성 감염, 종양 등 평가
   * 복부 초음파 : 간담도·신장·췌장·비장 질환, 림프절병증, 종양 등 평가
-  * 피부 병변 또는 invisible dermatosis가 의심되면 skin biopsy ± direct immunofluorescence
+  * 피부 병변 또는 invisible dermatosis가 의심되면 skin biopsy ± direct immunofluorescence; 수포성 유사천포창이 의심되면 수포가 생길 때까지 기다리지 않고 피부과에서 생검·DIF 등 평가
 * **선택적 추가 검사** : 임상상에 따라 serum protein electrophoresis/immunofixation, HBV/HCV, Ca/PTH, HIV, genital/oral pruritus에서 Candida 검사, serum tryptase 및 mastocytosis 관련 검사 등을 시행
+* 철결핍이 의심되나 ferritin 해석이 불분명하면 염증 상태와 함께 serum iron·transferrin/TSAT 등 추가 검사를 선택하고 철결핍의 원인을 평가
 * 임신 중 담즙정체 의심 시 **혈청 총담즙산·AST/ALT**를 별도로 검사; 초기 수치가 정상이어도 증상이 지속되면 산부인과에서 재검
 * 감염·종양 검사는 병력·진찰·기본검사에 따른 표적 검사와 연령에 맞는 국가검진을 우선하며, 가려움만으로 무차별 CT·종양표지자 검사를 시행하지 않음
 
@@ -136,10 +146,10 @@
 ***
 
 ```mermaid
-flowchart LR
+flowchart TB
     subgraph S1["초기 평가와 피부 상태 분류"]
         direction TB
-        A["6주 이상 지속·반복되는 가려움"] --> R{"즉각 조치 Red Flags?"}
+        A["만성 가려움증 의심: 6주 이상 지속·반복"] --> R{"즉각 조치 Red Flags?"}
         R -->|예| ER["응급 처치·이송"]
         R -->|아니오| B["병력·전신 피부진찰·약물 검토"]
         B --> C{"뚜렷한 만성 이차 긁음 병변?"}
@@ -197,10 +207,11 @@ flowchart LR
 * **Step 3. 난치성 또는 질환 특이 치료가 필요한 경우**
   * 전신요법이 필요한 결절성 양진 또는 중등도\~중증 아토피피부염 → 해당 질환의 적응증에 맞는 생물학적제제 등을 고려; 가려움이 심하다는 이유만으로 적응증을 확대하지 않음
   * 원인 불명 CPUO/PUO 또는 복합 원인 → 피부과/관련 전문과 협진 및 multimodal treatment
+  * 위 단계는 고정된 약제 실패 순서가 아님. 전신치료 적응증을 만족하는 결절성 양진·아토피피부염에서 생물학적제제를 선택하기 위해 gabapentinoid·항우울제 등을 모두 먼저 실패할 필요는 없음
 
 #### <mark style="color:$primary;">매 단계 동반 치료</mark>
 
-* 충분한 보습, 피부 자극 최소화, 수면·스트레스 관리
+* 충분한 보습, 피부 자극 최소화, 수면·스트레스 관리; 반복 긁음에는 습관반전훈련·인지행동 접근 등 심리행동치료를 병행할 수 있으며 심인성 진단에만 한정하지 않음
 * 긁음으로 인한 이차성 피부 손상은 감염 여부를 평가하여 필요 시 국소 치료
 * 1세대 진정성 H1-항히스타민제는 야간 수면장애가 심한 선택된 환자에서만 단기간 고려하며, 특히 고령자에서는 항콜린성 부작용·낙상·인지저하에 주의
 
@@ -306,7 +317,8 @@ flowchart LR
 
 * hydroxyzine <mark style="color:blue;">\[아디팜정 10 ㎎]</mark> : 국내 피부과 영역 성인 허가 용량 30\~60 ㎎/d, 2\~3회 분할; 성인 최대 100 ㎎/d. 최소 유효용량·최단 기간 사용
   * 고령자는 사용이 권장되지 않으며, 불가피하면 성인 권장량의 절반으로 시작하고 최대 50 ㎎/d
-  * QT 연장/Torsades de pointes 위험 : QT 연장·유의한 서맥·저칼륨/저마그네슘혈증·QT 연장 약제 병용 등 위험 요인을 확인
+  * **QT 연장 관련 금기** : 선천성/후천성 QT 연장, 심혈관질환·유의한 서맥·저칼륨/저마그네슘혈증·급성 심장사 가족력 등 알려진 위험요인, QT 연장/Torsades de pointes 유발 약제와의 병용은 금기. 단순히 심전도를 추적하면서 병용하는 것으로 대체하지 않음
+  * **기타 주요 국내 금기** : 급성 폐쇄각 녹내장, 포르피린증, 임부·임신 가능 여성 및 수유부 등. 간·신장애에서는 감량 필요; 실신·심계항진 등 부정맥 의심 증상이 나타나면 중단하고 즉시 평가 <mark style="color:$info;">[아디팜 국내 허가사항; EMA hydroxyzine 안전성 조치]</mark>
 * chlorpheniramine <mark style="color:blue;">\[페니라민정 2 ㎎]</mark> : 국내 성인 허가 용법 1회 2\~6 ㎎, 1일 2\~4회; 최대 24 ㎎/d
 
 * mequitazine : 5 ㎎ bid <mark style="color:blue;">\[프리마란]</mark>; 세대 분류가 문헌마다 다르지만 졸림·항콜린 작용이 있어 비진정성 제제로 취급하지 않음
@@ -318,7 +330,9 @@ flowchart LR
 * cetirizine : 10 ㎎ qd <mark style="color:blue;">\[지르텍]</mark>
 * **허가 범위 구분** : 클라리틴정 및 알레그라정180 ㎎의 피부 관련 국내 허가 적응증은 만성 특발성 두드러기임. 이를 두드러기 없이 발생하는 비특이적 만성 가려움 전체의 허가로 확대하지 않음. 해당 범위를 벗어난 사용은 허가 외이며, 비히스타민성 가려움에서의 효과도 제한적임
 * 지르텍정은 피부가려움증 및 하이드로코티손 외용제와 병용하는 습진·피부염에 국내 허가가 있음. 허가 적응증의 존재와 원인질환별 임상 효과·권고 수준은 구분함 <mark style="color:$info;">[국내 제품별 허가사항]</mark>
-* cetirizine도 졸림이 생길 수 있으며 신기능에 따른 감량 필요. 국내 지르텍정은 **CrCl ＜10 mL/min에서 금기**임. Fexofenadine은 국내 알레그라정120·180 ㎎ 허가사항상 신부전 성인의 시작 용량이 **60 ㎎ 1일 1회**임. 구체적인 장기기능별 조절은 212 항히스타민제를 참조함
+* cetirizine도 졸림이 생길 수 있으며 신기능에 따른 감량 필요. 국내 지르텍정은 **CrCl ＜10 mL/min에서 금기**임
+* **Fexofenadine의 신부전 용법·품목 제한** : 신부전 성인 60 ㎎ 1일 1회 시작이라는 성분 용량 안내와 별개로, **알레그라정180 ㎎ 사용상 주의사항에는 신부전 환자 금기 및 1회 180 ㎎ 투여 금지**가 명시됨. 같은 품목의 용법란에는 60 ㎎ 시작도 병기되어 있어, 이를 근거로 180 ㎎정을 임의 분할·투여하지 않음. 신부전에서는 다른 적절한 항히스타민제를 선택하거나, 사용할 저함량 품목의 적응증·용법·분할 가능성을 의사·약사가 확인. 120 ㎎ 제품의 비염 적응증을 두드러기에 자동 적용하지 않음 <mark style="color:$info;">[식약처 알레그라정180·120 ㎎ 품목별 허가사항; 한독 제품정보]</mark>
+* 구체적인 장기기능별 조절은 212 항히스타민제를 참조함
 * **장기 복용 중단 후 가려움** : cetirizine·levocetirizine을 수개월 이상 매일 복용한 뒤 중단하면 드물게 수일 내 심한 전신 가려움이 발생할 수 있음. 원래 질환의 재발과 다른 원인을 감별하고 의료진과 대처를 결정함. 모든 장기 복용자에게 일률적인 감량 중단을 지시할 근거는 부족하며 확립된 표준 감량법은 없음 <mark style="color:$info;">[FDA 2025; 212 항히스타민제]</mark>
 
 #### <mark style="color:$primary;">항우울제 (TCA, SSRI, NaSSA 등)</mark>
@@ -353,7 +367,7 @@ flowchart LR
 
 * μ-opioid 길항제와 κ-opioid 작용제는 서로 다른 계열이며 적응증·주의사항을 구분
 * naltrexone : 주로 선택된 난치성 담즙정체성 가려움에 고려(허가 외); 12.5 ㎎/d 등 저용량에서 시작하여 보통 50 ㎎/d까지 단계적으로 증량 <mark style="color:blue;">\[레비아]</mark>
-  * 현재 opioid 사용·의존, 급성 간염/간부전 등 금기와 간기능을 확인; 외인성 opioid를 쓰지 않아도 금단 유사 반응이 생길 수 있음
+  * 현재 및 최근 opioid(트라마돌 포함) 사용·의존 여부, 급성 간염/간부전 등 금기와 간기능을 확인; opioid를 투여하지 않고 기다려야 하는 기간은 사용 약제에 따라 결정하고 전문과에서 도입; 외인성 opioid를 쓰지 않아도 금단 유사 반응이 생길 수 있음
   * CKD-associated pruritus에서는 효과가 일관되지 않아 표준 우선 약제로 제시하지 않음
 * nalfurafine(κ-opioid 작용제) <mark style="color:blue;">\[레밋치구강붕해정 2.5 ㎍]</mark> : 국내 허가된 기존 치료법에 효과가 불충분한 혈액투석 환자의 소양증 치료제; 아래 특별한 경우 참조
 * difelikefalin(말초성 κ-opioid receptor agonist) : 성인 혈액투석 관련 중등도\~중증 가려움에서 투석 후 정맥 투여(건체중 기준 0.5 ㎍/㎏, 통상 주 3회); 미국 FDA(2021)·EU(2022) 승인. 국내 처방 가능 여부는 확인되지 않아 해외 치료 옵션으로 구분하고, 최신 국내 허가·공급을 별도 확인
@@ -399,25 +413,18 @@ flowchart LR
 
 <p align="center"><em><mark style="color:$info;">Ref. 국내 린버크·올루미언트 품목정보 및 한국애브비 린버크 제품설명서.</mark></em></p>
 
-#### <mark style="color:$primary;">자외선 빛 치료(Phototherapy)</mark>
-
-* **NB-UVB phototherapy** : CKD-associated pruritus, 아토피피부염, chronic prurigo 및 일부 난치성 만성 가려움에서 고려할 수 있음
-  * **장점** : 전신 약물을 추가하지 않고 가려움과 피부 염증을 줄일 수 있어 약물 부작용·상호작용이 우려되는 환자에서 유용
-  * **단점** : 반복적인 병원 방문이 필요하고 효과가 즉시 나타나지 않을 수 있음; 일시적 홍반·화끈거림·피부건조가 생길 수 있으며 장기간 누적 UV 노출 시 광노화·피부암 위험 가능성을 고려
-  * **의뢰 기준** : 원인 치료와 적절한 국소·전신 치료에도 중등도\~중증 가려움이 지속되거나, 전신약 사용이 제한되는 경우 피부과 의뢰 고려
-
 ### <mark style="color:orange;">특별한 경우의 치료 옵션</mark>
 
 #### <mark style="color:$primary;">CKD-associated pruritus</mark>
 
-* 기본 : 피부건조 교정, 충분한 보습, 투석 적절도와 Ca/P/PTH 등 교정 가능한 요인 평가·최적화
-* **우선 고려**
+* 기본 : 피부건조 교정, 충분한 보습, 투석 적절도와 Ca/P/PTH 등 교정 가능한 요인 평가·최적화. CKD 환자에서도 옴·습진·약물·간담도 질환 등 다른 원인을 배제하며, 관련 검사 수치만으로 CKD-associated pruritus를 확진하거나 배제하지 않음
+* **전문과와 선택하는 전신 치료(국내 허가 약제·허가 외 약제를 구분)**
   * gabapentin : 혈액투석 환자에서는 100 ㎎ 투석 직후 주 3회로 시작하여 반응·내약성에 따라 증량(일반적으로 300 ㎎ post-HD를 넘기지 않도록 신중히 조절)
   * pregabalin : 혈액투석 환자에서는 25 ㎎부터 시작하는 저용량 투석 후 요법 등을 신장내과와 결정; 매일 복용 요법과 투석 후 요법을 임의로 중복하지 않으며 신기능·잔여 신기능에 따라 조절
   * gabapentin/pregabalin은 가려움에 허가 외 사용; 두 약제를 함께 처방하지 않고 졸림·착란·보행 불안정을 확인
 * **국내 허가된 난치성 혈액투석 가려움 치료 옵션**
-  * nalfurafine <mark style="color:blue;">\[레밋치구강붕해정 2.5 ㎍]</mark> : 기존 치료법에 효과가 불충분한 혈액투석 환자; 성인 2.5 ㎍ 1일 1회 저녁식후, 최대 5 ㎍/d. 불면·졸림·어지럼 및 opioid/CYP3A4 관련 상호작용에 주의하고 신장내과에서 치료 선택
-  * 복용 후 다음 혈액투석 개시까지 8시간 이상 간격을 유지; 투석 일정에 맞춰 복용 시점을 확인하고 간기능 이상·황달 및 중추신경계 이상반응을 관찰
+  * nalfurafine <mark style="color:blue;">\[레밋치구강붕해정 2.5 ㎍]</mark> : 기존 치료법에 효과가 불충분한 혈액투석 환자; 성인 날푸라핀염산염 기준 2.5 ㎍ 1일 1회 저녁식후, 최대 5 ㎍/d. 불면·졸림·어지럼 및 opioid/CYP3A4 관련 상호작용에 주의하고 신장내과에서 치료 선택
+  * 복용 후 다음 혈액투석 개시까지 8시간 이상 간격을 유지; 투석 일정에 맞춰 복용 시점을 확인하고 투여 초기 2주 이내 불면·변비·졸림을 특히 관찰. 간기능 이상·황달 및 중추신경계 이상반응도 확인하고 효과가 없으면 장기간 지속하지 않음
 * **해외 승인 치료 옵션**
   * difelikefalin : 성인 중등도\~중증 혈액투석 관련 가려움; 건체중 기준 0.5 ㎍/㎏을 투석 종료 후 정맥 투여(통상 주 3회). 국내 허가·공급 확인 전에는 국내 처방례에 포함하지 않음
 * **대안/보조 옵션**
@@ -435,28 +442,12 @@ flowchart LR
   * 간독성, 용혈, 신손상 및 다수의 약물상호작용에 주의하고 치료 전후 간기능 모니터링
   * AASLD의 비대상성 간경변 관련 권고에서는 총빌리루빈 ＞2.5 ㎎/dL이면 사용을 피하도록 함. 다른 담즙정체성 질환에도 이 수치를 일률적인 허가 금기로 적용하지 않고 간장애·황달·상호작용을 전문과가 평가하며, 시작·증량 초기에는 간기능을 더 자주 확인
 * **opioid-modulating therapy**
-  * naltrexone(허가 외) : 12.5 ㎎/d 등 저용량부터 시작하여 반응에 따라 최대 50 ㎎/d로 단계적 증량; 현재 opioid 사용·의존, 급성 간염/간부전 등 금기 확인
+  * naltrexone(허가 외) : 12.5 ㎎/d 등 저용량부터 시작하여 반응에 따라 최대 50 ㎎/d로 단계적 증량; 현재·최근 opioid 사용·의존, 급성 간염/간부전 등 금기 확인. Opioid 금단 유발·진통 차단 가능성에 주의
   * naloxone 정맥 투여는 전문과/입원 환경에서 고려하며 일반 외래 처방으로 사용하지 않음
-* **기타 선택적 옵션** : sertraline 75\~100 ㎎/d 등
+* **기타 선택적 옵션(허가 외)** : sertraline은 25 ㎎/d 등 저용량에서 시작하여 반응·간기능·내약성에 따라 서서히 증량; 연구에서 사용한 75\~100 ㎎/d를 처음부터 투여하지 않음. 간장애 정도에 따라 감량·투여간격 연장 또는 사용 회피가 필요하므로 전문과와 결정 <mark style="color:$info;">[AASLD Practice Guidance 2022; sertraline 제품정보]</mark>
 * **UDCA** : PBC 등의 기저질환 치료제이며 PBC/PSC 가려움 자체의 표준 antipruritic은 아님. **임신 중 간내 담즙정체에서는 산부인과가 모체 증상 치료의 1차 약제로 사용**하므로 별도로 구분
-* **최신 해외 옵션** : linerixibat(IBAT 억제제; <mark style="color:blue;">\[Lynavoy]</mark>)은 2026년 3월 미국 FDA에서 성인 PBC 관련 담즙정체성 가려움에 승인. 설사·간검사 이상·지용성 비타민 결핍 등에 주의하며, 미국 허가상 비대상성 간경변 또는 과거/현재의 비대상화 사건이 있으면 사용을 피함. 국내 허가·공급 확인 전에는 국내 처방 옵션으로 제시하지 않음
+* **최신 해외 옵션** : linerixibat(IBAT 억제제; <mark style="color:blue;">\[Lynavoy]</mark>)은 2026-03-17 미국 FDA에서 성인 PBC 관련 담즙정체성 가려움에 승인. 설사·간검사 이상·지용성 비타민 결핍 등에 주의하며, 미국 허가상 비대상성 간경변 또는 과거/현재의 비대상화 사건이 있으면 사용을 피함. 미국 허가상 cholestyramine 등 담즙산 결합 수지와는 **전후 각각 최소 4시간** 간격을 두어야 하므로 일반적인 cholestyramine-다른 약 간격을 그대로 적용하지 않음. 국내 허가·공급 확인 전에는 국내 처방 옵션으로 제시하지 않음
 * PBC/PSC의 다른 질환 특이 치료는 간담도 전문과에서 결정하며, 일반 만성 가려움 치료로 확대하지 않음
-
-***
-
-### <mark style="color:red;">질병코드</mark>
-
-L29.0 항문 소양증 — Pruritus ani
-
-L29.1 음낭 소양증 — Pruritus scroti
-
-L29.2 외음부 소양증 — Pruritus vulvae
-
-L29.3 상세불명의 항문생식기 소양증 — Anogenital pruritus, unspecified
-
-L29.8 기타 소양증 — Other pruritus
-
-L29.9 상세불명의 소양증 — Pruritus, unspecified
 
 ***
 
@@ -509,6 +500,38 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 
 ***
 
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+### <mark style="color:orange;">자외선 빛 치료(Phototherapy)</mark>
+
+* **NB-UVB phototherapy** : CKD-associated pruritus, 아토피피부염, chronic prurigo 및 일부 난치성 만성 가려움에서 고려할 수 있음
+  * **장점** : 전신 약물을 추가하지 않고 가려움과 피부 염증을 줄일 수 있어 약물 부작용·상호작용이 우려되는 환자에서 유용
+  * **단점** : 반복적인 병원 방문이 필요하고 효과가 즉시 나타나지 않을 수 있음; 일시적 홍반·화끈거림·피부건조가 생길 수 있으며 장기간 누적 UV 노출 시 광노화·피부암 위험 가능성을 고려
+  * **의뢰 기준** : 원인 치료와 적절한 국소·전신 치료에도 중등도\~중증 가려움이 지속되거나, 전신약 사용이 제한되는 경우 피부과 의뢰 고려
+* 피부암 병력·광과민성·광독성 약제 및 면역억제 치료를 확인. Cyclosporine 또는 TCI와 광선치료를 임의 병용하지 않으며 피부과에서 병용 제한을 검토함
+
+***
+
+### <mark style="color:red;">질병코드</mark>
+
+<table><thead><tr><th>코드</th><th>KCD-9 공식 한글명</th><th>영문명</th></tr></thead><tbody>
+<tr><td>L29.0</td><td>항문가려움</td><td>Pruritus ani</td></tr>
+<tr><td>L29.1</td><td>음낭가려움</td><td>Pruritus scroti</td></tr>
+<tr><td>L29.2</td><td>외음가려움</td><td>Pruritus vulvae</td></tr>
+<tr><td>L29.3</td><td>상세불명의 항문생식기가려움</td><td>Anogenital pruritus, unspecified</td></tr>
+<tr><td>L29.8</td><td>기타 가려움</td><td>Other pruritus</td></tr>
+<tr><td>L29.9</td><td>상세불명의 가려움</td><td>Pruritus, unspecified</td></tr>
+<tr><td>L28.0</td><td>만성 단순태선</td><td>Lichen simplex chronicus</td></tr>
+<tr><td>L28.1</td><td>결절성 가려움발진</td><td>Prurigo nodularis</td></tr>
+<tr><td>L28.2</td><td>기타 가려움발진</td><td>Other prurigo</td></tr>
+<tr><td>L85.3</td><td>피부건조증</td><td>Xerosis cutis</td></tr>
+</tbody></table>
+
+* 저장된 KCD9_251216(6).xlsx의 「상병분류기호(완전코드)」와 대조함. 위 코드는 모두 수록되어 있으며 공식 한글명을 그대로 표기함
+* 만성이라는 기간만으로 L29.8을 일률적으로 적용하지 않음. 원인질환·병변이 확인되면 해당 질환 코드를 우선 검토하고 증상 코드는 진료·기록에 따라 선택; 결절성 가려움발진은 단순 가려움과 구분함
+
+***
+
 ### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **보습제, 왜 가장 중요한가**
@@ -519,7 +542,8 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 > **항히스타민제 사용 시 유의점**
 >
 > * 대부분의 만성 가려움은 히스타민이 주된 기전이 아니므로 반응이 제한적일 수 있음을 미리 설명합니다.
-> * 진정성 제제는 수면만 개선하고 원인 가려움에는 효과가 없을 수 있습니다. 고령자에서는 가급적 피하며, hydroxyzine은 QT 연장·부정맥 위험과 고령자 최대 50 ㎎/d 제한을 확인합니다.
+> * 신부전에서는 항히스타민제의 신기능별 용량과 품목별 금기를 확인합니다. 알레그라180 ㎎정을 임의로 나누어 복용하지 않습니다.
+> * 진정성 제제는 수면만 개선하고 원인 가려움에는 효과가 없을 수 있습니다. 고령자에서는 가급적 피하며, hydroxyzine은 QT 연장·관련 위험요인 및 QT 연장 약제 병용 시 금기입니다. 불가피한 고령자 사용에서도 최대 50 ㎎/d를 넘기지 않습니다.
 
 > **Gabapentinoid 처방 시 유의점**
 >
@@ -539,6 +563,35 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 > * 원인 불명 체중 감소·야간 발한·림프절 종대 - 수일 내 평가
 > * 두드러기·혈관부종과 호흡곤란/실신, 광범위 수포·피부박리·점막 미란 - 119/응급실
 > * 불면·우울감이 심해지면 조기 상담; 자살사고는 당일 위험도 평가하고, 계획·의도·자해가 있으면 즉각 안전 확보 및 응급 평가
+
+***
+
+## 주요 참고문헌 및 확인 자료
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Weisshaar E, et al. European S2k Guideline on Chronic Pruritus: In cooperation with the European Dermatology Forum (EDF). Acta Derm Venereol. 2025;105:adv44220. [원문](https://doi.org/10.2340/actadv.v105.44220)
+* AWMF/DDG. Diagnostik und Therapie des chronischen Pruritus. Version 7.0. 2026-06-24, 공개 2026-09-09. [개정 안내](https://www.awmf.org/aktuelles/awmf-aktuell/diagnostik-und-therapie-des-chronischen-pruritus).
+* 대한아토피피부염학회. Consensus-Based Guidelines for the Treatment of Atopic Dermatitis in Korea (Part I): Basic Therapy, Topical Therapy, and Conventional Systemic Therapy. 2025. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318780/)
+* American Academy of Dermatology. [아토피피부염 진료지침 및 2025 집중 개정](https://www.aad.org/member/clinical-quality/guidelines/atopic-dermatitis)
+* AASLD. Palliative care and symptom-based management in decompensated cirrhosis. Hepatology. 2022. [원문](https://doi.org/10.1002/hep.32378) — rifampicin·naltrexone·sertraline의 시작·증량과 간장애 주의.
+* CKD-associated pruritus in haemodialysis: a road map for diagnosis and treatment. Clin Kidney J. 2025;18:sfaf096. [원문](https://doi.org/10.1093/ckj/sfaf096).
+* SMFM Consult Series #53. Intrahepatic cholestasis of pregnancy. 2021(2024 재확인; ACOG 지지). [권고](https://publications.smfm.org/publications/374-society-for-maternal-fetal-medicine-consult-series-53/)
+* AASLD. [담즙정체성 가려움 치료](https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/scratching-itch-management-pruritus-cholestatic)
+* FDA. [Cetirizine·levocetirizine 장기 복용 중단 후 드문 심한 가려움 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines). 2025-05-16.
+* 안전성 : [EMA hydroxyzine QT 위험](https://www.ema.europa.eu/en/medicines/human/referrals/hydroxyzine), [FDA gabapentinoid 호흡억제](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication), [FDA montelukast 신경정신계 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug).
+* 보조자료 : [NICE CG57 외용제 도포 간격](https://www.nice.org.uk/guidance/cg57/chapter/Recommendations), [보습제와 외용제 도포 간격(NHS)](https://www.nhs.uk/tests-and-treatments/emollients/), [자살예방상담전화 109](https://www.129.go.kr/109?oai_link_source=model_response_hotline).
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [약학정보원](https://www.health.kr/) — 더모베이트연고(2017020100030)의 취소·급여 삭제 이력, 베타베이트연고(A11A1590A0045)·크림(A11A1590B0021) 및 더모베이트액(2018032700006)의 제형·용법·사용 제한 확인(2026-10-24).
+* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic) — tacrolimus와 같은 부위 보습제의 2시간 간격 등 국외 복약지도 참고자료.
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 아디팜·페니라민·모리코트·올루미언트·린버크·듀피젠트·넴루비오·레밋치 등의 품목정보 확인 자료.
+* 국내 제조·수입사 제품설명서: [SK케미칼 레밋치구강붕해정](https://www.skchemicals.com/ls/product_view.aspx?serno=953)(첨부문서 2026-04-15 개정), 한국애브비 린버크서방정, [사노피 듀피젠트 제품정보](https://www.sanofi.com/ko/south-korea/product-information/dupixent-prefilled-injection-300mg-dupilumab-recombinant). 넴루비오의 국내 적응증·연령은 허가사항 재게시 자료도 참고함.
+* [건강보험심사평가원](https://www.hira.or.kr/) — 넴루비오의 2026년 제7차 약제급여평가위원회 결과는 아토피피부염에 대한 조건부 적정성 평가이며, 그 자체로 최종 급여 등재 또는 결절성 양진 급여를 의미하지 않음. 실제 공급·최종 고시는 별도 확인.
+* 질병코드: 저장된 KCD9_251216(6).xlsx, 「상병분류기호(완전코드)」·「삭제코드」·「신설코드」 직접 대조(2026-10-30).
+* 해외 치료 옵션 : [difelikefalin 제품설명서](https://www.medicines.org.uk/emc/product/13735/smpc), [linerixibat 미국 허가사항(2026-06 개정)](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c00317c8-709c-4707-a6d1-632bff123026). 국외 승인을 국내 허가·급여·공급으로 해석하지 않음.
 
 ***
 
@@ -586,27 +639,3 @@ L29.9 상세불명의 소양증 — Pruritus, unspecified
 * **수일 내 진료** : 이유 없는 체중 감소·야간 발한·림프절 부기가 나타나는 경우
 * 가려움 때문에 잠을 거의 못 자거나 우울감이 심해지면 진료를 앞당기십시오. 자살사고가 있으면 당일 도움을 받고, 자해할 계획이나 즉각적인 위험이 있으면 혼자 있지 말고 119/응급실로 도움을 요청하십시오. 자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)도 이용할 수 있습니다.
 
-
-***
-
-## 주요 참고문헌 및 확인 자료
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Weisshaar E, et al. European S2k Guideline on Chronic Pruritus: In cooperation with the European Dermatology Forum (EDF). Acta Derm Venereol. 2025;105:adv44220. [원문](https://doi.org/10.2340/actadv.v105.44220)
-* 대한아토피피부염학회. Consensus-Based Guidelines for the Treatment of Atopic Dermatitis in Korea (Part I): Basic Therapy, Topical Therapy, and Conventional Systemic Therapy. 2025. [원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC12318780/)
-* American Academy of Dermatology. [아토피피부염 진료지침 및 2025 집중 개정](https://www.aad.org/member/clinical-quality/guidelines/atopic-dermatitis)
-* SMFM Consult Series #53. Intrahepatic cholestasis of pregnancy. 2021. [권고](https://publications.smfm.org/publications/374-society-for-maternal-fetal-medicine-consult-series-53/)
-* AASLD. [담즙정체성 가려움 치료](https://www.aasld.org/liver-fellow-network/core-series/clinical-pearls/scratching-itch-management-pruritus-cholestatic)
-* FDA. [Cetirizine·levocetirizine 장기 복용 중단 후 드문 심한 가려움 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-warning-about-rare-severe-itching-after-stopping-long-term-use-oral-allergy-medicines). 2025-05-16.
-* 안전성 : [EMA hydroxyzine QT 위험](https://www.ema.europa.eu/en/medicines/human/referrals/hydroxyzine), [FDA gabapentinoid 호흡억제](https://www.fda.gov/safety/medical-product-safety-information/neurontin-gralise-horizant-gabapentin-and-lyrica-lyrica-cr-pregabalin-drug-safety-communication), [FDA montelukast 신경정신계 경고](https://www.fda.gov/drugs/drug-safety-communications/fda-requires-boxed-warning-about-serious-mental-health-side-effects-asthma-and-allergy-drug).
-* 보조자료 : [NICE CG57 외용제 도포 간격](https://www.nice.org.uk/guidance/cg57/chapter/Recommendations), [보습제와 외용제 도포 간격(NHS)](https://www.nhs.uk/tests-and-treatments/emollients/), [자살예방상담전화 109](https://www.129.go.kr/109?oai_link_source=model_response_hotline).
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [약학정보원](https://www.health.kr/) — 더모베이트연고(2017020100030)의 취소·급여 삭제 이력, 베타베이트연고(A11A1590A0045)·크림(A11A1590B0021) 및 더모베이트액(2018032700006)의 제형·용법·사용 제한 확인(2026-10-24).
-* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic) — tacrolimus와 같은 부위 보습제의 2시간 간격 등 국외 복약지도 참고자료.
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 아디팜·페니라민·모리코트·올루미언트·린버크·듀피젠트·넴루비오·레밋치 등의 품목정보 확인 자료.
-* 국내 제조·수입사 제품설명서: SK케미칼 레밋치구강붕해정(2026-04 개정), 한국애브비 린버크서방정(2026), 사노피 듀피젠트 제품정보. 넴루비오의 국내 적응증·연령은 허가사항 재게시 자료도 참고함.
-* 해외 치료 옵션 : [difelikefalin 제품설명서](https://www.medicines.org.uk/emc/product/13735/smpc), [linerixibat 미국 허가사항](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c00317c8-709c-4707-a6d1-632bff123026). 국외 승인을 국내 허가·급여·공급으로 해석하지 않음.

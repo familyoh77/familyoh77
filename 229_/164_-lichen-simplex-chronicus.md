@@ -1,9 +1,9 @@
-# 만성 단순태선 (신경피부염) Lichen Simplex Chronicus (LSC)
+# 만성 단순태선 Lichen Simplex Chronicus, LSC
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 반복적인 긁음 또는 문지름 등 물리적 자극에 의해 피부가 가죽처럼 두꺼워지고 피부선이 뚜렷해진 태선화(lichenification) 판
-* 다른 이름 : neurodermatitis(신경피부염), circumscribed neurodermatitis
+* 다른 이름 : neurodermatitis(신경피부염), circumscribed neurodermatitis(국한신경피부염)
 * 가려움 → 긁음 → 염증 및 가려움 유발 → 긁음의 악순환(itch-scratch cycle)이 핵심 병태
 * 분류
   * 원발성(primary) : 기저 피부질환 없이 정상 피부에서 반복 자극만으로 발생
@@ -11,6 +11,8 @@
 * 흔한 부위 : 목덜미, 전완 외측, 손목 안쪽, 아래 다리/발목 외측, 발등, 엉덩이, 항문, 음문, 음낭
 * 이차 감염·깊은 찰과상·궤양 등이 없는 경우 보통 흉터 없이 호전되나, 염증 후 색소 변화는 더 오래 지속될 수 있음
 * 치료 후 재발 또는 치료 중 다른 부위에 발생할 수 있음
+* LSC 자체는 전염되지 않으나, 원인으로 옴·백선 등이 있으면 해당 질환의 전염성과 치료 원칙을 별도로 적용함
+* 가려움·수면은 먼저 호전되어도 두꺼워진 피부와 색소 변화의 회복은 늦을 수 있음; 잔여 색소 변화만으로 강한 steroid를 계속 사용하지 않음
 * LSC 자체가 전암성 병변인 것은 아님; 지속되는 비전형적 병변은 LSC로 오인한 다른 질환이 없는지 확인
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -40,8 +42,8 @@
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 발열 유무와 무관하게 퍼지는 발적·열감·부종·압통, 농성 삼출 또는 국한된 통증성 종창  `연조직염·농양 등 이차 세균감염 의심`
-* 발열·오한 등 전신 증상을 동반한 감염 의심 병변  `전신 증상을 동반한 감염`
+* **(당일)** 발열 유무와 무관하게 퍼지는 발적·열감·부종·압통, 농성 삼출 또는 국한된 통증성 종창  `연조직염·농양 등 이차 세균감염 의심`
+* **(당일)** 발열·오한 등 전신 증상을 동반한 감염 의심 병변  `전신 증상을 동반한 감염`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -58,10 +60,12 @@
 
 ## <mark style="color:green;">진단</mark>
 
-* 보통 임상 소견으로 진단
+* 보통 임상 소견으로 진단; 전신 피부·두피·손톱도 살펴 기저 피부질환을 확인함
+* 치료 전 병변의 부위·범위·두께, 가려움 강도(예: 0~10점 NRS), 수면 방해 및 일상생활 영향을 기록하여 추적 시 비교함
 * LSC를 유발하거나 지속시키는 기저 원인(아토피피부염, 접촉피부염, 진균감염, 신경병성 소양증 등)을 함께 평가
   * 전완 외측의 국소적 소양증·작열감은 brachioradial pruritus, 견갑골 내측/등 상부의 국소 소양증·감각이상은 notalgia paresthetica를 감별
   * 두 질환 모두 반복 scratching으로 이차적인 태선화가 생겨 LSC와 유사하게 보일 수 있음
+* 외음부 가려움에 분비물 증가·위성 병변 등이 동반되면 외음질 칸디다증을 함께 평가하고, 증상·위험요인에 따라 검경·배양 등을 선택함. 생식기 궤양이 있으면 단순 찰과상으로 단정하지 않고 HSV·매독 등도 평가함
 * 진균감염 의심 시 KOH 검사; 임상적으로 의심이 높으면 음성 결과만으로 배제하지 말고 재검·배양 등을 고려
 * 농성 삼출·반복 감염·치료 실패 등에서는 세균배양 고려; 명확한 봉와직염의 치료를 검사 결과가 나올 때까지 지연하지 않음
 * 야간 가려움과 가족/동거인의 유사 증상, 손가락 사이·손목·생식기 병변 등이 있으면 옴을 감별
@@ -73,16 +77,16 @@
 
 * 태선화된 판상 병변을 보일 수 있는 질환들과의 감별
 
-<table><thead><tr><th width="140">질환</th><th width="230">LSC와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>psoriasis</td><td>은백색 비늘이 더 뚜렷하고 특징적 호발 부위가 있음 (☞ p.889)</td><td>팔꿈치, 무릎, 두피, 손톱 침범; 건선 병변에도 이차 태선화가 중첩될 수 있음</td></tr><tr><td>lichen planus</td><td>일차 병변 자체가 다름</td><td>보라색(violaceous)의 작은 다각형(polygonal) 구진, Wickham striae</td></tr><tr><td>nummular eczema</td><td>병소 모양과 경과가 다름</td><td>동전 모양, 급성기에 삼출·가피 동반 가능</td></tr><tr><td>atopic dermatitis</td><td>흔히 선행 질환으로 LSC와 중첩됨</td><td>소아기 발병력, 굴측부(팔오금·오금) 호발, 개인/가족력; 성인에서 새로 발병할 수도 있음</td></tr><tr><td>allergic/irritant contact dermatitis</td><td>유발 노출력이 있음</td><td>노출 부위와 형태 일치, 원인 물질 접촉력; patch test는 알레르기접촉피부염 평가용이며 자극접촉피부염의 확진 검사가 아님</td></tr><tr><td>tinea corporis/cruris, tinea incognito</td><td>진균 감염이 원인</td><td>일반 백선은 활동성 변연부·중심 치유 경향; tinea incognito에서는 steroid로 전형적 경계·인설이 흐려질 수 있음; KOH/진균검사로 확인</td></tr><tr><td>prurigo nodularis</td><td>병변 형태가 판(plaque)이 아닌 결절(nodule)</td><td>다발성 결절이 넓은 부위에 산재; LSC와 병태생리 중첩되나 임상형이 다름</td></tr><tr><td>외음부 병변(lichen sclerosus, candidiasis, extramammary Paget disease)</td><td>외음부/항문 특이 질환</td><td>백색 위축성 반(lichen sclerosus), 위성 병변·KOH 양성(candidiasis), 습진양이나 스테로이드 불응(Paget disease) → 감별 어려우면 생검</td></tr><tr><td>비전형적 지속 병변 (mycosis fungoides/CTCL, SCC 등)</td><td>종양성 병변</td><td>표준 치료에 반응하지 않는 지속 병변, 궤양·침윤·급속 성장 시 생검을 적극 시행; CTCL은 다발성도 가능</td></tr><tr><td>옴</td><td>전염성 기생충 감염</td><td>야간 소양증, 동거인의 유사 증상, 굴(burrow); 반복 긁기로 태선화가 중첩될 수 있음</td></tr></tbody></table>
+<table><thead><tr><th width="140">질환</th><th width="230">LSC와의 차이점</th><th>핵심 감별 포인트</th></tr></thead><tbody><tr><td>psoriasis</td><td>은백색 비늘이 더 뚜렷하고 특징적 호발 부위가 있음 (☞ <a href="163_-psoriasis.md">건선</a>)</td><td>팔꿈치, 무릎, 두피, 손톱 침범; 건선 병변에도 이차 태선화가 중첩될 수 있음</td></tr><tr><td>lichen planus</td><td>일차 병변 자체가 다름</td><td>보라색(violaceous)의 작은 다각형(polygonal) 구진, Wickham striae</td></tr><tr><td>nummular eczema</td><td>병소 모양과 경과가 다름</td><td>동전 모양, 급성기에 삼출·가피 동반 가능</td></tr><tr><td>atopic dermatitis</td><td>흔히 선행 질환으로 LSC와 중첩됨</td><td>소아기 발병력, 굴측부(팔오금·오금) 호발, 개인/가족력; 성인에서 새로 발병할 수도 있음</td></tr><tr><td>allergic/irritant contact dermatitis</td><td>유발 노출력이 있음</td><td>노출 부위와 형태 일치, 원인 물질 접촉력; patch test는 알레르기접촉피부염 평가용이며 자극접촉피부염의 확진 검사가 아님</td></tr><tr><td>tinea corporis/cruris, tinea incognito</td><td>진균 감염이 원인</td><td>일반 백선은 활동성 변연부·중심 치유 경향; tinea incognito에서는 steroid로 전형적 경계·인설이 흐려질 수 있음; KOH/진균검사로 확인</td></tr><tr><td>prurigo nodularis</td><td>병변 형태가 판(plaque)이 아닌 결절(nodule)</td><td>다발성 결절이 넓은 부위에 산재; LSC와 병태생리 중첩되나 임상형이 다름</td></tr><tr><td>외음부 병변(lichen sclerosus, candidiasis, extramammary Paget disease)</td><td>외음부/항문 특이 질환</td><td>백색 위축성 반(lichen sclerosus), 위성 병변·KOH 양성(candidiasis), 습진양이나 스테로이드 불응(Paget disease) → 감별 어려우면 생검</td></tr><tr><td>비전형적 지속 병변 (mycosis fungoides/CTCL, SCC 등)</td><td>종양성 병변</td><td>표준 치료에 반응하지 않는 지속 병변, 궤양·침윤·급속 성장 시 생검을 적극 시행; CTCL은 다발성도 가능</td></tr><tr><td>옴</td><td>전염성 기생충 감염</td><td>야간 소양증, 동거인의 유사 증상, 굴(burrow); 반복 긁기로 태선화가 중첩될 수 있음</td></tr></tbody></table>
 
 ***
 
 ```mermaid
 graph TD
-    A(["태선화된 판상 병변과 가려움"]) ---> B{"전신 불안정 또는 괴사성 감염 의심?"}
-    B -- 예 ---> C["즉각 조치와 응급 평가"]
+    A(["만성 단순태선 의심: 태선화된 판과 가려움"]) ---> B{"전신 불안정 또는 괴사성 감염 의심?"}
+    B -- 예 ---> C(["즉각 조치와 응급 평가"])
     B -- 아니오 ---> D{"종양 또는 비전형적 병변 의심?"}
-    D -- 예 ---> E["조기 전문의 평가와 생검"]
+    D -- 예 ---> E(["조기 전문의 평가; 필요 시 생검"])
     D -- 아니오 ---> F{"진균 또는 세균감염 의심?"}
     F -- 예 ---> G{"세균감염 의심?"}
     F -- 아니오 ---> H{"병변 부위"}
@@ -101,8 +105,8 @@ graph TD
     K ---> O
     N ---> O
     O ---> P{"의미 있는 호전?"}
-    P -- 예 ---> Q["횟수·역가 감량 또는 중단; 보습과 행동 교정"]
-    P -- 아니오 ---> R["진단·도포법·기저 원인 재평가와 의뢰"]
+    P -- 예 ---> Q(["횟수·역가 감량 또는 중단; 보습과 행동 교정"])
+    P -- 아니오 ---> R(["진단·도포법·기저 원인 재평가와 의뢰"])
 ```
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
@@ -116,16 +120,18 @@ graph TD
 ### <mark style="color:orange;">치료 방침</mark>
 
 * 긁기-가려움 악순환을 설명하고, 가려움 완화와 긁는 행동의 감소를 함께 치료함; 무의식적 긁기를 환자의 의지 부족으로 해석하지 않음
-* 가려움 완화 및 긁지 않도록 치료 (☞ p.857)
+* 가려움의 기저 원인을 치료하고 재발 요인을 함께 교정함 (☞ [만성가려움증](157_-chronic-pruritus.md))
 * 건조 방지, 피부 보호
 * 1차 치료 : 긁기-가려움 악순환 차단 + 보습/자극 회피 + 적절한 역가의 국소 steroid
 * 야간 가려움 또는 수면 중 긁기가 심한 경우 진정성 항히스타민제를 단기간 보조적으로 고려
+* 약 1~2주에 가려움·수면·태선화와 부작용을 확인함. 이 시점은 완치 판정 기한이 아니며, 충분한 회복에는 수주~수개월이 필요할 수 있음. 호전이 없으면 진단·도포량·실제 사용·지속 노출·감염·접촉알레르기를 먼저 재평가하고 무조건 역가를 높이지 않음
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 냉찜질(10\~15분) : 얼음은 천으로 감싸고 피부에 직접 대지 않음 - 미지근한 목욕 및 향료가 없는 보습제 도포 (☞ p.866)
+* 냉찜질(10\~15분) : 얼음은 천으로 감싸고 피부에 직접 대지 않음
+* 짧은 미지근한 목욕·샤워 후 향료가 없는 보습제를 도포하고, 건조할 때 덧바름 (☞ [습진](159_-eczema.md))
 * 뜨거운 목욕, 과열, 거친 마찰은 가려움을 악화시킬 수 있어 피함
-* 손톱을 짧게 관리 - 인지행동 요법, 스트레스 관리
+* 손톱을 짧게 관리하고 인지행동 요법·스트레스 관리를 병행함
 * 무의식적 긁기를 인지하고 대체 행동을 훈련하는 habit reversal을 고려
 * 부드러운 면·실크 등 마찰이 적은 소재의 의류/속옷 착용
 * 외음부/항문주위 : 향료·세정제·물티슈·반복 세척 등의 자극과 불필요한 국소 약제를 피하고, 땀·소변·대변 자극 및 동반 질환을 교정
@@ -143,32 +149,18 @@ graph TD
 * 일반 부위의 두꺼운 판 : 작은 면적에 고역가 또는 초고역가 제제를 단기간 적용 → 1\~2주에 반응·부작용 확인, 호전되면 횟수/역가 감량 또는 중단
   * clobetasol propionate 0.05% : 초고역가(Class I) <mark style="color:blue;">\[베타베이트 연고]</mark>, qd\~bid
     * 국내 허가사항상 2주 이상의 연속 치료 및 주 50 g 이상의 사용을 피함; 추가 치료는 재평가 후 결정
-  * fluocinonide 0.05% : 고역가 <mark style="color:blue;">\[나이드 크림]</mark>; 제품별 도포 횟수를 따름
 * 얼굴/피부가 얇은 접히는 부위 : 저역가를 우선 선택하고 짧게 적용; 1\~2주 이내 재평가하며 호전되면 중단
   * hydrocortisone 1% <mark style="color:blue;">\[락티케어에취씨로션1%]</mark>
   * methylprednisolone aceponate 0.1% <mark style="color:blue;">\[아드반탄]</mark>와 mometasone furoate 0.1% <mark style="color:blue;">\[모리코트]</mark>는 저역가 제제가 아님; 분류 체계·제형에 따라 역가가 달라 얼굴/접히는 부위의 일반적 1차 처방으로 제시하지 않음
   * 눈꺼풀·눈 주위에는 특히 주의하고 임의의 강한 제제 사용을 피함
+* 소아·고령자·임신/수유 중에는 부위·면적·기간을 더 신중히 정하며 성인 처방례를 그대로 적용하지 않음. 베타베이트는 국내 허가상 24개월 미만 금기임
 * 외음부 LSC : 병변 두께·중증도에 따라 충분한 역가가 필요할 수 있으므로 부위만으로 일률적으로 저역가를 선택하지 않음
   * 유럽 지침은 중증에서 clobetasol 0.05% ointment qd\~bid와 호전 시 감량, 강한 제제 사용 시 4주 재평가를 제시함
   * 국내 베타베이트 허가사항에는 항문·생식기 가려움 환자 금기와 연속 치료 기간 제한이 있음; 해외 권고를 국내 허가 용법과 동일하게 제시하지 않음. 중증 외음부 LSC에서는 전문의가 진단을 확인하고 제품별 금기·허가 범위 및 대안을 검토하여 치료를 결정
+  * BASHH 2024 지침(2025년 논문 출판)도 염증·태선화가 뚜렷할 때 충분한 역가의 국소 steroid를 사용한 뒤 감량하도록 권고함. 수주~수개월의 전체 치료 계획과 한 제품의 연속 사용 기간은 구분하고, 국내 제품별 제한을 우선 적용함
   * 4주 재평가는 동일 초고역가 제제를 4주 내내 연속 도포한다는 뜻이 아님; 1\~2주에 반응·피부 상태와 추가 치료 필요성을 확인
   * 비전형적 병변·미란·궤양·출혈·침윤 또는 치료 불응 시 lichen sclerosus, lichen planus, VIN/Paget disease 등을 감별하고 피부과/산부인과 의뢰·생검 고려
-  * <mark style="color:$info;">[2021 European vulval conditions guideline. JEADV. 2022;36:952–972; 국내 베타베이트 허가사항]</mark>
-
-#### <mark style="color:$primary;">병소 내 주사</mark>
-
-* 대상 : 적절한 국소 치료에도 지속되는 매우 두꺼운 국한성 판; 피부과에서 선택적으로 시행
-* triamcinolone acetonide 5\~10 ㎎/㎖ <mark style="color:blue;">\[트리암시놀론 주]</mark>
-* 위 수치는 병소 내 주사에 사용하는 농도이며 제품의 원액 농도와 다를 수 있음; 제형·원액 농도와 병소 내 투여 허가 여부를 확인하고 필요 시 무균적으로 희석
-* 병변 내 진피층(intradermal)에 정확히 주사하며 피하 주입은 피함; 국소 피부/피하지방 위축 및 저색소침착(hypopigmentation) 위험에 주의
-
-#### <mark style="color:$primary;">밀폐 요법</mark>
-
-* 대상 : 일반 부위의 두꺼운 국한성 판에서 선택적 보조요법; 가려움만을 이유로 일률적으로 시행하지 않음
-* 제품에서 밀봉붕대법을 제한하면 해당 제한을 우선함. **모리코트크림 등 밀봉붕대법을 삼가도록 허가된 제품의 밀폐 병용을 일반적인 국내 허가 용법으로 제시하지 않음**.
-* steroid와 밀폐를 병용하면 흡수가 증가하므로 역가·면적·시간·기간을 의사가 구체적으로 정함; 얼굴·생식기·접히는 부위·감염 또는 미란 병변에는 피함. **Clobetasol 같은 초고역가 제제의 밀폐는 일반적인 방법으로 권하지 않으며**, 예외적으로 필요하면 전문의 감독과 제품별 제한을 적용함
-* plastic wrap 등 불투과성 재료를 이용한 밀폐와 거즈 보호, wet wrap은 서로 다른 방법임; 거즈만 덮는 것은 밀폐와 같지 않음 (☞ [wet wrap](158_-atopic-dermatitis.md))
-* 부작용 : 피부위축, 피부 짓무름(maceration), 자극, 모낭염·감염; 넓은 면적·장기간 사용 시 HPA축 억제 위험
+  * <mark style="color:$info;">[2021 European vulval conditions guideline; BASHH vulval conditions 2024; 국내 베타베이트 제품설명서]</mark>
 
 #### <mark style="color:$primary;">Calcineurin 억제제</mark>
 
@@ -195,6 +187,7 @@ graph TD
   * 야간 긁기·수면장애에 대한 보조 사용 : 10\~20 ㎎ hs부터 반응과 다음 날 졸음을 확인하여 조정할 수 있음; 취침 시 저용량 요법과 국내 분할투여 용법을 구분
   * 고령자에서는 권장되지 않음; 불가피하면 성인 권장용량의 절반부터 시작, 최대 50 ㎎/d
   * QT 연장·심혈관질환·유의한 서맥·저칼륨/저마그네슘혈증·급성 심장사 가족력 또는 QT 연장 약물 병용 시 금기; 임부·임신 가능 여성 및 수유부에도 금기
+  * 급성 폐쇄각 녹내장도 금기임. Escitalopram·citalopram, levofloxacin·moxifloxacin 등 QT 연장 약물과의 병용을 피함. 복용 중 심계항진·실신 등이 생기면 중단하고 즉시 평가함
 * diphenhydramine <mark style="color:blue;">\[디펙타민]</mark> : 국내 제품은 일시적 불면증 완화용으로 성인 50 ㎎ hs, 과도한 진정 시 25 ㎎ hs가 허가 용법임; LSC 소양증 치료는 허가 외 사용이며 q4\~6hr 반복 용법을 적용하지 않음. 본 챕터의 기본 처방례에서는 제외
 * 두 진정성 항히스타민제를 함께 사용하지 않음; 음주·다른 진정제 및 항콜린성 약물 병용을 피하고 운전·기계 조작 위험을 설명
 
@@ -221,28 +214,53 @@ graph TD
 * doxepin 5% cream : 국외 허가 참고이며 국내 처방례에는 포함하지 않음. 미국 허가는 성인 아토피피부염 또는 LSC의 중등도 가려움에 대한 **최대 8일의 단기 치료**임
   * 접촉감작·알레르기접촉피부염과 전신 흡수에 따른 졸음·항콜린성 이상반응이 가능함. 장기·광범위 사용을 피하며 **밀폐붕대·비닐·hydrocolloid와 병용하지 않음**. 아래 hydrocolloid 항목의 긁기 차단 원칙을 doxepin 도포 부위에 적용하지 않음
   * 경구 doxepin 3~6 ㎎ <mark style="color:blue;">[사일레노]</mark>의 수면유지 불면증 용법과 구분하며, 경구 저용량 제제를 LSC 소양증 치료제로 대체하지 않음 <mark style="color:$info;">[미국 doxepin 5% cream 허가사항; 212 항히스타민제]</mark>
-* capsaicin 0.075% : 신경병성 소양증이 의심될 때 선택적 고려; LSC/소양증에는 국내 허가 외 사용. <mark style="color:blue;">\[다이악센]</mark>은 신경통·관절통 등의 일시적 완화용으로 1일 3\~4회(4시간 이상 간격) 도포; 작열감·홍반이 흔하고 얼굴·생식기·점막·상처에는 사용하지 않음 (☞ p.14)
+* capsaicin 0.075% : 신경병성 소양증이 의심될 때 선택적 고려; LSC/소양증에는 국내 허가 외 사용. <mark style="color:blue;">\[다이악센]</mark>은 신경통·관절통 등의 일시적 완화용으로 1일 3\~4회(4시간 이상 간격) 도포; 작열감·홍반이 흔하고 얼굴·생식기·점막·상처에는 사용하지 않음 (☞ [통증](../220_/001_-pain.md))
 * pramoxine 1% : 해외에서 국소 가려움 완화에 사용하나 국내 <mark style="color:blue;">\[프라렉신]</mark>은 치질 증상 완화용이며 허가사항상 항문 부위에만 사용함; 일반 LSC 피부 병변의 기본 처방으로 제시하지 않음
 
-#### <mark style="color:$primary;">Hydrocolloid 밀폐 요법</mark>
+### <mark style="color:orange;">기타 난치성 약물 치료</mark>
+
+* LSC와 결절성 양진(prurigo nodularis)은 itch-scratch cycle을 공유하여 임상적으로 중첩될 수 있음. 다발성 결절성 병변으로 양상이 변하거나 PN으로 재분류되는 경우에는 LSC의 난치성 치료로 생물학적 제제를 추가하기보다 결절성 양진의 진단·치료 원칙에 따라 재평가
+* **Dupilumab의 최신 LSC 시험 결과** : 성인 중등도~중증 LSC 대상 3상 STYLE 1(NCT06687967)·STYLE 2(NCT06687980)는 **두 시험 모두 위약 대비 가려움 감소의 일차 평가변수를 충족하지 못함**(Sanofi 2026-07-30 공식 발표). 안전성은 알려진 양상과 대체로 일치했으나, 이를 LSC에 대한 효과 입증으로 해석하지 않음. LSC 자체 치료의 표준 약제로 권고하지 않으며, 국내 LSC 치료는 허가 외임. 아토피피부염·결절성 양진 등 별도로 확진된 질환의 허가 적응증 치료와 구분함. <mark style="color:$info;">[Sanofi Q2 2026 공식 발표; STYLE 1/2]</mark>
+* 충분한 표준 치료에도 지속되는 중증 난치성 병변은 진단을 재검토하고 피부과 의뢰 후 추가 치료를 개별적으로 검토함
+
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+### <mark style="color:$primary;">병소 내 주사</mark>
+
+* 대상 : 적절한 국소 치료에도 지속되는 매우 두꺼운 국한성 판; 피부과에서 선택적으로 시행
+* triamcinolone acetonide 5\~10 ㎎/㎖ <mark style="color:blue;">\[트리암시놀론 주]</mark>
+* 위 수치는 병소 내 주사에 사용하는 농도이며 제품의 원액 농도와 다를 수 있음; 제형·원액 농도와 병소 내 투여 허가 여부를 확인하고 필요 시 무균적으로 희석
+* 병변 내 진피층(intradermal)에 정확히 주사하며 피하 주입은 피함; 국소 피부/피하지방 위축 및 저색소침착(hypopigmentation) 위험에 주의
+
+### <mark style="color:$primary;">밀폐 요법</mark>
+
+* 대상 : 일반 부위의 두꺼운 국한성 판에서 선택적 보조요법; 가려움만을 이유로 일률적으로 시행하지 않음
+* 제품에서 밀봉붕대법을 제한하면 해당 제한을 우선함. **모리코트크림 등 밀봉붕대법을 삼가도록 허가된 제품의 밀폐 병용을 일반적인 국내 허가 용법으로 제시하지 않음**.
+* steroid와 밀폐를 병용하면 흡수가 증가하므로 역가·면적·시간·기간을 의사가 구체적으로 정함; 얼굴·생식기·접히는 부위·감염 또는 미란 병변에는 피함. **Clobetasol 같은 초고역가 제제의 밀폐는 일반적인 방법으로 권하지 않으며**, 예외적으로 필요하면 전문의 감독과 제품별 제한을 적용함
+* plastic wrap 등 불투과성 재료를 이용한 밀폐와 거즈 보호, wet wrap은 서로 다른 방법임; 거즈만 덮는 것은 밀폐와 같지 않음 (☞ [wet wrap](158_-atopic-dermatitis.md))
+* 부작용 : 피부위축, 피부 짓무름(maceration), 자극, 모낭염·감염; 넓은 면적·장기간 사용 시 HPA축 억제 위험
+
+#### <mark style="color:$primary;">Hydrocolloid의 근거와 제품별 제한</mark>
 
 * 긁기 차단과 피부 보호를 위한 선택적 보조요법; 건조한 태선화 판에 일률적으로 습윤 환경을 만들 필요는 없음
 * scratching 차단을 위해 사용할 수 있으나, **hydrocolloid도 밀폐 효과가 있으므로 steroid와 병용하면 약물 흡수 증가를 고려함**. 피부 자극·접촉알레르기·짓무름(maceration)·모낭염·이차 감염을 확인하며 제품 지시에 따라 교체함 <mark style="color:blue;">\[듀오덤]</mark>
 * 성인 40명의 단일 맹검 무작위시험에서 0.1% mometasone cream과 hydrocolloid 병용이 cream 단독보다 단기 효과가 좋았음. 소규모·단기 연구이므로 **clobetasol 밀폐, 얼굴·생식기 적용, 장기 안전성으로 확대하지 않음**. **국내 모리코트크림 등은 밀봉붕대법을 삼가도록 허가되어 있으므로, 이 연구를 해당 제품의 국내 표준 처방으로 그대로 적용하지 않음**. 병용 여부는 제품별 허가사항과 허가 외 사용 여부를 확인하여 전문의가 판단함. <mark style="color:$info;">[Lo & Ip. Skin Health Dis. 2023;3:e228]</mark>
 
-#### <mark style="color:$primary;">기타 난치성 치료</mark>
+### <mark style="color:$primary;">광선치료 및 기타 시술</mark>
 
 * 난치성·광범위 병변에서는 피부과 의뢰 후 narrowband UVB(NB-UVB) 또는 targeted phototherapy를 고려할 수 있으나, 일차진료에서 보편적으로 시행하는 치료는 아님
 * Botulinum toxin 피내 주사 등 일부 치료가 난치성 LSC에서 보고되었으나 **LSC 치료는 국내 허가 외 사용**이며 근거가 제한적이므로 일차진료에서 일반적으로 권장하지 않음
-* LSC와 결절성 양진(prurigo nodularis)은 itch-scratch cycle을 공유하여 임상적으로 중첩될 수 있음. 다발성 결절성 병변으로 양상이 변하거나 PN으로 재분류되는 경우에는 LSC의 난치성 치료로 생물학적 제제를 추가하기보다 결절성 양진의 진단·치료 원칙에 따라 재평가
-* **연구 단계의 치료** : dupilumab <mark style="color:blue;">\[듀피젠트]</mark>의 성인 중등도\~중증 LSC 대상 위약 대조 3상 시험 STYLE 1(NCT06687967)·STYLE 2(NCT06687980)가 등록되어 있음. **시험 등록은 효능 입증이나 국내 LSC 적응증 허가를 뜻하지 않으며**, LSC 자체 치료는 국내 허가 외임. 아토피피부염·결절성 양진 등에 대한 효과·허가를 LSC에 그대로 적용하지 않음. <mark style="color:$info;">[ClinicalTrials.gov STYLE 1/2]</mark>
-* 충분한 표준 치료에도 지속되는 중증 난치성 병변은 진단을 재검토하고 피부과 의뢰 후 추가 치료를 개별적으로 검토함
+* Fractional CO₂ laser : 2026년 출판된 60명, 3개월 무작위시험에서 국소 steroid와의 병용 효과가 보고됨. 소규모·단기 연구로 장기 재발·안전성 및 다양한 부위에 대한 일반화가 불확실하므로, 표준 국소 치료를 대체하는 일차진료 요법으로 권고하지 않음. 난치성은 피부과에서 개별 검토함. <mark style="color:$info;">[Esmat et al. Dermatol Surg. 2026;52:247–252]</mark>
 
 ***
 
-### <mark style="color:red;">질병코드 (KCD)</mark>
+### <mark style="color:red;">질병코드</mark>
 
 L28.0 만성 단순태선 Lichen simplex chronicus
+
+* 포함 용어 : 국한신경피부염(Circumscribed neurodermatitis), 태선 NOS(Lichen NOS)
+* L28.1 결절성 가려움발진(Prurigo nodularis)과 구분함
+* <mark style="color:$info;">저장된 KCD9_251216(6).xlsx의 「상병분류기호(전체)」·「상병분류기호(완전코드)」와 대조함(2026-10-30). 엑셀의 L280을 통상 표기 L28.0으로 표시함.</mark>
 
 ***
 
@@ -323,12 +341,43 @@ L28.0 만성 단순태선 Lichen simplex chronicus
 
 ***
 
+## <mark style="color:blue;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* [BASHH. 2024 UK national guideline on the management of vulval conditions. Int J STD AIDS. 2025;36:346–371](https://www.bashh.org/_userfiles/pages/files/bashh_vulval_guidelines_2024.pdf) — 외음부 태선화의 역가 선택·감량 및 지속 자극·알레르기 재평가.
+* [Sanofi. Q2 2026 results, 2026-07-30, p.5](https://www.sec.gov/Archives/edgar/data/1121404/000112140426000008/pressreleaseq22026english.htm) — STYLE 1/2의 일차 평가변수 미충족을 발표한 시험 의뢰자 공식 자료.
+* [Esmat S, et al. Fractional Carbon Dioxide Laser for Lichen Simplex Chronicus: A Randomized Controlled Trial. Dermatol Surg. 2026;52:247–252](https://pubmed.ncbi.nlm.nih.gov/40767880/) — 60명·3개월 시험; 표준치료 대체 근거로 확대하지 않음.
+* [British Association of Dermatologists. Lichen simplex](https://www.bad.org.uk/pils/lichen-simplex) — 질환 설명·생활 관리·수주~수개월 치료 경과(페이지의 환자 안내서 개정일: 2023-08).
+
+* [2021 European guideline for the management of vulval conditions. JEADV. 2022;36:952–972](https://iusti.org/wp-content/uploads/2022/04/epub-vulval-conditions.pdf) — 외음부 LSC의 역가 선택·추적 및 허가 외 2차 치료
+* [European S2k Guideline on Chronic Pruritus. Acta Derm Venereol. 2025;105:adv44220](https://doi.org/10.2340/actadv.v105.44220) — 신경병성·난치성 소양증의 선택적 보조 치료; LSC 고유의 표준 용량과 구분함
+* [Lo HL, Ip FC. Effectiveness of 0.1% mometasone furoate under hydrocolloid dressing versus 0.1% mometasone furoate in patients with lichen simplex chronicus. Skin Health Dis. 2023;3:e228](https://doi.org/10.1002/ski2.228)
+* [NICE NG190. Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing](https://www.nice.org.uk/guidance/ng190/chapter/Recommendations)
+* [ClinicalTrials.gov. STYLE 1(NCT06687967)](https://clinicaltrials.gov/study/NCT06687967), [STYLE 2(NCT06687980)](https://clinicaltrials.gov/study/NCT06687980) — 시험 설계·등록 식별자 확인용. 최신 결과는 위 Sanofi 2026-07-30 발표와 함께 해석함
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 베타베이트 연고·크림 제조사 제품설명서 — LSC 적응증, qd~bid, 연속 2주·주 50 g 제한, 항문·생식기 가려움 금기 및 감염 확산 시 조치 확인. 제조사 아디팜정 제품설명서 — 피부과 용량·QT 관련 금기·고령자 제한 확인.
+* 저장된 **KCD9_251216(6).xlsx** — 질병코드·한글/영문명·포함 용어 직접 대조(2026-10-30).
+
+* [약학정보원](https://www.health.kr/) — 국내 품목정보 보조 확인 자료. 제조사 제품설명서·식약처 원문과 구분하여 활용함.
+* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic) — tacrolimus와 같은 부위 보습제의 2시간 간격 등 국외 복약지도 참고자료.
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 국내 품목별 적응증·용법·금기·주의사항 확인 자료
+* [Medsafe. Adverse effects from inappropriate use of topical corticosteroids. Prescriber Update. 2026;47(2):22–24](https://www.medsafe.govt.nz/profs/PUArticles/June2026/Adverse-effects-topical-corticosteroids.html) — 국외 안전성 보완 자료; 국내 제품별 허가사항을 대체하지 않음
+* [FDA. Gabapentin·pregabalin의 중대한 호흡억제 위험에 대한 안전성 정보](https://www.fda.gov/media/133681/download) — 중추신경억제제 병용·호흡기 위험인자·고령자 주의
+
+* [DailyMed. Doxepin hydrochloride cream 5%](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd8d5edd-7b08-4061-86e6-c4179da89c0d). 성인 AD/LSC의 최대 8일 단기 사용, 접촉감작·전신 진정 및 밀폐 병용 회피에 관한 국외 허가자료.
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **만성 단순태선, 반복해서 긁다 보니 피부가 두꺼워진 상태입니다**
 
-가려운 부위를 계속 긁거나 문지르면 피부가 가죽처럼 두껍고 거칠게 변합니다. 이렇게 변한 피부가 다시 가려움을 유발해 "가려움 → 긁음 → 더 가려움"의 악순환이 반복됩니다. 가려움을 줄이는 치료와 함께 긁는 행동을 줄이는 연습이 필요합니다. 무의식적으로 긁는 것은 의지 부족 때문이 아닙니다.
+가려운 부위를 계속 긁거나 문지르면 피부가 가죽처럼 두껍고 거칠게 변합니다. 이렇게 변한 피부가 다시 가려움을 유발해 "가려움 → 긁음 → 더 가려움"의 악순환이 반복됩니다. 가려움을 줄이는 치료와 함께 긁는 행동을 줄이는 연습이 필요합니다. 무의식적으로 긁는 것은 의지 부족 때문이 아닙니다. 만성 단순태선 자체는 다른 사람에게 옮지 않습니다. 다만 옴·곰팡이 감염 같은 원인이 있으면 별도의 치료가 필요합니다.
 {% endhint %}
 
 #### <mark style="color:$primary;">왜 이런 병이 생기나요?</mark>
@@ -349,6 +398,7 @@ L28.0 만성 단순태선 Lichen simplex chronicus
 
 * 의사가 처방한 기간과 부위에만 얇게 바르십시오. 정해진 기간보다 오래 임의로 바르면 피부가 얇아지거나 붉은 실핏줄이 보일 수 있습니다.
 * 얼굴이나 접히는 부위는 특히 짧게, 정해진 대로만 사용하세요.
+* 가려움이 줄어도 피부 두께나 색은 늦게 회복될 수 있습니다. 색만 남았다고 강한 연고를 계속 바르지 마십시오.
 * 밤에 가려움이 심해 잠을 설칠 때는 처방받은 보조약을 정해진 용법대로 복용하십시오. 졸리게 하는 약을 복용한 뒤에는 음주·운전·기계 조작을 피하고, 감기약·수면제를 함께 복용하기 전에 확인하십시오.
 * 연고 위에 비닐이나 접착성 드레싱을 임의로 덮지 마십시오. 피부가 짓무르거나 발진·통증이 늘면 덮개를 제거하고 진료받으십시오.
 
@@ -358,27 +408,3 @@ L28.0 만성 단순태선 Lichen simplex chronicus
 * 진물·고름·퍼지는 붉음·열감·통증 등 감염이 의심되면 발열이 없어도 당일 진료받으십시오.
 * 병변이 빠르게 커지거나, 낫지 않는 궤양·반복 출혈·단단한 덩어리가 생기면 지체하지 말고 진료받으십시오.
 * 약 2주 치료에도 호전이 없거나 외음부·항문주위 병변이 지속되면 재평가를 예약하십시오.
-
-
-***
-
-## <mark style="color:blue;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [2021 European guideline for the management of vulval conditions. JEADV. 2022;36:952–972](https://iusti.org/wp-content/uploads/2022/04/epub-vulval-conditions.pdf) — 외음부 LSC의 역가 선택·추적 및 허가 외 2차 치료
-* [European S2k Guideline on Chronic Pruritus. Acta Derm Venereol. 2025;105:adv44220](https://doi.org/10.2340/actadv.v105.44220) — 신경병성·난치성 소양증의 선택적 보조 치료; LSC 고유의 표준 용량과 구분함
-* [Lo HL, Ip FC. Effectiveness of 0.1% mometasone furoate under hydrocolloid dressing versus 0.1% mometasone furoate in patients with lichen simplex chronicus. Skin Health Dis. 2023;3:e228](https://doi.org/10.1002/ski2.228)
-* [NICE NG190. Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing](https://www.nice.org.uk/guidance/ng190/chapter/Recommendations)
-* [ClinicalTrials.gov. STYLE 1(NCT06687967)](https://clinicaltrials.gov/study/NCT06687967), [STYLE 2(NCT06687980)](https://clinicaltrials.gov/study/NCT06687980) — LSC 대상 dupilumab 3상 연구 등록; 표준치료·국내 허가와 구분함
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [약학정보원](https://www.health.kr/) — 모리코트크림(2017040300036)의 밀봉붕대법 제한, 베타베이트연고(A11A1590A0045)의 사용기간·사용량·금기 국내 허가정보 전재본 확인(2026-10-24).
-* [EMA. Protopic product information](https://www.ema.europa.eu/en/medicines/human/EPAR/protopic) — tacrolimus와 같은 부위 보습제의 2시간 간격 등 국외 복약지도 참고자료.
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 국내 품목별 적응증·용법·금기·주의사항 확인 자료
-* [Medsafe. Adverse effects from inappropriate use of topical corticosteroids. Prescriber Update. 2026;47(2):22–24](https://www.medsafe.govt.nz/profs/PUArticles/June2026/Adverse-effects-topical-corticosteroids.html) — 국외 안전성 보완 자료; 국내 제품별 허가사항을 대체하지 않음
-* [FDA. Gabapentin·pregabalin의 중대한 호흡억제 위험에 대한 안전성 정보](https://www.fda.gov/media/133681/download) — 중추신경억제제 병용·호흡기 위험인자·고령자 주의
-
-* [DailyMed. Doxepin hydrochloride cream 5%](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd8d5edd-7b08-4061-86e6-c4179da89c0d). 성인 AD/LSC의 최대 8일 단기 사용, 접촉감작·전신 진정 및 밀폐 병용 회피에 관한 국외 허가자료.
