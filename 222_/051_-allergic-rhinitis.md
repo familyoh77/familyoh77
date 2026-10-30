@@ -503,7 +503,7 @@ class Cause1,Cause2,Cause3,Rescue orange
   * OAH+LTRA는 OAH 단독보다 임상적으로 의미 있는 추가 이득이 없고 안전성 우려와 비용이 증가하므로 routine 병용하지 않음
 * 부작용 : 간 효소 상승(montelukast에서는 드묾), 불안, 우울, 수면 장애
 * montelukast : 10 ㎎ qd 저녁 <mark style="color:blue;">\[싱귤레어]</mark>
-* pranlukast : 225 ㎎ bid <mark style="color:blue;">\[오논]</mark>
+* pranlukast : 성인 50 ㎎(1정) bid, 아침·저녁 식후 <mark style="color:blue;">\[씨투스정50㎎]</mark> (소아는 별도 제형의 연령·체중별 허가용량 적용)
 * [급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20231001\&sno=6\&mtgMtrRegSno=0013) : montelukast·pranlukast는 허가 범위 내에서 ① 1차 항히스타민제로 개선되지 않는 비폐색, ② 비폐색이 주 증상, ③ 비충혈제거제 또는 비강분무 스테로이드를 사용하지 못하는 경우에 AR 급여 인정; 항히스타민제와 동시 투여 가능. montelukast+levocetirizine 복합제는 천식 동반 등 별도 기준을 확인
 
 {% hint style="danger" %}
