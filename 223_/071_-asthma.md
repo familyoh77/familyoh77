@@ -50,19 +50,7 @@
 * 고용량 ICS-LABA에도 조절되지 않는 중증 천식에서 T2 염증 여부는 생물학적 제제 선택의 기준이 됨
   * 비-T2 중증 천식은 생물학적 제제 선택지가 제한적이므로 기본 요인(흡입 기술·순응도·동반 질환·노출) 재점검과 다른 추가 치료를 우선 검토
 
-<table><thead><tr><th width="184">T2 염증 시사 지표</th><th>의미</th></tr></thead><tbody><tr><td><strong>혈중 eosinophil 증가</strong></td><td>호산구성 염증 시사; 절단값은 검사 시점, OCS 사용 및 생물학적 제제·급여기준에 따라 다름</td></tr><tr><td><strong>FeNO 증가</strong></td><td>T2 기도 염증 및 ICS 반응 가능성을 지지하나 단독 진단·치료 기준은 아님</td></tr><tr><td><strong>알레르겐 특이 IgE 또는 피부단자검사 양성</strong></td><td>임상적으로 관련된 알레르겐 노출 병력이 동반되면 알레르기성 표현형 지지</td></tr><tr><td><strong>비용종/아토피 동반</strong></td><td>T2 표현형 지지</td></tr><tr><td><strong>ICS 반응 우수</strong></td><td>T2 염증 가능성 지지</td></tr></tbody></table>
-
-{% hint style="info" %}
-**고용량 ICS 또는 매일 OCS 사용 중에도** 다음 중 하나 이상이 있으면 **불응성 T2 염증**을 고려함 : 혈중 eosinophil ≥150/㎕, FeNO ≥20 ppb, 객담 eosinophil ≥2%, 임상적으로 알레르겐에 의해 유발되는 천식. OCS는 T2 바이오마커를 억제하므로 가능하면 OCS 시작 전, 또는 OCS 투여 종료 후 최소 1\~2주 뒤, 또는 가능한 최저 OCS 용량에서 검사함 <mark style="color:$info;">\[GINA 2026]</mark>
-{% endhint %}
-
-#### <mark style="color:$primary;">표현형과 관련된 생물학적 제제 선택</mark>
-
-<table><thead><tr><th width="314">상황</th><th>고려할 생물학적 제제</th></tr></thead><tbody><tr><td>임상적으로 관련된 <strong>알레르겐 감작 + 중증 알레르기성 천식</strong></td><td>omalizumab <mark style="color:blue;">[졸레어]</mark>, <mark style="color:blue;">[옴리클로]</mark> (anti-IgE)</td></tr><tr><td><strong>중증 호산구성 천식</strong></td><td>mepolizumab, reslizumab(anti-IL-5), benralizumab(anti-IL-5Rα), depemokimab(anti-IL-5)</td></tr><tr><td><strong>T2 염증 지표 상승 또는 유지 OCS 의존</strong></td><td>dupilumab <mark style="color:blue;">[듀피젠트]</mark> (anti-IL-4Rα)</td></tr><tr><td><strong>표현형이 불명확하거나 광범위한 중증 천식</strong></td><td>tezepelumab <mark style="color:blue;">[테즈파이어]</mark> (anti-TSLP; 허가상 T2 바이오마커 제한 없음)</td></tr></tbody></table>
-
-{% hint style="info" %}
-**생물학적 제제**는 최적화된 고용량 ICS-LABA 치료에도 조절되지 않는 중증 천식에서 고려함. 단일 바이오마커만으로 선택하지 말고 악화력, 유지 OCS 필요성, 동반 질환, 연령, 투여 경로 및 국내 허가·건강보험 급여기준을 함께 평가함. **Tezepelumab**은 바이오마커 제한 없이 사용할 수 있으나 일반적으로 혈중 호산구와 FeNO가 높을수록 악화 감소 효과가 더 큼
-{% endhint %}
+<table><thead><tr><th width="184">T2 염증 시사 지표·임상 단서</th><th>의미</th></tr></thead><tbody><tr><td><strong>혈중 eosinophil 증가</strong></td><td>호산구성 염증 시사; 절단값은 검사 시점, OCS 사용 및 생물학적 제제·급여기준에 따라 다름</td></tr><tr><td><strong>FeNO 증가</strong></td><td>T2 기도 염증 및 ICS 반응 가능성을 지지하나 단독 진단·치료 기준은 아님</td></tr><tr><td><strong>알레르겐 특이 IgE 또는 피부단자검사 양성</strong></td><td>임상적으로 관련된 알레르겐 노출 병력이 동반되면 알레르기성 표현형 지지</td></tr><tr><td><strong>비용종/아토피 동반</strong></td><td>T2 표현형 지지</td></tr><tr><td><strong>ICS 반응 우수</strong></td><td>T2 염증 가능성 지지</td></tr></tbody></table>
 
 ## <mark style="color:green;">원인</mark>
 
@@ -740,7 +728,7 @@ flowchart LR
 
 **omalizumab 바이오시밀러**: <mark style="color:blue;">\[옴리클로]</mark>는 국내 최초의 졸레어 바이오시밀러로 알레르기성 천식·만성 특발성 두드러기 적응증으로 허가되었고, 75·150·300 ㎎ 프리필드시린지와 150 ㎎ 펜 제형이 급여로 공급 중임. 바이오시밀러는 임의로 상호교체하지 않고 허가사항과 기관 정책에 따름
 
-생물학적 제제 선택 시 Type 2 표현형 여부 외에도 HIRA 급여 기준, 투여 경로(피하/정맥), 투여 간격, 동반 질환(비용종, 아토피 피부염 등 비-천식 적응증 포함), 환자 선호도를 함께 고려 <mark style="color:$info;">\[GINA 2026]</mark>
+생물학적 제제 선택 시 Type 2 표현형 여부 외에도 악화력, 유지 OCS 필요성, 연령, HIRA 급여 기준, 투여 경로(피하/정맥), 투여 간격, 동반 질환(비용종, 아토피 피부염 등 비-천식 적응증 포함), 환자 선호도를 함께 고려하며, 단일 바이오마커만으로 선택하지 않음 <mark style="color:$info;">\[GINA 2026]</mark>
 {% endhint %}
 
 {% hint style="info" %}
