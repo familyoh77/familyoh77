@@ -42,12 +42,19 @@
 
 <table><thead><tr><th width="155">표현형</th><th width="341">특징</th><th>치료 반응 및 특징</th></tr></thead><tbody><tr><td><strong>알레르기성 천식</strong><br>(allergic asthma)</td><td>• 가장 흔한 표현형<br>• 소아~청소년기 시작 흔함<br>• 아토피/알레르기비염/아토피 피부염 동반<br>• 특이 IgE(+), 피부 단자 검사(+)</td><td>• ICS 반응 우수<br>• 알레르겐 회피 및 면역 치료 고려<br>• 중증 시 anti-IgE (omalizumab) 고려</td></tr><tr><td><strong>호산구성 천식</strong><br>(eosinophilic asthma)</td><td>• 성인 발병 흔함<br>• 혈중 eosinophil↑, FeNO↑<br>• 반복 악화 및 스테로이드 의존 경향<br>• 비용종 동반 흔함</td><td>• ICS 반응 양호<br>• biologic 반응 우수<br>• anti-IL-5/IL-5R, anti-IL-4Rα 고려</td></tr><tr><td><strong>비만 관련 천식</strong><br>(obesity-related asthma)</td><td>• 여성 및 성인 발병 흔함<br>• dyspnea가 두드러짐<br>• eosinophilic inflammation 적은 경우 많음<br>• OSA, GERD 동반 흔함</td><td>• ICS 반응 상대적으로 낮음<br>• 체중 감량 중요<br>• 동반 질환 교정 필수</td></tr><tr><td><strong>비-T2 천식</strong><br>(non-type 2 asthma)</td><td>• neutrophilic 또는 paucigranulocytic 패턴<br>• 흡연, 오염, 직업 노출 관련 가능<br>• 스테로이드 저항성 경향</td><td>• ICS 반응 제한적<br>• biologic 효과 제한적<br>• 흡연 중단 및 노출 회피 중요</td></tr><tr><td><strong>AERD/NERD</strong><br>(Aspirin/NSAID 악화 호흡기 질환)</td><td>• aspirin/NSAID 복용 후 비염·기관지 수축<br>• 비용종 및 만성 비부비동염 흔함<br>• 중등~중증 천식 경향</td><td>• NSAID 회피<br>• LTRA 도움 가능<br>• 중증 시 biologic 고려</td></tr></tbody></table>
 
-#### <mark style="color:$primary;">Type 2 (T2) 염증</mark>
+#### <mark style="color:$primary;">T2 염증 표현형과 바이오마커</mark>
 
-* 많은 천식 환자에서 type 2 염증이 중요한 병태생리 (IL-4, IL-5, IL-13 경로 활성화)
-* T2 염증 시 : eosinophilia, FeNO 증가, IgE 증가, 스테로이드 반응성 양호
+* 제2형 면역(type 2 immunity) 반응에 의한 염증 : Th2 세포와 ILC2(제2형 선천림프구)가 분비하는 IL-4·IL-5·IL-13이 주도
+* 많은 천식 환자에서 핵심 병태생리이며, T2 염증 유무에 따라 T2 천식과 비-T2 천식으로 구분
+* 주요 결과 : 호산구 증가(IL-5), IgE 생성(IL-4·IL-13), FeNO 증가·점액 과분비·기도 과민성(IL-13)
+* 고용량 ICS-LABA에도 조절되지 않는 중증 천식에서 T2 염증 여부는 생물학적 제제 선택의 기준이 됨
+  * 비-T2 중증 천식은 생물학적 제제 선택지가 제한적이므로 기본 요인(흡입 기술·순응도·동반 질환·노출) 재점검과 다른 추가 치료를 우선 검토
 
 <table><thead><tr><th width="184">T2 염증 시사 지표</th><th>의미</th></tr></thead><tbody><tr><td><strong>혈중 eosinophil 증가</strong></td><td>호산구성 염증 시사; 절단값은 검사 시점, OCS 사용 및 생물학적 제제·급여기준에 따라 다름</td></tr><tr><td><strong>FeNO 증가</strong></td><td>T2 기도 염증 및 ICS 반응 가능성을 지지하나 단독 진단·치료 기준은 아님</td></tr><tr><td><strong>알레르겐 특이 IgE 또는 피부단자검사 양성</strong></td><td>임상적으로 관련된 알레르겐 노출 병력이 동반되면 알레르기성 표현형 지지</td></tr><tr><td><strong>비용종/아토피 동반</strong></td><td>T2 표현형 지지</td></tr><tr><td><strong>ICS 반응 우수</strong></td><td>T2 염증 가능성 지지</td></tr></tbody></table>
+
+{% hint style="info" %}
+**고용량 ICS 또는 매일 OCS 사용 중에도** 다음 중 하나 이상이 있으면 **불응성 T2 염증**을 고려함 : 혈중 eosinophil ≥150/㎕, FeNO ≥20 ppb, 객담 eosinophil ≥2%, 임상적으로 알레르겐에 의해 유발되는 천식. OCS는 T2 바이오마커를 억제하므로 가능하면 OCS 시작 전, 또는 OCS 투여 종료 후 최소 1\~2주 뒤, 또는 가능한 최저 OCS 용량에서 검사함 <mark style="color:$info;">\[GINA 2026]</mark>
+{% endhint %}
 
 #### <mark style="color:$primary;">표현형과 관련된 생물학적 제제 선택</mark>
 
