@@ -351,57 +351,6 @@
 ***
 
 ```mermaid
-flowchart TD
-    Start["천식 의심<br/>만성 또는 반복적인 <br/>호흡기 증상"]
-    Q1["천식의 전형적인<br/>증상인가?"]
-    Q2["병력 및 신체검사 결과가<br/>천식 진단에 합당한가?"]
-    Q3["환자가 이미 ICS를 포함한<br/>치료를 하고 있는가?"]
-    Q4["중증 급성 악화 또는<br/>아나필락시스 징후가 있는가?"]
-    Q5["Spirometry 또는 PEF<br/>검사가 가능한가?"]
-    Q6["기관지확장제 전후 <br/>spirometry 또는 PEF<br/>가변적 호기 기류 제한이 <br/>확인되는가?"]
-    Q7["대체 진단이<br/>확인되는가?"]
-    Q8["1~3개월 후 치료 반응 평가<br/>(PEF 또는 spirometry 포함)<br/>증상 및 폐 기능이 <br/>호전되는가?"]
-    Step1["ICS 사용 중인 환자에서의<br/>진단 접근"]
-    Empirical["다른 진단 가능성이 낮으면<br/>경험적 ICS-containing 치료"]
-    Urgent["급성 악화 치료를 시작하면서<br/>즉시 응급 이송"]
-    Repeat["증상 시 반복 검사<br/>·기관지유발검사<br/>바이오마커·대체 진단 검토"]
-    Q9["재평가 후 가변적 호기<br/>기류 제한이 확인되는가?"]
-    ResultAsthma2["천식으로 치료 지속"]
-    ResultAlt["대체 진단 치료"]
-    Refer["상급 의뢰"]
-    Refer2["상급 의뢰"]
-    ResultAsthma3["천식으로 치료<br/>ICS-containing Tx."]
-    Start --> Q4
-    Q4 -- "예" --> Urgent
-    Q4 -- "아니오" --> Q1
-    Q1 -- "예" --> Q2
-    Q1 -- "아니오" --> Q7
-    Q2 -- "예" --> Q3
-    Q2 -- "아니오" --> Q7
-    Q7 -- "아니오" --> Q5
-    Q7 -- "예" --> ResultAlt
-    Q3 -- "예" --> Step1
-    Q3 -- "아니오" --> Q5
-    Q5 -- "아니오" --> Empirical
-    Q5 -- "예" --> Q6
-    Q6 -- "예" --> ResultAsthma3
-    Q6 -- "아니오" --> Repeat
-    Repeat --> Q9
-    Q9 -- "예" --> ResultAsthma3
-    Q9 -- "아니오" --> Refer
-    Empirical --> Q8
-    Q8 -- "예" --> ResultAsthma2
-    Q8 -- "아니오" --> Refer2
-    classDef question fill:#fff9c4,stroke:#ffe082
-    classDef red fill:#ffcdd2,stroke:#c62828,stroke-width:1px
-    classDef green fill:#e8f8e8,stroke:#4caf50
-    class Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9 question
-    class Urgent,Refer,Refer2 red
-    class Step1,Repeat,Empirical,ResultAlt green
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style ResultAsthma2 fill:#f96,stroke:#e65100,stroke-width:2px
-    style ResultAsthma3 fill:#f96,stroke:#e65100,stroke-width:2px
-
 ```
 
 <p align="center"><strong>천식 진단 알고리듬</strong></p>
@@ -422,30 +371,6 @@ flowchart TD
 ***
 
 ```mermaid
-flowchart TD
-    Assess["`**1. 평가 · ASSESS**
-진단 · 증상 조절 · 향후 위험
-동반 질환 · 흡입 기술 · 순응도
-환자·부모·돌봄제공자의 선호와 목표`"]
-    Adjust["`**2. 치료 조정 · ADJUST**
-위험 인자 · 동반 질환 관리
-비-약물 전략 · ICS 포함 약물 치료
-교육 · 기술 훈련 · 서면 행동계획`"]
-    Review["`**3. 반응 검토 · REVIEW**
-증상 · 악화 · 부작용 · 동반 질환 · 폐 기능
-환자·부모·돌봄제공자의 만족도
-조절 불량 지속 시 T2 바이오마커 평가 고려`"]
-
-    Assess --> Adjust
-    Adjust --> Review
-    Review -->|반응과 목표에 따라 반복| Assess
-
-    classDef assess fill:#eaf4f8,stroke:#146d8a,color:#16384d,stroke-width:2px
-    classDef adjust fill:#fff5e7,stroke:#b66612,color:#58320a,stroke-width:2px
-    classDef review fill:#edf6f1,stroke:#28634f,color:#194333,stroke-width:2px
-    class Assess assess
-    class Adjust adjust
-    class Review review
 ```
 
 <p align="center"><strong>개별화된 천식 관리 주기</strong></p>
@@ -1368,10 +1293,10 @@ BD = bronchodilator(기관지확장제). 2\~3개월 후 재검토; 반응 부적
 #### <mark style="color:$primary;">나의 서면 천식 행동계획</mark>
 
 * 의료진과 함께 아래 항목을 작성하고, 병원 방문 시 가져오세요. 진단 시·약제 변경 시·응급실 또는 입원 치료 후에 다시 확인합니다
-* 작성일: __________ / 의료기관·담당자: __________ / 연락처: __________
+* 작성일: \_\_\_\_\_\_\_\_\_\_ / 의료기관·담당자: \_\_\_\_\_\_\_\_\_\_ / 연락처: \_\_\_\_\_\_\_\_\_\_
 * 나의 치료: □ 필요시 ICS-formoterol만 사용(AIR-only) □ 매일 유지+같은 흡입기로 완화(MART) □ 매일 유지+별도 완화제
-* 유지제·함량·용법(처방된 경우): __________ / 완화제·함량·1회 흡입 횟수: __________
-* 완화제 반복 사용법·24시간 합계 재평가 기준: __________ / PEF를 측정한다면 개인 최고치: __________ L/min
+* 유지제·함량·용법(처방된 경우): \_\_\_\_\_\_\_\_\_\_ / 완화제·함량·1회 흡입 횟수: \_\_\_\_\_\_\_\_\_\_
+* 완화제 반복 사용법·24시간 합계 재평가 기준: \_\_\_\_\_\_\_\_\_\_ / PEF를 측정한다면 개인 최고치: \_\_\_\_\_\_\_\_\_\_ L/min
 
 <table><thead><tr><th width="170">상태</th><th>내가 할 일</th></tr></thead><tbody><tr><td><strong>양호</strong><br>수면·일상생활에 지장 없이 지냄</td><td>처방된 요법을 유지합니다. 매일 유지제를 처방받았다면 증상이 없어도 계속 사용하고, AIR-only라면 증상 시 사용합니다. 정해진 날짜에 진료를 받습니다</td></tr><tr><td><strong>주의</strong><br>기침·쌕쌕거림 증가, 밤에 깸, 활동 제한 또는 완화제가 평소보다 자주 필요</td><td>처방된 완화제를 행동계획에 따라 사용하고, 매일 유지제가 있다면 계속 사용합니다. 증상이 지속·반복되거나 사용량이 정해진 재평가 기준에 도달하면 의료진에게 연락합니다. 추가 약제·용량·진료 시점: __________</td></tr><tr><td><strong>위험 — 즉시 도움 요청</strong><br>말하기 힘든 호흡곤란, 청색증·의식 변화, 완화제에도 호전 없음·빠른 악화</td><td><strong>119에 연락하거나 즉시 응급실로 갑니다.</strong> 도움을 기다리면서 처방된 완화제를 응급 행동계획에 따라 사용합니다. 경구 스테로이드는 미리 처방·지시받은 경우에만 계획에 따라 시작하며, 복용하더라도 응급 진료를 늦추지 않습니다</td></tr></tbody></table>
 
