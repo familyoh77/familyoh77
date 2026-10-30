@@ -342,7 +342,7 @@
 * 치료가 어려운 천식(difficult-to-treat) : 중간·고용량 ICS와 두 번째 조절제(보통 LABA) 또는 유지 OCS를 처방했는데도 조절되지 않거나, 조절 유지에 고용량 치료가 필요한 천식
   * 흔히 흡입 기술, 순응도, 흡연, 동반 질환, 오진 등 교정 가능한 요인이 원인이며, 이를 교정해 호전되면 중증 천식으로 분류하지 않음
 
-<table><thead><tr><th width="119">구분</th><th>정의</th></tr></thead><tbody><tr><td><strong>경증 천식</strong></td><td>필요시 ICS-formoterol 또는 저용량 ICS 등 Step 1~2 치료로 조절</td></tr><tr><td><strong>중등증 천식</strong></td><td>저용량 MART 또는 저·중간용량 ICS-LABA 등 Step 3~4 치료로 조절</td></tr><tr><td><strong>중증 천식</strong></td><td>올바른 진단, 양호한 순응도·흡입 기술 및 동반 질환 관리에도 최적화된 고용량 ICS-LABA로 조절되지 않거나, 이를 감량하면 악화되는 천식</td></tr></tbody></table>
+<table><thead><tr><th width="119">구분</th><th>정의</th></tr></thead><tbody><tr><td><strong>경증 천식</strong></td><td>필요시 ICS-formoterol 또는 저용량 ICS 등 Step 1~2 치료로 조절</td></tr><tr><td><strong>중등증 천식</strong></td><td>저용량 <a href="071_-asthma.md#mart-maintenance-and-reliever-therapy">MART</a> 또는 저·중간용량 ICS-LABA 등 Step 3~4 치료로 조절</td></tr><tr><td><strong>중증 천식</strong></td><td>올바른 진단, 양호한 순응도·흡입 기술 및 동반 질환 관리에도 최적화된 고용량 ICS-LABA로 조절되지 않거나, 이를 감량하면 악화되는 천식</td></tr></tbody></table>
 
 {% hint style="warning" %}
 장기 천식 중증도와 급성 악화 중증도는 별개임. 평소 경증 천식 환자도 중증 또는 치명적 악화를 경험할 수 있음. '경증 천식'이라는 표현은 저위험으로 오인되어 SABA 단독 치료로 이어질 수 있으므로 환자 설명 시 사용을 피함
@@ -351,6 +351,56 @@
 ***
 
 ```mermaid
+flowchart TD
+    Start["천식 의심<br/>만성 또는 반복적인 <br/>호흡기 증상"]
+    Q1["천식의 전형적인<br/>증상인가?"]
+    Q2["병력 및 신체검사 결과가<br/>천식 진단에 합당한가?"]
+    Q3["환자가 이미 ICS를 포함한<br/>치료를 하고 있는가?"]
+    Q4["중증 급성 악화 또는<br/>아나필락시스 징후가 있는가?"]
+    Q5["Spirometry 또는 PEF<br/>검사가 가능한가?"]
+    Q6["기관지확장제 전후 <br/>spirometry 또는 PEF<br/>가변적 호기 기류 제한이 <br/>확인되는가?"]
+    Q7["대체 진단이<br/>확인되는가?"]
+    Q8["1~3개월 후 치료 반응 평가<br/>(PEF 또는 spirometry 포함)<br/>증상 및 폐 기능이 <br/>호전되는가?"]
+    Step1["ICS 사용 중인 환자에서의<br/>진단 접근"]
+    Empirical["다른 진단 가능성이 낮으면<br/>경험적 ICS-containing 치료"]
+    Urgent["급성 악화 치료를 시작하면서<br/>즉시 응급 이송"]
+    Repeat["증상 시 반복 검사<br/>·기관지유발검사<br/>바이오마커·대체 진단 검토"]
+    Q9["재평가 후 가변적 호기<br/>기류 제한이 확인되는가?"]
+    ResultAsthma2["천식으로 치료 지속"]
+    ResultAlt["대체 진단 치료"]
+    Refer["상급 의뢰"]
+    Refer2["상급 의뢰"]
+    ResultAsthma3["천식으로 치료<br/>ICS-containing Tx."]
+    Start --> Q4
+    Q4 -- "예" --> Urgent
+    Q4 -- "아니오" ---> Q1
+    Q1 -- "예" --> Q2
+    Q1 -- "아니오" --> Q7
+    Q2 -- "예" --> Q3
+    Q2 -- "아니오" --> Q7
+    Q7 -- "아니오" --> Q5
+    Q7 -- "예" --> ResultAlt
+    Q3 -- "예" --> Step1
+    Q3 -- "아니오" --> Q5
+    Q5 -- "아니오" --> Empirical
+    Q5 -- "예" --> Q6
+    Q6 -- "예" --> ResultAsthma3
+    Q6 -- "아니오" --> Repeat
+    Repeat --> Q9
+    Q9 -- "예" --> ResultAsthma3
+    Q9 -- "아니오" --> Refer
+    Empirical --> Q8
+    Q8 -- "예" --> ResultAsthma2
+    Q8 -- "아니오" --> Refer2
+    classDef question fill:#fff9c4,stroke:#ffe082
+    classDef red fill:#ffcdd2,stroke:#c62828,stroke-width:1px
+    classDef green fill:#e8f8e8,stroke:#4caf50
+    class Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9 question
+    class Urgent,Refer,Refer2 red
+    class Step1,Repeat,Empirical,ResultAlt green
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
+    style ResultAsthma2 fill:#f96,stroke:#e65100,stroke-width:2px
+    style ResultAsthma3 fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
 <p align="center"><strong>천식 진단 알고리듬</strong></p>
@@ -368,53 +418,76 @@
 
 #### <mark style="color:$primary;">천식 관리 주기 (Assess → Adjust → Review)</mark>
 
-***
-
-```mermaid
-```
-
-<p align="center"><strong>개별화된 천식 관리 주기</strong></p>
-
-<p align="center"><em><mark style="color:$info;">GINA 2026 Box 3-3 및 대한결핵 및 호흡기학회 천식 진료지침 2026 그림 4-2(p.94)에 근거한 한글 재구성.</mark></em></p>
-
-***
-
 1. **평가(Assess)** : 필요시 진단을 재확인하고, 증상 조절과 향후 악화·폐 기능 저하·약물 부작용의 위험, 동반 질환, 흡입기 사용법·치료 순응도, 환자 및 부모·돌봄제공자의 선호와 목표를 평가
 2. **치료 조정(Adjust treatment)** : 평가 결과에 따라 교정 가능한 위험 인자와 동반 질환을 관리하고, 비-약물 전략과 ICS 포함 약물 치료를 조정
-   * 모든 환자에게 흡입기 사용법·자가 관리 교육과 기술 훈련을 제공하고, 처방된 완화제에 맞는 **서면 천식 행동계획**을 작성·갱신
+   * 모든 환자에게 흡입기 사용법·자가 관리 교육과 기술 훈련을 제공하고, 처방된 완화제에 맞는 서면 천식 행동계획을 작성·갱신
 3. **치료 반응 검토(Review response)** : 증상, 악화, 부작용, 동반 질환, 폐 기능 및 환자·부모·돌봄제공자의 만족도를 재평가하여 다음 치료에 반영
-   * 천식이 계속 조절되지 않으면 **제2형 염증 바이오마커(혈중 호산구, FeNO 등) 평가를 고려**하고, 필요시 추가 검사·의뢰. 모든 환자에게 매 방문마다 일률적으로 검사한다는 의미는 아님
-   * 치료 시작 **1\~3개월 후**, 이후 **3\~12개월 간격**으로 추적하되 조절 상태·위험도에 따라 앞당김. 급성 악화 후에는 **1주 이내** 재평가(구체적 연령별 일정은 급성 악화·모니터링 항목 참조)
+   * 천식이 계속 조절되지 않으면 제2형 염증 바이오마커(혈중 호산구, FeNO 등) 평가를 고려하고, 필요시 추가 검사·의뢰. 모든 환자에게 매 방문마다 일률적으로 검사한다는 의미는 아님
+   * 치료 시작 1\~3개월 후, 이후 3\~12개월 간격으로 추적하되 조절 상태·위험도에 따라 앞당김. 급성 악화 후에는 1주 이내 재평가(구체적 연령별 일정은 급성 악화·모니터링 항목 참조)
+
+```mermaid
+flowchart LR
+    Assess["`<b><u>1. 평가·ASSESS</b></u>
+•진단·증상 조절·향후 위험
+•동반 질환·흡입 기술·순응도
+•환자·부모·돌봄제공자의 <br/>선호와 목표`"]
+    Adjust["`<b><u>2. 치료 조정·ADJUST</b></u>
+•위험 인자·동반 질환 관리
+•비약물전략·ICS포함 약물치료
+•교육·기술훈련·서면 행동계획`"]
+    Review["`<b><u>3. 반응 검토·REVIEW</b></u>
+•증상·악화·부작용·동반 질환<br/>·폐 기능
+•환자·부모·돌봄제공자의 <br/>만족도
+•조절 불량 지속 시 <br/>T2 바이오마커 평가 고려`"]
+    Assess --> Adjust
+    Adjust --> Review
+    Review -->|반응과 목표에 따라 반복| Assess
+    classDef assess fill:#eaf4f8,stroke:#146d8a,color:#16384d,stroke-width:2px
+    classDef adjust fill:#fff5e7,stroke:#b66612,color:#58320a,stroke-width:2px
+    classDef review fill:#edf6f1,stroke:#28634f,color:#194333,stroke-width:2px
+    class Assess assess
+    class Adjust adjust
+    class Review review
+```
+
+<p align="center"><strong>개별화된 천식 관리 주기</strong><br><em><mark style="color:$info;">Ref. GINA 2026 Box 3-3; 대한결핵 및 호흡기학회 천식 진료지침 2026 그림 4-2</mark></em></p>
 
 {% hint style="info" %}
-**재평가 시점의 구분**: GINA 2026 Box 4-4와 국내 지침 표 4-4(p.96)의 초기 치료 반응 검토는 **2\~3개월 후 또는 임상적 긴급도에 따라 더 일찍** 시행하도록 제시되어 있음. 이는 일반적인 추적 방문 권고인 **치료 시작 1\~3개월 후**와 상충하지 않음. 폐활량검사는 진단 시, 치료 시작 3\~6개월 후 및 이후 주기적으로 시행하며, 증상 악화·진단 불확실 시에는 더 일찍 검사
+**재평가 시점의 구분** : GINA 2026 Box 4-4와 국내 지침 표 4-4의 초기 치료 반응 검토는 **2\~3개월 후 또는 임상적 긴급도에 따라 더 일찍** 시행하도록 제시되어 있음. 이는 일반적인 추적 방문 권고인 치료 시작 1\~3개월 후와 상충하지 않음. 폐활량검사는 ① 진단 시, ② 치료 시작 3\~6개월 후,  ③ 이후 주기적으로 시행하며, 증상 악화·진단 불확실 시에는 더 일찍 검사
 {% endhint %}
 
 #### <mark style="color:$primary;">교육</mark>
 
-* 진단 시, 치료·흡입기 변경 시, 악화로 내원하거나 응급실·입원 치료 후 퇴실할 때, 그리고 매 추적 방문에서 교육을 반복. 환자·보호자와 목표를 함께 정하고 이해한 내용을 환자가 다시 설명하게 하며 확인
-* 모든 환자에게 흡입제 교육 시행; 유지제로 처방된 조절제는 증상이 없어도 지속하도록 격려; AIR-only는 증상 시 사용법과 당일 진료가 필요한 흡입 횟수 기준을 교육; 서면 행동계획 제공
+* ① 진단 시, ② 치료·흡입기 변경 시, ③ 악화로 내원하거나 응급실·입원 치료 후 퇴실할 때, 그리고 ④ 매 추적 방문에서 교육을 반복
+  * 환자·보호자와 목표를 함께 정하고 이해한 내용을 환자가 다시 설명하게 하며 확인
+* 모든 환자에게 흡입제 교육 시행
+  * 유지제로 처방된 조절제는 증상이 없어도 지속하도록 격려
+  * AIR-only(Anti-inflammatory reliever only) : 매일 쓰는 유지 흡입제 없이 저용량 ICS-formoterol을 '증상이 있을 때만 사용'하는 요법. 흡입할 때마다 ICS가 함께 투여되어 SABA 단독 완화제보다 중증 악화를 줄임 (☞ [완화제](071_-asthma.md#reliever))
+    * 예: 증상 시 1 puff, 수분 후에도 증상이 지속되면 1 puff 추가; 운동·알레르겐 노출 전에도 사용 가능
+  * 서면 행동계획 제공
 * 치료 선택은 환자 선호, 흡입기 조작 능력, 국내 사용 가능 여부, 비용을 고려해 공동 의사결정으로 정함
-* 서면 행동계획에는 현재 유지제·완화제와 용법, 조절 악화의 신호, 완화제·유지제 증량 기준, 경구 스테로이드 시작 기준, 응급 진료가 필요한 기준을 포함. AIR/MART 환자는 SABA 대신 ICS-formoterol 사용 횟수를 늘리도록 별도로 작성
+* 서면 행동계획에는 현재 유지제·완화제와 용법, 조절 악화의 신호, 완화제·유지제 증량 기준, 경구 스테로이드 시작 기준, 응급 진료가 필요한 기준을 포함. [AIR/MART](071_-asthma.md#undefined-44) 적용 환자는 SABA 대신 ICS-formoterol 사용 횟수를 늘리도록 별도로 작성
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
 ### <mark style="color:orange;">위험 인자 관리</mark>
 
-* 일률적인 알레르겐 회피 조치는 권고하지 않음 (시행이 어렵고 효과가 제한적)
+* 일률적인 알레르겐 회피 조치는 권고하지 않음 - 시행이 어렵고 효과가 제한적
 * 증상이 있는 환자에서 피부 반응 검사 또는 특정 IgE Ab 검사로 입증된 알레르겐을 피함
 
 #### <mark style="color:$primary;">실내 알레르겐 회피 방법</mark>
 
 * 집먼지진드기 : 침구류는 매주 뜨거운(60℃) 물에 세탁하여 열로 건조, 베개/매트리스 밀폐 커버 사용, HEPA 필터 장착 청소기, 카펫 제거(특히 침실)
-* 곰팡이 : 누수·습기 원인을 우선 수리하고 적절한 환기·보호구를 사용해 제거; 광범위하면 전문 제거 고려, 실내 습도 ＜50% 유지
+* 곰팡이 : 누수·습기 원인을 우선 수리하고 적절한 환기·보호구를 사용해 제거, 실내 습도 ＜50% 유지
+  * 광범위하면 전문 제거 고려
 * 바퀴벌레 : 구제, 음식물 노출 금지, 누수 처리
-* 애완동물 비듬 : 침실 출입 금지, 자주 목욕, HEPA 필터; 동물 키우기 중단 후 알레르겐 감소에 수개월 소요
+* 애완동물 비듬 : 침실 출입 금지, 자주 목욕, HEPA 필터
+  * 동물 키우기 중단 후 알레르겐 감소에 수개월 소요
 
 #### <mark style="color:$primary;">대기 오염/실외 알레르겐 회피</mark>
 
 * 담배 연기, 먼지 회피
-* 꽃가루·곰팡이 농도 높을 때 창문 차단, 실내 공기 청정기 사용
+* 꽃가루·곰팡이 농도가 높을 때 창문 차단, 실내 공기 청정기 사용
 * 심한 추위/건조/대기 오염 시 야외 활동 자제; 외출 시 KF80 이상 마스크
 * 직업적 노출 회피
 * 폭염, 산불 연기, 황사, 고농도 꽃가루 등 극한 기상 시 예보를 확인해 실외 활동을 줄이고, 서면 행동계획에 따라 치료를 조정
@@ -423,80 +496,110 @@
 
 * 유발 약물 복용 후 보통 30\~120분 후 콧물, 코막힘, 기관지 연축 발생
 * NSAID, aspirin : 이상 반응이 있었던 경우 외에는 금기 아님
-* 점안액을 포함하여 [β-차단제](../225_/095_-hypertension.md#v-v-adrenergic-receptor-blocker-bb) 주의. 심장선택적 β₁-차단제도 무조건 안전한 것은 아니지만, 명확한 심혈관 적응증이 있으면 천식이 절대 금기는 아니며 저용량부터 면밀히 관찰하며 사용
+* 점안액을 포함하여 β-차단제 주의
+  * 심장선택적 β₁-차단제도 무조건 안전한 것은 아니지만, 명확한 심혈관 적응증이 있으면 천식이 절대 금기는 아니며 저용량부터 면밀히 관찰하며 사용
 
 #### <mark style="color:$primary;">동반 질환 관리</mark>
 
-* [GERD](../224_/081_-gerd.md) : 천식 환자에서 유병률 높음; β-작용제, 테오필린 등이 하부 식도 괄약근 이완 가능; GERD 증상 있으면 관리
-* [불안](../221_/025_-anxiety-disorder.md), [우울증](../221_/027_-depression.md) : 천식 환자에서 유병률 높음; 급성 악화의 위험 인자; 정신 건강 평가 및 관리
+* GERD : 천식 환자에서 유병률 높음; β-작용제, 테오필린 등의 천식 치료 약제가 하부 식도 괄약근 이완 가능
+  * GERD 증상 있으면 관리
+* 불안, 우울증 : 천식 환자에서 유병률이 높으며, 급성 악화의 위험 인자임
+  * 정신 건강 평가 및 관리
 * 비염, 비부비동염 : [비강 스테로이드](../222_/051_-allergic-rhinitis.md) 등으로 함께 치료(비염 증상 개선); 천식 조절 개선 효과는 제한적
-* 비만 : 적정 체중 유지; 5\~10% 체중 감량으로도 천식 조절에 도움
+* 비만 : 5\~10% 체중 감량으로도 천식 조절에 도움; 적정 체중 유지를 목표로 관리
 
 ### <mark style="color:orange;">급성 악화를 줄이기 위한 위험 인자 관리 방법</mark>
 
-* 악화 위험 인자(증상 조절 불량 포함)가 하나 이상 있는 모든 환자
-  * ICS(흡입 스테로이드) 포함 치료를 처방
-  * 가능하다면 항염증성 완화제(ICS-formoterol 또는 ICS-SABA) 요법으로 변경 - SABA 단독 완화제보다 중증 악화 위험을 줄임
-  * 환자의 건강 문해력에 맞는 서면 행동계획(action plan)을 제공
-  * 저위험 환자보다 더 자주 추적 관찰
-  * 흡입기 사용법과 복약 순응도를 자주 점검하고 교정
-  * 수정 가능한 위험 인자를 확인하고 관리
-* 지난 1년간 중증 악화 ≥1회
-  * 가능하다면 항염증성 완화제(필요시 ICS-formoterol 또는 ICS-SABA) 요법으로 변경
-  * 수정 가능한 위험인자가 없으면 치료 단계(step-up) 고려
-  * 악화를 유발할 수 있는 회피 가능한 요인 확인
-* 담배 연기 또는 전자담배 노출
-  * 환자 및 가족에게 금연을 적극 권장하고, 상담 및 지원 자원 제공
-  * 천식 조절이 불량하면 ICS 용량 상향 고려
-* FEV₁ 저하(특히 예측치 ＜60%)
-  * 복약 순응도 및 흡입기 사용법 문제 해결
-  * 3개월간 고용량 ICS 치료 시도 고려
-  * COPD 등 다른 폐질환 배제
-  * 호전 없으면 전문가 자문
-* 비만
-  * 체중 감량 전략 제공
-  * 탈조건화, 기계적 제한, 수면무호흡 등으로 인한 증상과 천식 증상 구분
-* 주요 심리적 문제
-  * 정신건강 평가 시행
-  * 불안 증상과 천식 증상 구분하도록 돕고, 공황발작 관리에 대한 조언 제공
-* 주요 사회경제적 문제
-  * 지역 비용에 맞는 가장 비용 효율적인 ICS 기반 요법 선택
-  * 흡입기 사용법 최적화로 약물 효과 극대화
-* 음식 알레르기 확인된 경우
-  * 적절한 음식 회피, 아나필락시스 행동계획 수립, 에피네프린 주사기 처방, 전문가 자문
-* 직업적 또는 가정 내 자극물 노출
-  * 가능한 한 빨리 노출 제거
-  * 전문가 자문
-* 알레르겐 감작된 경우
-  * 효과 근거가 있는 경우 단순 회피 전략 시도(비용 고려)
-  * 회피 불가능 시 천식 치료 단계 상향 고려
-  * 알레르기비염이 동반되고 FEV₁이 예측치의 ＞70%인 성인 또는 청소년 HDM(집먼지진드기) 감작 천식 환자에서, ICS 치료에도 악화가 있으면 SLIT(설하면역요법) 추가 고려
-* 중등도/고용량 ICS 사용에도 객담 호산구증 지속
-  * 증상 조절 수준과 관계없이 ICS 용량 증량
+**악화 위험 인자(증상 조절 불량 포함)가 하나 이상 있는 모든 환자**
+
+* ICS(흡입 스테로이드) 포함 치료를 처방
+* 가능하다면 항염증성 완화제(ICS-formoterol 또는 ICS-SABA) 요법으로 변경 - SABA 단독 완화제보다 중증 악화 위험을 줄임
+* 환자의 건강 문해력에 맞는 서면 행동계획(action plan)을 제공
+* 저위험 환자보다 더 자주 추적 관찰
+* 흡입기 사용법과 복약 순응도를 자주 점검하고 교정
+* 수정 가능한 위험 인자를 확인하고 관리
+
+**지난 1년간 중증 악화 ≥1회**
+
+* 가능하다면 항염증성 완화제(필요시 ICS-formoterol 또는 ICS-SABA) 요법으로 변경
+* 수정 가능한 위험인자가 없으면 치료 단계(step-up) 고려
+* 악화를 유발할 수 있는 회피 가능한 요인 확인
+
+**담배 연기 또는 전자담배 노출**
+
+* 환자 및 가족에게 금연을 적극 권장하고, 상담 및 지원 자원 제공
+* 천식 조절이 불량하면 ICS 용량 상향 고려
+
+**FEV₁ 저하(특히 예측치 ＜60%)**
+
+* 복약 순응도 및 흡입기 사용법 문제 해결
+* 3개월간 고용량 ICS 치료 시도 고려
+* COPD 등 다른 폐질환 배제
+* 호전 없으면 전문가 자문
+
+**비만**
+
+* 체중 감량 전략 제공
+* 탈조건화, 기계적 제한, 수면무호흡 등으로 인한 증상과 천식 증상 구분
+
+**주요 심리적 문제**
+
+* 정신건강 평가 시행
+* 불안 증상과 천식 증상 구분하도록 돕고, 공황발작 관리에 대한 조언 제공
+
+**주요 사회경제적 문제**
+
+* 지역 비용에 맞는 가장 비용 효율적인 ICS 기반 요법 선택
+* 흡입기 사용법 최적화로 약물 효과 극대화
+
+**음식 알레르기 확인된 경우**
+
+* 적절한 음식 회피, 아나필락시스 행동계획 수립, 에피네프린 주사기 처방, 전문가 자문
+
+**직업적 또는 가정 내 자극물 노출**
+
+* 가능한 한 빨리 노출 제거
+* 전문가 자문
+
+**알레르겐 감작된 경우**
+
+* 효과 근거가 있는 경우 단순 회피 전략 시도(비용 고려)
+* 회피 불가능 시 천식 치료 단계 상향 고려
+* 알레르기비염이 동반되고 FEV₁이 예측치의 ＞70%인 성인 또는 청소년 HDM(집먼지진드기) 감작 천식 환자에서, ICS 치료에도 악화가 있으면 SLIT(설하면역요법) 추가 고려
+
+**중등도/고용량 ICS 사용에도 객담 호산구증 지속**
+
+* 증상 조절 수준과 관계없이 ICS 용량 증량
 
 ### <mark style="color:orange;">면역 치료, 예방접종 및 생활 관리</mark>
 
 #### <mark style="color:$primary;">면역 치료 (Allergen-specific immunotherapy)</mark>
 
-* 임상적으로 관련된 알레르겐 감작과 노출-증상 연관성이 있는 안정된 천식에서 전문가가 선택적으로 고려. 급성 악화 또는 조절되지 않는 천식에서는 시작하지 않으며 먼저 천식을 안정화
-* SCIT(피하면역치료)는 증상·약물 요구량을 줄일 수 있으나 전신 반응·아나필락시스 위험이 있어 대응 가능한 기관에서 시행
-* HDM-SLIT(집먼지진드기 설하면역치료)는 알레르기비염 동반, HDM 감작, ICS 치료에도 증상이 남는 환자에서 고려. 성인·청소년은 FEV₁ ＞70% 예측치를 확인하고 제품별 연령·허가 범위를 적용; 구강·위장관 국소 이상반응 설명 <mark style="color:$info;">\[천식 진료지침 2026; GINA 2026]</mark>
+* 임상적으로 관련된 알레르겐 감작과 노출-증상 연관성이 있는 안정된 천식에서 전문가가 선택적으로 고려
+  * 급성 악화 또는 조절되지 않는 천식에서는 시작하지 않으며 먼저 천식을 안정화시킴
+* SCIT(Subcutaneous Immunotherapy) : 증상·약물 요구량을 줄일 수 있으나 전신 반응·아나필락시스 위험이 있어 대응 가능한 기관에서 시행
+* HDM-SLIT(House Dust Mite Sublingual Immunotherapy) : 알레르기비염 동반, HDM 감작, ICS 치료에도 증상이 남아 있는 환자에서 고려
+  * 성인·청소년은 FEV₁ ＞70% 예측치를 확인하고 제품별 연령·허가 범위를 적용
+  * 구강·위장관 국소 이상반응 설명
 
 #### <mark style="color:$primary;">영양 요법</mark>
 
-* 마그네슘 : 경구 마그네슘 보충이 천식 조절에 도움이 된다는 근거는 없음. MgSO₄ 2 g 정맥주사는 초기 집중치료에 충분히 반응하지 않는 일부 중증 급성 악화에서만 고려
-* Vit D : 부족 시 폐 기능 저하, 악화 빈도 증가 가능성; Vit D 공급이 천식에 도움이 된다는 증거는 없음
+* 마그네슘 : 경구 마그네슘 보충이 천식 조절에 도움이 된다는 근거는 없음
+  * MgSO₄ 2 g 정맥주사는 초기 집중치료에 충분히 반응하지 않는 일부 중증 급성 악화에서만 고려
+* Vit D : 부족 시 폐 기능 저하, 악화 빈도 증가, 스테로이드 반응 저하와 연관
+  * 기저 25(OH)D ＜25\~30 nmol/L(약 10\~12 ng/㎖)의 결핍 환자에서는 보충으로 전신 스테로이드가 필요한 악화 감소·증상 조절 개선 가능성이 있으나, 결핍이 없는 천식 환자 전반(특히 미취학 소아)에서는 효과 근거가 부족 <mark style="color:$info;">\[GINA 2026]</mark>
 * 과일·채소가 풍부한 식단 권장
 
 #### <mark style="color:$primary;">예방접종</mark>
 
-* 인플루엔자 백신 : 접종 가능한 연령의 천식 환자에게 매년 접종 권고. 국내 2026 천식 지침은 중등증·중증에서 권고를 강조하나, 경증 또는 조절이 양호한 천식도 인플루엔자 합병증 고위험군임. 접종 권고와 국내 국가예방접종 지원 대상을 구분; 비강 생백신은 천식·쌕쌕거림 병력에 따른 연령별 금기·주의를 별도 적용
-* 폐렴구균·백일해·RSV·COVID-19 백신 : 연령, 임신, 기저질환 등 국내 예방접종 지침에 따라 접종 <mark style="color:$info;">\[GINA 2026]</mark> (☞ [예방접종](../231_/210_-vaccination.md))
+* 인플루엔자 백신 : 접종 가능한 연령의 천식 환자에게 매년 접종 권고
+  * 비강 생백신은 천식·쌕쌕거림 병력에 따른 연령별 금기·주의를 별도 적용
+* 폐렴구균·백일해·RSV·COVID-19 백신 : 연령, 임신, 기저질환 등 예방접종 지침에 따라 접종
 
 #### <mark style="color:$primary;">운동/육체 활동</mark>
 
 * 규칙적인 운동 (예: 수영)
-* 호흡·이완 운동 : 증상과 삶의 질 개선을 위한 보조요법으로 고려할 수 있으나 폐 기능 개선·악화 예방 효과는 입증되지 않음; ICS 포함 치료를 대체하지 않음 <mark style="color:$info;">\[천식 진료지침 2026, p.92]</mark>
+* 호흡·이완 운동 : 증상과 삶의 질 개선을 위한 보조요법으로 고려할 수 있으나 폐 기능 개선·악화 예방 효과는 입증되지 않음
 * 요가 : 일부 연구에서 효과
 * 호흡재활 프로그램 : 운동 능력 저하나 호흡곤란이 지속되는 환자에서 고려
 
@@ -507,41 +610,43 @@
 ### <mark style="color:orange;">흡입 도구 (Inhaler device)</mark>
 
 * 흡입제 : 전신 부작용을 최소화하면서 고농도의 약제를 기도 점막에 투여할 수 있음
-* 흡입 도구 종류 : pMDI, breath-actuated pMDI, DPI, soft mist inhaler, nebulizer. 기기는 연령만으로 정하지 않고 흡입 협응·흡기 유속·인지 및 조작 능력을 실제 시연하여 선택. 어린 소아는 pMDI+spacer와 필요시 밀착 마스크를 사용 (☞ 흡입제 사용법: [의약품안전나라](https://nedrug.mfds.go.kr/pbp/CCBFC03/getItem?tchmtrId=SU201911240021), [아산병원](https://www.youtube.com/watch?v=a810wpL3rAM))
+* 흡입 도구 종류 : pMDI, breath-actuated pMDI, DPI, soft mist inhaler, nebulizer
+  * 기기는 연령만으로 정하지 않고 흡입 협응·흡기 유속·인지 및 조작 능력을 실제 시연하여 선택
+  * 어린 소아는 pMDI+spacer와 필요시 밀착 마스크를 사용 (☞ 흡입제 사용법: [의약품안전나라](https://nedrug.mfds.go.kr/pbp/CCBFC03/getItem?tchmtrId=SU201911240021), [아산병원](https://www.youtube.com/watch?v=a810wpL3rAM))
+
+**MDI (metered-dose inhaler, 정량 흡입기)**
+
+* 용법 : 천천히(5초간) 흡입 후 5\~10초간 호흡 정지
+* 서스펜션 제형 pMDI(salbutamol, budesonide-formoterol 등)는 매 흡입(puff) 직전마다 흔듦 (☞ 급성 악화 치료 시작)
+* pMDI : 잘못된 사용이 많으므로 사용법을 교육하고 방문 시마다 확인
+* spacer : MDI를 제대로 사용하지 못하는 경우의 보조 기구; puff 당 5\~10회 또는 30초간 호흡
+* breath-actuated MDI : 호흡에 따라 분무; pMDI를 잘 사용하지 못하는 환자에 적용
+
+**DPI (dry powder inhaler)**
+
+* pMDI보다 사용이 용이하지만 충분한 흡입력 필요
+
+**Nebulized aerosol**
+
+* 경증\~중등증 급성 악화에서는 pMDI+spacer와 폐 기능 개선 효과가 비슷하며, 협조가 어렵거나 중증으로 충분한 흡입이 어려운 경우 등에 고려; 가능하면 마스크보다 마우스피스 사용
+* 스테로이드·ipratropium 분무 시 약제가 눈에 닿지 않도록 주의; 분무 후 코/입 주변 세척
 
 #### <mark style="color:$primary;">환자 상황별 흡입기 선택 전략</mark>
 
-<table><thead><tr><th width="238.4210205078125">환자 상황</th><th>흡입기 선택 원칙</th></tr></thead><tbody><tr><td>손-흡입 동작의 협응이 어려움</td><td>pMDI+spacer, breath-actuated MDI 또는 사용 가능한 soft mist inhaler 고려</td></tr><tr><td>흡기 유속이 불충분함</td><td>DPI를 피하고 pMDI+spacer 또는 필요시 nebulizer 고려</td></tr><tr><td>악력·인지·시력 저하</td><td>환자가 실제로 조작 가능한 기기를 시연 후 선택하고 보호자 도움 여부 확인</td></tr><tr><td>흡기 유속과 조작 능력이 충분함</td><td>DPI, pMDI 또는 soft mist inhaler 중 환자 선호·비용·환경 영향을 고려</td></tr><tr><td>모든 환자</td><td>처방 전 직접 사용하게 하고 매 방문 시 흡입 기술 재확인</td></tr></tbody></table>
+<table><thead><tr><th width="238.4210205078125">환자 상황</th><th>흡입기 선택 원칙</th></tr></thead><tbody><tr><td><strong>손-흡입 동작의 협응이 어려움</strong></td><td>pMDI+spacer, breath-actuated MDI 또는 사용 가능한 soft mist inhaler 고려</td></tr><tr><td><strong>흡기 유속이 불충분함</strong></td><td>DPI를 피하고 pMDI+spacer 또는 필요시 nebulizer 고려</td></tr><tr><td><strong>악력·인지·시력 저하</strong></td><td>환자가 실제로 조작 가능한 기기를 시연 후 선택하고 보호자 도움 여부 확인</td></tr><tr><td><strong>흡기 유속과 조작 능력이 충분함</strong></td><td>DPI, pMDI 또는 soft mist inhaler 중 환자 선호·비용·환경 영향을 고려</td></tr><tr><td><strong>모든 환자</strong></td><td>처방 전 직접 사용하게 하고 매 방문 시 흡입 기술 재확인</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">흡입기 교육·재점검 절차</mark>
 
 <table><thead><tr><th width="110">단계</th><th>진료실에서 할 일</th></tr></thead><tbody><tr><td><strong>선택</strong></td><td>사용 가능한 약제·기기, 흡기 유속·협응·손 기능·인지, 선호·비용을 함께 평가. 가능하면 서로 다른 사용법의 기기가 섞이지 않도록 단순화하고, pMDI에는 spacer 사용을 고려</td></tr><tr><td><strong>관찰</strong></td><td>“사용할 수 있습니까?”라고 묻는 데 그치지 않고 환자에게 실제로 흡입하는 모습을 보여 달라고 요청. 기기별 점검표로 중요한 오류를 확인</td></tr><tr><td><strong>교정</strong></td><td>의료진이 모형으로 시연한 뒤 환자가 다시 시행하게 하여 문제 동작을 중심으로 2~3회 반복 확인. 반복 교육 후에도 사용이 어려우면 다른 기기로 변경</td></tr><tr><td><strong>재확인</strong></td><td>매 방문·처방 변경 시 점검. 처음 교육 후 4~6주 이내에도 사용 오류가 다시 생길 수 있어 조기 재확인. 의사·간호사·약사도 처방 기기를 정확히 시연할 수 있어야 함</td></tr></tbody></table>
 
-* 순응도는 비난하지 않는 열린 질문으로 확인하고, **유지제로 처방된 약**의 최근 사용일수·누락 이유, 처방·조제 간격 및 흡입기 잔량을 함께 확인
+<p align="center"><em><mark style="color:$info;">Ref. 대한결핵 및 호흡기학회. 천식 진료지침 2026. 표 8-3·8-4</mark></em></p>
+
+* 순응도는 비난하지 않는 열린 질문으로 확인하고, 유지제로 처방된 약의 최근 사용일수·누락 이유, 처방·조제 간격 및 흡입기 잔량을 함께 확인
 * 비용, 부작용에 대한 걱정, 증상이 없으면 치료가 불필요하다는 인식, 잊어버림, 복잡한 처방, 기기 조작의 어려움 등 원인에 맞추어 해결. AIR-only를 처방받은 환자를 매일 사용하지 않았다는 이유만으로 불순응으로 판단하지 않음
-
-<p align="center"><em><mark style="color:$info;">대한결핵 및 호흡기학회. 천식 진료지침 2026. 표 8-3·8-4, pp.184-185 요약·재구성.</mark></em></p>
-
-#### <mark style="color:$primary;">MDI (metered-dose inhaler, 정량 흡입기)</mark>
-
-* 용법 : 천천히(5초간) 흡입 후 5\~10초간 호흡 정지
-* 서스펜션 제형 pMDI(salbutamol, budesonide-formoterol 등)는 **매 흡입(puff) 직전마다** 흔듦 (☞ 급성 악화 치료 시작)
-* pMDI : 잘못된 사용이 많으므로 사용법을 교육하고 방문 시마다 확인
-* spacer : MDI를 제대로 사용하지 못하는 경우의 보조 기구; puff 당 5\~10회 또는 30초간 호흡
-* breath-actuated MDI : 호흡에 따라 분무; pMDI를 잘 사용하지 못하는 환자에 적용
-
-#### <mark style="color:$primary;">DPI (dry powder inhaler)</mark>
-
-* pMDI보다 사용이 용이하지만 충분한 흡입력 필요
-
-#### <mark style="color:$primary;">Nebulized aerosol</mark>
-
-* 경증\~중등증 급성 악화에서는 pMDI+spacer와 폐 기능 개선 효과가 비슷하며, 협조가 어렵거나 중증으로 충분한 흡입이 어려운 경우 등에 고려; 가능하면 마스크보다 마우스피스 사용
-* 스테로이드·ipratropium 분무 시 약제가 눈에 닿지 않도록 주의; 분무 후 코/입 주변 세척
 
 ### <mark style="color:orange;">치료제 종류</mark>
 
-<table><thead><tr><th width="144.21051025390625">구분</th><th width="240">특징</th><th>종류</th></tr></thead><tbody><tr><td>ICS 포함 치료</td><td>• 기도 염증 완화, 증상 조절, 악화·사망 위험 감소<br>• 유지제로 매일 사용하거나 AIR로 필요시 사용</td><td>• ICS<br>• ICS-LABA<br>• ICS-LABA-LAMA<br>• 저용량 ICS-formoterol AIR/MART</td></tr><tr><td>추가 조절제</td><td>• 중간·고용량 ICS-LABA에도 조절되지 않을 때 선택적으로 추가</td><td>• LAMA<br>• LTRA<br>• 생물학적 제제<br>• 유지 OCS는 최후 수단</td></tr><tr><td>완화제</td><td>• 증상 발생 시 사용<br>• 항염증성 완화제 선호</td><td>• 저용량 ICS-formoterol(선호)<br>• ICS-SABA<br>• SABA(ICS 포함 유지치료와 병용)</td></tr></tbody></table>
+<table><thead><tr><th width="128">구분</th><th>특징</th><th>종류</th></tr></thead><tbody><tr><td><strong>ICS 포함 치료</strong></td><td>• 기도 염증 완화, 증상 조절, 악화·사망 위험 감소<br>• 유지제로 매일 사용하거나 AIR로 필요시 사용</td><td>• ICS<br>• ICS-LABA<br>• ICS-LABA-LAMA<br>• 저용량 ICS-formoterol AIR/MART</td></tr><tr><td><strong>추가 조절제</strong></td><td>• 중간·고용량 ICS-LABA에도 조절되지 않을 때 선택적으로 추가</td><td>• LAMA<br>• LTRA<br>• 생물학적 제제<br>• 유지 OCS는 최후 수단</td></tr><tr><td><strong>완화제</strong></td><td>• 증상 발생 시 사용<br>• 항염증성 완화제 선호</td><td>• 저용량 ICS-formoterol(선호)<br>• ICS-SABA<br>• SABA(ICS 포함 유지치료와 병용)</td></tr></tbody></table>
 
 {% hint style="danger" %}
 경구 SABA·경구 LABA와 theophylline은 흡입치료보다 효과가 낮고 전신 부작용 위험이 커 GINA에서 권고하지 않음. Fenoterol은 저칼륨혈증·심혈관 부작용 및 천식 사망 위험과 관련되어 권고하지 않음
@@ -549,36 +654,16 @@
 
 #### <mark style="color:$primary;">흡입 스테로이드 (Inhaled corticosteroid, ICS)</mark>
 
-* 지속성 천식에서 가장 효과적인 약물; 가능한 한 모든 천식 환자에서 진단 초기부터 사용 권고
 * 작용 : 항염, 기도 과민성 개선, 폐 기능 개선, 증상 감소, 삶의 질 호전, 악화/사망 위험 감소
-* 흡연자에서는 효능이 감소할 수 있어 금연·흡입 기술·순응도를 먼저 점검하고 필요시 치료를 조정. 증상·폐 기능의 호전은 수일 내 시작되지만 충분한 효과는 3\~4개월 이후에 나타날 수 있음 <mark style="color:$info;">\[천식 진료지침 2026, p.107]</mark>
+* 지속성 천식에서 가장 효과적인 약물
+* 가능한 한 모든 천식 환자에서 진단 초기부터 사용 권고
+* 증상·폐 기능의 호전은 수일 내 시작되지만 충분한 효과는 3\~4개월 이후에 나타날 수 있음
+* 흡연자에서는 효능이 감소할 수 있어 금연·흡입 기술·순응도를 먼저 점검하고 필요시 치료를 조정
 
 **용법**
 
 * 대부분의 천식은 저용량 ICS로 조절됨
-* 반응이 부족할 경우 : ⓵ 사용 방법 확인, ⓶ 다른 계열 조절제 추가(일반적으로 증량보다 효과적이며 부작용 적음. 예: ICS + LABA)
-
-**성인·청소년의 ICS 1일 총 계량용량**
-
-| 성분·제형 \[상품명]                                                                                                                                  | 저용량 (㎍/d) | 중간용량 (㎍/d)  | 고용량 (㎍/d) |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
-| <p>beclomethasone dipropionate¹⁾<br>pMDI, standard particle</p>                                                                               | 200\~500  | ＞500\~1,000 | ＞1,000    |
-| <p>beclomethasone dipropionate¹⁾<br>DPI/pMDI, extrafine particle²⁾</p>                                                                        | 100\~200  | ＞200\~400   | ＞400      |
-| <p>budesonide [DPI/pMDI]<br><mark style="color:blue;">[풀미코트 터부헬러]</mark></p>                                                                  | 200\~400  | ＞400\~800   | ＞800      |
-| <p>ciclesonide¹⁾ [pMDI, extrafine]<br><mark style="color:blue;">[알베스코]</mark></p>                                                             | 80\~160   | ＞160\~320   | ＞320      |
-| <p>fluticasone propionate [DPI/pMDI]<br><mark style="color:blue;">[후릭소타이드 디스커스]</mark>, <mark style="color:blue;">[후릭소타이드주니어 에보할러]</mark></p> | 100\~250  | ＞250\~500   | ＞500      |
-| fluticasone furoate \[DPI]                                                                                                                    | 100       | -           | 200       |
-| mometasone furoate \[DPI]                                                                                                                     | 기기별 상이    | 기기별 상이      | 기기별 상이    |
-
-_MDI = metered-dose inhaler, DPI = dry powder inhaler_\
-¹⁾폐에서 활성 대사체로 전환되는 prodrug\
-²⁾<mark style="color:blue;">\[포스터]</mark>(beclomethasone-formoterol)의 beclomethasone은 extrafine 제형
-
-* 이 표는 저·중간·고용량의 범주이며 약제 간 등가용량표가 아님. 표의 수치는 **계량용량(metered dose)** 기준이며, 복합 흡입제는 해당 제품의 성분 함량에 맞추어 해석함. 예: <mark style="color:blue;">\[심비코트 터부헬러]</mark> 160/4.5 ㎍은 전달용량 표기이며 계량용량은 200/6 ㎍
-* Mometasone은 DPI 기기에 따라 용량 구분이 달라 일률적인 수치를 적용하지 않음
-* 소아 6\~11세의 용량 범주는 별도 적용
-
-<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Box 4-2.</mark></em></p>
+* 반응이 부족할 경우 : ① 사용 방법 확인, ② 다른 계열 조절제 추가(일반적으로 증량보다  추가가효과적이며 부작용 적음. 예: ICS + LABA)
 
 **부작용**
 
@@ -586,35 +671,50 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
   * 예방 : spacer 사용(pMDI), 흡입 후 물로 입을 헹군 뒤 뱉기
 * 전신 (고용량 장기 사용 시) : 부신 기능 억제, 골다공증, 백내장, 녹내장, 성장 저하(소아)
 
+**성인·청소년의 ICS 1일 총 계량 용량**
+
+<table data-search="false"><thead><tr><th width="338">성분·제형 [상품명]</th><th>저용량 (㎍/d)</th><th>중간용량 (㎍/d)</th><th>고용량 (㎍/d)</th></tr></thead><tbody><tr><td>beclomethasone dipropionate¹⁾<br>pMDI, standard particle</td><td>200~500</td><td>＞500~1,000</td><td>＞1,000</td></tr><tr><td>beclomethasone dipropionate¹⁾<br>DPI/pMDI, extrafine particle²⁾</td><td>100~200</td><td>＞200~400</td><td>＞400</td></tr><tr><td>budesonide [DPI/pMDI]<br><mark style="color:blue;">[풀미코트 터부헬러]</mark></td><td>200~400</td><td>＞400~800</td><td>＞800</td></tr><tr><td>ciclesonide¹⁾ [pMDI, extrafine]<br><mark style="color:blue;">[알베스코]</mark></td><td>80~160</td><td>＞160~320</td><td>＞320</td></tr><tr><td>fluticasone propionate [DPI/pMDI]<br><mark style="color:blue;">[후릭소타이드 디스커스]</mark>, <mark style="color:blue;">[후릭소타이드주니어 에보할러]</mark></td><td>100~250</td><td>＞250~500</td><td>＞500</td></tr><tr><td>fluticasone furoate [DPI]</td><td>100</td><td>-</td><td>200</td></tr><tr><td>mometasone furoate [DPI]</td><td>기기별 상이</td><td>기기별 상이</td><td>기기별 상이</td></tr></tbody></table>
+
+> _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
+> _&#xB9;⁾폐에서 활성 대사체로 전환되는 prodrug_\
+> _²⁾<mark style="color:blue;">포스터</mark>(beclomethasone-formoterol)의 beclomethasone은 extrafine 제형_
+>
+> _이 표는 저·중간·고용량의 범주이며 약제 간 등가용량표가 아님. 표의 수치는 **계량용량(metered dose)** 기준이며, 복합 흡입제는 해당 제품의 성분 함량에 맞추어 해석함. 예: <mark style="color:blue;">\[심비코트 터부헬러]</mark> 160/4.5 ㎍은 전달용량 표기이며 계량용량은 200/6 ㎍_
+>
+> _Mometasone은 DPI 기기에 따라 용량 구분이 달라 일률적인 수치를 적용하지 않음_
+>
+> _소아 6\~11세의 용량 범주는 별도 적용_
+
+<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Box 4-2.</mark></em></p>
+
 #### <mark style="color:$primary;">흡입 지속성 β-작용제 (Long-acting inhaled β2-agonist, LABA)</mark>
 
 * 작용 : 기관지 확장, 수축 예방; 작용 지속 시간 ≥12시간; 투여 횟수는 성분·제품별로 1일 1회 또는 2회
-* 적용 : LABA 단독 사용 금지; 단독 사용 시 천식 악화 위험; ICS와의 복합제로만 권고
-  * ICS+LABA 병용이 ICS 증량보다 효과적이며 '조절' 상태에 더 빨리 도달
+* 적용 : LABA 단독 사용 금지(단독 사용 시 천식 악화 위험)  - ICS와의 복합제로만 권고
+  * ICS-LABA 병용이 ICS 증량보다 효과적이며 '조절' 상태에 더 빨리 도달
 * 부작용 : 천식 급성 악화(단독 사용 시), 두통, 근육 경련, 심혈관 자극, 저칼륨혈증
-* formoterol : 5\~10분 내 효과 발현 → 조절제 및 완화제 효능을 가짐 (MART 사용 가능)
-* salmeterol : 작용 발현이 느려(약 10\~20분) 완화제로 사용하지 않음
+* formoterol : 5\~10분 내 효과 발현 → 조절제 및 완화제 효능을 가짐(MART 사용 가능) (단일 성분 제품 없음)
+* salmeterol : 작용 발현이 느려(약 10\~20분) 완화제로 사용하지 않음 (단일 성분 제품 없음)
 
 #### <mark style="color:$primary;">ICS-LABA</mark>
 
-<table><thead><tr><th width="220">성분명</th><th width="310">상품명 [제형] (단위 ㎍)</th><th>기본 용법</th></tr></thead><tbody><tr><td>fluticasone-vilanterol</td><td><mark style="color:blue;">[렐바 엘립타]</mark> [DPI: 100/25, 200/25]</td><td>1 puff qd</td></tr><tr><td>fluticasone-formoterol</td><td><mark style="color:blue;">[플루티폼 흡입제]</mark> [MDI: 50/5, 125/5, 250/10]</td><td>2 puffs bid</td></tr><tr><td>budesonide-formoterol¹⁾</td><td><mark style="color:blue;">[심비코트 터부헬러]</mark> [DPI: 80/4.5, 160/4.5, 320/9]</td><td>1~2 puffs bid</td></tr><tr><td>budesonide-formoterol¹⁾</td><td><mark style="color:blue;">[심비코트 라피헬러]</mark> [pMDI: 80/2.25, 160/4.5]</td><td>유지요법은 함량별 허가용법 적용; 160/4.5는 유지요법 전용. 80/2.25의 MART 용법을 터부헬러와 구분</td></tr><tr><td>beclomethasone-formoterol¹⁾</td><td><mark style="color:blue;">[포스터]</mark> [MDI(HFA): 100/6, 200/6]<br><mark style="color:blue;">[포스터넥스트할러]</mark> [DPI: 100/6, 200/6]</td><td>1~2 puffs bid; 200/6은 MART·AIR에 사용하지 않음</td></tr></tbody></table>
+<table><thead><tr><th width="161">성분명</th><th>상품명 [제형] (단위 ㎍)</th><th>기본 용법</th></tr></thead><tbody><tr><td>fluticasone<br>-vilanterol</td><td><mark style="color:blue;">[렐바 엘립타]</mark> [DPI: 100/25, 200/25]</td><td>1 puff qd</td></tr><tr><td>fluticasone<br>-formoterol</td><td><mark style="color:blue;">[플루티폼 흡입제]</mark> [MDI: 50/5, 125/5, 250/10]</td><td>2 puffs bid</td></tr><tr><td>budesonide<br>-formoterol*</td><td><mark style="color:blue;">[심비코트 터부헬러]</mark> [DPI: 80/4.5, 160/4.5, 320/9]</td><td>1~2 puffs bid</td></tr><tr><td>budesonide<br>-formoterol*</td><td><mark style="color:blue;">[심비코트 라피헬러]</mark> [pMDI: 80/2.25, 160/4.5]</td><td>유지요법은 함량별 허가용법 적용; 160/4.5는 유지요법 전용. 80/2.25의 MART 용법을 터부헬러와 구분</td></tr><tr><td>beclomethasone<br>-formoterol*</td><td><mark style="color:blue;">[포스터]</mark> [MDI(HFA): 100/6, 200/6]<br><mark style="color:blue;">[포스터넥스트할러]</mark> [DPI: 100/6, 200/6]</td><td>1~2 puffs bid; 200/6은 MART·AIR에 사용하지 않음</td></tr></tbody></table>
 
-¹⁾MART 근거는 지정 budesonide-formoterol 및 beclomethasone-formoterol 제형에 있고, AIR-only의 직접 근거는 주로 budesonide-formoterol에서 확립됨. Beclomethasone-formoterol AIR-only는 직접 연구가 없어 근거와 국내 허가 범위를 구분함. Fluticasone-formoterol 등 다른 ICS-formoterol 복합제와 고용량 제형을 임의로 MART/AIR에 사용하지 않음
+> _\*MART 근거는 지정 budesonide-formoterol 및 beclomethasone-formoterol 제형에 있고, AIR-only의 직접 근거는 주로 budesonide-formoterol에서 확립됨. Beclomethasone-formoterol AIR-only는 직접 연구가 없어 근거와 국내 허가 범위를 구분함._&#x20;
+>
+> _Fluticasone-formoterol 등 다른 ICS-formoterol 복합제와 고용량 제형을 임의로 MART/AIR에 사용하지 않음_
 
 #### <mark style="color:$primary;">항류코트리엔제 (Leukotriene modifier)</mark>
 
 * 적용 : 알레르겐에 의한 천식, 경증 지속성 천식의 대체제, aspirin 과민성 천식, 알레르기비염 동반
 * 효과 : 저용량 ICS보다 효과 적음. ICS 병용에 있어서 LABA보다 효과 적음
+* montelukast : ≥15세 10 ㎎ hs qd; 6\~14세 5 ㎎ hs qd <mark style="color:blue;">\[싱귤레어]</mark>
+* pranlukast : 성인 50 ㎎ bid, 아침·저녁 식후 <mark style="color:blue;">\[씨투스]</mark> (소아는 건조시럽·현탁정·츄정 등 별도 제형의 연령·체중별 허가용량 적용)
+* zafirlukast, zileuton(5-lipoxygenase 억제제) : 간 효소 상승과 warfarin·theophylline 등 약물상호작용이 있으며 국내에서는 사용이 드묾
 
 {% hint style="danger" %}
 **montelukast** **FDA 블랙박스 경고** : 자살 충동, 공격성, 우울 등 신경정신계 이상 반응 위험; 처방 전 위험·이득 평가 및 치료 중 모니터링 필수
 {% endhint %}
-
-**류코트리엔 수용체 대항제 (LTRA)**
-
-* montelukast : ≥15세 10 ㎎ hs qd; 6\~14세 5 ㎎ hs qd <mark style="color:blue;">\[싱귤레어]</mark>
-* pranlukast : 성인 225 ㎎ bid <mark style="color:blue;">\[오논]</mark> (소아용 저함량 제형은 연령·체중별 허가용량 확인)
-* zafirlukast, zileuton(5-lipoxygenase 억제제) : 간 효소 상승과 warfarin·theophylline 등 약물상호작용이 있으며 국내에서는 사용이 드묾
 
 #### <mark style="color:$primary;">크로몰린제 (Chromone)</mark>
 
@@ -626,24 +726,35 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 * 적용 : 중간 용량 ICS-LABA에도 조절되지 않는 Step 4\~5 환자에서 추가 고려; ICS-LABA 대비 중증 악화 감소 효과는 biologic보다 제한적이나, biologic 적응증에 해당하지 않는 환자에서 유용 <mark style="color:$info;">\[GINA 2026]</mark>
 * 부작용 : 입마름(드묾)
-* tiotropium mist inhaler : 2.5 ㎍/puff, 2 puffs qd <mark style="color:blue;">\[스피리바 레스피맷]</mark> (제품별 연령·허가·보험기준 확인)
+* tiotropium mist inhaler : 2.5 ㎍/puff, 2 puffs qd <mark style="color:blue;">\[스피리바 레스피맷]</mark>
   * 18 ㎍ 흡입용 캡슐 제형은 천식 추가 치료 용량으로 사용하지 않음
-* ICS-LABA-LAMA 3제 복합 흡입기 : 중간 또는 고용량 ICS-LABA에도 조절되지 않는 환자에서 선택적 고려. 성분 조합별 천식 허가 연령·용량이 COPD와 다를 수 있으므로 국내 허가·급여기준 확인 <mark style="color:$info;">\[GINA 2026]</mark>
+* ICS-LABA-LAMA 3제 복합 흡입기 : 중간 또는 고용량 ICS-LABA에도 조절되지 않는 성인(만 18세 이상)에서 선택적으로 고려
+  * \[에너제어흡입용캡슐] 150/50/80 또는 150/50/160 ㎍ : 1캡슐 qd, 전용 브리즈헬러로 흡입(캡슐을 삼키지 않음)
+  * \[트렐리지엘립타] 100/62.5/25 ㎍, \[트렐리지200 엘립타] 200/62.5/25 ㎍ : 1 puff qd
+  * \[트림보우흡입제] 100/6/12.5 ㎍, pMDI : 2 puffs bid; ICS-LABA로 적절히 조절되지 않고 반복적 악화 이력이 있는 천식의 유지요법
+  * 모두 유지치료용으로, AIR/MART에 사용하지 않으며, 증상 발생 시 별도로 처방한 완화제를 사용. 트림보우넥스트할러는 국내 천식 적응증이 없어 구분
 
 #### <mark style="color:$primary;">전신 스테로이드</mark>
 
-* 작용 : 중증 급성 악화 시 증상 완화 및 재발 예방, 사망률 감소; 투여 4\~6시간 후 효과
-* 적용 : 중등\~중증 급성 악화에 단기 사용. 유지 OCS는 전문가 평가 후 다른 치료에도 조절되지 않는 중증 천식에서 최후 수단으로만 고려
-* prednisolone : 성인 40\~50 ㎎/d × 5\~7d <mark style="color:blue;">\[소론도]</mark>; 2주 미만 사용은 일반적으로 tapering 불필요
+* 작용 : 중증 급성 악화 시 증상 완화 및 재발 예방, 사망률 감소
+  * 투여 4\~6시간 후 효과
+* 적용 : 중등\~중증 급성 악화에 단기 사용
+  * 유지 OCS는 전문가 평가 후 다른 치료에도 조절되지 않는 중증 천식에서 최후 수단으로만 고려
 * 전신 스테로이드 사용 중에도 ICS는 계속 사용함
 * 성인에서 평생 4\~5회의 OCS 단기 투여만으로도 골다공증·골절·당뇨병·심부전·백내장 등 장기 부작용 위험이 용량 의존적으로 증가 → 악화 후 치료 최적화로 반복 투여를 줄임 <mark style="color:$info;">\[GINA 2026]</mark>
 * 부작용
   * 단기 사용 : 당 대사 이상, 혈압 상승, 식욕 증가, 체액 저류, 감정 변화, 불면, 소화성 궤양; 성인에서 패혈증·혈전색전증 위험 증가
   * 장기 사용 : 고혈압, 당뇨병, HPA axis 억제, 백내장, 녹내장, 골다공증 (✽3개월 이상 사용 시 골다공증 예방 조치 필요)
+* prednisolone : 성인 40\~50 ㎎/d × 5\~7d <mark style="color:blue;">\[소론도]</mark>; 2주 미만 사용은 일반적으로 tapering 불필요
+* 주사제 : 경구 투여는 정맥 투여와 효과가 유사하므로, 가능한 한 경구를 우선함
+  * 정맥 투여 적응증 : 심한 호흡곤란으로 삼키기 어렵거나 구토로 경구 투여가 곤란한 경우, 비침습적 환기 또는 기관삽관이 필요한 경우
+  * 용량 : hydrocortisone 총 200 ㎎/d IV 분할 투여(예: 50 ㎎ q6h)
+  * 경구 투여가 가능해지면 prednisolone으로 전환하며, 주사·경구 투여 기간을 합하여 보통 5\~7일간 치료
+  * 근육주사는 경구 투여보다 우월하다는 근거가 없어 일상적으로 권고하지 않음 <mark style="color:$info;">\[GINA 2026]</mark>
 
 #### <mark style="color:$primary;">생물학적 제제 (Step 5)</mark>
 
-<table><thead><tr><th width="126.3157958984375">기전</th><th width="231.5789794921875">성분명 [상품명]</th><th>주요 고려 상황</th></tr></thead><tbody><tr><td>Anti-IgE</td><td>omalizumab <mark style="color:blue;">[졸레어]</mark>, <mark style="color:blue;">[옴리클로]</mark>(바이오시밀러)</td><td>임상적으로 관련된 알레르겐 감작이 확인된 중증 알레르기성 천식</td></tr><tr><td>Anti-IL-5</td><td>mepolizumab <mark style="color:blue;">[누칼라]</mark>, reslizumab <mark style="color:blue;">[싱케어]</mark></td><td>중증 호산구성 천식</td></tr><tr><td>Anti-IL-5(장기 작용)</td><td>depemokimab</td><td>중증 호산구성 천식; 26주 간격 투여. 국내 미허가</td></tr><tr><td>Anti-IL-5Rα</td><td>benralizumab <mark style="color:blue;">[파센라]</mark></td><td>중증 호산구성 천식</td></tr><tr><td>Anti-IL-4Rα</td><td>dupilumab <mark style="color:blue;">[듀피젠트]</mark></td><td>중증 호산구성/T2 천식 또는 유지 OCS 의존</td></tr><tr><td>Anti-TSLP</td><td>tezepelumab <mark style="color:blue;">[테즈파이어]</mark></td><td>허가상 T2 바이오마커 제한이 없는 중증 천식</td></tr></tbody></table>
+<table><thead><tr><th width="127">기전</th><th width="299">성분명 [상품명]</th><th>주요 고려 상황</th></tr></thead><tbody><tr><td>Anti-IgE</td><td>omalizumab <mark style="color:blue;">[졸레어]</mark>, <mark style="color:blue;">[옴리클로]</mark>(바이오시밀러)</td><td>임상적으로 관련된 알레르겐 감작이 확인된 중증 알레르기성 천식</td></tr><tr><td>Anti-IL-5</td><td>mepolizumab <mark style="color:blue;">[누칼라]</mark>, reslizumab <mark style="color:blue;">[싱케어]</mark></td><td>중증 호산구성 천식</td></tr><tr><td>Anti-IL-5<br>(장기 작용)</td><td>depemokimab</td><td>중증 호산구성 천식; 26주 간격 투여. 국내 미허가</td></tr><tr><td>Anti-IL-5Rα</td><td>benralizumab <mark style="color:blue;">[파센라]</mark></td><td>중증 호산구성 천식</td></tr><tr><td>Anti-IL-4Rα</td><td>dupilumab <mark style="color:blue;">[듀피젠트]</mark></td><td>중증 호산구성/T2 천식 또는 유지 OCS 의존</td></tr><tr><td>Anti-TSLP</td><td>tezepelumab <mark style="color:blue;">[테즈파이어]</mark></td><td>허가상 T2 바이오마커 제한이 없는 중증 천식</td></tr></tbody></table>
 
 {% hint style="info" %}
 **tezepelumab**: anti-TSLP 단클론항체. 허가상 호산구·FeNO·IgE에 따른 제한 없이 사용할 수 있으나, 일반적으로 혈중 호산구와 FeNO가 높을수록 악화 감소 효과가 더 큼 <mark style="color:$info;">\[GINA 2026]</mark>
@@ -673,39 +784,23 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 ### <mark style="color:orange;">완화제 (Reliever)</mark>
 
-#### <mark style="color:$primary;">저용량 ICS-formoterol - AIR(Anti-inflammatory Reliever) 요법</mark>
+#### <mark style="color:$primary;">저용량 ICS-formoterol의 AIR(Anti-inflammatory Reliever) 요법</mark>
+
+* 작용 : 기관지 확장 formoterol(즉각) + ICS에 의한 항염(지속) → 급성 악화 위험 감소
+  * SABA 단독 대비 중증 악화 발생 유의미하게 감소
+* 종류 : 근거가 확립된 지정 제형은 budesonide-formoterol 및 beclomethasone-formoterol임
+  * fluticasone-formoterol은 MART/AIR로 사용하지 않음
 
 {% hint style="info" %}
-증상이 드문 천식에서도 SABA 단독 사용은 중증 악화 위험 증가와 관련됨. 모든 단계에서 저용량 ICS-formoterol을 항염증성 완화제로 사용하는 Track 1을 우선 권고 <mark style="color:$info;">\[GINA 2026]</mark>
+모든 단계에서 저용량 ICS-formoterol을 항염증성 완화제로 사용하는 Track 1을 우선 권고 <mark style="color:$info;">\[GINA 2026];</mark> 증상이 드문 천식에서도 SABA 단독 사용은 중증 악화 위험 증가와 관련됨.&#x20;
 {% endhint %}
-
-* 작용 : 기관지 확장(즉각) + ICS에 의한 항염(지속) → 급성 악화 위험 감소
-* SABA 단독 대비 중증 악화 발생 유의미하게 감소
-* 종류 : 근거가 확립된 지정 제형은 budesonide-formoterol 및 beclomethasone-formoterol. Fluticasone-formoterol은 MART/AIR로 사용하지 않음
-
-**AIR/MART 실제 용법 - 성인·청소년의 GINA 용법**
-
-<table><thead><tr><th width="180">약제</th><th width="200">유지(MART)</th><th>증상 시(AIR)</th></tr></thead><tbody><tr><td><mark style="color:blue;">[심비코트 터부헬러]</mark> 160/4.5</td><td>Step 3: 1 puff bid(국내 허가상 2 puffs qd도 가능)<br>Step 4: 2 puffs bid<br>GINA의 1 puff qd 감량 예와 국내 유지용법을 구분</td><td>1 puff prn</td></tr><tr><td><mark style="color:blue;">[포스터]</mark> 100/6<br>국내 HFA는 성인 MART 1 puff bid + prn, 총 8 puffs/d 이내</td><td>Step 3: 1 puff bid 또는 qd<br>Step 4: 2 puffs bid</td><td>1 puff prn</td></tr><tr><td>Step 1~2(AIR-only)</td><td>유지 없음</td><td>증상 시 저용량 ICS-formoterol 1 puff; beclomethasone-formoterol AIR-only는 직접 연구되지 않음</td></tr></tbody></table>
-
-* **심비코트 터부헬러 160/4.5(≥12세)**: 필요시 1 puff 흡입하고 수분 후에도 증상이 지속되면 추가 1 puff. 국내 허가상 한 번의 증상완화 과정에서 6회를 초과하지 않으며, 유지+완화 합계는 통상 1일 8회 이하, 예외적으로 일시적 12회까지 허용. **1일 8회 이상 필요하면 원인 및 유지치료를 재평가**함. GINA의 24시간 총 12회 초과 필요 시 당일 진료 기준과 구분하여 안내하며, 반응 불충분·급속 악화 시 횟수와 관계없이 즉시 진료. 12회는 formoterol 전달 용량 54 ㎍(계량 용량 72 ㎍)에 해당
-* **제품별 국내 허가 차이**: 포스터100/6 HFA의 국내 MART 용법은 성인에서 유지 1 puff bid + 필요시 1 puff, 유지+완화 총 8 puffs/d 이내임. 위 GINA Step 4 용법이나 12회 기준을 국내 허가용법과 동일하게 안내하지 않으며, 국내 처방에서는 환자별 행동계획에 해당 제품의 용법과 진료 필요 기준을 명시함. 80/2.25 pMDI 등은 1회 흡입 횟수가 달라 160/4.5 제형의 횟수를 그대로 적용하지 않음
-* Budesonide-formoterol 320/9 및 beclomethasone-formoterol 200/6은 항염증성 완화제로 사용하지 않음
-
-{% hint style="info" %}
-**"최대 용량" 표현 변경&#x20;**<mark style="color:$info;">**\[GINA 2026]**</mark>: 기존의 ICS-formoterol/ICS-SABA "최대 투여 횟수" 표현은, 안전을 위해 "24시간 내 지정된 횟수를 초과해 흡입이 필요하면 당일 의료기관에 연락"하라는 표현으로 대체됨. 이는 추가 흡입을 자가 지속하라는 의미가 아니며, 국내 허가 최대량과 제품별 진료 기준은 별도로 준수함. SABA도 반응 부족·빠른 사용량 증가 시 즉시 재평가하되 ICS-formoterol의 12회 기준을 적용하지 않음
-{% endhint %}
-
-**Track 2에서의 AIR 요법(ICS-SABA)**
-
-* Track 2(대체)에서도 완화제로 **ICS-SABA 복합제**(예: budesonide-salbutamol)를 사용하는 옵션이 Step 1\~5에 추가됨. BATURA 연구에서 SABA 단독 완화제보다 중증 악화 위험을 약 절반으로 감소 <mark style="color:$info;">\[N Engl J Med 2025]</mark>
-* 국내 2026 지침에서는 ICS-SABA 고정 복합제를 국내 미도입으로 기술함. 국내 사용 가능한 제품이 없으면 Step 1에서는 SABA 사용 때마다 별도 저용량 ICS를 사용하며, Step 2\~5에서는 ICS 포함 유지치료와 SABA를 병용
-* 별도 ICS와 SABA를 사용하는 방법은 두 흡입기를 함께 사용해야 함. ICS-SABA 고정 복합제만 필요시 쓰는 경우와 구분하며, 유지제도 처방받은 환자는 각 흡입기의 역할과 사용법을 교육
 
 #### <mark style="color:$primary;">속효성 흡입 β-작용제 (SABA)</mark>
 
 **효과 및 용법**
 
-* 가장 빠른 기관지확장제; 보통 4\~6시간 지속
+* 가장 빠른 기관지확장제
+* 보통 4\~6시간 지속
 * 증상 발생 시 또는 운동 전(운동 유발성 기관지수축 예방) 사용
 * SABA는 기관지만 확장하고 기도 염증(airway inflammation)을 해결하지 못함
 * SABA 단독 사용은 심한 악화를 예방할 수 없으며, 규칙적·빈번한 사용이 악화 위험을 증가시킴; 증상 완화 중에도 염증이 지속되어 악화 위험이 유지됨 → ICS 병용이 필수
@@ -715,11 +810,13 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 * 떨림, 빈맥; 초기에 발생하며 빠르게 적응됨
 * 고용량 : 저칼륨혈증, 부정맥, 젖산산증과 그에 따른 과호흡 (☞ 급성 악화의 SABA 과다 투여 주의)
 
-<table><thead><tr><th width="116.4210205078125">성분명</th><th width="227.78948974609375">흡입제</th><th width="251.157958984375">네불라이저용 액</th><th>작용 (hr)</th></tr></thead><tbody><tr><td>salbutamol</td><td>1~2 puffs, 100 ㎍/puff<br><mark style="color:blue;">[벤토린 에보할러]</mark></td><td>2.5 ㎎/2.5 ㎖/A<br><mark style="color:blue;">[벤토린 네뷸]</mark></td><td>4~6</td></tr></tbody></table>
+<table><thead><tr><th width="175">성분명</th><th>흡입제</th><th>네불라이저용 액</th><th>작용 (hr)</th></tr></thead><tbody><tr><td>salbutamol</td><td>1~2 puffs, 100 ㎍/puff<br><mark style="color:blue;">[벤토린 에보할러]</mark></td><td>2.5 ㎎/2.5 ㎖/A<br><mark style="color:blue;">[벤토린 네뷸]</mark></td><td>4~6</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">속효성 항콜린제 (Short-acting anticholinergics)</mark>
 
-* 작용 : SABA보다 효과 적음; 중등증\~중증 급성 악화에서 SABA에 단기간 추가하면 입원 위험 감소. 치료 첫 1\~2시간 이후에는 추가 이득이 없음
+* 작용 : SABA보다 효과 적음
+* 중등증\~중증 급성 악화에서 SABA에 단기간 추가하면 입원 위험 감소
+* 치료 첫 1\~2시간 이후에는 추가 이득이 없음
 * 장기 완화제로 사용하지 않음
 * 국내에는 네뷸라이저 제형만 유통 : <mark style="color:blue;">\[아트로벤트흡입액유디비]</mark> 500 ㎍/2 ㎖/바이알; 허가 용량은 성인 100\~500 ㎍ qid, 3\~14세 100\~250 ㎍ tid\~qid
 * 분무 시 약제가 눈에 닿지 않도록 마우스피스 사용이 바람직함
@@ -728,7 +825,7 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 #### <mark style="color:$primary;">테오필린 (Theophylline)</mark>
 
-* Phosphodiesterase 억제와 adenosine receptor 길항 작용이 있으나, 흡입치료보다 효과가 낮고 치료역이 좁아 GINA에서 일반적인 천식 유지치료로 권고하지 않음
+* phosphodiesterase 억제와 adenosine receptor 길항 작용이 있으나, 흡입치료보다 효과가 낮고 치료역이 좁아 GINA에서 일반적인 천식 유지치료로 권고하지 않음
 * 급성 악화에서 aminophylline 또는 theophylline 정맥주사는 효과가 낮고 중대한 부작용 위험이 있어 사용하지 않음
 * 흡입치료 접근이 어려운 예외적 상황에서 사용을 검토한다면 약물상호작용·기저질환을 평가하고 혈중농도와 독성을 면밀히 모니터링
 
@@ -755,33 +852,12 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 * 천식 증상으로 ≥1회/주 깨어나거나 대부분의 날에 증상 → Step 3 이상 치료 선택
 
 {% hint style="info" %}
-**초기 치료 선택과 장기 치료 단계를 구분**: 초기에는 진단 근거, 증상 빈도·야간 각성, 폐 기능, 최근 악화와 위험 인자, 흡입기 사용 능력 및 유지치료 순응도를 기록하고 추적 일정을 정함. 처음 내원부터 심한 조절 불량·급성 악화가 있으면 먼저 악화에 준해 치료하고 적절한 ICS 포함 유지치료를 시작하며, 곧바로 난치성·중증 천식 또는 생물학적 제제 대상이라고 단정하지 않음. 국내 지침 표 4-4(p.96)의 초기 증상 구분과 GINA 2026 Box 4-4의 증상 빈도 구분은 동일하지 않으며, 아래 표는 **GINA 2026을 바탕으로 한 요약**임
+**초기 치료 선택과 장기 치료 단계를 구분**: 초기에는 진단 근거, 증상 빈도·야간 각성, 폐 기능, 최근 악화와 위험 인자, 흡입기 사용 능력 및 유지치료 순응도를 기록하고 추적 일정을 정함. 처음 내원부터 심한 조절 불량·급성 악화가 있으면 먼저 악화에 준해 치료하고 적절한 ICS 포함 유지치료를 시작하며, 곧바로 난치성·중증 천식 또는 생물학적 제제 대상이라고 단정하지 않음. 국내 지침 표 4-4(p.96)의 초기 증상 구분과 GINA 2026 Box 4-4의 증상 빈도 구분은 동일하지 않으며, 아래 표는 GINA 2026을 바탕으로 한 요약임
 {% endhint %}
 
-### <mark style="color:orange;">Track 1 / Track 2 치료 전략</mark>
+#### <mark style="color:$primary;">MART (Maintenance And Reliever Therapy)</mark>
 
-* 아래 Track 1/2 및 Step 1\~5 용량은 성인·청소년(≥12세) 기준. 6\~11세는 별도의 소아 치료표를 적용하며, 만 5세 이하는 별도의 진단·치료 접근이 필요
-* 현대 성인·청소년 천식 치료는 완화제 선택에 따라 Track 1과 Track 2로 구조화
-
-<table><thead><tr><th width="88">전략</th><th width="160">완화제</th><th width="160">유지 치료</th><th>핵심 원리</th></tr></thead><tbody><tr><td>Track 1<br>(선호)</td><td>저용량 ICS-formoterol<br>(AIR 요법)</td><td>Step 1~2: 없음<br>Step 3~4: ICS-formoterol</td><td>• 증상 시마다 ICS도 함께 투여<br>• SABA 기반 전략보다 중증 악화 감소<br>• 단일 흡입기 전략 가능(MART)</td></tr><tr><td>Track 2<br>(대체)</td><td>ICS-SABA 또는<br>SABA</td><td>ICS 또는<br>ICS-LABA</td><td>• SABA만으로 천식을 치료하지 않음<br>• 매일 유지 ICS 순응도가 낮으면 위험<br>• Track 1이 불가능하거나 비선호인 경우 선택</td></tr></tbody></table>
-
-> _MART= Maintenance and Reliever Therapy_
-
-#### <mark style="color:$primary;">Step별 Track 1 / Track 2 약물 흐름</mark>
-
-<table><thead><tr><th width="63.6842041015625">Step</th><th width="150">임상 상황</th><th width="280">Track 1(선호) 완화제: 저용량 ICS-formoterol</th><th>Track 2(대체) 완화제: ICS-SABA 또는 SABA</th></tr></thead><tbody><tr><td><strong>1~2</strong></td><td>증상이 드물거나 주 3~5일 미만이며 폐 기능이 정상 또는 경도 저하</td><td>필요시 저용량 ICS-formoterol(AIR-only; 유지 없음)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff prn</td><td>필요시 저용량 ICS-SABA 또는 SABA 사용 때마다 즉시 저용량 ICS 흡입; Step 2에서는 매일 저용량 ICS + 완화제 가능<br><mark style="color:blue;">[풀미코트]</mark> 200 ㎍ qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>3</strong></td><td>대부분의 날(예: 주 ≥4일) 증상, 주 ≥1회 야간 각성 또는 폐 기능 저하</td><td>저용량 ICS-formoterol 유지 + 동일 흡입기 prn(MART)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff bid + prn</td><td>저용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 저용량 ICS + LTRA 또는 중간용량 ICS는 덜 효과적인 대안<br><mark style="color:blue;">[렐바 엘립타 100/25]</mark> qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>4</strong></td><td>매일 증상·주 ≥1회 야간 각성과 폐 기능 저하 또는 최근 악화; 또는 Step 3에도 조절 불량</td><td>중간용량 ICS-formoterol MART<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 2 puffs bid + 1 puff prn</td><td>중간용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn; 필요시 LAMA 또는 LTRA 추가</td></tr><tr><td><strong>5</strong></td><td>최적화된 Step 4에도 조절 불량</td><td colspan="2">전문가 의뢰, 표현형 평가, LAMA·azithromycin 또는 생물학적 제제 추가; 유지 OCS는 최후 수단 (☞ Step 4~5 추가 고려 사항)</td></tr></tbody></table>
-
-> _Salmeterol·vilanterol 등 formoterol 이외 LABA를 포함한 유지제에는 별도의 ICS-formoterol 완화제를 추가하지 않음. MART는 동일 ICS-formoterol 흡입기를 유지·완화에 함께 사용하는 요법임_
-
-<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Boxes 4-4, 4-6; 대한결핵 및 호흡기학회. 천식 진료지침 2026. 표 4-4, 그림 4-3 참조.</mark></em></p>
-
-{% hint style="warning" %}
-위 임상 상황은 초기 치료 선택을 위한 기준임. **심비코트 터부헬러 160/4.5는 12세 이상에서 AIR-only 및 MART가 국내 허가된 용법**임. **심비코트 라피헬러 160/4.5는 국내 허가상 유지요법 전용**이며 AIR/MART에 사용하지 않음. 소아 AIR/MART 및 다른 제품·함량의 국외 지침 용법을 국내 허가용법과 구분함
-{% endhint %}
-
-### <mark style="color:orange;">MART (Maintenance And Reliever Therapy)</mark>
-
-* MART는 formoterol을 포함하는 ICS 복합제를 유지 치료와 완화제로 동시 사용하는 전략. 용법은 위 "AIR/MART 실제 용법" 표를 따름
+* MART는 formoterol을 포함하는 ICS 복합제를 '유지치료'와 '완화제'로 동시 사용하는 전략
 
 **MART 장점**
 
@@ -795,6 +871,49 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 * budesonide-formoterol <mark style="color:blue;">\[심비코트]</mark>
 * beclomethasone-formoterol <mark style="color:blue;">\[포스터]</mark>
 
+### <mark style="color:orange;">Track 1 / Track 2 치료 전략</mark>
+
+* 아래 Track 1/2 및 Step 1\~5 용량은 성인·청소년(≥12세) 기준. 6\~11세는 별도의 소아 치료표를 적용하며, 만 5세 이하는 별도의 진단·치료 접근이 필요
+* 현대 성인·청소년 천식 치료는 완화제 선택에 따라 Track 1과 Track 2로 구조화
+
+<table><thead><tr><th width="88">전략</th><th width="160">완화제</th><th width="160">유지 치료</th><th>핵심 원리</th></tr></thead><tbody><tr><td>Track 1<br>(선호)</td><td>저용량 ICS-formoterol<br>(AIR 요법)</td><td>•Step 1~2: 없음<br>•Step 3~4: ICS-formoterol</td><td>•증상 시마다 ICS도 함께 투여<br>•SABA 기반 전략보다 중증 악화 감소<br>•단일 흡입기 전략 가능(MART)</td></tr><tr><td>Track 2<br>(대체)</td><td>ICS-SABA 또는<br>SABA</td><td>ICS 또는<br>ICS-LABA</td><td>•SABA만으로 천식을 치료하지 않음<br>•매일 유지 ICS 순응도가 낮으면 위험<br>•Track 1이 불가능하거나 비선호인 경우 선택</td></tr></tbody></table>
+
+#### <mark style="color:$primary;">Step별 Track 1 / Track 2 약물 흐름</mark>
+
+<table><thead><tr><th width="71">Step</th><th width="190">임상 상황</th><th>Track 1(선호) 완화제: 저용량 ICS-formoterol</th><th>Track 2(대체) 완화제: ICS-SABA 또는 SABA</th></tr></thead><tbody><tr><td><strong>1~2</strong></td><td>증상이 드물거나 주 3~5일 미만이며 폐 기능이 정상 또는 경도 저하</td><td>필요시 저용량 ICS-formoterol(AIR-only; 유지 없음)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff prn</td><td>•필요시 저용량 ICS-SABA 또는 SABA 사용 때마다 즉시 저용량 ICS 흡입 •Step 2에서는 매일 저용량 ICS + 완화제 가능<br><mark style="color:blue;">[풀미코트]</mark> 200 ㎍ qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>3</strong></td><td>대부분의 날(예: 주 ≥4일) 증상, 주 ≥1회 야간 각성 또는 폐 기능 저하</td><td>저용량 ICS-formoterol 유지 + 동일 흡입기 prn(MART)<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 1 puff bid + prn</td><td>•저용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn •저용량 ICS + LTRA 또는 중간용량 ICS는 덜 효과적인 대안<br><mark style="color:blue;">[렐바 엘립타 100/25]</mark> qd + <mark style="color:blue;">[벤토린]</mark> prn</td></tr><tr><td><strong>4</strong></td><td>매일 증상·주 ≥1회 야간 각성과 폐 기능 저하 또는 최근 악화; 또는 Step 3에도 조절 불량</td><td>중간용량 ICS-formoterol MART<br><mark style="color:blue;">[심비코트 터부헬러 160/4.5]</mark> 2 puffs bid + 1 puff prn</td><td>•중간용량 ICS-LABA 유지 + ICS-SABA 또는 SABA prn •필요시 LAMA 또는 LTRA 추가</td></tr><tr><td><strong>5</strong></td><td>최적화된 Step 4에도 조절 불량</td><td colspan="2">전문가 의뢰, 표현형 평가, LAMA·azithromycin 또는 생물학적 제제 추가; 유지 OCS는 최후 수단 (☞ Step 4~5 추가 고려 사항)</td></tr></tbody></table>
+
+> _Salmeterol·vilanterol 등 formoterol 이외 LABA를 포함한 유지제에는 별도의 ICS-formoterol 완화제를 추가하지 않음. MART는 동일 ICS-formoterol 흡입기를 유지·완화에 함께 사용하는 요법임_
+
+<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Boxes 4-4, 4-6;</mark></em> <br><em><mark style="color:$info;">대한결핵 및 호흡기학회. 천식 진료지침 2026. 표 4-4, 그림 4-3</mark></em></p>
+
+{% hint style="warning" %}
+위 임상 상황은 초기 치료 선택을 위한 기준임. **심비코트 터부헬러 160/4.5는 12세 이상에서 AIR-only 및 MART가 국내 허가된 용법**임. **심비코트 라피헬러 160/4.5는 국내 허가상 유지요법 전용**이며 AIR/MART에 사용하지 않음. 소아 AIR/MART 및 다른 제품·함량의 국외 지침 용법을 국내 허가용법과 구분함
+{% endhint %}
+
+#### <mark style="color:$primary;">AIR/MART 실제 용법</mark>
+
+| 약제                                                                                                    | 유지(MART)                                                           | 증상 시(AIR)                       |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------- |
+| <p><mark style="color:blue;">[심비코트 터부헬러]</mark> 160/4.5<br><strong>budesonide-formoterol</strong></p> | <p>•Step 3: 1 puff bid(2 puffs qd도 가능)<br>•Step 4: 2 puffs bid</p> | 1 puff prn                      |
+| <p><mark style="color:blue;">[포스터]</mark> 100/6</p><p><strong>beclomethasone-formoterol</strong></p>  | <p>Step 3: 1 puff bid 또는 qd<br>Step 4: 2 puffs bid</p>             | 1 puff prn                      |
+| <p><strong>Step 1~2(AIR-only)</strong><br><mark style="color:blue;">[심비코트 터부헬러]</mark> 160/4.5</p>    | 유지 없음                                                              | 저용량 ICS-formoterol\* 1 puff prn |
+
+> _\*beclomethasone-formoterol AIR-only는 직접 연구되지 않음_
+
+* <mark style="color:blue;">**심비코트 터부헬러**</mark>**&#x20;160/4.5(≥12세)**: 필요시 1 puff 흡입하고 수분 후에도 증상이 지속되면 추가 1 puff. 국내 허가상 한 번의 증상완화 과정에서 6회를 초과하지 않으며, 유지+완화 합계는 통상 1일 8회 이하, 예외적으로 일시적 12회까지 허용. **1일 8회 이상 필요하면 원인 및 유지치료를 재평가**함. GINA의 24시간 총 12회 초과 필요 시 당일 진료 기준과 구분하여 안내하며, 반응 불충분·급속 악화 시 횟수와 관계없이 즉시 진료. 12회는 formoterol 전달 용량 54 ㎍(계량 용량 72 ㎍)에 해당
+* **제품별 국내 허가 차이**: <mark style="color:blue;">포스터</mark>100/6 HFA의 국내 MART 용법은 성인에서 유지 1 puff bid + 필요시 1 puff, 유지+완화 총 8 puffs/d 이내임. GINA Step 4 용법이나 12회 기준을 국내 허가용법과 동일하게 적용하지 않으며, 국내 처방에서는 환자별 행동계획에 해당 제품의 용법과 진료 필요 기준을 명시함. 80/2.25 pMDI 등은 1회 흡입 횟수가 달라 160/4.5 제형의 횟수를 그대로 적용하지 않음
+* Budesonide-formoterol 320/9 및 beclomethasone-formoterol 200/6은 항염증성 완화제로 사용하지 않음
+
+{% hint style="info" %}
+**"최대 용량" 표현 변경&#x20;**<mark style="color:$info;">**\[GINA 2026]**</mark>: 기존의 ICS-formoterol/ICS-SABA "최대 투여 횟수" 표현은, 안전을 위해 "24시간 내 지정된 횟수를 초과해 흡입이 필요하면 당일 의료기관에 연락"하라는 표현으로 대체됨. 이는 추가 흡입을 자가 지속하라는 의미가 아니며, 국내 허가 최대량과 제품별 진료 기준은 별도로 준수함. SABA도 반응 부족·빠른 사용량 증가 시 즉시 재평가하되 ICS-formoterol의 12회 기준을 적용하지 않음
+{% endhint %}
+
+**Track 2에서의 AIR 요법(ICS-SABA)**
+
+* Track 2(대체)에서도 완화제로 **ICS-SABA 복합제**(예: budesonide-salbutamol)를 사용하는 옵션이 Step 1\~5에 추가됨. BATURA 연구에서 SABA 단독 완화제보다 중증 악화 위험을 약 절반으로 감소 <mark style="color:$info;">\[N Engl J Med 2025]</mark>
+* 국내 2026 지침에서는 ICS-SABA 고정 복합제를 국내 미도입으로 기술함. 국내 사용 가능한 제품이 없으면 Step 1에서는 SABA 사용 때마다 별도 저용량 ICS를 사용하며, Step 2\~5에서는 ICS 포함 유지치료와 SABA를 병용
+* 별도 ICS와 SABA를 사용하는 방법은 두 흡입기를 함께 사용해야 함. ICS-SABA 고정 복합제만 필요시 쓰는 경우와 구분하며, 유지제도 처방받은 환자는 각 흡입기의 역할과 사용법을 교육
+
 ### <mark style="color:orange;">Step 4\~5 추가 고려 사항</mark>
 
 * Step 4 : LAMA tiotropium mist inhaler 2 puffs qd <mark style="color:blue;">\[스피리바 레스피맷]</mark> 또는 LTRA 추가 고려. LAMA는 증상·삶의 질 개선이 크지 않고 악화 감소 효과도 생물학적 제제보다 작음
@@ -806,27 +925,119 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
     * 임상적으로 관련된 알레르겐 감작이 확인된 중증 알레르기성 천식 → omalizumab <mark style="color:blue;">\[졸레어]</mark>, <mark style="color:blue;">\[옴리클로]</mark> 고려
     * T2 바이오마커 제한 없이 적응 가능한 중증 천식 → tezepelumab <mark style="color:blue;">\[테즈파이어]</mark> 고려
 
+
+
+```mermaid
+flowchart TD
+    Assess["`**천식 치료 선택 및 재평가**
+진단 · 증상 조절 · 악화 위험
+흡입기 사용법 · 순응도 · 동반 질환 확인`"]
+
+    subgraph Routes["치료 전략 선택"]
+        direction LR
+
+        subgraph Track1["1안(Track 1) · ICS-formoterol 완화제"]
+            direction TB
+
+            T12["`**Step 1~2**
+필요시 저용량 ICS-formoterol
+유지 투여 없는 AIR-only`"]
+
+            T13["`**Step 3**
+저용량 ICS-formoterol 유지
+＋ 동일 흡입기를 필요시 사용
+저용량 MART`"]
+
+            T14["`**Step 4**
+중간용량 ICS-formoterol 유지
+＋ 동일 흡입기를 필요시 사용
+중간용량 MART`"]
+
+            T12 -->|조절 불충분| T13
+            T13 -->|조절 불충분| T14
+        end
+
+        subgraph Track2["2안(Track 2) · SABA 완화제"]
+            direction TB
+
+            T21["`**Step 1**
+SABA 사용 시마다
+저용량 ICS를 함께 사용`"]
+
+            T22["`**Step 2**
+매일 저용량 ICS 유지
+＋ 필요시 SABA`"]
+
+            T23["`**Step 3**
+매일 저용량 ICS-LABA 유지
+＋ 필요시 SABA`"]
+
+            T24["`**Step 4**
+매일 중간용량 ICS-LABA 유지
+＋ 필요시 SABA`"]
+
+            T21 -->|조절 불충분| T22
+            T22 -->|조절 불충분| T23
+            T23 -->|조절 불충분| T24
+        end
+
+        Track1 ~~~ Track2
+    end
+
+    Step5["`**Step 5 · 전문가 의뢰**
+최적화된 Step 4에도 조절 불충분
+진단 · 흡입 기술 · 순응도 재확인
+표현형 평가 및 추가 치료 선택
+LAMA · 생물학적 제제 등 고려
+유지 OCS는 최후 수단`"]
+
+    Assess -->|환자 상태에 맞는 단계에서 시작| Routes
+    Routes -->|최적화된 Step 4에도 조절 불충분| Step5
+
+    classDef assess fill:#eeeeee,stroke:#78909c,color:#263238,stroke-width:2px
+    classDef track1 fill:#e3f2fd,stroke:#1976d2,color:#153955
+    classDef track2 fill:#fff3e0,stroke:#ef8c00,color:#603b12
+    classDef expert fill:#fce4ec,stroke:#c62828,color:#651b28,stroke-width:2px
+
+    class Assess assess
+    class T12,T13,T14 track1
+    class T21,T22,T23,T24 track2
+    class Step5 expert
+
+    style Routes fill:transparent,stroke:transparent
+    style Track1 fill:#f5faff,stroke:#1976d2
+    style Track2 fill:#fffaf2,stroke:#ef8c00
+
+```
+
+> _화살표는 조절 불충분 시 단계 상향을 검토한다는 의미임. 모든 환자가 Step 1부터 순서대로 시작하는 것은 아니며, 초기 증상·폐 기능·악화 위험에 맞는 단계에서 시작_
+>
+> _단계 상향 전 흡입 기술, 순응도, 위험 인자 및 동반 질환을 먼저 점검_
+>
+> _2안에서도 SABA 단독으로 천식을 치료하지 않으며, ICS 포함 치료를 반드시 병행_
+>
+> _3개월 이상 조절이 양호하고 폐 기능이 안정되면 위험 인자를 평가하여 단계 감량 고려_
+>
+> _MART 및 AIR-only는 해당 제품·함량·연령의 국내 허가용법을 적용. 고용량 제형이나 3제 복합 흡입제를 완화제로 임의 사용하지 않음_
+
+<p align="center"><strong>증상 조절과 악화 위험 최소화를 위한 단계별 천식 치료</strong><br><em><mark style="color:$info;">저자 재구성(참고 문헌 : 대한결핵 및 호흡기학회. 천식 진료지침 2026. 그림 4-3; GINA 2026)</mark></em></p>
+
 ### <mark style="color:orange;">6\~11세 소아의 단계별 치료</mark>
 
-* 성인·청소년 표와 구분하여 적용하며, 6\~11세도 SABA 단독 치료를 권하지 않음. 경증 악화에는 SABA 대신 ICS-formoterol을 사용할 수 있음 <mark style="color:$info;">\[GINA 2026]</mark>
+* 성인·청소년 표와 구분하여 적용하며, 6\~11세도 SABA 단독 치료를 권하지 않음
+* 경증 악화에는 SABA 대신 ICS-formoterol을 사용할 수 있음 <mark style="color:$info;">\[GINA 2026]</mark>
 
-| 단계                        | 주요 치료 선택지                                                                      |
-| ------------------------- | ------------------------------------------------------------------------------ |
-| Step 1 (증상이 드묾, 예: ≤2일/주) | 필요시 저용량 ICS-formoterol(AIR-only), 또는 SABA 사용 때마다 저용량 ICS를 함께 사용(복합제 또는 별도 흡입기) |
-| Step 2                    | 매일 저용량 ICS + 필요시 SABA 또는 ICS-SABA                                              |
-| Step 3                    | 매일 중간용량 ICS 또는 저용량 ICS-LABA + 완화제, 또는 저용량 ICS-formoterol MART                  |
-| Step 4                    | 중간용량 ICS-LABA + 완화제, 또는 저용량 ICS-formoterol MART; 소아 천식 전문가 의뢰 고려               |
-| Step 5                    | 소아 천식 전문가에게 의뢰하여 진단·흡입 기술·순응도·표현형 및 추가 치료 평가                                   |
+<table><thead><tr><th width="164">단계</th><th>주요 치료 선택지</th></tr></thead><tbody><tr><td>Step 1 (증상이 드묾, 예: ≤2일/주)</td><td>필요시 저용량 ICS-formoterol(AIR-only), 또는 SABA 사용 때마다 저용량 ICS를 함께 사용(복합제 또는 별도 흡입기)</td></tr><tr><td>Step 2</td><td>매일 저용량 ICS + 필요시 SABA 또는 ICS-SABA</td></tr><tr><td>Step 3</td><td>매일 중간용량 ICS 또는 저용량 ICS-LABA + 완화제, 또는 저용량 ICS-formoterol MART</td></tr><tr><td>Step 4</td><td>중간용량 ICS-LABA + 완화제, 또는 저용량 ICS-formoterol MART; 소아 천식 전문가 의뢰 고려</td></tr><tr><td>Step 5</td><td>소아 천식 전문가에게 의뢰하여 진단·흡입 기술·순응도·표현형 및 추가 치료 평가</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. GINA. Summary Guide for Asthma Management and Prevention. 2026. Tables 4, 7; Figure 8.</mark></em></p>
 
 * **GINA 2026 소아 AIR/MART 용량 예**: budesonide-formoterol 전달용량 80/4.5 ㎍(계량용량 100/6 ㎍) - AIR-only 1 puff prn; Step 3 MART 1 puff qd + 1 puff prn; Step 4 MART 1 puff bid + 1 puff prn. 유지+완화 합계가 24시간 총 8회를 초과해 필요하면 당일 진료
 * 이 소아 용법은 국외 지침의 선택지이며 국내 제품의 소아 AIR/MART 허가 범위와 다를 수 있음. 성인용 160/4.5 또는 다른 pMDI 함량의 용법을 그대로 대입하지 않음
 * 만 5세 이하는 이 표의 적용 대상이 아니며 별도의 소아 진단·치료 접근을 적용
 
-<p align="center"><em><mark style="color:$info;">Ref. GINA. Summary Guide for Asthma Management and Prevention. 2026. Tables 4, 7; Figure 8.</mark></em></p>
-
 ## <mark style="color:green;">치료 단계 결정 및 조절</mark>
 
-<table><thead><tr><th width="80">단계</th><th width="220">현재 치료</th><th>단계 내림 원칙</th></tr></thead><tbody><tr><td>5</td><td>고용량 ICS-LABA + 유지 OCS 또는 추가 치료</td><td>전문의와 함께 유지 OCS를 우선 감량·가능하면 중단. 이후 다른 추가제를 개별적으로 재평가하며 유지 ICS 포함 치료를 지속</td></tr><tr><td>4</td><td>중간·고용량 ICS-LABA 또는 중간용량 MART</td><td>ICS 용량을 25~50% 감량하거나 저용량 MART로 전환; 제품 허가 용법을 유지</td></tr><tr><td>3</td><td>저용량 ICS-LABA 또는 저용량 MART</td><td>승인된 저용량·투여 횟수로 감량; MART는 GINA의 1일 1회 유지 감량 예와 제품별 국내 유지용법을 구분하고, 충분히 안정되면 AIR-only 전환 고려</td></tr><tr><td>2</td><td>저용량 ICS 유지</td><td>1일 1회 저용량으로 감량하거나 필요시 저용량 ICS-formoterol/AIR 또는 SABA 사용 때마다 ICS로 전환 고려</td></tr></tbody></table>
+<table><thead><tr><th width="70">단계</th><th width="220">현재 치료</th><th>단계 내림 원칙</th></tr></thead><tbody><tr><td><strong>5</strong></td><td>고용량 ICS-LABA + 유지 OCS 또는 추가 치료</td><td>전문의와 함께 유지 OCS를 우선 감량·가능하면 중단. 이후 다른 추가제를 개별적으로 재평가하며 유지 ICS 포함 치료를 지속</td></tr><tr><td><strong>4</strong></td><td>중간·고용량 ICS-LABA 또는 중간용량 MART</td><td>ICS 용량을 25~50% 감량하거나 저용량 MART로 전환; 제품 허가 용법을 유지</td></tr><tr><td><strong>3</strong></td><td>저용량 ICS-LABA 또는 저용량 MART</td><td>승인된 저용량·투여 횟수로 감량; MART는 GINA의 1일 1회 유지 감량 예와 제품별 국내 유지용법을 구분하고, 충분히 안정되면 AIR-only 전환 고려</td></tr><tr><td><strong>2</strong></td><td>저용량 ICS 유지</td><td>1일 1회 저용량으로 감량하거나 필요시 저용량 ICS-formoterol/AIR 또는 SABA 사용 때마다 ICS로 전환 고려</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Box 4-13.</mark></em></p>
 
@@ -836,13 +1047,16 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 * 호흡기 감염, 여행, 임신 중 단계 내림 시도는 권하지 않음
 * 방법 : ICS 용량을 25\~50%씩 단계적으로 감량하며 3개월 간격으로 관찰
   * 갑작스러운 중단은 급성 악화 위험을 높임
-  * ICS-LABA 치료에서는 ICS 용량 감량을 우선 고려하고, LABA 중단 시 조절 악화 가능성에 주의. ICS 없이 LABA만 남기는 방식으로 감량하지 않음
-* 성인·청소년에서 ICS를 완전히 중단하지 않음. 유지 ICS를 줄이더라도 AIR 등 ICS 포함 치료를 지속하며, 진단 재확인을 위한 일시적 감량·중단은 별도 감독하에 시행
+  * ICS-LABA 치료에서는 ICS 용량 감량을 우선 고려하고, LABA 중단 시 조절 악화 가능성에 주의
+  * ICS 없이 LABA만 남기는 방식으로 감량하지 않음
+* 성인·청소년에서 ICS를 완전히 중단하지 않음
+  * 유지 ICS를 줄이더라도 AIR 등 ICS 포함 치료를 지속하며, 진단 재확인을 위한 일시적 감량·중단은 별도 감독하에 시행
 * 내림 직후 증상 재발 또는 폐 기능 저하 시 즉시 이전 단계로 복귀
 
 ### <mark style="color:orange;">단계 올림</mark>
 
-* 2\~3개월간의 적절한 ICS 포함 치료에도 증상 및/또는 악화가 지속되면 장기 단계 올림을 고려. 증량은 치료적 시도로 시행하고 **2\~3개월 후 반응이 없으면 이전 단계로 복귀**하여 대체 진단·다른 치료 또는 전문가 의뢰를 검토 <mark style="color:$info;">\[천식 진료지침 2026, p.107]</mark>
+* 2\~3개월간의 적절한 ICS 포함 치료에도 증상 및/또는 악화가 지속되면 장기 단계 올림을 고려
+* 증량은 치료적 시도로 시행하고 2\~3개월 후 반응이 없으면 이전 단계로 복귀하여 대체 진단·다른 치료 또는 전문가 의뢰를 검토 <mark style="color:$info;">\[천식 진료지침 2026, p.107]</mark>
 * 올림 전 확인 : 부정확한 흡입제 사용, 불순응, 위험 인자 노출(알레르겐, 흡연), 약물(NSAID, β-차단제), 동반 질환(알레르기비염), 잘못된 진단
 * 일시적 단계 올림 : 바이러스 감염 또는 계절성 알레르겐 노출 시 1\~2주 동안 올림 후 복귀
 
@@ -852,31 +1066,35 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 * 원인 : 호흡기 감염, 알레르겐 노출
 
 {% hint style="info" %}
-**국내 지침과 GINA 2026의 급성 악화 기준 차이**: 국내 「천식 진료지침 2026」 표 5-4·그림 5-1(pp.129, 132)은 종전의 중증 SpO₂ ＜90%와 성인 산소 목표 93\~95%를 제시하고, p.133은 SABA 4\~10 puffs를 20분마다 최대 3회 제시함. 아래 본문·알고리듬은 개정된 **GINA 2026**의 중증 SpO₂ ＜92%, 산소 목표 92\~95% 및 중증도별 보수적 SABA 용량으로 통일함. 두 자료의 수치를 혼합하여 적용하지 않음
+**국내 지침과 GINA 2026의 급성 악화 기준 차이** : 국내 「천식 진료지침 2026」은 종전의 중증 SpO₂ ＜90%와 성인 산소 목표 93\~95%를 제시하고, SABA 4\~10 puffs를 20분마다 최대 3회 제시함. 아래 본문·알고리듬은 개정된 **GINA 2026**의 중증 SpO₂ ＜92%, 산소 목표 92\~95% 및 중증도별 보수적 SABA 용량으로 통일함. 두 자료의 수치를 혼합하여 적용하지 않음
 {% endhint %}
 
 ### <mark style="color:orange;">Acute care</mark>
 
 #### <mark style="color:$primary;">내원 전 대처</mark>
 
-* 증상 발생 시 서면 행동계획에 정한 완화제를 사용. 저용량 ICS-formoterol은 1회 사용 후 수분 동안 호전되지 않으면 추가 흡입할 수 있고, SABA는 별도의 행동계획에 따른 용량·간격을 적용
+* 증상 발생 시 서면 행동계획에 정한 완화제를 사용
+  * 저용량 ICS-formoterol은 1회 사용 후 수분 동안 호전되지 않으면 추가 흡입할 수 있고, SABA는 별도의 행동계획에 따른 용량·간격을 적용
 * 말하기 힘든 호흡 곤란, 의식 변화, 청색증 또는 빠른 악화가 있으면 즉시 119/응급 진료; 반복 흡입 횟수를 채우기 위해 이송을 지연하지 않음
-* 반복적인 완화제 사용에도 호전이 없거나 당일 진료 기준에 도달하면 즉시 진료. 경미한 증상 증가라도 2\~3일 지속되면 치료를 재평가하되, 빠르게 악화하면 기다리지 않음
+* 반복적인 완화제 사용에도 호전이 없거나 당일 진료 기준에 도달하면 즉시 진료
+* 경미한 증상 증가라도 2\~3일 지속되면 치료를 재평가하되, 빠르게 악화하면 기다리지 않음
 
 #### <mark style="color:$primary;">평가</mark>
 
 * SABA(또는 경증 시 ICS-formoterol) 투여를 시작하면서 중증도를 평가
-* 호흡 곤란(말하기), 호흡수, 맥박수, 산소 포화도, 폐 기능(PEF), anaphylaxis 동반 여부 확인; 기흉·아나필락시스·ILO·폐렴·급성 심부전·폐색전증 등 천식 외 원인 고려
-* 중증도 구분(실내 공기 SpO₂ 기준) : 경증 ≥94%·PEF ＞70%, 중등증 ≥92%·PEF 50\~70%, 중증 ＜92% 또는 PEF ＜50% 등 (☞ 아래 알고리듬). **모든 소견이 일치할 필요는 없으며 가장 심한 소견을 기준으로 판단**하고, 생명 위협 징후가 있으면 수치와 관계없이 즉시 이송
-* **Anaphylaxis 동반 시** : 기관지확장제보다 **에피네프린(아드레날린) 근육주사를 먼저** 투여하고 응급 이송 <mark style="color:$info;">\[GINA 2026]</mark>
+* 호흡 곤란(말하기), 호흡수, 맥박수, 산소 포화도, 폐 기능(PEF), anaphylaxis 동반 여부 확인
+  * 기흉·아나필락시스·ILO·폐렴·급성 심부전·폐색전증 등 천식 외 원인 고려
+* 중증도 구분(실내 공기 SpO₂ 기준) : 경증 ≥94%·PEF ＞70%, 중등증 ≥92%·PEF 50\~70%, 중증 ＜92% 또는 PEF ＜50% 등 (☞ 아래 알고리듬). 모든 소견이 일치할 필요는 없으며 가장 심한 소견을 기준으로 판단하고, 생명 위협 징후가 있으면 수치와 관계없이 즉시 이송
+* Anaphylaxis 동반 시 : 기관지확장제보다 에피네프린(아드레날린) 근육주사를 먼저 투여하고 응급 이송 <mark style="color:$info;">\[GINA 2026]</mark>
 
 #### <mark style="color:$primary;">응급 이송</mark>
 
-* 의식 혼탁, 호흡음이 잘 들리지 않는 경우 (silent chest), 중증 증상 시 응급 이송; 이송을 준비하면서 바로 치료 시작
+* 의식 혼탁, 호흡음이 잘 들리지 않는 경우 (silent chest), 중증 증상 시 응급 이송
+* 이송을 준비하면서 바로 치료 시작
 
 #### <mark style="color:$primary;">치료 시작</mark>
 
-* 아래 초기 기관지확장제 용량과 알고리듬은 **GINA 2026의 성인·청소년·6\~11세 일차의료 접근**(salbutamol 100 ㎍/puff). OCS는 연령별 용량을 따로 적용하며, 18세 미만은 PRAM 등 검증된 임상 점수를 함께 평가. 6\~11세의 급성 경증 악화에 제시된 budesonide-formoterol 160/4.5 2 puffs는 평상시 소아 AIR/MART 80/4.5 용법과 다른 상황이며, 국내 허가상 소아 증상완화 용법과도 구분; 국내 일차의료에서는 SABA+spacer를 기본 선택으로 사용할 수 있음
+* 아래 초기 기관지확장제 용량과 알고리듬은 **GINA 2026의 성인·청소년·6\~11세 일차의료 접근임**(salbutamol 100 ㎍/puff). OCS는 연령별 용량을 따로 적용하며, 18세 미만은 PRAM 등 검증된 임상 점수를 함께 평가. 6\~11세의 급성 경증 악화에 제시된 budesonide-formoterol 160/4.5 2 puffs는 평상시 소아 AIR/MART 80/4.5 용법과 다른 상황이며, 국내 허가상 소아 증상완화 용법과도 구분; 국내 일차의료에서는 SABA+spacer를 기본 선택으로 사용할 수 있음
 * pMDI+spacer로 **한 번에 1 puff씩** 투여(숨이 차서 호흡 정지가 어려우면 tidal breathing)하고, salbutamol 등 서스펜션 제형은 **매 흡입(puff) 직전마다** 흔듦. 여러 번 흡입하기 전에 한 번만 흔들면 새 흡입기에서 과량(예상의 3배 이상)이, 많이 쓴 흡입기에서는 과소 용량이 전달될 수 있으며, 30초만 지연돼도 전달 용량이 크게 달라짐 <mark style="color:$info;">\[GINA 2026]</mark>
 * 경증(문장으로 대화 가능, 누울 수 있음) : salbutamol 4 puffs 또는 budesonide-formoterol 160/4.5 ㎍ 2 puffs 투여 후 반응 평가; 필요하면 30\~60분 후 1회 반복. ICS-formoterol은 퇴원 후 최적 조절제 치료로 자연스럽게 연결되는 장점 <mark style="color:$info;">\[GINA 2026]</mark>
 * 중등증(구 단위로 대화, 앉는 것을 선호) : salbutamol 4\~6 puffs(또는 네뷸라이저 2.5 ㎎<mark style="color:blue;">\[벤토린 네뷸]</mark>)를 20\~30분 간격으로 필요하면 최대 3회; ipratropium 병용(네뷸라이저, ☞ 속효성 항콜린제) 최대 3회; 경구 스테로이드 시작
@@ -889,7 +1107,7 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 * 악화되거나 호전 없으면 즉시 상위 기관으로 이송
 
 {% hint style="danger" %}
-**⚠️ SABA 과다 투여 주의&#x20;**<mark style="color:$info;">**\[GINA 2026]**</mark> : 반복 투여에도 호전이 없는 빈호흡·과호흡은 기도 수축이 아니라 SABA 과다 투여로 인한 젖산산증의 보상성 과호흡일 수 있음. 이를 악화로 오인해 SABA를 추가 투여하지 말고, 반응이 부적절하면 즉시 재평가하고 상위 기관 이송을 고려함. 권장 SABA 용량은 과거보다 보수적으로 조정됨
+**SABA 과다 투여 주의&#x20;**<mark style="color:$info;">**\[GINA 2026]**</mark> : 반복 투여에도 호전이 없는 빈호흡·과호흡은 기도 수축이 아니라 SABA 과다 투여로 인한 젖산산증의 보상성 과호흡일 수 있음. 이를 악화로 오인해 SABA를 추가 투여하지 말고, 반응이 부적절하면 즉시 재평가하고 상위 기관 이송을 고려함. 권장 SABA 용량은 과거보다 보수적으로 조정됨
 {% endhint %}
 
 #### <mark style="color:$primary;">중증 악화에 대한 조치</mark>
@@ -900,10 +1118,10 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 ### <mark style="color:orange;">천식 악화 시 자가 관리 방법</mark>
 
-<table><thead><tr><th width="230">약물 치료</th><th>악화된 천식을 위해 단기(1~2주) 변경</th></tr></thead><tbody><tr><td><strong>평소 사용 완화제 증량</strong></td><td></td></tr><tr><td>저용량 ICS-FMT¹⁾</td><td>필요시 사용 저용량 ICS-FMT의 사용 빈도를 늘림¹⁾; 심비코트 터부헬러 160/4.5는 유지+완화 총 8회/일 이상 필요하면 재평가; 12회 초과 필요 또는 반응 부족·급속 악화 시 즉시 진료</td></tr><tr><td>SABA</td><td>서면 행동계획에 따라 필요시 사용; pMDI는 스페이서 사용. 반복 투여에도 반응이 부족하거나 빠르게 악화하면 즉시 진료</td></tr><tr><td>ICS-SABA</td><td>필요시 ICS-SABA 사용 빈도 늘림²⁾</td></tr><tr><td><strong>평소의 유지 치료를 늘림</strong></td><td></td></tr><tr><td>유지-완화 ICS-FMT¹⁾</td><td>기존 ICS-FMT 용량을 유지하고, 필요시 완화용 ICS-FMT 용량을 늘림¹⁾</td></tr><tr><td>유지 ICS+ 완화 SABA</td><td>성인에서 ICS 4배 증량 고려</td></tr><tr><td>유지 ICS-FMT<br>+ 완화 SABA¹⁾</td><td>성인에서 ICS 성분의 단기 증량 고려. 복합 흡입제 전체를 기계적으로 4배 늘려 LABA가 과량이 되지 않도록 제품별 허가 최대량을 확인하고, 필요시 별도 ICS 추가 등을 처방¹⁾</td></tr><tr><td><p>유지 ICS + 다른 LABA</p><p>+ 완화 SABA</p></td><td>가능한 경우 ICS + 다른 LABA 고용량 제형으로 단계 높임. 성인에서는 별도의 ICS를 추가하여 ICS 용량 4배 증량 고려</td></tr><tr><td><strong>경구 스테로이드 추가 및 진료</strong></td><td></td></tr><tr><td><p>경구 스테로이드</p><p>(prednisone or prednisolone)</p></td><td>심한 악화(예: PEF 또는 FEV₁ 개인 최고치 또는 기대치의 ＜60%) 또는 48시간 이상 치료 반응이 없는 경우 OCS 추가; 아침 복용 권장. 성인: prednisolone 40~50 ㎎/일, 보통 5~7일간; 2주 미만 처방 시 tapering 불필요</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="230">약물 치료</th><th>악화된 천식을 위해 단기(1~2주) 변경</th></tr></thead><tbody><tr><td colspan="2"><strong>평소 사용 완화제 증량</strong></td></tr><tr><td>저용량 ICS-FMT¹⁾</td><td>필요시 사용 저용량 ICS-FMT의 사용 빈도를 늘림¹⁾; 심비코트 터부헬러 160/4.5는 유지+완화 총 8회/일 이상 필요하면 재평가; 12회 초과 필요 또는 반응 부족·급속 악화 시 즉시 진료</td></tr><tr><td>SABA</td><td>서면 행동계획에 따라 필요시 사용; pMDI는 스페이서 사용. 반복 투여에도 반응이 부족하거나 빠르게 악화하면 즉시 진료</td></tr><tr><td>ICS-SABA</td><td>필요시 ICS-SABA 사용 빈도 늘림²⁾</td></tr><tr><td colspan="2"><strong>평소의 유지 치료를 늘림</strong></td></tr><tr><td>유지-완화 ICS-FMT¹⁾</td><td>기존 ICS-FMT 용량을 유지하고, 필요시 완화용 ICS-FMT 용량을 늘림¹⁾</td></tr><tr><td>유지 ICS+ 완화 SABA</td><td>성인에서 ICS 4배 증량 고려</td></tr><tr><td>유지 ICS-FMT<br>+ 완화 SABA¹⁾</td><td>성인에서 ICS 성분의 단기 증량 고려. 복합 흡입제 전체를 기계적으로 4배 늘려 LABA가 과량이 되지 않도록 제품별 허가 최대량을 확인하고, 필요시 별도 ICS 추가 등을 처방¹⁾</td></tr><tr><td><p>유지 ICS + 다른 LABA</p><p>+ 완화 SABA</p></td><td>가능한 경우 ICS + 다른 LABA 고용량 제형으로 단계 높임. 성인에서는 별도의 ICS를 추가하여 ICS 용량 4배 증량 고려</td></tr><tr><td colspan="2"><strong>경구 스테로이드 추가 및 진료</strong></td></tr><tr><td><p>경구 스테로이드</p><p>(prednisone or prednisolone)</p></td><td>심한 악화(예: PEF 또는 FEV₁ 개인 최고치 또는 기대치의 ＜60%) 또는 48시간 이상 치료 반응이 없는 경우 OCS 추가; 아침 복용 권장. 성인: prednisolone 40~50 ㎎/일, 보통 5~7일간; 2주 미만 처방 시 tapering 불필요</td></tr></tbody></table>
 
-¹⁾ICS-formoterol은 증상 완화용(AIR-only) 또는 유지 및 완화요법(MART)의 일부로 사용\
-²⁾budesonide-salbutamol 100/100 ㎍(전달 용량 80/90 ㎍) 2회 흡입. 24시간 6회 투여(총 12 inhalations)를 초과해 필요하면 당일 의료기관에 연락
+> _¹⁾ICS-formoterol은 증상 완화용(AIR-only) 또는 유지 및 완화요법(MART)의 일부로 사용_\
+> _²⁾budesonide-salbutamol 100/100 ㎍(전달 용량 80/90 ㎍) 2회 흡입. 24시간 6회 투여(총 12 inhalations)를 초과해 필요하면 당일 의료기관에 연락_
 
 <p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Box 9-2.</mark></em></p>
 
@@ -911,7 +1129,7 @@ _MDI = metered-dose inhaler, DPI = dry powder inhaler_\
 
 ```mermaid
 flowchart TD
-    Start(["일차의료기관<br/>급성 악화 증상을 보이는 천식 환자<br/>(성인·청소년·6~11세)"])
+    Start["일차의료기관<br/>급성 악화 증상을 보이는 천식 환자<br/>(성인·청소년·6~11세)"]
     B["환자 평가<br/>• 천식에 의한 증상인가?<br/>• 사망 위험 요인이 있는가?<br/>• 악화의 중증도는?"]
     C["경증¹⁾<br/>• 문장으로 대화, 누울 수 있음<br/>• 호흡수 정상~약간 증가<br/>• 보조근 사용 없음<br/>• SpO₂ ≥94%²⁾<br/>• PEF ＞70%³⁾"]
     D["중등증¹⁾<br/>• 구 단위로 대화, 앉는 것을 선호<br/>• 호흡수 증가하나 ≤30회/분<br/>• 보조근 사용, 호기 천명<br/>• SpO₂ ≥92%²⁾<br/>• PEF 50~70%³⁾"]
@@ -923,9 +1141,8 @@ flowchart TD
     R2["1시간 이내 반응 재평가<br/>SpO₂, 호흡수, 보조근, 공기 유입, PEF"]
     F1["응급 이송"]
     F2["응급 이송"]
-    K1["퇴원 평가 및 준비⁴⁾"]
-    K2["퇴원 평가 및 준비⁴⁾"]
-
+    K1["퇴원 평가 및 준비"]
+    K2["퇴원 평가 및 준비"]
     Start --> B
     B --> C
     B --> D
@@ -939,7 +1156,6 @@ flowchart TD
     R1 -- "악화 또는 호전 없음" --> F1
     R2 -- "호전" --> K2
     R2 -- "악화 또는 호전 없음" --> F2
-
     classDef question fill:#fff9c4,stroke:#ffe082
     classDef red fill:#ff7575,stroke:#c62828,stroke-width:2px
     classDef blue fill:#e3f2ff,stroke:#2196f3
@@ -951,15 +1167,13 @@ flowchart TD
     style D fill:#ffcdd2,stroke:#c62828,stroke-width:1px
 ```
 
-<p align="center"><strong>일차의료에서의 천식 악화 관리</strong></p>
+> _¹⁾소견 중 가장 높은 중증도를 적용하며, 18세 미만은 PRAM 등 임상 점수 병행(경증 1\~3, 중등증 4\~7, 중증 8\~12)_\
+> _²⁾실내 공기, 치료 전 측정. 피부색이 어두우면 맥박산소측정기가 과대 측정할 수 있음_\
+> _³⁾개인 최고치 또는 예측치 대비_
 
-<p align="center"><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Box 9-4.</mark></em></p>
+<p align="center"><strong>일차의료에서의 천식 악화 관리</strong><br><em><mark style="color:$info;">Ref. GINA. Global strategy for asthma management and prevention. 2026. Box 9-4.</mark></em></p>
 
-> ¹⁾소견 중 가장 높은 중증도를 적용하며, 18세 미만은 PRAM 등 임상 점수 병행(경증 1\~3, 중등증 4\~7, 중증 8\~12)\
-> ²⁾실내 공기, 치료 전 측정. 피부색이 어두우면 맥박산소측정기가 과대 측정할 수 있음\
-> ³⁾개인 최고치 또는 예측치 대비
-
-**⁴⁾퇴원 평가 (ASSESS FOR DISCHARGE)**
+**퇴원 평가 (ASSESS FOR DISCHARGE)**
 
 * 증상·징후 : 마지막 salbutamol 투여 후 최소 1\~2시간 동안 '경증' 기준을 충족
 * 산소포화도 : 실내 공기에서 ≥92%
@@ -985,7 +1199,7 @@ flowchart TD
 * 완화제 : 필요시 사용으로 감량
 * ICS 포함 치료 : 새로 시작하거나 단계를 올리고, 성인·청소년에서는 가능하면 GINA Track 1(ICS-formoterol MART)으로 전환. Track 2에서 일시적으로 올린 유지용량은 보통 2\~4주 후 이전 수준으로 감량하되, 장기간 조절 불량 배경에서 발생한 악화이고 흡입 기술·순응도가 양호하면 지속적인 단계 상향을 고려
 * 위험 요인 : 악화에 기여했을 수 있는 수정 가능한 요인(흡입기 사용법, 복약 순응도 등) 확인 및 교정
-* 행동 계획 : 이해되었는가? 적절히 사용되었는가? 수정이 필요한가?
+* 행동계획 : 이해되었는가? 적절히 사용되었는가? 수정이 필요한가?
 * 지난 1년간 OCS 단기 투여가 1회를 넘으면 전문가 의뢰를 고려하고, 반복 악화·입원 또는 유지 OCS가 필요하면 조기에 의뢰
 * 다음 추적 진료는 2\~3개월 이내
 
@@ -1010,7 +1224,7 @@ flowchart TD
 
 * 천식 '조절 안 됨'의 상당수는 진단 오류, 순응도 문제, 흡입기 오용에 기인
 
-<table><thead><tr><th width="60">#</th><th width="213.68426513671875">점검 항목</th><th>확인 내용</th></tr></thead><tbody><tr><td>1</td><td>진단이 올바른가?</td><td>증상 시에도 가변적 기류가 입증되지 않으면 ILO, 심부전, COPD 등 다른 진단 평가</td></tr><tr><td>2</td><td>흡입 기술이 올바른가?</td><td>흡입기 종류별 사용법 직접 시연 후 관찰; spacer 사용 여부; 서스펜션 pMDI는 매 흡입 직전 흔드는지 확인</td></tr><tr><td>3</td><td>순응도가 양호한가?</td><td>처방 이행 확인; 유지치료와 AIR-only 요법의 차이를 이해하는지 확인</td></tr><tr><td>4</td><td>흡연하고 있는가?</td><td>금연 지원; 흡연 노출을 줄이고 진단·치료 반응 재평가</td></tr><tr><td>5</td><td>비만인가?</td><td>ICS 반응 저하 가능; 체중 감량 권고</td></tr><tr><td>6</td><td>만성 비부비동염/비용종이 있는가?</td><td>INCS 등 근거 기반 치료; 중증 비용종 시 biologic 동반 적응증 고려</td></tr><tr><td>7</td><td>증상성 GERD가 있는가?</td><td>증상이 있을 때 치료; 무증상 GERD에 천식 조절 목적으로 PPI를 routine 처방하지 않음</td></tr><tr><td>8</td><td>수면무호흡증이 있는가?</td><td>야간 증상, 비만, 코골이 확인 → 수면 검사 의뢰</td></tr><tr><td>9</td><td>중증 천식 평가가 필요한가?</td><td>최적화된 고용량 ICS-LABA에도 반복 악화·조절 불량이면 호산구, FeNO, 알레르기 감작, 동반 질환 및 국내 급여기준 평가</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="60">#</th><th width="213.68426513671875">점검 항목</th><th>확인 내용</th></tr></thead><tbody><tr><td>1</td><td>진단이 올바른가?</td><td>증상 시에도 가변적 기류가 입증되지 않으면 ILO, 심부전, COPD 등 다른 진단 평가</td></tr><tr><td>2</td><td>흡입 기술이 올바른가?</td><td>흡입기 종류별 사용법 직접 시연 후 관찰; spacer 사용 여부; 서스펜션 pMDI는 매 흡입 직전 흔드는지 확인</td></tr><tr><td>3</td><td>순응도가 양호한가?</td><td>처방 이행 확인; 유지치료와 AIR-only 요법의 차이를 이해하는지 확인</td></tr><tr><td>4</td><td>흡연하고 있는가?</td><td>금연 지원; 흡연 노출을 줄이고 진단·치료 반응 재평가</td></tr><tr><td>5</td><td>비만인가?</td><td>ICS 반응 저하 가능; 체중 감량 권고</td></tr><tr><td>6</td><td>만성 비부비동염/비용종이 있는가?</td><td>INCS 등 근거 기반 치료; 중증 비용종 시 biologic 동반 적응증 고려</td></tr><tr><td>7</td><td>증상성 GERD가 있는가?</td><td>증상이 있을 때 치료; 무증상 GERD에 천식 조절 목적으로 PPI를 routine 처방하지 않음</td></tr><tr><td>8</td><td>수면무호흡증이 있는가?</td><td>야간 증상, 비만, 코골이 확인 → 수면 검사 의뢰</td></tr><tr><td>9</td><td>중증 천식 평가가 필요한가?</td><td>최적화된 고용량 ICS-LABA에도 반복 악화·조절 불량이면 호산구, FeNO, 알레르기 감작, 동반 질환 및 국내 급여기준 평가</td></tr></tbody></table>
 
 1. 흡입제 사용 관찰, 사용상 어려운 문제 상담 : 흡입기 종류에 따른 사용법 비교, 수시로 사용법 재확인
 2. 천식 진단이 올바른지 재확인 : 증상이 있는 동안 폐 기능이 정상이라면 2\~3주 후 재검사
@@ -1037,7 +1251,7 @@ flowchart TD
 
 <table><thead><tr><th width="76.57894897460938">구분</th><th>천식 가능성이 매우 높음</th><th width="211.894775390625">천식과 COPD의 특징 모두 있음</th><th>COPD 가능성이 높음</th></tr></thead><tbody><tr><td><strong>증상</strong><br><strong>양상</strong></td><td>• 시간에 따라 증상 강도 변화<br>• Trigger: 기침, 운동, 항원, 계절<br>• ＜40세 시작<br>• BD/ICS로 증상 호전</td><td>• 간헐적 또는 지속적 증상<br>• 천식의 증상(trigger) 있음<br>• 흡연력 or BD/ICS로 호전<br>• 지속적 기류 제한 가능</td><td>• 대부분의 날 호흡 곤란<br>• ＞40세 시작, 신체 활동 제한<br>• 흡연력 또는 노출력<br>• BD에 대한 반응 제한</td></tr><tr><td><strong>폐 기능</strong></td><td>• 다양한 기류 제한 (가역적)</td><td>• 지속되는 호기 기류 제한 + BD 가역성</td><td>• 지속적인 호기 기류 제한; BD 가역성 낮음</td></tr><tr><td><strong>치료</strong><br><strong>방향</strong></td><td><strong>Tx as Asthma</strong><br>• ICS 포함<br>• ICS 없는 LABA/LAMA 금지<br>• OCS 유지 요법 회피</td><td><strong>Tx as Asthma</strong><br>• ICS 포함<br>• 필요시 LABA 및/또는 LAMA 추가<br>• ICS 없는 LABA/LAMA 금지</td><td><strong>Tx as COPD</strong><br>• LAMA 및/또는 LABA<br>• ICS 추가 [GOLD 2026]<br>• 고용량 ICS/OCS 유지 회피</td></tr></tbody></table>
 
-BD = bronchodilator(기관지확장제). 2\~3개월 후 재검토; 반응 부적절하면 의뢰
+> _BD = bronchodilator(기관지확장제). 2\~3개월 후 재검토; 반응 부적절하면 의뢰_
 
 ### <mark style="color:orange;">천식과 COPD에서의 spirometry 특징</mark>
 
@@ -1051,12 +1265,16 @@ BD = bronchodilator(기관지확장제). 2\~3개월 후 재검토; 반응 부적
 * 야간에 마른기침이 심하고 주간에는 특별한 이상이 없는 경우도 있음
 * 경과 : 일부에서 전형적인 천식으로 이행하며, 이행률은 대상군·치료·추적기간에 따라 다름
 * 유발 인자 : 상기도 감염, 알레르겐, 담배 연기, 자극적인 냄새, 운동, 찬 공기
-* 진단 : 가변적 호기 기류 제한 또는 기도 과민성(기관지유발검사)을 확인. 객담 호산구 증가는 보조 소견이며 비천식성 호산구기관지염에서도 나타남; 기도 과민성이 없고 객담 호산구만 증가하면 이를 감별
-* 치료 : 다른 원인을 배제하고 일반 천식과 동일하게 ICS 포함 치료. 반응이 없으면 진단·순응도·흡입 기술을 재평가한 후 LTRA 병합 등을 고려
+* 진단 : 가변적 호기 기류 제한 또는 기도 과민성(기관지유발검사)을 확인
+  * 객담 호산구 증가는 보조 소견이며 비천식성 호산구기관지염에서도 나타남
+  * 기도 과민성이 없고 객담 호산구만 증가하면 이를 감별
+* 치료 : 다른 원인을 배제하고 일반 천식과 동일하게 ICS 포함 치료
+  * 반응이 없으면 진단·순응도·흡입 기술을 재평가한 후 LTRA 병합 등을 고려
 
 ### <mark style="color:orange;">직업성 천식 (Occupational Asthma)</mark>
 
-* 성인에서 새로 발생하는 천식의 5\~20%가 직업과 관련; 성인에서 새로 발병한 천식은 모든 사례에서 직업 노출 여부를 확인
+* 성인에서 새로 발생하는 천식의 5\~20%가 직업과 관련
+  * 성인에서 새로 발병한 천식은 모든 사례에서 직업 노출 여부를 확인
 * 최초 노출 수 주\~수년 후 발생; 직장에서 악화, 휴가 시 호전
 * 보통 직업성 비염이 직업성 천식에 앞서 발생
 * 가능한 한 빨리 노출 제거, 약물 치료(일반 천식과 동일)
@@ -1066,9 +1284,10 @@ BD = bronchodilator(기관지확장제). 2\~3개월 후 재검토; 반응 부적
 
 * 운동 후 기관지 수축에 의하여 기침, 호흡곤란, 천명 발생
 * 경과 : 운동 후 3분 내 발현 → 10\~15분 내 정점 → 30분(\~60분) 내 호전
-* 진단 : 운동 후 5, 10, 15, 30분에 FEV₁ 측정 → 운동 전 대비 ≥10% 감소 시 EIB를 지지(ATS 기준). 천식 확진을 위한 GINA의 연령별 운동유발검사 기준과 구분
+* 진단 : 운동 후 5, 10, 15, 30분에 FEV₁ 측정 → 운동 전 대비 ≥10% 감소 시 EIB를 지지(ATS 기준)
+  * 천식 확진을 위한 GINA의 연령별 운동유발검사 기준과 구분
 
-**예방 및 치료**
+<mark style="color:cyan;">**예방 및 치료**</mark>
 
 * 운동 전 준비운동(warm-up)으로 운동 유발 기관지수축을 줄일 수 있음
 * 운동 15분 전 SABA 흡입 (매일 규칙적 단독 사용은 권고하지 않음). 평소 AIR/MART를 사용하는 환자는 처방된 저용량 ICS-formoterol을 운동 전에 사용할 수 있으며, 이 경우 별도 SABA는 통상 필요하지 않음
@@ -1077,13 +1296,14 @@ BD = bronchodilator(기관지확장제). 2\~3개월 후 재검토; 반응 부적
 ### <mark style="color:orange;">임신부</mark>
 
 {% hint style="info" %}
-**핵심 원칙**: 천식 악화로 인한 **태아의 저산소증 위험이 약물 사용의 위험보다 훨씬 큼**. 임신 전과 동일하게 ICS를 포함한 조절제를 적극적으로 사용해야 하며, 증상이 조절되지 않는다고 판단할 경우 즉시 치료 단계를 올림
+**핵심 원칙** : 천식 악화로 인한 **태아의 저산소증 위험이 약물 사용의 위험보다 훨씬 큼**. 임신 전과 동일하게 ICS를 포함한 조절제를 적극적으로 사용해야 하며, 증상이 조절되지 않는다고 판단할 경우 즉시 치료 단계를 올림
 {% endhint %}
 
 * 임신 중 ⅓에서는 악화, ⅓에서는 호전됨; 급성 악화는 임신 중기에 많음
 * 잘 조절되지 않는 천식은 전자간증과 저체중아 출산 위험을 높임
 * 임신 중에는 치료 단계 내림 삼가; 악화 시 적극적으로 대처
-* ICS, 흡입 β₂-작용제, montelukast 및 theophylline의 통상 용량은 선천기형 증가와 관련되지 않음. Budesonide <mark style="color:blue;">\[풀미코트 터부헬러]</mark>는 임신 중 안전성 자료가 가장 많으나, 임신 전 효과적으로 사용하던 다른 ICS를 임의로 변경·중단하지 않음
+* ICS, 흡입 β₂-작용제, montelukast 및 theophylline의 통상 용량은 선천기형 증가와 관련되지 않음
+  * Budesonide <mark style="color:blue;">\[풀미코트 터부헬러]</mark>는 임신 중 안전성 자료가 가장 많으나, 임신 전 효과적으로 사용하던 다른 ICS를 임의로 변경·중단하지 않음
 * 4\~6주마다 모니터링
 
 ### <mark style="color:orange;">수술 전후 조절</mark>
@@ -1100,7 +1320,6 @@ BD = bronchodilator(기관지확장제). 2\~3개월 후 재검토; 반응 부적
 ### <mark style="color:orange;">비만</mark>
 
 * 과소 또는 과잉 진단 경향; 비만 환자의 천식은 조절이 보다 어려움
-* 5\~10%의 체중 감량으로도 천식 조절에 도움
 * GLP-1 수용체 작용제(GLP-1 RA) : 비만 동반 천식에서 천식 지표 개선 가능성을 시사하는 관찰 연구 있음; 아직 근거 수준 낮아 천식 치료 목적의 처방 근거로는 이르며 향후 연구 필요 <mark style="color:$info;">\[GINA 2026]</mark>
 
 ### <mark style="color:orange;">고령자</mark>
@@ -1116,8 +1335,11 @@ BD = bronchodilator(기관지확장제). 2\~3개월 후 재검토; 반응 부적
 #### <mark style="color:$primary;">치료</mark>
 
 * 일반적인 경우와 같음; 다만 고령자의 특성, 기저 질환, 복용 약물 고려
-* 점안제를 포함한 β-차단제의 적응증과 호흡기 부작용을 재평가. 명확한 심혈관 적응증이 있으면 심장선택적 β₁-차단제를 저용량부터 면밀히 관찰하며 사용하는 방안을 관련 전문의와 개별 판단; 일률적으로 전환·중단하지 않음
-* β₂-작용제와 digoxin 병용 시 저칼륨혈증·부정맥 위험에 주의. MAOI·삼환계 항우울제 등은 심혈관 작용을 증강할 수 있으므로 성분별 상호작용 확인
+* 점안제를 포함한 β-차단제의 적응증과 호흡기 부작용을 재평가
+  * 명확한 심혈관 적응증이 있으면 심장선택적 β₁-차단제를 저용량부터 면밀히 관찰하며 사용하는 방안을 관련 전문의와 개별 판단
+  * 일률적으로 전환·중단하지 않음
+* β₂-작용제와 digoxin 병용 시 저칼륨혈증·부정맥 위험에 주의
+  * MAOI·삼환계 항우울제 등은 심혈관 작용을 증강할 수 있으므로 성분별 상호작용 확인
 
 ### <mark style="color:orange;">운동선수</mark>
 
