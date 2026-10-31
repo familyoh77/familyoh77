@@ -50,41 +50,51 @@
 
 ### <mark style="color:orange;">장기 사용 주의 약제</mark>
 
-<table data-search="false"><thead><tr><th width="155.11114501953125">약제</th><th width="322.4444580078125">장기 사용 문제</th><th>권고</th></tr></thead><tbody><tr><td><strong>PPI</strong></td><td>중단 시 일시적 반동성 위산 과분비 가능. 장 감염 외 폐렴·골절·CKD·치매 등은 주로 관찰 연구의 연관성이며 인과관계가 확립되지 않음</td><td>확실한 적응증이 있으면 유지하되 정기적으로 적응증·최저 유효 용량 재평가</td></tr><tr><td><strong>metoclopramide</strong></td><td>노출 기간·누적 용량에 따라 비가역적 지연운동이상증 위험 증가; 과거 추정치보다 실제 위험은 낮으나 고령 여성·당뇨병·간신장 기능 저하·항정신병약 병용 시 위험 증가</td><td>국내 맥페란정은 허가 적응증에 최대 5일 사용; 미국 위마비 치료의 FDA 12주 제한과 구분</td></tr><tr><td><strong>domperidone</strong></td><td>QT 연장·심실성 부정맥(심장돌연사)</td><td>구역·구토에 최저 유효 용량 사용; 국내 허가상 일반적으로 1주를 초과하지 않음</td></tr><tr><td><strong>자극성 하제</strong></td><td>복통·설사·전해질 이상; 장기 안전성 자료는 제한적이나 치료 용량에서 대장 기능이 영구적으로 손상된다는 근거는 불충분</td><td>bisacodyl·Na picosulfate는 단기 또는 구제요법; 장기 필요시 원인과 반응 재평가</td></tr><tr><td><strong>MgO (고용량)</strong></td><td>고마그네슘혈증 - 중증 CKD·고령에서 위험 증가</td><td>국내 품목 허가상 신장애 환자 금기; 고령에서 장기 사용 시 신기능·필요시 Mg 확인</td></tr><tr><td><strong>항콜린성 진경제</strong></td><td>인지 기능 저하(누적 항콜린 부담), 변비 악화, 요폐</td><td>고령에서 최소화; 인지 저하 병력자 회피</td></tr><tr><td><strong>H2RA</strong></td><td>연속 사용 수일~수주 후 내성(tachyphylaxis); 중단 후 일시적 반동 증상 가능</td><td>야간 증상에는 필요시 또는 단기간 사용; 지속 필요성 재평가</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="155.11114501953125">약제</th><th width="322.4444580078125">장기 사용 문제</th><th>권고</th></tr></thead><tbody><tr><td><strong>PPI</strong></td><td>중단 시 일시적 반동성 위산 과분비 가능. 장 감염 외 폐렴·골절·CKD·치매 등은 주로 관찰 연구의 연관성이며 인과관계가 확립되지 않음</td><td>확실한 적응증이 있으면 유지하되 정기적으로 적응증·최저 유효 용량 재평가</td></tr><tr><td><strong>metoclopramide</strong></td><td>노출 기간·누적 용량에 따라 비가역적 지연운동이상증 위험 증가; 과거 추정치보다 실제 위험은 낮으나 고령 여성·당뇨병·간신장 기능 저하·항정신병약 병용 시 위험 증가</td><td>최대 5일 사용 허가</td></tr><tr><td><strong>domperidone</strong></td><td>QT 연장·심실성 부정맥(심장돌연사)</td><td>구역·구토에 최저 유효 용량 사용; 일반적으로 1주를 초과하지 않음</td></tr><tr><td><strong>자극성 하제</strong></td><td>복통·설사·전해질 이상; 장기 안전성 자료는 제한적이나 치료 용량에서 대장 기능이 영구적으로 손상된다는 근거는 불충분</td><td>bisacodyl·Na picosulfate는 단기 또는 구제요법; 장기 필요시 원인과 반응 재평가</td></tr><tr><td><strong>MgO (고용량)</strong></td><td>고마그네슘혈증 - 중증 CKD·고령에서 위험 증가</td><td>신장애 환자 금기; 고령에서 장기 사용 시 신기능, (필요시) Mg 확인</td></tr><tr><td><strong>항콜린성 진경제</strong></td><td>인지 기능 저하(누적 항콜린 부담), 변비 악화, 요폐</td><td>고령에서 최소화; 인지 저하 병력자 회피</td></tr><tr><td><strong>H2RA</strong></td><td>연속 사용 수일~수주 후 내성(tachyphylaxis); 중단 후 일시적 반동 증상 가능</td><td>야간 증상에는 필요시 또는 단기간 사용; 지속 필요성 재평가</td></tr></tbody></table>
 
 ### <mark style="color:orange;">주요 약물 상호작용</mark>
 
-<table data-search="false"><thead><tr><th width="157.77777099609375">약물</th><th width="177.7777099609375">기전</th><th>임상적 위험 및 주의</th></tr></thead><tbody><tr><td><strong>erythromycin</strong></td><td>CYP3A4 중등도 억제제 + 기질</td><td>일부 statin(횡문근융해), warfarin, cyclosporine 독성↑; QT 연장 약제 병용 시 심각한 부정맥 위험</td></tr><tr><td><strong>cimetidine</strong></td><td>CYP1A2·2C9·2C19·2D6·3A4 광범위 억제</td><td>theophylline, warfarin, phenytoin, diazepam, lidocaine 농도·독성↑; clopidogrel 활성화·항혈소판 효과↓ 가능. H2RA 중 상호작용 가장 많음 → famotidine 선호</td></tr><tr><td><strong>PPI (특히 omeprazole·</strong><br><strong>esomeprazole)</strong></td><td>CYP2C19 억제</td><td>clopidogrel 병용 시 omeprazole·esomeprazole을 피하고 pantoprazole 등 대안 고려; 위산 억제로 ketoconazole·itraconazole·atazanavir 흡수 감소; 고용량 methotrexate 병용 시 농도↑(일시 중단 고려)</td></tr><tr><td><strong>domperidone</strong></td><td>CYP3A4 기질</td><td>강력한 CYP3A4 억제제·QT 연장 약제 병용 금기 (☞ 위 QT 연장 위험 약제)</td></tr><tr><td><strong>sucralfate</strong></td><td>킬레이션·흡착 (CYP 비관여)</td><td>quinolone, tetracycline, levothyroxine 등 흡수 감소 → 약제별 권장 간격 확인(일률적으로 2시간을 적용하지 않음)</td></tr><tr><td><strong>Al/Mg 함유 제산제</strong></td><td>킬레이션·흡착 (CYP 비관여)</td><td>quinolone, tetracycline, 철분제 등 흡수 저하 → 약제별 권장 간격 확인</td></tr><tr><td><strong>P-CAB</strong><br><strong>(tegoprazan 등)</strong></td><td>약제별 CYP 대사 + 위산 억제</td><td>위산 의존 흡수 약제(atazanavir·rilpivirine·일부 azole계 등)의 농도 감소; CYP 상호작용은 성분별 허가사항 확인</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="157.77777099609375">약물</th><th width="177.7777099609375">기전</th><th>임상적 위험 및 주의</th></tr></thead><tbody><tr><td><strong>erythromycin</strong></td><td>CYP3A4 중등도 억제제 + 기질</td><td>일부 statin(횡문근융해), warfarin, cyclosporine 독성↑; QT 연장 약제 병용 시 심각한 부정맥 위험</td></tr><tr><td><strong>cimetidine</strong></td><td>CYP1A2·2C9·2C19·2D6·3A4 광범위 억제</td><td>theophylline, warfarin, phenytoin, diazepam, lidocaine 농도·독성↑; clopidogrel 활성화·항혈소판 효과↓ 가능. H2RA 중 상호작용 가장 많음 → famotidine 선호</td></tr><tr><td><strong>PPI (특히 omeprazole·</strong><br><strong>esomeprazole)</strong></td><td>CYP2C19 억제</td><td>clopidogrel 병용 시 omeprazole·esomeprazole을 피하고 pantoprazole 등 대안 고려; 위산 억제로 ketoconazole·itraconazole·atazanavir 흡수 감소; 고용량 methotrexate 병용 시 농도↑(일시 중단 고려)</td></tr><tr><td><strong>domperidone</strong></td><td>CYP3A4 기질</td><td>강력한 CYP3A4 억제제·QT 연장 약제 병용 금기</td></tr><tr><td><strong>sucralfate</strong></td><td>킬레이션·흡착 (CYP 비관여)</td><td>quinolone, tetracycline, levothyroxine 등 흡수 감소 → 약제별 권장 간격 확인(일률적으로 2시간을 적용하지 않음)</td></tr><tr><td><strong>Al/Mg 함유 제산제</strong></td><td>킬레이션·흡착 (CYP 비관여)</td><td>quinolone, tetracycline, 철분제 등 흡수 저하 → 약제별 권장 간격 확인</td></tr><tr><td><strong>P-CAB</strong><br><strong>(tegoprazan 등)</strong></td><td>약제별 CYP 대사 + 위산 억제</td><td>위산 의존 흡수 약제(atazanavir·rilpivirine·일부 azole계 등)의 농도 감소; CYP 상호작용은 성분별 허가사항 확인</td></tr></tbody></table>
 
 ## <mark style="color:green;">위장 운동 촉진제 (GI prokinetic agent)</mark>
 
-<table data-search="false"><thead><tr><th width="230">성분명 [상품명]</th><th width="220">주요 작용 기전</th><th>상용량</th></tr></thead><tbody><tr><td>metoclopramide <mark style="color:blue;">[맥페란]</mark></td><td>D2 길항, 5-HT4 작용; 고용량에서 5-HT3 길항</td><td>염산메토클로프라미드로서 1일 10~30 ㎎을 2~3회 식전 분할; 최대 30 ㎎/d 또는 0.5 ㎎/㎏/d 중 낮은 용량, 최대 5일</td></tr><tr><td>levosulpiride <mark style="color:blue;">[레보프라이드]</mark></td><td>D2 길항</td><td>25 ㎎ tid 식전</td></tr><tr><td>clebopride <mark style="color:blue;">[크레보릴]</mark></td><td>D2 길항, 5-HT4 작용</td><td>0.5 ㎎ tid</td></tr><tr><td>itopride <mark style="color:blue;">[가나톤]</mark></td><td>D2 길항, acetylcholinesterase 억제</td><td>50 ㎎ tid 식전</td></tr><tr><td>domperidone <mark style="color:blue;">[모티리움엠]</mark></td><td>말초 D2 길항</td><td>10 ㎎ tid 식전(최대 30 ㎎/d)</td></tr><tr><td>mosapride <mark style="color:blue;">[가스모틴]</mark>, <mark style="color:blue;">[가스티인 CR]</mark></td><td>선택적 5-HT4 작용</td><td>5 ㎎ tid; 가스티인 CR 15 ㎎ qd</td></tr><tr><td>현호색·견우자 추출물(DA-9701) <mark style="color:blue;">[모티리톤]</mark></td><td>D2 길항, 5-HT4 작용 등 복합 기전</td><td>30 ㎎ tid 식전</td></tr></tbody></table>
-
-* 투여 시간 : 성분·제형별로 다름. Itopride·DA-9701은 식전, mosapride 일반정은 식전 또는 식후 복용 가능; mosapride 서방형은 일반정과 구분하여 제형별 용법 적용. SIBO에서 위장운동촉진제를 야간 투여하는 방법은 제한적 근거의 허가 외 사용
-* 위장관 출혈·기계적 폐색/천공 등 위장관 운동 자극이 위험한 상황에서는 사용을 피함; 성분별 허가 금기를 구분함
-* 항콜린제와 상호 길항작용을 하여 효과가 상쇄될 수 있음
-* **기능성 소화불량** : 국내 허가와 증상 양상에 따라 mosapride, itopride, DA-9701 등을 고려
-* **위마비** : 기계적 폐색을 배제하고 표준화된 4시간 고형식 위배출검사 등으로 객관적 위 배출 지연을 확인한 뒤 식사요법을 우선. 2025 AGA 지침은 metoclopramide 또는 erythromycin을 초기 약물치료로 조건부 제안하나, 국내 metoclopramide의 위마비 치료는 허가 적응증과 다르며 국내 경구 허가의 최대 권장기간은 5일임. 전문진료에서 이 차이를 고려하여 치료를 결정. domperidone·prucalopride·aprepitant·nortriptyline·buspirone은 일차치료로 권고하지 않으며, 변비가 동반되면 prucalopride, 통증이 동반되면 nortriptyline을 선택적으로 고려함
-
-_<mark style="color:$info;">Ref. AGA Clinical Practice Guideline on Management of Gastroparesis. 2025; 국내 metoclopramide 허가사항.</mark>_
+* 투여 시간 : 성분·제형별로 다름
+  * 일반적으로 식전 복용; mosapride 일반정은 식전 또는 식후 가능으로 허가
+  * SIBO에서 위장운동촉진제의 야간 투여 용법은 제한적 근거의 허가 외 용법임
+* 위장관 출혈·기계적 폐색/천공 등 위장관 운동 자극이 위험한 상황에서는 회피; 성분별 허가·금기를 확인함
+* **항콜린제**와 함께 투여 시 상호 길항작용을 하여 효과가 상쇄될 수 있음
+* **기능성 소화불량** : 성분 간 효과 차이는 뚜렷하지 않음
+  * 수 주 단위의 사용이 많으므로 중추·심장 부작용이 적은 mosapride, itopride, DA-9701을 우선 고려하고, BBB 통과 D2 길항제(levosulpiride 등)와 domperidone은 단기 사용에 그침
 
 ### <mark style="color:orange;">Dopamine D2 receptor antagonist</mark>
 
 * 기전 : 도파민 수용체 차단 → acetylcholine 분비↑ → 위장관 수축↑; CTZ 억제 → 항구토 효과
 * 주로 상부 위장관 운동에 작용하며, 대장 통과 개선을 위한 변비 치료제로 일률적으로 적용하지 않음
 * 부작용
-  * BBB 통과 약제 (metoclopramide, levosulpiride, clebopride) : 추체외로 증상, 진정, 저혈압, 설사, 근육 긴장 이상, 고프로락틴혈증(유즙 분비, 성 기능 장애) (✘ Avoid : 만성 사용·고령)
-  * 중추 침투가 적은 약제 (domperidone, itopride) : 중추 부작용이 상대적으로 적음; domperidone은 심장 부작용 주의
-* **고프로락틴혈증 모니터링** : BBB 통과 D2 길항제(metoclopramide, levosulpiride 등) 장기 투여 시 유즙 분비, 여성형유방증, 생리 불순, 성욕 감소 등의 증상 여부를 확인함. 중추 침투가 적은 domperidone·itopride도 고프로락틴혈증을 일으킬 수 있음. 처방 전 설명하고, 증상 발생 시 약제 교체 또는 중단을 고려함
-* **levosulpiride** : 국내에서 약물 유발 파킨슨증의 흔한 원인 약제로 보고됨. 고령자에서 장기 처방을 피하고, 새로 생긴 떨림·서동·보행 장애는 먼저 이 약제를 확인함 (☞ [파킨슨병](035_-parkinsons-disease.md))
-* **metoclopramide** : 지연운동이상증(tardive dyskinesia)은 드물지만 비가역적일 수 있으며 노출 기간·누적 용량에 따라 위험 증가. 고령 여성·당뇨병·간신장 기능 저하·항정신병약 병용 시 특히 주의. **국내 맥페란정은 구역·구토 관련 허가 적응증에 최대 5일 사용**함. 용량은 염산메토클로프라미드 기준이며 1일 최대 30 ㎎ 또는 0.5 ㎎/㎏ 중 낮은 용량을 넘지 않음. 구토로 약을 토했더라도 투여 간격은 최소 6시간으로 함. CrCl ＞15 및 ≤60 ㎖/min은 일일 용량을 50% 감량하고, CrCl ≤15 ㎖/min은 75% 감량하여 통상 용량의 25%를 투여함; 중증 간장애는 50% 감량함. 1세 미만·파킨슨병·간질·levodopa/도파민 작용제 병용 등은 금기임. 미국 FDA의 위마비 치료 관련 boxed warning(12주 초과 회피)을 국내 허가기간으로 적용하지 않음
-* **domperidone** : QT 연장·심실성 부정맥(심장돌연사) 위험. 국내 성인 허가 용법은 10 ㎎ tid 식전, 최대 30 ㎎/d이며 **일반적으로 1주를 초과하지 않음**. QT 연장·심부전 등 심장 기저질환·전해질 이상·중등도\~중증 간장애·임부에서 금기. 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기; metoclopramide와 중복 처방도 피함
+  * BBB 통과 약제 (metoclopramide, levosulpiride, clebopride) : 추체외로 증상, 진정, 저혈압, 설사, 근육 긴장 이상, 고프로락틴혈증(유즙 분비, 성 기능 장애); 만성 사용 및 고령에서의 사용 회피
+  * 중추 침투가 적은 약제 (domperidone, itopride) : 중추 부작용이 상대적으로 적음
+  * 심장 부작용 : domperidone
+* **고프로락틴혈증 모니터링** : BBB 통과 D2 길항제 장기 투여 시 유즙 분비, 여성형유방증, 생리 불순, 성욕 감소 등의 증상 여부를 확인함. 중추 침투가 적은 domperidone·itopride도 고프로락틴혈증을 일으킬 수 있음
+* **levosulpiride** : 약물 유발 파킨슨증의 흔한 원인 약제. 고령자에서 장기 처방을 피하고, 새로 생긴 떨림·서동·보행 장애에 대하여 이 약제 복용 여부를 확인함 (☞ [파킨슨병](035_-parkinsons-disease.md))
+* **metoclopramide** : 지연운동이상증(tardive dyskinesia)은 드물지만 비가역적일 수 있으며 노출 기간·누적 용량에 따라 위험 증가. 고령 여성·당뇨병·간신장 기능 저하·항정신병약 병용 시 특히 주의. **구역·구토에 대하여 최대 5일 사용** 허가
+  * CrCl ≤60\~＞15  ㎖/min 시 일일 용량을 50% 감량하고, CrCl ≤15 시 통상 용량의 25%를 투여; 중증 간장애는 50% 감량함
+  * 금기 : 1세 미만·파킨슨병·간질·levodopa/도파민 작용제 병용&#x20;
+* **domperidone** : 10 ㎎ tid 식전, 최대 30 ㎎/d이며 일반적으로 1주를 초과하지 않음
+  * 금기 : QT 연장·심부전 등 심장 기저질환·전해질 이상·중등도\~중증 간장애·임부
+  * 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기; metoclopramide와 중복 처방 회피
 
 ### <mark style="color:orange;">Serotonin agonist</mark>
 
 * 기전 : 5-HT4 수용체 작용 → acetylcholine 분비↑ → 위장관 수축↑
 * 해당 약제 : metoclopramide, clebopride, mosapride, prucalopride
-* mosapride : 중추 침투가 적어 중추 부작용이 상대적으로 적음; CYP3A4 억제제 병용 시 노출 증가 가능성이 있어 주의
+* mosapride : 중추 침투가 적어 중추 부작용이 상대적으로 적음. CYP3A4로 대사되어 erythromycin 등 억제제 병용 시 혈중 농도가 높아질 수 있으나, QT 연장 위험은 뚜렷하지 않음
+
+### <mark style="color:orange;">Acetylcholinesterase inhibitor</mark>
+
+* pyridostigmine : 중증 근무력증 치료제로, 일부 만성 장운동 장애·만성 장가성폐색에서 전문진료 하에 허가 외 사용. 보고된 경구 용량은 60\~180 ㎎/d 등이나 최적 용법은 확립되지 않음 <mark style="color:blue;">\[메스티논]</mark>
+  * 금기 : 기계적 장폐색·기관지 천식
+
+<table data-search="false"><thead><tr><th width="230">성분명 [상품명]</th><th width="220">주요 작용 기전</th><th>상용량</th></tr></thead><tbody><tr><td><strong>metoclopramide</strong> <mark style="color:blue;">[맥페란]</mark></td><td>D2 길항, 5-HT4 작용; 고용량에서 5-HT3 길항</td><td>염산메토클로프라미드로서 1일 10~30 ㎎을 2~3회 식전 분할; 최대 30 ㎎/d 또는 0.5 ㎎/㎏/d 중 낮은 용량, 최대 5일</td></tr><tr><td><strong>levosulpiride</strong> <mark style="color:blue;">[레보프라이드]</mark></td><td>D2 길항</td><td>25 ㎎ tid 식전</td></tr><tr><td><strong>clebopride</strong> <mark style="color:blue;">[크레보릴]</mark></td><td>D2 길항, 5-HT4 작용</td><td>0.5 ㎎ tid</td></tr><tr><td><strong>itopride</strong> <mark style="color:blue;">[가나톤]</mark></td><td>D2 길항, acetylcholinesterase 억제</td><td>50 ㎎ tid 식전</td></tr><tr><td><strong>domperidone</strong> <mark style="color:blue;">[모티리움엠]</mark></td><td>말초 D2 길항</td><td>10 ㎎ tid 식전(최대 30 ㎎/d)</td></tr><tr><td><strong>mosapride</strong> <mark style="color:blue;">[가스모틴]</mark>, <mark style="color:blue;">[가스티인씨알]</mark></td><td>선택적 5-HT4 작용</td><td>5 ㎎ tid; 가스티인씨알 15 ㎎ qd</td></tr><tr><td><strong>DA-9701</strong>(현호색·견우자 추출물) <mark style="color:blue;">[모티리톤]</mark></td><td>D2 길항, 5-HT4 작용 등 복합 기전</td><td>30 ㎎ tid 식전</td></tr></tbody></table>
 
 ### <mark style="color:orange;">Motilin receptor agonist</mark>
 
@@ -92,22 +102,21 @@ _<mark style="color:$info;">Ref. AGA Clinical Practice Guideline on Management o
 
 #### <mark style="color:$primary;">Erythromycin</mark>
 
-* 작용 : macrolide 항생제로 motilin 수용체에 작용하여 위 배출을 촉진함; 위장운동 촉진 목적으로 항균치료보다 낮은 용량을 사용하기도 함
-* 주의 : CYP3A4 억제제/기질이며 QT 연장·torsades de pointes 위험이 있음. Domperidone 등 QT 연장 위험 약제와 병용을 피하며 성분별 병용 금기를 적용함
+* 작용 : macrolide 항생제로 motilin 수용체에 작용하여 위 배출을 촉진함
+  * 위장운동 촉진 목적으로 항균치료보다 낮은 용량을 사용하기도 함
+* 주의 : CYP3A4 억제제 및 기질이며, QT 연장·torsades de pointes 위험이 있음
+  * domperidone 등 QT 연장 위험 약제와 병용 회피
 * 부작용 : 구역, 구토, 내성 발생
-* 용법 : 저용량을 단기간 사용함(허가 외 사용). AGA 2025는 위마비에서 40\~150 ㎎을 식전 30분에 투여하는 예시를 제시하며, 50\~250 ㎎ tid도 사용됨. 제형·국내 공급에 따라 조정하고 반복·장기 사용 시 tachyphylaxis와 항생제 내성 문제 고려
-* (✘ Avoid : QT 연장 약제 병용, 중증 간 기능 저하)
-
-### <mark style="color:orange;">Acetylcholinesterase inhibitor</mark>
-
-* pyridostigmine : 중증 근무력증 치료제로, 일부 만성 장운동 장애·만성 장가성폐색에서 전문진료 하에 허가 외 사용함. 보고된 경구 용량은 60\~180 ㎎/d 등이나 최적 용법은 확립되지 않음 <mark style="color:blue;">\[메스티논]</mark>
-* 기계적 장폐색을 배제하고 서맥·천식·콜린성 이상반응을 평가함. **급성 대장가성폐색의 치료와 구분**하며, 급성 대장가성폐색에서 사용하는 정맥 neostigmine은 심전도·호흡 감시 및 서맥 대처가 가능한 환경에서 투여하는 별도 치료임
+* 용법 : 저용량을 단기간 사용(허가 외 사용). AGA 2025는 위마비에서 40\~150 ㎎을 식전 30분에 투여하는 예시를 제시하며, 50\~250 ㎎ tid도 사용됨
+  * 반복·장기 사용 시 tachyphylaxis와 항생제 내성 문제 고려
+* 회피 : QT 연장 약제 병용, 중증 간 기능 저하
 
 ## <mark style="color:green;">진경제 (GI antispasmodic agent)</mark>
 
 * 종류 : 비선택적 항콜린제, 선택적 항콜린제, 칼슘차단제, 아편수용체 조절제
 * 항콜린 계열 부작용 : 입마름, 소변 저류, 시야 흐림, 어지럼, 졸림, 녹내장 악화
-* IBS·기능성 복통 : **trimebutine**, **pinaverium/mebeverine** 등을 고려; **항콜린성 진경제**(hyoscine N-butylbromide, dicyclomine 등)는 단기·필요시 사용을 우선하고 **고령에서 가능한 회피**; 지속 사용 시 효과와 항콜린 부담을 재평가
+* IBS·기능성 복통 : **trimebutine**, **pinaverium/mebeverine** 등을 고려;&#x20;
+  * **항콜린성 진경제**(hyoscine N-butylbromide, dicyclomine 등)는 단기·필요시 사용을 우선하고 **고령에서 가능한 회피**; 지속 사용 시 효과와 항콜린 부담을 재평가
 
 ### <mark style="color:orange;">약제</mark>
 
