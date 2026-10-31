@@ -5,7 +5,7 @@
 * **굳은살(Callus, Tyloma)** : 반복적인 마찰·압박에 대한 보호 반응으로 생기는 넓고 비교적 편평한 과각화증. 중심 각질핵(core)이 없으며 대개 무증상임.
 * **티눈(Corn, Heloma)** : 국소 압박점에 생기는 경계가 뚜렷한 과각화증. 중심부의 원뿔형 각질핵이 진피 쪽으로 눌리면서 통증을 유발함.
 * 매우 흔한 외래 문제이나 국내 대규모 역학자료는 제한적임.
-* 무증상 굳은살을 일률적으로 제거할 필요는 없음. 통증, 균열, 기능장애 또는 궤양 위험이 있을 때 치료함.
+* 합병증 위험이 낮은 무증상 굳은살을 일률적으로 제거할 필요는 없음. 통증, 균열, 기능장애 또는 궤양 위험이 있을 때 치료함. 당뇨병 위험 발의 과도한 굳은살은 통증이 없어도 궤양 예방을 위해 의료진이 관리함.
 * 원인이 되는 압력·마찰을 교정하지 않으면 각질을 제거해도 재발함.
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
@@ -46,14 +46,14 @@
 <mark style="color:$danger;">**즉각 조치**</mark>
 
 * 갑작스러운 창백·청색증·냉감, 심한 안정 시 통증, 새 감각저하·운동장애 등 급성 하지 허혈 의심  `급성 허혈`
-* 빠르게 퍼지는 발적·부종, 심한 통증, 괴사 또는 전신 상태 악화 등 중증 감염 의심  `중증 감염`
+* 빠르게 퍼지는 발적·부종, 겉으로 보이는 병변에 비해 지나치게 심한 통증, 괴사 또는 전신 상태 악화 등 중증 감염·괴사성 연조직 감염 의심  `중증 감염`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
 * 새 궤양, 고름·삼출, 진행하는 국소 발적·열감·부종 등 피부 손상·감염 의심 **(당일)**  `궤양·감염`
 * 당뇨병성 보호감각 소실·PAD·궤양력이 있는 발에서 굳은살 아래 출혈, 수포, 깊은 균열 또는 궤양 전 병변 **(당일)**  `궤양 전 병변`
 * 당뇨병·면역저하 환자의 감염·심부 조직 손상 의심; 통증이나 발열이 없다고 배제하지 않음 **(당일)**  `고위험 발 손상`
-* 당뇨병성 신경병증 환자의 한쪽 발이 갑자기 붓고 붉어지며 뜨거운 경우 : 상처가 없고 통증이 적어도 활동성 샤르코 신경골관절병증(Charcot neuro-osteoarthropathy)을 의심하여 체중부하를 줄이고 신속히 고정·압력 제거 및 전문 평가 **(당일)**  `샤르코발 의심`
+* 당뇨병성 신경병증 환자의 한쪽 발이 갑자기 붓고 붉어지며 뜨거운 경우 : 상처가 없고 통증이 적어도 활동성 샤르코 신경골관절병증(Charcot neuro-osteoarthropathy)을 의심하여 즉시 체중부하를 줄이고 의료진이 무릎 높이 고정·압력 제거 장치를 적용하면서 전문 평가 **(당일)**  `샤르코발 의심`
 * 갑자기 심해진 통증으로 보행이 어려운 경우 : 감염·허혈·이물 등 재평가 **(당일)**  `급성 보행장애`
 * 빠른 성장, 반복 자발 출혈·궤양 또는 진단 불확실한 병변 : 단순 티눈으로 반복 제거하지 말고 조기 피부과 평가·필요 시 조직검사  `종양 감별`
 
@@ -68,7 +68,7 @@
 
 * 대부분 병력과 시진·촉진으로 진단함.
 * 발생 부위와 압력점, 직업·운동, 신발 크기와 마모 양상, 족부 변형 및 보행을 확인함.
-* 당뇨병이나 고위험 발에서는 피부 손상·감염·궤양 여부, 보호감각(10-g monofilament 등), 족배동맥·후경골동맥과 말초관류를 평가함; 감각검사는 굳은살·상처 자체를 피하여 시행. 동맥이 촉지되어도 PAD를 완전히 배제할 수 없으며 허혈이 의심되면 도플러 파형·ABI·TBI를 조합한 객관적 혈류검사를 고려함 <mark style="color:$info;">[IWGDF PAD 2023]</mark>
+* 당뇨병이나 고위험 발에서는 피부 손상·감염·궤양 여부, 보호감각(10-g monofilament에 진동감각·통각·온도감각 중 한 가지 이상을 추가), 족배동맥·후경골동맥과 말초관류를 평가함; 감각검사는 굳은살·상처 자체를 피하여 시행 <mark style="color:$info;">[ADA 2026]</mark>. 동맥이 촉지되어도 PAD를 완전히 배제할 수 없으며 허혈이 의심되면 도플러 파형·ABI·TBI를 조합한 객관적 혈류검사를 고려함 <mark style="color:$info;">[IWGDF PAD 2023]</mark>
 * 보호감각 소실·PAD가 있는 당뇨병 환자는 궤양·절단력, 말기콩팥병, 변형과 과도한 굳은살을 추가 확인하고 발 위험도에 맞추어 추적
 * 진단이 불확실하면 피부경검사를 고려하며, 필요한 경우 숙련된 의료인이 관류·피부 손상 위험을 먼저 확인한 뒤 조심스럽게 paring하여 중심 각질핵 또는 혈전성 모세혈관 여부를 확인할 수 있음; 출혈을 유도하려고 깊게 깎지 않음
 * 단순 병변에는 검사가 필요하지 않음. X선은 골 돌출·구조적 변형·이물 등 심부 원인이 의심될 때 고려함.
@@ -88,17 +88,19 @@
 
 ```mermaid
 graph TD
-    A(["과각화 병변 발견"]) --> U{"즉각 조치·당일 평가 항목?"}
-    U -->|"예"| V["응급 의뢰 또는 당일 평가<br>자가 각질 제거 중단"]
-    U -->|"아니요"| E{"당뇨병·PAD·감각저하<br>궤양력·면역저하?"}
+    A(["티눈·굳은살 의심"]) --> U{"즉각 조치·당일 평가 항목?"}
+    U -->|"예"| V(["응급 의뢰 또는 당일 평가<br>자가 각질 제거 중단"])
+    U -->|"아니요"| Q{"빠른 성장·반복 자발 출혈<br>비전형적 궤양 등 종양 의심?"}
+    Q -->|"예"| G(["조기 피부과 평가<br>피부경·생검 고려"])
+    Q -->|"아니요"| E{"당뇨병·PAD·감각저하<br>궤양력·면역저하?"}
     E -->|"있음"| H["의료진의 발 위험도·관류 평가<br>자가 절삭·고농도 각질용해제 금지"]
     E -->|"없음"| B{"압력점·형태·피부선이<br>티눈·굳은살에 합당?"}
     H --> B
     B -->|"예"| D["티눈 / 굳은살<br>필요 시 피부경·의료진 paring"]
-    B -->|"아니요·불확실"| G["족저사마귀·이물·종양 등 감별<br>피부경·전문의 의뢰·생검 고려"]
+    B -->|"아니요·불확실"| J(["족저사마귀·이물·종양 등 감별<br>피부경·전문의 의뢰 고려"])
     D --> R{"자가 관리 가능?"}
-    R -->|"저위험·피부 온전함"| F["압력 재분배 + 보습<br>필요 시 조심스러운 각질 관리"]
-    R -->|"고위험·자가 관리 어려움"| P["숙련된 의료인의 각질 관리<br>개별 off-loading·추적"]
+    R -->|"저위험·피부 온전함"| F(["압력 재분배 + 보습<br>필요 시 조심스러운 각질 관리<br>약 3주 내 호전 없으면 재평가"])
+    R -->|"고위험·자가 관리 어려움"| P(["숙련된 의료인의 각질 관리<br>개별 off-loading·추적"])
     style D fill:#f96,stroke:#e65100,stroke-width:2px
     style V fill:#ffebee,stroke:#c62828,stroke-width:2px
     style H fill:#fff9c4,stroke:#ffe082
@@ -106,7 +108,7 @@ graph TD
 
 <p align="center"><strong>과각화 병변 평가 흐름</strong></p>
 
-<p align="center"><em><mark style="color:$info;">의료진용 임상 흐름; 당뇨병 위험 발 관리 원칙: IWGDF Prevention Guideline (2023)</mark></em></p>
+<p align="center"><em><mark style="color:$info;">의료진용 임상 흐름; IWGDF Prevention Guideline (2023), ADA Standards of Care (2026), NHS 환자 안내를 근거로 재구성</mark></em></p>
 
 ***
 
@@ -142,14 +144,19 @@ graph TD
 
 ## <mark style="color:green;">약물 치료</mark>
 
+{% hint style="info" %}
+처방 시 최신 품목정보/급여기준 조회. 아래 용법·금기는 제품별로 확인하며, 다른 제품에 동일하게 적용하지 않음.
+{% endhint %}
+
 ### <mark style="color:orange;">넓고 건조한 굳은살</mark>
 
-* urea 200 ㎎/g(20%) : 환부를 씻고 건조한 뒤 1일 1\~수회 얇게 도포 <mark style="color:blue;">\[한미유리아크림200㎎]</mark>
+* urea 200 ㎎/g(20%) : 환부를 씻고 건조한 뒤 1일 1\~수회 바른 뒤 충분히 문지름 <mark style="color:blue;">\[한미유리아크림200㎎]</mark>
 * ammonium lactate 12%는 건조증의 보습·연화 보조제이나 티눈 핵 제거제가 아님. 국내 <mark style="color:blue;">\[타로암모늄락테이트로션12%]</mark>는 식약처상 **2026-07-01 허가 유효기간 만료**로 확인되어 현재 처방 선택지에서 제외; 보습제 또는 urea 제제를 우선 고려
-* **urea 제제 주의** : 궤양·미란·상처에는 직접 도포하지 않음. 점막·성분 과민증·급성 습진 또는 염증성 피부질환, 신부전 환자의 광범위 적용은 허가상 금기; 균열·자극에 민감한 피부는 신중히 사용
+* **urea 제제 주의** : 궤양·미란·상처에는 직접 도포하지 않음. 점막·성분 과민증·급성 습진 또는 염증성 피부질환, 신부전 환자의 광범위 적용은 허가상 금기; 균열·자극에 민감한 피부는 신중히 사용. 국소 corticosteroid, dithranol, 5-fluorouracil의 피부 흡수를 높일 수 있으므로 같은 부위 병용 여부를 확인함
 
 ### <mark style="color:orange;">국소 티눈</mark>
 
+* 저위험 성인 티눈에서는 40% salicylic acid plaster가 scalpel debridement보다 병변 소실·재발 지연에 유리했던 무작위시험이 있음. 당뇨병·말초신경병증·순환장애·궤양력 환자는 제외되었으며, 이 결과를 국내 50% 제품이나 고위험 발에 그대로 적용하지 않음 <mark style="color:$info;">[Farndon 2013]</mark>
 * salicylic acid 50% 경고제 <mark style="color:blue;">\[신신티눈고]</mark> : 약고를 병변 크기에 맞추어 잘라 보호 펠트의 구멍에 맞추고 약제면을 병변에 대어 고정, 2\~5일마다 교체
   * 허가 함량의 725 ㎎은 **전체 약고 시트 25.42㎠(약고 1.45 g)에 포함된 양**임; 티눈 한 개에 붙이는 작은 조각의 투여량이 아님
   * 모든 당뇨병·혈액순환장애 환자에서 허가상 금기; 영아·유아·신부전·임신·수유는 사용 전 상담. 신부전 환자에게 넓은 부위·장기간 적용하지 않음
@@ -158,7 +165,9 @@ graph TD
 * **듀오케어액 허가상 금기** : 당뇨병 환자, 말초혈액순환장애 환자, 2세 미만 소아, 성분 과민증; 얼굴·간찰부위·항문생식기·눈 주위·점막 및 점·모반·털이 많은 사마귀·기타 피부병변에는 사용하지 않음. 임부·임신 가능성이 있는 여성과 넓은 부위를 정기적으로 치료해야 하는 수유부는 사용 전 상담함.
 * **Soft corn 주의** : 제4\~5족지 사이는 간찰부위이므로 듀오케어액을 사용하지 않음. 침연·미란이 있는 연성 티눈에는 신신티눈고 등 고농도 살리실산도 피함. 건조 유지, toe spacer 및 압력 교정을 우선하고 족부백선·세균성 intertrigo·erythrasma를 평가함.
 * 신신티눈고의 허가상 상호작용 : methotrexate 독성 증가, sulfonylurea 혈당강하작용 증가, 다른 국소약물 흡수 증가 가능; 특히 넓은 면적·장기간 사용과 병용약물을 확인함
-* 제품별 적용 방법과 교체 간격을 따르며, 신신티눈고는 수회 사용해도 호전이 없으면 중단·평가함; 듀오케어액은 병변 소실에 최대 12주가 소요될 수 있으나 통증·피부 손상이 있으면 조기에 중단함
+* 제품별 적용 방법과 교체 간격을 따르며, 신신티눈고는 수회 사용해도 호전이 없으면 중단·평가함; 듀오케어액은 병변 소실에 최대 12주가 소요될 수 있으나, 약 3주간 자가치료해도 호전이 없으면 진단·압력 교정·사용법을 재평가함. 통증·피부 손상이 있으면 즉시 중단함
+* 듀오케어액은 인화성이 매우 높으므로 불꽃·담배·열원 근처에서 사용하지 않고 증기 흡입을 피함. 사용 후 뚜껑을 닫고 1\~25℃에서 차광 보관함
+* 소아는 보호자의 감독하에 사용하며, 신신티눈고를 넓은 부위에 장기간 사용하지 않음. 영아·유아의 신중투여와 듀오케어액의 2세 미만 금기를 구분함
 * 정상 피부는 보호 펠트의 구멍, petrolatum 등으로 보호하고 약제가 병변 밖으로 번지지 않게 함
 * 상처, 염증, 감염, 출혈 또는 미란이 있는 피부에는 사용하지 않음
 * 피부 자극, 통증, 미란, 화학화상 및 2차 감염이 발생할 수 있음. 심한 작열감이나 피부 손상이 생기면 중단함
@@ -170,11 +179,11 @@ graph TD
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-* 통증성 티눈·굳은살은 숙련된 의료인이 scalpel paring 또는 debridement를 시행할 수 있음
+* 통증성 티눈·굳은살은 숙련된 의료인이 관류와 피부 손상 여부를 확인한 뒤 scalpel paring 또는 debridement를 시행할 수 있음. 허혈·괴사·감염이 의심되면 단순 티눈 제거보다 해당 문제의 평가·치료를 우선함
 * 진단을 다시 확인하고 족저사마귀, 감염, 이물 및 비전형적 피부병변을 재평가함
 * 신발, 압력점, 보행, 골 돌출 및 hammertoe·bunion 등 구조적 변형을 평가함
 * 구조적 이상이 원인인 지속적 통증성 티눈은 보조기·족부 전문 평가를 우선하고, 보존 치료 실패 시 원인이 되는 골 돌출이나 변형의 수술적 교정을 고려함
-* 당뇨병 위험 발(IWGDF 위험도 1\~3)의 유연성 hammertoe와 발가락 끝·원위부 궤양 전 병변·과도한 굳은살에서 비수술적 압력 교정으로 충분히 조절되지 않으면 족부 전문의가 굴곡건 절단술(digital flexor tenotomy)을 고려할 수 있음; 관류·상처 치유 가능성과 인접 부위로 압력이 이동하는 위험을 평가함 <mark style="color:$info;">[IWGDF Prevention 2023]</mark>
+* 당뇨병 위험 발(IWGDF 위험도 1\~3)의 유연성 hammertoe와 발가락 끝·원위부의 발톱 변화·궤양 전 병변·과도한 굳은살에서 비수술적 압력 교정으로 충분히 조절되지 않으면 족부 전문의가 굴곡건 절단술(digital flexor tenotomy)을 고려할 수 있음; 조건부 권고이며, 관류·상처 치유 가능성과 인접 부위로 압력이 이동하는 위험을 평가함 <mark style="color:$info;">[IWGDF Prevention 2023]</mark>
 * 냉동요법은 사마귀 치료에 사용하며 티눈·굳은살의 일상적 치료로 사용하지 않음 - 압력이라는 기계적 원인을 해결하지 못함
 * 레이저 치료는 근거가 제한적이고 압력 원인을 해결하지 못하므로 일상적인 1차 치료로 권고하지 않음
 
@@ -182,20 +191,19 @@ graph TD
 
 * 상처·감염·허혈 등 급성 문제가 없는 당뇨병 환자의 정기 발 평가 간격임; 새 출혈·수포·궤양이 생기면 예정일을 기다리지 않고 평가함
 
-| IWGDF 위험도 | 기준 | 정기 평가 간격 |
-| --- | --- | --- |
-| 0 | 보호감각 소실(LOPS)과 PAD 모두 없음 | 연 1회 |
-| 1 | LOPS 또는 PAD만 있음 | 6\~12개월마다 |
-| 2 | LOPS + PAD, LOPS + 발 변형 또는 PAD + 발 변형 | 3\~6개월마다 |
-| 3 | LOPS 또는 PAD가 있으면서 족부궤양력·하지절단력·말기콩팥병 중 하나 이상 동반 | 1\~3개월마다 |
+<table><thead><tr><th>IWGDF 위험도</th><th>기준</th><th>정기 평가 간격</th></tr></thead><tbody><tr><td>0</td><td>보호감각 소실(LOPS)과 PAD 모두 없음</td><td>연 1회</td></tr><tr><td>1</td><td>LOPS 또는 PAD만 있음</td><td>6&#126;12개월마다</td></tr><tr><td>2</td><td>LOPS + PAD, LOPS + 발 변형 또는 PAD + 발 변형</td><td>3&#126;6개월마다</td></tr><tr><td>3</td><td>LOPS 또는 PAD가 있으면서 족부궤양력·하지절단력·말기콩팥병 중 하나 이상 동반</td><td>1&#126;3개월마다</td></tr></tbody></table>
 
 <mark style="color:$info;">[IWGDF Prevention 2023] 평가 간격은 전문가 의견에 근거하며, 현재 병변·관류·자가관리 능력에 따라 더 짧게 조정함.</mark>
 
+* 정기 종합 발 평가 간격과 별도로, 감각저하 또는 궤양·절단력이 있는 환자는 **매 진료 방문 시 발을 관찰**함 <mark style="color:$info;">[ADA 2026]</mark>
+
 ***
 
-### <mark style="color:red;">질병코드 (KCD-9)</mark>
+### <mark style="color:red;">질병코드</mark>
 
-L84 티눈 및 굳은살 Corns and callosities
+**L84 티눈 및 굳은살 Corns and callosities**
+
+* KCD-9 완전코드. 굳은살(Callus)과 티눈(Clavus)도 모두 L84에 포함됨
 
 ***
 
@@ -220,20 +228,21 @@ L84 티눈 및 굳은살 Corns and callosities
 > **처방례 3. 넓고 건조한 굳은살**
 >
 > ```
-> 한미유리아크림200㎎(urea 200 ㎎/g, 20%) 50 g/튜브  1일 1~수회 얇게 도포
+> 한미유리아크림200㎎(urea 200 ㎎/g, 20%) 50 g/튜브  1일 1~수회 바른 뒤 충분히 문지름
 > ```
 >
 > _✽ 궤양·미란·상처에는 직접 도포하지 않음. 급성 습진·염증성 피부질환과 신부전 환자의 광범위 적용은 금기이며 균열은 신중히 사용함. 압력 재분배와 신발 교정을 병행하지 않으면 재발함._
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+## <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **각질용해제 사용법**
 >
 > * 병변에만 도포하고 정상 피부는 보호 펠트나 petrolatum으로 차단합니다.
 > * 당뇨병·감각저하·혈류장애가 없는 저위험 환자만 따뜻한 물에 5\~10분 불린 뒤 느슨한 각질을 가볍게 제거합니다. 위험 발은 족욕이나 자가 각질 제거를 하지 않습니다.
 > * 심한 따가움, 통증, 피부 벗겨짐, 출혈 또는 진물이 생기면 즉시 중단합니다.
+> * 듀오케어액은 불꽃·담배·열원 근처에서 사용하지 말고 증기를 들이마시지 않습니다. 바른 뒤에는 완전히 말리고 사용 후 뚜껑을 닫습니다.
 
 > **고위험 발 환자 주의**
 >
@@ -244,9 +253,35 @@ L84 티눈 및 굳은살 Corns and callosities
 >
 > * 병변 주위가 붉게 붓거나 열감·고름·진물이 있는 경우 - 즉시 내원
 > * 갑자기 창백해지거나 차갑고 통증이 심한 경우 - 즉시 내원
-> * 압력 조절과 치료에도 4\~6주 이상 호전이 없는 경우
+> * 압력 조절과 자가치료에도 약 3주간 호전이 없는 경우 - 진단과 치료 재평가
 > * 같은 부위에 반복적으로 재발하는 경우 - 구조적 원인 평가 필요
 > * 당뇨병으로 감각이 둔한 발이 한쪽만 붓고 뜨거워진 경우 - 아프지 않아도 당일 진료
+
+***
+
+## <mark style="color:$info;">주요 참고문헌 및 확인 자료</mark>
+
+### &lt;임상 근거&gt;
+
+* [IWGDF/IDSA. Guidelines on the Diagnosis and Treatment of Diabetes-related Foot Infections (2023)](https://www.idsociety.org/practice-guideline/diabetic-foot-infections/) - 중증·괴사성 감염의 긴급 평가
+
+* [American Diabetes Association. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes—2026](https://doi.org/10.2337/dc26-S012). Diabetes Care. 2026;49(Suppl 1):S261-S276 - 감각검사 조합·고위험 환자의 매 방문 발 관찰
+* [Primary Care Dermatology Society. Corns and callosities](https://www.pcds.org.uk/clinical-guidance/callosities-and-corns) - 임상 양상·압력 교정·각질 제거·의뢰
+* [American Academy of Dermatology. How to treat corns and calluses](https://www.aad.org/public/everyday-care/injured-skin/burns/treat-corns-calluses) - 저위험 환자의 각질 불리기·보습·패드 적용
+* [Farndon LJ, et al. The effectiveness of salicylic acid plasters compared with ‘usual’ scalpel debridement of corns: a randomised controlled trial](https://doi.org/10.1186/1757-1146-6-40). J Foot Ankle Res. 2013;6:40 - 저위험 성인의 40% 살리실산 경고제 시험
+
+* [IWGDF. Guidelines on the prevention of foot ulcers in persons with diabetes (2023)](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-02-Prevention-Guideline.pdf) - 위험도별 발 평가·자가관리·굳은살 치료·예방적 굴곡건 절단술
+* [IWGDF/ESVS/SVS. Intersocietal guidelines on peripheral artery disease in patients with diabetes mellitus and a foot ulcer (2023)](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-05-PAD-Guideline.pdf) - 당뇨병 환자의 말초관류 평가
+* [IWGDF. Guidelines on the diagnosis and treatment of active Charcot neuro-osteoarthropathy in persons with diabetes mellitus (2023)](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-08-Charcot-Guideline.pdf)
+* [NHS. Corns and calluses](https://www.nhs.uk/conditions/corns-and-calluses/) - 저위험 환자의 압력 조절·자가관리
+
+### &lt;허가·급여 확인 자료&gt;
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) - 듀오케어액·신신티눈고의 성분·용법·금기 및 타로암모늄락테이트로션12%의 허가 상태
+* 한미약품. 한미유리아크림200㎎ 제품설명서 - 제조사 공개 원문 확인; 이번 검토에서는 식약처 해당 품목 상세 페이지 직접 열람이 제한되어 제조사 설명서를 사용함
+* 사용자 보유 KCD9_251216(6).xlsx - 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」의 L84 대조
+
+확인 기준일: 2026-10-31. 허가 상태·용법·금기와 실제 약국 재고는 별개이며, 처방 시 최신 품목정보/급여기준 조회.
 
 ***
 
@@ -275,24 +310,11 @@ L84 티눈 및 굳은살 Corns and callosities
 * 당뇨병·혈액순환 장애가 있으면 신신티눈고와 듀오케어액을 사용하지 마세요. 듀오케어액은 2세 미만 소아에게도 사용하지 마세요.
 * 사용 가능한 저위험 환자는 티눈약(살리실산 등)을 병변에만 바르고 주변 정상 피부에는 닿지 않게 하세요.
 * 심하게 따갑거나 피부가 벗겨지면 바로 사용을 멈추세요.
+* 듀오케어액은 불이 붙기 쉬우므로 불꽃·담배·열원 근처에서 사용하지 마세요. 증기를 들이마시지 말고 사용 후 뚜껑을 닫으세요.
 
-#### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
+#### <mark style="color:$primary;">언제 진료를 받아야 하나요?</mark>
 
-* 당뇨병이나 손발 감각이 둔한 경우에는 스스로 자르거나 티눈약을 사용하지 말고 먼저 진료를 받으세요. 새 상처·출혈·수포가 없으면 예정된 진료에서 관리 계획을 정할 수 있습니다.
-* 붉게 붓거나 뜨겁고 아프거나, 피·고름·진물이 나오거나 피부가 검게 변하면 즉시 병원에 가세요.
-
-***
-
-## <mark style="color:$info;">주요 참고문헌 및 확인 자료</mark>
-
-### 임상 근거
-
-* [IWGDF. Guidelines on the prevention of foot ulcers in persons with diabetes (2023)](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-02-Prevention-Guideline.pdf) — 위험도별 발 평가·자가관리·굳은살 치료·예방적 굴곡건 절단술
-* [IWGDF/ESVS/SVS. Intersocietal guidelines on peripheral artery disease in patients with diabetes mellitus and a foot ulcer (2023)](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-05-PAD-Guideline.pdf) — 당뇨병 환자의 말초관류 평가
-* [IWGDF. Guidelines on the diagnosis and treatment of active Charcot neuro-osteoarthropathy in persons with diabetes mellitus (2023)](https://iwgdfguidelines.org/wp-content/uploads/2023/07/IWGDF-2023-08-Charcot-Guideline.pdf)
-* [NHS. Corns and calluses](https://www.nhs.uk/conditions/corns-and-calluses/) — 저위험 환자의 압력 조절·자가관리
-
-### 허가·급여 확인 자료
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 듀오케어액, 신신티눈고, 한미유리아크림200㎎의 성분·용법·금기 및 타로암모늄락테이트로션12%의 허가 상태
-* [한미약품: 유리아크림 제품설명서](https://common.hanmi.co.kr/upfile/ces/product/a3736c63-d17f-41d1-a414-6918986a092c.pdf)
+* **즉시 응급진료** : 발이 갑자기 창백하거나 차가워지고 심하게 아프거나, 붉게 부은 부위가 빠르게 퍼지거나, 피부가 검게 변하고 전신 상태가 나빠지는 경우
+* **당일 진료** : 새 상처·출혈·수포·고름·진물이 생기거나, 당뇨병으로 감각이 둔한 발이 한쪽만 붓고 뜨거워지는 경우. 아프지 않아도 진료를 받으세요.
+* 당뇨병·감각저하·혈액순환 장애가 있으면 자가치료 전에 진료를 받으세요. 새 상처나 위 경고 증상이 없으면 예정된 진료에서 관리 계획을 정할 수 있습니다.
+* 압력을 줄이고 자가치료해도 약 3주간 호전이 없거나 반복 재발하면 진단과 신발·발 모양을 다시 평가받으세요.

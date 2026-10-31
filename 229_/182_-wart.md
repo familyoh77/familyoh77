@@ -10,7 +10,7 @@
   * 항문생식기 사마귀 : 가려움, 불편감 또는 출혈 가능
 * 경과
   * 자연 소실되거나 수년간 지속할 수 있으며 치료 후에도 재발할 수 있음
-  * 소아에서는 약 절반이 1년 이내, 약 2/3가 2년 이내 자연 소실된다는 자료가 있으나 연구와 병변 위치에 따라 차이가 큼
+  * 소아에서는 1년 내 약 절반이 소실된다는 관찰연구와, 무치료 상태에서 2년 내 약 2/3가 자연 소실되었다는 과거 연구가 있음; 1년 소실률 연구에는 치료받은 소아도 포함되어 순수 자연 소실률과 구분하며 환자군·연구방법에 따라 차이가 큼
   * 성인에서는 소아보다 자연 소실이 느린 경향이 있으나 정확한 소실률 자료는 제한적이며, 면역저하자·오래된 병변·발바닥 및 손발톱주위 병변은 치료 저항성이 높음
   * 치료는 눈에 보이는 병변 제거와 증상 완화를 목표로 하며 HPV를 완전히 제거하거나 재발을 확실히 예방하지는 못함
 
@@ -64,6 +64,7 @@
 * 치료 약제가 눈에 노출된 경우 : 즉시 충분한 물로 세척을 시작하고 응급 평가  `안구 화학손상`
 * 광범위 점막 노출 또는 심한 화학화상  `화학화상`
 * 시술 후 조절되지 않는 심한 통증, 급격한 부종·긴장성 수포, 원위부 감각·혈류 이상  `신경·혈류 손상`
+* 생식기 치료 후 소변을 보지 못하거나, 뒤로 젖힌 포피가 심하게 부어 원위치로 돌아오지 않는 경우  `급성 요폐` `감돈포경`
 * 빠르게 확산하는 발적·열감과 심한 통증, 발열·오한 또는 전신 상태 악화 등 중증 이차 세균감염 의심; 면역저하자는 발열이 없을 수 있음  `중증 감염`
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
@@ -112,51 +113,47 @@
 * 편평태선, 표피모반
 * 편평세포암, keratoacanthoma, verrucous carcinoma
 * 무색소성 또는 말단 흑색종
-* 항문생식기 병변 : condyloma lata(2기 매독), molluscum contagiosum, vestibular papillomatosis 등
+* 항문생식기 병변 : condyloma lata(2기 매독), molluscum contagiosum, vestibular papillomatosis, 진주양음경구진·Fordyce 반점 등 정상 변이, 항문생식기 상피내종양(HSIL 포함) 등
 
 ***
 
 ```mermaid
-graph TD
-    Start(["사마귀 의심 병변"]) --> Urgent{"즉각 조치·당일 평가 항목?"}
-    Urgent -->|"예"| Now["응급 조치 또는 당일 평가"]
+flowchart TD
+    Start(["사마귀 의심"]) --> Urgent{"즉각 조치·당일 평가 항목?"}
+    Urgent -->|"예"| Now(["응급 조치 또는 당일 평가"])
     Urgent -->|"아니요"| Loc{"병변 위치?"}
-    Loc -->|"비생식기"| NG["비생식기 병변의 임상·피부경 평가"]
-    Loc -->|"외부 생식기·항문"| GW["항문생식기 사마귀 평가"]
+    Loc -->|"비생식기"| NG["임상·피부경 평가"]
+    Loc -->|"항문생식기"| GS{"소아·임신 또는 내부 병변?"}
+    GS -->|"예"| Spec(["전문의 평가·위치와 임신 여부에 맞춰 치료"])
+    GS -->|"아니요"| GAtyp{"비전형·진단 불확실·치료 불응?"}
 
     NG --> Atyp{"진단 불확실·비전형·치료 불응?"}
-    Atyp -->|"있음"| Bx["조기 의뢰·조직검사 고려"]
-    Atyp -->|"없음"| Site{"자가치료 금기·주의 부위?"}
-    Site -->|"얼굴·눈꺼풀·점막·손발톱밑"| Special["자가 각질용해제 금지<br>피부과 치료 고려"]
-    Site -->|"손·발·몸통의 전형적 병변"| Risk{"당뇨병·감각저하·말초혈류장애<br>또는 면역저하?"}
-    Risk -->|"예"| Assess["자가 각질용해제 보류<br>의료진 평가·치료 선택"]
-    Risk -->|"아니요"| Want{"치료 원함?"}
-    Want -->|"무증상, 관찰 희망"| Obs["경과 관찰"]
-    Want -->|"예"| L1["1차: salicylic acid ± 냉동치료"]
-    L1 --> Resp{"8~12주 반응?<br>냉동치료는 약 3개월에 재평가"}
-    Resp -->|"호전"| Cont["치료 지속·종료"]
-    Resp -->|"무반응·재발"| L2["2차: 5-FU·접촉면역요법·병변내 치료 등<br>피부과 의뢰"]
+    Atyp -->|"예"| Bx(["조기 의뢰·조직검사 고려"])
+    Atyp -->|"아니요"| Site{"자가치료 제한 부위?"}
+    Site -->|"얼굴·눈꺼풀·점막·손발톱밑"| Special(["자가 각질용해제 보류·피부과 평가"])
+    Site -->|"손·발·몸통의 전형적 병변"| Risk{"당뇨병·감각저하·혈류장애·면역저하 또는 임신·2세 미만?"}
+    Risk -->|"예"| Assess(["자가치료 전 의료진 평가·제품 금기 확인"])
+    Risk -->|"아니요"| Want{"증상·확산 또는 치료 희망?"}
+    Want -->|"없음"| Obs(["경과 관찰·변화 시 재평가"])
+    Want -->|"있음"| L1["연령·제품 금기 확인 후 salicylic acid 또는 냉동치료"]
+    L1 --> Resp{"8~12주 반응?"}
+    Resp -->|"호전"| Cont(["반응·안전성에 따라 치료 지속·종료"])
+    Resp -->|"무반응·악화"| L2(["진단·순응도 재평가·피부과 치료 고려"])
 
-    GW --> GAtyp{"비전형·진단 불확실·치료 불응?<br>면역저하자는 생검 문턱을 낮춤"}
-    GAtyp -->|"예"| GBx["전문의 의뢰·조직검사 고려"]
-    GAtyp -->|"아니요"| STI["다른 STI 검사 고려<br>필요 시 항문관 평가"]
-    STI --> GTx["환자 도포: imiquimod<br>의료진 시행: 냉동치료·TCA/BCA·수술<br>임신·병변 위치에 따라 선택"]
-    GTx --> GResp{"치료 반응?"}
-    GResp -->|"호전"| GDone["치료 종료·재발 및 전파 상담"]
-    GResp -->|"무반응·악화"| Refer["진단 재평가·전문의 의뢰<br>조직검사 고려"]
+    GAtyp -->|"예"| GBx(["전문의 의뢰·조직검사 고려"])
+    GAtyp -->|"아니요"| STI["다른 STI 검사·필요 시 항문관 평가"]
+    STI --> GTx["성인 외부 병변: imiquimod 또는 의료진 시행 치료"]
+    GTx --> GResp{"치료 반응·부작용 평가"}
+    GResp -->|"소실"| GDone(["치료 종료·재발 및 전파 상담"])
+    GResp -->|"호전 중"| GCont(["허가기간 내 치료 지속·재평가"])
+    GResp -->|"반응 부족·심한 부작용"| Refer(["휴약·치료법 변경 고려·필요 시 조직검사"])
 
-    style Loc fill:#fff9c4,stroke:#ffe082
-    style Atyp fill:#fff9c4,stroke:#ffe082
-    style Site fill:#fff9c4,stroke:#ffe082
-    style Want fill:#fff9c4,stroke:#ffe082
-    style Resp fill:#fff9c4,stroke:#ffe082
-    style GAtyp fill:#fff9c4,stroke:#ffe082
-    style GResp fill:#fff9c4,stroke:#ffe082
+    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
     style Bx fill:#f96,stroke:#e65100,stroke-width:2px
     style GBx fill:#f96,stroke:#e65100,stroke-width:2px
-    style Refer fill:#f96,stroke:#e65100,stroke-width:2px
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
 ```
+
+* 알고리듬의 8\~12주 평가는 비생식기 사마귀 기준이며 냉동치료는 약 3개월에 재평가함. 항문생식기 병변의 imiquimod는 치료 수주 내 사용법·부작용을 확인하고 8주 반응을 평가함. 면역저하자는 두 경로 모두 조직검사 문턱을 낮춤.
 
 <p align="center"><strong>사마귀 진단 및 치료 알고리듬</strong></p>
 
@@ -171,10 +168,11 @@ graph TD
 * 보통·발바닥 사마귀의 1차 선택(얼굴·눈꺼풀·점막 제외)
   * 국소 salicylic acid
   * 액체질소 냉동치료
-* 발바닥 사마귀에서 냉동치료가 salicylic acid보다 우월하다고 단정할 수 없음; 통증·비용·자가치료 가능 여부를 함께 고려 <mark style="color:$info;">[EVerT RCT, BMJ 2011](https://doi.org/10.1136/bmj.d3271)</mark>
+* 발바닥 사마귀에서 냉동치료가 salicylic acid보다 우월하다고 단정할 수 없음; EVerT 연구는 12세 이상에서 50% salicylic acid를 비교하였으므로 국내 16.7% 복합액과 동일한 효과를 보장하는 자료는 아님. 통증·비용·자가치료 가능 여부를 함께 고려 <mark style="color:$info;">[EVerT RCT, BMJ 2011](https://doi.org/10.1136/bmj.d3271)</mark>
 * 소아는 관찰 또는 연령상 사용 가능한 salicylic acid 제제를 우선 고려하고 냉동치료의 통증·수포와 협조 가능성을 평가; 듀오케어액은 2세 미만에서 금기
 * 얼굴의 편평사마귀·실모양사마귀와 손발톱주위 병변은 흉터·색소변화·조갑기질 손상 위험을 고려하여 피부과에서 치료를 선택
 * 난치성·다발성 병변은 진단을 재평가하고 병변 위치·면역상태에 따라 피부과 전문치료 고려
+* 처방 시 최신 품목정보/급여기준 조회; 국내 허가용법과 허가 외 전문치료를 구분함
 
 {% hint style="danger" %}
 항문생식기·얼굴·눈꺼풀·점막 병변에 일반 피부사마귀용 salicylic acid, 5-FU 또는 cantharidin을 임의로 적용하지 않음.
@@ -187,6 +185,7 @@ graph TD
 * 공용 샤워실·수영장에서는 개인 슬리퍼를 사용하고 발을 잘 말림
 * 병변에 접촉하거나 약을 바른 뒤 손을 씻음
 * HPV 6·11형을 포함하는 4가·9가 HPV 백신은 생식기 사마귀와 HPV 관련 암을 예방하지만 기존 사마귀를 치료하거나 일반 피부사마귀의 재발을 막는 치료는 아님(☞ 예방접종 챕터)
+* 생식기 사마귀 병력이 있어도 연령·접종력에 따라 예방접종 대상이 될 수 있음; 기존 HPV 감염의 치료 목적과 구분함
 
 ### <mark style="color:orange;">테이프 밀폐요법</mark>
 
@@ -209,7 +208,7 @@ graph TD
   * 효과는 수주에 걸쳐 나타나며 최대 12주가 소요될 수 있음; 8\~12주에 반응을 평가하고 무반응이면 진단·치료를 재평가하며 임의로 장기 사용하지 않음
 * 국내 제품 예 : salicylic acid 16.7%/lactic acid 16.7%(각 167 ㎎/g) <mark style="color:blue;">\[듀오케어액]</mark> 15 ㎖/병 - 1일 1회 병변에만 도포; 발바닥 사마귀는 도포·건조 후 반창고로 덮어 24시간 유지하고 다음 도포 전 제거
 * **듀오케어액 허가상 금기** : 모든 당뇨병 환자, 말초혈액순환장애 환자, 2세 미만 소아 및 성분 과민증; 얼굴·간찰부위·항문생식기·눈 주위·점막·점·모반·털이 많은 사마귀·기타 피부병변
-* 임부·임신 가능성이 있는 여성과 넓은 피부 영역을 정기적으로 치료해야 하는 수유부는 사용 전 상담; 다른 제품도 개별 허가사항 확인
+* 임부·임신 중일 가능성이 있는 여성과 넓은 피부 영역을 정기적으로 치료해야 하는 수유부는 사용 전 상담; 다른 제품도 개별 허가사항 확인
 * 부작용 : 따가움, 홍반, 미란, 주변 정상 피부 손상
   * 심한 통증·진무름·출혈이 생기면 수일간 중단하고 재평가
 * 사용하지 않거나 의료진 평가가 필요한 부위
@@ -231,12 +230,12 @@ graph TD
   * 치료 기간은 병변 반응과 허가사항에 따르며 통상 수주가 필요
 * 부작용 : 작열감, 홍반, 미란, 피부 변색, 접촉피부염
 * 금기·주의
-  * 임부·임신 가능성이 있는 여성 및 수유부, 소아
+  * 임부·임신 중일 가능성이 있는 여성 및 수유부, 소아
   * 눈 주위·점막·생식기·항문 및 넓은 면적
   * 베루말액 허가사항상 금기인 중증 신장애·중증 폐기능장애·혈액순환장애 환자
   * 치료 부위의 과도한 햇빛·자외선 노출을 피함
 * 국내 허가사항상 상호작용 : methotrexate 독성 증가, sulfonylurea 혈당강하작용 증가, 다른 국소약물 흡수 증가, sulindac 병용 시 말초신경장애 가능
-* **추가 안전수칙(국외 fluorouracil 제제 정보)** : DPD 결핍 또는 brivudine·sorivudine 사용력이 있으면 처방 전 확인; 이 항바이러스제와 병용하지 않으며 중단 후 최소 4주 간격 필요(<mark style="color:$info;">[Verrumal 국외 제품설명서](https://mohpublic.z6.web.core.windows.net/IsraelDrugs/Rishum_19_360082221.pdf)</mark>)
+* **추가 안전수칙(국외 fluorouracil 제제 정보)** : 알려진 DPD 결핍 또는 brivudine·sorivudine 사용력이 있으면 처방 전 확인; 이 항바이러스제와 병용하지 않으며 중단 후 최소 4주 간격 필요(<mark style="color:$info;">[Verrumal 국외 제품설명서](https://mohpublic.z6.web.core.windows.net/IsraelDrugs/Rishum_19_360082221.pdf)</mark>)
 * 병변 내 5-FU 주사는 난치성 병변에 대한 허가 외 피부과 전문치료이며 일차의료의 표준요법으로 권고하지 않음
 
 ### <mark style="color:orange;">접촉면역요법</mark>
@@ -273,7 +272,7 @@ graph TD
 ### <mark style="color:orange;">병변내 bleomycin(허가 외)</mark>
 
 * 난치성 보통·발바닥·손발톱주위 사마귀에서 피부과 전문의가 고려하는 선택지
-* 2026년 RCT 메타분석에서 보통사마귀의 단기 제거효과가 냉동치료보다 높을 가능성이 보고됨; 이를 모든 부위의 1차 치료 우월성이나 장기 재발 감소로 일반화하지 않음 <mark style="color:$info;">[Actas Dermosifiliogr 2026](https://pubmed.ncbi.nlm.nih.gov/42762904/)</mark>
+* 2026년 RCT 메타분석(4개 연구, 489명)에서 보통사마귀의 단기 제거효과가 냉동치료보다 높을 가능성이 보고됨; 최대 추적 12주로 근거 확실성이 낮아 모든 부위의 1차 치료 우월성이나 장기 재발 감소로 일반화하지 않음 <mark style="color:$info;">[Actas Dermosifiliogr 2026](https://pubmed.ncbi.nlm.nih.gov/42762904/)</mark>
 * 주사 통증, 가피·국소 괴사, 색소변화, 조갑변형 및 드물게 말단 허혈·Raynaud 현상 위험
 * 임신·수유, 말초혈관질환·Raynaud 현상 등이 있으면 피함; 손발톱주위·손발가락은 특히 신중히 시행
 * 농도·용량·주입 위치가 중요하므로 일차의료의 일반 처방례에는 포함하지 않음
@@ -295,19 +294,25 @@ graph TD
   * 완전 소실 시까지 또는 최대 16주 사용
   * 얇게 문질러 바르며 밀폐하지 않음; 질·자궁경부·요도·직장·항문관 내부에는 사용하지 않음
   * 도포한 동안 성접촉을 피하고 성접촉 전 씻어냄; 콘돔·피임용 격막을 약화시킬 수 있음
-* 부작용 : 홍반, 작열감, 미란·궤양, 수포, 저색소침착; 심한 국소반응 시 일시 중단 및 재평가
+  * 1포(250 ㎎)는 약 20㎠에 도포할 수 있는 양; 필요한 만큼 얇게 사용하며 개봉한 포는 재사용하지 않음
+  * 열린 상처 또는 이전 약물·수술로 손상된 피부가 회복되기 전에는 사용하지 않음
+  * 포피 아래 병변 치료 시 매일 포피를 부드럽게 젖혀 세척하고 원위치시킴; 포피 부종·조임이 생기면 중단하고 평가
+  * 소아·청소년(국내 허가사항상 18세 이하)의 안전성·유효성은 확립되어 있지 않음
+* 부작용 : 홍반, 작열감, 미란·궤양, 수포, 저·과색소침착, 독감 유사 전신증상; 견디기 어려운 반응은 비누와 물로 씻어내고 휴약·재평가. 생식기 심한 부종·요폐는 즉시 진료
+* 자가면역·염증성 피부질환 또는 장기이식 환자에서는 악화 가능성을 고려하여 신중히 사용
+* 재발 시 같은 요법을 임의로 반복하지 않음; 국내 허가사항은 사마귀 재발에 대한 반복사용을 권장하지 않으므로 진단·이전 치료·다른 치료법을 재평가
 * 임신 중 인체 자료가 제한적이므로 가급적 피하고 대체 치료를 우선 고려
 
 ### <mark style="color:orange;">근거가 제한적이거나 일상적 사용을 권고하지 않는 치료</mark>
 
 * 경구 cimetidine : 위약대조시험에서 유효성이 확인되지 않아 표준치료로 권고하지 않음
-* 경구 zinc sulfate : 2025년 7개 RCT 메타분석에서 완전소실률 개선과 병용 시 6개월 재발 감소가 보고되었으며 기저 아연 수치가 낮은 환자에서 효과가 더 컸음. 다만 연구 간 이질성·소규모 연구·지역 편중이 있어 모든 환자에게 일률적으로 권고하지 않음; 결핍이 있으면 이를 교정하고 난치성 병변의 추가 사용은 전문의가 개별 판단함. 고용량은 오심·구토와 구리 결핍 위험이 있어 임의 복용을 피함 <mark style="color:$info;">[PLOS One 2025](https://doi.org/10.1371/journal.pone.0323051)</mark>
+* 경구 zinc sulfate : 2025년 메타분석(7개 RCT, 594명)에서 전체 완전소실률 개선이 보고되었으나 연구 간 이질성이 매우 컸음. 기저 아연 수치가 정상인 하위군과 기존 치료에 추가한 병용군에서는 완전소실률의 유의한 개선이 없었음. 6개월 재발 감소는 병용요법 2개 연구에 근거함. 결핍이 확인되면 교정하되 아연 검사를 모든 사마귀 환자에게 시행하거나 결핍이 없는 환자에게 일률적으로 투여하지 않음. 고용량의 오심·구토·구리 결핍 위험을 설명하고 임의 복용을 피함 <mark style="color:$info;">[PLOS One 2025](https://doi.org/10.1371/journal.pone.0323051)</mark>
 * DNCB : 변이원성 우려로 현재 권고하지 않음
 * 가정에서 일정 온도의 온탕에 반복적으로 담그는 치료 : 근거가 제한적이고 화상 위험이 있어 권고하지 않음
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-### <mark style="color:orange;">냉동치료(액체질소)</mark>
+### <mark style="color:orange;">냉동치료(액체질소; 비생식기 사마귀)</mark>
 
 * 작용 : HPV 감염 각질형성세포를 냉동 손상시키고 국소 면역반응을 유도
 * 시술 전 두꺼운 각질을 출혈 없이 제거하면 냉동 침투에 도움이 됨
@@ -323,12 +328,14 @@ graph TD
   * 조갑기질을 침범하면 영구적 조갑변형 가능
   * 짙은 피부색에서는 저색소침착 위험을 충분히 설명
   * 감각저하·말초혈관질환 부위에는 신중히 시행
+  * Raynaud 현상, 한랭두드러기·한랭글로불린혈증 등 한랭 관련 질환은 시술 전 확인하고 냉동치료 적합성을 평가
 
 ### <mark style="color:orange;">레이저·전기소작·소파술·수술적 제거</mark>
 
 * 1차 치료에 반응하지 않거나 크고 증상이 있는 병변에서 피부과 전문치료로 고려
 * 흉터, 통증, 색소변화 및 재발 가능성을 설명
-* 레이저·전기소작 시 HPV가 포함된 시술 연무(plume) 노출을 줄이기 위해 적절한 환기, 국소 배기 및 연기흡입기 사용
+* 레이저·전기소작 시 HPV가 포함된 시술 연무(plume) 노출을 줄이기 위해 적절한 환기, 국소 배기 및 연기흡입기 사용; 항문생식기 시술에서는 N95 또는 동급 호흡보호구 등 적절한 개인보호구 사용
+* 다발성·난치성 편평사마귀에서는 광역학치료(PDT)도 피부과 전문치료로 고려할 수 있음; 사마귀에 대한 약제·광원의 허가 범위, 공급·시술 가능 여부 및 광과민·통증·색소변화 위험을 확인
 
 ## <mark style="color:green;">항문생식기 사마귀 (독립 관리)</mark>
 
@@ -348,11 +355,15 @@ graph TD
 * 국외 지침에는 podofilox 0.5%, sinecatechins 15%도 포함되지만 이 챕터의 국내 처방례에는 imiquimod를 제시함
 * **Imiquimod 국내 급여** : 성인의 외부 생식기·항문주위 사마귀는 기존 요법 후 병변이 재발하여 재치료하는 경우 인정됨. 허가 범위 내에서 이 기준 이외 사용은 약값 전액을 환자가 부담함 <mark style="color:$info;">[HIRA 고시 제2016-49호](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20160401&mtgMtrRegSno=0007&sno=1)</mark>
 * 의료진 시행 : 액체질소 냉동치료, TCA/BCA 80\~90%, 수술적 제거·전기소작·레이저
+  * 항문생식기 냉동치료는 비생식기 병변과 간격을 구분함. BASHH 2024는 주 1회, 1\~2회 동결–해동을 권고하며 4회 시술 후 완전 소실되지 않으면 다른 치료로 변경을 고려함(절대 횟수 제한은 아님)
+  * TCA/BCA는 숙련된 의료인이 소량을 병변에만 적용하고 충분히 건조시킴; 주변 피부 손상을 피하고 필요 시 주 1회 반복
+  * 임상 선택 기준이며 국내 개별 시술의 급여 횟수·간격 기준과는 구분함
 * podophyllin resin은 더 안전한 대체제가 있고 심각한 전신독성이 보고되어 권장요법으로 사용하지 않음
 * 자궁경부 사마귀는 산부인과 의뢰; 외장성 병변은 치료 전 HSIL 배제를 위한 조직검사 필요
 * 질 내부에 cryoprobe를 직접 적용하지 않음(천공·누공 위험); 필요 시 숙련된 의료인이 액체질소·수술·TCA/BCA 등을 선택
 * 항문관 병변은 대장항문 전문의 의뢰
-* 치료 시작 후 수주 내 도포법·국소반응을 확인하고 이후 반응을 평가함; 대개 3개월 내 반응을 보이나 충분한 치료 과정 후에도 실질적 호전이 없거나 심한 부작용이 있으면 치료를 변경하고 진단을 재평가함 <mark style="color:$info;">[CDC STI Treatment Guidelines 2021](https://www.cdc.gov/std/treatment-guidelines/anogenital-warts.htm)</mark>
+* **Imiquimod 반응 평가** : 치료 시작 수주 내 도포법·국소반응을 확인하고 8주에 병변 부피 감소를 평가함. BASHH 2024는 8주 후 감소가 50% 미만이면 다른 치료로 변경을 고려하도록 제안함; 모든 환자가 최대 16주를 채워야 하는 것은 아님 <mark style="color:$info;">[BASHH 2024](https://www.bashh.org/resources/96/guidelines_anogenital_warts_2024/)</mark>
+* 치료 중 반응·부작용을 지속 평가함; 대개 3개월 내 반응을 보이나 충분한 치료 과정 후에도 실질적 호전이 없거나 심한 부작용이 있으면 치료를 변경하고 진단을 재평가함 <mark style="color:$info;">[CDC STI Treatment Guidelines 2021](https://www.cdc.gov/std/treatment-guidelines/anogenital-warts.htm)</mark>
 
 ### <mark style="color:orange;">임신</mark>
 
@@ -372,11 +383,13 @@ graph TD
 
 ***
 
-### <mark style="color:red;">질병코드 (KCD-9)</mark>
+### <mark style="color:red;">질병코드</mark>
 
 B07 바이러스사마귀 Viral warts
 
-A63.0 항문생식기의(성병성) 사마귀 Anogenital (venereal) warts
+A63.0 항문생식기의(성병성) 사마귀 Anogenital(venereal) warts
+
+* 일반 피부사마귀는 B07, 항문생식기 사마귀는 A63.0으로 구분함. KCD-9에서 B07은 완전코드이며 미국 ICD-10-CM의 B07.0·B07.8·B07.9를 그대로 적용하지 않음.
 
 ***
 
@@ -399,21 +412,21 @@ A63.0 항문생식기의(성병성) 사마귀 Anogenital (venereal) warts
 >
 > _✽두꺼운 각질을 미리 제거하면 냉동 침투가 향상됨; salicylic acid는 수포·미란이 회복된 뒤 사용; 도포·건조 후 반창고로 덮고 24시간 후 제거하여 반복; 당뇨병·말초혈액순환장애 환자는 듀오케어액 사용 금지_
 
-> **처방례 3. 1차 치료 무반응 비생식기 사마귀**
+> **처방례 3. 성인의 1차 치료 무반응 비생식기 사마귀**
 >
 > ```
 > 베루말액(fluorouracil 0.5%/salicylic acid 10%) 13 ㎖/병  1일 2~3회 병변에만 도포 (비급여)
 > ```
 >
-> _✽임부·수유부·소아 금기; 최대 치료면적 25㎠ 이하, 피막·느슨한 각질을 제거한 뒤 도포; 치료 성공 후 7일 추가 사용(피부 손상 시 중단); 도포 부위 자외선 노출 회피; 병용약물 확인; 심한 작열감·홍반·미란이 발생하면 일시 중단하고 회복 후 필요 시 1일 1회로 감량하여 재개 고려; 수주 사용 후에도 무반응이면 접촉면역요법·레이저 등 피부과 전문치료 고려_
+> _✽임부·임신 중일 가능성이 있는 여성·수유부·소아 및 중증 신장애·중증 폐기능장애·혈액순환장애 환자 금기; 최대 치료면적 25㎠ 이하, 피막·느슨한 각질을 제거한 뒤 도포; 치료 성공 후 7일 추가 사용(피부 손상 시 중단); 도포 부위 자외선 노출 회피; 병용약물 확인; 심한 작열감·홍반·미란이 발생하면 일시 중단하고 회복 후 필요 시 1일 1회로 감량하여 재개 고려; 수주 사용 후에도 무반응이면 접촉면역요법·레이저 등 피부과 전문치료 고려_
 
 > **처방례 4. 성인의 외부 생식기·항문주위 사마귀 - 환자 도포**
 >
 > ```
-> 알다라크림 5%(imiquimod 12.5 mg/250 mg/포) 12포(초기 4주분)  취침 전 주 3회(예: 월·수·금) 병변에 얇게 도포, 6~10시간 후 세척
+> 알다라크림 5%(imiquimod 12.5 ㎎/250 ㎎/포) 12포(초기 4주분)  취침 전 주 3회(예: 월·수·금) 병변에 얇게 도포, 6~10시간 후 세척
 > ```
 >
-> _✽개봉한 포는 1회 사용 후 폐기; 치료 부위를 진료실에서 확인하고 병변에 얇게 문질러 바름; 완전 소실 시까지 또는 최대 16주 사용; 밀폐하지 않고 도포 중 성접촉을 피함. 임신 중에는 가급적 회피; 급여는 기존 요법 후 재발하여 재치료하는 경우에 인정; 국소 발적·미란이 심하면 휴약 후 재평가; 현재 파트너에게 알리도록 상담하며 파트너 진찰·다른 STI 검사는 필요에 따라 고려하되 HPV 검사는 권고하지 않음_
+> _✽개봉한 포는 1회 사용 후 폐기; 치료 부위를 진료실에서 확인하고 병변에 얇게 문질러 바름; 완전 소실 시까지 또는 최대 16주 사용; 밀폐하지 않고 도포 중 성접촉을 피함. 임신 중에는 가급적 회피; 급여는 기존 요법 후 재발하여 재치료하는 경우에 인정; 상처 회복 전에는 사용하지 않음; 국소 발적·미란이 심하면 씻어내고 휴약 후 재평가; 8주에 병변 부피 감소가 50% 미만이면 치료 변경 고려; 현재 파트너에게 알리도록 상담하며 파트너 진찰·다른 STI 검사는 필요에 따라 고려하되 HPV 검사는 권고하지 않음_
 
 ***
 
@@ -424,8 +437,39 @@ A63.0 항문생식기의(성병성) 사마귀 Anogenital (venereal) warts
 * 얼굴·생식기·점막에는 일반 사마귀 약을 자가 사용하지 않습니다.
 * 듀오케어액은 당뇨병·말초혈액순환장애 환자와 2세 미만 소아가 사용하지 않습니다.
 * 액제는 화기에서 멀리 사용·보관하고, 삼켰다면 구토를 유도하지 말고 즉시 응급 진료를 받습니다.
-* 베루말액은 임부·수유부·소아가 사용하지 않으며 눈·점막에 닿지 않게 합니다.
+* 베루말액은 임부·임신 중일 가능성이 있는 여성·수유부·소아가 사용하지 않습니다. 중증 신장·폐기능장애 또는 혈액순환장애가 있으면 처방 전 알리고 눈·점막에 닿지 않게 합니다.
+* 알다라크림은 열린 상처가 회복된 뒤 사용하고, 심하게 붓거나 헐면 씻어내고 사용을 멈춘 뒤 진료받습니다. 소변을 보지 못하거나 젖힌 포피가 돌아오지 않으면 즉시 진료받습니다.
+* 알다라크림은 주 3회만 사용하고 6\~10시간 뒤 씻어냅니다. 바른 동안 성접촉을 피하며, 재발해도 남은 약을 임의로 반복 사용하지 않습니다.
 * 냉동치료 뒤 작은 물집은 흔하지만 심한 통증, 급격한 부종, 고름 또는 발열이 있으면 바로 진료받습니다.
+
+## <mark style="color:$info;">주요 참고문헌 및 확인 자료</mark>
+
+### ＜임상 근거＞
+
+* [Bruggink SC, et al. Natural course of cutaneous warts among primary schoolchildren: a prospective cohort study. Ann Fam Med. 2013;11(5):437-441.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3767712/)
+* [Kwok CS, et al. Topical treatments for cutaneous warts. Cochrane Database Syst Rev. 2012;(9):CD001781.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8101088/)
+* [Clinical guideline for the diagnosis and treatment of cutaneous warts (2022)](https://doi.org/10.1111/jebm.12494)
+* [Cockayne S, et al. Cryotherapy versus salicylic acid for the treatment of plantar warts (verrucae): a randomised controlled trial. BMJ. 2011;342:d3271.](https://doi.org/10.1136/bmj.d3271)
+* [국내 성매개감염 진료지침 2023 개정 요약: Genital herpes and anogenital warts. Investig Clin Urol. 2024;65(1):9-15.](https://doi.org/10.4111/icu.20230275)
+* [BASHH. National guideline for the management of anogenital warts in adults (2024).](https://www.bashh.org/resources/96/guidelines_anogenital_warts_2024/)
+* [CDC. STI Treatment Guidelines: Anogenital Warts (2021)](https://www.cdc.gov/std/treatment-guidelines/anogenital-warts.htm)
+* [Chang CH, et al. Efficacy of Intralesional Candida Injection in the Treatment of Cutaneous Warts: A Systematic Review and Meta-Analysis. Acta Derm Venereol. 2024;104:adv40819.](https://doi.org/10.2340/actadv.v104.40819)
+* [Balach R, et al. Comparative Efficacy and Safety of Intralesional MMR Vaccine and Vitamin D3 in Managing Nongenital Warts: A Systematic Review and Meta-Analysis. J Cosmet Dermatol. 2026;25(1):e70618.](https://doi.org/10.1111/jocd.70618)
+* [Merry SP, et al. Intralesional Injection of Vitamin D3 for Treatment of Cutaneous Warts: A Randomized, Double-Blind, Placebo-Controlled Trial. J Prim Care Community Health. 2025;16:21501319251365853.](https://doi.org/10.1177/21501319251365853)
+* [Intralesional Quadrivalent Human Papilloma Virus Vaccine Versus Candida Antigen in the Treatment of Multiple Recalcitrant Non-Genital Warts. Dermatol Pract Concept. 2024;14(2):e2024066.](https://doi.org/10.5826/dpc.1402a66)
+* [Wang CC, et al. Oral zinc sulphate reduces the recurrence rate and provides significant therapeutic effects for viral warts: A systematic review and meta-analysis of randomized controlled trials. PLOS One. 2025;20(5):e0323051.](https://doi.org/10.1371/journal.pone.0323051)
+* [Intralesional bleomycin versus cryotherapy for the treatment of common warts: a systematic review and meta-analysis of randomized controlled trials. Actas Dermosifiliogr. 2026 Sep 19.](https://pubmed.ncbi.nlm.nih.gov/42762904/)
+
+### ＜허가·급여 확인 자료＞
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 듀오케어액(품목기준코드 202001351)·베루말액(199203404)의 국내 허가 원문. 알다라크림(200710217)은 식약처 상세 원문의 직접 열람이 제한되어 약학정보원에 재수록된 식약처 허가정보로 대조
+* [건강보험심사평가원: Imiquimod 12.5 ㎎ 외용제 급여기준, 고시 제2016-49호](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20160401&mtgMtrRegSno=0007&sno=1)
+* [Verrumal 국외 제품설명서](https://mohpublic.z6.web.core.windows.net/IsraelDrugs/Rishum_19_360082221.pdf) — DPD 결핍·brivudine/sorivudine 관련 추가 안전정보; 국내 허가사항과 구분
+* [FDA: cantharidin 0.7%의 2세 이상 물사마귀 적응증](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-molluscum-contagiosum)
+* KCD9_251216(6).xlsx — 저장된 KCD-9 자료의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」 시트에서 B07·A630(표시코드 A63.0) 대조
+* 확인일 : 2026-10-31. 처방 시 최신 품목정보/급여기준 조회
+
+***
 
 ### <mark style="color:blue;">환자 안내서</mark>
 
@@ -435,27 +479,3 @@ A63.0 항문생식기의(성병성) 사마귀 Anogenital (venereal) warts
 * 항문생식기 사마귀는 치료 후에도 재발할 수 있으며, 특히 치료 후 첫 3개월에 재발이 흔합니다.
 * 일반적인 항문생식기 사마귀도 대부분 양성이지만, 병변의 색이 짙어지거나 단단해짐, 빠른 성장, 출혈, 궤양 또는 지속 통증이 있으면 전암병변이나 암과 감별하기 위해 진료가 필요합니다.
 * 칼이나 손톱깎이로 병변을 잘라내거나 뜯지 말고 사용한 손톱줄·부석·면도기를 가족과 함께 쓰지 마십시오.
-
-***
-
-## <mark style="color:$info;">주요 참고문헌 및 확인 자료</mark>
-
-### 임상 근거
-
-* [Clinical guideline for the diagnosis and treatment of cutaneous warts (2022)](https://doi.org/10.1111/jebm.12494)
-* [Cockayne S, et al. Cryotherapy versus salicylic acid for the treatment of plantar warts (verrucae): a randomised controlled trial. BMJ. 2011;342:d3271.](https://doi.org/10.1136/bmj.d3271)
-* [국내 성매개감염 진료지침 2023 개정 요약: Genital herpes and anogenital warts. Investig Clin Urol. 2024;65(1):9-15.](https://doi.org/10.4111/icu.20230275)
-* [CDC. STI Treatment Guidelines: Anogenital Warts (2021)](https://www.cdc.gov/std/treatment-guidelines/anogenital-warts.htm)
-* [Chang CH, et al. Efficacy of Intralesional Candida Injection in the Treatment of Cutaneous Warts: A Systematic Review and Meta-Analysis. Acta Derm Venereol. 2024;104:adv40819.](https://doi.org/10.2340/actadv.v104.40819)
-* [Balach R, et al. Comparative Efficacy and Safety of Intralesional MMR Vaccine and Vitamin D3 in Managing Nongenital Warts: A Systematic Review and Meta-Analysis. J Cosmet Dermatol. 2026;25(1):e70618.](https://doi.org/10.1111/jocd.70618)
-* [Merry SP, et al. Intralesional Injection of Vitamin D3 for Treatment of Cutaneous Warts: A Randomized, Double-Blind, Placebo-Controlled Trial. J Prim Care Community Health. 2025;16:21501319251365853.](https://doi.org/10.1177/21501319251365853)
-* [Intralesional Quadrivalent Human Papilloma Virus Vaccine Versus Candida Antigen in the Treatment of Multiple Recalcitrant Non-Genital Warts. Dermatol Pract Concept. 2024;14(2):e2024066.](https://doi.org/10.5826/dpc.1402a66)
-* [Wang CC, et al. Oral zinc sulphate reduces the recurrence rate and provides significant therapeutic effects for viral warts: A systematic review and meta-analysis of randomized controlled trials. PLOS One. 2025;20(5):e0323051.](https://doi.org/10.1371/journal.pone.0323051)
-* [Intralesional bleomycin versus cryotherapy for the treatment of common warts: a systematic review and meta-analysis of randomized controlled trials. Actas Dermosifiliogr. 2026 Sep 19.](https://pubmed.ncbi.nlm.nih.gov/42762904/)
-
-### 허가·급여 확인 자료
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 듀오케어액, 베루말액, 알다라크림의 국내 허가사항
-* [건강보험심사평가원: Imiquimod 12.5 ㎎ 외용제 급여기준, 고시 제2016-49호](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20160401&mtgMtrRegSno=0007&sno=1)
-* [Verrumal 국외 제품설명서](https://mohpublic.z6.web.core.windows.net/IsraelDrugs/Rishum_19_360082221.pdf) — DPD 결핍·brivudine/sorivudine 관련 추가 안전정보; 국내 허가사항과 구분
-* [FDA: cantharidin 0.7%의 2세 이상 물사마귀 적응증](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-molluscum-contagiosum)
