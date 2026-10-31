@@ -52,7 +52,7 @@
 
 ### <mark style="color:orange;">여성형 탈모(female pattern hair loss)</mark>
 
-* 유전적 소인, 연령, 모낭의 안드로겐 감수성 등 여러 인자가 관여하며 대부분의 여성에서 혈중 안드로겐은 정상이다<mark style="color:$info;">(Society for Endocrinology, 2025)</mark>.
+* 유전적 소인, 연령, 모낭의 안드로겐 감수성 등 여러 인자가 관여하며 대부분의 여성에서 혈중 안드로겐은 정상임<mark style="color:$info;">(Society for Endocrinology, 2025)</mark>.
 * 어느 연령에서도 시작할 수 있으나 연령 증가와 폐경 후 더 흔해짐.
 * 정수리·중앙 가르마 부위가 넓어지고 모발 밀도가 감소함. 전두 모발선은 대개 유지되지만 전두부 강조형 또는 남성형 양상도 가능함.
 * 다모증, 치료 저항성 여드름, 월경 이상, 불임, 급속한 진행 또는 남성화가 동반되면 고안드로겐혈증을 평가함.
@@ -105,7 +105,7 @@
 
 <mark style="color:$warning;">**당일~수일 내 평가**</mark>
 
-* 모공 소실, 두피 위축, 모낭 주위 홍반·인설·통증·작열감·농포·딱지  `활동성 흉터성 탈모 의심`
+* 모공 소실·두피 위축, 또는 지속되는 모낭 주위 홍반·인설·통증·작열감·농포·딱지(모공이 보존되어 있어도 평가)  `활동성 흉터성 탈모 의심`
 * 인설·부러진 모발·림프절병증; 압통성 종창·농포·농성 배출이 동반되는 경우 **(당일)**  `머리백선·kerion 의심`
 * 여성의 급속한 탈모와 다모증·목소리 변화·음핵비대 등 남성화  `안드로겐 분비 종양 감별`
 * 눈썹 소실과 전두·측두 모발선의 띠 모양 후퇴  `전두섬유화탈모 의심`
@@ -134,14 +134,14 @@
 * 전형적인 패턴 탈모는 병력과 진찰로 진단하며 일률적인 혈액검사는 필요하지 않음.
 * 미만성 탈락 또는 관련 병력이 있으면 CBC, ferritin, TSH를 우선 고려함. 철 결핍은 표준 진단 기준과 임상 상황으로 판단하며 탈모만을 위한 임의의 ferritin 목표치를 적용하지 않음.
 * 아연, vitamin D, 간·신장기능, ANA, 매독검사 등은 영양결핍·전신질환·자가면역질환·감염을 시사하는 병력이나 진찰 소견이 있을 때 선택함.
-* 여성에서 고안드로겐혈증이 의심되면 total testosterone 또는 신뢰도 높은 free testosterone 평가와 DHEAS 등을 고려함. DHT 측정은 일상적 평가에 권고되지 않음.
+* 여성에서 고안드로겐혈증이 의심되면 total testosterone과 SHBG를 이용한 유리 testosterone 평가, DHEAS 등을 고려함. 가능하면 신뢰도 높은 검사법을 사용하고 급속한 남성화는 검사 수치와 무관하게 신속히 전문 평가함. DHT 측정은 일상적 평가에 권고되지 않음.
 * 머리백선이 의심되면 KOH 직접검사·배양 또는 분자검사를 고려함.
-* 흉터성 탈모가 의심되면 치료 전 활동성 병변의 경계부에서 피부과적 두피 생검을 고려함.
+* 흉터성 탈모가 의심되면 모낭이 남아 있으면서 홍반·모낭 주위 인설 등이 있는 활동성 경계부에서 trichoscopy로 부위를 정해 두피 생검을 고려함. 완전히 흉터화된 중심부만 채취하면 진단 수율이 낮을 수 있음. 피부과 의뢰와 생검을 신속히 조정하여 진행성 염증의 치료가 불필요하게 지연되지 않도록 함.
 
 ### <mark style="color:orange;">Hair pull test</mark>
 
 * 두피 각 부위에서 약 50\~60가닥을 두피 가까이에서 잡아 모발 방향으로 부드럽게 당김.
-* 전통적으로 약 10% 초과 탈락을 양성으로 보았으나, 표준화 연구에서는 정상 상한을 2가닥 이하로 제시함. 2가닥을 초과하거나 여러 부위에서 뚜렷하게 증가하면 활동성 탈락을 시사하지만 세정 시점·검사 부위·시행 방법에 따라 달라지므로 단독으로 진단하지 않음.
+* 전통적으로 약 10% 초과 탈락을 양성으로 보았으나, 표준화 연구에서는 정상 상한을 2가닥 이하로 제시함. 2가닥을 초과하거나 여러 부위에서 뚜렷하게 증가하면 활동성 탈락을 시사하지만 검사 부위·시행 방법·모발 특성을 함께 고려해야 하므로 단독으로 진단하지 않음.
 * 모발이 뿌리에서 빠지지 않고 끊어지면 모발 줄기 손상, 머리백선 또는 hair-pulling disorder를 고려함.
 
 ### <mark style="color:orange;">Trichoscopy</mark>
@@ -156,35 +156,28 @@
 
 ```mermaid
 graph TD
-    Start(["탈모 호소로 내원"]) ---> Q1["모공 소실·두피 위축 또는 · 모낭 주위 염증·통증으로 흉터성 탈모 의심?"]
-    Q1 --->|"예"| DxScar["흉터성 탈모 의심 · → 활동성 경계부 생검·피부과 의뢰"]
-    Q1 --->|"아니오"| QTinea["인설 + 부러진 모발·black dot, · 림프절병증 또는 kerion?"]
-    QTinea --->|"예"| DxTinea["머리백선 의심 · → KOH/배양·전신 항진균제"]
-    QTinea --->|"아니오"| Q2["분포: 국소·반상 · vs 미만성·패턴형?"]
-
-    Q2 --->|"국소·반상"| Q3["모발/두피 소견은?"]
-    Q3 --->|"원형·경계 명확, · exclamation-mark hair"| DxAA["원형탈모증 의심"]
-    Q3 --->|"길이 다양한 끊어진 모발, · 불규칙한 경계"| DxTTM["Hair-pulling disorder 의심"]
-    Q3 --->|"모발선 후퇴, fringe sign, · 견인력 병력"| DxTA["견인 탈모 의심"]
-
-    Q2 --->|"미만성·패턴형"| Q4["발병 양상과 유발 요인은?"]
-    Q4 --->|"서서히 진행하는 패턴 탈모"| DxPattern["남성형/여성형 탈모 의심"]
-    Q4 --->|"2–3개월 전 유발 사건 + · 급성 미만성"| DxTE["휴지기 탈모 의심"]
-    Q4 --->|"수일–수주 내 급속 탈락 + · 항암제·독성 노출"| DxAE["성장기 탈모 의심"]
-    Q4 --->|"비전형·혼합 또는 유발 사건 없음"| DxOther["미만성 원형탈모증·중복 질환· · 전신 원인 추가 평가"]
-
-    style Start fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style Q1 fill:#fff9c4,stroke:#ffe082
-    style QTinea fill:#fff9c4,stroke:#ffe082
-    style Q2 fill:#fff9c4,stroke:#ffe082
-    style Q3 fill:#fff9c4,stroke:#ffe082
-    style Q4 fill:#fff9c4,stroke:#ffe082
-    style DxPattern fill:#f96,stroke:#e65100,stroke-width:2px
+    Start(["탈모 의심"]) --> QTinea{"인설·부러진 모발·림프절병증 또는 kerion?"}
+    QTinea -->|"예"| DxTinea(["머리백선 평가·전신 항진균제; kerion은 당일 치료"])
+    QTinea -->|"아니오"| Q1{"모공 소실·위축 또는 모낭 주위 염증·통증?"}
+    Q1 -->|"예"| DxScar(["흉터성 탈모 평가; 활동성 경계부 생검·피부과 의뢰"])
+    Q1 -->|"아니오"| Q2{"탈모 분포는?"}
+    Q2 -->|"국소·반상"| Q3{"모발·두피 소견은?"}
+    Q3 -->|"경계 명확·감탄부호모"| DxAA(["원형탈모증 평가"])
+    Q3 -->|"불규칙한 경계·길이 다양한 절단모"| DxTTM(["발모벽 평가"])
+    Q3 -->|"견인 병력·모발선 후퇴·fringe sign"| DxTA(["견인 중단·견인 탈모 평가"])
+    Q3 -->|"비전형·불명확"| DxOther(["미만성 원형탈모증·중복 질환·전신 원인 추가 평가"])
+    Q2 -->|"미만성·패턴형"| Q4{"발병 양상·유발 요인은?"}
+    Q4 -->|"서서히 진행하는 패턴 탈모"| DxPattern(["남성형·여성형 탈모 치료"])
+    Q4 -->|"2~4개월 전 유발 사건·미만성 탈락"| DxTE(["휴지기 탈모 원인 교정·추적"])
+    Q4 -->|"항암제·독성 노출 후 수일~수주"| DxAE(["성장기 탈모·전신 독성 평가"])
+    Q4 -->|"비전형·혼합 또는 원인 불명"| DxOther
+    style Start fill:#eeeeee,stroke:#888888
+    style DxTinea fill:#fff3e0,stroke:#e65100
     style DxScar fill:#ffebee,stroke:#c62828
     style DxAA fill:#e1f5fe,stroke:#01579b
-    style DxTinea fill:#fff3e0,stroke:#e65100
     style DxTTM fill:#f3e5f5,stroke:#4a148c
     style DxTA fill:#e0f2f1,stroke:#00695c
+    style DxPattern fill:#fff3e0,stroke:#e65100
     style DxTE fill:#e8eaf6,stroke:#283593
     style DxAE fill:#fce4ec,stroke:#880e4f
     style DxOther fill:#eceff1,stroke:#455a64
@@ -204,7 +197,14 @@ graph TD
 * 갑상선질환, 철 결핍, 감염·염증 및 영양실조 등 확인된 원인을 치료함.
 * 결핍이 확인되지 않은 철분·아연·비오틴·vitamin D의 일률적 보충은 권고하지 않음.
 * 고용량 biotin은 갑상선기능검사, troponin 등 일부 면역검사 결과를 왜곡할 수 있으므로 복용량과 마지막 복용 시각을 확인함. 5\~10 ㎎/day 복용자는 일반적으로 채혈 전 최소 8시간 중단하고, 고용량 복용·신장애 또는 민감한 검사에서는 검사실 지침에 따라 48\~72시간 이상 중단할 수 있음. 응급 troponin 검사는 중단기간을 기다리지 말고 검사실에 즉시 알림.
-* 열·화학 처리와 반복 견인을 줄이고, 치료 전후 표준 사진으로 반응을 평가함.
+* 처방 시 최신 품목정보/급여기준 조회. 허가 연령·성별·적응증과 실제 임상 근거를 구분하여 설명함.
+
+## <mark style="color:green;">비-약물 치료 및 예방</mark>
+
+* 열·화학 처리와 반복 견인을 줄이고 두피를 부드럽게 관리함. 머리를 감는 횟수를 무조건 줄이는 것으로 탈모를 치료하지 않음.
+* 충분한 열량·단백질을 섭취하고 급격한 체중 감량을 피함. 결핍이나 제한식 여부에 따라 영양 상담을 고려함.
+* 가발·헤어피스·두피 가림 제품 등을 선택할 수 있으며, 두피 자극과 견인을 줄이는 방법을 안내함.
+* 치료 전후 동일 조건의 표준 사진으로 반응을 평가하고, 심리적 부담과 일상생활의 영향을 함께 확인함.
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -223,10 +223,10 @@ graph TD
   * 2%·5% 액: 통상 0.5\~1 mL bid, 총 2 mL/day를 초과하지 않음. 성별 적응증은 제품별 확인
   * 3% 액 여성: 0.5 mL bid, 총 1.3 mL/day를 초과하지 않음
   * **로게인5%폼에어로졸**: 국내 남녀 패턴 탈모에 허가된 제품. 남성 1 g(뚜껑 약 1/2) bid, 최대 2 g/day; 여성 1 g qd, 최대 1 g/day. 여성 5% 액제의 사용 제한과 5% foam의 허가 용법을 혼동하지 않음. <mark style="color:blue;">\[로게인폼]</mark>
-* 초기 2\~8주 사이에 일시적으로 탈락이 증가할 수 있으며 대개 4\~6개월 이후 반응을 평가함. 탈락 증가가 심하거나 2주 넘게 지속되면 제품설명서에 따라 상담·재평가하며, 장기간의 악화를 모두 정상 shedding으로 설명하지 않음.
-* 이상반응: 자극·접촉피부염, 인설, 얼굴의 원치 않는 다모증. 용액의 propylene glycol에 자극이 있으면 적절한 foam 제형을 고려함.
+* 초기 2\~8주 사이에 일시적으로 탈락이 증가할 수 있음. 허가사항에 따라 액제는 최소 4개월, 로게인폼은 남성 2\~4개월·여성 3\~6개월 사용 후 평가하며, 로게인폼은 남성 4개월·여성 6개월에도 효과가 없으면 중단·상담함. 탈락 증가가 심하거나 2주 넘게 지속되면 제품설명서에 따라 상담·재평가하며, 장기간의 악화를 모두 정상 shedding으로 설명하지 않음.
+* 이상반응: 자극·접촉피부염, 인설, 얼굴의 원치 않는 다모증. propylene glycol 등 첨가제에 자극·알레르기가 있으면 해당 첨가제가 없는 용액 또는 foam을 고려함. 모든 액제에 propylene glycol이 들어 있는 것은 아니므로 제품별 첨가제를 확인함. 미녹시딜 자체에 알레르기가 있으면 제형 변경만으로 해결되지 않음.
 * 국내 마이녹실 액제는 18세 미만, 임부·임신 가능 여성·수유부, 심혈관계 질환(고혈압·저혈압 포함), 원인불명·갑작스러운 부분 탈모, 염증성 두피 및 다른 두피용 약물 사용 중인 경우 등이 사용 제외 대상임. 5% 액제는 여성에게 사용하지 않으며, 여성에게 허가된 5% foam과 구분함. 제형별 허가 제한이 다르므로 액제와 foam을 동일하게 일반화하지 않음.
-* 임신·수유 중에는 사용하지 않음. 흉통·심계항진·어지럼·부종이 발생하면 중단하고 평가함. 염증·상처가 있는 두피에 도포하지 않으며, 도포 부위가 마르기 전 다른 사람, 특히 영유아의 피부가 접촉하지 않도록 함.
+* 임신·수유 중에는 사용하지 않음. 흉통·심계항진·어지럼·부종이 발생하면 중단하고 평가함. 염증·상처가 있는 두피에 도포하지 않으며, 특히 영유아가 도포 부위에 접촉하지 않도록 함. 도포 후 손을 씻고 완전히 마르기 전 베개·모자 등에 묻지 않게 함. 알코올 함유 액제·foam은 완전히 마를 때까지 화기·흡연을 피함.
 
 ### <mark style="color:orange;">경구 5α-reductase inhibitor - 성인 남성</mark>
 
@@ -237,35 +237,39 @@ graph TD
 * **dutasteride**: 0.5 ㎎ qd, 식사 무관 <mark style="color:blue;">\[아보다트]</mark>
   * 국내 허가: 만 18\~50세 성인 남성의 남성형 탈모증
   * 5α-reductase type 1·2 억제, 반감기 약 5주. 여러 비교 연구에서 finasteride 1 ㎎보다 높은 효과가 보고되었으나 긴 반감기와 허가 범위를 함께 고려함.
+* 프로페시아는 유당을 함유하므로 갈락토오스 불내성, Lapp 유당분해효소 결핍증, 포도당-갈락토오스 흡수장애 등 허가사항에 명시된 유전적 질환에서는 투여하지 않음.
+* Finasteride 1 ㎎과 5 ㎎ 제제 또는 다른 5α-reductase inhibitor의 중복 투여를 피함. 간장애에서는 신중히 사용하며, dutasteride는 강력한 CYP3A4 억제제의 장기 병용 시 노출량 증가를 고려함.
 * 임신을 계획하는 남성은 특히 dutasteride의 생식능 관련 주의를 설명하고, 불임 평가 중이거나 임신이 지연되면 복용 약물과 계속 투여 필요성을 재평가함.
-* 이상반응: 성욕 감소, 발기·사정 장애, 정액량 감소, 유방 압통·비대. 일부 성기능 증상이 중단 후 지속되었다는 시판 후 보고가 있으며 빈도와 인과관계에는 불확실성이 있음.
-* 투여 전 우울증·자살사고 병력을 확인함. 기분 변화·우울감·자살사고가 나타나면 finasteride 1 ㎎은 중단하고 즉시 진료받도록 안내함. dutasteride에서도 예방적으로 같은 증상을 안내함<mark style="color:$info;">[EMA PRAC 2025](https://www.ema.europa.eu/en/news/measures-minimise-risk-suicidal-thoughts-finasteride-dutasteride-medicines)</mark>.
+* 이상반응: 성욕 감소, 발기·사정 장애, 정액량 감소, 유방 압통·비대. 일부 성기능 증상이 중단 후 지속되었다는 시판 후 보고가 있으며 빈도와 인과관계에는 불확실성이 있음. 프로페시아 허가사항은 성기능 장애가 기분 변화에 영향을 줄 수 있음을 경고하므로, 성기능 이상 발생 시 진료와 기분 상태 평가를 시행하고 치료 중단을 고려함.
+* 투여 전 우울증·자살사고 병력을 확인함. 기분 변화·우울감·자살사고가 나타나면 finasteride 1 ㎎은 중단하고 즉시 진료받도록 안내함. dutasteride에서도 국내 허가사항의 기분 변화·우울증 주의에 따라 같은 증상을 안내함<mark style="color:$info;">[EMA PRAC 2025](https://www.ema.europa.eu/en/news/measures-minimise-risk-suicidal-thoughts-finasteride-dutasteride-medicines)</mark>.
 * PSA가 감소할 수 있으므로 검사 시 복용 사실과 기간을 알림. 모든 탈모 환자에게 투여 전·매년 PSA를 일률적으로 검사하지 않고 연령과 개인 위험도에 따른 통상적 선별 원칙을 적용함. 치료 중 최저치에서 확인된 PSA 상승은 정상범위 안이라도 평가함.
 * 국내 프로페시아는 경고항에서 여성에게 투여하지 않도록 하고, 아보다트는 여성을 투여금기 대상으로 명시함. 임신 가능성만 배제하면 여성에게 일반적으로 처방할 수 있는 약제로 안내하지 않음. 임신 중 또는 임신 가능성이 있는 여성은 부서진 finasteride 정제나 누출된 dutasteride 연질캡슐을 만지지 않음.
 * 수혈받는 임신부를 통한 남성 태아의 외부생식기 발달 이상 위험을 방지하기 위해 복용 중에는 헌혈하지 않음. 마지막 복용 후 헌혈 제한기간은 finasteride 4주, dutasteride 6개월임.
 
 ### <mark style="color:orange;">국소 finasteride - 성인 남성의 허가 치료</mark>
 
-* **finasteride 2.275 ㎎/mL 스프레이** <mark style="color:blue;">\[핀쥬베스프레이]</mark>: 국내 만 18\~41세 성인 남성의 남성형 탈모증에 허가됨.
+* **finasteride 2.275 ㎎/mL 스프레이** <mark style="color:blue;">\[핀쥬베스프레이]</mark>: 국내 만 18\~41세 성인 남성의 경증 내지 중등도 남성형 탈모증에 허가됨.
 * 마른 두피에 qd, 탈모 면적에 따라 **1\~4회 분사(50\~200 μL)**; 하루 최대 4회 분사. 1회 분사량은 50 μL(약 114 μg)이며, 일반적인 minoxidil 액제의 1 mL 도포량을 적용하지 않음.
-* 전용 콘을 두피에 밀착하여 서로 겹치지 않게 분사하고 최소 6시간 씻어내지 않음. 초기 반응은 3\~6개월에 평가함.
+* 전용 콘을 두피에 밀착하여 서로 겹치지 않게 분사하고 최소 6시간 씻어내지 않음. 초기 반응은 3\~6개월에 평가함. 허가사항은 6개월 이상 투여에 대한 임상 경험이 없다고 명시하므로, 지속 치료 시 유효성·안전성과 치료 필요성을 재평가함.
+* 처음 사용하기 전 세면대를 향해 4회 사전 분사하고 세면대를 즉시 세척함. 2주간 사용하지 않았으면 1회 사전 분사함. 한 병은 최대 180회 분사까지 사용하며, 약액이 남아도 정량 분사가 보장되지 않는 180회 초과 사용은 피함. 화기 근처에서 분무하지 않음.
 * 임신부·임신 가능 여성 및 소아는 약액, 도포된 두피 또는 오염된 표면에 접촉하지 않도록 함. 의도치 않게 접촉하면 즉시 씻음.
 * 경구 finasteride/dutasteride 또는 같은 부위의 다른 국소 약제와 병용하지 않음(국내 허가사항상 병용 평가 부족). 국소 minoxidil과의 병용을 경구 finasteride 병용과 동일하게 안내하지 않음.
-* 자극·접촉피부염과 전신 흡수에 따른 이상반응 가능성을 설명함. 국소 제형도 성기능·기분 변화가 생기면 평가하고 국내 제품설명서에 따라 중단·상담함. 다만 EMA 2025 검토에서 자살사고와의 연관성이 확인된 것은 경구 finasteride이며, 피부 스프레이에서는 연관성을 뒷받침하는 근거가 확인되지 않았음. <mark style="color:$info;">[EMA 2025](https://www.ema.europa.eu/en/news/measures-minimise-risk-suicidal-thoughts-finasteride-dutasteride-medicines)</mark>
+* 자극·접촉피부염과 전신 흡수에 따른 이상반응 가능성을 설명함. 간장애에서는 신중히 사용함. 국소 제형도 성기능·기분 변화가 생기면 평가하며, 우울감 등 정신학적 증상은 국내 허가사항에 따라 투여를 중단하고 상담함. 다만 EMA 2025 검토에서 자살사고와의 연관성이 확인된 것은 경구 finasteride이며, 피부 스프레이에서는 연관성을 뒷받침하는 근거가 확인되지 않았음. <mark style="color:$info;">[EMA 2025](https://www.ema.europa.eu/en/news/measures-minimise-risk-suicidal-thoughts-finasteride-dutasteride-medicines)</mark>
 
 ### <mark style="color:orange;">저용량 경구 minoxidil - 선별 환자의 허가 외 치료</mark>
 
 {% hint style="danger" %}
-경구 minoxidil 정제는 국내에서 중증·불응성 고혈압 치료제로 허가되어 있으며 탈모 치료는 **허가 외(off-label)** 사용임. 국소제 사용이 어렵거나 순응도가 낮은 선별 환자에서 불확실한 장기 안전성과 대안을 설명한 후 고려함. 남성 대상 무작위시험에서 5 ㎎/day는 국소 5% bid보다 전체적으로 우월하지 않았음. <mark style="color:$info;">[JAMA Dermatol 2024](https://doi.org/10.1001/jamadermatol.2024.0284)</mark> 2026년 남녀 100명 대상 24주 이중맹검 시험에서도 저용량 경구제(남성 2.5 ㎎/day, 여성 1.25 ㎎/day)와 국소제 사이의 사진평가 개선에 유의한 차이는 없었으나, 동등성·비열등성을 입증하도록 설계된 연구는 아니었음. 경구군에서는 다모증이 더 많았음. <mark style="color:$info;">[J Cosmet Dermatol 2026](https://doi.org/10.1111/jocd.71198)</mark>
+경구 minoxidil 정제는 국내에서 중증·불응성 고혈압 치료제로 허가되어 있으며 탈모 치료는 **허가 외(off-label)** 사용임. 국소제 사용이 어렵거나 순응도가 낮은 선별 환자에서 불확실한 장기 안전성과 대안을 설명한 후 고려함. 남성 대상 무작위시험에서 5 ㎎/day는 국소 5% bid보다 전체적으로 우월하지 않았음. <mark style="color:$info;">[JAMA Dermatol 2024](https://doi.org/10.1001/jamadermatol.2024.0284)</mark> 2026년 남녀 100명을 무작위 배정한 24주 이중맹검 시험에서, 완료자 90명 분석상 저용량 경구제(남성 2.5 ㎎/day, 여성 1.25 ㎎/day)와 국소제(남성 5%·여성 2% 액제 bid) 사이의 사진평가 개선에 유의한 차이는 없었음. 완료자 분석·표본 크기·관찰기간의 한계가 있으며 동등성·비열등성을 입증한 연구는 아님. 경구군에서는 다모증이 더 많았음. <mark style="color:$info;">[J Cosmet Dermatol 2026](https://doi.org/10.1111/jocd.71198)</mark>
 {% endhint %}
 
 * 국제 Delphi 합의에서 가장 흔히 선택된 성인 시작 용량은 여성 1.25 ㎎ qd, 남성 2.5 ㎎ qd였음. 연령·저혈압 위험·병용약물에 따라 이보다 낮게 시작할 수 있으나, 표준화된 증량 간격이나 단일 적정법에는 합의가 없었음<mark style="color:$info;">[JAMA Dermatol 2025](https://doi.org/10.1001/jamadermatol.2024.4593)</mark>.
-* 통상 고려되는 상한 예: 남성 2.5\~5 ㎎/day, 여성 1.5\~2.5 ㎎/day. 탈모 치료의 표준화된 용량·적정법은 아니며 더 낮은 용량으로도 이상반응이 발생할 수 있음.
+* 국제 Delphi 합의에서 제시한 성인 사용 용량범위는 여성 0.625\~5 ㎎/day, 남성 1.25\~5 ㎎/day임. 이는 전문가들의 사용 관행을 모은 범위이며, 허가 용량이나 일차진료에서 일률적으로 증량할 목표·상한을 뜻하지 않음. 여성은 다모증 등 내약성을 고려하여 더 낮은 용량에서 유지할 수 있고, 어느 용량에서도 심혈관 이상반응을 평가함.
 * 투여 전 혈압·맥박, 체중, 부종, 심혈관·신장질환, 임신 가능성 및 병용 혈압약을 확인함. 심장질환·부정맥·저혈압·체액저류 위험이 있으면 피부과/심장내과 협의를 고려함.
-* 임신·수유, 갈색세포종, 심낭질환, 승모판협착에 의한 폐고혈압, 급성 심근경색에서는 피함. 심부전, 중증 신장애, 협심증, 부정맥 또는 부종·체액저류 위험이 있으면 신중히 판단하고 필요 시 관련 전문과와 협의함.
-* 위험요인·주의사항이 없는 무증상 환자에게 기초 ECG나 혈액검사를 일률적으로 요구하지 않음. 심혈관·신장질환이나 병용약물이 있으면 필요한 검사를 선택함. 시작·증량 후 어지럼·심계항진은 초기 수일에, 체액저류·부종은 수주 이내에 확인하며 혈압·맥박·체중 추적을 개별화함.
+* 국내 정제 허가상 갈색세포종, 승모판협착에 의한 폐고혈압, 급성 심근경색 및 성분 과민증은 금기임. 탈모용 저용량 처방에서도 이를 적용함. 국제 Delphi 합의에서는 심낭삼출·압전·심낭염 병력, **울혈성 심부전**, 임신·수유 및 중대한 약물상호작용을 투여 제외 대상으로 제시함. 국내 고혈압 허가사항의 심부전 ‘신중투여’를 근거로 탈모 치료에 쉽게 적용하지 않음. 신장애·투석, 협심증, 빈맥·부정맥, 저혈압 또는 체액저류 위험은 전문과 협의를 포함하여 신중히 평가함.
+* 국제 저용량 탈모 치료 합의에서는 위험요인·주의사항이 없는 무증상 환자에게 기초 ECG나 혈액검사를 일률적으로 요구하지 않음. 이는 고혈압 치료용 국내 정제 허가사항의 초기 검사 권고와 구분하여 해석함. 심혈관·신장질환이나 병용약물이 있으면 필요한 검사를 선택함. 시작·증량 후 어지럼·심계항진은 초기 수일에, 체액저류·부종은 수주 이내에 확인하며 혈압·맥박·체중 추적을 개별화함.
 * 이상반응: 다모증, 어지럼·저혈압, 두통, 빈맥·심계항진, 체액저류·말초부종. 흉통, 호흡곤란, 실신 또는 급격한 체중 증가·부종 시 즉시 중단하고 평가함.
-* 기립성 어지럼이 있으면 취침 전 복용을 고려할 수 있음.
+* 어지럼이 있으면 혈압·병용약물·용량을 재평가하고 필요 시 감량·중단함. 복용 시각 조정만으로 중대한 저혈압을 해결하려 하지 않음.
+* 국소제의 접촉피부염이 미녹시딜 자체에 의한 경우 경구 전환의 안전성은 확립되지 않았으므로 피부과적 평가 없이 전환하지 않음.
 * K·Mg 함유 음료나 전해질 보충을 일률적으로 권고하지 않음. 특히 spironolactone, ACE inhibitor/ARB 또는 신장애가 있으면 고칼륨혈증 위험을 고려함.
 
 ### <mark style="color:orange;">spironolactone - 여성의 허가 외 치료</mark>
@@ -273,10 +277,10 @@ graph TD
 * Androgen receptor 길항 및 항안드로겐 작용이 있으며 여성형 탈모, 특히 고안드로겐 소견이 동반된 경우 고려할 수 있음.
 * 예: 25\~50 ㎎ qd로 시작하여 혈압·내약성을 보며 50\~100 ㎎/day 전후로 증량함. 선별 환자에서 최대 200 ㎎/day까지 연구되었으나 처음부터 100 ㎎ bid로 처방하지 않음. <mark style="color:blue;">\[알닥톤]</mark>
 * 이상반응: 어지럼·저혈압, 피로, 유방 압통, 불규칙 월경, 고칼륨혈증
-* 국내 금기에는 무뇨, 급성 신부전·중증 신기능장애, 중증 간부전, 고칼륨혈증, Addison병, 칼륨보급성 약물 또는 다른 칼륨보존성이뇨제 병용 등이 포함됨. 금기에 해당하면 단순히 K·신기능을 추적하면서 투여하는 것으로 대체하지 않음.
-* 치료 전 혈압·K·신기능을 평가하고, ACE inhibitor/ARB, NSAID, TMP-SMX, 칼륨 함유 소금 대용제 등 고칼륨혈증 위험 요인을 확인함. 경도 신기능 저하·고령·관련 약물 병용 시 시작·증량 후 K·신기능을 추적함. 건강한 젊은 여성의 반복 K 검사는 개별화함.
+* 국내 금기에는 무뇨, 급성 신부전·중증 신기능장애, 중증 간부전, 고칼륨혈증, Addison병, 칼륨보급성 약물·다른 칼륨보존성이뇨제 또는 tacrolimus 병용 등이 포함됨. 금기에 해당하면 단순히 K·신기능을 추적하면서 투여하는 것으로 대체하지 않음.
+* 치료 전 혈압·K·신기능을 평가하고, ACE inhibitor/ARB, NSAID, TMP-SMX, 칼륨 함유 소금 대용제 등 고칼륨혈증 위험 요인을 확인함. 경도 신기능 저하·고령·관련 약물 병용 시 시작·증량 후 K·신기능을 추적함. 건강한 젊은 여성의 반복 K 검사는 개별화함. Lithium·mitotane도 국내 DUR 병용금기 대상이므로 병용을 피함.
 * 국내 허가상 투여 중에는 수유를 피하고 부득이하게 투여하면 수유를 중단함.
-* 임신 중 금기이며 가임 여성에게 효과적인 피임과 임신 계획을 확인함.
+* 탈모 치료 목적으로 임신 중에는 사용하지 않으며, 가임 여성에게 효과적인 피임과 임신 계획을 확인함. 국내 임부 주의문구와 별개로, 탈모 치료에서는 태아에 대한 항안드로겐 위해 가능성을 피함.
 
 ### <mark style="color:orange;">여성의 경구 5α-reductase inhibitor - 국내 투여 제한</mark>
 
@@ -288,6 +292,7 @@ graph TD
 
 * **0.025% 액 3 mL qd**, 도포 후 약 1분 마사지; 호전되면 2\~3일에 1회로 감량 가능 <mark style="color:blue;">\[엘크라넬알파액]</mark>
 * 18세 미만, 임신·임신 가능 여성 및 수유부에는 사용하지 않음. 1년 이상 사용의 안전성·유효성은 확립되지 않아 지속 시 재평가함.
+* 이상반응: 피부불편감, 작열감·홍반·가려움·발진. **폐경 후 출혈과 두통**도 시판 후 보고되었으며 빈도는 알려져 있지 않음. 이러한 증상이 나타나면 사용을 중단하고 진료받도록 함. 폐경 후 출혈을 단순한 약물이상반응으로 단정하지 않고 원인을 평가함.
 * 남녀의 경증 안드로겐탈모증에서 진행 억제를 목적으로 사용할 수 있으나 발모 효과에 대한 근거는 국소 minoxidil보다 제한적임. "minoxidil의 절반 정도 효과"처럼 직접 정량 비교하지 않음.
 
 ### <mark style="color:orange;">ketoconazole shampoo/solution</mark>
@@ -295,27 +300,32 @@ graph TD
 * 지루피부염·비듬이 동반되면 두피 염증과 인설 조절을 위한 보조요법으로 사용할 수 있음. <mark style="color:blue;">\[니조랄]</mark>
 * 안드로겐탈모증 자체에 대한 근거는 제한적이며 표준 단독치료 또는 여성 전용 치료로 간주하지 않음<mark style="color:$info;">[Dermatol Ther 2020](https://doi.org/10.1111/dth.13202)</mark>.
 
-### <mark style="color:orange;">병용 및 기타 치료</mark>
+### <mark style="color:orange;">병용 치료</mark>
 
-<table><thead><tr><th width="180">치료</th><th width="260">임상적 위치</th><th>주요 주의점</th></tr></thead><tbody><tr><td>경구 finasteride + 국소 minoxidil</td><td>남성에서 단독요법보다 추가 효과를 기대할 수 있음</td><td>각 약물의 이상반응과 지속 치료 필요성 설명</td></tr><tr><td>저출력 광선치료(LLLT)</td><td>일부 기기에서 모발 밀도 개선 근거가 있으나 효과 크기와 장기 자료가 제한적</td><td>비용·기기별 근거·지속 사용 부담</td></tr><tr><td>PRP</td><td>일부 연구에서 개선되었으나 제조·주입법이 표준화되지 않음</td><td>비용, 통증, 반복 시술, 근거의 이질성</td></tr><tr><td>모발 이식</td><td>약물로 충분히 안정화된 패턴 탈모에서 미용적 복원</td><td>탈모 진행이 안정되지 않으면 이식하지 않은 주변 모발의 탈락이 계속되어 장기 결과가 제한될 수 있음; 공여부 밀도, 비용·수술 위험 평가</td></tr><tr><td>clascoterone 5% 국소액(Breezula, 개발 중)</td><td>전신 5α-reductase inhibitor와 달리 두피의 androgen receptor를 국소적으로 길항하도록 개발 중</td><td>SCALP 1·2의 6개월 결과 및 12개월 연장자료가 기업 발표로 공개됨. 연장연구는 초기 반응자를 재배정한 자료로 전체 환자의 장기 효과와 동일하게 해석하지 않음. 회사는 2026년 7월 발표에서 미국 허가 신청을 2027년 1분기, 유럽 신청을 2분기로 계획한다고 밝힘. 개발 중인 탈모 치료제이며 임상 처방에 적용하지 않음. 여드름에 허가된 clascoterone 1% cream과 구분함.</td></tr></tbody></table>
+* 남성에서 경구 finasteride와 국소 minoxidil의 병용은 단독요법보다 추가 효과를 기대할 수 있음. 각각의 금기·이상반응과 지속 치료 필요성을 설명함. 핀쥬베스프레이와 국소 minoxidil의 병용에는 이 근거를 그대로 적용하지 않음.
+
+### <mark style="color:orange;">개발 중인 치료</mark>
+
+* **clascoterone 5% 국소액(Breezula, 개발 중)**: 전신 5α-reductase inhibitor와 달리 두피의 androgen receptor를 국소적으로 길항하도록 개발 중. SCALP 1·2의 6개월 결과 및 12개월 연장자료가 기업 발표로 공개됨. 연장연구는 초기 반응자를 재배정한 자료로 전체 환자의 장기 효과와 동일하게 해석하지 않음. 회사는 2026년 7월 발표에서 미국 허가 신청을 2027년 1분기, 유럽 신청을 2분기로 계획한다고 밝힘. 개발 중인 탈모 치료제이며 임상 처방에 적용하지 않음. 여드름에 허가된 clascoterone 1% cream과 구분함. <mark style="color:$info;">[Cosmo, 2026-07-23](https://www.cosmohealthconfidence.com/news/64300770-h1-2026)</mark>
 
 ### <mark style="color:orange;">약용효모(medicinal yeast) 복합제와 맥주효모(brewer's yeast) 보충제</mark>
 
 * **약용효모 복합 일반의약품**: 약용효모(medicinal yeast) 100 ㎎, thiamine nitrate 60 ㎎, calcium pantothenate 60 ㎎, L-cystine 20 ㎎, keratin 20 ㎎, p-aminobenzoic acid(PABA) 20 ㎎ 등을 함유한 제품이 있음. <mark style="color:blue;">\[판시딜]</mark>
-  * 국내 허가 효능은 손상된 모발, 감염성이 아닌 손발톱 발육부진 및 **탈모의 보조치료**임.
+  * 국내 허가 효능은 손상된 모발, 감염성이 아닌 손톱 발육부진 및 **탈모의 보조치료**임.
+  * 판시딜 허가 용법: 성인 1회 1캡슐 tid 식후; 12세 이상 소아 1회 1캡슐, 1일 1\~2회 식후. 평균 치료기간은 3\~6개월이나 3\~4개월 사용해도 호전이 없으면 중단·상담함.
   * 허가사항상 흉터로 인한 탈모, 안드로겐 유전성 탈모증 및 남성형 대머리의 치료 목적으로 사용하지 않음.
 * **맥주효모(brewer's yeast)·영양효모(nutritional yeast) 보충제**: 식품 또는 영양보조제로 판매되며 제품마다 단백질·비타민 B군·미량원소의 종류와 함량이 다름. 의약품의 별도 규격 원료인 약용효모와 동일한 제품으로 간주하지 않음.
 * 약용효모·L-cystine·B-vitamin 복합제를 평가한 일부 소규모 연구에서 성장기 모발 비율이나 주관적 모발 상태의 개선이 보고되었으나, 모발 수·밀도·굵기의 임상적으로 의미 있는 증가와 장기 효과는 확립되지 않았음. 휴지기 탈모의 자연 회복과 구분하기 어렵고 안드로겐탈모증의 진행을 억제한다는 근거도 부족함<mark style="color:$info;">(Drake et al., JAMA Dermatol 2023)</mark>.
 * 확인된 영양결핍을 교정하는 경우를 제외하면 약용효모, 맥주효모, biotin, keratin, L-cystine 또는 복합 영양제를 탈모의 표준 단독치료로 권고하지 않음. 이들 제품이 국소 minoxidil, 5α-reductase inhibitor 또는 원인질환 치료를 대체해서는 안 됨.
 * 여러 탈모 영양제를 병용하면 biotin·아연·selenium·vitamin A 등이 중복될 수 있음. 과도한 vitamin A와 selenium 섭취는 오히려 탈모를 유발하거나 악화시킬 수 있으며, 고용량 biotin은 일부 혈액검사를 왜곡할 수 있음. 판시딜의 현재 표시 성분에는 biotin이 포함되어 있지 않지만 함께 복용하는 다른 제품의 전체 성분과 함량을 확인함.
 * 판시딜은 12세 미만에서 사용하지 않음. 임신·수유 중에는 복용 전 상담하고, PABA 함유 제품은 sulfonamide 제제와의 병용에 주의함.
-* 위통·구토, 발한, 빈맥, 가려움·두드러기, 두통·어지럼·홍조 또는 두피 이외 부위의 발모가 나타나면 중단하고 평가함. 허가 용법대로 3\~4개월 복용해도 개선되지 않으면 계속 복용하기보다 진단과 치료 계획을 재평가함.
+* 위통·구토, 발한, 빈맥, 가려움·두드러기, 두통·어지럼·홍조 또는 두피 이외 부위의 발모가 나타나면 중단하고 평가함. 허가 용법대로 3\~4개월 복용해도 개선되지 않으면 복용을 중단하고 진단과 치료 계획을 재평가함.
 
 ## <mark style="color:green;">기타 탈모 유형별 치료</mark>
 
 ### <mark style="color:orange;">휴지기 탈모</mark>
 
-* 유발 요인을 확인·교정하고 모낭이 보존되어 있음을 설명함.
+* 유발 요인을 확인·교정하고 모낭이 보존되어 있음을 설명함. 급성 휴지기 탈모는 원인이 해소되면 자연 회복하는 경우가 많아 발모제를 일률적으로 시작하지 않음.
 * 원인 약물은 임의로 중단하지 않고 처방 목적과 대체 가능성을 검토함.
 * 철 결핍·갑상선질환·영양실조 등 확인된 원인을 치료함. 결핍이 없는 보충제의 일률적 투여는 권고하지 않음.
 * 6개월 이상 지속되거나 가르마 확장·모발 소형화가 동반되면 여성형/남성형 탈모의 동반을 재평가함.
@@ -340,31 +350,32 @@ graph TD
 * Habit reversal training을 포함한 인지행동치료가 중심이며 동반 불안·우울·강박 증상을 함께 평가함.
 * 진단이 불명확하면 머리백선·원형탈모증·모발 줄기 질환을 감별함.
 
+### <mark style="color:orange;">흉터성 탈모</mark>
+
+* 조기 피부과 평가와 필요 시 생검으로 원인과 활동성을 확인함. 치료 목표는 염증을 억제하고 남아 있는 모낭을 보존하는 것으로, 이미 흉터화된 부위의 발모를 약속하지 않음.
+* **고전적 lichen planopilaris**에 대한 2026년 EADV 입장문은 강력한 국소 또는 병변내 corticosteroid를 초기 치료로 고려하며, 진행성·중등도 이상 또는 국소치료 저항성에서는 전문의가 전신치료를 선택하도록 제시함. 이 원칙을 감염성·호중구성 흉터탈모 전체에 동일하게 적용하지 않음. <mark style="color:$info;">[EADV 2026](https://doi.org/10.1111/jdv.70379)</mark>
+* Minoxidil은 동반된 모낭 소형화의 보조치료가 될 수 있으나 원인별 항염증·항감염 치료를 대신하지 않음.
+
 ### <mark style="color:orange;">머리백선</mark>
 
 ☞ [피부백선증](172_-dermatophytosis-tinea.md#management)
 
 ***
 
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+<table><thead><tr><th width="180">치료</th><th width="260">임상적 위치</th><th>주요 주의점</th></tr></thead><tbody><tr><td>저출력 광선치료(LLLT)</td><td>일부 기기에서 모발 밀도 개선 근거가 있으나 효과 크기와 장기 자료가 제한적</td><td>비용·기기별 근거·지속 사용 부담</td></tr><tr><td>PRP</td><td>일부 연구에서 개선되었으나 제조·주입법이 표준화되지 않음</td><td>비용, 통증, 반복 시술, 근거의 이질성</td></tr><tr><td>모발 이식</td><td>약물로 충분히 안정화된 패턴 탈모에서 미용적 복원</td><td>탈모 진행이 안정되지 않으면 이식하지 않은 주변 모발의 탈락이 계속되어 장기 결과가 제한될 수 있음; 공여부 밀도, 비용·수술 위험 평가</td></tr></tbody></table>
+
+* 활동성 흉터성 탈모에서는 모발 이식보다 염증 억제와 질환 안정화가 우선임. 시술 선택은 정확한 진단, 기대효과·비용 및 장기 유지 필요성을 함께 검토함.
+
 ### <mark style="color:red;">질병코드</mark>
 
-L64 안드로겐탈모증
+<table><thead><tr><th>코드</th><th>KCD-9 한글명</th><th>영문명</th></tr></thead><tbody><tr><td>L64.0</td><td>약물유발 안드로젠탈모증</td><td>Drug-induced androgenic alopecia</td></tr><tr><td>L64.8</td><td>기타 안드로젠탈모증</td><td>Other androgenic alopecia</td></tr><tr><td>L64.9</td><td>상세불명의 안드로젠탈모증</td><td>Androgenic alopecia, unspecified</td></tr><tr><td>L65.0</td><td>휴지기탈모</td><td>Telogen effluvium</td></tr><tr><td>L65.1</td><td>성장기탈모</td><td>Anagen effluvium</td></tr><tr><td>L65.8</td><td>기타 명시된 비흉터성 모발손실</td><td>Other specified nonscarring hair loss</td></tr><tr><td>L65.9</td><td>상세불명의 비흉터성 모발손실</td><td>Nonscarring hair loss, unspecified</td></tr><tr><td>L66.1</td><td>모공성 편평태선</td><td>Lichen planopilaris</td></tr><tr><td>L66.2</td><td>탈모성 모낭염</td><td>Folliculitis decalvans</td></tr><tr><td>L66.3</td><td>농양성 두피모낭주위염</td><td>Perifolliculitis capitis abscedens</td></tr><tr><td>L66.8</td><td>기타 흉터탈모증</td><td>Other cicatricial alopecia</td></tr><tr><td>L66.9</td><td>상세불명의 흉터탈모증</td><td>Cicatricial alopecia, unspecified</td></tr><tr><td>L63.9</td><td>상세불명의 원형 탈모증</td><td>Alopecia areata, unspecified</td></tr><tr><td>B35.0</td><td>수염 및 두피 백선</td><td>Tinea barbae and tinea capitis</td></tr><tr><td>F63.3</td><td>발모벽</td><td>Trichotillomania</td></tr></tbody></table>
 
-L65.0 휴지기 탈모
-
-L65.1 성장기 탈모(anagen effluvium)
-
-L65 기타 비흉터성 모발손실
-
-L66 흉터성 탈모
-
-L63 원형탈모증
-
-B35.0 머리백선
-
-F63.3 발모광(trichotillomania/hair-pulling disorder)
-
-국내 청구 시 최신 질병분류의 세분류와 해당 급여기준을 확인함.
+* L64(안드로젠탈모증), L65(기타 비흉터성 모발손실), L66(흉터탈모증[흉터성 모발손실]), L63(원형 탈모증)은 상위 범주인 **불완전코드**임. 청구 시 진단에 맞는 완전코드를 선택하며 상세불명 코드를 일률적으로 적용하지 않음.
+* 원형탈모증은 전두피형·전신형·뱀모양형 및 기타 원형탈모증의 중증도별 세분류가 있으므로 해당 챕터에서 구체적인 진단과 코드를 확인함. L63.9는 진단이 상세불명인 경우의 예임.
+* B35.0의 정식 명칭은 ‘수염 및 두피 백선’, F63.3은 ‘발모벽’임. 본문의 임상 용어와 분류표의 명칭을 구분함.
+* 저장된 **KCD9_251216(6).xlsx**의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」와 대조함(2026-10-31). 처방 시 최신 품목정보/급여기준 조회.
 
 ***
 
@@ -425,7 +436,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+## <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **탈모 치료는 시간이 걸립니다**
 >
@@ -434,7 +445,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 
 > **finasteride/dutasteride 복용 시 주의**
 >
-> * 성기능 변화, 유방 압통·비대 또는 기분 변화가 생기면 진료받도록 안내합니다. 우울감·자살사고가 나타나면 finasteride 1 ㎎은 즉시 중단하고 진료받도록 합니다.
+> * 성기능 변화, 유방 압통·비대 또는 기분 변화가 생기면 진료받도록 안내합니다. 성기능 이상도 기분 변화와 함께 평가하고 치료 지속 여부를 상의합니다. 우울감·자살사고가 나타나면 finasteride 1 ㎎은 즉시 중단하고 진료받도록 합니다.
 > * PSA 검사를 받을 때는 반드시 복용 사실과 기간을 알리도록 안내합니다.
 > * 임신 중이거나 임신 가능성이 있는 여성은 복용하지 않으며, 부서진 정제나 누출된 캡슐과 접촉하지 않도록 설명합니다.
 > * 복용 중에는 헌혈하지 않습니다. 마지막 복용 후에도 finasteride는 4주, dutasteride는 6개월이 지나야 헌혈할 수 있습니다.
@@ -444,6 +455,11 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 > * 하루 1회, 처방된 1\~4회 분사량을 지키고 최대 4회를 넘기지 않습니다. 바른 뒤 최소 6시간 씻어내지 않습니다.
 > * 임신부·임신 가능 여성과 소아가 약액이나 약이 묻은 두피·표면에 접촉하지 않도록 합니다. 의도치 않게 접촉하면 즉시 씻으십시오.
 > * 먹는 피나스테리드·두타스테리드 또는 같은 부위의 다른 바르는 약을 임의로 함께 사용하지 않습니다.
+> * 첫 사용 전 4회, 2주간 사용하지 않았다면 1회 사전 분사합니다. 한 병은 최대 180회 분사까지만 사용합니다. 기분 변화·우울감이 생기면 중단하고 진료받으십시오.
+
+> **엘크라넬알파액 사용 시 주의**
+>
+> * 두피 자극, 두통 또는 폐경 후 출혈이 생기면 사용을 중단하고 진료받으십시오. 폐경 후 출혈은 원인 평가가 필요합니다.
 
 > **경구 minoxidil·spironolactone 사용 시 주의**
 >
@@ -455,7 +471,35 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 >
 > * 권장 기간(finasteride/dutasteride 6\~12개월, minoxidil 4\~6개월) 치료 후에도 호전이 없는 경우
 > * 위에 기술한 심혈관계·정신과적 이상반응이 나타나는 경우 - 즉시 내원
-> * 여성에서 다모증·목소리 변화 등 남성화 소견이 새로 나타나는 경우 - 즉시 내원
+> * 여성에서 다모증·목소리 변화 등 남성화 소견이 새로 나타나는 경우 - 신속히 진료 일정을 앞당겨 전문 평가
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Seyed Jafari SM, et al. [Management of classic lichen planopilaris: The EADV task force on hair diseases position statement](https://doi.org/10.1111/jdv.70379). *J Eur Acad Dermatol Venereol*. 2026;40:1306-1317.
+* Akiska YM, et al. [Low-Dose Oral Minoxidil Initiation for Patients With Hair Loss: An International Modified Delphi Consensus Statement](https://doi.org/10.1001/jamadermatol.2024.4593). *JAMA Dermatol*. 2025;161:87-95.
+* Penha MA, et al. [Oral Minoxidil vs Topical Minoxidil for Male Androgenetic Alopecia: A Randomized Clinical Trial](https://doi.org/10.1001/jamadermatol.2024.0284). *JAMA Dermatol*. 2024;160:600-605.
+* European Medicines Agency. [Finasteride- and dutasteride-containing medicinal products - referral](https://www.ema.europa.eu/en/medicines/human/referrals/finasteride-dutasteride-containing-medicinal-products). 2025.
+* Society for Endocrinology. [Clinical Practice Guideline for the Evaluation of Androgen Excess in Women](https://pubmed.ncbi.nlm.nih.gov/40364581/). 2025.
+* Ramos PM, et al. [Female-pattern hair loss: therapeutic update](https://doi.org/10.1016/j.abd.2022.09.006). *An Bras Dermatol*. 2023;98:506-519.
+* Fields JR, et al. Topical Ketoconazole for the Treatment of Androgenetic Alopecia: A Systematic Review. *Dermatol Ther*. 2020;33:e13202.
+* ClinicalTrials.gov. Clascoterone 5% solution for male androgenetic alopecia: SCALP 1 (NCT05910450) and SCALP 2 (NCT05914805).
+* Cosmo Pharmaceuticals. [Phase III 12-Month Data for Clascoterone 5% Topical Solution](https://www.cosmohealthconfidence.com/news/98958067-clascoterone-12-month-safety-results-ende). April 15, 2026. 기업 발표자료.
+* Drake L, et al. Evaluation of the Safety and Effectiveness of Nutritional Supplements for Treating Hair Loss: A Systematic Review. *JAMA Dermatol*. 2023;159:79-86.
+* Li D, et al. [AACC Guidance Document on Biotin Interference in Laboratory Tests](https://doi.org/10.1093/jalm/jfz010). *J Appl Lab Med*. 2020;5:575-587.
+* McDonald KA, et al. Hair Pull Test: Evidence-Based Update and Revision of Guidelines. *J Am Acad Dermatol*. 2017;76:472-477.
+* Wikramanayake TC, et al. [Prevention and Treatment of Chemotherapy-Induced Alopecia: What Is Available and What Is Coming?](https://doi.org/10.3390/curroncol30040275) *Curr Oncol*. 2023;30:3609-3626.
+* Chaudhry MAE, et al. [Low-Dose Oral Versus Topical Minoxidil in Androgenetic Alopecia: A Randomized, Double-Blind, Double-Dummy Controlled Trial](https://doi.org/10.1111/jocd.71198). *J Cosmet Dermatol*. 2026;25:e71198.
+* Cosmo N.V. [2026년 상반기 발표: clascoterone 5% 국소액 개발·허가 신청 계획](https://www.cosmohealthconfidence.com/news/64300770-h1-2026). 기업 발표자료; 임상 지침이나 허가 근거와 구분.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) - 국내 적응증·용법·금기 확인. 프로페시아·핀쥬베·엘크라넬알파·판시딜은 사용자 제공 약학정보원 상세페이지의 식약처 출처 허가정보를 추가 대조함(2026-10-31). 확인 경로와 대조 결과는 별도 검증 내역에 명시함.
+* 대한적십자사 혈액관리본부. [헌혈금지 약물 및 예방접종 안내](https://bloodinfo.net/upload/ap/cm/202501_info.pdf). 2025 - finasteride 4주, dutasteride 6개월.
+* 저장된 KCD9_251216(6).xlsx - 상병분류기호(전체), 상병분류기호(완전코드); 2026-10-31 직접 대조.
 
 ***
 
@@ -476,7 +520,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 
 #### <mark style="color:$primary;">일상생활에서 어떻게 관리하나요?</mark>
 
-* **탈모 영양제는 결핍이 있을 때 도움이 됩니다.** 검사를 하지 않고 철분·아연·biotin을 과량으로 복용하지 마십시오. 여러 제품을 함께 복용하면 vitamin A·selenium·아연·biotin 등이 중복되어 오히려 탈모를 악화시키거나 혈액검사 결과를 왜곡할 수 있습니다.
+* **영양결핍이 확인되면 필요한 성분을 보충합니다.** 검사를 하지 않고 철분·아연·biotin을 과량으로 복용하지 마십시오. 여러 제품을 함께 복용하면 vitamin A·selenium·아연·biotin 등이 중복되어 오히려 탈모를 악화시키거나 혈액검사 결과를 왜곡할 수 있습니다.
 * **약용효모(medicinal yeast)·맥주효모(brewer's yeast)·biotin 제품이 모든 탈모에 효과가 있는 것은 아닙니다.** 판시딜 같은 일반의약품도 탈모의 보조치료제이며 남성형·여성형 탈모의 표준치료를 대신할 수 없습니다. 3\~4개월 복용해도 호전되지 않으면 계속 구입하기보다 진단을 다시 확인하십시오.
 * **꽉 묶거나 땋는 머리, 붙임머리와 반복적인 열·화학 처리는 줄이십시오.**
 * **매일 빠지는 모발 수를 세기보다 같은 조명과 가르마로 3\~6개월 간격 사진을 찍으십시오.** 치료 경과를 확인하는 데 더 유용합니다.
@@ -485,6 +529,7 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 
 * **바르는 미녹시딜은 모발이 아니라 탈모 부위의 마른 두피에 직접 닿도록 바르십시오.** 초기 2\~8주 사이에는 일시적으로 더 빠질 수 있으나 대개 4\~6개월 후부터 효과를 판단합니다. 탈락 증가가 심하거나 2주 넘게 지속되면 진료받으십시오.
 * **먹는 약(finasteride, dutasteride 등)은 매일 같은 시간에 꾸준히 복용하십시오.** 중단하면 수개월에 걸쳐 효과가 없어집니다.
+* **엘크라넬알파액 사용 중 폐경 후 출혈이나 두통이 생기면 사용을 중단하고 진료받으십시오.**
 * **효과가 있어도 중단하면 다시 진행될 수 있습니다.** 장기간 유지가 필요한 이유를 의료진과 상의하십시오.
 * **경구 minoxidil과 spironolactone의 탈모 치료는 허가 외 사용입니다.** 임의로 복용하지 말고 담당 의사의 평가와 추적관찰 아래 사용하십시오. spironolactone 복용 중 월경 이상·유방 압통·어지럼이 생길 수 있으며 임신 계획과 피임을 의료진과 상의해야 합니다.
 * **항암화학요법에 따른 탈모가 걱정되면 첫 투여 전에 두피냉각(scalp cooling)이 가능한지 종양내과에 문의하십시오.** 모든 암이나 항암요법에 적합한 것은 아니며 탈모를 완전히 예방하지는 못합니다.
@@ -497,29 +542,3 @@ F63.3 발모광(trichotillomania/hair-pulling disorder)
 * 치료제 복용 중 흉통·급성 호흡곤란·실신이 생기면 즉시 응급 평가를 받으십시오.
 * Finasteride 복용 중 기분 변화나 우울감이 생기면 복용을 중단하고 당일 의료진에게 연락하십시오.
 * 탈모 때문에 심한 우울감·불안 또는 자해·자살 생각이 드는 경우 - 즉시 **자살예방상담전화 [109](tel:+82109?oai_link_source=model_response_hotline)**로 연락하거나 가까운 응급실을 방문하십시오.
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Akiska YM, et al. [Low-Dose Oral Minoxidil Initiation for Patients With Hair Loss: An International Modified Delphi Consensus Statement](https://doi.org/10.1001/jamadermatol.2024.4593). *JAMA Dermatol*. 2025;161:87-95.
-* Penha MA, et al. [Oral Minoxidil vs Topical Minoxidil for Male Androgenetic Alopecia: A Randomized Clinical Trial](https://doi.org/10.1001/jamadermatol.2024.0284). *JAMA Dermatol*. 2024;160:600-605.
-* European Medicines Agency. Measures to minimise risk of suicidal thoughts with finasteride and dutasteride medicines. 2025.
-* Society for Endocrinology. Clinical Practice Guideline for the Evaluation of Androgen Excess in Women. 2025.
-* Ramos PM, et al. [Female-pattern hair loss: therapeutic update](https://doi.org/10.1016/j.abd.2022.09.006). *An Bras Dermatol*. 2023;98:506-519.
-* Fields JR, et al. Topical Ketoconazole for the Treatment of Androgenetic Alopecia: A Systematic Review. *Dermatol Ther*. 2020;33:e13202.
-* ClinicalTrials.gov. Clascoterone 5% solution for male androgenetic alopecia: SCALP 1 (NCT05910450) and SCALP 2 (NCT05914805).
-* Cosmo Pharmaceuticals. [Phase III 12-Month Data for Clascoterone 5% Topical Solution](https://www.cosmohealthconfidence.com/news/98958067-clascoterone-12-month-safety-results-ende). April 15, 2026. 기업 발표자료.
-* Drake L, et al. Evaluation of the Safety and Effectiveness of Nutritional Supplements for Treating Hair Loss: A Systematic Review. *JAMA Dermatol*. 2023;159:79-86.
-* Li D, et al. [AACC Guidance Document on Biotin Interference in Laboratory Tests](https://doi.org/10.1093/jalm/jfz010). *J Appl Lab Med*. 2020;5:575-587.
-* McDonald KA, et al. Hair Pull Test: Evidence-Based Update and Revision of Guidelines. *J Am Acad Dermatol*. 2017;76:472-477.
-* Wikramanayake TC, et al. [Prevention and Treatment of Chemotherapy-Induced Alopecia: What Is Available and What Is Coming?](https://doi.org/10.3390/curroncol30040275) *Curr Oncol*. 2023;30:3609-3626.
-* Chaudhry, et al. [Low-Dose Oral Versus Topical Minoxidil in Androgenetic Alopecia: A Randomized, Double-Blind, Double-Dummy Controlled Trial](https://doi.org/10.1111/jocd.71198). J Cosmet Dermatol. 2026. 온라인 출간.
-* Cosmo N.V. [2026년 상반기 발표: clascoterone 5% 국소액 개발·허가 신청 계획](https://www.cosmohealthconfidence.com/news/64300770-h1-2026). 기업 발표자료; 임상 지침이나 허가 근거와 구분.
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 프로페시아·아보다트·핀쥬베·미녹시딜 액제/foam/경구정·알닥톤·엘크라넬알파·판시딜의 국내 적응증·용법·금기 확인 자료.
-* 대한적십자사 혈액관리본부. 헌혈금지약물 관련 채혈금지기간 — finasteride 4주, dutasteride 6개월.
