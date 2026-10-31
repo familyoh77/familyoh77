@@ -1,4 +1,4 @@
-# 위장 질환의 감별 Differential Diagnosis of Gastrointestinal Disorders
+# 위장 질환의 감별
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -32,38 +32,38 @@ GLP-1 계열 약제, 즉 GLP-1 수용체 작용제(예: semaglutide, liraglutide
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 반발압통, 판자배, 불수의적 복부 근육 경직  `복막염` `위장관 천공`
-* 토혈·혈변·흑색변과 혈역학적 불안정, 실신 또는 의식 변화  `중증 위장관 출혈`
-* 진찰 소견에 비해 매우 심한 갑작스러운 복통, 또는 쇼크를 동반한 복통  `급성 장간막허혈` `대동맥 질환`
-* 심한 복통과 복부 팽만·지속 구토·가스/대변 배출 감소 또는 중단  `장폐색` `교액`
-* 지속적 담즙성 구토 또는 분변성 구토  `기계적 폐색`
-* 침도 삼키지 못하거나 침을 흘리는 급성 음식 매복  `완전 식도 폐색`
-* 감염 의심과 저혈압·의식 변화·호흡곤란·저관류, 또는 원인 불명의 쇼크  `패혈증` `쇼크`
-* 흉부 압박감·식은땀·호흡곤란을 동반한 상복부 불편감·구역  `급성관상동맥증후군`
-* 임신 가능성이 있는 여성의 복통과 실신·쇼크 또는 질출혈  `자궁외임신`
-* 발열·황달·우상복부 통증과 저혈압·의식 변화·장기기능장애  `중증 급성 담관염`
+* 반발압통, 판자배, 불수의적 복부 근육 경직 `복막염` `위장관 천공`
+* 토혈·혈변·흑색변과 혈역학적 불안정, 실신 또는 의식 변화 `중증 위장관 출혈`
+* 진찰 소견에 비해 매우 심한 갑작스러운 복통, 또는 쇼크를 동반한 복통 `급성 장간막허혈` `대동맥 질환`
+* 심한 복통과 복부 팽만·지속 구토·가스/대변 배출 감소 또는 중단 `장폐색` `교액`
+* 지속적 담즙성 구토 또는 분변성 구토 `기계적 폐색`
+* 침도 삼키지 못하거나 침을 흘리는 급성 음식 매복 `완전 식도 폐색`
+* 감염 의심과 저혈압·의식 변화·호흡곤란·저관류, 또는 원인 불명의 쇼크 `패혈증` `쇼크`
+* 흉부 압박감·식은땀·호흡곤란을 동반한 상복부 불편감·구역 `급성관상동맥증후군`
+* 임신 가능성이 있는 여성의 복통과 실신·쇼크 또는 질출혈 `자궁외임신`
+* 발열·황달·우상복부 통증과 저혈압·의식 변화·장기기능장애 `중증 급성 담관염`
 
 <mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* **(당일)** 침은 삼킬 수 있으나 지속되는 급성 음식 매복  `불완전 식도 폐색`
-* **(당일)** 혈역학적으로 안정적이나 새로 발생한 토혈·흑색변, 또는 지속·반복되는 유의한 혈변  `위장관 출혈`
-* **(당일)** 탈수·전해질 이상 또는 경구 섭취 곤란을 동반한 심한 구역·구토  `탈수` `대사 이상`
-* **(당일)** 발열과 황달·우상복부 통증  `급성 담관염`
-* 새로 발생하거나 진행하는 삼킴곤란·삼킴 통증  `식도 협착` `식도암` `호산구성 식도염`
-* 설명되지 않는 체중 감소, 철결핍 또는 철결핍빈혈  `위장관 악성종양` `잠재 출혈` `흡수장애`
-* 무통성 황달 또는 체중 감소를 동반한 새로운 상복부·등 통증  `췌담도 악성종양`
-* 체중 감소·발열·빈혈을 동반한 반복 야간 설사 또는 야간 증상  `염증성 장질환` `분비성 설사`
-* 복부 종괴 촉지  `위장관 종양` `농양`
+* **(당일)** 침은 삼킬 수 있으나 지속되는 급성 음식 매복 `불완전 식도 폐색`
+* **(당일)** 혈역학적으로 안정적이나 새로 발생한 토혈·흑색변, 또는 지속·반복되는 유의한 혈변 `위장관 출혈`
+* **(당일)** 탈수·전해질 이상 또는 경구 섭취 곤란을 동반한 심한 구역·구토 `탈수` `대사 이상`
+* **(당일)** 발열과 황달·우상복부 통증 `급성 담관염`
+* 새로 발생하거나 진행하는 삼킴곤란·삼킴 통증 `식도 협착` `식도암` `호산구성 식도염`
+* 설명되지 않는 체중 감소, 철결핍 또는 철결핍빈혈 `위장관 악성종양` `잠재 출혈` `흡수장애`
+* 무통성 황달 또는 체중 감소를 동반한 새로운 상복부·등 통증 `췌담도 악성종양`
+* 체중 감소·발열·빈혈을 동반한 반복 야간 설사 또는 야간 증상 `염증성 장질환` `분비성 설사`
+* 복부 종괴 촉지 `위장관 종양` `농양`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 40세 이상에서 새로 발생한 소화불량  `위암`
-* 50세 이상에서 새로 발생한 배변 습관 변화  `대장암`
-* 적절한 경험적 치료에도 지속되는 소화불량, 반복 복통 또는 만성 설사  `기질성 질환`
-* _H. pylori_ 제균 실패 또는 제균 여부 미확인  `H. pylori 감염`
+* 40세 이상에서 새로 발생한 소화불량 `위암`
+* 50세 이상에서 새로 발생한 배변 습관 변화 `대장암`
+* 적절한 경험적 치료에도 지속되는 소화불량, 반복 복통 또는 만성 설사 `기질성 질환`
+* _H. pylori_ 제균 실패 또는 제균 여부 미확인 `H. pylori 감염`
 * 조직검사상 위축성 위염·장상피화생
-* 체부 우세 위축성 위염, 또는 원인 불명의 비타민 B12 결핍·철결핍  `자가면역 위염`
-* 위암·대장암 직계가족력이 있는 환자의 새로 발생하거나 지속되는 위장관 증상  `위암` `대장암`
+* 체부 우세 위축성 위염, 또는 원인 불명의 비타민 B12 결핍·철결핍 `자가면역 위염`
+* 위암·대장암 직계가족력이 있는 환자의 새로 발생하거나 지속되는 위장관 증상 `위암` `대장암`
 * 삶의 질 저하가 크거나 초기 치료에 반응하지 않는 DGBI
 
 {% hint style="info" %}
@@ -108,7 +108,7 @@ _<mark style="color:$info;">Ref. ESGE foreign body guideline. Endoscopy. 2016; W
 
 **DGBI**
 
-* 기능성 위장관 질환(FGID)은 현재 **장-뇌 상호작용 장애(disorders of gut-brain interaction, DGBI)**라는 개념으로 분류함
+* 기능성 위장관 질환(FGID)은 현재 \*\*장-뇌 상호작용 장애(disorders of gut-brain interaction, DGBI)\*\*라는 개념으로 분류함
 * 장-뇌 축(gut-brain axis), 내장 과민성, 운동·점막/면역 기능 변화, 장내 미생물 및 중추 감작 등이 병태생리에 관여
 * DGBI는 단일 진단명이 아니라 분류 체계이며, 2026년 Rome V가 발표됨
 
@@ -154,7 +154,7 @@ _<mark style="color:$info;">Ref. Clinical Practice Guidelines for Functional Dys
 
 * 삼킴 시작 곤란·기침·사레·젖은 목소리는 구인두 삼킴곤란과 흡인 가능성을 시사함. 식도 증상은 음식이 내려가다 걸리는 느낌이 전형적이나 환자가 지목하는 위치만으로 병변 위치를 확정하지 않음.
 * 고형식에서 시작하여 진행하는 증상은 협착·종양 등 구조적 병변, 처음부터 고형식·액체 모두의 증상은 운동장애를 시사함. 이 양상만으로 확진하지 않음.
-* 반복 음식 매복·고형식 삼킴곤란, 특히 아토피 병력이 있으면 **호산구성 식도염(EoE)**을 고려함. 육안상 식도가 정상이어도 식도 조직검사가 필요할 수 있으며, 의심 시 식도 2부위 이상에서 6개 이상 생검함.
+* 반복 음식 매복·고형식 삼킴곤란, 특히 아토피 병력이 있으면 \*\*호산구성 식도염(EoE)\*\*을 고려함. 육안상 식도가 정상이어도 식도 조직검사가 필요할 수 있으며, 의심 시 식도 2부위 이상에서 6개 이상 생검함.
 
 _<mark style="color:$info;">Ref. BSG/BSPGHAN eosinophilic oesophagitis guideline. Gut. 2022.</mark>_
 
@@ -162,7 +162,7 @@ _<mark style="color:$info;">Ref. BSG/BSPGHAN eosinophilic oesophagitis guideline
 
 * **4주 이상 지속되는 설사**는 수양성·염증성/혈성·지방성 양상, 체중 변화, 식이·약물, 항생제·입원·여행·수술력을 확인함. 고령자·변비 환자는 분변 매복에 의한 넘침설사도 고려함.
 * 기능성 설사/IBS-D가 의심되는 만성 수양성 설사에서는 분변 calprotectin 또는 lactoferrin으로 IBD 선별을 고려함. CRP·ESR만으로 IBD를 배제하지 않음.
-* Giardia 분변항원 또는 PCR 검사를 고려함. 다중 PCR 위장관 패널을 사용할 때는 Giardia 포함 여부를 확인함. 세균·바이러스 패널과 기생충 패널이 별도로 구성될 수 있음. 다른 기생충 검사는 여행·노출 위험에 따라 선택하고, 항생제·의료기관 노출 후 새로 발생한 설사에서는 _C. difficile_을 고려함.
+* Giardia 분변항원 또는 PCR 검사를 고려함. 다중 PCR 위장관 패널을 사용할 때는 Giardia 포함 여부를 확인함. 세균·바이러스 패널과 기생충 패널이 별도로 구성될 수 있음. 다른 기생충 검사는 여행·노출 위험에 따라 선택하고, 항생제·의료기관 노출 후 새로 발생한 설사에서는 \_C. difficile\_을 고려함.
 * Celiac disease 검사는 **글루텐 섭취 중 tTG-IgA와 total IgA**를 이용함. IgA 결핍 시 IgG 기반 검사로 보완하고, 양성이거나 임상적 의심이 높으면 전문 평가 및 십이지장 생검을 고려함. 검사 전에 임의로 글루텐 제한 식이를 시작하지 않음. 국내 유병률은 매우 낮으므로 검사 전 확률을 고려함.
 * 담즙산 설사(회장 질환·절제, 담낭절제 후 또는 원발성)와 **현미경적 대장염**을 고려함. 후자는 대장내시경 외관이 정상일 수 있어 의심 시 **우측·좌측 대장 생검**이 필요함. 국내에서는 담즙산 설사의 확진 검사(SeHCAT, 혈청 7α-C4)를 일반적으로 이용하기 어려워 담즙산 결합제의 경험적 치료를 고려할 수 있음. 반응만으로 확진하거나 무반응만으로 배제하지 않으며, 용량·복약 순응도·내약성과 다른 원인을 함께 평가함.
 * 혈변·체중 감소·빈혈·저알부민혈증, 지방변·흡수장애, 면역저하 또는 중요한 가족력이 있으면 의심 질환에 따른 평가를 확대함. **AGA 2019의 제한 검사 권고는 경고 징후가 없는 면역정상 성인의 만성 수양성 설사에 대한 것으로, 모든 만성 설사에 동일하게 적용하지 않음**.
@@ -199,7 +199,7 @@ _<mark style="color:$info;">Ref. UEG/ESNM chronic nausea and vomiting guideline.
 #### <mark style="color:$primary;">우리나라 위암 국가검진</mark>
 
 * 국가암검진사업은 **40세 이상** 남녀를 대상으로 **2년** 간격의 위암 검진을 시행하며, 위내시경검사를 우선하고 시행하기 어려운 경우 위장조영검사를 선택적으로 고려함.
-* **개정 국가 위암 검진 권고안(2025; 2026년 발표)**은 **40\~74세 무증상 성인에서 위내시경검사만을 2년 간격의 1차 검진법으로 권고**함. 위장조영검사는 위내시경이 불가능한 특수한 상황에서 고려하며, 일반적인 경우에는 조건부 비권고임.
+* \*\*개정 국가 위암 검진 권고안(2025; 2026년 발표)\*\*은 **40\~74세 무증상 성인에서 위내시경검사만을 2년 간격의 1차 검진법으로 권고**함. 위장조영검사는 위내시경이 불가능한 특수한 상황에서 고려하며, 일반적인 경우에는 조건부 비권고임.
 * **75세 이상**은 건강 상태·기대여명·검진 이득과 위해를 고려하여 개별 결정함. 이 근거 기반 권고안의 연령 범위와 국가검진사업의 행정상 대상 기준은 구분함.
 * 무증상 인구의 검진 주기는 증상 환자의 진단 내시경 시기와 동일한 개념이 아님.
 * 위축성 위염·장상피화생 환자의 추적 간격은 병변 범위, 조직학적 중증도(OLGA/OLGIM), 위암 가족력, _H. pylori_ 상태 및 내시경 질에 따라 개별화함.
@@ -270,21 +270,24 @@ _<mark style="color:$info;">OCULUS 논문의 2026년 5월 4일·18일 정정은 
 **bloating**은 주관적 팽만감, **distention**은 객관적 복부 팽창을 의미함. 두 증상이 반드시 함께 존재하지는 않음. 난치성 복부 팽창에서는 횡격막-복벽 불협응(abdominophrenic dyssynergia, APD)을 고려함. 횡격막 호흡 훈련과 함께 전문기관의 복흉부 근육 재교육 biofeedback을 고려할 수 있으며, 변비·배변협응장애에 대한 골반저 biofeedback과 구분함. 새로 생겨 지속·진행하는 팽만은 복수·복부/골반 종괴·난소 질환 등 비위장관 원인도 평가함.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/074_belching_algorithm_v3.png" alt="트림 의심 환자의 평가와 유형별 관리 알고리듬"><figcaption><p>트림의 진단 및 관리 - AGA 2023 Fig. 4를 근거로 재구성하고 Rome V 및 임상 적용 조건을 보완함.</p></figcaption></figure>
-
 * 위상부 트림은 학습된 행동 양상이며 환자가 의식하지 못한 채 반복할 수 있음. 고의적인 행동으로 단정하지 않음.
 * 유형 감별이 필요하면 24시간 pH-임피던스 검사 ± 고해상도 임피던스 식도내압검사(HRIM)를 고려함. 모든 환자에게 두 검사를 일률적으로 시행하지 않음.
 * GERD 동반 시 PPI/P-CAB 등 적절한 역류 치료를 고려하되, 트림만으로 GERD를 확진하거나 항역류수술을 권고하지 않음. Baclofen은 객관적으로 확인된 GERD 관련 난치 증상에서 전문 평가 후 제한적으로 고려하며, 국내 허가 적응증인 경직 치료에 해당하지 않아 허가 외 사용임.
 * 트림이 나오지 않거나 매우 어렵고 팽만·가슴/목의 꾸르륵 소리·방귀 증가가 있으면 **트림불능증후군**을 고려함. Rome V에서는 일상생활에 지장을 주는 트림 불능/저하가 주 3일 이상이고, 이를 설명할 주요 식도 질환·기능장애가 없어야 함(최소 6개월 전 시작, 최근 3개월간 기준 충족). 이완불능증·수술 후 상태 등 다른 원인을 평가하고 전문기관에 의뢰함. 트림불능증후군은 역행성 윤상인두근 기능장애(retrograde cricopharyngeal dysfunction, R-CPD)로도 불리며, 위식도 가스 역류 시 윤상인두근을 포함한 상부식도괄약근이 적절히 이완하지 못하는 것이 주된 기전임. 윤상인두근 보툴리눔 독소 주사가 주된 전문 치료로 시행됨.
-
-<figure><img src="../.gitbook/assets/074_bloating_algorithm_v2.png" alt="경고 징후를 먼저 평가하는 복부 팽만감 및 복부 팽창 알고리듬"><figcaption><p>복부 팽만감 및 복부 팽창의 평가와 관리 - AGA 2023 Fig. 5를 근거로 재구성하고 검사 조건·최신 관리 근거를 보완함.</p></figcaption></figure>
-
 * 경고 징후를 먼저 평가하며, 변비·음식 불내성이 있어도 기질성 질환을 함께 고려함. 설명되지 않는 체중 감소는 10%라는 수치에 도달해야만 경고 징후가 되는 것이 아님.
 * 원인별 평가·치료 경로는 상호 배타적이지 않음. 필요한 경로를 병행하고, 초기 치료 후에도 증상이 지속·악화하면 다시 평가함.
-* SIBO 호흡검사 기질은 **포도당(glucose) 또는 락툴로오스(lactulose)**임. 유당(lactose) 호흡검사는 유당 흡수장애 평가에 이용하며 SIBO 검사와 구분함. 소장 흡인액 배양은 호흡검사와 별개의 선택적 검사임. 팽만만으로 SIBO를 진단하거나 항생제를 일률적으로 투여하지 않음.
+* SIBO 호흡검사 기질은 \*\*포도당(glucose) 또는 락툴로오스(lactulose)\*\*임. 유당(lactose) 호흡검사는 유당 흡수장애 평가에 이용하며 SIBO 검사와 구분함. 소장 흡인액 배양은 호흡검사와 별개의 선택적 검사임. 팽만만으로 SIBO를 진단하거나 항생제를 일률적으로 투여하지 않음.
 * Celiac disease 평가가 필요하면 글루텐을 제한하기 전에 검사함. NCGS 의심 시 셀리악병·밀 알레르기 등 다른 원인을 먼저 평가하며, 반응에 따라 식이를 개별화함.
 * 단독 팽만에서 영상·내시경·위배출검사·전장 운동검사를 일상적으로 시행하지 않음. 구역·구토 등 위마비가 의심되면 기계적 폐색을 배제하고 표준화된 4시간 고형식 위배출검사를 고려함.
 * 횡격막 호흡·중추 신경조절약물·장-뇌 행동치료는 APD/VH 분기뿐 아니라 다른 원인 치료와 병행할 수 있음. 제한 식이는 가능하면 영양사의 지도하에 단기간 반응을 평가하고 재도입·개별화함.
+
+***
+
+<figure><img src="../.gitbook/assets/074_belching_algorithm_v3.png" alt=""><figcaption><p>트림 및 트림 불능의 평가·관리 - Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 4를 근거로 재구성하고, Rome V(2026) 및 ACG GERD 지침(2022)을 반영함.</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/074_bloating_algorithm_v2.png" alt=""><figcaption><p>복부 팽만감·복부 팽창의 평가와 관리 - Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 5를 근거로 재구성하고, ACG SIBO 지침(2020), Rome V(2026), ESNM/UEG 합의문(2025)을 반영함.</p></figcaption></figure>
 
 _<mark style="color:$info;">APD = abdominophrenic dyssynergia; ARM = anorectal manometry; BET = balloon expulsion test; CBT = 인지행동치료; FODMAP = fermentable oligosaccharides, disaccharides, monosaccharides and polyols; HRIM = high-resolution impedance manometry; NCGS = nonceliac gluten sensitivity; R-CPD = retrograde cricopharyngeal dysfunction; SIBO = small intestinal bacterial overgrowth; TLESR = transient lower esophageal sphincter relaxation; VH = visceral hypersensitivity</mark>_
 
@@ -292,7 +295,7 @@ _<mark style="color:$info;">Ref. Moshiree B, et al. Gastroenterology. 2023;165(3
 
 ### <mark style="color:orange;">AGA 트림 및 복부 팽만 관리 핵심 권고 (2023)</mark>
 
-1. 병력·신체진찰과 impedance-pH 검사는 **위상부 트림(supragastric belching; 공기가 위까지 도달하지 않고 식도로 들어왔다가 배출됨)**과 위 트림(gastric belching)의 감별에 도움이 됨.
+1. 병력·신체진찰과 impedance-pH 검사는 \*\*위상부 트림(supragastric belching; 공기가 위까지 도달하지 않고 식도로 들어왔다가 배출됨)\*\*과 위 트림(gastric belching)의 감별에 도움이 됨.
 2. Supragastric belching에는 인지행동치료, 횡격막 호흡, 언어치료(speech therapy) 등 장-뇌 행동치료를 단독 또는 병합하여 고려함. Central neuromodulator는 별도의 약물 치료 선택지로 고려할 수 있음.
 3. 원발성 복부 팽만/팽창에는 증상 기반 Rome 진단기준을 사용함. **AGA 2023 원문은 당시 Rome IV를 인용**하였음. Rome V에서는 진단명을 기능성 복부 팽만(functional abdominal bloating)으로 변경하였으나, 진단기준에는 반복되는 주관적 팽만 및/또는 눈에 보이는 복부 팽창이 포함됨. 이 증상이 평균 주 1회 이상 나타나는 주증상이어야 하며, IBS·만성 변비·기능성 설사·PDS 기준을 충족하지 않아야 함(최소 6개월 전 시작, 최근 3개월간 기준 충족).
 4. 탄수화물 효소 결핍은 식이 제한 및/또는 호흡 검사로 평가할 수 있음. SIBO 위험이 있는 일부 환자에서는 소장 흡인액 배양 또는 glucose/lactulose 기반 수소 호흡검사를 선택적으로 고려함. 호흡 검사는 위양성·위음성 및 장 통과시간의 영향을 고려하여 해석하며, 팽만만으로 SIBO를 진단하지 않음.
@@ -364,140 +367,108 @@ _<mark style="color:$info;">Ref. Moshiree B, et al. Gastroenterology. 2023;165(3
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-* Drossman DA, et al. Disorders of Gut-Brain Interaction and the Rome V Process. Gastroenterology. 2026;170(6):1083-1098. - Rome V 개정 과정과 DGBI 분류
+*   Drossman DA, et al. Disorders of Gut-Brain Interaction and the Rome V Process. Gastroenterology. 2026;170(6):1083-1098. - Rome V 개정 과정과 DGBI 분류
 
-  [https://doi.org/10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)
+    [https://doi.org/10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)
+*   Rome Foundation. Rome V Criteria. 2026. - DGBI 분류 및 PDS·IBS 등 증상 기반 진단기준
 
-* Rome Foundation. Rome V Criteria. 2026. - DGBI 분류 및 PDS·IBS 등 증상 기반 진단기준
+    [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+*   Oh JH, et al. Clinical Practice Guidelines for Functional Dyspepsia in Korea. J Neurogastroenterol Motil. 2020. - 국내 소화불량 평가 및 40세 이상 내시경 접근
 
-  [https://theromefoundation.org/rome-v-criteria/](https://theromefoundation.org/rome-v-criteria/)
+    [https://pubmed.ncbi.nlm.nih.gov/31917913/](https://pubmed.ncbi.nlm.nih.gov/31917913/)
+*   Mahadeva S, et al. Second Asian Consensus Report on Functional Dyspepsia (2025): Updated Recommendations. J Gastroenterol Hepatol. 2026;41(3):832-853. doi:10.1111/jgh.70222. - 아시아 지역 기능성 소화불량 진단·치료 원칙
 
-* Oh JH, et al. Clinical Practice Guidelines for Functional Dyspepsia in Korea. J Neurogastroenterol Motil. 2020. - 국내 소화불량 평가 및 40세 이상 내시경 접근
+    [https://pubmed.ncbi.nlm.nih.gov/41656163/](https://pubmed.ncbi.nlm.nih.gov/41656163/)
+*   Jung HK, et al. 2020 Seoul Consensus on the Diagnosis and Management of Gastroesophageal Reflux Disease. J Neurogastroenterol Motil. 2021;27(4):453-481. - 국내 GERD 진단과 경험적 PPI/P-CAB 치료
 
-  [https://pubmed.ncbi.nlm.nih.gov/31917913/](https://pubmed.ncbi.nlm.nih.gov/31917913/)
+    [https://doi.org/10.5056/jnm21077](https://doi.org/10.5056/jnm21077)
+*   Moshiree B, et al. AGA Clinical Practice Update on Evaluation and Management of Belching, Abdominal Bloating, and Distention: Expert Review. Gastroenterology. 2023;165(3):791-800.e3. doi:10.1053/j.gastro.2023.04.039. - 트림·복부 팽만·팽창의 평가와 행동·식이·약물 접근
 
-* Mahadeva S, et al. Second Asian Consensus Report on Functional Dyspepsia (2025): Updated Recommendations. J Gastroenterol Hepatol. 2026;41(3):832-853. doi:10.1111/jgh.70222. - 아시아 지역 기능성 소화불량 진단·치료 원칙
+    [https://gastro.org/clinical-guidance/evaluation-and-management-of-belching-abdominal-bloating-and-distention/](https://gastro.org/clinical-guidance/evaluation-and-management-of-belching-abdominal-bloating-and-distention/)
+*   Staller K, et al. AGA Clinical Practice Guideline on Management of Gastroparesis. Gastroenterology. 2025;169(5):828-861. doi:10.1053/j.gastro.2025.08.004. - 위마비 의심 시 4시간 위배출검사
 
-  [https://pubmed.ncbi.nlm.nih.gov/41656163/](https://pubmed.ncbi.nlm.nih.gov/41656163/)
+    [https://pubmed.ncbi.nlm.nih.gov/40976635/](https://pubmed.ncbi.nlm.nih.gov/40976635/)
+*   Smalley W, et al. AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults. Gastroenterology. 2019. - 만성 수양성 설사에서 선별 검사와 감별
 
-* Jung HK, et al. 2020 Seoul Consensus on the Diagnosis and Management of Gastroesophageal Reflux Disease. J Neurogastroenterol Motil. 2021;27(4):453-481. - 국내 GERD 진단과 경험적 PPI/P-CAB 치료
+    [https://pubmed.ncbi.nlm.nih.gov/31302098/](https://pubmed.ncbi.nlm.nih.gov/31302098/)
+*   국립암센터. 국가 위암 검진 권고안(2025). 2026년 개정안 발표. - 위내시경 단독 1차 검진, 2년 간격 및 고령자 개별 판단
 
-  [https://doi.org/10.5056/jnm21077](https://doi.org/10.5056/jnm21077)
+    [https://www.ncc.re.kr/webzine/202608/sub\_01\_view.jsp?tab=tab5](https://www.ncc.re.kr/webzine/202608/sub_01_view.jsp?tab=tab5)
+*   Kang SJ, et al. Clinical Practice Guideline for Gastritis in Korea. J Korean Med Sci. 2023;38(13):e115. doi:10.3346/jkms.2023.38.e115. - 위축성 위염·장상피화생의 평가; 2년 미만 추적 간격에 대한 근거 불충분
 
-* Moshiree B, et al. AGA Clinical Practice Update on Evaluation and Management of Belching, Abdominal Bloating, and Distention: Expert Review. Gastroenterology. 2023;165(3):791-800.e3. doi:10.1053/j.gastro.2023.04.039. - 트림·복부 팽만·팽창의 평가와 행동·식이·약물 접근
+    [https://pubmed.ncbi.nlm.nih.gov/37012690/](https://pubmed.ncbi.nlm.nih.gov/37012690/)
+*   Kindel TL, et al. Multi-society Clinical Practice Guidance for the Safe Use of Glucagon-like Peptide-1 Receptor Agonists in the Perioperative Period. Clin Gastroenterol Hepatol. 2025;23(12):2083-2085. doi:10.1016/j.cgh.2024.10.003. Epub 2024 Oct 29. - 위험 평가, 약제 지속과 24시간 유동식 등 시술 전 관리
 
-  [https://gastro.org/clinical-guidance/evaluation-and-management-of-belching-abdominal-bloating-and-distention/](https://gastro.org/clinical-guidance/evaluation-and-management-of-belching-abdominal-bloating-and-distention/)
+    [https://pubmed.ncbi.nlm.nih.gov/39480373/](https://pubmed.ncbi.nlm.nih.gov/39480373/)
+*   Oprea AD, et al. Perioperative Management of Patients Taking Glucagon-Like Peptide 1 Receptor Agonists: Society for Perioperative Assessment and Quality Improvement (SPAQI) Multidisciplinary Consensus Statement. Br J Anaesth. 2025;135(1):48-78. doi:10.1016/j.bja.2025.04.001. - GLP-1 작용제 사용 환자의 식이·금식 및 시술 전후 관리
 
-* Staller K, et al. AGA Clinical Practice Guideline on Management of Gastroparesis. Gastroenterology. 2025;169(5):828-861. doi:10.1053/j.gastro.2025.08.004. - 위마비 의심 시 4시간 위배출검사
+    [https://pubmed.ncbi.nlm.nih.gov/40379536/](https://pubmed.ncbi.nlm.nih.gov/40379536/)
+*   Oh YE, et al. Effect of Glucagon-Like Peptide-1 Receptor Agonists on Gastric Mucosal Visibility During Upper Endoscopy in Asian Patients With Diabetes. World J Diabetes. 2025;16(12):112694. doi:10.4239/wjd.v16.i12.112694. - 국내 당뇨병 환자에서 위점막 가시성 및 검사 중단·재검사와의 연관성
 
-  [https://pubmed.ncbi.nlm.nih.gov/40976635/](https://pubmed.ncbi.nlm.nih.gov/40976635/)
+    [https://pubmed.ncbi.nlm.nih.gov/41480609/](https://pubmed.ncbi.nlm.nih.gov/41480609/)
+*   Ahmad AI, et al. Holding vs Continuing GLP-1/GIP Agonists Before Upper Endoscopy: The OCULUS Randomized Clinical Trial. JAMA Intern Med. 2026;186(5):578-584. doi:10.1001/jamainternmed.2026.0027. - 용량 1회 보류와 잔류 위 내용물; 흡인 사건에 관한 결론의 한계
 
-* Smalley W, et al. AGA Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults. Gastroenterology. 2019. - 만성 수양성 설사에서 선별 검사와 감별
+    [https://pubmed.ncbi.nlm.nih.gov/41837981/](https://pubmed.ncbi.nlm.nih.gov/41837981/)
+*   Chey WD, et al. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Am J Gastroenterol. 2024. - 제균 확인 시점 및 PPI/P-CAB·항생제·bismuth 중단 간격
 
-  [https://pubmed.ncbi.nlm.nih.gov/31302098/](https://pubmed.ncbi.nlm.nih.gov/31302098/)
+    [https://gi.org/journals-publications/ebgi/schoenfeld\_sep2024/](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)
+*   UEG/ESNM. European Guideline on Chronic Nausea and Vomiting. United European Gastroenterol J. 2025;13:427-471. - 구토·역류·반추 구분 및 운동장애 평가
 
-* 국립암센터. 국가 위암 검진 권고안(2025). 2026년 개정안 발표. - 위내시경 단독 1차 검진, 2년 간격 및 고령자 개별 판단
+    [https://pubmed.ncbi.nlm.nih.gov/39754724/](https://pubmed.ncbi.nlm.nih.gov/39754724/)
+*   Camilleri M, et al. ACG Clinical Guideline: Gastroparesis. Am J Gastroenterol. 2022. - 내시경 잔류 음식만으로 위마비를 확진할 수 없음
 
-  [https://www.ncc.re.kr/webzine/202608/sub_01_view.jsp?tab=tab5](https://www.ncc.re.kr/webzine/202608/sub_01_view.jsp?tab=tab5)
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC9373497/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9373497/)
+*   Miehlke S, et al. European Guidelines on Microscopic Colitis: UEG and EMCG. United European Gastroenterol J. 2021;9:13-37. - 정상 내시경 외관에서도 우측·좌측 대장 생검
 
-* Kang SJ, et al. Clinical Practice Guideline for Gastritis in Korea. J Korean Med Sci. 2023;38(13):e115. doi:10.3346/jkms.2023.38.e115. - 위축성 위염·장상피화생의 평가; 2년 미만 추적 간격에 대한 근거 불충분
+    [https://pubmed.ncbi.nlm.nih.gov/33619914/](https://pubmed.ncbi.nlm.nih.gov/33619914/)
+*   Rubio-Tapia A, et al. ACG Guidelines Update: Diagnosis and Management of Celiac Disease. Am J Gastroenterol. 2023. - 혈청검사·IgA 결핍·생검 평가
 
-  [https://pubmed.ncbi.nlm.nih.gov/37012690/](https://pubmed.ncbi.nlm.nih.gov/37012690/)
+    [https://pubmed.ncbi.nlm.nih.gov/36602836/](https://pubmed.ncbi.nlm.nih.gov/36602836/)
+*   Dhar A, et al. BSG and BSPGHAN Joint Consensus Guidelines on the Diagnosis and Management of Eosinophilic Oesophagitis in Children and Adults. Gut. 2022. - 삼킴곤란·음식 매복에서 정상 육안 소견에도 식도 생검 고려
 
-* Kindel TL, et al. Multi-society Clinical Practice Guidance for the Safe Use of Glucagon-like Peptide-1 Receptor Agonists in the Perioperative Period. Clin Gastroenterol Hepatol. 2025;23(12):2083-2085. doi:10.1016/j.cgh.2024.10.003. Epub 2024 Oct 29. - 위험 평가, 약제 지속과 24시간 유동식 등 시술 전 관리
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC9279848/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9279848/)
+*   Birk M, et al. Removal of Foreign Bodies in the Upper Gastrointestinal Tract in Adults: ESGE Clinical Guideline. Endoscopy. 2016. - 완전 식도 폐색의 응급 내시경과 음식 매복의 처치 시한
 
-  [https://pubmed.ncbi.nlm.nih.gov/39480373/](https://pubmed.ncbi.nlm.nih.gov/39480373/)
+    [https://pubmed.ncbi.nlm.nih.gov/26862844/](https://pubmed.ncbi.nlm.nih.gov/26862844/)
+*   Ko CW, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology. 2020. - 성인 남성·폐경 후 여성의 상부·하부위장관 평가
 
-* Oprea AD, et al. Perioperative Management of Patients Taking Glucagon-Like Peptide 1 Receptor Agonists: Society for Perioperative Assessment and Quality Improvement (SPAQI) Multidisciplinary Consensus Statement. Br J Anaesth. 2025;135(1):48-78. doi:10.1016/j.bja.2025.04.001. - GLP-1 작용제 사용 환자의 식이·금식 및 시술 전후 관리
+    [https://pubmed.ncbi.nlm.nih.gov/32810434/](https://pubmed.ncbi.nlm.nih.gov/32810434/)
+*   Bala M, et al. Acute Mesenteric Ischemia: Updated Guidelines of the World Society of Emergency Surgery. World J Emerg Surg. 2022. - 의심 시 CT 혈관조영술, 정상 lactate의 배제 한계
 
-  [https://pubmed.ncbi.nlm.nih.gov/40379536/](https://pubmed.ncbi.nlm.nih.gov/40379536/)
+    [https://doi.org/10.1186/s13017-022-00443-x](https://doi.org/10.1186/s13017-022-00443-x)
+*   Törnblom H, et al. Gastroduodenal Disorders. Gastroenterology. 2026;170(6):1240-1260. - Rome V PDS·EPS 및 트림불능증후군
 
-* Oh YE, et al. Effect of Glucagon-Like Peptide-1 Receptor Agonists on Gastric Mucosal Visibility During Upper Endoscopy in Asian Patients With Diabetes. World J Diabetes. 2025;16(12):112694. doi:10.4239/wjd.v16.i12.112694. - 국내 당뇨병 환자에서 위점막 가시성 및 검사 중단·재검사와의 연관성
+    [https://doi.org/10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)
+*   Corsetti M, et al. Bowel Disorders. Gastroenterology. 2026;170(6):1261-1282. - Rome V IBS·만성 변비·기능성 복부 팽만
 
-  [https://pubmed.ncbi.nlm.nih.gov/41480609/](https://pubmed.ncbi.nlm.nih.gov/41480609/)
+    [https://doi.org/10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)
+*   Fukudo S, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology. 2026;170(6):1283-1302. - 성인 복부 편두통과 중추매개 통증 장애
 
-* Ahmad AI, et al. Holding vs Continuing GLP-1/GIP Agonists Before Upper Endoscopy: The OCULUS Randomized Clinical Trial. JAMA Intern Med. 2026;186(5):578-584. doi:10.1001/jamainternmed.2026.0027. - 용량 1회 보류와 잔류 위 내용물; 흡인 사건에 관한 결론의 한계
+    [https://doi.org/10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)
+*   Staller K, et al. Epidemiologic, Clinical, and Psychological Characteristics of Individuals With Self-Reported Irritable Bowel Syndrome Based on the Rome V vs Rome IV Criteria. Clin Gastroenterol Hepatol. Published online July 30, 2026. - 영국 자가보고 IBS 성인의 기준별 특성과 추적 안정성
 
-  [https://pubmed.ncbi.nlm.nih.gov/41837981/](https://pubmed.ncbi.nlm.nih.gov/41837981/)
+    [https://doi.org/10.1016/j.cgh.2026.07.022](https://doi.org/10.1016/j.cgh.2026.07.022)
+*   Melchior C, et al. European Consensus on Functional Bloating and Abdominal Distension - An ESNM/UEG Recommendations for Clinical Management. United European Gastroenterol J. 2025;13(9):1613-1651. - APD biofeedback 및 probiotics 근거; 2026년 정정 반영 원문 참조
 
-* Chey WD, et al. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Am J Gastroenterol. 2024. - 제균 확인 시점 및 PPI/P-CAB·항생제·bismuth 중단 간격
+    [https://doi.org/10.1002/ueg2.70098](https://doi.org/10.1002/ueg2.70098)
+*   Leung WK, et al. Asian Pacific Association of Gastroenterology Task Force Recommendations on Surveillance for Helicobacter pylori Associated Gastric Premalignant Conditions. Gut. 2026;75(4):685-704. Epub 2025 Oct 7. - 위험도에 따른 위 전암성 병변 감시
 
-  [https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/](https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/)
+    [https://doi.org/10.1136/gutjnl-2025-335823](https://doi.org/10.1136/gutjnl-2025-335823)
+*   Katz PO, et al. ACG Clinical Guideline: Guidelines for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56. - 트림 환자의 GERD 치료·baclofen·항역류수술 적용 조건
 
-* UEG/ESNM. European Guideline on Chronic Nausea and Vomiting. United European Gastroenterol J. 2025;13:427-471. - 구토·역류·반추 구분 및 운동장애 평가
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/)
+*   Pimentel M, et al. ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth. Am J Gastroenterol. 2020;115(2):165-178. - 포도당·락툴로오스 호흡검사 및 선택적 치료
 
-  [https://pubmed.ncbi.nlm.nih.gov/39754724/](https://pubmed.ncbi.nlm.nih.gov/39754724/)
+    [https://doi.org/10.14309/ajg.0000000000000501](https://doi.org/10.14309/ajg.0000000000000501)
+*   Sadowski DC, et al. Canadian Association of Gastroenterology Clinical Practice Guideline on the Management of Bile Acid Diarrhea. J Can Assoc Gastroenterol. 2020. - 담즙산 결합제 경험적 치료의 한계
 
-* Camilleri M, et al. ACG Clinical Guideline: Gastroparesis. Am J Gastroenterol. 2022. - 내시경 잔류 음식만으로 위마비를 확진할 수 없음
-
-  [https://pmc.ncbi.nlm.nih.gov/articles/PMC9373497/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9373497/)
-
-* Miehlke S, et al. European Guidelines on Microscopic Colitis: UEG and EMCG. United European Gastroenterol J. 2021;9:13-37. - 정상 내시경 외관에서도 우측·좌측 대장 생검
-
-  [https://pubmed.ncbi.nlm.nih.gov/33619914/](https://pubmed.ncbi.nlm.nih.gov/33619914/)
-
-* Rubio-Tapia A, et al. ACG Guidelines Update: Diagnosis and Management of Celiac Disease. Am J Gastroenterol. 2023. - 혈청검사·IgA 결핍·생검 평가
-
-  [https://pubmed.ncbi.nlm.nih.gov/36602836/](https://pubmed.ncbi.nlm.nih.gov/36602836/)
-
-* Dhar A, et al. BSG and BSPGHAN Joint Consensus Guidelines on the Diagnosis and Management of Eosinophilic Oesophagitis in Children and Adults. Gut. 2022. - 삼킴곤란·음식 매복에서 정상 육안 소견에도 식도 생검 고려
-
-  [https://pmc.ncbi.nlm.nih.gov/articles/PMC9279848/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9279848/)
-
-* Birk M, et al. Removal of Foreign Bodies in the Upper Gastrointestinal Tract in Adults: ESGE Clinical Guideline. Endoscopy. 2016. - 완전 식도 폐색의 응급 내시경과 음식 매복의 처치 시한
-
-  [https://pubmed.ncbi.nlm.nih.gov/26862844/](https://pubmed.ncbi.nlm.nih.gov/26862844/)
-
-* Ko CW, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology. 2020. - 성인 남성·폐경 후 여성의 상부·하부위장관 평가
-
-  [https://pubmed.ncbi.nlm.nih.gov/32810434/](https://pubmed.ncbi.nlm.nih.gov/32810434/)
-
-* Bala M, et al. Acute Mesenteric Ischemia: Updated Guidelines of the World Society of Emergency Surgery. World J Emerg Surg. 2022. - 의심 시 CT 혈관조영술, 정상 lactate의 배제 한계
-
-  [https://doi.org/10.1186/s13017-022-00443-x](https://doi.org/10.1186/s13017-022-00443-x)
-
-* Törnblom H, et al. Gastroduodenal Disorders. Gastroenterology. 2026;170(6):1240-1260. - Rome V PDS·EPS 및 트림불능증후군
-
-  [https://doi.org/10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)
-
-* Corsetti M, et al. Bowel Disorders. Gastroenterology. 2026;170(6):1261-1282. - Rome V IBS·만성 변비·기능성 복부 팽만
-
-  [https://doi.org/10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)
-
-* Fukudo S, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology. 2026;170(6):1283-1302. - 성인 복부 편두통과 중추매개 통증 장애
-
-  [https://doi.org/10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)
-
-* Staller K, et al. Epidemiologic, Clinical, and Psychological Characteristics of Individuals With Self-Reported Irritable Bowel Syndrome Based on the Rome V vs Rome IV Criteria. Clin Gastroenterol Hepatol. Published online July 30, 2026. - 영국 자가보고 IBS 성인의 기준별 특성과 추적 안정성
-
-  [https://doi.org/10.1016/j.cgh.2026.07.022](https://doi.org/10.1016/j.cgh.2026.07.022)
-
-* Melchior C, et al. European Consensus on Functional Bloating and Abdominal Distension - An ESNM/UEG Recommendations for Clinical Management. United European Gastroenterol J. 2025;13(9):1613-1651. - APD biofeedback 및 probiotics 근거; 2026년 정정 반영 원문 참조
-
-  [https://doi.org/10.1002/ueg2.70098](https://doi.org/10.1002/ueg2.70098)
-
-* Leung WK, et al. Asian Pacific Association of Gastroenterology Task Force Recommendations on Surveillance for Helicobacter pylori Associated Gastric Premalignant Conditions. Gut. 2026;75(4):685-704. Epub 2025 Oct 7. - 위험도에 따른 위 전암성 병변 감시
-
-  [https://doi.org/10.1136/gutjnl-2025-335823](https://doi.org/10.1136/gutjnl-2025-335823)
-
-* Katz PO, et al. ACG Clinical Guideline: Guidelines for the Diagnosis and Management of Gastroesophageal Reflux Disease. Am J Gastroenterol. 2022;117(1):27-56. - 트림 환자의 GERD 치료·baclofen·항역류수술 적용 조건
-
-  [https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/)
-
-* Pimentel M, et al. ACG Clinical Guideline: Small Intestinal Bacterial Overgrowth. Am J Gastroenterol. 2020;115(2):165-178. - 포도당·락툴로오스 호흡검사 및 선택적 치료
-
-  [https://doi.org/10.14309/ajg.0000000000000501](https://doi.org/10.14309/ajg.0000000000000501)
-
-* Sadowski DC, et al. Canadian Association of Gastroenterology Clinical Practice Guideline on the Management of Bile Acid Diarrhea. J Can Assoc Gastroenterol. 2020. - 담즙산 결합제 경험적 치료의 한계
-
-  [https://pmc.ncbi.nlm.nih.gov/articles/PMC6985689/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6985689/)
+    [https://pmc.ncbi.nlm.nih.gov/articles/PMC6985689/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6985689/)
 
 ### <mark style="color:orange;">허가·급여 확인 자료</mark>
 
-* 건강보험심사평가원. 제9차 한국표준질병·사인분류 관련 상병마스터 반영 안내(2026년 시행). - 국내 상병코드 확인
+*   건강보험심사평가원. 제9차 한국표준질병·사인분류 관련 상병마스터 반영 안내(2026년 시행). - 국내 상병코드 확인
 
-  [https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53037&brdScnBltNo=4&pgmid=HIRAA030069000400](https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53037&brdScnBltNo=4&pgmid=HIRAA030069000400)
-
+    [https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53037\&brdScnBltNo=4\&pgmid=HIRAA030069000400](https://www.hira.or.kr/rc/drug/insuadtcrtr/bbsView.do?brdBltNo=53037\&brdScnBltNo=4\&pgmid=HIRAA030069000400)
 * [식품의약품안전처. 의약품안전나라 - 의약품 품목허가정보.](https://nedrug.mfds.go.kr/index) - 국내 제품별 적응증·용법·금기 및 허가 상태 확인
 
 ***
@@ -529,6 +500,7 @@ _<mark style="color:$info;">Ref. Moshiree B, et al. Gastroenterology. 2023;165(3
 * 이유 없이 체중이 줄거나 빈혈이 있다는 말을 들은 경우
 * 밤에 자다가 설사나 복통 때문에 반복해서 깨는 경우
 * 배에서 덩어리가 만져지는 경우
+
 #### <mark style="color:$primary;">조기에 진료를 예약할 상황</mark>
 
 * 다른 위험 증상이 없더라도 40세 이상에서 소화불량이 새로 생기거나, 50세 이상에서 배변 습관이 새로 바뀐 경우
