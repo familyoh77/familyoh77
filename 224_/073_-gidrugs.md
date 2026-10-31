@@ -77,8 +77,8 @@
 * **고프로락틴혈증 모니터링** : BBB 통과 D2 길항제 장기 투여 시 유즙 분비, 여성형유방증, 생리 불순, 성욕 감소 등의 증상 여부를 확인함. 중추 침투가 적은 domperidone·itopride도 고프로락틴혈증을 일으킬 수 있음
 * **levosulpiride** : 약물 유발 파킨슨증의 흔한 원인 약제. 고령자에서 장기 처방을 피하고, 새로 생긴 떨림·서동·보행 장애에 대하여 이 약제 복용 여부를 확인함 (☞ [파킨슨병](035_-parkinsons-disease.md))
 * **metoclopramide** : 지연운동이상증(tardive dyskinesia)은 드물지만 비가역적일 수 있으며 노출 기간·누적 용량에 따라 위험 증가. 고령 여성·당뇨병·간신장 기능 저하·항정신병약 병용 시 특히 주의. **구역·구토에 대하여 최대 5일 사용** 허가
-  * CrCl ≤60\~＞15  ㎖/min 시 일일 용량을 50% 감량하고, CrCl ≤15 시 통상 용량의 25%를 투여; 중증 간장애는 50% 감량함
-  * 금기 : 1세 미만·파킨슨병·간질·levodopa/도파민 작용제 병용&#x20;
+  * CrCl ≤60\~＞15 ㎖/min 시 일일 용량을 50% 감량하고, CrCl ≤15 시 통상 용량의 25%를 투여; 중증 간장애는 50% 감량함
+  * 금기 : 1세 미만·파킨슨병·간질·levodopa/도파민 작용제 병용
 * **domperidone** : 10 ㎎ tid 식전, 최대 30 ㎎/d이며 일반적으로 1주를 초과하지 않음
   * 금기 : QT 연장·심부전 등 심장 기저질환·전해질 이상·중등도\~중증 간장애·임부
   * 강력한 CYP3A4 억제제 또는 QT 연장 약제와 병용 금기; metoclopramide와 중복 처방 회피
@@ -113,57 +113,81 @@
 
 ## <mark style="color:green;">진경제 (GI antispasmodic agent)</mark>
 
-* 종류
-  * 항콜린제 : 4급 암모늄(hyoscine N-butylbromide, cimetropium)은 중추 침투가 적고, 3급 아민(dicyclomine, hyoscyamine)은 중추 부작용이 있음
-  * 장 선택적 칼슘 통로 차단제 : pinaverium, otilonium
-  * 말초 opioid 수용체 조절제 : trimebutine
-  * 직접 평활근 이완제 : phloroglucinol, tiropramide
-* 항콜린 계열 부작용 : 입마름, 소변 저류, 시야 흐림, 어지럼, 졸림, 녹내장 악화; 3급 아민은 인지 저하·섬망 위험이 추가됨
-* IBS·기능성 복통 : 항콜린 작용이 없는 **trimebutine**, **pinaverium** 등을 우선 고려
-  * **항콜린제**는 단기·필요시 사용을 우선하고 **고령에서 가능한 회피**; 지속 사용 시 효과와 항콜린 부담을 재평가
+* IBS·기능성 복통에서는 항콜린 작용이 없는 trimebutine, pinaverium 등을 우선 고려하고, 항콜린제는 단기·필요시 사용함
 
-### <mark style="color:orange;">약제</mark>
+#### <mark style="color:orange;">항콜린제</mark>
 
-* trimebutine : 100\~200 ㎎ tid 식전; 약한 opioid agonist 효과 <mark style="color:blue;">\[포리부틴]</mark>
-* cimetropium : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
-* phloroglucinol : <mark style="color:blue;">\[후로스판]</mark> 성인 1회 2정, 증상 발현 시 물 한 컵에 녹이거나 설하에서 녹여 복용함. 함량의 무수물·수화물 표시가 다를 수 있어 정수 기준과 제품 함량을 함께 확인함
-* pinaverium : 50 ㎎ tid <mark style="color:blue;">\[디세텔]</mark>; **식사 중 충분한 물과 함께 통째로 삼킴**. 식도 자극·궤양 예방을 위해 씹거나 빨지 않으며, 누운 자세 또는 취침 직전 복용을 피함
-* hyoscine N-butylbromide(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark> (회피 : 고령·BPH·협우각 녹내장)
-* tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
-* dicyclomine : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[스파토민]</mark>. 고령에서 가능한 회피함. 녹내장·BPH에 의한 배뇨장애·장폐색·중증 근무력증·역류성식도염·수유부·6개월 이하 영아 등은 국내 허가상 금기임
-* 주사제/기타 : hyoscine N-butylbromide <mark style="color:blue;">\[부스코판 주]</mark>, atropine <mark style="color:blue;">\[아트로핀 주]</mark>, hyoscyamine, otilonium, peppermint oil
+* 4급 암모늄(hyoscine N-butylbromide, cimetropium)은 중추 침투가 적고, 3급 아민(dicyclomine, hyoscyamine, atropine)은 중추 부작용이 있음
+* 부작용 : 입마름, 소변 저류, 시야 흐림, 어지럼, 졸림, 녹내장 악화; 3급 아민은 인지 저하·섬망 위험이 추가됨
+* 금기(성분별로 다름) : 녹내장, 전립선비대에 의한 배뇨장애, 장폐색·거대결장, 중증 근무력증, 빈맥성 부정맥·중증 심질환; dicyclomine은 역류성식도염·수유부도 금기
+* 고령에서 가능한 회피; 지속 사용 시 효과와 항콜린 부담을 재평가
+* hyoscine N-butylbromide(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark>
+* cimetropium : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>; 주사 1회 5 ㎎ IM/IV <mark style="color:blue;">\[브로퓸주사]</mark>
+* dicyclomine : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[스파토민]</mark>
+* hyoscine N-butylbromide <mark style="color:blue;">\[부스코판주]</mark>
+* atropine <mark style="color:blue;">\[아트로핀주]</mark>
+
+#### <mark style="color:orange;">장 선택적 칼슘 통로 차단제</mark>
+
+* 주의 : 졸음이 생길 수 있어 운전·기계 조작에 주의
+* 금기 : 임부·수유부
+* pinaverium : 50 ㎎ tid 식사 중 충분한 물과 함께 통째로 삼킴 <mark style="color:blue;">\[디세텔]</mark>&#x20;
+  * 식도 자극·궤양 예방을 위해 씹거나 빨지 않으며, 누운 자세 또는 취침 직전 복용을 피함
+
+#### <mark style="color:orange;">말초 opioid 수용체 조절제</mark>
+
+* 말초 μ·κ·δ opioid 수용체에 작용하여 장운동을 양방향으로 조절함(저하 시 항진, 항진 시 억제)
+* 금기 : 과민증 외 특별한 금기 없음
+  * 임부는 치료상 이득이 클 때만 투여하고, 수유부는 투여를 피함
+* trimebutine : 100\~200 ㎎ tid 식전 <mark style="color:blue;">\[포리부틴]</mark>
+
+#### <mark style="color:orange;">직접 평활근 이완제</mark>
+
+* 항콜린 작용이 없음
+* phloroglucinol : 1회 2정, 증상 발현 시 물 한 컵에 녹이거나 설하에서 녹여 복용 <mark style="color:blue;">\[후로스판]</mark>
+  * 과민증 외 특별한 금기 없음
+* tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>(정제/주사제)
+  * 주의 : 항콜린 작용은 없으나 녹내장·전립선비대증에서는 신중 투여
+  * 금기 : 위장관 협착, 거대결장, 허탈 상태, 중증 간부전
 
 ## <mark style="color:green;">항구토제</mark>
 
-* 화학요법·수술 후 구역/구토 : **ondansetron**
-* 멀미·내이 질환 : **dimenhydrinate** 또는 **meclizine**
-* 임신성 구역/구토 : **doxylamine + pyridoxine**
-* 만성 기능성 구역 : 원인 평가 후 저용량 **amitriptyline/nortriptyline** 등 신경조절제를 선택적으로 고려함(허가 외 사용; 위마비의 일차치료와 구분)
+* 화학요법·수술 후 구역/구토 : ondansetron
+* 멀미·내이 질환 : dimenhydrinate 또는 meclizine
+* 임신성 구역/구토 : doxylamine + pyridoxine
+* 만성 기능성 구역 : 원인 평가 후 저용량 amitriptyline/nortriptyline 등 신경조절제를 선택적으로 고려함(허가 외 사용; 위마비의 일차치료와 구분)
 
 ### <mark style="color:orange;">항히스타민제, 1세대</mark>
 
-* 대상 : 멀미, 내이 장애 관련 구역/구토; 항콜린 작용이 있음
-* dimenhydrinate : 50 ㎎ tid\~qid <mark style="color:blue;">\[보나링에이]</mark> (회피 : 고령 - 과진정·섬망 위험)
+* 대상 : 멀미, 내이 장애 관련 구역/구토
+* 항콜린 작용이 있음
+* dimenhydrinate : 50 ㎎ tid\~qid <mark style="color:blue;">\[보나링에이]</mark>&#x20;
+  * 회피 : 고령 - 과진정·섬망 위험
 * hydroxyzine : 진정·항콜린·QT 연장 위험이 있어 일반적인 구역·구토의 표준 약제로 권고하지 않음 <mark style="color:blue;">\[아디팜]</mark>
-* meclizine : 멀미 25\~50 ㎎ 승차 1시간 전, 필요시 24시간마다 반복; 미로염·메니에르증후군 등은 25 ㎎ bid\~tid, **원칙적으로 최대 75 ㎎/d** <mark style="color:blue;">\[염산메클리진]</mark>. 국내 허가상 임부·임신 가능 여성·협우각 녹내장·BPH 등 배뇨장애·12세 이하 소아 금기; 고령에서 항콜린 부작용 주의
-* promethazine : 미유통. 2세 미만은 치명적 호흡억제 위험으로 금기이며, 고령에서는 과진정·항콜린 부작용 때문에 가능한 회피함
+* meclizine : 멀미 25\~50 ㎎ 승차 1시간 전, 필요시 24시간마다 반복; 미로염·메니에르증후군 등은 25 ㎎ bid\~tid, 원칙적으로 최대 75 ㎎/d <mark style="color:blue;">\[염산메클리진]</mark>
+  * 고령에서 항콜린 부작용 주의
+  * 금기 : 임부·임신 가능 여성·협우각 녹내장·BPH 등 배뇨장애·12세 이하 소아
+* promethazine : 미유통
 
 ### <mark style="color:orange;">Serotonin 5-HT3 antagonist</mark>
 
-* 대상 : 화학요법·방사선치료 유발 및 수술 후 구역·구토의 핵심 약제; 원인에 따라 다른 계열과 병용
+* 대상 : 화학요법·방사선치료 유발 및 수술 후 구역·구토의 핵심 약제
+  * 원인에 따라 다른 계열과 병용
 * 부작용 : 두통, 무기력, 변비, 어지럼, QT 연장 (IV 고용량 주의)
-* ondansetron : 적응증별 4\~8 ㎎ 경구 또는 IV <mark style="color:blue;">\[조프란]</mark>; 단회 IV 용량은 16 ㎎을 초과하지 않음(32 ㎎ 단회 IV 요법 철회). 선천성 QT 연장증후군에서 회피하고 투여 전 전해질 이상 교정. 항암치료 관련 IV 투여에서 75세 이상은 최초 용량 최대 8 ㎎, 65세 이상은 희석하여 15분 이상 점적함
-  * 국내 조프란 허가상 **중등도\~중증 간장애는 최대 8 ㎎/d**이며, apomorphine과 병용 금기임(심한 저혈압·의식 소실 위험)
-  * 급성 위장관염 구토 및 IBS-D에는 국내 허가 외 사용이며, 허가된 항암치료·수술 후 구역/구토 용법을 그대로 대입하지 않음 (☞ [급성 설사](083_-acute-diarrhea.md), [만성 설사](084_-chronic-diarrhea.md))
-* granisetron : CINV 경구 2 ㎎ qd 또는 1 ㎎ bid <mark style="color:blue;">\[카이트릴]</mark> (적응증·제형별 허가사항 확인)
+* ondansetron : 4\~8 ㎎ 경구 또는 16 ㎎ 이내 IV; 중등도\~중증 간장애는 최대 8 ㎎/d <mark style="color:blue;">\[조프란]</mark>(정제/주사제)
+  * 항암치료 관련 IV 투여에서 75세 이상은 최초 용량 최대 8 ㎎, 65세 이상은 희석하여 15분 이상 점적함
+  * 선천성 QT 연장증후군에서 회피하고 투여 전 전해질 이상 교정
+  * apomorphine과 병용 금기(심한 저혈압·의식 소실 위험)
+  * 급성 위장관염 구토 및 IBS-D에는 허가 외 사용이며, 허가된 항암치료·수술 후 구역/구토 용법을 그대로 대입하지 않음
+* granisetron : CINV(Chemotherapy-Induced Nausea and Vomiting) 2 ㎎ qd 또는 1 ㎎ bid <mark style="color:blue;">\[카이트릴]</mark>
 * dolasetron : 해외 약제. QT 연장 위험으로 IV CINV 요법은 사용하지 않음
-* palonosetron : CINV 0.25 ㎎ IV 1회 <mark style="color:blue;">\[알록시 주]</mark> (반감기 약 40시간; PONV 용량은 적응증별 허가사항 확인)
+* palonosetron : CINV 0.25 ㎎ IV 1회; PONV(Postoperative Nausea and Vomiting) 용량은 적응증별 허가사항 확인) <mark style="color:blue;">\[알록시 주]</mark>
 
 ### <mark style="color:orange;">NK1 antagonist</mark>
 
-* 대상 : 화학요법 유발 구역/구토의 예방; 항암요법의 구토 유발 위험도에 맞춰 병용함. 고위험 항암요법에서는 **5-HT3 길항제 + NK1 길항제 + dexamethasone + olanzapine**의 4제 예방요법을 권고함. Olanzapine의 항구토 목적 사용은 국내 허가 적응증과 구분함 <mark style="color:$info;">\[MASCC/ESMO 2023]</mark>
+* 대상 : 화학요법 유발 구역/구토의 예방
+* 항암요법의 구토 유발 위험도에 맞춰 병용. 고위험 항암요법에서는 5-HT3 길항제 + NK1 길항제 + dexamethasone + olanzapine의 4제 예방요법을 권고(olanzapine의 항구토 목적 사용은 허가 외 사용임)
 * aprepitant : CINV 예방 시 제1일 125 ㎎, 제2\~3일 80 ㎎ qd <mark style="color:blue;">\[에멘드]</mark> (항암요법의 구토 유발 위험도와 병용요법에 따라 조정)
-  * 병용 경구 dexamethasone 노출이 증가하여 통상 약 50% 감량함(이미 조정된 항암 프로토콜 용량은 다시 반감하지 않음). warfarin 복용자는 투여 시작 후 약 2주간(특히 7\~10일경) INR 확인. 호르몬 피임 효과가 감소하므로 투여 중 및 마지막 투여 후 1개월간 대체·추가 피임
 * fosaprepitant <mark style="color:blue;">\[에멘드 주]</mark>, netupitant/palonosetron 복합제 <mark style="color:blue;">\[아킨지오]</mark>, rolapitant(해외 치료 선택지)
 
 ### <mark style="color:orange;">TCA</mark>
@@ -175,18 +199,19 @@
 
 ### <mark style="color:orange;">Benzodiazepine</mark>
 
-* 대상 : 예기성 항암화학요법 유발 구역·구토 등에서 제한적으로 사용하는 보조요법; 일반적인 불안 동반 구토의 일률적 치료제로 사용하지 않음
-* lorazepam <mark style="color:blue;">\[아티반]</mark> 등은 예기성 구역·구토에서 항암치료 계획에 따라 제한적으로 병용함(항구토 목적은 허가 외 사용). 일반 외래 구토에 diazepam·clonazepam 등의 정규 반복 처방을 일률적으로 적용하지 않음
+* 대상 : 예기성 항암화학요법 유발 구역·구토 등에서 제한적으로 사용하는 보조요법
+  * 일반적인 불안 동반 구토의 일률적 치료제로 사용하지 않음
+* lorazepam <mark style="color:blue;">\[아티반]</mark> 등은 예기성 구역·구토에서 항암치료 계획에 따라 제한적으로 병용(항구토 목적은 허가 외 사용)
+* 일반 외래 구토에 정규 반복 처방을 일률적으로 적용하지 않음
 * 회피 : 고령 - 낙상·진정·의존
 
 ### <mark style="color:orange;">임신성 구역·구토</mark>
 
-* doxylamine/pyridoxine : 각각 10 ㎎ 함유 지연방출 복합제 <mark style="color:blue;">\[디클렉틴]</mark>는 취침 전 2정으로 시작하고, 조절되지 않으면 단계적으로 최대 4정/d(아침 1정·오후 1정·취침 전 2정)까지 증량함. 공복에 통째로 복용하며 필요시에만 복용하는 약이 아님. 다른 함량·방출 제형에 같은 정수 용법을 적용하지 않음. 졸음·항콜린 부작용 및 다른 진정제와의 중복에 주의함
+* doxylamine/pyridoxine : 각각 10 ㎎ 함유 지연방출 복합제 <mark style="color:blue;">\[디클렉틴]</mark>는 취침 전 2정으로 시작하고, 조절되지 않으면 단계적으로 최대 4정/d(아침 1정·오후 1정·취침 전 2정)까지 증량. 공복에 통째로 복용
+  * 졸음·항콜린 부작용 및 다른 진정제와의 중복에 주의함
 * pyridoxine : 10\~25 ㎎ q6\~8h 단독 또는 doxylamine과 병용 <mark style="color:blue;">\[피리독신]</mark>
 * 생강 : 250 ㎎ q6h 또는 총 1 g/d 고려 가능; 출혈 위험 약제 병용·응고장애에서는 주의하고 중증 구토나 장폐쇄 의심 시 원인 평가 우선
-* **Thiamine 보충** : 지속 구토·현저한 경구 섭취 감소 또는 입원이 필요한 임신오조에서는 결핍을 고려하여 보충. 특히 포도당 수액이나 정맥영양 투여 전에 보충하여 Wernicke 뇌병증 예방
-
-_<mark style="color:$info;">Ref. RCOG Green-top Guideline No. 69. 2024.</mark>_
+* Thiamine 보충 : 지속 구토·현저한 경구 섭취 감소 또는 입원이 필요한 임신오조에서는 결핍을 고려하여 보충. 특히 포도당 수액이나 정맥영양 투여 전에 보충하여 Wernicke 뇌병증 예방
 
 {% hint style="info" %}
 **임신 구토의 약물 선택** - doxylamine/pyridoxine은 일차 선택지임. 반응 불충분 시 다른 계열을 고려하며, ondansetron은 임신 구토에 허가 외 이차 선택지로 사용함. 임신 초기 노출 시 구순·구개열의 작은 절대위험 증가 가능성(한 대규모 관찰연구에서 출생 1만 건당 약 11건 → 14건)이 보고되었으나 심장기형 증가가 일관되게 확인된 것은 아님. 조절되지 않는 임신오조의 위험과 비교하여 설명하고 결정함. 국내 meclizine·domperidone 등의 임부 금기를 해외 권고로 대체하지 않음
@@ -194,22 +219,25 @@ _<mark style="color:$info;">Ref. RCOG Green-top Guideline No. 69. 2024.</mark>_
 
 ## <mark style="color:green;">정장제 (Probiotics)</mark>
 
-* 장내 미생물 조절을 목적으로 사용하나 효과는 균주·조합·적응증에 따라 다름
-* **복부 팽만·팽창의 일상적 치료로 권고하지 않음**; 복부 가스 제거제로 일률적으로 처방하지 않음 <mark style="color:$info;">\[AGA 2023]</mark>
-* IBS에서는 지침 간 차이가 있음: AGA 2020은 임상시험 내 사용으로 제한하는 반면, 2025 서울 컨센서스는 매우 낮은 근거로 선택적 사용을 약하게 권고. 시험적으로 사용하면 효과를 평가하고 호전이 없으면 중단; 단순 가스·팽만에 대한 일률적 처방과 구분 <mark style="color:$info;">\[AGA 2020·2023; J Neurogastroenterol Motil 2025]</mark> (☞ [과민대장증후군](087_-irritable-bowel-syndrome.md))
-* AGA 권고
-  * 소아 급성 감염성 위장관염의 일상적 사용을 권고하지 않으며, IBS·크론병·궤양성 대장염·C. difficile 감염 치료는 임상시험 외 사용을 뒷받침할 근거가 불충분
-  * 조산아·저체중 출생아에서 일부 균주가 괴사성 장염·사망을 줄일 가능성이 있으나, 균주에 의한 균혈증·진균혈증과 사망 사례도 보고됨. NICU 전문진료 환경에서 균주·제품 품질·면역저하·중심정맥관 여부를 평가하여 사용
-  * 항생제 복용 중 C. difficile 감염 예방 및 pouchitis 관리에서는 근거가 있는 특정 균주·조합에 한하여 고려 가능; 모든 정장제의 효과로 일반화하지 않음
-* 유산균·비피더스균 : Lacticaseibacillus rhamnosus <mark style="color:blue;">\[람노스]</mark>, Bifidobacterium bifidum 함유 제제, Lactobacillus acidophilus 함유 제제 <mark style="color:blue;">\[안티비오]</mark> 등(효과는 균주·조합별로 판단)
-* Saccharomyces boulardii <mark style="color:blue;">\[비오플]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
-* Bacillus subtilis + Enterococcus faecium 복합 제제 <mark style="color:blue;">\[메디락에스산·메디락에스장용캡슐]</mark>
+* 장내 미생물 조절을 목적으로 사용
+* 효과는 균주·조합·적응증에 따라 다르며, 개인차가 큼
+* 복부 팽만·팽창의 일상적 치료로 권고하지 않음; 복부 가스 제거제로 일률적으로 처방하지 않음 <mark style="color:$info;">\[AGA 2023]</mark>
+* IBS에 대해서는 지침 간 차이가 있음
+  * AGA 2020은 임상시험 내 사용으로 제한하는 반면, 2025 서울 컨센서스는 매우 낮은 근거로 선택적 사용을 약하게 권고. 시험적으로 사용하면 효과를 평가하고 호전이 없으면 중단; 단순 가스·팽만에 대한 일률적 처방과 구분 <mark style="color:$info;">\[AGA 2020·2023; J Neurogastroenterol Motil 2025]</mark>
+* 유산균·비피더스균 : _Lacticaseibacillus rhamnosus_ <mark style="color:blue;">\[람노스]</mark>, _Bifidobacterium bifidum_ 함유 제제, _Lactobacillus acidophilus_ 함유 제제 <mark style="color:blue;">\[안티비오]</mark>&#x20;
+* _Saccharomyces boulardii_ <mark style="color:blue;">\[비오플]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
+* _Bacillus subtilis_ + _Enterococcus faecium_ 복합 제제 <mark style="color:blue;">\[메디락에스산·메디락에스장용캡슐]</mark>
 
-_<mark style="color:$info;">Ref. AGA probiotics guideline. 2020; AGA belching, abdominal bloating and distention update. 2023.</mark>_
+**AGA 권고**
+
+* 소아 급성 감염성 위장관염의 일상적 사용을 권고하지 않음
+* IBS·크론병·궤양성 대장염·_C. difficile_ 감염 치료는 임상시험 외 사용을 뒷받침할 근거가 불충분
+* 조산아·저체중 출생아에서 일부 균주가 괴사성 장염·사망을 줄일 가능성이 있으나, 균주에 의한 균혈증·진균혈증과 사망 사례도 보고됨. NICU 전문진료 환경에서 균주·제품 품질·면역저하·중심정맥관 여부를 평가하여 사용
+* 항생제 복용 중 _C. difficile_ 감염 예방 및 pouchitis 관리에서는 근거가 있는 특정 균주·조합에 한하여 고려 가능; 모든 정장제의 효과로 일반화하지 않음
 
 ## <mark style="color:green;">복부 가스·팽만 관련 약제</mark>
 
-* Probiotics는 복부 팽만·팽창의 일상적 치료로 권고하지 않음 (☞ [정장제](073_-gidrugs.md#probiotics))
+* Probiotics는 복부 팽만·팽창의 일상적 치료로 권고하지 않음
 
 ### <mark style="color:orange;">Galactosidase</mark>
 
@@ -224,68 +252,79 @@ _<mark style="color:$info;">Ref. AGA probiotics guideline. 2020; AGA belching, a
 ### <mark style="color:orange;">비흡수성 항생제</mark>
 
 * 작용 : 장내 세균 활동을 억제하여 탄수화물 발효 감소
-* 대상 : 임상 소견과 위험 인자 또는 검사로 SIBO가 뒷받침되는 환자; 단순 복부 팽만만으로 반복 경험적 투여하지 않음
+* 대상 : 임상 소견과 위험 인자 또는 검사로 SIBO가 뒷받침되는 환자
+  * 단순 복부 팽만만으로 반복 경험적 투여하지 않음
 * 부작용 : 부종, 구역, 어지럼, 가스
-* rifaximin : SIBO에 400 ㎎ tid × 7\~14일 등이 사용되나 허가 외 요법이며 최적 용량·기간은 확립되지 않음 <mark style="color:blue;">\[노르믹스]</mark>
-  * **국내 노르믹스정(200 ㎎/T)** : 고암모니아혈증 치료의 보조요법은 12세 이상에서 400 ㎎ q8h이며, 별도 처방이 없는 한 치료는 7일을 넘지 않도록 허가되어 있음. 간성 뇌증의 재발 예방에 사용하는 해외 550 ㎎ bid 장기요법과 구분함. 열·혈변 동반 설사, 장폐색·중증 궤양성 장질환에서는 금기임
+* rifaximin : SIBO에 400 ㎎ tid × 7\~14일(허가 외 요법); 최적 용량·기간은 확립되지 않음 <mark style="color:blue;">\[노르믹스]</mark>
+  * 고암모니아혈증 치료의 보조요법은 12세 이상에서 400 ㎎ q8h이며, 별도 처방이 없는 한 치료는 7일을 넘지 않도록 함
+  * 열·혈변 동반 설사, 장폐색·중증 궤양성 장질환에서는 금기
 
 ### <mark style="color:orange;">Bismuth와 악취 방귀</mark>
 
-* Bismuth subsalicylate : 악취 방귀 완화는 제한적 자료에 근거한 허가 외 사용으로 일상적으로 권하지 않음. 급성 설사·여행자 설사의 용법과 주의사항은 아래 [Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate) 참조
+* Bismuth subsalicylate : 악취 방귀 완화는 제한적 자료에 근거하며(허가 외 사용), 일상적으로 권하지 않음&#x20;
+  * 급성 설사·여행자 설사의 용법과 주의사항 ☞ 아래 [Bismuth subsalicylate](073_-gidrugs.md#bismuth-subsalicylate) 참조
 
 ## <mark style="color:green;">변비 치료제 (Laxative)</mark>
 
-* **반응 불충분 시** : 약물 유발·내분비/신경계 원인과 분변 매복을 점검하고, 하제를 계속 증량하기 전에 항문직장내압검사·풍선배출검사 등으로 배변장애를 평가함. 배변장애가 확인되면 골반저 바이오피드백을 우선 적용함; 적절한 약물·비약물 치료 후에도 지속되는 경우에 난치성으로 평가함 <mark style="color:$info;">\[AGA 2026]</mark>
+{% hint style="info" %}
+**반응 불충분 시** : 약물 유발·내분비/신경계 원인과 분변 매복을 점검하고, 하제를 계속 증량하기 전에 항문직장내압검사·풍선배출검사 등으로 배변장애를 평가. 배변장애가 확인되면 골반저 바이오피드백을 우선 적용; 적절한 약물·비약물 치료 후에도 지속되는 경우에 난치성으로 평가 <mark style="color:$info;">\[AGA 2026]</mark>
+{% endhint %}
 
 ### <mark style="color:orange;">식이 섬유</mark>
 
-* 소장에서 소화·흡수되지 않은 일부 식이섬유가 대장 미생물에 의해 발효되어 단쇄지방산과 가스를 생성함. 발효성·점성·수분 보유력은 섬유 종류별로 다르며, 모든 식이섬유가 같은 정도로 발효되는 것은 아님
-* 변비 치료의 초기 임상 목표 : 음식과 보충제를 합한 총 식이섬유 20\~30 g/d를 참고하여 기존 섭취량·증상·내약성에 따라 서서히 증량함. 효과와 내약성은 수일\~수주에 걸쳐 평가하며, 이 범위를 일반인의 KDRI 충분섭취량이나 일률적 상한으로 사용하지 않음(☞ [영양/식이 지침](../231_/217_-nutritiondiet-guideline.md))
-* 심한 서행성 변비에서는 효과가 제한적일 수 있으며, 분변 매복·장관 협착/폐쇄에서는 악화 가능
-* 부작용 : 복부 가스, 팽만감, 복통 (특히 대변 저류가 있는 경우)
-* 함유 음식 : 밀기울, 전곡류, 채소, 과일
+* 작용 원리 : 소장에서 소화·흡수되지 않은 일부 식이섬유가 대장 미생물에 의해 발효되어 단쇄지방산과 가스를 생성
+  * 발효성·점성·수분 보유력은 섬유 종류별로 다르며, 모든 식이섬유가 같은 정도로 발효되는 것은 아님; 개인차가 있음
+* 변비 치료의 초기 임상 목표 : 음식과 보충제를 합한 총 식이섬유 20\~30 g/d를 참고하여 기존 섭취량·증상·내약성에 따라 서서히 증량함
+  * 효과와 내약성은 수일\~수주에 걸쳐 평가하며, 이 범위를 일반인의 KDRI 충분섭취량이나 일률적 상한으로 사용하지 않음
+* 심한 서행성 변비에서는 효과가 제한적일 수 있으며, 분변 매복·장관 협착/폐쇄에서는 증상악화 가능
+* 부작용 : 복부 가스, 팽만감, 복통(특히 대변 저류가 있는 경우)
+* 함유 음식 : 밀기울, 전곡류, 채소, 과일 (☞ [영양/식이 지침](../231_/217_-nutritiondiet-guideline.md))
 
 ### <mark style="color:orange;">부피 형성 하제 (Bulk-forming)</mark>
 
 * 함유 성분 : psyllium/ispaghula(차전자피), methylcellulose, karaya, guar gum, wheat dextrin, 해초, 한천
 * 충분한 물과 함께 섭취 필수 : Bulk-forming laxative는 장 내에서 수분을 흡수해 팽창하므로 수분 섭취가 부족하면 오히려 장 내에서 굳어 변비가 악화되거나, 드물게 장폐색을 유발할 수 있음
-* 투여 후 보통 2\~3일 내 반응함. 수용성 섬유 중 psyllium의 효과 근거가 상대적으로 풍부하며, 모든 섬유 제제를 같은 효과로 보지 않음
+* 투여 후 보통 2\~3일 내 반응
+* 수용성 섬유 중 psyllium의 효과 근거가 상대적으로 풍부하며, 모든 섬유 제제가 같은 효과를 보이지 않음; 개인차가 있음
 * 부작용 : 복부 가스, 팽만감, 협착 시 impaction, Ca·Fe 흡수 장애
 
-<table><thead><tr><th width="260">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>psyllium(차전자피)</td><td>제제별 함량에 따라 충분한 물과 함께 복용함; 연하장애·장폐색 또는 협착이 있으면 피함</td></tr><tr><td>agiocur pregranules <mark style="color:blue;">[아기오]</mark></td><td>6 g/P, 1~2P qd 저녁 식후. 씹지 말고 물 1~2컵과 함께 복용하며 취침 직전·누운 상태에서는 복용하지 않음</td></tr><tr><td>calcium polycarbophil <mark style="color:blue;">[웰콘]</mark></td><td>2T (625 ㎎/T) qd~qid; 최소 250 ㎖의 물과 함께 복용, 최대 5 g/d. 취침 직전 복용을 피하고 복용 후 최소 1시간 뒤 취침. 고칼슘혈증·신결석·중증 신부전(투석 환자 제외) 금기; 투석 환자는 신중 투여. 칼슘제·활성형 비타민 D·digoxin 병용 주의</td></tr><tr><td>methylcellulose (복합제)</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th width="213">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>psyllium</strong>(차전자피) <br><mark style="color:blue;">[무타실산]</mark></td><td>제제별 함량에 따라 충분한 물과 함께 복용함 •연하장애·장폐색 또는 협착이 있으면 피함</td></tr><tr><td><strong>agiocur pregranules</strong> <br><mark style="color:blue;">[아기오과립]</mark></td><td>6 g/P, 1~2P qd 저녁 식후. 씹지 말고 물 1~2컵과 함께 복용하며 취침 직전·누운 상태에서는 복용하지 않음</td></tr><tr><td><strong>calcium polycarbophil</strong> <br><mark style="color:blue;">[웰콘정]</mark></td><td>2T (625 ㎎/T) qd~qid; 최소 250 ㎖의 물과 함께 복용, 최대 5 g/d. 취침 직전 복용을 피하고 복용 후 최소 1시간 뒤 취침 •금기: 고칼슘혈증·신결석·중증 신부전(투석 환자 제외) •투석 환자는 신중 투여; 칼슘제·활성형 비타민 D·digoxin 병용 주의</td></tr><tr><td><strong>methylcellulose</strong> (복합제)</td><td>-</td></tr></tbody></table>
 
 ### <mark style="color:orange;">삼투성 하제 (Hyperosmotics)</mark>
 
 * 종류 : magnesium oxide(MgO), magnesium hydroxide\[Mg(OH)₂], 비흡수성 당류(lactulose, lactitol, sorbitol), glycerol, PEG
-  * PEG는 효과·내약성이 양호하고 AGA-ACG 2023 지침에서 강하게 권고함; 국내에서는 MgO·수산화마그네슘도 사용되나 성분·용량을 구분
+* PEG는 효과·내약성이 양호하고 AGA-ACG 2023 지침에서 강하게 권고함; 국내에서는 MgO·수산화마그네슘도 사용되나 성분·용량을 구분
 * 약제별로 효과 발현이 다르며 PEG는 보통 1\~4일 내 반응; 장기 투여 가능
-* 주의 : 국내 마그밀·마그밀에스는 품목 허가상 신장애 환자에게 금기. 중증 CKD·고령·장운동 저하에서 고마그네슘혈증 위험이 특히 높음. 고령에서 장기 사용 시 신기능과 혈청 Mg를 확인하되, 이 모니터링을 신장애에서의 사용 허용으로 해석하지 않음
+* 주의 : <mark style="color:blue;">마그밀·마그밀에스</mark>는 신장애 환자에게 금기. 중증 CKD·고령·장운동 저하에서 고마그네슘혈증 위험이 특히 높음. 고령에서 장기 사용 시 신기능과 혈청 Mg를 확인하되, 이 모니터링을 신장애에서의 사용 허용으로 해석하지 않음
 * 부작용 : 구역, 복부 팽만, 가스, 설사
 
-<table><thead><tr><th width="340">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>Magnesium oxide(MgO) <mark style="color:blue;">[마그밀에스]</mark></td><td>250 ㎎/T; 500~1,000 ㎎/d 등 저용량으로 시작하여 반응에 따라 조절</td></tr><tr><td>Magnesium hydroxide[Mg(OH)₂] <mark style="color:blue;">[마그밀]</mark></td><td>500 ㎎/T; 저용량부터 반응에 따라 조절. MgO와 동일 중량으로 환산하지 않음</td></tr><tr><td>lactulose <mark style="color:blue;">[듀파락-이지]</mark></td><td>15 ㎖/P 1~2P qd; 식사와 무관하게 일정한 시간에 복용, 반응에 따라 조절</td></tr><tr><td>lactitol <mark style="color:blue;">[포탈락]</mark></td><td>초기 20 g qd, 반응에 따라 보통 10 g qd로 감량; 아침 또는 저녁 식사와 함께 복용. 포당 함량을 확인하여 g 단위로 처방함</td></tr><tr><td>PEG (polyethylene glycol) 3350 <mark style="color:blue;">[마이락스]</mark> (비급여)</td><td>17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용. 식사와 무관; 보통 1~4일 내 효과</td></tr></tbody></table>
+<table><thead><tr><th width="267">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>magnesium oxide(<strong>MgO</strong>) <br><mark style="color:blue;">[마그밀에스]</mark></td><td>250 ㎎/T; 500~1,000 ㎎/d 등 저용량으로 시작하여 반응에 따라 조절</td></tr><tr><td><strong>Ma hydroxide</strong>[Mg(OH)₂] <br><mark style="color:blue;">[마그밀]</mark></td><td>500 ㎎/T; 저용량부터 반응에 따라 조절. MgO와 동일 중량으로 환산하지 않음</td></tr><tr><td><strong>lactulose</strong> <br><mark style="color:blue;">[듀파락-이지]</mark></td><td>15 ㎖/P 1~2P qd; 식사와 무관하게 일정한 시간에 복용, 반응에 따라 조절</td></tr><tr><td><strong>lactitol</strong> <br><mark style="color:blue;">[포탈락]</mark></td><td>초기 20 g qd, 반응에 따라 보통 10 g qd로 감량; 아침 또는 저녁 식사와 함께 복용. 포당 함량을 확인하여 g 단위로 처방함</td></tr><tr><td><p><strong>PEG</strong> (polyethylene glycol) 3350 </p><p><mark style="color:blue;">[마이락스]</mark> (비급여)</p></td><td>17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용. 식사와 무관; 보통 1~4일 내 효과</td></tr></tbody></table>
 
-* glycerin <mark style="color:blue;">\[그린 관장약]</mark> : 직장용 삼투성 하제임. 관장액은 제품 농도·용량을 구분하며, 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
+* **glycerin** <mark style="color:blue;">\[그린 관장약]</mark> : 직장용 삼투성 하제임. 관장액은 제품 농도·용량을 구분하며, 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
 
 ### <mark style="color:orange;">자극성 하제 (Stimulant)</mark>
 
 * 작용 : 장 속으로의 수분 분비 및 장 운동 자극
 * 종류 : anthraquinone계(senna, cascara), polyphenol계(Na picosulfate), 기타
-  * _castor oil - 현재 거의 폐기됨_
-  * _phenolphthalein - 발암 가능성으로 FDA OTC 퇴출(1999); 현재 사용되지 않음_
-* 대상 : 다른 하제에 반응이 불충분할 때 **단기 또는 구제요법**으로 사용; senna는 조건부로 지속 사용 가능하나 장기 자료는 제한적
+  * castor oil - 현재 거의 폐기됨
+  * phenolphthalein - 발암 가능성으로 FDA OTC 퇴출(1999); 현재 사용되지 않음
+* 대상 : 다른 하제에 반응이 불충분할 때 단기 또는 구제요법으로 사용
+* senna는 조건부로 지속 사용 가능하나 장기 자료는 제한적
 * 경구 투여 6\~12시간 후 반응; 직장 투여 15\~60분 후 반응
-* 부작용 : 복통, 구역, 설사 및 과량 사용 시 전해질 불균형. 치료 용량에서 대장 기능이 영구적으로 손상된다는 근거는 불충분함 (금기 : 장폐쇄. 임신 중 사용은 성분·품목별 허가사항을 따르며, senna 복합제는 국내 품목상 임부 금기가 있음)
-* [<mark style="color:$info;">AGA-ACG 2023 만성 특발성 변비 지침</mark>](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/) : PEG는 만성 사용에 강한 권고; bisacodyl·Na picosulfate는 단기 또는 구제요법에 강한 권고; senna는 조건부 권고
+* 부작용 : 복통, 구역, 설사 및 과량 사용 시 전해질 불균형
+  * 치료 용량에서 대장 기능이 영구적으로 손상된다는 근거는 불충분함&#x20;
+* 금기 : 장폐쇄; 임신 중 사용은 성분·품목별 허가사항을 따르며, senna 복합제는 임부 금기가 있음
+* [<mark style="color:$info;">AGA-ACG 2023 만성 특발성 변비 지침</mark>](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/) : PEG는 만성 사용에 강한 권고. bisacodyl, Na picosulfate는 단기 또는 구제요법에 강한 권고. senna는 조건부 권고
 
-<table><thead><tr><th width="260">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>bisacodyl <mark style="color:blue;">[비사코딜]</mark> (비급여)</td><td>5~10 ㎎ qd, 보통 취침 전; 장용정은 우유·제산제와 1시간 이상 간격</td></tr><tr><td>bisacodyl <mark style="color:blue;">[둘코락스 좌약]</mark></td><td>1S qd</td></tr><tr><td>senna <mark style="color:blue;">[아락실 과립]</mark> (복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음. 국내 품목 허가상 임부·임신 가능 여성·수유부 금기</td></tr><tr><td>Na picosulfate</td><td>5~7.5 ㎎ qd, 취침 시</td></tr></tbody></table>
+<table><thead><tr><th width="248">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[비사코딜]</mark> (비급여)</td><td>5~10 ㎎ qd, 보통 취침 전; 장용정은 우유·제산제와 1시간 이상 간격</td></tr><tr><td><strong>bisacodyl</strong> <mark style="color:blue;">[둘코락스 좌약]</mark></td><td>1S qd</td></tr><tr><td><strong>senna</strong> <mark style="color:blue;">[아락실 과립]</mark> (복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음 •임부·임신 가능 여성·수유부 금기</td></tr><tr><td><strong>Na picosulfate</strong></td><td>5~7.5 ㎎ qd, 취침 시</td></tr></tbody></table>
 
 ### <mark style="color:orange;">대변 연화제 및 복합하제</mark>
 
-* docusate : 계면활성 작용의 대변 연화제
-  * 복합제 : <mark style="color:blue;">\[둘코락스 에스]</mark> (bisacodyl + docusate sodium), <mark style="color:blue;">\[메이킨큐]</mark> (bisacodyl + casanthranol + docusate sodium + ursodeoxycholic acid)
 * 대상 : 수술 후, 출산 후, 치핵, 치열
+* docusate : 계면활성 작용의 대변 연화제
+  * 복합제(비급여) : <mark style="color:blue;">\[둘코락스 에스]</mark> (bisacodyl + docusate sodium), <mark style="color:blue;">\[메이킨큐]</mark> (bisacodyl + casanthranol + docusate sodium + ursodeoxycholic acid)
+  * 관행적으로 사용되지만 단독 변비 개선 효과를 뒷받침하는 근거가 제한적임
 * 충분한 물과 함께 섭취 필수
-* docusate는 관행적으로 사용되지만 단독 변비 개선 효과를 뒷받침하는 근거가 제한적임
 
 ### <mark style="color:orange;">윤활제 (Lubricant)</mark>
 
@@ -296,8 +335,12 @@ _<mark style="color:$info;">Ref. AGA probiotics guideline. 2020; AGA belching, a
 * 작용 : GI motility 조절 → 대장 통과 시간 단축
 * 대상 : 다른 하제에 반응이 없는 환자
 * 주의/금기 : 장폐쇄/천공 의심, 심한 염증성 장질환; 4주 이내 효과 없으면 재평가
-* prucalopride : 2 ㎎ qd, 식사와 무관; 고령(≥65세)은 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량. 중증 신장애(GFR ＜30 ㎖/min/1.73㎡) 또는 중증 간장애(Child-Pugh C)는 1 ㎎ qd. 투석이 필요한 신장애에서는 금기 <mark style="color:blue;">\[레졸로]</mark>; 부작용-두통, 복통, 구역, 설사. 과거 5-HT4 작용제와 달리 뚜렷한 심혈관 위험 증가는 확인되지 않았으나 새로운 우울감·자살사고 등 정신 증상 발생 시 중단하고 평가
-* tegaserod : 심혈관 허혈 우려로 철수 후 미국에서 재허가되었으나 2022년 판매 중단; 미허가
+* prucalopride : 2 ㎎ qd, 식사 무관; ≥65세은 1 ㎎ qd로 시작하여 필요시 2 ㎎으로 증량 <mark style="color:blue;">\[레졸로]</mark>
+  * 중증 신장애(GFR ＜30 ㎖/min/1.73㎡) 또는 중증 간장애(Child-Pugh C)는 1 ㎎ qd
+  * 금기 : 투석이 필요한 신장애
+  * 부작용 : 두통, 복통, 구역, 설사
+  * 과거 5-HT4 작용제와 달리 뚜렷한 심혈관 위험 증가는 확인되지 않았으나 새로운 우울감·자살사고 등 정신 증상 발생 시 중단하고 평가
+* tegaserod : 심혈관 허혈 우려로 철수; 미허가
 
 ### <mark style="color:orange;">Colonic secretagogue</mark>
 
@@ -305,7 +348,7 @@ _<mark style="color:$info;">Ref. AGA probiotics guideline. 2020; AGA belching, a
 
 * 작용 : chloride·수분 분비 자극, 장 운동 증가
 * 부작용 : 구역, 설사, 두통, 복부 팽만
-* lubiprostone : 아미티자 24 ㎍ 품목은 2024년 2월 2일 허가 취하됨. 해외 성인 CIC 용법 24 ㎍ bid, 음식·물과 함께 복용 <mark style="color:$info;">\[식약처 품목정보]</mark>
+* lubiprostone : 해외 성인 CIC 용법 24 ㎍ bid, 음식·물과 함께 복용 <mark style="color:$info;">\[식약처 품목정보]</mark>
 
 #### <mark style="color:$primary;">Guanylate cyclase-C agonist</mark>
 
