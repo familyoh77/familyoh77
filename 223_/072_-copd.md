@@ -51,25 +51,25 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* SpO₂가 평소보다 현저히 감소하면서 심한 호흡 곤란·호흡 노력 증가, 새로 발생하거나 악화된 중심부 청색증 `급성 호흡부전`
-* 의식 혼탁·심한 졸림 또는 혼수 `고탄산혈증` `환기부전`
-* 혈역학적 불안정, 쇼크, 지속되는 압박성 흉통 또는 갑작스러운 흉통과 심한 호흡 곤란 `패혈증` `급성 관상동맥증후군` `폐색전증` `기흉`
-* 다량 객혈 또는 객혈과 저산소증·혈역학적 이상 동반 `대량 객혈`
-* 급성 호흡성 산증 또는 중증 저산소혈증을 동반한 악화 `중증 ECOPD`
+* SpO₂가 평소보다 현저히 감소하면서 심한 호흡 곤란·호흡 노력 증가, 새로 발생하거나 악화된 중심부 청색증  `급성 호흡부전`
+* 의식 혼탁·심한 졸림 또는 혼수  `고탄산혈증`  `환기부전`
+* 혈역학적 불안정, 쇼크, 지속되는 압박성 흉통 또는 갑작스러운 흉통과 심한 호흡 곤란  `패혈증`  `급성 관상동맥증후군`  `폐색전증`  `기흉`
+* 다량 객혈 또는 객혈과 저산소증·혈역학적 이상 동반  `대량 객혈`
+* 급성 호흡성 산증 또는 중증 저산소혈증을 동반한 악화  `중증 ECOPD`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 휴식 시 호흡 곤란의 뚜렷한 악화, 평소보다 새로 감소한 산소포화도 `ECOPD` `폐렴`
-* 새로 발생한 말초 부종, 심부전·부정맥 의심 소견 `우심부전` `심부전` `부정맥`
-* 초기 SABA/SAMA 치료에 반응하지 않거나 빠르게 다시 악화 `치료 실패` `폐렴` `다른 심폐질환`
-* 새로 발생한 소량 객혈 `폐암` `폐결핵` `기관지확장증`
+* 휴식 시 호흡 곤란의 뚜렷한 악화, 평소보다 새로 감소한 산소포화도  `ECOPD`  `폐렴`
+* 새로 발생한 말초 부종, 심부전·부정맥 의심 소견  `우심부전`  `심부전`  `부정맥`
+* 초기 SABA/SAMA 치료에 반응하지 않거나 빠르게 다시 악화  `치료 실패`  `폐렴`  `다른 심폐질환`
+* 새로 발생한 소량 객혈  `폐암`  `폐결핵`  `기관지확장증`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 폐기능 검사상 GOLD 3–4 또는 급격한 FEV₁ 감소 `중증 기류 폐쇄`
-* 최근 1년 중등도 또는 중증 악화 ≥1회, 특히 반복 악화 `악화 재발 위험`
-* 원인이 설명되지 않는 체중 감소 또는 야간 발한 `폐암` `폐결핵`
-* 체중 감소·삶의 질 저하가 지속되거나 가정 내 지원이 불충분 `쇠약` `영양불량` `자가 관리 곤란`
+* 폐기능 검사상 GOLD 3–4 또는 급격한 FEV₁ 감소  `중증 기류 폐쇄`
+* 최근 1년 중등도 또는 중증 악화 ≥1회, 특히 반복 악화  `악화 재발 위험`
+* 원인이 설명되지 않는 체중 감소 또는 야간 발한  `폐암`  `폐결핵`
+* 체중 감소·삶의 질 저하가 지속되거나 가정 내 지원이 불충분  `쇠약`  `영양불량`  `자가 관리 곤란`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -168,14 +168,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 
 #### <mark style="color:$primary;">COPD vs 천식 vs 심부전 핵심 감별</mark>
 
-| 항목                | COPD                  | 천식                    | 심부전               |
-| ----------------- | --------------------- | --------------------- | ----------------- |
-| **호흡곤란 양상**       | 대개 활동 시, 지속적·진행성      | 발작적·변동성, 야간/새벽 악화 가능  | 기좌호흡, 발작성 야간 호흡곤란 |
-| **흡연·유해 노출력**     | 흔하나 필수는 아님            | 없을 수 있음               | 진단과 직접 관계없음       |
-| **알레르기/비염**       | 동반 가능                 | 흔함                    | 감별에 직접적이지 않음      |
-| **흉부 X선**         | 과팽창 가능, 정상일 수도 있음     | 대개 정상                 | 심장 비대, 폐울혈·폐부종    |
-| **기류 제한**         | post-BD FEV1/FVC ＜0.7 | 변동성 기류 제한; 지속성 폐쇄도 가능 | 대개 폐쇄성 기류 제한 없음   |
-| **BNP/NT-proBNP** | 심장질환·우심부전 동반 시 상승 가능  | 대개 정상                 | 상승 가능             |
+<table><thead><tr><th width="150">항목</th><th width="200">COPD</th><th width="200">천식</th><th>심부전</th></tr></thead><tbody><tr><td><strong>호흡곤란 양상</strong></td><td>대개 활동 시, 지속적·진행성</td><td>발작적·변동성, 야간/새벽 악화 가능</td><td>기좌호흡, 발작성 야간 호흡곤란</td></tr><tr><td><strong>흡연·유해 노출력</strong></td><td>흔하나 필수는 아님</td><td>없을 수 있음</td><td>진단과 직접 관계없음</td></tr><tr><td><strong>알레르기/비염</strong></td><td>동반 가능</td><td>흔함</td><td>감별에 직접적이지 않음</td></tr><tr><td><strong>흉부 X선</strong></td><td>과팽창 가능, 정상일 수도 있음</td><td>대개 정상</td><td>심장 비대, 폐울혈·폐부종</td></tr><tr><td><strong>기류 제한</strong></td><td>post-BD FEV1/FVC ＜0.7</td><td>변동성 기류 제한; 지속성 폐쇄도 가능</td><td>대개 폐쇄성 기류 제한 없음</td></tr><tr><td><strong>BNP/NT-proBNP</strong></td><td>심장질환·우심부전 동반 시 상승 가능</td><td>대개 정상</td><td>상승 가능</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">천식 동반 감별</mark> <a href="#asthma-overlap" id="asthma-overlap"></a>
 
@@ -383,8 +376,8 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 <table><thead><tr><th width="456">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg 1 puff qd</td></tr><tr><td>budesonide / glycopyrronium / formoterol <mark style="color:blue;">[브레즈트리 에어로스피어]</mark> ²⁾</td><td>160/7.2/5.0 μg/puff, 2 puffs bid</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium <mark style="color:blue;">[트림보우]</mark></td><td>100/6/12.5 μg/puff, 2 puffs bid<br>(전달용량 약 87/5/9 μg)</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium <mark style="color:blue;">[트림보우넥스트할러]</mark> (DPI) ³⁾</td><td>100/6/12.5 μg, 2 puffs bid</td></tr></tbody></table>
 
 > _¹⁾트렐리지 엘립타 : 100/62.5/25 μg이 COPD 적응 용량; 200/62.5/25 μg은 천식 용량_\
-> _&#xB2;⁾표기 함량은 1 puff 기준. 브레즈트리는 글리코피로늄 14.4 μg 함량의 천식 허가 제품이 별도로 있으므로 COPD 처방 시 7.2 μg 함량 확인. 표는 대표 예시이며 동일 성분이라도 함량·적응증이 제품별로 다를 수 있어 처방 전 최신 국내 허가사항과 급여기준 확인. 에너제어 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외_\
-> _&#xB3;⁾트림보우넥스트할러는 2026-06 허가된 DPI 제형으로 중증 COPD에만 허가됨(pMDI인 트림보우는 천식·COPD 모두 허가)_
+> _²⁾표기 함량은 1 puff 기준. 브레즈트리는 글리코피로늄 14.4 μg 함량의 천식 허가 제품이 별도로 있으므로 COPD 처방 시 7.2 μg 함량 확인. 표는 대표 예시이며 동일 성분이라도 함량·적응증이 제품별로 다를 수 있어 처방 전 최신 국내 허가사항과 급여기준 확인. 에너제어 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외_\
+> _³⁾트림보우넥스트할러는 2026-06 허가된 DPI 제형으로 중증 COPD에만 허가됨(pMDI인 트림보우는 천식·COPD 모두 허가)_
 
 #### <mark style="color:$primary;">전신 스테로이드</mark>
 
@@ -502,10 +495,10 @@ linkStyle 6 stroke:green,stroke-width:2px;
 ```
 
 > _eos = blood eosinophil count (cells/μL)_\
-> _&#xB9;⁾single inhaler 권고_\
-> _&#xB2;⁾PDE3/4 억제제, 네뷸라이저 흡입; 국내 미도입_\
-> _&#xB3;⁾dupilumab·mepolizumab은 성인 COPD 추가 유지치료로 국내 허가(2026-10-25)_\
-> _&#xC545;화 횟수 표기는 주요 임상시험의 근거 대상이며, 허가·급여 조건과 구분함_
+> _¹⁾single inhaler 권고_\
+> _²⁾PDE3/4 억제제, 네뷸라이저 흡입; 국내 미도입_\
+> _³⁾dupilumab·mepolizumab은 성인 COPD 추가 유지치료로 국내 허가(2026-10-25)_\
+> _악화 횟수 표기는 주요 임상시험의 근거 대상이며, 허가·급여 조건과 구분함_
 
 <p align="center"><strong>COPD 유지 약물 치료 조정 알고리듬</strong><br><em><mark style="color:$info;">Ref. GOLD 2026, Fig 3.9</mark></em></p>
 
@@ -840,7 +833,7 @@ J42(상세불명의 만성 기관지염)는 비폐쇄성 만성 기관지염에�
 
 ### <mark style="color:orange;">임상 근거</mark>
 
-*   GOLD. Global Strategy for the Diagnosis, Management, and Prevention of COPD. 2026 Report(v1.3, 8 December 2025) and Pocket Guide. - ABE 평가, 초기·추적 약물치료, 생물학적 제제 및 급성 악화 관리. 한글 재구성 자료: Fig. 2.13(43쪽), 3.10(67쪽), 3.11(68쪽), 4.2(96쪽), 4.10(109쪽); 쪽수는 본문 인쇄 쪽수이며 PDF 페이지는 각각 54, 78, 79, 107, 120쪽임
+*   GOLD. Global Strategy for the Diagnosis, Management, and Prevention of COPD. 2026 Report(v1.3, 8 December 2025) and Pocket Guide. - ABE 평가, 초기·추적 약물치료, 생물학적 제제 및 급성 악화 관리. 한글 재구성 자료: Fig. 2.13(43쪽), 3.10(67쪽), 4.2(96쪽), 4.10(109쪽); 쪽수는 본문 인쇄 쪽수이며 PDF 페이지는 각각 54, 78, 107, 120쪽임
 
     [https://goldcopd.org/2026-gold-report-and-pocket-guide/](https://goldcopd.org/2026-gold-report-and-pocket-guide/)
 *   대한결핵 및 호흡기학회. COPD 진료지침. 2024 개정. - 국내 COPD 진료 및 관리
@@ -873,9 +866,6 @@ J42(상세불명의 만성 기관지염)는 비폐쇄성 만성 기관지염에�
 *   Zhou Y, et al. Effect of high-dose N-acetylcysteine on exacerbations and lung function in patients with mild-to-moderate COPD. Nat Commun. 2024. - 경증\~중등도 COPD에서 NAC 600 ㎎ bid 2년 투여의 전체 악화율·폐기능 개선 미입증
 
     [https://doi.org/10.1038/s41467-024-51079-1](https://doi.org/10.1038/s41467-024-51079-1)
-*   Pavord ID, et al. Mepolizumab for Eosinophilic Chronic Obstructive Pulmonary Disease. N Engl J Med. 2017;377:1613-1629. - METREX·METREO 연구의 호산구 아군 및 다중비교 보정 결과
-
-    [https://doi.org/10.1056/NEJMoa1708208](https://doi.org/10.1056/NEJMoa1708208)
 *   Sciurba FC, et al. Mepolizumab to Prevent Exacerbations of COPD with an Eosinophilic Phenotype. N Engl J Med. 2025. - MATINEE 연구
 
     [https://doi.org/10.1056/NEJMoa2413181](https://doi.org/10.1056/NEJMoa2413181)
@@ -933,7 +923,4 @@ J42(상세불명의 만성 기관지염)는 비폐쇄성 만성 기관지염에�
 
 #### <mark style="color:$primary;">악화 행동 계획 (Exacerbation Action Plan)</mark>
 
-| 단계           | 상황                                                | 행동                                                                     |
-| ------------ | ------------------------------------------------- | ---------------------------------------------------------------------- |
-| 🟡 주의        | 평소보다 숨이 더 차거나 가래가 늘고 색이 변할 때                      | 응급 흡입제를 처방된 행동계획에 따라 사용하고 당일 의료진에게 연락. 서면 계획 없이 스테로이드·항생제를 임의로 시작하지 않음 |
-| 🔴 즉시 내원/119 | 응급 흡입제에도 숨이 매우 차거나 입술이 파래지고, 흉통·실신 또는 의식 혼미가 있을 때 | 즉시 응급실 방문 또는 119 호출                                                    |
+<table><thead><tr><th width="120">단계</th><th width="280">상황</th><th>행동</th></tr></thead><tbody><tr><td>🟡 주의</td><td>평소보다 숨이 더 차거나 가래가 늘고 색이 변할 때</td><td>응급 흡입제를 처방된 행동계획에 따라 사용하고 당일 의료진에게 연락. 서면 계획 없이 스테로이드·항생제를 임의로 시작하지 않음</td></tr><tr><td>🔴 즉시 내원/119</td><td>응급 흡입제에도 숨이 매우 차거나 입술이 파래지고, 흉통·실신 또는 의식 혼미가 있을 때</td><td>즉시 응급실 방문 또는 119 호출</td></tr></tbody></table>
