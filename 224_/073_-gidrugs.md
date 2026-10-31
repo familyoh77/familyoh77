@@ -222,8 +222,8 @@
 * 복부 팽만·팽창의 일상적 치료로 권고하지 않음; 복부 가스 제거제로 일률적으로 처방하지 않음 <mark style="color:$info;">\[AGA 2023]</mark>
 * IBS에 대해서는 지침 간 차이가 있음
   * AGA 2020은 임상시험 내 사용으로 제한하는 반면, 2025 서울 컨센서스는 매우 낮은 근거로 선택적 사용을 약하게 권고. 시험적으로 사용하면 효과를 평가하고 호전이 없으면 중단; 단순 가스·팽만에 대한 일률적 처방과 구분 <mark style="color:$info;">\[AGA 2020·2023; J Neurogastroenterol Motil 2025]</mark>
-* 유산균·비피더스균 : _Lacticaseibacillus rhamnosus_ <mark style="color:blue;">\[람노스]</mark>, _Bifidobacterium bifidum_ 함유 제제, _Lactobacillus acidophilus_ 함유 제제 <mark style="color:blue;">\[안티비오]</mark>
-* _Saccharomyces boulardii_ <mark style="color:blue;">\[비오플]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
+* 유산균·비피더스균 : _Lacticaseibacillus rhamnosus_ <mark style="color:blue;">\[람노스]\(산,과립)</mark>, _Bifidobacterium bifidum_ 함유 제제, _Lactobacillus acidophilus_ 함유 제제 <mark style="color:blue;">\[안티비오]</mark>
+* _Saccharomyces boulardii_ <mark style="color:blue;">\[비오플산]</mark> : 드물게 진균혈증 위험이 있어 중심정맥관 보유자·중환자·면역저하자에서는 사용을 피함. 캡슐·산제를 개봉할 때 주변 중심정맥관의 오염에도 주의함
 * _Bacillus subtilis_ + _Enterococcus faecium_ 복합 제제 <mark style="color:blue;">\[메디락에스산]</mark>·<mark style="color:blue;">\[메디락에스]</mark>
 
 **AGA 권고**
@@ -240,12 +240,12 @@
 ### <mark style="color:orange;">Galactosidase</mark>
 
 * α-Galactosidase : 콩류 등 발효성 탄수화물 섭취로 인한 가스·팽만 감소에 고려
-* β-Galactosidase(lactase) : 유당불내증 <mark style="color:blue;">\[갈타제]</mark>
+* β-Galactosidase(lactase) : 유당불내증 <mark style="color:blue;">\[갈타제산]</mark>
 
 ### <mark style="color:orange;">Simethicone</mark>
 
 * 기능성 팽만·영아 산통 등에서 일관된 효과 근거는 제한적이나 전신 흡수가 거의 없어 비교적 안전한 증상 완화제로 사용
-* 용법 : 40\~80 ㎎ tid 식후 또는 취침 시 <mark style="color:blue;">\[가소콜]</mark>
+* 용법 : 40\~80 ㎎ tid 식후 또는 취침 시 <mark style="color:blue;">\[가소콜액]</mark>
 
 ### <mark style="color:orange;">비흡수성 항생제</mark>
 
@@ -296,7 +296,7 @@
 * 주의 : <mark style="color:blue;">\[마그밀]</mark>·<mark style="color:blue;">\[마그밀에스]</mark>는 신장애 환자에게 금기. 중증 CKD·고령·장운동 저하에서 고마그네슘혈증 위험이 특히 높음. 고령에서 장기 사용 시 신기능과 혈청 Mg를 확인하되, 이 모니터링을 신장애에서의 사용 허용으로 해석하지 않음
 * 부작용 : 구역, 복부 팽만, 가스, 설사
 
-<table><thead><tr><th width="267">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>magnesium oxide(<strong>MgO</strong>)<br><mark style="color:blue;">[마그밀에스]</mark></td><td>250 ㎎/T; 500~1,000 ㎎/d 등 저용량으로 시작하여 반응에 따라 조절</td></tr><tr><td><strong>Mg hydroxide</strong>[Mg(OH)₂]<br><mark style="color:blue;">[마그밀]</mark></td><td>500 ㎎/T; 저용량부터 반응에 따라 조절. MgO와 동일 중량으로 환산하지 않음</td></tr><tr><td><strong>lactulose</strong><br><mark style="color:blue;">[듀파락-이지]</mark></td><td>15 ㎖/P 1~2P qd; 식사와 무관하게 일정한 시간에 복용, 반응에 따라 조절</td></tr><tr><td><strong>lactitol</strong><br><mark style="color:blue;">[포탈락]</mark></td><td>초기 20 g qd, 반응에 따라 보통 10 g qd로 감량; 아침 또는 저녁 식사와 함께 복용. 포당 함량을 확인하여 g 단위로 처방함</td></tr><tr><td><p><strong>PEG</strong> (polyethylene glycol) 3350</p><p><mark style="color:blue;">[마이락스]</mark> (비급여)</p></td><td>17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용. 식사와 무관; 보통 1~4일 내 효과</td></tr></tbody></table>
+<table><thead><tr><th width="267">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>magnesium oxide(<strong>MgO</strong>)<br><mark style="color:blue;">[마그밀에스]</mark></td><td>250 ㎎/T; 500~1,000 ㎎/d 등 저용량으로 시작하여 반응에 따라 조절</td></tr><tr><td><strong>Mg hydroxide</strong>[Mg(OH)₂]<br><mark style="color:blue;">[마그밀]</mark></td><td>500 ㎎/T; 저용량부터 반응에 따라 조절. MgO와 동일 중량으로 환산하지 않음</td></tr><tr><td><strong>lactulose</strong></td><td>15 ㎖/P 1~2P qd; 식사와 무관하게 일정한 시간에 복용, 반응에 따라 조절</td></tr><tr><td><strong>lactitol</strong><br><mark style="color:blue;">[포탈락]</mark></td><td>초기 20 g qd, 반응에 따라 보통 10 g qd로 감량; 아침 또는 저녁 식사와 함께 복용. 포당 함량을 확인하여 g 단위로 처방함</td></tr><tr><td><p><strong>PEG</strong> (polyethylene glycol) 3350</p><p><mark style="color:blue;">[마이락스산]</mark> (비급여)</p></td><td>17 g/P 1P qd; 약 240 ㎖의 물 또는 음료에 녹여 가능하면 아침에 복용. 식사와 무관; 보통 1~4일 내 효과</td></tr></tbody></table>
 
 * **glycerin** <mark style="color:blue;">\[그린 관장약]</mark> : 직장용 삼투성 하제임. 관장액은 제품 농도·용량을 구분하며, 직장 손상·출혈 또는 장폐색 의심 시 사용하지 않음
 
