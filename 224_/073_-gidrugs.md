@@ -113,10 +113,14 @@
 
 ## <mark style="color:green;">진경제 (GI antispasmodic agent)</mark>
 
-* 종류 : 비선택적 항콜린제, 선택적 항콜린제, 칼슘차단제, 아편수용체 조절제
-* 항콜린 계열 부작용 : 입마름, 소변 저류, 시야 흐림, 어지럼, 졸림, 녹내장 악화
-* IBS·기능성 복통 : **trimebutine**, **pinaverium/mebeverine** 등을 고려;&#x20;
-  * **항콜린성 진경제**(hyoscine N-butylbromide, dicyclomine 등)는 단기·필요시 사용을 우선하고 **고령에서 가능한 회피**; 지속 사용 시 효과와 항콜린 부담을 재평가
+* 종류
+  * 항콜린제 : 4급 암모늄(hyoscine N-butylbromide, cimetropium)은 중추 침투가 적고, 3급 아민(dicyclomine, hyoscyamine)은 중추 부작용이 있음
+  * 장 선택적 칼슘 통로 차단제 : pinaverium, otilonium
+  * 말초 opioid 수용체 조절제 : trimebutine
+  * 직접 평활근 이완제 : phloroglucinol, tiropramide
+* 항콜린 계열 부작용 : 입마름, 소변 저류, 시야 흐림, 어지럼, 졸림, 녹내장 악화; 3급 아민은 인지 저하·섬망 위험이 추가됨
+* IBS·기능성 복통 : 항콜린 작용이 없는 **trimebutine**, **pinaverium** 등을 우선 고려
+  * **항콜린제**는 단기·필요시 사용을 우선하고 **고령에서 가능한 회피**; 지속 사용 시 효과와 항콜린 부담을 재평가
 
 ### <mark style="color:orange;">약제</mark>
 
@@ -124,7 +128,7 @@
 * cimetropium : 50 ㎎ tid <mark style="color:blue;">\[알기론]</mark>
 * phloroglucinol : <mark style="color:blue;">\[후로스판]</mark> 성인 1회 2정, 증상 발현 시 물 한 컵에 녹이거나 설하에서 녹여 복용함. 함량의 무수물·수화물 표시가 다를 수 있어 정수 기준과 제품 함량을 함께 확인함
 * pinaverium : 50 ㎎ tid <mark style="color:blue;">\[디세텔]</mark>; **식사 중 충분한 물과 함께 통째로 삼킴**. 식도 자극·궤양 예방을 위해 씹거나 빨지 않으며, 누운 자세 또는 취침 직전 복용을 피함
-* hyoscine N-butylbromide(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark> (✘ Avoid : 고령·BPH·협우각 녹내장)
+* hyoscine N-butylbromide(scopolamine butylbromide) : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[부스코판]</mark> (회피 : 고령·BPH·협우각 녹내장)
 * tiropramide : 100 ㎎ bid\~tid <mark style="color:blue;">\[티로파]</mark>
 * dicyclomine : 10\~20 ㎎ tid\~qid <mark style="color:blue;">\[스파토민]</mark>. 고령에서 가능한 회피함. 녹내장·BPH에 의한 배뇨장애·장폐색·중증 근무력증·역류성식도염·수유부·6개월 이하 영아 등은 국내 허가상 금기임
 * 주사제/기타 : hyoscine N-butylbromide <mark style="color:blue;">\[부스코판 주]</mark>, atropine <mark style="color:blue;">\[아트로핀 주]</mark>, hyoscyamine, otilonium, peppermint oil
@@ -139,7 +143,7 @@
 ### <mark style="color:orange;">항히스타민제, 1세대</mark>
 
 * 대상 : 멀미, 내이 장애 관련 구역/구토; 항콜린 작용이 있음
-* dimenhydrinate : 50 ㎎ tid\~qid <mark style="color:blue;">\[보나링에이]</mark> (✘ Avoid : 고령 - 과진정·섬망 위험)
+* dimenhydrinate : 50 ㎎ tid\~qid <mark style="color:blue;">\[보나링에이]</mark> (회피 : 고령 - 과진정·섬망 위험)
 * hydroxyzine : 진정·항콜린·QT 연장 위험이 있어 일반적인 구역·구토의 표준 약제로 권고하지 않음 <mark style="color:blue;">\[아디팜]</mark>
 * meclizine : 멀미 25\~50 ㎎ 승차 1시간 전, 필요시 24시간마다 반복; 미로염·메니에르증후군 등은 25 ㎎ bid\~tid, **원칙적으로 최대 75 ㎎/d** <mark style="color:blue;">\[염산메클리진]</mark>. 국내 허가상 임부·임신 가능 여성·협우각 녹내장·BPH 등 배뇨장애·12세 이하 소아 금기; 고령에서 항콜린 부작용 주의
 * promethazine : 미유통. 2세 미만은 치명적 호흡억제 위험으로 금기이며, 고령에서는 과진정·항콜린 부작용 때문에 가능한 회피함
@@ -167,13 +171,13 @@
 * 대상 : 저용량으로 만성 구역·구토 증후군 등에서 선택적으로 고려함(허가 외 사용; 근거 제한적). 2025 AGA 지침은 nortriptyline을 위마비의 일차치료로 사용하지 않도록 조건부 권고함
 * amitriptyline : 10\~25 ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[에트라빌]</mark>
 * nortriptyline : 10\~25 ㎎ hs부터 시작하여 반응·부작용에 따라 조정 <mark style="color:blue;">\[센시발]</mark>
-* (✘ Avoid : 고령 - 항콜린 부작용·심독성; 심혈관 질환·BPH·녹내장 주의)
+* 회피 : 고령 - 항콜린 부작용·심독성; 심혈관 질환·BPH·녹내장 주의
 
 ### <mark style="color:orange;">Benzodiazepine</mark>
 
 * 대상 : 예기성 항암화학요법 유발 구역·구토 등에서 제한적으로 사용하는 보조요법; 일반적인 불안 동반 구토의 일률적 치료제로 사용하지 않음
 * lorazepam <mark style="color:blue;">\[아티반]</mark> 등은 예기성 구역·구토에서 항암치료 계획에 따라 제한적으로 병용함(항구토 목적은 허가 외 사용). 일반 외래 구토에 diazepam·clonazepam 등의 정규 반복 처방을 일률적으로 적용하지 않음
-* ✘ Avoid : 고령 - 낙상·진정·의존
+* 회피 : 고령 - 낙상·진정·의존
 
 ### <mark style="color:orange;">임신성 구역·구토</mark>
 
@@ -270,7 +274,7 @@ _<mark style="color:$info;">Ref. AGA probiotics guideline. 2020; AGA belching, a
   * _phenolphthalein - 발암 가능성으로 FDA OTC 퇴출(1999); 현재 사용되지 않음_
 * 대상 : 다른 하제에 반응이 불충분할 때 **단기 또는 구제요법**으로 사용; senna는 조건부로 지속 사용 가능하나 장기 자료는 제한적
 * 경구 투여 6\~12시간 후 반응; 직장 투여 15\~60분 후 반응
-* 부작용 : 복통, 구역, 설사 및 과량 사용 시 전해질 불균형. 치료 용량에서 대장 기능이 영구적으로 손상된다는 근거는 불충분함 (✘ Avoid : 장폐쇄. 임신 중 사용은 성분·품목별 허가사항을 따르며, senna 복합제는 국내 품목상 임부 금기가 있음)
+* 부작용 : 복통, 구역, 설사 및 과량 사용 시 전해질 불균형. 치료 용량에서 대장 기능이 영구적으로 손상된다는 근거는 불충분함 (금기 : 장폐쇄. 임신 중 사용은 성분·품목별 허가사항을 따르며, senna 복합제는 국내 품목상 임부 금기가 있음)
 * [<mark style="color:$info;">AGA-ACG 2023 만성 특발성 변비 지침</mark>](https://pmc.ncbi.nlm.nih.gov/articles/PMC10542656/) : PEG는 만성 사용에 강한 권고; bisacodyl·Na picosulfate는 단기 또는 구제요법에 강한 권고; senna는 조건부 권고
 
 <table><thead><tr><th width="260">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>bisacodyl <mark style="color:blue;">[비사코딜]</mark> (비급여)</td><td>5~10 ㎎ qd, 보통 취침 전; 장용정은 우유·제산제와 1시간 이상 간격</td></tr><tr><td>bisacodyl <mark style="color:blue;">[둘코락스 좌약]</mark></td><td>1S qd</td></tr><tr><td>senna <mark style="color:blue;">[아락실 과립]</mark> (복합제)</td><td>1회 4~8 g, 1일 1회 저녁 또는 2회 아침·저녁; 취침 직전·누운 상태에서 복용하지 않음. 국내 품목 허가상 임부·임신 가능 여성·수유부 금기</td></tr><tr><td>Na picosulfate</td><td>5~7.5 ㎎ qd, 취침 시</td></tr></tbody></table>
@@ -285,7 +289,7 @@ _<mark style="color:$info;">Ref. AGA probiotics guideline. 2020; AGA belching, a
 
 ### <mark style="color:orange;">윤활제 (Lubricant)</mark>
 
-* mineral oil : 15\~45 ㎖/d (✘ Avoid : 고령·연하장애 - 흡인 시 지방성 폐렴; 지용성 Vit 흡수 장애)
+* mineral oil : 15\~45 ㎖/d (회피 : 고령·연하장애 - 흡인 시 지방성 폐렴; 지용성 Vit 흡수 장애)
 
 ### <mark style="color:orange;">Prokinetic agent (5-HT4 agonist)</mark>
 
@@ -341,7 +345,7 @@ _<mark style="color:$info;">Ref. AGA probiotics guideline. 2020; AGA belching, a
 ### <mark style="color:orange;">5-HT3 antagonist</mark>
 
 * 작용 : serotonin 차단 → 위장관 motility·sensation 억제 → 설사형 IBS 개선
-* 부작용 : 변비, 급성 허혈성 대장염 (✘ Avoid : 허혈성 대장염 병력)
+* 부작용 : 변비, 급성 허혈성 대장염 (금기 : 허혈성 대장염 병력)
 * **ramosetron** : 국내 허가 IBS-D 치료제. 성인 남성 5 ㎍ qd(2.5\~10 ㎍/d), 성인 여성 2.5 ㎍ qd(불충분 시 최대 5 ㎍/d) <mark style="color:blue;">\[이리콜·이리스탑·이리퀵]</mark>. 변비·굳은 변 발생 시 감량·휴약·중단을 고려하며, 새로 발생한 복통·혈변은 중단 후 허혈성 대장염 평가
 * alosetron : 기존 치료에 반응하지 않는 중증 IBS-D 성인 여성에서 제한적으로 사용; 심각한 변비·허혈성 대장염 위험. 국내 미허가
 
@@ -398,7 +402,7 @@ _<mark style="color:$info;">Ref. CDC Yellow Book 2026; bismuth subsalicylate 현
 * 주의 : 상부 위장관 증상을 차폐함; 신부전 시 부작용 상승; PPI·H2RA 대체 이후 보조적 역할
 * 용법 : 복용 시점·횟수는 성분·제형별로 다름. Almagate는 식후 30분\~1시간에 1일 3회, 필요시 취침 전에 1회 추가 복용
 
-<table><thead><tr><th width="280">성분명 [상품명]</th><th>주요 부작용 및 주의</th></tr></thead><tbody><tr><td>Al hydroxide/phosphate <mark style="color:blue;">[겔포스]</mark> (현탁액, 비급여), <mark style="color:blue;">[암포젤]</mark> (정)</td><td>변비; 장기 대량 투여 시 Al 독성. 중증 신장애에서 회피</td></tr><tr><td>almagate <mark style="color:blue;">[알마겔]</mark> (정/현탁액)</td><td>변비 또는 설사; Al 및 Mg 포함, CKD에서 축적 주의</td></tr><tr><td>Na bicarbonate <mark style="color:blue;">[타스나]</mark> (비급여)</td><td>Na·수분 저류, 알칼리혈증. (✘ Avoid : 심부전·고혈압·부종)</td></tr><tr><td>Ca carbonate <mark style="color:blue;">[씨씨본]</mark></td><td>고칼슘혈증, 대사성 알칼리증. (✘ Avoid : 고칼슘혈증·신결석)</td></tr><tr><td>Mg hydroxide <mark style="color:blue;">[마그밀]</mark><br>Mg oxide <mark style="color:blue;">[마그밀에스]</mark></td><td>설사·고마그네슘혈증. 국내 품목 허가상 신장애 환자 금기</td></tr></tbody></table>
+<table><thead><tr><th width="280">성분명 [상품명]</th><th>주요 부작용 및 주의</th></tr></thead><tbody><tr><td>Al hydroxide/phosphate <mark style="color:blue;">[겔포스]</mark> (현탁액, 비급여), <mark style="color:blue;">[암포젤]</mark> (정)</td><td>변비; 장기 대량 투여 시 Al 독성. 중증 신장애에서 회피</td></tr><tr><td>almagate <mark style="color:blue;">[알마겔]</mark> (정/현탁액)</td><td>변비 또는 설사; Al 및 Mg 포함, CKD에서 축적 주의</td></tr><tr><td>Na bicarbonate <mark style="color:blue;">[타스나]</mark> (비급여)</td><td>Na·수분 저류, 알칼리혈증. (회피 : 심부전·고혈압·부종)</td></tr><tr><td>Ca carbonate <mark style="color:blue;">[씨씨본]</mark></td><td>고칼슘혈증, 대사성 알칼리증. (회피 : 고칼슘혈증·신결석)</td></tr><tr><td>Mg hydroxide <mark style="color:blue;">[마그밀]</mark><br>Mg oxide <mark style="color:blue;">[마그밀에스]</mark></td><td>설사·고마그네슘혈증. 국내 품목 허가상 신장애 환자 금기</td></tr></tbody></table>
 
 ## <mark style="color:green;">위 점막 보호제 (Gastric mucosal protective agent)</mark>
 
