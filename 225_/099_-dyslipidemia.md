@@ -5,7 +5,7 @@
 * LDL-cholesterol(LDL) 증가, 중성지방(TG) 증가, HDL-cholesterol(HDL) 감소, 또는 이들의 복합 이상
 * 대부분 무증상이지만 atherosclerotic cardiovascular disease(ASCVD)의 중요한 위험 인자임; 연령 증가에 따라 유병률 증가
 
-**대사증후군 관련 국내 역학** (2022~2024 국민건강영양조사 통합; 대사증후군 팩트시트 2026, 심장대사증후군학회)
+**대사증후군 관련 국내 역학** (2022\~2024 국민건강영양조사 통합; 대사증후군 팩트시트 2026, 심장대사증후군학회)
 
 <table data-search="false"><thead><tr><th width="260">구성 요소</th><th width="120">전체</th><th width="120">남성</th><th>여성</th></tr></thead><tbody><tr><td>대사증후군 (19세 이상)</td><td>21.5%</td><td>28.5%</td><td>14.3%</td></tr><tr><td>대사증후군 (30세 이상)</td><td>25.7%</td><td>34.1%</td><td>17.4%</td></tr><tr><td>대사증후군 (65세 이상)</td><td>39.0%</td><td>39.3%</td><td>38.9%</td></tr><tr><td>복부비만</td><td>33.0%</td><td>41.5%</td><td>24.4%</td></tr><tr><td>고중성지방혈증 (TG ≥150 ㎎/㎗)</td><td>25.8%</td><td>36.3%</td><td>15.0%</td></tr><tr><td>저HDL 콜레스테롤혈증</td><td>17.8%</td><td>17.3%</td><td>18.5%</td></tr><tr><td>높은 혈압 (SBP ≥130 또는 DBP ≥85 ㎜Hg)</td><td>29.1%</td><td>34.9%</td><td>23.3%</td></tr><tr><td>고혈당 (FBS ≥100 ㎎/㎗)</td><td>29.1%</td><td>35.6%</td><td>22.4%</td></tr></tbody></table>
 
@@ -20,10 +20,14 @@
 
 ### <mark style="color:orange;">이상지질혈증 진단 기준 (분류)</mark>
 
-<table><thead><tr><th>항목</th><th>기준 수치 (㎎/㎗)</th></tr></thead><tbody><tr><td>총콜레스테롤(TC)</td><td>＜200 적정 / 200~239 경계 / ≥240 높음</td></tr><tr><td>LDL 콜레스테롤</td><td>＜100 적정 / 100~129 정상 / 130~159 경계 / 160~189 높음 / ≥190 매우 높음</td></tr><tr><td>중성지방(TG)</td><td>＜150 적정 / 150~199 경계 / 200~499 높음 / ≥500 매우 높음(췌장염 위험 증가)</td></tr></tbody></table>
+| 항목         | 기준 수치 (㎎/㎗)                                                    |
+| ---------- | -------------------------------------------------------------- |
+| 총콜레스테롤(TC) | ＜200 적정 / 200\~239 경계 / ≥240 높음                                |
+| LDL 콜레스테롤  | ＜100 적정 / 100\~129 정상 / 130\~159 경계 / 160\~189 높음 / ≥190 매우 높음 |
+| 중성지방(TG)   | ＜150 적정 / 150\~199 경계 / 200\~499 높음 / ≥500 매우 높음(췌장염 위험 증가)    |
 
 * 위 수치 분류 자체를 약물치료 목표로 사용하지 않음. HDL은 국내 2026 분류표에서 제외되었으나 위험평가에는 계속 사용함. 대사증후군의 낮은 HDL 기준(남 ＜40, 여 ＜50)과 주요 ASCVD 위험인자 계수 기준(남녀 모두 ＜40)을 구분함
-* TG 135~149도 선택된 고위험 환자의 IPE 추가치료 판단에 사용될 수 있으며, 일반 인구의 고중성지방혈증 진단 기준이 낮아진 것은 아님
+* TG 135\~149도 선택된 고위험 환자의 IPE 추가치료 판단에 사용될 수 있으며, 일반 인구의 고중성지방혈증 진단 기준이 낮아진 것은 아님
 
 _<mark style="color:$info;">Ref. 한국지질·동맥경화학회. 이상지질혈증 진료지침 2026</mark>_
 
@@ -71,7 +75,7 @@ _\*위험 인자의 개수를 정량적으로 셀 때 적용하는 목록_
 1. 흡연
 2. 고혈압 : SBP ≥140 ㎜Hg 또는 DBP ≥90 ㎜Hg 또는 항고혈압제 복용
 3. 낮은 HDL : ＜40 ㎎/㎗
-   * HDL 60~100 ㎎/㎗ 범위에서만 보호 인자로 간주하여 총 위험인자 개수에서 한 개를 차감함; ＞100에서는 차감하지 않음
+   * HDL 60\~100 ㎎/㎗ 범위에서만 보호 인자로 간주하여 총 위험인자 개수에서 한 개를 차감함; ＞100에서는 차감하지 않음
 4. 연령 : 남 ≥45세, 여 ≥55세
 5. 조기 관상동맥병 가족력 : 부모나 형제자매 중 남 ＜55세, 여 ＜65세에서 관상동맥병 발병
 
@@ -79,7 +83,7 @@ _\*위험 인자의 개수를 정량적으로 셀 때 적용하는 목록_
 
 * 스트레스·우울증 등 주요 정신질환, 비만, 신체활동 부족, 만성 염증질환, 조기폐경, 전자간증·임신성 고혈압 병력, 수면무호흡증, HIV 감염
 * Lp(a) ≥50 ㎎/㎗, hsCRP ≥2 ㎎/L, ApoB 상승
-* 주요 위험인자 개수에 단순 합산하지 않고 치료목표 강화 판단에 활용. 중등도위험군은 LDL 100~129 ㎎/㎗에서도 statin을 고려할 수 있으며, 결정이 불확실하면 CAC를 이용한 위험 재분류를 고려
+* 주요 위험인자 개수에 단순 합산하지 않고 치료목표 강화 판단에 활용. 중등도위험군은 LDL 100\~129 ㎎/㎗에서도 statin을 고려할 수 있으며, 결정이 불확실하면 CAC를 이용한 위험 재분류를 고려
 
 _<mark style="color:$info;">Ref. 한국지질·동맥경화학회. 이상지질혈증 진료지침 2026</mark>_
 
@@ -98,7 +102,7 @@ _\*정량적으로 개수를 세는 위험 인자가 아니라, 경계/중등위
 * 대사이상지방간질환(MASLD)
 * HIV 감염 치료
 * 조기 CVD 가족력(남 ＜55세, 여 ＜60세)
-* 만성 염증질환(류마티스관절염, 건선 등)은 지속적 염증 신호전달을 통해 ASCVD 위험을 증폭시킴; 암, 심부전, HIV 감염도 위험 증폭 동반질환으로 함께 고려 <mark style="color:$info;">[2026 ACC/AHA]</mark>
+* 만성 염증질환(류마티스관절염, 건선 등)은 지속적 염증 신호전달을 통해 ASCVD 위험을 증폭시킴; 암, 심부전, HIV 감염도 위험 증폭 동반질환으로 함께 고려 <mark style="color:$info;">\[2026 ACC/AHA]</mark>
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -117,21 +121,21 @@ _\*정량적으로 개수를 세는 위험 인자가 아니라, 경계/중등위
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* 새로 발생한 심한 상복부 통증·지속적인 구토 → 응급 평가. TG ≥1,000 ㎎/㎗이면 고중성지방혈증성 췌장염을 강하게 의심하나, 낮은 수치만으로 배제하지 않음  `급성 췌장염·급성 복증`
-* 급성 흉통·호흡곤란 또는 갑작스러운 편측 마비·언어 장애 → 즉시 119/응급 평가  `급성 관상동맥증후군·뇌졸중`
-* 지질 저하제 복용 중 심한 근육통·근력 저하에 갈색뇨·소변 감소가 동반됨 → 약제 중단 및 CK·신기능·전해질의 응급 평가  `횡문근융해증`
+* 새로 발생한 심한 상복부 통증·지속적인 구토 → 응급 평가. TG ≥1,000 ㎎/㎗이면 고중성지방혈증성 췌장염을 강하게 의심하나, 낮은 수치만으로 배제하지 않음 `급성 췌장염·급성 복증`
+* 급성 흉통·호흡곤란 또는 갑작스러운 편측 마비·언어 장애 → 즉시 119/응급 평가 `급성 관상동맥증후군·뇌졸중`
+* 지질 저하제 복용 중 심한 근육통·근력 저하에 갈색뇨·소변 감소가 동반됨 → 약제 중단 및 CK·신기능·전해질의 응급 평가 `횡문근융해증`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 무증상이어도 TG ≥1,000 ㎎/㎗, 급격한 TG 상승 또는 조절되지 않는 당뇨병·임신 동반 → 당일 평가 및 금주·매우 저지방식·2차 원인 교정과 약물치료 계획  `중증 고중성지방혈증`
-* TG 500~999 ㎎/㎗가 지속됨 → 수일 내 원인 평가와 췌장염 예방 치료 계획  `중증 고중성지방혈증`
+* 무증상이어도 TG ≥1,000 ㎎/㎗, 급격한 TG 상승 또는 조절되지 않는 당뇨병·임신 동반 → 당일 평가 및 금주·매우 저지방식·2차 원인 교정과 약물치료 계획 `중증 고중성지방혈증`
+* TG 500\~999 ㎎/㎗가 지속됨 → 수일 내 원인 평가와 췌장염 예방 치료 계획 `중증 고중성지방혈증`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* LDL ≥190 ㎎/㎗, 건황색종, 조기(＜45세) 각막환 또는 조기 ASCVD 가족력 → 2차 원인·FH 평가와 약물치료 계획 수립, 필요 시 지질 전문 진료 의뢰(눈꺼풀 황색종 단독은 비특이적)  `가족성 고콜레스테롤혈증`
-* 최대 내약 statin ± ezetimibe에도 LDL 목표 미달 → 순응도·2차 원인을 평가하고 조기 치료 강화/전문 진료 고려  `치료 목표 미달`
-* 근육통 등으로 치료를 지속하기 어려움 → 불내성 원인 평가와 대체·병용 치료 계획  `Statin 불내성`
-* 치료에도 지질·당뇨병 조절 불량 또는 ASCVD 진행 → 잔여 위험·치료 강도 재평가  `심혈관 고위험`
+* LDL ≥190 ㎎/㎗, 건황색종, 조기(＜45세) 각막환 또는 조기 ASCVD 가족력 → 2차 원인·FH 평가와 약물치료 계획 수립, 필요 시 지질 전문 진료 의뢰(눈꺼풀 황색종 단독은 비특이적) `가족성 고콜레스테롤혈증`
+* 최대 내약 statin ± ezetimibe에도 LDL 목표 미달 → 순응도·2차 원인을 평가하고 조기 치료 강화/전문 진료 고려 `치료 목표 미달`
+* 근육통 등으로 치료를 지속하기 어려움 → 불내성 원인 평가와 대체·병용 치료 계획 `Statin 불내성`
+* 치료에도 지질·당뇨병 조절 불량 또는 ASCVD 진행 → 잔여 위험·치료 강도 재평가 `심혈관 고위험`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -190,9 +194,21 @@ _\*정량적으로 개수를 세는 위험 인자가 아니라, 경계/중등위
 
 * 가족력·본인 병력·신체 소견·치료 전 LDL·유전자검사의 5개 범주에서 각각 해당하는 가장 높은 점수 하나만 선택한 뒤 합산함. 같은 범주의 행을 중복 합산하지 않음
 
-<table><thead><tr><th>범주</th><th>항목</th><th>점수</th></tr></thead><tbody><tr><td>가족력</td><td>1촌 조기 관상동맥/혈관질환(남 ＜55세, 여 ＜60세) 또는 LDL ＞95백분위수</td><td>1</td></tr><tr><td>가족력</td><td>1촌 건황색종/각막환 또는 18세 미만 자녀의 LDL ＞95백분위수</td><td>2</td></tr><tr><td>본인 병력</td><td>조기 관상동맥질환(남 ＜55세, 여 ＜60세)</td><td>2</td></tr><tr><td>본인 병력</td><td>조기 뇌혈관/말초혈관질환</td><td>1</td></tr><tr><td>신체 소견</td><td>건황색종</td><td>6</td></tr><tr><td>신체 소견</td><td>45세 미만 각막환</td><td>4</td></tr><tr><td>치료 전 LDL (㎎/㎗)</td><td>＞325</td><td>8</td></tr><tr><td>치료 전 LDL (㎎/㎗)</td><td>251~325</td><td>5</td></tr><tr><td>치료 전 LDL (㎎/㎗)</td><td>191~250</td><td>3</td></tr><tr><td>치료 전 LDL (㎎/㎗)</td><td>155~190</td><td>1</td></tr><tr><td>유전자검사</td><td>LDLR/APOB/PCSK9의 병원성 기능 변이 확인</td><td>8</td></tr></tbody></table>
+| 범주             | 항목                                             | 점수 |
+| -------------- | ---------------------------------------------- | -- |
+| 가족력            | 1촌 조기 관상동맥/혈관질환(남 ＜55세, 여 ＜60세) 또는 LDL ＞95백분위수 | 1  |
+| 가족력            | 1촌 건황색종/각막환 또는 18세 미만 자녀의 LDL ＞95백분위수          | 2  |
+| 본인 병력          | 조기 관상동맥질환(남 ＜55세, 여 ＜60세)                      | 2  |
+| 본인 병력          | 조기 뇌혈관/말초혈관질환                                  | 1  |
+| 신체 소견          | 건황색종                                           | 6  |
+| 신체 소견          | 45세 미만 각막환                                     | 4  |
+| 치료 전 LDL (㎎/㎗) | ＞325                                           | 8  |
+| 치료 전 LDL (㎎/㎗) | 251\~325                                       | 5  |
+| 치료 전 LDL (㎎/㎗) | 191\~250                                       | 3  |
+| 치료 전 LDL (㎎/㎗) | 155\~190                                       | 1  |
+| 유전자검사          | LDLR/APOB/PCSK9의 병원성 기능 변이 확인                  | 8  |
 
-* 판정 : ＞8점(≥9점)=확정(definite), 6~8점=가능성 높음(probable), 3~5점=가능성 있음(possible), ＜3점=가능성 낮음(unlikely)
+* 판정 : ＞8점(≥9점)=확정(definite), 6~~8점=가능성 높음(probable), 3~~5점=가능성 있음(possible), ＜3점=가능성 낮음(unlikely)
 * 표의 LDL 구간은 인용 원전의 ㎎/㎗ 표기 기준임. 단위 변환·반올림한 다른 표와 경계값을 섞지 않음
 * Probable 이상이면 1촌 가족의 캐스케이드 선별검사(지질 검사 ± 유전자검사)를 권고
 * 병원성 변이가 검출되지 않아도 임상적 FH를 배제하지 않음. FH에서는 일반 인구용 위험계산기가 평생 위험을 과소평가할 수 있음
@@ -263,19 +279,27 @@ _<mark style="color:$info;">저자 재구성(한국지질·동맥경화학회 20
 
 * 1차 관리 대상은 LDL-C, 2차 관리 대상은 non-HDL-C임. 질환·위험군별 절대 목표치와 아래에 표시한 감소율을 함께 평가
 
-<table><thead><tr><th>질환·위험군</th><th>LDL 목표 (㎎/㎗)</th><th>non-HDL 목표 (㎎/㎗)</th><th>기저치 대비 LDL ≥50% 감소</th></tr></thead><tbody><tr><td>관상동맥질환</td><td>＜55</td><td>＜85</td><td>동시에 목표</td></tr><tr><td>비심장성 혈관질환: 죽상경화성 허혈뇌졸중/TIA, 유의한 경동맥질환, 말초동맥질환, 복부대동맥류</td><td>＜70</td><td>＜100</td><td>동시에 목표</td></tr><tr><td>ASCVD 동반 당뇨병</td><td>＜55</td><td>＜85</td><td>동시에 목표</td></tr><tr><td>고위험 당뇨병: 표적장기손상 또는 주요 위험인자 동반, 또는 유병기간 ≥10년인 2형 당뇨병</td><td>＜70</td><td>＜100</td><td>동시에 목표</td></tr><tr><td>유병기간 ＜10년이고 주요 위험인자·표적장기손상·ASCVD가 없는 당뇨병</td><td>＜100</td><td>＜130</td><td>별도 감소율 목표 없음</td></tr><tr><td>중등도위험군: 주요 위험인자 ≥2개</td><td>＜130</td><td>＜160</td><td>별도 감소율 목표 없음</td></tr><tr><td>저위험군: 주요 위험인자 ≤1개</td><td>＜160</td><td>＜190</td><td>별도 감소율 목표 없음</td></tr></tbody></table>
+| 질환·위험군                                                | LDL 목표 (㎎/㎗) | non-HDL 목표 (㎎/㎗) | 기저치 대비 LDL ≥50% 감소 |
+| ----------------------------------------------------- | ------------ | ---------------- | ------------------ |
+| 관상동맥질환                                                | ＜55          | ＜85              | 동시에 목표             |
+| 비심장성 혈관질환: 죽상경화성 허혈뇌졸중/TIA, 유의한 경동맥질환, 말초동맥질환, 복부대동맥류 | ＜70          | ＜100             | 동시에 목표             |
+| ASCVD 동반 당뇨병                                          | ＜55          | ＜85              | 동시에 목표             |
+| 고위험 당뇨병: 표적장기손상 또는 주요 위험인자 동반, 또는 유병기간 ≥10년인 2형 당뇨병   | ＜70          | ＜100             | 동시에 목표             |
+| 유병기간 ＜10년이고 주요 위험인자·표적장기손상·ASCVD가 없는 당뇨병              | ＜100         | ＜130             | 별도 감소율 목표 없음       |
+| 중등도위험군: 주요 위험인자 ≥2개                                   | ＜130         | ＜160             | 별도 감소율 목표 없음       |
+| 저위험군: 주요 위험인자 ≤1개                                     | ＜160         | ＜190             | 별도 감소율 목표 없음       |
 
 * 죽상경화성 허혈뇌졸중/TIA 중 재발 위험이 높은 경우 LDL ＜55를 선택적으로 고려(IIa, B)
 * 표적장기손상은 알부민뇨, eGFR ＜60 ㎖/min/1.73㎡, 망막병증, 신경병증, 좌심실비대 등을 포함함
 * 표적장기손상 또는 주요 위험인자 ≥3개를 동반한 당뇨병은 LDL ＜55 및 ≥50% 감소를 선택적으로 고려(IIa, B). 조기 발현 1형 당뇨병이 20년 이상이고 표적장기손상이 있으면 강력한 조절을 개별적으로 고려
-* 주요 위험인자 : 연령(남 ≥45세, 여 ≥55세), 조기 관상동맥질환 가족력, 고혈압, 현재 흡연, HDL ＜40. HDL 60~100이면 한 개 차감
-* 중등도위험군에서 LDL 100~129라도 위험강화인자가 있으면 더 적극적인 치료를 고려; 저위험군도 위험강화인자에 따라 목표 강화 가능
+* 주요 위험인자 : 연령(남 ≥45세, 여 ≥55세), 조기 관상동맥질환 가족력, 고혈압, 현재 흡연, HDL ＜40. HDL 60\~100이면 한 개 차감
+* 중등도위험군에서 LDL 100\~129라도 위험강화인자가 있으면 더 적극적인 치료를 고려; 저위험군도 위험강화인자에 따라 목표 강화 가능
 * FH·CKD는 별도 절 참조. CKD만으로 위 표의 특정 LDL 목표를 자동 배정하지 않음
 * TG ＜150은 일반적인 적정 수치이나 HDL 상승 자체를 약물치료 목표로 삼지 않음
-* LDL 상승과 TG 200~499가 동반되면 LDL 목표 달성이 우선. 이후 non-HDL·ApoB 등 잔여 위험과 선택적 IPE 치료 적응증을 평가
+* LDL 상승과 TG 200\~499가 동반되면 LDL 목표 달성이 우선. 이후 non-HDL·ApoB 등 잔여 위험과 선택적 IPE 치료 적응증을 평가
 * 최대 내약 statin ± ezetimibe에도 목표 미달이면 순응도·2차 원인을 확인하고 신속히 강화; 필요 시 지질 전문 진료 의뢰
 
-_<mark style="color:$info;">Ref. [한국지질·동맥경화학회. 이상지질혈증 진료지침 2026](https://lipid.or.kr/reference/guideline.php?boardid=guideline&idx=1456&mode=view)</mark>_
+_<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">한국지질·동맥경화학회. 이상지질혈증 진료지침 2026</mark>_](https://lipid.or.kr/reference/guideline.php?boardid=guideline\&idx=1456\&mode=view)
 
 ### <mark style="color:orange;">ACC/AHA 권고안 (2026)</mark>
 
@@ -283,14 +307,14 @@ _<mark style="color:$info;">Ref. [한국지질·동맥경화학회. 이상지질
 
 * 위험 평가에 [PREVENT-ASCVD 방정식](https://professional.heart.org/en/guidelines-and-statements/prevent-calculator) 사용(30\~79세 적용); 결과가 애매한 경우(경계 위험) risk enhancer(조기 심혈관질환 가족력, 만성 염증질환, Lp(a) ≥125 nmol/L 또는 ≥50 ㎎/㎗, hs-CRP 연속 2회 ≥2 ㎎/L, ApoB ≥120 ㎎/㎗, **South Asian 혈통**, **임신 관련 위험 인자**(임신성 고혈압·전자간증·임신성 당뇨·조산) 등) 또는 CAC score(30\~45세 [CAC](https://www.cac-tools.com/), 45세 이상 [MESA](https://mesa-nhlbi.org/researchers/tools/mesa-score-risk-calculator-nr))로 재평가
 * LDL-C 70\~189 ㎎/㎗ 성인에서 위험도별 권고
-  * 저위험(＜3%) : 생활 습관 중재 우선; 단 **30~59세에서 LDL-C 160\~189 ㎎/㎗ 또는 30년 위험 ≥10%**인 경우 중강도 statin 고려(COR 2a) - 10년 위험은 낮아도 장기 누적 위험이 높은 30\~59세 젊은 환자에서 특히 중요
+  * 저위험(＜3%) : 생활 습관 중재 우선; 단 \*\*30\~59세에서 LDL-C 160\~189 ㎎/㎗ 또는 30년 위험 ≥10%\*\*인 경우 중강도 statin 고려(COR 2a) - 10년 위험은 낮아도 장기 누적 위험이 높은 30\~59세 젊은 환자에서 특히 중요
   * 경계위험(3\~＜5%) : 중강도 statin 고려, ≥30% LDL 감소 & ＜100 ㎎/㎗ 목표
-  * 중등도위험(5\~＜10%) : 중강도 statin(30~49% 감소) 권고, ＜100 ㎎/㎗ 목표
+  * 중등도위험(5\~＜10%) : 중강도 statin(30\~49% 감소) 권고, ＜100 ㎎/㎗ 목표
   * 고위험(≥10%) : 고강도 statin 권고, ＜70 ㎎/㎗ 목표
 * LDL-C ≥190 ㎎/㎗(중증 고콜레스테롤혈증) : 2차 원인·FH를 평가하고 위험계산기 결과와 관계없이 최대 내약 statin을 우선 사용. 필요하면 ezetimibe·PCSK9 단클론항체·bempedoic acid 추가; 목표는 FH·추가 위험·임상 ASCVD 여부에 따라 정하며 임상 ASCVD 동반 시 ＜55 ㎎/㎗
-* 관상동맥석회화점수(CAC score) : 10년 위험 ≥3%이면서 statin 시작 여부나 치료 강도가 불확실한 경우 위험 재분류에 활용. CAC=0이면 당뇨병, 현재 흡연, 강한 조기 ASCVD 가족력 등 고위험 조건이 없는 일부 환자에서 약물치료 연기를 고려하고 3~7년 후 위험도를 재평가할 수 있으며, CAC ≥100 AU 또는 ≥75th percentile이면 statin 시작·강화 근거가 됨
+* 관상동맥석회화점수(CAC score) : 10년 위험 ≥3%이면서 statin 시작 여부나 치료 강도가 불확실한 경우 위험 재분류에 활용. CAC=0이면 당뇨병, 현재 흡연, 강한 조기 ASCVD 가족력 등 고위험 조건이 없는 일부 환자에서 약물치료 연기를 고려하고 3\~7년 후 위험도를 재평가할 수 있으며, CAC ≥100 AU 또는 ≥75th percentile이면 statin 시작·강화 근거가 됨
 * 40\~75세 당뇨병 성인 : 중강도 statin으로 LDL-C ＜100 ㎎/㎗ 목표(대부분 중등도\~고위험으로 간주); 다중 위험인자 동반 시 고강도 statin & ＜70 ㎎/㎗ 고려
-* 40~75세의 비투석 CKD 3~4기 또는 HIV 감염도 위험계산기 결과와 별도로 statin 기반 치료 적응증을 평가함
+* 40~~75세의 비투석 CKD 3~~4기 또는 HIV 감염도 위험계산기 결과와 별도로 statin 기반 치료 적응증을 평가함
 * 20\~39세 당뇨병 : 일률적 치료보다는 당뇨병 특이 risk enhancer(2형 유병기간 ≥10년, 1형 ≥20년 등) 평가 후 결정
 
 #### <mark style="color:$primary;">2차 예방 (임상 ASCVD 기왕력)</mark>
@@ -316,7 +340,7 @@ _<mark style="color:$info;">Ref. [한국지질·동맥경화학회. 이상지질
 * Lp(a) : 모든 성인에서 ASCVD 위험 평가를 위해 최소 1회 측정 권고; 100 ㎎/㎗에서 상대위험 약 2배, 180 ㎎/㎗에서 약 4배 이상 증가
 * ApoB : atherogenic lipid burden을 대표하는 지표로, 특히 고TG혈증·당뇨병·CKD 등 LDL-C와 실제 위험도가 불일치할 수 있는 상황에서 유용
 
-_<mark style="color:$info;">Ref. ACC/AHA et al. 2026 Guideline on the Management of Dyslipidemia; [ACC 요약](https://www.acc.org/Latest-in-Cardiology/Articles/2026/07/01/01/Prioritizing-Health)</mark>_
+_<mark style="color:$info;">Ref. ACC/AHA et al. 2026 Guideline on the Management of Dyslipidemia;</mark>_ [_<mark style="color:$info;">ACC 요약</mark>_](https://www.acc.org/Latest-in-Cardiology/Articles/2026/07/01/01/Prioritizing-Health)
 
 ### <mark style="color:orange;">ESC/EAS 권고안 (2025)</mark>
 
@@ -336,22 +360,32 @@ LDL 목표치는 2019년판과 동일하게 유지함. 1차 예방에서는 SCOR
 
 * non-HDL : 초고위험/고위험/중등위험 환자의 2차 목표치 - 각각 85/100/130 ㎎/㎗ 미만
 * ApoB : 초고위험/고위험/중등위험 환자의 2차 목표치 - 각각 65/80/100 ㎎/㎗ 미만
-* TG 상승 시 다른 위험인자·2차 원인을 확인. Statin 치료 중 TG 135~499 ㎎/㎗가 지속되는 고위험·초고위험군에서 IPE 2 g bid 추가를 고려
+* TG 상승 시 다른 위험인자·2차 원인을 확인. Statin 치료 중 TG 135\~499 ㎎/㎗가 지속되는 고위험·초고위험군에서 IPE 2 g bid 추가를 고려
 * 혈압·HbA1c 목표는 각각의 최신 질환 지침과 환자 상태에 따라 개별화
 
-#### <mark style="color:$primary;">초고위험 ASCVD 정의</mark>&#x20;
+#### <mark style="color:$primary;">초고위험 ASCVD 정의</mark>
 
 * 임상적으로 확인된 ASCVD(ACS·심근경색·협심증·관상동맥 재관류술, 허혈뇌졸중/TIA, PAD 등)는 초고위험군임
 * 영상에서 명확히 확인된 유의한 죽상경화성 질환도 초고위험군에 포함될 수 있음. 임상 관상동맥질환과 무증상 영상 소견을 구분하고, 병변의 범위·협착 정도·임상 맥락을 종합하여 위험군을 정함
 * 경동맥의 유의한 plaque 등은 병변 정도·임상 맥락에 따라 판단하며, 경미한 무증상 경동맥·대퇴동맥 plaque는 위험 수정 인자로 활용함
 * CAC는 독립된 자동 초고위험군 기준이라기보다 치료 결정이 불확실한 경우 활용하는 위험 수정 인자임
-* 2025 ESC/EAS의 SCORE2/SCORE2-OP 기반 10년 위험 분류 : 저위험 ＜2%, 중등도 2~＜10%, 고위험 10~＜20%, 초고위험 ≥20%. 연령에 맞는 도구와 유럽 지역별 보정 모델을 사용하며, 기존 ASCVD·당뇨병·CKD·FH에는 일반 건강인용 위험점수만으로 위험군을 배정하지 않음
+* 2025 ESC/EAS의 SCORE2/SCORE2-OP 기반 10년 위험 분류 : 저위험 ＜2%, 중등도 2\~＜10%, 고위험 10\~＜20%, 초고위험 ≥20%. 연령에 맞는 도구와 유럽 지역별 보정 모델을 사용하며, 기존 ASCVD·당뇨병·CKD·FH에는 일반 건강인용 위험점수만으로 위험군을 배정하지 않음
 
-_<mark style="color:$info;">Ref. [2025 Focused Update of the 2019 ESC/EAS Guidelines](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/dyslipidaemias/)</mark>_
+_<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">2025 Focused Update of the 2019 ESC/EAS Guidelines</mark>_](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/dyslipidaemias/)
 
 ### <mark style="color:orange;">가이드라인별 LDL 조절 전략 비교</mark>
 
-<table><thead><tr><th>구분</th><th>ESC/EAS 2025</th><th>ACC/AHA 2026</th><th>한국지질·동맥경화학회 2026</th></tr></thead><tbody><tr><td>위험도 평가</td><td>SCORE2/SCORE2-OP와 위험 수정 인자</td><td>PREVENT-ASCVD(30~79세), 위험강화인자·CAC</td><td>질환군·주요 위험인자 개수 + 위험강화인자·CAC</td></tr><tr><td>LDL ＜55 목표</td><td>초고위험군; 기저치 대비 ≥50% 감소</td><td>Very high-risk 임상 ASCVD</td><td>관상동맥질환·ASCVD 동반 당뇨병; 재발 위험 높은 허혈뇌졸중 및 일부 고위험 당뇨병은 선택적</td></tr><tr><td>그 밖의 LDL 목표</td><td>고위험 ＜70, 중등도 ＜100, 저위험 ＜116</td><td>비-초고위험 임상 ASCVD ＜70; 1차예방은 위험도별 목표</td><td>비심장성 혈관질환·고위험 당뇨병 ＜70; 위험인자 없는 단기 당뇨병 ＜100; 중등도 ＜130; 저위험 ＜160</td></tr><tr><td>Ezetimibe</td><td>목표 미달 시 추가; ACS 조기 병용 고려</td><td>목표 미달 시 병용 약제로 권고</td><td>목표 미달 시 추가; ACS 초기 병용 고려</td></tr><tr><td>PCSK9 단클론항체</td><td>고위험 상황에서 목표 미달 시 추가</td><td>ASCVD 위험·필요 강하율에 따라 추가</td><td>최대 내약 statin+ezetimibe에도 목표 미달 시 고려</td></tr><tr><td>Inclisiran</td><td>LDL 저하 효과; 심혈관 사건 결과와 구분</td><td>PCSK9 단클론항체 사용 곤란·저빈도 투여 선호 등에서 선택적 고려</td><td>LDL 저하 약제로 소개; 국내 허가 있음</td></tr><tr><td>Bempedoic acid</td><td>Statin 불내성 등의 치료 선택지</td><td>Statin 근육 증상 및 목표 미달 상황에 따라 선택</td><td>Statin 불내성·목표 미달에서 고려; 넥스레톨정180mg 국내 허가(2026.10.14), 출시·급여와 구분</td></tr><tr><td>영상/CAC</td><td>위험 수정·재분류에 활용</td><td>CAC 부담별 치료 강화</td><td>중등도·저위험군의 치료 결정에 활용</td></tr><tr><td>IPE</td><td>Statin 치료 후 TG 135~499인 고위험군에서 4 g/d 고려</td><td>선택된 ASCVD 또는 당뇨병 환자에서 TG 150~499 시 고려</td><td>Statin 치료 후 TG 135~499인 ASCVD·고위험 당뇨병에서 4 g/d 고려</td></tr></tbody></table>
+| 구분             | ESC/EAS 2025                             | ACC/AHA 2026                           | 한국지질·동맥경화학회 2026                                               |
+| -------------- | ---------------------------------------- | -------------------------------------- | -------------------------------------------------------------- |
+| 위험도 평가         | SCORE2/SCORE2-OP와 위험 수정 인자               | PREVENT-ASCVD(30\~79세), 위험강화인자·CAC     | 질환군·주요 위험인자 개수 + 위험강화인자·CAC                                    |
+| LDL ＜55 목표     | 초고위험군; 기저치 대비 ≥50% 감소                    | Very high-risk 임상 ASCVD                | 관상동맥질환·ASCVD 동반 당뇨병; 재발 위험 높은 허혈뇌졸중 및 일부 고위험 당뇨병은 선택적          |
+| 그 밖의 LDL 목표    | 고위험 ＜70, 중등도 ＜100, 저위험 ＜116              | 비-초고위험 임상 ASCVD ＜70; 1차예방은 위험도별 목표     | 비심장성 혈관질환·고위험 당뇨병 ＜70; 위험인자 없는 단기 당뇨병 ＜100; 중등도 ＜130; 저위험 ＜160 |
+| Ezetimibe      | 목표 미달 시 추가; ACS 조기 병용 고려                 | 목표 미달 시 병용 약제로 권고                      | 목표 미달 시 추가; ACS 초기 병용 고려                                       |
+| PCSK9 단클론항체    | 고위험 상황에서 목표 미달 시 추가                      | ASCVD 위험·필요 강하율에 따라 추가                 | 최대 내약 statin+ezetimibe에도 목표 미달 시 고려                            |
+| Inclisiran     | LDL 저하 효과; 심혈관 사건 결과와 구분                 | PCSK9 단클론항체 사용 곤란·저빈도 투여 선호 등에서 선택적 고려 | LDL 저하 약제로 소개; 국내 허가 있음                                        |
+| Bempedoic acid | Statin 불내성 등의 치료 선택지                     | Statin 근육 증상 및 목표 미달 상황에 따라 선택         | Statin 불내성·목표 미달에서 고려; 넥스레톨정180mg 국내 허가(2026.10.14), 출시·급여와 구분 |
+| 영상/CAC         | 위험 수정·재분류에 활용                            | CAC 부담별 치료 강화                          | 중등도·저위험군의 치료 결정에 활용                                            |
+| IPE            | Statin 치료 후 TG 135\~499인 고위험군에서 4 g/d 고려 | 선택된 ASCVD 또는 당뇨병 환자에서 TG 150\~499 시 고려 | Statin 치료 후 TG 135\~499인 ASCVD·고위험 당뇨병에서 4 g/d 고려              |
 
 _✽위험군 명칭·대상·권고 강도가 서로 다르므로 동일 명칭만으로 목표를 대응시키지 않음. 국외 약제 근거와 국내 허가·급여는 별개임 - 저자 편집_
 
@@ -361,7 +395,7 @@ _✽본 표는 저자가 여러 가이드라인 원문을 비교·요약한 것�
 
 * 금연 : 모든 형태의 담배/흡연 금지
 * 식이 : 포화지방산 제한; 전곡류, 채소, 과일, 생선 권장
-* 신체 활동 : 주 150~300분 중등 강도 또는 75~150분 고강도 유산소 운동 + 주 2일 이상 근력 운동; 좌식 시간을 줄임
+* 신체 활동 : 주 150~~300분 중등 강도 또는 75~~150분 고강도 유산소 운동 + 주 2일 이상 근력 운동; 좌식 시간을 줄임
 * 체중 관리 : 비만 시 현재 체중의 5\~10% 감량 또는 평소보다 500 ㎉/d 감량 섭취
 
 ### <mark style="color:orange;">생활 습관 중재 방법과 효과</mark>
@@ -380,7 +414,7 @@ _<mark style="color:$info;">효과 크기는 중재 강도·기저 수치에 따
 * 제한 : 음주는 시작을 권하지 않으며 가급적 금주 또는 최소화(TG ≥500에서는 금주), 소금(＜5 g/d), 첨가당·설탕 가미 음료, 포화지방·트랜스지방, 가공육·과도한 붉은 고기
   * 지나친 지방 섭취 제한은 탄수화물 섭취를 증가시켜 TG 상승을 유발할 수 있음
   * 국내 2026 이상지질혈증 지침 : 총지방은 총에너지의 **30% 이내**, 포화지방산은 **7% 이내**로 제한하고 불포화지방으로 대체. TG ≥1,000의 매우 저지방식은 별도 적용
-  * 총탄수화물은 총에너지의 50~65%, 총당류는 20% 이내·첨가당은 10% 이내를 고려하며 정제 탄수화물을 줄임
+  * 총탄수화물은 총에너지의 50\~65%, 총당류는 20% 이내·첨가당은 10% 이내를 고려하며 정제 탄수화물을 줄임
 * 식이 섬유 : 1일 25\~40 g의 식이 섬유 섭취(최소 7\~13 g의 수용성 식이 섬유 포함) <mark style="color:$info;">\[ESC]</mark>
   * 수용성 식이 섬유 : 성분 예) 실리움, 베타 글루칸, 펙틴, 구아검, 알긴산; 식품 예) 잡곡, 전곡류, 해조류, 채소, 과일
 
@@ -399,8 +433,8 @@ _<mark style="color:$info;">효과 크기는 중재 강도·기저 수치에 따
    * TG 저하 : 단당류·이당류 제한, 오메가-3 지방산 섭취, 체중 감량
    * HDL 상승 : 불포화지방 섭취, 금연, 규칙적 운동
 3. **신체 활동 단계** : 유산소 운동(주 5회 이상, 30\~60분 - 걷기, 자전거, 수영 등), 근력 운동(주 2\~3회 병행), 좌식 생활 감소(1시간 이상 앉아 있을 경우 5분 이상 스트레칭)
-4. **체중 및 음주 관리 단계** : 과체중·비만에서는 초기 6개월 체중 5~10% 감량을 목표로 개별화하고 허리둘레·대사 지표 개선을 평가(복부비만 기준: 남 ≥90 ㎝, 여 ≥85 ㎝), 음주는 HDL 상승 효과보다 전체 심혈관 위험을 고려하여 절주 또는 금주 권장
-5. **추적 및 강화 단계** : 생활습관 단독 중재는 약 3~6개월 후, 약물 시작·용량 변경은 4~12주 후 지질 재평가, 개선 미흡 시 영양사·운동 전문가 연계, 필요 시 약물치료 병행
+4. **체중 및 음주 관리 단계** : 과체중·비만에서는 초기 6개월 체중 5\~10% 감량을 목표로 개별화하고 허리둘레·대사 지표 개선을 평가(복부비만 기준: 남 ≥90 ㎝, 여 ≥85 ㎝), 음주는 HDL 상승 효과보다 전체 심혈관 위험을 고려하여 절주 또는 금주 권장
+5. **추적 및 강화 단계** : 생활습관 단독 중재는 약 3~~6개월 후, 약물 시작·용량 변경은 4~~12주 후 지질 재평가, 개선 미흡 시 영양사·운동 전문가 연계, 필요 시 약물치료 병행
 
 ## <mark style="color:green;">약물 치료</mark>
 
@@ -408,8 +442,8 @@ _<mark style="color:$info;">효과 크기는 중재 강도·기저 수치에 따
 
 #### <mark style="color:$primary;">약물 치료 대상</mark>
 
-* 저·중등도위험군에서 생활습관을 수주~수개월 교정한 후에도 목표에 도달하지 못하면 약물치료 고려; 위험강화인자가 있으면 더 이른 치료를 개별화
-* LDL ≥190 ㎎/㎗, ASCVD, 치료 적응증이 있는 당뇨병·CKD 등은 생활습관 단독 치료 3~6개월을 일률적으로 기다리지 않음
+* 저·중등도위험군에서 생활습관을 수주\~수개월 교정한 후에도 목표에 도달하지 못하면 약물치료 고려; 위험강화인자가 있으면 더 이른 치료를 개별화
+* LDL ≥190 ㎎/㎗, ASCVD, 치료 적응증이 있는 당뇨병·CKD 등은 생활습관 단독 치료 3\~6개월을 일률적으로 기다리지 않음
 * TG ≥500 ㎎/㎗가 지속되면 췌장염 예방을 위한 식이·금주·2차 원인 교정과 약물치료를 신속히 평가
 
 #### <mark style="color:$primary;">LDL 조절을 위한 약물 요법 원칙</mark>
@@ -422,11 +456,11 @@ _<mark style="color:$info;">효과 크기는 중재 강도·기저 수치에 따
 
 #### <mark style="color:$primary;">TG 조절을 위한 약물 요법 - 단계별 접근</mark>
 
-* **TG 150~199 ㎎/㎗** : 생활습관·2차 원인 교정이 기본. TG 수치만으로 저하제를 일률적으로 시작하지 않으며 ASCVD 위험에 따른 statin 적응증을 별도로 평가
-* **TG 200~499 ㎎/㎗** : LDL·non-HDL 조절과 ASCVD 예방을 위한 statin이 우선
-* **TG 500~999 ㎎/㎗** : 췌장염 예방을 위해 금주, 첨가당·정제 탄수화물 제한, 저지방식과 총지방 제한의 개별화; 2차 원인을 교정하고 지속 상승 시 fibrate 또는 처방용 omega-3 고려
-* **TG ≥1,000 ㎎/㎗** : 매우 저지방식(총에너지의 약 10~15%, 대개 지방 ≤20~30 g/d), 금주·첨가당 제한, 고혈당 신속 교정 및 TG 저하 치료; 복통·구토 시 췌장염을 즉시 평가
-* **ASCVD 잔여 위험 감소를 위한 IPE** : 최대 내약 statin 치료 후에도 TG 135~499 ㎎/㎗가 지속되는 ASCVD·고위험 당뇨병 환자에서 2 g bid(총 4 g/d)를 고려. 국외 EPA 단독 IPE의 근거이며 국내 EPA+DHA 혼합제·일반 보충제로 대체하여 같은 사건 감소 효과를 기대하지 않음
+* **TG 150\~199 ㎎/㎗** : 생활습관·2차 원인 교정이 기본. TG 수치만으로 저하제를 일률적으로 시작하지 않으며 ASCVD 위험에 따른 statin 적응증을 별도로 평가
+* **TG 200\~499 ㎎/㎗** : LDL·non-HDL 조절과 ASCVD 예방을 위한 statin이 우선
+* **TG 500\~999 ㎎/㎗** : 췌장염 예방을 위해 금주, 첨가당·정제 탄수화물 제한, 저지방식과 총지방 제한의 개별화; 2차 원인을 교정하고 지속 상승 시 fibrate 또는 처방용 omega-3 고려
+* **TG ≥1,000 ㎎/㎗** : 매우 저지방식(총에너지의 약 10~~15%, 대개 지방 ≤20~~30 g/d), 금주·첨가당 제한, 고혈당 신속 교정 및 TG 저하 치료; 복통·구토 시 췌장염을 즉시 평가
+* **ASCVD 잔여 위험 감소를 위한 IPE** : 최대 내약 statin 치료 후에도 TG 135\~499 ㎎/㎗가 지속되는 ASCVD·고위험 당뇨병 환자에서 2 g bid(총 4 g/d)를 고려. 국외 EPA 단독 IPE의 근거이며 국내 EPA+DHA 혼합제·일반 보충제로 대체하여 같은 사건 감소 효과를 기대하지 않음
 
 _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA 2026; REDUCE-IT</mark>_
 
@@ -449,7 +483,7 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA 
 
 #### <mark style="color:$primary;">Statin의 작용 강도에 따른 분류</mark>
 
-<table data-header-hidden><thead><tr><th width="91"></th><th width="90"></th><th></th><th width="220"></th></tr></thead><tbody><tr><td><strong>강도 분류</strong></td><td><strong>LDL</strong> <br><strong>강하율</strong></td><td><strong>약제 및 용량</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>고강도</strong></td><td>≥50%</td><td>atorvastatin 40–80 ㎎, rosuvastatin 20 ㎎(국외 40 ㎎)</td><td>심혈관질환 2차 예방에 우선 사용</td></tr><tr><td><strong>중등강도</strong></td><td>30–49%</td><td>atorvastatin 10–20 ㎎, rosuvastatin 5–10 ㎎, simvastatin 20–40 ㎎, pravastatin 40 ㎎(국외 80 ㎎), lovastatin 40–80 ㎎, fluvastatin XL 80 ㎎(또는 40 ㎎ bid), pitavastatin 1–4 ㎎</td><td>RCT에서 주요 심혈관 사건 감소 입증된 용량대</td></tr><tr><td><strong>저강도</strong></td><td>＜30%</td><td>simvastatin 10 ㎎, pravastatin 10–20 ㎎, lovastatin 20 ㎎, fluvastatin 20–40 ㎎</td><td>고령·저위험군에서 고려 가능</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="91"></th><th width="90"></th><th></th><th width="220"></th></tr></thead><tbody><tr><td><strong>강도 분류</strong></td><td><strong>LDL</strong><br><strong>강하율</strong></td><td><strong>약제 및 용량</strong></td><td><strong>비고</strong></td></tr><tr><td><strong>고강도</strong></td><td>≥50%</td><td>atorvastatin 40–80 ㎎, rosuvastatin 20 ㎎(국외 40 ㎎)</td><td>심혈관질환 2차 예방에 우선 사용</td></tr><tr><td><strong>중등강도</strong></td><td>30–49%</td><td>atorvastatin 10–20 ㎎, rosuvastatin 5–10 ㎎, simvastatin 20–40 ㎎, pravastatin 40 ㎎(국외 80 ㎎), lovastatin 40–80 ㎎, fluvastatin XL 80 ㎎(또는 40 ㎎ bid), pitavastatin 1–4 ㎎</td><td>RCT에서 주요 심혈관 사건 감소 입증된 용량대</td></tr><tr><td><strong>저강도</strong></td><td>＜30%</td><td>simvastatin 10 ㎎, pravastatin 10–20 ㎎, lovastatin 20 ㎎, fluvastatin 20–40 ㎎</td><td>고령·저위험군에서 고려 가능</td></tr></tbody></table>
 
 _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA. 강도 분류의 국외 용량과 국내 허가용량을 구분함.</mark>_
 
@@ -463,7 +497,7 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA.
 
 * lovastatin : 통상 시작 용량 20 ㎎(범위 10\~80 ㎎), 저녁 식사와 함께 복용 <mark style="color:blue;">\[로바로드]</mark>
 * simvastatin : 심장 약물(amiodarone, amlodipine, diltiazem, dronedarone, ranolazine, verapamil) 병용 시 용량 제한; 20 ㎎(5\~40 ㎎), 저녁 복용 <mark style="color:blue;">\[조코]</mark>
-* pravastatin : 40 ㎎(국내 10~40 ㎎), 저녁 복용 <mark style="color:blue;">\[메바로친]</mark>
+* pravastatin : 40 ㎎(국내 10\~40 ㎎), 저녁 복용 <mark style="color:blue;">\[메바로친]</mark>
 * fluvastatin : 40 ㎎(20\~80 ㎎), 저녁 복용 <mark style="color:blue;">\[레스콜]</mark>
 * atorvastatin : 10\~20 ㎎(10\~80 ㎎), 복용 시간·식사 무관 <mark style="color:blue;">\[리피토]</mark>
 * rosuvastatin : 국내 크레스토 허가상 **5 ㎎ qd로 시작**, 통상 유지 10 ㎎, 최대 20 ㎎/d; 복용 시간·식사 무관. 중증 신장애(**CrCl ＜30 ㎖/min**)는 금기이며 중등도 신장애에서 20 ㎎은 각별히 주의 <mark style="color:blue;">\[크레스토]</mark>
@@ -491,7 +525,7 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA.
 * 효과 : LDL↓; statin 복합 시 LDL 34\~61%↓, fenofibrate 복합 시 LDL 20\~22%↓
 * statin과 병합 사용(statin에 대한 우선 병용 약제) 또는 statin 불내성·금기 환자에서 단독 사용
 * 부작용 : 복통, 설사, 부글거림, 피로감, 근육병증(드묾)
-* 임신·수유 시 국내 제품 허가사항의 제한을 적용함. 중등도~중증 간장애에서는 권장하지 않으며 statin 병용 시 해당 statin의 금기도 적용
+* 임신·수유 시 국내 제품 허가사항의 제한을 적용함. 중등도\~중증 간장애에서는 권장하지 않으며 statin 병용 시 해당 statin의 금기도 적용
 * 신기능에 따른 ezetimibe 용량 조절은 통상 필요하지 않음
 * ezetimibe : 10 ㎎/d qd, 식사 무관 복용 <mark style="color:blue;">\[이지트롤]</mark>
 
@@ -500,8 +534,8 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA.
 * 효과 : TG↓; LDL 변화는 기저 TG 등에 따라 달라짐. ASCVD 감소 효과는 전체 대상에서 대체로 중립적이며, 일부 고TG·저HDL 하위군의 이득 가능성도 확립되지 않음(PROMINENT에서도 사건 감소를 입증하지 못함)
 * TG ≥500 ㎎/㎗, 특히 ≥1,000 ㎎/㎗에서 췌장염 예방 목적으로 고려. 이 수치 범위에서 췌장염 사건 감소를 직접 입증한 무작위시험 근거는 제한적이며 TG 감소 효과와 임상 위험에 근거한 권고임. ASCVD 예방 목적의 기본 약제는 statin이며, statin과 fibrate를 모든 고중성지방혈증 환자에게 일률적으로 병용하지 않음
 * 부작용 : 소화 장애, 담석, 간염, 근육병증
-* 주의/금기 : warfarin 병용(항응고작용↑), statin 병용(근육병증↑). Fenofibrate는 국내 리피딜슈프라 허가상 간장애·선재성 담낭질환·임신/수유·소아·중등도~중증 신장애에서 금기
-* **리피딜슈프라의 국내 신장애 기준** : 혈청 creatinine ≥2.5 ㎎/㎗이면 투여하지 않음; 1.5~＜2.5 ㎎/㎗는 감량 또는 투여 간격 연장. 임상적으로 eGFR 30~59는 감량, ＜30은 회피 원칙도 함께 고려하되, 다른 제형의 저용량을 160 ㎎정에 임의 환산하지 않음
+* 주의/금기 : warfarin 병용(항응고작용↑), statin 병용(근육병증↑). Fenofibrate는 국내 리피딜슈프라 허가상 간장애·선재성 담낭질환·임신/수유·소아·중등도\~중증 신장애에서 금기
+* **리피딜슈프라의 국내 신장애 기준** : 혈청 creatinine ≥2.5 ㎎/㎗이면 투여하지 않음; 1.5\~＜2.5 ㎎/㎗는 감량 또는 투여 간격 연장. 임상적으로 eGFR 30\~59는 감량, ＜30은 회피 원칙도 함께 고려하되, 다른 제형의 저용량을 160 ㎎정에 임의 환산하지 않음
 * fenofibrate : statin 병용에 상대적으로 안전; 160 ㎎ qd 식후 즉시(제형 간 함량·생체이용률이 달라 임의 환산하지 않음) <mark style="color:blue;">\[리피딜 슈프라]</mark>
 * bezafibrate : 200\~600 ㎎ #2\~3 식후 <mark style="color:blue;">\[베자립]</mark>
 * Gemfibrozil은 statin 병용 시 근육병증 위험이 높아 병용을 피함. Ciprofibrate·gemfibrozil은 국내 유통이 확인된 약제로 제시하지 않음
@@ -529,10 +563,9 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ACC/AHA.
   * 최대 내약 statin 치료에 추가했을 때 LDL 강하와 함께 ASCVD 사건을 감소시킴
 * 가족성 고콜레스테롤혈증 등에서 statin에 추가 고려
 * 부작용 : 주사 부위 반응
-* alirocumab : 통상 75 ㎎ 격주 피하주사. 큰 LDL 감소가 필요하면 150 ㎎ 격주 또는 300 ㎎ 4주마다로 시작 가능; 4~8주 후 반응에 따라 조절 <mark style="color:blue;">\[프랄런트펜주]</mark>. 국내 허가된 성인 치료제임
+* alirocumab : 통상 75 ㎎ 격주 피하주사. 큰 LDL 감소가 필요하면 150 ㎎ 격주 또는 300 ㎎ 4주마다로 시작 가능; 4\~8주 후 반응에 따라 조절 <mark style="color:blue;">\[프랄런트펜주]</mark>. 국내 허가된 성인 치료제임
 * evolocumab : 140 ㎎ 격주 또는 420 ㎎ 매월 피하주사 <mark style="color:blue;">\[레파타 주]</mark> (ASCVD 급여 경로: 급여상 초고위험군이면서 최대 내약 statin+ezetimibe에도 LDL ≥70 또는 감소율 ＜50%. 주요 ASCVD ≥2개 또는 주요 ASCVD 1개+고위험요인 ≥2개 등 급여상 위험군 정의가 선행하며, HeFH·HoFH·불내성 경로는 별도임)
 * **FOURIER 시험(NEJM 2017)** : statin 치료 중인 ASCVD 환자(LDL ≥70 ㎎/㎗) 27,564명을 evolocumab군과 위약군으로 무작위 배정; 심혈관 사망·심근경색·뇌졸중·불안정 협심증 입원·관상동맥 재관류술의 복합 발생률이 evolocumab군 9.8% vs 위약군 11.3%(HR 0.85, 95% CI 0.79\~0.92, P＜0.001) - PCSK9 단클론항체의 심혈관 사건 감소 근거. Alirocumab도 ODYSSEY OUTCOMES에서 사건 감소를 입증함
-
 * **VESALIUS-CV(NEJM 2026)** : 이전 심근경색·뇌졸중이 없지만 죽상경화증 또는 고위험 당뇨병이 있고 LDL ≥90인 환자에서 evolocumab이 3-point MACE를 감소시킴(5년 추정 6.2% vs 8.0%, HR 0.75). 일반 저위험 일차예방 환자에게 그대로 확대 적용하지 않음
 
 _<mark style="color:$info;">Ref. Bohula EA et al. N Engl J Med. 2026;394:117–127. doi:10.1056/NEJMoa2514428</mark>_
@@ -549,7 +582,7 @@ MSD가 개발한 macrocyclic peptide 계열의 **경구용** PCSK9 억제제로,
 * 부작용 : 설사(7% vs 위약 2%), 어지럼증(9% vs 위약 4%); 이상반응에 따른 치료 중단율은 위약군과 유사
 * **심혈관 사건 감소 효과는 아직 입증되지 않음**(CORALreef Outcomes 연구 진행 중) - 장기 심혈관 이득이 확인된 evolocumab·alirocumab과는 근거 수준이 다르므로 이 점을 감안하여 참고할 것
 
-_<mark style="color:$info;">Ref. [FDA. Lipfendra(enlicitide) approval, 2026](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)</mark>_
+_<mark style="color:$info;">Ref.</mark>_ [_<mark style="color:$info;">FDA. Lipfendra(enlicitide) approval, 2026</mark>_](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
 
 ### <mark style="color:orange;">Inclisiran (siRNA 기반 PCSK9 억제제)</mark>
 
@@ -560,12 +593,12 @@ _<mark style="color:$info;">Ref. [FDA. Lipfendra(enlicitide) approval, 2026](htt
 
 ### <mark style="color:orange;">Bempedoic acid (벰페도익산)</mark>
 
-* ATP-citrate lyase(ACL) 억제제; LDL 약 17~28% 감소
+* ATP-citrate lyase(ACL) 억제제; LDL 약 17\~28% 감소
 * **국내 허가: 2026.10.14, 넥스레톨정180mg**. 제조사 허가 공지로 확인하였으며 실제 출시·유통 및 건강보험 등재와는 구분함(2026.10.27 검토)
 * 국내 적응증 : 성인 원발성 고콜레스테롤혈증(HeFH 포함)·혼합형 이상지질혈증에서 최대 내약 statin으로 조절 불충분 시 병용, statin 불내성·금기 시 단독 또는 다른 지질저하제와 병용
 * 심혈관 위험 감소 적응증 : 권고되는 statin 치료를 사용할 수 없는 성인 중 심혈관질환 병력 또는 심혈관질환 고위험이 있는 환자의 **심근경색·관상동맥 재관류술 위험 감소**. 모든 사망·뇌졸중 감소 적응증으로 확대하지 않음
 * **국내 허가용법** : 1회 180 ㎎, 1일 1회, 식사와 관계없이 경구 투여 <mark style="color:blue;">\[넥스레톨정180mg]</mark>. 투여 중 표준 콜레스테롤 저하식을 지속함
-* **추적 검사** : 복용 시작 후 8~12주 이내에 지질 수치를 모니터링함
+* **추적 검사** : 복용 시작 후 8\~12주 이내에 지질 수치를 모니터링함
 * CLEAR Outcomes : 180 ㎎ qd를 사용한 statin 불내성 환자 13,970명 연구에서 4-point MACE 11.7% vs 13.3%(HR 0.87)
 * 부작용 : 고요산혈증·통풍, 담석, 간효소 상승, 건손상/건파열 가능성. Simvastatin·pravastatin과 병용 시 노출 증가 및 용량 제한에 유의
 
@@ -578,7 +611,7 @@ _<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 
   * AHA는 중성지방 강하를 위하여 4 g/d(＞3 g/d)의 EPA+DHA 또는 EPA 단독 투여를 권고
 * 부작용 : 관절통, 트림, 소화불량, 변비, 가려움, 출혈 위험 증가 가능성(항혈전제 병용 시 주의), (간 장애 환자에서) ALT↑
   * 1 g 이상의 해양 오메가-3 보충제 복용은 용량에 비례하여 심방세동 위험 증가와 관련이 있다는 보고가 있음
-* omega-3-acid ethyl esters(EPA+DHA) : 2 g/d, 필요 시 4 g/d로 증량하여 1~2회 식사와 함께 복용 <mark style="color:blue;">\[오마코]</mark>
+* omega-3-acid ethyl esters(EPA+DHA) : 2 g/d, 필요 시 4 g/d로 증량하여 1\~2회 식사와 함께 복용 <mark style="color:blue;">\[오마코]</mark>
 * DHA 함유 제제는 LDL을 높일 수 있음. EPA 단독 IPE의 ASCVD 사건 감소 근거와 EPA+DHA 제제의 TG 저하 효과를 구분함
 
 ### <mark style="color:orange;">병용 요법</mark>
@@ -600,7 +633,7 @@ _<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 
 
 ## <mark style="color:green;">특수 상황별 관리</mark>
 
-### <mark style="color:orange;">당뇨병 환자의 이상지질혈증 <mark style="color:$info;">\[ADA]</mark></mark>
+### <mark style="color:orange;">당뇨병 환자의 이상지질혈증</mark> <mark style="color:orange;"></mark><mark style="color:$info;"><mark style="color:orange;">\[ADA]<mark style="color:orange;"></mark>
 
 #### <mark style="color:$primary;">1차 예방</mark>
 
@@ -615,10 +648,9 @@ _<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 
 * ASCVD와 당뇨병이 있는 모든 연령의 환자 : 생활 습관 중재 및 고강도 statin 치료
 * ASCVD와 당뇨병이 있는 경우 LDL ≥50% 줄임 & LDL ＜55 ㎎/㎗ 목표의 고강도 statin 치료 권고; 최대 내약 용량의 statin에도 목표를 달성하지 못할 경우 ezetimibe 또는 PCSK9i 추가
 
-### <mark style="color:orange;">대사증후군 및 T2DM에서의 non-HDL과 ApoB 관리 목표 [ESC/EAS]</mark>
+### <mark style="color:orange;">대사증후군 및 T2DM에서의 non-HDL과 ApoB 관리 목표 \[ESC/EAS]</mark>
 
 * 대사증후군만으로 아래 목표를 일률 적용하지 않고 ASCVD·동반 질환에 따른 ESC/EAS 위험군을 먼저 결정; 국내 목표와 구분함
-
 * 고위험군 : non-HDL ＜100 ㎎/㎗, ApoB ＜80 ㎎/㎗
 * 초고위험군 : non-HDL ＜85 ㎎/㎗, ApoB ＜65 ㎎/㎗
 * 재발성 ASCVD가 있는 초고위험군 : non-HDL ＜70 ㎎/㎗, ApoB ＜55 ㎎/㎗
@@ -627,8 +659,8 @@ _<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 
 
 * LDL 수치와 관계없이 금기가 없으면 가능한 빨리 고강도 statin 시작
 * 초기부터 최대 내약 statin+ezetimibe 병용을 고려하여 LDL ＜55 ㎎/㎗ 및 ≥50% 감소 목표의 조기 달성을 도모
-* 기존 치료·기저 LDL·필요 강하율에 따라 입원 중 치료 강화와 PCSK9 단클론항체 추가를 개별화. 각 약제를 반드시 4~6주씩 순서대로 기다리는 방식으로 지연하지 않음
-* 치료 시작·강화 후 약 4~6주에 지질·안전성을 평가하고 목표 미달이면 순응도·2차 원인 확인 후 강화
+* 기존 치료·기저 LDL·필요 강하율에 따라 입원 중 치료 강화와 PCSK9 단클론항체 추가를 개별화. 각 약제를 반드시 4\~6주씩 순서대로 기다리는 방식으로 지연하지 않음
+* 치료 시작·강화 후 약 4\~6주에 지질·안전성을 평가하고 목표 미달이면 순응도·2차 원인 확인 후 강화
 * Statin을 사용할 수 없으면 ezetimibe·PCSK9 단클론항체 등 비스타틴 요법을 필요한 강하율에 맞추어 선택
 
 _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ESC/EAS 2025</mark>_
@@ -641,7 +673,7 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ESC/EAS 
 
 * CKD는 ASCVD 위험을 높이지만 국내·KDIGO 접근에서는 CKD만으로 단일 LDL 수치 목표를 일률 배정하지 않음; ASCVD·당뇨병 등 동반 질환의 적응증·목표를 함께 적용
 * **비투석·비이식 CKD, ≥50세** : eGFR ＜60 ㎖/min/1.73㎡이면 statin 또는 statin+ezetimibe, eGFR ≥60이면 statin 권고(KDIGO 2024)
-* **비투석·비이식 CKD, 18~49세** : 관상동맥질환·당뇨병·허혈뇌졸중 병력 또는 추정 10년 관상동맥 사건 위험 ＞10% 중 하나 이상이면 statin을 고려. 더 낮은 위험에서도 전체 상황에 따라 고려할 수 있음
+* **비투석·비이식 CKD, 18\~49세** : 관상동맥질환·당뇨병·허혈뇌졸중 병력 또는 추정 10년 관상동맥 사건 위험 ＞10% 중 하나 이상이면 statin을 고려. 더 낮은 위험에서도 전체 상황에 따라 고려할 수 있음
 * 투석 중인 환자에서는 statin±ezetimibe의 일률적 신규 시작을 권고하지 않으며, 최근 ASCVD 사건 등 별도 상황은 개별 판단
 * 투석 시작 전 이미 statin &/or ezetimibe를 투여받던 환자(특히 ASCVD가 있는 환자)는 지속 투여를 고려
 
@@ -667,7 +699,7 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ESC/EAS 
 
 #### <mark style="color:$primary;">지질</mark>
 
-* 치료 시작·용량 변경 4~12주 후 지질 검사; 이후 위험도·치료 반응에 따라 3~12개월 간격(안정적으로 목표 달성 시 6~12개월)으로 추적
+* 치료 시작·용량 변경 4~~12주 후 지질 검사; 이후 위험도·치료 반응에 따라 3~~12개월 간격(안정적으로 목표 달성 시 6\~12개월)으로 추적
 * 빈번한 지질 평가 대상 : 치료 방침 변경, 당뇨병 악화, 지질에 영향을 주는 새로운 약물 투여, 죽상 혈전 질환 진행, 상당한 체중 증가, 예상 외의 지질 악화, 새로운 CAD 위험 인자 발생
 * LDL이 매우 낮게 측정되더라도 수치만을 이유로 일률적으로 감량하지 않으며, 전체 위험도·부작용·환자 선호와 측정 정확도를 함께 평가
 
@@ -687,7 +719,7 @@ _<mark style="color:$info;">Ref. 한국지질·동맥경화학회 2026; ESC/EAS 
 * 근육질환 병력, 이전 statin 근육 증상, 상호작용 약물 등 위험이 높으면 기저 CK를 측정. 유의하게 상승한 경우 운동·갑상선질환 등 원인을 평가하고 재검 후 시작 여부 결정
 * 투여 중 모든 환자의 CK를 일률적으로 반복 측정하지 않으며 근육통·뭉침·위약감·전신 피로감 발생 시 평가
 * **CK ＜4×ULN** : 증상이 없으면 지속 가능. 증상이 있으면 중증도·ASCVD 위험에 따라 일시 중단 또는 감량을 개별화하고 다른 원인을 교정; 회복 후 저용량·다른 statin으로 재시도
-* **CK 4~＜10×ULN** : 우선 statin 중단, 운동·약물 상호작용·갑상선질환 등 평가. 임상 상태에 따라 더 이른 재검이 필요할 수 있으며, 안정된 경우 2~6주 내 재평가하여 정상화 후 다른 statin 또는 저용량 재투여 고려
+* **CK 4\~＜10×ULN** : 우선 statin 중단, 운동·약물 상호작용·갑상선질환 등 평가. 임상 상태에 따라 더 이른 재검이 필요할 수 있으며, 안정된 경우 2\~6주 내 재평가하여 정상화 후 다른 statin 또는 저용량 재투여 고려
 * **CK ≥10×ULN 또는 횡문근융해증 의심** : 즉시 중단하고 **신기능·전해질·소변 및 횡문근융해증 평가**. 진한 소변·심한 위약·소변 감소·AKI 등이 있으면 신속한 응급 평가·치료; 단순히 2주 후 CK 재검만 계획하지 않음
 * 중단 후에도 CK 상승·근위부 위약이 지속되면 면역매개 괴사성 근육병증 등 감별을 위해 의뢰
 
@@ -745,7 +777,7 @@ E78.5 - 상세불명의 고지질혈증 - Hyperlipidemia, unspecified
 
 ### <mark style="color:orange;">건강보험 적용 시 구분</mark>
 
-* **치료 목표와 급여 개시 기준은 다름.** [일반원칙] 고지혈증치료제(2014.3.1 시행)는 LDL-C ≥160(위험요인 0~1개), ≥130(≥2개), ≥100(관상동맥질환 또는 고시상 이에 준하는 위험), ≥70(ACS)을 제시함. 목표가 ＜55로 강화되어도 이 수치가 자동으로 급여 개시 기준이 되는 것은 아님
+* **치료 목표와 급여 개시 기준은 다름.** \[일반원칙] 고지혈증치료제(2014.3.1 시행)는 LDL-C ≥160(위험요인 0\~1개), ≥130(≥2개), ≥100(관상동맥질환 또는 고시상 이에 준하는 위험), ≥70(ACS)을 제시함. 목표가 ＜55로 강화되어도 이 수치가 자동으로 급여 개시 기준이 되는 것은 아님
 * 위 일반원칙의 TG 기준은 ≥500 또는 위험요인·당뇨병이 있을 때 ≥200이며, 약물별 세부기준을 별도로 적용함. 급여 가능성만으로 fibrate 등의 심혈관 예방 효과가 입증된 것으로 해석하지 않음
 * **Evolocumab(고시 제2024-37호, 2024.3.1 시행)** : 성인 HeFH는 최대 내약 statin+ezetimibe에도 LDL ≥100 또는 감소율 ＜50%; ASCVD는 급여상 초고위험군이면서 LDL ≥70 또는 감소율 ＜50%가 기준임. 급여상 HeFH 진단은 Simon Broome possible 또는 DLCN probable 이상임
 * Evolocumab의 급여상 초고위험군은 주요 ASCVD ≥2개 또는 주요 ASCVD 1개+고위험요인 ≥2개임. **복부대동맥류가 주요 ASCVD에 포함**되며 CKD·HeFH도 고위험요인에 포함됨. HoFH·불내성은 별도 경로임
@@ -792,7 +824,7 @@ _<mark style="color:$info;">Ref. 건강보험심사평가원. 고지혈증치료
 >
 > _✽신기능·간기능·담낭질환·임신/수유 여부를 평가한 성인의 예시임. 급성 췌장염 예방이 1차 목표. 음주·고탄수화물 식사 제한과 2차 원인 교정을 병행하고, 신기능에 따라 fenofibrate 용량을 조절하거나 피함. 반응이 불충분하면 처방용 omega-3 4 g/d 병용을 고려_
 
-> **처방례 5. 혼합형 고지질혈증 (LDL 높음 + TG 200~499 ㎎/㎗)**
+> **처방례 5. 혼합형 고지질혈증 (LDL 높음 + TG 200\~499 ㎎/㎗)**
 >
 > ```
 > 리피토 20 ㎎/T  1T  qd
@@ -819,7 +851,7 @@ _<mark style="color:$info;">Ref. 건강보험심사평가원. 고지혈증치료
 > **병용 약물 및 상호작용**
 >
 > * warfarin 복용 중인 환자에서 fibrate, niacin 병용 시 INR 변동 가능 - 병용 시작·중단 시 INR 재확인
-> * cholestyramine과 다른 경구약은 다른 약을 최소 1시간 먼저 또는 cholestyramine 복용 4~6시간 뒤 투여하도록 간격을 둠(흡수 방해 예방)
+> * cholestyramine과 다른 경구약은 다른 약을 최소 1시간 먼저 또는 cholestyramine 복용 4\~6시간 뒤 투여하도록 간격을 둠(흡수 방해 예방)
 > * PCSK9 억제제·inclisiran은 자가/의료기관 주사 스케줄을 놓치지 않도록 다음 투여일을 명확히 안내
 
 > **언제 다시 병원을 방문해야 하나요?**
@@ -850,7 +882,7 @@ _<mark style="color:$info;">Ref. 건강보험심사평가원. 고지혈증치료
 * **금연하십시오.** 담배는 나쁜 콜레스테롤의 산화와 혈관 염증을 촉진하고 좋은 콜레스테롤(HDL)을 낮추며, 심근경색·뇌졸중 위험을 높입니다.
 * **포화지방과 트랜스지방을 줄이십시오.** 튀김류, 가공육, 버터·크림 대신 생선, 채소, 통곡물, 올리브유 위주의 식단을 권합니다.
 * **매일 30분 이상 걷기 등 유산소 운동을 하십시오.** 주 5회 이상이 이상적입니다.
-* **적정 체중을 유지하십시오.** 과체중·비만이라면 현재 체중의 5~10%를 줄여도 지질 수치가 눈에 띄게 좋아집니다.
+* **적정 체중을 유지하십시오.** 과체중·비만이라면 현재 체중의 5\~10%를 줄여도 지질 수치가 눈에 띄게 좋아집니다.
 * **술은 줄이거나 끊으십시오.** 술이 HDL을 올린다는 이야기가 있지만, 전체적인 심혈관 위험을 고려하면 이득보다 해가 큽니다.
 
 #### <mark style="color:$primary;">약은 어떻게 복용해야 하나요?</mark>
@@ -866,53 +898,32 @@ _<mark style="color:$info;">Ref. 건강보험심사평가원. 고지혈증치료
 * 등으로 뻗치는 심한 복통이 있을 때 - 특히 중성지방이 매우 높다고 들으신 경우
 * 갑작스러운 가슴 통증, 팔·턱으로 퍼지는 통증, 편측 마비나 언어 장애가 생길 때 - 즉시 119
 
-
 ***
 
 ## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
 
 ### 임상 근거
 
-* 한국지질·동맥경화학회. **이상지질혈증 진료지침 2026**. 국내 위험군·치료목표·위험강화인자·약제 및 모니터링 기준.
-  [학회 원문](https://lipid.or.kr/reference/guideline.php?boardid=guideline&idx=1456&mode=view)
-* ACC/AHA et al. **2026 Guideline on the Management of Dyslipidemia**. PREVENT-ASCVD, Lp(a), CAC 및 위험도별 치료.
-  [AHA 지침 자료](https://professional.heart.org/en/science-news/2026-guideline-on-the-management-of-dyslipidemia)
-* ESC/EAS. **2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias**.
-  [ESC 원문 안내](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/dyslipidaemias/) · [EAS 위험분류 해설](https://eas-society.org/publications/guidelines/score2-score2-op/)
-* 한국지질·동맥경화학회 FH 태스크포스. **2022 Consensus statement on the management of familial hypercholesterolemia in Korea**. DLCN·가족 선별·치료목표.
-  [원문](https://www.kjim.org/journal/view.php?number=170712)
-* ADA. **Standards of Care in Diabetes—2026**, Cardiovascular Disease and Risk Management.
-  [doi:10.2337/dc26-S010](https://doi.org/10.2337/dc26-S010)
-* Sabatine MS et al. **Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease**. N Engl J Med. 2017;376:1713–1722.
-  [doi:10.1056/NEJMoa1615664](https://doi.org/10.1056/NEJMoa1615664)
-* Bohula EA et al. **Evolocumab in Patients without a Previous Myocardial Infarction or Stroke**. N Engl J Med. 2026;394:117–127.
-  [doi:10.1056/NEJMoa2514428](https://doi.org/10.1056/NEJMoa2514428)
-* Bhatt DL et al. **Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia**. N Engl J Med. 2019;380:11–22.
-  [doi:10.1056/NEJMoa1812792](https://doi.org/10.1056/NEJMoa1812792)
-* Das Pradhan A et al. **Triglyceride Lowering with Pemafibrate to Reduce Cardiovascular Risk**. N Engl J Med. 2022;387:1923–1934.
-  [doi:10.1056/NEJMoa2210645](https://doi.org/10.1056/NEJMoa2210645)
-* Nissen SE et al. **Bempedoic Acid and Cardiovascular Outcomes in Statin-Intolerant Patients**. N Engl J Med. 2023;388:1353–1364.
-  [doi:10.1056/NEJMoa2215024](https://doi.org/10.1056/NEJMoa2215024)
-* Endocrine Society. **Lipid Management in Patients with Endocrine Disorders** (2020). 고중성지방혈증성 췌장염의 인슐린·혈장교환 적용.
-  [권고문](https://www.endocrine.org/clinical-practice-guidelines/lipid-management-guideline)
-* KDIGO. **2024 Clinical Practice Guideline for the Evaluation and Management of CKD**, 3.15 Lipid management.
-  [KDIGO 원문](https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf)
-* Navar AM et al. **A Placebo-Controlled Trial of the Oral PCSK9 Inhibitor Enlicitide**. N Engl J Med. 2026;394:529–539.
-  [doi:10.1056/NEJMoa2511002](https://doi.org/10.1056/NEJMoa2511002)
-* Cholesterol Treatment Trialists’ Collaboration. **Efficacy and safety of statin therapy in older people**. Lancet. 2019;393:407–415.
-  [PubMed](https://pubmed.ncbi.nlm.nih.gov/30712900/)
-* 심장대사증후군학회. **대사증후군 팩트시트 2026**. 국내 대사증후군 역학 자료.
-  [학회 자료](https://www.kscms.org/Fact-sheet)
+* 한국지질·동맥경화학회. **이상지질혈증 진료지침 2026**. 국내 위험군·치료목표·위험강화인자·약제 및 모니터링 기준. [학회 원문](https://lipid.or.kr/reference/guideline.php?boardid=guideline\&idx=1456\&mode=view)
+* ACC/AHA et al. **2026 Guideline on the Management of Dyslipidemia**. PREVENT-ASCVD, Lp(a), CAC 및 위험도별 치료. [AHA 지침 자료](https://professional.heart.org/en/science-news/2026-guideline-on-the-management-of-dyslipidemia)
+* ESC/EAS. **2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias**. [ESC 원문 안내](https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/dyslipidaemias/) · [EAS 위험분류 해설](https://eas-society.org/publications/guidelines/score2-score2-op/)
+* 한국지질·동맥경화학회 FH 태스크포스. **2022 Consensus statement on the management of familial hypercholesterolemia in Korea**. DLCN·가족 선별·치료목표. [원문](https://www.kjim.org/journal/view.php?number=170712)
+* ADA. **Standards of Care in Diabetes—2026**, Cardiovascular Disease and Risk Management. [doi:10.2337/dc26-S010](https://doi.org/10.2337/dc26-S010)
+* Sabatine MS et al. **Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease**. N Engl J Med. 2017;376:1713–1722. [doi:10.1056/NEJMoa1615664](https://doi.org/10.1056/NEJMoa1615664)
+* Bohula EA et al. **Evolocumab in Patients without a Previous Myocardial Infarction or Stroke**. N Engl J Med. 2026;394:117–127. [doi:10.1056/NEJMoa2514428](https://doi.org/10.1056/NEJMoa2514428)
+* Bhatt DL et al. **Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia**. N Engl J Med. 2019;380:11–22. [doi:10.1056/NEJMoa1812792](https://doi.org/10.1056/NEJMoa1812792)
+* Das Pradhan A et al. **Triglyceride Lowering with Pemafibrate to Reduce Cardiovascular Risk**. N Engl J Med. 2022;387:1923–1934. [doi:10.1056/NEJMoa2210645](https://doi.org/10.1056/NEJMoa2210645)
+* Nissen SE et al. **Bempedoic Acid and Cardiovascular Outcomes in Statin-Intolerant Patients**. N Engl J Med. 2023;388:1353–1364. [doi:10.1056/NEJMoa2215024](https://doi.org/10.1056/NEJMoa2215024)
+* Endocrine Society. **Lipid Management in Patients with Endocrine Disorders** (2020). 고중성지방혈증성 췌장염의 인슐린·혈장교환 적용. [권고문](https://www.endocrine.org/clinical-practice-guidelines/lipid-management-guideline)
+* KDIGO. **2024 Clinical Practice Guideline for the Evaluation and Management of CKD**, 3.15 Lipid management. [KDIGO 원문](https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf)
+* Navar AM et al. **A Placebo-Controlled Trial of the Oral PCSK9 Inhibitor Enlicitide**. N Engl J Med. 2026;394:529–539. [doi:10.1056/NEJMoa2511002](https://doi.org/10.1056/NEJMoa2511002)
+* Cholesterol Treatment Trialists’ Collaboration. **Efficacy and safety of statin therapy in older people**. Lancet. 2019;393:407–415. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30712900/)
+* 심장대사증후군학회. **대사증후군 팩트시트 2026**. 국내 대사증후군 역학 자료. [학회 자료](https://www.kscms.org/Fact-sheet)
 
 ### 허가·급여 확인 자료
 
-* 식품의약품안전처. **의약품안전나라 — 의약품 품목허가정보**. 국내 제품별 적응증·용법·금기 및 허가 상태.
-  [의약품안전나라](https://nedrug.mfds.go.kr/index)
-* 건강보험심사평가원. **약제 급여기준 및 약제급여평가 자료**. Evolocumab 등 약제별 인정 대상·치료 반응 요건과 급여평가 자료.
-  [고지혈증치료제 일반원칙](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20140301&mtgMtrRegSno=4&sno=1) · [Evolocumab 고시](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240301&mtgMtrRegSno=0004&sno=1)
-* 한국다이이찌산쿄. **넥스레톨정180mg 수입품목허가 안내**, 2026.10.15.
-  [제조사 허가 공지](https://www.daiichisankyo.co.kr/news/notice/229)
-* FDA. **Statin의 임신 관련 경고 개정**, 2021. 국내 허가와 구분.
-  [FDA 안전성 공지](https://www.fda.gov/drugs/drug-safety-and-availability/fda-requests-removal-strongest-warning-against-using-cholesterol-lowering-statins-during-pregnancy)
-* FDA. **Lipfendra(enlicitide), NDA 220848 승인 자료 및 처방정보**. 미국 허가·용법 확인 자료로, 국내 허가와 구분.
-  [FDA 승인 안내](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol) · [미국 처방정보](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=100ec543-fbd0-44fc-b740-db9cdff39145)
+* 식품의약품안전처. **의약품안전나라 — 의약품 품목허가정보**. 국내 제품별 적응증·용법·금기 및 허가 상태. [의약품안전나라](https://nedrug.mfds.go.kr/index)
+* 건강보험심사평가원. **약제 급여기준 및 약제급여평가 자료**. Evolocumab 등 약제별 인정 대상·치료 반응 요건과 급여평가 자료. [고지혈증치료제 일반원칙](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20140301\&mtgMtrRegSno=4\&sno=1) · [Evolocumab 고시](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20240301\&mtgMtrRegSno=0004\&sno=1)
+* 한국다이이찌산쿄. **넥스레톨정180mg 수입품목허가 안내**, 2026.10.15. [제조사 허가 공지](https://www.daiichisankyo.co.kr/news/notice/229)
+* FDA. **Statin의 임신 관련 경고 개정**, 2021. 국내 허가와 구분. [FDA 안전성 공지](https://www.fda.gov/drugs/drug-safety-and-availability/fda-requests-removal-strongest-warning-against-using-cholesterol-lowering-statins-during-pregnancy)
+* FDA. **Lipfendra(enlicitide), NDA 220848 승인 자료 및 처방정보**. 미국 허가·용법 확인 자료로, 국내 허가와 구분. [FDA 승인 안내](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol) · [미국 처방정보](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=100ec543-fbd0-44fc-b740-db9cdff39145)

@@ -3,10 +3,10 @@
 ## <mark style="color:green;">일반 사항</mark>
 
 * 지속적이며 자주 진행성 경과를 보이는 기류 장애를 일으키는 기도의 이&#xC0C1;**\[기관지염, 세기관지염]** &/or 폐포의 이&#xC0C1;**\[폐기종]**&#xC5D0; 기인하는 만성 호흡기 증상(**호흡 곤란, 기침, 가래, 악화**)을 특징으로 하는 이질적인(heterogeneous) 폐질환
-* 기전&#x20;
-  * \[원인] smoking/pollutant, host factor&#x20;
-  * → \[Pathobiology] impaired lung growth, accelerated decline, lung injury, lung & systemic inflammation&#x20;
-  * → \[병리] small airway disorder or abnormality, emphysema, systemic effect&#x20;
+* 기전
+  * \[원인] smoking/pollutant, host factor
+  * → \[Pathobiology] impaired lung growth, accelerated decline, lung injury, lung & systemic inflammation
+  * → \[병리] small airway disorder or abnormality, emphysema, systemic effect
   * → \[결과] airway limitation, resp Sx.
 * 유병률 : 국민건강영양조사 자료(2017, 기관지확장제 투여 전 고정비 기준)에서 ≥40세 13.7%, ≥65세 남성 46.8%로 보고됨
 * 흔히 다른 만성 질환 동반 : 심혈관 질환, 근골격 이상, 대사증후군, 골다공증, 우울, 불안, 폐암
@@ -51,27 +51,25 @@
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* SpO₂가 평소보다 현저히 감소하면서 심한 호흡 곤란·호흡 노력 증가, 새로 발생하거나 악화된 중심부 청색증  `급성 호흡부전`
-* 의식 혼탁·심한 졸림 또는 혼수  `고탄산혈증`  `환기부전`
-* 혈역학적 불안정, 쇼크, 지속되는 압박성 흉통 또는 갑작스러운 흉통과 심한 호흡 곤란  `패혈증`  `급성 관상동맥증후군`  `폐색전증`  `기흉`
-* 다량 객혈 또는 객혈과 저산소증·혈역학적 이상 동반  `대량 객혈`
-* 급성 호흡성 산증 또는 중증 저산소혈증을 동반한 악화  `중증 ECOPD`
+* SpO₂가 평소보다 현저히 감소하면서 심한 호흡 곤란·호흡 노력 증가, 새로 발생하거나 악화된 중심부 청색증 `급성 호흡부전`
+* 의식 혼탁·심한 졸림 또는 혼수 `고탄산혈증` `환기부전`
+* 혈역학적 불안정, 쇼크, 지속되는 압박성 흉통 또는 갑작스러운 흉통과 심한 호흡 곤란 `패혈증` `급성 관상동맥증후군` `폐색전증` `기흉`
+* 다량 객혈 또는 객혈과 저산소증·혈역학적 이상 동반 `대량 객혈`
+* 급성 호흡성 산증 또는 중증 저산소혈증을 동반한 악화 `중증 ECOPD`
 
 <mark style="color:$warning;">**당일 평가**</mark>
 
-* 휴식 시 호흡 곤란의 뚜렷한 악화, 평소보다 새로 감소한 산소포화도  `ECOPD`  `폐렴`
-* 새로 발생한 말초 부종, 심부전·부정맥 의심 소견  `우심부전`  `심부전`  `부정맥`
-* 초기 SABA/SAMA 치료에 반응하지 않거나 빠르게 다시 악화  `치료 실패`  `폐렴`  `다른 심폐질환`
-* 새로 발생한 소량 객혈  `폐암`  `폐결핵`  `기관지확장증`
+* 휴식 시 호흡 곤란의 뚜렷한 악화, 평소보다 새로 감소한 산소포화도 `ECOPD` `폐렴`
+* 새로 발생한 말초 부종, 심부전·부정맥 의심 소견 `우심부전` `심부전` `부정맥`
+* 초기 SABA/SAMA 치료에 반응하지 않거나 빠르게 다시 악화 `치료 실패` `폐렴` `다른 심폐질환`
+* 새로 발생한 소량 객혈 `폐암` `폐결핵` `기관지확장증`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 폐기능 검사상 GOLD 3–4 또는 급격한 FEV₁ 감소  `중증 기류 폐쇄`
-* 최근 1년 중등도 또는 중증 악화 ≥1회, 특히 반복 악화  `악화 재발 위험`
-* 원인이 설명되지 않는 체중 감소 또는 야간 발한  `폐암`  `폐결핵`
-* 체중 감소·삶의 질 저하가 지속되거나 가정 내 지원이 불충분  `쇠약`  `영양불량`  `자가 관리 곤란`
-
-
+* 폐기능 검사상 GOLD 3–4 또는 급격한 FEV₁ 감소 `중증 기류 폐쇄`
+* 최근 1년 중등도 또는 중증 악화 ≥1회, 특히 반복 악화 `악화 재발 위험`
+* 원인이 설명되지 않는 체중 감소 또는 야간 발한 `폐암` `폐결핵`
+* 체중 감소·삶의 질 저하가 지속되거나 가정 내 지원이 불충분 `쇠약` `영양불량` `자가 관리 곤란`
 
 ## <mark style="color:green;">진단</mark>
 
@@ -126,7 +124,7 @@
 * COPD 진단 후 환자 증상(mMRC ≥2 또는 CAAT/CAT ≥10)과 지난 1년의 중등도·중증 악화 병력으로 분류하여 초기 약물 치료를 결정
 * FEV1에 따른 GOLD grade는 별도로 평가하며 ABE 분류에 포함하지 않음
 
-<figure><img src=".gitbook/assets/072_COPD_GOLD2026_ABE_ko.png" alt="GOLD 2026 ABE 평가 도구: COPD 확진 후 기류 폐쇄 등급과 증상·악화 병력에 따른 ABE군을 별도로 평가"><figcaption><p>GOLD ABE 평가 도구 - GOLD 2026, Fig. 2.13을 근거로 한글 재구성</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/COPD ABE 평가도구 (1).png" alt=""><figcaption><p>GOLD 2026, Figure 2.13 한글 재구성</p></figcaption></figure>
 
 {% hint style="info" %}
 GOLD 2023부터 Group C와 D가 통합되어 **Group E**(Exacerbation risk)로 개편됨. 악화 위험이 높은 군에서는 증상 수준에 관계없이 적극적 치료가 권장됨.
@@ -170,7 +168,14 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 
 #### <mark style="color:$primary;">COPD vs 천식 vs 심부전 핵심 감별</mark>
 
-<table><thead><tr><th>항목</th><th>COPD</th><th>천식</th><th>심부전</th></tr></thead><tbody><tr><td><strong>호흡곤란 양상</strong></td><td>대개 활동 시, 지속적·진행성</td><td>발작적·변동성, 야간/새벽 악화 가능</td><td>기좌호흡, 발작성 야간 호흡곤란</td></tr><tr><td><strong>흡연·유해 노출력</strong></td><td>흔하나 필수는 아님</td><td>없을 수 있음</td><td>진단과 직접 관계없음</td></tr><tr><td><strong>알레르기/비염</strong></td><td>동반 가능</td><td>흔함</td><td>감별에 직접적이지 않음</td></tr><tr><td><strong>흉부 X선</strong></td><td>과팽창 가능, 정상일 수도 있음</td><td>대개 정상</td><td>심장 비대, 폐울혈·폐부종</td></tr><tr><td><strong>기류 제한</strong></td><td>post-BD FEV1/FVC ＜0.7</td><td>변동성 기류 제한; 지속성 폐쇄도 가능</td><td>대개 폐쇄성 기류 제한 없음</td></tr><tr><td><strong>BNP/NT-proBNP</strong></td><td>심장질환·우심부전 동반 시 상승 가능</td><td>대개 정상</td><td>상승 가능</td></tr></tbody></table>
+| 항목                | COPD                  | 천식                    | 심부전               |
+| ----------------- | --------------------- | --------------------- | ----------------- |
+| **호흡곤란 양상**       | 대개 활동 시, 지속적·진행성      | 발작적·변동성, 야간/새벽 악화 가능  | 기좌호흡, 발작성 야간 호흡곤란 |
+| **흡연·유해 노출력**     | 흔하나 필수는 아님            | 없을 수 있음               | 진단과 직접 관계없음       |
+| **알레르기/비염**       | 동반 가능                 | 흔함                    | 감별에 직접적이지 않음      |
+| **흉부 X선**         | 과팽창 가능, 정상일 수도 있음     | 대개 정상                 | 심장 비대, 폐울혈·폐부종    |
+| **기류 제한**         | post-BD FEV1/FVC ＜0.7 | 변동성 기류 제한; 지속성 폐쇄도 가능 | 대개 폐쇄성 기류 제한 없음   |
+| **BNP/NT-proBNP** | 심장질환·우심부전 동반 시 상승 가능  | 대개 정상                 | 상승 가능             |
 
 #### <mark style="color:$primary;">천식 동반 감별</mark> <a href="#asthma-overlap" id="asthma-overlap"></a>
 
@@ -193,8 +198,6 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 
 ## <mark style="background-color:$warning;">Management</mark>
 
-
-
 * 동반 질환 관리
 * 비-약물 치료 : 금연, 적절한 영양 및 수분 공급, 활동적 생활 및 운동, 적정 체중 유지, 백신 접종 (인플루엔자, 폐렴구균, Tdap, 대상포진, COVID-19), 호흡 재활 치료 (Group B, E)
 * 약물 치료 : 기본 치료제 - 흡입 기관지 확장제
@@ -204,11 +207,11 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 
 #### <mark style="color:$primary;">약물 치료 단계적 접근 (Escalation Ladder)</mark>
 
-<mark style="color:cyan;">**초치료 (Initial)**</mark>&#x20;
+<mark style="color:cyan;">**초치료 (Initial)**</mark>
 
 * Group A - 기관지 확장제(단·장시간; 장시간 선호) / Group B - LABA+LAMA 병용 시작(병용 곤란 시 LAMA 또는 LABA 단독) / Group E - LABA+LAMA(eos ≥300이면 LABA+LAMA+ICS 우선 고려) → 모든 군에 rescue SABA 병용 처방
 
-<mark style="color:cyan;">**추적(Follow-up)**</mark>&#x20;
+<mark style="color:cyan;">**추적(Follow-up)**</mark>
 
 * 지속되는 문제(호흡 곤란 or 악화)에 따라 경로 분리
 * 호흡 곤란 지속 : LABA 또는 LAMA(단독 사용 중이었다면) → LABA+LAMA → 흡입기 성분/기종 교체, 비약물 치료 강화, ensifentrine 추가 고려(국내 미도입), 호흡 곤란의 다른 원인 조사
@@ -319,7 +322,7 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
   * 주요 금기 : 폐쇄각 녹내장, 전립선비대증, 아트로핀 계열 약물 과민증. 약물이 눈에 들어가지 않도록 마우스피스 사용을 우선 고려하고, LAMA 병용 중에는 항콜린 효과 중복을 평가함
 * LAMA : aclidinium, glycopyrronium, tiotropium, umeclidinium
 
-<table><thead><tr><th width="81">분류</th><th width="202">성분명 [상품명]</th><th width="168">흡입제 용량</th><th width="207">네뷸라이저 용액</th><th width="102">작용 시간(hr)</th></tr></thead><tbody><tr><td>SAMA</td><td>ipratropium <br><mark style="color:blue;">[아트로벤트흡입액유디비]</mark></td><td>-</td><td>500 μg/2 ㎖/일회용 용기<br>1회 100~500 μg, 1일 4회</td><td>6–8</td></tr><tr><td rowspan="4">LAMA</td><td>aclidinium <br><mark style="color:blue;">[에클리라 제뉴에어]</mark></td><td>400 μg bid</td><td>-</td><td>12</td></tr><tr><td>tiotropium <br><mark style="color:blue;">[스피리바 흡입용캡슐]</mark></td><td>18 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td>tiotropium <br><mark style="color:blue;">[스피리바 레스피맷]</mark></td><td>2.5 μg/puff 2 puffs qd(총 5 μg)</td><td>-</td><td>24</td></tr><tr><td>umeclidinium <br><mark style="color:blue;">[인크루즈 엘립타]</mark></td><td>62.5 μg qd</td><td>-</td><td>24</td></tr></tbody></table>
+<table><thead><tr><th width="81">분류</th><th width="202">성분명 [상품명]</th><th width="168">흡입제 용량</th><th width="207">네뷸라이저 용액</th><th width="102">작용 시간(hr)</th></tr></thead><tbody><tr><td>SAMA</td><td>ipratropium<br><mark style="color:blue;">[아트로벤트흡입액유디비]</mark></td><td>-</td><td>500 μg/2 ㎖/일회용 용기<br>1회 100~500 μg, 1일 4회</td><td>6–8</td></tr><tr><td rowspan="4">LAMA</td><td>aclidinium<br><mark style="color:blue;">[에클리라 제뉴에어]</mark></td><td>400 μg bid</td><td>-</td><td>12</td></tr><tr><td>tiotropium<br><mark style="color:blue;">[스피리바 흡입용캡슐]</mark></td><td>18 μg 1C qd</td><td>-</td><td>24</td></tr><tr><td>tiotropium<br><mark style="color:blue;">[스피리바 레스피맷]</mark></td><td>2.5 μg/puff 2 puffs qd(총 5 μg)</td><td>-</td><td>24</td></tr><tr><td>umeclidinium<br><mark style="color:blue;">[인크루즈 엘립타]</mark></td><td>62.5 μg qd</td><td>-</td><td>24</td></tr></tbody></table>
 
 #### <mark style="color:$primary;">LAMA+LABA 흡입 복합제</mark>
 
@@ -380,8 +383,8 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 <table><thead><tr><th width="456">성분명 [상품명]</th><th>용법</th></tr></thead><tbody><tr><td>fluticasone / umeclidinium / vilanterol <mark style="color:blue;">[트렐리지 엘립타]</mark> ¹⁾</td><td>100/62.5/25 μg 1 puff qd</td></tr><tr><td>budesonide / glycopyrronium / formoterol <mark style="color:blue;">[브레즈트리 에어로스피어]</mark> ²⁾</td><td>160/7.2/5.0 μg/puff, 2 puffs bid</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium <mark style="color:blue;">[트림보우]</mark></td><td>100/6/12.5 μg/puff, 2 puffs bid<br>(전달용량 약 87/5/9 μg)</td></tr><tr><td>beclomethasone / formoterol / glycopyrronium <mark style="color:blue;">[트림보우넥스트할러]</mark> (DPI) ³⁾</td><td>100/6/12.5 μg, 2 puffs bid</td></tr></tbody></table>
 
 > _¹⁾트렐리지 엘립타 : 100/62.5/25 μg이 COPD 적응 용량; 200/62.5/25 μg은 천식 용량_\
-> _²⁾표기 함량은 1 puff 기준. 브레즈트리는 글리코피로늄 14.4 μg 함량의 천식 허가 제품이 별도로 있으므로 COPD 처방 시 7.2 μg 함량 확인. 표는 대표 예시이며 동일 성분이라도 함량·적응증이 제품별로 다를 수 있어 처방 전 최신 국내 허가사항과 급여기준 확인. 에너제어 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외_\
-> _³⁾트림보우넥스트할러는 2026-06 허가된 DPI 제형으로 중증 COPD에만 허가됨(pMDI인 트림보우는 천식·COPD 모두 허가)_
+> _&#xB2;⁾표기 함량은 1 puff 기준. 브레즈트리는 글리코피로늄 14.4 μg 함량의 천식 허가 제품이 별도로 있으므로 COPD 처방 시 7.2 μg 함량 확인. 표는 대표 예시이며 동일 성분이라도 함량·적응증이 제품별로 다를 수 있어 처방 전 최신 국내 허가사항과 급여기준 확인. 에너제어 흡입용캡슐은 천식 허가 제품이므로 COPD 허가 triple therapy 표에서 제외_\
+> _&#xB3;⁾트림보우넥스트할러는 2026-06 허가된 DPI 제형으로 중증 COPD에만 허가됨(pMDI인 트림보우는 천식·COPD 모두 허가)_
 
 #### <mark style="color:$primary;">전신 스테로이드</mark>
 
@@ -423,22 +426,12 @@ GOLD grade는 기류 폐쇄 정도와 예후 평가에 사용하며 약물 치�
 * 위 두 제제의 COPD 허가와 급여 인정은 별개이며, mepolizumab의 현행 급여기준은 중증 호산구성 천식 대상임
 * benralizumab(항 IL-5 수용체)은 COPD 악화 감소 효과가 RCT에서 확인되지 않아 권고하지 않음
 
-**생물학적 제제의 주요 COPD 연구 근거**
-
-<table><thead><tr><th width="150">약제·주요 연구</th><th width="265">근거가 확보된 주요 대상</th><th width="150">중등도·중증 악화율<br>(위약 대비 비율)</th><th width="240">폐기능·삶의 질 결과</th></tr></thead><tbody><tr><td><strong>Dupilumab</strong><br>BOREAS / NOTUS</td><td>흡입 삼제요법에도 악화 병력<br>post-BD FEV₁ 30~70% 예측치<br>만성 기관지염 동반<br>선별 시 혈중 호산구 ≥300 cells/μL</td><td>BOREAS: 0.70<br>NOTUS: 0.66</td><td>두 연구에서 FEV₁ 개선<br>SGRQ: BOREAS에서 유의한 개선; NOTUS에서는 계층적 검정 절차에 따라 유의성 검정 미시행</td></tr><tr><td><strong>Mepolizumab</strong><br>MATINEE</td><td>흡입 삼제요법에도 악화 병력<br>post-BD FEV₁ 20~80% 예측치<br>만성 기관지염 동반 여부와 무관<br>선별 시 호산구 ≥300 cells/μL 및 이전 1년 중 ≥150 cells/μL</td><td>MATINEE: 0.79</td><td>FEV₁ 및 SGRQ의 유의한 개선은 입증되지 않음</td></tr></tbody></table>
-
-> _주요 연구 대상은 흡입 삼제요법에도 이전 1년 중등도 악화 ≥2회 또는 중증 악화 ≥1회가 있었던 환자임. 표는 dupilumab의 BOREAS·NOTUS 및 mepolizumab의 MATINEE를 요약한 것으로, 국내 허가·급여 기준과 구분함. 서로 다른 환자군의 위약 대조시험이므로 약제 간 직접 비교나 우열 판단에 사용하지 않음. SGRQ = St George's Respiratory Questionnaire_
-
-> _Mepolizumab의 초기 연구에서는 METREX의 사전 지정 호산구 아군에서 악화 감소가 유의했으나(RR 0.82, 보정 P=0.04), METREO의 100 ㎎군에서는 유의하지 않았음(RR 0.80, 보정 P=0.07). 이후 MATINEE에서 혈중 호산구 ≥300 cells/μL인 환자의 유의한 악화 감소가 추가 확인됨(RR 0.79). 위 표에는 최신 근거인 MATINEE를 발췌함_
-
-<p align="center"><em><mark style="color:$info;">Ref. GOLD 2026, Fig 3.11</mark></em></p>
-
 ### <mark style="color:orange;">Mucolytics</mark>
 
 * 일부 COPD 환자에서 악화 감소 가능성이 있으나 효과는 제한적이며, 흡입 유지치료를 대체하지 않음
 * NAC·carbocisteine은 주로 ICS를 사용하지 않는 환자에서 근거가 제시됨
   * Erdosteine은 ICS 병용 여부와 관계없이 주로 경증 악화 감소 근거가 있어 같은 제한을 일괄 적용하지 않음 <mark style="color:$info;">\[GOLD 2026]</mark>
-* N-acetylcysteine(NAC) : 200 ㎎ bid <mark style="color:blue;">\[뮤테란]</mark>&#x20;
+* N-acetylcysteine(NAC) : 200 ㎎ bid <mark style="color:blue;">\[뮤테란]</mark>
   * 만성질환 허가 용량(200 ㎎ bid)은 급성질환의 200 ㎎ tid와 다르며, COPD 악화 예방 연구의 600 ㎎ bid는 위 허가 용량을 초과함
   * 경증\~중등도 COPD 968명의 2024년 무작위시험에서는 2년 투여로 전체 악화율·폐기능의 유의한 개선이 없었으므로 일률적 장기 투여를 권하지 않음 <mark style="color:$info;">\[Nat Commun 2024]</mark>
   * 과민반응·위십이지장궤양·해당 제형의 유당 관련 유전 질환 등 금기와 기관지연축에 유의
@@ -509,10 +502,10 @@ linkStyle 6 stroke:green,stroke-width:2px;
 ```
 
 > _eos = blood eosinophil count (cells/μL)_\
-> _¹⁾single inhaler 권고_ \
-> _²⁾PDE3/4 억제제, 네뷸라이저 흡입; 국내 미도입_ \
-> _³⁾dupilumab·mepolizumab은 성인 COPD 추가 유지치료로 국내 허가(2026-10-25)_\
-> _악화 횟수 표기는 주요 임상시험의 근거 대상이며, 허가·급여 조건과 구분함_
+> _&#xB9;⁾single inhaler 권고_\
+> _&#xB2;⁾PDE3/4 억제제, 네뷸라이저 흡입; 국내 미도입_\
+> _&#xB3;⁾dupilumab·mepolizumab은 성인 COPD 추가 유지치료로 국내 허가(2026-10-25)_\
+> _&#xC545;화 횟수 표기는 주요 임상시험의 근거 대상이며, 허가·급여 조건과 구분함_
 
 <p align="center"><strong>COPD 유지 약물 치료 조정 알고리듬</strong><br><em><mark style="color:$info;">Ref. GOLD 2026, Fig 3.9</mark></em></p>
 
@@ -553,8 +546,6 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 > _이 알고리듬은 초기 치료와 치료 중 조정 원칙을 함께 요약한 것임. 신규 환자는 ABE 초치료 기준, 기존 치료 중 악화가 발생한 환자는 follow-up 알고리듬을 우선 적용함. 혈중 호산구 수만으로 ICS를 추가하지 않음_
 >
 > _¹⁾주 표현형 평가: Dyspnea burden(mMRC / CAT), Exacerbation 빈도, Blood eosinophil, Chronic bronchitis 여부, Emphysema/hyperinflation, Asthma feature, Frailty/cachexia_
->
->
 
 <p align="center"><strong>COPD 표현형 기반 치료 알고리듬</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌 : GOLD 2026)</mark></em></p>
 
@@ -573,12 +564,11 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 ### <mark style="color:orange;">중증도 분류</mark>
 
-다음은 GOLD 2026(v1.3)의 Figure 4.2에 따른 현재 악화의 중증도 분류임; 혈액가스 관련 기술은 Rome 원안과 구분함
+<table data-search="false"><thead><tr><th>평가 항목</th><th>경증 (기본 분류)</th><th>중등증</th><th>중증</th></tr></thead><tbody><tr><td><strong>호흡곤란 VAS</strong><br>(0~10점)</td><td>＜5</td><td>≥5</td><td>중등증과 같은 임상 항목을 평가</td></tr><tr><td><strong>호흡수</strong></td><td>＜24회/분</td><td>≥24회/분</td><td>동일</td></tr><tr><td><strong>심박수</strong></td><td>＜95회/분</td><td>≥95회/분</td><td>동일</td></tr><tr><td><strong>안정 시 산소포화도</strong></td><td>≥92%이면서<br>평소 대비 감소 ≤3%p</td><td>＜92% 또는<br>평소 대비 감소 ＞3%p</td><td>동일</td></tr><tr><td><strong>CRP</strong><br>(측정한 경우)</td><td>＜10 ㎎/L</td><td>≥10 ㎎/L</td><td>동일</td></tr><tr><td><strong>ABG</strong><br>(시행한 경우)</td><td>분류에 필수는 아님</td><td>PaO₂ 70~80 ㎜Hg의 저산소혈증이 나타날 수 있으나 필수 조건은 아님</td><td><strong>PaO₂ ≤60 ㎜Hg</strong><br>및/또는<br><strong>PaCO₂ ＞45 ㎜Hg이면서 pH ＜7.35</strong></td></tr><tr><td><strong>판단</strong></td><td>중등증·중증 기준에 해당하지 않으면 경증을 기본 분류로 함</td><td>위 5개 임상·검사 항목 중 <strong>최소 3개</strong>에 해당</td><td>중등증과 같은 임상 항목에 더해 혈액가스 이상을 함께 평가</td></tr></tbody></table>
 
-<table><thead><tr><th width="145">평가 항목</th><th width="185">경증<br>(기본 분류)</th><th width="240">중등증</th><th width="245">중증</th></tr></thead><tbody><tr><td><strong>호흡곤란 VAS</strong><br>(0~10점)</td><td>＜5</td><td>≥5</td><td>중등증과 같은 임상 항목을 평가</td></tr><tr><td><strong>호흡수</strong></td><td>＜24회/분</td><td>≥24회/분</td><td>동일</td></tr><tr><td><strong>심박수</strong></td><td>＜95회/분</td><td>≥95회/분</td><td>동일</td></tr><tr><td><strong>안정 시 산소포화도</strong></td><td>≥92%이면서<br>평소 대비 감소 ≤3%p</td><td>＜92% 또는<br>평소 대비 감소 ＞3%p</td><td>동일</td></tr><tr><td><strong>CRP</strong><br>(측정한 경우)</td><td>＜10 ㎎/L</td><td>≥10 ㎎/L</td><td>동일</td></tr><tr><td><strong>ABG</strong><br>(시행한 경우)</td><td>분류에 필수는 아님</td><td>PaO₂ 70~80 ㎜Hg의 저산소혈증이 나타날 수 있으나 필수 조건은 아님</td><td><strong>PaO₂ ≤60 ㎜Hg</strong><br>및/또는<br><strong>PaCO₂ ＞45 ㎜Hg이면서 pH ＜7.35</strong></td></tr><tr><td><strong>판단</strong></td><td>중등증·중증 기준에 해당하지 않으면 경증을 기본 분류로 함</td><td>위 5개 임상·검사 항목 중 <strong>최소 3개</strong>에 해당</td><td>중등증과 같은 임상 항목에 더해 혈액가스 이상을 함께 평가</td></tr></tbody></table>
-
-* 산소포화도는 실내공기 또는 평소 처방된 산소 투여 조건에서 평가하며, 평소 값이 알려진 경우 감소 폭을 함께 확인함. %p는 산소포화도의 퍼센트포인트 차이를 뜻함
-* 만성 저산소혈증·고탄산혈증 환자에서는 평소 혈액가스와 현재 산소 투여 조건을 함께 해석함
+> _GOLD 지침에 따른 현재 악화의 중증도 분류임; 혈액가스 관련 기술은 Rome 원안과 구분함_\
+> _산소포화도는 실내공기 또는 평소 처방된 산소 투여 조건에서 평가하며, 평소 값이 알려진 경우 감소 폭을 함께 확인함. %p는 산소포화도의 퍼센트포인트 차이를 뜻함_\
+> _만성 저산소혈증·고탄산혈증 환자에서는 평소 혈액가스와 현재 산소 투여 조건을 함께 해석함_
 
 <p align="center"><em><mark style="color:$info;">Ref. GOLD 2026, Fig 4.2</mark></em></p>
 
@@ -605,29 +595,29 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 
 ### <mark style="color:orange;">치료</mark>
 
-**기관지 확장제**&#x20;
+**기관지 확장제**
 
 * SABA ± SAMA 투여를 가능한 한 빨리 시작
 * 안정되면 기존 또는 새로 최적화한 장시간 기관지확장제 유지치료를 가능한 한 빨리 재개
 
-**전신 스테로이드**&#x20;
+**전신 스테로이드**
 
 * 임상적으로 유의한 중등증·중증 악화에서는 prednisone-equivalent 40 ㎎/d ×5일 <mark style="color:$info;">\[GOLD 2026]</mark>
 * prednisolone 30 ㎎/d ×5일 <mark style="color:blue;">\[소론도]</mark> <mark style="color:$info;">\[NICE NG115]</mark>
 
-**산소 공급**&#x20;
+**산소 공급**
 
 * 목표 SpO₂ 88\~92%; ABG로 hypercapnia와 acidosis 모니터링(입원 치료)
 * 과도한 산소 공급은 CO₂ retention과 respiratory acidosis를 악화시킬 수 있으므로 목표 범위에 맞춰 조절
 
-**NIV (비-침습 양압 환기)**&#x20;
+**NIV (비-침습 양압 환기)**
 
 * COPD 급성 악화에서 기관 삽관 및 사망률 감소 효과
 * 적응증 : 호흡성 산증(pH ≤7.35 및 PaCO₂ ≥45 ㎜Hg), 호흡근 피로·호흡 노력 증가를 동반한 심한 호흡곤란, 또는 조절 산소치료에도 지속되는 저산소혈증 등
 * 적용 곤란/금기 : 기도 보호 불가 또는 협조 불가, 분비물 처리 불가, 혈역학적 불안정, 치료되지 않은 기흉 등
 * NIV 중 의식·혈역학·가스교환이 악화되거나 초기 치료에 반응하지 않으면 기관삽관·중환자실 치료 필요성을 즉시 평가하며, NIV를 계속 시도하느라 삽관을 지연하지 않음
 
-**항생제**&#x20;
+**항생제**
 
 * 악화의 많은 경우가 세균 감염과 무관
 * 아래 기준으로 판단
@@ -649,15 +639,15 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
 **1차 선택(성인 경구)**
 
 * amoxicillin : 500 ㎎ tid ×5일 <mark style="color:blue;">\[파목신]</mark>
-* doxycycline : 첫날 100 ㎎ bid, 이후 100 ㎎ qd × 4일(총 5일) <mark style="color:blue;">\[모노신]</mark>&#x20;
+* doxycycline : 첫날 100 ㎎ bid, 이후 100 ㎎ qd × 4일(총 5일) <mark style="color:blue;">\[모노신]</mark>
   * 중증 감염에서의 100 ㎎ bid 유지와 구분하고 임부·수유부·12세 미만 등 국내 금기를 확인함
-* clarithromycin : 500 ㎎ bid ×5일 <mark style="color:blue;">\[클래리시드]</mark>&#x20;
+* clarithromycin : 500 ㎎ bid ×5일 <mark style="color:blue;">\[클래리시드]</mark>
   * 신기능에 따른 감량, QT 연장 위험 및 병용약 상호작용을 확인. 특히 simvastatin 등 병용금기 약제 확인
 
-**대체제**&#x20;
+**대체제**
 
 * 항생제 반복 복용, 내성균 보유 병력, 합병증 발생 고위험 등 치료 실패 위험이 높은 경우 고려
-* amoxicillin/clavulanate : 500/125 ㎎(총 625 ㎎) tid ×5일 <mark style="color:blue;">\[오구멘틴]</mark>&#x20;
+* amoxicillin/clavulanate : 500/125 ㎎(총 625 ㎎) tid ×5일 <mark style="color:blue;">\[오구멘틴]</mark>
   * 페니실린 과민증·중증 β-lactam 과민반응 및 이 약 관련 황달·간장애 병력 금기
   * 신기능에 따라 용량 조정
 * sulfamethoxazole/trimethoprim : 800/160 ㎎(2T) bid ×5일 <mark style="color:blue;">\[셉트린]</mark>
@@ -666,7 +656,7 @@ style A fill:#eeeeee,stroke:#888888,stroke-width:2px
   * 건·근골격계, 말초신경 및 중추신경계의 중대하고 지속될 수 있는 이상반응에 주의
   * 500 ㎎ qd ×5일 <mark style="color:blue;">\[크라비트]</mark> (허가 투여기간은 만성 기관지염의 급성 세균성 악화에서 7일)
 
-**IV**&#x20;
+**IV**
 
 * 경구 항생제를 적용할 수 없거나 중증인 경우
 * 입원 투여. 투여 48시간 후 재검토하여 가능하면 경구 전환
@@ -729,7 +719,7 @@ class Severe,Intubation red
 ## <mark style="color:green;">예후 및 모니터링</mark>
 
 {% hint style="info" %}
-**Disease Activity (질병 활성도) - GOLD 2026 신설 개념** : COPD 관리의 핵심 목표를 "악화 없음 + 증상 악화 없음 + 폐기능의 가속화된 저하 없음"으로 정의되는 **저활성도(low disease activity)** 상태 달성으로 명시함. **질병 안정(disease stability)**은 악화가 없고, 증상 악화가 없으며, 폐기능의 가속화된 저하가 없는 상태를 뜻함. **질병 조절(disease control)**은 낮은 질병 활성도와 함께 증상 부담도 낮은 상태를 뜻함. 구조적 손상으로 증상 부담이 큰 환자에서도 질병 안정을 치료 목표로 삼을 수 있음. 조기 진단·조기 개입이 구조적 손상을 최소화하여 이후 활성도 조절을 용이하게 함 <mark style="color:$info;">\[GOLD 2026]</mark>
+**Disease Activity (질병 활성도) - GOLD 2026 신설 개념** : COPD 관리의 핵심 목표를 "악화 없음 + 증상 악화 없음 + 폐기능의 가속화된 저하 없음"으로 정의되는 **저활성도(low disease activity)** 상태 달성으로 명시함. **질병 안정(disease stability)**&#xC740; 악화가 없고, 증상 악화가 없으며, 폐기능의 가속화된 저하가 없는 상태를 뜻함. **질병 조절(disease control)**&#xC740; 낮은 질병 활성도와 함께 증상 부담도 낮은 상태를 뜻함. 구조적 손상으로 증상 부담이 큰 환자에서도 질병 안정을 치료 목표로 삼을 수 있음. 조기 진단·조기 개입이 구조적 손상을 최소화하여 이후 활성도 조절을 용이하게 함 <mark style="color:$info;">\[GOLD 2026]</mark>
 {% endhint %}
 
 * 치료 시작·변경 후에는 임상 중증도에 따라 조기에 재평가하고, 안정 후에는 통상 3\~12개월 간격으로 개별화하여 모니터링
@@ -743,9 +733,9 @@ class Severe,Intubation red
 #### <mark style="color:$primary;">입원 악화 후 퇴원 및 추적관리</mark>
 
 * **퇴원 전** : 임상·검사 결과를 검토하고 유지 흡입치료를 최적화함(혈중 호산구가 높은 환자는 LABA+LAMA+ICS로 퇴원하도록 권고함). 흡입기 사용을 직접 확인하고, 급성기 전신 스테로이드·항생제의 종료 계획과 산소치료 필요성을 설명함. 서면 악화 행동계획, 연락 방법, 동반 질환 관리 및 추적 일정을 마련함
-* **추적 시점** : 퇴원 후 1개월 이내에 조기 평가하고, 약 3개월에 추가 평가함. GOLD Fig. 4.10의 구체적 점검 시기는 아래의 1\~4주 및 12\~16주임. 회복 경과에 따라 더 일찍 평가함
+* **추적 시점** : 퇴원 후 1개월 이내에 조기 평가하고, 약 3개월에 추가 평가함. GOLD 지침의 구체적 점검 시기는 아래의 1\~4주 및 12\~16주임. 회복 경과에 따라 더 일찍 평가함
 
-<table><thead><tr><th width="160">점검 항목</th><th width="300">퇴원 후 1~4주</th><th width="300">퇴원 후 12~16주</th></tr></thead><tbody><tr><td><strong>생활 적응·지원</strong></td><td>가정환경에서 자가 관리 가능 여부 및 보호자·돌봄 지원 확인</td><td>생활 적응, 일상생활 수행 및 지원 필요성 재평가</td></tr><tr><td><strong>유지치료·흡입기</strong></td><td>치료 목적·복용법 이해, 순응도·부작용 및 흡입기 사용법 재확인</td><td>치료 이해·순응도와 흡입기 사용법 재평가, 필요시 유지치료 조정</td></tr><tr><td><strong>산소치료</strong></td><td>장기 산소치료의 필요성과 처방 유량 재평가</td><td>산소치료 지속 필요성과 처방 유량 재평가</td></tr><tr><td><strong>신체 활동·호흡 재활</strong></td><td>활동 능력 기록 및 호흡 재활 대상 여부 평가·연계</td><td>활동 능력·일상생활 수행과 재활 참여 상태 확인</td></tr><tr><td><strong>증상</strong></td><td>CAAT/CAT 또는 mMRC로 기록</td><td>동일 도구로 재평가하여 경과 비교</td></tr><tr><td><strong>폐기능</strong></td><td>-</td><td>회복 상태에서 spirometry(FEV₁ 포함) 재평가</td></tr><tr><td><strong>동반 질환</strong></td><td>심혈관질환 등 동반 질환의 상태와 치료 점검</td><td>동반 질환 및 추가 평가 필요성 재확인</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="160">점검 항목</th><th width="300">퇴원 후 1~4주</th><th width="300">퇴원 후 12~16주</th></tr></thead><tbody><tr><td><strong>생활 적응·지원</strong></td><td>가정환경에서 자가 관리 가능 여부 및 보호자·돌봄 지원 확인</td><td>생활 적응, 일상생활 수행 및 지원 필요성 재평가</td></tr><tr><td><strong>유지치료·흡입기</strong></td><td>치료 목적·복용법 이해, 순응도·부작용 및 흡입기 사용법 재확인</td><td>치료 이해·순응도와 흡입기 사용법 재평가, 필요시 유지치료 조정</td></tr><tr><td><strong>산소치료</strong></td><td>장기 산소치료의 필요성과 처방 유량 재평가</td><td>산소치료 지속 필요성과 처방 유량 재평가</td></tr><tr><td><strong>신체 활동·호흡 재활</strong></td><td>활동 능력 기록 및 호흡 재활 대상 여부 평가·연계</td><td>활동 능력·일상생활 수행과 재활 참여 상태 확인</td></tr><tr><td><strong>증상</strong></td><td>CAAT/CAT 또는 mMRC로 기록</td><td>동일 도구로 재평가하여 경과 비교</td></tr><tr><td><strong>폐기능</strong></td><td>-</td><td>회복 상태에서 spirometry(FEV₁ 포함) 재평가</td></tr><tr><td><strong>동반 질환</strong></td><td>심혈관질환 등 동반 질환의 상태와 치료 점검</td><td>동반 질환 및 추가 평가 필요성 재확인</td></tr></tbody></table>
 
 <p align="center"><em><mark style="color:$info;">Ref. GOLD 2026, Fig 4.10</mark></em></p>
 
@@ -943,4 +933,7 @@ J42(상세불명의 만성 기관지염)는 비폐쇄성 만성 기관지염에�
 
 #### <mark style="color:$primary;">악화 행동 계획 (Exacerbation Action Plan)</mark>
 
-<table><thead><tr><th>단계</th><th>상황</th><th>행동</th></tr></thead><tbody><tr><td>🟡 주의</td><td>평소보다 숨이 더 차거나 가래가 늘고 색이 변할 때</td><td>응급 흡입제를 처방된 행동계획에 따라 사용하고 당일 의료진에게 연락. 서면 계획 없이 스테로이드·항생제를 임의로 시작하지 않음</td></tr><tr><td>🔴 즉시 내원/119</td><td>응급 흡입제에도 숨이 매우 차거나 입술이 파래지고, 흉통·실신 또는 의식 혼미가 있을 때</td><td>즉시 응급실 방문 또는 119 호출</td></tr></tbody></table>
+| 단계           | 상황                                                | 행동                                                                     |
+| ------------ | ------------------------------------------------- | ---------------------------------------------------------------------- |
+| 🟡 주의        | 평소보다 숨이 더 차거나 가래가 늘고 색이 변할 때                      | 응급 흡입제를 처방된 행동계획에 따라 사용하고 당일 의료진에게 연락. 서면 계획 없이 스테로이드·항생제를 임의로 시작하지 않음 |
+| 🔴 즉시 내원/119 | 응급 흡입제에도 숨이 매우 차거나 입술이 파래지고, 흉통·실신 또는 의식 혼미가 있을 때 | 즉시 응급실 방문 또는 119 호출                                                    |
