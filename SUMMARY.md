@@ -1,6 +1,7 @@
 # Table of contents
 
 * [오창석 - 처방가이드](README.md)
+* [note](note.md)
 * [Part 1. 흔한 증상들](220_/README.md)
   * [통증 Pain](220_/001_-pain.md)
   * [흉통 Chest Pain](220_/002_-chest-pain.md)
