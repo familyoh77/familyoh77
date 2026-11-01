@@ -165,7 +165,7 @@ _<mark style="color:$info;">Ref. BSG/BSPGHAN eosinophilic oesophagitis guideline
 * Giardia 분변항원 또는 PCR 검사를 고려함. 다중 PCR 위장관 패널을 사용할 때는 Giardia 포함 여부를 확인함. 세균·바이러스 패널과 기생충 패널이 별도로 구성될 수 있음. 다른 기생충 검사는 여행·노출 위험에 따라 선택하고, 항생제·의료기관 노출 후 새로 발생한 설사에서는 \_C. difficile\_을 고려함.
 * Celiac disease 검사는 **글루텐 섭취 중 tTG-IgA와 total IgA**를 이용함. IgA 결핍 시 IgG 기반 검사로 보완하고, 양성이거나 임상적 의심이 높으면 전문 평가 및 십이지장 생검을 고려함. 검사 전에 임의로 글루텐 제한 식이를 시작하지 않음. 국내 유병률은 매우 낮으므로 검사 전 확률을 고려함.
 * 담즙산 설사(회장 질환·절제, 담낭절제 후 또는 원발성)와 **현미경적 대장염**을 고려함. 후자는 대장내시경 외관이 정상일 수 있어 의심 시 **우측·좌측 대장 생검**이 필요함. 국내에서는 담즙산 설사의 확진 검사(SeHCAT, 혈청 7α-C4)를 일반적으로 이용하기 어려워 담즙산 결합제의 경험적 치료를 고려할 수 있음. 반응만으로 확진하거나 무반응만으로 배제하지 않으며, 용량·복약 순응도·내약성과 다른 원인을 함께 평가함.
-* 혈변·체중 감소·빈혈·저알부민혈증, 지방변·흡수장애, 면역저하 또는 중요한 가족력이 있으면 의심 질환에 따른 평가를 확대함. **AGA 2019의 제한 검사 권고는 경고 징후가 없는 면역정상 성인의 만성 수양성 설사에 대한 것으로, 모든 만성 설사에 동일하게 적용하지 않음**.
+* 혈변·체중 감소·빈혈·저알부민혈증, 지방변·흡수장애, 면역저하 또는 중요한 가족력이 있으면 의심 질환에 따른 평가를 확대함. **AGA 2019의 제한 검사 권고는 경고 징후가 없는 정상 면역 성인의 만성 수양성 설사에 대한 것으로, 모든 만성 설사에 동일하게 적용하지 않음**.
 
 _<mark style="color:$info;">Ref. AGA chronic watery diarrhea guideline. Gastroenterology. 2019; UEG/EMCG microscopic colitis guideline. United European Gastroenterol J. 2021; ACG celiac disease guideline. Am J Gastroenterol. 2023.</mark>_
 
