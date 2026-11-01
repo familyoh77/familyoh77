@@ -42,7 +42,7 @@
 
 ### <mark style="color:orange;">임상형</mark>
 
-<table><thead><tr><th>임상형</th><th>특징</th><th>임상적 의미</th></tr></thead><tbody><tr><td>원위·측부 조갑하형(Distal and Lateral Subungual Onychomycosis, DLSO)</td><td>원위부 또는 측부에서 시작하는 조갑박리·조갑하 과각화</td><td>가장 흔한 형태</td></tr><tr><td>표재백색형(Superficial White Onychomycosis, SWO)</td><td>조갑판 표면의 분필 같은 백색 반점·반</td><td>표면 검체 채취가 유용</td></tr><tr><td>근위 조갑하형(Proximal Subungual Onychomycosis, PSO)</td><td>근위 조갑주름 쪽에서 시작하는 백색 변화</td><td>면역저하, 특히 HIV 위험을 평가하되 면역정상자에서도 발생 가능</td></tr><tr><td>조갑내형(Endonyx Onychomycosis, EO)</td><td>조갑판 내부의 유백색 변화와 층상 분리</td><td>조갑박리·조갑하 과각화가 두드러지지 않을 수 있음</td></tr><tr><td>전이영양형(Total Dystrophic Onychomycosis, TDO)</td><td>조갑판 전체의 비후·변형·파괴</td><td>중증 또는 장기간 지속된 감염</td></tr></tbody></table>
+<table><thead><tr><th>임상형</th><th>특징</th><th>임상적 의미</th></tr></thead><tbody><tr><td>원위·측부 조갑하형(Distal and Lateral Subungual Onychomycosis, DLSO)</td><td>원위부 또는 측부에서 시작하는 조갑박리·조갑하 과각화</td><td>가장 흔한 형태</td></tr><tr><td>표재백색형(Superficial White Onychomycosis, SWO)</td><td>조갑판 표면의 분필 같은 백색 반점·반</td><td>표면 검체 채취가 유용</td></tr><tr><td>근위 조갑하형(Proximal Subungual Onychomycosis, PSO)</td><td>근위 조갑주름 쪽에서 시작하는 백색 변화</td><td>면역저하, 특히 HIV 위험을 평가하되 정상 면역자에서도 발생 가능</td></tr><tr><td>조갑내형(Endonyx Onychomycosis, EO)</td><td>조갑판 내부의 유백색 변화와 층상 분리</td><td>조갑박리·조갑하 과각화가 두드러지지 않을 수 있음</td></tr><tr><td>전이영양형(Total Dystrophic Onychomycosis, TDO)</td><td>조갑판 전체의 비후·변형·파괴</td><td>중증 또는 장기간 지속된 감염</td></tr></tbody></table>
 
 ### <mark style="color:orange;">칸디다 감염과 만성 조갑주위염</mark>
 
