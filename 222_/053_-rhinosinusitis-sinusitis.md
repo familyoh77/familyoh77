@@ -36,7 +36,7 @@
 * 곰팡이
   * 침습성 진균성 비부비동염 : _Aspergillus_ spp., Mucorales
   * 침습성은 주로 조절되지 않는 당뇨병·호중구감소·장기 이식 등 면역 저하자에서 발생
-  * 비침습성 fungal ball 및 allergic fungal rhinosinusitis는 면역정상자에서도 발생 가능
+  * 비침습성 fungal ball 및 allergic fungal rhinosinusitis는 정상 면역자에서도 발생 가능
 
 #### <mark style="color:$primary;">위험 인자</mark>
 
