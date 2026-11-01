@@ -5,7 +5,7 @@
 * 성인의 복통·소화불량·삼킴곤란·구역/구토·설사·트림·복부 팽만을 증상과 위험도에 따라 감별함
 * 증상의 위치·변화 양상은 중요한 진단 단서이지만, 단독으로 원인 질환을 확정하지 않음
 * 소아의 연령별 진단기준과 응급평가는 별도로 적용함
-* 복통의 원인별 감별과 응급 평가는 [복통](003_-abdominal-pain.md) 챕터를 참고함&#x20;
+* 복통의 원인별 감별과 응급 평가는 [복통](003_-abdominal-pain.md) 챕터를 참고함
 
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
@@ -28,8 +28,6 @@ GLP-1 계열 약제, 즉 GLP-1 수용체 작용제(예: semaglutide, liraglutide
 ### <mark style="color:orange;">질환에 따른 주요 증상</mark>
 
 <table data-search="false"><thead><tr><th width="198">질환</th><th>주요 증상 및 특징</th></tr></thead><tbody><tr><td><strong>기능성 소화불량</strong></td><td>증상을 설명할 구조적·전신성·대사성 질환이 없으면서 일상생활에 지장을 주는 식후 포만감, 조기 포만감, 상복부 통증, 상복부 작열감 중 하나 이상이며 PDS 또는 EPS 기준을 충족함. 진단 최소 6개월 전에 시작되어 최근 3개월간 기준 충족</td></tr><tr><td><strong>식후곤란증후군(PDS)</strong></td><td>일상생활에 지장을 주는 식후 포만감 및/또는 조기 포만감이 주 2일 이상(Rome V); 상복부 팽만·트림·구역 동반 가능. 구역이 주증상이거나 구토가 지속되면 PDS 진단에서 제외하고 다른 구역·구토 질환 및 위마비 평가</td></tr><tr><td><strong>상복부통증증후군(EPS)</strong></td><td>일상생활에 지장을 주는 상복부 통증 및/또는 작열감이 주 1일 이상이며 PDS 기준은 충족하지 않음(Rome V). 구역이 주증상이거나 구토가 지속되면 다른 질환 평가</td></tr><tr><td><strong>위식도역류질환(GERD)</strong></td><td>흉골 뒤 작열감(heartburn)과 산 역류가 전형적 증상이며, 작열감이 목 쪽으로 상승할 수 있음</td></tr><tr><td><strong>위출구 폐색, 위마비</strong></td><td>식후 포만감, 조기 포만감, 오심·구토; 충분한 금식 후에도 유발되는 진수음(succussion splash)은 위 내용물 저류를 시사할 수 있으나 특이도는 제한적</td></tr><tr><td><strong>장폐색</strong></td><td>산통성 복통, 복부 팽만, 구토, 가스·대변 배출 감소/중단; 초기에는 고음성·증가된 장음이 들릴 수 있으나 진행하면 감소 또는 소실 가능. 장음만으로 폐색 여부를 판단하지 않으며, 부분 폐색에서는 대변·가스 배출이 일부 남을 수 있음</td></tr><tr><td><strong>장마비</strong></td><td>복부 팽만, 오심·구토, 가스·대변 배출 감소, 감소된 장음; 기계적 폐색과 감별 필요</td></tr><tr><td><strong>장허혈</strong></td><td>초기에는 복부 진찰 소견에 비해 매우 심한 통증(pain out of proportion)이 나타날 수 있으나, 진행하면 압통·복막자극징후 발생</td></tr><tr><td><strong>내장성 복통</strong></td><td>위치가 불명확한 정중선 주변 또는 광범위한 통증; 자율신경 증상 동반 가능</td></tr><tr><td><strong>췌장염, 담낭염</strong></td><td>구토로 호전되지 않는 지속적 상복부 또는 우상복부 통증; 각각 등 또는 우견갑부로 방사 가능</td></tr><tr><td><strong>복막 자극</strong></td><td>움직임·기침으로 악화되는 통증, 불수의적 guarding, rigidity, 반발압통; 고령자·면역저하자에서는 소견이 뚜렷하지 않을 수 있음</td></tr><tr><td><strong>복벽 통증</strong></td><td>국소적으로 명확한 압통; 복근을 긴장시킬 때 통증이 유지·증가하는 Carnett 징후가 시사적</td></tr><tr><td><strong>삼투성 설사</strong></td><td>금식 시 감소하거나 호전</td></tr><tr><td><strong>분비성 설사</strong></td><td>금식 중에도 지속되는 다량의 수양성 설사</td></tr><tr><td><strong>염증성 설사</strong></td><td>혈변·점액변, 발열, 복통, 배변 절박감; 감염성 장염과 IBD 등 감별</td></tr></tbody></table>
-
-
 
 ### <mark style="color:orange;">증상 및 병력에 따른 감별</mark>
 
@@ -101,7 +99,7 @@ GLP-1 계열 약제, 즉 GLP-1 수용체 작용제(예: semaglutide, liraglutide
 <table data-search="false"><thead><tr><th width="375">발생 양상</th><th>시사 진단</th></tr></thead><tbody><tr><td>갑작스러운 심한 통증</td><td>천공, 장허혈, 대동맥 질환, 담석 산통·요관 산통</td></tr><tr><td>급성 발현 후 수 시간\~수일 지속</td><td>감염성 위장염, 충수염, 담낭염, 급성 췌장염, 장폐색</td></tr><tr><td>수 주\~수개월 반복</td><td>DGBI, 소화성 궤양, 염증성 장질환, 담석 질환, 신생물</td></tr><tr><td>식후 악화</td><td>PDS, 담낭 질환, 위마비, 만성 장허혈; 위궤양에서도 가능</td></tr><tr><td>공복·야간 악화, 음식 또는 제산제로 일시 호전</td><td>십이지장궤양에서 가능하나 진단적 특이도는 낮음</td></tr><tr><td>복통이 배변과 연관되거나 배변 빈도·형태 변화 동반</td><td>IBS</td></tr><tr><td>금식 중에도 지속되는 야간 설사</td><td>분비성·염증성 설사 등 기질성 질환 가능성</td></tr><tr><td>수면 중 통증·설사로 각성</td><td>기질성 질환 가능성을 높이지만 단독 진단 기준은 아님</td></tr></tbody></table>
 
 {% hint style="info" %}
-**식사·배변과의 연관성 및 통증 위치**는 가능성을 시사할 뿐 진단적 특이도가 제한적임. \
+**식사·배변과의 연관성 및 통증 위치**는 가능성을 시사할 뿐 진단적 특이도가 제한적임.\
 고전적인 위궤양·십이지장궤양 **통증 패턴**만으로 진단하거나 내시경 필요성을 판단하지 않음
 {% endhint %}
 
@@ -171,7 +169,7 @@ _<mark style="color:$info;">Ref. Clinical Practice Guidelines for Functional Dys
 
 * 4주 이상 지속되는 설사는 수양성·염증성/혈성·지방성 양상, 체중 변화, 식이·약물, 항생제·입원·여행·수술력을 확인. 고령자·변비 환자는 분변 매복에 의한 넘침설사도 고려
 * 기능성 설사/IBS-D가 의심되는 만성 수양성 설사에서는 분변 calprotectin 또는 lactoferrin으로 IBD 선별을 고려. CRP·ESR만으로 IBD를 배제하지 않음
-* Giardia 분변항원 또는 PCR 검사를 고려. 다중 PCR 위장관 패널을 사용할 때는 Giardia 포함 여부를 확인. 세균·바이러스 패널과 기생충 패널이 별도로 구성될 수 있음. 다른 기생충 검사는 여행·노출 위험에 따라 선택하고, 항생제·의료기관 노출 후 새로 발생한 설사에서는 _C. difficile_을 고려
+* Giardia 분변항원 또는 PCR 검사를 고려. 다중 PCR 위장관 패널을 사용할 때는 Giardia 포함 여부를 확인. 세균·바이러스 패널과 기생충 패널이 별도로 구성될 수 있음. 다른 기생충 검사는 여행·노출 위험에 따라 선택하고, 항생제·의료기관 노출 후 새로 발생한 설사에서는 \_C. difficile\_을 고려
 * 셀리악병(celiac disease) 검사는 글루텐 섭취 중 tTG-IgA와 total IgA를 이용. IgA 결핍 시 IgG 기반 검사로 보완하고, 양성이거나 임상적 의심이 높으면 전문 평가 및 십이지장 생검을 고려. 검사 전에 임의로 글루텐 제한 식이를 시작하지 않음. 국내 유병률은 매우 낮으므로 검사 전 가능성을 고려
 * 담즙산 설사(회장 질환·절제, 담낭절제 후 또는 원발성)와 현미경적 대장염을 고려. 후자는 대장내시경 외관이 정상일 수 있어 의심 시 우측·좌측 대장 생검이 필요함. 국내에서는 담즙산 설사의 확진 검사(SeHCAT, 혈청 7α-C4)를 일반적으로 이용하기 어려워 담즙산 결합제의 경험적 치료를 고려할 수 있음. 반응만으로 확진하거나 무반응만으로 배제하지 않으며, 용량·복약 순응도·내약성과 다른 원인을 함께 평가
 * 혈변·체중 감소·빈혈·저알부민혈증, 지방변·흡수장애, 면역저하 또는 중요한 가족력이 있으면 의심 질환에 따른 평가를 확대. AGA 2019의 제한 검사 권고는 경고 징후가 없는 정상 면역 성인의 만성 수양성 설사에 대한 것으로, 모든 만성 설사에 동일하게 적용하지 않음
@@ -238,15 +236,13 @@ flowchart TD
     style J fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
-<p align="center"><strong>위장관 증상 평가 알고리듬</strong><br><em><mark style="color:$info;">본 장의 경고 징후와 증상별 평가 원칙을 통합하여 저자가 구성함.</mark></em><br><em><mark style="color:$info;">응급 평가의 주요 근거: Birk M, et al. Endoscopy. 2016;48(5):489-496; Bala M, et al. World J Emerg Surg. 2022;17:54.</mark></em><br><em><mark style="color:$info;">소화불량 평가 및 DGBI 진단의 주요 근거: Oh JH, et al. J Neurogastroenterol Motil. 2020;26(1):29-50; Törnblom H, et al. Gastroenterology. 2026;170(6):1240-1260; Corsetti M, et al. Gastroenterology. 2026;170(6):1261-1282.</mark></em></p>
-
 > _치료 중 증상이 지속·악화하거나 새로운 경고 징후가 생기면 처음 단계부터 다시 평가_
+
+<p align="center"><strong>위장관 증상 평가 알고리듬</strong></p>
 
 ***
 
 ## <mark style="background-color:$warning;">Management</mark>
-
-
 
 * 진단되는 각 질환에 따른 치료를 시행
 * 경고 징후의 긴급도에 따라 원인 평가를 우선하고, 증상 치료와 수분·영양 관리를 병행함
@@ -289,15 +285,15 @@ flowchart TD
 
 <figure><img src="../.gitbook/assets/074_belching_algorithm_v3.png" alt="트림 의심 환자의 평가와 유형별 관리 알고리듬"><figcaption></figcaption></figure>
 
-<p align="center"><strong>트림 및 트림 불능의 평가·관리</strong><br><em><mark style="color:$info;">Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 4를 근거로 저자가 재구성함.</mark></em><br><em><mark style="color:$info;">추가 반영: Rome V 위십이지장 질환 진단기준(Törnblom H, et al. Gastroenterology. 2026;170(6):1240-1260) 및 ACG GERD 지침(Katz PO, et al. Am J Gastroenterol. 2022;117(1):27-56).</mark></em></p>
+<p align="center"><strong>트림 및 트림 불능의 평가·관리</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 4;</mark></em> <br><em><mark style="color:$info;">Rome V: Törnblom H, et al. Gastroenterology. 2026;170(6):1240-1260;</mark></em> <br><em><mark style="color:$info;">Katz PO, et al. Am J Gastroenterol. 2022;117(1):27-56)</mark></em></p>
 
 ***
 
 <figure><img src="../.gitbook/assets/074_bloating_algorithm_v2.png" alt="경고 징후를 먼저 평가하는 복부 팽만감 및 복부 팽창 알고리듬"><figcaption></figcaption></figure>
 
-<p align="center"><strong>복부 팽만감·복부 팽창의 평가와 관리</strong><br><em><mark style="color:$info;">Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 5를 근거로 저자가 재구성함.</mark></em><br><em><mark style="color:$info;">추가 반영: ACG SIBO 지침(Pimentel M, et al. Am J Gastroenterol. 2020;115(2):165-178), Rome V 장 질환 진단기준(Corsetti M, et al. Gastroenterology. 2026;170(6):1261-1282) 및 ESNM/UEG 합의문(Melchior C, et al. United European Gastroenterol J. 2025;13(9):1613-1651).</mark></em></p>
+<p align="center"><strong>복부 팽만감·복부 팽창의 평가와 관리</strong><br><em><mark style="color:$info;">저자 재구성 (참고 문헌: Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 5;</mark></em> <br><em><mark style="color:$info;">Pimentel M, et al. Am J Gastroenterol. 2020;115(2):165-178;</mark></em> <br><em><mark style="color:$info;">Rome V: Corsetti M, et al. Gastroenterology. 2026;170(6):1261-1282;</mark></em> <br><em><mark style="color:$info;">Melchior C, et al. United European Gastroenterol J. 2025;13(9):1613-1651)</mark></em></p>
 
-_<mark style="color:$info;">APD = abdominophrenic dyssynergia; ARM = anorectal manometry; BET = balloon expulsion test; CBT = 인지행동치료; FODMAP = fermentable oligosaccharides, disaccharides, monosaccharides and polyols; HRIM = high-resolution impedance manometry; NCGS = nonceliac gluten sensitivity; R-CPD = retrograde cricopharyngeal dysfunction; SIBO = small intestinal bacterial overgrowth; TLESR = transient lower esophageal sphincter relaxation; VH = visceral hypersensitivity</mark>_
+> _<mark style="color:$info;">APD = abdominophrenic dyssynergia; ARM = anorectal manometry; BET = balloon expulsion test; CBT = 인지행동치료; FODMAP = fermentable oligosaccharides, disaccharides, monosaccharides and polyols; HRIM = high-resolution impedance manometry; NCGS = nonceliac gluten sensitivity; R-CPD = retrograde cricopharyngeal dysfunction; SIBO = small intestinal bacterial overgrowth; TLESR = transient lower esophageal sphincter relaxation; VH = visceral hypersensitivity</mark>_
 
 ***
 
