@@ -1,4 +1,4 @@
-# 원형탈모증 Alopecia Areata (AA)
+# 원형탈모증 Alopecia Areata, AA
 
 ## <mark style="color:green;">일반 사항</mark>
 
@@ -71,16 +71,15 @@
 ### <mark style="color:orange;">SALT 기반 중증도</mark>
 
 * **SALT는 두피 모발 소실률(0\~100)**을 평가하며 눈썹·속눈썹·체모·손발톱 및 삶의 질을 포함하지 않음. 두정부 40%, 후두부 24%, 좌·우 측두부 각각 18%의 가중치로 각 부위의 모발 소실률을 합산함. SALT ≤20은 두피 탈모가 20% 이하로 남았다는 뜻이며, 20%만 재성장했다는 의미가 아님.
-* SALT 0 : 두피 탈모 없음; 눈썹·속눈썹 단독 침범은 가능함
-* 0＜SALT≤20 : 제한성(경증)
-* 20＜SALT＜50 : 중등도
-* SALT 50\~100 : 중증
-* 중등도(20＜SALT＜50)라도 눈썹·속눈썹의 뚜렷한 침범, 현저한 정신사회적 영향, 6개월 이상 적절한 치료에 불충분한 반응 또는 빠르게 진행하는 미만성 활동성이 있으면 중증으로 상향 평가할 수 있다<mark style="color:$info;">(BAD/BHNS/Alopecia UK, 2026-09)</mark>. **임상적 중증도 상향과 국내 JAK 억제제의 허가·급여 조건은 별도로 판단함.**
+* SALT 0 : 두피 탈모 없음; 눈썹·속눈썹 단독 침범은 가능함.
+* **국내 대한모발학회 합의 기준(2024)** : 경증 0＜SALT＜20, 중등도 20≤SALT＜50, 중증 SALT ≥50. 중등도라도 ① DLQI ＞10(소아는 CDLQI), ② 뚜렷한 눈썹 **또는** 속눈썹 소실, ③ 양성 모발당김검사 또는 활동성 두피경 소견, ④ 적절한 치료에도 불충분한 반응이 있으면 중증으로 상향 평가함. 치료 불응성은 약제·기간·순응도를 함께 검토하며 국내 합의에서는 24주 치료 후 반응을 평가함. <mark style="color:$info;">[대한모발학회 2024](https://doi.org/10.5021/ad.24.058)</mark>
+* **BAD 2025와 경계값 구분** : BAD는 경증 SALT 1\~20, 중등도 21\~49, 중증 50\~100으로 제시함. 따라서 SALT 20은 국내 합의에서는 중등도, BAD에서는 경증으로 분류됨. 본 알고리듬은 국내 합의의 20점 경계값을 사용함.
+* BAD/BHNS/Alopecia UK 2026 보완지침도 중등도에서 눈썹·속눈썹 침범, 현저한 정신사회적 영향, 6개월 이상 치료에 불충분한 반응 또는 빠른 진행의 미만성 활동성에 따른 중증 상향을 인정함. **임상적 중증도 상향, KCD 세부코드 선택, 국내 JAK 억제제의 허가·급여 판단은 각각 근거를 기록하여 구분함. 특히 국내 급여는 SALT 20\~49에서 눈썹과 속눈썹의 고시상 조건을 모두 충족해야 하므로 임상 중증도 상향만으로 인정되지 않음.**
 
 ### <mark style="color:orange;">검사</mark>
 
 * **전형적인 원형탈모증에서 일률적인 혈액검사는 필요하지 않음.**
-* 갑상선검사(TSH ± free T4, 필요 시 갑상선 자가항체)는 갑상선 증상·징후, 갑상선질환 가족력, Down syndrome, 아토피, AT/AU 등 위험이 있을 때 선택적으로 고려함.
+* 갑상선검사(TSH ± free T4, 필요 시 갑상선 자가항체)는 갑상선 증상·징후 또는 가족력 등 위험에 따라 선택함. 소아에서는 특히 Down syndrome·아토피 병력도 선별 근거가 되며, 성인에서는 일률적인 검사보다 임상 소견을 우선하되 AT/AU 등 광범위 질환에서 검사를 고려할 수 있음.
 * 철분상태(ferritin, iron/TIBC), 아연, 비타민 D의 routine screening은 근거가 부족함<mark style="color:$info;">(BAD Living Guideline 2025 - 철분 보충의 발모 효과를 입증한 연구 없음)</mark>. 미만성 탈모, 빈혈 위험, 영양결핍 의심 등 별도의 임상 적응증이 있을 때만 선택적으로 검사함.
 * 인설·염증·후두부 림프절종대가 있으면 KOH/진균배양을, 위험력과 좀먹은 모양 탈모가 있으면 매독 혈청검사를 고려함.
 
@@ -102,8 +101,8 @@ graph TD
     T --->|예| TC["두부백선 검사·전신 항진균제; kerion은 당일 평가"]
     T --->|아니오| D["두피경·SALT 평가 및 눈썹·속눈썹·손발톱·정신사회적 영향 확인"]
     D ---> E{"두피 범위와 추가 중증도 요인"}
-    E --->|"0＜SALT≤20; 안정적"| F["경과 관찰 또는 국소 스테로이드; 성인은 병변내 주사 고려"]
-    E --->|"20＜SALT＜50"| G["국소 치료 및 피부과 평가; 추가 요인에 따라 중증 상향"]
+    E --->|"0＜SALT＜20; 안정적"| F["경과 관찰 또는 국소 스테로이드; 성인은 병변내 주사 고려"]
+    E --->|"20≤SALT＜50"| G["국소 치료 및 피부과 평가; 추가 요인에 따라 중증 상향"]
     E --->|"SALT ≥50, AT/AU 또는 빠른 진행·기능상 침범"| H["피부과 의뢰; JAK 억제제·접촉면역요법 등 개별 선택"]
     E --->|"SALT 0; 눈썹·속눈썹 침범"| G
     F ---> I{"단기 안전성 점검 및 수개월 반응 평가"}
@@ -117,7 +116,7 @@ graph TD
 
 <p align="center"><strong>진단 및 중증도 기반 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">저자 종합: BAD Living Guideline 2025 및 BAD/BHNS/Alopecia UK JAK 억제제 보완지침(2026-09). 국내 허가·급여 조건은 아래 별도 기준 참조</mark></em></p>
+<p align="center"><em><mark style="color:$info;">저자 종합: 대한모발학회 중증도 합의(2024), BAD Living Guideline 2025 및 BAD/BHNS/Alopecia UK JAK 억제제 보완지침(2026-09). 국내 허가·급여 조건은 아래 별도 기준 참조</mark></em></p>
 
 ***
 
@@ -147,14 +146,15 @@ graph TD
 #### <mark style="color:$primary;">국소 Steroid</mark>
 
 * BAD Living Guideline 2025는 두피 원형탈모증의 1차 치료로 강한 또는 매우 강한 역가의 국소 스테로이드를 qd, 3\~6개월 치료 과정에서 사용할 것을 권고함. 이는 **국내 모든 clobetasol 제품을 3\~6개월 연속 처방해도 된다는 뜻은 아님.**
-* 예 : clobetasol propionate 0.05% 두피용 액제 <mark style="color:blue;">\[도모호론액 등]</mark> 병변에 소량 qd. 국내 해당 제품은 원형탈모증이 허가 적응증에 명시되지 않아 허가 외 사용임. **도모호론액 허가사항상 2주 이상의 연속 치료 및 주 50 mL 초과 사용을 피함.** 초기에는 1\~2주 이내에 사용량·피부 부작용을 재평가하고, 수개월 치료 과정의 휴약·제제 변경·간헐 사용은 전문적으로 개별화함.
+* 예 : clobetasol propionate 두피용 액제 <mark style="color:blue;">\[도모호론액: 0.466 ㎎/㎖, 100 ㎖ 중 46.6 ㎎]</mark> 병변에 소량 qd. 국내 해당 제품은 원형탈모증이 허가 적응증에 명시되지 않아 허가 외 사용임. **도모호론액 허가사항상 2주 이상의 연속 치료 및 주 50 ㎖ 초과 사용을 피함.** 초기에는 1주경 사용량·피부 부작용을 재평가하고, 수개월 치료 과정의 휴약·제제 변경·간헐 사용은 전문적으로 개별화함.
+* **동명 품목 주의** : 위 도포액(품목기준코드 200201131)과 **도모호론액0.05% 샴푸**(202401574)는 별도 품목임. 후자는 두부 건선용 샴푸로 2026-03-19 취하되었으므로 처방례의 도포액과 혼동하지 않음.
 * 소아·청소년에서 6주 사용–6주 휴약–6주 재사용은 국외 지침·연구에 제시된 요법임. 국내 clobetasol 제품의 연령·연속 사용 제한과 구분함. 도모호론액은 24개월 미만 금기이며 24개월 이상 18세 미만에서도 사용이 권장되지 않으므로, **소아에게 동일 요법을 일률적으로 처방하지 않고** 피부과에서 제품 선택·허가 외 사용·단기 모니터링을 결정함.
 * 부작용 : 모낭염, 모세혈관확장, 피부위축, 저색소증. 어두운 피부색에서는 색소 변화 위험을 사전에 설명함. 병변 위치·면적과 1회 사용량을 구체적으로 지정하고 광범위한 두피에 장기간 무제한 사용하지 않음. 모발 재성장이 확인되면 사용 빈도 감량 또는 중단을 고려하며, 피부위축·모세혈관확장·모낭염이 발생하면 즉시 중단하거나 치료를 변경함.
 
 #### <mark style="color:$primary;">병변내 Steroid 주사</mark>
 
 * 성인의 제한성\~중등도 원형탈모증에서 1차 선택으로 고려함. 통증 때문에 소아에서는 연령과 협조도를 고려하여 선별적으로 시행함.
-* triamcinolone acetonide는 성인 두피에서 **5 ㎎/㎖로 시작**하는 것이 일반적이며(허용 범위 2.5\~10 ㎎/㎖), 탈모반과 경계에 1 ㎝ 간격으로 0.1 ㎖/㎠씩 피내 주사함. 보통 6\~12주 간격으로 반복함<mark style="color:$info;">(BAD 2025)</mark>. 회당 총 주입량·triamcinolone 총량을 기록하고 기관 프로토콜에 따라 제한함. 광범위 병변에 면적당 용량을 그대로 곱하여 대량 주입하지 않음.
+* triamcinolone acetonide는 성인 두피에서 **5 ㎎/㎖로 시작**하는 것이 일반적이며(허용 범위 2.5\~10 ㎎/㎖), 탈모반과 경계에 1 ㎝ 간격으로 0.1 ㎖/㎠씩 피내 주사함. 보통 6\~12주 간격으로 반복함<mark style="color:$info;">(BAD 2025)</mark>. 회당 총 주입량·triamcinolone 총량을 기록하고 기관 프로토콜에 따라 제한함. 2026 아시아·태평양 전문가 합의의 상한은 40 ㎎/월이며, 이를 목표 용량으로 사용하지 않고 작은 병변에는 필요한 최소량만 투여함. 광범위 병변에 면적당 용량을 그대로 곱하여 대량 주입하지 않음.
 * 눈썹·수염 등 피부가 얇거나 위축 위험이 큰 부위에는 **2.5 ㎎/㎖ 정도의 저농도**를 우선 고려함. 눈 주위 병변은 세심한 주사 깊이가 필요하고 안구 합병증 위험이 있어 숙련된 피부과에서 시행함.
 * 3\~6개월 내 반응이 없거나 위축이 발생하면 중단·변경함.
 * 부작용 : 통증, 일시적 피부/피하지방 위축, 모세혈관확장, 저색소증. 국소마취크림·냉각·진동 등을 통증 감소에 활용할 수 있음.
@@ -163,7 +163,7 @@ graph TD
 
 * 다른 치료와 병용하는 보조요법으로 사용함. 염증을 억제하는 치료가 아니므로 활동성·광범위 질환의 단독 치료로 권하지 않음.
 * 원형탈모증에 대한 국소 minoxidil은 **국내 허가 외 보조치료**임. 제품별 성별·연령 제한과 갑작스러운·반점형 탈모의 사용 제외 조건을 확인함. 두피에 다른 국소 약물을 사용하는 경우의 제한도 확인하며, 단순히 도포 간격을 두는 것만으로 허가사항상 병용 제한이 해소되지 않음.
-* 전문적 판단으로 선택할 경우 성별·제형에 맞는 용량을 적용함. 성인 남성 5% 액제 0.5\~1 mL bid(최대 2 mL/day), 성인 여성 5% foam 1 g qd 등; 이는 패턴 탈모의 허가 용량을 참고한 예이며 원형탈모증의 허가 요법은 아님. <mark style="color:blue;">\[마이녹실·로게인폼 등]</mark>
+* 전문적 판단으로 선택할 경우 성별·제형에 맞는 용량을 적용함. 성인 남성 5% 액제 0.5\~1 ㎖ bid(최대 2 ㎖/day), 성인 여성 5% foam 1 g qd 등; 이는 패턴 탈모의 허가 용량을 참고한 예이며 원형탈모증의 허가 요법은 아님. <mark style="color:blue;">\[마이녹실·로게인폼 등]</mark>
 * 부작용 : 자극/알레르기 접촉피부염, 원치 않는 얼굴 다모증, 초기 일시적 탈락 증가. 임신·수유 중 사용은 피함.
 
 #### <mark style="color:$primary;">Dithranol(Anthralin)</mark>
@@ -192,7 +192,7 @@ graph TD
 
 #### <mark style="color:$primary;">Janus kinase(JAK) 억제제</mark>
 
-<table><thead><tr><th width="190">약제</th><th width="230">국내 허가 범위(허가사항 확인 후 적용)</th><th width="170">일반적 허가 용량</th><th>비고</th></tr></thead><tbody><tr><td>Baricitinib <mark style="color:blue;">\[올루미언트]</mark></td><td>중증 원형탈모증 : 성인 및 만 12세 이상이면서 체중 30 ㎏ 이상인 청소년</td><td>성인 통상 4 ㎎ qd, 해당 위험군 2 ㎎ qd; 청소년(12세 이상·30 ㎏ 이상) 4 ㎎ qd. 신기능·강력 OAT3 억제제에 따른 감량은 아래 참조</td><td>King 등이 2건의 3상 임상시험(BRAVE-AA1·BRAVE-AA2)을 보고함(NEJM 2022). 성인 중증 원형탈모증은 2026-07-01부터 조건부 급여</td></tr><tr><td>Ritlecitinib <mark style="color:blue;">\[리트풀로캡슐 50 ㎎]</mark></td><td>성인 및 만 12세 이상 청소년의 중증 원형탈모증</td><td>50 ㎎ qd</td><td>2024년 9월 국내 허가. 치료 효과·위험을 정기 재평가. 36주 무반응 시 중단 고려는 국외 지침의 임상 기준이며 국내 허가사항의 명시적 중단 기준으로 인용하지 않음</td></tr><tr><td>Deuruxolitinib(Leqselvi)</td><td>국내 미허가 (2026년 8월 기준)</td><td>-</td><td>미국·영국 승인. 미국 허가사항상 CYP2C9 poor metabolizer 및 중등도/강력 CYP2C9 억제제 병용은 금기; 투여 전 유전형 평가 필요</td></tr><tr><td>Tofacitinib, ruxolitinib 등</td><td>원형탈모증 국내 허가 치료제가 아님</td><td>-</td><td>off-label 사용; 허가된 JAK 억제제와 구분. 국소 JAK 억제제의 근거도 불충분</td></tr></tbody></table>
+<table><thead><tr><th width="190">약제</th><th width="230">국내 허가 범위(허가사항 확인 후 적용)</th><th width="170">일반적 허가 용량</th><th>비고</th></tr></thead><tbody><tr><td>Baricitinib <mark style="color:blue;">\[올루미언트]</mark></td><td>중증 원형탈모증 : 성인 및 만 12세 이상이면서 체중 30 ㎏ 이상인 청소년</td><td>성인 통상 4 ㎎ qd, 해당 위험군 2 ㎎ qd; 청소년(12세 이상·30 ㎏ 이상) 4 ㎎ qd. 성인·청소년 모두 지속 조절 시 2 ㎎ qd 점감 고려. 신기능·강력 OAT3 억제제에 따른 감량은 아래 참조</td><td>King 등이 2건의 3상 임상시험(BRAVE-AA1·BRAVE-AA2)을 보고함(NEJM 2022). 성인 중증 원형탈모증은 2026-07-01부터 조건부 급여</td></tr><tr><td>Ritlecitinib <mark style="color:blue;">\[리트풀로캡슐 50 ㎎]</mark></td><td>성인 및 만 12세 이상 청소년의 중증 원형탈모증</td><td>50 ㎎ qd</td><td>2024년 9월 국내 허가. 치료 효과·위험을 정기 재평가. 36주 무반응 시 중단 고려는 국외 지침의 임상 기준이며 국내 허가사항의 명시적 중단 기준으로 인용하지 않음</td></tr><tr><td>Deuruxolitinib(Leqselvi)</td><td>국내 허가를 확인하지 못함(2026-10-31 검색); 도입 여부 별도 확인</td><td>-</td><td>미국·영국 승인. 미국 허가사항상 CYP2C9 poor metabolizer 및 중등도/강력 CYP2C9 억제제 병용은 금기; 투여 전 유전형 평가 필요</td></tr><tr><td>Tofacitinib, ruxolitinib 등</td><td>원형탈모증 국내 허가 치료제가 아님</td><td>-</td><td>off-label 사용; 허가된 JAK 억제제와 구분. 국소 JAK 억제제의 근거도 불충분</td></tr></tbody></table>
 
 * 리틀레시티닙 50 ㎎ qd의 공개 연장연구에서 36\~38개월 SALT ≤20 달성률은 관찰자료 65.1%, LOCF 47.1%였음. 1년 반응자의 약 88\~90%는 3년 평가 시점에도 SALT ≤20이었으나, 이는 그 사이 모든 시점에 반응이 지속되었다는 뜻은 아님(2026년 정오표 반영). 연구 중단과 결측치 처리의 한계를 고려하며, SALT ≤20 달성은 완전한 발모 또는 완치를 뜻하지 않음. <mark style="color:$info;">[Am J Clin Dermatol 2026](https://doi.org/10.1007/s40257-026-01029-y); [Correction 2026](https://doi.org/10.1007/s40257-026-01059-6)</mark>
 
@@ -207,42 +207,38 @@ graph TD
   * Ritlecitinib 국내 허가사항에는 36주 무반응에 대한 고정된 중단 규정이 명시되어 있지 않음. BAD/BHNS/Alopecia UK 2026 보완지침은 36주에 반응을 재평가하고 전혀 반응이 없으면 중단하도록 제안하므로, 이를 국외 임상 기준으로 구분하여 적용함. <mark style="color:$info;">[BAD/BHNS/Alopecia UK 2026](https://cdn.bad.org.uk/uploads/2026/09/15162600/JAKI-for-AA-supplementary-guidance-SEP-2026-1.pdf)</mark>
 
 * **투여 전 체크리스트**
-  * 활동성 감염과 중증·반복 감염 병력을 평가함.
-  * 결핵은 IGRA 또는 TST로 선별함. 양성, 결핵 증상 또는 고위험력이 있으면 흉부 X-ray와 추가 평가를 시행함.
-  * B형간염은 HBsAg, anti-HBc, anti-HBs를, C형간염은 anti-HCV를 확인하고 양성이면 HCV RNA 등 추가 평가를 시행함.
+  * 활동성 감염과 중증·반복 감염 병력을 평가함. 결핵을 포함한 중대한 활동성 감염이 있으면 두 약제 모두 시작하지 않음.
+  * 결핵은 IGRA 또는 TST로 선별하고 증상·노출력·흉부 영상으로 활동성 결핵을 배제함. 잠복결핵이면 투여 전 예방치료를 시작하고 감염 전문의와 투여 시점을 결정함. Ritlecitinib 국내 허가사항은 검사 음성이어도 결핵 고위험군에서 투여 전 예방요법을 시작하도록 명시하므로, 음성 결과만으로 배제하지 않음.
+  * B형간염은 HBsAg, anti-HBc, anti-HBs를, C형간염은 anti-HCV를 확인하고 양성이면 HBV DNA·HCV RNA 등 추가 평가를 시행함. **Ritlecitinib은 B형 또는 C형간염 환자에서 권장되지 않음.** 과거 감염 표지자 양성과 현재 감염을 구분하고, 양성 소견이 있으면 간질환 전문의와 약제 선택·재활성화 예방을 결정함.
   * CBC with differential, AST/ALT를 확인함. Baricitinib은 Hb·ANC·ALC, Cr/eGFR 및 지질검사를 포함하고, ritlecitinib은 특히 ALC·혈소판수를 확인하며 필요 시 간기능과 CPK를 약제 허가사항에 따라 평가함.
-  * 임신 가능성과 피임, 예방접종 상태를 확인하고 필요한 예방접종을 가능하면 투여 전에 완료함. 치료 중 생백신은 피함.
+  * 임신 가능성과 피임, 예방접종 상태를 확인하고 필요한 예방접종을 가능하면 투여 전에 완료함. 투여 직전 및 치료 중 생백신은 피함.
 * **약제별 주요 투여 제한·추적**
-  * Baricitinib: ANC ＜1,000/㎣, ALC ＜500/㎣ 또는 Hb ＜8 g/dL이면 시작하지 않거나 일시중단함. CrCl 30\~60 mL/min에서는 성인 2 ㎎ qd; CrCl ＜30 mL/min은 국내 금기임. Probenecid 등 강력 OAT3 억제제 병용도 성인 2 ㎎ qd가 권장됨. 원형탈모증 청소년(12세 이상·30 ㎏ 이상)도 CrCl 30\~60 mL/min 또는 강력 OAT3 억제제 병용 시 2 ㎎ qd임. 30 ㎏ 미만 원형탈모증 환자에게 아토피피부염·소아관절염의 체중별 용량을 적용하지 않음. 지질은 시작 약 12주 후 및 이후 위험도에 따라 추적함.
+  * Baricitinib: ANC ＜1,000/㎣, ALC ＜500/㎣ 또는 Hb ＜8 g/dL이면 시작하지 않거나 일시중단함. CrCl 30\~60 ㎖/min에서는 성인 2 ㎎ qd; CrCl ＜30 ㎖/min은 국내 금기임. 중증 간장애에서는 권장되지 않음. Probenecid 등 강력 OAT3 억제제 병용도 성인 2 ㎎ qd가 권장됨. 원형탈모증 청소년(12세 이상·30 ㎏ 이상)도 CrCl 30\~60 ㎖/min 또는 강력 OAT3 억제제 병용 시 2 ㎎ qd임. 30 ㎏ 미만 원형탈모증 환자에게 아토피피부염·소아관절염의 체중별 용량을 적용하지 않음. 지질은 시작 약 12주 후 및 이후 위험도에 따라 추적함.
   * Ritlecitinib: 시작 전 ALC ＜500/㎣ 또는 혈소판 ＜100,000/㎣이면 투여하지 않음. **시작 4주 후 ALC·혈소판 재검** 및 이후 정기 추적; ALC ＜500/㎣이면 일시중단하고 회복 후 재개, 혈소판 ＜50,000/㎣이면 투여를 중단함. 지질·CPK를 일률적으로 반복하지 않으며 임상 적응증에 따라 검사함. 경증\~중증 신장애에서는 감량하지 않으나 ESRD·신장이식 환자와 중증(Child-Pugh C) 간장애 환자에서는 권장되지 않음. Baricitinib의 신기능 감량 기준을 그대로 적용하지 않음.
   * 임신·수유 중 투여하지 않음. 효과적인 피임은 투여 중 및 최종 투여 후 baricitinib 최소 1주, ritlecitinib 1개월 동안 유지함.
-  * 중대한 감염·대상포진·혈전증 의심 또는 약제 유발 간손상 의심 시 투약 보류·평가함. Ritlecitinib 복용 중 원인불명의 신경학적 증상이 생기면 중단·평가하며, rifampicin 등 강력 CYP3A 유도제 병용은 피함. 약제별 최신 국내 제품설명서를 적용함.
+  * 중대한 감염·대상포진·혈전증 의심 또는 약제 유발 간손상 의심 시 투약 보류·평가함. 피부암 위험을 평가하고 정기 피부검진을 고려함. Baricitinib 복용 중 새로 발생한 심한 복통은 게실염·위장관 천공 가능성을 평가하며, 당뇨약 병용 환자는 저혈당에도 주의함. Ritlecitinib 복용 중 원인불명의 신경학적 증상이 생기면 중단·평가하며, rifampicin 등 강력 CYP3A 유도제 병용은 피함. Ritlecitinib은 CYP3A·CYP1A2 기질 중 치료역이 좁은 병용약의 농도를 높일 수 있어 추가 모니터링·용량 조절 필요성을 확인함. 약제별 최신 국내 제품설명서를 적용함.
 * 중대한 감염, 대상포진, 혈구감소, 간효소·지질 변화, 혈전색전증, 주요 심혈관사건, 악성종양 위험을 설명함. 65세 이상, 현재·과거 흡연자 및 심혈관·악성종양 위험군은 국내 허가사항의 기존 치료 실패·내약성 제한을 적용하고, 혈전 고위험군은 사용을 피하는 방향으로 평가함. 이 계열 경고의 주요 근거에는 심혈관 위험이 있는 고령 류마티스관절염 환자의 tofacitinib 연구가 포함되므로, 젊은 원형탈모증 환자의 절대 위험이 동일하다고 설명하지 않음.
 * 다른 JAK 억제제, 생물학적 면역조절제, ciclosporin 등 강력한 면역억제제와의 병용은 권장하지 않음.
 * 반응이 나타나기까지 수개월이 걸릴 수 있으며 중단 후 재발 가능성이 있어 장기 계획과 정기적인 SALT/사진 평가가 필요함.
+* **국외 보완지침의 적용 범위** : BAD/BHNS/Alopecia UK 2026은 ritlecitinib·deuruxolitinib을 현재 탈모 에피소드 또는 질병 기간 6개월 미만에 시작하지 않도록 제안함. 또한 장기간의 매우 심한 질환에서 부분 발모가 계속되면 평가기간을 연장할 여지를 두지만, **국내 baricitinib 급여의 36주 SALT ≤20 기준을 연장·완화하는 근거로 적용하지 않음.**
 
 ## <mark style="color:green;">시술 및 기타 처치</mark>
 
-### <mark style="color:orange;">광선치료</mark>
+### <mark style="color:orange;">광선치료 및 기타 시술</mark>
 
 * PUVA는 위험–이득을 고려하여 선택된 환자에서만 시행함. 특히 갈색 및 검은 피부에서 국소적 치료를 원하는 경우, 접촉면역요법에 따른 피부 탈색소 위험을 피하기 위한 선택지로 더 수용 가능할 수 있음. 시행 시 짧은 치료 주기, 작은 치료 면적 및 제한된 치료기간을 고려하며, 장기 광독성·광노화·피부암 위험과 재발 가능성도 함께 평가함<mark style="color:$info;">(BAD Living Guideline 2025, R36)</mark>.
 * NB-UVB, excimer, low-level laser 등은 원형탈모증에 일률적으로 권고할 근거가 불충분함. Prednisolone과 PUVA 병용도 표준치료로 권하지 않음.
+* PRP, 미세침, 냉동요법 및 줄기세포 치료는 근거의 질·표준화가 제한적이므로 일상적인 1차 치료로 권하지 않음. 선택적 보조시술의 가능성과 확립된 치료의 대체 여부를 구분하여 설명함.
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-L63 원형탈모증
+저장된 KCD-9 엑셀(2026-01-01 시행)의 공식 명칭과 완전코드에 대조함. 아래 점 표기는 엑셀의 점 없는 코드에 분류 점을 넣은 것임.
 
-L63.0 전두탈모
+<table><thead><tr><th>코드</th><th>공식 한글명</th><th>영문명</th></tr></thead><tbody><tr><td>L63</td><td>원형 탈모증</td><td>Alopecia areata</td></tr><tr><td>L63.0</td><td>전체(두피)탈모증</td><td>Alopecia (capitis) totalis</td></tr><tr><td>L63.1</td><td>전신탈모증</td><td>Alopecia universalis</td></tr><tr><td>L63.2</td><td>뱀모양탈모증</td><td>Ophiasis</td></tr><tr><td>L63.8</td><td>기타 원형 탈모증</td><td>Other alopecia areata</td></tr><tr><td>L63.80</td><td>기타 원형 탈모증, 경도의</td><td>Other alopecia areata, Mild</td></tr><tr><td>L63.81</td><td>기타 원형 탈모증, 중등도의</td><td>Other alopecia areata, Moderate</td></tr><tr><td>L63.82</td><td>기타 원형 탈모증, 중증의</td><td>Other alopecia areata, Severe</td></tr><tr><td>L63.89</td><td>기타 원형 탈모증, 상세불명의</td><td>Other alopecia areata, Unspecified</td></tr><tr><td>L63.9</td><td>상세불명의 원형 탈모증</td><td>Alopecia areata, unspecified</td></tr></tbody></table>
 
-L63.1 전신탈모
-
-L63.2 사행성 탈모증(ophiasis)
-
-L63.8 기타 원형탈모증
-
-L63.9 상세불명의 원형탈모증
+✽L63 및 L63.8은 상위 분류이며 완전코드가 아님. L63.8에 해당하면 중증도를 기록하여 L63.80·L63.81·L63.82·L63.89 중 선택함. 전두·전신·뱀모양 탈모는 해당 형태 코드로 구분함. 엑셀에는 중증도 코드별 SALT 경계값이 제시되어 있지 않으므로 분류표 자체가 특정 임상지침의 중증도 정의나 약제 급여기준을 확정한다고 해석하지 않음.
 
 ***
 
@@ -251,10 +247,10 @@ L63.9 상세불명의 원형탈모증
 > **처방례 1. 성인 제한성 두피 원형탈모증**
 >
 > ```
-> 도모호론액 0.05%(clobetasol propionate)  병변에 소량 도포  qd × 7~14일 후 재평가
+> 도모호론액(clobetasol propionate 0.466 ㎎/㎖)  병변에 소량 도포  qd × 7일 후 재평가
 > ```
 >
-> _✽원형탈모증의 허가 외 사용이며 매우 강한 역가 제제임. 두피의 제한된 면적에 사용하고 2주 이상의 연속 치료 및 주 50 mL 초과 사용을 피함. 1~2주 이내 안전성을 확인하고 이후 휴약·간헐 사용·제제 변경을 결정하며, 모발 재성장 효과는 수개월 단위로 평가함. Minoxidil은 자동 병용하지 않고 해당 제품의 반점형 탈모·두피용 약제 병용 제한을 확인한 뒤 전문적으로 판단함._
+> _✽원형탈모증의 허가 외 사용이며 매우 강한 역가 제제임. 동명 0.05% 샴푸 품목과 구분함. 두피의 제한된 면적에 사용하고 2주 이상의 연속 치료 및 주 50 ㎖ 초과 사용을 피함. 1주경 안전성을 확인하고 이후 휴약·간헐 사용·제제 변경을 결정하며, 모발 재성장 효과는 수개월 단위로 평가함. Minoxidil은 자동 병용하지 않고 해당 제품의 반점형 탈모·두피용 약제 병용 제한을 확인한 뒤 전문적으로 판단함._
 
 > **처방례 2. 성인 제한성\~중등도 병변내 주사**
 >
@@ -275,7 +271,7 @@ L63.9 상세불명의 원형탈모증
 
 ***
 
-### <mark style="color:$success;">핵심 복약 지도</mark>
+## <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **국소 스테로이드 사용법**
 >
@@ -304,12 +300,34 @@ L63.9 상세불명의 원형탈모증
 >
 > * 처방된 검사와 예방접종 일정을 지킵니다. 특히 리트풀로는 시작 4주 후 혈구검사가 필요합니다. 치료 중 생백신은 피합니다.
 > * 임신·수유 중에는 사용하지 않으며, 마지막 복용 뒤에도 올루미언트는 최소 1주, 리트풀로는 1개월 동안 효과적인 피임을 유지합니다.
+> * 리트풀로는 캡슐을 통째로 삼킵니다. 복용을 잊었다면 다음 복용까지 8시간 이상 남았을 때만 복용하고, 8시간 미만이면 건너뜁니다. 두 배로 복용하지 않습니다.
 > * 고열·심한 감염 증상 또는 대상포진이 생기면 당일 처방 의료진에게 연락하고 투약 지속 여부를 확인합니다. 흉통·갑작스러운 호흡곤란·편측 다리 부종·뇌졸중 의심 증상은 투약을 보류하고 즉시 응급 평가를 받습니다.
 > * 중단하면 다시 빠질 수 있습니다. 임의로 끊거나 재복용하지 말고 치료 반응·안전성·급여 기간을 함께 고려하여 장기 계획을 상의합니다.
 
 ***
 
-### <mark style="color:blue;">환자 안내서</mark>
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* Harries MJ, et al. [British Association of Dermatologists living guideline for managing people with alopecia areata 2025](https://doi.org/10.1093/bjd/ljaf452). Br J Dermatol. 2026;194(2):e56–e73. - 지침명은 2025, 권호 발행연도는 2026.
+* BAD, BHNS, Alopecia UK. [Janus kinase inhibitors for alopecia areata: professional guidance supplementary to NICE TA958 and TA1178](https://cdn.bad.org.uk/uploads/2026/09/15162600/JAKI-for-AA-supplementary-guidance-SEP-2026-1.pdf). Version 3, September 2026. - 영국 지침으로 국내 허가·급여기준과 구분.
+* Jang YH, et al. [Korean Consensus Criteria for the Severity Classification of Alopecia Areata](https://doi.org/10.5021/ad.24.058). Ann Dermatol. 2024;36(4):236–246.
+* Sinclair R, et al. [Epidemiology, Diagnosis and Management of Alopecia Areata: An Asia-Pacific Modified Delphi Expert Panel Recommendations](https://doi.org/10.1111/ijd.70335). Int J Dermatol. 2026;65(10):2091–2101.
+* 대한모발학회. Guidelines for the Management of Patients with Alopecia Areata in Korea: [Part I Topical and Device-based Treatment](https://doi.org/10.5021/ad.22.168); [Part II Systemic Treatment](https://doi.org/10.5021/ad.22.167). Ann Dermatol. 2023;35(3):190–204, 205–216.
+* Senna M, et al. [Long-Term Efficacy and Safety of Ritlecitinib in Adults and Adolescents with Alopecia Areata: 3-Year Results from the ALLEGRO Phase 2b/3 and ALLEGRO-LT Phase 3 Clinical Studies](https://doi.org/10.1007/s40257-026-01029-y). Am J Clin Dermatol. 2026;27:1091–1105. [Correction](https://doi.org/10.1007/s40257-026-01059-6). 2026;27:1127–1129.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* **처방 시 최신 품목정보/급여기준 조회.** 확인일: 2026-10-31.
+* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) - 도모호론액·미녹시딜·올루미언트·리트풀로의 국내 적응증·연령·용량·금기·검사·중단 기준 확인 자료.
+* 건강보험심사평가원. [Baricitinib 경구제 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&mtgMtrRegSno=0001&sno=1). 고시 제2026-133호, 2026-07-01 시행.
+* 통계청. 한국표준질병·사인분류 제9차 개정(KCD-9), 2026-01-01 시행. 저장된 KCD9_251216(6).xlsx의 전체·완전코드·신설코드 시트 직접 대조.
+* Sun Pharmaceutical Industries. [LEQSELVI US prescribing information](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095). - 국내 미허가 약제의 국외 허가사항.
+
+***
+
+## <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
 **원형탈모증, 전염되지 않으며 다시 자랄 수 있는 병입니다**
@@ -354,18 +372,3 @@ L63.9 상세불명의 원형탈모증
 * JAK 억제제 복용 중 열·감염 증상 또는 대상포진이 생기면 당일 처방 의료진에게 연락하십시오.
 
 ***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* Harries MJ, et al. [British Association of Dermatologists living guideline for managing people with alopecia areata 2025](https://doi.org/10.1093/bjd/ljaf452). Br J Dermatol. 2026;194(2):e56–e73. — 지침명은 2025, 권호 발행연도는 2026.
-* BAD, BHNS, Alopecia UK. [Janus kinase inhibitors for alopecia areata: professional guidance supplementary to NICE TA958 and TA1178](https://cdn.bad.org.uk/uploads/2026/09/15162600/JAKI-for-AA-supplementary-guidance-SEP-2026-1.pdf). Version 3, September 2026. — 영국 지침으로 국내 허가·급여기준과 구분.
-* 대한모발학회. Guidelines for the Management of Patients with Alopecia Areata in Korea: [Part I Topical and Device-based Treatment](https://doi.org/10.5021/ad.22.168); [Part II Systemic Treatment](https://doi.org/10.5021/ad.22.167). Ann Dermatol. 2023;35(3):190–204, 205–216.
-* Senna M, et al. [Long-Term Efficacy and Safety of Ritlecitinib in Adults and Adolescents with Alopecia Areata: 3-Year Results from the ALLEGRO Phase 2b/3 and ALLEGRO-LT Phase 3 Clinical Studies](https://doi.org/10.1007/s40257-026-01029-y). Am J Clin Dermatol. 2026;27:1091–1105. [Correction](https://doi.org/10.1007/s40257-026-01059-6). 2026;27:1127–1129.
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라](https://nedrug.mfds.go.kr/) — 도모호론액·미녹시딜·올루미언트·리트풀로의 국내 적응증·연령·용량·금기·검사·중단 기준 확인 자료.
-* 건강보험심사평가원. [Baricitinib 경구제 급여기준](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20260701&mtgMtrRegSno=0001&sno=1). 고시 제2026-133호, 2026-07-01 시행.
-* Sun Pharmaceutical Industries. [LEQSELVI US prescribing information](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095). — 국내 미허가 약제의 국외 허가사항.
