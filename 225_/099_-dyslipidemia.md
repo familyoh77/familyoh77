@@ -633,7 +633,7 @@ _<mark style="color:$info;">Ref. 식품의약품안전처. 넥스레톨정180mg 
 
 ## <mark style="color:green;">특수 상황별 관리</mark>
 
-### <mark style="color:orange;">당뇨병 환자의 이상지질혈증</mark> <mark style="color:orange;"></mark><mark style="color:$info;"><mark style="color:orange;">\[ADA]<mark style="color:orange;"></mark>
+### <mark style="color:orange;">당뇨병 환자의 이상지질혈증</mark> <mark style="color:orange;"><mark style="color:$info;">\[ADA]<mark style="color:$info;"></mark>
 
 #### <mark style="color:$primary;">1차 예방</mark>
 

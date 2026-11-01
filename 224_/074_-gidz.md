@@ -210,26 +210,11 @@ _<mark style="color:$info;">Ref. 국립암센터. 국가 위암 검진 권고안
 ***
 
 ```mermaid
-flowchart TD
-    A["위장관 증상"] --> B["Red Flags의 즉각 조치 항목에 해당?"]
-    B -- "예" --> C["즉각 조치"]
-    B -- "아니오" --> D["Red Flags의 당일~수일 내 평가 항목에 해당?"]
-    D -- "예" --> E["당일~수일 내 평가"]
-    D -- "아니오" --> F["Red Flags의 조기 평가 및 추적 항목에 해당?"]
-    F -- "예" --> G["조기 평가 및 추적"]
-    F -- "아니오" --> H["주증상·위치·시간 양상 및 약물·식이 평가"]
-    H --> I["증상별 필수 평가"]
-    I --> J["경험적 치료 또는 DGBI 적극적 진단"]
-
-    classDef question fill:#fff9c4,stroke:#ffe082
-    class B,D,F question
-    style A fill:#eeeeee,stroke:#888888,stroke-width:2px
-    style J fill:#f96,stroke:#e65100,stroke-width:2px
 ```
 
-<p align="center"><strong>위장관 증상 평가 알고리듬</strong></p>
-
 > 치료 중 증상이 지속·악화하거나 새로운 경고 징후가 생기면 처음 단계부터 다시 평가함.
+
+<p align="center"><strong>위장관 증상 평가 알고리듬</strong><br><em><mark style="color:$info;">저자 재작성 (참고 문헌 :   )</mark></em></p>
 
 ***
 
@@ -285,8 +270,6 @@ _<mark style="color:$info;">OCULUS 논문의 2026년 5월 4일·18일 정정은 
 
 <figure><img src="../.gitbook/assets/074_belching_algorithm_v3.png" alt=""><figcaption><p>트림 및 트림 불능의 평가·관리 - Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 4를 근거로 재구성하고, Rome V(2026) 및 ACG GERD 지침(2022)을 반영함.</p></figcaption></figure>
 
-
-
 <figure><img src="../.gitbook/assets/074_bloating_algorithm_v2.png" alt=""><figcaption><p>복부 팽만감·복부 팽창의 평가와 관리 - Moshiree B, et al. Gastroenterology. 2023;165(3):791-800.e3, Fig. 5를 근거로 재구성하고, ACG SIBO 지침(2020), Rome V(2026), ESNM/UEG 합의문(2025)을 반영함.</p></figcaption></figure>
 
 _<mark style="color:$info;">APD = abdominophrenic dyssynergia; ARM = anorectal manometry; BET = balloon expulsion test; CBT = 인지행동치료; FODMAP = fermentable oligosaccharides, disaccharides, monosaccharides and polyols; HRIM = high-resolution impedance manometry; NCGS = nonceliac gluten sensitivity; R-CPD = retrograde cricopharyngeal dysfunction; SIBO = small intestinal bacterial overgrowth; TLESR = transient lower esophageal sphincter relaxation; VH = visceral hypersensitivity</mark>_
@@ -330,23 +313,23 @@ _<mark style="color:$info;">Ref. Moshiree B, et al. Gastroenterology. 2023;165(3
 
 ## <mark style="color:red;">질병코드</mark>
 
-* <mark style="color:$danger;">R10</mark> 복부 및 골반 통증 Abdominal and pelvic pain
-* <mark style="color:$danger;">R11</mark> 구역 및 구토 Nausea and vomiting
-* <mark style="color:$danger;">R12</mark> 속쓰림 Heartburn
-* <mark style="color:$danger;">R13</mark> 삼킴곤란 Dysphagia
-* <mark style="color:$danger;">R14</mark> 고창 및 연관된 병태 Flatulence and related conditions
-* <mark style="color:$danger;">R19.4</mark> 배변습관 변화 Change in bowel habit
-* <mark style="color:$danger;">K30</mark> 기능성 소화불량 Functional dyspepsia
-* <mark style="color:$danger;">K58.1</mark> 설사 위주의 과민대장증후군 Irritable bowel syndrome with predominant diarrhoea \[IBS-D]
-* <mark style="color:$danger;">K58.2</mark> 변비 위주의 과민대장증후군 Irritable bowel syndrome with predominant constipation \[IBS-C]
-* <mark style="color:$danger;">K58.3</mark> 혼합형 과민대장증후군 Irritable bowel syndrome with mixed bowel habits \[IBS-M]
-* <mark style="color:$danger;">K58.8</mark> 기타 및 상세불명 유형의 과민대장 증후군 Other and unspecified irritable bowel syndrome
+* R10 복부 및 골반 통증 Abdominal and pelvic pain
+* R11 구역 및 구토 Nausea and vomiting
+* R12 속쓰림 Heartburn
+* R13 삼킴곤란 Dysphagia
+* R14 고창 및 연관된 병태 Flatulence and related conditions
+* R19.4 배변습관 변화 Change in bowel habit
+* K30 기능성 소화불량 Functional dyspepsia
+* K58.1 설사 위주의 과민대장증후군 Irritable bowel syndrome with predominant diarrhoea \[IBS-D]
+* K58.2 변비 위주의 과민대장증후군 Irritable bowel syndrome with predominant constipation \[IBS-C]
+* K58.3 혼합형 과민대장증후군 Irritable bowel syndrome with mixed bowel habits \[IBS-M]
+* K58.8 기타 및 상세불명 유형의 과민대장 증후군 Other and unspecified irritable bowel syndrome
 
 설사는 임상 진단에 따라 다음 국내 코드를 선택함.
 
-* <mark style="color:$danger;">A09.9</mark> 상세불명 기원의 위장염 및 결장염 Gastroenteritis and colitis of unspecified origin
-* <mark style="color:$danger;">K52.9</mark> 상세불명의 비감염성 위장염 및 결장염 Noninfective gastroenteritis and colitis, unspecified
-* <mark style="color:$danger;">K59.1</mark> 기능성 설사 Functional diarrhoea
+* A09.9 상세불명 기원의 위장염 및 결장염 Gastroenteritis and colitis of unspecified origin
+* K52.9 상세불명의 비감염성 위장염 및 결장염 Noninfective gastroenteritis and colitis, unspecified
+* K59.1 기능성 설사 Functional diarrhoea
 
 {% hint style="info" %}
 미국 ICD-10-CM의 R19.7을 국내 KCD 설사 코드로 그대로 옮기지 않음. 원인 질환이 확인되면 원인 질환을 중심으로 코딩하고, 필요시 별도 평가·치료한 증상을 추가함. R10·R11 등 세분류가 있는 범주는 실제 임상 기록에 맞는 세부 코드를 선택함.
