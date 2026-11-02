@@ -2,18 +2,20 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
+* 이 장은 성인 비만을 중심으로 다룸. 소아·청소년은 연령·성별 BMI 기준과 제품별 별도 허가사항을 적용하며 성인 기준을 그대로 적용하지 않음
+
 * 비만의 임상적 의미 : 사망 위험이 가장 낮은 BMI 범위는 연령·성별·흡연·기저질환 등에 따라 달라 단일 수치로 단정하지 않음. 치료 전 체중의 3\~5% 감량만으로도 혈당·혈압·혈중 지질 등 대사 위험인자가 개선될 수 있고, 5\~10% 감량 시 여러 비만 관련 합병증의 임상적 개선이 더 뚜렷해짐
 
 ### <mark style="color:orange;">정의</mark>
 
 #### <mark style="color:$primary;">체질량지수(Body Mass Index, BMI) 기준</mark>
 
-<table><thead><tr><th width="112.2105712890625">BMI (㎏/㎡)</th><th width="118.52630615234375">대한비만학회¹⁾ (2024)</th><th width="114.26318359375">아시아·태평양 보고서 (2000)</th><th width="124.5262451171875">WHO (세계)/CDC</th><th>관련 질환 위험도, 복부비만(−) 시 ²⁾</th><th>관련 질환 위험도, 복부비만(+) 시</th></tr></thead><tbody><tr><td>&#x3C;18.5</td><td>저체중</td><td>저체중</td><td>저체중</td><td>낮음</td><td>보통</td></tr><tr><td>18.5~22.9</td><td>정상</td><td>정상</td><td>정상</td><td>보통</td><td>약간 높음</td></tr><tr><td>23~24.9</td><td>비만 전단계</td><td>과체중</td><td>정상</td><td>증가</td><td>높음</td></tr><tr><td>25~29.9</td><td>1단계 비만</td><td>비만</td><td>과체중</td><td>높음</td><td>매우 높음</td></tr><tr><td>30~34.9</td><td>2단계 비만</td><td>고도 비만</td><td>비만 (Class I)</td><td>매우 높음</td><td>매우 높음</td></tr><tr><td>35~39.9</td><td>3단계 비만</td><td>고도 비만</td><td>비만 (Class II)</td><td>극도로 높음</td><td>극도로 높음</td></tr><tr><td>≥40</td><td>3단계 비만</td><td>고도 비만</td><td>비만 (Class III)</td><td>극도로 높음</td><td>극도로 높음</td></tr></tbody></table>
+<table><thead><tr><th width="112.2105712890625">BMI (㎏/㎡)</th><th width="118.52630615234375">대한비만학회¹⁾ (2024)</th><th width="114.26318359375">아시아·태평양 보고서 (2000)</th><th width="124.5262451171875">WHO (세계)/CDC</th><th>관련 질환 위험도, 복부비만(−) 시 ²⁾</th><th>관련 질환 위험도, 복부비만(+) 시</th></tr></thead><tbody><tr><td>＜18.5</td><td>저체중</td><td>저체중</td><td>저체중</td><td>낮음</td><td>보통</td></tr><tr><td>18.5~22.9</td><td>정상</td><td>정상</td><td>정상</td><td>보통</td><td>약간 높음</td></tr><tr><td>23~24.9</td><td>비만 전단계</td><td>과체중</td><td>정상</td><td>증가</td><td>높음</td></tr><tr><td>25~29.9</td><td>1단계 비만</td><td>비만</td><td>과체중</td><td>높음</td><td>매우 높음</td></tr><tr><td>30~34.9</td><td>2단계 비만</td><td>고도 비만</td><td>비만 (Class I)</td><td>매우 높음</td><td>매우 높음</td></tr><tr><td>35~39.9</td><td>3단계 비만</td><td>고도 비만</td><td>비만 (Class II)</td><td>극도로 높음</td><td>극도로 높음</td></tr><tr><td>≥40</td><td>3단계 비만</td><td>고도 비만</td><td>비만 (Class III)</td><td>극도로 높음</td><td>극도로 높음</td></tr></tbody></table>
 
 ※ 아시아·태평양 열은 WHO 서태평양지역·IASO·IOTF의 2000년 제안 분류로, WHO의 전 세계 공통 BMI 분류와 구분함.
 
 ¹⁾ 비만 전단계는 '과체중' 또는 '위험체중'으로, 3단계 비만은 '고도 비만'으로도 부를 수 있음; 일부 문헌에서는 BMI ≥40을 '초고도 비만'으로 별도 표기하기도 하나 국내 공식 3단계 분류에 통용되는 용어는 아님\
-²⁾ 복부비만 유무에 따른 관련 질환 위험도: 복부 비만은 BMI와 독립적으로 대사증후군, 당뇨병, 관상동맥병의 이환율과 사망률을 증가시키므로 복부비만이 있는 경우에는 위험도를 한 단계 높여 관리
+²⁾ 복부비만은 BMI와 독립적으로 대사질환·심혈관질환 위험을 높일 수 있음. 표는 집단 수준의 위험도 개요이며, 개인의 치료 강도는 실제 동반질환·기능·전체 심혈관 위험을 함께 평가하여 결정함. 모든 BMI 구간에서 위험도를 기계적으로 한 단계씩 올리는 규칙은 아님
 
 #### <mark style="color:$primary;">복부 비만 (허리 둘레)</mark>
 
@@ -33,7 +35,7 @@
 
 ### <mark style="color:orange;">비만 관련 합병증</mark>
 
-<table><thead><tr><th width="123.15789794921875">계통</th><th>주요 합병증</th></tr></thead><tbody><tr><td>대사</td><td>인슐린 저항성, 2형 당뇨병, 이상지질혈증, 대사증후군, MASLD/MASH (기존 NAFLD/NASH)</td></tr><tr><td>심혈관</td><td>고혈압, 관상동맥질환, 심부전, 심방세동, 뇌졸중</td></tr><tr><td>호흡기</td><td>폐쇄수면무호흡증(OSA), 비만 저환기증(OHS), 천식 악화</td></tr><tr><td>근골격</td><td>퇴행성 관절염(슬관절·고관절), 통풍, 요통</td></tr><tr><td>소화기</td><td>GERD, 담석증</td></tr><tr><td>생식/내분비</td><td>다낭성난소증후군(PCOS), 불임, 임신 합병증, 남성 성기능 장애</td></tr><tr><td>종양</td><td>자궁내막암, 유방암, 대장암, 신장암, 간암 위험 증가</td></tr><tr><td>심리/사회</td><td>우울증, 불안장애, 자존감 저하, 삶의 질 감소</td></tr><tr><td>비뇨·신경·기능</td><td>요실금, 신체기능 저하·장애, 치매 위험과의 연관성(아래 주석 참조)</td></tr></tbody></table>
+<table><thead><tr><th width="123.15789794921875">계통</th><th>주요 합병증</th></tr></thead><tbody><tr><td>대사</td><td>인슐린 저항성, 2형 당뇨병, 이상지질혈증, 대사증후군, MASLD/MASH (기존 NAFLD/NASH)</td></tr><tr><td>심혈관</td><td>고혈압, 관상동맥질환, 심부전, 심방세동, 뇌졸중</td></tr><tr><td>호흡기</td><td>폐쇄수면무호흡증(OSA), 비만 저환기증(OHS), 천식 악화</td></tr><tr><td>근골격</td><td>퇴행성 관절염(슬관절·고관절), 통풍, 요통</td></tr><tr><td>소화기</td><td>GERD, 담석증</td></tr><tr><td>생식/내분비</td><td>다낭성난소증후군(PCOS), 불임, 임신 합병증, 남성 성기능 장애</td></tr><tr><td>종양</td><td>자궁내막암, 폐경 후 유방암, 대장암, 신장암, 간암 위험 증가</td></tr><tr><td>심리/사회</td><td>우울증, 불안장애, 자존감 저하, 삶의 질 감소</td></tr><tr><td>비뇨·신경·기능</td><td>요실금, 신체기능 저하·장애, 치매 위험과의 연관성(아래 주석 참조)</td></tr></tbody></table>
 
 * 치매 위험과 비만의 관계는 연령에 따라 다름. 중년 비만은 이후 치매 위험 증가와 연관되나 고령기에는 관계가 약해지며, 영양불량·전임상 질환에 따른 체중감소도 고려해야 함 [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751)
 
@@ -81,11 +83,11 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751); [ESPE
 
 **2차성 비만**
 
-* 유전자 돌연변이, 선천성 장애, 약물, 신경계 질환, 내분비계 질환(갑상선저하증, 쿠싱증후군, 다낭성난소증후군, 성장호르몬 결핍), 정신 질환 등에 의한 비만
+* 유전자 돌연변이, 선천성 장애, 약물, 신경계 질환, 내분비계 질환(갑상선저하증, 쿠싱증후군, 성장호르몬 결핍), 정신 질환 등에 의한 비만
 
 #### <mark style="color:$primary;">장기 기능 손상 여부에 따라</mark>
 
-* 치료 적응증 결정과 목표 설정에 실용적 근거를 제공 \[Lancet commission on obesity, 2025]
+* 치료 적응증 결정과 목표 설정에 참고 <mark style="color:$info;">\[Lancet Diabetes Endocrinol 2025]</mark>
 
 **전임상 비만** (preclinical obesity)
 
@@ -97,7 +99,7 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751); [ESPE
 
 {% hint style="info" %}
 **새로운 제안 체계**  
-임상/전임상 비만은 Lancet Commission(2025)이 제안한 분류이며, 아직 국내 진단·허가·급여 기준이나 기존 BMI·허리둘레 평가를 대체하지 않음.
+임상/전임상 비만은 Lancet Commission(2025)이 제안했으며 대한비만학회 2024 개정 지침의 2025년 발표문에도 도입된 개념임. 기존 BMI·허리둘레 평가와 함께 활용하며, 개별 의약품 허가·건강보험 급여 기준을 대체하지 않음.
 {% endhint %}
 
 #### <mark style="color:$primary;">Edmonton Obesity Staging System (EOSS)</mark>
@@ -145,26 +147,27 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751); [ESPE
 
 <mark style="color:$danger;">**즉각 조치**</mark>
 
-* BMI와 관계없이 SpO₂ ＜90%, 심한 호흡곤란, 청색증, 의식 저하 → 급성 호흡부전(비만 저환기증 악화 등) 의심
-* 급성 흉통, 발한, 심한 빈맥/서맥 → 급성심근경색/부정맥
-* 심한 혈압 상승(흔히 ≥180/120 ㎜Hg)과 급성 신경학적 이상·흉통·폐부종·시력 저하 등 급성 표적장기 손상 의심 → 고혈압 응급. 수치나 두통만으로 응급 여부를 단정하지 않음
-* 구체적 자살 계획·자해 위험, 섭식장애에 동반된 의식 저하·순환 불안정·중증 탈수·전해질 이상 → 즉시 응급 평가
-* 감량 약물 투여 중 아나필락시스, 경련, 급격한 시력 저하 → 해당 약제 중단 및 즉시 평가
+* BMI와 관계없이 SpO₂ ＜90%, 심한 호흡곤란, 청색증, 의식 저하 → 급성 호흡부전(비만 저환기증 악화 등) 의심  `급성 호흡부전`
+* 급성 흉통, 발한, 심한 빈맥/서맥 → 급성심근경색/부정맥  `급성관상동맥증후군·부정맥`
+* 심한 혈압 상승(흔히 ≥180/120 ㎜Hg)과 급성 신경학적 이상·흉통·폐부종·시력 저하 등 급성 표적장기 손상 의심 → 고혈압 응급. 수치나 두통만으로 응급 여부를 단정하지 않음  `고혈압 응급`
+* 구체적 자살 계획·자해 위험, 섭식장애에 동반된 의식 저하·순환 불안정·중증 탈수·전해질 이상 → 즉시 응급 평가  `자살·섭식장애 응급`
+* 감량 약물 투여 중 아나필락시스, 경련, 급격한 시력 저하 → 해당 약제 중단 및 즉시 평가  `중대한 약물이상반응`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
-* 수일\~수주 내 급격한 체중 증가와 전신부종·호흡곤란·소변량 감소 → 심부전, 신질환, 간질환 등에 의한 체액저류를 당일 평가함. 호흡·순환 불안정은 즉각 조치함
-* GLP-1 기반 감량 약물 사용 중 지속되는 심한 복통·반복 구토·황달 → 투여를 보류하고 췌장염·담낭질환·탈수 등을 당일 평가함. 의식 저하·순환 불안정은 즉각 조치함
-* 수면 중 반복되는 호흡 정지와 주간 졸림에 더해 운전 중 졸림, 안정 시 저산소혈증 또는 심폐 불안정 동반 → 신속한 수면·호흡 평가
-* 섭식장애 의심, 새로운 자살사고 또는 섭취 감소·탈수 → 당일 신체·정신건강 평가; 즉각 자해 위험이나 의학적 불안정은 위 응급 항목에 따라 조치
+* 수일\~수주 내 급격한 체중 증가와 전신부종·호흡곤란·소변량 감소 → 심부전, 신질환, 간질환 등에 의한 체액저류를 당일 평가함. 호흡·순환 불안정은 즉각 조치함  `급성 체액저류`
+* GLP-1 기반 감량 약물 사용 중 지속되는 심한 복통·반복 구토·황달 → 투여를 보류하고 췌장염·담낭질환·탈수 등을 당일 평가함. 의식 저하·순환 불안정은 즉각 조치함  `췌장염·담도질환·탈수`
+* 수면 중 반복되는 호흡 정지와 주간 졸림에 더해 운전 중 졸림, 안정 시 저산소혈증 또는 심폐 불안정 동반 → 신속한 수면·호흡 평가  `중증 수면호흡장애`
+* 섭식장애 의심, 새로운 자살사고 또는 섭취 감소·탈수 → 당일 신체·정신건강 평가; 즉각 자해 위험이나 의학적 불안정은 위 응급 항목에 따라 조치  `정신건강·영양 위험`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
-* 6개월 이상 적극 치료에도 목표 체중 미달성
-* 약물 치료 중 새로운 대사 합병증 발생(혈당 상승, 간기능 이상, 혈압 악화)
-* 치료 과정에서 심리·정서적 문제(우울, 불안, 자존감 저하) 대두
-* 대사수술 평가 기준 해당 시(하단 '시술 및 수술 치료' 참고) → 비만 전문치료 및 대사수술 평가 계획
-* 목격된 무호흡, 심한 코골이, 주간 과다졸림 → OSA 검사 계획. ESS ＞10은 과다졸림을 시사하지만 ESS가 낮아도 OSA를 배제할 수 없으며 ≥16을 검사 필수조건으로 사용하지 않음. 운전 중 졸리면 운전을 피하고 신속히 평가
+* 6개월 이상 적극 치료에도 목표 체중 미달성  `치료 반응 재평가`
+* 약물 치료 중 새로운 대사 합병증 발생(혈당 상승, 간기능 이상, 혈압 악화)  `합병증·약물 안전성`
+* 치료 과정에서 심리·정서적 문제(우울, 불안, 자존감 저하) 대두  `정신건강 문제`
+* 대사수술 평가 기준 해당 시(하단 '시술 및 수술 치료' 참고) → 비만 전문치료 및 대사수술 평가 계획  `대사수술 평가`
+* 목격된 무호흡, 심한 코골이, 주간 과다졸림 → OSA 검사 계획. ESS ＞10은 과다졸림을 시사하지만 ESS가 낮아도 OSA를 배제할 수 없으며 ≥16을 검사 필수조건으로 사용하지 않음. 운전 중 졸리면 운전을 피하고 신속히 평가  `폐쇄성 수면무호흡증`
+
 
 ## <mark style="color:green;">진단</mark>
 
@@ -191,19 +194,21 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751); [ESPE
 
 * [**MASLD**](../224_/093_-nafld.md) **단계별 접근** : 대사 고위험 또는 MASLD 의심 → FIB-4 기반 1차 섬유화 위험 평가 → 중간·고위험 시 VCTE/ELF 등 2차 평가 및 필요 시 의뢰. ALT가 정상이고 초음파상 지방간이 뚜렷하지 않아도 MASLD·섬유화를 완전히 배제할 수 없음
 * **기타 고려** : 체지방 분석(일률적 권고 미시행), 수면다원검사(OSA 의심 시), 쿠싱증후군/시상하부 이상 검사
+* **비만 저환기증후군(OHS)** : 비만 + 수면호흡장애 + 다른 원인으로 설명되지 않는 주간 각성 시 PaCO₂ ≥45 ㎜Hg. 의심도가 낮거나 중간인 수면호흡장애 환자에서는 혈청 bicarbonate ＜27 mmol/L이면 가능성이 낮고, ≥27이면 동맥혈가스검사로 확인. 의심도가 높으면 bicarbonate나 SpO₂만으로 배제하지 않고 동맥혈가스검사·수면 평가 시행 <mark style="color:$info;">\[Am J Respir Crit Care Med 2019]</mark>
 
 #### <mark style="color:$primary;">2차성 비만 감별</mark>
 
 * **갑상선저하증** : TSH↑, free T4↓, 서맥, 추위 불내성, 변비
-* **쿠싱증후군** : 중심성 비만, 달덩이 얼굴, 자주색 피부 선조, 근력 저하, 고혈당
-* **다낭성난소증후군(PCOS)** : 희발 월경, 고안드로겐혈증, 초음파상 다낭성 난소
+* **쿠싱증후군** : 중심성 비만만으로 선별하지 않음. 넓은 자주색 선조, 쉽게 멍듦, 근위부 근력 저하, 설명되지 않는 골다공증 등 특징적 소견이 있을 때 선택적으로 검사; 외인성 glucocorticoid 노출도 확인
+* **다낭성난소증후군(PCOS)** : 비만과 양방향으로 연관되며, 비만의 단순한 원인으로만 분류하지 않음. 성인은 유사 질환을 배제한 뒤 배란장애·임상적/생화학적 고안드로겐증·다낭성 난소 형태 중 2가지로 진단. 월경불순과 고안드로겐증이 함께 있으면 초음파나 AMH가 필수는 아니며, 성인에서 AMH는 초음파를 대체하는 진단 알고리듬 안에서 사용 <mark style="color:$info;">\[J Clin Endocrinol Metab 2023]</mark>
+  * 2026-05-12 국제 공동 명칭 변경으로 Polyendocrine Metabolic Ovarian Syndrome(PMOS)이 발표됨. 이 장에서는 기존 국내 용어·다른 장과의 연결을 위해 PCOS를 유지하고 새 명칭을 병기함. 명칭 변경 자체가 국내 코드·허가 기준 변경을 뜻하지 않음
 * **시상하부 이상** : 두통, 시야 장애, 다뇨/다음증 동반
 
 ***
 
 ```mermaid
 flowchart TD
-    A["비만 환자 내원"] ---> R{"응급 위험 신호?"}
+    A(["비만 의심"]) ---> R{"응급 위험 신호?"}
     R -- 예 ---> Q["응급 평가·안정화"]
     R -- 아니오 ---> B["BMI·복부비만·합병증·기능 평가"]
     Q -. 안정화 후 .-> B
@@ -251,7 +256,7 @@ flowchart TD
 치료 강도는 BMI 수치 자체보다 **비만 관련 합병증**(T2DM, OSA, MASLD, CVD, OA 등), 기능 저하, 삶의 질 저하를 함께 고려하여 결정함. 동일 BMI라도 복부 비만·대사 이상·심혈관 위험이 높은 경우 적극적 치료가 정당화되며, BMI가 낮더라도 합병증의 평가·치료가 필요함. 다만 비만 약물·수술의 적응증은 해당 국내 허가·학회·급여 기준을 각각 확인함.
 {% endhint %}
 
-* 생활 습관 중재를 기본으로 하되, 비만 관련 합병증이 있으며 생활 습관 중재만으로 충분히 반응하지 않는 과체중/비만 환자에게 약물 요법을 추가
+* 생활 습관 중재를 기본으로 하되, 비약물치료만으로 충분한 개선이 없으면 BMI·합병증·기능·환자 선호에 따라 약물 추가를 검토. 학회 고려 기준은 BMI ≥25 또는 BMI ≥23 + 비만 관련 동반질환이며, 실제 처방에는 개별 제품의 국내 허가·금기·급여 기준을 별도로 적용
 
 {% hint style="info" %}
 **체중 이야기는 허락을 구한 뒤 시작함**\
@@ -285,7 +290,7 @@ flowchart TD
 체중 감량 후 수년 내 상당수 환자에서 체중 재증가가 발생함. 이는 의지 부족이 아니라 감량 후 에너지 소비 감소, 식욕 촉진 호르몬(ghrelin↑, leptin↓) 변화에 의한 생물학적 적응 반응임. 장기 추적 관리와 유지 치료를 치료 계획에 처음부터 포함해야 함.
 {% endhint %}
 
-<table><thead><tr><th width="200">전략</th><th>실전 적용</th></tr></thead><tbody><tr><td><strong>정기 체중 모니터링</strong></td><td>주 ≥1회 동일 조건 측정; 2~3 ㎏ 이상 재증가 시 조기 개입</td></tr><tr><td><strong>유지 칼로리 재계산</strong></td><td>체중 감소 후 basal energy expenditure 감소 → 유지 칼로리 재계산 필요</td></tr><tr><td><strong>충분한 단백질 섭취</strong></td><td>포만감과 제지방량 보존에 도움. 고도비만에서는 표준·조정체중, 고령·CKD에서는 영양상태와 신기능을 고려하여 목표량을 개별화</td></tr><tr><td><strong>저항성 운동 지속</strong></td><td>주 ≥2~3회; 제지방량(lean mass) 보존에 핵심</td></tr><tr><td><strong>활동량 유지</strong></td><td>중등도 유산소 운동 200~300분/주 지속</td></tr><tr><td><strong>야식·배달 환경 차단</strong></td><td>정크 푸드 접근 최소화; 식품 환경 재구성</td></tr><tr><td><strong>수면 최적화</strong></td><td>수면 부족은 ghrelin↑, 식욕 증가 유발</td></tr><tr><td><strong>스트레스 관리</strong></td><td>감정 섭식·폭식 예방; CBT·마음챙김(mindfulness) 도움 가능</td></tr><tr><td><strong>장기 추적</strong></td><td>비만 치료는 단기 프로젝트가 아니라 장기 관리임을 교육</td></tr><tr><td><strong>유지 약물 고려</strong></td><td>고위험군에서 GLP-1 RA / tirzepatide 유지 치료 고려 가능</td></tr></tbody></table>
+<table><thead><tr><th width="200">전략</th><th>실전 적용</th></tr></thead><tbody><tr><td><strong>정기 체중 모니터링</strong></td><td>주 ≥1회 동일 조건 측정; 2~3 ㎏ 이상 재증가 시 조기 개입</td></tr><tr><td><strong>유지 칼로리 재계산</strong></td><td>체중 감소 후 basal energy expenditure 감소 → 유지 칼로리 재계산 필요</td></tr><tr><td><strong>충분한 단백질 섭취</strong></td><td>포만감과 제지방량 보존에 도움. 고도비만에서는 표준·조정체중, 고령·CKD에서는 영양상태와 신기능을 고려하여 목표량을 개별화</td></tr><tr><td><strong>저항성 운동 지속</strong></td><td>주 ≥2~3회; 제지방량(lean mass) 보존에 핵심</td></tr><tr><td><strong>활동량 유지</strong></td><td>중등도 유산소 운동 200~300분/주 지속</td></tr><tr><td><strong>야식·배달 환경 차단</strong></td><td>정크 푸드 접근 최소화; 식품 환경 재구성</td></tr><tr><td><strong>수면 최적화</strong></td><td>수면 부족은 ghrelin↑, 식욕 증가 유발</td></tr><tr><td><strong>스트레스 관리</strong></td><td>감정 섭식·폭식 예방; CBT·마음챙김(mindfulness) 도움 가능</td></tr><tr><td><strong>장기 추적</strong></td><td>비만 치료는 단기 프로젝트가 아니라 장기 관리임을 교육</td></tr><tr><td><strong>유지 약물 고려</strong></td><td>효과·내약성·안전성과 환자 선호를 평가하여 허가된 장기 비만치료제의 유지 치료 고려</td></tr></tbody></table>
 
 **체중 재증가 조기 경고 신호** : 주간 체중 지속 상승 / 야식·간식 빈도 재증가 / 운동 중단 / 스트레스·수면 부족 증가 / 약물 중단 후 식욕 급증
 
@@ -340,7 +345,7 @@ flowchart TD
 
 <table><thead><tr><th width="94">[남] 체중</th><th width="94">18~29세</th><th width="94">30~59세</th><th width="94">[여] 체중</th><th width="94">18~29세</th><th width="94">30~59세</th></tr></thead><tbody><tr><td>50 ㎏</td><td>29</td><td>29</td><td>45 ㎏</td><td>26</td><td>27</td></tr><tr><td>55 ㎏</td><td>28</td><td>27</td><td>50 ㎏</td><td>25</td><td>25</td></tr><tr><td>60 ㎏</td><td>27</td><td>26</td><td>55 ㎏</td><td>24</td><td>24</td></tr><tr><td>65 ㎏</td><td>26</td><td>25</td><td>60 ㎏</td><td>23</td><td>22</td></tr><tr><td>70 ㎏</td><td>25</td><td>24</td><td>65 ㎏</td><td>22</td><td>21</td></tr><tr><td>75 ㎏</td><td>24</td><td>23</td><td>70 ㎏</td><td>22</td><td>20</td></tr><tr><td>80 ㎏</td><td>24</td><td>22</td><td>75 ㎏</td><td>21</td><td>19</td></tr><tr><td>85 ㎏</td><td>23</td><td>22</td><td>80 ㎏</td><td>21</td><td>19</td></tr><tr><td>90 ㎏</td><td>23</td><td>21</td><td>85 ㎏</td><td>21</td><td>18</td></tr></tbody></table>
 
-<p align="center"><em><mark style="color:$info;">Ref. FAO/WHO/UNU. Human energy requirements. 2001년 전문가 회의, 2004년 발간. Table 5.4~5.9</mark></em></p>
+<p align="center"><em><mark style="color:$info;">Ref. FAO/WHO/UNU. Human energy requirements. 2001년 전문가 회의, 2004년 발간. Table 5.4\~5.9</mark></em></p>
 
 * 1일 필요 칼로리 계산 예 : 운동을 하지 않는 70 ㎏ 사무직 40세 남성 = 70 × 24 × 1.5 = **2,520 ㎉**
 
@@ -419,12 +424,14 @@ Ref. Villareal DT, et al. Aerobic or Resistance Exercise, or Both, in Dieting Ob
 
 ## <mark style="color:green;">약물 치료</mark>
 
-(비급여 처방 원칙)
+(비만 치료 목적의 약물은 원칙적으로 비급여)
+
+* 처방 시 최신 품목정보/급여기준 조회. 다른 적응증의 허가와 급여 여부는 별도로 확인
 
 {% hint style="warning" %}
 **학회 권고와 국내 허가사항을 구분함**  
 • **대한비만학회 2024 지침상 고려 기준** : BMI ≥25 또는 BMI ≥23이면서 비만 관련 동반질환이 있고 비약물치료만으로 충분한 감량·건강 개선을 얻지 못한 성인  
-• **국내 장기 비만치료제의 일반적인 허가 기준** : 초기 BMI ≥30 또는 BMI ≥27이면서 한 가지 이상의 체중 관련 동반질환이 있는 성인  
+• **국내 장기 비만치료제의 일반적인 허가 기준** : 초기 BMI ≥30 또는 BMI ≥27이면서 한 가지 이상의 체중 관련 동반질환이 있는 성인. 에페글레나타이드는 이 기준에 더해 당뇨병이 없는 환자로 제한됨  
 학회 권고 기준과 개별 제품 허가사항은 다를 수 있음. 실제 처방 전 해당 제품의 최신 허가사항을 확인하며, 허가 기준 미만 사용은 허가 외 처방이 될 수 있음.
 {% endhint %}
 
@@ -442,10 +449,15 @@ Ref. Villareal DT, et al. Aerobic or Resistance Exercise, or Both, in Dieting Ob
 
 ### <mark style="color:orange;">최근 국제 약물치료 권고</mark>
 
-* **ACP 2026 living guideline**은 비임신 성인 비만의 외래 약물치료에서 semaglutide와 tirzepatide를 우선 선택지로, phentermine/topiramate·liraglutide·naltrexone/bupropion을 후속 선택지로 조건부 권고함. 효과 외에 금기·동반질환·내약성·비용·접근성과 환자 선호를 함께 고려함. 이 순위를 국내 새 허가 약제까지 포함한 절대적인 우열로 해석하지 않음.
+* **ACP 2026 living guideline**은 비임신 성인 BMI ≥30에서 semaglutide 또는 tirzepatide를 1차, phentermine/topiramate를 2차, liraglutide를 3차, naltrexone/bupropion을 4차 선택지로 조건부 권고. 27≤BMI＜30 + 체중 관련 동반질환군은 semaglutide 또는 tirzepatide가 1차, liraglutide가 2차임. 국내 허가·금기·접근성과 환자 선호를 함께 고려하며 국내 새 허가 약제를 포함한 절대적인 우열로 해석하지 않음.
 * **WHO 2025**는 성인 비만에서 GLP-1 기반 약물의 장기 사용과 구조화된 행동·영양·신체활동 지원을 조건부 권고함. 국내 BMI 허가 기준·급여 및 PEM이 있는 환자의 활동 제한을 대체하지 않음.
 
 <mark style="color:$info;">[ACP 2026](https://doi.org/10.7326/ANNALS-25-02714)</mark>; <mark style="color:$info;">[WHO GLP-1 비만치료 권고 2025](https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity)</mark>
+
+{% hint style="info" %}
+**GLP-1 계열과 자살위험에 대한 2026년 안전성 평가**  
+FDA는 2026-01-13 종합 평가에서 GLP-1 RA 관련 자살사고·행동 위험 증가를 확인하지 못하여 미국 삭센다·위고비·젭바운드의 관련 경고 삭제를 요청함. 국내 제품별 주의사항은 별도로 적용하며, 새 자살사고에 대한 임상 평가와 naltrexone/bupropion의 정신건강 모니터링은 계속 필요함.
+{% endhint %}
 
 ### <mark style="color:orange;">고령자 약물 치료의 점검</mark>
 
@@ -473,9 +485,9 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 * 중단 후 식욕이 다시 증가하고 생활 중재가 유지되지 않으면 체중이 재증가할 수 있음
 * **부작용** : 입마름, 불면, 어지럼, 흥분, 혈압 상승, 소화불량, 발기 부전
   * 장기 투여 시 의존성 및 (중단 시) 금단 증상 발생
-* **금기** : 심혈관 질환, 중등도~중증 고혈압, 녹내장, 갑상선항진증, 약물 남용력, 임신·수유, MAOI 사용 중 또는 중단 후 14일 이내 등. 소아·청소년 연령 제한과 상세 금기는 제품별 확인; 다른 식욕억제제와 병용하지 않음
+* **금기** : 심혈관 질환, 중등도\~중증 고혈압, 녹내장, 갑상선항진증, 약물 남용력, 임신·수유, MAOI 사용 중 또는 중단 후 14일 이내 등. 소아·청소년 연령 제한과 상세 금기는 제품별 확인; 다른 식욕억제제와 병용하지 않음
 
-<table><thead><tr><th width="240">성분명 [상품명]</th><th width="230">일반적인 성인 용법 예</th><th>비고</th></tr></thead><tbody><tr><td>Phentermine <mark style="color:blue;">\[아디펙스]</mark></td><td>제품 함량에 따라 1일 1회 아침 식전 또는 아침 식사 1~2시간 후</td><td>37.5 ㎎ 정과 18.75 ㎎ 정이 별도 제품으로 시판되므로 저용량 처방 시 제품 함량 확인</td></tr><tr><td>Phendimetrazine <mark style="color:blue;">\[아트라진]</mark></td><td>17.5~35 ㎎, 1일 2~3회 식전 1시간</td><td>제품별 최대용량 확인</td></tr><tr><td>Diethylpropion <mark style="color:blue;">\[디피온]</mark></td><td>25 ㎎ tid 식사 1시간 전</td><td></td></tr><tr><td>Mazindol <mark style="color:blue;">\[마자놀]</mark></td><td>0.5~1 ㎎ qd~tid 식사 전</td><td>최대 3 ㎎/day</td></tr></tbody></table>
+<table><thead><tr><th width="240">성분명 [상품명]</th><th width="230">일반적인 성인 용법 예</th><th>비고</th></tr></thead><tbody><tr><td>Phentermine <mark style="color:blue;">\[아디펙스]</mark></td><td>제품 함량에 따라 1일 1회 아침 식전 또는 아침 식사 1~2시간 후</td><td>37.5 ㎎ 정과 18.75 ㎎ 정이 별도 제품으로 시판되므로 저용량 처방 시 제품 함량 확인</td></tr><tr><td>Phendimetrazine <mark style="color:blue;">\[아트라진]</mark></td><td>35 ㎎, 1일 2~3회 식사 1시간 전; 일부 환자에서는 17.5 ㎎ qd로 충분할 수 있음</td><td>최소 유효용량 사용; 함량·분할 가능 여부 확인</td></tr><tr><td>Diethylpropion <mark style="color:blue;">\[디피온]</mark></td><td>25 ㎎ tid 식사 1시간 전</td><td>최대 75 ㎎/day; 취침 4시간 이내 복용 피함</td></tr></tbody></table>
 
 ### <mark style="color:orange;">장기 투여 가능 제제</mark>
 
@@ -497,13 +509,14 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 
 * Topiramate : 항경련제의 식욕 억제 부작용을 치료 목적으로 활용
 * **부작용** : 변비, 감각 이상, 미각 이상, 불면, 비인두염, 입마름, 혈압 상승, 인지 장애
-* **주의/금기** : 임신(태아 구순열 위험), 녹내장, 갑상선항진증, MAOI 사용 중 또는 중단 후 14일 이내. 국내 허가사항에는 심혈관질환·진행된 동맥경화·중등도~중증 고혈압·폐동맥고혈압, 약물 남용력, 18세 미만 등도 금기로 기재되어 있음
+* **주의/금기** : 임신(태아 구순열 위험), 녹내장, 갑상선항진증, MAOI 사용 중 또는 중단 후 14일 이내. 국내 허가사항에는 심혈관질환·진행된 동맥경화·중등도\~중증 고혈압·폐동맥고혈압, 약물 남용력, 18세 미만 등도 금기로 기재되어 있음
 * **신장·간기능** : CrCl ＜50 ㎖/min 또는 Child-Pugh B에서는 최대 7.5/46 ㎎/day; 투석 중 말기 신부전·Child-Pugh C는 사용을 피함. 시작 전과 추적 시 혈압·맥박·기분·인지, bicarbonate·K·Cr 및 신결석 위험 점검
-* 가임 여성은 투여 전 및 치료 중 매월 임신검사를 시행하고 효과적인 피임법 사용
+* 가임 여성은 투여 전 및 치료 중 매월 임신검사를 시행하고 효과적인 피임법 사용; 국내 허가에 따라 1회 1개월분을 초과하여 처방하지 않음
 * **용법** : 3.75/23 ㎎ qd × 2주 → 7.5/46 ㎎ qd
 * 7.5/46 ㎎ 12주 후 체중 감소 ＜3%이면 중단하거나 11.25/69 ㎎ qd ×2주를 거쳐 15/92 ㎎ qd로 증량
 * 15/92 ㎎ 12주 후에도 체중 감소 ＜5%이면 효과 부족으로 판단하여 점감 중단
 * 최고용량 중단 시 발작 위험을 줄이기 위해 최소 1주 동안 격일 복용하며 점감
+* 급성 안통·시력 저하(급성 폐쇄각녹내장 가능), 수포성 발진·점막 병변(SJS/TEN 가능)이 발생하면 즉시 중단하고 응급 평가
 
 #### <mark style="color:$primary;">Opioid Antagonist / Aminoketone Antidepressant Combination</mark>
 
@@ -512,7 +525,7 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 * **작용** : Naltrexone - opioid 수용체 길항; Bupropion - dopamine·norepinephrine 재흡수 억제 → 식욕 조절 중추 및 도파민 보상계 억제
 * **부작용** : 변비, 구역, 두통, 입마름, 불면, 어지럼; 모든 연령에서 기분·자살사고를 추적하며 특히 25세 미만에서 주의
 * **금기** : 발작 병력, 중추신경계 종양, 현재·과거 신경성 식욕부진·신경성 폭식증, 양극성장애, 조절되지 않는 고혈압, 다른 bupropion·naltrexone 함유제제 병용, 만성 opioid 사용·의존 또는 급성 금단, MAOI 사용 중/중단 후 14일 이내, 급성 간염·간부전·중증 간장애, 말기 신장질환, 임신·수유, 75세 이상 등 국내 제품 금기
-* **신장·간기능** : 중등도~중증 신장애는 최대 아침·저녁 각 1정(총 2정/day), 경증 신장애는 감량 불필요. 경증~중등증 간장애는 국내에서 권장되지 않음
+* **신장·간기능** : 중등도\~중증 신장애는 최대 아침·저녁 각 1정(총 2정/day), 경증 신장애는 감량 불필요. 경증\~중등증 간장애는 국내에서 권장되지 않음
 * 다른 식욕억제제와 병용하지 않음. 시작 전·치료 중 혈압·맥박을 확인하고 SSRI/SNRI 등 병용 시 상호작용·세로토닌증후군 위험 점검
 * 알코올·benzodiazepine·barbiturate·항경련제를 갑자기 중단하는 환자에서는 발작 위험 때문에 사용하지 않음
 * **용법** : 8/90 ㎎ 1T qd × 1주 → 1T bid × 1주 → 아침 2T + 저녁 1T × 1주 → 2T bid (유지)
@@ -548,6 +561,7 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 * **성인 적응증** : 초기 BMI ≥30 또는 BMI ≥27 + 체중 관련 동반질환(이상혈당증, 고혈압, 이상지질혈증, OSA 등). 청소년의 별도 허가 기준은 성인 BMI 기준을 적용하지 않고 확인
 * **용법** : 0.6 ㎎ qd SC → 매주 0.6 ㎎씩 증량 → 5주차 3.0 ㎎ qd SC (목표 용량)
 * **효과 평가** : 3.0 ㎎/day로 12주 투여한 후 초기 체중의 5% 이상 감량하지 못한 경우 중단
+* **신장·간기능** : CrCl ＜30 ㎖/min(말기 신장질환 포함) 및 중증 간장애에서는 권장되지 않음. 경증\~중등증 간장애는 신중히 사용
 
 **Semaglutide** <mark style="color:blue;">\[위고비 프리필드펜]</mark>
 
@@ -556,6 +570,7 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 {% endhint %}
 
 * 체중 감량 외 당 조절 효과 동반; SELECT 시험에서 심혈관 위험 감소 입증
+* **국내 심혈관 적응증** : 확증된 심혈관질환이 있고 초기 BMI ≥27인 과체중·비만 성인에서 MACE 위험 감소. SELECT 연구의 당뇨병 제외 조건과 국내 적응증 문구를 구분하며, 모든 저위험 비만 환자의 1차 예방 적응증으로 확대하지 않음
 * Semaglutide 관련 NAION(비동맥염성 앞허혈시신경병증)은 EMA 2025 검토에서 매우 드문 이상반응으로 평가됨. 갑작스러운 시력 저하·상실은 즉시 안과 평가, NAION 확진 시 중단([EMA](https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy)). 모든 GLP-1 제제의 동일한 위험으로 일반화하지 않음
 * 체중 관련 합병증이 있는 비만/과체중 성인의 장기 투약에서 우선 고려하는 약제임 \[AGA 2022; ACP 2026]
 * **국내 신장·간기능 제한** : eGFR ＜30 ㎖/min/1.73㎡(말기 신장질환 포함) 및 중증 간장애에서는 투여가 권장되지 않음. 경증\~중등증 신장애는 통상 감량이 필요 없으며 탈수·신기능 악화를 관찰함. 미국의 용법·주의사항을 국내 허가 범위와 혼용하지 않음
@@ -566,13 +581,14 @@ Ref. [EASO 고령자 비만 입장문](https://doi.org/10.1159/000549751). 기�
 **Efpeglenatide(에페글레나타이드)** <mark style="color:blue;">\[에페오토인젝터주]</mark>
 
 * **국내 허가** : 2026-10-07 허가된 국산 GLP-1 RA. 품목허가와 실제 판매·공급 개시는 구분함
-* **성인 적응증** : **당뇨병이 없는** 초기 BMI ≥30 또는 BMI ≥27~＜30 + 체중 관련 동반질환(고혈압·이상지질혈증·OSA·심혈관질환 등). 저열량 식사·운동의 보조제로 사용함
+* **성인 적응증** : **당뇨병이 없는** 초기 BMI ≥30 또는 27≤BMI＜30 + 체중 관련 동반질환(고혈압·이상지질혈증·OSA·심혈관질환 등). 저열량 식사·운동의 보조제로 사용함
 * **용법** : 주 1회 **복부 피하주사**. 2 ㎎ × 2주 → 4 ㎎ × 2주 → 6 ㎎ × 4주 → 8 ㎎ × 4주 → **10 ㎎ 주 1회 유지**(13주차부터; 최대용량). 내약성이 부족하면 증량 연기 또는 이전 용량으로 감량 고려
 * **임상 근거** : 한국인 총 448명 무작위배정 3상. 유효성 전체분석군은 446명(이 약 298명·위약 148명)이며, 허가문서의 이 분석에서 40주 체중 변화율 −9.02%(위약 −0.89%), 5% 이상 감량 달성률 75.05%(위약 13.53%)
 * **부작용** : 설사·구역·변비·소화불량·주사 부위 반응 등
 * **금기** : MTC 개인력·가족력, MEN2, 성분 과민반응
-* **권장되지 않는 환자** : 당뇨병, 중등증~중증 신장애, 간장애, 중증 정신질환 병력, NYHA IV 심부전, 다른 체중관리 제품 투여 중인 환자. 19세 미만·75세 이상은 안전성·유효성 미확립
+* **권장되지 않는 환자** : 당뇨병, 중등증\~중증 신장애, 간장애, 중증 정신질환 병력, NYHA IV 심부전, 다른 체중관리 제품 투여 중인 환자. 19세 미만·75세 이상은 안전성·유효성 미확립
 * **임신·수유** : 사용하지 않음. 계획임신·피임은 상단 안내 참고
+* **정신건강 관련 국내 주의** : 자살행동 또는 적극적인 자살사고 병력에서는 사용하지 않으며, 치료 중 자살사고·행동이 나타나면 중단·평가. FDA의 다른 GLP-1 제품 경고 삭제 요청을 에페의 국내 허가 변경으로 적용하지 않음
 
 _<mark style="color:$info;">Ref. 식품의약품안전처, 에페오토인젝터주 허가사항. 40주 효과는 다중대체법을 적용한 전체분석군 결과이며 회사의 중간 톱라인 9.75%와 혼용하지 않음.</mark>_
 
@@ -582,13 +598,13 @@ _<mark style="color:$info;">Ref. 식품의약품안전처, 에페오토인젝터
 
 * GLP-1·GIP 이중 수용체 작용제. SURMOUNT-5 직접 비교시험에서 당뇨병 없는 비만 성인의 72주 평균 감량은 tirzepatide 20.2%, semaglutide 13.7%였음(각 최대 내약용량). 모든 환자·용량에 동일한 차이가 보장되지는 않음([NEJM 2025](https://doi.org/10.1056/NEJMoa2416394))
 * **임상 근거** : SURMOUNT-1(당뇨병 없는 과체중·비만 성인, 72주)의 치료 중단 여부와 관계없는 주 분석(treatment-regimen estimand)에서 15 ㎎군 **20.9% 감량**, 위약군 3.1%. 치료 지속을 가정한 efficacy estimand의 22.5% vs 2.4%와 구분([NEJM 2022](https://doi.org/10.1056/NEJMoa2206038))
-* **국내 OSA 적응증** : BMI ≥30인 중등도~중증 폐쇄성 수면무호흡증 성인에서 저열량 식사·신체활동과 병행. 권장 유지용량은 10 또는 15 ㎎ 주 1회; 기존 PAP 치료 중단은 수면 전문평가로 판단
+* **국내 OSA 적응증** : BMI ≥30인 중등도\~중증 폐쇄성 수면무호흡증 성인에서 저열량 식사·신체활동과 병행. 권장 유지용량은 10 또는 15 ㎎ 주 1회; 기존 PAP 치료 중단은 수면 전문평가로 판단
 * **부작용** : 구역/구토, 설사, 식욕 저하, 변비, 복통; 경구 피임제 효과 감소 가능
 * **주의/금기** : MTC 개인력·가족력, MEN2, 성분 과민반응 및 국내 허가상 제1형 당뇨병 금기. 췌장염 의심 시 중단·평가하고 확진 시 재투여하지 않으며, 병력에서는 신중히 고려. 신장·간장애에서 통상 감량은 필요 없지만 중증 환자 경험은 제한적이며 탈수 시 신기능 점검
 * **용법** : 2.5 ㎎ qwk SC × 4주 → 5 ㎎ qwk. 추가 효과가 필요하고 내약성이 양호하면 각 용량에서 최소 4주 투여 후 2.5 ㎎씩 증량; 효과·내약성에 따라 유지용량 선택, 최대 15 ㎎ qwk. 2.5 ㎎은 초기 용량이며 유지용량이 아님
 
 {% hint style="info" %}
-미국에서는 비만 적응증 제품명이 Zepbound, T2DM 제품명이 Mounjaro로 구분되지만, 국내에서는 **마운자로** 단일 상품명으로 T2DM·만성 체중관리와 BMI ≥30 성인의 중등도~중증 OSA 적응증을 허가받았다. 비급여 여부와 공급 용량은 처방 시점에 확인함.
+미국에서는 비만 적응증 제품명이 Zepbound, T2DM 제품명이 Mounjaro로 구분되지만, 국내에서는 **마운자로** 단일 상품명으로 T2DM·만성 체중관리와 BMI ≥30 성인의 중등도\~중증 OSA 적응증을 허가받았다. 비급여 여부와 공급 용량은 처방 시점에 확인함.
 {% endhint %}
 
 ### <mark style="color:orange;">GLP-1/GIP 부작용 관리 및 실전 팁</mark>
@@ -644,7 +660,7 @@ _<mark style="color:$info;">Ref. AGA Clinical Practice Guideline on Pharmacologi
 {% hint style="warning" %}
 **국내 임상 권고·건강보험 급여 기준·국제 권고는 동일하지 않다**  
 • **대한비만학회 임상 권고** : 일반적으로 BMI ≥35 또는 BMI ≥30이면서 비만 관련 동반질환이 있는 경우 대사수술 고려  
-• **국내 건강보험 기준(2019년 이후)** : BMI ≥35이거나, BMI ≥30이면서 고시에서 정한 비만 관련 동반질환이 있는 경우 건강보험 적용. BMI ≥27.5이면서 기존 내과적 치료로 혈당이 조절되지 않는 제2형 당뇨병에서는 선별급여(본인부담률 80%) 적용. 세부 질환과 조건은 의뢰·수술 전 최신 고시 확인  
+• **국내 건강보험 기준** : BMI ≥35 또는 BMI ≥30 + 고시에서 정한 동반질환, 18세 이상 또는 뼈 성장 종료 확인, 비수술 치료로 효과를 얻지 못한 비만이라는 조건을 함께 확인. **27.5≤BMI＜30**이면서 내과적 치료·생활습관 개선에도 혈당 조절이 되지 않는 제2형 당뇨병은 지정 수술(위소매절제술·비절제 루와이형 위우회술)의 수술료·치료재료에 선별급여 본인부담률 80% 적용. 의뢰·수술 전 최신 고시 확인  
 • **ASMBS/IFSO 2022** : BMI ≥35에서는 동반질환 유무와 관계없이 권고하며, BMI 30\~34.9에서는 대사질환이 있거나 비수술 치료로 충분하고 지속적인 개선을 얻지 못한 경우 고려함. 아시아인에서는 BMI ≥25를 임상적 비만으로 인식하고, BMI ≥27.5인 경우 대사수술을 제안함(should be offered). 단, 국내 임상·급여 기준과는 구분한다
 {% endhint %}
 
@@ -661,6 +677,8 @@ Ref. [ASMBS/IFSO 2022 대사수술 적응증](https://doi.org/10.1007/s11695-022
 * 수술 전 종합적인 내과·영양 평가를 시행하고 영양 결핍(철, 비타민 B12·D, 엽산 등)을 교정
 * 금연은 수술 전·후 합병증을 줄이는 데 중요
 * 수술 전 폐쇄수면무호흡증 선별·검사 및 필요한 치료 고려
+* **수술 후 장기 관리** : 수술팀과 연계하여 평생 영양·대사 추적, 수술별 비타민·미네랄 보충, CBC·철/ferritin·B12·엽산·비타민 D·Ca 등 정기 검사. 체중 감소에 따라 당뇨병·혈압 약제 용량도 재평가
+* **지속 구토·섭취 불가** : 협착·폐색 등 수술 합병증과 thiamine 결핍을 평가. 결핍이 의심되면 검사 결과를 기다리지 않고 보충하며, 보행실조·안구운동 이상·혼돈이 있으면 Wernicke뇌병증으로 응급 평가 <mark style="color:$info;">\[Obes Rev 2020]</mark>
 
 <table><thead><tr><th width="200">수술 종류</th><th width="180">기전</th><th>특징 / 주의</th></tr></thead><tbody><tr><td>위 소매 절제술<br>(Sleeve gastrectomy)</td><td>위 용적 축소 + 위장관 호르몬 변화</td><td>국내에서 흔히 시행; 위식도역류 악화 가능</td></tr><tr><td>루와이 위우회술<br>(RYGB)</td><td>위 축소 + 장 우회 + 호르몬 변화</td><td>T2DM·GERD 개선에 유리할 수 있음; Fe, B12, Ca 등 영양 결핍과 내탈장 위험</td></tr><tr><td>조절형 위밴드<br>(Adjustable band)</td><td>위 입구 축소</td><td>재수술·제거율이 높아 국내 사용 감소 추세</td></tr></tbody></table>
 
@@ -668,9 +686,14 @@ Ref. [ASMBS/IFSO 2022 대사수술 적응증](https://doi.org/10.1007/s11695-022
 
 ### <mark style="color:red;">질병코드</mark>
 
-E66 비만\
-E66.0 과식으로 인한 비만\
+E66 비만 (상위 범주·불완전코드)\
+E66.0 과잉칼로리에 의한 비만\
+E66.1 약물유발 비만\
+E66.2 폐포저환기를 동반한 초비만\
+E66.8 기타 비만\
 E66.9 상세불명의 비만
+
+※ 저장된 KCD-9 엑셀의 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」와 대조함. 청구 시에는 실제 진단에 맞는 완전코드 사용. E66.2는 BMI가 높다는 이유만으로 선택하지 않으며 저환기 동반 여부를 확인함. 엑셀에는 비만저환기증후군(OHS)이 E66.2의 포함 용어로 수록되어 있음.
 
 ***
 
@@ -680,7 +703,7 @@ E66.9 상세불명의 비만
 >
 > ```
 > 제니칼 120 ㎎/C　　　3C　#3
-> 　　　　　　　　　　　매 식사 직전~식사 직후 1시간 이내
+> 　　　　　　　　　　　매 식사 직전\~식사 직후 1시간 이내
 > ```
 >
 > _✽식이 지방을 ⅓ 차단. 반드시 저지방 식이와 병행해야 위장관 부작용(복통, 지방변)이 경감됨. 지용성 비타민(A/D/E/K) 보충제를 orlistat 복용 2시간 이후에 별도 복용하도록 안내._
@@ -721,7 +744,7 @@ E66.9 상세불명의 비만
 
 * 1일 1회 복부·허벅지·상완에 피하주사하고 주사 부위를 교대
 * 사용 전 냉장(2\~8°C) 보관; 사용 중 펜은 냉장 또는 30°C 이하에서 1개월 보관. 동결하지 않음
-* 누락분을 보충하기 위해 추가·증량 투여하지 않음. 3일 이상 중단한 경우 위장관 부작용을 줄이기 위한 재시작 용량을 의료진과 상의
+* 평소 투여 시각으로부터 12시간 이내라면 가능한 빨리 투여; 다음 투여까지 12시간 미만이면 건너뛰고 예정대로 투여. 추가·증량 투여하지 않음. 3일 이상 중단하면 재시작 용량을 의료진과 상의
 * 3.0 ㎎/day로 12주 투여 후 초기 체중의 5% 이상 감량하지 못하면 중단
 
 **Semaglutide - 위고비**
@@ -757,6 +780,13 @@ E66.9 상세불명의 비만
 * 불면 예방을 위해 오후 늦게 복용하지 않음; 고혈압 환자는 혈압을 주의 깊게 모니터링
 * 임의로 증량하거나 치료기간을 연장하지 않음. 장기간 고용량 사용·오남용 후 중단 시 피로·우울 등이 나타날 수 있으므로 의사와 상의
 
+**Phentermine/Topiramate - 큐시미아**
+
+* 아침에 1일 1회 복용하며 증량·효과 판정 일정을 지킴
+* 임신 중 금기. 가임 여성은 시작 전·매월 임신검사와 효과적인 피임 필요
+* 15/92 ㎎ 중단 시에는 의료진 지시에 따라 최소 1주간 격일 복용하며 줄임
+* 갑작스러운 안통·시력 저하, 수포·점막 손상이 동반되는 발진은 즉시 중단하고 응급 평가
+
 **Naltrexone/Bupropion - 콘트라브**
 
 * 첫 2\~4주간 구역·두통이 있을 수 있음. 음식과 함께 복용할 수 있으나 **고지방 식사와 함께 복용하지 않음**
@@ -780,6 +810,52 @@ E66.9 상세불명의 비만
 * 국내에서 비만치료 적응증은 없으며 경구 위고비와 용량·적응증이 다름
 
 ***
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+* 대한비만학회. [2024 비만 진료지침: 진단·평가·치료](https://doi.org/10.7570/jomes25042). J Obes Metab Syndr. 2025.
+* AASLD. [NAFLD/MASLD 평가·관리 Practice Guidance](https://doi.org/10.1097/HEP.0000000000000323). 2023.
+* 약물 비교표는 각 원시험 및 제품 허가문서를 근거로 작성함. STEP-1: [NEJM 2021](https://doi.org/10.1056/NEJMoa2032183); SELECT: [NEJM 2023](https://doi.org/10.1056/NEJMoa2307563); CONQUER: [Lancet 2011](https://doi.org/10.1016/S0140-6736(11)60205-5).
+* WHO. [허리둘레·허리엉덩이비 전문가 보고서](https://www.who.int/publications/i/item/9789241501491). 2011; [Healthy diet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet). 2026.
+* NICE. [NG246: Physical activity and diet](https://www.nice.org.uk/guidance/ng246/chapter/Physical-activity-and-diet). 2025.
+* Greenway FL, et al. [COR-I](https://pubmed.ncbi.nlm.nih.gov/20673995/). Lancet. 2010; Pi-Sunyer X, et al. [SCALE Obesity and Prediabetes](https://doi.org/10.1056/NEJMoa1411892). NEJM. 2015.
+* Jastreboff AM, et al. [SURMOUNT-1](https://doi.org/10.1056/NEJMoa2206038). NEJM. 2022; Aronne LJ, et al. [SURMOUNT-5](https://doi.org/10.1056/NEJMoa2416394). NEJM. 2025.
+
+* ASA 등. [수술 전 GLP-1 다학회 안내](https://www.asahq.org/about-asa/newsroom/news-releases/2024/10/new-multi-society-glp-1-guidance). 2024.
+
+* Grunvald E, et al. [AGA Clinical Practice Guideline on Pharmacological Interventions for Adults With Obesity](https://doi.org/10.1053/j.gastro.2022.08.045). Gastroenterology. 2022;163(5):1198-1225.
+* [Pharmacotherapy for obesity management in adults: 2025 clinical practice guideline update](https://doi.org/10.1503/cmaj.250502). CMAJ. 2025;197:E797-E809.
+* American College of Physicians. [Pharmacologic Treatments With Lifestyle Modifications in Nonpregnant Adults With Overweight or Obesity in Outpatient Settings: A Living Clinical Guideline](https://doi.org/10.7326/ANNALS-25-02714). 2026.
+* World Health Organization. [GLP-1 medicines in treating obesity](https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity). 2025.
+* Di Vincenzo O, et al. [European Association for the Study of Obesity Position Statement on the Diagnosis and Management of Obesity in Older Adults](https://doi.org/10.1159/000549751). Obes Facts. 2026.
+* Donini LM, et al. [Definition and Diagnostic Criteria for Sarcopenic Obesity: ESPEN and EASO Consensus Statement](https://doi.org/10.1159/000521241). 2022.
+* Volkert D, et al. [ESPEN practical guideline: Clinical nutrition and hydration in geriatrics](https://doi.org/10.1016/j.clnu.2022.01.024). 2022.
+* Villareal DT, et al. [Aerobic or Resistance Exercise, or Both, in Dieting Obese Older Adults](https://doi.org/10.1056/NEJMoa1616338). N Engl J Med. 2017;376:1943-1955.
+* ASMBS/IFSO. [Indications for Metabolic and Bariatric Surgery](https://doi.org/10.1007/s11695-022-06332-1). 2022.
+* CDC. [Strategies to Prevent Worsening of Symptoms in ME/CFS](https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-and-preventing-worsening-of-symptoms.html). NICE. [NG206](https://www.nice.org.uk/guidance/ng206/chapter/recommendations). 운동·염분·영양 권고의 동반질환 예외 참고.
+
+* Rubino F, et al. [Definition and diagnostic criteria of clinical obesity](https://doi.org/10.1016/S2213-8587(24)00316-4). Lancet Diabetes Endocrinol. 2025.
+* ATS. [Evaluation and Management of Obesity Hypoventilation Syndrome](https://doi.org/10.1164/rccm.201905-1071ST). 2019.
+* ESE. [Endocrine work-up in obesity](https://doi.org/10.1530/EJE-19-0893). 2020.
+* International PCOS Network. [2023 PCOS guideline](https://www.monash.edu/medicine/mchri/pcos/guideline); Endocrine Society. [PMOS 명칭 변경 발표](https://www.endocrine.org/news-and-advocacy/news-room/2026/pcos-name-change). 2026-05-12.
+* O’Kane M, et al. [BOMSS postoperative biochemical monitoring and micronutrient replacement: 2020 update](https://pmc.ncbi.nlm.nih.gov/articles/PMC7583474/). Obes Rev. 2020.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug). 위고비·큐시미아·마운자로·에페오토인젝터주 국내 허가사항. 에페글레나타이드의 40주 3상 결과는 허가문서의 전문가용 임상시험 정보에 근거함.
+* 제조사 국내 제품정보와 제품설명서(콘트라브·아디펙스·아트라진·디피온·마자놀)를 보조 대조함. 최신 허가사항은 [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug)에서 확인.
+* EMA. [Semaglutide와 NAION 안전성 검토](https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy). 2025.
+* FDA. [Orforglipron(Foundayo) 허가 발표](https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program). 2026.4.1; Novo Nordisk. [미국 경구 Wegovy 허가 발표](https://www.novonordisk-us.com/media/press-releases/wegovy-pill-fda-approval-obesity.html). 2025.12.22.
+
+
+* FDA. [Xenical prescribing information: XENDOS 4-year ITT/LOCF analysis](https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/020766s038lbl.pdf). 2022.
+* FDA. [GLP-1 RA 자살행동·사고 경고 삭제 요청](https://www.fda.gov/drugs/drug-safety-communications/fda-requests-removal-suicidal-behavior-and-ideation-warning-glucagon-peptide-1-receptor-agonist-glp). 2026-01-13.
+* 건강보험심사평가원. [비만수술 급여기준](https://www.hira.or.kr/bbsDummy.do?brdBltNo=47751&brdScnBltNo=4&pgmid=HIRAA010006011110). 최신 고시 재확인.
+* 저장된 KCD9_251216(6).xlsx: 「상병분류기호(전체)」·「상병분류기호(완전코드)」의 E66 범주.
+
+***
+
 ## <mark style="color:blue;">환자 안내서</mark>
 
 #### <mark style="color:$primary;">비만이란?</mark>
@@ -827,41 +903,3 @@ E66.9 상세불명의 비만
 * 약 사용 후 심한 지속성 복통, 반복 구토·탈수 또는 황달
 * 갑작스러운 시력 저하·상실, 경련, 입술·혀 부종 또는 호흡곤란
 * 우울감이나 자해 충동이 생길 때
-
-
-***
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* 대한비만학회. [2024 비만 진료지침: 진단·평가·치료](https://doi.org/10.7570/jomes25042). J Obes Metab Syndr. 2025.
-* AASLD. [NAFLD/MASLD 평가·관리 Practice Guidance](https://doi.org/10.1097/HEP.0000000000000323). 2023.
-* ADA. [Obesity and Weight Management: Standards 2022](https://diabetesjournals.org/care/article/45/Supplement_1/S113/146379/). 약물 비교표 참고.
-* WHO. [허리둘레·허리엉덩이비 전문가 보고서](https://www.who.int/publications/i/item/9789241501491). 2011; [Healthy diet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet). 2026.
-* NICE. [NG246: Physical activity and diet](https://www.nice.org.uk/guidance/ng246/chapter/Physical-activity-and-diet). 2025.
-* Greenway FL, et al. [COR-I](https://pubmed.ncbi.nlm.nih.gov/20673995/). Lancet. 2010; Pi-Sunyer X, et al. [SCALE Obesity and Prediabetes](https://doi.org/10.1056/NEJMoa1411892). NEJM. 2015.
-* Jastreboff AM, et al. [SURMOUNT-1](https://doi.org/10.1056/NEJMoa2206038). NEJM. 2022; Aronne LJ, et al. [SURMOUNT-5](https://doi.org/10.1056/NEJMoa2416394). NEJM. 2025.
-
-* ASA 등. [수술 전 GLP-1 다학회 안내](https://www.asahq.org/about-asa/newsroom/news-releases/2024/10/new-multi-society-glp-1-guidance). 2024.
-
-* Grunvald E, et al. [AGA Clinical Practice Guideline on Pharmacological Interventions for Adults With Obesity](https://doi.org/10.1053/j.gastro.2022.08.045). Gastroenterology. 2022;163(5):1198-1225.
-* [Pharmacotherapy for obesity management in adults: 2025 clinical practice guideline update](https://doi.org/10.1503/cmaj.250502). CMAJ. 2025;197:E797-E809.
-* American College of Physicians. [Pharmacologic Treatments With Lifestyle Modifications in Nonpregnant Adults With Overweight or Obesity in Outpatient Settings: A Living Clinical Guideline](https://doi.org/10.7326/ANNALS-25-02714). 2026.
-* World Health Organization. [GLP-1 medicines in treating obesity](https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity). 2025.
-* Di Vincenzo O, et al. [European Association for the Study of Obesity Position Statement on the Diagnosis and Management of Obesity in Older Adults](https://doi.org/10.1159/000549751). Obes Facts. 2026.
-* Donini LM, et al. [Definition and Diagnostic Criteria for Sarcopenic Obesity: ESPEN and EASO Consensus Statement](https://doi.org/10.1159/000521241). 2022.
-* Volkert D, et al. [ESPEN practical guideline: Clinical nutrition and hydration in geriatrics](https://doi.org/10.1016/j.clnu.2022.01.024). 2022.
-* Villareal DT, et al. [Aerobic or Resistance Exercise, or Both, in Dieting Obese Older Adults](https://doi.org/10.1056/NEJMoa1616338). N Engl J Med. 2017;376:1943-1955.
-* ASMBS/IFSO. [Indications for Metabolic and Bariatric Surgery](https://doi.org/10.1007/s11695-022-06332-1). 2022.
-* CDC. [Strategies to Prevent Worsening of Symptoms in ME/CFS](https://www.cdc.gov/me-cfs/hcp/clinical-care/treating-the-most-disruptive-symptoms-first-and-preventing-worsening-of-symptoms.html). NICE. [NG206](https://www.nice.org.uk/guidance/ng206/chapter/recommendations). 운동·염분·영양 권고의 동반질환 예외 참고.
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/searchDrug). 위고비·큐시미아·마운자로·에페오토인젝터주 국내 허가사항. 에페글레나타이드의 40주 3상 결과는 허가문서의 전문가용 임상시험 정보에 근거함.
-* 광동제약. [콘트라브 국내 제품정보](https://www.ekdp.com/product/items_view.do?s=484).
-* EMA. [Semaglutide와 NAION 안전성 검토](https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy). 2025.
-* FDA. [Orforglipron(Foundayo) 허가 발표](https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program). 2026.4.1; Novo Nordisk. [미국 경구 Wegovy 허가 발표](https://www.novonordisk-us.com/media/press-releases/wegovy-pill-fda-approval-obesity.html). 2025.12.22.
-
-
-* FDA. [Xenical prescribing information: XENDOS 4-year ITT/LOCF analysis](https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/020766s038lbl.pdf). 2022.

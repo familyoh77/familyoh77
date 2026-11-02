@@ -2,12 +2,14 @@
 
 ## <mark style="color:green;">일반 사항</mark>
 
-* 압박 손상(pressure injury)은 주로 뼈 돌출부 또는 의료기기 아래에서 **지속적인 압력 또는 압력과 전단력(shear)이 함께 작용**하여 발생하는 국소 피부 및/또는 기저조직 손상임(NPIAP/EPUAP/PPPIA International Guideline, 4th ed. - Prevention chapters, 2026).
+* 압박 손상(pressure injury)은 주로 뼈 돌출부 또는 의료기기 아래에서 **강하거나 지속적인 압력 또는 압력과 전단력(shear)이 함께 작용**하여 발생하는 국소 피부 및/또는 기저조직 손상임 <mark style="color:$info;">\[International Guideline 2026, Classification]</mark>.
 * 피부가 열리지 않은 상태부터 깊은 개방성 궤양까지 다양하게 나타나며 통증이 동반될 수 있음.
 * 마찰과 습기는 피부 내성을 떨어뜨리는 위험·악화 요인이지만 압박 손상의 단독 정의 원인은 아님. 요·변실금 관련 피부염, 피부주름간 피부염, 피부열상 및 의료용 접착제 관련 피부손상과 구분함.
 * 손상 정도는 압력의 강도와 지속시간, 전단력, 조직 관류 및 개인의 조직 내성이 함께 결정함.
 
 ### <mark style="color:orange;">NPIAP pressure injury classification system (2016)</mark>
+
+* 압박·전단력과의 인과관계를 먼저 확인한 뒤 병기를 적용함. 병기는 손상의 해부학적 깊이를 나타내며, 반드시 Stage 1부터 순서대로 진행하는 것은 아님. 치유 중에는 병기를 낮추지 않고 예를 들어 “치유 중인 Stage 4”로 기록함. <mark style="color:$info;">\[International Guideline 2026, Classification]</mark>
 
 #### <mark style="color:$primary;">Stage 1: Non-blanchable erythema of intact skin</mark>
 
@@ -28,7 +30,7 @@
 * 전층 피부 손실로 지방조직과 육아조직이 보일 수 있으며 epibole(말린 상처 가장자리)이 나타날 수 있음.
 * slough 또는 eschar가 있을 수 있고 undermining 및 tunneling이 동반될 수 있음.
 * 근막, 근육, 힘줄, 연골 또는 뼈는 노출되거나 직접 촉지되지 않음.
-* slough 또는 eschar가 조직 손실의 깊이를 가리면 unstageable로 분류함.
+* slough 또는 eschar가 조직 손실의 깊이를 가리면 unstageable로 분류함. 코·귀·뒤통수·복사뼈 등 피하지방이 적은 부위는 얕아 보여도 깊은 병기일 수 있으므로 깊이 수치만으로 병기를 정하지 않음.
 
 #### <mark style="color:$primary;">Stage 4: Full-thickness skin and tissue loss</mark>
 
@@ -67,7 +69,7 @@
 
 ### <mark style="color:orange;">주요 발생기전</mark>
 
-* 지속적인 압력 또는 압력과 전단력
+* 강하거나 지속적인 압력 또는 압력과 전단력
 * 조직 변형, 미세순환 장애와 허혈-재관류 손상
 * 의료기기 또는 침상 주변 물체에 의한 국소 기계적 하중
 
@@ -89,7 +91,7 @@
 
 * **수술(수술실) 환자** : 수술 전 부동 시간, 수술 시간, ASA(American Society of Anesthesiologists) 신체상태분류, 다발 동반질환(호흡기질환, 심혈관질환, 당뇨병)
 * **중환자실 성인** : 중환자실 재실 기간, 기계환기, 부적절한 산소화, 관류 저하, 쇼크 상태, 승압제 사용 여부·종류·용량·기간, APACHE(II/III/IV), SAPS, SOFA 점수
-* **의료기기 관련 압박 손상(DRPI)** : 부종, 승압제 사용, 수술, 인공호흡기 사용, 복와위 환기, 높은 APACHE II/III·SOFA 점수, 기기 사용 기간과 개수가 독립 위험 인자; 연령·세팅과 무관하게 기기가 적용된 순간부터 위험군으로 간주
+* **기기 관련 압박 손상(device-related pressure injury, DRPI)** : 부종, 승압제 사용, 수술, 인공호흡기 사용, 복와위 환기, 높은 APACHE II/III·SOFA 점수, 기기 사용 기간과 개수 등이 위험평가에 중요함; 연령·세팅과 무관하게 기기가 적용된 순간부터 위험군으로 간주
 
 ## <mark style="color:green;">임상 양상</mark>
 
@@ -106,7 +108,7 @@
 압력을 제거하고 기도·호흡·순환을 안정화하면서 즉시 응급실 이송 및 외과·혈관 전문 평가를 시행함.
 
 * 저혈압, 빈호흡, 의식 변화, 차고 얼룩덜룩한 피부 또는 소변량 감소  `패혈증·쇼크`
-* 수시간~수일 내 빠르게 확산되는 홍반·부종·괴사, 피부 소견에 비해 심한 통증 또는 crepitus  `괴사성 연조직감염`
+* 수시간\~수일 내 빠르게 확산되는 홍반·부종·괴사, 피부 소견에 비해 심한 통증 또는 crepitus  `괴사성 연조직감염`
 * 갑작스러운 창백·차가움·맥박 소실 또는 조절되지 않는 출혈  `급성 사지 허혈·중증 출혈`
 {% endhint %}
 
@@ -126,7 +128,7 @@
 
 응급·당일 평가 소견이 없으면 조기에 상처전문팀 협진과 정기 추적을 계획함. 안정된 만성 골 노출도 골수염 가능성·재건 필요성을 평가하고, 새 감염·허혈 소견은 위 기준으로 상향 평가함.
 
-* 안정된 Stage 3~4, unstageable 또는 deep tissue pressure injury  `심부 압박 손상`
+* 안정된 Stage 3\~4, unstageable 또는 deep tissue pressure injury  `심부 압박 손상`
 * 반복 재발, 복잡한 공동·undermining·tunneling 또는 수술적 폐쇄·혈류개선 평가 필요  `복잡 만성 상처`
 * 적절한 offloading과 상처 관리에도 2주간 객관적 호전이 없거나 영양·돌봄 문제가 지속  `치유 정체·돌봄 문제`
 {% endhint %}
@@ -140,32 +142,34 @@
 * 전신 피부를 관찰하고 특히 뼈 돌출부, 피부주름 및 의료기기 아래를 확인함.
 * 위치와 병기, 가장 긴 길이×직각 너비×깊이, undermining·tunneling의 방향과 깊이를 기록함.
 * 상처 바닥 조직, 삼출물 양·성상, 냄새, 가장자리, 주변 피부, 통증, 온도, 경결·파동을 기록함.
-* 같은 자세와 척도를 사용한 사진 기록을 고려함. 병기를 낮춰 기록하지 않고 치유 상태는 별도로 기술함(☞ 아래 PUSH 참조).
+* 환자 동의와 개인정보 보호 절차에 따라 같은 자세와 척도를 사용한 사진 기록을 고려함. 병기를 낮춰 기록하지 않고 치유 상태는 별도로 기술함(☞ 아래 PUSH 참조).
 * Braden scale(6\~23점) 등 위험도 도구는 구조화된 임상평가를 보조할 뿐 이를 대체하지 않음. 참고 절단값 : 19\~23점 도구상 저위험, 15\~18점 경도위험, 13\~14점 중등도위험, 10\~12점 고위험, ≤9점 최고위험. 절단값은 기관과 환자군에 따라 조정하며 개별 위험요인과 임상 판단을 함께 적용함. 높은 점수라도 기존 욕창·의료기기·급성 관류 저하가 있으면 예방조치를 생략하지 않음.
 
 ### <mark style="color:orange;">감별 진단</mark>
 
 * 압박 손상이 뼈 돌출부 또는 의료기기 접촉부에 주로 발생한다는 점은 다른 원인의 피부 손상과 감별하는 중요한 단서임.
 
-<table><thead><tr><th width="150">질환</th><th>감별 단서</th></tr></thead><tbody><tr><td>요·변실금 관련 피부염</td><td>회음부·둔부의 넓고 경계가 불규칙한 표재성 염증, 지속적인 습기; 뼈 돌출부에 국한되지 않음</td></tr><tr><td>피부열상/접착제 관련 손상</td><td>외상 또는 접착제 제거 직후 발생, flap 또는 선형 경계</td></tr><tr><td>동맥성 궤양</td><td>말단부의 punched-out 궤양, 차가운 피부, 맥박 저하, ABI/TBI 이상</td></tr><tr><td>정맥성 궤양</td><td>종아리 gaiter area, 부종·정맥성 피부변화, 불규칙하고 얕은 궤양</td></tr><tr><td>당뇨병성 신경병성 궤양</td><td>족저 압력점, 굳은살, 감각 소실; 압박 손상과 병존 가능</td></tr><tr><td>말기 피부부전</td><td>말기 장기부전·임종기에 급속히 발생; 예방 가능성을 단정하지 말고 치료 목표와 전신상태 평가</td></tr></tbody></table>
+<table><thead><tr><th width="150">질환</th><th>감별 단서</th></tr></thead><tbody><tr><td>요·변실금 관련 피부염</td><td>회음부·둔부의 넓고 경계가 불규칙한 표재성 염증, 지속적인 습기; 뼈 돌출부에 국한되지 않음</td></tr><tr><td>피부열상/접착제 관련 손상</td><td>외상 또는 접착제 제거 직후 발생, flap 또는 선형 경계</td></tr><tr><td>동맥성 궤양</td><td>말단부의 punched-out 궤양, 차가운 피부, 맥박 저하, ABI/TBI 이상</td></tr><tr><td>정맥성 궤양</td><td>종아리 gaiter area, 부종·정맥성 피부변화, 불규칙하고 얕은 궤양</td></tr><tr><td>당뇨병성 신경병성 궤양</td><td>족저 압력점, 굳은살, 감각 소실; 압박 손상과 병존 가능</td></tr><tr><td>중증질환·임종기 피부 변화/피부부전 의심</td><td>장기부전·관류 저하와 동반될 수 있으나 압박 손상과 구별하는 재현 가능한 진단기준·합의가 충분하지 않음. 임종 시점·외형만으로 피부부전 또는 불가피한 손상으로 확정하지 않고 압박·허혈 등 원인, 예방조치와 전신상태를 함께 평가</td></tr></tbody></table>
+
+* 피부부전은 압박 손상을 대신하는 확정 진단으로 자동 적용하지 않음. 예방조치가 적절히 시행되어도 피부손상이 나타날 수 있으나, 원인 감별·분류·기록에는 불확실성이 남아 있음. <mark style="color:$info;">\[NPIAP Statement Regarding Skin Failure 2026]</mark>
 
 ### <mark style="color:orange;">검사</mark>
 
 * 감염이 의심되지 않는 상처를 일률적으로 배양하지 않음. 모든 만성 상처의 집락화는 감염을 의미하지 않음.
 * 임상 감염이 의심되면 상처를 세척하고 괴사조직을 제거한 뒤 심부조직 배양 또는 검증된 정량 면봉검사를 고려함. **표면 삼출물 면봉배양 결과만으로 항생제를 선택하지 않음.**
 * 전신 감염 시 CBC, CRP/ESR, 신·간기능, lactate 및 혈액배양 등을 임상상황에 따라 시행함.
-* 골수염 의심 시 단순 X선과 MRI를 고려함. MRI는 민감하지만 비특이적일 수 있으며, 가능한 경우 골 생검의 조직검사와 배양이 확진 및 원인균 규명의 기준임<mark style="color:$info;">Ref. WHS 2023 update</mark>.
+* 골수염 의심 시 단순 X선과 MRI를 고려함. MRI는 민감하지만 비특이적일 수 있으며, 가능한 경우 골 생검의 조직검사와 배양이 확진 및 원인균 규명의 기준임 <mark style="color:$info;">\[Wound Repair Regen 2024]</mark>.
 * 하지·발뒤꿈치 병변은 맥박, 피부온도와 모세혈관 재충만을 평가하고 ABI, TBI 또는 도플러 초음파를 고려함. 혈관 석회화가 있으면 ABI가 거짓으로 높을 수 있음.
 * 영양평가는 체중 변화, 섭취량, 삼킴·저작 능력, 질병상태와 영양평가 도구를 중심으로 시행함.
 
 ### <mark style="color:orange;">치유 평가: Pressure Ulcer Scale for Healing(PUSH)</mark>
 
-* 면적, 삼출물과 상처 바닥 조직을 같은 방법으로 반복 평가함.
+* 면적, 삼출물과 상처 바닥 조직을 같은 방법으로 반복 평가함. 총점은 0\~17점이며 낮아질수록 치유를 시사함.
 * 면적은 가장 긴 길이(cm) × 직각의 가장 긴 너비(cm)로 산출함.
 * 면적은 동일한 측정·기록 정밀도를 유지하여 PUSH 원표를 적용함. 0점은 완전 폐쇄를 뜻하므로 작은 개방 상처를 면적이 작다는 이유로 0점 처리하지 않음.
 * 면적 점수 (cm²) : 0=0, ＜0.3=1, 0.3\~0.6=2, 0.7\~1.0=3, 1.1\~2.0=4, 2.1\~3.0=5, 3.1\~4.0=6, 4.1\~8.0=7, 8.1\~12.0=8, 12.1\~24.0=9, ＞24=10
-* 삼출물 : 없음=0, 소량=1, 중등도=2, 다량=3
-* 조직 형태 : 폐쇄=0, 상피조직=1, 육아조직=2, slough=3, 괴사조직=4
+* 삼출물 : 드레싱 제거 후 세척·국소제 적용 전에 평가함. 없음=0, 소량=1, 중등도=2, 다량=3
+* 조직 형태 : 폐쇄=0, 상피조직=1, 육아조직=2, slough=3, 괴사조직=4. 괴사조직이 조금이라도 있으면 4점, 괴사조직 없이 slough가 있으면 3점으로 평가하며 가장 많이 보이는 조직만으로 점수를 정하지 않음.
 * 총점 감소는 치유, 증가는 악화를 시사하지만 감염·허혈·영양 및 실제 측정치를 함께 판단하며, 병기를 하향 조정하는 용도로 사용하지 않음(National Pressure Injury Advisory Panel, PUSH Tool 3.0).
 
 ***
@@ -175,35 +179,37 @@ flowchart TD
     subgraph A["초기 평가"]
         direction TB
         A1(["압박 손상 의심"]) ---> A2{"응급 Red Flag?"}
-        A2 -- 예 ---> A3(["응급 이송<br/>패혈증·괴사성 감염 평가"])
-        A2 -- 아니오 ---> A4["압력 즉시 제거<br/>피부·관류·감염 평가"]
-        A4 ---> A5{"피부 개방 또는<br/>깊은 조직 손상?"}
+        A2 -- 예 ---> A3(["압력 제거·응급 안정화·이송"])
+        A2 -- 아니오 ---> A4["압력 제거·피부·관류·감염 평가"]
+        A4 ---> A4a{"압박 원인과 임상 소견 일치?"}
+        A4a -- 아니오 ---> A4b(["다른 원인 평가·해당 상처 치료"])
+        A4a -- 예 ---> A5{"피부 개방 또는 DTPI 의심?"}
         A5 -- 아니오 ---> A6{"비창백성 홍반?"}
-        A6 -- 예 ---> A7["Stage 1<br/>피부보호·압력 제거"]
-        A6 -- 아니오 ---> A8["현재 압박 손상 없음<br/>위험평가·예방"]
-        A5 -- 예 ---> A9["Stage 2~4 / unstageable / DTPI<br/>크기·깊이·공동·삼출물 기록"]
+        A6 -- 예 ---> A7["Stage 1: 보호·압력 제거"]
+        A6 -- 아니오 ---> A8["미확정: 감별·예방·조기 재평가"]
+        A5 -- 예 ---> A9["Stage 2~4·unstageable·DTPI 분류·기록"]
     end
     subgraph B["상처 처치"]
         direction TB
-        B1{"확산성 감염·급성 심부감염 의심<br/>새 심부구조 노출 또는 감염·악화를 동반한 허혈?"}
-        B1 -- 예 ---> B2(["당일 전문 평가<br/>배양·영상·항생제 적응증 판단"])
+        B1{"확산성 감염·새 심부손상·감염성 허혈?"}
+        B1 -- 예 ---> B2(["당일 전문 평가·감염 치료 판단"])
         B1 -- 아니오 ---> B3{"피부가 열려 있는가?"}
-        B3 -- 아니오 ---> B4["Stage 1 또는 표피가 온전한 DTPI<br/>debridement 없이 보호"]
+        B3 -- 아니오 ---> B4["온전한 피부: 보호·offloading"]
         B3 -- 예 ---> B5{"생존 불가능 조직?"}
-        B5 -- 아니오 ---> B6["삼출량·깊이·주변 피부에 맞는<br/>습윤 드레싱"]
-        B5 -- 예 ---> B7{"발뒤꿈치 또는 허혈성 사지의<br/>안정된 건조 가피?"}
-        B7 -- 예 ---> B8["가피를 제거하지 않음<br/>관류·감염 면밀히 관찰"]
-        B7 -- 아니오 ---> B9["관류·감염·출혈 위험을 고려한<br/>적절한 debridement와 드레싱"]
+        B5 -- 아니오 ---> B6["상태에 맞는 습윤 드레싱"]
+        B5 -- 예 ---> B7{"발뒤꿈치·허혈 사지의 안정된 건조 가피?"}
+        B7 -- 예 ---> B8["가피 보존·관류·감염 관찰"]
+        B7 -- 아니오 ---> B9["관류·감염·출혈 평가 후 debridement"]
     end
     subgraph C["압력 관리와 추적"]
         direction TB
-        C1["적절한 압력 재분산 지지면에서<br/>2~3시간 간격 고려·체위변경 개별화<br/>발뒤꿈치 완전 offloading"]
+        C1["지지면·체위 개별화·발뒤꿈치 offloading"]
         C1 ---> C2{"Stage 1 또는 DTPI?"}
-        C2 -- 예 ---> C3["조기·빈번 재평가<br/>악화 시 즉시 상위 평가"]
-        C2 -- 아니오 ---> C4{"적절한 치료 후<br/>2주 내 객관적 호전?"}
+        C2 -- 예 ---> C3(["조기·빈번 재평가·악화 시 상위 평가"])
+        C2 -- 아니오 ---> C4{"적절한 치료 후 2주 내 호전?"}
         C4 -- 예 ---> C5(["동일 계획 유지·정기 재평가"])
-        C4 -- 아니오 ---> C6(["진단·압력·관류·감염·영양 재평가<br/>상처전문팀/외과 의뢰"])
-        C7(["예방 계획 유지<br/>정기 위험 재평가"])
+        C4 -- 아니오 ---> C6(["원인·치료 재평가·상처전문팀 의뢰"])
+        C7(["예방·조기 재평가·정기 위험평가"])
     end
     A7 ---> C1
     A8 ---> C7
@@ -218,7 +224,7 @@ flowchart TD
 
 <p align="center"><strong>압박 손상 평가 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. NPIAP/EPUAP/PPPIA International Guideline, 4th ed. - Repositioning and Mobilization; Supporting Pressure Injury Healing (2026); WHS 2023 update</mark></em></p>
+<p align="center"><em><mark style="color:$info;">\[NPIAP/EPUAP/PPPIA International Guideline, 4th ed. - Repositioning and Mobilization; Supporting Pressure Injury Healing (2026); Wound Repair Regen 2024]</mark></em></p>
 
 ***
 
@@ -229,8 +235,8 @@ flowchart TD
 1. 손상 부위의 압력을 즉시 제거하고 압력 재분산 지지면을 사용함.
 2. 체위변경 계획을 개별화하고 발뒤꿈치 등 특정 부위를 완전히 offloading함.
 3. 통증을 평가하고 안정 시 통증과 드레싱 교환·debridement 시 통증을 따로 관리함.
-4. 상처를 세척하고 생존 불가능 조직을 적절히 제거함.
-5. 상처 바닥은 지나치게 마르거나 젖지 않도록 moisture balance를 유지하고 주변 피부는 습기로부터 보호함.
+4. 개방성 상처를 세척하고 관류·감염과 debridement 적응증·금기를 확인함. 안정된 발뒤꿈치 또는 허혈성 사지의 건조 가피는 그대로 보호함.
+5. 개방성 상처는 지나치게 마르거나 젖지 않도록 moisture balance를 유지하고 주변 피부는 습기로부터 보호함. 위의 안정된 건조 가피를 습윤 드레싱으로 연화하지 않음.
 6. 감염, 허혈, 실금, 혈당, 영양 및 돌봄 환경을 함께 교정함.
 7. 드레싱 교환 때마다 악화·감염을 확인하고 같은 방법으로 적어도 주 1회 치유 경과를 기록함. Stage 1과 DTPI는 조기·빈번하게 재평가함. 적절한 압력 제거·변연절제 후 **2주 내 객관적 호전이 없으면** 감염·허혈·영양 및 치료계획을 재평가하고 상처전문팀 또는 외과 의뢰를 고려함. 악화하면 2주를 기다리지 않음.
 
@@ -240,8 +246,8 @@ flowchart TD
 
 #### <mark style="color:$primary;">자세와 체위변경</mark>
 
-* 적절한 압력 재분산 전신 지지면에서 대부분의 위험군은 **2시간 또는 3시간 간격**을 고려할 수 있음(조건부 권고·근거 확실성 매우 낮음). 피부 반응, 자가 움직임, 전신상태·관류, 통증, 수면과 치료 목표에 따라 개별화함. 기존 욕창 발생·악화 또는 저관류·쇼크에서는 더 자주, 작은 체위 이동을 병행할 수 있음. <mark style="color:$info;">Ref. International Guideline 4th ed., Repositioning 2026, R4\~R7</mark>
-* 4\~6시간 간격으로 일률적으로 연장하지 않음. 새 색 변화·통증·온도 변화·부종이 생기면 더 자주 체위를 바꾸고 해당 부위를 완전히 offloading함.
+* 적절한 압력 재분산 전신 지지면에서 대부분의 예방 대상 위험군은 **2시간 또는 3시간 간격**을 고려할 수 있음(조건부 권고·근거 확실성 매우 낮음). 피부 반응, 자가 움직임, 전신상태·관류, 통증, 수면과 치료 목표에 따라 개별화함. 기존 욕창 발생·악화 또는 저관류·쇼크에서는 더 자주, 작은 체위 이동을 병행할 수 있음. <mark style="color:$info;">\[International Guideline 4th ed., Repositioning 2026, R4\~R7]</mark>
+* 4\~6시간 간격으로 일률적으로 연장하지 않음. 이미 압박 손상이 있으면 2\~3시간을 고정 치료 간격으로 해석하지 말고 손상 부위를 직접 누르지 않는 자세와 피부 반응을 우선함. 새 색 변화·통증·온도 변화·부종이 생기면 더 자주 체위를 바꾸고 해당 부위를 완전히 offloading함.
 * 30도 측와위 기울임을 고려하고 90도 측와위에서 대전자에 직접 압력이 집중되지 않도록 함.
 * 침상 머리는 의학적으로 허용되는 범위에서 낮게 유지하되 흡인 예방, 호흡곤란 및 경관영양 등 임상적 필요를 우선함. 앞으로 미끄러짐과 전단력을 줄임.
 * 들어올리기·슬라이딩 시트 등 이동 보조기구를 사용하고 피부를 끌지 않음.
@@ -252,9 +258,10 @@ flowchart TD
 
 #### <mark style="color:$primary;">지지면과 발뒤꿈치 offloading</mark>
 
-* 위험도와 기존 손상에 맞는 압력 재분산 고사양 폼 매트리스 또는 교대압·저공기손실 지지면을 선택함.
+* 위험도와 기존 손상에 맞는 압력 재분산 고사양 폼 매트리스 또는 교대압·저공기손실 지지면을 선택함. 손상 부위를 피해서 눕힐 수 없거나 여러 체위 부위에 손상이 있고, 기존 계획에도 치유가 정체되거나 매트리스가 바닥까지 눌리면 지지면을 재평가함. <mark style="color:$info;">\[International Guideline, Support Surfaces Part 3, SS12]</mark>
 * 쿠션과 매트리스는 체위변경을 대체하지 않음. 도넛형 방석과 단단한 링은 가장자리에 압력을 집중시키므로 사용하지 않음.
 * 발뒤꿈치는 종아리 전체에 체중을 분산시키는 베개·쿠션 또는 heel offloading device로 침상에서 완전히 띄움. 아킬레스건, 오금혈관 및 비골신경에 압력이 집중되지 않도록 함.
+* Heel offloading device는 크기·부종·감각·활동능력에 맞춰 선택하고 피부를 주기적으로 확인함. 보행 전에는 제품 지침에 따라 제거하거나 보행용 기기로 전환하여 낙상을 예방함. 수액백·물을 채운 장갑을 발뒤꿈치 받침으로 사용하지 않음. <mark style="color:$info;">\[International Guideline 2025, Heels]</mark>
 * 기기와 피부 사이, 침상 위 튜브·리모컨 등 주변 물체를 정기적으로 확인함.
 * 뼈 돌출부나 홍반 부위를 마사지하거나 세게 문지르지 않음.
 * 검사·시술·이송 중에도 압력재분산 지지면을 사용함.
@@ -270,18 +277,18 @@ flowchart TD
 
 ### <mark style="color:orange;">영양과 수분</mark>
 
-* 모든 압박 손상 환자에서 체중 변화·섭취량·근육량·삼킴·수분 상태를 포함한 포괄적 영양평가를 시행하고 영양사·영양팀과 개별 계획을 수립함. 예방 대상자도 영양불량 위험을 선별하고 위험군은 포괄적 평가를 시행함. <mark style="color:$info;">Ref. International Guideline 4th ed., Nutrition 2026, N1\~N2</mark>
+* 모든 압박 손상 환자에서 체중 변화·섭취량·근육량·삼킴·수분 상태를 포함한 포괄적 영양평가를 시행하고 영양사·영양팀과 개별 계획을 수립함. 예방 대상자도 영양불량 위험을 선별하고 위험군은 포괄적 평가를 시행함. <mark style="color:$info;">\[International Guideline 4th ed., Nutrition 2026, N1\~N2]</mark>
 * 영양불량 또는 위험이 있는 **압박 손상 치료 대상 성인**에서 섭취량과 체중 경과를 보며 적용하는 참고 목표(WHS 2023 update; 모든 예방 대상자의 일률적 처방량은 아님):
   * 에너지 30\~35 ㎉/㎏/d
   * 단백질 1.25\~1.5 g/㎏/d
-* 수분은 일반적인 참고치로 약 30 ㎖/㎏/d 또는 1 ㎖/섭취열량 ㎉에서 시작하되, 음식·경관영양·정맥수액을 포함한 총 수분량과 발열·삼출·심부전·신기능에 따라 조정함. 이는 모든 욕창 환자에게 고정 적용하는 양이 아님. <mark style="color:$info;">Ref. International Guideline 4th ed., Nutrition 2026, N3</mark>
+* 수분은 일반적인 참고치로 약 30 ㎖/㎏/d 또는 1 ㎖/섭취열량 ㎉에서 시작하되, 음식·경관영양·정맥수액을 포함한 총 수분량과 발열·삼출·심부전·신기능에 따라 조정함. 이는 모든 욕창 환자에게 고정 적용하는 양이 아님. <mark style="color:$info;">\[International Guideline 4th ed., Nutrition 2026, N3]</mark>
 * 신장질환, 심부전, 간질환, 비만, 중환자 상태에 따라 목표를 개별화함.
-* 영양평가에 따라 에너지·단백질·미량영양소를 포함한 영양보충을 고려함(조건부 권고·근거 확실성 낮음). Arginine·아연 등을 포함한 복합 영양보충도 선택적으로 고려할 수 있으나 근거 확실성은 매우 낮음. 일반 식사와 장기기능·섭취량을 고려해 선택하며 상처 처치를 대체하지 않음. <mark style="color:$info;">Ref. International Guideline 4th ed., Nutrition 2026, N9\~N11</mark>
-* 위 복합 영양보충 권고를 비타민 C·아연 단일 성분의 무조건적 고용량 투여로 해석하지 않음. 단일 미량영양소는 결핍 또는 불충분한 섭취를 교정하는 목적으로 사용함. Collagen 보충은 2026 국제지침에서 치유 촉진을 위한 권고를 제시하지 못함. <mark style="color:$info;">Ref. Nutrition 2026, N12</mark>
+* 영양평가에 따라 에너지·단백질·미량영양소를 포함한 영양보충을 고려함(조건부 권고·근거 확실성 낮음). Arginine·아연 등을 포함한 복합 영양보충도 선택적으로 고려할 수 있으나 근거 확실성은 매우 낮음. 일반 식사와 장기기능·섭취량을 고려해 선택하며 상처 처치를 대체하지 않음. <mark style="color:$info;">\[International Guideline 4th ed., Nutrition 2026, N9\~N11]</mark>
+* 위 복합 영양보충 권고를 비타민 C·아연 단일 성분의 무조건적 고용량 투여로 해석하지 않음. 단일 미량영양소는 결핍 또는 불충분한 섭취를 교정하는 목적으로 사용함. Collagen 보충은 2026 국제지침에서 치유 촉진을 위한 권고를 제시하지 못함. <mark style="color:$info;">\[Nutrition 2026, N12]</mark>
 * 당뇨병에서는 저혈당을 피하면서 개인별 목표에 따라 혈당을 최적화함.
 
 {% hint style="danger" %}
-**압박 손상 예방만을 목적으로 한 경관영양(튜브 피딩)은 권장하지 않음** [강한 권고·근거 확실성 매우 낮음, NPIAP/EPUAP/PPPIA 4th ed., 2025\~2026]. 단, 통상 진료의 일환으로 이미 경관영양을 받고 있는 환자, 중환자, 경관영양이 필요한 소아·신생아에게는 해당하지 않음.
+**압박 손상 예방만을 목적으로 한 경관영양(튜브 피딩)은 권장하지 않음** [강한 권고·근거 확실성 매우 낮음, NPIAP/EPUAP/PPPIA 4th ed., 2025\~2026]. 이는 영양·임상 적응증에 따라 시행하는 경관영양을 금지한다는 뜻이 아님. 경구 섭취의 한계, 이득·위험, 예후와 환자의 선호를 다학제로 평가하며, 중환자·소아·신생아도 해당 영양지침과 적응증에 따라 결정함. <mark style="color:$info;">\[International Guideline 2026, Nutrition N7\~N8]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">예방을 위한 선별과 교육</mark>
@@ -294,24 +301,28 @@ flowchart TD
 
 {% hint style="info" %}
 **국내 재가 돌봄 환자의 복지용구 급여 (2026년 기준)**\
-장기요양등급을 받은 재가급여 이용자는 노인장기요양보험 복지용구 급여로 욕창예방매트리스(구입 또는 대여)와 자세변환용구·욕창예방방석(구입 품목)을 연간 160만 원(공단부담금+본인부담금) 한도 내에서 이용할 수 있음. 한도 적용기간은 달력연도가 아니라 최초 장기요양인정 유효기간 개시일부터 매 1년이며, 초과금은 전액 본인부담임. 본인부담률은 일반 15%, 감경대상 6\~9%, 국민기초생활보장법에 따른 의료급여 수급자 0%임. 전동침대는 대여 품목에 해당함. 시설급여 이용자는 복지용구 급여 대상이 아니며, 입원 중에는 전동·수동침대 등 일부 대여품목의 급여가 제한될 수 있음.\
+장기요양 1\~5등급 또는 인지지원등급 수급자 중 복지용구 급여 대상자는 노인장기요양보험 복지용구 급여로 욕창예방매트리스(구입 또는 대여)와 자세변환용구·욕창예방방석(구입 품목)을 연간 160만 원(공단부담금+본인부담금) 한도 내에서 이용할 수 있음. 한도 적용기간은 달력연도가 아니라 최초 장기요양인정 유효기간 개시일부터 매 1년이며, 초과금은 전액 본인부담임. 본인부담률은 일반 15%, 감경대상 6\~9%, 국민기초생활보장법에 따른 의료급여 수급자 0%임. 전동침대는 대여 품목에 해당함. 시설급여 이용자는 복지용구 급여 대상이 아니며, 입원 중에는 전동·수동침대 등 일부 대여품목의 급여가 제한될 수 있음.\
 ✽정확한 대상자 기준·한도·품목과 구입·대여 가능 여부는 국민건강보험공단 노인장기요양보험 고시를 확인하고, 국민건강보험공단 또는 복지용구사업소에 문의할 것(기준 변경 가능)
 {% endhint %}
 
 ## <mark style="color:green;">약물 치료</mark>
 
+* 아래 경구 진통제 용량·처방례는 성인 기준이며 최소 유효용량을 최단기간 사용함. **처방 시 최신 품목정보/급여기준 조회.** 진통제의 일반 허가 용법과 이 환자군에서 선택하는 보수적 용량을 구분함.
+
 ### <mark style="color:orange;">통증 관리</mark>
 
 * 압력 제거, 비접착성 드레싱, 교체 횟수 최소화와 충분한 사전 설명을 우선함.
 * 경증 통증에는 금기가 없으면 acetaminophen을 우선 고려함.
-  * acetaminophen 500\~1,000 ㎎ q6\~8h 필요시; 일반적으로 최대 3,000 ㎎/d. 고령·저체중·영양불량에서는 더 감량할 수 있음. 간경변에서는 통상 최대 2,000 ㎎/d로 제한하며, 다른 간질환·만성 과음은 중증도에 따라 감량 또는 회피함. 중증 간장애는 국내 허가상 금기임.
-* NSAID는 신장애, 심부전, 위장관 출혈 위험, 항응고제·항혈소판제 복용이 흔한 환자군에서 신중히 사용함.
+  * acetaminophen 500\~1,000 ㎎ q6\~8h 필요시; 이 장에서는 보수적으로 최대 3,000 ㎎/d를 적용함(국내 500 ㎎ 일반정 대표 품목의 허가 상한은 4,000 ㎎/d). 고령·저체중·영양불량에서는 더 감량할 수 있음. 간경변에서는 통상 최대 2,000 ㎎/d로 제한하며, 다른 간질환·만성 과음은 중증도에 따라 감량 또는 회피함. 중증 간장애는 국내 허가상 금기임.
+* NSAID는 신장애, 심부전, 위장관 출혈 위험, 항응고제·항혈소판제 복용이 흔한 환자군에서 신중히 사용함. 취약한 고령자는 저용량에서 시작하고, 고위험군에서는 다른 진통 전략을 우선 검토함.
   * ibuprofen 200\~400 ㎎ q6\~8h 필요시
   * naproxen 250\~500 ㎎ bid 필요시
 * debridement나 통증이 심한 드레싱 교환 전 국소마취 또는 추가 진통이 필요하면 시술 환경과 환자 상태에 맞게 계획함.
 
 {% hint style="warning" %}
-Acetaminophen 국내 대표 제품의 금기에는 성분 과민증, 소화성궤양, 심한 혈액 이상·간장애·신장애·심장기능저하, 아스피린 천식 또는 그 병력, 바르비탈계·삼환계 항우울제 복용 및 음주가 포함됨. NSAID 2종은 병용하지 않음. 국내 ibuprofen 200 ㎎ 대표 제품은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, aspirin/NSAID 과민반응, 심한 혈액 이상·간장애·신장애·심부전·고혈압, CABG 전후 통증, 임신 말기 및 고용량 methotrexate 병용 등이 금기임. 단순 감량·신중투여로 금기를 대신하지 않으며, naproxen도 해당 제품의 금기를 적용함. 항응고제·항혈소판제, ACEi/ARB·이뇨제 병용과 탈수에서는 출혈·급성 신손상 위험을 추가 평가함. <mark style="color:$info;">Ref. 국내 진통제 품목정보</mark>
+Acetaminophen 국내 대표 제품의 금기에는 성분 과민증, 소화성궤양, 심한 혈액 이상·간장애·신장애·심장기능저하, 아스피린 천식 또는 그 병력, 바르비탈계·삼환계 항우울제 복용 및 음주가 포함됨. NSAID 2종은 병용하지 않음. 국내 ibuprofen 200 ㎎ 대표 제품은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, aspirin/NSAID 과민반응, 심한 혈액 이상·간장애·신장애·심부전·고혈압, CABG 전후 통증, 임신 말기·수유부 및 고용량 methotrexate 병용 등이 금기임. 단순 감량·신중투여로 금기를 대신하지 않으며, naproxen도 해당 제품의 금기를 적용함. 항응고제·항혈소판제, ACEi/ARB·이뇨제 병용과 탈수에서는 출혈·급성 신손상 위험을 추가 평가함. <mark style="color:$info;">\[국내 진통제 품목정보]</mark>
+
+Acetaminophen의 최신 국내 허가사항에는 중증 피부반응(DRESS 포함), 글루타치온 보유량이 낮은 상태의 주의와 고음이온차 대사성 산증(HAGMA)이 반영되어 있음. 영양불량·패혈증 등 고위험 환자의 반복 투여 중 원인 불명의 대사성 산증이 나타나면 약물 관련성을 평가함. 와파린 병용 시 INR 변화를 확인함.
 {% endhint %}
 
 ### <mark style="color:orange;">감염 관리: 항균제 원칙</mark>
@@ -326,12 +337,12 @@ Acetaminophen 국내 대표 제품의 금기에는 성분 과민증, 소화성�
 #### <mark style="color:$primary;">전신 및 국소 항균제 원칙</mark>
 
 * 상처의 집락화나 배양 양성만으로 항생제를 사용하지 않음.
-* 국소 소독제·항균제를 모든 압박 손상에 일률적으로 적용하지 않음. Chlorhexidine은 항생제가 아니라 소독제임. 국소 소독제·항균제의 일상적 사용을 권고하지 않음<mark style="color:$info;">Ref. NICE CG179</mark>.
+* 국소 소독제·항균제를 모든 압박 손상에 일률적으로 적용하지 않음. Chlorhexidine은 항생제가 아니라 소독제임. 국소 소독제·항균제의 일상적 사용을 권고하지 않음 <mark style="color:$info;">\[NICE CG179]</mark>.
 * 국소 감염 또는 높은 세균부하가 의심되는 선택된 상처에서는 debridement와 세척을 우선하고, 항균 드레싱을 제한된 기간 사용할 수 있음.
 * **전신 항생제는 확산성 연조직염, 패혈증 또는 골수염 등 임상 적응증이 있을 때 사용함.** 가능하면 적절한 배양 검체를 먼저 채취하되 중증 감염에서 치료를 지연하지 않음.
 * 주변 피부에 국한된 비복잡성 비화농성 연조직염에서 심부감염·농양·특수 노출이 배제되면 165장의 연쇄구균 중심 치료 원칙을 참고함. **깊거나 괴사한 압박 손상의 감염은 다균성일 수 있어**, amoxicillin 또는 cephalexin 단독을 모든 감염성 압박 손상의 표준 처방으로 제시하지 않음. 심부감염에서는 그람음성균·혐기성균과 위험에 따른 MRSA 포괄 여부를 중증도·배양·최근 항생제·기관 감수성에 따라 결정함(☞ [165 피부·연조직 감염](165_-skin-soft-tissue-infection.md)).
 * 165장의 **호전하는 비복잡성 연조직염 5일**은 농양·괴사조직·골수염이 남아 있는 압박 손상에 적용하는 고정 기간이 아님. 치료 기간은 감염 깊이, 배농·변연절제 및 재건 계획, 배양과 반응에 따라 정하고 IV에서 경구로 바꿀 때도 총 투여기간을 함께 계산함. 반응이 없으면 잔존 저류·괴사·허혈과 압력 지속을 재평가함.
-* 만성 골 노출이나 영상 이상만으로 장기 항생제를 자동 시작하지 않음. 가능한 경우 골 생검의 조직검사·배양으로 골수염을 확인하고, 변연절제·폐쇄 가능성 및 환자의 치료 목표와 함께 계획함. 중증 감염이면 검체 확보를 이유로 치료를 지연하지 않음. <mark style="color:$info;">Ref. WHS 2023 update</mark>
+* 만성 골 노출이나 영상 이상만으로 장기 항생제를 자동 시작하지 않음. 가능한 경우 골 생검의 조직검사·배양으로 골수염을 확인하고, 변연절제·폐쇄 가능성 및 환자의 치료 목표와 함께 계획함. 중증 감염이면 검체 확보를 이유로 치료를 지연하지 않음. <mark style="color:$info;">\[Wound Repair Regen 2024]</mark>
 
 #### <mark style="color:$primary;">Biofilm</mark>
 
@@ -371,33 +382,35 @@ Acetaminophen 국내 대표 제품의 금기에는 성분 과민증, 소화성�
 
 ### <mark style="color:orange;">의료기기 관련 압박 손상 예방</mark>
 
-* 기기의 위치·기능을 방해하지 않는 범위에서 의료기기 아래 예방적 드레싱을 권장함. 두꺼운 드레싱으로 접촉압이 증가하지 않도록 크기·밀착도를 재확인하고 드레싱 아래 피부를 계속 관찰함. <mark style="color:$info;">Ref. International Guideline 4th ed., Device-Related Pressure Injuries 2025, DRPI6: 강한 권고·근거 확실성 매우 낮음</mark>
-* 기관내관 고정에는 전용 고정장치(ET tube fixation device) 사용을 고려함. 단, 복와위 환기 중에는 사용하지 않음.
+* 기기의 위치·기능을 방해하지 않는 범위에서 의료기기 아래 예방적 드레싱을 권장함. 두꺼운 드레싱으로 접촉압이 증가하지 않도록 크기·밀착도를 재확인하고 드레싱 아래 피부를 계속 관찰함. <mark style="color:$info;">\[International Guideline 4th ed., Device-Related Pressure Injuries 2025, DRPI6: 강한 권고·근거 확실성 매우 낮음]</mark>
+* 성인 기관내관 고정에는 전용 고정장치(ET tube fixation device) 사용을 고려함(조건부 권고·근거 확실성 매우 낮음). 단, 복와위 환기 중에는 사용하지 않고 숙련된 팀이 테이프·끈 등 적절한 대체 방법으로 기도를 안전하게 고정함. 소아·신생아에 대한 직접 근거로 확대하지 않음. <mark style="color:$info;">\[International Guideline 2025, DRPI4]</mark>
 
 ### <mark style="color:orange;">전문 치료와 수술</mark>
 
-* 전기자극 치료는 Stage 2\~4 및 unstageable에서 표준 상처치료에 추가하는 보조요법으로 숙련된 전문팀이 고려할 수 있음. 상처 치유용 전기자극이며 일반 진통용 TENS와 동일시하지 않음. <mark style="color:$info;">Ref. International Guideline 4th ed., Supporting Pressure Injury Healing 2026, WC4: 조건부 권고·근거 확실성 중등도</mark> NICE CG179(2014)은 electrotherapy를 권하지 않아 지침 간 차이가 있음.
-* 음압상처치료(NPWT)는 괴사조직 제거와 관류·감염 평가 후 선택된 Stage 3\~4에서 전문팀이 고려함. <mark style="color:$info;">Ref. International Guideline 4th ed., Supporting Pressure Injury Healing 2026, WC3: 조건부 권고·근거 확실성 매우 낮음</mark> WHS 2023도 사용을 지지함. NICE CG179(2014)은 일상적 사용을 권하지 않고 다량 삼출물로 드레싱 교환 횟수 감소가 필요한 경우 등을 예외로 제시하므로, 일률적인 표준치료로 표현하지 않음.
+* 전기자극 치료는 Stage 2\~4 및 unstageable에서 표준 상처치료에 추가하는 보조요법으로 숙련된 전문팀이 고려할 수 있음. 상처 치유용 전기자극 프로토콜이며 일반 진통용 TENS를 임의로 대체 적용하지 않음. 연구에는 다양한 전기자극 방식(TENS 포함)이 사용되었으나 소아·신생아 근거로 확대하지 않음. <mark style="color:$info;">\[International Guideline 4th ed., Supporting Pressure Injury Healing 2026, WC4: 조건부 권고·근거 확실성 중등도]</mark> NICE CG179(2014)은 electrotherapy를 권하지 않아 지침 간 차이가 있음.
+* 음압상처치료(NPWT)는 괴사조직 제거와 관류·감염 평가 후 선택된 Stage 3\~4에서 전문팀이 고려함. <mark style="color:$info;">\[International Guideline 4th ed., Supporting Pressure Injury Healing 2026, WC3: 조건부 권고·근거 확실성 매우 낮음]</mark> WHS 2023도 사용을 지지함. NICE CG179(2014)은 일상적 사용을 권하지 않고 다량 삼출물로 드레싱 교환 횟수 감소가 필요한 경우 등을 예외로 제시하므로, 일률적인 표준치료로 표현하지 않음.
   * 적용 전 골수염과 하지 혈류를 평가하고, 치료되지 않은 괴사조직·골수염, 상처 내 악성종양, 보호되지 않은 혈관·장기 및 불명확한 누공 등 제품별 금기를 확인함. 갑작스러운 활동성 출혈 또는 튜브·용기에 선홍색 혈액이 보이면 즉시 흡인을 중단하고 지혈·응급 평가함.
 * 수술적 폐쇄(피판술: 근육피판·근막피판 등)는 Stage 3\~4 중 보존치료로 치유가 어렵고 압력 제거, 영양, 관류, 감염과 재발 방지 계획이 최적화된 경우 성형외과·외과 평가 후 고려함.
-  * 피판술 등 수술적 재건 직후에는 이식 부위 압력을 최소화하기 위해 air-fluidized 지지면을 일시적으로 고려할 수 있음. 일상적 사용은 권장하지 않으며, 매우 고위험군이나 광범위 화상에서도 고려할 수 있음.
-* 치유 가능성과 치료 목표를 먼저 합의함. 임종기뿐 아니라 원인 교정이 불가능하거나 환자가 치유 중심 치료를 원하지 않는 경우에도 통증·냄새·삼출물과 돌봄 부담을 줄이는 완화적 관리를 선택할 수 있음. 치유 가능하나 현실적 제약이 크면 악화 방지·증상 조절과 치유 가능성을 함께 유지하는 관리 계획을 세움. <mark style="color:$info;">Ref. International Guideline 4th ed., Supporting Pressure Injury Healing 2026</mark>
+  * 피판술 등 수술적 재건 직후에는 이식 부위 압력을 최소화할 수 있는 지지면을 선택함. **공기유동식(air-fluidized) 지지면의 일상적 비권고는 예방 목적에 관한 것**이며, 기존 Stage 2\~4·unstageable·DTPI에서는 전문팀이 치유를 돕는 선택지로 고려할 수 있음(조건부 권고·근거 확실성 매우 낮음). 이용 가능성, 이동·체위변경의 어려움, 건조·탈수와 환자 선호를 함께 평가함. <mark style="color:$info;">\[International Guideline, Support Surfaces Part 2 SS10; Part 3 S16]</mark>
+* 치유 가능성과 치료 목표를 먼저 합의함. 임종기뿐 아니라 원인 교정이 불가능하거나 환자가 치유 중심 치료를 원하지 않는 경우에도 통증·냄새·삼출물과 돌봄 부담을 줄이는 완화적 관리를 선택할 수 있음. 치유 가능하나 현실적 제약이 크면 악화 방지·증상 조절과 치유 가능성을 함께 유지하는 관리 계획을 세움. <mark style="color:$info;">\[International Guideline 4th ed., Supporting Pressure Injury Healing 2026]</mark>
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-L89.0 욕창궤양 및 압박부위, 제1단계
+L89.0 욕창궤양 및 압박부위 제1단계
 
-L89.1 욕창궤양 및 압박부위, 제2단계
+L89.1 욕창궤양 및 압박부위 제2단계
 
-L89.2 욕창궤양 및 압박부위, 제3단계
+L89.2 욕창궤양 및 압박부위 제3단계
 
-L89.3 욕창궤양 및 압박부위, 제4단계
+L89.3 욕창궤양 및 압박부위 제4단계
 
 L89.9 상세불명의 욕창궤양 및 압박부위
 
 {% hint style="warning" %}
+저장된 KCD-9 엑셀의 완전코드와 대조함. L89 자체는 불완전코드이므로 확정 단계에 맞는 세부코드를 사용함.
+
 국내 L89 세부코드는 NPIAP의 unstageable 및 deep tissue pressure injury와 일대일로 대응하지 않음. 병기를 임의로 Stage 3 또는 4로 확정하지 말고 임상 소견을 구체적으로 기록하며, 단계가 확정되지 않은 경우 **기관의 청구·코딩 원칙을 확인함.**
 {% endhint %}
 
@@ -410,14 +423,15 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 > ```
 > 아세트아미노펜정 500 ㎎  1T tid prn(1회 1정, 1일 3회 이내 필요시)
 > ※ 진통제보다 압력 제거와 상처 상태에 맞는 드레싱이 치료의 핵심
-> ※ 1일 최대 3,000 ㎎ 이내; 고령·저체중·영양불량 시 추가 감량 고려
+> ※ 이 처방례의 최대량은 1,500 ㎎/d; 다른 제품의 아세트아미노펜을 임의로 추가하지 않음
+> ※ 본문 일반 참고 상한은 보수적으로 3,000 ㎎/d이며 고령·저체중·영양불량 시 추가 감량 고려
 > ※ 간경변은 통상 최대 2,000 ㎎/d; 중증 간장애는 금기
 > ```
 
 > **처방례 2.** 감염·허혈·깊은 공동이 없고 중등도 삼출물이 있는 압박 손상, 경증 통증
 >
 > ```
-> 메디폼 폼 드레싱  상처 가장자리까지 삼출물이 차거나 누출·오염·들뜸 시 교체
+> 메디폼 폼 드레싱  제품별 최대 사용기간을 지키며 흡수 한계·누출·오염·들뜸 시 조기 교체
 > 아세트아미노펜정 500 ㎎  1T tid prn(1회 1정, 1일 3회 이내 필요시)
 > ※ 드레싱은 병기가 아니라 삼출량·깊이·주변 피부 상태에 따라 선택
 > ※ 삼출물 증가 시 원인·감염을 재평가하고 흡수력이 높은 alginate/hydrofiber 고려
@@ -437,7 +451,7 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 
 > **진통제 복용 시 주의하세요**
 >
-> * 안내된 아세트아미노펜 복용량은 보통 하루 총 3,000 ㎎ 이내입니다. 간경변·저체중 등에서는 더 낮은 한도가 필요합니다. 감기약·복합 진통제에 포함된 양도 합산합니다.
+> * 안내된 아세트아미노펜 복용량은 보통 하루 총 3,000 ㎎ 이내입니다. 간경변·저체중 등에서는 더 낮은 한도가 필요합니다. 감기약·복합 진통제에 포함된 양도 확인하고 같은 성분 제품을 임의로 함께 복용하지 마십시오. 발진·수포·입안 헐음이 생기면 복용을 중단하고 진료받으십시오.
 > * 이부프로펜 등 NSAID는 고령, 신장질환, 항응고제 복용자에서 위장관 출혈·신기능 악화 위험이 있어 신중히 사용합니다.
 
 > **항생제·소독제는 모든 상처에 필요하지 않습니다**
@@ -455,6 +469,38 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 > * 상처 주변 홍반이 빠르게 번지거나 피부가 검게 변하는 경우 - 즉시 내원
 > * 통증이 갑자기 심해지거나 악취·고름이 늘어나는 경우
 > * 2주간 적절한 관리에도 객관적 호전이 없는 경우
+
+***
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">&lt;임상 근거&gt;</mark>
+
+* [NPIAP/EPUAP/PPPIA. International Guideline, 4th edition: 온라인 장별 공개본(2025\~2026).](https://www.internationalguideline.com/the-international-guideline)
+* [Classification (2026).](https://www.internationalguideline.com/classification)
+* [Pressure Injury Risk in Specific Populations (2026).](https://www.internationalguideline.com/risk-pops)
+* [Repositioning and Mobilization (2026).](https://www.internationalguideline.com/repositioning)
+* [Supporting Pressure Injury Healing (2026).](https://www.internationalguideline.com/woundhealing)
+* [Nutrition in Pressure Injury Prevention and Treatment (2026).](https://www.internationalguideline.com/nutrition)
+* [Full Body Support Surfaces: 치료용 지지면 선택(Part 3).](https://www.internationalguideline.com/surfaces-3)
+* [Preventing Heel Pressure Injuries (2025).](https://www.internationalguideline.com/heels)
+* [Seating (2025).](https://www.internationalguideline.com/seating)
+* [Device-Related Pressure Injuries (2025).](https://www.internationalguideline.com/drpi)
+* [NPIAP. Statement Regarding Skin Failure. 2026-09-17.](https://npiap.com/news/735232/NPIAP-Statement-Regarding-Skin-Failure.htm)
+* [WHS Guidelines for the Treatment of Pressure Ulcers — 2023 update. Wound Repair Regen. 2024;32:6–33.](https://doi.org/10.1111/wrr.13130)
+* [IDSA. Skin and soft tissue infections guideline (2014): 비복잡성 연조직염과 심부감염의 구분.](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
+* [NICE CG179. Pressure ulcers: prevention and management (2014).](https://www.nice.org.uk/guidance/cg179/chapter/recommendations)
+* [NPIAP. Pressure Injury Stages.](https://npiap.com/page/PressureInjuryStages)
+* [NPIAP. PUSH Tool.](https://learn.npiap.com/products/push-tool-1)
+
+### <mark style="color:orange;">&lt;허가·급여 확인 자료&gt;</mark>
+
+* [식품의약품안전처 의약품안전나라.](https://nedrug.mfds.go.kr/) 타이레놀정500밀리그람(품목기준코드 202106092), 부루펜정200밀리그램(197700120) 등의 국내 용법·금기·최신 안전성 확인. Naproxen 용량은 종근당 낙센정 공개 제품정보도 함께 확인함. 품목정보와 실제 유통·급여 여부는 구분하여 처방 시 재조회함.
+* [보건복지부. 복지용구 급여범위 및 급여기준 등에 관한 고시. 제2026-13호, 시행 2026-01-20.](https://www.law.go.kr/admRulLsInfoP.do?admRulId=35089&efYd=0)
+* [국민건강보험공단 건강Law: 입원·시설입소 시 복지용구 제한 안내.](https://www.nhis.or.kr/lm/lmxsrv/main/moviePopup.do?seqMovie=76)
+* KCD9_251216(6).xlsx: 「상병분류기호(완전코드)」 및 「상병분류기호(전체)」의 L89 계열 직접 대조(2026-11-02).
+
+✽확인일: 2026-11-02. 온라인 국제지침은 장별 공개·갱신 연도가 다르므로 해당 장의 연도를 적용함.
 
 ***
 
@@ -489,23 +535,3 @@ L89.9 상세불명의 욕창궤양 및 압박부위
 * 고름·악취·삼출물 또는 통증이 갑자기 증가함
 * 출혈이 멎지 않음
 * 뼈·힘줄이 새로 보이거나 깊은 통증·감염 소견이 생기면 당일 진료받으십시오. 이미 평가받은 안정된 만성 상처는 정해진 전문 진료·추적 계획을 따르십시오.
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-* [NPIAP/EPUAP/PPPIA. International Guideline, 4th edition: 온라인 장별 공개본(2025\~2026).](https://www.internationalguideline.com/the-international-guideline)
-* [Repositioning and Mobilization (2026).](https://www.internationalguideline.com/repositioning)
-* [Supporting Pressure Injury Healing (2026).](https://www.internationalguideline.com/woundhealing)
-* [Nutrition in Pressure Injury Prevention and Treatment (2026).](https://www.internationalguideline.com/nutrition)
-* [Device-Related Pressure Injuries (2025).](https://www.internationalguideline.com/drpi)
-* [WHS Guidelines for the Treatment of Pressure Ulcers — 2023 update. Wound Repair Regen. 2024;32:6–33.](https://doi.org/10.1111/wrr.13130)
-* [IDSA. Skin and soft tissue infections guideline (2014): 비복잡성 연조직염과 심부감염의 구분.](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
-* [NICE CG179. Pressure ulcers: prevention and management (2014).](https://www.nice.org.uk/guidance/cg179/chapter/recommendations)
-* [NPIAP. Pressure Injury Stages.](https://npiap.com/page/PressureInjuryStages)
-* [NPIAP. PUSH Tool.](https://learn.npiap.com/products/push-tool-1)
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* [식품의약품안전처 의약품안전나라.](https://nedrug.mfds.go.kr/) 진통제의 국내 허가 용량·금기 확인 자료.
-* [국민건강보험공단. 복지용구 급여범위 및 급여기준 등에 관한 고시.](https://www.nhis.or.kr/lm/lmxsrv/law/lawFullContent.do?SEQ=96)

@@ -42,7 +42,7 @@
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
 {% hint style="danger" %}
-**즉각 조치**
+<mark style="color:$danger;">**즉각 조치**</mark>
 
 즉시 응급실·관련 전문과 평가와 필요한 정주 항생제 치료를 시행함. 괴사성 감염·심부 손 감염은 신속히 외과·수부외과 평가를 받도록 하며 영상검사 때문에 수술적 평가를 지연하지 않음
 
@@ -55,7 +55,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-**당일~수일 내 평가**
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 아래 급성 감염은 당일 평가함. 배농·항생제 투여·경구 수분 섭취·추적이 외래에서 어렵거나 전신증상이 뚜렷하면 의뢰·입원을 고려함. 새 응급소견은 즉각 조치로 전환함
 
@@ -69,7 +69,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-**조기 평가 및 추적**
+<mark style="color:$info;">**조기 평가 및 추적**</mark>
 
 경증 외래 환자도 24–48시간 내 재평가함. 전신상태·통증·발열이 호전하고 확산이 멎으면 경구 치료를 지속하고 5일째 종료·연장 여부를 판단함. 잔여 홍반만으로 실패를 판단하지 않으며, 48–72시간 무호전은 당일 재평가로 전환함
 
@@ -109,8 +109,8 @@
 
 ```mermaid
 flowchart TD
-    A["급성 압통성 선형 홍반"] ---> B{"패혈증·괴사성 감염·발열성 호중구감소·안와 또는 심부 손 감염 의심?"}
-    B --->|예| C["응급실·정주 항생제, 괴사성·심부 손 감염은 즉시 외과 협진"]
+    A(["급성 세균성 림프관염 의심"]) ---> B{"패혈증·괴사성 감염·발열성 호중구감소·안와 또는 심부 손 감염 의심?"}
+    B --->|예| C(["즉각 응급 평가·정주 치료, 괴사성·심부 손 감염은 외과 협진"])
     B --->|아니오| H{"전신증상·중증 면역저하·경구 곤란·주요 부위 감염?"}
     H --->|예| I["당일 의뢰·중증도와 노출에 따른 정주 치료 평가"]
     H --->|아니오| X{"급성 물림·민물 또는 해수 노출?"}
@@ -121,14 +121,14 @@ flowchart TD
     D --->|예| E["당일 배농·배양 및 전신 항생제"]
     D --->|아니오| J["경구 β-lactam·거상·진입부 치료"]
     J ---> K["24~48시간 내 재평가"]
-    E ---> Q["병원체·배농·중증도에 따른 치료 기간과 추적"]
+    E ---> Q(["병원체·배농·중증도에 따른 치료·추적"])
     G ---> Q
     I ---> Q
     Y ---> Q
     K ---> L{"전신상태·통증·발열이 호전하고 진행이 멎는가?"}
-    L --->|예| M["경증 비화농성은 5일째 종료·연장 판단"]
+    L --->|예| M(["경증 비화농성은 5일째 종료·연장 판단"])
     L --->|아니오| N["48~72시간 무호전이면 당일 재평가, 악화는 즉시 평가"]
-    N ---> O["진단·농양·이물·내성균 확인, 필요 시 변경·입원"]
+    N ---> O(["원인 재평가 후 치료 조정·필요 시 입원"])
     style C fill:#f96,stroke:#e65100,stroke-width:2px
     style E fill:#e1f5fe,stroke:#01579b,stroke-width:2px
     style G fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
@@ -138,7 +138,7 @@ flowchart TD
 
 <p align="center"><strong>진단 및 치료 알고리듬</strong></p>
 
-<p align="center"><em><mark style="color:$info;">Ref. 질병관리청 2026 피부·연조직 감염 실무지침; IDSA SSTI (2014); CDC GAS Cellulitis (2025); NICE NG141</mark></em></p>
+<p align="center"><em><mark style="color:$info;">[질병관리청 2026; IDSA 2014; CDC 2025; NICE NG141]</mark></em></p>
 
 ***
 
@@ -150,33 +150,35 @@ flowchart TD
 
 ## <mark style="color:green;">비-약물 치료 및 예방</mark>
 
-* 원발 상처를 세척하고 이물이나 괴사조직을 제거함.
-* 농양이 있으면 절개배농을 우선함.
+* 상처를 부드럽게 세척하고 적절한 드레싱으로 덮으며, 젖거나 오염되면 교체함.
 * 환부를 심장보다 높게 거상하고 무리한 사용을 줄임.
 * 발가락 사이 무좀·짓무름, 습진, 궤양, 부종 및 정맥부전 등 진입부와 재발 요인을 함께 치료함.
 * 동물·사람 물림이나 오염된 상처에서는 파상풍 예방접종 상태를 확인하고, 동물 노출에 따라 광견병 예방 필요성을 평가함.
 * 상처 관리, 피부 보습, 무좀 치료 및 림프부종 관리로 재발 위험을 줄임.
+* **만성 하지부종·반복 연조직염 :** 말초동맥질환 등 압박 금기를 평가하고, 상태와 통증에 맞춰 전문가가 처방·피팅한 압박치료를 고려함. 2020년 무작위시험과 2026년 연장 추적에서 재발 감소가 확인됨. 이는 만성 하지부종이 있는 반복 연조직염의 예방 근거로, 모든 급성 림프관염에 즉시 압박을 일률 적용하는 근거는 아님. <mark style="color:$info;">[N Engl J Med 2020; eClinicalMedicine 2026]</mark>
+* 위험인자를 교정했는데도 연조직염이 반복되면 진단을 재확인하고 예방 항생제 필요성을 감염내과와 평가함. IDSA는 연 3\~4회 재발 시 고려하도록 제시하며, 첫 급성 림프관염에 예방 항생제를 일률적으로 시작하지 않음. <mark style="color:$info;">[IDSA 2014]</mark>
 * 고름·삼출물이 있는 상처에서는 손 위생을 철저히 하고, 수건·면도기 등 피부에 닿는 개인 물품은 다른 사람과 공유하지 않음. 비화농성 림프관염 자체가 일상적 접촉으로 전파되는 것은 아님.
 
 ## <mark style="color:green;">약물 치료</mark>
 
 ### <mark style="color:orange;">항생제 선택 원칙</mark>
 
-* 전형적인 경증 비화농성 림프관염은 GAS를 표적으로 하는 경구 β-lactam으로 치료함. 림프관염 자체의 직접 근거는 제한적이므로 동반 연조직염·단독 지침을 임상상에 맞춰 적용함.
-* NICE는 림프관염을 병원 의뢰 또는 전문가 자문 고려 대상으로 제시함. 안정된 경증 환자를 외래 치료할 때에도 빠른 진행·심부감염 가능성을 확인하고 24\~48시간 내 재평가가 가능해야 함. <mark style="color:$info;">Ref. NICE NG141</mark>
-* 넓은 면상 연조직염·감염창이 동반되거나 MSSA도 고려해야 하면 cephalexin 등 1세대 cephalosporin을 우선 고려함. 질병관리청 2026 지침은 일반 연조직염에서 연쇄구균·MSSA를 함께 포괄하고, amoxicillin은 단독(erysipelas) 또는 연쇄구균 중심 감염에 제시함. <mark style="color:$info;">Ref. 질병관리청 2026</mark>
+* 전형적인 경증 비화농성 림프관염은 GAS를 표적으로 하는 경구 β-lactam으로 치료함. 림프관염 자체의 직접 근거는 제한적이므로 동반 연조직염·단독 지침을 임상상에 맞춰 적용함. **국내 2026 지침은 19세 이상 성인·병원급 이상 의료기관을 대상으로 개발되었으며**, 소아·신생아와 중증 면역저하 환자에는 아래 성인 용량·기간을 그대로 적용하지 않음.
+* **처방 시 최신 품목정보/급여기준 조회.** 지침상 권고와 국내 개별 품목의 적응증·금기·용법·급여 인정 여부를 구분함.
+* NICE는 림프관염을 병원 의뢰 또는 전문가 자문 고려 대상으로 제시함. 안정된 경증 환자를 외래 치료할 때에도 빠른 진행·심부감염 가능성을 확인하고 24\~48시간 내 재평가가 가능해야 함. <mark style="color:$info;">[NICE NG141]</mark>
+* 넓은 면상 연조직염·감염창이 동반되거나 MSSA도 고려해야 하면 cephalexin 등 1세대 cephalosporin을 우선 고려함. 질병관리청 2026 지침은 일반 연조직염에서 연쇄구균·MSSA를 함께 포괄하고, amoxicillin은 단독(erysipelas) 또는 연쇄구균 중심 감염에 제시함. <mark style="color:$info;">[질병관리청 2026]</mark>
 * 단순 선형 발적만으로 MRSA 치료제를 일률적으로 추가하지 않음.
 * 물림, 물 노출, 결절성 병변은 병원체 범위가 다르므로 아래의 일반 요법만 적용하지 않음.
 * **국내 2026 및 IDSA·CDC 연조직염 지침을 적용한 경증 비화농성 사례는 5일을 기본**으로 하되, 5일째 호전이 불충분하면 진단·농양·병원체를 재평가하고 흔히 7\~10일로 연장함. 중증·균혈증·농양·특수 노출은 병원체와 감염 범위에 따라 기간을 따로 결정함.
-* 5일 기본 요법은 이 챕터의 경증 비화농성 감염에 적용함. 세균성 수유 유방염의 10–14일 요법과는 대상 질환·근거가 다르며 서로 대체하지 않음. 정주에서 경구로 바꿀 때는 유효한 정주 치료 일수를 합산하고 경구 전환일부터 기간을 새로 시작하지 않음
+* 5일 기본 요법은 이 챕터의 경증 비화농성 감염에 적용함. 심한 림프부종, 반복 재발, 지연 반응 등은 개별적으로 기간을 결정하며, 다른 감염질환의 치료 기간을 그대로 대입하지 않음. 정주에서 경구로 바꿀 때는 유효한 정주 치료 일수를 합산하고 경구 전환일부터 기간을 새로 시작하지 않음
 * 호전 판단은 발열·통증·전신상태와 확산 중단을 함께 봄. 치료 초기 24\~48시간에는 염증이 일시적으로 더 뚜렷해질 수 있고, 홍반·부종이 완전히 없어지는 데는 더 오래 걸림. 잔여 홍반만으로 항생제를 변경·연장하지 않되, 급속한 확산·심한 통증·전신 악화는 즉시 재평가함.
 
 {% hint style="info" %}
 **Cephalexin 용법 - 제품 허가와 국내·국외 지침을 구분하여 적용**\
-국내 팔렉신 허가는 성인 1일 1\~4 g, 통상 500 ㎎ bid\~tid이며 중증도에 따라 증량 가능함. 질병관리청 2026 연조직염 지침과 국제 지침은 500 ㎎ qid를 제시함. 이 챕터의 표·처방례는 qid로 통일함. 이는 국내 허가의 1일 용량 범위에도 포함되므로 일률적으로 허가 외 용량이라고 해석하지 않음. 국내 허가는 대부분의 급성 감염에서 증상 소실 후 최소 2일 추가 투여를 기술하므로 5일 기본 지침과 함께 임상 반응을 판단함.
+국내 팔렉신 허가는 성인 1일 1\~4 g, 통상 500 ㎎ bid\~tid이며 중증도에 따라 증량 가능함. 질병관리청 2026 연조직염 지침과 국제 지침은 500 ㎎ qid를 제시함. 이 챕터의 표·처방례는 qid로 통일함. 1일 총량 2 g은 국내 허가 범위에 포함되지만, 투여 횟수·기간은 지침과 품목 허가 문구를 구분하여 적용함. 국내 허가는 대부분의 급성 감염에서 증상 소실 후 최소 2일 추가 투여를 기술하므로 5일 기본 지침과 함께 임상 반응을 판단함.
 {% endhint %}
 
-<table><thead><tr><th width="145">상황</th><th width="265">성인 예시 용법</th><th>주요 고려사항</th></tr></thead><tbody><tr><td>전형적 경증 비화농성<br/>GAS 중심</td><td>Amoxicillin 500 ㎎ tid × 5일<br/><mark style="color:blue;">\[파목신캡슐 500 ㎎]</mark></td><td>국내 허가 용법은 1회 250\~500 ㎎, 1일 3회. 화농성 병소나 S. aureus 가능성이 높으면 단독 선택을 재검토함.</td></tr><tr><td>경증, MSSA도 고려</td><td>Cephalexin 500 ㎎ qid × 5일<br/><mark style="color:blue;">\[팔렉신캡슐 500 ㎎]</mark></td><td>국내 통상 용법은 500 ㎎ bid\~tid, 1일 1\~4 g 범위. 국내 2026 연조직염 지침의 500 ㎎ qid를 예시로 제시함. 신기능에 따라 용량·간격을 조정함.</td></tr><tr><td>정주 치료가 필요한<br/>일반 비화농성 감염</td><td>Cefazolin 2 g IV q8h<br/>(정상 신기능 성인 예시)</td><td>국내 2026 지침의 정주 선택지. 신기능에 따라 조정함. Ampicillin/sulbactam 또는 nafcillin도 임상상에 따라 고려함. MRSA·특수 노출은 별도 치료</td></tr><tr><td>1일 1회 주사가 필요한<br/>선택적 대안</td><td>Ceftriaxone 1\~2 g IV/IM q24h<br/><mark style="color:blue;">\[대화세프트리악손주 1 g]</mark></td><td>CDC가 제시하는 정주 선택지이며, 단순 비화농성 감염에서 좁은 범위 약제를 사용할 수 있으면 이를 우선함. <strong>단회 치료가 아님.</strong> 매일 재평가하고 호전 시 경구제로 전환함. 중증 환자의 입원 치료를 단순 외래 주사로 대체하지 않음.</td></tr><tr><td>비중증 지연형<br/>penicillin 알레르기</td><td>Cephalexin 고려</td><td>단순 발진과 즉시형·중증 지연형 반응을 구분함. Ampicillin 등과 cephalexin의 유사 측쇄로 교차반응할 수 있어 알레르기 원인약을 확인함. 즉시형 또는 중증 지연형 병력이면 경험적으로 선택하지 말고 전문가와 대안을 결정함.</td></tr><tr><td>즉시형 중증<br/>β-lactam 알레르기</td><td>Clindamycin을 지역 감수성과<br/>국내 허가사항에 따라 제한적으로 고려</td><td>Azithromycin을 일률적인 대체약으로 사용하지 않음. 감수성 자료가 불확실하면 대안을 전문가와 협의함. 중증·빠른 진행·경구 치료 부적합이면 입원하여 vancomycin 등 MRSA·연쇄구균 활성 약제를 결정함. 알레르기나 감수성 자료 부재만으로 모두 입원시키지는 않음.</td></tr><tr><td>MRSA 위험 동반 감염<br/>또는 중증 감염</td><td>MRSA·streptococcus 활성 약제 선택<br/>중증이면 입원·vancomycin 등 정주 치료</td><td>관통상, 주사약물 사용, MRSA 병력·집락, 다른 부위 MRSA 감염 또는 전신염증반응을 확인함. MRSA 위험만으로 입원을 결정하지 않고 중증도에 따라 경구 또는 정주 치료를 선택함. 경증에서 TMP/SMX·doxycycline을 선택하면 연쇄구균 치료를 위해 β-lactam 병용을 고려함. 중증 면역저하나 괴사성 감염 의심 시 더 넓은 경험적 치료가 필요함.</td></tr></tbody></table>
+<table><thead><tr><th width="145">상황</th><th width="265">성인 예시 용법</th><th>주요 고려사항</th></tr></thead><tbody><tr><td>전형적 경증 비화농성<br/>GAS 중심</td><td>Amoxicillin 500 ㎎ tid × 5일<br/><mark style="color:blue;">\[파목신캡슐 500 ㎎]</mark></td><td>국내 허가 용법은 1회 250\~500 ㎎, 1일 3회. 화농성 병소나 S. aureus 가능성이 높으면 단독 선택을 재검토함.</td></tr><tr><td>경증, MSSA도 고려</td><td>Cephalexin 500 ㎎ qid × 5일<br/><mark style="color:blue;">\[팔렉신캡슐 500 ㎎]</mark></td><td>국내 통상 용법은 500 ㎎ bid\~tid, 1일 1\~4 g 범위. 국내 2026 연조직염 지침의 500 ㎎ qid를 예시로 제시함. 신기능에 따라 용량·간격을 조정함.</td></tr><tr><td>정주 치료가 필요한<br/>일반 비화농성 감염</td><td>Cefazolin 2 g IV q8h<br/>(정상 신기능 성인 예시)</td><td>국내 2026 지침의 정주 선택지. 신기능에 따라 조정함. Ampicillin/sulbactam 또는 nafcillin도 임상상에 따라 고려함. MRSA·특수 노출은 별도 치료</td></tr><tr><td>1일 1회 주사가 필요한<br/>선택적 대안</td><td>Ceftriaxone 1\~2 g IV/IM q24h<br/><mark style="color:blue;">\[대화세프트리악손주 1 g]</mark></td><td>CDC가 제시하는 정주 선택지이며, 단순 비화농성 감염에서 좁은 범위 약제를 사용할 수 있으면 이를 우선함. <strong>단회 치료가 아님.</strong> 매일 재평가하고 호전 시 경구제로 전환함. 중증 환자의 입원 치료를 단순 외래 주사로 대체하지 않음.</td></tr><tr><td>비중증 지연형<br/>penicillin 알레르기</td><td>Cephalexin 고려</td><td>단순 발진과 즉시형·중증 지연형 반응을 구분함. Ampicillin 등과 cephalexin의 유사 측쇄로 교차반응할 수 있어 알레르기 원인약을 확인함. 즉시형 또는 중증 지연형 병력이면 경험적으로 선택하지 말고 전문가와 대안을 결정함.</td></tr><tr><td>즉시형 중증<br/>β-lactam 알레르기</td><td>Clindamycin을 지역 감수성과<br/>국내 허가사항에 따라 제한적으로 고려</td><td>Azithromycin을 일률적인 대체약으로 사용하지 않음. 감수성 자료가 불확실하면 대안을 전문가와 협의함. 중증·빠른 진행·경구 치료 부적합이면 입원하여 vancomycin 등 MRSA·연쇄구균 활성 약제를 결정함. 알레르기나 감수성 자료 부재만으로 모두 입원시키지는 않음.</td></tr><tr><td>MRSA 위험 동반 감염<br/>또는 중증 감염</td><td>MRSA·streptococcus 활성 약제 선택<br/>중증이면 입원·vancomycin 등 정주 치료</td><td>관통상, 주사약물 사용, MRSA 병력·집락, 다른 부위 MRSA 감염 또는 전신염증반응을 확인함. MRSA 위험만으로 입원을 결정하지 않고 중증도에 따라 경구 또는 정주 치료를 선택함. 경증에서 TMP/SMX·doxycycline을 선택하면 연쇄구균까지 포괄해야 하므로 β-lactam을 함께 사용하거나 두 균군에 모두 활성이 있는 대안을 선택함. TMP/SMX·doxycycline 단독으로 전형적인 GAS 림프관염을 치료하지 않음. 중증 면역저하나 괴사성 감염 의심 시 더 넓은 경험적 치료가 필요함.</td></tr></tbody></table>
 
 {% hint style="warning" %}
 **Clindamycin 제품 허가와 국내·국외 지침의 차이**\
@@ -187,10 +189,10 @@ flowchart TD
 **⚠️ 특수 노출 항생제 분기**
 
 * **동물·사람 물림 :** 호기성·혐기성균을 함께 포괄하는 amoxicillin/clavulanate(경구) 또는 ampicillin/sulbactam(정주)
-* **민물 노출(*Aeromonas*) :** fluoroquinolone 또는 감수성이 있는 3세대 cephalosporin 등을 임상상과 배양 결과에 따라 선택함. 단순 amoxicillin·1세대 cephalosporin으로 치료하지 않음. **괴사성 감염**에는 국내 2026 지침의 ciprofloxacin 또는 cefotaxime/ceftriaxone과 doxycycline 병합 등을 감염내과·외과와 결정함. <mark style="color:$info;">Ref. 질병관리청 2026</mark>
+* **민물 노출(*Aeromonas*) :** fluoroquinolone 또는 감수성이 있는 3세대 cephalosporin 등을 임상상과 배양 결과에 따라 선택함. 단순 amoxicillin·1세대 cephalosporin으로 치료하지 않음. **괴사성 감염**에서 국내 2026 지침은 원인균이 확인된 *A. hydrophila*에 대해 **(ciprofloxacin 또는 cefotaxime 또는 ceftriaxone) + doxycycline**을 제시함. 초기에는 다균성 감염 가능성에 맞는 광범위 경험적 치료와 수술을 우선하고, 이후 감수성에 따라 감염내과·외과와 조정함. <mark style="color:$info;">[질병관리청 2026]</mark>
 * **해수 노출(*Vibrio*, 특히 *V. vulnificus*) :** doxycycline 100 ㎎ PO/IV bid + ceftazidime 1\~2 g IV/IM q8h가 CDC의 대표 권고이며 통상 7\~14일을 제시함. 대안으로 3세대 cephalosporin + fluoroquinolone 또는 fluoroquinolone 단독을 고려함.
 
-간질환·면역저하 환자에서 *V. vulnificus* 감염은 급속히 진행하는 괴사성 병변과 패혈증으로 이어질 수 있어 의심 시 즉시 응급 평가·항생제와 외과적 감염원 통제가 필요함. 배양 결과나 협진을 기다리며 치료를 지연하지 않음. <mark style="color:$info;">Ref. CDC Vibriosis</mark>
+간질환·면역저하 환자에서 *V. vulnificus* 감염은 급속히 진행하는 괴사성 병변과 패혈증으로 이어질 수 있어 의심 시 즉시 응급 평가·항생제와 외과적 감염원 통제가 필요함. 배양 결과나 협진을 기다리며 치료를 지연하지 않음. <mark style="color:$info;">[CDC Vibriosis]</mark>
 {% endhint %}
 
 {% hint style="danger" %}
@@ -201,16 +203,16 @@ flowchart TD
 {% hint style="warning" %}
 **경구 MRSA 약제를 선택할 때의 국내 제한**
 
-TMP/SMX(셉트린)의 피부·연조직 감염 치료는 국내 허가 외 사용이며 임부·임신하고 있을 가능성이 있는 여성·수유부·G6PD 결핍 등에 금기임. **Methotrexate와 병용하지 않음**. CrCl 15–30 ㎖/min은 통상 용량의 1/2, 15 ㎖/min 이하는 투여가 권장되지 않으며 혈중 농도 모니터링이 불가능한 중증 신부전은 금기임. 신기능·K와 ACEi/ARB·spironolactone·warfarin 등 병용약을 확인함
+TMP/SMX(셉트린)의 **이 챕터에서 다루는 MRSA 연조직염·급성 림프관염 치료는 국내 허가 외 사용**이며 임부·임신하고 있을 가능성이 있는 여성·수유부·G6PD 결핍 등에 금기임. **Methotrexate와 병용하지 않음**. CrCl 15–30 ㎖/min은 통상 용량의 1/2, ＜15 ㎖/min은 투여가 권장되지 않으며 혈중 농도 모니터링이 불가능한 중증 신부전은 금기임. 신기능·K와 ACEi/ARB·spironolactone·warfarin 등 병용약을 확인함
 
-Doxycycline 국내 품목(예: 신일모노독시엠)의 피부·연조직 감염 치료도 허가 외 사용임. 임부·수유부, 통상적 치료에서 12세 미만 소아, 신부전·중증 간기능 이상·중증 근무력증·레티노이드 병용 금기를 적용함. 일반 경증 림프관염에 이 약제들을 일률적으로 추가하지 않음
+Doxycycline 국내 품목(예: 신일모노독시엠)의 **MRSA 연조직염·급성 림프관염 치료도 국내 허가 외 사용**임. 해당 품목에 유선염·림프절염·여드름 등은 허가되어 있으므로, 피부·연조직의 모든 질환이 허가 외라는 뜻은 아님. 임부·수유부, 통상적 치료에서 12세 미만 소아, 신부전·중증 간기능 이상·중증 근무력증·레티노이드 병용 금기를 적용함. 일반 경증 림프관염에 이 약제들을 일률적으로 추가하지 않음
 
-<mark style="color:$info;">Ref. 셉트린·신일모노독시엠 국내 품목정보.</mark>
+<mark style="color:$info;">[국내 품목정보]</mark>
 {% endhint %}
 
 ### <mark style="color:orange;">정주 치료 후 경구 전환</mark>
 
-* 정주 치료 시작 후 48시간 이내 첫 전환 평가를 하고 이후 매일 재평가함. 활력징후가 안정되고, 24시간 이상 해열되며, 통증·홍반이 감소하거나 확산이 멎고 경구 섭취·흡수가 가능하면 경구 전환을 고려함. 균혈증·심부감염은 별도 판단함. CRP·WBC의 정상화만을 기다리지 않음. <mark style="color:$info;">Ref. 질병관리청 2026</mark>
+* 정주 치료 시작 후 48시간 이내 첫 전환 평가를 하고 이후 매일 재평가함. 활력징후가 안정되고, 24시간 이상 해열되며, 통증·홍반이 감소하거나 확산이 멎고 경구 섭취·흡수가 가능하면 경구 전환을 고려함. 균혈증·심부감염은 별도 판단함. CRP·WBC의 정상화만을 기다리지 않음. <mark style="color:$info;">[질병관리청 2026]</mark>
 * Ceftriaxone은 칼슘 함유 수액과 혼합·동시 투여하지 않으며 제품별 희석·투여법을 준수함. 리도카인으로 용해한 근육주사용 용액을 정주하지 않음.
 
 ### <mark style="color:orange;">신기능·임신·소아 고려</mark>
@@ -223,35 +225,45 @@ Doxycycline 국내 품목(예: 신일모노독시엠)의 피부·연조직 감�
 ### <mark style="color:orange;">해열·진통제</mark>
 
 * Acetaminophen을 우선 고려하며, NSAID는 해당 제품의 금기·위험을 평가하여 선택적으로 단기간 사용함
-* **Acetaminophen 일반정 :** 500\~1,000 ㎎ q6\~8h 필요 시 <mark style="color:blue;">\[타이레놀정 500 ㎎]</mark>. 이 챕터에서는 1일 3,000 ㎎ 이내로 사용하며, 건강한 성인의 국내 허가 최대량은 4,000 ㎎/d임. 저체중·영양불량·간질환·과음에서는 한도를 낮추고, 중증 간장애 등 국내 금기 및 삼환계 항우울제·바르비탈계 약물 병용 금기를 확인함. 감기약·복합진통제의 acetaminophen까지 합산함.
-* **Acetaminophen 650 ㎎ 서방정 :** 2정 q8h로 사용하는 제품은 1일 6정을 초과하지 않음. 일반정 용법과 혼동하지 않음.
+* **Acetaminophen 일반정 :** 500\~1,000 ㎎ q6\~8h 필요 시 <mark style="color:blue;">\[타이레놀정 500 ㎎]</mark>. 이 챕터에서는 1일 3,000 ㎎ 이내로 사용하며, 건강한 성인의 국내 허가 최대량은 4,000 ㎎/d임. 저체중·영양불량·간질환·과음에서는 한도를 낮추고, 중증 간장애 등 국내 금기 및 삼환계 항우울제·바르비탈계 약물 병용 금기를 확인함. 감기약·복합진통제의 acetaminophen까지 합산하고 중복 제품은 함께 사용하지 않음. 국내 타이레놀정 500 ㎎의 소화성궤양, 심한 신장장애·심장기능저하·혈액이상, 아스피린천식 또는 그 병력 등 추가 금기도 확인함.
+* **Acetaminophen 650 ㎎ 서방정 :** 2정 q8h로 사용하는 제품의 허가 최대량은 1일 6정(3,900 ㎎)임. 위 일반정 예시의 3,000 ㎎/d 한도와 구분하고, 분쇄·씹기 없이 삼킴. 이 챕터의 단기 필요 시 처방은 일반정으로 제시함.
 * **Ibuprofen :** 200\~400 ㎎ tid 필요 시 <mark style="color:blue;">\[부루펜정 200 ㎎]</mark>. 통증이 심하거나 악화하면 우선 감염 진행·농양·괴사성 감염을 재평가하며 진통제만 증량하지 않음.
 * **Dexibuprofen :** 300 ㎎ bid\~tid 필요 시 <mark style="color:blue;">\[애니펜정 300 ㎎]</mark>. 국내 허가는 300 ㎎ 1일 2\~4회, 최대 1,200 ㎎/d임. Ibuprofen이나 다른 NSAID와 병용하지 않음.
 * **NSAID 금기·주의 :** 국내 부루펜은 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, NSAID 과민반응, 중증 신장·간·심장 장애 및 심한 고혈압 등이 금기임. 애니펜도 위장관 궤양·재발 병력, 출혈, 천식 병력 및 중증 장기장애 등이 금기임. 금기 환자에게 단순히 감량하여 사용하지 않음. 탈수·신기능 저하, 고령, 항응고제 복용에서는 위험을 별도로 평가함.
-* **임신·수유와 NSAID :** 임신 약 20주 이후에는 태아 신기능·양수 감소 위험으로 원칙적으로 회피함. 국내 부루펜은 임신 말기 3개월, 애니펜은 임신 6개월 이상에서 금기임. 두 제품 모두 국내 허가에 수유 또는 약물 투여를 중단하도록 기재되어 있으므로 임신·수유 중에는 대체약과 치료 계획을 결정함. Ibuprofen을 수유 중 선호약으로 평가하는 LactMed와 국내 허가의 차이를 구분함. <mark style="color:$info;">Ref. 식약처 품목정보; LactMed—Ibuprofen</mark>
+* **임신·수유와 NSAID :** 임신 약 20주 이후에는 태아 신기능·양수 감소 위험으로 원칙적으로 회피함. 국내 부루펜은 임신 말기 3개월, 애니펜은 임신 6개월 이상에서 금기임. 두 제품 모두 국내 허가에 수유 또는 약물 투여를 중단하도록 기재되어 있으므로 임신·수유 중에는 대체약과 치료 계획을 결정함. Ibuprofen을 수유 중 선호약으로 평가하는 LactMed와 국내 허가의 차이를 구분함. <mark style="color:$info;">[국내 품목정보; LactMed—Ibuprofen]</mark>
+
+***
+
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+* 원발 상처의 이물·괴사조직을 평가하고 필요 시 제거함. 깊은 이물이나 힘줄·관절 침범이 의심되면 관련 전문과에 의뢰함.
+* 농양이 있으면 절개배농으로 감염원을 통제하고 농 배양을 시행함. 림프관염·주위 연조직염 또는 전신증상이 동반되면 배농만으로 치료를 끝내지 않고 항생제를 병행함.
+* 괴사성 감염, 심부 손 감염 또는 화농성 관절염은 응급 수술 평가가 필요하며, 영상검사·배양 결과를 기다리며 지연하지 않음.
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-**⚠️ I89.1은 급성 세균성 림프관염에는 사용하지 않음.** 급성은 병변 위치에 따라 L03.- 하위 코드를 사용함.
+**급성 림프관염은 L03 범주에 포함되며 I89.1을 사용하지 않음.** 아래 L03 하위 분류의 공식 명칭은 ‘연조직염’이지만 급성 림프관염도 포함됨. ‘세균성’이라는 이유보다 **급성이라는 임상 분류**가 코드 선택의 기준임.
 
-<table><thead><tr><th width="125">코드</th><th>분류</th></tr></thead><tbody><tr><td><mark style="color:red;">L03.-</mark></td><td>연조직염 및 급성 림프관염. 병변 위치에 따라 세부 코드를 선택함.</td></tr><tr><td>L03.0</td><td>손가락 및 발가락의 연조직염·급성 림프관염</td></tr><tr><td>L03.1</td><td>사지 기타 부분의 연조직염·급성 림프관염</td></tr><tr><td>L03.2</td><td>얼굴의 연조직염·급성 림프관염</td></tr><tr><td>L03.3</td><td>몸통의 연조직염·급성 림프관염</td></tr><tr><td>L03.8</td><td>기타 부위의 연조직염·급성 림프관염</td></tr><tr><td>L03.9</td><td>상세불명의 연조직염·급성 림프관염</td></tr><tr><td>I89.1</td><td>만성·아급성·상세불명 림프관염. <strong>급성 세균성 림프관염에는 사용하지 않음.</strong></td></tr></tbody></table>
+저장된 KCD-9 엑셀의 「상병분류기호(전체)」·「상병분류기호(완전코드)」와 대조함. L03.0·L03.1·L03.3은 상위 분류이므로, 실제 기록·청구에는 아래의 부위별 완전코드를 선택함. 엑셀의 점 없는 코드(예: L0300)는 가독성을 위해 소수점을 넣어 표시함.
+
+<table><thead><tr><th width="115">코드</th><th>공식 분류명 또는 포함 관계</th><th>적용 부위·주의</th></tr></thead><tbody><tr><td>L03</td><td>연조직염; 급성 림프관염 포함</td><td>범주: 부위별 완전코드를 선택</td></tr><tr><td>L03.00</td><td>손가락의 연조직염</td><td>손가락</td></tr><tr><td>L03.01</td><td>발가락의 연조직염</td><td>발가락</td></tr><tr><td>L03.10</td><td>팔의 연조직염</td><td>손·손목·어깨·겨드랑 포함</td></tr><tr><td>L03.11</td><td>다리의 연조직염</td><td>발·발목·대퇴·엉덩이 포함</td></tr><tr><td>L03.2</td><td>얼굴의 연조직염</td><td>얼굴</td></tr><tr><td>L03.30</td><td>흉벽의 연조직염</td><td>흉벽</td></tr><tr><td>L03.31</td><td>복벽의 연조직염</td><td>복벽</td></tr><tr><td>L03.32</td><td>배꼽의 연조직염</td><td>배꼽</td></tr><tr><td>L03.33</td><td>사타구니의 연조직염</td><td>사타구니</td></tr><tr><td>L03.34</td><td>등[둔부를 제외한 모든 부분]의 연조직염</td><td>등</td></tr><tr><td>L03.35</td><td>둔부의 연조직염</td><td>둔부</td></tr><tr><td>L03.36</td><td>회음의 연조직염</td><td>회음</td></tr><tr><td>L03.38</td><td>몸통의 기타 및 상세불명 연조직염</td><td>기타·상세불명 몸통</td></tr><tr><td>L03.8</td><td>기타 부위의 연조직염</td><td>얼굴 외 머리·두피 등</td></tr><tr><td>L03.9</td><td>상세불명의 연조직염</td><td>부위가 확인되지 않은 경우</td></tr><tr><td>I89.1</td><td>림프관염</td><td>만성·아급성·림프관염 NOS; 급성에는 사용하지 않음</td></tr></tbody></table>
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
 
-✽ 성인·정상 신기능 예시임. 처방례 1·2의 NSAID는 **비임신·비수유이며 해당 제품의 금기가 없는 환자**에 한해 사용함. 금기 또는 고위험이면 진통제를 개별 선택하며, 항생제 용량은 신기능에 따라 조정함.
+✽ 성인·정상 신기능 예시임. 진통제는 필요 시에만 사용함. 처방례 2의 NSAID는 **비임신·비수유이며 해당 제품의 금기가 없는 환자**에 한해 사용함. 금기 또는 고위험이면 진통제를 개별 선택하며, 항생제 용량은 신기능에 따라 조정함.
 
 > **처방례 1. 전형적 경증 비화농성**
 >
 > ```
 > 파목신캡슐 500 ㎎  1C  tid × 5일
-> 부루펜정  200 ㎎  2T  tid × 3일, 통증·발열 시
+> 타이레놀정 500 ㎎  1~2T  tid × 최대 3일, 통증·발열 시
 > ```
 >
-> _✽Amoxicillin 500 ㎎ tid로 GAS를 표적. 24\~48시간 내 재평가하며, 화농성 병소나 S. aureus 가능성이 높으면 약제 선택을 재검토함._
+> _✽Amoxicillin 500 ㎎ tid로 GAS를 표적. 24\~48시간 내 재평가하며, 화농성 병소나 S. aureus 가능성이 높으면 약제 선택을 재검토함. Acetaminophen은 투여 간격을 최소 6시간으로 하고 1일 3,000 ㎎ 이내, 다른 함유 제품과 중복하지 않음. 해당 제품의 금기 환자에게 사용하지 않음._
 
 > **처방례 2. 감염된 상처, MSSA 동반 가능성**
 >
@@ -302,6 +314,33 @@ Doxycycline 국내 품목(예: 신일모노독시엠)의 피부·연조직 감�
 
 ***
 
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+1. 질병관리청. [2026 피부·연조직 감염 항생제 적정사용을 위한 실무지침](https://kdca.go.kr/bbs/kdca/55/306857/download.do). 단독·연조직염의 경험적 약제·용량, 5일 기본 치료, 정주·경구 전환 및 특수 노출 감염에 참고함. 급성 림프관염에 직접 시행한 임상시험과 구분하여 적용함.
+2. Stevens DL, et al. [Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update by the IDSA](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/). *Clin Infect Dis*. 2014;59(2):e10–e52.
+3. CDC. [Clinical Guidance for Group A Streptococcal Cellulitis](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/cellulitis.html). 2025.
+4. NICE. [Cellulitis and erysipelas: antimicrobial prescribing, NG141](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations). 림프관염의 의뢰·전문가 자문 고려, 2\~3일 무호전 및 언제든 악화 시 재평가에 참고함.
+5. CDC. [Yellow Book 2026: Post-Travel Dermatologic Conditions—Lymphocutaneous or Sporotrichoid Spread of Infection](https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html). 2025년 공개된 2026판임.
+6. CDC. [Clinical Overview of Vibriosis—Treating Wound Infection](https://www.cdc.gov/vibrio/hcp/clinical-overview/index.html).
+7. 질병관리청. [제2기(2020–2022년) 국가 항균제 내성균 조사(Kor-GLASS) 운영 결과](https://kdca.go.kr/bbs/kdca/263/306528/download.do). *주간 건강과 질병*. 2024;17(24). 외래 피부연조직감염의 원인균·내성률로 직접 적용하지 않음.
+8. Khan DA, et al. [Drug Allergy: A 2022 Practice Parameter Update](https://doi.org/10.1016/j.jaci.2022.08.028). β-lactam 알레르기 병력과 측쇄 교차반응 평가에 참고함.
+9. National Library of Medicine. LactMed: [Clindamycin](https://www.ncbi.nlm.nih.gov/books/NBK501208/); [Ibuprofen](https://www.ncbi.nlm.nih.gov/books/NBK500986/). 국내 허가사항과 구분하여 적용함.
+
+10. Webb E, et al. [Compression Therapy to Prevent Recurrent Cellulitis of the Leg](https://pubmed.ncbi.nlm.nih.gov/32786188/). *N Engl J Med*. 2020;383(7):630–639.
+11. Webb E, et al. [Sustained benefit of compression therapy for preventing recurrent leg cellulitis: extended follow-up of a randomised controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC13469820/). *eClinicalMedicine*. 2026;98:104127. 단일기관 공개시험의 연장 추적이며 대조군의 압박치료 전환 등 한계를 고려함.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 건강보험심사평가원. [건강보험심사평가원](https://www.hira.or.kr/). 처방 시 최신 약제 급여목록·항생제 일반원칙·허가 외 인정기준을 별도로 확인함. 지침상 권고만으로 급여를 보장하지 않음.
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/). 파목신캡슐 500 ㎎, 팔렉신캡슐 500 ㎎, 훌그램캡슐, 셉트린정, 신일모노독시엠캡슐, 부루펜정 200 ㎎, 애니펜정 300 ㎎, 타이레놀정 500 ㎎ 및 ceftriaxone 주사제의 품목정보에 참고함.
+* National Library of Medicine. [DailyMed](https://dailymed.nlm.nih.gov/dailymed/). Cephalexin·amoxicillin 신장애 용량에 사용한 국외 허가자료이며 국내 제품 허가와 구분하여 적용함. Ceftriaxone의 신·간기능장애 및 칼슘 수액 주의도 국외 허가자료와 대조함.
+* 저장된 「KCD9_251216(6).xlsx」. 「상병분류기호(전체)」·「상병분류기호(완전코드)」의 L03 및 I891 행을 직접 대조함.
+* WHO. [ICD-10 Version 2019](https://icd.who.int/browse10/2019/en). 급성 림프관염의 L03.- 분류 및 I89.1 제외 관계에 참고함.
+
+***
+
 ### <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -332,6 +371,7 @@ Doxycycline 국내 품목(예: 신일모노독시엠)의 피부·연조직 감�
 * 어지럼·실신·의식 저하·호흡곤란 등 전신상태가 나빠지는 경우
 * 손가락이 심하게 붓고 구부린 채 펴기 어렵거나 움직일 때 극심한 통증이 있는 경우
 * 물집이나 검붉은 변색, 피부가 벗겨지는 듯한 소견이 나타나는 경우
+* 눈 주위 감염과 함께 눈을 움직일 때 통증, 시력 저하·복시 또는 눈이 튀어나오는 증상이 있는 경우
 
 #### <mark style="color:$primary;">이럴 때는 당일 다시 진료받으세요</mark>
 
@@ -340,23 +380,3 @@ Doxycycline 국내 품목(예: 신일모노독시엠)의 피부·연조직 감�
 * 항생제를 시작하고 2\~3일이 지나도 좋아지기 시작하지 않는 경우
 * 붉은 범위가 계속 넓어지거나 통증·발열이 악화되는 경우. 치료 첫날에는 피부 변화가 일시적으로 더 뚜렷해질 수 있으나 빠르게 번지면 기다리지 마십시오.
 * 손의 심한 통증·운동 제한, 눈·코 주변 병변, 동물·사람 물림 또는 경구 섭취가 어려운 경우
-
-## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
-
-### <mark style="color:orange;">임상 근거</mark>
-
-1. 질병관리청. [2026 피부·연조직 감염 항생제 적정사용을 위한 실무지침](https://kdca.go.kr/bbs/kdca/55/306857/download.do). 단독·연조직염의 경험적 약제·용량, 5일 기본 치료, 정주·경구 전환 및 특수 노출 감염에 참고함. 급성 림프관염에 직접 시행한 임상시험과 구분하여 적용함.
-2. Stevens DL, et al. [Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update by the IDSA](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/). *Clin Infect Dis*. 2014;59(2):e10–e52.
-3. CDC. [Clinical Guidance for Group A Streptococcal Cellulitis](https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/cellulitis.html). 2025.
-4. NICE. [Cellulitis and erysipelas: antimicrobial prescribing, NG141](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations). 림프관염의 의뢰·전문가 자문 고려, 2\~3일 무호전 및 언제든 악화 시 재평가에 참고함.
-5. CDC. [Yellow Book 2026: Post-Travel Dermatologic Conditions—Lymphocutaneous or Sporotrichoid Spread of Infection](https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html). 2025년 공개된 2026판임.
-6. CDC. [Clinical Overview of Vibriosis—Treating Wound Infection](https://www.cdc.gov/vibrio/hcp/clinical-overview/index.html).
-7. 질병관리청. [제2기(2020–2022년) 국가 항균제 내성균 조사(Kor-GLASS) 운영 결과](https://kdca.go.kr/bbs/kdca/263/306528/download.do). *주간 건강과 질병*. 2024;17(24). 외래 피부연조직감염의 원인균·내성률로 직접 적용하지 않음.
-8. Khan DA, et al. [Drug Allergy: A 2022 Practice Parameter Update](https://doi.org/10.1016/j.jaci.2022.08.028). β-lactam 알레르기 병력과 측쇄 교차반응 평가에 참고함.
-9. National Library of Medicine. LactMed: [Clindamycin](https://www.ncbi.nlm.nih.gov/books/NBK501208/); [Ibuprofen](https://www.ncbi.nlm.nih.gov/books/NBK500986/). 국내 허가사항과 구분하여 적용함.
-
-### <mark style="color:orange;">허가·급여 확인 자료</mark>
-
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/). 파목신캡슐 500 ㎎, 팔렉신캡슐 500 ㎎, 훌그램캡슐, 셉트린정, 신일모노독시엠캡슐, 부루펜정 200 ㎎, 애니펜정 300 ㎎, 타이레놀정 500 ㎎ 및 ceftriaxone 주사제의 품목정보에 참고함.
-* National Library of Medicine. [DailyMed](https://dailymed.nlm.nih.gov/dailymed/). Cephalexin·amoxicillin 신장애 용량에 사용한 국외 허가자료이며 국내 제품 허가와 구분하여 적용함.
-* WHO. [ICD-10 Version 2019](https://icd.who.int/browse10/2019/en). 급성 림프관염의 L03.- 분류 및 I89.1 제외 관계에 참고함.

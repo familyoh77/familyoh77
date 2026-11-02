@@ -24,23 +24,6 @@
 * 고접종률 집단에서의 유행은 시간 경과에 따른 면역 감소(waning immunity)가 주요 설명 중 하나이며, 개인별 백신 면역반응 차이, 유행 바이러스주와 백신주 사이의 항원성 차이, 자연 노출에 의한 면역 부스팅 감소 등도 가능한 기전으로 논의됨
 * 유행 상황에서 미국 ACIP은 공중보건당국이 고위험군으로 지정한 집단(2회 접종 완료자 포함)에게 3차 MMR 접종을 권고함(2018년 권고, 현재도 유효한 **미국 ACIP의 유행 대응 권고**); 국내에서는 관할 보건당국의 유행 대응 지침에 따름
 
-#### <mark style="color:$primary;">임상 양상 관련 참고 - 무증상 비율</mark>
-
-* 미접종 감염자의 약 20%는 무증상일 수 있으며, 백신 접종자에서의 무증상 감염 비율은 명확하지 않음 <mark style="color:$info;">[CDC]</mark>
-
-#### <mark style="color:$primary;">합병증</mark>
-
-* 이하선염 없이도(또는 이하선염에 선행하여) 합병증이 발생할 수 있음; 백신 접종자에서는 합병증이 전반적으로 더 드물고 중증도가 낮음
-
-<table><thead><tr><th width="150">합병증</th><th width="150">미접종자</th><th>백신 접종자</th></tr></thead><tbody><tr><td>고환염(사춘기 후 남성)</td><td>30%</td><td>6%</td></tr><tr><td>난소염(사춘기 후 여성)</td><td>7%</td><td>≤1%</td></tr><tr><td>유선염(mastitis; 사춘기 후 여성)</td><td>30%</td><td>≤1%</td></tr><tr><td>췌장염</td><td>4%</td><td>&#60;1%</td></tr><tr><td>청력 저하(hearing loss)</td><td>4%</td><td>&#60;1%</td></tr><tr><td>무균성 수막염</td><td>&#60;1\~10%</td><td>≤1%</td></tr><tr><td>뇌염</td><td>≤1%</td><td>≤1%</td></tr></tbody></table>
-
-<p align="center"><em><mark style="color:$info;">Ref. CDC Manual for the Surveillance of Vaccine-Preventable Diseases, Chapter 9: Mumps, Table 1</mark></em></p>
-
-* 위 수치는 서로 다른 시기·집단의 추정치이며 국내 현재 환자에게 그대로 적용하는 발생률은 아님; 청력 저하 4%에는 일시적 난청이 포함되며 영구 난청 4%를 의미하지 않음
-* 고환염 : 대개 이하선염 증상 발생 후 1주 전후 편측 고환 부종/압통(약 20\~25%에서는 양측 발생), 구역, 구토, 발열 동반 가능; testicular atrophy가 발생할 수 있고, 일시적인 정자 수 감소(oligospermia)나 정자 운동성 저하 등 생식능 저하(subfertility)가 보고될 수 있으나 **영구 불임과의 연관성은 확립되지 않음**
-* 청력 저하는 일시적일 수도, 영구적일 수도 있음
-* 임신 초기 감염과 자연유산 위험의 연관성이 과거 일부 연구에서 제시되었으나, 현재까지 명확한 연관성은 확인되지 않음; 선천 기형과의 연관성도 확인되지 않음
-
 ## <mark style="color:green;">원인 및 위험 인자</mark>
 
 * 원인 바이러스 : mumps virus(MuV); 현행 ICTV 기준 species는 *Orthorubulavirus parotitidis*, genus는 Orthorubulavirus, family는 Paramyxoviridae('Mumps orthorubulavirus'는 과거 species 명칭에 가까운 동의어)
@@ -56,13 +39,30 @@
 
 * 전신 증상(전구 증상) : 낮은 수준의 발열(3\~4일간 지속), 두통, 근육통, 식욕 부진, malaise
   * 고열만으로 합병증을 단정하지 않되, 지속·재발열이나 신경학적 증상·복통·음낭 통증이 동반되면 평가
-* 이하선 부종 : 전구 증상 뒤 나타나거나 첫 증상으로 출현; 빠르게 커짐(1~3일째 절정; jaw angle이 사라짐). 대개 3~7일 지속하며 대부분 10일 내 호전; 편측에서 양측으로 진행할 수 있고 약 25~30%는 편측만 이환
+* 이하선 부종 : 전구 증상 뒤 나타나거나 첫 증상으로 출현; 빠르게 커짐(1\~3일째 절정; jaw angle이 사라짐). 대개 3\~7일 지속하며 대부분 10일 내 호전; 편측에서 양측으로 진행할 수 있고 약 25\~30%는 편측만 이환
   * 10%에서는 다른 침샘(submandibular, sublingual) 부종 동반
 * 이하선 통증/압통 : 신 음식을 먹을 때 심해짐
-* Stensen관 개구부 발적(농 배출은 없음)
-* 무증상 또는 호흡기 증상만 나타날 수 있음(☞ 상기 무증상 비율 참고)
-* 한쪽 이하선이 호전된 뒤 수일~수 주 후 반대쪽에 재발할 수 있음. **새 부종 발생 시 볼점막도말 RT-PCR과 혈청검체를 다시 채취하고 재격리**; CDC는 가장 최근 부종 발생을 기준으로 격리하도록 안내하며, 국내 격리 종료일은 보건소와 결정 <mark style="color:$info;">[CDC Laboratory Testing for Mumps 2024]</mark>
+* Stensen관 개구부 발적이 나타날 수 있음; 농성 분비물은 전형적 볼거리 소견이 아니므로 세균성 침샘염을 재평가
+* 무증상 또는 호흡기 증상만 나타날 수 있음(☞ 아래 무증상 감염 참고)
+* 한쪽 이하선이 호전된 뒤 수일\~수 주 후 반대쪽에 재발할 수 있음. **새 부종 발생 시 볼점막도말 RT-PCR과 혈청검체를 다시 채취하고 재격리**; CDC는 가장 최근 부종 발생을 기준으로 격리하도록 안내하며, 국내 격리 종료일은 보건소와 결정 <mark style="color:$info;">[CDC Laboratory Testing for Mumps 2024]</mark>
 * 이하선염 없이 고환염·난소염 등 합병증만으로 나타날 수도 있음(☞ 하단 진단 섹션 참고)
+
+### <mark style="color:orange;">무증상 감염</mark>
+
+* 미접종 감염자의 약 20%는 무증상일 수 있으며, 백신 접종자에서의 무증상 감염 비율은 명확하지 않음 <mark style="color:$info;">[CDC Surveillance Manual 2025]</mark>
+
+### <mark style="color:orange;">합병증</mark>
+
+* 이하선염 없이도(또는 이하선염에 선행하여) 합병증이 발생할 수 있음; 백신 접종자에서는 합병증이 전반적으로 더 드물고 중증도가 낮음
+
+<table><thead><tr><th width="150">합병증</th><th width="150">미접종자</th><th>백신 접종자</th></tr></thead><tbody><tr><td>고환염(사춘기 후 남성)</td><td>30%</td><td>6%</td></tr><tr><td>난소염(사춘기 후 여성)</td><td>7%</td><td>≤1%</td></tr><tr><td>유선염(mastitis; 사춘기 후 여성)</td><td>30%</td><td>≤1%</td></tr><tr><td>췌장염</td><td>4%</td><td>&#60;1%</td></tr><tr><td>청력 저하(hearing loss)</td><td>4%</td><td>&#60;1%</td></tr><tr><td>무균성 수막염</td><td>&#60;1\~10%</td><td>≤1%</td></tr><tr><td>뇌염</td><td>≤1%</td><td>≤1%</td></tr></tbody></table>
+
+<p align="center"><em><mark style="color:$info;">Ref. CDC Manual for the Surveillance of Vaccine-Preventable Diseases, Chapter 9: Mumps, Table 1</mark></em></p>
+
+* 위 수치는 서로 다른 시기·집단의 추정치이며 국내 현재 환자에게 그대로 적용하는 발생률은 아님; 청력 저하 4%에는 일시적 난청이 포함되며 영구 난청 4%를 의미하지 않음
+* 고환염 : 대개 이하선염 증상 발생 후 1주 전후 편측 고환 부종/압통(약 20\~25%에서는 양측 발생), 구역, 구토, 발열 동반 가능; 이환된 고환의 위축(testicular atrophy)이 발생할 수 있고, 일시적인 정자 수 감소(oligospermia)나 정자 운동성 저하 등 생식능 저하(subfertility)가 보고될 수 있으나 **영구 불임과의 연관성은 확립되지 않음**
+* 청력 저하는 일시적일 수도, 영구적일 수도 있음
+* 임신 초기 감염과 자연유산 위험의 연관성이 과거 일부 연구에서 제시되었으나, 현재까지 명확한 연관성은 확인되지 않음; 선천 기형과의 연관성도 확인되지 않음
 
 ### <mark style="color:$danger;">🚩 Red Flags!</mark>
 
@@ -73,13 +73,15 @@
 * 급성으로 매우 심하거나 갑작스럽게 발생한 편측 음낭 통증·부종 → **고환염전(testicular torsion)으로 간주**하고 즉시 응급 비뇨의학과 평가; Doppler 초음파 시행이 수술적 평가를 지연시켜서는 안 됨  `고환염전 배제`
 * 심한 상복부 통증 + 반복 구토 → 중증 췌장염 의심, 응급 평가(serum lipase 확인)  `중증 췌장염`
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일\~수일 내 평가**</mark>
 
 * 고환염/난소염 시사 소견(이하선염 후 편측 고환 부종·압통, 또는 하복부 통증·발열) → 당일 비뇨의학과/산부인과 평가  `생식샘 합병증`
-* 의식은 명료하나 지속적인 두통·구토·발열 등 무균성 수막염 시사 소견 → **당일 응급실 또는 입원·요추천자가 가능한 의료기관**에서 평가  `수막염 평가`
+* 의식은 명료하나 지속적인 두통·구토·발열 등 수막염 시사 소견 → **당일 응급실 또는 입원·요추천자가 가능한 의료기관**에서 평가; 임상적으로 무균성·세균성 수막염을 먼저 단정하지 않음  `수막염 평가`
 * 갑작스러운 청력 저하·난청(이명·어지럼 동반 가능) → 당일 이비인후과 평가; 회복 후까지 기다리지 않음  `돌발 청력 저하`
 * 임신부(특히 1분기)의 이하선염 발병 → 당일 진료 및 산과 상담  `임신`
 * 지속적인 상복부 통증 → serum lipase 확인 및 당일 평가(amylase 단독 상승은 이하선 침범만으로도 나타날 수 있어 췌장염에 특이적이지 않음)  `췌장염 평가`
+* 이하선 부위의 뚜렷한 발적·열감, Stensen관 농성 분비물, 고열·전신상태 악화 → 당일 항생제·배농 필요성 평가; 패혈증·기도 위협 소견은 즉각 조치  `화농성 침샘염`
+* 수분 섭취가 어렵거나 소변량이 감소하는 경우 → 당일 탈수·정맥 수액 필요성 평가; 쇼크·중증 탈수는 즉각 조치  `섭취 불량`
 
 <mark style="color:$info;">**조기 평가 및 추적**</mark>
 
@@ -93,6 +95,7 @@
 
 * 유행성이하선염은 국내 **제2급 법정감염병**으로, 환자 또는 의사환자를 진단한 경우 **24시간 이내** 관할 보건소에 신고
 * 검사 결과를 기다리지 않고 **의심 단계부터** 격리(마스크 착용, 타 환자와의 분리)와 신고 절차를 진행
+  * 신고 기준의 ‘최소 2일 지속’을 확인하려고 초기 감염관리·검체 채취를 미루지 않음; 임상·역학적으로 의심되면 즉시 조치하고 보건소와 신고 분류를 협의
 * 국내 유행 역학조사 기준(2026년 개정) : **3주 이내 같은 학급에서 (의사)환자 2명 이상 발생**; 전체 기관 인원이 20명 미만이면 학급과 관계없이 최소 2명 이상. 또는 시간적·공간적으로 연관된 (의사)환자 2명 이상 발생; 동거가족 내에 한정되면 환자·접촉자 관리를 시행 <mark style="color:$info;">[질병관리청 2026년도 예방접종대상감염병 관리 지침, p115]</mark>
 
 ### <mark style="color:orange;">임상적 진단</mark>
@@ -116,12 +119,13 @@
 
 {% hint style="info" %}
 **국내 사례분류와 미국 CDC 사례분류의 차이**\
-국내 신고 기준에서는 임상증상(급성 이하선염·다른 침샘염, 또는 다른 진단으로 설명되지 않는 고환염·난소염)과 역학적 연관성을 감안하여 '의사환자'를 규정하며, 바이러스 분리, 특이 유전자(RT-PCR) 검출, 특이 IgM 항체 검출, 또는 급성기\~회복기 IgG 항체가 4배 이상 상승 중 하나가 확인되면 '환자'로 분류함. 미국 CDC 사례분류에서는 PCR·바이러스 분리 또는 유의한 IgG 상승/혈청전환은 확진 근거이며, 합당한 임상기준과 IgM 양성은 'probable'의 근거로 구분하므로 국내 신고 분류와 혼동하지 않음. 백신 접종자는 IgM 음성이 흔하므로 IgM 음성 결과만으로 볼거리를 배제하지 않음
+국내 신고 기준에서는 임상증상(급성 이하선염·다른 침샘염, 또는 다른 진단으로 설명되지 않는 고환염·난소염)과 역학적 연관성을 감안하여 '의사환자'를 규정하며, 바이러스 분리, 특이 유전자(RT-PCR) 검출, 특이 IgM 항체 검출, 또는 급성기\~회복기 IgG 항체가 4배 이상 상승 중 하나가 확인되고 합당한 임상증상이 있으면 '환자'로 분류함. 미국 CDC 사례분류에서는 PCR·바이러스 분리 또는 유의한 IgG 상승/혈청전환은 확진 근거이며, 합당한 임상기준과 IgM 양성은 'probable'의 근거로 구분하므로 국내 신고 분류와 혼동하지 않음. 백신 접종자는 IgM 음성이 흔하므로 IgM 음성 결과만으로 볼거리를 배제하지 않음
 {% endhint %}
 
 ### <mark style="color:orange;">영상 검사</mark>
 
-* 고환 초음파 : 고환염 증상 시 testicular torsion 감별을 위해 고려(응급 상황에서는 지체 없이 시행하되, 검사가 수술적 평가를 지연시키지 않아야 함)
+* 고환 Doppler 초음파 : 고환염전 감별이 불확실할 때 고려; 임상적으로 염전이 강하게 의심되면 즉시 비뇨의학과 수술 평가를 우선하며 초음파 대기로 지연하지 않음
+* 침샘 초음파 : 전형적 볼거리에서 일률적으로 시행하지 않음; 농양·결석·종괴가 의심되거나 부종이 지속·반복되면 고려
 
 ### <mark style="color:orange;">감별 진단</mark>
 
@@ -132,22 +136,23 @@
 ***
 
 ```mermaid
-graph TD
-    A(["침샘 부종 또는 원인 불명 고환염·난소염 등"]) ---> B{"즉각 조치 항목에 해당?<br/>수막자극·의식 변화·심한 급성 음낭 통증 등"}
-    B -- 예 ---> F["즉시 응급 평가·전문과 의뢰<br/>고환염전 평가 지연 금지<br/>볼거리 의심 시 분리·신고 병행"]
-    B -- 아니오 ---> C{"볼거리 의심?<br/>편측·비전형적·접종자에서도 가능"}
-    C -- 아니오 ---> H["세균성·폐쇄성·종양성 등 감별"]
-    C -- 예 ---> D["즉시 마스크·비말주의·격리<br/>24시간 이내 보건소 신고"]
-    D ---> Q{"당일 평가 항목?<br/>고환염·복통·청력 저하·임신 등"}
-    Q -- 예 ---> K["당일 해당 전문과·입원 가능 기관 평가<br/>고환·난소 염전 등 대체진단 배제"]
-    Q -- 아니오 ---> E["볼점막 RT-PCR 신속 채취<br/>부종 후 3일 초과 또는 합병증 의심: IgM 병행<br/>검체 채취는 긴급 평가·의뢰와 병행"]
-    K ---> E
-    E ---> I["해열·통증 조절·수분·휴식<br/>부종 시작 D0 → D+5까지 격리"]
-    I ---> R["단일 음성만으로 볼거리 배제하지 않음<br/>부종 없으면 격리 기산일을 보건소와 결정<br/>경과 악화 시 즉시 재평가"]
+flowchart TD
+    A(["볼거리 의심<br/>침샘 부종 또는 원인 불명 고환염·난소염 등"]) --> B{"즉각 조치 항목?<br/>의식 변화·수막자극·급성 심한 음낭 통증 등"}
+    B -- 예 --> F(["즉시 응급 평가·전문과 의뢰<br/>고환염전 수술 평가 지연 금지<br/>분리·신고·검체 채취 병행"])
+    B -- 아니오 --> D["마스크·표준주의·비말주의<br/>24시간 이내 보건소 신고<br/>볼점막 RT-PCR 신속 채취<br/>부종 후 3일 초과 또는 합병증 의심: IgM 병행"]
+    D --> Q{"당일 평가 항목?<br/>고환염·복통·청력 저하·섭취 불량·임신 등"}
+    Q -- 예 --> K["당일 전문과·입원 가능 기관 평가<br/>염전·세균성 침샘염 등 대체 진단 확인"]
+    K --> V{"입원·응급 처치 필요?"}
+    V -- 예 --> H(["입원·해당 질환 치료<br/>격리 지속"])
+    V -- 아니오 --> I["외래 치료·추적<br/>볼거리: 해열진통제·수분·휴식<br/>대체 진단이면 해당 원인 치료"]
+    Q -- 아니오 --> I
+    I --> R(["부종 시작 D0 → D+5까지 격리<br/>악화·새 증상 발생 시 즉시 재평가"])
     style F fill:#f96,stroke:#e65100,stroke-width:2px
     style K fill:#fff3e0,stroke:#e65100,stroke-width:2px
 ```
 
+* 단일 검사 음성만으로 배제·격리 해제하지 않음; 진단이 불확실하면 다른 감염성·폐쇄성·종양성 원인을 함께 평가하고, 명확한 대체 원인이 확인되면 보건소와 신고·격리 조치를 재검토
+* 침샘 부종이 없으면 격리 기산일을 보건소와 결정; 회복 후 새 부종이 발생하면 재검·재격리
 <p align="center"><strong>신고·격리·진단·관리 알고리듬</strong></p>
 
 <p align="center"><em><mark style="color:$info;">Ref. 질병관리청 2026년도 예방접종대상감염병 관리 지침; CDC Clinical Overview of Mumps; Strategies for the Control and Investigation of Mumps Outbreaks</mark></em></p>
@@ -164,7 +169,7 @@ graph TD
 
 * 특이적 항바이러스 치료 없음; 증상 조절과 합병증 조기 인지가 관리의 핵심
 * 2차 세균감염의 근거가 없으면 항생제를 사용하지 않음
-* 대부분 외래에서 대증 치료로 관리 가능
+* 합병증이 없고 경구 수분 섭취가 가능하면 대부분 외래 대증 치료로 관리 가능; 중추신경계 합병증, 중증 복통·반복 구토, 탈수 또는 조절되지 않는 통증은 입원·정맥 수액 필요성 평가
 * Red Flag 동반 시 해당 전문과 즉시/당일 의뢰
 * 진단(의심) 즉시 신고 및 격리 조치 여부 확인
 
@@ -183,8 +188,9 @@ graph TD
   * 이는 공중보건상 면역의 증거이며, IgG 양성이나 2회 접종이 발병을 완전히 배제하지 않음. 기록으로 2회 접종이 확인되면 접종 효과 확인을 위한 항체검사를 일률적으로 시행하지 않음 <mark style="color:$info;">[CDC Serology to Diagnose Mumps 2024; Mumps Vaccine Recommendations 2024]</mark>
 * 유행 시설(학교·기숙사 등)에서 미접종자를 일시적으로 배제할지 여부는 관할 보건당국의 유행 대응 지침에 따름 - 일반 접촉자를 일률적으로 배제하지 않음
 * 의료기관 노출 : CDC는 면역의 증거가 없는 무접종 종사자를 처음 노출 후 10일째부터 마지막 노출 후 25일째까지 업무 배제하도록 권고하며, 노출 전에 1회 접종한 종사자는 2차 접종과 증상 감시하에 업무 지속 가능. 국내 조치는 기관 감염관리실·보건당국과 협의
+* MR 백신은 볼거리 성분을 포함하지 않으므로 볼거리 접종 횟수로 계산하지 않음
 * MMR 표준접종 : 생후 12\~15개월과 만 4\~6세에 2회; 면역 증거가 없는 성인은 최소 1회, 청소년·대학생·직업 교육원생·의료종사자·해외여행자 등 국내 지침의 2회 접종 대상은 최소 4주 간격으로 2회
-* 임신·중증 면역저하·백신 성분 또는 이전 접종 후 아나필락시스는 MMR 금기; 접종 후 4주간 임신을 피함
+* 임신·중증 면역저하·백신 성분 또는 이전 접종 후 아나필락시스는 MMR 금기; 접종 후 4주간 임신을 피함. 임신부 노출 시에는 MMR이나 면역글로불린을 볼거리 노출 후 예방 목적으로 투여하지 않고 증상 감시·산과 상담
 * 백신 (☞ [예방접종](../231_/210_-vaccination.md#mmr-1)) - 유행 시 3차 MMR 관련 권고는 상기 '유행 역학 참고' 항목 참조
 
 {% hint style="info" %}
@@ -198,14 +204,19 @@ graph TD
 
 * 성인 ibuprofen : 200\~400 ㎎ q6\~8hr 필요시; 통상 1일 1,200 ㎎ 이내로 시작. 고용량은 충분한 평가 후 최소 기간으로 제한하며, 통증이 조절되지 않으면 합병증을 재평가 <mark style="color:blue;">\[부루펜]</mark>
 * 성인 acetaminophen(속방형) : 500\~1,000 ㎎, 6\~8시간 간격 필요시; 이 챕터의 외래 예시는 1일 최대 3 g(500 ㎎ 6정)으로 제한. 국내 허가 최대 4 g/d와 구분하며 저체중·영양불량·간질환·과음 시 추가 감량 <mark style="color:blue;">\[타이레놀]</mark>
-* 성인 acetaminophen(서방형, 8시간 이알) : 650 ㎎/T 2T, 8시간 간격 필요시, 국내 허가상 1일 최대 6T(3.9 g); 속방형·복합감기약의 acetaminophen과 합산하고 고위험군은 감량. 본 처방례는 용량 확인이 쉬운 속방형을 사용 <mark style="color:blue;">\[타이레놀 8시간 이알]</mark>
+* 성인 acetaminophen(서방형, 8시간 이알) : 650 ㎎/T 2T, 8시간 간격 필요시, 국내 허가상 1일 최대 6T(3.9 g); 속방형·복합감기약의 acetaminophen과 합산하고 고위험군은 감량. 서방정은 쪼개거나 씹거나 분쇄하지 않음. 본 처방례는 용량 확인이 쉬운 속방형을 사용 <mark style="color:blue;">\[타이레놀 8시간 이알]</mark>
 * 소아 acetaminophen(세토펜현탁액은 국내 허가상 생후 4개월 이상) : 10\~15 ㎎/㎏/회, 4\~6시간 간격 필요시, 1일 최대 5회·75 ㎎/㎏(성인 최대용량 초과 금지)
-* 소아 ibuprofen : 5\~10 ㎎/㎏/회, 6\~8시간 간격 필요시(생후 6개월 이상), 일반 용량 상한 40 ㎎/㎏/d; **부루펜시럽 국내 허가상 체중 ＜30 ㎏은 1일 500 ㎎(25 ㎖) 이하**이므로 더 낮은 상한을 적용
+* 소아 ibuprofen : 일반 임상 용량은 5\~10 ㎎/㎏/회, 6\~8시간 간격 필요시(통상 생후 6개월 이상), 최대 40 ㎎/㎏/d; 실제 처방은 **해당 제품의 연령별 허가 용량과 체중별 상한 중 더 낮은 범위**를 적용
+  * **어린이부루펜시럽 20 ㎎/㎖의 현행 허가 용량** : 아래 표의 1회 용량을 1일 3\~4회. 허가 용량 표는 1세부터 제시되며, 만 2세 미만은 투여 전 의사·약사와 상담. 생후 6\~11개월의 일반 임상 사용 기준과 이 제품의 허가 용량 표를 구분함 <mark style="color:$info;">[국내 허가사항, 확인 2026-11-02]</mark>
+
+<table><thead><tr><th>연령</th><th>1회 용량</th><th>1일 최대 용량</th></tr></thead><tbody><tr><td>1\~2세</td><td>50\~100 ㎎(2.5\~5 ㎖)</td><td>400 ㎎(20 ㎖)</td></tr><tr><td>3\~6세</td><td>100\~150 ㎎(5\~7.5 ㎖)</td><td>600 ㎎(30 ㎖)</td></tr><tr><td>7\~10세</td><td>150\~200 ㎎(7.5\~10 ㎖)</td><td>800 ㎎(40 ㎖)</td></tr><tr><td>11\~14세</td><td>200\~250 ㎎(10\~12.5 ㎖)</td><td>1,000 ㎎(50 ㎖)</td></tr></tbody></table>
+
+* 소아 ibuprofen의 허가 용량은 제품별로 확인하며, 위 표를 다른 품목에 일괄 적용하지 않음
 * 소아에게는 두 약제 중 **하나를 우선 선택**; 일상적인 동시 또는 교차 투여는 권장하지 않으며, 필요한 경우 투여시간표를 명확히 안내
 * 소아·청소년에게는 **aspirin 금기**(Reye 증후군 위험)
 * 성인에서 두 약제 병용이 필요한 경우 각 성분의 투여 간격과 1일 최대 용량을 처방전에 명확히 기재; 서방형(이알) 제제는 8시간 투여 간격 준수가 필요함을 고려
-* **Ibuprofen 국내 허가상 금기** : 소화성궤양 또는 그 병력, 기관지천식 또는 그 병력, aspirin·다른 NSAID에 의한 천식·두드러기·알레르기 반응 병력, 중증 신장·간·심장기능부전, 임신 말기 3개월 등에서는 투여하지 않음. 임신 20주 이후에는 태아 신기능·양수 감소 위험으로 원칙적으로 피함 <mark style="color:$info;">[국내 허가사항]</mark>
-* 탈수·신장질환·위장관 출혈 위험 또는 항응고제 복용 시 NSAID를 피하거나 신중히 사용; acetaminophen을 대안으로 고려. NSAID끼리는 병용하지 않음
+* **Ibuprofen 국내 허가상 금기** : 위장관 궤양·출혈 또는 그 병력, 기관지천식 또는 그 병력, aspirin·다른 NSAID 과민반응 병력, 심한 혈액 이상·고혈압·신장장애·간장애·심장기능부전, CABG 전후 통증, 항암요법의 고용량 methotrexate 병용, 임신 말기 3개월 등에서는 투여하지 않음. 임신 20주 이후에는 태아 신기능·양수 감소 위험으로 원칙적으로 피함 <mark style="color:$info;">[국내 허가사항]</mark>
+* 탈수·신장질환·위장관 출혈 위험 또는 항응고제 복용 시 NSAID를 피하거나 신중히 사용; 수유 중 ibuprofen 사용 여부는 국내 해당 품목의 수유·투약 중단 지침을 확인; acetaminophen을 대안으로 고려. NSAID끼리는 병용하지 않음
 
 * **Acetaminophen 국내 제제의 주요 금기** : 소화성궤양, 심한 간·신장장애·심장기능저하·혈액 이상, aspirin 천식 또는 그 병력, 바르비탈계·삼환계 항우울제 복용 등에서는 투여하지 않음; 음주 중 복용하지 않음. NSAID가 부적절하더라도 acetaminophen의 금기를 별도로 확인함 <mark style="color:$info;">[국내 허가사항]</mark>
 
@@ -220,32 +231,26 @@ graph TD
 **근거가 불충분하거나 효과가 입증되지 않아 권고하지 않음**
 
 * 항바이러스제 : 볼거리에 특이적인 항바이러스 치료제는 없음
-* 전신 corticosteroid : 고환염에서 통증·부종을 일시 완화할 수 있으나, 임상 경과나 고환 위축을 예방하는 효과는 입증되지 않아 일상적으로 권고하지 않음
-* Interferon-α2b : 과거 중증·양측 고환염에서 연구되었으나, 고환 위축이나 생식기능 저하를 예방하는 효과가 입증되지 않아 현재 일상 진료에서 권고하지 않음
+* 전신 corticosteroid : **볼거리 고환염 자체의 치료로는** 통증·부종을 일시 완화할 수 있으나, 임상 경과나 고환 위축을 예방하는 효과는 입증되지 않아 일상적으로 권고하지 않음
+* Interferon-α2b : 과거 중증·양측 고환염에서 연구되었으나, 고환 위축이나 생식기능 저하 예방에 대한 확실한 근거가 부족하고 연구 결과가 일관되지 않아 일상 진료에서 권고하지 않음
 * 수동면역요법(면역글로불린 등)의 볼거리 자체에 대한 예방·치료 목적 사용
+
+✽돌발성 감각신경성 난청 등 별도 질환의 치료 적응증은 해당 전문과에서 판단하며, 위 고환염 권고만으로 다른 적응증의 corticosteroid 치료를 배제하지 않음
 {% endhint %}
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-B26 볼거리(유행성이하선염)
+<table><thead><tr><th>코드</th><th>KCD-9 공식 명칭</th><th>분류 참고</th></tr></thead><tbody><tr><td>B26</td><td>볼거리</td><td>상위 범주; 실제 기록·청구에는 해당 세분 코드 선택</td></tr><tr><td>B26.0</td><td>볼거리고환염(N51.1*)</td><td>고환염 동반</td></tr><tr><td>B26.1</td><td>볼거리수막염(G02.0*)</td><td>수막염 동반</td></tr><tr><td>B26.2</td><td>볼거리뇌염(G05.1*)</td><td>뇌염 동반</td></tr><tr><td>B26.3</td><td>볼거리췌장염(K87.1*)</td><td>췌장염 동반</td></tr><tr><td>B26.8</td><td>기타 합병증이 있는 볼거리</td><td>위 세분 코드에 해당하지 않는 합병증</td></tr><tr><td>B26.9</td><td>합병증 없는 볼거리</td><td>합병증 없는 이하선염 등</td></tr></tbody></table>
 
-B26.0 볼거리 고환염
-
-B26.1 볼거리 수막염
-
-B26.2 볼거리 뇌염
-
-B26.3 볼거리 췌장염
-
-B26.8 기타 합병증을 동반한 볼거리
-
-B26.9 합병증이 없는 볼거리
+* 괄호 안 별표(*) 코드는 발현증세 분류이며 단독으로 원인질환 코드를 대신하지 않음; 병기 여부는 이원분류 지침과 실제 기록·청구 기준에 따름
 
 ***
 
 ## <mark style="color:purple;">처방례</mark>
+
+✽처방 시 최신 품목정보/급여기준 조회. 아래 예시는 단기간 필요시 투여이며, 지속 발열·악화 시 재평가
 
 > **처방례 1. 성인, 경증(합병증 없는 전형적 이하선염)**
 >
@@ -266,12 +271,12 @@ B26.9 합병증이 없는 볼거리
 >
 > _✽통증이 심하면 합병증을 먼저 재평가; 고용량 NSAID를 정형 처방으로 두지 않음. 신장·위장관·항응고제 복용·탈수 여부 확인_
 
-> **처방례 3. 소아(예시: 체중 20 ㎏ 내외), 경증**
+> **처방례 3. 소아(예시: 만 4\~6세, 체중 20 ㎏), 경증**
 >
 > ```
 > 세토펜현탁액 32 ㎎/㎖  7.5 ㎖/회  q4~6hr PRN (1회 240 ㎎=12 ㎎/㎏, 최대 5회/d)
-> ※ 또는 부루펜시럽 20 ㎎/㎖  5 ㎖/회  q6~8hr PRN (1회 100 ㎎=5 ㎎/㎏, 최대 4회/d)
-> ※ 부루펜은 생후 6개월 이상·탈수 및 신장질환이 없는 경우; 체중 <30 ㎏에서 총 25 ㎖=500 ㎎/d 초과 금지
+> ※ 또는 어린이부루펜시럽 20 ㎎/㎖  5 ㎖/회  q6~8hr PRN (1회 100 ㎎=5 ㎎/㎏, 최대 4회/d)
+> ※ 이 예시의 ibuprofen 상한은 4회=400 ㎎/d; 체중·연령·해당 제품 허가 용량을 함께 확인. 탈수·신장질환·기타 금기가 있으면 사용하지 않음
 > ※ 두 약제 중 하나를 우선 선택; 일상적인 동시·교차 투여는 권장하지 않음
 > ```
 >
@@ -284,7 +289,7 @@ B26.9 합병증이 없는 볼거리
 > ※ 추가 진통이 필요하면 타이레놀정500㎎  1~2T  q6~8hr PRN (1일 최대 6T=3 g)
 > ※ 침상 안정 및 음낭 거상(scrotal support) 병행
 > ※ 볼거리 고환염 자체에 corticosteroid를 일상적으로 사용하지 않음
-> ※ 편측 고환의 급성·심한 부종/압통은 testicular torsion으로 간주하고 즉시 초음파 및 비뇨의학과 의뢰(초음파가 수술 평가를 지연시키지 않도록 함)
+> ※ 갑작스럽고 심한 편측 음낭 통증·부종은 고환염전을 우선 배제: 즉시 응급 비뇨의학과 평가. 초음파 대기로 수술 평가를 지연하지 않음
 > ```
 >
 > _✽고환염은 대개 이하선염 발생 후 1주 전후에 발생하나, 이하선염 없이 고환염만 나타날 수도 있음 - 먼저 고환염전 등 응급·흔한 대체 진단을 배제한 후 통증 조절과 함께 합병증(atrophy, subfertility) 가능성을 사전에 설명_
@@ -320,6 +325,28 @@ B26.9 합병증이 없는 볼거리
 
 ***
 
+## 주요 참고문헌 및 확인 자료
+
+### ＜임상 근거＞
+
+* 질병관리청. 2026년도 예방접종 대상 감염병 관리 지침(2026년 개정본), 유행성이하선염, pp.109–121(2026-06-11 수정 게시본). [공식 게시 및 첨부](https://www.kdca.go.kr/bbs/kdca/55/311032/artclView.do?layout=unknown).
+* CDC. [Clinical Overview of Mumps](https://www.cdc.gov/mumps/hcp/clinical-overview/index.html). 2025.
+* CDC. [Manual for the Surveillance of Vaccine-Preventable Diseases, Chapter 9: Mumps](https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-9-mumps.html). 2025.
+* CDC. [Laboratory Testing for Mumps](https://www.cdc.gov/mumps/php/laboratories/index.html); [Mumps Specimen Collection](https://www.cdc.gov/mumps/php/laboratories/specimen-collection.html); [Serology to Diagnose Mumps](https://www.cdc.gov/mumps/php/laboratories/serology.html). 2024.
+* CDC. [Strategies for the Control and Investigation of Mumps Outbreaks](https://www.cdc.gov/mumps/php/public-health-strategy/index.html); [Mumps Vaccine Recommendations](https://www.cdc.gov/mumps/hcp/vaccine-considerations/index.html). 2024.
+* CDC. [Mumps: Infection Control in Healthcare Personnel](https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/mumps.html). 2024.
+* CDC. [Mumps 2024 Case Definition](https://ndc.services.cdc.gov/case-definitions/mumps-2024/).
+* ICTV. [Genus: Orthorubulavirus](https://ictv.global/report/chapter/paramyxoviridae/paramyxoviridae/orthorubulavirus); Orthorubulavirus parotitidis, 2024 release/MSL 40.
+* Royal Children’s Hospital Melbourne. [Acute scrotal pain or swelling](https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/).
+* NIDCD. [Sudden Deafness](https://www.nidcd.nih.gov/health/sudden-deafness).
+
+### ＜허가·급여 확인 자료＞
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/). 세토펜현탁액(199800888), 어린이부루펜시럽(198601920), 부루펜정200㎎(197700120)·400㎎(198300343), 타이레놀정500㎎(202106092), 타이레놀8시간이알서방정(202200407) 품목정보. 확인일 2026-11-02.
+* 질병코드 대조 자료 : KCD9_251216(6).xlsx, 상병분류기호(전체)·상병분류기호(완전코드), 2026-01-01 시행 KCD-9.
+
+***
+
 ### <mark style="color:blue;">환자 안내서</mark>
 
 {% hint style="info" %}
@@ -338,7 +365,7 @@ B26.9 합병증이 없는 볼거리
 
 * **볼이 붓기 시작한 날을 0일로 하여 5일째까지는 학교나 직장에 가지 마시고, 상태가 좋아지면 6일째부터 갈 수 있습니다.** 예를 들어 월요일에 붓기 시작했다면 토요일까지 격리하고 일요일부터 복귀할 수 있습니다. 붓기 시작 전에도 다른 사람에게 옮길 수 있습니다. 좋아진 뒤 반대쪽이 새로 부으면 다시 진료받고 격리 기간을 확인하십시오.
 * 컵이나 수저를 같이 쓰지 말고, 기침·재채기 시 옷소매로 입을 가리십시오.
-* 가족은 접종을 완료했더라도 마지막으로 접촉한 날로부터 **최대 25일까지** 증상이 나타나는지 지켜봐 주십시오. 접종 이력이 없다면 이 기회에 MMR 접종을 받는 것이 좋습니다.
+* 가족은 접종을 완료했더라도 마지막으로 접촉한 날로부터 **최대 25일까지** 증상이 나타나는지 지켜봐 주십시오. 접종을 받지 않았거나 덜 맞았다면 의료진과 추가 접종을 상의하십시오. 접촉 후 맞는 백신이 이번 감염을 막는 것은 아니며, 임신 중에는 MMR을 맞지 않습니다.
 
 #### <mark style="color:$primary;">집에서는 어떻게 관리하나요?</mark>
 
@@ -358,23 +385,4 @@ B26.9 합병증이 없는 볼거리
 * 갑작스럽고 심한 한쪽 고환 통증·부종
 * 심한 배 통증과 반복적인 구토
 * 갑자기 잘 들리지 않거나 귀울림·어지럼이 생기는 경우 - 당일 이비인후과 진료
-* 매우 높은 열이 지속되거나 해열제를 먹어도 잘 조절되지 않는 경우
-
-
-## 주요 참고문헌 및 확인 자료
-
-### 임상 근거
-
-* 질병관리청. 2026년도 예방접종 대상 감염병 관리 지침(2026년 개정본), 유행성이하선염, p109–121. [공식 게시 및 첨부](https://www.kdca.go.kr/bbs/kdca/55/311032/artclView.do?layout=unknown).
-* CDC. [Clinical Overview of Mumps](https://www.cdc.gov/mumps/hcp/clinical-overview/index.html). 2025.
-* CDC. [Manual for the Surveillance of Vaccine-Preventable Diseases, Chapter 9: Mumps](https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-9-mumps.html). 2025.
-* CDC. [Laboratory Testing for Mumps](https://www.cdc.gov/mumps/php/laboratories/index.html); [Mumps Specimen Collection](https://www.cdc.gov/mumps/php/laboratories/specimen-collection.html); [Serology to Diagnose Mumps](https://www.cdc.gov/mumps/php/laboratories/serology.html). 2024.
-* CDC. [Strategies for the Control and Investigation of Mumps Outbreaks](https://www.cdc.gov/mumps/php/public-health-strategy/index.html); [Mumps Vaccine Recommendations](https://www.cdc.gov/mumps/hcp/vaccine-considerations/index.html). 2024.
-* CDC. [Mumps: Infection Control in Healthcare Personnel](https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/mumps.html). 2024.
-* CDC. [Mumps 2024 Case Definition](https://ndc.services.cdc.gov/case-definitions/mumps-2024/).
-* ICTV. [Genus: Orthorubulavirus](https://ictv.global/report/chapter/paramyxoviridae/paramyxoviridae/orthorubulavirus).
-* NIDCD. [Sudden Deafness](https://www.nidcd.nih.gov/health/sudden-deafness).
-
-### 허가·급여 확인 자료
-
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/). 세토펜현탁액·부루펜시럽/정·타이레놀정500㎎·타이레놀8시간이알서방정 품목정보 및 국내 제품설명서.
+* 물을 마시기 어렵고 소변량이 줄거나 열이 지속·재발하고 상태가 나빠지는 경우

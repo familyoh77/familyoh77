@@ -1,10 +1,11 @@
-# 철결핍빈혈 Iron Deficiency Anemia (IDA)
+# 철결핍빈혈 Iron Deficiency Anemia, IDA
 
 ## <mark style="color:green;">일반 사항</mark>
 
 * 본 챕터의 진단 알고리듬과 치료용량은 별도 표시가 없는 한 성인 기준임. 소아는 연령별 Hb·MCV 및 체중별 용량을 적용함
 * 철결핍은 빈혈의 가장 흔한 원인이지만, 빈혈이 생기기 전에도 저장철 고갈과 철결핍성 조혈이 먼저 나타날 수 있음
 * 철결핍빈혈은 전형적으로 소구성·저색소성이나, 초기 또는 혼합결핍(B12·엽산결핍 동반)에서는 MCV가 정상일 수 있음
+* 빈혈에서는 SpO₂가 정상이어도 혈액의 산소함량이 낮을 수 있으므로 정상 산소포화도만으로 중증 빈혈·조직 저산소증을 배제하지 않음
 * 혈청 ferritin은 저장철 평가에 가장 유용하지만 급성기 반응물질이므로 감염·염증·암·간질환·만성콩팥병에서는 정상 또는 상승해도 철결핍을 배제할 수 없음
 * 중증 빈혈이 장기간 지속되면 드물게 고박출성 심부전이 발생할 수 있으며, 임신 중 철결핍빈혈은 조산·저체중출생과 연관되고 소아·청소년에서는 인지·발달에 영향을 줄 수 있음
 * 철분을 보충하는 것만으로 진료를 끝내지 말고 출혈, 흡수장애, 철 요구량 증가 등 원인을 함께 확인해야 함
@@ -15,7 +16,7 @@
 
 2025 한국인 영양소 섭취기준의 철 권장섭취량은 다음과 같음. **영양섭취기준의 상한은 건강한 인구의 일상 섭취에 대한 기준이며, 의료진이 관리하는 철결핍빈혈 치료용량의 상한과 다름.**
 
-<table><thead><tr><th>대상</th><th>권장섭취량</th><th>상한섭취량</th></tr></thead><tbody><tr><td>남자 19~74세</td><td>8 ㎎/day</td><td rowspan="5">45 ㎎/day</td></tr><tr><td>남자 ≥75세</td><td>7 ㎎/day</td></tr><tr><td>여자 19~49세</td><td>12 ㎎/day</td></tr><tr><td>여자 50~64세</td><td>7 ㎎/day</td></tr><tr><td>여자 ≥65세</td><td>6 ㎎/day</td></tr><tr><td>임신부</td><td>해당 연령 여성 기준에 9 ㎎/day 추가</td><td>45 ㎎/day</td></tr><tr><td>수유부</td><td>추가량 없음</td><td>45 ㎎/day</td></tr></tbody></table>
+<table><thead><tr><th>대상</th><th>권장섭취량</th><th>상한섭취량</th></tr></thead><tbody><tr><td>남자 19–74세</td><td>8 ㎎/day</td><td rowspan="5">45 ㎎/day</td></tr><tr><td>남자 ≥75세</td><td>7 ㎎/day</td></tr><tr><td>여자 19–49세</td><td>12 ㎎/day</td></tr><tr><td>여자 50–64세</td><td>7 ㎎/day</td></tr><tr><td>여자 ≥65세</td><td>6 ㎎/day</td></tr><tr><td>임신부</td><td>해당 연령 여성 기준에 9 ㎎/day 추가</td><td>45 ㎎/day</td></tr><tr><td>수유부</td><td>추가량 없음</td><td>45 ㎎/day</td></tr></tbody></table>
 
 <mark style="color:$info;">Ref. 보건복지부·한국영양학회. [2025 한국인 영양소 섭취기준](https://kns.or.kr/fileroom/fileroom_view.asp?BoardID=Kdr&idx=167), 철 요약표.</mark>
 
@@ -31,7 +32,7 @@
 
 <mark style="color:$info;">Ref. 질병관리청. 2024 국민건강통계 추이. 추이표 2-6, 2-8.</mark>
 
-<!-- 검토 메모: 위 2024년 철 섭취량·섭취비율 수치는 원문을 유지함. 이번 검토에서는 원자료에 접근하지 못하여 수치·표준오차·표 번호의 직접 대조를 완료하지 못했으므로, 발행 전 원표 확인이 필요함. --->
+<!-- 검토 메모: 위 2024년 철 섭취량·섭취비율 수치는 원문을 유지함. 이번 검토에서는 원자료에 접근하지 못하여 수치·표준오차·표 번호의 직접 대조를 완료하지 못했으므로, 발행 전 원표 확인이 필요함. -->
 
 ## <mark style="color:green;">원인</mark>
 
@@ -52,7 +53,7 @@
 * 하지불안증후군, 탈모
 * 서서히 진행하면 Hb가 상당히 낮아도 증상이 경미할 수 있으므로 증상만으로 중증도를 판단하지 않음
 
-### <mark style="color:$danger;">🚩 Red Flags!</mark>
+### 🚩 Red Flags
 
 <mark style="color:$danger;">**즉각 조치**</mark> <mark style="color:$danger;">- 생명 위협 또는 즉각적 위해 가능성</mark>
 
@@ -61,13 +62,11 @@
 * 중증 빈혈에 의한 심근허혈, 심부전 또는 쇼크 의심  `심근허혈·심부전`
 * 빈맥·저혈압 등 조직 저산소증 소견을 동반한 매우 낮은 Hb  `중증 빈혈·저관류`
 
-_→ 정맥로 확보, CBC·교차시험 등 응급검사와 출혈원 평가를 시행하고 적혈구 수혈 필요성을 판단함. 정맥철은 즉각적인 산소운반능 회복 치료가 아니다._
+_→ 정맥로 확보, CBC·교차시험 등 응급검사와 출혈원 평가를 시행하고 적혈구 수혈 필요성을 판단함. 정맥철은 즉각적인 산소운반능 회복 치료가 아님._
 
-<mark style="color:$warning;">**당일~수일 내 평가**</mark>
+<mark style="color:$warning;">**당일 평가**</mark>
 
-_✽아래 중증 빈혈·진행성 임신빈혈·현재 출혈 항목은 **당일 평가** 대상이며, 수일간 기다리지 않음._
-
-* (성인 기준) Hb 약 7 g/㎗ 미만이거나 단기간에 빠르게 감소 - 소아·청소년은 연령별 기준과 임상상에 따라 별도로 판단  `중증 빈혈`
+* (성인 기준) Hb ＜7 g/㎗이거나 단기간에 빠르게 감소 - 소아·청소년은 연령별 기준과 임상상에 따라 별도로 판단  `중증 빈혈`
 * 임신 중 중증 빈혈 또는 임신 후기의 진행성 빈혈  `임신빈혈`
 * 현재 지속되거나 새로 발생한 melena·hematochezia, 의미 있는 부인과 출혈·혈뇨; 대량출혈·실신·혈역학적 불안정은 즉각 조치 대상  `현재 출혈`
 
@@ -85,14 +84,14 @@ _→ Hb 수치만으로 수혈 여부를 결정하지 말고 증상, 활력징�
 
 ### <mark style="color:orange;">기본 검사와 해석</mark>
 
-<table><thead><tr><th width="160">검사</th><th width="260">전형적 소견</th><th>해석 시 주의</th></tr></thead><tbody><tr><td>CBC·말초혈액도말</td><td>Hb 감소, MCV·MCH 감소, RDW 증가, 저색소성·적혈구 부등~변형증(anisopoikilocytosis)</td><td>초기 또는 B12/엽산결핍 동반 시 MCV가 정상일 수 있음</td></tr><tr><td>Ferritin</td><td>&lt;15 ng/mL : 저장철 고갈을 강하게 시사<br>&lt;30 ng/mL : 철결핍 가능성 높음</td><td>AGA는 빈혈 환자에서 &lt;45 ng/mL를 진단 절단값으로 권고<mark style="color:$info;">(AGA 2020, 민감도 85%·특이도 92%)</mark>. 염증·감염·암·간질환·CKD에서는 거짓정상/상승 가능</td></tr><tr><td>Transferrin saturation(TSAT)</td><td>대개 &lt;20%</td><td>염증성 철 제한에서도 감소할 수 있어 ferritin·CRP와 함께 해석</td></tr><tr><td>혈청 iron·TIBC</td><td>iron 감소, TIBC 증가</td><td>일중 변동과 식사 영향이 커 단독 진단검사로 사용하지 않음</td></tr><tr><td>Reticulocyte Hb, soluble transferrin receptor</td><td>Reticulocyte Hb 감소, sTfR 상승</td><td>염증 등으로 ferritin 해석이 어려운 경우 선택적으로 고려. sTfR은 용혈·thalassemia 등 조혈 증가에서도 상승하며 검사법별 기준이 다름</td></tr></tbody></table>
+<table><thead><tr><th width="160">검사</th><th width="260">전형적 소견</th><th>해석 시 주의</th></tr></thead><tbody><tr><td>CBC·말초혈액도말</td><td>Hb 감소, MCV·MCH 감소, RDW 증가, 저색소성·적혈구 크기·형태 부동증(anisopoikilocytosis)</td><td>초기 또는 B12/엽산결핍 동반 시 MCV가 정상일 수 있음</td></tr><tr><td>Ferritin</td><td>＜15 ng/mL : 저장철 고갈을 강하게 시사<br>＜30 ng/mL : 철결핍 가능성 높음</td><td>AGA는 빈혈 환자에서 ＜45 ng/mL를 진단 절단값으로 권고<mark style="color:$info;">[Gastroenterology 2020; 민감도 85%·특이도 92%]</mark>. 염증·감염·암·간질환·CKD에서는 거짓정상/상승 가능</td></tr><tr><td>Transferrin saturation(TSAT)</td><td>대개 ＜20%</td><td>염증성 철 제한에서도 감소할 수 있어 ferritin·CRP와 함께 해석</td></tr><tr><td>혈청 iron·TIBC</td><td>iron 감소, TIBC 증가</td><td>일중 변동과 식사 영향이 커 단독 진단검사로 사용하지 않음</td></tr><tr><td>Reticulocyte Hb, soluble transferrin receptor</td><td>Reticulocyte Hb 감소, sTfR 상승</td><td>염증 등으로 ferritin 해석이 어려운 경우 선택적으로 고려. sTfR은 용혈·thalassemia 등 조혈 증가에서도 상승하며 검사법별 기준이 다름</td></tr></tbody></table>
 
 {% hint style="info" %}
 Ferritin 단일 수치만 보지 말고 CBC, TSAT, CRP, 임상상황을 함께 해석함. 철분제를 시작하기 전에 가능한 경우 ferritin을 채혈함. AGA의 ＜45 ng/mL 기준은 **빈혈이 있는 성인**의 위장관 평가 맥락에서 제시된 값이며, 비빈혈성 철결핍·소아·임신·CKD에 일률적으로 적용하지 않음. 45 ng/mL 이상이어도 철결핍을 완전히 배제하지 않고 임상상·TSAT·치료반응을 함께 평가함.
 {% endhint %}
 
 {% hint style="info" %}
-**심부전: ESC 2026**은 철결핍 평가에서 **TSAT ＜20% 중심의 정의**를 지지함. 기존 ferritin ＜100 ng/mL 또는 ferritin 100~299 ng/mL이면서 TSAT ＜20% 기준은 이전 지침·임상시험에서 사용된 정의이며, TSAT가 정상인 일부 환자를 철결핍으로 과분류할 수 있음. ferritin도 함께 측정하여 저장철과 철과부하 가능성을 평가함. 증상이 있는 HFrEF에서 정맥철은 증상·삶의 질 개선을 위해 권고되며(I, B1), 심부전 입원 감소를 위해 고려함(IIa, B1). 일반 IDA 확진 기준이나 국내 급여 인정기준과 구분함.
+**심부전: ESC 2026**은 철결핍 평가에서 **TSAT ＜20% 중심의 정의**를 지지함. 기존 ferritin ＜100 ng/mL 또는 ferritin 100\~299 ng/mL이면서 TSAT ＜20% 기준은 이전 지침·임상시험에서 사용된 정의이며, TSAT가 정상인 일부 환자를 철결핍으로 과분류할 수 있음. ferritin도 함께 측정하여 저장철과 철과부하 가능성을 평가함. 증상이 있는 HFrEF에서 정맥철은 증상·삶의 질 개선을 위해 권고되며(I, B1), 심부전 입원 감소를 위해 고려함(IIa, B1). 일반 IDA 확진 기준이나 국내 급여 인정기준과 구분함.
 
 <mark style="color:$info;">Ref. 2026 ESC Guidelines for the management of heart failure, §10.4 및 Recommendation Table 19.</mark>
 {% endhint %}
@@ -102,39 +101,39 @@ Ferritin 단일 수치만 보지 말고 CBC, TSAT, CRP, 임상상황을 함께 �
 * 병력 : 월경량·임신, 위장관 증상, 식이, 헌혈, 수술력, 약물(NSAID·aspirin·항혈소판제·항응고제·PPI), 가족력
 * 기본 평가 : CBC, ferritin, TSAT, 필요 시 CRP, 소변검사
 * 셀리악병 : 원인불명 IDA·흡수장애·재발성/불응성 빈혈에서 tTG-IgA와 total IgA를 고려하고 양성 또는 강한 의심 시 확진 평가. BSG는 성인 IDA에서 일률적 선별을 권고하지만 AGA는 임상적으로 가능한 경우에 권고하며, 국내 유병률·임상 단서를 반영함. IgA 결핍이면 IgG 기반 검사를 사용함
-* 남성·폐경 후 여성 : 새로 진단된 IDA에서는 위·대장내시경을 원칙적으로 권고. 약물 복용·치질·식이 부족만으로 원인평가를 생략하지 않으며, 최근 적절한 검사 여부·동반질환·환자 선호를 함께 고려함
+* 남성·폐경 후 여성 : 새로 진단된 IDA에서는 위·대장내시경을 원칙적으로 권고. 약물 복용·치질·식이 부족만으로 원인평가를 생략하지 않으며, 최근 적절한 검사 여부·동반질환·환자 선호를 함께 고려함. 대장내시경이 적합하지 않으면 CT 대장조영술을 대안으로 고려함
 * 폐경 전 여성
   * 과다월경 등 부인과 원인을 우선 평가
   * 빈혈이 월경량에 비해 심하거나 재발성·불응성인 경우, GI 증상·체중감소·가족력·연령상 위험이 있으면 위장관 평가
-  * AGA는 무증상 폐경 전 여성에서도 양방향 내시경을 철분치료 단독보다 조건부 권고하므로 환자 선호와 위험도를 반영해 결정<mark style="color:$info;">(AGA 2020, conditional recommendation)</mark>
+  * AGA는 무증상 폐경 전 여성에서도 양방향 내시경을 철분치료 단독보다 조건부 권고하므로 환자 선호와 위험도를 반영해 결정<mark style="color:$info;">[Gastroenterology 2020; 조건부 권고]</mark>
 * 위·대장내시경 후에도 원인이 확인되지 않으면 비침습적 H. pylori 검사 및 양성 시 제균치료 고려
 * 합병증 없는 무증상 환자에서 위축성 위염 확인을 위한 일률적인 위 조직검사는 권고하지 않음
 * 대변잠혈검사 또는 FIT 음성만으로 위장관 출혈·암을 배제하거나 필요한 내시경을 생략하지 않음. BSG/ACPGBI 2025는 FIT를 평가 우선순위 결정에 활용하지만 음성 환자도 임상 평가가 필요함
-* 양방향 내시경이 음성인 합병증 없는 무증상 환자는 일률적 소장 캡슐내시경보다 철분치료 반응을 먼저 평가함<mark style="color:$info;">(AGA 2020)</mark>. 적절한 검사·치료 후에도 지속·재발하면 소장 캡슐내시경과 신장·요로 평가를 고려하며, 필요 시 검사 질·경과기간에 따라 내시경을 반복함
+* 양방향 내시경이 음성인 합병증 없는 무증상 환자는 일률적 소장 캡슐내시경보다 철분치료 반응을 먼저 평가함<mark style="color:$info;">[Gastroenterology 2020]</mark>. 적절한 검사·치료 후에도 지속·재발하면 소장 캡슐내시경과 신장·요로 평가를 고려하며, 필요 시 검사 질·경과기간에 따라 내시경을 반복함
 
 ### <mark style="color:orange;">감별</mark>
 
 * 만성질환/염증성 빈혈
-* thalassemia trait
+* thalassemia trait - 철검사가 정상이면서 MCV가 현저히 낮고 적혈구 수가 상대적으로 유지되면 의심하며, 필요 시 Hb 전기영동 등을 고려. 철결핍이 동반될 수 있으므로 두 질환을 상호 배타적으로 판단하지 않음
 * sideroblastic anemia, 납 중독
 * B12·엽산결핍이 동반된 혼합빈혈
 * 용혈성 빈혈, 만성콩팥병, 골수질환
 
-(☞ [빈혈](192_-anemia-revised.md))
+(☞ [빈혈](192_-anemia(1).md))
 
 ***
 
 ```mermaid
 graph TD
-    A(["성인 빈혈: 철결핍 의심"]) ---> B{"즉각 조치 항목?"}
-    B --->|예| C["응급평가·출혈 처치 / 수혈 필요성 판단"]
+    A(["성인 철결핍빈혈 의심"]) ---> B{"즉각 조치 항목?"}
+    B --->|예| C(["응급평가·출혈 처치 / 수혈 필요성 판단"])
     B --->|아니오| D{"당일 평가 항목?"}
     D --->|예| E["당일 평가·의뢰 / 안정화 후 철결핍 평가"]
     D --->|아니오| F["CBC·도말·ferritin·TSAT / 필요 시 CRP"]
     E ---> F
     F ---> G{"철결핍을 지지? / ferritin 45 미만은 AGA 참고 기준"}
     G --->|불확정| H["염증·CKD·혼합빈혈 확인 / 추가검사·치료반응으로 재평가"]
-    G --->|지지하지 않음| U["다른 빈혈 원인 평가"]
+    G --->|지지하지 않음| U(["다른 빈혈 원인 평가"])
     G --->|예| I["원인평가와 철분치료를 함께 시작 / 경구철 우선·적응증이면 정맥철"]
     H ---> G
     I ---> J{"성별·폐경 상태"}
@@ -143,8 +142,8 @@ graph TD
     L --->|위장관 평가 결정| K
     K ---> M["원인 치료·필요 시 H. pylori 검사 / 지속·재발하면 소장·요로 평가"]
     I ---> N{"2~4주 후 Hb 반응?"}
-    N --->|적절| O["Hb 정상화 후 약 3개월 이상 추가 / 원인·저장철·재발 위험 재평가"]
-    N --->|불충분| P["복약·지속출혈·흡수장애·진단 재검토 / 정맥철 또는 전문 평가"]
+    N --->|적절| O(["Hb 정상화 후 약 3개월 추가 / 원인·저장철·재발 위험에 따라 연장"])
+    N --->|불충분| P(["복약·지속출혈·흡수장애·진단 재검토 / 정맥철 또는 전문 평가"])
     style C fill:#f96,stroke:#e65100,stroke-width:2px
     style E fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
     style U fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
@@ -170,9 +169,9 @@ graph TD
 ### <mark style="color:orange;">모니터링</mark>
 
 * 적절한 치료 시 망상적혈구 반응은 대개 7\~10일에 나타남
-* 매일 경구철 투여 후 2주에 Hb ≥1 g/㎗ 상승하면 철결핍과 적절한 반응을 강하게 지지함<mark style="color:$info;">(BSG 2021)</mark>. 격일·저용량 요법은 4주 전후 평가가 더 실용적이며, 기저 Hb·지속출혈·혼합빈혈에 따라 반응을 해석함
+* 매일 경구철 투여 후 2주에 Hb ≥1 g/㎗ 상승하면 철결핍과 적절한 반응을 강하게 지지함<mark style="color:$info;">[Gut 2021]</mark>. 격일·저용량 요법은 4주 전후 평가가 더 실용적이며, 기저 Hb·지속출혈·혼합빈혈에 따라 반응을 해석함
 * 경구철 시작 후 첫 4주 이내 CBC를 확인하고 이후 중증도와 반응에 따라 간격을 조정함
-* Hb 정상화 후 저장철 보충을 위해 대개 3개월 이상(문헌에 따라 최대 6개월까지) 더 투여함
+* Hb 정상화 후 저장철 보충을 위해 대개 약 3개월 더 투여하고, 지속출혈·흡수장애·저장철 회복에 따라 3\~6개월 또는 그 이상으로 개별화함
 * 경구철 치료 초기에는 흡수된 철이 조혈에 사용되므로 ferritin 회복이 Hb보다 늦을 수 있음. 종료 시점은 Hb 회복·충분한 추가 치료기간·원인 교정·재발 위험과 철검사를 함께 판단함. ferritin ≥50 ng/mL을 모든 환자의 필수 종료 기준으로 사용하지 않음
 * 정맥철 투여 직후에는 ferritin·TSAT가 일시적으로 상승하여 저장철을 과대평가할 수 있음. 페린젝트는 최종 투여 후 **최소 4주가 지난 뒤 Hb를 재평가**하며 철검사는 제제·질환별 추적 일정에 따라 해석함
 * IDA 환자는 수혈을 받았더라도 철결핍의 원인치료와 철분 보충이 별도로 필요함
@@ -204,11 +203,11 @@ graph TD
 * 비타민 C와 육류·가금류·어패류는 non-heme iron 흡수를 높일 수 있음
 * 차·커피의 polyphenol, 곡류·콩류의 phytate, 고용량 칼슘은 흡수를 감소시킬 수 있으나 균형 잡힌 식사 전체의 영향을 함께 고려함
 
-혼합식의 철 생체이용률은 약 14\~18%, 채식 위주의 식사는 약 5\~12%로 추정된다.
+혼합식의 철 생체이용률은 약 14\~18%, 채식 위주의 식사는 약 5\~12%로 추정됨.
 
 ### <mark style="color:orange;">철분 함유 식품 예 (미국 NIH 기준)</mark>
 
-<table><thead><tr><th width="260">식품</th><th width="160">1회 분량</th><th>철분 함량</th></tr></thead><tbody><tr><td>철분 강화 시리얼(DV 100%)</td><td>1회 분량</td><td>18 ㎎</td></tr><tr><td>굴</td><td>익힌 것 3 oz(약 85 g)</td><td>8 ㎎</td></tr><tr><td>흰콩 통조림</td><td>1컵</td><td>8 ㎎</td></tr><tr><td>쇠고기 간</td><td>팬에 익힌 것 3 oz</td><td>5 ㎎</td></tr><tr><td>렌즈콩·삶은 시금치·단단한 두부</td><td>각 1/2컵</td><td>3 ㎎</td></tr><tr><td>다크초콜릿(45~69%)</td><td>1 oz</td><td>2 ㎎</td></tr><tr><td>강낭콩 통조림</td><td>1/2컵</td><td>2 ㎎</td></tr><tr><td>정어리 통조림</td><td>기름을 뺀 것 3 oz</td><td>2 ㎎</td></tr><tr><td>병아리콩</td><td>삶아 물을 뺀 것 1/2컵</td><td>2 ㎎</td></tr><tr><td>구운 감자</td><td>중간 크기 1개</td><td>2 ㎎</td></tr><tr><td>캐슈넛</td><td>1 oz(약 18개)</td><td>2 ㎎</td></tr></tbody></table>
+<table><thead><tr><th width="260">식품</th><th width="160">1회 분량</th><th>철분 함량</th></tr></thead><tbody><tr><td>철분 강화 시리얼(DV 100%)</td><td>1회 분량</td><td>18 ㎎</td></tr><tr><td>굴</td><td>익힌 것 3 oz(약 85 g)</td><td>8 ㎎</td></tr><tr><td>흰콩 통조림</td><td>1컵</td><td>8 ㎎</td></tr><tr><td>쇠고기 간</td><td>팬에 익힌 것 3 oz</td><td>5 ㎎</td></tr><tr><td>렌즈콩·삶은 시금치·단단한 두부</td><td>각 1/2컵</td><td>3 ㎎</td></tr><tr><td>다크초콜릿(45–69%)</td><td>1 oz</td><td>2 ㎎</td></tr><tr><td>강낭콩 통조림</td><td>1/2컵</td><td>2 ㎎</td></tr><tr><td>정어리 통조림</td><td>기름을 뺀 것 3 oz</td><td>2 ㎎</td></tr><tr><td>병아리콩</td><td>삶아 물을 뺀 것 1/2컵</td><td>2 ㎎</td></tr><tr><td>구운 감자</td><td>중간 크기 1개</td><td>2 ㎎</td></tr><tr><td>캐슈넛</td><td>1 oz(약 18개)</td><td>2 ㎎</td></tr></tbody></table>
 
 <mark style="color:$info;">Ref. NIH Office of Dietary Supplements. Iron: Fact Sheet for Health Professionals. (미국 기준이며 국내 식품과 차이가 있을 수 있음)</mark>
 
@@ -218,33 +217,42 @@ graph TD
 
 #### <mark style="color:$primary;">제제 선택</mark>
 
-* 특정 경구철 제제가 모든 환자에서 우월하다는 근거는 부족하며 가격, 원소철 함량, 국내 허가용법, 내약성, 수급을 고려함<mark style="color:$info;">(AGA 2024)</mark>
+* 특정 경구철 제제가 모든 환자에서 우월하다는 근거는 부족하며 가격, 원소철 함량, 국내 허가용법, 내약성, 수급을 고려함<mark style="color:$info;">[Clin Gastroenterol Hepatol 2024]</mark>
 * ferrous salt는 일반적으로 용해도와 생체이용률이 높고 ferrous sulfate는 비용이 저렴하여 흔히 사용됨
 * 장용정·서방형은 근위부 철 흡수 부위보다 원위부에서 방출되어 흡수가 감소할 수 있고 위장관 부작용을 확실히 줄인다는 근거도 부족함. BSG 2021은 이를 우선 권고하지 않음. 국내 서방정을 사용할 때는 실제 Hb 반응을 확인함
 * 액제는 정제 복용이 어렵거나 제형 선택이 필요한 경우 고려함
 
-<table><thead><tr><th width="200">성분·제형</th><th width="130">국내 제품 예</th><th width="100">원소철</th><th>국내 허가용법의 핵심</th></tr></thead><tbody><tr><td>건조황산제일철 256 ㎎ 서방정</td><td><mark style="color:blue;">\[훼로바-유서방정]</mark></td><td>80 ㎎/정</td><td>성인·12세 이상 : 1회 80 ㎎, 1일 1~2회 <strong>식후</strong>, 씹지 않고 복용</td></tr><tr><td>호박산단백철 800 ㎎/15 ㎖ 액</td><td><mark style="color:blue;">\[헤모큐액]</mark></td><td>40 ㎎/15 ㎖</td><td>제품 첨부문서에 따라 복용</td></tr><tr><td>철아세틸트랜스페린 200 ㎎/10 ㎖ 액</td><td><mark style="color:blue;">\[볼그레액]</mark></td><td>40 ㎎/포</td><td>성인 : 1회 40 ㎎, 1일 1~2회 식사시간을 피하여 복용</td></tr></tbody></table>
+<table><thead><tr><th width="200">성분·제형</th><th width="130">국내 제품 예</th><th width="100">원소철</th><th>국내 허가용법의 핵심</th></tr></thead><tbody><tr><td>건조황산제일철 256 ㎎ 서방정</td><td><mark style="color:blue;">\[훼로바-유서방정]</mark></td><td>80 ㎎/정</td><td>성인·12세 이상 : 1회 80 ㎎, 1일 1–2회 <strong>식후</strong>, 씹지 않고 복용</td></tr><tr><td>철아세틸트랜스페린 200 ㎎/10 ㎖ 액</td><td><mark style="color:blue;">\[볼그레액]</mark></td><td>40 ㎎/포</td><td>성인 : 1회 40 ㎎, 1일 1–2회 식사시간을 피하여 복용</td></tr></tbody></table>
 
 {% hint style="info" %}
 <mark style="color:blue;">\[볼그레캡슐]</mark>의 생산·공급중단 관련 자료가 있어 본 표와 처방례는 <mark style="color:blue;">\[볼그레액]</mark>을 제시함. 캡슐제의 잔여 재고와 액제의 실제 수급은 구분함.
 {% endhint %}
 
+#### <mark style="color:$primary;">금기 및 주의</mark>
+
+* 철과부하·철 이용 장애 및 철결핍이 확인되지 않은 비철결핍성 빈혈에는 투여하지 않음
+* **훼로바-유서방정의 국내 허가상 금기** : 성분 과민반응, 12개월 미만 영아, 혈색소증·헤모시데린침착증·철 과잉, 철 이용 장애, 비철결핍성 빈혈·골수 부족에 의한 빈혈·만성 용혈성빈혈, 감염이나 종양으로 인한 철결핍빈혈, 만성췌장염, 간경변. 이는 해당 품목의 허가사항이며 모든 경구철의 공통 금기로 확대하지 않음
+* 훼로바-유서방정의 허가용량은 **12세 이상**에 제시되어 있으므로 영유아·어린 소아에게 성인 서방정 처방을 적용하지 않음
+* 소화성궤양·염증성장질환 등 위장질환, 신장애, 임신·수유, 병용약은 제품별 주의사항을 확인함
+
 #### <mark style="color:$primary;">용법</mark>
 
-* 성인에서는 원소철 약 40\~100 ㎎을 **하루 1회 이하**로 시작하는 것이 실용적임<mark style="color:$info;">(AGA 2024 BPA)</mark>
-* 매일 복용 시 위장관 부작용이 있거나 복용이 어려우면 격일 복용을 고려함 - 일부 환자에서 흡수는 유사하게 유지하면서 내약성을 개선할 수 있음<mark style="color:$info;">(AGA 2024; Stoffel 2017, Moretti 2015)</mark>
+* 아래 저용량·격일 요법의 근거는 주로 **철염(ferrous salts)** 연구임. 단백결합철 등 모든 성분·제형에 동일한 흡수 효과가 입증된 것은 아니므로 제품별 용법과 실제 반응을 확인함
+* 성인에서는 원소철 약 40\~100 ㎎을 **하루 1회 이하**로 시작하는 것이 실용적임<mark style="color:$info;">[Clin Gastroenterol Hepatol 2024]</mark>
+* 매일 복용 시 위장관 부작용이 있거나 복용이 어려우면 격일 복용을 고려함 - 일부 환자에서 흡수는 유사하게 유지하면서 내약성을 개선할 수 있음<mark style="color:$info;">[Clin Gastroenterol Hepatol 2024]</mark>
 * 하루 2회 이상 분할·증량은 hepcidin 상승 때문에 흡수를 더 늘리지 못하면서 위장관 부작용을 증가시킬 수 있음
 * 일반적으로 공복 복용이 흡수에는 유리하지만, 위장관 부작용이 있으면 음식과 함께 복용할 수 있음
 * 국내 허가사항(대부분 1일 1\~2회)과 국제 학회의 최신 권고(1일 1회 이하)가 다를 수 있으므로, 실제 처방에서는 해당 제품 첨부문서를 우선 확인함
 
 {% hint style="info" %}
-<mark style="color:blue;">\[훼로바-유서방정]</mark>은 국제적인 흡수 원칙상 공복 복용이 유리할 수 있으나 **국내 허가용법은 식후 복용**임. 처방례에는 국내 허가용법을 우선 반영하였다.
+<mark style="color:blue;">\[훼로바-유서방정]</mark>은 국제적인 흡수 원칙상 공복 복용이 유리할 수 있으나 **국내 허가용법은 식후 복용**임. 처방례에는 국내 허가용법을 우선 반영함.
 {% endhint %}
 
-* 차·커피·우유·칼슘제·제산제와는 가능한 2시간 정도 간격을 둠
+* 차·커피·우유와는 가능하면 2시간 정도 간격을 둠. 칼슘제·제산제와의 간격은 선택한 제품의 허가사항에 따라 결정함
+* **훼로바-유서방정**은 인산염·칼슘염·경구 tetracycline계 항생제·제산제를 허가사항의 “복용하지 말 것” 항목으로 명시하므로, 일률적인 시간 간격만 제시하지 말고 병용 여부와 제제 선택부터 검토함
 * levothyroxine은 철분제와 최소 4시간 간격을 둠
-* tetracycline·quinolone 항생제, bisphosphonate 등은 킬레이션·흡수 감소가 있으므로 제품별 간격을 따름. 예: ciprofloxacin은 철분제 **2시간 전 또는 6시간 후** 복용; 모든 약물을 2~4시간 간격으로 통일하지 않음
-* 비타민 C는 철 흡수를 높일 수 있어 AGA 2024 CPU는 병용을 권고함. 다만 무작위 임상시험에서는 철분 단독요법이 비타민 C 병용요법과 Hb 및 저장철 회복에서 동등하여, 모든 환자에게 일률적으로 병용해야 하는지는 확실하지 않음(Li 2020)
+* tetracycline·quinolone 항생제, bisphosphonate 등은 킬레이션·흡수 감소가 있으므로 제품별 간격을 따름. 예: ciprofloxacin은 철분제 **2시간 전 또는 6시간 후** 복용; 모든 약물을 2\~4시간 간격으로 통일하지 않음
+* 비타민 C는 철 흡수를 높일 수 있어 AGA 2024 CPU는 병용을 권고함. 다만 무작위 임상시험에서는 철분 단독요법이 비타민 C 병용요법과 Hb 및 저장철 회복에서 동등하여, BSG 2021은 일률적 비타민 C 병용을 권고하지 않음. AGA와 BSG의 권고 차이를 고려하여 비타민 C 보충제를 필수 처방으로 제시하지 않음 <mark style="color:$info;">[JAMA Netw Open 2020; Gut 2021]</mark>
 
 #### <mark style="color:$primary;">부작용 및 대처</mark>
 
@@ -252,7 +260,7 @@ graph TD
 * 액제는 치아를 착색시킬 수 있으므로 빨대를 이용하거나 복용 후 물로 입안을 헹굼
 * 부작용 시 저용량·격일 복용, 다른 성분 또는 액제로 변경, 음식과 함께 복용을 고려함
 * 검은 변은 흔한 약물 반응이지만, 끈적한 흑색변과 어지럼·복통·빈맥 등이 동반되면 위장관 출혈을 평가함
-* 소아의 우발적 과량복용은 치명적일 수 있으므로 잠금장치가 있는 어린이 손이 닿지 않는 곳에 보관함
+* 소아의 우발적 과량복용은 치명적일 수 있으므로 어린이 손이 닿지 않는 잠금장치가 있는 곳에 보관함
 
 ### <mark style="color:orange;">정맥철</mark>
 
@@ -263,7 +271,6 @@ graph TD
 * 지속되는 출혈로 경구 보충량이 소실량을 따라가지 못하는 경우
 * 혈액투석 또는 질환별 프로토콜에 따라 정맥철이 필요한 CKD·심부전 환자
 * 수술 전, 임신 후기 등 임상적으로 빠른 철 보충이 필요하고 경구철로 목표 달성이 어려운 경우
-* Hb ＜7 g/㎗는 안정적인 입원 성인에서 흔히 사용하는 수혈 고려 역치이며 자동 수혈 지시가 아님. 증상·출혈·심혈관질환에 따라 별도로 판단함<mark style="color:$info;">(AABB 2023)</mark>. **입원 중 급성 심근경색은 예외**로, AABB 2025는 Hb ＜10 g/㎗에서 비제한적 수혈 전략을 조건부 권고함. 자세한 원칙은 [빈혈 챕터](192_-anemia-revised.md)의 수혈 항목 참조
 
 {% hint style="danger" %}
 매우 낮은 Hb 자체를 정맥철의 단독 적응증으로 사용하지 않음. 혈역학적 불안정, 활동성 출혈, 심근허혈·심부전 등 조직 저산소증이 있으면 응급평가와 적혈구 수혈 필요성 판단이 먼저임.
@@ -282,12 +289,12 @@ graph TD
 * 허가 연령, 1회 최대량, 희석·주입시간과 보험기준은 제제별로 다르므로 투여 전 최신 첨부문서와 급여기준을 확인함
 
 {% hint style="info" %}
-철분주사제의 확인된 급여기준은 [보건복지부 고시 제2025-102호(2025.7.1. 시행)](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701&mtgMtrRegSno=0030&sno=2)임. 일반 환자는 Hb ≤10 g/㎗(임신부 ≤11 g/㎗), 경구투여 곤란, ferritin ＜30 ng/mL 또는 TSAT ＜20%를 충족하는 철결핍빈혈에서 인정됨. 수술·출산 등 출혈로 신속한 투여가 필요한 경우에는 별도 기준(Hb ≤10 g/㎗)을 적용함. CKD·항암화학요법 환자는 별도 인정기준을 확인하며, **투석 중 CKD 항목에서는 ferric carboxymaltose(페린젝트)가 제외됨**. 임상적 적응증과 급여기준을 구분하고, 청구 시 필요한 혈액검사·철결핍 검사결과와 투여소견서를 준비함. 기준 이외에는 약값 전액을 환자가 부담할 수 있으므로 처방 시점의 추가 개정 여부를 확인함.
+철분주사제의 확인된 급여기준은 [보건복지부 고시 제2025-102호(2025.7.1. 시행)](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701&mtgMtrRegSno=0030&sno=2)임. 일반 환자는 Hb ≤10 g/㎗(임신부 ≤11 g/㎗), 경구투여 곤란, ferritin ＜30 ng/mL 또는 TSAT ＜20%를 충족하는 철결핍빈혈에서 인정됨. 수술·출산 등 출혈로 신속한 투여가 필요한 경우에는 별도 기준(Hb ≤10 g/㎗)을 적용함. CKD·항암화학요법 환자는 별도 인정기준을 확인하며, **투석 중 CKD 항목에서는 ferric carboxymaltose(페린젝트)가 제외됨**. 임상적 적응증과 급여기준을 구분하고, 청구 시 필요한 혈액검사·철결핍 검사결과와 투여소견서를 준비함. 이 고시의 대상 성분은 iron sucrose와 ferric carboxymaltose이며 모노퍼에 동일하게 적용하지 않음. 기준 이외에는 약값 전액을 환자가 부담할 수 있으므로 처방 시점의 추가 개정 여부를 확인함.
 {% endhint %}
 
 #### <mark style="color:$primary;">안전한 투여</mark>
 
-* 일률적인 test dose는 중증반응을 예측하지 못하므로 권고하지 않음(EMA)
+* EMA는 test dose가 중증 과민반응을 예측하지 못하므로 일률적 시행을 권고하지 않음. 제품별 국내 허가용법을 확인하고, 이전 투여·시험용량에 문제가 없어도 매 투여 시 관찰함
 * 과거 단순 알레르기나 천식만을 이유로 항히스타민제·스테로이드를 일률적으로 전처치하지 않음
 * 아나필락시스를 평가·처치할 인력과 장비가 있는 장소에서 투여하고, 제품별 주입속도를 준수함
 * 투여 중과 종료 후 최소 30분간 과민반응을 관찰함
@@ -297,48 +304,68 @@ graph TD
 
 #### <mark style="color:$primary;">부작용</mark>
 
-* 대부분의 급성 주입반응은 진성 IgE 매개 anaphylaxis가 아니며, 진성 anaphylaxis는 매우 드묾<mark style="color:$info;">(AGA 2024 BPA)</mark>
+* 대부분의 급성 주입반응은 진성 IgE 매개 anaphylaxis가 아니며, 진성 anaphylaxis는 매우 드묾<mark style="color:$info;">[Clin Gastroenterol Hepatol 2024]</mark>
 * 일시적 홍조, 흉부·등 통증, 근육통, 오심, 혈압 변화
 * 혈관 외 유출에 의한 장기간 피부 갈색 착색
-* ferric carboxymaltose는 FGF-23 상승에 의한 신장의 인 재흡수 억제로 특히 반복·고용량 투여 시 저인산혈증을 일으킬 수 있으며, 드물게 골연화증·골절로 이어질 수 있음(PHOSPHARE-IDA, JAMA 2020)
+* ferric carboxymaltose는 FGF-23 상승에 의한 신장의 인 재흡수 억제로 특히 반복·고용량 투여 시 저인산혈증을 일으킬 수 있으며, 드물게 골연화증·골절로 이어질 수 있음 <mark style="color:$info;">[JAMA 2020]</mark>
   * 반복·장기 투여, 비타민 D 결핍, 영양실조, 부갑상선기능항진증, IBD·흡수장애 등 위험이 있으면 **혈청 phosphate를 모니터링함**. 투여 전부터 저인산혈증이 있으면 교정하며, 치료 후 새로 발생하거나 지속되는 피로·근력저하·근육통·골통은 빈혈의 잔여 증상으로만 판단하지 않음
   * **FDA 2026.9.1 안전성 강화:** 미국 동일 성분 제품(Injectafer)에 증상성 저인산혈증 boxed warning이 추가됨. 정상 기저 인산염·뚜렷한 위험인자 부재에서도 발생할 수 있음. 위험 환자 또는 **3개월 이내 새 치료과정을 반복하는 모든 환자**는 재치료 전 phosphate를 확인함. 중증 증상성 또는 지속성 저인산혈증이면 추가 투여 중단·다른 제제 선택을 검토함. 이는 해외 안전성 권고이며 국내 boxed warning 신설을 의미하지 않음
 
 <mark style="color:$info;">Ref. FDA Drug Safety Communication 및 Injectafer prescribing information, 2026; 국내 페린젝트 허가사항의 저인산혈증 모니터링.</mark>
 
-* 활동성 전신감염에서는 정맥철을 일시 보류하는 것을 고려하며, 특히 균혈증에서는 감염 치료를 우선함. 철과부하·철결핍에 의하지 않은 빈혈에는 투여하지 않음
+* 활동성 전신감염에서는 정맥철의 일시 보류를 고려함. **페린젝트는 진행형 세균혈증, 본제 과민반응 또는 다른 비경구 철 제제에 대한 중대한 과민반응, 철과부하·철 이용 장애, 철결핍 이외의 빈혈에서 국내 허가상 금기**임
+* 간기능장애·감염·천식/아토피·면역/염증 질환·임신은 제제별 위험과 유익성을 평가함
+* “모든 정맥철의 위험이 유사하다”는 AGA 문구를 저인산혈증 위험까지 동일하다는 뜻으로 해석하지 않음. 성분에 따라 저인산혈증 위험은 다름
+
+### <mark style="color:orange;">빈혈 없는 철결핍</mark>
+
+* 철결핍이 있어도 Hb가 정상일 수 있음. 출혈·식이·흡수장애 등 원인과 증상을 평가하고, 피로 등 증상이 있으면 경구철 치료를 개별적으로 고려함
+* 모든 무증상 환자에게 정맥철이나 침습적 위장관 검사를 일률적으로 적용하지 않음. 남성·폐경 후 여성, 위장관 증상·가족력 등에서는 평가 문턱을 낮춤. 심부전·CKD·임신은 해당 질환의 기준을 따름 <mark style="color:$info;">[Gut 2021]</mark>
 
 ### <mark style="color:orange;">임신부</mark>
 
 #### <mark style="color:$primary;">선별 및 예방</mark>
 
-* 임신빈혈 기준 : 1·3분기 Hb <11 g/㎗ 또는 Hct <33%; 2분기 Hb <10.5 g/㎗ 또는 Hct <32%
+* 임신빈혈 기준 : 1·3분기 Hb ＜11 g/㎗ 또는 Hct ＜33%; 2분기 Hb ＜10.5 g/㎗ 또는 Hct ＜32%
 * ACOG는 첫 산전진찰과 임신 24\~28주에 CBC 선별을 권고함
-* ACOG·CDC는 임신 초기부터 저용량 철분 보충을 권고하지만, USPSTF는 무증상 임신부의 일률적인 선별과 보충이 임상결과를 개선하는지 근거가 불충분하다고 판단함<mark style="color:$info;">(USPSTF 2024, I statement)</mark>
+* ACOG·CDC는 임신 초기부터 저용량 철분 보충을 권고하지만, USPSTF는 무증상 임신부의 일률적인 선별과 보충이 임상결과를 개선하는지 근거가 불충분하다고 판단함<mark style="color:$info;">[JAMA 2024; I statement]</mark>
 * USPSTF의 I statement는 보충에 반대한다는 의미가 아님. 국내 보건소의 예방적 철분제 지원은 통상 임신 16주 이후부터이며, 이를 결핍빈혈 치료 시작 시점과 혼동하지 않음. 예방은 식사·철 상태와 산전관리 계획에 따라, 확인된 IDA 치료는 임신 주수와 무관하게 시행함
 
 #### <mark style="color:$primary;">치료</mark>
 
-* ferritin <30 ng/mL은 임신 중 철결핍을 지지하며, Hb <9 g/㎗일 때만 치료하는 것이 아님
+* ferritin ＜30 ng/mL은 임신 중 철결핍을 지지하며, Hb ＜9 g/㎗일 때만 치료하는 것이 아님
 * 확인된 철결핍빈혈은 경구철로 치료하고 2\~4주 이내 Hb 반응을 확인함
 * 경구철 불내성·흡수장애·무반응 또는 임신 후기 신속한 교정이 필요하면 산부인과와 협의하여 2·3분기에 정맥철을 고려함. 1분기에는 안전성 자료가 부족하여 경구철을 우선 사용함
 * 매우 심한 빈혈과 태아 산소화 저하 우려, 출혈·혈역학적 불안정이 있으면 수혈 필요성을 별도로 판단함
+* 임신 중 정맥철 투여 시 모체 과민반응에 따른 태아서맥 가능성을 고려하여 산과적 태아 모니터링을 시행함
 
-### <mark style="color:orange;">영아 철분 예방 참고</mark>
+### <mark style="color:orange;">영아·소아 참고</mark>
 
-* 만삭 완전모유수유아 : AAP는 생후 4개월부터 원소철 1 ㎎/㎏/day를 철분 함유 이유식을 충분히 섭취할 때까지 권고함
+* 만삭 완전모유수유아 : **AAP 2026**은 생후 4개월까지 원소철 1 ㎎/㎏/day 보충을 시작하도록 권고함. 충분한 철 공급 이유식을 시작한 뒤에는 섭취량을 평가하여 조정함
 * CDC는 생후 약 6개월부터 모유 외 철 공급원(철분이 풍부한 이유식, 강화식품 또는 보충제)을 확보하도록 안내함
-* 미숙아·저체중출생아는 시작 시점과 용량이 다르므로 소아청소년과 지침에 따름
+* AAP 2026 : 완전 경장영양에 도달한 미숙아는 생후 2주까지 강화식 또는 보충제로 철 섭취량 2\~3 ㎎/㎏/day를 확보함. 수혈력·출생체중·식이를 반영하여 소아청소년과에서 조정함
+* AAP 2026의 소아 IDA 초기 치료 : 어린 소아는 ferrous sulfate의 원소철 3 ㎎/㎏ **1일 1회**, 청소년은 원소철 65 ㎎ 1일 1회를 제시함. 이는 미국 권고이며 국내 소아용 제제의 허가 연령·함량을 확인하고 예방용량과 구분함
+* 생후 12개월 전에는 모유·조제유를 우유나 식물성 대체음료로 대체하지 않으며, 1세 이상 5세 미만은 철분 식이를 확보하고 우유·대체음료를 하루 약 710 ㎖ 미만으로 제한함 <mark style="color:$info;">[Pediatrics 2026]</mark>
+
+***
+
+## <mark style="color:green;">시술 및 기타 처치</mark>
+
+### <mark style="color:orange;">적혈구 수혈</mark>
+
+* Hb ＜7 g/㎗는 안정적인 입원 성인에서 흔히 사용하는 수혈 고려 역치이며 자동 수혈 지시가 아님. 증상·출혈·심혈관질환에 따라 별도로 판단함<mark style="color:$info;">[JAMA 2023]</mark>. **입원 중 급성 심근경색은 예외**로, AABB 2025는 Hb ＜10 g/㎗에서 비제한적 수혈 전략을 조건부 권고함(근거 확실성 낮음). 자세한 원칙은 [빈혈 챕터](192_-anemia(1).md)의 수혈 항목 참조
+* 수혈은 필요한 경우 급히 산소운반능을 보완하는 치료이며, 철결핍 원인평가와 저장철 보충 계획을 대체하지 않음
 
 ***
 
 ### <mark style="color:red;">질병코드</mark>
 
-D50.0 만성 실혈에 이차성 철결핍빈혈
+<table><thead><tr><th>코드</th><th>KCD-9 명칭</th></tr></thead><tbody><tr><td>D50.0</td><td>(만성) 실혈에 따른 이차성 철결핍빈혈</td></tr><tr><td>D50.1</td><td>철결핍성 삼킴곤란</td></tr><tr><td>D50.8</td><td>기타 철결핍빈혈</td></tr><tr><td>D50.9</td><td>상세불명의 철결핍빈혈</td></tr></tbody></table>
 
-D50.8 기타 철결핍빈혈
+* D50.1은 플러머-빈슨증후군 등 해당 진단이 확인된 경우에 사용함
+* 빈혈 없는 철결핍은 **E61.1 철결핍**, 급성 출혈후 빈혈은 **D62 급성 출혈후 빈혈**과 구분함
+* 임신·출산·산후기 빈혈은 **O99.0 임신, 출산 및 산후기에 합병된 빈혈**의 적용 및 빈혈 유형 추가 분류 여부를 확인함
 
-D50.9 상세불명의 철결핍빈혈
 
 ***
 
@@ -365,11 +392,12 @@ D50.9 상세불명의 철결핍빈혈
 > * 총 필요량은 허가사항의 Hb·체중별 투여량 표 또는 적절한 산정법으로 결정함.
 > * 1회 투여량은 철로서 1,000 ㎎ 또는 체중 1 ㎏당 20 ㎎ 중 더 낮은 용량을 초과하지 않음.
 > * 주당 총 투여량은 철로서 1,000 ㎎을 초과하지 않으며 추가 용량은 최소 7일 간격을 둠. 혈액투석 의존성 CKD에서는 1일 최대 200 ㎎으로 제한됨.
+> * 정맥직접주사와 점적주입의 속도·희석법을 구분함. 직접주사에서 200 ㎎ 초과 500 ㎎ 이하는 철 100 ㎎/min 이하, 500 ㎎ 초과 1,000 ㎎ 이하는 최소 15분에 걸쳐 투여함. 피하·근육주사는 하지 않음.
 > * 1,000 ㎎을 점적주입할 경우 0.9% 생리식염액 250 ㎖ 이하로 희석하여 최소 15분에 걸쳐 투여함. 투여액의 철 농도는 2 ㎎/㎖ 미만으로 희석하지 않음(약제 자체 부피 제외).
-> * 만 1~13세는 성인 용량을 적용하지 않으며, 1회 최대는 철로서 15 ㎎/㎏ 또는 750 ㎎ 중 낮은 용량, 주당 총량도 750 ㎎ 이하이며 추가 투여는 최소 7일 간격을 둠. 1세 미만 및 혈액투석이 필요한 1~13세에는 투여가 권장되지 않음.
+> * 만 1\~13세는 성인 용량을 적용하지 않으며, 1회 최대는 철로서 15 ㎎/㎏ 또는 750 ㎎ 중 낮은 용량, 주당 총량도 750 ㎎ 이하이며 추가 투여는 최소 7일 간격을 둠. 1세 미만 및 혈액투석이 필요한 1\~13세에는 투여가 권장되지 않음.
 > * 아나필락시스 처치가 가능한 장소에서 투여 후 최소 30분간 관찰함. 반복 치료 전 phosphate 확인과 저인산혈증 위험평가는 위 안전성 항목을 따름. 경구철 재개가 필요하면 마지막 투여 후 적어도 5일 간격을 둠.
 
-## <mark style="color:$success;">핵심 복약 지도</mark>
+### <mark style="color:$success;">핵심 복약 지도</mark>
 
 > **복용 원칙**
 >
@@ -379,7 +407,7 @@ D50.9 상세불명의 철결핍빈혈
 
 > **흡수를 방해하는 것들**
 >
-> * 차·커피·우유·칼슘제·제산제와는 가능한 2시간 정도 간격을 둡니다.
+> * 차·커피·우유와는 가능하면 2시간 정도 간격을 둡니다. 칼슘제·제산제·항생제를 함께 복용한다면 약 이름을 의료진에게 알려 주십시오. 제품에 따라 함께 복용하면 안 되거나 간격을 조정해야 합니다.
 > * 갑상선호르몬제는 철분제와 최소 4시간 간격을 둡니다.
 
 > **예상되는 반응과 대처**
@@ -397,7 +425,7 @@ D50.9 상세불명의 철결핍빈혈
 > **안전 보관 및 추적**
 >
 > * 어린이가 철분제를 과량 복용하면 치명적일 수 있으므로 반드시 손이 닿지 않는 곳에 보관합니다.
-> * **혈색소가 정상으로 회복된 뒤에도** 저장철 보충을 위해 보통 약 3개월 이상(상황에 따라 6개월까지) 더 복용하므로 예정된 혈액검사를 받습니다.
+> * **혈색소가 정상으로 회복된 뒤에도** 저장철 보충을 위해 보통 약 3개월 더 복용하고 상태에 따라 기간을 연장하므로 예정된 혈액검사를 받습니다.
 
 > **언제 다시 병원을 방문해야 하나요?**
 >
@@ -405,6 +433,40 @@ D50.9 상세불명의 철결핍빈혈
 > * 끈적한 검은 변, 혈변 또는 혈뇨가 새로 생긴 경우 - 즉시 내원
 > * 흉통, 실신, 가만히 있어도 숨이 차는 증상이 있는 경우 - 즉시 내원
 > * 변비·구역이 심해 복용을 스스로 중단한 경우
+
+## <mark style="color:green;">주요 참고문헌 및 확인 자료</mark>
+
+### <mark style="color:orange;">임상 근거</mark>
+
+1. Ko CW, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology. 2020.
+2. DeLoughery TG, et al. [AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review](https://gastro.org/clinical-guidance/management-of-iron-deficiency-anemia/). 2024.
+3. Snook J, et al. [British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults](https://gut.bmj.com/content/70/11/2030). Gut. 2021;70(11):2030-2051.
+4. Li N, et al. [The Efficacy and Safety of Vitamin C for Iron Supplementation in Adult Patients With Iron Deficiency Anemia](https://doi.org/10.1001/jamanetworkopen.2020.23644). JAMA Netw Open. 2020;3(11):e2023644.
+5. ACOG. Anemia in Pregnancy: Practice Bulletin No. 233. Obstet Gynecol. 2021. Reaffirmed 2024.
+6. USPSTF. Iron Deficiency Anemia in Pregnant Persons: Screening and Supplementation. 2024.
+7. ESC. [2026 ESC Guidelines for the management of heart failure](https://doi.org/10.1093/eurheartj/ehag100). §10.4; Recommendation Table 19.
+8. Wolf M, et al. [Effects of Iron Isomaltoside vs Ferric Carboxymaltose on Hypophosphatemia in Iron-Deficiency Anemia: Two Randomized Clinical Trials](https://doi.org/10.1001/jama.2019.22450). JAMA. 2020.
+9. EMA. Intravenous Iron-Containing Medicinal Products: Recommendations to Manage Hypersensitivity Reactions. 2013.
+10. Carson JL, et al. Red Blood Cell Transfusion: 2023 AABB International Guidelines. JAMA. 2023; Pagano MB, et al. [AMI transfusion guideline](https://pubmed.ncbi.nlm.nih.gov/40825204/). Ann Intern Med. 2025.
+11. 보건복지부·한국영양학회. [2025 한국인 영양소 섭취기준 요약표](https://www.kns.or.kr/data/FileRoom/2025123102020340340.pdf). 철 권장섭취량.
+12. 질병관리청. 2024 국민건강통계 추이. 원고의 철 섭취량 통계 출처.
+13. BSG/ACPGBI. [Guidelines on the role of FIT in the endoscopic investigation of IDA](https://www.bsg.org.uk/clinical-resource/role-of-fit-in-the-investigation-of-ida). 2025.
+14. KDIGO. [2026 Anemia in CKD guideline](https://kdigo.org/guidelines/anemia-in-ckd/). CKD의 철분 치료 기준은 빈혈 챕터 참조.
+
+15. AAP. [Prevention, Screening, Diagnosis, and Treatment of Iron Deficiency and Iron Deficiency Anemia in Infants, Children, and Adolescents: Clinical Report](https://publications.aap.org/pediatrics/article/158/1/e2026077414/207901/Prevention-Screening-Diagnosis-and-Treatment-of). Pediatrics. 2026;158(1):e2026077414.
+16. NIH Office of Dietary Supplements. [Iron: Fact Sheet for Health Professionals](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/). 식품별 철 함량·생체이용률.
+
+### <mark style="color:orange;">허가·급여 확인 자료</mark>
+
+* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/). 경구철 및 정맥철의 제품별 허가사항.
+* 제조사 공개 제품정보: 부광약품 훼로바유서방정; 종근당 볼그레액; JW중외제약 페린젝트주 소아 용법·용량 변경 안내(2025). 처방 시 최신 품목정보/급여기준 조회.
+* KCD-9. 사용자 저장 자료 KCD9_251216(6).xlsx, 「상병분류기호(전체)」 및 「상병분류기호(완전코드)」. 2026.1.1. 시행.
+* 건강보험심사평가원. [철분주사제 보험인정기준: 고시 제2025-102호](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701&mtgMtrRegSno=0030&sno=2). 2025.7.1. 시행.
+* FDA. [Ferric carboxymaltose의 저인산혈증 boxed warning 안전성 서한](https://www.fda.gov/drugs/drug-safety-communications/fda-adds-boxed-warning-labeling-ferric-carboxymaltose-injection-injectafer-describe-risk-low). 2026.9.1. [미국 Injectafer 허가사항](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/203565s030lbl.pdf). 국내 허가·용량과 구분함.
+* EMA. [Parenteral iron-containing medicinal products: safety review](https://www.ema.europa.eu/en/medicines/human/referrals/parenteral-iron-containing-medicinal-products). 2026.9.3. 절차 개시(9.4. 공지); 확정된 일괄 금기 또는 사용중단 조치가 아님.
+* 서울특별시 중구보건소. [임산부 건강관리: 철분제 지원](https://www.junggu.seoul.kr/health/content.do?cmsid=15845).
+
+***
 
 ## <mark style="color:blue;">환자 안내서</mark>
 
@@ -428,7 +490,7 @@ D50.9 상세불명의 철결핍빈혈
 
 #### <mark style="color:$primary;">철분제는 어떻게 복용하나요?</mark>
 
-* 철분제를 복용하면 증상과 혈색소는 서서히 좋아집니다. 대개 2\~4주 후 혈액검사로 반응을 확인하며, 혈색소가 정상으로 돌아온 뒤에도 저장철을 채우기 위해 3\~6개월 정도 더 복용할 수 있습니다.
+* 철분제를 복용하면 증상과 혈색소는 서서히 좋아집니다. 대개 2\~4주 후 혈액검사로 반응을 확인하며, 혈색소가 정상으로 돌아온 뒤에도 저장철을 채우기 위해 약 3개월 더 복용하고 상태에 따라 기간을 늘릴 수 있습니다.
 * 복용 중 변이 검게 변하거나 변비·메스꺼움이 생길 수 있습니다. **불편하다고 임의로 끊거나 용량을 바꾸지 마시고 의료진에게 알려 주십시오.**
 
 #### <mark style="color:$primary;">이럴 때는 즉시 병원을 방문하세요</mark>
@@ -436,33 +498,3 @@ D50.9 상세불명의 철결핍빈혈
 * 흉통, 실신, 가만히 있어도 숨이 참
 * 피를 토하거나 혈변·끈적한 검은 변이 생김
 * 심한 어지럼이나 식은땀이 동반됨
-
-## 주요 참고문헌 및 확인 자료
-
-### ① 임상 근거
-
-1. Ko CW, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology. 2020.
-2. DeLoughery TG, et al. [AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review](https://gastro.org/clinical-guidance/management-of-iron-deficiency-anemia/). 2024.
-3. Snook J, et al. [British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults](https://gut.bmj.com/content/70/11/2030). Gut. 2021.
-4. Li N, et al. [The Efficacy and Safety of Vitamin C for Iron Supplementation in Adult Patients With Iron Deficiency Anemia](https://doi.org/10.1001/jamanetworkopen.2020.23644). JAMA Netw Open. 2020;3(11):e2023644.
-5. ACOG. Anemia in Pregnancy: Practice Bulletin No. 233. Obstet Gynecol. 2021.
-6. USPSTF. Iron Deficiency Anemia in Pregnant Persons: Screening and Supplementation. 2024.
-7. ESC. [2026 ESC Guidelines for the management of heart failure](https://doi.org/10.1093/eurheartj/ehag100). §10.4; Recommendation Table 19.
-8. Wolf M, et al. [Effects of Iron Isomaltoside vs Ferric Carboxymaltose on Hypophosphatemia in Iron-Deficiency Anemia: Two Randomized Clinical Trials](https://doi.org/10.1001/jama.2019.22450). JAMA. 2020.
-9. EMA. Intravenous Iron-Containing Medicinal Products: Recommendations to Manage Hypersensitivity Reactions. 2013.
-10. Carson JL, et al. Red Blood Cell Transfusion: 2023 AABB International Guidelines. JAMA. 2023; Pagano MB, et al. [AMI transfusion guideline](https://pubmed.ncbi.nlm.nih.gov/40825204/). Ann Intern Med. 2025.
-11. 보건복지부·한국영양학회. [2025 한국인 영양소 섭취기준 요약표](https://www.kns.or.kr/data/FileRoom/2025123102020340340.pdf). 철 권장섭취량.
-12. 질병관리청. 2024 국민건강통계 추이. 원고의 철 섭취량 통계 출처.
-13. BSG/ACPGBI. [Guidelines on the role of FIT in the endoscopic investigation of IDA](https://www.bsg.org.uk/clinical-resource/role-of-fit-in-the-investigation-of-ida). 2025.
-14. KDIGO. [2026 Anemia in CKD guideline](https://kdigo.org/guidelines/anemia-in-ckd/). CKD의 철분 치료 기준은 빈혈 챕터 참조.
-
-### ② 허가·급여 확인 자료
-
-* 식품의약품안전처. [의약품안전나라](https://nedrug.mfds.go.kr/). 경구철 및 정맥철의 제품별 허가사항.
-* 제조사 공개 제품정보: 부광약품 훼로바유서방정; JW중외제약 페린젝트주 소아 용법·용량 변경 안내(2025).
-* 건강보험심사평가원. [철분주사제 보험인정기준: 고시 제2025-102호](https://www.hira.or.kr/rc/insu/insuadtcrtr/InsuAdtCrtrPopup.do?mtgHmeDd=20250701&mtgMtrRegSno=0030&sno=2). 2025.7.1. 시행.
-* FDA. [Ferric carboxymaltose의 저인산혈증 boxed warning 안전성 서한](https://www.fda.gov/drugs/drug-safety-communications/fda-adds-boxed-warning-labeling-ferric-carboxymaltose-injection-injectafer-describe-risk-low). 2026.9.1. [미국 Injectafer 허가사항](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/203565s030lbl.pdf). 국내 허가·용량과 구분함.
-* EMA. [Parenteral iron-containing medicinal products: safety review](https://www.ema.europa.eu/en/medicines/human/referrals/parenteral-iron-containing-medicinal-products). 2026.9.3. 절차 개시; 확정된 일괄 금기 또는 사용중단 조치가 아님.
-* 서울특별시 중구보건소. [임산부 건강관리: 철분제 지원](https://www.junggu.seoul.kr/health/content.do?cmsid=15845).
-
-<!-- 검토 메모: 2025 한국인 영양소 섭취기준의 철 권장섭취량은 공식 요약표와 대조함. 2024 국민건강통계의 철 섭취량·표준오차·표 번호, 볼그레캡슐의 공급중단 완료일·볼그레액의 현재 수급, 전체 KCD-9 코드 목록과의 직접 대조는 미완료임. 해당 통계는 원고 수치를 유지하였으며 최신 공식 원표 확인이 필요함. --->
